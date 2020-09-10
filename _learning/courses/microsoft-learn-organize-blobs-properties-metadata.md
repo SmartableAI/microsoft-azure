@@ -1,14 +1,14 @@
 ---
 title: "Organize Azure storage blobs with properties and metadata"
-excerpt: "Compare the types of properties and metadata associated with Azure storage blobs, and examine the methods used to view and modify these values. Add code to ASP.NET Core apps to retrieve and modify metadata."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/organize-blobs-properties-metadata/
+excerpt: "Find out about Azure storage blob properties and metadata, how to organize blob data, and create an app with ASP.NET to retrieve metadata."
+webUrl: https://docs.microsoft.com/learn/modules/organize-blobs-properties-metadata/
 type: course
 price: Free
-length: 42 mins
+length: PT42M
 ratings:
   count: 59
   average: 4.355932
-heat: 50
+heat: 52
 
 provider:
   name: Microsoft Learn
@@ -29,8 +29,7 @@ images:
     width: 800
     height: 400
     isCached: true
-    title: "Organize Azure storage blobs with properties and metadata"
 
-secured: "Y7BeiWXmbeWodMvgaLCvV01HNmBEOVzJPinq2DAlatphjAWTQk9X3kXuKj059Musj6lzFjOiO8PQAUXfS8woTS3tBE4dKn2vYNzBxsBOr0uTY240hPHCFx6Dlipy2YIvFxoOnWJ35yPr5bI/toLG6TamyBIHdpie8VoTD5Qq+VH3bq0dXJPqyYVS1/X4Gj9KVQuqVmq/4Y9qRXoDhVrGXYE/7w2k/h1ddrVxLYZLLyQnq/LX5uBKf/eQwRAHeXN0bKKKR6R8nswj3Qdbkxlf9+hg5o/smFJZSliDQqqGyc+w05y82PgjxKrgyBsjAjPZOyqy197XXqMoD+CwcboY/Rkvt/Dl/FBqTAEDeP+oTKw3eDFi92ZIPrpiCRDFJFoZLnDu2Dh3fs/Z1S/XhJUTSDouDC4eHEu1SXJQP3fL2Gk=;w49ErPB0jPkNm3DlCBk+hw=="
+secured: "Gg9SyQmSsvdwaMfAzP23To3/Ihyzt+Q4Qaik284JDe4yLeMy+GP4dvAm6AjEiK2O28PY7hQ7BVx2R8TZ+ax0jWLgogQ15+wwJuhT3l/pprnHGohOmwaXWczr3BZq/C2xAbeJkHAZU/GUpiG4aLurJU28LBBmFDqqeNaugZyu3Lg0yktNGXfSZaFMoHcaZyqDHHYJWM7n7xwiVdUZsZHs7BFoExNUfmJRsS3KpGdWmW7c2OWJSpUM623fak9MtO0LpGKJrjyEPe5/cf0UfInE5M1IlPbK9Z+UZM/ItXr2of/Q5xdi9atveOSNL6SMVBP8U32LUwOnc9/PM46Y9k2Xy5wNPlpmtXY2LlO0t1h/6v6lSqma3jmDiie0lLYPipFxZL6FQdT62rh6QA+flDpfYA==;qqMBvnWxFThnA5Lx11uGnA=="
 ---
 

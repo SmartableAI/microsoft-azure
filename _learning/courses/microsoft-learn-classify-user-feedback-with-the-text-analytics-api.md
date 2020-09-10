@@ -1,14 +1,14 @@
 ---
 title: "Discover sentiment in text with the Text Analytics API"
-excerpt: "Learn what your customers are really saying about your product or brand when they send feedback. We'll create a solution that uses Azure Functions and the intelligence of the Text Analytics API to discover sentiment in text messages."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/classify-user-feedback-with-the-text-analytics-api/
+excerpt: "Learn how to use the Text Analytics API and Azure Functions to discover what your customers are really saying in their feedback about your products or brands."
+webUrl: https://docs.microsoft.com/learn/modules/classify-user-feedback-with-the-text-analytics-api/
 type: course
 price: Free
-length: 48 mins
+length: PT48M
 ratings:
   count: 1341
   average: 4.6196866
-heat: 56
+heat: 93
 
 provider:
   name: Microsoft Learn
@@ -24,19 +24,12 @@ levels:
 topics:
   - Azure
   - Databases
+  - Management Tools
   - Compute
   - Serverless
   - Storage
   - AI
-  - Management Tools
 
-images:
-  - url: https://docs.microsoft.com/learn/achievements/classify-user-feedback-with-the-text-analytics-api-social.png
-    width: 200
-    height: 200
-    isCached: true
-    title: "Discover sentiment in text with the Text Analytics API"
-
-secured: "Fm8bUPic/zFggH865S2nYwkUQSyxBoldtA1osBh1PMv491XGRJkgmY/prncxyqcIbklzf0YFuzc2LsZ2cXtfenCITV5oVPy2ebNjXcx6T85J//qLegWYHhG2QV25O75HCPZUePFba9J7+vWVxOkDvUFCDZe2zvebilzrwswBbk3PES3hkw/z7pdnGD1yEBxlRb6vsf+M4xl1Yjzu4j+AjRS9E/aowkfEaJ4J/k0gGs0TrpPT3KJ76JAdHkiahTEixJ5bkni0ExCqSvl4nerrmZae2LKciG+u1JeEWgQD0L4BMEpg8oOYjKPtMQzDthU2WQL98Y9S9VqfpO0m2y52GS6ix3GkWxkhejMk6iDowKyFY2agEUAMzBaGM6ErP+VTXnF+k87pbb+JZXLs60VKk4uRO1j9BJ+yihS50g1YCcs=;rIOcuBGtGFK3RC0eH0YmGA=="
+secured: "qQKr84MIy9QpSKi7Ju/FS75+i9srMc7ELBmrNEI7EpuE61GQFsfCI4mexR0+NdVirNUDOilcSvxbnZ4op1hPpaqIbNZmLH+oehnXlHUB5FEdQ2zHD+i5L6y3aVgCqFnratzG3Vjnegq6f6JvaODapemuOxUgUUbTWByfeV6NBAcUhNmZcQRgxH4Wq+pi36rUIN2BwbYQX0sjsKSchYvFsPanqMG3UUcTEHTb5ErEVSH/rMIyoT+LDaCtAgDBepaSJdpdGgHYu3AP88wqLk9wN6WJkJzFch9E5YLFBnMo88HX0jlzGeMt+XoD7PdW7wVRiQVltLkeV0wI6UdLofH1NdmshJicy0dlox8ySEelfTGDrRBU2fC1lDsWK1gprT4quQDBfF6xhz4/EFMbwtEtsw==;52ITWQBL7lj4RPnVIzW3Aw=="
 ---
 

@@ -4,7 +4,7 @@ excerpt: "Learn how to migrate open-source workloads from PostgreSQL and MySQL d
 type: collection
 price: Free
 length: PT3H8M
-heat: 60
+heat: 62
 
 provider:
   name: Microsoft Learn
@@ -33,11 +33,10 @@ topics:
   - Azure
 
 images:
-  - url: https://docs.microsoft.com/learn/achievements/learn-pr/achievements/introduction-to-open-source-database-migration-on-azure-social.png
+  - url: https://docs.microsoft.com/learn/achievements/introduction-to-open-source-database-migration-on-azure-social.png
     width: 800
     height: 400
     isCached: true
-    title: "Introduction to open-source database migration on Azure"
 
 secured: "Dichabruh4ztxv0Obgph4jQDGhyBOvnv01g5P69IHtRJL8qZUzLwmId2vphsDvR8+hjl4auY5dLoR1NbqgdG0K9MhHFHtjyxuILyygjEr+2Ri9sfPeMtVigOeaFcKQm4Dh6F15pe3CskCUnkmu9eXEmSRMr4Pnxk09Rem/XLOFo+IMY9AJ2G+6AptELCuZDBTA8oRQMqbQ4TdZDgvt5O0QRthzBLFefoZOvM4vE7d1HsBnwGDib5TS+dwJBECMlRS6LCkt9h6E6VFtPVe2ln536qZU57bO5jM+wrtDDxHjxnjFw29DZkjtvkGdnd/DcwsKusS2jqEbrQpIFtD9tz/A==;aNQKxz4QX9zZa1io9RkPeA=="
 ---

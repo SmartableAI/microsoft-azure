@@ -1,14 +1,14 @@
 ---
 title: "Identify governing practices for responsible AI in government"
-excerpt: "As AI becomes more prevalent, it’s imperative that governments have practices in place to ensure that it’s used responsibly. This starts with governments establishing their own guiding principles, then choosing and operationalizing a system of governance. We recognize that every government will have their own perspective on responsible AI, but we’re hopeful that our perspective will serve as a helpful starting point as they embark on their own AI journey."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/responsible-ai-governing-practices-government/
+excerpt: "Learn guiding principles for governments, and how to choose and operationalize a governance system to responsibly and successfully use AI in the public sector."
+webUrl: https://docs.microsoft.com/learn/modules/responsible-ai-governing-practices-government/
 type: course
 price: Free
-length: 42 mins
+length: PT42M
 ratings:
   count: 232
   average: 4.784483
-heat: 50
+heat: 59
 
 provider:
   name: Microsoft Learn
@@ -29,8 +29,7 @@ images:
     width: 800
     height: 400
     isCached: true
-    title: "Identify governing practices for responsible AI in government"
 
-secured: "AjxwYgJkVKC3xrhucONOWPWSSTayTfIRZGpxRgPQPTyvLSOyYTRhCfFSnf6Th28haDhb+XbI9KLXIpFKtMpJ0J+g6RZdcs/9iJXlP/WebD7vZGoegV2iOEY6oS1HhT0IoB1RhYl+jy+TuJP/N+Tf2AkJ4qjBXEUbe8H2v2NQXbugjcRWOSo3YqQd6L612UaOhdR252KCiizy6FAOV/vcF5STxW3rwOBsMTkRwiLnAbX5c7wWVPe1K3Z1B8APMVI65VZmJoIZvLmA08fZCgbmiCYcUnFec4IwWHkCvN88565THd3U4xuUjqp96jir2Tll3Lxo0zNwVPAip+VXaWVWQI6B4W7OrOiBJhw5zF+zkQwt0Uqt5NRFxeowEP0Xf+eebWG2MW3Kqi2MfuAGLwARdX+LhPeB4M5faEEzlPoMybQ=;C8htvALrRSLzsNe0IMq4UA=="
+secured: "ztIokDShSqnpoyrT7/mbANxQUPnr/xJ1QR1gMmfxg5rt6q1+3nZDhqa3nYGZG+TBh8TW+q+riookLg+12mp5w54EYnr3XIqv7a8xJ6JVDg9zE2Gq8KTpqMGNGr756jRTNQcK9UfXyrfRlLrgzKdyTfwb1cFUcHMW3kox6aGvced1LWOzbyB5MmZEgit/HdeG0bKNjPYpCR6PYsMv61e7OyGwN7Z5VlgM9kjCrbdB/y0S8mgJWhITJTmEs/9V1f17fg0yZSOEQGw9ZrDRlJUoeYyQuWNK8LEpo5jU7EDbskzxa8PYXdzKh+k1fn3UzuLzZPCHPQEBqnzkDP4JevOmesvKVvDS5EUDURny3WzfzWOS3BY3s5CyLYbBphMU142R4IFEh8oMrKpnGFCA8l1HaA==;e1pymfbuabtHKQDP56vSjw=="
 ---
 

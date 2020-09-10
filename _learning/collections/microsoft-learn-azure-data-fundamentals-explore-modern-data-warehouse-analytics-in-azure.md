@@ -4,7 +4,7 @@ excerpt: "Learn the fundamentals of database concepts in a cloud environment, ge
 type: collection
 price: Free
 length: PT1H55M
-heat: 53
+heat: 56
 
 provider:
   name: Microsoft Learn
@@ -35,7 +35,6 @@ images:
     width: 640
     height: 320
     isCached: true
-    title: "Examine components of a modern data warehouse"
 
 secured: "S1u+UA6PganppXF6rVR97E0w8nWQM0Lxj4aJMw7Q9yoaFSpl/jAyjrF0JAHrKzAMEnx4t3kquNkDriBdWD/DIazVWbS4uDGDzpR6aPc1e3CpxLTcJ7QrLLL0l10ydneUa3n2yHbFSxvL71HyfTQ0DdhTNkEVJpJd89gOOnehWriTHnU8xNovKEY8tpfoMwr8kLVJqagpX1iMvwuukp57HHTtZqPIscweBxrJmIJm16Z6BUls3aTS3O11/1aLKhxNckcpZUCJCpwL+7vri7t7mG4hxrpDK6qpOOmQ5PDJy77gh1Qe8Dabmfa5IJmAaobbeazMBfoWQjS1Q96gFpy4fQ==;rpqwvcWk+Krc7Kz4HrvtIA=="
 ---

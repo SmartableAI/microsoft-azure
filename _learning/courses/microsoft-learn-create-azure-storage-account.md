@@ -1,14 +1,14 @@
 ---
 title: "Create an Azure Storage account"
-excerpt: "Create an Azure Storage account with the correct options for your business needs."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/create-azure-storage-account/
+excerpt: "Discover ways to use an Azure Storage account to manage your data for billing, access, and storage location of your blobs, files, queues, and tables."
+webUrl: https://docs.microsoft.com/learn/modules/create-azure-storage-account/
 type: course
 price: Free
-length: 30 mins
+length: PT30M
 ratings:
-  count: 5671
-  average: 4.7518954
-heat: 68
+  count: 5672
+  average: 4.7519393
+heat: 159
 
 provider:
   name: Microsoft Learn
@@ -26,13 +26,6 @@ topics:
   - Storage
   - Management Tools
 
-images:
-  - url: https://docs.microsoft.com/learn/achievements/create-azure-storage-account-social.png
-    width: 200
-    height: 200
-    isCached: true
-    title: "Create an Azure Storage account"
-
-secured: "konmj6uOJrcfl63AJaZ/qgB3wGPJmrc5Dkd4SMAp3GQcxHnRs5ZQ9ulxQfHoD8VTHewFANocno1Cbi1Cm9DSG96y5pJnA63812BLk4Fy2G4PszYrOp6Og3PTJ02+WGqTfOyPBhoYzqhCeDXqOYAjbx68fqT67qtsPCpgPROI1bn7qsYKbX7CUPkMLm+zB5tVAZBTfl0Sr01X3pX6tqiWHV5Wcavw75Gb+bnfBsiLraonUj8iQpbUdAD73ctWgGDpRH8g6RpDEKvcOxgfmgHhhjIzy/6905RWiIXYlicJBZlrmdvv3eeMNYaQ/6AkEpXGRHl35hVvdtaRHNGR/E163j0xMvQ5o0E+IeQmqI+wn+hP17501XJkdnTOhjaSUE/3pYzlM3GEodu0/wx/wzqXMek5T4qGmFCALqemQTooYbo=;V2BSAmqcSZgvfcDQe5unhQ=="
+secured: "IKnJDaA9TUacIUSEVnGr8LQzTvA1KOmGP9pdCe2t6FDutHYHh9NF8Sntp+eEFKPtTV1Jbc7mvjGImfMtL2Ss4THIsMMsGowpc/9OJiqbmkYMrfjpCLfy44Q95ZQoLj7ZKiU/7Tf0sWODq8FiExtS40I1ecdlEOrvn/BHBD2BlpyleeBDRiyN3LR/m8o9gfU2yu9pCwGaIYWvlZfgBJGOm7mS2/Mfj/DYD2RVge20V7lfsih2IMhuYBWkdPUYZlrQWV3TScA2NVOyqg8W+EJm+W4PBN0wzZhNHW57R/VZ+bfwj3XRVIBGmgUxoGtkM4FRFmImC/LQyPbyhIHRs7KJ+pVpzE5TbQuu9GrkmMPiuwT0aXvIuDm6cUB+MZGz+F8nivh6Pjg0b3UhUyCuJOkBPw==;EZ342Sckeu21oygSW78g2w=="
 ---
 

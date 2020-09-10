@@ -1,10 +1,10 @@
 ---
 title: "Discover Microsoft safety guidelines for responsible conversational AI development"
 excerpt: "Learn Microsoft development guidelines for fair and secure responsible conversational AI."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/secure-responsible-conversational-ai/
+webUrl: https://docs.microsoft.com/learn/modules/secure-responsible-conversational-ai/
 type: course
 price: Free
-length: 36 mins
+length: PT36M
 ratings:
   count: 8
   average: 4.75
@@ -29,8 +29,7 @@ images:
     width: 800
     height: 400
     isCached: true
-    title: "Discover Microsoft safety guidelines for responsible conversational AI development"
 
-secured: "zuXKTqS2Dur4XhUSay1d5xhuV6ATmUAeaiSDGTCeWPIu+jLi6XPNfhImznmOhNbqr87QQRoVfgY2Mys6Pq9Y80iC8CwvGT0atyjJAAFVk8S5gK01DdZ2y8XK8VQF9btqrZw6Jna3fKx4HYdZPmOcTHAI2o6CO+w9AKKg/JVZbFMeLr9fC23FxgKBanpcNdim4pPkb/9p2kFjfIvz9bbG42qojc3Aa6+7COq8p9iw8g6QVQWcpgEUvwkQVSOXWqanwj6ybnaUF5E7XwSFwTduytFqoQzy2bUcnj7hYcuLG5NTxkrBykFCOEN1t4yrkdgF2PreOwNRsbNAwRXKmdVkezkHSXA7FrUFNi98B8pAQ4z4FimudqUv/NVr6MpAhcA+cGnnfAO3uzf5QH/pxZPKuJC2DjP2RYxtCZlVrELdggk=;P0Jjq3daJFPOp87t+mPAfA=="
+secured: "db9+M3+gsPgj+goSkNR4HyTm/gIpcQI78Wda74u5PTtmE4ppgUi4xtsxqvDt5JY06LAzSffqxqyOiGYgA4LC66PiAG9cK7x8hR3jtA91BHUMXeeQJMHhq2lgKpV7oBujVm9iYCsH1dBDt2hOZiM/RCkUhSsejRFbRgbEhCcYz/zubYq/OSM+/aUPNg9rGBhQ7uRvd3DtvUed6elZbPhaOI2xUEQXWyLKb5xnBN2MWf4+a5QC+CX1fAreEQFE/0i1Yx7ZCF3YROLc+Z/2ptlkG2W4xL5MSZZJBj2OuAd00tSweKs62AG4+g44R0D9SVvLmQjfqm86/tPyiB2FzLAecOdVRlimVfAUayQAI7bbZySSHWtlf4YO0qEqQrpYtxx+AWTnDADBICVzFAlRbbblOQ==;10GF9if5cBWhiW2LOG4ILg=="
 ---
 

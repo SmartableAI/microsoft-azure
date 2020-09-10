@@ -1,14 +1,14 @@
 ---
 title: "Introduction to Azure SQL"
-excerpt: "Introduction to Azure SQL"
-webUrl: https://docs.microsoft.com/en-us/learn/modules/azure-sql-intro/
+excerpt: "This module introduces Azure SQL. Learn about various deployment options and service tiers and what to use for your organization."
+webUrl: https://docs.microsoft.com/learn/modules/azure-sql-intro/
 type: course
 price: Free
 length: PT44M
 ratings:
   count: 165
   average: 4.721212
-heat: 55
+heat: 57
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     height: 325
     isCached: true
 
-secured: "YGoP7D66oxd+6f7ChOV0UA2Ua1ZXUm4xDZJYrb437s4tP6u1UbXSg3U1G5L1bqOKh5gXZ0HFr/2EW3L1PfMVXACcOCwugVW/tp0fT0WXVzkU/oKtCwqB53gvrhKilzyJeXF68ainMlfRbunWkuvN8MRx1ZZRew6VqiGoG7dwV4aCIW6kNJBhYoeNWPLM3j3ULTkInW6D9L8pSsupErK1MdBKLWyOcX1Eg0ZvM6oHPp+prS/3a9zWZbwbNKEuzIhS4tdQxs21ZsKQg0cvFMoEyP1OLVuIQBP537mGZU+OHbFyDihPg7zG+QFzVNM+mxbd2x7vWq0auHI/b5JUc8nNEJ9SB58R6MeXASlAoNWhHTYLx1mKnTOFud73Oq8fxghDHCbua+/OZXj8jeaej/CBU2IZ2OwqQNuf8YK8u3/SSn0=;puEszhx3nfYgNEiTRtMX+A=="
+secured: "DelhhVgj82sckfdDRQbDMwhwcmrRqWFUfRlTEXEdg+aZs7dz83cpBYPGLXGFYzbj2vMpoDcHStqFdPJ5YSA2CAXLFMAKqkJcpYgGaZTGcN0ceaWQzbUmKbquFJjcdyRVnB+9xcNhCotYGxe8alvCk6UElV2GGWb45UQxtefxnx39l42kny8+Y/W/ycEEG71WRzXk/gqHZEIuGsFaB5LTBjB8yfTSTJt5I0THMtpiS0cJ64NIVsSaQfrdqaguEuVG8f44oCn71t/VIO9byNxP9V4tAd61+hTdVewst/nSAzQh5m5l8nJmWXlCChD64lK1dNnYl3EnAwOjyJsBOIBfSoIcDB8hKbKanGgpdkS1B1eqr0wzz196K0rTqi00C3Qeb6y68zWj2Lsrx8QwnjyCDw==;kOUxTnLEqGR5GyaYefLDzg=="
 ---
 

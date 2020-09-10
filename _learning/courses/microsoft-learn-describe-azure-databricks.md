@@ -1,14 +1,14 @@
 ---
 title: "Describe Azure Databricks"
-excerpt: "Discover the capabilities of Azure Databricks and the Apache Spark notebook for processing huge files. Understand the Azure Databricks platform and identify the types of tasks well-suited for Apache Spark."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/describe-azure-databricks/
+excerpt: "Describe Azure Databricks"
+webUrl: https://docs.microsoft.com/learn/modules/describe-azure-databricks/
 type: course
 price: Free
 length: PT53M
 ratings:
-  count: 333
-  average: 4.4834833
-heat: 55
+  count: 334
+  average: 4.48503
+heat: 63
 
 provider:
   name: Microsoft Learn
@@ -31,8 +31,7 @@ images:
     width: 640
     height: 320
     isCached: true
-    title: "Describe Azure Databricks"
 
-secured: "eGSwVHbbdCkLYY8obckgbT1mY1gUe3N9E2w95MQFIQyadTyvbyPwyZgvXp/Vr2vNcMePWSZEf2TPjF8Mv4GXbqKKN2uFdsmYklQMe481sbLbhCUVnoAfOdP2FrMp+5X3m+bD7xwuX8QcognZXWXIkEciSn10ghvKsHFSR/vHCpttPTbGnf5sVdv7WIN++nRQzov+9GIMFdia/QP9yNkJHpA90A4zXD9TtFU2QzMabvxvqC0K9iDVKTUeHFuOeC4MDReHX/DgIzKvw9nu7nMuLR43ABSutE+966ppPwBC1k/Xc67uRL1o8wWzcjiw33ARxpnNQD0Fv0E+TBqHITYFEeGzSo00WxIC4l/bnMt7E4tnlalBE0RgY/19UhJ2CzaKRUtKWiyOhr8MlMh8dh5yhctTZGTAHW/x43YB701sjjo=;E5h/LrJgIy2ZKIhXh0NjNA=="
+secured: "VNX6wpZC/mJ1TqiQZw0vnylbPzhSSPxde3gVKFZxmlLt1jymx6s8nn14Ra1GRXqfIgWfj54SDoD4CncV6W56pTDvju+HHxxqZDy5w2RnawHMqVzlyiR1ft1nLFqri+Xu9wdBvsBagUwiDRzsIKH9n4GLx54B3/Q2gaY3XYgU9Qmri7dcIbOen9k/HOw2rzXcoeKqgyUPH06WueFke0CHzc78oLp6SWfo3yDAfJ1wVYZZhon/XkS6tQC2Xs/1RXJ1ku2HjC+245Y5Ud4CbJbqjuZw0lOwkbQN3GSMWJheHqIt7YbCwe9wv60nNn3l2gVPxPauVuHldqc+m4jOrCE9Vr0cYz7I7qzbmsRCm9ZIjIMpBMOgEPbV4CyOSK3IF2XQRh1UDcqKzeOInray/IikGg==;beJylj0mGvymzn/Cs+b6QA=="
 ---
 

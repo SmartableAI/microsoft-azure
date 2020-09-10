@@ -1,14 +1,14 @@
 ---
 title: "Choose an Agile approach to software development"
-excerpt: "Learn to foster the DevOps values of transparency and team cooperation with Azure Boards."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/choose-an-agile-approach/
+excerpt: "Learn with the Space Game web team how to use Azure Boards to implement Agile software practices along with DevOps transparency and collaboration."
+webUrl: https://docs.microsoft.com/learn/modules/choose-an-agile-approach/
 type: course
 price: Free
 length: PT40M
 ratings:
-  count: 5181
-  average: 4.745416
-heat: 56
+  count: 5182
+  average: 4.7454653
+heat: 154
 
 provider:
   name: Microsoft Learn
@@ -29,8 +29,7 @@ images:
     width: 800
     height: 400
     isCached: true
-    title: "Choose an Agile approach to software development"
 
-secured: "CYnwzccJz+LyAwfS9Msk5usdyrFX8nk5ctQl+xz5R+esF0tg7M6fBxTvGtU/7rvw+1Xe/JiGM5kQ/+t/BcIDhMr2piYf78dqIN+ZfEMT/7bFiMLtTBGTXApENTt1PaUm23GCFgU6Xea7L3BXPilXSetDD20i+AUbhLG4LYPSlcNZGdSb2JpW1apUNu/UU0qOMDF6o2Ko5yhEyu6IKTL0khbCJWwpsIWwX9lFMRtgu0j0lseq36IksIqqmrBZKC/WpBM40ppPH44phMiPBR4/A4ZL2FHjICAtqMxa8oMc3gzqqRqEuJEwak2r+kUnsD+kP2xGyTRB54TkZOLwNJ+QMpy7zysu5auXzbx0F7WFk7YZVVmBADaz7vjnnT0Fz2ipZd+ki6IF9fHiBuMs5wHQeL/tw6bZCFdKAcizda1vh0Y=;5hsRZjHa7emQoEW6+sYQLg=="
+secured: "NpuDqehVuXscCVN/unmrmDNxIErLa34kGbV17X+HH++gGGNetxQvXp9DUZncVzic2Eb1VtYj+K8buEhThLqkDlM5NiWSzLaumJfSwdpV/c2c/TJoko4iSDbi8GeikgRtl0WEAMSFnrqQias+9MSW1geeXxi3V/sokgsd91JadkA95D3tIiIjK1GRxtvi8ES13ARdXhPhxFVe7o41xvlZKunj8MmJeemPvespFxoTVMIlZj49UVMsFFcTRH613eCgVOQSJy1qQWfdhsQugpqkmiOkzPvYEfGYgtrxglvDuXhhS4oXUCsY0cUOERKJ/k33KsvMYa8grnlXnbUHPudEKWqK6Tb8G90e0D5gi0w1OlX0OWaX+Zh9fmJYwbd52g+BqmhWZJIw2eBFuzxjoAJaIw==;NdAIM6lWd33PvCgNR2lyaA=="
 ---
 

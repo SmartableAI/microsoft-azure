@@ -1,7 +1,7 @@
 ---
 title: "Perform model selection with hyperparameter tuning"
-excerpt: "Learn how to use modules from the Spark’s machine learning library for hyperparameter tuning and model selection."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/perform-model-selection-with-hyperparameter-tuning/
+excerpt: "Perform model selection with hyperparameter tuning"
+webUrl: https://docs.microsoft.com/learn/modules/perform-model-selection-with-hyperparameter-tuning/
 type: course
 price: Free
 length: PT33M
@@ -31,8 +31,7 @@ images:
     width: 640
     height: 320
     isCached: true
-    title: "Perform model selection with hyperparameter tuning"
 
-secured: "i1bHaABXAbSFGfJUsVCuytkl0w9b3TvC8bK7fTC+xtoFR18CNWOjvZpfWBa/0xaKc0KVZdderV6tZGuNWyVcLhh2XeVxYMWx5EtRbL48qM563X68wLE6/q6XjzZqqvWRQnIqnz5QlUBn7/MW4cP8kchpq+RuSuh75r6QhBHZJRekaw/QLegUtkdoit3Pc+meW7MTtJmbLpra13soz3YYg319mGDaXG9bghzkirAohiULTf9iAkUnE3uPUVdQ+5IZFF1sD0fRaCgzP/NFQV/5VjoHh87BvNl99DFPvBrpmzgJLV3SGb7QcKKbQtvmHH28fjuuOVV5On7rDm/FGkdqy0/xRRiTqKEB/PSef+YcHq0QSoo/tLts9lSRy85V+CywqUDNzI2juXtwLWEtb5eEFLxt/sEVSu3LEq8RfGDpgRg=;K7cAhH8zWQYTDrLxEH/ocg=="
+secured: "SZP7VcNwuAXcFVOWDgsy1LhZDmQj16AyBOaBZAhkg1oMtKYNMj9nxFxsf1E/Px85uYgFxeAXfJ6URaeM2lrIrArbssdp6QwK+vOagbRtdMJRco9g8N036xHpTpDBwyynP1lxOIG8tQ40oefbrxRBB03CgW2TYqY6zo3Zo4N3Bv+qUx5NTeNkQYFoTOiSVaABJj57sxiGQl8c3MZd7lH+ffd2OqRwqX8wM//4VWPiYZh4GJnftd4viS+UnxwfXofF8TpBYStbr3AM5sxvOX/dUBfnc/HiDrlnyzwHJTfw0dHt52nRu0sEG4ayhBKfrSSSRXDcuxD6LVP5L+ZAJVFFnGzaVAXCZzmUdeIUdqZcu+++6oTplW03FT/t3V3jjbOk5PUap/dtE/pq7292iXbQuA==;oN8g0z3T73+ZLepOaqBm6g=="
 ---
 

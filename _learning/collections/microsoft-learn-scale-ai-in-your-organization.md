@@ -4,7 +4,7 @@ excerpt: "In this learning path, you’ll get a high-level overview of how to ma
 type: collection
 price: Free
 length: PT1H11M
-heat: 50
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -33,7 +33,6 @@ images:
     width: 800
     height: 400
     isCached: true
-    title: "Implement AI in your organization"
 
 secured: "udsywUc9FGQFJoMEcGgvt0vvPMCM/Q6fxikr4gPJeR/pV3bBV3u+8CthOXtYgKNx5pAceLsiF1rsSCVqWGn831BfIcEih3vO+zAyl/5WvTZJV/bK1Qqt6YXT33SGNgYcepNyX67OqFl6hSTVyJxt8/i7UMpmLTvS/1weXPINqZaiYHqRTsiYm0Yzgqt9VpJWQqrYwRtABNWT+093yHse1aI/zsTec4HkVOL6CxYtkD0nqIBWqhSGn8N5VuTfc9DxDDMOSVJKLbxvOp603a00YBWU2SMKd93xcd5VENczVUpqDw+CQyQbsUdmvz27NRM5cFF6N3F7lZr9QfgMjwAfXw==;KyeOvlINphcthjp7K9cMpg=="
 ---

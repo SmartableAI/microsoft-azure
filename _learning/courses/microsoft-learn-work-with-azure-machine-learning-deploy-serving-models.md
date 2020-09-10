@@ -1,7 +1,7 @@
 ---
 title: "Work with Azure Machine Learning to deploy serving models"
-excerpt: "Learn how to use MLflow and Azure Machine Learning service register, package, and deploy a trained model to both Azure Container Instance, and Azure Kubernetes Service as a scoring web service."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/work-with-azure-machine-learning-deploy-serving-models/
+excerpt: "Work with Azure Machine Learning to deploy serving models"
+webUrl: https://docs.microsoft.com/learn/modules/work-with-azure-machine-learning-deploy-serving-models/
 type: course
 price: Free
 length: PT23M
@@ -31,8 +31,7 @@ images:
     width: 640
     height: 320
     isCached: true
-    title: "Work with Azure Machine Learning to deploy serving models"
 
-secured: "QA4jh4dvf30K7/VgvUGJPeziZPAZ5OxPQTyRqR0U83L4v98n0NBFtnnbuNFD1jPUfncUx80FVS2iNUf7i7peNfZ/g01TGsb6IsPUl1dNQDQfRGlWhhd2/7CbyhD2K5l/yIw8rrh7aKfw+71vrhMECKS/Bb72EmWkIIC1nQuY5G8TFWs6nqRHcxBfzSJdsFeKksQoTzF1FvrkatdQKvLunUnWhYDquDrbS9mHyaJxvNAgGdNJdqkksL4yipTrh9PZsHjnpAGQrkgbIfOsdPsEaMdPrZ84+aGQzPRHM19eQ5uuUyBqq2oVl+0vC3X5FTL5hpkci1x5xooUyyXYz2MYIF+GZpDZHgHGjoEf346DMrsVPk5ig3oNsSX/qVr4d+ST7x3JTbhdZlrwFzp6OhyCj+ndmmk1/g1qXxbWFlYRd0s=;s7zBJ4sfpMAlKn2yZOqdjQ=="
+secured: "hoJUG0leS817xvqla2VcZBeWqv3boP14WpN3VYHk108OMS7WLLXj/+oJtouZ9tUPV+AMZ6mZ2XibEZdiLTCDAXeJlVxO+ydAdUyKjiOu8ISqZGNd7/Bx/9cjRQPFBGjZ32XZ9lUBIJbP1Sx1XfJoDq3KsDDmMwB79vQWYvrK5ioeBLA3+vhGmB3JA/2nnHoISX4w+ugT73MqdQZBvOF8QYqmXuHFGJGh48i6zsqlMtOBsbBVD8d40zD/7VND2vO4URlv47s7+vAug/pFOMQUoC9Kf7xcr/q9xMSxceh2hBniQQxir5x2NqfFzT7UrdYUbogxewb1ueGMRmXPMes3ZAjRJvKdZJngQezEAZjhAYmuiZFCco8MNWRZzkc3qdCcavhx+L7GyXFNpDM6/WBnQQ==;ih/PsT3lGGWvrfhVjutFRw=="
 ---
 

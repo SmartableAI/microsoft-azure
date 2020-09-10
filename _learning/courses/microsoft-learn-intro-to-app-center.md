@@ -1,14 +1,14 @@
 ---
 title: "Introduction to App Center"
-excerpt: "Characterize the types of services offered by App Center. Describe the use of App Center to build, distribute, test, and analyze usage of apps."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/intro-to-app-center/
+excerpt: "Explore Azure App services to find ways to simplify creation and integration as you build, distribute, test, and analyze usage of yours apps."
+webUrl: https://docs.microsoft.com/learn/modules/intro-to-app-center/
 type: course
 price: Free
-length: 49 mins
+length: PT49M
 ratings:
   count: 241
   average: 4.493776
-heat: 51
+heat: 59
 
 provider:
   name: Microsoft Learn
@@ -30,8 +30,7 @@ images:
     width: 800
     height: 400
     isCached: true
-    title: "Introduction to App Center"
 
-secured: "/WNm+gPn9vjdHcol3LKL0bGkmr0PAaLoALK7zFXw1BrS2A/1pW3EJ248rchBPB49peZQAhBBst5LM1DtHONzB/zltL3lGbgHVweY68eizt60rIxhkhM8ADeB6u4dqsUduY+PLEL+lHOc1LqfiPYEY0wAcq/8j6JAPUYDvnV0M4A1AORijl9+han3QdS8OVB7CoQrXN1Of4OOzjTpyO7+47Rd/mWHC6NWEGYa5569zoZAUyT5e7Bk6rQAoz1qlu1fVJt17LYgd/VyiExRBXPI/TC1hlMJnkR5V7shnUi4Z5Plbmr3B2oxDJyiAcLMgaEw8PofExvc02FgJqxQIbItawviI8PExSKmT08rT0Y+OVVJDJc43XadL9V5SaoEzSFFfpVNKifSB/qFon/BYHUui4NyuXWksEOXjcNE4wDENdU=;fAKru8PPu/ZwzM8UBUWPUQ=="
+secured: "yoc6f1UrnbHyJzsmy4T0URpXRay8gIKcpVcpRUJn2jNxIzrg0E5qz0d11uSASjnIoPyCO10vcI0oKfcMkG1P7z3X9uH007Q/UexlEc8doJLFjuAdmlFJk9L/UcODF3nsEZLOaIku5qTO69ls2ngVj0GglQO6WEe+nYWQ7GjXwRcliZc9OJmBoPxNXJEZY7tWu8nyxvbNn0JQdH4tL+EjLToW87YHd+cbYXqDZsh039RRO/5XRfS+HTCT0JluXstc367/ec39yv5+xnJKSIEnHg+fQQFmJedYjtiiWX9U6dJrPdsJ5GuqvXh2nrpiBEG/y4UMWD3Oay8ep/VKyOsbrbIRcgpLlBXSgV9W6z2XqqGZ246OQ1xiIWMaLIizQtPZFi/JquWgEwogvn91bZ9MZA==;zBnJTJl3QEEmngwlQC5xkw=="
 ---
 

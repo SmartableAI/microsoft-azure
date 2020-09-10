@@ -1,14 +1,14 @@
 ---
 title: "Call an API from a Logic Apps workflow using a custom connector"
-excerpt: "Call any Web API from a Logic App using the custom connector."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/logic-apps-and-custom-connectors/
+excerpt: "In this module, learn to create a Logic Apps custom connector to call an API from a Logic Apps workflow."
+webUrl: https://docs.microsoft.com/learn/modules/logic-apps-and-custom-connectors/
 type: course
 price: Free
-length: 40 mins
+length: PT40M
 ratings:
   count: 495
   average: 4.569697
-heat: 51
+heat: 68
 
 provider:
   name: Microsoft Learn
@@ -32,8 +32,7 @@ images:
     width: 800
     height: 400
     isCached: true
-    title: "Call an API from a Logic Apps workflow using a custom connector"
 
-secured: "So6IUp65NLRqZ+nyTdLDd7W6o+vsYhoNERu8L75+tqsZz3A9UbNqBadI1BglFaeAsWqZcnjrUBYpIIpKItDd33l+YhJfYR4eCYi8QdIap57Iy4j9VIvTameV5DpjjEcG4FQnBRP1gNHqkcgUkJyJPIjxS3nA6CAWggsiuVhqXRtNoap9jozAJfIHctGEIm2WKa4RpM9a8FPO0jfJ1Fklu9VODPRixv5wF/iRZ/gFQAcEigJ4nBAhGA4mP73ZdE5eKSxRBpe/NfudWly4cojgC0/iB6Ov8Xo4VLgDLJbI8bK2Pjx5HPNjFt3QH8/HuDb4ZJ2pmma6l4BMkXbq23AqJaFti4o8Y8KLRRSdjlp/YVsC+BQXd5z6N/o71l5FZGjO4YjJ75ZyTpQr8gvaD/sE0buB4Rq/b782+Jygj8Ci//k=;3sKt+TaVreFnixT1CnKV/A=="
+secured: "ylTtoPgHf3hZXOmz+OuoShQO+cP1rD0p3Bf8LIkAm7qE8b2IOcEmdTM0FkQeSWMhJWmrlKUzGQI2Ubp5bPrLwX1AEUb5P2xmn4+VlaDPN03PjZa5ziGQmEHWhFxIAPbvMSvTbYdMLS0OeuY4Hc2u7iis9t1QgEf8DDpWscjPsAGUmLOm59239AbnLwnCLVS6HlOpvn0zF/pfbU+RaUxZLKvwo3P2q+3ozgzne/PAqOtDIkcO9AggPjZ7FkJ+E0LskjXxlXima4KU3dzusmd3Q2F4yhc1I0HQevnkAcR7dq93999VFMs6s0Zw3Ev93ZRyz72kPwDkITa5nqF9ONguU64rRijrrGukvQT3bBF5WMp2Kj7SmLY1uxSswZly2VFOdgqUL+uUisAjkLocCpvEXw==;lQrYhaZSOqEZlTJjkX56zw=="
 ---
 

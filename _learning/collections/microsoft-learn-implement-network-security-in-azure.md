@@ -4,7 +4,7 @@ excerpt: "Learn how to configure, protect, and isolate your networks in Azure."
 type: collection
 price: Free
 length: PT5H27M
-heat: 69
+heat: 157
 
 provider:
   name: Microsoft Learn
@@ -38,11 +38,10 @@ topics:
   - Networking
 
 images:
-  - url: https://docs.microsoft.com/learn/achievements/intro-to-security-in-azure-social.png
-    width: 200
-    height: 200
+  - url: https://docs.microsoft.com/learn/achievements/secure-and-isolate-with-nsg-and-service-endpoints-social.png
+    width: 800
+    height: 400
     isCached: true
-    title: "Security, responsibility, and trust in Azure"
 
 secured: "Cah7C7g8dI7UpTU4stsLSUTSSa5gIXLHKhlyCrVG7Nx2/HQdN2OqfAKMJ7Z4zXorNljOudCfs28AwEyFK/4mrsGq0jYdNwq8RRrROYBEwKAs1aAeMiy/UcBwRAFK2awovRQv73arx62b+67QWOImYUaTnwC70vNM0q+5oMUbQeklf2FptsVPZruf8kElWov/T83tbPaCoQZeU2lycm+Iq8/kq/bnssGo1mfbXI1vzMdcMmNRG0hQMoCYJ5i/QTwx15hWAd2qggnaor/NxBQO2YsrzPsrJiGdPOL1V6zKWdLdnPBGf7Z+kTBuwi4fU/QJmgITA3qLcx6r2sUrqOpoAQ==;K4eaqvjGjNIeU98gAbxcWg=="
 ---

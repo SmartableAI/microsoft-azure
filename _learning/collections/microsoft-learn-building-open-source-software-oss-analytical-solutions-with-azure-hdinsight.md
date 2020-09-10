@@ -4,7 +4,7 @@ excerpt: "In this learning path, the learner will be introduced to HDInsight and
 type: collection
 price: Free
 length: PT4H36M
-heat: 60
+heat: 67
 
 provider:
   name: Microsoft Learn
@@ -42,7 +42,6 @@ images:
     width: 800
     height: 400
     isCached: true
-    title: "Introduction to the Open source Analytics Offering"
 
 secured: "FE9GaG8vhefh112LPNd8knYXBDMs1Cd78RhuDNKCSVKPY5DVxY5N3ZhuX9mwoCZSw8afM9RM68Ne2p/I/2y3ybnxPzCMpSHYDRtK2ZocY2T+lg0aWoAyUepRJwSj9oMmcw2oDCvcs3wkUVby/84Bilauo6YnassKAeYIPnofwgJjkQudYn4+/KO3cdtvMUl48vUv8Ic7LyDO037ymTr3JgFCRLSXIUkUankZqK17EU8QsrVJyCPmYsmV3Q0VpoyCbzux+V5lS3tLIT9+Osr4O+PwnD+n+wOsPmSJ9j0SAfdQTjOO1WR8DeUHVvEmor7exlUQcP1kKfiW7bc72rCJHw==;B8sbbNecjfcHSitk32Zfjw=="
 ---

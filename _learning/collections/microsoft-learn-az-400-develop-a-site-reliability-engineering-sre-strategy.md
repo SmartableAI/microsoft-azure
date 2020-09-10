@@ -4,7 +4,7 @@ excerpt: "Learn how Site Reliability Engineering enables you to sustainably achi
 type: collection
 price: Free
 length: PT7H46M
-heat: 70
+heat: 99
 
 provider:
   name: Microsoft Learn
@@ -45,11 +45,10 @@ topics:
   - Compute
 
 images:
-  - url: https://docs.microsoft.com/learn/achievements/intro-to-site-reliability-engineering-sre-social.png
-    width: 200
-    height: 200
+  - url: https://docs.microsoft.com/learn/achievements/incident-response-with-alerting-on-azure-social.png
+    width: 800
+    height: 400
     isCached: true
-    title: "Introduction to Site Reliability Engineering (SRE)"
 
 secured: "GQEFRTN53vE8e1P2PWmym6UeTr9Svb95A55Qe2xLXYpHgRqezE91oZ50PHww0NNRJoWa+my6R6lDO6PcZiuX/EbkaJ/qpAwnyKD7uNeQq68Guuvc/OnYvhmzcD9eijcfiqoMx6PhGGkp2Qbhe3TsPQ+l8d/l8spAvzgMEs0YenLO/t8+nzal0OQ3YKjG5hyHv3J1TdtsV/+IVO7eoH+9yuY5IwO7uWKKgkJOJIDxtIiDMRz5zck2bH/OffVdh19eaSZ74JBZhjhc8If0gxbhCHR7q6vChvYU9lfalOVibSGEo4bYmgvv+EjsO4r1pyWTLioDN+MUmKCI9R+AT7cbRA==;ESgI0RECsaAbFiEtBa7kLw=="
 ---

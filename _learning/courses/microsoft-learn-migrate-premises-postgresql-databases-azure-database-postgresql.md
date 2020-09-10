@@ -1,14 +1,14 @@
 ---
 title: "Migrate on-premises PostgreSQL databases to Azure Database for PostgreSQL"
-excerpt: "In this module, you'll learn about the benefits of migrating PostgreSQL workloads to Azure, you'll see how to create an Azure Database for PostgreSQL instance and how to migrate on-premises PostgreSQL databases to Azure."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/migrate-on-premises-postgresql-databases/
+excerpt: "Migrate on-premises PostgreSQL to Azure Database for PostgreSQL"
+webUrl: https://docs.microsoft.com/learn/modules/migrate-on-premises-postgresql-databases/
 type: course
 price: Free
-length: 50 mins
+length: PT50M
 ratings:
   count: 50
   average: 4.78
-heat: 50
+heat: 52
 
 provider:
   name: Microsoft Learn
@@ -23,16 +23,13 @@ levels:
 
 topics:
   - Azure
-  - Migration
-  - Databases
 
 images:
-  - url: https://docs.microsoft.com/learn/achievements/learn-pr/achievements/migrate-onpremises-postgresql-db-azure-db-social.png
+  - url: https://docs.microsoft.com/learn/achievements/migrate-onpremises-postgresql-db-azure-db-social.png
     width: 800
     height: 400
     isCached: true
-    title: "Migrate on-premises PostgreSQL databases to Azure Database for PostgreSQL"
 
-secured: "4OmyD9+aqLk3UaLliHXGJjNnccHYrroUTAf20vkpD6IqcTDpxGq57sUdeDCgO9TgK0XT4qTdRlJiKPNlJ0lgH/Hjr2qIJfXnjbZACk9BrE7808o4cFw24HQLlc/5cfMXYyh6/u8IF9/JBD2GwEpr5xvoavFLEPV8Cv1aTM2qsWoyjNi49WlLZtc509G24CuBhnWnv4YMSMruDp72nU6+0/MmNSp7Nr6RF9G5dYI2FyOGqUFEwbtC/QFotBc7XKTh3UiH1hlDSsdp1bjEWZuqPatVezjZqGw+fzN69bqEbyeqk2gmiNVZtx6RkUUMAJ64whsctQs+lC9vosZNt9mvYvlL3BgcrQAKIqMO339Kvu1sCSXQwAZVCjtYRBbhsg4gfYcS4qIlHeG5gcv2YHqZqyR8Fl6PAGitEJiDoYHGBZA=;GYD+kHJfgGBn7rMRXe79OA=="
+secured: "EQZnAXtJv3PDOF0qmW4n1shvKGxV81ra/NTiAMn783eq++keT3OHii0/tuGo8FJiT1c5DxMr4MUOS0NRdOMNcaFnOxxlPrg46Ca+t0RIJin2jzoeGkhs2yG1AyGVVcBMvVSawJYZVFcfeqaTC6/Wqyd+htU8VQeJ+IyzfVGAq1dM1gLUtL4uajF91DU8IVAuISEw3Ff3M/5BDO84iE7roMHOOn5vnvPrI+qGvwN3PZRERbW7NaWKr76vbSlx/O3X6w8yDw9CsOAkqlsPJ+W2L3k4XK11fNGInUyjc+6ouaBfchwm+iWsGhl1An6WBXb/j/u960EeITFIjMaiVpRs/0X+F0m7oQdnHrH4fps0gtWsa1NHR0h/E5ycuLYscTNqie00bGDEBohAkvMoTDA9AA==;vIw6M06RauA+OgedrRy2DA=="
 ---
 

@@ -1,14 +1,14 @@
 ---
 title: "Improve application scalability and resiliency by using Azure Load Balancer"
-excerpt: "Discuss the different load balancers in Azure and how to choose the right Azure load balancer solution to meet your requirements."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/improve-app-scalability-resiliency-with-load-balancer/
+excerpt: "In this module, you will learn how to use Azure Load Balancer to distribute traffic between multiple virtual servers or services."
+webUrl: https://docs.microsoft.com/learn/modules/improve-app-scalability-resiliency-with-load-balancer/
 type: course
 price: Free
-length: 47 mins
+length: PT47M
 ratings:
-  count: 1831
-  average: 4.7165484
-heat: 58
+  count: 1832
+  average: 4.716703
+heat: 104
 
 provider:
   name: Microsoft Learn
@@ -30,8 +30,7 @@ images:
     width: 800
     height: 400
     isCached: true
-    title: "Improve application scalability and resiliency by using Azure Load Balancer"
 
-secured: "ZwIhjJKSKYWcSE/oCIRq4LP5J+6npX7cRMIe+k4G5w77d3GS/uAJ3g7eFrUuqj+AEOT/XLyaiDQpreXttxKIAwU0vVAOQgtzGy8XjG5DTS+6jPHZbVq62gHxZ45vzHbva/i2cQMlH708oLr2LLnha6iA4+c0GjsxzSPy1+rM29OkbLDBoLLly6JXC0W1Ub5V+IsUzgx3gmA2SizIOlTsVCSnMFK8tSfeh/UxE9MiGnn9Wb1qad/70f1FQbu58K0BluyALd1hnF+QnhRjBAOPysm+/0WTIcqGyJYmEb1lLnsbFTLoNfNWh0IYeY1Tca1YNhA43x/pHXQx4vlQWWPz3uWcv2yw3P199nWJ1UJ4x99dGFM8If9q8ewdTmWv5RuEzXKSgkPo8x3lRvq1eSWzKjc0Sy4li0XWiRenG8xLQMQ=;1zTmCGdo7GO/zYvWHfQJ0g=="
+secured: "SXR5fCyXw7JeLW9P3n1V8whZ251pKdJR2eW+J0kDBkYFg9HlHb+wgIOTipZ5aJ80VzKWm3TN6927TjMY3jq8gdxT/OQBKYY16p/XM/4E7+LHcOBPv+JFNTHGPh1tl+WrWumX0hnckQ8K9B7vW1M3oABUjmmqpLgNmngSRgkjryGx3e3brVKNMvjdKeLF2rq8aHxn2MKPgWEAYCx4C+/arV+FAi19r2GCxcefrIlSh122DLaks2VbER+u6cH3KsuxzM6ppONAsZHC4IgqL+b7LJCdTv99xRq4FQeqibKEicvqTvEWg1iNkJDr1kdx3q65Xmuvejhd+mNpCvHQhIetXcBCvVC4URSHsJnm1EIHOCeMAyG0c+sgpTgBffXWmTfDQ0L3YKRB1MPBz//tVOblfw==;qtKQ37UzYS8qi+WBzBVk8Q=="
 ---
 

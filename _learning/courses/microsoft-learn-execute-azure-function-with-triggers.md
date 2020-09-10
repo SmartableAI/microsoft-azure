@@ -1,14 +1,14 @@
 ---
 title: "Execute an Azure Function with triggers"
-excerpt: "A trigger is responsible for executing an Azure function and there are dozens of triggers to choose from. This module will you show you some of the most common types of triggers and how to configure them to execute your logic."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/execute-azure-function-with-triggers/
+excerpt: "This module demos some of the most common types of triggers for executing Azure Functions and how to configure them to execute your logic."
+webUrl: https://docs.microsoft.com/learn/modules/execute-azure-function-with-triggers/
 type: course
 price: Free
-length: 83 mins
+length: PT1H23M
 ratings:
   count: 3228
   average: 4.701673
-heat: 62
+heat: 129
 
 provider:
   name: Microsoft Learn
@@ -27,13 +27,6 @@ topics:
   - Serverless
   - Management Tools
 
-images:
-  - url: https://docs.microsoft.com/learn/achievements/execute-azure-function-with-triggers-social.png
-    width: 200
-    height: 200
-    isCached: true
-    title: "Execute an Azure Function with triggers"
-
-secured: "DcstlK3misyVBCu24J/jTesl09iwD3sz+l4SG+A7MjL4FxhKpuRlsmpXlrnRp9ZjkHVkhCD0Miakp52phm8aVqFETsyLpTqA2hfQqu/YXyQvsjBllUOqJCnV6+jW3qz1/cqq9qysRRLMsyaayH+EtAKxoTEoFuez60YI8njmayR96FPaYlaBThnedpGpRVbM40VQW+kGnrO5hNt3aOoytqeAeFpn7Kqj/FSLneHPTyR65HJmZX2VxVyo2rzWzwNOGHwX/3AxT0TEPKG3m6/VHXQPGYAa6n+Tbirv0fh6gR8xcFr5no+/1nLptEQcOBe0pkhKYvHAs2dhOUjpRBOdCRaFM/JoKO5X1jtjpCK430zbbqA8+U4jx+lOBEfy2EccojLeVOMkeDa91Ut/f2KxQpAm/GmemXhwejS+RSqiPOU=;3N2tIQ0NkPnBGGTBtM1A6w=="
+secured: "Yofqhr+qmC3A/YBQCIZgKe/hdBWmpP8mq06Q9qQoWn5ylGyFZhD5rst2kKnZxqYLNEOvbcyXNIBwzsNmgRTYArhFCpiqPnAAJqrgf0t9+48EKV+SedRSc7pvZDjuhdJYs4Kd/iKYZSJ+ZVI0n28W5PSVa9o8J6sK8lb9OW/mZyIJPhWFkX7YA5aM34mYcdgPtZbOmg5H8nky00bZndFpmL8r7DGznVtfdC0grQjcTxZnHXmqjG45ndi47Y4T0Yt0kGMog8VxzPSEaHJZLMt3o2SJH0eJYFY4mNsPkDDc/lmqWk9rJrhXnx0F+dTY+u5PAo8j2qW42LWq2lfGq0ku+0cZdFRDlJ7VodXB13+axt0+4YY+tXp+LGKykNEea/lJLd/PmrHVMOl8uYhaNGnFjg==;tN3BrdPHJMF4vzFNgeKlBw=="
 ---
 

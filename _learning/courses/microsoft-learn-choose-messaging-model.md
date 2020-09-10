@@ -1,14 +1,14 @@
 ---
 title: "Choose a messaging model in Azure to loosely connect your services"
-excerpt: "When you have an application that consists of components running on different computers, servers, and mobile devices, reliable communications between those components can be difficult and unreliable. Azure provides several technologies that you can use to communicate more reliably, including Storage queues, Event Hubs, Event Grid, and Service Bus. This module shows you how to choose the best technology for your communication task."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/choose-a-messaging-model-in-azure-to-connect-your-services/
+excerpt: "Learn how Azure's storage queues, event hubs, event grid, and service bus can improve your communication between devices."
+webUrl: https://docs.microsoft.com/learn/modules/choose-a-messaging-model-in-azure-to-connect-your-services/
 type: course
 price: Free
-length: 45 mins
+length: PT45M
 ratings:
-  count: 2952
-  average: 4.5813007
-heat: 59
+  count: 2953
+  average: 4.581443
+heat: 123
 
 provider:
   name: Microsoft Learn
@@ -27,13 +27,6 @@ topics:
   - IoT
   - Analytics
 
-images:
-  - url: https://docs.microsoft.com/learn/achievements/choose-a-messaging-model-in-azure-to-connect-your-services-social.png
-    width: 200
-    height: 200
-    isCached: true
-    title: "Choose a messaging model in Azure to loosely connect your services"
-
-secured: "VrIoQnp6gWU98vLuYxxQonmau1n/H0NFcVITOd0vOXlm/aQXrUSrkALyZNNwHn0pj9FMGq21xfsSnalQk1U49rUTKK+6yjx9BWgxiqhTlzP0R3iroXDFragJE/KZn18/rOSUAmEzLPibsQnNpl7d1McFPvyY2QqUQIy267OtCfv1Uw+U/DQW04m64UlPU2kmPdS8DFNNqcpcsJEnrfLzZ8bBMT+KSzS9VUnpOvVKaV8w8vxPILoKZply9iBu1dUJmf8Jarf7npcPeUpZ6o4fzHn4PIbu1HfVBkiKzJNhPyUOfsoFMQWIKE2Wy+AzOUEE4mAk9Bpflu3PGGxEWNt4zcmcylAwkTKWukp1cQqtBRkSZS394w3eq6A9epjQ74GI4RkbQs0gLLoANgJEnv+msSoE+DPDyYjJk5Z0/co+EtQ=;JhldPUkzFZ6Jtznn7QafHg=="
+secured: "p8xdmV/bCqvbOsOS8Z6bU483Qtrp0MmQw2gK2oysSevcGzc8oYAnivNHFF57/Z6QxjKP0Pdixep24LoXfMGTh0n9RqdAkzVvVumJ320C74S0ypJSfeg349/3YShovp3o+bDXa9OysqUzg/LbkPUkq5fxKPkFztofs2HroEih7RnQxN1mh0rXbW6MIrU55bZQiuXmKFQ8o53BszdZQTAVRe40rY5CBhOLe20sfJnnZHbZfvRQR+aWjZi+dzugAM1VJF3vyffqC1z8D+K31Xyg/rbwjNFv1zdDljtAWMUFjGAP1PWDrkiq1snWVFd4PHB+lNlHuFAzXdj/C5zxkSloy9FXxT1nOGglQ1E9GH07xzb0K8WZCJNJz45qP/i9+m5HUDhI8AxbY7W5J6s+A2MPsQ==;624FkOTFfJBd5cKzcTb20A=="
 ---
 

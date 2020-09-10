@@ -4,7 +4,7 @@ excerpt: "Learn how to configure security policies and manage security alerts wi
 type: collection
 price: Free
 length: PT6H49M
-heat: 72
+heat: 129
 
 provider:
   name: Microsoft Learn
@@ -47,11 +47,10 @@ topics:
   - Web
 
 images:
-  - url: https://docs.microsoft.com/learn/achievements/intro-to-security-in-azure-social.png
-    width: 200
-    height: 200
+  - url: https://docs.microsoft.com/learn/achievements/create-security-baselines-social.png
+    width: 800
+    height: 400
     isCached: true
-    title: "Security, responsibility, and trust in Azure"
 
 secured: "natTWHEWkgTlN/2yfT9/d1iqwOZWkxWkvbtm/bf/YfBsksIz6k/qNmQAnK8+ahSMbZeOtZb9Io7/DRvEvZ9pWarOOYmfLRg30KzQA4pkcj+ZGx124gUWB6awJoxzMGU2xr7UfIvf+MZu1sECZIap2DeGTCl3qVYXDGy0zpxg9Zn1Vsk4L0CNJQy1zOLzP395RAIrQTFHHnw4oCwOmDAf4NvS0PcFq1THOhoD9ja0KN1ngGUihAbiF/+VitBN0L9+ofdIdEgWv48nJ3YFzsnb0qZts4rH4c/Bc4nZPRUSY9bDVUDa31e0Ob80AUiqjymiMspi9HMg+Dnfbk0fQufcxQ==;poyKKCgRyqh8NBR7dvRK9g=="
 ---

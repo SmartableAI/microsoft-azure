@@ -4,7 +4,7 @@ excerpt: "As an IT Professional experienced in SAP solutions, you need to unders
 type: collection
 price: Free
 length: PT3H9M
-heat: 60
+heat: 74
 
 provider:
   name: Microsoft Learn
@@ -37,7 +37,6 @@ images:
     width: 800
     height: 400
     isCached: true
-    title: "Introduction to Azure for SAP workloads"
 
 secured: "DYpoKbWz9NDXpBkpMzEkfkQMNN3sJ45CebEXn4OVr8dSE9qwjDsnWe5KooGRYOtAHomnktoKyU16IP+Q3IyNRvb9wDmjnxHneIqtMRZJAkebrYYFHYONCjLfD2kfvqep4ckfwbT+siiDbLUVWrOfnqWlFYzLvu2utX4J6wXFR6WURW52nhq4zTfnydYtCCQTaYZfG/W2lUutE20qi/L6VmWcZDGiTsDUigY4Vga/EVbteazACB9NqzdTvRL14CpZ3x/+gfYx/7XV5KmUIPOLxL3YbxkOF0MJk7cobdVzweKuAxvRw3yNkJl4k2kMWBqCApY4rZ0OFKfU+1/Vez+1FA==;A+w41W9ej1SqkrNHTGKoDg=="
 ---

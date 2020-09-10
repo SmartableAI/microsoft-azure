@@ -1,14 +1,14 @@
 ---
 title: "Define an AI strategy to create value in government"
-excerpt: "In government, decision-makers must take into account specific public sector considerations before they can realize the true transformational power of AI. Government agencies need to think strategically about AI – and they need to start today. To create real value, a comprehensive understanding of all the strategic components is required."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/ai-strategy-in-government/
+excerpt: "Explore the strategic components, special factors, and use cases of an AI strategy in Government that creates value, with INSEAD and Microsoft."
+webUrl: https://docs.microsoft.com/learn/modules/ai-strategy-in-government/
 type: course
 price: Free
-length: 47 mins
+length: PT47M
 ratings:
   count: 590
   average: 4.7288136
-heat: 51
+heat: 72
 
 provider:
   name: Microsoft Learn
@@ -23,15 +23,13 @@ levels:
 
 topics:
   - Azure
-  - AI
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/ai-strategy-in-government-social.png
     width: 800
     height: 400
     isCached: true
-    title: "Define an AI strategy to create value in government"
 
-secured: "RDxnE8H11LI6G48mMIeVp8f1Q5dN/HQpnd/XrlTYtT01RtQ8032RzOkNCCeONoZv3oqXPiUDHyAAdIJkNsAMU9fyYCYUBwANDVPEzlofNgqyj0zfWDNwMsNUdM8VUS0PmnZZvjittKU/9rnb5KD9NkSmJ11//7T8k7SP8I4xIE4oHqEI3BP+5xeLEJe+j4BHcBRMJkrKNFbIkd6Xziaj6wWoOhbXlqu9oSxwagSPwQzwY+8RHmNlNHQ4bUZCjpLcq7l1eh9YEeMtuD3ye5S/e/vwUlR5MzbOUq6P8v2QWiQlzzvdC/wooOwRvwzgjJkMzFMCeaV+RWHlz0DlHUXhqRqE97Vl7FH3L73gQXxpbg/rZ8Jfi9HlhimZnnocgDH4ZcMyA68D7ueGqdKpPSFV2llGetEh7csG5oSfYk/uwUI=;OCIzSk8YsCPTJ7ViBXJe6Q=="
+secured: "/3roMdPSmxbfYnwJC54/cSoC5LDOGAwyGMHb5gmdMS+iyYlUON+adKtxVJhf/zTkPQP7nhW1mfi1EOkXOtQzO9PLPYB14ZOgePJqPUvJZLyONOszyhZ4vV8SL3FL6wkSDFOMhDpyOm5WX8YQ/lXnhvsPohyhzFcr2vHxCkTcuuEIo+NuC0HU1++hZMbftxOQVMelOT/pRTmdQu7EkVTo/k1wVxHAAYThBudLKw3OWml1BgC95uGrp1CLTY8ukY3pujjsjZsN4BvWE5CgdCbMiXLRcYiNSvwUkgVlqh4/68ZOR3+N/+pvF+yve16tVsWvmsf4zg1gBdhJeAWMi4SrbqsjlF+Hwu4psU/jUkoQyeBSgTixssoNynAklKW7Fy99hyZc19jpUKtJFH8NZjXKzw==;dgASxIH8xfX9gbHuyJULaQ=="
 ---
 

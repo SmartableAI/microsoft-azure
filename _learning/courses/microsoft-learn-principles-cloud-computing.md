@@ -1,14 +1,14 @@
 ---
 title: "Cloud Concepts - Principles of cloud computing"
-excerpt: "Explore the core concepts of cloud computing and how it can help your business."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/principles-cloud-computing/
+excerpt: "Explore the core concepts and benefits of cloud computing as you learn how to choose a cloud deployment model customized for your organization."
+webUrl: https://docs.microsoft.com/learn/modules/principles-cloud-computing/
 type: course
 price: Free
-length: 62 mins
+length: PT1H2M
 ratings:
-  count: 162273
-  average: 4.771977
-heat: 198
+  count: 162295
+  average: 4.771983
+heat: 384
 
 provider:
   name: Microsoft Learn
@@ -25,13 +25,6 @@ topics:
   - Azure
   - Management Tools
 
-images:
-  - url: https://docs.microsoft.com/learn/achievements/principles-cloud-computing-social.png
-    width: 200
-    height: 200
-    isCached: true
-    title: "Cloud Concepts - Principles of cloud computing"
-
-secured: "Tkoz4ljoa23ZGsxUdWoRZu3WCy15jl01fK/Q4ytolbZSElDJ0YpIQ2XFH8Is+XrCiTniyTKOUQo3H/2UiAFj/Xw8I9XQkeS/VyWunzxz4R4KlhLOkRor5YnRN7UwGec7fNSjmNxqdXAUUkv8hljPku9bNeinCMg8X1oGlimCwlfCzws4qRDYfHUelaJQvbUG6xRFA0G+1uphec2sIm1rcu62Tds4t9SgPyIRIjGS0bCOyE29Y/4QbYMve0BEMMhuW2d9M9MMJWgFZixs5/ctyYxZqlpnJV2uTwd/+Qx0AguQtCNNrKFCZcNAjAwVSL/gdYReHeiEbMF/KwoyqJQtfyznlmpU49AEP5/O78mxR4TSxHfSGlPTNgEplSd2vh41/IMrHB/0AP6+xjvERe6ziA5PIqvqTwgOdKnuCQpdoFpfaxJw3R4JVLhI3IU0azNA;A47CKbfE1SofQHdyR42NhQ=="
+secured: "aUls5kdQzjI6YdeyqIwtE+jKTYfWHklvobwdJpQA+gRxZvSQA0o196cFINfzYnURVayUJpSSQcYvJHKgWVTAIEneZFqCJkmaVxIvJy5AeaC488RQMIM//T9IIohCNm4vrIQvfDEj+uCE7W4fDQ6lnM+GmX9ds+SxmB3u4NLIgPQ/qERidRINI1f5ydcoe+3CTUnk9r4YlzpkJAiPtZQkdX4pAA1ydl2YJJviiMSpvoEvQHBF2fVjsMF0PiykZTkpBTOEKQ2N3X1L7hk1Bv2G1HpFQAFs8pfP3H03ZSlkNwsDyvHDXTLpT4NjrlD7+OP9CdZPktNh/StWhyVKgLn2+Qjk7wbNyRVJpUGBEfPzZG+ElJxrPGIenJIcYq+1MsSP85XXIBgZPDEw2hSg412uSg==;/bBeZsW+HsgivMBskkQBaA=="
 ---
 

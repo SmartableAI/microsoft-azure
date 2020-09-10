@@ -1,7 +1,7 @@
 ---
 title: "Implement scale and high availability with Windows Server VM"
 excerpt: "You'll learn how to implement scaling for virtual machine scale sets and load-balanced VMs. You'll also learn how to implement Azure Site Recovery."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/implement-scale-high-availability-windows-server-virtual-machine/
+webUrl: https://docs.microsoft.com/learn/modules/implement-scale-high-availability-windows-server-virtual-machine/
 type: course
 price: Free
 length: PT58M
@@ -32,6 +32,6 @@ images:
     height: 320
     isCached: true
 
-secured: "dhb9mFKToBbeR3rzKckrP9s+bnnRZe8kDtNWjk0TTi+lbYNWONuaCGrnGuoC96Om4wbZbI8zZHDEvLELK7Uth8skc9f+d1rBPO+FSwhe8OPpyGnDrh9s2a6pB+1oEd/4cCpl4cWFLBbuUCOKRI234mGiI0wz2uAaziMSrRReK1UmpJcK7tCUf/ru2SxOidN0lL4xQJWUSh66S02T8/u/7Z4DSIbkRVpdNhOtl/alEjJyWdDwHps6fdR94cd9AmLsxdv7Noortsfp9tT0BLrIoBXjYxCs/+CIv02jsAYioUr8WNdJ4YgWaEnQD7r3TzPANYTMB4FkFII9hxeo+98GIJmDY0JL+Ra2ZMPuUqc4IUIp3OcMdRkBar93KGXxvQbxWQn4NGSANUx4Mquonylu5sYGS8dSOEp4nY/jRqsDe3Q=;YvpZ+Pawf21K3o2aQstJ4A=="
+secured: "zTLc3DiA5fPybYY0c5OO3+TAGHVNDT/7aCpczmpYPFqBuXNRIWRvnrh7nO2w8IbseQ9fl7Vf7Z94/pbEI5zMNS9FmG4J92R6CP1L6bwLz0XQ1aJ6dAL9DLh76spFKxrv9iwJ21z70RyVbedtpO2bpKe+VbBKetK9mbuKy03sRiAEGA4rhwhS/s3705DZ+o6Qz5lwjg61epY7KfmVXZmVV8PAAlU5BKqGS4XaW8MWa3Pjz8hp9pO2weRd/xKD+kBEthAt+f2u2RZdfBXs5HCrYLaUJboQYTOuq9Zeyqxrti8z0WjulJTxw4IWvE76ZOD4lKZVFUTlbVpP9OI3UbvPpr7YI5M4TyKfM2Bq0EU20gqC6506AHBPJ3Y5pNDHg9xVCzDwo/kSWEW5peSL9s8aaw==;3RQh7csLHsP+7L5eWrETCA=="
 ---
 

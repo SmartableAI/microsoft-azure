@@ -1,14 +1,14 @@
 ---
 title: "Introduction to Site Reliability Engineering (SRE)"
-excerpt: "Organizations big and small have started to realize just how crucial system and application reliability is to their business. They’ve also learned just how difficult it is to maintain that reliability while iterating at the speed demanded by the marketplace. Site Reliability Engineering (SRE) is a proven approach to this challenge."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/intro-to-site-reliability-engineering/
+excerpt: "Learn about SRE, an engineering discipline that helps you sustainably achieve the appropriate level of reliability in your systems, services, and products."
+webUrl: https://docs.microsoft.com/learn/modules/intro-to-site-reliability-engineering/
 type: course
 price: Free
-length: 55 mins
+length: PT55M
 ratings:
   count: 475
   average: 4.722105
-heat: 56
+heat: 68
 
 provider:
   name: Microsoft Learn
@@ -24,13 +24,6 @@ levels:
 topics:
   - Azure
 
-images:
-  - url: https://docs.microsoft.com/learn/achievements/intro-to-site-reliability-engineering-sre-social.png
-    width: 200
-    height: 200
-    isCached: true
-    title: "Introduction to Site Reliability Engineering (SRE)"
-
-secured: "clzSse7F6MlXWuYVH3S3LY/XThrrXd0v8WcGMwus42RF8qmQbrS6St31b5H3jF2cFN3wDCVjT0T54SI4N1UKjMPCUssVw4WfC289oIGUmA39C1SunBSz2Lg142pZHUL+xP+OmcWQ+ywlUIpuLZy673qJ7F1/dk4yyQYFH7SNE+tIoJvM05EiwZohWx0m9XdCdhA1MSK0rImPePZriIlM5F1MV+KfuoTTIZYH/cKRqAQ8Zp5T0ojCt0WhyG1e8PS5noOmy4zctg6XOfujKGDLaAp9jxVT8xW3QnpwJoKo/A9PuSINiDPM0CP26DxUewkvoRht+7PcMVh4g4SQoa3O05gQ9NnomcmFSVPAV9UkjbioMEDihnDjRJDdHrqlzOIxPsu8oICS/jU1Z/0hHMeMPbS5ve+lcGf8g09Vb/cO590=;o9iaUkIVyrj6WD6Pm7r0oQ=="
+secured: "/acZZPTDMUcQvtM6wVtWllCVFPONa0f/iMYe6iyxfdnIchDxFgJiEVnPDY0986VJhwTqIbXdR28xwEZ/yERUfXvNyShIeeFh2Zk9xogK76L+Ylu8vud/hNPIYzSKNFTFZvhIMXXWk5hOAni3feKzJizgRE5dV4nlOB5ZM0jflwuwIQHQQxqa4c3zDgDj2XLieSLeqtg3yscsSnu8PIzuOHzWQl3mQeRu/WWHYGOJE8R/Id2miqWfgKHdoSdiVLCPvWcFD50Wh2pwi2Qnzl3jVpnZ7kG1slkLQ85wmByqbSiXWbI2ouAKxMjUhEPnC2zaPKb/XRGjdHZb7RqWk3ZF6zg1bPEObnYb9M/J1+pP/h0ZfWc92y6EDCu59Sa44dImwRH294dmEuaa7Sim3zi5FA==;7rXw+BEOqJi7vnjSvkfK6g=="
 ---
 

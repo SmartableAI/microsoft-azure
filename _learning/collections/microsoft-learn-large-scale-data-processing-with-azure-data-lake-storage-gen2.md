@@ -4,7 +4,7 @@ excerpt: "In this learning path, you will see how Azure Data Lake Storage can ma
 type: collection
 price: Free
 length: PT2H5M
-heat: 53
+heat: 100
 
 provider:
   name: Microsoft Learn
@@ -38,7 +38,6 @@ images:
     width: 800
     height: 400
     isCached: true
-    title: "Introduction to Azure Data Lake storage"
 
 secured: "t3BDdF1/1aaR8BJGPDW9tdECGm+msx4++gh0l0dVi5hZ8wcACOsoXtqHgA3uRVugw8ncSErSxkdpLfvjEzxMnPvMj7bdg2FjZ+UyTWoeFlknM39YUXRwrfzjxJRN+zz3+E5wXmosXw+79KQYqYgYZiP8C8GGSWT0W0540zLetH4QiWwWTtbQa62w7j6tlP/OkwiwXigkZmwm5ziAfTEcnfxWdEAtZkOC+MfQAgyksQ6h3VrotF/bNK5d5wDqINHyCV40H2sodAIEGUUYDAvwocZcSattQm7Hexrt1PU93sYaVbkxCEuR5lkPOQvR6glvH/WnyFpGhsXL1RptkHIdMw==;JSU6vdh8bfvhpWq2Rb27FA=="
 ---

@@ -1,14 +1,14 @@
 ---
 title: "Secure your Azure SQL Database"
-excerpt: "Secure your Azure SQL Database to keep your data secure and diagnose potential security concerns as they happen."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/secure-your-azure-sql-database/
+excerpt: "Secure an Azure SQL database to keep the information safe and diagnose potential security concerns as they happen."
+webUrl: https://docs.microsoft.com/learn/modules/secure-your-azure-sql-database/
 type: course
 price: Free
-length: 67 mins
+length: PT1H7M
 ratings:
-  count: 3898
-  average: 4.531811
-heat: 56
+  count: 3899
+  average: 4.5319314
+heat: 136
 
 provider:
   name: Microsoft Learn
@@ -23,16 +23,9 @@ levels:
 
 topics:
   - Azure
-  - Databases
   - Management Tools
+  - Databases
 
-images:
-  - url: https://docs.microsoft.com/learn/achievements/secure-your-azure-sql-database-social.png
-    width: 200
-    height: 200
-    isCached: true
-    title: "Secure your Azure SQL Database"
-
-secured: "4L/tJR5yCoSqpVHj25qTbtcJ4vNeaKHXmvOnRyQcJvxxWVRbCU9eun8ndn9x0b7Q67zNEKiPpF8huWcUdHrMYsiR0tvmBjSIwRvVEQHV82aQb7XiKgAX388SKl0RkH28QKPGeYvTjnFuiXthJqAFE60V1lpqUUJze9ycPiQWIG5keY6kY3+LnP7NkaeerWZFxpNEpo7JTAAYomQmNyT9EvHMdUwwAiAxMWKgqzHJjEMLCKadvUFDKwthzDm/qX1zNPEIDzb5W5lOZqAqKMCn198ze5KdsS0iVRJI6uWWSaQyd8iZc+QVA0lv/uom3tvMErfgw1SY00yRv4DCTXv6rc6nkaYc9i5Sv8WWdMMuMlxvrIGyMAilwMcP8ERhTEagsFG+pUIo3xlefh5Kdfj0opMwGZ6TByRFWZgbuIiJ6ck=;HN/hZ4fKjUZGM7XsTfi3Pg=="
+secured: "uDrKtGDejbf0vwjaYUxfn7lyyO+J1/0VzImusGr+HJPLlOz+LIuH6LaMF+A8UaS0U4YTP+FJm2znSTcYDQLKi0AzQVHCbGxVApGt68pN8dcI53zOl6kKLdAybag58ATZWuF50BerPZ1OBwCN72G4UoYvv0rdSM7hw7Xk4ECjrYvVhetdbtz39zle7/OGvaarU8ovx80f49G8FSC0Kj4DfnReoXES0bqJpcPGnYqeth0RqBEcoI5CUCin6se5YBBS02jkhgOXvRqHq/YysEYSvIpRuo9f5hN0YtGKNl63OTagRYeA5sCpooYRCVKdhgA+y8/LXNZxO/iQWKjlN02D5zsu+ToiwXMIFZqGcOa0eL/cmfb55mg2KWvQ5SPgtj2uo2ghy5YrV4RcxMq3nk+MFA==;soWFgnrx3JKdjil/Q0vnPQ=="
 ---
 

@@ -1,14 +1,14 @@
 ---
 title: "Choose the best Azure service to automate your business processes"
-excerpt: "Microsoft Azure provides several different ways to host and execute code or workflows without using Virtual Machines (VMs) including Azure Functions, Microsoft Power Automate, Azure Logic Apps, and Azure WebJobs. In this module, you will learn about these technologies and how to choose the right one for a given scenario."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/choose-azure-service-to-integrate-and-automate-business-processes/
+excerpt: "In this module, we'll discuss how to choose the appropriate Azure service to integrate and automate business processes."
+webUrl: https://docs.microsoft.com/learn/modules/choose-azure-service-to-integrate-and-automate-business-processes/
 type: course
 price: Free
-length: 44 mins
+length: PT44M
 ratings:
-  count: 9609
-  average: 4.567697
-heat: 80
+  count: 9611
+  average: 4.5677867
+heat: 188
 
 provider:
   name: Microsoft Learn
@@ -29,8 +29,7 @@ images:
     width: 800
     height: 400
     isCached: true
-    title: "Choose the best Azure service to automate your business processes"
 
-secured: "kmgbEDm2v/0ciDJcYkPip9VqPWqjlVyGXgysCyMBf7WVvo59WMwwblm2Qvp6yXsdukIXWBJwFXfzOae208C1kwXVw2pLnMUmDaKkn1U4smNMQXkeQMtig4E1O3A9RgNdODoKF81hAtKYETb1EhHR+9/4hav5oTVLtuDNA13/dcji+5vkuq+Sa7l9WEf8zvQ3upmxLkuhb5pWap2DZ5MtPrGoVJrkiyqgR9f6Dwjmm5syLQPyzKb2H8lKhVjFNqWzjH+i5sOpxgPrVDyegHnmuuC9Jw9hOccf+nW/fIHUgh8zeewWEu71gJznNI+fHnFAhBZ9mdMqfPLp2dxzEhRkmip843628Vp1N0H8xgiHWkc9RGV/oLY+KVuK69trclq9RqKgD50LVOQTcYsZ24Xtj/Jd3K0WSMlMU7bBpNsKmFI=;fhUgTCLqdpdxiJWH31zgMA=="
+secured: "el8y6+agU5F7mPjKD3vwCwviAUkVlJmvT/dDchwquuADU1DdKE5RHojheITT12wlinf053it+rVKB1xG2LogXli3EIeEmT5gSTe4wZtF2dTPyjmIaBWHNF/GGaOfcMveoiqfY0l8u71Ibm5vkyGSh9rxbeqsGUi6rCETOVr+b9SIh5lV+WuXsC5FnFdkhMpvnMNjzW0LhX78AwaKpbzWqrrd0N+553KjJwKLSo/IYIHMFMP69ad1E7oR27vmQwBUVzI8+pHNiYv6TLw7AvvZIkfJrql8Xbf8l186uZL9/e8tKXMWwuwz6SB6OVqnGmLFs0fhE6paGsUqiaucUD0nQWKyvaU0kq4d086Fq8/nUabi3aMv4t9VgotgyIxELG67bR2TC6IfxjoprbDlIIM3LQ==;W37ZGzo6UBVvtocYO+S4NA=="
 ---
 

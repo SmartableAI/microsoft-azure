@@ -1,14 +1,14 @@
 ---
 title: "Host your domain on Azure DNS"
-excerpt: "Create a DNS zone for your domain name. Create DNS records to map the URL to an IP address. Test that the domain name resolves to your web server."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/host-domain-azure-dns/
+excerpt: "Learn how to host your domain on Azure DNS."
+webUrl: https://docs.microsoft.com/learn/modules/host-domain-azure-dns/
 type: course
 price: Free
-length: 43 mins
+length: PT43M
 ratings:
   count: 230
   average: 4.6869564
-heat: 52
+heat: 59
 
 provider:
   name: Microsoft Learn
@@ -30,8 +30,7 @@ images:
     width: 800
     height: 400
     isCached: true
-    title: "Host your domain on Azure DNS"
 
-secured: "eBMCTdGfA9RRkTtnVUhICDZtsyleO/pu30sjhjcRMPsE8+nP0gZDQzpiwi/6Lf8nwQh7PNZr9bWZTz2UDyFnnLxkk9rEz7U/dTlmronQT/ThaIHKjUDVCcSXZHyp4DtNBiTD82znZU6Flfv86jiYQVF1frCf5aGXvde7kqdlnc2URWkK20Iy9QkN3pqTqfpolcC6jlIl1O+Vpdrfb1fiMVD0xRpUw6VrChs6PATE45d20SOuoF1JMDmXJhzXPqR2F+eZzsnmPqiGWcYA3Ojr3mNJz+o9tVInBvqw8EfbCNUgs82bIn5g+xVmdn+HZSqYEgVUsfnGkG7CMcdvXk9738FIALbOjtoSxG+J7lvyNx6DUf4ydU/ai6FsA8VxNMkUfK0rmqLG2PsV1GvABQ35RcopmemVnDGWYlYBIrb3Fng=;H8pcBo41fl0RqwM6ttZxyg=="
+secured: "FrXpMO4bEpWLMxpFf8Q0wXq9qhJ/hwGWAlhgYDatXZO8kJn9QPfL8p3ggB3i54S0K16XqCVddrVXWdVHdfP37RJUkrjOyRDJrlCf1ESkTqckNs8OGJBRDngSk8b2LhUn7Ei6lzoYBqCr2njKVsFhWauBNYDnyAF/P9UWa3x9eNjDrszhZ2ZdJEcq65iH+fcatLe3BJrfg3mYGnXj1oCy9A+jZlr8lSE9i5kiYWaQ4ILQ9wSuDkI+o8eHDb2i6I/+lPWUjVhPiyOyEIQDnEZUsfUK/ZP3rZkc1zDZWsETZGiJsGXh0C1bnGX5hsQHnBZ1KDZfqn5Cl7AGWZPZ/sTrG/sBkddk5655+SLt7uFsVFXy5Ldu1DuRpKsSD7vw9Ty+Y/Jw1Xgrm2JBkFP7z+G1eg==;t4g5aXyXwX4GzubZafuOoA=="
 ---
 

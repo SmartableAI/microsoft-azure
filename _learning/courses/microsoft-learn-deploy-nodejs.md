@@ -1,7 +1,7 @@
 ---
 title: "Automate Node.js deployments with Azure Pipelines"
 excerpt: "Implement CI/CD pipeline for Node.js applications."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/deploy-nodejs/
+webUrl: https://docs.microsoft.com/learn/modules/deploy-nodejs/
 type: course
 price: Free
 length: PT44M
@@ -30,8 +30,7 @@ images:
     width: 640
     height: 320
     isCached: true
-    title: "Automate Node.js deployments with Azure Pipelines"
 
-secured: "D67J4ByjHHKeiotBB/7RucxcI4KQyuTul/MbuBmdRW2gcKESDmqKcGfBw7Xs0m7iLJkK+yf0MUgJOMjETf/cYeNrjS8kXIRmkRYsmVoHXterq8AE0bTP26gtYe1j6mIRRx72vhut9yjdXMCylF+3eQIm1r9NAdm3OK73TZmt9/wP+OHnzhKfRYTIno0/OqPSA2AcqpFQUp0fDQUw5OsW+jNNHWO/xNlPOnzheSK8Gt9ziXzkWUOD0wD8eLhhtF812cszrvzAOEyE2DIBMnG2BSeSjUVOEVwLC+kv1f/Ns4fXLcBilW6iKTATYW6Mf84kzXjKfKlA2s6MVPC2BOUVEjnNbcQY/7MqeDcIc1mBn2KOjxwO72ZXuAHgVeopNFGH/y63LP2VpOTRHPwAce6s60n1OoBmzfUpLUgA6l3ZkmM=;njY3+y4VzT1JZb9NJfbxZA=="
+secured: "+2nphu5DNMD7fTZWYSbZ+PlKDQwj/EAqh1EViDOViCi72+IlXzj1gxpXXx8fko71fzosx2r8hUniQeM/JK/YrAtkkJCXDEAj5+Wh6/73SommDTwrjfvZp2t5UAtayy5yijQMUKIZ5q0ZLsnv68hz9I/kehdcXNN+1gAid4MLrTssaMpBT8Mw+JcfHx0a/LpVXTP9o91F4/RPFRDIznvOc0dTUIOwMt0URc51yJRgD2SJzdPFYBWxYncwHYmPHD2s5K5q+TSui0s8wxwEFF/aW8XpeVqB6KjJRnTFLviGOE8oOkJHM32EOXCA2zQEju5GC4joyzVcscQqinE34FutV5Bh0BW2F2bvhlhDL8GWNhf4pcuIp49jZpIqqAERbvZ6b6syWFztHuqgc0KEx/qxVg==;J04tXe2nPzKUknkbVPVY1Q=="
 ---
 

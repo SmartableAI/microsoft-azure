@@ -1,14 +1,14 @@
 ---
 title: "Choose the right disk storage for your virtual machine workload"
 excerpt: "Azure provides a variety of disk storage options for virtual machine workloads. Identify the features of capabilities of each type to ensure your application performs optimally."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/choose-the-right-disk-storage-for-vm-workload/
+webUrl: https://docs.microsoft.com/learn/modules/choose-the-right-disk-storage-for-vm-workload/
 type: course
 price: Free
-length: 24 mins
+length: PT24M
 ratings:
-  count: 1513
-  average: 4.6582947
-heat: 56
+  count: 1514
+  average: 4.6585207
+heat: 97
 
 provider:
   name: Microsoft Learn
@@ -30,8 +30,7 @@ images:
     width: 800
     height: 400
     isCached: true
-    title: "Choose the right disk storage for your virtual machine workload"
 
-secured: "MZK3augpxXjV5OeyINNflFchSMGVuSmryU/k/ab3IbDw5D8zFQFgwo/qLTanfKv9YMb8kKrfHmuZNn9fiKKdtwoEvOo8m/8PvmS+i/sPGTVxJq76bwB25qdQdY7c1zouL34ngfqUycmcx/Txu1gdbrNuMTAx6Xzwf31f748D/4dSYfaSkB+Ina76IK6aJFya5yQGY/pw1/i9QaVTYcAzFj7bN2ij1xQFFQzKWKWAskW281MBhoPhgBns1COaDS8nAbbl/YBWIbcolNC/pznGGgYbOpA+sbXskPcxRvasbCJo0djDNp+UYLpHIVQWoglSXaiohUa+APwwMj4cNyCy8jx6fBZXgeaxzsu/10l7CM8pi/GhfvFk/wl/Qz71crSQEh3We10Xr50nKWJv/wCefcX9fhqXEEP9Fc0ecNBl0JE=;E+bwTmt3uECNSD3nYvyD5Q=="
+secured: "Ab7nsyNA2mLpix9mJwTkUwvY4Rj57/0kWuG3cxsEbppwmkXwGSutb73uUelBu/RS+2CVWl+M8Az+Wng9IdjBBvtBqiWiOWyyyGlVdmk6WD6QpKS42cV0DClEf0TmaswSrKlMl7Hx0kRi5F/lHOZBRa29DSYTREWJJYMCDF7IQwpXL/TPZIaPuGtetKq/fMPRbED6MAmOQmKEFcgWiAwNZ12TlC1+I7WB+CKtTKEBid3HHOMMRYJOeNCfI+6TnG9GYThsOpig1FSs4lwQ1qkNctln93sH1k2yPRLiYlJ4v0d/Kb7+JJUXM0fMhKv98h6gxRfMQG9qkygjRbxsbFg1KXAbUc3s5XLDysbmYxmaQPqYninREpjbjrxrrih39mTnhBBtMV825wjYuyBAfDBDVw==;UufROUIo7nOw4qnujER5hg=="
 ---
 

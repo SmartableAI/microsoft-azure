@@ -1,14 +1,14 @@
 ---
 title: "Run quality tests in your build pipeline by using Azure Pipelines"
-excerpt: "Set up automated testing in your pipeline to improve code quality."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/run-quality-tests-build-pipeline/
+excerpt: "Find out about automated testing that proves your code to be maintainable, understandable, and functioning without repetitive manual testing."
+webUrl: https://docs.microsoft.com/learn/modules/run-quality-tests-build-pipeline/
 type: course
 price: Free
 length: PT1H22M
 ratings:
-  count: 2950
-  average: 4.7247458
-heat: 53
+  count: 2951
+  average: 4.724839
+heat: 125
 
 provider:
   name: Microsoft Learn
@@ -29,8 +29,7 @@ images:
     width: 800
     height: 400
     isCached: true
-    title: "Run quality tests in your build pipeline by using Azure Pipelines"
 
-secured: "9Yo/rv8k1qC81Nvsgo9doRXcjR2f35gOssVseq7SKS7Xe/2orZI5mA+6B1arWHcp1ioOWyaYflcwcCqtjJkt1XGx+jGxHPkr/Q/whPnWjptt1WNXZZm2a5vgEHzq2fGXJ19J99RjCYaIZwr5xobCA+9G1RcvHtr7TJybAjC3wX0dGSv3VylRoeDXrq5HKbpF7llq1YG08YYBYl4OMXEFvBVQRC1KvkcOhGk0g7mhpZT3Q6cU8nNdAwxCx56pjBmsesfErUMwYqUpzvxWPjkQeJAc0CFVBJm0W4yExvUIFl9+lv0VgAYFqvoLAawIs8BcZnulvl03b0aPqh1bzAwWt5WM4Ca20S+x1IPn1BN0xD7JuGLm3vVWNdMroneDCRthD9pvhhDli0oWfmlkBPuBqqA+ZBaoBnWpQYRM9ftWsUk=;DLIwwEeD1ZGr9p9AQ8dMWw=="
+secured: "I8KUxV/eWt4iPEQWy9+9YkQmiedgoR2g/QllavzS/vsu/fDtdL44b2m460WsLlWIaI8jWzDtug/Gu2tkDft1jE6ei2EbAuE8LCxk5OtAbjg/LUYsECD2KCIKS8gOYadGXVMASeo9aPunNcf81Pc1XEkqPOAEgiebvMvltQ+M59sHcz17+BAkKV/zNv1KPKo6oMTkEiznPJhKTigkLmmYxoJtBCVURCM1tWzF+C6AQQ/Ak9G5rp9L+n8E7FJt2OAO7ld5Nk3/28IUwjTeTpNnokkV57rRpmgjzty1QRWVqher7cePD5PoHqvWmTcB+4fYe48GwmGXMuxENvEV6F4HtE5oEBsCQteN1uql6Z3mvlVwU+RVH9U1bH94ljL2M5QyaNBekMiisAXMqW1/EgTHXQ==;wKPYSuyNKFu9deCZscSYQA=="
 ---
 

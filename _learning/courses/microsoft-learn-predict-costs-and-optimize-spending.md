@@ -1,14 +1,14 @@
 ---
 title: "Predict costs and optimize spending for Azure"
-excerpt: "Cost is one of the most important aspects of the cloud and can have a massive impact on your business. Azure has several tools available to help you get a better understanding of cloud spend and some best practices that you can leverage to help you save money."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/predict-costs-and-optimize-spending/
+excerpt: "Discover how to use Azure pricing calculator, Azure Cost Management, and Azure Advisor to predict and manage cloud expenses."
+webUrl: https://docs.microsoft.com/learn/modules/predict-costs-and-optimize-spending/
 type: course
 price: Free
-length: 74 mins
+length: PT1H14M
 ratings:
-  count: 39157
-  average: 4.7143297
-heat: 98
+  count: 39158
+  average: 4.714337
+heat: 283
 
 provider:
   name: Microsoft Learn
@@ -25,13 +25,6 @@ topics:
   - Azure
   - Management Tools
 
-images:
-  - url: https://docs.microsoft.com/learn/achievements/predict-costs-and-optimize-spending-social.png
-    width: 200
-    height: 200
-    isCached: true
-    title: "Predict costs and optimize spending for Azure"
-
-secured: "rH9c/MO1d49a1p+wiVSS3bTcGKPL8Umu3NarK0UkfYUJeinZZ03C3TJGXlTrl52gQ2n8McUrz2YXz06UUYDNApl5qeZem3CCJM4p75uy3O12slqUeZ/Dc0wOMz1Punr54u2c2okvKJnFsHuiSaciZLtGRqTSfxg/zX/E5V2WQBz6Z6hHtUFfJN8+Xx65SroK3W3I4vFrfuBBwxYOUIfpij+ddxal9zzZmq29l/hANhEaAXleoYY8FjMlyR3OYV3o1L+WIqkU/waKWYYs0W6xVZo/Tiwkb0/cCFDGs1mK0Yf01NliUvSQOqmkor/sPxNxbcfSpE6+B/x/B0Gke+6JxlZ6khe7lantnvpb/pCTA1YwNK4v0JVgVeQ/Wc5UjXb1e3cgeGWLiPkCt7zohP0v3NKHpJuUx0jt7AgscNoQbc98FCH6Q3iJT96Ytm57ruyy;vUYkFHeq5D/l+1hFP/dDrA=="
+secured: "1Kyz+jAm0Ge1Z5d7YnMwezRiVG+fed68PmwpgW+BpMmyVuMWB3WYIrFh7noVlbtk+US6t2vye4TI0l9ckL1ig7JQvoFOwpwfeti373Tcj43DkEf5BrGWHgeJ3mbETmqt3YHBlMS2ugoV7ejrQBi6jcO5Hj29ciudz/eZzYkElULZ/Kr1bJttsDzKV0HSvO7mRY1dNkcW7AGsXq6Hc0i/m8yNEb5U88Te072u+1//fnD2iu+3lTGUaa8eHsXRpjJpOj/ixZbcXZPR6p8BrXb0p46BqDWV45bHds4LurEA7iQAzvRoZWSf1+NQ8blP4YdT0RTmx3bsKiirpNSpJj7nURknYAZ6zFgQMtWZ9zxZTU+oVFRoJdUd/qkq52uxik1ttSygSKtsNpj4FcWo7cb5pA==;ZlXydXF4kXqh06xQFakVVQ=="
 ---
 

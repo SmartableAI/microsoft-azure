@@ -1,14 +1,14 @@
 ---
 title: "Build and store container images with Azure Container Registry"
-excerpt: "Azure Container Registry is a managed Docker registry service based on the open-source Docker Registry 2.0. Container Registry is private, hosted in Azure, and allows you to build, store, and manage images for all types of container deployments. Learn how to build and store container images with Azure Container Registry."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/build-and-store-container-images/
+excerpt: "Learn how to use Docker to build, store, and manage private container images with the Azure Container Registry."
+webUrl: https://docs.microsoft.com/learn/modules/build-and-store-container-images/
 type: course
 price: Free
-length: 49 mins
+length: PT49M
 ratings:
   count: 2256
   average: 4.60594
-heat: 52
+heat: 112
 
 provider:
   name: Microsoft Learn
@@ -25,13 +25,6 @@ topics:
   - Azure
   - Containers
 
-images:
-  - url: https://docs.microsoft.com/learn/achievements/build-and-store-container-images-social.png
-    width: 200
-    height: 200
-    isCached: true
-    title: "Build and store container images with Azure Container Registry"
-
-secured: "PDLeQP8vW80WXf+0lcb6nTVCegf+9SWJIvubFfa7OYS/m5bnoMwe0eMVZzbOWrRZcglQkLG1JywYYspCnpu+ADO8/fswjWRm234cqa+Vvlz05Sm08YD3nAqeyuz94/DxmoD9J/yExuJ5nAAYO61MPHyrt5HYt+J56aaQ8T1Hz6+8ttS4lcY+QnYB8FGDOhG01OiFF0itwtzcIroxXCineDBoIsy6gWNS1TE9nyq3UmFXP9KK9G5IQAmqdy/ThTWFfbzRCDicGQs4v3J2yVx+iPtK2Fm/IVLH5DRq5Ct6bpeQJg9ZQcec+86hBFzEH4EFhL2OMkbA6kMzsMDQ4Ls/69QhwgG++mxMta/sB/4bjhbbTG00QG/rNxwHtTvDM7Sg5izKgahUH9Hs/1grXlV1VVN6yQUXQLnm+Vc+8rv0d6c=;P4fb+FTtUYUiQTTcu5EwIQ=="
+secured: "duMvqsxs5fr48RMt96NrH3SmOsZ2Or1B49sT4u+KDWTW1xGgxYoLIZHBhkpgZcYCL6slcClpOPCa8L12D+V1xiWG1Z8yzCvMW5eSD1DG1KSrv8wYJJbMwZN82qbQd+tHby1bZWr0JYndU3JKpoaWCEQ4W96fluwqPesUUYTGDLOJrW4lRBa+kdQjkkCRzElzVhvhlUA3gIcTS6oG7kYyLTsd1vc09mDeTdJAxuDj2QGgKph5PuRbCFTxCFx3Lp5ml51S5DtehxhZ6Dbt4f6Pz8+vDnwJH8tx40pydWo1OPahSg7XIgn3eHKeV+qJx/l2cf+Kx1U4N1ABZJ2sTzJ4mSsqIBzri6eThLq0rKVSnWP+AXFyvm08+ZLwv9c3I0ucYZA4Xw2sy668Tt67JAJH8Q==;CzCkPj4RyJloKVidJPDIyg=="
 ---
 

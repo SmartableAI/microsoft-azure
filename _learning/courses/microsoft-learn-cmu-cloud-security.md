@@ -1,14 +1,14 @@
 ---
 title: "Cloud security"
-excerpt: "Keeping your cloud secure means more than just adding permissions to resources. Learn about what cloud security means, including threats and cryptography."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/cmu-cloud-security/
+excerpt: "Cloud Admin course from Dr. Majd Sakr at Carnegie Mellon University. Keeping your cloud secure means more than just adding permissions to resources. Learn about what cloud security means, including threats, cryptography, and regulation."
+webUrl: https://docs.microsoft.com/learn/modules/cmu-cloud-security/
 type: course
 price: Free
-length: 59 mins
+length: PT59M
 ratings:
   count: 48
   average: 4.6875
-heat: 50
+heat: 52
 
 provider:
   name: Microsoft Learn
@@ -29,8 +29,7 @@ images:
     width: 800
     height: 400
     isCached: true
-    title: "Cloud security"
 
-secured: "C9G1jnWwlc3i7PjDDsUHWixIAs8QjJFqCvzDz+fK+/rq8oCqYUmBm8pc9VVuhoVSq9e2EIG43I4TayvDFT3NfuC25Rhu2IVjwaH789lIrFq1Ra/l5muVYrwyAazBPC9OpRmgWIWitIFJxcBv0WWPHbGeMWm3eAG8sCwKtMUBKY7YCGMKe6tahizfGLsRKZ04987+XseXgPE+Z6SaXBCATOx3QUdHw4CtUimMGd/y5yAlBjVEkkE+DZUH2tZTTyKzKBbrrd2B4K3iMqnRw9lzvRynigBg7CM/vEvelqsl0lyoA4HxdM4ugzViLJyBywF7Dbd27TJkPM78aO5p3EisOq50qLrRSyOeOZwMEQgC9jCm3pnrZJ8RefzuT3zRQBq0rW93tlu8Pufxu6lqrprW71tkLDwQgbzUyU4UYyt+Kl4=;yPWcO6oQ40M1MC40JMobdQ=="
+secured: "nL2zQV4b0ixfXJMGpnZAY86H4KWnlCDrKiFR0xfuMm7T9yoG3kxNPyPTiNg/2T9Mf0YeOkUfbmPRWm9MU/Y0wyouw+moaB1Skjbb47O552/0x0R5fomvM+tze3Sjr6J2wIoCsEpTzFHIr6vbENdZTP9hcXoS5hXQHeuf99tPNG0teXvnW6sjVKZzKvD7DzLLfYynvynmRXow0zmQQiZ8NV9kBvlRYzQV13trPg1cJv/sYWpOJyRpIWI8dFxfIasB33zM5T9E2onIf++sE/tWCN8wtrfgc8ifVjyz/nk+S1tIfKB3j7q5ZCb4x8/NgoB6WpO5AEvIgKpRutPWpKKRfpGLKeADA0Y82i+GcqA4veYAOZCH2boHHGolQFNF9uhNa3xyUiBuf187c1a/PEftXw==;NKCRdsPr0/H2jrSjhEGgXw=="
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Implement logging in a .NET Framework ASP.NET web application"
-excerpt: "Learn how to implement logging in an ASP.NET web application, to store log data in Azure blob storage, and incorporate log information in Application Insights performance data."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/aspnet-logging/
+excerpt: "Learn how to implement logging in an ASP.NET web application so you can store log data in Azure Blob storage and incorporate log information into Azure Application Insights performance data."
+webUrl: https://docs.microsoft.com/learn/modules/aspnet-logging/
 type: course
 price: Free
 length: PT24M
@@ -30,11 +30,11 @@ topics:
   - Management Tools
 
 images:
-  - url: https://docs.microsoft.com/learn/achievements/generic-badge-social.png
+  - url: https://docs.microsoft.com/learn/achievements/aspnet-logging-social.png
     width: 640
     height: 320
     isCached: true
 
-secured: "I6dUBL+rjBseG8gqJGUwEhlqWUS09nq955LOuoLIL6D7/N1kcy7pVCoy9ef+xylOkQs2JtdtkLxr6BqlWA+n3AEsrOrjeSezcRxEcCdRToCrrUeNVfejMzoEfYQ9RVbIC1AhJzrTy6/Bq27IXgF7sl0RaEJlACrmfukXbV0oFr0iqtMnvXTuLv74Ukwe/+dBNfL+gVQaqe+YrzlmiXtCLnO33RvYrL+itC4C2VpUlPbY3f1EsC8XP0ljoF6SpfFpiEFOXhfqvz75xn/kobI4+dWyIaZrBqez5tSRUKMTdSNdSVjpacQrQ/T/uDTbD15DdAawoIGs/yRK3AL3TqTYMfulZWxsHOiJz1rJjjKEkw1sGzvPP8QeEPQQTdi3DTw10uITF32nacNObJsz2NRPXuBo4a3dW8nLO2xnkqOG4xU=;x4Rja3M5NXG41pg9X6tiaA=="
+secured: "QOpXGpQ0ya7tcVDq4+pKttDIjPyhdU6qbDftz1RSCUjdZ3G7fcapRMMH+Qlf86oz2fhtvoEkoDyegKUTdsMKRIlJ2TbCKhzUfcGonsjc2+J1iW1cLbcVostyPyogh+xiuTFRodcPj1J0LSEDj3H/JFqF4nMJwpu0fty/3tLLEmrPcRR7UVL7zdKJhpAkU9wYpDvrZTY9B/Pkt8YrjnAaNLGGGJle0dCRsf+IgGhxtHE7hK0kSyju8xF/It65zEo+IbWLhXEryJhkpzXwVJbBBmS5kmfWF4GFw32oIxgafLNPBWLl6ziDcGZH1qLTbzn1Wvdkj+S1p4Ay+xKtjeqbCQ4fZFu6bkF6P2MiWQKd/Edik+vcLFFtIWzpuvfyPZ3icMJcOuoQX29ZCTqnRsQrsw==;Y5dizNWE1gPXNfWwWdcrlA=="
 ---
 

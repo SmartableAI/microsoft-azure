@@ -1,14 +1,14 @@
 ---
 title: "Analyze costs and create budgets with Azure Cost Management"
-excerpt: "Learn how to use cost analysis to understand how your costs accrue each month. Use this understanding to create an Azure budget to monitor and alert on your costs."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/analyze-costs-create-budgets-azure-cost-management/
+excerpt: "Learn how to use cost analysis to understand how your costs accrue each month."
+webUrl: https://docs.microsoft.com/learn/modules/analyze-costs-create-budgets-azure-cost-management/
 type: course
 price: Free
 length: PT40M
 ratings:
   count: 642
   average: 4.5981307
-heat: 56
+heat: 73
 
 provider:
   name: Microsoft Learn
@@ -30,8 +30,7 @@ images:
     width: 800
     height: 400
     isCached: true
-    title: "Analyze costs and create budgets with Azure Cost Management"
 
-secured: "lOPkd/e3fDhcjiCxm1O9laaE9ALNWDz9NH/v+00R446frI3KokrykyJluRIIWF7NtqRb/FZ/M2uhxInv61p8eDEFfHlxmbhMHPpcbY2aWtUNpcrnqXXALkhfQaKQfsEaSKL4OIsg8lYZd5BfBA0RwwwGb7tju8NqTS+gbGwTt7wio9GnAA+kW67ezpNbh4GAGj27v+/3tcIPEGU6cxctEbPzqMhO7l1fjp4BhmYacG2FN5RDvPvN8NXxxyPaRXODgKa6SGzosrbtE2ta2wSyTLGVx/sQ24kThhVX8Gh4ngrXxrcTM3evwUsVOKnOzmT049CQeoDzvsDFOTgfh15njUjM7IdDqs0dxdQRhRt9tFt+buEA+3zHaL7AjhRt2GVDBM+ohjs3t0rYzAtS97qTyp9ovPf19M+70vcy7Bn2yWA=;+PXeN5JmDR0YaJymUh8Dlw=="
+secured: "z/D+t96twIEzVqw8SsN/MEsnEvzS1nmac84TMhS7947YcNiajfyCuSK32ysbotufNfX7Jmf6sMgj/fcI28tnwKEwkgMzjHW3rvVFUnHs4Gukv96Wba+SkaUUaiyWxEw/Bzt8OT/PuU+DZ/1IV6NmX1/gAU1LxfYdrMsa4pbsHx7D20xSp1XdLoofKvb3DAHIQoLDR7t7VkLqPNeAtlktebvQ0B9zt3P6pVro2IsFM9T7cIOCVwvsJZ8beB3Yw8ymODqnGMuHuCvdwgnC9syY+0bBR9UCOSLsDy4yAcZsFXPgBt2UOqEP/1WcazEF+YCzFc1ykxN4UYXLiSC/XNSQJ/YPhtYi1/9McMRhUaHa8UbQUaEEHOAsFzNQZz6IuJKizvNeSLzkBOVqHp3QpQOkMQ==;qAMwGhEixxvFlzQyw32e4w=="
 ---
 

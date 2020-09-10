@@ -1,14 +1,14 @@
 ---
-title: "Simplify access and identity provisioning with Microsoft 365"
-excerpt: "Learn how to use Microsoft 365 authentication tools for access and identity provisioning."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/m365-identity-provisioning/
+title: "Simplify access and identity provisioning with Azure Active Directory"
+excerpt: "Learn about identity governance and how you can safeguard access to your organization’s data."
+webUrl: https://docs.microsoft.com/learn/modules/m365-identity-provisioning/
 type: course
 price: Free
-length: 17 mins
+length: PT46M
 ratings:
   count: 1303
   average: 4.724482
-heat: 54
+heat: 92
 
 provider:
   name: Microsoft Learn
@@ -29,8 +29,7 @@ images:
     width: 800
     height: 400
     isCached: true
-    title: "Simplify access and identity provisioning with Microsoft 365"
 
-secured: "04ooTSjkau5OpUatuWNLtKDCBw6O97hA0v10D1icadaO0YtcMU1BXdVGuTmhI6zkNGO2+uulQ39mWUWbXJuganJ6vkP49HfQPCrQcmti3LTL2Fc3JaH6/lS/PzvoDZiIxzvOVGaBnMTZH7SdvOIlGh8BpqRt8Nalal/pZTDg89rFZq/LrwpuMCDlLT/qrefEE865u2p3VJh1Inq84MSVsHjz2OF3vsbtRpxOjs0peqCYLTdRPaRXjxaqJ6obKH8TXdxGj4Zt+tTd6SoYFwmQXL2Dx5/ntnfJ2RhGxKWol8Cy6PCrJfBUC7mnvaIlZpY2BpedNNm4YZNcJGzXi/zhaISCFlBabHoWqzoAhVxrOANc4zOD1g//sIoqEB1fPTXL7Z3WpsC76lghm0QNhZgQoJY3FyBA49gAvpMg1vHI+eA=;E+w4Qad5qC3D6bQRkXk++w=="
+secured: "fkqAWFeBxd7ACyI+8vBTxa4d5BrAJVJgB2ZA51efVf4GNuB9cvMUTJFWD7/8XCMtxOLFYtRMyU/FNPIFaOmmZZDWE2bMHoDegOOjyt7rFAFYcB5cu5veFhvj0fbOCYwKGAUxTTjOD3iRKSkh84ywj5TpkioPiyDO9nYKKquI2Bv3ghOTuA8ITltaJ/63UqvH5YLZrAAoGEaVqSGUiQYMZs9/dQAoBCE8mQTiwYuHuNQar/bNKMsB9IzkUw4p9vtFvvnu+p9j3VlEwguUemdL0DZGXzpfhIy73GqBMTjc/yYnp3VUE+EhkSFtXanLYx9F9UlHJBojbDKvBaVzTABb+IEIFSrup8MumZf+YMpO18Yat/piDMYjBEVLzHtTTGC51e+xddXTfV8ggS/EeEx73A==;jPV5gKcHovcpGvzOi44HZw=="
 ---
 

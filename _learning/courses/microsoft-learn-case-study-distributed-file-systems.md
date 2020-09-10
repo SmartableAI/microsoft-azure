@@ -1,7 +1,7 @@
 ---
 title: "Case studies: Distributed file systems"
 excerpt: "Carnegie Mellon University's Cloud Developer course. Discover how distributed file systems work, then learn about Hadoop and Ceph."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/cmu-case-study-distributed-file-systems/
+webUrl: https://docs.microsoft.com/learn/modules/cmu-case-study-distributed-file-systems/
 type: course
 price: Free
 length: PT1H7M
@@ -24,6 +24,6 @@ levels:
 topics:
   - Azure
 
-secured: "uaeeWZLlUGqjLO5IykO3B3as2frZIK6LkD/F8RMwbzi/GyAW8VXWi50cm80myLZKtNp/X6F3yKnlJknZbFuZ8wxCjV7ANJ33unVnvt/9sTmWZ6QH2HdUGx/GsJLodytj9MLJsfqxoVsjQM5nkU3SWN0q4Pz6iVS0g+2Rg9F8dv+8YhdyMMVcDwueFKYteg2AezVWUhcYL5n0qzZIDh+23E4wL2/jHGqioQ2WLM9mo2Z8LnaK6Tniu+BgLJAV0HOiMCHERgNhburb2kV4+Ad63eA3NJqsEw82IWfrPtx1ydDMG1Tmqv8tdDBSozHuRc1wHr0gZd7Kfve6KDBcflS/aKyrYyEqloS/VdWUXuf5aSGFYacopJV3VvWl7Su1qMEvflSzkEp9HW7kU03LEWRMyQONjMczV8NWSpoC59WBV3w=;jSgn1DjBt7t5m2wzx94vkw=="
+secured: "uVl2xPk1CM5PWocD8MZm8415KzDuSiu3v2oeSDEu8BYukPmaVhXr4gYgtr71jooKFqNI4/lTN7G/ToHLFYrTUrSxQmfpJG0o738rsmoDmRJAsad2fOXWrHFbk0q9IFwpUSkDVqcOfn+ifWxueRx1hacuWNSKpMRXREaBTumTs0Li3/i3QLM1f18WejKuRFIFbJJQJgX+fQsgYfT/lfX1qmEg/dpOYLSTmxXB93q5f1tioFjXp+xyL+FXfviA6FgZCKISUbjyQjtaw4tEk0cep6lq/R6cxNNok27boL4xF2ubdXvXpjHNOFrRMlg7xf24oXaGXm6XXFlPfGu0f8zi6IwkE1uXnWgx/X3lurazrrrpgkIuxlTdfvckAV0nARu61/pXqpO/+bRqNk6Bcslp8A==;VWLrUZcdEjrtYgdDvottHA=="
 ---
 

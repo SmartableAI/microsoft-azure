@@ -1,14 +1,14 @@
 ---
 title: "Manage non-relational data stores in Azure"
-excerpt: "Learn how to upload and retrieve data held in Azure Cosmos DB, Azure Blob storage, and Azure File storage."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/explore-non-relational-data-stores-azure/
+excerpt: "Explore non-relational data stores in Azure"
+webUrl: https://docs.microsoft.com/learn/modules/explore-non-relational-data-stores-azure/
 type: course
 price: Free
 length: PT54M
 ratings:
   count: 114
   average: 4.640351
-heat: 51
+heat: 54
 
 provider:
   name: Microsoft Learn
@@ -29,8 +29,7 @@ images:
     width: 640
     height: 320
     isCached: true
-    title: "Manage non-relational data stores in Azure"
 
-secured: "Hh5dS4HlXmlpybDQXnY7HliUJ1+iD5z95F5VbQ5vDtGUtSfsEJfNQCG3AVXZ752cOnvhULVYT6FX3Xwt3b/HrytGfQbojrWf07iG6Xh48szqBbYGmgxhUXUc3ce9imoWbCako8IqwErokL73oKaZMZnODbJkMX/XqrhsrZBmIfcDQZX8HEwAuQMSomNCHg7VG7v2Gh7vWM1PiRykPQ2nD1JWpqGS44CBo1eJjLy42HncfycslFcmf008ibL7+QuIuPeXn3jk3oQRzGiL4SAzZLpChAIzkH3YMPVuPyCHY5LqsKnejeTLYVZw6+Xq2bkXf5AL7GaS053+zIh7WpxBrCNquN88XU3i2RXQJfJ2iZ9vtLc68r4vuLRPQdc3fKCewYlzJezPnVNGaYN0I2Z1TJk3y8HvUxKU/o8akqRnTCI=;J+6BTssFK8+1hsiveykCgA=="
+secured: "e8rEV/Xl3GMK+22gsMw12H7irYaWBDnSslU74eTaxe+/gxkTYH90ltWeeFxT2xAn0kkvMhLjhzwYZfbNUGXRddnh35VcepsVKnjEXLjIcBVCpsEG1HcU++Tu4meu1j4aixQK9nEKoKpBrMF6I9TFdPMmI5BPnSnpDNwJS4cpPz5127xY2AoNuRqYZJAV3jG3XkqmkGMpeA4zGbSg8TvMKs+U5Elj93RFxNjPBT6uUHDsAZx6zWSyx2LhkBTNcBUvGfVvvF8clmxCgVoo4nAbHuYTI44zRjE8x3ckuV/BuMk9OZ0jBDU5e6igakjgGpc8shBMSrCsiP7Auf5wiizJUVgqaeY+DRqgagDUg/gHkjjEe4fW9GYn6oX6hg7wFWzfIZuM982elfn9hsNF2MEs9Q==;mWeOXhju9VCkGjUFmnitPw=="
 ---
 

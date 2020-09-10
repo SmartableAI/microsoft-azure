@@ -4,7 +4,7 @@ excerpt: "Learn how to work with subscriptions, users, and groups by configuring
 type: collection
 price: Free
 length: PT6H8M
-heat: 132
+heat: 346
 
 provider:
   name: Microsoft Learn
@@ -46,11 +46,10 @@ topics:
   - Identity
 
 images:
-  - url: https://docs.microsoft.com/learn/achievements/intro-to-security-in-azure-social.png
-    width: 200
-    height: 200
+  - url: https://docs.microsoft.com/learn/achievements/manage-users-and-groups-in-aad-social.png
+    width: 800
+    height: 400
     isCached: true
-    title: "Security, responsibility, and trust in Azure"
 
 secured: "cwjm+VZIwQcS3UHNFJpXrdGSdrFQ2alzLIsmExukOYmO3Mm6dNzPqeq+n8bwd7VQ0o1eOZ6eeyKSyoF5OfjF0pzKs6CR7GS13ZQYPbKwqwOV0QmmrmbhyRcDCcaBQ+fieARocK07d5vclf+f13V2Vy4gfiVbTx1rFrpPBQEmhUrHc98I2X9RZgbaZM40PVF5tZcQNZ04NPgQY8kzyrf15LKt8zXEs28PE1XlyNYI2VOY3gawGCm6jEIClM4Bt6uzQtBqFDdgG7uVZNQURbbf/uKobcjH7rSsX5/CkBYi7yxw8rMTw4pHCOJvAVsD6Nysfq4hCI1vprfb44jsGnCj+A==;6hT40JvFsvFGg+olIxlcPQ=="
 ---

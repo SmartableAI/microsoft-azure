@@ -1,7 +1,7 @@
 ---
-title: "Deploy consistent infrastructure in Azure by using Azure Resource Manager templates - Learn"
-excerpt: "Write Azure Resource Manager templates using Visual Studio Code to deploy your infrastructure to Azure consistently and reliably."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/create-azure-resource-manager-template-vs-code/
+title: "Deploy consistent infrastructure in Azure by using Azure Resource Manager (ARM) templates"
+excerpt: "Write Azure Resource Manager templates by using Visual Studio Code to deploy your infrastructure to Azure consistently and reliably."
+webUrl: https://docs.microsoft.com/learn/modules/create-azure-resource-manager-template-vs-code/
 type: course
 price: Free
 length: PT43M
@@ -31,6 +31,6 @@ images:
     height: 320
     isCached: true
 
-secured: "lbuA4IK7jKu3Kykpi2x0mUQubP684Vsuj4OXZGqGTlDKhBEmm29cKLsAbq8ZC9eT9c5caAnUXviDxwlb+qr7bGmsEG8yrEVOlGerdrIiMlEsTyxPBT2PZOF3CqzQecMt1xScesH7AftEfjtVQnDXrJ0WmyTdkqx40M/lq+0VkYiMD0bQ6rz++wivvz/SDpNXtaVFIZkDjPE3lCGeoYQQrsMw4xqgS+mH9F3Jr3oMGqHafQYA3rVVEC0NSMSQdj28QezG+mUbxB3lLD8WxE77icp56dSpZ0VybYRjaEbFZyprWz0N/pZt+SZm2goGn9TqPOkYKRNl328If3f5+R9gbm/Qj/YevDnF/tcREoAsiLZfNsZcT4jjwrbYEfoSn0lK9qgi/zlDig9H6YaNkMF8tQYcAZIbsQHGWoZcBCYLL2M=;3c+RRCZ/vL0SjogpvYaqcA=="
+secured: "qjX3a+Q5qxRlUji3fuhUR8t8L1kh0N4KycnApM15pWfkJFkTB6ph8W9GbXzSjEKz0QxFxLokRyOR2KJ2KXR2KjqewKYNj8BRTeQWFGv2cerw5CgDAKzpEb88LpDGFKaorCsbuDPvIruB/4UvAq05NcidRMKjVaLy6faaDUemHVsessXVdlwuUmayy4anvNuCSVhJRGML/EpoS2/H0qL8McTmUTwtDOzDq9ARUcwEQIK7pm4dLBp/o+z2dtJKxMSqH6EgW8hK2DJ08grLPVKzXW0NHs7+GGiPGko3UuWLyH0b/ngePn0mAqjU1HG+8H8zq2yeHTOoT8k7C3RMWRCy7rEnsTkvu/sLdDSR4SUv+3NDJir5FBWSciGQYLgS0u3/dcwGO87cKk1TNegIlXWPYg==;svBMqXcVg78Jko9bo9508w=="
 ---
 

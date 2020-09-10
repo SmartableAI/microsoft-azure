@@ -32,9 +32,9 @@ topics:
   - Databases
 
 images:
-  - url: https://docs.microsoft.com/learn/achievements/generic-badge-social.png
-    width: 640
-    height: 320
+  - url: https://docs.microsoft.com/learn/achievements/describe-high-availability-and-disaster-recovery-strategies-social.png
+    width: 643
+    height: 321
     isCached: true
 
 secured: "SlNhz59Ztwl1ZTbHJgi+AT+6yvQgAg7CYMcpwIzf5A4HMj0qxs8LWJFma23rg3tLckcSUPETJ0hIl6rUIdzltivWMjXVzlygIfVZ0P6ZFL77GkIghxC2fiNO5cpqi3l0iWVVkjpFWoqgPAR84O4qsAFq4DyLSeIH4MUEAhL3dzEr2sUdGtUZ+vWOqD9TLm4MNKz98y4dysgFNp42CpfFi8AMUDviu7xpS2qRtRpI4U6vHZ6EpxghYWVZVaGz8rFUZKfiAdjybsG3JYTxq/U9s7S4bk1u6whdVXgGcxPHOZvBAh9wYX++3cueQT+x1bkcSfcxWkVwm8t0QUQcSXos+Q==;u5CafbvqK2Uz7vVt9tTfIQ=="

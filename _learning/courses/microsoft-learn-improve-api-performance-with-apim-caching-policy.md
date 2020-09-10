@@ -1,14 +1,14 @@
 ---
 title: "Improve the performance of an API by adding a caching policy in Azure API Management"
-excerpt: "API Management policies are configurable modules that you can add to APIs to change\ntheir behaviors. Policies can do things like cache responses, transform documents and values,\ncall webhooks for notification or audit purposes, and retry requests after transient\nfailures. This module will use policies to enable caching in order to improve API performance\nunder load."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/improve-api-performance-with-apim-caching-policy/
+excerpt: "Learn how to use Azure API Management to change an API without rewriting code to enable you to apply a caching policy to a GET operation for quicker response."
+webUrl: https://docs.microsoft.com/learn/modules/improve-api-performance-with-apim-caching-policy/
 type: course
 price: Free
-length: 47 mins
+length: PT47M
 ratings:
   count: 619
   average: 4.6672053
-heat: 52
+heat: 73
 
 provider:
   name: Microsoft Learn
@@ -31,8 +31,7 @@ images:
     width: 800
     height: 400
     isCached: true
-    title: "Improve the performance of an API by adding a caching policy in Azure API Management"
 
-secured: "nqOVj70ysS+4dg2m/m4grTn0N6Ge6EPksLWSEu4N3PyDxd//Q2y6DUrWrnxwaZmuOnmuq2cqr7jM5ki2ySiCLZckFyEfAbFz5uOmELgdC5PKdP3QdFvcirt5yfiXP1Ue5DqR5y2hGogZCexAS06sfRD/L7j7mpaFdZNcy9/AlIRL9wv2+K4tRqwaRF+IuXmigaggglzue8lQTkD5qIECyi9SxJaLrTXUKGt69d6cLVfmFCgm/Oq06auYCENZIzXpgnCfe8wv6OdiZduQEnm+Js+x+bugGupN/ZjAVASgY4awQ3ibqf1LJPO0im55g3FCr+mcbveXpoSiyXM7blwQ7tRS99qywgM29EZ5Jky99q1szG+ataBQjyEhr52h5hUsWlECpaTkXjqUhL8ZhSfpSCG/nOJL7S9uCP2oWv7qMXQ=;gv1Y8H1U2VVoHI1GJ1SmoQ=="
+secured: "V4/bDOvi5NEs/NA2Kysmik9NySizgwA6Z/W9mWlUvksZMC4/ycSZH51u36/nz8gJ2+xf5kKJ/kuGwx+ab4wQEw7YFtcJgn5sc7TmtZLYBYeakHjlY7n1kF4wRZX7jpvx4NBf+6mAHn+cD8cyaxEuOrg2CPA2VzidBrG8a6IkTpxRHw5RxCEG3aT/FeOQ2FiU1lTnzrFw4F/b9fBvitfCe2eU/FBOV09I7S1kBPEsMclyquCe54K+4aH5NV2W0+UG9GqIivdnsyUhyQ7Kghicm+LV8B/7FKoYqzSvMwxDLm4+CZbZHeysghYl4HgekQdxM1rAhkFEx7OrqhbyTjuQgqLcR8hun26BcR3uV3JBDdYxZSrnQmCLa8ww9brFSwxRduwtEkfkFF0T84hKHbOQoA==;IpIlUumVKVbpcWddsclfTQ=="
 ---
 

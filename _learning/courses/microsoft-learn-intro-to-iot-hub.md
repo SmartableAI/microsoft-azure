@@ -1,14 +1,14 @@
 ---
 title: "Introduction to Azure IoT Hub"
-excerpt: "Assess the characteristics of Azure IoT Hub and determine scenarios when to use IoT Hub."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/introduction-to-iot-hub/
+excerpt: "University of Oxford"
+webUrl: https://docs.microsoft.com/learn/modules/introduction-to-iot-hub/
 type: course
 price: Free
-length: 28 mins
+length: PT28M
 ratings:
-  count: 1200
-  average: 4.645
-heat: 53
+  count: 1201
+  average: 4.6452956
+heat: 89
 
 provider:
   name: Microsoft Learn
@@ -22,16 +22,15 @@ levels:
   - Beginner
 
 topics:
-  - IoT
   - Azure
+  - IoT
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/student-evangelism/introduction-to-iot-hub-social.png
     width: 800
     height: 400
     isCached: true
-    title: "Introduction to Azure IoT Hub"
 
-secured: "hCC6jK5keVfk6MT6uaNxIEL1ttWgqxxyrPGqOppfrt5CpdT16ty6ZdBq5fIAzBynVCpFESiSW5b9WjP7BETpzXM2Bqm2ddHUJRgNQraSvLYMTuirpF6xJ4bv8m1gx8dHWhAfYoU/n7B7bWBJJo2wo3biSO+zTHphqKQ6PnTQsMSzXDl0XqeO3s9BsGOA5Kn/b8FaA7/x3dFJDFq6dteRcwYHljvfh3DPzGX0+EH27ROzy0QjtHANUrvZzN3/Yo+lPO7f/wO1O8GEPdEknM1YJ8S9MwxJ1F+ra/n/UCk4hyYtUSDTEP5oL1Og60iOU4KLr6/zOb7BveX/dOXFj+ia7Y86wPzpyzJk9SCM2/PesDR9JbNgKNCseqRx04YtRd6XFxyqFvlDEzSYfKWOcAUpUu8OYXvTyD6ZRh+4n6ISSkA=;ALqG8od+u8Yj/R0fB1Kg5g=="
+secured: "6WEY2JZymIk4vLXiFnyAKnZ7Y48ZY+cw3X83XKdYzApkbkw3ml0iC3uq1wtQUoNmG9r7Gb7FgZebnjgND9BPsS8xUwrzYpCzNRjAAGeo1tkFQrulJBzuq/FxZky7DDHsOlJD1g3MlbixVvIaoAncR4X3wAiDiwdKw7LKX55okQMkn7s2r6U1JMHJtudYW8rNRZSVYYnKFqd/vpGc8nwZcVTAESsSOOslmrnSz7J+t2I1burcBIT9h0XFEiYma/o1kqXRBab06dfomRdCNIGZD5rCl6y8DmD2jHOIP+r9Haf1xkLKyMM/SuMcIwQCLuh0D4wPpZgnQ7Lr0Nwrog81B1Kr85TDzKTa/nec38uyvlOcb3V8ZRNn7V+yn+sED+t1ImBNEDItULZDV2COABzheQ==;PXzUWuOx9q7X5vl98hEC6Q=="
 ---
 

@@ -4,7 +4,7 @@ excerpt: "In this learning path, you will hear from top Microsoft executives abo
 type: collection
 price: Free
 length: PT3H22M
-heat: 61
+heat: 88
 
 provider:
   name: Microsoft Learn
@@ -39,7 +39,6 @@ images:
     width: 800
     height: 400
     isCached: true
-    title: "Understand the importance of building an AI-ready culture"
 
 secured: "cLuSbHlRjZY9FC0ff8ek81KHj4dd0J5iUEOD6K84g0bzmlAL7Sr6IGLacVjbzCregb/+elydpJzyJRYYlNB85AF5Ru7GEXCGywtC11xsprzhKde2yaEPp4c0NgjxRNHfWXQp6+oIjrjRCJ7D7xIy+I9lvQvpUYuLu8D1iG7CF/g1UITNqt/70ety98F3Tsrf9vzVZnS6lhIhBP5NAbeWQYs11zEEXFYW9koqZJzIHqDoIYEdxhT16gz//NaD8/9LNTkY52R/rQenXnDpTZsLYX3yeBUP4iwTvvfzzvTu/kXL573eSh6Kar/9DRYkNih8rssYfSM75QZA4wl202kT2Q==;DOpYQF7FbZSUrt6RIzVvAw=="
 ---

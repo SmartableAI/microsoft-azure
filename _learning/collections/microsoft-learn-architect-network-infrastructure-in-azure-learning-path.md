@@ -4,7 +4,7 @@ excerpt: "Learn how to architect a secure, flexible, network infrastructure in A
 type: collection
 price: Free
 length: PT8H59M
-heat: 75
+heat: 153
 
 provider:
   name: Microsoft Learn
@@ -54,7 +54,6 @@ images:
     width: 800
     height: 400
     isCached: true
-    title: "Connect your on-premises network to Azure with VPN Gateway"
 
 secured: "NTNGFhvBmV25o7ZdFDomrCvn9uBBp71v1tMR2T37Ytw+2OiwlxSDY4oxWo92enVDlCIYF+pisfNvnQPRVCnZg3lEt7rSZSZEnmxGlLIe218Jmc7wf3oWNAKLo0aI6zyp0nub72dZLWlrmFE1Krn093rC/yxPttlqUXQqpCb5qDAAxT3jKtFz9ebknYqbd54D9rtcayjRSjt6TwNr/2Ax64bnS08y2pA8KZCUWOhkFPtynuOvFahz3o8h9g/if5LrkNhuuMdJ6D9CTo9wGbPt1rDsoejUehviRPe89gG+fqY7b9B9IFPNs0oQaxe+U3t+oI0mrN+78onaBAlTRyVJqQ==;EWvH4H8FH+qU6taiTbxrLQ=="
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Create a knowledge store with Azure Cognitive Search"
 excerpt: "Learn how to persist the output from an Azure Cognitive Search enrichment pipeline for independent analysis or downstream processing."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/create-knowledge-store-azure-cognitive-search/
+webUrl: https://docs.microsoft.com/learn/modules/create-knowledge-store-azure-cognitive-search/
 type: course
 price: Free
 length: PT48M
@@ -32,6 +32,6 @@ images:
     height: 320
     isCached: true
 
-secured: "piDFtDbQhERkkMLrkO5eyCNSF+JC/rCLWHv+w2IAnFk2A1PhLiU43wPKlG3qph/ZMe9suSOo52h9Lljc9d2QwsEik4I9rXTj1S+Mk+kmjlgoD23BIjc/l7elxD9mwvKzKwW0TX5GI+aZSeDMk0zQ5xNRYOgZqgAS6YFV3K/anDqRnO7jJBoMrReahCAZ+rg8aZtg81tB9Csm/CQcq0NJtWvjt2gC+dcMuoK5Seb7EslJJadlMp5GSJ2OEP32brkD5V5JHgnW0N4fan5YQQ1jqqD7CdgUIy0lIB3fmH7xRBBcojU2Qh6FnEQ6UhKuDUzUsyx6V3w/wyjabB6CFvAsMkBO/2XrvrJjA9zZIdAhTFdknOTiQvc7IqsuEnmGf1hmYJ3n/OMkmYKwmmtUaK9RtLgokNLZQwkh7lqt0qJcxO8=;IqqJ6owR5wwRY0YksGJuJA=="
+secured: "gV2MIM1SFYHAXVKDn5hQjrqcocec4osK1FafSmgw5u+ChfZstlxwEdjHduabH6l1zTHp5VfQBAdNRJVbfOMQiP5PnW/NHpNmBjuGEsZVESHuzgwSi15ik9eZHAsL6V6lw6ZaJr/Qa//RHimUZ12h7T5ujOhl2gk27iBri9YjvmCfI1Nq0mkVLsGrAeFc3ZU4iM8y06Eef4VoCzvFHMkP5weNRq+YpNkDb7GtxhzorncnEc+NbC70W4dOLE4fGYTFCfTXa/r3rfjsyvXkjLmGhKgwLXJobMtVb1eomtt/slboy/xbNxdPler1+7A9YIKoAXXXgdszwObRjf/SqPlRqy9CLth3ocwvFUHi4NJJa+UxHRcTt1SXisAUr8UDunJIYaSdiJbfB+FNCeLKTpKMIw==;HjtydJKzjZt17NV5Qr/jvA=="
 ---
 

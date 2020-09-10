@@ -1,7 +1,7 @@
 ---
 title: "Manage Azure PaaS resources using automated methods"
 excerpt: "Explore SQL automation for Azure SQL Database and Open Source databases. Configure elastic jobs and Azure Policy."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/manage-azure-paas-resources-using-automated-methods/
+webUrl: https://docs.microsoft.com/learn/modules/manage-azure-paas-resources-using-automated-methods/
 type: course
 price: Free
 length: PT34M
@@ -31,6 +31,6 @@ images:
     height: 320
     isCached: true
 
-secured: "H4XEE8zeKCOQ8ntyY57X4gSXyC15UbN1X3ka0hCx9ICoiw1tViknu6YWF0fk2rKoNedLeUfWCzqvn7Rilm2//9+JD8ddjPuY0DfFegQif5qJ14mzCEbueYtfthY4kRry/72xN8xSiyYo1nqjE/mgrOTz8Qj4adpXtYC7csa/vQf+UczfD0ZxU1lT89cSiW50b1vBChXShQGgUA1VhZgv1aU26FfpoOxl1YbB9fCB3fq3G/ll0xddGIrZktmJFEfEkSAjNPfD1y5sl1s47eQf66MgwXhpemV/CvP96UBucnzkuko1eKf901PZAc096DKaYbbkEB0nal+p9bOlL3a9lrzAAulC3iEQrfpQQwtq+gaB33Q85aiuBGodBCW8f9v8q45OA1rtom1gFTpt04i/OXJPVmhysSsXgBGtZRf8CgA=;jETCIFGxqY7S5t9n43As7Q=="
+secured: "JnrHmP1OnsnmI57fzk/Xeu+Qd4Fx8ZbR7eOIHTg8gOdRN7pTtyDplqMouWH65iiQPxKS6VGur4J8r4ToESxm1weTG6mIOsZC66DbOek+IxYT1z9IA341gP/6jhbJF5sc0I/DvYZ+024QL9TsxL/F6CGA99BDgNoLaF9L9/d0l+mmbUTHI5iF2w1rYEiOIavI2FmNwT5ul132FZUaFagSO2+nv4x60KF3B6BssyMPOrsw/OtOKUtu8n9R5xfKrQClS7E1qWp5Ik+gFNZlngEMjyma0fPEksgbnAqX+gSUGR/lyr+CZkSeHw6vgsGrIGIAfTW2Z0XTs03HeydksbmO1bN95sSDamJoM5AW/j5QmEgEcoqLyN4cwXzGDD5umAfGT0iy6uwqXetVy76/daB3Zw==;dQHVU1IOrwRkC5c3UWpwHA=="
 ---
 

@@ -1,14 +1,14 @@
 ---
 title: "Discover how to foster an AI-ready culture in finance"
-excerpt: "This module is designed for finance and affiliated business decision-makers to illustrate the impact of making strategic decisions with AI. The goal is to enable you to think about AI transformation holistically, with a focus on the cultural changes necessary to make AI transformation successful."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/foster-ai-ready-culture-finance/
+excerpt: "Learn the necessary cultural changes for enterprise finance organizations to make AI transformation successful, and how they fit into a holistic AI strategy."
+webUrl: https://docs.microsoft.com/learn/modules/foster-ai-ready-culture-finance/
 type: course
 price: Free
-length: 39 mins
+length: PT39M
 ratings:
   count: 643
   average: 4.8055987
-heat: 51
+heat: 74
 
 provider:
   name: Microsoft Learn
@@ -29,8 +29,7 @@ images:
     width: 800
     height: 400
     isCached: true
-    title: "Discover how to foster an AI-ready culture in finance"
 
-secured: "uvNMZsit6QEscozEuKHEq1/4ALb/IpKKKJF38CpoSa5rlixw0vIRXEoiFxRXUN5Shf4moEtj+l6dLlpaeJSkd9hPRtBAKMAd/6pdt/DvD6VBe6fS/xIvwLcycxjG5t7e16b/xV2fV5ED+jZf7bEHR3gz4/5XBEYZHPhr9ZHTBJa5tdIu37YFOMLwdGJo5WT3SSerPjIj0MwzmZBZKq3RKgvXwB/yc5SJ+kjZ44kmKH//wAOArmRSXbhSUKWPimBxtWDEByGvwKBF9w2y/XEXk0cL7h31vN7UBjFxmUZ+9TBzR3cFY4/GMpayh6Nq/5sTYf98RrU5keeV4x4G0ICW12xDDJX7OGseF52TMEXNrtqSHCN4b0cpUneCpidiE4OuIeCR82m1CS8oB5DD9B+oO5D/iloZJubdPx6JN5MaKGg=;c4C6cI/Ff4MubadRXsOM1Q=="
+secured: "tc04IoaYikSnb6puovBNTB8DAq4wjwq/I0Rnt3GtrwftavKEONLZ3ypOfEW4/tGKcVy9aqdPHI9Xham674prg1jbA1DFb6W1FOh1gkQp88MF6a1FWiTw5dpMMtLujlh/rby0DUkq5Zq1JWpSeiWYNoZ0ey6+2h8CD/Ry0s9EYIWwD6UgU3oKq8iZvkqbDmMI2cPTE+tiNE4h7Lxo+dM/4uMLveUbu0hwf9du1CyMKv1RYEH929oYcCjPUnCtb9Bm7J8+q2clSEyTTo0yQGETy3oh35PZsk6vZEK/1WlIIwUZqJ4lOEAp1X5RFHQLA1WcLA12naL/R8m4+CnXJRv7Cb6EYYhsElwxFoiy0fCGaxrqQQYyORZs/v10eaSgCs3yx++77YupMB2MCQElldBbtA==;JthecDkqIVwicTTH/9tcAw=="
 ---
 

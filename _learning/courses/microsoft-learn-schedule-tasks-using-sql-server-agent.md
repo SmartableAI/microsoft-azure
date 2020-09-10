@@ -1,14 +1,14 @@
 ---
 title: "Schedule tasks using SQL Server Agent"
 excerpt: "Explore SQL automation for scheduled tasks and automatic alerts for SQL Server and Managed Instance. Configure extended event sessions for tracing activities."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/schedule-tasks-using-sql-server-agent/
+webUrl: https://docs.microsoft.com/learn/modules/schedule-tasks-using-sql-server-agent/
 type: course
 price: Free
 length: PT46M
 ratings:
   count: 14
   average: 4.571429
-heat: 51
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     height: 320
     isCached: true
 
-secured: "N1stckQIeUbgTvU4LTXD1cRRJfoUPxfUcgUOpPQy4qT6tA8Y5HXHuzv562Mfxk92lkFcF6cCpCV3WSPGruvQlEg0s2NjJciv+zC4UDmuAGwie9UWAV15MpZ+6UdAxD1KUvfQmfef0Jzlni2JvxCxnVFlNghJ7kc+5CKQD2BVkLrRfuyZ3EJdqvXjv6GWAir50vqNV7TdUKe8xxNWXIcc3t6kXj4WnlmXnBKYDHwNSKlwg7j+oPpri7O4iEjEfbmHB+ypeNrgpfOYUN/QkZQTgk74T0nVq6etwD8ByHBldywGZZRnsbgA8py7RFCjDqY8kAUZLmG8D5I+TeFv+AOfmKqhDXRftcsTTIoe99+S2RySTsAEvcGbc3ZNrZzPcKSGABZbRqjGp3+mOXUcP99Ww3Nx4ZC89rBg1Bi6pqiisqU=;qmrYMPQmXrwx0I7SAKLqcA=="
+secured: "DpYiL4UowF7yuEpa4CoBZoj8o15KJzlTx5Ic7i/a1CTqR0AVEw5LlgVwtCBAJzuprvFIEH0PHpDViO1dOCfN9x0uDOZgwOVVp4uRqoiPVlcMZmd+UV1ZK0fI8CC7RzDvK3C6CQvytQrNS1JAeF1SBNuQgNy0uSoCVs8D1bt+drRpEFn8mhvGhdrDFYlsNXifBHtpvCmCRlJMfzMyzebnOL1RDBKDXb34Z3PqTUCpQyKOlqEEjYNJdrrbesC2ki9XhMAB6OL1Pr/gfEOBroIvKwDDuJWcmU5UfU9/exHhpiQncg+OYOsUnsvdyTtwLS9rupu1c/1W+NkTi9uL3EGY3JbIKXo/cftOZE1eX5bpRR72g1Gzn1LpiZ+tbTpIL+IDKsE3nOJ8InFsdRFDCOfozw==;437u1doVdjKDlumlmcXDJQ=="
 ---
 

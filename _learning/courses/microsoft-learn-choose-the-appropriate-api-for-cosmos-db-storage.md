@@ -1,14 +1,14 @@
 ---
-title: "Choose the appropriate API for Azure Cosmos DB storage"
-excerpt: "You will compare the different APIs available in Azure Cosmos DB, highlighting and contrasting the different scenarios that would make them a good choice for a company."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/choose-api-for-cosmos-db/
+title: "Choose the appropriate API for Azure Cosmos DB"
+excerpt: "Compare the different APIs that are available in Azure Cosmos DB, highlighting and contrasting the different scenarios that would make them a good choice for a company."
+webUrl: https://docs.microsoft.com/learn/modules/choose-api-for-cosmos-db/
 type: course
 price: Free
-length: 38 mins
+length: PT38M
 ratings:
-  count: 2011
-  average: 4.675286
-heat: 54
+  count: 2012
+  average: 4.6754475
+heat: 108
 
 provider:
   name: Microsoft Learn
@@ -30,8 +30,7 @@ images:
     width: 800
     height: 400
     isCached: true
-    title: "Choose the appropriate API for Azure Cosmos DB storage"
 
-secured: "dWNTz7b/RD9/G/O/cvr/ql2NMeOrWQ/8sxYiMnjdGKAHCqLuYK4RT4yYll95WrtyW0g+tuOkVrqiZ8Nv+5P7mdOCVXvxSjDi9N4VT+MiVjRYOSasUoGFzZNOx7Q0jgZ2dwavfL/wiIu+FYKEA1yyW6kDU7/DlmYN+9nXyu3v6vCuYlEW07U28iAQ67QpjR2R/uUx8Ca3zzdTWUhMX0tRR2sh+3vLDx+rvKDQCOtlyG6tLLI+gvlAYvk4VUCo5JGK3pFQ8zL/GWWKUbCXXor93c7WErP6WGYYUrk2uRunNvZAjd8nu6ghjC46mY3od+nOt6qvi3ZYkz0QjP5aDl+MApO8ZbUQfgPyMyHaxPZ/6ezP8ru6NGrHfBhgT/2XU1WMZAk5x0/TTnE65ZPboBtX0CRI4gh8gMCJJHGfXGXjPFM=;5PLhJ9L+pVnsAHkxgTaHYg=="
+secured: "kZBsz1cFrR/EHdBqopHCuFCLhu3Czs8Z8nbxZJJ8LBjkjybGeCP5q1AExWEXaaLl9OFsFp67e4td2K+exSOady8aFVRyQ0GH3tJtUwVIqRXGIEyIbqkKYPYS9KKL5XqYbpCAFjRRjvhgGXciqFC7aPvq9vhfEQYX8bFxOPLsEuz/HPhaDInEVV97KAR7UU13jWueMU2MKTPIlfvW7PnCjMOAlphrwzabuat+2CwnHTUo2mdJy3lGhID3XHn3Lu1hAzewT8sicrOANM28N4t0H+3PAcYCXa92gic30fUvFhyKe0pfuDxVm/ePhLsqGRJvHdD6mUzK7xrHJDjHf3kWyEYl7bvIVwqz5a2rEx3IMYNpwxhM+0gDlOOumzE0K2lD/GAnfnzp/myyWblmgyt9uw==;/fz6D5WbV7DsCBAxjQZFEw=="
 ---
 

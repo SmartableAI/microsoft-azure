@@ -1,14 +1,14 @@
 ---
 title: "Get started with AI on Azure"
 excerpt: "With AI, we can build solutions that seemed like science fiction a short time ago; enabling incredible advances in health care, financial management, environmental protection, and other areas to make a better world for everyone."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/get-started-ai-fundamentals/
+webUrl: https://docs.microsoft.com/learn/modules/get-started-ai-fundamentals/
 type: course
 price: Free
 length: PT27M
 ratings:
   count: 1680
   average: 4.725
-heat: 71
+heat: 101
 
 provider:
   name: Microsoft Learn
@@ -30,8 +30,7 @@ images:
     width: 640
     height: 320
     isCached: true
-    title: "Get started with AI on Azure"
 
-secured: "XtjI9HR2hdUDiZFc2N7s4gX5XrCn3bKUHSEu6B+sBg0voa6K2CUGTwm/mq6KSjXBpD1jzJESjb9Jy67R47M00y66n6F+Nw8wGZRv4iuQtQSjDsGwJu90kK9/CUXVd1ESZpS09Lt5YE5E/x+Ax5b/tMrgKQeCFfDOb4sGecJpFfW7k5RsmfAXclavus1USqPNNC6m+ANgoLRUGtJ/86pKh0jhHOKr1lPoWOAsKLPnocM7Yf2+RAZz2UxYDYWy2SFs3wXuu5p1cK5/KfFvDJp0BsyjFi06opcLSaMvQoEV77ptTsUd5CsDfUIxDub8iqyJN16Pz1hpHxmI3Lem7DK5luxGzs3qAIfkPekVVpNDmvKoCu9H8kor7RETKgdWaJ0Vi4j3iddU3NgnLnetXt2F8ndZPNDekcc7OgtSc3aIi7s=;LGFeYosPOaBtKSqyjvJjRA=="
+secured: "iqtTDmssUPgkk8xwuVquYLeXCQ6c9UUrh/MNHO8EPCnnIxTtAt4kXU2rjfAU3hhYsLxVQZY7Cngi46IhASukkYMzzeV+7yzy7w1dSdzF5Yl62CD3C8laoYDBTvLU7bxRRaLvOggXuLb4al/t6yIdtiOO544KJE3wobt0PzuXAG4tyTKR8u1OQZ+Y4garOC6P55rGtX9brZICU27actIEAy0+YeGi9m+EOM8wsAhrx6yLTC6K7BmHBYvjmu6xEnetw9QsjcQcs6BmK/4fMhGFAf5cqBCL/rsUgHhK5r0kE0m23y1eF9w1MC8DlcgGLtjeDYIiZRvwAxVhV1rkAfamlvnl3LxgN6jhCC7GiRzqEtDUb9j/Ygzwz34IIwJ8/IAtFnPbnpawi500GxH8OrVErw==;RRBlpiS5BmxZsEY5zQ2uFw=="
 ---
 

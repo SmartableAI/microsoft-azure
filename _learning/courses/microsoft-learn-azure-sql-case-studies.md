@@ -1,14 +1,14 @@
 ---
 title: "Putting it all together with Azure SQL"
 excerpt: "Putting it all together with Azure SQL"
-webUrl: https://docs.microsoft.com/en-us/learn/modules/azure-sql-case-studies/
+webUrl: https://docs.microsoft.com/learn/modules/azure-sql-case-studies/
 type: course
 price: Free
 length: PT54M
 ratings:
   count: 30
   average: 4.9
-heat: 50
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     height: 324
     isCached: true
 
-secured: "QbUqzLt8AL/oYKsVwF6kIjgAMFEL7he+W8b40soZWUogT0/oskXLpK9mTRTpzZko8XH/AfSLVKYzO0A7oZl02c295f+XnIhYOKondqNNo1OK4W1uEJjLwXS4pUqSK2k86O3JcWkwh0LPWa3hpXQwOnAmXa1SfmJ/yrtWcJJs27wLznQAgyON6Uc5sAr/yhnCVN6RWffzVHws7bgYy6//Plp2L4q+3OX0u60T6QXYCtK70gsD9HXyebUJ2eFxciVyrPk79QkYp6M/kZShBqZxOrUCMy34rwQ+m7oLXThJ7/pXRVOuC+vF+1IWXQQIuEwnw8eEOgbIk5niIfEOOXgraD2ifAnNgIiD4QaZlV1/tt27IO6zmnpVVOY5TTknbTe8zKQQhkM998Cc0Na0jOfPU77O8yVI2Cxj/sd6sFYIwz0=;3RWApsGMLo2RZlQE/5NEgQ=="
+secured: "T9KJXkNI6RfsrjVp3S2W8WaHFJOC/NV2t4EwYkErz826SkktyMeW6c11xrTorDNrcK0LOFWopZUfG3yfMdl5iDbf7/cG4s+FbrIM1gXrPKp+9Y6gdgMBMOExLx2iJu5o6qQc7o2ZKT2zt+ZSoZBxzt+TsxDK2eSjlKto9sy2xyq8OUfFI+/oFPjOF4tLJq75KivSWqWlfXznxk/DznjyWq0YvlldE57SZHwgxrmOid46arkCsvPQ8RsdIATrVP3E5jZ6VvejULZv+ssAN9mxbWC9WCx/Are0RxPiTgAaD8FtoifIUXkFrmTwzWt7ayb/Z3tAr4avwecH/lxHLZzq3fWUBShQXP1Qu95vzmWBAjK7iXQ2ofX0z3jEYAddvo3OdBPl66/Ebt999i4Al9Sgqg==;xALrC2O7d3KnkCJChd/Spw=="
 ---
 

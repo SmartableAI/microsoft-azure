@@ -1,14 +1,14 @@
 ---
 title: "Transform data by using Azure Stream Analytics"
-excerpt: "Learn how to create Azure Stream Analytics jobs to process input data, transform it with a query, and return results."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/transform-data-with-azure-stream-analytics/
+excerpt: "Learn how to create Azure Stream Analytics jobs to process input data, transform it with a query, and return results"
+webUrl: https://docs.microsoft.com/learn/modules/transform-data-with-azure-stream-analytics/
 type: course
 price: Free
-length: 49 mins
+length: PT49M
 ratings:
-  count: 1221
-  average: 4.5675673
-heat: 53
+  count: 1223
+  average: 4.567457
+heat: 89
 
 provider:
   name: Microsoft Learn
@@ -30,8 +30,7 @@ images:
     width: 800
     height: 400
     isCached: true
-    title: "Transform data by using Azure Stream Analytics"
 
-secured: "jUSI7OXfMAdOfvXff1Kb5s2XZNPgHafCSkr4aXjUMaGG2jurQLG1FReBNqCUHE+f07+uTNMnwNOrLfd9NkSaF0jOK5EZ3gvGv4E2NSXsdyoE8T6C8zzIQ4uWnYaNZJ+oH5LKA4IpLMoxIDH/rKm6G5isxL83SgLPThVxHHtzayULKIiMXff+Hz+26FZWp0xpuDebitDFBoU8ZxgZnxw+0a9UCWkyyxI7blScq7y8RUnSWj9px2VEWIDX6n96I2UVwyC/JGU6ziREPXn68m6ujwSEvmd3BoIymViWqRCk2Ri0TMksPl06PL3hCUoj3U/SsuWIF4C4pyMXsjfgmj1c/1whLKpMaiWntfRWchRBaIAHoaRy5qalyASCuVb9dPps7njtgcBMFjgVn7gs8CFYnXjO9/tnhJP0wpNOODKZ72E=;YnJqoadfsrkV1yq0p52cTQ=="
+secured: "m3BWLnPq/L36vhqyPw76DIh8Qexd/gKTV7WSFAhXJ+81cGT6xPBJ067TiLs/F7R2PxR/a7jXK2RUbH4eULL1GdGcbpnGiGGL60Kfw/tUTd+LhoNUK3xGOriSSPBlzK9nhKBvxG3qaw8ovC5K4lThymdMDHdxEovVn9RijW7Dr62x3TKASSJwIJitzUUaYGjKOIyU0uilC3TcJ6rEdJwirXcTxJa6i8RKbLipfFZQSGd+q7wxGuRrhKB9VZNqJp1vVo8KEY1VSibG24V3m5jzB4dwi4iG4hz3vRNUV1ZR2Y+0YUfEfrRMfXtED43NuimwBNex9CvHnsuPvq9eokNNTXmNGIyxKqCf/bbQqxvuwSsY9SbCA2gKLwhXsu9vK2HZRCvR/S6YnhgbySc9saNV6A==;uECk8n5ZgERefellMQQmdw=="
 ---
 

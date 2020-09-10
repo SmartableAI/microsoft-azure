@@ -1,14 +1,14 @@
 ---
 title: "Cloud storage overview"
 excerpt: "Carnegie Mellon University's Cloud Developer course. Learn all about data and get an overview of how it's stored, including local and distributed file systems, databases, and object storage."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/cmu-cloud-storage/
+webUrl: https://docs.microsoft.com/learn/modules/cmu-cloud-storage/
 type: course
 price: Free
 length: PT2H43M
 ratings:
   count: 28
   average: 4.821429
-heat: 50
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -24,6 +24,6 @@ levels:
 topics:
   - Azure
 
-secured: "GqGoUL8ZVR26EcGR396SE8dSErmk8JzneM+L6v1xL1Le3+EPNRfME3icxcOHC80N9kMkk1cwc+ojcxaAF+saQdVhM18s3Jw3/LjnsQISQBOLrbkBUROWXX+8M1f1mMf8wOgxToV/mFja3qsByeuaspE1VpuVf5aE8q8mW67cbzNpE1qCUBcMcKibw4tw3+LmcZ5HxDdzmAE10x7F6kFoxG51/SwhV2XW6h7hiCXptmcXC0zgBGMI8gW6kTgeCq+5kcYRUB9ww2BRC2EmspYCVSVTfvEiaXtCte9fQrARARuy8XT21gt0+VVZiLRWIe8ergkh44jP2+r/9pkXez2AZDCJeWiiG5qzDBv4Fak5y4McFgOPXa/MVca9ZDT7OVeTP3glG5Kc5U83HAWGu+4VwT0UMVJClwdJUPXb8J5zQXc=;ZlJPhemhA9z36ksjL2u+EQ=="
+secured: "MQrk2q5UvDPsKNW+/C/XMP7QKyNgkjTFbg6HEDZzTbrF0AUERg8YWWWfYHvahw21QBwZsigaTmIohhVdimu2WECfHzUkfzLCLLLxnzVAPlkTLnrsaDJwF7IRmQhIdLVrJ5tCvf4HqS6LdtKzXvLf6OTZ5s2tK+ayedMlwTe2x3wL0vlprmr3edXzie4i4/M0y594WQ7GmoTozxjAHU862YNdMjkdSExqBdF5w6hgDyOqrlpOxRTcZR4J9m/nDxIxxCDMBH94f5x6eO/jqShPg9s2GghM/+m407UZA/Wztjf4fAJGo0/Apo9t7mVUC1fdfgv2f8yHlcR1CWReUbrxugV8PxaJ16aflk6gNI9Gg8sL5w5BzxoIH/6dI20Jx6VYNkt/Xg6zMrys3hUpusbKgQ==;Y+lfA+AbOwNb9TP9TOb8Iw=="
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Implement hybrid network infrastructure"
 excerpt: "You'll learn to connect your on-premises environment to Azure, implement subnets and routing between your on-premises and cloud environments, and ensure that workloads in the cloud and on-premises perform DNS resolution to locate each other."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/implement-hybrid-network-infrastructure/
+webUrl: https://docs.microsoft.com/learn/modules/implement-hybrid-network-infrastructure/
 type: course
 price: Free
 length: PT1H9M
@@ -32,6 +32,6 @@ images:
     height: 320
     isCached: true
 
-secured: "hn8ByxGmUlpu8EBKpOL4H3HHtk8A1PCgGMhi0FcA1m44a37U2F7AaODzEzPBFUdNUq+0Rq+IQm3bI3PzgQIBl0qwwhDJA9MRNS7Qzrl7hXrtA2ySPgmcj+peIhhd1VcTPCJjRR1x0cAw5l+VtwJmNg4+w8GiGWVQ6lNWwcUq5oM7oepJuwJwnXtW3yvuWlO4SKjXMcmgk+M1nP8xldQdE6p7DsF4RcNOC6K9+/fwgPip8ORHbrrFYhfRWhRDlJ1NJZNHo9pRBzuWDMjNmse+eMJ+/Y3fvtJ45EdRd9zxRvL5ZPvs0DyXMaughAz9jn8Rta5ZfllijVpPLUSNjVFYJP7G42Qm07fhBNmaiPgpk2u3UpSCKYlqegW5lSKWF/zrrJV0UVw/LEANnhkqn/nyR8UuYoK+oVHB6H6U8kL+eMw=;XT29NrB1tjsl85TYuSAMLA=="
+secured: "O4oRM6Ao5dqG3KeTM71S601hpbhW98MPqXiusMJoZMYB5AczWiaEKuNqhOpbSqVm/+SqJJoyNsWkASgwybvOiP9yDnWm3GCVCep9YRzZYfDHLblOIvcqMF3JF4ZziMNPRs/c8lWkE3gNDmKejUoQhEDEEu3JmYCgvBQEAm3fpd1yscE9rGupbAtwy0l4nj4J6GFtj7SDLuDUPBxaM5zd5deSYuzhN87YD83xNaz97vawCa58bJR6DKjIWdZypKTIj5hrOty9dRoourvVjt/VNp5loC1JZRDOCAe70Gefrj5RqpGSDWKNXBvj0DbBeHM+EjlsEjx+XGf68ezvWHE1wymiUWamSeyfvbe0+fBw9I5FshV3rLfliXDZhH2oB/7rJTw1G4yWp6IKYP0COieYBQ==;aIyLK0iBXJoZpUDV9wQNrA=="
 ---
 

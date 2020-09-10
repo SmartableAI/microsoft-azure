@@ -1,10 +1,10 @@
 ---
-title: "Trigger an Azure Event Grid Workflow from an IoT device"
-excerpt: "Learn the basics of integrating Azure IoT Hub with Azure Event Grid to trigger a workflow when a new IoT device is added to a solution."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/trigger-azure-event-grid-workflow-iot-device/
+title: "Trigger an Azure Event Grid workflow from an IoT device"
+excerpt: "Trigger an Azure Event Grid workflow from an IoT device"
+webUrl: https://docs.microsoft.com/learn/modules/trigger-azure-event-grid-workflow-iot-device/
 type: course
 price: Free
-length: 42 mins
+length: PT42M
 ratings:
   count: 17
   average: 4.8235292
@@ -22,8 +22,8 @@ levels:
   - Intermediate
 
 topics:
-  - IoT
   - Azure
+  - IoT
   - Integration
   - Blockchain
 
@@ -32,8 +32,7 @@ images:
     width: 800
     height: 400
     isCached: true
-    title: "Trigger an Azure Event Grid Workflow from an IoT device"
 
-secured: "a56LrVO0FXVPvXXwQufx4jE1SkZN4IUa+Eqhd6m4nlW/Eslm7rozkXMHuHDqyM3pwrpqqnYo6KQuE7wU6ltOUytMRnC9QWXxQUki1hb0SsFk/Q3oGoELAUCPKogV0bjW0OSd3ppsjDqbFzoh2UciJ7IrD3ENGm597SBw6lxaUBnTHn5P2EmrwmRNuns7K9w1kSABcu59j+4iQrwZC0H+T92eO/Ot+eGoEK/46PsbFoQ/SCQSaiPWcxWHDMLpNKtzOuqwU2cZIYwl/T+X0ZPxN5TEL80GI4aJbfValsfTvaEjg8ZvONziJWyjcK5i0P2bHDvh5amg+QBVrs86GOmbgxekBce68ha/ZV9q07tsGxuIBxMP18dLgxTN/1OGewjp41gA1mr3kl8vywx5TmcI9CCV5GC0V66dXNK+u5LN6CQ=;mkJuUDeQgxDgPLRkqxWdpg=="
+secured: "erohSEF0BuFMN1GIanJEh2JDDPQa8gzd/idbB9hChwyk6MP4gjgotGAgK1740dh1INP64eqYnQ6cmoMIctvBKz8y3ao8GNtun74CGc0WtyVOH0EhojBkCL7gtNtIodeXgCLcPYtJUQsuy3AFViHrRkjiqyJLTOXshuPSt9DLgEN8rwnNOUGsHKek0ML+XRPnUKCchItUOk3XBpkpr2OEaeTnLBBhX/mLemNo2dpranEaQA8kPLNmvSUs2F5T3ey787ZaynT/WgBaj/rfUc13g9aYLzaZBUJBNuLopfjUDeprWkgsug9hfYaehNyBPMMmstaWRS6w5JZkL+XWm3S+GNP6oChiDYIpR59yqFfPBg3g1TbUK0u7pQbZf3TUDB1YryN+VlT1Ni31UKuh7qhUyA==;+9/hi2YyDLkhmw7FVGZHXw=="
 ---
 

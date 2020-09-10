@@ -1,14 +1,14 @@
 ---
 title: "Set up an IoT Edge Gateway"
 excerpt: "This module is theoretical and will walk you through how an IoT Edge device can be used as a gateway."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/set-up-iot-edge-gateway/
+webUrl: https://docs.microsoft.com/learn/modules/set-up-iot-edge-gateway/
 type: course
 price: Free
-length: 100 mins
+length: PT1H40M
 ratings:
   count: 146
   average: 4.520548
-heat: 51
+heat: 56
 
 provider:
   name: Microsoft Learn
@@ -22,16 +22,15 @@ levels:
   - Advanced
 
 topics:
-  - IoT
   - Azure
+  - IoT
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/set-up-iot-edge-gateway-social.png
     width: 800
     height: 400
     isCached: true
-    title: "Set up an IoT Edge Gateway"
 
-secured: "MAERTauP1oZYFJtOD84xkWGE4kY5nn2EW7lnQnIre1D634416t5/D8xAJFb+j0UDS1ELQRVGHlY5KkiHH9bUBg2ITxsWBnEaeyK+TXEXZmdV44k8AxlO3Vfs6EL/o5KmJ5wDV1E8RFQPvQ731EkS5dTi3gsvi778s4UsdEbLUGDdpRztFsAkVO/19UVtW+LLppRqvAoPzt5pzUsHaiOzbAaecJZ5Zkb983PMLhgaVr2ij5TGuAKBwgsMNTaPrAykvYXSq6ihs/i4pmnHyltTZ7L4QAeaW7iIQouRGaCqWEg6jJWz/rrHNh1JW2GJrqKOCbUNmRonKY2gy36O6j7XuoDTvyV3X+mJHm4s1oa/1ciVsUHIB0f26Jt6OaXyB5ETxNPCBjpNpyeW0cWvKfoFdZLPM5MXoty86GYa5wAidmI=;5OxG0bfUTH00AO6m4u8qPg=="
+secured: "twNVQPuLfPZ5cLnP7eQwGSf5Rqr4ymMTQVVg34E/xd4nIkH0Fl+dqRuib2EeSupWdQcRZrMnMH+OEov8dgw43WtEjnJVDVlCKwaR/+QecpRnmdzftD3guRmkOadPwW1fgfxcsOpFCDbWKRLkkp4CQ1n5VPJl0bhbCgn0gz4aT12E7nS6k4sP9siFyT7IH7m2eHfXWUk1ySrIwWT85Gbu3SQxO4lUUAK4BbH3x0TxeXVvkyWnrhaPYWD38pCupyaVJniYXZsQbZ2quDENfZ8yK3wMtGcHqiPTXUMXAE6eBQ9mqQk2wueFFw9+QkNdA6FEUm5dbWkJt3ZChkVXgp+RXKo6NlKBY5c9HZT944VchMuhYmEHrQfKcEStrSQl7GruxnZsLbaIhnjf8KySuqJz0w==;/qpvHlR8dQZRwG/AWxvqEw=="
 ---
 

@@ -1,14 +1,14 @@
 ---
 title: "Discuss practices for responsible AI at Microsoft"
-excerpt: "At Microsoft, we have established our own governing practices for responsible AI. While every organization will have its own approach and we don’t have all the answers, we’d like to share what we’ve learned so far."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/microsoft-responsible-ai-practices/
+excerpt: "Discover how to translate your organization’s ethical principles into actionable guidance and tools for engineering teams and how AI can improve lives worldwide"
+webUrl: https://docs.microsoft.com/learn/modules/microsoft-responsible-ai-practices/
 type: course
 price: Free
-length: 77 mins
+length: PT1H17M
 ratings:
   count: 351
   average: 4.80057
-heat: 51
+heat: 64
 
 provider:
   name: Microsoft Learn
@@ -29,8 +29,7 @@ images:
     width: 800
     height: 400
     isCached: true
-    title: "Discuss practices for responsible AI at Microsoft"
 
-secured: "UZ6xMMVwc+apZfjvJzMxAY4ufE6oUNIj2qqb2BJabxLop/bjZxxxYnAi23iyUhc7ODOBbBN1W6NfOEym0VhKFA40XeAMsIbBqmKA89hHcY8pZHTgzsHGHxEnX04GICrPoqoXMc0bBoZnjdwrEPA+nhV5A5pMOmSBosrIpV3eeKLluIoUjKsulmRUIITem40j8vFjNgCciibhRk7zsApTG5Oq/bXWPa7PfBzdOD0JQCOLmNtwpHTpTXMcY47af2cbaz9zlt1JVRTePIEdbrtH61mB9nA6mmSS67Foegang/Ug3uniRezGH2KC5O65zkWNVCw8Qn4g1FyQOZmxidBLs6vxMMfAsvS77wpzuNvUMePTp1pMqeJsYGV+8k79v5QSubGOZ+yC0vpUsi3JYUtSdr3wDT3r3iejtuQlihfUFGI=;e4wwMGznLjbNUsu14A5a9A=="
+secured: "HAGQKxM2GrrkD4kli74l8OTBhbhRGtqbh6uSnjNuPcGj+Tpdzg2chHVAu6o7G2VjWZiTsa680xeFcESHxx2/jKcTJlaEKNQqiUeXIG5YyBdh71518ku4TWk5s2QpA/DWXVU9innB8U1u0O6ttZ/4vBV5NmNDDXKt8uX6PaiPV5wxtu/k2M0Iba9PFrFiTChFLUonSzJ5DXbWaWmWupHcNbq3w3LeWM0EXRM0gBgXaHge0IAAfcFfuTC2kR7H9ChenyNpIxdnmXiAkeGlB2ROVPg7J8JtrOgSER5aIuQ5vWL/SaCIj3MFGrw5h3uVmAThBG6tGzbYM5oN59rb8KSJp32HIobm01VtuQpuHO08RhW0fYKlkXRl5guHBaykeNxOd/2mxXNjJRnysbqQtBSQ/g==;OkgjJRxj0CdmH4q3aNwCHw=="
 ---
 

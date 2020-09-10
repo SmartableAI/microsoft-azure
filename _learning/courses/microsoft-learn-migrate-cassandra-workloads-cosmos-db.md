@@ -1,14 +1,14 @@
 ---
 title: "Migrate Cassandra workloads to Cosmos DB"
-excerpt: "Learners will be able to demonstrate the benefits and processes for moving a Cassandra database to the Azure Cosmos DB Cassandra API."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/migrate-cassandra-workloads-cosmos-db/
+excerpt: "Migrate Cassandra workloads to Cosmos DB"
+webUrl: https://docs.microsoft.com/learn/modules/migrate-cassandra-workloads-cosmos-db/
 type: course
 price: Free
-length: 14 mins
+length: PT14M
 ratings:
   count: 40
   average: 4.75
-heat: 50
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -24,15 +24,13 @@ levels:
 topics:
   - Azure
   - Databases
-  - Migration
 
 images:
-  - url: https://docs.microsoft.com/learn/achievements/learn-pr/achievements/migrate-cassandra-workloads-to-cosmos-db-social.png
+  - url: https://docs.microsoft.com/learn/achievements/migrate-cassandra-workloads-to-cosmos-db-social.png
     width: 800
     height: 400
     isCached: true
-    title: "Migrate Cassandra workloads to Cosmos DB"
 
-secured: "Az0QZtKmiUvaVDKUZM1C/WAT+f2fzWnT11+A+y+JeUmw3XhB0ho3GiyfJjkK3jQvEz11fv3YSQinc1Lu6gc/ie+AGiMr3nzBUBferS9nzexowHJJ57rTfoF3jDu32IFvB0i3DYvTOh9OfQBotZGRS0FGwc8r8VVTbiknFdEFCxVawjT6Ir6uHNXsRU/J37XfG8ThTb/TLrOVMFYVTNdPxMvNwU1gHKnUCk2mcTbHfvzhIgicS1F6fm4fkkHUrbcMfEfC7N/hnjin7eX3HbnCKYQ517wclLfaQGaUCejwoJi5FvfKN0dJeHA35H9USsqNQykPrO8+43Xmae+G6OcOKfl9otZXnxEZLGzqYhM6rhFwIfFEVyoRPRCEp+KVNnBLfiOFN52sia3rwWzleJ6e8EQ3hWMd1ntE7gcN/s0Y52A=;OoU1dHjI32+Sm4qi5+tAVQ=="
+secured: "IdFY8m2KvU3fFVB1wiAC+C8B00IEQ38NAid3qXCYXUiQR3dsSRbFS74JBHM6rOfiN4vaNGg89FJTEIq0ztrujVQRiHPhecsBasSQv8vgL5qs5TQ+Ae0NgxUfo4iVH95IBWwKj3oQyhquKsxcd1fXwmYyQVFwBNoB7sTne5pPPoyBy8+y5doMNoFzrma47hCjoFlpPu/grhsKWUDXEqzfD7namT3BYylmjedAk43xQP24ImWJP8shLBRHWKzs6If/pm87Kh8oLsWIa9aylgT7UmBe743qzYW6DWXzwRsysibpCLyCxDoar5LJDx7ZiXdZaV6awJONRL9q6XYIF4HaxL3BQ/QCh6y8BU23a3BY0kQfe46KEkAma6fIdzpawsylROqXVb8Q99KYGQh8LDpFUg==;t7jzWm4KADNF8Z/t1zyVdQ=="
 ---
 

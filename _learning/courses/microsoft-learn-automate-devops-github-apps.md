@@ -1,14 +1,14 @@
 ---
 title: "Automate DevOps processes by using GitHub Apps"
-excerpt: "Get started with GitHub in about an hour."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/automate-devops-github-apps/
+excerpt: "Learn to automate DevOps processes by using GitHub Apps that handle repetitive tasks, enforce team policies, and maintain a tidy repository."
+webUrl: https://docs.microsoft.com/learn/modules/automate-devops-github-apps/
 type: course
 price: Free
 length: PT1H8M
 ratings:
   count: 65
   average: 4.769231
-heat: 54
+heat: 52
 
 provider:
   name: Microsoft Learn
@@ -25,12 +25,11 @@ topics:
   - Azure
 
 images:
-  - url: https://docs.microsoft.com/learn/achievements/generic-badge-social.png
+  - url: https://docs.microsoft.com/learn/achievements/github/automate-devops-github-apps-social.png
     width: 640
     height: 320
     isCached: true
-    title: "Automate DevOps processes by using GitHub Apps"
 
-secured: "+o9/o9N2tXAnxCjap1hBuUF3QENAQUbKt6v5eCm95mvZ0me1fGVqwpne5LQyI/ogjadLFKfvLhVWxYHIPtSxSlBvMpcg7fk4Eh2Qb4YzFyAMA+nCWMYA3JcmPXhjIhFCD0PntwegYfCW11+Q5tY3/XTWt3qBdKpMmuXozliPTTsxCGecSpshDGIvsZCzPrZc7tXBaRRHu9OrUy7cjbn8Rc6UQTstjpjFLC7ntFWHOk9X2juU6PxFqe31O/UyZmyT87i1I0j3OAtUg85IIC9ildj6zlv+jcL5OJgUbAgcimMMYFV745RvajDT6i5PuZNp2SjYMqR5O9ZKtbRDjJ3Lh1OgHMMKbtT30rJ1Vd/oHvwfaDz8JjMvxjgqkwkP4F9mzFdhmpJoV6Y1RkmFwIKalpFpvQnMHZXGOpcq7Z/Ixow=;fN2cckb01yntGnhqLIr+MQ=="
+secured: "5NJ3oCL40xYHEyqoOT1L+GgxLYJUto/f89HkwVO4pnSmU9rB1m/0FQNIbRIdsAi9DOWKZXrcuaV/+pYDUNHnnrQr3v6GDohPByC+5FlFT6CG3rlmMeppGCj8jPw6ciQMO5sd/FWMemlaYgFQ4Ddx3yjc4pvjwIXif8pYNTp9st3aVEd2zBegF0C+5J0j8Uy5U/n7nGiL1hfotDAOsPsaUha/eJhe8urW6wMrnx6XoSyX28nS4rbHTXmaqEqiwYxBWI2nHbkAmmzSnqxGLghUIj9BiIROhT2myi0e4zDbm0KoPLGKttOYm7xeO4xSk255qwuDGD2zeo6UJIrh863NKQ+x1Dffzq0yGjImk0B079IWQ0H1zbQybz2XdpSDr+ngbbInA0yamAvcfyZaP+gKHg==;ofqkY4edO/b+x0480MF8+g=="
 ---
 

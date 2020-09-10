@@ -4,7 +4,7 @@ excerpt: "Learn how to manage Azure Active Directory objects, role-based access 
 type: collection
 price: Free
 length: PT7H17M
-heat: 75
+heat: 134
 
 provider:
   name: Microsoft Learn
@@ -53,7 +53,6 @@ images:
     width: 800
     height: 400
     isCached: true
-    title: "Create Azure users and groups in Azure Active Directory"
 
 secured: "iriTbICBd6R+ujLxWwgLd2mzHNfI4xVgsgCBooR/Qk+l6e5bDVxYxtKak5HPQ+Tcs52mGiRCC5BhLQvd/X9bhn0OIIGkkxhMCzdBBsNUMlj67gcUy/g8AS+9d7KB7uE5Uj08UjRT1rZ7YX0t4C1VCGlyEF+6xB+LjWcyUFiqXpWXoh9bxzSiF25iJHWoXFrcz299eNoDvnUXXU2FS6QBhWGeAR+yHT3s2znZwg64pqaKbHQ+BZ+WuIHmB5i2mXQo3i0e+cxZA/pvL6U05ObxndZOLKaD57RfMHZ59vUpWpXdunBm3ShZ47IviwuhVIkkJCZAUtRKHuEgRQWXR/FK/Q==;SL1jA8iNQlJzczLaYPBjLA=="
 ---

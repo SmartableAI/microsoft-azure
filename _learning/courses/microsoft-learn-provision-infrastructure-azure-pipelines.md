@@ -1,14 +1,14 @@
 ---
 title: "Provision infrastructure in Azure Pipelines"
 excerpt: "Learn how infrastructure as code enables you to describe and automatically provision the infrastructure that you need for your application."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/provision-infrastructure-azure-pipelines/
+webUrl: https://docs.microsoft.com/learn/modules/provision-infrastructure-azure-pipelines/
 type: course
 price: Free
-length: 122 mins
+length: PT2H2M
 ratings:
   count: 360
   average: 4.6583333
-heat: 51
+heat: 64
 
 provider:
   name: Microsoft Learn
@@ -25,6 +25,6 @@ topics:
   - Azure
   - DevOps
 
-secured: "XsBBlz50GcO1nqLAOmBRnF0YVESjEdNsIDtBBSzVOFGVdcA8n0tT+vj4fK/hd7GVk6umDQ6nNSi0gSLdmFOPRftX7y7dn5M2ODvKfc1nhxw06zPRlrq/FtnXZQbAwJVi8IkAKMHaHbWbR+79I7fbiew1LppEhCQnkzI86lDE/UZHllTLVW2AapFGvl5eUP3o1eV1qdHILSAgmMG/c/8H4dmmc0VstP4jEhLzdBzXSXziJZMK+HBnl5ZJGrKUXx0EwvRsiCaeuiPX/Rdtgs2yA6vCzV5IFXobOOGYWmxtJ8uOnhhX7gCrsI721U4PW8fkPFGwtUxYVGe9aNh+YqvFSVcsmyyElsEK/zkLE2UHG6zVWmEhDN6rTquJ133nszH/OEs78AxhuBvjCZXN7StrOTmbrESZ8pHCZvETwS14wnQ=;yYKMiZq/SArmuCSD01ff2w=="
+secured: "lUf2+s1lQmhpgshrenbatRitfa1wiBjqA13t/RHkat4BY6AwlSsWpU9/vV9PNJeILlYWDD+/K+sR51vyg5afanDZD41wkcKGsqy4gTWc9dIWGwR3JquFhU0iJN6wAsDtd1CebEyXw2JQu0V1N/qp8og3WGmmoQe7/KBz7jETh9VmyCunjOhlHlI0qtq2JJEKKLJ5cQ5d65AYk5PPLmUPtGthITkyHiCAuZotBryvr86TQSES0zhgwcyIEdVidKyrWdnAHmrEjSwwUSTVTgPl70R7rn4tuArXH0blV8OAo1BQ7lCaaQPh59Yl/JmJu+R7ijnBmpplIB7rO2mbYD51Kw+aUx3OPgLL6adWVmE5SQAoXpkJtBu1zZwEm/gyj/lNjmVV+QA7icl9HGo9CLNdbQ==;L/iqekTrNU8moHh09kv7qQ=="
 ---
 

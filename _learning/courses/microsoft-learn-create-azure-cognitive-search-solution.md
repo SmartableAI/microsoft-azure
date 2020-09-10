@@ -1,7 +1,7 @@
 ---
 title: "Create an Azure Cognitive Search solution"
 excerpt: "Unlock the hidden insights in your data with Azure Cognitive Search."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/create-azure-cognitive-search-solution/
+webUrl: https://docs.microsoft.com/learn/modules/create-azure-cognitive-search-solution/
 type: course
 price: Free
 length: PT46M
@@ -31,6 +31,6 @@ images:
     height: 320
     isCached: true
 
-secured: "wzzMgAzMvy7vLdZZso3T/8CxWtWfn4og9WUo5U7bvllnQQHk7yFx7aLo6D7Dkm7ELXh3QSBTLmhTSM3vsDlzX5cHVybz1klCGbr+cTLAvgBQkZMbDBVWnby3AJonnIzhNLWlJ4slXsCDkgUHAILwPkVZOdIf5rdI8uXLkq2M3OKEwOPwl0xZtEwVnx8Mph2a1+RsOfDA3bG7+4PwJ+uHK0KbK/y2eQagXfBRoD5TcN1arC7x/9OOExkokoE4dNQYaQlWpKQ92NW5vyHLe2uRtONf5WDiKuMOKlcTiY1fmiDj3m2kcvfQfGtHGTNCU/CbQ/gP6fYMOjYCRZgH3r5OXQQRCsRRDquEWfAVFvK3avZSpzAcPw6UemY4ChBeQyn298OgsAKwf7PEDfLVFyu8cUag3IIZuXDLM/KcAVZmIT0=;ihXpHXhDV+2KmtZHwg/H3Q=="
+secured: "+jjuEAz49gZJ5kx6TrIOyRP+ywcKCMRQIWX7OBRtmfmzE7J+P+HFZhc0Y3OU2La3g4kEQ6RoqzR70dFUJI9eKx5P30+IRE8MPekZKF6dDaJFdKSsmsfLsUw+gMr8FCruuZzpPsubAadgz9TtKQzCixJlzLPBLs0VdRog18c1O173i/dTZmNOBYPk+hWf3gU9xGmbEuGwFJ4OW1BswR4Sr0dZ0BNtV7UYoi5T3DiFhUp6ZNm7UZfBU1+NIp3eV/A3y9f30XNAKGRiL5IG4FRzGH5ZXciRlenivO2mEmWlotXxUZQzttnV36VLtwLJx7niVTx82lQFiIl5HBfriWcIoi/FnjDFLtDf4BSQwwkq2PORARENwCncvK2XfFKWx0xzqsc52WU21k3V8zF+s6pEEg==;hOZ8hVZ57WF9VkxMJqr1Lw=="
 ---
 

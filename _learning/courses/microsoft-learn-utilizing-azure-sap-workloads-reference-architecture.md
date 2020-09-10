@@ -1,14 +1,14 @@
 ---
 title: "Utilize Azure for SAP workloads reference architecture"
-excerpt: "In this module, you will review the Azure infrastructure options for hosting SAP NetWeaver and S/4HANA systems in Azure. You will examine the differences between the offerings of traditional outsourcers and IaaS offerings."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/utilize-azure-sap-workloads-reference-architecture/
+excerpt: "Utilize Azure for SAP Workloads Reference Architecture"
+webUrl: https://docs.microsoft.com/learn/modules/utilize-azure-sap-workloads-reference-architecture/
 type: course
 price: Free
-length: 64 mins
+length: PT1H4M
 ratings:
   count: 236
   average: 4.7415257
-heat: 51
+heat: 59
 
 provider:
   name: Microsoft Learn
@@ -29,8 +29,7 @@ images:
     width: 800
     height: 400
     isCached: true
-    title: "Utilize Azure for SAP workloads reference architecture"
 
-secured: "0zLt0OJ9IJjFDdWuuLCM8M/wIQq4c96/MWumiTrINQfKI7cR7cPjzzkciRaDtcgVFcJdofcw5+L3OGatKMEnTPM6+28XNh9JhXGRJYRu9Nph2kWF6NHdT3/5fZ1skekSn2/0mREKE6XS/co+fRQPw7mG+FoDqUkRbIvD88t9AXn1G//OeGwztjyq7Na6fleRhOvINyLBZGU+Ig4/kKA0P+ds14OqLULhTvpmc28p4hfOZj099N6nefmxPdGjYlQ8eIT8NOSXqa+/d9/r2nMH5hGYZ7LOJcFcYXSoi09Dwko9YGpD74OECep2P3IIVSiNq+V66w7f0cfq6N7/w1aey250az9zUGJnxu5UAAmKUX6B8GtcBIJhGobwD3dB5weSqWLpcWXNwoNa+R/AtC/ifCGYEGT7hbuoSzIZVFF9CmU=;z//U3bSFxoEK7KrlK7V6YA=="
+secured: "laPi/phBe6TFp0mV66h2AWqO1wT+mz6j9EXNKVeiPRJE7sTqhcwyMsXHJ1yUKE2/twkfUxroCvjlOInAXAsMyb5fLtNdKlmMxE43F66WHDTtNr+YyilvSBPwcVBl/Oruin1OU9Clbna2b2Z5vRT2LusQ0mEbIpqlOzSvXVhlRQpbv9k8H3rgEYNxwXFq/f3Vv/JnOw6MjaZZuXibsKf6vWLZ2t2qUrYyLm6MOPdF7mXITal5FK9KV4+mXKKfplhxrmBpZ/i64X+Ho9PCUVslEmOw+Sr3YnpGbXOpIPtHwsrdkD5rV2fFXUj4BVbF/ULiaZM7gQhzAk+0SzOnLLdbYcCvY8QJk9/tIsWUj49dRqTkui2xASJYLfiW+d5LZ9M9A583+OUHI0Glx/8tCUQDjA==;E3UPA/xP0WCFSUM3HQdifQ=="
 ---
 

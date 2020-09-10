@@ -1,14 +1,14 @@
 ---
 title: "Microsoft Azure Well-Architected Framework - Reliability"
-excerpt: "Learn how to handle infrastructure and service failure, recover from the loss of data, and recover from a disaster by incorporating reliability into your architecture."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-reliability/
+excerpt: "Learn how to recover from infrastructure and service failure, loss of data, and disasters by incorporating reliability into your architecture."
+webUrl: https://docs.microsoft.com/learn/modules/azure-well-architected-reliability/
 type: course
 price: Free
 length: PT59M
 ratings:
   count: 373
   average: 4.69437
-heat: 53
+heat: 65
 
 provider:
   name: Microsoft Learn
@@ -36,8 +36,7 @@ images:
     width: 640
     height: 320
     isCached: true
-    title: "Microsoft Azure Well-Architected Framework - Reliability"
 
-secured: "hF9O8TQvs4Icsrln/GxHTrcZHkOlNwlb/bz0+e1nWrZwN+9yE4jjHBee9KwFciFL/Oz7E1CYehQHEdTp1r49frOHFUAY/d+nDFE+Xbi0XjwoLaZPiF5Wuuvicsik8BHe6LX6F5tuZE7qVUvKqssQwunRBRKz17LkuYhOzIjykSLUsNSvfYHgepDorUGY8Qha+dmGr9i17rdZbjxq2OqWaZAbmS7fxWrQ1nuLMM2vsR7LC/8Yw9tKBz+YCZNjTP3vtZ9EomqXBhtQFRh9gEXm/FEJBTs/9I/tH+PGtHrXGkZx2JCUJ5eRaOML9Pvcq1wMvGv4s90eeu+49M8XsTLzgWdMuFNS4Z+kHFQhkyHzK3omQ9Svd70qh3IYylajlScH6eNSeu40tiqn/P6cxs1yK47zfBxImB9TC78cpuNDZ4c=;kQPFdDvvZZ8vt5YWcUkNAQ=="
+secured: "lHd6LxZoFk9L6SDA4h/46VmLjBVNYXgN5VHClpMM7qYdDX628gkyTEkAUCu9NCfwAHNbHXD6LJRzo81Gea2s2JshsIxtD5tb6AF7He7GrG4r+GR1K+zE+RmE6uZLl1AVKboS+YzCYXZQ4mZ2jy5JZh4mw+GM0KPgyisWe0D0iggkeUR0V/vKlA8ShbPZYhMbg6FdKAl0F1onf2fcDO8gHfrYCOwnhzukafWS3FD3fO5TlH9G3ZGaxZS2ry1KEiCUMHYIITuSxBVrRoZM8qEiYUmdmYj8QdE2X/NPGIXVzAxlKsbG8yKvGsNz6dAaLaODC0lifRbUBQviq7FlXbfhTz4TeuHKH5W1SV/gtWpLx6LRjMiPUvq7zvoTV3HbbvwSWsVBDYOUcRqokACXCUCcIw==;pN57aZEyxvZASSwK334Y8Q=="
 ---
 

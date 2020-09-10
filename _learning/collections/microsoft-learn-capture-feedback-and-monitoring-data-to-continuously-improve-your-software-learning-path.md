@@ -4,7 +4,7 @@ excerpt: "Learn how to configure release pipelines that continuously build, test
 type: collection
 price: Free
 length: PT1H46M
-heat: 52
+heat: 60
 
 provider:
   name: Microsoft Learn
@@ -36,7 +36,6 @@ images:
     width: 1000
     height: 500
     isCached: true
-    title: "Recommend and design system feedback mechanisms"
 
 secured: "UcmM0PDzsenPNIMujzNlyybHssLkMxuvCcQ9tYIo4P/wG1Vd7EivmqhnSgK9j/cnZFe7OjMK3JojFgd4bd95cyNSiGHMjuCZ34aBaU1RbL95YQqJt5tMK+dXQVR3miCxM6LX2TDMrtHdcORE6LS8wpVnX/fDBI5xfTM2HV4/P77VvixVedig8yLuUKUBrAafWvdbL1hxNT/Rp7RQxht/zwk7cuOUeJpjH021jbBrtTrOyazU6lCPwvo6lPLa+LtbGWRwI4TRuZNBJV/4KmK6+SX+XIVW3hB87TIQloKlvgLB42jkIvxQT7y+xDZsWkOWdJmi3gOx5wJgI2Y2xWYKkQ==;gP5+FFrAs2mfU4qLeHk7vA=="
 ---

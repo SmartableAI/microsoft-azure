@@ -1,14 +1,14 @@
 ---
 title: "Store and share files in your application with Azure Files"
 excerpt: "Azure Files provides a cloud-based file share for storing and sharing files to applications. Whether it's an application hosted in Azure App Service, an Azure VM, or an on-premises app, Azure Files can store and share file access between one or more applications and systems in a secure and failure-resilient manner."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/store-and-share-with-azure-files/
+webUrl: https://docs.microsoft.com/learn/modules/store-and-share-with-azure-files/
 type: course
 price: Free
-length: 51 mins
+length: PT51M
 ratings:
   count: 1089
   average: 4.605142
-heat: 55
+heat: 86
 
 provider:
   name: Microsoft Learn
@@ -30,8 +30,7 @@ images:
     width: 800
     height: 400
     isCached: true
-    title: "Store and share files in your application with Azure Files"
 
-secured: "pfzCg3eWqCsLQUpADMX2K8BYNEFJZiCE0nJdDL3rNJRxIQEDBJ76moop908wypSZcQyJrjvPeaTvR18NBVtLxYw/SDOwFkw6Cn27APlB+eUoMu5Kr5W2MiPQRIDyQwGw82+NHUzSeuMb1Evx0SJr6WOws/V7TAZUusEdQZAUgwlKOav+Gq3TCxjETyPJBTPM6a8Sga53HYzAnwIj3qD24wDoVkPWbWfEXpCUqfSB5/YXt99Euk4y3/no7aIhGhY3SAivVyz8SO2+SlFB+nCN2BfWVK1D+mN4gUd5Yu0nGOci8r1eKAxT+0oYk+KsJc561p/Pt/Z9sclbt1p8NaGuZGFrfIEFpdND75Yk7GDOg5N8nYeVHtzjbkp6EZT8JPSMGKVou2pCXCNOa6UvvUiKTSBz910uV4J5htzhTw9pdDg=;qEIm8zmU1ppGaJwcsdtd1A=="
+secured: "ooKo2v2YcUFHm8QLuGVL5iAVu14AmNDdX6nPESDKquSR2lTjQPr+Il4XbmRnrtTcye2QwY6u2eu1HzWRfEt8+E3NKix3n/7FSagN6Pv/NSGamnFkwD7Dqn3ivQ7aCEs15AKFStlFAbAx+/ER8oH0zY4HGeBGrqCu0MEoN+HRulXJ8vUrWaGEzLYMnF0U17L4DBkqWiy4rtwstd7YuNRnugMWxwFsIWzj+UhRBv0lakJvhjSte2F9LJTxufuvpxfrZWufIm0m+bgyNu+qdGb200mXN3RHWAm+TEITDjdR5mNTYVr+TP8IxsY6RfGkHw7RPZbamE1d3FqlCw/o14koxnCpHRVHChtj18iUtWbv4+PC2qIiwGczr+gOFQZUUdynPPwcw6hUC1cNYm1Hf+JEuQ==;CI2qKxoJbd0Jh9e3XwIcjQ=="
 ---
 

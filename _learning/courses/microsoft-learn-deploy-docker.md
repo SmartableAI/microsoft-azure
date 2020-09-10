@@ -1,14 +1,14 @@
 ---
 title: "Automate Docker container deployments with Azure Pipelines"
 excerpt: "Implement a CI/CD pipeline for Docker containers."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/deploy-docker/
+webUrl: https://docs.microsoft.com/learn/modules/deploy-docker/
 type: course
 price: Free
-length: 46 mins
+length: PT46M
 ratings:
   count: 245
   average: 4.6816325
-heat: 51
+heat: 60
 
 provider:
   name: Microsoft Learn
@@ -26,17 +26,11 @@ topics:
   - DevOps
 
 images:
-  - url: https://docs.microsoft.com/learn/achievements/generic-badge-social.png
-    width: 800
-    height: 400
-    isCached: true
-    title: "Automate Docker container deployments with Azure Pipelines"
   - url: https://docs.microsoft.com/learn/achievements/azure-devops/deploy-docker-social.png
     width: 640
     height: 320
     isCached: true
-    title: "Automate Docker container deployments with Azure Pipelines"
 
-secured: "QxYT54LZNHPNlbylbf/nQN/BIa7vM/nixaEOgYEBrQckifslpLek6tqww+gusOGxm2ucylcGu0wcjg5UCj1S4Y7S5HmUB3MxCBOCWGBJxVd+3n7Go+hKtM6FoypJ9FkLeBH6GaP8J96WkswC85YVkN5OnufsgRgfljP90nmAkgETk07M976PFy7NJsEfXZeSTQ8D14i1Y6D+0II+PKbVMy4X445mhNncfEAXrviQdrov75nJIjYmaxO4x25dZW8GNH50uMVERVpEagljcoKF9vwB17AAgzZ2YKDMKp9Lfd5rTLZqr38CWW4he9rsFP4twhUsXWZweyUZQzOdgGoCfL75r6IlsNOqveWRhD402SjHPu5w/CwNjgUIWwe8+Hq8B1PJJ6voJ26mpyusgybbAdiomoeRDkLjUpU/Ro3ygs0=;vMk4e4CdM9Opbp/PCRYH4w=="
+secured: "3v8MmK/R7LNGwMar1SV5oeZn4bIPiAIbvD43cbliV45RCyZ5GShHwrPJwCsuzZ2VhGEWNsud0UvKKCUw6IyEuUFugpJ9rIceTync+xZ/191Wh05/o5QXwWE9SvIWiiva3v5J5uUzEYuTwhAv+YG922J/nAlfMegsS5xq08D3TN6aSSXIYKtrsDDrCy2Ul/F4b1ml3onips1IGl4IXui0u6cTjb8X2FZjOPCdu0EBxTnIJkHEilkr6eN1OMIoiJx0xuxH81lwPOmlT3MelXeovz/s2vKtt+unIh08VulW5KaYg6SCPR+6MYA0kkoFUSTlTvv60OGJhUTAPmZ76B6qR2X+STlbMx5DBG3rTtNaxwu8fo+ZUzrDnRJ1nx4EpLNAZQVZ7IB6cgd6272Khn95KA==;0h5vk/jB2/3VljjTnytxvw=="
 ---
 

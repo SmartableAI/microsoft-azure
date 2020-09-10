@@ -1,7 +1,7 @@
 ---
 title: "Create and implement application allowlists with adaptive application control"
 excerpt: "You'll be able to implement Adaptive application controls within your organization to protect your Windows Server IaaS VMs."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/create-implement-application-allowlists-adaptive-application-control/
+webUrl: https://docs.microsoft.com/learn/modules/create-implement-application-allowlists-adaptive-application-control/
 type: course
 price: Free
 length: PT24M
@@ -32,6 +32,6 @@ images:
     height: 320
     isCached: true
 
-secured: "G8UIZEs9QYffOoRxvsaxs/KUsKiQ7DBJlDdN0RUSBwgbQSmagKSHhLOBQvaJ+zq8L2E2x6yaW1upkD9HShQdCVP6sJow8I7wfubnwOsxhZFZT4QsxCS401TPJtxDyQrcym8N86MJAcO0L68t5q35eS0vccb8hziX5l6ybJ8YU3LP3NfuEU3+wK/35ah8nx9KfpwKGwXHbGb4AGOEc15byMyU0AK/toRfbBiuxrUGofsKlKsXwchGjEATJUkRKlsQdXc51HKjVcUqHpCC3vXsFhccnBtUZoyUc3Jq1HWZ1jAgODmJULPpm08U4WtNLHf1DZC88+pkxuc4eYOFFoKh01bhCgOpwO4wJqYPmnWXAv2nxrrKCU/0yPEvZqkLl6ReS2TFmGTXnioKZ6VcROS//xpM8D5QOF9FRNP0oTmkBBw=;cPq0cH522IJLBjor4M7f5Q=="
+secured: "scXJ0+vTALkGF+IHjlnJsSz0SmRlBr8lozhy3LcIynOJH6b7zfx/y57X2yYKoo+VoLABwMSS4J1KErXmsVYh0Bg1SVw/w44yfgYNddwBz24DCKy5tZi0+WLvyErMXEMeE0IUO/b5VQfGxE5vz+AnvPcP1RPBqbzoUYmIxWtR4J77SWG1U8Hhn8rHxJKvOicj/eBHr28QoqSxFJJ/MEgE667/9PjQo770D7QVhz7vL/TDud7xZm/FeFTgjl8CEtEFbEoa7HVfnKZAbEZGkdLetCKqYFcca1p9ZXMDI4j+0tbhWza908yf53VmJy5jE1mhFenOsGIKHT/LsHbbb+vv8RKExAJdRR1KR8L59t65N89AmCZmTa3Pf0Gg6AV8kV2PSFl0htha9pG2YmeRC1PgbA==;KoMNMRB+lWxYfJSsaLmW8A=="
 ---
 

@@ -1,13 +1,13 @@
 ---
 title: "Explore DevOps Continuous Security and Continuous Operations"
 excerpt: "Explore two capabilities in the DevOps taxonomy, Continuous Security and Continuous Operations."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/explore-devops-continuous-security-operations/
+webUrl: https://docs.microsoft.com/learn/modules/explore-devops-continuous-security-operations/
 type: course
 price: Free
-length: 22 mins
+length: PT22M
 ratings:
-  count: 354
-  average: 4.677966
+  count: 355
+  average: 4.678873
 heat: 64
 
 provider:
@@ -24,13 +24,6 @@ levels:
 topics:
   - Azure
 
-images:
-  - url: https://docs.microsoft.com/learn/achievements/explore-devops-continuous-security-operations-social.png
-    width: 320
-    height: 160
-    isCached: true
-    title: "Explore DevOps Continuous Security and Continuous Operations"
-
-secured: "CQvYbJgMuacrolWDUMvM/YLcJJShN2KK2TmeGKdlhUdefijXwCfO+f55W1utkzc3xVXOB6g1MuBP4tZZrZrQBs1XdiEf3zEM+p/Zc4oAejT5l6EQixUUev+oXSj2OkDD7giZpLedfuKQt1oztLugYECXXWpGzWy55mythpWndynJocmHj0/C6ppWLb3uupBKZfj0Yf79Z5Kqy+R4lQJvK9DyTw7/Y+xk4IprX2/xjsRisoPFRrWkInZO8pzYn/qmw1L0Kh5gjsJ7Bj41TgapFr3Gk3AV0nMncplnzc7kLQhEyZzIH7gaoy1zUVCQIXk12SAD0tC4yTiioRrDFS1iQFhTuwxdz4huj1/p4P81ryH2LZKZZttSMLl7JIt8EqbjICYGVrq9dJdF+KUPHkCdZwQcObou1THjwCptVChrf74=;p3fbUiCHjM47bobf4DoOSw=="
+secured: "6obgzUUeJzDXAftQcwp3Op74/F3PnhuQo06i+fDm9o8X4GvG8000QHHbQ9Vy1cOaL5xHkwalsUWi3eWA3fP4o5+65f7H2MdYulFvTw/KB6F8GG0IKEae3yzdFn9oq8pVcZi/HuyObRTrCHR4L9DrfQ8F+J5Aeb8t9OQqCtz3zd6hhEwEDTrcC3Lsfc2DWj5B1fDVN+SbYVZHrhOX0Gw5r8PBz6NqukxOob2D+fo7vzmuZj+ISzhbklBhfoEYaiRSrgVmZZD2d+2HYsxRGtdb37S48FuNMZdEPsJfJR5mTiW5704TJOxNfUCGxNTS3HJv6wQmBKDp7V6r/qMvRDHZpg0DhUraWOsPHmUwUdARHKwrDAXfMoaKQzct4MpYgUOYGfZFxEkJIpOK44Tz3ypjhQ==;82fJoug9ynkr11oI5apjug=="
 ---
 

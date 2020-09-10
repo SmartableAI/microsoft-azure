@@ -1,14 +1,14 @@
 ---
 title: "Introduction to Azure Cognitive Search"
-excerpt: "Use Azure Cognitive Search to make your data searchable."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-search/
+excerpt: "Explore Azure Cognitive Search to discover how to create an index, import data, and query the index for better search results."
+webUrl: https://docs.microsoft.com/learn/modules/intro-to-azure-search/
 type: course
 price: Free
-length: 53 mins
+length: PT53M
 ratings:
   count: 164
   average: 4.628049
-heat: 50
+heat: 56
 
 provider:
   name: Microsoft Learn
@@ -31,8 +31,7 @@ images:
     width: 800
     height: 400
     isCached: true
-    title: "Introduction to Azure Cognitive Search"
 
-secured: "sr91i4v57DTaSIrYISwwMXiq86hhpVN/VPWHiEzp6QrtJPKuoAuETthCOjCnkJENSbLAGWmaQIreZ1qQDgI/b3FPBJNvg1pElrFbjeUbBROGkmWQjEtMKV+FgCTCuLChgyFktlburG+6Tb2nW5PY/kGzaGb/5DSrehw0Jrl1jBfho3z7FRbgcgQFFklqM3RgTFEKX6JjGEW5jeo6r7dMbALeBxILMkpXMSX/3Gqc0FJ6uBcSxLNSYoRKCM8Qm3BUqqiASLcGxvzl2+p7aeW4viCrM0ga+iDEpYmUjsYOmgkeqctdrMWj48V3/dpn1tQdFX1bJKOMwicg0KX/hD4lwViK5uy5FxHo/K0HVqNvA1R5wa3Uv45dNNlOFBPmAlwgyguXoTBr6sziHX/a2Ect2x62h8OxlE6EX52A1gxidmQ=;Z9inUX6gYzQBHIUEfm5Ktw=="
+secured: "ZE8KsOcLxUt6YmwCV8yO7dBs7FAVeZt7SCZZ29r63VQ4UQkclAjZQPW++ehI5UtE/kVP5/1a/r/DxkJNPRlVdZp2BrbNt+UKhU+H0Pig3bS4Gfb4d0yZTsotsEjk0axOGm8ehRYtFZ8xT5YqrP54QpgthZ+eTnviIbIFhCqUXhoFCVqPvY5QwKJB7waiwxoveGelIbUL4HJ9poZyO6pdA6V9Ir/MLZa6w40sPJibpvK3+OJutgu0gfcXtaQdcXYJXYktDYgzbp7MO91qW7wmgL0zjr07jTMcFYoWdSHB2BL70OTg5FMU2t1xjEkPFaCJ+zd88SaCBDB7sUmHR3wQOMxh71xeGEKijjrQqzslbuXy5cfKJRUMzD0I53+XEAWL3iOTk0oOnU4z1mE74HwjJQ==;0jbMtF30zf07CylhcaKyyA=="
 ---
 

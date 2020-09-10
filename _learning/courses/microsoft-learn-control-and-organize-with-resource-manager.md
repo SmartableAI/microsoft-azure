@@ -1,14 +1,14 @@
 ---
 title: "Control and organize Azure resources with Azure Resource Manager"
 excerpt: "Use Azure Resource Manager to organize resources, enforce standards, and protect critical assets from deletion."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/control-and-organize-with-azure-resource-manager/
+webUrl: https://docs.microsoft.com/learn/modules/control-and-organize-with-azure-resource-manager/
 type: course
 price: Free
-length: 46 mins
+length: PT46M
 ratings:
-  count: 37252
-  average: 4.7124987
-heat: 93
+  count: 37254
+  average: 4.7124605
+heat: 279
 
 provider:
   name: Microsoft Learn
@@ -25,13 +25,6 @@ topics:
   - Azure
   - Management Tools
 
-images:
-  - url: https://docs.microsoft.com/learn/achievements/control-and-organize-with-resource-manager-social.png
-    width: 200
-    height: 200
-    isCached: true
-    title: "Control and organize Azure resources with Azure Resource Manager"
-
-secured: "azG2Mb96oXaKHh8lfeXSCHVK8va9bkt0i++xlM/wxbrBLQRe68QxwQXTZgq+lhELvZUw2uZJtuqvvVOmoD5f1dlmDMTP2mlhfyFLbDBmDItbFpz0el0cJALTh1yg+GRu0c6PgmP3XRKbbBZI3iga+1y7y+C5MlQbRNWWd5Fg69l4j8fLXIwjJsQs4DK/o2ubTR+R/uZbSR5b49jT8cQdu3q/yK+JRsSSj5XSeZ2QEBedTmDUeQdcUov9krtV0RihwKt6gL0I3iprJXeMPdjBafN3l+i6PVHAo1dk9Fx2ZxSBhu3vjIsHStcnC6YLpzVP0c6jKRkdukMvcmjXEmzzcskOSIjrzjYxviNZuwgPm6pGdnZUkiLECWT89WMiFO+iNLa9Jr6msFvYxx8wmmdxdlKGRH3Z3eQwf+mjHK0YY2A/DX4p69IBx6r3jP9sC2Bu;EQ1a6PJbZdAWHCQZJDVbMw=="
+secured: "ymv4kNRtgagvwXodq9ad+E7+2WK5IYV7TSyE7aI++K6ixuOpCZdzUCCJoSpyFi+ZIR80XBkS/nXk+Ltz41U9cCEDPrvokICX/uuJHhtwhJRRtl83Fe9sg+/kYZW4DAw5OY8GO1IcL6q8v3xL5Qgw0oNisQffRYwC9P6073KWmcKKvvEg5idY530R3L/jcaDuGKwnhQFcyksMbp8afA3h2FLYW1tZcOWKrGFOzpA03moGClaWC1ZrsZ0j5BLRXRQ3lHGp7NN7S4/ZpfBBqei3SYpvQSFDYurTmUjKLOW+Y75SCvwrjC2FN6cQqbQmoeHOSCL/Hzac8vfLtJcxzKYEvhoGIAHSMBInOYTO1N6O9+/CSchWzkwzUMNgLhvCE/E0QbBH6fvX/KrbDqqxcRBnMQ==;S54641PHOGDfLsGqqqGQJg=="
 ---
 

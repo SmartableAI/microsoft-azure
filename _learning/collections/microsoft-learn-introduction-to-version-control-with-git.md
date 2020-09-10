@@ -4,7 +4,7 @@ excerpt: "Git is the leading version control tool and essential for developers. 
 type: collection
 price: Free
 length: PT3H0M
-heat: 51
+heat: 61
 
 provider:
   name: Microsoft Learn
@@ -35,7 +35,6 @@ images:
     width: 800
     height: 400
     isCached: true
-    title: "Introduction to Git"
 
 secured: "M5hJ0Szj9MThwpOJnJpvQMOj5mo8l2MjVzVWvjWZNQcX30crCtiu/OHMb3Z71lzmtfKksIv9Fd2SQxuU0I4a/ps3FJJ0IkXGRdVbe3WHfKpJ1QyTQ9yCcwAJj7VQ7Pe67NyDrv+3NATzLsYntxnfS1Pg7NjuxEkIDF7vqJbnsrd+BeX46J2ClUQiJQy8AdpGlk4zUshBCqXBUmPdFHUPz8aEHXSGS2hj+3nIhu8oxY/zPnRTB5y7j4XDooGYEV6PoFMmn1/Ey+fT/HZCIoZIf9gf7P8RW5tfLTHWP0u4avE1XCuPrNthSAO23cGF2CSsuuLBJ6lT5HVIj0ZhbgcCEA==;uGUNN3HERggkhMs07h0Cgg=="
 ---

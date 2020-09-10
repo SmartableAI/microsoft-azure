@@ -1,7 +1,7 @@
 ---
 title: "Design with inclusivity in mind"
-excerpt: "Learn the principles of inclusive design."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/inclusive-design-principles/
+excerpt: "Learn how to perform inclusive product design for users with diverse capabilities"
+webUrl: https://docs.microsoft.com/learn/modules/inclusive-design-principles/
 type: course
 price: Free
 length: PT33M
@@ -29,8 +29,7 @@ images:
     width: 640
     height: 320
     isCached: true
-    title: "Design with inclusivity in mind"
 
-secured: "cJsLyYgAp0Gw2xc4+Xkp7veqY+zNqU51HWP2twM1EsiSKtF+MLqQPuiFgsRpCfmbpnIdlkrS/zp9AFcgHy2ZYtKmsdmwbpZMaeh5vxWKyE+UZ5ksCERcLaoSRKooqysldj6d3psuBEXSE8R97ghPEpecQpmNBb312+tk08WJnM+j3NtozwEgQwZW1A2Ldq3SviGK35/4svafaWy/lmXdMFAHhhtZ5Ask0tAPbWJnsdLmmJpNCL5wRhX6+etbfyVsUA3dIZNfwqWIq6hsRC28lm8ZRsVLyk89oaGthA6rHTMqwDPjfpZPt1LmnhJEQ6mjCWjZl5aBBA2Rm+nMVm0aaJcG3GHTZN8Tq0FXrxChB7ccsjEfocMCwATdJQWdv+XCOKJaxXTEEvgBdBJMFpP6an9UmtEvhr8drgBiOwXJJg0=;VwVka96EOjTibculFoEflQ=="
+secured: "J0AiTeGd2Tgs66y7QU6krYXsRBZEJgHGOr+7Op767d8487QQsX/ZfC1TuCEe313it3Ujpdo4ByDSeFOcd7ewR8hewEs51C2vn01um5saN4kCBOB9fkBCtxNR28XSGTIQJK1dakT97/WpeBsj3EqxKT0IzY6p6b5fpjMYHXTwTd4aaYFcoOErnJL9JEmPgsCTFXkOPnue6R+NZxjLMn9CyG+dtV7YUDKY3b7Zi0+E1IqyAWeW2DRZLsSDHT6h+wYlg+CUmg+HJHBF5wpsBnzm15yV9n4+4rUaVqZsFwoqdrR+5V0oQX5Auvg88FS8xYL00itKeP7OP8RhYsZsJ/GCi9pMnn6MPc0Tr23LgwdZ7oL8PcxCBQkeZV1UG/3CqVOjdzq/yZuBDhtDaHEt7kNbhw==;x+OnRIhaXB8Oz2QsWM+IFA=="
 ---
 

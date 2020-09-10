@@ -1,14 +1,14 @@
 ---
 title: "Core Cloud Services - Azure data storage options"
-excerpt: "In this module, we'll explore the benefits of Azure data storage versus on-premises storage."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/intro-to-data-in-azure/
+excerpt: "In this module, we'll explore the benefits of Azure data storage services versus on-premises storage."
+webUrl: https://docs.microsoft.com/learn/modules/intro-to-data-in-azure/
 type: course
 price: Free
-length: 25 mins
+length: PT25M
 ratings:
-  count: 53468
-  average: 4.7331676
-heat: 119
+  count: 53473
+  average: 4.733174
+heat: 305
 
 provider:
   name: Microsoft Learn
@@ -26,13 +26,6 @@ topics:
   - Storage
   - Databases
 
-images:
-  - url: https://docs.microsoft.com/learn/achievements/intro-to-data-in-azure-social.png
-    width: 200
-    height: 200
-    isCached: true
-    title: "Core Cloud Services - Azure data storage options"
-
-secured: "6LtL0WBoOVXymGjyDYnU7XBLc71ymvaRXnUD42m4LLcymoHpbeJKajHeIj0qSsGSzNJhCTZqCSbOvFB2Kq13MLyywqX/yF9KLHpBv9CNYSBR2SyudyPm1xxEj+9MkKuVAhuldovKImFh86SXnfTYuYQTn1Y2hfm/w48Ajhe4O3x2rhX85Q1KkfLp8ecLeQaqjq9TRRDoYqDGAkgEWT3RJe9AAsV69rDY4mvujxylYtTfx0BZ6LuBT5oPG8FC4mEoAzwQfpZRqq9iKW3SLitqyTwZSBeMIO7pCPxtEh7H3HhxM2HLTS4rBSNTx1CsL/FZjLab7UFtV4wL03cUZ5Ve1EQpYe5z8sNRufsCP4WbUhuCFqArjmYNUlZgXUWcsudIO56hfe4mv2LOZW91nN56JEAKIeb0Lx09OdzxA3fISaKN1FaMHlr2GvHJ73K3p9us;dUcdPoBp6JAo4fRPIZFfzw=="
+secured: "XMAsRg+WUBvVvN27wq9mnchvqoFcCWpKVoH8dTIgyCa1yiNroypJwOZvcf8Rb4MBlihzN4Gr98Hp3A4CbPzQJ38RRCpFtVbhvkjgYXNzEcdJcNLuuaSn8EehGq40uhKhR8A+BDl8ZnNrvbr7QpIfCpCtlFI1YqDwAZ+xBZd55IgGvqOW9upU6Pp2jj40tzGGjkagvzURollLFTg5WZw04/H6LMpf6/H9DC8ZMUmx75drA89PgA8AYclvOD00BAR2b4k7kyZhGsuq+EInzXpvFc/ADLWsBYYCt8kOUJ3SmCNKXOwT08jJG0kB//LNsLJ4TbV/wvj/VAXg28wMndNrx1cZ1vFH3Op/HXg2f8ZSRcKrWpXludF+ILtQ0FhDtKLImZfSMjnng+0ka97iqZwSvQ==;e+OSUt8zJK1VSAZnDap4Tg=="
 ---
 

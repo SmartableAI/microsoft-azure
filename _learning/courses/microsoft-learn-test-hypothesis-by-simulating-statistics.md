@@ -1,14 +1,14 @@
 ---
 title: "Test hypothesis by simulating  statistics"
-excerpt: "Learn how to test hypothesis through simulation of statistics."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/test-hypothesis-by-simulating-statistics/
+excerpt: "learn how to test hypothesis by simulating statistics"
+webUrl: https://docs.microsoft.com/learn/modules/test-hypothesis-by-simulating-statistics/
 type: course
 price: Free
 length: PT60M
 ratings:
   count: 48
   average: 4.7083335
-heat: 50
+heat: 52
 
 provider:
   name: Microsoft Learn
@@ -29,8 +29,7 @@ images:
     width: 640
     height: 320
     isCached: true
-    title: "Test hypothesis by simulating  statistics"
 
-secured: "ZPd9PCn1/TOAy5bQVUtzdNuH4l/jAMc1kREGutbhWah25XXnk9GJvx0TEm0msIpxCk9QJ5UHo9xu7WHeT8EICWD//vbHKQuZDNyc793fHQ7MbPv6ZrrhyjWnmruZJ3MvVnYE/e5+3H5wryq/l0NGAn+lEs3zyZYY8vbcY4MPqoJvlZ9s0IweP/AE5dj49x3ZOL/C4SAu3i6LfQby9wZrAHoep9xvuawmXyCAhLrDu2O0mglXiPZOhJ8/F2809OYJv5XYJDWG8y5vIjlxBpGWUZgItqFh6EDzICl6bSw5cY1u7wAwZ0azfPaf8vdWY0hfNAtaRo2LUVMoJQY/4BHemMjTKODveh0fEW4iP0asZrSJ3z0lVJn60A5OnXZ4JcshdnQlrqN2NuQscGS/OEUQnqoLWTkusVutZFaqBS/PIEM=;YWIONNo6MsvzBY7QXVkZZg=="
+secured: "OyrSwnAXzthYg52xgpmARVycSWGOWtH/A7x7O/WbD9hJ7dJryd5awASvo1jRtjPotYoAFbpfMeMKksm5Ayeic3MNpLoMyGzWoEH8sOKCgPsyfm8lrhzT9ddQpqEg9alp0Wc36mK1Qcx1Cg/el0FS/+Duf8de5CrSoTrRsWLfWBJdne++mIXAZIZJ9aHAGkZKunY8zUjTOh/bLL4g9RDmBshKHhGheznE2GaH2Cu5p3ehwyw3HCJa3+WcAQku1ZalWCuc/ZMeg+fSpoAnBc3OkJFPE3x6+lB5I5EPPOD20VbDZVO9EhNSo8yRF7MA/z7WLrJwaPOXkxOkdQ968n4faqTQXnybLbK/oWGmgC5+gNaciwnTLkGNjcBcfItp/vVq6BF1z/wDJmF4jgOZ/wurpQ==;YkUd5nFF4eK0l5P6dSJa0g=="
 ---
 

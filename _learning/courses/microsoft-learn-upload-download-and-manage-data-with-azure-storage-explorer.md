@@ -1,14 +1,14 @@
 ---
 title: "Upload, download, and manage data with Azure Storage Explorer"
 excerpt: "Azure Storage Explorer allows you to quickly view all the storage services under your account. You can browse through, read, and edit data stored in those services through a user-friendly graphical interface."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/upload-download-and-manage-data-with-azure-storage-explorer/
+webUrl: https://docs.microsoft.com/learn/modules/upload-download-and-manage-data-with-azure-storage-explorer/
 type: course
 price: Free
-length: 37 mins
+length: PT37M
 ratings:
-  count: 1348
-  average: 4.620178
-heat: 55
+  count: 1349
+  average: 4.618977
+heat: 93
 
 provider:
   name: Microsoft Learn
@@ -31,8 +31,7 @@ images:
     width: 800
     height: 400
     isCached: true
-    title: "Upload, download, and manage data with Azure Storage Explorer"
 
-secured: "OXGdphT/zUFwyZnBR9+H5TSQPTsx46FzimeZgIucpn+gSpyLHamLLu/l6sHscPfNl8y0VgBvMqeMOEeyFocXO/0th9iGkt3aEbHfPl/hC4XJIFQrRT0H44QUgGTU9JjOZkNuTGoHumVBYmhVsRQSmnFhW1M09hFjxMoHpIukEwHzoF4nmWCitDh1G0MsEC2T5Wvtf9KYO6/k2PEssUZ71xro6HMyyj3UkDbupEOzl29R2AIhvPz4TC0w44Z2dAPYKp89RDycNOvxqNXJpk+/1HsP3676T6Hp7gH/WW+FWz67gkMInh5T5VNA5yblScjNUJNMploV2aEUCkhZmGb6FOE+/BuyZ4qhd3LqyfKbm2mz+u+bZG9Vm34B9bqiyUzVqVzJ4x+R4MUlVIMYO4ZpfkkktP7b5PihMhd1sOY25ME=;pM0vPTnw57VQbv9SpcJLAQ=="
+secured: "joQvGNq2TqVOzSzzWsGo/hLKEEmpJxz6GrQFZnC7PVcWr8GsrLVK+194YtO/6kWGZXunbLPn4YxA72wvxfvikQCDUfXHNgQQuEMy3LaXxt9dkH8Q2GPlsNQkyxGT1u5OP4f7cE9l2KWuCFSAdlY+T3xAixyM0zxmI/PBBfWLgr0XxTZhyJJPQLkQx1hYDG6YGBqhdzeV5Eglq1WMLeWP/wdYuWVi2eLWf7lpFvawkmmxV+EXBDgHrNtAs+zxTRJDkp3UOKaPxO0cB3PHL6wM3wx0+4XWWBX4Ju40eYz/uu0ra3D38zz+JXKKvV3U1YcM6QqvVwDL+jJuIovBRp/hm+9KVHOgjtUg3HYRUcYi30Im05KrYicm8eV2zvbmGdbOkftyEr3WeJOw660Leu0O6w==;zpCfaa/WkPEM6lDSixgLsw=="
 ---
 

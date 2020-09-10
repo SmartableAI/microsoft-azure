@@ -1,7 +1,7 @@
 ---
 title: "Automate the installation and configuration of software in your Virtual Machines"
-excerpt: "Learn how to use the cross-platform Azure CLI to create a virtual machine in Azure, and use a custom script to install and configure a web server. Automate the installation of PHP and the creation of a dynamic home page, then use a web browser to test your installation."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/automate-virtual-machine-software-installation-configuration/
+excerpt: "Learn how to automate the installation and configuration of software in your Azure Virtual Machines."
+webUrl: https://docs.microsoft.com/learn/modules/automate-virtual-machine-software-installation-configuration/
 type: course
 price: Free
 length: PT39M
@@ -26,6 +26,6 @@ topics:
   - Compute
   - Management Tools
 
-secured: "Zf1GBIKfh7soQjUzo5VM7SAgw8bJQ7hqDa6tZO69Q/pvjddxUChg47jK/ucDQtYIpphxrPmswSd87It75nz5IaVWczqO5GrEbyKC1XFyaWrNTXo0KjahZejjeew6sUZDuOhy89lIhNPdN6OGd8kjDpbtXiwJSmd3i7tZ2B2epavkzs1v2IBKSe8MDXDWoCI/3fStEobXntE3nyLUulCavW3uK7k+3U1YvijdVfw3F1TesrtSlVV5/bVl3GONjO7YDvTSKVQ3YGiqRFA4xpSY0HBl7Idxr0REkY9kZwSiTjYt/6gFufsPa45hh+4Bl5Qmp7agkmys5/W5u/kHqUSGL1CEhc/GjI0GB8Q5869rgYfLCqTQQyJ+E1luaadX9iTn7RIrQ4uE0vHVT9CwRsl1mqwZ4Eq1GMHUn6DbjPaOPaw=;CnKQHfFfWGfMJprQCln1ew=="
+secured: "mfevlJbJgEgHvh3uUsvTJB8aV7s3DzDGBOOUxgVtV1w4zQxy05/fDLwSwrXgUHBk4BuxMhDeR1/Kl7KU4xCSvdB/I8DXH2CvsTigG4cyEu3BveUiPiTkRQBBCpZgejWykJJRiLPQEy7phY6+QRmEuyc/9ND3La0dXQSCYBXSSy8ykeFR8Kc26BfobDzLSHn2dOMu5k7TukuZ4hGUVBYUvq5g8zNMkvTlcZAvMYh+SmTi4OND8iafN/gorSVucEDMuyQFsgb+XS2upm2tVJ/BPbJcPNVHlG1RwCc3X6CsP1tmDil505rBY+7WKJN/eahABf0yNqe9ZumbQXDxbK+Aj6BTmgeO3l6X4zPi/xcP/ueEpuSH0IPMWxPGrnBMXzRJ4thP8p88dHYXD358nI73sg==;kVGBb3v7ApP7EatZ5S7uCQ=="
 ---
 

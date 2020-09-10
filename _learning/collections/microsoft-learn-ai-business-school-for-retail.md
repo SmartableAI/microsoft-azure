@@ -4,7 +4,7 @@ excerpt: "Retail industry decision-makers have considerations that are particula
 type: collection
 price: Free
 length: PT9H31M
-heat: 60
+heat: 97
 
 provider:
   name: Microsoft Learn
@@ -54,7 +54,6 @@ images:
     width: 800
     height: 400
     isCached: true
-    title: "Define an AI strategy to create business value"
 
 secured: "vY8Ly0WAk46XQoGU8xiYpZsoNAZDWiApA9u9zmVn5uthAP2iQsE24tFMRmw8qX+kxRwt7agpxMRT7OiHjGJ6sJv+s3zDuHOMr1RegeQMoOfT9MRlgZJOHlMVIPuY9gCEH8+ar1xmk8AvlGt2OXg7aTdRd4t/qDaKQhy85WTwHzyw/YNnnUvrLgjQoIAblLzcIKk5QtvzmbFBtVyWSGad9adZwmsQnx8mNPYy9eZwV6fHl26oTU+CUs8QqOLjNGSztEXRTO5O+zV2WqrCZ1I1dfIZ4yj3/SPOQQjzq9AQQAsG4bQR9E4PioTtiNuKmR6KiKiP+J/abAoDlK90kNHJmQ==;0mwNCt42IN3flG+dFUWp+g=="
 ---

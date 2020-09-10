@@ -1,14 +1,14 @@
 ---
 title: "Define an AI strategy to create business value"
-excerpt: "AI has the capacity to empower the whole world to achieve more. From empowering technical development teams to mobilizing an entire organization to unlock the true potential of AI, enterprises need to think strategically about AI – and they need to start today."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/ai-strategy-to-create-business-value/
+excerpt: "Explore the strategic components, use cases, and special factors of an enterprise AI strategy that creates real business value, with INSEAD and Microsoft."
+webUrl: https://docs.microsoft.com/learn/modules/ai-strategy-to-create-business-value/
 type: course
 price: Free
-length: 70 mins
+length: PT1H10M
 ratings:
   count: 2138
   average: 4.6978483
-heat: 50
+heat: 110
 
 provider:
   name: Microsoft Learn
@@ -23,15 +23,13 @@ levels:
 
 topics:
   - Azure
-  - AI
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/ai-strategy-to-create-business-value-social.png
     width: 800
     height: 400
     isCached: true
-    title: "Define an AI strategy to create business value"
 
-secured: "TjVBhnJEUjYpfeSVya23HQItGXACZatR4AAtWhyDkqYkU/eTeWWXhzMcKKAWA14QJiv0Cze8bLx9vZqRXRfw5qRwwGmUXmhvLTY+8h2DdPNMRPzOVaZgyGf0qeky8qNSq9yoIM7LciIvHQtxAXHxh6i/0axsdekWW5UdJnbh4Et11JQJLzvJ031x+erIg5rFJ5JjXIl2Y+FV2pTDRTDyTh0a5LGDTpVuH/MZ5IopdWdu58IXXJ7TjiHZeeY6dPI+FtCjbxecSco0a9me1qJN/Qp3XXPp+5nn/L+4nHyKro9fkguZwYR+YApe3Whq4Qny4+TLfgLmgJEqAroq1DjBVSUfV/pvZjcPqnVEY+w/mTt3lxeRxRjjhx4NaTwsqrNtfLVXx2vWwnglB2u4p3Knippo4ZOoN0WkIHDPBF4GdV0=;KwzpvLaTC+NBiEED9a1TGw=="
+secured: "iN1VwnKk9QHxBEr35a42ZIS/VCwVeMRkkqjT2Hq9d/PHlvZmsUyXv5Fh/KOUfcPuy+UWQsHCDmb1C4aFgf5ACAjTTqpG7VLJtBoooJK6Kzj8vRIGNg4W56ag8OgA3vcNa9OE/JyaHHYKdKFi9ou/toq18p3W69F8R7UBYYQHhBv158GEvy138jtMyZDMZQqDAiF05eG+2SQZNuR7qRBVbZgZOCeRYShBvfCWQ7/CiTeSlw+0/OoGrgQT8W1VVbGFIm0tXEYUBX4XXcm/30R2MZLm3M1N+G4oaqRnlqvBy5cxSUuYWCzEi2gf1XrDaXZ9UYbvA88C4WLXaZBHoAoyOLkJUB34vTu4ZUIHNiYncSVO89nqEl48GJLRTPho9Ezy7+2REtzaPcMEAXs6gc+YEw==;l2pZKre3kfixmSCqxgyt4A=="
 ---
 

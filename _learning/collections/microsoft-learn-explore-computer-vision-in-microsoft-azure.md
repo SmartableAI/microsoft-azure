@@ -4,7 +4,7 @@ excerpt: "Computer vision is an area of artificial intelligence (AI) in which so
 type: collection
 price: Free
 length: PT2H53M
-heat: 61
+heat: 69
 
 provider:
   name: Microsoft Learn
@@ -42,7 +42,6 @@ images:
     width: 640
     height: 320
     isCached: true
-    title: "Analyze images with the Computer Vision service"
 
 secured: "GqUxxP4G+UwrRGfooZU5R144Ga/o+2tIJz3Svt3c+An79mbQK4T+0cmQHRlk6PoiG61nYnMPearoU6qLqBv+EE94EiyAX6bzSRpv9yHReBbOLzhFyQ/JzoOIeeZWPceYSd3JzJ6k78jvTZXC3QWf9/Qvkr5VFTVBNCZc/pR29GAVXywmNMBClpb4yef+cnY9IPHLlwhMLeli9ULVgo+KYMXtCgvleoMwJdSU1/f3dFPFEx5nk23oA3JaysZn0zD1UDwvGaifkMi/34IB0NGeNsVuXNqDpw0sxprjNFlg0Wt012R3/BejEWj4adKs2npVGDLIHttWMqqr0VJoxUwvJA==;dX32jYhUrr/fCdfRKH5COQ=="
 ---

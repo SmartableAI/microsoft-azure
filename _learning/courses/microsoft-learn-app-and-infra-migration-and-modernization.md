@@ -1,14 +1,14 @@
 ---
 title: "Applications and infrastructure migration and modernization"
 excerpt: "Every modern business is powered by applications, such as internal procurement applications, Customer Relationship Management (CRM) systems, retail websites, and third-party products. As your business prepares for digital transformation, it’s important to begin modernizing and migrating your applications and infrastructure to the cloud. Azure is a key component of that process. You can choose to migrate, modernize, or build cloud native solutions depending on your business goals and how you assess your application portfolio. This is a strategic decision. You’ll be able to choose the path that’s right for your organization."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/app-and-infra-migration-and-modernization/
+webUrl: https://docs.microsoft.com/learn/modules/app-and-infra-migration-and-modernization/
 type: course
 price: Free
-length: 43 mins
+length: PT43M
 ratings:
   count: 5204
   average: 4.7473097
-heat: 56
+heat: 154
 
 provider:
   name: Microsoft Learn
@@ -29,8 +29,7 @@ images:
     width: 800
     height: 400
     isCached: true
-    title: "Applications and infrastructure migration and modernization"
 
-secured: "uWstV4kvk4doSrn1q6WdzXWaizWhon3ik97fA6kgje+huR7DVJnpnnxk5+Nj5bg6anH8Ric6jbPIIpFNGD6/Lti7k9upLbYYGqHhpau0VdSPszZkH13b3bFBC0zciAJyQtVvoUYHtl483egXW3pN/sGwoYnpFTV91s/xKezN/PBOgvIniLt1AuDZpjA4paGezp3dcECWXhmJRGsgEsYr6nKRxLF8Mn45HGv9FC2ibiRj9MPUbM4quI9icD7JosprX6f6LKgbLW8u1BxagiB/Ibx4qMMNmm9m6ekOYEr6QltVDPju6D2n1lMxHZXykS6TchGE7Xzc/KS1Pr+1i2qETNRfxD6FX2LvxZRdcE5uPI/qYwLT3sioPkg1Ngo98EUGxg+H8sDM36MsLLs2YCL2QYQ99bEoCtXe4kpqrdzHNjQ=;vXF6eU3UX16HD51x2c2gyQ=="
+secured: "cIvqUajyClZ/ZNp/XATZSM7UvTKk0yCyPB1wCwizws03BD+4dbKAo5GMWIK5mdYIleZaTtDSF4+A9i2P4pGhyhm9p6MwGUiS4/1YjSaIxwPfJzGNoXYAmH2UeAb7bcuy1QtN6L5/Xa1FKmP3Apg9K/qnx4or7FVTVNdKi+/DcC4HLPEpLimCHVimnPUhIef6amITDo2w5DIBJE12SQgWW4yRza+AUq0wL6bMoj2wndXODbVJv11S0n/Ccpm5s4z/2OdZkaQiP13WozefIC0UbvSexMU6YRxtcCShqrb/DRp2ZnnR8Riaur+SLFV7RAm6lRPSSMb1yQKzbNbsEezXmMXmBA/f4Bof8p5kY/VdEhgHiVK1JHrpSYyTyIwKzFYYCZq+NvqfDYzIZDV/JJiF7g==;C6rGdC6Ql4vVpv/v2YWCsg=="
 ---
 

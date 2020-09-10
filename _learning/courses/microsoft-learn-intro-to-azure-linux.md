@@ -1,14 +1,14 @@
 ---
 title: "Introduction to Linux on Azure"
-excerpt: "Discover the unique benefits of running Linux on Azure and how to run Linux-based applications and workloads in the cloud with Azure."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-linux/
+excerpt: "Discover the unique benefits of running Linux on Azure, and how to run Linux-based applications and workloads in the cloud with Azure."
+webUrl: https://docs.microsoft.com/learn/modules/intro-to-azure-linux/
 type: course
 price: Free
 length: PT16M
 ratings:
   count: 542
   average: 4.776753
-heat: 57
+heat: 71
 
 provider:
   name: Microsoft Learn
@@ -29,8 +29,7 @@ images:
     width: 640
     height: 320
     isCached: true
-    title: "Introduction to Linux on Azure"
 
-secured: "2WGhflr+k/a26usEBDbIBI+s9/iXuD7/NeedPT/42aRowUlm2RXdjn7C04ktZEt9n18uM6owfgO32MxarvnCgVmJ6m0Rc4rKKq7EXKcTTrbKZWVnu4tuqA+b2f4FqRGqvBasCBTnZjF684WPu++wRF1oiYRJkgHIqqjz/99qbw1K39FMUue/gzDUbbyVshBJnIIV/aQ9tKnWwSRoagf1mAT/I1oEFvuG9uo9YQjDmvAb10NsFEhsmeiFhf/5IvzEFTXHnLpjTEWEyfjpImLTmd/gV+fB5vNopqaZHZGNGDeEX2mXx0gTNG0MMETXXlxMWO43+O6sFVmvDEIMsBOenLsuU91E/a0/OWTIECDc7ZFJ5PFcTtEphO+KtNxnPncGuGU0HJMRC3/3TUOlsMoOrihBplAeJBE+NOV/EcGT+rg=;2VyT8bjSb+U6luhWMZfZ/Q=="
+secured: "LihbpqNS3ab2g/HybMBJsTrzhZnn8t88Yi5hfCfhc/ARrGifxa3vir4yovtIbbVU14dnRsCI+WO8xR7G+u/dDkA9gbB13G8CjIF3TKEYQvopA+ddh1dp3S06CzojpCVrngv8JleSeoFrCf2kBO3yPXE3TIKW7G5V5cmq2ypZCRglspHvU0Y1AswjLknslTWkGseIQkTmCIxlRqNjuBt7xwLt1GuoDwgiLKoivV6ZBhsFzuUPbgCoRpCnVnPslfmWTXQG6HjFkvil8lhTLLU3Wtu38dseFp4eHlO0xq/XrGo/iF0SWB0FfyvOzabQaqJbsmgLWOpQt2GkuCW9pVoNGhF/SIg8v5WNg1nJ3TbKzJdyeplQYGd9d6hRxGE9JM1WiZ1Lx4GN9I7XOZ/mY5CYYw==;DsdY7TeymmqncRiUwOT6Xg=="
 ---
 

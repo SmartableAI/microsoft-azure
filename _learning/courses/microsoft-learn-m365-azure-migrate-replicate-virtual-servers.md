@@ -1,14 +1,14 @@
 ---
 title: "Replicate and migrate virtual machine servers with Azure Migrate"
 excerpt: "Learn the process for replicating, testing, and finally migrating your virtual machines into production."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/m365-azure-migrate-replicate-virtual-servers/
+webUrl: https://docs.microsoft.com/learn/modules/m365-azure-migrate-replicate-virtual-servers/
 type: course
 price: Free
 length: PT28M
 ratings:
   count: 50
   average: 4.84
-heat: 50
+heat: 52
 
 provider:
   name: Microsoft Learn
@@ -32,8 +32,7 @@ images:
     width: 640
     height: 320
     isCached: true
-    title: "Replicate and migrate virtual machine servers with Azure Migrate"
 
-secured: "URi2wcUi2kpc+v4ark4yWIILrN9pZGkjI16J3RXNDQHwQ3PYLFSzeMJYzeRqN166pgWd86nTuiilkpblCV9SFE3l59DHUS+ga9LRHij9i/wtqFW2zs8I3guIG0xjIyCQMsVQcdIAU3M++V7T1/1+fclY+ZZ0OgvQkj0shaq2eyxb0vMzmyS7o0fTALw9hVo9XfgFppazpG+pnuA8v1d6xd7rAZmpluOh++/wIJuUjwdNhMuDnAKgIl0vIiDfNGDDxpsLGFSk5kTs9LMei+IEKQKpwuizUozfAuHXSABrDy3xJikAReCNZZ/iBw2fKcu5KXqZLDAVTS5/0oxYgqJNyqfqRvevmMlF1KdO60tRk4o9Ao8rVFMMKDHXmiXH5ymVx7ZU/lsr1T8JslJiYQwHdCVIwO++e6kDGY6D6ROm2+4=;RHU28+A181HA+/6pJWMBOw=="
+secured: "yRCSEeCeIrEg9xD5f4+EYOdMtbu9x4sIRuq9uxuCz81MAuZ0aCO/5LByhbhes29YMeaUmbncKB3hSq3CwAa7Nkw8c9D3w3xmelVbkE4c1ysIlPow6BnVbAiKX0ZEXNV4RMfYtLei3x1lSpsksiYVJDra0VjULYv75N7xeYXP0o4avb7MIESEfO/oWaHnTNkLBuRhOMqOvMIhKx7v+CGwPyjCzDg+AnWGP1kayQwE7m/fbwrqiLurcQqWIVG16Ac8cCz0WqC1T3ICCWetRwngYaxA6dZSadU7glQjXp4lCpTZU4LIKEIQmTVIzwRMgOrdO16dTx89vIi569tzOouhCjd2YPX5J4tnge+J2JR3Xt+VnjyhDmTU4ypHtkURZ6rzJnvg6anm2GG4mwVRmOSC+Q==;2kIhdpr7eJRHZS1iu96wlw=="
 ---
 

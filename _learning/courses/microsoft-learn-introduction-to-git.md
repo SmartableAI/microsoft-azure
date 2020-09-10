@@ -1,14 +1,14 @@
 ---
 title: "Introduction to Git"
-excerpt: "Find out what source control is, and get an introduction to Git - the world's most popular version control system."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/intro-to-git/
+excerpt: "Use Git to track changes and collaborate with other developers"
+webUrl: https://docs.microsoft.com/learn/modules/intro-to-git/
 type: course
 price: Free
-length: 75 mins
+length: PT1H15M
 ratings:
   count: 422
   average: 4.7369666
-heat: 51
+heat: 66
 
 provider:
   name: Microsoft Learn
@@ -29,8 +29,7 @@ images:
     width: 800
     height: 400
     isCached: true
-    title: "Introduction to Git"
 
-secured: "DLYSmblgp1BZ1FMcin7g0TBWjF9tBlT6fcQPEDR+y1Npr5XPg33Y6ErDxKMlrU1Nd0jbvr791GOl0SZBgEp1yXlHNY63M1OOkg9AqHa81mG3OEO8fCzztb84m7lzkVUsYd/wvl6OeTvqrmq+BwCuZaZURdbZb8tn7bsegMcEbUEpUTftNMl8ZpRGBea4V1Hsxm89aSX+hdsvenFtxCwNGbn5nMnzzegrzvcwzHNnFxNRzbKcZeq3F+cKOcZkW8Zcracbnq+XH3qm3BVsPlx3eaP3esjsTNWBS0B0RLwDWaANONvjaoMOEYiTpGNJ6ueN/CLn50B1eT3+NqGvdZ1Tpl/nvEmi4clp8vy4YWrdHGFd9yCske/l5931QRjig8wAccYoeM7eS3SNgsQHpI7/MXNEWfr5u1xbn3u5fRkKIVE=;mSQtjy+JHSbIMIMnW0LZ5w=="
+secured: "21ZQjV5BC/PKnkpCyGCUK4pcmFp5zgOxzbj3eprvg8B0vXdiQyVncqFLzFKOvqYsTgpUf0vUkwqaUppZUB+2PGympdkrJz4W7L3Gw82swgwWu9J2XFLuPdCdzK902HNNTW9nU4gKSnUnGYFvJU0J57C9yJgG3XcUbmWbCHLUm3dvud7YpGPEyI1voNu4Ho//I37EqP9fd0O4dCMVO1YFGyL6gm2/0yb6pjOeKBjIDc0mvxbeb/qrfzwUHvXZbH2uHvN8mG4YCIkxrYnx0u5vgSka5IJ3y3OABu/60t7uZhr8bv3nJR4/EdrE7iWOrHWQZMg7HA3TllgE6W+X07Twj6VNlQxPlWJsKoAoCfLatU/6x82pgT1SQRbiGfI2/xZcW7Tu4UoDw8BheYSyeCvcew==;yLMT04807Kr8S/cf4AqoeA=="
 ---
 

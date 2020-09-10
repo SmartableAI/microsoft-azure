@@ -1,14 +1,14 @@
 ---
 title: "Learn how to manage IoT devices as an IT admin"
 excerpt: "This module is an introduction to the Internet of Things for IT admins."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/manage-iot-devices/
+webUrl: https://docs.microsoft.com/learn/modules/manage-iot-devices/
 type: course
 price: Free
-length: 44 mins
+length: PT44M
 ratings:
   count: 855
   average: 4.674854
-heat: 54
+heat: 80
 
 provider:
   name: Microsoft Learn
@@ -23,15 +23,7 @@ levels:
 
 topics:
   - Azure
-  - IoT
 
-images:
-  - url: https://docs.microsoft.com/learn/achievements/manage-your-iot-devices-social.png
-    width: 200
-    height: 200
-    isCached: true
-    title: "Learn how to manage IoT devices as an IT admin"
-
-secured: "ykugD++nFkpEOs3IFLWCJcWvhbJya8CDDV6gaPY3nBML75TK7/0SYpEn2JlYYlSKCo+/QwvJfTZSV4iI7DfwZzTox92ht5Ln9XNOfpMNnXWPHDIlJjIIsm1XkAfUeWCKJqmnAQsJXvNI3UUSnzl9CQoDRttxc7XrKZ86p8/3lmvRHJQ+RkbN0ah91PMIfwE0iBCeq02S4UBDGoLSUK4BHF3F4/aDk+mciMg8VBxI6k8BjBn0a4MT5jTFmD1u0ePFl6tV4lS239Vt04/zucIMr4E60Zxm8f4gbeKDJ4FJBQrLpQvoZ86BXMD3si4PvDzMF3j2yBPTx2WkW066SRu/0vtDNIkBKxAOR5H2Aa3AiAd0TwfDkRXfRxOwQIYADI3vyVM4YD+ZQPtYDxsYk0EF9qt3FoOrU/veXqc3764oj1g=;Z6qIXaBBJBN0d8ac40Qgcg=="
+secured: "TJniZrY0ARtaFYddsVCCnC8YUqt9ES6y2xHxCtj65BRcnBCYF/hSVLvzGrbm9Fu25vC4nCKt6OrtYKojIDzK5AEn7hRwsrZDo6BLTs0bp5h13+xTLnvIJt30i1VpMTY7S9FZWW63tJoQPLcFw/XAr+DWJjt5OjCIIQSNM2uaVdAmmdtYniXfkmpYGFUZKRnmNmWntbe7lL2hIXP65BO1t4KpDX69XWnyWLFxNTTogLPV/5q1NV4VdeIbZEKlhjJ/L3b5rukINfkE1FjG/df/VOnYheY5n6/8hy+ZheQrEkqRRkocEJEH3Eq6qbrQbrVxal1hT6DQUdhyhj3xnUQy56FMaACsa2kgiyXEsSSnsn+ne5RETThhbeDP/wsgCPbe2vrQjSqAsTLsAxrU7GDaaQ==;Zu92nwQ23s1fQgKNtYeLSw=="
 ---
 

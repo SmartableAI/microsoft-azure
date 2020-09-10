@@ -1,14 +1,14 @@
 ---
 title: "Control Azure services with the CLI"
-excerpt: "Install the Azure CLI locally and use it to manage Azure resources."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/control-azure-services-with-cli/
+excerpt: "Learn the steps to install the Azure CLI locally, create a website, and manage Azure resources using the CLI."
+webUrl: https://docs.microsoft.com/learn/modules/control-azure-services-with-cli/
 type: course
 price: Free
-length: 34 mins
+length: PT34M
 ratings:
-  count: 3890
-  average: 4.745244
-heat: 59
+  count: 3892
+  average: 4.745118
+heat: 139
 
 provider:
   name: Microsoft Learn
@@ -25,13 +25,6 @@ topics:
   - Azure
   - Management Tools
 
-images:
-  - url: https://docs.microsoft.com/learn/achievements/control-azure-services-with-cli-social.png
-    width: 200
-    height: 200
-    isCached: true
-    title: "Control Azure services with the CLI"
-
-secured: "a6kcMoOd+KOLomE3bIn77QEPfcvMZbgOe/0OtJvQ/68i1PZRaNwUptsLUrdt4g3/+RrIUzwLSAW/1cf61Ho+8OkdwcbIAT0QcTlZw8nFa7P5RknGoX0kntPMRoi7ndKDE7QEQY68MCLXBKI0dewZlMYuunUIOrFy95OARKQahk4nC8VZlAo9nFcE0e6Ilx3Vt6x8oQbsGIM9Gxdw1xlGSjkSzfm4NaYHD9Wnay2PzNADqfMDOk5pOX+XHHmidMQCly9OHCZTxUp6o7trnBE6qAtTJKpkxEQOF0A26WBpzhwIG+qqV7u6sNP7k8MGdkIBIAZJFjUi0dZ10GBvwtT0FRl+pb96I/kBwsuXX2gUD6VZeUouisF4h2n2ubHffFrI1hfGjRbtVcQtxd0dF+sed2ffsjppjuyiNwjhUfhyaB4=;AH6vt1V578cmvwa/7RkUEA=="
+secured: "qB/qoOV+SDjcX1o2oAxdrO0vqsihMG5xMzH17pRrcJB6mWF4S5fbuslgE1VNTY5E3uOUqZw4AUE42lxBzMYnbK2wyAiLOjxcLyMh4pzkqFMsULjSwlmij4pp/CoEjcc8VOg2jsEOs1NHXiogXQv9fSmmYJtRO+WKgJxS+5dLVrAMDL0mkOQ3yCTP7ZF44Z7vx0EXzQHSFiDagfgSVdwxgHR9R4qNdMrRkecyZLkS0qztTkLA6eXdQZJVGNAdQpClBCEl5PpbQ4Yj40PJ9VgA6cAbF8YE2OjF/CdPCvZEJYjFaO3uUhA/MtsbK5SaXRdMCn1/zXeoMXnreD3tM54PhpxHmRv813qk3NmJFSk1ZOGWPnPzGWV+28XinuQYdsVLeIer+1XmjqYcCc8pIE8L2g==;kFbYqUgBXt2C7gVdHXmWpA=="
 ---
 

@@ -1,14 +1,14 @@
 ---
 title: "Enable secure external collaboration for your applications with Azure AD B2B"
 excerpt: "Azure AD B2B collaboration lets you securely share your company's applications and services with guest users from any other organization, while maintaining control over your own corporate data."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/enable-external-collaboration-with-b2b/
+webUrl: https://docs.microsoft.com/learn/modules/enable-external-collaboration-with-b2b/
 type: course
 price: Free
-length: 34 mins
+length: PT34M
 ratings:
   count: 24
   average: 4.875
-heat: 50
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -30,8 +30,7 @@ images:
     width: 800
     height: 400
     isCached: true
-    title: "Enable secure external collaboration for your applications with Azure AD B2B"
 
-secured: "KfyHAu6dzTrEjtLVs01Mmf7m+0iEYCr8BR8Lqn6ljIge2lnwlJRc+q3y714z+/gmac4VLkD8TrAEMh4g4Nt3NkhtFYombzm/hLOTd07W4rvahMGJUUC5G8BrwQUtyB7o/ZwoJpgyDZ3KOo0oNEIjYpx8AhuuuDXmal79Wbq/jCndKH7cXYShe7pToCa+daeDwiaT4DyeAchspeakfAib3XP5OEasVSO7WbF8fvnR+LwY5gl9ca9XoQoTSeZE17sRjtnQeq/V/F5gUcBi/PC9jDDOVqpnBS1GN7ZpxHsBRs+Ga2niaFT/q7Ro7QFujPJXLVCGC9OPPCNXDYZP3dpqPVVuV2qLPesHRj0lsYA640ZzP6cQE0yxtV2xs2ESt6jTCZVyb1GUTzAwiuLmB9/Z4MZefJjeanQXTSahmQPCCPg=;LkiFOF/82+/GaEHuUEmQsA=="
+secured: "GmoPtiGraa4tf43H5gGx7/KBwkUoXtjoOwBOSWtF3jAkcpmy+wvWW6kTBrYR9FjhAarjU4SIIIs+2s6jNM6Fp0/zgrhRXrGIC8BPp31x35K4xaMU3c12naTgkBmWhmRKfE2mgTRkh/87jJHji4GVVhWtbjUFlixdS3UAhL6+GmjNYenyiwq78ByCZ/ofHDKYAcDjKYdBgDJsPSkd3YrqaQM3xfcT1arVt5/gWbrrnpZR6LfJUgsd06hrIE/fTRdqm6V2DfUqvgVNNk6T119Z/J8oEq3wuKmIp8QFg8Su2mqD/tbOEg5ZERQUshGVgiWVNcjB85/itrE1P68i0zr7JyfPLw4Wmi7nUO5HDvDLd9YVjMLkU/ACohsgYatwQvoVQ4v3u5XYHH+RUTrGHttbGA==;nlOKI/0TGu8QAytfpvki2w=="
 ---
 

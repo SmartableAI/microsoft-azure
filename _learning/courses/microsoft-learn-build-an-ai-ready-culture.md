@@ -1,14 +1,14 @@
 ---
 title: "Understand the importance of building an AI-ready culture"
-excerpt: "A successful AI strategy must consider cultural issues as well as business issues. Becoming an AI-ready organization requires a fundamental transformation in how you do things, how employees relate to each other, what skills they have, and what processes and principles guide your behaviors. This unit is designed to help you understand which are the key elements that make a culture AI-ready and proposes a framework to drive that change in your organization."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/build-an-ai-ready-culture/
+excerpt: "Understand the key elements that make a culture AI-ready and a framework to drive the change needed in your organization for a successful AI strategy."
+webUrl: https://docs.microsoft.com/learn/modules/build-an-ai-ready-culture/
 type: course
 price: Free
-length: 49 mins
+length: PT49M
 ratings:
   count: 871
   average: 4.73938
-heat: 50
+heat: 81
 
 provider:
   name: Microsoft Learn
@@ -29,8 +29,7 @@ images:
     width: 800
     height: 400
     isCached: true
-    title: "Understand the importance of building an AI-ready culture"
 
-secured: "Gc0KoPSHD4p9qpxp425c7aUjXJ/k/10rNInzSUyzIaO7yP7hzIJg5dOoRMC61dhnnNXOxd7nipoxPhj9Suz+lcsCKkHevTBli6gIFJsCR/bIWmB6S/EV3TV30zSQ03KSN8NiZ2CAnt2p85GRTEAHyz+QAOFAd+dqzWJDvRAGpW7uNG4Jo0JSSv3xqSxmb9qvgeLM2c32wjROwLsKRpzcVOoXnOjUKFs7gswWcKKnB5T/orkCmrRPZNFikxZfqPoqNc1bdUuaeSUwaBGHVnlCJ3Xz/SJ26s2ivpPcCFd+TO7EbiELpyUesfo5koK3GsV3JdM4neSU5clhMjcRiPWK0APh2STbwwI6/5+1zA1GTB0NgoWqSuvynYr2bwd+7P2GKsiup9pS/OHnWeQ08m0Hnk1dBXPprjG0uQMi4uxjGig=;JuVdGUYQGm400EvTxSzLUg=="
+secured: "CPSpgLsTfDpTfUnW/3P5d0SovBMmeb83LMl6yq5MYmwrnr2EXFG0s07lB01Y4P9Mn9tgClMYituxCtGfCSEfvvjguT3WoeMIWFu1Cs6FIAUDpSr3ylHM72Cd/rHRP75+MtK+/L/tHeoM4sNHjUNbtH9zcYmji9UVaDSgcr/EAiz5M5fJzjBZd0YNZR+kcwTdyJV2SAQVgQA5mpMb2mfSVXb76JXgrFxKYElnbcbkO2k7WQAR5ok9w8aDziJTgQR1lcXIQXUu8Zbkqoi+zcyNelNhELxjdUs3dJsIXDSMDZf+kjZS10h9fEz7igRek543UM52jWfih9UGtGS0N6IWBru8YzNodOmq64+I4CpkxhLW02jJVoUhLtse71UqRTc86ntV0cwyPls5mm4PkTmDtA==;1q1UWUKJOkPZB3dCIuwUgQ=="
 ---
 

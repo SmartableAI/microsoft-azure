@@ -1,10 +1,10 @@
 ---
 title: "Publish a web app to Azure by using Azure Toolkit for IntelliJ"
-excerpt: "Create a web app in IntelliJ and deploy the app to Azure by using Azure Toolkit for IntelliJ."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/publish-azure-web-app-with-azure-toolkit-intellij/
+excerpt: "In this module, you will learn how to use Azure to host your Java web apps, built by using IntelliJ IDEA."
+webUrl: https://docs.microsoft.com/learn/modules/publish-azure-web-app-with-azure-toolkit-intellij/
 type: course
 price: Free
-length: 52 mins
+length: PT52M
 ratings:
   count: 8
   average: 4.75
@@ -30,8 +30,7 @@ images:
     width: 800
     height: 400
     isCached: true
-    title: "Publish a web app to Azure by using Azure Toolkit for IntelliJ"
 
-secured: "8jT8B8DEhFoAg18PgHgDVGLM6V/1iavlUZSfhQXz0ADjYIcu5XyPkaYM0CB/6OP7zJn/Cc6U1+8clBFXv//1FxNInT29o9PsbnpQqUw1ghSdWeI0W4DZZDFLEucZyJCuSXVoOWgg7Z9wrHNbGw8xBQBJKFSlr8wTs1+iOlOG7cgbsMqjb8CIQcxobzRHozisiwYftyMirjhsAkn9/1C/644JEdASb9aOP/ws69NvtkySbYQJmz7EhfluEcS3ZRAVF1JMyN4c8MM3f2ffrYUJz2P6jxeI7YQ0fBmPeNkLBU68Oqf5qEXGq2BwHVhGNYkifCVwFKpKCgl4v2s7NUOVTw7Lr+CgsWG1GH33CUvn2LPK9UY/ywv19X5D/F6Ad/rAJbV2eO4pGSMcpuwnYgYC/A37v3UQ70eKh4gqpWuNSUo=;oIHtAbaXPeF1DL5fAeuAUw=="
+secured: "QDlTTdU+1QTa0WYZ8xDiWPcQdUsucMDG0aWTzoNSgjU2t9hQp1s4FcSVroOMza5dPOB35cLzdFP4K710OG9eEa77DDUvM0d/fJ7n6pmCfFYCTaYJnRGYms32oz9XoyUgZ0/ryUHE451fEJzURPLL0wTZtHlLLHxaUfKVz3jvxA8lUEMjFdqbtybENdNOF6uC14R8li1wQV8MZDLnooDlWi7l+etTrKSqLnDDGg7ResCgLOr6pMnYYs6UbsKYifW3Vvv5HHGsJL6OsS0H0gVK3UFxKoMXgVLI8YbtIYsBemtITkOvJxGjr0I2OKKLzkVNgbmSz34zsJbM6hHr44dvZ9b0TyEeuiCsWvjdCG5OIseVGd22YtBzPc5wu+O3ERmxoKMPgceYUJbWDJ0nM0Pe6Q==;4iwxoT/L683zd8k9lYwtVA=="
 ---
 

@@ -4,7 +4,7 @@ excerpt: "The objective of this learning path is to educate the learner how they
 type: collection
 price: Free
 length: PT4H1M
-heat: 50
+heat: 52
 
 provider:
   name: Microsoft Learn
@@ -37,7 +37,6 @@ images:
     width: 800
     height: 400
     isCached: true
-    title: "Migrate SQL workloads to Azure virtual machines"
 
 secured: "CPHAqkXGa+Tn+7nhZ4mOJ1MQpbk/ZFUe0ivi7NFLhQQhq73xruIUM80u3oqw+nbXvPnRhfMY/7MNr4qSuJLk/tJmqxgMJWmSzXZ7pc+YB2nbWcdQC/6MtT+Qgeca0ylhEjUFYOvDRWUXGorOLRS+iVTllB+aIqukwJKwfG/10HrNBHoTgZKFFr1DfSVPPIsbsHPHFWXkMiZx8DgkZw6g5HncA4XSdd7dKruMYoWHM2wChhsZw2556Kb0DfoMi6XCWbXxjkH0Cd1RuoasDgRwaBxHN1Kfq6/0Q/3QoIGaExeUnH5E6h4wmJKUIOWryFuypD608uB0KJIcotp93e7+yw==;djPL/3ytTuWtAPhTAmXQmQ=="
 ---

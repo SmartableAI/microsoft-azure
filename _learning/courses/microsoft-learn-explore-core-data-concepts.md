@@ -1,14 +1,14 @@
 ---
 title: "Explore core data concepts"
-excerpt: "Discover how you can organize and process data, explore relational and non-relational databases, and discover how you can process data in batches or using streams."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/explore-core-data-concepts/
+excerpt: "Explore core data concepts"
+webUrl: https://docs.microsoft.com/learn/modules/explore-core-data-concepts/
 type: course
 price: Free
 length: PT25M
 ratings:
-  count: 679
-  average: 4.8453608
-heat: 60
+  count: 681
+  average: 4.845815
+heat: 76
 
 provider:
   name: Microsoft Learn
@@ -29,8 +29,7 @@ images:
     width: 640
     height: 320
     isCached: true
-    title: "Explore core data concepts"
 
-secured: "eqQxogPmzQuL74cFLvKZfQZckggsdOUy2h+TjQC8TEKVFibyggXR3i9ZCAh2FkZia1is82pEviIN8kowijC12wBgg36EYG1V5CO6uEPmun8FKj8/uzVgOp3FjczRAfumDw1B65qTsRkxFEmubXIwcmw10d7LrQmoDFYqNUZg50RebR6dvzB9mO99A/SkEHcEYn2e/17AhFl1c/BgpO+QAsc1Q83YrmenozAh8hyquVnQUOfdzDARFfC9WfwJbDBScghxFI93sGztMM7VLGUkFRfVN1KWM9d2sz5aZputnRt8ObACymO+cb9ITjrWKzwsOeHOhxUtAzx0FH8cyvCXJ7da9qqErHpAsGz2R2F5TOwXc9C0xbmp079QOZeP8IGI8abwB0JTlS8UTIELTJIDk+7QjL1dJmLkKzc9DyOV9Zg=;g7/nDGPOvABD8te/ffwTbA=="
+secured: "q1JATyLEDIOzSUershtWieARGR7OzvsDiFCsJE/KARQsVFrRwyFy3tdbtlgeiFaeNa9Bl3KjVs05cNgzpo+pdoXhTS64Q6odgrAeSF2UVtHhCwUCYGIsVH+sK0h9YMrZQEb6nvLC/KKeUiStVQEqhFM+/UpvCqRtKf5EYDESN/iRLfBqYVkWzlTbpBr7aQEkEc/ur+2a4hqC0SxbGPPFGz4kqdyuF6LGMgDOzKhcSu93JhWL7Ao8/+C+V8TxmIrOIsDqjPUUYErQCPGFig4DKLfpLSesA8teQXwEauAHNpfehtd+J7Ob4o5FbxWTKowABjwnVrr8hqH7sUwvysyxPpt97JZQ0D5Xd84Fw9ygI+Y7amnVUuA/OShvQ4pDMjJk3QxIhMNloQ0FiBHQ0UIGdA==;z2cSZ0BpDcoWctPRoxap7g=="
 ---
 

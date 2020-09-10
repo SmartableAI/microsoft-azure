@@ -4,7 +4,7 @@ excerpt: "Learn how to harness the power of Apache Spark and powerful clusters r
 type: collection
 price: Free
 length: PT10H32M
-heat: 62
+heat: 72
 
 provider:
   name: Microsoft Learn
@@ -61,7 +61,6 @@ images:
     width: 640
     height: 320
     isCached: true
-    title: "Describe Azure Databricks"
 
 secured: "uL2GYBB3MmKOrhPRaUn0souivp88CNZ+nQK6yuw37gzc+fm/MZMe2v+Td1S3JB3PQUNI5GuQW1TtASEx7xILSXaGJ2sketgbEo6dYouWquuG50yM49HXm83EOX2qMQlv8BFlVldFXNZ6k2iedVU3w3cFLITZDL8xXvIEEfDJKLEeZTswqvgQBp1rAw1pv9KRxoi3q7Xh3DKQP6nwGny+7jP5l52f2Hhq3Rn0z44Pk5RNzqea8brbXfebyNLy2k6weSOpGAdscJOokoXLj9yxYq2BgYH4eZ0uenw6qUy3vnS8Mib5/LF0smqYd1gljHxSOJAhTvpfnFW5iC4XQuWzlQ==;x4pipY9SJLzms2I+SvKM8g=="
 ---

@@ -1,14 +1,14 @@
 ---
 title: "Predict  classes with a knn classifier"
-excerpt: "Learn about the K-nearest neighbors classifier"
-webUrl: https://docs.microsoft.com/en-us/learn/modules/predict-classes-with-knn-classifier/
+excerpt: "Learn"
+webUrl: https://docs.microsoft.com/learn/modules/predict-classes-with-knn-classifier/
 type: course
 price: Free
 length: PT55M
 ratings:
   count: 52
   average: 4.8076925
-heat: 50
+heat: 52
 
 provider:
   name: Microsoft Learn
@@ -29,8 +29,7 @@ images:
     width: 640
     height: 320
     isCached: true
-    title: "Predict  classes with a knn classifier"
 
-secured: "1Zyvlg26JRjGVbVs3yDAYHYAqmn3ZZsTK/ER7PYFZlDgMFJx8kTjJZQ4EdjriaCR3dqxMtu7+jsofK+9TJAzG835crQE1c9DWFJdGzu8zl5dCiVaCzsJ39ki74XPzMJadnNNWVUNTbi2OIrYLeU60IPGqb+pZ8IQIIo6dQ3guCbQQVT8UKLOZzAX+YGgvufO+1ZYFdbt9YJmQT/Yo4hgstxUgP646BCz7GTsd5x7kRk6rBI7NSywmK1k9YQwKkDOdUYdhM41Uht1ppnhh1F5KQd+P2SH5Kbbe+FzaPXr/NnbrKsi6ig2k4yyxnkpWYNlWoD8Gqx09KlQdB1+2rqp2OVCn5oek4X6zTQU7YSLq07fwuebjT2YTkwrhov4zDsexOkzTV5kdF9l9I8pmBJtcQfGS9ReQdznkje3ZRW3SpU=;AeskpEwa3zJ0mDx889CmiA=="
+secured: "3cVL1w+Yek0piEgKLH6NeIfbQ6WC5Vt95MDE450UoY3TFvkbExffrWfFwf5U5leMyxEjjt4qUp8AA9HAnv3Nq0KfDb/DkiJu4JOjdVQnX2/FjCK1WNqpvemZWf8FTyzHG+bEAKTHTDYnXy/BJf5mFUVDvYcy17pCoOF9NyMmoM3OfJwbVI/g5YtZglZgHmjTcTD0CycNz4dI2b+aZDqWmeussYxoR1FObVpbviobDjOD8uqhoyD0rpz64Orz9igw+BXk+xsuuz1Z3BVX8yIURsQVDLENdyMI0yb7IJduvD028Y6BaMZQt5JRBGwBM0wX19b62x5SYWj5Req9XInR4TciIMfdVa/s633eKCrO+/P9ab+Hd6iGxv5tFSODuIbtdxdVQ6jYgJVT0IKxESwhlw==;Uw4Djw2iJAn2V+V3cnde/A=="
 ---
 

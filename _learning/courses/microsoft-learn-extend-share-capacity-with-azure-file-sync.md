@@ -1,7 +1,7 @@
 ---
 title: "Extend your on-premises file share capacity using Azure File Sync"
-excerpt: "Evaluate the requirements for Azure File Sync. Deploy the Storage Sync Service to replicate files from Windows Server to the Azure file share. Test and troubleshoot file sync between the file shares."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/extend-share-capacity-with-azure-file-sync/
+excerpt: "Evaluate and deploy Azure File Sync to extend the capacity of your on-premises file share."
+webUrl: https://docs.microsoft.com/learn/modules/extend-share-capacity-with-azure-file-sync/
 type: course
 price: Free
 length: PT1H16M
@@ -30,8 +30,7 @@ images:
     width: 800
     height: 400
     isCached: true
-    title: "Extend your on-premises file share capacity using Azure File Sync"
 
-secured: "V1c6zPUCl+0NVkJbH5uyOtHQcqEDe8H7dL3vFYcoMYu3KETg42PSa+KNp3GbYqF+TX5FBqtXy5xZzJiK2ZHYw8jHdcs8upZxkcEeIeGX2WqnerOPe1nyxot84vgLIjBI8QSdBZWfkk6ez5giEUZDZQU+KwHh29k9ePiwBjH0gMz3S4o8SAOsf2yYKHzhfjCaJq6jse5gVgHjDCyQtZrhqtq/hdZBQVvfDRw+YPOvcyEC8mIq6xIdn3XpcLD88ffl8mBHIPHgaD7nGfLD3Rh+OKq2U6toqz8mUNYLM1C+1+GbGOqNx9hIKuE17pCaPEjJxUoLV2RbEreU5n9VlPqEJp1IwMvNeSdhsxq/unN+Np7r5WoMPMYWyp675zz5tpgOjq7yOf/tOVkIJ5s3Xjxlrlo6ArjS4AhU1dr3A1xpqzI=;OVrxodtRL502JXfJYtrpXQ=="
+secured: "QUOjlhLIdcjBLU1vDnXeeQKZE6y9fbKrFUcQEaGJq5PkogCJk4Ch1vAH23zTpMnz4mEkOBLQf90+Azzcwq0DNLgt2DSteMzYNMS4eJS4hB5K0pBboqLBDXs9BJKw9KFcMzCcY2aKOAB5IsTAApsKzLkEr/zydLjIyUUs0lTIOKdq6DW2+tKadl+g05RotBzam3qEVUpkHRi0e/X8HmBh5zFeuLj9WpP7Y6R4Crj8zKaU15j+oWo30P4GhSh1ZRobL4/vF9SsFiKGcwhqjQXlJ6xXs9eyfr2W71I4uoqKaBVVWCX9TxF2K4SiGszTqS3Tv/HdY//pqPOr+9zzPOIN69DRUHmGm51oegoq83u2XoyyGxm0L8RG5zkxfOykvJhc3vuBs1AZ5lqxgACF7OC/bg==;foYeNCw69BP8ZhS8zRYn+A=="
 ---
 

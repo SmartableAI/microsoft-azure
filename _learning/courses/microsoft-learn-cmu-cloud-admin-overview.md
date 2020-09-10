@@ -1,14 +1,14 @@
 ---
 title: "Foundations of cloud computing for administrators"
-excerpt: "Learn about the cloud, including the history, building blocks, and types on your way to becoming a Cloud Administrator."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/cmu-cloud-admin-overview/
+excerpt: "Cloud Admin course from Dr. Majd Sakr at Carnegie Mellon University. Learn about the cloud, including the history, building blocks, and types on your way to becoming a Cloud Administrator."
+webUrl: https://docs.microsoft.com/learn/modules/cmu-cloud-admin-overview/
 type: course
 price: Free
-length: 125 mins
+length: PT2H5M
 ratings:
   count: 264
   average: 4.651515
-heat: 53
+heat: 60
 
 provider:
   name: Microsoft Learn
@@ -29,8 +29,7 @@ images:
     width: 800
     height: 400
     isCached: true
-    title: "Foundations of cloud computing for administrators"
 
-secured: "Tov3429OLyhkvajim9MsJVHpx6DRH8FnkHxl+tBo+ds9qNDAbxb9EcXIidecAEReq8Dj1dcSYu7ZpJxRDvsdabzE0V5rV4GaXe/3Iu20s9g/4XqkrLbjuUelAXjnm4T1TSmwVuqr5aK88ILjxTjZc+ukY0iB2clqGzhm+8gnO41pt1pRAD162UJXczQa7ld/FH6GmkbK5++LmkdVCXSoMQ1I1ciSaUx5Uwps0+DOaB/5YG5IcC93uP3wkK3WUVTrIjmLE3OntX98GPXJExn+w5Vlw2lPJ+WIU+X+kulpJhe4cEzPR/AA1CvwWqDQaVheE9FLTuUgD4p21MpUjRDVTyOwxerQ0m1TwAx2MXRvnqRWyrBIQ/AcyGtbqlSjPgyg6OrdFJl2hBaDVfTJXzH7fbGU2OxzSyBy26fQWPBB7oU=;fwWd0VAgt6FQCFVBORM4yQ=="
+secured: "wiKWvMn74d/pIX+CdnZy7XPDMQ667bZs2ng9zBFI5HHnDJoStj5++PdATVJ1/vdHuxzEzNBM3TbwMxa+iLB7zxgUWvxnKSULOcRzoPL9JS/YGWdaoYOEEIWu9+CO+gE752CJJJ2GOelgXB7JobwAZlhCX6k6Is/MBSd12B9lLdCC5i7i9reSS2hu2+LJg370dnSADlpsjVtYx9bepg9F1VoPZS4dXYKXuDRZoL3DvbWS86B3pmfVVAvJM76+7v5kzlxU0Ta8/9WyrFkmFb8J88v8fmgOLfTnWS62Rl6K6TsSXvKzfOVy+E66l6ZeMBh5N2OlixkWDj8AMVe99+Jzu0l97LjMufGrtLPvj13NZR7yOcw5ijsrGO8oOUKdFtQRnqwNn2NJxqzB8fPmWQDZCQ==;yZTzMSJngI8Kj4KpYWK82g=="
 ---
 

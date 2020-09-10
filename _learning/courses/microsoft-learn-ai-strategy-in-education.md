@@ -1,14 +1,14 @@
 ---
 title: "Define an AI strategy to create value in education"
-excerpt: "In education, decision-makers must take into account specific industry considerations before they can realize the true transformational power of AI. Educational institutions and organizations need to think strategically about AI—and they need to start today. To create real value, a comprehensive understanding of all the strategic components is required."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/ai-strategy-in-education/
+excerpt: "Explore the strategic components, special factors, and use cases of an AI strategy in education that creates value, with INSEAD and Microsoft."
+webUrl: https://docs.microsoft.com/learn/modules/ai-strategy-in-education/
 type: course
 price: Free
-length: 51 mins
+length: PT51M
 ratings:
   count: 522
   average: 4.7643676
-heat: 51
+heat: 70
 
 provider:
   name: Microsoft Learn
@@ -23,15 +23,13 @@ levels:
 
 topics:
   - Azure
-  - AI
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/ai-strategy-in-education-social.png
     width: 800
     height: 400
     isCached: true
-    title: "Define an AI strategy to create value in education"
 
-secured: "Uyyv3MRrP6za07iuABnKlyfRlu6lavN9SoQ0olAAMPROcLMXKU4ehJQtDc1oEuu3QTkFIe9Cr90XhlLdE6+Olo0jLyq+q/LX2jSDx6Djp9c0DJbEhFvhb7/R5/A3QQoOV7kWouhpwELCsuw/XWBVSaUwmdFUmNfVMDqA46Dk9jwHAGg545Xm3F+IToNS+dRb3qteyUBlYyUuozgLz0GlT80IG8DiBOowrggK71gpLSKjVBCcO0oFDOJZdjuluG0/agdAoI1Zy9FrrlFKvIbFqeYlOqmXVax/R4CE40daYv7rqXHWdo7jmF4skrvojp2oegLZti1eLSczJuiGT+4DAjW58ZdR9I1leXyUyia8PfmFALOxIsJXw7RE4Hv7VixaZZTZ5hNySVjuCdq1p9ZtDe52QEQ2NcFk3eQDAAlgLH4=;RNjd2MYj4ZdjJ1+Mtl3Qvg=="
+secured: "qQlPC+zz4KCHL18wV3/89KT8LvM+4hu4zntsx8/LemU/xGQ8IA/Hp0tfAVAmxPPl4libCaOBBWQI3+MrLqRF8WkpmJZSHYDmnLQ3JinZNeOSdfPMm/eRR5sZ2fOrXcAArgGWBwC+QfoSr8TZERI6XaXJ1weZS/M+XIR12r/h43yqFRlNCShAvUshDqH1x0VFRhxwvmjjNykp0lnlVFUA9GbbZ2MlYrjjtLslxlPzCstkzSRqFhuUW1Z09ANchyXnW4Eimc/gXUwHbkx/S9+xHjMeENAxL4o6x3BMdc+CHDwLMcnx65jReprBoZvYvetd8PZ4Lg9IctI7b5Z8tOkMAZ5ggWJ+aUG6S2JpUBR2+0VrM6GEJOPTMa4P9qzPRM/JovAzftF2UOhM0rmhRGKgiA==;+4Sa2CA929+aLuwIKcfc7w=="
 ---
 

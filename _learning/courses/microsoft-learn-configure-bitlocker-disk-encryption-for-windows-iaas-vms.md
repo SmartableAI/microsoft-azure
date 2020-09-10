@@ -1,7 +1,7 @@
 ---
 title: "Configure BitLocker disk encryption for Windows IaaS Virtual Machines"
 excerpt: "You'll be able to configure Azure Disk Encryption for Windows IaaS VMs and back up and recover encrypted data."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/configure-bitlocker-disk-encryption-windows-iaas-virtual-machines/
+webUrl: https://docs.microsoft.com/learn/modules/configure-bitlocker-disk-encryption-windows-iaas-virtual-machines/
 type: course
 price: Free
 length: PT35M
@@ -32,6 +32,6 @@ images:
     height: 320
     isCached: true
 
-secured: "BM86BukSBzwqneB5XKrIswwMOXLU96109JRtrx0oHcjjYWUZvDL0TW2eVMrWDVrT+MJtn0AFEoZ7AhV7ckHnkYuf5jrX+KCX8tOT5zRpOCJ55tAcmfX9E7ZuUbdrRACqKzc/V6LAhCSpokoRGzKSHhMqfMl/CvBCxDTYXDLwlIiOATvmXn+rrB8HaxeO8LIkVEUx33Zr5Dr0kAcR4CDIw6zAJzpj9Z08sbMvKI9UWW+oB3+hpoLVrhNT2zUQiFxDKTAkMHWY7yPCOK+qleWrOK2F2VcX6ojct5/7Zp94ia6+qPR8brIbtJEmyjvR3K412wuGGhozCShoH1QtESB2KD34Q4bh69IJLvNrqPN3cUKAA5uPwKapphjvXhi+5oN8UC9DNFQio5qEuws5e/SLk19WzuRc22WOsRvFx8hvNeY=;QSoWzSueR2HHiymxKhReKg=="
+secured: "Kjfl36c9zn8rTmi6m8+Gyui3LTcqG5ccRxeKp9aEqXUI0BnQT3yRj46HGWu7himHKF/yMdP0ROc6vsK1bdefs0CgUsfyqBHP40KVmtPzeFUAETmSxhHdP2QiJOijBGmI39s0ZxK188dVwjVLNj48yjIT5dzs1KkfJ1AouA2iIHgQF4AVp13eyA2XT7V5oqZg7iVki0Dz67riCodT7BI+MBn0hdFO9uYNBiOXQyJFew8xMzGpAXiKEEp/zL1t89/t+0wvvoss90ea4udqCEWMQLOzosVcvhMtgEzlOBFxJVHIKZKDCDKVOwJ4QT4IxLU5FZaVwZnvlfANueDWbisT0m0WVIAIaQgE8xEyrLrB1DvtmpgYkUt2IXBwqY5xjd/8r5Fyhj3s6V0/RxvNQk/Gqg==;d/aVqd84L64DYqsErRWyWg=="
 ---
 

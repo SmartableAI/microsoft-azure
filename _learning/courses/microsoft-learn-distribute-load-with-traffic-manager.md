@@ -1,14 +1,14 @@
 ---
 title: "Enhance your service availability and data locality by using Azure Traffic Manager"
-excerpt: "Azure Traffic Manager provides DNS load balancing to your application, so you improve your ability to distribute your application around the world. Use Traffic Manager to improve the performance and availability of your application."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/distribute-load-with-traffic-manager/
+excerpt: "Discover how Azure Traffic Manager provides DNS load balancing for your application to improve the performance and availability of your application."
+webUrl: https://docs.microsoft.com/learn/modules/distribute-load-with-traffic-manager/
 type: course
 price: Free
-length: 29 mins
+length: PT29M
 ratings:
-  count: 1937
-  average: 4.5343313
-heat: 60
+  count: 1938
+  average: 4.5340557
+heat: 105
 
 provider:
   name: Microsoft Learn
@@ -30,8 +30,7 @@ images:
     width: 800
     height: 400
     isCached: true
-    title: "Enhance your service availability and data locality by using Azure Traffic Manager"
 
-secured: "BC1iaa5zURaZM8NBF829Nk4luFTRbSBra+zSAAJ/IoLmygzL2xZMp6e+siA2T/Q6BojFmAgsgSeo80IuQFEWCAF0XaT/vQpmCeMtc2box+nsF1aGNLa/4HO4PU455EbKIdcX9tL5/Pz2fOWk4+0gFb818Adk//BPydhCvNzRdndThUNOqfdr18YdeRgQZ67ZXWEqR0O2JiLTzp89tvKL9NBHB8cWB6sWSg5ZGmLsAn6WQN4cnD1FMgE15bu66a62dpIG2eXWyjsBkWEZbb6jDqdHAmQUwLyPX7JL4KVEgwzJlE7X+gmusPMsbXj786pbF7L/x+UCo6c+5pDXwTidlmcvRmIDe359eKr1ukGS8DKhlknXhYijheMSuRgI62IP6OPwmueu36OBVp+KiCQ57/zC/mUSMxTz9xQB/MPmJkA=;lPyDpckvcQNAFop7r9Xssg=="
+secured: "MNlFumOuryi0RFbjpqMihpFYquvuK+Qog6v5+iafGatlOpcD6HtiB4Kq7czxLfXOcGfXz+r5qEsMk9WKJJIy5ry4bT0iUgZcPG9AkzzifoHXBnV09mGpUFpz30+ByvcqHS9dpq/DXNOBdQdn5eYJyTDTV2APxcwkM2r/2PgJY/U0ynb2qCxOSxvaN0IwD3e+Sj4NQv1TPZgHD6ndqDWK1PdosuFdiBujGe/4rBxMGwFld/wlvMnK/4dc8XLAlTer6VXo6N3AXIZITt0XumsnwWQHLqyxmwyeJYwL7mlHqXzmDYnJ4UPaOGw0lo1zJ+T68Ib3vXA5GacvByT+RpVaoI8g8tSpsn7aJGrFiqwccWyigkgEEW5wrJPAqiGTXHZiRCywPFsGeb9Ua58LYxa59Q==;z7l/N5VFDe8xwfxQNpTxWg=="
 ---
 

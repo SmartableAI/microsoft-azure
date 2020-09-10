@@ -1,14 +1,14 @@
 ---
 title: "Introduction to the Open source Analytics Offering"
-excerpt: "At the end of this module, you will learn that Azure HDInsight is a fully managed cloud service that enables you to efficiently process massive amounts of data using the most popular open source frameworks."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/intro-open-source-analytics-offering/
+excerpt: "Introduction to the Open source Analytics Offering"
+webUrl: https://docs.microsoft.com/learn/modules/intro-open-source-analytics-offering/
 type: course
 price: Free
 length: PT31M
 ratings:
   count: 198
   average: 4.6010103
-heat: 50
+heat: 58
 
 provider:
   name: Microsoft Learn
@@ -30,8 +30,7 @@ images:
     width: 800
     height: 400
     isCached: true
-    title: "Introduction to the Open source Analytics Offering"
 
-secured: "lvMQ+B1wWd6zCZiSFYTr5qCW1Dqjq7Xa9auFf8pX6u0EtCw1jrI/w92Al0abhVU+Q1oBz0XhuqthpfFnDYIeIJp/dQ3Tz9hFG3HeijYlJ3B1o5sTkrBb7SVl8zHVlKvZKjL153Ix16BhIjSLki1WWFcWBqsuTbYG0V8AWJwZzmLkcnjWrd6IQYmgyBZ+SfiksC0RQHxC8X6CebQLD9Yjaq4I8dg5ubV+7dVUObeut3o5tF3w3iTGUmASpi1UGWcBFQo44eQSGXhfAONkB3oXKeHV2iAHpsTAR5QSFcJpYFkH5JQJPAMjfoaREltlUd+B+QoB8Xg8Eep7JF2oSTLjdvXWAQ9FKJkPmBEZ8tnSFVa2Gsae2QlRuOPaF5SbHvX9yYiQBshb1MGxWeT19auwObuf3gWvfrmCOxcNo23n7X8=;+/5gOdnHZFXfFETM6TBbWg=="
+secured: "0xBKJ20v8GneDtUdliWUL+49dmxJ1/1MBTulemuf3EX78vpRIfnAbrAXAXcQssI/2lrkzNdTZ6FdiUV/A8RFj2YMwBV8rtOAbhuclpA3+Ggjtz59ETXCrIiuWLXvpuEoAOKBw9HIrooudi0UqxeBt7WH9WaTlHDEM7DWOxbhVPlX4ZyN4Qc2qwT0j/g+cnAyT13CNHlsBKLCos6gJ71njgt0YBYntas8iEM6hwEVhC9iWUgYsgMhyEN7gk2Jcm25srw4rYF2PPKE0CIWh1HR7t8IlmLSPObK3abf3NkGGVmeJVsjbb4AxzHxHUpvYNDMqQQichRFHqujdHKI/MriuHEBjWoRzlhB8mCqmJga9y0qauuzSASI/8UZG76vWKcEXMe6Pokr9w9xRCaY+1Yd4g==;KxqxlZDJMLBdEFbm/+fT2A=="
 ---
 

@@ -1,14 +1,14 @@
 ---
 title: "Distribute your data globally with Azure Cosmos DB"
-excerpt: "Distribute your data globally with Azure Cosmos DB"
-webUrl: https://docs.microsoft.com/en-us/learn/modules/distribute-data-globally-with-cosmos-db/
+excerpt: "Discover the benefits of writing and replicating customized data to regions around the world with Azure Cosmos DB global distribution."
+webUrl: https://docs.microsoft.com/learn/modules/distribute-data-globally-with-cosmos-db/
 type: course
 price: Free
-length: 31 mins
+length: PT31M
 ratings:
   count: 1487
   average: 4.608608
-heat: 54
+heat: 96
 
 provider:
   name: Microsoft Learn
@@ -26,13 +26,6 @@ topics:
   - Databases
   - Management Tools
 
-images:
-  - url: https://docs.microsoft.com/learn/achievements/distribute-data-globally-with-cosmos-db-social.png
-    width: 200
-    height: 200
-    isCached: true
-    title: "Distribute your data globally with Azure Cosmos DB"
-
-secured: "POQqstTdtlmtvGUAtMML99RJ2Ws+inp/3X1pl4687TyiGwYtidpToFU6DpPOX2zKk4K5XTeR3XQoWDKYkfGf3A/cWwZS/b/K6SA1dwlCrs/okrtE3TIMQLGm9opkfQY6tppylgvyF2d5/AHes8bVWZDGi9Py4nAwGFASb24S5Z+PekyftqeorqqmJjQDWQF6LKt11mfCBIeUTi4ZcZUNYMz2r1gbwN8h60zMEebqvNawvvcJlsdphPGcVhaabQCLscZ7d7EgtYvXzTlYw3xd9NDsH5Sxji6FfxnN48XF3IQlGPJJ/IOYdZ32tnF+I0WUAcs2SlvcSIFw+nDGtgQH4aJNw37aNdieSbgyZozT4bOTKWYl4iSuKQ3o0zTdD9DDcXSB4fblqiPNKjAWDEDfHjpw05/vFoRDHAIjlfPigQA=;HkLMgGj88RKpirAwK5orHg=="
+secured: "9pUKiWlVPS0SWsZjaiY6EeMlPQOA4HeZWXFFB5ZpGs6Fg0TO4XSIJmYPUSR9XD2oADzQK+LNJ3TlA8XIyCwT4WC6XidYtfLgvHeAtdLAFovGEb0F1x9sGUw7NfAYnch8m1CL+hTXFj+/W1Bc1+mOwToH4WIezN9Hjqpt5mpbzxYWUcNVDAbx6dOjO32dfLzsLP4JRI8cYn6Gg5iQa3FgNz2HBbqBXuNQ1Wnyz+qdKy/csmQwsUn+ril4GrL4AlpJDhjXa6Te+EN5fS1aCVupydZZKY/W7B589ukvUDSRqPJopu1aHnevxBY9fQh5Jz8PC+OLa7UhU5DAG6kffJ3XnBbz6Xg0zYfGT0jnPFli6l2BYOI5BlCgag4eZ9JtY9dZpDUPnPDcqzh/myfGfbsraA==;9zCtV53NWGnQ3rguXT1TEA=="
 ---
 

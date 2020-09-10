@@ -1,7 +1,7 @@
 ---
 title: "Improve your reliability with modern operations practices: Capacity planning and scaling"
-excerpt: "Success and the growth that comes with it can be just as much a challenge to your reliability as any other factor. Learn ways to plan for, handle, and estimate costs for your success while still retaining th reliability you need."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/improve-reliability-scaling/
+excerpt: "Learn about capacity planning and scaling practices that can help you sustainably achieve the appropriate level of reliability in your systems, services, and products."
+webUrl: https://docs.microsoft.com/learn/modules/improve-reliability-scaling/
 type: course
 price: Free
 length: PT32M
@@ -29,8 +29,7 @@ images:
     width: 640
     height: 320
     isCached: true
-    title: "Improve your reliability with modern operations practices: Capacity planning and scaling"
 
-secured: "NHc8qU/591EQ9k60uxHOwUs/vvt13sCG3Yx7C0oI4LoGB2pQQGVU+zoE3i5IK/GOnzw4ixn5d4PzKuaMpORn2UVL/dqZVgYIF4LF7VC7cSuFeD5B8lcJyxV9aouHjJfrbPA4YZGp2mNf4IJf+R3AuGV3sb5M0JaMsSO/rTYbFzfIczGOG2MAg03X4+EVz8INYnK1pQF0NDsIRuprl9wznG6w0Zrvgy6B00OP3acUQ0TmF6yxtkgx/oQMLc7ifbYpIHUx9UrPLNew0eDdQOOT4Y8tNcAOeRT+/a3e72rBq3jP3x09eiuoGUgrBdk7vdQABiX5Fco/lxQD4BOirMC3UI7PPbJkDK55BErGwFMFxD7j+dgyScZSxqQWD4EvTAdv92yHT1uqX6zGWfawqvRbjLfDaPwyqfn+D4QKVuQRPlQ=;7yghvPX3FngsjEQGowWUeA=="
+secured: "sa95lj/1m29FCiC9Xv2gn84zdURMOmER3lBUAU2N2VixrEvrcpCZPwMRRyJ7WavIMfZDJ7tFDgG9CwgBKww7svVbNsoN9ycneQ2Jv1vsegZ5L/0jzd0rgi8AuvK3eitYlz9IKar94v6ZsK2RKjerQoWOOe7P+OYdCazrZvVA5LNH634tpshV+xZ2FpV0ddT+QxHgphQzgO9f8qjVM2bTnfUFeU1sxiz/qAGT9rZJVnJ9eY1HJyer1NSbeLCRVE8Bh++sNooHBsInhiB4REgY8HrIe7+qa6HTsa67enDTXFoI+0WWRHSsavYrFog+XRZI4Y6cYcsKNNA98sQJ+vIKv+MSnXDTp4fRL+8nLPWeniehKgq1CB04Wx63taJqWvBLtPQ1Uvyoa8yMevfr+XNuiA==;r/eX1UNEL+Q49swUeoiIWg=="
 ---
 

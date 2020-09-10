@@ -1,14 +1,14 @@
 ---
 title: "Create custom roles for Azure resources with role-based access control (RBAC)"
-excerpt: "Understand the structure of role definitions for access control. Identify the role properties to use that define your custom role permissions. Create a custom Azure role and assign to a user."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/create-custom-azure-roles-with-rbac/
+excerpt: "Learn how to create custom roles for Azure resources with role-based access control (RBAC)."
+webUrl: https://docs.microsoft.com/learn/modules/create-custom-azure-roles-with-rbac/
 type: course
 price: Free
-length: 30 mins
+length: PT30M
 ratings:
   count: 1151
   average: 4.662902
-heat: 57
+heat: 88
 
 provider:
   name: Microsoft Learn
@@ -29,8 +29,7 @@ images:
     width: 800
     height: 400
     isCached: true
-    title: "Create custom roles for Azure resources with role-based access control (RBAC)"
 
-secured: "cldbmjpaiO8JusyUeg1oXUovM6IKnpxVpoz7Hv2Gd9cnOvnSTIIQtxx/B4loIXkKzqTev5HPuDIBWpzmhj853XKBjqKw+XDpjyiQ2k9UB7lGJHa7fnUPiWvqNXvGH36B+D29Pb3TJDMHEEO6D+ia7zW3LFKs1CgquNmlMLueMRJi2ENbu+Nj5+T4o5ooHwyJtmS6I79cd/v6iYHae/1m9RkrpdJYbWzENaO1suJ07bQScLV9jXtPa0wJLjkq/+EyCMcTvT3ERwq7QGPUFMhO1e+r5rGWEMt1QVJZSUeU6m78I/7+DSxe/Vca2HIUL3If60fKmqswNOybf6BQNfQbFp7zEeqx31H+itcTUSNrVJeV1cs+AgEzDQeWUAq0MtUrxrlRiMM3xFn8pQjLj39+1qe2/S+Mzig763CsutwWGH0=;zLd2p3VsALudLEnihjDvGw=="
+secured: "LfzR42vfH17pcRqQoXc38T8xljPjvznOqzKuJqCH0hgRdaAVbOt9LOdl1ZAMIZlXfQdkZjRN+qvdGcC05lffW71sC+0EBFVI+p1EF0x2BGZ+/ggDBiGbYchozb9DjTrtKHFaHQGnpZRB4SdXNR7GnyS6Aue2Qt2lWnLRhH5ejAKWlcVgdR5zIIi+i9cLy5e3orpiKx1AgngegPYdA3pZEHrepnaMxVXKFNRJm6bRpbE/+hnv7nVWUi87+el8qDrYlJPJETVzksICUT8zIqqMxY/5COrQAi0eqD3M+7BSKn14S5RLl67oSdRfdyT7RE5Wjk4kOi6MAixDLFJdKs4/MSr7V43xnEeHnXfk1i4b8GFMDhRNCeK9tVH8qWBbnkZ/V9Hr7kRh+27wzf2WYuCtJg==;8zddS+4fdTRgV+tizzpekw=="
 ---
 

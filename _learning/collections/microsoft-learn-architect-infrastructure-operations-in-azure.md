@@ -4,7 +4,7 @@ excerpt: "Learn how to monitor, analyze, and manage the ongoing operation of you
 type: collection
 price: Free
 length: PT3H56M
-heat: 111
+heat: 333
 
 provider:
   name: Microsoft Learn
@@ -37,11 +37,10 @@ topics:
   - Management Tools
 
 images:
-  - url: https://docs.microsoft.com/learn/achievements/control-and-organize-with-resource-manager-social.png
-    width: 200
-    height: 200
+  - url: https://docs.microsoft.com/learn/achievements/design-monitoring-strategy-on-azure-social.png
+    width: 800
+    height: 400
     isCached: true
-    title: "Control and organize Azure resources with Azure Resource Manager"
 
 secured: "1i75T7nE5XD7e51KfVKYMFrKTBdABZoyujktp16p4rAcBsG5LRHpe/bV3Uh5o75RCf4AkQnDSKFJgs+xUZIsqOpNFrxv/VoPOergmHj+1clG8xKynvSP2irTpI0X19w5KJr9ynCWoHVIDHvaQmOw7Juww3qVs5sT+sf7/DYYg0Q0DR2+fL9qy1sDOaEP5A1RKW1pjBrClVdmbyaGKJlnMJvdf/wpwWglvSHbL0lQQk0GGhBywGz0U3bTr87BCgNQMv1InjqXa43cwFwCeXnCsod0rEMrfxW2CtY6d8iQV6kP57xVAoTEgcWGgUH/f8v7II8C1+0q/f06FCtY6jLdLA==;TWDjsDj7UIOktvyw0jWrvQ=="
 ---

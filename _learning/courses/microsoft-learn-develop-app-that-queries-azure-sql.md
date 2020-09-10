@@ -1,14 +1,14 @@
 ---
 title: "Develop and configure an ASP.NET application that queries an Azure SQL database"
-excerpt: "Create a database on Azure SQL Database to store data for an application, and create an ASP.NET application to query data from the database."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/develop-app-that-queries-azure-sql/
+excerpt: "Create an Azure SQL database to store data for an application, and create an ASP.NET application to query data from the database."
+webUrl: https://docs.microsoft.com/learn/modules/develop-app-that-queries-azure-sql/
 type: course
 price: Free
-length: 50 mins
+length: PT50M
 ratings:
   count: 2436
   average: 4.5270934
-heat: 56
+heat: 114
 
 provider:
   name: Microsoft Learn
@@ -30,8 +30,7 @@ images:
     width: 800
     height: 400
     isCached: true
-    title: "Develop and configure an ASP.NET application that queries an Azure SQL database"
 
-secured: "7vBBDJTqwqrGeGheZ3h1AMkW0UXGZWlu45zN/5W8EgmuMmwnTpW1cKnYkCPgc3FU87GX1LUvx4D8pOcW78Dx/utf37gxrwC3I9SGfxQ6ht/YCsB8MgrN+EvED9xg382LYMuVsYRNNzC4oSx0JV1D4nC0yzyFTQKB6RZEWOPrypVvZ9+65iT3ryfbmbDcfvp8oYUygu30pKN0pMwdZsT58o6ymzIkAr/4PMZzwMS32fxrQGoh/tj9Kzs2NB5r/mmDc815S8YwMUdWwAbEljhS8gaxAdPdigsxYRn/FUSRnmRTNeDkA+KCt6rSzlqh8SQrR1aSctYomOJ9IJljJ3aZwPdKXUuTKx9jML34iSrJSXhIAIUIlXjj97e1cmln+vYT1OvBM7MvV70c78zsY0tHhcGZqn+IiAHfmaVLxzN7Ry4=;B68aFAc4kzbJ3GJD3DHdXw=="
+secured: "j+i7q5P7V8ke6iOLfYqekjoBQJ44BNnP8HWt9wHH1cy8rdqjLQTX7/dUL3drCMkwg+MZ01Yn+Uh3zRvPavGkl5jtppK5j1lzt6c04De8GQtBoEhaSKSUVoYIAf6LWYANf6pWtvTgjCWhZY8TPUAGYG6FOCRgeQgXKFInS4erri/5qaKIIY7XutMETIUFPiO8w/XocWQLg5Rt17AnALQDMCz0OpZMEJukpCY5Pp/6Dlbarjaw8Lg6drRkltRwS/5qKcxfRFcVvPPHDh+tjRlqFP30K7Q84sZO2jG2XaAjF4iWQ2MfX2oJANjZPVccfB+WLFxvc44X7o8nkc36LUcdTqvDDvV0pi4qa+JS4oLJExI/UUxT8lrM8AK5ldlWo7osfLPg27ZdE6b1zaofcMZIAw==;aMpPlKY2oopPBRYqJJ6zVA=="
 ---
 

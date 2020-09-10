@@ -1,7 +1,7 @@
 ---
 title: "Automate Java container deployments with Azure Pipelines"
 excerpt: "Implement a CI/CD pipeline for Java containers."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/deploy-java-containers/
+webUrl: https://docs.microsoft.com/learn/modules/deploy-java-containers/
 type: course
 price: Free
 length: PT56M
@@ -30,8 +30,7 @@ images:
     width: 640
     height: 320
     isCached: true
-    title: "Automate Java container deployments with Azure Pipelines"
 
-secured: "CkCGPSJk8P9hd7lJ/972kg0GKc2RERhHxaFbt0k1hAuyb1R/BLLVAn/KOM1OvfsHS7g9jkrRfxSX1vUmGMkON8ahkWXWJTLIemvbsF4fJBLBHqUj6PV/ZGq8kt3/oZuj8KJK0PHyIzizykPBBgodyx4W7IN/14cM81A4bJLh4TKcTjiVIKlyJhuF/v4bD9BfK3fcnJlHfqyOL1ri18GZfW4awDQii6sH6hG+j5qdfdIta7pMMjUttEwah7QnCmG9rSGH6HkFPwoGJoCNPIqZN9SZOJT+GWf1pbQQBLTqYax16FrHeYnD2zSXx0lMwVgsUURwyR+JrWgclLR/ViPRCzSScYtD4uimlGzAB6Ewnzrj+VRxjKMN6GCYkV6716ynsUWNMDxOmDQrGJrzEoDpmAI4QDFrUTeQdTcR0plWLDU=;oks14Thnt/J8Lb4ukXnpUg=="
+secured: "r6JVx9fIK7u849FelypmZO4nMVzhnTlB1ruNVrrVAuJUcZ/SS+hQPwIpN4f5LYYqmcmBDUy1nmwoIs47faSmQKQrZVsg6hbE6sbMtMIX3c6EI/yC4JWL6XMHV1UnI3hEZA6pDM0Ij7bEYOJHWCsqcZV44FB980t5Lj6CscWbzWBOcHcRPSG4QsvHJBid74FSC3PeEnNv3WXaBIvrpEzXpLMnlQRvdijtopwj699W06qPzwOUNLS9odJeLxh3Wv17zvn0n6KJolV+3geeLBYGbyZKcerFvW7fTRBqB6Gd5jp7WOHw2FqDDNJo55LoTmLJeodxDM1RFKuucFrtqZbFHa4RmE6fltH89FujCNnvOiP2ue72tqhgvFQUN2KQOsZ6/fw+HDCIDdBcgW4HcA4mrQ==;OJeCMSRzU0NhVz6Zl5smvQ=="
 ---
 

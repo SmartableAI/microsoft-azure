@@ -1,14 +1,14 @@
 ---
 title: "Introduction to Azure Migrate for server migration"
 excerpt: "Discover how Azure Migrate helps you realize the benefits of moving your on-premises VMware or Hyper-V server workloads to Azure infrastructure as a service (IaaS). Learn the process for migrating your workload agent-less, all within the hub."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/m365-azure-migrate-introduction/
+webUrl: https://docs.microsoft.com/learn/modules/m365-azure-migrate-introduction/
 type: course
 price: Free
 length: PT19M
 ratings:
   count: 66
   average: 4.651515
-heat: 50
+heat: 52
 
 provider:
   name: Microsoft Learn
@@ -32,8 +32,7 @@ images:
     width: 640
     height: 320
     isCached: true
-    title: "Introduction to Azure Migrate for server migration"
 
-secured: "jUKrQuGpapV2b1DYjrBoJFX7rSygpqJZ/aUg/Etbt43DzvMP27OQYX2ZNXGgmj3fSWFG92abjMHjLsRuvjVBy1Cpop3BLNd3DBU1cTO+FQBjeVtXfTdjhO+X2yKY3mogjjnArmucrCuDWjUfkvhzrf70z7B/2eBSyPIbLsv494UNKlA3ld/03cyz/OrpfFtHxXZ37OBfsj3zRz7mLC7PuZst9LZps0zZNnAHLkMrczxceRzJnyCuSKM/Aibrq+hwtQKU1wj9eVt+Q19+bRhpuSyZmz0i+POWWpKt+kkdtGuEixHZgv2jbsmz2aGEgvNWd1vSsOp0RxQJ/hDMm1bvQHJEzdiZ15rETd2OEJrGP/I8coJXt21o4Xcj+DiC/3sHxQS5QNAl1qaXg3arAWcbSLlochpvCC1SDN5DBHIHOwQ=;HJqJMAJ0f+icwI0+WBMp8A=="
+secured: "fJYnH1kzYM0CErx/WLCG1u2EGU298lrmZLaRlBWVSct5gnuB+xkRPfH8ORwOGg6FEKimeEMdMtSXi3zFV6bhRdfsIJZCPKr/QxOkb4KFGdm0+55iI76zjDGJNHu2xI3AvRwzjwBnIvDh+pXRJb+OFS2sU23Q++OPhwyuqserMWyzIYiMpkLc42mqP+Xn1LXD7kTQpT1hTo3IvqUeyUpxbViShCsPrVJS3DHvDTUCEO8Lxdp+JOKLcc6ezyM3YtQcfdy8iBwvT1TJD4aK0CJ1ieG6HpPOpQt+5Im9EAugKHNeGN5K594F2ry77GS0Mq9B2pgColnIGk+JmO4zfIArXuMbKTyv3TRqOCaK+/R96vtJ97e6TGBlrF9IKQWRggUCVDioXo/OcMmaqY9V1hrkKw==;LIvbhBHNgx8JQPn1ELpGdw=="
 ---
 

@@ -4,7 +4,7 @@ excerpt: "Learn how logging, telemetry, and monitoring give you full visibility 
 type: collection
 price: Free
 length: PT9H39M
-heat: 70
+heat: 99
 
 provider:
   name: Microsoft Learn
@@ -63,7 +63,6 @@ images:
     width: 800
     height: 400
     isCached: true
-    title: "Capture Web Application Logs with App Service Diagnostics Logging"
 
 secured: "01Dg5AzFQ36CEA/9p50H9ooltV1T6HCEWdf1fuO7y6UBft49wFTbLBlpXdBDAQyT9YaB4zXx6KLdgVJXWiVChFQXm7Aj+9Gys6ZJBWjY9xAUKn/JzJuXPWFYu+f7xm3DkeAMkUdEt1FKEl3ikaJ5BK7ME92Vhb/Tvxqh6KL1rd2Rt4JvyVE5+H9pNzggdij9BNROJdv5x7vOsI+xlFdD+LjuZcbwHIdl+IbUgoqAmajjF9H3CAF4YKLARmqcKVbKg/5oVhi6K2ImFOkGuoIYEsAoI7q0kTWGHmyD61qILqC2c6glK0Pv9anflxycGkujdGLimVGIHzA/GTYkBnDhhg==;KgmMmy6mT5iMkeQroISgwg=="
 ---

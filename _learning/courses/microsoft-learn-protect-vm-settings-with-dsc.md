@@ -1,14 +1,14 @@
 ---
 title: "Protect your virtual machine settings with Azure Automation State Configuration"
-excerpt: "Create a desired state configuration script that checks that IIS is installed. Onboard virtual machines (VMs) for management by Azure Automation. Automatically install IIS on the VMs where that feature is missing."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/protect-vm-settings-with-dsc/
+excerpt: "Learn how to protect your virtual machine settings with Azure Automation State Configuration"
+webUrl: https://docs.microsoft.com/learn/modules/protect-vm-settings-with-dsc/
 type: course
 price: Free
-length: 54 mins
+length: PT54M
 ratings:
   count: 804
   average: 4.665423
-heat: 51
+heat: 79
 
 provider:
   name: Microsoft Learn
@@ -31,8 +31,7 @@ images:
     width: 800
     height: 400
     isCached: true
-    title: "Protect your virtual machine settings with Azure Automation State Configuration"
 
-secured: "5gnOmNek+ackOhyNbLXRG39nkBrBURQBX7K55ZbC8FqmbY8XZCpVSnRxRbHw9/lUH+4bUbkyTAbbcr6cZwkw1pJ6tT/EJGIHKUhl8I2HCDFleAZ8j2nF78YSWsEpINUeSkZA5iqKCfB23hZTnQhT/TCdWsmdPG+IK2txlsLvu5bDACiAxZL4uyuhFHI2kmg0ZtkKa0J/L4NWTPkwqgiBnLWm2/PglW5XLsmmreVOsUSldYXgCAH8KHTytX8pw16XIdANtjjYAEK93fpleBo+SamP9c7w53Ux/RLuuYgPVserdU34n5KSxiNIoVU0FwCauEGGa9qdLC8PzO4bstDzYhFA9t0PUTcVBl1TpVzvKBb1qlo4uX4/M+hS56qihiC5XLRp/T44ScZUO4aMFTGM5yFGJ4wxHAADQ31qxyG0tY4=;2TFQpPZ+D66kvgNmTF14oQ=="
+secured: "7N3l0+WBiYAjKa+WZ7Rpk5yNU73ivTvcWWSg/XBLrztmT5cVTxvXDSW6xLmo2V6pcRhZpEVZI81y5NT1ZXwumT4BuMqP9PC1yts5J8PyAYs12sH4ElLsfpBNTSB5NytenWHAeY2uQxIhJ+2/FmWLQugD1XIRl5/KoqdBSlIhCwTQZu3T5i4OZNrEddY1ibF7sR1ydQ9uDIJ43J/Sl0iXuHJpnN3ACuhhZxGwO6Mi92QbMmIoIrBozObCSvrpA68Dj7jUqWp7lXUJINwl43PaojlDKh8a2UUNcgrZAqou9GU53q2hDnKBzqJLwry0zPkqQ+9WqP8S62pkoLG230UGQS8/DtSRN3RqmlolkpcWO8TjfLnS/v0uFlEz46zpt2YiiE6WIUP1dWgQcYEa6Mo9dg==;YchUKuwd75Soh8+fryPq5w=="
 ---
 

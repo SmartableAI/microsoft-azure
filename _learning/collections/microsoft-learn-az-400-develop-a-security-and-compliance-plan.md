@@ -4,7 +4,7 @@ excerpt: "Build strategies around security and compliance that enable you to aut
 type: collection
 price: Free
 length: PT8H31M
-heat: 78
+heat: 123
 
 provider:
   name: Microsoft Learn
@@ -57,7 +57,6 @@ images:
     width: 800
     height: 400
     isCached: true
-    title: "Secure your identities by using Azure Active Directory"
 
 secured: "/XrfbOgsoTNiufQ9SxMnFqgeb3EPUabulxRDsWrK1wdJ+vA9LKk0rxeRKscrmqoyx/P0AUyktl2WoCoKm5NmyN2+1zec+z+THy0GTp34N5ptC/IHWPKUD18bpJWcA7n+iGZ/ilmjJjJOtx/sX4HZqIvUNUykUvskJIW8u9LcoJEpiNg/6wjEWWpO4PjNOJZv0K3K9MBUlW7Pvqo7kzbIifZvYBNwTr+HDTV4yZqEosj8GEmXMZ4NFNy+hfDEjM4STiEjvPtPz7s2tVkNDUK/anVfq9kPEngN3GozVcuoUa4Zl6YjCLVHb+21SVJAU4qXWE72IMGj8+cO3jol+bsn6Q==;3i9Ak0gSD4U+4FhM8XCDYQ=="
 ---

@@ -1,14 +1,14 @@
 ---
 title: "Enable automatic updates in a web application using Azure Functions and SignalR Service"
 excerpt: "Update a web app's notification mechanism from polling to push-based architecture with SignalR Service, Azure Cosmos DB and Azure Functions."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/automatic-update-of-a-webapp-using-azure-functions-and-signalr/
+webUrl: https://docs.microsoft.com/learn/modules/automatic-update-of-a-webapp-using-azure-functions-and-signalr/
 type: course
 price: Free
-length: 55 mins
+length: PT55M
 ratings:
   count: 1345
   average: 4.2810407
-heat: 55
+heat: 90
 
 provider:
   name: Microsoft Learn
@@ -28,6 +28,6 @@ topics:
   - Serverless
   - Databases
 
-secured: "IVRw3ALaRAtaA8JAuUC3TfjZ7ptLc5/dTPtg5DvJhTLI9WsXAvNcQw7gSZ3jg0uFMTCoBt10Ygm515bWWUQL/KRfkBv5PlpBQ6jiiiO3PS0kqw9L8f+CAoZIS5gmzbLEcLf+ECsZS3UG1qlTWnKeNCatTWA8TUxrh9pBi3HLCt8UTf2HdSGEQ7SjukXDqy1k2KrhpAoMoZW+rShL6epI/m/2/7PFDtNjn4GhuH6MPcYIJtEiL+jcPkd22F/ySXHA+cXdT9C+rdPDErLNkK+UobpBdSispT/nqbvRjLfRebWmSdFHUZCEXmshy/Pi4PGjKqOEO/x0NTtakn1ZOgX4XbjrbB9x3cDbGuo2k+JHngRBM/wI4uoF1gWEhjwGZS5wM6zhQMRVuABBC/KZjpOV9VR0qV0IkggYlkn606aWqBs=;fLzPA3aUEfGk81sqib6MaA=="
+secured: "8CVy8aUID3Oam51uIeF9p7E9pLIW3cYTnUR1pOQt42+3P+FGX46OYQlF55xyxIVn9LoDav0ikNYVHTx0wLY0NZnypjN4M1sEKaTBweq5mXvknrbiTn7FxaqNvQl4jY8MjlnArdxojfRihYwyH30GdrSt0aNcrnO4Z1jsyGOht4zXJZP7dp/xF+vhClsSeWwc+EtTALb9ucttyxGPyrANoSlDYe2UiItkTFymm9u5L5JrTgYBcJCWAlqnOyB8g3zm/r51hfbbMaXl1XrBl8Zn5HCb02uoIZhUTPGtiUce3vfAK6HxEwDfo10k5B+EsBQepRrkGXdvqUpkWqNxYh7dv0eeHXS5Uy34l82TYyLO11mGJb4ckDcDbV67mSINly4QJsqxQsxrMP/APWYr7J+NQA==;MpEDYDxXfDTr+Xyelz+SRw=="
 ---
 

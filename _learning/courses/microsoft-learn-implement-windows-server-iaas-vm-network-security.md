@@ -1,7 +1,7 @@
 ---
 title: "Implement Windows Server IaaS VM network security"
 excerpt: "Implement Windows Server IaaS VM network security"
-webUrl: https://docs.microsoft.com/en-us/learn/modules/implement-windows-server-iaas-virtual-machine-network-security/
+webUrl: https://docs.microsoft.com/learn/modules/implement-windows-server-iaas-virtual-machine-network-security/
 type: course
 price: Free
 length: PT1H9M
@@ -19,7 +19,6 @@ provider:
       height: 50
 
 levels:
-  - Advanced
   - Intermediate
 
 topics:
@@ -33,6 +32,6 @@ images:
     height: 320
     isCached: true
 
-secured: "d4ZLlCPCKlWvAwlvog5WQIlCSEieuFvS0NU7bXNAS2dVB8kzl2f0YI/djW9xYzPJHJEl3HqXWUKe/MugRme0r7MolmqlSqDsPkO2Lcy8KVMKRneWsguFl2LZwhYbQ0paAu/lnenvv9nMOPjDfyKjP5qkOfmlpOy88unymd1G629EJIIXLhvfD73hQXQZVrzQix/AudumJUoW297L//Id9estmY/nj8PDEoAUrK6Jc6F+WO3e4mqC9GUrO4MBVT+Vc7jkG552ObdblTIjI7mgBu3fcSgjKkwzEnv0gWGBKhYQtuaelO0nBt0pwxHqOCic6taz4T21BCYNym7UdnaGxh3LBPINsWSR3lqMiH6V70bQo0RyisvBz1qd4l1QwdEWsqL0KRmqlYUb1A302VV5lyX61jWeavGmxcnDVBgcLsY=;5iB9owq+/ZCWEiKVHk0PAg=="
+secured: "DHpQFNE24ufu9iMpDew1pmvD0WMa1oxnxUWMSZ8XIRminGGYJSwNM/A0YkNxHOeCJ/kHbmVhKARlaBURLUVBVYkZZIixe5IjgH3sxyjx2Z5wltQaafPRTQHJ0N72zw7qh41/tKyRRcwdPwQde4zNEQpnX4dX+TdpMO0Dy61dmvaO5OLH89iPm28cQHtJt1mM9a4Lv7wA8JgzvfPT52oMSUxa4kbeB0w3Y0ui0Tfo9x6vd6AZ33oxBoaxIls6nIXq6fsZj6ua6YxR6rw7ri+pC1QYMWkgXgacvNSqqSbDdq0IHwXY2F+PIHWZEJ82kf3IDNeDw8HoXonOg8J/7RXCWVOPW2icYxcMRDMn09ibbgsk4N8TDuT2TBl6/mzHj9KzTrFappkPLTIgmgdylso2JQ==;Gzsnb4KOUAOmQKJZsU+O4w=="
 ---
 

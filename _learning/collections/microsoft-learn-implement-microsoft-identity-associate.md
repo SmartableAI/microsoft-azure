@@ -4,7 +4,7 @@ excerpt: "The Microsoft identity platform is an evolution of the Azure Active Di
 type: collection
 price: Free
 length: PT5H42M
-heat: 60
+heat: 64
 
 provider:
   name: Microsoft Learn
@@ -40,7 +40,6 @@ images:
     width: 800
     height: 400
     isCached: true
-    title: "Application types in Microsoft identity"
 
 secured: "vyYQKTYYF/IKAtZkDWIJ3CU7cssOjF69YJxO05qRxYD+AYUNxIvkKCpgIcceiVLlyFOuvSZyRNzhvcmuMacpR5yM+LcVNoNjcjg8at0ml8u2NLeOw/xfu3xNCOkRsCPt68au2w8/pYq7K/9YEikTOf+8hfENMH/C9PBbU3S4N2VenlwImghw01IX9+NEvOvVm58bckdq23uYM5oUNeChWc8oYfIhWcvpxa57OGoBibhSYyrInmX90tAHytaAl82LGZoEXrJmkMzpwTkJd662t5p1/6zAwgyd1KmrfSigRFsdVSXlOp5NaBKZl8GnCLAJJC0fyXI2LGNxSyW+MAfLyg==;qCLtLd5e4X4DtlMOA9I8EQ=="
 ---

@@ -1,14 +1,14 @@
 ---
 title: "Improve the developer experience of an API with Swagger documentation"
 excerpt: "Learn how to document an existing API, written in C#/ASP.NET Core, using Swashbuckle, Swagger/OpenAPI, and Swagger UI."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/improve-api-developer-experience-with-swagger/
+webUrl: https://docs.microsoft.com/learn/modules/improve-api-developer-experience-with-swagger/
 type: course
 price: Free
-length: 33 mins
+length: PT33M
 ratings:
   count: 502
   average: 4.6155376
-heat: 50
+heat: 69
 
 provider:
   name: Microsoft Learn
@@ -30,8 +30,7 @@ images:
     width: 800
     height: 400
     isCached: true
-    title: "Improve the developer experience of an API with Swagger documentation"
 
-secured: "WErkLJSJWOXfV6b9hKFyjE5lKQrlw7gN7ho3LtwPv3F4LTduznV3NMGHZh6Ih8vDuZmmgCf+XcPv2WkO8q3W0rRGBscufWCxnuJ2qiiKDE22lM3Jnu/txBT2ptHuZGmfr4BNbaDPQ+rJF6R/3WftJHda9e/XVCxIZ0IdgemDogngTRnh7ul+7IILTbdUkBeN/hlhupYMk9Jz1vqZqwLGxrCzl19g4obC36xhkfRSifgqN6S6e5u3BPj7uZM352LtgxOWjkYFtFIRExtO/URgzcSwT2PKfYnzDNVEvLjRKTZyj4Q/kHnAnJoefm1TauNiUAXx1VSjEVLDSIc81V/EL/nFjB7Gvb1Zkr/thHDczbnLYt+zyytNIE/nPzyJJX589U3iXxGN+OCMuXGyDLmKgWsXYhaklnvWHkZfmg3GFwE=;pH2bRNmympwYBn6oATXvbQ=="
+secured: "yr5LiN2qakYUZiMJg2tOVqFYyfs2PhA1odufxsei9l+F/o/37GYo2AJg5WvFckFJbNcN78mLND4mZCCc8E95MlY5nxHyh0NWwEnLnd7UOVNfnVjE8ZfFhW9S1Pvf7l46i9bXYzxmsuqjy90H9VOkrruRs9DQUs1nmQwSnqz+HNrA8h/iwNeuOpBbvQZm3KotluNK1B2XDQwITf20QYagc4sBqgMYEDKHSuKSmF/5dJFE6dgZ6+9gyzOlUMcasIsgC4Qw1eOBq15LB10/k7OvTqXhJxPmHooLhivpQU/K2LljxFnbXFTvu6agAr1tDbL5TeVssn8b3eqBphh3MmEmEsDdY3eSMYiooLNx0twe3nILcOMmUnEZHQvyfIOaI4t68y7AMuzimx6dDDjjMIJgSg==;VhfOXKSKeCwLjg97hQMJQQ=="
 ---
 

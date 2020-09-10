@@ -1,14 +1,14 @@
 ---
 title: "Introduction to Python"
-excerpt: "Learn how to write basic Python code, declare variables, and work with console input and output"
-webUrl: https://docs.microsoft.com/en-us/learn/modules/intro-to-python/
+excerpt: "Learn about the Python programming language, how to execute statements and scripts, declare variables, and create a basic Python app."
+webUrl: https://docs.microsoft.com/learn/modules/intro-to-python/
 type: course
 price: Free
-length: 67 mins
+length: PT1H7M
 ratings:
   count: 4540
   average: 4.713436
-heat: 59
+heat: 146
 
 provider:
   name: Microsoft Learn
@@ -29,8 +29,7 @@ images:
     width: 800
     height: 400
     isCached: true
-    title: "Introduction to Python"
 
-secured: "nUhRsJQiqEJnDeDFL3VQHR076ETCiPgblT6HHfjvpjg+Xcqub2LjBLZLMWCST9EBUmoardejtqzhNSMZzg59mNWBCveBld2Eg2XCU9A3zFciOlWi1Bx9dU6+N68gLE22AiM8K8EuaLiMOEt4DuxMbF3C9WUJ21c6DP2FlqBJprKga5IuVLS4rq4kW9oqR7p3j/s2GWjDRR2pVDWQ81uF1T12VwkSUXGUuWG42LafxsonruTLY47036Xjh7K66AMJ2AOjnKSohBnO6TIt58EB36lRtI4Hi4XBC7IZHliUCRacVFJSHbemOdT4LQGpZhlMCefN2nHr7Egh3NA0RmofWNIokuNQkciGQ6ULvoPZLzBrcf5kPVAibL+/Bd2Pszdrq8g+i2l/o1mYRBh4BmJbN3avLZexmk9QK7fxF9wGrWs=;XdAVPCP3aDMLJckHZzy8qg=="
+secured: "Hez4lrl7iTUHQ7+HyhK9AEDDOV9mn6Dg1E2076PgUOkxayUgYiAGjsunjD9342x+f0w8jKSiTEf+AxFnKks96oquugRgcn5fmX/AXdrOgAOhUvkRucWVxkghVHCfo0XHM8yNt28VNjgWQ6jnuJwW+KiQWOc/IjTJA/4x4Eo/IVfK08obPMgbo4Gs5QaldLnTfDAUqgtlbO269Us5tuCbpSrPCP/I/GPgk1Edwt40XS5KMemAFqdvZrwx3CwkSGfMZVwHg0L/NF7jqq1VnlIQhe7canklboq/p7s7wNj7HjdqWW0SPGP3GE+vpjP5J3OrgDE/kuVz6gOYUgLiZAVepZotMntPy3hq3dqFn9SeuvWI3xj6LnjiEC1XSws3CY8C/Zqr3vBE8lKcU+p9d9SkTw==;c+NGeOvOr1S8jk+v+u0x8Q=="
 ---
 

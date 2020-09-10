@@ -1,14 +1,14 @@
 ---
 title: "See Azure in action"
-excerpt: "Many organizations are eager to take advantage of the benefits of cloud computing by migrating their existing apps and workloads to the cloud from their on-premises datacenters. The competitive advantages of higher efficiency, greater flexibility, lower costs, and better performance are appealing, but getting started can feel intimidating. To help you get started with migration, the demos in this module provide an opportunity to see Azure in action."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/azure-in-action/
+excerpt: "The demos in this module provide an opportunity to see Azure in action."
+webUrl: https://docs.microsoft.com/learn/modules/azure-in-action/
 type: course
 price: Free
-length: 30 mins
+length: PT30M
 ratings:
   count: 2077
   average: 4.705826
-heat: 50
+heat: 109
 
 provider:
   name: Microsoft Learn
@@ -23,17 +23,16 @@ levels:
 
 topics:
   - Azure
+  - Management Tools
   - Databases
   - Compute
-  - Management Tools
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/azure-in-action-social.png
     width: 800
     height: 400
     isCached: true
-    title: "See Azure in action"
 
-secured: "SMXl+0aS7t0qEEEhHXm/LJjhdFKDMBgEFK7MFTc9LF5dvWQtWhfVjZx6HC9jPSPsRdNdFbS7PoY9a+aFmZspBsfMI1iVnpdGAdl16Qeb13HLrhX+n0CcnMCZaWWLeQ776ASVSx7IzS+I902oEFHXX+FbaGXdPsRNWaReYiGZuqLl6tWphoy8YSLMgx5G1hVBVveEFHzFwFhnKs8matFEpViMQWEl8D/OLfKhgPVDegjb7+E1So4MunBZ9rkm3e24dph4SSKjl0pxzA89oXocKjyevlp+KbyBcYSN4uC9JC2mUhhMWieoRmLhrX+eJQmU1Dq2QRKzGgeFSQTkX6x9JJ/7BRusUelfQr8vUIr0ea0/y7gkpPrYaZTnExr8qz/6NvTR+XEEBJ8J4LWTba7B45k+0MghKR/EtH9FI0HGtS4=;6QCRnRtQjPUzyjptmtia4g=="
+secured: "nFw/uCo/yfWLLeEYm/bYlQS2d65tXrJbYUCbxjiI1mJtGtHwUQBrD7z6cy61ihqPzqW7nUxxhT1o0As7m3ro/baxHixmFQWueHocKwOblaLbPFp+x+nFZ+4t+9b4rHqnsxZQreUxkrYOvySxAan+SZftS/Q2wyhlhBj0wRuB14lUQUZMHlwlOgwTCEyt+AKdXw2fM9u31Uui68vWjHSAIvP6FxqEMQHtCLME/yzPP4DivuSggxf/9FeArOMx3r8UWK1br728lTt8Ct9Ockn91Px4nXdSmI6Z8zwJTjbSjL9FQ2Sa80aCXThkNjyYEBOjR2qUFljyu4HCNbsMrHbKvOljXg2N7EtnCxBEJrPHkOMYae+6LOFfvV5NoCk6sDJHiDflTnj23B3M8Q40r9ev3A==;gR9VuYKV2o7ZwNauFvxRnw=="
 ---
 

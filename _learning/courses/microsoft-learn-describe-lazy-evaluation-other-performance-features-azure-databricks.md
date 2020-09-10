@@ -1,14 +1,14 @@
 ---
 title: "Describe lazy evaluation and other performance features in Azure Databricks"
-excerpt: "Understand the difference between a transform and an action, lazy and eager evaluations, Wide and Narrow transformations, and other optimizations in Azure Databricks."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/describe-lazy-evaluation-performance-features-azure-databricks/
+excerpt: "Describe lazy evaluation and other performance features in Azure Databricks"
+webUrl: https://docs.microsoft.com/learn/modules/describe-lazy-evaluation-performance-features-azure-databricks/
 type: course
 price: Free
 length: PT38M
 ratings:
   count: 65
   average: 4.7384615
-heat: 50
+heat: 52
 
 provider:
   name: Microsoft Learn
@@ -31,8 +31,7 @@ images:
     width: 640
     height: 320
     isCached: true
-    title: "Describe lazy evaluation and other performance features in Azure Databricks"
 
-secured: "i0PgotLcESbetDH+H+xHJmFz2ESg3gDA2tVsAJpAX2UfKl7AUct1pQEf6Q1WGesu+Ax1xRC5OpwYKtpXpSJd/3X4nv+2rKvh8/5wPu5kucZ9WVs/dCqB/UoggHIdDrIfVsEvTNj5eGkezQjDpymZ6Co0MLo6Nb/P8shWqRZC2sJmcgjYRIy0ZkM5B+MEWFFtXa8uzqYwhBXJI0dJZ3B7YaSZS2HnCZPFirrK5yTmezi5tQvsEYeqX17LEp12WiDmC92kKIDj37ymB0nW2XHoEfS73KB/LB0jdIMyD29Q7cdobFNea+gcKYouFRZ5pS5h21uSTnF59Y4i06/ttnPrwBg0fXn/IwLsaSpwYYoDK9vYC4erKAg6+yFGVCqMhMZ8jBlUoGlo7OdVrx3p2qH/y7qEnNtLqWtD1sw6FCHkJLw=;lyZQ/ksxSJVZQoGalTQ4ow=="
+secured: "D+QOT6w6r6lQfJIxFsVkiaQ7gVfuIXaEWieGP5wwHATzWyD6mYQ+fhBAZ1OfQn9glN5UJlRo7DxlufU4GzRRGfXmTWRnMum+IoYETOFUGfWmNGtWlA5E/9l8knAV2/CXJZN98eOt/WpKM8TdBjMGxKVudkfVii/leW+fu+pc5XL/E7j86pOrCeFuQH4qHkcM8TZ8sr/+wANAzc2D2WdGneXrPgwqs73gyVIiXV9t243N3fSgAnvlWTbsPttg1ONtHIhFVl7tcTwfiIS8LflFBxe8BasCLbzL0rK7ohrbSg2iPpG/M8Hmu57pL4ijZ/9JXExgiBQc/rNwq9gqeLLeSKKcICnyyu6//pRqnUxwj/owi5Osrva1B6C1pGscA/IYtHoXTMxAEmLQin40grgnkA==;FpT3YtCfQg7bOjzu5M+z1w=="
 ---
 

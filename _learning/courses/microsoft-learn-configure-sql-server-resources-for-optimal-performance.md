@@ -1,7 +1,7 @@
 ---
 title: "Configure SQL Server resources for optimal performance"
 excerpt: "Choose the appropriate size and storage options for your Azure SQL databases. Configure server resources such as tempdb. Understand the usage of Resource Governor."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/configure-sql-server-resources-optimal-performance/
+webUrl: https://docs.microsoft.com/learn/modules/configure-sql-server-resources-optimal-performance/
 type: course
 price: Free
 length: PT35M
@@ -26,11 +26,11 @@ topics:
   - Databases
 
 images:
-  - url: https://docs.microsoft.com/learn/achievements/generic-badge-social.png
-    width: 640
-    height: 320
+  - url: https://docs.microsoft.com/learn/achievements/configure-sql-server-resources-for-optimal-performance-social.png
+    width: 643
+    height: 322
     isCached: true
 
-secured: "SpSNEe5wNw/plTUftpfZ+bdnjkN9sKMkuvmYSMhZEK1FzKxksGxz0ZnRH6zZC2oe/VTBR04iqbHWEhapuzcCT5Z9qX1VYHj6IvB8uF8nBg7/Iv8yRKCrL2gySuvFZ9lcfnvMTaWzvr+wwdX20SFW9Q+etJihY8YYNSwvO1/nUUQUC+DEVyXkmoAHwjyG5XPpr3pIy3BGWLLxFlsSwZ/N95I3kvB9xWXZI4R1JnCmDdHfehAplywP9H/yPWXEjpwouiuDFqce1kPvsk4gTL2DYirOh01DXFDuBbEVVmlyz6je9RTDtdRnHP9AkkSBs9tGa0x3/3hWZBR199MWS4GjkouyPWZ40dj6Jh0/yqjybi3Z/UhCZ8OexV+cyahnMsODXS7PSMevOrJ+4tJRKcWWvqSxu4GtEBCltlg13y9UR/I=;q4GOOfMEqVWQe6ar0v6mEg=="
+secured: "CJwPNzy5m56b1RSdck7uJ7uiFpvx8MNG4U7fu6SchFtODI0lJc6GZsZOp/UKh80GjhLddzjDGCMZU2bAxxQgOU09YOrhiLDTCJaIKi1JtWpXdBwu32OXRJFAsV8WxLMmQNetsjT5xFZjE0QnLMIopPKv1ihS7H9v7IMfBkPtTLoLqHdThSNZvPzyRkUZFo9rPVGV7YSfsQDK7yl4xlN5gti3fCkkTnWzYfuEAlpcfw3Rt3/cselvrhXl40KevMZhvbwxFsSY2vt833SoAbCA3pTVeBozGg1Mhy5EQs9d6VLhGquN2/v1gyB9cMG3Yve+9vyEvjOwdey6cBcknd1m7cMz0XHrVBEWw2Butd8/Ms1hr473rZSEaxQZzyLooetIr25i/49InTyXNtJLXLLK0A==;g3bGZ79t1yI1QXnnhnjQjQ=="
 ---
 

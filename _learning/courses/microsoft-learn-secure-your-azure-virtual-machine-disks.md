@@ -1,14 +1,14 @@
 ---
 title: "Secure your Azure virtual machine disks"
-excerpt: "Use Azure Disk Encryption (ADE) to encrypt OS and data disks on existing and new VMs."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/secure-your-azure-virtual-machine-disks/
+excerpt: "Explore the options for Azure disk encryption to encrypt OS and data disks on existing and new virtual machines."
+webUrl: https://docs.microsoft.com/learn/modules/secure-your-azure-virtual-machine-disks/
 type: course
 price: Free
-length: 61 mins
+length: PT1H1M
 ratings:
-  count: 2415
-  average: 4.652174
-heat: 54
+  count: 2416
+  average: 4.652318
+heat: 115
 
 provider:
   name: Microsoft Learn
@@ -27,13 +27,6 @@ topics:
   - Storage
   - Management Tools
 
-images:
-  - url: https://docs.microsoft.com/learn/achievements/secure-your-azure-virtual-machine-disks-social.png
-    width: 200
-    height: 200
-    isCached: true
-    title: "Secure your Azure virtual machine disks"
-
-secured: "PXGKV0hJd2BFP8qOwVnozg/mLnIFN084CdNkMOKpwl4YBhrvVmcdo3UXT+t5iSzq0Fb1R5v/FQ37JszMLNeVSJeD5JqX8q4HejZPGVLYpaD32Idw9CIUokf3YP2c5rzSWCqSnHFkLKs37WB9vuKfpoq0Pw4eA1hj5IgKv3jBsqur6ShAzydXiz61HHDe06QRAlGpayP56i+M3orwXh1vlkYpMt/nN/agW995GDTtM5zDskaRyZ2DiGEbs0SlrnJbSe+KWuIqFNyWWvIPpQjHm+uBxEFtEBjSZhh4zn6F1w4ZmlU8kMRTXJ45xDATUnI8Lk3WA5iKAyYLJP9DORh8GEFfYr3DCvZtE+/jgRtYrHTN9W7freWshsTBYn+EHljQ+SSsNSeSLBjMJPGmx+DkMPM2GNr9cSr1bujaa3KekM4=;kkXWFbHUBL6DCDhciWj7rg=="
+secured: "ENYkAN6NR3UeRTAvAHXVtADeoeZIQQIU93ontvcbdnxGO/NspnMK84h6C1D7qp3MezZTJE7paQUrDdn4SJHXsOd45UFC39YlWoLmlGVHgX7Boc2odE1Dgx/UPH80M80GGa812IhB5Mjacu3gpVo9WcwqfFkAPbBdKjUjznT6fXrYm+F9zn4iguOT+EDy1v9Xh/3exorB8e9qvBLZw/FJKN7bAXwE3cRH/kDBXJWmVd9A50x01OzADMkSlv9matZVMS+rwHVdsvUUXVFZ1dMoxwhWBE3NFAuSpBHdHWlPV9C5Rc3H7V/mz9/9uKfMA+DJsKEFs+aTADDZSgi+waavn9JMoqRoIrNyQGfFo9v1cjBevkS9jcrByaUnecloxBSFB3eOatIzaWVgTr1Su50GHw==;S0jhyThTNbEYvzNpmYoSuA=="
 ---
 

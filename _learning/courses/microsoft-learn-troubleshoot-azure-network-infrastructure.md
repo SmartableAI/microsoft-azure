@@ -1,14 +1,14 @@
 ---
 title: "Monitor and troubleshoot your end-to-end Azure network infrastructure by using network monitoring tools"
-excerpt: "Use Network Watcher tools, diagnostics, and logs to help find and fix networking issues in your Azure infrastructure."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/troubleshoot-azure-network-infrastructure/
+excerpt: "Learn how to investigate and diagnose problems in your Azure virtual networks by using Network Watcher and other tools."
+webUrl: https://docs.microsoft.com/learn/modules/troubleshoot-azure-network-infrastructure/
 type: course
 price: Free
-length: 37 mins
+length: PT37M
 ratings:
-  count: 1911
-  average: 4.5766616
-heat: 54
+  count: 1912
+  average: 4.5758367
+heat: 105
 
 provider:
   name: Microsoft Learn
@@ -30,8 +30,7 @@ images:
     width: 800
     height: 400
     isCached: true
-    title: "Monitor and troubleshoot your end-to-end Azure network infrastructure by using network monitoring tools"
 
-secured: "Y9BdbrbdEylrjq4YAlv4eGHlvx9WIPOkkza+KVOcvocN119qPjCyPeJmNie5tiM7Y//trAed/7H28OAXnFW91icLsw4Un9fPaFnWsyU/5lDa14MdExKA0b3N5ChR4K7xfpPmHWkhHSRcZ11CCJD1bItIgiRU04Ey9rE0jI8gnUnK+Qr4AH8lHDUUy3zXKan8WHUJqLv1rWIoedBZbqw4Z/dNHy2SY9De+FJMDT1C4ETYvMs32C3rJ2Hwy5J31IXXj8QECEbE9JtHf3At4VEVQb4RDrouGXK96bcaRqi0nWJGdw7mh/h9WOGUnqNx6qcZPsTLNvLEyeTVeS8ac266YF7aVfSgxONCLDeeB7wetlA7DvhQXqLXblKd+g9u9Q3PF/RJ/5KFFkE/UZeYY90bXVLh0FiP1L8RmVv5cSNuPzk=;OfdoDhZOcojxTkmvTHV7bw=="
+secured: "2M27hb+ptEy/s3MQtWtS0Kxs0F8TgAQWDwp/hsXCDeezlKN0xjrodKUXGMzaFbEsJjA/Sg//W4jRBML532RiNL9cCZiJsc4bVq79qLU93IlkSImWzbJMSLb4l8qxRzAl6wx+b1llTBShrHVlnvwt/7WN8mG8fbQ/F3i5EM1o18uKXDxs2YvfzA50fisDSzBi2MBOz6/jhvT0eVnmLvsE8dMn7L9rNiteGgaBPGFkIXudbP/1VZUz1sV5P5yGduSmqmGZGTW5Cv2Z3fxIrMSQQ2bsVbuijRQWVYp1YHWY7CRr+1l11BmtStOvmmiD/jYLeVkBPfWUEaIDIDvERE8kQBEeiYLmGaLmNxlooHSbtbwP9d0qzBpRZLUj98Fhs1aXZGwnoxCtip+upxFFX6bN6A==;IpB6PIUWA/Mb0RZEa9Wa/g=="
 ---
 

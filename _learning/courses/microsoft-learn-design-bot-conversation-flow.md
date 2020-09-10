@@ -1,7 +1,7 @@
 ---
 title: "Design a bot conversation flow"
 excerpt: "Learn the principles of good bot design and implement conversational flows, knowledge bots, and how to hand-off interactions to a human."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/design-bot-conversation-flow/
+webUrl: https://docs.microsoft.com/learn/modules/design-bot-conversation-flow/
 type: course
 price: Free
 length: PT32M
@@ -31,6 +31,6 @@ images:
     height: 320
     isCached: true
 
-secured: "pBGFV1zpigj3Fl8KwViSOiNuD6fvKfh11ev0Qi/I3Hl5Z+dbudy/dmxvypvlw2NtBA775VBIfUgFP5o0DZujQWrbBzaCnsMK45M13ZBLQV0qcBv3vbKoJlv1uzfvjKQw4Wvi84D1He/TMW8pBmkg6e0s4VEvsCzmxIZjTXKCXLkahfhAF7qkyNfpgeg0Y/blafmrdhxps46oC/fN0QSSk11iEjgu6FgaftObuVU5VReJswHD523fAWqH5Kx8nfE/ZnYvqj9WuPLUnvXoq9YSS/FQ9WaAAByFd281YCmvDev9CEfNmWgN1qim0qDoamnnGh1ruWc+mLOX2kPhHO98l0M9jOu9dK+dMSTlj8gkvFahjdm8w3np30QIEBkGdhyoMFkVhXSbABa5IiNw+zJTxMGRValaMbwHXM2fffGzfNY=;pgWfrOR5WKD3VTv2drZUGQ=="
+secured: "/6nkLy3PZ8bd9DV2aX+p85KgNNmkrTeJrq/BJLHl9JLPJrZFYSjzEjCxPyXdv3GyMkFFClm/n4a+r+QpXhZWb6l1CQhlHChlSWB4guyBZB+4jR359T/iZzRS8i7T/BcFakQ4otd7B72QqZ8oOs0yxgiQClm+OAlhuWjnmrOiZQAZUcifz+0CH+qlegNzpbl14J0ycLcBuETT8T097LufG9latpoT6NOZnecihd6yinbQjA9JbDjxzag+k8FZAOLRifk0QfZJrFe5W86sgd4cwB8IGhIgldocELKGpk5ClN+MWM2VQd8jEgGs28P2MtJt8bb49WGJsl96VHDVHCQofUuUM+b2ZsEkk819hS1MGfK/7AYDVHjrEI9klGkRpXe9;HTpO2haWpSj9fEH8C3LwzQ=="
 ---
 

@@ -1,14 +1,14 @@
 ---
 title: "Prepare to migrate SAP workloads to Azure"
-excerpt: "In this module, you will walk through the important steps required for deploying SAP workloads to Azure. The steps include project preparation, pilot, non-production, production preparation, go-live, and post production."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/prepare-migrate-sap-workloads/
+excerpt: "This module provides details on the important steps prior to deploying SAP workloads to Azure: project preparation and planning, pilot, non-production, production preparation, go live, and post production."
+webUrl: https://docs.microsoft.com/learn/modules/prepare-migrate-sap-workloads/
 type: course
 price: Free
-length: 61 mins
+length: PT1H1M
 ratings:
   count: 192
   average: 4.71875
-heat: 50
+heat: 58
 
 provider:
   name: Microsoft Learn
@@ -29,8 +29,7 @@ images:
     width: 800
     height: 400
     isCached: true
-    title: "Prepare to migrate SAP workloads to Azure"
 
-secured: "gxMaBzGQFm5C9kaosXCpEcXhe+b0M2EmfOB9NUt6Q6KwB6gmg4Sb438tL2HEXdhfpmsPYv9fNjjU5AsK9dpLKmK9K9QjlB5MZ2OIOv6Cp6Q8dKxZsV4N7g0JlrgzZWpJBVXYK117+FsPWtlDtTk0jWgWexidyhFUlqX+DSwj8xQC2Frr2h0mFPxze19as0KLCrvMfJelfS1a0fwR2zrNfBVpIrwlhkFhMcsxtLdmeCeENYaUV2QwCwq5Vl+4mhrn85sZrMntLEu+Be2Jp+U+Zn/mBy6+133ktLPGr/lYWmbCRBOfPq1UZbhthTKK/9d9s3K3fI4OSm7DwO7AA2OoKcPSEM2reDdhkqWs+gKctzI1Wid0oaMPRXcgDDKNdM656YAvqLtiC92baviHPEAfzIUfh+l+MzUUXnqGXFgfLF8=;wlKsSlAGuAEMeibVWXzNhA=="
+secured: "zAt1556Jl+ErVU8DWBDKTcxhAT9vhW9yml4L+kLsI84URW1poDkUeLi5D9Pki0/s+KRxZF4WmPasuu/I7NLVkkF0FVJA0uMm8it5CdgWbo1PXgXpCJm+dPO+arFzzvc89s6rtP/4jwjYjo7+R4X3cme32HXQE5rmtANItbGqdnO8X7JnDo6uPsn4CBjgrOZY7vQTqbFX8yA9hKBwr6ehg8Uc+fZYUpsElIiIoNu0rwPgYOZJwRy+tkmzRB5/4O/3U1ymeKcDnH2TFxXRCxpEHM8cjX2ZUYfl+UBZ/nERjb8dVxatRcsC9R8LrPELbtsQIgh9a44Lrg/Is6/y0P6LFvyXYYAqloUnGnZDdZzJHAnSH8IDzRXNxrCWOFsIb+dbncccLB3pCXTJBcLLSHZ16Q==;9gO+1/xnyHMq95GVMrpfsg=="
 ---
 

@@ -1,14 +1,14 @@
 ---
 title: "Azure Kubernetes Service Workshop"
 excerpt: "In this workshop, you'll go through tasks to deploy a multicontainer application to Kubernetes on Azure Kubernetes Service (AKS)."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/aks-workshop/
+webUrl: https://docs.microsoft.com/learn/modules/aks-workshop/
 type: course
 price: Free
-length: 145 mins
+length: PT2H25M
 ratings:
   count: 228
   average: 4.75
-heat: 51
+heat: 59
 
 provider:
   name: Microsoft Learn
@@ -30,8 +30,7 @@ images:
     width: 800
     height: 400
     isCached: true
-    title: "Azure Kubernetes Service Workshop"
 
-secured: "dmdMPEcwMLDmhXMZxQbtjTLz25/jw6QoBVSfhd+ZwEQ3DgmjkntpUG/tNQR/6zK8BAqGBq4HbEZK2vDHlPA01JkrqYnyer7Hf7oG1S58lFzu6imEpsoe3FYKU4tL4ST1Z5koCTz0ODnQWc9J3IIc4d4DlKK8xXtatub+bGb5ZuYN1eiHHzDmVZ0OWiEytbbArJKnH0XMIfOUfSw0UAJuatA1muFHlyhEo+ot5VAsv2I0CAc5tq4joNtuMkAbVSp9X/n2NWi2t4/exrEffv9vRIY78PM86ZoVv7JlCTwBHFRE5Q9x9bxq0rwYr34kBv10mFaYkqQUiGrURNi8lyieb83ggOGSKtXELO82WUeuEOMJzDu9VGzPEky0ZPHsSeJPrrw2v+bdJIkmX6GF5ZRAe8C4tU4T8Uu5/bxYX/wFx1c=;ImvriWbj4XwhvfMeuVabEw=="
+secured: "30t1UoHo4BtV4tRHCWbAV0SkIHQ2kFJXOjvohyIlmUskBFikUWL+XG7uVgiU1wXUyHsgURcJlfsd5myLAN/eO7aA86bZLIqhnynzcOUDDhTo5aVJDrzr4VoCiTE4vUnSn3b+Zvg5r+gSdoT+Dnv5ohQfcZ0ISMJhxeisU45GqDrICmx3MNGzg8yRiOLIUPnHNPkcZTVsD1kXSM8/5pz6TD9WRGmKVcovY0FaOGzbB1flFoXSFQ1p+ySbPUKYQkHgQqE0Berx1v48mAtOai1vcn2qBx8yPxEgf5XxuEpnSfO9NcLkZ9oLADLDeygbHORKydQvKLjoqOtoiuJ0lzr+maBi+QLbjZdomKT875ovljWgu7KXwh/2sd6MGXmMvZ4MaTCKGcWUd6adzV6b0bP8yQ==;exYRx8DzxEkB5cNw0V+Y7A=="
 ---
 

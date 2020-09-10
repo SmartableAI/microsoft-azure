@@ -1,14 +1,14 @@
 ---
 title: "Explore non-relational data offerings in Azure"
-excerpt: "Learn about Azure Table Storage, Azure Blob Storage, Azure File Storage, and Azure Cosmos DB, and explore situations for using them."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/explore-non-relational-data-offerings-azure/
+excerpt: "Explore non-relational data offerings in Azure"
+webUrl: https://docs.microsoft.com/learn/modules/explore-non-relational-data-offerings-azure/
 type: course
 price: Free
 length: PT41M
 ratings:
-  count: 133
-  average: 4.827068
-heat: 54
+  count: 134
+  average: 4.828358
+heat: 55
 
 provider:
   name: Microsoft Learn
@@ -29,8 +29,7 @@ images:
     width: 640
     height: 320
     isCached: true
-    title: "Explore non-relational data offerings in Azure"
 
-secured: "nu6YTR1+osu2UbXgE3LUz497x0rxcpiXUBK/Fha6qqzJCmMcjZzYIq7aMGAL8eEcxKboUu4tqrDUEY0hvyzJqLtwbV43l77UKnyAQa/vJdSaz4F4Z9zdMGYJzLhi7I9KjQ2ATLp9/oeqeh3WXpzSiVzKuprcWNzwTdL5snEz99comnYG4RRYZFT+zvmQMef24uTaNcLg2xOHoHo5dyfUpGE4JVh8lXIxqx7Fyo37WKlodS/UtU2/vt3GQi0LZ+ik7rlQrH1qiF64uIdACS/63rtq0EUYSwamnobQJQTGB1UqKj+s+5MutmBbf6Q1fqbrlDAW1ds117G2MwVhiZnxQ1hI9bXm6zy3Ojl/QeBtbIkH2+pES4I/6g/FLbjGUBWC92Si7aw2gL07ew0YAE80Pqg3BsfYWgEqrVUc7bEgchM=;N6YrD+yceL2iscqzRooL0Q=="
+secured: "KJisyaMqJndieUlQloiC5YkZOkWlhg9O/fEeBm2MnkKU/1iiMPpc5MSnpUv4e/OyPCi5ReOYOYRa7++q3Ygl8utewS8cFGvS7zKFv/TrFBSNnBjywXCYuzm3MJcMF/nZLx9bBEiIOnFjYQH1UIZFoTbZ8L9EBNRHnyNKpxpdczB4M44+cfgZVeDyD2ZiY352LkTfN29e4dFBqNAukgJTSYi5GegiRUNUC3tOAQxnT7BHD8LEQY3eYUnSxoRNOwj1TPnG2UdIimlD93SA7sELdKbe2dJmGdEj3Nq9BbNlaOBzKGHWTNQ8j2fQvP3x+fPOMEhgJDiR7W4xKSKQ5NUALUKpzqSZI4Bz7ElQYYIizlgd13HxNHpB69XlMBKDeJsnN2zWJWRu/irHbU1IC+HpSg==;wCcXuY7Hg1cpnv9gmMlbYA=="
 ---
 

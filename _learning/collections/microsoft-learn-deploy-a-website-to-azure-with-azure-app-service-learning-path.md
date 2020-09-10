@@ -4,7 +4,7 @@ excerpt: "In this learning path, get acquainted with using Azure App Service to 
 type: collection
 price: Free
 length: PT4H30M
-heat: 67
+heat: 177
 
 provider:
   name: Microsoft Learn
@@ -40,11 +40,10 @@ topics:
   - Management Tools
 
 images:
-  - url: https://docs.microsoft.com/learn/achievements/prepare-your-dev-environment-for-azure-development-social.png
-    width: 200
-    height: 200
+  - url: https://docs.microsoft.com/learn/achievements/stage-deploy-app-service-deployment-slots-social.png
+    width: 800
+    height: 400
     isCached: true
-    title: "Prepare your development environment for Azure development"
 
 secured: "xUjM53ycP0OB+Zt9DoNYUk3MfdtTe27d6kAYCHeJXSL4LFxDkFjtsfSvgayNbPO/n/prQRcErfII2rtNHtqpdjdieG2bs64k5af8MttKCkuv7MhpBMbDXvEyN+fGJZYAUawQUnDLvpRo/IOn4eoejacoYjQ1CA7KiGlHzhXQ8ONF8Iy++UAslWmHVw0e1c8IJtdN+p+UE+a0JCddStGkAOxrLXCtqPaQKtWnFyG4OzELb33+D5d1m2E3oq3/2v2zbm5isM7Y/r7hgjMOsbPqOMvVPwmJSi9foCEIWEQo7vwAYzqSaHz4kQmQiz79bs1gDk0EhRUVtHDOfItnavjH/Q==;gYbJ8jCoBi73QVh5/fjnGA=="
 ---

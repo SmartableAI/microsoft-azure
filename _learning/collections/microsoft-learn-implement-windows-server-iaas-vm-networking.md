@@ -33,9 +33,9 @@ topics:
   - Compute
 
 images:
-  - url: https://docs.microsoft.com/learn/achievements/generic-badge-social.png
-    width: 640
-    height: 320
+  - url: https://docs.microsoft.com/learn/achievements/implement-windows-server-iaas-vm-ip-addressing-and-routing-social.png
+    width: 643
+    height: 321
     isCached: true
 
 secured: "7dAnH+DGYyq7JBggqwf4k2/H8aAwVXtMTw4AVICQWRWFpmxuq3Lt38yLLQhnDsJzedpRL+ajg+KbmBrpG3DofiYK5/8gwFlxqJsf0gY/078gvE/0++2SPPbMxMHLWMiBRAycrm66p/VM6oHXFss1cdxYsIZfkusRvm1ESjTcwLucu72wPP9WHmIByhKf1s6s3jDlZAnfqsGZxrk4oMy20KSa9KLNljpAib+zERXmLXk8pCIsB75Ql8d3Y1UztkEEdnkTf1/yR6ajhh//6xsqYt5YuaZvi0yPFaw78pDF6ZjT/iRLsxAu9sPNMlbWlTiYUBKVO0iSRJdy5AtEaPXmvQ==;dJHIV31vF1ZB6ottFm4TwQ=="

@@ -1,14 +1,14 @@
 ---
 title: "Add and size disks in Azure virtual machines"
-excerpt: "Understand and create the different types of disk storage available to Azure virtual machines (VMs)."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/add-and-size-disks-in-azure-virtual-machines/
+excerpt: "Learn about your virtual machine storage options and how to choose between standard and premium, managed and unmanaged disks for your Azure virtual machine."
+webUrl: https://docs.microsoft.com/learn/modules/add-and-size-disks-in-azure-virtual-machines/
 type: course
 price: Free
-length: 36 mins
+length: PT36M
 ratings:
   count: 2085
   average: 4.6633096
-heat: 56
+heat: 109
 
 provider:
   name: Microsoft Learn
@@ -26,13 +26,6 @@ topics:
   - Compute
   - Management Tools
 
-images:
-  - url: https://docs.microsoft.com/learn/achievements/add-and-size-disks-in-azure-virtual-machines-social.png
-    width: 200
-    height: 200
-    isCached: true
-    title: "Add and size disks in Azure virtual machines"
-
-secured: "1huH6s52R3qnfCblCl5g4L42wQb0Oh5J0+KwMSzcwi2Tsdf9IOio/43PK4xgWuB94/sJcr6+TUAi9Gq178KbLxbkWTZyZcQ4OHKoKNT3M85hsnL+RNyvtreuCNVt0j3iDSjPzbwW1oL9b6/UoC8CooKxeUn0M3Gj/ZNSilrXBPyshhA7613H2w41s6yX9Tsk+O6spZC+3FWui2Y5XbRkIdwh+wZWPI20ZRjfFEJH6MrfRy8Nv5dQbbXIc9/nugAJPPAggfEHldEDLZzQ7RDwzOuEMov91LM+Qk2FfYBZPNfwZ4j9wyb58SzjyPgWYc4qQfmJ2S6/7jEfvamPJvA8rUV0LbzV11pgxiKyFlDZQR42rUotyJluSn5z5rtFhyezPALbB4Lz/oNyUjZXSMlJdiaQcqX6/Glo9gWIhFYBtXw=;s9tT60ajF+klptaL3V9WUg=="
+secured: "90NP5fW+zhnrPhdDbOJT1ZbZBQQZJnuRbFSwz9pM3elbzsDpAJfjBeYGxhL8lXLcUqg2g12FfkiKl6p+S8fRwGzR9XEmHKKNL4oxiwSZjX+JVP3N7VMF64QsUNQgFCNqfrVqR+uI5Td0+hO4tA03uOVBHEoa9Gb/HrUmnZU0uPybbGshW/maQbECkEKXmR2E0hHtQ0g2rBLw6KOUUvUEO76KfuBxUbC/XJBmglP+6VD44nIw3VMJ9fZWPYoZcIX0m6ugCL1IYLTCknKVn/zC8Vo5IU1AymxxqjVKwLfdMoUt+bL3pt+6CgVAWEAvqwAHaNRQ/PoR/0/xyd5vVBdVee4mcclVseCNs0dkxgSq2ZxUJeSKFxZes2LzithO7WGswsRhvMGh42XU9rhhFb32hA==;LOEWGwMgJaC5MNs3k7TQuA=="
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Describe high availability and disaster recovery strategies"
 excerpt: "Plan appropriate HA/DR strategy based on RTO and RPO. Choose best solution for IaaS or PaaS deployments or hybrid workloads."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/describe-high-availability-disaster-recovery-strategies/
+webUrl: https://docs.microsoft.com/learn/modules/describe-high-availability-disaster-recovery-strategies/
 type: course
 price: Free
 length: PT59M
@@ -26,11 +26,11 @@ topics:
   - Databases
 
 images:
-  - url: https://docs.microsoft.com/learn/achievements/generic-badge-social.png
-    width: 640
-    height: 320
+  - url: https://docs.microsoft.com/learn/achievements/describe-high-availability-and-disaster-recovery-strategies-social.png
+    width: 643
+    height: 321
     isCached: true
 
-secured: "spBbc+lsZX3BAd4KTHnVAs/NAUjZkikt7tFN4B2lpZafLQ+tu+kbL0BOc9fZjahD5e1lj1hFvqVUf6qxJnRJUBgow5jv5CjtzjZI5sZFhsyj0ZRMjGBd/wUr85GOug7sfWaC7gsl6BCfqNzOfWHjg52KUbdZOpbGKaNTRjaZoABv6X/yNBxZr5daewjy53RdK5qZ1g4pTlT0QjZnFOpiXwLmPWOlLctjuehByM+a7uYiFNi/fz20vUB32HV3eV+Vs6PlW/O4MIJqg58TbdxUcibz2l1Tjr5FrmQLojyaoVOfuyJrldlucghWNXwnxNPNKhz1BNG1qsrUETCxTHOx99ppT/eQTd7bSPFvwtKv3qChEo9cciiVqGv1Tw/Y9JNtp5vJl8rZk3jouc3b1G7YTVmU8fjsWik1tHjjdIWe5yE=;W++04Wy5prjPIO5GeB4zyQ=="
+secured: "i1qutDbQ0ZCB0Oc+1qUIu7gwi1uKj9AO1HFJKsbTPbzQ7tn6USi31u3mCcTQEiOPu4GD+WbOnwMudTm9ifMhI80X55LgFaGt9SbY7AvWyH6m7gP+WgsIrXeYhe5pPisWYNUJ3YOsiFk51fHT3bDrGTIuLYQ77Nll+IONo/zJ/Snt9Qy9zPQNK6pwR2cQXAA7aeehU94kMF+IWg1zsETkL53kdYcA3mfMfudaueAgvboDjN4qVSB4MmgqLWYbgNBURZlWrLXGNlanEz5LC/Cvsw7QsApNSzDjDDl/oaQRrzXopHd+vtFoU+/G4dPOP33etBDWGoA2zXF+7wPHQVZKPVKzyqW/dPY6Tw4nVpqOeaxmN1hRVkQo5bnZW0Qa1bZJ9H+7EYcN7hVQn0xjwlBrHQ==;uXtG2NEcSb3JeVvxISHmbA=="
 ---
 

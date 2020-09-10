@@ -1,14 +1,14 @@
 ---
 title: "Work with users, groups, and roles in custom apps and APIs"
-excerpt: "Role-based access control (RBAC) is a popular mechanism to enforce authorization in applications. The administrator assigns roles to different users and groups to control who can access to what content and functionality. Using RBAC with Application Roles and Role Claims, developers can securely enforce authorization in their apps with little effort on their part. Another approach is to use Azure AD Groups and Group Claims. In this module, you’ll learn how to use both Azure AD Groups and Application Roles to provide fine grained access control to an application."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/identity-users-groups-approles/
+excerpt: "In this module, you’ll learn how to use both Azure AD Groups and Application Roles to provide fine grained access control to an application."
+webUrl: https://docs.microsoft.com/learn/modules/identity-users-groups-approles/
 type: course
 price: Free
 length: PT1H13M
 ratings:
   count: 62
   average: 4.7419353
-heat: 50
+heat: 52
 
 provider:
   name: Microsoft Learn
@@ -25,6 +25,6 @@ topics:
   - Azure
   - Identity
 
-secured: "FcdjL+4Dq7Z13yMoM9U19VVbc/eL+9hpleOKC/4W5PMm8vLauU+npjN8xJrLugEb7qBVgNIbrxsL7jR2imzfAD3TuOzIk/kkkFsyQDciGmLUk8lfFzp7YIu+ouIZOvqETM20lg/2o+kVSRJRxD9JMoNhoShkn+LYkwD3+vDw40efC3wPS6fPfpPjKYF2P+1CydSNN2wkwaX+HpFHLb7LJLs5SQ4DzXoy3mJkQ6hH83iHN0VC3xJO45XJElFYVZMdVr1qhV+WiBYw7kZmLqozgZfr58/TBKGxb6pH7mkT24LBj37Rq2ElgBnFLYbCqAJWrKoQag8+T+rEhTVSrqukAjC35SO/oBdM9qj0oqFr+8db9wiPX7Ac7SRtz2qKk4LrFbjqZ37C68EsCSmhxH1i5RySbodAmqr/tw1Sl2g0q0Y=;VwCjVqsi8c1JaKfncPiEjw=="
+secured: "E2Y2jFkHuVE7jy6PyIgBuq2VZzngZYsCQAv1EcqOy6++Lu37oFs3DJ/5jAGr7ddB7Mhc176GeQ6qV3iCdA8reVzkcND5EBZ3JndXMy6TrB2GfQ5l3zpQ7sI/zujYLxSvAKz2dOze/Ijl+8ZBmhTEn+U0vnj/R7HE80GohFDOQ+EZsguJPde7Ir1oMSuazC/OfXzXj6FTx+utdFvm/x5RddKuAl7O/aa0NLMBfSN5np+CXaOpG0BtOqlht+8/Gt8UuxG4tEBSlKA2S6w/C+urzrX03YLEdLjqFrJsIlZOjUJ2fVOIFceBqB7oKMoVcgRDXITX/irfoODI9UgA30ogzLVEBiPZvfrT5wGSDJtIi9SZdiUGFadZrqDmZfAqF+q9Tkn+tajPLuGbqhqUJRlMQQ==;DosH9rS8U/hyfW9ijtycPg=="
 ---
 

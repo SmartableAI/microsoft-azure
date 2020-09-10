@@ -1,14 +1,14 @@
 ---
 title: "Integrate Azure Databricks with other Azure services"
-excerpt: "Azure Databricks is just one of many powerful data services in Azure. Learn how to integrate with other services, such as Azure Synapse Analytics and Azure Cosmos DB as part of your data architecture."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/integrate-azure-databricks-other-azure-services/
+excerpt: "Integrate Azure Databricks with other Azure services"
+webUrl: https://docs.microsoft.com/learn/modules/integrate-azure-databricks-other-azure-services/
 type: course
 price: Free
 length: PT33M
 ratings:
   count: 34
   average: 4.7058825
-heat: 50
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -31,8 +31,7 @@ images:
     width: 640
     height: 320
     isCached: true
-    title: "Integrate Azure Databricks with other Azure services"
 
-secured: "oPFr11DCg/T+r2BN7t2Q2CD6w6ebj0ck6T6r8mMlLQeOpSja4oBf0h1IHLfnAmkNz15KqIArWjXJQI1bRqkMPd4QR8EAe/tS6Iowju+yvLrBzb9xmZsqnt7R5bb9ZYz4zY4GEE5KL9PFd/4PQgPm2uV7bUN6Iy/Ns/qFXh4meh7cmdfONqkxMJqm+dfaLmQ2pAWTDjFZTxxbBM1d7cIafooIa6PN4VKO4yF/gqhw7KTCHb8PzmoFagRR8rhs/V2P/ia1TqehhbpNjn5DdcJjNN6mD5dqFVNxr3fRAe9rJccrl2ER5WgipQKgFnbAST6GUomZqvd5Tz/yP3o8L9Pf3HdFAehIz8a5795UgKx6JnSS3mkALpGgSPVCs6/KLRMEbPHLNrphwxFVoCg3Au3vqYSPOSEY7TWdokuAec5HTug=;jRHfRc2aBwAcic7hadsoPw=="
+secured: "RiEZJ4JdK4j1kssWjuDrLOEQIqKR+FUfA9kPRwbRcpB3EjtPZzz8/lQVXqPfNSMWq6zw7ZlhvQ/urxTuVbbg5BwyFonqNwO30d+cpAi8oS/Ofjv/eNQ4vkj2FQjAoRIbFP1JAwBImOiUwxHcs2b6X9sNlrNX9vl/yq4H77heFEyHfXQygseqaiZpN2CndHl41uJDbtclTJhOSP3awS29M8zS4ctSkztubYqI4OLRqrXCBKSa3gtH2LpaSh55Y/mr3XHatshmdx0Iv/1pZYiMzZl2D8sVueKetMC1vpcpIXBODs1UQgtFE6h5Ekx2wr4GqoQpeLr0ENkTld/kFl9SUnfB6c+O8fM32fICrWQzoTAn7HtH8BOSswc3eJelnpGrjN4t0zuc+NXSnRJckj1Knw==;aDe/MJ6zK6GJ9RoA5m0O4g=="
 ---
 

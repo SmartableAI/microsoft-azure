@@ -1,14 +1,14 @@
 ---
 title: "Introduction to Azure Data Lake storage"
-excerpt: "Learn how Azure Data Lake Storage provides a cloud storage service that is highly available, secure, durable, scalable, and redundant and brings new efficiencies to processing big data analytics workloads."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/introduction-to-azure-data-lake-storage/
+excerpt: "Discover how Data Lake Storage provides a repository where you can upload and store unstructured data bringing new efficiencies to processing big data analytics."
+webUrl: https://docs.microsoft.com/learn/modules/introduction-to-azure-data-lake-storage/
 type: course
 price: Free
-length: 30 mins
+length: PT30M
 ratings:
   count: 1649
   average: 4.6973925
-heat: 52
+heat: 100
 
 provider:
   name: Microsoft Learn
@@ -29,8 +29,7 @@ images:
     width: 800
     height: 400
     isCached: true
-    title: "Introduction to Azure Data Lake storage"
 
-secured: "CXlCAJwUnZovavTXEo/rylq6pf9sAR6fTMxg7xKWZJ9a+rnlS1akzjQXLuFS4WXkiM+8MlxQ4quS8GCMhzxXxlQhzqN2bxXn4H8pbVHk+GVB2SBAn50DOAING/oxx9spSZUSxXYcUaz91QgYrW+hM9JiAMUY6DTzSUMlx0rOzw0uB4Bl1WQEIiDwVKQf3qtrrQNDmIBDgPaJh7iMjXLhrPqaNhqTkaFP4E/A7fCJcgmGN03EzoxLmOoXG2YRWP1v0KHbCuot/5W5ye/1+ZrG+m6RO7uarVh1qgNX/mORSwogVKVrkm2iGPbhUH/ToPN+lUSg6W0TUo2eK+HBFUH8dGK1O4c78yu5gCbF2Z/iQbxN/3M9INgjOPeoSua8rdoubYKxP+sJSKWYVzs2XLRJMdZwJAGIU1l1aDtrINmB/P4=;6XoS00hJ/BQ2pldgpRS+tA=="
+secured: "wS04f8g2LyPS4SF0YKzGF5e+2+hjyfBV3citdWJuU62nntRDtb3HH7yHnFGWEqddrz0y1Z/SHi7VpHiaug+a3Jij3OvgkR5XHNohEaOibINaqGa9YbbzzoZytUNiJZgG6Xg26oquijkFMnwkulXC4FCYZsPVYyjfff8a38VhPx9fwXvOcTydXc7ju3cNn+i5Xr6I7VnKY4uafc5XYX6f+Vw1oesBs66+5ajdhvMwQtNBlLpZ0B/tqjyzjNiDGM01Cqj5gQ+HzuMYBZrelXhfetPU/gmUCC4F3fJFxsjQSno9xmwIcF7Qh//8mWg7gRyLTmwrSW6JSSbqiVhx82e+ch1WT/zKtqlhwnuAgZUfu35bJo3dZnoD4csMjRbiT49CN/NXzTJbUgStqXbphq0dwA==;jGXeDUaLiVbHfZGHzD+4tA=="
 ---
 

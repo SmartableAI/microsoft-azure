@@ -1,14 +1,14 @@
 ---
 title: "Train and package an Azure machine learning module for deployment to IoT Edge device"
-excerpt: "Deploy a trained machine learning module to the edge using a container. The machine learning module you create will be deployed to an IoT Edge device. You'll check that your container image was successfully created and stored in the Azure container registry. You'll view the data from the deployed module from the IoT Edge."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/train-package-module-iot-edge/
+excerpt: "University of Oxford"
+webUrl: https://docs.microsoft.com/learn/modules/train-package-module-iot-edge/
 type: course
 price: Free
-length: 86 mins
+length: PT1H26M
 ratings:
   count: 123
   average: 4.4390244
-heat: 50
+heat: 55
 
 provider:
   name: Microsoft Learn
@@ -22,16 +22,15 @@ levels:
   - Intermediate
 
 topics:
-  - IoT
   - Azure
+  - IoT
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/student-evangelism/train-and-package-an-azure-machine-learning-module-for-deployment-to-iot-edge-social.png
     width: 800
     height: 400
     isCached: true
-    title: "Train and package an Azure machine learning module for deployment to IoT Edge device"
 
-secured: "5HyPtLqu3ox9jRyZ/LK4fikngmg6r0W7QLG/d1fp1zynHp+nevEBdlN2gmXKurJwcHVigdyRLsfxizp51M6YUilKRb+CukfA8rtce5+fQneCEOVgEp/wvffeLmFK0aPm01uEn0iFIBsg0eVPJR42AYVsqro6QeGSm9DqTYPaDTJmKpsNdzQUDzSYQkqPpieEB9Wr3mZ0YjeTSpSMLXS2ywu7cBrJgZ3WfweMIPCtWn4VPnvB+Bjh6MreisyhL4dH8m9aC/vqM6EiFbsEgL00CQOosvdRyITMealR5zJk+WDvdJETDcBY7fJ3pcBR6UT9UEQdiQ2eEVbCAhGlqr2XRo56X1FI+cQCyLuEY7kitONI8u6KjOap3ZUWpdPWHxIYMpyjIPX6UoLFdm0jtbvZxi9GOQdlNGLeIq7VHKUFPDo=;t4UDFRl+dn5NyfA2Rwc7zA=="
+secured: "HQQDo8my09A7gdijcBxaJB4yU9O3UDaC6W8MN94ypKqe8JDRPgKIUFbbHtpds/Int4yfyrEpJoN57m666vuwKhJCxA6IUdkR9MEx4djkreIE3afNpNlfxb9TgYJUXivbZ6K9Voilmo1givx5KT5XhmIUepatDRfjd9vYxSwvJQVFjfX+p94AnFOuL/0HrDQVpevHCBjQiT4M+q4c/qQjN0mdxoqT2ns/Xgk7tZVFtbXi/iCoNiBkg5No0hWD94fbVvBdL2WLSHK1KlRY1PO52xQVtT/QGjV1hxRPhnzsSRPq5Sk9TlPmSC9AcFKzk+BmfxhpcprLPgo3SmhWkTS3QSEK7ZiMZ3bJ3l3pGmKZBQ/LNUcnR8/oV2coiuf1UG67VE5w6ZDZ4jDpno+a7RVShw==;QcXRlYlehyRdh8nv0DduOA=="
 ---
 

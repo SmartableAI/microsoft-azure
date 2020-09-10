@@ -1,14 +1,14 @@
 ---
 title: "Edit code through branching and merging in Git"
 excerpt: "Level up your Git knowledge by learning about how to keep code separate using branches and how to merge them later"
-webUrl: https://docs.microsoft.com/en-us/learn/modules/branch-merge-git/
+webUrl: https://docs.microsoft.com/learn/modules/branch-merge-git/
 type: course
 price: Free
-length: 50 mins
+length: PT50M
 ratings:
   count: 225
   average: 4.577778
-heat: 50
+heat: 59
 
 provider:
   name: Microsoft Learn
@@ -29,8 +29,7 @@ images:
     width: 800
     height: 400
     isCached: true
-    title: "Edit code through branching and merging in Git"
 
-secured: "kERAgTcslKOa1v4ZUp4KswIGrvxa83xnjyGo1VqjeWFiKeegz1tNZthUUlCVBsGCjfNfQs8aIyv6YDtsdQ7eh1pf7K2AWilZO0FEJ+OdOkGIcbAq2x9nxD9JCnLaEi4Tlvu/yw+QP/26QecjUu/NSvyVd4tOPtb1JvqzBIzXvxrNo/M3gvbWbFKY0GSNy5MsX7nAJCdJauEmoN6KDiOR2I1dzlLfWRrV2qK0feflN90Um6YLeZmrukGlF02EW4BS/ZScPY++IH1gKpCm3C8SrTVsOG+IXzNvcMDdGKpot8QAH6Yt7Ue/N2m7XnkWxH/h4KnmZogNsmWU4wZTxTx8cfyqBBekXx0BJPiyzGiq2PCEEAVpwqvFPrxTqAYemI+1I6i3lce1D1qRaRDDqkaJVTB4sWKiDrBVAKa9WOnRBYA=;rs4PCv6BpBo2WaWr5dsO5g=="
+secured: "tKJK6CsxWcs3Wny2He/tKzxRMoUOY5qz3X45orVKu73qPno2ptAhufjc4uNF1oGXxBV5u7yjDISOxNeuVI85eLLK9Fi/X7iXRz4VlimJpBd01bKGTh/l3Nf+a3Kk4DOc1CcVvPLOCka4cXacP4IG9atGap4cI5jOEbPEaqMLdzkd6kUu+aDAkNb/f2xfr+j1lwtEQfM6J+yVP29oz+O67E2v2QGMptJecEo6jOZkUAv1yGkVCZETi6HcEjwC1UydrQoppJw4PB/mJ9lb1xKL9Rl15ICNPWjAIDqhmcmq+yGr4Y2ZILeJu7XNkhDKqAPGPIgVZ138cNNc39LhcYiPNJ49qtLyqguEFjXBxDIysfnh3jySK4bs6f++zCMUBPkJjslkM5m1hTsgCGPoUtkitA==;w9BmYNRgiH4lk2J2GMLcFQ=="
 ---
 

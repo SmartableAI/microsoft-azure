@@ -1,14 +1,14 @@
 ---
 title: "Improve incident response with alerting on Azure"
 excerpt: "Respond to incidents and activities in your infrastructure through alerting capabilities in Azure Monitor."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/incident-response-with-alerting-on-azure/
+webUrl: https://docs.microsoft.com/learn/modules/incident-response-with-alerting-on-azure/
 type: course
 price: Free
-length: 53 mins
+length: PT53M
 ratings:
   count: 1536
   average: 4.6334634
-heat: 59
+heat: 97
 
 provider:
   name: Microsoft Learn
@@ -31,8 +31,7 @@ images:
     width: 800
     height: 400
     isCached: true
-    title: "Improve incident response with alerting on Azure"
 
-secured: "oeATQXrWOZP9y5/Q9OaWNt72Ox6LgYx87Eay0Rx72s4uUe3Ogel9lpoOieoqhvD//NWmpCBP9xZfE0THHD9JLmYjq1CokBGiRe1ISENapgwrgHKhLe2rISvZtdrQ2vIjq+WH3O1BfOAGGTnygbfYZuZPAga4UiFEcOCfcTERqAMv97iK9AbWG2TuIKcWelbsN1piufes3lu5BQd/KpRDjk5B+w0ingRESDTD38nNs5Xq+Ss+tG4q0s14GeuLi9Ui2x8uvuyNUHXFJN/8BKFy5TLXEcbBKjbHFz6oK4O2/AvdOUMbF6iMU6CRYbSEmqK8KRCKL5URXTYgV2hK97NRWLH+mC/F9nW2xdBWpKvV1Z6jdBMgWDeBJDXReWvpEHEb2dlHO/6hqLTiEUSBE9ETQf3ZdYAfEDd8Zfn00z+1f8U=;L2qFJGV8yAAcbmddwzjaig=="
+secured: "sGO+nhdDxueGO6XHfQ+vrzkaX14sdaoHI78ZINddogk6TRA3NpU3NqjxbUaOj1xAdU1WD+mGZHX9Zv6S5matHMoemKpAEk1gwldW//ms0aigRe3Mtlz/SS+dhE+Tw/UVLUpo4P9+jqgBjudUhOAi5LVy3Gg7a2hKtJwoAZZFyEmJ3GgyvU+0hqgbcXeIaMyfC6hG38MfXLupyem97TTNnrC32HsLm5Cial3gXM08I6dRjwp34YqO/6BEeo7v1G1EbEesr8RD36JKtw1S/NqTaOP+ZhTFcGnbXc7Th47R43TCwBLikdfgO0RNjmhN2rcvvhkL4OB55qMBfdI9334/ub1Tk9p7KmuFh3GLwHS70340FIsnq0EyisHUdkisWAaF5awp9QfVv0xveYCHOFk8Vg==;g4H9UGVBw7m9VrH7Y0hnqQ=="
 ---
 

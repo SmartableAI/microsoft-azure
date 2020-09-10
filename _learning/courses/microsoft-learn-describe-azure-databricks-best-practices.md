@@ -1,14 +1,14 @@
 ---
 title: "Describe Azure Databricks best practices"
-excerpt: "Learn best practices for workspace administration, security, tools, integration, databricks runtime, HA/DR, and clusters in Azure Databricks."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/describe-azure-databricks-best-practices/
+excerpt: "Describe Azure Databricks best practices"
+webUrl: https://docs.microsoft.com/learn/modules/describe-azure-databricks-best-practices/
 type: course
 price: Free
 length: PT38M
 ratings:
   count: 34
   average: 4.8235292
-heat: 50
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -31,8 +31,7 @@ images:
     width: 640
     height: 320
     isCached: true
-    title: "Describe Azure Databricks best practices"
 
-secured: "Ro/StUSODfD4Me5PObZhDKKlSC1VPkMzPfN6uoq79XEPXN0rNXFUUpdFSqMkmFUWXb0j2Y0lglBuH3VH8dhmBIP2LY7xzG8H3+NfFyO+1+IrhTZhpsi8GD8ZahBnyXs/ScnYOQyvYi3/UlMcvu4K+lbDkffwkxf8vTpRlbnt6fpAzLXCvelI7h9Z4FGQJElaQy9Lpg1LnRYmYXX35AhthcLhW3NK06wXf/jBFdCm4bPZelEd2TGHxArQUkLpQsID26AwCqH+/1Hb2KDJ7WZC1Y8CJGS9WZgxwfnNpJaWEdgdtPwXJIIMsCDmejET6A5z7dZd6sCD5l0ObTsYBAcCZssbBs+UTiO0gQ9RvwvVf97Rm0z8T5p8TX81qtFMiXTyLzNczpZrH4ZOQ31MipoXOv+L4qxAnsY1A3gwPH08un8=;yV9xPrq8LY5cFHMF2u7+8Q=="
+secured: "5FL0oUkoXa5NvcCFRKDZH2cwZkvOQgr9q0Oi3PBszwQIItG2oznpMgdcbgh+3dqnT4tnkldVjcGOKCyCFFZT0+oVYmi05oARuAPPxmMuYB50c8rPXvcVUtI6boR86JeYLNoL8VQjpZgHigJPx7vJ/a7ya/LvFfPn3on1LSvoNvJzcXfyAqEq3ihI/8oN5xeYDN/U5YDN9fAST4lEVOvhoGT4tZa05dBe7uhpbAL7ydlv1J+K1A72zHuPxONTpYUYYPuOuhnD+GhMMuX1iCZGTMkbGlOFywls0P/WxHmj28A5fkxn2E1lpk9y/d43MKoUFcN3uRSj/8EYXkogzpV26s/Bjv8sRAv9um3u5xYqpCUz72feR/E+oEcsz62E77BUXzTsEfbTFAgVTq9eAKxQwA==;XI9SQSDJtKgKAytO1fTQGw=="
 ---
 

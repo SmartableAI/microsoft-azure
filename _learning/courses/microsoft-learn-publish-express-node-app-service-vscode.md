@@ -1,10 +1,10 @@
 ---
 title: "Create and publish a web application with Azure App Service and Visual Studio Code"
-excerpt: "Create a web application with Visual Studio Code and publish it to Azure App Service."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/create-publish-webapp-app-service-vs-code/
+excerpt: "In this module, you'll learn how to create and publish webapps to Azure App Service from Visual Studio Code."
+webUrl: https://docs.microsoft.com/learn/modules/create-publish-webapp-app-service-vs-code/
 type: course
 price: Free
-length: 26 mins
+length: PT26M
 ratings:
   count: 18
   average: 4.888889
@@ -26,13 +26,6 @@ topics:
   - Compute
   - Web
 
-images:
-  - url: https://docs.microsoft.com/learn/achievements/publish-express-node-app-service-vscode-social.png
-    width: 320
-    height: 160
-    isCached: true
-    title: "Create and publish a web application with Azure App Service and Visual Studio Code"
-
-secured: "frux10vbFHSdWUVL4gtu4ouVApVAs3vXYA62t9TotbP/Ly5iowAi33IfY0L68K0FmEVur9yn+JoCafoMEN+hvcRF1HedNJCmFJietR45biL3I9InFR0DRWpNg3R4VaD1mJ7Yihuz1LZ5Ubk8f59NO5yLaalHJ5GVJRcNrItKJKAj81oW3cr5+or1OrB8U/YrsihGPdVn/rsgkFYvT3yCPhLRKynpJp0tBM8qOy+aZ2nGV0NZeYVKZad5H3ue2Uvbt2JJ/u23i+Is3LYw58dVdnInEQlI27ySD5Woifsgp8L2Z62XGts6i1VjtPZP9IVWlADAopojC0yhrtje8/Xsix0eoJujB7iVJV9SQhp4l3epLPdvLlWJ2TxmchSpsgKDf7ljgwzQWYSh3HNXBfToH9Lv+6AN2ExvoroeRPNdoL8=;rIyYgx7GfMYNBAG2ED7Zig=="
+secured: "9d4BeJmR62AIW//ktX7s6mEUU4rm8eeCPB/cXDrhk5nX0ZMVEwLE0mU21mMev4M8Zf9Iv2lhEXzWIqOVdqdpAJct0EFbGuB1ua0wEiC9nNp9jl6zAIzm7MI0+y2Wm+zpSIbVi4XMjhtwk68gz5EOf6oK1NnPH/u9HaHHUVa4u63Mq40HHeWSqiYOMy2V3UU8zGYJiCwrIRx0UKwzDzb2OlQd4KWFDczG9pwLteL0mcXtp0r+7YjyhZ/Yv8a3gvpFcgUb9CKDm9X6WI2ZKk1gn9NoYpC/SEF3XPoJFRcNyOg0p3Vri0a3HLihFWLBP66Odywo9LnurkZh8PPBT6bkxD/PX5+YmaBaNFEdH22lTosFameTbcLNJW1d9IngsxfyVtk6IEDhjJsEKa4HDcSZvA==;v/xdPSQBpZ94SCWx+JwukQ=="
 ---
 

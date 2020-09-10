@@ -1,14 +1,14 @@
 ---
 title: "Understand the evolving world of data"
-excerpt: "Learn how data systems are evolving and how the changes affect data professionals. Explore the differences between on-premises and cloud data solutions, and consider sample business cases that apply cloud technologies."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/evolving-world-of-data/
+excerpt: "Discover how data systems and roles are evolving and explore the differences between on-premises and cloud data solutions using sample business cases."
+webUrl: https://docs.microsoft.com/learn/modules/evolving-world-of-data/
 type: course
 price: Free
-length: 28 mins
+length: PT28M
 ratings:
   count: 4499
   average: 4.674372
-heat: 60
+heat: 145
 
 provider:
   name: Microsoft Learn
@@ -29,8 +29,7 @@ images:
     width: 800
     height: 400
     isCached: true
-    title: "Understand the evolving world of data"
 
-secured: "1drCBVc5jHxsMQxVist2zmLCuf5bNHa8SYNXvx/5R3s3EU2ZVexayhSzWDdReJJ0zPLTfzmkY8s/6V2T9zeqv138oxDpy0t3S72osZpV7y4kWzZPjiokNZg6DFfst8YPJh+DxaFYFnIbAgWuwf4/H31+iaa9kt56YKSAFRiM2NKputUS5LwlNDrkFLrwXvK6HtjhIPrp52pO1Rwz/yxB3jSbGFGyBhPAHREzHA7oCC3nyLVKsdI/xbOdby9WWtzdIsw0ManOJmhmN0iIBOGo069Njj0v6t+t85cUZR6ClHtkM4c43Va30RbamAYzg7j5rUCRulGK5fZzDmcezuWwpb7BABs0f7ja/fWKjI8rjXvEkvFRFxUnQGU6e4C8/UfC+MdhusjucrVlj+JRNmigLMLHhGYgEVlSxuf/WLohqaM=;HSyW5cLC0Igz+/6q6cQZeg=="
+secured: "dIjGTb9vWVt0rQoIu0Nj3GDPESEpiZQ+HecTF0phDAPcgTrblYKJx3O5PjyjA3HZmnfDiS4EXuI1upsgsH9o9rMpDtVNMcX07xKQ/J8g2LrCNRSy9c2vil/UHKa3opkdTekQ6mGmUO4ey7kETh+p/HyHvKlVVIy8y4zi52Z08HYr/eDH0125CiXLg6gFyN3sPx+RDTb6SGxMVZynNhIOETM/NThSqdU/LLBJrxbY5VMIK+MhHGCykE03f07ruBwMxhllMygC78TKe2R88evu+qgdBRLtazDpXSiXTpb0cvEHzeR5VxIhBymCEUtgnShLK8Auzbb35F9eVO0OwWe3FSOVdHl87937694Dw2C4fMPSHW0rRGefRcVCyBdLf4/wPlpJRGV86zLFP25IeW9yIg==;1iSQl9cm6O/HISaoVGjGCw=="
 ---
 

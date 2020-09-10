@@ -1,14 +1,14 @@
 ---
 title: "Implement compliance controls for sensitive data"
 excerpt: "Explore data classification capabilities and degrees of confidentiality. Explore and configure advanced threat protection options, including SQL Injection."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/implement-compliance-controls-sensitive-data/
+webUrl: https://docs.microsoft.com/learn/modules/implement-compliance-controls-sensitive-data/
 type: course
 price: Free
 length: PT15M
 ratings:
   count: 27
   average: 4.814815
-heat: 53
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     height: 320
     isCached: true
 
-secured: "9eiO71SBSiSTgNX4ibbuG/SxASSHgdDZv/5Y5Qa18LstHVwVCE8gk6UbbG9sN777uKKfVs3Tn7trwJrm61uzpXjKOQvVvqQdXkt82uSLj7qtVuzVhx6udaicHUXi3oyW+9CEqbpd0iser7gVeSoFNW9kF8ZOCFCNCITPUSIcXNSg0YkhMwUsPoebUI+55A+ClyasJKD9JhHJc1ky4Z+iTyw2mT+LYmHR2FIpITSWaYSe4wjZPMqcwm+fzp/9m22jj/pm+2shPbie1Gym3ZL7seH2A+HY1cc7zpfiTnjNLULDcFcwCdpFRJ1mwLBNIbEVZLgUQbRhd0IsPrlZlv0WjkN2nQt+2vimveImNQUJpS7cnPsTCagSiLIxe7QyqUWddBnu+MOTuPQjs1SFq0epPPSm2KeBR6x6902yF0my8aU=;i6R3VfhqMry01m/7Ljnwlg=="
+secured: "NoOhvQuM+SUHxhYmg5r9sHccni3hBfLEPaSGDD6DqTc946D+B9tpXUe/JLI/EOnIABwnMBPTOxEI8pr1bYo47eV/hycizBugvF4Pt85/RFOZzlbVUSndvKPSPiz6wnkOWb8vCAqWMNUHYWFN4Z2XZO1Y3SjeIb9byMdEmKsM2Q9utkmyHwsR0bWpKmPc0mEALMPOb59HFAU2PlUTcrja7GqSPvp1fGUVR9n71Hpgws+J72tCpn8kHQ+0pG2FoXKuuM86kxnT7JIkAsd7qOgtMeg0y+Rn1Awl20JTtLhIclrz9qslhZQcQv2/x6WXc1LrLRLBgYvPoo7GUr+qm4Z70Teo2w5c4STI+MT2vUcWXftBo8m7A7/r/3Vn+uRsAw9qnmVPclbVS0LGDBeqyfDXyA==;WR5VSOb+qtTIHyYMFmBL4g=="
 ---
 

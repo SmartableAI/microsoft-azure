@@ -4,7 +4,7 @@ excerpt: "Azure Machine Learning is a cloud platform for training, deploying, ma
 type: collection
 price: Free
 length: PT8H28M
-heat: 60
+heat: 111
 
 provider:
   name: Microsoft Learn
@@ -50,11 +50,10 @@ topics:
   - Management Tools
 
 images:
-  - url: https://docs.microsoft.com/learn/achievements/data-ai/intro-to-azure-machine-learning-service-badge-social.png
+  - url: https://docs.microsoft.com/learn/achievements/intro-to-azure-machine-learning-service-badge-social.png
     width: 800
     height: 400
     isCached: true
-    title: "Introduction to Azure Machine Learning"
 
 secured: "APC4wahL02AVUcJpKwCsfIYCHReR/Pyt1VCfYzsfdJTeexGi26W1NiyedoAfMJM6s8JcecMaw3XnwA+O9Am32gTcwDAAXFA+HWTaJVxcDPL16chYWI5/ULcBPLVxVORvxrsTFlq9rRv98rAjHDG31208xatHhSe3wTyyzr5wUN1ORlGtW7d0v2Tge3072e9H560zT9VNCXF4F9IhzMThc7lk/wKdrVqZSzN/C3ATqKjQ3su4z7/2IlWVPRpKYThDsGIB810j+wQyAAY5CkrEQrQ80/IvE9QOImqwO4WJOUpncKg80KU4Jf2irIRBNQyRs7ahXn/pvDLUTJ3JGtzVOQ==;yOWP0OCuH/fCcDDxux0MYg=="
 ---

@@ -1,14 +1,14 @@
 ---
-title: "Discover the role of Python in space exploration"
+title: "Introduction to Python for space exploration"
 excerpt: "Get an introduction to the types of space exploration problems that Python and data science can influence."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/introduction-python-nasa/
+webUrl: https://docs.microsoft.com/learn/modules/introduction-python-nasa/
 type: course
 price: Free
 length: PT23M
 ratings:
-  count: 342
-  average: 4.75731
-heat: 87
+  count: 345
+  average: 4.753623
+heat: 64
 
 provider:
   name: Microsoft Learn
@@ -30,6 +30,6 @@ images:
     height: 320
     isCached: true
 
-secured: "Oq6Ixk6hStjYh443PwaAPo+s0zQGVmdBqEwGm5BS1wdQFIJZM2O8W5Y2AiLgk0IF24kQ+0RKKHDlrPk04aHSxyCF8kf3I/mc/FBb1KXki5QHo4ka6oYOHN7056tPdFCF7dBpCkwMKAMgC1LanGRVo9knSt/rD2zCUenbnk6i2640c6OTTP9AKJ/7hbLvikSvM540IxpzkMLVmcQsVZREpIbuMgVdYbCWL5e50rvfk2IgqiqdZDBAWVss0cOgCYdbKzI3XpWxGPozMtYad8xk5AJIk3Tl6CKn0nfiI8uPbKkZ9CWSox8iebMNwD5+QS8U5xHH3gTeWgYz/jZoepAWAFox6ehpMyli6zl0BZYV6aAz/YXirb4zOvo7a+qOnJjcBfN9AAJoYTBokPyWfsR9+t4pZnyzWIp5dT936ya6ORw=;35Q25QnmTDHxWO19QLV8Fw=="
+secured: "VfsQ8Bfqm//1xJsn0ubJdZiRI7OWJ5cduUQqn9gm/nXeXaliPZ9pYaBN4Wb8Ua1MkNbqWQUSjcqS3VCSjUd32MUSRK60wh6BA8SbL1xAEg9kU9vgTdlATVLZYsIpLLEtuOwPtvIvS9uuohGnqW2sbdpqOMrL/88THNcRvNCBMjNJq+VI4KuLyO5qEw3tmQC6IDhZ0pltn8G1AqlPcp+H9bAtHGJT/dL9UyXOrbdjhr8Rpw6ookjpjPVrYf+2TrrWkzmk6V8ECMg9Si9O31uoR9jg+3dmWtRsexWr8x9k18vb5dYYUzbPcb9x0uG4hUV2ZePH7syf53qjh17naAUGQPQ/Od3/XvxR0m3+ilwe9HAhaIYzm7E8kk3YQlOh87KZgISc8i/6+KgplzpLumdLdQ==;ehgf2ENMBy8x13aF1FZE+Q=="
 ---
 

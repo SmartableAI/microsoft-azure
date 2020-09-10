@@ -1,14 +1,14 @@
 ---
 title: "Classify images with the Microsoft Custom Vision Service"
-excerpt: "Create, train and test a custom image classification model using the Custom Vision Service to accurately identify paintings from famous artists."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/classify-images-with-custom-vision-service/
+excerpt: "In this learning path, find out how Cognitive Vision Services detects faces, tags and classifies images, and identifies objects."
+webUrl: https://docs.microsoft.com/learn/modules/classify-images-with-custom-vision-service/
 type: course
 price: Free
-length: 40 mins
+length: PT37M
 ratings:
   count: 1388
   average: 4.65634
-heat: 50
+heat: 94
 
 provider:
   name: Microsoft Learn
@@ -26,13 +26,6 @@ topics:
   - AI
   - Management Tools
 
-images:
-  - url: https://docs.microsoft.com/learn/achievements/classify-images-with-custom-vision-service-social.png
-    width: 200
-    height: 200
-    isCached: true
-    title: "Classify images with the Microsoft Custom Vision Service"
-
-secured: "RyEnE/2tU5RMIG1cGXE4PhG0k+NO314je1hK4ljAWzgGiz9REq37zEpJplyBMZuSREncMJ/3U8+l5V71IdvLvCe0qbOAb0mQzZhaIkYiQ6qvL4PGDbNVFNwQxYZlVfWCfgyRvb8YjeimEdR6pTu8hK6rfx2Ut4rvNTW8CmzaPEXHS4edxNMtdARthx/DEeitqzxQfdv1hy7X57NK3clUTl164BKeq/R1kj+cipGP62lKoo53fv+KgfMJnyvM3crXTweloX5oCGCMWllbth8cJ1c3fzpdEE823uuUuR2Y/zrVHqbuOStWkxaDFS0x2hwJcSIOHvmaOX4x63+Us7ZMs987O5jb39kptX2A4iazHJoACj/DvcIV3/hD1Au+7JMdUL1r+m7U1ecEmtv0rfhys1v9fYEOXWZtmc2i+I1tV4s=;AfRyNoICCMx4HnWIG5MlLQ=="
+secured: "Srl9bX/qvD/QNtoGueBHSQm5KTpc9axzRbedSO2ttQ6hgS1Msg4KLqJws9sqHcSaWmZm8s778P4uhYRtCYXH8ajUuQQWuPtcljt0WcY0P3zgKfU/5Vnzrh5YIOEXsZ5QPLWKQkhOpLMHKSW0kDJqeOdl3HWZq555nP3sl4v7ZqJ2k5wNHlK15m0uSP1pjuW4Psg5xqtpEhwDoEqyd2uxtJH441IBj9rW6wfqPZTJASTAhzb40DYubYL/6TC7WfxAGa4rAZin4nyPS/v/59e3WiuARechmZBRA2tILtfoDnt+oTPsmNvN/UCsqm9vAZZbquOLgSEJVgG6PnZ4/zGYUCFYT8fYHlm67aNioSK6soIFdHGdeIZESpII9cyLV1EiUHZWUKLuhCK5FqxiwpfHIA==;IoYUC3a4JSV/IWi8UOGiyA=="
 ---
 

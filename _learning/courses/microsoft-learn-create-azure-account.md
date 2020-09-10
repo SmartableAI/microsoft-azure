@@ -1,14 +1,14 @@
 ---
 title: "Create an Azure account"
-excerpt: "The first step to using Azure is to sign up. You may sign up directly through Azure.com, with the help of a Microsoft representative, or through a partner. If you’re new to Azure, you may sign up for an Azure free account to start exploring with $200 USD free credit and free services."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/create-an-azure-account/
+excerpt: "Find out how to start using Azure by creating an account where you’ll see services and personal settings for identity, billing, and preferences."
+webUrl: https://docs.microsoft.com/learn/modules/create-an-azure-account/
 type: course
 price: Free
-length: 39 mins
+length: PT39M
 ratings:
-  count: 129392
-  average: 4.6957617
-heat: 170
+  count: 129402
+  average: 4.69577
+heat: 367
 
 provider:
   name: Microsoft Learn
@@ -25,13 +25,6 @@ topics:
   - Azure
   - Management Tools
 
-images:
-  - url: https://docs.microsoft.com/learn/achievements/create-azure-account-social.png
-    width: 100
-    height: 100
-    isCached: true
-    title: "Create an Azure account"
-
-secured: "Jii8JGef2p5gpdmvR3Xqb3+EfXAoJJnCk1ncT97ztUcDxz0yrGYUfakvVROHPqV8mcbq4ioyCdv4+Bb0DFDQ5PPJQPTPDrz3Ma1K0HsxzhznkSjj3LjEagODkb1y2/H/2LYX28sZcyg1XxAlICw9P3yGB4lIvj2MIO/jE56MFNkRnz7hjJFbrcgFjM+0hkL2TnVdM6IMCTTaGvhEdOoMu2NPV/XeaH//opho6EiEmnyRmBAGx9aojFExJwRqg7gWMdwYGGEqt1CZAX12b1VMYWyr2CFWx2L1Y4XsSJdkfsPhSP+YRg02VRnl7ZM0N4xxocM2cFaytLYYbcwQR8z3WTu0QOsjhjtLvspp74JK6d0RjCJiQ9OLSaJy1KjCLiFcP7Qgn9sogX/Ch7NR3ktLRk8OAtNrfwvVIMKMbkTKcw14tto69XCxYstFP9UB3FqT;SXB9eGwNhGPiFfEyLLFGCQ=="
+secured: "hgzPGDcK/LiHPxi8RqJjoebYJJ6row1zP0nubFznWmAeCxx0V8gkcGwRSMZR6fgA7eR49NzA3mTXIJ66FQwr4B6bj9TJmIgwxATAfRy9Jnr8IZZ3e1CEP82/v2kMlzMHNKfA07MyeLueZFZKZVdAdRfBFiglz0yCCtvVQXOU61oQ8XXFVN5IvN9ELEDIclkps2U19VlsATcFPfJFykX6zRcEzGj/LsTi4VLl4e7FzNIX/dTsBY+OBo6hXFXuWLOzaZ/rUUuvTfFU8OXkQj7FfQyqjK7o/Rm9QNURxKbqTwKf6DYEvrdcoJRSMZm6lU3ZnZyqrT/SbgSSY2mVRl1tx/L0LaA7uYwQ/sTMdCrt/2VIsT2U9Lz54EP27XN3bhJhPdTsPShVwV28j7+RQ6/cZQ==;FIBc3ZcTjEfF8K4hrAFskA=="
 ---
 

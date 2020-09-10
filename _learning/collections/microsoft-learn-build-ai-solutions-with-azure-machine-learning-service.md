@@ -4,7 +4,7 @@ excerpt: "Azure includes a variety of services for designing and deploying machi
 type: collection
 price: Free
 length: PT8H28M
-heat: 60
+heat: 111
 
 provider:
   name: Microsoft Learn
@@ -51,11 +51,10 @@ topics:
   - Management Tools
 
 images:
-  - url: https://docs.microsoft.com/learn/achievements/data-ai/intro-to-azure-machine-learning-service-badge-social.png
+  - url: https://docs.microsoft.com/learn/achievements/intro-to-azure-machine-learning-service-badge-social.png
     width: 800
     height: 400
     isCached: true
-    title: "Introduction to Azure Machine Learning"
 
 secured: "iTkxOV9qU6WmwJvh3eAcdxwDNXANAKGPAv93Lwtb6yxoj6OknYysTAU+Pjcj1RVZlJJj1IMrJH1bBfkfsiBpuoyTlriqdlOc6A87r0T5Rj49/6MZb6O9XPOA6c5ttnJeNHa+rvbWDpHuqdLpxStYUb9bFVoJNDC63jzkswbqcTDcwGO8PN/ljzzoVc/4XAc0uwTvcByFMlXZY8HAV3Mf8Hs6Rg4eV4BrT+pNdfBppnxajTwtY2Ei+S7tzsT3MH69idMztGzO58iXrXdkz2s3J62Y9h1l1b5GNq3nULfzbsjo1YcEDYagxO0rZfDP3Xn2uFS4DIeNXS86nNMF2LL1Zw==;vnAFsUY8yyt7hAvL7iZLUw=="
 ---

@@ -1,14 +1,14 @@
 ---
 title: "Object-oriented programming in Python"
 excerpt: "Learn more about object-oriented programming with this next-steps module in Python."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/python-object-oriented-programming/
+webUrl: https://docs.microsoft.com/learn/modules/python-object-oriented-programming/
 type: course
 price: Free
-length: 51 mins
+length: PT51M
 ratings:
   count: 728
   average: 4.664835
-heat: 50
+heat: 76
 
 provider:
   name: Microsoft Learn
@@ -24,13 +24,6 @@ levels:
 topics:
   - Azure
 
-images:
-  - url: https://docs.microsoft.com/learn/achievements/student-evangelism/python-object-oriented-programming-badge-social.png
-    width: 320
-    height: 160
-    isCached: true
-    title: "Object-oriented programming in Python"
-
-secured: "mwiWqTgTJTlNOLk4YLHWkfGm0Sf88V9A9DwVj3FfxjSGPlRRy5AlsWKV0M1YOF6o3DAPsuGGTzm5TgBS8lS654L9XLtnf/gOcZrtMEyF4JbTyAPPoKBmfq5V7+XQyEXNm8/HfB6Fw+u1rrp1FJhYPO38vd5QiO/col/+juTC27vXaBHPbum+Qm/zIPce7eeBz1VuCG4DUGI4nh2TQbJDpaTUy09x0Ol1J5pHKbVzr/WqhP+gt1N1qWSr+q4bpQghlCRFnkn/j3aKDmIydL+6PnfkKNl0VBYiQFVYgSR3wJTz5Z9DoCEOq84QyMVVjsstlNEpN1eJqZb1GhDAX0Ne08rdJZbYTsGfuMD1TrimA2CU88j/7YbkLO/pFpmBfh1qQTF97SkilACQ0puAJaiNQsJ5tQvf6umYhvXMoeUMrV4=;x2W4EVgegL9RgPDi/mlIRg=="
+secured: "C+SkdPt7kLGVJbg9eHdLw/4+J2AFfp9l9I1tj0nBFD0kclREmmeFiwBSp1q5Bkbn784NalH3I28wpZgJsDSDKmX2wU44/ZYtoCzOJ6vrZQqq41R+XbJY8eqRmfsmeYUlqjdRRcctPabp5JnH+ctiTJPfVcxpp4MSiqDgkb6104lK6aDltchP3+eIwFfmu/rFoCP+LF0usZCB7ISgU8HORPxaZ519qhK19Cty3Gjh+7k7HZXITlyVFureqKRohhmHaXvszPV64zlt9igIVSW7XzmjjB68UZyr3Ax4Xj+1C7e8RXogTQUzO9PRXHJuZlWG6TLVXCd4AQ28R+lhMM6oUBoI/B5jdcBhyO2QcbmwGhTnH1GuCMBFlc+l2NvIiuQR1MMl9fxCz5TH2yFWVhsJmg==;1vkJeyoNCUnrBAUVJaCLtw=="
 ---
 

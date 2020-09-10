@@ -4,7 +4,7 @@ excerpt: "Learn how to migrate resources to Azure, how to provide site recovery 
 type: collection
 price: Free
 length: PT6H36M
-heat: 64
+heat: 97
 
 provider:
   name: Microsoft Learn
@@ -53,7 +53,6 @@ images:
     width: 800
     height: 400
     isCached: true
-    title: "Design your migration to Azure"
 
 secured: "T6/97x+ZwfYsXvwaRVoa7tySWe5/vGysUJHqkzTSMPWu96MY/aC2DFzVc8ERa+LXSs9oUvLSh4yngqaZA8h8eqBcUc/W/z5DJCuWecxS6XKY4gMwUlPDtb8LOnefAR62qwHUcFIPk7zrzUKkEhWA9oy/XqJmMlRH4IBUKs7kVTleKkMaIY0VCvydgZOicwzDdIHXRt8sISsq37ztxiDXREERO3Tt0omS2m0qMhleiMuwzCN8XvN731pIwFE1TI8SNNrip3q+2L6hVnMCFHXFJVjNBRVvDDK8/gOV3J+EcIqH2pC5PvLPf9pihBZnaU9kRrKmHw/JjiLl+mtD3Kchnw==;wl/FhkVZosHntUG8SeO9eg=="
 ---

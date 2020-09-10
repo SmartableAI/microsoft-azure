@@ -1,14 +1,14 @@
 ---
 title: "Deploy a prebuilt module to the Edge device"
-excerpt: "Deploy a pre-built temperature simulator module to the edge using a container. The pre-built module will be deployed to an IoT edge device. You will check that the module was successfully created and deployed to the edge. You will view the simulated data from the deployed module."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/deploy-prebuilt-module-edge-device/
+excerpt: "University of Oxford"
+webUrl: https://docs.microsoft.com/learn/modules/deploy-prebuilt-module-edge-device/
 type: course
 price: Free
-length: 56 mins
+length: PT56M
 ratings:
   count: 333
   average: 4.4684687
-heat: 52
+heat: 62
 
 provider:
   name: Microsoft Learn
@@ -22,16 +22,15 @@ levels:
   - Intermediate
 
 topics:
-  - IoT
   - Azure
+  - IoT
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/student-evangelism/deploy-pre-built-module-iot-edge-social.png
     width: 800
     height: 400
     isCached: true
-    title: "Deploy a prebuilt module to the Edge device"
 
-secured: "lhOTmsuOPtaAae0mk2LAXwQSOKC+b3XlJdPf//G4d+TsPWpXSeAPpNYLPcw3gWo0ZxgFaXMoTvXuxm2vTKrTz+b3dBfXjRn8KutStURfRix/LF6CICV44/P5GowcoT5mZmKi30f1wcAqGq+UmL56HEiAaq64xsv9thUW/wL+fN6KlsdFzAwNqfN18E+uEKp0FieoESTJ72Jc9ChsUm4hz73/l/SyOb3ecu7IfIhbCZot37spPAbxv++6hU2sB3R/bYgq7vFlEP0bYVWGBOFXxI0pVrOAwuuPrWzU0djXyCar/g73cbz4QpN3OO1gaJT76Y776kT1D4XjcSWXFv9/6aj/pi0upZsrfJT7sOvXA4YVbzQu5AZJpvkqBJ9NZNguGJbt0cMW99g6sd3KjVGo27t2UXfZiXXvHZ0Z5HKPLgI=;MDqRjjYzZ2pVDBKEHBoZtg=="
+secured: "YDxdIkpd2saOiyAWGg/Fg9hAqwVTRb+fv05YwNkZMtOdgRUm3NQLTdQjf+kOvIgkTx4mOjSPkfIlqO9RpkKYqBsjxV9LU4aUtUKpHQS4CcQjglCppzrYHgryGotNQTISskdGZJY/z03StDR2NUFYf3XZMIxOvbp9/8fwjUE1g+AW9Hl5q9DgOFEYamfTz++/w/LOGHezTUB+108FpWqZOtUrp/Qo0nPLXqWHwORLhLLrkuunYWCQv93SdrMGnqFe4OFQ5Kfqst3OL1aXqVf13lDXvUro0AG53OdM1WjxnQ8CB+p5eIcps9bPLSw6mv/WxGjB1yv8vf/eouUzzDRbrx8UNLu5+ME64tuOVItgriqt9bwfZHumcE7vjk6sffgu4GlwAX9F3/pJ2VLYIcPNhw==;4v+lNWq5YUjNTlD5Z3YYYw=="
 ---
 

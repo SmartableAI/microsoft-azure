@@ -4,7 +4,7 @@ excerpt: "Azure Functions enable the creation of event driven, compute-on-demand
 type: collection
 price: Free
 length: PT8H11M
-heat: 80
+heat: 195
 
 provider:
   name: Microsoft Learn
@@ -55,7 +55,6 @@ images:
     width: 800
     height: 400
     isCached: true
-    title: "Choose the best Azure service to automate your business processes"
 
 secured: "Gf68+niEyXIZoB88y/vMOih84tOqZgR1gdpG/r8s375fBpe/lWEOlMI9dPFgReSdNHK8TY0RCvwLjZDLeNIgYuidGnlc/D3ry1DjzGIVtg8rIsn+Ahr3cxS2+3iY/iQe+5sg1rfKWE130oxRqRFR4rIcfUaZx3fGEQZ12ibkyiBA59ItoJdcssM3wc1yIMeYlDeB5oJfAVkHIZZgXJm3pYOLeLQilADICy9MYIAXDFU6uek8G8cB+/K9QLbjZEHDqA4a7KRb3IxN5EVqrUmlVtY76VMH6VClVKIkqjWP3QBiCs04pZxEIxgVQ4/4D6KwRaHxwdTbB8skyqzYPcg57g==;Ni4sZDAcqlajghtA144STw=="
 ---

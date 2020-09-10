@@ -1,14 +1,14 @@
 ---
 title: "Create a new Node.js project and work with dependencies"
 excerpt: "Create a Node.js project and learn to add packages and manage package dependencies in your project."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/create-nodejs-project-dependencies/
+webUrl: https://docs.microsoft.com/learn/modules/create-nodejs-project-dependencies/
 type: course
 price: Free
 length: PT25M
 ratings:
   count: 181
   average: 4.773481
-heat: 51
+heat: 57
 
 provider:
   name: Microsoft Learn
@@ -25,11 +25,11 @@ topics:
   - Azure
 
 images:
-  - url: https://docs.microsoft.com/learn/achievements/generic-badge-social.png
-    width: 640
-    height: 320
+  - url: https://docs.microsoft.com/learn/achievements/create-nodejs-project-dependencies-social.png
+    width: 642
+    height: 321
     isCached: true
 
-secured: "AKBDePiI1jpcRI8P6rYL/fg72r/LN7EV0/TQXTXdwW1ERoq7p96Bf4zsYKGoTa741anT04FVtCbrTppchlGRvqeOfZenDZEmFOVOImeZgoD3tGNbpbvR28woqU+wmT7YflS67YIq+nVX4ewq90/iqiwowRfgZp2ax0GiFEMeIQBQM5t/AHD9B5TQ6a08xyAhJu1rUp1Va12evwXW7zl8uUwOaGyOgkn1pUY525s+p3znC44GOIfYMeFYnazNPKcuJbPNzG+rJMAm3f2hDoju4XZIQvPZF7OmVpq8HaD2YmimxE8HRoma3xXYhmKY9L2/Fn1btK09tL8mE3Iyds1D3yz2Nxw+XhngEgAt883F2v6CIy1wHNauEkAFO4mjdfqaggLbDcgi3Pt0V5Sd0XZ4nGW+dVQ26vjuXAMdgIcb39Q=;hjjWYatztjaNkeHZJFhMXw=="
+secured: "ZFHyjk7BHR2UGiNk2ea3PJpKXgDe6AsYC9LvyUgqqAyNNzNJwtEXl1ZbjDyQsN0B/lFYL8S2ntW3ZG/0VP2qtcFi+Y4Jscxs0UOnJfpf+tseh+7mN3JurQp/rGsh4HcHTvCy6RWJ2im9hMVhnEE08ZWMLKfLtsYEISA0LQLUKGdwyMGDh3QBIDiLiXJjhez5I2FftG4XzFvy3D3Iv5FRx2Hqu7jdQuUS+lacNASgzJYpiMgNoLEiyyD/j5UaQ2p8eRHvGc7iDsfu+mlQ1zyM3P5qZcKXwQm8Sfae1Vg/AllSN/iJzcEm3GBlbEjIBvbzLNGCSEHeR46HwOuLn96RhAMwx0PjyrXgHiXyiBhPFR0KKW+NkM3Zrn0m3ZRlUwwZa0w3XOww6RtCNsh/4sdcCA==;5mb49ijVuRcsW5dpf3GXFw=="
 ---
 

@@ -1,14 +1,14 @@
 ---
 title: "Introduction to threat modeling"
-excerpt: "Threat modeling is an effective way to help secure your systems, applications, networks, and services. It's an engineering technique that identifies potential threats and recommendations to help reduce risk and meet security objectives earlier in the development lifecycle."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/tm-introduction-to-threat-modeling/
+excerpt: "Explore the four high-level steps of threat modeling."
+webUrl: https://docs.microsoft.com/learn/modules/tm-introduction-to-threat-modeling/
 type: course
 price: Free
-length: 27 mins
+length: PT27M
 ratings:
   count: 297
   average: 4.7441077
-heat: 50
+heat: 62
 
 provider:
   name: Microsoft Learn
@@ -22,22 +22,16 @@ levels:
   - Beginner
 
 topics:
-  - Security
   - Azure
   - IoT
+  - Security
 
 images:
-  - url: https://docs.microsoft.com/learn/achievements/generic-badge-social.png
-    width: 800
-    height: 400
-    isCached: true
-    title: "Introduction to threat modeling"
   - url: https://docs.microsoft.com/learn/achievements/introduction-to-threat-modeling-social.png
     width: 640
     height: 320
     isCached: true
-    title: "Introduction to threat modeling"
 
-secured: "oiwTP6gRqAV48cQh4Aoi6Fl1qOTx/tZ7DipQVRGtCnDj+IUQCpNPMBTA6TT1sRvxewi6vq6MNFd7ivq5uQmWwDaM3eseWL7/eSS70TLL8C9ChfOP746wfL8GeTdzCby9KvVbH+Xk4GMPtav/oDepC/ZqcYpo20m9Hfcid9ajAhAY7sLrpdAF1ZHRqPwMXAiOgDqVdWUthS4M9cms78ZTrdIWDfvWl47DiRUOayxJaGGiShXB3ns7KZZKtFVPinkHmpuHzJOVXQgR39tXnJGReDNhzMSqK9RLWnyNU7D6EO6fjbMx2l8Z/7h46PUA/V8iLn5Z3dDszLZ2Pjwr/qA6PrrKoRsqg9LUnYCWD9HJsjo66KHqEEunrll007Z+A7bQ9qurpCtzoJ2Ct10ZezPEkA9GPwffA5dkRx44lPi0/qc=;RI7l9H6h/cBHhEHEQepeqA=="
+secured: "tL2Q0lnTD7uI+EWjK8841Ijtlypc5sRA6JhhFrCbTGCnswIL3gn9ZefxaIEGbiCYOieyEu5WSV94bBnxRfZbGHI8AvSaK/jPqOxS3OqIkFUnBNmPU1oxpHfKr2uG5RA3EM9m5BlU2kKAvP7ijs19frp8gchsssW2VlhkR+4RzEYanNuX5CfkpN66fe4O5rwWWn7wFJU+bfTEcEJ+bunWYTfTfkrucAzjL4ldT+6z9nZjUiEaxr3681S9N9/sQ8uWjp42/+0mlxgmOI/yQf7tcj3ZsYFEB0jOBxwFumSeEvSYEqJR0pmIp2vE6WwHyntxWLk4udaqK+ebk2x/Rv0odyCYBYR9Q5ynhxflPR8OZNYj4cN+TD2QcKum3W2xIZSD16s5wJN2aYRiVWEeH0u6EQ==;7w9tNkhLoEKm1Bw6jMKzMw=="
 ---
 

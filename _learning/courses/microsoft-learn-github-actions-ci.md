@@ -1,14 +1,14 @@
 ---
 title: "Build continuous integration (CI) workflows by using GitHub Actions"
 excerpt: "Learn how to create workflows that enable you to use Continuous Integration (CI) for your projects."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/github-actions-ci/
+webUrl: https://docs.microsoft.com/learn/modules/github-actions-ci/
 type: course
 price: Free
 length: PT55M
 ratings:
   count: 102
   average: 4.6764708
-heat: 51
+heat: 54
 
 provider:
   name: Microsoft Learn
@@ -29,8 +29,7 @@ images:
     width: 640
     height: 320
     isCached: true
-    title: "Build continuous integration (CI) workflows by using GitHub Actions"
 
-secured: "PZbOE0AE2ApngndxWbQGyFmz86xi7H2ISIW6zRwcilWhsIgfLz7lCRqFJAO7zTvVWZICOnsbZoQeD+lgS6QzSpGJrPUa9e97EbM35QPAqC1HRFyKj8xHbA7SwtQPx9qEokzj/T7KiOyz7UqtZIVkwNMybBrC0VibB2lJn9oSJdLwcbmE85WuK6m4Cn6aJwjdskvCV4ih+7WxZoWD6CmE94h8sFlpDlbl/hRd6nF75BmAAV2+c7ceOCtj6Ii1TaTB6dVdcCbLBrBhiQtaU7Cqm56xnxzaIwGM16AHRdowoz3apBMO7f6m3Gu+EIlkQnLbzzpne01hD3ty1TJG1qXdC2vunClaO0bgD8Hpn4wT/7+t70BFZp2EkddZItz+uK6yLw7sh+z1UjP5mzl9QWzL6l3VESo98aIJ4+fgBQHdi98=;/WyMMleQqzVOLUmJytVNEw=="
+secured: "pIq9f2+Ko5OYwCZsOO180iBoiQhDu4eb+nv5ritWiIT0WbDYjA1iFU5NXcoIvNq7ZqNBjQK8MtadSVUgNE1iG3MIgXyGr50TAn9HaVe6tMuvo5mZDVn6WL/h7V+XUCru3el4y+tpWN92h/xqz45vXTfAQbEWnGtrxysgm/Ffw2SsmvKz7uFHkQyu38yBBEjBYMATewvBuGPJVuVUZV0TIcPDRO/+RMyxuV05SdfclyNvtJqvABTR4Kaq5Q6eVnVxPeaJjICuP3PRGbLTvtYk/QsxMqjf9kCEwKk4cknShGd2oqM6p1Nlac+0tjtqMxDJJIgBqClKEmLSEUiM9Fqfkol249Of1/waFTjTv7DsEJvUOyjbTCToRdnzkiHnDr6dib6LEyl8dlrMk3zZKbaA1w==;Hlc6vUIBlsQBpqvjZWH5hA=="
 ---
 

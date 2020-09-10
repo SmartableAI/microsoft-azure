@@ -1,10 +1,10 @@
 ---
 title: "Diagnose startup errors in your application using Kudu console"
-excerpt: "This module will help you understand the common startup errors in a ASP.NET Core application and diagnose them using Kudu console."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/azure-diagnose-application-startup-errors-with-kudu-console/
+excerpt: "This module explains how to use kudu console to examine the application event log to identify the event that caused the error."
+webUrl: https://docs.microsoft.com/learn/modules/azure-diagnose-application-startup-errors-with-kudu-console/
 type: course
 price: Free
-length: 37 mins
+length: PT37M
 ratings:
   count: 12
   average: 4.1666665
@@ -29,8 +29,7 @@ images:
     width: 800
     height: 400
     isCached: true
-    title: "Diagnose startup errors in your application using Kudu console"
 
-secured: "TsRC9VvGXKnbUzfGFcTMV9fc1um3Hgb8kjjoVcYG1FD+iuZ56mm1Wwx/r8ZotZZg2O6horvKAy8/bgPIjw+l0PODabMy8rYjCvx4Uqs7MLZMXP3Wp6B4v/N0s41/l5LOVwjFvH5RMnVc6kIe91iJ+Xu4WNAahp3w86Vg3bTGEK35eeTC+gJoel7vEx2FunAQ4jYO7Q38L+AQGb7zin+W5rF6DJYru5FJVBGC6i2LfiGeMDPfqw3GFAfbio5XxKjHO2t8Xov01yEkRN/JgZExub7T+bnN3vpi9TyVlKtFz1AyYT8AJJRDtJfe4aBWGKZhaTFRpGFj7FY3FJPb2wX9+3XLdSLCtxtnYQnei/DlgnWChIPuuFiA0VMi+ybLa+c5+jqi5xQ3J5LONJ+pgLbOhqLy1BrM9PVktmVdK07Wb9Q=;T8C81Tva2D7R+BvdQhVKYQ=="
+secured: "6KeSGvUJv+i2bDwdJdnGsirxZuLPwI1SVGmMyG2ws5qR+bT4JX+kb/4zENLD1scAv0Oqj7p2y22ktew6EC7W8yNCgXU9dJH0VP+A/kllrwbqiPC8NCex8UD44JKg8acrBKzQt7YoQOu1V5QgP4ObZM4epav0exiKV/tFbzZDeedu1r1RM7fj4AiBivtsasxzVskO0viYObFgPxxbGjUPz5P8xm6ObF0SST0Wqw56H/Z8wsj9q+BB4SjtilJpz3/bvW5MGVzmuwDJg9eysS9naJ12Xp5knl6uxG46yheuprW5aacWolq3ipADJYkpE7L+80U0ku3peDjybJ8bNfImUom6MgVEiqaPIZo/m9Wbuwjqu9Zm0u7+3EGxcIhEPd7FMmx7xbvw+LXlbDpuWRDfyw==;FiaJZBX287zzfsTMwRU/4A=="
 ---
 

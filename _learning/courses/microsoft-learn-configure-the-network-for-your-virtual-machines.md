@@ -1,14 +1,14 @@
 ---
 title: "Configure the network for your virtual machines"
-excerpt: "Learn how to configure networking in a secure way for your Azure virtual machines."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/configure-network-for-azure-virtual-machines/
+excerpt: "Learn how to connect your local on-premises networks into Azure using virtual networks, VPN gateways, and Azure ExpressRoute."
+webUrl: https://docs.microsoft.com/learn/modules/configure-network-for-azure-virtual-machines/
 type: course
 price: Free
-length: 94 mins
+length: PT1H34M
 ratings:
   count: 3508
   average: 4.5533066
-heat: 55
+heat: 131
 
 provider:
   name: Microsoft Learn
@@ -26,13 +26,6 @@ topics:
   - Compute
   - Networking
 
-images:
-  - url: https://docs.microsoft.com/learn/achievements/configure-network-for-azure-virtual-machines-social.png
-    width: 200
-    height: 200
-    isCached: true
-    title: "Configure the network for your virtual machines"
-
-secured: "QLF3t+KePU30cJJWaJc12Y1pvqV6PYkuCe9LyHsC+BcXTXZ3EZ7d+N33kutLC+/MYpXgabXrYUrUqvSFMQkOV34dYORCeXkQwFH5A7xjgpq1kQDxJiYFi7AF9HWNbPGSa1ZB2a2+AvuY8hDlYS6dOjgc/bZVcBnldRLvdBuczxtpADE+ZQEpV0Z9ccCR9K147gj6AcRFzmx0mDk3ZdBpyVNbSWRuGfq7DupqEy1mbt0Yz4yp5mlR5zACYSC0KLtNX7Ny0jGQnek5bMtk785J1AFLn0p0VXf8Koe9vEcrZ2ZREJgq0Wage/AgukEM7Mw/1EPhCCAw+0i72qcTec6XE0gBpImwl96jLOFqxuoWYkgmyteDKLb7tOqtD0k5vCRmWKqchEWLFaHNjPjlKaupXKHDuhVHPRKbtcdDwqt6vz8=;3nQ+msDH4G+udpulR9Dafg=="
+secured: "O7TjDHyj8TEzhLxqahuUmhSl1+PX0vf3AUnNvuhw0W7gs/iK+Ryt+43tTevCoHaAbNWgs3viEXzFax4KvD/4WUpONunHCvkgKG5OgWxPTIA0Aj8wk07pX2RDvBFk7GD/kHRtYoy6pKkooHjWhI2HmLwFa1ateGQ8fSdHceBnvYZourlcQOn3GPPxoKv2H28y5j5Te3jKz8aHNMEtLC6ZLnj2t4FMTZfM2YBQ26+1e7ssdmXwwUYvFBvMV425tJ2geJh6T/2Lg7tP/E9N7QO2fpT+bMbIVBhfaFri5rgJKDCJjHAEowYf8McafzSCIUAalx8/Q3nplHKadBpARJlz3QTYOgyxrePO4JNdfxS/RCRklm/lsOC4KuwoQQ0Bjv0z8nEi969DkGOpOaiq/ugRKg==;U1yRSMbDWy+/nXn75depvg=="
 ---
 

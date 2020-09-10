@@ -1,14 +1,14 @@
 ---
 title: "Communicate between applications with Azure Queue storage"
-excerpt: "Implement the publish-subscribe pattern in the cloud using Azure Queue storage."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/communicate-between-apps-with-azure-queue-storage/
+excerpt: "Find out to use Azure Queue storage to handle high demand and improve resilience in your distributed applications."
+webUrl: https://docs.microsoft.com/learn/modules/communicate-between-apps-with-azure-queue-storage/
 type: course
 price: Free
-length: 56 mins
+length: PT56M
 ratings:
   count: 1583
   average: 4.5799117
-heat: 58
+heat: 98
 
 provider:
   name: Microsoft Learn
@@ -25,13 +25,6 @@ topics:
   - Azure
   - Storage
 
-images:
-  - url: https://docs.microsoft.com/learn/achievements/communicate-between-apps-with-azure-queue-storage-social.png
-    width: 200
-    height: 200
-    isCached: true
-    title: "Communicate between applications with Azure Queue storage"
-
-secured: "sY2Vu7Pgu775tiisTZuvj/xxx/VqJ3EZrWq92Y2M+oudzukI+avpdrIJsw3zt8bcVwJhoZ3DsxKsfnP+M0LneyRdBLAJ2/bgnz5t5cKCDeXSCyeFs0vLhyCbl7ssFOgnNbzbNjWDrPmijU3OrUFFm4tdHrnNv2Rt9KNh+5EhrruZQ6ImISYEpAG5VYBRNjJFneH2c2XKcdSrdqDzifnE9/eUWM5/m1OlZzuRi7rbJk8rgzdMaMTFqrGLX/xS2rGPtJFdxBQQXBEcMrsjYwXPyFj5UrDD9Z+Vz7qEhj6qFz53F7XA+Kbd5Di0wEE99Cz9EQvvy4DpxASs53NFD+eDiwuCO/I2Qc9eGJ7/m3HqJDkgvdIFbaNJNX8CzXXjR/LirbyLBRpb1FdBNODDb61tWu1qoJTjOL+7pTaQnLxJFhE=;zHQfrWNfL3SBi3Bran7uwg=="
+secured: "1awbakihIMw3SxUiBvnkSBCMJY4T08hOg99yYE1O5AdoyNIo4giuAXr0xNgCVJpcbmrjXTDncqyZgRPoBfveL+kxflz+d0YQ9c3/kZ1nlJ+VmJ5LZFvkaEYPhUsc5+Nbsy+v+zJw0VxDVTXXwdPNYbHBHHdA5sTTnp1tnXiFqxkxfHT+rdQWve5QvJ7G+3qqjbLv9Xqpel468Pf6PaeU8AbU//tU5+aNELelfTRpvzHUq6k6vcUIdp1ppBa1BDvn2574Sg+B7D7wKvDH17O4cpBJ3EZKKjzmYPg68nf9ES3iLL2/r8JcfKugePRUVQJ5a4pUqclu/qK8MsgbfmXqDA+zWE80vdQ0G/DZZxaQKQBXiRGRc3X/cFsQ6J/eDwSLEN+hoJV20zC+tyXNsgZzoA==;k4uPRxBMDc/BHejYIm821A=="
 ---
 

@@ -1,14 +1,14 @@
 ---
 title: "Discover how to foster an AI-ready culture in customer service"
-excerpt: "A successful AI strategy in customer service must consider cultural issues, as well as business issues. The goal of this module is to enable you to think about AI transformation holistically, with a focus on the cultural changes necessary to make AI transformation successful."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/foster-ai-ready-culture-customer-service/
+excerpt: "Learn the necessary cultural changes for enterprise customer service to make AI transformation successful, and how they fit into a holistic AI strategy."
+webUrl: https://docs.microsoft.com/learn/modules/foster-ai-ready-culture-customer-service/
 type: course
 price: Free
-length: 38 mins
+length: PT38M
 ratings:
   count: 501
   average: 4.770459
-heat: 52
+heat: 69
 
 provider:
   name: Microsoft Learn
@@ -24,13 +24,6 @@ levels:
 topics:
   - Azure
 
-images:
-  - url: https://docs.microsoft.com/learn/achievements/foster-ai-ready-culture-customer-service-social.png
-    width: 100
-    height: 100
-    isCached: true
-    title: "Discover how to foster an AI-ready culture in customer service"
-
-secured: "vyRHJ+DOF+f+8UhpqaNArZRQeG94Yw/t07FSrG2OhAR0H84gah3BLFef57H3k5KMAdOsLiySugqluJF+c51vQlDdn2HnfRKUMXngiiPkh6hPFyILc4ZMkErkMPMLlzxLwiUtQB1kJdii5W73u0izI9mcOABh9c+4bEVUZRrwQhMEduvtRQJXkrz97d8LtI+lcQbK/+BDMGcWqPusXfHR3rpid/GdML+kecbqsjQJmvCGDgdz/oVjxWM3b2pbwM++ZeLgQ4MX5Nd8xdlc3xF0g2vksaM+lq69DyaWDR9u6vHx6r+KdTIWZ1j1rTDslHZKjQqFexqtfw8m5dkyarZCWFinO+IbQUUWxWVvVyyyDStJvN+Ye+ZYhbe5Je+jF+5LNBVVw3BlCiou37U9SiGMJ+dKLNPHHRvjGlwtgyyi3oc=;6a0CE6GOHJoPf9U5ur4SSQ=="
+secured: "qBvejeXp2phd96Pj1ltTQp1ERZAV9/M/7pEdESJnOiwvEJraFgXCsKlykLBl91alJqipb4vKFmSs+KGemXvtDFYbptKRs2c+S19e5tf/d2JAqZdHI+pX91wf0VWzwKAOll/Gccc5GMQD9vYBs+/mMsgqdSDLauyW9QIYbFqj0KDqpC2dyCkImbeNA8lKlWVdtQaMPh9AflkckIaSXrrtsLRWRl0N/UALdLYISzCnMYEODZVRQOJVpvN8qZ80MMlVIKOZ7tJR1nLNnAS8jc9nxdX33/oMYQkuIEoNN3bd7Ta5Yj5PfuahOpI73EYlucKYiBx0KtNoOzf374ZaC7fhaxS0CrgFETblzLhrlcTHwq9+S6zup7EZ84Br9xbivuv8q6W+UkYinrtSEIXvDwM6wQ==;IY5t1Bx8Gtp/ehO4CLbAgw=="
 ---
 

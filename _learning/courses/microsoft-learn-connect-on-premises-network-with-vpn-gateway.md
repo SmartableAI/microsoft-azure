@@ -1,14 +1,14 @@
 ---
 title: "Connect your on-premises network to Azure with VPN Gateway"
-excerpt: "VPN Gateway in Azure provides secure connectivity between your on-premises networks and clients."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/connect-on-premises-network-with-vpn-gateway/
+excerpt: "Learn about the virtual private network (VPN) gateway options in Azure and typical scenarios for using a VPN. Create and test VPNs to securely connect sites to Azure."
+webUrl: https://docs.microsoft.com/learn/modules/connect-on-premises-network-with-vpn-gateway/
 type: course
 price: Free
-length: 39 mins
+length: PT39M
 ratings:
   count: 4407
   average: 4.59882
-heat: 79
+heat: 143
 
 provider:
   name: Microsoft Learn
@@ -30,8 +30,7 @@ images:
     width: 800
     height: 400
     isCached: true
-    title: "Connect your on-premises network to Azure with VPN Gateway"
 
-secured: "ilPRUScg2SDDwtojzuvQQdTHQRB7h7+MuC8PHTmqz0cgPsgxi7P7b/6UL6csXQA0z63RSyogWysgnazHXdYEYOFhn8p1ygCmp8L7P/lzOIRnRVV4k9eRAkgNhJTju8gadeHaSWVgFW/G7xkE4M0wmhRrGJ55Je671xX1yaKX72t9XSAlw3odf5heTrHRtxuNS8yJWQEnj3yUByoFFFRcnu6RWKFMaeeRBbdmEYH0GFqZ5/I0LDG8OufMFpoDHYlcJcyaXpIBX+KMPiufXTA4MluV/9R9zuLnsIS1jN00m/TmjSgVwPVhSGmdrNGz2ZZLV7EVFcqXHxRsUblKlXhr5hQBDE9r40nQCmOV1/Q1NUTpDGU5p66yEImGmj4TbVoBtPa6g+lwKy6i3beQwvn5Tx2q1o5ZpMj9sU1Wzo/+U9U=;qrwGf5aplqWyJnU2g3HMTQ=="
+secured: "oET+SZ5wW4y9f5TM9ufF4AnGGtT/QqnkIn/rLzJw7nPrWX8XopIe6sD4DhJXGn17iDv2slxS2MTqcCL91cKaYvgyoMZFCMEFXhk1s9HmeQ+N58Q0k5vBVOKU1ysCxCW8bjj74LW94WEntlUrciFyzX8//ZegYTSv0XGt7I+MQ0+s9mKgwGeUePIhMwy6Ls5ylfWsK8eRB71kd+NG2Bq2TG0nQEQLFtWyIcrRQTAlO3Stb1GTZPb0h9FH4SD5y9a2Cd41Gwp2+GqigUOZc3oHOJuTGPLmWkB9okqpsy28wCdSoEpAhDsSIRWUEn14fFHEaIogD11j56Wfa82DD2IKGSWB7vKrQXSAA/k8e89TeXD7s+qimcNkaANZaUpy76eWgwGXeJH92TD8C6foyBWj2A==;67mfw3Bp86TiwKX75nZIdg=="
 ---
 

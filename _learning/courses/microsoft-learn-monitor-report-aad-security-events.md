@@ -1,14 +1,14 @@
 ---
 title: "Monitor and report on security events in Azure AD"
 excerpt: "Keep tabs on security events in your Azure AD resources by using built-in reporting and monitoring capabilities. Respond to events as they happen, and address security risks before they become a problem."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/monitor-report-aad-security-events/
+webUrl: https://docs.microsoft.com/learn/modules/monitor-report-aad-security-events/
 type: course
 price: Free
-length: 35 mins
+length: PT35M
 ratings:
-  count: 124
-  average: 4.612903
-heat: 50
+  count: 125
+  average: 4.616
+heat: 55
 
 provider:
   name: Microsoft Learn
@@ -32,8 +32,7 @@ images:
     width: 800
     height: 400
     isCached: true
-    title: "Monitor and report on security events in Azure AD"
 
-secured: "WSyhQuQx9uC4dTKSvLj7xr7cIL9UgG38iwd4aihRa1KK+KR5rRr/T8Uj4WXAMZ4Olu/HXchKifY2fKlLYkP4pul6zZNT8kUx7NooSxxZaBwX7QA0gOo2ucFgqKsZFGtj13TrTdLXPcdZiLuxluXzczRLqHFMrJRbk+ORzucmQes7MrDoDRD0d3mRn2vaMHokYlKB+/9koysP0xTKFe/o/oquwmXt01KsZ8VF+Za+gKWZSfDSLb5MZRX8Ablho6jFZykX5tQ0bi5rm5UxVkBZUtODbYMW+kPGZZXg1B2vWcs0vg28HeMlQxVrhjlv6UDn2oJMIq/0MwGY72xqvRVCrX0O5hex5dTyQQkRAv1lJ9yj/OhCbDOJPQSYHGOBt4fxCAiw0cz+yPmX8l5quX8eCVdzfOo1QygCWwG2exXX1Ps=;kn6lo6LkwnPDRnRVhxfSSw=="
+secured: "7K37v5ueTYJchj90mMgnTsLbaaYwC5mw9lY9E4Ii4As2zsAb4NwNGHl8jIYR6z94KWusMZ2Y+Vrct8VkkQwYgcouTIP5CaSOJK6n+xlcYAKOnhSw5nxaFZyCWinwEY85qwn+bvLiJn0VFbW5mezgEO+LrNKj4Z4l+pRk0/Niy0aFKJslN6Xs1/6/2Y1EgE65FrupKN9aVVGfMkwDcsiGKCvJM33PmccZtO2nbOdvbftC6njxeQmMy9oRZKQDICgEL0tyV3rYK22HlWqTQuCs9iXNjLDRyt6GdRZ/jZCokuZ+7c7aPHs/J3+zZbE2dbIFDNtTNgtZ4N82Q41GJyEAVBhzdsVK3WcIxD/C/LPSNwSqstEF3NXYE9a4y0OGJxwWglrNSdYJywevNscWonz6wQ==;pX/9rHWaG87JgITu8a106w=="
 ---
 

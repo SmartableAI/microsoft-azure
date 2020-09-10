@@ -1,14 +1,14 @@
 ---
 title: "Core Cloud Services - Set up CORS for your website and storage assets"
 excerpt: "Set up Cross-Origin Resource Sharing (CORS) for your Azure website and storage assets in order to allow cross-domain access to your resources."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/set-up-cors-website-storage/
+webUrl: https://docs.microsoft.com/learn/modules/set-up-cors-website-storage/
 type: course
 price: Free
-length: 60 mins
+length: PT60M
 ratings:
   count: 95
   average: 4.7157893
-heat: 50
+heat: 54
 
 provider:
   name: Microsoft Learn
@@ -23,16 +23,15 @@ levels:
 
 topics:
   - Azure
-  - Storage
   - Management Tools
+  - Storage
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/setup-cors-for-your-website-and-storage-assets-social.png
     width: 800
     height: 400
     isCached: true
-    title: "Core Cloud Services - Set up CORS for your website and storage assets"
 
-secured: "Q3uVtnIH6trj97s+//+wTzvbDIatV4OPSy/6e48auaPHavP615KMcfGwOwBKXUSNSOCAvlgfinM7iaWrb5uHICdfyMyWPHlM4N0gF9EYmZlCS4hpnw+c5G5ZrW01u2n3/ogzO3VZDOx4Spa/sNrTG7sB6dMVUDaq2GgvgP31Ljkkmm+rWy1RsfdcNEZR0mSAPRrNQEGtlhyDL+2x6602zCFQnh0m8u8Pq9GSgce7cMLOv/9c+xN1i2GE23bkNTjzdYuc1da60VyQD9Ss1Y5XwxqVsnjMfVK5G/otO5AmHBWWoLpEi88TuAI7VPUnmGgHRXBs1dlT9VabTu0eqeQ7TumqgL9jN/4V197yoe3lez/Td0wRDhfxOLZ/iYTF4AYtStHONA9wuCthHB5hzvTmfCD7ilm5da572WYECgQ9BFs=;s8P+zqI4JDAsust1x7+lcA=="
+secured: "pPx5d30WaAimSPUuCdYqkKv7Rmx6iu9VDA0J44h2GbKDMCnKOfgdoxp6DqPg0T5gXFDrDvHR2eUxX/obPjzw3hcHbLPSkF5ksYI9pn/CXnevTFjGtv2q1oYOPj9/uGPSR4ntEFJw7oFXgj+KrFOx46ZqoD7YkgD+fl8BU2/ujFoAf0Jp69d7D/xiuKsn4iV3WBX1rCwAK3xBOX1AfsmLLTTMVDbupi/3IAf1D6j/krv0FKVPHbpVmQCpD99WeWMb+okHd9OLa8t2eFdODk+KTQz6et8Ic7EAYACalsft4DlW4twZqACnNqpSvFIWvPmMcZOrWdl8IjlIcw0NZ760778kz9ImBGWEjyKHIkfCakXoMpPBciDfayJmit94Mm6ek1TPg01EUBGLkCIzcjyE9g==;jmXjh/6CBwVlacAhLjxYBg=="
 ---
 

@@ -1,14 +1,14 @@
 ---
 title: "Introduction to Azure virtual machines"
 excerpt: "Learn about the decisions you make before creating a virtual machine, the options to create and manage the VM, and the extensions and services you use to manage your VM."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-virtual-machines/
+webUrl: https://docs.microsoft.com/learn/modules/intro-to-azure-virtual-machines/
 type: course
 price: Free
-length: 67 mins
+length: PT1H7M
 ratings:
-  count: 13733
-  average: 4.6846285
-heat: 77
+  count: 13736
+  average: 4.684624
+heat: 212
 
 provider:
   name: Microsoft Learn
@@ -25,13 +25,6 @@ topics:
   - Azure
   - Compute
 
-images:
-  - url: https://docs.microsoft.com/learn/achievements/intro-to-azure-virtual-machines-social.png
-    width: 200
-    height: 200
-    isCached: true
-    title: "Introduction to Azure virtual machines"
-
-secured: "emy6C6SUCE2sIlUplG9Z2XWdWrrSbcJJ2iLAEVpTOUF8QY39heV7CGIeM4RGGYUHFwm0C442Rq+ho/5HkfRhSWyGu/A9is3IKcGjRGw2sSUDQyEJUhX2NXTjdgoZ1W9h5xidNQ00gjpc1rX2puv05GFg6kwtXO+umv3gLitn4Io78AeE9/xeVNcPok7kD0gLOKlIN4YMyzR33GgNl+joj6tkK4wNvC3r7f2d3SsDdAWOF1mbDcH+HhEZP4N1efE5S4rCuQwKbvBvQJ9WYA+5Uj7s78yr3aDxmilzh+3C43z6v9GCANivww8bIwAbi8Fkat96f7lSYKnenIbjB1FXreowx/3hvUNt5n31wRR77dJxGjmWekUINg6/00eVpiZYBpUr5xKFE2ADDi7FlJN8gCpNaMk1eo+IDPcnAuaoVSlURct8IZno1sgKLnNvNFu2;nRG+JvGYk1YHx2cHrVONQA=="
+secured: "NjgTvrnD+g4dUdt8KSTyTOYchcaczwlOg0Os3CrM//MAwMVeYaRorOFI2DQKK6sOscq+pC1EHKCb+J5tAxb6BS2SBO5GyhCNrk6TDe2SJ2Yx8KAbW8+y27we8jbhJIOAgw9E2PjfNlJCtdwr4tmi5hPLvbPY04XBi9PSzSPqscJwyIHUnA15aum/Izhd9O/Wuv7GyntB6nyo9bYBhJW6V0IA1+g/4TeMg+7llnZN+3RG9R0LffVjLECwcKl2/V1YtMpzwXqLe+K3u/D08aYQVVNt5bHPBpNCmfgu/4EkgpV9+J1tXW9v+cMvst8YO1/4TC4UB2opf3Q/wYaPymYuPbUevUyp0j26H+sh41RvWma0gQ10R8VsyUemKZ3QwczVJ4esX2b3LCgkj0QoKPG7Ew==;BLiIY61KBPG730JjHYIB/g=="
 ---
 

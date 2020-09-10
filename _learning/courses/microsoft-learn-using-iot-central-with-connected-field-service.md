@@ -1,14 +1,14 @@
 ---
 title: "Using IoT Central with Connected Field Service for Dynamics 365"
-excerpt: "This module focuses on using IoT Central with Connected Field Service add-on for Dynamics 365 for Field Service.  The module walks you through building an IoT Central application and escalating the alerts into Dynamics 365."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/using-iot-central-with-connected-field-service/
+excerpt: "This module will focus on using IoT Central with Connected Field Service add-on for Dynamics 365 for Field Service.  The module will walk you through building an IoT Central application and escalating the alerts into Dynamics 365."
+webUrl: https://docs.microsoft.com/learn/modules/using-iot-central-with-connected-field-service/
 type: course
 price: Free
-length: 58 mins
+length: PT58M
 ratings:
   count: 52
   average: 4.6538463
-heat: 50
+heat: 52
 
 provider:
   name: Microsoft Learn
@@ -25,13 +25,6 @@ topics:
   - Azure
   - IoT
 
-images:
-  - url: https://docs.microsoft.com/learn/achievements/using-iot-central-with-connected-field-service-social.png
-    width: 200
-    height: 200
-    isCached: true
-    title: "Using IoT Central with Connected Field Service for Dynamics 365"
-
-secured: "fPh7t7yJugw/w4W9pdC/Ny96uTO6uMc38DAfj1YlbQJyutXOWH6CHdFYountc90oNbJFceKldKPYjZmX/wOMgymPYuTaL+3US8InIsiCkHX/eGSQIp5yIsOHGguv3UUTL0JvGLTnep2Rmgbxkjc2OuQIH3mlTQBsdOLWViXjvC0ciHvSlEf703db3CFeCElNwYJzoyoM/jC1/PTzsL28jUCK24mX91Cge1adANJc/FnQ41wYFXTnUZ+MCOyZ8hlPicAlTRSQ0qiI67g90VwxIMPQLfMH6ozkxk6uyWEGlSAGgJtGVV1fiAtE022DmrfH6eo/ZXei8yT2kcdHHfNF/Ppl7DnloMiH1SciLt5ThaCygdqiGdcJg7iiQU3GxaMY9XbdHjR5wxxMAhSk8q32p60yCOuwCWAm43D3a8HHaCI=;sPF3gKZsMdBwqB3xuERtgw=="
+secured: "q3S1FeiWOUIZYlxL+xzhngQmzAtPs2AVbtEJYjiH3YujLoKjIm1SrdykNYTFYtaN1ACAjg5DrPxyjciJS9CzQs/aaaiiIFBxzV6D4LQ1EBxUAeJD2pr3futoY4zEEDurMvy1p4g4YhMK2gF0ai6jBfjzpRvrWikaSE618m1mrJ+6pknyZqvVPiZ6KHXS7u6oV4Tesm7BV+H00rF9rUib94VR8f+lUuKnM1EZsDW+nddcUbwIcgCoF7Eh1cuHPtouaMJrlaS5x0WJ6wtL3oC3UG5WIpHH/rP1CZbOn9zX42OpxFEHrLVXDpKIXDYut8BGFRGjSu7K0JlXtuuY0MJ+vcThelxyEFznBSJOK5yJlvxQuWcG/A8wvDx3mUqqk63elGQGuO9eN5ofryvE7DFobg==;JECYecNmefKRyEEUTlP6Zw=="
 ---
 

@@ -1,14 +1,14 @@
 ---
 title: "Create production workloads on Azure Databricks with Azure Data Factory"
-excerpt: "Azure Data Factory helps you create workflows that orchestrate data movement and transformation at scale. Integrate Azure Databricks into your production pipelines by calling notebooks and libraries."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/create-production-workloads-azure-databricks-azure-data-factory/
+excerpt: "Create production workloads on Azure Databricks with Azure Data Factory"
+webUrl: https://docs.microsoft.com/learn/modules/create-production-workloads-azure-databricks-azure-data-factory/
 type: course
 price: Free
 length: PT33M
 ratings:
   count: 69
   average: 4.4927535
-heat: 50
+heat: 52
 
 provider:
   name: Microsoft Learn
@@ -31,8 +31,7 @@ images:
     width: 640
     height: 320
     isCached: true
-    title: "Create production workloads on Azure Databricks with Azure Data Factory"
 
-secured: "c8LBd8l54NvoIqneUonGw8NrqIdUdRS58t2okVrjms2sjFSkZVy8g4uTtaNiTzRUq5z/VzgT8pWHP7WLXQ6WVZdASVho+15ezag1ZxhQW9U2FdwxAzFzh5GO9uQ6TSxcwpb/FCwKnpQBDck30IJrmpUp+XenGjX+W7Xvl/n6zEK6gKWE9t/q5tdXfdpo10gCd5QjBgK+rS9WcWqZjbI459j6cKZ+xQOzpUMZh04laLmwpotLjq7iaUTgYUBI5sd9OrZoeGOGW/4wfZsDG8ITksLPYl/y1asZ9JtsAKFEx2PPjR/w78NsjYavWozdWOCMjnUez4Z8LPANrlw30ASAABpudVDMMfAvjuHp4+CSF9llaLYx62crudk5w2bHmXY75P/NTc9VbLyJfcupyjA/UjC+GRHqp4Lp+4Z+SGIS5GQ=;ifhZ2+u1CuaSP9yQkHJM3w=="
+secured: "8ywoVyOFJlg+cuM32TxM+XnH4N+IqziLQoxt0uA3UqXvag2A9Qzk2bTzKIVSLHcKOY0TvqEuWNY43E9q/SGer37ti9lR7KF0gVxUzpPvl2gsdkE1JL5qFPsterFzNWLd4doIR7hIRUO3zw94D+0kV9VoGVGGhClI/UqmLZg8BCMXQSs7qCL3QrxETBInZOdH7katsk6+UOoEoASW+CZK0aRwP8wDtue7pbMEfZ3rHZmLcgoPKpYlyjame5I6NGix9s3nYQ0uExfI8TT55jbY8L4VjwfQeHUlTK7dL2alonpJyK1nSLN5c6xDbQqhLJDpLToTb+Fv+WRNj9xFut6WvR2kJsCc3HDGfVMZjDt8r76jW62BCB2ywJZI5tdaF1e+BCjz7zavjBr9rMonbh7l7w==;lSbrI/zxsa/Lx3Zt70nQJw=="
 ---
 

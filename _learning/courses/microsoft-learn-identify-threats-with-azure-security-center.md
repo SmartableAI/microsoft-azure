@@ -1,14 +1,14 @@
 ---
 title: "Identify security threats with Azure Security Center"
-excerpt: "In this module, you’ll discover how to detect and respond to threats with Azure Security Center."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/identify-threats-with-azure-security-center/
+excerpt: "Master securing your Azure workloads with Azure Security Center. In this module, you’ll discover how to detect and respond to threats with Azure Security Center."
+webUrl: https://docs.microsoft.com/learn/modules/identify-threats-with-azure-security-center/
 type: course
 price: Free
-length: 43 mins
+length: PT43M
 ratings:
   count: 720
   average: 4.6847224
-heat: 53
+heat: 76
 
 provider:
   name: Microsoft Learn
@@ -23,15 +23,13 @@ levels:
 
 topics:
   - Azure
-  - Security
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/identify-threats-with-azure-security-center-social.png
     width: 800
     height: 400
     isCached: true
-    title: "Identify security threats with Azure Security Center"
 
-secured: "cVArAX+ISmL8DwbCyE6hYveeRObo5yZXJ7eJsm6pDufgBNda+l5wolNloqI5jRWNNKq8/DfhL8PslJSdX706N5GXrUB57SRBOxyiAvqY7r3CcgOkEcIEiyS2mgHGytgd40mJmNcAG8bCbftgZKzOc3sKGLEsqks/f6n155+PflQwmGBQVhvyyYDq4CWGjy8/2zlrBmB4TScMjMzLFWm1JFu4ubXDWLJMrOMj8aGyxbgCRVZJMyZNjTTP4bshdjJBok5wXURCnG86D59wYMvl161Wp0sYV7jpEbuoKYJHNlgO3h1WhtXDes9BHnL5zNPd1kmcM0JHREKDzw/o0WwVZRknbKNwzxu64tZRv+QDAE909VuvnS7UfPee05egqnlOmlOWfkYD8HtVgbn/Vns6g+8ck+HjGoaBo5qeAqztl4g=;7zh/2y+EDgbvcl6Y+X7FRg=="
+secured: "zb4ZYCwdM0xTnyUPofjDpxo0TOHvcCX5uEwr+ZbAdjxAJU7yKWWQJSp/LZvomjkZPm5qcI0RPVEsR2TOdAYoF5YYF86PiuahDnFrJLxrEtm/QzufY6mLeF54H3XnvJLEcRWBP7hftxw2lXPcqJ3niNvUF74N172PgZJ0v9gvWwzJJ8Ix7Ngljm85NEy1Y2olHRuxqSVQcp0WQBo8RnSNPSpAiHDODRnQNYfsD9x6V4oVkKc0mrIIAeV9YV4GWvbGbEFZ6JPq3hUXvbkrxDuP3kgQ6m266Pa17KOuPCFfmv4WJ8y4246d6L6KpRfPnLKIsYCZqejsycl40KlF2bio1BmMy4CBfcIihP05b8Gl7UhO9h5fvVdP7kt9TRBUNst6Cw3yt/+EvHFodDaiMoWZ5Q==;3TDXHhV1xmat/IJSZa7UtQ=="
 ---
 

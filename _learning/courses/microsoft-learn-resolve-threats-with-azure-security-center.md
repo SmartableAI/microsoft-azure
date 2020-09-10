@@ -1,14 +1,14 @@
 ---
 title: "Resolve security threats with Azure Security Center"
 excerpt: "In this module, you’ll use the alert capabilities of Azure Security Center to watch for and respond to threats."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/resolve-threats-with-azure-security-center/
+webUrl: https://docs.microsoft.com/learn/modules/resolve-threats-with-azure-security-center/
 type: course
 price: Free
-length: 44 mins
+length: PT44M
 ratings:
-  count: 965
-  average: 4.573057
-heat: 53
+  count: 966
+  average: 4.573499
+heat: 83
 
 provider:
   name: Microsoft Learn
@@ -29,8 +29,7 @@ images:
     width: 800
     height: 400
     isCached: true
-    title: "Resolve security threats with Azure Security Center"
 
-secured: "6lwOmEk2pyuoon0gogTm4wIXE0M0QuqS0FDA9mspLHBSrLeNA34oIogJVqCQB38hN1URpXmJm2GPnAg6OubRZgCoHzYijZtAPNKiU6n/6ar7enyUHhTEcJGjiyc/7P5V6fH2FHJBFHgnAOIEh7/23uyGfP4tJ2vFTT4vrSpineOpDbClYx1lgysIwfxvd8wTpsI9O8/2LhT+a1YTNMz0GlykOomR+pK1xlU+u45PNJBxubuOL0Qi1rULiGfFPZLorsIgZ7aG/lUmMuIlfAnbvmQBEkYSuY4rXZUi8ZA0TXA5URywkffGd0qJ52hVZt2qG320oIg6L4+LfiNJWqgKBQtyq/u1IyVuXE0ncm/zuKnw0M/YwkiZ9Mqm7ILB2pKA4XIb76q8jZkMmFKVV2gE2Z4oiTNgoA6jxbQNi2vq5og=;jqZN3eU2CLNvzjgo+pVenw=="
+secured: "UvTpjACmVoeGlSVqdW0ZZL2spzbr6EcBxQHpVRUkgIsEgNxLcN+fyihYcqL6rsjN+Yfj7uhp9NXomiipY1Ojt6LFxxZanB3hC3tiyJXA8L2ZYOZ9qgfSLKp8xnPeDmOkzY7ZEAXR77ZJq1eve7iBlBJOMw84YmRk8LIymhmHczrnCLLeOg+c2D06qjtF3RXyi4HD2l0JrsGeHyN/IfvN4CN/xO3Nt1GknA44+js4sNWMBY9Wae5mWLSojVANdc5rd0qdFTc41Gpz6iw0gh02xja1Vp7xa1zqnKTAVBIQe1q6Kj/98PRt9gMQG6LFT7DbfFBeXUHX9ZlndnUTxRilZs09VsZ4rNZnLraGtyxIHlAEynyhRWozDL6ddPU8SRD8eiYRjgXDrXEMr2H349HZDg==;fFxcTzOHk5S6gyvtyF6wKg=="
 ---
 

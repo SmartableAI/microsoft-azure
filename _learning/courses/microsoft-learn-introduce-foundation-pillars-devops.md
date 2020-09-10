@@ -1,14 +1,14 @@
 ---
 title: "Introduce the foundation pillars of DevOps: Culture and Lean Product"
 excerpt: "DevOps is the union of people, process, and products to enable continuous delivery of value to our end users. Discover the first two foundation pillars of DevOps: Culture and Lean Product."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/introduce-foundation-pillars-devops/
+webUrl: https://docs.microsoft.com/learn/modules/introduce-foundation-pillars-devops/
 type: course
 price: Free
-length: 25 mins
+length: PT25M
 ratings:
-  count: 1175
-  average: 4.630638
-heat: 102
+  count: 1181
+  average: 4.631668
+heat: 89
 
 provider:
   name: Microsoft Learn
@@ -24,13 +24,6 @@ levels:
 topics:
   - Azure
 
-images:
-  - url: https://docs.microsoft.com/learn/achievements/introduce-foundation-pillars-devops-culture-learn-product-social.png
-    width: 320
-    height: 160
-    isCached: true
-    title: "Introduce the foundation pillars of DevOps: Culture and Lean Product"
-
-secured: "muwsQKRHyrLG2cMR7yFx45h6ByJLuqI4u6CxtHw1W2iLZbbKc3mxbHpjZOIlPuGyWjtNcaYkzbxWqkE8UftKdEwC2d38WBsqSx5WX5v3PbRHwj5HulZ9UlTzAXkMXukdBrD41B/M1pTL9keU5BU9D85NqWLOKMJWDWffqBXM2Q2XWHaBPXAPK1ZqLhBm81zTAuPlk0yeAcC4fwQ9f0N2aXlu0EHh0VQWZTLonVrN23fzzUdi0pl9tSNqsnPAOsHBOzwMKOQYajOLEnJktcv1CmIjNGDmOFJ0GTkOu/6LCaBx00z7umkwtWAjNQ5XLUeIdy56n+QuA9bByVy7V9eXm3MWxOrMGoGSj7rkOUgDvVgItt0dX9AigUfqxyg6gankjfH/Oe0DbMk8KPP7JzNyJoiy8JcoBTEacae02JEQLxc=;twImJ9r4qiu2nFacGhWcmg=="
+secured: "h2azYSCnZ1mvGaGL9m363wZir+6o+qqTCZ/bgUYIp6BNVeq0ecMEElN4E7FluLuGLPpET2pde/qdKSXOAXxMeiI7kCYuI6uuJPlR2KYulldS0mWrrsyjnYmsKpE1jbuIKiaAfKqbav+PjOt0eiSdwQyNfng0fC7P+g6UG5SuSqF86iFG0lh5aLXJ+SkAshNxWWircryfVWRWZucIf0yz5Sp7hztWjCK2rGyZBXM8b3NsP3BCaQX4stt+EwylNVdQDwJsKMdZFZ4VJG7xyru4GAF+4lgd7FJwbgk0IUJRWQDmMXEBLOHhNltj1jD/BQKvoqniMFtRt2KrWq4dK+D51wuD2+v7zk2s7LLJ9BJNOQIMdaA8/gRZMxuDhvF/hn3z1v4NA4ptXUfjAlWl/DRb1Q==;NEHoAVXSUfdVT3PctkNENg=="
 ---
 

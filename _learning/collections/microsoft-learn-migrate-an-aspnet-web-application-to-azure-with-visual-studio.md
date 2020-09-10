@@ -35,7 +35,7 @@ topics:
   - Databases
 
 images:
-  - url: https://docs.microsoft.com/learn/achievements/generic-badge-social.png
+  - url: https://docs.microsoft.com/learn/achievements/aspnet-configurationbuilder-social.png
     width: 640
     height: 320
     isCached: true

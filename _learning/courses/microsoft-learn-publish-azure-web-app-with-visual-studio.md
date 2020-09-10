@@ -1,14 +1,14 @@
 ---
 title: "Publish a web app to Azure with Visual Studio"
-excerpt: "Use the publishing features of Visual Studio 2017 to deploy and manage an ASP.NET Core web application hosted on Azure."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/publish-azure-web-app-with-visual-studio/
+excerpt: "Learn how to use Azure App Service to create a new ASP.NET-based web app, then publish and update directly from Visual Studio."
+webUrl: https://docs.microsoft.com/learn/modules/publish-azure-web-app-with-visual-studio/
 type: course
 price: Free
-length: 47 mins
+length: PT48M
 ratings:
   count: 2822
   average: 4.6743445
-heat: 54
+heat: 122
 
 provider:
   name: Microsoft Learn
@@ -24,13 +24,6 @@ levels:
 topics:
   - Azure
 
-images:
-  - url: https://docs.microsoft.com/learn/achievements/publish-azure-web-app-with-visual-studio-social.png
-    width: 200
-    height: 200
-    isCached: true
-    title: "Publish a web app to Azure with Visual Studio"
-
-secured: "eLNVP/HqmMHSmXGIUbXRBEi2gYU2aVMC/+Gy6cvTqOo2mIiClvMbaX5gxo3cE6UBWP3cZ2zExrgV0/hMvbgbYdB6kdBRmXEHWsoa5R2PftDrwVd+OctwIb9X5hNDUkwEm/syoQX97UN0w+0NcmNAnZTlqE5OdOMer7A+MzzX/IDAzjNk2E3ADrn/RD9wzsY8J/FQ+cYe6jN2X5RzhzyRgE4yAB+qDqnKhNNfQLrrLK/VtPmgU4GKkBU6HJElAw3ZRlK2uqFqrZRc/6ch02A7XfeCyK+p9BHO5XRQREifwJw+hWSIvULhzqC4IMIHrH16qFP91DYepU3nhECtQHUsAGoek/ZZcd9MLEjF0+ITApb+cZoqKLdXNKJImfCEmzhT8QHaajlRMRgAVcKuNUnkhwm20+xzpedGDcNAoOfgyOM=;3cfLFLWoiK/8pO/ntdcGew=="
+secured: "Fe1difyGbWZJOI3caOf7bvnAQUGdo9IH3HMkcPUA9SRBw0Hu5j9Kknzvi0Udl54Eh7HcF1WUzG6ZVHhuC2G6ShZoiaBv6bGE7FduLrdNeH9jSTMjNeu2gPPulRTweOulpUSaka+YAl4xaamxwurWg04WHz4nbDRgzv6IKznqczM7Pd77rKE44bkLY2oby9D2JJ3RBPUA478oRydI8Goumar6kY/lcivNrkQwJay57dEcDjU+1yOeZngz65LEgcd1xUOmAJ1g2lIzD8OUk+u/7PL+cYZRFhCoZGFcWmEap8Jydy7hnqOfJpykMMu6W0lYzFofe2JKASRffr0ZXGkWIqHVasNDirzrVBQHZ4SN2zuWlAsgaSYYKasixOfk0e97JJCcPvEHib6S5Ib7fMGY3Q==;xwhMpm0oaA9cr3CxzaQRLA=="
 ---
 

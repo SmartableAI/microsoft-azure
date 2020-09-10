@@ -4,7 +4,7 @@ excerpt: "Explore how the world of data has evolved and how the advent of cloud 
 type: collection
 price: Free
 length: PT1H51M
-heat: 60
+heat: 141
 
 provider:
   name: Microsoft Learn
@@ -38,7 +38,6 @@ images:
     width: 800
     height: 400
     isCached: true
-    title: "Understand the evolving world of data"
 
 secured: "PgeF7j3Tf52n7Bn0AwltbmGmXA92u4nnJo9rvlaauq0G4gX5IkAZSuBYu/9j/02Df6Db9yTfYFCzGAwaLq0+eZqom4lbcTa+2MNu1iGTv7QUp3HVH2dqlsNo0Xx4uj8FMuwNVIWrhJqKvQ1vS6GfYZdKPBV/lmN1H+YEp0nZyZhRsTFT6WdO92TQXJy21RU0FmXeYVCe2BYBjEGbJRcqNesfVufv54DEz9fsLQjxTrksTYS+hhM4+HbSyNuIWoLwB0tdpp+CK5VTzH614ftpfr6hYVwB7jEbxiOR8GrTMJntKky2WcYlLUdmCnF+XEmEEeNX5zQGQg4cul7Y6xpb6g==;gY2QEl+NJBX3eU7+NVhZqw=="
 ---

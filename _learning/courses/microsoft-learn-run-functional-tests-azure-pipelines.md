@@ -1,14 +1,14 @@
 ---
 title: "Run functional tests in Azure Pipelines"
 excerpt: "Run Selenium UI tests, a form of functional testing, in Azure Pipelines."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/run-functional-tests-azure-pipelines/
+webUrl: https://docs.microsoft.com/learn/modules/run-functional-tests-azure-pipelines/
 type: course
 price: Free
-length: 63 mins
+length: PT1H3M
 ratings:
   count: 631
   average: 4.6339145
-heat: 53
+heat: 73
 
 provider:
   name: Microsoft Learn
@@ -30,8 +30,7 @@ images:
     width: 800
     height: 400
     isCached: true
-    title: "Run functional tests in Azure Pipelines"
 
-secured: "/EadmZqWnkKn8mJHGA0qw6rARNTHie3KwqDWl449fU3wscai0mXA11u6FUvYc15TcU4cIraqePBhvJGoTj4b56o8kNg3Lr+m7LsB7G380r6q3tVdzXwGc9F53aGCk88Nd21O69R4n0oP6P+yUeH5vcUTHDz9qgFrSHBlF/y802I8ot3NN3dgbdNKgvPD3CRC1KHvuFKDntcqt6CMwBA+IcaPbiO4ZT5p+Mu9BeOIwaGHsGxuiktiGxBBeIub9q2RLgCNgaKQeOstZPonh4/PYLY2qDnNZVAY0NVAMU6ZSZW7ioNYzPjKP0gyprDiF0Fb8cDSUXPjqaQVS5Y/JCdU4daCpayBezlXpe8FXrT+GQstmTJeYNBoI/9KuNENHnDHAxqW9qIB5Yc7SrPpVry+4+/ui5yEPqQy1YMX2hwEEiY=;/xPMlD6ctTffqHQ36tn/Ig=="
+secured: "jkBYA2aq52M09yWa1YZ7T4g99y25Bo25NS21LogF+auKrxt3JJIpVMV47fgE8F1ie39hCjPj8Ho/XufTJVfO3MpgVN0OU0mDXkuLV0mM1NhQuYJhfqJ7s8EpawHvnD9auh5QTKQ5pPuklSN/HoJZV+3yEDLZWBpqobMhEFVkkXtFQFRGSSiPJE62QXoE1eFNZ8uNNdsZGWEPTvj1OzJZQ+GRltgTTa/vxJ19LQhQNPfwcA4faUrJkM6foo1FDxukIwUMA7EPvBTf+i8cbpobJwdIFsyXSR/UNkV/nQDeSqb4C24r4P8i1rVwVxYWC3+wPacNv8J33mLbMP55OXQw3u8mNxJc3Qf1Mbj+0Y7ccyMRQQzwcErDR1Xzha39yymF6ltXFzGJg2141fi0UY7KKw==;JTipf3qTNHeS9tE03V5R/Q=="
 ---
 

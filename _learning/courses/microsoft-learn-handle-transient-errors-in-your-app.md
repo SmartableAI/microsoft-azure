@@ -1,14 +1,14 @@
 ---
 title: "Handle transient errors in your app"
-excerpt: "Use application logging and retry policies to handle transient errors to make your apps more resilient."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/handle-transient-errors-in-your-app/
+excerpt: "Detect, handle, and recover from errors when working with cloud-based services to make your apps more resilient and improve user experience."
+webUrl: https://docs.microsoft.com/learn/modules/handle-transient-errors-in-your-app/
 type: course
 price: Free
-length: 59 mins
+length: PT59M
 ratings:
   count: 53
   average: 4.773585
-heat: 50
+heat: 52
 
 provider:
   name: Microsoft Learn
@@ -29,8 +29,7 @@ images:
     width: 800
     height: 400
     isCached: true
-    title: "Handle transient errors in your app"
 
-secured: "XkLqvFK0EpyZWKocAgIwwjsn7ICQiWcxFAmY0vF0beuKzITZ4OJAh7NnbZCQfzXxflGSDRJO1uzSDpYzx5l6E8HCaGbg/m+v2NwnXRRAQcnyAGf1lB3Badgmgg+RCtd/XSLaKVCl0hTj3mzSrwMw6Mu1l862TjfeGWoAeYBzmIJH7+AUhj35JnNIt7aOwq73zKw3xJ3GASnUfGYynhafTgn9Ml1y/xH7sVMp+HEGIMhVR8H+bd/EKmB4++5Lbaf+8wfM4maMjlxpzSv2Iq0L8UkOETtBtf2QeyCddbYGQs9Xq7JOxUXZuwU4rvOqtdKkBZh32bwPnh81QvFnDOr+x0VtKY0AVe5mRReG4jaY4IZIDpXpYZIkkvRgOPQZ3ap2i8DwlkN+hp/Z94wYvmFv9WRv4NkfUhO/G3WCYhemqBY=;gCdeXyVuijKcENb6tahjBw=="
+secured: "DbJ/1ZxpFDGR1nNgnXlq2Yk6eW66lsiuxrC+K+YLNkf04XY12nRN1LAL+cNKTrtl3n6n7ns8i+ACjmYI6W0jkdaXDAxHqoaAUn1GTcfc1mCt8wTI4TRLYY9oGktegyKulIXpld8iWPEkpTB13+Fq8Oah69b3Q+aexrX4jVI1rGd5wZh5ylgAn99wuOekuQcC9O6ExlvDWCS7IZIu6gOyGbU//US2Kv4y5dekgWzZyN3Lkv/VxqVTzEBHvT7wxmB3MbcvsWhGcT1sX8QVs9VIxPFlKYI6Fa3lQzvqbFhkqjQ8amj3b/mT/xcNZkpnoC3N2ENmEuOIhGLsF5kY/y5Tg0cZ9f7Wy0EozuO+8Du17mXDLIXY/dbD/NkxhqCHN+WCBZA28c9gy0kva5AcQqRWXw==;tSkzeHlSwr4aP8FuKrLFPw=="
 ---
 

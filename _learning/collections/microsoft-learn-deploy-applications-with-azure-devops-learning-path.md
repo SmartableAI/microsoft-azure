@@ -4,7 +4,7 @@ excerpt: "Learn how to configure release pipelines that continuously build, test
 type: collection
 price: Free
 length: PT8H51M
-heat: 63
+heat: 93
 
 provider:
   name: Microsoft Learn
@@ -48,7 +48,6 @@ images:
     width: 800
     height: 400
     isCached: true
-    title: "Create a release pipeline in Azure Pipelines"
 
 secured: "/slrqzjcBqO6PVV07hym2bYwPa7Tr/7EBIJPtIZmhrpY4wgealYBBvdRrsJ5bY1JoagbVd0fUhuZyFIdgizsN7wZF/1uZ9OSsMMtcHmLTOS3HQafpgmpeBizwp0e4KE9xsaUGfYjGayPJwXmRMoj2ckNbuxdTqV56l5PFQo6mhtuyewHcx7eznYXZ1R8TSGmsbR9a2mhJobv7nJF/+6lut4MtoCRhvfHg41Otrbz9/U90BhTfEbiX1mhKCpt8Gymeif87j9qFi045hgnmsLgXKso19WDTfyMQ+6/zuDodJL32WLrskVcf+xSFRw845P9DC2f2WDQtMPoItQ5wwCetg==;Z7touw9vM8uWmSWY1h+RVg=="
 ---

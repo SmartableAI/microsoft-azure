@@ -1,7 +1,7 @@
 ---
 title: "Implement AI in your organization"
-excerpt: "Everyone in an organization has a role to play in AI transformation. At the highest levels, leaders need to prioritize AI use cases strategically and create an environment where innovative ideas can flourish. Then, those ideas come to life and succeed long-term thanks to collaboration across lines of business and technical teams. This module provides insight into managing AI-related processes and responsibilities in an organization."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/implement-ai-organization/
+excerpt: "Learn enterprise AI management with our free open online course, including machine learning."
+webUrl: https://docs.microsoft.com/learn/modules/implement-ai-organization/
 type: course
 price: Free
 length: PT41M
@@ -29,8 +29,7 @@ images:
     width: 800
     height: 400
     isCached: true
-    title: "Implement AI in your organization"
 
-secured: "enajbCkoUe2xY+PtIUWOR95Zr6JFlWouY+TNKxSdhtTcwJTAe8LQLwtpQD+Rb90VLPnz/HTucE42lRml/H//jcD5D01pELL0wLMRRQ8bp9hzB+6UU7cYvxqiLGM1W1rFOPW0AH4mZh0LB3Vk//jFmBiEhZksoWabg1ZoPwHIBISizu1+tLGrNHnLGHCUDyFnlgt9s/yB1Nn5tWsnBdXIOeCRjbaAWDzHiK8b9PXbqUDyAO1oI+pjEgop7f9ENnzo8o5WSd9DmPbytBvbtCiRUkuHMBbxJeRO9NgusPefJqsyKg4elVjZnuHYyoKCR5g+USgmCsUzWJ1OMC4KWlSFEwiwF5aA7DpKIQeInipwMs+F4bjq4JQB1ptkrmiRqt774soHOCV1jYw/pG+mALW014ccD6mXQbAft7looC4Jhqc=;7oyvBEuWCM4sl3jhNTkQ/w=="
+secured: "Wv6tl3eLzM0HwWbrQ8n7R9AzfxghNLs8xvGo33AIeTqYMNHjdyu2Cka2O1Pg3VMU2rn8H+aibbElMu10BgK3SOWq50YcQ/6sKCUiVoHE0+0RNyO8IkUteK49I46bKdmRAjmKda8gGOhEFMxT9Qe1OPFVTRVH/fp3pqciKqmir9Lu3LgzKgAG4+FDvz/yDQsOo2XEk7oavSIQ1NOLnsEWvYs/+BGO1/UJBuFL6ZNzLMOX8UY5sPuAR+C9s3myF7iQqn/QLSPD2kdKu2uaEU+0Te8VKAQTFYwzCipRC3VVO2cGdLF5egtqx85C5fSK4k/fpvPQX7y5OSoXlFWATvZTW1O2DIqKuuuVB3em3w3De4fTxZVk7KCuaAHvBcOsLD31ozRgRAmsLoUwzZ3YXnXzTg==;zWZ3C9YRE04pik9yrVv/qw=="
 ---
 

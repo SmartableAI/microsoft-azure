@@ -1,14 +1,14 @@
 ---
 title: "Enable secure access to apps for external users with Azure AD B2C"
 excerpt: "Use Azure AD B2C as the full-featured identity system for your application, and ensure that users are required to sign in securely by using multi-factor authentication."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/enable-external-access-with-b2c/
+webUrl: https://docs.microsoft.com/learn/modules/enable-external-access-with-b2c/
 type: course
 price: Free
-length: 16 mins
+length: PT16M
 ratings:
   count: 43
   average: 4.4418607
-heat: 50
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -30,8 +30,7 @@ images:
     width: 800
     height: 400
     isCached: true
-    title: "Enable secure access to apps for external users with Azure AD B2C"
 
-secured: "xI/INqCKdU/1Trt2aDyL7watScbhDzOk4YEbPrRi7qaIHWSe1y84mpqs8ufmAMRoW01EQdCAKTxHiUt+Cvrs5hb8Z1H25pKLXfCjFa4b7L2xGNYU4zSVhrAhjPhLmMxQnv11rpDq778M0Z2EdqmR05ruz0st9qmOzNa3VjiD6psaulS1GkCKjOXwPlYhPzp3VEdulZ4L1j+fFSSjlMUCDaFdNvrS1PF5izxG3YRiD/Q427TGEIHaGhG/XIv1R70mOwaVH9V6XlxhD+Zv0+qSG+Dw6lZcfNbWTSHywk6KW87/H2IH2rmMZv0DzbP6u3lBdDxwjRNmlPBnN7kjlXPPW1igff8FkT4g6EkgJBcHpcz4N67SNBe+VQrYf15MolBNgctlFORfZP7kYa447oMFaasuQzSGAZLJ4yb7yxSenOY=;4pR0E1aabMV37ulmK0wqAQ=="
+secured: "CjfB9hhYGxaX/NSCETt40OrioOwxdj6vXS6yBpB6nksKGnLqy4oftOWUJcCT+rbAotZ5JAWnPEs8/2mYrzeE29+3DZ63q6S7xwIKbKSYlZL3VpYBUSvebn6hifwk8UmW8TKJ5o3fxsG0GocJGsGRiJEY3fO6h20Du0P7Vj/r5HfwvxzfYhh4/gXDNTHH17Zuiybv52p1sDHkmO/MucPvds4n5fbp5SvFNgW3ZWdXLBAafn9rlzx8YyPEoQBZE3h3bcLRCHtU5Gq3feqfRugWGPSDQMa7OZLvGl9Uw7uAbHsDl713fdF6sVqLhWZEVFBJAcsHCV+LZNmBaaYQ/3Cp80BmzA+3NKv+e8pfPjksR4+UkE85ezXZnmA+D4VmonH6U15eil9uF8uS8DyWLVKYIQ==;5YOXkbqERnXAtSnnTFf3Rw=="
 ---
 

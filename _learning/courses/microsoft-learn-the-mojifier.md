@@ -1,14 +1,14 @@
 ---
 title: "The Mojifier - Create a Slack bot that replaces people's faces with emojis matching their emotion"
 excerpt: "Learn how to get images, calculate emotion, match emotions to emojis, and replace faces with emoji."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/replace-faces-with-emojis-matching-emotion/
+webUrl: https://docs.microsoft.com/learn/modules/replace-faces-with-emojis-matching-emotion/
 type: course
 price: Free
-length: 91 mins
+length: PT1H31M
 ratings:
   count: 46
   average: 4.5869565
-heat: 50
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -26,13 +26,6 @@ topics:
   - Compute
   - Serverless
 
-images:
-  - url: https://docs.microsoft.com/learn/achievements/replace-faces-with-emojis-matching-emotion-social.png
-    width: 200
-    height: 200
-    isCached: true
-    title: "The Mojifier - Create a Slack bot that replaces people's faces with emojis matching their emotion"
-
-secured: "hORmCuRA3W5828AFQmsINnoaHTW+3OacJCi1jjeduqx4eqH2GH5M6fSbC6USx5bMhvGnPFRw319+2eHLcQeGrtQsQdCWl2CY4OiN2lnTUDUmbpLdTFSgoOZar7453B/8iz6X/6hk32T07ncWOsyvN6VqT0rePaAnpHoTF96LKJUTsNEycwP8QZeqDYu+W5Q5oW1OQT3IU+1rb17P8SXTwqAcP2tJ4BxQ0Qb3zFxIxBqqaoNFLCbLB+bpQ4OAT7hySvUOSy5Chkc8CxaMpKNp8TrCO9uvnSSVv/Zh8pexEmzbWycPENaR1XU63HMORzK49dj4YAy37s/eYfezfAwe5ZaATFJY2j6LcLUXlX8CI5bfu8FXXK9z/7sgp1zTpLhe+YpL+CJqjH6lm+RzOYVq2a1QNrNt/cI6XkEzQQbG5pg=;GmV5v4tM+khLYTB+uMGLCQ=="
+secured: "9nH5SO0V3nspBVzU/HVfNNcXkAB6p9SXy/QkX1Nyo1xvo745WM+79jG5DhaXXlWAyB1RQYmJlY54hGcHiiqJPBqv7d8W2zyuv6ZVBGJ326MfeQFVdq+IK/rBd9VffxZmST/O+hwvrr2wDn6pD/ePEQ5FikQtTQgETA3l1OiWYjnPLEcPj91p0sD6D7NbjP+8hn+hiJwhqDZDtu1cOIUZvj8A3y1mFazUR6evEGUE5q06VcVcg31T0bvnvta5djbCtg86CULPYhxFrY7jYftHisRmbPe59GfaTPe8QfEOn3ZxSVJ7UY9HHKyov9dEwRZ1MOdyl7+lXRxiUkEzzHJTgrf80KSblXztB4qrBt9DdwoFQ3O0lwuopytTgR077Q9zU+66ZzqvCdsI070qYzRQVw==;L6kg/cVT8nDC1yVsZ2cl8g=="
 ---
 

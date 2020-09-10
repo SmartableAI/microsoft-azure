@@ -1,14 +1,14 @@
 ---
-title: "Working with Compute Contexts in Azure Machine Learning"
-excerpt: "One of the key benefits of the cloud is the ability to use scalable, on-demand compute resources for cost-effective processing of large data. In this module, you'll learn how to use cloud compute in Azure Machine Learning to run training experiments at scale."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/use-compute-contexts-in-aml/
+title: "Work with Compute in Azure Machine Learning"
+excerpt: "Learn how to manage compute contexts for experiments in Azure Machine Learning."
+webUrl: https://docs.microsoft.com/learn/modules/use-compute-contexts-in-aml/
 type: course
 price: Free
-length: 47 mins
+length: PT45M
 ratings:
   count: 505
   average: 4.6217823
-heat: 50
+heat: 69
 
 provider:
   name: Microsoft Learn
@@ -23,8 +23,7 @@ levels:
 
 topics:
   - Azure
-  - AI
 
-secured: "EPPdiadL54SAErKNW2MC7jPykOLNBSWkTSYmlUpcVveo7Gal1oyV0SyCcOUGpucNTSORkN+pdWUayDuzn32gFtAwQ7WYRxbmQg3jhcCf9j9KCoRUfcw9pGNC980y0rUSKEQpbReQ5yZYhzblgYoBEwq++VGPZJEbWZMjMZAz5Ctxoz9ApgxD4HvHlWEQoQUD28iC878oiXfGoKkwePSyvs3AunlvcGDENP2SMcaifdVDJZQVdeIbtunHW07w9eQCgcr2OBwW0LACz4k4CLg0QZ6zUcJqUh/kx9WKpA82xKZL8SKL5ehHUlxYz+CA5NEGWw65/fW2qr8OQxaJC4mDt1xfdVLfZns4ATFLkfOkJ5OMOv9LJw/HJfQvFJygCc1Wijw9b+IE6YW/bOzhGZ3ZUnwaeKIVXCa2pokQE3qytPs=;X1ImhPE1ES6sL6M2V9HjRQ=="
+secured: "Ty3aP9H2m4uRDb9KGYWr+e9jd5FUNeDeikRZyLzX3wuJ4G+CXj725LSI1qi0LwwL6J+GTMUfC/wshepaj/l0ShFdotKXQD+Ojt3CPl7GlWPFTvz4CCwNnpHdKO1f879iHD4kOU2l+eSf9UpH2Ns2x7yOBEnEjsf8J22j68v3VLfi5DF765z0rBWQyMI9ybXOE++ZI7gwhnnWQPJlbtIKCMu8W2z1sTlImr47Fu46+cuJ+ci36nunamfIHvmPJ9ZbPVrsRYof9lX0jCIRnRvJA85eI5lt1u9XfhttWyAKbjh+VAqa81y8UvuzdoOi+iKvs555z0wDVtaDs1249kSMTRa83SFDjDk9nWTqrmmxyOdVAt5n5smhHL2NxjWgYAW51nmsemUrCcr0P6AZKGOzdw==;7scwKATV731Fy8Nw4+nO7Q=="
 ---
 

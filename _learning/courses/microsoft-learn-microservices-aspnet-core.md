@@ -1,14 +1,14 @@
 ---
 title: "Create and deploy a cloud-native ASP.NET Core microservice"
-excerpt: "Create and deploy an ASP.NET Core microservice to AKS."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/microservices-aspnet-core/
+excerpt: "This module guides you through containerizing an ASP.NET Core microservice and deploying it to Azure Kubernetes Service."
+webUrl: https://docs.microsoft.com/learn/modules/microservices-aspnet-core/
 type: course
 price: Free
 length: PT53M
 ratings:
   count: 89
   average: 4.6179776
-heat: 50
+heat: 53
 
 provider:
   name: Microsoft Learn
@@ -30,8 +30,7 @@ images:
     width: 640
     height: 320
     isCached: true
-    title: "Create and deploy a cloud-native ASP.NET Core microservice"
 
-secured: "xeR6belbAk/n/bmUVCWGdmzf3Xe2JtZBkOVCsSRsGb4I/RIaRVx4dIjfbfmp/EVuPLhLYKXUCxmE8dDowwY0GVzMRM6ytG8wVZ7p+xXh+fy7WkTJFtEzMalusZhNZVdgfQCnRllKDquwv0nR9WnGRfsXjjhrhyRe2C6OpTRD80RDvn+i2B2xMX5Kr8nEBdpIeJ4Eg9lfVwVUh5nYhtkWFQXlbqyVPTXbRtKIdF1VWRx6xg8tYVNZsIzNCOT+QBGr4RpojhcKYaLQ4x4L4QdErZvoqx5GjPiuAS0UttpDYwMq5AYqTF4jlgvXmxmvdjXCfDw4j6rFtvglRlJww3zDRnauNfjMlR++zP4hKEk1aIih+ihyyhYrWihDxmktzxdjIALjxdneRUJ5bT86zxobkaNahPrqyBKzHokRI3mnwNU=;TNvn/wtC4zjK+4KkBt62lA=="
+secured: "P0/TZmxeCS7L70qjc+iLk6+eXwlsczLBBQniK1n0z1Vga+nvZDhzfx5JSVKJembAVguoqxEAPTXLriZcwLa5YB04SMpef79ZlAImhRHksZjmSbpXgGy3gWOV1Q/QK3MsoIRTLmrN4WYw3u7xRkTUdC0cvCq/t8QL12zC9h4LpMqBI8qRUEZqdCC4vQmY5Vp1BlDkYNxPFVZK/ID5B22LLTqTBPUOtK74KHK+SeblpNn0VNJXYbf8TCvYs69X2gUSPJE0N45oOmhIUk/UH63iVesguFInpEfWreQzYNt9YsSvkoUWLf3MskUuq8sC5idHQqkmtoaS3CGusWZhxTP+TAid3gP3/5W/2yQ3J6ECFly32uyxMCngG5xqdjtUEZob7yzJe0S2U7SA3CP+qSzcTg==;3afKQjSXF+0ubXSqQf8y9Q=="
 ---
 

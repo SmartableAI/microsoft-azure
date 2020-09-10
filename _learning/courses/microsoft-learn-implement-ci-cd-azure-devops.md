@@ -1,14 +1,14 @@
 ---
 title: "Implement CI/CD with Azure DevOps"
-excerpt: "CI/CID isn't just for developers. Learn how to put Azure Databricks notebooks under version control in an Azure DevOps repo and build deployment pipelines to manage your release process."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/implement-ci-cd-azure-devops/
+excerpt: "Implement CI/CD with Azure DevOps"
+webUrl: https://docs.microsoft.com/learn/modules/implement-ci-cd-azure-devops/
 type: course
 price: Free
 length: PT28M
 ratings:
   count: 44
   average: 4.681818
-heat: 50
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -31,8 +31,7 @@ images:
     width: 640
     height: 320
     isCached: true
-    title: "Implement CI/CD with Azure DevOps"
 
-secured: "lD8GARHSJsa1fboCULFWv9RIH98YC9NfPLMzqfPtb7yoCjHUaj1wL31K4/wkaxmL3CvePtn5GE9U/xJrfsfFzifJnPGnKVQj3QY+V5pzyMGz/vsi9tK4dLqQLGjWdchRDeeGtmtW5icD3J1+lFp9GeUMt5v9irjPTH4XFM4fpVF6QrWSeGs4/cDlff8ra5dHPDpfbVPwaCg1+Z1VVRf8od7LZx7B3RMUCGwDBRo1jRzdAgyDgvgt1h2rK8xj28GOLHb1ErjWQ83mHV9Rg3labNJ4gOCtplvew8tC6qNeK1+bZ7NVlSsyyFADvZc0kiVJRuUIOhc8jMXId7uuxpRRrtMri68KAmPWoxbA2MLqWZlGfVnGI1kksOMu0SUxGkycJRg5zK96qPtvHPdhPpRLBrZEKzvsJgGutsgdH1dWSX0=;iOpDyuDFz9kT7ao24Rp16Q=="
+secured: "r8kROyquunNtTfTOLCHnZzcSVIGx95eYjgH/7jcLcWMvZTJuOtjzjJYHhnRYsipdRJ/Pm5clVYIawUleWq1SjOSguyhE47PZUkWCwDZGrWw6942e4cMacntldoJK/+WPqGXUs2Y4+8VhYR+o4UcsR3bBdavwxzhboxJodJHaNiVIv/2nDhpw8bqw4hn+tXoONX5cRsyPiGq82SDqg/A1eSf7PTCuX4mcldRLb0CUPRCMO8AqTmTsT0L8O0Wu5T4XYSG6fTT8oOl6r9QtzL/vx/S8HorzhPAaNixT109oDjWYF5dbiHyHYNAMOKHc08z/v+b+PtStJnRdRj6QlE1ZuqCq7Ge6uNj3dD0MALvUIJNKhKN9kgcjm1lG/VHd6RlpyMaTo2AXaRFkqPRGZ5/gGg==;wsOsxLJFW8jB2kidz00ijw=="
 ---
 

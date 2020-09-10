@@ -1,14 +1,14 @@
 ---
 title: "Protect your on-premises infrastructure from disasters with Azure Site Recovery"
 excerpt: "Provide disaster recovery for your on-premises infrastructure by managing and orchestrating replication, failover, and failback of VMware virtual machines, Hyper-V virtual machines, and physical servers with Azure Site Recovery."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/protect-on-premises-infrastructure-with-azure-site-recovery/
+webUrl: https://docs.microsoft.com/learn/modules/protect-on-premises-infrastructure-with-azure-site-recovery/
 type: course
 price: Free
-length: 33 mins
+length: PT33M
 ratings:
   count: 779
   average: 4.5982027
-heat: 53
+heat: 77
 
 provider:
   name: Microsoft Learn
@@ -29,8 +29,7 @@ images:
     width: 800
     height: 400
     isCached: true
-    title: "Protect your on-premises infrastructure from disasters with Azure Site Recovery"
 
-secured: "9wu/RPhQWBeKIFyXjpKcplMUQ5Rqmpkpwx9+YQN/aSbmZqbmo34Vq4fkxLDNR1P7ksp6/2mGunl6M2eVC+fcYp6+JketOUKDmPNlZei0+R0LRAa245/oWWhyYGiq+C0QRc71mwdcjx6CnrjA5IGd871bUe1JgZ/nsNLxp2Z9Jfp7wY5Lk8+fElcO8VgSPQ2rVJSNHrY5jJ2UM9XUnXHWTyDywZnwMH5+epPPY3HPXttXsn0LNeSwo3tLahzgxImZUphbnySlkazY2g7ivcOw2MkKQgxRTbemo0WL2KyikuFz2jRsf2gnX1onZeVeq3utNCbMmQ/JDGGNZoPmhzrd649rykPT96l+vorD/a+qS1ly2uiBqfUlVRlFDq6VB8DJb+4fsaFHhrPKqHxCyMrordltZMpYGoCzCCKyMPeuDhQ=;Oplrghhl+hY9ldmwG2PJmA=="
+secured: "LfIF/YI58BYlR89j1NP8jSSUThyyI3APQ7nM8JjEO2wL0/izQ7qyELdwLjC8UI4BqwylJ6nOxa3hKmBZr5RLn2g54a9RwQyjg1nJzAYeCJLjufTQdkpGfcKHAslkWl3gJqpZbyI+jjtfmv57nP63GJiczcdBqNr3UITh1Ki2hfjrvM2PQI63NdZVH7VFRkqSUddKbzCy1pNtTZMKGl+umYj/rAnm7boXtKKhFEuJvczFWCfu7LM50hfQBPEIrC87UBG13E7paOfvLtD8MvkPmzwiepqcY1+IPL17UAVFfqWJzst6TXYWkqyO0K92HGGepnO5Fxhexlypu0aapKdFKhJ3Ta3QhrSmf6OCBpZdmLFEV2Nb4L0TYvnE3WrRrFtMT1FLP/9nxFEZNofKnz5dGg==;ATZ3IWhzOFT7dqSo2OgRig=="
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Monitor Windows Server IaaS Virtual Machines and hybrid instances"
 excerpt: "You'll be able to implement Azure Monitor for IaaS Virtual Machines in Azure, implement Azure Monitor in on-premises environments, and use dependency maps."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/monitor-windows-server-iaas-virtual-machines-hybrid-instances/
+webUrl: https://docs.microsoft.com/learn/modules/monitor-windows-server-iaas-virtual-machines-hybrid-instances/
 type: course
 price: Free
 length: PT46M
@@ -33,6 +33,6 @@ images:
     height: 320
     isCached: true
 
-secured: "+hwzBxrY8AiPaeYz+gtmfe7LcaReDMvaR6Mhp9iM3o3DQhcrZXy+cZGzCt/to4NmzVbQwIm7ddI+jHofI4pFHDiAz4/q37J/uK2e97Q1cykJuks0o9hPa5ckzMT1Vf6LWSMSqzXMBobYJSDEqAj79wbo3/QNxTgdcVNbExm5lLPWhA1mfLku9ilWvOR+vC0qMMGm56hmzYXsAxHgjPGb0mK8Puxa3zqzJi9hmjIXhgh5rmrH/B2bwcIX7Gq6kzzh40VxGva8JCNufHMDnWzRHQ8iInJzBMXDJ+6VsevhoeKxcIcIgybD5VlYoQ7U2PxUQ9X0/waMCCJmgUboYZUt5zX9FbN/ucVpLVvFBwU2+O7jpVVnyzXFrymXUP3RIvQknKX1YcLZi4J8pSRRcrBbDgshqTxzTXSrV2h5rra3xaQ=;YbhBZNkQK2IAamDc+Bq9jQ=="
+secured: "J/VTB8bnE2z4twVxwUFtVCnIG8Z2+NSsXMoQjOvVsrGx+NWIxdUX9uymtoSvCkQNN1QLIrgiuTzr5JR+t7e19UxLUl+dbpnmg3Ukdhh2Al3NrI3JkQYJSqs+c6JllNYdbtTiX26U/J+JOT1kToN+OAeYUmVZ8SwoTGFgLWP472XlH9hdomTvJVtsZYtgT3yJWO2m/EYg3b+EmtBtlsJBDvfZmCjRscV1PNEXHZX+1kVUkJUxOy6a/J0GgHbBZ0UvGfPQd6JKLer6peoIZC2IJ3ENGQ8df91LDKk26TSCUFYjOCI9XKa95MibmfdoP/MzbOjHAbmaPxrzDfnDDkUbeh7obEjLZCcXsVoUmptlGuKut/qkKSxNpuZWnqIHCrtKOHWqXJR4/tG1CX8a0x7FAQ==;3WATFUHE4U+oFMe1FktZAg=="
 ---
 

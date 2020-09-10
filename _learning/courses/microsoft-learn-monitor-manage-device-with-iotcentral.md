@@ -1,14 +1,14 @@
 ---
 title: "Monitor and manage your coffee machine with Azure IoT Central"
-excerpt: "Learn how to create an Azure IoT Central application to monitor and manage an IoT device."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/monitor-and-manage-device-with-iot-central/
+excerpt: "Learn how to create an Azure IoT Central application to control Internet of Things devices that communicate through unique connection strings."
+webUrl: https://docs.microsoft.com/learn/modules/monitor-and-manage-device-with-iot-central/
 type: course
 price: Free
-length: 67 mins
+length: PT1H7M
 ratings:
   count: 169
   average: 4.5798817
-heat: 50
+heat: 57
 
 provider:
   name: Microsoft Learn
@@ -25,13 +25,6 @@ topics:
   - Azure
   - IoT
 
-images:
-  - url: https://docs.microsoft.com/learn/achievements/monitor-and-manage-device-with-iot-central-social.png
-    width: 200
-    height: 200
-    isCached: true
-    title: "Monitor and manage your coffee machine with Azure IoT Central"
-
-secured: "6cfpmTnZrWRVuJhVEOkaSUVvrdcgjD/Uq2VJdze0AfZnQhgcBr3OiRIF25HbquGdysxjW1NyHPWhsYgKG6QzK3LauBpe/MOmEtaDtgz6UusJ3HG0nZ1gNTJ0aqHx3H7mE66Z7TK6HIhc3wWEUR8AdEL9rnEG+2qoWryk2aJ/aVJ2XTJkRKpdqujsWA4Ih/zvdtEsjmVUTPpPTF5ekxFM/NqxOrUJRvy68Fv4mMEWyhyvs1WVTFjzM0js7pJNYGhNURcZiOFLyqSFXLX5eEa3QFo+/mFAIoAHFul2xPnJwan5+53r1w+5WyuvEWph6XeyD2bsRcBPHzqKv+K/u7BQTtBHxJRtPf4D3MsCPMn3Br4KqqgKUkWy8x6qkY+O9GSwpk0AQWejoB7xWwxM++FJ/RrCdnbI9uIBYYutAq6lfnU=;AW3Sk2BFhll4AhsWOuPWwA=="
+secured: "adRgULQTZYeIr71P2C/DwEmrafzDKk1nxmIFWjgGGDAlf5z4LTUwNhXDQL1GsaSiTbVxhHaLkLW6rf/Iaugr0OAr349zV2jhVE1OfyvvN8qXGhvQTnT+Jox/nn4fkCZh+QG19j1OFp9vNz1DqsmA9rA1JuBTQQCi1j5D96/s+Iqi1ca+yGwa7XTdPxtPemVuCxWnrDX1h5hiDHoeg2Q1rdBn97KvlnkIxia463HRSfA+wJp7HXrXVNQJ90knbt+K4QpQi0YhfJcU36RggDw0c0MZId4j3gyNToR2YsMz2kkHhnspTBUcOLezBRAd10x5/KIYseft8a2YhY0Xkuq19PjRM4IU3Cl2fzJmKplvQNNyoaIllZ21DH+4jtHb4MfYVFz1xmyM1QbZo94zVKi3aA==;t9KAKo8miKbjlGhmeDzd2Q=="
 ---
 

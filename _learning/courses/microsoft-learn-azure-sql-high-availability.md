@@ -1,14 +1,14 @@
 ---
-title: "Deploy highly available solutions with Azure SQL"
-excerpt: "Deploy highly available solutions with Azure SQL"
-webUrl: https://docs.microsoft.com/en-us/learn/modules/azure-sql-high-availability/
+title: "Deploy highly available solutions by using Azure SQL"
+excerpt: "In this module, you'll learn how to deploy highly available solutions by using Azure SQL. You'll also look at architectures and how they affect availability."
+webUrl: https://docs.microsoft.com/learn/modules/azure-sql-high-availability/
 type: course
 price: Free
 length: PT1H34M
 ratings:
   count: 25
   average: 4.72
-heat: 110
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     height: 325
     isCached: true
 
-secured: "ufGuqk1IUUsFJuqImA/NYAEbaiwGsuKZ9WpVgOfwnsPGYOYNobwmcAdAkKfoN/zNm65NWzuUZeCR3PKHAjILzfDw1r2GBDb3XpGhTU3UE0CxxzoMQ4GIxgzdqPaWjpGa6N9UrQ/2uPf2omCNaJP6yoF3fZwZbwmxMnR16IocptU8PkINiYg+d4ncFIj56N//ay70k77Avdiy6X1N8R3WpENpUGRRy/y1/MxrhNBcNEmZmG1PeRRKt09P3pn1XMA7EqUyscGMnJcImCP3iP8tg+CU4r4tZ3t6DxrWQ7OS3yV0UT3zeTCXfq9GK39Ej+PxlSviV3f0qSyntNLNQv8TveEBNav/FSOfEfWAZOVvm4zIQEzkR1UczA8KiuiYzxugjWyET944yXMwa5eMxmbp4OZ17dlmN3K5G+tWmcPsi9w=;Hg4E3lZfnQHiVup1ny1zZg=="
+secured: "UZectKL69axhbNUR7nCSr7mmUCzRbe3Vma9PWyzAF/x3gcCCXUZiwdQvchTlHuuugIyYR8vy6U8o5cm4rHob4PJaz2/zthMRe1RgjD/3rbVnXnV9WN9piQC7EVRZdCy7zyItSt7DWjo/XGKVf9rfdi6klagIDgsYUIdvoN0cg6WvXU0o2Qv5SzHvJUHmCjnKfPaL2k7JO5XH0sQXPsnFHoNlAAo7gH5aA9XGoAsFg7Ffd2++vGgcj9XcfjmTO+B6DLhwbyXCEl1pP/FX5BMWIMEAn+x9j4nIChN4NV8puTGb9ngXBvrn2W+s9necb8otp4je8xpWFEihmyR3J/kXUndwsj3/f+ZQBNd9q1YkVu+cZde3Hv/HTvwNNRClT0Wannru6y4QMcrH+ZDJqRKhnQ==;e48C2ca6RUkLFwUlFrdUlA=="
 ---
 

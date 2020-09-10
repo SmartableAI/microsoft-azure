@@ -1,14 +1,14 @@
 ---
 title: "Make predictions with linear regression"
-excerpt: "Learn how to make predictions using linear regression"
-webUrl: https://docs.microsoft.com/en-us/learn/modules/make-predictions-with-linear-regression/
+excerpt: "Learn"
+webUrl: https://docs.microsoft.com/learn/modules/make-predictions-with-linear-regression/
 type: course
 price: Free
 length: PT1H27M
 ratings:
   count: 38
   average: 4.7894735
-heat: 50
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -29,8 +29,7 @@ images:
     width: 640
     height: 320
     isCached: true
-    title: "Make predictions with linear regression"
 
-secured: "C1B1+PH7AhA0ckzbZzacuajgJj790iQioVPjhqnRB6wRma4IeLzy4gz2PnKi968N/6TFYtsXXt9nr6GJD59A5/xH/jNCrBDtyQvY1ab/bXOBucwTwzLqLnVrvDbsy5S1z/gB55VINRwdEVMty8Do2vX2laRbDqTQiZnvQdK1ZL2kOB3R0faOAfa8SVVG9EuWwVffce6SEbaBQvSAsLeU6zLtyW9QY5Z0ONkttBS2oO5RR4N96btZNyzImgzJHD2rMbc54cW200d+C49Hbj9YXpXeeOg6+mp2h6V+/Ra+pI5Xlu3uuNgEa3bYz85d7Xo7xonelAYqkJ+9um5k3uYtOjI9jY6Bz2C7sj9W4wbaEJ//deydoYxazo/GWVZpDOU4wqp3Wsi5X4xyRCmqHRA3N0qHRjiuXJO1FKNJemQxZ+8=;9TboAispOL6kLu/r/5P8rg=="
+secured: "KO7yPxOwnHvgTNmotVBIYMilo03GWMf527/S6cQiqa7jIy8I/8PC+xnknBpVrtiU8CS7aGZDirfyn4tKmwrg7bOfFeQcT5TzYWyjoEXt+C/p39kv8SW0LqEuZGEqgMgt5qAE64uuaIavp0mwOD5GHm/c0p5LlebEDqU+oZSLbmLfV8GojeG9tEgs9qCQZcLtFD6uLa40THDAeUINkWD3YT9yPWTgkZptL98qzqmBiusyMDsGk8AolJriHkmQG0MbKHqLzFThPG3N+9FOPLbZSb3i+fthmu6V++8haCVTDlCwn3AfPL9l/EbthOq7P+hfsUuo2L8gVPr+vXO9SrUvFXtbHTPpCv65WK7JHAqE/mOMuBRAPgJlYJSTqojuDAXnW7Q+P3azjpAbVPFLu1iyPA==;2tcIqvPfHcNHbpQmuDRISg=="
 ---
 

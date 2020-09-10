@@ -1,7 +1,7 @@
 ---
 title: "Build a chat bot with the Azure portal"
 excerpt: "Create and test a basic chat bot using the Azure portal"
-webUrl: https://docs.microsoft.com/en-us/learn/modules/build-chat-bot-azure-portal/
+webUrl: https://docs.microsoft.com/learn/modules/build-chat-bot-azure-portal/
 type: course
 price: Free
 length: PT20M
@@ -31,6 +31,6 @@ images:
     height: 320
     isCached: true
 
-secured: "pQadQRjWTihQRD4OrHBFzxkuAYcSdxj64ro9LbJX6BzzNf1cuUKAyz1ZQ1efnOiyWGKR9IuPgvIU7pMDhTgdQA86xVjdTArQtmE8PuaJNfv1TVYiYMMVJacBUFlmihDEEYyF5HeoIumklDCXWXGWY9mMjj/+WzAnMVr9qk0L8czNi72lDvLFFbSMVaYMJZI77p6poiCpBZth/KhR2CElxo8lyPb576oWEUbdm0TWDcX78bGBl7oTEZVgc5lHtwbnvSDHyczG235HzZg6uZUFD42NkwnPccW6eJ2rpKp6bnY2UHnItxy+0FFNgkXjIkpk9ofUD9zEh2RRtrV/Guw39q5/wKwIWcyfuy1LQj6dSRncJfXA0BRc79Ksceu4Ln7g71yaz6n4KGXRHOQlTh1xBQ==;fw/Rszd9XnXCa8SXVBvCcA=="
+secured: "ljTlqEDEQPosvK0BuF88Ri9+qJQeDo7+8Vi8AsG6/3mpiLwJOOD3bN46U8bWHPIf9mumDWtviIpFUk5t7atz/WsKHmkLYnHHnJ1Eoa8S1Korgu3f4+BQITdq3oDzTMTUKcBFlaS8mfuEfS9VzKQpESp6WrWmGhtHdx+TKih6Jwuy5243aoFW5X61tx9ZdK68wIr03/Yckb5/I+Szz/2ONkI0T1rlpHnFKE9fz7iTCSpiDMj0jkaeSWySLcwBoZbYopu0RDIbV+YX7RXdYk/XLZBwM7aZcxlHG6AtAFrKfI5d4WhE9d6tO8yGXZOMdxV80ghKXKwX4kfMgQFDSYVfYGIPTjju1iRKEPUNw0KpmtxJpVZeJOkOK5KK4hfAMusylPcNtOz2MXWVeBt3UAHeQQ==;x96YYsNlHuN5XxDVlj6nDw=="
 ---
 

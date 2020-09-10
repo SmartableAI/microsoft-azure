@@ -1,14 +1,14 @@
 ---
 title: "Assess your existing software development process"
-excerpt: "Use a value stream map to help you examine your existing processes and technologies."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/assess-your-development-process/
+excerpt: "Find out how to assess efficiency with a value stream map to help you examine your existing release processes and technologies."
+webUrl: https://docs.microsoft.com/learn/modules/assess-your-development-process/
 type: course
 price: Free
 length: PT19M
 ratings:
   count: 6595
   average: 4.705686
-heat: 54
+heat: 167
 
 provider:
   name: Microsoft Learn
@@ -29,8 +29,7 @@ images:
     width: 800
     height: 400
     isCached: true
-    title: "Assess your existing software development process"
 
-secured: "beeVjoAzINxGqC4ihXkuJg9p+eCVManp1uM0dtsD5LtaX6l7E0hvpFEwvA3u7ifDLt/3UTilkpI1IQyejNNuNPRJkwmmwf7gbp1FVRkg5IMmLK+IP7vVQB4R8627FFC/czA4XRt83YR4qzxlTTEisP0RHItTScsRqnmdhIOTROUN0tE+5XAeNvuWiVHAgZzeNFvDye+SwuPmnT1A77p2bEQHyHghLHilvDx6xudWnO4sdexTmM6NSwGdArqONbNhlm7XkFUQmK0lXqL5/k6J0YVaXvVN86NBYlmrVwopsk72yC1/yGybHlAXeWiImdkmf/r1jnoP+TFAqWiAD3w97O7/ibUh0eKxbMqE304KEQXkAn1JXntz8mbARkIJ/8nY4wZtzB7UvfYDYluocB5aygoH3vR3LOXYqlMAgBL04Gc=;sXwqFRc+OiS8xTz0Ce4Jeg=="
+secured: "g/97O9lxgxY9aUXlBesg4VPnekYuxtuRW9WLKu9uDWyGMzX5dMD3QdxADcylszT7vybRl/GnVeb+L4F/xLJ7l7Osc7e+VxwnsvKijd1LAfXSBc9auIn3lTWZx4BBoFs17Atxlx1P+qLb8bqACN4JkBa3rhQCq6bbfLXHJnspcGD/hqeRnenbACM+FajrBGw+qs3looWE2PPj8zzxm0S5lD99oO3mdEucU0kqeTyEcnOdAVxQDH7Q0f9f59XOQCaS84T23qcZhdXEhLwa4PL/C0k1VfgD9xPuZ+n9NorQPFnQdn7yY99YAlRmLrFWei+116WgZsEa24ihbW0LI2xvftJXmqblRwfvkEMDURLrRfwnoKVGRfNo0Tia3AHD1fDqNM9QHKZnz+SeHsi2nVy2Bg==;HeXlvfqDYNEh4L+i6AQlPw=="
 ---
 

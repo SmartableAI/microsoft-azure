@@ -1,14 +1,14 @@
 ---
 title: "Approach your data-flow diagram with the right threat model focus"
 excerpt: "Threat modeling is an effective technique to help you identify threats and ways to reduce or eliminate risk. We start by deciding to focus on either what needs to be protected or who it needs protection from."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/tm-approach-your-data-flow-diagram-with-the-right-threat-model-focus/
+webUrl: https://docs.microsoft.com/learn/modules/tm-approach-your-data-flow-diagram-with-the-right-threat-model-focus/
 type: course
 price: Free
-length: 8 mins
+length: PT8M
 ratings:
   count: 204
   average: 4.740196
-heat: 50
+heat: 58
 
 provider:
   name: Microsoft Learn
@@ -22,22 +22,16 @@ levels:
   - Beginner
 
 topics:
-  - Security
   - Azure
   - IoT
+  - Security
 
 images:
-  - url: https://docs.microsoft.com/learn/achievements/generic-badge-social.png
-    width: 800
-    height: 400
-    isCached: true
-    title: "Approach your data-flow diagram with the right threat model focus"
   - url: https://docs.microsoft.com/learn/achievements/approach-your-data-flow-diagram-with-the-right-threat-model-focus-social.png
     width: 640
     height: 320
     isCached: true
-    title: "Approach your data-flow diagram with the right threat model focus"
 
-secured: "zKkQf3VjpG9yC90bv/Ztfgpw0YtvUBfFrUY6nCdpHUuMX1i4wceB6guLXjBc7e+wyBbX1vdEHjvpHFZOGWy7Ax4T1Q00xexl3MA1BFf7hsO7yvytDFIpOyNxUEWW7Dt7zE2V6sI8XprlVXPb5yOwKopexlisPhO8JNX8D+p+wTmvhTvL9RqJWk15f+MDGrnfATsyqSSKGoDipvZMW9Q/vnnxSNlKMPTu70Cq7L+JDplF/QULbgLJJS6XwGadybMykdamRgURgxjNb7+bXDpJix/Zmq4X4Uf8pk/aUb2suiGMhpPFR/A3MxCbSoc4WUVco8hytY3uPe/iYEvXmiBFSB7nUv2GsGH/unyFU+vqvd9iytM9aeD2X/+qBDQOJEbp+Bx8X99hVcakSsAAnN76LNOrEB8pQg0MmhUPqzvqlIg=;x08qRs17PdGvRpidZSD2gQ=="
+secured: "dYNAD5/ZJcq/tNW9eIRu6/uTSb+61by4Q3E73PdxiBw0LmpnKosto3geQS3/hJ7f9ClkJ2Tzs+ok7geI9x1Nbj/CHC20mPps/lfeSf7MsSAup220XYIxcBuIHSj9lcWOxuaUPz+WyUrmU1ELafkkjX4Q9SL/xrJy3eacCn40PGMDTUIgTZpOAhX9gUb0LWclyv3OWXJM2Apln1r2q63sHvrTs8P9eFxjHSopTayIxQ/tYqLd9PP41SdV6zNZ0kpgRdqlYXJ58Pm7u/LVcCbybKpFt793hyLKiYqggkFctrDM7aSMYQ0demw7D7DEpvLpAuuzxBwhhzQR+a6JvqEoWj2uxh2V/gdi6D1P1cHczpxxNGpL1fSgeSqUsOXQFwTw1CVS5vwH7vmXsLNp6ntI8A==;2Gz4GycHXm8UsS7nH1rgdQ=="
 ---
 

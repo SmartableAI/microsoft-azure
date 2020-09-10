@@ -1,14 +1,14 @@
 ---
 title: "Automate cloud resource management"
-excerpt: "Learn about how to automate cloud resource management with scripts and infrastructure-as-code tools like Terraform."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/cmu-orchestration/
+excerpt: "Cloud Admin course from Dr. Majd Sakr at Carnegie Mellon University. Learn about how to automate cloud resource management with scripts and infrastructure-as-code tools like Terraform."
+webUrl: https://docs.microsoft.com/learn/modules/cmu-orchestration/
 type: course
 price: Free
-length: 55 mins
+length: PT55M
 ratings:
   count: 76
   average: 4.631579
-heat: 52
+heat: 53
 
 provider:
   name: Microsoft Learn
@@ -29,8 +29,7 @@ images:
     width: 800
     height: 400
     isCached: true
-    title: "Automate cloud resource management"
 
-secured: "lVyKOsUDGb9R3Jla1KtMGHrv8EtWFSvevztxEKHrNf1KW27EoMKchejGjJho9FGlyC1Toi6Or5BO/qHJjGsiHmwiyfX9v8UWhQ/Xajiq38FYwIKqUoMFRu39JmltPaUTHuB07cLI4vMWUQvyDLrkFZh5A2yOeKgmrGRVh5xBPp4jWe5vPVUV5H08rLDKgV6yO/lbJ6cDrJ7g+feJC3MK8keQ6RPPZffOVGQAYfOGviwOo584bB7nkc/BwkQ2ZVeH2+6h1Zh41xDbrgDl3jkoz5vk7wMAyzxD3LLtq8jnsXiFS8Sr/QHT795d7PN/f+FErDZpGXJM9JLqrKFDRynyPASBwPVetC0BW950jRLxUwCcvzAysOGilQ282/Xfm+IQOg+0lVo5jgj1dfk5k53J19yPq/z6JxX4AXsZkmqF1Hc=;9CfLczQNEL1tGwNFUF2A3w=="
+secured: "zxQ0iCj5RIx0UyARA63ICcJuKiLTAYir8RTiNHKyhKHBZsp6lmp2nzQbDZdbp1oHW3BI+Zl7bEf8RZH1AnD//Kv4aOkjia7YUw89hLDunV+OK/xyWG5sMQV64IJqnHf8ybes8eqVc3wAhM+qlhYYWRnLtft4Lapg/sLmIsUkGr0b3PgKAjV/UpXLQAV8ZT74+wLkmY/pH1cE6Q7yYckxG7JWb5TefwmBFTE3QHZ3yk4xl24YVOl5dzdmX7Va9ZxPCp71cgm8o8B+WyTHerLTGWxFftiw0kPxfebDZ6XSlhhsY7328lj7x7j0ku9wc2NSOrqDZ7Vyt+88ZoUKvaWn3gLXA1YkRUZtXrXZD4nWkRY3FBbw4DvW1bSvAf9ZkD2ILkLSsjQGO6l+1yaINNJK6w==;/R5le/WsB2Afw3J+0wlSkQ=="
 ---
 

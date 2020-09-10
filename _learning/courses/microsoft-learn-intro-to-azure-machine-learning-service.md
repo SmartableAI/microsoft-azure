@@ -1,14 +1,14 @@
 ---
-title: "Introduction to Azure Machine Learning"
-excerpt: "Introduction to Azure Machine Learning"
-webUrl: https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-machine-learning-service/
+title: "Introduction to the Azure Machine Learning SDK"
+excerpt: "Azure Machine Learning provides a cloud-based platform for training, deploying, and managing machine learning models."
+webUrl: https://docs.microsoft.com/learn/modules/intro-to-azure-machine-learning-service/
 type: course
 price: Free
-length: 42 mins
+length: PT40M
 ratings:
   count: 1991
   average: 4.6092415
-heat: 50
+heat: 107
 
 provider:
   name: Microsoft Learn
@@ -23,20 +23,13 @@ levels:
 
 topics:
   - Azure
-  - AI
 
 images:
-  - url: https://docs.microsoft.com/learn/achievements/data-ai/intro-to-azure-machine-learning-service-badge-social.png
-    width: 800
-    height: 400
-    isCached: true
-    title: "Introduction to Azure Machine Learning"
   - url: https://docs.microsoft.com/learn/achievements/intro-to-azure-machine-learning-service-badge-social.png
     width: 800
     height: 400
     isCached: true
-    title: "Introduction to Azure Machine Learning"
 
-secured: "iAbycPMs6mA1xdeOX0Y4XFPxUFLFZPpSQ7NwOdHV5uOJARBS5xPiGMZM0f4M7C2bJK5HAfa/zu/Vs6bUcZjM5nz4pNl2F/u9fMTUuVw8jCHIYHkvOCFZIe9Qaqcx/rx5OEEsHVwKz8PSKHX5uA8oNnOO2Jc8nrPbWR9RXufTQeGJp84sDU6vB9288ASgJMq8reeQtWETkcbIAeaIg/xK4Tawx5BsEoJO2ks41+0NyyHzojhskx54yNnRG1G26T9Uss2TuQ7ecPCWS7qQvW+Ru8XdFPmk9IGV/uQnV+9CXc9GZfMW4++G7u8Nf0Vuy3ChNMLghwFGuy0N9yPYxzXyJ+RtIdn8+mtfMY2L+Ez+wvRriq07P/QesFHu/NyN1PgDvAqAZvFP+HPc4ESftBQ5fLEoLUyjOmuRgvywkW7OIO4=;pdJndUiw8MNxQQvLU+WZQg=="
+secured: "QcbmrRL5+eL+9vwhpUlj0iX2tftAK22Cmo2l+S0d2PrhrSLdJcldn1hXnonSoXQaBdK9pOIhojzl/yF2Ydt/bFCiOTQhdH+TA5zrpaeN0JvLE3j0j6R+EsSODmjNoYZhkxTFfuddWtEdlGQASXBvIFyYgmsDyB3O7MHKiWwwW/topLA0aPGKXEO5POOEs64kn1JfPWyf/549PkB6jNpf+pa3OvClWaKiny2W5uq3YVXjDDLek1CsMgk4UvviUBVlAgBMTzVmI1QfVD7pu0WnV+rJCU67CsbKgMsFKzJ9yluktcvz3LnxhSRDFi6GjWDeZV+uHGUeLJulpHFquSMKVVVzw69Km77Zl2Ie5v+hZz/LYuIn8ZFLf5qqt7h5is9RIdysTksn91uqMYIFFowcuw==;TVpFgpPnjR/jTg5v8iotqg=="
 ---
 

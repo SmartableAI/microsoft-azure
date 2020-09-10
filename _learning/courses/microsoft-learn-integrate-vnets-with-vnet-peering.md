@@ -1,14 +1,14 @@
 ---
 title: "Distribute your services across Azure virtual networks and integrate them by using virtual network peering"
 excerpt: "Use virtual network peering to enable communication across virtual networks in a way that's secure and minimally complex."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/integrate-vnets-with-vnet-peering/
+webUrl: https://docs.microsoft.com/learn/modules/integrate-vnets-with-vnet-peering/
 type: course
 price: Free
-length: 42 mins
+length: PT42M
 ratings:
-  count: 2356
-  average: 4.7181664
-heat: 60
+  count: 2357
+  average: 4.718286
+heat: 115
 
 provider:
   name: Microsoft Learn
@@ -30,8 +30,7 @@ images:
     width: 800
     height: 400
     isCached: true
-    title: "Distribute your services across Azure virtual networks and integrate them by using virtual network peering"
 
-secured: "SY/21l1ddTeGhF8wHzAuaGwimX1yxe6eI+U9VjrXh8ZSLC0+GJrc6Y3RNeJCdulJ48Vorxn2HOgvzoRfMphClIVGomcx5s2/tm/pg28yXYbg0hPmvG+gCqVcz4kBWY3LpMN70ZrPzHWPm/gj1atwzANb5BCSn0jfgjY28W265yZY/qfS68j96dtesdWZk/U9t+20LdluO4IvVC6FoUxnphDBLk6Bxlpm2i/MG97tJhTMtjAn3baMXSNVoBewc2/JshTQIFTVI+hhDYb4t77EeJPG0/K+xFaJIizLdJLkXRToHgIAaMWFOxdEIAPNm7p6pAFF8w23Y5EXxhEAfnDZm/5/40OGRIZOV/efUFgZ2gWSzJ7ueTQniMRXfLXsf4fYbVjzcgCiwyCrQxh55CYa6yRpi+UAAt7mDoU9Us9yj18=;osP/+oZl671PVWhBK6tfVQ=="
+secured: "dGFuedVh08IUWNbl+OMXxqlPb8xdMI6x0Wldf3ua4EEH6IM4fd+RVfxUXTq0ZYbTqsjhmrHwoy26+N/l4R/hMFhRemtYpT+yKnq2HFQw60Vn+qE1e7haSGSE7a7zOoChX1jn5D/EitvoSY6tZeeDlqmg60ObWQjaf00CQKsqOoEAguh4EQIKZjkDQXv6pEDLKe1VzjVq/OU2lLsKyEer+vV18asLY7vdIxuvS67iUemgR50YPtijK0P4rgSfLjwSqgQijIIv2VWq73ywAVwNVYAxleHx9CakvXMWesoXsOUqBnJY9QFl3M2btyi5YD2KVlqcVDxazU3gHvptbXlPbTsDtgphemOZT5dOfenI9OrqP81NDKJho0tNdxphmfiyGguIVFQR7dQwanWbJQK1yQ==;u7hyWp9y25Yxi/4AVLUUkw=="
 ---
 

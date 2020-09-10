@@ -1,7 +1,7 @@
 ---
 title: "Work with MLflow in Azure Databricks"
-excerpt: "Use MLflow to track machine learning experiments. Each experiment run can record parameters, metrics, artifacts, source code, and model."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/work-with-mlflow-azure-databricks/
+excerpt: "Work with MLflow in Azure Databricks"
+webUrl: https://docs.microsoft.com/learn/modules/work-with-mlflow-azure-databricks/
 type: course
 price: Free
 length: PT33M
@@ -31,8 +31,7 @@ images:
     width: 640
     height: 320
     isCached: true
-    title: "Work with MLflow in Azure Databricks"
 
-secured: "GhMzgAn1TCvAYBndhBRvAWzNCKUhS67LMGwArdifXimPaILD96zj5Dsv6S5le7aiDVFeZ6HG7aXGApGIsmjXW8rD3fo0qjdfEWIxhaPxA6j+DmXhJ6AJRk+mhwsnIB6rKBHf5TcUzNyR13kK08DOhmE39NlS+EAJYHVGcExbfPIDcNabW0wgfVsgLKWDGRUbndxeBN9cWZh1wxwdsB8hG4cNnK/sxHeSwv5gH6FFJ/3YZoIiCRumrOWwepvJH6jx7A5LGRIksX5MDujMComOUskvre+e65A/aDFoHoeTq/IUOBJLd5bNWnnu2unjSwmLeXQnbRpSY1bOs9RRpP9tm7y4TMp1+CqQ0Tno+6ZIkS5/okoy8RBF6gxJwe1uwwoolkgMOv2cRZ7BrNbEMk+M/iQoUI1JoXKtLePSHSfEOa0=;v2b+h0W+JmfTDayE8ERKmw=="
+secured: "AZICYTXd4wAadsrXBKyC7aa3x4qW9hPtVhx6we3t5oKLPQFiNNeQlCNDfr+mvXoptAVQtwZ6YdwI7Lew188KfTb287p1amPWDbUSVzXUBkiZaMOrBVya2K3EOmixlKiPsGwA/m/Grg1OFqdmR5HJcT6WP4p+bJ1WjwNXO5uBLYU7oo6vm+5GYDbY7Rnlvq9zbb4c584TuB5LWCiP7tGpF7giHPQrnZ+yqw1tqFILjyV2ediQ4UihPQ8mMNSG+3NBqon7rmXWw26VNccseP/4+UNYxrZUBUZhdppuqPhLzmkeVmLYTNUallTZgSipOGuPw5PKb0MHXnmwIgyuHI4uzVV41CWhCNYb+P4+geC5Qy2bDn3EB1mcmfGHL48qJ10FIQeT87Fqma44Ork+t4BsUA==;OjX2k2NV3TVg5Y7VrzSaNg=="
 ---
 

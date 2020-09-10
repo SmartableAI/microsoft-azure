@@ -4,7 +4,7 @@ excerpt: "Learn to use a Windows or Linux Azure Virtual Machine to extend the we
 type: collection
 price: Free
 length: PT4H6M
-heat: 87
+heat: 244
 
 provider:
   name: Microsoft Learn
@@ -35,11 +35,10 @@ topics:
   - Management Tools
 
 images:
-  - url: https://docs.microsoft.com/learn/achievements/intro-to-azure-virtual-machines-social.png
-    width: 200
-    height: 200
+  - url: https://docs.microsoft.com/learn/achievements/create-windows-virtual-machine-in-azure-social.png
+    width: 1000
+    height: 500
     isCached: true
-    title: "Introduction to Azure virtual machines"
 
 secured: "llCPuxKJ9ukJbaDS6heStQmMU+07ovvX0xu5Lb1jCP6AdcpD/ESJuwU5RLFl3Co+aguyfyxtr28FBkvgewwZKjAPO1RdYekiFq1PlIyinnoXTpc0/7DkwhzKFooWpvpUP34BW/9jClXVL9G0zusmr3EBBYxwcKKBTUlBRjIzxtYiZDCIQix1V/WHDPyGUA4+bC0mHW3EajeQOfhg4CRoDcmxnV8Y8Sa84xOuLQ1m4US1oHssLRHegn9+n9xE7Fv2ObtpdpmNZCzqbmvb3uL5w0nInyNdtWmlz20eWD77LefmM4CyAH8JJPbbVFZzTL4lwo708EfSUgILw1QV4g/4BQ==;tLMFKdF9r+NcqOH1qXBX6A=="
 ---

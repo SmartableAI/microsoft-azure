@@ -4,7 +4,7 @@ excerpt: "This learning path guides data engineers through the evolving benefits
 type: collection
 price: Free
 length: PT1H51M
-heat: 60
+heat: 141
 
 provider:
   name: Microsoft Learn
@@ -38,7 +38,6 @@ images:
     width: 800
     height: 400
     isCached: true
-    title: "Understand the evolving world of data"
 
 secured: "Bp+cH8n/X3z4sDdkftf/j/o81iTGly+R3RW1EaPoTN/iCuz7XCYz8gOghKHVYHNXy2I4L7aDsKw1RFWkIVvU01lQUyuOr782nakZBCBfu6hTQDr4vxbIX38qHfr1wXoJUvW23CYXAEBVg0mUXPG9gC4MyEKprVE9Mdi3SiblC83mepj5+ExWDHBACwXYA4rUrE17TMvWjOx1wAIgt+nyxkjfOzWtNK7dXgI+xVI/Q5ZgHHS46tmiP+vh7bUBVfIRe89zwJorY37G5ctyhDhymUhFIAwMWsc7epUThCZB6d9xXDNLH/gwcgemvahTl9RnRYtkabmmlAOSZObFdrqcxw==;Wj+So8RFojDthbQQRrM8wA=="
 ---

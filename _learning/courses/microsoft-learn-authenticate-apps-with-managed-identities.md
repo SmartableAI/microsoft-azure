@@ -1,14 +1,14 @@
 ---
 title: "Authenticate apps to Azure services by using service principals and managed identities for Azure resources"
-excerpt: "Securely authenticate applications to Azure to manage and access Azure services. Service principals and managed identities for Azure resources give your app an Azure Active Directory identity."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/authenticate-apps-with-managed-identities/
+excerpt: "Securely authenticate apps to Azure to manage and access Azure services. Service principals and managed identities give your app an Azure AD identity."
+webUrl: https://docs.microsoft.com/learn/modules/authenticate-apps-with-managed-identities/
 type: course
 price: Free
-length: 66 mins
+length: PT1H6M
 ratings:
   count: 106
   average: 4.518868
-heat: 52
+heat: 54
 
 provider:
   name: Microsoft Learn
@@ -29,8 +29,7 @@ images:
     width: 800
     height: 400
     isCached: true
-    title: "Authenticate apps to Azure services by using service principals and managed identities for Azure resources"
 
-secured: "j/9FoyHWCYDlpKmKQND7SAeG3QicOPmLysittmG8yYUwEmlLXQ/nTV2FBzYRmj3gEjJBi9b531Myevi6irvR1f7MKJxI4arV2PpnBUmItC1GozmvBLnxgpm++lFYveTvyveQ2NurQJwhAJZqCvNrnaBsOLkAeFj7LwhTeIEe0ISkugI4vpADNjNfEWs1pkeC1+uLcrznjHI9/z9eV46Zs2gwtz9AWDx8aRwSF/HNrObIGKCWoxkC4MLSaRVCRyl8P+VTxGQeChVkhWTyQq4pmNle0TR9YEIwdesly3xTI4c1Tugbuwg/qaVwZeDxQnWTu971N9Dee7HIySdC1Jxvjff0QKandG3OULSecVcJRShn/ud6P/deaOYUaWRMZzn1G8TKxBV5sdCCfZuXBiAqfovanAH29hnQ9bsHqscPWd0=;iow4DXLyCQ0eKoB2a2UgJQ=="
+secured: "b3GvifP9SoNswAO6dmIQ4DG5+6+fGe6UdaRbJBFycyE/EuV0mfCDeoebggrnYqfMxyWe+JwB0LJfbXZDDrl64a7aMmGl1QTFX/lbbpXsqL9wWRiaheHlsf7RsNF6/C+Y5AEsLao/yuGw79aKelWRzEP/i+2WFIFLZLU5k3SMkyJIB94z0V7rOJN30GIuevz/DKg0wxeL1Pf9xTxgcp7dQCXxqGeDJ0pw7kdGo5Teukolu+L7XzNcxTQx4Lxr39IcO/oLW5YXaCOdOGGUxIbZOVuJWERnP7fYpglrahUwGyZVYK4HkR4TBrqVclJxyZWP+LJaNHk14aSPqYVDjueqPcifKPghhvQVuvvaq5YSTNV9a2w/l3D3Jr/eGS9x2UAkA1/XPaG6s9Aao2DMEGXWUA==;2XtBOwqtifZfgGvbO6gbHw=="
 ---
 

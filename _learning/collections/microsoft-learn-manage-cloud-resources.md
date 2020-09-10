@@ -4,7 +4,7 @@ excerpt: "Learn more about how the cloud works by exploring it's underlying tech
 type: collection
 price: Free
 length: PT2H31M
-heat: 52
+heat: 53
 
 provider:
   name: Microsoft Learn

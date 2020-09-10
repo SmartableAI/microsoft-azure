@@ -1,14 +1,14 @@
 ---
 title: "Allow users to reset their password with Azure Active Directory self-service password reset"
-excerpt: "Evaluate self-service password reset to allow users in your organization to reset their passwords or unlock their accounts. Set up, configure, and test self-service password reset."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/allow-users-reset-their-password/
+excerpt: "Learn how to allow users to reset their password with Azure Active Directory self-service password reset."
+webUrl: https://docs.microsoft.com/learn/modules/allow-users-reset-their-password/
 type: course
 price: Free
-length: 31 mins
+length: PT31M
 ratings:
   count: 1408
   average: 4.703125
-heat: 61
+heat: 95
 
 provider:
   name: Microsoft Learn
@@ -30,8 +30,7 @@ images:
     width: 800
     height: 400
     isCached: true
-    title: "Allow users to reset their password with Azure Active Directory self-service password reset"
 
-secured: "N1v3tC0XSmPhiZcKdHp3DJWjizFJsrCbdFpbaXKTiujn6k0ZVvTkS1nzBGyDqRJmOFWPl1g2jWNUHTSV0JnTlIcM8J72ZfpZiUPoaOiBLSAsbxRRmpZVWThSB0MtCRxolz+B2JrDhWgreysXCXF26f3ePeHTOgWPg7W+uzEdSvnhz2MxhfKQ1+tHjf2bysRu5bsYKI9nV90zAvgqQ7eug2ES5mf0mYgp6UM/+2P9lRThNBtZ35pZrGI83oYNuDWxo4fQUALlXzxyeRj2f7zFAnYOLxjpz8m2FnmqtryNhAW7A8sJoLfuMpzqQsUHBDfAk6oDxI87CyYXf8ODwXSwxTC5oEm7frW2gLfiLBef/Tb3HXqCZaWa2viMXJhXFRClV7SQg40eaj+++jTtnJHcLpjuWshyr8n6v281N/RN1Ts=;P9VbN980jYzkbXSwqZgxPA=="
+secured: "zciaFPv1LM1n1pNvvWS36wVxrV48evO70a4yvp6n1kimw9bMF58ih2XSXUOXYJLsvJErZRJPmYkMNQ9tB42/ZgCCvSk+kAW4eMO1rjjk+jMlRUe66TUP/p1Bmh7vvPqjRKFG92/lB1Y6h9RfFy00GDlp9IF8bq3heAKdn3iQ9000eOikmyWgtmX7zJQMAABO6goyLNh/S7dmzX9CyjKOXgdXS64CLKtJZGregiruJFVXBAnLllJrvJsv9tN8gb83/CdLTRzDnBRHjbJVGOfFUYKZ97n6NSSrQGjw25uftkLhw5i0GcJsiKo+iZiDIJj+GFC19wB/lTh2z0tUc4WKCejhrqvSKCHNWFlXxpRIqToWd6V1Xfr8l5zoY4MroToYu26mqEYNtJn6Izd/FVYkoA==;s1K2sS4MD2XPfRK3KZ/BcA=="
 ---
 

@@ -1,14 +1,14 @@
 ---
 title: "Publish and manage your APIs with Azure API Management"
-excerpt: "Use API management to control who uses your APIs, to enforce usage policies, and to present a professional front-end to developers using the API."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/publish-manage-apis-with-azure-api-management/
+excerpt: "Learn about using an Azure API gateway to share APIs with partners, and how to use subscription keys to control access to your APIs."
+webUrl: https://docs.microsoft.com/learn/modules/publish-manage-apis-with-azure-api-management/
 type: course
 price: Free
-length: 38 mins
+length: PT38M
 ratings:
   count: 1075
   average: 4.6613955
-heat: 54
+heat: 86
 
 provider:
   name: Microsoft Learn
@@ -31,8 +31,7 @@ images:
     width: 800
     height: 400
     isCached: true
-    title: "Publish and manage your APIs with Azure API Management"
 
-secured: "N8mUtRD0QfZdDycMTXxhPDDbsfAYdgp7UGXlLdZWSnglGgGGDziHaaqxuiQQJZQvbvL5Q9qqZi4XQKw3v1JfkFNUS3aF5E6CRP8uIRKLZVO6K+00arVxmn736+M9RhG44yvXEvJ4aE8jtSg4iZSFfFH9EydgJ1UA1/u+H+UQBu4jJaFpvDt+HlSfSJyXDJCrOuPpEW80fPrtlP3EuEilbzEduIdxnKQ8i7Ztlfr5Jt8fr4OG8H1yUMs4/WL8yNHeBtIW7ZePqkTnLf8S6Uz8N6hU8rYCh4ZpiDrS2prViUB4EEapqht32efVQ5veO9iwYZPC2XEDrh1P82vOXIZCJvP8HluQ8jFjCPQ2Tg/Wmelijz+6ISJKhu69rpSqwVJPchrHtlRbGNqpDrOTC3sBvYuOjaU4no7IBMjj45cos44=;ZuoKm9YRRumN0C5MVr7Q9Q=="
+secured: "V6uNvroOthCZWbrbVlYQ6LUhT+g83aJ4B8kk6yGr0VHbEzSIVz/eElOE8OXtPiDNKFUeUmHikipIYTl5MoCJ0dy8RL6p9ljjrqMaI2FEy7tpHnlMs1Bc8J2gAn83hfJZozjNHQRIXWRmVazSvioqNb0HHnGgdRQDBbPlRUWL4sGf56J4HrOSCtGs3EBBPAtCbLo2XZPYyAtuZ/gQG/MN9+5Y6W5tWysajz/g4LWFbiY55i5VjC4gD9ZlioEhdfMJQkmFB3rIw5qxPUrItJxSbXKLtWVTWOuFbQqvyyOH6i2bqzQHa74KQHvQHb3Chs+DRAuf+tt9jJ3GjGfEKorKrtZZVL/MUpAqQ8RF2s6Kg1Gagf80wNfQZ5NauwkuOrkYzuCHBJK/j4leyv/VxFJ4Ww==;i3yvAMR38gb/L5nStnFmUg=="
 ---
 

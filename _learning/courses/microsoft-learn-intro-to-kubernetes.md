@@ -1,14 +1,14 @@
 ---
 title: "Introduction to Kubernetes"
-excerpt: "Determine the types of business problems that can be solved using Kubernetes. Describe the benefits of container orchestration with features like deployment management, automatic updates, and self-healing."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/intro-to-kubernetes/
+excerpt: "Get acquainted with the Kubernetes open-source container-orchestration system for automating application deployment, scaling, and management."
+webUrl: https://docs.microsoft.com/learn/modules/intro-to-kubernetes/
 type: course
 price: Free
-length: 53 mins
+length: PT53M
 ratings:
   count: 468
   average: 4.6025643
-heat: 56
+heat: 68
 
 provider:
   name: Microsoft Learn
@@ -30,8 +30,7 @@ images:
     width: 640
     height: 320
     isCached: true
-    title: "Introduction to Kubernetes"
 
-secured: "sRI3Wve9sBT7qdztGZs4abP70zSqpqY3KhfCJQ2EwQbkUPNSej7+cgFbR3BFViHCbbzAmHU8rAnrQ6eBUadYwITpZtlPXEk86bjEWUOqaUsD0cdBFYdGbn3szsBeSNS0eFfbjVpUfY+h6KLV07qAEefTSNkng75+mSfr1gECVDyaCbAFnFoaJMyofYzIdLaRulRMRTovyP0xPt1c2c3mug+Zhvb6oe/HN//If7fACjdnty9wcBAj+f4KKB54omYVqaQV8Vs0bA3/uoKH5HcmCjq907rIMbudhr6LTe8poS71g5jVreoFc4VNvZTQ/vdIGCbEd5SZTjydXVgQjOTMlYYQTFMKYLq0WW82jK7W1j19W9TBDKTHJSMjjfG2I0LiCvv9b+KBobTy37q9zvUhr4wcrn7h8sJKUDym2bW4gJs=;2fRetKG3chcptUPrZTZJYg=="
+secured: "/adFfGcHey5fwrYNCBT3RooSaro7oclgdGVSmbXVrw8koozpkJODKNBbrBN2iTZ/XyM3/vWuO872SzStaeaOl0MRDmIdu1Wmc9+7d/aI2y8W6PyJ/ZWZgM2llqrV4L90AJCYlBNHN+TdHCKg0jKfiAClXkyv9DZRGFL2jCV0AfDL2r0N+VEZ/UGebklsx8JtoBHMEmZoPF64r+8AKkWuK0S+Jljx9+6mY+AnDV7fG0yMtIbpoFcUGH65j1IVK7QIeQR6HE6/y/bbTyxK0gGAJy86dqcHT22k1jGhy5JCvMgf0vn2jgefHy5eE+OYJ3EdTeTDdFTMlXhZ9ZETGscRKd7NJgC/cIXoKcjEqIa5hXd9kO/BHSicYU+wb8uHiwGpQsBRRQ5bQhN/e7Tg/AtS6g==;XOHK4M0tleUJ5gZVyVAA9Q=="
 ---
 

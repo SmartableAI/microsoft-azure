@@ -4,7 +4,7 @@ excerpt: "Learn how to architect a data platform in Azure and build solutions to
 type: collection
 price: Free
 length: PT8H5M
-heat: 69
+heat: 174
 
 provider:
   name: Microsoft Learn
@@ -47,11 +47,10 @@ topics:
   - Analytics
 
 images:
-  - url: https://docs.microsoft.com/learn/achievements/intro-to-data-in-azure-social.png
-    width: 200
-    height: 200
+  - url: https://docs.microsoft.com/learn/achievements/azure-scale-azure-sql-databases-elastic-pools-social.png
+    width: 800
+    height: 400
     isCached: true
-    title: "Core Cloud Services - Azure data storage options"
 
 secured: "fgKVHP13B7Qb6j+jL+bU926s68IfID3oly41TFUyzZ6rwXsOyqDvR3nWdkD+r52l0ptlygNFhrqjtIOULTcRrY5qT6cSSLsHdFPMrsok1iLrICLKiOwksXQfKpP5moHtSe6Cek1UV64aRv6Hvf/lJXbVTxfW5zxcMjp11yWOaQNo+US90PY1pYTt7RFUzdQ0a66N9VEpMo6zIqgjAyNHrD5nEPIjHvSuFMIf/pi8oN5UC5zFalMzUa9R7eDtpXgIjHUJBKBP0Ird1BnzDszGy6KS3yHSxvTp5tWjQBRflp1hmhXxqFNC/etFWt9rqKFudyy9t0nAsOu9J22vXYa1iA==;aCqZRFbvQXH5Jl33YpTCNQ=="
 ---

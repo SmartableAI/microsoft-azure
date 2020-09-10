@@ -1,14 +1,14 @@
 ---
 title: "Manage enterprise security in HDInsight"
-excerpt: "Azure HDInsight in conjunction with other Azure services provides a comprehensive multi-tiered security solution and is a shared responsibility between Microsoft and the customer."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/manage-enterprise-security-hdinsight/
+excerpt: "Manage enterprise security in HDInsight"
+webUrl: https://docs.microsoft.com/learn/modules/manage-enterprise-security-hdinsight/
 type: course
 price: Free
 length: PT37M
 ratings:
   count: 45
   average: 4.6222224
-heat: 50
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -30,8 +30,7 @@ images:
     width: 800
     height: 400
     isCached: true
-    title: "Manage enterprise security in HDInsight"
 
-secured: "9JDqU4YVAaIxISdAIDbBEK1Di8Xw5aur9cfn0AHum3Xhbxp+Eg1ET8dB78Kt/4D1GYejjewXVV26+niHTf2mLLP5HICPr4B+HWs03EsR63jm4h8GY3wqPzw6zeHPlMap4hU+aRHX94gOixkm09GqBJLPqdIcvkLPitMj4DGMaA5bDJ6dSqE+hFktXT/VYanGLmy/GXc7T2L89I4n2FnsoNg+KvqiDk5ClT7mdjopzuOQwsu7IoVpLxuEI8zipKyWqYEy/7eI8pU6VyNXI2G7JsZTs0qFBDFUw3U+fwKTKKCPYJpBXB/LaHCIlBUaXdOuuEuzhkvzmgaKhcoAi/6MgO23zeeq+LHy9wW5c9BaeQo5GxZ9So5QM9zT2/gZQKExez34YUnq5Pyo0edJeqkTXaO0MJjp98MR1bWa3IIKiUU=;x62PFbQB+rxnZ7UqZ3JfXQ=="
+secured: "UCX0IKg5RmuRibiDw9MX4raJkytA/ptlq6CvRdS+2jj4WiUHUVfgC+ftHYg2n02ITyeHu75ZiuvsvauYGSKp1z1K1H6MVSagDMa0bYb52kqZ1e4RHvfD5TBfhzd3epf6TXAf3jwj/NP2vCHQGilSgkWUHsxquFCmCJb5MD7yAXaCQCWStKMo3vrRWvFuoFJCvwjzpTmgHW39gyJN2gsDwKtk4vhNaqz3y5TW/DuFLgPqCQ21sHfSgzemYKBQg7t6u0Wc8f0m7MFkCQTyrnp8iKGabxt38mWWyNJ1ta0mz036WK1PzA2fNkjTBguoww4wtGM8+GyzfR92omr2tIwlM63fwpYMp1fvg4p9Ihql19TYhaK0w47eXvtX4woWQ9TdfLQ143igWx6VGiDaN7BoGw==;DcYhJrqJtrHQPmkOevoS2w=="
 ---
 

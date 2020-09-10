@@ -1,14 +1,14 @@
 ---
 title: "Introduction to Node.js"
-excerpt: "Learn everything about Node.js: what it is, how does it work and when to use it."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/intro-to-nodejs/
+excerpt: "Learn about Node.js: what it is, how it works, and when to use it."
+webUrl: https://docs.microsoft.com/learn/modules/intro-to-nodejs/
 type: course
 price: Free
 length: PT20M
 ratings:
   count: 363
   average: 4.801653
-heat: 53
+heat: 64
 
 provider:
   name: Microsoft Learn
@@ -25,11 +25,11 @@ topics:
   - Azure
 
 images:
-  - url: https://docs.microsoft.com/learn/achievements/generic-badge-social.png
-    width: 640
-    height: 320
+  - url: https://docs.microsoft.com/learn/achievements/intro-to-nodejs-social.png
+    width: 642
+    height: 321
     isCached: true
 
-secured: "lzq+uCmBBG3C0YhAlmEdUY6bWYkjaVcVGs9Yc5o/bLi/aayzw1dhmb6pwKukoaOp0Dr34N1B/uLdsvgX5C05YHDgj6wUiDE7yhQUr2T1ILDqgXpTxarebPqyRJfBcFWyUErHHzPvPVCrP8q5sAnyu1WGuKP3IZspYUQ1uouDBT1HnYxACqkoa06YZf4JoU2wI1aOagYBnPY1RLijgmSE92qvYzDana+IzkHfzYOcj+MfK6NxpEB9UfqPEIfxz1yg7mpbmXvGy8ehYDssuFzU5/tvbHzWXghT9hVdqk3VKbt/pioSA1Rf0qiFyTMVpnonwQu1/8dRU9p3nvaUOB6rWG68r6wP9dFvze1NGzGGxVm9DKvwjvSGTa3QTN43lS77x6Zold3p6yOqAJR6Sz2uXmYeR5gZlyWJwfulsI45I6w=;SO+VdGUJ0ZS5fk/b79QG0g=="
+secured: "lt5nBn0Swi+q0CGtJ+5YodaZ/9+zyhPUcLnRtwXgkXKcqdM3mU0HsP20oCQjh+GX/V/IWD2FO+cg1XVgB9A8+WXUVQYmNouj3OzSwMI/QGygn9/XfiLEM8crDxCC9yAW1T5LtHjEFHDZ1k5O5jvwTcZrY6rvvDV4u+oKecjayjpUGH3Bw+LBkq8TK5JnYPdSHtfbuGutPoq/8R5RggFP1J88IeKiIl8lZtBbbMEsNSoNthiRnQNlDxkSPkC9CK/HQ7xEGcOo4T8hQ04adINo9xeSfYh49nKBnHxn7mUlNc9Z0EaL1NCICiNLCu12tFY9zh6Z2bOomuyCMlnHlJYy9Mw1jJoE/2TdOsBOZ1BDyLD7V+4qA7f8qomBbc4Z5eVQxGAo2kvjLCgeQ+4xnYAaow==;2egbKBPZd2bfwGqOQuuawQ=="
 ---
 

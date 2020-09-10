@@ -1,7 +1,7 @@
 ---
 title: "Build and deploy applications to Azure by using GitHub Actions"
 excerpt: "Create two deployment workflows using GitHub Actions and Microsoft Azure."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/github-actions-cd/
+webUrl: https://docs.microsoft.com/learn/modules/github-actions-cd/
 type: course
 price: Free
 length: PT54M
@@ -29,8 +29,7 @@ images:
     width: 640
     height: 320
     isCached: true
-    title: "Build and deploy applications to Azure by using GitHub Actions"
 
-secured: "wHFLZfSuq61G4ljf7VYJNpahnqZbdN4dOwKR1eeaIwj86d/lnFNQF36RJDpIh8RwA2s7y3yQnhW4Luum9JAMeCwtXAuf4jeUn2La2702wmca77+LVMdOpdlbTX0sV7TpXy7i2u8v+57Zo4NQ94QzLbjUmZRdvJUsvXKkko+A4egsrGJbNMAVnEHrewR/oEh0IPDFQ0YMrBqBwy/8vhWvh6v8ra4OprdyeVZV/w5rNDhhVkioeDf0ZlMtLqZiVo8SSF9BXvJLC4E36Hm/Zi4trwtTYv6+5/PIq5xFHavK1VJ8D3bPdrG1mb0MUCoLh38NToQHZCz/WL/KHH6rd139Xh04ru3gX+OyL4G6vuuKoJaUXO9XPOrvCxTcPphmPxsxKWkmmpsN7SgqvJFbjMpc7Ro2UAZJI5UdvDlLf3xahw0=;mLG5cttKaZ0KyEbG+ba3jA=="
+secured: "iXXqEzExBmBSjnwdP2VKhdAedAG+qV3Wqkyx4YjkaEbLBTXx9l7/HUXdE0opdQHctqbMHpX4LkI3tNbW5Zyd/g1DLVlf3V1noOhsrHIVsOgsMpvtEafubYCLoVLJOvdoO3547QiMiJ94NW9/VWvVwjiFxklzgsVceC3jSOStda7w6dvODyA6CfNLZ1uS/Qp0VWZo7O8V0qY9qP06YZE0NIExEwMvMUk1FPNY3ovRoMkKfRnj0AoynSyD/84JD6oBDxjf5GTYRmVPGCUlFsE+yFKPAzRAK2cqOKgmeu3dnJ1ibMk9mrRuLGyYCDsIj3sAYrfKJSiNnseWXdWUVps94v2b03OASh03q8h9A6oglbLbne/0S4e4CJExErPhyDih0hSOBtOnr+Su/57qKHiiNg==;e5eHrnB/WpPSjWq16hxtug=="
 ---
 

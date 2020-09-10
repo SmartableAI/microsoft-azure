@@ -1,7 +1,7 @@
 ---
 title: "Implement hybrid identity with Windows Server"
 excerpt: "Implement hybrid identity with Windows Server"
-webUrl: https://docs.microsoft.com/en-us/learn/modules/implement-hybrid-identity-windows-server/
+webUrl: https://docs.microsoft.com/learn/modules/implement-hybrid-identity-windows-server/
 type: course
 price: Free
 length: PT1H49M
@@ -28,11 +28,11 @@ topics:
   - Compute
 
 images:
-  - url: https://docs.microsoft.com/learn/achievements/generic-badge-social.png
-    width: 640
-    height: 320
+  - url: https://docs.microsoft.com/learn/achievements/implement-hybrid-identity-with-windows-server-social.png
+    width: 642
+    height: 321
     isCached: true
 
-secured: "QFlpHTqjEARKqyeALcj+dhCjRSOsT7/KvoRw82jL0RrkVWwSGpitXn/Lr7SSC1KPHKshSQuZUb0u7NV5JL0SVD4bxHxSa6EYVIWE9NfFYqdJHJ2rEe1JYp8AaSPFJk7ocvczT+FHB1b14RgKxmIbQdBlqgNEbp7GY2o0uISI+q5WRmCeeACpRu5FbENVToD9HvYfVrFk7IVh5SHWJsqiNyrKBYaId/bj8739KnrshzC8OIkZWjbYWGZ/Y5Iz5O7iy8z3HU1Y64MR8mIpSI4FJsH3oShjIFS59T4ZGwN5nz+9h6KHHNVgoxfywE9ysQfelM7leXQIA85ClD0LANO2bfM6wPsUiLJ8DA1iJK4HBrE8YGSYBvUlRCRFcy20Ib5D9gn+urMWqWJ2k1xNmKNnlVa/tjPdozvIGefK6WCZncY=;XyHcORAYr2pvhQz3/+mdTg=="
+secured: "SAW5d25ouV300pNVd5TCfW4TJc3u24U8187sWGDJVvcCzaonm6rLFG9ixk1Z6lnAvzjZUvOQqoSd5GmKAnT5R84B24R+zFafVn6WHdUk/Daw4QOOj4vjdVMBs0dALgddzkWHdyR8yl8enLO56NuTx/SIh5GhKeVUqr27CCsZ75c/5432ES9lM4fe3OMaPwvICsqZpxY+nDpzQY0mUrgYT6Oom7aUp8ZyGtZUrBuzVw16TDxUHPLVpPH2CglI3NwbkCG5r+E9EL3iokk4jOb4y1Wc21osPIDcoTASVZ+PUsLX6+OuMJ9zQXKiB432sEvKIiRoGKUxS1vLqZfiBmwvmyTeisShmG5SrqQd3Iy4LCg2Ny6zCPNC8sQltrEYB5nRQYqomBdQUG9GRlIA408gLg==;WV1OZD5A/OrXNJArL/Bn9A=="
 ---
 

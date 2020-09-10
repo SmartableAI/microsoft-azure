@@ -1,14 +1,14 @@
 ---
 title: "Define the foundation pillars of DevOps: Architecture and Technology"
 excerpt: "There are three things required to make DevOps happen: the cultural component, tools and technology, and architecture. Discover the last two foundation pillars of DevOps, Architecture and Technology!"
-webUrl: https://docs.microsoft.com/en-us/learn/modules/define-foundation-pillars/
+webUrl: https://docs.microsoft.com/learn/modules/define-foundation-pillars/
 type: course
 price: Free
-length: 16 mins
+length: PT16M
 ratings:
   count: 580
   average: 4.710345
-heat: 75
+heat: 72
 
 provider:
   name: Microsoft Learn
@@ -24,13 +24,6 @@ levels:
 topics:
   - Azure
 
-images:
-  - url: https://docs.microsoft.com/learn/achievements/define-foundation-pillars-devops-architecture-technology-social.png
-    width: 320
-    height: 160
-    isCached: true
-    title: "Define the foundation pillars of DevOps: Architecture and Technology"
-
-secured: "JMoIJkgXofCXb0RNVY9FTt6zgRFLV6In9+dXiCjF+2M5vmno8WyIohdcnz4Zb8JapGhg7OnUloINf5ttRortwOjv4uPzOfsEcsqici2y7/Nb0RYrDbtrMSNBFTfvn4L84n8JsL/9nLv78P+pV4pgBOU8k285XR7G7xI9Ej1Y7t5iU5JwfygpBqaNePO3YC4MQYwG5lbZLgyTarbPipd8IRZBTGBw+WQQccHx5voi+h5oYujgs6jO7ifXtv8pNdIEvehlUBqh+S4Ol7joU2mDy12lnLIpZQY7P/lR2RU+6iyT6c3Vgw5YyfEwzCUw02mmocqjB/nwzFZFJVTvNaaYIveK7gbGS9HsE2BONrA3Kc93NGdhwZTH6wG20OjeKj/fwkv/P25rdC2QrPjjT+Y5E6SjalZaawOakOvPRaBv0bo=;vb4+7FW1izWfmaKjwDXsjw=="
+secured: "jcYqt0AnlOGaxlamZnp1eq6IONjtW+gP+mLSXhHHvQ7TkpozO4ji8xT94NYYC1ZuK3Y67szHc9Dv5vByO3u7ODDgG2UyK/UAyCP+pF5WlfV3OCBQSI5ejZ136PNKQRQ1jOoTZretfzOk3vcHYMzkw7pQ6sFKn6E9Yxfrvvd81jdcEXWrMlFMQ0TMctCq9a6wuWPOEt1HJ8KPSG+kQDT+mgYfkwlynGfULuNROuatASJPy2scG23SPr5Jtp94ts0OvOuZ4mniNUw629D4tiw2l3tMNIAvXgJBd8V3j0ywi6fiv9asqjetiwOSWgZdbmsU40QIrBoXTQGLc1uwt2GhRO59hGPwRlxBDrMlS/RmqDwcy/+ghAb3eTaQlV+5335x10JCAHJRUTEML7r4Z41+AQ==;dtmMmybmbfX8tZ+yxFFY6w=="
 ---
 

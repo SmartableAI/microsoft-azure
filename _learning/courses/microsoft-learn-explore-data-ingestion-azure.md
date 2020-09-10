@@ -1,14 +1,14 @@
 ---
 title: "Explore data ingestion in Azure"
-excerpt: "Explore the different data ingestion options available when you are building a data warehouse with Azure. See how to use Azure Data Factory to ingest data into a data warehouse."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/explore-data-ingestion-azure/
+excerpt: "Explore data ingestion in Azure"
+webUrl: https://docs.microsoft.com/learn/modules/explore-data-ingestion-azure/
 type: course
 price: Free
-length: PT20M
+length: PT23M
 ratings:
   count: 156
   average: 4.679487
-heat: 53
+heat: 56
 
 provider:
   name: Microsoft Learn
@@ -29,8 +29,7 @@ images:
     width: 640
     height: 320
     isCached: true
-    title: "Explore data ingestion in Azure"
 
-secured: "PQBwT7ONOUjPA9SJQSJu34ZtnMa/iEJjEQRUNXnQTUdIIIW9E9K/xAK6P8Cmziem5jXpEIjSJjjq/Ss4N1dDvi+cFfamtsXJzAvIsHLtmnuq2GcoADzzMhbu8pHBuTSgvh3rCp79IXroEPhZVf1QRJQmDsrsqBC7M501onaesKC0eqKCd8p/o/Ta/LFvmABkJEJcvipdG/vnU1K0dNcieKX3DwzJRtZp5KFnMyg56qgEm4TEcOhYWEfwuEG2Grm6Yx/2sC2abl+4FsX7qFDhL09AWHs8zaRCkgjtGBIaDP9A5zt+yeAhEr1qRt0mXWItMhF991b9TVXcegL6SrrNrD4iMzwF17MkqyLiFJ/0qWWUvt2xbn60PgZTb6/VrhTqkiVhZ+43s6xEwm7psJwAd3+zBVKu4qQlHwglXhp9s54=;IbjIt+7hEW9OPW+wR51DKQ=="
+secured: "xWXdSYnGcY2Azb+E3p6XtdAEB+/EpH/kB6Xf8xPyrrwG8FXJeJlRGJniRmm4nzkYBvLos04eH9nvdNozPke4E+GjS7J6PuHP/00Na1CR3Onhno7Qlz6PLR+VuxXJ8kGdXm8KbLevK58G3rTcdkgbL8ypzppcjmcGpo4oHvEUo9kQ/0EQAmzO0uomCL7+qGNJ+JJTcvd+j+fp850aXsIu7hagvlSoIYwZswqpe667XEpxfdAXnRc1wPeIH97PSnX9Dr2j74arRCx3toFh5NfOFHVm+PV/Wu81CVTN1DWkcgSOycyHb6mTTaORt+FRALtt0WX0cVD+f+A/bRXifwprpU+46CGEc9s4Vrls+PAFRKNlyGlnvNwERWVnhic+vNh9LnxUicpnTb6nED2qmhqsWQ==;8g62J0Iofiqpqd0nVyEcEw=="
 ---
 

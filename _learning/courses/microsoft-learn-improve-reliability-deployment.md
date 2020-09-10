@@ -1,7 +1,7 @@
 ---
 title: "Improve your reliability with modern operations practices: Deployment"
-excerpt: "With the right deployment practices, we can catch many problems before they get to our production environment and cause an incident. In this module we look at practices that can help us improve our reliability."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/improve-reliability-deployment/
+excerpt: "Learn about deployment practices that can help you sustainably achieve the appropriate level of reliability in your systems, services, and products."
+webUrl: https://docs.microsoft.com/learn/modules/improve-reliability-deployment/
 type: course
 price: Free
 length: PT18M
@@ -29,8 +29,7 @@ images:
     width: 640
     height: 320
     isCached: true
-    title: "Improve your reliability with modern operations practices: Deployment"
 
-secured: "oi3W/2k1unTr15EY19Bw9jXxn7V9v0rh0/a6xSkP2zJJ6z/TijcA7T1tD1gVC1j1BFr/d/oK0KyhmiXzQH/F/g0TWuhY83qW3iGfhBIZlhH/fAyeP+bR123YIQtczvDXzEL8Zu3eRDNhWNYpSc912Ea8aL892/lTIKu3U4CO3RdIfUHIF+kIVxIeL1IMuiTQHMQruzY+D0mcOrqltW5y9EJydDdVeLoo26Yy2acuvoalR4u02fWB8K0nPgl28l3t21vk3Lni6H7t9i2wNw//gwdxo2YRIaYzcN96b0vmGGhoDsqqdsw5rFh7tXQjBe+0YXjPGWPqt/S5RSGjEnhbb8WxCLhZiTLTIWqfqA/eKNYHyIHndBM0R+JjLRkc/KhWvsT1VxNuiETSty9HF6+w4nIfeWgkFEKUYEwIqyUuxHU=;AdVCPxs7nFPIhfM8R8eDzg=="
+secured: "1kNyUNAGFE36ma7ZJS1wo5uPuPtqdps5sUHJoIGq6ANAw7UPU4WLIeCE7VHdO6aM0eRz807JIgaKBxUar726LkbOCj5wS3s2+X1mbBpHS5HkuY3Cggv80RaINnCDu+eU6byLHESMX/h4t8z7daXUIUXG6K2M5CKK/rva9IEup05nlmIJMYfAX5+jtik0Jd+SBAmUXdiG/UGuMq/hVqYGVKwj5IEaASJldQjPFit9LbPDl2bK+w26LiBNgQlTYX+21AxOUZiv6MBT190K3dNdeCbM1FvxViV7ZMpdF9qS5cRZcK56oLTOOFpTBGx++UAKUBXg/YXu73QlS0qXr4TYEkd/39JBswQ6eUYZxCD4+4NmtfNSfwIWomhMZnnITBe2LxLXRsoZn8H2PCNjXP6i/A==;QFEsxYDG7uQBif8RYGqMfA=="
 ---
 

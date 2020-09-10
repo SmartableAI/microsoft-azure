@@ -35,7 +35,6 @@ images:
     width: 640
     height: 320
     isCached: true
-    title: "Explore relational data offerings in Azure"
 
 secured: "U8IjKhGZO9eWEoGry/CSfl4PJjHSrJFzqsfJklyIMe0Fnk6nBej08ZVJtInOq+jBgL9VQZE37nbDKzKIjhhjR81rDiKClDKvWVJ/PoPPZiOCXZ3i97rn6G/ZxNSO0n607Z2exvNM8b2McWK+ggZ0HU0TkpLn9hKtfoRcnzXtX5PWzy9ScsfdMZcvJGe+NfUnXR7wnSYJHQjN6psPLOM0yc9IB4ErEP703aNJ60bbor7T52HlSgBJshat7a967anbSXjpnmN/kPm1mde1BRN7OH0wpsmcCdiYVL+zmlBDVEbjUErDxJrnYC8kOYUpPaYxX/mTWfmGeVAweB/aGYwIRA==;v/kGL4ZSJ+fHiobAW8KKeg=="
 ---

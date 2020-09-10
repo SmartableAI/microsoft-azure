@@ -1,14 +1,14 @@
 ---
 title: "Define an AI strategy to create business value in healthcare"
-excerpt: "To realize the true transformational impact of AI in the healthcare sector, decision-makers must consider the special factors that apply only to their industry. To create real business value, a comprehensive understanding of all the strategic components is required."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/ai-strategy-in-healthcare/
+excerpt: "Explore the strategic components, special factors, and use cases of an AI strategy in healthcare that creates business value, with INSEAD and Microsoft."
+webUrl: https://docs.microsoft.com/learn/modules/ai-strategy-in-healthcare/
 type: course
 price: Free
-length: 40 mins
+length: PT40M
 ratings:
   count: 631
   average: 4.7797146
-heat: 51
+heat: 74
 
 provider:
   name: Microsoft Learn
@@ -23,15 +23,13 @@ levels:
 
 topics:
   - Azure
-  - AI
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/ai-strategy-in-healthcare-social.png
     width: 800
     height: 400
     isCached: true
-    title: "Define an AI strategy to create business value in healthcare"
 
-secured: "prCEngT4s3rO7gd88wJQZNn/1ajpPE0I+RxXBTa3NLKF3rV2G0xHn15W3WX6aclLJhd/y5EH71qBx05h72cft6DAvQ6XUCf+4RL0H+6eanNRuH8YbLfrq/inI72DLyISSzFTZi+oO3Xwn8x0zytK1U8eWuvdMc+coBzT1tFwjWdLM64I7MvDtYDJ4QCkKA7fBQSqCw/+e6JkQW4J7fiC847KKZZnrOsV/eT4JyilUEGonoQVJ6fVj+1Tuuw+76HWxOhtVmmY3iRuYXB25SOXBFzPww/tOFjz9iEHg3bYjH58E/H97M58wagp/rdUIk49N9CZWxnuCzyIsZ+fjYhRrG1oKryiywvyHNn3/YqSJsljh4qaCY6UzBIzXq9c7XBpLnOFzTHDENZBiPz11P5DVw/EQFqjV4yLja2z3PyqE1Q=;F+v8p4g2/TaW2shGaP5c8A=="
+secured: "hY7iX/luVaVh5FV1CZ1XYpTGkdBukjHzeVjYoO/1DfGkVGcPkU0fq5NYFBtAB3w60ttvEimOosoERAOMjwHZmTGfK5xPh+3AUQ/B2jIJEJn5BH8YttOoboB9EL/KRXBURdbW0Ba7RlVFiy6DRc737ukKHESNL/WOloh6qEpoPa/+iuj5Z+7/UOEzKzt7+uviBcY3oZJvYWwGGWTccfsgD3qBvLzuml6Zhes6hdDrPf01ni5IPd+P7lH/5kpv3bVfumY/BLGuxmB4elzwe3a/nzMz2Es2EEB8CtoSNTAeam+DeXCC4+QSqGIn8x+d9x8hry2PKFtpK1FaUHXU1TSa1D/riJ08YoQh6aGucTv5VOnungzfyvGKxHHX0+J02l3lRm7YOJhpuxgmWCNNTVKVPw==;+6p/gokmLkCN039VonlgHQ=="
 ---
 

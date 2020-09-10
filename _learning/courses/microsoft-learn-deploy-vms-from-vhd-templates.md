@@ -1,14 +1,14 @@
 ---
 title: "Deploy Azure virtual machines from VHD templates"
-excerpt: "Standardize and automate your virtual machine deployments to minimize manual configuration, variance, and errors."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/deploy-vms-from-vhd-templates/
+excerpt: "Standardize and automate your virtual machine deployments to minimize manual configuration, variance, and error."
+webUrl: https://docs.microsoft.com/learn/modules/deploy-vms-from-vhd-templates/
 type: course
 price: Free
-length: 42 mins
+length: PT42M
 ratings:
   count: 1529
   average: 4.676259
-heat: 59
+heat: 97
 
 provider:
   name: Microsoft Learn
@@ -30,8 +30,7 @@ images:
     width: 800
     height: 400
     isCached: true
-    title: "Deploy Azure virtual machines from VHD templates"
 
-secured: "K/hFg1Rgq7FFI9pupFWCquAsim1nYzIlPxL5SQlWamK7csyBOfEDjTIrOlo4vN7TC225BNNcjDFBZPL8uKrwpiaLITO4bt+7+uaz1aKP29kNOsFA8I625wIWv/upqMWbVHGmUYbK+CMx/xCdJrroXu8fYHrKPLboxQGvmCft0WmAp5x23Y7JS3PkvE4MNZi3eBRQMUPEzsmzPrl1q3PWJvMGyj+xE4ZxJ/9yEBdCblrUR7mSMtydHH9GHVQ+xKN1bGJWGjDwvlVP+RP3H9nqJVPemn1GIIYqSmWR3uQl5m0RTT/2KOrjTNajW31Z1IOX8/LTLRFkRshI8EmdQDSKgjE7vbX1+UoVxKmUdmygTZlwxF8BimdtzqoKsOuJjOET+T6r9kgyryKF0WrB0dNAkYUz7Pb8NHUrjYqwUDkaN0w=;3kVfaFgfjW8lwI5+OBwcUg=="
+secured: "4AgDjceQYbo0oiQ4AP1mgRRn6OCdNSZecJpRwWJE7SCJTf7Fk+9Inh7JDikkBYaA49/gOJ7pPyTeA81muEMLkHadZ7BAW5+0wVHCHCaQ6UWVJJ66sVuf9pSIYSJh7vketM8MWOt63QpP3sT8+qQeMvByz9JfzqmJxCNh8ZQ0r+o3/Udq3jCaeQM1QXl/ugbuE0FIM7QbtTYdX4g7irmz+pI/ChDK/L72QhCL9L5bRnQE2il/Up2hRsc1TnFuV0K4dkZnmUZ8WNjuxqd1PjMJd8zaD6IEBye8HnMz8QhRfIqQBGJLWlNOo9R8Ix//BnO7Yc3h+L375gM9/yvw+8Bngm+tZ5OtlM+ZkDs22sjmRGhSpMban0R9HTj9horPt20cykHngYDPQgF874Lj2WTdUA==;1TwLqEMbyHZQ8m/ZUslPPw=="
 ---
 

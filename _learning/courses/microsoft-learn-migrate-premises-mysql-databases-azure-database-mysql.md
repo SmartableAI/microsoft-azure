@@ -1,14 +1,14 @@
 ---
 title: "Migrate on-premises MySQL databases to Azure Database for MySQL"
-excerpt: "In this module, you'll learn about the benefits of migrating MySQL workloads to Azure, you'll see how to create an Azure Database for MySQL instance, and learn how to migrate on-premises MySQL databases to Azure."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/migrate-on-premises-mysql-databases/
+excerpt: "&quot;Migrate on-premises MySQL to Azure Database for MySQL&quot;"
+webUrl: https://docs.microsoft.com/learn/modules/migrate-on-premises-mysql-databases/
 type: course
 price: Free
-length: 42 mins
+length: PT42M
 ratings:
   count: 60
   average: 4.733333
-heat: 50
+heat: 52
 
 provider:
   name: Microsoft Learn
@@ -23,16 +23,13 @@ levels:
 
 topics:
   - Azure
-  - Migration
-  - Databases
 
 images:
-  - url: https://docs.microsoft.com/learn/achievements/learn-pr/achievements/migrate-on-premises-mysql-databases-to-azure-database-for-mysql-social.png
+  - url: https://docs.microsoft.com/learn/achievements/migrate-on-premises-mysql-databases-to-azure-database-for-mysql-social.png
     width: 800
     height: 400
     isCached: true
-    title: "Migrate on-premises MySQL databases to Azure Database for MySQL"
 
-secured: "Q+5yRLvrIHTQwhITXbUjx59hjw3QSsb0wlRf4XZJXzws/fNH8oFXvPACaLtOWvYxjD8S0JiVJsTg/ljKsK/RN8dSAMdSfoD/YyVK8CZgTk7sa7LMM81p4lLMlwAplwsksQDA5K7kHtu3Gps4Dm89BpqEgziXIC6rmP4wMd9dTCCLM+3s3z4I0TSjCeXBBP+JNuYCas6MzOAAxoNh3V+a/NAo06X4oSqmpC34QBNS1zGzCtWlw9jb+LQ+R8phNmdwIIbaOMj5CUuhlODwCF4/bTbPsXlLXKAK32Bz4ZPMhzoTwscivsYgo3PU6950NQB9Idb8kd07n346q/t2ntnv9IbBjwKbayIDg39gyunYDhZr6T/ilHe8BLYDYepO7fdTd3NwzS3h8c5Sjc5dP8gDbeiltHvG5aDvafVSe4yg8SM=;neQE7YwYBaV5GqCtmiCm7A=="
+secured: "51uZA/uauWDiGP7rn4eiv0qgh8/vg+ynpaHHp25v3ZINDl00DFyuItSMtt4KTL0v4kkMSIlvah9gJ7GV25RzFuZuvg9FZnf5x63INt2XYyIloIUr2PJj8YIL1bqwBfK9I2NVHvHB/43fejOXAATCv91Aw30R5raPcfx4b6sdrqcHBvrEI7jStNVUM2WuvwJ6hVbLXi/+X2dJDzkUzFzNeGjMV5qOoO5VHeEyh5zQ4DQU07T9PIzyBVbwpUQ4swecBaSwcqo6g5rDttE6uFAUGKgI4nsRxlcYyDT1nyZD6X/LHp1mt7GtqSRmu6S3Wi3JbyU/UX+Hs/u/fuk2GG6tO+VEB1io/7FK0JyWghiQK7ADwX9bMy+U9pha4LP88YvdtTWGINbuyAMW1CP4kYrQeA==;FX428i0SKH+Cle6W+QSeNA=="
 ---
 

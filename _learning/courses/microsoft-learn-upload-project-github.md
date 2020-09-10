@@ -1,7 +1,7 @@
 ---
 title: "Upload your project by using GitHub best practices"
 excerpt: "Learn to upload your existing project to GitHub."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/upload-project-github/
+webUrl: https://docs.microsoft.com/learn/modules/upload-project-github/
 type: course
 price: Free
 length: PT43M
@@ -25,12 +25,11 @@ topics:
   - Azure
 
 images:
-  - url: https://docs.microsoft.com/learn/achievements/generic-badge-social.png
+  - url: https://docs.microsoft.com/learn/achievements/github/upload-project-github-social.png
     width: 640
     height: 320
     isCached: true
-    title: "Upload your project by using GitHub best practices"
 
-secured: "4Vb4En2QUQuAYf7YCoko5B26rtvK1oGA1dbsmNRok1jMQmp1UKQQq0IhlDmTZA3w8RClLapbihFsgiMM99pDTIPDiFONQ91KutnuhOqbMxFML9wphE3bTG2wyK3BlftzkpgkCaByvmgMs50hhUET4M6tQvJpMdi8R6gVO0ggdR2zEoc/OEx5Q2FET/LF5PVDmOUD9thoy+VClgtbqpfuZnKE15WqrQYbHymN7aWIqXZDqnFbcz8TpwAus/DOzeRil2rS07dnaf0idpLChbWGHC0hc5VG9NzFsmsKqix0owmuxPUfF65fV/ASS3L+aBJOI9w9h+0VRDowHbZvriiqLPut9734eNn7VnZ6Z0hAr3fLDk9LuTG6OlmCY4r56czdQXRxgJOgAZlGxu6ZQO+px6XRnvOLwtLFncPjB3ar2ek=;+jn8u1R4btFp45ZksjeKMQ=="
+secured: "woT65i/l10QTmdsx/ZXBu1ypFHc0s5pBwxw+kbPiGPXGHncbN4XQWPgiR6d0yL2Vk8DBQRoftqvk8V/IAWEL8wOeG6JqVVYHJHihq9ktn4pjnzHfqQavqBi0ORe4R5hHRxheIfiWXEP83l7TZQwwRCiZp7a0MpeDvqL3E1rabkibd2jAxjMNM/8g5alB8rrMHQdZzBLJXj7T8DJMyRDp2L2GF655QyTIGuM716WPzddLtEvo7DmR6Ukei6t4ij49MqWom1VGH+I9p7W4sFLa0HZKfoQ2WrWibE4NVUX0aJ9U6YfhgJ9meUj4GRPHBKT1xrYEtMS5wUmuAqaDByZjaCkDLjGHeg/PPcQZNH2676tWk4qnLIFwaRcfJusS1QnCKHst2PWs7a0Ayyty0zcJjw==;HuVz2CUaY81ix4jn5Budjw=="
 ---
 

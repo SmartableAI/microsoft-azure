@@ -1,14 +1,14 @@
 ---
 title: "Core Cloud Services - Azure compute options"
-excerpt: "Review the Azure compute services and explore how they can solve common business needs."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-compute/
+excerpt: "Explore essential Azure concepts to find out how virtual machines, containers, and apps combined with serverless computing services can fortify your business."
+webUrl: https://docs.microsoft.com/learn/modules/intro-to-azure-compute/
 type: course
 price: Free
-length: 38 mins
+length: PT38M
 ratings:
-  count: 61530
-  average: 4.7087274
-heat: 128
+  count: 61532
+  average: 4.708737
+heat: 314
 
 provider:
   name: Microsoft Learn
@@ -24,20 +24,13 @@ levels:
 topics:
   - Azure
   - Compute
+  - Web
   - Containers
   - Serverless
-  - Web
   - IoT
   - Blockchain
   - Integration
 
-images:
-  - url: https://docs.microsoft.com/learn/achievements/intro-to-azure-compute-social.png
-    width: 200
-    height: 200
-    isCached: true
-    title: "Core Cloud Services - Azure compute options"
-
-secured: "HHNivKIiVJRXfliTobkBJ0LnXbx1GdsYkzmUVyU5zAH4NHcMUQPbPMewVRRdNynPUUUrrbz1tNp4+TITG5YU9BebdFWJFXPi06dv7TroDfvHWNrRk/kdr42Wy9/19pk5/itotLiAHlFd5G5nkOJdofPOkzS9tbAaLAjgux4z//61JunRs1/zphzSt7JvcOQspMG1WS9NM1hCHNLLz1KGtlmG/SKUjLFXqO2hJxBRjO7c8p/A60KrbD9wIsFLTVr7uEZQ16fmwqXidvRdoxXrG9jOr5qJ5sG+7bR4C6SXAMIn6lXvYhRnbfaolITqsrh+o0BRuN88/VC1Cpfdl7waAYCIBvj31oQhzg7PodL+78maIb7rWf3N1okqPnRI1rFL3nzRGdlQ20GnmrW3xETt4ghvhcoe+uI2YuOQb2fv/JGknl/7WzrRGl6sT62JHJjA;TTkuDeFLJw77Wo/4tD1lzA=="
+secured: "yDJ1Lpj7kVv5QUOhzLZZ9mB6hROvjb8I9lc4BanyDwUyxuPU8+lwB6g3CM8hovf2IT7/A345ezNlkFbgP0YhrbYc8Ix+8WPsUzYompA9LvHrEeXbANauUzMtWfnW+VhEuUBb2iXlGnogO+udgQkt58Fnrgv7DPphZAHkooeqOYG1Sh4c3MhrkpYYKh+1Cxokpi3WajQX7lw/sUcv3CA2wHW4RAounavBWwsOFhoWxuulTlti+hwsAjZx3uD4UyVK9chA/SLLdFxQe3gCnTgno6BiJIAtcGSW9FVo/uJUgDYu3iZM7M6n0RU+0BDQgOG2jmt/ttIzhv5ivMo/QI1ZJq4AYPvQSYfjwu8QJvuSDBkgoDfgvi5bzGSGgED8QfSnaNkiZgdswUqVy3ECvl+5og==;s4u4IL1OArG0DurR+h1o1Q=="
 ---
 

@@ -4,7 +4,7 @@ excerpt: "Learn how to configure and manage Azure network capabilities like conn
 type: collection
 price: Free
 length: PT11H2M
-heat: 67
+heat: 138
 
 provider:
   name: Microsoft Learn
@@ -51,11 +51,10 @@ topics:
   - Networking
 
 images:
-  - url: https://docs.microsoft.com/learn/achievements/configure-network-for-azure-virtual-machines-social.png
-    width: 200
-    height: 200
+  - url: https://docs.microsoft.com/learn/achievements/design-ip-addressing-for-azure-social.png
+    width: 800
+    height: 400
     isCached: true
-    title: "Configure the network for your virtual machines"
 
 secured: "QOnbsdIeK44h6zFuCym7ImEIa8cfAxdNI/WzeLPm01MXYFf7NOPmKl4jVIqLU7TrbT46L0v0er8KvESvJINqEVJbl+s/jNHhOQhy3vf1w4/UQaXuJFgj+btPifDwUOM0poGM+0HYIjLeZ9v3vq2Cxo4VRqd0yIoK5aIWVXm7ganUV54qm38o5Af351qm9a2iQ64vnyVYycCDvkBGkTrR0orGX0i4F5Bhe7+1dBCaGKRMaEY+rq8bxLNik1XTJOXdwNkANxG2OfqLvjY3Lfd4NI46zzP85famTh1GNoIgIdAFouEH9wpxZL+lH6PMauvyBU/nwbf1M8KEkhfB1uZbEQ==;QtXvIFjZNqMMyU/RFrs8DA=="
 ---

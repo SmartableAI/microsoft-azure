@@ -1,14 +1,14 @@
 ---
 title: "Build and run a web application with the MEAN stack on an Azure Linux virtual machine"
-excerpt: "Learn how to set up a MEAN-based web application on a new Azure Linux virtual machine."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/build-a-web-app-with-mean-on-a-linux-vm/
+excerpt: "Learn how to decide if the MEAN stack is a good choice for you and set up a MEAN-based web application on a new Azure Linux virtual machine."
+webUrl: https://docs.microsoft.com/learn/modules/build-a-web-app-with-mean-on-a-linux-vm/
 type: course
 price: Free
-length: 42 mins
+length: PT42M
 ratings:
   count: 1670
   average: 4.569461
-heat: 55
+heat: 100
 
 provider:
   name: Microsoft Learn
@@ -26,13 +26,6 @@ topics:
   - Compute
   - Management Tools
 
-images:
-  - url: https://docs.microsoft.com/learn/achievements/build-a-web-app-with-mean-on-a-linux-vm-social.png
-    width: 200
-    height: 200
-    isCached: true
-    title: "Build and run a web application with the MEAN stack on an Azure Linux virtual machine"
-
-secured: "0dNyVrXfSQJch2FchzHA2vSg3xD5lFPgDU+/7FkKp9fFyh7DU3ItkaeFgBr650kxznscR65hbcsNMI7ibQXvDG3rV/3tidwAzCCkZNFvAcDnHs5kg3sZHf2f/KMxG4qM+GckPVpN+KMDHRvoRY/dvqmAQ935eEHXcHHA/P+G6fiwdXJkZvWE8BgLyAq53aXmEOVbwN2dboOc3nX5x3z9mm3WxE3iZov8H830JMixkipIXkfYP26CjUrzyc+oeYpf7XU9u5ryXwVFuIjpHu89I6WkEpQb2mRBsPhHPcmPYrINQYuYpGDo4PbhsT8HtpYjesD19HuNXMH6HH2D/8FLqottknfbwtvVw9Ewb/m61pCLTzqWlmMKkNnISKPBKKGvAww6kWNmMfAlS9M5AH5k3uiApuLeYV1CLX+sgmvB7MU=;V7hqTGNbJc/KKb336Kf/+w=="
+secured: "X7rGacJAU/aJsNNWQ4uUbUoUdhi06kM3HTjLqWGJQmCn7Uautq/m+jt/9ZDVUz9hRAKUkxbrxbVl7idl5inpn3VR60YSfC4jfwJ9RUP18DzlUZDAVGhykRF6SFwCayHQReW5F8mVsTY1gItYiHQjL685UAPyFOvvuiYBq5uP42Six68QzWzdyeVwpH0Gt1fwvFN7SfzavSPkqqJkLalWzr+mHyiEzBZW1mC3bG41OSCt/GPJ7BtDPo0SUibcxwTYZTvHb9pi0+9pV5IvnO0lb5F7A+pubQ6LscrMPtK9x7ZwkQmFb3R5TH5FvudIWcQ8EsBtnfgY30y+q0wqy/0oNInT096ttAxwJdnYpOneS8/wTIPkx5al7gyt50BymbeCdcTuf7lpefsfoiubSi5yqA==;8+/ZlDMyxRk8I8dDaTUJgw=="
 ---
 

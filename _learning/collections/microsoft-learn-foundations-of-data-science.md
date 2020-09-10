@@ -4,7 +4,7 @@ excerpt: "This path is intended for beginners that are looking to learn the basi
 type: collection
 price: Free
 length: PT12H53M
-heat: 62
+heat: 67
 
 provider:
   name: Microsoft Learn
@@ -53,7 +53,6 @@ images:
     width: 640
     height: 320
     isCached: true
-    title: "Learn the data science method"
 
 secured: "gqMCc3rwYILpL6EL3NiAvUUfHNc/AJoUTvp93Zy61R9o2fSsXvvewAcAY4lqJqXfPUjWYMrHjPAvgN4FRHENTiizo7lrNOWEujXU2IS7rnqyI9xHq+YLmTK1X9JmxkU/oOGiEL9ehHw8tZfXE/+fseMI0lmehfBhsu9MPoVFHpkg8UxbtxKClJGlYb+HCn4b0vo6xMquHPd1S98K7YC1VRtReUcT2tnCEcs456kzF+SowYABnnid8f2ZKIyMRjnwMUSmS8AGENWgGRkK67NddAqEw7DyMAhI8BOrBL7LZcNJR8Rp7Vz4Y410+OXGSTUjOa9/tATNpT5s+dd/9hiEEg==;/T7VXu6g2YTQrLKeVOQOQQ=="
 ---

@@ -1,14 +1,14 @@
 ---
 title: "Tour the N-tier architecture style for your application"
-excerpt: "Use a Resource Manager template to deploy an application styled in an N-tier architecture, identify key concepts of N-tier architectures, and review best practices for deployments of this style."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/n-tier-architecture/
+excerpt: "Discover the benefits of a Resource Manager template to deploy an application in an N-tier architecture and review best practices for deployments of this style."
+webUrl: https://docs.microsoft.com/learn/modules/n-tier-architecture/
 type: course
 price: Free
-length: 39 mins
+length: PT39M
 ratings:
   count: 629
   average: 4.810811
-heat: 50
+heat: 74
 
 provider:
   name: Microsoft Learn
@@ -29,8 +29,7 @@ images:
     width: 800
     height: 400
     isCached: true
-    title: "Tour the N-tier architecture style for your application"
 
-secured: "6UdfBP5y+wOTPJf2z+/1TQ540o4Z/UjRvmArbEt9PfJGp8ol2oM38E5+g++zGsvMjMdLDgrde9I8imOzZv1gYCdT5pOCMJ7brYJj7UavRcIE6d0pVjc1+ZnXG4aLD4whphoIgVqXQuZ5NWKaS+/nwzqOIK+nogFbg2aqik/aXTmn9CJrFszRhCSh2OCbGrkI3POBt7+7xfLTNlZrBhCDOjFMX3qjEx+9Qu3q2hsP/R+3vyPmZ+WDg9EaMUD3IYQHjPxqT4YeMPqJSKTSk2RjB7HWizEvxBbKakWeUR+JQGK6PEyhkU3rgvm4XQ6DTijVC8QJFoOxw/MXMep5+cv0FX6TgJoFvRVDcCS2VtpA2E7+arZMYW9Jo7LMoXSW+hW2lw/o77A504fHnAUtkZzMMWOwA9n1wT0j8ruUaRSsKps=;Ot8wfXDLLAx/lvE1xBo2ZQ=="
+secured: "gm+VZw+/veicVqZjvZqyq3PvQHm6vSJo2n6qzj0d5ftHImOEgT8Imum1sVd+wsmjgE1tx3ew36HaSv/x8Qi/8kXZnscHjqboypM+zqg8rq0jpGUNve+Ko2hOtg1EtICRxfq29mQ4CkDXWk++LQT8Z0pJMzyco1tLvYOKMKS6TJ7YL9nt3NPa3mkzwlN9Nh1w5/ObuJ903OvwYWj26T3Gguj28s2ahgqeCzBskvhmEzBUHNaZObdBFmAdhFSlZbZ56+/dqu2eyYmuIgX71xDVZCzIFNQc0CjpT0/YZhNzizZPVF8S4mKeMXUhM4WfhC5r0p9IsHuB/23p2Ga66m6g3/8np8FQZk3svD7BZ3LI1GK5ykoCE/IM/CYWFCSCPGv9b16AK4sDOqAJo/MHNE/kQA==;FUmAftSwoDci5onRTj9I4w=="
 ---
 

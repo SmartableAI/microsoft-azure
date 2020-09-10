@@ -4,7 +4,7 @@ excerpt: "It is imperative to reflect on the implications of AI in government. I
 type: collection
 price: Free
 length: PT2H55M
-heat: 50
+heat: 64
 
 provider:
   name: Microsoft Learn
@@ -35,7 +35,6 @@ images:
     width: 800
     height: 400
     isCached: true
-    title: "Identify guiding principles for responsible AI"
 
 secured: "tNynnogfoQQ33Eiu01BrEQIQ5xktqRVjcoh+xYXnHhZN8OLd1K9roiXq0hBlPFfzNeyaxM0jiI3ltcTuPCINRqYhfWNJpHf0niUt6ESH31xveS21uy/iLsB6tgVmybwdYXTo9FucEwxj+8xEo4I82jGu0aj/1WJ7tEDQeiwHyOdikX0lhbWIvvR99hGyhc1YZohp2twO6VYhuKgnd1v5wlFM6AgLl3VVT8XgGzhduVg3ksCqu64FGojq0/gnKuT/EzK98OmaYSDE7sH401b2y1+tY3CGKPrdFF9E0rhjvdQs6rJjZL1Lx2I5r04YWYUxTkUViGSN+7J4Kxh++g8Vqw==;40cd6HURUonAeTYZZ7UBiw=="
 ---

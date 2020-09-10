@@ -1,14 +1,14 @@
 ---
 title: "Security, responsibility, and trust in Azure"
 excerpt: "Discuss the basic concepts for protecting your infrastructure and data when you work in the cloud. Understand what responsibilities are yours and what Azure takes care of for you."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/intro-to-security-in-azure/
+webUrl: https://docs.microsoft.com/learn/modules/intro-to-security-in-azure/
 type: course
 price: Free
-length: 76 mins
+length: PT1H16M
 ratings:
-  count: 43144
-  average: 4.7023687
-heat: 110
+  count: 43147
+  average: 4.7023897
+heat: 289
 
 provider:
   name: Microsoft Learn
@@ -25,13 +25,6 @@ topics:
   - Azure
   - Identity
 
-images:
-  - url: https://docs.microsoft.com/learn/achievements/intro-to-security-in-azure-social.png
-    width: 200
-    height: 200
-    isCached: true
-    title: "Security, responsibility, and trust in Azure"
-
-secured: "FgH6lJ+Of4iS5QTJ834a+X1yHCVkW83C6v23LzyZeCI35jJ7I+OW1NJ+XKMNHZvFzmz93OjlqTnrk1iV1Xz127r0i8p6MKjIssxkOSg4BothiYnOohRyRmy+wtwQYc8JTcUbujgsRXcmgoTjTwvyHR9ycwXxLVlsyBuDyqXZ1Y4qatK/q84f0pLjYbKveagwvlqZopQ1A0eGhKXG+IAAqnLF8W5cyoE0+aolLV2TIn8RHzU3DYV+u2+I4qmS4K0OV5085zpcSBlm6kfeSa/tRpy/t0Bsn3HZb9BOq+tW4dcj4FDBrr5x2reYww6SDcrXOykJY49fp2Uu/fF7UmtOPP7hnGXXc3FMbs8ODix4OZ8lsiGbWMmYQ57aBv5HyNxIsHECkEe5uW2E4O30YGoukblHPYf5ilzGKCSnUoOaY9Y=;WhwbEoC0IAVRIA1yHTfmqQ=="
+secured: "/DoOZlXWMjm6xkhCfuvjSv6TDWbf5P8L+TTdSghnbdOZfRb83jInJrRB1g6/3LD5ljFZ87tr7O7T+/7kTHM3xh15pdz6Pzg/dToMf5tKszL5/UcJUZ1Za2DhYNT8s0TSarQlBbgXlYoGLuwyKfdqyDH36zKe34UmMh09jlOczcGUd9zsVQMZqCPVnIn7UPK4x+Y3WxDr9V+/vTwBjT9HnYdQKen5oB4o76P5ePX1uFERqqJemnh/WRx79aMucrOsh8UliGoBd60yeoQDI5t5YCKcfaZf+WoQEn3+ahDHEJZtXiLGDnfp+hNamhxEiFqTRezcM7A2qu8hWxTkvs5Ug9DjN8K4oYhG+/zT9xPtZ4zRcX8EjGCzbLnELU/U2iEsB0nZqkU8lFWPrPVqgo6ppA==;h9cduWJTVi/PzKdsWPzdpQ=="
 ---
 

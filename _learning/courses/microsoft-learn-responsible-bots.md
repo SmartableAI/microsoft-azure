@@ -1,14 +1,14 @@
 ---
 title: "Create a chat bot to help students learn with Azure Bot Service"
-excerpt: "Learn how to build a simple bot called GeoFriend, to help students learn the basics of geography. This module covers the principles of responsible conversational AI and how to make bots that a user can trust and enjoy speaking to. Our bot will help school children to learn more about geography and answer some questions, and also learn some study techniques!"
-webUrl: https://docs.microsoft.com/en-us/learn/modules/responsible-bots/
+excerpt: "Learn how to build responsible conversational UI by using bots."
+webUrl: https://docs.microsoft.com/learn/modules/responsible-bots/
 type: course
 price: Free
 length: PT1H16M
 ratings:
   count: 50
   average: 4.5
-heat: 50
+heat: 52
 
 provider:
   name: Microsoft Learn
@@ -29,8 +29,7 @@ images:
     width: 640
     height: 320
     isCached: true
-    title: "Create a chat bot to help students learn with Azure Bot Service"
 
-secured: "9jXj511we0rF1AVlnjfXQjdBDfA6V8ipv8liaQ2oN7OUHAhtBUtMKZ4qaeOdadv/MOdlRwbE715F7FycCPdSPF97FIYTGU5Pr15Lro1orCp4uO7Nme1DDFb7zWADu/W+AYLlu1+BhYtdpI+MbF7Bvfs3pYVdxKSVkDp69Qra/w/uiyWkhQj1R8mG+QGcNFNznGHVNr7k4XVMs3fD/lb210JUPklyFOOIxCGRPrIJ9RDwXe1TlwXc4rHblmvlb8nI6cqI2pwNj8DCaSfbkr6GWoEewwvmcU9SwjUKcDEwzMjGBYA8874pOT2CZnW5GPmI6xlcloc7OGhLo8LkDklUi0w5AEckKFTbrBRZN3JINHcPluntrgxnSVl2XO62Ku/n5ePQR8dRxkeKFmmduEbAbr7sMON07IePI9DQJBjnBGc=;PgJxHlR6hCiq38Jjf4fNRw=="
+secured: "hZAMGNI4MCMW3R+TSZNr+t0z/KXLD20ommAVsLrcOZmqMzQ4uJuY7DULsZA8LJvcpI5lpwoeh9veLlAr8dF7zj1gIXWsVQtk1fYMkon3DUrlzLFThD2ElNV/ZuVBaleFruMXJO8xsUlVRA1+OxPH1cuUaq4NViJrfidBiXjX1bfn8oMEb6MKLGKVTWy3iWXPSirbqPuJXBBe8XiVazb2PIsUuokR5M31p3VIcgzpqxyJVUY+LgyekEyELR55hG6FngAFcnEPqexLX7MEbC5Fq/lSSpzB0yjmvF3TzbMCWuABh1gQFqO2QH+D6L5UoGBC1O/4y8Gfizoq648hQoJ241PVuSmwNDGPXNMrB+Vr13h/C2mIq0ZzLHmCRcgyi87PXPUe82e7hxj9xRmzoP/2Ew==;H3ac0LfnBhfYvRWPlw47pg=="
 ---
 

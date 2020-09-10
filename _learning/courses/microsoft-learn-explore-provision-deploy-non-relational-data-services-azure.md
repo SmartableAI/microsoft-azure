@@ -1,14 +1,14 @@
 ---
 title: "Explore provisioning and deploying non-relational data services in Azure"
-excerpt: "Learn how to provision and configure Azure Cosmos DB, Azure Data Lake , Azure Blob Storage, and Azure File Storage."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/explore-provision-deploy-non-relational-data-services-azure/
+excerpt: "Explore provisioning and deploying non-relational data services in Azure"
+webUrl: https://docs.microsoft.com/learn/modules/explore-provision-deploy-non-relational-data-services-azure/
 type: course
 price: Free
 length: PT1H2M
 ratings:
   count: 102
   average: 4.8137255
-heat: 50
+heat: 114
 
 provider:
   name: Microsoft Learn
@@ -29,8 +29,7 @@ images:
     width: 640
     height: 320
     isCached: true
-    title: "Explore provisioning and deploying non-relational data services in Azure"
 
-secured: "9OxXmSBrCFR/fT2uUvq06At4yBoF9eHos+Aj7vQVKz99b2iw9DrqJDlZkY17f5suI1OtNZwCOSzj/okkSBLPl/sT1jCfz0bvibHA99Rg42cZRmn+0Pjb9IGR1q7dMZSoA8Gr1Baf/aMTyGOawmIV/cGGmU3qlUkLqMm6wwz7Urmt54m647wJqnr4n/Cu/qIgz4oGx/toMezkKoMtvFVlSuBkcg95+Ge5t4y6BgBR/B9IgRsMTDdNMDc5KonGtriH+XcKduTM1NXYWYoapnXMWBLRXzuN5goJIsyLvB2fwMSsmLeST/KvqBdEVCypJ4CfxYsKqdDpWX6/ZfY+tL4uqEzUhBbysmlq+MTgncdcBo4eYgqYX5Kod0Ge23mJtlUKOzXRi8DFv/nfosVWqe1q9qucDpnEcNcO1chomiPjJCI=;kqIRIhTV0faydwDVbboQ/g=="
+secured: "R+c3kSCm/kKsn81dDrUKogGSc/scOljuGodd7VsGMkUx21T6NKlvbm7x+9rtosuGkkye5KiGiCCmHbof8pkGk54KPb2N8wMiWb7/gAHNrWxybKL6Y0X57sP2O3PjFO1NTeytrTrXdR0cSyDbZcOC8BbuHmko8X1/EJCEpC212ltU9YRGkmu4b+kBCrU8nFk21cjwgevyPWzJ7za2EQs+FftL3zLrj/Df9zz0wvh0ct6kzPwxOfi4CV3cca7YSNWCmiaWz7hGnIyT3degQwVqBtePy7MemM4LbSoMwddXYaajX0usERWml3o3LxxnMQts6t7wKDNh9inNfloCVvIQ2ELQjaih9+WfVOhHtG547+iKsgnssCkGjgXOEyb7Q3JIvCUagycrj2gYw9p5cMZD/Q==;knsTmMOLQ3A8RNzLZ2wC2A=="
 ---
 

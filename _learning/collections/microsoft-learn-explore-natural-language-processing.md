@@ -4,7 +4,7 @@ excerpt: "Natural language processing supports applications that can see, hear, 
 type: collection
 price: Free
 length: PT2H6M
-heat: 61
+heat: 68
 
 provider:
   name: Microsoft Learn
@@ -35,11 +35,10 @@ topics:
   - Management Tools
 
 images:
-  - url: https://docs.microsoft.com/learn/achievements/analyze-text-with-text-analytics-service-social.png
-    width: 320
-    height: 160
+  - url: https://docs.microsoft.com/learn/achievements/convert-speech-to-text-social.png
+    width: 800
+    height: 400
     isCached: true
-    title: "Analyze text with the Text Analytics service"
 
 secured: "EIkpoc3Z70vQxSDSTxPeWCGJFC9ux8nplYVvQPtHkYh9BWwi4NXp4IvFi1uNpmcXHP/dlaYpHsXiBpX5hnhGdp4fVWwjP9QOhYydEUEhz5GWVvUNleEhkkwZJWWDi/Ot1Rps82+oSX3zHKYYq9C9So+wranRtAlXkb3aADyy0Ge9liZLCpFsUkH08PIDfuHXKNzekGHlIH2J7PvcHQayrsKWekwNHx/pbuhUyEUKyyQMRffrE0HPvi4jkTuY+GI6X1qyTjAteE5nKsc76gp7JIb4N4e23T8BVGUB8S/QlQv0FzfUD93rQP217TT63H3FQmfpYy9Teo0Hmn2ON6EhbA==;Lcc4Bo/oq8DLp5uX6Ao0Eg=="
 ---

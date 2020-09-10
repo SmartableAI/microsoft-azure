@@ -1,7 +1,7 @@
 ---
 title: "Back up and restore databases"
 excerpt: "Plan and implement policy for recovering data in case of user error or failure of technology. Explore various options for how and where to backup and restore databases."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/backup-restore-databases/
+webUrl: https://docs.microsoft.com/learn/modules/backup-restore-databases/
 type: course
 price: Free
 length: PT31M
@@ -31,6 +31,6 @@ images:
     height: 320
     isCached: true
 
-secured: "5QPOQdq9ZLUGP5yUVulwSwfsPzUZY11PQmWUyt05go3AaHA09bqwXKc2Ub6wl4wZeNz6Jssi4WYIk+NLadyJ8RORyoyyXvicnQ6+clVe6/5TNMZ+0oZfuEwHX8zahdOJMAcHa5J0IZEnDVy+k5zVzdJ3kX1OvSM1Qy1ZNJi3zZzqWeiHOwnGUhdXK2x7ZgpACI+AKm85e4T0DEbxMZxaQrJwGdKFGbYfrF92WU3rzVwzBFRTxDqYNdzEWCYB+mZGk526Zg1QIWptlDypm7iDrD8o39/z5C02FIa8WuQgWmGF1vaez9gSWFhNRpiP1suVgnHBf9tNzZW37eRRTYV1UqyTDsWpakXbgRC0H2FEafbb8OMNcOWEhk9gCnSaT0XvIexmbWOGs9VsBcRzTPOj9zOZrUyov9SIXFlC57f8+Vg=;pzFJbEmX/21CSeFBJC4eFg=="
+secured: "Bzi/xZokOw040/Q6llV81RuGiJc7GGempiHz+638OpSWGDNd4Wwe2jUk1pLkrMuzE2tF1FAID+Wd1BBaWDpgYxsoq4QAfH/c3jrA0cLO9tKay48ui3tmkUgx0VIYjNrxXQxzxLZ9+aNl9GfHx9nNHtTXRpgipMG2c7KDhlVXm/f47kVE0UYunmjHW6NprODB5RKBj3DbMEFlNFpI6t8/zpKOxLvkuhEIubrDzCvKSTn4de9+4DB/pYWJg7eezuU+SbGOGfjXuUEn8RKY3AEkRCwOHn7ukPHJ9yfGuUDaPywGZePHhtq3z3AyIiI8aBpoOhhgqa6PvRE4b67kTEquEe0AJZ4RFB0LbRPIGxOOc1MU2KmYiWScTGzsEx/oJlgoasiyDV/+Fg+QYbw+w1lbPA==;NdXsRTh683YQB4aoL9VrSg=="
 ---
 

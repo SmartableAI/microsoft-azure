@@ -1,14 +1,14 @@
 ---
 title: "Create and host web sites by using GitHub Pages"
 excerpt: "Learn how to host your personal, organization, and project sites for free with GitHub Pages."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/create-host-web-sites-github-pages/
+webUrl: https://docs.microsoft.com/learn/modules/create-host-web-sites-github-pages/
 type: course
 price: Free
 length: PT1H12M
 ratings:
   count: 22
   average: 4.818182
-heat: 50
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -25,12 +25,11 @@ topics:
   - Azure
 
 images:
-  - url: https://docs.microsoft.com/learn/achievements/generic-badge-social.png
+  - url: https://docs.microsoft.com/learn/achievements/github/create-host-web-sites-github-pages-social.png
     width: 640
     height: 320
     isCached: true
-    title: "Create and host web sites by using GitHub Pages"
 
-secured: "ftl0InsyQnsQ71QhVxGUpZYlmW9q+3PoRoc2cczebjytJbH9sGO5OK6TMB6FLBCrO/RJsIGnxKrEC68mML2QmvFznlXMcrQJA5ND/lgBMjm0BdU0myKsTzOb3l6NC7MhcKTH0xxR0y1ZFIGzVaQRBC+XxnHaafVdHPXIbSvrrlJutDnRmtM+W+a6rM3mI4VFC9LA5LhHmLBdzhZvUJsxsY1HSopGlNP5LHkGQOPdSc1TJKgfZfwDonwhKJqL1wkBk6RR/a+Y4LLEOe791x8tOQgs5o2VxH020Pq7DZsOTEBhRh868kWNrB+hVAjb6I0dnEIzgQLwNMydPEv4Vbgqr3FrTazGJXT1MpualbKC7+Mr0nsD5I+D79SAZyyqaBJDvu5z6meqhK3bc8RFcZM6qm0OB/4I2pbo21WjzCDPqBk=;Z6Ilnrd6itnpvvEjF5lA/A=="
+secured: "z7AfuKrSdoEyXHXVz1LYzrVkXyw2WODnmIbCOcwP4zpbebF8uvA9B/6K94Subv8mcq5k6jNRUoY/gn8y8xUjA7JKThCnpMoHd6PlAI9BLkdZV9OCAByrnWn7MHv2SRwUJKC7wohriXXNcEbrn2Gl62KhiM1lWvf+/mTFtDJXZ+kkIHXiDkxOIPEKIIKmX0aAopaQ8tyV8YKAp8QZtdam5KgKrZhJNVFysJgK3JWeTjkhkAgFX0TW+yGw0FHYEEbdc6OZ4WQ4so3wJIo41173kLdSj0KuBd0ochvElJKFPSX1TOpMXfiS9nXoLA1Rkmhh/rNF6k9Grl7qpu8nZgMslmfMyk5A41eNHmWGcFiHtZdNoaA95OwtOuQPywFwidQPlu6GVb4TXn+/XLYIGhxKLQ==;1rsdfS+4JBWPGkS/ivFyYg=="
 ---
 

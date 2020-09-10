@@ -1,14 +1,14 @@
 ---
 title: "Manage users and groups in Azure Active Directory"
 excerpt: "Manage users and groups in Azure Active Directory"
-webUrl: https://docs.microsoft.com/en-us/learn/modules/manage-users-and-groups-in-aad/
+webUrl: https://docs.microsoft.com/learn/modules/manage-users-and-groups-in-aad/
 type: course
 price: Free
-length: 50 mins
+length: PT50M
 ratings:
   count: 2718
   average: 4.670714
-heat: 63
+heat: 121
 
 provider:
   name: Microsoft Learn
@@ -30,8 +30,7 @@ images:
     width: 800
     height: 400
     isCached: true
-    title: "Manage users and groups in Azure Active Directory"
 
-secured: "SJSQ+0fWwM6uDx4PPZ8OFuHn8zBNhgBbGbuwzz5wDOAVmTzUYPpQCXDxIqaxYrMdU43JBghqPZkxCrwqV5fSUD8InGXz7r3llf56rzFO5zCVBNxHJ/b2j8eEvnU2RRiYxIYT1Rdg3AQJEzJN9auLFP+CzUHOGSJlC5SMuo4VrvPvD6q5+Kc5RWLoW0gxSyKRBBtjM3ZjmZAPE+G8zkKat9wtCzXuM28T/QV7THCJkS8lIAK3pDc881Fcy7mu4RMS2BWvvqwGwqXzuiBYWZUybSTfDEmfsLA1SBqvJpwcpLaO0Pb9YdK0GJqYy3NC2VK/KaYdZsuZXIEozj6S6V1GgmKgYn/b3xvABebO6IM7H3PZLTpxLQLontGaLEI3ujSvZnwO7Kp4nPybpVNL8Dw1xDJiRNA5/5iGWux0Q9LYt3g=;B1i7SylCKbsUTUGP2ust+A=="
+secured: "0NXtyuNOjMi3ZGtHJINL9CRWH/3r+O3OjBzk40J6L9k9+NZ/2+ZukqFSzXdZv2K2J1A+nEcs1gzpaKX8+ZePJLnUVtDDqgN1Szbpkw0tx3LwlFtnUPkVHGof/S3kcvTtqLFNzwxEMt6FwQGo5ylLbGhauaxR1w0jB5RcmzWg6IatIDOC7AYhakFNs0Q8vKd26yI5aB6IIJakGnY9XzaL07BJ8rT1mWFuzgi8xS7iK/peQC3PMB6g2hjQ3E4KO1yAyeib8VcZaFuC1FS3+CbuMzasejZ3V26L+lXOf3ussNGDi675rzzthFvADpIlbOCim55M8DwENiJ5syjo6F6TCzFjfri1xFL0g1QEAAKuWvs0vkL3h5/RS7bWBPeu4ml6kpGDDUORb2ZGrrkrgz5rYQ==;3mfayWFHRdQml2xGWTFgUg=="
 ---
 

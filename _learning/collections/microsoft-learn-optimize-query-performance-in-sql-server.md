@@ -4,7 +4,7 @@ excerpt: "Analyze individual query performance and determine where improvements 
 type: collection
 price: Free
 length: PT2H14M
-heat: 53
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -32,9 +32,9 @@ topics:
   - Databases
 
 images:
-  - url: https://docs.microsoft.com/learn/achievements/generic-badge-social.png
-    width: 640
-    height: 320
+  - url: https://docs.microsoft.com/learn/achievements/describe-sql-server-query-plans-social.png
+    width: 642
+    height: 321
     isCached: true
 
 secured: "6uQBp1lkPb7dxvgrFwPHEy2ijOt1y+110VOYBAh8ZXoMowOI5f72H8MkrgtWuMuKidf2nW4qvFtvk6lfSoXC59lLOrAeTh95Ip3inUR3jPHgkseEUD9FX8JNzO/BcRGC2+7Ec5nYNWXbCvT/rVpBYFVyOCjqIGc3LUOw6CVcxUTpR+F0Z3Mi3vZODz0KSgW/RPs4iiwlGClYGoZoiZm4ln/4gRcQrnXlfKZmI5taQWYPtdHZ8JKkGRKFBVNiSpEg4fdunsxZI/nsmD7HCBtJvGHNIkYlKMl9Q5W+lVp9OQ1ckDwrT8WyOEkzrUjWQV2IXKkJkL9UyeZ6nZWxTdaSDA==;IiZOUWSuSdXwHxvLTuOSrQ=="

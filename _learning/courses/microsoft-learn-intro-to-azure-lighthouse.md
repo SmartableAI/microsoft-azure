@@ -1,14 +1,14 @@
 ---
 title: "Use Azure Lighthouse with your managed service business"
 excerpt: "Learn about and adopt Azure Lighthouse for your managed service business to manage your customers at scale."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-lighthouse/
+webUrl: https://docs.microsoft.com/learn/modules/intro-to-azure-lighthouse/
 type: course
 price: Free
-length: 46 mins
+length: PT46M
 ratings:
   count: 34
   average: 4.6764708
-heat: 50
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -26,11 +26,10 @@ topics:
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/generic-badge-social.png
-    width: 800
-    height: 400
+    width: 640
+    height: 320
     isCached: true
-    title: "Use Azure Lighthouse with your managed service business"
 
-secured: "/F59YD51Vx22IwqrqVCZJgO8I04hwXR2bM6soT47GCBUUvoIWhahaKQL50zPWMwibrWBRt7+Se+SBQ8JKT+qJS10V139KhmhlZdi5utQA3S9WVePBpNskA5Ox0eBM/tQTe6cVKwkeJ/CMgrWtP49chSGoE24l8UtpjhRKKl9eZHsenHkmMt706Fna3ojzcUVDTaod9Xzke582TKaAaebGPI7KEQXwaAAXHuiWaTBPFKVXIYWxXW6zisEgphg8Yc1bXqOaWuRNbRfSRFOI760O8+hP1qeXGsROySPkfk+Bs4sWqna8hRfJ197Dhkb924ub5R7DobSxkZZGtqw0gmUuf0o0Ciz9Ja7lDTJbKKOFCmB5gK7EAkWAzIG4r0n2rjjEmlqPuEnjqFRmx3SzCsOT2sxybfXMRtS2vIK1UWW/54=;kjAmkhZZvaSwR9yEPzWhXQ=="
+secured: "CG6yC/JIyUTj+Oye5ebgHv+ErjE/o704jCvo6Qwqmd8qRDM+gMfcAcI+lmmzNgIBMK9uGBLNxZU3Us3Y3mOwq4wj/uzeX7GXhCA+qROMiqrh/Y8UI5JI0hB4WGxuLnGR+PK8n3k4QGMQYbkfmMYQI3u7p5ZHC+2Lwqkib6Vvv0H+GhfSEk9ErgWLgM3zmkZgATjU1KxakvPrx50287OT4jNuUVvOPWJyYrDG2IklEKFaKoOWhhtUlh/i1+mSe4UizBnz9z3C4Wuqx64trbtKw9AcEAwq7ftBSy2eSNSu7tF2pG7qxsipN7Ffy1qYLeKO7GS8s2WMRJonmbK9PJp+WDSNVvG4+rrDbXg5XfhNmQDadv6tfN6r01ozx1Hogp5aBqkQhoailLzYXH4WAZiF0Q==;0hEgSEPKEmofct2L2RTc+w=="
 ---
 

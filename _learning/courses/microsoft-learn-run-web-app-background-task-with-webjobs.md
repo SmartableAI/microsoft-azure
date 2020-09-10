@@ -1,14 +1,14 @@
 ---
 title: "Run a background task in an App Service Web App with WebJobs"
-excerpt: "Automate a task for a Web App that should run in the background without affecting the performance of the Web App."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/run-web-app-background-task-with-webjobs/
+excerpt: "In this module, we'll guide you through creating a WebJob in the same project as an existing Web App and automating tasks with WebJobs."
+webUrl: https://docs.microsoft.com/learn/modules/run-web-app-background-task-with-webjobs/
 type: course
 price: Free
-length: 39 mins
+length: PT39M
 ratings:
   count: 592
   average: 4.375
-heat: 50
+heat: 71
 
 provider:
   name: Microsoft Learn
@@ -29,8 +29,7 @@ images:
     width: 800
     height: 400
     isCached: true
-    title: "Run a background task in an App Service Web App with WebJobs"
 
-secured: "WDF+1iUusK5QZkXQaDvfW9wPEkb1gzEFZPaQSagX9QO1pGROo+ZQkg3PfzE3Ar7QBoG3spD/DnDzi+KvSw6h6U3xWjMlC8TL1+3M+RTfCf6OvxrXBo1DyMlxjSZCG24aVp6ICmUd1Agk2lBNdJ951bY+BMOUQ56nEvlCajWAPhq+TGnpH1WuMtm8Iz0aSbjQzmByUODQvGKOTM96P9gejeIdh6MpT6iRlzp8+5/uETn7xfTguazgEWS99JhvjV3CzvZLaJYKOEJs/Sl0odBqqu1X4Tigq3KeYQVO4rmMnyYLD+7hwrbGkIbg++kEsAGIDllvP2d9WzGHFfoAEXnRW6ylZe24ancH6YMkSfVDkUCe9kgdAutKE97IRWCozc41RIXYU4BYpGyVeIShHV/dPqczJbcu64c1N7cwe/I41Pk=;qWfEr/1QAApVFdM6OQ1s4g=="
+secured: "IfjYugj0dBTHVNxeO17XGW/3S2tWbOGI2moYvQzFnSBZf9CrOahrp1LtLQvkNQu17D64APrr7K2cbRBS5w7Hk9q6rN6qchO0UIu+bJce8Hzq5Z8mkk+D0cgACcyFjcRX1fpktC5zW50nAMnb0A1DtJ5LZtCO8FnK3xhltv4YcZjTcSqcIUvYNe9xRxJCmqD2d5GU7ws08l0hRcwlI+rzGo47GEIZJTiVojqlMv+2bDjbK6Y3Zl8y87RpmJ4ginNgcxC/DemUNApcikjRZ8VykCDeUT76NCyZa6rJVSHn84WUq4AbbrlpdX/tQkRgIv34qV3F7Xt+TYi99pM9fMxy/ROIHdTfNFu5ZMEI+MUygHoI+JBma/umE6lNvtAtyvmcaVotxoteTnT2Dbp1cMJfUg==;kAwDSFhbVBgjiPEmllgUSw=="
 ---
 

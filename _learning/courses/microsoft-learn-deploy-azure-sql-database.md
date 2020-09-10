@@ -1,10 +1,10 @@
 ---
 title: "Deploy Azure SQL Database"
 excerpt: "Provision and deploy Azure SQL Database and SQL Server Managed Instances. Select the appropriate options when performing a migration to the SQL PaaS platform."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/deploy-azure-sql-database/
+webUrl: https://docs.microsoft.com/learn/modules/deploy-azure-sql-database/
 type: course
 price: Free
-length: PT21M
+length: PT48M
 ratings:
   count: 35
   average: 4.8285713
@@ -31,6 +31,6 @@ images:
     height: 320
     isCached: true
 
-secured: "ZwvxrBX4wQdraT3KedKZPhEK+DW9wfI0s2TwqtM1IoZbVH7Eh5iJp6IYE2KZSrHF1q3qvV7c9VbgNiu661st841iQIdf5csHzYxmRMl/yGsEinJI3yiwtBlGa2C0gl268DoADNwweL+vN2oYBoxzpKMqbsaAyB+dKPgiPxc/Bzv9Un3FajrwPJpmENu/5ElTztJQP8F8F+yoX5difkvfiTs4IrVefTVCDL3CIi7zkgkQ748LHRFg12kaEQh1KXQY+EsVbJbtMqZpd81KdMo3lVdfeI9dvMV4xJxoNWiDNluZuK/uT0B9sLG32D+PFR6EW8utqdAoppXbr/Esr2cHlB7MdbYBKy7hay7vBg5XGfjdB+bHlE2ytmdxTGS+RVVVDP6W0V3OFFEdvFNEAnuw56gUa5KYlmON6wkkE+1Os6E=;mW0Ea8fTQ8QWdMRRlEgtZQ=="
+secured: "T8cFOw4pQ04kC8qP8Cy+gf0FWh0nDtNhQCLz+8szGWmKAx+KsF3i+xPNZ0gr8GPA7u2h8MYs0DeTMEkXCtFy0IlX+TFYAQwZTwJ1YFYjAA6gJ3YtO4CK4IiVYMW9gKDT7zgWo6HboRIGvYw1n/eiNjI6kxrjZxpZ3Void3v5bmMtXECDWr3IhnDphAOff50AoM5FqbHCsmh7PN6D847AuHDWH4RUyJZblzbkpER9TNgy+jOtVHTXCso4iYGS4o9b/5JlUqdzta8GFIZtYsjbWUWjO87BYLgyFcKJTfJpOffB/P37rWOBsjva3y4OOnJHIFjGGZg1e9/67Oqvi4Zl0rp/t36M8fA5ehr6KVJh7vXRjhFpcQbXAJ3MfhKbVZzYe7qV91kzWjMVA5H5cPLWCQ==;kUceOmPnebPAqhWWh+55sQ=="
 ---
 

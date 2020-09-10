@@ -1,14 +1,14 @@
 ---
-title: "Use a Framework to Identify Threats and Find Ways to Reduce or Eliminate Risk"
-excerpt: "Threat modeling helps you generate a list of potential threats using the threat modeling framework and find ways to reduce or eliminate risk with corresponding security controls."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/tm-use-a-framework-to-identify-threats-and-find-ways-to-reduce-or-eliminate-risk/
+title: "Use a framework to identify threats and find ways to reduce or eliminate risk"
+excerpt: "Threat modeling helps you generate a list of potential threats using STRIDE and find ways to reduce or eliminate risk with corresponding security controls."
+webUrl: https://docs.microsoft.com/learn/modules/tm-use-a-framework-to-identify-threats-and-find-ways-to-reduce-or-eliminate-risk/
 type: course
 price: Free
-length: 57 mins
+length: PT57M
 ratings:
   count: 142
   average: 4.683099
-heat: 50
+heat: 56
 
 provider:
   name: Microsoft Learn
@@ -22,22 +22,16 @@ levels:
   - Beginner
 
 topics:
-  - Security
   - Azure
   - IoT
+  - Security
 
 images:
-  - url: https://docs.microsoft.com/learn/achievements/generic-badge-social.png
-    width: 800
-    height: 400
-    isCached: true
-    title: "Use a Framework to Identify Threats and Find Ways to Reduce or Eliminate Risk"
   - url: https://docs.microsoft.com/learn/achievements/use-a-framework-to-identify-threats-and-find-ways-to-reduce-or-eliminate-risk-social.png
     width: 640
     height: 320
     isCached: true
-    title: "Use a Framework to Identify Threats and Find Ways to Reduce or Eliminate Risk"
 
-secured: "89OKyBJ1CfsmEtrwf05gQ7QHRhvbZPqbowxuWJc0nIL2JvDSEpeGiwlcptcu6oVpWFR0axk8fejhFhqFPQenmE+AmsL2Rw3Xt0oDcvC7FsOp3Ga8ZJqLrta/vwg2I/u/52IPPhpsdrlB2tX9o2ty4SpZgrUa4ygNVgdwoAyHu7r4ld3cky1zRp5XmoAjGZuBf59MgKKuQYYU3jJn24AktMHR3UIKCmbmYyjbKGjALM7NMd9QLMpxl2mJL8qoBkF2WlQNHuVS9JsInLnJ8IF8VDLo8oYFRhFsRKAH1grceFfVmn0I2uxLdOTWk79wKc14Itxdr/xI01DUnFOjFgpiSx8XETwSIZjt7xjakvrn0ZwfJUC/wCxGwDe8v+ufH25kOeuaAS9w/OqNO+ZHywhfkvZ6r1Vs08T21FvgbYfa90M=;Wq9x9V+KE3j/FngwIOoAjg=="
+secured: "RfmrY0Jm4Jk3wT/3FVkmgIxTQgiwFXGODzwSpSe5rPakxr9CK/xiXzfRcFnnjimYBucRG0lk4xSvtQmbPLt3IOIJS1KYZmKsEWxlTVnmno2zoteaXtNbf59aDlxj4ZmrAtsBrvNkbGTjCQQXpfVaemAc+fNnXU0hTfrz4PrIXCb0n9FK6bB7JaXcuDjOZ7JzAQx7nkgxuDiB5xr83pb2clLLWMaO7MkK7GIUu24xFno9vqAox/PxomHPlYS30p2aHVYNeEc/jt6M77cSLvJnP50ChabXKQgRdEXDue6JQL+ISe4iAR8ZEE95V0ItjJlkaTpEjjnXIPxu4woIT+IIDD0xY3gkXSMEWq6i0XAvX8eEINVdAlZgaWaeQlX0TP3ZcfGrTv3evnhpgD2q2TjZrA==;oMJ3GBFSSdjDsUV6S7UufQ=="
 ---
 

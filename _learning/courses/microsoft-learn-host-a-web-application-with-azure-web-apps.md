@@ -1,14 +1,14 @@
 ---
 title: "Host a web application with Azure App service"
-excerpt: "Azure App Service enables you to build and host web applications in the programming language of your choice without managing infrastructure. Learn how to create a website through the hosted web app platform in Azure App Service."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/host-a-web-app-with-azure-app-service/
+excerpt: "Create a website in the programming language of your choice through the hosted web app platform in Azure App Service."
+webUrl: https://docs.microsoft.com/learn/modules/host-a-web-app-with-azure-app-service/
 type: course
 price: Free
-length: 65 mins
+length: PT58M
 ratings:
   count: 4974
   average: 4.597708
-heat: 57
+heat: 150
 
 provider:
   name: Microsoft Learn
@@ -27,13 +27,6 @@ topics:
   - Web
   - Management Tools
 
-images:
-  - url: https://docs.microsoft.com/learn/achievements/host-a-web-app-with-azure-app-service-social.png
-    width: 200
-    height: 200
-    isCached: true
-    title: "Host a web application with Azure App service"
-
-secured: "5V88OxRCqrROBiWqAIshrKOunoa3ZVt+1OM8swD83htUPFTNiw/oUt6wNIorlj+Abu8lX8NPZxQ3On2Hiw4eBUe6U+8U9LxOBfI4TiRARb6YOLTGoKegUgyPl2BAkCKaSKlJ6tLxmV0nm7oI3jvnNo7dfXw7HAIryWk3OEiwWGAC74duEgzyysg1OfmHQ/kqXff6y45rTnIlkYflFIThIWGaETzkEYlqvCt7fdmTxvlpD8rSpI/xIvczEOLdcTERJFhA/DVmzTuL+bDHhX/09gy5ev8u3MiKvBD9NyX2nMKPQ6/GH5O6A8RuaAuHlg3YKNMDDj9NQcgh6d1stSiTfT4l1L863kQlR/jFdCheEsPsHMrCzlioPrWbPRZtL2va4ON8ACOTnOXd6f0+YcpkOnnte2TyA67+jIbJFfkzc/4=;xi2ZkwXNYxJxd7hgp+T5VQ=="
+secured: "LzI52z927l8ZqprOo9zuYr/iFRh98+3ZZxIG7/RhMDy5aKYxAkTMHQhNl3Ue4Bqg9+mIYpSzkjOYb1Vp83mk5+gIgZVsO/mr/fwFg49yJTrLqPFHaRXl7Fp+30rmR/tSR9l4JMYXormC3+ILG8vubHANzK4lTPJZyUtcWXeBdIr+4rsTCK1uMVIgPQHtdepGo48L8pm0TIUap7v7j9cGMYwboFeqctIi6nPBBpfNzMy8zPBNSNJpdShpaPjbBlu8CiKgYZeJW3pN7Gr6/fCcVRC0OiPP951tNuFV5RWmJ3iOr+MDyBmiJXNNh0Db4JlOZRWtYypOmnZYaIlka8DBD8HzmbAXIr5MMYn5aBRnAvg/3EycwSkOSkaay0ql51dlsfKcLwHum51d7mo9v/4sTA==;5K9XVkC0rYhNyo/b38BWNg=="
 ---
 

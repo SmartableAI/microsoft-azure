@@ -1,14 +1,14 @@
 ---
 title: "Fundamentals of network security"
 excerpt: "Explore the fundamentals of computer networking security and monitoring."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/network-fundamentals-2/
+webUrl: https://docs.microsoft.com/learn/modules/network-fundamentals-2/
 type: course
 price: Free
-length: 36 mins
+length: PT36M
 ratings:
   count: 1688
   average: 4.6854267
-heat: 70
+heat: 101
 
 provider:
   name: Microsoft Learn
@@ -24,13 +24,6 @@ levels:
 topics:
   - Azure
 
-images:
-  - url: https://docs.microsoft.com/learn/achievements/network-fundamentals-2-social.png
-    width: 200
-    height: 200
-    isCached: true
-    title: "Fundamentals of network security"
-
-secured: "oKNB6Mlry+fCvZOm7q+yFK3iDSDwti0WJRHkLmv8ICaBcJy3Sl9NxaTTyeicRd5WpE2J40mLZ8ymunIJgm5t/tuGuubT+Nm68WUmG9YuVRrR6ayTajvqTRR0gRDz5Z6YBw2HrpilRlIizFdVcrfGgiA1VgBTjTwWFZi7wNf0iHRSBqrZEY1HIPWL5LgTILRvKb+a4XMIFZcZNSnPTVyCmC/OUS58Rv6G6/G674BDB/YP2sAQgu16ttT3SX2tJ1mGwx+hZvXN8fyteProo/xGm2m/FytDj7lMLiMHktM8N5nuayue6jwfKnb99SO1Kr3W5SoCfUEVWMl3cCAzuJ97P9MOj5SzwHJJ0bLYRTvekESHl4QBDvJ0soAyiWCmg8bHnLDxw/3WWb+nd60M4JKm+OisVrgGC0NVoQ52a1qpyy4=;7F7ZHGTefcppNI/jFhP/jg=="
+secured: "1KK3kgJGAzfcaM6K8kvTrwI+Lci8nnn3onsYrmTYPMFObXtvAKxXvumIAvWM7odV3Z1xOQtISvnoAJWWxHWhtCndaQokt1VZKcnuYFtRC2mrRaw59LzYVRiCO+NPWqLeXwcjUcHH7NGICJSn57fQKGbfhUZG087yUn6YnH9dA+Lgg1bRadWS3bNib+YbNCC7zu6tpVOv1tH37rCbv+iv+HRBi5DY4YY3kFHVcmHGgKXLTh6tBp2m7UEBHoekwBbx7UxQIjOTucxitmMaEBWy0FmYRJxj/814vWn1umQGJzcnQFSHAJsPcDfcbK0VzrHPsG3LA7kA+llUg4WVj4RNWu7rNT1ewp2RiO5MADF024GgkTi1G5QXE38e2MU2eYpKuo8EJbb9Xds7wNk4CjPwwg==;LRz/wTeR6Du2ECHL2jHTmA=="
 ---
 

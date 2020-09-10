@@ -1,14 +1,14 @@
 ---
 title: "Introduction to Azure Logic Apps"
-excerpt: "Characterize the types of business processes that Logic Apps can automate. Describe the function of connectors, triggers, and actions and show how you combine them to create an app."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/intro-to-logic-apps/
+excerpt: "Learn how to evaluate Logic Apps as an automation choice for your organization using criteria for integration, performance, conditionals, and connectors."
+webUrl: https://docs.microsoft.com/learn/modules/intro-to-logic-apps/
 type: course
 price: Free
-length: 28 mins
+length: PT28M
 ratings:
   count: 1565
   average: 4.7067094
-heat: 53
+heat: 99
 
 provider:
   name: Microsoft Learn
@@ -32,8 +32,7 @@ images:
     width: 800
     height: 400
     isCached: true
-    title: "Introduction to Azure Logic Apps"
 
-secured: "cXrHcANAwBdnB/IwikRH7MlLmBmfnJU+pbyDLYs1LsiYZxdpDiQyewN8BbYHdUWWTKJxRzRQlHYeDDhpa6j2PVKqveBmFybDRsobtUg9zMQP+yaPfZ7GnF0SKtwviFT5qhX44Eyc48Tmkwf/20NCiBGlSeHB5uJgHQuj8ySj+beVt1C9JoIMgkfKuCn0FMzINmVjtyJHbUJU2HT9/I79yPwRnTRVM02rhW8rGXhFfUKcYWCmhJ97XsbCf0I6eBJkWcsWXKsBy3CdwBuk8q6KfYJkpHiRLC6BcIYKPFVOsKpbr0iNSJwXQKz/KED14hACEyZTMYZOvTnEd0FOohlLrvsqBS8oRQ4VvoC9glZOqD5FD1MJKn57GU3bYQj3v6yyuPMTosD0qHV4cHH3nWjLPwDlzNYd+f47eET/IYx9lIE=;5OP0s0lrv2bvRMuMt7U7rw=="
+secured: "1fzd9vUQyLhSuC0cRDoUSwI9ANm+BF7aQv4FJY4gIommKCbGCTC/AJIZatf64vY0OUk8qETsdW+RK+CbiO+6FL5M/msp1i2PQx0pmPdctMrrTAKIjbeZJ/HS5HeoHUcAGduZrJbj4h3GIOFFheUxeCKN7OZ8ooSQmodFkqHMpxs3nsxEmYZo7uhGwmW8U3NdZ5EohDQoJMG+49jwsbUiDa9KRPCJ8L8DlmWGRhCSjRsXRQpHiIw9mey6M2prAjkEiKwrOrSVJy23Av4ZKzk4CAqfI0lSgjDmG08BihWMJmIQCHn16zDKBBK/hE/Bq7C936AIau+i/NVWpGvbkPVI4hsAgZr1RBQSLXXmoLiRunVwA/NqguPBF2yBHlrChVhL8Tv/5CGC6G1o8LYQBgA+JQ==;7uNc0frGI4yWbDF6SnMMxA=="
 ---
 

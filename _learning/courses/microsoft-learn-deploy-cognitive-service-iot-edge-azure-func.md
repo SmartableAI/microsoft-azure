@@ -1,14 +1,14 @@
 ---
 title: "Connecting IoT devices to Cognitive Services using Azure Functions"
-excerpt: "Create and deploy an Azure function to make a language translation IoT device. The function will use Cognitive Speech Service. Your device will record a voice in a foreign language and convert the speech to a target language."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/connecting-iot-devices-cognitive-services-azure-functions/
+excerpt: "University of Oxford"
+webUrl: https://docs.microsoft.com/learn/modules/connecting-iot-devices-cognitive-services-azure-functions/
 type: course
 price: Free
 length: PT1H16M
 ratings:
   count: 31
   average: 4.516129
-heat: 50
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -30,8 +30,7 @@ images:
     width: 640
     height: 320
     isCached: true
-    title: "Connecting IoT devices to Cognitive Services using Azure Functions"
 
-secured: "J2312HnegSmKRNXuO3kKGf6o39lBbU5irKRBBs5T2D/Amf1Erq5XtfR3Y5crNF1LTgwaze28WDY2xyBDJ/NN5i8kf63Y41dSWEIkCjnzDTb7EzSqPfmCUTTxzhge5vthhXdcRU0ktVYeXJZPQTaIxfmd+00HE8n3lgUhauKGpxPWhf6WM2SwZw/OtxfPMkltiWzXersRwEXrPkfptTmJ2DFsHAMvmAwG8CqpReHmYWO8dOeJgkGZW66Hrsqk8U6J1KVBWATrwu3KDzHI4XHZ2OEfh9354ojJhUsXgoa8K10g9Svhi53XOPDMuzc26nf1bmhUWTqOVHp8bjgcYKesR/sU4VWNT/UbSWaksjtOg4yMhj3fgrfczZtC3EYWCaMOjgNX6YfHNTS/eo06CNYdwZBmzgEwQzCkF9SuURg65+c=;/vSwj96lkIzkpN+KD+xE0w=="
+secured: "oYDtDhSKwqh/KvUShrFB7/toDl34vzKdQdIHPG/lS9hSIfK6wpDtyghvvjhItrfNOdlUbdAI0z59+jIF5Ye4bFM+cWH2s7ZU8VP/X8eQPRfOgUnhkgkACJRinBL3QgbaxQWfnYNDqJ+mrGix9APh3wVlgij7l7622UXCOrCZ3sIoCXJkBekUqVeNOwHUfajrcfWC7ukCQ2KKb1XSRZ9pLCSN97zrJTgKm/V1X6cSrG/0YrAD7v+caejhDp9qKMCxSv9D9uiToSRn79EjMvnrJzcXg68KUHfaQU0Y0iINOCNhVujjQFjdl8QBkRAWLrgD8H0+5PojeMcZ2WM91vMonqGxEflUUj7ae1vGTY9uFU+sbgXBV8KW27Ajc1yp05aNwN8SvMe1hnDOhNB7WbMtvA==;uxjnKUZIsvu0LZXIFszJAA=="
 ---
 

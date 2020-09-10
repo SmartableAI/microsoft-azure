@@ -1,14 +1,14 @@
 ---
 title: "Collaborate with Git"
 excerpt: "Use Git to track changes to source code and collaborate with other developers"
-webUrl: https://docs.microsoft.com/en-us/learn/modules/collaborate-with-git/
+webUrl: https://docs.microsoft.com/learn/modules/collaborate-with-git/
 type: course
 price: Free
-length: 55 mins
+length: PT55M
 ratings:
   count: 267
   average: 4.681648
-heat: 52
+heat: 61
 
 provider:
   name: Microsoft Learn
@@ -29,8 +29,7 @@ images:
     width: 800
     height: 400
     isCached: true
-    title: "Collaborate with Git"
 
-secured: "r344NIZD+Bj7mdQ5UMW7LN+oBhrVAZN/NBqSPGoI7lQBM+/LPyjuBochrWJR2wqeHMLtqutWy87c4wHazSWa6U9EqL3V86+2koVgI4GAE5m685cvn1FRwDPsZ1l9QbKM3dWsLc9AATTYPaBVRnw4GUi0qHGmruujYbe+FbU/1NHb07mUlF8EuN+3xMI3vA9lRmlWVA7BfQQfzUIkitZcbkOX2Swf071QO9Lb9gNe5Qn6XZNzsOfX/yNroV6USonl56UMCVY5oId0VqbQx0guQ11J411dI0rarOCHt5cL3EDl4U/mtpHL55mtzeCyxQ2nRoltqdYh5wDfMJmSJmQD3SJshNUbX81GuNrBmS8pKaIX5CcTylfcHP1Ka7KkDRBbgAJk+IDegZepOVtQn9+iNQlTsPZeNRL5wJC4oZdR9Xo=;tEsikK8m+EvYSeg7tQMFXg=="
+secured: "kZVwfVadZ6LVlskUIfQO9aCvLMrv6sBCq7O1BjswtdBoll3nGTLnH5TS0D+N7KPljDIKKZSp3/d5aOdwkF1maX3L1q5QaWB0pM5Yk6NwUuaSFfZ1ZqJjFAtmdwPeDmUWe8fmGUw5dgiXEeNccnfbpFjVtFn/ommly++Kbpg6+6631ASfVkv3BnYEzONoehcwNBi5VowAsecfS2gT9IFIWYJi6897LqRqh2B/9raHqidJUArFBCe6J392d1J80gUQimMP/BIgdMvfAGXcRqk+P6jhmv081IVuvbWVezuGziJV6Di9EsSuHAWxjeCPaAUlrBvRmYH7QkQY2PO/qFCQfK4u9cUNEonKut3fBY653flDdjIK0aeEfhQDoDeYbz82QQJKzseoPUt6URsVefeuoA==;P8UPrQ5MGVRpJKsFGEEiFg=="
 ---
 

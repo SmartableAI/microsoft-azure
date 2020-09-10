@@ -1,7 +1,7 @@
 ---
-title: "Image Classification using Azure Sphere"
-excerpt: "Implement a neural network model for performing real-time image classification on a secured, internet-connected microcontroller-based device (Azure Sphere). Describe the components and steps for implementing a pre-trained image classification model on Azure Sphere."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/image-classification-azure-sphere/
+title: "Image classification using Azure Sphere"
+excerpt: "University of Oxford"
+webUrl: https://docs.microsoft.com/learn/modules/image-classification-azure-sphere/
 type: course
 price: Free
 length: PT1H8M
@@ -30,8 +30,7 @@ images:
     width: 640
     height: 320
     isCached: true
-    title: "Image Classification using Azure Sphere"
 
-secured: "9MkQLbuG3QpSd4Ww0MwmVkc2fI7nvLwxG/XAMKaHkRcjP2LXxZZXkdY+olswlKL3rVM/Ktdv++ZW2WV+zjcoiz+dkCHnW0B9oqeP0Xx4dcTBzGOSK/nJRcOn5G03rMoPLGmNReZUcU76rduZ9zw/klPZ1+vT1pMLTIZp+RZPC0gYfy8p5FDWiYLj8zyKGbrxjhCZEQLrtThLjpZUPrjPCtF1bTMtW0JRP2PN6usFesyT6APrglbZJMDELZ5+xc/XOTzWQQ0nHY9V8ZwWWaY9xZ1XWUyYQgHK2BXYyJKvCNfagigRZh+h4eI974KXpL+nvPLTN52hN/LohU5f+5FEAcJJ47qT7XXMGpxLiPrEkuPUY+KOnPFmuUW7IYKDOcobnmYp0gkmYJtEyJxs7YTEXKMxhS8/wwlV9hbUb8eFlSs=;CwX/mmgjWmF1ka8YIilGaQ=="
+secured: "wn6bKBn/gaqGmH9LZhuxfHeN0u2gRRIktvon7q4mRMIUDmbuxETUE6zx6EJpohQR9RPhmLPrtv5u0aRU/BzP++ErRNPz2MhA68EuQ2N2jdLsWR7HicBYtFsnaryBOEj1wfaWvhyGeKp0M0XGK9GBZZ4Aoy1sTzDpDUyASQcmpZ03vafqIv7coMSWIm1ULMRRAweRUxJHdRmCD/QWKLoz4nUE+WG+PF4CKaXZ0tEI7UyjDua4jzQB7vA8H8eIyIaTedyM7SW/MELVN1Ou32f/HJFWN3MnBgrukdsNXgth+J8GNEYAWgkDgyjRK31Y7d7nseg1WLImUfAwzpqEA9Exmv2R79LEHQzKBq6qRtIYRfvkgPGSONpi5xUb/R5C/UoJFCf4IqlmtVdWK2Ob0bh5wA==;sBoE4HYbpiDj40Gfe/xRPw=="
 ---
 

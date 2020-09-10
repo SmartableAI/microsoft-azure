@@ -1,14 +1,14 @@
 ---
 title: "Introduction to securing data at rest on Azure"
 excerpt: "Identify the data in your organization and store it on Azure. Store secrets securely, and use client-side encryption and Storage Service Encryption to help protect your data."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/secure-data-at-rest/
+webUrl: https://docs.microsoft.com/learn/modules/secure-data-at-rest/
 type: course
 price: Free
-length: 30 mins
+length: PT30M
 ratings:
   count: 182
   average: 4.6318684
-heat: 50
+heat: 57
 
 provider:
   name: Microsoft Learn
@@ -32,8 +32,7 @@ images:
     width: 800
     height: 400
     isCached: true
-    title: "Introduction to securing data at rest on Azure"
 
-secured: "Yoc9uBujkhpsm/+JwU0RC8jKGPmic8/ZGEvIE7ta7qyK+NSggWcZzruP0nkLWYl7wvmlj3Mmh70VeXw2+jk93VTmeyTvsRqjJubv87jZwAmH6+3lKAhHT/dUOiWee2Lw+h+ccq4lh0cztIwvxLK+I1IfyC3H+HBHRA98oxGYlrBajjOKDwRxaG5KOadviDHFT07GrSpb/yP8s3/xVaW5crazl5igIzRT2SU0bQf2/TTEtgS5gw9eg9ZS+f33XyLmP1so5vAZEMskrjCrvnMkTxk5xFFHxhaablUX1T1S8WzeLBToVEWcUGvxXie1wCUlxdi6TU7FVwMHJXyAQbkYB1MZ3XeSOFiwY5YTLQaKbFgjsfTHa94IfIMNmjHSjhkk9ZbQ9iDDRC2YGaEUqyXh9cpVFPuI+Flju8T5/uTGbFk=;hnPv2c4xSHL7EA1k8Py0Jg=="
+secured: "l9jhgaVdjK4Th2sNmgQXeNaLIekwzYP5aj0BKTK911tZ3gVyYJVPyaGElHCvtJ/yweW52EV6guggFe7SKYoKMn4v6s5c+Mqi+asBRvqY58ygIl3QT7zk7Bmnk8RpNbK8QuD2qrZEorABw5NVn5mGtGL73+9/qdmsV5g5pfR83CSEG4Ebg5S60Y8n8V4p99weKSfaXfOMxmvoeOQ4D7bpW+K6tXOjGjsStuLYYQgVTTAccjf0uhf8baZxLYWDtiew8ka80IoaAknSxmU6+pco8Nj9EdhItT+qcqTrLfX+lKHziw57LHo5ecTOJxGlwtphxZgeAhNeQCSnFzeXjy0hf+r9FbuGqOGEyu2fNZ1cJH/GF4Si4qJTFmpEEU9UAaPNDP9jyn1IL5NoclYvVOGMCg==;S6rbW74UG0uhN+OX9S1ZcA=="
 ---
 

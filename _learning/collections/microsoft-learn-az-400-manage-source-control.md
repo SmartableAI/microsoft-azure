@@ -55,11 +55,10 @@ topics:
   - Azure
 
 images:
-  - url: https://docs.microsoft.com/learn/achievements/generic-badge-social.png
+  - url: https://docs.microsoft.com/learn/achievements/github/introduction-to-github-social.png
     width: 640
     height: 320
     isCached: true
-    title: "Introduction to GitHub"
 
 secured: "pIQoDIdooOdw/lpbRxY0ij2U/gUCEqSugJ4dZPQLKc39JDVKvGhVIM14Yg2XXHs5P0JrznfkMlVAYET3RGeemQOcqfRYAyoNrL8evgVe9dfn+kf5ZfeANZ7eQTULRehi7hEvA2dsGINYBar7Ms/vUQ2wILsVbu9G032qtKibRr/+j7zpVBKZ7gDnDctgrCbvkYlnIAOy8OKIUv+pHx416CxTB4d4c2bgsBNLmrm4FQLxCo0nH491IAy/gY5+arN5aGXNmFNArI27P2XPxb/Qrwh7lFIS9xTYDmY2zVo5QPd1h7+c4m1a7atiQqB47H8DxhsODN3n5NI1gb6mdZms5g==;+60S5IgyoK+gw0ggOS0mGQ=="
 ---

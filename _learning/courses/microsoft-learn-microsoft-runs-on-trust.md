@@ -1,14 +1,14 @@
 ---
 title: "Microsoft runs on trust"
 excerpt: "Organizations today are moving beyond the early promise of the cloud to digitally transform their businesses through faster innovation, flexible resources, and economies of scale. The Microsoft Trusted Cloud was built on the foundational principles of security, privacy, compliance, and transparency. We partner with organizations, empowering them to achieve their vision, on a trusted platform."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/microsoft-runs-on-trust/
+webUrl: https://docs.microsoft.com/learn/modules/microsoft-runs-on-trust/
 type: course
 price: Free
-length: 30 mins
+length: PT30M
 ratings:
   count: 5413
   average: 4.742287
-heat: 55
+heat: 156
 
 provider:
   name: Microsoft Learn
@@ -29,8 +29,7 @@ images:
     width: 800
     height: 400
     isCached: true
-    title: "Microsoft runs on trust"
 
-secured: "QL9QxH1beO/8KEsEd0cZ1UJ00zs1GAwzEzcJkZpOvco3qW6OTXBLIg7tBaNrSpQNH50cG3gmXHAMS+NLcsIsgICVGt+oV9+pCobXFqCTDXOKvytHAyRf8uAUPXWdZXC109C1dzGiOOUCAiUJwaRBKOVYVCU2QRjMyiCglxJOM9HuP1MUTro7K3kwoWc0qSo9VHC3bAhzRn4RXZ6P86ZQFN+F/1LRxqWiy2DWPP/6JdbNCXAiA64T0D5yiwAdX91PXsk9SCRVJJHYLrF24VqUEk3H+gessJQJk1v1ZGZDFmZ1vyZXpqk/A5B286CmPp1+4ckUtHqR9r1YMGP/qJ+wQJS/owEr/HR2AHCr9qOXfmmFjTNlCRoGII20VEsIVR4E0MDvNJtY7uP+HvfxKIwNS6SpgITDN/uw6XpDr91nA8k=;fHYfCqgSULkdH3yRddMSkg=="
+secured: "neuf7XE2xggD/B2BPBk4ucuzvGOi5WnyAFB9Qb7lRQq6MRo3FPogpAaM7TKc14TSFNG/X3YyJCQ7imlAURjtziP7z0i1Kx8qHO6EhpfDtwzv9uk7X2gbd4GHkQeUokxrMX9x0fNAa3TuNRqNlf+ItBy+m+KgkjSZQsiUoIl+jv9NAGfecaT6GY0CMdme9+xK4IPCqPL+8LxVs5FaCLqKGRhqmZEnwvF3KbMi/5nmR8QE+jtX53Yt6AiVU8AkTyWi2itZC94YakygYjAis9hjUBKSuEjbwlA4eqahSBJ/25BKAvZnpl/GwH4hb8DKn8IcOw5rcQeKMB1CpnA4fhT1gADO+Tmfo9w7CPCeajiuxTFf+2d9EHpnnIFpTYT013gZJgxk4O60V9XckyyA0eIiXw==;RF0k5UkGK1YAHB4rlW9L7g=="
 ---
 

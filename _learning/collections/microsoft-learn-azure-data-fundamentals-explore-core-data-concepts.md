@@ -4,7 +4,7 @@ excerpt: "Learn the fundamentals of database concepts in a cloud environment, ge
 type: collection
 price: Free
 length: PT1H48M
-heat: 72
+heat: 84
 
 provider:
   name: Microsoft Learn
@@ -39,7 +39,6 @@ images:
     width: 640
     height: 320
     isCached: true
-    title: "Explore core data concepts"
 
 secured: "g6WaFWHWGQq2VO+7YurEIOUUgWstV9LNFtUZHx76P4TZjGgRlLPm+JhmAtZwtVZsH4cbaW57Ap7U8f5OdAA/Z1uBSGHrm58JKy7Su/G3mbW3bbz8G44bjWgyPb466uFyI4t1Ri6GOYVS4Qsnx+kLagf/H1NReBoy19TLRDwOSkCKv6yu1gkyBu0dA9xjHUNAy1j0+IyhEE4/BRSRb2s0Mq/DIRH6FWzZTgctuduFsx/P6nU8t7IzsY1OAveC/6WHO9qzz3J6nA+71h/2M1IF5k4pDGXekvZqqtk0sZsnTVP4zi9491m0LxI672nthIl9BcZ430NenBNZoZUNVTeKew==;nTTNrsN6Hv8xOPjGBBXK0w=="
 ---

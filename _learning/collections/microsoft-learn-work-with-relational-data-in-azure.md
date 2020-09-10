@@ -4,7 +4,7 @@ excerpt: "Azure supports several popular SQL-based database solutions including 
 type: collection
 price: Free
 length: PT4H10M
-heat: 68
+heat: 154
 
 provider:
   name: Microsoft Learn
@@ -39,11 +39,10 @@ topics:
   - Management Tools
 
 images:
-  - url: https://docs.microsoft.com/learn/achievements/provision-azure-sql-db-social.png
-    width: 200
-    height: 200
+  - url: https://docs.microsoft.com/learn/achievements/azure-scale-azure-sql-databases-elastic-pools-social.png
+    width: 800
+    height: 400
     isCached: true
-    title: "Provision an Azure SQL database to store application data"
 
 secured: "UpIKkAT4YfZMnWyfxsr0BQ0z7PlJfoAzCdcBzMPxOf0NEQ1CGOaGzkNnwm4uIaL9qVO9F7abU0UkikcTivHSFOPvtAw1XYShQmpZgNSigq6xTvtHuL1bxmceN0guSVdpsv5lxMyJSTGT3vPNZ3mM3DXaHVdNbKk81MM+NssQPMRS7rIeeuKNHObpl6B9GWx+W9Az/Rk9hK/LHtpRT+KE2Ezs9taOdbToGbBF2GYSyUX3xBK/fDXx7RtJenI6Zf/SQFo/bCcuWTvLlUPi9Lde3FcamrLmirBAW6RANvWrmPmNmWjYknt8XmSzwoB+IZTif41YlR1E96gvum1FtN8C+w==;ka2PEi+aC5G65DUqqpciPg=="
 ---

@@ -1,14 +1,14 @@
 ---
 title: "Analyze DevOps Continuous Planning and Continuous Integration"
 excerpt: "Explore the first two capabilities in the DevOps taxonomy, Continuous Planning and Continuous Integration."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/analyze-devops-continuous-planning-intergration/
+webUrl: https://docs.microsoft.com/learn/modules/analyze-devops-continuous-planning-intergration/
 type: course
 price: Free
-length: 22 mins
+length: PT22M
 ratings:
-  count: 776
-  average: 4.6765466
-heat: 83
+  count: 782
+  average: 4.679028
+heat: 78
 
 provider:
   name: Microsoft Learn
@@ -24,13 +24,6 @@ levels:
 topics:
   - Azure
 
-images:
-  - url: https://docs.microsoft.com/learn/achievements/analyze-devops-continuous-planning-continuous-integration-social.png
-    width: 320
-    height: 160
-    isCached: true
-    title: "Analyze DevOps Continuous Planning and Continuous Integration"
-
-secured: "njdv+Zv2+xSLBpOYeEjwYyjcFutlOyzWBTcC6d4JvJKazR4cyDLZjrxMvNkkSl6HNC++IECl63OG3IeSPQJdcAUJlLnVgSGjXBJPfrPnmNoWg858l1nyaODL7jR5aC2qolOZofmhXgldkmGtDdUJ/fEjdo0Ex8xcPkaZF0v2d57RnZzIqCno6fkL0cr0cWgYRr9nDF3rBq1QSzVCotwxL/8YW6jA+vG7OX1y4/NYlRH47n7KjWosWwXKgsXwx9cjc2HYFoVnbOBieAM+8LlCGOloDFt5uzRIqBSwf3S/toW95mpBWW1xhRjLxbzHjL+LFmwG+pC2N3WFV3atOzsFz38vBtT9zzq07vtyw3CqlN0/EYLOyn1PhEBMihYJlja4xEuzbC6e2H4+RehJVJ1isHwCEN46E0nevTfVHND2dCI=;jSiiz/1eNgiQtx0aRwhycA=="
+secured: "KrXDTS3vBQwA3Y31CSadrlDF2aZqOBFoOibLkqp/bS0wdMsvGMMkim9C/dZD4RJ5UUq3CDWG6q7yr+fIMeeOViq5m93codVDTRhF6wE7UkWJKh6vvf0PjKu9ULdMytyCIUuMGMQShMeGD/RYI2Zvmn8TWUsESCDcTPy6Kmg071qqWJYRJGJUT0uRq3T4pA5jHaCh2r9rOypgCP1iurnX3gpWeHio0V23FmUyZftSJtpICRpf7oanC1xLU1vkThe3w9DvT3HzKQgn7DPikmyDcOFBkyc9qMN9w76q6k2gSSd4A0ZMg/T5dr+mQueyhdoJ0v5UQIUg7eJhk0X5RuScc8uYBV9qtwcICrPPEuKbuGJdZoI9PFIlA8LwvXHfuFeYJkbGeGMteu11F0+YsL8zxg==;PfoQ236y5LU+7ZrPuYO4NA=="
 ---
 

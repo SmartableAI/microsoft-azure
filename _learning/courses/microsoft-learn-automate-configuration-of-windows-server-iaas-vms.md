@@ -1,7 +1,7 @@
 ---
 title: "Automate the configuration of Windows Server IaaS Virtual Machines"
 excerpt: "You'll be able to deploy Desired State Configuration (DSC) extensions, implement those extensions to remediate noncompliant servers, and use custom script extension."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/automate-configuration-of-windows-server-iaas-virtual-machines/
+webUrl: https://docs.microsoft.com/learn/modules/automate-configuration-of-windows-server-iaas-virtual-machines/
 type: course
 price: Free
 length: PT49M
@@ -32,6 +32,6 @@ images:
     height: 320
     isCached: true
 
-secured: "SME1vHheLPHu7aa+MwwlDG2YSPwznkE3GH0WRs3GAYN9fMgETTmz50e5Oab2ho16lSV3eCqkdq05yyh1+8MsHfS+zMJdN/1RpUHMFQiGd+0TPjG7Ru6+p66Ol4ZhvwNxr1H6mkA8IXtq1bfZ2JKVcT/oE9Fdu9p+ahUtVGTtwvSOy9jf14qB/R9JIkppaer8OzW18Q2/gCZ9e666o4cTotsX2hfZsrzDK90QGjGvypcCOo+bJh7fn0DVcfyqqi6NGzKS2H+5StID3g1vbpCqGJej5nZoOFgP9NxcQdlxkAH91VfKC3AjtB5xznUXdurS46OfJZ+lte4aK+LNz33cebSZE6AlyruhrL3LbHusu3p8N2b89DCag1jFZlpt7uQOHxZC8t07MfcY3PeGDhAdg5m+j73Vbswr+Nzc25f+47o=;IjpwHTPsK1Pu9wlkTlIhvg=="
+secured: "rmEZenQYpieuECwFQgq9iQA4RDEX2JpN5JbZq1M2RlP4GLnNi796B7lFoRLJBJrbQGaSCbqMtTFa0X3lJDkKJdqhyL0Sa7aEt7cb2c3IaUO+dxd3gsz9v4ozJg2bXjzbfBUyGFMJ91SIXbe3etkBm95/fTZqu/e6RVryQ6yMmWfTdjMtfaXSOOva8ZqqJswNnZnXFmE5TeuvFiwejJi8w8Dy+7H+AnbgdPdsvtAOq0gNtmULNRZDRggtDVNHDSifr7kTCtfhtaxCHrzGwxGcn4E6bRAYVwv7sWljvBI/7+3wgAIuMj8jbfSqrNHh4cYcmvZToLq50fbkoBLjoO9EvRU1L8HhJX2DDgSB+ztUtc85JnY+czozCQWZ39iY9K5wDlVatv3E/0XZRh1dtOC3sA==;6ir1bBU8jlzROfEyEm8eog=="
 ---
 

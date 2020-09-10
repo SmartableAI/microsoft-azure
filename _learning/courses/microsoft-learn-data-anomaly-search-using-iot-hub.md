@@ -1,14 +1,14 @@
 ---
 title: "Identify anomalies by routing data via IoT Hub to a built-in ML model in Azure Stream Analytics"
 excerpt: "Learn about Azure IoT Hub message routing, and Stream Analytics anomaly detection. Start by creating an app that simulates issues with conveyor belt vibration. Then, use the Azure portal to route all the data for archiving in blob storage. Finish by routing the vibration data to anomaly detection, using a built-in ML model."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/data-anomaly-detection-using-azure-iot-hub/
+webUrl: https://docs.microsoft.com/learn/modules/data-anomaly-detection-using-azure-iot-hub/
 type: course
 price: Free
-length: 66 mins
+length: PT1H6M
 ratings:
   count: 183
   average: 4.5737705
-heat: 50
+heat: 57
 
 provider:
   name: Microsoft Learn
@@ -22,18 +22,17 @@ levels:
   - Beginner
 
 topics:
+  - Azure
   - IoT
   - Analytics
   - Storage
-  - Azure
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/iot/iot-hub-conveyor-belt-vibration-detection-social.png
     width: 800
     height: 400
     isCached: true
-    title: "Identify anomalies by routing data via IoT Hub to a built-in ML model in Azure Stream Analytics"
 
-secured: "qbWs1HtmeF3yzKu+4LfJjvAM9xV/SU/rMUmYtSb7mmcQE2eEvltaf42bdYaydIMf55QzligT5sMluTfOc+W2Yf5vq6uRW38uDi/K6gYo5GbzE7Kn+TRHBvhncXQDSQ2XqWe6Hq7H8DiGkewpzQBmY2eOyZmDfeVCMgM0zlLAbcO3BU1o7Qn3/0s465BxMuBusM3QZ8ppraICYwU5HaLTRYYbYXKfR+vfmIKG/K+Y98vXHUhR41crEP1tUz8OJUL/tiU10VmICC30xwX1kZVCVYjq/UAbXp+og9V00S2gJfxm146VN0DIkWmUG3HsqvpbMvY+s/cHC2+YcS8ElEUlxI7GG5tJb698CUcsTV43MtP/dD3TKhRAF4ZcsHbMcuXgw/FUUz+DSWmhW7PE6xupWV9hL7JSCImAlXQOSVODOMk=;l5Xf0EuXt4n220AMCFge0Q=="
+secured: "Z3CvzvhB8tcVAUUUB+WCIjAvGIEppf5In+/TRMYJVlg7w6S2MabUqJIxHRjiN6gEWhMY3DYdPXVh25i1nkVZhnHOOzpjFeIG4QDEbv65l7CTlWN/HZzktAg9hHU8N0pdAWYYP5AbNPGGnlVJyf0pRxLHNGSvH+lVMjMgUGbDJZOLvL4EUT5CZxUXVcd8lV34+5NZxfAM7F9E42i3ChxdOSVjKUoYcvylb/7DnqsiQAnxyN0gw1/uRXvYJ+YnaALjims12MUeOgwBPg5VcIMbhnxfhRnWqZGpxDQYQ845qq65P0lPM7D8XoSJnGb6mvkxYOFzBKQMfRZ5z0kg6E9BrL8wU8CyHmTA6dJF/1JGodsj1/5VsCrTprwflXv3M9heNqcXOkWD5zA4AVWn2DPN4Q==;Q6vSaBGykQvWdUxlKN+MBA=="
 ---
 

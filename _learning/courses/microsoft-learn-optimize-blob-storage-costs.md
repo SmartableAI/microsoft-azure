@@ -1,14 +1,14 @@
 ---
 title: "Optimize storage performance and costs using Blob storage tiers"
-excerpt: "Compare storage tiers and assign appropriate levels for data types.  Use Azure tools and code to retrieve and set storage tier for accounts and blobs."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/optimize-archive-costs-blob-storage/
+excerpt: "Learn what the different storage tiers are for blob storage and how they can improve performance and reduce costs."
+webUrl: https://docs.microsoft.com/learn/modules/optimize-archive-costs-blob-storage/
 type: course
 price: Free
-length: 43 mins
+length: PT43M
 ratings:
   count: 65
   average: 4.6769233
-heat: 50
+heat: 52
 
 provider:
   name: Microsoft Learn
@@ -29,8 +29,7 @@ images:
     width: 800
     height: 400
     isCached: true
-    title: "Optimize storage performance and costs using Blob storage tiers"
 
-secured: "An2cYSt2qasP1yS1eoS+YKd2hGHbVREEBT0KXmG1AqIb4iAgB7Jwqn/qx7wo81n+jqsO7ClBgZwb6RTDnwWcD3SoDf9032nSyfmdul88WBd92QCwdWM/bvcEudyMkoyLUGz9fr5uL7Nd+JhQsWI0P7RpuaAKmqTlKDDx06zWuKDEdL88JEZYsPLk+anOzvPBc1ZOUtIkUMoNvpMOeM5KpPoqr/OxrrJd/LBPHfQqGz6Ld8u0F8bveVc7aLpMLA8HVCdgV88h9VWpK7+25IvSdxOyUCPreRTeZI/ZYkbav4TTEI9YkUzn9c5Gg+de1JQtZaVtD7BSK4No5cvjZpml3tTtTloXWIiT/PtcOJZlMEG+WglCUFQLoGNN2zvGhA0W4TLvuVVrH3PbP6ebzThYjtNkKrKT4xTj0wjiSPdI1aM=;b1NdaQvqc2DsQHGByO1adQ=="
+secured: "aqqTv5Ga5ON/jjBXpTYz0Bj5I32LvcbiE2cfru9j7TNcPE4bidPPlZ3BjhlgRcDj7X5vkE8c5t9gZIizUbgqG2uI0Ox7qz5X9Hm2KSma8gCSkZNV5nufSiyxNAdBvRz2LZy27UL1vE9aXqMqoWTEhthJdDIVAyHqd7+HPSbboxNAahy+0J+GkL2njweNjSNnjVMneYJLD/IZ8t2fP65PHxZSx4k+NvxUr2qZoGmDqKNSJ8q+1Wk8lRzG8QFbFWabYCRobez/B4CpN5VHtoYIchtCyB1sTzC/vgb/SRJes6avpnTe2DxyNWldmnM8wyCHCdtGJzd+Y2s9HueYdztfj95esw9t3LHKqY93Le9TNNtsQCxcH/gMxNfPjc/KbABIDt3bwJnlumt1JR1M7BETgg==;suFg8kQB+8zaH7M8JkYIqw=="
 ---
 

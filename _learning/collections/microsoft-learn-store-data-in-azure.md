@@ -4,7 +4,7 @@ excerpt: "Azure provides a variety of ways to store data: unstructured, archival
 type: collection
 price: Free
 length: PT3H50M
-heat: 81
+heat: 206
 
 provider:
   name: Microsoft Learn
@@ -37,11 +37,10 @@ topics:
   - Management Tools
 
 images:
-  - url: https://docs.microsoft.com/learn/achievements/choose-storage-approach-in-azure-social.png
-    width: 200
-    height: 200
+  - url: https://docs.microsoft.com/learn/achievements/data-ai/secure-azure-storage-account-badge-social.png
+    width: 800
+    height: 400
     isCached: true
-    title: "Choose a data storage approach in Azure"
 
 secured: "kcKQ/B/i+1SfUpFRJ+vEuhaA5Jp2s6AKKY0Bbq29JqFNRS2Dw3cC8f8E6D1r73qxr2LnSPDa5KtLh/rzKCEK8/BATjwAxEDh+4PqIQjwUJTm5ag3KhfWO3ywEDnCIZEq3RdkRxQdZ2DPYT8il4xj8jhDo71Qj+iS+lRigjtV+psoks7VbHUqCwo5u3bCH6WPa+tHukJ0W2Crb0hWqdFotCCqABP3PyXY+zHvT88xOAMEpTedK5zgv2etR4r0nhu34K5mWaraTAPxN0AF9Ra1MaE5fXr+nh4XyxCj1zkVSPqjRq0RhsD0SdIKP/o2vNQ8+tzclp4Hdr9p7TUz8WAkew==;dFNx5BNOo2W26h94QB0auw=="
 ---

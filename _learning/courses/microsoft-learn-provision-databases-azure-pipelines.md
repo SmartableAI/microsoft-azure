@@ -1,10 +1,10 @@
 ---
 title: "Provision databases in Azure Pipelines"
-excerpt: "Learn how to automatically provision Azure SQL Database in Azure Pipelines by using an Azure Resource Manager template."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/provision-database-azure-pipelines/
+excerpt: "Provision databases in Azure Pipelines"
+webUrl: https://docs.microsoft.com/learn/modules/provision-database-azure-pipelines/
 type: course
 price: Free
-length: 62 mins
+length: PT1H2M
 ratings:
   count: 0
   average: 0
@@ -30,8 +30,7 @@ images:
     width: 800
     height: 400
     isCached: true
-    title: "Provision databases in Azure Pipelines"
 
-secured: "l+6eIUIAwMTLDeky8Vd5lUtlXIWYRpVPT1cuPulM3RMApEc7HBtyE80JX5JRAmsw+7+V2Zxn892jdgBvtd8ht9CB0hSG2msSwhNoj1c4A9qYe5f5KxEJFlisZ4GSERG1IZn+CNOXFbCPjF1FN0WI55VyVYTTtFYUp9MQ7EdxVDGJpu1bWlzKwtRGTe+F3iE+TvD8Deg68jJrtBKY9HH/+PWFhy4UjGxqFu58DMkkk6KnSIWRVnLkkzDC3vmI4174VhpVk9bAEmY/IimXpp5yLMyopjI8XGBwjCo0J/qJSBLH8RKlGw+I0mR/UTIGQYIlIT1YCuGAbL0XqN0Md5AC3aCfZsuKbv7j0rsztGfH/AqT6QmXxyMO+oDcBaSTkKandHY59UGJHQWKCpCNUrMZAr6sETIbqVytx3BkA/7jWJk=;VECSh6yTce9zBAn2wUYZCA=="
+secured: "bRwVDLsvaDnfrk/80zng9dIvvWrhBYo81lmuq2tPVmDhdZKwKGtRxNsEnmSQVnsJoNuLnCxNJWEed8Zc6xckoVDrvbYxScsrYndOlvS4o5Q5zDh0ue0wlaKI2HzOzhROrNkgqcocX0VON62BJUGBhH/HiptIq2//9rBvQmai/Hrg0j9pE/UGxP54M0K5igAtdKuSLk/BGzJi/diA5JWd5lvddM6KbxRKOEwcc6hlaiuwiFVJYjA0R9qr5dK9mrHdhnwvqcZuH/18C20avlmXTYxJIjEMpx37sj0PvdUFjhUEWOiLIZpdhzayZs8bBSx/AYJiNW0CRyooAUYFwLoQEjj6An6ILfzU/8Nqzz7gIXDlgB0TzTGPdRs5f2VgkUWa6Bmxb39zi13LntSUlaozYw==;/qjGDNiSAPqGwnNYSXcA5g=="
 ---
 

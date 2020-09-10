@@ -1,14 +1,14 @@
 ---
 title: "Pitch your product prototype"
 excerpt: "Write a compelling pitch deck for your product prototype that will resonate with your audience and share the vision of your prototype."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/pitching-your-prototype/
+webUrl: https://docs.microsoft.com/learn/modules/pitching-your-prototype/
 type: course
 price: Free
-length: 44 mins
+length: PT44M
 ratings:
   count: 36
   average: 4.7777777
-heat: 50
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -24,6 +24,6 @@ levels:
 topics:
   - Azure
 
-secured: "FjJ1lsLaiafsAMhMTnH2oRA2ifFCzsEyizNKS2skKijDtn5kbdiawV8daAZVGHC18ufgEZREz6IEGmaqBn61HS7GHst3Tm7mJR0DERdiAkyOy+OAgzWEchZqlIYFbjcjgrcibdf86n6IZZ7l++MMuRWnmEUy02sIfaeK0o42Y8offLHprh3m31rDg43UDpyqqvGbqmz6uabIFXjdFeDc7LsEH6RJeS1nsW3bW+7ghOrig8fFLTXJfgrYL6WanjX8zJnC6+2YXSPjo2hliFipK/IVKfZq0rGSfy2mWZyrViwoOiUIdHLR6Kg2vH49g2fkxM/DvI0YAn5X3rjjugII3BrWv1weSRjPccZhGsMIPM3sSrM9CIMFrA5Joldo9Ydnz31l61qvIcCpb0uXAtQFpAfW5Eay+uoUO9tJxcCm5T4=;TYTkSHsgvfAvEw2ZyM98kg=="
+secured: "wj0/3NiNZvdCjkVD98ssXFH/wgeQyKrH4FRiQn21UmQkT4gjcP8NmqSlT1Diihds/xHf0ijqUKOVX/ToQB/wHJCiqaNwllIY8d/fcGsHUIJC2KtlRoQ1F3TfbLovxSotgLNNYzxmY9MMWezbK5sv3gpQHdA1xDnetfDqjIaHewfc8Sy8Qtze1yZloWS1AXBK3V7uPUdEbV6bLZMTIAqw4JfcYaHRno0wkIR8E+pGvq3ZKNyliPjkJbMDESf21Gq5BDzTQUsBYMzd2ja2ZwZV/au40R2C3PmY74WtKsIs0De1tyjsSqAcNfBLsrwqrP/d3ZHsDmkgR59DcGJ2jOOB8M34gASJd601YU7HMJbL7lVJd7GvY+/4APSEfpJuZwOq4IqCeWLreXseWJI/2FFIUA==;6K8SRUMzuGXoepypSdNPuw=="
 ---
 

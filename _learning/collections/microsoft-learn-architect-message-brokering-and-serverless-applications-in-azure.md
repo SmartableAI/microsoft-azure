@@ -4,7 +4,7 @@ excerpt: "Learn how to create reliable messaging for your applications, and how 
 type: collection
 price: Free
 length: PT6H20M
-heat: 70
+heat: 147
 
 provider:
   name: Microsoft Learn
@@ -47,11 +47,10 @@ topics:
   - Blockchain
 
 images:
-  - url: https://docs.microsoft.com/learn/achievements/create-serverless-logic-with-azure-functions-social.png
-    width: 200
-    height: 200
+  - url: https://docs.microsoft.com/learn/achievements/route-and-process-data-logic-apps-social.png
+    width: 800
+    height: 400
     isCached: true
-    title: "Create serverless logic with Azure Functions"
 
 secured: "j9k5pgt8WM6LvoMPqk2dHWyMB3ymrdX3ksYjosQ5SV5sFwJC0ZwnGPm9Qo7h23jkhL4w7WkABkqtxmJwDGm9OaQESTP8vkEnQZvxlA7lC2iEzh9JeEV/88q2uOf/EfbWr0rK6VXQ4Cup5el8HkeSlZN0rq02eQa8f+3y5dASRic731ZrbJVffjGAX74nSNUP8srIwKSvOCA3pZgZY2PC/u/DKu+W9IDqFmM8hVgzSw7mZLWsFk4ZDD8dn6nxEc4rX05+I4cd793gieR+mj28yhgqM/IuPwzJuWJtpVwg3wUu9Byq0UYWmjLLdAa+wFBPXSazxMRKcMmYdsLNZRVIlA==;ql8gPTVVI56E4wl/B8VYNA=="
 ---

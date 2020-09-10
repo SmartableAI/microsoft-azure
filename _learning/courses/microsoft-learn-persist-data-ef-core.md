@@ -1,14 +1,14 @@
 ---
 title: "Persist and retrieve relational data with Entity Framework Core"
-excerpt: "Query and manage relational data in a .NET Core app with an Object-Relational Mapper (O/RM)."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/persist-data-ef-core/
+excerpt: "This module guides you through creating a data access project, connecting to a relational database, and writing CRUD queries."
+webUrl: https://docs.microsoft.com/learn/modules/persist-data-ef-core/
 type: course
 price: Free
-length: 64 mins
+length: PT1H4M
 ratings:
   count: 908
   average: 4.6729074
-heat: 53
+heat: 82
 
 provider:
   name: Microsoft Learn
@@ -23,17 +23,16 @@ levels:
 
 topics:
   - Azure
-  - Databases
   - DevOps
   - Management Tools
+  - Databases
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/aspnetcore/persist-data-ef-core-social.png
     width: 800
     height: 400
     isCached: true
-    title: "Persist and retrieve relational data with Entity Framework Core"
 
-secured: "RKc/mWFLFwZV/qKMgXJt4uclqlkJoEC07HLJX9zKcabw15ZzdAPvi6bh+p2zIovD+NgANM51bkXyp4etTVsMTmtudO92/RyLTWgoAC9eYFokvilKE1Br0QLp2G9WDNjrK5AJ1okx0ESfYCj0xyLvRNEYimeI3CXE78ikzHG9zDoggBcbOFdobw6Jvk2wNizgs79Us6mjuNOzDv56wLXHh+N2DIn9RYKcN10Aj+lQOMZLBhiNKKc0O6eGMe+pKqJo6xWnAsVapVpAtNGYTGC5l1ZuCdnA23oquok7WIp3lc+twTT3LmFGachckXjyijkz46k3uP3NOViHx7o9eUFuSxRiUTbo+bLqPnqxCe+D4zgGYb5k9xGjAE2y8dm7I7rrDC9KheSt8SY1UgtwPzI/nYXS3K9QHThB9rRVXb2DwwE=;ekY/he3K+CJXaFYKDhvODw=="
+secured: "6W3/ERW5WefN76ZtdxI2l6jAjHpDS6NQOBu4w6lcAZB2zbo21zHzOPs7Xuc4bnmvgszL6sgG/JN1FQi/IjCq4RW2kbkJSDK7SqHJ8jqHySNUnxbiCh9knLpsNAme+MOYiB8qxcJLxpGKoPjjYiU7Wijam3mvlHQ/NqDN8CKgFGyujovPYDwMNnBJRR6Wqac8walHKujbEklVNHQGoIGwK2xNa0B2mVaSgJySsApYcUtNr3f/FAPjjzC6KkHbaA+useDBnjngKhCsDaOualUGOLlG0pKaiNWdUD+qlYXE86rgdKfeY+64fMEhlt7FVae0vHOVIePcJgKNHZIiJ+D0uypbaaJCLBBdv4hmOhgY/WeNSnpN373WwOHDHDznzV64FvE3eReE7lMMFVbKSlhWZg==;gQpcExV9zPrgtqnpfqBj+w=="
 ---
 

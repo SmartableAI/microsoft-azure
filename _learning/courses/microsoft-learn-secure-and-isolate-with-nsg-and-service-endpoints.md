@@ -1,14 +1,14 @@
 ---
 title: "Secure and isolate access to Azure resources by using network security groups and service endpoints"
-excerpt: "Network security groups and service endpoints help you secure your virtual machines and Azure services from unauthorized network access."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/secure-and-isolate-with-nsg-and-service-endpoints/
+excerpt: "Find out how Azure network security groups and service endpoints help you secure your virtual machines and Azure services from unauthorized network access."
+webUrl: https://docs.microsoft.com/learn/modules/secure-and-isolate-with-nsg-and-service-endpoints/
 type: course
 price: Free
-length: 43 mins
+length: PT43M
 ratings:
   count: 3252
   average: 4.567651
-heat: 58
+heat: 128
 
 provider:
   name: Microsoft Learn
@@ -30,8 +30,7 @@ images:
     width: 800
     height: 400
     isCached: true
-    title: "Secure and isolate access to Azure resources by using network security groups and service endpoints"
 
-secured: "3TuAigxGH0t1e6GeLVh54mdi1yo1RgvaGglIVxFQRzrBwj841spanjhwm/mM7kpbzUHHlKKsI7KNK4/ADGrV8HBi15RuTZDD9JGVst+FoV1pHd2W7FkNUcK8dPW10BK9l2+rNxtXD1y3osyC7tE3mkFMSnrzk/TZu9FA8a8xrKLoZd727J+8ak2rKmogbiM12/idXhPQBiGx8jxBzJKXTr3uXwG3oFmGhGOAaKRqfH20fzeGAtLsw243nO+K1D2Rfn7Sv0wfLQYA7YIUC5cSykE2LHaltylmMzu/PdrqzQtUoaFmr20eYytbq+QwVLJO5fUk6zgRygSrF4fIrUXAPobbPwgFxoqTAUJdtwLkatKiaOFnlxfKYw/7W8CiYCvMHg+yJGtPiiK8bTwiwxGNyd92mKt4Zh5iUKe3RdLL8LI=;w7a2EYp1/Mj7sJcXAvXHiA=="
+secured: "L/C3IyEw9EYeafJLzwLDTXk5bFtp+qnKYCVjyiM015iNFjheF08NYViDuHVsvHHUUYmFxXTsV+xW5Tg9gRhVWmfOlsdiV20zPC89xsoMBzFkw+070VsJh8hiBdBzhMa00jW42tErgSXF47XDbMuv05F8ziMLvPukNIWp4mmFeO2Ssv2vK7g3z4552MK1jPhntBSpxpHyBF5fxAIRDasKKRFFKDuTB3MxC29WbtIUmWd+uQVgY/t6pJ4QB+PuHc7mNvL6uNo9HM9WjIWzP4sbCygV+eoY3n2UW1YMzx3hFx5NlO4iyLwGLdYv0FA3HWVIKwwqjBS0Rcgnhn4QyODs+mqPV38skX97ShwnQbGvHp4gTTArBKUULKUtMmJL+tZmBSFNnVMOxjYzzLrc7DQKdQ==;BW4IX5pVOs6yTTiB/niWxw=="
 ---
 

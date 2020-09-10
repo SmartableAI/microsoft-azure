@@ -1,14 +1,14 @@
 ---
 title: "Create and deploy Logic Apps using Azure Resource Manager templates"
 excerpt: "Define a Logic Apps workflow declaratively as a Resource Manager template and deploy the app using the Azure Command Line Interface (CLI)."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/create-deploy-logic-apps-using-arm-templates/
+webUrl: https://docs.microsoft.com/learn/modules/create-deploy-logic-apps-using-arm-templates/
 type: course
 price: Free
-length: 45 mins
+length: PT45M
 ratings:
   count: 475
   average: 4.6526318
-heat: 50
+heat: 68
 
 provider:
   name: Microsoft Learn
@@ -33,8 +33,7 @@ images:
     width: 800
     height: 400
     isCached: true
-    title: "Create and deploy Logic Apps using Azure Resource Manager templates"
 
-secured: "ntVdWWcxO1c0YzIBPy10WZK9T9CFFJbl5ayMUTnnOry1mxM0whevU2R1KLQMcKBW5Cy3BSYOQBZ04Bi9vtDRxIpbCfVWv/p8GMakx7a/giezfGdianujCH8r4G8Y+AbjSoLDJyEeg/Mrl+E5mhrCOVp+grcJzW6WFgxhcvrJZTYnuHfKTju/Zeu7/guK19a54+h2cFA2u3132idBolYWwoDdkdpAIuEO/TPX7LxQAAQ0CV8fYCbKsAKhd/Gz8cLg0CCe+2lRD5XAjxcnJIXhqOF/5JAe7fP/1viL/t5SZXDpRGciFXmU/P40CbKXzeiqOFyISqi/xVkLxRHdBFVwvNymPHpC2yvG358soG2HWaknaXdGIBjdhdO6hYeyGtA1TlzwbiqJ6ITUNupovTj9wJnlUoNanQqQmunW1qYv0lU=;cHnC+4LNq6AcP/VYo32mEA=="
+secured: "MJ5cSwolT9dCAKXIZQd5Q3k8UTQxEsyiPD2gl5/Yxe4tF2cynl8u7cFUXDsfK58L/u+EDvMI9F2ee3NpLSPHuGMN0cogAuS7ci6g7KOlHcwdEjdr8JhNyqvFCXllLvzbfs9SrZ0HyVpek4+3YrAyy2i8Lucuh/5lIPVJIrWMzSnWH/xoh5b7Sp+hHLlL+QAngZP9CCH3QNHY4nWpfZM1fcQzSiTMjPKnbUGCBBqeSpOdPEllYvtnwVQdPtUurgImoWznnpK/eLFBZEZIuON4ej33+/QY/ZZtyHdn66NUoN41GYShqwHOTmrr0QTgrLsFM0RlVpcNvfLCLHxGlZFVbN+KNTy76rwOWOeYRldTNdCr94PzNS7UFpkmrstIC5KBnRzHz9xPqyVVoLbpLw/47w==;VsCOELy2qNvfJnMeQkEs9A=="
 ---
 

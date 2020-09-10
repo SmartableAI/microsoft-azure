@@ -1,14 +1,14 @@
 ---
 title: "Build Azure Resource Manager templates"
 excerpt: "Learn how Resource Manager templates express your deployments as code, enabling you to deploy faster and more reliably."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/build-azure-vm-templates/
+webUrl: https://docs.microsoft.com/learn/modules/build-azure-vm-templates/
 type: course
 price: Free
-length: 37 mins
+length: PT37M
 ratings:
   count: 3315
   average: 4.53454
-heat: 55
+heat: 128
 
 provider:
   name: Microsoft Learn
@@ -23,16 +23,9 @@ levels:
 
 topics:
   - Azure
-  - Compute
   - Management Tools
+  - Compute
 
-images:
-  - url: https://docs.microsoft.com/learn/achievements/build-azure-vm-templates-social.png
-    width: 200
-    height: 200
-    isCached: true
-    title: "Build Azure Resource Manager templates"
-
-secured: "pbhn+mn2z06QLTH/w5DHKSGadBLZfwLdfQ5yYiFrYE4ks3u06naPERrndTBEJzEM6+ldkQ+m2rbx6J0JHEK53dByXa+avQ5e0NoRV9cOFQL0YdAzGxVb8ENLMoecyi59nXQL0mEgfkAJ1u5VQ9gLBuwVujovaPTgfqGp7uOfdX9LAUuPrwYCBT9xXK8UKc9VEsLkSFZdTyIDQ9vm9IEB2EEV4AWPo8wCED2iNZOzCXbm3QtmPuFoWeK6skUxFwM3o/Aeh7L2FxuzAzqYSGEcnUGZoCXcvs1rV0J8ewJNa+jb020SnuMtJv3Z+fT+INZIk+7HdG7YkScRCyM3iWR5RvO/jj3XiS5ppBZ/+wskUyBH2J8344ymNJxw6AlrlKoGmuYekfsY5I6qd5slW34tYKva9tm3AdSscU3Uou5i+SQ=;a8b2Y3NCHPmCE92gBirgwA=="
+secured: "9g5gFxCjgykdfzhyNo3A9ZJYFGsR42jMk7vAOQ7sFzku2CJWKeDBXbXt70YbZ3NZbirqcr9ObbU58Ev+IVBvKtWF7oIfLiTITBkyD/kosQNv1u0QuHp0Ot6H7w3SgxFxSTBzdOOP07dewtz23YwWhpl+ZaU0aikIBGy+aSpqP7SrEgcxYwOlEhroFr34DmU3voY1mp2MxJuPcCOqKJtY541FSAmlHcauU0F/momjr93fvYXm8cAujnVQ+JqrP0wN//LlwVdrQ/2SMiJedguGo37U+/B3fh4YAq1mV6NjikFrhvlik2lGm57+ZIrRAeCbjKYEfBlFs3gHUt3urSr/I7o6oMEni5AO1MJHB0Z7JWz5L4T2Rqfbb+Ijs4U6hvkp2UZZX61NjapSsqM/2jMoCQ==;SDajwwgUuGoPTKI5VMphVQ=="
 ---
 

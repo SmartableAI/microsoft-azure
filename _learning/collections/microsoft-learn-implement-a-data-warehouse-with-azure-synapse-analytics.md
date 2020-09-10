@@ -4,7 +4,7 @@ excerpt: "Azure Synapse Analytics provides a relational big data store that can 
 type: collection
 price: Free
 length: PT2H53M
-heat: 57
+heat: 106
 
 provider:
   name: Microsoft Learn
@@ -38,7 +38,6 @@ images:
     width: 800
     height: 400
     isCached: true
-    title: "Design a data warehouse with Azure Synapse Analytics"
 
 secured: "6+aZszf1cNDpuEM2hJLBaiw8k1MnKJO1gpLPg0OwrzU+S/tUG0Zc+3jdMJSMSNLONhXEF7Lz3VZELOqNXm/acajguTEEGeBsA+YznxXXPElH9psFQufl+tmKNpHYNuqL/bdq50DmvJQnfVDwP/n4yWN5wq+wj01Xvql4jkpuFKiOgvlDb3Dv1kYVebMH3+zSTInXKzt42QSlQTHXfsxMrhFYEybysQy8Q/hGe6tiumQVJ/RA0WyyLXzUDtZ0C/sbeIEWcTpLOH/ox7Z/+55lWBcg9Ay4eERfdQnHWHfN8XmKixVlBzQQ8u1Kg6jTApOP+Yh9xJ7Sp0kylQyZvHurdQ==;2QzjObm6mypLW153zv75mw=="
 ---

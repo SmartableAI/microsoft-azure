@@ -1,14 +1,14 @@
 ---
 title: "Manage IoT Central applications with the REST API"
-excerpt: "The IoT Central REST API lets you manage applications programmatically. For example, you can add device templates, create devices, set device properties, send commands to devices, and manage data exports."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/manage-iot-central-apps-with-rest-api/
+excerpt: "In this module, you'll learn how to manage an IoT Central application programmatically using the REST API"
+webUrl: https://docs.microsoft.com/learn/modules/manage-iot-central-apps-with-rest-api/
 type: course
 price: Free
-length: 45 mins
+length: PT45M
 ratings:
   count: 109
   average: 4.4587154
-heat: 50
+heat: 54
 
 provider:
   name: Microsoft Learn
@@ -30,8 +30,7 @@ images:
     width: 800
     height: 400
     isCached: true
-    title: "Manage IoT Central applications with the REST API"
 
-secured: "mxiB9mxKodTBYzZk9LY8DZokjXzTU6Vy6nQ0KqAnd3ZqFcJpX9ZagjHapyr9uYM5laUo4REP0pQIYr1gEFoYZaXTbAzHerD7tLoD+IgXqp0nIf/g/BniL/IAtutsMqJt3n2aYFIZ9eW8Sw9Ku79A+ZmlgBnr25AVgw2E3DNWOdFYgfO+HJppJ/FKcjyWKwJtVqsFAqwBoRWUnnHYDeJHBqbM2Al8iNHtj/5R5E5MQgJIM5GBVPMsgLhORio6DcaHHuPu5x3IKCPOXJbTaQoS1o6OrS5yyAK+nMbqLl14I6xqVkg957sAHxYtA4RLBrJjQ9gXC5E84KK1UxJf2XTY8GFuedYHramx4yVda4+3UMi7eoVFMNWK5dQMF1uD9RUqk/WN5bahk7748x0GhkfGv14lmsT6m9OxPWb4YZuOBow=;OIqwD94f3ygbzbD0eWuJoA=="
+secured: "JwfxJrgLkpYDSMMQmi5Z3xLQZ6v4nELyD6Zt39qp2Xaxy0Lt9a0LcxuEmdFC9X0KFK5O0WDKBoq0T+O4jPtRE095si4rQKvu3epWJsNxtQL9CKp4+R4zXZW9v5qtCS5X/y++is60C8FCjEc+M+XJu9OMJJODJOUAHt0vQEczgMdNLyjfNp8rZwEohqT8QsPTDKLlFOKKruUNDVApCPe5HYa8PX+y+tzd2uQsU0u7DjU+BUw/OwE7ftP5tKQjRbLxuwwk/x8CNcVIePx7UHSETCprOML4JRTWFX3QpXqD8R2hcF6wbIOZ5r8XWPQ1vFV4IP+6IwC1II6nJEbud/2dqIUTT1W631C3CTGbkTUzolTnJSNXi3JgGqbpjBcH4ztK/2uzpFWFttEz/SxU6MMX0A==;tjcfP8F06frdd3UB9l1CKA=="
 ---
 

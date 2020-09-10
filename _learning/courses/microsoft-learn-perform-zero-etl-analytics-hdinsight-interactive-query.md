@@ -1,14 +1,14 @@
 ---
 title: "Perform Zero ETL analytics with HDInsight Interactive Query"
-excerpt: "By the end of this module, you will be able to perform ad hoc queries on a big-data set. Using HDInsight Interactive Query helps to achieve sub second query latencies."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/perform-zero-etl-analytics-hdinsight-interactive-query/
+excerpt: "Perform Zero ETL analytics with HDInsight Interactive Query"
+webUrl: https://docs.microsoft.com/learn/modules/perform-zero-etl-analytics-hdinsight-interactive-query/
 type: course
 price: Free
 length: PT56M
 ratings:
-  count: 90
-  average: 4.611111
-heat: 50
+  count: 91
+  average: 4.6153846
+heat: 53
 
 provider:
   name: Microsoft Learn
@@ -30,8 +30,7 @@ images:
     width: 800
     height: 400
     isCached: true
-    title: "Perform Zero ETL analytics with HDInsight Interactive Query"
 
-secured: "fHTebjM9vbHd0i/lZurDq+Udtv3HWsVp/0LifOtU7Hb3GeowDMyumZCfYZUcrPAFjHr41kR4RzhqGwD+qh1W9fgOXMFpH7rHpY5tkP8V0RNUCChS3UpTpIym3TA8RfKtKBmmkywbfBu9r49Fz18nURSX/X+YvNdoCqENeFDBDlCj2DT4MwboM3FQ/eVMYk2lsOIpi+t3VIV+Nde/iZuRjBoyMRnz8u/qhW4ziK+avTGd+yu8LRPl10oB4muOMMeadsEQqF1U+h4EKyz1/MuedH4T2DncwKF6hklmJzSCL7BA8D+Ab4+yt1T9fKO/P4v2mo0sfDlEa9UImC4aKd/LQporePJzrBJWB7aaDiIZSJSIGzQ+dQBGhm5ES+VPs9TlWtMV+xGJGewc8umJPxCWcyAYohksN7HdRQu8qDOc+fY=;3OMJ4Ey7frLy9JYhMLj7nw=="
+secured: "JQYuDxpIoYIdgVvothWeWBmltxZk8nCmNc+Cu9+iQW3EWIl5KcnV7ki3XkUVOveaTafmsV61Z4+mkJmnDVKrmfD1mP5w1a3P34KLdP/D9kNpqg6r2boVUG935kgJYOcf2Xh061jzTWIGWtYlEOIhLp08jXCn0kGbrjNzZbmO00gMJS+hUsG8lighMD4XG+SFWKbKoeHguZQ46gX8cdR4GIP5OK2kOxlxTRFhnfSO6dCkcX4gN3EOTJHm2wXywZ6k/TaJdZ53icblNf50whCJAtZHmjUSxpEdYMPa4mJkgzBxgw7cb62qKujG2a8pSfuUJvNUBB90tu5lSZnKlCzb5jUb4f3LL5eDhmp4uEdoiawtr7HFXtWzPxj7jMlu/OQHrWCk1jkyQQFXGAeebYZzvw==;KyyxvGLKCeykpq8IZKjfhQ=="
 ---
 

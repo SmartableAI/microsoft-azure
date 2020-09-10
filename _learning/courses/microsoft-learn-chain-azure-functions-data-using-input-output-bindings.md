@@ -1,14 +1,14 @@
 ---
 title: "Chain Azure Functions together using input and output bindings"
-excerpt: "Integrate data sources with your Azure Functions serverless logic by using bindings."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/chain-azure-functions-data-using-bindings/
+excerpt: "In this module, we'll learn how to integrate your Azure Function with various data sources by using bindings."
+webUrl: https://docs.microsoft.com/learn/modules/chain-azure-functions-data-using-bindings/
 type: course
 price: Free
-length: 70 mins
+length: PT1H10M
 ratings:
-  count: 2591
-  average: 4.5692782
-heat: 61
+  count: 2592
+  average: 4.5694447
+heat: 117
 
 provider:
   name: Microsoft Learn
@@ -28,13 +28,6 @@ topics:
   - Serverless
   - Storage
 
-images:
-  - url: https://docs.microsoft.com/learn/achievements/chain-azure-functions-data-using-bindings-social.png
-    width: 200
-    height: 200
-    isCached: true
-    title: "Chain Azure Functions together using input and output bindings"
-
-secured: "jkkA5pU73eDchI9UE+9VmOxW214YtaM6smKsNTOUEh+zFgLAZDLH1fh+eg5XtYl0I9SI+6OH/OKRKcYir4IO3RQ+RrDz4L1gARnfDhfxvQW/4eLK7Ds5tYrCXEF1DZyJrPTqFyvgUNJYTs5p51b2/9UbRSa3CYq+dvCiw3IWBnBdNAziWZEm0rrBcpfq4PiQhbORSLK0DrdEAsINpcPYwU6M9+IQY7bTR+d+Ht+87ra/4WPFV84pfOOGsMwjk6nbA761PvrcEz3w2v9TIAxNmvP+Q42XMbKezYvxkXqbY2fUiwqzewss4oJ13b/9rqxfc4YdAJrKOYrlIHFObJVaLj2cyhRSdA/NzYdk+MF+fKRDVoCtxvNM6oHJoID2esBtEU1FzOAhyNMWhX0ngR8LLVMmh+W1af2CQFrW/laCP1E=;EvAerVNluHSJoXL+hf1GDQ=="
+secured: "76P1vaS15wyGxrKXZs8yFAiAY42b4blUDsYorKzHKgua4EOmZFS6fmDTxMVSdYRmTaiQj0IO0qo5X4gs0EoIS+Au9048Vf2LwaAeESr9Nn7Lcny+y9586w5ufU/7/QMdLSoll/DICjaypYgfiDDBjgJX9OohAJBW9t+N1AE44vPqmVwwGibdu4A3vNBi5xMwAhQTyDxo5xWRpqSIjPjy7rw/YFhqhuh0HklBsxeuzRfrMTxvjDIW94B7iiIb4FhcUXoq79p6mPtz//dBxm7HVHUOUUnWYTqJAg/Vt6ZdrYkXwqyc3wEZ4E7NJsSzhMdUeUPo/r2GXtq+cPO8aB8bxpdsT0JGjLcApiE+5VKPK/1KG2SbEcaRn2XnQLtN/wADt440x/2VsVuLklh/H09pzA==;plosQs6NN1hORgWsxvYqvQ=="
 ---
 

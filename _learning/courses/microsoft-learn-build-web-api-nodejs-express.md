@@ -1,14 +1,14 @@
 ---
 title: "Build a web API with Node.js and Express"
 excerpt: "Use Express for Node.js to build RESTful APIs. Create and configure middleware to add things like logging and authentication/authorization."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/build-web-api-nodejs-express/
+webUrl: https://docs.microsoft.com/learn/modules/build-web-api-nodejs-express/
 type: course
 price: Free
 length: PT39M
 ratings:
   count: 76
   average: 4.8026314
-heat: 51
+heat: 53
 
 provider:
   name: Microsoft Learn
@@ -25,11 +25,11 @@ topics:
   - Azure
 
 images:
-  - url: https://docs.microsoft.com/learn/achievements/generic-badge-social.png
-    width: 640
-    height: 320
+  - url: https://docs.microsoft.com/learn/achievements/build-web-api-nodejs-express-social.png
+    width: 642
+    height: 321
     isCached: true
 
-secured: "g6q01aaNuLB0ixOAgoqerdmWBJ8vQvpJpeeXlipRYWUJagD1I3TRiZk/7VEuuvcbmBawhQmRzg0CrbIqg04E5x3N06Mv0kxilCC2Uswtn8ZkLjor9YPMsfrx+MymGrT2sb8UT1ACC1njF9MLeA5mbh8oH8K5t433PN04mWWlTDcxJyObOGIHGeIEd1igTzfRbC2lnW0VSnt3glrrrkpSJrOxlHrRHvsTWY3dHJhv8aJ0Rui9Uch3XspP9xh1+ipJ5OHugz7XnoV4rvq/sxCPJUbhTF32xwYsQE7qU3eq9YhVYKRldSFnasptltLF1iwDLS/rvobeAn5OvMwI2dS4WXwRllfDdHSeVpAN3StAZjrjTkV2Ctae/CB29OSNgE4wTIs25F8YhZZIPr5Hb/d3H9tawzF2Z0jfCfkQyki0yVI=;EKeNEPRYGI8ylbFmQIXNEg=="
+secured: "MB1Oc+ODNPFI3asLKaIuE3dxtMVIodqAcISu2OQxYbtpNGcSkfkKEm23+Q23oaSdukTj6g7m4m6eg6iccrzz8PqgxzKL1hIw6OZ5tNH6dsPWbuH7j2LtTsOh+QL8UosfK6zu5bQdP7GwK8UJoak03MRBXztozn5h1ZnRomRT11GdfCPE86knHaYKRvRbiSPnd2xD/oSGVxriB+GAOKPwVHYLxQUVOenL1oBZFpt/fu4X6Y5DPgjNrw8zeP2euMZ+vcsrs8hkxF4OwxS0RmGCYDqI9rqw0blgc5t6GBvsXB0SBGzd9AOr3NI8ugJxfanw4TdUkTRCGNtp+ZtjIIYrBq2dwi2Nh2V0hZJQQ0RqR4isFIwyqo0ctXkujjDFoeiV4ensGEsfLC1TPq6KzfPBlg==;mZpjyEZNFki04om+7jKl7w=="
 ---
 

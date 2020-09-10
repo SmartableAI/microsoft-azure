@@ -1,14 +1,14 @@
 ---
 title: "Disaster recovery and backup"
-excerpt: "What do you do when something goes wrong with your resources on the cloud? How do you prepare for such an issue? Learn about disaster backup and recovery with this module."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/cmu-disaster-recovery-backup/
+excerpt: "Cloud Admin course from Dr. Majd Sakr at Carnegie Mellon University. What do you do when something goes wrong with your resources on the cloud? How do you prepare for such an issue? Learn about disaster backup and recovery with this module."
+webUrl: https://docs.microsoft.com/learn/modules/cmu-disaster-recovery-backup/
 type: course
 price: Free
-length: 61 mins
+length: PT1H1M
 ratings:
   count: 43
   average: 4.604651
-heat: 50
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -29,8 +29,7 @@ images:
     width: 800
     height: 400
     isCached: true
-    title: "Disaster recovery and backup"
 
-secured: "FCF48x3F6df0D+NHdmzpTzGOJZmELgaWzdwDTNGEQC/pRlw1RqRrs3/Wuu/DeeaWhM0fR6sZiRJy2rcVzZAmYoSdt8W8sGgyIqFEga5V7pZMHgXlXJZkHOWm5KN5gWH9OzNV9Yp5v9wp5QRRbgwuBzr7vZK/1dZH8u7/QIlJ2IBoAT+tdqQ9maB0sf+fwzBIEdYJKQNZKNgeYEIbpv5SB7GTefwm2sThCmpPhMszrWMkUAVJNQR6WXpfD4MTe9zJN9XZjuN6IqoKKVJC/gDjpT8V9Jjs2fXP7DQQeAIYWzh01+1kZyEgAt5Qw9U2XdEG70AMwnbLQgPL1Kj3sGBXQ1aH9nP/xsR9RecUojrtD7Zi0X21GHgpYEdWhHO5aZzp3KujSmrJ5LPWUlx3XC9R3XjKB7lI5rhTu2OPixczejg=;oaCW8zH6PYwQ6PbqYVWwzQ=="
+secured: "zj/ZkFOA/GuoGpr28XxM2oTqhqALEL6Fx188fZD6riAO15aDFqL9JoarVHrK3xQ+686kse5uMmXryZlfgRCu1Qb8FQzB0DXVbaV79o6SAm4iY6fRwdP9128FI5YE+RX3Csa14kJioESFp2ArXR/9b1uKwQIF7BUIX2UPYlf83GtGWrU4TGCeIqRJ2ynzfx/RQzzTc08inK3PV7CvPjuk2iW7gMd37vH9AIuNvEFThJqFCoMB9V9OzK1rkGfu1Q90YAcFH1e6zxcEMvIMGoTZrdAdgnCSVPedYHXvesSzk6PMxepkCepv+gB68Pm9mOUXD9OcD9BtzAdZWAt8d5qLtzMS0Do+n6Xupc8aL4o6bftqd+npABzQ1l5upajSH6wwt7NudPJXxv1zcsXJY8Jc2g==;ZBuf3d+a/9d1zavsJmsbHw=="
 ---
 

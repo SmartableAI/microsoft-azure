@@ -1,14 +1,14 @@
 ---
-title: "Secure administrator accounts in Microsoft 365"
+title: "Secure administrator accounts in Azure Active Directory"
 excerpt: "Learn about securing administrator accounts through secure devices, dedicated administrator accounts, and just-in-time privileges."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/m365-identity-secure-administrators/
+webUrl: https://docs.microsoft.com/learn/modules/m365-identity-secure-administrators/
 type: course
 price: Free
 length: PT21M
 ratings:
   count: 854
   average: 4.7552695
-heat: 53
+heat: 80
 
 provider:
   name: Microsoft Learn
@@ -30,6 +30,6 @@ images:
     height: 400
     isCached: true
 
-secured: "vKEGLcYFGTTmehyX5MPmu46e1ZrjuS44jP8VK6BZ428Vfqiq8/coULptuEUnsP+0TWUl5hVRIT4aTRv7UmYUt1pFVgkvoBCRNgdtOfHD3BsmwwIkuHGPxGixuCjqVRChygnq0tqOfoCAAjm7XvCL405NN8QZa4xqmszRUiqK1hkrRFyRuJsj7aW6wWGIAZgM30SMEnQcd8aNDiRFaEXHWOVQr41Fy6mljzJdSwCa7J4O469SFjcIGjb2BV285VhI2vS36ga+7EdvonyUwkkFyaJK8B+03+RRx0hLD6JGeW9xZ54+YXnJMKkKPlOayiGGUH0iXreNCPPAT1LBbjf5jYPYieWAEENeqSH8nr8Muh96081Dta0mrY93MC7Q6g1AWFpLaypZBIKsNTXytwMjcdmTuqVjuZ4LpdMuIinscdI=;OLF/5aqxNqMIEAClg7REQA=="
+secured: "kbCKO721IOXZWPLP6XVGMSXOyzq9KON9pOFReS6XXHnJ8oOkjYtSpaEuarZovh7TJXVTKgqIupja5z6JdsDyVDz1rnAl0N7ItR0RWs3ZUgi7dsYiF2WryrpBBTQ76wc1gkxi4x+naASOvWjHTFjhwsHv0TEXLNV6mDk22mMqjLdz45IjMUuWTicDlld3Dw+JaLiMKICxoKMwnpp4AZsS+2SROWqcFGS66EajISI7fuOkBuJ6/FuuHavFJkRRYdl2ki73LpSizK9uwZu/CEBL3Kw+fCCWGrTuumtXCq9as/yQLbC1fu2bsAT03x35wPkC/AfHYbDed+lsB3IRY2Y5jQTmn7Ah+6qG8uLz1LLw9rjNv6ucmQKQ+jEVnOUI2L+hZ5HtotbMyvJtjfjHC9w6dw==;Ttsnd3e7dJuljyVs7nHWAQ=="
 ---
 

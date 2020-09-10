@@ -1,14 +1,14 @@
 ---
 title: "Protect your APIs on Azure API Management"
 excerpt: "Protect your back-end APIs from information exposure and implement throttling to prevent resource exhaustion with policies in Azure API Management."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/protect-apis-on-api-management/
+webUrl: https://docs.microsoft.com/learn/modules/protect-apis-on-api-management/
 type: course
 price: Free
-length: 43 mins
+length: PT43M
 ratings:
   count: 634
   average: 4.7160883
-heat: 52
+heat: 74
 
 provider:
   name: Microsoft Learn
@@ -31,8 +31,7 @@ images:
     width: 800
     height: 400
     isCached: true
-    title: "Protect your APIs on Azure API Management"
 
-secured: "H8SILO8M9+xGjMtQkD44pnmWRDIHSuyKfJmcR+aRk5xltfCT3g4UrHVXULxAlh5dVb2MYgpElaWwWGyJnLrINzLvLg0oHSWtHIrfh7NlM01NVn41NqlMq+TSguTg9gYDilTJhdthYkZG/uHSxWFPzx9CwxSPEwhxu8ehIt9+O5jP5B4ai6mmSuOBmy11y+wTuNtIMG53i2gwnqwVh4EPhhgVVHNtLc/S9Bb9bfAtKwVZ3gBi7EosbYvoavVwEgvZOEw+a8OC5HiYNvoWgZnDbDOqFZLpXGNKeEp4r9cZkoHQ0rF/Tfo3ni2JrxjrRyJwttlAKaYE/bV+rhf6J03ZRUqBeDmOThaOc9SwmKIYc9dmO0TtiIyH+gr8SBBealM/vpYzBcaYq5qsYkfYYQGLvxXjwd4gV1BYJenN6bguyzA=;tGUAf8GY3C7/GfKKHnq1Jg=="
+secured: "CSElZkuhxx5+KQGv2+T9Ztx+tbDpTV2CxAbodOFCi7seGQZXNwuv7R/6qUXkKNfENwVX4D3jeaAG3HMoeAVOsGeYeibgzHMxCTh6K60A0nypXUI9rY/KrBk5DrpUscJX3N6UJhHqGR2vC3cUkgYJvj3ZWyEGnZLDggU48ycI864qP0HlqbKy328vuVVy37xiK17hRStwbUztuGSwYw9uaeyDFRAaS8cmKX+sA9MlHrJ5SBaCMly+/lJFQ74Xj12mC3y0U1anaP5g5AGQz4elilBCTjvozWsPjHe5S/UcOBKk7pFHuwqV02VKI5iADArYBh1fvLILzkHtSR4LYNIJ4prsXLP/QUTJeTDrMOXmCAgFQ08n9NK74bfxiEjmzOGAcMTODy4/ime5svjGXODWbw==;w9/huCMmFdkP9R94u4TpSw=="
 ---
 

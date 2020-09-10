@@ -1,14 +1,14 @@
 ---
-title: "Use Recommended Tools to Create a Data-Flow Diagram"
-excerpt: "You can use any canvas, physical or virtual, to create a data-flow diagram. Engineers at Microsoft recommend a few tools to help you in your threat modeling journey."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/tm-use-recommended-tools-to-create-a-data-flow-diagram/
+title: "Use recommended tools to create a data-flow diagram"
+excerpt: "You can use any canvas, physical or virtual, to create a data-flow diagram. Engineers at Microsoft recommend three tools to help you in your threat modeling journey."
+webUrl: https://docs.microsoft.com/learn/modules/tm-use-recommended-tools-to-create-a-data-flow-diagram/
 type: course
 price: Free
-length: 18 mins
+length: PT18M
 ratings:
   count: 149
   average: 4.6241612
-heat: 50
+heat: 56
 
 provider:
   name: Microsoft Learn
@@ -22,22 +22,16 @@ levels:
   - Beginner
 
 topics:
-  - Security
   - Azure
   - IoT
+  - Security
 
 images:
-  - url: https://docs.microsoft.com/learn/achievements/generic-badge-social.png
-    width: 800
-    height: 400
-    isCached: true
-    title: "Use Recommended Tools to Create a Data-Flow Diagram"
   - url: https://docs.microsoft.com/learn/achievements/use-recommended-tools-to-create-a-data-flow-diagram-social.png
     width: 640
     height: 320
     isCached: true
-    title: "Use Recommended Tools to Create a Data-Flow Diagram"
 
-secured: "Ow+Idw+SDpjMK/8Ligb/ot7WQLX0yRu4QBHRH2O7X5cGnvmMh7tN7GH5ep0qLFSb4jqou7/WwgH5qRBTmW0Z/HxjypR4kVprHOVQpN07BVOuwB6XcYWbWAXu3yRC9RCvQ/z5xUQ+3Q5neT33ACasjqTOaoY8GfxZMW9hw5n4S1eloznYUn9yqFVKEVSjVzpFJNuJ4aVX72vXr1GHsnfqjsvpeP/+LOLOo9ToAdTtQlJPqyy7p0WkxNvRITbfN+0qTqe5pQJpUFgoczcGnzZ4XY/Qa1KbfpBQEg1jsJKK6AQxA1xSg4JsZzGOxqExi6mrHRsKu4fH8tx51Rbb4vRRpYSfEIzJWF0xIox5FSJv74dQGbhgCx5ksUHFuKdnATJMHF6HESDWrCmb7aJiJUg53eNFCjFJp8iYb2eVCVc0tno=;4kYCcAnt0NZisTg8WRDnSg=="
+secured: "hVbFa9dbexRfCnutrratOBo12GSzUu0Z5vweYlwH/j7Z1bi/W53fK7Hm1Q3EqaNojBL8jBEXLz4nt4uf8oR5AWIO2mnmqw8nz4VH/kI6HTVZ9jzknsgXslmu03YeG2H28epgQEaCRFtUpumlOMrEpvWBL2MbsYRXbn198yUnka1YUB4dEg1CBvwHC/ovdqaQveEakFBA22op6ZjVA0wMLHLo7/uruZ4LxkmBzBUgx81ytz0x978unrpH9h8wdtZq+q9uol89B5hzxa0NR2Z+YagO6xvjmt5jwQnpFLOb1D8HnBuRQu+a+ExACaE6nKU9SP6eTKjtnWQ0AfT9V0FQY0cLoGstKe9jXDnrfdh5K2mb5byZloFUw2ZBnCcrulXWOgl8mdfZNLjHL5vzSoSQcg==;mDKIrttTTp+ZqZtQQXuL+Q=="
 ---
 

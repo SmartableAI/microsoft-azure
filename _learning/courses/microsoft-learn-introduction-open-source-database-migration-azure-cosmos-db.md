@@ -1,14 +1,14 @@
 ---
 title: "Introduction to open source database migration to Azure Cosmos DB"
-excerpt: "In this module, the learner will gain an understanding of Cosmos DB and the main considerations when migrating to Cosmos DB."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/introduction-open-source-database-migration-azure-cosmos-db/
+excerpt: "An introduction to migrating an open-source database to Azure Cosmos DB"
+webUrl: https://docs.microsoft.com/learn/modules/introduction-open-source-database-migration-azure-cosmos-db/
 type: course
 price: Free
-length: 40 mins
+length: PT40M
 ratings:
   count: 61
   average: 4.672131
-heat: 50
+heat: 52
 
 provider:
   name: Microsoft Learn
@@ -29,8 +29,7 @@ images:
     width: 800
     height: 400
     isCached: true
-    title: "Introduction to open source database migration to Azure Cosmos DB"
 
-secured: "evkX3YokpivXQxAjB8rtdD5Ra1YYGMk/zX6NI7iRQUyopXXczsOlWY2244RBEPuUnTWQ+A+c55XaxyCQdWoIQ+Vme05IOTxZMpry1HNsTKecCyyfI62J0Kcksqxr5vJz/hAuhXKK2dFXoMp1jr2ZSp9pKZiL0K6sE004dPM3col/JP6uXFXHo5Ygva5Gqr3Sc3eKswdpDLKgMQvG+4lxIvcxU72RbBLx3z64rijWwX0Nroxb6EjxbU8fMuPXYXFhv+ZFNF9iN7Lxcm6Bb1nlG7mA8eXzRK2RMs1E7QDCRlg1Ol20zchpQ0Uzn/j3zPWTOKDRfB8W7S480V2VwteiD/ZpwcKGoJeGF+s12Gze+j6c8mTbgeyeBpdvWeeln4zdaE7l6WVeh1C3vENf1qWleKP0nGEqUzxUr1UrsYw9NoA=;wWl5EPw9AVtWYdcj0njiag=="
+secured: "WKZED85jTJ64Y+LCp1FbxSlZQKchIKz8TnRDW8jw+PN864Kaqp7+9aSCZxrQbVxKNApJf8kK8p7qCeUTBBX5Sa4kQzdxTo/ESmOOirgYktZrcsYKnoUxnA6AJCNzACgA0Y7Fs1fdvfX4AqJEFIQktnMwXScokMSwdZEyY1N4cukUWBFf7xb2R0+0ml7xPRwQ1YF8aOcSY2dIJry7HBVt0mqeHM8L2oPZtL/MS9Hzztb9Lgvf1D+Zeu/5XriunDFLntzzlAT6l+NJBqsyTHHfp0Mx6+8Je9tMCuIQdNlXXh1U22UdMGVDveR2InxwT8rgKaQ94hzOe2gSdSpUtbf2miz13ywDF8wtbOTVP9yQBY71LSmwcTojZK7v6z3q27eQPHsiM7ZCNvbs0eHkOSWyiw==;RvFxYwTiimL28QbHoYrfbQ=="
 ---
 

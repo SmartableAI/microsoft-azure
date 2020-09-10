@@ -4,7 +4,7 @@ excerpt: "NoSQL data is an efficient way to store information that doesn’t map
 type: collection
 price: Free
 length: PT6H3M
-heat: 66
+heat: 139
 
 provider:
   name: Microsoft Learn
@@ -43,11 +43,10 @@ topics:
   - Management Tools
 
 images:
-  - url: https://docs.microsoft.com/learn/achievements/create-cosmos-db-for-scale-social.png
-    width: 200
-    height: 200
+  - url: https://docs.microsoft.com/learn/achievements/choose-the-appropriate-api-for-cosmos-db-storage-social.png
+    width: 800
+    height: 400
     isCached: true
-    title: "Create an Azure Cosmos DB database built to scale"
 
 secured: "+IzzeMY+PqcHFh9Y8gdaJIrGi4r1fEqLGuTRRLUGFzwxVxrMGKecKEB8XbQQaaaEif2eGaknopFYEpYGfdFWue1LAAO0MnG72v31GkuCtTjeXv/mLI7HyzWWqWDFicMkOqDhYA47iK+DnuTO1174zInJbZc1gDYlfCwwb4r/5xv/CvPUoPWWmx7YKMb8ghQm3ZK3v6nS2tbm2QdcHf5iQg8dCEvGLku8O8e6kbhqdNBshE1STbYEvX9XBjIf/wBybtKxVXU17fTBkbaciCmZfdUWRR6rYm55TSyGuhqivChOnxhlLSIoQvGlkGJTCn4uB8ct98wqmbpbSpaLd+Ut7A==;GTNlzxNeBm1r8pMLYKlwJw=="
 ---

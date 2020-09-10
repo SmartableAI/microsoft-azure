@@ -1,14 +1,14 @@
 ---
 title: "Monitor models with Azure Machine Learning"
 excerpt: "After a machine learning model has been deployed into production, it's important to understand how it is being used by capturing and viewing telemetry."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/monitor-models-with-azure-machine-learning/
+webUrl: https://docs.microsoft.com/learn/modules/monitor-models-with-azure-machine-learning/
 type: course
 price: Free
 length: PT39M
 ratings:
   count: 111
   average: 4.7297297
-heat: 51
+heat: 54
 
 provider:
   name: Microsoft Learn
@@ -23,16 +23,14 @@ levels:
 
 topics:
   - Azure
-  - AI
   - Management Tools
 
 images:
-  - url: https://docs.microsoft.com/learn/achievements/generic-badge-social.png
+  - url: https://docs.microsoft.com/learn/achievements/monitor-models-with-azure-machine-learning-social.png
     width: 640
     height: 320
     isCached: true
-    title: "Monitor models with Azure Machine Learning"
 
-secured: "gjpq58lW0vinYRaMzHHVyaTMEN97EMquiCiqJpkZyWUVIeqVmOFAhGOZsEzpR+6aJXWHG5YoihoegxC7tbo9KvbpHxM1NoZ0CJb5AVz+qPeY1ytGCfaya1BJXe3Xf9GkJRwwE89IB8ZK4fpUExYJ7MpkiF5OKY74D6CjNq+ULr7QKglD8v1MUvKnbu2PYEu/Uy0d0mZG2qB/gVdPi9l6fMecY+ORGX2Lz//uI0CCPbjU/mWCCYEoVAExVWH5VSM4CvMrK/63qMi3/S8h/hSjNJf+NvMiVVuS7wkefef5NWwFheElXmFRPT7j/A79g3KS7771Evo42AlV3W3P6gE0Hvf5Y1UZ+hLlsTSxU1N+fX2P0wdlstKmHBiaZ5fMYLyaQD7hoavMFdMm/gX78lKJmJFCTFMb7QsY1GHjVGBxtPE=;8DMo9ohBLhp1HhZiKKmE/w=="
+secured: "0elsPlZKKZjNfWGTMQVcyI8TB5a6b206fiEvhxmuTo9S6+5ANHuNmn1NkIeTb3tv9PtckCGQOjdSvj4xzVVGWl2RezjD+rMFTbCEUbkFV6qer83KTCAVdF/uvpVqqV1XCbLyrAT4Pf7C/IVTHnMVWRUQJlk9+9eTc4os3QTCtYqQToSGNzhCWj2GB+fKtmBY+T2Z+gWNpzTSxMX3WROYtS3gZSyZuD7YVEv5lclYQ6lboRRxC4/cUWuDIkCFThx8ZCWnddazGmOEJSOCKnbuyr870LDD+9zsAy+cduPmVk+L9iXsqq8/sDhdtwMI2qyCzOxHZpBH+aRVVYerz1MA2K4ueuCRfJe2VXG7yNUXwtptlJdQwvO9lZ0k3PjXDqsSJzIwl3Hpx0AJkqc+ZufPLg==;nHaPKDj73AYLorOUv6tiHQ=="
 ---
 

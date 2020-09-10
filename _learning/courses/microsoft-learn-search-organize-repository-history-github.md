@@ -1,14 +1,14 @@
 ---
 title: "Search and organize repository history by using GitHub"
 excerpt: "Learn to search and organize repository history by using filters, blame, and cross-linking on GitHub."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/search-organize-repository-history-github/
+webUrl: https://docs.microsoft.com/learn/modules/search-organize-repository-history-github/
 type: course
 price: Free
 length: PT38M
 ratings:
   count: 71
   average: 4.816901
-heat: 54
+heat: 53
 
 provider:
   name: Microsoft Learn
@@ -25,12 +25,11 @@ topics:
   - Azure
 
 images:
-  - url: https://docs.microsoft.com/learn/achievements/generic-badge-social.png
+  - url: https://docs.microsoft.com/learn/achievements/github/search-organize-repository-history-github-social.png
     width: 640
     height: 320
     isCached: true
-    title: "Search and organize repository history by using GitHub"
 
-secured: "zXS5T9NQVFpMUebpeHEZFi+Kc/ffL7k+pMDHfBwCfNVFVCEjbezTAbSvyOlD5r7YNMWo0hE/LknqynWsB5HlVpVTk4g6gWRO6Fqwax2uw6WuzbxaWSUOMdD3oHmtFRuGG0sfmrDXtDFcBzCZJiKtU8U2ve4nyUyHCUnF1OVF+iAMBoEBSEMAYdq+sBCdGEEpao4ynMLg0S2wjBNxh31/l6++vl/5itgv0y+Vz1D08lnvwUZHnAnkaIiZf0PUgebq1xUpwKzxWWwZ00xloPXs6SbdGuJAkRwi2kHK5RFjprTZnHgpWm/TteVRI2gM0M/QSW5EAt9V1XDnML2j1R6Pvw8ZuR5t1bt6wn07NsIy8o41/DKNFGjhvpbDYisXedCpQRfZMcs1oTLJt1YQa+4t2mgDGWl6jHMsF6Fj4juqWcs=;B7FwCukEL9rBs02B7DO56Q=="
+secured: "+5AMjSw3dzZD1lHuXUepEMrrsh5GLDrlVCkjEY+kV2IOP3+EAYqzB74a5S+Ylm+XEQWNB+wunGhIw8fBlXGX9arZKlhaGIXmRXz36wPSHVZy3DIomY9WRiUSuznMEwiqnox6WlErOLRwI5+JzaZFaGz2UpU5DVbIk+fa3pUn0/k8BgbQhBabHiM2fGhOFs6odC/Yl9dPCyZBrTOKfVRh3u1+skm0Ss4NfdsfVzw5MymeHe8wFp68+Jeb4nuHjCSR69NoxrFmlTbj4wNH+X6Dt7265vOlKupaiq5EZ/RJz7a63kn4izRcBaZHTF8sMsIyvTRCGzCNfAcbajlwH+8VJT7h22JAS+MSsPQOXr//pknfy5kHTUv63gQluiBenrCviPX0yVo9urU9oKqlpEDMBg==;pItJwGeJ2l9z+d4NFENvgA=="
 ---
 

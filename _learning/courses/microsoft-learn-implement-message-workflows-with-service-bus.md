@@ -1,14 +1,14 @@
 ---
 title: "Implement message-based communication workflows with Azure Service Bus"
-excerpt: "Write C# code in a custom application that sends and receives messages using Azure Service Bus topics and queues."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/implement-message-workflows-with-service-bus/
+excerpt: "Discover how to write code in .NET applications using Azure Service Bus for communications that can handle high demand, low bandwidth, and hardware failures."
+webUrl: https://docs.microsoft.com/learn/modules/implement-message-workflows-with-service-bus/
 type: course
 price: Free
-length: 54 mins
+length: PT54M
 ratings:
   count: 1942
   average: 4.6467557
-heat: 58
+heat: 106
 
 provider:
   name: Microsoft Learn
@@ -25,13 +25,6 @@ topics:
   - Azure
   - Integration
 
-images:
-  - url: https://docs.microsoft.com/learn/achievements/implement-message-workflows-with-service-bus-social.png
-    width: 200
-    height: 200
-    isCached: true
-    title: "Implement message-based communication workflows with Azure Service Bus"
-
-secured: "ILXnNNYoE4NRDh8v2p/5thjTlGSthKSHwdRqWzIkvqRsBbIiSLsHM4ZnAg1MrnKjP/pJtvQigHBJk2BN90pXd6R9GCZNUs0/RdFZpf4CGkf+GAmzpJ0HVL4TUP0hQyDGstjO+hRFzIkdlTBg6stEK0HjtA8Cpvy4HIcb13GvvqC5Cjhwq4eDb+Jx7nxIxgCsS/GdWEfSiWZ2IEOjliBN5WY9aWJnfTus28j8yjv2T6u+39KI+r4YMKIC7Z7lDU7Th3ZSEqDpbdsCaUDITHN2fuJW+O2E6ppE25f6noCQStsdxLRVvAVJcUvTiFI4DElK1oxxq2+tAB4S20GD0Jr1VWnBiIbX386/rDqS2gGPjBdKp8vaaMJwX74ywDFooDxsoMwizb/GyUb+5pBb4IKtxOiWFGK5ehWiXivjVFuulf4=;19gtofz94pQDdBvZbp2xSw=="
+secured: "G36nU6ZWSMtWZjr3/Sya7yuqaWFjenqbwKZFB0dDX9FUFwhKmmR7/VPMH0pWWQHLIqBD+YNwbDmhGynCxcGysdWJ7lbzBneSvEdEyOClNJDMfh0FpiyxBrPzlQ7ERDTgbByHt4X03Eogy8XDMtWJRdSII4VNISKR9q3Yab8h/0qOT1UWCDIuDvh99nMlnua81ZJA5ILSz+e0WCQ9YQ8IY5N1EMl5RdfHbW+mmAhHb+yGtouqOmxSxKalDvtj5N1J9VBDSDVy9tbiVlmmtK3SN4cp0LsKlSzWyWpbSLjhHeHNwaxcaTm8Ryg//QrlOSI8Xf+E3tOt57AMy3vOmHQe/R4dWVdJIBU7SU3d9Eh9QW/WLhQ0LdU9RGjz37WoaHLMDQ2czg6SIgq2z01bnRouvg==;rB6DAiZPzZm74ipCPdLhqg=="
 ---
 

@@ -1,14 +1,14 @@
 ---
 title: "Explore concepts of non-relational data"
-excerpt: "Learn about non-relational databases, and how they compare to relational databases. Understand the different types of non-relational databases commonly used by applications."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/explore-concepts-of-non-relational-data/
+excerpt: "Explore concepts of non-relational data"
+webUrl: https://docs.microsoft.com/learn/modules/explore-concepts-of-non-relational-data/
 type: course
 price: Free
 length: PT26M
 ratings:
-  count: 343
-  average: 4.8338194
-heat: 57
+  count: 345
+  average: 4.8347826
+heat: 64
 
 provider:
   name: Microsoft Learn
@@ -29,8 +29,7 @@ images:
     width: 640
     height: 320
     isCached: true
-    title: "Explore concepts of non-relational data"
 
-secured: "i7+b7doY0haukKWGU33TlbNdgNQlQyReSxAh3y2cGCXHerJEgSKFasWz3SNEG9eFmEmDwQcUA9fJ4nqiD1GbHnKeMZTuXSe/o7SvPuN5w2m/f08hQExbTv4fottSJWvTO0fm/EKWG0PynhUe/zd60FMHbOEcPVl/FttxcjZm0LB0QQ4H7afuWwbp9/Olttxkxm/9NOPwBfZjdqnNYlFEDfE5HlDK7/mcYxAd3/CJGGDRptz773wNbiOTkum8a9+RJyJYeII+VxdJI41DIEjrCPhijAQsO6ZGFtmN9HbnLdOa8ffNXIvy/Clhaolh1bv1RPkQgqNasDC2nO6vm9ft+4dUfxcHHpmtUjFGBLwgXOYSzlaEIv4iSWCWlFRMrt+fCvH8UMoc3XR3KbD/v7TFCJDmqfMUA4+lXkkwN4dDj4g=;5EkA99Tc42ZBmx5Og9v+Xw=="
+secured: "PDHII4GIlSkcHaW+069nU+pU5Rlx9yVdtMopb4dpy5nyLyLz95Vw8ygYfCUUz5i/noIU2fCYRB5K2uZ8aCgSdiMrQ81Fa5zR5gpzrZQtZS8Nc/r1r7S1Z/A0wBjWzwUr2tKVC2DNOWmGQFZ8TFWj0vwU4opGJ2VCrI+2g1uaaOjBHnzfirbyRtHKr4oVro6r3aYUkPYcKUHh8sv9XR0GggZ6QceNw777lx/Yx+yN+mq7/6tPfYZpd9spCRJCvYu0bSXBz8rVoKtatAD00HmoSvPsYE/pGrB814gv17sy/WabXzHVXBNVQQxfZQnjO3x1m46x2wyw+w4S5APtVVCgM7eqVqdyS7JakFhnQWqqdCFTcAx+Q7Eqgw+M87F5MxThZG5ipN9GChHQNRS5R6FGDw==;0eWpye3GxhozdCn4GAEhjw=="
 ---
 

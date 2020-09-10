@@ -1,14 +1,14 @@
 ---
 title: "Build a containerized web application with Docker"
-excerpt: "Package a web app so that it can be deployed as a Docker image and run from an Azure Container Instance."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/intro-to-containers/
+excerpt: "Learn how to use Docker to build, store, and manage private container images with the Azure Container Registry."
+webUrl: https://docs.microsoft.com/learn/modules/intro-to-containers/
 type: course
 price: Free
-length: 57 mins
+length: PT57M
 ratings:
   count: 2702
   average: 4.608438
-heat: 53
+heat: 120
 
 provider:
   name: Microsoft Learn
@@ -24,13 +24,6 @@ levels:
 topics:
   - Azure
 
-images:
-  - url: https://docs.microsoft.com/learn/achievements/intro-to-containers-social.png
-    width: 200
-    height: 200
-    isCached: true
-    title: "Build a containerized web application with Docker"
-
-secured: "ywumttA9fp+Ge81Vx2Ubu6VIwWdhBLdTgGMdlGHwVuxTYY+5qLq2HthJieZW2wFUSvVGi0GAwZF8d/lZgoLsqKUrHQg/frBd4DryM7hWlqUmynaUso4z4bCjHRfQmohdGgEQuLaIwwVofQaLtgfG62FLGaEvOetKLy09fuy0U4YsVPylUwIenrP+2y3QVpMXfWkbQnLKnznIqE6OJbVU2soI2rpoQkaZyO6Qc/DDgxfyQ08uaf0iQq6M5txiyqFvGNkTF2SU+oH3wqKVSwuuLIL4U6MDchU4g4LHJCRRhGpc+yZmPMA1brsnrV+j5rP5VZQhu2TKpAapRaGzH600VYSKvTpYl5Gv/DJCYNEp0onJodPRu/uzDCcANgagKVl6E+oIdyXpmwoo9tYurdkn5EiTO787P8PLo84IpF9UdnI=;GmWVS1n/MWFz5jAY80+iNQ=="
+secured: "UutCMhSQ5M8c/zasqE0VPeOexxNkVRtek7A90TFeFlkeRH9enf7dL48arEUfWPM5IWTHHKhaOw3mRhEyyH5uj3RpCjM6R+YK0jeTzduFA8efE2HOZ0LGnhuZ2dN63B6zbxq8bZAdZ6STufcWy9Gl67+R6mEojh4lh8xcoKu5S0S/B3uwUNXK2p/nLIMtl7aeE9/qsUsGwdRLu0hlqKJ8cIFVWa5/m3DZOAH6Clo/1s9T1PSpu514v4vwervOk+C5SQCmriZGD8Uw5paZj9P9c37EDunFiW0/dox8ckpm+ZwCA1ZuEi+ZS+JYtxkby+C/C4flJV0lRwlc2pkpDz/MC2jvXRgzImAky5YAIICGnDmEtVeWG+/cpEnXgD210zRjXkCtJVQ6aPi4LWKNFs9avA==;EC5HK/lrfZquH/xTFEHLsg=="
 ---
 

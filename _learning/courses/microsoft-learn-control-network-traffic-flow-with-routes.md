@@ -1,14 +1,14 @@
 ---
 title: "Manage and control traffic flow in your Azure deployment with routes"
 excerpt: "Learn how to control Azure virtual network traffic by implementing custom routes."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/control-network-traffic-flow-with-routes/
+webUrl: https://docs.microsoft.com/learn/modules/control-network-traffic-flow-with-routes/
 type: course
 price: Free
-length: 50 mins
+length: PT50M
 ratings:
-  count: 1592
-  average: 4.6275125
-heat: 56
+  count: 1593
+  average: 4.6271186
+heat: 99
 
 provider:
   name: Microsoft Learn
@@ -31,8 +31,7 @@ images:
     width: 800
     height: 400
     isCached: true
-    title: "Manage and control traffic flow in your Azure deployment with routes"
 
-secured: "2sVj6M9I3HX2o/UaZxn4drR7lg6IGOMPyF93RUMt/YkSO1uhOXBKCnIOQv4iUQ4EXzosFvGS7UoGlpSr9YfZKKUIIOihzluBL9ol5ux7z6/q/FWz8oERWGLNvPNWJ2635vZEJMiWKdTwGqw+vk8QFHDzZN6jaBDDJToDt+R1lHuBtGeg60+Vmu/gKNiP4GYPBe//1xCY6w4NEfC+mkYGiixh9ovti0Gm6MqJQeI7tpVOVY8KUgIeXDDAwX2dV1fqt6z30uPepCjNo8UwJlPKhG0OmdHa8DbDD9UWIMHQ2ku0CHRs4g69C4IKBw0ijhhszfMlMs3SlK56kFQeaoxB6J6eAhoemDpgrlVElg2L+fueE9368tqYTJZ/YWOCVuAIoHTGEsylhDj3c/Z+gm2T6iHPRLd3SLPOHuC3eSY3kHI=;OCTCJ6AnzdeI4YOk58Dtjg=="
+secured: "jVO7NlmducWzTdH/01dCSKelgkskTWWBXOPZNKNj1O/e+RIG1DslLJZeJl+d2p7uKl5EubrANBTBJ+LBM3mCgyJUXYaxDQwet6MqcC3MPnBK4hLjXeQOEGNm/AfbEJ64vuGXmootWT74klf9eBdQVFKXiAms4sHfcDoXOqykmhrgNglQP9RekMQL7pS/5lF6V/eTBmnxadHxdUygUO9XXjJEZqfQNrpm2D88QlYus95Zmomke5P3bHnpAbVimc3Mhr5MGN7vLGKBUweSH0J+/r/EPt4LU0sL4uoWmu9CMiiOa7Jctg5Ff/PL7a0e98qQvwmGD1OBUNLoMEzQ91JidqdnOVUf2DoXTKmmfNo7FD9IpCh0Za00f51q1I/BPPMt2m7GD0KxHV4+1Vx63IAuSA==;Yb7inkcycQbIpkYrCJmpAg=="
 ---
 

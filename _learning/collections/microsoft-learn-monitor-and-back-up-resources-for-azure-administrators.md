@@ -4,7 +4,7 @@ excerpt: "Learn how to monitor resources by using Azure Monitor and implement ba
 type: collection
 price: Free
 length: PT6H25M
-heat: 69
+heat: 116
 
 provider:
   name: Microsoft Learn
@@ -50,7 +50,6 @@ images:
     width: 800
     height: 400
     isCached: true
-    title: "Design a holistic monitoring strategy on Azure"
 
 secured: "Sxfj+VHYF+o+z/E3tEEy1phC5mBPFWRDH/14V6KAFbUwoWe8xC8DnaUI5D5tytNHJTHDZhNf0lJQl3ckRqqXWoo0JzMoQoCD1gY9D5pMk8202yUrUuv+MkC7qPePkHd8vKmH/oxOgLcPiyy85kTwYrbLdG0XEITFLuYg1JJ24IBLQeP0PYEaWwQdcDWMi0NPtoxMLDtyOOaps9YwSypSOTMA6sJQfGLTn7pZPUKzJv8ZffjuGQg6jT0u6K3u+BFvcEMLlvBUufpwz6N+7eKuZtVdCNqcwuDTxkQ0rc/oTgduZGNamlQZYzwM1Klg2brkWgyWKRO9BRRHHssuaYw3rA==;a1vWLwPq7xb139emji3ulQ=="
 ---

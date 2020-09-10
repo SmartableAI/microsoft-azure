@@ -1,14 +1,14 @@
 ---
 title: "Introduction to the Microsoft Azure Well-Architected Framework"
-excerpt: "You want to build great things on Azure, but you’re not sure exactly what that means. Using key principles throughout your architecture regardless of technology choice, can help you design, build, and continuously improve your architecture."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-introduction/
+excerpt: "Learn how using key principles throughout your cloud architecture can help you design and build a solid architectural foundation that you can continuously improve."
+webUrl: https://docs.microsoft.com/learn/modules/azure-well-architected-introduction/
 type: course
 price: Free
 length: PT1H4M
 ratings:
-  count: 826
-  average: 4.7118645
-heat: 57
+  count: 827
+  average: 4.7097945
+heat: 79
 
 provider:
   name: Microsoft Learn
@@ -29,8 +29,7 @@ images:
     width: 640
     height: 320
     isCached: true
-    title: "Introduction to the Microsoft Azure Well-Architected Framework"
 
-secured: "uoLzv8tBZ2qKRdEypL9ErJtN1YhhjbNNUTAbB1znWZi1JSaokJO+IJbV0GCWOtISacVUXx5i8Vf9Zy0ZuSkL1cbV4exEULDcrmUrpWNoMpSs1SchSGiub+HfsX68q+0jXBMUT9jKtSKpMo7Mez8flTSs+RAcvB5ZAZtxaK/1qPTihgFddufrEDKGQj27SOC6jIDtutsTAENGbEypWInUkUg2y9C14Z/psjtwzR8k53P6PqsR+T9qKQI5+nAC93Q6saaHf5dzYt1wy/59QlR91m0g/f2UHqZEv8cJkbxW8oEZATV1qBDZQOp8gcy3UGXRLTNxWPnYvZdI1Mf81UZnIOmpou7lircN7OE+S0T44/ZqPqNCI1Sfvdgzk3uORDsNkgRAseCPDYpKOMpN055BuPc9RlWcnyby9Btnsg8En8M=;5YHyieoXbKuaTdTHSxAoMA=="
+secured: "avLTL+0VpI84RtCLBnJ8NTMQJWSUJw7qaJxGEPwuMcN9quEgdN+wQRNMsOV33hpXiyaMNlthWcFEiCzD3j/H6FnoYZjU8JxdNhqhfkDwlPy7GCNAR2haMJQpjANvdbOpAOuk4/z/+lj/nehsbm6bBVrpdiRxAxte9u8uO5B6Y3wDCcUxNrm24wK6lsg4q2xCQkHOtuVK49UtlRRxNDFRa4KL3tTV7bwwR7db0GsXdQerwrV+tOmna/szWmooEkjTOdGxnQSsnp58yDY57TJxcBtN6/cEGzeA/DVx2J8g913dyQewH2w+/cqdHHZwsQM63KT9YZFq+5bkZnkw8/PBEjmrsdVzzHsVm1ZnleNivn/3WIf2JxbnbyChdgzI7eQotwWtIKPi9RNG+sQQ2QbC/g==;8C6FudaPc10zD02HctPJQA=="
 ---
 

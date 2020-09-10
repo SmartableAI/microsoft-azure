@@ -1,14 +1,14 @@
 ---
 title: "Run nonfunctional tests in Azure Pipelines"
 excerpt: "Run automated load tests by using Apache JMeter, a form of nonfunctional testing, in Azure Pipelines."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/run-non-functional-tests-azure-pipelines/
+webUrl: https://docs.microsoft.com/learn/modules/run-non-functional-tests-azure-pipelines/
 type: course
 price: Free
-length: 49 mins
+length: PT49M
 ratings:
   count: 606
   average: 4.6930695
-heat: 52
+heat: 73
 
 provider:
   name: Microsoft Learn
@@ -30,8 +30,7 @@ images:
     width: 800
     height: 400
     isCached: true
-    title: "Run nonfunctional tests in Azure Pipelines"
 
-secured: "Aqwj5dF51rInKqnvaD4dEfbA8dNhZ0a9u3R2gVV/hpsVKCIzUiWAiGpvnW6DqFGd1xioMeU8hu8JGczCWFJnDBRNOFhLuYm2TqjHfCF0sxmyJdO7QUzbpVSv7lpXAsI3TGwfN07+/HLkUAedCayr6aqXco1fD2wnxOeNVEaPi9lnUQ2uqu8DaCwcv9baynuvwmnOAaRggWa17EhHdyPsmptGD3W6oTYthuOJahhj0x72qCxILv5F/f4dmyDMvTfHKo2gKw7N5VK++ZahNrj9gJPfvK26nSkD5alMnmjEvaqdx7uIbTx8e4VR3KeHTTz7aBWbPp8vUOS4WLT4ia6hsqPvVNPqx2t887yYi/OB11d/RpMDNZHbVTX3SqZBhi39w+EPDPt9T1eIfufW9lKjWvBOt2OQihgCxsAeqnJJZRg=;gEat+yXKz4U8o24CGtT7dA=="
+secured: "ajJCxWDnlstPk/7JZGR+cicfuEfkiH12YBTfpnabljaaf2iCVF0VmRpe2suYtCT5APRwyOW53F6g+IeE2dEMEpjrMD10tCln0cNd4RSMDzMl8DvxvtV8bqqRp8oTlf9fRgTORBsPGqmKNEoeZS1bf8egMjrjK7y7Rbs0WP2+JdH//Jg37j/BCT6zVdJWBO6lv385APYsXKlT8HbT76o51NDNRiHJYO7Q1RovSxLJKooc1IP3PV2jvRzl8+JusmMourdfViN+2TFy/syK4/ZuskTodpxXHLfHvKwP2DAbkHBHMnW+IfKk2kIKJKLF/VyPus9HUrzOSHRfkXh4VyQJb71zZRO6eTWfLBg8hTBMOVD3iCGN7QdqwyutFVMx/zAj4065qjUiF1jlTF0P0AJvZw==;bmJJt2A+nJA1TL9w6FL5bQ=="
 ---
 

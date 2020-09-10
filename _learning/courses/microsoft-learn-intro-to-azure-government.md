@@ -1,14 +1,14 @@
 ---
 title: "Introduction to Azure Government"
-excerpt: "US government agencies face many challenges today. Meeting each respective mission means more than just providing services. It means collaborating across agencies for better service, digitizing labor-intensive, paper-based processes, managing expanding volumes of data, meeting security, privacy and regulatory requirements and much more. This module introduces Azure Government to US government agencies or their partners interested in cloud services that meet government security and compliance requirements."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-government/
+excerpt: "Learn how to use Azure Update Management to update virtual machines, verify agent connectivity, and use Azure log analytics in your cloud environment."
+webUrl: https://docs.microsoft.com/learn/modules/intro-to-azure-government/
 type: course
 price: Free
-length: 80 mins
+length: PT1H20M
 ratings:
   count: 289
   average: 4.7716265
-heat: 50
+heat: 62
 
 provider:
   name: Microsoft Learn
@@ -24,13 +24,6 @@ levels:
 topics:
   - Azure
 
-images:
-  - url: https://docs.microsoft.com/learn/achievements/intro-to-azure-government-social.png
-    width: 200
-    height: 200
-    isCached: true
-    title: "Introduction to Azure Government"
-
-secured: "RvZfHcDBA+Q4xfCegOxsCCe8syPu3be+OtCqJ3kXlTNJKbhd58gJzQ77q9F8CnruVaYdQhcED0wIITjVG6Y3nQ1p97ZBGUtMRMyxeEnw+rfJ85HHE9VpEcFoaj1rKOttCCjTFa+jUE3kV94yVchsUD+fxq+UlSvTdqHrXfhaPglhLfIM5DckDdnrkARyIy3wj0SdM9G1gQhFxFewPtpdFmf9ke1uG/o4IU31uo7KRMwbZuq7VRT6pQymELdtAaruLNOTQi0eG8dOVrpMd5svorXeLqlms4QZV/+FlkxBsb6sKGE3JmZ2FxQuXy1nj7w8h2p/y5WMHeCv5tNI0CT8ZtYOaI3eoPwpDVQxLxLyKlQzdjUo9x6kTnIMcgsWow2ZmQnZSEnpFRSoP3iEdWMvVNAU2vS02L0BIrndINXK8J8=;QDCNUqxtDTIF4fByZAglcQ=="
+secured: "pZ5ZzUB+pKTVK7kKd8JB73aUooi0a8QLRODY7+mxHTrDcUcDBWZibfUzbxKJdSFoNGwVjSrPiRjHysaCpMHlqNGTPU0PPID2SdjqcLkXsW9c3inTrFyJ8v0PtBSQ/W0MKBONtIVlCL+aJhWxbFsa1vDJvBvCybeiI6MhF68nQ8rhbJ3Z0uYrtRGR6tcvxsQyLh6/2EgyZBzzFjVNYFBa/J+1gFzJOt12DwLiXDF0WBmsbEyIDRGXQjMJCpENhq/b6CUpYsSJr7qm8wLMWFU5/3jvvU5VGYsgLD5z0rQSbxVUAF2wKNdsXOu4m+ImULK5twFFEJLAybkMUBXdrmIAAAUOSCUOwlKRlQM7AdU/UvcSZcO67fdOFUTzT8Q/9TXhMZ8SdYCI6RmUIrqjqC91Jg==;CZqTH4EEeniVscv0T+RVFQ=="
 ---
 

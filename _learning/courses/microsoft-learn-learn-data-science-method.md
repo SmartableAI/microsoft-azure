@@ -1,14 +1,14 @@
 ---
 title: "Learn the data science method"
 excerpt: "Learn about the history and motivation behind data science"
-webUrl: https://docs.microsoft.com/en-us/learn/modules/learn-data-science-method/
+webUrl: https://docs.microsoft.com/learn/modules/learn-data-science-method/
 type: course
 price: Free
 length: PT34M
 ratings:
   count: 250
   average: 4.708
-heat: 54
+heat: 60
 
 provider:
   name: Microsoft Learn
@@ -29,8 +29,7 @@ images:
     width: 640
     height: 320
     isCached: true
-    title: "Learn the data science method"
 
-secured: "0seDmG8c30TPJJWva/dyXJiTyc4m3KO+AHYpnkkVvDHH9vQQnNNpg01GxOqozojmpjxctg63WmMWig3pwSoiAnWjGcyugsukKAIHOkCqdUsBg1TH/ieZRwTsan4o9KvH8nCVxl1Erto0sT59J8DZewXl7cH0jKoYHMOUs+fMYibUKiFYsppkF/WUBe67SYcYgDjBwnCz+xKuQRPgzurdXKN9CZRqdeeAbW7hQKcGR90vMH3gHZLSyh9s3cDCS6wG8Y6MRjgtdrgihm3OJDEfGdbz+4FbmgHWNKKSwToENM33phJzaFKkD0xBMuRXJI+gntbxBb92yb69WtltQfs/Vz8fHxZgSmiR2C+Q6EfosPuuDJ2wECbeHpWLw2ASZELyXQOACpgJx+jDTxJW60Sbkl8fpv8OFtQOj+m7cmfvSIA=;dB1E8TGZJ4zl73SVcTWIbQ=="
+secured: "RMsrbJ5QWQxyEhtRe9cwsqazT5FS6aKNdX1/yIV42gcJdQFOu9bR8EIaMear99K9sRsbdQf5Kaisb1zjZ/bWOOcR0ecF1aRZaeTrJV7h3TS4hL6PN6l3nXde2kwMlAB6NcGi1zFhvREY2QS/qtA0IhYsawyLzL0V2u8Kq2wiBPpMR43KyVU74/+6AC7llWVQekQXcKJ7jXzpzWHBWZsk5sBrWnE5bJSYAKq2IwzttDeW7jW/LwG37Dbv151C5ROW0IIZKR9Vc9z63MIvt7OFA2CHseIkEFB0bPbqUAnMXxrx2kMAYDFewEk5Qi+9W8Z7/tTbf+HGLxXTYkWUbriZ4KBEybRoAYDqvepJ6TFlN8YYxx3Jh5Qh2UqZct3ENfvB5rmhdnzNKP3K7QFHd/pFnA==;K9nsbpvrfkp2JQdmYoTYzg=="
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Create an enrichment pipeline with Azure Cognitive Search"
 excerpt: "Use the power of artificial intelligence to enrich your data and find new insights."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/create-enrichment-pipeline-azure-cognitive-search/
+webUrl: https://docs.microsoft.com/learn/modules/create-enrichment-pipeline-azure-cognitive-search/
 type: course
 price: Free
 length: PT1H1M
@@ -34,6 +34,6 @@ images:
     height: 320
     isCached: true
 
-secured: "3F8a9WzMSCtBUoEMYeRb0WhOjpXuhzGHMWvJW8l0I9w5AhvrbdWbbPSF8kmq3/0VA/xk/SNpvXqZQjzZ4E4ZLhYrZuBvqZpGWJj4CzXkza5ZOUQB9GErQon71Y4VrGYkC7XWnY6jbViFLeL/VeN9n1Tqry4ukPE2KNzdHlEMVr5Loh1W1Onuqc3UYhf/rB/rEqhY7ndEgnXVgtal/YPl91p4rBNTLN7sBKaZQm58+sc/Ol9PvE0GUNCS5NfX8e8Gb1yU+Z1h3zdZpdHyzXPHO0u3pVf33swrqz/nmrjRL0J+l70UqzUjWZ6vNwgQ+jlwJTK4NOUv7i/RY0x5MVY4kmgBoAHOhMBzUCyW2wEHkI2xe52b1gGJx4I0k7XjVXdH368k784P2KiEAdyuCB5yocLS1ZlrcDwnFjhHAztqI+E=;zZEWmYhJdWUA/6jdyx1J1Q=="
+secured: "hdndbvCnSkTpZHzmlc4RjQSR1vSga3bNxCiiiHhVbVR3Yr6VOk7fPOFOjFvqPPvJOYuRdthB38lVhYQu3N5ktr/3GK1vZif/4bTaPPDAknoF5Zivc4tZzEzDCb71fAIdidkXxDt38D7zuNtvKGAupY8WsYmPPZztS1rZFp31i1OOHA26E0EqzI0usBixu7p6UTvv1fJTL6UGAjpEPfrAIZuDd7WoV9/g8QpiRbxwrMj/GEC7vsdz+MgGlMJxUvctJtxWJ4BgLC/mIHeA+bnwDehS0fhjdJY5ZPCQxYcdsZK9UTBwglVtlulWH0Q8NbToS3XFLZCx0TVMXIp7mun5xRAFfw/WVOxwHiHA7DOCRJxxgTCB8mkO+F1Ah7cCvIrB+NNsS3nkEggGy+VFCYWPoA==;baSL/UnLSD1QrSBlhbY56Q=="
 ---
 

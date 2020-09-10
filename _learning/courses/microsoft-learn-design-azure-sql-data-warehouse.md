@@ -1,14 +1,14 @@
 ---
 title: "Design a data warehouse with Azure Synapse Analytics"
-excerpt: "Learn how to create a data warehouse in Azure Synapse Analytics in minutes to take advantage of massively parallel processing (MPP) and run complex queries at petabyte scale quickly."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/design-azure-sql-data-warehouse/
+excerpt: "Learn how to create a data warehouse in Azure Synapse Analytics in minutes to take advantage of massively parallel processing (MPP) and run complex queries at petabyte scale quickly"
+webUrl: https://docs.microsoft.com/learn/modules/design-azure-sql-data-warehouse/
 type: course
 price: Free
-length: 47 mins
+length: PT47M
 ratings:
-  count: 2622
-  average: 4.5758963
-heat: 59
+  count: 2624
+  average: 4.5762196
+heat: 118
 
 provider:
   name: Microsoft Learn
@@ -30,8 +30,7 @@ images:
     width: 800
     height: 400
     isCached: true
-    title: "Design a data warehouse with Azure Synapse Analytics"
 
-secured: "A2zf8Zt6UB4dxNiiWzDOXQ0IN6N78iT6W+RLEyDLh+gBgwVyGiHC7C8cEz3E0YL6lqgUmF+vGHxwti/LthhF4dCsvS3WCAnvti66eL8VSJEbp3rKtBJEozxxy/1wmwWGfqT5dGdhQuXrNJwdOYILN4fBvDagTK0YwbtIJUuFfnwwlO6vFvm+jCP0hDDL9wISHMpCaURFz+qANS/v2StXNsHe7x7IZojx9edWM4AipTTc9eaBQrlE30sOmYnOG/nVRBrXJv+RyIG7zwdimVWOFjW4eQzX/CG1YvE2E9NzVzNpGkXroDr7jBMuSwXVHeFKocRBcxf+HNvBvqPAOcQ3R+pu8YlJ2jDkpBr2fcJPDkX29zQD4qEw1tx7XOAEmb9EmS+E0wzMY0Z1OdFoCzqcHgJWRjB9AxEtE5Mnbg1zrw4=;+FlAdaHLLk3eU6oMMIYJXA=="
+secured: "4SwIDit01oHAjWRfSmO61W5KHNJSMaZvt6W8U5YV2jTnaih5bjD+HK6ayGhKApGZ9lVh5k2dAtsWsYy2N3rcnT3uHE/QzUOBDN+MsuTH37Y4p1sqh7xj2X/HV+krOhM+wdfG1x/4A2YbGOr3qI5bsg9KDAp8H52AsANSays29HEUmG7p8NVmLm3VR9A/+8oE95MISBjZtGjnltZi+coeyzJB0XG+0dwBBpy49xfdFybg98p2o/fyn4W6g1y6DdRWLHmm1enhTruHGzOausmdqi4m18yUmbL6/tJ8qBN3V9hLW0WJgwRjyVricmlhVeh7E83MJ1gpzwP+LpIzEPcp3aUV11jQCAuHS+MSL/QQ1QspEOLwXDAGKyHhOmQtBMSuZuBP6wYcx/mKRqMAVOS4UQ==;++1Kl6wyUQyO5+Wdsj5X1w=="
 ---
 

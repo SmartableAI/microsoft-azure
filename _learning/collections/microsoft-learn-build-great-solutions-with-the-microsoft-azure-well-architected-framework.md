@@ -4,7 +4,7 @@ excerpt: "Learn how to design and build secure, scalable, high-performing soluti
 type: collection
 price: Free
 length: PT5H38M
-heat: 67
+heat: 94
 
 provider:
   name: Microsoft Learn
@@ -50,7 +50,6 @@ images:
     width: 640
     height: 320
     isCached: true
-    title: "Introduction to the Microsoft Azure Well-Architected Framework"
 
 secured: "njmYPHtN1P28uK30JOdU8YZ+i9I5YxkIgAnemn0woiUl3AtstM32FruyyK7M1GjrKv1BUTY4c6Wiv5PXnoNdyyPzEGzEn1/9qXbvOYV/ZM5JtaJLle6QRWpcLJqVk964ekVVoYdmilx2gCnlB+p7AE2x9gT7CM1i9womK4MycRt9+qrHe7/tu6K7eEOCK+WfqXd8MFuwURU8Wu1qOyJayXLTqNdsDW8OCRzfrgySfco5t3hK1FStuI0mZg3p5IA6uVR0z7CboXLtw1BUiqGCYp4M2/+yZTN30TkqWHO9xD2WuuJnU+iJdQx3zROexjQEPI9TJsGIBl+sYkp8EmRzrw==;GIUZf0m/yH7CB0Ait96iww=="
 ---

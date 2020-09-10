@@ -1,14 +1,14 @@
 ---
 title: "Publish an Angular, React, Svelte, or Vue JavaScript app and API with Azure Static Web Apps"
-excerpt: "Automatically deploy and update a static web application and its API from a GitHub repository."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/publish-app-service-static-web-app-api/
+excerpt: "Publish an Angular, React, Svelte, or Vue JavaScript app and API with Azure Static Web Apps"
+webUrl: https://docs.microsoft.com/learn/modules/publish-app-service-static-web-app-api/
 type: course
 price: Free
 length: PT38M
 ratings:
   count: 262
   average: 4.778626
-heat: 50
+heat: 61
 
 provider:
   name: Microsoft Learn
@@ -32,8 +32,7 @@ images:
     width: 640
     height: 320
     isCached: true
-    title: "Publish an Angular, React, Svelte, or Vue JavaScript app and API with Azure Static Web Apps"
 
-secured: "WSE6Rk5Zon82pNnAU5kZsW1smYxy9Ipvy1ZBpWHTlFzsTroRjfokg7gW1qpJx9M2hW5A6ARcVYVVrvLHNqydZPYSRMtIr1rSwAu1qT/fEbPKtTr0kV5Rs5gisVURf79YSD8XpLojTram29QLiuVax1zN0P+cVvdMxo7ijPwxJBTnzXkj41IPK8xJ2jESeyUXCWrvGn+r/d2B6tTVchrGrpXffADDhE24pwCd+it7mGuSNEervL6O+upmNoVtR7nl3Bl/e68+LRSdoj4lVnQY22mTgmK3t2FtkcsOy3whT2BN7/TpDwzlm2GH9CrnrjNChe0G9tFWMn991TLmYBdkF14xp7lSRLxc6lzosHGAcVasZ5+FfqsGFUj+rVv/2RX0H7OTrWrNE5fxO9aujNkyK6IyY8fXmsprRqKeGurm4hY=;sT4W0P8/C17dLwsztAM5JQ=="
+secured: "zWZWniX1PPS2zxVRm/b2yIhCitOjYVmV2m4AZV0pywzuMe3WXQVtq4TgMim3Sw3VzNsOB3Fue6W81oMWDBS9eg1xOdB5mI/pvMSsxXTWE9yOz4v6J3IE8EnvwXxfB9eQx24wZY7mKY9X95h0SInAHGhUpyV2t0jzv4TpjyaCtAxjsLT/hgftIosiV1o15sNTq94QJKJqz+g6jftReFY8oVl6kr0R+uH8kyo3GS904v/AEgFYzQEB2iLxYqb1klaN3AGG5IOBhqtkTOrtXChNi69qEGtcANNocG4NvWfM07066j5Kq8dnPQcKuwXS/ncKgtZay8UzcSMnNXFzn8RcrsalI+motiTFLNea5h1Ga896Z8s/hSUQshoY8ys4l5MEh7iKbkTSe+gk9rVUhYsweQ==;oG6955V1RlALOvgjjFHRkQ=="
 ---
 

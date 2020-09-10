@@ -4,7 +4,7 @@ excerpt: "The Virtual machine and app migration using Azure Migrate learning pat
 type: collection
 price: Free
 length: PT1H35M
-heat: 60
+heat: 62
 
 provider:
   name: Microsoft Learn
@@ -40,7 +40,6 @@ images:
     width: 640
     height: 320
     isCached: true
-    title: "Introduction to Azure Migrate for server migration"
 
 secured: "HHTnHL6dg3JAo6UDcaGlUmLY/gRqfRiIu2OlhWXZs4IHVjV5U8tKNT6ggKWsGgqdFLz92ETpTpYMMtDzmMfuIA1+jRMW1EhjY7RcHhLJus5Y9Od0FSetBqbtp0ZvcCCr1e2ZSJ3kI5vp/iWaWE2aW+3WN7en/6Rtpxg0RGOfjosdtiRhTDX5XSIxKaQGzfOuHNLr2m2GvjaZd9KSdkkIAndHh9oK7wIrJZ46nnFs877n4ah5rjjGkV9RRB25Z9/QAvxALqHGsZoeuan2q24OHo9F5EuYSXhzzai0O7OWGOgnA/BxikSkT+bZKZsaO4OJ5hKTqG43G/5gT+8HikXtnQ==;+bC3jHYU1/eHBFLW0XXlyw=="
 ---

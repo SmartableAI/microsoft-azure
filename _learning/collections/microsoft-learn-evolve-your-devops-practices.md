@@ -4,7 +4,7 @@ excerpt: "DevOps is the union of people, process, and products to enable continu
 type: collection
 price: Free
 length: PT1H57M
-heat: 67
+heat: 200
 
 provider:
   name: Microsoft Learn
@@ -37,7 +37,6 @@ images:
     width: 800
     height: 400
     isCached: true
-    title: "Assess your existing software development process"
 
 secured: "6l9vBNGc3+FEwNtjFHP1hSDPgzX+V+gWHc04GOvaBT3D4s4ZJXqNnfBXrPj9j5wccUHufHvbh1YbpfUlyLVdqGeEo+ryXEn/k0nUkIzkk7tf6CJ1Y6/0oixX4SJOXbZpNV6p5SlljoBSuki4tNY2n1W/7C2YxFpBl4sLn9BQWtlnnUJmCHeeb9tgl+ZBRQAyduK+WKT0OHI/NxewlzRsS9dUHQqgc2h0vU8xt2mgLwFbiOVQYbC334iLJzMNdrv4ppT+JHKUSuEaCnD2Bg4ZpKIyByGXSk2iwId7S6vDsSfksGjdHWp+XgYCwV7cRq2vcCyzMYY23VZf1cGY0Tl9Wg==;cPwE/ejEE4d7EN7m/h6RoA=="
 ---

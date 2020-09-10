@@ -1,14 +1,14 @@
 ---
-title: "Orchestrating machine learning with pipelines"
-excerpt: "Orchestrating machine learning training with pipelines is a key element of DevOps for machine learning. In this module, you'll learn how to create, publish, and run pipelines to train models in Azure Machine Learning."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/create-pipelines-in-aml/
+title: "Orchestrate machine learning with pipelines"
+excerpt: "Create pipelines in Azure Machine Learning"
+webUrl: https://docs.microsoft.com/learn/modules/create-pipelines-in-aml/
 type: course
 price: Free
-length: 57 mins
+length: PT55M
 ratings:
   count: 410
   average: 4.617073
-heat: 51
+heat: 66
 
 provider:
   name: Microsoft Learn
@@ -23,8 +23,7 @@ levels:
 
 topics:
   - Azure
-  - AI
 
-secured: "4ETnQzES6K1AEYO964gt1YoDpP5grQd2bMjCfoHDJH3m4TUtK+jLU6An6mUM1640Xt6x++E4XqWL9FMXXpfXGBR1n0kfOkTYB8BvYTD09fuFOAcPlrfzSmIbuOtjV1hsuhkCK1hzUQk/mhpkauT74//VrjZXP9ifS8YWdv1Bvb0BiN1iq1nlF5vSlGL1gjoGlMVpp2FG7efde2XHk3Hv8bc02hGHdug0vZAQvuH2ppMkzvvpI9Ttv2c/Zz+qc38IKo/UUj9uzB78Os7OtXxb32AVb1X1BZX7Q9xxzdNrO8Yd2wZTrM6RlSjnPxw8BTN90fj+5G34N0FLjhdey/PQprlZyjrBaZIDbDZILZQrlvLQtVuQdIs+gdkrF/2zc1apwAG2GFRONHhcqYs3vr5yVu7iRgVyHsixnY+IKktUo7w=;U/Apyj8awHUtwtDDbqv96A=="
+secured: "6rmja7YPidOvcdoS1JsztIPPPFBXDyIbK40k9okafR9ek8gBkoFGpWOE/RXWxvXAjS6Anmp6auXZqOphyo31bMQ0w25V3jTnZ/KmS8yfSm0w0tly86Hw+UkqeLCxPiUUrVMxXMwoX+h6wVBr6jlbElcs+9R+ALuMVmlOtVXyb5dpGoywAx6R8jBEqkVbaDshelqiDusr9uyTE5j5cuDsC9v64LzaCZbOvtuwEEnqQttnAvJCYSyocFI4K6l86U/2HkbcIWImfjShV2RqchMM/Dz8IRcTE7nUGwAxrVLtP6HpdndDCvp5NyYdZ91BDFZbUw7BkoBokFSMEDIYAh83ZxEomKcIL9YDmiol35RTL7UglJkLcBSOGmkPzko34Zm63bnPPS8aNyQiLWOgs8Rxjg==;U906WvkZPcsYU7+KcX0i+Q=="
 ---
 

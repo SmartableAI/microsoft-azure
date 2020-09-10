@@ -1,14 +1,14 @@
 ---
 title: "Choose a compute provisioning solution for your application"
 excerpt: "Discover the services and tools available to automate the deployment and configuration of your Azure infrastructure."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/choose-compute-provisioning/
+webUrl: https://docs.microsoft.com/learn/modules/choose-compute-provisioning/
 type: course
 price: Free
-length: 50 mins
+length: PT50M
 ratings:
   count: 703
   average: 4.658606
-heat: 53
+heat: 75
 
 provider:
   name: Microsoft Learn
@@ -29,8 +29,7 @@ images:
     width: 800
     height: 400
     isCached: true
-    title: "Choose a compute provisioning solution for your application"
 
-secured: "fs6Xw+quUQz+UALLtBrgCfOcs7McMSjgIET7pRc7LrDENq4EDUXKcISc7rqkDRWnOv5qRiXDm/mO8+V7ic1o0SpZV4EjLb7YbrFBZ+fUM8+57cmfP36Ktvja7fE83UYbMZF/LTfW7rT16q+E9ORJd61NxDjC+ZNki7F9YmGSpGoW52N0RYsFmUtHebK/muukxysH6Epik8OzBlSnrW/iOvzv+jafH/mA/ZsQyMlnajlN0zNtwgL6HGpED+keyOMmCIEhVd7FcpUT9fvZVaFqWShq9Y/ZmxOP25k1SJRUlSYPi0pYjf4iijoE+/3flx4djiI7gzMDBylTaHVMrAU5JZI/M2VdBG73CSZpyrsqFzFH9G6OmV3OKri1WO8ubefxd/yMNw+VlSvQpE4asabY1KRpzYjaLiT6VJU0GSzmsfs=;9rNmRwi6u892vjbgYbBXBw=="
+secured: "4Npo5hiDeh3gunVvtp8bbbTNINezLVoPX++1+bhIm6ViH50eHT89yZrrqZB9XcxguggmHErqXzRX6cBm/FLcXXsGjvAFozyFl0jrcwKv+CeUk8JsyQaM7yT+PL0WDaCQS/eCAKErVqjJfBdbjHG0hxsp0xMC3xR6ZrnjHk7LuJdIWsvGV2P5tvfD0EWgBBfXxBtlbC+Y5AYLaFFdH2NU5Jl+WLW4//kZYN02j6QeU0iRh7mo4vldTgtJgoY+EDmtkpKN4PPL8VtZjueMPbTcJONVX3TEgt6n8uqcjxrJSeobGvG4poO0dHaJuPlLBHAtql5CUhSwBAamuar7QuI9++zhOyTDPM5bi6MYV1+hBktB4G5McD+YlBksMDGFINAIXhZZiRe7dm9ofOMCJxIOLg==;sZBVTEzTGUPNpFv1V/+2vQ=="
 ---
 

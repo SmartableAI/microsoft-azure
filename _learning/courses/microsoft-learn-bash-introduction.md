@@ -1,14 +1,14 @@
 ---
 title: "Introduction to Bash"
-excerpt: "Use Bash to manage IT infrastructure."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/bash-introduction/
+excerpt: "Learn how to use Bash to manage IT infrastructure."
+webUrl: https://docs.microsoft.com/learn/modules/bash-introduction/
 type: course
 price: Free
-length: 57 mins
+length: PT57M
 ratings:
   count: 32
   average: 4.75
-heat: 50
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -24,13 +24,6 @@ levels:
 topics:
   - Azure
 
-images:
-  - url: https://docs.microsoft.com/learn/achievements/student-evangelism/bash-introduction-badge-social.png
-    width: 320
-    height: 160
-    isCached: true
-    title: "Introduction to Bash"
-
-secured: "Q5VUcouPnR1s4VqFSeFlSbheBu9uISN4z2YfeXqsAZaKfmObTjKyjLU8O+mFX03X+XYRmU7LjgzvSF5Dyc2nU+cZVW9OVOy8VFto5gt1z3h/a9tXYUIBvFp80pXcO/axk2AKHKhEUIxONhlyNCGY5bnFz3r27lSq7uqnnbm8pqipXfbIHoSkYkGF1NVP/dsDsHLBTO9Djz0LjRAi5+YgdlDtItBvlGnD/URsnuEmEHPfF/NW+BxasN6ZAOMlZ4HBfL7uiCgAObuce7od+I2tS9hgYjIBTP8MXXADqvIq9OJb/YRjrjWR+PAI0grdVC7YNpLHN0IQ0EDK87l6Kn+/w87bYTJvdrTOcmHwjgzRluOjknNHwM670OQyt7SwMp/oJj4zv53PWDdHDGyfFCJStKAn3+QTzen9O/VVNXEtROM=;1l2zmw4Swll4NCmFOeBk9w=="
+secured: "oWXWb5wgfWy4Bs3iyJ2w+/GtlKe4+je4FOLnM+Ev0CAw3k6gUBN5ELk6enzn475hgQNKOeGTlRogL03jROqd2Q8tFmvIppDaKmhyRSPwuHi4gUUXfPXBSw9ySH4m3da2HxNM1GNnGzBn0pXtWGgDa3cgtR4pPCsAG0HC61uCTiA1V0G4TZQCn2TkYYTiaHQB7P5hNaqnM0pZaUXfdMRc9jVsAQdQkMimbDqwCnZk9ZFVRCYF2w+YWzc6MRRUu+aLHaKnu1fV6eIiiumtFGjQF7kRRQsysZYM6UpoXc0gWePWgnHHBBiPTf+Lq+/eRqWY2CHGLDKAF5As49UuyNaAPZUP3gwXrb7nO27L9HNNYWB9lxSUfjCZPr/PKd/zc+p3A8DXPKk/06LLEW5toY8rvg==;FusXGjm3x135JSgKaN0/ug=="
 ---
 

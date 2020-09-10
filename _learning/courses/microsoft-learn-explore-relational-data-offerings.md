@@ -1,7 +1,7 @@
 ---
 title: "Explore relational data offerings in Azure"
-excerpt: "Explore Azure SQL Database, Azure Database for PostgreSQL, Azure Database for MySQL, and Azure Database for MariaDB. Explore scenarios for using these database management systems."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/explore-relational-data-offerings/
+excerpt: "Explore relational data offerings in Azure"
+webUrl: https://docs.microsoft.com/learn/modules/explore-relational-data-offerings/
 type: course
 price: Free
 length: PT33M
@@ -29,8 +29,7 @@ images:
     width: 640
     height: 320
     isCached: true
-    title: "Explore relational data offerings in Azure"
 
-secured: "NpvtZ27q9xTWWV/NMwHivE2lHsvnvESC+TFdSqdFf1wPQZ6X0wdKqgsixMsIHEG+Mx+1Dd/+Khd5/5OsX7BcfpJF5v94DrsTQG5/THvxF1BMfCrFwpOb0ursHD8ruK/II2RfByEazYddI64twZCVFUKqjPAPRmOXSulH295jDbIIAwgUHcY/R12LNievQlMXAN8cZ+vX1IZc8HmoQ61+sagXE2gFPIsWJlB6/q5gXMRJJXydxDvCWHOsXYkJdflaW4g+dWHJPSN9Fk5KaBAZDdlgKAkX3TgMaltUGyeLnv/YTlkBoTB+kq6jG+vIsl9E26mljM9cdZnKecaZuGWg7/lwLVY2I1mgq8qoSAcvMX93n3i6XzTdcRpWKYm1b+s3ZjxfEj0P0fBO6/TWd/gTej6R0F1mcHb8JgnLnLvrNz4=;el/W46WXOIay5N7NkRHN3Q=="
+secured: "xBuG1l44IRJo5HaLrByls/OasBjHarcMdV5z0iUAE+V/mluC5VRu7/0pgMQRhEuoQYR0b2t1/ojqSjGEk3XiOGpvkmwwOPgCPo2bmFpq1koZ7XTLuT7BKVh/Kpagh3kANAUqmROqsI6xHnCUG1t9wcoeuopm9wVgV4jz32GJWVfairOcdXpH5FQVuijtqyNsKcBDgMgAnmhK+R2gu15m9v/qTgIjqXe1sd8DrZVi009AoqOZm04bKO9pQJ19kwmuYLc/iRMYJt2Bud+2LW6UB6M08y9Rn7ouhOc6NH4DVpHyNO4vYpBW94JAlk7CIMBoPOqweZPw4DYRov+vKS00P0lKXkKhFHhWnTB3PskaprccuNJeSJIy/WhiCgYbQ08/k6mJWjpj2YmuWnBNaKFpuQ==;yjK90mrgaZmZvRpFsUbLGg=="
 ---
 

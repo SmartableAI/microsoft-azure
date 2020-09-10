@@ -1,14 +1,14 @@
 ---
 title: "Define an AI strategy to create business value in manufacturing"
-excerpt: "In manufacturing, decision-makers must take into account specific industry considerations before they can realize the true transformational power of AI in the enterprise. To create real business value, a comprehensive understanding of all the strategic components is required."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/ai-strategy-in-manufacturing/
+excerpt: "Explore the strategic components, special factors, and use cases of an AI strategy in manufacturing that creates business value, with INSEAD and Microsoft."
+webUrl: https://docs.microsoft.com/learn/modules/ai-strategy-in-manufacturing/
 type: course
 price: Free
-length: 41 mins
+length: PT41M
 ratings:
   count: 709
   average: 4.754584
-heat: 51
+heat: 76
 
 provider:
   name: Microsoft Learn
@@ -23,15 +23,13 @@ levels:
 
 topics:
   - Azure
-  - AI
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/ai-strategy-in-manufacturing-social.png
     width: 800
     height: 400
     isCached: true
-    title: "Define an AI strategy to create business value in manufacturing"
 
-secured: "phbs9vB7u/W1VU4GJmX4OE9Bz98uKqfFg3QizQhK6TUN1ylXY+n+Pu3rHkoJnSAlcINHBeC31xA/pH/ha4tQSBn1zThNQBbcD4+vMsu1YyET7V6dxBVeIylbUVtQ3fmufMfuSabncguukHoOa8sTU5n0DDJGv2/wodjmoB55+WihUaYh5iG0DyLbJPaVH0IGUkGrAOaQRMZH6NWErezgR+z/pw9ImcRmqIDaoMCBqtEyEOrA8y6vNv67qyabqjQHty8Un3q6ccGGrW5L92mqxKlFV1S/ESXwrN6zbbaKabgxlI+spfJ9yL3A2DGRjZ3Y1syXpoJUHD7eHHjYQhuEby4SP67qioikpEcvt65RPylfKqtVSkvJObd8bOEG07PsPZ+6IN1vvHGubFVT39mhapdEZrbeKIPRAQFGUGRvP9Y=;Isz23AFVlJXvWZsAQ5LmCw=="
+secured: "Hnz960p5ncsmHuoZ6iq5GAt/odYmlIYxk/K4p5tl2EVZlA2T5/Rw6PYEaDLcsUR1oi2+yItu41rmQp2oFCXbR2iZ7idn0ecDfrm+67byCSYPqZwKufe9AJ4HiAqc2aUhlVjYgOw3z0cxUBEooCztz6lSGMMXc+S2xzMidVYbbnKOez72iOTpmNWCDzGihlvt2iKm5G2Ldc+Bhm5QZ1K4a+R1/pt95gXirQf/taKLCPOUUpkqmygewJNOMWGFQkMJQFwsQTt8M+znC2d1ejIGHpFianmbIFW7yJHevZmk/aYcm+djW8Erpd6G97XmvrQNskwS2GnR69TKDvkETAxlpafQhiIt08QdCJFqu/KuZKoImlqQdCTtDVMeGZ55Bq25Yx0aA8lnUvlCnFDCxkvHwg==;5lZinudvVIfVB0a1Q7qzRQ=="
 ---
 

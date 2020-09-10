@@ -1,14 +1,14 @@
 ---
-title: "Working with Data in Azure Machine Learning"
-excerpt: "Data is the foundation of machine learning. In this module, you will learn how to work with datastores and datasets in Azure Machine Learning, enabling you to build scalable, cloud-based model training solutions."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/work-with-data-in-aml/
+title: "Work with Data in Azure Machine Learning"
+excerpt: "Learn how to work with datastores and datasets in Azure Machine Learning."
+webUrl: https://docs.microsoft.com/learn/modules/work-with-data-in-aml/
 type: course
 price: Free
-length: 47 mins
+length: PT45M
 ratings:
   count: 574
   average: 4.6463413
-heat: 51
+heat: 71
 
 provider:
   name: Microsoft Learn
@@ -23,8 +23,7 @@ levels:
 
 topics:
   - Azure
-  - AI
 
-secured: "tlu4iSpBtMgv1DX6j3byuezLmo/Z6wNvDCdQTaamWC7X1AMZHjfJ/BdJJgP/CxoNOrfXI518N4W646Xvx/gln8fCgDyN0Tl+LHu3G42fgFu7o1FiAGqJmqxV5KLPYZTFtFDRExQ4jLAbcFIVyuIGWwIXTnZg/BgGbVZjX6NTauYM6o2OMZHI4fFrqdA2Zha3gnHc6e8fytsxuXYNfWavFQU9y3/9YskPL+t64U+DwmdYvHPlA4fGV9zwhJ2QQQkkRI0xCe292mikawdQMrCEC6PO7pvGg2oszoPpK1pl5s9fL4ghpV5KX4Xq3A3yuAQ4dTCPfu/zAQLvm1H76zjcVPOTMGcrQdjkPwwPQ6AJPhwxNgE2y738HjrwfSfIrnlK3EgIDkHDBZaR5yg4eCMVcjwhyKVLb1ZEM8s9RSSTRVM=;d/3p+rqohvmEDo04xbsSNA=="
+secured: "R8GmjK3ToeEdH+yW1F2PDfMDDrudwO9YZZ7s2Rw0ehluNJjpF7zJZRphvsuELQWHRmCnUte39ST+TevAHGrHIb5k2NpWMeaZwjE5KNZ2vkcw73vo0hU1+h3fXd9su85tHrHgU2m8XIY3VgV0bUhS/srb3kWPQ18nq53TOYTqS1SSv5YyUEF3FGEpun7yn+NNTxNm85GjbfmYTIF80U5hHNdT+uEPqTSQgyly7RI8cvWnGFQsaw1oON58pEr+XJwrojQ+pIbZfL9xZVXcF7n4e7nuVDy5rFNd1jwFpjsggVa4V/+0dlkLMrMdzRnOuwMrTikbga/da6e47e+OgPCRI+wTgIjcqdXRoFItifbzyFpTWUS6/FNP+5GmkeZinxUAf9/+Y7mQUTaC3Tnf0BwYSA==;htaY7R2dcc/WFxghYfDwtA=="
 ---
 

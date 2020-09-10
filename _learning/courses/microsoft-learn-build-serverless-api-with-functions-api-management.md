@@ -1,14 +1,14 @@
 ---
 title: "Expose multiple Azure Function apps as a consistent API by using Azure API Management"
-excerpt: "Combine multiple Azure Functions apps into a unified interface by importing them into a single Azure API Management instance."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/build-serverless-api-with-functions-api-management/
+excerpt: "In this module, you will learn how to assemble multiple Azure Functions into a single API using Azure API Management."
+webUrl: https://docs.microsoft.com/learn/modules/build-serverless-api-with-functions-api-management/
 type: course
 price: Free
-length: 41 mins
+length: PT41M
 ratings:
   count: 982
   average: 4.589613
-heat: 55
+heat: 83
 
 provider:
   name: Microsoft Learn
@@ -23,18 +23,17 @@ levels:
 
 topics:
   - Azure
-  - Compute
-  - Serverless
   - Integration
   - Web
+  - Compute
+  - Serverless
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/build-serverless-api-with-functions-api-management-social.png
     width: 800
     height: 400
     isCached: true
-    title: "Expose multiple Azure Function apps as a consistent API by using Azure API Management"
 
-secured: "nxldrrFEpGvcHPojn89CIxra5FERtYQwZ+cR4a7yEXWj6rOKGcC/Vn+KZP/acmNmvMi2nAxoNTDws2G+qt5BjQHLy69t/dFN5kQUXuwBVldOK2jCMiCEwQjHCWYm0sfzsF1h7080A92T84M4NZwj+vxNN6WOzke4B1GifQvy3PToIUuAUBT0uRCfT3TpgF+oM665JSAussrOpyPpYBLMRIdE38kejmAAvE2+zv4ZdPHLBV6ihxYwc0/YI3LXg1BcMkf05CsG0HqlMpFwcx3P4xhucWBWC3SLxxq9CJuAUtJ3M/h+SOmXyoSKtHSOTnS5ZhCQuq3tyK3SRWiM73Odivh+St8w1o2SPXvfoP2us8gGw8jPHwWi4tujiaYhvDOVmwjJV8b7NiEW/y7t0jOOIHdiQsfHxr/FgXDqPlihw1E=;/+q+ecZchCsVLbYKJFjSOQ=="
+secured: "eZA7FDNGi0xcCWlBlbHyAi5LUr7fhPE/cCAdCO0Qq7/HOuBVF4YQZ2bwUDuVVkshX2qnxX6S0mbJfMqZw5xE3P76c/P2+MJ3vcbJGgNwkxqXJl1VElIKTt1TX4TrsFP71Z17deQAA6S4z3o60wKGseEOiS8t/9R6V6luRahs65DzMucKRZj8CHlfnLXMpCGNKKHYMc6aD935noWs1zR0pv4cWbC5ZU224OFbOwhLjZSjAzTLupmIZ3N0gARqPAsmjWC86oeFY00CzsygyrnDhjzIQqkczDMyUls3PhUorSJbciWZqso/JDzgRUwvQO1mvyhVERyX6hsVVJN5N9jzOIoxiS7PJ4rOtWw1ZTt1i9rpHUB1o0jkJZmFWwe402kbzAq8XHXo0uPGQcl11O+ebA==;JzKVEg9wo3m6ednFC9fH+w=="
 ---
 

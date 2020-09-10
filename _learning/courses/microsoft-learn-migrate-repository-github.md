@@ -1,14 +1,14 @@
 ---
 title: "Migrate your repository by using GitHub best practices"
 excerpt: "Learn to move your existing project to GitHub from a legacy version control system."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/migrate-repository-github/
+webUrl: https://docs.microsoft.com/learn/modules/migrate-repository-github/
 type: course
 price: Free
 length: PT43M
 ratings:
   count: 114
   average: 4.6491227
-heat: 53
+heat: 54
 
 provider:
   name: Microsoft Learn
@@ -25,12 +25,11 @@ topics:
   - Azure
 
 images:
-  - url: https://docs.microsoft.com/learn/achievements/generic-badge-social.png
+  - url: https://docs.microsoft.com/learn/achievements/github/migrate-repository-github-social.png
     width: 640
     height: 320
     isCached: true
-    title: "Migrate your repository by using GitHub best practices"
 
-secured: "kkSg8zqZX20qRXBUWXULCuQLG1dBR6+B/yrMlPcrRn60YiNye8WZSG6Re5iCygaulz2avP3J1c2+LQu1NiWfIHRoqFPAjT///4Mvjd+wxkBYIb7IU2uJ7rCziL7XnQryUPOogwpnlIVstyAey82Fd06b/klOsMJ2+37drWJSjrHMVldFS1CDvhPYFlhOhA9KeEuqOFDc6aujq22OdQSLeZE7bJfWxckd3+gakWeQsqcqbTXuQ5s+rURvGSAlBZMA0RdFrlvWcIwTRJijjxWK5VmB/6P63KbT+Q0ESu5rsfhrpwsPj5b5U9CySGwNybSoisw1eElYw+BSCf2uj+13PA5FRWD5iI1hxlFYYR09wxDkDPsZEPSW9tubqBiYT+JmOI0kgAPHoXmLW5qsg49WAf0W8YssOVh+rpshhIFH0nI=;FX2JjGvcyR90Q8QgG/vYxQ=="
+secured: "QgLu4lsCKW25HAQA+2KmnQ4YevcEyjP1JcvTUO6YHpb33XHccTW8AZHgds/cx7HWgw2bkXPwG+Z/nrVPDzCFinKZGjWWjak4wKWatr9wMTvKkS8fIQWKBEknPVzEFTmz5pwAjEE1uiUJPMo1Ck45QnQsK/GidI/NOHxEZh+EUVtXjSHY5pSy7NobKtYQkZZbwiUKg3WBFkmYzTV27FxktPkJZFrFwAYLb2SfnK71gqfvXJgT4kZXqKwtoXgDSpMPfTv3xFk355RE9uLttojuNYna0Cr1hB5pFVCC/m46KFxkZ4fGGPv3haYDjv6/ub7hjLw0f/+QGwRhPq/H/qkQ+RQHCEbua+Vad8zy2OucSBKi+yaUuH+RliFwZhsLjfZGcKdbj9vDdiB788y5V4od9A==;qTTW+bbgHvo+RHmMpVwnQA=="
 ---
 

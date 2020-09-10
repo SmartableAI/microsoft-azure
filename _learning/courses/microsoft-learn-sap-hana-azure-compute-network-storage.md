@@ -1,14 +1,14 @@
 ---
 title: "SAP HANA on Azure Compute, Network, and Storage"
-excerpt: "SAP HANA on Azure (Large Instances) provides virtual machines for deploying and running SAP HANA. This module explores the SAP HANA on Azure (Large Instances) solution that builds on assigned, non-shared host/server bare-metal hardware."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/sap-hana-azure-compute-network-storage/
+excerpt: "AP HANA on Azure (Large Instances) provides virtual machines for deploying and running SAP HANA. This module explores the SAP HANA on Azure (Large Instances) solution that builds on assigned, non -shared host/server bare -metal hardware."
+webUrl: https://docs.microsoft.com/learn/modules/sap-hana-azure-compute-network-storage/
 type: course
 price: Free
-length: 52 mins
+length: PT52M
 ratings:
   count: 249
   average: 4.751004
-heat: 50
+heat: 60
 
 provider:
   name: Microsoft Learn
@@ -29,8 +29,7 @@ images:
     width: 800
     height: 400
     isCached: true
-    title: "SAP HANA on Azure Compute, Network, and Storage"
 
-secured: "qBdIFqYutrfaGAdzz5wfqDX1VT1paSCtg/ldZz/VUypRR4sPcZ18m6pukHpvpWnSRcgPfgNqO1EgdzMmo+jeYmU55SxK2G/mfDYRrI2qWoNmfIN3MJBmpCdQXfUxorILffEgYyvYtNl5JkPiaLFKHLg+11zXUFNXOEeBJM5sOBCT8OkCzpZqV15jV3QiyXtl5HjY+pfxiEWSQH+pyMoh0F/2fyCzODwdVQLbBKTpcwipXQpLt4Pmof5XXbwS25GvvA2JNL0hFCsKw1+H9uUtvoy6k/7Z+pmRMkxswIXpbA4ivG1mG3gN+Yk4i8yQ9pNsTbH+iIvcYx0rpJTh56rSjz0MWQP3NwDHW/iMCqUsNNnQGVl+jNiqa07x2NovuLbM9fybmd2g5PzlsyJvaERiaQPTAPvTZFoRgK+ZvhkKP8o=;wCBmFDjM+2iKyh9BsbttMg=="
+secured: "S+VMAJaTb5/S+SuEB5zgH4V98qZUa7ZGtMyTmv5Vtxc34HcZQ+LZ1x9clbKxVtTSF1oq8cCxNWbddujkD5yLKSRLrKyMsvdzKBrIFTPVvJhJnVma2fy0AFxeIgi2nZUlzfh7I+tJxrPGEdZCPyPyK3kQNS2VMZV1uy0QeZ7YyBLxfIEh6Qt/9AvpL/n0cHP837ux9abguk2f12baofOrSy+XElnDdEsnv8zhb4YIFZ66Rzrv0E9w35pfQOjUxr7+4zHmqFIuQ1CTKlf00zzXAYRmZzrB0SR9C8tdBbDLiqKi0YyU1S5OmJ+WGI+PdtUgoFxiIF+bMESqxZaGg711ajYTRLYoPEJvDS3Vb8aSPXwwGo1OAGxltUX3rmXxyO/hy/M6oSk8TUrLeScz1+p42w==;YdMEy1lWf1Vo2zWkJVUKLg=="
 ---
 

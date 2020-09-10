@@ -1,14 +1,14 @@
 ---
 title: "Train a machine learning model with Azure Machine Learning"
 excerpt: "Learn how to use Azure Machine Learning to train a model and register it in a workspace."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/train-local-model-with-azure-mls/
+webUrl: https://docs.microsoft.com/learn/modules/train-local-model-with-azure-mls/
 type: course
 price: Free
-length: 42 mins
+length: PT40M
 ratings:
   count: 1355
   average: 4.585978
-heat: 50
+heat: 93
 
 provider:
   name: Microsoft Learn
@@ -23,15 +23,13 @@ levels:
 
 topics:
   - Azure
-  - AI
 
 images:
-  - url: https://docs.microsoft.com/learn/achievements/data-ai/train-local-model-with-azure-mls-badge-social.png
+  - url: https://docs.microsoft.com/learn/achievements/train-local-model-with-azure-mls-badge-social.png
     width: 800
     height: 400
     isCached: true
-    title: "Train a machine learning model with Azure Machine Learning"
 
-secured: "lQnEn3KyW3AjLTnDkTNObBiv7FOGgjvgvvSuXbr8dv4W/H3MN+rc/EDGhkY32QHaLXvewqkV+DirRngWUgT2qmMIOvPyGS95nw37RBKv/58NBVoI1JaaRQ5bbIrWSdz3VeRHTIUlbW57z3PaDGFiSzpz3d3lPedhUUaFf3QS03YTNQIcrnT3hrE7mjSBtxcxSqZHoDSEoWupK2JOnEm2v61NDGAKMs3fY8ljZtmqNcqgCnhG59QLrBzDKWQpTvjLEPthoZFPct5u4asO3T5v9siCeCCFrBaqe3oB7uPi+5FV/VoiShEH5xtHgMkkCgI1xBJ1+YYQwTo3dgpgINdXajNcwvOB/YvJHWt+/MUwnmqVkibz/GRW+gq87AMg6/Z1lBokrgUc67DtSl2d23QxLHYBq5oK5+h7teB1/+YS1Qs=;TQ4IeRY9frP+CYQnYFNVRg=="
+secured: "lQYthsjUfG8SYjooRpPHUjnOR1lMIMf9vlXIUDEytFjVqEeN11no4QV8ePkNsMql5z0hmiMzuDjDdOi6aoEpsWdDeWaWD8cyW+Soq2CRmqVqE+EsldauHrHyw6I7h8iPLAGN4ckh2Ae/7MstB82rSK8YS+nxEmCDBXvlheg+aI9irDLZecHPgbhfa8ybR+3nu3EqkB2xcpX2M56pfe/wzPX3pgdMdNBwPbsjAJcRV9njZgAWcd4UNoKWb3L6cilPRsbAEw7pDYlm/RtLH64kiP241i/erVFZXvL/k1czgkGMkFv4xmIzxehtxAG7ldjOdfjN8nHduw95R13JgySkoy8g8+cGACfbSFfFmppiyIdzoCFTw95xuQOG38mN+rXCIBaBMHWfCOeLOS3zGY4qIQ==;XM437nw14X5qwk0Rzoqauw=="
 ---
 

@@ -1,14 +1,14 @@
 ---
 title: "Design a geographically distributed application"
 excerpt: "Build an application that spans multiple geographic locations for high availability and resiliency."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/design-a-geographically-distributed-application/
+webUrl: https://docs.microsoft.com/learn/modules/design-a-geographically-distributed-application/
 type: course
 price: Free
-length: 34 mins
+length: PT34M
 ratings:
   count: 526
   average: 4.6577945
-heat: 51
+heat: 70
 
 provider:
   name: Microsoft Learn
@@ -23,18 +23,11 @@ levels:
 
 topics:
   - Azure
-  - Compute
-  - Databases
   - Networking
   - Web
+  - Compute
+  - Databases
 
-images:
-  - url: https://docs.microsoft.com/learn/achievements/design-geographically-distributed-application-social.png
-    width: 200
-    height: 200
-    isCached: true
-    title: "Design a geographically distributed application"
-
-secured: "91gk9v4159qQWQYyFsQhiY+jDbTy1oASFszhU+Smyo+tMjdnhRP6mtDFayxgNZrWFSJk2to+/Mp0+UOB2SkEvo1DabNboMgCTCIM8Hjo1xal5Ug5OfuG16m5znSrDZrg0AlZQJFRdRjmTdzZX+XG0Xz7L58HXqFhuvJPnE4HjTRy2bQvwRVqsE8LL0ED1751XEgsuD9R8macuYL/JKg+WePiuiInCN/tmD3G7n7QnoQ3p8OGCKwESCP8X5kM8ac/Zgh3eCHZhCGBgakjxwwsUhynrISsZcGQI1RgVHfgruz/0skpD5st1N4EvKRSvgLiZIGY7DKLxptS+jpq9JcSH3BcUmMae0K4L9TKCMjBeRPZxRed6Q6dacfJ3UBJ0wx/Y1Ffcf1dUlScGOejlwJDGLmAxppuOp4xQaXOrbNUbZ0=;a9TofBlGi3CuhhSkyL3gew=="
+secured: "D4CcrjTSKUP+x/we0+W2I4xZWd2uHXb2tNblo9Z5mptzfj0qON9J1w5cWilN0xQChI2oPywqBChdZsewRQI4i2sY2HyG29yDvBreyRvLRK1yll2bsVtX3CUwsUkn/3RafKaTHQ/blzoeCGDWcaej0jOi5zasN7i4MQeU8/XebLbi3iAiRBVS2ZEhY9mcD5odMLJ+FSr4+UKwBC1P4UZK74BU+eZ7+R5dY7RUnHlAsFRMPwVNSbbpSYuhj3XkTsZATeIxoV+7dMRKsxvFglUETjkU36//cbsMWAiTk8jg1M4hwwtWXSLzr7gXx0uW5O3d7GNcXAVCNU9eCqDT12sp8f4z1hLVo1UkOorgLuCTqWLIVCF+cEji2dXIEk9x3Klmx4v/xWl91fb9vVLs8Lg/5g==;4tHz2+N0NZk1Zf1TBs8lhw=="
 ---
 

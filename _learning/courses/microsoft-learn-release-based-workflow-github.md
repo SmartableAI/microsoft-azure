@@ -1,14 +1,14 @@
 ---
 title: "Manage software delivery by using a release based workflow on GitHub"
 excerpt: "Learn to implement a release based workflow on GitHub using project boards, branches, and releases."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/release-based-workflow-github/
+webUrl: https://docs.microsoft.com/learn/modules/release-based-workflow-github/
 type: course
 price: Free
 length: PT1H44M
 ratings:
   count: 58
   average: 4.827586
-heat: 53
+heat: 52
 
 provider:
   name: Microsoft Learn
@@ -25,12 +25,11 @@ topics:
   - Azure
 
 images:
-  - url: https://docs.microsoft.com/learn/achievements/generic-badge-social.png
+  - url: https://docs.microsoft.com/learn/achievements/github/release-based-workflow-github-social.png
     width: 640
     height: 320
     isCached: true
-    title: "Manage software delivery by using a release based workflow on GitHub"
 
-secured: "zyF6VMxYBjUwZyo1hM8295OI2nwcrWtkYAe3L+aheL4o2U4XVzWZoMGCoK3CetyfjCIhzJ/a2Dyb5jIyamoPAcii9uZoYIgpLqI1IgHRLL9+bvDH3makkuQbiXg8aOhb5y5of/B0gRXhkSjUyeiYnZQepaZH2Q9M7yXLJNTJKaZRWuIRZmfwQIyOOfaC2OJbX/1LwpT0RbhalBp9cK5EpYs+2YaUA6zF0l7CcZLmPasmpQZIR05LlxuPX9BP5nm7MJz+J3KmlMSwT37k37vWCi9xdGn7gx/cMjifPNQ7gCCDy6Ylcug/aSQoQb4Epnu+iUZvzKEqssJay7rAQDbY8SIzIji1MrDoLTnMYpqWQJ6w8Q+jnDHVYnhwwFriurhjh6q1HAviXtD6yhPWbYaPeYSCgYELIC8T8t8hD5T2VYw=;rSwK7UDx+HIZkbRW3nRO7w=="
+secured: "2sDi6nXYe+FsMe/OY6DpqShT5LF+u8AHn6s6nWMO0ePzWDTHVVKFxzO+y3/9LXEfz2b1TJKgoyDeuM2hfgYwUy7JJs9KQgTHeJkqEpTGAlyBU4KsSyZ8ZjKBA0e9XJsTnh/aB3/BMBzVu8AZfa8im0OSe4nOriLhtXQXc1uDiVuj6V6nlNeD19KQdlel4n/Qc1Hci+GsS1E7PZXz+Twb6EDAlxEmsw4yPNSDvnnZI/9L6CEnIUHVN1TKp8WhD9PLotmwzrYPb+7yKpfRxvg/luIsWApKXSGVRjJ57pfaAE5xd7MEjp/pWVaBjn5CTttl07gRtzovJu/BFca9eNpF+mNaaoGzkn+7h1tqkb+OnFnZvrEHaxVruOykkUIwBTQ9XdTrCYtGICkZRPEmF9f0gw==;wEM03zA6Kco/gGWp+srIFA=="
 ---
 

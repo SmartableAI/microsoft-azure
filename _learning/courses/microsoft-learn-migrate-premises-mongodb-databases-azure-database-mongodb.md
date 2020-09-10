@@ -1,14 +1,14 @@
 ---
 title: "Migrate on-premises MongoDB databases to Cosmos DB"
-excerpt: "Learners will be able to demonstrate the benefits and processes for moving a MongoDB database to the Azure Cosmos DB for MongoDB API."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/migrate-on-premises-mongodb-databases-azure-database-mongodb/
+excerpt: "Migrate MongoDB workloads to Cosmos DB"
+webUrl: https://docs.microsoft.com/learn/modules/migrate-on-premises-mongodb-databases-azure-database-mongodb/
 type: course
 price: Free
-length: 19 mins
+length: PT19M
 ratings:
   count: 45
   average: 4.7555556
-heat: 50
+heat: 52
 
 provider:
   name: Microsoft Learn
@@ -24,15 +24,13 @@ levels:
 topics:
   - Azure
   - Databases
-  - Migration
 
 images:
-  - url: https://docs.microsoft.com/learn/achievements/learn-pr/achievements/migrate-on-premises-mongodb-databases-to-cosmos-db-social.png
+  - url: https://docs.microsoft.com/learn/achievements/migrate-on-premises-mongodb-databases-to-cosmos-db-social.png
     width: 800
     height: 400
     isCached: true
-    title: "Migrate on-premises MongoDB databases to Cosmos DB"
 
-secured: "kAPLOyrnwNvSgKQqnfGNtJszIRcOltkFOx3MdlEOmPJLuTseaKirOSmtcPEoOeq5dM50s9ObOSQEqF4hvluJtiYWWxO8+9x2I364xWidw2drNLhBKRVS4jc4UF5QGyCZLw0nhonlC8pEY0yVXIDfilTDy/t6CsDlseMawfmqCkQMvq7bISnkCf6qfm4/Zt3pVLwFl2AUAqHGjSQ+TqzSmTHhxRmz2cj7VjUC/kZlbvQvtNFdNA6GGEJSvoHQWDB01O/Sx6xqZ+pVLmbifN9pAVR8kepYFkG4DR8iFm/1gjDOt1LXdvj+v8sS6NQBYWQ0JMngeQdoAUGV55j58CH6QwzN2VdUwjvuLgt9xk2GOoucyaKJEy3nWke5V7UIphWLMPkkVHTpMzJ0fpsYr2UI9X9+lPJZGKQ0vVu80Jr5VmI=;bEmJMHyTfst61QEv4a8JNw=="
+secured: "9+inhntMnaSF0wTTtoioRctKbZex6j9SU2zZsZJUrhTjKNoMxQ6VKMA/3B8AskJV5YfSXnYUi29QwbiNne4Nprz6xgCyi10VWxMPF2e7JUkk2M5rc1yrNaG/zq/RAWIMfrqXuP7HDswfUXwkX5UOrGbVrjkJOEO1xlixSUHHDSmGALOjnTgu7YJJm+RCn+7xcMpz7Pizgt1enIth6RZjsqrmC8eT3KJAIzKGRFuFzcgA7+PTDVvDyPc7L9by++ubY89L5UszapeFygoyzEYHDVldixC4pibkQONvvnDm0meZxE2Do4mCkq5wMRPvne+2/BweqBEjHTkJGUm6LnNA/5/oRObdVzqUJn7oGAdX9iep4yKZhKzKGK5IZoE9z1qD024j5FgnZe57K1+NgQF1Zg==;8nSyH+o6L2rP4+1y69WbkA=="
 ---
 

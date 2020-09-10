@@ -1,14 +1,14 @@
 ---
 title: "Copy and move blobs from one container or storage account to another from the command line and in code"
-excerpt: "Use .NET, AzCopy, and Azure CLI to migrate files between Azure storage accounts."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/copy-blobs-from-command-line-and-code/
+excerpt: "Learn how to utilize .NET Storage Client library, AzCopy, and Azure CLI utilities to copy and move blobs between contains and storage accounts both synchronously and asynchronously."
+webUrl: https://docs.microsoft.com/learn/modules/copy-blobs-from-command-line-and-code/
 type: course
 price: Free
-length: 58 mins
+length: PT58M
 ratings:
   count: 142
   average: 4.556338
-heat: 50
+heat: 55
 
 provider:
   name: Microsoft Learn
@@ -29,8 +29,7 @@ images:
     width: 800
     height: 400
     isCached: true
-    title: "Copy and move blobs from one container or storage account to another from the command line and in code"
 
-secured: "qIg0dJNc12gcer2hr6+dHql89VPgnaudjPoMAtwgL6mAaast43X2tOVL9loKUpKxMvRGZqr4m6uoQ5Nee3V/WKxgHZBc58mvPo1mzuVbPC86Q822R2ac65w+bgG5KbON0bZg+Fnu1Eh0/oeUtyea+XRCnOoEMnoYrKbioDH6jSUjzsK0eYA1AaREmH/BdH3OkJzmcGhHIDKd5wPNNWMPzxdLmEKIb8VQVjPdVTXtQKAHqZ9VSEA6TNCsGwrg2MRDdt/bBniEx7gTWM+GHbH10SxR3TFN39eZ1YISzRy5t/rG1wNbwH+IcDRPUZn1sIWwKy1BJLYm4pFB6V3WNRgx0or+2WeugrP3BrU2JymhC8Zd2NnkpKMGpgmPGyK5jWBS9ouUO0OSPp8jpFoW6GyqSM+bMi/RLL0lA2Ny1xwPLBA=;ppaSND9bYxyJKWBbYgEM2w=="
+secured: "3EiUlR5CIOe7yAhDsex5UPr5P96cKvs3TKdYrqZyrXYRIYsLN4bEn3sR8vmCAq//FEno52GP+JM0z0O3Tt5GfbXB6EfHrYD4VtO2gPSDbvjPhjFGNk60fudI8NNkn1Z0K29xpDO81WZ8fIMYp7nT8rS5G2EXvYxYmTeUn1Fif0LHH/uamE4JjEFQui5w8BnA8fjQB46/mguniMTnjFyzXBImKhnuBtrDoJmFAMsqZp82Ns2pdTulp6Zv8m69YJPY6AwjS+Xau2B0khTgNX483NEJAgznWuDj/v+MDjtngy8/NdumfDTZWi3lHqaJDWxnSb/XZs4A3ntUpwQLUoQX+W3134xKv2gh+X6MM/ZD8+cbvVSHO85u9hmYTtJ6CNytZvVRdmooy8UWsmpHt/nl5Q==;INfbwuokukFdP1QxRCxfBg=="
 ---
 

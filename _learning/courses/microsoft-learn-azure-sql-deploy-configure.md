@@ -1,14 +1,14 @@
 ---
 title: "Deploy and configure servers, instances, and databases for Azure SQL"
 excerpt: "Deploy and configure servers, instances, and databases for Azure SQL"
-webUrl: https://docs.microsoft.com/en-us/learn/modules/azure-sql-deploy-configure/
+webUrl: https://docs.microsoft.com/learn/modules/azure-sql-deploy-configure/
 type: course
 price: Free
 length: PT1H14M
 ratings:
   count: 87
   average: 4.632184
-heat: 57
+heat: 53
 
 provider:
   name: Microsoft Learn
@@ -30,6 +30,6 @@ images:
     height: 324
     isCached: true
 
-secured: "OYZU/+KDLi8xEdfa4qYcGjVo9m0wn8iqV7s5JjXPcA7kv+NkmfkjSdDE3NCGI5vr548niENl+qSnbF4mg/wwuMaa+xZANRy3vS/ShtNsOr2/ZwdueTf8qOqWb3UR1pldcJfhr3vOkj8uM3ScayQc6Pnir6XAoFynEw/WBX+tPWayj6dwq7Mif/m4b2gUBT4MjZFN8HqClrQAbamVWzaUGlew1ftn45BPTWyJfSOWZZV7d1avXRSdyPvBRjVp0mMWDdnIJxhUV7n5krdx7EcMLbNmkEupijnr98prlvrv72E/RL2AsTaqsUAPxIg69esxKPDJUd1LauK+QzBBOyoyBW5kHovQJB9HXEfuyjv12PIP76CeuZ0fNG/bqAnlZ6Vr3YTtX+uscrhHjPtSWYMdwJT7A0r+13oeqHyWuRYIVe0=;n3AosWMWBizOnM0fUXCIyQ=="
+secured: "1HnOcSW4HQgjDNQHzWGwuXbbeSQNc7aYenhUhzTqjjz4A8GuVcJXtHUots4mlzIEGYMfzRbDt8B1s9Jr19av0xNR0xHr12gmoI7Wx/ZdgZ3cJY7i1qmExTfGgrI/KvWN/17WZRUs7xbim07Jtnhy/AV/Q9DERW/XR1crrfSLaqhc3tTas/SYf4Gjm3nK76sgYEFf1fxlZNnUT7RgUmtQ7Xiw/P0KWFc4khisObNj3cIOH+hTUrQNa5I/WxCUapUBMyUMAkzpSmjyv5HlihpY1aM3n1VhNRuSOyHDn9OZhce54ClUL6zfVd/hUTm7FbS0nzPyqfCrZOmRAlQRNQ0nvsupe0YatqHum7lG0vb0tRYUq/1BZCF1gukoLP1+3S3TIuyJ4/nLKap65LTZ+c1fDA==;W9VAWDVxPKBtNX8FKPrDjg=="
 ---
 

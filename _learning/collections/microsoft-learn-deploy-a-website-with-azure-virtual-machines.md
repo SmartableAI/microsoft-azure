@@ -4,7 +4,7 @@ excerpt: "If your web hosting requirements aren't directly supported by the Azur
 type: collection
 price: Free
 length: PT4H6M
-heat: 87
+heat: 244
 
 provider:
   name: Microsoft Learn
@@ -35,11 +35,10 @@ topics:
   - Management Tools
 
 images:
-  - url: https://docs.microsoft.com/learn/achievements/intro-to-azure-virtual-machines-social.png
-    width: 200
-    height: 200
+  - url: https://docs.microsoft.com/learn/achievements/create-windows-virtual-machine-in-azure-social.png
+    width: 1000
+    height: 500
     isCached: true
-    title: "Introduction to Azure virtual machines"
 
 secured: "7F7vcMeD1Pnf+TkCJOBnWBqIMI9yPqmUZ9eiyhY6lNBDZda0Ha+OIXZzoQrl0B+c08kz7pGx8k2IgOHx3QfhESOzWpm/r0XSHMcaXR/gr/l8SqNNZ1fGwuJ0pYkN/Wjsfdiyk1tjAcOTIX201fy2UygejudEC/JKJ2+gf6H54nPGDd83QekSFnd5EuU78P9L4CtICNkTatmSdQmXj264i1doQAGvX9ooh8HhwvGkog+/9bUkKr1lIFFUboo9HtHZSbEfxTg1qm9kkaANK1W4ApBsJlx9ZxFpMOb8m46g9drnztjInJcMTUu9D+FsJDAjSGAs4ubTM28XDx5HMkISyg==;N2btS0bEryYJXRiVNZFcYw=="
 ---

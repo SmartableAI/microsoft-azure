@@ -1,14 +1,14 @@
 ---
 title: "Enable reliable messaging for Big Data applications using Azure Event Hubs"
-excerpt: "Connect sending and receiving applications with Event Hubs so you can handle extremely high loads without losing data."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/enable-reliable-messaging-for-big-data-apps-using-event-hubs/
+excerpt: "Learn to use Azure Event Hubs to reliably process high-volume data streams to enable you to code applications to send and receive messages through the hub."
+webUrl: https://docs.microsoft.com/learn/modules/enable-reliable-messaging-for-big-data-apps-using-event-hubs/
 type: course
 price: Free
-length: 56 mins
+length: PT56M
 ratings:
   count: 1742
   average: 4.4506316
-heat: 57
+heat: 100
 
 provider:
   name: Microsoft Learn
@@ -25,13 +25,6 @@ topics:
   - Azure
   - Analytics
 
-images:
-  - url: https://docs.microsoft.com/learn/achievements/enable-reliable-messaging-for-big-data-apps-using-azure-event-hubs-social.png
-    width: 200
-    height: 200
-    isCached: true
-    title: "Enable reliable messaging for Big Data applications using Azure Event Hubs"
-
-secured: "Z6Vf99ekuyTNASWhA4Ylc0a4ftPCCTsJLhv9sWSw4riCFW7maIRGxrjnR3kjiIHrIM97zx10BtMI+uPYrZ6T84S8ZNLzFsnwlfWziDUnt+MN1T8uQAmJCUcB8mEwSfnqxdEO1zzJFqdd0zEUecRsNIKuWuktxi2xSODrBHcmDehPXMXGbi72KlKrUd8mE6+QYhkcW6mMPPwv5rd8qEL4nc3qwQ/l2ss1JfrHXqYeiV3V6oBIlcdiWdQh70Q9PNd49cUfyC+bQRREGhiWnEQsGPZp39Mee4F9ksn0RoARJmCsJvopjy9wA0AsK00ob53Xf3ynhiLtwqDDxuE0Ykjpsogr/gU9MQsbdDNiNwUOeAfXSicsHXItutUSAG+YeJGqv5jlpimw4ajlrhSSwZ78H3KWBJSGrbSiHxjn9Xe7dWc=;KyTfjSRlVcu7MQ0IFLzC1Q=="
+secured: "Np/W3EnqO1QpGhv162UT4FPM6QbeCmYdDZ2pxXR3Dp9damfVLDgcH8UFbDdD6r5NboKmRwwkUHyFFP1M8cT6QKHvXxL4HbXqa3uli1ttlwZUfVFj2uZ34DtZbCuQ5QfyvBs+lnJAdAApSok0dbEiIODkr/727EC/9IyC0tdA+70pOwJO19PTOz/2WdOsxO2SkOfqYaHIGqy/AS3vqDOzHk7NEtaHsHdKy9yt9tacPZmXFsra2tla88/8Jk9XnPSxGie/tKCN1c1qAcMqoWvz1mL+P+Uw/h72TMfZZN4dwr3mdL7VOtj534umK57ZF+MJ0k3nZUR1/RgBJAWJlbf/0kOdyCbm4pfR/LDrn2JcmS/qq3wDrLlAyjhCv7+UykeXYza96La8XuuzqfwbuEJD+Q==;Rrg2VJLSQ8bK0jC0BcB06A=="
 ---
 

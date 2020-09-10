@@ -1,14 +1,14 @@
 ---
 title: "Introduction to open-source database migration on Azure"
-excerpt: "In this module, you'll learn about the issues and considerations for migrating on-premises open-source databases to Azure, the services that Azure provides to help you migrate your databases, and how to plan a migration."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/introduction-open-source-database-migration-azure/
+excerpt: "&quot;Introduction to open-source database migration on Azure&quot;"
+webUrl: https://docs.microsoft.com/learn/modules/introduction-open-source-database-migration-azure/
 type: course
 price: Free
-length: 50 mins
+length: PT50M
 ratings:
   count: 103
   average: 4.747573
-heat: 50
+heat: 54
 
 provider:
   name: Microsoft Learn
@@ -25,17 +25,11 @@ topics:
   - Azure
 
 images:
-  - url: https://docs.microsoft.com/learn/achievements/learn-pr/achievements/introduction-to-open-source-database-migration-on-azure-social.png
-    width: 800
-    height: 400
-    isCached: true
-    title: "Introduction to open-source database migration on Azure"
   - url: https://docs.microsoft.com/learn/achievements/introduction-to-open-source-database-migration-on-azure-social.png
     width: 800
     height: 400
     isCached: true
-    title: "Introduction to open-source database migration on Azure"
 
-secured: "rM7b9z2bt6zrHS9bY9c2KxFxv+uKPbxqkZzwGubwemWxAgDNEoDv5fVZGbuhF9f24FvJEyohWhnoWUpMqXJHLcEAs7Ei9lPWq0pcEFWDOtHiJQfecFJvxzwwOfLEQK0zVBj1Oh0e2TABPhlKG3oGlc9xn8Mg6rZPHap69gjhQT2m+1X4fkNOgHBh+oZ/lETMHQHxv5vA0agBgd8J15ybG4/zd0OwFBPuBoLh1JgxZNZC/DnE8ZlX6GcZ4Hn6+4dAyJpRSOyPCxrZ7a/fE+M9KCQiaVZwPB+wLYx/FM69iOkg4Thl5kx23FLHiDPb34abMTO1y1XLjmrYXgSZVTAMgjoupAgii2a8bXQpHHBdlpwVWPrRi5uAIYyaW+sEa7PROQHIsjwvKbXUEgjeT0TQHn/FEvchOP/2SifovNk4wLQ=;93qgogRGwd3O7Uz7i2wjSQ=="
+secured: "cXsaKQWYByiR/dHleyM2sCHqmoFFfMQ3UZ9rU8VdgmC8nKxk4/IP/PH5kR0livhd/OBmWZgXKl+LzIolT1ErPudY3whXkInn5/1ia/I2hVtwoP3MJV08+IchInGQMgCgFA/o6w9nKQ5wGnC91fnsdLaUFGSJj0T9ujMQG60fe8/zyMhNCXj0lSYLdLBo1BtLSL65+nFJaNvB0sILebHjwmIMDmYqV5wVLoPT7OYVG4RiJBs6YssKKG4hGVTDwnuOxoWGBlAtaHrwTcWsPP7AlwCswH6pfb/EJYVGzcW2MvKVp/jMJoYDOdrvCcLIBGyWNO820nCD11ZBWJl5Q0TMmRhqccSO5rLVgvWlUh1lkdt9LA3hTaqjvNJW+VET02COiA6huV6tszo8czAX5JcThA==;oEWniJ4xJ9wjIXoP/XF4qw=="
 ---
 

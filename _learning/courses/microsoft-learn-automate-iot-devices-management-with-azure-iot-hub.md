@@ -1,14 +1,14 @@
 ---
 title: "Automate IoT devices management with Azure IoT Hub"
 excerpt: "Automate IoT devices management with Azure IoT Hub"
-webUrl: https://docs.microsoft.com/en-us/learn/modules/automate-iot-devices-management-with-azure-iot-hub/
+webUrl: https://docs.microsoft.com/learn/modules/automate-iot-devices-management-with-azure-iot-hub/
 type: course
 price: Free
-length: 53 mins
+length: PT53M
 ratings:
   count: 145
   average: 4.7172413
-heat: 50
+heat: 56
 
 provider:
   name: Microsoft Learn
@@ -22,16 +22,15 @@ levels:
   - Intermediate
 
 topics:
-  - IoT
   - Azure
+  - IoT
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/iot/automate-iot-devices-management-with-azure-iot-hub-social.png
     width: 800
     height: 400
     isCached: true
-    title: "Automate IoT devices management with Azure IoT Hub"
 
-secured: "pSaX1Z2DEwDp3EWePtkofhFbJWyHsJx+cnAuC5GLImZJx0WvixIRCpOMPSH1D4lsYac8DLS/hk9w36L6/z8SI/egbNcP6WsDIYgOValLi/K94q7o11+L9WbcZs+xT8lPAorae2JCp+XduDA/hrwdAU5kvt6sswBSmmqdY34ODiAuvHuxeOI4loRC30pWAQMHsowj4Vgr0kZMT1Q/VGamTHrb/zW0JqA3xs2w6aUwZtGv60hp1Zo3INzcAoPmQ5KXAf9i3YCMgyw8TwRSYp4dxg+xvMD+DMoE7qGuq5jcI68WkRI6HLOdQNvLW5TQ4h2Gd7BKnRjG3huVwnI/JUrG0naqyZBCa0Gu0VWPaMcrjLKK5ZmKZR2PMxj6kiVq4NP36By0BpEGkqUz1HtbXp7nC8HJWCCWE2JxFUxw/JmdNGk=;APnI32+wtMH+5gTAjyInXw=="
+secured: "CWYANwtxIyUzR5FcEnZUp9Nf8bqsFZdvsy4UE9uD5aZI+gbDg8PhGZBpCyg8elz0by12KSD+cjTeOINCPzuQRaStJtWk0ClKoSNXbjLKB4tBwltI8077fenXPJjLqPymksVV66hFi+SgzS806GFUr5lkP2VzkAYgzI2uYRXoDOsHH1Mgedas6Ut6BS+a3VlupWq8Pmlt/QmvNVWinAQbo2ZyXH7UKkG17slchdoNkIHFTFB7sqvkOHVJkij3BCU8Tzv2AITTBabMGRmmHPGHTA6YH7FiHyULOIdfiOT5DaKiV/lnjG31MeVSgehNFBsraB2B0n9JyET15+sU/Wvv7PQt5DbZQthMupp6t0I2u6uZp/BfSRCTk1ceCjBt/lRiXZ6RW0TQ0zyiyEdF8bf8sw==;eTfANY26D5d5cqYohyNMHQ=="
 ---
 

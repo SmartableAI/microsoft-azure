@@ -1,14 +1,14 @@
 ---
 title: "Work with files and directories in a Node.js app"
 excerpt: "Build an app that manipulates files and directories with Node.js."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/nodejs-files/
+webUrl: https://docs.microsoft.com/learn/modules/nodejs-files/
 type: course
 price: Free
 length: PT43M
 ratings:
   count: 76
   average: 4.618421
-heat: 52
+heat: 53
 
 provider:
   name: Microsoft Learn
@@ -25,11 +25,11 @@ topics:
   - Azure
 
 images:
-  - url: https://docs.microsoft.com/learn/achievements/generic-badge-social.png
-    width: 640
-    height: 320
+  - url: https://docs.microsoft.com/learn/achievements/nodejs-files-social.png
+    width: 642
+    height: 322
     isCached: true
 
-secured: "bCrTnVI3pDy+qs64loyMT2Jck24SX0V2j0midsN0oZo4c4MC1xW89Ok6ack32wiqUqJ5LEUUI5sRiWj94gvW/5nG94C0+KPWuDqFcvwlJ20QqQ1k2fisltAvLvxrlo4poBi81cRbhFkU8tuQySpW2pF8WebWd5ZlI2ati7OIqowFNOfEUW2Bsb+891Q07ZORyFHsfRjK1L6748RaOLbRiZjROAjQzyuWG3UPT7dyG1pfGKM7uYuSe3mhxy8StLZYCJzK4YLRRjfcKi6JTpLw52Lq0iw1gNUuR6ESVVhS2ApoOXd+YfEb+ayD+j1Oxu0IW5nQyP8L5tNmIzF3Ku/8Z+qsRFHP46CIHPAPNuKwTtRmU+PxLCaMgiTNCXOaJzriHeT8IJkPqab6WQydez2MaJ3uA5n15ee/Oo4LmrcORMY=;WPk0DEhbMzboiSNKLGqJqA=="
+secured: "FX9CqJ8xGDYuamh6yfoOkvOuplUU11V+Jb+xTVAFCaGUE+3sq9TBNH/2cD4jLq4OetGVWWf0y+CreZyDuDFuQS9N6vYtxfenufmjefPuYKe2aR0Xsq3LycvJ8vPOwGun4X3+VmONJNQ+RFh010JJLATvCFKevk4IlDuAUkOnUxjIKOLCwjPh6noKn5ZjW0Y5bxD/IqksMP8RiE8AZu43/NqFGDrZuI1Ir5onGEEBDB6mAwal9Z9L2IvkLn0Aqdcyx8x9XbpAnZajxLigrW9bZYC5t+YoUbcYe3xHBj10BXVvW7eavb99Kr3NMmlXSgFuPZ8YCxXpuAoqp+jRqqaPN7O60OHYEnlRou+zhLXs3FiHGFRJsDfutuYgQ7cwMLTaBpMtbmdTWGNcGjnW9+PuSw==;e/q35L3jb4RUlZxIDvnbOw=="
 ---
 

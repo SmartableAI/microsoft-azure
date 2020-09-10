@@ -1,14 +1,14 @@
 ---
 title: "Microsoft Azure Well-Architected Framework - Performance efficiency"
-excerpt: "Scaling your system to handle load, identifying network bottlenecks, and optimizing your storage performance are important to ensure your users have the best experience. Learn how to make your application perform at its best."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-performance-efficiency/
+excerpt: "Learn how to adjust your capacity based on workload and how to optimize network performance, storage, and database performance."
+webUrl: https://docs.microsoft.com/learn/modules/azure-well-architected-performance-efficiency/
 type: course
 price: Free
 length: PT48M
 ratings:
   count: 361
   average: 4.6509695
-heat: 55
+heat: 64
 
 provider:
   name: Microsoft Learn
@@ -37,8 +37,7 @@ images:
     width: 640
     height: 320
     isCached: true
-    title: "Microsoft Azure Well-Architected Framework - Performance efficiency"
 
-secured: "nJj7oDiYpGqAuumKBueHNWf1cSi5X+qhbTkYOIx0HLbYh/Ah1k3QCPabItDaHZaP9jcm3ow2e68nrLntgqz9ykbpmnH41uD1bj4TRHUlU6Om5Hq6/LPIb7XBadwCjHIkeTf4gci+No4uiouqu0+fEdAKN4sA+ljl7KBZjDPemju0fW1CLvjECWh0Jg24WqwxoU8Yvbs0+55EZF9FQPzpAWAadUm8ztNb62j3KkhWjuSBQ0cYYt2Gj/h9EUdM9JCazYIk+SuK7H+oj2Ay9SLJ+rdnufU1Vonge5FPI/Qz8feNpgF+NMASsq8X0h9xXcAGbgb6tI7xxsnLAlQr1MUSbLrosaYgz2IWiExWT6YBO7mvqfCMxxxy8JMrvoWa7IiO34Qki8/0UeSVQtyitD3U8xqc4fav6LYK9XNK/7jrz7g=;euZcg6OYJTJ2hQEVoY2IXg=="
+secured: "YDEV4FGX0+WQLidvyHlUpdUl/pHILxIwliK1rjV9XZO1Um+NGywE+v72qbC/wRmugmM5DcX2swRXgklk3L8NrtUYdWAe103djZzHkeGTlJqs2ZGeqLcuFmnXDTDhDaZmYZfcB94760FzjEth6tqSW8HEiB9bZaqq/zt6moRDbOjbQUtKjZo8UsnnPJ1jp6XGwUzC90seu1Zhz7kAVlpyRrTyK3JwT7fvOFXK5tdmevug3AEwVBFt8TOW/JX5svW1afF1mqINd+qcYVDSexzngRh2+6aIHtie3kT3M5OkgEiNlz0fBSpJn7gmeFmW2oUq2mjxj86Fo5opwvaLLsj/N9s0mR1Pf6WrF/4O3Cl4D0zYgFI50ogENGWDVwgBjBccn8erF9aQWBJjIK25171b8Q==;xZx5pczW98Tmu8AgmvTw2A=="
 ---
 

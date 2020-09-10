@@ -1,7 +1,7 @@
 ---
-title: "Develop secure IoT solutions for Azure Sphere with IoT Central"
+title: "Develop secure IoT Solutions for Azure Sphere with IoT Central"
 excerpt: "University of Oxford"
-webUrl: https://docs.microsoft.com/en-us/learn/modules/develop-secure-iot-solutions-azure-sphere-iot-central/
+webUrl: https://docs.microsoft.com/learn/modules/develop-secure-iot-solutions-azure-sphere-iot-central/
 type: course
 price: Free
 length: PT1H29M
@@ -30,8 +30,7 @@ images:
     width: 640
     height: 320
     isCached: true
-    title: "Develop secure IoT solutions for Azure Sphere with IoT Central"
 
-secured: "loMkIeIs2MbpXn5QiMUWtKnv4kzu50AWEX7AOzrYaHcoDDRCdj/p13ONZljTVBA/EIlqwmUuO2N1OnZySvm6Y3WF2cxXA2p/mCgKybu6AO7i11XMw3b1FgoKrGA+cgYy8cB1DsybMwJgPDNJvj3hZayDPnXn6TjL69JGFu9bbvtNuytWQl4r+fgU1o/K981voUIR/39mYItLw7DpWFt/uPxInr00jvvVfTy0m/hxF4FCb+sLfe6QSty3W7cp0zGx0WkH83Dnf16yLuTafv59Bebpcx4nHcp/zkLfC2jYJ45DLvG+YbWCuUk7dMxzzVWmgoesjGQf4DIsGgBFE5gdRQqvh9bS4fkAq02XvcGEYq/b0Ygif/K0dD4R0kvSdWGMWTB1r1qP9YUvBmusNR6V47hpWmFN/UMJUV6YVDBfb5I=;1UMTRiDl/i221B+qLvsErA=="
+secured: "orIvwKDSKzxaZWNYu9quuKJ4zWBx9O+pdJ8eD4ZKK3QPm0LXKtj2Zzgbcr3V/hB1X1Zn5kXDrSR7aM1zuK2qUy58AVTIYe5UP3AuZobNe7B7zsjFDF+2IKBMVKMv8iDJSNkAKtBZMX3Ie7lZw2peaSFH98pMGDk5JIskmJyLIq/eNXxoO8jY527QWrneYyv6A7a7vEfzKRMPcqj9g+d2Y7jvfaefSv2GkDTDqyLNJRQcHt60RUEAuDF1QZU7d+e8Wd6T+Epj3oL8rZ3NgRZIRaCAB9XqX2uaZm8e4g5hIVMKAo/NZWtaJZcWMm7L6gBwSBcdLo0WwHkwhvzfNNPDH8+YbySG63UP3G3AxuV4YkI/7ekMr4oJM4AadRb95n3yqZyARWsMk36PGL3K3ctvgA==;+zxpwNhrtLPXvcdhu8BScg=="
 ---
 

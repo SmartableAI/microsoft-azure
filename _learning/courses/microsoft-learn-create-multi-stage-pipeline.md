@@ -1,14 +1,14 @@
 ---
 title: "Create a multistage pipeline by using Azure Pipelines"
 excerpt: "Design and create a realistic release pipeline that promotes changes to various testing and staging environments."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/create-multi-stage-pipeline/
+webUrl: https://docs.microsoft.com/learn/modules/create-multi-stage-pipeline/
 type: course
 price: Free
-length: 73 mins
+length: PT1H13M
 ratings:
   count: 782
   average: 4.7519183
-heat: 52
+heat: 78
 
 provider:
   name: Microsoft Learn
@@ -30,8 +30,7 @@ images:
     width: 800
     height: 400
     isCached: true
-    title: "Create a multistage pipeline by using Azure Pipelines"
 
-secured: "YLQowaL8ZxDBK50XMhT6JTg5Xtvwx3PnGFsLAfycTVtNLe2QRsPsCJIKJPFMcESA+YCmnU5sb/HY8OkZLu556C/E83kYpzYVqhRjT86OLOfcDe3fDAOOQRvGNC7wPhU7ZlGtv6zApInIotHExhnS616kO3KKM+oJeTu2rHNIdm7/RM9/J1snvyQHd1qM+fbg5f6dfHZ785h033InY7C4vHTK0UFtAFXhvNnw1XjZtb9Sw7XgeF64MuQrnftvIZAGKVCxWosLZs/suAWbbz+Bn/6/rYofp1wsoQhAenmO05xg66AadJLZM2WdlB4AwJAO1lgTXXrvyNOTJfHXodDx23xoPqWLsPaHONAIkylgV3KgyRAtQL6nCCfy4XPI8vyApWSG7gPvrMELyodBBHTxux0pWiAaQ7PjYTDu3dbc82c=;NvIhjg7ytYYaHh2oieRT8g=="
+secured: "gPi3s8eU0RVhbfB3NgzwRMAcCUQwgHVOuDwcbv47EarfSlihhITlFcColufU6tLgrxU6C0AnI6LbZ1v66Okxh9WfaWTJAGetAIgPUhMJ6YnnNN91qPSgMKhTcFMhtQpGbIXYltQLeIuAIc034vqJKQ81ul7mLGXo3ceYNOZ82smb5i1HVllPV4FDUvuV9nBQ8T+5dg01Xa39XRV4llX52HgZVYmDUQGCzCfpvi/vvOluB+JEl0Hf+tD/0ot5Cqh/5L6hJaNvNEcSDR0zbzf0sc9DLNJYwaog047bDtb0I3XDfh3gYoc51AsinM4M4y86/GNmDnhUvixoVABknjWhsZrw6ah06x+orMSeicPWedfRMIn4kXCe6eDvijwYcYYH7H4xdk8tRKiq0cYVzn/rog==;OhHC/3Y/kqDrem8fwwQM5Q=="
 ---
 

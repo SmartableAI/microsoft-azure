@@ -1,14 +1,14 @@
 ---
-title: "Strengthen authentication with Microsoft 365"
-excerpt: "Learn how to strengthen authentication across your enterprise deployment with security tools from Microsoft 365."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/m365-identity-authentication/
+title: "Strengthen authentication (conditional access) with Azure Active Directory"
+excerpt: "Learn about modern authentication and the security benefits it provides to your organization, such as enabling multi-factor authentication and a passwordless environment."
+webUrl: https://docs.microsoft.com/learn/modules/m365-identity-authentication/
 type: course
 price: Free
-length: 8 mins
+length: PT24M
 ratings:
   count: 1060
   average: 4.6962266
-heat: 50
+heat: 86
 
 provider:
   name: Microsoft Learn
@@ -29,8 +29,7 @@ images:
     width: 800
     height: 400
     isCached: true
-    title: "Strengthen authentication with Microsoft 365"
 
-secured: "hQgjeRVSxNiWNp7FTeIXNiHaO/RH0GDAs6nh6oK9TgghG/eO3Fzmd1yYjaiYZ8U6QwfuoLYehdCUiuNVGEG6TBCGxptRD9BWJVtGakYVxU4snXzeiajCFtjYvOkSOCgpnLaZ1zlkSpD7Iurd4PcU/oC+S2DOz55lzS18SU/eMi6qT9QMvgvwvS9Zuuw5h4h+E+vmATB19ZKJ1bsNFq4joleNzORgf7XU5LmcTLSPdeBLPiNG50f1ml83AEFZwE1eoj2fv7lazWkx5g5dfWbxhJqUTQVNwqaEWaIF+ImG6vOAev+2KUw7JRDMH3pVe1MV51UqPN4z2aqY8vZCOpy5oYJs2RceQN4F56T6OGz3OWk5ZK1/0gKniDfjiYlt1B+Yp7HZt72vcJTSHVCsb6LFh/y+HMdZUwDAaEITiW0xq80=;liiA9HWa4F2KHtMLXD7WHQ=="
+secured: "wTAkWJnxL+GxQI8YMmYq2bT7oNtUDwDOrN0jMfHeG6PkBmdD1GGe1V8/f93vpV5zc2arJlTuQLmiqT2q7rsLLHDVAlR/U9oYi83uYFozBMMGw8VsoJ0/SwG6u3uBv17arW18UfdhXj+tXpbtHH4s7IiJDPR7cKuCpEyCIZOI7SKRgKx4jhZuhKEDKYw/kzkHhCAqT8ehZnD40AiJPUm1RDWPKgHCIdcTkPw6WF+zBWRJonuAXq3fMxwVb1i2LImcw6MDGcLFc901n3dBlB3wQo8lw3XWBAqDW/MVHFFZdmAmn4s1E8sNt9tw4hAcOWQVuLxfXpEkSR3WSrmtz+Ej3NYRWzl1/bNmT28oRr4RacDho5Tat1tNzn6VMnlYpiu2gX19jmurWwpb7Vh9EIHHug==;xzsVN9YaUhkvL3hX38g34A=="
 ---
 

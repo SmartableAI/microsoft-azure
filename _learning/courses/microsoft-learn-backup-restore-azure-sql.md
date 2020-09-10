@@ -1,14 +1,14 @@
 ---
 title: "Back up and restore your Azure SQL database"
 excerpt: "Protect the data in your Azure SQL database and recover from data loss or corruption with backup and restore."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/backup-restore-azure-sql/
+webUrl: https://docs.microsoft.com/learn/modules/backup-restore-azure-sql/
 type: course
 price: Free
-length: 41 mins
+length: PT41M
 ratings:
   count: 573
   average: 4.5898776
-heat: 53
+heat: 71
 
 provider:
   name: Microsoft Learn
@@ -29,8 +29,7 @@ images:
     width: 800
     height: 400
     isCached: true
-    title: "Back up and restore your Azure SQL database"
 
-secured: "8TAq9sj91kagEB7QoYmvtVSl4J1MfLUVcjf2l+CycTmc3kaCrAs2jRl2rSa/YyZ3XXbmG0inbdVPak6iBiUECVtldr7fb37BTIVv1kd0Prr1zqqnua+NOaFuvUQ0+U/tuP4Mca+7e/FlR3cVYjumm4XaHOx9YgUt6V9ALw5QBcsnEWkqAxTIOGUD9TGnicV2WyB7yjNhu+BuDMdL+P7gfwBjIiZmWVkHwgR8DdxWt0o327pVAXp+WFfasQfwmBXg4rLDdXgGWn0OBB9ZKw9nUHXwRLU02+TlRJrHtmOXFgHv+aWukPLdU/jljgd+eDrO3nNBH58H416X7tBwMVQ/l4SW6RGTS0o/ei+7SYxMRfJbT+PK0TE+e3D/g1xfC9ZQ3rVQI+SOpz7PDbk5mrI1+E6yS40I/t2WtFO6UqBiwdc=;HWPS261A/LLrzV/iZKK73Q=="
+secured: "JxmEEWXlX2HicUImMpDVr1UCAC1d4Fs7o+ucPTgcF6DvmjGGBOhg0WACfOreOyrShWqeatAXJIzg9jBHvHtZ39SN2KVBhQlUTlghGx1Ookt36Zu41lkIE06BWzEYyE4OS5OfOYyi0ifaaOLKaDjcj5wxxsjy/bYAI8Y9F9t5A8oB9qWN+5TJjcRxfaCphYUJrdZTuyRlDfSWrF9waqHlkgvctdCX3NCjozcw/+NS1CsHhtlHkm6IH8lfnioNUSWqbzm/AjBKc65kcA+MEh9jY6X+2SDC28fSpbkEcNsckahgtLrcU5vlVY9fRrhxwgRTzifKHKXhBC47OwouovFsBmTuQqZ/wxdM5gua1Gzf3tf6MpEinceuv7ZMwoRN2JWpZKOUepMsfuUZXeGXily0AQ==;0f0u00rnbgF/t15q9RT4cA=="
 ---
 

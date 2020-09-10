@@ -4,7 +4,7 @@ excerpt: "Learn about the tools and services available on Azure to ensure your r
 type: collection
 price: Free
 length: PT6H37M
-heat: 67
+heat: 138
 
 provider:
   name: Microsoft Learn
@@ -50,7 +50,6 @@ images:
     width: 800
     height: 400
     isCached: true
-    title: "Resolve security threats with Azure Security Center"
 
 secured: "sp5S5Ioeqv7U9+0cPUAfvligK7+CMAhsmOfwFNaahK5qJQRE4/qJMdOqrXInE+OLE8A7hnYEBLE6IMTsp988nTqbOKRWhYMXDuhLvh0gHvgiAyHqdBxPmYcwbK1g7i4fZo+FrD8eHvOHHncroHp9nEx35nFEqS+ptGTU+4ZJk/uIvSkGMJskho1zQQQxcw6KWrtisXbJJTlAjB1hKD5wcfyjpNSeB73u5f1H7jnUhgpaC6Rpg+AmmGxGsdcbwjcFjYI2AD1OfdI5O61CJVT0I+dZpbMf2/wedZ9EuDC1L9rM/2lqJoBNEzIo7s+HYcj0YOJEcKEIVO8skMcqkp/yGw==;6GrB+lQvQEnx6d2/ZSA52Q=="
 ---

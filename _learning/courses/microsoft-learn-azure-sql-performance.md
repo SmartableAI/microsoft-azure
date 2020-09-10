@@ -1,14 +1,14 @@
 ---
 title: "Deliver consistent performance with Azure SQL"
 excerpt: "Deliver consistent performance with Azure SQL"
-webUrl: https://docs.microsoft.com/en-us/learn/modules/azure-sql-performance/
+webUrl: https://docs.microsoft.com/learn/modules/azure-sql-performance/
 type: course
 price: Free
 length: PT1H24M
 ratings:
   count: 23
   average: 4.869565
-heat: 50
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     height: 324
     isCached: true
 
-secured: "J+wHIhis8QDP35CAlZujrqnv6JTyYUh+CXyxl7CMdq5OYUW8Ro+RhF4wdf+YfbRCO7yiLfSQ6hCbWPs4A+bJ9IO8EmugY9c/968mzFAgDAu4DLcSkMzDvWb5IgcourZ6CpQ85matlqrRvmKBT166JSdnTlA+y1qSp5RAg1bI4hcg8vqNQu+LluXeMb4q7uXxMJO07cI+jQb7VCLEcx6LkEyzbMBrQnnAjS0QjQt0PWssl7MamsB/bcTV+mLFvNVifY8skTMmwhttseIoz9Hut7rB6sFRd8k8yKk4XVqO9StzpwfLdagZQoBMMS1vrqK7Dlo4onklAFd6cUiSsbtkCgW454Ei9C56GnDMO7BqB8m01y+vD3Y90DJLmUS/6q53fQuepd8pm9FP1h7qDQ7tcHz3hYk84jPjyaWMli41oR0=;AIIDmWRKu4YoMjwtzQN5qA=="
+secured: "v+tb8sQE44QkKl0Md9Fvrs5Lvi8koGAOY5Bjf0LARs1kBNObKGQN2oSZ2HB42bIJ1jD9rIMybSqCUVWPM7NliuBnQ7TpTYwRL3qOKl/yfcci1qmYMkseMez+6UkJ/xnSgs5sGgn8FB+MnxG38gR4InAL/bA6BprcMXTvi0zSq1MgzYYdLzuuCdt4v61Xt7V3BDO/eTIiyIo7QQvdE1D0XoMc1OeZBt2oksPlKGxz5CROfe4Y5MX4WRcTph8pBNCeVfKEimP2z4Q/nMS2a9trLNqLVv29hb6eST4y3YvcMndqMZDDZcMjoFrAQJxIA8uTzbCUdBe8hBKkpcuHPVqlZPsCdz4Av1RNhWegIoaV6pxtFLjWT8SJgHwDs5tQYOTYlKyKHJnNmoqWyKtMsgY0jA==;z77LpJ9WMsNw7qX60N/k3w=="
 ---
 

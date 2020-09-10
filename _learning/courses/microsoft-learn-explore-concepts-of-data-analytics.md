@@ -1,14 +1,14 @@
 ---
 title: "Explore concepts of data analytics"
-excerpt: "Learn how to ingest raw data into a data analytics system, and use this data to create analytical models that enable a business to gain meaningful insights into their operations."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/explore-concepts-of-data-analytics/
+excerpt: "Explore concepts of data analytics"
+webUrl: https://docs.microsoft.com/learn/modules/explore-concepts-of-data-analytics/
 type: course
 price: Free
 length: PT16M
 ratings:
-  count: 412
-  average: 4.803398
-heat: 59
+  count: 413
+  average: 4.803874
+heat: 66
 
 provider:
   name: Microsoft Learn
@@ -29,8 +29,7 @@ images:
     width: 640
     height: 320
     isCached: true
-    title: "Explore concepts of data analytics"
 
-secured: "KYeWY+iSRlC3Mlxa29YwWLbcfZshIqAfnFDszjOGNF+x56TNWS92X65Tt7hupyTxdQOs9+EyjUbFCUwtVwtv42P7RssgzFqD0V7h/A6RoAnaEZsLGoRzCdpewfQxh0MfTJLaNgAtHMxiZLugkhQ5FRB4z8u5qpU6EzJQXP3tFspPw5m7dW/djp69uqrBMw0rbDYSW+xB5ln1NJM+TQ8GEB79D2aVizlBslTVTkaI6Xj3Pvz/dVHd5bQPDWArHjuuAnlnBeiXurryHHv6vMoWBOstHu00siVj7DPODGCwd9FfQ83M8po2gs9/uuavGPCUOSZeLLkqw3BYPvnqei6YLW3cCL75dliWnrUdzuBsDQD/6Apfrgg0uREgAf5TEig1rNJgjtQgRq41xOpVXzeyj1yz729Ul0/25oU6gMwu1ng=;f9xkvErL0825TbZwL25ndA=="
+secured: "IxEfsGf2SS9udpBOXk1tJM8RNq6P6TzsM08VzmxCwxLTarwWQ0nnKaF3sN/CqS051odWWvndBQmaIZCWwDp+Z2QasEFbUyc8pDfNQYsXurD2gyF9OrACVMSz+TzAbUHQKbDxDGbrDTCFTI9Y9oDR1Y0oUWMby+46i336GJiRrC8tuQaTsKfMYj+wWm1QQUhnag41iXA5x9gP6zwX0ChiWOIt/K8xdblVvWd9pm9a+nfq3qranXmw7w59j58zdzzMiedy9WNx0aDE2k/pp+g6L5wtVO1rgSv/eja2HcQARnyTCUoZY5UgEAbukv68oqunHPIUQEY7f7SeLmXKncrGFfDmqj0XNAj6NQ8hcTJs+EaykMUoHimM08mydTzIWhhh6qPVHbqS+Iebbz0B2r70hg==;uedffjAknCTOG9MxYu7YQQ=="
 ---
 

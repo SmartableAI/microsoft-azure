@@ -1,14 +1,14 @@
 ---
 title: "Design an IP addressing schema for your Azure deployment"
-excerpt: "A good Azure IP addressing schema provides flexibility, room for growth, and integration with on-premises networks. The schema ensures that communication works for deployed resources, minimizes public exposure of systems, and gives the organization flexibility in its network. If not properly designed, systems might not be able to communicate, and additional work will be required to remediate."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/design-ip-addressing-for-azure/
+excerpt: "In this module, you will learn how to plan and implement an IP addressing scheme for virtual networks and virtual machines in Azure."
+webUrl: https://docs.microsoft.com/learn/modules/design-ip-addressing-for-azure/
 type: course
 price: Free
-length: 37 mins
+length: PT37M
 ratings:
   count: 1107
   average: 4.728094
-heat: 56
+heat: 87
 
 provider:
   name: Microsoft Learn
@@ -30,8 +30,7 @@ images:
     width: 800
     height: 400
     isCached: true
-    title: "Design an IP addressing schema for your Azure deployment"
 
-secured: "t34EpK+jZFYQEbK7byHq+6gRgQC0hTLC754cGa/6ZQ0jiZR7zrLT7r2TraVvy87cokmx6iDABchmHk6/OY7ObBpfkBIOKrvEmVphyq+Kohj36FG408pBF+TVjD1pcYIirsuIUrLj1emQmbgrTxxr9ylt/cUBsp0h1QKLGV0nyWXq2mEDOG40oaD5uLo4QcTCDMnc5B/R6LyOCX8bbP7cTh+UTW4yusEUAYqWUS4JaXIA7MnhATHLqfoT+hyVAhaq09Hp0eDRUHPeThEIY2QbPxp5KrO6x8MPhXLKlahjYZnamxYIGW9Dp/u98lXkx8HH6jFEA0Tn1x2jmn7osC0yI0JqgPgNgDPrckZGTzvvUODhAvYFZs77Vs8+syP+x07cUy6zddNJO/61qY3bLd6zDExFNN+9NEE/usfl8dOVrwY=;L/mzLjqwbEoqx12KKEregg=="
+secured: "5MIvMTEeeA535KQQOG0hcD84phZezSibHQj54q39HtRj1gmaNa88IvZAicO9ke+F60FQkPBGzB3BiX2Nshz2Wyfnej97zvAiYKQZKIdiwvn69yC+cyNdmF15hbNeMcAM/lRoYI6NHhqM5B3kQX6Snt2lbJ2DQh7zvrEJcDpIp78rHX/DlP83hcGHw6C0qr5Ma2NDp/8F7vhaFKpEfoct5yCc5laTA2anUmh3GicfG5JkyUo/8D7mOp2oOiBOCv6/KNjd5tjWtZmwDfsRaJqxKiXrhS4PW6jfk7u3AnwWfUl/OLel7kYE3iQAC/DnDCHzoZcv5vQwjZoyN7Bc69FDaaTLIyciKLqq1fb2WcoNvcSvaZBmeSaKaShttTz0NhIfBdzqhCpRF6mfg8dSRiYljg==;ZqGXkT/TnujCe2t+BvVcuA=="
 ---
 

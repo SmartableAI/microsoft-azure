@@ -1,14 +1,14 @@
 ---
 title: "Create a Content Delivery Network for your Website with Azure CDN and Blob Services"
-excerpt: "You learned how to publish static web content using an Azure Content Delivery Network (CDN) and Azure Blob Services."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/create-cdn-static-resources-blob-storage/
+excerpt: "This module looks at how to create and utilize a Content Delivery Network (CDN) within Azure to host commonly used assets, such as images in a website. The module covers Azure CDN rather than third-party integrations, and deals with using Blob Storage as an underlying storage model for stable or non-volatile data."
+webUrl: https://docs.microsoft.com/learn/modules/create-cdn-static-resources-blob-storage/
 type: course
 price: Free
-length: 63 mins
+length: PT1H3M
 ratings:
   count: 437
   average: 4.7391305
-heat: 51
+heat: 67
 
 provider:
   name: Microsoft Learn
@@ -31,8 +31,7 @@ images:
     width: 800
     height: 400
     isCached: true
-    title: "Create a Content Delivery Network for your Website with Azure CDN and Blob Services"
 
-secured: "suJVf4YvckJOY3FIX7+vwpCIlsVPZGHBJV0DfhqW/bvoQaLLN83irXJG1rSJsoSNTjQWN2A/v+gJ5ipRqzhhhwiKQvjmjV78yi2WAUPE1tcubzDPUx047ZY9obb/8Yqi32G8k7lxvZa3M7G7Pa9If8Isi6CoS6EFkttLaH/6jm814c2Qt2Tb3cek5sqkUbt+MbzVQyy9rrU6n9m0yW1lRqAcVog3Gvpy/S3l099JsQ6E7HrO23BRlwYl3OeGGEbpEMRVOsRlfMqspzb4Mnt5kQNuX8yvXeMPLAounsugLkw7W/D+aBUDqZbm/L06MbfJFbgoWeRldrWXnEub2sjaDyD/8zebwyHZT1t87ZiTg4C5S8vXfPtzY5xvSm8/VkkbBPsBNZq858tK/2qDZ81JjWaAupaP3WZO8nqBGWPnZQk=;/aot4gEbMSpE1Imc9DIfnA=="
+secured: "XSe84ytZdJ3OslOkY5555muLpYibb96+g3izOX87a16cTRrersXxVZxDsQl+Hi/MuhrboPzMRyuhyWwW9WKkoixzHAp6KI0eb0hrlQuA12Wy5ITj9MU26HTtO+xn9dkU24+2yuOpyGMYMxusb3xbFpixBEJmgYq4hvZLZ9SrXy4QRDEUwgAQotYCaqgdMBKOpnHOpJFjmbYf/c4fRLhM5CY4YqDd2XC7TawT6cKvRyDZwAd6oXE0jrSf/kEp+/EnaR3uMyRaQ15Swr7J13nRIg97pNF1L4YbsxFKDy/vzEhl78BZ/nS9yMKUNvvBJ6BTX62G+p4Qf7RXtqDPdpztuimrI8NqU9ETINBZKqAU7oZLv9VZGybpbPOpWShvW6mYwwZJYn0MvKLmiFJPF/nPww==;1TTdyRK90r5d3VSjtus75g=="
 ---
 

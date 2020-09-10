@@ -1,14 +1,14 @@
 ---
 title: "Top 5 security items to consider before pushing to production"
-excerpt: "Secure your web applications on Azure and protect your apps against the most common and dangerous web application attacks."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/top-5-security-items-to-consider/
+excerpt: "Learn about the Site Reliability Engineering approach to the challenge of assuring reliability and gain a better understanding of why it matters."
+webUrl: https://docs.microsoft.com/learn/modules/top-5-security-items-to-consider/
 type: course
 price: Free
-length: 45 mins
+length: PT45M
 ratings:
-  count: 5970
-  average: 4.6448913
-heat: 58
+  count: 5971
+  average: 4.6449504
+heat: 161
 
 provider:
   name: Microsoft Learn
@@ -25,13 +25,6 @@ topics:
   - Azure
   - Security
 
-images:
-  - url: https://docs.microsoft.com/learn/achievements/top-5-security-items-to-consider-social.png
-    width: 200
-    height: 200
-    isCached: true
-    title: "Top 5 security items to consider before pushing to production"
-
-secured: "T7nHjli5Z8hb6c9FEbt19id26QbwzTeyZa1zqV0v6+JTrlk+7Fd4El3LIP7/Loh0kONzpbyhcSfcvbuXzjYLkqJ4y/evvBl+QsTwkUsr3Ecm0g11OjpbVXczM/2qYM9pQsjSqFPBtic1RlzHezsURzCabhwTBeT/qFcGDLLlIaIpu8Gux4ZFb+W66j/WB735Px+Ehg7IcxitBvP58sneZGla5b43LhREMgXq2y28etH+TvbpVfa8QUBajca3oAM8fyoxlw6XRb/aBBlGYTnu9xEb9npZcS0AAl7tLv/UOW8cNlgOEVA07zmEr7nDtAiuCEkgeGzDIgLS90R1/BBI4AZc11l0eVoDj6cXMESO2QP0X5klnnBKVe5iXL8cqmlQ6a93Ml7GDAnKsvitDVjIHpu/YXoub8JZl+kV/WYhp0s=;6DEWvmme6RuNgSWUdeEhuw=="
+secured: "4KuE/8FrobfDp876xnSdVMnIfGy9YDQkrQvjIAPcViE+bONKXxyH32yALdS5oIhBYbWH6iTjmOGBSiVTyoJgzijC5SIuRhJJ63R4Cst5mmOcsceLcIV4pmfJfqjlYt4KaEH9Y6NxFKgPj8wPBDJ9J/Sq4p6rbyv8q2pjwqdPK3ihjHmit78ynVcby2thBhmp9NQv/dh1VjM/KOC5Vbms+do53cCyEf9a/3I3bk1oz8eMRmVslnc01LGOHiNGBrVeDXYE6r2JE2H1o4ErN5bbkVrVPrys4R9ynpv3nwbA2lO33qCnYoSZGP29OYh7K1LV7x6N5yqSVOc7m3aM1FPjldqxR8cYNw1b2Ix2Nka1tD7OyfaSGuHkDZf3dEm8eQO13y2T30VmqsGZv1ebtww0Vw==;LHi7ExBWFaZv1o50a9pD0A=="
 ---
 

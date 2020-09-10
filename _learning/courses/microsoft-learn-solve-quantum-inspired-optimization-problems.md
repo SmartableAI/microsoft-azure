@@ -1,14 +1,14 @@
 ---
 title: "Solve optimization problems by using quantum-inspired optimization"
 excerpt: "Learn how quantum-inspired algorithms mimic quantum physics to solve difficult optimization problems."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/solve-quantum-inspired-optimization-problems/
+webUrl: https://docs.microsoft.com/learn/modules/solve-quantum-inspired-optimization-problems/
 type: course
 price: Free
 length: PT30M
 ratings:
   count: 84
   average: 4.571429
-heat: 50
+heat: 53
 
 provider:
   name: Microsoft Learn
@@ -29,8 +29,7 @@ images:
     width: 640
     height: 320
     isCached: true
-    title: "Solve optimization problems by using quantum-inspired optimization"
 
-secured: "bXOvgufewFjiYLwjD/8DENztGoCC6cSHWJ9BPLSIMvKQ8HS0mgRLGFyeVieftE+BAHLsKued5DPsA+AUEvKD7QVgkdGHVE3M5s2SHBG4UWvDEG55tc/DjZl2gD5uSY9iBt3filKKS9hhqSSGXFqdXCIfrCMIdVaJERwKcKEC+2G4ifGmTwvvTFepYi2Zzujw//p08twjjzsvNVpRDTyQM1WwQVgSejTCJi1C202xEE7l1PyE6Im2JsH1L718PqBQneJqRHDcj+qv5WwqUl+a0jqgoybbViLRSjjLZvL4wA1uV+w648GdV7CEFSgD4A0oPGH5zGcPmZw2xBINkaMNLIZjVHzNehAu/1DO27ID6IIvY3iHusnmW5waPfvWjUQJ+DHK5OaE8bEf+8YY08JK9T6TtC9tyW77yWFWEhlu7ko=;oG+JHMUgstpzRdBhzJJxeg=="
+secured: "hHJND+VHKZMAQDmqST67cDs1xmX7zXDW8nX/YIFdVad/33XO5Li3dcp9au+devcFGaKEUniu99U2xmWVr2aDk44PCn3ZdKFIeOKuCqzDGFVXzPf+ParvU+9oDyG6J9yT0zbu7OGwUZ9suDX6ovB+jUMhYkB7DLfwMY2o2ZvW+r53gd5E0uPE0KDKBCp5qBjKsFk9lPUFvxc9A1PwBDW6jsJw5FRj2V2Ip/pwGwB/jScPq/hd+5tvmuvzetyA/26tpv7GSGjm/jH04PSLAP2au8HlP1OL61SI8zRrKClCrrUMV5ec83iWb7vLGSKS6IfjqwkWVGhOuxkeKoe/V0ztHn9raRF3NHhpKOXaK4oAQqNe5L9zRWO3GS5qXP3pxdP9YkGztU9/Epj2UUuuJgms3w==;g63W1GHQFNtGnGVqTpprxA=="
 ---
 

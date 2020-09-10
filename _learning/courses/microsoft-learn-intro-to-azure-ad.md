@@ -1,14 +1,14 @@
 ---
 title: "Secure your identities by using Azure Active Directory"
-excerpt: "Secure internal resources, external resources, SaaS applications, and more by using Azure Active Directory. Learn about the features and capabilities of Azure AD."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-ad/
+excerpt: "Use Azure Active Directory to you secure your internal, external, and customer identities."
+webUrl: https://docs.microsoft.com/learn/modules/intro-to-azure-ad/
 type: course
 price: Free
-length: 27 mins
+length: PT27M
 ratings:
-  count: 1293
-  average: 4.687548
-heat: 67
+  count: 1295
+  average: 4.6880307
+heat: 92
 
 provider:
   name: Microsoft Learn
@@ -30,8 +30,7 @@ images:
     width: 800
     height: 400
     isCached: true
-    title: "Secure your identities by using Azure Active Directory"
 
-secured: "4cQZOFFtke6zTWwSkyvcy8Bt0l4vWpSdoRnKsFiLkLGUMeD1pqq4s90H/E9wS/QlQpBdQQYlno6INW39P379fPQ0D6uComTEzXvTugD5NzKrNwE4wgVYxaok9PAy/WlPaDJ/qU/OKNfK6xOF9jqR/yEY9E5BbW2BirwFCNYAdotQR0fKp7VPmMQVCN4T78iybacHxoL7cxGbfWCw0DrKM8ZubM0eTtRzh0UP1HcpDAf66tyrWcPa4UAIzkFptaf6KK0LOuBqDL5nXVAG5jMcAFdMOiUrPFUwUaDTsaaQvcM9IOlcYvL3o/9NtxN9vHSH7Apx/l9URgIP/PEtsESptn7aLPy9Ys8woHAtRszRQObPXp0saJv1OB2Jjbrgw+IJNWH253yUR7+teXlSeOp0uIK2/4IGLCYSzzDt/eWbMBc=;op4VBFgeR5Ga7rFKdte8lA=="
+secured: "o+Xke6VTq6qqOYt2UC6t/n6/rtngtPFrEzQ7AzXUjIREdPzXKav8zAv1iII8PhSsKSHynxQthXeXqM/hZwNhdgwGJCmRM0nbLsc39aOqFngntoNOgXYz8N3qr28iz5SIRMQFlEAjMfobj/SPUSwkHr5Q8562nAaVjqxn4ioVMq8IqX+xKe1Jq4ijnyYyj1oSAwpmEWyOktvdYfY7AavDsq18vaIwmWtJV+axulEIm/dUPmQceoEo1R+p8EylqkK5+MjR15NmsfWMl4aUzRJada/BCxApmmNDHsz/N/j/+IcTsdrnuRQToPOTZic6GnT5EfKTxlWpKjfLCSHO/pIpj9Vtr+Fyoc1T+zKT50GRfqE1EwypG3YPO2lbE6yDpGjlOVqrAwrbRF5YJS+QSkr9Zw==;BWTDclz34Q4X0dMjx8uVUw=="
 ---
 

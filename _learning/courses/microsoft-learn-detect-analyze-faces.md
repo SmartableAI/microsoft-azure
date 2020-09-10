@@ -1,14 +1,14 @@
 ---
 title: "Detect and analyze faces with the Face service"
 excerpt: "Face detection, analysis, and recognition is an important capability for artificial intelligence (AI) solutions. The Face cognitive service in Azure makes it easy integrate these capabilities into your applications."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/detect-analyze-faces/
+webUrl: https://docs.microsoft.com/learn/modules/detect-analyze-faces/
 type: course
 price: Free
-length: 24 mins
+length: PT24M
 ratings:
   count: 169
   average: 4.7218933
-heat: 50
+heat: 57
 
 provider:
   name: Microsoft Learn
@@ -22,16 +22,15 @@ levels:
   - Beginner
 
 topics:
-  - AI
   - Azure
+  - AI
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/detect-analyze-faces-social.png
     width: 640
     height: 320
     isCached: true
-    title: "Detect and analyze faces with the Face service"
 
-secured: "uo0oeUqYOzuCxUiOqMeo/LdJO8Fl2Aext7pJdXGBfa/yR9e0qpxIKpuY+I3fxHuhsKn4nYYQd+xlLmHJgtdGhYAWEOwP7FhxlZ39khhKv2JFk0s5pTwTVWZBmlIKyGzk/gmK/jwll2+LWZ3HGZePLjwDNPg8Pa7jFiEHsGsVW2pk/alGIGG3Vj3XTMiIeyCGbwcBgQoAyBGCwZljwu2C8ySLmGJDWcH5zegzyP+Ou7On7+fJWDF+6kHDbhk6ST9u5pAUn1K8u+iRsgwV7fpU4umoesbDLXFZcCKCCbdG0fTdl8uCp9JIEo074TpD8m9IhaTa98Nt71ptS8povkEXKQe1Zl9FGXdKjJ3cqTeeZnAx1k8R9SHdbUbp4YYTIowhpxa1hR75BLfmpxlxCicnZhal5xwfqO8qVIngtpu2Sr8=;UGtY0pIpMFOK/lKcYSzyQw=="
+secured: "JNmZFIEunlu+Ie4wfWrMO+7fYhbfSQXdHyoQ/LhsHc5dW8df4FQqasenR+NwQ7FkPImUjY6BLfh3BK8+at0/WvQqF6z9f7NDjJKkkx32FEfP54Ox/qyhrBNfamBFo1ATUYzNXo3ECBxf7AfJnWuVXOVcMYTmQjPu1+Y58RChk+6EUMaQIs/MpvyhMsNOEFHLOJIRjEwyy/1ac3P5XTfqEQCNvYpqGa1xGSHyFcJU4bzHc0ZuajzIJKER+Rj0lfWu8Gx3QbwnIWWaCGhlSmCBiHUGrBtFFTE57aDElzSALx13yjHzZpYLtXkW4eUZ5rwYiRezvtErd4fNs2I4liJaMgLRYosX+lOuieQ5nJgWfnnxXjpsyO+JwDXqphR5fFC3sR5jKcHepaBGggKjrnrykw==;TeRhtQsuQ5DGuWDCzDwNVw=="
 ---
 

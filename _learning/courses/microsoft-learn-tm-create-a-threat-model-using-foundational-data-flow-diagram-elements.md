@@ -1,14 +1,14 @@
 ---
 title: "Create a threat model using data-flow diagram elements"
-excerpt: "Data-flow diagrams are graphical representations of your system and should specify each element, their interactions and helpful context."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/tm-create-a-threat-model-using-foundational-data-flow-diagram-elements/
+excerpt: "Data-flow diagrams are graphical representations of your system and should specify each element, their interactions and context."
+webUrl: https://docs.microsoft.com/learn/modules/tm-create-a-threat-model-using-foundational-data-flow-diagram-elements/
 type: course
 price: Free
-length: 42 mins
+length: PT42M
 ratings:
   count: 205
   average: 4.6780486
-heat: 51
+heat: 58
 
 provider:
   name: Microsoft Learn
@@ -22,22 +22,16 @@ levels:
   - Beginner
 
 topics:
-  - Security
   - Azure
   - IoT
+  - Security
 
 images:
-  - url: https://docs.microsoft.com/learn/achievements/generic-badge-social.png
-    width: 800
-    height: 400
-    isCached: true
-    title: "Create a threat model using data-flow diagram elements"
   - url: https://docs.microsoft.com/learn/achievements/create-a-threat-model-using-data-flow-diagram-elements-social.png
     width: 640
     height: 320
     isCached: true
-    title: "Create a threat model using data-flow diagram elements"
 
-secured: "Xu2lX9oKtSq7ylxOdO3vRYJI2Ro+Ed9qf54R4nlw2kF+/KFBHH78wvhK/JpBv45UYfmhTuIqxaaZgd3dZPR8gfwvDIfIvECcE0jG/ZXJedyXBMhCuoCB57tYhPTNwUf1H1fBdkS5M2oLdU0M07fdUmReXMJ0kOJ0qkpnIYg/RD66/wYUmKXHTqnM4JRhrIlvrR53Pz/7N1mppbaqi+Ka/FLGsJUi7KFv6JY2GQToDM9dLr8CHMvNKiTXeKVAJ3bxyCNNMmV+dZLoqUvfC5IJYJy1SNvyxp3OLV1ojmbsRuNj1LrgffXuzDxUxP1wrTQHzddtwxHG4PJBhoQZVmFAyyEDqFGPLCesLgABmIarzLQb5PQF2f7vidbQXnzafuOVXYW5g92z1PM4AnAiUTtkHknVjP62Lt9s3FcQO7pntZw=;Aue1HzIQqro9R1RDKTVUpw=="
+secured: "d0QvBUHsIPAm0sFKJV/xam8EmgY5Je/8g4ohG15MiD70y2GSQLFsM8tTw3xj2ZmhEb0Oy3PhIL8UNW7umwFYJCj+WBBanPjsXJOyGohL9QZaqyWyQNSGW9ZWNsii6YrPy/mhS2ReTUTT4ltY5OZukLTbRKHggTez5I2upXc9zV3eVf1x4C5apPdNoKMHXY3qbTtWk3at2IDy0BRuYeoLTvntYGaqBnIXP6ZdcjGVzgVfOSRZVfsEszi0kghMF01bFYQ0Fx+zQE7/mqnsFj7E8fHoW9ERYUNd6F2t56OLdUBwBDgVbr6r2Atrc6eQMT52k8dx1LKOwi/rOiTuX3/IIGAPGULNzB+jLuoVr0343O3E0T3VDnM/15m/z2NH/fYj3gjAOs/nhaRzQ1rroRRMvA==;M9HzaMZyYrzNB/wIQXFzTQ=="
 ---
 

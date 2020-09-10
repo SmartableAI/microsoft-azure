@@ -4,7 +4,7 @@ excerpt: "In government, decision-makers must take into account specific public 
 type: collection
 price: Free
 length: PT9H45M
-heat: 61
+heat: 97
 
 provider:
   name: Microsoft Learn
@@ -54,7 +54,6 @@ images:
     width: 800
     height: 400
     isCached: true
-    title: "Define an AI strategy to create business value"
 
 secured: "k3cuhQVpx/YWlnq9nx/VQ5FjCNAg2Una+J3a2SIXGKg+d0XrZw+RdxLncSaJLnJxzGCohIt09DkQK2HN4xdwOarPBLDxC24rYIn70D6mii+et3H3i697P/CxPAij48WCpBPsU9OglL1J/PIfUbCq5yIv3m8USYrWiY1/0QAgZuCzHB52EMcFfRxx/IPWI3gVzpsv8R7Empq+j9tcSvZkFAnTtuI1GnLlKVqRmJ+zx4ibT3Vc8vEeGzvnqno9zaVRz+4wFKkSzVBbfILQOQZHclZuqfCkvpreaAUlXkVFCaZHu3n9ZYmR7PU1niVOSV+E19X/LMnAh5Bp7/wfpSCd1A==;pvbMle1QbxQYK+h3S6ujCQ=="
 ---

@@ -1,14 +1,14 @@
 ---
 title: "Core Cloud Services - Manage services with the Azure portal"
-excerpt: "Tour the Azure portal features and services, and customize your portal."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/tour-azure-portal/
+excerpt: "Get acquainted with the Azure cloud platform through the Azure portal, where you create and manage all of your Azure resources."
+webUrl: https://docs.microsoft.com/learn/modules/tour-azure-portal/
 type: course
 price: Free
-length: 73 mins
+length: PT1H13M
 ratings:
-  count: 49073
-  average: 4.7066817
-heat: 112
+  count: 49076
+  average: 4.7066793
+heat: 298
 
 provider:
   name: Microsoft Learn
@@ -25,13 +25,6 @@ topics:
   - Azure
   - Management Tools
 
-images:
-  - url: https://docs.microsoft.com/learn/achievements/tour-azure-portal-features-social.png
-    width: 200
-    height: 200
-    isCached: true
-    title: "Core Cloud Services - Manage services with the Azure portal"
-
-secured: "sXxmY2wYzXF8PquXXzqVyvK4P4A9zWPGmWQGcVaAq8m67N/eghvPOb6DtJD+eZk675UibsNkjuWeCTutmUAvK6Beb4Sz1GIEAl72/TpP8SmNQGeEX0u+jNIoI53/bmhuLGwWrgc6h5jFs1fo/R/Zia6xRGw4zKgFpZVhs2BHJiI+Gc55K0BX6YnuAe5aVti5qlyd3cOXyE0MoDXeInKCC/szdVmrDx2x7oSe80epBn7WFGeQFV66FPW8Ei9UvAFavbkBk0+H2YQsf84JHqyrh7dkQPPozDXd+rcpvcFd715kgIZFPd+aukeBRFQRVSNCMVKVNVEkNwVVqv/Saxavp4gfoZCS/RHyp1pu/kivXwas8Rxl/wOsPn6vJPTkT91/xk8fuRxAdw/3MEf9nGSqCX+sBwawgydepw1JhBCrS4unFJxu04cINrbSPBfniD/t;GVl80V2RhmR6Sm/UvQ8K5Q=="
+secured: "aX0gOBxhBEHMaMN30X0dZdmoX5aB72Rcq3dpZqYtZwkeoLtKmrI4nhhYsa18khiOb6K8Lxsx0H5msgnJY8Pe2y+ObdEfB1fZHBpOe4us8XSNQiUYEN2XKmW3TGCpOxiKzjAN+yvRg5Z6KZ1BAR6pa6650+Xpe7sIcpAioe6+USXbIqwNmJLCM3cEUofA5/rsY8iqmI6pKpQvkGkn+igPPCan6coVnc84AZHCFaw/UvirVS9hqShPsB17aqUURVTiIZ+uCXYkDeJOvxRwetDq7Ofphh7YrKO2OKFmxwG/nAaZe1PtYVd1G4EO7dhHjIjcC51YNDWIXcZyfMc3vWgJMAztPHbhXYfpMxQDW0qUQ63QO9ANv82/QcIUH3qq27gDwRXnQbNU2XbqRVJLfs9Szw==;c9EgTaxiHA4x1LUdmge91Q=="
 ---
 

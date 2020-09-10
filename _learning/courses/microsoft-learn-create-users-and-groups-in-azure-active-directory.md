@@ -1,14 +1,14 @@
 ---
 title: "Create Azure users and groups in Azure Active Directory"
-excerpt: "Create users in Azure Active Directory. Understand different types of groups. Create a group and add members. Manage business-to-business guest accounts."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/create-users-and-groups-in-azure-active-directory/
+excerpt: "Learn how to create Azure users and groups in Azure Active Directory."
+webUrl: https://docs.microsoft.com/learn/modules/create-users-and-groups-in-azure-active-directory/
 type: course
 price: Free
-length: 41 mins
+length: PT41M
 ratings:
-  count: 2199
-  average: 4.7016826
-heat: 65
+  count: 2201
+  average: 4.701954
+heat: 112
 
 provider:
   name: Microsoft Learn
@@ -30,8 +30,7 @@ images:
     width: 800
     height: 400
     isCached: true
-    title: "Create Azure users and groups in Azure Active Directory"
 
-secured: "jMHGFHYOddAQHX/5nW5JJ0cCB0JUk2hxZcZTDFgXl1xWfDHid2sevUXA4XtGahs1HNQsG3+fYMMhYKSUtgOK+7kXZkmgXw/UVjmD21qReToQd69USG0RuPO2hm2z3L/DHou1ONbjvp5U/l52xgCCw+0tyyjKAiBgQXb2d7SfW/iKFEytjtKSRdEQNr7ilJ7FQiuenIVbVgOpyapgOcd5oxwgkidT8kCGNb/9hJy2WCeMd48us52MMd6y8RuRqg3+ZDO6WSbkBPKXKAKHm0SPZ9JsVkXC8jkQz2BbJP6Ge9zdCUCuqZl/S+elY1uyNNibrUejw6VXizL6pRB7kpCgzzFBPwNRwBKrGX7rgWNv8uhM/F1gzw6Yie3V9IFidyT/NDxQi8MXtHVg7xd5IY/XTv+COS5y8Q7xXXEkliw9C3Q=;LYyhl78l6tf8t489Ua9rQA=="
+secured: "Zqw9e71HO9RPHskYT7nGRJP1K4Ekaxy+M5aIC537wgCyNbDHmW69gR14KhQk0tG6NV2n8rwG22Itab4bfGrsSIWjILZZOH6rzJ6KeNqdEpwybrCp7ER03qlq5xjARJmLc7vvx75X/K34l+BNIF5VvyzdrbGSqo4Xgv0A3PmrR/IaQqe2w+entmax7KDOJsAtWZ6CW2kxku2FKfM5B0uygIyVtudVYqyUQ4qxRgRkYdRRjMQRMz9GmWK/XJ3xfwjC1UqidlWb3eKtIs9isKx+Cp10tSpo5VTIoYbCTcM8vAzbWZJ/9OP4PXGYX8VaYxISDEk+U+DwW2FWUmRk4dAD5WpE7Q9ioq01Z5mr4t4Ekf43IUBCfCT81ZHLUGUA3hdKi36tK2a8tjPiPYxCI7qNMQ==;l4mGAL0pyQO0NirOtB8aYg=="
 ---
 

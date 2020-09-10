@@ -1,7 +1,7 @@
 ---
 title: "Automate Python deployments with Azure Pipelines"
 excerpt: "Implement a CI/CD pipeline for Python."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/deploy-python/
+webUrl: https://docs.microsoft.com/learn/modules/deploy-python/
 type: course
 price: Free
 length: PT46M
@@ -30,8 +30,7 @@ images:
     width: 640
     height: 320
     isCached: true
-    title: "Automate Python deployments with Azure Pipelines"
 
-secured: "8YwYrFQb6i9dIFw3ZGZxsxBielhZWlRUQhIUNSFo26zVYp/6bhnGop3KQlPbT8XC2PqY2+pzCDL+wulFPg63klNaGaCPEtpAduUp5lqXe1QhqM7QadDPmTtAkoF4IBQNjvv5WUON20M+nHU9xEzCdR7Whksqbtnk0fLafWmIX+kTRHSBSDZhrOCWlX/Pp5y5AFwF0VXwoZhSnk+NUT3hMr5WYSVDl0dvbbyj7PVREbHdXWhPbgZlei3S/n3wYSnMnrFtlUUpQAMAPQPEi+mCn5LopUm8ZQNhoYJ1aWqO3rO8JY4qyQkso2NRz6N7J4vF4tsVl9Ypv3HyqlbBDgu0tCgrm3zdrNTGJKdaY2lGTM2FZUq093rVPxyabHJFIhfgiiFSRTaZ1A+Xvm/o1GwfJLf9HyqQ7/xbCfmOdKPyh4Q=;9EiXdC1kzL5CaYR+bN3Uow=="
+secured: "No6IxJ10pDQvapfN4ITnVGuswXm8Ob6O3657OGEBBQDLtChMB5DeTZpRS92fnLvcukmfQzZND1snOlDRXjsD8TQzOJMhQBUvncnWkTxuaz61xxVbImi1uzY1kJ7Uhh98g66w+8RGmWVOVnDJNKyBfaq0Zxeb/Bn7RtuA6jFwfpJHsnL8MtoC58ZTv+Hd/W0/BWlvpjo+AnswQbNYGdzER9SeIgoJ9Thf1gCg94v8TZ4423WCecuLq7dBzqi6lWAXsLougHGbThwsqoB9fsIJ+FGV+97Dov7TNGAb/Dr2r5Fh57n60ty/bgfEe25w+3tcgAdVq7g2TjhlmRuu4GDyToo9iT0fwsM3ZDYrcGeB6Jf11G/cpcDP9zWVchyOK/+lDTV9X5D1fNzxV9wPFF6ucQ==;5uNZyoCbzRyKkqjeKl/5qA=="
 ---
 

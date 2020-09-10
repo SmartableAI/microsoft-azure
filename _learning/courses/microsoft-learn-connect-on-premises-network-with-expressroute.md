@@ -1,14 +1,14 @@
 ---
 title: "Connect your on-premises network to the Microsoft global network by using ExpressRoute"
 excerpt: "Connect your on-premises systems and users to Azure and Office 365 by using ExpressRoute for private, dedicated, and guaranteed throughput connectivity."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/connect-on-premises-network-with-expressroute/
+webUrl: https://docs.microsoft.com/learn/modules/connect-on-premises-network-with-expressroute/
 type: course
 price: Free
-length: 40 mins
+length: PT40M
 ratings:
   count: 2991
   average: 4.6656637
-heat: 63
+heat: 125
 
 provider:
   name: Microsoft Learn
@@ -30,8 +30,7 @@ images:
     width: 800
     height: 400
     isCached: true
-    title: "Connect your on-premises network to the Microsoft global network by using ExpressRoute"
 
-secured: "rS9r3Mbzx4R/cK/w9pDhB8Iu9o0NKTrYX4FQhqKYGlQlNj7JDMie1ckO2+Ltq8Iwc0ji8gPmDXbcAn1QzZmjFaR2VAiW8O0RMiGoJ2UWV9QkH8IeaFa+ZsnX9r/QSKNGcmWoq8Euyareyg1kTpwzoGXGH1E6ZamnP1LvSa6wpCt3dkpgEaF3h4BowHrwOoW9VOijm0qnstUv8Cc6f+/vBQRlCUTvEAi051MChD2q/1w0ZjOA3gRKikVBmZloWGOUsXDpFUPkvSox8ikIq2N5keW9rRzrNYvT/aVzHJfbV3CPLAbXx4Xvg4aWwCXIVtn5w2KUreQnk+HYo+h0vuoxKigZilXE7puuj8nUOu63c2/aLpdbdwWMKRYCYXMUuK9LX3CRyDWRaz0kYHRtxyZ3SISWlLIm+FKDWwTWELf9Lhg=;u7QOmxyIJ2rKxwmFudNKBg=="
+secured: "nZeowIzvXcYsJtweLMVkfV4O62ScqoBIR0mYTpclsYWDaPIQB16O7OHZctaADhOHOQwkrcDQ81btL2ZydhG22y/4h+bGXtAHHx3mZfAxVKYDA+twHn0zo+KOSPVjGwmoxwvDaj9gWaThgBdasWP8f0MzH51e76xJsF5Hs6/vKqSyJhZik9ZWgtlh5L0pvo2LWuotgiwstuNlkRpBvAYkVXLueCV3REyf4EF+0KYgkHFHnYf0DJF7751TlTE8mUi2zGvqg/cXy5BTp4AMMEDMO1+GRW6rzySXf54q4HP4Hto0Be6XdI4ckz6QU+TGe4PW9PrCFhJLvS5xEf9NZ5dAehtA6Ha0XfwiihkqDaooGkGYIlKpSeAfbyznDfodx1qQonrRJaJaSJuKfDFscUXdLw==;tZIS0HkG1ynU1HTs6otfkw=="
 ---
 

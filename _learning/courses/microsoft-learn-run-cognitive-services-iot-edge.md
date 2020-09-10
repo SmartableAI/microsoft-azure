@@ -1,7 +1,7 @@
 ---
-title: "Run Cognitive Services on the IoT Edge"
-excerpt: "Implement a cognitive service for performing language detection on an IoT Edge device. Describe the components and steps for implementing a cognitive service on an IoT device"
-webUrl: https://docs.microsoft.com/en-us/learn/modules/run-cognitive-services-iot-edge/
+title: "Run Cognitive Services on IoT Edge"
+excerpt: "University of Oxford"
+webUrl: https://docs.microsoft.com/learn/modules/run-cognitive-services-iot-edge/
 type: course
 price: Free
 length: PT1H4M
@@ -30,8 +30,7 @@ images:
     width: 640
     height: 320
     isCached: true
-    title: "Run Cognitive Services on the IoT Edge"
 
-secured: "3/07QWK4WXB3awmdhrJyMBNdu3+96izcXx/Yh+gl4AydZPcc7sxaGMz5ZvzvrFShdBFfCULT9vxUocSJy+pnPH6eDYNx9976tIyy4Keuc6NsPb8x+YBOjT9MidGRA+vQw2xmfVzB/yvFOHpjXz3g/oTvusDS3fARdbgM96cW9BZ6d6MpsO7DKRACNzLJ01A/EFagv5jGqdJwlgGjTz/6c+OJ2Yp25+Z8G3ARgvHcxMKgqugJKnHogDBJOOpYi3y2VfhYD2SL2NSj8j8LFsztEInWYQGfnyfhePGgmIJTXqFxCfx8vP8Qf4cgdc+FAxSsaNstl5ZgT6Q4nadnTINNZDrP83Vbc96AzNdEfGqS6PB1RGS1liVYvvsiYTb7WD0p/jOboP7Z1vqjITYTMS+87jIy3/fhqc547GRYhL8a66A=;N0h3mWFgKBc4BbchM6/q+Q=="
+secured: "hVAVUj8nh0nTQufkKYv6vshsBJFJ7O83hc1kSZtFYtRpFrwkg5k+wEbXu1APuP64z4szMUVHJT0iNGb7u7gKYA5Cfzw1frkA2CwGHEWGMmVppMpaS+LB9hvkB0z9pxCtmdvQPYjUkCl5xZHN0Dbb1cZ38Q1HjnA0o9oOS557E0tTidyA3wMBBIpcgDz8g5K2JuBA0qWXH0Zzd2OrnDKLSmLKBjWNruGgklgYN2fs15EPn4zoHWBHTUkSczt3A8c46ipodPVLvuLjsvlT1WF5tNhPTWqXqR9eX7aLK0ByCjybosSiGpV0NpETvj51a2712OFv7R//kF91JKdelFBUqgBgs6FPy//lFUtUjPgm82mGOFQr+/GW5D41ChY50mJBUCgI18jTnKFp4QoPhGc0TA==;6utuBOMXUFbCxRYt9BjKAw=="
 ---
 

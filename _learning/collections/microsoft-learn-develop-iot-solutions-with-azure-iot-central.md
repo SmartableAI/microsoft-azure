@@ -4,7 +4,7 @@ excerpt: "Interested in building end to end IoT solutions with Azure IoT Central
 type: collection
 price: Free
 length: PT2H58M
-heat: 60
+heat: 66
 
 provider:
   name: Microsoft Learn
@@ -39,7 +39,6 @@ images:
     width: 800
     height: 400
     isCached: true
-    title: "Create your first Azure IoT Central app"
 
 secured: "XCZpdtuEmUarKo8JWt30egMNeTkSNo7SCNK9glUfnqUqPmGRtS8FxE93uMw8fAb2Ne0NZ/wu5TXAaFrYwbCf6LJZHJsgFcueLV5AjpjnExIgBWPBxUXlE4uBzKAkwKvfzhJmW/2gf353bA0EAGZdTwyutLXNwO4sv1sFr5j2MM9SS9waxsfJsoPjECdupEhiwbHhvVTI+CCvETQKh9LNYVI3dCAwssyFUv00oMqJOsIVrIIAOfedVqJVhfyqh94kfnXQxoAdkW0VPgTm8/sfHK4mEEr4+bpyUGcF8eENOi3BBt3HygWVeoJANme+I9x497aDj/mh4PFA9ddgavnufw==;vUbfPOTaeh6NwX09Jo55wQ=="
 ---

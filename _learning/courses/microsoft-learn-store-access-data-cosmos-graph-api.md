@@ -1,14 +1,14 @@
 ---
 title: "Store and access graph data in Azure Cosmos DB with the Graph API"
-excerpt: "Create an application that that uses an Azure Cosmos DB as a graph database. Store, retrieve and manipulate graph data and visualize it using Data Explorer."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/store-access-data-cosmos-graph-api/
+excerpt: "Find out about creating an application with Azure Cosmos DB as a graph database, then retrieve, manipulate, and visualize graph data using Data Explorer."
+webUrl: https://docs.microsoft.com/learn/modules/store-access-data-cosmos-graph-api/
 type: course
 price: Free
-length: 42 mins
+length: PT42M
 ratings:
-  count: 1399
-  average: 4.6468906
-heat: 51
+  count: 1400
+  average: 4.647143
+heat: 94
 
 provider:
   name: Microsoft Learn
@@ -30,8 +30,7 @@ images:
     width: 800
     height: 400
     isCached: true
-    title: "Store and access graph data in Azure Cosmos DB with the Graph API"
 
-secured: "sKBFAvOCw2Clc74BTBC594KG1tBRlc8ugMIZAFbzx60lj3exREKE64jCJy/FT5wC1bq2E39cpgfI/XoFl3CDB4ve90FZQVkuYqczbHoElBd1AN9BuTh6xaZqR4YCuaSC+RbGgmXME80F46Xf/Fby77SzVmu4mXKdaUUt2SHcNOIjgdFQfTm7nOhNhIR/xUEDDueZ2nbYM6QQMmLgCOajOvTWAKzKOn3RZBdKm/ciPUA5iFO6C7j8f9ULl36FHXz44VD8CErKuvOrIrSjhtlXj0oTBUdE6thicIGxU7nY96UNxLx2a1cSpaPYGoK69L1ei2MgqvKA/v9XzDs4Ay8xk4HWFefLP1lMbolSaO0fKfcEQOOtQlZi+jRn0kz123/ASetGXXjnUcJ4aldBzZDXMH8ZAftnJQzGfce3J/T7W1k=;L0Wiw94/l1OB+qwlFm6BhA=="
+secured: "H/9FAmIpTC/SesjC8yl1gqx66Jue0s3SJZowXMlZOW4QRwn0pUJnHJmaiPQlCo61wHP5bHC6JB7ynuakFarMwhLvMp/sO4AhSecYwal5JjMJhSxwkk4xgKL593D/7ryq/X7BMjVOl9+PniFImZYmaH6MQc3p0bZBYCxjvNxAwXvEWnNr0sPKrQRbIPO7l7XAmADSTl0OHw2VX1Yhe7Pw3dmOq6BhX+0mYTyd6KWdzsNwm3suv++rUwRjQkxlegJlgz8F4dV7qA3rgkSWcZzLbiBwoWuglwgg0Nw/NFWGLD2sFmVl3bIuBOW3mbL6+4u8yjwF1cx5w0IM3O0fvEFDB9T233Nqr/CIevT7O9fAfMJ/iIjpTgKBzt9llT5MpHjkb1yJ17CqvJ+ssl4szLXleA==;XZQIupKnU7KE9oLQ4yq6iw=="
 ---
 

@@ -4,7 +4,7 @@ excerpt: "Learn how to deploy and configure virtual machines, containers, and We
 type: collection
 price: Free
 length: PT11H15M
-heat: 73
+heat: 210
 
 provider:
   name: Microsoft Learn
@@ -56,11 +56,10 @@ topics:
   - Containers
 
 images:
-  - url: https://docs.microsoft.com/learn/achievements/create-linux-virtual-machine-in-azure-social.png
-    width: 200
-    height: 200
+  - url: https://docs.microsoft.com/learn/achievements/create-windows-virtual-machine-in-azure-social.png
+    width: 1000
+    height: 500
     isCached: true
-    title: "Create a Linux virtual machine in Azure"
 
 secured: "MLH7Z5BgpMX9r7SUWbvVZixp4+lzYQ3var8Oe7c/gFCOSPQhlZfJX/faZAuUKcbklBkx9hMg9qEIdjt2OvmCkkvd39b55dILUjHCvpm5dfgBfcChKXa9zK2ifW4FSfRcJ/+zhO+ZMV8Gw5FvxpzjO6BLHaxjEG8xTM1KcO9xYHgPl04gipQuqis2bPhA4Xb96cjjBIsaxlriJztW3xgX4vrNFuobF5wkMK3FLwGjdeoYCrSJqTczZc+H6lQFdV9t+towRWCB7dOfcrO7Gwl74fLYYaFa5UVm9rR0w3LZ9vrbUK/aa48sGwiIRSBR24TMzGD+dehgsq05XY1zGvLO6g==;6eT9GQhAra90uPmbj0uk0w=="
 ---

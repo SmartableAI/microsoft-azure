@@ -1,14 +1,14 @@
 ---
 title: "Migrate SAP workloads to Azure"
-excerpt: "You will see the difference between one-step and two-step migration. Also, you will learn how the Software Update Manager (SUM) tool can be used to create shadow repositories and target databases."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/migrate-sap-workloads-azure/
+excerpt: "Migrate SAP workloads to Azure"
+webUrl: https://docs.microsoft.com/learn/modules/migrate-sap-workloads-azure/
 type: course
 price: Free
-length: 44 mins
+length: PT44M
 ratings:
   count: 88
   average: 4.6136365
-heat: 50
+heat: 53
 
 provider:
   name: Microsoft Learn
@@ -23,15 +23,13 @@ levels:
 
 topics:
   - Azure
-  - Migration
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/migrating-sap-workloads-azure-social.png
     width: 800
     height: 400
     isCached: true
-    title: "Migrate SAP workloads to Azure"
 
-secured: "SELu03BWaHRrDSkXjZXFdsjKWB+XT85kh+5MX567VyQJ7XdcMahz4WTF/UT9KvOti+JhQvtAPB79lYknPo20y2bZoN73FUICGIIFa8M8soDptiSLUhL+7sXLGSCg/mHgqT13/iy97L+6q13duQgNvCJ6Rnm4bh4TtIoYE4NdYoo6KWG9tWhR5CpGKJkgdUfJfYHeUjOyYJmAnPdvsgAczMQEHrYLx1gd8JjsG1r4wtCBLiH9uybKuvaS4m1iTlru6lmZ9+s0xNcteSggZNf43EqbnCgaNxv/j8aLSWS/0VQ6oRTumHzA6fh2ufWiS14nTRPaf5h5BphPWSB5fCaQqllVHrQ9J0hebtSoig05M43TWBUhAaRLQXJE7E4Xs4oMYve1iqbuQiQNv79/HG67RVAJnuBxHTRKLB2kwDXCZd8=;PqIpMh/nz5NqFfUUVSx/HA=="
+secured: "Fo6410fsaAvfI4aXpmsXVVnT3/mxskdn47Au8fry1TzIfzpxIr3iPp4YmIhNTo41VbMH9ePBYPVWNu+/i5KxqFRKuksQwtzIzVdITnldewKz7ENGxvvirwLXkVvfalHYwk7+6D3R4WwuqBWpPXUrFC7JHqNmef+uCZ59mmU1tsV6o9RxI0L9UcFzWhP9VWxE2+7A00+BiaUQHUUPC2IE0qJ6K6nJ6eT9i10n4pPIqq4rpgFR7YcW7WWB2m128IWx0WCRy3WdRXoKe48f6k5U590GyCo5Wf9VM+f0vI9Jmws7ZN3bZ/73b0FNZ0sM9ErSpmHLNntWBQwZOPOZrY/kJF4YPw0Q2kG1oKKZJAnDurXuGtlxKV2AHl5Lg3P44Z6eFl2H2UBXyeBWCZijU4EcsQ==;yITzUeyi1+Uy1ZyF7dT4UQ=="
 ---
 

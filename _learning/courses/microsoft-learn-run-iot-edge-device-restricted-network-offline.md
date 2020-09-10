@@ -1,7 +1,7 @@
 ---
 title: "Run an IoT Edge device in a restricted network and offline"
 excerpt: "This module is theoretical and will walk you through how an IoT Edge device can be harnessed as a gateway to child devices and can store captured information if connectivity is unavailable."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/run-iot-edge-device-restricted-network-offline/
+webUrl: https://docs.microsoft.com/learn/modules/run-iot-edge-device-restricted-network-offline/
 type: course
 price: Free
 length: PT2H5M
@@ -30,8 +30,7 @@ images:
     width: 800
     height: 400
     isCached: true
-    title: "Run an IoT Edge device in a restricted network and offline"
 
-secured: "AyEt+JAUOh9fuOz/AnuDwnkrLNMpM6G6xczaxYhi/IMbtKyC/IONM9+M0DbLCOb1mUbZ7jWAsO8bM/Q00EjAFp2V36vC7w0W2hVRBboJrw3Xk9TQNKj0uabIpgT8bD7mi+CJrpixtuKA1Rwz6ODbfZX9C4LGFfVLatQB5vkzjFrhlTL1ROyZjbixz+4xe3EofgV/tz/9xZKYuZnIfebXupN6w1K/v+2w7khWu8iyfgHtbaZaieO/9YcCPQLP/noymdzp/sJCO8h5x69w5+/TyiazXm7CVinFy7v6ySciarMNiZFl7SAtiX8EjJwE7Bgkqak02nDrNlVQmZTLwVmJqcdFwNqaIdDLiWV02g85sbwwum8bDk+OOz4UPE45OTQpRKxbdHIutF1jra814L+hQoWwxEDbyFn3DQl581S8vcQ=;6UQqZy0XotLlqD62Fvf32A=="
+secured: "I0eme3c5W35mLIJRwv2XQZkpE0acn5/ZQ6FYqp4a3QWphSRqnbtDKluH0uno2zHuZlpkJucoiKwhJuyON/FFLi5MYVg9pbXc0plZb3lJFznkDjFZNR/7CRAmxiHxMYc/8+biovx14/TPvw+gtclk3u2pyYGLQLlwHmtFzb6wyZTJxsRaXns2JYhw/FXlBGV0aYAT5uD6rHeWfMTOeY2C+j1X9vpSd+NcTRhOee2Djafpv2fNljZC2hYmJm3fCgd1V0uqL9hjpnBjU3ClvELWeK0/XX492enmiNaVVRBVQykllfAqUUKkZXJjyJ0xE6c8KdLLj9TTCIWCBxKpYf5z/O/6rb4uJK1YOsl1puun0otVXzbTLbeW4BzXJo2IvSHTrAKdBSlfUmckvKBn3DBflQ==;dFMTetjJ3IOGeskVAwFFnw=="
 ---
 

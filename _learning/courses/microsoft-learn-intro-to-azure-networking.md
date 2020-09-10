@@ -1,14 +1,14 @@
 ---
 title: "Core Cloud Services - Azure networking options"
-excerpt: "Running your app or service in the cloud requires a fast and secure network. Learn some of the Azure networking basics and how Azure networking helps improve resiliency and reduce latency."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-networking/
+excerpt: "Get acquainted with Azure networking basics to find out how Azure networking helps improve resiliency and reduce latency."
+webUrl: https://docs.microsoft.com/learn/modules/intro-to-azure-networking/
 type: course
 price: Free
-length: 28 mins
+length: PT28M
 ratings:
-  count: 42253
-  average: 4.7640643
-heat: 99
+  count: 42255
+  average: 4.7640514
+heat: 289
 
 provider:
   name: Microsoft Learn
@@ -25,13 +25,6 @@ topics:
   - Azure
   - Networking
 
-images:
-  - url: https://docs.microsoft.com/learn/achievements/intro-to-azure-networking-social.png
-    width: 200
-    height: 200
-    isCached: true
-    title: "Core Cloud Services - Azure networking options"
-
-secured: "CmJvjDr6DwIcLLSd0yNSSVB402NyftTd9kxt2ZiQdIhpr+OlGzwFKnsLfNgQL+zldJqfgWJKWxqzMYfXuNqM/7GmBuUT8PDsfphTbnErSvH2jmBX/MM6HpxnDuA2uDFH7Qj+9TKe33NP+bug6aDeoEKcSaYyzPoJg8n2BZiVN6WJjYhNNryp0nI4ji5ruCvWdiTQYd1vyxcyhnV7JFjkA8g/06BSfwotGvThSAOOSCmHnikjkp34w2iPXwgSVZ+yw1wWYohJeNVwdh58XR5kuKP498aijWMIiodnRjHw9Ep/BDQ3O45B8iACZ1mx9f2BB/lhHy3y3eiZAGm4tSKrCPAoVJOkzR99xi4viZTVmaY51zP4Kz3VUPtM44UvNTV41oZb3bta93OU/8wmy1SxtB6Mmt1ZCVRyGT4MG/5vT9gVnVlVHU+aceKqeWsznVsp;Ewl5GT+4Jb7OXQJ97x/2Iw=="
+secured: "Tx9lqF46WMTcGsNnK+VFfXivKiHHK+MMQzosoorJVqazpamQUNYKvJUsTCBzllc1AREgjGVXwRZi2tp2Py+32S7C/91jRsOApF9LtQ5Iu36lwwciGa9QGGfq2PP5oTlRqxk5rBuvFnGgIQ4lgd8YgYvmgL+56OWefM5gHy/3YZYRFuicIiAzkdm5oWRXhq/m7ifwtuG7/7KyXaMRMy8WhlTSKKjK6kN3Zwk5qESNbzyX7rkqUoLAvVEHnLTGHqo/tdj64yTT8uCJdOFJUopuq061yuyfwe9BWM4OrZ2lwn3/yMnJPrZWy2A8CmArxNhe9Kezgh8FcEAqOc7CC/ELItZdqEfz2YKIkC78hXiEEkADSH+iDrM7aNoqfUj/jQpt/cER/QvyO+z6AWWXylar0Q==;g5Y6Sdi5q5tMcgq1zs31Mg=="
 ---
 

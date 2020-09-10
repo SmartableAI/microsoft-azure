@@ -1,7 +1,7 @@
 ---
 title: "Extract key phrases from text with the text analytics API"
 excerpt: "Automatically extract key phrases to quickly identify the main points in documents or text."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/extract-key-phrases-text-analytics-api/
+webUrl: https://docs.microsoft.com/learn/modules/extract-key-phrases-text-analytics-api/
 type: course
 price: Free
 length: PT18M
@@ -26,11 +26,11 @@ topics:
   - AI
 
 images:
-  - url: https://docs.microsoft.com/learn/achievements/generic-badge-social.png
-    width: 640
-    height: 320
+  - url: https://docs.microsoft.com/learn/achievements/extract-key-phrases-from-text-with-the-text-analytics-api-social.png
+    width: 643
+    height: 321
     isCached: true
 
-secured: "frlbJL16d71QtpNQh16tZs1d2n7buUrFjum1RlvmJSnI80zM6yhyHPJ3x2WKPrb5RvFdScoGqfRPcYlsHSDDc91dnVEBFqBYZKP5ypUvmt3ZZBudz0jPOXZ22vgs+ZUYKSFsFO7qZCIELn4t9M8msS+1feIf/8/mHKniVfH9imdQerNq82JWWAWKmWoFOnby8i4ixXj/ctBcRLImim4Qdn4VeDUFBPAtZu4vy9mUtPtTegysPDdWi7xuSmruOvvhG0eDz/6W8Ac993qpmhsLMyZMKP6rZhcZ8fDtKKOz2Grs9GCyN6gjibbDKzmlNhZ0FmBbdVZAobjnri8hVT62s61gEMm50Xdqi04vOBUCD/UXws4MmgWE7fU+29q3lZkt+Pd1VUaxj1nMB/0DbVrQGejsJnGHNlonprR7piCEFbI=;lGIIuHgUr29uLoDD652oiw=="
+secured: "4qikL4qCDgqKkAQWP5KGZ4mDaPTceG8/153H0iYl43OLF/mTbB0lqbcqufAzN1tJxiCZ5mOodVRGReqaaui4dGz9oDQNoonMJh/BOTMMqvNbay26UzykHTdp16pGaUfMnM56g6OlGhNZ1ZzR1/ppgNJ/nxONuoZoviUnvQxqkZlnZdhSVJz5VnvF4uHcAJX+fFzRGcNME34WNt2Tps9cKti71Q0fRwmmhlTaXBQjoLpmv/Hz54WM4Ww0Lzd616uarpvauDjSmRGvkCMwQfWHwkGy6L6VtOpUYYqHjnrMzTwrtkXWebgkTGWSR5TjudUeWF0BC70FWsqsC5ysa0PUrzyNPlldWLHI5p2eOtcd6F06HfIijMDzt/Aqq5tNkS48+7tMOtyPHnNAhHPlq5g0CA==;HAaBAk8102MUouKrLsSKLQ=="
 ---
 

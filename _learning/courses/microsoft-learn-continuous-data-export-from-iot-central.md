@@ -1,14 +1,14 @@
 ---
 title: "Set up continuous data export from Azure IoT Central to a Power BI app"
-excerpt: "This module covers continuous data export from IoT Central. You use the scenario from the &quot;Create your first Azure IoT Central app&quot; Learn module, where you control a refrigerated truck. This module adds continuous data export to both Blob storage, and an Event Hub. Then, a Power BI app is built to read and display the telemetry data on a mobile phone."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/continuously-export-data-from-iot-central-power-bi/
+excerpt: "This module covers continuous data export from IoT Central. You use the scenario from your previously completed \"Create your first Azure IoT Central app\" Learn module, where you controlled a refrigerated truck. Here, in this module, you add continuous data export to both Azure Blob storage and an event hub. You then build a Power BI app to read and display the telemetry data on a mobile phone."
+webUrl: https://docs.microsoft.com/learn/modules/continuously-export-data-from-iot-central-power-bi/
 type: course
 price: Free
 length: PT1H9M
 ratings:
   count: 42
   average: 4.6190476
-heat: 50
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -32,8 +32,7 @@ images:
     width: 640
     height: 320
     isCached: true
-    title: "Set up continuous data export from Azure IoT Central to a Power BI app"
 
-secured: "b1hbszpd6xccDQrXPxj3GAuaXV6fb9oq1PZByoCH8Wm8ZGvEnnE8uRaJzfwTlnieY2y21EERyJuvisqbzi3Q6Dk27aOzSYtDlozv473QRESgMtQaYwCJUK8ipon7XzAICopHYYjtVD36MrtAnHT1K3mqUlt7ictCWPyBvCeziWKTow3GQ58cLCDo+9CdEWqRmIAZLS2Z8E/BLHP76Crf1ZT1o8l7Q7PaOJDKsbkAyqANQgX2yorVUod28O6q1TmCOpActVHkCXhzPtMgC9QSuleOSz/2JSLGgmDHb6qgWHN/hIJnihLyu3Evj+nC11fbVy5DGPrF2tSG9sERBf5LXckJYTOPqDW9rhpCBgrYaOYrr2ktL4oNnV2Yq6Vy+Xca6KHnwVWkd17hvDTBhXwWD9saZIcszGRhkKQXda/oC1Y=;NwKIZgCmlqAEW1DRTBL36Q=="
+secured: "UdIupIBkt69gYt5HEygo6AKwGx4vhEPwAiJiM83+EzkeowTiDKcouoGoopBTszMAbFeUH3AR8bwUFmGkDcAO3fdyi6G8SyMatA6UpMZ9Ht10MgiQfoHTPVI+bhJlia1kEAnwqUHtLSm2Q6VRbUWUzLNf7PZxvJFte7mEd1YA38maxH+izrqYkmGLm7Yu47H/6j1FzE9JX+pUlgXpxlBqt7HxgPe/tTZ11ND84mLa0/2YPHa0Z/9HGPAPiENzjJL9PNuyM6UnQyj9bSwWrxjKfF962DXBp+7tXxqYcbRu0UwaQYBM6Ec6VD9rmIUt5UEer7PwsqVOpZtQbO/+C5MLiZI/MOQ7r6zW2E0Ki3yxfupkVau0p97OQZUxmcPH8SuyLvEDvjyeX7akBSbzlyPAjQ==;VQQ3ar2JceOsiHodm/vz1g=="
 ---
 

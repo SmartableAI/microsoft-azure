@@ -1,14 +1,14 @@
 ---
 title: "Survey the services on the Azure Data platform"
-excerpt: "Learn about Azure technologies that analyze text and images and relational, nonrelational, or streaming data. See how data engineers can choose the technologies that meet their business needs and scale to meet demand securely."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/survey-the-azure-data-platform/
+excerpt: "Explore the broad array of Azure technologies that analyze text or images and relational, nonrelational, or streaming data."
+webUrl: https://docs.microsoft.com/learn/modules/survey-the-azure-data-platform/
 type: course
 price: Free
-length: 58 mins
+length: PT58M
 ratings:
   count: 4148
   average: 4.6873193
-heat: 60
+heat: 141
 
 provider:
   name: Microsoft Learn
@@ -30,8 +30,7 @@ images:
     width: 800
     height: 400
     isCached: true
-    title: "Survey the services on the Azure Data platform"
 
-secured: "yhJsE6mR20+UMeg2+GKmgHUYwk6TPDbzn2Blz1OqP/YEFlHG0HYPQKo1oJsiqRjrkcfLvJHY0spQZIQ6pPnbaTjBUINZN3BAGTFVpQs1hvpJALqmoZqD+Um7GsjJkLG4UKKmgGArWGuEe9tH+Nldlvltr+UmLgzp+bMdg+FhYiNViMMNNX3wfFjP6GSK5Z990xCBj+e1VDzADHEn2fJOnB/WpKmVsPhNlKLDtxv9yo9v5WnHOoVpvMP2ChjSkmfvaDnjL1GdmiRo2QY5BgwjNvFBQi+fwgPNT4Nr8tuhfKwd8T3mvgTZejWlNk8Zm4sEJmJmH/FApl+pzkI51PFeTX3itnLVtH2tR5/hxgbkMz+YDJzoSpzaZeKLsglZ1enreWyjbHju2ajg77nWKEZlneS+OI9tjEuNzPp94r0LkpI=;1iLADxUtHVqIAJ5sB/Czbw=="
+secured: "bbKBytkxMctw6PGVdsD0J8eoItz6HgZCn0k89vqSSS9BV0ScO+apn3pD9M+rg06urn2VvWSQIWPt/Oq5X0vfmemIaUVkMBUyw5ljh2s7T/TZOMp45yFyVwJwHN0nyItrLgiNh01CofHIHNGPulRdyaUYOhu73/xS7/4z6a5TUQXaxzqxpzO/NxnnbIUDxRI3b81nicqopbTH4/N1msNgh25cec+j8kSO6/36tbPXXr0ShWfdPzMS3E7p51NGAt8682AnuHqM00mwlCmWrwKVphNSp89Br1I8bI7ZiklFik5QqPaN9Iq3MWwLIt87pXigT5aYYKuk6U+ghB2hSI6p5wYJVrcPHi+LOcBt7CRueMUZEZtBpiCg5BQIJw6KM+letrupOc/Zri9pGtlaDsCe7A==;i9NNbj5xOXV41sYOG9saKw=="
 ---
 

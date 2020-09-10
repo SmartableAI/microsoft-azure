@@ -1,14 +1,14 @@
 ---
 title: "Introduction to Azure Functions for IoT"
-excerpt: "Assess the characteristics of Azure Functions for IoT. Describe the function of triggers and bindings and show how you combine them to create a scalable IoT solution. Describe the benefits of using cloud infrastructure to rapidly deploy IoT applications with Azure Functions."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/intro-azure-functions-iot/
+excerpt: "University of Oxford"
+webUrl: https://docs.microsoft.com/learn/modules/intro-azure-functions-iot/
 type: course
 price: Free
 length: PT27M
 ratings:
   count: 61
   average: 4.639344
-heat: 50
+heat: 52
 
 provider:
   name: Microsoft Learn
@@ -30,8 +30,7 @@ images:
     width: 640
     height: 320
     isCached: true
-    title: "Introduction to Azure Functions for IoT"
 
-secured: "jfizAWM8+RnbywgwHfxU5iCg1Iw/kHMMLCPTtduhxKBGf87j2W4f/0J0CEiVkrZWhfgZnin1tjq27VWYP4JK0H9TBe9DB+qDFDRnwZB+LwpsirdcWMZ+AHw/5e+RR5IxE+nOe981nGs5inQm++Uz4gcPP/2WwQwQJ4mbRTOFcpu5u1r9xVugZQjF4V8GeQQw76WKJN3NyEMZyZGB2poMSnaDz0HkHsCPf0VS904isSAwqByvbKOvwgyy71K4ll4vq6eE504/NyvJkyCbXPrVXiyjq/Ayweo4OA7yazfIgFweV9xMQVEmU9Kv8alfQ2y6bHrVckjDNHi7RS+YfTFMW9UppN7/CJyASCrfIvf1+9yYEpcF8Ayo495CS6V6eInMdQqkpb1mL4N/EKbqLAd4x3qv/DIZlWSX3P5nu3lpN5U=;18DHwNUO/cz9hW5F4NwKoA=="
+secured: "Jcomt2tb9c6DJ9V8LVYvwkrqoqQdVDg9Dq/CgnRDVtPeNydd2w2tP1kOR1ZwBswwWunFg+O2Y+jT709oo7cUabT90LvqSWAf+jKFd6cKl5Mq7PgAJIeAuiu3VzY5Csn1CFCoAGXbO8+KN+mMv6hn6pUNmNyCBmBPahlk8bX8Q9+vzvohKivF/EAXyOJKZOHLHyyVRpGNmWcAyQA0VXQIV0D+0S/PlhlLya4pwfDk1iXcXnIrfwPZejUe6PeCDNSrd1WTokAY1FFUM695Mf1xVTFdzJnpjWDyvxbSntuU7yGhgyQPFbcBJ70A2FNnp2ADaPzLCQeSiulTYffkL7EeIf5X2LDjgpumy4BJO0Yh5bK9r5jI6pyuU704OCDDsebiB+LPI+KS/po/3WtXhrVqYQ==;pyjL3Dsc0+6OWAJgDvZDMw=="
 ---
 

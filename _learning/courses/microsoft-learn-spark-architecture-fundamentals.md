@@ -1,14 +1,14 @@
 ---
 title: "Spark architecture fundamentals"
-excerpt: "Understand the architecture of an Azure Databricks Spark Cluster and Spark Jobs."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/spark-architecture-fundamentals/
+excerpt: "Spark architecture fundamentals"
+webUrl: https://docs.microsoft.com/learn/modules/spark-architecture-fundamentals/
 type: course
 price: Free
 length: PT33M
 ratings:
   count: 249
   average: 4.626506
-heat: 52
+heat: 60
 
 provider:
   name: Microsoft Learn
@@ -31,8 +31,7 @@ images:
     width: 640
     height: 320
     isCached: true
-    title: "Spark architecture fundamentals"
 
-secured: "ITWzGfxQMmIyEJVxrre4aL3nX7JM80nJDhN/taH+RLTekuhDADPTJgb+fnmV7Gc0Mixq+9XJkYgnVU6n0ROG4O6fariLt0PMYIDwAFyr6DXtcKQ4G5hfjcnDyhZFITXcuqm/eP8lGXlK7x7SwZ9Mq2MjrRr5xoiM6AaGNKxoKKB6rpLX2uGNiKKYuaG5l3SsI7VQqUa8zAZq7DAaLQTcTfwlMG0Ppf5i2DJsgj/4vQI/RWLmMlWVR1w/13+DRfTqopPTDc5uoFWdK5fgyF0ruApBELi1xQ8+c9oufz4DV6LDstCwzhGgvX+V+XFUqHtT5s5gcF8ipTXAn+OAjXQjj2tYb8zKS024P6OxPIP2vJNGjeuH+HJG5MdUyRNRxnwss/SrsH/t8QBBUq0czodYuNm6IB5RdA0LvmcJ4SGHHXU=;+FD+b//EhPJ8y+oBO2pg/A=="
+secured: "uaZzK8YDR4YmuEwv+0BX8vdZZJ1SqJDKAwqdJHZIM/wdHiXre5nmwaH5IwlrYk/Ua4cyzpnrtILQvDxdzz26Fu62b2zZ9KSF6Czl34ivuHWKQF1AlL7w9vwKlrs/l+ZvIz9JMZdzv0LWsRkowIZtd1QaYZQ8fZ8YvYisTA5P9KMd1AiadsNSpCN8YQhQD/drnnI/CIvnYEYV15XmEbQO2vhJ0NTejDLNe4Do2tkWTiRhN+U5SCSf1aKv6AyLL7yKpQKmvQMash45tfF5uXOSzbf+YZJhrE3mXg6/qsEcP6b41iYwEZPPCouQDACbjxxF9jorq7VYQN0PVHc+VNnGhlDpFLlo2jSI1tAuEUwIL+2MD/HPJjbSnmO1JrIoDjJea1AQoPPWjCYM36XQtOh0iQ==;ej4crSUdrqHpb/tfMNMfbw=="
 ---
 

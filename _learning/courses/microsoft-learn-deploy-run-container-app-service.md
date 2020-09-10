@@ -1,14 +1,14 @@
 ---
 title: "Deploy and run a containerized web app with Azure App Service"
-excerpt: "Create a Docker image and store it in a repository in Azure Container Registry. Use Azure App Service to deploy a web application based on the Docker image. Configure continuous deployment for the web app by using a webhook that monitors the Docker image for changes."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/deploy-run-container-app-service/
+excerpt: "Discover how to create a Docker image and store it in the Azure Container Registry, then use Azure App Service to deploy a web application based on the image."
+webUrl: https://docs.microsoft.com/learn/modules/deploy-run-container-app-service/
 type: course
 price: Free
-length: 46 mins
+length: PT46M
 ratings:
   count: 3674
   average: 4.6262927
-heat: 55
+heat: 134
 
 provider:
   name: Microsoft Learn
@@ -32,8 +32,7 @@ images:
     width: 800
     height: 400
     isCached: true
-    title: "Deploy and run a containerized web app with Azure App Service"
 
-secured: "EBL4z7qC5AA2uMA9324/GHVSru7qP76roFO8l2iejtvno5YI7+0vUwoDEIlqmGBh9Nlm8wUeh0Aky38ywFPX/A9seqBgzMbYIXMAyFwOiCLJumwvZkwIHGYdgV3i78p4ZYVvCqN1H9JXs0znmrl8pKWVUhiMo0YAtIp5lXDashkapTFuj5zEUVrGM0MhWTo/6eQwRjr3ughj7azL9Gl9E2fxPi9jWk5bnpgiG3+uSJzySDfc6XxTIv2y89yK4oZw6373AxwliXUtluAZVNCwCA8HNgUISFpdCQJTPY4044AQKZTqftb7emfi3olJgD1qVefSEABXjezW7OzE+J0AlABAo1+RKEDLmJhrlF1ewG0KVVu9w42BSBu7U9fQ1rbegcbH8c6O60X/SnFEqZYqNySVxnYxJnYAomtBAnQ4CO0=;BTZGfHuK2qLWN17I8eHFWA=="
+secured: "o0GBpWyJkmYr4mkV8nvvsUtmXlb+KIihfs0imRMiFVqxjefdAz6iqreBBswCTILPJ6JsqgGw5JtxDVMNjmFpBKPyxdiz2Ghv/yKzQdqzfI7f5auwjPyydufAg0MXAMjpKreNLiKijeIiCbI/HGJMQDxmq5TVQim5Au3oTPgFJmLaXmeKClApeFQ2rQI5fWHr5tBiohh0vqGjptg2B7z+g5Q1DRDN5Ek2exxQrdYHEO3/A5aNckgZXSJQnWCmK2l56lWykTx+zgzoir05sVXmUie4HtkJk8+lXLGDBarkoA3KVuX+fkeD77MEQDQvPUw07yYG/j+H8SDuVkcahg6OwMgVhwH/wh9evmowVbN3nqjTBp7FsjjadlyApeaTm8As2JioNxHEl6RwSdR7swj7Vw==;/M7Qg7gPFSBB3UMB13njCg=="
 ---
 

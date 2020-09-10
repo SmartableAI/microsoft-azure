@@ -1,14 +1,14 @@
 ---
 title: "Design and plot graphs in Python"
-excerpt: "Learn about plots and graphs in Python"
-webUrl: https://docs.microsoft.com/en-us/learn/modules/design-plot-graphs-python/
+excerpt: "Learn"
+webUrl: https://docs.microsoft.com/learn/modules/design-plot-graphs-python/
 type: course
 price: Free
 length: PT52M
 ratings:
   count: 63
   average: 4.714286
-heat: 51
+heat: 52
 
 provider:
   name: Microsoft Learn
@@ -29,8 +29,7 @@ images:
     width: 640
     height: 320
     isCached: true
-    title: "Design and plot graphs in Python"
 
-secured: "hFisC9agPx1IqjFeztDhXn3NWT00/J9hCXirbBnuvtpiK5u1dgzfBIvOgpmMpZKo8Q7Guof0P67b3p9BwnI8L98LkIAmGQvRbH6OEG6OVokl1sJ/n0vIOH3StU7WuVKC1gup89oDFBCUuMDW5NDyKSsE0UDi+dQalf4eMVb2rW/jPfP0CK/JRo08VmETikTg34HmWbvf5wYQTydaJ57KLPT0d5ws5+SK9KMYQJbbFDE0RlBOjbfLLjMvHHMTzAnUw6WSFum10S2oxfAi1wv1qV8b3qk+HBGmhECZyl8jLEVWlu30tbA4AgqfIYbc9X05jE4EanmostaAiofYtR+ng9fe/hdvT4132JmfiEHDe6KEzuuUS1dHohuNipf3w6C6/C2a4Kqc2qPRxq7qRc12ujfmxswsJJTncWqjuKphDMI=;eZ2hjEIUxH0smhCCaZsxkA=="
+secured: "EXaYeKhZ5pkgpwFHXpMPfFoyIXHmK5A49/OpWmQJWL/BZWsBL2ghkYIhcXZ/0RCuCMjFMDpS8gcxkD2HrBjGdDVx7gSSehgFDSKLVQ+zSwzTRR74UjxQ2WWnQz8C7u+CLGt7WwQtAcrWsFWw6G2BJWn/OXelRKZvAeeZq6pVCyGFUblXQZ7X7IQ4t+OnDV8f1gH4GE1etfHx3GF/jyXimaVDHWU/Bho1/nP0tgY11R+SQ8BK35HsedxVCaj0lm2SrpERmGWbwsBibPalmqFjLNZZVMK03NMPIriTrk7bet5caVvSEHHnfdc4bLDr6I7wdzG5lMO9HVgPDu9HtRGnEo0rN1zbTG6sivey9w7xwOow3P7C612mdkbRS59mksHk4pEFhTNAGDiKtNVW893ntw==;xFJ9NCjObSXRnOudXotoqw=="
 ---
 

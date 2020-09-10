@@ -1,14 +1,14 @@
 ---
 title: "React to state changes in your Azure services by using Event Grid"
 excerpt: "Build a serverless application architecture, automate your operations, and integrate applications by handling Azure events with Event Grid."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/react-to-state-changes-using-event-grid/
+webUrl: https://docs.microsoft.com/learn/modules/react-to-state-changes-using-event-grid/
 type: course
 price: Free
-length: 33 mins
+length: PT33M
 ratings:
   count: 235
   average: 4.6
-heat: 50
+heat: 59
 
 provider:
   name: Microsoft Learn
@@ -32,8 +32,7 @@ images:
     width: 800
     height: 400
     isCached: true
-    title: "React to state changes in your Azure services by using Event Grid"
 
-secured: "RFT8lu4vlnR6bWCPOcJPCPqdKgQIJElSYnPb6Tx55GrjDlpSPrNsT9NB80mGIr1IsN1q47W7UXh1qtjYymFq+FPTo7UvQ1kZgGtHBCAKupScUxDWPtSzu3R1hPDdwZrQ8M1eMyJpRiHTCz6nnO2nd34TBr+FVsHpKlt7VjXpVmBO+1Z6O4KWJ8NPS3r+2Vc4SR3ynd6ywT8XlYn6HRx22a/WWItXYAvqjkr6Jf45hajPcAZgTnh4KuD/xBhn54mdC6GiRp1cYrBtmNVAXht4KTgvjWi87Ynbp5Z1vVMdlB8cuAPFeVYtc6O/FLSe3XaGhgNwqHbjsDD3jiSsByXdoH45ztQkBcRxL5BGgnsyoT42nUkNymyaRQ7xbpsKK3CyZshR5u0kNLnIhkVMjTQsr6sOpJktr5NHLVnS3ObxR0g=;qBoha9xHpOEDiVevyptePg=="
+secured: "IfBGr3QstKGD7qIyPC4DZsyTswZKABJC+nnHjakMlZulqyzbQFKHBCfzP+Puo8yAkHS6ARxXqV4pN3Oy3XxrXl+TvbqTaUBcSTSHPDFtawYW/sDSadDprsCGaX2gfq1xGUTSi6Azx10k39NErECVaVcKrElc1X4BitSddZmObDYnRialbjF60+NS/H2yZ97qJ+AcZU0CrVPPTpeT9pJMgB2NDM1yYM0IzqcGWZLcM+IATOYJWfXBWtFt+23hc1El4rJwKhHpKaUDrcm2tfmPydvhds8P+x9pxTxBRE/8lRewbj8F3TrVHWg3bBMDTEQxok8rKvRcxPfSUN4NumhPAL5Y/8m4lAZ2divPMwxbE845b/vI4yAeIlLIJg9Ax1NFCkhj1e/k5bZVGTY7L0e30Q==;6e+kkfY7HyB4ZB0roZd/uw=="
 ---
 

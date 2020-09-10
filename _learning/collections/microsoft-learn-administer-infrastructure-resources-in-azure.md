@@ -4,7 +4,7 @@ excerpt: "Learn how to create, manage, secure and scale virtual machine resource
 type: collection
 price: Free
 length: PT10H59M
-heat: 87
+heat: 244
 
 provider:
   name: Microsoft Learn
@@ -53,11 +53,10 @@ topics:
   - DevOps
 
 images:
-  - url: https://docs.microsoft.com/learn/achievements/intro-to-azure-virtual-machines-social.png
-    width: 200
-    height: 200
+  - url: https://docs.microsoft.com/learn/achievements/create-windows-virtual-machine-in-azure-social.png
+    width: 1000
+    height: 500
     isCached: true
-    title: "Introduction to Azure virtual machines"
 
 secured: "S/vIi+GQXcLLlTi/wWL0oXS1jZnuMYq2oEcJx+YHWFonqC9G+ldxjlITvHWVk2+IFVDYnaP23V/2u8940gf6RHdMMubwObvsRNqmsziXYrfKfVszw+pYSZsAydhgvHnVFs1r+uN1N6kD8q/WarSftwEhsZbNBzw7l41DDonVkH5AQwN2M/xWfCHaDNOun6vvDP0U6SEZVpDHv61el/AmEd2cj3v9UCQqrMdQlKTlAd0Nh89fmyRVG0fyqIkkntPDwqOFR+g/PZgaKLimYfq3FOXMOcKFw+g6icnUansfQxampUY1f6Lg6kG46H/2bKGKokDC3gnJnB0GOnrfEUs9vA==;MHSwYhnStTOhmfLmo3vS7Q=="
 ---

@@ -1,14 +1,14 @@
 ---
 title: "Prepare your development environment for Azure development"
-excerpt: "Set up your local development environment with several popular IDEs."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/prepare-your-dev-environment-for-azure-development/
+excerpt: "Learn how to choose and install the appropriate IDE for your requirements to help you build, deploy, monitor, and scale cloud-hosted solutions."
+webUrl: https://docs.microsoft.com/learn/modules/prepare-your-dev-environment-for-azure-development/
 type: course
 price: Free
-length: 28 mins
+length: PT28M
 ratings:
   count: 4700
   average: 4.6931915
-heat: 56
+heat: 148
 
 provider:
   name: Microsoft Learn
@@ -25,13 +25,6 @@ topics:
   - Azure
   - Developer Tools
 
-images:
-  - url: https://docs.microsoft.com/learn/achievements/prepare-your-dev-environment-for-azure-development-social.png
-    width: 200
-    height: 200
-    isCached: true
-    title: "Prepare your development environment for Azure development"
-
-secured: "tdP5vOY8rLM07gseL65phtAQwn1PSn/VEkls93ZNQcj8qcC48R6qO6AF+6xXuwp7gxJGIux6SLjwzJgNxWAW+m1LlD3La5r3/s4OqvABrU/cwx+mWkl3e0mURRhBjWbtkFCD99dk/l+KYkGKWQT2JlI4o4T2CdbNGImK61op6nfG9sp4goBULvy+9AbzF09ldF1oI7cuA3eEu6S3MoGYUq8h64QJID7dKsP27pY2YD6eV5w1I5k32CxkA5ksdYacHTnFpFFMKxBoW30MA7A5gSq4Erp5bU5FIHrgyF17C+DX8oG+e7JCJDQ/DFI858kTEgcntvyU44tjtXPqEXUXWeTKGTHxORQYa9kFVxO2M0pa0JPc6g82abccAqzEGvAhSAOq5J7AnVL/V0aQs5h6558n50EosBi52uXFKWUz1l0=;XuxchvzVQ4Bv6oC25o8Hbg=="
+secured: "5s3x547wFHp54anXsjfvGCCDqb1b3X/A0CWZTvxZSC6XewruGDF+hqBHZ3z/x360q+9D+j+09bAdx2SuMaZdGyTa36Bu+vtktNlhfQKAFeRx2gTbj3WtB/CQWV8cPJLi0KxtK1LQ9xTUBRbqo+WmCyf+2Pg8VVv9BfNEcS4Xd9y60URT8LLe6F7hcaOjKfW3btmHMBjuYKCBPhBxDA3NWjXxC0LZtikbenUZ3DuX9zupSZ7mqqyNL2t9Iro9ngiwI5v8vTXQPUv7CTLcUQUKURjZjXcqUf05Sma9X9cDA+rfwNwTvQ8rv6HuOrLrFc9o9QctILomBQ8+285aj65OUBss0BgO2Ntq2Y8dN9ZZmDQnVP6259BWtZjd8sZmvdv7wcehhXXcL1x3BRlqMZgxIw==;yoWi8d/n3PSVy+4Q6+dDWA=="
 ---
 

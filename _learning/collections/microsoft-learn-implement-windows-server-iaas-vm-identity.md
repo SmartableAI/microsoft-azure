@@ -32,9 +32,9 @@ topics:
   - Compute
 
 images:
-  - url: https://docs.microsoft.com/learn/achievements/generic-badge-social.png
-    width: 640
-    height: 320
+  - url: https://docs.microsoft.com/learn/achievements/implement-hybrid-identity-with-windows-server-social.png
+    width: 642
+    height: 321
     isCached: true
 
 secured: "JTaxhSeI0PSAsWMfoBktJ2u/eoCcT3pY2PnWm+3ppDFNvDfKBK3KFYGlpAKhk0wAKvQU76kyjxkfLLId5PVDjfosv1HsFygK4vvEfLuZnNPpbHKy7+TwbfaAFIrr6DF+/FCJF+1FbiB10HjCTs6u6WZh0c2gpERGZvE8hUbnMid8LIEQX/FUooObPJ+Z6o6vHMKLDqupSwcmpL2qDbAJ/WgUYF/RZZiCcntOYxW2WH+Yt1kJgUWlZgV1l6u++gzC2YqglzgxqtCFVdICClzm3zu9p2X7ExhfurvsNYHm+wj0uOUwi6ZCBJFAdyP6uIVQpYkL4JxyZ5pK70PEADH1DQ==;dMjyXgw5sMIEIdIy2m1INw=="

@@ -1,14 +1,14 @@
 ---
 title: "Make your application storage highly available with read-access geo-redundant storage"
 excerpt: "In this module, you learn how to make your application storage highly available by ensuring that you can fail over resources if there's an Azure region failure."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/ha-application-storage-with-grs/
+webUrl: https://docs.microsoft.com/learn/modules/ha-application-storage-with-grs/
 type: course
 price: Free
-length: 34 mins
+length: PT34M
 ratings:
   count: 1226
   average: 4.4779773
-heat: 55
+heat: 89
 
 provider:
   name: Microsoft Learn
@@ -29,8 +29,7 @@ images:
     width: 800
     height: 400
     isCached: true
-    title: "Make your application storage highly available with read-access geo-redundant storage"
 
-secured: "paYc+mLGcssWeSRNAvFFhsJ2y8yYP3dKpTHPfT36dDwK6n1kr16IAwyaZ5O++gAm0m/bCYKxpRn/i6oZZB22v6DRmoN6mzvwU3K20R+q8n/RoFOdhXjDuROVYignM/dWvrY59oeOtZNCiRiVp15t/w3xaFCmm25RK43WAtkoe7pOo0mPskmTE8JmR8JA8s3RxnzSSZ4epQ5CGm8TwN33O2ACZZPFCTi4l806XBITFWygmvXg9gO2RCTuTkwd1NVzLsYw9Lka5ARzI4eq8+h/D6mssN+TsdEOWwTIJTlJUXx6mUqMMt1FuYnR6yeoM8GU531F+ufXVk7gYArkGA/DYq5ZxoT+l5mbmgwTVY3GyejyxyPSt6qqE91Kg17n90DBwGH59hRfAAXuSUWjUx7GVcBR77VcNduIn7TJKspa33I=;X5ioIdnBNWzJ7RiEx8KJag=="
+secured: "VhwWP9iLuZaPM4gbxPoxGd4PwZzrmgo4euSRHeKr+NnkTGRsgrmozDcqNlJCNeppF3y+1viU7aZ9SPAbiroTYahHbwWFnUyADnzSe7Njl27d/NEjU+tJ8ATCLPY3FLCr32HTxFXm/w2PW66gVmLvGjJYwNahdhwNMGngtV5UiSR0OS/pth2CGoZYI9NciWAMG1n/C75Lbm75OsYLrPA3F7Aa7KPMcDhPWpWOiJ7ZwGLjVyzVaHcxKSrlJN7HaGti+qGsQINTVVrFiNt9mTutyk28A26vmtifPePZBaJIWxLEzgoeDKQhrr2ys/Ddrs/6rYN8YS+p2L1fem9y6OlyqbYbxsGfkh2Fi3RNQt4JmVZIMsYVhU/iCOtzb65Pnza/b0nZtswhfZBDvz+wEI7AwQ==;mDKpt/1O9kbL2bkfvVs2vg=="
 ---
 

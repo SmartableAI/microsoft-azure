@@ -1,14 +1,14 @@
 ---
 title: "Enabling digital transformation"
-excerpt: "Digital transformation is a business innovation fueled by the explosion of the cloud, artificial intelligence (AI), and the internet of things (IoT).  and allows organizations with new ways to understand and transform their business."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/enable-digital-transformation/
+excerpt: "Digital transformation is a wave of business innovation fueled by the explosion of technology—data, applications, and devices are everywhere. The cloud, artificial intelligence (AI), and the internet of things (IoT) give organizations new ways to make sense of information and generate insights to transform their business. Realizing the benefits of digital transformation requires business leaders to look beyond technology to reimagine existing business models and embrace a different way of bringing together people, data, and processes to create value for customers."
+webUrl: https://docs.microsoft.com/learn/modules/enable-digital-transformation/
 type: course
 price: Free
-length: 24 mins
+length: PT32M
 ratings:
-  count: 8351
-  average: 4.6993175
-heat: 69
+  count: 8352
+  average: 4.699353
+heat: 181
 
 provider:
   name: Microsoft Learn
@@ -29,8 +29,7 @@ images:
     width: 800
     height: 400
     isCached: true
-    title: "Enabling digital transformation"
 
-secured: "NkB0DJzpw/60hEnRI1n0JFtNMt214MrLZH57r/eKsdmnUm4Za4DDwyve23oIM+mEsqIVa7B3TCKsr2DdAZVu1Q8G/Eg0DiRO2s0RYzLUidW0/alMqxtphMGFuRsFJjfwsYJk/KdUKZJqZfuHQQa52ezg3WrybwblwruSsnr427DSGr7Z4lQqtAeJdmN1Gxc7K5lIheo3Av8tUtnPPmADRQHMkKqzBQ01GhWif5ZC2jCEtG9r0q/GrWhtKkuyMT1/0llJiPCDQpjCflr2k/wfUUKxAzYsB1UG7T3PtyniObqKibbYz4iDqNOOfIisbUdgh7Dx7InCduLBwoQril8bEENG/oRDyo6Z9Zmtt0dN9koq+1cyN7cfnzznBSsufhL8KVrL6ZvoP8AwZMrGoPbdw7kQaKobWxEVVgQUtPzNQRc=;XrhVJaeaKhCfO+XbiGk68w=="
+secured: "rrTcBDoSu7UMyIibMnmHu0BjscMmuaDIoa6PcO3sZQHD+ViLgQbDP5BeWMy708jSyxMYaCDj2E8E5zd2/++YrQjwXV6HqE8lcLMuRexP8n98P7tOdWxNZjHplLr23A4qBAFbZEJbcKux461y5fsRcxUg7rBFmSsXm4E97DB61gW28p6ph/FGm1qUkBdF9CCqoPhdeb2hpMnGgcT6u4U8gYjd4uvf1r/1I+f+rdNOVSKj64wGv7aC7gLPsHzUH9Oy57oRjBr00ML8Sb1+R4qFM2fTalm2rggzaaHONtY8VF07aUdF6jDlS24Laz9NnmeI3n6O3NOLHSKwCQZqH+hQ0CgruZtrwcTcTiYyNAdLi9CBL5YEqO04lxY7ftuXd2mOz23Tmr8Rb6HbeeaVoMHaTg==;0U470ZVamFKZEOUCGp+hTg=="
 ---
 

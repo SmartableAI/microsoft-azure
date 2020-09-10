@@ -1,14 +1,14 @@
 ---
 title: "Explore roles and responsibilities in the world of data"
-excerpt: "In this module, you'll learn about the different jobs roles associated with creating, managing, and using databases. You learn about the key responsibilities of these roles, and the tools that these roles use."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/explore-roles-responsibilities-world-of-data/
+excerpt: "Explore roles and responsibilities in the world of data"
+webUrl: https://docs.microsoft.com/learn/modules/explore-roles-responsibilities-world-of-data/
 type: course
 price: Free
 length: PT17M
 ratings:
-  count: 520
-  average: 4.8076925
-heat: 61
+  count: 521
+  average: 4.8080616
+heat: 70
 
 provider:
   name: Microsoft Learn
@@ -29,8 +29,7 @@ images:
     width: 640
     height: 320
     isCached: true
-    title: "Explore roles and responsibilities in the world of data"
 
-secured: "XnWPfZwJeYpGNfHX38q35GxrlEVNhay5d7XDE+uheY7Qu12jPynxKAgOAVqk/6ZmgIaN11KYUWYtVA2Eggo+MJJTlzLmzyOAkmInozk5cW1j81f/j06xQOhS4nysWpqXU3Ye2xb5TStFC2xSaqP5Y5pf425eSr4mC2ivsdXkVNQI4zd7LmJL6fNzSTCoQNdRpjO5DcutnJ2v5htcliBllHkZY/QlwKWV4JoVHWzWI7030uJCUu/T3L/rDodPLmIbyINoBkJb4mwbLmOAvxbcJcY13HkB/0ssOU7zkRf1249DipPkLI4Nwh6gkbN1KxFE1C9vtnDFRFGusvL2N4djb51zslcdAUNmeQXV4hV9zlpiC/MxiAFSvB7IEnhU+dDErHDzTy0U/8Nv40/YxRqifmNli6KDmiu7nvqbyCMSYpw=;z6gc8YhqEgU9WTUJAzSf1g=="
+secured: "kh+0XV9SxOAIadRR7PIoXlRfz42Eg6Dg3pb+/1ty/Lj31ou+H+89ilQZPltHBqIxgpzpNLvG6BymYOtKOP+KbERVV2pdGbgNUti/wy27pt5mYbSR5XGwm3q7EaSSTpgQxjepjpyULOvD7wsBiyB2Ut5APErF7S9M7wkKSZpTw8FGAEC3kNLxMN1y78DL6gl1ZsdDP9cwHO6CtxdvWru4SYyBKx0CvprPC6RShVGRTG070jaoktfARzpvT0jVLq95nM6ZoiQLhbu8lX1//NTFWk5N7urb2nNUd4n6AXPJRhc6XZTzG5BtjxKbmdrrFgxAjSOaxGaKh/CR9V1Y0Kk07Lnfpo0GHpJYM5q8yMmVDecURJZpyvmRTd06F34fGp1ZCmfA+PIsY/ys4c51h5csgA==;/xR6RBhpT+WvEk7RW5RzqA=="
 ---
 

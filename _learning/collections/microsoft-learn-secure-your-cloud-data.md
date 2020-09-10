@@ -4,7 +4,7 @@ excerpt: "Azure was designed for security and compliance. Learn how to leverage 
 type: collection
 price: Free
 length: PT5H38M
-heat: 79
+heat: 206
 
 provider:
   name: Microsoft Learn
@@ -44,11 +44,10 @@ topics:
   - Analytics
 
 images:
-  - url: https://docs.microsoft.com/learn/achievements/intro-to-security-in-azure-social.png
-    width: 200
-    height: 200
+  - url: https://docs.microsoft.com/learn/achievements/configure-security-policies-to-manage-data-social.png
+    width: 800
+    height: 400
     isCached: true
-    title: "Security, responsibility, and trust in Azure"
 
 secured: "xk33M8I02z2ouO6G1cc5B/8vXVimGjXGepwZq6b5hH19Arh1/gBhxuOpebz/7N+6y3xR5hTzvx463gzAi2ZeFXg1dM/4QiwFZVGEUTYHMxYWdNGbiTX3xj32skTgVYbBpZfWoTRVRMc6HOeO46haL8oaRAF2DqBxVBcAqW0I6Im8WZoPj4XGw5iH7h73tMAXrKt0GeiagmhOMEavhqCQRCobacZtAgFlYbyd3ku1gcVvW4xUwjB/qMUV1yMALjM93FkdfgsLt0Ogy+r+yttEBqRc92McyVVKdp3uYqcTGDyTahpi+cBFToSVzQe5w452Yz8v01VaDLNrxyNkGCavIw==;9TLvGPm0Es+Rc64Av2sphQ=="
 ---

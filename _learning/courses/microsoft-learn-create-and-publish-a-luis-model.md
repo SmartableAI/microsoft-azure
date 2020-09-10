@@ -1,14 +1,14 @@
 ---
 title: "Add conversational intelligence to your apps by using Language Understanding Intelligent Service (LUIS)"
-excerpt: "Introduction to adding conversational intelligence to your apps by using language understanding (LUIS)"
-webUrl: https://docs.microsoft.com/en-us/learn/modules/create-and-publish-a-luis-model/
+excerpt: "In this module, we'll introduce you to Language Understanding Intelligent Service (LUIS) and show how to build and publish a LUIS model"
+webUrl: https://docs.microsoft.com/learn/modules/create-and-publish-a-luis-model/
 type: course
 price: Free
-length: 54 mins
+length: PT54M
 ratings:
   count: 1460
   average: 4.6527395
-heat: 53
+heat: 96
 
 provider:
   name: Microsoft Learn
@@ -23,16 +23,15 @@ levels:
 
 topics:
   - Azure
-  - AI
   - Developer Tools
+  - AI
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/data-ai/create-and-publish-a-luis-model-social.png
     width: 800
     height: 400
     isCached: true
-    title: "Add conversational intelligence to your apps by using Language Understanding Intelligent Service (LUIS)"
 
-secured: "sdct6on5ZgiWJ5xwrf5fikxDWm+lAecALQMaXiFy7jUSaU5R771SVL+arMdyJEFAXE+3WNnhumPFpd00Dy7pqiGaboHUdB5fJDDpX5LPoropSWeg4JGpQFFFWfWituXclOtWnXqXdT522/DS7FkgUMGrhENtOg/WPnnRe+mHoYqo1Rzz972Ai86DlNaIDqvqEjNy8Cby9wUCX53o8tg0LIgdEWRQRwns0fwBJenGhcXQBADS07F0YVVzF9XTO8lKk9UbMZnmwv+RiIclgdakLRbXB1MNAk/meQADUktmBFx5rD5otwsF8SfkamPUfgr8qkY8ShCeiQhhlOz8CZaikKOalQT8Ftb4naRrwIBzv5XJgeJLgxzKU/3EErF1NhDBi7eCco09RLDyxWxXXtHtG2LBY9WUNN2VbHJQBZMFJBM=;UqwCy+ujfXQiy91OotZfjA=="
+secured: "4pHlZT3ORY8Tmw4EH2pPfz+JXK5tce8RBfR6lqRFxwV4bLolfAZhc1eBWpCJii42bHOZIs4mQXdXDjCJqMVGurKNwAbXIXcjp1oT3aTgEFuDR+CfqBrnpiQuoMAFDU/Kkp6xHnM8bldWSCvhELpzN3TN/PqKY8VyqG9UwI4fLrKtdG+dpu4fQAnG8gAELEwg4bY60rH3zm3rg/iQpl4QQmXF5kEsnnPDu08PpEbRmrQYuOJIdUnpDhgatUZ0oz29pycTy/SWHe452mIjGuejkBfDTEdNHEcCd9V5/e5AOnMBtt7uEORbrr24NLWRqMv3vfCqekudZD5e137W8P6FheU/YACFujk8DWqHDAXnuSTgYCq6ldpKSAshfmDIBH+2S2McolCUyDKopBEIVVViLg==;kkdL8hic3AC068R32gXA5g=="
 ---
 

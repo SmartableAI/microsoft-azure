@@ -1,14 +1,14 @@
 ---
 title: "Set up rules and take action on telemetry data in Azure IoT Central"
 excerpt: "This module builds an IoT Central app to monitor and command a refrigerated truck. We build the IoT Central app from a downloaded JSON file, defining all the device capabilities. Source code is also downloaded for the device app. The focus of this module is on creating rules and actions, to respond to certain telemetry input. Rules and actions enable greater automation of an IoT Central system."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/set-up-rules-take-actions-telemetry-data-azure-iot-central/
+webUrl: https://docs.microsoft.com/learn/modules/set-up-rules-take-actions-telemetry-data-azure-iot-central/
 type: course
 price: Free
-length: 46 mins
+length: PT46M
 ratings:
   count: 128
   average: 4.6953125
-heat: 50
+heat: 55
 
 provider:
   name: Microsoft Learn
@@ -22,8 +22,8 @@ levels:
   - Beginner
 
 topics:
-  - IoT
   - Azure
+  - IoT
   - Mobile
   - Web
 
@@ -32,8 +32,7 @@ images:
     width: 800
     height: 400
     isCached: true
-    title: "Set up rules and take action on telemetry data in Azure IoT Central"
 
-secured: "SISAzWp8xZzzUktCP1SWOIGfVqzE0NDej5SuhXCFXgwfdlbrTjK947QLFQJ5kWhN0K2yleRz69c4XxJ7QaPG2VMwPOEhoRlppnE/TERmiunWXP+ndAVpsZDhKXczSdNVjZfOQJLi245S9LcE6HkqEuCXYiUdlJrHIMzky209Db33GNkvfulU/BTJteLpjOoNdmBbSjOFhfj71S6MqUzP+aGCIcme3hlS9gUs4vbVN6TjN+76cV+GPbNMMyF4rmzGwKBH8KjaTw+ucfScCoHBVLkzLHubpCN1ACWq4su+5OULQN3CrziWNW9ENo1y93GOkGvKGUzc1m/qFbM35094bklNgBSzTQf78E2I4AvLqkSnNniIIDb6g9xjLFwIybJjfD/MNfqD0IZRhcDXOXSKo8K13Ck+WIBDDR+YjZEjghk=;XULsiMsAmnbdgij5nCGOtg=="
+secured: "KEsnRLOM/t0L/xp+e0ANLrg0UhaWxXZkU3xCrIxjdgqXu8eYA2ArDUecwzxfx61X6hPvNEPk2n9KrHV1aPVrAYQt7dO7g8QCxxl0V3oFiGZ5Wx0z0xoogb0Kr5eWE3tctQ194jA+iiTEgSMrbgXwz8PPdxAsYYu1zo7k0WemDrFHgSCM1RInCqvLYR/cxpVFPtVRN3WXoZa1KjdrAPwhMADrb2Yg6aA3Xbkf5zG3kcAjMzDWzXZgewWjFiT6tG9u6rUuRz/ySupXAAcFe+eczrgRL0ed4YVtqj5K9IbDUchfXyvVWYBPDrDStWAS+NS5XIXIv8oOMnRDw6nqRWcS/5bltU/mPxB2ZhwafeJ3fjP+Z67w8ZTYOCOO0ZthDu0qhzKVpuqzrFzIrl79sOlkZw==;ni5UGNp0wJYvo/v5n/HGvg=="
 ---
 

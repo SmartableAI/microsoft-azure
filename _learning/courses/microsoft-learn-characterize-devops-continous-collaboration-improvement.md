@@ -1,14 +1,14 @@
 ---
 title: "Characterize DevOps Continuous Collaboration and Continuous Improvement"
 excerpt: "Explore two capabilities in the DevOps taxonomy, Continuous Collaboration and Continuous Improvement."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/characterize-devops-continous-collaboration-improvement/
+webUrl: https://docs.microsoft.com/learn/modules/characterize-devops-continous-collaboration-improvement/
 type: course
 price: Free
-length: 17 mins
+length: PT17M
 ratings:
-  count: 506
-  average: 4.658103
-heat: 73
+  count: 512
+  average: 4.6621094
+heat: 69
 
 provider:
   name: Microsoft Learn
@@ -24,13 +24,6 @@ levels:
 topics:
   - Azure
 
-images:
-  - url: https://docs.microsoft.com/learn/achievements/characterize-devops-continuous-collaboration-improvement-social.png
-    width: 320
-    height: 160
-    isCached: true
-    title: "Characterize DevOps Continuous Collaboration and Continuous Improvement"
-
-secured: "9o2UiLeClnuRKP+2jQ7lVQQHAHerasBha0lA29W/F6roUo0B89NlOAKT9Hyx9oUW3oESp9P2YGtzwNrB5IlTvhfrWBccUe0aTwW44LJfyFeGBrb1LQvnvfb8neF41iYmQP4wgxZu7Gbl5kuMSNmf7nSbK6S3qRiKcalsnHtKGYkYL/rCbcnmpVn8wQoRpXUXfNrB2Ge+YYl2WN10FOCpOulcq6mxRBfZKUzbGd6jFk+16tTM6Y2gCOsgR1zmDmEPIm3JH17Re+8mMYZciKxDQKzBxk0skJY+nHnQBEvMBnRPQY8bSBv/fxzL/hJzq/iG3mItaa+WgVRjjyxUDwRTwpwTWJVJ92CjeRTxdjDIdZcyaNxHCrYcrhDrSuxPpaZtFMoULKLa4dGFkyZ0klI/uKSyGj9f4xa1Dady9ZWMDK4=;GrxyZmwHdnwvqisMqLByUQ=="
+secured: "FTvlkAHvCiM5Q88FY0AF3gqOhygfrZPRiDXSEVltFuWKdMhDqak2w8styUclbdHQ9veIUW8qZSGZ3raIfn+RUeQfFCmfLrfdth8DRwBLukkn2gnBCcgUPEIMv9xzkitJCWyWxsxhhaMF72xlZqH/tiNOB7CAUyjJSeVsACQILA+KKK/5pHTzy8nTIFPoKrXyuGLR+dpSIlNrQ8jKYbbL9+wmah1TeJVHM30ChvE9xKmWWfkMsDWcTkDC3jzkZMR9jjOiGZsQVJPdZP05vnVAZpcID65wNGDuNEWjgRT/M5kddwsDvhxWR9srD3YRZFUizsr53F+MtVL4zMS8qTUa1kY16tSTtTCuCCneCAd3ceNldmGRvMonQ8yPr03uW56eurihzlMDufMmhfRFITXMJQ==;9fLW8chzTXON7l/jLNrdwg=="
 ---
 

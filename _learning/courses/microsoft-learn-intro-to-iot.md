@@ -1,14 +1,14 @@
 ---
 title: "Introduction to Azure IoT"
-excerpt: "Explain the significance of Azure IoT and the problems it solves. Describe Azure IoT components and explain how you combine them to solve IoT solutions, which create value for enterprises."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/introduction-iot/
+excerpt: "University of Oxford"
+webUrl: https://docs.microsoft.com/learn/modules/introduction-iot/
 type: course
 price: Free
-length: 31 mins
+length: PT31M
 ratings:
   count: 420
   average: 4.688095
-heat: 51
+heat: 66
 
 provider:
   name: Microsoft Learn
@@ -30,8 +30,7 @@ images:
     width: 800
     height: 400
     isCached: true
-    title: "Introduction to Azure IoT"
 
-secured: "+3NSrsaQY4X9/up1PbBFq3xieMpXR1oFfP8/nz8PiUuJ90JzwJeDacS5W9X+8dawscKQfrY870ZjBze6tQp1kzUTo5CwuWpdakpxdfolJr1CJRLrtseywCwnWwLeeyyQQrsHSODIg3oCcplNrR/1FY0r7BG8/7+s2/r6iPqdCuCWnf7UVLA4MEFZ3h6wavluTWEP44JxmoRb3quBeBD7tz6CLfts8gz0uEfAF1PjDvxHIT0WxcLC2LNQ70qEf1ssK48FXfB8KFs0EK4UNwHJYs1WR1CBtijOmF0LSQpXfqZgBiExwzp3e7K4pONsQV/+eHdAm1xqrZfH/BhOoSO+c6q0Rc6sfEZZkMNXcrvUVDjA43hwWRu/HZKVf5ZVZ1ntDYquFRRiG7fR2BZt4UFO3QMZsIZ5zGM0QtGejKESykU=;u+mYuKJ6FbHIj775NL7Cmw=="
+secured: "hd27wGsxhrSrV87J+2esBeeBD0JPutkGmMj4RVj4vRu167wLP9i2KbhWV8o1daHvkh1KJKCLuMTSbHbFqGzJTJnA6rmKndjSp5hHB9A3jOGyuAJuZCteI9F7qL0b40xamKRDVMNIbziy72YxoQRErDy76oSdpUN1NwBZN5+O8im6BvAkVW6UAq6hwYpI4+wrNacVqngvo4wOOkKpHTBwi5C3bZX32OgxZz8yJeIErrjuo5SI+vPMPkw0znzor+Kt2WL6tU7+D2xMmOUPfFfFiHUvAUP9Vqys+ABsJSuXFbX9TXvLniLJ32vLHjLW7Y6J9zhj4Rdjs7psb2+psO/yxfH7CbEaaPCqBDg4o1R2gmFlOhmLP7cVi3rK6La77C28BaPCZ5udnh3UO9lx1Mx98g==;Xi4iXNElBeSAgOL3ZUccZA=="
 ---
 

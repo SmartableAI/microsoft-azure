@@ -1,14 +1,14 @@
 ---
 title: "Microsoft Cloud Adoption Framework for Azure"
-excerpt: "This module covers the basics of how to use the Cloud Adoption Framework—a set of documentation, implementation guidance, best practices, and tools that aid in aligning the strategy for business, people, and technology."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/microsoft-cloud-adoption-framework-for-azure/
+excerpt: "Learn how to use the Cloud Adoption Framework to develop best practices for cloud adoption in real-world scenarios."
+webUrl: https://docs.microsoft.com/learn/modules/microsoft-cloud-adoption-framework-for-azure/
 type: course
 price: Free
-length: 50 mins
+length: PT50M
 ratings:
   count: 2048
   average: 4.745117
-heat: 52
+heat: 109
 
 provider:
   name: Microsoft Learn
@@ -29,8 +29,7 @@ images:
     width: 800
     height: 400
     isCached: true
-    title: "Microsoft Cloud Adoption Framework for Azure"
 
-secured: "s/OMLiWn+fxH+OYttv4OUVG62eDS9h9ZGzNSy8UA1jF2QziAtGiX997NL4xND9ej+iYHkzXbGarwS/YqE4Qr0Ln2aPSEF9NTYkh3r/ndLRYcGMv3IhPrV4EQmKJ/9tGjhxRbSI4/PuSzHSWR+QzcxvDOZgKIecFMVbVEgWo6i5O1JZzUpthLKmC9OQZDHZ0PoRaqrpL9GYLjMIwdlplxrIlATtHdkXw1qQh7PCnvwZfw6R3Sq+th7HngyS3KDybamoVwKIyQQ09PtuibgoKsfWPBkhqapuAP1j7W2YWt6kFBAzbZDXmsyVWX7JvOoOMCaTqAcN/iFrMG2Gt35v/gO2tcTYBzRzZZ/9LIAynnYiMkXAJUfInbFpHjR9E8F8lg8zpDHJ5mVZXatA+8wot0e9OLM2KaYAVYd/xrtiP5UyY=;vWi8/VsCCB2YbTpIW8gZ6g=="
+secured: "APKjwBOJIyhDHC9aAkqRF5QEX7/SG8P5HIMxJuQLdgPKTvs45nZKRXcIokbUl89u+/1Oxlq+daixOD4Aets+391YbfL2EkT+I6m7qXZKe5Te1m9PESBxIoCP5au50bnGnMctOwYjK+8rf3D9ItMuwnQlfsrwSaLx96Eu9SVBOwxCpi2cOrXm6mJAcrgG0ZQSygMpaCWWGbGgqPr5HsWzBIrNvv8qcXRo1FU2kI3q8kd6EpKsoQq1PFnP5Oc0BzwfLk1jq7P6kiLY27qeiV/IrlLAVHCU9iepDYfxKvMgINlHAa/0iNXtnHGzm2RwHS5BXDZAjb0EhBxz8F+4f+Lyc3ie4GflscI9xRMbnlaCkOe2BJTMqyZQ6eKADVD7kbXR/cR23i5R8n+Tt5lqL5lQDA==;CUgBRbLUfR9WKSSD/OQUiw=="
 ---
 

@@ -1,14 +1,14 @@
 ---
 title: "Build a scalable application with virtual machine scale sets"
 excerpt: "Enable your application to automatically adjust to changes in load while minimizing costs with virtual machine scale sets."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/build-app-with-scale-sets/
+webUrl: https://docs.microsoft.com/learn/modules/build-app-with-scale-sets/
 type: course
 price: Free
-length: 57 mins
+length: PT57M
 ratings:
-  count: 1422
-  average: 4.577356
-heat: 54
+  count: 1423
+  average: 4.576247
+heat: 94
 
 provider:
   name: Microsoft Learn
@@ -30,8 +30,7 @@ images:
     width: 800
     height: 400
     isCached: true
-    title: "Build a scalable application with virtual machine scale sets"
 
-secured: "cW4B7Ge+tIPx5zZKciQTLz1bwDizqtEBXuS0hbna9Sy98ikpqAbDnrb9CRzZR4Oe1zPZZCpAtP070RnxxTe6wD3kda7DwSNx0GaZE30+JVQEFyhVVLkxPLZeKJuOqlRwoOLw/dEY0k/OtCEMDYF3Vy1S50dOdm7q7JZU1uz5J3BTulgQGDbLaCVrDPu6BMuvWpMcCIq+fZVmnm4wMt47rY9bHe9FaU0hBgzvo0MA7bRETRyGcx6KUUwHWQHzlxaLR9yf/vEo503Hzd23z+xVkgHcrUxkOZ6zSk0eWecllmBSWmU9bOtzkPnc45Kh7PPXiPlpJYm3zqXUhxKPmvkLt2FaJl7Zqj2nSWpQl6DfNhepf2s83qShXwc90XcG6HSU84sHL5tVgNuAlNh/fGRQihKiuGvC6wMHPlitINE6VWk=;zk1wJr/rcMrMgc8Z7Skc0g=="
+secured: "l4wvOQw4lA2ug5g4MTZIaGUYk33mW28n46lbkoKyJjcWTSvN3wRRMBegdXtaAttnN/6rPSCJMfflpSF7sj7Q1dEAI6WrIBT+W1sIMY6q8+KGI/HkxrOm6qji4ZSfFODm5rnZGv41R+pjEEEEQHhvm8nySsHF+2g0EGG9Sk4UBHzI3JqItNxI3zT5OEsDUWbu1BL+RGVDfHqngK2Av13APnErlL4ZquX/jGnmBgnBLxvuLNBJSpX+aAvk3VrHM0KLEL6Fg8/rJPQ+zW5jtoZCiGuMHTCSsIdfiybmwF1oe47C7qkk/FtH2djp2NjpBSUl0R+OmpNQycphiuR9F9y+PWjil24Nn+JE4yJ40mKxRttdzdQAzfbSCniW/eU4tX44xhddnfOVo2427LE/c2R39A==;HXHGzPvf5JCHXtJxCagGUQ=="
 ---
 

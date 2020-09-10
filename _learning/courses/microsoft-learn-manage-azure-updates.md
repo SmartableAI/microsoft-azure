@@ -1,7 +1,7 @@
 ---
 title: "Manage Azure updates"
 excerpt: "You'll be able to enable Azure Update Management, deploy updates, review an update assessment, and manage updates for your Azure VMs."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/manage-azure-updates/
+webUrl: https://docs.microsoft.com/learn/modules/manage-azure-updates/
 type: course
 price: Free
 length: PT40M
@@ -32,6 +32,6 @@ images:
     height: 320
     isCached: true
 
-secured: "MJIw1ZR3OkUV2Qr8azPpcPbdPB5IHAiZrvPx6/gJvziWt/LANZIN6dOXLBY/3piTKLehCI1KOptHRMCJWhPb7oKOdClGblWiMfDbq1sAVJ4uO1xsD9GGpMz10ZW8fMl9+gM+qcqR6cTBgHnjKWZ/ebYjHTpuoRKura838Mg5FJRFGvu0J7iZsf1iih+vsnpQ+oH0JXUjwF74PHKHtCfYOQaBLYiW5mJElWsqBfqdUg97sfmmbo6mB0OO7mG7v+tNDg3T6bV/TUIiOKvWzyEd8unxeRR0J09SAcQijsuXKDqw0SL5Wy4/25jo8/eu/JtHYj/xT/8NtSOQ30eIaz9iRuxWVz6sC2Dbn6Z2MHxlJopSD+eXearTkDBgjoTiFB11sStVDIxVZBeFuyWQ8TRcOrGJa2SxON1utSNT7YckWCU=;X5gRWyc8Fis1i+ATQejeVw=="
+secured: "HWXFS2ArSQaEKg2vE9jdx2TmfGhKO/CKPwpzRq8XlkibT3g2YsxPv6dp6NRS/a8y6UR4vC3cWf52zqj+rp30y+6TfSX7hc3OHnGplHmysWS0Tbs/zRPbmlqZ2kz/zkuVN0VdCK4jtydABbSd5MZi2f8GCarfx+oKBP0tVIY3oEQNsrkBhaAWSv06dqPT1MI6vUBALe4Qi4TxCulxcvKlh6hQZQIwYijx31wLYaGHrKnCLlQSzecsshhj+RdNpGlAqqmSgIsTPqRAXxx787styyIu5nYB1BU7f6cWK5IwdLkExXl1LqPwmpYs4qMyq6uSsrX3rVQVk973mfr+3r64kj4mP2o5P/rArZf3MqQXZOpb2FNMcQgbiQh+ncQDBTMOiD84evOyaljJpvwhXR4Yog==;6r1vz46eUuq7fVHGEdjVww=="
 ---
 

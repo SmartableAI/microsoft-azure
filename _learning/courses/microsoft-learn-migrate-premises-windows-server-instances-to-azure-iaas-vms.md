@@ -1,7 +1,7 @@
 ---
 title: "Migrate on-premises Windows Server instances to Azure IaaS virtual machines"
 excerpt: "You'll be able to plan a migration and select appropriate server migration tools. You will also learn how to use Azure Migrate, how to assess physical servers, and how to migrate those servers."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/migrate-premises-windows-server-instances-azure-iaas-virtual-machines/
+webUrl: https://docs.microsoft.com/learn/modules/migrate-premises-windows-server-instances-azure-iaas-virtual-machines/
 type: course
 price: Free
 length: PT41M
@@ -32,6 +32,6 @@ images:
     height: 320
     isCached: true
 
-secured: "k3Q/JK9qY6a32HrUsI0YGfkcrT90mGYFlM5qECJlDGBRdhcuVvfC2Cu7ioppvVcRPKqXN01OUNcWFnRigmrI6+3VsdVS6+iJ6+onrlQtfmqGtnBZiOWHZ9bgv5+msYor88Y/QqK1v/jZ0kOkf0tqLmubxDaIc6VR/7weJl3EZRhQvVMMY3IU5FmVPwLI6lYSAtVS38yJdUlupU6DD4xHrvd4Vw9mbxtfwvjoSQ9ZmFO/BJREUFXH1HRuQH8+F2+ofj5yxkynHdfJjGEiGWaxMBGTvwlX5YfTQ04oeqs6VJt29p1mQVQJRI6YpYmz0y4o64kIf98oz4nQIrscfcyMkcVvjFzaH3UDQyYkTjaajzR9gfx4ruiY5KPMGmNbvVoFIVj1nGorMtwK7lypCI3PxzW1STEx1qPeKQ8Vh8ABFx0=;sSkhzc35K2meXxHekXJgUQ=="
+secured: "UUof33A1a9IEokUOUJSemGEehfbCetsTPGP6fzFcNhZL774cM2OPwhZN4Lk/4M1uKfxPu34ZhKZ9Ers/c8zWqi6dnEhL9aWAKCwRHb+la9/+T25sPlQMpUFK0LPTKr54rYV2ywCfYfeOCCsgqbq7tvLGRM21SwddYAg4xbHNoM9U6sWXbZrDse3t/0Ym3I29/F6ncgYSK5f/lELj5Q5ID4xBVfd0TSHf1M0lldfPV1bSrpBpHc25YdPOT8pceUK43FcfpkGXB4OcGkG0oMzec9DEbl01KMElrFLUqQiARu+/L7bzCWyo/XsNBjiiEYP/0nh8m8PU+oLjEdhHK2rR3SbBsMZa1uEvYzaHuavdSXek+y/T0o27o0TEl5uwXdOi8YK07T87M14w/HbaaGMP1g==;aKowkjJTFhPiTVFyCn7BGw=="
 ---
 

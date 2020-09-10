@@ -4,7 +4,7 @@ excerpt: "Are you interested in learning about the cloud in an easy to understan
 type: collection
 price: Free
 length: PT4H57M
-heat: 64
+heat: 174
 
 provider:
   name: Microsoft Learn
@@ -45,7 +45,6 @@ images:
     width: 800
     height: 400
     isCached: true
-    title: "Introduction to Azure solutions"
 
 secured: "/w+/lDORV4oLKXu8f1mRRsC3ZER5rFqAOpIdpsZVKJTP6lC6Plgpohx9gs5owoENzbR7cHpxizm3Nqh+Ac/Stg44mvBv9GjAG9ebci1bivOOkmIboE+LP877WJL9O38gqBV74imRiM+MI6Jp0CaQ7uFXlWt3F2y39aDFS1Ac++Ypufau3r1xtOrOTB8OIBb49fVu/aNkySLRvcG1t5OMug4YtfOA0OAKm4s68lycwQi4bHaLqMxo9kb4Krtqy0cK+3N35UWqZUTVu5n7N2X/lO/8A9X/ROIqPxkKy4JcKmIaQ5XtvrRo0F2a/gFXWhuUYpbziwJc9bszpOOfW6UkYA==;Qu1ERU+mJkVnrHhjUjZDGw=="
 ---

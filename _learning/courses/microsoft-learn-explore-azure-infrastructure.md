@@ -1,14 +1,14 @@
 ---
 title: "Core Cloud Services - Azure architecture and service guarantees"
-excerpt: "Azure provides a global network of secure datacenters you can deploy your services into. Learn about the physical architecture of Azure, how redundancy is provided, and what service guarantees Microsoft provides."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/explore-azure-infrastructure/
+excerpt: "Learn about the Azure global network of physical datacenters, the physical architecture of Azure, how redundancy is provided, and Microsoft service guarantees."
+webUrl: https://docs.microsoft.com/learn/modules/explore-azure-infrastructure/
 type: course
 price: Free
-length: 45 mins
+length: PT45M
 ratings:
-  count: 65383
-  average: 4.712525
-heat: 128
+  count: 65391
+  average: 4.712529
+heat: 319
 
 provider:
   name: Microsoft Learn
@@ -24,13 +24,6 @@ levels:
 topics:
   - Azure
 
-images:
-  - url: https://docs.microsoft.com/learn/achievements/explore-azure-infrastructure-social.png
-    width: 100
-    height: 100
-    isCached: true
-    title: "Core Cloud Services - Azure architecture and service guarantees"
-
-secured: "gUVqnBsZIuGkEPgpEFW5mbvlVqpyNZt0yemhhxGQxBharwaIkoDXGjrpnIaphniOuFmR6TPA0Wc4mEABA/WP/3Nwy/WattIS87U1Yr2ePesmI/qUJpN/LY/iqB//JtxWVpyKynzZx0ePNpmIETqRn4hBOCQC9gXJBEFBWk9hRR0OoO1bpqJp12CypDo3gG6siVzCrK2Sa7kzbI1DLONlpwHfweVhsZA7hmskc5EWYrnDtfxHpNg5AeFD1pIwCrm2etrr92nBX6LACScnWqXLL1fOgCQ7WXFrKRvIFNDP5dZwgfkgoCQXFquqbz5Zx0JFQGH6BGJY+ePKDER4cMmVsjsGuKKxdr95ExBJ+1HWQ51xeQBEztWdBCQZL7wogGr8NM6+dE1iqsUTbUYJewQGq3s5gnPjbkSy6XcSM9WmPrhNn60CgwBtUhZHi0xB0U2h;x+AmyJux/oA2X92ONb8TsA=="
+secured: "Pmi0TG1QGwiGWyY+0tyYoOJ9CtATBRiK73wYZgfht6VRB60qSZssJTGJssEvivt4AQP7rKYeoWrrnq4YvjuI/laExTq/xmip+KHzT464nSR8WrVqrR39LPMrRLary9eLRIeAv/pz7yGBPLuBvKdKmL6FKs6HJe3aPNktlhcl7lMfal2l8PvSg4AG4fyNPAjLgPkMglCtplmlkwfntUTBFyxLkeHipdDgXU/PHTYTPnZexN9XIBYh7rfBdwwSOZ+blifXWj5DRNpXPY/CnB7uhYCc1YOxn1ECKq6jF0UZv4ooigkmKSQeFlIJF1HMGXEUHImELfXm0LlB20Czzednxenze71aMGXelIl9YjnNJnX4yFklftlhIiF5mvy4xtQN75aiG7r/rcsT1o9EsDnFTw==;7itXho2RE0xB3fdfHP1FXA=="
 ---
 

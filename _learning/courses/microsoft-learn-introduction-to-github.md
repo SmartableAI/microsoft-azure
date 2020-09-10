@@ -1,14 +1,14 @@
 ---
 title: "Introduction to GitHub"
 excerpt: "Learn to use key GitHub features, including issues, notifications, branches, commits, and pull requests."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/introduction-to-github/
+webUrl: https://docs.microsoft.com/learn/modules/introduction-to-github/
 type: course
 price: Free
 length: PT1H12M
 ratings:
   count: 257
   average: 4.7237353
-heat: 54
+heat: 60
 
 provider:
   name: Microsoft Learn
@@ -25,12 +25,11 @@ topics:
   - Azure
 
 images:
-  - url: https://docs.microsoft.com/learn/achievements/generic-badge-social.png
+  - url: https://docs.microsoft.com/learn/achievements/github/introduction-to-github-social.png
     width: 640
     height: 320
     isCached: true
-    title: "Introduction to GitHub"
 
-secured: "cxKdDFDS3oJEvGEfPLvaHV1XZsnvLkwzZpjdPNKtzcXpzhLg7YMazqgi4+h6x1xyrjZhpS6af1L7Lp7xDpXKYWO+Rn21AXP8TxUbxeKXMK64CMelohWNFLVLUav9FpKXHyWphwB0GtVbTbIeFy9/dR3TwosfgdVPBUsT/PzzUqszvcGbDqla5D5GcIUkCLwJPA8I7Z9uIAnQYXxsAXZa6N9PDTuJLiZREW5lM+PI6b8kOUSdK7VIn5MuVTbOEugeGgScBfPYGCD0hhOKzhcD1Cc5403Va22RHEFRm0ecT8P5o/mjbJbiQd/KCP3CdvgUKjqmo87qZRKuTJ2wzMw+vy5YT5GI1d1BsO3H1jwB0FWFzcrUx4EA5hfsZR53pkHArK3tROBMRA8CPQNicSQzRtgleeaXu1hV7Pvy+dC4rng=;p7+pymvh2mRHDS8AY53Cwg=="
+secured: "15hCLL8+VEWz+ezr06L1w6nQ0RQtD3VopXTQL2s0uef26NBMTuQVweSQ9tjqeR+aoT32M3J1YjQpEc5f9HtpQaIgGSLwjxL0SMhhd14hJZWyLEY5nXSBzHA3o7BQ99gF109IZUlhUuYS0rj3EsGBZeClxcGDnlhRyUR/fzZxTEONXgW3FsIIB0Qdx4oMSk7Sq5/9envJ6beompKLF++OzFI7faGV0GdeQXwjsdLTi3mbD84lF9ll2n5mTYAIBSB8wFMAYsp4JjqLX5Z98PgRoHEbQ2eTpQM8n2uQpstoMaQlNUAU+eVSjSPqbYX9baBXTv/2PQvZjjRexcTRwQfkLZMIIqI+el+zmB2X9o0XhQ1r7e6eqBvFNmDihNk1pRzOu0nCJZyEldlOTMHZ2fEWcw==;X9Qga1JLbkk6snEsHOfLQg=="
 ---
 

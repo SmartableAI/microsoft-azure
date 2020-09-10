@@ -1,14 +1,14 @@
 ---
 title: "Process streaming data with Azure Databricks structured streaming"
-excerpt: "Learn how Structured Streaming helps you process streaming data in real time, and how you can aggregate data over windows of time."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/process-streaming-data-azure-databricks-structured-streaming/
+excerpt: "Process streaming data with Azure Databricks structured streaming"
+webUrl: https://docs.microsoft.com/learn/modules/process-streaming-data-azure-databricks-structured-streaming/
 type: course
 price: Free
 length: PT46M
 ratings:
   count: 39
   average: 4.5641026
-heat: 50
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -31,8 +31,7 @@ images:
     width: 640
     height: 320
     isCached: true
-    title: "Process streaming data with Azure Databricks structured streaming"
 
-secured: "syAt3Wbjj/eAiH2NpIlQa6ehn6+byydgv91vTZ8GNycffy9lhHfrws9rVY3tqfIsEH6YK8uJYm0wrxn9z+/HteY2rwUsC82T/TXGofHb3t+L4jMBCAQmHEwLLDrTxZUnbhA82QNzSdiFKerUJIfr6/ouH4qPTelmKlhRnMlbaymW1QZ/i0swpCIcNuUf87XKgrIRqwbFjtn0/AG+mQOU+AhELh27QQY6n+05Xi5PLYd1zr1iAlb9qB+X7yDpW60xj3ABlfjLNU8aWoe1LAMmV4tnTYuoGzoseT6ksZj6rqMWvIVQTU034/4sWSKdtO7PiO7+6yeg8ou7ZpIdktIZJdYLuQdEyydv2MsdZzlUmsj06MeKnUEHUAPM6q7kpA43g4Ce9QG9Tps5iak/CMRAL3NxAAsZzAkxsXdyWMh8E7o=;SXJWvKhVIk7c9TU8aQSuMw=="
+secured: "mYyVbVBpRaix+D4iFJzDnH6Gykp4gIy9YumBOqrZfjZyolYLB1sO7Pig4aJhq6QKPXvNtyBA8qB2cqkTnb7Nj3T0ggn99eQ1Mu6N+4natixd4z9ecB4HINX1R9GIxecM9autgHq3yThWTwxbfr/79iPlJ3IyVKZjkDKFDHAvwdF3IDFdtYNaPx5MYghh5U9u9MZjD1ic5AU581ID/+NjBC6RvEZg7RI1c6TTXdn3LkdpDOJ/FgF6vxwWchis+Ldl7i4f6Ta+SRtBdpr7FXa0CbBpRLXyWV2JQLkrjpPbGZActznPaoXQEqWMHlSdepf6DHzG7Kmb9eMtrTO2J8/rALYA8K8dbuaxEqGAdHWKjd8Z1aLW0RNSjQdcnQ0brQCaZgwxkr60H2+vupqjJ3hs3Q==;c18hkCgHjkk1IFMsImpWJw=="
 ---
 

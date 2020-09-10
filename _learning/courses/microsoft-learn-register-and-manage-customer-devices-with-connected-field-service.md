@@ -1,14 +1,14 @@
 ---
-title: "Register and manage customer devices with Connected Field Service for Dynamics 365 and Azure IoT"
-excerpt: "This module will focus on IoT Device registration and monitoring using the Connected Field Service solution including device registration (physical and non-physical), working with device twins, and streamlining device management and interactions."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/register-and-manage-customer-devices-with-connected-field-service/
+title: "Register and manage devices with Connected Field Service for Dynamics 365 and Azure IoT"
+excerpt: "Register and Manage Customer Devices with Connected Field Service."
+webUrl: https://docs.microsoft.com/learn/modules/register-and-manage-customer-devices-with-connected-field-service/
 type: course
 price: Free
-length: 86 mins
+length: PT1H26M
 ratings:
   count: 53
   average: 4.6981134
-heat: 50
+heat: 52
 
 provider:
   name: Microsoft Learn
@@ -25,13 +25,6 @@ topics:
   - Azure
   - IoT
 
-images:
-  - url: https://docs.microsoft.com/learn/achievements/register-and-manage-customer-devices-with-connected-field-service-social.png
-    width: 200
-    height: 200
-    isCached: true
-    title: "Register and manage customer devices with Connected Field Service for Dynamics 365 and Azure IoT"
-
-secured: "izx20vAm2r604EJV8JdgpvpMN/55LgSHrhY+OsNEM/UcvGzIv/dHZ20mQUDaIdMs/k3DRn32DV0jfTwVwBYwgaEBs1fSPGT2SJb6guXbAhixckd9qlMx39Oc5sq7rueK4WWuiWnCNgbis67/oTjkBnT+zYM9UjQWr8uztu3ukxxIchxY4D7yLrV1wVgJNgMWqem4bNf7GwdIZQlIxQGt0kTMr42LN+/4Buv5CPQ0DkcEPwi/yU/mmmW7yFw45EQQVftsH/yw5XQmj1LBSbGH+cjVPsEPcCWFpyj68pZCqhaEHqY/ZTasgAdLU8BDXEgguX9HcU4UdaTjh1pKY13LXjhSfxuDgwT3cy1q78BckzCbMn7JMCpO0m2ctJPQGo5LeVG/cBzwSmMaLqKMFQO+nbHoUKtsZg1tVZMM5vFuN9s=;tzkipvUsOAbX/mYOEvFWiw=="
+secured: "Vc0goz1HmcVAQIxet/MIovBpHSzPz/9zK/gT7ldtCRv6LbJcxrZy6UrrX7FJWgs0RqH2R3Y1pTbzCipoFMYRyc1RlKOhXN8VS4uciGvbHNzLbaAxB6DtvWA+gFNpO9n/Id9B+k7svG95cw223Ac/UYxAawPFoAv7ByW3gPew/Gtkaq10Mw5J5uSaq8S1tN7N9ymKsQ5KVgF3HV72OpjZ9ZY3BUyd8rL7QRww9TjR5c+0rA8g4iFc0dNOj8gpb7G8ErbBDR/qZDMp5V9/ZS27WnK5yhsCaxwc+bbQ8XIpH9pc1ifmNJ5WoDWEJRZGb3hw74l95+XUIiFag+wPW/eclyjWZKygpfRl/yWV4C+2a2rthS4V5972JhX7AUB/LtgXm+IlNVpvaQQ44ki/8jMoVg==;yyqwaMNbRzzct5OrY7Ob+A=="
 ---
 

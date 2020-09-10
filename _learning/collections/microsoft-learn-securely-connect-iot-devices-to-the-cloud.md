@@ -4,7 +4,7 @@ excerpt: "Interested in building end to end IoT solutions or about Azure IoT, bu
 type: collection
 price: Free
 length: PT5H29M
-heat: 60
+heat: 69
 
 provider:
   name: Microsoft Learn
@@ -43,11 +43,10 @@ topics:
   - Integration
 
 images:
-  - url: https://docs.microsoft.com/learn/achievements/manage-your-iot-devices-social.png
-    width: 200
-    height: 200
+  - url: https://docs.microsoft.com/learn/achievements/iot/automatically-provision-iot-devices-securely-at-scale-with-dps-social.png
+    width: 800
+    height: 400
     isCached: true
-    title: "Learn how to manage IoT devices as an IT admin"
 
 secured: "UJ1ZZEd2aZ0fXrRH83Y9YFtMO3/ROI0TNAPw7b2gR9cyWLojeS0ytb3gf83IvzPndBH8jmJSYYiwb2fkwh+t+zeSdu7mCF/DtIu0u347HMwIPlAZRKyP1zbsso6ojf/XlXNDLG9tEcwGpsWAvE68ba+JOlzUR6hz+7BdvC9kE0Bp1tMaThh/s8l5euNR21RNYvAXO2p8JDtPatox0FAyK+ebdPr1z3evw5/ePAKrXEys1vzHDl5yM/2nl4uChT7DRsMd7n7jPX28ELS6lQxn2KBExCZuC5kMHOw2vYuidVo3rST32rV4PhB+sj9PZJzChj4lftBe4kz/4CfHly4zeA==;F1HEgzsbswketdRbGCDd/w=="
 ---

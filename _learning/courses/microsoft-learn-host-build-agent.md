@@ -1,14 +1,14 @@
 ---
 title: "Host your own build agent in Azure Pipelines"
-excerpt: "Learn how to use your own build agent when Microsoft-hosted agents don't meet your needs."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/host-build-agent/
+excerpt: "Work with guidance from the Space Game web team to set up your build agent running on-premises or on an Azure virtual machine running in the cloud."
+webUrl: https://docs.microsoft.com/learn/modules/host-build-agent/
 type: course
 price: Free
-length: 59 mins
+length: PT59M
 ratings:
   count: 1680
   average: 4.707143
-heat: 54
+heat: 101
 
 provider:
   name: Microsoft Learn
@@ -22,16 +22,15 @@ levels:
   - Intermediate
 
 topics:
-  - Azure
   - DevOps
+  - Azure
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/azure-devops/host-your-own-build-server-in-your-build-pipeline-social.png
     width: 800
     height: 400
     isCached: true
-    title: "Host your own build agent in Azure Pipelines"
 
-secured: "FciPH1VAnivYJoBAUOIJEDdrYUDJjacOZdP6IPYwmo3OmeIq9mZtoMNMJswtNdtyXnoUsVoy1kR5bfM9DBROGaGslBTr8V5rT9N+1fPks1sD5WH7QR/0o/qZBhcOfRe14Q2znPhrUss8+U5B4jGQ3dIJQZs6Ft4QYSAZIbEDEW5ir+7a3TFSKhhLL2SfJfW59Se+xVGkImGOeIl1vYA9x0jeq+ziK37lKC2jRGOAZDbkTKvTqI8z5VL/kRckBE+lkNEnqgMHj3rKGgn73iNnam87Ejt+chXwtCn8PXCGhIAG8C9qFe1Gy4oimWVpdEbQOvGT3l1ZTVcaGmQH0M9sPx6RMGlWH7UwGxFn8bnsZRrOgZgEE2Ec5ZJnIbpTe82i7FyYfYfQptlVb1Bn32SQ8G8Zn1PrwcBLJYOgj7KXrU4=;cpkgCiLZvo6mLYqOGKxAdQ=="
+secured: "TkyGi58SZFAb4Sb0/QFQASoVtY/biATmuBu1xY9qhSMMLILtsxDtm+ddfpjPwJSaplG+ciNNxkPStqiAgGBCj6UCvRyMpldvIhvWpDY1Eutp8bJYjEGk3LU3SSXv5nDMjRi7OloYFPoKRK3SKggkP8FKvNjzTh0GgooxRJlxNv2kEAAJbrM1myXSxZkRNP+dYiuQtnJn1EunVwAFhcuwLDtBhJNO3gug7AIqLBDa4TRZYRhXlkFd9kcOHHKPpXFGi9WS9awnyRFf+1QeJq1nM/+G3v9RbOqWXVCjzON/AMooUKcUDXrDJVviKVh3Xxrd39vkVw4PgpXsnIyqzN1pAwUAWL3JQA39AJCaOsTUcfX+ek0zFfg6q/IvZwrzKUJdrnC/dt00Du9j9Ubzpqkomw==;yE7+A22V9LB61CWo5Peyog=="
 ---
 

@@ -1,14 +1,14 @@
 ---
 title: "Manage device identity with Azure AD join and Enterprise State Roaming"
-excerpt: "Evaluate options to manage device identities in Azure AD. Allow users to join devices in Azure AD. Require devices to be marked as compliant. Enable Enterprise State Roaming."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/manage-device-identity-ad-join/
+excerpt: "Learn how to manage device identity by using Azure AD join and Enterprise State Roaming."
+webUrl: https://docs.microsoft.com/learn/modules/manage-device-identity-ad-join/
 type: course
 price: Free
 length: PT25M
 ratings:
-  count: 774
-  average: 4.5697675
-heat: 55
+  count: 777
+  average: 4.571429
+heat: 77
 
 provider:
   name: Microsoft Learn
@@ -30,8 +30,7 @@ images:
     width: 800
     height: 400
     isCached: true
-    title: "Manage device identity with Azure AD join and Enterprise State Roaming"
 
-secured: "Adw0xjy/WNVI2Qd4D3yRBPafF3vx28IEdJg4OytmxpfgtjkxuIUQmyj2CozaChojU6mCK0rzt5gdfp4+Bt1hOk4wlAs2Whi81IyTokd81DeV1S8cXlWocP7nDPhxAYgV8G/2ugThks0/gr1BLRrRhjNPMbx12Kuyf4AnRlgvnfss65pUHeu3KoeK/zP6DJN0WwbosqXiBs3Cv/PPxX/XVWKfmuyLp2z7Kvst12OgQbGijm/edhzwKJfZrZF6TJ+ayMBCMjt1oUj0O3W5auCnH0CkNXESneHBfr8yOAYh/2Md5JhPDBPG/nPi3AFty67NIINUwl6kM45kVne2AqT7RrIQzX0lF2mT7JlwPukKXWN2nlYKc6UlYWzubnWbsmXkMqnEd0Ufupa9l5TpFVc+SdOngRwrtON4WqNf2DK3Ytw=;3K3ykAHRPQddYCL8xfg6vQ=="
+secured: "qVj33Glc6v2VbaWz4RFvloKEcaNppmvs1v4aIsf0wU9xC7mvrCZMRdugwrrWiXGaZK0co2UafKCWYHqRO1idUPDhWIb772cRvNzsNRUTVmjtXdhVK02UwkgHqO0mlj8qDODxisxpQwCB+v4QTrvEdyHWtauFD17IGifbvS3oce7FKuGeRPBgD3dXR223A4xdl6nQiu49ov9p3s1taS7eJRW5VhGWkCXKtZy6r26/bafT8KY1yG8OdqReFMBSeceE8jq0vqLbCdoMaLkULvY1wucx0z4xuuivmB85DHK5f1exwWwEvUlpPPhS/Wv2WoZj5Z1+usIcJ/vzl6P2N9u0qKd/4fXdjXWyuHRj/xpTdmJ4ztTM0pdY+MKvhhzJohRsAtKPJr5LNToGNguZSSCIMA==;wc4thkp/4C2g59tHX2eiKg=="
 ---
 

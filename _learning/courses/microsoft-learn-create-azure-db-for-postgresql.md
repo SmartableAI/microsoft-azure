@@ -1,14 +1,14 @@
 ---
 title: "Create an Azure Database for PostgreSQL server"
-excerpt: "Azure Database for PostgreSQL provides fully managed, enterprise-ready community PostgreSQL database as a service. Learn how to create and deploy this service and connect it to your applications."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/create-azure-db-for-postgresql-server/
+excerpt: "Learn how to create and deploy Azure Database for PostgreSQL for fully managed, enterprise-ready PostgreSQL database services."
+webUrl: https://docs.microsoft.com/learn/modules/create-azure-db-for-postgresql-server/
 type: course
 price: Free
-length: 44 mins
+length: PT44M
 ratings:
   count: 1786
   average: 4.6226206
-heat: 53
+heat: 103
 
 provider:
   name: Microsoft Learn
@@ -23,16 +23,8 @@ levels:
 
 topics:
   - Azure
-  - Databases
   - Management Tools
 
-images:
-  - url: https://docs.microsoft.com/learn/achievements/create-azure-db-for-postgresql-server-social.png
-    width: 200
-    height: 200
-    isCached: true
-    title: "Create an Azure Database for PostgreSQL server"
-
-secured: "HzNFMHkZCt2WBoaOuuKLzeMwe6wLtHXHEefhmavpL9KvE+AA9re1cDSVb3RRhReiITQQYpy+WMgXZNoCsZgtg4/BOCwopDnK6fV1zDOSSRbujl7LkI5g65Zc5Dixs2nvHAcSOHj9XNUI3dHw80FNmniHuyxAzaKWerRGtahaoGtn8egf9CtsbUoxv1Rzz4JNg+iBSCFg7PscYnURHQeCbvVTVwxKdtU0SQBcIgXpVe0AOM3JnelDCTZF8M+4I8Glz6lnQiyxB+cxphepSaQk4xm7oxG/PisHoTm7V5CpeghSRk08n9IS/NYig9yPWhxzNAaAGTBwyigTyHfvcbbfPADhmAaCBabdZpX2Rw+NZVEwWhAtCR9fFr+yPjiR5W1LBLdGpJNQxqUFX99bJXc+MqEjzOBTJkdRomALJnJGWng=;1JbscDU3kpwc7wuv+J7BwQ=="
+secured: "3Mjl3sJnq/gy8ALeqbvI/4dA89l/Rgo26H9aRmTUoXXFHFBixGJUqBW1cBK+wI5y/SZdN9XmGMzMl5vIuar9ETe+pQ4QhBibPuk7BfnGw7wx58YWNzqD1mg0RvC8QJDhXQQivqjN8V4a46JKcEOzfsOt5mk8Gklu9zN0a2l0acH9dA8vxHE7kvQL0/ANMSuX1xMOQCMHBJImhpbnWFL4QGpA+KMagJfK2HN8JdBo5Dgl+VOvHwPDWkvqrsuagXKqpSfflk1jT9cWXbdaJFZevfQ0GyzPRSWhBeTok8AtdoSNLJ9rhxcoxIUbpqSY43ZwSHlKnZ/1lBo5iUV+vdHTd48lsK7v67iqjatGH4Uj9twHyF4L6GOGavlqb/+I2siRjC08039WrEUsarBxuzSLZg==;OzUUcuihKmkVSaYCcNVNqw=="
 ---
 
