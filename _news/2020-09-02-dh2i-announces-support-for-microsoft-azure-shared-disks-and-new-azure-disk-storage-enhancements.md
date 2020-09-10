@@ -1,24 +1,28 @@
 ---
 category: news
-title: "Microsoft Announces the General Availability of Immersive Reader Service on the Azure AI Platform"
-excerpt: "Immersive Reader, which is a part of the Cognitive Services suite within the Microsoft Azure AI Platform provides help for readers to read and comprehend text. In a recent blog, Microsoft announced the general availability of the service."
-publishedDateTime: 2020-09-07T11:19:00Z
-originalUrl: "https://www.infoq.com/news/2020/09/immersive-reader-ga-azure/"
-webUrl: "https://www.infoq.com/news/2020/09/immersive-reader-ga-azure/"
+title: "DH2i Announces Support for Microsoft Azure Shared Disks and New Azure Disk Storage Enhancements"
+excerpt: "Fortunately, with the release of Azure shared disks, this requirement has been met for SQL Server users. Customers that are deploying SQL Server in Azure are now able to create HA instances using shared disks for full instance failover."
+publishedDateTime: 2020-09-02T07:45:00Z
+originalUrl: "https://www.marketwatch.com/press-release/dh2i-announces-support-for-microsoft-azure-shared-disks-and-new-azure-disk-storage-enhancements-2020-09-01"
+webUrl: "https://www.marketwatch.com/press-release/dh2i-announces-support-for-microsoft-azure-shared-disks-and-new-azure-disk-storage-enhancements-2020-09-01"
 type: article
-quality: 24
+quality: 65
 heat: -1
 published: false
 
 provider:
-  name: InfoQ
-  domain: infoq.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
 
 images:
-  - url: "https://res.infoq.com/news/2020/09/immersive-reader-ga-azure/en/headerimage/croppted-1920_Panel4_FeatureHeader_PictureDictionary-1599385533206.jpg"
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
     width: 1200
     height: 630
     isCached: true
@@ -33,20 +37,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 71
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "DH2i Announces Support for Microsoft Azure Shared Disks and New Azure Disk Storage Enhancements"
-    excerpt: "Fortunately, with the release of Azure shared disks, this requirement has been met for SQL Server users. Customers that are deploying SQL Server in Azure are now able to create HA instances using shared disks for full instance failover."
-    publishedDateTime: 2020-09-02T07:45:00Z
-    webUrl: "https://www.marketwatch.com/press-release/dh2i-announces-support-for-microsoft-azure-shared-disks-and-new-azure-disk-storage-enhancements-2020-09-01"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 65
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -96,6 +86,20 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "Microsoft Announces the General Availability of Immersive Reader Service on the Azure AI Platform"
+    excerpt: "Immersive Reader, which is a part of the Cognitive Services suite within the Microsoft Azure AI Platform provides help for readers to read and comprehend text. In a recent blog, Microsoft announced the general availability of the service."
+    publishedDateTime: 2020-09-07T11:19:00Z
+    webUrl: "https://www.infoq.com/news/2020/09/immersive-reader-ga-azure/"
+    type: article
+    provider:
+      name: InfoQ
+      domain: infoq.com
+    quality: 24
+    images:
+      - url: "https://res.infoq.com/news/2020/09/immersive-reader-ga-azure/en/headerimage/croppted-1920_Panel4_FeatureHeader_PictureDictionary-1599385533206.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Nutanix joins Microsoft Azure for seamless Hybrid Cloud experience"
     excerpt: "Enterprise Cloud computing firm Nutanix on Tuesday announced a partnership with Microsoft to deliver a Hybrid Cloud solution with seamless application, data and license mobility. As part of the collaboration,"
     publishedDateTime: 2020-09-08T23:37:00Z
@@ -115,6 +119,6 @@ related:
       domain: insidehpc.com
     quality: 17
 
-secured: "U1tqkMVN1GYbiBhYeL2tQVTcDNIBzxmrzQoZ7b/OtMKBwGTi4iWQMYWRoY5//+bbYK5TPtlfNXhPwNj9JIFOdhGe+YzA6mSrD6Or9j40HScn/P1a4YihJFHEeLR1X0dQ5X9XFPWvE27MO29YAvR+wSSuPT0uaVXQTIVaTAwklnG2giZ6ATvrNKbU5ol/4WH0TxdO9sHFj1UL8Z86FHNzkTTGzhv51TUdBxXW+LOETVNBmPujfzkufeBRXqtqsIC/vZILSraFoGSBFbMEwyuFUGwt3tHJirDdWarJHZXWihTqhEwK5gcforL5ZndO2F2VSFYhzdlT7HBB0Bj4LFA3OgOxCADSf/p5DgDJh0MaGGpYypSNvurmssb86yq7dArBEgaVCo/uVN1BoLHFkXAuspMQdcSh1sp8QM+Znbebck43sovUc8DKCUF+Jwh/rdYzGCa1S3jv4OEGClmscc5kTq0NCrIl5NIxUTWNAVUpBNk2I704l10KER30x4l7xglfny5O+2SnK8ifyZSlk2TdqhNweFED8dUx03JCtH15Yog=;OK83GJ/IHhM0fndYtskbiQ=="
+secured: "yMs0uDpIj4LMhsHsXfVaqpPM3fENiSJeys0l8ScfOpKKDz8L9zxn2xk9twjyty5yPxuzB92633eCjY70Z7UVX88rmCLHxrg7evNGoXQrKG2SvQ+a8KHuYozflFhSBpi46JImAKY+N2Z7yCEZjO9/fZ6KJ3m7ZEf/wFvbIK/aFHIYC6mlFlywrKpg91CoSPGv6hoCsKaGfGn6jDVXsR0jgcKTbWHfVG9B56tDZ/Z0CPyrNnhMxP9fCJ57kMTzza8qhINgYIwPEwuZ8F80fUqTWowQOGGe8TOwzThTg1PqXewvGrjInsqH3jMEmes0EJlCN9WkNTfsSmf+5G2K1m4vIZZDXhjwx6/1HDpvwRUbmI4=;Q6aOwMCdYEE7EMBtclhHfA=="
 ---
 
