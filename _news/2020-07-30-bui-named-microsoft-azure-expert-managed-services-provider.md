@@ -8,7 +8,7 @@ ampWebUrl: "https://amp.itweb.co.za/content/KA3WwMdDjz9MrydZ"
 cdnAmpWebUrl: "https://amp-itweb-co-za.cdn.ampproject.org/c/s/amp.itweb.co.za/content/KA3WwMdDjz9MrydZ"
 type: article
 quality: 57
-heat: 77
+heat: 97
 published: true
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Mindtree Recognized as an Expert Managed Service Provider for Microsoft Azure"
+    excerpt: "Mindtree, a leading digital transformation and technology services company, has been recognized as a Microsoft Azure Expert Managed"
+    publishedDateTime: 2020-09-10T09:18:00Z
+    webUrl: "https://www.prnewswire.com/ae/news-releases/mindtree-recognized-as-an-expert-managed-service-provider-for-microsoft-azure-301127238.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 34
+    images:
+      - url: "https://mma.prnewswire.com/media/1004066/Mindtree_Logo.jpg?p=facebook"
+        width: 1496
+        height: 785
+        isCached: true
   - title: "Barracuda introduces first global secure SD-WAN service built natively on Microsoft Azure"
     excerpt: "With the new Barracuda CloudGen WAN, Singapore customers can deploy the Microsoft Global Network as their secure enterprise WAN backbone. Barracuda, a trusted partner and a leading provider of cloud-enabled security solutions, today announced a new secure ..."
     publishedDateTime: 2020-07-30T04:55:00Z
