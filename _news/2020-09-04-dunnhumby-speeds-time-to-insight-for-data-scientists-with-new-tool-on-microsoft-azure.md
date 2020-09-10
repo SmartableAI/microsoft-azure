@@ -63,6 +63,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "dunnhumby Reduces Time to Action for Data Scientists via New Tool on Microsoft Azure"
+    excerpt: "The launch of dunnhumby Model Lab, hosted on Azure opens customer data science to retailers, brands and businesses dunnhumby, the global leader in customer data science, has launched its new web-based application on Microsoft Azure, enabling data ..."
+    publishedDateTime: 2020-09-04T14:42:00Z
+    webUrl: "https://stockhouse.com/news/press-releases/2020/09/02/dunnhumby-reduces-time-to-action-for-data-scientists-via-new-tool-on-microsoft"
+    type: article
+    provider:
+      name: Stockhouse
+      domain: stockhouse.com
+    quality: 10
 
 secured: "9DookeHgmDdB49zF+AZ7C4eeSb7OaAzLCOAipclLv3ypgKpE3xkMMDRYd28Y6MIMLnDLbHUhezKsiCtY2+9Jdqnx4p7nbPQS6k5S9GkIjdM4fJ13S2Ucogf04IQ7bpOZ5r0yexpLvglTdfIk3ZxIOZWMf4XW3g4gOJYQlBQxF76Tx4eXTbRFrrxPnPc+Wq/3Y+VfEglAFKjGL6tWUuKj6PUtzTadd/McLgdNChRY1FK2vTfmWc3yMMpxckX5Vd7rcAB/9V3/v2v+68UxGbE9VMoIUxXmo8VGvAK0mK/njm9p8UFKyXGTgt4WumI9F//s5WbwP0KqRL6SgtYYwgAxvlecNnK+F/4nr6GnVgGNaW8=;OgrbMsqPKM7nxwByIcvM/g=="
 ---

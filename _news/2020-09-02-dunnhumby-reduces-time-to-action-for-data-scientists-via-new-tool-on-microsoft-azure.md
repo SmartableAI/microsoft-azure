@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/09/02/dunnhumby-reduces-time-to-action-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/02/dunnhumby-reduces-time-to-action-for-data-scientists-via-new-tool-on-microsoft-azure/amp/"
 type: article
 quality: 70
-heat: 130
+heat: 150
 published: true
 
 provider:
@@ -66,6 +66,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "dunnhumby Reduces Time to Action for Data Scientists via New Tool on Microsoft Azure"
+    excerpt: "The launch of dunnhumby Model Lab, hosted on Azure opens customer data science to retailers, brands and businesses dunnhumby, the global leader in customer data science, has launched its new web-based application on Microsoft Azure, enabling data ..."
+    publishedDateTime: 2020-09-04T14:42:00Z
+    webUrl: "https://stockhouse.com/news/press-releases/2020/09/02/dunnhumby-reduces-time-to-action-for-data-scientists-via-new-tool-on-microsoft"
+    type: article
+    provider:
+      name: Stockhouse
+      domain: stockhouse.com
+    quality: 10
 
 secured: "Ap4X9wmWh3SOm7RvoGI5N0VE8GUc9ODTaZdvOuauXsov6qIwxiuK5krxFPw6j16WiUn2ewHtfMB3JS1/WnEOSeu3yJ3eT32zjVWnVW5D1WvKTw+mXGCFXacqonROJMh1iBldUvpc3M0DVAVd/K7xz8Nt9u0T2E2AuEEeiOAYzLwQqj5WoOWVeDwSihtnISXrDl+5DMYKQsYTCEwmeXj3hvksede6gK6pxhjoD7zmxTnu8/EofKBk2zsdaHXZ0AFSRQPwqTMqg51zGSeTqgRsEW2O3ZpiLR6Hf4IhIjwPAy8sYTYmwMykhqpGy/33qEbcJQy0bIT0GEDLuyGZcWtWzjWGGqU4jWUzHBtNjW73WVk=;l+Q/VGX99jVhQKtqNxPHxg=="
 ---

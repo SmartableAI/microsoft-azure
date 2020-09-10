@@ -24,18 +24,18 @@ images:
 
 related:
   - title: "Infoworks DataFoundry to be Featured at Databricks Microsoft Azure Event"
-    excerpt: "Infoworks.io, the leader in Enterprise Data Operations and Orchestration (EDO2) systems, announces that the company is co-sponsoring a Unified Data Analytics virtual workshop with Databricks and Microsoft Azure this week."
-    publishedDateTime: 2020-08-31T15:29:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200831005452/en/Infoworks-DataFoundry-Featured-Databricks-Microsoft-Azure-Event"
+    excerpt: "Theodore will discuss how AMN used Infoworks DataFoundry to successfully migrate operational and financial forecasting production environments from Hadoop to Microsoft Azure Databricks."
+    publishedDateTime: 2020-08-31T16:18:00Z
+    webUrl: "https://www.oaoa.com/news/business/infoworks-datafoundry-to-be-featured-at-databricks-microsoft-azure-event/article_17bbac33-e0ae-5641-a446-99481cb5d234.html"
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
+      name: Odessa American
+      domain: oaoa.com
     quality: 36
     images:
-      - url: "https://mms.businesswire.com/media/20200831005452/en/756518/23/Infoworks.jpg"
-        width: 1200
-        height: 627
+      - url: "https://www.valleymorningstar.com/wp-content/uploads/sites/63/2020/07/GET-IT-NOW-BUTTON.png"
+        width: 576
+        height: 288
         isCached: true
 
 secured: "ufo6Z22+OYG3WJB4JSskeMaRO7dSPK5sItAOMt6BieuWlMI1+RWX3PG2BR0EZ3eDJO2xJYYMU/S701vplKR7lb60UM+l1zfYVsLm0e6L91KaaznhMCGSgnv7vnHhuUwvidrNELLJX/gNoUraQtcjJ3lgdvUe8Su5oORRE+HL7wGvahyDa3WByi7lvzmB373tG+4L4Ve9lW+kO6rX6+XIqEEnWtZuTlopcs2tYgEhnzrdhX+dwcAq1sUXpiHNkAUWCW6Bk+NVGzIEA1Dq124Jp/pLOC/w1L7/1JxW9SFGvC+OUmexyB58LJ68fruoTf/vgPMuBzziCHcterLIppr2pQ==;ZZqJJIR7Wj4TAYmsUcy5Fg=="

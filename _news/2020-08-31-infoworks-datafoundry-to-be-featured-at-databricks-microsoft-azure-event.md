@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Infoworks DataFoundry to be Featured at Databricks Microsoft Azure Event"
-excerpt: "Infoworks.io, the leader in Enterprise Data Operations and Orchestration (EDO2) systems, announces that the company is co-sponsoring a Unified Data Analytics virtual workshop with Databricks and Microsoft Azure this week."
-publishedDateTime: 2020-08-31T15:29:00Z
-originalUrl: "https://www.businesswire.com/news/home/20200831005452/en/Infoworks-DataFoundry-Featured-Databricks-Microsoft-Azure-Event"
-webUrl: "https://www.businesswire.com/news/home/20200831005452/en/Infoworks-DataFoundry-Featured-Databricks-Microsoft-Azure-Event"
+excerpt: "Theodore will discuss how AMN used Infoworks DataFoundry to successfully migrate operational and financial forecasting production environments from Hadoop to Microsoft Azure Databricks."
+publishedDateTime: 2020-08-31T16:18:00Z
+originalUrl: "https://www.oaoa.com/news/business/infoworks-datafoundry-to-be-featured-at-databricks-microsoft-azure-event/article_17bbac33-e0ae-5641-a446-99481cb5d234.html"
+webUrl: "https://www.oaoa.com/news/business/infoworks-datafoundry-to-be-featured-at-databricks-microsoft-azure-event/article_17bbac33-e0ae-5641-a446-99481cb5d234.html"
 type: article
 quality: 36
 heat: 36
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Odessa American
+  domain: oaoa.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://mms.businesswire.com/media/20200831005452/en/756518/23/Infoworks.jpg"
-    width: 1200
-    height: 627
+  - url: "https://www.valleymorningstar.com/wp-content/uploads/sites/63/2020/07/GET-IT-NOW-BUTTON.png"
+    width: 576
+    height: 288
     isCached: true
 
 related:
@@ -39,6 +39,6 @@ related:
         height: 627
         isCached: true
 
-secured: "YqM+pt6uv4A5HkhQzj3VI+7sSQkjWZ2h5jm+SJmuBmeo+PyRK6IcAPOuNg1qM+rKMsVOjFEpluCUDcNNfbcinqu6QxG+lDIYjbbVg8FOYXp3xAUDuKobHGZZEVR+XeCqUCrWrCMmXRmksGS5IUf3M0WcjOdng580PyQOqIXYKQKlxQH37r8CF9T0c3ZRJOa1R6dksoo1mluxdtwfjbBzi81cTmUar6BqdK/tJwW/3xTAVPyO+is2BnIGu5G/J0igDxdqdVJvlAA8bM3gbDIjM9E+xlBolM8PecjeV7fvUGn6uCZbKNIPLqLV/cjvhOZVxWOCptRHmpuL7K/e/qMW9wU+qPVWGyrPraK88/1QD2Q=;c/OY4BIc5wS5zbjFViPlJg=="
+secured: "g8+BOj0yuVbn3hCRu4+xJWaAqBvadmCT5jwT3xaZ+MKkel0Gm3YSK88sSfGdB/qwUyrC9oJ+78X/cLDc5QGsx5wRyAgixcWUxtyMQ3HR+KG9eqZQgMNfQ/Odp5XrstlcYlL6EPmlI4UG5FhO6RdI4w0rltILwgNwCFxE+QO0ch4Ni6vADrCokwunNnFSdvBnWQ7H23aLktUp/WfLOV5g+hzqgrjndUpW3OSmRuu8nvBJgTBRo6YBQK6R3MiJGQZajN2HmmGk/xMdVjXem8nTyCCutC/EQ3suC1br/9/UP7mLNZqSFdJEd9wDK5KPIIRLzMkfrZb7sit1ptfwl2LYtnnyf2Wi6Leinaten7LV9Yk=;CVOXvIqapXx6ERAeksieGw=="
 ---
 
