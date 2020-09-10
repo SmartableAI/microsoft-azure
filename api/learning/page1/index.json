@@ -185,8 +185,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/principles-cloud-computing/",
       "length": "PT1H2M",
       "ratings": {
-        "count": 162295,
-        "average": 4.771983
+        "count": 162310,
+        "average": 4.7719917
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -219,8 +219,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/create-an-azure-account/",
       "length": "PT39M",
       "ratings": {
-        "count": 129402,
-        "average": 4.69577
+        "count": 129410,
+        "average": 4.695773
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -273,7 +273,7 @@
           "path": "",
           "title": "Security, responsibility, and trust in Azure",
           "excerpt": "Discuss the basic concepts for protecting your infrastructure and data when you work in the cloud. Understand what responsibilities are yours and what Azure takes care of for you.",
-          "heat": 289,
+          "heat": 290,
           "type": "course",
           "topics": [
             "Azure",
@@ -331,7 +331,7 @@
         }
       ],
       "size": 9,
-      "heat": 346,
+      "heat": 348,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/manage-users-and-groups-in-aad-social.png",
@@ -376,7 +376,7 @@
           "path": "",
           "title": "Security, responsibility, and trust in Azure",
           "excerpt": "Discuss the basic concepts for protecting your infrastructure and data when you work in the cloud. Understand what responsibilities are yours and what Azure takes care of for you.",
-          "heat": 289,
+          "heat": 290,
           "type": "course",
           "topics": [
             "Azure",
@@ -654,8 +654,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/explore-azure-infrastructure/",
       "length": "PT45M",
       "ratings": {
-        "count": 65391,
-        "average": 4.712529
+        "count": 65397,
+        "average": 4.7125554
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -687,8 +687,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/welcome-to-azure/",
       "length": "PT36M",
       "ratings": {
-        "count": 64700,
-        "average": 4.7997375
+        "count": 64703,
+        "average": 4.7997465
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -721,8 +721,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/intro-to-azure-compute/",
       "length": "PT38M",
       "ratings": {
-        "count": 61532,
-        "average": 4.708737
+        "count": 61538,
+        "average": 4.7087655
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -761,8 +761,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/intro-to-data-in-azure/",
       "length": "PT25M",
       "ratings": {
-        "count": 53473,
-        "average": 4.733174
+        "count": 53478,
+        "average": 4.7331986
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -796,8 +796,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/tour-azure-portal/",
       "length": "PT1H13M",
       "ratings": {
-        "count": 49076,
-        "average": 4.7066793
+        "count": 49082,
+        "average": 4.706695
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -814,12 +814,46 @@
       "levels": [
         "Beginner"
       ],
-      "heat": 298,
+      "heat": 299,
       "type": "course",
       "price": "Free",
       "topics": [
         "Azure",
         "Management Tools"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-introduction-to-security.md",
+      "title": "Security, responsibility, and trust in Azure",
+      "excerpt": "Discuss the basic concepts for protecting your infrastructure and data when you work in the cloud. Understand what responsibilities are yours and what Azure takes care of for you.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-introduction-to-security/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/intro-to-security-in-azure/",
+      "length": "PT1H16M",
+      "ratings": {
+        "count": 43149,
+        "average": 4.70238
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 290,
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Identity"
       ]
     },
     {
@@ -830,8 +864,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/intro-to-azure-networking/",
       "length": "PT28M",
       "ratings": {
-        "count": 42255,
-        "average": 4.7640514
+        "count": 42256,
+        "average": 4.7640333
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -857,40 +891,6 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-introduction-to-security.md",
-      "title": "Security, responsibility, and trust in Azure",
-      "excerpt": "Discuss the basic concepts for protecting your infrastructure and data when you work in the cloud. Understand what responsibilities are yours and what Azure takes care of for you.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-introduction-to-security/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/intro-to-security-in-azure/",
-      "length": "PT1H16M",
-      "ratings": {
-        "count": 43147,
-        "average": 4.7023897
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 289,
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Identity"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-predict-costs-and-optimize-spending.md",
       "title": "Predict costs and optimize spending for Azure",
       "excerpt": "Discover how to use Azure pricing calculator, Azure Cost Management, and Azure Advisor to predict and manage cloud expenses.",
@@ -898,8 +898,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/predict-costs-and-optimize-spending/",
       "length": "PT1H14M",
       "ratings": {
-        "count": 39158,
-        "average": 4.714337
+        "count": 39159,
+        "average": 4.714344
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -932,8 +932,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/control-and-organize-with-azure-resource-manager/",
       "length": "PT46M",
       "ratings": {
-        "count": 37254,
-        "average": 4.7124605
+        "count": 37256,
+        "average": 4.712449
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -966,8 +966,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/intro-to-governance/",
       "length": "PT46M",
       "ratings": {
-        "count": 36968,
-        "average": 4.6286516
+        "count": 36971,
+        "average": 4.6286006
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1658,8 +1658,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/intro-to-azure-virtual-machines/",
       "length": "PT1H7M",
       "ratings": {
-        "count": 13736,
-        "average": 4.684624
+        "count": 13739,
+        "average": 4.6846933
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2019,7 +2019,7 @@
           "path": "",
           "title": "Security, responsibility, and trust in Azure",
           "excerpt": "Discuss the basic concepts for protecting your infrastructure and data when you work in the cloud. Understand what responsibilities are yours and what Azure takes care of for you.",
-          "heat": 289,
+          "heat": 290,
           "type": "course",
           "topics": [
             "Azure",
@@ -2059,7 +2059,7 @@
           "path": "",
           "title": "Secure your Azure Storage account",
           "excerpt": "Learn how Azure Storage provides multilayered security to protect your data with access keys, secure networks, and Advanced Threat Protection monitoring.",
-          "heat": 172,
+          "heat": 173,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/data-ai/secure-azure-storage-account-badge-social.png",
@@ -2076,7 +2076,7 @@
         }
       ],
       "size": 7,
-      "heat": 206,
+      "heat": 207,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/configure-security-policies-to-manage-data-social.png",

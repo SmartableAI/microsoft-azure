@@ -4,39 +4,6 @@
   "page": 13,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-create-pipelines-in-aml.md",
-      "title": "Orchestrate machine learning with pipelines",
-      "excerpt": "Create pipelines in Azure Machine Learning",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-create-pipelines-in-aml/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/create-pipelines-in-aml/",
-      "length": "PT55M",
-      "ratings": {
-        "count": 410,
-        "average": 4.617073
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 66,
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-describe-concepts-of-relational-data.md",
       "title": "Describe concepts of relational data",
       "excerpt": "Describe concepts of relational data",
@@ -85,8 +52,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/explore-concepts-of-data-analytics/",
       "length": "PT16M",
       "ratings": {
-        "count": 413,
-        "average": 4.803874
+        "count": 414,
+        "average": 4.804348
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -902,8 +869,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/explore-concepts-of-non-relational-data/",
       "length": "PT26M",
       "ratings": {
-        "count": 345,
-        "average": 4.8347826
+        "count": 346,
+        "average": 4.83526
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -943,8 +910,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/explore-devops-continuous-security-operations/",
       "length": "PT22M",
       "ratings": {
-        "count": 355,
-        "average": 4.678873
+        "count": 356,
+        "average": 4.679775
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1094,8 +1061,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/introduction-python-nasa/",
       "length": "PT23M",
       "ratings": {
-        "count": 345,
-        "average": 4.753623
+        "count": 349,
+        "average": 4.756447
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1820,6 +1787,49 @@
       "topics": [
         "Azure",
         "DevOps"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-describe-azure-databricks.md",
+      "title": "Describe Azure Databricks",
+      "excerpt": "Describe Azure Databricks",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-describe-azure-databricks/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/describe-azure-databricks/",
+      "length": "PT53M",
+      "ratings": {
+        "count": 335,
+        "average": 4.483582
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 63,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/describe-azure-databricks-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Analytics",
+        "AI"
       ]
     }
   ],
