@@ -44,6 +44,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Query Acceleration for Azure Data Lake Storage is now generally available"
+    excerpt: "Query Acceleration for Azure Data Lake Storage is now generally available in all Azure regions."
+    publishedDateTime: 2020-09-10T18:00:21Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/query-acceleration-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 66
   - title: "Azure geo-zone-redundant storage is now generally available"
     excerpt: "Geo-zone-redundant storage (GZRS) and read-access geo-zone-redundant storage (RA-GZRS) are now generally available, offering intra-regional and inter-regional high availability and disaster protection for your applications."
     publishedDateTime: 2020-06-17T20:00:18Z

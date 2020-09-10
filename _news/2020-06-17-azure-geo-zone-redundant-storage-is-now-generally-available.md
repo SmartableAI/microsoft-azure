@@ -44,6 +44,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Query Acceleration for Azure Data Lake Storage is now generally available"
+    excerpt: "Query Acceleration for Azure Data Lake Storage is now generally available in all Azure regions."
+    publishedDateTime: 2020-09-10T18:00:21Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/query-acceleration-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 66
   - title: "Azure Storage account failover is now generally available "
     excerpt: "Customer-initiated Storage account failover is now generally available, allowing you to determine when to initiate a failover instead of waiting for Microsoft to do so."
     publishedDateTime: 2020-06-17T17:00:26Z

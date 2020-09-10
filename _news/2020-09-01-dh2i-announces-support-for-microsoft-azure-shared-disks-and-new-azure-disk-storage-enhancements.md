@@ -85,18 +85,18 @@ related:
         height: 250
         isCached: true
   - title: "Platform.sh announces expansion of services to Microsoft Azure West US 2 Datacenter Region"
-    excerpt: "PRNewswire/ -- Platform.sh, an end-to-end web platform for agile teams, is pleased to announce the expansion of its services to the West US 2"
-    publishedDateTime: 2020-09-08T16:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/platformsh-announces-expansion-of-services-to-microsoft-azure-west-us-2-datacenter-region-301125659.html"
+    excerpt: "8, 2020 /PRNewswire/ -- Platform.sh, an end-to-end web platform for agile teams, is pleased to announce the expansion of its services to the West US 2 datacenter region of Microsoft Azure ..."
+    publishedDateTime: 2020-09-08T16:05:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/platform-sh-announces-expansion-of-services-to-microsoft-azure-west-us-2-datacenter-region/article_1d4f0d8f-1984-5ce1-b24e-3380c68de1b7.html"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
+      name: WFMZ-TV
+      domain: wfmz.com
     quality: 27
     images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Microsoft Announces the General Availability of Immersive Reader Service on the Azure AI Platform"
     excerpt: "Immersive Reader, which is a part of the Cognitive Services suite within the Microsoft Azure AI Platform provides help for readers to read and comprehend text. In a recent blog, Microsoft announced the general availability of the service."

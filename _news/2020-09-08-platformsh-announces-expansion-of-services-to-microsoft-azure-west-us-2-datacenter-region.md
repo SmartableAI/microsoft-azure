@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Platform.sh announces expansion of services to Microsoft Azure West US 2 Datacenter Region"
-excerpt: "PRNewswire/ -- Platform.sh, an end-to-end web platform for agile teams, is pleased to announce the expansion of its services to the West US 2"
-publishedDateTime: 2020-09-08T16:00:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/platformsh-announces-expansion-of-services-to-microsoft-azure-west-us-2-datacenter-region-301125659.html"
-webUrl: "https://www.prnewswire.com/news-releases/platformsh-announces-expansion-of-services-to-microsoft-azure-west-us-2-datacenter-region-301125659.html"
+excerpt: "8, 2020 /PRNewswire/ -- Platform.sh, an end-to-end web platform for agile teams, is pleased to announce the expansion of its services to the West US 2 datacenter region of Microsoft Azure ..."
+publishedDateTime: 2020-09-08T16:05:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/platform-sh-announces-expansion-of-services-to-microsoft-azure-west-us-2-datacenter-region/article_1d4f0d8f-1984-5ce1-b24e-3380c68de1b7.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/platform-sh-announces-expansion-of-services-to-microsoft-azure-west-us-2-datacenter-region/article_1d4f0d8f-1984-5ce1-b24e-3380c68de1b7.html"
 type: article
 quality: 27
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-    width: 600
-    height: 315
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+    width: 1280
+    height: 720
     isCached: true
 
 related:
@@ -122,6 +122,6 @@ related:
       domain: insidehpc.com
     quality: 17
 
-secured: "CVvtN0+o7fBd+pIGeyBB2kBhQ4SKZhODtszkeY2ZxvZdl0PBhnN2qFmuoaNgR9HbQgYNdnhP9vJqjb1OFanh0kMTib9KN/MFanMTmpIOZwBK2jUy/eM8dmHNx5n9dmAinX8IUxl4u6Iv451Kh9nsydABHBx9mk9wTrAo3/rZRO6Ibu7Fiq/FoulXAgYVKJWbXwL3LN/0Gmuy8X1dxZDZP2S8AESENj6N5FNz4LaC+mRFlWkWQiEpRbNUBUR03AMPN+/JzuK7wuhBFBDhdkNiueMBvH/Fh/K8/Pz4xPH6azzsY7BO73yNb7aKKZfXNNGXq2dN4M/0Ey/IKlMnbO7SfhKynbSibtofixS9ks5cFVA=;i7qx9qggjEYwmQ9asTM/Dw=="
+secured: "PqG7ItZ1bLs6OcJQNbHZbaR0F9s54IzqhiD19UHjaaBHMxhgYXtPkSxjtklfF72z83AOvGREnv+1WOchp1YKsDv/K1OCp30KwwrsiQCjbCdtYEWKpVsUcgpaDwmsggo2Eo1eYevAojcztoYu4bPG+wEUu4Y1lzVaIH1GryildbxsWMmI76A9t7ljUTgSw6bDyzZgp+ECHG74BfOiQxbwXauTvXW5ZpN5hhvLKeP0Qy6Vbo4Tpce+MpHGwcYG0lhURPcUCR9L3ZQ8ljpkvALmh49S6hOKAkwm4PnZWox9qIQowGzx1nT2v2/cctDZ4hga7wVVJ+68w6BgN0lpUITiKXazjmhHy+HJ3LNlXDoambc=;x3ZfQVQ1MYjV1CMHhbLNqQ=="
 ---
 

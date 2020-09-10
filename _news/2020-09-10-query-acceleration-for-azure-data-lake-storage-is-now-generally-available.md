@@ -1,11 +1,12 @@
 ---
 category: news
-title: "Azure Private Link for Azure Batch is now generally available in select regions"
-excerpt: "Azure Private Link for Azure Batch is now generally available in the West US 2, East US, South Central US, US Gov Virginia, and US Gov Arizona regions"
-publishedDateTime: 2020-06-16T21:00:05Z
-webUrl: "https://azure.microsoft.com/en-us/updates/azure-private-link-for-azure-batch-is-now-generally-available-in-select-regions/"
+title: "Query Acceleration for Azure Data Lake Storage is now generally available"
+excerpt: "Query Acceleration for Azure Data Lake Storage is now generally available in all Azure regions."
+publishedDateTime: 2020-09-10T18:00:21Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/query-acceleration-generally-available/"
+webUrl: "https://azure.microsoft.com/en-us/updates/query-acceleration-generally-available/"
 type: article
-quality: 13
+quality: 66
 heat: -1
 published: false
 
@@ -44,15 +45,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Query Acceleration for Azure Data Lake Storage is now generally available"
-    excerpt: "Query Acceleration for Azure Data Lake Storage is now generally available in all Azure regions."
-    publishedDateTime: 2020-09-10T18:00:21Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/query-acceleration-generally-available/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 66
   - title: "Azure geo-zone-redundant storage is now generally available"
     excerpt: "Geo-zone-redundant storage (GZRS) and read-access geo-zone-redundant storage (RA-GZRS) are now generally available, offering intra-regional and inter-regional high availability and disaster protection for your applications."
     publishedDateTime: 2020-06-17T20:00:18Z
@@ -116,7 +108,16 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 16
+  - title: "Azure Private Link for Azure Batch is now generally available in select regions"
+    excerpt: "Azure Private Link for Azure Batch is now generally available in the West US 2, East US, South Central US, US Gov Virginia, and US Gov Arizona regions"
+    publishedDateTime: 2020-06-16T21:00:05Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-private-link-for-azure-batch-is-now-generally-available-in-select-regions/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 13
 
-secured: "HTA/tvePOTPRsrRSmVC486sf2ItHY2vxjuIr2lF3fBv7vu9tOQIxcDjdjwT6WZ2S8Y+eSjT2nxOnrZNaSwkrgufbP8ZrvOeAY6JwpF1l0HBzOk+k8YqgG6kr7mLnF7611Rn9umCTDpZf6EgAGhT4Kel9VTL6xM3uelVKHswieVKYjYVQxElS+mF8pVVbBZNiHr9QKOnYoW9JYzUYn0hCwN3EPd5j5sXtjumSmM0F6AbZL/3gd3ei1+m3sG/PAYiH3kPIjC9WgYGpMNhspT8PsGERu3lnNyDQ+F0yqhCvCtmKR7DJpNu+rUlZdlfPXOHWEa1ArUZZin8c8mXOCTXeeQ==;Mn5zGf3V/R0sa3LuLS5dlQ=="
+secured: "us3ScSBg6ExWfTqbcHNW+iDa79gehHGhnykxEqNJsTwrRGsjJUXaJq8fVcV8cxMUyasBdbCMEC3BPdU9yVY09OW6N2fw2U7lRuRXfXiSFDp468PzhP9myeq89btVEeWGmCprBE88ebeyN6SNVhS5iftpfOzKrNRfCGwSZeHzzcDF3a0hGgCe9CEaAz5S7F3IW/cJw+QNk9jy5zuAc0X7vHt9saA21p0Qa1lo5GI72bdwysjrSsx0nHJjivTz8GAanErckCSDBwU1n/9euVTk9BBXh0ohMzfM28ZvXY4zMIb3VSoTMQBVhYNC0krP2wu3rUWf1AKkv0gdxIKQ0nDtTxN9L9ONBchzfghzx1fk73o=;bqsGwHhRBayQjzaCGC5GxQ=="
 ---
 
