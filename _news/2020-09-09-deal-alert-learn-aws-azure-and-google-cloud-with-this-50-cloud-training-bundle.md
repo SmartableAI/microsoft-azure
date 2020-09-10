@@ -3,10 +3,10 @@ category: news
 title: "Deal alert: Learn AWS, Azure, and Google Cloud with this $50 cloud training bundle"
 excerpt: "The convenience of the cloud is hard to beat. You've almost certainly experienced it first hand, whether it is saving your photos to the cloud so you always have access to them or pulling up an important document while on the go."
 publishedDateTime: 2020-09-09T11:00:00Z
-originalUrl: "https://www.zdnet.com/index.php/category/2184/index.php/article/deal-alert-learn-aws-azure-and-google-cloud-with-this-50-cloud-training-bundle/"
-webUrl: "https://www.zdnet.com/index.php/category/2184/index.php/article/deal-alert-learn-aws-azure-and-google-cloud-with-this-50-cloud-training-bundle/"
-ampWebUrl: "https://www.zdnet.com/index.php/category/2184/index.php/google-amp/article/deal-alert-learn-aws-azure-and-google-cloud-with-this-50-cloud-training-bundle/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2184/index.php/google-amp/article/deal-alert-learn-aws-azure-and-google-cloud-with-this-50-cloud-training-bundle/"
+originalUrl: "https://www.zdnet.com/index.php/category/2381/index.php/article/deal-alert-learn-aws-azure-and-google-cloud-with-this-50-cloud-training-bundle/"
+webUrl: "https://www.zdnet.com/index.php/category/2381/index.php/article/deal-alert-learn-aws-azure-and-google-cloud-with-this-50-cloud-training-bundle/"
+ampWebUrl: "https://www.zdnet.com/index.php/category/2381/index.php/google-amp/article/deal-alert-learn-aws-azure-and-google-cloud-with-this-50-cloud-training-bundle/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2381/index.php/google-amp/article/deal-alert-learn-aws-azure-and-google-cloud-with-this-50-cloud-training-bundle/"
 type: article
 quality: 91
 heat: 91
@@ -29,6 +29,6 @@ images:
     height: 900
     isCached: true
 
-secured: "tRW2Z36RIXwyfHaOGd74giNOxov0gVthz1syyLbMl51LzVFLae6I82MAAGOwVYDRLFeWSgcxqrOpXQHwijsi+7HXwl3heWvNvDeEdw4Xlyr3USpOAxkmDYhKtUxSLcbg51gBmGtXyZIOkWUOBtlgvwbafK+5DzyN7MnF33MNq6a50wKYs/woFojqthSjjjFKqosFyJT4AZJO5T6ImhLiN1KLOlIMRQbyX6CG7fKhE+5lSaiiMIXMoIkiQcNtApzmto8bXBEvW0oAywbHklLrGJ8nzFxRLRKozL3ISKsq0YI9DPQhHCSokQKxXpPd9jdpA1ccHbKPNnoct9YoOLdHrzqgsxF+xZQ9TC34OIMJy5UyFgyxFdHoP6K8+m6TjdCl7JZP1mv8euGjqcINxwgR8hnxbnACbczd6ErmWwsNc3cNjgZNeUFaLthyN7BVcZC989z+WiXjFsnbNZGEYWE5Eyhv+dhbB54V0N5Ier8CGkO4b9zW3FG4kAZlXIV4r7SeK/AOcsgdSVWuzll7FyR/4g==;Dr1A5fxnk8gPePAh8Wgfpw=="
+secured: "HL8gEMRlwfsZMgJxGOQvpj/fK9lWaOo9oFQSScnZwEUL+6akGkDCSqA6tppN4K4ufmEGqczsnggRlSBeYhXzwgm8WIuTZl0/sjjFuust4xil76aPWsxUGRU0TFHYbN186czj9iQ0RKZhNqFziPN5WUIFlAN7F6CgZAEW/txqmwMu2VXN1lS/Ks8bSbZQY3oU4IDlHKO3tI+8YEgmuBFjaA32AAD7Eo/EV3VogFIkX+a4tv+FwdCuuuz573PZIetHk2SGUxTXLi9KMKdbr3Mg3kZiL5RQrQQYWdGB+/iercORL5f2ZVrDEhyylL93nyzCHgdfbsMF34GA8qwLdyJSFPs1TNqG86YZ+D21TwGA77o=;6KOGZHb3qmYDx4XNO5dNLw=="
 ---
 

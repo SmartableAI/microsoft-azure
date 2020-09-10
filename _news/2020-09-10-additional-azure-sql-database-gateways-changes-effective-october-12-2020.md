@@ -1,11 +1,12 @@
 ---
 category: news
-title: "Azure SQL Database gateways changes effective September 2020"
-excerpt: "Beginning September 1, 2020, new Azure SQL Database gateways in multiple regions will start accepting traffic "
-publishedDateTime: 2020-08-03T15:00:04Z
-webUrl: "https://azure.microsoft.com/en-us/updates/azure-sql-database-gateway-changes-sept-2020/"
+title: "Additional Azure SQL Database gateways changes effective October 12, 2020"
+excerpt: "Additional SQL Gateways are being added for Azure SQL Database in Germany West Central effective 12 October 2020.  "
+publishedDateTime: 2020-09-10T20:00:22Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/sql-gateway-additions-in-germany-west-central/"
+webUrl: "https://azure.microsoft.com/en-us/updates/sql-gateway-additions-in-germany-west-central/"
 type: article
-quality: 17
+quality: 66
 heat: -1
 published: false
 
@@ -30,15 +31,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
-  - title: "Additional Azure SQL Database gateways changes effective October 12, 2020"
-    excerpt: "Additional SQL Gateways are being added for Azure SQL Database in Germany West Central effective 12 October 2020.  "
-    publishedDateTime: 2020-09-10T20:00:22Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/sql-gateway-additions-in-germany-west-central/"
+  - title: "Azure SQL Database gateways changes effective September 2020"
+    excerpt: "Beginning September 1, 2020, new Azure SQL Database gateways in multiple regions will start accepting traffic "
+    publishedDateTime: 2020-08-03T15:00:04Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-sql-database-gateway-changes-sept-2020/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 66
+    quality: 17
   - title: "Additional Azure SQL Database gateways changes effective September 10, 2020"
     excerpt: "Additional SQL Gateways are being added for Azure SQL Database in West Central US and South Africa North effective 10 September 2020.  "
     publishedDateTime: 2020-08-06T20:00:13Z
@@ -49,6 +50,6 @@ related:
       domain: microsoft.com
     quality: 15
 
-secured: "t5CqFTr6sV793c8CfnzfjYC7rADddqpP0qn1mEWlhN9Lpmj+RJ5DW6O66TCJZhcrpFOUr52yY9rYS6aq2AyoieVs3w4SbwOnMy64HZeJC3Sp69AqZoSlFf2wswnK+DFIGWGU84w8bxz+o/TuIqFZ95ykdP11wdjZDn2oCaUjg1FOeJjbHN3SSqa09EkktZsa110+PQCFd+/sKzzWkEJo79Zm6iRXsuKUBNxocp9okW8ybmO2kJYJlpLKoU2X7pVG6OsvhjWzWP62E3OiYYr2gNGIcYEk7D/MMP4O7LSkkG2pCmOHKh+uyF8VhpGQjPCBSGYo1x2O72icHEVz4iqCXw==;fc0ookxDnEkqbe2h6rJvtg=="
+secured: "+CcqJdyb7sKPIWRk1rqGpaZlBMRxDWLHBX0byw6NgmTqOlfo0X9E9GjBZTlTIqEbxwJ0h8MFISv+uqOFGDzlLS2qWaFxcYGi9LV3YEzz9Hj81ra6WIZ9pyMzaRa4yg8nJY+0naIvfrpUwDIZYzb96LRg65M4Rvon3N+p0qT9LWRgQirH8DhS6UVzBpoBbQOOSCZAu+/VN0/RS3k0bUyG0f3PMJIG9rLeImFI0gDpa3ahg8isCC6FBNkH7fls/tsX92XjLNHA3uqVjbKKczEZLvOwdFfngk0vkpmGUKWR+Y2s9ZgxZiVHT+vbuk3o5Qv9F6TrBL9NqH9lMVMQO1dISlFM4jGgA9uw0Q0x+JrLCT8=;+mA1U1GuojDI+KsV9YEkng=="
 ---
 
