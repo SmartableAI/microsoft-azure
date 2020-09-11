@@ -2,26 +2,26 @@
 category: news
 title: "Platform.sh announces expansion of services to Microsoft Azure West US 2 Datacenter Region"
 excerpt: "8, 2020 /PRNewswire/ -- Platform.sh, an end-to-end web platform for agile teams, is pleased to announce the expansion of its services to the West US 2 datacenter region of Microsoft Azure ..."
-publishedDateTime: 2020-09-08T16:05:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/platform-sh-announces-expansion-of-services-to-microsoft-azure-west-us-2-datacenter-region/article_1d4f0d8f-1984-5ce1-b24e-3380c68de1b7.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/platform-sh-announces-expansion-of-services-to-microsoft-azure-west-us-2-datacenter-region/article_1d4f0d8f-1984-5ce1-b24e-3380c68de1b7.html"
+publishedDateTime: 2020-09-08T16:12:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/platform-sh-announces-expansion-of-services-to-microsoft-azure-west-us-2-datacenter-region-1029570640"
+webUrl: "https://markets.businessinsider.com/news/stocks/platform-sh-announces-expansion-of-services-to-microsoft-azure-west-us-2-datacenter-region-1029570640"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/platform-sh-announces-expansion-of-services-to-microsoft-azure-west-us-2-datacenter-region-1029570640"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/platform-sh-announces-expansion-of-services-to-microsoft-azure-west-us-2-datacenter-region-1029570640"
 type: article
-quality: 27
+quality: 67
 heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
-
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-    width: 1280
-    height: 720
-    isCached: true
 
 related:
   - title: "Nutanix Announces Partnership with Microsoft Azure for a Seamless Hybrid Experience"
@@ -51,38 +51,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Nutanix joins Microsoft Azure for seamless Hybrid Cloud experience"
-    excerpt: "Microsoft and Nutanix will offer customers seamless sales and support experiences. Microsoft Azure customers will be able to use their existing Azure credits, as part of Microsoft Azure ..."
-    publishedDateTime: 2020-09-08T17:52:00Z
-    webUrl: "https://www.sify.com/finance/nutanix-joins-microsoft-azure-for-seamless-hybrid-cloud-experience-news-topnews-ujirOCgacfiei.html"
-    ampWebUrl: "https://www.sify.com/finance/nutanix-joins-microsoft-azure-for-seamless-hybrid-cloud-experience-news-topnews-ujirOCgacfiei.html"
-    cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/finance/nutanix-joins-microsoft-azure-for-seamless-hybrid-cloud-experience-news-topnews-ujirOCgacfiei.html"
-    type: article
-    provider:
-      name: Sify.com
-      domain: sify.com
-    quality: 57
-    images:
-      - url: "https://www.sify.com/uploads/nutanix_ujikoBjihaieg.jpeg"
-        width: 800
-        height: 420
-        isCached: true
-  - title: "Nutanix Announces Microsoft Azure Partnership To Drive Seamless Hybrid Cloud Experience"
-    excerpt: "Nutanix has announced a new partnership with Microsoft that will enable both companies to deliver a hybrid solution with seamless application, data, and license mobility as well as unified management across on-premises and Azure environments,"
-    publishedDateTime: 2020-09-09T01:46:00Z
-    webUrl: "https://www.scoop.co.nz/stories/BU2009/S00178/nutanix-announces-microsoft-azure-partnership-to-drive-seamless-hybrid-cloud-experience.htm"
-    ampWebUrl: "https://m.scoop.co.nz/stories/BU2009/S00178/nutanix-announces-microsoft-azure-partnership-to-drive-seamless-hybrid-cloud-experience.htm"
-    cdnAmpWebUrl: "https://m-scoop-co-nz.cdn.ampproject.org/c/s/m.scoop.co.nz/stories/BU2009/S00178/nutanix-announces-microsoft-azure-partnership-to-drive-seamless-hybrid-cloud-experience.htm"
-    type: article
-    provider:
-      name: Scoop
-      domain: scoop.co.nz
-    quality: 49
-    images:
-      - url: "https://m.scoop.co.nz/stories/images/1512/smcnz.png"
-        width: 268
-        height: 250
         isCached: true
   - title: "DH2i Announces Support for Microsoft Azure Shared Disks and New Azure Disk Storage Enhancements"
     excerpt: "DH2i®, the leading provider of multi-platform Software Defined Perimeter (SDP) and Smart Availability(TM) software, today announced DxEnterprise(TM) support for the recently announced"
@@ -122,6 +90,6 @@ related:
       domain: insidehpc.com
     quality: 17
 
-secured: "PqG7ItZ1bLs6OcJQNbHZbaR0F9s54IzqhiD19UHjaaBHMxhgYXtPkSxjtklfF72z83AOvGREnv+1WOchp1YKsDv/K1OCp30KwwrsiQCjbCdtYEWKpVsUcgpaDwmsggo2Eo1eYevAojcztoYu4bPG+wEUu4Y1lzVaIH1GryildbxsWMmI76A9t7ljUTgSw6bDyzZgp+ECHG74BfOiQxbwXauTvXW5ZpN5hhvLKeP0Qy6Vbo4Tpce+MpHGwcYG0lhURPcUCR9L3ZQ8ljpkvALmh49S6hOKAkwm4PnZWox9qIQowGzx1nT2v2/cctDZ4hga7wVVJ+68w6BgN0lpUITiKXazjmhHy+HJ3LNlXDoambc=;x3ZfQVQ1MYjV1CMHhbLNqQ=="
+secured: "d4RaxEq+TmFghLpqudGBuam04Ac/BpCBhPOb6PbBT8uPACB+kXJWRB5x3r4OJIVAit1uUTtPAUVOSCpODEY1xSHko7ze2m0T3rSFsm5U20PBdLICOKK1zLonT74sB+Dioy+qb5VQQLHbkWQS3Bob53uT+Q1FGTx/v7/6YjQd5H3sQLQBhHEgqysJ7DsdhHd61ls/To667ljZWoGn8ihcBoSNYaeJYZpeNDwPhyBvctoNwkdZpAfpVCLdLsihX2X0XgxszzCW892NdF6T9n+mJLPpecayq6p2az/+oy8Tt+lp0+OCAGOCAoCUCjDlU4leG95xPAtrpgsXcnYhMDVpDHqB4JRaetX7gbcsvNsDIQs=;VQLgdXNuZao1HtF1jMQjsA=="
 ---
 

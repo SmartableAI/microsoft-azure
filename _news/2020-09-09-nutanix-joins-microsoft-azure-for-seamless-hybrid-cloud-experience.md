@@ -26,31 +26,17 @@ images:
     isCached: true
 
 related:
-  - title: "Nutanix Announces Partnership with Microsoft Azure for a Seamless Hybrid Experience"
-    excerpt: "NEXT Conference - Nutanix (NASDAQ: NTNX), a leader in enterprise cloud computing, today announced a new partnership with Microsoft that will enable"
-    publishedDateTime: 2020-09-08T16:26:00Z
-    webUrl: "https://www.marketwatch.com/press-release/nutanix-announces-partnership-with-microsoft-azure-for-a-seamless-hybrid-experience-2020-09-08"
+  - title: "Descartes Selects Microsoft Azure to Deliver Cloud Solutions"
+    excerpt: "Before it's here, it's on the Bloomberg Terminal."
+    publishedDateTime: 2020-09-07T00:52:00Z
+    webUrl: "https://www.bloomberg.com/press-releases/2019-03-25/descartes-selects-microsoft-azure-to-deliver-cloud-solutions"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 71
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 77
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "DH2i Announces Support for Microsoft Azure Shared Disks and New Azure Disk Storage Enhancements"
-    excerpt: "Fortunately, with the release of Azure shared disks, this requirement has been met for SQL Server users. Customers that are deploying SQL Server in Azure are now able to create HA instances using shared disks for full instance failover."
-    publishedDateTime: 2020-09-02T07:45:00Z
-    webUrl: "https://www.marketwatch.com/press-release/dh2i-announces-support-for-microsoft-azure-shared-disks-and-new-azure-disk-storage-enhancements-2020-09-01"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 65
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+      - url: "https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg"
         width: 1200
         height: 630
         isCached: true
@@ -70,56 +56,67 @@ related:
         width: 268
         height: 250
         isCached: true
-  - title: "Platform.sh announces expansion of services to Microsoft Azure West US 2 Datacenter Region"
-    excerpt: "8, 2020 /PRNewswire/ -- Platform.sh, an end-to-end web platform for agile teams, is pleased to announce the expansion of its services to the West US 2 datacenter region of Microsoft Azure ..."
-    publishedDateTime: 2020-09-08T16:05:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/platform-sh-announces-expansion-of-services-to-microsoft-azure-west-us-2-datacenter-region/article_1d4f0d8f-1984-5ce1-b24e-3380c68de1b7.html"
+  - title: "FastTrack has Announced its Migration to Microsoft Azure"
+    excerpt: "FastTrack has Announced its Migration to Microsoft Azure By CIOReview - FastTrack has announced its completion of migration to a cloud-computing platform to manage the numerous coding"
+    publishedDateTime: 2020-09-10T12:34:00Z
+    webUrl: "https://www.cioreview.com/news/fasttrack-has-announced-its-migration-to-microsoft-azure-nid-31927-cid-23.html"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 27
+      name: CIOReview
+      domain: cioreview.com
+    quality: 37
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-        width: 1280
-        height: 720
+      - url: "https://www.cioreview.com/news_new/sliderimage/xamab.350.jpg"
+        width: 300
+        height: 350
         isCached: true
-  - title: "DH2i Announces Support for Microsoft Azure Shared Disks and New Azure Disk Storage Enhancements"
-    excerpt: "DH2i®, the leading provider of multi-platform Software Defined Perimeter (SDP) and Smart Availability(TM) software, today announced DxEnterprise(TM) support for the recently announced"
-    publishedDateTime: 2020-09-01T14:37:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/dh2i-announces-support-for-microsoft-azure-shared-disks-and-new-azure-disk-storage-enhancements/article_0682c838-4b39-5c1c-bdb4-36d3238d99dd.html"
+  - title: "Microsoft launches Azure Spring Cloud to simplify enterprise software projects"
+    excerpt: "Microsoft Corp. today announced the general availability of Azure Spring Cloud, a managed service designed to reduce the amount of work involved in building and maintaining enterprise applications on its cloud platform."
+    publishedDateTime: 2020-09-02T18:11:00Z
+    webUrl: "https://siliconangle.com/2020/09/02/microsoft-launches-azure-spring-cloud-simplify-enterprise-software-projects/"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 25
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 33
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/4/b9/4b92a68b-33b1-5bcc-9a61-7b662de68e4f/5f4e51674d02a.image.jpg?resize=400%2C400"
-        width: 400
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/09/microsoft2-1-1.png"
+        width: 718
         height: 400
         isCached: true
-  - title: "Microsoft Announces the General Availability of Immersive Reader Service on the Azure AI Platform"
-    excerpt: "Immersive Reader, which is a part of the Cognitive Services suite within the Microsoft Azure AI Platform provides help for readers to read and comprehend text. In a recent blog, Microsoft announced the general availability of the service."
-    publishedDateTime: 2020-09-07T11:19:00Z
-    webUrl: "https://www.infoq.com/news/2020/09/immersive-reader-ga-azure/"
+  - title: "3Cloud, Microsoft Azure cloud computing firm, acquires Pragmatic Works Consulting"
+    excerpt: "The deal expands 3Cloud's data and analytics capabilities and geographic reach, forming the largest Azure pure-play services firm in the United States."
+    publishedDateTime: 2020-09-10T19:48:00Z
+    webUrl: "https://www.bizjournals.com/chicago/news/2020/09/10/3cloud-azure-cloud-computing-buys-pragmatic-works.html"
+    ampWebUrl: "https://www.bizjournals.com/chicago/news/2020/09/10/3cloud-azure-cloud-computing-buys-pragmatic-works.amp.html"
+    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/chicago/news/2020/09/10/3cloud-azure-cloud-computing-buys-pragmatic-works.amp.html"
     type: article
     provider:
-      name: InfoQ
-      domain: infoq.com
-    quality: 24
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 32
+  - title: "EdgeConneX Brings Private Cloud Connectivity Solutions to Phoenix with Microsoft Azure ExpressRoute"
+    excerpt: "EdgeConneX®, a pioneer in Edge Data Centers, has just streamlined the path for customers in Arizona to connect to Microsoft cloud services"
+    publishedDateTime: 2020-09-10T12:02:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/edgeconnex-brings-private-cloud-connectivity-solutions-to-phoenix-with-microsoft-azure-expressroute-301126697.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 23
     images:
-      - url: "https://res.infoq.com/news/2020/09/immersive-reader-ga-azure/en/headerimage/croppted-1920_Panel4_FeatureHeader_PictureDictionary-1599385533206.jpg"
-        width: 1200
-        height: 630
+      - url: "https://mma.prnewswire.com/media/810989/EdgeConneX_Logo.jpg?p=facebook"
+        width: 619
+        height: 327
         isCached: true
-  - title: "Nutanix Partners with Microsoft Azure for a Seamless Hybrid Experience"
-    excerpt: "SAN JOSE –– Nutanix (NASDAQ: NTNX), a leader in enterprise cloud computing, today announced a new partnership with Microsoft that will enable both companies to deliver a hybrid solution with seamless application,"
-    publishedDateTime: 2020-09-08T20:39:00Z
-    webUrl: "https://insidehpc.com/2020/09/nutanix-partners-with-microsoft-azure-for-a-seamless-hybrid-experience/"
+  - title: "Cognizant Acquires MSP, Microsoft Azure Cloud Partner 10th Magnitude"
+    excerpt: "Cognizant has acquired 10 th Magnitude, a Microsoft Azure cloud MSP and Top 200 Public Cloud MSP that had been backed by private equity firm Pamlico Capital. Financial terms of the deal were not disclosed. This is M&A deal 350 that ChannelE2E has ..."
+    publishedDateTime: 2020-09-01T16:41:00Z
+    webUrl: "https://www.channele2e.com/investors/mergers-acquisitions/cognizant-buys-azure-cloud-partner-10th-magnitude/"
     type: article
     provider:
-      name: insideHPC
-      domain: insidehpc.com
+      name: ChannelE2E
+      domain: channele2e.com
     quality: 17
 
 secured: "GrsHV3odr9Nq/xPUJhsiP9BinHC3gYQG5sVjpMDHEpF2i8zBMFxXvR8UUt4GkGNqtHIY5/l3kdjkVtBr1vne8ovh4OLG1yGYwlTpunkHIcqFRKSXlKlvD0js1t8iUr1BwtmCvlCRPQo0RCSeMapureLHN+ccv7+C6Q67D8TFHQnxDsW9yyGvGaOFQTVPhQJXNEDvJCUm4sIF/E9gYwfQOuQwgwFTp1iBOg6kTzHPuk1HpNIxdpPIjpuDNZ2c4o75y2Go7WN9Leqd23u+6xtMtp2xE4ahE7qrEXV2XPzeto4CFeBMDdgWXrFS24OMI+0TV0s+EYpYVdrzLCWug1uw4VazEpS4x4fiLZelEbDYFeo=;Uh3hTwOcYeSe0BAoljyJoA=="

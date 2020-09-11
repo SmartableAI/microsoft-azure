@@ -24,20 +24,100 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft Azure Cloud Gets One-Year Extension to Host DoD’s Secret Data"
-    excerpt: "DISA eased restrictions on the certification the company originally received in February of last year and opened the cloud service to mission partners, the agency said Tuesday. The Azure Government Secret region is designed to help agencies maintain the integrity of classified workloads."
-    publishedDateTime: 2020-08-26T10:52:00Z
-    webUrl: "https://www.govconwire.com/2020/08/microsoft-azure-cloud-gets-one-year-extension-to-host-dods-secret-data/"
+  - title: "Descartes Selects Microsoft Azure to Deliver Cloud Solutions"
+    excerpt: "Before it's here, it's on the Bloomberg Terminal."
+    publishedDateTime: 2020-09-07T00:52:00Z
+    webUrl: "https://www.bloomberg.com/press-releases/2019-03-25/descartes-selects-microsoft-azure-to-deliver-cloud-solutions"
     type: article
     provider:
-      name: GovCon Wire
-      domain: govconwire.com
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 77
+    images:
+      - url: "https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Nutanix joins Microsoft Azure for seamless Hybrid Cloud experience"
+    excerpt: "Microsoft and Nutanix will offer customers seamless sales and support experiences. Microsoft Azure customers will be able to use their existing Azure credits, as part of Microsoft Azure ..."
+    publishedDateTime: 2020-09-08T17:52:00Z
+    webUrl: "https://www.sify.com/finance/nutanix-joins-microsoft-azure-for-seamless-hybrid-cloud-experience-news-topnews-ujirOCgacfiei.html"
+    ampWebUrl: "https://www.sify.com/finance/nutanix-joins-microsoft-azure-for-seamless-hybrid-cloud-experience-news-topnews-ujirOCgacfiei.html"
+    cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/finance/nutanix-joins-microsoft-azure-for-seamless-hybrid-cloud-experience-news-topnews-ujirOCgacfiei.html"
+    type: article
+    provider:
+      name: Sify.com
+      domain: sify.com
+    quality: 57
+    images:
+      - url: "https://www.sify.com/uploads/nutanix_ujikoBjihaieg.jpeg"
+        width: 800
+        height: 420
+        isCached: true
+  - title: "Nutanix Announces Microsoft Azure Partnership To Drive Seamless Hybrid Cloud Experience"
+    excerpt: "Nutanix has announced a new partnership with Microsoft that will enable both companies to deliver a hybrid solution with seamless application, data, and license mobility as well as unified management across on-premises and Azure environments,"
+    publishedDateTime: 2020-09-09T01:46:00Z
+    webUrl: "https://www.scoop.co.nz/stories/BU2009/S00178/nutanix-announces-microsoft-azure-partnership-to-drive-seamless-hybrid-cloud-experience.htm"
+    ampWebUrl: "https://m.scoop.co.nz/stories/BU2009/S00178/nutanix-announces-microsoft-azure-partnership-to-drive-seamless-hybrid-cloud-experience.htm"
+    cdnAmpWebUrl: "https://m-scoop-co-nz.cdn.ampproject.org/c/s/m.scoop.co.nz/stories/BU2009/S00178/nutanix-announces-microsoft-azure-partnership-to-drive-seamless-hybrid-cloud-experience.htm"
+    type: article
+    provider:
+      name: Scoop
+      domain: scoop.co.nz
+    quality: 49
+    images:
+      - url: "https://m.scoop.co.nz/stories/images/1512/smcnz.png"
+        width: 268
+        height: 250
+        isCached: true
+  - title: "FastTrack has Announced its Migration to Microsoft Azure"
+    excerpt: "FastTrack has Announced its Migration to Microsoft Azure By CIOReview - FastTrack has announced its completion of migration to a cloud-computing platform to manage the numerous coding"
+    publishedDateTime: 2020-09-10T12:34:00Z
+    webUrl: "https://www.cioreview.com/news/fasttrack-has-announced-its-migration-to-microsoft-azure-nid-31927-cid-23.html"
+    type: article
+    provider:
+      name: CIOReview
+      domain: cioreview.com
     quality: 37
     images:
-      - url: "https://govconwire-media.s3.amazonaws.com/2020/08/26/22/29/e6/80/09/f1/06/24/a0If300000N93u6EAB-microsoft-20190109.jpeg"
-        width: 272
-        height: 270
+      - url: "https://www.cioreview.com/news_new/sliderimage/xamab.350.jpg"
+        width: 300
+        height: 350
         isCached: true
+  - title: "3Cloud, Microsoft Azure cloud computing firm, acquires Pragmatic Works Consulting"
+    excerpt: "The deal expands 3Cloud's data and analytics capabilities and geographic reach, forming the largest Azure pure-play services firm in the United States."
+    publishedDateTime: 2020-09-10T19:48:00Z
+    webUrl: "https://www.bizjournals.com/chicago/news/2020/09/10/3cloud-azure-cloud-computing-buys-pragmatic-works.html"
+    ampWebUrl: "https://www.bizjournals.com/chicago/news/2020/09/10/3cloud-azure-cloud-computing-buys-pragmatic-works.amp.html"
+    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/chicago/news/2020/09/10/3cloud-azure-cloud-computing-buys-pragmatic-works.amp.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 32
+  - title: "EdgeConneX Brings Private Cloud Connectivity Solutions to Phoenix with Microsoft Azure ExpressRoute"
+    excerpt: "EdgeConneX®, a pioneer in Edge Data Centers, has just streamlined the path for customers in Arizona to connect to Microsoft cloud services"
+    publishedDateTime: 2020-09-10T12:02:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/edgeconnex-brings-private-cloud-connectivity-solutions-to-phoenix-with-microsoft-azure-expressroute-301126697.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 23
+    images:
+      - url: "https://mma.prnewswire.com/media/810989/EdgeConneX_Logo.jpg?p=facebook"
+        width: 619
+        height: 327
+        isCached: true
+  - title: "Cognizant Acquires MSP, Microsoft Azure Cloud Partner 10th Magnitude"
+    excerpt: "Cognizant has acquired 10 th Magnitude, a Microsoft Azure cloud MSP and Top 200 Public Cloud MSP that had been backed by private equity firm Pamlico Capital. Financial terms of the deal were not disclosed. This is M&A deal 350 that ChannelE2E has ..."
+    publishedDateTime: 2020-09-01T16:41:00Z
+    webUrl: "https://www.channele2e.com/investors/mergers-acquisitions/cognizant-buys-azure-cloud-partner-10th-magnitude/"
+    type: article
+    provider:
+      name: ChannelE2E
+      domain: channele2e.com
+    quality: 17
 
 secured: "RBljyMg7WKeR+eoVp1XO0InDOKqBxNh4fJhq3qT50wFQbI1sUjXaI8YwJrz8b13Kc1Yj9Nr5lb1Go9IeWyfjYJP03SESrMyyphfi1+Nkrr2kc1ASC4N9TiHZqKoKjgX14kVq2APuAf0UGMOdDa5KUZUYVYbxB7eb+DPV2q7GEVoX9AKQcPTuS9APj2sMNSj/kAbfk5omuyEhLFBT0W6azMhHJbrVQD4k8eJZ/8exWq7DmOdGU20YvKEQs/9FNwn3DTxYQS80pnPJx+QwFmZIsIaYTb4Dqdjj9gbnaN9nvHYP84xwATHFbnRlzTgkUg1T9T7bxJTVKQabnJg1hj6feXYml35EDaOhSBZgpTg+nN5A9ezDy4PxAs/5D+gOnZymRQbo5Zi+lGVZWCAayke43Jb61ruW3DJ92+JhkZMOl29bbOlHeKmI2442jTynVHzo3E4Ug2tzeDPFa5cbzp+kIzL8uKxt9NmLcvCnhneFdA6o9kKqYPb1lufArFR+NpOULQvozSW0wiB50bgx3XqHNaVuMsrmWzI/gBVk6r+EJ70=;LSrXSrP0Mibv+/p8gZpZbQ=="
 ---

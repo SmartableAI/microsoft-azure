@@ -1,43 +1,33 @@
 ---
 category: news
-title: "FastTrack has Announced its Migration to Microsoft Azure"
-excerpt: "FastTrack has Announced its Migration to Microsoft Azure By CIOReview - FastTrack has announced its completion of migration to a cloud-computing platform to manage the numerous coding"
-publishedDateTime: 2020-09-10T12:34:00Z
-originalUrl: "https://www.cioreview.com/news/fasttrack-has-announced-its-migration-to-microsoft-azure-nid-31927-cid-23.html"
-webUrl: "https://www.cioreview.com/news/fasttrack-has-announced-its-migration-to-microsoft-azure-nid-31927-cid-23.html"
+title: "Descartes Selects Microsoft Azure to Deliver Cloud Solutions"
+excerpt: "Before it's here, it's on the Bloomberg Terminal."
+publishedDateTime: 2020-09-07T00:52:00Z
+originalUrl: "https://www.bloomberg.com/press-releases/2019-03-25/descartes-selects-microsoft-azure-to-deliver-cloud-solutions"
+webUrl: "https://www.bloomberg.com/press-releases/2019-03-25/descartes-selects-microsoft-azure-to-deliver-cloud-solutions"
 type: article
-quality: 37
-heat: -1
-published: false
+quality: 77
+heat: 217
+published: true
 
 provider:
-  name: CIOReview
-  domain: cioreview.com
+  name: Bloomberg
+  domain: bloomberg.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/bloomberg.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
 
 images:
-  - url: "https://www.cioreview.com/news_new/sliderimage/xamab.350.jpg"
-    width: 300
-    height: 350
+  - url: "https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
-  - title: "Descartes Selects Microsoft Azure to Deliver Cloud Solutions"
-    excerpt: "Before it's here, it's on the Bloomberg Terminal."
-    publishedDateTime: 2020-09-07T00:52:00Z
-    webUrl: "https://www.bloomberg.com/press-releases/2019-03-25/descartes-selects-microsoft-azure-to-deliver-cloud-solutions"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 77
-    images:
-      - url: "https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Nutanix joins Microsoft Azure for seamless Hybrid Cloud experience"
     excerpt: "Microsoft and Nutanix will offer customers seamless sales and support experiences. Microsoft Azure customers will be able to use their existing Azure credits, as part of Microsoft Azure ..."
     publishedDateTime: 2020-09-08T17:52:00Z
@@ -69,6 +59,20 @@ related:
       - url: "https://m.scoop.co.nz/stories/images/1512/smcnz.png"
         width: 268
         height: 250
+        isCached: true
+  - title: "FastTrack has Announced its Migration to Microsoft Azure"
+    excerpt: "FastTrack has Announced its Migration to Microsoft Azure By CIOReview - FastTrack has announced its completion of migration to a cloud-computing platform to manage the numerous coding"
+    publishedDateTime: 2020-09-10T12:34:00Z
+    webUrl: "https://www.cioreview.com/news/fasttrack-has-announced-its-migration-to-microsoft-azure-nid-31927-cid-23.html"
+    type: article
+    provider:
+      name: CIOReview
+      domain: cioreview.com
+    quality: 37
+    images:
+      - url: "https://www.cioreview.com/news_new/sliderimage/xamab.350.jpg"
+        width: 300
+        height: 350
         isCached: true
   - title: "Microsoft launches Azure Spring Cloud to simplify enterprise software projects"
     excerpt: "Microsoft Corp. today announced the general availability of Azure Spring Cloud, a managed service designed to reduce the amount of work involved in building and maintaining enterprise applications on its cloud platform."
@@ -119,6 +123,6 @@ related:
       domain: channele2e.com
     quality: 17
 
-secured: "sTuq6fezIZrowXG6mvL/zUR9GYU7fanvczY/u482Y1fdNARxzoiA/6xQfzU/N2DNDQK+665FetC7spOrKddPK/nascryrKq+SI0nFhAYZNF3ScBVDEm8RO4qvPxK9BA99vrYar+eqnqnjpFSHQ7bpDntJqICZ2fDqDg61udMdQHbes2eheOTgRJtVUkTmdfW52UzR0AZ8cEdXC7V2xdYc5CZpfbiOlVHwHKzeSwcLZY1swoGcEFD0YMOgFwWBJt5qAsdfsD4n95vyDfOnKLS9x1ls1VN2w2OpXu5NN1YOOgDOVWbQ+tmwJzejplP0BVZ0iFAHntNCu8927EVzhdDM5xJ99ZUclbGQ5bemsUqYTo=;yLE5Auzhu8jPnhcdqm5kCA=="
+secured: "yKSJtRgbh7VVzOb9Ri4m8bOnBDFvgZ6++k2wtnPdWj+TNglmx7Q9H9Jx/tU0EXKe+8XACSh8SW4Cdf141nYUjkMy++hFkGTY+oA7xk9y3BZZF+WYMWk9uLdqEPe+37zjdL9QGOHpphOU4EgEzYIXj7qR4+HUkn2NCWB293Fpvk5RqwJXvk4ii9SpePp/u1rAmi0ENlU0YcXP9CCq30mXlHKDEpoyrXZhIsi8ejieNz9+svMS90xe0a+bLT6FGiOKVVlk/guMZYg1jh8VRTh/l7oLNQ3O2f2pu9igjztomK/2ud5kI+Bamgehui+ldjy8/11X5fVGLUpjHq3LhRBn5eukobF0d5ZeYbXEVzBlOl0=;ZgcR/BvuUrLdIGk4DPMoAw=="
 ---
 
