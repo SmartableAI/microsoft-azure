@@ -4,7 +4,7 @@ excerpt: "Azure was designed for security and compliance. Learn how to leverage 
 type: collection
 price: Free
 length: PT5H38M
-heat: 208
+heat: 210
 
 provider:
   name: Microsoft Learn
