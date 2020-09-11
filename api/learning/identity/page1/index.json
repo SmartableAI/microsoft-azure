@@ -114,8 +114,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/intro-to-security-in-azure/",
       "length": "PT1H16M",
       "ratings": {
-        "count": 43214,
-        "average": 4.702226
+        "count": 43217,
+        "average": 4.7022467
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -178,7 +178,7 @@
           "path": "",
           "title": "Introduction to Azure virtual machines",
           "excerpt": "Learn about the decisions you make before creating a virtual machine, the options to create and manage the VM, and the extensions and services you use to manage your VM.",
-          "heat": 214,
+          "heat": 215,
           "type": "course",
           "topics": [
             "Azure",
@@ -207,7 +207,7 @@
         }
       ],
       "size": 9,
-      "heat": 256,
+      "heat": 258,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/intro-to-governance-social.png",
@@ -267,7 +267,7 @@
           "path": "",
           "title": "Introduction to Azure virtual machines",
           "excerpt": "Learn about the decisions you make before creating a virtual machine, the options to create and manage the VM, and the extensions and services you use to manage your VM.",
-          "heat": 214,
+          "heat": 215,
           "type": "course",
           "topics": [
             "Azure",
@@ -296,7 +296,7 @@
         }
       ],
       "size": 9,
-      "heat": 256,
+      "heat": 258,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/intro-to-governance-social.png",
@@ -612,7 +612,7 @@
           "path": "",
           "title": "Create security baselines",
           "excerpt": "Create security baselines",
-          "heat": 109,
+          "heat": 110,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/create-security-baselines-social.png",
@@ -664,7 +664,7 @@
         }
       ],
       "size": 8,
-      "heat": 130,
+      "heat": 132,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/create-security-baselines-social.png",
@@ -743,7 +743,7 @@
           "path": "",
           "title": "Create security baselines",
           "excerpt": "Create security baselines",
-          "heat": 109,
+          "heat": 110,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/create-security-baselines-social.png",
@@ -772,7 +772,7 @@
         }
       ],
       "size": 6,
-      "heat": 130,
+      "heat": 132,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/azure-well-architected-security-social.png",
@@ -1078,7 +1078,7 @@
           "path": "",
           "title": "Secure administrator accounts in Azure Active Directory",
           "excerpt": "Learn about securing administrator accounts through secure devices, dedicated administrator accounts, and just-in-time privileges.",
-          "heat": 81,
+          "heat": 82,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/use-microsoft-365-to-secure-administrator-access-social.png",
@@ -1192,7 +1192,7 @@
           "path": "",
           "title": "Secure administrator accounts in Azure Active Directory",
           "excerpt": "Learn about securing administrator accounts through secure devices, dedicated administrator accounts, and just-in-time privileges.",
-          "heat": 81,
+          "heat": 82,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/use-microsoft-365-to-secure-administrator-access-social.png",
@@ -1232,8 +1232,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/azure-well-architected-security/",
       "length": "PT1H2M",
       "ratings": {
-        "count": 1874,
-        "average": 4.7017074
+        "count": 1875,
+        "average": 4.7018666
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1274,8 +1274,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/m365-identity-overview/",
       "length": "PT15M",
       "ratings": {
-        "count": 1777,
-        "average": 4.720315
+        "count": 1778,
+        "average": 4.7204723
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1391,7 +1391,7 @@
           "path": "",
           "title": "Microsoft Azure Well-Architected Framework - Performance efficiency",
           "excerpt": "Learn how to adjust your capacity based on workload and how to optimize network performance, storage, and database performance.",
-          "heat": 64,
+          "heat": 65,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/azure-well-architected-performance-efficiency-social.png",
@@ -1482,6 +1482,48 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-secure-app-with-oidc-and-azure-ad.md",
+      "title": "Secure your application by using OpenID Connect and Azure AD",
+      "excerpt": "In this module, you will learn how to enable users to authenticate in multiple systems by using their Azure AD identities.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-secure-app-with-oidc-and-azure-ad/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/secure-app-with-oidc-and-azure-ad/",
+      "length": "PT50M",
+      "ratings": {
+        "count": 1330,
+        "average": 4.614286
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 94,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/secure-app-with-oidc-and-azure-ad-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Identity"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-intro-to-azure-ad.md",
       "title": "Secure your identities by using Azure Active Directory",
       "excerpt": "Use Azure Active Directory to you secure your internal, external, and customer identities.",
@@ -1489,8 +1531,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/intro-to-azure-ad/",
       "length": "PT27M",
       "ratings": {
-        "count": 1302,
-        "average": 4.687404
+        "count": 1304,
+        "average": 4.684816
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1558,48 +1600,6 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-secure-app-with-oidc-and-azure-ad.md",
-      "title": "Secure your application by using OpenID Connect and Azure AD",
-      "excerpt": "In this module, you will learn how to enable users to authenticate in multiple systems by using their Azure AD identities.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-secure-app-with-oidc-and-azure-ad/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/secure-app-with-oidc-and-azure-ad/",
-      "length": "PT50M",
-      "ratings": {
-        "count": 1330,
-        "average": 4.614286
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 93,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/secure-app-with-oidc-and-azure-ad-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Identity"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-secure-aad-users-with-mfa.md",
       "title": "Secure Azure Active Directory users with Multi-Factor Authentication",
       "excerpt": "Learn how to use multi-factor authentication with Azure AD to harden your user accounts.",
@@ -1650,8 +1650,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/m365-identity-cultural-shift/",
       "length": "PT31M",
       "ratings": {
-        "count": 1009,
-        "average": 4.726462
+        "count": 1010,
+        "average": 4.7267327
       },
       "provider": {
         "name": "Microsoft Learn",

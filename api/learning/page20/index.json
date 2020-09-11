@@ -484,8 +484,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/intro-to-blockchain/",
       "length": "PT34M",
       "ratings": {
-        "count": 52,
-        "average": 4.6153846
+        "count": 57,
+        "average": 4.631579
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1045,8 +1045,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/identity-secure-custom-api/",
       "length": "PT1H23M",
       "ratings": {
-        "count": 60,
-        "average": 4.6833334
+        "count": 61,
+        "average": 4.672131
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1146,6 +1146,48 @@
         "Azure",
         "Analytics",
         "AI"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-intro-iot-funtions-iot.md",
+      "title": "Introduction to Azure Functions for IoT",
+      "excerpt": "University of Oxford",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-iot-funtions-iot/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/intro-azure-functions-iot/",
+      "length": "PT27M",
+      "ratings": {
+        "count": 62,
+        "average": 4.645161
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/student-evangelism/introduction-to-azure-functions-iot-edge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "IoT"
       ]
     },
     {
@@ -1402,48 +1444,6 @@
       "topics": [
         "Azure",
         "Analytics"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-migrate-premises-mongodb-databases-azure-database-mongodb.md",
-      "title": "Migrate on-premises MongoDB databases to Cosmos DB",
-      "excerpt": "Migrate MongoDB workloads to Cosmos DB",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-migrate-premises-mongodb-databases-azure-database-mongodb/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/migrate-on-premises-mongodb-databases-azure-database-mongodb/",
-      "length": "PT19M",
-      "ratings": {
-        "count": 45,
-        "average": 4.7555556
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/migrate-on-premises-mongodb-databases-to-cosmos-db-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Databases"
       ]
     }
   ],

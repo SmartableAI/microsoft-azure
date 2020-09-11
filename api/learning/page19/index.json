@@ -4,6 +4,100 @@
   "page": 19,
   "value": [
     {
+      "path": "_learning/collections/microsoft-learn-run-azure-for-sap-workloads.md",
+      "title": "Run Azure for SAP workloads",
+      "excerpt": "This learning path augments existing knowledge around the deployment methodologies for SAP workloads in Azure, focusing on Azure Marketplace and custom images using the Azure portal, Azure Resource Manager (ARM) templates, and Azure PowerShell cmdlets.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-run-azure-for-sap-workloads/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-run-azure-for-sap-workloads/",
+      "length": "PT2H33M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Advanced"
+      ],
+      "topItems": [
+        {
+          "path": "",
+          "title": "Implement Azure VM-based SAP solutions",
+          "excerpt": "Implement Azure VM-based SAP solutions",
+          "heat": 54,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/implementing-azure-vm-based-sap-solutions-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Migrate SAP workloads to Azure",
+          "excerpt": "Migrate SAP workloads to Azure",
+          "heat": 53,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/migrating-sap-workloads-azure-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Maintain Azure for SAP workloads",
+          "excerpt": "Maintain Azure for SAP workloads",
+          "heat": 53,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/maintain-azure-sap-workloads-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure"
+          ]
+        }
+      ],
+      "size": 3,
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/implementing-azure-vm-based-sap-solutions-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-analyze-review-sentiment-with-keras.md",
       "title": "Analyze the sentiment of reviews with Keras",
       "excerpt": "Keras is a high-level neural networks API, written in Python, that runs on top of other deep learning tools such as TensorFlow. This module uses Keras to build a neural network that scores text, such as user reviews for sentiment.",
@@ -245,47 +339,6 @@
           "url": "https://docs.microsoft.com/learn/achievements/build-web-api-nodejs-express-social.png",
           "width": 642,
           "height": 321,
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-cmu-cloud-computing-overview.md",
-      "title": "Foundations of cloud computing for developers",
-      "excerpt": "Carnegie Mellon University's Cloud Developer course. Discover what the cloud is, the history of cloud computing, what types of clouds are available, and how you might use the cloud.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-cmu-cloud-computing-overview/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/cmu-cloud-computing-overview/",
-      "length": "PT1H20M",
-      "ratings": {
-        "count": 90,
-        "average": 4.611111
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 53,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/cmu-cloud-developer/foundations-of-cloud-computing-for-developers-social.png",
-          "width": 800,
-          "height": 400,
           "isCached": true
         }
       ],

@@ -4,7 +4,7 @@ excerpt: "Learn the fundamentals of database concepts in a cloud environment, ge
 type: collection
 price: Free
 length: PT1H51M
-heat: 57
+heat: 58
 
 provider:
   name: Microsoft Learn
