@@ -4,7 +4,7 @@ excerpt: "Dive deeper into how the cloud works by understanding virtualization. 
 type: collection
 price: Free
 length: PT3H22M
-heat: 63
+heat: 62
 
 provider:
   name: Microsoft Learn
