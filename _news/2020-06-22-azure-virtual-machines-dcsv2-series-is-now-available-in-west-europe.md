@@ -39,6 +39,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
+  - title: "Azure Virtual Machines DCsv2-series are now available in Southeast Asia"
+    excerpt: "Confidential computing DCsv2-series virtual machines (VMs) are now available in East US, Canada Central, Canada East, Southeast Asia, UK South, West Europe, and West US 2."
+    publishedDateTime: 2020-09-11T20:44:54Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-confidential-computing-available-in-southeast-asia/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
   - title: "Selective disks backup for Azure Virtual Machine is in public preview"
     excerpt: "Optimize your costs and enjoy faster backup and restore operations by selectively backing up a subset of the data disks in a VM."
     publishedDateTime: 2020-08-06T18:00:12Z

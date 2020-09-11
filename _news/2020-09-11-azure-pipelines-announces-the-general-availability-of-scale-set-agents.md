@@ -1,11 +1,12 @@
 ---
 category: news
-title: "Azure SQL Auditing to storage account behind Virtual Network and firewall now generally available"
-excerpt: ""
-publishedDateTime: 2020-05-13T16:01:00Z
-webUrl: "https://azure.microsoft.com/en-us/updates/azure-sql-auditing-to-storage-account-behind-virtual-network-and-firewall-now-generally-available/"
+title: "Azure Pipelines announces the general availability of scale-set agents"
+excerpt: "In the last two months, we improved the reliability in performing various scale-set operations. We have updated the guidance on how to improve the performance of provisioning new virtual machines."
+publishedDateTime: 2020-09-11T21:13:11Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/azure-pipelines-announce-the-general-availability-of-scaleset-agents/"
+webUrl: "https://azure.microsoft.com/en-us/updates/azure-pipelines-announce-the-general-availability-of-scaleset-agents/"
 type: article
-quality: 4
+quality: 67
 heat: -1
 published: false
 
@@ -49,15 +50,6 @@ related:
         width: 1024
         height: 696
         isCached: true
-  - title: "Azure Pipelines announces the general availability of scale-set agents"
-    excerpt: "In the last two months, we improved the reliability in performing various scale-set operations. We have updated the guidance on how to improve the performance of provisioning new virtual machines."
-    publishedDateTime: 2020-09-11T21:13:11Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-pipelines-announce-the-general-availability-of-scaleset-agents/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 67
   - title: "Announcing the general availability of Azure Monitor for virtual machines"
     excerpt: "Today we're announcing the general availability of Azure Monitor for virtual machines (VMs), which provides an in-depth view of VM performance trends and dependencies. You can access Azure Monitor for VMs from the Azure VM resource blade to view details about a single VM, from the Azure Virtual Machine"
     publishedDateTime: 2020-03-16T10:00:32Z
@@ -137,7 +129,16 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Azure SQL Auditing to storage account behind Virtual Network and firewall now generally available"
+    excerpt: ""
+    publishedDateTime: 2020-05-13T16:01:00Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-sql-auditing-to-storage-account-behind-virtual-network-and-firewall-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 4
 
-secured: "Z5BvZDnuYfhkyhodZeUUOxAB0iWESTztP/vhLZ5e/oXnlpf8dETaPos8Rt+kjjBz7QW8XRK4cqonz0jrGX7wwjcYrcBt9tow9F/zXlp12bQWWxyQJeY3vmgKfbN46S2ym8ttJ2b+Tv6tF5rpgreycbKOguForD0fdnMWlP7Mq0FpOCLRcmABWqpq5wWx8jlKzsZwS12W/JvsBXSQ5CmwmfmAhwhaqIqrTRuT5JyKSy2Ok9osO68fVN7bESdtFcSrcsU0CRE16uluJU+rvl3f9ELFzitpmhYm7Rmd7QOTEohD+YTP0xd8U/Gh4riNPOnUaqJy+LGcwUSc8jjW6vdYCA==;TYwJ2J0XG/mc/P8wt/OmVw=="
+secured: "WPx0wiHUjQoxX6oSyiP9fsISMnokcjp0MWOqqONKMw7grPCv04NBpiV+Wtb4KGPyUX4GFBplhI8b90P9zGDsImJeoRT8sBozuU18uFpkdlx2BKZJndw6cM/oPOj/3CX5UOH0MYf3JNWP/5ey4M5rQaFWc4War+Zm+yU2g27X5zC2WAUFQWmevMcHg9Lc4mKQRNi2i8WmCebQ1s88pLYHoY+rJT+etsT3SK7mZMbG090lw1Y66wnXz2NXWlh3hSXIOEZ8LgGBxLG96EIGQq3AtDGkp5d32BKBBcgprNRDWICE1f7NNkqGXIUUe2rSR+WEd2jJgvsi45rbA3uplL4f3254MSadA0KZp00roC1nfrw=;NeLAR139bWX9tk5iXOeiSw=="
 ---
 

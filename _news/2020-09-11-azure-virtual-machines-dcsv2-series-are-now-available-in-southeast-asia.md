@@ -1,11 +1,12 @@
 ---
 category: news
-title: "New DCsv2-series virtual machines are now available"
-excerpt: ""
-publishedDateTime: 2020-04-27T19:00:00Z
-webUrl: "https://azure.microsoft.com/en-us/updates/new-dcsv2series-virtual-machines-are-now-available/"
+title: "Azure Virtual Machines DCsv2-series are now available in Southeast Asia"
+excerpt: "Confidential computing DCsv2-series virtual machines (VMs) are now available in East US, Canada Central, Canada East, Southeast Asia, UK South, West Europe, and West US 2."
+publishedDateTime: 2020-09-11T20:44:54Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/azure-confidential-computing-available-in-southeast-asia/"
+webUrl: "https://azure.microsoft.com/en-us/updates/azure-confidential-computing-available-in-southeast-asia/"
 type: article
-quality: 2
+quality: 67
 heat: -1
 published: false
 
@@ -39,15 +40,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
-  - title: "Azure Virtual Machines DCsv2-series are now available in Southeast Asia"
-    excerpt: "Confidential computing DCsv2-series virtual machines (VMs) are now available in East US, Canada Central, Canada East, Southeast Asia, UK South, West Europe, and West US 2."
-    publishedDateTime: 2020-09-11T20:44:54Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-confidential-computing-available-in-southeast-asia/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 67
   - title: "Azure Virtual Machines DCsv2-series is now available in West Europe"
     excerpt: "Confidential computing DCsv2-series virtual machines (VMs) are now available in East US, Canada Central, UK South, and West Europe."
     publishedDateTime: 2020-06-22T16:00:41Z
@@ -66,7 +58,16 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 17
+  - title: "New DCsv2-series virtual machines are now available"
+    excerpt: ""
+    publishedDateTime: 2020-04-27T19:00:00Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/new-dcsv2series-virtual-machines-are-now-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 2
 
-secured: "L8/HCLo4dukcweRCMObyCt//ItrAWiqhZBwzw+Tr4yaNpSFwn4Yhmn52NOe8n9lh6hHAWNa9rtZyk2zZcrSNb4DmthS3whXEQ+HBDL7WrnQGIx4p7nWGmOWY++d78/Pdfbo8QZ4m7kYaE1ls0w4QcoTmhuWHGtCNHWu+zmeW+KWCJG3g9ZA7zp+VGI2MGHyo6IvIXQDTLOESkUqpTS05FWEyBShGO7ur9yP/KtxFL2bB+SoSxGgc5PECrJBzWXDmEP4za+iodEkOzV7jHdRHs2ik1Td10u5krKI69XJVVuYNvXkW/+wpIZnAvvoNcax7dXm5JokzSNMX02Z3aUr80A==;NiSfvSD4VkSs5mFDE3aUSA=="
+secured: "5wtR6W3m4hXoT0kuI8mToDJ3yBdXDpBKVIIkZNfetdvzPRsz5tCmubs6duhb4x/d7+TCE1d3Fa2d3553neVRqcRifw0mGUBCV7cjroyhoMUEjl73244UIeat42DYcut4tvRgD8alSKeH5CklxAsyiAHxdAcz2+OU2JIM0LyMdsFUebhyUyHeUKeWzg1iMwaXM4SXebsfeR4SieThlVlHS4ziRKWPTqj4WbDONTggKOaPZ1xMJCXOnGROGEqk7/BMjMqI5YbSIOikfSWgDZ46mhjtwbIvdPha3ptLZH/emwCutmiL/sHtfjzjf94mfqHxgGr2uYKwWgJzvwKkRscIYFVQA/kSRJVTc03DDLVjHCs=;GHzli4bsrg0XPxjeyUL8Rw=="
 ---
 

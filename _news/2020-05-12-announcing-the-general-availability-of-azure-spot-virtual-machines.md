@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/announcing-the-general-availabili
 webUrl: "https://azure.microsoft.com/blog/announcing-the-general-availability-of-azure-spot-virtual-machines/"
 type: article
 quality: 104
-heat: 264
+heat: 284
 published: true
 
 provider:
@@ -44,6 +44,15 @@ related:
         width: 1024
         height: 696
         isCached: true
+  - title: "Azure Pipelines announces the general availability of scale-set agents"
+    excerpt: "In the last two months, we improved the reliability in performing various scale-set operations. We have updated the guidance on how to improve the performance of provisioning new virtual machines."
+    publishedDateTime: 2020-09-11T21:13:11Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-pipelines-announce-the-general-availability-of-scaleset-agents/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
   - title: "Announcing the general availability of Azure Monitor for virtual machines"
     excerpt: "Today we're announcing the general availability of Azure Monitor for virtual machines (VMs), which provides an in-depth view of VM performance trends and dependencies. You can access Azure Monitor for VMs from the Azure VM resource blade to view details about a single VM, from the Azure Virtual Machine"
     publishedDateTime: 2020-03-16T10:00:32Z
