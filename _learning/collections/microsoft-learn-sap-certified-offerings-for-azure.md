@@ -4,7 +4,7 @@ excerpt: "As an IT Professional experienced in SAP solutions, you need to unders
 type: collection
 price: Free
 length: PT3H9M
-heat: 74
+heat: 75
 
 provider:
   name: Microsoft Learn

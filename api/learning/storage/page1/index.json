@@ -185,8 +185,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/intro-to-data-in-azure/",
       "length": "PT25M",
       "ratings": {
-        "count": 53578,
-        "average": 4.733342
+        "count": 53589,
+        "average": 4.7333035
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -428,7 +428,7 @@
           "path": "",
           "title": "Create a Linux virtual machine in Azure",
           "excerpt": "This module guides you through options for virtual machines in Azure, creating and connecting a Linux virtual machine, and configuring your network settings.",
-          "heat": 177,
+          "heat": 178,
           "type": "course",
           "topics": [
             "Azure",
@@ -526,7 +526,7 @@
           "path": "",
           "title": "Create a Linux virtual machine in Azure",
           "excerpt": "This module guides you through options for virtual machines in Azure, creating and connecting a Linux virtual machine, and configuring your network settings.",
-          "heat": 177,
+          "heat": 178,
           "type": "course",
           "topics": [
             "Azure",
@@ -614,7 +614,7 @@
           "path": "",
           "title": "Security, responsibility, and trust in Azure",
           "excerpt": "Discuss the basic concepts for protecting your infrastructure and data when you work in the cloud. Understand what responsibilities are yours and what Azure takes care of for you.",
-          "heat": 292,
+          "heat": 293,
           "type": "course",
           "topics": [
             "Azure",
@@ -718,7 +718,7 @@
           "path": "",
           "title": "Security, responsibility, and trust in Azure",
           "excerpt": "Discuss the basic concepts for protecting your infrastructure and data when you work in the cloud. Understand what responsibilities are yours and what Azure takes care of for you.",
-          "heat": 292,
+          "heat": 293,
           "type": "course",
           "topics": [
             "Azure",
@@ -833,7 +833,7 @@
           "path": "",
           "title": "Create an Azure Storage account",
           "excerpt": "Discover ways to use an Azure Storage account to manage your data for billing, access, and storage location of your blobs, files, queues, and tables.",
-          "heat": 161,
+          "heat": 162,
           "type": "course",
           "topics": [
             "Azure",
@@ -930,7 +930,7 @@
           "path": "",
           "title": "Create an Azure Storage account",
           "excerpt": "Discover ways to use an Azure Storage account to manage your data for billing, access, and storage location of your blobs, files, queues, and tables.",
-          "heat": 161,
+          "heat": 162,
           "type": "course",
           "topics": [
             "Azure",
@@ -1060,7 +1060,7 @@
           "path": "",
           "title": "Chain Azure Functions together using input and output bindings",
           "excerpt": "In this module, we'll learn how to integrate your Azure Function with various data sources by using bindings.",
-          "heat": 119,
+          "heat": 120,
           "type": "course",
           "topics": [
             "Azure",
@@ -1164,7 +1164,7 @@
           "path": "",
           "title": "Chain Azure Functions together using input and output bindings",
           "excerpt": "In this module, we'll learn how to integrate your Azure Function with various data sources by using bindings.",
-          "heat": 119,
+          "heat": 120,
           "type": "course",
           "topics": [
             "Azure",
@@ -1194,41 +1194,6 @@
         "Management Tools",
         "Databases",
         "Storage"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-choose-storage-approach-in-azure.md",
-      "title": "Choose a data storage approach in Azure",
-      "excerpt": "Learn how using Azure Storage, Azure SQL Database, and Azure Cosmos DB - or a combination of them - for your business scenario is the best way to get the most performant solution.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-choose-storage-approach-in-azure/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/choose-storage-approach-in-azure/",
-      "length": "PT30M",
-      "ratings": {
-        "count": 9930,
-        "average": 4.6598186
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 194,
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Storage",
-        "Databases"
       ]
     },
     {
@@ -1270,7 +1235,7 @@
           "path": "",
           "title": "Create an Azure Storage account",
           "excerpt": "Discover ways to use an Azure Storage account to manage your data for billing, access, and storage location of your blobs, files, queues, and tables.",
-          "heat": 161,
+          "heat": 162,
           "type": "course",
           "topics": [
             "Azure",
@@ -1312,7 +1277,7 @@
         }
       ],
       "size": 9,
-      "heat": 193,
+      "heat": 194,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/upload-download-and-manage-data-with-azure-storage-explorer-social.png",
@@ -1367,7 +1332,7 @@
           "path": "",
           "title": "Create an Azure Storage account",
           "excerpt": "Discover ways to use an Azure Storage account to manage your data for billing, access, and storage location of your blobs, files, queues, and tables.",
-          "heat": 161,
+          "heat": 162,
           "type": "course",
           "topics": [
             "Azure",
@@ -1409,7 +1374,7 @@
         }
       ],
       "size": 9,
-      "heat": 193,
+      "heat": 194,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/upload-download-and-manage-data-with-azure-storage-explorer-social.png",
@@ -1452,7 +1417,7 @@
           "path": "",
           "title": "Create an Azure Storage account",
           "excerpt": "Discover ways to use an Azure Storage account to manage your data for billing, access, and storage location of your blobs, files, queues, and tables.",
-          "heat": 161,
+          "heat": 162,
           "type": "course",
           "topics": [
             "Azure",
@@ -1502,7 +1467,7 @@
           "path": "",
           "title": "Store and share files in your application with Azure Files",
           "excerpt": "Azure Files provides a cloud-based file share for storing and sharing files to applications. Whether it's an application hosted in Azure App Service, an Azure VM, or an on-premises app, Azure Files can store and share file access between one or more applications and systems in a secure and failure-resilient manner.",
-          "heat": 87,
+          "heat": 88,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/store-and-share-with-azure-files-social.png",
@@ -1519,7 +1484,7 @@
         }
       ],
       "size": 8,
-      "heat": 193,
+      "heat": 194,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/choose-the-right-disk-storage-for-vm-workload-social.png",
@@ -1564,7 +1529,7 @@
           "path": "",
           "title": "Create an Azure Storage account",
           "excerpt": "Discover ways to use an Azure Storage account to manage your data for billing, access, and storage location of your blobs, files, queues, and tables.",
-          "heat": 161,
+          "heat": 162,
           "type": "course",
           "topics": [
             "Azure",
@@ -1614,7 +1579,7 @@
           "path": "",
           "title": "Store and share files in your application with Azure Files",
           "excerpt": "Azure Files provides a cloud-based file share for storing and sharing files to applications. Whether it's an application hosted in Azure App Service, an Azure VM, or an on-premises app, Azure Files can store and share file access between one or more applications and systems in a secure and failure-resilient manner.",
-          "heat": 87,
+          "heat": 88,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/store-and-share-with-azure-files-social.png",
@@ -1631,7 +1596,7 @@
         }
       ],
       "size": 9,
-      "heat": 193,
+      "heat": 194,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/choose-the-right-disk-storage-for-vm-workload-social.png",
@@ -1647,6 +1612,41 @@
         "Storage",
         "Migration",
         "Compute"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-choose-storage-approach-in-azure.md",
+      "title": "Choose a data storage approach in Azure",
+      "excerpt": "Learn how using Azure Storage, Azure SQL Database, and Azure Cosmos DB - or a combination of them - for your business scenario is the best way to get the most performant solution.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-choose-storage-approach-in-azure/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/choose-storage-approach-in-azure/",
+      "length": "PT30M",
+      "ratings": {
+        "count": 9932,
+        "average": 4.6598873
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 194,
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Storage",
+        "Databases"
       ]
     },
     {
@@ -1769,8 +1769,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/secure-azure-storage-account/",
       "length": "PT45M",
       "ratings": {
-        "count": 7352,
-        "average": 4.6394176
+        "count": 7356,
+        "average": 4.639614
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1829,7 +1829,7 @@
       "levels": [
         "Beginner"
       ],
-      "heat": 161,
+      "heat": 162,
       "type": "course",
       "price": "Free",
       "topics": [
@@ -2077,8 +2077,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/survey-the-azure-data-platform/",
       "length": "PT58M",
       "ratings": {
-        "count": 4161,
-        "average": 4.686373
+        "count": 4162,
+        "average": 4.686449
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2303,8 +2303,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/store-app-data-with-azure-blob-storage/",
       "length": "PT50M",
       "ratings": {
-        "count": 2721,
-        "average": 4.575156
+        "count": 2722,
+        "average": 4.575312
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2337,8 +2337,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/chain-azure-functions-data-using-bindings/",
       "length": "PT1H10M",
       "ratings": {
-        "count": 2602,
-        "average": 4.5691776
+        "count": 2603,
+        "average": 4.569343
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2355,7 +2355,7 @@
       "levels": [
         "Beginner"
       ],
-      "heat": 119,
+      "heat": 120,
       "type": "course",
       "price": "Free",
       "topics": [
@@ -2433,7 +2433,7 @@
           "path": "",
           "title": "Analyze your Azure infrastructure by using Azure Monitor logs",
           "excerpt": "Use Azure Monitor logs to extract valuable information about your infrastructure from log data.",
-          "heat": 104,
+          "heat": 105,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/analyze-infrastructure-with-azure-monitor-logs-social.png",
