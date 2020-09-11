@@ -7,7 +7,7 @@ price: Free
 length: PT25M
 ratings:
   count: 784
-  average: 4.567602
+  average: 4.5688777
 heat: 78
 
 provider:
