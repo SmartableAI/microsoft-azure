@@ -4,7 +4,7 @@ excerpt: "Interested in the cloud, but aren't sure what it can do for you? This 
 type: collection
 price: Free
 length: PT9H48M
-heat: 441
+heat: 442
 
 provider:
   name: Microsoft Learn
