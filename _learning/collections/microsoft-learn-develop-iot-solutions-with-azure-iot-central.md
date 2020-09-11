@@ -4,7 +4,7 @@ excerpt: "Interested in building end to end IoT solutions with Azure IoT Central
 type: collection
 price: Free
 length: PT2H58M
-heat: 66
+heat: 50
 
 provider:
   name: Microsoft Learn

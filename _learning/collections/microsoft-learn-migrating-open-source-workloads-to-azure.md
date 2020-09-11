@@ -4,7 +4,7 @@ excerpt: "Learn how to migrate open-source workloads from PostgreSQL and MySQL d
 type: collection
 price: Free
 length: PT3H8M
-heat: 62
+heat: 55
 
 provider:
   name: Microsoft Learn

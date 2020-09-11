@@ -4,7 +4,7 @@ excerpt: "NoSQL data is an efficient way to store information that doesn’t map
 type: collection
 price: Free
 length: PT6H3M
-heat: 141
+heat: -2147483648
 
 provider:
   name: Microsoft Learn

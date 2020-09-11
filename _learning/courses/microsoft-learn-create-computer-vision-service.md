@@ -8,7 +8,7 @@ length: PT32M
 ratings:
   count: 1287
   average: 4.646465
-heat: 93
+heat: -2147483598
 
 provider:
   name: Microsoft Learn
@@ -26,6 +26,6 @@ topics:
   - Management Tools
   - AI
 
-secured: "tDM6uC443NivXDuOzzZpB2q/PBFdh+LjW51Ov+ZCcdhipJ/LY2fzrj8BDcmV7NDslCAoHPJZ1sg2vEBVTDzJscr5cKCqvDbb5WpFFed+F9OLxt5vR0e/2m2EHo9DXN3y7BGJ8Ah6uSd287oUC1lGLH46RgPdR01oGtK1GTEDAFXAEyf9nfvnyebunKK7LuaRqXYLzl24WaoOQftYqli/pMGw+GrP8wtodlzzzxB9XHh2wNGrim2h3g59bavti2GTjkq8GmNBUcNtnvTnaF6lhjlDnj0NqBZNm+Kh+c4X0tOXLwpqqIxi29kxhyeenzDtw6tvxTR+rMRRLNVj4LqGdw2LdaNI4pNE2RpsATKfVL/Ymgh6NYOAzGkgjctvsmVChccYeUns0WyOUM7Vgn9liA==;SJRDkwLXMZLVE6zDuGHy9A=="
+secured: "Mmqj/gf+lqwRkPH1wKFPbHgicdqjhNC5NgMluLFLickNEkBOki5WM9vNoBAT/2CYyFF5s7X5Ph8pXs9qgq6YdH+mTIzy5ZD+QGcG8ORomfG5uJEK6UGQBDlssX7burP6qlU28siZRmCLWIhL3+jd0sHoB8ESidYQe22aPiCVjdEhuD7b//MiZ4rGoJPpR4u4V38e0sQhrEo1NS5zOnum6bYyLRwEROeABAuV1rE2kWU0swBKJxSn4WGahdmY50Apv70iV//sVyqZHDwpsTcTjTt0kG5qhdz7mFbRscTLlscUfy6ZEw7kGi2Mjmh/XaOxwnPY3/2TlJW6nDn7UIm8K4+5ouGQd94GR9ZnZThVHdJC8CpbG6NrFQwkgt0d2enqcfNUY/DvmxkMKCdawyJyHTN8ySrVCnapX3c0DZ1PNw0=;H0ztArJeTxUuFgqGwHeibg=="
 ---
 

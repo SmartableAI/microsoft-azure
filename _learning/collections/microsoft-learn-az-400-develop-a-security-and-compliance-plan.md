@@ -4,7 +4,7 @@ excerpt: "Build strategies around security and compliance that enable you to aut
 type: collection
 price: Free
 length: PT8H31M
-heat: 126
+heat: -2147483648
 
 provider:
   name: Microsoft Learn

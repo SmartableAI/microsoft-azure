@@ -4,7 +4,7 @@ excerpt: "The AI edge engineer learning path takes an engineering-led approach f
 type: collection
 price: Free
 length: PT6H39M
-heat: 92
+heat: 12
 
 provider:
   name: Microsoft Learn
