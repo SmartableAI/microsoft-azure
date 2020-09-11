@@ -1,11 +1,12 @@
 ---
 category: news
-title: "Azure Sphere OS update 20.06 is now available for compatibility testing"
-excerpt: "The Azure Sphere OS quality update 20.06 is now available for evaluation via the retail evaluation feed. The release includes an OS update and an updated Linux SDK."
-publishedDateTime: 2020-06-12T20:00:24Z
-webUrl: "https://azure.microsoft.com/en-us/updates/azure-sphere-os-update-2006-is-now-available-for-compatibility-testing/"
+title: "Azure Sphere OS update 20.09 is now available for compatibility testing "
+excerpt: "The Azure Sphere 20.09 OS quality update is now available for evaluation via the Retail Eval feed."
+publishedDateTime: 2020-09-11T00:13:19Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/azure-sphere-os-update-2009-is-now-available-for-compatibility-testing/"
+webUrl: "https://azure.microsoft.com/en-us/updates/azure-sphere-os-update-2009-is-now-available-for-compatibility-testing/"
 type: article
-quality: 17
+quality: 66
 heat: -1
 published: false
 
@@ -39,15 +40,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
-  - title: "Azure Sphere OS update 20.09 is now available for compatibility testing "
-    excerpt: "The Azure Sphere 20.09 OS quality update is now available for evaluation via the Retail Eval feed."
-    publishedDateTime: 2020-09-11T00:13:19Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-sphere-os-update-2009-is-now-available-for-compatibility-testing/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 66
   - title: "Azure Sphere update 20.04 is now available"
     excerpt: ""
     publishedDateTime: 2020-05-05T17:00:14Z
@@ -61,6 +53,15 @@ related:
     excerpt: ""
     publishedDateTime: 2020-05-14T21:00:08Z
     webUrl: "https://azure.microsoft.com/en-us/updates/azure-sphere-update-2005-is-now-available-for-compatibility-testing/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 17
+  - title: "Azure Sphere OS update 20.06 is now available for compatibility testing"
+    excerpt: "The Azure Sphere OS quality update 20.06 is now available for evaluation via the retail evaluation feed. The release includes an OS update and an updated Linux SDK."
+    publishedDateTime: 2020-06-12T20:00:24Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-sphere-os-update-2006-is-now-available-for-compatibility-testing/"
     type: article
     provider:
       name: Microsoft
@@ -94,6 +95,6 @@ related:
       domain: microsoft.com
     quality: 17
 
-secured: "GbxwPlVWJoiGKZf0NIKd3p3q+KZrtMgUZOOEFkodJ+TgO7tU6vFFaPj/wcxmdpI5oWtDBddT7Q+idlPjB57RkHQVLqJ+N1qiJWDo735vci0Dv+/7O8oIEY7Kae83jeN95TphWA85NLq7AtctaO+GfU8BWYqqQXGCJCwPUjj5adcjIr6wuJ7LLhdSDYPkDzdeEUXDyKq2Lqpqnz77ewlXZT98acF4LGdBGRNNlH+qOBsqY9Y/n/sDHFw1oQVmK3ukNhkQKMg5VE3NqIzBAMTCD4PBKc1+ggWrLAS1nxfjAWz+ktY6yKE71Hgu6y6VAfyNpTSgfqIwvnYUlHG7yB9GBQ==;QT3GRPm6HGks4Zg3+NDqpg=="
+secured: "lYmr8zswQG5lNHAJPDQwx5uN/kSnzo0aGtFaRKIWI1hmnPiaQQFWjmwPZPQJFN2XsLUHdhBDAxW999cnFyrwQSSRBup9adGmgTwjSspcESNKuHZb/RuF3Wi6RRLd4uxiTM0WgESkWkHJA0GEF3Xl0uZQWouqc5+K4Rn3UNYAXWGXCcqy0P9gzMlea/20JOA2ZrXMQAMft7FIgm8Pyx/hkXUvrxZYgEYHAacBnXQTU/VIyLjF3Td9kfvuQ3GFMNtL+pFIVND9ziq3Z3hi7D39fOtR7R+LrcYv7ZTj1c3NrKrBbdpVyI2r62gSx5eV6YGCf3A8BG13Hb4+J2fOrhentDZX2GQPuNFgbN8xBlO88dA=;0aUxC70/Pa87XEhy1txkKA=="
 ---
 

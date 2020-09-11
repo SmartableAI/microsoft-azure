@@ -39,6 +39,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
+  - title: "Azure Sphere OS update 20.09 is now available for compatibility testing "
+    excerpt: "The Azure Sphere 20.09 OS quality update is now available for evaluation via the Retail Eval feed."
+    publishedDateTime: 2020-09-11T00:13:19Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-sphere-os-update-2009-is-now-available-for-compatibility-testing/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 66
   - title: "Azure Sphere update 20.05 is now available for compatibility testing"
     excerpt: ""
     publishedDateTime: 2020-05-14T21:00:08Z
