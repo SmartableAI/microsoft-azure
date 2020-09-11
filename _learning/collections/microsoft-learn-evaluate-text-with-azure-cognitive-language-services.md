@@ -4,7 +4,7 @@ excerpt: "Learn how to use Cognitive Language Services to analyze text, determin
 type: collection
 price: Free
 length: PT2H13M
-heat: 97
+heat: 98
 
 provider:
   name: Microsoft Learn

@@ -41,7 +41,7 @@
           "path": "",
           "title": "Create an Azure account",
           "excerpt": "Find out how to start using Azure by creating an account where you’ll see services and personal settings for identity, billing, and preferences.",
-          "heat": 370,
+          "heat": 371,
           "type": "course",
           "topics": [
             "Azure",
@@ -71,7 +71,7 @@
         }
       ],
       "size": 12,
-      "heat": 444,
+      "heat": 445,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/principles-cloud-computing-social.png",
@@ -128,7 +128,7 @@
           "path": "",
           "title": "Create an Azure account",
           "excerpt": "Find out how to start using Azure by creating an account where you’ll see services and personal settings for identity, billing, and preferences.",
-          "heat": 370,
+          "heat": 371,
           "type": "course",
           "topics": [
             "Azure",
@@ -158,7 +158,7 @@
         }
       ],
       "size": 12,
-      "heat": 444,
+      "heat": 445,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/principles-cloud-computing-social.png",
@@ -185,7 +185,7 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/principles-cloud-computing/",
       "length": "PT1H2M",
       "ratings": {
-        "count": 162778,
+        "count": 162813,
         "average": 4.771855
       },
       "provider": {
@@ -219,8 +219,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/create-an-azure-account/",
       "length": "PT39M",
       "ratings": {
-        "count": 129672,
-        "average": 4.69574
+        "count": 129695,
+        "average": 4.6957555
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -237,7 +237,7 @@
       "levels": [
         "Beginner"
       ],
-      "heat": 370,
+      "heat": 371,
       "type": "course",
       "price": "Free",
       "topics": [
@@ -284,7 +284,7 @@
           "path": "",
           "title": "Create an Azure account",
           "excerpt": "Find out how to start using Azure by creating an account where you’ll see services and personal settings for identity, billing, and preferences.",
-          "heat": 370,
+          "heat": 371,
           "type": "course",
           "topics": [
             "Azure",
@@ -409,7 +409,7 @@
           "path": "",
           "title": "Secure your Azure resources with role-based access control (RBAC)",
           "excerpt": "Learn how to use Azure’s role-based access control to effectively manage your team’s access to Azure resources.",
-          "heat": 147,
+          "heat": 148,
           "type": "course",
           "topics": [
             "Azure",
@@ -654,8 +654,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/welcome-to-azure/",
       "length": "PT36M",
       "ratings": {
-        "count": 64800,
-        "average": 4.799784
+        "count": 64809,
+        "average": 4.799781
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -688,8 +688,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/explore-azure-infrastructure/",
       "length": "PT45M",
       "ratings": {
-        "count": 65519,
-        "average": 4.712557
+        "count": 65529,
+        "average": 4.7125854
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -721,8 +721,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/intro-to-azure-compute/",
       "length": "PT38M",
       "ratings": {
-        "count": 61697,
-        "average": 4.708916
+        "count": 61708,
+        "average": 4.708968
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -761,8 +761,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/intro-to-data-in-azure/",
       "length": "PT25M",
       "ratings": {
-        "count": 53600,
-        "average": 4.7333207
+        "count": 53608,
+        "average": 4.7333236
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -779,7 +779,7 @@
       "levels": [
         "Beginner"
       ],
-      "heat": 308,
+      "heat": 309,
       "type": "course",
       "price": "Free",
       "topics": [
@@ -796,8 +796,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/tour-azure-portal/",
       "length": "PT1H13M",
       "ratings": {
-        "count": 49179,
-        "average": 4.7066836
+        "count": 49186,
+        "average": 4.706644
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -823,6 +823,40 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-intro-to-azure-networking.md",
+      "title": "Core Cloud Services - Azure networking options",
+      "excerpt": "Get acquainted with Azure networking basics to find out how Azure networking helps improve resiliency and reduce latency.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-to-azure-networking/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/intro-to-azure-networking/",
+      "length": "PT28M",
+      "ratings": {
+        "count": 42363,
+        "average": 4.764181
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 293,
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Networking"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-introduction-to-security.md",
       "title": "Security, responsibility, and trust in Azure",
       "excerpt": "Discuss the basic concepts for protecting your infrastructure and data when you work in the cloud. Understand what responsibilities are yours and what Azure takes care of for you.",
@@ -830,8 +864,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/intro-to-security-in-azure/",
       "length": "PT1H16M",
       "ratings": {
-        "count": 43241,
-        "average": 4.7022038
+        "count": 43247,
+        "average": 4.702245
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -857,40 +891,6 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-intro-to-azure-networking.md",
-      "title": "Core Cloud Services - Azure networking options",
-      "excerpt": "Get acquainted with Azure networking basics to find out how Azure networking helps improve resiliency and reduce latency.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-to-azure-networking/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/intro-to-azure-networking/",
-      "length": "PT28M",
-      "ratings": {
-        "count": 42360,
-        "average": 4.7641644
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 292,
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Networking"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-predict-costs-and-optimize-spending.md",
       "title": "Predict costs and optimize spending for Azure",
       "excerpt": "Discover how to use Azure pricing calculator, Azure Cost Management, and Azure Advisor to predict and manage cloud expenses.",
@@ -898,8 +898,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/predict-costs-and-optimize-spending/",
       "length": "PT1H14M",
       "ratings": {
-        "count": 39248,
-        "average": 4.7141767
+        "count": 39253,
+        "average": 4.714213
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -932,8 +932,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/control-and-organize-with-azure-resource-manager/",
       "length": "PT46M",
       "ratings": {
-        "count": 37327,
-        "average": 4.7124066
+        "count": 37332,
+        "average": 4.7124453
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -966,8 +966,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/intro-to-governance/",
       "length": "PT46M",
       "ratings": {
-        "count": 37065,
-        "average": 4.628922
+        "count": 37071,
+        "average": 4.6289554
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1658,8 +1658,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/intro-to-azure-virtual-machines/",
       "length": "PT1H7M",
       "ratings": {
-        "count": 13782,
-        "average": 4.6849513
+        "count": 13786,
+        "average": 4.684898
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2030,7 +2030,7 @@
           "path": "",
           "title": "Top 5 security items to consider before pushing to production",
           "excerpt": "Learn about the Site Reliability Engineering approach to the challenge of assuring reliability and gain a better understanding of why it matters.",
-          "heat": 163,
+          "heat": 164,
           "type": "course",
           "topics": [
             "Azure",
@@ -2041,7 +2041,7 @@
           "path": "",
           "title": "Configure security policies to manage data",
           "excerpt": "Learn how to set up policies to classify, retain, and protect your cloud-based data.",
-          "heat": 106,
+          "heat": 107,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/configure-security-policies-to-manage-data-social.png",
@@ -2059,7 +2059,7 @@
           "path": "",
           "title": "Secure your Azure Storage account",
           "excerpt": "Learn how Azure Storage provides multilayered security to protect your data with access keys, secure networks, and Advanced Threat Protection monitoring.",
-          "heat": 175,
+          "heat": 176,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/data-ai/secure-azure-storage-account-badge-social.png",
@@ -2076,7 +2076,7 @@
         }
       ],
       "size": 7,
-      "heat": 210,
+      "heat": 211,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/configure-security-policies-to-manage-data-social.png",
