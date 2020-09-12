@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Platform.sh announces expansion of services to Microsoft Azure West US 2 Datacenter Region"
-excerpt: "8, 2020 /PRNewswire/ -- Platform.sh, an end-to-end web platform for agile teams, is pleased to announce the expansion of its services to the West US 2 datacenter region of Microsoft Azure ..."
-publishedDateTime: 2020-09-08T16:12:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/platform-sh-announces-expansion-of-services-to-microsoft-azure-west-us-2-datacenter-region-1029570640"
-webUrl: "https://markets.businessinsider.com/news/stocks/platform-sh-announces-expansion-of-services-to-microsoft-azure-west-us-2-datacenter-region-1029570640"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/platform-sh-announces-expansion-of-services-to-microsoft-azure-west-us-2-datacenter-region-1029570640"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/platform-sh-announces-expansion-of-services-to-microsoft-azure-west-us-2-datacenter-region-1029570640"
+excerpt: "PRNewswire/ -- Platform.sh, an end-to-end web platform for agile teams, is pleased to announce the expansion of its services to the West US 2"
+publishedDateTime: 2020-09-08T16:00:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/platformsh-announces-expansion-of-services-to-microsoft-azure-west-us-2-datacenter-region-301125659.html"
+webUrl: "https://www.prnewswire.com/news-releases/platformsh-announces-expansion-of-services-to-microsoft-azure-west-us-2-datacenter-region-301125659.html"
 type: article
-quality: 67
+quality: 27
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Azure
+
+images:
+  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+    width: 600
+    height: 315
+    isCached: true
 
 related:
   - title: "Nutanix Announces Partnership with Microsoft Azure for a Seamless Hybrid Experience"
@@ -90,6 +90,6 @@ related:
       domain: insidehpc.com
     quality: 17
 
-secured: "d4RaxEq+TmFghLpqudGBuam04Ac/BpCBhPOb6PbBT8uPACB+kXJWRB5x3r4OJIVAit1uUTtPAUVOSCpODEY1xSHko7ze2m0T3rSFsm5U20PBdLICOKK1zLonT74sB+Dioy+qb5VQQLHbkWQS3Bob53uT+Q1FGTx/v7/6YjQd5H3sQLQBhHEgqysJ7DsdhHd61ls/To667ljZWoGn8ihcBoSNYaeJYZpeNDwPhyBvctoNwkdZpAfpVCLdLsihX2X0XgxszzCW892NdF6T9n+mJLPpecayq6p2az/+oy8Tt+lp0+OCAGOCAoCUCjDlU4leG95xPAtrpgsXcnYhMDVpDHqB4JRaetX7gbcsvNsDIQs=;VQLgdXNuZao1HtF1jMQjsA=="
+secured: "PHwv2qpfNhtYeXZWs/Ex9xI+ErBmAMhyj8DKBJko8PE4rTF69TMOA7zLDxzf6hKx6nRxjx32tMV3gFE/nnzLPAASuw4Y5WwR5NgPwwLH6NkSPPCQ9Qkq1YHKzq0kEURL+yUPxSaxq+WvxBoFxTM0fcM5hvS1mNT+iNYNRaTH3IpCtJaZbTMuZwYjoI+W2bLHlpv6uukNcj6Mmti9fo5E+TSbjDXddWC9+QxEnVm8jTsv3vheyIzby1IBTYtJC0uA681q8wu62lIEcGMYuRemEDMVQkEQGF7S1ML3376HVGBwduvSHk+VesCQn/q367HArxWb9xGdTLfW4DXB5WAt9an+QXqpu3ZWVrDzMs7uhFE=;Eo5B0g3oaBpcSvSoRIePkg=="
 ---
 
