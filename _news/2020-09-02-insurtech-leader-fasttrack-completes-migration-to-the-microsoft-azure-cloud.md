@@ -2,25 +2,25 @@
 category: news
 title: "Insurtech Leader FastTrack Completes Migration to the Microsoft Azure Cloud"
 excerpt: "The project resulted in a transition to Microsoft Azure for their entire suite of solutions and was completed without any service disruption to its customers. Leveraging the hosting platform's ..."
-publishedDateTime: 2020-09-02T15:20:00Z
-originalUrl: "https://www.trentonian.com/news/state/insurtech-leader-fasttrack-completes-migration-to-the-microsoft-azure-cloud/article_70b0fb10-bf08-5521-88bd-f3c4f075ad94.html"
-webUrl: "https://www.trentonian.com/news/state/insurtech-leader-fasttrack-completes-migration-to-the-microsoft-azure-cloud/article_70b0fb10-bf08-5521-88bd-f3c4f075ad94.html"
+publishedDateTime: 2020-09-02T12:40:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/insurtech-leader-fasttrack-completes-migration-to-the-microsoft-azure-cloud-301122621.html"
+webUrl: "https://www.prnewswire.com/news-releases/insurtech-leader-fasttrack-completes-migration-to-the-microsoft-azure-cloud-301122621.html"
 type: article
 quality: 35
 heat: -1
 published: false
 
 provider:
-  name: The Trentonian
-  domain: trentonian.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/trentonian.com/content/tncms/custom/image/7e7299aa-52cf-11e8-9a1b-c387992939a2.jpg?resize=600%2C600"
+  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
     width: 600
-    height: 600
+    height: 315
     isCached: true
 
 related:
@@ -68,6 +68,6 @@ related:
       domain: benzinga.com
     quality: 34
 
-secured: "iHj66P4n3rEWVcBcB4LuB0lY9ScG9GpiDSj/bH0c2GXDi/8POeafTYs4RVZrEk0TkE/3IhGGy5FG/hoATm1ZAu+wG6nGSZJwqWiO4omdoLcN5XKmg/ZOgjw59eqC+7dDGfpDwmxbljOY7+hQDSv9X0nrLETEvjcA3tT5BstKHi35SP96wUD8+5ZSJc0hwdAiFHccNIkQnRMudoygRpRG/QIR1Gqxjfnjzb/AnCPQkIesYmAu3gMjoBkqWtZGw2AJ6C7LY7GPit5JuSoLFRIm25wcMBIpNhNRN+VQ1JTZFqNEdxn+u5hy2VpSFnbZV8RMq9xGKSYuaAyw1ikBjoxn/w93zOhzl6nl70jqH7+ZBNs=;ZEzE44Wb2Ft1RUMsVtlgTA=="
+secured: "wnFBeNDHdngdmeNDpyIC4r8ziwhgWYbykFZsUY9PT53euQvIyYPDO6dyCwhweAXcN5Dj8Q0DepnCsXblQmF73OfdRp72dqAhuOe7f1MkwWQksZ8Az7sijdOGdp2lGrfuziIyxWaYH1PCpRzD8375zrUSwQJLFDRnXsC1sqTuVcz+b9NZGXAT/nOOdPPCPwoxftVZPROlObRL0LcXyxu01KGJKhKXtjbdWHtymiiBBKhZ2qep8aaFTtwW8Y7F+wLZbEJhB/az+qBEx+8Pa0B7+9LblfbwjySGsgd9uYIMXOBmiFzHFgJMo2ldVAsvQiWqcx4Asmm9aJzulJz6d1Ohj0/2OzzsawhpozeDJ5sPyvU=;8obJ03kYdHxMkIMJIRd0bw=="
 ---
 
