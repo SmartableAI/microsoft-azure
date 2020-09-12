@@ -159,8 +159,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/choose-an-agile-approach/",
       "length": "PT40M",
       "ratings": {
-        "count": 5186,
-        "average": 4.745083
+        "count": 5187,
+        "average": 4.7449393
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -200,8 +200,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/choose-azure-service-to-integrate-and-automate-business-processes/",
       "length": "PT44M",
       "ratings": {
-        "count": 9675,
-        "average": 4.5684752
+        "count": 9676,
+        "average": 4.56852
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -241,8 +241,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/choose-a-messaging-model-in-azure-to-connect-your-services/",
       "length": "PT45M",
       "ratings": {
-        "count": 2967,
-        "average": 4.583081
+        "count": 2968,
+        "average": 4.583221
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -474,8 +474,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/classify-user-feedback-with-the-text-analytics-api/",
       "length": "PT48M",
       "ratings": {
-        "count": 1350,
-        "average": 4.6192594
+        "count": 1351,
+        "average": 4.619541
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -503,40 +503,6 @@
         "Serverless",
         "Storage",
         "AI"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-communicate-between-applications-with-azure-queue-storage.md",
-      "title": "Communicate between applications with Azure Queue storage",
-      "excerpt": "Find out to use Azure Queue storage to handle high demand and improve resilience in your distributed applications.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-communicate-between-applications-with-azure-queue-storage/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/communicate-between-apps-with-azure-queue-storage/",
-      "length": "PT56M",
-      "ratings": {
-        "count": 1593,
-        "average": 4.57941
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": -2147483598,
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Storage"
       ]
     },
     {
@@ -664,8 +630,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/connect-an-app-to-azure-storage/",
       "length": "PT1H15M",
       "ratings": {
-        "count": 4658,
-        "average": 4.6281667
+        "count": 4659,
+        "average": 4.6280317
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -699,8 +665,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/connect-on-premises-network-with-expressroute/",
       "length": "PT40M",
       "ratings": {
-        "count": 3016,
-        "average": 4.666114
+        "count": 3017,
+        "average": 4.666225
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -783,8 +749,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/control-and-organize-with-azure-resource-manager/",
       "length": "PT46M",
       "ratings": {
-        "count": 37353,
-        "average": 4.712473
+        "count": 37356,
+        "average": 4.7124424
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -817,8 +783,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/control-authentication-with-apim/",
       "length": "PT55M",
       "ratings": {
-        "count": 1429,
-        "average": 4.6445065
+        "count": 1430,
+        "average": 4.6447554
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -860,8 +826,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/control-azure-services-with-cli/",
       "length": "PT34M",
       "ratings": {
-        "count": 3914,
-        "average": 4.7452736
+        "count": 3915,
+        "average": 4.7453384
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1012,8 +978,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/create-windows-virtual-machine-in-azure/",
       "length": "PT51M",
       "ratings": {
-        "count": 12139,
-        "average": 4.70706
+        "count": 12140,
+        "average": 4.707084
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1097,8 +1063,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/create-an-azure-account/",
       "length": "PT39M",
       "ratings": {
-        "count": 129781,
-        "average": 4.695772
+        "count": 129796,
+        "average": 4.6957765
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1154,6 +1120,41 @@
       "price": "Free",
       "topics": [
         "Azure",
+        "Management Tools"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-create-azure-storage-account.md",
+      "title": "Create an Azure Storage account",
+      "excerpt": "Discover ways to use an Azure Storage account to manage your data for billing, access, and storage location of your blobs, files, queues, and tables.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-create-azure-storage-account/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/create-azure-storage-account/",
+      "length": "PT30M",
+      "ratings": {
+        "count": 5708,
+        "average": 4.751927
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": -2147483598,
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Storage",
         "Management Tools"
       ]
     }
