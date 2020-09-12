@@ -4,6 +4,40 @@
   "page": 11,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-register-and-manage-customer-devices-with-connected-field-service.md",
+      "title": "Register and manage devices with Connected Field Service for Dynamics 365 and Azure IoT",
+      "excerpt": "Register and Manage Customer Devices with Connected Field Service.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-register-and-manage-customer-devices-with-connected-field-service/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/register-and-manage-customer-devices-with-connected-field-service/",
+      "length": "PT1H26M",
+      "ratings": {
+        "count": 53,
+        "average": 4.6981134
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 46,
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "IoT"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-release-based-workflow-github.md",
       "title": "Manage software delivery by using a release based workflow on GitHub",
       "excerpt": "Learn to implement a release based workflow on GitHub using project boards, branches, and releases.",
@@ -1156,8 +1190,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/build-web-api-nodejs-express/",
       "length": "PT39M",
       "ratings": {
-        "count": 76,
-        "average": 4.8026314
+        "count": 77,
+        "average": 4.805195
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1386,47 +1420,6 @@
       "topics": [
         "Azure",
         "Identity"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-m365-identity-zero-trust.md",
-      "title": "Embrace Zero Trust with Azure Active Directory",
-      "excerpt": "Learn about the Zero Trust model and how to implement Zero Trust into your organization.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-m365-identity-zero-trust/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/m365-identity-zero-trust/",
-      "length": "PT35M",
-      "ratings": {
-        "count": 92,
-        "average": 4.7826085
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 44,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/embrace-zero-trust-social.png",
-          "width": 643,
-          "height": 324,
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
       ]
     }
   ],

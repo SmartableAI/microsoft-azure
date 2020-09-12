@@ -4,6 +4,134 @@
   "page": 6,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-secure-cognitive-services.md",
+      "title": "Secure Cognitive Services",
+      "excerpt": "Learn how to secure Cognitive Services to prevent data loss and privacy violations for user data that may be a part of the solution.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-secure-cognitive-services/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/secure-cognitive-services/",
+      "length": "PT37M",
+      "ratings": {
+        "count": 1,
+        "average": 5.0
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Advanced"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/secure-cognitive-services-social.png",
+          "width": 643,
+          "height": 321,
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Identity",
+        "AI"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-secure-responsible-conversational-ai.md",
+      "title": "Discover Microsoft safety guidelines for responsible conversational AI development",
+      "excerpt": "Learn Microsoft development guidelines for fair and secure responsible conversational AI.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-secure-responsible-conversational-ai/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/secure-responsible-conversational-ai/",
+      "length": "PT36M",
+      "ratings": {
+        "count": 8,
+        "average": 4.75
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/secure-responsible-conversational-ai-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-send-crop-weather-alerts.md",
+      "title": "Help remote farmers protect their crops with text message weather alerts using Azure Functions",
+      "excerpt": "In this module, you'll create an application that allows farmers to use text messaging to set up temperature alerts. These alerts can help farmers know when to plant, when to water, or when to protect their crops.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-send-crop-weather-alerts/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/send-crop-weather-alerts/",
+      "length": "PT35M",
+      "ratings": {
+        "count": 6,
+        "average": 3.8333333
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/advocates/send-crop-weather-alerts-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "IoT",
+        "Mobile",
+        "Web"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-start-ml-lifecycle-mlops.md",
       "title": "Start the machine learning lifecycle with MLOps",
       "excerpt": "Learn enterprise AI management with our free open online course, including machine learning.",
@@ -215,240 +343,6 @@
       "topics": [
         "Azure",
         "AI"
-      ]
-    },
-    {
-      "path": "_learning/collections/microsoft-learn-building-open-source-software-oss-analytical-solutions-with-azure-hdinsight.md",
-      "title": "Building Open Source Software (OSS) Analytical Solutions with Azure HDInsight",
-      "excerpt": "In this learning path, the learner will be introduced to HDInsight and how to apply this technology to solve a range of real world challenges.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-building-open-source-software-oss-analytical-solutions-with-azure-hdinsight/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-building-open-source-software-oss-analytical-solutions-with-azure-hdinsight/",
-      "length": "PT4H36M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "topItems": [
-        {
-          "path": "",
-          "title": "Introduction to the Open source Analytics Offering",
-          "excerpt": "Introduction to the Open source Analytics Offering",
-          "heat": 35,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/introduction-to-the-open-source-analytics-offering-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "Azure",
-            "Analytics"
-          ]
-        },
-        {
-          "path": "",
-          "title": "Choose the correct HDInsight Configuration to build open-source analytics solutions",
-          "excerpt": "Choose the correct HDInsight Configuration to build open-source analytics solutions",
-          "heat": 40,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/hdinsight-config-build-oss-analytical-solutions-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "Azure",
-            "Analytics"
-          ]
-        },
-        {
-          "path": "",
-          "title": "Creating and configuring a HDInsight cluster",
-          "excerpt": "Creating and configuring a HDInsight Cluster",
-          "heat": 41,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/creating-and-configuring-a-hdinsight-cluster-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "Azure",
-            "Analytics"
-          ]
-        },
-        {
-          "path": "",
-          "title": "Perform advanced streaming data transformations with Apache Spark and Kafka in Azure HDInsight",
-          "excerpt": "Perform advanced streaming data transformations with Apache Spark and Kafka in Azure HDInsight",
-          "heat": 47,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/perform-advanced-streaming-data-transformations-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "Azure",
-            "Analytics"
-          ]
-        }
-      ],
-      "size": 6,
-      "heat": 49,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/introduction-to-the-open-source-analytics-offering-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Analytics"
-      ]
-    },
-    {
-      "path": "_learning/collections/microsoft-learn-building-open-source-software-oss-analytics-solutions-with-azure-hdinsight.md",
-      "title": "Building Open Source Software (OSS) Analytics Solutions with Azure HDInsight",
-      "excerpt": "Building Open Source Software (OSS) Analytics Solutions with Azure HDInsight",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-building-open-source-software-oss-analytics-solutions-with-azure-hdinsight/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-building-open-source-software-oss-analytics-solutions-with-azure-hdinsight/",
-      "length": "PT4H36M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "topItems": [
-        {
-          "path": "",
-          "title": "Introduction to the Open source Analytics Offering",
-          "excerpt": "Introduction to the Open source Analytics Offering",
-          "heat": 35,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/introduction-to-the-open-source-analytics-offering-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "Azure",
-            "Analytics"
-          ]
-        },
-        {
-          "path": "",
-          "title": "Choose the correct HDInsight Configuration to build open-source analytics solutions",
-          "excerpt": "Choose the correct HDInsight Configuration to build open-source analytics solutions",
-          "heat": 40,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/hdinsight-config-build-oss-analytical-solutions-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "Azure",
-            "Analytics"
-          ]
-        },
-        {
-          "path": "",
-          "title": "Creating and configuring a HDInsight cluster",
-          "excerpt": "Creating and configuring a HDInsight Cluster",
-          "heat": 41,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/creating-and-configuring-a-hdinsight-cluster-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "Azure",
-            "Analytics"
-          ]
-        },
-        {
-          "path": "",
-          "title": "Run Petabyte level OSS NoSQL databases with HDInsight HBase",
-          "excerpt": "Run Petabyte level OSS NoSQL databases with HDInsight HBase",
-          "heat": 51,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/run-petabyte-level-oss-nosql-databases-with-hdinsight-hbase-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "Azure",
-            "Analytics"
-          ]
-        }
-      ],
-      "size": 7,
-      "heat": 49,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/introduction-to-the-open-source-analytics-offering-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Analytics"
       ]
     },
     {
@@ -1475,48 +1369,6 @@
       "ratings": {
         "count": 22,
         "average": 4.8636365
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 49,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Databases"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-describe-performance-related-maintenance-tasks-sql-server.md",
-      "title": "Describe performance-related maintenance tasks in SQL Server",
-      "excerpt": "Implement tasks for both IaaS and PaaS to maintain indexes, and statistics. Explore the automatic tuning features of Azure SQL Database.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-describe-performance-related-maintenance-tasks-sql-server/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/describe-performance-related-maintenance-tasks-sql-server/",
-      "length": "PT23M",
-      "ratings": {
-        "count": 19,
-        "average": 4.631579
       },
       "provider": {
         "name": "Microsoft Learn",

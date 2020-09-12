@@ -4,6 +4,47 @@
   "page": 12,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-m365-identity-zero-trust.md",
+      "title": "Embrace Zero Trust with Azure Active Directory",
+      "excerpt": "Learn about the Zero Trust model and how to implement Zero Trust into your organization.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-m365-identity-zero-trust/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/m365-identity-zero-trust/",
+      "length": "PT35M",
+      "ratings": {
+        "count": 92,
+        "average": 4.7826085
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 44,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/embrace-zero-trust-social.png",
+          "width": 643,
+          "height": 324,
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-maintain-azure-sap-workloads.md",
       "title": "Maintain Azure for SAP workloads",
       "excerpt": "Maintain Azure for SAP workloads",
@@ -488,8 +529,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/debug-nodejs/",
       "length": "PT37M",
       "ratings": {
-        "count": 96,
-        "average": 4.6979165
+        "count": 97,
+        "average": 4.7010307
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -861,8 +902,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/work-dataframes-azure-databricks/",
       "length": "PT46M",
       "ratings": {
-        "count": 118,
-        "average": 4.677966
+        "count": 119,
+        "average": 4.680672
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1300,8 +1341,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/explain-machine-learning-models-with-azure-machine-learning/",
       "length": "PT47M",
       "ratings": {
-        "count": 125,
-        "average": 4.696
+        "count": 126,
+        "average": 4.698413
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1457,47 +1498,6 @@
       "topics": [
         "Azure",
         "IoT"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-migrate-repository-github.md",
-      "title": "Migrate your repository by using GitHub best practices",
-      "excerpt": "Learn to move your existing project to GitHub from a legacy version control system.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-migrate-repository-github/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/migrate-repository-github/",
-      "length": "PT43M",
-      "ratings": {
-        "count": 115,
-        "average": 4.652174
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 42,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/github/migrate-repository-github-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
       ]
     }
   ],

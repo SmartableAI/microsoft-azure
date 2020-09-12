@@ -4,42 +4,6 @@
   "page": 23,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-host-a-web-application-with-azure-web-apps.md",
-      "title": "Host a web application with Azure App service",
-      "excerpt": "Create a website in the programming language of your choice through the hosted web app platform in Azure App Service.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-host-a-web-application-with-azure-web-apps/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/host-a-web-app-with-azure-app-service/",
-      "length": "PT58M",
-      "ratings": {
-        "count": 4987,
-        "average": 4.5979548
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": -2147483598,
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Compute",
-        "Web",
-        "Management Tools"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-host-build-agent.md",
       "title": "Host your own build agent in Azure Pipelines",
       "excerpt": "Work with guidance from the Space Game web team to set up your build agent running on-premises or on an Azure virtual machine running in the cloud.",
@@ -290,8 +254,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/improve-app-scalability-resiliency-with-load-balancer/",
       "length": "PT47M",
       "ratings": {
-        "count": 1844,
-        "average": 4.715293
+        "count": 1845,
+        "average": 4.715447
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -375,8 +339,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/integrate-vnets-with-vnet-peering/",
       "length": "PT42M",
       "ratings": {
-        "count": 2368,
-        "average": 4.7183275
+        "count": 2371,
+        "average": 4.718684
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -535,6 +499,47 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-intro-to-azure-machine-learning-service.md",
+      "title": "Introduction to the Azure Machine Learning SDK",
+      "excerpt": "Azure Machine Learning provides a cloud-based platform for training, deploying, and managing machine learning models.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-to-azure-machine-learning-service/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/intro-to-azure-machine-learning-service/",
+      "length": "PT40M",
+      "ratings": {
+        "count": 1998,
+        "average": 4.607608
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": -2147483598,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/intro-to-azure-machine-learning-service-badge-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-intro-to-azure-networking.md",
       "title": "Core Cloud Services - Azure networking options",
       "excerpt": "Get acquainted with Azure networking basics to find out how Azure networking helps improve resiliency and reduce latency.",
@@ -542,8 +547,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/intro-to-azure-networking/",
       "length": "PT28M",
       "ratings": {
-        "count": 42380,
-        "average": 4.764205
+        "count": 42385,
+        "average": 4.7642093
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -576,8 +581,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/intro-to-azure-compute/",
       "length": "PT38M",
       "ratings": {
-        "count": 61733,
-        "average": 4.7089887
+        "count": 61738,
+        "average": 4.7090125
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -649,8 +654,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/intro-to-data-in-azure/",
       "length": "PT25M",
       "ratings": {
-        "count": 53633,
-        "average": 4.733392
+        "count": 53639,
+        "average": 4.733422
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -718,8 +723,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/intro-to-governance/",
       "length": "PT46M",
       "ratings": {
-        "count": 37092,
-        "average": 4.6290035
+        "count": 37094,
+        "average": 4.6290236
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -835,8 +840,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/introduction-to-azure-data-lake-storage/",
       "length": "PT30M",
       "ratings": {
-        "count": 1657,
-        "average": 4.6988535
+        "count": 1658,
+        "average": 4.699035
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -876,8 +881,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/intro-to-azure-virtual-machines/",
       "length": "PT1H7M",
       "ratings": {
-        "count": 13793,
-        "average": 4.684985
+        "count": 13795,
+        "average": 4.685031
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -952,8 +957,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/intro-to-security-in-azure/",
       "length": "PT1H16M",
       "ratings": {
-        "count": 43269,
-        "average": 4.702212
+        "count": 43273,
+        "average": 4.702239
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -986,8 +991,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/keep-your-virtual-machines-updated/",
       "length": "PT35M",
       "ratings": {
-        "count": 2631,
-        "average": 4.4891677
+        "count": 2632,
+        "average": 4.489362
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1021,8 +1026,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/load-balance-web-traffic-with-application-gateway/",
       "length": "PT1H32M",
       "ratings": {
-        "count": 1841,
-        "average": 4.583922
+        "count": 1842,
+        "average": 4.5841475
       },
       "provider": {
         "name": "Microsoft Learn",
