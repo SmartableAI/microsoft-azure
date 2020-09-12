@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/ci-aug-update/"
 webUrl: "https://azure.microsoft.com/en-us/updates/ci-aug-update/"
 type: article
 quality: 87
-heat: 88
+heat: 87
 published: true
 
 provider:
