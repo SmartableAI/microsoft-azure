@@ -4,41 +4,6 @@
   "page": 21,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-build-azure-vm-templates.md",
-      "title": "Build Azure Resource Manager templates",
-      "excerpt": "Learn how Resource Manager templates express your deployments as code, enabling you to deploy faster and more reliably.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-build-azure-vm-templates/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/build-azure-vm-templates/",
-      "length": "PT37M",
-      "ratings": {
-        "count": 3320,
-        "average": 4.53494
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": -2147483598,
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Management Tools",
-        "Compute"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-build-web-app-blazor-webassembly-vscode.md",
       "title": "Build a web app with Blazor WebAssembly and Visual Studio Code",
       "excerpt": "Learn how to set up your development environment and build your first WebAssembly app with Blazor, Visual Studio Code, and C#.",
@@ -200,8 +165,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/choose-azure-service-to-integrate-and-automate-business-processes/",
       "length": "PT44M",
       "ratings": {
-        "count": 9676,
-        "average": 4.56852
+        "count": 9678,
+        "average": 4.568506
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -277,8 +242,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/choose-storage-approach-in-azure/",
       "length": "PT30M",
       "ratings": {
-        "count": 9943,
-        "average": 4.659861
+        "count": 9944,
+        "average": 4.6598954
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -354,8 +319,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/choose-the-right-disk-storage-for-vm-workload/",
       "length": "PT24M",
       "ratings": {
-        "count": 1527,
-        "average": 4.658153
+        "count": 1529,
+        "average": 4.6586003
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -474,8 +439,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/classify-user-feedback-with-the-text-analytics-api/",
       "length": "PT48M",
       "ratings": {
-        "count": 1351,
-        "average": 4.619541
+        "count": 1353,
+        "average": 4.6201034
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -506,6 +471,40 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-communicate-between-applications-with-azure-queue-storage.md",
+      "title": "Communicate between applications with Azure Queue storage",
+      "excerpt": "Find out to use Azure Queue storage to handle high demand and improve resilience in your distributed applications.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-communicate-between-applications-with-azure-queue-storage/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/communicate-between-apps-with-azure-queue-storage/",
+      "length": "PT56M",
+      "ratings": {
+        "count": 1594,
+        "average": 4.579674
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": -2147483598,
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Storage"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-configure-and-manage-azure-key-vault.md",
       "title": "Configure and manage secrets in Azure Key Vault",
       "excerpt": "Configure and manage secrets in Azure Key Vault",
@@ -513,8 +512,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/configure-and-manage-azure-key-vault/",
       "length": "PT29M",
       "ratings": {
-        "count": 1802,
-        "average": 4.6043286
+        "count": 1804,
+        "average": 4.6042128
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -554,8 +553,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/configure-security-policies-to-manage-data/",
       "length": "PT39M",
       "ratings": {
-        "count": 1888,
-        "average": 4.59428
+        "count": 1889,
+        "average": 4.5944943
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -630,8 +629,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/connect-an-app-to-azure-storage/",
       "length": "PT1H15M",
       "ratings": {
-        "count": 4659,
-        "average": 4.6280317
+        "count": 4660,
+        "average": 4.6281114
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -665,8 +664,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/connect-on-premises-network-with-expressroute/",
       "length": "PT40M",
       "ratings": {
-        "count": 3017,
-        "average": 4.666225
+        "count": 3019,
+        "average": 4.6664457
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -707,8 +706,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/connect-on-premises-network-with-vpn-gateway/",
       "length": "PT39M",
       "ratings": {
-        "count": 4459,
-        "average": 4.597892
+        "count": 4461,
+        "average": 4.597848
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -749,8 +748,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/control-and-organize-with-azure-resource-manager/",
       "length": "PT46M",
       "ratings": {
-        "count": 37356,
-        "average": 4.7124424
+        "count": 37360,
+        "average": 4.7124734
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -978,8 +977,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/create-windows-virtual-machine-in-azure/",
       "length": "PT51M",
       "ratings": {
-        "count": 12140,
-        "average": 4.707084
+        "count": 12143,
+        "average": 4.707156
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1063,8 +1062,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/create-an-azure-account/",
       "length": "PT39M",
       "ratings": {
-        "count": 129796,
-        "average": 4.6957765
+        "count": 129806,
+        "average": 4.6957846
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1097,8 +1096,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/create-azure-db-for-postgresql-server/",
       "length": "PT44M",
       "ratings": {
-        "count": 1787,
-        "average": 4.6228313
+        "count": 1788,
+        "average": 4.6230426
       },
       "provider": {
         "name": "Microsoft Learn",
