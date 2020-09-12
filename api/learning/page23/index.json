@@ -4,6 +4,42 @@
   "page": 23,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-host-a-web-application-with-azure-web-apps.md",
+      "title": "Host a web application with Azure App service",
+      "excerpt": "Create a website in the programming language of your choice through the hosted web app platform in Azure App Service.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-host-a-web-application-with-azure-web-apps/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/host-a-web-app-with-azure-app-service/",
+      "length": "PT58M",
+      "ratings": {
+        "count": 4987,
+        "average": 4.5979548
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": -2147483598,
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Compute",
+        "Web",
+        "Management Tools"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-host-build-agent.md",
       "title": "Host your own build agent in Azure Pipelines",
       "excerpt": "Work with guidance from the Space Game web team to set up your build agent running on-premises or on an Azure virtual machine running in the cloud.",
@@ -178,8 +214,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/implement-message-workflows-with-service-bus/",
       "length": "PT54M",
       "ratings": {
-        "count": 1952,
-        "average": 4.647541
+        "count": 1953,
+        "average": 4.6477213
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -254,8 +290,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/improve-app-scalability-resiliency-with-load-balancer/",
       "length": "PT47M",
       "ratings": {
-        "count": 1843,
-        "average": 4.7151384
+        "count": 1844,
+        "average": 4.715293
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -422,8 +458,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/intro-to-azure-ad/",
       "length": "PT27M",
       "ratings": {
-        "count": 1311,
-        "average": 4.6864986
+        "count": 1312,
+        "average": 4.686738
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -499,47 +535,6 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-intro-to-azure-machine-learning-service.md",
-      "title": "Introduction to the Azure Machine Learning SDK",
-      "excerpt": "Azure Machine Learning provides a cloud-based platform for training, deploying, and managing machine learning models.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-to-azure-machine-learning-service/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/intro-to-azure-machine-learning-service/",
-      "length": "PT40M",
-      "ratings": {
-        "count": 1998,
-        "average": 4.607608
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": -2147483598,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/intro-to-azure-machine-learning-service-badge-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-intro-to-azure-networking.md",
       "title": "Core Cloud Services - Azure networking options",
       "excerpt": "Get acquainted with Azure networking basics to find out how Azure networking helps improve resiliency and reduce latency.",
@@ -547,8 +542,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/intro-to-azure-networking/",
       "length": "PT28M",
       "ratings": {
-        "count": 42379,
-        "average": 4.7641993
+        "count": 42380,
+        "average": 4.764205
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -581,8 +576,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/intro-to-azure-compute/",
       "length": "PT38M",
       "ratings": {
-        "count": 61726,
-        "average": 4.708988
+        "count": 61733,
+        "average": 4.7089887
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -654,8 +649,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/intro-to-data-in-azure/",
       "length": "PT25M",
       "ratings": {
-        "count": 53627,
-        "average": 4.7333617
+        "count": 53633,
+        "average": 4.733392
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -723,8 +718,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/intro-to-governance/",
       "length": "PT46M",
       "ratings": {
-        "count": 37088,
-        "average": 4.6289635
+        "count": 37092,
+        "average": 4.6290035
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -957,8 +952,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/intro-to-security-in-azure/",
       "length": "PT1H16M",
       "ratings": {
-        "count": 43262,
-        "average": 4.702233
+        "count": 43269,
+        "average": 4.702212
       },
       "provider": {
         "name": "Microsoft Learn",
