@@ -84,6 +84,20 @@ related:
         width: 300
         height: 350
         isCached: true
+  - title: "Refintiv heads to Microsoft Azure"
+    excerpt: "Microsoft and Refinitiv have formed a new strategic partnership that will give people who work in the financial sector greater connectivity and insight into their markets and customers, and help them make critical business decisions."
+    publishedDateTime: 2020-09-12T13:53:00Z
+    webUrl: "https://www.finextra.com/pressarticle/83996/refintiv-heads-to-microsoft-azure"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 37
+    images:
+      - url: "https://www.finextra.com/about/finextra-logo-alt-16-9.jpg"
+        width: 480
+        height: 270
+        isCached: true
   - title: "3Cloud, Microsoft Azure cloud computing firm, acquires Pragmatic Works Consulting"
     excerpt: "The deal expands 3Cloud's data and analytics capabilities and geographic reach, forming the largest Azure pure-play services firm in the United States."
     publishedDateTime: 2020-09-10T19:48:00Z

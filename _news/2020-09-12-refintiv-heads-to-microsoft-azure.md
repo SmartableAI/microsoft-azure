@@ -1,26 +1,26 @@
 ---
 category: news
-title: "FastTrack has Announced its Migration to Microsoft Azure"
-excerpt: "FastTrack has Announced its Migration to Microsoft Azure By CIOReview - FastTrack has announced its completion of migration to a cloud-computing platform to manage the numerous coding"
-publishedDateTime: 2020-09-10T12:34:00Z
-originalUrl: "https://www.cioreview.com/news/fasttrack-has-announced-its-migration-to-microsoft-azure-nid-31927-cid-23.html"
-webUrl: "https://www.cioreview.com/news/fasttrack-has-announced-its-migration-to-microsoft-azure-nid-31927-cid-23.html"
+title: "Refintiv heads to Microsoft Azure"
+excerpt: "Microsoft and Refinitiv have formed a new strategic partnership that will give people who work in the financial sector greater connectivity and insight into their markets and customers, and help them make critical business decisions."
+publishedDateTime: 2020-09-12T13:53:00Z
+originalUrl: "https://www.finextra.com/pressarticle/83996/refintiv-heads-to-microsoft-azure"
+webUrl: "https://www.finextra.com/pressarticle/83996/refintiv-heads-to-microsoft-azure"
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: CIOReview
-  domain: cioreview.com
+  name: Finextra
+  domain: finextra.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://www.cioreview.com/news_new/sliderimage/xamab.350.jpg"
-    width: 300
-    height: 350
+  - url: "https://www.finextra.com/about/finextra-logo-alt-16-9.jpg"
+    width: 480
+    height: 270
     isCached: true
 
 related:
@@ -70,19 +70,19 @@ related:
         width: 268
         height: 250
         isCached: true
-  - title: "Refintiv heads to Microsoft Azure"
-    excerpt: "Microsoft and Refinitiv have formed a new strategic partnership that will give people who work in the financial sector greater connectivity and insight into their markets and customers, and help them make critical business decisions."
-    publishedDateTime: 2020-09-12T13:53:00Z
-    webUrl: "https://www.finextra.com/pressarticle/83996/refintiv-heads-to-microsoft-azure"
+  - title: "FastTrack has Announced its Migration to Microsoft Azure"
+    excerpt: "FastTrack has Announced its Migration to Microsoft Azure By CIOReview - FastTrack has announced its completion of migration to a cloud-computing platform to manage the numerous coding"
+    publishedDateTime: 2020-09-10T12:34:00Z
+    webUrl: "https://www.cioreview.com/news/fasttrack-has-announced-its-migration-to-microsoft-azure-nid-31927-cid-23.html"
     type: article
     provider:
-      name: Finextra
-      domain: finextra.com
+      name: CIOReview
+      domain: cioreview.com
     quality: 37
     images:
-      - url: "https://www.finextra.com/about/finextra-logo-alt-16-9.jpg"
-        width: 480
-        height: 270
+      - url: "https://www.cioreview.com/news_new/sliderimage/xamab.350.jpg"
+        width: 300
+        height: 350
         isCached: true
   - title: "Microsoft launches Azure Spring Cloud to simplify enterprise software projects"
     excerpt: "Microsoft Corp. today announced the general availability of Azure Spring Cloud, a managed service designed to reduce the amount of work involved in building and maintaining enterprise applications on its cloud platform."
@@ -133,6 +133,6 @@ related:
       domain: channele2e.com
     quality: 17
 
-secured: "sTuq6fezIZrowXG6mvL/zUR9GYU7fanvczY/u482Y1fdNARxzoiA/6xQfzU/N2DNDQK+665FetC7spOrKddPK/nascryrKq+SI0nFhAYZNF3ScBVDEm8RO4qvPxK9BA99vrYar+eqnqnjpFSHQ7bpDntJqICZ2fDqDg61udMdQHbes2eheOTgRJtVUkTmdfW52UzR0AZ8cEdXC7V2xdYc5CZpfbiOlVHwHKzeSwcLZY1swoGcEFD0YMOgFwWBJt5qAsdfsD4n95vyDfOnKLS9x1ls1VN2w2OpXu5NN1YOOgDOVWbQ+tmwJzejplP0BVZ0iFAHntNCu8927EVzhdDM5xJ99ZUclbGQ5bemsUqYTo=;yLE5Auzhu8jPnhcdqm5kCA=="
+secured: "uvCjUu6zwc9qRyZ/vrOZSGXJy8+fBAiJsSBxiUoEfg/mhE8Z8DASLfm7ovbjfjKUSgR109KP7nHlandOKnYlSd2g/dOEblv4+2In8pKHczQeAxkzG2z02EdHEn5RimwsCp9SxHpM1i17uhPLOUzTnidbTzw9d04B/o7gxcKHwg0gM1yq1+wRkQJQ4NwuZGECs6W/jelWw2tH57DcqPHuElmovZhuuGcUmZWwRVOCGfyEfZ9AMw/VsU0H1LcyIA6JDTpk3ulOXXd5og90pBuyCqP1RUGVGn4Jhy2GZ6MmOysbJsP+lCMzwAdZPUtY1HYSalfHbVS92dslO2y+GY9uaehcNXLXT7KauQdxjacX9ic=;H7SL3ItAPxpxgfH499fpZQ=="
 ---
 

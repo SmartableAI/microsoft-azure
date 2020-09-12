@@ -84,6 +84,20 @@ related:
         width: 300
         height: 350
         isCached: true
+  - title: "Refintiv heads to Microsoft Azure"
+    excerpt: "Microsoft and Refinitiv have formed a new strategic partnership that will give people who work in the financial sector greater connectivity and insight into their markets and customers, and help them make critical business decisions."
+    publishedDateTime: 2020-09-12T13:53:00Z
+    webUrl: "https://www.finextra.com/pressarticle/83996/refintiv-heads-to-microsoft-azure"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 37
+    images:
+      - url: "https://www.finextra.com/about/finextra-logo-alt-16-9.jpg"
+        width: 480
+        height: 270
+        isCached: true
   - title: "Microsoft launches Azure Spring Cloud to simplify enterprise software projects"
     excerpt: "Microsoft Corp. today announced the general availability of Azure Spring Cloud, a managed service designed to reduce the amount of work involved in building and maintaining enterprise applications on its cloud platform."
     publishedDateTime: 2020-09-02T18:11:00Z
