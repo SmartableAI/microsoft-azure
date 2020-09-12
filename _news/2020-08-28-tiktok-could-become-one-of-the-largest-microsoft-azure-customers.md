@@ -46,20 +46,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Insurtech Leader FastTrack Completes Migration to the Microsoft Azure Cloud"
-    excerpt: "The project resulted in a transition to Microsoft Azure for their entire suite of solutions and was completed without any service disruption to its customers. Leveraging the hosting platform's ..."
-    publishedDateTime: 2020-09-02T12:40:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/insurtech-leader-fasttrack-completes-migration-to-the-microsoft-azure-cloud-301122621.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 35
-    images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
-        isCached: true
   - title: "Carahsoft Brings Microsoft Azure to Its Public Sector Customers and Partners"
     excerpt: "Carahsoft Technology Corp., The Trusted Government IT Solutions Provider®, today announced that Microsoft Azure services"
     publishedDateTime: 2020-08-27T16:00:00Z
@@ -71,6 +57,15 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 34
+  - title: "Insurtech Leader FastTrack Completes Migration to the Microsoft Azure Cloud"
+    excerpt: "The project resulted in a transition to Microsoft Azure for their entire suite of solutions and was completed without any service disruption to its customers. Leveraging the hosting platform's ..."
+    publishedDateTime: 2020-09-02T15:20:00Z
+    webUrl: "https://www.trentonian.com/news/state/insurtech-leader-fasttrack-completes-migration-to-the-microsoft-azure-cloud/article_70b0fb10-bf08-5521-88bd-f3c4f075ad94.html"
+    type: article
+    provider:
+      name: The Trentonian
+      domain: trentonian.com
+    quality: 15
 
 secured: "dJbhsyLbFO9WZA8NfvJTKurqalJBxFdHAhen+T16HiuBXoFfX4cqDrHZlIH9/8hNumWv3OVwY6+s29Mf8zXTtaL/f24tlnu0589d0Jry5P07soAbqZZ0nCfltDP9upYwn7M665SOUmtdjZYXedbzEZwPzORCoAc0lkwgkRxgV0K3ftk4sEDRHIKQeFLgiZUkiTwHv7zvofOdxeucwodhDChXipNWJut8zi3YQT7rLu8NA0PUmCTvLpVkcrqPHboD8a6NwYYclaGN31R75Zph7dfoBSU32lRMS4yxrQUWue5SvoOlAUPHy19/QWQjjKcLePGu8RL4fFzEl42rEG2+dzmB7hO4vxBDsNyfj/lVNXo=;ge7RrVLtStNg47m3hnadYg=="
 ---

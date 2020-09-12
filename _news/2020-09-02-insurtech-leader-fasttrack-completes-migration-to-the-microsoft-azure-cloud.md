@@ -2,26 +2,20 @@
 category: news
 title: "Insurtech Leader FastTrack Completes Migration to the Microsoft Azure Cloud"
 excerpt: "The project resulted in a transition to Microsoft Azure for their entire suite of solutions and was completed without any service disruption to its customers. Leveraging the hosting platform's ..."
-publishedDateTime: 2020-09-02T12:40:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/insurtech-leader-fasttrack-completes-migration-to-the-microsoft-azure-cloud-301122621.html"
-webUrl: "https://www.prnewswire.com/news-releases/insurtech-leader-fasttrack-completes-migration-to-the-microsoft-azure-cloud-301122621.html"
+publishedDateTime: 2020-09-02T15:20:00Z
+originalUrl: "https://www.trentonian.com/news/state/insurtech-leader-fasttrack-completes-migration-to-the-microsoft-azure-cloud/article_70b0fb10-bf08-5521-88bd-f3c4f075ad94.html"
+webUrl: "https://www.trentonian.com/news/state/insurtech-leader-fasttrack-completes-migration-to-the-microsoft-azure-cloud/article_70b0fb10-bf08-5521-88bd-f3c4f075ad94.html"
 type: article
-quality: 35
+quality: 15
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: The Trentonian
+  domain: trentonian.com
 
 topics:
   - Azure
-
-images:
-  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-    width: 600
-    height: 315
-    isCached: true
 
 related:
   - title: "TikTok could become one of the largest Microsoft Azure customers"
@@ -68,6 +62,6 @@ related:
       domain: benzinga.com
     quality: 34
 
-secured: "wnFBeNDHdngdmeNDpyIC4r8ziwhgWYbykFZsUY9PT53euQvIyYPDO6dyCwhweAXcN5Dj8Q0DepnCsXblQmF73OfdRp72dqAhuOe7f1MkwWQksZ8Az7sijdOGdp2lGrfuziIyxWaYH1PCpRzD8375zrUSwQJLFDRnXsC1sqTuVcz+b9NZGXAT/nOOdPPCPwoxftVZPROlObRL0LcXyxu01KGJKhKXtjbdWHtymiiBBKhZ2qep8aaFTtwW8Y7F+wLZbEJhB/az+qBEx+8Pa0B7+9LblfbwjySGsgd9uYIMXOBmiFzHFgJMo2ldVAsvQiWqcx4Asmm9aJzulJz6d1Ohj0/2OzzsawhpozeDJ5sPyvU=;8obJ03kYdHxMkIMJIRd0bw=="
+secured: "s7rCkWNRPFaz2OGjnmgbcq/kn4AQT2oWtXTpshKqhgY7SBM8OsvR7uMJ4wKEx0qkbiKr+yInGQUYvpHIotlN2Sms0WWJbuI/GRm71pmKJh1Xl6Va18hLNfI0qWXgvHEtvtifLBq/CIqoo78UqJFzA9OQcVelN5gGHmdmINQJ8gDH4453jvXXYZpZQB6JoMiBDKjQ41qM41chx1GeRadbHqjakg21zp8wyRFU71epbDaF0m1zbc1hH+kS5/a6AXjGIsFgxpVJE2Zk3Yb2O+caVrul5hnx8PprnvIdnT2Ld/TlyXfHDbAFGoM5Ojf38943cz+djxhCQEDVVXSvsx882zD1eVr+50ejRd4SXQNHif8=;OpOZVl1MPlJrkAWT/OmCQA=="
 ---
 

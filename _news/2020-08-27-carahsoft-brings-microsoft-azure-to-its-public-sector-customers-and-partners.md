@@ -54,18 +54,13 @@ related:
         isCached: true
   - title: "Insurtech Leader FastTrack Completes Migration to the Microsoft Azure Cloud"
     excerpt: "The project resulted in a transition to Microsoft Azure for their entire suite of solutions and was completed without any service disruption to its customers. Leveraging the hosting platform's ..."
-    publishedDateTime: 2020-09-02T12:40:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/insurtech-leader-fasttrack-completes-migration-to-the-microsoft-azure-cloud-301122621.html"
+    publishedDateTime: 2020-09-02T15:20:00Z
+    webUrl: "https://www.trentonian.com/news/state/insurtech-leader-fasttrack-completes-migration-to-the-microsoft-azure-cloud/article_70b0fb10-bf08-5521-88bd-f3c4f075ad94.html"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 35
-    images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
-        isCached: true
+      name: The Trentonian
+      domain: trentonian.com
+    quality: 15
 
 secured: "6tMzGxMGHdNkClNNuJjp2DefCC+3MJ/VYbWh6XwEDl9joOT3sMaUt6T8BiUqrl/c6SbonXb9ke7a7rQCd/6sZm1KdTFPzB22zA6UEuXo+UPuQY+pa+7Z5ZgxuY3MlWvuWHslIFzGSL2QBsYgvtJTWXxHFmQWzuW+0SZMqXxXeerjNMn817dyMNIOutmyrib2AGxWVtL61uWlUsQtmgEmINOf+KcxWKquN0ohx5TlAq0pDvYLuorg5mmCN/gV76b+wav54E8ZFlfXcbukQSWqYgnFNR4Y3CUKOgUgdRhICcv5xaQ2EnqU9/rKXg1VAC/kEcLzXIIG3WoMZmI/DGRIbY+NuW82cHTpUcQPLRqExp4=;rnxZ+K7uIG0Qmk/Y0b0HTA=="
 ---
