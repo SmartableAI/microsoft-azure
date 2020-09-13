@@ -4,41 +4,6 @@
   "page": 22,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-create-azure-storage-account.md",
-      "title": "Create an Azure Storage account",
-      "excerpt": "Discover ways to use an Azure Storage account to manage your data for billing, access, and storage location of your blobs, files, queues, and tables.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-create-azure-storage-account/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/create-azure-storage-account/",
-      "length": "PT30M",
-      "ratings": {
-        "count": 5717,
-        "average": 4.751968
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": -2147483598,
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Storage",
-        "Management Tools"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-create-computer-vision-service.md",
       "title": "Process images with the Computer Vision service",
       "excerpt": "Use the Computer Vision API to analyze images for insights, extract text from images, and generate high-quality thumbnails.",
@@ -81,8 +46,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/create-cosmos-db-for-scale/",
       "length": "PT35M",
       "ratings": {
-        "count": 3698,
-        "average": 4.6406164
+        "count": 3699,
+        "average": 4.6404433
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -157,8 +122,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/create-linux-virtual-machine-in-azure/",
       "length": "PT1H26M",
       "ratings": {
-        "count": 7580,
-        "average": 4.6833773
+        "count": 7581,
+        "average": 4.683419
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -192,8 +157,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/create-security-baselines/",
       "length": "PT60M",
       "ratings": {
-        "count": 2053,
-        "average": 4.628349
+        "count": 2054,
+        "average": 4.6285295
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -233,8 +198,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/create-serverless-logic-with-azure-functions/",
       "length": "PT36M",
       "ratings": {
-        "count": 6213,
-        "average": 4.6669884
+        "count": 6214,
+        "average": 4.6670423
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -269,8 +234,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/create-users-and-groups-in-azure-active-directory/",
       "length": "PT41M",
       "ratings": {
-        "count": 2229,
-        "average": 4.70166
+        "count": 2230,
+        "average": 4.7008967
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -393,8 +358,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/deploy-run-container-app-service/",
       "length": "PT46M",
       "ratings": {
-        "count": 3693,
-        "average": 4.6260495
+        "count": 3694,
+        "average": 4.6261506
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -479,8 +444,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/design-a-hybrid-network-architecture/",
       "length": "PT47M",
       "ratings": {
-        "count": 1065,
-        "average": 4.624413
+        "count": 1066,
+        "average": 4.6247654
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -521,8 +486,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/design-azure-sql-data-warehouse/",
       "length": "PT47M",
       "ratings": {
-        "count": 2634,
-        "average": 4.57593
+        "count": 2635,
+        "average": 4.5760913
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -970,8 +935,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/evolving-world-of-data/",
       "length": "PT28M",
       "ratings": {
-        "count": 4520,
-        "average": 4.674779
+        "count": 4521,
+        "average": 4.6748505
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1047,8 +1012,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/explore-azure-infrastructure/",
       "length": "PT45M",
       "ratings": {
-        "count": 65625,
-        "average": 4.712762
+        "count": 65626,
+        "average": 4.712766
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1080,8 +1045,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/get-started-ai-fundamentals/",
       "length": "PT27M",
       "ratings": {
-        "count": 1747,
-        "average": 4.725243
+        "count": 1748,
+        "average": 4.7254004
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1186,6 +1151,42 @@
       "price": "Free",
       "topics": [
         "Azure"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-host-a-web-application-with-azure-web-apps.md",
+      "title": "Host a web application with Azure App service",
+      "excerpt": "Create a website in the programming language of your choice through the hosted web app platform in Azure App Service.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-host-a-web-application-with-azure-web-apps/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/host-a-web-app-with-azure-app-service/",
+      "length": "PT58M",
+      "ratings": {
+        "count": 4989,
+        "average": 4.598116
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": -2147483598,
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Compute",
+        "Web",
+        "Management Tools"
       ]
     }
   ],
