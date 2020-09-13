@@ -1542,7 +1542,7 @@
           "path": "",
           "title": "Configure BitLocker disk encryption for Windows IaaS Virtual Machines",
           "excerpt": "You'll be able to configure Azure Disk Encryption for Windows IaaS VMs and back up and recover encrypted data.",
-          "heat": 110,
+          "heat": 50,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
@@ -2033,8 +2033,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/chain-azure-functions-data-using-bindings/",
       "length": "PT1H10M",
       "ratings": {
-        "count": 2615,
-        "average": 4.5709367
+        "count": 2616,
+        "average": 4.570719
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2070,8 +2070,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/configure-network-for-azure-virtual-machines/",
       "length": "PT1H34M",
       "ratings": {
-        "count": 3529,
-        "average": 4.5519977
+        "count": 3530,
+        "average": 4.5521245
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2105,8 +2105,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/manage-virtual-machines-with-azure-cli/",
       "length": "PT51M",
       "ratings": {
-        "count": 5564,
-        "average": 4.6969805
+        "count": 5565,
+        "average": 4.697035
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2275,8 +2275,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/choose-the-right-disk-storage-for-vm-workload/",
       "length": "PT24M",
       "ratings": {
-        "count": 1532,
-        "average": 4.659269
+        "count": 1533,
+        "average": 4.659491
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2440,15 +2440,15 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-add-and-size-disks-in-azure-virtual-machines.md",
-      "title": "Add and size disks in Azure virtual machines",
-      "excerpt": "Learn about your virtual machine storage options and how to choose between standard and premium, managed and unmanaged disks for your Azure virtual machine.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-add-and-size-disks-in-azure-virtual-machines/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/add-and-size-disks-in-azure-virtual-machines/",
-      "length": "PT36M",
+      "path": "_learning/courses/microsoft-learn-azure-well-architected-performance-efficiency.md",
+      "title": "Microsoft Azure Well-Architected Framework - Performance efficiency",
+      "excerpt": "Learn how to adjust your capacity based on workload and how to optimize network performance, storage, and database performance.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-azure-well-architected-performance-efficiency/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/azure-well-architected-performance-efficiency/",
+      "length": "PT48M",
       "ratings": {
-        "count": 2095,
-        "average": 4.66253
+        "count": 371,
+        "average": 4.6549864
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2466,11 +2466,25 @@
         "Intermediate"
       ],
       "heat": 53,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/azure-well-architected-performance-efficiency-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
       "type": "course",
       "price": "Free",
       "topics": [
         "Azure",
+        "Networking",
+        "Web",
         "Compute",
+        "Databases",
+        "Serverless",
+        "Containers",
+        "DevOps",
         "Management Tools"
       ]
     }
