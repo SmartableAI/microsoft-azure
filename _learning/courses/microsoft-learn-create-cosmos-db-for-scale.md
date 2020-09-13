@@ -6,9 +6,9 @@ type: course
 price: Free
 length: PT35M
 ratings:
-  count: 3700
-  average: 4.6405406
-heat: -2147483598
+  count: 3702
+  average: 4.6401944
+heat: 53
 
 provider:
   name: Microsoft Learn
@@ -26,6 +26,6 @@ topics:
   - Management Tools
   - Databases
 
-secured: "L7P0vYJZuUKEoPp/SL0DadbByMecgtwe4GbR7hW66HkqCZfa9buX/S5exIHtx/79OYZBDjDtfGkfqsnGeoWtADzQAxKbjzXXNQXNP/Xt949dOs5UiHGpJc+N+tgNY7WPuZ4Rr9g1GGu8HViFweR764PjeIYUYALDOwQIC4aLY1UEUNp4bgSVU2tvYOGrU6y7+9TWYMPIId1PPCf5Hxn4LaDyO7lVGAhBLa7SctSSF12UquQWLsyCZanqTv+Fdr4iG9XzWdoX6nAWAs0g8qHFsNfd/mHCURJz0WV7Gti1S3u+Oq6vXmWMmkpF0jXZv8ufkNoYKG20bh7pqQmPuMKAWlpp/q4nZm4T0lNj+idnbeLmuKVHMXmt+4h9n9z3vWRRTZnZPTqidGcBSLz4qMihk+YFdoik8K6D1HPlzqczO20=;BtVzQlK9/NQZHqiwBljNZg=="
+secured: "QGmtT5nWXG30I+h9qmLM++TzF3DmLTIwG2igm+CsE97toMCdqxMZjYSeveMhfaBfhv1xZwsTNAgw9g4BlHqrCMFrLzxgEZY7mlTCv/VEg69/W0QP2UKJpy6uPI1wev8DErS21PF+kWG5VwxgwWzdZg/5ZcbdzI3VCiA4Vz/iwK0W4jMQeslCrivs58l5PuuB7nBI1a0fv+FOCkVxDiNAv90VoXvsKGXWoCOx6m1t4noCeGmmJxMVOuZ96/gBK6aMrjeqNT4rnTKyEuVF4P98oWUc8i/DcT/X6VaeMEuQyUZFqD9MWG9hj+7ooF4SMVk4ARHOIa9HZVZg2sEdQaWTnhV6XF5AVzqdPECpCWlNbAIi3CJnuGu4F8jSI6IzYU9xDn9PffkolOn/pYt3AejKUNc1spzFcP1OHIeFCL0IDgY=;4oPgIxtEGVSCnhr86pp9Iw=="
 ---
 

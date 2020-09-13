@@ -4,7 +4,7 @@ excerpt: "Web apps in Azure allow you to publish and manage your website easily 
 type: collection
 price: Free
 length: PT4H30M
-heat: -2147483648
+heat: 63
 
 provider:
   name: Microsoft Learn

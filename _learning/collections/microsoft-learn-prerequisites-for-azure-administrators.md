@@ -4,7 +4,7 @@ excerpt: "If you're an IT Administrator that's new to Azure, this path is the pl
 type: collection
 price: Free
 length: PT6H30M
-heat: -2147483648
+heat: 87
 
 provider:
   name: Microsoft Learn
