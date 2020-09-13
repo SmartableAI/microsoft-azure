@@ -4,6 +4,41 @@
   "page": 21,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-build-azure-vm-templates.md",
+      "title": "Build Azure Resource Manager templates",
+      "excerpt": "Learn how Resource Manager templates express your deployments as code, enabling you to deploy faster and more reliably.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-build-azure-vm-templates/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/build-azure-vm-templates/",
+      "length": "PT37M",
+      "ratings": {
+        "count": 3324,
+        "average": 4.534898
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": -2147483598,
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Management Tools",
+        "Compute"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-build-web-app-blazor-webassembly-vscode.md",
       "title": "Build a web app with Blazor WebAssembly and Visual Studio Code",
       "excerpt": "Learn how to set up your development environment and build your first WebAssembly app with Blazor, Visual Studio Code, and C#.",
@@ -87,8 +122,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/chain-azure-functions-data-using-bindings/",
       "length": "PT1H10M",
       "ratings": {
-        "count": 2611,
-        "average": 4.5702796
+        "count": 2612,
+        "average": 4.570444
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -165,8 +200,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/choose-azure-service-to-integrate-and-automate-business-processes/",
       "length": "PT44M",
       "ratings": {
-        "count": 9683,
-        "average": 4.568522
+        "count": 9684,
+        "average": 4.568567
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -242,8 +277,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/choose-storage-approach-in-azure/",
       "length": "PT30M",
       "ratings": {
-        "count": 9955,
-        "average": 4.659869
+        "count": 9959,
+        "average": 4.660006
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -361,8 +396,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/classify-and-moderate-text-with-azure-content-moderator/",
       "length": "PT31M",
       "ratings": {
-        "count": 1579,
-        "average": 4.6345787
+        "count": 1580,
+        "average": 4.63481
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -439,8 +474,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/classify-user-feedback-with-the-text-analytics-api/",
       "length": "PT48M",
       "ratings": {
-        "count": 1353,
-        "average": 4.6201034
+        "count": 1354,
+        "average": 4.618907
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -478,8 +513,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/communicate-between-apps-with-azure-queue-storage/",
       "length": "PT56M",
       "ratings": {
-        "count": 1594,
-        "average": 4.579674
+        "count": 1595,
+        "average": 4.5799375
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -748,8 +783,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/control-and-organize-with-azure-resource-manager/",
       "length": "PT46M",
       "ratings": {
-        "count": 37371,
-        "average": 4.7125044
+        "count": 37372,
+        "average": 4.712512
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -825,8 +860,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/control-azure-services-with-cli/",
       "length": "PT34M",
       "ratings": {
-        "count": 3919,
-        "average": 4.745343
+        "count": 3920,
+        "average": 4.745408
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -859,8 +894,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/control-network-traffic-flow-with-routes/",
       "length": "PT50M",
       "ratings": {
-        "count": 1606,
-        "average": 4.628269
+        "count": 1607,
+        "average": 4.6285005
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -977,8 +1012,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/create-windows-virtual-machine-in-azure/",
       "length": "PT51M",
       "ratings": {
-        "count": 12151,
-        "average": 4.7071023
+        "count": 12152,
+        "average": 4.7071266
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1019,8 +1054,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/create-and-publish-a-luis-model/",
       "length": "PT54M",
       "ratings": {
-        "count": 1465,
-        "average": 4.653242
+        "count": 1466,
+        "average": 4.6534786
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1062,8 +1097,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/create-an-azure-account/",
       "length": "PT39M",
       "ratings": {
-        "count": 129847,
-        "average": 4.6958423
+        "count": 129858,
+        "average": 4.6958447
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1119,41 +1154,6 @@
       "price": "Free",
       "topics": [
         "Azure",
-        "Management Tools"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-create-azure-storage-account.md",
-      "title": "Create an Azure Storage account",
-      "excerpt": "Discover ways to use an Azure Storage account to manage your data for billing, access, and storage location of your blobs, files, queues, and tables.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-create-azure-storage-account/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/create-azure-storage-account/",
-      "length": "PT30M",
-      "ratings": {
-        "count": 5715,
-        "average": 4.751881
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": -2147483598,
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Storage",
         "Management Tools"
       ]
     }
