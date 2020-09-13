@@ -9,7 +9,7 @@ ampWebUrl: "https://biztechmagazine.com/article/2020/09/nutanix-next-2020-hci-cl
 cdnAmpWebUrl: "https://biztechmagazine-com.cdn.ampproject.org/c/s/biztechmagazine.com/article/2020/09/nutanix-next-2020-hci-clusters-are-now-available-microsoft-azure?amp"
 type: article
 quality: 57
-heat: 77
+heat: 97
 published: true
 
 provider:
@@ -26,6 +26,15 @@ images:
     isCached: true
 
 related:
+  - title: "Experian’s CrossCore® Is Now Available on Microsoft Azure Active Directory"
+    excerpt: "Customers using Experian’ s digital identity and fraud risk platform, CrossCore ®, can now seamlessly connect with Microsoft Azure Active Directory External Identities. “Businesses need to be able to provide varying levels of authentication based on the level of risk,"
+    publishedDateTime: 2020-09-13T04:16:00Z
+    webUrl: "https://www.nasdaq.com/press-release/experians-crosscorer-is-now-available-on-microsoft-azure-active-directory-2020-09-08"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 55
   - title: "Nutanix On Microsoft Azure: 5 Big Things You Should Know"
     excerpt: "Nutanix Clusters on Azure is here. Here’s what you need to know about new hybrid cloud offering in terms of support, integration, Azure Arc, Nutanix on AWS and Nutanix-ready nodes."
     publishedDateTime: 2020-09-09T18:40:00Z

@@ -40,6 +40,15 @@ related:
         width: 1440
         height: 500
         isCached: true
+  - title: "Experian’s CrossCore® Is Now Available on Microsoft Azure Active Directory"
+    excerpt: "Customers using Experian’ s digital identity and fraud risk platform, CrossCore ®, can now seamlessly connect with Microsoft Azure Active Directory External Identities. “Businesses need to be able to provide varying levels of authentication based on the level of risk,"
+    publishedDateTime: 2020-09-13T04:16:00Z
+    webUrl: "https://www.nasdaq.com/press-release/experians-crosscorer-is-now-available-on-microsoft-azure-active-directory-2020-09-08"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 55
 
 secured: "AtRwlfFkl1O38Qe2d/5nYi9E9q7jGH1Lca4EAx7Ah3fCBCw6MeGdCgnQZu7iaW5MptkTCvzxX92qYUgPhfM+8q5nxY7rI9cLnQslxXyEn558di/Sa6FESMMJjdgmEji+fxwoSfQ/cH2gPX4Fw6v0yPcrYlYjy3SRcScttC5w4W2/GyXvVtQG9+AE5cxP4N0tthMRJ/a3DFu0vG/26ZTkD/gVOhSD/cFxNeqmpaC0Mz4UBPIlxYmG3GGsw/bjHt+Iz3P1OXfN8f+7ftRD4PUYjWMvG7ew0Hz5ssg/e/8oikWeYPZ0fa/kDKTWBWYqXloKlnK+YOQ3Bg0CcF+PGJkYJXEI1u82H4Oa057h7fqdDyghTpO0PApfv4g1vebC6VdSz+fEpQWr7kAwTYtt9b1aVfUMqig3qcHWY3KREcCSACy5xL7J7FrkhuKcDf/SiBWQAhjmg598mAZv9+QKwuCb+9jZi4T8TSCwQaU3RmfHQvzG7ty5ks+xGoO3tYN3YduX4rRBkEpbW/9wRFki6OZoXNNde1REp+fUQj4C+T0SNBU=;OEwB9PR5AzmmqRISiFAAHA=="
 ---
