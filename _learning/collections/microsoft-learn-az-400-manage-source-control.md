@@ -4,7 +4,7 @@ excerpt: "Learn how GitHub enables you to build a modern source control strategy
 type: collection
 price: Free
 length: PT14H31M
-heat: 52
+heat: 50
 
 provider:
   name: Microsoft Learn
