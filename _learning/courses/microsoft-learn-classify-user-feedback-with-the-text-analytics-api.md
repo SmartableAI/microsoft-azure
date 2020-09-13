@@ -8,7 +8,7 @@ length: PT48M
 ratings:
   count: 1355
   average: 4.6191883
-heat: -2147483598
+heat: 53
 
 provider:
   name: Microsoft Learn
@@ -30,6 +30,6 @@ topics:
   - Storage
   - AI
 
-secured: "oakT5TyvW4544X+FKDiO2vfTk1IFMm33Q5nwfrF9DgJl7eWaAO8BbGbchFEUW8+URKpaCSquiePW7fDpTXuMDtk+o164naQ4keZ+qxrsvq/SBJjWAHWbTZfOOYGIz5TQoIxDRlvuFf4rNq4A0L/b9VoiSszca6WBQusnNlf1Gkz8GZroT5JkmMUBiMH1Nosvd08l7YH6xzKdMRlsQjqkpPr+7Pn/+hxH6KPSEeG+aB5BJUlBQzbWCpgyh34HJf9QKLOS6rHVdMXDJaanZTyNMHNnj1uTJfwPTmdedv1NUuInGAtK7raUnJbsUwWLSf1olHHng9m1ycR7sMdUemGfaZwVlP9F28EmF176ftxCmvuJe541FfLqiuklocF0X9N2HqAtCmc83UrrVGbURM1ArX4pApiCuSSuBHCtBmToEGQ=;i9qnMr+aoaL07RZqVvYiAg=="
+secured: "lBdrEzrfrqv3Qa/rwoPrFkBVhvaeEz0dyTETUdQgfQvnUOKhMSXAHqu9ZtyXw60uQP+BvHJ7VjDc0vXwqR/+ZvZDDhIHWsxgbYgMqLyb963+HIi7Wt8tIrvu8iNiP8lsni1ddxOgmMqVLJyZ1dQ+ExHBl9njDVnhw9+U7nMmtBhSO1nC6XkNwnHD3hh06kOx8x4ThKK298ZcG3Th3l11Wp7mhH3MjntIa4lFR3P5lM0qXor0EpZhM5qH9K2ATsGEBmv8ifXgbj2RGDAeKO37KOblhSR73WaBF269LRIfF3Q+PQFrSgokMytPdVSNKhGzfi0h5kaKL/MRpN5vmVghcDirqg40IulHWkvJWMfTv7GCkuhvNH2o0tVCRNBhkWEEPcE1O3kb1VqlougYRF3v7/VwARlWmidLu57dhtjIwUE=;tpThR8SqIMyJ+duhY++0+A=="
 ---
 

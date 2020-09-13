@@ -4,7 +4,7 @@ excerpt: "This learning path introduces you to connected Field Service and Azure
 type: collection
 price: Free
 length: PT6H13M
-heat: 55
+heat: 60
 
 provider:
   name: Microsoft Learn
