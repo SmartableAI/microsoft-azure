@@ -4,6 +4,48 @@
   "page": 14,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-creating-and-configuring-hdinsight-cluster.md",
+      "title": "Creating and configuring a HDInsight cluster",
+      "excerpt": "Creating and configuring a HDInsight Cluster",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-creating-and-configuring-hdinsight-cluster/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/creating-and-configuring-hdinsight-cluster/",
+      "length": "PT1H6M",
+      "ratings": {
+        "count": 132,
+        "average": 4.568182
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/creating-and-configuring-a-hdinsight-cluster-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Analytics"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-deep-learning.md",
       "title": "Use deep learning models to make predictions about specialized data",
       "excerpt": "Use convolutional neural networks and recurrent neural networks to analyze and predict images and text with TensorFlow and Keras.",
@@ -177,8 +219,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/design-azure-sql-data-warehouse/",
       "length": "PT47M",
       "ratings": {
-        "count": 2636,
-        "average": 4.5754933
+        "count": 2637,
+        "average": 4.575654
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -302,8 +344,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/distribute-data-globally-with-cosmos-db/",
       "length": "PT31M",
       "ratings": {
-        "count": 1497,
-        "average": 4.6092186
+        "count": 1498,
+        "average": 4.6094794
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -462,8 +504,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/host-build-agent/",
       "length": "PT59M",
       "ratings": {
-        "count": 1686,
-        "average": 4.707592
+        "count": 1688,
+        "average": 4.707346
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -588,8 +630,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/identify-faces-with-computer-vision/",
       "length": "PT47M",
       "ratings": {
-        "count": 1350,
-        "average": 4.6444445
+        "count": 1351,
+        "average": 4.6447077
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -706,8 +748,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/implement-code-workflow/",
       "length": "PT1H27M",
       "ratings": {
-        "count": 3439,
-        "average": 4.764757
+        "count": 3440,
+        "average": 4.7648253
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -747,8 +789,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/improve-api-performance-with-apim-caching-policy/",
       "length": "PT47M",
       "ratings": {
-        "count": 626,
-        "average": 4.667732
+        "count": 627,
+        "average": 4.6682615
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -831,8 +873,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/intro-commercial-marketplace/",
       "length": "PT30M",
       "ratings": {
-        "count": 312,
-        "average": 4.7884617
+        "count": 313,
+        "average": 4.7891374
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1144,8 +1186,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/manage-build-dependencies/",
       "length": "PT59M",
       "ratings": {
-        "count": 1647,
-        "average": 4.6775956
+        "count": 1649,
+        "average": 4.67738
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1175,39 +1217,6 @@
       "price": "Free",
       "topics": [
         "DevOps"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-manage-iot-devices.md",
-      "title": "Learn how to manage IoT devices as an IT admin",
-      "excerpt": "This module is an introduction to the Internet of Things for IT admins.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-manage-iot-devices/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/manage-iot-devices/",
-      "length": "PT44M",
-      "ratings": {
-        "count": 862,
-        "average": 4.677494
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 51,
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
       ]
     }
   ],
