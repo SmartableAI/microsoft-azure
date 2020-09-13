@@ -4,6 +4,89 @@
   "page": 5,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-intro-cloud-everyone.md",
+      "title": "Introduction to Cloud for Everyone",
+      "excerpt": "Introduction to Cloud for Everyone",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-cloud-everyone/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/intro-cloud-everyone/",
+      "length": "PT17M",
+      "ratings": {
+        "count": 5,
+        "average": 4.8
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-intro-to-azure-dsvm.md",
+      "title": "Introduction to the Azure Data Science Virtual Machine",
+      "excerpt": "Azure provides some pre-configured virtual machine images specifically designed for data science.  Learn how you can use these to get a jump start on your data science work.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-to-azure-dsvm/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-dsvm/",
+      "length": "25 mins",
+      "ratings": {
+        "count": 963,
+        "average": 4.593977
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/data-ai/intro-to-azure-dsvm-badge-social.png",
+          "width": 800,
+          "height": 400,
+          "title": "Introduction to the Azure Data Science Virtual Machine",
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-introduction-to-azure-solutions.md",
       "title": "Introduction to Azure solutions",
       "excerpt": "Get started with your digital transformation by exploring why now is the right time to begin, why Azure is the right platform, and how Azure can bring overall value to your organization. We'll demonstrate key scenarios that illustrate how digital transformation with Azure can empower employees, engage customers, optimize operations, and transform products.",
@@ -1155,91 +1238,6 @@
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/secure-responsible-conversational-ai-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-send-crop-weather-alerts.md",
-      "title": "Help remote farmers protect their crops with text message weather alerts using Azure Functions",
-      "excerpt": "In this module, you'll create an application that allows farmers to use text messaging to set up temperature alerts. These alerts can help farmers know when to plant, when to water, or when to protect their crops.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-send-crop-weather-alerts/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/send-crop-weather-alerts/",
-      "length": "PT35M",
-      "ratings": {
-        "count": 6,
-        "average": 3.8333333
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/advocates/send-crop-weather-alerts-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "IoT",
-        "Mobile",
-        "Web"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-start-ml-lifecycle-mlops.md",
-      "title": "Start the machine learning lifecycle with MLOps",
-      "excerpt": "Learn enterprise AI management with our free open online course, including machine learning.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-start-ml-lifecycle-mlops/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/start-ml-lifecycle-mlops/",
-      "length": "PT30M",
-      "ratings": {
-        "count": 28,
-        "average": 4.678571
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/start-ml-lifecycle-mlops-social.png",
           "width": 800,
           "height": 400,
           "isCached": true

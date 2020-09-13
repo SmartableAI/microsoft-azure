@@ -4,6 +4,160 @@
   "page": 16,
   "value": [
     {
+      "path": "_learning/collections/microsoft-learn-azure-data-fundamentals-explore-core-data-concepts.md",
+      "title": "Azure Data Fundamentals: Explore core data concepts",
+      "excerpt": "Learn the fundamentals of database concepts in a cloud environment, get basic skilling in cloud data services, and build your foundational knowledge of cloud data services within Microsoft Azure.\nYou will identify and describe core data concepts such as relational, non-relational, big data, and analytics, and explore how this technology is implemented with Microsoft Azure. You will explore the roles, tasks, and responsibilities in the world of data.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-azure-data-fundamentals-explore-core-data-concepts/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-azure-data-fundamentals-explore-core-data-concepts/",
+      "length": "PT1H48M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "topItems": [
+        {
+          "path": "",
+          "title": "Explore core data concepts",
+          "excerpt": "Explore core data concepts",
+          "heat": -15,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/explore-core-data-concepts-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Explore roles and responsibilities in the world of data",
+          "excerpt": "Explore roles and responsibilities in the world of data",
+          "heat": 7,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/explore-roles-responsibilities-world-of-data-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Describe concepts of relational data",
+          "excerpt": "Describe concepts of relational data",
+          "heat": 77,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/describe-concepts-of-relational-data-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Explore concepts of non-relational data",
+          "excerpt": "Explore concepts of non-relational data",
+          "heat": 22,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/explore-concepts-of-non-relational-data-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure"
+          ]
+        }
+      ],
+      "size": 5,
+      "heat": 26,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/explore-core-data-concepts-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-deploy-azure-functions.md",
+      "title": "Automate Azure Functions deployments with Azure Pipelines",
+      "excerpt": "Implement a CI/CD pipeline for Azure Functions.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-deploy-azure-functions/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/deploy-azure-functions/",
+      "length": "PT46M",
+      "ratings": {
+        "count": 281,
+        "average": 4.683274
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 26,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/azure-devops/deploy-azure-functions-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "DevOps"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-microservices-architecture.md",
       "title": "Decompose a monolithic application into a microservices architecture",
       "excerpt": "Improve development agility, deployment, fault tolerance, and scalability by modernizing your application with a microservices architecture.",
@@ -55,8 +209,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/publish-app-service-static-web-app-api/",
       "length": "PT38M",
       "ratings": {
-        "count": 262,
-        "average": 4.778626
+        "count": 263,
+        "average": 4.7794676
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -254,8 +408,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/capture-page-load-times-application-insights/",
       "length": "PT45M",
       "ratings": {
-        "count": 371,
-        "average": 4.533693
+        "count": 372,
+        "average": 4.5349464
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -835,118 +989,6 @@
       ]
     },
     {
-      "path": "_learning/collections/microsoft-learn-azure-data-fundamentals-explore-core-data-concepts.md",
-      "title": "Azure Data Fundamentals: Explore core data concepts",
-      "excerpt": "Learn the fundamentals of database concepts in a cloud environment, get basic skilling in cloud data services, and build your foundational knowledge of cloud data services within Microsoft Azure.\nYou will identify and describe core data concepts such as relational, non-relational, big data, and analytics, and explore how this technology is implemented with Microsoft Azure. You will explore the roles, tasks, and responsibilities in the world of data.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-azure-data-fundamentals-explore-core-data-concepts/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-azure-data-fundamentals-explore-core-data-concepts/",
-      "length": "PT1H48M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "topItems": [
-        {
-          "path": "",
-          "title": "Explore core data concepts",
-          "excerpt": "Explore core data concepts",
-          "heat": -15,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/explore-core-data-concepts-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "Azure"
-          ]
-        },
-        {
-          "path": "",
-          "title": "Explore roles and responsibilities in the world of data",
-          "excerpt": "Explore roles and responsibilities in the world of data",
-          "heat": 7,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/explore-roles-responsibilities-world-of-data-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "Azure"
-          ]
-        },
-        {
-          "path": "",
-          "title": "Describe concepts of relational data",
-          "excerpt": "Describe concepts of relational data",
-          "heat": 17,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/describe-concepts-of-relational-data-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "Azure"
-          ]
-        },
-        {
-          "path": "",
-          "title": "Explore concepts of non-relational data",
-          "excerpt": "Explore concepts of non-relational data",
-          "heat": 22,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/explore-concepts-of-non-relational-data-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "Azure"
-          ]
-        }
-      ],
-      "size": 5,
-      "heat": 20,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/explore-core-data-concepts-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
       "path": "_learning/collections/microsoft-learn-build-great-solutions-with-the-microsoft-azure-well-architected-framework.md",
       "title": "Build great solutions with the Microsoft Azure Well-Architected Framework",
       "excerpt": "Learn how to design and build secure, scalable, high-performing solutions in Azure using the pillars of the Microsoft Azure Well-Architected Framework.",
@@ -1268,47 +1310,6 @@
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/azure-well-architected-operational-excellence-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-describe-concepts-of-relational-data.md",
-      "title": "Describe concepts of relational data",
-      "excerpt": "Describe concepts of relational data",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-describe-concepts-of-relational-data/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/describe-concepts-of-relational-data/",
-      "length": "PT24M",
-      "ratings": {
-        "count": 427,
-        "average": 4.803279
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 17,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/describe-concepts-of-relational-data-social.png",
           "width": 640,
           "height": 320,
           "isCached": true

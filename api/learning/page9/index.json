@@ -4,6 +4,41 @@
   "page": 9,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-shift-express-api-azure-functions.md",
+      "title": "Refactor Node.js and Express APIs to Serverless APIs with Azure Functions",
+      "excerpt": "Refactor Node.js and Express APIs from a server-based architecture to serverless APIs with Azure Functions.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-shift-express-api-azure-functions/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/shift-nodejs-express-apis-serverless/",
+      "length": "PT43M",
+      "ratings": {
+        "count": 36,
+        "average": 4.5555553
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 48,
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Compute",
+        "Serverless"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-simulate-distribution-regression-coefficients.md",
       "title": "Simulate the distribution of regression coefficients",
       "excerpt": "Learn",
@@ -943,8 +978,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/make-predictions-with-linear-regression/",
       "length": "PT1H27M",
       "ratings": {
-        "count": 39,
-        "average": 4.794872
+        "count": 40,
+        "average": 4.8
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1299,47 +1334,6 @@
       "topics": [
         "Azure",
         "Storage"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-test-hypothesis-by-simulating-statistics.md",
-      "title": "Test hypothesis by simulating  statistics",
-      "excerpt": "learn how to test hypothesis by simulating statistics",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-test-hypothesis-by-simulating-statistics/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/test-hypothesis-by-simulating-statistics/",
-      "length": "PT60M",
-      "ratings": {
-        "count": 49,
-        "average": 4.714286
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 47,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/student-evangelism/test-hypothesis-by-simulating-statistics-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
       ]
     }
   ],
