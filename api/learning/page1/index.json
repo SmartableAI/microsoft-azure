@@ -185,8 +185,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/principles-cloud-computing/",
       "length": "PT1H2M",
       "ratings": {
-        "count": 163347,
-        "average": 4.772001
+        "count": 163394,
+        "average": 4.771987
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -219,8 +219,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/create-an-azure-account/",
       "length": "PT39M",
       "ratings": {
-        "count": 130026,
-        "average": 4.6958456
+        "count": 130045,
+        "average": 4.695813
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -246,15 +246,15 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-use-compute-contexts-in-aml.md",
-      "title": "Work with Compute in Azure Machine Learning",
-      "excerpt": "Learn how to manage compute contexts for experiments in Azure Machine Learning.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-use-compute-contexts-in-aml/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/use-compute-contexts-in-aml/",
-      "length": "PT45M",
+      "path": "_learning/courses/microsoft-learn-implement-scale-high-availability-with-windows-server-vm.md",
+      "title": "Implement scale and high availability with Windows Server VM",
+      "excerpt": "You'll learn how to implement scaling for virtual machine scale sets and load-balanced VMs. You'll also learn how to implement Azure Site Recovery.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-implement-scale-high-availability-with-windows-server-vm/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/implement-scale-high-availability-windows-server-virtual-machine/",
+      "length": "PT58M",
       "ratings": {
-        "count": 519,
-        "average": 4.620424
+        "count": 10,
+        "average": 4.8
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -269,25 +269,35 @@
         ]
       },
       "levels": [
-        "Beginner"
+        "Intermediate"
       ],
-      "heat": 113,
+      "heat": 110,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
       "type": "course",
       "price": "Free",
       "topics": [
-        "Azure"
+        "Azure",
+        "Management Tools",
+        "Compute"
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-manage-changes-pull-requests-github.md",
-      "title": "Manage repository changes by using pull requests on GitHub",
-      "excerpt": "Learn how to manage changes to your repository source by using pull requests.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-manage-changes-pull-requests-github/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/manage-changes-pull-requests-github/",
-      "length": "PT49M",
+      "path": "_learning/courses/microsoft-learn-search-organize-repository-history-github.md",
+      "title": "Search and organize repository history by using GitHub",
+      "excerpt": "Learn to search and organize repository history by using filters, blame, and cross-linking on GitHub.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-search-organize-repository-history-github/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/search-organize-repository-history-github/",
+      "length": "PT38M",
       "ratings": {
-        "count": 83,
-        "average": 4.6144576
+        "count": 72,
+        "average": 4.8194447
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -307,7 +317,7 @@
       "heat": 110,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/github/manage-changes-pull-requests-github-social.png",
+          "url": "https://docs.microsoft.com/learn/achievements/github/search-organize-repository-history-github-social.png",
           "width": 640,
           "height": 320,
           "isCached": true
@@ -518,8 +528,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/intro-to-azure-compute/",
       "length": "PT38M",
       "ratings": {
-        "count": 61879,
-        "average": 4.709255
+        "count": 61889,
+        "average": 4.70927
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -558,8 +568,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/explore-azure-infrastructure/",
       "length": "PT45M",
       "ratings": {
-        "count": 65701,
-        "average": 4.712881
+        "count": 65709,
+        "average": 4.7128553
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -591,8 +601,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/intro-to-data-in-azure/",
       "length": "PT25M",
       "ratings": {
-        "count": 53764,
-        "average": 4.7335205
+        "count": 53769,
+        "average": 4.7335267
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -836,8 +846,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/intro-to-security-in-azure/",
       "length": "PT1H16M",
       "ratings": {
-        "count": 43373,
-        "average": 4.7022343
+        "count": 43379,
+        "average": 4.702229
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -870,8 +880,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/tour-azure-portal/",
       "length": "PT1H13M",
       "ratings": {
-        "count": 49303,
-        "average": 4.7069345
+        "count": 49312,
+        "average": 4.706948
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -904,8 +914,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/welcome-to-azure/",
       "length": "PT36M",
       "ratings": {
-        "count": 64940,
-        "average": 4.7998767
+        "count": 64943,
+        "average": 4.79984
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -938,8 +948,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/intro-to-azure-networking/",
       "length": "PT28M",
       "ratings": {
-        "count": 42470,
-        "average": 4.7644453
+        "count": 42477,
+        "average": 4.7644844
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1242,8 +1252,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/intro-to-governance/",
       "length": "PT46M",
       "ratings": {
-        "count": 37172,
-        "average": 4.62921
+        "count": 37181,
+        "average": 4.6291924
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1276,8 +1286,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/predict-costs-and-optimize-spending/",
       "length": "PT1H14M",
       "ratings": {
-        "count": 39342,
-        "average": 4.714478
+        "count": 39352,
+        "average": 4.7143984
       },
       "provider": {
         "name": "Microsoft Learn",
