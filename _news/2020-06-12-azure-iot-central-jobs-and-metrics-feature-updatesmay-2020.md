@@ -30,6 +30,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
+  - title: "Azure IoT Central new and updated features—August 2020"
+    excerpt: "August updates include jobs improvements, a new file upload feature, a preview of the new data export feature, CLI updates, and documentation enhancements."
+    publishedDateTime: 2020-09-14T19:00:14Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-iot-central-feature-updates-august-2020/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
   - title: "Azure IoT Central UI and documentation updates—June 2020"
     excerpt: "June 2020 UI and documentation updates for Azure IoT Central are now available."
     publishedDateTime: 2020-07-15T19:00:30Z
