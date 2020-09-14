@@ -4,6 +4,47 @@
   "page": 15,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-learn-data-science-method.md",
+      "title": "Learn the data science method",
+      "excerpt": "Learn about the history and motivation behind data science",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-learn-data-science-method/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/learn-data-science-method/",
+      "length": "PT34M",
+      "ratings": {
+        "count": 255,
+        "average": 4.7137256
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/student-evangelism/learn-data-science-method-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-manage-build-dependencies.md",
       "title": "Manage build dependencies with Azure Artifacts",
       "excerpt": "In this module, the Space Game web team guides you through creating a build pipeline that produces a package that can be used by multiple applications.",
@@ -11,8 +52,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/manage-build-dependencies/",
       "length": "PT59M",
       "ratings": {
-        "count": 1652,
-        "average": 4.6761503
+        "count": 1653,
+        "average": 4.676346
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -52,8 +93,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/manage-iot-devices/",
       "length": "PT44M",
       "ratings": {
-        "count": 865,
-        "average": 4.6786127
+        "count": 866,
+        "average": 4.6789837
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -535,8 +576,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/protect-vm-settings-with-dsc/",
       "length": "PT54M",
       "ratings": {
-        "count": 812,
-        "average": 4.663793
+        "count": 813,
+        "average": 4.6642065
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -706,8 +747,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/run-parallel-tasks-in-azure-batch-with-the-azure-cli/",
       "length": "PT45M",
       "ratings": {
-        "count": 890,
-        "average": 4.5752807
+        "count": 891,
+        "average": 4.5757575
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -747,8 +788,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/scan-open-source/",
       "length": "PT38M",
       "ratings": {
-        "count": 1807,
-        "average": 4.7194242
+        "count": 1808,
+        "average": 4.7195797
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1183,41 +1224,6 @@
           "isCached": true
         }
       ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "IoT",
-        "Security"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-tm-provide-context-with-the-right-depth-layer.md",
-      "title": "Provide context with the right depth layer",
-      "excerpt": "Threat models can get complex if all parties involved cannot agree on a data-flow diagram depth layer that provides enough context to satisfy requirements",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-tm-provide-context-with-the-right-depth-layer/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/tm-provide-context-with-the-right-depth-layer/",
-      "length": "PT26M",
-      "ratings": {
-        "count": 169,
-        "average": 4.7218933
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 51,
       "type": "course",
       "price": "Free",
       "topics": [
