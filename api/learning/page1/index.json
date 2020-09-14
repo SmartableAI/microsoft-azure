@@ -185,8 +185,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/principles-cloud-computing/",
       "length": "PT1H2M",
       "ratings": {
-        "count": 163492,
-        "average": 4.7719765
+        "count": 163528,
+        "average": 4.7719903
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -219,7 +219,7 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/create-an-azure-account/",
       "length": "PT39M",
       "ratings": {
-        "count": 130114,
+        "count": 130137,
         "average": 4.6958437
       },
       "provider": {
@@ -246,15 +246,15 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-survey-the-azure-data-platform.md",
-      "title": "Survey the services on the Azure Data platform",
-      "excerpt": "Explore the broad array of Azure technologies that analyze text or images and relational, nonrelational, or streaming data.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-survey-the-azure-data-platform/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/survey-the-azure-data-platform/",
-      "length": "PT58M",
+      "path": "_learning/courses/microsoft-learn-azure-sql-intro.md",
+      "title": "Introduction to Azure SQL",
+      "excerpt": "This module introduces Azure SQL. Learn about various deployment options and service tiers and what to use for your organization.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-azure-sql-intro/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/azure-sql-intro/",
+      "length": "PT44M",
       "ratings": {
-        "count": 4184,
-        "average": 4.6873803
+        "count": 182,
+        "average": 4.730769
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -271,12 +271,12 @@
       "levels": [
         "Beginner"
       ],
-      "heat": 116,
+      "heat": 113,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/data-ai/survey-the-azure-data-platform-badge-social.png",
-          "width": 800,
-          "height": 400,
+          "url": "https://docs.microsoft.com/learn/achievements/azure-sql-intro-social.png",
+          "width": 642,
+          "height": 325,
           "isCached": true
         }
       ],
@@ -284,19 +284,19 @@
       "price": "Free",
       "topics": [
         "Azure",
-        "Storage"
+        "Databases"
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-monitor-azure-cosmos-db.md",
-      "title": "Optimize the performance of Azure Cosmos DB by using partitioning and indexing strategies",
-      "excerpt": "Learn how to measure the performance of your NoSQL Azure Cosmos DB database, by monitoring, partitioning, and indexing",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-monitor-azure-cosmos-db/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/monitor-and-scale-cosmos-db/",
-      "length": "PT1H16M",
+      "path": "_learning/courses/microsoft-learn-create-web-app-with-refreshable-models.md",
+      "title": "Build a Web App with Refreshable Machine Learning Models",
+      "excerpt": "Build a web app powered by machine learning models trained using Custom Vision AI service, and learn how to refresh them with GitHub Actions.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-create-web-app-with-refreshable-models/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/create-web-app-with-refreshable-models/",
+      "length": "PT1H22M",
       "ratings": {
-        "count": 1054,
-        "average": 4.597723
+        "count": 20,
+        "average": 4.1
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -318,7 +318,11 @@
       "price": "Free",
       "topics": [
         "Azure",
-        "Databases"
+        "AI",
+        "Web",
+        "Compute",
+        "Containers",
+        "Mobile"
       ]
     },
     {
@@ -520,8 +524,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/intro-to-azure-compute/",
       "length": "PT38M",
       "ratings": {
-        "count": 61919,
-        "average": 4.7092977
+        "count": 61926,
+        "average": 4.709298
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -560,8 +564,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/explore-azure-infrastructure/",
       "length": "PT45M",
       "ratings": {
-        "count": 65733,
-        "average": 4.7128534
+        "count": 65742,
+        "average": 4.7128625
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -593,8 +597,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/intro-to-data-in-azure/",
       "length": "PT25M",
       "ratings": {
-        "count": 53798,
-        "average": 4.7334847
+        "count": 53802,
+        "average": 4.7335043
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -838,8 +842,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/intro-to-security-in-azure/",
       "length": "PT1H16M",
       "ratings": {
-        "count": 43403,
-        "average": 4.7022557
+        "count": 43407,
+        "average": 4.702237
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -872,8 +876,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/tour-azure-portal/",
       "length": "PT1H13M",
       "ratings": {
-        "count": 49332,
-        "average": 4.706965
+        "count": 49338,
+        "average": 4.70696
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -906,8 +910,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/welcome-to-azure/",
       "length": "PT36M",
       "ratings": {
-        "count": 64965,
-        "average": 4.799769
+        "count": 64971,
+        "average": 4.7997875
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -940,8 +944,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/intro-to-azure-networking/",
       "length": "PT28M",
       "ratings": {
-        "count": 42488,
-        "average": 4.7645216
+        "count": 42492,
+        "average": 4.764497
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1244,8 +1248,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/intro-to-governance/",
       "length": "PT46M",
       "ratings": {
-        "count": 37198,
-        "average": 4.629308
+        "count": 37202,
+        "average": 4.629348
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1278,8 +1282,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/predict-costs-and-optimize-spending/",
       "length": "PT1H14M",
       "ratings": {
-        "count": 39369,
-        "average": 4.7143946
+        "count": 39374,
+        "average": 4.714431
       },
       "provider": {
         "name": "Microsoft Learn",
