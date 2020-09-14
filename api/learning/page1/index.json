@@ -185,8 +185,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/principles-cloud-computing/",
       "length": "PT1H2M",
       "ratings": {
-        "count": 163271,
-        "average": 4.771962
+        "count": 163286,
+        "average": 4.771977
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -212,6 +212,226 @@
       ]
     },
     {
+      "path": "_learning/collections/microsoft-learn-az-104-manage-identities-and-governance-in-azure.md",
+      "title": "AZ-104: Manage identities and governance in Azure",
+      "excerpt": "Learn how to manage Azure Active Directory objects, role-based access control (RBAC), subscriptions, and governance in Azure. This learning path helps prepare you for Exam AZ-104: Microsoft Azure Administrator.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-az-104-manage-identities-and-governance-in-azure/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-az-104-manage-identities-and-governance-in-azure/",
+      "length": "PT7H17M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "topItems": [
+        {
+          "path": "",
+          "title": "Create Azure users and groups in Azure Active Directory",
+          "excerpt": "Learn how to create Azure users and groups in Azure Active Directory.",
+          "heat": 58,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/create-users-and-groups-in-azure-active-directory-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure",
+            "Identity"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Manage users and groups in Azure Active Directory",
+          "excerpt": "Manage users and groups in Azure Active Directory",
+          "heat": 58,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/manage-users-and-groups-in-aad-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure",
+            "Identity"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Allow users to reset their password with Azure Active Directory self-service password reset",
+          "excerpt": "Learn how to allow users to reset their password with Azure Active Directory self-service password reset.",
+          "heat": 112,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/allow-users-reset-their-password-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure",
+            "Identity"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Manage access to an Azure subscription by using Azure role-based access control (RBAC)",
+          "excerpt": "Learn how to assign management access to a subscription by using Azure role-based access control.",
+          "heat": 115,
+          "type": "course",
+          "topics": [
+            "Azure",
+            "Identity"
+          ]
+        }
+      ],
+      "size": 11,
+      "heat": 134,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/create-users-and-groups-in-azure-active-directory-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Identity",
+        "Management Tools"
+      ]
+    },
+    {
+      "path": "_learning/collections/microsoft-learn-manage-identities-and-governance-for-azure-administrators.md",
+      "title": "Manage identities and governance for Azure administrators",
+      "excerpt": "Learn how to manage users, subscriptions, role-based access control (RBAC), and governance in Azure.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-manage-identities-and-governance-for-azure-administrators/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-manage-identities-and-governance-for-azure-administrators/",
+      "length": "PT8H47M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "topItems": [
+        {
+          "path": "",
+          "title": "Create Azure users and groups in Azure Active Directory",
+          "excerpt": "Learn how to create Azure users and groups in Azure Active Directory.",
+          "heat": 58,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/create-users-and-groups-in-azure-active-directory-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure",
+            "Identity"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Manage users and groups in Azure Active Directory",
+          "excerpt": "Manage users and groups in Azure Active Directory",
+          "heat": 58,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/manage-users-and-groups-in-aad-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure",
+            "Identity"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Allow users to reset their password with Azure Active Directory self-service password reset",
+          "excerpt": "Learn how to allow users to reset their password with Azure Active Directory self-service password reset.",
+          "heat": 112,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/allow-users-reset-their-password-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure",
+            "Identity"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Manage access to an Azure subscription by using Azure role-based access control (RBAC)",
+          "excerpt": "Learn how to assign management access to a subscription by using Azure role-based access control.",
+          "heat": 115,
+          "type": "course",
+          "topics": [
+            "Azure",
+            "Identity"
+          ]
+        }
+      ],
+      "size": 14,
+      "heat": 134,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/create-users-and-groups-in-azure-active-directory-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Identity",
+        "Management Tools"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-create-azure-account.md",
       "title": "Create an Azure account",
       "excerpt": "Find out how to start using Azure by creating an account where you’ll see services and personal settings for identity, billing, and preferences.",
@@ -219,8 +439,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/create-an-azure-account/",
       "length": "PT39M",
       "ratings": {
-        "count": 129976,
-        "average": 4.6958055
+        "count": 129990,
+        "average": 4.6958227
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -246,15 +466,15 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-aks-deploy-container-app.md",
-      "title": "Deploy a containerized application on Azure Kubernetes Service",
-      "excerpt": "Explore how to create and deploy a containerized application by using Azure Kubernetes Service declarative manifest files.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-aks-deploy-container-app/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/aks-deploy-container-app/",
-      "length": "PT1H4M",
+      "path": "_learning/courses/microsoft-learn-manage-subscription-access-azure-rbac.md",
+      "title": "Manage access to an Azure subscription by using Azure role-based access control (RBAC)",
+      "excerpt": "Learn how to assign management access to a subscription by using Azure role-based access control.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-manage-subscription-access-azure-rbac/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/manage-subscription-access-azure-rbac/",
+      "length": "PT21M",
       "ratings": {
-        "count": 38,
-        "average": 4.763158
+        "count": 1309,
+        "average": 4.657754
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -271,24 +491,24 @@
       "levels": [
         "Beginner"
       ],
-      "heat": 110,
+      "heat": 115,
       "type": "course",
       "price": "Free",
       "topics": [
         "Azure",
-        "Containers"
+        "Identity"
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-publish-app-with-maven-plugin-for-azure-web-apps.md",
-      "title": "Publish a web app to Azure by using the Maven Plugin for Azure App Service",
-      "excerpt": "Use the Maven plugin for Azure App Service to develop a Java web app and deploy the app to Azure.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-publish-app-with-maven-plugin-for-azure-web-apps/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/publish-web-app-with-maven-plugin-for-azure-app-service/",
-      "length": "PT54M",
+      "path": "_learning/courses/microsoft-learn-allow-users-to-reset-their-password.md",
+      "title": "Allow users to reset their password with Azure Active Directory self-service password reset",
+      "excerpt": "Learn how to allow users to reset their password with Azure Active Directory self-service password reset.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-allow-users-to-reset-their-password/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/allow-users-reset-their-password/",
+      "length": "PT31M",
       "ratings": {
-        "count": 6,
-        "average": 4.8333335
+        "count": 1428,
+        "average": 4.703081
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -305,10 +525,10 @@
       "levels": [
         "Beginner"
       ],
-      "heat": 110,
+      "heat": 112,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/publish-app-with-maven-plugin-for-azure-web-apps-social.png",
+          "url": "https://docs.microsoft.com/learn/achievements/allow-users-reset-their-password-social.png",
           "width": 800,
           "height": 400,
           "isCached": true
@@ -318,8 +538,7 @@
       "price": "Free",
       "topics": [
         "Azure",
-        "Compute",
-        "Web"
+        "Identity"
       ]
     },
     {
@@ -521,8 +740,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/intro-to-azure-compute/",
       "length": "PT38M",
       "ratings": {
-        "count": 61858,
-        "average": 4.7091727
+        "count": 61861,
+        "average": 4.7091866
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -561,8 +780,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/explore-azure-infrastructure/",
       "length": "PT45M",
       "ratings": {
-        "count": 65678,
-        "average": 4.712857
+        "count": 65683,
+        "average": 4.712848
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -594,8 +813,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/intro-to-data-in-azure/",
       "length": "PT25M",
       "ratings": {
-        "count": 53743,
-        "average": 4.733528
+        "count": 53749,
+        "average": 4.733539
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -839,8 +1058,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/intro-to-security-in-azure/",
       "length": "PT1H16M",
       "ratings": {
-        "count": 43357,
-        "average": 4.7021704
+        "count": 43360,
+        "average": 4.702168
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -873,8 +1092,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/tour-azure-portal/",
       "length": "PT1H13M",
       "ratings": {
-        "count": 49290,
-        "average": 4.706857
+        "count": 49291,
+        "average": 4.7068634
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -907,8 +1126,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/welcome-to-azure/",
       "length": "PT36M",
       "ratings": {
-        "count": 64923,
-        "average": 4.7998705
+        "count": 64928,
+        "average": 4.799886
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -941,8 +1160,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/intro-to-azure-networking/",
       "length": "PT28M",
       "ratings": {
-        "count": 42461,
-        "average": 4.7643957
+        "count": 42462,
+        "average": 4.764401
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1245,8 +1464,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/intro-to-governance/",
       "length": "PT46M",
       "ratings": {
-        "count": 37161,
-        "average": 4.629208
+        "count": 37163,
+        "average": 4.629228
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1279,8 +1498,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/predict-costs-and-optimize-spending/",
       "length": "PT1H14M",
       "ratings": {
-        "count": 39336,
-        "average": 4.714511
+        "count": 39339,
+        "average": 4.714482
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1781,168 +2000,6 @@
       "excerpt": "Familiarize yourself with DevOps basic concepts and principles.",
       "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-devops-dojo-white-belt-foundations/index.json",
       "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-devops-dojo-white-belt-foundations/",
-      "length": "PT2H0M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "topItems": [
-        {
-          "path": "",
-          "title": "Introduce the foundation pillars of DevOps: Culture and Lean Product",
-          "excerpt": "DevOps is the union of people, process, and products to enable continuous delivery of value to our end users. Discover the first two foundation pillars of DevOps: Culture and Lean Product.",
-          "heat": 70,
-          "type": "course",
-          "topics": [
-            "Azure"
-          ]
-        },
-        {
-          "path": "",
-          "title": "Define the foundation pillars of DevOps: Architecture and Technology",
-          "excerpt": "There are three things required to make DevOps happen: the cultural component, tools and technology, and architecture. Discover the last two foundation pillars of DevOps, Architecture and Technology!",
-          "heat": 59,
-          "type": "course",
-          "topics": [
-            "Azure"
-          ]
-        },
-        {
-          "path": "",
-          "title": "Analyze DevOps Continuous Planning and Continuous Integration",
-          "excerpt": "Explore the first two capabilities in the DevOps taxonomy, Continuous Planning and Continuous Integration.",
-          "heat": 64,
-          "type": "course",
-          "topics": [
-            "Azure"
-          ]
-        },
-        {
-          "path": "",
-          "title": "Explain DevOps Continuous Delivery and Continuous Quality",
-          "excerpt": "Explore two capabilities in the DevOps taxonomy, Continuous Delivery and Continuous Quality.",
-          "heat": 65,
-          "type": "course",
-          "topics": [
-            "Azure"
-          ]
-        }
-      ],
-      "size": 6,
-      "heat": 78,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/introduce-foundation-pillars-devops-culture-learn-product-social.png",
-          "width": 320,
-          "height": 160,
-          "title": "Introduce the foundation pillars of DevOps: Culture and Lean Product",
-          "isCached": true
-        }
-      ],
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_learning/collections/microsoft-learn-introduce-devops-dojo-create-efficiencies-that-support-your-business.md",
-      "title": "Introduce DevOps Dojo: Create efficiencies that support your business",
-      "excerpt": "Start your DevOps Dojo journey.  Create multidisciplinary DevOps teams by using shared tools and processes that are designed to make your organization’s software development and implementation projects more efficient.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-introduce-devops-dojo-create-efficiencies-that-support-your-business/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-introduce-devops-dojo-create-efficiencies-that-support-your-business/",
-      "length": "PT2H0M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "topItems": [
-        {
-          "path": "",
-          "title": "Introduce the foundation pillars of DevOps: Culture and Lean Product",
-          "excerpt": "DevOps is the union of people, process, and products to enable continuous delivery of value to our end users. Discover the first two foundation pillars of DevOps: Culture and Lean Product.",
-          "heat": 70,
-          "type": "course",
-          "topics": [
-            "Azure"
-          ]
-        },
-        {
-          "path": "",
-          "title": "Define the foundation pillars of DevOps: Architecture and Technology",
-          "excerpt": "There are three things required to make DevOps happen: the cultural component, tools and technology, and architecture. Discover the last two foundation pillars of DevOps, Architecture and Technology!",
-          "heat": 59,
-          "type": "course",
-          "topics": [
-            "Azure"
-          ]
-        },
-        {
-          "path": "",
-          "title": "Analyze DevOps Continuous Planning and Continuous Integration",
-          "excerpt": "Explore the first two capabilities in the DevOps taxonomy, Continuous Planning and Continuous Integration.",
-          "heat": 64,
-          "type": "course",
-          "topics": [
-            "Azure"
-          ]
-        },
-        {
-          "path": "",
-          "title": "Explain DevOps Continuous Delivery and Continuous Quality",
-          "excerpt": "Explore two capabilities in the DevOps taxonomy, Continuous Delivery and Continuous Quality.",
-          "heat": 65,
-          "type": "course",
-          "topics": [
-            "Azure"
-          ]
-        }
-      ],
-      "size": 6,
-      "heat": 78,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/introduce-foundation-pillars-devops-culture-learn-product-social.png",
-          "width": 320,
-          "height": 160,
-          "title": "Introduce the foundation pillars of DevOps: Culture and Lean Product",
-          "isCached": true
-        }
-      ],
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_learning/collections/microsoft-learn-learn-about-devops-dojo-white-belt-foundation.md",
-      "title": "Learn about DevOps dojo white belt foundation",
-      "excerpt": "The DevOps dojo white belt foundation course aims to provide you with:\n\nA high-level understanding of DevOps\nA DevOps taxonomy to help familiarize and provide you with an understanding of DevOps concepts and principles",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-learn-about-devops-dojo-white-belt-foundation/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-learn-about-devops-dojo-white-belt-foundation/",
       "length": "PT2H0M",
       "provider": {
         "name": "Microsoft Learn",

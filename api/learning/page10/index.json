@@ -4,39 +4,6 @@
   "page": 10,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-explore-devops-continuous-security-operations.md",
-      "title": "Explore DevOps Continuous Security and Continuous Operations",
-      "excerpt": "Explore two capabilities in the DevOps taxonomy, Continuous Security and Continuous Operations.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-explore-devops-continuous-security-operations/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/explore-devops-continuous-security-operations/",
-      "length": "PT22M",
-      "ratings": {
-        "count": 406,
-        "average": 4.6748767
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 53,
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-explore-non-relational-data-offerings-azure.md",
       "title": "Explore non-relational data offerings in Azure",
       "excerpt": "Explore non-relational data offerings in Azure",
@@ -239,8 +206,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/intro-to-azure-linux/",
       "length": "PT16M",
       "ratings": {
-        "count": 566,
-        "average": 4.7667847
+        "count": 567,
+        "average": 4.7671957
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1504,48 +1471,6 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-allow-users-to-reset-their-password.md",
-      "title": "Allow users to reset their password with Azure Active Directory self-service password reset",
-      "excerpt": "Learn how to allow users to reset their password with Azure Active Directory self-service password reset.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-allow-users-to-reset-their-password/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/allow-users-reset-their-password/",
-      "length": "PT31M",
-      "ratings": {
-        "count": 1427,
-        "average": 4.702873
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/allow-users-reset-their-password-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Identity"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-app-and-infra-migration-and-modernization.md",
       "title": "Applications and infrastructure migration and modernization",
       "excerpt": "Every modern business is powered by applications, such as internal procurement applications, Customer Relationship Management (CRM) systems, retail websites, and third-party products. As your business prepares for digital transformation, it’s important to begin modernizing and migrating your applications and infrastructure to the cloud. Azure is a key component of that process. You can choose to migrate, modernize, or build cloud native solutions depending on your business goals and how you assess your application portfolio. This is a strategic decision. You’ll be able to choose the path that’s right for your organization.",
@@ -1584,6 +1509,88 @@
       "price": "Free",
       "topics": [
         "Azure"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-app-service-scale-up-scale-out.md",
+      "title": "Scale an App Service web app to efficiently meet demand with App Service scale up and scale out",
+      "excerpt": "Learn how to respond to periods of increased activity by incrementally increasing the resources available and then freeing these resources when activity drops.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-app-service-scale-up-scale-out/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/app-service-scale-up-scale-out/",
+      "length": "PT46M",
+      "ratings": {
+        "count": 2075,
+        "average": 4.553253
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/app-service-scale-up-scale-out-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-assess-your-development-process.md",
+      "title": "Assess your existing software development process",
+      "excerpt": "Find out how to assess efficiency with a value stream map to help you examine your existing release processes and technologies.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-assess-your-development-process/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/assess-your-development-process/",
+      "length": "PT19M",
+      "ratings": {
+        "count": 6606,
+        "average": 4.7055707
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/azure-devops/assess-your-software-development-process-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "DevOps"
       ]
     }
   ],

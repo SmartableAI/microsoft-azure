@@ -4,96 +4,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_learning/collections/microsoft-learn-architect-modern-applications-in-azure-learning-path.md",
-      "title": "Architect modern applications in Azure learning path",
-      "excerpt": "Learn how to build modern applications using PaaS services for applications, caching, containers and Kubernetes in Azure.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-architect-modern-applications-in-azure-learning-path/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-architect-modern-applications-in-azure-learning-path/",
-      "length": "PT6H27M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "topItems": [
-        {
-          "path": "",
-          "title": "Build a containerized web application with Docker",
-          "excerpt": "Learn how to use Docker to build, store, and manage private container images with the Azure Container Registry.",
-          "heat": 54,
-          "type": "course",
-          "topics": [
-            "Azure"
-          ]
-        },
-        {
-          "path": "",
-          "title": "Run Docker containers with Azure Container Instances",
-          "excerpt": "Learn how to run and troubleshoot containerized apps using Docker containers with Azure Container Instances.",
-          "heat": 53,
-          "type": "course",
-          "topics": [
-            "Azure",
-            "Containers",
-            "Databases"
-          ]
-        },
-        {
-          "path": "",
-          "title": "Build and store container images with Azure Container Registry",
-          "excerpt": "Learn how to use Docker to build, store, and manage private container images with the Azure Container Registry.",
-          "heat": 52,
-          "type": "course",
-          "topics": [
-            "Azure",
-            "Containers"
-          ]
-        },
-        {
-          "path": "",
-          "title": "Host a web application with Azure App service",
-          "excerpt": "Create a website in the programming language of your choice through the hosted web app platform in Azure App Service.",
-          "heat": 53,
-          "type": "course",
-          "topics": [
-            "Azure",
-            "Compute",
-            "Web",
-            "Management Tools"
-          ]
-        }
-      ],
-      "size": 8,
-      "heat": 63,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/intro-to-containers-social.png",
-          "width": 200,
-          "height": 200,
-          "title": "Build a containerized web application with Docker",
-          "isCached": true
-        }
-      ],
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Containers",
-        "Compute",
-        "Web"
-      ]
-    },
-    {
       "path": "_learning/collections/microsoft-learn-architect-modern-applications-in-azure.md",
       "title": "Architect modern applications in Azure",
       "excerpt": "Learn how to build modern applications using PaaS services for applications, caching, containers and Kubernetes in Azure.",
@@ -1177,8 +1087,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/create-linux-virtual-machine-in-azure/",
       "length": "PT1H26M",
       "ratings": {
-        "count": 7595,
-        "average": 4.6836076
+        "count": 7596,
+        "average": 4.683649
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2184,8 +2094,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/create-long-running-serverless-workflow-with-durable-functions/",
       "length": "PT46M",
       "ratings": {
-        "count": 2491,
-        "average": 4.4576473
+        "count": 2492,
+        "average": 4.457865
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2471,6 +2381,55 @@
       "topics": [
         "Azure",
         "Compute",
+        "Management Tools"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-azure-well-architected-performance-efficiency.md",
+      "title": "Microsoft Azure Well-Architected Framework - Performance efficiency",
+      "excerpt": "Learn how to adjust your capacity based on workload and how to optimize network performance, storage, and database performance.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-azure-well-architected-performance-efficiency/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/azure-well-architected-performance-efficiency/",
+      "length": "PT48M",
+      "ratings": {
+        "count": 372,
+        "average": 4.655914
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/azure-well-architected-performance-efficiency-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Networking",
+        "Web",
+        "Compute",
+        "Databases",
+        "Serverless",
+        "Containers",
+        "DevOps",
         "Management Tools"
       ]
     }

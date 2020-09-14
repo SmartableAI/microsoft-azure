@@ -4,42 +4,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-create-serverless-logic-with-functions.md",
-      "title": "Create serverless logic with Azure Functions",
-      "excerpt": "Azure Functions allow you to host business logic that can be executed without managing or provisioning server infrastructure",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-create-serverless-logic-with-functions/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/create-serverless-logic-with-azure-functions/",
-      "length": "PT36M",
-      "ratings": {
-        "count": 6224,
-        "average": 4.6669345
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 64,
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Compute",
-        "Serverless",
-        "Management Tools"
-      ]
-    },
-    {
       "path": "_learning/collections/microsoft-learn-architect-api-integration-in-azure-learning-path.md",
       "title": "Architect API integration in Azure learning path",
       "excerpt": "Learn how to architect API integration in Azure, and provide secure, scalable API access for your applications.",
@@ -1755,6 +1719,107 @@
         "Storage",
         "Databases",
         "Integration"
+      ]
+    },
+    {
+      "path": "_learning/collections/microsoft-learn-introduction-to-kubernetes-on-azure.md",
+      "title": "Introduction to Kubernetes on Azure",
+      "excerpt": "Learn about the basics of Docker containers, container orchestration with Kubernetes, and managed clusters on Azure Kubernetes Service.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-introduction-to-kubernetes-on-azure/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-introduction-to-kubernetes-on-azure/",
+      "length": "PT1H50M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "topItems": [
+        {
+          "path": "",
+          "title": "Introduction to Docker containers",
+          "excerpt": "Introduction to Docker containers",
+          "heat": 56,
+          "type": "course",
+          "topics": [
+            "Azure",
+            "Containers"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Introduction to Kubernetes",
+          "excerpt": "Get acquainted with the Kubernetes open-source container-orchestration system for automating application deployment, scaling, and management.",
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/introduction-to-kubernetes-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure",
+            "Containers"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Introduction to Azure Kubernetes Service",
+          "excerpt": "Get acquainted with the Azure Kubernetes open-source container-orchestration system for automating application deployment, scaling, and management.",
+          "heat": 53,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/intro-to-azure-kubernetes-service-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure",
+            "Containers"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Deploy a containerized application on Azure Kubernetes Service",
+          "excerpt": "Explore how to create and deploy a containerized application by using Azure Kubernetes Service declarative manifest files.",
+          "heat": 50,
+          "type": "course",
+          "topics": [
+            "Azure",
+            "Containers"
+          ]
+        }
+      ],
+      "size": 5,
+      "heat": 63,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/introduction-to-kubernetes-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Containers"
       ]
     },
     {

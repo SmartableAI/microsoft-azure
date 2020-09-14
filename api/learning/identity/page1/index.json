@@ -4,6 +4,302 @@
   "page": 1,
   "value": [
     {
+      "path": "_learning/collections/microsoft-learn-az-104-manage-identities-and-governance-in-azure.md",
+      "title": "AZ-104: Manage identities and governance in Azure",
+      "excerpt": "Learn how to manage Azure Active Directory objects, role-based access control (RBAC), subscriptions, and governance in Azure. This learning path helps prepare you for Exam AZ-104: Microsoft Azure Administrator.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-az-104-manage-identities-and-governance-in-azure/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-az-104-manage-identities-and-governance-in-azure/",
+      "length": "PT7H17M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "topItems": [
+        {
+          "path": "",
+          "title": "Create Azure users and groups in Azure Active Directory",
+          "excerpt": "Learn how to create Azure users and groups in Azure Active Directory.",
+          "heat": 58,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/create-users-and-groups-in-azure-active-directory-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure",
+            "Identity"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Manage users and groups in Azure Active Directory",
+          "excerpt": "Manage users and groups in Azure Active Directory",
+          "heat": 58,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/manage-users-and-groups-in-aad-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure",
+            "Identity"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Allow users to reset their password with Azure Active Directory self-service password reset",
+          "excerpt": "Learn how to allow users to reset their password with Azure Active Directory self-service password reset.",
+          "heat": 112,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/allow-users-reset-their-password-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure",
+            "Identity"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Manage access to an Azure subscription by using Azure role-based access control (RBAC)",
+          "excerpt": "Learn how to assign management access to a subscription by using Azure role-based access control.",
+          "heat": 115,
+          "type": "course",
+          "topics": [
+            "Azure",
+            "Identity"
+          ]
+        }
+      ],
+      "size": 11,
+      "heat": 134,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/create-users-and-groups-in-azure-active-directory-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Identity",
+        "Management Tools"
+      ]
+    },
+    {
+      "path": "_learning/collections/microsoft-learn-manage-identities-and-governance-for-azure-administrators.md",
+      "title": "Manage identities and governance for Azure administrators",
+      "excerpt": "Learn how to manage users, subscriptions, role-based access control (RBAC), and governance in Azure.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-manage-identities-and-governance-for-azure-administrators/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-manage-identities-and-governance-for-azure-administrators/",
+      "length": "PT8H47M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "topItems": [
+        {
+          "path": "",
+          "title": "Create Azure users and groups in Azure Active Directory",
+          "excerpt": "Learn how to create Azure users and groups in Azure Active Directory.",
+          "heat": 58,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/create-users-and-groups-in-azure-active-directory-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure",
+            "Identity"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Manage users and groups in Azure Active Directory",
+          "excerpt": "Manage users and groups in Azure Active Directory",
+          "heat": 58,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/manage-users-and-groups-in-aad-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure",
+            "Identity"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Allow users to reset their password with Azure Active Directory self-service password reset",
+          "excerpt": "Learn how to allow users to reset their password with Azure Active Directory self-service password reset.",
+          "heat": 112,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/allow-users-reset-their-password-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure",
+            "Identity"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Manage access to an Azure subscription by using Azure role-based access control (RBAC)",
+          "excerpt": "Learn how to assign management access to a subscription by using Azure role-based access control.",
+          "heat": 115,
+          "type": "course",
+          "topics": [
+            "Azure",
+            "Identity"
+          ]
+        }
+      ],
+      "size": 14,
+      "heat": 134,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/create-users-and-groups-in-azure-active-directory-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Identity",
+        "Management Tools"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-manage-subscription-access-azure-rbac.md",
+      "title": "Manage access to an Azure subscription by using Azure role-based access control (RBAC)",
+      "excerpt": "Learn how to assign management access to a subscription by using Azure role-based access control.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-manage-subscription-access-azure-rbac/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/manage-subscription-access-azure-rbac/",
+      "length": "PT21M",
+      "ratings": {
+        "count": 1309,
+        "average": 4.657754
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 115,
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Identity"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-allow-users-to-reset-their-password.md",
+      "title": "Allow users to reset their password with Azure Active Directory self-service password reset",
+      "excerpt": "Learn how to allow users to reset their password with Azure Active Directory self-service password reset.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-allow-users-to-reset-their-password/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/allow-users-reset-their-password/",
+      "length": "PT31M",
+      "ratings": {
+        "count": 1428,
+        "average": 4.703081
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 112,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/allow-users-reset-their-password-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Identity"
+      ]
+    },
+    {
       "path": "_learning/collections/microsoft-learn-manage-identity-and-access-in-azure-active-directory.md",
       "title": "Manage identity and access in Azure Active Directory",
       "excerpt": "Learn how to work with subscriptions, users, and groups by configuring Microsoft Azure Active Directory for workloads.",
@@ -114,8 +410,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/intro-to-security-in-azure/",
       "length": "PT1H16M",
       "ratings": {
-        "count": 43357,
-        "average": 4.7021704
+        "count": 43360,
+        "average": 4.702168
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -424,226 +720,6 @@
         "Identity",
         "Integration",
         "Web"
-      ]
-    },
-    {
-      "path": "_learning/collections/microsoft-learn-az-104-manage-identities-and-governance-in-azure.md",
-      "title": "AZ-104: Manage identities and governance in Azure",
-      "excerpt": "Learn how to manage Azure Active Directory objects, role-based access control (RBAC), subscriptions, and governance in Azure. This learning path helps prepare you for Exam AZ-104: Microsoft Azure Administrator.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-az-104-manage-identities-and-governance-in-azure/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-az-104-manage-identities-and-governance-in-azure/",
-      "length": "PT7H17M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "topItems": [
-        {
-          "path": "",
-          "title": "Create Azure users and groups in Azure Active Directory",
-          "excerpt": "Learn how to create Azure users and groups in Azure Active Directory.",
-          "heat": 58,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/create-users-and-groups-in-azure-active-directory-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "Azure",
-            "Identity"
-          ]
-        },
-        {
-          "path": "",
-          "title": "Manage users and groups in Azure Active Directory",
-          "excerpt": "Manage users and groups in Azure Active Directory",
-          "heat": 58,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/manage-users-and-groups-in-aad-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "Azure",
-            "Identity"
-          ]
-        },
-        {
-          "path": "",
-          "title": "Allow users to reset their password with Azure Active Directory self-service password reset",
-          "excerpt": "Learn how to allow users to reset their password with Azure Active Directory self-service password reset.",
-          "heat": 52,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/allow-users-reset-their-password-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "Azure",
-            "Identity"
-          ]
-        },
-        {
-          "path": "",
-          "title": "Manage access to an Azure subscription by using Azure role-based access control (RBAC)",
-          "excerpt": "Learn how to assign management access to a subscription by using Azure role-based access control.",
-          "heat": 55,
-          "type": "course",
-          "topics": [
-            "Azure",
-            "Identity"
-          ]
-        }
-      ],
-      "size": 11,
-      "heat": 69,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/create-users-and-groups-in-azure-active-directory-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Identity",
-        "Management Tools"
-      ]
-    },
-    {
-      "path": "_learning/collections/microsoft-learn-manage-identities-and-governance-for-azure-administrators.md",
-      "title": "Manage identities and governance for Azure administrators",
-      "excerpt": "Learn how to manage users, subscriptions, role-based access control (RBAC), and governance in Azure.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-manage-identities-and-governance-for-azure-administrators/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-manage-identities-and-governance-for-azure-administrators/",
-      "length": "PT8H47M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "topItems": [
-        {
-          "path": "",
-          "title": "Create Azure users and groups in Azure Active Directory",
-          "excerpt": "Learn how to create Azure users and groups in Azure Active Directory.",
-          "heat": 58,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/create-users-and-groups-in-azure-active-directory-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "Azure",
-            "Identity"
-          ]
-        },
-        {
-          "path": "",
-          "title": "Manage users and groups in Azure Active Directory",
-          "excerpt": "Manage users and groups in Azure Active Directory",
-          "heat": 58,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/manage-users-and-groups-in-aad-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "Azure",
-            "Identity"
-          ]
-        },
-        {
-          "path": "",
-          "title": "Allow users to reset their password with Azure Active Directory self-service password reset",
-          "excerpt": "Learn how to allow users to reset their password with Azure Active Directory self-service password reset.",
-          "heat": 52,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/allow-users-reset-their-password-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "Azure",
-            "Identity"
-          ]
-        },
-        {
-          "path": "",
-          "title": "Manage access to an Azure subscription by using Azure role-based access control (RBAC)",
-          "excerpt": "Learn how to assign management access to a subscription by using Azure role-based access control.",
-          "heat": 55,
-          "type": "course",
-          "topics": [
-            "Azure",
-            "Identity"
-          ]
-        }
-      ],
-      "size": 14,
-      "heat": 69,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/create-users-and-groups-in-azure-active-directory-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Identity",
-        "Management Tools"
       ]
     },
     {
@@ -1117,8 +1193,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/azure-well-architected-security/",
       "length": "PT1H2M",
       "ratings": {
-        "count": 1902,
-        "average": 4.701367
+        "count": 1903,
+        "average": 4.7009983
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1513,8 +1589,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/create-users-and-groups-in-azure-active-directory/",
       "length": "PT41M",
       "ratings": {
-        "count": 2238,
-        "average": 4.699732
+        "count": 2240,
+        "average": 4.7
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1555,8 +1631,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/manage-users-and-groups-in-aad/",
       "length": "PT50M",
       "ratings": {
-        "count": 2753,
-        "average": 4.6709046
+        "count": 2754,
+        "average": 4.671024
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1624,40 +1700,6 @@
           "isCached": true
         }
       ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Identity"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-manage-subscription-access-azure-rbac.md",
-      "title": "Manage access to an Azure subscription by using Azure role-based access control (RBAC)",
-      "excerpt": "Learn how to assign management access to a subscription by using Azure role-based access control.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-manage-subscription-access-azure-rbac/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/manage-subscription-access-azure-rbac/",
-      "length": "PT21M",
-      "ratings": {
-        "count": 1309,
-        "average": 4.657754
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 55,
       "type": "course",
       "price": "Free",
       "topics": [
@@ -1750,8 +1792,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/describe-identity-access-management-capabilities-of-microsoft-365/",
       "length": "PT29M",
       "ratings": {
-        "count": 132,
-        "average": 4.719697
+        "count": 133,
+        "average": 4.7218046
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1814,48 +1856,6 @@
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/introduction-to-identity-and-access-management-in-microsoft-365-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Identity"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-allow-users-to-reset-their-password.md",
-      "title": "Allow users to reset their password with Azure Active Directory self-service password reset",
-      "excerpt": "Learn how to allow users to reset their password with Azure Active Directory self-service password reset.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-allow-users-to-reset-their-password/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/allow-users-reset-their-password/",
-      "length": "PT31M",
-      "ratings": {
-        "count": 1427,
-        "average": 4.702873
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/allow-users-reset-their-password-social.png",
           "width": 800,
           "height": 400,
           "isCached": true

@@ -4,47 +4,6 @@
   "page": 9,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-design-your-migration-to-azure.md",
-      "title": "Design your migration to Azure",
-      "excerpt": "Minimize the time and resources required to migrate your on-premises environment to Azure. Assess your current systems with Azure Migrate, and migrate them with Azure Migrate and Azure Database Migration Service.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-design-your-migration-to-azure/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/design-your-migration-to-azure/",
-      "length": "PT44M",
-      "ratings": {
-        "count": 1353,
-        "average": 4.6230597
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 54,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/design-your-migration-to-azure-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-detect-analyze-faces.md",
       "title": "Detect and analyze faces with the Face service",
       "excerpt": "Face detection, analysis, and recognition is an important capability for artificial intelligence (AI) solutions. The Face cognitive service in Azure makes it easy integrate these capabilities into your applications.",
@@ -798,8 +757,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/build-serverless-api-with-functions-api-management/",
       "length": "PT41M",
       "ratings": {
-        "count": 1002,
-        "average": 4.5958085
+        "count": 1003,
+        "average": 4.5962114
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -843,8 +802,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/classify-user-feedback-with-the-text-analytics-api/",
       "length": "PT48M",
       "ratings": {
-        "count": 1357,
-        "average": 4.6197495
+        "count": 1358,
+        "average": 4.6200294
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1044,8 +1003,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/describe-identity-access-management-capabilities-of-microsoft-365/",
       "length": "PT29M",
       "ratings": {
-        "count": 132,
-        "average": 4.719697
+        "count": 133,
+        "average": 4.7218046
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1197,6 +1156,39 @@
         "Compute",
         "Serverless",
         "Management Tools"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-explore-devops-continuous-security-operations.md",
+      "title": "Explore DevOps Continuous Security and Continuous Operations",
+      "excerpt": "Explore two capabilities in the DevOps taxonomy, Continuous Security and Continuous Operations.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-explore-devops-continuous-security-operations/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/explore-devops-continuous-security-operations/",
+      "length": "PT22M",
+      "ratings": {
+        "count": 407,
+        "average": 4.675676
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 53,
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
       ]
     }
   ],
