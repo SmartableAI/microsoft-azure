@@ -185,8 +185,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/principles-cloud-computing/",
       "length": "PT1H2M",
       "ratings": {
-        "count": 163223,
-        "average": 4.771938
+        "count": 163241,
+        "average": 4.7719507
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -219,8 +219,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/create-an-azure-account/",
       "length": "PT39M",
       "ratings": {
-        "count": 129954,
-        "average": 4.6958156
+        "count": 129965,
+        "average": 4.695795
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -246,15 +246,15 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-troubleshoot-inbound-network-connectivity-azure-load-balancer.md",
-      "title": "Troubleshoot inbound network connectivity for Azure Load Balancer",
-      "excerpt": "Learn how to troubleshoot inbound network connectivity for Azure Load Balancer.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-troubleshoot-inbound-network-connectivity-azure-load-balancer/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/troubleshoot-inbound-connectivity-azure-load-balancer/",
-      "length": "PT1H38M",
+      "path": "_learning/courses/microsoft-learn-create-multi-stage-pipeline.md",
+      "title": "Create a multistage pipeline by using Azure Pipelines",
+      "excerpt": "Design and create a realistic release pipeline that promotes changes to various testing and staging environments.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-create-multi-stage-pipeline/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/create-multi-stage-pipeline/",
+      "length": "PT1H13M",
       "ratings": {
-        "count": 214,
-        "average": 4.6682243
+        "count": 787,
+        "average": 4.7534943
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -271,10 +271,10 @@
       "levels": [
         "Beginner"
       ],
-      "heat": 115,
+      "heat": 110,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/troubleshoot-inbound-connectivity-azure-load-balancer-social.png",
+          "url": "https://docs.microsoft.com/learn/achievements/azure-devops/create-multi-stage-pipeline-social.png",
           "width": 800,
           "height": 400,
           "isCached": true
@@ -284,21 +284,19 @@
       "price": "Free",
       "topics": [
         "Azure",
-        "DevOps",
-        "Management Tools",
-        "Networking"
+        "DevOps"
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-analyze-review-sentiment-with-keras.md",
-      "title": "Analyze the sentiment of reviews with Keras",
-      "excerpt": "Keras is a high-level neural networks API, written in Python, that runs on top of other deep learning tools such as TensorFlow. This module uses Keras to build a neural network that scores text, such as user reviews for sentiment.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-analyze-review-sentiment-with-keras/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-review-sentiment-with-keras/",
-      "length": "35 mins",
+      "path": "_learning/courses/microsoft-learn-improve-developer-experience-of-an-api-with-swagger-documentation.md",
+      "title": "Improve the developer experience of an API with Swagger documentation",
+      "excerpt": "Learn how to document an existing API, written in C#/ASP.NET Core, using Swashbuckle, Swagger/OpenAPI, and Swagger UI.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-improve-developer-experience-of-an-api-with-swagger-documentation/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/improve-api-developer-experience-with-swagger/",
+      "length": "PT33M",
       "ratings": {
-        "count": 1440,
-        "average": 4.6840277
+        "count": 507,
+        "average": 4.617357
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -315,20 +313,20 @@
       "levels": [
         "Beginner"
       ],
-      "heat": 113,
+      "heat": 110,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/student-evangelism/analyze-review-sentiment-with-keras-badge-social.png",
+          "url": "https://docs.microsoft.com/learn/achievements/improve-developer-experience-of-an-api-with-swagger-documentation-social.png",
           "width": 800,
           "height": 400,
-          "title": "Analyze the sentiment of reviews with Keras",
           "isCached": true
         }
       ],
       "type": "course",
       "price": "Free",
       "topics": [
-        "Azure"
+        "Azure",
+        "Management Tools"
       ]
     },
     {
@@ -530,8 +528,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/intro-to-azure-compute/",
       "length": "PT38M",
       "ratings": {
-        "count": 61844,
-        "average": 4.7091713
+        "count": 61849,
+        "average": 4.7091627
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -570,8 +568,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/explore-azure-infrastructure/",
       "length": "PT45M",
       "ratings": {
-        "count": 65667,
-        "average": 4.712839
+        "count": 65673,
+        "average": 4.71285
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -603,8 +601,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/intro-to-data-in-azure/",
       "length": "PT25M",
       "ratings": {
-        "count": 53731,
-        "average": 4.7335243
+        "count": 53736,
+        "average": 4.7335305
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -848,8 +846,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/intro-to-security-in-azure/",
       "length": "PT1H16M",
       "ratings": {
-        "count": 43345,
-        "average": 4.7022724
+        "count": 43350,
+        "average": 4.7022605
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -882,8 +880,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/tour-azure-portal/",
       "length": "PT1H13M",
       "ratings": {
-        "count": 49281,
-        "average": 4.7068443
+        "count": 49286,
+        "average": 4.7068334
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -916,8 +914,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/welcome-to-azure/",
       "length": "PT36M",
       "ratings": {
-        "count": 64914,
-        "average": 4.799843
+        "count": 64916,
+        "average": 4.799849
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -950,8 +948,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/intro-to-azure-networking/",
       "length": "PT28M",
       "ratings": {
-        "count": 42455,
-        "average": 4.7644095
+        "count": 42459,
+        "average": 4.7643843
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1254,8 +1252,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/intro-to-governance/",
       "length": "PT46M",
       "ratings": {
-        "count": 37151,
-        "average": 4.629135
+        "count": 37153,
+        "average": 4.629128
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1288,8 +1286,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/predict-costs-and-optimize-spending/",
       "length": "PT1H14M",
       "ratings": {
-        "count": 39328,
-        "average": 4.714478
+        "count": 39330,
+        "average": 4.7144675
       },
       "provider": {
         "name": "Microsoft Learn",
