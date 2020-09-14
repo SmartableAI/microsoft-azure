@@ -63,20 +63,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "DH2i Announces Support for Microsoft Azure Shared Disks and New Azure Disk Storage Enhancements"
-    excerpt: "DH2i®, the leading provider of multi-platform Software Defined Perimeter (SDP) and Smart Availability(TM) software, today announced DxEnterprise(TM) support for the recently announced"
-    publishedDateTime: 2020-09-01T14:37:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/dh2i-announces-support-for-microsoft-azure-shared-disks-and-new-azure-disk-storage-enhancements/article_0682c838-4b39-5c1c-bdb4-36d3238d99dd.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 25
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/4/b9/4b92a68b-33b1-5bcc-9a61-7b662de68e4f/5f4e51674d02a.image.jpg?resize=400%2C400"
-        width: 400
-        height: 400
-        isCached: true
   - title: "Nutanix Partners with Microsoft Azure for a Seamless Hybrid Experience"
     excerpt: "SAN JOSE –– Nutanix (NASDAQ: NTNX), a leader in enterprise cloud computing, today announced a new partnership with Microsoft that will enable both companies to deliver a hybrid solution with seamless application,"
     publishedDateTime: 2020-09-08T20:39:00Z

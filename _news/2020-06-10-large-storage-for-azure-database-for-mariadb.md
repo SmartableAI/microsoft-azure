@@ -30,15 +30,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 17
-  - title: "Announcing server-side encryption with customer-managed keys for Azure Managed Disks"
-    excerpt: "Today, we're announcing the general availability for server-side encryption (SSE) with customer-managed keys (CMK) for Azure Managed Disks. Azure customers already benefit from SSE with platform-managed keys for Managed Disks enabled by default. SSE with CMK improves on platform-managed keys by giving"
-    publishedDateTime: 2020-04-02T08:00:22Z
-    webUrl: "https://azure.microsoft.com/blog/announcing-serverside-encryption-with-customermanaged-keys-for-azure-managed-disks/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 14
   - title: "Azure Database for PostgreSQL support for encryption at rest using customer-managed keys"
     excerpt: ""
     publishedDateTime: 2020-06-09T19:00:01Z

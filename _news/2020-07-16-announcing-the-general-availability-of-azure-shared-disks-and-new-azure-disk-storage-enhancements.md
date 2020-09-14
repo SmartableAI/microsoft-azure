@@ -7,8 +7,8 @@ originalUrl: "https://azure.microsoft.com/blog/announcing-the-general-availabili
 webUrl: "https://azure.microsoft.com/blog/announcing-the-general-availability-of-azure-shared-disks-and-new-azure-disk-storage-enhancements/"
 type: article
 quality: 58
-heat: 78
-published: true
+heat: -1
+published: false
 
 provider:
   name: Microsoft
@@ -24,20 +24,17 @@ topics:
   - Management tools
 
 related:
-  - title: "Announcing general availability of incremental snapshots of Managed Disks"
-    excerpt: "We're announcing the general availability of incremental snapshots of Azure Managed Disks. Incremental snapshots are a cost-effective, point-in-time backup of managed disks. Unlike current snapshots, which are billed for the full size, incremental snapshots are billed for the delta changes to disks since"
-    publishedDateTime: 2020-03-26T10:00:04Z
-    webUrl: "https://azure.microsoft.com/blog/announcing-general-availability-of-incremental-snapshots-of-managed-disks/"
+  - title: "DH2i Announces Support for Microsoft Azure Shared Disks and New Azure Disk Storage Enhancements"
+    excerpt: "To learn more, please join DH2i for a live webinar titled, \"How to Build Shared Disk SQL Server Clusters in Azure\" featuring Microsoft Principal Program Manager Kevin Farlee on September 2nd ..."
+    publishedDateTime: 2020-09-01T13:23:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/dh2i-announces-support-for-microsoft-azure-shared-disks-and-new-azure-disk-storage-enhancements-1029552477"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/dh2i-announces-support-for-microsoft-azure-shared-disks-and-new-azure-disk-storage-enhancements-1029552477"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/dh2i-announces-support-for-microsoft-azure-shared-disks-and-new-azure-disk-storage-enhancements-1029552477"
     type: article
     provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 21
-    images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/28a170f1-dbb3-48c7-94f9-6a58f943615f.png"
-        width: 1427
-        height: 840
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 65
 
 secured: "OQlBqqkjO5h6EhRaBqVCOBaWVKRjY/vV8eCdt8TVuGXPQYRoraD85agNzIvjMxOxPVNM3kMDG4WcmFarXNUFj9znloVF32mtt8ohifqbHYXmzcNjSp2YuXrP9mHsNerIIOx0+kz4i8g90oypmgi4K+/5UcnIRkoHjCVxUtS/jUZRY4AMMV4iyt+lRfc3I+L/sFduwRz8LpTtC7Nah8C5f2UW92LpDxIZ3M50zBUkp2EhGD0neRbhmrGgM/XfzQGIaPDNNvWSHiiAQknYLGufKWJrz1OUNfQJPYn2ErBPfkrJV6O9d2Uir9p4knrVYCRsKT2IblF2PERwgUitgEADdH73RffWOMfJh6qYa1kQSx0=;AzFntdVUyNrj+ZKMwCzxBg=="
 ---

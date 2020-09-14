@@ -6,7 +6,7 @@ publishedDateTime: 2020-03-26T10:00:04Z
 webUrl: "https://azure.microsoft.com/blog/announcing-general-availability-of-incremental-snapshots-of-managed-disks/"
 type: article
 quality: 21
-heat: -1
+heat: 21
 published: false
 
 provider:
@@ -28,15 +28,15 @@ images:
     title: "Announcing general availability of incremental snapshots of Managed Disks"
 
 related:
-  - title: "Announcing the general availability of Azure shared disks and new Azure Disk Storage enhancements"
-    excerpt: "Today, we’re announcing the general availability of—enabling you to migrate your existing on-premises Windows and Linux-based clustered environments to Azure. We’re also announcing important new disk enhancements to provide you with more availability, security, and flexibility on Azure."
-    publishedDateTime: 2020-07-16T09:00:39Z
-    webUrl: "https://azure.microsoft.com/blog/announcing-the-general-availability-of-azure-shared-disks-and-new-azure-disk-storage-enhancements/"
+  - title: "Announcing server-side encryption with customer-managed keys for Azure Managed Disks"
+    excerpt: "Today, we're announcing the general availability for server-side encryption (SSE) with customer-managed keys (CMK) for Azure Managed Disks. Azure customers already benefit from SSE with platform-managed keys for Managed Disks enabled by default. SSE with CMK improves on platform-managed keys by giving"
+    publishedDateTime: 2020-04-02T08:00:22Z
+    webUrl: "https://azure.microsoft.com/blog/announcing-serverside-encryption-with-customermanaged-keys-for-azure-managed-disks/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 58
+    quality: 14
 
 secured: "QYfLWS3uMkL52ucfpGyoy9gEjD+zU6YCZWoeAvuMQNNnRlG8Gv1Nrq1SulDBiFYW777+OhnxAyyPVE89E9vejOyW7jWWhi8Dm26Pr2VTkdz/O/XpEc12lwx2af1Bq2VM4H7XyqBkAPXaztwVlFN3p3XM6e+/rW1CMooh1D8+ept0dA65y/vemiO8lN3Mc9hrEpbrE9tGdPtbRMMusZy1PhQbiM6mXmlYhUjzWv2q6qD6Gmv2oPtJej6hYufyiZ5HyrSXYWvwFBPfeyb2i5Fu1BymS0VxR/dH7I0M38OgnvZOVYh6qpdRlVBYvZnxtZ524Y65sTRKvIjUFf/aJ0x0Cg==;9xp3cILb4pvV+vUkSzm1+g=="
 ---
