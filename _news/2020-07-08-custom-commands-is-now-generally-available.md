@@ -30,15 +30,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 17
-  - title: "Generally available: Azure Private Link for Azure SignalR Service "
-    excerpt: "Use private endpoint to connect to Azure SignalR Service. "
-    publishedDateTime: 2020-07-14T17:00:16Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/generally-available-azure-private-link-for-azure-signalr-service/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 17
 
 secured: "bYvKvmofb3HfgKEhm7bHInc+GmV/egLag/LjLQfGdvAsmwfpiTsieL5axJVrYhnAsp1L8ePm7cNpo5CIwQPefm/8ceDNFa1ZMbNC5qXkwFFgkKvfrJkt6246Q4PQ9yVf72bLTkupey98wNH1CLn8VmSCsT2TLQv0YStDGPsYs55HK1Tq4rgLeOGN5vI/B3AHYED6SAoBbwGiLsyZG3v5X1AmXphDT5l2uIYh78S6Cm0rdSvYQBhNQ96lwE7reIRqbvUnTGhh5/ezJaANIwLXuOP8R0oQPQClaXPjY/MUXbige72esg7Q+c2D8cRsowCCYoylpTcKgZCJkAmr+jue3w==;k8kkEIaUYLwZjF8Qg2214g=="
 ---

@@ -30,15 +30,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 17
-  - title: "Azure Private Link is now available for multiple new Azure services"
-    excerpt: ""
-    publishedDateTime: 2020-05-14T22:00:17Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-private-link-is-now-available-for-multiple-new-azure-services/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 17
   - title: "Azure Kubernetes Service (AKS) resource provider on Azure Stack preview "
     excerpt: ""
     publishedDateTime: 2020-05-19T16:05:37Z

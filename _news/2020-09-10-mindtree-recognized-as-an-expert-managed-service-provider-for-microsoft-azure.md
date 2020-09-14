@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Mindtree Recognized as an Expert Managed Service Provider for Microsoft Azure"
-excerpt: "Mindtree, a leading digital transformation and technology services company, has been recognized as a Microsoft Azure Expert Managed"
-publishedDateTime: 2020-09-10T09:18:00Z
-originalUrl: "https://www.prnewswire.com/ae/news-releases/mindtree-recognized-as-an-expert-managed-service-provider-for-microsoft-azure-301127238.html"
-webUrl: "https://www.prnewswire.com/ae/news-releases/mindtree-recognized-as-an-expert-managed-service-provider-for-microsoft-azure-301127238.html"
+excerpt: "10, 2020 /PRNewswire/ -- Mindtree, a leading digital transformation and technology services company, has been recognized as a Microsoft Azure Expert Managed Service Provider (MSP). The Azure ..."
+publishedDateTime: 2020-09-10T09:22:00Z
+originalUrl: "https://www.prnewswire.com/ae/news-releases/mindtree-recognized-as-an-expert-managed-service-provider-for-microsoft-azure-878029696.html"
+webUrl: "https://www.prnewswire.com/ae/news-releases/mindtree-recognized-as-an-expert-managed-service-provider-for-microsoft-azure-878029696.html"
 type: article
 quality: 34
 heat: -1
@@ -55,6 +55,6 @@ related:
         height: 254
         isCached: true
 
-secured: "v8DbjrggTAOSx5/cci7JURZKaQCJ2ks2kKjZL3V2iWJCEndLZbM4WNkjNq47vXp0lS41jbB01aeGZTB6NFcSexGToi27QuqSFHEDeJ51JlUbUlIjhb9l81AwpiPDaKQi7XdTeJAZ57hFbuGnjVKiC0hV67A8sknj2o2Ilf3pvCMZ3RquvyP5VTAKfIzeY/T6YEsm+7j4oV2ZiT8hsPslh/gT2ibagVRFO6XuxGsQuZj1dEj0XUIBNf6o0YyPP+qD5Qxk3Ubuyfm0LXBoW2qtIw0x7J1N5hHJAQNgGRaFk5AuwlMDe2dcE6yRVF/EvUMBcknyHmoYW/jf+L7/qwoNEwKVfHvFb9tONT2dswfX4SGmO2YGiafjSP0R2AGZWrBhZoMEoTTI3LdFqIJoOa8SNzDdGZ3SGmSqGVoWuT6PUhkg0/c5Vgpr3F02EAyoiKOYWcDGgmqhWgn3aA1tKUS7zu0kjvayjEJoAuK9bmHE1PdO+7qG8i5k1rSTfARQqKAv5iixPiIgJvfgHRblzVAQ8rveWmNByFq79xkwomA9lzw=;PMtgQ3r2zMSip1QcIAmy8g=="
+secured: "WRR7H4EXdkRwftuaK4FqMT06dDx/6N/jziLeaeJI3T1Dw36RoyJmy92i7JDMjLRvFz1lad/SM2W6ln54/03m39ABX3WOrrePmqxMiuNB3fI44unbcUjap5Gk2ViuyB4HB2Sk9Fo7DAZciSRTJhn6E4s51lBEwwo/OokPEhRQ8Cy7WSzPfQuR9e7R1VPVMRh+V8KstYVAW7nQsLNPOLjuM2ObrVJ852nHNgfKgIQs/rVDRYBDRnqUQZYpmkoqaAM3E+bU7cIkjQ3zMOT6loNgU7Kf1/cn5LJEiHrVn5rh4v4gVeS02nfDbkehbQCttgT35Mf0o+Ec8tXfZTGc6UfgDZYkqQiewP47jIxpQImJqDw=;Y6CeDjchLSBd8DVBFzbrbw=="
 ---
 

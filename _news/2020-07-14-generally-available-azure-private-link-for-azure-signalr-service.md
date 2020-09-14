@@ -21,24 +21,42 @@ topics:
   - Azure
 
 related:
-  - title: "Azure Machine Learning studio web experience is generally available"
-    excerpt: "Azure Machine Learning studio web experience is now generally available and bringing new features."
-    publishedDateTime: 2020-07-08T16:00:19Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-machine-learning-studio-web-experience-is-generally-available/"
+  - title: "Azure Private Link Service is now generally available in China "
+    excerpt: "Azure Private Link for customer owned services are now available in China Regions. "
+    publishedDateTime: 2020-09-14T17:10:45Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-private-link-service-is-now-generally-available-in-china/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
+  - title: "Azure Analysis Services—Query interleaving is now generally available"
+    excerpt: ""
+    publishedDateTime: 2020-04-16T23:00:21Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/announcing-general-availability-ga-of-query-interleaving-for-azure-analysis-services/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
     quality: 17
-  - title: "Custom Commands is now generally available"
-    excerpt: "Streamline the process for creating task-oriented voice applications with Custom Commands (now generally available)."
-    publishedDateTime: 2020-07-08T16:00:19Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/custom-commands-is-now-generally-available/"
+  - title: "Azure App Service—.NET Core 3.1 is now generally available"
+    excerpt: ""
+    publishedDateTime: 2020-04-23T16:00:29Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-app-service-net-core-31-ga-on-app-service/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 2
+    quality: 17
+  - title: "Azure Private Link is now available for multiple new Azure services"
+    excerpt: ""
+    publishedDateTime: 2020-05-14T22:00:17Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-private-link-is-now-available-for-multiple-new-azure-services/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 17
 
 secured: "wKzdJEDITxBVDkgSTL6/JiLXKJiRWnuErC9MsI0nj5cqQ0anHohiVqvFyA3ocQSZVdkyOYB2SE5DsdPw5H1ADo4ilMioLQg5LaqMukyR1UHfr7Y+xjMZCJbKHH3zkVDKE2HuNiCVYLzgxyYq7d0+jAz2cC/V3cCnuKpqd4oIloCwkgwdkSYA3Da/xEfWeFNkZvEWjrfHwbRCFqxIZYUfqTxue6hTCwQKFU5znanxLhPjAyQyLhPEEuK7UexiaRkQOcWGgWGqv1LDBmBs+laocps5OoipgRgzd17wtpeHK7FoxWSIwFxNiDitF/pRSuVKtdx/67e3062dL3EtZ9JgCw==;uRvVcgMBjN+Hy4NHb5zDng=="
 ---

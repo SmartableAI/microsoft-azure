@@ -21,61 +21,37 @@ topics:
   - Azure
 
 related:
-  - title: "Azure Analysis Services calculation groups are now generally available"
-    excerpt: ""
-    publishedDateTime: 2020-04-14T22:00:21Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/announcing-general-availability-ga-of-calculation-groups-in-azure-analysis-services/"
+  - title: "Azure Private Link Service is now generally available in China "
+    excerpt: "Azure Private Link for customer owned services are now available in China Regions. "
+    publishedDateTime: 2020-09-14T17:10:45Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-private-link-service-is-now-generally-available-in-china/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 37
-    images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/0f9f89b3-100e-4d95-b715-e3b3f4e20492.gif"
-        width: 1290
-        height: 757
-        isCached: true
-  - title: "Azure Analysis Services—Improved query replica synchronization now available"
+    quality: 67
+  - title: "Azure Analysis Services—Query interleaving is now generally available"
     excerpt: ""
-    publishedDateTime: 2020-04-16T23:00:31Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/announcing-general-availability-ga-of-improved-query-replica-synchronization-in-azure-analysis-services/"
+    publishedDateTime: 2020-04-16T23:00:21Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/announcing-general-availability-ga-of-query-interleaving-for-azure-analysis-services/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 34
-    images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/2eee66bc-197a-4a22-97b3-a23d469d3f97.png"
-        width: 604
-        height: 492
-        isCached: true
-  - title: "Many-to-many relationships in Azure Analysis Services are now generally available"
+    quality: 17
+  - title: "Azure Private Link is now available for multiple new Azure services"
     excerpt: ""
-    publishedDateTime: 2020-04-14T22:00:22Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/announcing-general-availability-ga-of-manytomany-relationships-in-azure-analysis-services/"
+    publishedDateTime: 2020-05-14T22:00:17Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-private-link-is-now-available-for-multiple-new-azure-services/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 32
-    images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/938e404c-6b8c-4d87-8795-119109f5f43e.png"
-        width: 553
-        height: 259
-        isCached: true
-  - title: "Enhanced features in Azure Archive Storage now generally available"
-    excerpt: "Since launching Azure Archive Storage, we've seen unprecedented interest and innovative usage from a variety of industries. Archive Storage is built as a scalable service for cost-effectively storing rarely accessed data for long periods of time. Cold data, including application backups, healthcare records,"
-    publishedDateTime: 2020-04-21T09:00:40Z
-    webUrl: "https://azure.microsoft.com/blog/enhanced-features-in-azure-archive-storage-now-generally-available/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 21
-  - title: "Azure Text Analytics v3 is now generally available"
-    excerpt: ""
-    publishedDateTime: 2020-05-29T21:00:32Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/text-analytics-v3-is-now-generally-available/"
+    quality: 17
+  - title: "Generally available: Azure Private Link for Azure SignalR Service "
+    excerpt: "Use private endpoint to connect to Azure SignalR Service. "
+    publishedDateTime: 2020-07-14T17:00:16Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/generally-available-azure-private-link-for-azure-signalr-service/"
     type: article
     provider:
       name: Microsoft

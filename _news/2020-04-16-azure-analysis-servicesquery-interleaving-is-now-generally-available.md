@@ -21,20 +21,42 @@ topics:
   - Azure
 
 related:
-  - title: "Azure Machine Learning—New log streaming feature is now available"
-    excerpt: ""
-    publishedDateTime: 2020-04-13T16:00:05Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-machine-learning-new-log-streaming-feature/"
+  - title: "Azure Private Link Service is now generally available in China "
+    excerpt: "Azure Private Link for customer owned services are now available in China Regions. "
+    publishedDateTime: 2020-09-14T17:10:45Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-private-link-service-is-now-generally-available-in-china/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 37
-    images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/d0ede978-fc61-4ae5-bcd7-dac3ef5c3f9a.jpg"
-        width: 752
-        height: 379
-        isCached: true
+    quality: 67
+  - title: "Azure App Service—.NET Core 3.1 is now generally available"
+    excerpt: ""
+    publishedDateTime: 2020-04-23T16:00:29Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-app-service-net-core-31-ga-on-app-service/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 17
+  - title: "Azure Private Link is now available for multiple new Azure services"
+    excerpt: ""
+    publishedDateTime: 2020-05-14T22:00:17Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-private-link-is-now-available-for-multiple-new-azure-services/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 17
+  - title: "Generally available: Azure Private Link for Azure SignalR Service "
+    excerpt: "Use private endpoint to connect to Azure SignalR Service. "
+    publishedDateTime: 2020-07-14T17:00:16Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/generally-available-azure-private-link-for-azure-signalr-service/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 17
 
 secured: "En/Y3dwCQyZZxBODhvQQkTeQKkM9llsmJPsrcm8k6CQdG9/QCkRQFgPk8t3Z0+cjHxgPwJnUUmGTSPQTf+3YRv4YZ7UhZy/66Xrw6dp84oWzygvC2veN+Ju/RdhVSFfWmOxSWQkBIOstKGNIfNWYs6baBGnZCu6aqSXFD6oLtoGkMc85OmNlfQbsPt9WL6aIcqgSB+a6KPfVRb6kP6Zv7PtDWYVhSj7Ludr2sM9xHvqcppfL8Mxu/h7pr721ozomZ37YHXjiJJUL08TcZi1Gne+k2K6LVksfh8V84umYsVsmIeJUFtgGWzpEhZeKYpSuttd2kRkhiqneJ5wOOx7s5g==;7XQk3YfVL8VWyiEm57uJkA=="
 ---

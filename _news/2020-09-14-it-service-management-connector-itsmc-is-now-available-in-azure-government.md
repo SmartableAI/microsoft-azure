@@ -1,11 +1,12 @@
 ---
 category: news
-title: "Azure Advisor integration with AKS now generally available"
-excerpt: ""
-publishedDateTime: 2020-04-28T16:30:50Z
-webUrl: "https://azure.microsoft.com/en-us/updates/azure-advisor-integration-with-aks-now-generally-available/"
+title: "IT Service Management Connector (ITSMC)  is now available in Azure Government"
+excerpt: "The ITSM connector provides a bi-directional connection between Azure and ITSM tools to help track and resolve issues faster.  "
+publishedDateTime: 2020-09-14T16:00:12Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/itsmc-is-now-available-in-fairfax/"
+webUrl: "https://azure.microsoft.com/en-us/updates/itsmc-is-now-available-in-fairfax/"
 type: article
-quality: 17
+quality: 64
 heat: -1
 published: false
 
@@ -35,15 +36,6 @@ related:
         width: 1024
         height: 489
         isCached: true
-  - title: "IT Service Management Connector (ITSMC)  is now available in Azure Government"
-    excerpt: "The ITSM connector provides a bi-directional connection between Azure and ITSM tools to help track and resolve issues faster.  "
-    publishedDateTime: 2020-09-14T16:00:12Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/itsmc-is-now-available-in-fairfax/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 64
   - title: "IPification Secure Mobile Authentication Now Available to Microsoft Azure Active Directory B2C Customers"
     excerpt: "Benefit Vantage Limited, developer of the IPification seamless authentication solution, is proud to announce that we will enable global service providers"
     publishedDateTime: 2020-04-28T14:00:00Z
@@ -183,6 +175,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 17
+  - title: "Azure Advisor integration with AKS now generally available"
+    excerpt: ""
+    publishedDateTime: 2020-04-28T16:30:50Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-advisor-integration-with-aks-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 17
   - title: "Azure Private Link for AKS is now generally available"
     excerpt: ""
     publishedDateTime: 2020-04-28T16:30:49Z
@@ -274,6 +275,6 @@ related:
       domain: microsoft.com
     quality: 2
 
-secured: "ssIfMbVEqs+3O4Ukqd3E9tyxxYLLXy3JfjZB99Nb534YkKGWZ4/Jjq6/KF8EeDpPl3IeMTfmSdPJQtNjXa/hjj5rMPpORGy8EtXsNp8hDKpfIHALH5YiaN7uC3BS7z5qqvYFN52DrK4RQuK44U2ruNQ2i2qEg4HLXspW2WqD+ADSCj42NMaV2BkQ24DxccuOiGqn9lTBkcFcWFagBYUm+4FDff8YzukQGajSR9CkCIO51r5pLCo5MXy473ZWgPvQln0kCaieV1u2KLpTdwICycdpd5SsxMuV3H6eYQEtnquasG0/Ga15ePeE5vRIAuP4PmMkp3fspMoWlkNaPhfLYA==;8LeXqRpY2CmabJWfmHF4Gg=="
+secured: "FZot5exq1jbSkmSjJwZ3Jx/k7YaUF9ZrIGQuq0dj7PkVJTSbo8su5LPNO2Krkgtb3id6tL7QvnIU1yJ2hV17zsAHo9+9ufm0rm73XGfxcs2DRsRTzVcQ3QrchlGRUzfisqkjQqq1neLIDBGt0HP4YSfwckyj0B7bgk49N9EP2zH2IHdbNuSNvxSjFrKkXNGDwOtM+6wiqmPW28G3oIeN+QIBev6zPowkivhQCKxn0QzmCmP4rnAdlfi/tczgwRNeTHmOEevOfmZTbCzasU1VfgFWmbpayf1To0TgYsQF/Bb0OoK90Xmhts/Wbn4H+PHnXy9aZHxBOLeH9AEzu0P0n+BXEctpnRENoloSp7naceU=;SN1eVE+vpnbqu3lA/1p8WQ=="
 ---
 

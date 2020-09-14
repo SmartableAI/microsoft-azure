@@ -21,15 +21,6 @@ topics:
   - Azure
 
 related:
-  - title: "Generally available: Azure Private Link for Azure SignalR Service "
-    excerpt: "Use private endpoint to connect to Azure SignalR Service. "
-    publishedDateTime: 2020-07-14T17:00:16Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/generally-available-azure-private-link-for-azure-signalr-service/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 17
   - title: "Custom Commands is now generally available"
     excerpt: "Streamline the process for creating task-oriented voice applications with Custom Commands (now generally available)."
     publishedDateTime: 2020-07-08T16:00:19Z

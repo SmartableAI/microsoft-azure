@@ -42,6 +42,15 @@ related:
         width: 1024
         height: 489
         isCached: true
+  - title: "IT Service Management Connector (ITSMC)  is now available in Azure Government"
+    excerpt: "The ITSM connector provides a bi-directional connection between Azure and ITSM tools to help track and resolve issues faster.  "
+    publishedDateTime: 2020-09-14T16:00:12Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/itsmc-is-now-available-in-fairfax/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 64
   - title: "Cyber Infrastructure's 7-Week Azure Data Integration & Migration Soln. Now Available in the Microsoft Azure Marketplace"
     excerpt: "Microsoft Azure customers worldwide now gain access to Cyber Infrastructure's implementation service SAN JOSE, CA,"
     publishedDateTime: 2020-04-30T07:38:00Z

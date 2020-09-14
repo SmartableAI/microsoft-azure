@@ -35,6 +35,15 @@ related:
         width: 1024
         height: 489
         isCached: true
+  - title: "IT Service Management Connector (ITSMC)  is now available in Azure Government"
+    excerpt: "The ITSM connector provides a bi-directional connection between Azure and ITSM tools to help track and resolve issues faster.  "
+    publishedDateTime: 2020-09-14T16:00:12Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/itsmc-is-now-available-in-fairfax/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 64
   - title: "IPification Secure Mobile Authentication Now Available to Microsoft Azure Active Directory B2C Customers"
     excerpt: "Benefit Vantage Limited, developer of the IPification seamless authentication solution, is proud to announce that we will enable global service providers"
     publishedDateTime: 2020-04-28T14:00:00Z
