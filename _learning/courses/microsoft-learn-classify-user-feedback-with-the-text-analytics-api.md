@@ -6,8 +6,8 @@ type: course
 price: Free
 length: PT48M
 ratings:
-  count: 1359
-  average: 4.619573
+  count: 1360
+  average: 4.619853
 heat: 53
 
 provider:
@@ -30,6 +30,6 @@ topics:
   - Storage
   - AI
 
-secured: "lBdrEzrfrqv3Qa/rwoPrFkBVhvaeEz0dyTETUdQgfQvnUOKhMSXAHqu9ZtyXw60uQP+BvHJ7VjDc0vXwqR/+ZvZDDhIHWsxgbYgMqLyb963+HIi7Wt8tIrvu8iNiP8lsni1ddxOgmMqVLJyZ1dQ+ExHBl9njDVnhw9+U7nMmtBhSO1nC6XkNwnHD3hh06kOx8x4ThKK298ZcG3Th3l11Wp7mhH3MjntIa4lFR3P5lM0qXor0EpZhM5qH9K2ATsGEBmv8ifXgbj2RGDAeKO37KOblhSR73WaBF269LRIfF3Q+PQFrSgokMytPdVSNKhGzfi0h5kaKL/MRpN5vmVghcDirqg40IulHWkvJWMfTv7GCkuhvNH2o0tVCRNBhkWEEPcE1O3kb1VqlougYRF3v7/VwARlWmidLu57dhtjIwUE=;tpThR8SqIMyJ+duhY++0+A=="
+secured: "zgsypNS/ji44xVqFD7+3ZExPmxL2OLrI/6VTxaEwPmO0gF633DpPnGw47o+qBgE70ti88ZN0m6hqL7Xc8ziuUnBeedwL/hlUZOZtoqv9L8pV8KmDJf4W4oUEf9gVmyRadhyxtUPRXcTUxC4SFbcBA9igZj1hKUaaq7dC0VeFvAPKZD6xjPEibU3f1Waro0zQBNUW+sIGpsB8aYf+ksfwYmSw8M2/yf5pIZfPTYAycL2BQkMp8g1Atqp3sJWHx/Oc3C3b/BjdSnb6zi1YMO1icBAeG5dauwpLizSJp1VolpoY61xuzUoHNd97Nj3oQAv+62yPgQxmS5Q+YMGffdAqnbKE3HXi6j9W2A+d2anAzM1zbGlc8eKcyLcQ6+QF8sQ5k4aML6xGQPN9I0bUCr0x5x9AM2YQ6Wu/UHHZU6Yk0w8=;BzyVRhipv+HBlgzTAhZPJA=="
 ---
 

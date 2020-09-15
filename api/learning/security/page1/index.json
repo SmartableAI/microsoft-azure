@@ -152,7 +152,7 @@
           "path": "",
           "title": "Microsoft Azure Well-Architected Framework - Security",
           "excerpt": "Discover the tools that Azure provides to help you design a secure environment throughout your infrastructure, data, network, and applications.",
-          "heat": 61,
+          "heat": 64,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/azure-well-architected-security-social.png",
@@ -171,7 +171,7 @@
           "path": "",
           "title": "Top 5 security items to consider before pushing to production",
           "excerpt": "Learn about the Site Reliability Engineering approach to the challenge of assuring reliability and gain a better understanding of why it matters.",
-          "heat": 60,
+          "heat": 61,
           "type": "course",
           "topics": [
             "Azure",
@@ -211,7 +211,7 @@
         }
       ],
       "size": 6,
-      "heat": 72,
+      "heat": 73,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/azure-well-architected-security-social.png",
@@ -259,7 +259,7 @@
           "path": "",
           "title": "Security, responsibility, and trust in Azure",
           "excerpt": "Discuss the basic concepts for protecting your infrastructure and data when you work in the cloud. Understand what responsibilities are yours and what Azure takes care of for you.",
-          "heat": 90,
+          "heat": 101,
           "type": "course",
           "topics": [
             "Azure",
@@ -270,7 +270,7 @@
           "path": "",
           "title": "Top 5 security items to consider before pushing to production",
           "excerpt": "Learn about the Site Reliability Engineering approach to the challenge of assuring reliability and gain a better understanding of why it matters.",
-          "heat": 60,
+          "heat": 61,
           "type": "course",
           "topics": [
             "Azure",
@@ -316,7 +316,7 @@
         }
       ],
       "size": 7,
-      "heat": 72,
+      "heat": 73,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/configure-security-policies-to-manage-data-social.png",
@@ -363,7 +363,7 @@
           "path": "",
           "title": "Security, responsibility, and trust in Azure",
           "excerpt": "Discuss the basic concepts for protecting your infrastructure and data when you work in the cloud. Understand what responsibilities are yours and what Azure takes care of for you.",
-          "heat": 90,
+          "heat": 101,
           "type": "course",
           "topics": [
             "Azure",
@@ -374,7 +374,7 @@
           "path": "",
           "title": "Top 5 security items to consider before pushing to production",
           "excerpt": "Learn about the Site Reliability Engineering approach to the challenge of assuring reliability and gain a better understanding of why it matters.",
-          "heat": 60,
+          "heat": 61,
           "type": "course",
           "topics": [
             "Azure",
@@ -420,7 +420,7 @@
         }
       ],
       "size": 7,
-      "heat": 72,
+      "heat": 73,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/configure-security-policies-to-manage-data-social.png",
@@ -437,6 +437,116 @@
         "Storage",
         "Databases",
         "Analytics"
+      ]
+    },
+    {
+      "path": "_learning/collections/microsoft-learn-az-400-develop-an-instrumentation-strategy.md",
+      "title": "AZ-400: Develop an instrumentation strategy",
+      "excerpt": "Learn how logging, telemetry, and monitoring give you full visibility into what's happening in your environment.\nTake this learning path to help prepare for Exam AZ-400: Designing and Implementing Microsoft DevOps Solutions.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-az-400-develop-an-instrumentation-strategy/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-az-400-develop-an-instrumentation-strategy/",
+      "length": "PT9H39M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "topItems": [
+        {
+          "path": "",
+          "title": "Capture Web Application Logs with App Service Diagnostics Logging",
+          "excerpt": "Learn about how to capture trace output from your Azure web apps. View a live log stream and download logs files for offline analysis.",
+          "heat": 59,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/capture-application-logs-app-service-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Control and organize Azure resources with Azure Resource Manager",
+          "excerpt": "Use Azure Resource Manager to organize resources, enforce standards, and protect critical assets from deletion.",
+          "heat": 88,
+          "type": "course",
+          "topics": [
+            "Azure",
+            "Management Tools"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Introduction to App Center",
+          "excerpt": "Explore Azure App services to find ways to simplify creation and integration as you build, distribute, test, and analyze usage of yours apps.",
+          "heat": 51,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/app-center/introduction-to-app-center-badge-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure",
+            "Management Tools"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Azure Spring Cloud workshop",
+          "excerpt": "In this workshop, you'll go through tasks to deploy Spring Boot microservices to Azure Spring Cloud (ASC).",
+          "heat": 50,
+          "type": "course",
+          "topics": [
+            "Azure",
+            "Compute",
+            "Web"
+          ]
+        }
+      ],
+      "size": 12,
+      "heat": 70,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/capture-application-logs-app-service-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Management Tools",
+        "DevOps",
+        "Integration",
+        "IoT",
+        "Security",
+        "Compute",
+        "Web",
+        "Containers",
+        "Serverless",
+        "Blockchain"
       ]
     },
     {
@@ -484,7 +594,7 @@
           "path": "",
           "title": "Secure your Azure virtual machine disks",
           "excerpt": "Explore the options for Azure disk encryption to encrypt OS and data disks on existing and new virtual machines.",
-          "heat": 52,
+          "heat": 55,
           "type": "course",
           "topics": [
             "Azure",
@@ -585,7 +695,7 @@
           "path": "",
           "title": "Secure your Azure virtual machine disks",
           "excerpt": "Explore the options for Azure disk encryption to encrypt OS and data disks on existing and new virtual machines.",
-          "heat": 52,
+          "heat": 55,
           "type": "course",
           "topics": [
             "Azure",
@@ -642,116 +752,6 @@
       ]
     },
     {
-      "path": "_learning/collections/microsoft-learn-az-400-develop-an-instrumentation-strategy.md",
-      "title": "AZ-400: Develop an instrumentation strategy",
-      "excerpt": "Learn how logging, telemetry, and monitoring give you full visibility into what's happening in your environment.\nTake this learning path to help prepare for Exam AZ-400: Designing and Implementing Microsoft DevOps Solutions.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-az-400-develop-an-instrumentation-strategy/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-az-400-develop-an-instrumentation-strategy/",
-      "length": "PT9H39M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "topItems": [
-        {
-          "path": "",
-          "title": "Capture Web Application Logs with App Service Diagnostics Logging",
-          "excerpt": "Learn about how to capture trace output from your Azure web apps. View a live log stream and download logs files for offline analysis.",
-          "heat": 54,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/capture-application-logs-app-service-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "Azure"
-          ]
-        },
-        {
-          "path": "",
-          "title": "Control and organize Azure resources with Azure Resource Manager",
-          "excerpt": "Use Azure Resource Manager to organize resources, enforce standards, and protect critical assets from deletion.",
-          "heat": 88,
-          "type": "course",
-          "topics": [
-            "Azure",
-            "Management Tools"
-          ]
-        },
-        {
-          "path": "",
-          "title": "Introduction to App Center",
-          "excerpt": "Explore Azure App services to find ways to simplify creation and integration as you build, distribute, test, and analyze usage of yours apps.",
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/app-center/introduction-to-app-center-badge-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "Azure",
-            "Management Tools"
-          ]
-        },
-        {
-          "path": "",
-          "title": "Azure Spring Cloud workshop",
-          "excerpt": "In this workshop, you'll go through tasks to deploy Spring Boot microservices to Azure Spring Cloud (ASC).",
-          "heat": 50,
-          "type": "course",
-          "topics": [
-            "Azure",
-            "Compute",
-            "Web"
-          ]
-        }
-      ],
-      "size": 12,
-      "heat": 64,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/capture-application-logs-app-service-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Management Tools",
-        "DevOps",
-        "Integration",
-        "IoT",
-        "Security",
-        "Compute",
-        "Web",
-        "Containers",
-        "Serverless",
-        "Blockchain"
-      ]
-    },
-    {
       "path": "_learning/collections/microsoft-learn-manage-security-operations-in-azure.md",
       "title": "Manage security operations in Azure",
       "excerpt": "Learn how to configure security policies and manage security alerts with the tools and services in Azure.",
@@ -779,7 +779,7 @@
           "path": "",
           "title": "Security, responsibility, and trust in Azure",
           "excerpt": "Discuss the basic concepts for protecting your infrastructure and data when you work in the cloud. Understand what responsibilities are yours and what Azure takes care of for you.",
-          "heat": 90,
+          "heat": 101,
           "type": "course",
           "topics": [
             "Azure",
@@ -860,6 +860,40 @@
         "Identity",
         "Integration",
         "Web"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-top-5-security-items-to-consider.md",
+      "title": "Top 5 security items to consider before pushing to production",
+      "excerpt": "Learn about the Site Reliability Engineering approach to the challenge of assuring reliability and gain a better understanding of why it matters.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-top-5-security-items-to-consider/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/top-5-security-items-to-consider/",
+      "length": "PT45M",
+      "ratings": {
+        "count": 6017,
+        "average": 4.6445074
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 61,
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Security"
       ]
     },
     {
@@ -978,40 +1012,6 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-top-5-security-items-to-consider.md",
-      "title": "Top 5 security items to consider before pushing to production",
-      "excerpt": "Learn about the Site Reliability Engineering approach to the challenge of assuring reliability and gain a better understanding of why it matters.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-top-5-security-items-to-consider/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/top-5-security-items-to-consider/",
-      "length": "PT45M",
-      "ratings": {
-        "count": 6017,
-        "average": 4.6445074
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 60,
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Security"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-manage-secrets-with-azure-key-vault.md",
       "title": "Manage secrets in your server apps with Azure Key Vault",
       "excerpt": "Learn how to create an Azure Key Vault to store secret values and how to enable secure access to the vault.",
@@ -1019,8 +1019,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/manage-secrets-with-azure-key-vault/",
       "length": "PT46M",
       "ratings": {
-        "count": 1424,
-        "average": 4.580056
+        "count": 1425,
+        "average": 4.580351
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1121,49 +1121,6 @@
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/approach-your-data-flow-diagram-with-the-right-threat-model-focus-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "IoT",
-        "Security"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-tm-use-recommended-tools-to-create-a-data-flow-diagram.md",
-      "title": "Use recommended tools to create a data-flow diagram",
-      "excerpt": "You can use any canvas, physical or virtual, to create a data-flow diagram. Engineers at Microsoft recommend three tools to help you in your threat modeling journey.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-tm-use-recommended-tools-to-create-a-data-flow-diagram/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/tm-use-recommended-tools-to-create-a-data-flow-diagram/",
-      "length": "PT18M",
-      "ratings": {
-        "count": 152,
-        "average": 4.631579
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/use-recommended-tools-to-create-a-data-flow-diagram-social.png",
           "width": 640,
           "height": 320,
           "isCached": true
@@ -1731,6 +1688,49 @@
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/use-a-framework-to-identify-threats-and-find-ways-to-reduce-or-eliminate-risk-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "IoT",
+        "Security"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-tm-use-recommended-tools-to-create-a-data-flow-diagram.md",
+      "title": "Use recommended tools to create a data-flow diagram",
+      "excerpt": "You can use any canvas, physical or virtual, to create a data-flow diagram. Engineers at Microsoft recommend three tools to help you in your threat modeling journey.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-tm-use-recommended-tools-to-create-a-data-flow-diagram/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/tm-use-recommended-tools-to-create-a-data-flow-diagram/",
+      "length": "PT18M",
+      "ratings": {
+        "count": 152,
+        "average": 4.631579
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/use-recommended-tools-to-create-a-data-flow-diagram-social.png",
           "width": 640,
           "height": 320,
           "isCached": true

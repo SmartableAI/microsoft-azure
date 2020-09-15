@@ -11,8 +11,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/intro-to-azure-compute/",
       "length": "PT38M",
       "ratings": {
-        "count": 61960,
-        "average": 4.709296
+        "count": 61971,
+        "average": 4.7092834
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -29,7 +29,7 @@
       "levels": [
         "Beginner"
       ],
-      "heat": 100,
+      "heat": 118,
       "type": "course",
       "price": "Free",
       "topics": [
@@ -92,7 +92,7 @@
           "path": "",
           "title": "Fundamentals of computer networking",
           "excerpt": "You'll learn the fundamental principles of computer networking to prepare you for the Azure admin and developer learning paths.",
-          "heat": 67,
+          "heat": 73,
           "type": "course",
           "topics": [
             "Azure"
@@ -181,7 +181,7 @@
           "path": "",
           "title": "Fundamentals of computer networking",
           "excerpt": "You'll learn the fundamental principles of computer networking to prepare you for the Azure admin and developer learning paths.",
-          "heat": 67,
+          "heat": 73,
           "type": "course",
           "topics": [
             "Azure"
@@ -279,7 +279,7 @@
           "path": "",
           "title": "Manage virtual machines with the Azure CLI",
           "excerpt": "Learn how to use the cross-platform Azure CLI to create, start, stop, and perform other management tasks related to virtual machines in Azure.",
-          "heat": 55,
+          "heat": 65,
           "type": "course",
           "topics": [
             "Azure",
@@ -301,7 +301,7 @@
         }
       ],
       "size": 14,
-      "heat": 70,
+      "heat": 78,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/create-windows-virtual-machine-in-azure-social.png",
@@ -377,7 +377,7 @@
           "path": "",
           "title": "Manage virtual machines with the Azure CLI",
           "excerpt": "Learn how to use the cross-platform Azure CLI to create, start, stop, and perform other management tasks related to virtual machines in Azure.",
-          "heat": 55,
+          "heat": 65,
           "type": "course",
           "topics": [
             "Azure",
@@ -399,7 +399,7 @@
         }
       ],
       "size": 14,
-      "heat": 70,
+      "heat": 78,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/create-windows-virtual-machine-in-azure-social.png",
@@ -415,6 +415,116 @@
         "Compute",
         "Management Tools",
         "Containers"
+      ]
+    },
+    {
+      "path": "_learning/collections/microsoft-learn-az-400-develop-an-instrumentation-strategy.md",
+      "title": "AZ-400: Develop an instrumentation strategy",
+      "excerpt": "Learn how logging, telemetry, and monitoring give you full visibility into what's happening in your environment.\nTake this learning path to help prepare for Exam AZ-400: Designing and Implementing Microsoft DevOps Solutions.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-az-400-develop-an-instrumentation-strategy/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-az-400-develop-an-instrumentation-strategy/",
+      "length": "PT9H39M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "topItems": [
+        {
+          "path": "",
+          "title": "Capture Web Application Logs with App Service Diagnostics Logging",
+          "excerpt": "Learn about how to capture trace output from your Azure web apps. View a live log stream and download logs files for offline analysis.",
+          "heat": 59,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/capture-application-logs-app-service-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Control and organize Azure resources with Azure Resource Manager",
+          "excerpt": "Use Azure Resource Manager to organize resources, enforce standards, and protect critical assets from deletion.",
+          "heat": 88,
+          "type": "course",
+          "topics": [
+            "Azure",
+            "Management Tools"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Introduction to App Center",
+          "excerpt": "Explore Azure App services to find ways to simplify creation and integration as you build, distribute, test, and analyze usage of yours apps.",
+          "heat": 51,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/app-center/introduction-to-app-center-badge-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure",
+            "Management Tools"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Azure Spring Cloud workshop",
+          "excerpt": "In this workshop, you'll go through tasks to deploy Spring Boot microservices to Azure Spring Cloud (ASC).",
+          "heat": 50,
+          "type": "course",
+          "topics": [
+            "Azure",
+            "Compute",
+            "Web"
+          ]
+        }
+      ],
+      "size": 12,
+      "heat": 70,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/capture-application-logs-app-service-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Management Tools",
+        "DevOps",
+        "Integration",
+        "IoT",
+        "Security",
+        "Compute",
+        "Web",
+        "Containers",
+        "Serverless",
+        "Blockchain"
       ]
     },
     {
@@ -476,7 +586,7 @@
           "path": "",
           "title": "Run Docker containers with Azure Container Instances",
           "excerpt": "Learn how to run and troubleshoot containerized apps using Docker containers with Azure Container Instances.",
-          "heat": 53,
+          "heat": 56,
           "type": "course",
           "topics": [
             "Azure",
@@ -486,7 +596,7 @@
         }
       ],
       "size": 7,
-      "heat": 66,
+      "heat": 67,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/intro-to-docker-containers-social.png",
@@ -562,7 +672,7 @@
           "path": "",
           "title": "Run Docker containers with Azure Container Instances",
           "excerpt": "Learn how to run and troubleshoot containerized apps using Docker containers with Azure Container Instances.",
-          "heat": 53,
+          "heat": 56,
           "type": "course",
           "topics": [
             "Azure",
@@ -572,7 +682,7 @@
         }
       ],
       "size": 7,
-      "heat": 66,
+      "heat": 67,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/intro-to-docker-containers-social.png",
@@ -587,116 +697,6 @@
       "topics": [
         "Azure",
         "Containers"
-      ]
-    },
-    {
-      "path": "_learning/collections/microsoft-learn-az-400-develop-an-instrumentation-strategy.md",
-      "title": "AZ-400: Develop an instrumentation strategy",
-      "excerpt": "Learn how logging, telemetry, and monitoring give you full visibility into what's happening in your environment.\nTake this learning path to help prepare for Exam AZ-400: Designing and Implementing Microsoft DevOps Solutions.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-az-400-develop-an-instrumentation-strategy/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-az-400-develop-an-instrumentation-strategy/",
-      "length": "PT9H39M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "topItems": [
-        {
-          "path": "",
-          "title": "Capture Web Application Logs with App Service Diagnostics Logging",
-          "excerpt": "Learn about how to capture trace output from your Azure web apps. View a live log stream and download logs files for offline analysis.",
-          "heat": 54,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/capture-application-logs-app-service-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "Azure"
-          ]
-        },
-        {
-          "path": "",
-          "title": "Control and organize Azure resources with Azure Resource Manager",
-          "excerpt": "Use Azure Resource Manager to organize resources, enforce standards, and protect critical assets from deletion.",
-          "heat": 88,
-          "type": "course",
-          "topics": [
-            "Azure",
-            "Management Tools"
-          ]
-        },
-        {
-          "path": "",
-          "title": "Introduction to App Center",
-          "excerpt": "Explore Azure App services to find ways to simplify creation and integration as you build, distribute, test, and analyze usage of yours apps.",
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/app-center/introduction-to-app-center-badge-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "Azure",
-            "Management Tools"
-          ]
-        },
-        {
-          "path": "",
-          "title": "Azure Spring Cloud workshop",
-          "excerpt": "In this workshop, you'll go through tasks to deploy Spring Boot microservices to Azure Spring Cloud (ASC).",
-          "heat": 50,
-          "type": "course",
-          "topics": [
-            "Azure",
-            "Compute",
-            "Web"
-          ]
-        }
-      ],
-      "size": 12,
-      "heat": 64,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/capture-application-logs-app-service-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Management Tools",
-        "DevOps",
-        "Integration",
-        "IoT",
-        "Security",
-        "Compute",
-        "Web",
-        "Containers",
-        "Serverless",
-        "Blockchain"
       ]
     },
     {
@@ -736,7 +736,7 @@
           "path": "",
           "title": "Run Docker containers with Azure Container Instances",
           "excerpt": "Learn how to run and troubleshoot containerized apps using Docker containers with Azure Container Instances.",
-          "heat": 53,
+          "heat": 56,
           "type": "course",
           "topics": [
             "Azure",
@@ -770,7 +770,7 @@
         }
       ],
       "size": 8,
-      "heat": 63,
+      "heat": 66,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/intro-to-containers-social.png",
@@ -826,7 +826,7 @@
           "path": "",
           "title": "Run Docker containers with Azure Container Instances",
           "excerpt": "Learn how to run and troubleshoot containerized apps using Docker containers with Azure Container Instances.",
-          "heat": 53,
+          "heat": 56,
           "type": "course",
           "topics": [
             "Azure",
@@ -860,7 +860,7 @@
         }
       ],
       "size": 8,
-      "heat": 63,
+      "heat": 66,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/intro-to-containers-social.png",
@@ -937,7 +937,7 @@
           "path": "",
           "title": "Introduction to Azure Kubernetes Service",
           "excerpt": "Get acquainted with the Azure Kubernetes open-source container-orchestration system for automating application deployment, scaling, and management.",
-          "heat": 53,
+          "heat": 54,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/intro-to-azure-kubernetes-service-social.png",
@@ -965,7 +965,7 @@
         }
       ],
       "size": 5,
-      "heat": 63,
+      "heat": 64,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/introduction-to-kubernetes-social.png",
@@ -1137,6 +1137,41 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-run-docker-containers-aci.md",
+      "title": "Run Docker containers with Azure Container Instances",
+      "excerpt": "Learn how to run and troubleshoot containerized apps using Docker containers with Azure Container Instances.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-run-docker-containers-aci/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/run-docker-with-azure-container-instances/",
+      "length": "PT48M",
+      "ratings": {
+        "count": 2347,
+        "average": 4.6224966
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 56,
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Containers",
+        "Databases"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-deploy-run-container-app-service.md",
       "title": "Deploy and run a containerized web app with Azure App Service",
       "excerpt": "Discover how to create a Docker image and store it in the Azure Container Registry, then use Azure App Service to deploy a web application based on the image.",
@@ -1206,7 +1241,7 @@
       "levels": [
         "Beginner"
       ],
-      "heat": 53,
+      "heat": 54,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/intro-to-azure-kubernetes-service-social.png",
@@ -1223,41 +1258,6 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-run-docker-containers-aci.md",
-      "title": "Run Docker containers with Azure Container Instances",
-      "excerpt": "Learn how to run and troubleshoot containerized apps using Docker containers with Azure Container Instances.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-run-docker-containers-aci/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/run-docker-with-azure-container-instances/",
-      "length": "PT48M",
-      "ratings": {
-        "count": 2345,
-        "average": 4.623028
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 53,
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Containers",
-        "Databases"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-azure-container-registry.md",
       "title": "Build and store container images with Azure Container Registry",
       "excerpt": "Learn how to use Docker to build, store, and manage private container images with the Azure Container Registry.",
@@ -1265,8 +1265,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/build-and-store-container-images/",
       "length": "PT49M",
       "ratings": {
-        "count": 2267,
-        "average": 4.6069694
+        "count": 2268,
+        "average": 4.606702
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1299,8 +1299,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/intro-to-kubernetes/",
       "length": "PT53M",
       "ratings": {
-        "count": 475,
-        "average": 4.602105
+        "count": 476,
+        "average": 4.602941
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1321,6 +1321,48 @@
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/introduction-to-kubernetes-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Containers"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-microservices-aspnet-core.md",
+      "title": "Create and deploy a cloud-native ASP.NET Core microservice",
+      "excerpt": "This module guides you through containerizing an ASP.NET Core microservice and deploying it to Azure Kubernetes Service.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-microservices-aspnet-core/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/microservices-aspnet-core/",
+      "length": "PT53M",
+      "ratings": {
+        "count": 94,
+        "average": 4.617021
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/aspnetcore/microservices-aspnet-core-social.png",
           "width": 640,
           "height": 320,
           "isCached": true
@@ -1523,48 +1565,6 @@
       "topics": [
         "Azure",
         "AI",
-        "Containers"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-microservices-aspnet-core.md",
-      "title": "Create and deploy a cloud-native ASP.NET Core microservice",
-      "excerpt": "This module guides you through containerizing an ASP.NET Core microservice and deploying it to Azure Kubernetes Service.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-microservices-aspnet-core/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/microservices-aspnet-core/",
-      "length": "PT53M",
-      "ratings": {
-        "count": 94,
-        "average": 4.617021
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/aspnetcore/microservices-aspnet-core-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
         "Containers"
       ]
     },

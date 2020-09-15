@@ -11,8 +11,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/intro-to-azure-compute/",
       "length": "PT38M",
       "ratings": {
-        "count": 61960,
-        "average": 4.709296
+        "count": 61971,
+        "average": 4.7092834
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -29,7 +29,7 @@
       "levels": [
         "Beginner"
       ],
-      "heat": 100,
+      "heat": 118,
       "type": "course",
       "price": "Free",
       "topics": [
@@ -164,6 +164,114 @@
       ]
     },
     {
+      "path": "_learning/collections/microsoft-learn-secure-your-cloud-applications-in-azure.md",
+      "title": "Secure your cloud applications in Azure",
+      "excerpt": "Learn how to secure your Azure apps and associated data with encryption, certificates, and policy.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-secure-your-cloud-applications-in-azure/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-secure-your-cloud-applications-in-azure/",
+      "length": "PT5H36M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner",
+        "Intermediate",
+        "Advanced"
+      ],
+      "topItems": [
+        {
+          "path": "",
+          "title": "Microsoft Azure Well-Architected Framework - Security",
+          "excerpt": "Discover the tools that Azure provides to help you design a secure environment throughout your infrastructure, data, network, and applications.",
+          "heat": 64,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/azure-well-architected-security-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure",
+            "Identity"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Top 5 security items to consider before pushing to production",
+          "excerpt": "Learn about the Site Reliability Engineering approach to the challenge of assuring reliability and gain a better understanding of why it matters.",
+          "heat": 61,
+          "type": "course",
+          "topics": [
+            "Azure",
+            "Security"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Create security baselines",
+          "excerpt": "Create security baselines",
+          "heat": 54,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/create-security-baselines-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Manage secrets in your server apps with Azure Key Vault",
+          "excerpt": "Learn how to create an Azure Key Vault to store secret values and how to enable secure access to the vault.",
+          "heat": 55,
+          "type": "course",
+          "topics": [
+            "Azure",
+            "Security",
+            "Compute",
+            "Web"
+          ]
+        }
+      ],
+      "size": 6,
+      "heat": 73,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/azure-well-architected-security-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Management Tools",
+        "Security",
+        "Identity",
+        "Integration",
+        "Web"
+      ]
+    },
+    {
       "path": "_learning/collections/microsoft-learn-architect-message-brokering-and-serverless-applications-in-azure-learning-path.md",
       "title": "Architect message brokering and serverless applications in Azure learning path",
       "excerpt": "Learn how to create reliable messaging for your applications, and how to take advantage of serverless application services in Azure.",
@@ -190,7 +298,7 @@
           "path": "",
           "title": "Create serverless logic with Azure Functions",
           "excerpt": "Azure Functions allow you to host business logic that can be executed without managing or provisioning server infrastructure",
-          "heat": 64,
+          "heat": 66,
           "type": "course",
           "topics": [
             "Azure",
@@ -295,7 +403,7 @@
           "path": "",
           "title": "Create serverless logic with Azure Functions",
           "excerpt": "Azure Functions allow you to host business logic that can be executed without managing or provisioning server infrastructure",
-          "heat": 64,
+          "heat": 66,
           "type": "course",
           "topics": [
             "Azure",
@@ -374,12 +482,12 @@
       ]
     },
     {
-      "path": "_learning/collections/microsoft-learn-secure-your-cloud-applications-in-azure.md",
-      "title": "Secure your cloud applications in Azure",
-      "excerpt": "Learn how to secure your Azure apps and associated data with encryption, certificates, and policy.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-secure-your-cloud-applications-in-azure/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-secure-your-cloud-applications-in-azure/",
-      "length": "PT5H36M",
+      "path": "_learning/collections/microsoft-learn-az-400-develop-an-instrumentation-strategy.md",
+      "title": "AZ-400: Develop an instrumentation strategy",
+      "excerpt": "Learn how logging, telemetry, and monitoring give you full visibility into what's happening in your environment.\nTake this learning path to help prepare for Exam AZ-400: Designing and Implementing Microsoft DevOps Solutions.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-az-400-develop-an-instrumentation-strategy/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-az-400-develop-an-instrumentation-strategy/",
+      "length": "PT9H39M",
       "provider": {
         "name": "Microsoft Learn",
         "domain": "microsoft.com",
@@ -393,49 +501,17 @@
         ]
       },
       "levels": [
-        "Beginner",
-        "Intermediate",
-        "Advanced"
+        "Beginner"
       ],
       "topItems": [
         {
           "path": "",
-          "title": "Microsoft Azure Well-Architected Framework - Security",
-          "excerpt": "Discover the tools that Azure provides to help you design a secure environment throughout your infrastructure, data, network, and applications.",
-          "heat": 61,
+          "title": "Capture Web Application Logs with App Service Diagnostics Logging",
+          "excerpt": "Learn about how to capture trace output from your Azure web apps. View a live log stream and download logs files for offline analysis.",
+          "heat": 59,
           "images": [
             {
-              "url": "https://docs.microsoft.com/learn/achievements/azure-well-architected-security-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "Azure",
-            "Identity"
-          ]
-        },
-        {
-          "path": "",
-          "title": "Top 5 security items to consider before pushing to production",
-          "excerpt": "Learn about the Site Reliability Engineering approach to the challenge of assuring reliability and gain a better understanding of why it matters.",
-          "heat": 60,
-          "type": "course",
-          "topics": [
-            "Azure",
-            "Security"
-          ]
-        },
-        {
-          "path": "",
-          "title": "Create security baselines",
-          "excerpt": "Create security baselines",
-          "heat": 54,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/create-security-baselines-social.png",
+              "url": "https://docs.microsoft.com/learn/achievements/capture-application-logs-app-service-social.png",
               "width": 800,
               "height": 400,
               "isCached": true
@@ -448,25 +524,54 @@
         },
         {
           "path": "",
-          "title": "Manage secrets in your server apps with Azure Key Vault",
-          "excerpt": "Learn how to create an Azure Key Vault to store secret values and how to enable secure access to the vault.",
-          "heat": 55,
+          "title": "Control and organize Azure resources with Azure Resource Manager",
+          "excerpt": "Use Azure Resource Manager to organize resources, enforce standards, and protect critical assets from deletion.",
+          "heat": 88,
           "type": "course",
           "topics": [
             "Azure",
-            "Security",
+            "Management Tools"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Introduction to App Center",
+          "excerpt": "Explore Azure App services to find ways to simplify creation and integration as you build, distribute, test, and analyze usage of yours apps.",
+          "heat": 51,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/app-center/introduction-to-app-center-badge-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure",
+            "Management Tools"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Azure Spring Cloud workshop",
+          "excerpt": "In this workshop, you'll go through tasks to deploy Spring Boot microservices to Azure Spring Cloud (ASC).",
+          "heat": 50,
+          "type": "course",
+          "topics": [
+            "Azure",
             "Compute",
             "Web"
           ]
         }
       ],
-      "size": 6,
-      "heat": 72,
+      "size": 12,
+      "heat": 70,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/azure-well-architected-security-social.png",
-          "width": 640,
-          "height": 320,
+          "url": "https://docs.microsoft.com/learn/achievements/capture-application-logs-app-service-social.png",
+          "width": 800,
+          "height": 400,
           "isCached": true
         }
       ],
@@ -475,10 +580,15 @@
       "topics": [
         "Azure",
         "Management Tools",
-        "Security",
-        "Identity",
+        "DevOps",
         "Integration",
-        "Web"
+        "IoT",
+        "Security",
+        "Compute",
+        "Web",
+        "Containers",
+        "Serverless",
+        "Blockchain"
       ]
     },
     {
@@ -752,7 +862,7 @@
           "path": "",
           "title": "Control authentication for your APIs with Azure API Management",
           "excerpt": "Discover how to protect your APIs from unauthorized use with API keys and client certificate authentication.",
-          "heat": 53,
+          "heat": 59,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/control-authentication-with-apim-social.png",
@@ -874,7 +984,7 @@
           "path": "",
           "title": "Control authentication for your APIs with Azure API Management",
           "excerpt": "Discover how to protect your APIs from unauthorized use with API keys and client certificate authentication.",
-          "heat": 53,
+          "heat": 59,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/control-authentication-with-apim-social.png",
@@ -910,116 +1020,6 @@
       ]
     },
     {
-      "path": "_learning/collections/microsoft-learn-az-400-develop-an-instrumentation-strategy.md",
-      "title": "AZ-400: Develop an instrumentation strategy",
-      "excerpt": "Learn how logging, telemetry, and monitoring give you full visibility into what's happening in your environment.\nTake this learning path to help prepare for Exam AZ-400: Designing and Implementing Microsoft DevOps Solutions.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-az-400-develop-an-instrumentation-strategy/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-az-400-develop-an-instrumentation-strategy/",
-      "length": "PT9H39M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "topItems": [
-        {
-          "path": "",
-          "title": "Capture Web Application Logs with App Service Diagnostics Logging",
-          "excerpt": "Learn about how to capture trace output from your Azure web apps. View a live log stream and download logs files for offline analysis.",
-          "heat": 54,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/capture-application-logs-app-service-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "Azure"
-          ]
-        },
-        {
-          "path": "",
-          "title": "Control and organize Azure resources with Azure Resource Manager",
-          "excerpt": "Use Azure Resource Manager to organize resources, enforce standards, and protect critical assets from deletion.",
-          "heat": 88,
-          "type": "course",
-          "topics": [
-            "Azure",
-            "Management Tools"
-          ]
-        },
-        {
-          "path": "",
-          "title": "Introduction to App Center",
-          "excerpt": "Explore Azure App services to find ways to simplify creation and integration as you build, distribute, test, and analyze usage of yours apps.",
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/app-center/introduction-to-app-center-badge-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "Azure",
-            "Management Tools"
-          ]
-        },
-        {
-          "path": "",
-          "title": "Azure Spring Cloud workshop",
-          "excerpt": "In this workshop, you'll go through tasks to deploy Spring Boot microservices to Azure Spring Cloud (ASC).",
-          "heat": 50,
-          "type": "course",
-          "topics": [
-            "Azure",
-            "Compute",
-            "Web"
-          ]
-        }
-      ],
-      "size": 12,
-      "heat": 64,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/capture-application-logs-app-service-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Management Tools",
-        "DevOps",
-        "Integration",
-        "IoT",
-        "Security",
-        "Compute",
-        "Web",
-        "Containers",
-        "Serverless",
-        "Blockchain"
-      ]
-    },
-    {
       "path": "_learning/collections/microsoft-learn-manage-security-operations-in-azure.md",
       "title": "Manage security operations in Azure",
       "excerpt": "Learn how to configure security policies and manage security alerts with the tools and services in Azure.",
@@ -1047,7 +1047,7 @@
           "path": "",
           "title": "Security, responsibility, and trust in Azure",
           "excerpt": "Discuss the basic concepts for protecting your infrastructure and data when you work in the cloud. Understand what responsibilities are yours and what Azure takes care of for you.",
-          "heat": 90,
+          "heat": 101,
           "type": "course",
           "topics": [
             "Azure",
@@ -1158,7 +1158,7 @@
           "path": "",
           "title": "Enabling digital transformation",
           "excerpt": "Digital transformation is a wave of business innovation fueled by the explosion of technology—data, applications, and devices are everywhere. The cloud, artificial intelligence (AI), and the internet of things (IoT) give organizations new ways to make sense of information and generate insights to transform their business. Realizing the benefits of digital transformation requires business leaders to look beyond technology to reimagine existing business models and embrace a different way of bringing together people, data, and processes to create value for customers.",
-          "heat": 58,
+          "heat": 62,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/enable-digital-transformation-social.png",
@@ -1451,7 +1451,7 @@
           "path": "",
           "title": "Remotely monitor and control devices with Azure IoT Hub",
           "excerpt": "Create an IoT Hub device app, and a back-end service app. As a scenario, we use the monitoring, and controlling, of the temperature and humidity of a cheese cave.",
-          "heat": 51,
+          "heat": 50,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/iot/remotely-monitor-and-control-devices-with-azure-iot-hub-social.png",
@@ -1468,7 +1468,7 @@
         }
       ],
       "size": 6,
-      "heat": 61,
+      "heat": 60,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/iot/automatically-provision-iot-devices-securely-at-scale-with-dps-social.png",
@@ -1570,6 +1570,49 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-control-authentication-with-apim.md",
+      "title": "Control authentication for your APIs with Azure API Management",
+      "excerpt": "Discover how to protect your APIs from unauthorized use with API keys and client certificate authentication.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-control-authentication-with-apim/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/control-authentication-with-apim/",
+      "length": "PT55M",
+      "ratings": {
+        "count": 1447,
+        "average": 4.6434
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 59,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/control-authentication-with-apim-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Integration",
+        "Web"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-implement-message-workflows-with-service-bus.md",
       "title": "Implement message-based communication workflows with Azure Service Bus",
       "excerpt": "Discover how to write code in .NET applications using Azure Service Bus for communications that can handle high demand, low bandwidth, and hardware failures.",
@@ -1654,8 +1697,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/publish-manage-apis-with-azure-api-management/",
       "length": "PT38M",
       "ratings": {
-        "count": 1090,
-        "average": 4.6623855
+        "count": 1091,
+        "average": 4.662695
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1676,49 +1719,6 @@
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/publish-manage-apis-with-azure-api-management-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Integration",
-        "Web"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-control-authentication-with-apim.md",
-      "title": "Control authentication for your APIs with Azure API Management",
-      "excerpt": "Discover how to protect your APIs from unauthorized use with API keys and client certificate authentication.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-control-authentication-with-apim/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/control-authentication-with-apim/",
-      "length": "PT55M",
-      "ratings": {
-        "count": 1447,
-        "average": 4.6434
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 53,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/control-authentication-with-apim-social.png",
           "width": 800,
           "height": 400,
           "isCached": true

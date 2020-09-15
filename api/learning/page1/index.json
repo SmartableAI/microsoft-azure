@@ -11,8 +11,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/principles-cloud-computing/",
       "length": "PT1H2M",
       "ratings": {
-        "count": 163634,
-        "average": 4.771979
+        "count": 163669,
+        "average": 4.771985
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -97,7 +97,7 @@
           "path": "",
           "title": "Core Cloud Services - Azure architecture and service guarantees",
           "excerpt": "Learn about the Azure global network of physical datacenters, the physical architecture of Azure, how redundancy is provided, and Microsoft service guarantees.",
-          "heat": 98,
+          "heat": 109,
           "type": "course",
           "topics": [
             "Azure"
@@ -184,7 +184,7 @@
           "path": "",
           "title": "Core Cloud Services - Azure architecture and service guarantees",
           "excerpt": "Learn about the Azure global network of physical datacenters, the physical architecture of Azure, how redundancy is provided, and Microsoft service guarantees.",
-          "heat": 98,
+          "heat": 109,
           "type": "course",
           "topics": [
             "Azure"
@@ -219,8 +219,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/create-an-azure-account/",
       "length": "PT39M",
       "ratings": {
-        "count": 130201,
-        "average": 4.6959085
+        "count": 130223,
+        "average": 4.695945
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -239,179 +239,6 @@
       ],
       "heat": 149,
       "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Management Tools"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-create-release-pipeline.md",
-      "title": "Create a release pipeline in Azure Pipelines",
-      "excerpt": "Set up a continuous delivery (CD) pipeline that automates the process of deploying your application.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-create-release-pipeline/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/create-release-pipeline/",
-      "length": "PT1H4M",
-      "ratings": {
-        "count": 956,
-        "average": 4.6778245
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 110,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/azure-devops/create-a-release-pipeline-with-azure-pipelines-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "DevOps"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-work-with-mlflow-azure-databricks.md",
-      "title": "Work with MLflow in Azure Databricks",
-      "excerpt": "Work with MLflow in Azure Databricks",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-work-with-mlflow-azure-databricks/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/work-with-mlflow-azure-databricks/",
-      "length": "PT33M",
-      "ratings": {
-        "count": 20,
-        "average": 4.7
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 110,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/work-with-mlflow-azure-databricks-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Analytics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_learning/collections/microsoft-learn-implement-resource-management-security-in-azure.md",
-      "title": "Implement resource management security in Azure",
-      "excerpt": "Learn how to secure resources using policy, role-based access control, and other Azure services",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-implement-resource-management-security-in-azure/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-implement-resource-management-security-in-azure/",
-      "length": "PT4H16M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner",
-        "Intermediate"
-      ],
-      "topItems": [
-        {
-          "path": "",
-          "title": "Security, responsibility, and trust in Azure",
-          "excerpt": "Discuss the basic concepts for protecting your infrastructure and data when you work in the cloud. Understand what responsibilities are yours and what Azure takes care of for you.",
-          "heat": 90,
-          "type": "course",
-          "topics": [
-            "Azure",
-            "Identity"
-          ]
-        },
-        {
-          "path": "",
-          "title": "Apply and monitor infrastructure standards with Azure Policy",
-          "excerpt": "Learn about tools Azure provides for policy and standards management that support your teams' ownership and development of their resources in the cloud.",
-          "heat": 92,
-          "type": "course",
-          "topics": [
-            "Azure",
-            "Management Tools"
-          ]
-        },
-        {
-          "path": "",
-          "title": "Control and organize Azure resources with Azure Resource Manager",
-          "excerpt": "Use Azure Resource Manager to organize resources, enforce standards, and protect critical assets from deletion.",
-          "heat": 88,
-          "type": "course",
-          "topics": [
-            "Azure",
-            "Management Tools"
-          ]
-        },
-        {
-          "path": "",
-          "title": "Secure your Azure resources with role-based access control (RBAC)",
-          "excerpt": "Learn how to use Azure’s role-based access control to effectively manage your team’s access to Azure resources.",
-          "heat": 58,
-          "type": "course",
-          "topics": [
-            "Azure",
-            "Management Tools",
-            "Identity"
-          ]
-        }
-      ],
-      "size": 6,
-      "heat": 108,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/intro-to-security-in-azure-social.png",
-          "width": 200,
-          "height": 200,
-          "title": "Security, responsibility, and trust in Azure",
-          "isCached": true
-        }
-      ],
-      "type": "collection",
       "price": "Free",
       "topics": [
         "Azure",
@@ -446,7 +273,7 @@
           "path": "",
           "title": "Security, responsibility, and trust in Azure",
           "excerpt": "Discuss the basic concepts for protecting your infrastructure and data when you work in the cloud. Understand what responsibilities are yours and what Azure takes care of for you.",
-          "heat": 90,
+          "heat": 101,
           "type": "course",
           "topics": [
             "Azure",
@@ -504,7 +331,7 @@
         }
       ],
       "size": 9,
-      "heat": 108,
+      "heat": 121,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/manage-users-and-groups-in-aad-social.png",
@@ -522,6 +349,253 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-intro-to-compute.md",
+      "title": "Core Cloud Services - Azure compute options",
+      "excerpt": "Explore essential Azure concepts to find out how virtual machines, containers, and apps combined with serverless computing services can fortify your business.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-to-compute/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/intro-to-azure-compute/",
+      "length": "PT38M",
+      "ratings": {
+        "count": 61971,
+        "average": 4.7092834
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 118,
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Compute",
+        "Web",
+        "Containers",
+        "Serverless",
+        "IoT",
+        "Blockchain",
+        "Integration"
+      ]
+    },
+    {
+      "path": "_learning/collections/microsoft-learn-implement-resource-management-security-in-azure.md",
+      "title": "Implement resource management security in Azure",
+      "excerpt": "Learn how to secure resources using policy, role-based access control, and other Azure services",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-implement-resource-management-security-in-azure/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-implement-resource-management-security-in-azure/",
+      "length": "PT4H16M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner",
+        "Intermediate"
+      ],
+      "topItems": [
+        {
+          "path": "",
+          "title": "Security, responsibility, and trust in Azure",
+          "excerpt": "Discuss the basic concepts for protecting your infrastructure and data when you work in the cloud. Understand what responsibilities are yours and what Azure takes care of for you.",
+          "heat": 101,
+          "type": "course",
+          "topics": [
+            "Azure",
+            "Identity"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Apply and monitor infrastructure standards with Azure Policy",
+          "excerpt": "Learn about tools Azure provides for policy and standards management that support your teams' ownership and development of their resources in the cloud.",
+          "heat": 92,
+          "type": "course",
+          "topics": [
+            "Azure",
+            "Management Tools"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Control and organize Azure resources with Azure Resource Manager",
+          "excerpt": "Use Azure Resource Manager to organize resources, enforce standards, and protect critical assets from deletion.",
+          "heat": 88,
+          "type": "course",
+          "topics": [
+            "Azure",
+            "Management Tools"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Secure your Azure resources with role-based access control (RBAC)",
+          "excerpt": "Learn how to use Azure’s role-based access control to effectively manage your team’s access to Azure resources.",
+          "heat": 58,
+          "type": "course",
+          "topics": [
+            "Azure",
+            "Management Tools",
+            "Identity"
+          ]
+        }
+      ],
+      "size": 6,
+      "heat": 110,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/intro-to-security-in-azure-social.png",
+          "width": 200,
+          "height": 200,
+          "title": "Security, responsibility, and trust in Azure",
+          "isCached": true
+        }
+      ],
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Management Tools"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-continuous-data-export-from-iot-central.md",
+      "title": "Set up continuous data export from Azure IoT Central to a Power BI app",
+      "excerpt": "This module covers continuous data export from IoT Central. You use the scenario from your previously completed \"Create your first Azure IoT Central app\" Learn module, where you controlled a refrigerated truck. Here, in this module, you add continuous data export to both Azure Blob storage and an event hub. You then build a Power BI app to read and display the telemetry data on a mobile phone.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-continuous-data-export-from-iot-central/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/continuously-export-data-from-iot-central-power-bi/",
+      "length": "PT1H9M",
+      "ratings": {
+        "count": 43,
+        "average": 4.627907
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 110,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/iot/continuous-data-export-from-iot-central-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "IoT",
+        "Storage",
+        "Analytics"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-create-resource-manager-template-vs-code.md",
+      "title": "Deploy consistent infrastructure in Azure by using Azure Resource Manager (ARM) templates",
+      "excerpt": "Write Azure Resource Manager templates by using Visual Studio Code to deploy your infrastructure to Azure consistently and reliably.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-create-resource-manager-template-vs-code/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/create-azure-resource-manager-template-vs-code/",
+      "length": "PT43M",
+      "ratings": {
+        "count": 22,
+        "average": 4.5454545
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 110,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/create-azure-resource-manager-template-vs-code-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Management Tools"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-explore-azure-infrastructure.md",
+      "title": "Core Cloud Services - Azure architecture and service guarantees",
+      "excerpt": "Learn about the Azure global network of physical datacenters, the physical architecture of Azure, how redundancy is provided, and Microsoft service guarantees.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-explore-azure-infrastructure/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/explore-azure-infrastructure/",
+      "length": "PT45M",
+      "ratings": {
+        "count": 65777,
+        "average": 4.7129087
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 109,
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-intro-to-data-in-azure.md",
       "title": "Core Cloud Services - Azure data storage options",
       "excerpt": "In this module, we'll explore the benefits of Azure data storage services versus on-premises storage.",
@@ -529,8 +603,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/intro-to-data-in-azure/",
       "length": "PT25M",
       "ratings": {
-        "count": 53829,
-        "average": 4.7334523
+        "count": 53833,
+        "average": 4.7334347
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -767,6 +841,40 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-introduction-to-security.md",
+      "title": "Security, responsibility, and trust in Azure",
+      "excerpt": "Discuss the basic concepts for protecting your infrastructure and data when you work in the cloud. Understand what responsibilities are yours and what Azure takes care of for you.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-introduction-to-security/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/intro-to-security-in-azure/",
+      "length": "PT1H16M",
+      "ratings": {
+        "count": 43431,
+        "average": 4.7023554
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 101,
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Identity"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-welcome-to-azure.md",
       "title": "Core Cloud Services - Introduction to Azure",
       "excerpt": "Create your first virtual machine as you discover the power of Azure cloud computing and storage, along with services that help you explore new software paradigms.",
@@ -774,7 +882,7 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/welcome-to-azure/",
       "length": "PT36M",
       "ratings": {
-        "count": 64997,
+        "count": 65002,
         "average": 4.7998524
       },
       "provider": {
@@ -801,55 +909,15 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-intro-to-compute.md",
-      "title": "Core Cloud Services - Azure compute options",
-      "excerpt": "Explore essential Azure concepts to find out how virtual machines, containers, and apps combined with serverless computing services can fortify your business.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-to-compute/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/intro-to-azure-compute/",
-      "length": "PT38M",
+      "path": "_learning/courses/microsoft-learn-tour-azure-portal-features.md",
+      "title": "Core Cloud Services - Manage services with the Azure portal",
+      "excerpt": "Get acquainted with the Azure cloud platform through the Azure portal, where you create and manage all of your Azure resources.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-tour-azure-portal-features/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/tour-azure-portal/",
+      "length": "PT1H13M",
       "ratings": {
-        "count": 61960,
-        "average": 4.709296
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 100,
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Compute",
-        "Web",
-        "Containers",
-        "Serverless",
-        "IoT",
-        "Blockchain",
-        "Integration"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-explore-azure-infrastructure.md",
-      "title": "Core Cloud Services - Azure architecture and service guarantees",
-      "excerpt": "Learn about the Azure global network of physical datacenters, the physical architecture of Azure, how redundancy is provided, and Microsoft service guarantees.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-explore-azure-infrastructure/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/explore-azure-infrastructure/",
-      "length": "PT45M",
-      "ratings": {
-        "count": 65768,
-        "average": 4.7128997
+        "count": 49362,
+        "average": 4.7069407
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -870,7 +938,8 @@
       "type": "course",
       "price": "Free",
       "topics": [
-        "Azure"
+        "Azure",
+        "Management Tools"
       ]
     },
     {
@@ -922,7 +991,7 @@
           "path": "",
           "title": "Fundamentals of computer networking",
           "excerpt": "You'll learn the fundamental principles of computer networking to prepare you for the Azure admin and developer learning paths.",
-          "heat": 67,
+          "heat": 73,
           "type": "course",
           "topics": [
             "Azure"
@@ -1000,7 +1069,7 @@
           "path": "",
           "title": "Introduction to Linux on Azure",
           "excerpt": "Discover the unique benefits of running Linux on Azure, and how to run Linux-based applications and workloads in the cloud with Azure.",
-          "heat": 53,
+          "heat": 60,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/intro-to-azure-linux-social.png",
@@ -1103,7 +1172,7 @@
           "path": "",
           "title": "Fundamentals of computer networking",
           "excerpt": "You'll learn the fundamental principles of computer networking to prepare you for the Azure admin and developer learning paths.",
-          "heat": 67,
+          "heat": 73,
           "type": "course",
           "topics": [
             "Azure"
@@ -1151,8 +1220,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/intro-to-governance/",
       "length": "PT46M",
       "ratings": {
-        "count": 37221,
-        "average": 4.6294565
+        "count": 37223,
+        "average": 4.6294494
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1178,49 +1247,15 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-introduction-to-security.md",
-      "title": "Security, responsibility, and trust in Azure",
-      "excerpt": "Discuss the basic concepts for protecting your infrastructure and data when you work in the cloud. Understand what responsibilities are yours and what Azure takes care of for you.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-introduction-to-security/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/intro-to-security-in-azure/",
-      "length": "PT1H16M",
+      "path": "_learning/courses/microsoft-learn-predict-costs-and-optimize-spending.md",
+      "title": "Predict costs and optimize spending for Azure",
+      "excerpt": "Discover how to use Azure pricing calculator, Azure Cost Management, and Azure Advisor to predict and manage cloud expenses.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-predict-costs-and-optimize-spending/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/predict-costs-and-optimize-spending/",
+      "length": "PT1H14M",
       "ratings": {
-        "count": 43428,
-        "average": 4.702335
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 90,
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Identity"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-tour-azure-portal-features.md",
-      "title": "Core Cloud Services - Manage services with the Azure portal",
-      "excerpt": "Get acquainted with the Azure cloud platform through the Azure portal, where you create and manage all of your Azure resources.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-tour-azure-portal-features/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/tour-azure-portal/",
-      "length": "PT1H13M",
-      "ratings": {
-        "count": 49361,
-        "average": 4.7069345
+        "count": 39394,
+        "average": 4.714398
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1253,8 +1288,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/control-and-organize-with-azure-resource-manager/",
       "length": "PT46M",
       "ratings": {
-        "count": 37457,
-        "average": 4.7123103
+        "count": 37460,
+        "average": 4.712333
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1287,8 +1322,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/introduce-foundation-pillars-devops/",
       "length": "PT25M",
       "ratings": {
-        "count": 1412,
-        "average": 4.6310196
+        "count": 1414,
+        "average": 4.6301274
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1320,8 +1355,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/intro-to-azure-networking/",
       "length": "PT28M",
       "ratings": {
-        "count": 42505,
-        "average": 4.764475
+        "count": 42508,
+        "average": 4.7644916
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1373,7 +1408,7 @@
           "path": "",
           "title": "Analyze DevOps Continuous Planning and Continuous Integration",
           "excerpt": "Explore the first two capabilities in the DevOps taxonomy, Continuous Planning and Continuous Integration.",
-          "heat": 64,
+          "heat": 70,
           "type": "course",
           "topics": [
             "Azure"
@@ -1403,7 +1438,7 @@
           "path": "",
           "title": "Explain DevOps Continuous Delivery and Continuous Quality",
           "excerpt": "Explore two capabilities in the DevOps taxonomy, Continuous Delivery and Continuous Quality.",
-          "heat": 65,
+          "heat": 68,
           "type": "course",
           "topics": [
             "Azure"
@@ -1426,40 +1461,6 @@
       "topics": [
         "Azure",
         "DevOps"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-predict-costs-and-optimize-spending.md",
-      "title": "Predict costs and optimize spending for Azure",
-      "excerpt": "Discover how to use Azure pricing calculator, Azure Cost Management, and Azure Advisor to predict and manage cloud expenses.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-predict-costs-and-optimize-spending/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/predict-costs-and-optimize-spending/",
-      "length": "PT1H14M",
-      "ratings": {
-        "count": 39392,
-        "average": 4.7143836
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 84,
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Management Tools"
       ]
     },
     {
@@ -1509,7 +1510,7 @@
           "path": "",
           "title": "Analyze DevOps Continuous Planning and Continuous Integration",
           "excerpt": "Explore the first two capabilities in the DevOps taxonomy, Continuous Planning and Continuous Integration.",
-          "heat": 64,
+          "heat": 70,
           "type": "course",
           "topics": [
             "Azure"
@@ -1519,7 +1520,7 @@
           "path": "",
           "title": "Explain DevOps Continuous Delivery and Continuous Quality",
           "excerpt": "Explore two capabilities in the DevOps taxonomy, Continuous Delivery and Continuous Quality.",
-          "heat": 65,
+          "heat": 68,
           "type": "course",
           "topics": [
             "Azure"
@@ -1527,7 +1528,7 @@
         }
       ],
       "size": 6,
-      "heat": 81,
+      "heat": 84,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/introduce-foundation-pillars-devops-culture-learn-product-social.png",
@@ -1590,7 +1591,7 @@
           "path": "",
           "title": "Analyze DevOps Continuous Planning and Continuous Integration",
           "excerpt": "Explore the first two capabilities in the DevOps taxonomy, Continuous Planning and Continuous Integration.",
-          "heat": 64,
+          "heat": 70,
           "type": "course",
           "topics": [
             "Azure"
@@ -1600,7 +1601,7 @@
           "path": "",
           "title": "Explain DevOps Continuous Delivery and Continuous Quality",
           "excerpt": "Explore two capabilities in the DevOps taxonomy, Continuous Delivery and Continuous Quality.",
-          "heat": 65,
+          "heat": 68,
           "type": "course",
           "topics": [
             "Azure"
@@ -1608,7 +1609,7 @@
         }
       ],
       "size": 6,
-      "heat": 81,
+      "heat": 84,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/introduce-foundation-pillars-devops-culture-learn-product-social.png",
@@ -1671,7 +1672,7 @@
           "path": "",
           "title": "Analyze DevOps Continuous Planning and Continuous Integration",
           "excerpt": "Explore the first two capabilities in the DevOps taxonomy, Continuous Planning and Continuous Integration.",
-          "heat": 64,
+          "heat": 70,
           "type": "course",
           "topics": [
             "Azure"
@@ -1681,7 +1682,7 @@
           "path": "",
           "title": "Explain DevOps Continuous Delivery and Continuous Quality",
           "excerpt": "Explore two capabilities in the DevOps taxonomy, Continuous Delivery and Continuous Quality.",
-          "heat": 65,
+          "heat": 68,
           "type": "course",
           "topics": [
             "Azure"
@@ -1689,7 +1690,7 @@
         }
       ],
       "size": 6,
-      "heat": 81,
+      "heat": 84,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/introduce-foundation-pillars-devops-culture-learn-product-social.png",
@@ -1774,7 +1775,7 @@
           "path": "",
           "title": "Manage virtual machines with the Azure CLI",
           "excerpt": "Learn how to use the cross-platform Azure CLI to create, start, stop, and perform other management tasks related to virtual machines in Azure.",
-          "heat": 55,
+          "heat": 65,
           "type": "course",
           "topics": [
             "Azure",
@@ -1872,7 +1873,7 @@
           "path": "",
           "title": "Manage virtual machines with the Azure CLI",
           "excerpt": "Learn how to use the cross-platform Azure CLI to create, start, stop, and perform other management tasks related to virtual machines in Azure.",
-          "heat": 55,
+          "heat": 65,
           "type": "course",
           "topics": [
             "Azure",

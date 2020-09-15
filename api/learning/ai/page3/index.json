@@ -4,51 +4,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-create-enrichment-pipeline-with-azure-cognitive-search.md",
-      "title": "Create an enrichment pipeline with Azure Cognitive Search",
-      "excerpt": "Use the power of artificial intelligence to enrich your data and find new insights.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-create-enrichment-pipeline-with-azure-cognitive-search/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/create-enrichment-pipeline-azure-cognitive-search/",
-      "length": "PT1H1M",
-      "ratings": {
-        "count": 8,
-        "average": 4.875
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "AI",
-        "Compute",
-        "Serverless",
-        "Storage"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-create-knowledge-store-with-azure-cognitive-search.md",
       "title": "Create a knowledge store with Azure Cognitive Search",
       "excerpt": "Learn how to persist the output from an Azure Cognitive Search enrichment pipeline for independent analysis or downstream processing.",
@@ -89,49 +44,6 @@
         "Azure",
         "AI",
         "Storage"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-create-production-workloads-azure-databricks-azure-data-factory.md",
-      "title": "Create production workloads on Azure Databricks with Azure Data Factory",
-      "excerpt": "Create production workloads on Azure Databricks with Azure Data Factory",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-create-production-workloads-azure-databricks-azure-data-factory/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/create-production-workloads-azure-databricks-azure-data-factory/",
-      "length": "PT33M",
-      "ratings": {
-        "count": 72,
-        "average": 4.5
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/create-production-workloads-azure-databricks-azure-data-factory-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Analytics",
-        "AI"
       ]
     },
     {
@@ -330,49 +242,6 @@
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/describe-azure-databricks-delta-lake-architecture-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Analytics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-describe-lazy-evaluation-other-performance-features-azure-databricks.md",
-      "title": "Describe lazy evaluation and other performance features in Azure Databricks",
-      "excerpt": "Describe lazy evaluation and other performance features in Azure Databricks",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-describe-lazy-evaluation-other-performance-features-azure-databricks/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/describe-lazy-evaluation-performance-features-azure-databricks/",
-      "length": "PT38M",
-      "ratings": {
-        "count": 71,
-        "average": 4.732394
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/describe-lazy-evaluation-other-performance-features-azure-databricks-social.png",
           "width": 640,
           "height": 320,
           "isCached": true
@@ -898,6 +767,48 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-synthesize-text-input-speech.md",
+      "title": "Synthesize Text Input to Speech",
+      "excerpt": "Learn how to synthesize text to speech using the Speech-to-Text service.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-synthesize-text-input-speech/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/synthesize-text-input-speech/",
+      "length": "PT18M",
+      "ratings": {
+        "count": 187,
+        "average": 4.5882354
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/synthesize-text-input-speech-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "AI"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-train-machine-learning-model.md",
       "title": "Train a machine learning model",
       "excerpt": "Train a machine learning model",
@@ -937,6 +848,90 @@
       "topics": [
         "Azure",
         "Analytics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-transcribe-speech-input-text.md",
+      "title": "Transcribe speech input to text",
+      "excerpt": "Speech to text from the speech service, known as speech recognition, enables real time transcription of audio streams into text. Your applications, tools, or devices can consume, display, and take action on this text as command input.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-transcribe-speech-input-text/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/transcribe-speech-input-text/",
+      "length": "PT27M",
+      "ratings": {
+        "count": 224,
+        "average": 4.669643
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/transcribe-speech-input-text-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "AI"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-translate-speech-speech-service.md",
+      "title": "Translate speech with the speech service",
+      "excerpt": "Perform speech translation tasks with the speech service to translate spoken text to different languages.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-translate-speech-speech-service/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/translate-speech-speech-service/",
+      "length": "PT18M",
+      "ratings": {
+        "count": 181,
+        "average": 4.640884
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/translate-speech-speech-service-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
         "AI"
       ]
     },
@@ -983,49 +978,6 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-work-dataframes-columns-azure-databricks.md",
-      "title": "Work with DataFrames columns in Azure Databricks",
-      "excerpt": "Work with DataFrames columns in Azure Databricks",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-work-dataframes-columns-azure-databricks/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/work-dataframes-columns-azure-databricks/",
-      "length": "PT43M",
-      "ratings": {
-        "count": 78,
-        "average": 4.5897436
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/work-dataframes-columns-azure-databricks-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Analytics",
-        "AI"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-work-with-azure-machine-learning-deploy-serving-models.md",
       "title": "Work with Azure Machine Learning to deploy serving models",
       "excerpt": "Work with Azure Machine Learning to deploy serving models",
@@ -1055,6 +1007,49 @@
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/work-with-azure-machine-learning-deploy-serving-models-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Analytics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-work-with-mlflow-azure-databricks.md",
+      "title": "Work with MLflow in Azure Databricks",
+      "excerpt": "Work with MLflow in Azure Databricks",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-work-with-mlflow-azure-databricks/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/work-with-mlflow-azure-databricks/",
+      "length": "PT33M",
+      "ratings": {
+        "count": 20,
+        "average": 4.7
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/work-with-mlflow-azure-databricks-social.png",
           "width": 640,
           "height": 320,
           "isCached": true
