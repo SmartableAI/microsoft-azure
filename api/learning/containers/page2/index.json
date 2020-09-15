@@ -4,16 +4,12 @@
   "page": 2,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-intro-to-kubernetes.md",
-      "title": "Introduction to Kubernetes",
-      "excerpt": "Get acquainted with the Kubernetes open-source container-orchestration system for automating application deployment, scaling, and management.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-to-kubernetes/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/intro-to-kubernetes/",
-      "length": "PT53M",
-      "ratings": {
-        "count": 475,
-        "average": 4.602105
-      },
+      "path": "_learning/courses/microsoft-learn-design-for-performance-and-scalability.md",
+      "title": "Design for performance and scalability in Azure",
+      "excerpt": "Scaling your system to handle load, identifying network bottlenecks, and optimizing your storage performance are important to ensure your users have the best experience. Learn how to make your application perform at its best.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-design-for-performance-and-scalability/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-for-performance-and-scalability-in-azure/",
+      "length": "48 mins",
       "provider": {
         "name": "Microsoft Learn",
         "domain": "microsoft.com",
@@ -27,14 +23,22 @@
         ]
       },
       "levels": [
-        "Beginner"
+        "Intermediate"
       ],
       "heat": 50,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/introduction-to-kubernetes-social.png",
+          "url": "https://docs.microsoft.com/learn/achievements/design-for-performance-and-scalability-in-azure-social.png",
+          "width": 200,
+          "height": 200,
+          "title": "Design for performance and scalability in Azure",
+          "isCached": true
+        },
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/azure-well-architected-framework-social.png",
           "width": 640,
           "height": 320,
+          "title": "Design for performance and scalability in Azure",
           "isCached": true
         }
       ],
@@ -42,7 +46,11 @@
       "price": "Free",
       "topics": [
         "Azure",
-        "Containers"
+        "Compute",
+        "Databases",
+        "Serverless",
+        "Containers",
+        "Networking"
       ]
     },
     {
@@ -95,8 +103,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/microservices-resiliency-aspnet-core/",
       "length": "PT60M",
       "ratings": {
-        "count": 8,
-        "average": 4.875
+        "count": 9,
+        "average": 4.7777777
       },
       "provider": {
         "name": "Microsoft Learn",

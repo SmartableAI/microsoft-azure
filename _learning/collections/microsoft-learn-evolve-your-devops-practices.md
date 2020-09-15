@@ -4,7 +4,7 @@ excerpt: "DevOps is the union of people, process, and products to enable continu
 type: collection
 price: Free
 length: PT1H57M
-heat: 63
+heat: 68
 
 provider:
   name: Microsoft Learn

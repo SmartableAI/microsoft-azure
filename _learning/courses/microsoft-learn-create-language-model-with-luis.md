@@ -8,7 +8,7 @@ length: PT39M
 ratings:
   count: 176
   average: 4.8125
-heat: 53
+heat: 52
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     height: 400
     isCached: true
 
-secured: "5HJwgqoBu7w9DfEOh7xuqwDH0ADPPYB8BR/4SOtkuIArPmsIbRXloTjFDdGcsBld0RI5bcO5mzmqsVQXrwjsFBBqiffyYsO2juZGyDwIMqqoTmy+hMIZIKaSkyLx7FG8UUJI50T08QYVdnUlrwL4XKmnRHcdxatqQl5U2h0HkW+KJG3DEf+jJeJ5B1R4wPhnZA23UUdjHzoVP0oh9cNiYtj0KLZ0SsdGyOVtnE0Fk5+Vk8P5irri2xzjWhe4CbznC7vAHLgWDIGk6YgDq3DGWDwncdvNHVDE52LY2lsPUJOCJKXj/6Exb7qnVWenwfFXjptAriq14enhxtN3mNcT0RH1farZ6nMP29XmtjU8uUmBi0M67QL+0itfEcgwgzGiGcDNx6H4bvuNKop76j6kzhsxTfnWmVVLMHdrTQ1rPoU=;Pkm1ZhmcCSrTl9bAHky9AA=="
+secured: "WLOo3gQFgeWC1d+Z5Dcw8D17wMrypgNgk8AtmTCJ7cxCMktb+JkR5IhqZV9vyp073csnbQtaHYgq6a0VmtEUe8zBgklkMC9KmR6wE/HjsqjpyVAyJdz+hsTtXZWujBbxKpPJnm9e2LxKhhRdJm1VtENdb93GVGrVDnwMI3bllMCgsax/myTimCKP+X/Ej81iOPmhAGpVswMtN2ep6gxCLGNUjluLATYRPz+/OIcJThh+OoVX8zzT5dOVE5a8eyGQ8x/izu5dCMGnYZSSSqvWEqsrq/idOUNGhjjQg+FjNnx0M76hzPeY/JF2J3EiTTmVEnzgkt6S3tv/NNOuZv3r3PFvCAKwuCCfYcO8cqcWpR1JDNiogzHibWEys9Qiijhy1DTedXOzSG90FAA5RRsCuf2CsS7FMFDqJ49rzdLscEc=;4B34bzNt+bJobi56HUkP3w=="
 ---
 
