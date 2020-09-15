@@ -80,6 +80,22 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "Nebula’s cloud expense solution now available on Microsoft Azure Marketplace"
+    excerpt: "OneView Cloud Expense Management, the latest module available in Nebula’s OneView Technology Expense Management platform, has launched in the Microsoft Azure Marketplace. Given the incredible growth of cloud-based SaaS solutions and the rise of self-serv ..."
+    publishedDateTime: 2020-09-15T07:16:00Z
+    webUrl: "https://www.itweb.co.za/content/dgp45va63yl7X9l8"
+    ampWebUrl: "https://amp.itweb.co.za/content/dgp45va63yl7X9l8"
+    cdnAmpWebUrl: "https://amp-itweb-co-za.cdn.ampproject.org/c/s/amp.itweb.co.za/content/dgp45va63yl7X9l8"
+    type: article
+    provider:
+      name: ITWeb
+      domain: itweb.co.za
+    quality: 54
+    images:
+      - url: "https://www.itweb.co.za/static/pictures/2020/09/Nebula-15-Sept.jpg"
+        width: 816
+        height: 459
+        isCached: true
   - title: "eBaoCloud InsureMO is Now Available in the Microsoft Azure Marketplace"
     excerpt: "SHANGHAI, May 20, 2020 /PRNewswire/ -- eBaoTech Corporation today announced the availability of eBaoCloud ® InsureMO ® in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure. eBaoTech's customers can now take advantage of the productive and trusted Azure cloud platform, with streamlined ..."
     publishedDateTime: 2020-05-20T15:30:00Z

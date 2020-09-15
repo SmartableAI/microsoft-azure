@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/amplofly40-now-available
 webUrl: "https://www.marketwatch.com/press-release/amplofly40-now-available-on-microsoft-appsource-and-azure-marketplace-2020-08-21"
 type: article
 quality: 77
-heat: 637
+heat: 657
 published: true
 
 provider:
@@ -71,6 +71,22 @@ related:
       - url: "https://www.exchangewire.com/wp-content/uploads/2019/12/adverity-logo.jpg"
         width: 400
         height: 400
+        isCached: true
+  - title: "Nebula’s cloud expense solution now available on Microsoft Azure Marketplace"
+    excerpt: "OneView Cloud Expense Management, the latest module available in Nebula’s OneView Technology Expense Management platform, has launched in the Microsoft Azure Marketplace. Given the incredible growth of cloud-based SaaS solutions and the rise of self-serv ..."
+    publishedDateTime: 2020-09-15T07:16:00Z
+    webUrl: "https://www.itweb.co.za/content/dgp45va63yl7X9l8"
+    ampWebUrl: "https://amp.itweb.co.za/content/dgp45va63yl7X9l8"
+    cdnAmpWebUrl: "https://amp-itweb-co-za.cdn.ampproject.org/c/s/amp.itweb.co.za/content/dgp45va63yl7X9l8"
+    type: article
+    provider:
+      name: ITWeb
+      domain: itweb.co.za
+    quality: 54
+    images:
+      - url: "https://www.itweb.co.za/static/pictures/2020/09/Nebula-15-Sept.jpg"
+        width: 816
+        height: 459
         isCached: true
   - title: "Nozomi Networks OT and IoT Security Solutions Now Available in the Microsoft Azure Marketplace"
     excerpt: "Sajan Parihar, Senior Director, Microsoft Azure Platform at Microsoft Corp said, “We’re pleased to welcome Nozomi Networks to the Microsoft Azure Marketplace, which gives our partners great ..."

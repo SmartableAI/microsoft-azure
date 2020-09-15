@@ -1,26 +1,28 @@
 ---
 category: news
-title: "Buurst SoftNAS is now available in the Microsoft Azure Marketplace"
-excerpt: "Buurst announced the availability of SoftNAS in the Microsoft Azure Marketplace, with streamlined deployment and management."
-publishedDateTime: 2020-09-01T23:48:00Z
-originalUrl: "https://www.helpnetsecurity.com/2020/09/02/buurst-microsoft-azure/"
-webUrl: "https://www.helpnetsecurity.com/2020/09/02/buurst-microsoft-azure/"
+title: "Nebula’s cloud expense solution now available on Microsoft Azure Marketplace"
+excerpt: "OneView Cloud Expense Management, the latest module available in Nebula’s OneView Technology Expense Management platform, has launched in the Microsoft Azure Marketplace. Given the incredible growth of cloud-based SaaS solutions and the rise of self-serv ..."
+publishedDateTime: 2020-09-15T07:16:00Z
+originalUrl: "https://www.itweb.co.za/content/dgp45va63yl7X9l8"
+webUrl: "https://www.itweb.co.za/content/dgp45va63yl7X9l8"
+ampWebUrl: "https://amp.itweb.co.za/content/dgp45va63yl7X9l8"
+cdnAmpWebUrl: "https://amp-itweb-co-za.cdn.ampproject.org/c/s/amp.itweb.co.za/content/dgp45va63yl7X9l8"
 type: article
-quality: 37
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: Help Net Security
-  domain: helpnetsecurity.com
+  name: ITWeb
+  domain: itweb.co.za
 
 topics:
   - Azure
 
 images:
-  - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/08/31114057/insecure-66a.jpg"
-    width: 304
-    height: 405
+  - url: "https://www.itweb.co.za/static/pictures/2020/09/Nebula-15-Sept.jpg"
+    width: 816
+    height: 459
     isCached: true
 
 related:
@@ -81,22 +83,6 @@ related:
       - url: "https://www.exchangewire.com/wp-content/uploads/2019/12/adverity-logo.jpg"
         width: 400
         height: 400
-        isCached: true
-  - title: "Nebula’s cloud expense solution now available on Microsoft Azure Marketplace"
-    excerpt: "OneView Cloud Expense Management, the latest module available in Nebula’s OneView Technology Expense Management platform, has launched in the Microsoft Azure Marketplace. Given the incredible growth of cloud-based SaaS solutions and the rise of self-serv ..."
-    publishedDateTime: 2020-09-15T07:16:00Z
-    webUrl: "https://www.itweb.co.za/content/dgp45va63yl7X9l8"
-    ampWebUrl: "https://amp.itweb.co.za/content/dgp45va63yl7X9l8"
-    cdnAmpWebUrl: "https://amp-itweb-co-za.cdn.ampproject.org/c/s/amp.itweb.co.za/content/dgp45va63yl7X9l8"
-    type: article
-    provider:
-      name: ITWeb
-      domain: itweb.co.za
-    quality: 54
-    images:
-      - url: "https://www.itweb.co.za/static/pictures/2020/09/Nebula-15-Sept.jpg"
-        width: 816
-        height: 459
         isCached: true
   - title: "Nozomi Networks OT and IoT Security Solutions Now Available in the Microsoft Azure Marketplace"
     excerpt: "Sajan Parihar, Senior Director, Microsoft Azure Platform at Microsoft Corp said, “We’re pleased to welcome Nozomi Networks to the Microsoft Azure Marketplace, which gives our partners great ..."
@@ -246,6 +232,20 @@ related:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
+        isCached: true
+  - title: "Buurst SoftNAS is now available in the Microsoft Azure Marketplace"
+    excerpt: "Buurst announced the availability of SoftNAS in the Microsoft Azure Marketplace, with streamlined deployment and management."
+    publishedDateTime: 2020-09-01T23:48:00Z
+    webUrl: "https://www.helpnetsecurity.com/2020/09/02/buurst-microsoft-azure/"
+    type: article
+    provider:
+      name: Help Net Security
+      domain: helpnetsecurity.com
+    quality: 37
+    images:
+      - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/08/31114057/insecure-66a.jpg"
+        width: 304
+        height: 405
         isCached: true
   - title: "Call Journey Now Available in Microsoft Azure Marketplace and App Source"
     excerpt: "Call Journey, provider of market-leading Conversation Analytics technology, announces its listing in the Microsoft Azure Marketplace and AppSource online stores for Microsoft customers providing ..."
@@ -403,6 +403,6 @@ related:
       domain: arnnet.com.au
     quality: 16
 
-secured: "6jAbtVpPfHKUnZ8tsSXtkP+ysxxDeCOLrPwzfAQ/th4A0P+SVBLHMs1zVN9WCpjK8sMRWKrQSBU6GI8uw86ci9yV2nCv6nbdMHjrpB7dRXIWrZWYTDNUw8WHyPA5EIweyKlNXobVZxX9GddvRH/RTAcngtsak+r+bl9WaPg0Hhh3Z6HgS6kkEEapATHrqRQVhZe0ftiZN3kpwJge29YtLG+NsPJjXIeyg9iF1lc6/WT+KDLJXv6kCtXk+OMie6smp2y3F0v7N1U/D1adnSM9IpwVO3f204uzsKbsgNKHBGGvwPBa9EanVxSWfV+fgCFOTccGb3X1980Y8D+gNww8DpwxuzDSBOG8caC7RJdfTzsKk385qHRPJ6Ki48Z/kkgzmRozepkst6vT3vEQsiR2UCkw+uXu7qzs7j4Ox+qMjgSy/IjlEOcLjYMnDrQsbXG/tZrEtkP02xRnhKEiG0+V7RJp/mdr5a4nNhXYlmHYAhYadRSGRKej5yAfnf03TkfJ7PNwHz0tg8Op+uc2Xgt/s6cvqX8eNTSxT5ZuGJ5Rdes=;921VdrSsDmR0dVdvgq2zKg=="
+secured: "XqFBDm7evNepDMY665PG+KDHC1nfhT9tcGxnfaBm7j4wWahRnI0vmiUjAHfwqZtoZodFqFB9k+Xn5tHMRL6d9Q4qEcPuob7V/6YtaaqR97SBuqcltix0DN8mKzUuJNpAIaeL9RxTLbUyL4iUORPmBLAK3ldGgsQZ8TtdzItqhg0tedBUU5WOiN+CAEVwYgrdcnlZfDhNF5H1NPKwDp2lU1xVYvd5T7Vrv+bqK6AYHGD5ONQp2ri+bTAjeQ5qzM787ugY8Yx201TOzZDvttOq2I/D0KDq6bSTNpScK6hDcgxgB6/Lba0wL5F5lKGkIVuvc3lP5fxzFtGPqh6TOp+R1tKOViqZUH6quClWNfuWAVw=;kggsXrACPtW/l8AyXFJ/ug=="
 ---
 
