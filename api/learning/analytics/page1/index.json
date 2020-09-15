@@ -4,49 +4,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-work-dataframes-azure-databricks.md",
-      "title": "Work with DataFrames in Azure Databricks",
-      "excerpt": "Work with DataFrames in Azure Databricks",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-work-dataframes-azure-databricks/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/work-dataframes-azure-databricks/",
-      "length": "PT46M",
-      "ratings": {
-        "count": 127,
-        "average": 4.6929135
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 113,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/work-dataframes-azure-databricks-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Analytics",
-        "AI"
-      ]
-    },
-    {
       "path": "_learning/collections/microsoft-learn-secure-your-cloud-data-in-azure-learning-path.md",
       "title": "Secure your cloud data in Azure learning path",
       "excerpt": "This learning path helps you leverage the built-in Azure services for securing app data, ensuring that only authorized services and clients have access.",
@@ -929,7 +886,7 @@
           "path": "",
           "title": "Work with DataFrames in Azure Databricks",
           "excerpt": "Work with DataFrames in Azure Databricks",
-          "heat": 113,
+          "heat": 53,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/work-dataframes-azure-databricks-social.png",
@@ -947,7 +904,7 @@
         }
       ],
       "size": 15,
-      "heat": 64,
+      "heat": 63,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/describe-azure-databricks-social.png",
@@ -1051,7 +1008,7 @@
           "path": "",
           "title": "Work with DataFrames in Azure Databricks",
           "excerpt": "Work with DataFrames in Azure Databricks",
-          "heat": 113,
+          "heat": 53,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/work-dataframes-azure-databricks-social.png",
@@ -1069,7 +1026,7 @@
         }
       ],
       "size": 12,
-      "heat": 64,
+      "heat": 63,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/describe-azure-databricks-social.png",
@@ -1364,8 +1321,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/design-azure-sql-data-warehouse/",
       "length": "PT47M",
       "ratings": {
-        "count": 2647,
-        "average": 4.5753684
+        "count": 2648,
+        "average": 4.575151
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1406,8 +1363,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/enable-reliable-messaging-for-big-data-apps-using-event-hubs/",
       "length": "PT56M",
       "ratings": {
-        "count": 1771,
-        "average": 4.448334
+        "count": 1773,
+        "average": 4.4489565
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1440,8 +1397,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/read-write-data-azure-databricks/",
       "length": "PT60M",
       "ratings": {
-        "count": 179,
-        "average": 4.541899
+        "count": 180,
+        "average": 4.538889
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1748,8 +1705,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/query-azure-sql-data-warehouse/",
       "length": "PT60M",
       "ratings": {
-        "count": 1364,
-        "average": 4.6319647
+        "count": 1365,
+        "average": 4.6322346
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1833,8 +1790,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/transform-data-with-azure-stream-analytics/",
       "length": "PT49M",
       "ratings": {
-        "count": 1234,
-        "average": 4.56564
+        "count": 1235,
+        "average": 4.565182
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1865,6 +1822,49 @@
       "topics": [
         "Azure",
         "Analytics"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-work-dataframes-azure-databricks.md",
+      "title": "Work with DataFrames in Azure Databricks",
+      "excerpt": "Work with DataFrames in Azure Databricks",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-work-dataframes-azure-databricks/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/work-dataframes-azure-databricks/",
+      "length": "PT46M",
+      "ratings": {
+        "count": 127,
+        "average": 4.6929135
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/work-dataframes-azure-databricks-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Analytics",
+        "AI"
       ]
     },
     {
@@ -1918,8 +1918,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/work-dataframes-columns-azure-databricks/",
       "length": "PT43M",
       "ratings": {
-        "count": 78,
-        "average": 4.5897436
+        "count": 79,
+        "average": 4.594937
       },
       "provider": {
         "name": "Microsoft Learn",

@@ -11,8 +11,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/principles-cloud-computing/",
       "length": "PT1H2M",
       "ratings": {
-        "count": 163809,
-        "average": 4.7719235
+        "count": 163841,
+        "average": 4.7719193
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -219,8 +219,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/create-an-azure-account/",
       "length": "PT39M",
       "ratings": {
-        "count": 130306,
-        "average": 4.695862
+        "count": 130324,
+        "average": 4.6958733
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -356,8 +356,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/intro-to-azure-compute/",
       "length": "PT38M",
       "ratings": {
-        "count": 62011,
-        "average": 4.7092614
+        "count": 62022,
+        "average": 4.7092323
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -386,49 +386,6 @@
         "IoT",
         "Blockchain",
         "Integration"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-work-dataframes-azure-databricks.md",
-      "title": "Work with DataFrames in Azure Databricks",
-      "excerpt": "Work with DataFrames in Azure Databricks",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-work-dataframes-azure-databricks/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/work-dataframes-azure-databricks/",
-      "length": "PT46M",
-      "ratings": {
-        "count": 127,
-        "average": 4.6929135
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 113,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/work-dataframes-azure-databricks-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Analytics",
-        "AI"
       ]
     },
     {
@@ -520,15 +477,15 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-improve-reliability-failure.md",
-      "title": "Improve your reliability with modern operations practices: Learning from failure",
-      "excerpt": "Learn about post-incident reviews, a practice necessary to help you sustainably achieve the appropriate level of reliability in your systems, services, and products.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-improve-reliability-failure/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/improve-reliability-failure/",
-      "length": "PT34M",
+      "path": "_learning/courses/microsoft-learn-deploy-docker.md",
+      "title": "Automate Docker container deployments with Azure Pipelines",
+      "excerpt": "Implement a CI/CD pipeline for Docker containers.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-deploy-docker/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/deploy-docker/",
+      "length": "PT46M",
       "ratings": {
-        "count": 81,
-        "average": 4.6790123
+        "count": 249,
+        "average": 4.682731
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -548,7 +505,7 @@
       "heat": 110,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/improve-reliability-failure-social.png",
+          "url": "https://docs.microsoft.com/learn/achievements/azure-devops/deploy-docker-social.png",
           "width": 640,
           "height": 320,
           "isCached": true
@@ -557,7 +514,45 @@
       "type": "course",
       "price": "Free",
       "topics": [
-        "Azure"
+        "Azure",
+        "DevOps"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-design-a-geographically-distributed-application.md",
+      "title": "Design a geographically distributed application",
+      "excerpt": "Build an application that spans multiple geographic locations for high availability and resiliency.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-design-a-geographically-distributed-application/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/design-a-geographically-distributed-application/",
+      "length": "PT34M",
+      "ratings": {
+        "count": 532,
+        "average": 4.661654
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Advanced"
+      ],
+      "heat": 110,
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Networking",
+        "Web",
+        "Compute",
+        "Databases"
       ]
     },
     {
@@ -568,8 +563,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/explore-azure-infrastructure/",
       "length": "PT45M",
       "ratings": {
-        "count": 65824,
-        "average": 4.71284
+        "count": 65834,
+        "average": 4.7128687
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -601,8 +596,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/intro-to-data-in-azure/",
       "length": "PT25M",
       "ratings": {
-        "count": 53868,
-        "average": 4.733385
+        "count": 53873,
+        "average": 4.733373
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -846,8 +841,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/intro-to-security-in-azure/",
       "length": "PT1H16M",
       "ratings": {
-        "count": 43456,
-        "average": 4.7023654
+        "count": 43463,
+        "average": 4.7023215
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -880,8 +875,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/welcome-to-azure/",
       "length": "PT36M",
       "ratings": {
-        "count": 65034,
-        "average": 4.799782
+        "count": 65042,
+        "average": 4.799791
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -914,8 +909,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/tour-azure-portal/",
       "length": "PT1H13M",
       "ratings": {
-        "count": 49395,
-        "average": 4.7068124
+        "count": 49399,
+        "average": 4.706836
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1218,8 +1213,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/intro-to-governance/",
       "length": "PT46M",
       "ratings": {
-        "count": 37241,
-        "average": 4.629441
+        "count": 37242,
+        "average": 4.629451
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1252,8 +1247,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/predict-costs-and-optimize-spending/",
       "length": "PT1H14M",
       "ratings": {
-        "count": 39417,
-        "average": 4.714438
+        "count": 39418,
+        "average": 4.71442
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1286,8 +1281,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/control-and-organize-with-azure-resource-manager/",
       "length": "PT46M",
       "ratings": {
-        "count": 37481,
-        "average": 4.7123876
+        "count": 37482,
+        "average": 4.712395
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1320,8 +1315,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/introduce-foundation-pillars-devops/",
       "length": "PT25M",
       "ratings": {
-        "count": 1438,
-        "average": 4.6335187
+        "count": 1450,
+        "average": 4.634483
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1353,8 +1348,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/intro-to-azure-networking/",
       "length": "PT28M",
       "ratings": {
-        "count": 42539,
-        "average": 4.764522
+        "count": 42544,
+        "average": 4.764479
       },
       "provider": {
         "name": "Microsoft Learn",
