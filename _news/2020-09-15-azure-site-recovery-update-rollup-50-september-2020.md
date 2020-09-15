@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Azure Site Recovery update rollup 49 - August 2020"
-excerpt: "The latest Azure Site Recovery update provides fixes and download links for Site Recovery components."
-publishedDateTime: 2020-08-19T19:00:04Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/site-recovery-update-rollup-49-august-2020/"
-webUrl: "https://azure.microsoft.com/en-us/updates/site-recovery-update-rollup-49-august-2020/"
+title: "Azure Site Recovery update rollup 50 - September 2020"
+excerpt: "The latest Azure Site Recovery update provides provides fixes, updated Linux support for the Mobility service, and download links for Site Recovery components."
+publishedDateTime: 2020-09-15T20:43:48Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/site-recovery-update-rollup-50-august-2020/"
+webUrl: "https://azure.microsoft.com/en-us/updates/site-recovery-update-rollup-50-august-2020/"
 type: article
 quality: 67
-heat: 147
-published: true
+heat: -1
+published: false
 
 provider:
   name: Microsoft
@@ -22,10 +22,10 @@ topics:
   - Azure
 
 related:
-  - title: "Azure Site Recovery update rollup 50 - September 2020"
-    excerpt: "The latest Azure Site Recovery update provides provides fixes, updated Linux support for the Mobility service, and download links for Site Recovery components."
-    publishedDateTime: 2020-09-15T20:43:48Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/site-recovery-update-rollup-50-august-2020/"
+  - title: "Azure Site Recovery update rollup 49 - August 2020"
+    excerpt: "The latest Azure Site Recovery update provides fixes and download links for Site Recovery components."
+    publishedDateTime: 2020-08-19T19:00:04Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/site-recovery-update-rollup-49-august-2020/"
     type: article
     provider:
       name: Microsoft
@@ -59,6 +59,6 @@ related:
       domain: microsoft.com
     quality: 17
 
-secured: "WgKl+LM3aOWiZWZ/bYym2GrkAxLuSc7q0iLuYsM3UCDQHm+QaNNgI0Upxw6xuhCqZhGXpqxkfh/Exy1ZMELMdVoJgpmWvinqDPQbseTicKzBvMPdS5V6TAxgKr8ao3UiXWMhSS+Zd6ujEQWuUoPxz/Z4iIKFWbZxYBCuJFBgBs8RA9fJf0zKejiT7LqXnSqbVa2Ftxjv4TDJSOFrhr99+LQsRJSve701VbdtyR2pyjmiGZL220vWnh5MciP9eUJPVilYfRuisrXST4fs6UIrmR6z3oi7vhrQiuWpeyswQdDiNvIf8AZF0ZpEtod+Bx/8Z4pNGKcDxoPeWR+AXQmAYw==;DwxLPgOVGvwQFSUnKk/7Jg=="
+secured: "HRx80NlbPRmRr7P4RghSDeBjdO4uyLRP8gGV3mdcBiAsj7jcBmn8c0DnmvcNUhtVi0Z2C65zTgzqnczZbA3bDkHrZu3WpCrBjCC3IEQYtpWokqyMq/sAkiMcEcBiTDiYz/dZE4jeHVF6MOhjVvADwIl7pJbZqleDNVuVpUga4S53G/IT3Z4uEZTnMav9yTugWXx+zzfa+SI8XAKp6MlPLdOggBcJnHs51xXCNHFs2FEqrrizOOLr12YuiZIIv9Et6072VCQmrZ3NWACV97hfxdKPQr4JwIfybmMAzi7KL6PfTE4n9KOMHXYaN2fSntKSIUtYi1GLrXBnfotxublTcgazuxwjv6TUJOdOCXVDfu4=;NLoo9CjNE18Gm1QO/j8JLg=="
 ---
 

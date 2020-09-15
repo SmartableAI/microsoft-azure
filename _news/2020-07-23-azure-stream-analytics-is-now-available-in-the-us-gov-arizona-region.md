@@ -62,6 +62,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 17
+  - title: "Shared disks in Azure Disk Storage are now available"
+    excerpt: "Shared disks are now available in Azure Disk Storage—the only shared block storage in the cloud that supports both Windows and Linux-based clustered or high-availability applications."
+    publishedDateTime: 2020-07-21T16:01:30Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/shared-disks-in-azure-disk-storage-are-now-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 17
   - title: "New general purpose and memory-optimized Azure Virtual Machines with Intel now available"
     excerpt: "Today we're announcing the availability of new general purpose and memory-optimized Azure Virtual Machines based on the 2nd generation Intel Xeon Platinum 8272CL (Cascade Lake). This custom processor runs at a base speed of 2.5GHz and can achieve all-core turbo frequency of 3.4GHz. It features Intel®"
     publishedDateTime: 2020-06-15T09:00:47Z

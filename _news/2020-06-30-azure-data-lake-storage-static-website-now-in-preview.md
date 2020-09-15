@@ -30,19 +30,19 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 17
-  - title: "Azure Functions—Java 8 support on Linux is now in preview"
-    excerpt: ""
-    publishedDateTime: 2020-04-27T15:00:24Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/announcing-java-feature-support-azure-functions/"
+  - title: "Azure Data Lake Storage file snapshots are now in preview"
+    excerpt: "File snapshots for Azure Data Lake Storage is now in preview. Use file snapshots to take an unlimited number of snapshots of your files so that you can have a copy of that file at a point in time. "
+    publishedDateTime: 2020-06-30T20:00:36Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/file-snapshots-for-azure-data-lake-storage-now-in-public-preview/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
     quality: 17
-  - title: "Azure Data Lake Storage file snapshots are now in preview"
-    excerpt: "File snapshots for Azure Data Lake Storage is now in preview. Use file snapshots to take an unlimited number of snapshots of your files so that you can have a copy of that file at a point in time. "
+  - title: "Azure Data Lake Storage immutable storage is now in preview"
+    excerpt: "Immutable storage for Azure Data Lake Storage is now in preview.  Set time-based policies or legal holds on data so that the data becomes non-erasable and non-modifiable.  "
     publishedDateTime: 2020-06-30T20:00:36Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/file-snapshots-for-azure-data-lake-storage-now-in-public-preview/"
+    webUrl: "https://azure.microsoft.com/en-us/updates/immutable-storage-for-azure-data-lake-storage-now-in-public-preview/"
     type: article
     provider:
       name: Microsoft

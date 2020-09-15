@@ -1,13 +1,14 @@
 ---
 category: news
-title: "Firewall support for Azure Relay is now in preview"
-excerpt: ""
-publishedDateTime: 2020-05-18T21:00:04Z
-webUrl: "https://azure.microsoft.com/en-us/updates/firewall-support-for-azure-relay-firewall-is-now-in-preview/"
+title: "NFS 4.1 support for Azure Files is now in preview"
+excerpt: "Azure Files is a distributed cloud file system serving Server Messaging Block (SMB) and REST protocols. Azure Files enables customers to easily lift and shift their legacy workloads to the cloud without any modifications or changes in technology. SMB works on both Windows and UNIX operating systems for"
+publishedDateTime: 2020-09-15T13:00:18Z
+originalUrl: "https://azure.microsoft.com/blog/nfs-41-support-for-azure-files-is-now-in-preview/"
+webUrl: "https://azure.microsoft.com/blog/nfs-41-support-for-azure-files-is-now-in-preview/"
 type: article
-quality: 17
-heat: -1
-published: false
+quality: 87
+heat: 227
+published: true
 
 provider:
   name: Microsoft
@@ -20,21 +21,13 @@ provider:
 topics:
   - Azure
 
+images:
+  - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/f37b1fb4-f41e-42b8-8f88-754f3e8eef0c.jpg"
+    width: 1024
+    height: 489
+    isCached: true
+
 related:
-  - title: "NFS 4.1 support for Azure Files is now in preview"
-    excerpt: "Azure Files is a distributed cloud file system serving Server Messaging Block (SMB) and REST protocols. Azure Files enables customers to easily lift and shift their legacy workloads to the cloud without any modifications or changes in technology. SMB works on both Windows and UNIX operating systems for"
-    publishedDateTime: 2020-09-15T13:00:18Z
-    webUrl: "https://azure.microsoft.com/blog/nfs-41-support-for-azure-files-is-now-in-preview/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 87
-    images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/f37b1fb4-f41e-42b8-8f88-754f3e8eef0c.jpg"
-        width: 1024
-        height: 489
-        isCached: true
   - title: "NFS 3.0 support for Azure Blob storage is now in preview"
     excerpt: "To enable customers to run NFS based applications at scale, we are announcing the preview of NFS 3.0 protocol support for Azure Blob storage. "
     publishedDateTime: 2020-07-27T10:00:03Z
@@ -80,6 +73,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 17
+  - title: "Firewall support for Azure Relay is now in preview"
+    excerpt: ""
+    publishedDateTime: 2020-05-18T21:00:04Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/firewall-support-for-azure-relay-firewall-is-now-in-preview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 17
   - title: ".NET Core support for Azure Analysis Services client libraries is in preview"
     excerpt: "In response to customer feedback, .NET Core support for Azure Analysis Services client libraries is now available in preview. Start building .NET Core applications for modern cross-platform and cloud-oriented environments that target Analysis Services and Microsoft Power BI."
     publishedDateTime: 2020-07-10T00:23:39Z
@@ -90,6 +92,6 @@ related:
       domain: microsoft.com
     quality: 14
 
-secured: "ojZ8hlNM1YzEmYrhOy+efzjqPx4lHDJcp819x86CImWRc/40D1B+Ve5uBroGhIeJjgN2BZkK6f73aXVrDXF7n9ZtpBlr/dy4ZNsg6E/J9sHkB41qomVrg82pOt4MJCJWwdOuX8msEwyK70sQLm2F00iJueczgoPPwziTEVFX7LsmT+XSEKtFVSZAJhFS4z4k+2N1Z2ao02TFCPPzb1l42on0Iz2/tfqHwjBVPqYFxv+syUpumgC+KQH2HndsSrneFCiWgaRtLS7ueTFe+hZ099190IIFI3knFZKyOAYIk+mtr8KHRjebMvhSmDe8zCaelxClKuQYA1ervkgqWY2r4g==;c8FmLMdIkhUY/oP7EM8sbg=="
+secured: "1PunayRNvC03A2Esxa43cgiSvDoJuhDOPeEZoC/kaxqlkvrMbbmvcBD89ACHl1KkDk5vrBrXeTs+aGs5M0yZ68b9cOsSbcz++rRepDkjWMFuX9I4073aCeIA+a8Qua5uyaaKWP+y9/jI94XH/XS2waTKESuXE8RhYErnIjdgXo80AErWc0VynpfRzFQJaRWzdKkWAzaQkRFkZYLclliYkau1HB5MQr3El9Cdt8rOlwQk4IHSp6W7oEMIEMBM7NvRwwd4ZwVHSFH/yreFlX8dHyRvxvKLMV417iDLRUvhyBlBTR6s82DBpwK71JdofAy6fFCHKCzb1bI/fGXuBZWPGHq5ZoXh2434eUdp0WZEBXs=;4k6KpqSjr17yrTzdwwLomA=="
 ---
 

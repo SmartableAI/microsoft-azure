@@ -21,6 +21,15 @@ topics:
   - Azure
 
 related:
+  - title: "Azure Kubernetes Service (AKS) support for containerd runtime is in preview"
+    excerpt: "Azure Kubernetes Service (AKS) now supports creation of clusters and node pools with containerd, an industry-standard container runtime, in preview. Containerd enhances pod creation speed as well as stability. "
+    publishedDateTime: 2020-07-21T16:01:09Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-kubernetes-service-aks-support-for-containerd-runtime-is-in-preview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 15
   - title: "Azure Monitor for containers with Azure Portal now supports Kubernetes resource view"
     excerpt: "Azure monitor for containers with Azure portal now supports new Kubernetes resource view. In this new view you can diagnose the issue by drilling down to resource types including deployments, pods, and replica sets & see historical data trend and overall usage over time."
     publishedDateTime: 2020-08-05T23:00:02Z

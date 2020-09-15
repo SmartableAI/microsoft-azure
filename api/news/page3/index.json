@@ -2,6 +2,55 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-08-17-build-your-own-vm-in-the-cloud-with-microsoft-azure.md",
+      "title": "Build your own VM in the cloud with Microsoft Azure",
+      "excerpt": "Read more about it here. Setting up a virtual machine in Microsoft Azure is a lot easier than you might think. Ed Bott shares his experience and walks you through the process. I just set up two ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/build-your-own-vm-in-the-cloud-with-microsoft-azure/",
+      "originalUrl": "https://www.techrepublic.com/article/build-your-own-vm-in-the-cloud-with-microsoft-azure/",
+      "featuredContent": null,
+      "heat": 137,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr1.cbsistatic.com/hub/i/r/2016/04/14/52bab34b-a72d-46b5-81cb-0879006d68ee/resize/1200x/a9e189dac890bda1fd4365c9248748eb/awindowsazuredashboard.jpg",
+          "width": 1200,
+          "height": 504,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/build-your-own-vm-in-the-cloud-with-microsoft-azure/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/build-your-own-vm-in-the-cloud-with-microsoft-azure/",
+      "publishedDateTime": "2020-08-16T12:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
       "path": "_news/2020-08-14-azure-virtual-machines-dcsv2-series-is-now-available-in-west-us-2.md",
       "title": "Azure Virtual Machines DCsv2-series is now available in West US 2",
       "excerpt": "Confidential computing DCsv2-series virtual machines (VMs) are now available in East US, Canada Central, UK South, West Europe, and West US 2.",
@@ -1111,48 +1160,6 @@
       ],
       "topics": [
         "Azure"
-      ]
-    },
-    {
-      "path": "_news/2020-07-27-nfs-30-support-for-azure-blob-storage-is-now-in-preview.md",
-      "title": "NFS 3.0 support for Azure Blob storage is now in preview",
-      "excerpt": "To enable customers to run NFS based applications at scale, we are announcing the preview of NFS 3.0 protocol support for Azure Blob storage. ",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/blog/nfs-30-support-for-azure-blob-storage-is-now-in-preview/",
-      "originalUrl": "https://azure.microsoft.com/blog/nfs-30-support-for-azure-blob-storage-is-now-in-preview/",
-      "featuredContent": null,
-      "heat": 266,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-27T03:00:03-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure",
-        "Storage",
-        "Management tools"
       ]
     }
   ],

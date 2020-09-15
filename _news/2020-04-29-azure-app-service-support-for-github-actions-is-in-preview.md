@@ -6,7 +6,7 @@ publishedDateTime: 2020-04-29T16:00:01Z
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-app-service-support-for-github-actions-is-in-preview/"
 type: article
 quality: 17
-heat: -1
+heat: 17
 published: false
 
 provider:
@@ -19,35 +19,6 @@ provider:
 
 topics:
   - Azure
-
-related:
-  - title: "Azure Spot support for Azure Kubernetes Service is in preview"
-    excerpt: ""
-    publishedDateTime: 2020-04-15T16:00:02Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-spot-support-for-azure-kubernetes-service-is-in-preview/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 17
-  - title: ".NET Core support for Azure Analysis Services client libraries is in preview"
-    excerpt: "In response to customer feedback, .NET Core support for Azure Analysis Services client libraries is now available in preview. Start building .NET Core applications for modern cross-platform and cloud-oriented environments that target Analysis Services and Microsoft Power BI."
-    publishedDateTime: 2020-07-10T00:23:39Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/net-core-support-for-azure-analysis-services-client-libraries-is-in-preview/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 14
-  - title: "Azure Kubernetes Service (AKS) support for proximity placement groups is now available"
-    excerpt: "Better support for latency-sensitive workloads in critical business scenarios."
-    publishedDateTime: 2020-06-24T16:00:42Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-kubernetes-service-aks-support-for-proximity-placement-groups-is-now-available/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 9
 
 secured: "2xSbkN6QYR++v06/MvcPqKsGnifPfoPvnyS8WnLJBM/KS10W5PH8rcaz9fIWF3e1jU++Db0ORdq0V4zhbfMZOJQlqMdLGFy8XWcozES1pIH9oPwVKeWq2IkNBmzV2ye00Y1n4z6zlpp6eUXKDfxTnGn4faYaOYQKaovfFxP/57VtkWuprwGYlc0fkVeBjucHIMSLtCXlXUNtxB/32Eo/8FBa1NsgQmX24NYskw4igKOkOuhNv1R/aSfZlrX82QWLO8Gb6wb/tSxcj3fayzK7d2sJcF1xZIHmgpEQGRJdHifxB0hYru0mCG30I+Pe5oomxcjDBEzTUfa1mu3VB5Kk4A==;dCqhHrSPdiNlPW9/gxPjzw=="
 ---

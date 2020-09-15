@@ -21,42 +21,74 @@ topics:
   - Azure
 
 related:
-  - title: "Query Acceleration for Azure Data Lake Storage now in preview"
+  - title: "NFS 4.1 support for Azure Files is now in preview"
+    excerpt: "Azure Files is a distributed cloud file system serving Server Messaging Block (SMB) and REST protocols. Azure Files enables customers to easily lift and shift their legacy workloads to the cloud without any modifications or changes in technology. SMB works on both Windows and UNIX operating systems for"
+    publishedDateTime: 2020-09-15T13:00:18Z
+    webUrl: "https://azure.microsoft.com/blog/nfs-41-support-for-azure-files-is-now-in-preview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 87
+    images:
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/f37b1fb4-f41e-42b8-8f88-754f3e8eef0c.jpg"
+        width: 1024
+        height: 489
+        isCached: true
+  - title: "NFS 3.0 support for Azure Blob storage is now in preview"
+    excerpt: "To enable customers to run NFS based applications at scale, we are announcing the preview of NFS 3.0 protocol support for Azure Blob storage. "
+    publishedDateTime: 2020-07-27T10:00:03Z
+    webUrl: "https://azure.microsoft.com/blog/nfs-30-support-for-azure-blob-storage-is-now-in-preview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 86
+  - title: "Change feed support is now generally available for Azure Blob Storage"
+    excerpt: "Change feed support for Microsoft Azure Blob storage is now generally available."
+    publishedDateTime: 2020-09-09T20:04:54Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/change-feed-support-is-now-generally-available-for-azure-blob-storage/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
+  - title: "Azure Time Series Insights now supports AAD groups"
+    excerpt: "Azure Time Series Insights now supports Azure Active Directory groups through access policies."
+    publishedDateTime: 2020-09-11T21:00:13Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/tsi-aad-groups/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
+  - title: "Azure Spot support for Azure Kubernetes Service is in preview"
     excerpt: ""
-    publishedDateTime: 2020-04-24T22:00:07Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/query-acceleration-for-azure-data-lake-storage-now-in-preview/"
+    publishedDateTime: 2020-04-15T16:00:02Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-spot-support-for-azure-kubernetes-service-is-in-preview/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
     quality: 17
-  - title: "Azure Data Lake Storage file snapshots are now in preview"
-    excerpt: "File snapshots for Azure Data Lake Storage is now in preview. Use file snapshots to take an unlimited number of snapshots of your files so that you can have a copy of that file at a point in time. "
-    publishedDateTime: 2020-06-30T20:00:36Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/file-snapshots-for-azure-data-lake-storage-now-in-public-preview/"
+  - title: "Firewall support for Azure Relay is now in preview"
+    excerpt: ""
+    publishedDateTime: 2020-05-18T21:00:04Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/firewall-support-for-azure-relay-firewall-is-now-in-preview/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
     quality: 17
-  - title: "Azure Data Lake Storage static website now in preview"
-    excerpt: "Static website for Azure Data Lake Storage is now in preview. Directly host static content from Azure Data Lake Storage, and view that content from a browser by using the public URL of that website.  "
-    publishedDateTime: 2020-06-30T20:00:35Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/static-website-for-azure-data-lake-storage-now-in-public-preview/"
+  - title: ".NET Core support for Azure Analysis Services client libraries is in preview"
+    excerpt: "In response to customer feedback, .NET Core support for Azure Analysis Services client libraries is now available in preview. Start building .NET Core applications for modern cross-platform and cloud-oriented environments that target Analysis Services and Microsoft Power BI."
+    publishedDateTime: 2020-07-10T00:23:39Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/net-core-support-for-azure-analysis-services-client-libraries-is-in-preview/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 17
-  - title: "Optimize cost and performance with Query Acceleration for Azure Data Lake Storage"
-    excerpt: "The explosion of data-driven decision making is motivating businesses to have a data strategy to provide better customer experiences, improve operational efficiencies, and make real-time decisions based on data. As businesses become data driven, we see more customers build data lakes on Azure. We also"
-    publishedDateTime: 2020-04-23T10:00:10Z
-    webUrl: "https://azure.microsoft.com/blog/optimize-cost-and-performance-with-query-acceleration-for-azure-data-lake-storage/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 12
+    quality: 14
 
 secured: "yA5eiw5VP/SEyF4zBNfu90399daxJ9A1QFgOJlRb88lUwsPbBoAZ2vvHHH+XuBbWd3SDVxkULIwecDEXm4kWUEqssnp10zbwPF8qoVno3Uhi7S6aZdycNIKGEFDXpiFMf+SEMTjdpvpfcdgkjmDctTIXMEa7ZzivWw8mw0mwXA+6UsjgR2dIRe01EJELJZ71zhTaSi06nSPgGgpVd76DBxfLagAOTI4EQHq5SbCVhUZiNrR4UKPru1uApo+aEJ1JK8a/7MkrCDgGH37Z1hrmXhqR28czjHHpRL2uu0POPByEy4cwAP9qYkQpD8I1EjNGgK8EMzMC2mE9+fOWE/RLSg==;0frqSa7DbL/rIH3lMAm23Q=="
 ---

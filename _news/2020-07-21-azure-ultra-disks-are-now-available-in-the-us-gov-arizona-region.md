@@ -53,6 +53,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 17
+  - title: "Shared disks in Azure Disk Storage are now available"
+    excerpt: "Shared disks are now available in Azure Disk Storage—the only shared block storage in the cloud that supports both Windows and Linux-based clustered or high-availability applications."
+    publishedDateTime: 2020-07-21T16:01:30Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/shared-disks-in-azure-disk-storage-are-now-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 17
   - title: "Azure Stream Analytics is now available in the US Gov Arizona region"
     excerpt: "Azure Stream Analytics, a real-time analytics service that is designed for mission-critical workloads, is now available in the US Gov Arizona region. \n"
     publishedDateTime: 2020-07-23T23:00:08Z
