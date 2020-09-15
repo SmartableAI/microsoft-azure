@@ -35,6 +35,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 65
+  - title: "DH2i Announces Support for Microsoft Azure Shared Disks and New Azure Disk Storage Enhancements"
+    excerpt: "Fortunately, with the release of Azure shared disks, this requirement has been met for SQL Server users. Customers that are deploying SQL Server in Azure are now able to create HA instances using shared disks for full instance failover."
+    publishedDateTime: 2020-09-02T07:45:00Z
+    webUrl: "https://www.marketwatch.com/press-release/dh2i-announces-support-for-microsoft-azure-shared-disks-and-new-azure-disk-storage-enhancements-2020-09-01"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 65
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "OQlBqqkjO5h6EhRaBqVCOBaWVKRjY/vV8eCdt8TVuGXPQYRoraD85agNzIvjMxOxPVNM3kMDG4WcmFarXNUFj9znloVF32mtt8ohifqbHYXmzcNjSp2YuXrP9mHsNerIIOx0+kz4i8g90oypmgi4K+/5UcnIRkoHjCVxUtS/jUZRY4AMMV4iyt+lRfc3I+L/sFduwRz8LpTtC7Nah8C5f2UW92LpDxIZ3M50zBUkp2EhGD0neRbhmrGgM/XfzQGIaPDNNvWSHiiAQknYLGufKWJrz1OUNfQJPYn2ErBPfkrJV6O9d2Uir9p4knrVYCRsKT2IblF2PERwgUitgEADdH73RffWOMfJh6qYa1kQSx0=;AzFntdVUyNrj+ZKMwCzxBg=="
 ---
