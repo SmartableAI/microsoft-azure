@@ -35,19 +35,19 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 55
-  - title: "Nutanix On Microsoft Azure: 5 Big Things You Should Know"
-    excerpt: "Nutanix Clusters on Azure is here. Here’s what you need to know about new hybrid cloud offering in terms of support, integration, Azure Arc, Nutanix on AWS and Nutanix-ready nodes."
-    publishedDateTime: 2020-09-09T18:40:00Z
-    webUrl: "https://www.crn.com/slide-shows/cloud/nutanix-on-microsoft-azure-5-big-things-you-should-know"
+  - title: "Tamr Data Mastering Platform Now Available on Microsoft Azure"
+    excerpt: "Sept. 9, 2020 /PRNewswire/ -- Tamr, Inc., the provider of cloud-native data mastering solutions, today announced its cloud-native capabilities on Microsoft Azure. These capabilities allow ..."
+    publishedDateTime: 2020-09-09T14:42:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/tamr-data-mastering-platform-now-available-on-microsoft-azure/article_4688590a-bcaf-571f-9e96-50f6646e354e.html"
     type: article
     provider:
-      name: CRN
-      domain: crn.com
+      name: WFMZ-TV
+      domain: wfmz.com
     quality: 37
     images:
-      - url: "https://www.crn.com/resources/0261-1055c2c7a770-57d96c55ffd9-1000/nutanix-on-azure.jpg"
-        width: 610
-        height: 457
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "CIXcu2pcFg9qcDr60OqzvZDCMHcs9MH7PBjvFD29gGDWLSi+2vTze00UCJdUxRKzYSY3I5fQ1HRJtWpL7EKpmNGCCnH82Y8E3EwVZ+BVz17hk9/brY2dLAjaZaZQTRExcgLICp0IptPvbEDSLkKu+R9bcuzc5VNA6DMsPd5gfel1mDMh0+yA1acecLeGYhfo0+yrDGVzB8Qbh8rQ/504mR9NHFiYEsFyGvKZCNL6kInl/92Q7/zgAxTIgAy7FR79At4P/tpmrGzIdFvepm8uOCMMqrVgBYgdfSFgk8/yE3xYWqAyaaJ7lvlWcsi7NDcsYXBvrdtdgRT6Q/AdObAp2dcPKqrR3dvswl25ZYrOo3YT+JAsKOCimzmJ4Se2ZBQV0P63dyvwp+U/UpOoP7yuQ5XvmsuW5ZKaBqmqEUmXr17b0o32MgpveEHIia83aC9jjNZLMZ32PDSINsaoQWo/0nZTkoneXtmL6H+NM7/w53gu0/us7X10t63JP1aG16+Y4ttQty4m+nCNR4s1Lj8dXHmeVRdvf9PSFFk8hiF5f0s=;idG2zZVib2/A64btpFEN5Q=="

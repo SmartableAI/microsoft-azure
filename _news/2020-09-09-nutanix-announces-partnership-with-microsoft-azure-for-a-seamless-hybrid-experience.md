@@ -2,36 +2,32 @@
 category: news
 title: "Nutanix Announces Partnership with Microsoft Azure for a Seamless Hybrid Experience"
 excerpt: "“We are excited about what the partnership between Nutanix and Microsoft will bring, with Nutanix Clusters for Azure and beyond. I envision this hybrid cloud solution will accelerate our teams ..."
-publishedDateTime: 2020-09-08T12:00:00Z
-originalUrl: "https://www.businesswire.com/news/home/20200908005321/en/"
-webUrl: "https://www.businesswire.com/news/home/20200908005321/en/"
+publishedDateTime: 2020-09-09T09:06:00Z
+originalUrl: "https://www.marketwatch.com/press-release/nutanix-announces-partnership-with-microsoft-azure-for-a-seamless-hybrid-experience-2020-09-08"
+webUrl: "https://www.marketwatch.com/press-release/nutanix-announces-partnership-with-microsoft-azure-for-a-seamless-hybrid-experience-2020-09-08"
 type: article
-quality: 11
-heat: -1
-published: false
+quality: 71
+heat: 151
+published: true
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
 
+images:
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
+    isCached: true
+
 related:
-  - title: "Nutanix Announces Partnership with Microsoft Azure for a Seamless Hybrid Experience"
-    excerpt: "“We are excited about what the partnership between Nutanix and Microsoft will bring, with Nutanix Clusters for Azure and beyond. I envision this hybrid cloud solution will accelerate our teams ..."
-    publishedDateTime: 2020-09-09T09:06:00Z
-    webUrl: "https://www.marketwatch.com/press-release/nutanix-announces-partnership-with-microsoft-azure-for-a-seamless-hybrid-experience-2020-09-08"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 71
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Platform.sh announces expansion of services to Microsoft Azure West US 2 Datacenter Region"
     excerpt: "8, 2020 /PRNewswire/ -- Platform.sh, an end-to-end web platform for agile teams, is pleased to announce the expansion of its services to the West US 2 datacenter region of Microsoft Azure ..."
     publishedDateTime: 2020-09-08T16:12:00Z
@@ -66,7 +62,16 @@ related:
       name: insideHPC
       domain: insidehpc.com
     quality: 17
+  - title: "Nutanix Announces Partnership with Microsoft Azure for a Seamless Hybrid Experience"
+    excerpt: "“We are excited about what the partnership between Nutanix and Microsoft will bring, with Nutanix Clusters for Azure and beyond. I envision this hybrid cloud solution will accelerate our teams ..."
+    publishedDateTime: 2020-09-08T12:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200908005321/en/"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 11
 
-secured: "+gBj37tHZSwSBmxEUc9PsrKaj90LL7sW0inKLE3l12FP0t0sBlBoQzSamoKOKdBw0z8zIs7ESoRqhUggpOkXuuqpi9qvi2pm2+WfeYdRyteR+A0OFMVDVZy8KZc2qLKA/dCDOudOnGwzRLpL1qYmOct0XWvFHmwlGCrCNFlUNqHWi0/0TMCjtSaHpykpAIcdswtG7xv8aE7WC1qJSWcGLms/GCss/0dktCGVOJB4q5FCL8EWKse02NO2AAVPzctN2MqFMomFbP/bh6Lo4WQM3DlrSQ665WlTtZqJcdisYYEfKd+NYbXuMAzxmDKV5tOoD+QN1J5rl5RKYfS+OUVDsl0eEDBae4lMU6NTOSWxD3g=;MgDBMz6gyqbjr4xVN8rAWw=="
+secured: "u7NK7wzQwnSRol+LmdjCuQt6wlX02dGl9c/TSFhS3pmpM11JaU4WOXVkd6CY48RWcVECX1zdX96mOijYYtJsACOxSD6BH152M5UdOS92eJdOd9lwDUc9WBhcoCU37qbOlAzdJERICgNLOCaZH6qkRz/Vmw+KSJIl9ysuQsFs6mrPy/jNdZUE6ZqzF0ZHkSuLjAYnnyu41sSzaJ9HOnKibBHdV5rjLpy18C/fkVjqWacNfDqReWsKXMwRJzEKkjmS0TfZ/3PLKqmc+jWXBdhAmC0TUxlLw8+XUYBO0ZbOhQ57EC2E0mr+1uHijpZIqA4VPWXWuHuvK2J1zf8Xjh6GvtAinxNAfAqY+QC3mRUfIF4=;IktI4xNaWly7y6pP8i7APQ=="
 ---
 

@@ -24,31 +24,49 @@ images:
     isCached: true
 
 related:
-  - title: "Nutanix .NEXT 2020: HCI Clusters Are Now Available on Microsoft Azure"
-    excerpt: "What if you could have all of Nutanix running inside Azure?” said Nutanix CEO Dheeraj Pandey, announcing the news during his keynote address at the Global .NEXT Digital Experience, which runs through Sept."
-    publishedDateTime: 2020-09-08T21:39:00Z
-    webUrl: "https://biztechmagazine.com/article/2020/09/nutanix-next-2020-hci-clusters-are-now-available-microsoft-azure"
-    ampWebUrl: "https://biztechmagazine.com/article/2020/09/nutanix-next-2020-hci-clusters-are-now-available-microsoft-azure?amp"
-    cdnAmpWebUrl: "https://biztechmagazine-com.cdn.ampproject.org/c/s/biztechmagazine.com/article/2020/09/nutanix-next-2020-hci-clusters-are-now-available-microsoft-azure?amp"
+  - title: "Nutanix Announces Partnership with Microsoft Azure for a Seamless Hybrid Experience"
+    excerpt: "“We are excited about what the partnership between Nutanix and Microsoft will bring, with Nutanix Clusters for Azure and beyond. I envision this hybrid cloud solution will accelerate our teams ..."
+    publishedDateTime: 2020-09-09T09:06:00Z
+    webUrl: "https://www.marketwatch.com/press-release/nutanix-announces-partnership-with-microsoft-azure-for-a-seamless-hybrid-experience-2020-09-08"
     type: article
     provider:
-      name: BizTech
-      domain: biztechmagazine.com
-    quality: 57
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 71
     images:
-      - url: "https://biztechmagazine.com/sites/biztechmagazine.com/files/styles/cdw_hero/public/articles/202009/Nutanix-Keynote.jpg?itok=e9WjDTpM"
-        width: 1440
-        height: 500
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Experian’s CrossCore® Is Now Available on Microsoft Azure Active Directory"
-    excerpt: "Customers using Experian’ s digital identity and fraud risk platform, CrossCore ®, can now seamlessly connect with Microsoft Azure Active Directory External Identities. “Businesses need to be able to provide varying levels of authentication based on the level of risk,"
-    publishedDateTime: 2020-09-13T04:16:00Z
-    webUrl: "https://www.nasdaq.com/press-release/experians-crosscorer-is-now-available-on-microsoft-azure-active-directory-2020-09-08"
+  - title: "Platform.sh announces expansion of services to Microsoft Azure West US 2 Datacenter Region"
+    excerpt: "8, 2020 /PRNewswire/ -- Platform.sh, an end-to-end web platform for agile teams, is pleased to announce the expansion of its services to the West US 2 datacenter region of Microsoft Azure ..."
+    publishedDateTime: 2020-09-08T16:12:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/platform-sh-announces-expansion-of-services-to-microsoft-azure-west-us-2-datacenter-region-1029570640"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/platform-sh-announces-expansion-of-services-to-microsoft-azure-west-us-2-datacenter-region-1029570640"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/platform-sh-announces-expansion-of-services-to-microsoft-azure-west-us-2-datacenter-region-1029570640"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 55
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 67
+  - title: "Nutanix Partners with Microsoft Azure for a Seamless Hybrid Experience"
+    excerpt: "SAN JOSE –– Nutanix (NASDAQ: NTNX), a leader in enterprise cloud computing, today announced a new partnership with Microsoft that will enable both companies to deliver a hybrid solution with seamless application,"
+    publishedDateTime: 2020-09-08T20:39:00Z
+    webUrl: "https://insidehpc.com/2020/09/nutanix-partners-with-microsoft-azure-for-a-seamless-hybrid-experience/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 17
+  - title: "Nutanix Announces Partnership with Microsoft Azure for a Seamless Hybrid Experience"
+    excerpt: "“We are excited about what the partnership between Nutanix and Microsoft will bring, with Nutanix Clusters for Azure and beyond. I envision this hybrid cloud solution will accelerate our teams ..."
+    publishedDateTime: 2020-09-08T12:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200908005321/en/"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 11
 
 secured: "AtRwlfFkl1O38Qe2d/5nYi9E9q7jGH1Lca4EAx7Ah3fCBCw6MeGdCgnQZu7iaW5MptkTCvzxX92qYUgPhfM+8q5nxY7rI9cLnQslxXyEn558di/Sa6FESMMJjdgmEji+fxwoSfQ/cH2gPX4Fw6v0yPcrYlYjy3SRcScttC5w4W2/GyXvVtQG9+AE5cxP4N0tthMRJ/a3DFu0vG/26ZTkD/gVOhSD/cFxNeqmpaC0Mz4UBPIlxYmG3GGsw/bjHt+Iz3P1OXfN8f+7ftRD4PUYjWMvG7ew0Hz5ssg/e/8oikWeYPZ0fa/kDKTWBWYqXloKlnK+YOQ3Bg0CcF+PGJkYJXEI1u82H4Oa057h7fqdDyghTpO0PApfv4g1vebC6VdSz+fEpQWr7kAwTYtt9b1aVfUMqig3qcHWY3KREcCSACy5xL7J7FrkhuKcDf/SiBWQAhjmg598mAZv9+QKwuCb+9jZi4T8TSCwQaU3RmfHQvzG7ty5ks+xGoO3tYN3YduX4rRBkEpbW/9wRFki6OZoXNNde1REp+fUQj4C+T0SNBU=;OEwB9PR5AzmmqRISiFAAHA=="
 ---

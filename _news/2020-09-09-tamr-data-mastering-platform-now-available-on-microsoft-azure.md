@@ -1,89 +1,55 @@
 ---
 category: news
 title: "Tamr Data Mastering Platform Now Available on Microsoft Azure"
-excerpt: "PRNewswire/ -- Tamr, Inc., the provider of cloud-native data mastering solutions, today announced its cloud-native capabilities on Microsoft Azure."
-publishedDateTime: 2020-09-09T14:17:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/tamr-data-mastering-platform-now-available-on-microsoft-azure-301126571.html"
-webUrl: "https://www.prnewswire.com/news-releases/tamr-data-mastering-platform-now-available-on-microsoft-azure-301126571.html"
+excerpt: "Sept. 9, 2020 /PRNewswire/ -- Tamr, Inc., the provider of cloud-native data mastering solutions, today announced its cloud-native capabilities on Microsoft Azure. These capabilities allow ..."
+publishedDateTime: 2020-09-09T14:42:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/tamr-data-mastering-platform-now-available-on-microsoft-azure/article_4688590a-bcaf-571f-9e96-50f6646e354e.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/tamr-data-mastering-platform-now-available-on-microsoft-azure/article_4688590a-bcaf-571f-9e96-50f6646e354e.html"
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-    width: 600
-    height: 315
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+    width: 1280
+    height: 720
     isCached: true
 
 related:
-  - title: "dunnhumby Reduces Time to Action for Data Scientists via New Tool on Microsoft Azure"
-    excerpt: "Press Release dunnhumby, the global leader in customer data science, has launched its new web-based application on Microsoft Azure, enabling data scientists to deliver customer insights faster, driving profitability and customer loyalty."
-    publishedDateTime: 2020-09-02T13:48:00Z
-    webUrl: "https://venturebeat.com/2020/09/02/dunnhumby-reduces-time-to-action-for-data-scientists-via-new-tool-on-microsoft-azure/"
-    ampWebUrl: "https://venturebeat.com/2020/09/02/dunnhumby-reduces-time-to-action-for-data-scientists-via-new-tool-on-microsoft-azure/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/02/dunnhumby-reduces-time-to-action-for-data-scientists-via-new-tool-on-microsoft-azure/amp/"
+  - title: "Nutanix .NEXT 2020: HCI Clusters Are Now Available on Microsoft Azure"
+    excerpt: "What if you could have all of Nutanix running inside Azure?” said Nutanix CEO Dheeraj Pandey, announcing the news during his keynote address at the Global .NEXT Digital Experience, which runs through Sept."
+    publishedDateTime: 2020-09-08T21:39:00Z
+    webUrl: "https://biztechmagazine.com/article/2020/09/nutanix-next-2020-hci-clusters-are-now-available-microsoft-azure"
+    ampWebUrl: "https://biztechmagazine.com/article/2020/09/nutanix-next-2020-hci-clusters-are-now-available-microsoft-azure?amp"
+    cdnAmpWebUrl: "https://biztechmagazine-com.cdn.ampproject.org/c/s/biztechmagazine.com/article/2020/09/nutanix-next-2020-hci-clusters-are-now-available-microsoft-azure?amp"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 70
-  - title: "Platform.sh announces expansion of services to Microsoft Azure West US 2 Datacenter Region"
-    excerpt: "8, 2020 /PRNewswire/ -- Platform.sh, an end-to-end web platform for agile teams, is pleased to announce the expansion of its services to the West US 2 datacenter region of Microsoft Azure ..."
-    publishedDateTime: 2020-09-08T16:12:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/platform-sh-announces-expansion-of-services-to-microsoft-azure-west-us-2-datacenter-region-1029570640"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/platform-sh-announces-expansion-of-services-to-microsoft-azure-west-us-2-datacenter-region-1029570640"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/platform-sh-announces-expansion-of-services-to-microsoft-azure-west-us-2-datacenter-region-1029570640"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 67
-  - title: "dunnhumby Speeds Time-to-Insight for Data Scientists with New Tool on Microsoft Azure"
-    excerpt: "Microsoft Azure, enabling data scientists to deliver customer insights faster. dunnhumby Model Lab is designed to solve complex retail challenges, such as understanding customer churn and predicting propensity to purchase and in what channel,"
-    publishedDateTime: 2020-09-02T15:43:00Z
-    webUrl: "https://www.dbta.com/Editorial/News-Flashes/dunnhumby-Speeds-Time-to-Insight-for-Data-Scientists-with-New-Tool-on-Microsoft-Azure-142651.aspx"
-    type: article
-    provider:
-      name: dbta.com
-      domain: dbta.com
-    quality: 30
+      name: BizTech
+      domain: biztechmagazine.com
+    quality: 57
     images:
-      - url: "https://www.dbta.com/images/social-logo-2019.png"
-        width: 1200
-        height: 630
+      - url: "https://biztechmagazine.com/sites/biztechmagazine.com/files/styles/cdw_hero/public/articles/202009/Nutanix-Keynote.jpg?itok=e9WjDTpM"
+        width: 1440
+        height: 500
         isCached: true
-  - title: "dunnhumby Speeds Time-to-Insight for Data Scientists with New Tool on Microsoft Azure"
-    excerpt: "Microsoft Azure, enabling data scientists to deliver customer insights faster. dunnhumby Model Lab is designed to solve complex retail challenges, such as understanding customer churn and predicting propensity to purchase and in what channel,"
-    publishedDateTime: 2020-09-04T11:07:00Z
-    webUrl: "https://www.dbta.com/Editorial/News-Flashes/dunnhumby-Speeds-Time-to-Insight-for-Data-Scientists-with-New-Tool--on-Microsoft-Azure-142651.aspx"
+  - title: "Experian’s CrossCore® Is Now Available on Microsoft Azure Active Directory"
+    excerpt: "Customers using Experian’ s digital identity and fraud risk platform, CrossCore ®, can now seamlessly connect with Microsoft Azure Active Directory External Identities. “Businesses need to be able to provide varying levels of authentication based on the level of risk,"
+    publishedDateTime: 2020-09-13T04:16:00Z
+    webUrl: "https://www.nasdaq.com/press-release/experians-crosscorer-is-now-available-on-microsoft-azure-active-directory-2020-09-08"
     type: article
     provider:
-      name: dbta.com
-      domain: dbta.com
-    quality: 30
-    images:
-      - url: "https://www.dbta.com/images/social-logo-2019.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "dunnhumby Reduces Time to Action for Data Scientists via New Tool on Microsoft Azure"
-    excerpt: "The launch of dunnhumby Model Lab, hosted on Azure opens customer data science to retailers, brands and businesses dunnhumby, the global leader in customer data science, has launched its new web-based application on Microsoft Azure, enabling data ..."
-    publishedDateTime: 2020-09-04T14:42:00Z
-    webUrl: "https://stockhouse.com/news/press-releases/2020/09/02/dunnhumby-reduces-time-to-action-for-data-scientists-via-new-tool-on-microsoft"
-    type: article
-    provider:
-      name: Stockhouse
-      domain: stockhouse.com
-    quality: 10
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 55
 
-secured: "e392FUNdKvWPWBjm7JAIlmW/cWCWqFc8g2ogn9klDj+l+Byemcmmye5FT/MSNmVzQrrNxV0KdY4mKbOczqOBhSPoyZXpHeKS8aIgpvifZTWSaUNQWjGGPL2N3+tv31f7VDcTfGFarbeNtQ3+vnALbdpPyCCWye851TuGFgZpJ/s1iy/auK4WiQPHOasgVDkHrq/r0Nt8mBy+68A85FdMk2cfOeK3mIuusvDvxYSw12L865joNvu8sGoKYtSiZ+7y5q9G8XQdwAyJ5tW9RXxzqnWNixhiNKFIAz3CVumzRS+PKYl8FSPRQSKuix39Qjcyfmd10Xf/bwxmmFcvN0u5Gn/K1T69Ca/jRxnaSAEMAko=;V9s8M5yE0paVVpoy55oyow=="
+secured: "45Sd1rEKi4OY/KosL+4NwrucwIw+j8JyL6g3VXbUntzHQKnH9/oUBS/8ZO4KFjA73m+5sMqykrQEa9UnIBRZCKzwbepG6trifVBoXXHRC3imMmISTQ67sdbrbxsVFnsAb1SLU8HA25xLGVs3BL1Km75bEqrIWOp+hMFkkJhaJOxOCmSqLHzLxB3del2St5OlCS8Gfk6D43iXb+EblTadHd+KajGGl0YgiCqDWvpSVS106g59pbLS0Um7IQuQAq4PkmpVWxy2N5+evl0WA/fiiRGyXQy6+30BFEyXFLOAp0+4gBsVDZxiOhypiNKAuLN/eihAS5Zr2OI1ZWzdv+MMp+kWlotWFh9AwL4sBOOpPKY=;4TIb0bYjUajgIgesXBbCTw=="
 ---
 

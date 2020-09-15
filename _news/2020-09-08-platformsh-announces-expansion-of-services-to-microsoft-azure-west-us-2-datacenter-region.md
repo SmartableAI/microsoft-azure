@@ -24,68 +24,52 @@ topics:
   - Azure
 
 related:
-  - title: "dunnhumby Reduces Time to Action for Data Scientists via New Tool on Microsoft Azure"
-    excerpt: "Press Release dunnhumby, the global leader in customer data science, has launched its new web-based application on Microsoft Azure, enabling data scientists to deliver customer insights faster, driving profitability and customer loyalty."
-    publishedDateTime: 2020-09-02T13:48:00Z
-    webUrl: "https://venturebeat.com/2020/09/02/dunnhumby-reduces-time-to-action-for-data-scientists-via-new-tool-on-microsoft-azure/"
-    ampWebUrl: "https://venturebeat.com/2020/09/02/dunnhumby-reduces-time-to-action-for-data-scientists-via-new-tool-on-microsoft-azure/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/02/dunnhumby-reduces-time-to-action-for-data-scientists-via-new-tool-on-microsoft-azure/amp/"
+  - title: "Nutanix Announces Partnership with Microsoft Azure for a Seamless Hybrid Experience"
+    excerpt: "“We are excited about what the partnership between Nutanix and Microsoft will bring, with Nutanix Clusters for Azure and beyond. I envision this hybrid cloud solution will accelerate our teams ..."
+    publishedDateTime: 2020-09-09T09:06:00Z
+    webUrl: "https://www.marketwatch.com/press-release/nutanix-announces-partnership-with-microsoft-azure-for-a-seamless-hybrid-experience-2020-09-08"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 70
-  - title: "Tamr Data Mastering Platform Now Available on Microsoft Azure"
-    excerpt: "PRNewswire/ -- Tamr, Inc., the provider of cloud-native data mastering solutions, today announced its cloud-native capabilities on Microsoft Azure."
-    publishedDateTime: 2020-09-09T14:17:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/tamr-data-mastering-platform-now-available-on-microsoft-azure-301126571.html"
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 71
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Nutanix On Microsoft Azure: 5 Big Things You Should Know"
+    excerpt: "Nutanix Clusters on Azure is here. Here’s what you need to know about new hybrid cloud offering in terms of support, integration, Azure Arc, Nutanix on AWS and Nutanix-ready nodes."
+    publishedDateTime: 2020-09-09T18:40:00Z
+    webUrl: "https://www.crn.com/slide-shows/cloud/nutanix-on-microsoft-azure-5-big-things-you-should-know"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
+      name: CRN
+      domain: crn.com
     quality: 37
     images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
+      - url: "https://www.crn.com/resources/0261-1055c2c7a770-57d96c55ffd9-1000/nutanix-on-azure.jpg"
+        width: 610
+        height: 457
         isCached: true
-  - title: "dunnhumby Speeds Time-to-Insight for Data Scientists with New Tool on Microsoft Azure"
-    excerpt: "Microsoft Azure, enabling data scientists to deliver customer insights faster. dunnhumby Model Lab is designed to solve complex retail challenges, such as understanding customer churn and predicting propensity to purchase and in what channel,"
-    publishedDateTime: 2020-09-02T15:43:00Z
-    webUrl: "https://www.dbta.com/Editorial/News-Flashes/dunnhumby-Speeds-Time-to-Insight-for-Data-Scientists-with-New-Tool-on-Microsoft-Azure-142651.aspx"
+  - title: "Nutanix Partners with Microsoft Azure for a Seamless Hybrid Experience"
+    excerpt: "SAN JOSE –– Nutanix (NASDAQ: NTNX), a leader in enterprise cloud computing, today announced a new partnership with Microsoft that will enable both companies to deliver a hybrid solution with seamless application,"
+    publishedDateTime: 2020-09-08T20:39:00Z
+    webUrl: "https://insidehpc.com/2020/09/nutanix-partners-with-microsoft-azure-for-a-seamless-hybrid-experience/"
     type: article
     provider:
-      name: dbta.com
-      domain: dbta.com
-    quality: 30
-    images:
-      - url: "https://www.dbta.com/images/social-logo-2019.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "dunnhumby Speeds Time-to-Insight for Data Scientists with New Tool on Microsoft Azure"
-    excerpt: "Microsoft Azure, enabling data scientists to deliver customer insights faster. dunnhumby Model Lab is designed to solve complex retail challenges, such as understanding customer churn and predicting propensity to purchase and in what channel,"
-    publishedDateTime: 2020-09-04T11:07:00Z
-    webUrl: "https://www.dbta.com/Editorial/News-Flashes/dunnhumby-Speeds-Time-to-Insight-for-Data-Scientists-with-New-Tool--on-Microsoft-Azure-142651.aspx"
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 17
+  - title: "Nutanix Announces Partnership with Microsoft Azure for a Seamless Hybrid Experience"
+    excerpt: "“We are excited about what the partnership between Nutanix and Microsoft will bring, with Nutanix Clusters for Azure and beyond. I envision this hybrid cloud solution will accelerate our teams ..."
+    publishedDateTime: 2020-09-08T12:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200908005321/en/"
     type: article
     provider:
-      name: dbta.com
-      domain: dbta.com
-    quality: 30
-    images:
-      - url: "https://www.dbta.com/images/social-logo-2019.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "dunnhumby Reduces Time to Action for Data Scientists via New Tool on Microsoft Azure"
-    excerpt: "The launch of dunnhumby Model Lab, hosted on Azure opens customer data science to retailers, brands and businesses dunnhumby, the global leader in customer data science, has launched its new web-based application on Microsoft Azure, enabling data ..."
-    publishedDateTime: 2020-09-04T14:42:00Z
-    webUrl: "https://stockhouse.com/news/press-releases/2020/09/02/dunnhumby-reduces-time-to-action-for-data-scientists-via-new-tool-on-microsoft"
-    type: article
-    provider:
-      name: Stockhouse
-      domain: stockhouse.com
-    quality: 10
+      name: Business Wire
+      domain: businesswire.com
+    quality: 11
 
 secured: "uXs201TfuKooG2fG80B8qaeSr4XkRdvZme3MgLOlt5hIeJePrqGhO1b6lYn2AVlGV09b+tyYv7va/vHy/j3VJucbwY+aWhp4BNnU9bSRmnvIlz53gONZikiqmwZ3BD1kWua1BZ1kBJaqsduOPmHYpVkbyTkR634XLpKBWdrj7zeKqmMiDa4mRxOakhc+303Am1KUTdTs4i5JDL0zOPbBU1Bn/ePaBVSWzzskyYuui/4ZFA9RWcA+Z0SUFqXbUENVOYD41TpuiHNjIRr3UdfiqUaPOrZk54sUFSODL0J61tSMd4oQhQaBGfJFCpW73/7SizkH3OsmdIhYbrgQfCk6B4PAAH3eaLfGoHQAkl3kApo=;BPvnH1oiVisEF9byzR9FLA=="
 ---

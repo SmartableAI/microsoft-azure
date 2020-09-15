@@ -37,6 +37,15 @@ related:
         width: 827
         height: 496
         isCached: true
+  - title: "Preparing for what’s next: Building landing zones for successful cloud migrations"
+    excerpt: "As businesses look to the cloud to ensure business resiliency and to spur innovation, we continue to see customer migrations to Azure accelerate. "
+    publishedDateTime: 2020-09-15T10:00:16Z
+    webUrl: "https://azure.microsoft.com/blog/preparing-for-whats-next-building-landing-zones-for-successful-cloud-migrations/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 64
 
 secured: "1JD1x3PPhG2p7YJ5/HcAFLX3TwywkZPrsryVra1o7gyoOiucsPqpqOHprQCOJUGcaPMQN0mkZWh2vXThrxAK6KN8FNy6HdJ+DT3aqyENl3pQoZGSVvEqV1tqdpVnQ34Nfz+aU3UVsKw5cUbIIGcvfMJ06hN8AaJghdpmHcx7eHIMRfwCD0KLQA8dm+QYLBc9dBOda3U9BPUpQVWGL/tYDSxhMr4YQSjGziq0YUtEYFf51Ez1wqJI+J1WAE1MJNGW3zjVFq2eaYsnw8kuLLgPFaR2rK8dXrDwZI/hxN1GO5XJ/iEr4m0+mI4yhWwB6HfhbfR/qZqx8nbHtXWkXYuVFgqmlMNdumGtR7R0jXUO/FE=;52t08fZAGqpJjEnj8e3yRw=="
 ---

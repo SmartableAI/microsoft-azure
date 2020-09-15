@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/09/02/dunnhumby-reduces-time-to-action-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/02/dunnhumby-reduces-time-to-action-for-data-scientists-via-new-tool-on-microsoft-azure/amp/"
 type: article
 quality: 70
-heat: 170
+heat: 130
 published: true
 
 provider:
@@ -24,31 +24,6 @@ topics:
   - Azure
 
 related:
-  - title: "Platform.sh announces expansion of services to Microsoft Azure West US 2 Datacenter Region"
-    excerpt: "8, 2020 /PRNewswire/ -- Platform.sh, an end-to-end web platform for agile teams, is pleased to announce the expansion of its services to the West US 2 datacenter region of Microsoft Azure ..."
-    publishedDateTime: 2020-09-08T16:12:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/platform-sh-announces-expansion-of-services-to-microsoft-azure-west-us-2-datacenter-region-1029570640"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/platform-sh-announces-expansion-of-services-to-microsoft-azure-west-us-2-datacenter-region-1029570640"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/platform-sh-announces-expansion-of-services-to-microsoft-azure-west-us-2-datacenter-region-1029570640"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 67
-  - title: "Tamr Data Mastering Platform Now Available on Microsoft Azure"
-    excerpt: "PRNewswire/ -- Tamr, Inc., the provider of cloud-native data mastering solutions, today announced its cloud-native capabilities on Microsoft Azure."
-    publishedDateTime: 2020-09-09T14:17:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/tamr-data-mastering-platform-now-available-on-microsoft-azure-301126571.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 37
-    images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
-        isCached: true
   - title: "dunnhumby Speeds Time-to-Insight for Data Scientists with New Tool on Microsoft Azure"
     excerpt: "Microsoft Azure, enabling data scientists to deliver customer insights faster. dunnhumby Model Lab is designed to solve complex retail challenges, such as understanding customer churn and predicting propensity to purchase and in what channel,"
     publishedDateTime: 2020-09-02T15:43:00Z
