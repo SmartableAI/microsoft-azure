@@ -31,15 +31,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
-  - title: "Public Preview of Azure NetApp Files Cross Region Replication (CRR) capability"
-    excerpt: "Replicate Azure NetApp Files volumes from one Azure region to another in a fast and cost-effective way, protecting your data from unforeseeable regional failures. "
-    publishedDateTime: 2020-09-02T16:00:05Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-of-azure-netapp-files-cross-region-replication-crr-capability/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 63
 
 secured: "mM5QSXbkcZhV0gUYN1R/vaOIy1L4pl/oIniBk8pCtengxkgKlhlNKjX6jQEWassYuTZPNO+uutZRg7SCG4ZQpWAuSACGqEg4qKPTN6fQq95i6os7TwWSotgd8AMwxaxs4Lg0nWL5k8wBXnJXPxjHSoKNp7JW8T85+gPrB2BuiOD0z6gY1e770uAPV1of7/uhcF/IdfFaaWt7RG9OGpUJTSEHtKnAQeexeTWr8zgch3JZoDqPL4suVWffi3swvPPwnFOf2MDBkRRHIPXCL7YBl4RVzZKsYzfFyWtWm2Aj8WU2KBtRFpoUryQumd+EqSRxNMBtSZXOQXe6aTA50ye1DTuNv7zq9+Fw3LqWB/3PCBo=;Y9TgpoCNMFpqdwJomb4qpQ=="
 ---

@@ -22,24 +22,20 @@ topics:
   - Azure
 
 related:
-  - title: "Azure Monitor Agent and Data Collection Rules Public Preview"
-    excerpt: "Azure Monitor is introducing a new concept for data collection configuration and a new, unified agent for Azure Monitor in Public Preview."
-    publishedDateTime: 2020-09-02T16:00:03Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-monitor-agent-and-data-collection-rules-public-preview/"
+  - title: "Azure NetApp Files cross region replication and new enhancements in preview"
+    excerpt: "As businesses continue to adapt to the realities of the current environment, operational resilience has never been more important. As a result, a growing number of customers have accelerated a move to the cloud, using Microsoft Azure NetApp Files to power critical pieces of their IT infrastructure, like"
+    publishedDateTime: 2020-09-16T09:00:31Z
+    webUrl: "https://azure.microsoft.com/blog/azure-netapp-files-cross-region-replication-and-new-enhancements-in-preview/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 67
-  - title: "Azure Data Lake Storage Gen2 access control list recursive update in public preview"
-    excerpt: "Set, update, or remove access control lists (ACLs) recursively for existing Azure Data Lake Storage Gen2 directories and files."
-    publishedDateTime: 2020-08-27T17:32:23Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-data-lake-storage-gen2-access-control-list-recursive-update-in-public-preview/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 61
+    quality: 89
+    images:
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/a1455ef1-fced-4db1-86b3-1001d9ac5ff1.jpg"
+        width: 1024
+        height: 529
+        isCached: true
 
 secured: "ourU4WGq5LNLac7gUSbwBVE1HNT1MxewsTvgjHqeurUackGZKY/UKIUJjmCaDHngn69xPWL118IN+6dxA4cTm5HV1ANJGXbfS9Scca2F9P72pL24bqq3Zd1jxQInPTXhq9q2a/hvc9luvYdHB4N9fJomeKvsUnt9tP231JMPtcEUkERTBm+IOYhFkLNJ28hgTwhkUh4J6oUEjBLfWDqxAVMVym+bNPsvnlhj625WGRKCLzAmovFRsCXx+n9KMpJ9n5Re1SXAp2dXEFA4ZJy7jETG0HyTiMUBNbIyhqLX/CE9zIgg56h1dsNDKy9xrG3HRCDjFxCDWE220WjDmKhi7xkEnCVT/Cw26JVAMzboNFw=;P8lxNU8g79ycLrqdU0oYGw=="
 ---

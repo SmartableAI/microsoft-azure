@@ -1,11 +1,12 @@
 ---
 category: news
-title: "Azure Spot support for Azure Kubernetes Service is in preview"
-excerpt: ""
-publishedDateTime: 2020-04-15T16:00:02Z
-webUrl: "https://azure.microsoft.com/en-us/updates/azure-spot-support-for-azure-kubernetes-service-is-in-preview/"
+title: "Azure Files support for NFS v4.1 is now in preview"
+excerpt: "Azure Files now adds support for NFS v4.1 file system protocol for an easy migration of your Linux-centric workloads."
+publishedDateTime: 2020-09-16T17:00:28Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/azure-files-support-for-nfs-v41-is-now-in-preview/"
+webUrl: "https://azure.microsoft.com/en-us/updates/azure-files-support-for-nfs-v41-is-now-in-preview/"
 type: article
-quality: 17
+quality: 67
 heat: -1
 published: false
 
@@ -62,15 +63,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
-  - title: "Azure Files support for NFS v4.1 is now in preview"
-    excerpt: "Azure Files now adds support for NFS v4.1 file system protocol for an easy migration of your Linux-centric workloads."
-    publishedDateTime: 2020-09-16T17:00:28Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-files-support-for-nfs-v41-is-now-in-preview/"
+  - title: "Azure Spot support for Azure Kubernetes Service is in preview"
+    excerpt: ""
+    publishedDateTime: 2020-04-15T16:00:02Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-spot-support-for-azure-kubernetes-service-is-in-preview/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 67
+    quality: 17
   - title: "Azure Functions—Java 8 support on Linux is now in preview"
     excerpt: ""
     publishedDateTime: 2020-04-27T15:00:24Z
@@ -99,6 +100,6 @@ related:
       domain: microsoft.com
     quality: 14
 
-secured: "L+hM4JI5Yh9IGKdLWHS6y0MlEk0e6+8btrvf7JN5jqmPyVJfMaFfmrXoXslF7cc91ievVVVmY9O404o2cRkbbK0AOL2vP47TSer4C+kVIETjfI7YkCAsqijDPJDb40h9sPkCly+jX68onUVXH5C51VTHpSEIPCsSho8xXY6Frp69PPy7XziGldMZvGGa17MxhbytAZ/AZNNZ1s9bYwVwpBYO7cD5GLAP7PCU1fIcV328ZbEORIBZ52VPHwlgT2BHYDerk8rqEnllzL7CK05xwTzEYHH3zQ1TqwuuN4Cd5yms/H8HmVD3vVoF6Lkbq9UK6XPAmbFT42zn3FKYDNk9WQ==;3XJl5Hyb8FUwnjFgK3XW5Q=="
+secured: "/iOsYb7tTEX8UjZrHLeA0tgBkijh6DMxbECTTHuxTn0SzI5YQMVm+cc9c0a6lAJlKyLUX555VOfQUPGf+MQDzULdx40tgfoNBQIv9P7vUiKM4fT7ix+kTnckL/OM8p/fegH8lsUvA4MER3GmN33MsVegP+WT7ZWSwrSv+9eZKNISN/BymGwBqr+EMxz2yYJgejDnxZx2uNa74iJE1NQiijwcDtTKmDDNITCvy4UOQEQtl8wdAmAfgnarOVqEacNTLMvVYLlhRGVKUpKAL+0WQvppiDJq/tdbGlK4F6ksCfqLp58du4oTQp+NvY1wrQFi+VswCXP5FCiTYNEORIkIye4p3GyQ8uIeTkgFeTHnG8Y=;8uSaa/KzknK7nPwU0O0vaQ=="
 ---
 

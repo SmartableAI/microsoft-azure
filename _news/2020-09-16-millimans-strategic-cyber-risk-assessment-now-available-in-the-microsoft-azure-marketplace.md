@@ -1,31 +1,27 @@
 ---
 category: news
-title: "Qore Technologies' Free 3Months Usage Plan for Qorus Integration Engine Now Available in the Microsoft Azure Marketplace"
-excerpt: "Microsoft Azure customers worldwide now gain access to free use of Qorus Integration Engine to mitigate the business implications of COVID-19 PRAGUE, CZECH REPUBLIC, April 15, 2020 /EINPresswire.com/ -- Qore Technologies today announced the availability of a free three-month usage and consultation plan for Qorus Integration Engine in the Microsoft Azure Marketplace,"
-publishedDateTime: 2020-04-15T11:11:00Z
-webUrl: "https://www.marketwatch.com/press-release/qore-technologies-free-3months-usage-plan-for-qorus-integration-engine-now-available-in-the-microsoft-azure-marketplace-2020-04-15"
+title: "Milliman's strategic cyber risk assessment now available in the Microsoft Azure Marketplace"
+excerpt: "Milliman, Inc., a premier global consulting and actuarial firm, today announced that it has launched its Strategic Cyber Risk Assessment in"
+publishedDateTime: 2020-09-16T16:00:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/millimans-strategic-cyber-risk-assessment-now-available-in-the-microsoft-azure-marketplace-301132472.html"
+webUrl: "https://www.prnewswire.com/news-releases/millimans-strategic-cyber-risk-assessment-now-available-in-the-microsoft-azure-marketplace-301132472.html"
 type: article
-quality: 52
+quality: 27
 heat: -1
 published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
+  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+    width: 600
+    height: 315
     isCached: true
-    title: "Qore Technologies' Free 3Months Usage Plan for Qorus Integration Engine Now Available in the Microsoft Azure Marketplace"
 
 related:
   - title: "Codafication's Virtual Assist Now Available in the Microsoft Azure Marketplace"
@@ -54,6 +50,20 @@ related:
       - url: "https://cdn.mos.cms.futurecdn.net/b4pDwTCQEtLC6nRcpfpfYB-1200-80.png"
         width: 752
         height: 423
+        isCached: true
+  - title: "Qore Technologies' Free 3Months Usage Plan for Qorus Integration Engine Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Microsoft Azure customers worldwide now gain access to free use of Qorus Integration Engine to mitigate the business implications of COVID-19 PRAGUE, CZECH REPUBLIC, April 15, 2020 /EINPresswire.com/ -- Qore Technologies today announced the availability of a free three-month usage and consultation plan for Qorus Integration Engine in the Microsoft Azure Marketplace,"
+    publishedDateTime: 2020-04-15T11:11:00Z
+    webUrl: "https://www.marketwatch.com/press-release/qore-technologies-free-3months-usage-plan-for-qorus-integration-engine-now-available-in-the-microsoft-azure-marketplace-2020-04-15"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 52
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Nuventive COVID-19 Response Hub Now Available in the Microsoft Azure Marketplace"
     excerpt: "Nuventive today announced the availability of the Nuventive COVID-19 Response Hub in the Microsoft Azure Marketplace, an online store"
@@ -111,20 +121,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Milliman's strategic cyber risk assessment now available in the Microsoft Azure Marketplace"
-    excerpt: "Milliman, Inc., a premier global consulting and actuarial firm, today announced that it has launched its Strategic Cyber Risk Assessment in"
-    publishedDateTime: 2020-09-16T16:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/millimans-strategic-cyber-risk-assessment-now-available-in-the-microsoft-azure-marketplace-301132472.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 27
-    images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
-        isCached: true
   - title: "GAVS Technologies: Zero Incident Framework (ZIF) Now Available in the Microsoft Azure Marketplace"
     excerpt: "Microsoft Azure customers worldwide now gain access to ZIF to take advantage of the scalability, reliability and agility of Azure to drive application development and shape business strategies PRINCET"
     publishedDateTime: 2020-06-23T04:20:00Z
@@ -172,6 +168,6 @@ related:
       domain: businesswire.com
     quality: 3
 
-secured: "66Z/75mLqBCAsa9RIwaQmxTv8rUpIF9V69GEEEPhpvhX8xW7HBVb4XRAU/81FIyinZYQsG73vllePg6d9H+vpD3Y5DI1FUXFkLB8P2gL1AkaZgJ7SF0ZmsUN5dSacXDuYvEUv8Jql25T0OVbZKdMVO+XsqMugiAWpwO3roLsZkwOOG1IKC9b0WgYIMYwnmmFkRXaLjqnn4VU8w/WO7K/+E+3qkN4a2KvWoHSSuZxeef26bHIsYvblgS+1pKw/GgUSt76Zz2gUOPkOHf3S+1J88ZYCSbopLK0/U05gMBKCPIORojOzh1uqOYg69Xcp1uh;jT10CtPNckkJRNluDOLfCQ=="
+secured: "Xy1Pa75yljdJLsCVHB/brYvtX+KR/+bfuBsud6+dhm+v1Uw/tIjgseRU6Ed3GYhRsmrO6jRsu5nJWe3+TT3ooGZLAwQINsLBs/Nzf/wpDXoduTnXbVQjDn27xjAhmXbKj1/ehUYNfpmFi+PN/JxAqzW/JqU9qkB1syTf4AEswKjt1hGps9IeRH9dC79tV2kQf50ZGwwIwsNU9mVcPVw619a9JAW+MnYMW2Or2vEWPUyGq+OrcQA8pUd8KiRWM72GktGvgJXsfNMKxsxovpmZkupVXaBqDvu4NpLgevDWroDuYziAtPupGnOGAQnzI4Z3dtVEFpKkUr+LOQha/7Sc/JhMgU/4vUlOTkNAnhPSJPI=;8Zrih5urv6JvU0IeuODpqQ=="
 ---
 

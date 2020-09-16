@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/azure-monitor-agent-and-
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-monitor-agent-and-data-collection-rules-public-preview/"
 type: article
 quality: 67
-heat: 107
+heat: 87
 published: true
 
 provider:
@@ -22,15 +22,6 @@ topics:
   - Azure
 
 related:
-  - title: "Public Preview of Azure NetApp Files Cross Region Replication (CRR) capability"
-    excerpt: "Replicate Azure NetApp Files volumes from one Azure region to another in a fast and cost-effective way, protecting your data from unforeseeable regional failures. "
-    publishedDateTime: 2020-09-02T16:00:05Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-of-azure-netapp-files-cross-region-replication-crr-capability/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 63
   - title: "Azure Data Lake Storage Gen2 access control list recursive update in public preview"
     excerpt: "Set, update, or remove access control lists (ACLs) recursively for existing Azure Data Lake Storage Gen2 directories and files."
     publishedDateTime: 2020-08-27T17:32:23Z

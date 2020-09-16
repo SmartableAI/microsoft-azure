@@ -62,6 +62,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
+  - title: "Azure Files support for NFS v4.1 is now in preview"
+    excerpt: "Azure Files now adds support for NFS v4.1 file system protocol for an easy migration of your Linux-centric workloads."
+    publishedDateTime: 2020-09-16T17:00:28Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-files-support-for-nfs-v41-is-now-in-preview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
   - title: "Azure Spot support for Azure Kubernetes Service is in preview"
     excerpt: ""
     publishedDateTime: 2020-04-15T16:00:02Z

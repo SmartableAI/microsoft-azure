@@ -8,7 +8,7 @@ ampWebUrl: "https://markets.businessinsider.com/amp/news/codafication-s-virtual-
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/codafication-s-virtual-assist-now-available-in-the-microsoft-azure-marketplace-1029298882"
 type: article
 quality: 73
-heat: 273
+heat: 293
 published: true
 
 provider:
@@ -108,6 +108,20 @@ related:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
+        isCached: true
+  - title: "Milliman's strategic cyber risk assessment now available in the Microsoft Azure Marketplace"
+    excerpt: "Milliman, Inc., a premier global consulting and actuarial firm, today announced that it has launched its Strategic Cyber Risk Assessment in"
+    publishedDateTime: 2020-09-16T16:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/millimans-strategic-cyber-risk-assessment-now-available-in-the-microsoft-azure-marketplace-301132472.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 27
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
         isCached: true
   - title: "GAVS Technologies: Zero Incident Framework (ZIF) Now Available in the Microsoft Azure Marketplace"
     excerpt: "Microsoft Azure customers worldwide now gain access to ZIF to take advantage of the scalability, reliability and agility of Azure to drive application development and shape business strategies PRINCET"

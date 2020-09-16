@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/nfs-41-support-for-azure-files-is
 webUrl: "https://azure.microsoft.com/blog/nfs-41-support-for-azure-files-is-now-in-preview/"
 type: article
 quality: 87
-heat: 227
+heat: 247
 published: true
 
 provider:
@@ -50,6 +50,15 @@ related:
     excerpt: "Azure Time Series Insights now supports Azure Active Directory groups through access policies."
     publishedDateTime: 2020-09-11T21:00:13Z
     webUrl: "https://azure.microsoft.com/en-us/updates/tsi-aad-groups/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
+  - title: "Azure Files support for NFS v4.1 is now in preview"
+    excerpt: "Azure Files now adds support for NFS v4.1 file system protocol for an easy migration of your Linux-centric workloads."
+    publishedDateTime: 2020-09-16T17:00:28Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-files-support-for-nfs-v41-is-now-in-preview/"
     type: article
     provider:
       name: Microsoft

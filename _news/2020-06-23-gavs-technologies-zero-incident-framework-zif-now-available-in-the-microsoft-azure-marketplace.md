@@ -121,6 +121,20 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Milliman's strategic cyber risk assessment now available in the Microsoft Azure Marketplace"
+    excerpt: "Milliman, Inc., a premier global consulting and actuarial firm, today announced that it has launched its Strategic Cyber Risk Assessment in"
+    publishedDateTime: 2020-09-16T16:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/millimans-strategic-cyber-risk-assessment-now-available-in-the-microsoft-azure-marketplace-301132472.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 27
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
+        isCached: true
   - title: "Parabole.ai announces the launch of TRAIN™ 3.0, the Automated Machine Teaching Platform on the Microsoft Azure Marketplace"
     excerpt: "Parabole.ai today announced that TRAIN™ 3.0, its MACHINE TEACHING PLATFORM is now available on the Azure Marketplace. Parabole's unique"
     publishedDateTime: 2020-06-03T13:12:00Z
