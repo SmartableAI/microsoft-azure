@@ -28,6 +28,20 @@ images:
     title: "Deploy to Azure Container Instances with Docker Desktop"
 
 related:
+  - title: "Azure Container Instances - Docker integration now in Docker Desktop stable release"
+    excerpt: "We’re happy to announce that today’s new stable release of Docker Desktop includes the Azure Container Instances - Docker integration. Install or update to the latest release and get started deploying containers to Azure Container Instances (ACI) today."
+    publishedDateTime: 2020-09-16T11:00:32Z
+    webUrl: "https://azure.microsoft.com/blog/azure-container-instances-docker-integration-now-in-docker-desktop-stable-release/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 83
+    images:
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/9b424351-84c1-4f45-b23f-e34a18d24a9f.gif"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Docker announces tighter integration with Azure Container Instances and Visual Studio Code"
     excerpt: "Microsoft and Docker today announced extended collaboration to simplify cloud development for developers. As part of this extended collaboration, Docker today announced closer integration with Azure Container Instances and Visual Studio Code."
     publishedDateTime: 2020-05-27T16:40:00Z
@@ -43,34 +57,6 @@ related:
       - url: "https://mspoweruser.com/wp-content/uploads/2020/05/Microsoft-Docker.jpg"
         width: 1813
         height: 1195
-        isCached: true
-  - title: "Microsoft Updates Azure Stack Hub with New Management Features, Container Support and More"
-    excerpt: "During this year's digital Build conference, Microsoft announced several new incremental updates to its private and hybrid computing offering Azure Stack Hub. The public cloud vendor will add various significant features on Azure Stack Hub in private previews such as an Azure Kubernetes Service (AKS) Resource Provider,"
-    publishedDateTime: 2020-06-02T11:16:00Z
-    webUrl: "https://www.infoq.com/news/2020/06/azure-stack-hub-updates/"
-    type: article
-    provider:
-      name: InfoQ
-      domain: infoq.com
-    quality: 27
-    images:
-      - url: "https://cdn.infoq.com/statics_s2_20200602-0333/styles/static/images/logo/logo-big.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Heritage Insurance Upgrades to Version 11 of Majesco Claims for P&C and Transitions to Majesco CloudInsurer® on Microsoft Azure"
-    excerpt: "Majesco (NASDAQ: MJCO), a global leader of cloud insurance software, today announced that Heritage completed its upgrade to version 11 on April 25, 20"
-    publishedDateTime: 2020-05-27T21:25:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200527005792/en/Heritage-Insurance-Upgrades-Version-11-Majesco-Claims"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 9
-    images:
-      - url: "https://mms.businesswire.com/media/20200527005792/en/709834/23/Majesco_Logo_Transparent_Purple.jpg"
-        width: 1200
-        height: 627
         isCached: true
 
 secured: "8av4qYYztNV7d0B6HYz4ZmfRhlvHRG5yiYZjavKgx+rIbJlm16Mujv06+CAuw3246IJkuj6NQUHork055qlQq8hiS/vZKnw3Z+IAIQsX4/lmikRB95ugsJm1mxM3FjR/YtXk9uCXowOYLdVRXRyKezl8pLgpjahN556ab9Lh34820cRlanoJTLxOYB3unsMsX/YyEzzgmeszD2XazLnROpb8dNFxU40Y3lBtXVJfHd5LqrDyxSqWc1GN7U5/zdUKKtydXCv4rOxv0LYs0Dv4j6xVQErZQOYdWSDWc8G4SWOAf8GP4RhB1KIt51+jKgWETgy2AmGvhAQB+m4oOwdxMQ==;sPs67G5u6eGFfTFtgJDKGg=="
