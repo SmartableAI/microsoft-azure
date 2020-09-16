@@ -7,7 +7,7 @@ originalUrl: "https://www.helpnetsecurity.com/2020/09/11/data-intensity-safe-swi
 webUrl: "https://www.helpnetsecurity.com/2020/09/11/data-intensity-safe-switch/"
 type: article
 quality: 30
-heat: 30
+heat: -1
 published: false
 
 provider:
@@ -24,19 +24,19 @@ images:
     isCached: true
 
 related:
-  - title: "Device Authority releases new version of IoT security platform with support for Microsoft Azure Sphere and security lifecycle management"
-    excerpt: "Device Authority, a global leader in identity and access management (IAM) for the Internet of Things (IoT), today announced the latest version of its KeyScaler platform which includes enhanced device connectivity,"
-    publishedDateTime: 2020-09-15T14:14:00Z
-    webUrl: "https://www.totaltele.com/507141/Device-Authority-releases-new-version-of-IoT-security-platform-with-support-for-Microsoft-Azure-Sphere-and-security-lifecycle-management"
+  - title: "Nokia simplifies Microsoft Azure integration"
+    excerpt: "Nokia has announced a slew of new features for its Nokia Digital Automation Cloud (DAC) private wireless networking platform, including simplified integration with Microsoft Azure IoT modules. Nokia's new approach to software installation,"
+    publishedDateTime: 2020-09-16T12:02:00Z
+    webUrl: "https://www.cloudpro.co.uk/cloud-essentials/private-cloud/8747/nokia-simplifies-microsoft-azure-integration"
     type: article
     provider:
-      name: Total Telecom
-      domain: totaltele.com
-    quality: 4
+      name: Cloud Pro
+      domain: cloudpro.co.uk
+    quality: 37
     images:
-      - url: "https://www.totaltele.com/res/image/articleimages/5g-icon-hpe.png"
-        width: 576
-        height: 583
+      - url: "https://cdn2.cloudpro.co.uk/sites/cloudprod7/files/2020/07/shutterstock_1456367552.jpg"
+        width: 1920
+        height: 1080
         isCached: true
 
 secured: "hbuCUK1HNS+BgCYZqDssfY90AYLodzxSWXJhfYMNIuS829j0FA5/2iQiemPRD5KYwf+iYfmFG7PkslAqWlJVUAZb8cWm3gbK+lqm4wdm2xpFfW4gCD9ciZWdmr0Oekru6SPraZagkLfQ4ODEKF08lIDlrb2ySAl0meORx9J+QJzkoArQj46mHA1zjjvCf5WiAnllqtFOWQ3wdBw2uTU1522v5DMgNEm47EqFgTl+zUQccKpMDKfoNkfmXtHww8uhNWoKMli+7fdOibUYEgR++5zgauA8jMRBGen31CFEP0NmZ0I8q6a4jEXzmDfatOsOPKi1NIRrUmY40rLuD0mN12HzBbDGZXKlQXxX7JXZAwQ=;lCozQtV+bIRpAOoeAJrd3Q=="
