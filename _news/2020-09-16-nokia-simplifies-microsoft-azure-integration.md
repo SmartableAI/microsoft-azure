@@ -1,24 +1,28 @@
 ---
 category: news
 title: "Nokia simplifies Microsoft Azure integration"
-excerpt: "Nokia has announced a slew of new features for its Nokia Digital Automation Cloud (DAC) private wireless networking platform, including simplified integration with Microsoft Azure IoT modules. Nokia's new approach to software installation,"
-publishedDateTime: 2020-09-16T12:02:00Z
-originalUrl: "https://www.cloudpro.co.uk/cloud-essentials/private-cloud/8747/nokia-simplifies-microsoft-azure-integration"
-webUrl: "https://www.cloudpro.co.uk/cloud-essentials/private-cloud/8747/nokia-simplifies-microsoft-azure-integration"
+excerpt: "The announcement comes almost a year after Nokia and Microsoft made their first joint solutions public. In November 2019, the two companies announced a strategic collaboration aim"
+publishedDateTime: 2020-09-16T12:26:00Z
+originalUrl: "https://www.itpro.co.uk/marketing-comms/business-communications/357124/nokia-simplifies-microsoft-azure-integration"
+webUrl: "https://www.itpro.co.uk/marketing-comms/business-communications/357124/nokia-simplifies-microsoft-azure-integration"
 type: article
-quality: 37
-heat: 37
-published: false
+quality: 77
+heat: 97
+published: true
 
 provider:
-  name: Cloud Pro
-  domain: cloudpro.co.uk
+  name: IT Pro
+  domain: itpro.co.uk
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/itpro.co.uk-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
 
 images:
-  - url: "https://cdn2.cloudpro.co.uk/sites/cloudprod7/files/2020/07/shutterstock_1456367552.jpg"
+  - url: "https://media.itpro.co.uk//image/upload/v1594375394/itpro/2020/07/shutterstock_nokia%20data%20centre.jpg"
     width: 1920
     height: 1080
     isCached: true
@@ -39,6 +43,6 @@ related:
         height: 405
         isCached: true
 
-secured: "eh4I2oxJ2kPDGFENyP1T/7OFc2x3w2eNujmak258pnPZVqEZhnpk+uJL5WISHZERkXKh7vkvRbsbjm8h5KRCtYvcUJOMHZYpNjncx2XGpRKUtJS3FDGETaItESHGR9n84Pzg6RRxDWHks5X2WpmjTB+CIWPM58zTmzgnWbIS77dRu3SxOQCRppgJr2sxIHnyPj7O1OkuWYB+4w2/4Q8Hhjc3fNlrJilHzBt95Fvv2glNWlnfcOk6lXf5EB5yWf184k6ZTC3hoeBSMjwEMHJs00l4jKJsnrGZx5jzpmP2sxTRhNex7NeutZTnKqrqNMQ/b8+WUY6wyG4ng4TP7RJTYU5/MRU2yqmD4RLX+LCIYFs=;AM1fY8uoAAtabGxVTb1U4A=="
+secured: "3Xuo06xTA6XVVkDLJFSTAJP3VfZUrb9zGJtaxccdLiKv5nr6yHSO7nZ30aTQIRrqeMSVFexrd3xgYHpP64DAiWm3wB2HI1woqK3maF11ycoA3AUBet29PPzAcZYwo6+KrIfaiUAMX55LChmH5skfKUbvvLuzXmbdUDUF5wQbfWBt9QB9cXHtm2rrILj3gPA+TqWQyyZx32MfWpLTeZtLR9nyY08bzT7zkqjMNPt6s+BLhOvezk4G5yzncwfDvcBJcrliwVHyXhlkWsKF9k0Ja2cXdxi7rdqjvyyu/D9gD/aA2YqsmNfz0ijXXfukz49eSh22bldH7lxxtQfHsygBFCdoa7b6HBzJZ26gyYfbPg4=;FMdKkdRKvTbV/MO1U6ysWQ=="
 ---
 

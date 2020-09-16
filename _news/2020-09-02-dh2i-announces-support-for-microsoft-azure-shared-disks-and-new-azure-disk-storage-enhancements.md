@@ -7,8 +7,8 @@ originalUrl: "https://www.marketwatch.com/press-release/dh2i-announces-support-f
 webUrl: "https://www.marketwatch.com/press-release/dh2i-announces-support-for-microsoft-azure-shared-disks-and-new-azure-disk-storage-enhancements-2020-09-01"
 type: article
 quality: 65
-heat: -1
-published: false
+heat: 105
+published: true
 
 provider:
   name: MarketWatch
@@ -28,17 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "DH2i Announces Support for Microsoft Azure Shared Disks and New Azure Disk Storage Enhancements"
-    excerpt: "To learn more, please join DH2i for a live webinar titled, \"How to Build Shared Disk SQL Server Clusters in Azure\" featuring Microsoft Principal Program Manager Kevin Farlee on September 2nd ..."
-    publishedDateTime: 2020-09-01T13:23:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/dh2i-announces-support-for-microsoft-azure-shared-disks-and-new-azure-disk-storage-enhancements-1029552477"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/dh2i-announces-support-for-microsoft-azure-shared-disks-and-new-azure-disk-storage-enhancements-1029552477"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/dh2i-announces-support-for-microsoft-azure-shared-disks-and-new-azure-disk-storage-enhancements-1029552477"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 65
   - title: "Announcing the general availability of Azure shared disks and new Azure Disk Storage enhancements"
     excerpt: "Today, we’re announcing the general availability of—enabling you to migrate your existing on-premises Windows and Linux-based clustered environments to Azure. We’re also announcing important new disk enhancements to provide you with more availability, security, and flexibility on Azure."
     publishedDateTime: 2020-07-16T09:00:39Z
@@ -48,6 +37,20 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 58
+  - title: "DH2i Announces Support for Microsoft Azure Shared Disks and New Azure Disk Storage Enhancements"
+    excerpt: "FORT COLLINS, Colo., Sept. 1, 2020 /PRNewswire/ -- DH2i®, the leading provider of multi-platform Software Defined Perimeter (SDP) and Smart Availability™ software, today announced DxEnterprise ..."
+    publishedDateTime: 2020-09-01T09:15:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/dh2i-announces-support-for-microsoft-azure-shared-disks-and-new-azure-disk-storage-enhancements-301121956.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 25
+    images:
+      - url: "https://mma.prnewswire.com/media/324010/dh2i_logo.jpg?p=facebook"
+        width: 1400
+        height: 732
+        isCached: true
 
 secured: "yMs0uDpIj4LMhsHsXfVaqpPM3fENiSJeys0l8ScfOpKKDz8L9zxn2xk9twjyty5yPxuzB92633eCjY70Z7UVX88rmCLHxrg7evNGoXQrKG2SvQ+a8KHuYozflFhSBpi46JImAKY+N2Z7yCEZjO9/fZ6KJ3m7ZEf/wFvbIK/aFHIYC6mlFlywrKpg91CoSPGv6hoCsKaGfGn6jDVXsR0jgcKTbWHfVG9B56tDZ/Z0CPyrNnhMxP9fCJ57kMTzza8qhINgYIwPEwuZ8F80fUqTWowQOGGe8TOwzThTg1PqXewvGrjInsqH3jMEmes0EJlCN9WkNTfsSmf+5G2K1m4vIZZDXhjwx6/1HDpvwRUbmI4=;Q6aOwMCdYEE7EMBtclhHfA=="
 ---

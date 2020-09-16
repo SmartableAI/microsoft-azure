@@ -9,7 +9,7 @@ ampWebUrl: "https://www.neowin.net/amp/microsoft-and-bp-partner-up-on-azure-adva
 cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-and-bp-partner-up-on-azure-advancing-sustainability/"
 type: article
 quality: 97
-heat: 97
+heat: 98
 published: true
 
 provider:
