@@ -4,6 +4,48 @@
   "page": 2,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-host-build-agent.md",
+      "title": "Host your own build agent in Azure Pipelines",
+      "excerpt": "Work with guidance from the Space Game web team to set up your build agent running on-premises or on an Azure virtual machine running in the cloud.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-host-build-agent/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/host-build-agent/",
+      "length": "PT59M",
+      "ratings": {
+        "count": 1695,
+        "average": 4.7079644
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 54,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/azure-devops/host-your-own-build-server-in-your-build-pipeline-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "DevOps",
+        "Azure"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-run-quality-tests-build-pipeline.md",
       "title": "Run quality tests in your build pipeline by using Azure Pipelines",
       "excerpt": "Find out about automated testing that proves your code to be maintainable, understandable, and functioning without repetitive manual testing.",
@@ -970,8 +1012,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/configure-infrastructure-azure-pipelines/",
       "length": "PT1H2M",
       "ratings": {
-        "count": 334,
-        "average": 4.5359282
+        "count": 335,
+        "average": 4.5313435
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1034,48 +1076,6 @@
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/azure-devops/deploy-docker-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "DevOps"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-deploy-java-containers.md",
-      "title": "Automate Java container deployments with Azure Pipelines",
-      "excerpt": "Implement a CI/CD pipeline for Java containers.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-deploy-java-containers/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/deploy-java-containers/",
-      "length": "PT56M",
-      "ratings": {
-        "count": 10,
-        "average": 4.2
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/azure-devops/deploy-java-containers-social.png",
           "width": 640,
           "height": 320,
           "isCached": true
@@ -1352,8 +1352,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/persist-data-ef-core/",
       "length": "PT1H4M",
       "ratings": {
-        "count": 909,
-        "average": 4.669967
+        "count": 910,
+        "average": 4.669231
       },
       "provider": {
         "name": "Microsoft Learn",

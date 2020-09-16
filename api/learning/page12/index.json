@@ -4,91 +4,6 @@
   "page": 12,
   "value": [
     {
-      "path": "_learning/collections/microsoft-learn-process-and-classify-images-with-the-azure-cognitive-vision-services.md",
-      "title": "Process and classify images with the Azure Cognitive Vision Services",
-      "excerpt": "Microsoft Cognitive Services offers pre-built functionality to enable computer vision functionality in your applications.  Learn how to use the Cognitive Vision Services to detect faces, tag and classify images, and identify objects.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-process-and-classify-images-with-the-azure-cognitive-vision-services/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-process-and-classify-images-with-the-azure-cognitive-vision-services/",
-      "length": "PT2H42M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "topItems": [
-        {
-          "path": "",
-          "title": "Identify faces and expressions by using the Computer Vision API in Azure Cognitive Services",
-          "excerpt": "Learn how to use the artificial intelligence algorithms in the Computer Vision API in Azure to identify facial details in images.",
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/data-ai/identify-faces-with-computer-vision-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "Azure",
-            "Developer Tools"
-          ]
-        },
-        {
-          "path": "",
-          "title": "Process images with the Computer Vision service",
-          "excerpt": "Use the Computer Vision API to analyze images for insights, extract text from images, and generate high-quality thumbnails.",
-          "heat": 52,
-          "type": "course",
-          "topics": [
-            "Azure",
-            "Management Tools",
-            "AI"
-          ]
-        },
-        {
-          "path": "",
-          "title": "Classify images with the Microsoft Custom Vision Service",
-          "excerpt": "In this learning path, find out how Cognitive Vision Services detects faces, tags and classifies images, and identifies objects.",
-          "heat": 52,
-          "type": "course",
-          "topics": [
-            "Azure",
-            "AI",
-            "Management Tools"
-          ]
-        }
-      ],
-      "size": 3,
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/data-ai/identify-faces-with-computer-vision-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Management Tools",
-        "AI"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-add-custom-domain-name-azure-active-directory.md",
       "title": "Add custom domain name to Azure Active Directory",
       "excerpt": "Learn how to add custom domain name to Azure Active Directory.",
@@ -138,8 +53,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/automate-model-selection-with-azure-automl/",
       "length": "PT25M",
       "ratings": {
-        "count": 864,
-        "average": 4.6145835
+        "count": 867,
+        "average": 4.6136103
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -546,8 +461,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/create-computer-vision-service-to-classify-images/",
       "length": "PT32M",
       "ratings": {
-        "count": 1292,
-        "average": 4.647833
+        "count": 1293,
+        "average": 4.6473317
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -827,8 +742,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/design-a-hybrid-network-architecture/",
       "length": "PT47M",
       "ratings": {
-        "count": 1078,
-        "average": 4.6261597
+        "count": 1081,
+        "average": 4.6271973
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -913,8 +828,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/explain-machine-learning-models-with-azure-machine-learning/",
       "length": "PT47M",
       "ratings": {
-        "count": 133,
-        "average": 4.6992483
+        "count": 134,
+        "average": 4.7014923
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1080,8 +995,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/hub-and-spoke-network-architecture/",
       "length": "PT36M",
       "ratings": {
-        "count": 1110,
-        "average": 4.652252
+        "count": 1112,
+        "average": 4.652878
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1248,8 +1163,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/intro-to-hpc/",
       "length": "PT50M",
       "ratings": {
-        "count": 852,
-        "average": 4.5598593
+        "count": 853,
+        "average": 4.5592027
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1280,6 +1195,48 @@
       "topics": [
         "Azure",
         "Compute"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-intro-to-kubernetes.md",
+      "title": "Introduction to Kubernetes",
+      "excerpt": "Get acquainted with the Kubernetes open-source container-orchestration system for automating application deployment, scaling, and management.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-to-kubernetes/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/intro-to-kubernetes/",
+      "length": "PT53M",
+      "ratings": {
+        "count": 484,
+        "average": 4.6012397
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/introduction-to-kubernetes-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Containers"
       ]
     }
   ],

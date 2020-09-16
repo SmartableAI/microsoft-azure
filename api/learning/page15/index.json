@@ -95,8 +95,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/introduction-iot/",
       "length": "PT31M",
       "ratings": {
-        "count": 430,
-        "average": 4.6906977
+        "count": 432,
+        "average": 4.685185
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -214,8 +214,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/introduction-to-azure-data-lake-storage/",
       "length": "PT30M",
       "ratings": {
-        "count": 1665,
-        "average": 4.697898
+        "count": 1666,
+        "average": 4.698079
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -832,8 +832,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/run-parallel-tasks-in-azure-batch-with-the-azure-cli/",
       "length": "PT45M",
       "ratings": {
-        "count": 894,
-        "average": 4.574944
+        "count": 895,
+        "average": 4.5743017
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -908,6 +908,47 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-secure-aspnet-core-identity.md",
+      "title": "Secure an ASP.NET Core web app with the Identity framework",
+      "excerpt": "Add authentication and authorization to an ASP.NET Core web app using the Identity framework.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-secure-aspnet-core-identity/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/secure-aspnet-core-identity/",
+      "length": "PT1H8M",
+      "ratings": {
+        "count": 730,
+        "average": 4.4643836
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/aspnetcore/secure-aspnet-core-identity-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-simulate-distribution-regression-coefficients.md",
       "title": "Simulate the distribution of regression coefficients",
       "excerpt": "Learn",
@@ -948,8 +989,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/test-hypothesis-by-simulating-statistics/",
       "length": "PT60M",
       "ratings": {
-        "count": 52,
-        "average": 4.730769
+        "count": 53,
+        "average": 4.735849
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1032,8 +1073,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/upload-data-to-azure-data-lake-storage/",
       "length": "PT50M",
       "ratings": {
-        "count": 1556,
-        "average": 4.598329
+        "count": 1557,
+        "average": 4.59666
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1212,96 +1253,6 @@
       "excerpt": "Learn how to combine automation techniques such as infrastructure as code with automated pipelines to provision and configure the infrastructure you need to run your applications and services.",
       "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-automate-your-deployments-with-azure-devops-learning-path/index.json",
       "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-automate-your-deployments-with-azure-devops-learning-path/",
-      "length": "PT4H6M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "topItems": [
-        {
-          "path": "",
-          "title": "Provision infrastructure in Azure Pipelines",
-          "excerpt": "Learn how infrastructure as code enables you to describe and automatically provision the infrastructure that you need for your application.",
-          "heat": 50,
-          "type": "course",
-          "topics": [
-            "Azure",
-            "DevOps"
-          ]
-        },
-        {
-          "path": "",
-          "title": "Configure infrastructure in Azure Pipelines",
-          "excerpt": "Run configuration management tools in Azure Pipelines to help keep your infrastructure configured as you need.",
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/azure-devops/configure-infrastructure-azure-pipelines-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "Azure",
-            "DevOps"
-          ]
-        },
-        {
-          "path": "",
-          "title": "Provision databases in Azure Pipelines",
-          "excerpt": "Provision databases in Azure Pipelines",
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/azure-devops/provision-database-azure-pipelines-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "Azure",
-            "DevOps"
-          ]
-        }
-      ],
-      "size": 3,
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/azure-devops/configure-infrastructure-azure-pipelines-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "DevOps"
-      ]
-    },
-    {
-      "path": "_learning/collections/microsoft-learn-automate-your-deployments-with-azure-devops.md",
-      "title": "Automate your deployments with Azure DevOps",
-      "excerpt": "Learn how to combine automation techniques such as infrastructure as code with automated pipelines to provision and configure the infrastructure you need to run your applications and services.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-automate-your-deployments-with-azure-devops/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-automate-your-deployments-with-azure-devops/",
       "length": "PT4H6M",
       "provider": {
         "name": "Microsoft Learn",

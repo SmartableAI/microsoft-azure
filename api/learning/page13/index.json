@@ -4,48 +4,6 @@
   "page": 13,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-intro-to-kubernetes.md",
-      "title": "Introduction to Kubernetes",
-      "excerpt": "Get acquainted with the Kubernetes open-source container-orchestration system for automating application deployment, scaling, and management.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-to-kubernetes/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/intro-to-kubernetes/",
-      "length": "PT53M",
-      "ratings": {
-        "count": 482,
-        "average": 4.599585
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/introduction-to-kubernetes-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Containers"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-introduction-azure-sap-workloads.md",
       "title": "Introduction to Azure for SAP workloads",
       "excerpt": "With the recently expanded partnership between Microsoft and SAP, you can run SAP applications across development, test, and production scenarios in Azure, taking advantage of the scalability, flexibility, and cost savings of Microsoft Azure.",
@@ -218,8 +176,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/microsoft-runs-on-trust/",
       "length": "PT30M",
       "ratings": {
-        "count": 5430,
-        "average": 4.7427254
+        "count": 5431,
+        "average": 4.742589
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -342,8 +300,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/monitor-models-with-azure-machine-learning/",
       "length": "PT39M",
       "ratings": {
-        "count": 120,
-        "average": 4.741667
+        "count": 121,
+        "average": 4.7438016
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -426,8 +384,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/protect-infrastructure-with-site-recovery/",
       "length": "PT59M",
       "ratings": {
-        "count": 724,
-        "average": 4.526243
+        "count": 726,
+        "average": 4.5275483
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -467,8 +425,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/protect-virtual-machines-with-azure-backup/",
       "length": "PT35M",
       "ratings": {
-        "count": 919,
-        "average": 4.5973883
+        "count": 920,
+        "average": 4.597826
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -511,8 +469,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/register-and-deploy-model-with-amls/",
       "length": "PT40M",
       "ratings": {
-        "count": 902,
-        "average": 4.594235
+        "count": 903,
+        "average": 4.5946846
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -717,8 +675,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/troubleshoot-azure-network-infrastructure/",
       "length": "PT37M",
       "ratings": {
-        "count": 1940,
-        "average": 4.575258
+        "count": 1941,
+        "average": 4.5754766
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -759,8 +717,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/tune-hyperparameters-with-azure-machine-learning/",
       "length": "PT46M",
       "ratings": {
-        "count": 141,
-        "average": 4.673759
+        "count": 142,
+        "average": 4.6760564
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1549,6 +1507,47 @@
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/ai-strategy-in-healthcare-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-ai-strategy-to-create-business-value.md",
+      "title": "Define an AI strategy to create business value",
+      "excerpt": "Explore the strategic components, use cases, and special factors of an enterprise AI strategy that creates real business value, with INSEAD and Microsoft.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-ai-strategy-to-create-business-value/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/ai-strategy-to-create-business-value/",
+      "length": "PT1H10M",
+      "ratings": {
+        "count": 2148,
+        "average": 4.6945996
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/ai-strategy-to-create-business-value-social.png",
           "width": 800,
           "height": 400,
           "isCached": true
