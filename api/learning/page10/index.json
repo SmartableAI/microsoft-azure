@@ -4,39 +4,6 @@
   "page": 10,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-intro-commercial-marketplace.md",
-      "title": "Introduction to the Microsoft commercial marketplace",
-      "excerpt": "Overview of the Microsoft commercial marketplace, including Microsoft AppSource, Azure Marketplace, offer types, and Marketplace Rewards",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-commercial-marketplace/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/intro-commercial-marketplace/",
-      "length": "PT30M",
-      "ratings": {
-        "count": 335,
-        "average": 4.7791047
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 55,
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-intro-to-azure-machine-learning-service.md",
       "title": "Introduction to the Azure Machine Learning SDK",
       "excerpt": "Azure Machine Learning provides a cloud-based platform for training, deploying, and managing machine learning models.",
@@ -44,8 +11,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/intro-to-azure-machine-learning-service/",
       "length": "PT40M",
       "ratings": {
-        "count": 2023,
-        "average": 4.6085024
+        "count": 2027,
+        "average": 4.6087813
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -85,8 +52,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/introduction-to-iot-hub/",
       "length": "PT28M",
       "ratings": {
-        "count": 1224,
-        "average": 4.647059
+        "count": 1225,
+        "average": 4.647347
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -127,8 +94,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/intro-to-kubernetes/",
       "length": "PT53M",
       "ratings": {
-        "count": 484,
-        "average": 4.6012397
+        "count": 485,
+        "average": 4.6020617
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -244,8 +211,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/troubleshoot-azure-network-infrastructure/",
       "length": "PT37M",
       "ratings": {
-        "count": 1945,
-        "average": 4.574807
+        "count": 1946,
+        "average": 4.5750256
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -286,8 +253,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/work-with-data-in-aml/",
       "length": "PT45M",
       "ratings": {
-        "count": 594,
-        "average": 4.648148
+        "count": 595,
+        "average": 4.647059
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -671,8 +638,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/build-blazor-webassembly-visual-studio-code/",
       "length": "PT45M",
       "ratings": {
-        "count": 1123,
-        "average": 4.6936774
+        "count": 1124,
+        "average": 4.6930604
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -712,8 +679,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/choose-an-agile-approach/",
       "length": "PT40M",
       "ratings": {
-        "count": 5197,
-        "average": 4.745238
+        "count": 5198,
+        "average": 4.7452865
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -753,8 +720,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/classify-images-custom-vision/",
       "length": "PT34M",
       "ratings": {
-        "count": 216,
-        "average": 4.763889
+        "count": 217,
+        "average": 4.764977
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -838,8 +805,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/create-security-baselines/",
       "length": "PT60M",
       "ratings": {
-        "count": 2071,
-        "average": 4.6296477
+        "count": 2073,
+        "average": 4.6290402
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1008,8 +975,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/host-domain-azure-dns/",
       "length": "PT43M",
       "ratings": {
-        "count": 249,
-        "average": 4.6787148
+        "count": 250,
+        "average": 4.68
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1092,8 +1059,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/intro-to-containers/",
       "length": "PT57M",
       "ratings": {
-        "count": 2731,
-        "average": 4.608202
+        "count": 2732,
+        "average": 4.6079793
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1290,8 +1257,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/manage-build-dependencies/",
       "length": "PT59M",
       "ratings": {
-        "count": 1663,
-        "average": 4.677691
+        "count": 1664,
+        "average": 4.6778846
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1321,6 +1288,49 @@
       "price": "Free",
       "topics": [
         "DevOps"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-move-data-with-azure-data-box.md",
+      "title": "Move large amounts of data to the cloud by using Azure Data Box family",
+      "excerpt": "Learn how to move large amounts of data to the cloud by using Azure Data Box devices.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-move-data-with-azure-data-box/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/move-data-with-azure-data-box/",
+      "length": "PT25M",
+      "ratings": {
+        "count": 388,
+        "average": 4.6185565
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 54,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/move-data-with-azure-data-box-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Storage",
+        "Migration"
       ]
     }
   ],
