@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-19T01:09:00Z
 webUrl: "https://redmondmag.com/articles/2020/08/18/windows-patch-azure-service-communications.aspx"
 type: article
 quality: 37
-heat: 37
+heat: 57
 published: false
 
 provider:

@@ -1,41 +1,27 @@
 ---
 category: news
 title: "Cisco extends Meraki SD-WAN to Microsoft Azure"
-excerpt: "Cisco and Microsoft have teamed up on another joint effort, this time to make it easier for enterprise branch offices with Cisco Meraki SD-WAN gear to tap into the Azure Virtual WAN service."
-publishedDateTime: 2020-09-10T20:08:00Z
-originalUrl: "https://www.networkworld.com/article/3574711/cisco-extends-meraki-sd-wan-to-microsoft-azure.html"
-webUrl: "https://www.networkworld.com/article/3574711/cisco-extends-meraki-sd-wan-to-microsoft-azure.html"
-ampWebUrl: "https://www.networkworld.com/article/3574711/cisco-extends-meraki-sd-wan-to-microsoft-azure.amp.html"
-cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3574711/cisco-extends-meraki-sd-wan-to-microsoft-azure.amp.html"
+excerpt: "Cisco Meraki has added to its SD-WAN portfolio with support for workloads running in Microsoft Azure cloud environments. Specifically, the vendor has integrated its SD-WAN Powered by Cisco Meraki offering with Microsoft's Azure Virtual WAN service ..."
+publishedDateTime: 2020-09-10T23:07:00Z
+originalUrl: "https://www.reseller.co.nz/article/682841/cisco-extends-meraki-sd-wan-microsoft-azure/"
+webUrl: "https://www.reseller.co.nz/article/682841/cisco-extends-meraki-sd-wan-microsoft-azure/"
 type: article
-quality: 57
-heat: 77
-published: true
+quality: 37
+heat: 37
 
 provider:
-  name: Network World
-  domain: networkworld.com
+  name: Reseller News
+  domain: reseller.co.nz
 
 topics:
   - Azure
 
 images:
-  - url: "https://images.idgesg.net/images/article/2020/08/virtual_connections_social_networking_remote_teams_by_igor_kutyaev_gettyimages-1209893950_2400x1600-100854043-large.jpg"
-    width: 1200
-    height: 800
+  - url: "https://d1abomko0vm8t1.cloudfront.net/article/images/800x800/dimg/dreamstime_s_144034004_15.jpg"
+    width: 800
+    height: 518
     isCached: true
 
-related:
-  - title: "Cisco Meraki, Microsoft Azure Collaborate on Virtual Cloud WAN"
-    excerpt: "WAN powered by Meraki integrates with Microsoft Azure’s Virtual WAN service. Here are 3 potential cloud benefits for Microsoft & Cisco partners."
-    publishedDateTime: 2020-09-11T20:53:00Z
-    webUrl: "https://www.channele2e.com/news/cisco-meraki-microsoft-azure-collaborate-on-virtual-cloud-wan/"
-    type: article
-    provider:
-      name: ChannelE2E
-      domain: channele2e.com
-    quality: 17
-
-secured: "0DGkDHAm1WOsMZY54WUR+Ioq30rRVZo7HoslP8M3L7GOXh+LWMEr1sfgwopiTQfWK2e4Oj/oD/Eerkal9xTTcxBurkc7io+X9BxeAmbtlTjMYHq05sHFhBGhBcRg2dGIVBQRp2eRTCYqynBAlofgp4NsocnZT8qn0BBWXjAxdL8uhRAG7Ykzn+mop7umoirtB8TedhoU9VQPX+0v+tpgQbbmyYrRqWbs0KpJvJmn+pqEOo84+X+1f2TSb8xfp+40rudLvMKyOPZUu5CTZe5owZqDBl/2n5ZihAt0MwOLaE0swZnZWylNe7RtzKl+T+B3NM+2hSHYYsu2kJfAyqtX0DLw9ap5hZ68hAsryXmcqpE=;/ah/BIsqfbjBo3bmhBr6Mw=="
+secured: "BhqeCk7mt+rhupCM6Ys7rTCZs4aaryfEB7I9G00ugcy88D8GzHw8UI+HAeY5Suq0uYR3FpCsynfwi+/rXCIfnAu4CHwbh3B3Yb80oT1DJasXIqCWDKLpsBNI3L2+uVyEJxXD4dYG+8kKLDLibk/F7+S88xYCMFWLPi1s/SgxRj7WB85PlqHeQXps0a0gIe5Rgybms/GzRpv/eko7qz5ogseP1TzblwY/xfpXJ1CKARlWO7D2k5mcJDvr+ricF7zq1hFH5zTsiWgwjRHZ+fOZJF2hmF6Mdv5cmt0pk/kHZ/4aro/AMdfWKQPzfDDp6qvwLtlM6m0HjOvRJff8bS6fNs+WkPJH2wu2+WIW54glPiI=;Upal4AkH6mx/gXgGkLdYjA=="
 ---
 

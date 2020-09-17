@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-18T00:39:00Z
 webUrl: "https://www.thefastmode.com/technology-solutions/17809-standard-chartered-to-adopt-microsoft-azure-to-become-a-cloud-first-bank"
 type: article
 quality: 36
-heat: 36
+heat: 76
 published: false
 
 provider:
