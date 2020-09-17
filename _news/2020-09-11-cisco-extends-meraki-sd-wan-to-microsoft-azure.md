@@ -8,6 +8,7 @@ webUrl: "https://www.reseller.co.nz/article/682841/cisco-extends-meraki-sd-wan-m
 type: article
 quality: 37
 heat: 37
+published: false
 
 provider:
   name: Reseller News
@@ -21,6 +22,17 @@ images:
     width: 800
     height: 518
     isCached: true
+
+related:
+  - title: "Cisco Meraki, Microsoft Azure Collaborate on Virtual Cloud WAN"
+    excerpt: "WAN powered by Meraki integrates with Microsoft Azure’s Virtual WAN service. Here are 3 potential cloud benefits for Microsoft & Cisco partners."
+    publishedDateTime: 2020-09-11T20:53:00Z
+    webUrl: "https://www.channele2e.com/news/cisco-meraki-microsoft-azure-collaborate-on-virtual-cloud-wan/"
+    type: article
+    provider:
+      name: ChannelE2E
+      domain: channele2e.com
+    quality: 17
 
 secured: "BhqeCk7mt+rhupCM6Ys7rTCZs4aaryfEB7I9G00ugcy88D8GzHw8UI+HAeY5Suq0uYR3FpCsynfwi+/rXCIfnAu4CHwbh3B3Yb80oT1DJasXIqCWDKLpsBNI3L2+uVyEJxXD4dYG+8kKLDLibk/F7+S88xYCMFWLPi1s/SgxRj7WB85PlqHeQXps0a0gIe5Rgybms/GzRpv/eko7qz5ogseP1TzblwY/xfpXJ1CKARlWO7D2k5mcJDvr+ricF7zq1hFH5zTsiWgwjRHZ+fOZJF2hmF6Mdv5cmt0pk/kHZ/4aro/AMdfWKQPzfDDp6qvwLtlM6m0HjOvRJff8bS6fNs+WkPJH2wu2+WIW54glPiI=;Upal4AkH6mx/gXgGkLdYjA=="
 ---
