@@ -4,49 +4,6 @@
   "page": 9,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-azure-well-architected-cost-optimization.md",
-      "title": "Microsoft Azure Well-Architected Framework - Cost optimization",
-      "excerpt": "Learn how to use the cost optimization pillar of the Microsoft Azure Well-Architected Framework to design a cloud-based architecture that is efficient, eliminates waste, and gives you full visibility into where your money is spent on cloud resources.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-azure-well-architected-cost-optimization/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/azure-well-architected-cost-optimization/",
-      "length": "PT51M",
-      "ratings": {
-        "count": 882,
-        "average": 4.7052155
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 56,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/azure-well-architected-cost-optimization-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Management Tools",
-        "DevOps"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-build-azure-vm-templates.md",
       "title": "Build Azure Resource Manager templates",
       "excerpt": "Learn how Resource Manager templates express your deployments as code, enabling you to deploy faster and more reliably.",
@@ -54,8 +11,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/build-azure-vm-templates/",
       "length": "PT37M",
       "ratings": {
-        "count": 3353,
-        "average": 4.5320606
+        "count": 3354,
+        "average": 4.5316043
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -276,8 +233,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/design-your-migration-to-azure/",
       "length": "PT44M",
       "ratings": {
-        "count": 1367,
-        "average": 4.624726
+        "count": 1369,
+        "average": 4.6252737
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -317,8 +274,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/incident-response-with-alerting-on-azure/",
       "length": "PT53M",
       "ratings": {
-        "count": 1571,
-        "average": 4.6352644
+        "count": 1573,
+        "average": 4.6344566
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -360,8 +317,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/introduction-to-github/",
       "length": "PT1H12M",
       "ratings": {
-        "count": 289,
-        "average": 4.719723
+        "count": 290,
+        "average": 4.7172413
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -401,8 +358,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/m365-identity-provisioning/",
       "length": "PT46M",
       "ratings": {
-        "count": 1329,
-        "average": 4.727615
+        "count": 1330,
+        "average": 4.7278194
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -961,8 +918,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/describe-concepts-of-relational-data/",
       "length": "PT24M",
       "ratings": {
-        "count": 455,
-        "average": 4.802198
+        "count": 457,
+        "average": 4.798687
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1002,8 +959,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/design-azure-sql-data-warehouse/",
       "length": "PT47M",
       "ratings": {
-        "count": 2656,
-        "average": 4.575678
+        "count": 2657,
+        "average": 4.575461
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1044,8 +1001,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/detect-objects-images-custom-vision/",
       "length": "PT39M",
       "ratings": {
-        "count": 196,
-        "average": 4.755102
+        "count": 197,
+        "average": 4.7563453
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1129,8 +1086,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/explore-relational-data-offerings/",
       "length": "PT33M",
       "ratings": {
-        "count": 202,
-        "average": 4.7821784
+        "count": 203,
+        "average": 4.778325
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1244,6 +1201,39 @@
       "topics": [
         "Azure",
         "Analytics"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-intro-commercial-marketplace.md",
+      "title": "Introduction to the Microsoft commercial marketplace",
+      "excerpt": "Overview of the Microsoft commercial marketplace, including Microsoft AppSource, Azure Marketplace, offer types, and Marketplace Rewards",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-commercial-marketplace/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/intro-commercial-marketplace/",
+      "length": "PT30M",
+      "ratings": {
+        "count": 340,
+        "average": 4.7764707
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 55,
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
       ]
     }
   ],
