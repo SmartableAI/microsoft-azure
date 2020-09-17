@@ -6,7 +6,7 @@ publishedDateTime: 2020-02-24T09:00:14Z
 webUrl: "https://azure.microsoft.com/blog/a-secure-foundation-for-iot-azure-sphere-now-generally-available/"
 type: article
 quality: 19
-heat: 19
+heat: 59
 published: false
 
 provider:

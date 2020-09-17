@@ -6,7 +6,7 @@ publishedDateTime: 2020-05-15T18:00:20Z
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-blob-versioning-public-preview-now-available/"
 type: article
 quality: 17
-heat: 17
+heat: 57
 published: false
 
 provider:

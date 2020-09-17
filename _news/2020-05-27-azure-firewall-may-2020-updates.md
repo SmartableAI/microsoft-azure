@@ -6,7 +6,7 @@ publishedDateTime: 2020-05-27T05:55:09Z
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-firewall-may-2020-updates/"
 type: article
 quality: 17
-heat: 17
+heat: 37
 published: false
 
 provider:
