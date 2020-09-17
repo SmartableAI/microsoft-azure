@@ -6,7 +6,7 @@ publishedDateTime: 2020-05-19T08:00:13Z
 webUrl: "https://azure.microsoft.com/blog/azure-analytics-clarity-in-an-instant/"
 type: article
 quality: 37
-heat: 57
+heat: 37
 published: false
 
 provider:

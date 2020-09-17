@@ -8,7 +8,7 @@ ampWebUrl: "https://www.livemint.com/companies/news/microsoft-to-invest-75-milli
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/microsoft-to-invest-75-million-in-creating-1-500-jobs-in-ai-cloud/amp-11589775553701.html"
 type: article
 quality: 42
-heat: 122
+heat: 42
 published: false
 
 provider:
