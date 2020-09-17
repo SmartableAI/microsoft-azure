@@ -4,6 +4,48 @@
   "page": 8,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-design-ip-addressing-for-azure.md",
+      "title": "Design an IP addressing schema for your Azure deployment",
+      "excerpt": "In this module, you will learn how to plan and implement an IP addressing scheme for virtual networks and virtual machines in Azure.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-design-ip-addressing-for-azure/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/design-ip-addressing-for-azure/",
+      "length": "PT37M",
+      "ratings": {
+        "count": 1153,
+        "average": 4.7267995
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 58,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/design-ip-addressing-for-azure-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Networking"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-distribute-load-with-traffic-manager.md",
       "title": "Enhance your service availability and data locality by using Azure Traffic Manager",
       "excerpt": "Discover how Azure Traffic Manager provides DNS load balancing for your application to improve the performance and availability of your application.",
@@ -11,8 +53,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/distribute-load-with-traffic-manager/",
       "length": "PT29M",
       "ratings": {
-        "count": 1978,
-        "average": 4.5384226
+        "count": 1980,
+        "average": 4.538889
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -53,8 +95,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/explore-concepts-of-non-relational-data/",
       "length": "PT26M",
       "ratings": {
-        "count": 381,
-        "average": 4.8267717
+        "count": 382,
+        "average": 4.8219895
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -94,8 +136,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/explore-roles-responsibilities-world-of-data/",
       "length": "PT17M",
       "ratings": {
-        "count": 587,
-        "average": 4.797274
+        "count": 588,
+        "average": 4.797619
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -135,8 +177,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/intro-to-azure-linux/",
       "length": "PT16M",
       "ratings": {
-        "count": 594,
-        "average": 4.765993
+        "count": 595,
+        "average": 4.7663865
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -176,8 +218,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/intro-to-python/",
       "length": "PT1H7M",
       "ratings": {
-        "count": 4591,
-        "average": 4.7144413
+        "count": 4592,
+        "average": 4.7145033
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -303,8 +345,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/secure-azure-resources-with-rbac/",
       "length": "PT37M",
       "ratings": {
-        "count": 4532,
-        "average": 4.644307
+        "count": 4534,
+        "average": 4.644464
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -338,8 +380,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/upload-download-and-manage-data-with-azure-storage-explorer/",
       "length": "PT37M",
       "ratings": {
-        "count": 1392,
-        "average": 4.6127872
+        "count": 1394,
+        "average": 4.613343
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -499,8 +541,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/azure-well-architected-introduction/",
       "length": "PT1H4M",
       "ratings": {
-        "count": 869,
-        "average": 4.7157655
+        "count": 871,
+        "average": 4.716418
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -540,8 +582,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/choose-the-right-disk-storage-for-vm-workload/",
       "length": "PT24M",
       "ratings": {
-        "count": 1561,
-        "average": 4.659193
+        "count": 1563,
+        "average": 4.659629
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -582,8 +624,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/create-a-build-pipeline/",
       "length": "PT1H20M",
       "ratings": {
-        "count": 4710,
-        "average": 4.741189
+        "count": 4711,
+        "average": 4.741244
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -623,8 +665,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/design-a-hybrid-network-architecture/",
       "length": "PT47M",
       "ratings": {
-        "count": 1085,
-        "average": 4.6285715
+        "count": 1086,
+        "average": 4.6289134
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -665,8 +707,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/get-started-with-devops/",
       "length": "PT25M",
       "ratings": {
-        "count": 6849,
-        "average": 4.722441
+        "count": 6850,
+        "average": 4.7224817
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -698,8 +740,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/host-a-web-app-with-azure-app-service/",
       "length": "PT58M",
       "ratings": {
-        "count": 5015,
-        "average": 4.5988035
+        "count": 5016,
+        "average": 4.5986843
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -768,8 +810,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/improve-app-scalability-resiliency-with-load-balancer/",
       "length": "PT47M",
       "ratings": {
-        "count": 1880,
-        "average": 4.714894
+        "count": 1881,
+        "average": 4.715045
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -810,8 +852,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/prepare-your-dev-environment-for-azure-development/",
       "length": "PT28M",
       "ratings": {
-        "count": 4734,
-        "average": 4.694339
+        "count": 4735,
+        "average": 4.694403
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -920,8 +962,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/store-and-share-with-azure-files/",
       "length": "PT51M",
       "ratings": {
-        "count": 1130,
-        "average": 4.60531
+        "count": 1131,
+        "average": 4.6056585
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1069,8 +1111,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/create-long-running-serverless-workflow-with-durable-functions/",
       "length": "PT46M",
       "ratings": {
-        "count": 2513,
-        "average": 4.4560285
+        "count": 2514,
+        "average": 4.4554496
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1182,49 +1224,6 @@
         "Azure",
         "Management Tools",
         "Databases"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-azure-well-architected-cost-optimization.md",
-      "title": "Microsoft Azure Well-Architected Framework - Cost optimization",
-      "excerpt": "Learn how to use the cost optimization pillar of the Microsoft Azure Well-Architected Framework to design a cloud-based architecture that is efficient, eliminates waste, and gives you full visibility into where your money is spent on cloud resources.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-azure-well-architected-cost-optimization/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/azure-well-architected-cost-optimization/",
-      "length": "PT51M",
-      "ratings": {
-        "count": 882,
-        "average": 4.7052155
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 56,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/azure-well-architected-cost-optimization-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Management Tools",
-        "DevOps"
       ]
     }
   ],
