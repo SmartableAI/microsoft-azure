@@ -24,6 +24,8 @@ levels:
 topics:
   - Azure
   - Storage
+  - AI
+  - Web
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/generic-badge-social.png

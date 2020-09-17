@@ -25,6 +25,7 @@ topics:
   - Azure
   - AI
   - Storage
+  - Web
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/generic-badge-social.png
