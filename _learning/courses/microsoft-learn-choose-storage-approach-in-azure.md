@@ -6,9 +6,9 @@ type: course
 price: Free
 length: PT30M
 ratings:
-  count: 10074
-  average: 4.6595197
-heat: 77
+  count: 10076
+  average: 4.6593885
+heat: 83
 
 provider:
   name: Microsoft Learn
@@ -26,6 +26,6 @@ topics:
   - Storage
   - Databases
 
-secured: "8hLhoBttJI79xhVqAVQC3QCGMixGktBi9Mdeyw58Lr4L+s23Ef2yZgt5dIx4ezU7IIFvnsnj/6/L3J+4OY4IxksTlenK1vgefCYZbPOw37X6gUAGlErDE7Z/KFOeFlwvSYohZSXAVKA/r9oHOMAiVs+Fu9GZLuR2NAG+PXvpeCNepsXglQUgI6O3Zz5V73Cwc1Ya1Y2sAvQZ0bwICLVQz3luQKNgHYalcT8x7ZZaqhGIKjH12PgHCujsZc4IPTyAH/H96kh4m6uR1dKKrzuoRibJuQiFj12So1WHSjUd/VMIn5XGuQU85wfHORyCvFi7Th0x1qcHIlvNyZWVBq0y06tz/TvyPUJriV0OfSEl27MfcA3QYqjvp79JF+lTuXs1y3VATTDozfZ7LWDkmI1Ar5eiciTXXJ+jiAqeXCmXYns=;8IMjmVzljLSk0SZhwFZoYQ=="
+secured: "Rh4VUta8jFOxPrc/RJ/RS6OWrArZSqtwOHVmgj0V0mcLc791kw4M6AYhfPkE8bA4QpQMjx1m8g8+YMUU1aqtZ1xDZE2ay2wNwq8rN6Eu4RpmwOlsf7rWzB8Ino5YlnJU4MWLy6ZsMMIzaMXy/UE5BNV9Abr/JuKFyxaCBKhjb4BNScdouarf3pGZea61yI3TFvknZagmxH82+nbhpueSzHHNTrK4lVk5t68mSL7ZQax/bCMtwCX6fdmUNgpeKiaLb6EYWPx9vPV7IwRXt5VErLf3EBfkXPQgvy5+tU8ZcvKAHh/bdmW/GOsRiu2sGdmZK6b3ez3ph6EGJxy9fGq8d2U1HEUv9/PzlVGLm5I/WQTlua8egHU4ZJ0Azaf5Nbqj6HcAu51Sc0K/eKIA9D3GU0Bq0EMDw80PF2GIxn9dA5A=;2E9a6AdGT48f/hBJ9d9P4A=="
 ---
 

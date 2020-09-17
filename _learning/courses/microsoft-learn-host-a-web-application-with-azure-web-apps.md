@@ -6,9 +6,9 @@ type: course
 price: Free
 length: PT58M
 ratings:
-  count: 5008
-  average: 4.5988417
-heat: 53
+  count: 5009
+  average: 4.598922
+heat: 57
 
 provider:
   name: Microsoft Learn
@@ -27,6 +27,6 @@ topics:
   - Web
   - Management Tools
 
-secured: "EuT5P/D0ukp2Wv+F7YnAAlsLxgyuhBVg2ZC/LGMM5zsOi31MHOr+rUfiG8SlPnVNY35KNN8gMapv1hGt5i8E41qiGSBz5GN4mbVnKZR7w3GO9l7baArEY5CBUBtRKJgoEgvLDyIBQIKaiK5VTRbfHRk3FyJq0cnUa3LZrWMraPwyLK2X1zIMy6X/b0OJgcii3q87OAjhbsuLfSTUSCfrbRaU0nVKFYnZb1yxPAulEyMG0Nljwt+y7GVa+LDtqcCWBx+iePnrG3yusRdkfftlLV+hu0vu8EpFPOfRr0lXbqs+etuGffGx2LOr22N6JTU0UHwiY7U13Q2fAtqw64F6PzXeYeU0QfBfS20JvwUi5tcymS7EvpiqbasyTOSz3cBDvSPODfPbTTUw2d6WCTTRXaaa/+lgxsy7muXiCsrkPWQ=;PAf9r4ZjoyTq8ZZo5FSOmg=="
+secured: "zXmOmVbr4qKFJBjWTFJ81uios+uWsdXHmrZ7a/M6DbTiQlK4EiWVH4VxFLypoAxb22H95fjMB/A4VetBfmbbJiWuhbBtR/po2T1cCZQAmxJsRGUqy2MMc5MbZXyZSYU4v+Wr4yrRo7cF9YYRgPo+cu8pu0SjzV+7FfgjSuX5xTySigjZMi4Z+HCJeMpbsqKW6hEKXM//eSCIVDNko6PI2STy/yA16kGXZEZ3eqYZabANeg4UovErT+r7molES3yzxibriplLFTdb5RxUAtPjldFLvBAvXyPEkqqG8r9S2ftictHMTdwrjqRXKIgF6Wq29ZnldcF+OicKAvyaE+0jOEKJG2c8bcZK0hJF56bkt3K38xMqaSv1LG07aimVhElefgfcMoaMGdEPp5M41Lz39xkA07LahLWwE2tU+aubY2I=;a6SgsB2/eDy7Gr4zN34p0A=="
 ---
 

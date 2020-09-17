@@ -6,9 +6,9 @@ type: course
 price: Free
 length: PT48M
 ratings:
-  count: 1368
-  average: 4.619883
-heat: 53
+  count: 1370
+  average: 4.618978
+heat: 56
 
 provider:
   name: Microsoft Learn
@@ -30,6 +30,6 @@ topics:
   - Storage
   - AI
 
-secured: "zgsypNS/ji44xVqFD7+3ZExPmxL2OLrI/6VTxaEwPmO0gF633DpPnGw47o+qBgE70ti88ZN0m6hqL7Xc8ziuUnBeedwL/hlUZOZtoqv9L8pV8KmDJf4W4oUEf9gVmyRadhyxtUPRXcTUxC4SFbcBA9igZj1hKUaaq7dC0VeFvAPKZD6xjPEibU3f1Waro0zQBNUW+sIGpsB8aYf+ksfwYmSw8M2/yf5pIZfPTYAycL2BQkMp8g1Atqp3sJWHx/Oc3C3b/BjdSnb6zi1YMO1icBAeG5dauwpLizSJp1VolpoY61xuzUoHNd97Nj3oQAv+62yPgQxmS5Q+YMGffdAqnbKE3HXi6j9W2A+d2anAzM1zbGlc8eKcyLcQ6+QF8sQ5k4aML6xGQPN9I0bUCr0x5x9AM2YQ6Wu/UHHZU6Yk0w8=;BzyVRhipv+HBlgzTAhZPJA=="
+secured: "piLJAr8U2oFWyd1LxTe5qv+MNffQTReMBSejYUeHjludvw2gpKP6HQUlBaPDfUKllgihJkBmt9w8MY1SQhyc3OJSkjr0FY7syferdJp6qRnPeeSG0OezRIYF5TQ+vtD/ou3QT7g+Nu0yZE9ELBbIYb93bslUYaIJODBlSxZSu/uN+mJx6cGRaQ6Gskgeg8K7KXGO8JMnejLpD/thcXzg+Tfi3U885mp/jxfkg6z/Rqu2u2PpBjsHR6BHzCAmlYj5U3jW19xVe1Nf1HKDTMldBMcWPDeibSTQlQVZr66NGD+/1Gp/2O7acIoyT62sQqAiPVR92/ENunVyoPSWsjhGgKiXel6kBldPKXbhK8iVWhgpf08N6c/yMrY5SsaUyjZ46lv4Vwz8CjjdLBo3nkBSXKhA4KVDe0CmNWaNuUcBhWo=;BH5Q6egyV6v5WgKEWdpB2A=="
 ---
 
