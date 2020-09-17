@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Mindtree Recognized as an Expert Managed Service Provider for Microsoft Azure"
-excerpt: "Mindtree, a leading digital transformation and technology services company, has been recognized as a Microsoft Azure Expert Managed"
-publishedDateTime: 2020-09-10T14:02:00Z
-originalUrl: "https://www.prnewswire.com/ae/news-releases/mindtree-recognized-as-an-expert-managed-service-provider-for-microsoft-azure-301127238.html"
-webUrl: "https://www.prnewswire.com/ae/news-releases/mindtree-recognized-as-an-expert-managed-service-provider-for-microsoft-azure-301127238.html"
+excerpt: "10, 2020 /PRNewswire/ -- Mindtree, a leading digital transformation and technology services company, has been recognized as a Microsoft Azure Expert Managed Service Provider (MSP). The Azure ..."
+publishedDateTime: 2020-09-10T09:22:00Z
+originalUrl: "https://www.prnewswire.com/in/news-releases/mindtree-recognized-as-an-expert-managed-service-provider-for-microsoft-azure-878029696.html"
+webUrl: "https://www.prnewswire.com/in/news-releases/mindtree-recognized-as-an-expert-managed-service-provider-for-microsoft-azure-878029696.html"
 type: article
 quality: 34
 heat: -1
@@ -55,6 +55,6 @@ related:
         height: 254
         isCached: true
 
-secured: "81lKxe+wH5TlLdkUhtLUvVx9HqaDN3IlFWTATbf/zu55ToIOvRlUlP7A3G7Q2WtiLMLxx3Fv4/HYAA7ymB8vvq/qCvJZI7gn+Q6QoV4eGUZsv2a84dQ1HC2EdiQt3Qzbqu5HSD/8fouyJNfsClJJvOYrl3cl43ytibyqTvaAXPNimb7dkBe3pyJiJWMLiP9tCtQJcuNeodU+bXjT5aHxazJsU7vLgpz3fYGuu9am4kecuLLHavis/u6uysjwIINEOtocmnxlHkiwatUg6bMpM1LR2z6EEG2OP8oGSkOYFwecYjsZbmlZZYvFBRXEiEkHkAzjhsgaFFArnHml2GdyTlPQajcryGhRol9Dbyf7Yig=;3pRWJ4IgGxmpVQHSW3NMVA=="
+secured: "nlDp9H9pnVNixoC0FgtsuGCz7SWUKHGwiZSJ6mA3+/rRBkr4JqCtDc5xDNSbmSNdNqwGNxp9/hbp0/r9S5S+BumJ0Chrj1j87rnSuvLsrEef0OWlqxpuQtAN8D7ZPpSvIZTZklux7oYp/A3D2gapr0Kjdt4ZqVGYtusoTh/g1BIQ6wMjUDwJHE+HYvO62LdhPfjsd1b87/ZEI4Ls1nnx1gfuwpamTQQlAee8SIwGLXvFHTBjevFeI7G7csrZM0zQcDh6KUFuhPzPqPIi1VEjI2q5zP7/VmXWp19ZOAYExzMenUcn6i1vIA7nSlkbLRp6g5ZMsVw5NlWZM7ZtF5mtMvxY6ncV/pCwM9rdoRGoNGI=;agy/H3toy6mJCQm3CZgI5A=="
 ---
 
