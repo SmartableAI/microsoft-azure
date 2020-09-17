@@ -4,7 +4,7 @@ excerpt: "Azure lets you create applications composed of various components: web
 type: collection
 price: Free
 length: PT3H31M
-heat: 70
+heat: 73
 
 provider:
   name: Microsoft Learn
