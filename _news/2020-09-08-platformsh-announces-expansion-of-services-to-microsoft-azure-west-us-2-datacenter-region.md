@@ -3,9 +3,12 @@ category: news
 title: "Platform.sh announces expansion of services to Microsoft Azure West US 2 Datacenter Region"
 excerpt: "PRNewswire/ -- Platform.sh, an end-to-end web platform for agile teams, is pleased to announce the expansion of its services to the West US 2 datacenter"
 publishedDateTime: 2020-09-08T16:00:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/platform-sh-announces-expansion-of-services-to-microsoft-azure-west-us-2-datacenter-region/article_1d4f0d8f-1984-5ce1-b24e-3380c68de1b7.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/platform-sh-announces-expansion-of-services-to-microsoft-azure-west-us-2-datacenter-region/article_1d4f0d8f-1984-5ce1-b24e-3380c68de1b7.html"
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/platform-sh-announces-expansion-of-services-to-microsoft-azure-west-us-2-datacenter-region/article_1d4f0d8f-1984-5ce1-b24e-3380c68de1b7.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/platform-sh-announces-expansion-of-services-to-microsoft-azure-west-us-2-datacenter-region/article_1d4f0d8f-1984-5ce1-b24e-3380c68de1b7.html"
 type: article
+quality: 27
+heat: -1
+published: false
 
 provider:
   name: WFMZ-TV
@@ -20,6 +23,54 @@ images:
     height: 720
     isCached: true
 
-secured: "spAunHWARWN2QDVVrRW7BpYVXCOmqp7b6/lACjgOyR69JFeJOL/dsRtJMfBVFVEN0pMeaKLP7F/aB3AT1EWOXZFtlq8Hj4ACCLP45TRx0ppNXZFtnbqYZttcfESwNDIa+WjOLAjjJihnCeeB20XJM3kAQWhGkPYK0X2qSdUSn7RCmytNi0mStvuTP22qxluaOIDvLZfuM8iSlnmjhsfAF1lZ229WrzbPWVq1c2I/AFWOvovusKoiw1r2qmnCzMKuMSzHxnAsFGYNXnVcp+WsjTgbgva6irrjxCj97zqP5Rnbl2sCvhNNMus0RDn+j3eoL2k0eF6VS+sL662I+VEHgaRKaQwrWmpi3ibFT1g9aik=;oHiMqlWkVttocrOvxdFOpw=="
+related:
+  - title: "Nutanix Announces Partnership with Microsoft Azure for a Seamless Hybrid Experience"
+    excerpt: "“We are excited about what the partnership between Nutanix and Microsoft will bring, with Nutanix Clusters for Azure and beyond. I envision this hybrid cloud solution will accelerate our teams ..."
+    publishedDateTime: 2020-09-09T09:06:00Z
+    webUrl: "https://www.marketwatch.com/press-release/nutanix-announces-partnership-with-microsoft-azure-for-a-seamless-hybrid-experience-2020-09-08"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 71
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Nutanix On Microsoft Azure: 5 Big Things You Should Know"
+    excerpt: "Nutanix Clusters on Azure is here. Here’s what you need to know about new hybrid cloud offering in terms of support, integration, Azure Arc, Nutanix on AWS and Nutanix-ready nodes."
+    publishedDateTime: 2020-09-09T18:40:00Z
+    webUrl: "https://www.crn.com/slide-shows/cloud/nutanix-on-microsoft-azure-5-big-things-you-should-know"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 37
+    images:
+      - url: "https://www.crn.com/resources/0261-1055c2c7a770-57d96c55ffd9-1000/nutanix-on-azure.jpg"
+        width: 610
+        height: 457
+        isCached: true
+  - title: "Nutanix Partners with Microsoft Azure for a Seamless Hybrid Experience"
+    excerpt: "SAN JOSE –– Nutanix (NASDAQ: NTNX), a leader in enterprise cloud computing, today announced a new partnership with Microsoft that will enable both companies to deliver a hybrid solution with seamless application,"
+    publishedDateTime: 2020-09-08T20:39:00Z
+    webUrl: "https://insidehpc.com/2020/09/nutanix-partners-with-microsoft-azure-for-a-seamless-hybrid-experience/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 17
+  - title: "Nutanix Announces Partnership with Microsoft Azure for a Seamless Hybrid Experience"
+    excerpt: "“We are excited about what the partnership between Nutanix and Microsoft will bring, with Nutanix Clusters for Azure and beyond. I envision this hybrid cloud solution will accelerate our teams ..."
+    publishedDateTime: 2020-09-08T12:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200908005321/en/"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 11
+
+secured: "QnNzW1LMy7d+TVYmCLnF/WChn6bO2/QqVTYVRi8BNCrmfQm6QO1cicWWRFyeRoHu/9GwQkCI0ogjLjQhHBN00Nyjfqt6fLDqvLRTWaW98vDKqE04NTmtWfPHBn3xSpMz2+8uiGbrvOcENKnqDEcpr6NEqcVp/mc75JBLj1eauu6gCsaQ/Dfa5b4r8r3A3vUvVQ944BtV84aSvEIiCIXnaPAn05bvDRXTDghisdRMVt/v/6ldycSWyN0XlGRt+D28G1o707Xw36T0jO7gDh6rHAhw3BujEEZnZq6NssvmP7GR94eOt6YCVZ/g6oB3qeVoh+NRzsAL/DFrgWg1ed9eZet6FtBBJSjNyvl/BIzKPPY=;huFamM/M6VTLt84yAjknpg=="
 ---
 

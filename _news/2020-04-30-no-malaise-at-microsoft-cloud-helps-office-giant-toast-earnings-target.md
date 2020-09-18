@@ -6,7 +6,7 @@ publishedDateTime: 2020-04-30T04:33:00Z
 webUrl: "https://siliconangle.com/2020/04/29/no-malaise-microsoft-cloud-helps-office-giant-toasts-earnings-target/"
 type: article
 quality: 22
-heat: 42
+heat: 22
 published: false
 
 provider:

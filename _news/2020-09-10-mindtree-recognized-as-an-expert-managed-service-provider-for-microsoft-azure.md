@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Mindtree Recognized as an Expert Managed Service Provider for Microsoft Azure"
-excerpt: "Mindtree, a leading digital transformation and technology services company, has been recognized as a Microsoft Azure Expert Managed"
-publishedDateTime: 2020-09-10T14:02:00Z
-originalUrl: "https://www.prnewswire.com/ae/news-releases/mindtree-recognized-as-an-expert-managed-service-provider-for-microsoft-azure-301127238.html"
-webUrl: "https://www.prnewswire.com/ae/news-releases/mindtree-recognized-as-an-expert-managed-service-provider-for-microsoft-azure-301127238.html"
+excerpt: "10, 2020 /PRNewswire/ -- Mindtree, a leading digital transformation and technology services company, has been recognized as a Microsoft Azure Expert Managed Service Provider (MSP). The Azure ..."
+publishedDateTime: 2020-09-10T09:22:00Z
+originalUrl: "https://www.prnewswire.com/in/news-releases/mindtree-recognized-as-an-expert-managed-service-provider-for-microsoft-azure-878029696.html"
+webUrl: "https://www.prnewswire.com/in/news-releases/mindtree-recognized-as-an-expert-managed-service-provider-for-microsoft-azure-878029696.html"
 type: article
 quality: 34
 heat: -1
@@ -55,6 +55,6 @@ related:
         height: 254
         isCached: true
 
-secured: "lZTPAyYHmlhPJtqV1tCenSeUGwsFaxbHNVBHwS4so3pYKJtIDJh+uilAeBEeBmvuYm+DEXNy9QECY+C7NAGUNeIleqs8E2pHcv4mp+KySQPQwur2zv4ijJu9pf/PfiK5lrcQTWteuDM76aYzbFmiet9oFiNf+uMs/kvZ4VcdCyYfO39ofhY78ouD6KEEgegxy97+Ks1yQKnPGZ1zmZDMkVdT9jVPnT8LPot8py+xWny7k2ZOYBF+wXBkyu06hWT2wEURvXtz48q94LPKGFU+8nFggOsa7gTyOh2xNc0iFe3q5wUm+s8bf5Ojg7baS1J6vOZfiRled70vJu8/+HkWMeUZdPe1hzXGHLktuXz7Npixb0qdSMfk4FBAFUAnrwoCrkP4yDj+SW4PoALi2ztIJwLzVsrS2N1Ba/JTRuorh5iz5eLoYQt2tZyxa/cO902n4kfBRz1RqUN68OQOatF6Vzd7MTyq0GAE1tqSD4h8Y0GzfomrPR/IindylPVCAjv+5a7yDqIUG/n7xVxbHPDpfjN6u8SDZ73DA/xrw6DmFpI=;s6Q1UXZzMygJP/DJ4Y9iJg=="
+secured: "WPUmdDb6+nsOAwlUC4OihPosWwr0dOQOzQBFWtbxdF1xwsOzUO6Py3ZQ/c/RwSI1SrlQk8oq1dImrnJBaX5QmFi83BjyrHo21ZnDIma1jrB3XBmc2gLqIYfiB6eS7TlJ6uUvrG2zGfqM5eevjedwbMMJZuhcVPzgrwG84NMjBbTGsI3aoBOjLxNpygr9cvyhiud/vTI7E3Q16sh0tUCJNPI9VzhR9dXSuNFJadHxbz4yqxZgAqsgwWsbGH0xnv3xu1KgiTUG6DwlkyCr9jWsjFpkGfUgt2DybeWhmLQaKUfn5hW3xc/PKIz3v3Dhfz7DgQ31WBiwdC4YHgD4zf9mWNnyKsoTwhZrfJ+iiTT3NZ8=;+PG8XhIZhp2fifo3lUiw7g=="
 ---
 
