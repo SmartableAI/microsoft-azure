@@ -1,28 +1,26 @@
 ---
 category: news
 title: "Mindtree Recognized as an Expert Managed Service Provider for Microsoft Azure"
-excerpt: "10, 2020 /PRNewswire/ -- Mindtree, a leading digital transformation and technology services company, has been recognized as a Microsoft Azure Expert Managed Service Provider. (MSP). The Azure ..."
-publishedDateTime: 2020-09-10T11:26:00Z
-originalUrl: "https://www.asiaone.com/business/mindtree-recognized-expert-managed-service-provider-microsoft-azure"
-webUrl: "https://www.asiaone.com/business/mindtree-recognized-expert-managed-service-provider-microsoft-azure"
-ampWebUrl: "https://www.asiaone.com/business/mindtree-recognized-expert-managed-service-provider-microsoft-azure?amp"
-cdnAmpWebUrl: "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/mindtree-recognized-expert-managed-service-provider-microsoft-azure?amp"
+excerpt: "Mindtree, a leading digital transformation and technology services company, has been recognized as a Microsoft Azure Expert Managed"
+publishedDateTime: 2020-09-10T14:02:00Z
+originalUrl: "https://www.prnewswire.com/ae/news-releases/mindtree-recognized-as-an-expert-managed-service-provider-for-microsoft-azure-301127238.html"
+webUrl: "https://www.prnewswire.com/ae/news-releases/mindtree-recognized-as-an-expert-managed-service-provider-for-microsoft-azure-301127238.html"
 type: article
-quality: 54
+quality: 34
 heat: -1
 published: false
 
 provider:
-  name: Asia One
-  domain: asiaone.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Sep2020/pr-newswire_500_4_634.jpg?itok=lwjDk_QY"
-    width: 763
-    height: 509
+  - url: "https://mma.prnewswire.com/media/1004066/Mindtree_Logo.jpg?p=facebook"
+    width: 1496
+    height: 785
     isCached: true
 
 related:
@@ -57,6 +55,6 @@ related:
         height: 254
         isCached: true
 
-secured: "KS6GD9hhTQRDi6LJew/2kyIiFNkHvi1YpGxSmTkVS56gEg+ylZsYOXtdDY1Kj5LJvLEf/xK7etL3J2DJl8L1Tairhw0M30mjGEbwdeEA6+i377/xDRaAkgqSeXo4sG0Xo1nUews1k7fHmWtKR04GZIoy1xNxe2BBfKvr8qNjaFoGPSXz6iRp6MADC866GxF5reknZtqG/bD5CfHTZ5wA6jSng1T/EZ1KElduwnJ4smqUJlSFSDKWOJXyQcHvUUc/BMgDzG7MoBOBkLvOzt+vjSpHDZYc6AHWqPVfRYbINARaTrHb1l56quGHhYl0wkFIU/cNMRCVvsnbeTEyyNVaz+ZWkXjwuVD8xh3yZDVcED0=;wtm1z757kKq30nZEfo2ofw=="
+secured: "hRMiRK9ZEGnLJQzgW5CcdiElgC4UmJzimhMo8MlhcjmBu6KugTIfXd81ENDy57GLt/h2UDWl4AT92ZLqmC1tfHjdxVoS3BZybsHpDUamxhzTOpfuq+mbB9Ur4NkXRBDJAepr+VLTG+wpUYeu0YvXTk3HWmMDBQcB/kAsNMhoQkyNU+L9hbQFUQzDmbOKT8WUJP18H0PIMuNEa65dhg3fkBcwq8MC4FURNk4sV5ERjbeWhUOeMSKRWTSzGtXiC0CCuExzP9vpgapKNBbwhkrgi6Ll7nswj72YIRdkTGWF2fylz0SydOgdESa4/HWXJip7AQxie0VagM4SfvtVBcLjbOXf1XNhvSuycYkisJRYY3U=;ywRRr70C358awKt+/DjSeg=="
 ---
 
