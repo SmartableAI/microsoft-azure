@@ -11,8 +11,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/principles-cloud-computing/",
       "length": "PT1H2M",
       "ratings": {
-        "count": 164886,
-        "average": 4.7722125
+        "count": 164934,
+        "average": 4.772206
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -219,8 +219,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/create-an-azure-account/",
       "length": "PT39M",
       "ratings": {
-        "count": 130966,
-        "average": 4.6961427
+        "count": 130996,
+        "average": 4.6961513
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -356,8 +356,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/intro-to-azure-compute/",
       "length": "PT38M",
       "ratings": {
-        "count": 62308,
-        "average": 4.7092667
+        "count": 62319,
+        "average": 4.709286
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -396,8 +396,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/explore-azure-infrastructure/",
       "length": "PT45M",
       "ratings": {
-        "count": 66114,
-        "average": 4.71292
+        "count": 66123,
+        "average": 4.7129593
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -422,15 +422,15 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-design-your-migration-to-azure.md",
-      "title": "Design your migration to Azure",
-      "excerpt": "Minimize the time and resources required to migrate your on-premises environment to Azure. Assess your current systems with Azure Migrate, and migrate them with Azure Migrate and Azure Database Migration Service.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-design-your-migration-to-azure/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/design-your-migration-to-azure/",
-      "length": "PT44M",
+      "path": "_learning/courses/microsoft-learn-secure-your-azure-virtual-machine-disks.md",
+      "title": "Secure your Azure virtual machine disks",
+      "excerpt": "Explore the options for Azure disk encryption to encrypt OS and data disks on existing and new virtual machines.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-secure-your-azure-virtual-machine-disks/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/secure-your-azure-virtual-machine-disks/",
+      "length": "PT1H1M",
       "ratings": {
-        "count": 1372,
-        "average": 4.6260934
+        "count": 2454,
+        "average": 4.6511817
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -448,18 +448,13 @@
         "Intermediate"
       ],
       "heat": 116,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/design-your-migration-to-azure-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
       "type": "course",
       "price": "Free",
       "topics": [
-        "Azure"
+        "Azure",
+        "Compute",
+        "Storage",
+        "Management Tools"
       ]
     },
     {
@@ -470,8 +465,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/welcome-to-azure/",
       "length": "PT36M",
       "ratings": {
-        "count": 65285,
-        "average": 4.799908
+        "count": 65293,
+        "average": 4.799902
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -592,8 +587,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/tour-azure-portal/",
       "length": "PT1H13M",
       "ratings": {
-        "count": 49600,
-        "average": 4.707137
+        "count": 49609,
+        "average": 4.70715
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -626,8 +621,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/intro-to-data-in-azure/",
       "length": "PT25M",
       "ratings": {
-        "count": 54082,
-        "average": 4.7333493
+        "count": 54090,
+        "average": 4.733278
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -654,15 +649,15 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-manage-your-azure-iot-hub-with-metrics-alerts.md",
-      "title": "Manage your Azure IoT Hub with alerts and metrics",
-      "excerpt": "Learn about metrics, alerts, diagnostics, and logs. Create an Azure IoT Hub, an app to send vibration telemetry, and then create and test some metrics and alerts.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-manage-your-azure-iot-hub-with-metrics-alerts/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/manage-azure-iot-hub-with-metrics-alerts/",
-      "length": "PT53M",
+      "path": "_learning/courses/microsoft-learn-microservices-architecture.md",
+      "title": "Decompose a monolithic application into a microservices architecture",
+      "excerpt": "Improve development agility, deployment, fault tolerance, and scalability by modernizing your application with a microservices architecture.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-microservices-architecture/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/microservices-architecture/",
+      "length": "PT52M",
       "ratings": {
-        "count": 158,
-        "average": 4.677215
+        "count": 271,
+        "average": 4.630996
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -677,12 +672,12 @@
         ]
       },
       "levels": [
-        "Beginner"
+        "Advanced"
       ],
       "heat": 110,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/iot/manage-your-azure-iot-hub-with-metrics-alerts-social.png",
+          "url": "https://docs.microsoft.com/learn/achievements/microservices-architecture-social.png",
           "width": 800,
           "height": 400,
           "isCached": true
@@ -692,7 +687,9 @@
       "price": "Free",
       "topics": [
         "Azure",
-        "IoT"
+        "Compute",
+        "Serverless",
+        "Web"
       ]
     },
     {
@@ -913,8 +910,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/intro-to-security-in-azure/",
       "length": "PT1H16M",
       "ratings": {
-        "count": 43664,
-        "average": 4.702295
+        "count": 43671,
+        "average": 4.7023196
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -947,8 +944,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/intro-to-azure-networking/",
       "length": "PT28M",
       "ratings": {
-        "count": 42706,
-        "average": 4.764459
+        "count": 42710,
+        "average": 4.764458
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -981,8 +978,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/introduce-foundation-pillars-devops/",
       "length": "PT25M",
       "ratings": {
-        "count": 1601,
-        "average": 4.627108
+        "count": 1609,
+        "average": 4.6283407
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1609,8 +1606,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/intro-to-governance/",
       "length": "PT46M",
       "ratings": {
-        "count": 37400,
-        "average": 4.629305
+        "count": 37408,
+        "average": 4.629384
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1643,8 +1640,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/control-and-organize-with-azure-resource-manager/",
       "length": "PT46M",
       "ratings": {
-        "count": 37603,
-        "average": 4.712257
+        "count": 37607,
+        "average": 4.7122345
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1677,8 +1674,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/predict-costs-and-optimize-spending/",
       "length": "PT1H14M",
       "ratings": {
-        "count": 39532,
-        "average": 4.714535
+        "count": 39540,
+        "average": 4.7145677
       },
       "provider": {
         "name": "Microsoft Learn",

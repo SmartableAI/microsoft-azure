@@ -91,8 +91,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/scale-sql-databases-elastic-pools/",
       "length": "PT39M",
       "ratings": {
-        "count": 3342,
-        "average": 4.5751047
+        "count": 3344,
+        "average": 4.57506
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -212,8 +212,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/chain-azure-functions-data-using-bindings/",
       "length": "PT1H10M",
       "ratings": {
-        "count": 2643,
-        "average": 4.570185
+        "count": 2645,
+        "average": 4.5701323
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -249,8 +249,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/choose-api-for-cosmos-db/",
       "length": "PT38M",
       "ratings": {
-        "count": 2040,
-        "average": 4.6759806
+        "count": 2041,
+        "average": 4.6761394
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -364,8 +364,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/create-linux-virtual-machine-in-azure/",
       "length": "PT1H26M",
       "ratings": {
-        "count": 7631,
-        "average": 4.683921
+        "count": 7632,
+        "average": 4.6839623
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -392,6 +392,47 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-design-your-migration-to-azure.md",
+      "title": "Design your migration to Azure",
+      "excerpt": "Minimize the time and resources required to migrate your on-premises environment to Azure. Assess your current systems with Azure Migrate, and migrate them with Azure Migrate and Azure Database Migration Service.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-design-your-migration-to-azure/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/design-your-migration-to-azure/",
+      "length": "PT44M",
+      "ratings": {
+        "count": 1372,
+        "average": 4.6260934
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 56,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/design-your-migration-to-azure-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-incident-response-with-alerting-on-azure.md",
       "title": "Improve incident response with alerting on Azure",
       "excerpt": "Respond to incidents and activities in your infrastructure through alerting capabilities in Azure Monitor.",
@@ -399,8 +440,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/incident-response-with-alerting-on-azure/",
       "length": "PT53M",
       "ratings": {
-        "count": 1577,
-        "average": 4.6347494
+        "count": 1578,
+        "average": 4.6343474
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -557,8 +598,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/manage-device-identity-ad-join/",
       "length": "PT25M",
       "ratings": {
-        "count": 827,
-        "average": 4.570738
+        "count": 828,
+        "average": 4.5700483
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -599,8 +640,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/migrate-sql-server-relational-data/",
       "length": "PT1H24M",
       "ratings": {
-        "count": 715,
-        "average": 4.3734264
+        "count": 716,
+        "average": 4.3729053
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -745,42 +786,6 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-secure-your-azure-virtual-machine-disks.md",
-      "title": "Secure your Azure virtual machine disks",
-      "excerpt": "Explore the options for Azure disk encryption to encrypt OS and data disks on existing and new virtual machines.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-secure-your-azure-virtual-machine-disks/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/secure-your-azure-virtual-machine-disks/",
-      "length": "PT1H1M",
-      "ratings": {
-        "count": 2454,
-        "average": 4.6511817
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 56,
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Compute",
-        "Storage",
-        "Management Tools"
-      ]
-    },
-    {
       "path": "_learning/collections/microsoft-learn-implement-a-data-warehouse-with-azure-synapse-analytics.md",
       "title": "Implement a Data Warehouse with Azure Synapse Analytics",
       "excerpt": "Azure Synapse Analytics provides a relational big data store that can scale to Petabytes of data. In this learning path, you will learn how Azure Synapse Analytics can achieve this scale with its’ Massively Parallel Processing (MPP) architecture. Create a data warehouse in minutes and use familiar querying language to build reports. Load massive amounts of data in minutes, and ensure that your data warehouse is secure.",
@@ -922,8 +927,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/configure-network-for-azure-virtual-machines/",
       "length": "PT1H34M",
       "ratings": {
-        "count": 3550,
-        "average": 4.552676
+        "count": 3551,
+        "average": 4.552802
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -957,8 +962,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/control-authentication-with-apim/",
       "length": "PT55M",
       "ratings": {
-        "count": 1462,
-        "average": 4.644323
+        "count": 1463,
+        "average": 4.644566
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1000,8 +1005,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/describe-azure-databricks/",
       "length": "PT53M",
       "ratings": {
-        "count": 357,
-        "average": 4.495798
+        "count": 358,
+        "average": 4.4944134
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1043,8 +1048,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/describe-concepts-of-relational-data/",
       "length": "PT24M",
       "ratings": {
-        "count": 465,
-        "average": 4.791398
+        "count": 466,
+        "average": 4.7896996
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1168,8 +1173,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/develop-test-deploy-azure-functions-with-visual-studio/",
       "length": "PT43M",
       "ratings": {
-        "count": 1727,
-        "average": 4.599884
+        "count": 1728,
+        "average": 4.599537
       },
       "provider": {
         "name": "Microsoft Learn",
