@@ -4,47 +4,6 @@
   "page": 10,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-explore-relational-data-offerings.md",
-      "title": "Explore relational data offerings in Azure",
-      "excerpt": "Explore relational data offerings in Azure",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-explore-relational-data-offerings/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/explore-relational-data-offerings/",
-      "length": "PT33M",
-      "ratings": {
-        "count": 204,
-        "average": 4.77451
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 55,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/explore-relational-data-offerings-azure-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-export-data-with-azure-import-export.md",
       "title": "Export large amounts of data from Azure by using Azure Import/Export",
       "excerpt": "Learn how and when to use Azure Import/Export to copy large amounts of data from Azure",
@@ -52,8 +11,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/export-data-with-azure-import-export/",
       "length": "PT24M",
       "ratings": {
-        "count": 462,
-        "average": 4.683983
+        "count": 463,
+        "average": 4.684665
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -169,8 +128,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/intro-to-azure-machine-learning-service/",
       "length": "PT40M",
       "ratings": {
-        "count": 2029,
-        "average": 4.608674
+        "count": 2030,
+        "average": 4.6083746
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -252,8 +211,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/intro-to-kubernetes/",
       "length": "PT53M",
       "ratings": {
-        "count": 487,
-        "average": 4.603696
+        "count": 488,
+        "average": 4.6045084
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -294,8 +253,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/load-balance-web-traffic-with-application-gateway/",
       "length": "PT1H32M",
       "ratings": {
-        "count": 1875,
-        "average": 4.5829334
+        "count": 1876,
+        "average": 4.5826225
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -336,8 +295,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/manage-iot-devices/",
       "length": "PT44M",
       "ratings": {
-        "count": 876,
-        "average": 4.6792235
+        "count": 877,
+        "average": 4.6795893
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -636,8 +595,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/access-data-with-cosmos-db-and-sql-api/",
       "length": "PT58M",
       "ratings": {
-        "count": 2474,
-        "average": 4.64713
+        "count": 2475,
+        "average": 4.6472726
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -963,8 +922,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/create-security-baselines/",
       "length": "PT60M",
       "ratings": {
-        "count": 2083,
-        "average": 4.6293807
+        "count": 2085,
+        "average": 4.6297364
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1048,8 +1007,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/describe-identity-access-management-capabilities-of-microsoft-365/",
       "length": "PT29M",
       "ratings": {
-        "count": 151,
-        "average": 4.728477
+        "count": 152,
+        "average": 4.730263
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1217,8 +1176,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/intro-to-containers/",
       "length": "PT57M",
       "ratings": {
-        "count": 2737,
-        "average": 4.607965
+        "count": 2738,
+        "average": 4.607743
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1315,6 +1274,47 @@
           "url": "https://docs.microsoft.com/learn/achievements/student-evangelism/learn-data-science-method-social.png",
           "width": 640,
           "height": 320,
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-m365-identity-authentication.md",
+      "title": "Strengthen authentication (conditional access) with Azure Active Directory",
+      "excerpt": "Learn about modern authentication and the security benefits it provides to your organization, such as enabling multi-factor authentication and a passwordless environment.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-m365-identity-authentication/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/m365-identity-authentication/",
+      "length": "PT24M",
+      "ratings": {
+        "count": 1080,
+        "average": 4.697222
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 54,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/strengthen-authentication-with-microsoft-365-social.png",
+          "width": 800,
+          "height": 400,
           "isCached": true
         }
       ],
