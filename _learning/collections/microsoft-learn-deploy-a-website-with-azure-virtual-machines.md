@@ -4,7 +4,7 @@ excerpt: "If your web hosting requirements aren't directly supported by the Azur
 type: collection
 price: Free
 length: PT4H6M
-heat: 79
+heat: 87
 
 provider:
   name: Microsoft Learn

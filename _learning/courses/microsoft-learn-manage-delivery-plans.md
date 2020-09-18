@@ -6,8 +6,8 @@ type: course
 price: Free
 length: PT33M
 ratings:
-  count: 2053
-  average: 4.7213836
+  count: 2055
+  average: 4.7216544
 heat: 56
 
 provider:
@@ -24,6 +24,6 @@ levels:
 topics:
   - DevOps
 
-secured: "E10U4srjq4GUFJAjY1KdqYIT4SqA4468dV2zJh5Vp0Zz1aFPrxL8Wr3E2OxV5frbtxSAEGMeaA59avO3Uubz8dwVJexPePVLMy8kMzXnk6mS9CR8l9OR39stzi+ytp1vX4Jj6xsfYpGCoNXBGYeXLPSILH13XZjXf8ajlPFJPDZRGNNY+4gA4zfFhrTBnkeoeIMDnJXx7QrMoao98cT0oXxuAsKks2wjb2IirMn83x1WuO+EeL9lfWGZRATQq0q60ZyTdHWZ1rd2ekgB/aCCk4o30Z1+m+4DCy2wyr0XyUGPHvCpxPrW7wk+AtmafkbnatzZUgpv/I/ehomaHct/58hsAFTHTp8HgfaDoqAno21TZhBrMx1Oqrvit4oyxCEX+yqi8ZyQMCnt77m4LPrqSTdzrJc4gRskVvuHpXtLINk=;CWkAts6uDVaPIRRctbcVtQ=="
+secured: "KuawhmcjfSqU3RIjHuyQ3sYdtABf+KiG2VKeK3l7tIEn7IYAqjdxtS9Z64rlxi2xczN0JKJYQB5Zod85C2C2KlVNMi9dOUJp2PtS87s5OYJwKLAirxnKugCMlgoO10jMjZmrD5KTYTCws8JHFc6Wu+Wupkge70ecYSWTJVffL/S71tX68o2SKqsLZlzupQqscpTaDiZlaICbx/F2aoEBTj3yjLOsyajcrEvEDR/9yUy3GnxbFfMI3j8iwT//nYwF3uzHAXgwCc1PjWJHkpGCF/XPlh0AJTb5lt+YevnXappX2ZWh4vAybbIdw8X19lDzvJEpQgYu6afTiRyZqzOrLdZStBHMxRrztp7B46ZE4g6XG3aSGHkhE7cQhRJrDyQKsIhIbQhGY+u50ast8zb5ltsmS4RfAiMAW1elscLghgA=;KMa+Jk+C7UgAnraaeeInvw=="
 ---
 

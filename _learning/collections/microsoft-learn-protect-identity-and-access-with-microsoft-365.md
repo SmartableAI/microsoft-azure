@@ -4,7 +4,7 @@ excerpt: "Identity &amp; access management is the foundation for a secure digita
 type: collection
 price: Free
 length: PT60M
-heat: 64
+heat: 67
 
 provider:
   name: Microsoft Learn

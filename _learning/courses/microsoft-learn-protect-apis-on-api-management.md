@@ -8,7 +8,7 @@ length: PT43M
 ratings:
   count: 649
   average: 4.7180276
-heat: 51
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     height: 400
     isCached: true
 
-secured: "uaZXuUbHYdryYA+ErqUSoiNQ34EWscGja2lng+OXz/hKJbepYZyVDtmnuXKLS2oPLvmN6rsGnZSkmQ3hsBGCI+SAF3VQibFn073Cpe8CEDFNTRyulu+BGxZnG1YNypoCWS+gAbvTYgcjV0ho1Po9p45s7AbocqBbbzTVIz2auS7yAL1McblrWmXrC97PbfYvMz9yz7SRGN5Z7nYxpqvVHbxqiMoxr0C8QSdO/OSe9EpfT4FpN/VTfqGxAPwQI671RTWLPkWzqpJ9IdVCrneN4CgUpGtSdUWn1zyGJy7Nzo4l21yCBouLeYTdo6qeeuDx7PMY36teNS2Y13whxlxyylP/924YOCs+Woe1YFGa6Od2N0FM4fDUsIK8SI49W6jwl8Zfeon4FaTczWVes/tIRhLNzTMZmzhmFdkMHX9r2L0=;DEgjGk7sxxa1DulXOy+kOQ=="
+secured: "Sfj8pxywzJ5k4fJ/lplPZxnKmBcdkg6sfKG568ZVhMqBQYIZzo6AX5d12Je0Ns5PCwUGbMsn/nlKq8a1gm3ywj5trwGY1kf8NcIyK81ZgG5tnnGAJ3KySllhKal/QDOuf6CZQYMCjxJTxKpp3ZqkQAL/Tuit1aOU5wrDmoDiErtWpjRopflUfXdGJnLOo/Wc2HaU3hx6vPMOJoK4gTMp3HXOSEQ11rJWTvvYx/p3rL0zkOrFp6GVBFnUUY+p3VpGakCA2aQ4ij+gY3GrTDSDev48965eYz3mWlP00OC1ooAxRldkZq0tQp5Y4cbAeNcJjnUJBkOquUQTzVcgjC9ITYDm2o+D2O6MkV7WApizFbGqH3SUFh+dCJqhR/0iROxJ23hol1JAM1B6BOde2HGlw82hogI4yN4QhpdcEivYqdU=;Kcyi1E5d245CvTS1fVu7wQ=="
 ---
 
