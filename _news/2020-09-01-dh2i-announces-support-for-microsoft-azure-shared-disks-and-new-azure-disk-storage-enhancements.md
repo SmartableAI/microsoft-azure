@@ -38,15 +38,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Announcing the general availability of Azure shared disks and new Azure Disk Storage enhancements"
-    excerpt: "Today, we’re announcing the general availability of—enabling you to migrate your existing on-premises Windows and Linux-based clustered environments to Azure. We’re also announcing important new disk enhancements to provide you with more availability, security, and flexibility on Azure."
-    publishedDateTime: 2020-07-16T09:00:39Z
-    webUrl: "https://azure.microsoft.com/blog/announcing-the-general-availability-of-azure-shared-disks-and-new-azure-disk-storage-enhancements/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 58
 
 secured: "13HEaWleJlPnDC4RI8sxgG/L/FE3R1qcr1KzS1Dq5BZ1r+qNQM0yB+0FoQLeJqZi4s3baMRVXl06RLBGLiKgjiEdVnnlaqY24gEx60I0A142AdMjUyCFpZW0wikYnT2Kd6Se1QKT6nS3OSCb3GXvwpVf/rkFB2gcLSPblUtul8BcwYQTyHUsldAdLj4NCcAQQw7xWG90HJ1t1F0njQxdaDsjZ2CZnN8Xx6q7J2qJRsfVmmrl3xWesDuejL8NdtcPkLkim75ub7nUjCM7FYQWc4kkfaPUfiA+TOO3P7YWh2Urme5O9u4BdVtqcTltdvpIXSPjm52LXYxadnVqnCUZ88474Fy1JXEn0tFMZTYuw4c=;wAjkB9pjn3J3nOpCgEBVgg=="
 ---

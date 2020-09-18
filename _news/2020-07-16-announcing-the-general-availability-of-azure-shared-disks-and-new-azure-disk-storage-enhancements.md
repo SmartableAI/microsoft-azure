@@ -24,34 +24,131 @@ topics:
   - Management tools
 
 related:
-  - title: "DH2i Announces Support for Microsoft Azure Shared Disks and New Azure Disk Storage Enhancements"
-    excerpt: "Fortunately, with the release of Azure shared disks, this requirement has been met for SQL Server users. Customers that are deploying SQL Server in Azure are now able to create HA instances using shared disks for full instance failover."
-    publishedDateTime: 2020-09-02T07:45:00Z
-    webUrl: "https://www.marketwatch.com/press-release/dh2i-announces-support-for-microsoft-azure-shared-disks-and-new-azure-disk-storage-enhancements-2020-09-01"
+  - title: "Announcing the general availability of Azure Spot Virtual Machines"
+    excerpt: "Today we’re announcing the general availability of Azure Spot Virtual Machines (VMs). Azure Spot VMs provide access to unused Azure compute capacity at deep discounts. Spot pricing is available on single VMs in addition to VM scale sets (VMSS). This enables you to deploy a broader variety of workloads"
+    publishedDateTime: 2020-05-12T08:00:18Z
+    webUrl: "https://azure.microsoft.com/blog/announcing-the-general-availability-of-azure-spot-virtual-machines/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 65
+      name: Microsoft
+      domain: microsoft.com
+    quality: 104
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/333076bc-4f9e-4461-9ba7-810752e19173.jpg"
+        width: 800
+        height: 468
+        isCached: true
+  - title: "Azure Virtual Machine Scale Sets now provide simpler management during scale-in"
+    excerpt: "We recently announced the general availability of three features for Azure Virtual Machine Scale Sets. Instance protection, custom scale-in policy, and terminate notification provide new capabilities to simplify management of virtual machine instances during scale-in.\r\n\r\nAzure Virtual Machine Scale Sets"
+    publishedDateTime: 2020-05-11T12:00:03Z
+    webUrl: "https://azure.microsoft.com/blog/azure-virtual-machine-scale-sets-now-provide-simpler-management-during-scalein/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 100
+    images:
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/985df91e-de4d-4c27-a28b-f3ec9be164e3.jpg"
+        width: 1024
+        height: 696
+        isCached: true
+  - title: "Azure Pipelines announces the general availability of scale-set agents"
+    excerpt: "In the last two months, we improved the reliability in performing various scale-set operations. We have updated the guidance on how to improve the performance of provisioning new virtual machines."
+    publishedDateTime: 2020-09-11T21:13:11Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-pipelines-announce-the-general-availability-of-scaleset-agents/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
+  - title: "Announcing the general availability of Azure Monitor for virtual machines"
+    excerpt: "Today we're announcing the general availability of Azure Monitor for virtual machines (VMs), which provides an in-depth view of VM performance trends and dependencies. You can access Azure Monitor for VMs from the Azure VM resource blade to view details about a single VM, from the Azure Virtual Machine"
+    publishedDateTime: 2020-03-16T10:00:32Z
+    webUrl: "https://azure.microsoft.com/blog/announcing-the-general-availability-of-azure-monitor-for-virtual-machines/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 55
+    images:
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/8aaf8f84-054c-4681-82e8-58dd8d160940.png"
+        width: 1430
+        height: 953
+        isCached: true
+  - title: "Microsoft Announces the General Availability of Azure Spring Cloud"
+    excerpt: "Microsoft and VMWare both announced the general availability of Azure Spring Cloud, a fully-managed service for Spring Boot apps. The service allows enterprises to deploy JARs or code to it, and the service automates the process of wiring the apps to the Spring service runtime."
+    publishedDateTime: 2020-09-09T11:11:00Z
+    webUrl: "https://www.infoq.com/news/2020/09/azure-spring-cloud-ga/"
+    type: article
+    provider:
+      name: InfoQ
+      domain: infoq.com
+    quality: 37
+    images:
+      - url: "https://res.infoq.com/news/2020/09/azure-spring-cloud-ga/en/headerimage/croppted-Azure+Spring+Cloud-1599509541685.jpg"
         width: 1200
         height: 630
         isCached: true
-  - title: "DH2i Announces Support for Microsoft Azure Shared Disks and New Azure Disk Storage Enhancements"
-    excerpt: "FORT COLLINS, Colo., Sept. 1, 2020 /PRNewswire/ -- DH2i®, the leading provider of multi-platform Software Defined Perimeter (SDP) and Smart Availability™ software, today announced DxEnterprise ..."
-    publishedDateTime: 2020-09-01T09:15:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/dh2i-announces-support-for-microsoft-azure-shared-disks-and-new-azure-disk-storage-enhancements-301121956.html"
+  - title: "Finxact Announces General Availability of its Core-as-a-Service on Microsoft Azure"
+    excerpt: "Finxact is responding to growing market demand from its regional and super regional clients and prospects to support Azure. Finxact chose Microsoft based on its unique strength in accelerating ..."
+    publishedDateTime: 2020-05-13T12:33:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/finxact-announces-general-availability-of-its-core-as-a-service-on-microsoft-azure-301058085.html"
     type: article
     provider:
       name: PR Newswire
       domain: prnewswire.com
-    quality: 25
+    quality: 31
     images:
-      - url: "https://mma.prnewswire.com/media/324010/dh2i_logo.jpg?p=facebook"
-        width: 1400
-        height: 732
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
         isCached: true
+  - title: "Qualys Delivers Vulnerability Management to Microsoft Azure Security Center for Virtual Machines and Containers"
+    excerpt: "Now, Microsoft Azure developers and customers have real-time visibility to secure and remediate cloud workloads at a click of a button with built-in orchestration as well.\" \"Security is in the DNA ..."
+    publishedDateTime: 2020-05-07T13:06:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/qualys-delivers-vulnerability-management-to-microsoft-azure-security-center-for-virtual-machines-and-containers-301054791.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 17
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
+        isCached: true
+  - title: "Virtual Network NAT now generally available in Azure Government and Azure China"
+    excerpt: ""
+    publishedDateTime: 2020-05-07T21:00:13Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/virtualnetworknatgovchinaga/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 13
+  - title: "Microsoft Announces the General Availability of Windows Server Containers, and More for AKS"
+    excerpt: "Microsoft launched a preview of Windows Server Containers in Azure Kubernetes Service (AKS). Now the company announced the general availability of Windows Server containers in AKS, including the support of private clusters and managed identities."
+    publishedDateTime: 2020-05-05T11:23:00Z
+    webUrl: "https://www.infoq.com/news/2020/05/windows-server-containers-aks-ga/"
+    type: article
+    provider:
+      name: InfoQ
+      domain: infoq.com
+    quality: 12
+    images:
+      - url: "https://cdn.infoq.com/statics_s2_20200602-0333/styles/static/images/logo/logo-big.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Azure SQL Auditing to storage account behind Virtual Network and firewall now generally available"
+    excerpt: ""
+    publishedDateTime: 2020-05-13T16:01:00Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-sql-auditing-to-storage-account-behind-virtual-network-and-firewall-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 4
 
 secured: "OQlBqqkjO5h6EhRaBqVCOBaWVKRjY/vV8eCdt8TVuGXPQYRoraD85agNzIvjMxOxPVNM3kMDG4WcmFarXNUFj9znloVF32mtt8ohifqbHYXmzcNjSp2YuXrP9mHsNerIIOx0+kz4i8g90oypmgi4K+/5UcnIRkoHjCVxUtS/jUZRY4AMMV4iyt+lRfc3I+L/sFduwRz8LpTtC7Nah8C5f2UW92LpDxIZ3M50zBUkp2EhGD0neRbhmrGgM/XfzQGIaPDNNvWSHiiAQknYLGufKWJrz1OUNfQJPYn2ErBPfkrJV6O9d2Uir9p4knrVYCRsKT2IblF2PERwgUitgEADdH73RffWOMfJh6qYa1kQSx0=;AzFntdVUyNrj+ZKMwCzxBg=="
 ---

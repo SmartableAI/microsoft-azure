@@ -30,6 +30,42 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 18
+  - title: "Azure Security Center—Dynamic compliance packages now generally available"
+    excerpt: ""
+    publishedDateTime: 2020-04-28T23:00:42Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/dynamic-compliance-packages-ga/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 16
+  - title: "Azure custom role creation in the Azure portal is now generally available"
+    excerpt: ""
+    publishedDateTime: 2020-05-01T16:00:17Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-custom-roles-portal/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 16
+  - title: "Azure File shares snapshot management by Azure Backup is now generally available"
+    excerpt: ""
+    publishedDateTime: 2020-04-29T16:00:05Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-file-shares-snapshot-management-by-azure-backup-is-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 12
+  - title: "Windows Server containers in AKS now generally available"
+    excerpt: ""
+    publishedDateTime: 2020-04-28T16:30:38Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/windows-server-containers-in-aks-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 2
 
 secured: "cI1Nd7Vf6Jvwn5xSDL8RGHF7Yiw2TW0cYiApBQ5Bs42h3FbQY8kGvaSzl3T4oo92orQGMHsaneE3vowJA+qyLs4ZQJv+cnnGhocCJznFLEZDxQUZe58aGWXd7GXUu9JiAxPGTSjS6Khcz/3kN4e1hUqtl6zRyyzmBBdCqjiSjWJzwDS65JFz62u8iJtGZNejXxCmeiL0cL4jyMaff0KBLZIbklC7i4FLiYWT5/wYpGVAnD9aAdw+gWPIUYAUmJ5Znqs+uc98GolZx2GydKFTsSaG7erQLBPoqsNTyo/dEIKkgRO2NBKiCe31Uh+UltpAxgrmG+D4OXWQ+hI2OJwVZA==;zbsgx0igUKErGCx+1uQlwQ=="
 ---

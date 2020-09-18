@@ -22,19 +22,19 @@ topics:
   - Blockchain
 
 related:
-  - title: "Serverless for the enterprise with Microsoft Azure"
-    excerpt: "Cloud computing has opened new paradigms for enterprises to reach higher levels of productivity and scale. At the tip of that spear is serverless computing, enabling developers, teams, and organizations to focus on business logic and leave hosting and scaling of resources to the cloud platform.\r\n\r\nAt"
-    publishedDateTime: 2019-11-06T06:30:18Z
-    webUrl: "https://azure.microsoft.com/blog/serverless-for-the-enterprise-with-microsoft-azure/"
+  - title: "Accelerating customer success with Azure migration"
+    excerpt: "This blog post was co-authored by Jeremy Winter, Partner Director and Tanuj Bansal, Senior Director for Microsoft Azure.\r\n\r\nAt last year's Microsoft Ignite 2018, we shared best practices on how to move to the cloud and why Azure is the best destination for all your apps, data, and infrastructure. Since"
+    publishedDateTime: 2019-11-07T07:00:09Z
+    webUrl: "https://azure.microsoft.com/blog/accelerating-customer-success-with-azure-migration/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 39
+    quality: 54
     images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/77b8d4b9-ee3e-47f1-aed3-55a42d4385af.jpg"
-        width: 1430
-        height: 557
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/c07dd130-775c-4091-a648-dd290c678f17.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "9bKU5vatOOSlM9huEPVkhdvWRC9VLDiiAF+HZRJBmvpKAEikbC3cMt174yexoUuOZD8Uy8mMDF+Qlfh4d6GdH8kr59OHfssFyqgmJPpkpOW5Xy8bEBQ5tJoo0/U7bSsKjO9poCEwYePire8jG6llJl0GOB9yQPTCqzo3PJO02uDvfEAz/0uAXd0mA6UeE2P7GSZNXS+5g99RYf8oxsIbJF8TX4VokyWv2Wfi6SQkmKAWh+39V0jKlAuMddBCamuGaFhC4BQIWHwB5pr6V/N8DA3yVsqPxJStuHRl0DPua5uhD+GmHucRSAydAP68icS6qcQQ9RGskCeLTW7Zh/qf1A==;POOt/5MrqdVj84Q0pXENBw=="

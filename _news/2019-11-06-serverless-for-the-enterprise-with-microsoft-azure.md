@@ -28,17 +28,6 @@ images:
     isCached: true
     title: "Serverless for the enterprise with Microsoft Azure"
 
-related:
-  - title: "Accelerating blockchain adoption in the enterprise"
-    excerpt: "\r\n\r\nThe mission for our blockchain investments has remained steadfast since the beginning, with the goal of democratizing complex technologies and creating connections across organizational boundaries to solve shared problems in a trusted manner. With this in mind, our roadmap has been focused on building"
-    publishedDateTime: 2019-11-06T07:00:18Z
-    webUrl: "https://azure.microsoft.com/blog/accelerating-blockchain-adoption-in-the-enterprise/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 19
-
 secured: "xVWnurOkBFAvArRwBP+Z6sL+1PiMzUgEnRrhZpdSVlfk+BwmXec3RlC6H54BLDdkd4lyZmwyGVDjlNRmF9ES3vz29ck1xJxqbdHvJWV/JzMwhYytVfikwit5EGMbiBbLM8OvTjPRc4Bt6sUME+szBbf/opQd7fn1oEeXTpo6GRA8WFzkNmLGsoNw0MfwsrJCFXMoL1ReZ31s/hxKmWnZK6V13ighVayBOIqk+2NBzciH3SZemA9C67bs/Gl/fqG7dNTUDxjll79lOxt+YKMZlkQbjWQmsJy1VVopVx9yPGvAAHkB9IKq+6AL3HCI5YQ3Rqdwld5qPLhvMn146VoEnw==;h6YbY/SJDUf8eUjcwS/bAQ=="
 ---
 

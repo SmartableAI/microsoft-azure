@@ -35,6 +35,15 @@ related:
         width: 1457
         height: 806
         isCached: true
+  - title: "Azure Security Center for IoT RSA 2020 announcements"
+    excerpt: "We announced the general availability of Azure Security Center for IoT in July 2019. Since then, we have seen a lot of interest from both our customers and partners. Our team has been working on enhancing the capabilities we offer our customers to secure their IoT solutions. As our team gets ready to"
+    publishedDateTime: 2020-02-20T09:00:27Z
+    webUrl: "https://azure.microsoft.com/blog/azure-security-center-for-iot-rsa-2020-announcements/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 34
 
 secured: "DvDgQfwJ9rEzwFcmzMBQRRb+g2z8JwJee6RZCxB4WM9pS0pGFEOjpmx5MoR5pc8XbwK2P6QnsrReuc4E67ROI5cpZClyaBnHLYgrK/Ebz4PGiFUFB++WAKgyJeX45+Ql/u5W4hlfYO7KMaiE3h9u+Oi7sgeh2XVvzXG23XGiQBeHDrjfPNnKW/C2BinaZ87zFWrT1IUVCe607UQcDdK/02CyXNPkjDbbg4wCbghJDgR7vDpPMJhbZLno/vouZkXHQDdg27VfUTfToqg1m+uzieKPrpdCRVI/F87cnK5Uc0onNCoq7Jf0P3V41yTC6LQlTxb4xYY94nqPKtINLTDC0g==;GOyjZh66Ab5fKaEhewG7XQ=="
 ---

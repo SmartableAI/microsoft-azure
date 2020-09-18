@@ -21,24 +21,24 @@ topics:
   - Azure
 
 related:
-  - title: "A secure foundation for IoT, Azure Sphere now generally available"
-    excerpt: "Today Microsoft Azure Sphere is generally available. Our mission is to empower every organization on the planet to connect and create secured and trustworthy IoT devices. General availability is an important milestone for our team and for our customers, demonstrating that we are ready to fulfill our"
-    publishedDateTime: 2020-02-24T09:00:14Z
-    webUrl: "https://azure.microsoft.com/blog/a-secure-foundation-for-iot-azure-sphere-now-generally-available/"
+  - title: "Azure Machine Learning studio web experience is generally available"
+    excerpt: "Azure Machine Learning studio web experience is now generally available and bringing new features."
+    publishedDateTime: 2020-07-08T16:00:19Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-machine-learning-studio-web-experience-is-generally-available/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 19
-  - title: "State transition restriction rules for Azure Boards are now generally available"
-    excerpt: "State transition restriction rules for Azure Boards are now generally available. This update allows you to restrict work items from being moved from one state to another."
-    publishedDateTime: 2020-07-15T18:00:28Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/state-transition-restriction-rules-for-azure-boards-are-now-generally-available/"
+    quality: 17
+  - title: "Custom Commands is now generally available"
+    excerpt: "Streamline the process for creating task-oriented voice applications with Custom Commands (now generally available)."
+    publishedDateTime: 2020-07-08T16:00:19Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/custom-commands-is-now-generally-available/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 13
+    quality: 2
 
 secured: "plDW1DdFK+2A0MFVF8WTqSbhJLSxEMnSonghFDLbOlfzOp851WkhkJUvO10m3MPjTET+6iTJSpzm38mclbVDrEYuPtBH4ThdC306guiJE2NEvMQVdaogUSX14HWDtm/YEOr/5hlJi8XQel16iK/4Uyf1svpyJKNHh7MDuSC+yzewM6AFIHMLQNEDRKlU/pdDpLflgmhyviNDklGqfE8R8VVfAajBZO45x2D+XODtckDeSUxegxDXlApJUTK1RargHR5dnQPAj2Wp53IsylVA5EWT2CHqNLEQ8JS/B0VftzwTwPuis18MtnURYHc5N9yYHf0al7mevB8djz3amF1i+w==;l2OfrdgmC/e11sANNKAXew=="
 ---

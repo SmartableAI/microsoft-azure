@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/azure-maps-creator-now-available-
 webUrl: "https://azure.microsoft.com/blog/azure-maps-creator-now-available-in-preview/"
 type: article
 quality: 93
-heat: 533
+heat: 553
 published: true
 
 provider:
@@ -101,6 +101,20 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/06/hololens2-768x512.jpg"
         width: 768
         height: 512
+        isCached: true
+  - title: "Backup Explorer now available in preview"
+    excerpt: "As organizations continue to expand their use of IT and the cloud, protecting critical enterprise data becomes extremely important. And if you are a backup admin on Microsoft Azure, being able to efficiently monitor backups on a daily basis is a key requirement to ensuring that your organization has"
+    publishedDateTime: 2020-02-05T08:00:05Z
+    webUrl: "https://azure.microsoft.com/blog/backup-explorer-now-available-in-preview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 26
+    images:
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/f68dd946-126d-46ef-a94a-c336a605aa9b.jpg"
+        width: 1024
+        height: 693
         isCached: true
   - title: "Azure Monitor for VMs is now in preview in US Gov Virginia"
     excerpt: ""

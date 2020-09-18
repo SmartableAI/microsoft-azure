@@ -53,6 +53,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 66
+  - title: "A secure foundation for IoT, Azure Sphere now generally available"
+    excerpt: "Today Microsoft Azure Sphere is generally available. Our mission is to empower every organization on the planet to connect and create secured and trustworthy IoT devices. General availability is an important milestone for our team and for our customers, demonstrating that we are ready to fulfill our"
+    publishedDateTime: 2020-02-24T09:00:14Z
+    webUrl: "https://azure.microsoft.com/blog/a-secure-foundation-for-iot-azure-sphere-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 19
   - title: "Azure Storage account failover is now generally available "
     excerpt: "Customer-initiated Storage account failover is now generally available, allowing you to determine when to initiate a failover instead of waiting for Microsoft to do so."
     publishedDateTime: 2020-06-17T17:00:26Z

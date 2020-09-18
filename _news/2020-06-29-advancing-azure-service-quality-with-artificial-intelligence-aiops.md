@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/advancing-azure-service-quality-w
 webUrl: "https://azure.microsoft.com/blog/advancing-azure-service-quality-with-artificial-intelligence-aiops/"
 type: article
 quality: 89
-heat: 89
+heat: 109
 published: true
 
 provider:
@@ -28,6 +28,17 @@ images:
     height: 449
     isCached: true
     title: "Advancing Azure service quality with artificial intelligence: AIOps"
+
+related:
+  - title: "Stay ahead of attacks with Azure Security Center"
+    excerpt: " Now more than ever, organizations need to reduce costs, keep up with compliance requirements, all while managing risks in this constantly evolving landscape."
+    publishedDateTime: 2020-06-24T11:00:16Z
+    webUrl: "https://azure.microsoft.com/blog/stay-ahead-of-attacks-with-azure-security-center/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
 
 secured: "GagmHWk4ElKR61cXyAlWrJ7jOmv3ORAAc8Y8puTM2Ql6/h3nyxXVfxewPFr3sv7vm6iiARXZejFX1YCEdi4Wq5JKDvl2an57ETq7wUw6kb+T/Sprrq7pAmSMJ1o25HHAabSlDBoTZILQOJWSjoxqf9SRxtR1xFlmHzi6gEedm3L5FjHwTACb+4ivJ5tVXHgamzNTQ6JMBT0Ra/tvJRICafRFuJF/EJhH+fMtOJhmVgwzxnzU7KflBr1K0FsuVw4kq+Vn5sErHKWwGG5IbIn5P0Qu/paMCJ50u/u1YYICJbSloKJcGpe7Wzs1rvIarIS/fMmh+uvr55XkrYlWX678Jw/zk6MgGP3PxXCt/mU+8eg=;GPgs1g/vCFsw56+mDnGYzQ=="
 ---

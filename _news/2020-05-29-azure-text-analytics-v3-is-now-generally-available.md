@@ -63,15 +63,6 @@ related:
         width: 553
         height: 259
         isCached: true
-  - title: "Enhanced features in Azure Archive Storage now generally available"
-    excerpt: "Since launching Azure Archive Storage, we've seen unprecedented interest and innovative usage from a variety of industries. Archive Storage is built as a scalable service for cost-effectively storing rarely accessed data for long periods of time. Cold data, including application backups, healthcare records,"
-    publishedDateTime: 2020-04-21T09:00:40Z
-    webUrl: "https://azure.microsoft.com/blog/enhanced-features-in-azure-archive-storage-now-generally-available/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 21
 
 secured: "4W86tvLmhysqdsVzXf3LMuGrn/pNsnH7CKp3Emsk6Kb1L6Qgt2ybTC29wKbg8o5Q3y1qGCdD8LXVfHo/QOgfcOxH94P82H/3RmG5Pje3eJ33OEiYKZE5c5xLdEterbFEwSgso3thxG1X8aNYyuVAJ+kTziZjUnL5cmKKtabjLCNtE8fymV9YnwWUgWKUBKVNjss26IQe6FRJ1ZBF3mwuGQEscnOKons//js+KYruryPQ0mEpogD4Tu46gsMjXYhN7wMJzKQ2M9PofMVaq0AnaR269rckLregGNmq2wxXYNvp8lFH3N7Jh4lH0KSfppHex2+GP1RN/8IHtzMRcCkVnA==;aNsacEJYtNvKAAgN8Wd5RA=="
 ---

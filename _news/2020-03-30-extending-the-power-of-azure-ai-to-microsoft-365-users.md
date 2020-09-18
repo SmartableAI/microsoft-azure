@@ -44,6 +44,20 @@ related:
         width: 377
         height: 212
         isCached: true
+  - title: "Microsoft partners with the industry to unlock new 5G scenarios with Azure Edge Zones"
+    excerpt: "Cloud, edge computing, and IoT are making strides to transform whole industries and create opportunities that weren't possible just a few years ago. With the rise of 5G mobile connectivity, there are even more possibilities to deliver immersive, real-time experiences that have demanding, ultra-low latency,"
+    publishedDateTime: 2020-03-31T08:00:10Z
+    webUrl: "https://azure.microsoft.com/blog/microsoft-partners-with-the-industry-to-unlock-new-5g-scenarios-with-azure-edge-zones/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 82
+    images:
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/cddd85e8-8aa8-4290-b5d4-22f41eeb03eb.png"
+        width: 1023
+        height: 484
+        isCached: true
   - title: "Lenovo Teams With Microsoft Azure At The Edge"
     excerpt: "The new offerings are tied closely to Microsoft’s Azure software stack for enterprises operating in a hybrid cloud model, with a presence both on-premises and in the cloud. Microsoft actually pre-announced the new ThinkAgile MX1021 at its Ignite 2019 ..."
     publishedDateTime: 2020-03-31T15:36:00Z

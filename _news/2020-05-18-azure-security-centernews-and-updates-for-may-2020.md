@@ -30,6 +30,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
+  - title: "Azure Security Center—News and updates for June 2020"
+    excerpt: "New enhancements and updates were made to Azure Security Center in June 2020."
+    publishedDateTime: 2020-07-01T00:00:38Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/asc-june2020/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 17
   - title: "Azure Security Center—News and updates for July 2020"
     excerpt: "New enhancements and updates were made to Azure Security Center in July 2020."
     publishedDateTime: 2020-08-04T16:00:33Z

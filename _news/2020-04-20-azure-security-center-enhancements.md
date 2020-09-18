@@ -6,7 +6,7 @@ publishedDateTime: 2020-04-20T08:00:23Z
 webUrl: "https://azure.microsoft.com/blog/azure-security-center-enhancements/"
 type: article
 quality: 54
-heat: 74
+heat: 94
 published: true
 
 provider:
@@ -29,6 +29,15 @@ images:
     title: "Azure Security Center enhancements"
 
 related:
+  - title: "Azure Security Center for IoT RSA 2020 announcements"
+    excerpt: "We announced the general availability of Azure Security Center for IoT in July 2019. Since then, we have seen a lot of interest from both our customers and partners. Our team has been working on enhancing the capabilities we offer our customers to secure their IoT solutions. As our team gets ready to"
+    publishedDateTime: 2020-02-20T09:00:27Z
+    webUrl: "https://azure.microsoft.com/blog/azure-security-center-for-iot-rsa-2020-announcements/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 34
   - title: "Advanced integrations with export of Security Center recommendations and alerts"
     excerpt: ""
     publishedDateTime: 2020-04-15T16:00:24Z

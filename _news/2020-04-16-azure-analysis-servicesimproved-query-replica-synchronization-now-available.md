@@ -56,15 +56,6 @@ related:
         width: 553
         height: 259
         isCached: true
-  - title: "Enhanced features in Azure Archive Storage now generally available"
-    excerpt: "Since launching Azure Archive Storage, we've seen unprecedented interest and innovative usage from a variety of industries. Archive Storage is built as a scalable service for cost-effectively storing rarely accessed data for long periods of time. Cold data, including application backups, healthcare records,"
-    publishedDateTime: 2020-04-21T09:00:40Z
-    webUrl: "https://azure.microsoft.com/blog/enhanced-features-in-azure-archive-storage-now-generally-available/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 21
   - title: "Azure Text Analytics v3 is now generally available"
     excerpt: ""
     publishedDateTime: 2020-05-29T21:00:32Z

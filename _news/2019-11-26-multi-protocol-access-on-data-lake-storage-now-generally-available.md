@@ -38,6 +38,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 20
+  - title: "Azure Data Lake Storage lifecycle management is now generally available"
+    excerpt: "Lifecycle management for Azure Data Lake Storage provides an automated solution for tiering down infrequently used data to cooler tiers, allowing you to easily optimize your data for both performance and cost.   "
+    publishedDateTime: 2020-07-31T20:00:18Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/lifecycle-management-for-azure-data-lake-storage-is-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 17
 
 secured: "ap7nz+3r3lDY2X7pJyQbwhagijuk5N4dh+7vTKI3NziS4zd0Ch5bG8s2XWC5X50IbZP46ZQBsE/ZUcH0JYcvaXiYgaH3aQdU8a39AkRPaPdiN15itipSj+UmGrwhYPcp/AaK54WiV/VztSXNqujs4JIXITjiFq+WwO4ex/rDua8JC9cgwR8K28z2xV5HJdLyuOBNLqT6eYct3/GvpEMxqQOqJ3tLrZviYXn2u9kMLl+n+cHzOeW61pqhop3t+MBo/P3VnT67zjXEkPylhw2NMqK0t6/mawZJX6M4vljMRlJoB+47BEhbF3F/zhbZGgpVX/6XfeECbPHrbuENHZNwzw==;SAVjmh74XtVJnhB8vCeFCQ=="
 ---

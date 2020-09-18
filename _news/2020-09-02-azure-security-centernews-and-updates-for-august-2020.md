@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/asc-august2020/"
 webUrl: "https://azure.microsoft.com/en-us/updates/asc-august2020/"
 type: article
 quality: 67
-heat: 107
+heat: 127
 published: true
 
 provider:
@@ -26,6 +26,15 @@ related:
     excerpt: ""
     publishedDateTime: 2020-05-18T00:00:51Z
     webUrl: "https://azure.microsoft.com/en-us/updates/asc-may2020/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 17
+  - title: "Azure Security Center—News and updates for June 2020"
+    excerpt: "New enhancements and updates were made to Azure Security Center in June 2020."
+    publishedDateTime: 2020-07-01T00:00:38Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/asc-june2020/"
     type: article
     provider:
       name: Microsoft

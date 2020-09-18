@@ -94,6 +94,20 @@ related:
         width: 640
         height: 386
         isCached: true
+  - title: "Backup Explorer now available in preview"
+    excerpt: "As organizations continue to expand their use of IT and the cloud, protecting critical enterprise data becomes extremely important. And if you are a backup admin on Microsoft Azure, being able to efficiently monitor backups on a daily basis is a key requirement to ensuring that your organization has"
+    publishedDateTime: 2020-02-05T08:00:05Z
+    webUrl: "https://azure.microsoft.com/blog/backup-explorer-now-available-in-preview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 26
+    images:
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/f68dd946-126d-46ef-a94a-c336a605aa9b.jpg"
+        width: 1024
+        height: 693
+        isCached: true
   - title: "Azure Monitor for VMs is now in preview in US Gov Virginia"
     excerpt: ""
     publishedDateTime: 2020-05-26T18:00:13Z

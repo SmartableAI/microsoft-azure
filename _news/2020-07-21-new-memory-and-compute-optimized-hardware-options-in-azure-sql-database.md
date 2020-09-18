@@ -35,6 +35,15 @@ related:
         width: 709
         height: 491
         isCached: true
+  - title: "5 ways to optimize your backup costs with Azure Backup"
+    excerpt: "Achieving cost efficiency in your cloud usage is more critical today than ever before. \nAt Azure Backup, we are committed to helping you optimize your backup costs. Over the last few months, we have…"
+    publishedDateTime: 2020-09-01T09:00:01Z
+    webUrl: "https://azure.microsoft.com/blog/5-ways-to-optimize-your-backup-costs-with-azure-backup/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 71
   - title: "New memory optimized and compute optimized hardware options in Azure SQL Database"
     excerpt: "New memory optimized and compute optimized hardware options are now generally available in Azure SQL Database."
     publishedDateTime: 2020-07-23T16:04:22Z
