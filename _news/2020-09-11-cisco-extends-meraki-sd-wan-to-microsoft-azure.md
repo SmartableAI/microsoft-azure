@@ -1,26 +1,28 @@
 ---
 category: news
 title: "Cisco extends Meraki SD-WAN to Microsoft Azure"
-excerpt: "Cisco Meraki has added to its SD-WAN portfolio with support for workloads running in Microsoft Azure cloud environments. Specifically, the vendor has integrated its SD-WAN Powered by Cisco Meraki offering with Microsoft's Azure Virtual WAN service ..."
-publishedDateTime: 2020-09-10T23:07:00Z
-originalUrl: "https://www.reseller.co.nz/article/682841/cisco-extends-meraki-sd-wan-microsoft-azure/"
-webUrl: "https://www.reseller.co.nz/article/682841/cisco-extends-meraki-sd-wan-microsoft-azure/"
+excerpt: "Cisco and Microsoft have teamed up on another joint effort, this time to make it easier for enterprise branch offices with Cisco Meraki SD-WAN gear to tap into the Azure Virtual WAN service."
+publishedDateTime: 2020-09-10T20:08:00Z
+originalUrl: "https://www.networkworld.com/article/3574711/cisco-extends-meraki-sd-wan-to-microsoft-azure.html"
+webUrl: "https://www.networkworld.com/article/3574711/cisco-extends-meraki-sd-wan-to-microsoft-azure.html"
+ampWebUrl: "https://www.networkworld.com/article/3574711/cisco-extends-meraki-sd-wan-to-microsoft-azure.amp.html"
+cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3574711/cisco-extends-meraki-sd-wan-to-microsoft-azure.amp.html"
 type: article
-quality: 37
-heat: 37
-published: false
+quality: 57
+heat: 77
+published: true
 
 provider:
-  name: Reseller News
-  domain: reseller.co.nz
+  name: Network World
+  domain: networkworld.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://d1abomko0vm8t1.cloudfront.net/article/images/800x800/dimg/dreamstime_s_144034004_15.jpg"
-    width: 800
-    height: 518
+  - url: "https://images.idgesg.net/images/article/2020/08/virtual_connections_social_networking_remote_teams_by_igor_kutyaev_gettyimages-1209893950_2400x1600-100854043-large.jpg"
+    width: 1200
+    height: 800
     isCached: true
 
 related:
@@ -34,6 +36,6 @@ related:
       domain: channele2e.com
     quality: 17
 
-secured: "BhqeCk7mt+rhupCM6Ys7rTCZs4aaryfEB7I9G00ugcy88D8GzHw8UI+HAeY5Suq0uYR3FpCsynfwi+/rXCIfnAu4CHwbh3B3Yb80oT1DJasXIqCWDKLpsBNI3L2+uVyEJxXD4dYG+8kKLDLibk/F7+S88xYCMFWLPi1s/SgxRj7WB85PlqHeQXps0a0gIe5Rgybms/GzRpv/eko7qz5ogseP1TzblwY/xfpXJ1CKARlWO7D2k5mcJDvr+ricF7zq1hFH5zTsiWgwjRHZ+fOZJF2hmF6Mdv5cmt0pk/kHZ/4aro/AMdfWKQPzfDDp6qvwLtlM6m0HjOvRJff8bS6fNs+WkPJH2wu2+WIW54glPiI=;Upal4AkH6mx/gXgGkLdYjA=="
+secured: "UqqsbLzkUm9u8tKqCaVH/1qAIRZi+GcI78MS5j6DerF1qfWK6P2lyNRz6zsLObxHIjx0Cgu/eD3BQ9HsaDhnGDOEMeiN/S5M/zGOw9EwY9ZLDfZn6WNyDvvBCig+ywLzJPlSmdtz4Xg043ZGapY2X3MBERc5YF1iujMwdAzZ+DASsSeqUfkjTMZ6CM36/L484ZPeWGwVknAcL/i3AN4CUAlKo/ssdSiozfVp7hUHIg1WN4kqQ+UPzJdMAkr3heSv0YzUvxo5JMRDQrSN9rfhjAmtVyabqs4svDlAvhFU64egeH8vIm02Lht8ibSn3uAw7pNT0NY9sgiS3Uv28/2hWU5ihQWzhYjZddC77kXyseY=;XSwZarpGYk7OaHXCJCJBPA=="
 ---
 
