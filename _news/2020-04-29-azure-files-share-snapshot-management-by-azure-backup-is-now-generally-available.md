@@ -6,7 +6,7 @@ publishedDateTime: 2020-04-29T09:00:53Z
 webUrl: "https://azure.microsoft.com/blog/azure-files-share-snapshot-management-by-azure-backup-is-now-generally-available/"
 type: article
 quality: 36
-heat: 36
+heat: 156
 published: false
 
 provider:
