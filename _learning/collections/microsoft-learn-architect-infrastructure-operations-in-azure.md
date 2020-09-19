@@ -4,7 +4,7 @@ excerpt: "Learn how to monitor, analyze, and manage the ongoing operation of you
 type: collection
 price: Free
 length: PT3H56M
-heat: 108
+heat: 117
 
 provider:
   name: Microsoft Learn

@@ -4,47 +4,6 @@
   "page": 20,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-compare-two-samples-by-bootstrapping.md",
-      "title": "Compare two samples by bootstrapping",
-      "excerpt": "Learn how to test hypothesis about samples using bootstrapping",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-compare-two-samples-by-bootstrapping/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/compare-two-samples-by-bootstrapping/",
-      "length": "PT1H24M",
-      "ratings": {
-        "count": 45,
-        "average": 4.6444445
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/student-evangelism/compare-two-samples-by-bootstrapping-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-configure-bitlocker-disk-encryption-for-windows-iaas-vms.md",
       "title": "Configure BitLocker disk encryption for Windows IaaS Virtual Machines",
       "excerpt": "You'll be able to configure Azure Disk Encryption for Windows IaaS VMs and back up and recover encrypted data.",
@@ -863,8 +822,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/create-manipulate-tables-using-datascience-library/",
       "length": "PT1H32M",
       "ratings": {
-        "count": 78,
-        "average": 4.794872
+        "count": 79,
+        "average": 4.759494
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1070,8 +1029,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/creating-and-configuring-hdinsight-cluster/",
       "length": "PT1H6M",
       "ratings": {
-        "count": 135,
-        "average": 4.577778
+        "count": 136,
+        "average": 4.5735292
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1265,6 +1224,47 @@
           "url": "https://docs.microsoft.com/learn/achievements/data-estate-migration-and-modernization-social.png",
           "width": 800,
           "height": 400,
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-debug-nodejs.md",
+      "title": "Interactively debug Node.js apps with the built-in and Visual Studio Code debuggers",
+      "excerpt": "Learn how to efficiently debug your Node.js app by using Visual Studio Code to fix your bugs quickly.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-debug-nodejs/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/debug-nodejs/",
+      "length": "PT37M",
+      "ratings": {
+        "count": 97,
+        "average": 4.7010307
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/debug-nodejs-social.png",
+          "width": 642,
+          "height": 322,
           "isCached": true
         }
       ],

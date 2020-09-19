@@ -11,8 +11,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/intro-to-azure-compute/",
       "length": "PT38M",
       "ratings": {
-        "count": 62347,
-        "average": 4.7092724
+        "count": 62348,
+        "average": 4.709277
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -41,50 +41,6 @@
         "IoT",
         "Blockchain",
         "Integration"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-use-azure-maps-to-track-air-pollution.md",
-      "title": "Track global air quality with Azure Maps",
-      "excerpt": "This module shows how you can track global air quality using the Azure Maps Web SDK and pollution data from a third-party air quality API.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-use-azure-maps-to-track-air-pollution/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/azure-maps-track-air-pollution/",
-      "length": "PT36M",
-      "ratings": {
-        "count": 29,
-        "average": 4.6551723
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 110,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/advocates/use-azure-maps-to-track-air-pollution-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "IoT",
-        "Mobile",
-        "Web"
       ]
     },
     {
@@ -1605,8 +1561,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/route-and-process-data-logic-apps/",
       "length": "PT56M",
       "ratings": {
-        "count": 1460,
-        "average": 4.528767
+        "count": 1461,
+        "average": 4.5290895
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1693,8 +1649,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/create-your-first-iot-central-app/",
       "length": "PT1H22M",
       "ratings": {
-        "count": 560,
-        "average": 4.5857143
+        "count": 563,
+        "average": 4.5879216
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2100,8 +2056,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/explore-analyze-time-series-insights/",
       "length": "PT37M",
       "ratings": {
-        "count": 323,
-        "average": 4.656347
+        "count": 324,
+        "average": 4.6574073
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2210,6 +2166,50 @@
         "IoT",
         "Blockchain",
         "Integration"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-react-to-state-changes-using-event-grid.md",
+      "title": "React to state changes in your Azure services by using Event Grid",
+      "excerpt": "Build a serverless application architecture, automate your operations, and integrate applications by handling Azure events with Event Grid.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-react-to-state-changes-using-event-grid/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/react-to-state-changes-using-event-grid/",
+      "length": "PT33M",
+      "ratings": {
+        "count": 252,
+        "average": 4.5992064
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/react-to-state-changes-using-event-grid-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Integration",
+        "IoT",
+        "Blockchain"
       ]
     }
   ],

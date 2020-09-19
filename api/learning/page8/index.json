@@ -198,8 +198,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/explore-concepts-of-non-relational-data/",
       "length": "PT26M",
       "ratings": {
-        "count": 390,
-        "average": 4.817949
+        "count": 391,
+        "average": 4.815857
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -436,8 +436,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/provision-azure-sql-db/",
       "length": "PT50M",
       "ratings": {
-        "count": 4583,
-        "average": 4.6497927
+        "count": 4584,
+        "average": 4.649651
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -794,8 +794,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/design-ip-addressing-for-azure/",
       "length": "PT37M",
       "ratings": {
-        "count": 1159,
-        "average": 4.7264886
+        "count": 1160,
+        "average": 4.726724
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -826,50 +826,6 @@
       "topics": [
         "Azure",
         "Networking"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-design-monitoring-strategy-on-azure.md",
-      "title": "Design a holistic monitoring strategy on Azure",
-      "excerpt": "Use monitoring services on Azure to bring operational excellence to your applications and infrastructure.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-design-monitoring-strategy-on-azure/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/design-monitoring-strategy-on-azure/",
-      "length": "PT57M",
-      "ratings": {
-        "count": 1280,
-        "average": 4.578906
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 57,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/design-monitoring-strategy-on-azure-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "DevOps",
-        "Management Tools",
-        "Security"
       ]
     },
     {
@@ -998,8 +954,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/introduction-python-nasa/",
       "length": "PT23M",
       "ratings": {
-        "count": 472,
-        "average": 4.7351694
+        "count": 473,
+        "average": 4.735729
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1118,8 +1074,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/troubleshoot-azure-network-infrastructure/",
       "length": "PT37M",
       "ratings": {
-        "count": 1960,
-        "average": 4.572959
+        "count": 1961,
+        "average": 4.573177
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1211,6 +1167,41 @@
         "Azure",
         "Management Tools",
         "AI"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-build-azure-vm-templates.md",
+      "title": "Build Azure Resource Manager templates",
+      "excerpt": "Learn how Resource Manager templates express your deployments as code, enabling you to deploy faster and more reliably.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-build-azure-vm-templates/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/build-azure-vm-templates/",
+      "length": "PT37M",
+      "ratings": {
+        "count": 3363,
+        "average": 4.5313706
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 56,
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Management Tools",
+        "Compute"
       ]
     }
   ],
