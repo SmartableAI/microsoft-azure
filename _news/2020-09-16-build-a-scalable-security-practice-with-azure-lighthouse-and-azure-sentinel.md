@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/build-a-scalable-security-practic
 webUrl: "https://azure.microsoft.com/blog/build-a-scalable-security-practice-with-azure-lighthouse-and-azure-sentinel/"
 type: article
 quality: 82
-heat: 102
+heat: 103
 published: true
 
 provider:

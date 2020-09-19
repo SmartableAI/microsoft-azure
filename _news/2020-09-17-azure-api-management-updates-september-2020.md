@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/azure-api-management-upd
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-api-management-updates-september-2020/"
 type: article
 quality: 67
-heat: 87
+heat: 88
 published: true
 
 provider:
