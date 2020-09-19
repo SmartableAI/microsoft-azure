@@ -4,7 +4,7 @@ excerpt: "Decision-makers in education have considerations that are particular t
 type: collection
 price: Free
 length: PT9H42M
-heat: 62
+heat: 60
 
 provider:
   name: Microsoft Learn
