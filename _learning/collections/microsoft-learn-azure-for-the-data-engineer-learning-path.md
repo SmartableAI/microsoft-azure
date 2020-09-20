@@ -14,11 +14,6 @@ provider:
       width: 50
       height: 50
 
-items:
-  - courses/microsoft-learn-evolving-world-of-data
-  - courses/microsoft-learn-survey-the-azure-data-platform
-  - courses/microsoft-learn-data-engineering-processes
-
 levels:
   - Beginner
 

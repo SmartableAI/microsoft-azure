@@ -14,12 +14,6 @@ provider:
       width: 50
       height: 50
 
-items:
-  - courses/microsoft-learn-introduction-open-source-database-migration-azure
-  - courses/microsoft-learn-migrate-premises-mysql-databases-azure-database-mysql
-  - courses/microsoft-learn-migrate-premises-postgresql-databases-azure-database-postgresql
-  - courses/microsoft-learn-protecting-monitoring-tuning-migrated-database
-
 levels:
   - Intermediate
 

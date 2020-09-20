@@ -14,12 +14,6 @@ provider:
       width: 50
       height: 50
 
-items:
-  - courses/microsoft-learn-design-your-migration-to-azure
-  - courses/microsoft-learn-prepare-onpremises-workloads-migration-azure
-  - courses/microsoft-learn-migrate-onpremises-workloads-azure
-  - courses/microsoft-learn-migrate-sql-server-relational-data
-
 levels:
   - Intermediate
 

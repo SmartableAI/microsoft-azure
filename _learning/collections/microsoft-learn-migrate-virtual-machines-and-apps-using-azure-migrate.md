@@ -14,12 +14,6 @@ provider:
       width: 50
       height: 50
 
-items:
-  - courses/microsoft-learn-m365-azure-migrate-introduction
-  - courses/microsoft-learn-m365-azure-migrate-set-up
-  - courses/microsoft-learn-m365-azure-migrate-discover-assess
-  - courses/microsoft-learn-m365-azure-migrate-replicate-virtual-servers
-
 levels:
   - Intermediate
 

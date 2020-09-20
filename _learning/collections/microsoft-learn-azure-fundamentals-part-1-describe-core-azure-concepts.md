@@ -14,11 +14,6 @@ provider:
       width: 50
       height: 50
 
-items:
-  - courses/microsoft-learn-intro-to-azure-fundamentals
-  - courses/microsoft-learn-fundamental-azure-concepts
-  - courses/microsoft-learn-azure-architecture-fundamentals
-
 levels:
   - Beginner
 

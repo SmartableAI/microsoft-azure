@@ -14,16 +14,6 @@ provider:
       width: 50
       height: 50
 
-items:
-  - courses/microsoft-learn-create-azure-storage-account
-  - courses/microsoft-learn-choose-the-right-disk-storage-for-vm-workload
-  - courses/microsoft-learn-secure-azure-storage-account
-  - courses/microsoft-learn-store-and-share-with-azure-files
-  - courses/microsoft-learn-upload-download-and-manage-data-with-azure-storage-explorer
-  - courses/microsoft-learn-export-data-with-azure-import-export
-  - courses/microsoft-learn-move-data-with-azure-data-box
-  - courses/microsoft-learn-extend-share-capacity-with-azure-file-sync
-
 levels:
   - Beginner
 

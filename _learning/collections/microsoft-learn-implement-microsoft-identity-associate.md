@@ -14,13 +14,6 @@ provider:
       width: 50
       height: 50
 
-items:
-  - courses/microsoft-learn-getting-started-identity
-  - courses/microsoft-learn-identity-application-types
-  - courses/microsoft-learn-identity-permissions-consent
-  - courses/microsoft-learn-identity-secure-custom-api
-  - courses/microsoft-learn-identity-users-groups-approles
-
 levels:
   - Intermediate
 

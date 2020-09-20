@@ -14,13 +14,6 @@ provider:
       width: 50
       height: 50
 
-items:
-  - courses/microsoft-learn-get-started-with-connected-field-service
-  - courses/microsoft-learn-remotely-monitor-and-service-customer-equipment
-  - courses/microsoft-learn-register-and-manage-customer-devices-with-connected-field-service
-  - courses/microsoft-learn-using-iot-central-with-connected-field-service
-  - courses/microsoft-learn-identify-exceptions-with-connected-field-service
-
 levels:
   - Intermediate
 

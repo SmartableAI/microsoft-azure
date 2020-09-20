@@ -14,11 +14,6 @@ provider:
       width: 50
       height: 50
 
-items:
-  - courses/microsoft-learn-cmu-monitor-cloud-resources
-  - courses/microsoft-learn-cmu-cloud-security
-  - courses/microsoft-learn-cmu-disaster-recovery-backup
-
 levels:
   - Beginner
 

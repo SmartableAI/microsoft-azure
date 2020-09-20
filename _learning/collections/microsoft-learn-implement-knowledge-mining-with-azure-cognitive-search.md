@@ -14,11 +14,6 @@ provider:
       width: 50
       height: 50
 
-items:
-  - courses/microsoft-learn-create-azure-cognitive-search-solution
-  - courses/microsoft-learn-create-enrichment-pipeline-with-azure-cognitive-search
-  - courses/microsoft-learn-create-knowledge-store-with-azure-cognitive-search
-
 levels:
   - Intermediate
 

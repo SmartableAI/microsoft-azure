@@ -14,11 +14,6 @@ provider:
       width: 50
       height: 50
 
-items:
-  - courses/microsoft-learn-provision-infrastructure-azure-pipelines
-  - courses/microsoft-learn-configure-infrastructure-azure-pipelines
-  - courses/microsoft-learn-provision-databases-azure-pipelines
-
 levels:
   - Intermediate
 

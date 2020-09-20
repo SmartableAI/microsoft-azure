@@ -14,12 +14,6 @@ provider:
       width: 50
       height: 50
 
-items:
-  - courses/microsoft-learn-plan-deploy-windows-server-iaas-vms
-  - courses/microsoft-learn-customize-windows-server-iaas-vm-images
-  - courses/microsoft-learn-automate-configuration-of-windows-server-iaas-vms
-  - courses/microsoft-learn-upgrade-migrate-windows-server-iaas-virtual-machines
-
 levels:
   - Intermediate
 

@@ -14,12 +14,6 @@ provider:
       width: 50
       height: 50
 
-items:
-  - courses/microsoft-learn-azure-intro-to-logic-apps
-  - courses/microsoft-learn-route-and-process-data-logic-apps
-  - courses/microsoft-learn-logic-apps-and-custom-connectors
-  - courses/microsoft-learn-logic-apps-and-arm-templates
-
 levels:
   - Beginner
   - Intermediate

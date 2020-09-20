@@ -14,11 +14,6 @@ provider:
       width: 50
       height: 50
 
-items:
-  - courses/microsoft-learn-aspnet-configurationbuilder
-  - courses/microsoft-learn-aspnet-logging
-  - courses/microsoft-learn-aspnet-session
-
 levels:
   - Intermediate
 

@@ -14,14 +14,6 @@ provider:
       width: 50
       height: 50
 
-items:
-  - courses/microsoft-learn-cmu-share-cloud-resources
-  - courses/microsoft-learn-cmu-virtualization
-  - courses/microsoft-learn-cmu-virtualize-computing-power
-  - courses/microsoft-learn-cmu-virtualize-memory
-  - courses/microsoft-learn-cmu-virtualize-input-output
-  - courses/microsoft-learn-cmu-storage-network-virtualization
-
 levels:
   - Beginner
   - Intermediate

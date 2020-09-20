@@ -14,11 +14,6 @@ provider:
       width: 50
       height: 50
 
-items:
-  - courses/microsoft-learn-cloud-storage-overview
-  - courses/microsoft-learn-case-study-distributed-file-systems
-  - courses/microsoft-learn-case-study-nosql-databases-object-storage
-
 levels:
   - Beginner
   - Intermediate

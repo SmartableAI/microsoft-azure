@@ -14,11 +14,6 @@ provider:
       width: 50
       height: 50
 
-items:
-  - courses/microsoft-learn-implement-azure-vm-based-sap-solutions
-  - courses/microsoft-learn-migrate-sap-workloads-azure
-  - courses/microsoft-learn-maintain-azure-sap-workloads
-
 levels:
   - Advanced
 

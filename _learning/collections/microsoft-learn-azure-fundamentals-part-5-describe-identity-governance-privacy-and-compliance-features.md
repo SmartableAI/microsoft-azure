@@ -14,12 +14,6 @@ provider:
       width: 50
       height: 50
 
-items:
-  - courses/microsoft-learn-intro-to-azure-fundamentals
-  - courses/microsoft-learn-secure-access-azure-identity-services
-  - courses/microsoft-learn-build-cloud-governance-strategy-azure
-  - courses/microsoft-learn-examine-privacy-compliance-data-protection-standards
-
 levels:
   - Beginner
 

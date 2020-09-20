@@ -14,11 +14,6 @@ provider:
       width: 50
       height: 50
 
-items:
-  - courses/microsoft-learn-examine-components-of-modern-data-warehouse
-  - courses/microsoft-learn-explore-data-ingestion-azure
-  - courses/microsoft-learn-explore-data-storage-processing-azure
-
 levels:
   - Beginner
 

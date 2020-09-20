@@ -14,12 +14,6 @@ provider:
       width: 50
       height: 50
 
-items:
-  - courses/microsoft-learn-assess-your-development-process
-  - courses/microsoft-learn-get-started-with-devops
-  - courses/microsoft-learn-choose-an-agile-approach
-  - courses/microsoft-learn-manage-delivery-plans
-
 levels:
   - Intermediate
 

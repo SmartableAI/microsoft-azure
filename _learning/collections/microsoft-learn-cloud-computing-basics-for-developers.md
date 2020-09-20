@@ -14,14 +14,6 @@ provider:
       width: 50
       height: 50
 
-items:
-  - courses/microsoft-learn-cmu-cloud-computing-overview
-  - courses/microsoft-learn-cmu-cloud-economics
-  - courses/microsoft-learn-cmu-data-centers
-  - courses/microsoft-learn-cmu-data-center-design
-  - courses/microsoft-learn-cmu-data-center-cloud-service
-  - courses/microsoft-learn-cmu-build-apps-cloud
-
 levels:
   - Beginner
   - Intermediate

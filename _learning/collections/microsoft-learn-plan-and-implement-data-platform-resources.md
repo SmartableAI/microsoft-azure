@@ -14,11 +14,6 @@ provider:
       width: 50
       height: 50
 
-items:
-  - courses/microsoft-learn-deploy-sql-server-virtual-machine
-  - courses/microsoft-learn-deploy-azure-sql-database
-  - courses/microsoft-learn-deploy-mariadb-mysql-postgresql-azure
-
 levels:
   - Intermediate
 

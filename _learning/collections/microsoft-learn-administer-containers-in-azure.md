@@ -14,15 +14,6 @@ provider:
       width: 50
       height: 50
 
-items:
-  - courses/microsoft-learn-intro-to-docker-containers
-  - courses/microsoft-learn-intro-to-containers
-  - courses/microsoft-learn-azure-container-registry
-  - courses/microsoft-learn-run-docker-containers-aci
-  - courses/microsoft-learn-deploy-run-container-app-service
-  - courses/microsoft-learn-intro-to-kubernetes
-  - courses/microsoft-learn-intro-to-azure-kubernetes-service
-
 levels:
   - Beginner
 

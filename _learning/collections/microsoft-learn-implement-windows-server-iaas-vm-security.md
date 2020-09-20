@@ -14,14 +14,6 @@ provider:
       width: 50
       height: 50
 
-items:
-  - courses/microsoft-learn-audit-security-of-windows-server-iaas-vms
-  - courses/microsoft-learn-manage-azure-updates
-  - courses/microsoft-learn-create-implement-application-allowlists-with-adaptive-application-control
-  - courses/microsoft-learn-configure-bitlocker-disk-encryption-for-windows-iaas-vms
-  - courses/microsoft-learn-implement-change-tracking-file-integrity-monitoring-for-windows-iaas-vms
-  - courses/microsoft-learn-implement-windows-server-iaas-vm-network-security
-
 levels:
   - Intermediate
 

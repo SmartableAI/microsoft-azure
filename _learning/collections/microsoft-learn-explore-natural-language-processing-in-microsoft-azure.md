@@ -14,12 +14,6 @@ provider:
       width: 50
       height: 50
 
-items:
-  - courses/microsoft-learn-analyze-text-with-text-analytics-service
-  - courses/microsoft-learn-recognize-synthesize-speech
-  - courses/microsoft-learn-translate-text-with-translation-service
-  - courses/microsoft-learn-create-language-model-with-luis
-
 levels:
   - Beginner
 

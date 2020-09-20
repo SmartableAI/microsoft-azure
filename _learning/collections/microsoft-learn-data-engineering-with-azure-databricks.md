@@ -14,23 +14,6 @@ provider:
       width: 50
       height: 50
 
-items:
-  - courses/microsoft-learn-describe-azure-databricks
-  - courses/microsoft-learn-spark-architecture-fundamentals
-  - courses/microsoft-learn-read-write-data-azure-databricks
-  - courses/microsoft-learn-work-dataframes-azure-databricks
-  - courses/microsoft-learn-describe-lazy-evaluation-other-performance-features-azure-databricks
-  - courses/microsoft-learn-work-dataframes-columns-azure-databricks
-  - courses/microsoft-learn-work-dataframes-advanced-methods-azure-databricks
-  - courses/microsoft-learn-describe-platform-architecture-security-data-protection-azure-databricks
-  - courses/microsoft-learn-build-query-delta-lake
-  - courses/microsoft-learn-process-streaming-data-azure-databricks-structured-streaming
-  - courses/microsoft-learn-describe-azure-databricks-delta-lake-architecture
-  - courses/microsoft-learn-create-production-workloads-azure-databricks-azure-data-factory
-  - courses/microsoft-learn-implement-ci-cd-azure-devops
-  - courses/microsoft-learn-integrate-azure-databricks-other-azure-services
-  - courses/microsoft-learn-describe-azure-databricks-best-practices
-
 levels:
   - Intermediate
 

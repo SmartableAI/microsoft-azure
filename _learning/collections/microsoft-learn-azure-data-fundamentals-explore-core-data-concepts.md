@@ -14,13 +14,6 @@ provider:
       width: 50
       height: 50
 
-items:
-  - courses/microsoft-learn-explore-core-data-concepts
-  - courses/microsoft-learn-explore-roles-responsibilities-world-of-data
-  - courses/microsoft-learn-describe-concepts-of-relational-data
-  - courses/microsoft-learn-explore-concepts-of-non-relational-data
-  - courses/microsoft-learn-explore-concepts-of-data-analytics
-
 levels:
   - Beginner
 

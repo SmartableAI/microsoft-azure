@@ -14,11 +14,6 @@ provider:
       width: 50
       height: 50
 
-items:
-  - courses/microsoft-learn-intro-to-azure-fundamentals
-  - courses/microsoft-learn-protect-against-security-threats-azure
-  - courses/microsoft-learn-secure-network-connectivity-azure
-
 levels:
   - Beginner
 

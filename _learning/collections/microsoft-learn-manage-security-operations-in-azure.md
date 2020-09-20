@@ -14,16 +14,6 @@ provider:
       width: 50
       height: 50
 
-items:
-  - courses/microsoft-learn-introduction-to-security
-  - courses/microsoft-learn-create-security-baselines
-  - courses/microsoft-learn-identify-threats-with-azure-security-center
-  - courses/microsoft-learn-resolve-threats-with-azure-security-center
-  - courses/microsoft-learn-secure-vms-with-security-center
-  - courses/microsoft-learn-analyze-infrastructure-with-azure-monitor-logs
-  - courses/microsoft-learn-incident-response-with-alerting-on-azure
-  - courses/microsoft-learn-capture-application-logs-app-service
-
 levels:
   - Beginner
   - Intermediate

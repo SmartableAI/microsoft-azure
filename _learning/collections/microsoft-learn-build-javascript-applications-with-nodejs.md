@@ -14,13 +14,6 @@ provider:
       width: 50
       height: 50
 
-items:
-  - courses/microsoft-learn-intro-to-nodejs
-  - courses/microsoft-learn-create-nodejs-project-dependencies
-  - courses/microsoft-learn-debug-nodejs
-  - courses/microsoft-learn-nodejs-files
-  - courses/microsoft-learn-build-web-api-nodejs-express
-
 levels:
   - Beginner
 

@@ -14,13 +14,6 @@ provider:
       width: 50
       height: 50
 
-items:
-  - courses/microsoft-learn-describe-performance-monitoring
-  - courses/microsoft-learn-explore-causes-of-performance-issues
-  - courses/microsoft-learn-configure-sql-server-resources-for-optimal-performance
-  - courses/microsoft-learn-configure-databases-for-performance
-  - courses/microsoft-learn-describe-performance-related-maintenance-tasks-sql-server
-
 levels:
   - Intermediate
 

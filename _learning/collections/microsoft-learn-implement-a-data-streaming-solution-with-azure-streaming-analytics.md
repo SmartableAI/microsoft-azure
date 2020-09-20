@@ -14,10 +14,6 @@ provider:
       width: 50
       height: 50
 
-items:
-  - courses/microsoft-learn-introduction-to-data-streaming
-  - courses/microsoft-learn-transform-data-with-azure-stream-analytics
-
 levels:
   - Beginner
 

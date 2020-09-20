@@ -14,11 +14,6 @@ provider:
       width: 50
       height: 50
 
-items:
-  - courses/microsoft-learn-describe-sql-server-query-plans
-  - courses/microsoft-learn-evaluate-performance-improvements
-  - courses/microsoft-learn-explore-performance-based-design
-
 levels:
   - Intermediate
 

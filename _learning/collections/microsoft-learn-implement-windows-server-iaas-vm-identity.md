@@ -14,10 +14,6 @@ provider:
       width: 50
       height: 50
 
-items:
-  - courses/microsoft-learn-implement-hybrid-identity-with-windows-server
-  - courses/microsoft-learn-deploy-manage-azure-iaas-active-directory-domain-controllers-azure
-
 levels:
   - Intermediate
 

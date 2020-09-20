@@ -14,13 +14,6 @@ provider:
       width: 50
       height: 50
 
-items:
-  - courses/microsoft-learn-introduction-to-github
-  - courses/microsoft-learn-github-actions-automate-tasks
-  - courses/microsoft-learn-github-actions-ci
-  - courses/microsoft-learn-github-actions-cd
-  - courses/microsoft-learn-automate-github-using-github-script
-
 levels:
   - Beginner
   - Intermediate

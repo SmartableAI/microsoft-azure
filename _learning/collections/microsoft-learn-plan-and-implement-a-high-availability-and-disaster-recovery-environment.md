@@ -14,11 +14,6 @@ provider:
       width: 50
       height: 50
 
-items:
-  - courses/microsoft-learn-describe-high-availability-disaster-recovery-strategies
-  - courses/microsoft-learn-explore-iaas-paas-platform-tools-for-ha-dr
-  - courses/microsoft-learn-backup-restore-databases
-
 levels:
   - Intermediate
 

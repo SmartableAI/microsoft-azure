@@ -14,15 +14,6 @@ provider:
       width: 50
       height: 50
 
-items:
-  - courses/microsoft-learn-add-conversational-intelligence-luis
-  - courses/microsoft-learn-manage-language-understanding-intelligent-service-apps
-  - courses/microsoft-learn-use-containers-language-understanding-intelligent-service-apps
-  - courses/microsoft-learn-classify-user-feedback-with-the-text-analytics-api
-  - courses/microsoft-learn-recognize-entities-text-analytics-api
-  - courses/microsoft-learn-extract-key-phrases-text-analytics-api
-  - courses/microsoft-learn-detect-language-text-analytics-api
-
 levels:
   - Intermediate
 

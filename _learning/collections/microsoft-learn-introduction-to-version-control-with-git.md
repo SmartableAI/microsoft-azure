@@ -14,11 +14,6 @@ provider:
       width: 50
       height: 50
 
-items:
-  - courses/microsoft-learn-introduction-to-git
-  - courses/microsoft-learn-collaborate-with-git
-  - courses/microsoft-learn-branch-merge-git
-
 levels:
   - Beginner
 

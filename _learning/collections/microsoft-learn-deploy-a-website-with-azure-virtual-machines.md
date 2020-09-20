@@ -14,12 +14,6 @@ provider:
       width: 50
       height: 50
 
-items:
-  - courses/microsoft-learn-introduction-to-azure-virtual-machines
-  - courses/microsoft-learn-create-linux-vm-in-azure
-  - courses/microsoft-learn-create-a-windows-vm-in-azure
-  - courses/microsoft-learn-build-and-run-a-web-application-with-the-mean-stack-on-an-azure-linux-vm
-
 levels:
   - Beginner
 

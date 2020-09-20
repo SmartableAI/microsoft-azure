@@ -14,11 +14,6 @@ provider:
       width: 50
       height: 50
 
-items:
-  - courses/microsoft-learn-create-manage-cognitive-services
-  - courses/microsoft-learn-investigate-container-for-use-with-cognitive-services
-  - courses/microsoft-learn-secure-cognitive-services
-
 levels:
   - Intermediate
 

@@ -14,20 +14,6 @@ provider:
       width: 50
       height: 50
 
-items:
-  - courses/microsoft-learn-describe-azure-databricks
-  - courses/microsoft-learn-spark-architecture-fundamentals
-  - courses/microsoft-learn-read-write-data-azure-databricks
-  - courses/microsoft-learn-work-dataframes-azure-databricks
-  - courses/microsoft-learn-work-with-user-defined-functions
-  - courses/microsoft-learn-build-query-delta-lake
-  - courses/microsoft-learn-perform-machine-learning-with-azure-databricks
-  - courses/microsoft-learn-train-machine-learning-model
-  - courses/microsoft-learn-work-with-mlflow-azure-databricks
-  - courses/microsoft-learn-perform-model-selection-with-hyperparameter-tuning
-  - courses/microsoft-learn-deep-learning-with-horovod-distributed-training
-  - courses/microsoft-learn-work-with-azure-machine-learning-deploy-serving-models
-
 levels:
   - Intermediate
 

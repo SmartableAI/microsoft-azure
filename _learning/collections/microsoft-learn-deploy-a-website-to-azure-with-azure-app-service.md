@@ -14,14 +14,6 @@ provider:
       width: 50
       height: 50
 
-items:
-  - courses/microsoft-learn-prepare-azure-dev-environment
-  - courses/microsoft-learn-host-a-web-application-with-azure-web-apps
-  - courses/microsoft-learn-publish-azure-web-app-with-visual-studio
-  - courses/microsoft-learn-stage-deploy-app-service-deployment-slots
-  - courses/microsoft-learn-app-service-scale-up-scale-out
-  - courses/microsoft-learn-deploy-run-container-app-service
-
 levels:
   - Beginner
 

@@ -14,16 +14,6 @@ provider:
       width: 50
       height: 50
 
-items:
-  - courses/microsoft-learn-create-serverless-logic-with-functions
-  - courses/microsoft-learn-route-and-process-data-logic-apps
-  - courses/microsoft-learn-choose-messaging-model
-  - courses/microsoft-learn-communicate-between-applications-with-azure-queue-storage
-  - courses/microsoft-learn-enable-reliable-messaging-for-big-data-applications-using-azure-event-hubs
-  - courses/microsoft-learn-implement-message-workflows-with-service-bus
-  - courses/microsoft-learn-react-to-state-changes-using-event-grid
-  - courses/microsoft-learn-expose-hybrid-services-with-azure-relay
-
 levels:
   - Intermediate
 

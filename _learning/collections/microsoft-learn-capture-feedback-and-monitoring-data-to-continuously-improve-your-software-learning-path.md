@@ -14,11 +14,6 @@ provider:
       width: 50
       height: 50
 
-items:
-  - courses/microsoft-learn-recommend-system-feedback-mechanisms
-  - courses/microsoft-learn-route-system-feedback
-  - courses/microsoft-learn-manage-site-reliability
-
 levels:
   - Intermediate
 

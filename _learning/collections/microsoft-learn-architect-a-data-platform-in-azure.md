@@ -14,18 +14,6 @@ provider:
       width: 50
       height: 50
 
-items:
-  - courses/microsoft-learn-intro-to-data-in-azure
-  - courses/microsoft-learn-provision-azure-sql-db
-  - courses/microsoft-learn-azure-scale-azure-sql-dbs-elastic-pools
-  - courses/microsoft-learn-migrate-sql-server-relational-data
-  - courses/microsoft-learn-develop-app-that-queries-azure-sql
-  - courses/microsoft-learn-create-cosmos-db-for-scale
-  - courses/microsoft-learn-distribute-data-globally-with-cosmos-db
-  - courses/microsoft-learn-access-data-with-cosmos-db-and-sql-api
-  - courses/microsoft-learn-design-azure-sql-data-warehouse
-  - courses/microsoft-learn-import-data-into-asdw-with-polybase
-
 levels:
   - Intermediate
 

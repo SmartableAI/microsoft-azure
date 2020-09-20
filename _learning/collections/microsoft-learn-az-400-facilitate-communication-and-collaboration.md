@@ -14,14 +14,6 @@ provider:
       width: 50
       height: 50
 
-items:
-  - courses/microsoft-learn-analyze-devops-continuous-planning-intergration
-  - courses/microsoft-learn-introduce-foundation-pillars-devops
-  - courses/microsoft-learn-characterize-devops-continous-collaboration-improvement
-  - courses/microsoft-learn-explain-devops-continous-delivery-quality
-  - courses/microsoft-learn-review-planning-managing-costs
-  - courses/microsoft-learn-route-system-feedback
-
 levels:
   - Beginner
 

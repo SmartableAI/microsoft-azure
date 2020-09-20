@@ -14,11 +14,6 @@ provider:
       width: 50
       height: 50
 
-items:
-  - courses/microsoft-learn-configure-database-authentication-authorization
-  - courses/microsoft-learn-protect-data-transit-at-rest
-  - courses/microsoft-learn-implement-compliance-controls-for-sensitive-data
-
 levels:
   - Intermediate
 

@@ -14,16 +14,6 @@ provider:
       width: 50
       height: 50
 
-items:
-  - courses/microsoft-learn-design-monitoring-strategy-on-azure
-  - courses/microsoft-learn-monitor-azure-vm-using-diagnostic-data
-  - courses/microsoft-learn-analyze-infrastructure-with-azure-monitor-logs
-  - courses/microsoft-learn-incident-response-with-alerting-on-azure
-  - courses/microsoft-learn-capture-page-load-times-application-insights
-  - courses/microsoft-learn-protect-virtual-machines-with-azure-backup
-  - courses/microsoft-learn-protect-infrastructure-with-azure-site-recovery
-  - courses/microsoft-learn-azure-well-architected-reliability
-
 levels:
   - Beginner
 

@@ -14,14 +14,6 @@ provider:
       width: 50
       height: 50
 
-items:
-  - courses/microsoft-learn-m365-identity-overview
-  - courses/microsoft-learn-m365-identity-provisioning
-  - courses/microsoft-learn-m365-identity-authentication
-  - courses/microsoft-learn-m365-identity-secure-administrators
-  - courses/microsoft-learn-m365-identity-cultural-shift
-  - courses/microsoft-learn-m365-identity-zero-trust
-
 levels:
   - Intermediate
 

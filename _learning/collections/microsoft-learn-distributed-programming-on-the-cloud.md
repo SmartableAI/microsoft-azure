@@ -14,13 +14,6 @@ provider:
       width: 50
       height: 50
 
-items:
-  - courses/microsoft-learn-introduction
-  - courses/microsoft-learn-analytics-engines-mapreduce
-  - courses/microsoft-learn-analytics-engines-graphlab
-  - courses/microsoft-learn-analytics-engines-spark
-  - courses/microsoft-learn-message-queues-stream-processing
-
 levels:
   - Beginner
   - Intermediate

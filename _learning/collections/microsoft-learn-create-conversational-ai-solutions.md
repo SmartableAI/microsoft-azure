@@ -14,11 +14,6 @@ provider:
       width: 50
       height: 50
 
-items:
-  - courses/microsoft-learn-build-chat-bot-with-azure-portal
-  - courses/microsoft-learn-design-bot-conversation-flow
-  - courses/microsoft-learn-create-bot-with-bot-framework-composer
-
 levels:
   - Intermediate
 

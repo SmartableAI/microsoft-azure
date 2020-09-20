@@ -14,16 +14,6 @@ provider:
       width: 50
       height: 50
 
-items:
-  - courses/microsoft-learn-intro-to-site-reliability-engineering
-  - courses/microsoft-learn-incident-response-with-alerting-on-azure
-  - courses/microsoft-learn-capture-application-logs-app-service
-  - courses/microsoft-learn-manage-site-reliability
-  - courses/microsoft-learn-cmu-cloud-elasticity
-  - courses/microsoft-learn-cmu-build-apps-cloud
-  - courses/microsoft-learn-troubleshoot-inbound-network-connectivity-azure-load-balancer
-  - courses/microsoft-learn-monitor-azure-vm-using-diagnostic-data
-
 levels:
   - Beginner
 

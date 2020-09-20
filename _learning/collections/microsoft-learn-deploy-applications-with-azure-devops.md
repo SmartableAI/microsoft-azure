@@ -14,17 +14,6 @@ provider:
       width: 50
       height: 50
 
-items:
-  - courses/microsoft-learn-create-release-pipeline
-  - courses/microsoft-learn-create-multi-stage-pipeline
-  - courses/microsoft-learn-manage-database-changes-in-azure-pipelines
-  - courses/microsoft-learn-run-functional-tests-azure-pipelines
-  - courses/microsoft-learn-run-non-functional-tests-azure-pipelines
-  - courses/microsoft-learn-manage-release-cadence
-  - courses/microsoft-learn-deploy-azure-functions
-  - courses/microsoft-learn-deploy-docker
-  - courses/microsoft-learn-deploy-kubernetes
-
 levels:
   - Intermediate
 

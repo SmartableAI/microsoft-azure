@@ -14,12 +14,6 @@ provider:
       width: 50
       height: 50
 
-items:
-  - courses/microsoft-learn-manage-hybrid-workloads-with-azure-arc
-  - courses/microsoft-learn-monitor-windows-server-iaas-vms-hybrid-instances
-  - courses/microsoft-learn-audit-security-of-windows-server-iaas-vms
-  - courses/microsoft-learn-manage-azure-updates
-
 levels:
   - Intermediate
 

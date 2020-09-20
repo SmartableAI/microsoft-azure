@@ -14,11 +14,6 @@ provider:
       width: 50
       height: 50
 
-items:
-  - courses/microsoft-learn-explore-non-relational-data-offerings-azure
-  - courses/microsoft-learn-explore-provision-deploy-non-relational-data-services-azure
-  - courses/microsoft-learn-explore-non-relational-data-stores-azure
-
 levels:
   - Beginner
 

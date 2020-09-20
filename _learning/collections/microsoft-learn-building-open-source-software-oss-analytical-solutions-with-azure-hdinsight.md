@@ -14,14 +14,6 @@ provider:
       width: 50
       height: 50
 
-items:
-  - courses/microsoft-learn-introduction-open-source-analytics-offering
-  - courses/microsoft-learn-hdinsight-configuration-to-build-open-source-analytical-solutions
-  - courses/microsoft-learn-creating-and-configuring-hdinsight-cluster
-  - courses/microsoft-learn-perform-advanced-streaming-data-transformations-with-spark-kafka
-  - courses/microsoft-learn-perform-zero-etl-analytics-hdinsight-interactive-query
-  - courses/microsoft-learn-manage-enterprise-security-in-hdinsight
-
 levels:
   - Intermediate
 

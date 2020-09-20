@@ -14,11 +14,6 @@ provider:
       width: 50
       height: 50
 
-items:
-  - courses/microsoft-learn-explore-relational-data-offerings
-  - courses/microsoft-learn-explore-provision-deploy-relational-database-offerings-azure
-  - courses/microsoft-learn-query-relational-data-azure
-
 levels:
   - Beginner
 

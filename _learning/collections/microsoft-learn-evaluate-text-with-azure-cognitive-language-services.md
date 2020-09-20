@@ -14,11 +14,6 @@ provider:
       width: 50
       height: 50
 
-items:
-  - courses/microsoft-learn-classify-and-moderate-text-with-azure-content-moderator
-  - courses/microsoft-learn-create-and-publish-a-luis-model
-  - courses/microsoft-learn-classify-user-feedback-with-the-text-analytics-api
-
 levels:
   - Beginner
 

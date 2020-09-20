@@ -14,14 +14,6 @@ provider:
       width: 50
       height: 50
 
-items:
-  - courses/microsoft-learn-introduction-to-security
-  - courses/microsoft-learn-intro-to-governance
-  - courses/microsoft-learn-control-and-organize-with-resource-manager
-  - courses/microsoft-learn-secure-azure-resources-with-rbac
-  - courses/microsoft-learn-manage-subscription-access-azure-rbac
-  - courses/microsoft-learn-create-custom-roles-rbac
-
 levels:
   - Beginner
   - Intermediate

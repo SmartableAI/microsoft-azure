@@ -14,20 +14,6 @@ provider:
       width: 50
       height: 50
 
-items:
-  - courses/microsoft-learn-intro-to-azure-machine-learning-service
-  - courses/microsoft-learn-train-local-model-with-azure-mls
-  - courses/microsoft-learn-work-with-data-in-aml
-  - courses/microsoft-learn-use-compute-contexts-in-aml
-  - courses/microsoft-learn-create-pipelines-in-aml
-  - courses/microsoft-learn-register-and-deploy-model-with-amls
-  - courses/microsoft-learn-deploy-batch-inference-pipelines-with-azure-machine-learning
-  - courses/microsoft-learn-tune-hyperparameters-with-azure-machine-learning
-  - courses/microsoft-learn-automate-model-selection-with-azure-automl
-  - courses/microsoft-learn-explain-machine-learning-models-with-azure-machine-learning
-  - courses/microsoft-learn-monitor-models-with-azure-machine-learning
-  - courses/microsoft-learn-monitor-data-drift-with-azure-machine-learning
-
 levels:
   - Beginner
 

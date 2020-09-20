@@ -14,19 +14,6 @@ provider:
       width: 50
       height: 50
 
-items:
-  - courses/microsoft-learn-create-a-build-pipeline
-  - courses/microsoft-learn-run-quality-tests-build-pipeline
-  - courses/microsoft-learn-manage-build-dependencies
-  - courses/microsoft-learn-host-build-agent
-  - courses/microsoft-learn-create-release-pipeline
-  - courses/microsoft-learn-create-multi-stage-pipeline
-  - courses/microsoft-learn-run-functional-tests-azure-pipelines
-  - courses/microsoft-learn-run-non-functional-tests-azure-pipelines
-  - courses/microsoft-learn-configure-infrastructure-azure-pipelines
-  - courses/microsoft-learn-protect-vm-settings-with-dsc
-  - courses/microsoft-learn-github-actions-ci
-
 levels:
   - Beginner
 

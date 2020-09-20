@@ -14,9 +14,6 @@ provider:
       width: 50
       height: 50
 
-items:
-  - courses/microsoft-learn-build-faq-chatbot-qna-maker-azure-bot-service
-
 levels:
   - Beginner
 

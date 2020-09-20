@@ -14,13 +14,6 @@ provider:
       width: 50
       height: 50
 
-items:
-  - courses/microsoft-learn-choose-storage-approach-in-azure
-  - courses/microsoft-learn-create-azure-storage-account
-  - courses/microsoft-learn-connect-app-to-azure-storage
-  - courses/microsoft-learn-secure-azure-storage-account
-  - courses/microsoft-learn-store-app-data-with-azure-blob-storage
-
 levels:
   - Beginner
 

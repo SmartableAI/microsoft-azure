@@ -14,11 +14,6 @@ provider:
       width: 50
       height: 50
 
-items:
-  - courses/microsoft-learn-intro-to-azure-fundamentals
-  - courses/microsoft-learn-plan-manage-azure-costs
-  - courses/microsoft-learn-choose-azure-services-sla-lifecycle
-
 levels:
   - Beginner
 

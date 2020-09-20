@@ -14,13 +14,6 @@ provider:
       width: 50
       height: 50
 
-items:
-  - courses/microsoft-learn-control-and-organize-with-resource-manager
-  - courses/microsoft-learn-intro-to-governance
-  - courses/microsoft-learn-design-monitoring-strategy-on-azure
-  - courses/microsoft-learn-incident-response-with-alerting-on-azure
-  - courses/microsoft-learn-analyze-infrastructure-with-azure-monitor-logs
-
 levels:
   - Intermediate
 

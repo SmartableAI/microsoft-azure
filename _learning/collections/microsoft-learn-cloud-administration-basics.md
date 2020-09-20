@@ -14,11 +14,6 @@ provider:
       width: 50
       height: 50
 
-items:
-  - courses/microsoft-learn-cmu-cloud-admin-overview
-  - courses/microsoft-learn-cloud-admin-provision-manage
-  - courses/microsoft-learn-secure-cloud-resources
-
 levels:
   - Beginner
 

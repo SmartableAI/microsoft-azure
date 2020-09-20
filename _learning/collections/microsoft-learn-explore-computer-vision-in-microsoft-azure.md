@@ -14,14 +14,6 @@ provider:
       width: 50
       height: 50
 
-items:
-  - courses/microsoft-learn-analyze-images-computer-vision
-  - courses/microsoft-learn-classify-images-custom-vision
-  - courses/microsoft-learn-detect-objects-images-custom-vision
-  - courses/microsoft-learn-detect-analyze-faces
-  - courses/microsoft-learn-read-text-computer-vision
-  - courses/microsoft-learn-analyze-receipts-form-recognizer
-
 levels:
   - Beginner
 

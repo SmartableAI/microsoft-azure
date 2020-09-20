@@ -14,16 +14,6 @@ provider:
       width: 50
       height: 50
 
-items:
-  - courses/microsoft-learn-introduction-to-azure-solutions
-  - courses/microsoft-learn-app-and-infra-migration-and-modernization
-  - courses/microsoft-learn-data-estate-migration-and-modernization
-  - courses/microsoft-learn-azure-ai-strategy
-  - courses/microsoft-learn-azure-iot-strategy-and-solutions
-  - courses/microsoft-learn-azure-in-action
-  - courses/microsoft-learn-microsoft-cloud-adoption-framework-for-azure-v1-1
-  - courses/microsoft-learn-microsoft-runs-on-trust
-
 levels:
   - Beginner
 

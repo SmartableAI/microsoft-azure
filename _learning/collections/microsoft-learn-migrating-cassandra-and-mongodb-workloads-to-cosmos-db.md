@@ -14,11 +14,6 @@ provider:
       width: 50
       height: 50
 
-items:
-  - courses/microsoft-learn-introduction-open-source-database-migration-azure-cosmos-db
-  - courses/microsoft-learn-migrate-cassandra-workloads-cosmos-db
-  - courses/microsoft-learn-migrate-premises-mongodb-databases-azure-database-mongodb
-
 levels:
   - Intermediate
 

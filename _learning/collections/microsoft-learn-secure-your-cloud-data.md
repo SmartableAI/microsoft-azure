@@ -14,15 +14,6 @@ provider:
       width: 50
       height: 50
 
-items:
-  - courses/microsoft-learn-introduction-to-security
-  - courses/microsoft-learn-top-5-security-items-to-consider
-  - courses/microsoft-learn-configure-security-policies-to-manage-data
-  - courses/microsoft-learn-secure-azure-storage-account
-  - courses/microsoft-learn-configure-and-manage-azure-key-vault
-  - courses/microsoft-learn-secure-azure-resources-with-rbac
-  - courses/microsoft-learn-secure-your-azure-sql-database
-
 levels:
   - Beginner
   - Intermediate

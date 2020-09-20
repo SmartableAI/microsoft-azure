@@ -14,11 +14,6 @@ provider:
       width: 50
       height: 50
 
-items:
-  - courses/microsoft-learn-cmu-virtualization
-  - courses/microsoft-learn-cmu-cloud-elasticity
-  - courses/microsoft-learn-cmu-orchestration
-
 levels:
   - Beginner
 

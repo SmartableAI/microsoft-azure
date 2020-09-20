@@ -14,10 +14,6 @@ provider:
       width: 50
       height: 50
 
-items:
-  - courses/microsoft-learn-implement-ai-organization
-  - courses/microsoft-learn-start-ml-lifecycle-mlops
-
 levels:
   - Intermediate
 

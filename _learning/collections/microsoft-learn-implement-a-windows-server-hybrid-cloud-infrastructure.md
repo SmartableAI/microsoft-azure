@@ -14,14 +14,6 @@ provider:
       width: 50
       height: 50
 
-items:
-  - courses/microsoft-learn-implement-hybrid-network-infrastructure
-  - courses/microsoft-learn-implement-hybrid-identity-with-windows-server
-  - courses/microsoft-learn-migrate-premises-windows-server-instances-to-azure-iaas-vms
-  - courses/microsoft-learn-implement-hybrid-file-server-infrastructure
-  - courses/microsoft-learn-implement-hybrid-backup-recovery-with-windows-server-iaas
-  - courses/microsoft-learn-implement-scale-high-availability-with-windows-server-vm
-
 levels:
   - Intermediate
 

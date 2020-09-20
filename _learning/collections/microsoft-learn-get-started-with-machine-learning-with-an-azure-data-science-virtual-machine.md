@@ -14,11 +14,6 @@ provider:
       width: 50
       height: 50
 
-items:
-  - courses/microsoft-learn-intro-to-azure-dsvm
-  - courses/microsoft-learn-explore-azure-dsvm-types
-  - courses/microsoft-learn-provision-and-use-azure-dsvm
-
 levels:
   - Beginner
 

@@ -14,14 +14,6 @@ provider:
       width: 50
       height: 50
 
-items:
-  - courses/microsoft-learn-azure-sql-intro
-  - courses/microsoft-learn-azure-sql-deploy-configure
-  - courses/microsoft-learn-azure-sql-secure-data
-  - courses/microsoft-learn-azure-sql-performance
-  - courses/microsoft-learn-azure-sql-high-availability
-  - courses/microsoft-learn-azure-sql-case-studies
-
 levels:
   - Beginner
 

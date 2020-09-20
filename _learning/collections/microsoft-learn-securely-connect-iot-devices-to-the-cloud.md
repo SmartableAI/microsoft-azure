@@ -14,14 +14,6 @@ provider:
       width: 50
       height: 50
 
-items:
-  - courses/microsoft-learn-manage-iot-devices
-  - courses/microsoft-learn-automatically-provision-iot-devices-securely-and-at-scale-with-dps
-  - courses/microsoft-learn-data-anomaly-search-using-iot-hub
-  - courses/microsoft-learn-remotely-monitor-and-control-devices-with-azure-iot-hub
-  - courses/microsoft-learn-automate-iot-devices-management-with-azure-iot-hub
-  - courses/microsoft-learn-manage-your-azure-iot-hub-with-metrics-alerts
-
 levels:
   - Beginner
   - Intermediate

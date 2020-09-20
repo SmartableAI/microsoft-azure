@@ -14,17 +14,6 @@ provider:
       width: 50
       height: 50
 
-items:
-  - courses/microsoft-learn-design-your-migration-to-azure
-  - courses/microsoft-learn-protect-on-premises-infrastructure-with-azure-site-recovery
-  - courses/microsoft-learn-protect-infrastructure-with-azure-site-recovery
-  - courses/microsoft-learn-protect-virtual-machines-with-azure-backup
-  - courses/microsoft-learn-backup-restore-azure-sql
-  - courses/microsoft-learn-build-app-with-scale-sets
-  - courses/microsoft-learn-app-service-autoscale-rules
-  - courses/microsoft-learn-app-service-scale-up-scale-out
-  - courses/microsoft-learn-design-a-geographically-distributed-application
-
 levels:
   - Intermediate
 

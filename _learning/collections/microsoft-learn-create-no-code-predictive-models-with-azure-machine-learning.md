@@ -14,12 +14,6 @@ provider:
       width: 50
       height: 50
 
-items:
-  - courses/microsoft-learn-use-automated-machine-learning
-  - courses/microsoft-learn-create-regression-model-azure-machine-learning-designer
-  - courses/microsoft-learn-create-classification-model-with-azure-machine-learning-designer
-  - courses/microsoft-learn-create-clustering-model-azure-machine-learning-designer
-
 levels:
   - Beginner
 

@@ -14,11 +14,6 @@ provider:
       width: 50
       height: 50
 
-items:
-  - courses/microsoft-learn-analyze-climate-data-with-azure-notebooks
-  - courses/microsoft-learn-predict-flight-delays-with-python
-  - courses/microsoft-learn-analyze-review-sentiment-with-keras
-
 levels:
   - Beginner
 

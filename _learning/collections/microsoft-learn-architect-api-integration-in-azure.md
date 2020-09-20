@@ -14,13 +14,6 @@ provider:
       width: 50
       height: 50
 
-items:
-  - courses/microsoft-learn-publish-manage-apis-with-azure-api-management
-  - courses/microsoft-learn-improve-api-performance-with-apim-caching-policy
-  - courses/microsoft-learn-protect-apis-on-api-management
-  - courses/microsoft-learn-control-authentication-with-apim
-  - courses/microsoft-learn-build-serverless-api-with-functions-api-management
-
 levels:
   - Intermediate
 

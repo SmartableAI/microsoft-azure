@@ -14,12 +14,6 @@ provider:
       width: 50
       height: 50
 
-items:
-  - courses/microsoft-learn-introduction-azure-sap-workloads
-  - courses/microsoft-learn-deploy-sap-certified-offerings
-  - courses/microsoft-learn-using-iaas-support-azure-sap-workloads
-  - courses/microsoft-learn-sap-hana-azure-compute-network-storage
-
 levels:
   - Beginner
 

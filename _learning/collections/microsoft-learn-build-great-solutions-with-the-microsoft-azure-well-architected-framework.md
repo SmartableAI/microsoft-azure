@@ -14,14 +14,6 @@ provider:
       width: 50
       height: 50
 
-items:
-  - courses/microsoft-learn-azure-well-architected-introduction
-  - courses/microsoft-learn-azure-well-architected-cost-optimization
-  - courses/microsoft-learn-azure-well-architected-operational-excellence
-  - courses/microsoft-learn-azure-well-architected-performance-efficiency
-  - courses/microsoft-learn-azure-well-architected-reliability
-  - courses/microsoft-learn-azure-well-architected-security
-
 levels:
   - Beginner
 

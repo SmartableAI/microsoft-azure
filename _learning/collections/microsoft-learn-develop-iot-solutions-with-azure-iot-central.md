@@ -14,12 +14,6 @@ provider:
       width: 50
       height: 50
 
-items:
-  - courses/microsoft-learn-create-your-first-iot-central-app
-  - courses/microsoft-learn-set-up-rules-take-actions-telemetry-data-azure-iot-central
-  - courses/microsoft-learn-manage-iot-central-apps-with-rest-api
-  - courses/microsoft-learn-continuous-data-export-from-iot-central
-
 levels:
   - Beginner
   - Intermediate

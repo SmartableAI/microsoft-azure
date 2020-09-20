@@ -14,14 +14,6 @@ provider:
       width: 50
       height: 50
 
-items:
-  - courses/microsoft-learn-azure-well-architected-security
-  - courses/microsoft-learn-top-5-security-items-to-consider
-  - courses/microsoft-learn-create-security-baselines
-  - courses/microsoft-learn-manage-secrets-with-azure-key-vault
-  - courses/microsoft-learn-secure-aspnet-core-identity
-  - courses/microsoft-learn-control-authentication-with-apim
-
 levels:
   - Beginner
   - Intermediate

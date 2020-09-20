@@ -14,11 +14,6 @@ provider:
       width: 50
       height: 50
 
-items:
-  - courses/microsoft-learn-transcribe-speech-input-text
-  - courses/microsoft-learn-synthesize-text-input-speech
-  - courses/microsoft-learn-translate-speech-speech-service
-
 levels:
   - Intermediate
 

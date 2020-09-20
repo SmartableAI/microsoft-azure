@@ -14,15 +14,6 @@ provider:
       width: 50
       height: 50
 
-items:
-  - courses/microsoft-learn-tm-introduction-to-threat-modeling
-  - courses/microsoft-learn-tm-create-a-threat-model-using-foundational-data-flow-diagram-elements
-  - courses/microsoft-learn-tm-provide-context-with-the-right-depth-layer
-  - courses/microsoft-learn-tm-approach-your-data-flow-diagram-with-the-right-threat-model-focus
-  - courses/microsoft-learn-tm-use-a-framework-to-identify-threats-and-find-ways-to-reduce-or-eliminate-risk
-  - courses/microsoft-learn-tm-prioritize-your-issues-and-apply-security-controls
-  - courses/microsoft-learn-tm-use-recommended-tools-to-create-a-data-flow-diagram
-
 levels:
   - Beginner
   - Intermediate

@@ -14,14 +14,6 @@ provider:
       width: 50
       height: 50
 
-items:
-  - courses/microsoft-learn-azure-well-architected-security
-  - courses/microsoft-learn-create-security-baselines
-  - courses/microsoft-learn-create-linux-vm-in-azure
-  - courses/microsoft-learn-create-a-windows-vm-in-azure
-  - courses/microsoft-learn-secure-your-azure-virtual-machine-disks
-  - courses/microsoft-learn-secure-vms-with-security-center
-
 levels:
   - Beginner
   - Intermediate

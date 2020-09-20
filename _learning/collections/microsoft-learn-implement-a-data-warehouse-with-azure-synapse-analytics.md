@@ -14,11 +14,6 @@ provider:
       width: 50
       height: 50
 
-items:
-  - courses/microsoft-learn-design-azure-sql-data-warehouse
-  - courses/microsoft-learn-query-azure-sql-data-warehouse
-  - courses/microsoft-learn-import-data-into-asdw-with-polybase
-
 levels:
   - Beginner
 

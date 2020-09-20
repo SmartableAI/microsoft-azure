@@ -14,13 +14,6 @@ provider:
       width: 50
       height: 50
 
-items:
-  - courses/microsoft-learn-provision-azure-sql-db
-  - courses/microsoft-learn-create-azure-db-for-postgresql
-  - courses/microsoft-learn-azure-scale-azure-sql-dbs-elastic-pools
-  - courses/microsoft-learn-secure-your-azure-sql-database
-  - courses/microsoft-learn-develop-app-that-queries-azure-sql
-
 levels:
   - Intermediate
 

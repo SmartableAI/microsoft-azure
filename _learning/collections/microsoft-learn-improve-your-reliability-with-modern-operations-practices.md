@@ -14,14 +14,6 @@ provider:
       width: 50
       height: 50
 
-items:
-  - courses/microsoft-learn-improve-reliability-introduction
-  - courses/microsoft-learn-improve-reliability-monitoring
-  - courses/microsoft-learn-improve-reliability-incidents
-  - courses/microsoft-learn-improve-reliability-failure
-  - courses/microsoft-learn-improve-reliability-deployment
-  - courses/microsoft-learn-improve-reliability-scaling
-
 levels:
   - Beginner
 

@@ -4,7 +4,7 @@ excerpt: "Follow this learning path for a broad and compelling introduction to t
 type: collection
 price: Free
 length: PT9H48M
-heat: 201
+heat: 213
 
 provider:
   name: Microsoft Learn
@@ -13,20 +13,6 @@ provider:
     - url: /assets/images/organizations/microsoft.com-50x50.jpg
       width: 50
       height: 50
-
-items:
-  - courses/microsoft-learn-principles-cloud-computing
-  - courses/microsoft-learn-create-azure-account
-  - courses/microsoft-learn-welcome-to-azure
-  - courses/microsoft-learn-explore-azure-infrastructure
-  - courses/microsoft-learn-tour-azure-portal-features
-  - courses/microsoft-learn-intro-to-compute
-  - courses/microsoft-learn-intro-to-data-in-azure
-  - courses/microsoft-learn-intro-to-azure-networking
-  - courses/microsoft-learn-introduction-to-security
-  - courses/microsoft-learn-intro-to-governance
-  - courses/microsoft-learn-control-and-organize-with-resource-manager
-  - courses/microsoft-learn-predict-costs-and-optimize-spending
 
 levels:
   - Beginner

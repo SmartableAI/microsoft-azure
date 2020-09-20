@@ -14,17 +14,6 @@ provider:
       width: 50
       height: 50
 
-items:
-  - courses/microsoft-learn-introduction-to-security
-  - courses/microsoft-learn-create-azure-account
-  - courses/microsoft-learn-manage-users-and-groups-in-aad
-  - courses/microsoft-learn-create-users-and-groups-in-azure-active-directory
-  - courses/microsoft-learn-secure-app-with-oidc-and-azure-ad
-  - courses/microsoft-learn-secure-aad-users-with-mfa
-  - courses/microsoft-learn-manage-device-identity-ad-join
-  - courses/microsoft-learn-allow-users-to-reset-their-password
-  - courses/microsoft-learn-add-custom-domain-name-azure-active-directory
-
 levels:
   - Beginner
   - Intermediate

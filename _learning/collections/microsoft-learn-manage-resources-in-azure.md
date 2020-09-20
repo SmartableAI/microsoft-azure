@@ -14,14 +14,6 @@ provider:
       width: 50
       height: 50
 
-items:
-  - courses/microsoft-learn-align-requirements-in-azure
-  - courses/microsoft-learn-control-azure-services-with-cli
-  - courses/microsoft-learn-automate-azure-tasks-with-powershell
-  - courses/microsoft-learn-predict-costs-and-optimize-spending
-  - courses/microsoft-learn-control-and-organize-with-resource-manager
-  - courses/microsoft-learn-move-azure-resources-to-another-resource-group
-
 levels:
   - Beginner
 

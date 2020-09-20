@@ -14,11 +14,6 @@ provider:
       width: 50
       height: 50
 
-items:
-  - courses/microsoft-learn-introduction-to-azure-data-lake-storage
-  - courses/microsoft-learn-upload-data-to-azure-data-lake-storage
-  - courses/microsoft-learn-secure-azure-storage-account
-
 levels:
   - Beginner
 

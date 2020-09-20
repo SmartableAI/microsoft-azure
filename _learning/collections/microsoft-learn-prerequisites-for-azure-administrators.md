@@ -14,17 +14,6 @@ provider:
       width: 50
       height: 50
 
-items:
-  - courses/microsoft-learn-intro-to-governance
-  - courses/microsoft-learn-introduction-to-azure-virtual-machines
-  - courses/microsoft-learn-network-fundamentals
-  - courses/microsoft-learn-network-fundamentals-2
-  - courses/microsoft-learn-control-azure-services-with-cli
-  - courses/microsoft-learn-automate-azure-tasks-with-powershell
-  - courses/microsoft-learn-intro-to-azure-ad
-  - courses/microsoft-learn-intro-to-docker-containers
-  - courses/microsoft-learn-choose-storage-approach-in-azure
-
 levels:
   - Beginner
 

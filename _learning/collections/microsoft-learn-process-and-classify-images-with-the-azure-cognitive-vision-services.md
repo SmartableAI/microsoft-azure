@@ -14,11 +14,6 @@ provider:
       width: 50
       height: 50
 
-items:
-  - courses/microsoft-learn-identify-faces-with-computer-vision
-  - courses/microsoft-learn-create-computer-vision-service
-  - courses/microsoft-learn-classify-images-with-custom-vision-services
-
 levels:
   - Beginner
 

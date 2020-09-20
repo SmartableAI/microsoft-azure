@@ -14,10 +14,6 @@ provider:
       width: 50
       height: 50
 
-items:
-  - courses/microsoft-learn-introduction-to-regression
-  - courses/microsoft-learn-neural-networks
-
 levels:
   - Beginner
 

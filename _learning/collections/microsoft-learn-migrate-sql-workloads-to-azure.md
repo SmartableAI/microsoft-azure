@@ -14,11 +14,6 @@ provider:
       width: 50
       height: 50
 
-items:
-  - courses/microsoft-learn-migrate-sql-workloads-azure-virtual-machines
-  - courses/microsoft-learn-migrate-sql-workloads-azure-sql-databases
-  - courses/microsoft-learn-migrate-sql-workloads-azure-managed-instances
-
 levels:
   - Intermediate
 

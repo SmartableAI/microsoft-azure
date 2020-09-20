@@ -14,11 +14,6 @@ provider:
       width: 50
       height: 50
 
-items:
-  - courses/microsoft-learn-responsible-ai-guiding-principles
-  - courses/microsoft-learn-responsible-ai-governing-practices-government
-  - courses/microsoft-learn-microsoft-responsible-ai-practices
-
 levels:
   - Intermediate
 

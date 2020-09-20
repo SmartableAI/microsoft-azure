@@ -14,14 +14,6 @@ provider:
       width: 50
       height: 50
 
-items:
-  - courses/microsoft-learn-introduce-foundation-pillars-devops
-  - courses/microsoft-learn-define-foundation-pillars
-  - courses/microsoft-learn-analyze-devops-continuous-planning-intergration
-  - courses/microsoft-learn-explain-devops-continous-delivery-quality
-  - courses/microsoft-learn-explore-devops-continuous-security-operations
-  - courses/microsoft-learn-characterize-devops-continous-collaboration-improvement
-
 levels:
   - Beginner
 

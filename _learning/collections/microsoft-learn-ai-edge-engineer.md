@@ -14,22 +14,6 @@ provider:
       width: 50
       height: 50
 
-items:
-  - courses/microsoft-learn-intro-to-iot
-  - courses/microsoft-learn-intro-to-iot-hub
-  - courses/microsoft-learn-intro-to-iot-edge
-  - courses/microsoft-learn-deploy-prebuilt-module-edge-device
-  - courses/microsoft-learn-train-package-azure-ml-module-iot-edge
-  - courses/microsoft-learn-intro-iot-funtions-iot
-  - courses/microsoft-learn-deploy-cognitive-service-iot-edge-azure-func
-  - courses/microsoft-learn-run-cognitive-services-iot-edge
-  - courses/microsoft-learn-intro-mlops-iot-edge
-  - courses/microsoft-learn-implement-cicd-iot-edge
-  - courses/microsoft-learn-intro-azure-sphere
-  - courses/microsoft-learn-image-classification-azure-sphere
-  - courses/microsoft-learn-develop-secure-iot-solutions-for-azure-sphere-iot-hub
-  - courses/microsoft-learn-develop-secure-iot-solutions-for-azure-sphere
-
 levels:
   - Beginner
 

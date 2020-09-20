@@ -14,10 +14,6 @@ provider:
       width: 50
       height: 50
 
-items:
-  - courses/microsoft-learn-intro-to-ai-technology
-  - courses/microsoft-learn-microsoft-approach-to-ai
-
 levels:
   - Beginner
 

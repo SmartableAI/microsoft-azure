@@ -14,23 +14,6 @@ provider:
       width: 50
       height: 50
 
-items:
-  - courses/microsoft-learn-introduction-to-github
-  - courses/microsoft-learn-migrate-repository-github
-  - courses/microsoft-learn-upload-project-github
-  - courses/microsoft-learn-manage-changes-pull-requests-github
-  - courses/microsoft-learn-merge-conflict-resolution-github
-  - courses/microsoft-learn-search-organize-repository-history-github
-  - courses/microsoft-learn-manage-innersource-program-github
-  - courses/microsoft-learn-communicate-using-markdown
-  - courses/microsoft-learn-maintain-secure-repository-github
-  - courses/microsoft-learn-automate-devops-github-apps
-  - courses/microsoft-learn-automate-github-using-github-script
-  - courses/microsoft-learn-release-based-workflow-github
-  - courses/microsoft-learn-github-actions-ci
-  - courses/microsoft-learn-github-actions-cd
-  - courses/microsoft-learn-implement-code-workflow
-
 levels:
   - Beginner
 

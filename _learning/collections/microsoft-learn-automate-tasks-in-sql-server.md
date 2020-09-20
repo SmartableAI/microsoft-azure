@@ -14,11 +14,6 @@ provider:
       width: 50
       height: 50
 
-items:
-  - courses/microsoft-learn-configure-automatic-deployment-for-azure-sql-database
-  - courses/microsoft-learn-schedule-tasks-using-sql-server-agent
-  - courses/microsoft-learn-manage-azure-paas-resources-using-automated-methods
-
 levels:
   - Intermediate
 

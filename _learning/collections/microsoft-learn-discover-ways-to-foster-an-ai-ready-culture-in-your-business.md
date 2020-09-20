@@ -14,13 +14,6 @@ provider:
       width: 50
       height: 50
 
-items:
-  - courses/microsoft-learn-build-an-ai-ready-culture
-  - courses/microsoft-learn-foster-ai-culture-finance
-  - courses/microsoft-learn-foster-ai-culture-marketing
-  - courses/microsoft-learn-foster-ai-culture-sales
-  - courses/microsoft-learn-foster-ai-culture-customer-service
-
 levels:
   - Intermediate
 

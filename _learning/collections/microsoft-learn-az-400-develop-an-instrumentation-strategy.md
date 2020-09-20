@@ -14,20 +14,6 @@ provider:
       width: 50
       height: 50
 
-items:
-  - courses/microsoft-learn-capture-application-logs-app-service
-  - courses/microsoft-learn-control-and-organize-with-resource-manager
-  - courses/microsoft-learn-intro-to-app-center
-  - courses/microsoft-learn-azure-spring-cloud-workshop
-  - courses/microsoft-learn-azure-well-architected-performance-efficiency
-  - courses/microsoft-learn-azure-well-architected-operational-excellence
-  - courses/microsoft-learn-analyze-infrastructure-with-azure-monitor-logs
-  - courses/microsoft-learn-capture-page-load-times-application-insights
-  - courses/microsoft-learn-instrument-web-app-code-with-application-insights
-  - courses/microsoft-learn-cmu-monitor-cloud-resources
-  - courses/microsoft-learn-react-to-state-changes-using-event-grid
-  - courses/microsoft-learn-design-monitoring-strategy-on-azure
-
 levels:
   - Beginner
 
