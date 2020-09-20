@@ -4,7 +4,7 @@ excerpt: "Retail industry decision-makers have considerations that are particula
 type: collection
 price: Free
 length: PT9H31M
-heat: 63
+heat: 60
 
 provider:
   name: Microsoft Learn
