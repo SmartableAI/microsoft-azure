@@ -4,7 +4,7 @@ excerpt: "This learning path guides data engineers through the evolving benefits
 type: collection
 price: Free
 length: PT1H51M
-heat: 58
+heat: 55
 
 provider:
   name: Microsoft Learn
