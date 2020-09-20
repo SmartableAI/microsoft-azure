@@ -41,7 +41,7 @@ related:
   - title: "Platform.sh announces expansion of services to Microsoft Azure West US 2 Datacenter Region"
     excerpt: "PRNewswire/ -- Platform.sh, an end-to-end web platform for agile teams, is pleased to announce the expansion of its services to the West US 2 datacenter"
     publishedDateTime: 2020-09-08T16:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/platform-sh-announces-expansion-of-services-to-microsoft-azure-west-us-2-datacenter-region/article_1d4f0d8f-1984-5ce1-b24e-3380c68de1b7.html"
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/platform-sh-announces-expansion-of-services-to-microsoft-azure-west-us-2-datacenter-region/article_1d4f0d8f-1984-5ce1-b24e-3380c68de1b7.html"
     type: article
     provider:
       name: WFMZ-TV

@@ -34,6 +34,15 @@ related:
         width: 760
         height: 428
         isCached: true
+  - title: "3Cloud Acquires Microsoft Azure Partner"
+    excerpt: "Microsoft Azure cloud partner 3Cloud, backed by private equity firm Gryphon Investors, acquires Pragmatic Works' consulting arm. Creates largest U.S. Azure partner, buyer claims."
+    publishedDateTime: 2020-09-15T21:33:00Z
+    webUrl: "https://www.channele2e.com/investors/private-equity/3cloud-buys-microsoft-azure-cloud-partner/"
+    type: article
+    provider:
+      name: ChannelE2E
+      domain: channele2e.com
+    quality: 17
 
 secured: "sU5RmtTMGqlw9zmxkkt4E9g5WxTQ4zboKP6g0hUQKYoBJHRqdGvqnjpZIy3CUKGB01dmlM/ZTmTVvqJaU8E1OAD75DvgI2HG/2FzGs2oF91nzR/qMlThOqbeCxuZdEmUFR8THwphasvMvOhms/tt93sZ/iW/M5/YUwIzanvxoELCiDvKvwA7zmpaOi7IqDo/TzBwO1YZLky63kh4R1V9LzI7Kqd/+qdbD386zdrZKrrG0GBE864oDVnmGTDv3bHoGkPBW7bBHWZ5KZFDxyWuF2XXC8N1jExTSfAi7t6Bi7U9BztYTFK1RUOXPNj7z+YIs4Sh58CgWST9JmIH8uEExCFqYyHHYYd3L8G8YYzylmo=;aZkf5Fu4r6TAdhgvpFGBQw=="
 ---

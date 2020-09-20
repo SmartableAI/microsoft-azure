@@ -9,7 +9,7 @@ ampWebUrl: "https://www.neowin.net/amp/microsoft-and-bp-partner-up-on-azure-adva
 cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-and-bp-partner-up-on-azure-advancing-sustainability/"
 type: article
 quality: 97
-heat: 117
+heat: 137
 published: true
 
 provider:
@@ -30,6 +30,15 @@ images:
     isCached: true
 
 related:
+  - title: "3Cloud Acquires Microsoft Azure Partner"
+    excerpt: "Microsoft Azure cloud partner 3Cloud, backed by private equity firm Gryphon Investors, acquires Pragmatic Works' consulting arm. Creates largest U.S. Azure partner, buyer claims."
+    publishedDateTime: 2020-09-15T21:33:00Z
+    webUrl: "https://www.channele2e.com/investors/private-equity/3cloud-buys-microsoft-azure-cloud-partner/"
+    type: article
+    provider:
+      name: ChannelE2E
+      domain: channele2e.com
+    quality: 17
   - title: "NCR brings its IoT management software to Microsoft Azure"
     excerpt: "Digital Connected Services IoT management software will run on Azure's IoT AI technology.\"By leveraging Microsoft Azure and its AI and IoT capabilities, NCR is helping retailers, restaurants and financial institutions simplify and keep commerce running with Microsoft's trusted,"
     publishedDateTime: 2020-09-16T20:34:00Z

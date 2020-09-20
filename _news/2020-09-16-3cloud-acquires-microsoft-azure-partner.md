@@ -1,0 +1,49 @@
+---
+category: news
+title: "3Cloud Acquires Microsoft Azure Partner"
+excerpt: "Microsoft Azure cloud partner 3Cloud, backed by private equity firm Gryphon Investors, acquires Pragmatic Works' consulting arm. Creates largest U.S. Azure partner, buyer claims."
+publishedDateTime: 2020-09-15T21:33:00Z
+originalUrl: "https://www.channele2e.com/investors/private-equity/3cloud-buys-microsoft-azure-cloud-partner/"
+webUrl: "https://www.channele2e.com/investors/private-equity/3cloud-buys-microsoft-azure-cloud-partner/"
+type: article
+quality: 17
+heat: -1
+published: false
+
+provider:
+  name: ChannelE2E
+  domain: channele2e.com
+
+topics:
+  - Azure
+
+related:
+  - title: "Microsoft and bp partner up on Azure, advancing sustainability"
+    excerpt: "The collaboration will be focusing on developing innovative tech solutions that help the companies meet their sustainability goals. bp will also be utilizing Microsoft's Azure services."
+    publishedDateTime: 2020-09-15T18:00:00Z
+    webUrl: "https://www.neowin.net/news/microsoft-and-bp-partner-up-on-azure-advancing-sustainability"
+    ampWebUrl: "https://www.neowin.net/amp/microsoft-and-bp-partner-up-on-azure-advancing-sustainability/"
+    cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-and-bp-partner-up-on-azure-advancing-sustainability/"
+    type: article
+    provider:
+      name: Neowin
+      domain: neowin.net
+    quality: 97
+    images:
+      - url: "https://cdn.neow.in/news/images/uploaded/2020/07/1595019630_microsoft_logo_red_story.jpg"
+        width: 760
+        height: 428
+        isCached: true
+  - title: "NCR brings its IoT management software to Microsoft Azure"
+    excerpt: "Digital Connected Services IoT management software will run on Azure's IoT AI technology.\"By leveraging Microsoft Azure and its AI and IoT capabilities, NCR is helping retailers, restaurants and financial institutions simplify and keep commerce running with Microsoft's trusted,"
+    publishedDateTime: 2020-09-16T20:34:00Z
+    webUrl: "https://seekingalpha.com/news/3614756-ncr-brings-iot-management-software-to-microsoft-azure"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 17
+
+secured: "NGYfx7sOQaTpDJiCyR2E48XyntzOetiBBqkWdzsuRNh5Q4n8LQWx3pU5kK1Vz0TX1IFgJfzoTAP8Xn0WD0DYRYRL/vkYVXg78kqfk7nWVAvNyiNP21XvdXiXDPZBrs9Yqj6OnifbfxYCxqE7mRiCP4EinDhPaoMbxi0gZUMPCkvuTcTRvjVI5x49pqCxxd+mIflvZeznh2/LXBciWcmbj2fdfMdqvzLnPFuTxIaEmJ5WQyB+rz30ea+xCE0oHU9rS+7egyZ4fCe7Blv1gNFs9zucvDr78k6KxKIOxzOvyrNi+qxYV/ZFNXBndy+otgx/qnyv7gDvOmiYp5c+FeVhtNzao1XmucsaKfgQ7f5fdDw=;BpIxzV69ZPeR5NHY6RpmAg=="
+---
+
