@@ -4,6 +4,40 @@
   "page": 22,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-get-started-with-connected-field-service.md",
+      "title": "Get started with Connected Field Service for Dynamics 365 and Azure IoT",
+      "excerpt": "This module will focus on the initial deployment of the Connected Field Service add-on for Dynamics 365 for Field Service.  The module will walk you through the installation and an understanding of the components installed as part of the out of the box template application.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-get-started-with-connected-field-service/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/get-started-with-connected-field-service/",
+      "length": "PT1H6M",
+      "ratings": {
+        "count": 79,
+        "average": 4.708861
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "IoT"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-getting-started-identity.md",
       "title": "Getting Started with Microsoft Identity",
       "excerpt": "Learn the basics of Microsoft identity including the different types of tokens, account types, and supported topologies.",
@@ -11,8 +45,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/getting-started-identity/",
       "length": "PT1H10M",
       "ratings": {
-        "count": 204,
-        "average": 4.6715684
+        "count": 205,
+        "average": 4.6731706
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -527,8 +561,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/identity-users-groups-approles/",
       "length": "PT1H13M",
       "ratings": {
-        "count": 71,
-        "average": 4.732394
+        "count": 72,
+        "average": 4.7222223
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -603,8 +637,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/implement-ai-organization/",
       "length": "PT41M",
       "ratings": {
-        "count": 22,
-        "average": 4.8636365
+        "count": 23,
+        "average": 4.826087
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -685,8 +719,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/implement-change-tracking-file-integrity-monitoring/",
       "length": "PT50M",
       "ratings": {
-        "count": 12,
-        "average": 4.9166665
+        "count": 13,
+        "average": 4.923077
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -857,8 +891,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/implement-hybrid-backup-recovery-windows-server-iaas/",
       "length": "PT1H1M",
       "ratings": {
-        "count": 10,
-        "average": 4.7
+        "count": 11,
+        "average": 4.7272725
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -900,7 +934,7 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/implement-hybrid-file-server-infrastructure/",
       "length": "PT1H32M",
       "ratings": {
-        "count": 7,
+        "count": 8,
         "average": 5.0
       },
       "provider": {
@@ -944,8 +978,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/implement-hybrid-identity-windows-server/",
       "length": "PT1H49M",
       "ratings": {
-        "count": 23,
-        "average": 4.6086955
+        "count": 24,
+        "average": 4.625
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -988,8 +1022,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/implement-hybrid-network-infrastructure/",
       "length": "PT1H9M",
       "ratings": {
-        "count": 7,
-        "average": 4.857143
+        "count": 8,
+        "average": 4.875
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1192,47 +1226,6 @@
       "topics": [
         "Azure",
         "Management Tools"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-improve-reliability-deployment.md",
-      "title": "Improve your reliability with modern operations practices: Deployment",
-      "excerpt": "Learn about deployment practices that can help you sustainably achieve the appropriate level of reliability in your systems, services, and products.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-improve-reliability-deployment/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/improve-reliability-deployment/",
-      "length": "PT18M",
-      "ratings": {
-        "count": 19,
-        "average": 4.5789475
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/improve-reliability-deployment-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
       ]
     }
   ],

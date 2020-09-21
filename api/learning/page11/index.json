@@ -4,6 +4,48 @@
   "page": 11,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-detect-objects-images-custom-vision.md",
+      "title": "Detect objects in images with the Custom Vision service",
+      "excerpt": "Object detection is a form of computer vision in which artificial intelligence (AI) agents can identify and locate specific types of object in an image or camera feed.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-detect-objects-images-custom-vision/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/detect-objects-images-custom-vision/",
+      "length": "PT39M",
+      "ratings": {
+        "count": 203,
+        "average": 4.7536945
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/detect-objects-images-custom-vision-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "AI"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-examine-components-of-modern-data-warehouse.md",
       "title": "Examine components of a modern data warehouse",
       "excerpt": "Examine components of a modern data warehouse",
@@ -11,8 +53,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/examine-components-of-modern-data-warehouse/",
       "length": "PT24M",
       "ratings": {
-        "count": 212,
-        "average": 4.726415
+        "count": 214,
+        "average": 4.724299
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -134,8 +176,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/explore-relational-data-offerings/",
       "length": "PT33M",
       "ratings": {
-        "count": 215,
-        "average": 4.7860465
+        "count": 216,
+        "average": 4.787037
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -175,8 +217,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/get-started-with-devops/",
       "length": "PT25M",
       "ratings": {
-        "count": 6865,
-        "average": 4.7225056
+        "count": 6866,
+        "average": 4.722546
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -742,8 +784,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/manage-iot-devices/",
       "length": "PT44M",
       "ratings": {
-        "count": 882,
-        "average": 4.680272
+        "count": 883,
+        "average": 4.680634
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -816,8 +858,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/monitor-azure-vm-using-diagnostic-data/",
       "length": "PT43M",
       "ratings": {
-        "count": 863,
-        "average": 4.659328
+        "count": 864,
+        "average": 4.658565
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -941,8 +983,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/monitor-github-events-with-a-function-triggered-by-a-webhook/",
       "length": "PT53M",
       "ratings": {
-        "count": 1592,
-        "average": 4.625628
+        "count": 1593,
+        "average": 4.625863
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1183,47 +1225,6 @@
       "topics": [
         "Azure",
         "Analytics"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-query-relational-data-azure.md",
-      "title": "Query relational data in Azure",
-      "excerpt": "Query relational data in Azure",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-query-relational-data-azure/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/query-relational-data/",
-      "length": "PT40M",
-      "ratings": {
-        "count": 213,
-        "average": 4.7605634
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/query-relational-data-azure-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
       ]
     }
   ],

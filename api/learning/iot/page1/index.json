@@ -4,15 +4,15 @@
   "page": 1,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-remotely-monitor-and-service-customer-equipment.md",
-      "title": "Remotely monitor and service equipment with Connected Field Service for Dynamics 365 and Azure IoT",
-      "excerpt": "Configure IoT devices to remotely monitor customer equipment.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-remotely-monitor-and-service-customer-equipment/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/remotely-monitor-and-service-customer-equipment/",
-      "length": "PT1H10M",
+      "path": "_learning/courses/microsoft-learn-serverless-fundamentals.md",
+      "title": "Choose the best Azure serverless technology for your compute scenario",
+      "excerpt": "Examine Azure's serverless technologies and choose the right service for your scenario.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-serverless-fundamentals/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/serverless-fundamentals/",
+      "length": "PT20M",
       "ratings": {
-        "count": 71,
-        "average": 4.7042255
+        "count": 1,
+        "average": 5.0
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -27,14 +27,26 @@
         ]
       },
       "levels": [
-        "Intermediate"
+        "Beginner"
       ],
       "heat": 110,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
       "type": "course",
       "price": "Free",
       "topics": [
         "Azure",
-        "IoT"
+        "Compute",
+        "Serverless",
+        "IoT",
+        "Blockchain",
+        "Integration"
       ]
     },
     {
@@ -45,8 +57,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/intro-to-azure-compute/",
       "length": "PT38M",
       "ratings": {
-        "count": 62576,
-        "average": 4.709537
+        "count": 62586,
+        "average": 4.7095675
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1461,7 +1473,7 @@
           "path": "",
           "title": "Remotely monitor and service equipment with Connected Field Service for Dynamics 365 and Azure IoT",
           "excerpt": "Configure IoT devices to remotely monitor customer equipment.",
-          "heat": 110,
+          "heat": 50,
           "type": "course",
           "topics": [
             "Azure",
@@ -1517,8 +1529,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/choose-a-messaging-model-in-azure-to-connect-your-services/",
       "length": "PT45M",
       "ratings": {
-        "count": 3036,
-        "average": 4.5833335
+        "count": 3038,
+        "average": 4.582949
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1632,8 +1644,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/azure-iot-strategy-and-solutions/",
       "length": "PT23M",
       "ratings": {
-        "count": 5710,
-        "average": 4.7362523
+        "count": 5712,
+        "average": 4.7363443
       },
       "provider": {
         "name": "Microsoft Learn",
