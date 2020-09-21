@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/azure-private-link-servi
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-private-link-service-is-now-generally-available-in-china/"
 type: article
 quality: 67
-heat: 147
+heat: 167
 published: true
 
 provider:
@@ -22,6 +22,20 @@ topics:
   - Azure
 
 related:
+  - title: "TCS Quartz suite becomes available on Microsoft Azure Blockchain Service"
+    excerpt: "Tata Consultancy Services announced the general availability of its award winning Quartz suite of blockchain based solutions on Microsoft Azure Blockchain Service. The Quartz suite of products helps organizations set up truly connected ecosystems ..."
+    publishedDateTime: 2020-09-21T21:38:00Z
+    webUrl: "https://www.indiainfoline.com/article/companies-announcements-bse/tcs-quartz%EF%BF%BD-suite-becomes-available-on-microsoft-azure-blockchain-service-120092200062_1.html"
+    type: article
+    provider:
+      name: India Infoline
+      domain: indiainfoline.com
+    quality: 36
+    images:
+      - url: "https://www.indiainfoline.com/include/_mod/site/images/currentoffer_mobile.png"
+        width: 600
+        height: 277
+        isCached: true
   - title: "Azure Analysis Services—Query interleaving is now generally available"
     excerpt: ""
     publishedDateTime: 2020-04-16T23:00:21Z

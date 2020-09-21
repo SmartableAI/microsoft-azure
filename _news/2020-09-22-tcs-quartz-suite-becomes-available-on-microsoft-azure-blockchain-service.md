@@ -1,24 +1,27 @@
 ---
 category: news
-title: "Azure App Service—.NET Core 3.1 is now generally available"
-excerpt: ""
-publishedDateTime: 2020-04-23T16:00:29Z
-webUrl: "https://azure.microsoft.com/en-us/updates/azure-app-service-net-core-31-ga-on-app-service/"
+title: "TCS Quartz suite becomes available on Microsoft Azure Blockchain Service"
+excerpt: "Tata Consultancy Services announced the general availability of its award winning Quartz suite of blockchain based solutions on Microsoft Azure Blockchain Service. The Quartz suite of products helps organizations set up truly connected ecosystems ..."
+publishedDateTime: 2020-09-21T21:38:00Z
+originalUrl: "https://www.indiainfoline.com/article/companies-announcements-bse/tcs-quartz%EF%BF%BD-suite-becomes-available-on-microsoft-azure-blockchain-service-120092200062_1.html"
+webUrl: "https://www.indiainfoline.com/article/companies-announcements-bse/tcs-quartz%EF%BF%BD-suite-becomes-available-on-microsoft-azure-blockchain-service-120092200062_1.html"
 type: article
-quality: 17
+quality: 36
 heat: -1
 published: false
 
 provider:
-  name: Microsoft
-  domain: microsoft.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: India Infoline
+  domain: indiainfoline.com
 
 topics:
   - Azure
+
+images:
+  - url: "https://www.indiainfoline.com/include/_mod/site/images/currentoffer_mobile.png"
+    width: 600
+    height: 277
+    isCached: true
 
 related:
   - title: "Azure Private Link Service is now generally available in China "
@@ -30,24 +33,19 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
-  - title: "TCS Quartz suite becomes available on Microsoft Azure Blockchain Service"
-    excerpt: "Tata Consultancy Services announced the general availability of its award winning Quartz suite of blockchain based solutions on Microsoft Azure Blockchain Service. The Quartz suite of products helps organizations set up truly connected ecosystems ..."
-    publishedDateTime: 2020-09-21T21:38:00Z
-    webUrl: "https://www.indiainfoline.com/article/companies-announcements-bse/tcs-quartz%EF%BF%BD-suite-becomes-available-on-microsoft-azure-blockchain-service-120092200062_1.html"
-    type: article
-    provider:
-      name: India Infoline
-      domain: indiainfoline.com
-    quality: 36
-    images:
-      - url: "https://www.indiainfoline.com/include/_mod/site/images/currentoffer_mobile.png"
-        width: 600
-        height: 277
-        isCached: true
   - title: "Azure Analysis Services—Query interleaving is now generally available"
     excerpt: ""
     publishedDateTime: 2020-04-16T23:00:21Z
     webUrl: "https://azure.microsoft.com/en-us/updates/announcing-general-availability-ga-of-query-interleaving-for-azure-analysis-services/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 17
+  - title: "Azure App Service—.NET Core 3.1 is now generally available"
+    excerpt: ""
+    publishedDateTime: 2020-04-23T16:00:29Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-app-service-net-core-31-ga-on-app-service/"
     type: article
     provider:
       name: Microsoft
@@ -72,6 +70,6 @@ related:
       domain: microsoft.com
     quality: 17
 
-secured: "NR/Vhe2UWV5FTwVOL5PQtpdn4eogP6RWfUFkFgV7vQc0LPiUZUrMx9GFo/pqPijmzAVJ75SlQ4nipChJfuCMCOE/wTpx0xiRqxsVR+BUUpP5EPyLWJyBiKAN56ETUyGQoe7c5WWpdSAFNpptgf4+tm3Ctz+vOjEKZxu3bMqodhlx8513rww5uDmZ19z5EwExOWZ14K5q6SpVq1SyNxnwJiT6/gvSUbPM8zdRAZ7xa25zUHYHh7j3Zb3x95g+g4+u3uaeTc/9nvKcGGUNhWAxh5AJgczEB4W73EYFiNIAg96Af3Ay+TrbXLzuLW+HvGDjU61jxncDxhpgSmyLZUKuaA==;RgQMEwGUJ059BALBLiGGAA=="
+secured: "W5uBjsVXWHyAu+GGyxanzLZBfuqORfySRkbmqUI8udCJy7mr8edM0CqN4wv8WUTdPGtMidqY/o+U48e9jSmDI39eSBmKYngxVAaFi8THS2NQIhYqQZWjcqUEoalpXk6Qox7fn7xVVj+vaxxAq2gUd54sxzrJfFiu7dFyrMFqSaWGHjK0PJJTAs5b8f+wR4p1gWC1UuV7gn/zt9m4Av8GUqDJbTRaCTAU1t9cSxq+xFUgKp0F8DxiDFqAPXi9Z77PeLP7T2vB74emkgo8pKi5YFGA8LUPphQEvICWiNJouafEQOI7wmkq8c7FUNn992uAgPpVCCP30jjdTepLgo7ECeSOM85Ddc/6/Gfn2QzpB1U=;511B8rmleXbjeHk5J47f3A=="
 ---
 
