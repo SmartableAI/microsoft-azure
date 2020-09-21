@@ -4,48 +4,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-enable-external-access-with-b2c.md",
-      "title": "Enable secure access to apps for external users with Azure AD B2C",
-      "excerpt": "Use Azure AD B2C as the full-featured identity system for your application, and ensure that users are required to sign in securely by using multi-factor authentication.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-enable-external-access-with-b2c/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/enable-external-access-with-b2c/",
-      "length": "PT16M",
-      "ratings": {
-        "count": 43,
-        "average": 4.4418607
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/enable-external-access-with-b2c-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Identity"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-enable-external-collaboration-with-b2b.md",
       "title": "Enable secure external collaboration for your applications with Azure AD B2B",
       "excerpt": "Azure AD B2B collaboration lets you securely share your company's applications and services with guest users from any other organization, while maintaining control over your own corporate data.",
@@ -95,8 +53,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/getting-started-identity/",
       "length": "PT1H10M",
       "ratings": {
-        "count": 201,
-        "average": 4.671642
+        "count": 202,
+        "average": 4.6732674
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -129,8 +87,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/identity-application-types/",
       "length": "PT50M",
       "ratings": {
-        "count": 107,
-        "average": 4.6261683
+        "count": 108,
+        "average": 4.6296296
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -171,8 +129,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/identity-permissions-consent/",
       "length": "PT1H6M",
       "ratings": {
-        "count": 79,
-        "average": 4.721519
+        "count": 80,
+        "average": 4.725
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -213,8 +171,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/identity-secure-custom-api/",
       "length": "PT1H23M",
       "ratings": {
-        "count": 68,
-        "average": 4.647059
+        "count": 69,
+        "average": 4.652174
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -247,8 +205,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/identity-users-groups-approles/",
       "length": "PT1H13M",
       "ratings": {
-        "count": 69,
-        "average": 4.7246375
+        "count": 70,
+        "average": 4.7285714
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -404,6 +362,48 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-protect-identities-with-aad-idp.md",
+      "title": "Protect your identities with Azure AD Identity Protection",
+      "excerpt": "Use the advanced detection and remediation of identity-based threats to protect your Azure Active Directory identities and applications from compromise.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-protect-identities-with-aad-idp/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/protect-identities-with-aad-idp/",
+      "length": "PT34M",
+      "ratings": {
+        "count": 87,
+        "average": 4.643678
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/protect-identities-with-aad-idp-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Identity"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-secure-aad-users-with-mfa.md",
       "title": "Secure Azure Active Directory users with Multi-Factor Authentication",
       "excerpt": "Learn how to use multi-factor authentication with Azure AD to harden your user accounts.",
@@ -411,8 +411,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/secure-aad-users-with-mfa/",
       "length": "PT38M",
       "ratings": {
-        "count": 1278,
-        "average": 4.6823163
+        "count": 1279,
+        "average": 4.6825647
       },
       "provider": {
         "name": "Microsoft Learn",
