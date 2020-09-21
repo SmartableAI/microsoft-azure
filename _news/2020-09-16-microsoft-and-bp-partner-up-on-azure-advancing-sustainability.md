@@ -9,7 +9,7 @@ ampWebUrl: "https://www.neowin.net/amp/microsoft-and-bp-partner-up-on-azure-adva
 cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-and-bp-partner-up-on-azure-advancing-sustainability/"
 type: article
 quality: 97
-heat: 137
+heat: 157
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "Microsoft Azure and AWS' partnership model will make enterprise software companies dependent on cloud providers"
+    excerpt: "Microsoft Azure and AWS are striking distribution deals with enterprise software providers, which may reshape the enterprise software ecosystem."
+    publishedDateTime: 2020-09-21T14:58:00Z
+    webUrl: "https://www.businessinsider.com/microsoft-aws-cloud-deals-may-reshape-enterprise-software-ecosystem-2020-9"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 57
+    images:
+      - url: "https://i.insider.com/5f68b908323fc4001e0d76db?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "3Cloud Acquires Microsoft Azure Partner"
     excerpt: "Microsoft Azure cloud partner 3Cloud, backed by private equity firm Gryphon Investors, acquires Pragmatic Works' consulting arm. Creates largest U.S. Azure partner, buyer claims."
     publishedDateTime: 2020-09-15T21:33:00Z

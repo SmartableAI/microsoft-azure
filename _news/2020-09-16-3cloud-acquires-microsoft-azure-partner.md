@@ -34,6 +34,20 @@ related:
         width: 760
         height: 428
         isCached: true
+  - title: "Microsoft Azure and AWS' partnership model will make enterprise software companies dependent on cloud providers"
+    excerpt: "Microsoft Azure and AWS are striking distribution deals with enterprise software providers, which may reshape the enterprise software ecosystem."
+    publishedDateTime: 2020-09-21T14:58:00Z
+    webUrl: "https://www.businessinsider.com/microsoft-aws-cloud-deals-may-reshape-enterprise-software-ecosystem-2020-9"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 57
+    images:
+      - url: "https://i.insider.com/5f68b908323fc4001e0d76db?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "NCR brings its IoT management software to Microsoft Azure"
     excerpt: "Digital Connected Services IoT management software will run on Azure's IoT AI technology.\"By leveraging Microsoft Azure and its AI and IoT capabilities, NCR is helping retailers, restaurants and financial institutions simplify and keep commerce running with Microsoft's trusted,"
     publishedDateTime: 2020-09-16T20:34:00Z
