@@ -4,6 +4,48 @@
   "page": 8,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-hub-and-spoke-network-architecture.md",
+      "title": "Centralize your core services by using hub and spoke Azure virtual network architecture",
+      "excerpt": "Design a network architecture in Azure that allows for growth and flexibility, secure isolation of critical resources, low administrative overhead, and communication with on-premises network resources.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-hub-and-spoke-network-architecture/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/hub-and-spoke-network-architecture/",
+      "length": "PT36M",
+      "ratings": {
+        "count": 1131,
+        "average": 4.653404
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 56,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/hub-and-spoke-network-architecture-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Networking"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-intro-to-azure-linux.md",
       "title": "Introduction to Linux on Azure",
       "excerpt": "Discover the unique benefits of running Linux on Azure, and how to run Linux-based applications and workloads in the cloud with Azure.",
@@ -52,8 +94,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/intro-to-python/",
       "length": "PT1H7M",
       "ratings": {
-        "count": 4611,
-        "average": 4.7150292
+        "count": 4614,
+        "average": 4.7147813
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -331,8 +373,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/app-service-scale-up-scale-out/",
       "length": "PT46M",
       "ratings": {
-        "count": 2125,
-        "average": 4.5515294
+        "count": 2126,
+        "average": 4.55174
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -372,8 +414,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/create-custom-azure-roles-with-rbac/",
       "length": "PT30M",
       "ratings": {
-        "count": 1230,
-        "average": 4.6577234
+        "count": 1231,
+        "average": 4.6580014
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -614,8 +656,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/intro-to-docker-containers/",
       "length": "PT32M",
       "ratings": {
-        "count": 2862,
-        "average": 4.6215935
+        "count": 2864,
+        "average": 4.6218576
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -648,8 +690,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/introduction-to-github/",
       "length": "PT1H12M",
       "ratings": {
-        "count": 312,
-        "average": 4.7275643
+        "count": 313,
+        "average": 4.7252398
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -689,8 +731,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/m365-identity-overview/",
       "length": "PT15M",
       "ratings": {
-        "count": 1828,
-        "average": 4.718818
+        "count": 1829,
+        "average": 4.718972
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -766,8 +808,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/move-azure-resources-another-resource-group/",
       "length": "PT42M",
       "ratings": {
-        "count": 1565,
-        "average": 4.5923324
+        "count": 1566,
+        "average": 4.590677
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -800,8 +842,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/secure-and-isolate-with-nsg-and-service-endpoints/",
       "length": "PT43M",
       "ratings": {
-        "count": 3357,
-        "average": 4.569556
+        "count": 3358,
+        "average": 4.5696845
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -842,8 +884,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/store-and-share-with-azure-files/",
       "length": "PT51M",
       "ratings": {
-        "count": 1145,
-        "average": 4.6052403
+        "count": 1147,
+        "average": 4.603313
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -926,8 +968,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/upload-download-and-manage-data-with-azure-storage-explorer/",
       "length": "PT37M",
       "ratings": {
-        "count": 1410,
-        "average": 4.6134753
+        "count": 1411,
+        "average": 4.6130404
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1067,8 +1109,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/align-requirements-in-azure/",
       "length": "PT35M",
       "ratings": {
-        "count": 5554,
-        "average": 4.736226
+        "count": 5555,
+        "average": 4.736274
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1228,8 +1270,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/choose-a-messaging-model-in-azure-to-connect-your-services/",
       "length": "PT45M",
       "ratings": {
-        "count": 3033,
-        "average": 4.583251
+        "count": 3036,
+        "average": 4.5833335
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1264,8 +1306,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/communicate-between-apps-with-azure-queue-storage/",
       "length": "PT56M",
       "ratings": {
-        "count": 1640,
-        "average": 4.5792685
+        "count": 1641,
+        "average": 4.5795245
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1329,41 +1371,6 @@
       "price": "Free",
       "topics": [
         "Azure"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-configure-the-network-for-your-virtual-machines.md",
-      "title": "Configure the network for your virtual machines",
-      "excerpt": "Learn how to connect your local on-premises networks into Azure using virtual networks, VPN gateways, and Azure ExpressRoute.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-configure-the-network-for-your-virtual-machines/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/configure-network-for-azure-virtual-machines/",
-      "length": "PT1H34M",
-      "ratings": {
-        "count": 3565,
-        "average": 4.5537167
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 54,
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Compute",
-        "Networking"
       ]
     }
   ],
