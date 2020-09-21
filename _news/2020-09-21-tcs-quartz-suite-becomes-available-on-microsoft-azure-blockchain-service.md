@@ -9,7 +9,7 @@ ampWebUrl: "https://www.indiainfoline.com/article-amp/capital-market-corporate-n
 cdnAmpWebUrl: "https://www-indiainfoline-com.cdn.ampproject.org/c/s/www.indiainfoline.com/article-amp/capital-market-corporate-news/tcs-quartz-suite-becomes-available-on-microsoft-azure-blockchain-service-120092100110_1.html"
 type: article
 quality: 56
-heat: 76
+heat: 96
 published: true
 
 provider:
@@ -37,6 +37,15 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 37
+  - title: "TCS’ Blockchain Product Quartz™ is Now Available on Microsoft Azure"
+    excerpt: "Tata Consultancy Services’ Award-winning Smart Ledgers Suite that Helps Enterprises Quickly Build and Deploy Blockchain Solutions Now Brings Added Benefits of the Cloud’s Flexibility, Scalability and Efficiency MUMBAI,"
+    publishedDateTime: 2020-09-21T08:18:00Z
+    webUrl: "https://www.tcs.com/tcs-blockchain-product-quartz-available-microsoft-azure"
+    type: article
+    provider:
+      name: Tata Consultancy Services
+      domain: tcs.com
+    quality: 17
 
 secured: "+yrerD7azV8+J2E8Tr5Cumc4D7TRd00iBZz82PZqjstXzvJtzy/w88aIYaQ1p0gahJP75M1sdIHkIMiH8AXvcb5QHzJfZqyZKjA27R394uoRem+TTVqE3hdvQlUuOpQcELyh9g0LkjXog2kGynbshddnH/x9xDJIkv8102VksP2Yuh6S13XhiUjWA6muk+u+1DK2wZypEHRlsXRZoI/dDyFk0UJ410PP25W7YvF8lc9n02pyKdZopaV4CZRMnOJvQN/O//3WncoQGqc/SEYwiO2a1ZbLd4zX1omVhMOU66tvhSSoltMuCTu46nUfXesV7Qr795gyPxLxN/rROx+GO/qQKWnrEgeGosAF9ozWWmw=;VgmCb0T3wPZtABmW6AxT3w=="
 ---

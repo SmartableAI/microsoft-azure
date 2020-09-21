@@ -2,9 +2,9 @@
 category: news
 title: "Mindtree Recognized as an Expert Managed Service Provider for Microsoft Azure"
 excerpt: "Mindtree, a leading digital transformation and technology services company, has been recognized as a Microsoft Azure Expert Managed"
-publishedDateTime: 2020-09-10T14:02:00Z
-originalUrl: "https://www.prnewswire.com/ae/news-releases/mindtree-recognized-as-an-expert-managed-service-provider-for-microsoft-azure-301127238.html"
-webUrl: "https://www.prnewswire.com/ae/news-releases/mindtree-recognized-as-an-expert-managed-service-provider-for-microsoft-azure-301127238.html"
+publishedDateTime: 2020-09-10T14:18:00Z
+originalUrl: "https://www.prnewswire.com/ae/news-releases/mindtree-recognized-as-an-expert-managed-service-provider-for-microsoft-azure-878029696.html"
+webUrl: "https://www.prnewswire.com/ae/news-releases/mindtree-recognized-as-an-expert-managed-service-provider-for-microsoft-azure-878029696.html"
 type: article
 quality: 34
 heat: -1
@@ -55,6 +55,6 @@ related:
         height: 254
         isCached: true
 
-secured: "KOFpDqUNSfd0zkWLqBsZBCR680fbdh9YVTyjbY0mSZNuJpX9n59+m1u/th9hkXw3ptwn+SMZCWKQbae6enRKEqlz82kKI5vkPFEtMRPO7iWgMGpyXsaqpDr+boRyfZYB1NLWEtuY0vuwlDnKB5LBOBZi9qZDKUD7JPKIdP/8pu54NiLb5vu52ocSGKSoV+mKDwC/E3I6kbU65JmrFyGSGDRDDjC9uf0ND3XRsOkiuU8b3CR9PHDTVlVhPiAVKiOhIgBJa+lnH5SGzM3+wBxNTb4gT0nI6mrKMPDe+Lf7uHt1qqu9mrluSR9USExW5jetNCFti2RKVOOpjR2WiWfDVVZ+q40VBeGBtZH8GIT6BeAF3OkW06MKWKQRXB3bTJUIoPYW+yFz8dVOHoCMqnWKdP3VpAMFffdQNSHRdKE1zHqF4tDkzlPGvaZgC33DBrslfQOl/bUyWNeSoYLeAL7W/x/kI1mf/+9fh+omi4vY7INAB+CtMBdynhxja5dL7CCUQ5sUR7gL1aSaxaPi+Kdc8aWF9egOiYMHN0t/XbnDPe0=;zAX8qkXN+10dpSQycZGmpg=="
+secured: "mwqe3xm73dzYfbJO37ghWQUghMVUibc/SdW/z/XH03zeEFGG0hjr06gM1ILLgkXS0p5YN/1ObmHqok99rXgrp6tCBXdJO76Yp6hAFhe3QlM448NQLrZfYmk1XlXhlPK2yzovdknTWzFkllbcgKAt1LdLfd/NiXHglQLwvuTxoZFcW2WR/NYLoaeWdTfi0bzCKrSEXjFVI0UyZ6iEzJbP0IzYQJi6o2x1OW8U2GHBFKwrKz1c3AqbuEHjt5EPl8ldb2HzXOUNHqwCT9EUAg1bd81elejh4FkEJcvdWUt4xjCGVp0tSI40Smx4AgTrh3B84htExrH0ANqhOpm2rxEfMCp394iT6skaSD4bnzfrklU=;tb0emUsmRHka8jm6innaRA=="
 ---
 

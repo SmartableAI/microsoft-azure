@@ -1,20 +1,20 @@
 ---
 category: news
-title: "Mimecast Email Security for Azure Sentinel is now available in the Microsoft Azure Marketplace"
-excerpt: "Dubai, United Arab Emirates - Mimecast Limited (NASDAQ: MIME), a leading email security and cyber resilience company, today announced the availability of Mimecast® Email Security for Azure Sentinel in the Microsoft Azure Marketplace, an online store ..."
-publishedDateTime: 2020-08-19T07:14:00Z
-originalUrl: "https://www.zawya.com/uae/en/press-releases/story/Mimecast_Email_Security_for_Azure_Sentinel_is_now_available_in_the_Microsoft_Azure_Marketplace-ZAWYA20200819070435/"
-webUrl: "https://www.zawya.com/uae/en/press-releases/story/Mimecast_Email_Security_for_Azure_Sentinel_is_now_available_in_the_Microsoft_Azure_Marketplace-ZAWYA20200819070435/"
-ampWebUrl: "https://www.zawya.com/uae/en/story/amp/ZAWYA20200819070435/"
-cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/uae/en/story/amp/ZAWYA20200819070435/"
+title: "Nebula’s cloud expense solution now available on the Microsoft Azure Marketplace"
+excerpt: "OneView Cloud Expense Management, the latest module available in Nebula’s OneView Technology Expense Management platform, has launched in the Microsoft Azure Marketplace. Given the incredible growth of cloud-based SaaS solutions and the rise of self-service B2B Marketplaces – we wrote more about the trend here – this is a no-brainer as the geo-expansion approach for Microsoft ISVs,"
+publishedDateTime: 2020-09-21T08:46:00Z
+originalUrl: "https://mybroadband.co.za/news/industrynews/368293-nebulas-cloud-expense-solution-now-available-on-the-microsoft-azure-marketplace.html"
+webUrl: "https://mybroadband.co.za/news/industrynews/368293-nebulas-cloud-expense-solution-now-available-on-the-microsoft-azure-marketplace.html"
+ampWebUrl: "https://mybroadband.co.za/news/industrynews/368293-nebulas-cloud-expense-solution-now-available-on-the-microsoft-azure-marketplace.html/amp"
+cdnAmpWebUrl: "https://mybroadband-co-za.cdn.ampproject.org/c/s/mybroadband.co.za/news/industrynews/368293-nebulas-cloud-expense-solution-now-available-on-the-microsoft-azure-marketplace.html/amp"
 type: article
-quality: 25
+quality: 32
 heat: -1
 published: false
 
 provider:
-  name: Zawya
-  domain: zawya.com
+  name: MyBroadband
+  domain: mybroadband.co.za
 
 topics:
   - Azure
@@ -310,17 +310,6 @@ related:
         width: 300
         height: 350
         isCached: true
-  - title: "Nebula’s cloud expense solution now available on the Microsoft Azure Marketplace"
-    excerpt: "OneView Cloud Expense Management, the latest module available in Nebula’s OneView Technology Expense Management platform, has launched in the Microsoft Azure Marketplace. Given the incredible growth of cloud-based SaaS solutions and the rise of self-service B2B Marketplaces – we wrote more about the trend here – this is a no-brainer as the geo-expansion approach for Microsoft ISVs,"
-    publishedDateTime: 2020-09-21T08:46:00Z
-    webUrl: "https://mybroadband.co.za/news/industrynews/368293-nebulas-cloud-expense-solution-now-available-on-the-microsoft-azure-marketplace.html"
-    ampWebUrl: "https://mybroadband.co.za/news/industrynews/368293-nebulas-cloud-expense-solution-now-available-on-the-microsoft-azure-marketplace.html/amp"
-    cdnAmpWebUrl: "https://mybroadband-co-za.cdn.ampproject.org/c/s/mybroadband.co.za/news/industrynews/368293-nebulas-cloud-expense-solution-now-available-on-the-microsoft-azure-marketplace.html/amp"
-    type: article
-    provider:
-      name: MyBroadband
-      domain: mybroadband.co.za
-    quality: 32
   - title: "Tangent Works' Predictive Analytics Now Available in the Microsoft Azure Marketplace"
     excerpt: "RANDOLPH, N.J. and BRUSSELS, July 24, 2020 /PRNewswire/ -- Tangent Works today announced the availability of TIM in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure. Tangent Works customers can now take ..."
     publishedDateTime: 2020-07-24T23:16:00Z
@@ -376,6 +365,17 @@ related:
         isCached: true
   - title: "Mimecast Email Security for Azure Sentinel is now available in the Microsoft Azure Marketplace"
     excerpt: "Dubai, United Arab Emirates - Mimecast Limited (NASDAQ: MIME), a leading email security and cyber resilience company, today announced the availability of Mimecast® Email Security for Azure Sentinel in the Microsoft Azure Marketplace, an online store ..."
+    publishedDateTime: 2020-08-19T07:14:00Z
+    webUrl: "https://www.zawya.com/uae/en/press-releases/story/Mimecast_Email_Security_for_Azure_Sentinel_is_now_available_in_the_Microsoft_Azure_Marketplace-ZAWYA20200819070435/"
+    ampWebUrl: "https://www.zawya.com/uae/en/story/amp/ZAWYA20200819070435/"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/uae/en/story/amp/ZAWYA20200819070435/"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 25
+  - title: "Mimecast Email Security for Azure Sentinel is now available in the Microsoft Azure Marketplace"
+    excerpt: "Dubai, United Arab Emirates - Mimecast Limited (NASDAQ: MIME), a leading email security and cyber resilience company, today announced the availability of Mimecast® Email Security for Azure Sentinel in the Microsoft Azure Marketplace, an online store ..."
     publishedDateTime: 2020-08-19T23:13:00Z
     webUrl: "https://www.zawya.com/mena/en/press-releases/story/Mimecast_Email_Security_for_Azure_Sentinel_is_now_available_in_the_Microsoft_Azure_Marketplace-ZAWYA20200819070435/"
     ampWebUrl: "https://www.zawya.com/mena/en/story/amp/ZAWYA20200819070435/"
@@ -413,6 +413,6 @@ related:
       domain: arnnet.com.au
     quality: 16
 
-secured: "FXha2cs3dBZ3Et8Sr0Y+JfGlOROWTAOGE/YiOm+dv86pARVL9eECxu0omp1OKfZ68DewRtfiJ52rMWOvU0ahdLV/rPGS8be/UfCBBPa3ToDV+1CSTsoAT8zIgP9PUXceYLSSInnGJ3q4LoAFP4GViMnuCuyNY7g+jx+hU5DBDzJIXLlMgLkhu4lGb0qTnFlvD9UHaWGcuvq4qP44Z7qNrlk1NySa0Y9HLHAUIX1cZ1eK819iWlyQVgLqVNzfQhHPnA3Ol2SWWZxH1p8di5E8lhG3+wVo33FYcDYr+nwLPzq1dj954A1QarTJgLX6x9K+sZSMvDoy1ixa5FGLYS5q9frtjyruOOeZwUYy5yNX2vE=;bvfDrBG/SqM5VpOxZbo3Iw=="
+secured: "iStAfwXg/8AC6Q1AKw5TM31t26iHNRbGxbBj0MJ1Vy25uXNdgKJ6FiWXG98BsWapLeO7nZRg/h1ocn3Ja032CyoYX5hTBFeDdPMRC+a88EKxrzunjVWdjcEq9czcc13zBtpJuUxi0xG/Mb+4jtZFgiBsGj3IpQ/wS93siSNk2TqU7HVO/fuhQN6xh+0roxpC0tgl+4Tn+5jF9RhkU5aNP/W1PFqL8mS7sQhm06K9Kk7cMgwJnWKTlmCmKAvY9rCsg5c4mnTN6HgVUOaXBfeUiZB8g3EPk+XneEtG80tFFsKSxHwGjoA9mHayKjH0dpg3/CthvJD53vKgRQy6L8KB5wTVhMGTXm++lsryzRnQtx9n6+pphKhLLdZjnvZXulTp9U1IgIkpyad++NI0cJvdRFQwBfaQGnL6sm3enbxguPwm9pkg+uwj9ov95XO4xzszTaQJEQmQnnv9EjpvVS8ScPGLIcXWkAf5IVZW1r8cI4dA52JqK2r23EyEYr0s/FrXeE8rqX5wurC0ge9AlQRwmg==;S1WBao6VhTQYro1/evELsA=="
 ---
 
