@@ -2,11 +2,11 @@
 category: news
 title: "Mindtree Recognized as an Expert Managed Service Provider for Microsoft Azure"
 excerpt: "Mindtree, a leading digital transformation and technology services company, has been recognized as a Microsoft Azure Expert Managed"
-publishedDateTime: 2020-09-10T14:02:00Z
-originalUrl: "https://www.prnewswire.com/ae/news-releases/mindtree-recognized-as-an-expert-managed-service-provider-for-microsoft-azure-301127238.html"
-webUrl: "https://www.prnewswire.com/ae/news-releases/mindtree-recognized-as-an-expert-managed-service-provider-for-microsoft-azure-301127238.html"
+publishedDateTime: 2020-09-10T14:18:00Z
+originalUrl: "https://www.prnewswire.com/ae/news-releases/mindtree-recognized-as-an-expert-managed-service-provider-for-microsoft-azure-878029696.html"
+webUrl: "https://www.prnewswire.com/ae/news-releases/mindtree-recognized-as-an-expert-managed-service-provider-for-microsoft-azure-878029696.html"
 type: article
-quality: 14
+quality: 34
 heat: -1
 published: false
 
@@ -16,6 +16,12 @@ provider:
 
 topics:
   - Azure
+
+images:
+  - url: "https://mma.prnewswire.com/media/1004066/Mindtree_Logo.jpg?p=facebook"
+    width: 1496
+    height: 785
+    isCached: true
 
 related:
   - title: "BUI named Microsoft Azure Expert Managed Services Provider"
@@ -49,6 +55,6 @@ related:
         height: 254
         isCached: true
 
-secured: "LDliigj4atL+1v95EdYnCkrVRBqHjBQqPfTPkk9/y3ybUvFXi+jQ6d2Ul9vC0YCLtwLsMkvMtK1Pk4ooK5fnQavm4C6OeoB6s/XRQbf5ke3HJRUXOsxEMF1fzWhO36MqaC/ZGQ+L33/4wRPGqk0axClrTT/wggGi5pFcczYWLCln2Etr7QnNA+KnHTQG5On6f0pJxrqYbhgmHpIrvvc6O64SaDswVK+GQg9uxn0jSQlmmfZRpuXCyfcBFzhSWfT3bFYqcMN5lHO8490d1e174ZjzODFzs5R/P8X5JpwFYF5xZpB4SNNFeTyKyeJ0EjdKMGS+GM9o9bjXiVgR5nH4wr/Ba2Ek1woaUTwELBmXalPKLQkd00Dlu0Hc7ep2Rs8QqQBCHoHc2e3JXc5ZAPptZov4UghzF8zsSBJMV8/Py9CowTWgIEjpARCBtkMeA/7i3rcs6OXXs0FJiMNcGgf9ZV//jnDiOfmHOj6zVQynSOoBzUpRXd2DbGql5dyx/fqRbFoYHARzTRkTqFyg+lB6ryRvdVIMa+vOX5AtEkd+8hQ=;oAbQHc/p54HL+XUAg2PDHg=="
+secured: "dHfrObH25CeTG6dFIog42J3/pUfBVTy0EsMvUemkphqua6qe8CsdO+L1aZxIQyzK8FtIQRucaFfbbZVgAcAbG3lJHphMlSpW1WOK1Bsn6v/Lw7HGI7mCqADm1vgnWTY+1l4JKCbukxF0a0aAOlZFDjban5wEQGy7dTw5Hw2wzPkFJbrbnUIyCDvRjwuLE7l5egZ+yqn/3t7IENfoHHM/Y0pvL7P2UPK89R2kHt0/e78Phq9/00qEbzMCBpiYIPVD1QkEce/uiH9518kP6Ur4sra/5HC8R/LHYHPzz7ktRzmdrn3wfIj2PAcWMUFRl/h1TBrhdsxwqB6nV83S+fr0TSyo0n4yydhAjg7nR/AwSPk=;VhGb26d13OcKxfqG1AwO4g=="
 ---
 

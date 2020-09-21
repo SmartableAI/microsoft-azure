@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/azure-private-link-suppo
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-private-link-support-in-azure-data-factory-now-available/"
 type: article
 quality: 67
-heat: 127
+heat: 147
 published: true
 
 provider:
@@ -26,6 +26,15 @@ related:
     excerpt: "You can now use Azure Private Link to connect to an Azure Cache for Redis instance from your virtual network via a private endpoint, which is assigned a private IP address in a subnet within the virtual network."
     publishedDateTime: 2020-09-02T16:00:02Z
     webUrl: "https://azure.microsoft.com/en-us/updates/azure-private-link-for-azure-cache-for-redis-now-in-preview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
+  - title: "Azure Private Link Services available in China"
+    excerpt: "Azure Private Link now includes multiple new services available in all China Regions"
+    publishedDateTime: 2020-09-21T18:00:04Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-private-link-partner-services-now-generally-available-in-china/"
     type: article
     provider:
       name: Microsoft

@@ -1,11 +1,12 @@
 ---
 category: news
-title: "Azure Relay—Azure Private Link support for sender clients is now available in preview"
-excerpt: ""
-publishedDateTime: 2020-05-18T21:00:03Z
-webUrl: "https://azure.microsoft.com/en-us/updates/azure-relay-private-link-support-preview/"
+title: "Azure Private Link Services available in China"
+excerpt: "Azure Private Link now includes multiple new services available in all China Regions"
+publishedDateTime: 2020-09-21T18:00:04Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/azure-private-link-partner-services-now-generally-available-in-china/"
+webUrl: "https://azure.microsoft.com/en-us/updates/azure-private-link-partner-services-now-generally-available-in-china/"
 type: article
-quality: 10
+quality: 67
 heat: -1
 published: false
 
@@ -39,15 +40,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
-  - title: "Azure Private Link Services available in China"
-    excerpt: "Azure Private Link now includes multiple new services available in all China Regions"
-    publishedDateTime: 2020-09-21T18:00:04Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-private-link-partner-services-now-generally-available-in-china/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 67
   - title: "Azure Private Link for Azure Monitor is now available"
     excerpt: ""
     publishedDateTime: 2020-05-22T22:00:01Z
@@ -57,7 +49,16 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 17
+  - title: "Azure Relay—Azure Private Link support for sender clients is now available in preview"
+    excerpt: ""
+    publishedDateTime: 2020-05-18T21:00:03Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-relay-private-link-support-preview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 10
 
-secured: "WTjnJdrkGxvtwcrbUOKE0E7QWRFk5S5zV9Qcn7TQ86QgtE9U/Axwz84BRVEo6h2mN1I9/P4jD8SJg+FBuO0fr5Lpn0qBXJ77cdjsPm76SZAKQMAS5OASoEjhku2ROHD8MU3dnSKomgvKG9k1TTa1lj9CXF1dG+kpHny3tagRD08gzRy0YktmXzsH8f7H3wnd/p6H6PhWv9aRFUbf8AIfFYiEpTFJSqDnzFQxNHwtQIixksFHo6ojNSe2DJ2/+6pHM5VKBGGjPU+DGYC05HsgsvGlZA33v4+unUQ74uvKem+dq1TKstjnuveaLKBGuZhMSqJ6LFaGyA1O8bJ/x60Gng==;lfioC/ZRwdcZlq1uXnLs+A=="
+secured: "M6cMPOZNppt67VD/6hLt/7Ig4X20EzqNV97lOoUBeDqdFzLDJYBoBNEuyynzNh40loCrWU9kK83ZQYMPwZGUbtkS48eB+mWB7+rZLHi8qf7BsLsJ6HFBZZFvr6Xgso9HlO3CfcNky2AH99hNcmUXrHqLTYEX/SL6eN/PUvOP4uhW8+UPJyIrAZUOVCFwsafBkN7799kaYrYYK6zGLdhV8sIsHUO8vGqMr4rbZLT9W7VN7n9c1k88vl06ge/E0CYYWDWfkc0b02BFraTrp4MRxkC3M/4JMp/iQ0bW2yoEWHRniOG3qrV1XH93Gu69i7bzGDgowLEoF1EaRA6qoY876pEa5ZqdN1bV/DrRGy7FeZY=;nv08zDcXJWCR+4F2rDIE/Q=="
 ---
 

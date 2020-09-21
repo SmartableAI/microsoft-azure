@@ -31,6 +31,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
+  - title: "Azure Private Link Services available in China"
+    excerpt: "Azure Private Link now includes multiple new services available in all China Regions"
+    publishedDateTime: 2020-09-21T18:00:04Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-private-link-partner-services-now-generally-available-in-china/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
   - title: "Azure Private Link for Azure Monitor is now available"
     excerpt: ""
     publishedDateTime: 2020-05-22T22:00:01Z

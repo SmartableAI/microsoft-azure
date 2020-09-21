@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Mindtree Recognized as an Expert Managed Service Provider for Microsoft Azure"
+    excerpt: "Mindtree, a leading digital transformation and technology services company, has been recognized as a Microsoft Azure Expert Managed"
+    publishedDateTime: 2020-09-10T14:18:00Z
+    webUrl: "https://www.prnewswire.com/ae/news-releases/mindtree-recognized-as-an-expert-managed-service-provider-for-microsoft-azure-878029696.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 34
+    images:
+      - url: "https://mma.prnewswire.com/media/1004066/Mindtree_Logo.jpg?p=facebook"
+        width: 1496
+        height: 785
+        isCached: true
   - title: "Barracuda introduces first global secure SD-WAN service built natively on Microsoft Azure"
     excerpt: "With the new Barracuda CloudGen WAN, Singapore customers can deploy the Microsoft Global Network as their secure enterprise WAN backbone. Barracuda, a trusted partner and a leading provider of cloud-enabled security solutions, today announced a new secure ..."
     publishedDateTime: 2020-07-30T04:55:00Z
@@ -39,15 +53,6 @@ related:
         width: 620
         height: 254
         isCached: true
-  - title: "Mindtree Recognized as an Expert Managed Service Provider for Microsoft Azure"
-    excerpt: "Mindtree, a leading digital transformation and technology services company, has been recognized as a Microsoft Azure Expert Managed"
-    publishedDateTime: 2020-09-10T14:02:00Z
-    webUrl: "https://www.prnewswire.com/ae/news-releases/mindtree-recognized-as-an-expert-managed-service-provider-for-microsoft-azure-301127238.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 14
 
 secured: "h2bPsnzk2m4DDqp7pNKjgG+4+1R3h6pVuS811u6EXyToIbB3IJtKoDNMpm08bzwjOj2h8jHdfx+7S1Pob8mz/65CfSwIBSr+4NdtK7if2uKSFQhel/SrAhKlQNHOfN0NQn+WWRsSd1b3dSWt8jj8rLBTTR70LMhJJcFILYmNJbiCoLkK2O+hmEvo7FJ5HS+pVwgbfw+yaEo9O/zqcZQPi4pMM22F0jbyHq0hmAa28HtpRp4A42ZTCXFdm6dz+p4iub+vS5QbRJ2DxGnz/LT47gu15x1AMk/48lM5Up2ZEKNGGLr1+axLvIn3DQlo95mTC7aqime+dcj53y+V9SI2/A==;O2ZJHgy5QrxEhtpqEohhqg=="
 ---
