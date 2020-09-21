@@ -41,18 +41,13 @@ related:
         isCached: true
   - title: "Mindtree Recognized as an Expert Managed Service Provider for Microsoft Azure"
     excerpt: "Mindtree, a leading digital transformation and technology services company, has been recognized as a Microsoft Azure Expert Managed"
-    publishedDateTime: 2020-09-10T14:18:00Z
-    webUrl: "https://www.prnewswire.com/ae/news-releases/mindtree-recognized-as-an-expert-managed-service-provider-for-microsoft-azure-878029696.html"
+    publishedDateTime: 2020-09-10T14:02:00Z
+    webUrl: "https://www.prnewswire.com/ae/news-releases/mindtree-recognized-as-an-expert-managed-service-provider-for-microsoft-azure-301127238.html"
     type: article
     provider:
       name: PR Newswire
       domain: prnewswire.com
-    quality: 34
-    images:
-      - url: "https://mma.prnewswire.com/media/1004066/Mindtree_Logo.jpg?p=facebook"
-        width: 1496
-        height: 785
-        isCached: true
+    quality: 14
 
 secured: "7Cn6BMOuHQhbSts7dtuLKF8gi8ckfLMIHcR+b/Q3v1kjvfvwfwdXfvUdf79iutVNITVlRcQa/g2GRhlygTUUQrTZOwERBU2pcfPy5Gef6NT5gzlsOKOJvBm07ilqeXPLi4iWi0/9uzZVh13fO1Yg0YF2y5lrjB7SCMJJjpPn1cNm+2b+Rt2LpV5PoDJw/KzZE5Zu6J8WqpnrMENgoDT+cvdiztcPl+ecQ8qw+m5S7H+c7qympKZCPqGDEdpEHhnk6xG4ciZFGH2l8mD4ZklNr4rSLeasxYj5WJKomRiqyoPz3Yk4LHJrdmEPVoJ48zMOya9cRvlBBICSbKxSc5QhnQ==;JMSh5BaA+FSmthGIrV37LA=="
 ---
