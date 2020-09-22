@@ -26,6 +26,20 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 48
+  - title: "Barracuda Networks launches new SD-WAN solution for Microsoft Azure"
+    excerpt: "Called Barracuda CloudGen WAN, the service is pitched as the first SD-WAN solution that runs inside Azure Virtual WAN Hubs. A virtual hub on Azure is a Microsoft-managed virtual network that enables connectivity from other networks with virtual VNet and gateways as optional components."
+    publishedDateTime: 2020-07-16T17:30:00Z
+    webUrl: "https://siliconangle.com/2020/07/16/barracuda-networks-launches-new-sd-wan-solution-microsoft-azure/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 37
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2019/11/Jenkins.jpg"
+        width: 985
+        height: 657
+        isCached: true
   - title: "PAF Process Mining Software Solution Can be Offered Via Microsoft Azure Marketplace"
     excerpt: "PAF Process Mining Software Solution Can be Offered Via Microsoft Azure Marketplace By CIOReview - Process Analytics Factory (PAF) announced today that its flagship Process Mining solution, PAFnow, is a certified"
     publishedDateTime: 2020-07-28T18:12:00Z

@@ -1,20 +1,18 @@
 ---
 category: news
-title: "Mimecast Email Security for Azure Sentinel is now available in the Microsoft Azure Marketplace"
-excerpt: "Dubai, United Arab Emirates - Mimecast Limited (NASDAQ: MIME), a leading email security and cyber resilience company, today announced the availability of Mimecast® Email Security for Azure Sentinel in the Microsoft Azure Marketplace, an online store ..."
-publishedDateTime: 2020-08-19T23:13:00Z
-originalUrl: "https://www.zawya.com/mena/en/press-releases/story/Mimecast_Email_Security_for_Azure_Sentinel_is_now_available_in_the_Microsoft_Azure_Marketplace-ZAWYA20200819070435/"
-webUrl: "https://www.zawya.com/mena/en/press-releases/story/Mimecast_Email_Security_for_Azure_Sentinel_is_now_available_in_the_Microsoft_Azure_Marketplace-ZAWYA20200819070435/"
-ampWebUrl: "https://www.zawya.com/mena/en/story/amp/ZAWYA20200819070435/"
-cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/ZAWYA20200819070435/"
+title: "CyberArk Now Available on the Microsoft Azure Marketplace"
+excerpt: "Microsoft Azure customers worldwide now gain access to the CyberArk Privileged Access Security Solution to take advantage of the scalability, reliability, and agility of Microsoft Azure to drive application development and shape business strategies The ..."
+publishedDateTime: 2020-09-22T13:55:00Z
+originalUrl: "https://www.nasdaq.com/press-release/cyberark-now-available-on-the-microsoft-azure-marketplace-2020-09-22"
+webUrl: "https://www.nasdaq.com/press-release/cyberark-now-available-on-the-microsoft-azure-marketplace-2020-09-22"
 type: article
-quality: 25
+quality: 57
 heat: -1
 published: false
 
 provider:
-  name: Zawya
-  domain: zawya.com
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - Azure
@@ -78,15 +76,6 @@ related:
         width: 400
         height: 400
         isCached: true
-  - title: "CyberArk Now Available on the Microsoft Azure Marketplace"
-    excerpt: "Microsoft Azure customers worldwide now gain access to the CyberArk Privileged Access Security Solution to take advantage of the scalability, reliability, and agility of Microsoft Azure to drive application development and shape business strategies The ..."
-    publishedDateTime: 2020-09-22T13:55:00Z
-    webUrl: "https://www.nasdaq.com/press-release/cyberark-now-available-on-the-microsoft-azure-marketplace-2020-09-22"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 57
   - title: "Nebula’s cloud expense solution now available on Microsoft Azure Marketplace"
     excerpt: "OneView Cloud Expense Management, the latest module available in Nebula’s OneView Technology Expense Management platform, has launched in the Microsoft Azure Marketplace. Given the incredible growth of cloud-based SaaS solutions and the rise of self-serv ..."
     publishedDateTime: 2020-09-15T07:16:00Z
@@ -408,6 +397,17 @@ related:
       name: Zawya
       domain: zawya.com
     quality: 25
+  - title: "Mimecast Email Security for Azure Sentinel is now available in the Microsoft Azure Marketplace"
+    excerpt: "Dubai, United Arab Emirates - Mimecast Limited (NASDAQ: MIME), a leading email security and cyber resilience company, today announced the availability of Mimecast® Email Security for Azure Sentinel in the Microsoft Azure Marketplace, an online store ..."
+    publishedDateTime: 2020-08-19T23:13:00Z
+    webUrl: "https://www.zawya.com/mena/en/press-releases/story/Mimecast_Email_Security_for_Azure_Sentinel_is_now_available_in_the_Microsoft_Azure_Marketplace-ZAWYA20200819070435/"
+    ampWebUrl: "https://www.zawya.com/mena/en/story/amp/ZAWYA20200819070435/"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/ZAWYA20200819070435/"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 25
   - title: "dotData Now Supports Microsoft Azure Deployment and Is Available on Microsoft Azure Marketplace"
     excerpt: "Sept. 22, 2020 /PRNewswire/ -- dotData, focused on delivering full-cycle data science automation and operationalization for the enterprise, today announced that dotData Enterprise is now commercially available on Microsoft Azure and accessible through the ..."
     publishedDateTime: 2020-09-22T12:09:00Z
@@ -450,6 +450,6 @@ related:
       domain: arnnet.com.au
     quality: 16
 
-secured: "NkKWuHuOfwq+RmqoIDUVSgOSQ089Zbe1UKYBOEP791PNoJEQ5QeXfrioW/tHvvcFYpmkkFR3/IUK0gmU5ab8U6OdO8vy6r38HdYlzmz0zDhbUTGPYmFNVsg62EdY5vp8hPYYipC31LFynvW42QC50ul6WvZ1tpoS43FAtuDnJgkj8sHQvXWOHLawk0V24W0RYwGVE0XaiiEzmgJokZ/5iQBi2kZz/5VB9jHDB2Mc4eD9KrFN4RBpeofcwo2aDl8EXE79WlHasUqaWz2e4B2g4VROOS/2mbP4RQWkLkWZikHZ1O4DgKBup5sXWI1rwzWLm5QnSJ5xLwaxzSaGB3eZblXPFxCcRZwwzcAuDIczIlA=;ovLZJqq+AXbU7LqiLohHZg=="
+secured: "PJKAxJ1qNnsT2UyxXpcoEKs0aWrlNHmuxTYxPSAncZVlUedHL4IMthK/12dY25LQfLrbFZ5Lwqcr1xlmZemRta93go82c6HgSuq6vLH/zZ31PeH38I6hI2djGAOe5aFPpXiV4kOFP2ji6WeBqp++m5G9hDVqPa6pFSk1BpgvatWh/aMJAT4jd9awvsTAHG2GRXv/G4U4vT3I+rXuPDOAQ//KJ319bmDoKNDKBPw3N8MMAXL7kwLwzlT/P+dDjBWgremqKv8TWLzP6TSSQ5Gmj5ZTKtJViGwwueyL/qWgx6n4ol2swtiS5U9uVqCXV/Wb7YtFacydD/YWVamJNGsIex5GXd+Fl6uR2hkqwhHeo48=;/dyxyT0P0HtXhdy5imQ0vA=="
 ---
 

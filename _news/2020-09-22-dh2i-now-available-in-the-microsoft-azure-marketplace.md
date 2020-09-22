@@ -1,23 +1,27 @@
 ---
 category: news
-title: "Mimecast Email Security for Azure Sentinel is now available in the Microsoft Azure Marketplace"
-excerpt: "Dubai, United Arab Emirates - Mimecast Limited (NASDAQ: MIME), a leading email security and cyber resilience company, today announced the availability of Mimecast® Email Security for Azure Sentinel in the Microsoft Azure Marketplace, an online store ..."
-publishedDateTime: 2020-08-19T23:13:00Z
-originalUrl: "https://www.zawya.com/mena/en/press-releases/story/Mimecast_Email_Security_for_Azure_Sentinel_is_now_available_in_the_Microsoft_Azure_Marketplace-ZAWYA20200819070435/"
-webUrl: "https://www.zawya.com/mena/en/press-releases/story/Mimecast_Email_Security_for_Azure_Sentinel_is_now_available_in_the_Microsoft_Azure_Marketplace-ZAWYA20200819070435/"
-ampWebUrl: "https://www.zawya.com/mena/en/story/amp/ZAWYA20200819070435/"
-cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/ZAWYA20200819070435/"
+title: "DH2i Now Available in the Microsoft Azure Marketplace"
+excerpt: "FORT COLLINS, Colo., Sept. 22, 2020 /PRNewswire/ -- DH2i today announced the availability of DxEnterprise for Availability Groups in the Microsoft Azure Marketplace, an online store providing applications and services for use on Microsoft Azure. DH2i ..."
+publishedDateTime: 2020-09-22T13:19:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/dh2i-now-available-in-the-microsoft-azure-marketplace-301134323.html"
+webUrl: "https://www.prnewswire.com/news-releases/dh2i-now-available-in-the-microsoft-azure-marketplace-301134323.html"
 type: article
-quality: 25
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Zawya
-  domain: zawya.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Azure
+
+images:
+  - url: "https://mma.prnewswire.com/media/324010/dh2i_logo.jpg?p=facebook"
+    width: 1400
+    height: 732
+    isCached: true
 
 related:
   - title: "AmploFly4.0 Now Available on Microsoft Appsource and Azure Marketplace"
@@ -266,20 +270,6 @@ related:
         width: 304
         height: 405
         isCached: true
-  - title: "DH2i Now Available in the Microsoft Azure Marketplace"
-    excerpt: "FORT COLLINS, Colo., Sept. 22, 2020 /PRNewswire/ -- DH2i today announced the availability of DxEnterprise for Availability Groups in the Microsoft Azure Marketplace, an online store providing applications and services for use on Microsoft Azure. DH2i ..."
-    publishedDateTime: 2020-09-22T13:19:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/dh2i-now-available-in-the-microsoft-azure-marketplace-301134323.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 37
-    images:
-      - url: "https://mma.prnewswire.com/media/324010/dh2i_logo.jpg?p=facebook"
-        width: 1400
-        height: 732
-        isCached: true
   - title: "Call Journey Now Available in Microsoft Azure Marketplace and App Source"
     excerpt: "Call Journey, provider of market-leading Conversation Analytics technology, announces its listing in the Microsoft Azure Marketplace and AppSource online stores for Microsoft customers providing ..."
     publishedDateTime: 2020-08-31T23:40:00Z
@@ -408,6 +398,17 @@ related:
       name: Zawya
       domain: zawya.com
     quality: 25
+  - title: "Mimecast Email Security for Azure Sentinel is now available in the Microsoft Azure Marketplace"
+    excerpt: "Dubai, United Arab Emirates - Mimecast Limited (NASDAQ: MIME), a leading email security and cyber resilience company, today announced the availability of Mimecast® Email Security for Azure Sentinel in the Microsoft Azure Marketplace, an online store ..."
+    publishedDateTime: 2020-08-19T23:13:00Z
+    webUrl: "https://www.zawya.com/mena/en/press-releases/story/Mimecast_Email_Security_for_Azure_Sentinel_is_now_available_in_the_Microsoft_Azure_Marketplace-ZAWYA20200819070435/"
+    ampWebUrl: "https://www.zawya.com/mena/en/story/amp/ZAWYA20200819070435/"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/ZAWYA20200819070435/"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 25
   - title: "dotData Now Supports Microsoft Azure Deployment and Is Available on Microsoft Azure Marketplace"
     excerpt: "Sept. 22, 2020 /PRNewswire/ -- dotData, focused on delivering full-cycle data science automation and operationalization for the enterprise, today announced that dotData Enterprise is now commercially available on Microsoft Azure and accessible through the ..."
     publishedDateTime: 2020-09-22T12:09:00Z
@@ -450,6 +451,6 @@ related:
       domain: arnnet.com.au
     quality: 16
 
-secured: "NkKWuHuOfwq+RmqoIDUVSgOSQ089Zbe1UKYBOEP791PNoJEQ5QeXfrioW/tHvvcFYpmkkFR3/IUK0gmU5ab8U6OdO8vy6r38HdYlzmz0zDhbUTGPYmFNVsg62EdY5vp8hPYYipC31LFynvW42QC50ul6WvZ1tpoS43FAtuDnJgkj8sHQvXWOHLawk0V24W0RYwGVE0XaiiEzmgJokZ/5iQBi2kZz/5VB9jHDB2Mc4eD9KrFN4RBpeofcwo2aDl8EXE79WlHasUqaWz2e4B2g4VROOS/2mbP4RQWkLkWZikHZ1O4DgKBup5sXWI1rwzWLm5QnSJ5xLwaxzSaGB3eZblXPFxCcRZwwzcAuDIczIlA=;ovLZJqq+AXbU7LqiLohHZg=="
+secured: "4n5jK7dmY4Is+TVODFmTB98F9val2onhUhH985Js8O7oKjE40+jIlxDfsTRdX/1+IYJ1aXDPdYNO3nbT8v2Jr3wr+XZJ2SjZi0JZ3uwDtcMqvGZ9olv8PcD5OCrRnN0Ual7ZgWXnQTQCeWGNyEsWjJlMOTR2ipNLWqV/VYOmOg1E5UtBWcj2DUehrIQVhuDoj5wCnp39YbyOKJMfSVRAoyGBXmFvl85U2H2l2IWQFYVrDvPEz/s6pMqcrMed/F/fMB2vDr42SmEMWxLvqDhC2D3NTFOBsyeWOlr56pWgO/l7lufTDM4gAnvQXvLN6UxG1EcmIE22xl/36JC0sITTVheJcWqHlDW+xWgLCXyrl6U=;8oSx0YIzg75mQdmaG7E+UA=="
 ---
 

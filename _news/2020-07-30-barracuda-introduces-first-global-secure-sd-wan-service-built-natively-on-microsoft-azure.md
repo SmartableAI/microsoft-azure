@@ -23,35 +23,32 @@ images:
     isCached: true
 
 related:
-  - title: "BUI named Microsoft Azure Expert Managed Services Provider"
-    excerpt: "Award-winning South African Microsoft partner earns Azure accreditation and joins an elite group of cloud specialists."
-    publishedDateTime: 2020-07-30T09:47:00Z
-    webUrl: "https://www.itweb.co.za/content/KA3WwMdDjz9MrydZ"
-    ampWebUrl: "https://amp.itweb.co.za/content/KA3WwMdDjz9MrydZ"
-    cdnAmpWebUrl: "https://amp-itweb-co-za.cdn.ampproject.org/c/s/amp.itweb.co.za/content/KA3WwMdDjz9MrydZ"
+  - title: "Barracuda's global SD-WAN service built natively on Azure gains traction with customers and partners"
+    excerpt: "\"As we move our workloads to Microsoft Azure, we need to efficiently connect our sites to the cloud and optimize secure access to SaaS applications,\" said Kaleb Mercer, Director of IT at Rödl ..."
+    publishedDateTime: 2020-09-22T13:21:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/barracuda-s-global-sd-wan-service-built-natively-on-azure-gains-traction-with-customers-and-partners-1029611183"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/barracuda-s-global-sd-wan-service-built-natively-on-azure-gains-traction-with-customers-and-partners-1029611183"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/barracuda-s-global-sd-wan-service-built-natively-on-azure-gains-traction-with-customers-and-partners-1029611183"
     type: article
     provider:
-      name: ITWeb
-      domain: itweb.co.za
-    quality: 57
-    images:
-      - url: "https://www.itweb.co.za/static/pictures/2020/07/BUI-Microsoft-Azure.jpg"
-        width: 816
-        height: 408
-        isCached: true
-  - title: "Mindtree Recognized as an Expert Managed Service Provider for Microsoft Azure"
-    excerpt: "Mindtree, a leading digital transformation and technology services company, has been recognized as a Microsoft Azure Expert Managed"
-    publishedDateTime: 2020-09-10T14:02:00Z
-    webUrl: "https://www.prnewswire.com/ae/news-releases/mindtree-recognized-as-an-expert-managed-service-provider-for-microsoft-azure-301127238.html"
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 62
+  - title: "Barracuda launches first global SD-WAN service built natively on Microsoft Azure"
+    excerpt: "Barracuda, a leading provider of cloud-enabled security solutions, has introduced a new secure SD-WAN service built natively on Microsoft Azure. The new Barracuda CloudGen WAN service is the first SD-WAN solution that runs inside Azure Virtual WAN Hubs."
+    publishedDateTime: 2020-07-17T07:11:00Z
+    webUrl: "https://www.thehindubusinessline.com/info-tech/barracuda-launches-first-global-sd-wan-service-built-natively-on-microsoft-azure/article32111482.ece"
+    ampWebUrl: "https://www.thehindubusinessline.com/info-tech/barracuda-launches-first-global-sd-wan-service-built-natively-on-microsoft-azure/article32111482.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/barracuda-launches-first-global-sd-wan-service-built-natively-on-microsoft-azure/article32111482.ece/amp/"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 34
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 52
     images:
-      - url: "https://mma.prnewswire.com/media/1004066/Mindtree_Logo.jpg?p=facebook"
-        width: 1496
-        height: 785
+      - url: "https://www.thehindubusinessline.com/info-tech/nozm6x/article32111481.ece/ALTERNATES/LANDSCAPE_615/BL17CLOUD"
+        width: 615
+        height: 384
         isCached: true
 
 secured: "7Cn6BMOuHQhbSts7dtuLKF8gi8ckfLMIHcR+b/Q3v1kjvfvwfwdXfvUdf79iutVNITVlRcQa/g2GRhlygTUUQrTZOwERBU2pcfPy5Gef6NT5gzlsOKOJvBm07ilqeXPLi4iWi0/9uzZVh13fO1Yg0YF2y5lrjB7SCMJJjpPn1cNm+2b+Rt2LpV5PoDJw/KzZE5Zu6J8WqpnrMENgoDT+cvdiztcPl+ecQ8qw+m5S7H+c7qympKZCPqGDEdpEHhnk6xG4ciZFGH2l8mD4ZklNr4rSLeasxYj5WJKomRiqyoPz3Yk4LHJrdmEPVoJ48zMOya9cRvlBBICSbKxSc5QhnQ==;JMSh5BaA+FSmthGIrV37LA=="

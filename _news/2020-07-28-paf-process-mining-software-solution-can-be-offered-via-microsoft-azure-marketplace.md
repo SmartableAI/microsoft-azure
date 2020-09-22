@@ -32,6 +32,20 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 48
+  - title: "Barracuda Networks launches new SD-WAN solution for Microsoft Azure"
+    excerpt: "Called Barracuda CloudGen WAN, the service is pitched as the first SD-WAN solution that runs inside Azure Virtual WAN Hubs. A virtual hub on Azure is a Microsoft-managed virtual network that enables connectivity from other networks with virtual VNet and gateways as optional components."
+    publishedDateTime: 2020-07-16T17:30:00Z
+    webUrl: "https://siliconangle.com/2020/07/16/barracuda-networks-launches-new-sd-wan-solution-microsoft-azure/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 37
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2019/11/Jenkins.jpg"
+        width: 985
+        height: 657
+        isCached: true
   - title: "Verizon Business, Microsoft Azure team on IoT solutions"
     excerpt: "Verizon Business (VZ +0.4%) has teamed with Microsoft Azure (MSFT -4.1%) in order to speed and simplify deployment of Internet of Things solutions."
     publishedDateTime: 2020-07-23T18:50:00Z

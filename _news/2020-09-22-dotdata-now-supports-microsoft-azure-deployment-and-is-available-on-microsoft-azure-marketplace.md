@@ -1,23 +1,27 @@
 ---
 category: news
-title: "Mimecast Email Security for Azure Sentinel is now available in the Microsoft Azure Marketplace"
-excerpt: "Dubai, United Arab Emirates - Mimecast Limited (NASDAQ: MIME), a leading email security and cyber resilience company, today announced the availability of Mimecast® Email Security for Azure Sentinel in the Microsoft Azure Marketplace, an online store ..."
-publishedDateTime: 2020-08-19T23:13:00Z
-originalUrl: "https://www.zawya.com/mena/en/press-releases/story/Mimecast_Email_Security_for_Azure_Sentinel_is_now_available_in_the_Microsoft_Azure_Marketplace-ZAWYA20200819070435/"
-webUrl: "https://www.zawya.com/mena/en/press-releases/story/Mimecast_Email_Security_for_Azure_Sentinel_is_now_available_in_the_Microsoft_Azure_Marketplace-ZAWYA20200819070435/"
-ampWebUrl: "https://www.zawya.com/mena/en/story/amp/ZAWYA20200819070435/"
-cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/ZAWYA20200819070435/"
+title: "dotData Now Supports Microsoft Azure Deployment and Is Available on Microsoft Azure Marketplace"
+excerpt: "Sept. 22, 2020 /PRNewswire/ -- dotData, focused on delivering full-cycle data science automation and operationalization for the enterprise, today announced that dotData Enterprise is now commercially available on Microsoft Azure and accessible through the ..."
+publishedDateTime: 2020-09-22T12:09:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/dotdata-now-supports-microsoft-azure-deployment-and-is-available-on-microsoft-azure-marketplace-301135412.html"
+webUrl: "https://www.prnewswire.com/news-releases/dotdata-now-supports-microsoft-azure-deployment-and-is-available-on-microsoft-azure-marketplace-301135412.html"
 type: article
 quality: 25
 heat: -1
 published: false
 
 provider:
-  name: Zawya
-  domain: zawya.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Azure
+
+images:
+  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+    width: 600
+    height: 315
+    isCached: true
 
 related:
   - title: "AmploFly4.0 Now Available on Microsoft Appsource and Azure Marketplace"
@@ -408,20 +412,17 @@ related:
       name: Zawya
       domain: zawya.com
     quality: 25
-  - title: "dotData Now Supports Microsoft Azure Deployment and Is Available on Microsoft Azure Marketplace"
-    excerpt: "Sept. 22, 2020 /PRNewswire/ -- dotData, focused on delivering full-cycle data science automation and operationalization for the enterprise, today announced that dotData Enterprise is now commercially available on Microsoft Azure and accessible through the ..."
-    publishedDateTime: 2020-09-22T12:09:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/dotdata-now-supports-microsoft-azure-deployment-and-is-available-on-microsoft-azure-marketplace-301135412.html"
+  - title: "Mimecast Email Security for Azure Sentinel is now available in the Microsoft Azure Marketplace"
+    excerpt: "Dubai, United Arab Emirates - Mimecast Limited (NASDAQ: MIME), a leading email security and cyber resilience company, today announced the availability of Mimecast® Email Security for Azure Sentinel in the Microsoft Azure Marketplace, an online store ..."
+    publishedDateTime: 2020-08-19T23:13:00Z
+    webUrl: "https://www.zawya.com/mena/en/press-releases/story/Mimecast_Email_Security_for_Azure_Sentinel_is_now_available_in_the_Microsoft_Azure_Marketplace-ZAWYA20200819070435/"
+    ampWebUrl: "https://www.zawya.com/mena/en/story/amp/ZAWYA20200819070435/"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/ZAWYA20200819070435/"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
+      name: Zawya
+      domain: zawya.com
     quality: 25
-    images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
-        isCached: true
   - title: "DataVisor Now Available in the Microsoft Azure Marketplace"
     excerpt: "DataVisor, the leading fraud detection company with solutions powered by transformational AI technology, today announced the availability of dVector a"
     publishedDateTime: 2020-05-19T12:37:00Z
@@ -450,6 +451,6 @@ related:
       domain: arnnet.com.au
     quality: 16
 
-secured: "NkKWuHuOfwq+RmqoIDUVSgOSQ089Zbe1UKYBOEP791PNoJEQ5QeXfrioW/tHvvcFYpmkkFR3/IUK0gmU5ab8U6OdO8vy6r38HdYlzmz0zDhbUTGPYmFNVsg62EdY5vp8hPYYipC31LFynvW42QC50ul6WvZ1tpoS43FAtuDnJgkj8sHQvXWOHLawk0V24W0RYwGVE0XaiiEzmgJokZ/5iQBi2kZz/5VB9jHDB2Mc4eD9KrFN4RBpeofcwo2aDl8EXE79WlHasUqaWz2e4B2g4VROOS/2mbP4RQWkLkWZikHZ1O4DgKBup5sXWI1rwzWLm5QnSJ5xLwaxzSaGB3eZblXPFxCcRZwwzcAuDIczIlA=;ovLZJqq+AXbU7LqiLohHZg=="
+secured: "Fp7vyhq9C5i6lUPRUbHqJVq9lYyMU+Jjjb5+yfortdTsmYL34u2zOZ9NXB/3B8O2piWOwTy7Xkwm+b8FIk4f7/Qk6HKAYhyUivWNTPA50GkmJUuZCw26taiOwqiwourtYWDAkNmNpOP2YZKxl+y4xvrPUrqBXUnadJMoL0jMRSnoiM5/sSTGmDlrfhbGAFfthGYe/5LaIP7q4ty1UWmfK/Hz0lKRNj1fq2a/ZY13DFuZFvebvHjDPpRRqzQ6628F8CJG6y31lAWifZUKamPhSDbojtR6t5p9FKVwe6hZwTHEU6P/5Jy0vRUuv/oOSswnDQpvyURRUiDhdmZ/l5wC7RsVc5+k/NK/AhEjPCR5O1g=;cE9SJ1Jt6LTw8ZQ8hWYbYw=="
 ---
 
