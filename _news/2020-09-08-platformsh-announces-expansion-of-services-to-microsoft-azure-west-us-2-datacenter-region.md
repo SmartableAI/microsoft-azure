@@ -3,8 +3,8 @@ category: news
 title: "Platform.sh announces expansion of services to Microsoft Azure West US 2 Datacenter Region"
 excerpt: "PRNewswire/ -- Platform.sh, an end-to-end web platform for agile teams, is pleased to announce the expansion of its services to the West US 2 datacenter"
 publishedDateTime: 2020-09-08T16:00:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/platform-sh-announces-expansion-of-services-to-microsoft-azure-west-us-2-datacenter-region/article_1d4f0d8f-1984-5ce1-b24e-3380c68de1b7.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/platform-sh-announces-expansion-of-services-to-microsoft-azure-west-us-2-datacenter-region/article_1d4f0d8f-1984-5ce1-b24e-3380c68de1b7.html"
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/platform-sh-announces-expansion-of-services-to-microsoft-azure-west-us-2-datacenter-region/article_1d4f0d8f-1984-5ce1-b24e-3380c68de1b7.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/platform-sh-announces-expansion-of-services-to-microsoft-azure-west-us-2-datacenter-region/article_1d4f0d8f-1984-5ce1-b24e-3380c68de1b7.html"
 type: article
 quality: 27
 heat: -1
@@ -71,6 +71,6 @@ related:
       domain: businesswire.com
     quality: 11
 
-secured: "8PCaD9dCBf3nYSyU7Jjex5lrkbxsWolFLk7rd5Uu+Tf8Csr8CFWjhyalsdyLROeAVfIXphgUxAZMrqpi0CsbGGa7EP1r9db0ZRDkSRIMazeanGxEdaK6YUhTv3HVFfQomP1bj/o1jae0W4rx5jwT6rY7g5+1kAsPqv356OX+mrkWKNH/z2qV2GzsGW6I8KVicrmu9u1pD0Fen91JqbtZTSr0h6d1yH2mQf7LmUTsQV7kv+93KIM5VwVRyzZhZcMagjlZPlHPTCY+2KFzP0RWGz0+zcBdn1ocGUn07c0P5LgHzsoWCkh3u0TWwHCZUiuR4LMOCasdQoeo6RGwiUgRqql7nEyqUKa6pExHQd6s7pI=;asl/K4s9M1TSJcoFMEDTSw=="
+secured: "tiHEQD9uuHtUXvUO7TWgR8KFdzeT5uYbkGMAazx1lDlWj8M30Nxx9ZVpIKq2dVCliySVdC2dAt0cjgFXR4jXNte20CzyazLaXtm7mwZayUcIfGJgLteFSN0+tq9G4weq0nEdkUCbGMHyVemk7KIWULUI1473t1+usYtOtyCSZJI2y6x7p34MpmMHLI0PFDr2ZJdbtbN9MEtmkHUzivx4F/fnpascQTFRtGO3q2aDEavPJvbSA87V46uY/rZRuIJ7zhhRpvsXi6/nYwVFgdSeQmJXpvo1G3zuF05bAhqogBMaX8s5EJVksEZv51IQSGOiz/d5y+CtOA6qXoGv/IOYOc7YqENsqVgG03UBTGuynKk=;onp12CjNRjIm5Bx9KNrwcQ=="
 ---
 
