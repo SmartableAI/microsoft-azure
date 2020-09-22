@@ -76,6 +76,29 @@ related:
       name: Diginomica
       domain: diginomica.com
     quality: 37
+  - title: "14 Top Azure Announcements From Microsoft Ignite 2020"
+    excerpt: "Microsoft Azure hybrid and multi-cloud solutions in the spotlight at Microsoft Build 2020 include Azure Arc updates, the Azure Certified Device Program, a public preview of Azure Communication Services,"
+    publishedDateTime: 2020-09-22T17:16:00Z
+    webUrl: "https://www.crn.com/slide-shows/cloud/14-top-azure-announcements-from-microsoft-ignite-2020"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 37
+    images:
+      - url: "https://www.crn.com/resources/025f-0ff0d7dce6e1-290de920b9a0-1000/microsoft-azure-sign.jpg"
+        width: 610
+        height: 457
+        isCached: true
+  - title: "Microsoft Azure launches services that compete with Twilio, Amazon"
+    excerpt: "Microsoft (MSFT +1.2%) launches Azure Communication Services, which allows developers to add video, voice, chat, and text messaging across applications, websites, and mobile platforms.The tech giant says Communication Services can improve \"customer engagement with Azure AI translation and sentiment analysis for chat messages."
+    publishedDateTime: 2020-09-22T16:57:00Z
+    webUrl: "https://seekingalpha.com/news/3616223-microsoft-azure-launches-services-compete-twilio-amazon"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 17
 
 secured: "x+/4Cx2kyt2f2TdB/1HLmTpZavwi3/WmOEsHP/czOmYs5iUFFJ+2D3Oy+JfYEoZj6U5RiMt9o6yh4//WeBSdigE4YAuNF+KW7rejbJUDdqNMLRpbMffgJzb9dtRUDPzMh5/qLquN2WC/EbJbBpotmtYKv8Yby3T7xk3OMWjDm4GjKrnq4uQ1P0wE/5Z9Cm1mFef9XpaiDbg5dWSYZrgzCGDyJr3cOGouF+vobN7s1hYkq9RRcn0fmc73WTDUCV2ZTEeOdK08kdbDvCDFsiC5HajQ+qeMHOYzOpVuHaOnm7k/B96clocRGmd4GpNmqZks93kQrDWV20didofAUIecV8BKOv4zEqaK8lBBpmcv7Ss=;DpyLC7MghaotRh+7otw60g=="
 ---

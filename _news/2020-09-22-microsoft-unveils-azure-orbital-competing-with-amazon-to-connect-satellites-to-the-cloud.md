@@ -62,6 +62,20 @@ related:
         width: 630
         height: 321
         isCached: true
+  - title: "Microsoft unveils Azure Orbital connecting satellites to its cloud"
+    excerpt: "Microsoft CEO Sataya Nadella speaking at Microsoft Ignite 2020, the annual developer conference. SAN FRANCISCO – Microsoft unveiled Azure Orbital Sept. 22, a service to help customers move data ..."
+    publishedDateTime: 2020-09-22T16:03:00Z
+    webUrl: "https://spacenews.com/azure-orbital-introduction/"
+    type: article
+    provider:
+      name: SpaceNews
+      domain: spacenews.com
+    quality: 37
+    images:
+      - url: "https://spacenews.com/wp-content/uploads/2020/09/rsz_screen_shot_2020-09-22_at_81844_am.png"
+        width: 879
+        height: 496
+        isCached: true
   - title: "Microsoft expands Azure Arc’s hybrid cloud capabilities for better communications"
     excerpt: "Microsoft Corp. said today at its Ignite 2020 virtual conference that it’s extending the hybrid cloud capabilities of its Azure cloud platform to make it easier for customers to run their ..."
     publishedDateTime: 2020-09-22T15:21:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.neowin.net/amp/microsoft-cloud-for-healthcare-will-be-ge
 cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-cloud-for-healthcare-will-be-generally-available-next-month/"
 type: article
 quality: 82
-heat: 82
+heat: 102
 published: true
 
 provider:
@@ -29,6 +29,17 @@ images:
     height: 506
     isCached: true
 
-secured: "IgrHGkCSC2oOIeSFhKiY3WYM3TNOpaORw/ugk1Q37MQ1LwEQiPd68kQajt5QRXBLwDes5kGe6B+nQMEIyen7FRbL/Oa7asjlfrQbsvJo+00V5vUP1l9q4/F/aoqFdcwTBWT2GgAJO94iGOo2J0NRIuUv4tEytORPpVhTlBkDnK13+mMn618keWdrH/bH73faeC89ZarDMcpPuRIkUbynF34tS0jo62gZv5OKjh0/LN3UJGAvi8iUOFry08ioiHPydv8irHZvceBj3IDsU6C8bzLbtW0b8hUsHfAjV26uVqMoHXjBnYXAJSnnFA68ougVbQ6Ualg5APRVFlb/Ai6WhU4SL9QxvpBSj0Zogkw4k2k=;eBoHUj46UNO+okmXCXo1FQ=="
+related:
+  - title: "Microsoft Cloud for Healthcare will be generally available on October 30, 2020"
+    excerpt: "Microsoft Cloud for Healthcare will help organizations adapt and build scalable modalities of care while safeguarding patients, care teams, and assets. "
+    publishedDateTime: 2020-09-22T16:05:32Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/microsoft-cloud-for-healthcare-general-availability-date-announced/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 48
+
+secured: "VwHr9a32b40880xPk7jzgSTkqBwMLZ1bCqN/79hZ2gkrR8ngHwgkMuh67CPi1zaZqmMLQTDZUZbAGOPVQjf+upqOcsciSckpSwsUT9UGPK3CBDXI45TKiJpaRE0TgDZgGiupZLd4NzznG6OqesaRPylsORV5QhCFZVB0YuHvah0l/tksN/dzvJqIYEiBA/bc6A1LwUi8hspNB39b9lD+ra42BPD45fusKBsZVvfmOqbhIfQ2VP7TpYoFPrkDR4qSPWaf0rcDl8Gd2v4Sfjn2BW/bGavTnRXFKjGiOvRTSxmkc8nawMSRv4BGQa7KGfJR4IOqm6Ky4ZRPKEWb5WuE9TGOUPDhpJio5djG24+3TjLXq+zVJKTf8pRAeSz+iYEmJzG1QM/XbtWNPAf3pmmsipxOJyP15/XgZZQX6ZWbn6kwGxWZt6QEkYngrqcEUUNRa0YpBVApOUcRc0U8J+y2hZ1jFXQnYqgyE+McPxMY5Ld6SU05XAg5mJJdUILC8cL3GfwQf2Fgxu79dgblXFeAzw==;5Acdh5IaCB40ipGoSmBYGw=="
 ---
 

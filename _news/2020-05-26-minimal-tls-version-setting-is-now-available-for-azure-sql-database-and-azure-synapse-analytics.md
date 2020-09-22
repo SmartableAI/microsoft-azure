@@ -21,10 +21,10 @@ topics:
   - Azure
 
 related:
-  - title: "Azure Database for MySQL support for intelligent performance with MySQL 8.0 is now available"
+  - title: "Authenticate Azure Stream Analytics to Azure SQL Database using managed identities (preview)"
     excerpt: ""
-    publishedDateTime: 2020-05-25T17:00:35Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/intelligent-performance-mysql-8/"
+    publishedDateTime: 2020-05-19T17:00:15Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/authenticate-stream-analytics-to-azure-sql-db-using-managed-identities-preview/"
     type: article
     provider:
       name: Microsoft

@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/nfs-41-support-for-azure-files-is
 webUrl: "https://azure.microsoft.com/blog/nfs-41-support-for-azure-files-is-now-in-preview/"
 type: article
 quality: 87
-heat: 247
+heat: 287
 published: true
 
 provider:
@@ -59,6 +59,24 @@ related:
     excerpt: "Azure Files now adds support for NFS v4.1 file system protocol for an easy migration of your Linux-centric workloads."
     publishedDateTime: 2020-09-16T17:00:28Z
     webUrl: "https://azure.microsoft.com/en-us/updates/azure-files-support-for-nfs-v41-is-now-in-preview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
+  - title: "Azure Arc enabled data services now in preview"
+    excerpt: "Run Azure Arc enabled data services on premises on any infrastructure of your choice with Azure cloud benefits like elastic scale, unified management, and a cloud billing model while staying always current. "
+    publishedDateTime: 2020-09-22T16:05:38Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-arc-enabled-data-services-now-in-preview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
+  - title: "Azure Object Anchors is now in private preview"
+    excerpt: "Align and anchor holographic content to objects. Register to be considered for Azure Object Anchors private preview. "
+    publishedDateTime: 2020-09-22T16:05:36Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azureobjectanchorsprivatepreview/"
     type: article
     provider:
       name: Microsoft

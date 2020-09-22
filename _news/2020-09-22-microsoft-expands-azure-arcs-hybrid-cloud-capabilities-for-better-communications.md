@@ -72,7 +72,21 @@ related:
         width: 3000
         height: 2000
         isCached: true
+  - title: "Microsoft unveils Azure Orbital connecting satellites to its cloud"
+    excerpt: "Microsoft CEO Sataya Nadella speaking at Microsoft Ignite 2020, the annual developer conference. SAN FRANCISCO – Microsoft unveiled Azure Orbital Sept. 22, a service to help customers move data ..."
+    publishedDateTime: 2020-09-22T16:03:00Z
+    webUrl: "https://spacenews.com/azure-orbital-introduction/"
+    type: article
+    provider:
+      name: SpaceNews
+      domain: spacenews.com
+    quality: 37
+    images:
+      - url: "https://spacenews.com/wp-content/uploads/2020/09/rsz_screen_shot_2020-09-22_at_81844_am.png"
+        width: 879
+        height: 496
+        isCached: true
 
-secured: "LfM+rNDF3qTzJdo2fwgugqzb0UJfyMvn6DJ/kNDdhjreYX3VMmyF1BpYfUDDAYvPcH6QVL7i32opEl55c/KJlXu6s3uKnzFvgYzS5VzgvU1C4MaQVyrK8yO1h8kssjSPFZVkku96Ika6iD/mvvGV6vpkJtyXChGIm917vWAKJVXDCF8KLl2FBEPcoGVJUKpyK80rVHekgZ8fUbMdju+XMRcNm9FW5aM+20BIcL9cWIeAcSuxyh4byUSVrxr5jWPQZv6TEyQDFhyjsEVyyO/qt3gmkCpgySpgPeVtgZCqDmKaoHX3GiQcG7NNuoD5xV945QtlXRHw7ocSr3VYoCCEffL4clT0d2cdRHbkw/y8O9s=;lPYpwfpCEijpDq5/BLc1aA=="
+secured: "Ej2rX3OupAVz3tvjSqC927ZaGZlHdHKH0Lr7hpKZ1PVadONMjOc7po9WGiQ1onbxEKjqHrIudlKqFXBbVZAOkhLjeW1ZwYOk2HxGrsrYfzs2Pf+jm158Q98dNsGJCYbdSK0bq2aaU9emddbHI5OnK2HDemfE6WYl1dNUVCroE15JqYektWb/rirYRJp9G88LRO77swDU/XZ6tErZBw34DxMmeK08eYDZh3IUlTT/JveABo8pBWXH+igNXRfdGCHVcjVQgM9USWzk2aFO37OFgKkUl+fXaYiLEGYUXvDgdQW+hq6HenxyyUwERvecekn7Ql22nyQLJUmQP/jFM4wP+n4Ug7uZIcaI77HAy3rH95FTno5al9Wykgh//NdMU5imgrzigxFPRl+6dF3+YLoxk2jGUYmwOy3gYLc6JCKT7NSM9lawo4HInQnrpGLCiM0eb9xNxxvxY8r6QGrKk6FMDun9l+ECYmDhWvyfreBfHt5Scxx1QjFbaYbAsTDfs4mQ0Z/uG+gu4F64i8Bk4eKFNA==;2lzrqiK6B4xjDb5Bm+0tlQ=="
 ---
 

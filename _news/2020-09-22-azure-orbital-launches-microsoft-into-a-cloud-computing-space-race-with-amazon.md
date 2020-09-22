@@ -62,6 +62,20 @@ related:
         width: 3000
         height: 2000
         isCached: true
+  - title: "Microsoft unveils Azure Orbital connecting satellites to its cloud"
+    excerpt: "Microsoft CEO Sataya Nadella speaking at Microsoft Ignite 2020, the annual developer conference. SAN FRANCISCO – Microsoft unveiled Azure Orbital Sept. 22, a service to help customers move data ..."
+    publishedDateTime: 2020-09-22T16:03:00Z
+    webUrl: "https://spacenews.com/azure-orbital-introduction/"
+    type: article
+    provider:
+      name: SpaceNews
+      domain: spacenews.com
+    quality: 37
+    images:
+      - url: "https://spacenews.com/wp-content/uploads/2020/09/rsz_screen_shot_2020-09-22_at_81844_am.png"
+        width: 879
+        height: 496
+        isCached: true
   - title: "Microsoft expands Azure Arc’s hybrid cloud capabilities for better communications"
     excerpt: "Microsoft Corp. said today at its Ignite 2020 virtual conference that it’s extending the hybrid cloud capabilities of its Azure cloud platform to make it easier for customers to run their ..."
     publishedDateTime: 2020-09-22T15:21:00Z
@@ -77,6 +91,6 @@ related:
         height: 576
         isCached: true
 
-secured: "vx/nPyxz02F/hQT60faJ7I01DMCY1BuP48cVrHFm17rIVxp9FWdUGnKDcrlOYcnNbvjbYkLK/v2mmJTMkdFLLkVaq+bS5kg9VmzISD64YnSR8ISlOQ0/4TaLdIGuOQQtlCAHM0fsgrVYejEf9xrwHQLcpbn0N3w54W3+aRbxE5XjjBAZrgMZfv1fxU9h910vf0S60DK0qUSPbD5QPam+6YAKR9UsiMvxSWYogVpo7ceGjYb4DadJCoNSMTpG6UDQUqrdae+e4z7C+/9WTHBFndhHILBHDSDgikM/U7BvVs03ZqAmUXup7HAj1yZlY+X2tATra2sLXyqtldjru/GyVNolNQM8awY+ZeGWOEd+Q50=;UeAcDOkEfEChWHtzM724RA=="
+secured: "FYuRUGwQrExRY/m3hgM5zMu8AEiEs1HqpgdEPfJH4bKE2t11lCIdfpId+U889ndO2Gr7PQJSMCfFRFYBNf6WyMxaUGdnPlP3f8WE+nvI20J4P7+oRrejzCT3sGiicTMvsib8ieACX1NVqZ/t3NH3ICyoIKmci76nQ0ukeBJN2S2g46aD4uaw9THQIiq513oBVX0Uo/P5S47ABHXp/rdoVxSPn9THi6o19c1OIqTygDMPRiYw8cDF0BVU66LxvMNkn7ebOjKTSUJ6w5pIAcqBXfIE0Wr1GvSdq+c2hmYREMDwKUid09DZ2a9fXsi1OVI5AtBKKe7dzL9H1/ooFLEao5LW5mePVt+GgKAyRr24Fn8sZyaFKVrzCDlysxUMLI2GHiIh2+n1dVO8D0TZsuHJZjU71Ma7bf96HEhREC39F+h3UWBWkk0zHhoQqW8kLaj6leM3NmrVR03+fTzLI2rS9famFbSxl1Ny5GHvvM8ccJJO8Hz/gplR5LNBNHoLKcxhVJcHbQRh2sZGBMyZyv+rGA==;hi04k5ycFXtD4oeUrm3IBw=="
 ---
 

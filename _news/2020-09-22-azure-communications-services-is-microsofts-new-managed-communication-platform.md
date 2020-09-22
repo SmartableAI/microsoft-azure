@@ -9,7 +9,7 @@ ampWebUrl: "https://www.neowin.net/amp/azure-communications-services-is-microsof
 cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/azure-communications-services-is-microsofts-new-managed-communication-platform/"
 type: article
 quality: 93
-heat: 173
+heat: 153
 published: true
 
 provider:
@@ -58,20 +58,6 @@ related:
         width: 647
         height: 450
         isCached: true
-  - title: "dotData Now Supports Microsoft Azure Deployment and Is Available on Microsoft Azure Marketplace"
-    excerpt: "Sept. 22, 2020 /PRNewswire/ -- dotData, focused on delivering full-cycle data science automation and operationalization for the enterprise, today announced that dotData Enterprise is now commercially available on Microsoft Azure and accessible through the ..."
-    publishedDateTime: 2020-09-22T12:09:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/dotdata-now-supports-microsoft-azure-deployment-and-is-available-on-microsoft-azure-marketplace-301135412.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 25
-    images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
-        isCached: true
   - title: "Alaska Communications brings locally hosted Microsoft Azure Services to Alaska"
     excerpt: "Alaska Communications will bring locally hosted Microsoft Azure Stack Hub cloud services to Alaska. Alaska Communications used Azure Stack Hub to enhance computing by offering greater flexibility and reliability."
     publishedDateTime: 2020-07-02T08:04:00Z
@@ -82,6 +68,6 @@ related:
       domain: telecompaper.com
     quality: 13
 
-secured: "s1GeGj/I51E5OCxIkI6bZTVxXh6ashVH7ZADk5NwwP+k5kMhTXthXXjk2nLB0awk1bjOKrSUACFMRjEIKiZMSXzD23rG4v1xEm4k0yBcv4kd5UlwA2IL1zoTrZOGwk3ONCoWgn42AFg7aaVLuN50GsLs6J9F9XtIF83VLAJcGMbGsDLhYa7xRe7oDXEfoZB5Eyr6LL4BYj171ixkLImJdOTgyWkG4A1oviKrKu1BSoTDpaxy+xvD+KWnA3T1HCdPz3wJpRmBGtRQ3CX3+aQMJjbcV2w7xtyTcll8BR8cbBDDyobNkeFDfnr8EIdf8AlTdxTfu8KfdvJmLY4J/NsUGp+oBioa3huKItUMUl812fs=;O95RffPIWXPlFcrwlC62cA=="
+secured: "Etg8pUjtQa5ksFNm8XgcuYzTd7LAigBHLDW/7vk9UNiYWsZZgClA9OnAi2e7cU9Kg7XEUzAGoujWv9lJWnC/DAZKMnVyyH4+o+PM23XNH5xCH8zJBppn1Aq+BR3Ogq2IS9SEyzAIWKrVIKzuOypJEPyYomDxcnhRLwXZfAqyT/lCCo+21bKma2fdEumeh0UCqus1SEH98DBJKqegU7LJJv6dS6bvvME2Qb4FL6z/oyJQ9nPR0V2EHz53V/ejAPWsQOEHLk6PVlHcyeWPgkX7JXiSPWFdEYL3c6u+5A+mopHTM+WTJ8yVssYwrlFGaV4MN+4U1vqJMoyKmR8Vpd4JSDLhfrfVPo3PYYeP9ElVFdR69pinPm/I9p/kg+8/K40k7sBDYKuSplfrsCZJ6d6IS+UgmDDcJ1FqMBV+8xQ5wZkCgDUh+4aqJd/MtElhdZFCNH9ttck616WFwZbuGUqO1vMf+ExPRF/QZHRzeJ7NIEFjvwybli5+/lSk+vxtdkXVwTsea8DbG9hOt/HwvonypA==;wE0L42IvZMxRW9MZR2ZEQg=="
 ---
 

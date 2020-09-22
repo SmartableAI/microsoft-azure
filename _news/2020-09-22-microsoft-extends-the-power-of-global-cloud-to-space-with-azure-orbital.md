@@ -9,7 +9,7 @@ ampWebUrl: "https://www.neowin.net/amp/microsoft-extends-the-power-of-global-clo
 cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-extends-the-power-of-global-cloud-to-space-with-azure-orbital/"
 type: article
 quality: 97
-heat: 157
+heat: 177
 published: true
 
 provider:
@@ -62,6 +62,20 @@ related:
         width: 3000
         height: 2000
         isCached: true
+  - title: "Microsoft unveils Azure Orbital connecting satellites to its cloud"
+    excerpt: "Microsoft CEO Sataya Nadella speaking at Microsoft Ignite 2020, the annual developer conference. SAN FRANCISCO – Microsoft unveiled Azure Orbital Sept. 22, a service to help customers move data ..."
+    publishedDateTime: 2020-09-22T16:03:00Z
+    webUrl: "https://spacenews.com/azure-orbital-introduction/"
+    type: article
+    provider:
+      name: SpaceNews
+      domain: spacenews.com
+    quality: 37
+    images:
+      - url: "https://spacenews.com/wp-content/uploads/2020/09/rsz_screen_shot_2020-09-22_at_81844_am.png"
+        width: 879
+        height: 496
+        isCached: true
   - title: "Microsoft expands Azure Arc’s hybrid cloud capabilities for better communications"
     excerpt: "Microsoft Corp. said today at its Ignite 2020 virtual conference that it’s extending the hybrid cloud capabilities of its Azure cloud platform to make it easier for customers to run their ..."
     publishedDateTime: 2020-09-22T15:21:00Z
@@ -77,6 +91,6 @@ related:
         height: 576
         isCached: true
 
-secured: "Knr++XN9uaDFZf0I00IAcWSJiXGXIiYDuWmVATy0edf0R7peibfCvHGsn7LmZ5m2+Eno5s1nMA/ngdadnG8ecUyTtCiaVApqImUIby1t47E9FRa+jzbbOTPxezoLX2+UDUbFWWr1GMCBO3n1iwVprfkjv9hAC+QBawQtjy4u24ef2yq1ThocViJXKPs6WTSn8LrJfEqPjDqM4Jw9vRhHYSlsO2AAaTEDVo1Trz2F1t78+rRI6KVUqquc+Vl/t/VTOH/sLIUDkY8gsrUE9QNRNg5PbgFpcVr0OMs0LM0Bbx9/9AxKOxdOvp3OWch3T6gDEYazWHF7ZbsBsKQSTnrt7ptSEczIgDVEhw8v/SinK58=;BSpgdRbzpid9mwEKPq9hHw=="
+secured: "QiHG845ItsfaBJDmKgn2w4/DBtheF/bQAU3Ewzalgir2cEfFW7F+HKNF42aMpapJyHtTMS5GP1RLd8N1ZRk2h0eDMEd2zRt5BtZ3Jod6r8rXVCzRnlLeNhvyTeEw6zFInuU+xMGfxSJQYy0jqJ5UP4SHDDui77YVuD6weysfMPP3pF7vTGiLHpBMPa6DMS3wIT8Pxvs9f0VnuWy1NdQa609cWSspZD2ktXMxKrTiA5W8eJHWbkqp6f/e6uOXWZ1Lz3pjrt93auaRamsv5B7xbldFEmj5UsAf+WoLwQzfjIjGESVRC/zx9ImAz/nA5Is+VY+FFzN6ZrMOAc+Tk1QhdTXkM3m2rqhdvSTPkHFirlcBInl5lSG7LOXxBJNk+RYaZI/Eo7671HvcxkBFHKVhZ7sJa7JaiYYz3tDwHxPEOQmQ/0/yyxMtFu81zYWsD6cxENmt4BajX3yRqLvmDdhcP5qPuggO10KI6gNUZKfxVwLxzFfS8ogFH1cVf/My3qi62m/bR5hsMEEmWgr5AKKQhw==;ZiHeacPolWCHcw9qPcSwVg=="
 ---
 

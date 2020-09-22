@@ -61,20 +61,6 @@ related:
         width: 647
         height: 450
         isCached: true
-  - title: "dotData Now Supports Microsoft Azure Deployment and Is Available on Microsoft Azure Marketplace"
-    excerpt: "Sept. 22, 2020 /PRNewswire/ -- dotData, focused on delivering full-cycle data science automation and operationalization for the enterprise, today announced that dotData Enterprise is now commercially available on Microsoft Azure and accessible through the ..."
-    publishedDateTime: 2020-09-22T12:09:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/dotdata-now-supports-microsoft-azure-deployment-and-is-available-on-microsoft-azure-marketplace-301135412.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 25
-    images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
-        isCached: true
 
 secured: "gMaYUwpVyy4GCI9NS0uAbXUAp/iXmgcRxDoY/MBNMPl8pAQkmug1L7Zp2TjxMW2zEYWRLMh+gREbviCmA+hSTARtNxqwmMhUXIbegW24/lUX8+KD6ZwwHvAKV3fPu9b/kSyT6K6j016tL5CWCMGFwUxpDiC+VR5jIqgnf7FInQub+zG3+polc0K/OHJbgoStvZGbjZv9ypSmmAOdF06wb/sQmPLuhypU8CB/8qp8udrpy7NQGtWiKsNSP1+cyseaFByvgdFdW9PWLvfBA/l10DXDBBBT1l5ePbmOn/MkYdWK2vDJY+azZfiCVAslg1M2cvpXhcqKbRisWN9FoUz/aw==;F5+9Oogpf1uGtkERPrLOPw=="
 ---

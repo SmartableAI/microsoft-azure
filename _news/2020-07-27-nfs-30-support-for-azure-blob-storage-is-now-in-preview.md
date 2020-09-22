@@ -65,6 +65,24 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
+  - title: "Azure Arc enabled data services now in preview"
+    excerpt: "Run Azure Arc enabled data services on premises on any infrastructure of your choice with Azure cloud benefits like elastic scale, unified management, and a cloud billing model while staying always current. "
+    publishedDateTime: 2020-09-22T16:05:38Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-arc-enabled-data-services-now-in-preview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
+  - title: "Azure Object Anchors is now in private preview"
+    excerpt: "Align and anchor holographic content to objects. Register to be considered for Azure Object Anchors private preview. "
+    publishedDateTime: 2020-09-22T16:05:36Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azureobjectanchorsprivatepreview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
   - title: "Azure Spot support for Azure Kubernetes Service is in preview"
     excerpt: ""
     publishedDateTime: 2020-04-15T16:00:02Z

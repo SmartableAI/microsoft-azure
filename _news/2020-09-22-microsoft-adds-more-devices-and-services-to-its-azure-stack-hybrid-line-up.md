@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/index.php/category/2381/index.php/google-amp/a
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2381/index.php/google-amp/article/microsoft-adds-more-devices-services-to-its-azure-stack-hybrid-line-up/"
 type: article
 quality: 95
-heat: 175
+heat: 215
 published: true
 
 provider:
@@ -66,6 +66,20 @@ related:
       name: Diginomica
       domain: diginomica.com
     quality: 37
+  - title: "14 Top Azure Announcements From Microsoft Ignite 2020"
+    excerpt: "Microsoft Azure hybrid and multi-cloud solutions in the spotlight at Microsoft Build 2020 include Azure Arc updates, the Azure Certified Device Program, a public preview of Azure Communication Services,"
+    publishedDateTime: 2020-09-22T17:16:00Z
+    webUrl: "https://www.crn.com/slide-shows/cloud/14-top-azure-announcements-from-microsoft-ignite-2020"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 37
+    images:
+      - url: "https://www.crn.com/resources/025f-0ff0d7dce6e1-290de920b9a0-1000/microsoft-azure-sign.jpg"
+        width: 610
+        height: 457
+        isCached: true
   - title: "NCR taps Microsoft Azure to keep IoT edge devices at retail stores, restaurants and banks running"
     excerpt: "NCR Corporation (NYSE: NCR), a software and services leader for the retail, restaurant and banking industries, today announced a collaboration with Microsoft to power NCR Digital Connected Services (DCS)."
     publishedDateTime: 2020-09-18T06:52:00Z
@@ -80,6 +94,15 @@ related:
         width: 480
         height: 270
         isCached: true
+  - title: "Microsoft Azure launches services that compete with Twilio, Amazon"
+    excerpt: "Microsoft (MSFT +1.2%) launches Azure Communication Services, which allows developers to add video, voice, chat, and text messaging across applications, websites, and mobile platforms.The tech giant says Communication Services can improve \"customer engagement with Azure AI translation and sentiment analysis for chat messages."
+    publishedDateTime: 2020-09-22T16:57:00Z
+    webUrl: "https://seekingalpha.com/news/3616223-microsoft-azure-launches-services-compete-twilio-amazon"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 17
 
 secured: "qtyGlG9M0pGG19DRMIzAmTMVDiNm0bcUzmNRxAwyZ8rH8dahcUFBuTjSxB8aohVSecOrFEmpSV5lNhse0TxrxrUKwCMzG6FCxk9JFuTBPrDt+8DmueJQM6+JIv1zy7o/KKuhVV+AyWjbXtKhKD4H0y2qXyGpghAueHZ+yNSydhJ4dG2VSNNDKx0imZAeGemNugVDvn9XCMrqHUJIjUJjze65ZKeJ9drsIAKfeW9nVqotYIJhCWauZVN6yNhHySC9HYjANrS3rIIhtdvzpQ05Iq1B/hBLjMk/bE5pF2ReK9vjripHd5GmpF2UzY5MppnqXu+evczKCd0+KOxeBcBTpnUsin76Vyyrl7i1AOKr4ic=;zScHYUbqAJggt5BuXlwvig=="
 ---

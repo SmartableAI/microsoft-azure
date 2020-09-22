@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/burst-4k-encoding-on-azure-kubern
 webUrl: "https://azure.microsoft.com/blog/burst-4k-encoding-on-azure-kubernetes-service/"
 type: article
 quality: 93
-heat: 93
+heat: 113
 published: true
 
 provider:
@@ -30,6 +30,17 @@ images:
     height: 516
     isCached: true
     title: "Burst 4K encoding on Azure Kubernetes Service"
+
+related:
+  - title: "GA: Policy add-on for Azure Kubernetes Service"
+    excerpt: "You can now set policies beyond the Azure Resource Manager level and drive in-depth compliance across pods, namespaces, ingress, and other Kubernetes resources."
+    publishedDateTime: 2020-09-22T16:05:32Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/ga-policy-addon-for-azure-kubernetes-service/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
 
 secured: "p8B4ylIOa2gFOMDB0M14GvcIWOsEIs3UCQRtd0yzzb2rqzGlOTFtnQajMcekaPMmfsiypNWkvhbYkxUj8A6M8x8uJAtQqLJXz0qLKKXzls1Ht8Q94q9swf27yql7dNJc/x9NLYrBLTKUGxeNRfCUKwyT9JniVYBJUUrajFPUoGPbEQvU+ayX/5Jl+b1gGZKY+S0tfaJTAhaC09jaEdw5gRSNzX9rRen7/U1/RSanlC1/jx0o90i2WwRlCarr1IxtzLHzD7b86a80OvgXtlcps26L5FCwHqGjH46gP1ytASJQRfLoTbHHHBJlsggzdZhMpYVbm6m+Z7WVk6ZwFCVPWMopiSJxSecAzvCF5ODxbJQ=;G2e3Vu5g/5k5vgwY/17IrA=="
 ---

@@ -61,6 +61,20 @@ related:
         width: 2048
         height: 1365
         isCached: true
+  - title: "14 Top Azure Announcements From Microsoft Ignite 2020"
+    excerpt: "Microsoft Azure hybrid and multi-cloud solutions in the spotlight at Microsoft Build 2020 include Azure Arc updates, the Azure Certified Device Program, a public preview of Azure Communication Services,"
+    publishedDateTime: 2020-09-22T17:16:00Z
+    webUrl: "https://www.crn.com/slide-shows/cloud/14-top-azure-announcements-from-microsoft-ignite-2020"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 37
+    images:
+      - url: "https://www.crn.com/resources/025f-0ff0d7dce6e1-290de920b9a0-1000/microsoft-azure-sign.jpg"
+        width: 610
+        height: 457
+        isCached: true
   - title: "NCR taps Microsoft Azure to keep IoT edge devices at retail stores, restaurants and banks running"
     excerpt: "NCR Corporation (NYSE: NCR), a software and services leader for the retail, restaurant and banking industries, today announced a collaboration with Microsoft to power NCR Digital Connected Services (DCS)."
     publishedDateTime: 2020-09-18T06:52:00Z
@@ -75,6 +89,15 @@ related:
         width: 480
         height: 270
         isCached: true
+  - title: "Microsoft Azure launches services that compete with Twilio, Amazon"
+    excerpt: "Microsoft (MSFT +1.2%) launches Azure Communication Services, which allows developers to add video, voice, chat, and text messaging across applications, websites, and mobile platforms.The tech giant says Communication Services can improve \"customer engagement with Azure AI translation and sentiment analysis for chat messages."
+    publishedDateTime: 2020-09-22T16:57:00Z
+    webUrl: "https://seekingalpha.com/news/3616223-microsoft-azure-launches-services-compete-twilio-amazon"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 17
 
 secured: "zICikjnyyGQXeTJP2ld3LKLZruQvNwz2VYaH2M9xc0wwVHIb/MI6voilBF67FRnrw844XhBUIKuDES+Ec1/DC0KzITn+LxgIM+mAYGcE81okp7wSJupmaMhn5FW+zIcjH71uVa+7lcRnIFeJAvXJmYcIR7WzkfayvfkPX2U+jL41mKp7C/P3vUkEjFNd5xqTjm5BbYmSVv2/r9KLEqOvrAm/eprTqkcvo051o82Bygshsdo23c78zmSc1NUASy2wEVY9vRqykhOLUJ3ZhIaHfmW2r9s3yeiA0ekCVihcBJysg49AU7sZOP1yIXuQtJ+tuDJ9NO2FxGAGCA/cIXvedAc4evm08WfXovskfz22jlJZ/m6BYpY9t/HKSzBzd2NDrMBErSGsaIvl7r00CQgZ08H7MmKUmUuWFA6iBPTgEFT+iglYNXhDuDw9eGlMs+2aCgItG1inoZzfjVbx95UIl099KR61LyM4KTELWCrzlidCWS3xJSPV1a7/ngi9E+Cp0ppvEZF+BLsWy5QcfAVH6Q==;ivP2ume+Aknz3EbldhaxfA=="
 ---
