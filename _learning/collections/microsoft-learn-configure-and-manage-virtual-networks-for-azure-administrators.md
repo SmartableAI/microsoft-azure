@@ -4,7 +4,7 @@ excerpt: "Learn how to configure and manage Azure network capabilities like conn
 type: collection
 price: Free
 length: PT12H34M
-heat: 64
+heat: 69
 
 provider:
   name: Microsoft Learn

@@ -8,7 +8,7 @@ length: PT1H15M
 ratings:
   count: 4756
   average: 4.628049
-heat: 56
+heat: 62
 
 provider:
   name: Microsoft Learn
@@ -26,6 +26,6 @@ topics:
   - Storage
   - Management Tools
 
-secured: "9PKPThf0ZZVwh/Tgdt1W39TJvjgdI9PQa5BdXVcM55X3FrY6waIZzDVKbhLsskxFrI0lyHy2/UEeNAd/lYADg/EJQtk0uDpwQBwqTrfegB5fASdFD2TNqCsoli87RZ8zWp4zsdGuLjqCMl43qAeKSaFiZelduMU2aphHbEIbtl94B7UJ73NcYYd/QC3oP0QagfuYehm5D+ol0bi6eOVUqMjOGzwas7oHo3LeYi9gEXfzzhP9aZ8x7zzxAQGNDC+R/uxC3QGL5q0gvdaCKVc+eWE8Ypj43Dh2J2kXT2WRF2ja5BqJX0/x2rue18pRRYz5iIqB/Y+6UpKsOkbDVWFwnbW0OdzmQmC4cMk1o5+y7cUgxwRV1anVjjqB9iP71vCKmEo5ByKAAfAvTm2zIiOyopWw8xng9eRW7vCb5n8tkZo=;dMkKEr6yzcYhG3gdzXstSw=="
+secured: "24Ml01vHSbNwZ3KwQGpv7IJfHzPwYLkibgydWKmDYO3HYVXtL6hIHX6qwXSVy/l7Q5aLyJcGyXJYV83KmgxgkZLTZzMwuShJjxFy0CZIZB1sflX+IMtVrYmDu2pZOcljFcj9XtFQrwvB7deILDb37fp7mOV/CQrDLCUZHkRwLcn1T1wPgZJsTu2/C49yBkUwBUavtJOEUJTGoiHLTOF0iI0j+txZQ0GPfTJfMHlXXcCQYmE7BnyYEyho4k5tFoEALm4rqTDfiZHHg/f4S2FxS9PnBHLJOzoUj0N4CaCVh5lFaUU58g88vLcYF4yc3fIB9pk6oE8z2jKLXT+UOJ58aRgJA4Y7BaQDBBQ6Zc3mpJyStQi5pMUGliLL0OMlMfGWU8FFxtqG8mXaKnmJHr2GEehfIE1oCH/P0XyUN7Pp3lQ=;JXGQ/lObk1Mw2u1MV7ImGg=="
 ---
 
