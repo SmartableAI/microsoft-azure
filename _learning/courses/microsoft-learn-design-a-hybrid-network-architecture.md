@@ -8,7 +8,7 @@ length: PT47M
 ratings:
   count: 1102
   average: 4.6306715
-heat: 116
+heat: 56
 
 provider:
   name: Microsoft Learn
