@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/index.php/category/2381/index.php/google-amp/a
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2381/index.php/google-amp/article/microsoft-adds-more-devices-services-to-its-azure-stack-hybrid-line-up/"
 type: article
 quality: 95
-heat: 215
+heat: 235
 published: true
 
 provider:
@@ -103,6 +103,15 @@ related:
       name: Seeking Alpha
       domain: seekingalpha.com
     quality: 17
+  - title: "Viasat integrates its ground service solution with Microsoft's Azure Orbital"
+    excerpt: "Viasat (VSAT -1.1%) enters Microsoft's Azure Orbital ecosystem with its Real-Time Earth (RTE) solutions available as a managed services option to orbital end-users.Viasat's RTE network provides Ground-Station-as-a-Service ((GSaaS)) to the commercial and government earth observation and remote sensing communities on pay-per-use basis."
+    publishedDateTime: 2020-09-22T19:28:00Z
+    webUrl: "https://seekingalpha.com/news/3616273-viasat-integrates-ground-service-solution-microsofts-azure-orbital"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 14
 
 secured: "qtyGlG9M0pGG19DRMIzAmTMVDiNm0bcUzmNRxAwyZ8rH8dahcUFBuTjSxB8aohVSecOrFEmpSV5lNhse0TxrxrUKwCMzG6FCxk9JFuTBPrDt+8DmueJQM6+JIv1zy7o/KKuhVV+AyWjbXtKhKD4H0y2qXyGpghAueHZ+yNSydhJ4dG2VSNNDKx0imZAeGemNugVDvn9XCMrqHUJIjUJjze65ZKeJ9drsIAKfeW9nVqotYIJhCWauZVN6yNhHySC9HYjANrS3rIIhtdvzpQ05Iq1B/hBLjMk/bE5pF2ReK9vjripHd5GmpF2UzY5MppnqXu+evczKCd0+KOxeBcBTpnUsin76Vyyrl7i1AOKr4ic=;zScHYUbqAJggt5BuXlwvig=="
 ---

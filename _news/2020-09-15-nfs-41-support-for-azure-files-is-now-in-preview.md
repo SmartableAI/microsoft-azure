@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/nfs-41-support-for-azure-files-is
 webUrl: "https://azure.microsoft.com/blog/nfs-41-support-for-azure-files-is-now-in-preview/"
 type: article
 quality: 87
-heat: 287
+heat: 307
 published: true
 
 provider:
@@ -68,6 +68,15 @@ related:
     excerpt: "Run Azure Arc enabled data services on premises on any infrastructure of your choice with Azure cloud benefits like elastic scale, unified management, and a cloud billing model while staying always current. "
     publishedDateTime: 2020-09-22T16:05:38Z
     webUrl: "https://azure.microsoft.com/en-us/updates/azure-arc-enabled-data-services-now-in-preview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
+  - title: "Azure Database for PostgreSQL Flexible Server now in preview"
+    excerpt: "Azure Database for PostgreSQL Flexible Server is a new deployment option that provides better control and flexibility, more options for high availability, and cost optimization controls."
+    publishedDateTime: 2020-09-22T20:00:01Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-database-for-postgresql-flexible-server-now-in-preview/"
     type: article
     provider:
       name: Microsoft

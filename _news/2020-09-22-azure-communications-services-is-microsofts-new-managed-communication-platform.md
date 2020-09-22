@@ -9,7 +9,7 @@ ampWebUrl: "https://www.neowin.net/amp/azure-communications-services-is-microsof
 cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/azure-communications-services-is-microsofts-new-managed-communication-platform/"
 type: article
 quality: 93
-heat: 193
+heat: 213
 published: true
 
 provider:
@@ -69,6 +69,20 @@ related:
     quality: 37
     images:
       - url: "https://redmondmag.com/-/media/ECG/VirtualizationReview/Images/IntroImages2016/0716vrm_Take5.jpg"
+        width: 647
+        height: 450
+        isCached: true
+  - title: "What's New for Azure at Microsoft's Ignite Event"
+    excerpt: "Microsoft's Azure cloud computing platform was front and center as the company's Ignite developer/IT event kicked off this week."
+    publishedDateTime: 2020-09-22T21:15:00Z
+    webUrl: "https://virtualizationreview.com/articles/2020/09/22/azure-ignite.aspx"
+    type: article
+    provider:
+      name: Virtualization Review
+      domain: virtualizationreview.com
+    quality: 37
+    images:
+      - url: "https://virtualizationreview.com/-/media/ECG/redmondmag/Images/IntroImagesBigSmall/BlackWhiteCloudSmall.jpg"
         width: 647
         height: 450
         isCached: true

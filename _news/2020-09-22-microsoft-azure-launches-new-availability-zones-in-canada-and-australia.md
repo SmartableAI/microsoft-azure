@@ -60,6 +60,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Microsoft Ignite: Azure Advances Across Five Frontiers"
+    excerpt: "To kick off the Microsoft Ignite virtual conference, CEO Satya Nadella made a bold claim about the public cloud with the second-largest market share behind Amazon."
+    publishedDateTime: 2020-09-22T20:51:00Z
+    webUrl: "https://redmondmag.com/articles/2020/09/22/microsoft-ignite-azure-5-frontiers.aspx"
+    type: article
+    provider:
+      name: Redmond Magazine
+      domain: redmondmag.com
+    quality: 37
+    images:
+      - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/IntroImagesBigSmall/MapRusticBig.jpg"
+        width: 1665
+        height: 1158
+        isCached: true
   - title: "3Cloud Acquires Microsoft Azure Partner"
     excerpt: "Microsoft Azure cloud partner 3Cloud, backed by private equity firm Gryphon Investors, acquires Pragmatic Works' consulting arm. Creates largest U.S. Azure partner, buyer claims."
     publishedDateTime: 2020-09-15T21:33:00Z

@@ -1,26 +1,26 @@
 ---
 category: news
-title: "dotData Now Supports Microsoft Azure Deployment and Is Available on Microsoft Azure Marketplace"
-excerpt: "Sept. 22, 2020 /PRNewswire/ -- dotData, focused on delivering full-cycle data science automation and operationalization for the enterprise, today announced that dotData Enterprise is now commercially available on Microsoft Azure and accessible through the ..."
-publishedDateTime: 2020-09-22T12:09:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/dotdata-now-supports-microsoft-azure-deployment-and-is-available-on-microsoft-azure-marketplace-301135412.html"
-webUrl: "https://www.prnewswire.com/news-releases/dotdata-now-supports-microsoft-azure-deployment-and-is-available-on-microsoft-azure-marketplace-301135412.html"
+title: "What's New for Azure at Microsoft's Ignite Event"
+excerpt: "Microsoft's Azure cloud computing platform was front and center as the company's Ignite developer/IT event kicked off this week."
+publishedDateTime: 2020-09-22T21:15:00Z
+originalUrl: "https://virtualizationreview.com/articles/2020/09/22/azure-ignite.aspx"
+webUrl: "https://virtualizationreview.com/articles/2020/09/22/azure-ignite.aspx"
 type: article
-quality: 25
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Virtualization Review
+  domain: virtualizationreview.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-    width: 600
-    height: 315
+  - url: "https://virtualizationreview.com/-/media/ECG/redmondmag/Images/IntroImagesBigSmall/BlackWhiteCloudSmall.jpg"
+    width: 647
+    height: 450
     isCached: true
 
 related:
@@ -82,19 +82,19 @@ related:
         width: 647
         height: 450
         isCached: true
-  - title: "What's New for Azure at Microsoft's Ignite Event"
-    excerpt: "Microsoft's Azure cloud computing platform was front and center as the company's Ignite developer/IT event kicked off this week."
-    publishedDateTime: 2020-09-22T21:15:00Z
-    webUrl: "https://virtualizationreview.com/articles/2020/09/22/azure-ignite.aspx"
+  - title: "dotData Now Supports Microsoft Azure Deployment and Is Available on Microsoft Azure Marketplace"
+    excerpt: "Sept. 22, 2020 /PRNewswire/ -- dotData, focused on delivering full-cycle data science automation and operationalization for the enterprise, today announced that dotData Enterprise is now commercially available on Microsoft Azure and accessible through the ..."
+    publishedDateTime: 2020-09-22T12:09:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/dotdata-now-supports-microsoft-azure-deployment-and-is-available-on-microsoft-azure-marketplace-301135412.html"
     type: article
     provider:
-      name: Virtualization Review
-      domain: virtualizationreview.com
-    quality: 37
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 25
     images:
-      - url: "https://virtualizationreview.com/-/media/ECG/redmondmag/Images/IntroImagesBigSmall/BlackWhiteCloudSmall.jpg"
-        width: 647
-        height: 450
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
         isCached: true
   - title: "Alaska Communications brings locally hosted Microsoft Azure Services to Alaska"
     excerpt: "Alaska Communications will bring locally hosted Microsoft Azure Stack Hub cloud services to Alaska. Alaska Communications used Azure Stack Hub to enhance computing by offering greater flexibility and reliability."
@@ -106,6 +106,6 @@ related:
       domain: telecompaper.com
     quality: 13
 
-secured: "qPRGZ9ix32t6L/doYC6bAc1ezZxZ9IUNKUIk+TcSgB127l55lxTGhoZ+u+zg2vHGzho9UlpwSOt+/pgVT4/qpcKPLLXX8H6FJC3JcRoI7wDzzmdeqLmmIt4SCwBq6bZ1Xnkd81OmEXLDnjDAHSi5Dhv3oaw6ifmIjkPeH3ILupKxyEsK4RcvKbblSBWzo+M9eJjFGBjKb2yqKJ87QAJeH7ZvWia3BCg68LCZwQWzwReyxeKXEr7b/NX2DKGJJncT7z7BrYqF36nNsWYqpV42MS79W5CFaPD1/HxbzObFDRdiJuy4ymT6ih/qvC4IvH3JyBXUzqTzsWD03OqmMheB0ruhMAIk7Ru9HprrE/xKKo8=;ie4sr5ZsQLxH71HzXLmm6w=="
+secured: "gtuVI9OHIh0WTEFK8kstkJ0ZvIv3s58K8fMenEjKEJVrSSnDRQzXQLdYYBp07FIJbvMLeLAS1FRtl4FkItBWQuiVYwncrOcIFIlMT2YcV/zlJF1FyZBfyGaFJvJBTvZaJM/wj3aVqpzW4UyZX/cerSwyyR19YkXprg0TUWxou3ukQH0hiySZxOZh8Dj4boDqJZPV2ZD93codjPon4FtfIbmL5KpJ2WtkiGt4qplroLq21fKo3tB9V9xEgQcbCyKanrK7moAsHfRvX1rVevXQmPdVxZ34nNTppuH9ZFIk958kkcjI15A6Bd+Bmvc4BKrwWEXnCq9WRnZgDpsQA78L64Jo7SyA2vli368c8kdatvU=;KX3kvo+DibDFO/qbty8WnA=="
 ---
 

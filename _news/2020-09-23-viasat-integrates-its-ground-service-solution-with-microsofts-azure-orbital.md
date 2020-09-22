@@ -1,20 +1,18 @@
 ---
 category: news
-title: "Nutanix adds Azure to build out its trinity of multi-cloud services"
-excerpt: "Reality usually takes a bit of time to catch up with the hype, and multi-cloud operations are no exception. Nutanix was talking about this back in mid-2017, while in 2015 Fujitsu acquired a French company,"
-publishedDateTime: 2020-09-16T09:54:00Z
-originalUrl: "https://diginomica.com/nutanix-adds-azure-build-out-its-trinity-multi-cloud-services"
-webUrl: "https://diginomica.com/nutanix-adds-azure-build-out-its-trinity-multi-cloud-services"
-ampWebUrl: "https://diginomica.com/nutanix-adds-azure-build-out-its-trinity-multi-cloud-services?amp"
-cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/nutanix-adds-azure-build-out-its-trinity-multi-cloud-services?amp"
+title: "Viasat integrates its ground service solution with Microsoft's Azure Orbital"
+excerpt: "Viasat (VSAT -1.1%) enters Microsoft's Azure Orbital ecosystem with its Real-Time Earth (RTE) solutions available as a managed services option to orbital end-users.Viasat's RTE network provides Ground-Station-as-a-Service ((GSaaS)) to the commercial and government earth observation and remote sensing communities on pay-per-use basis."
+publishedDateTime: 2020-09-22T19:28:00Z
+originalUrl: "https://seekingalpha.com/news/3616273-viasat-integrates-ground-service-solution-microsofts-azure-orbital"
+webUrl: "https://seekingalpha.com/news/3616273-viasat-integrates-ground-service-solution-microsofts-azure-orbital"
 type: article
-quality: 37
+quality: 14
 heat: -1
 published: false
 
 provider:
-  name: Diginomica
-  domain: diginomica.com
+  name: Seeking Alpha
+  domain: seekingalpha.com
 
 topics:
   - Azure
@@ -61,6 +59,17 @@ related:
         width: 2048
         height: 1365
         isCached: true
+  - title: "Nutanix adds Azure to build out its trinity of multi-cloud services"
+    excerpt: "Reality usually takes a bit of time to catch up with the hype, and multi-cloud operations are no exception. Nutanix was talking about this back in mid-2017, while in 2015 Fujitsu acquired a French company,"
+    publishedDateTime: 2020-09-16T09:54:00Z
+    webUrl: "https://diginomica.com/nutanix-adds-azure-build-out-its-trinity-multi-cloud-services"
+    ampWebUrl: "https://diginomica.com/nutanix-adds-azure-build-out-its-trinity-multi-cloud-services?amp"
+    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/nutanix-adds-azure-build-out-its-trinity-multi-cloud-services?amp"
+    type: article
+    provider:
+      name: Diginomica
+      domain: diginomica.com
+    quality: 37
   - title: "14 Top Azure Announcements From Microsoft Ignite 2020"
     excerpt: "Microsoft Azure hybrid and multi-cloud solutions in the spotlight at Microsoft Build 2020 include Azure Arc updates, the Azure Certified Device Program, a public preview of Azure Communication Services,"
     publishedDateTime: 2020-09-22T17:16:00Z
@@ -98,16 +107,7 @@ related:
       name: Seeking Alpha
       domain: seekingalpha.com
     quality: 17
-  - title: "Viasat integrates its ground service solution with Microsoft's Azure Orbital"
-    excerpt: "Viasat (VSAT -1.1%) enters Microsoft's Azure Orbital ecosystem with its Real-Time Earth (RTE) solutions available as a managed services option to orbital end-users.Viasat's RTE network provides Ground-Station-as-a-Service ((GSaaS)) to the commercial and government earth observation and remote sensing communities on pay-per-use basis."
-    publishedDateTime: 2020-09-22T19:28:00Z
-    webUrl: "https://seekingalpha.com/news/3616273-viasat-integrates-ground-service-solution-microsofts-azure-orbital"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 14
 
-secured: "zICikjnyyGQXeTJP2ld3LKLZruQvNwz2VYaH2M9xc0wwVHIb/MI6voilBF67FRnrw844XhBUIKuDES+Ec1/DC0KzITn+LxgIM+mAYGcE81okp7wSJupmaMhn5FW+zIcjH71uVa+7lcRnIFeJAvXJmYcIR7WzkfayvfkPX2U+jL41mKp7C/P3vUkEjFNd5xqTjm5BbYmSVv2/r9KLEqOvrAm/eprTqkcvo051o82Bygshsdo23c78zmSc1NUASy2wEVY9vRqykhOLUJ3ZhIaHfmW2r9s3yeiA0ekCVihcBJysg49AU7sZOP1yIXuQtJ+tuDJ9NO2FxGAGCA/cIXvedAc4evm08WfXovskfz22jlJZ/m6BYpY9t/HKSzBzd2NDrMBErSGsaIvl7r00CQgZ08H7MmKUmUuWFA6iBPTgEFT+iglYNXhDuDw9eGlMs+2aCgItG1inoZzfjVbx95UIl099KR61LyM4KTELWCrzlidCWS3xJSPV1a7/ngi9E+Cp0ppvEZF+BLsWy5QcfAVH6Q==;ivP2ume+Aknz3EbldhaxfA=="
+secured: "p53CEn7CfNgq3kvegfJR0JL+HY2wndeg5CDpbK8DT3l93x2RV8MjvAPuKwcHZ1BF613EilzanMN23FBPKxVdoPCi6gVv+gd5CFylzoKLucMKebxLJzYQNT2pJRP1dDLTcwCzEz5Bf75wIV24Biu0o98rordEr5LO3zdvqd9Usq65NesBywknvwtOemsRhepv56MIdWvoiRWQ6Y6pDUyKwOXUbj+MXtY6GUDCQuwkbY37zRYoqMUxG3imcguT85XPG958MaJ3hOIZoYuu4waENPbUoI01QpMqjrHeEweqdQ6vQv3mHUt85ZAroehJpOE+lgxiWX/I8dMgQ0cN3LX94/VMen66SqFomihHnWWVIWY=;Hs7QNZ/7fQdGpVb/CLjetA=="
 ---
 

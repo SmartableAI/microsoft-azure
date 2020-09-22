@@ -81,6 +81,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
+  - title: "Azure Database for PostgreSQL Flexible Server now in preview"
+    excerpt: "Azure Database for PostgreSQL Flexible Server is a new deployment option that provides better control and flexibility, more options for high availability, and cost optimization controls."
+    publishedDateTime: 2020-09-22T20:00:01Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-database-for-postgresql-flexible-server-now-in-preview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
   - title: "Azure Spot support for Azure Kubernetes Service is in preview"
     excerpt: ""
     publishedDateTime: 2020-04-15T16:00:02Z

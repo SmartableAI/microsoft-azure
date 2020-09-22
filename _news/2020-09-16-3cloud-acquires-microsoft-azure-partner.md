@@ -64,6 +64,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Microsoft Ignite: Azure Advances Across Five Frontiers"
+    excerpt: "To kick off the Microsoft Ignite virtual conference, CEO Satya Nadella made a bold claim about the public cloud with the second-largest market share behind Amazon."
+    publishedDateTime: 2020-09-22T20:51:00Z
+    webUrl: "https://redmondmag.com/articles/2020/09/22/microsoft-ignite-azure-5-frontiers.aspx"
+    type: article
+    provider:
+      name: Redmond Magazine
+      domain: redmondmag.com
+    quality: 37
+    images:
+      - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/IntroImagesBigSmall/MapRusticBig.jpg"
+        width: 1665
+        height: 1158
+        isCached: true
   - title: "NCR brings its IoT management software to Microsoft Azure"
     excerpt: "Digital Connected Services IoT management software will run on Azure's IoT AI technology.\"By leveraging Microsoft Azure and its AI and IoT capabilities, NCR is helping retailers, restaurants and financial institutions simplify and keep commerce running with Microsoft's trusted,"
     publishedDateTime: 2020-09-16T20:34:00Z

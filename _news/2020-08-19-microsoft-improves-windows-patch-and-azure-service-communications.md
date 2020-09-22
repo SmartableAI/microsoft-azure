@@ -67,6 +67,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "What's New for Azure at Microsoft's Ignite Event"
+    excerpt: "Microsoft's Azure cloud computing platform was front and center as the company's Ignite developer/IT event kicked off this week."
+    publishedDateTime: 2020-09-22T21:15:00Z
+    webUrl: "https://virtualizationreview.com/articles/2020/09/22/azure-ignite.aspx"
+    type: article
+    provider:
+      name: Virtualization Review
+      domain: virtualizationreview.com
+    quality: 37
+    images:
+      - url: "https://virtualizationreview.com/-/media/ECG/redmondmag/Images/IntroImagesBigSmall/BlackWhiteCloudSmall.jpg"
+        width: 647
+        height: 450
+        isCached: true
   - title: "dotData Now Supports Microsoft Azure Deployment and Is Available on Microsoft Azure Marketplace"
     excerpt: "Sept. 22, 2020 /PRNewswire/ -- dotData, focused on delivering full-cycle data science automation and operationalization for the enterprise, today announced that dotData Enterprise is now commercially available on Microsoft Azure and accessible through the ..."
     publishedDateTime: 2020-09-22T12:09:00Z

@@ -89,14 +89,19 @@ related:
         height: 630
         isCached: true
   - title: "Kratos Collaborates with Microsoft to Enable Cloud-based Satellite Ground Services for Azure Orbital"
-    excerpt: "Azure Networking at Microsoft. “Kratos’ OpenSpace virtualized ground products support our effort to deliver the full power of cloud technologies for satellite operations.” Kratos OpenSpace ..."
-    publishedDateTime: 2020-09-22T19:44:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/kratos-collaborates-with-microsoft-to-enable-cloud-based-satellite-ground-services-for-azure-orbital-1029612762"
+    excerpt: "announced today that it has joined with Microsoft to enable the launch of Microsoft Azure Orbital, a groundbreaking platform that provides Ground Station-as-a-Service (GSaaS) to the satellite industry. Azure Orbital is Microsoft's managed service designed ..."
+    publishedDateTime: 2020-09-22T21:32:00Z
+    webUrl: "https://www.marketwatch.com/press-release/kratos-collaborates-with-microsoft-to-enable-cloud-based-satellite-ground-services-for-azure-orbital-2020-09-22"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 42
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 62
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Microsoft unveils Azure Orbital connecting satellites to its cloud"
     excerpt: "Microsoft CEO Sataya Nadella speaking at Microsoft Ignite 2020, the annual developer conference. SAN FRANCISCO – Microsoft unveiled Azure Orbital Sept. 22, a service to help customers move data ..."
     publishedDateTime: 2020-09-22T16:03:00Z
@@ -126,6 +131,6 @@ related:
         height: 576
         isCached: true
 
-secured: "vsbXJ58cAplUoSnkOQZ8UKsSxjvxSKwA6PYIQq8xOedgL8bg5LQJmtWraS6cVr83DpflfDDA6w03MXa4mVuVEWc3yAPXFQd+dXEDe1R1mFcZz3ZWH9T6KkrZJEEeC9XHWaWRf+VKIFl0yVS3GokaKzw1o7S3ljhzi72fSLP4ZKhiw2Fjpx+b8ymD/crbgrBOlPfLMyU3kIqQE+DsAqtxKtdCu9mhQY9UCYdYB+ZwXA7YsGEKVguBZ2MfWDCX5re7DBG1qaT4EFSwcDrSZde4lM0kg9Rid5xm3CXa79aANjPuFyItb6yepmvSdibFx3yl4b+qV3Lq73jKUGDrWn/eMbhQyMX7WeQFGFjWa7DZ0QQ=;A2V9RagPTUJyL2OKgfT87w=="
+secured: "mRv5axzIM2wx7vLdhvskiSfs2PbYgETFjV4KHO03Z4VcEYpRG2yVFhSxY8X+KrMpOQ9UyVoL+F8O5OW7HexQE5pIB3TZzcbk+GvSHNla9lE/s+dDVns4l2Iy+1RXpNjXV0jYKsYDohDC0oVAnJqw5EciNzy9zRvIwYRznM0laDBYqxDbc5eUwywt+u9eLO3ayrh7ASbQBuLlV0vjd0o3wx50mTjieLTlLCiZh+PyTLmfRgkjVu4eMv2swGomUv21rCcKR3NxKzGVLbH1Jgs9NR1K6+gaXpfPCskDfHsJERMh5PCIiKtfZPgOEbGsTUQjZKQnYxzVPqcdqHrDlYZU2jIKVHADR19GLqIPjtvWnCOJNtNvipxAtGB4FnrLYNfuadyAHpM5Y41v3qROrcCXODJNsJDBsy4Zmpq6o1aZq9sQ3twiQAPZ3DwQaVrE+XSYMNQYRzu70aXwswojiSit9ixoPKEKY1cGTBuhJHeai0ehjj31YKQIiFTyHv3RTeXyAVvNyKHZPE71ClKHokrdKA==;s9MmONM0cdxFe++9xPpgPg=="
 ---
 

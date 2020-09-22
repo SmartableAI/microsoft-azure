@@ -1,12 +1,12 @@
 ---
 category: news
-title: "NFS 3.0 support for Azure Blob storage is now in preview"
-excerpt: "To enable customers to run NFS based applications at scale, we are announcing the preview of NFS 3.0 protocol support for Azure Blob storage. "
-publishedDateTime: 2020-07-27T10:00:03Z
-originalUrl: "https://azure.microsoft.com/blog/nfs-30-support-for-azure-blob-storage-is-now-in-preview/"
-webUrl: "https://azure.microsoft.com/blog/nfs-30-support-for-azure-blob-storage-is-now-in-preview/"
+title: "Azure Database for PostgreSQL Flexible Server now in preview"
+excerpt: "Azure Database for PostgreSQL Flexible Server is a new deployment option that provides better control and flexibility, more options for high availability, and cost optimization controls."
+publishedDateTime: 2020-09-22T20:00:01Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/azure-database-for-postgresql-flexible-server-now-in-preview/"
+webUrl: "https://azure.microsoft.com/en-us/updates/azure-database-for-postgresql-flexible-server-now-in-preview/"
 type: article
-quality: 86
+quality: 67
 heat: -1
 published: false
 
@@ -20,8 +20,6 @@ provider:
 
 topics:
   - Azure
-  - Storage
-  - Management tools
 
 related:
   - title: "NFS 4.1 support for Azure Files is now in preview"
@@ -38,6 +36,15 @@ related:
         width: 1024
         height: 489
         isCached: true
+  - title: "NFS 3.0 support for Azure Blob storage is now in preview"
+    excerpt: "To enable customers to run NFS based applications at scale, we are announcing the preview of NFS 3.0 protocol support for Azure Blob storage. "
+    publishedDateTime: 2020-07-27T10:00:03Z
+    webUrl: "https://azure.microsoft.com/blog/nfs-30-support-for-azure-blob-storage-is-now-in-preview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 86
   - title: "Change feed support is now generally available for Azure Blob Storage"
     excerpt: "Change feed support for Microsoft Azure Blob storage is now generally available."
     publishedDateTime: 2020-09-09T20:04:54Z
@@ -69,15 +76,6 @@ related:
     excerpt: "Run Azure Arc enabled data services on premises on any infrastructure of your choice with Azure cloud benefits like elastic scale, unified management, and a cloud billing model while staying always current. "
     publishedDateTime: 2020-09-22T16:05:38Z
     webUrl: "https://azure.microsoft.com/en-us/updates/azure-arc-enabled-data-services-now-in-preview/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 67
-  - title: "Azure Database for PostgreSQL Flexible Server now in preview"
-    excerpt: "Azure Database for PostgreSQL Flexible Server is a new deployment option that provides better control and flexibility, more options for high availability, and cost optimization controls."
-    publishedDateTime: 2020-09-22T20:00:01Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-database-for-postgresql-flexible-server-now-in-preview/"
     type: article
     provider:
       name: Microsoft
@@ -129,6 +127,6 @@ related:
       domain: microsoft.com
     quality: 14
 
-secured: "G+hHGtSOUDqWuj5b98PIB6sayHjI2u2yFIenoiAjYhsx2FAKQEIL75SB/xpmNGqbMiOG2xADMZyFvmisDaceidjJfqaE0UOELgZtyZtXxX6zY8xqJ5RuPSCaaJw9UH2Ek2fQLNY1WTVhtoV3QraUlPLC5H5uzEgkC8svRgq9Dm1m+zAe3saHe6r40p8DBocqrtqBfHfEkGpPIxpts2O5GvxyMrHfW3RgnE1beKLv80swim9Fg104C7L0v7e+E1EOCcknOTDiE5xyEoqevisZteZMadu3kdqIsyBzL79kYmhwWVuN9jjMHkDgpQmXsRVXPNPRjHRjJX6utk/gQYUe4w4vP54sIO3MlN+LPKcu9S0=;pvW/idf9yBWYmrApvCDX1w=="
+secured: "qVgTmbUHoSRNvGJK0G/yhlE8vpA384+augpw8uziGTFdeGw3z3UnH10ndbV6R0tg2iHgj0vG7VvPgZwVxJt62GY7SiIPbi0GRY/sGyuloJObmei3VKpTEyrD544g5Zin8i7pgmnC5JzJ/6gAAKFHwp7v6mEwksAtrTO5wvCmVHGPqWpan4RIzSuk/1+6rX+fz0fiEPXRfRNLrurT9LPek1mIzwNYfizh9GHU3YuavFGE2AYvZ42Tdssq/a9Flgh8PUwbDuKix+a5/UI4jcAEXEBdpDLyAuw6N1lRupo6UTlyTJtVJfPdguOOVDGsoATDdhiu7Vt3+jxj42TeYXhk2sOnmdcbUZPtetbc4+C3zpk=;UvIFlP0fD1mp+eslo9o6QQ=="
 ---
 

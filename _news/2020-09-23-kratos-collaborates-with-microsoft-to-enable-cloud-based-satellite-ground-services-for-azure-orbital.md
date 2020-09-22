@@ -1,25 +1,31 @@
 ---
 category: news
 title: "Kratos Collaborates with Microsoft to Enable Cloud-based Satellite Ground Services for Azure Orbital"
-excerpt: "Azure Networking at Microsoft. “Kratos’ OpenSpace virtualized ground products support our effort to deliver the full power of cloud technologies for satellite operations.” Kratos OpenSpace ..."
-publishedDateTime: 2020-09-22T19:44:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/kratos-collaborates-with-microsoft-to-enable-cloud-based-satellite-ground-services-for-azure-orbital-1029612762"
-webUrl: "https://markets.businessinsider.com/news/stocks/kratos-collaborates-with-microsoft-to-enable-cloud-based-satellite-ground-services-for-azure-orbital-1029612762"
+excerpt: "announced today that it has joined with Microsoft to enable the launch of Microsoft Azure Orbital, a groundbreaking platform that provides Ground Station-as-a-Service (GSaaS) to the satellite industry. Azure Orbital is Microsoft's managed service designed ..."
+publishedDateTime: 2020-09-22T21:32:00Z
+originalUrl: "https://www.marketwatch.com/press-release/kratos-collaborates-with-microsoft-to-enable-cloud-based-satellite-ground-services-for-azure-orbital-2020-09-22"
+webUrl: "https://www.marketwatch.com/press-release/kratos-collaborates-with-microsoft-to-enable-cloud-based-satellite-ground-services-for-azure-orbital-2020-09-22"
 type: article
-quality: 42
+quality: 62
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
+  name: MarketWatch
+  domain: marketwatch.com
   images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/businessinsider.com-50x50.jpg"
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/marketwatch.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Azure
+
+images:
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
+    isCached: true
 
 related:
   - title: "Microsoft extends the power of global cloud to space with Azure Orbital"
@@ -129,6 +135,6 @@ related:
         height: 576
         isCached: true
 
-secured: "GZxKJK7g9E6Fsk4BIRMo47gHweIJkfDsMqQ/jGNFBOi69yA5eVgb9KLD7joO8yBsmU01tPGJchnB6dxP54R8Wl5JwIz9FBh6Fvb2W0ZqYmc0VdaE0Z+/zmToMIRPMvQizcPgitGbahN0Ioay57h0tGHYzJ0+xl4U/I3QajFjICmop2DSvRiaqG5oTZSY0MfV8Y/QPFJLyZzI429lv54XiGzVlN4sOvU6mITvxwTLjU38P00N6007YmWayUO+OEzYKp8P658uwqQvL0UO2mGu1eE5aZsBqA+lvkD8g2pgu93icbBHJcIrI0cqvwUkEL8uHyRkNT4C2SPwqjXZZCe3IKA0wcwpIqx4AaZENhY9Nxk=;AKbFVJMpcqAhaTKG5TJBhA=="
+secured: "qamSZ5Ro4lpAq1Jgt7oWn5Z6Eo46LBAzatZUp+dPa4w8Ytz61e6u8nptl6gLmtru+QK4NmEaIZnY6QLJxnYt+HoL0frtZNyA66LsfZhGCBdawBiAZFbfEH24a0TRbL70TprCBKycZ57EK/xtovw2T7dSjuUG9n4Hm9Hs19nFeDkHTqzdvyAugrFS9i9/ygbk/d0T2lhKxu6bJGFGo2/plllDQrGwayEPLahSCIHhCj2cd3gjy7WPTssg+FW2kqSBECS3Xpk95Bkd8N8qpID/fGBthyaCN0+UPdcsZWE3Ra30hqMTu1zrfhwFhfZSz/HGW0vqLIlUQp/W13lcW9l7oPNE75mjAZLWrSjdbCxPyFs=;RhF7FG5iV96wUwSKkdPZ9w=="
 ---
 

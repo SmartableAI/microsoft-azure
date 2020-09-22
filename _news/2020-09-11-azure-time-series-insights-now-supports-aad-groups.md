@@ -72,6 +72,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
+  - title: "Azure Database for PostgreSQL Flexible Server now in preview"
+    excerpt: "Azure Database for PostgreSQL Flexible Server is a new deployment option that provides better control and flexibility, more options for high availability, and cost optimization controls."
+    publishedDateTime: 2020-09-22T20:00:01Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-database-for-postgresql-flexible-server-now-in-preview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
   - title: "Azure Object Anchors is now in private preview"
     excerpt: "Align and anchor holographic content to objects. Register to be considered for Azure Object Anchors private preview. "
     publishedDateTime: 2020-09-22T16:05:36Z

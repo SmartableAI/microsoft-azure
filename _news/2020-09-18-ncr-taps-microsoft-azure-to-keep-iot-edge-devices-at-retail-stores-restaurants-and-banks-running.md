@@ -99,6 +99,15 @@ related:
       name: Seeking Alpha
       domain: seekingalpha.com
     quality: 17
+  - title: "Viasat integrates its ground service solution with Microsoft's Azure Orbital"
+    excerpt: "Viasat (VSAT -1.1%) enters Microsoft's Azure Orbital ecosystem with its Real-Time Earth (RTE) solutions available as a managed services option to orbital end-users.Viasat's RTE network provides Ground-Station-as-a-Service ((GSaaS)) to the commercial and government earth observation and remote sensing communities on pay-per-use basis."
+    publishedDateTime: 2020-09-22T19:28:00Z
+    webUrl: "https://seekingalpha.com/news/3616273-viasat-integrates-ground-service-solution-microsofts-azure-orbital"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 14
 
 secured: "x+/4Cx2kyt2f2TdB/1HLmTpZavwi3/WmOEsHP/czOmYs5iUFFJ+2D3Oy+JfYEoZj6U5RiMt9o6yh4//WeBSdigE4YAuNF+KW7rejbJUDdqNMLRpbMffgJzb9dtRUDPzMh5/qLquN2WC/EbJbBpotmtYKv8Yby3T7xk3OMWjDm4GjKrnq4uQ1P0wE/5Z9Cm1mFef9XpaiDbg5dWSYZrgzCGDyJr3cOGouF+vobN7s1hYkq9RRcn0fmc73WTDUCV2ZTEeOdK08kdbDvCDFsiC5HajQ+qeMHOYzOpVuHaOnm7k/B96clocRGmd4GpNmqZks93kQrDWV20didofAUIecV8BKOv4zEqaK8lBBpmcv7Ss=;DpyLC7MghaotRh+7otw60g=="
 ---

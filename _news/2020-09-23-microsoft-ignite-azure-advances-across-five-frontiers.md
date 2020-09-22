@@ -1,21 +1,27 @@
 ---
 category: news
-title: "NCR brings its IoT management software to Microsoft Azure"
-excerpt: "Digital Connected Services IoT management software will run on Azure's IoT AI technology.\"By leveraging Microsoft Azure and its AI and IoT capabilities, NCR is helping retailers, restaurants and financial institutions simplify and keep commerce running with Microsoft's trusted,"
-publishedDateTime: 2020-09-16T20:34:00Z
-originalUrl: "https://seekingalpha.com/news/3614756-ncr-brings-iot-management-software-to-microsoft-azure"
-webUrl: "https://seekingalpha.com/news/3614756-ncr-brings-iot-management-software-to-microsoft-azure"
+title: "Microsoft Ignite: Azure Advances Across Five Frontiers"
+excerpt: "To kick off the Microsoft Ignite virtual conference, CEO Satya Nadella made a bold claim about the public cloud with the second-largest market share behind Amazon."
+publishedDateTime: 2020-09-22T20:51:00Z
+originalUrl: "https://redmondmag.com/articles/2020/09/22/microsoft-ignite-azure-5-frontiers.aspx"
+webUrl: "https://redmondmag.com/articles/2020/09/22/microsoft-ignite-azure-5-frontiers.aspx"
 type: article
-quality: 17
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Seeking Alpha
-  domain: seekingalpha.com
+  name: Redmond Magazine
+  domain: redmondmag.com
 
 topics:
   - Azure
+
+images:
+  - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/IntroImagesBigSmall/MapRusticBig.jpg"
+    width: 1665
+    height: 1158
+    isCached: true
 
 related:
   - title: "Microsoft and bp partner up on Azure, advancing sustainability"
@@ -64,20 +70,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Microsoft Ignite: Azure Advances Across Five Frontiers"
-    excerpt: "To kick off the Microsoft Ignite virtual conference, CEO Satya Nadella made a bold claim about the public cloud with the second-largest market share behind Amazon."
-    publishedDateTime: 2020-09-22T20:51:00Z
-    webUrl: "https://redmondmag.com/articles/2020/09/22/microsoft-ignite-azure-5-frontiers.aspx"
-    type: article
-    provider:
-      name: Redmond Magazine
-      domain: redmondmag.com
-    quality: 37
-    images:
-      - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/IntroImagesBigSmall/MapRusticBig.jpg"
-        width: 1665
-        height: 1158
-        isCached: true
   - title: "3Cloud Acquires Microsoft Azure Partner"
     excerpt: "Microsoft Azure cloud partner 3Cloud, backed by private equity firm Gryphon Investors, acquires Pragmatic Works' consulting arm. Creates largest U.S. Azure partner, buyer claims."
     publishedDateTime: 2020-09-15T21:33:00Z
@@ -87,7 +79,16 @@ related:
       name: ChannelE2E
       domain: channele2e.com
     quality: 17
+  - title: "NCR brings its IoT management software to Microsoft Azure"
+    excerpt: "Digital Connected Services IoT management software will run on Azure's IoT AI technology.\"By leveraging Microsoft Azure and its AI and IoT capabilities, NCR is helping retailers, restaurants and financial institutions simplify and keep commerce running with Microsoft's trusted,"
+    publishedDateTime: 2020-09-16T20:34:00Z
+    webUrl: "https://seekingalpha.com/news/3614756-ncr-brings-iot-management-software-to-microsoft-azure"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 17
 
-secured: "sU5RmtTMGqlw9zmxkkt4E9g5WxTQ4zboKP6g0hUQKYoBJHRqdGvqnjpZIy3CUKGB01dmlM/ZTmTVvqJaU8E1OAD75DvgI2HG/2FzGs2oF91nzR/qMlThOqbeCxuZdEmUFR8THwphasvMvOhms/tt93sZ/iW/M5/YUwIzanvxoELCiDvKvwA7zmpaOi7IqDo/TzBwO1YZLky63kh4R1V9LzI7Kqd/+qdbD386zdrZKrrG0GBE864oDVnmGTDv3bHoGkPBW7bBHWZ5KZFDxyWuF2XXC8N1jExTSfAi7t6Bi7U9BztYTFK1RUOXPNj7z+YIs4Sh58CgWST9JmIH8uEExCFqYyHHYYd3L8G8YYzylmo=;aZkf5Fu4r6TAdhgvpFGBQw=="
+secured: "oziY4sMNaw3t5MZ5aBypUYqCtb4muzW/EOejxJ/hU6b1gL8xGwfeLTIkn40gldZOxskcLycGpf1PmxUX4wa7s4qAmVbAk8+/u6O+FIow6pKqyLH58Pm5TpTgDDN2WMtbpQjI3lRimEFL7F5/OL0rbwBuZBA2G7TVfnmAXmIr5xuR56KQ+0zMPLmh4aWeGrF/M2fGYbZJXE8Z8/Yuf7XzoCLSNz0uEDunMk0TjmDhpYqnzuzFDK0BAih/QOoPPlL9xGWSwYLmc0FNRyLBuyi0jBiGyrstAwsUBa6oasC+m9qrkUQ4d8pq8IVvdvi90ZdDcdZyMSpO0tN5auTekJZ7lBwNN23Ekx3eDahvgOl72pU=;6fqJxNuU0NidEhGWj8BJ8A=="
 ---
 
