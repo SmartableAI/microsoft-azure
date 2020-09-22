@@ -3,8 +3,8 @@ category: news
 title: "Platform.sh announces expansion of services to Microsoft Azure West US 2 Datacenter Region"
 excerpt: "PRNewswire/ -- Platform.sh, an end-to-end web platform for agile teams, is pleased to announce the expansion of its services to the West US 2 datacenter"
 publishedDateTime: 2020-09-08T16:00:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/platform-sh-announces-expansion-of-services-to-microsoft-azure-west-us-2-datacenter-region/article_1d4f0d8f-1984-5ce1-b24e-3380c68de1b7.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/platform-sh-announces-expansion-of-services-to-microsoft-azure-west-us-2-datacenter-region/article_1d4f0d8f-1984-5ce1-b24e-3380c68de1b7.html"
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/platform-sh-announces-expansion-of-services-to-microsoft-azure-west-us-2-datacenter-region/article_1d4f0d8f-1984-5ce1-b24e-3380c68de1b7.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/platform-sh-announces-expansion-of-services-to-microsoft-azure-west-us-2-datacenter-region/article_1d4f0d8f-1984-5ce1-b24e-3380c68de1b7.html"
 type: article
 quality: 27
 heat: -1
@@ -71,6 +71,6 @@ related:
       domain: businesswire.com
     quality: 11
 
-secured: "tiHEQD9uuHtUXvUO7TWgR8KFdzeT5uYbkGMAazx1lDlWj8M30Nxx9ZVpIKq2dVCliySVdC2dAt0cjgFXR4jXNte20CzyazLaXtm7mwZayUcIfGJgLteFSN0+tq9G4weq0nEdkUCbGMHyVemk7KIWULUI1473t1+usYtOtyCSZJI2y6x7p34MpmMHLI0PFDr2ZJdbtbN9MEtmkHUzivx4F/fnpascQTFRtGO3q2aDEavPJvbSA87V46uY/rZRuIJ7zhhRpvsXi6/nYwVFgdSeQmJXpvo1G3zuF05bAhqogBMaX8s5EJVksEZv51IQSGOiz/d5y+CtOA6qXoGv/IOYOc7YqENsqVgG03UBTGuynKk=;onp12CjNRjIm5Bx9KNrwcQ=="
+secured: "szXU1ed//WlB5Sg7jwT/GY7m0SyMWpUtZuYZ3B9slC/36ZYG4pvM0Vl65RhGz57dvTEO6JR2AEEtaKbMNedbtRnlej5/t25hwHe3ghpQkMch5ujsrp/UH+CfBBXpJywEuLfJPSfOMlfw6xWn6MgL8Ob4m8BXnCvRD3V+iiuP9ug3CwuU9FUhg/1LJRWysB61enhC2Qfq2uurx5vuvullBjJDCjc3wV7oWWvWemZ+uaHbdvybj9sNOKEj6evcoMmcCnEygx3BVCoGXVpY2lvFiKGF37V4dyr06b+mhRce7i+PMH5dQtemAyy2p7Kls8/U8AaTEfgDty2RVNOO8B7a6dVknuICriDd95eXz07nEX8=;gmas39aaXDEtlgvwsjGdqg=="
 ---
 
