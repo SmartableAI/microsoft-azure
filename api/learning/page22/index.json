@@ -4,6 +4,48 @@
   "page": 22,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-creating-and-configuring-hdinsight-cluster.md",
+      "title": "Creating and configuring a HDInsight cluster",
+      "excerpt": "Creating and configuring a HDInsight Cluster",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-creating-and-configuring-hdinsight-cluster/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/creating-and-configuring-hdinsight-cluster/",
+      "length": "PT1H6M",
+      "ratings": {
+        "count": 136,
+        "average": 4.5735292
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/creating-and-configuring-a-hdinsight-cluster-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Analytics"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-customize-windows-server-iaas-vm-images.md",
       "title": "Customize Windows Server IaaS Virtual Machine images",
       "excerpt": "You'll be able to create new VMs from generalized images and use Azure Image Builder templates to create and manage images in Azure.",
@@ -646,8 +688,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/describe-high-availability-disaster-recovery-strategies/",
       "length": "PT59M",
       "ratings": {
-        "count": 20,
-        "average": 4.9
+        "count": 21,
+        "average": 4.904762
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -731,8 +773,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/describe-performance-monitoring/",
       "length": "PT42M",
       "ratings": {
-        "count": 46,
-        "average": 4.7391305
+        "count": 53,
+        "average": 4.754717
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1232,48 +1274,6 @@
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/student-evangelism/develop-secure-iot-solutions-for-azure-sphere-with-iot-hub-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "IoT"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-develop-secure-iot-solutions-for-azure-sphere.md",
-      "title": "Develop secure IoT Solutions for Azure Sphere with IoT Central",
-      "excerpt": "University of Oxford",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-develop-secure-iot-solutions-for-azure-sphere/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/develop-secure-iot-solutions-azure-sphere-iot-central/",
-      "length": "PT1H29M",
-      "ratings": {
-        "count": 7,
-        "average": 4.571429
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/student-evangelism/develop-secure-iot-solutions-with-azure-sphere-social.png",
           "width": 640,
           "height": 320,
           "isCached": true

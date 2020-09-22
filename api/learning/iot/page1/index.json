@@ -11,8 +11,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/intro-to-azure-compute/",
       "length": "PT38M",
       "ratings": {
-        "count": 62662,
-        "average": 4.7095847
+        "count": 62673,
+        "average": 4.709556
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -41,6 +41,48 @@
         "IoT",
         "Blockchain",
         "Integration"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-intro-iot-funtions-iot.md",
+      "title": "Introduction to Azure Functions for IoT",
+      "excerpt": "University of Oxford",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-iot-funtions-iot/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/intro-azure-functions-iot/",
+      "length": "PT27M",
+      "ratings": {
+        "count": 67,
+        "average": 4.626866
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 110,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/student-evangelism/introduction-to-azure-functions-iot-edge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "IoT"
       ]
     },
     {
@@ -1483,8 +1525,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/choose-a-messaging-model-in-azure-to-connect-your-services/",
       "length": "PT45M",
       "ratings": {
-        "count": 3046,
-        "average": 4.5820746
+        "count": 3048,
+        "average": 4.5820208
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1519,8 +1561,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/azure-iot-strategy-and-solutions/",
       "length": "PT23M",
       "ratings": {
-        "count": 5716,
-        "average": 4.7358294
+        "count": 5718,
+        "average": 4.735922
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1647,8 +1689,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/introduction-to-iot-hub/",
       "length": "PT28M",
       "ratings": {
-        "count": 1238,
-        "average": 4.648627
+        "count": 1239,
+        "average": 4.6489105
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2126,8 +2168,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/securely-provision-iot-devices-at-scale-with-device-provisioning-service/",
       "length": "PT57M",
       "ratings": {
-        "count": 200,
-        "average": 4.625
+        "count": 201,
+        "average": 4.626866
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2158,50 +2200,6 @@
       "topics": [
         "Azure",
         "IoT"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-continuous-data-export-from-iot-central.md",
-      "title": "Set up continuous data export from Azure IoT Central to a Power BI app",
-      "excerpt": "This module covers continuous data export from IoT Central. You use the scenario from your previously completed \"Create your first Azure IoT Central app\" Learn module, where you controlled a refrigerated truck. Here, in this module, you add continuous data export to both Azure Blob storage and an event hub. You then build a Power BI app to read and display the telemetry data on a mobile phone.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-continuous-data-export-from-iot-central/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/continuously-export-data-from-iot-central-power-bi/",
-      "length": "PT1H9M",
-      "ratings": {
-        "count": 45,
-        "average": 4.6444445
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/iot/continuous-data-export-from-iot-central-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "IoT",
-        "Storage",
-        "Analytics"
       ]
     }
   ],

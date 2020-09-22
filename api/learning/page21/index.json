@@ -341,8 +341,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/configure-databases-performance/",
       "length": "PT24M",
       "ratings": {
-        "count": 42,
-        "average": 4.7380953
+        "count": 48,
+        "average": 4.7291665
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -383,8 +383,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/configure-sql-server-resources-optimal-performance/",
       "length": "PT35M",
       "ratings": {
-        "count": 53,
-        "average": 4.792453
+        "count": 68,
+        "average": 4.7647057
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -546,6 +546,47 @@
       "topics": [
         "Azure",
         "AI"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-copy-blobs-from-command-line-and-code.md",
+      "title": "Copy and move blobs from one container or storage account to another from the command line and in code",
+      "excerpt": "Learn how to utilize .NET Storage Client library, AzCopy, and Azure CLI utilities to copy and move blobs between contains and storage accounts both synchronously and asynchronously.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-copy-blobs-from-command-line-and-code/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/copy-blobs-from-command-line-and-code/",
+      "length": "PT58M",
+      "ratings": {
+        "count": 144,
+        "average": 4.5625
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/copy-blobs-from-command-line-and-code-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
       ]
     },
     {
@@ -1224,48 +1265,6 @@
         "IoT",
         "Mobile",
         "Web"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-creating-and-configuring-hdinsight-cluster.md",
-      "title": "Creating and configuring a HDInsight cluster",
-      "excerpt": "Creating and configuring a HDInsight Cluster",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-creating-and-configuring-hdinsight-cluster/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/creating-and-configuring-hdinsight-cluster/",
-      "length": "PT1H6M",
-      "ratings": {
-        "count": 136,
-        "average": 4.5735292
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/creating-and-configuring-a-hdinsight-cluster-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Analytics"
       ]
     }
   ],

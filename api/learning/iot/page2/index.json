@@ -4,6 +4,50 @@
   "page": 2,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-continuous-data-export-from-iot-central.md",
+      "title": "Set up continuous data export from Azure IoT Central to a Power BI app",
+      "excerpt": "This module covers continuous data export from IoT Central. You use the scenario from your previously completed \"Create your first Azure IoT Central app\" Learn module, where you controlled a refrigerated truck. Here, in this module, you add continuous data export to both Azure Blob storage and an event hub. You then build a Power BI app to read and display the telemetry data on a mobile phone.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-continuous-data-export-from-iot-central/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/continuously-export-data-from-iot-central-power-bi/",
+      "length": "PT1H9M",
+      "ratings": {
+        "count": 45,
+        "average": 4.6444445
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/iot/continuous-data-export-from-iot-central-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "IoT",
+        "Storage",
+        "Analytics"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-create-your-first-app-with-azure-maps.md",
       "title": "Create your first route finding app with Azure Maps",
       "excerpt": "Learn about writing code to interact with Azure Maps. Develop and test a fun app to find the best route for a truck, car, or bicycle. The route is from the west coast of the USA, to the east coast. You will see how routes change based on vehicle. And, for trucks, how routes vary if the contents are hazardous. You will get the chance to add in your own locations.",
@@ -412,48 +456,6 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-intro-iot-funtions-iot.md",
-      "title": "Introduction to Azure Functions for IoT",
-      "excerpt": "University of Oxford",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-iot-funtions-iot/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/intro-azure-functions-iot/",
-      "length": "PT27M",
-      "ratings": {
-        "count": 67,
-        "average": 4.626866
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/student-evangelism/introduction-to-azure-functions-iot-edge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "IoT"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-intro-mlops-iot-edge.md",
       "title": "Introduction to MLOps for IoT Edge",
       "excerpt": "University of Oxford",
@@ -545,7 +547,7 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/iot-fundamentals/",
       "length": "PT25M",
       "ratings": {
-        "count": 2,
+        "count": 3,
         "average": 5.0
       },
       "provider": {
@@ -1032,7 +1034,7 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/serverless-fundamentals/",
       "length": "PT20M",
       "ratings": {
-        "count": 2,
+        "count": 3,
         "average": 5.0
       },
       "provider": {
