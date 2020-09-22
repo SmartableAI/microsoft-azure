@@ -1,27 +1,25 @@
 ---
 category: news
-title: "Microsoft expands Azure Arc’s hybrid cloud capabilities for better communications"
-excerpt: "Microsoft Corp. said today at its Ignite 2020 virtual conference that it’s extending the hybrid cloud capabilities of its Azure cloud platform to make it easier for customers to run their ..."
-publishedDateTime: 2020-09-22T15:21:00Z
-originalUrl: "https://siliconangle.com/2020/09/22/microsoft-expands-azure-arcs-hybrid-cloud-capabilities/"
-webUrl: "https://siliconangle.com/2020/09/22/microsoft-expands-azure-arcs-hybrid-cloud-capabilities/"
+title: "Kratos Collaborates with Microsoft to Enable Cloud-based Satellite Ground Services for Azure Orbital"
+excerpt: "Azure Networking at Microsoft. “Kratos’ OpenSpace virtualized ground products support our effort to deliver the full power of cloud technologies for satellite operations.” Kratos OpenSpace ..."
+publishedDateTime: 2020-09-22T19:44:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/kratos-collaborates-with-microsoft-to-enable-cloud-based-satellite-ground-services-for-azure-orbital-1029612762"
+webUrl: "https://markets.businessinsider.com/news/stocks/kratos-collaborates-with-microsoft-to-enable-cloud-based-satellite-ground-services-for-azure-orbital-1029612762"
 type: article
-quality: 32
+quality: 42
 heat: -1
 published: false
 
 provider:
-  name: SiliconANGLE
-  domain: siliconangle.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
-
-images:
-  - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/09/33eccaa6-33be-4f9c-af26-ae497b69c520.png"
-    width: 1024
-    height: 576
-    isCached: true
 
 related:
   - title: "Microsoft extends the power of global cloud to space with Azure Orbital"
@@ -102,15 +100,6 @@ related:
         width: 620
         height: 414
         isCached: true
-  - title: "Kratos Collaborates with Microsoft to Enable Cloud-based Satellite Ground Services for Azure Orbital"
-    excerpt: "Azure Networking at Microsoft. “Kratos’ OpenSpace virtualized ground products support our effort to deliver the full power of cloud technologies for satellite operations.” Kratos OpenSpace ..."
-    publishedDateTime: 2020-09-22T19:44:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/kratos-collaborates-with-microsoft-to-enable-cloud-based-satellite-ground-services-for-azure-orbital-1029612762"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 42
   - title: "Microsoft unveils Azure Orbital connecting satellites to its cloud"
     excerpt: "Microsoft CEO Sataya Nadella speaking at Microsoft Ignite 2020, the annual developer conference. SAN FRANCISCO – Microsoft unveiled Azure Orbital Sept. 22, a service to help customers move data ..."
     publishedDateTime: 2020-09-22T16:03:00Z
@@ -125,7 +114,21 @@ related:
         width: 879
         height: 496
         isCached: true
+  - title: "Microsoft expands Azure Arc’s hybrid cloud capabilities for better communications"
+    excerpt: "Microsoft Corp. said today at its Ignite 2020 virtual conference that it’s extending the hybrid cloud capabilities of its Azure cloud platform to make it easier for customers to run their ..."
+    publishedDateTime: 2020-09-22T15:21:00Z
+    webUrl: "https://siliconangle.com/2020/09/22/microsoft-expands-azure-arcs-hybrid-cloud-capabilities/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 32
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/09/33eccaa6-33be-4f9c-af26-ae497b69c520.png"
+        width: 1024
+        height: 576
+        isCached: true
 
-secured: "Ej2rX3OupAVz3tvjSqC927ZaGZlHdHKH0Lr7hpKZ1PVadONMjOc7po9WGiQ1onbxEKjqHrIudlKqFXBbVZAOkhLjeW1ZwYOk2HxGrsrYfzs2Pf+jm158Q98dNsGJCYbdSK0bq2aaU9emddbHI5OnK2HDemfE6WYl1dNUVCroE15JqYektWb/rirYRJp9G88LRO77swDU/XZ6tErZBw34DxMmeK08eYDZh3IUlTT/JveABo8pBWXH+igNXRfdGCHVcjVQgM9USWzk2aFO37OFgKkUl+fXaYiLEGYUXvDgdQW+hq6HenxyyUwERvecekn7Ql22nyQLJUmQP/jFM4wP+n4Ug7uZIcaI77HAy3rH95FTno5al9Wykgh//NdMU5imgrzigxFPRl+6dF3+YLoxk2jGUYmwOy3gYLc6JCKT7NSM9lawo4HInQnrpGLCiM0eb9xNxxvxY8r6QGrKk6FMDun9l+ECYmDhWvyfreBfHt5Scxx1QjFbaYbAsTDfs4mQ0Z/uG+gu4F64i8Bk4eKFNA==;2lzrqiK6B4xjDb5Bm+0tlQ=="
+secured: "GZxKJK7g9E6Fsk4BIRMo47gHweIJkfDsMqQ/jGNFBOi69yA5eVgb9KLD7joO8yBsmU01tPGJchnB6dxP54R8Wl5JwIz9FBh6Fvb2W0ZqYmc0VdaE0Z+/zmToMIRPMvQizcPgitGbahN0Ioay57h0tGHYzJ0+xl4U/I3QajFjICmop2DSvRiaqG5oTZSY0MfV8Y/QPFJLyZzI429lv54XiGzVlN4sOvU6mITvxwTLjU38P00N6007YmWayUO+OEzYKp8P658uwqQvL0UO2mGu1eE5aZsBqA+lvkD8g2pgu93icbBHJcIrI0cqvwUkEL8uHyRkNT4C2SPwqjXZZCe3IKA0wcwpIqx4AaZENhY9Nxk=;AKbFVJMpcqAhaTKG5TJBhA=="
 ---
 

@@ -1,26 +1,30 @@
 ---
 category: news
-title: "Microsoft expands Azure Arc’s hybrid cloud capabilities for better communications"
-excerpt: "Microsoft Corp. said today at its Ignite 2020 virtual conference that it’s extending the hybrid cloud capabilities of its Azure cloud platform to make it easier for customers to run their ..."
-publishedDateTime: 2020-09-22T15:21:00Z
-originalUrl: "https://siliconangle.com/2020/09/22/microsoft-expands-azure-arcs-hybrid-cloud-capabilities/"
-webUrl: "https://siliconangle.com/2020/09/22/microsoft-expands-azure-arcs-hybrid-cloud-capabilities/"
+title: "Viasat Real-Time Earth Ground Service Available via Microsoft Azure Orbital"
+excerpt: "Sept. 22, 2020 /PRNewswire/ -- Viasat Inc. (NASDAQ: VSAT), a global communications company, today announced Viasat Real-Time Earth (RTE) is available as a managed services option for Microsoft Azure customers. The Company has integrated Azure Orbital with ..."
+publishedDateTime: 2020-09-22T19:33:00Z
+originalUrl: "https://www.marketwatch.com/press-release/viasat-real-time-earth-ground-service-available-via-microsoft-azure-orbital-2020-09-22"
+webUrl: "https://www.marketwatch.com/press-release/viasat-real-time-earth-ground-service-available-via-microsoft-azure-orbital-2020-09-22"
 type: article
-quality: 32
+quality: 75
 heat: -1
 published: false
 
 provider:
-  name: SiliconANGLE
-  domain: siliconangle.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
 
 images:
-  - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/09/33eccaa6-33be-4f9c-af26-ae497b69c520.png"
-    width: 1024
-    height: 576
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -72,20 +76,6 @@ related:
         width: 3000
         height: 2000
         isCached: true
-  - title: "Viasat Real-Time Earth Ground Service Available via Microsoft Azure Orbital"
-    excerpt: "Sept. 22, 2020 /PRNewswire/ -- Viasat Inc. (NASDAQ: VSAT), a global communications company, today announced Viasat Real-Time Earth (RTE) is available as a managed services option for Microsoft Azure customers. The Company has integrated Azure Orbital with ..."
-    publishedDateTime: 2020-09-22T19:33:00Z
-    webUrl: "https://www.marketwatch.com/press-release/viasat-real-time-earth-ground-service-available-via-microsoft-azure-orbital-2020-09-22"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 75
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Microsoft connects satellites to its cloud in new service, Azure Orbital"
     excerpt: "Microsoft on Tuesday launched Azure Orbital, a new service that connects satellites to its cloud to process data from space."
     publishedDateTime: 2020-09-22T18:08:00Z
@@ -125,7 +115,21 @@ related:
         width: 879
         height: 496
         isCached: true
+  - title: "Microsoft expands Azure Arc’s hybrid cloud capabilities for better communications"
+    excerpt: "Microsoft Corp. said today at its Ignite 2020 virtual conference that it’s extending the hybrid cloud capabilities of its Azure cloud platform to make it easier for customers to run their ..."
+    publishedDateTime: 2020-09-22T15:21:00Z
+    webUrl: "https://siliconangle.com/2020/09/22/microsoft-expands-azure-arcs-hybrid-cloud-capabilities/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 32
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/09/33eccaa6-33be-4f9c-af26-ae497b69c520.png"
+        width: 1024
+        height: 576
+        isCached: true
 
-secured: "Ej2rX3OupAVz3tvjSqC927ZaGZlHdHKH0Lr7hpKZ1PVadONMjOc7po9WGiQ1onbxEKjqHrIudlKqFXBbVZAOkhLjeW1ZwYOk2HxGrsrYfzs2Pf+jm158Q98dNsGJCYbdSK0bq2aaU9emddbHI5OnK2HDemfE6WYl1dNUVCroE15JqYektWb/rirYRJp9G88LRO77swDU/XZ6tErZBw34DxMmeK08eYDZh3IUlTT/JveABo8pBWXH+igNXRfdGCHVcjVQgM9USWzk2aFO37OFgKkUl+fXaYiLEGYUXvDgdQW+hq6HenxyyUwERvecekn7Ql22nyQLJUmQP/jFM4wP+n4Ug7uZIcaI77HAy3rH95FTno5al9Wykgh//NdMU5imgrzigxFPRl+6dF3+YLoxk2jGUYmwOy3gYLc6JCKT7NSM9lawo4HInQnrpGLCiM0eb9xNxxvxY8r6QGrKk6FMDun9l+ECYmDhWvyfreBfHt5Scxx1QjFbaYbAsTDfs4mQ0Z/uG+gu4F64i8Bk4eKFNA==;2lzrqiK6B4xjDb5Bm+0tlQ=="
+secured: "ym0+K1oUCieMV0+XW+/B4YwIV1EfkiszABNj264bu9P94vlnFlwcx1sNqxjiEiHPZJToBgFcD/0NeUtHu8U4EStpgLhnbgZ2qw4Y6z4azsruo86I2ZHwV0sUwOluSF3pc63hLKuGQdsH7zDUoHx4djF60JJAm2UW4u9GxC/0UorPtpAZSPcZfUJ7czHGzw8QF4Cyj8XzHMcwFpUbMC6/YDUJdr+f1TOp+FpIy3mQLhRFkssIHuRYNZgGaZs3Si2Z7rapmelIkd4JCVtNCr8YboaLvO11Ga5eCutufkXTNDLb8zKTbwm/n2M0VU5/WuYisJoIHROY8HAd1a7T91lBn0Y/+GTHCAy0Zg4ekQXRcKo=;Qt94NICUheK44QArBNC4ZQ=="
 ---
 

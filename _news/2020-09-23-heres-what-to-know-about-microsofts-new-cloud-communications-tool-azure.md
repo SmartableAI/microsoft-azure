@@ -1,20 +1,20 @@
 ---
 category: news
-title: "Build rich communication experiences at scale with Azure Communication Services"
-excerpt: "In this remote-first world, businesses are looking to quickly adapt to customers’ needs and connect with them through engaging communication experiences. Building new communication solutions or integrating them into existing applications can be complex and time-consuming. Often requiring considerable"
-publishedDateTime: 2020-09-22T08:00:31Z
-originalUrl: "https://azure.microsoft.com/blog/build-rich-communication-experiences-at-scale-with-azure-communication-services/"
-webUrl: "https://azure.microsoft.com/blog/build-rich-communication-experiences-at-scale-with-azure-communication-services/"
+title: "Here's what to know about Microsoft's new cloud communications tool Azure"
+excerpt: "CNBC's Josh Lipton reports on Microsoft's latest cloud communications tool and how it could impact Slack and other work from home beneficiaries."
+publishedDateTime: 2020-09-22T19:30:00Z
+originalUrl: "https://www.cnbc.com/video/2020/09/22/heres-what-to-know-about-microsofts-new-cloud-communications-tool-azure.html"
+webUrl: "https://www.cnbc.com/video/2020/09/22/heres-what-to-know-about-microsofts-new-cloud-communications-tool-azure.html"
 type: article
-quality: 83
+quality: 76
 heat: -1
 published: false
 
 provider:
-  name: Microsoft
-  domain: microsoft.com
+  name: CNBC
+  domain: cnbc.com
   images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg"
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/cnbc.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -22,9 +22,9 @@ topics:
   - Azure
 
 images:
-  - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/5714ed9c-7365-4095-b8db-762920382282.png"
-    width: 848
-    height: 385
+  - url: "https://image.cnbcfm.com/api/v1/image/106712811-16007994871600799484-11536478084-1080pnbcnews.jpg?v=1600799486"
+    width: 1920
+    height: 1080
     isCached: true
 
 related:
@@ -44,19 +44,19 @@ related:
         width: 760
         height: 428
         isCached: true
-  - title: "Here's what to know about Microsoft's new cloud communications tool Azure"
-    excerpt: "CNBC's Josh Lipton reports on Microsoft's latest cloud communications tool and how it could impact Slack and other work from home beneficiaries."
-    publishedDateTime: 2020-09-22T19:30:00Z
-    webUrl: "https://www.cnbc.com/video/2020/09/22/heres-what-to-know-about-microsofts-new-cloud-communications-tool-azure.html"
+  - title: "Build rich communication experiences at scale with Azure Communication Services"
+    excerpt: "In this remote-first world, businesses are looking to quickly adapt to customers’ needs and connect with them through engaging communication experiences. Building new communication solutions or integrating them into existing applications can be complex and time-consuming. Often requiring considerable"
+    publishedDateTime: 2020-09-22T08:00:31Z
+    webUrl: "https://azure.microsoft.com/blog/build-rich-communication-experiences-at-scale-with-azure-communication-services/"
     type: article
     provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 76
+      name: Microsoft
+      domain: microsoft.com
+    quality: 83
     images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106712811-16007994871600799484-11536478084-1080pnbcnews.jpg?v=1600799486"
-        width: 1920
-        height: 1080
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/5714ed9c-7365-4095-b8db-762920382282.png"
+        width: 848
+        height: 385
         isCached: true
   - title: "Microsoft Improves Windows Patch and Azure Service Communications"
     excerpt: "This notion was explained in a June Microsoft announcement as \"infusing AI into our cloud platform and DevOps process, becoming AIOps.\" Apparently, the AIOps term derives from analyst and ..."
@@ -96,6 +96,6 @@ related:
       domain: telecompaper.com
     quality: 13
 
-secured: "jaVL/RRLraE4iYeJcTSERQne+p7si5I9vmjsVPfeKvlxkPBsiXixBCFBW4B0fU3XQMN+wClaTwIGPz6mey4GT3IUnB6BCEfXfo9Z8wlQeQ72cdhWdL1xodODD0muWcUub/Y1Hksu5ykd2F46uCyFetkrlYTIECvAAizLwbO5hH53teCAtFX0n0xFbvBhUp3Hg8HYx5lAFdhnOKB/AJznHH122uu3M/0b5Opa7zW7na7kh87jLlA9lf1EyCsl691iaC1ULQxuWLAf0sg0iDVBVQ7qs8S67obpAvAP3dBWWy8Fc7mPSmIniJIKR8Lomx3q0GaUcR5l7meJkIBa5nNY82jT68j2rpPCYmQGQ5/U8GQ=;Py9Rm6nAtB6xui8Lp86s3Q=="
+secured: "fUhAMm1bSbPBb5sQrhWcaz5Q6Cb3gCQgno2W2OU2yJFOXaDpx9U4VeaY2/cEjDdrXdtV5Xh4DGiGwkGJ+PqdSZBEwz+KmybbzhRiv/KRNcALzYOOK1PycAZUOgGhAG9kUx6PRjmi5+J2T0Auqv3vPy0dIWx9K3Pj3grzQScsRKqQUEVk546Kw5HNDJbwsTscuaPiCgvqgmre3/8/TGHa3nHUpxyi13NPfdHj1PCnmklgw7Ww8IxTfWvEqcbpcqwaGeEkgbnaz/yySEo45mtJTRRi6RWRpaV0YdD8ZWdLd/BF1XTBIUoK/DnXvh8NniKwv0o80o4P/K5Fk9r2VDGmjao1/D4eJJZKZTCCrcYScyc=;zsvBE7IyonKKVyKpeX3mXA=="
 ---
 

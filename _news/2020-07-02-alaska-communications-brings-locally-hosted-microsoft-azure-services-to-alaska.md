@@ -47,6 +47,20 @@ related:
         width: 848
         height: 385
         isCached: true
+  - title: "Here's what to know about Microsoft's new cloud communications tool Azure"
+    excerpt: "CNBC's Josh Lipton reports on Microsoft's latest cloud communications tool and how it could impact Slack and other work from home beneficiaries."
+    publishedDateTime: 2020-09-22T19:30:00Z
+    webUrl: "https://www.cnbc.com/video/2020/09/22/heres-what-to-know-about-microsofts-new-cloud-communications-tool-azure.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 76
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106712811-16007994871600799484-11536478084-1080pnbcnews.jpg?v=1600799486"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Microsoft Improves Windows Patch and Azure Service Communications"
     excerpt: "This notion was explained in a June Microsoft announcement as \"infusing AI into our cloud platform and DevOps process, becoming AIOps.\" Apparently, the AIOps term derives from analyst and ..."
     publishedDateTime: 2020-08-19T01:09:00Z
@@ -60,6 +74,20 @@ related:
       - url: "https://redmondmag.com/-/media/ECG/VirtualizationReview/Images/IntroImages2016/0716vrm_Take5.jpg"
         width: 647
         height: 450
+        isCached: true
+  - title: "dotData Now Supports Microsoft Azure Deployment and Is Available on Microsoft Azure Marketplace"
+    excerpt: "Sept. 22, 2020 /PRNewswire/ -- dotData, focused on delivering full-cycle data science automation and operationalization for the enterprise, today announced that dotData Enterprise is now commercially available on Microsoft Azure and accessible through the ..."
+    publishedDateTime: 2020-09-22T12:09:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/dotdata-now-supports-microsoft-azure-deployment-and-is-available-on-microsoft-azure-marketplace-301135412.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 25
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
         isCached: true
 
 secured: "gMaYUwpVyy4GCI9NS0uAbXUAp/iXmgcRxDoY/MBNMPl8pAQkmug1L7Zp2TjxMW2zEYWRLMh+gREbviCmA+hSTARtNxqwmMhUXIbegW24/lUX8+KD6ZwwHvAKV3fPu9b/kSyT6K6j016tL5CWCMGFwUxpDiC+VR5jIqgnf7FInQub+zG3+polc0K/OHJbgoStvZGbjZv9ypSmmAOdF06wb/sQmPLuhypU8CB/8qp8udrpy7NQGtWiKsNSP1+cyseaFByvgdFdW9PWLvfBA/l10DXDBBBT1l5ePbmOn/MkYdWK2vDJY+azZfiCVAslg1M2cvpXhcqKbRisWN9FoUz/aw==;F5+9Oogpf1uGtkERPrLOPw=="

@@ -72,6 +72,45 @@ related:
         width: 3000
         height: 2000
         isCached: true
+  - title: "Viasat Real-Time Earth Ground Service Available via Microsoft Azure Orbital"
+    excerpt: "Sept. 22, 2020 /PRNewswire/ -- Viasat Inc. (NASDAQ: VSAT), a global communications company, today announced Viasat Real-Time Earth (RTE) is available as a managed services option for Microsoft Azure customers. The Company has integrated Azure Orbital with ..."
+    publishedDateTime: 2020-09-22T19:33:00Z
+    webUrl: "https://www.marketwatch.com/press-release/viasat-real-time-earth-ground-service-available-via-microsoft-azure-orbital-2020-09-22"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 75
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Microsoft connects satellites to its cloud in new service, Azure Orbital"
+    excerpt: "Microsoft on Tuesday launched Azure Orbital, a new service that connects satellites to its cloud to process data from space."
+    publishedDateTime: 2020-09-22T18:08:00Z
+    webUrl: "https://www.upi.com/Top_News/US/2020/09/22/Microsoft-connects-satellites-to-its-cloud-in-new-service-Azure-Orbital/6811600792489/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2020/09/22/Microsoft-connects-satellites-to-its-cloud-in-new-service-Azure-Orbital/6811600792489/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2020/09/22/Microsoft-connects-satellites-to-its-cloud-in-new-service-Azure-Orbital/6811600792489/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 56
+    images:
+      - url: "https://cdnph.upi.com/sv/ph/og/i/6811600792489/2020/1/16007968764999/v1.5/Microsoft-connects-satellites-to-its-cloud-in-new-service-Azure-Orbital.jpg"
+        width: 620
+        height: 414
+        isCached: true
+  - title: "Kratos Collaborates with Microsoft to Enable Cloud-based Satellite Ground Services for Azure Orbital"
+    excerpt: "Azure Networking at Microsoft. “Kratos’ OpenSpace virtualized ground products support our effort to deliver the full power of cloud technologies for satellite operations.” Kratos OpenSpace ..."
+    publishedDateTime: 2020-09-22T19:44:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/kratos-collaborates-with-microsoft-to-enable-cloud-based-satellite-ground-services-for-azure-orbital-1029612762"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 42
   - title: "Microsoft expands Azure Arc’s hybrid cloud capabilities for better communications"
     excerpt: "Microsoft Corp. said today at its Ignite 2020 virtual conference that it’s extending the hybrid cloud capabilities of its Azure cloud platform to make it easier for customers to run their ..."
     publishedDateTime: 2020-09-22T15:21:00Z
@@ -87,6 +126,6 @@ related:
         height: 576
         isCached: true
 
-secured: "0Iiq7qIZcBtlWbFkto7rI+4OyHhD7rHFn0SnQswQodD2c8sS1qgj8VcP/a3Mi3HzZENpjgPwWG+hZWUkb6IVezhb24V/l4r1KtDEMQygDLht3+ODM6sovzL5lfZ984B4sXAHb0N7N53GAsPtSMmVCwF6Qy+P2Nuyd/Iu5buyYD8mcP4uUUvnNiB0yq9Xu8nXAvG8wbwH+xHftNorwosVeNT7bfUqSnZkHwGhD1aW2xE3g45ePKWf2srsshdyXVc2sKXMeaEECTnuroJtd7+DxFaj85FLPvLYkE+v73qxDxtppbS9ONw1Cu80egwncXroO8JYMs7znexrPnqM32CzrgzLQtXhT3ASv2aNeagcZeo=;SncnW/8e9rEbmgTZ7mMLnQ=="
+secured: "x5rmV4ggrDQb0ruvLb/B+ZnFRxYD/oFIrQCMKQdEn5oeNE1VcuARLDW+4/U5S72b8O5qp0xDdYOpYZ03Hn4Y00Bd6DJ3kUo3DETZtTVJi4VKLWYIrvPP4DC6JfPJM29Jz5vhJrCHs+lltQfyVfNvXoT9eT/LwQkSe45wL2vN9tqzNoOsFVXhhrsSHon3Ke3L4shZ+z0ajQBWQ9Vv2a37t8wuArBbHr08vgXjbQm2U0rbh+RCxzQiQ5xYEXlA2nR5UYFsduSvtLTa2Uy4hUJNHtfXKOuOF1HKzG4O/RGfj1f0g1haSxGLTFqOKlDkfwlxbs2k2FHRb7q54tSOlmqS4ZllaXv5r2fBrcKIFKHVnQiO87vKjoNbNzBbnt2Lonod9hqUrPoMZqYi6kkwPGOtw2zYL+mC+rsbn8RKmm5fD2QdVKUuPgDXo4NXoUhaBplen7qlgeuYn9hArdahmEkVpL5E44IYvmjm6DJpoLgZsJ1PiSwEyOHGHyhu4zRKBKQsBkMmj/OSxVbxpaOepVVXOw==;3Fq0hIbt2BWCNaNqh2ZKKA=="
 ---
 

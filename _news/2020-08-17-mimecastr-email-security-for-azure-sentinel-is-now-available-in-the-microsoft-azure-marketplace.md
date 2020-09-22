@@ -56,17 +56,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "dotData Now Supports Microsoft Azure Deployment and Is Available on Microsoft Azure Marketplace"
-    excerpt: "SAN MATEO, Calif., Sept. 22, 2020 /PRNewswire/ -- dotData, focused on delivering full-cycle data science automation and operationalization for"
-    publishedDateTime: 2020-09-22T12:29:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/dotdata-now-supports-microsoft-azure-deployment-and-is-available-on-microsoft-azure-marketplace-1029610572"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/dotdata-now-supports-microsoft-azure-deployment-and-is-available-on-microsoft-azure-marketplace-1029610572"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/dotdata-now-supports-microsoft-azure-deployment-and-is-available-on-microsoft-azure-marketplace-1029610572"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 65
   - title: "Adverity Now Available in the Microsoft Azure Marketplace"
     excerpt: "Adverity is a leading force in intelligent marketing analytics and business-ready data. Marketing data is a critical asset in helping businesses pivot, adapt and grow, but data complexity is hampering success due to the lack of understanding and ability to incorporate meaningful insights into positive outcomes."
     publishedDateTime: 2020-07-01T15:37:00Z

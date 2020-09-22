@@ -9,7 +9,7 @@ ampWebUrl: "https://www.neowin.net/amp/microsoft-extends-the-power-of-global-clo
 cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-extends-the-power-of-global-cloud-to-space-with-azure-orbital/"
 type: article
 quality: 97
-heat: 177
+heat: 237
 published: true
 
 provider:
@@ -62,6 +62,45 @@ related:
         width: 3000
         height: 2000
         isCached: true
+  - title: "Viasat Real-Time Earth Ground Service Available via Microsoft Azure Orbital"
+    excerpt: "Sept. 22, 2020 /PRNewswire/ -- Viasat Inc. (NASDAQ: VSAT), a global communications company, today announced Viasat Real-Time Earth (RTE) is available as a managed services option for Microsoft Azure customers. The Company has integrated Azure Orbital with ..."
+    publishedDateTime: 2020-09-22T19:33:00Z
+    webUrl: "https://www.marketwatch.com/press-release/viasat-real-time-earth-ground-service-available-via-microsoft-azure-orbital-2020-09-22"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 75
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Microsoft connects satellites to its cloud in new service, Azure Orbital"
+    excerpt: "Microsoft on Tuesday launched Azure Orbital, a new service that connects satellites to its cloud to process data from space."
+    publishedDateTime: 2020-09-22T18:08:00Z
+    webUrl: "https://www.upi.com/Top_News/US/2020/09/22/Microsoft-connects-satellites-to-its-cloud-in-new-service-Azure-Orbital/6811600792489/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2020/09/22/Microsoft-connects-satellites-to-its-cloud-in-new-service-Azure-Orbital/6811600792489/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2020/09/22/Microsoft-connects-satellites-to-its-cloud-in-new-service-Azure-Orbital/6811600792489/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 56
+    images:
+      - url: "https://cdnph.upi.com/sv/ph/og/i/6811600792489/2020/1/16007968764999/v1.5/Microsoft-connects-satellites-to-its-cloud-in-new-service-Azure-Orbital.jpg"
+        width: 620
+        height: 414
+        isCached: true
+  - title: "Kratos Collaborates with Microsoft to Enable Cloud-based Satellite Ground Services for Azure Orbital"
+    excerpt: "Azure Networking at Microsoft. “Kratos’ OpenSpace virtualized ground products support our effort to deliver the full power of cloud technologies for satellite operations.” Kratos OpenSpace ..."
+    publishedDateTime: 2020-09-22T19:44:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/kratos-collaborates-with-microsoft-to-enable-cloud-based-satellite-ground-services-for-azure-orbital-1029612762"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 42
   - title: "Microsoft unveils Azure Orbital connecting satellites to its cloud"
     excerpt: "Microsoft CEO Sataya Nadella speaking at Microsoft Ignite 2020, the annual developer conference. SAN FRANCISCO – Microsoft unveiled Azure Orbital Sept. 22, a service to help customers move data ..."
     publishedDateTime: 2020-09-22T16:03:00Z

@@ -1,26 +1,28 @@
 ---
 category: news
-title: "Microsoft expands Azure Arc’s hybrid cloud capabilities for better communications"
-excerpt: "Microsoft Corp. said today at its Ignite 2020 virtual conference that it’s extending the hybrid cloud capabilities of its Azure cloud platform to make it easier for customers to run their ..."
-publishedDateTime: 2020-09-22T15:21:00Z
-originalUrl: "https://siliconangle.com/2020/09/22/microsoft-expands-azure-arcs-hybrid-cloud-capabilities/"
-webUrl: "https://siliconangle.com/2020/09/22/microsoft-expands-azure-arcs-hybrid-cloud-capabilities/"
+title: "Microsoft connects satellites to its cloud in new service, Azure Orbital"
+excerpt: "Microsoft on Tuesday launched Azure Orbital, a new service that connects satellites to its cloud to process data from space."
+publishedDateTime: 2020-09-22T18:08:00Z
+originalUrl: "https://www.upi.com/Top_News/US/2020/09/22/Microsoft-connects-satellites-to-its-cloud-in-new-service-Azure-Orbital/6811600792489/"
+webUrl: "https://www.upi.com/Top_News/US/2020/09/22/Microsoft-connects-satellites-to-its-cloud-in-new-service-Azure-Orbital/6811600792489/"
+ampWebUrl: "https://www.upi.com/amp/Top_News/US/2020/09/22/Microsoft-connects-satellites-to-its-cloud-in-new-service-Azure-Orbital/6811600792489/"
+cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2020/09/22/Microsoft-connects-satellites-to-its-cloud-in-new-service-Azure-Orbital/6811600792489/"
 type: article
-quality: 32
+quality: 56
 heat: -1
 published: false
 
 provider:
-  name: SiliconANGLE
-  domain: siliconangle.com
+  name: UPI.com
+  domain: upi.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/09/33eccaa6-33be-4f9c-af26-ae497b69c520.png"
-    width: 1024
-    height: 576
+  - url: "https://cdnph.upi.com/sv/ph/og/i/6811600792489/2020/1/16007968764999/v1.5/Microsoft-connects-satellites-to-its-cloud-in-new-service-Azure-Orbital.jpg"
+    width: 620
+    height: 414
     isCached: true
 
 related:
@@ -86,22 +88,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Microsoft connects satellites to its cloud in new service, Azure Orbital"
-    excerpt: "Microsoft on Tuesday launched Azure Orbital, a new service that connects satellites to its cloud to process data from space."
-    publishedDateTime: 2020-09-22T18:08:00Z
-    webUrl: "https://www.upi.com/Top_News/US/2020/09/22/Microsoft-connects-satellites-to-its-cloud-in-new-service-Azure-Orbital/6811600792489/"
-    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2020/09/22/Microsoft-connects-satellites-to-its-cloud-in-new-service-Azure-Orbital/6811600792489/"
-    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2020/09/22/Microsoft-connects-satellites-to-its-cloud-in-new-service-Azure-Orbital/6811600792489/"
-    type: article
-    provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 56
-    images:
-      - url: "https://cdnph.upi.com/sv/ph/og/i/6811600792489/2020/1/16007968764999/v1.5/Microsoft-connects-satellites-to-its-cloud-in-new-service-Azure-Orbital.jpg"
-        width: 620
-        height: 414
-        isCached: true
   - title: "Kratos Collaborates with Microsoft to Enable Cloud-based Satellite Ground Services for Azure Orbital"
     excerpt: "Azure Networking at Microsoft. “Kratos’ OpenSpace virtualized ground products support our effort to deliver the full power of cloud technologies for satellite operations.” Kratos OpenSpace ..."
     publishedDateTime: 2020-09-22T19:44:00Z
@@ -125,7 +111,21 @@ related:
         width: 879
         height: 496
         isCached: true
+  - title: "Microsoft expands Azure Arc’s hybrid cloud capabilities for better communications"
+    excerpt: "Microsoft Corp. said today at its Ignite 2020 virtual conference that it’s extending the hybrid cloud capabilities of its Azure cloud platform to make it easier for customers to run their ..."
+    publishedDateTime: 2020-09-22T15:21:00Z
+    webUrl: "https://siliconangle.com/2020/09/22/microsoft-expands-azure-arcs-hybrid-cloud-capabilities/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 32
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/09/33eccaa6-33be-4f9c-af26-ae497b69c520.png"
+        width: 1024
+        height: 576
+        isCached: true
 
-secured: "Ej2rX3OupAVz3tvjSqC927ZaGZlHdHKH0Lr7hpKZ1PVadONMjOc7po9WGiQ1onbxEKjqHrIudlKqFXBbVZAOkhLjeW1ZwYOk2HxGrsrYfzs2Pf+jm158Q98dNsGJCYbdSK0bq2aaU9emddbHI5OnK2HDemfE6WYl1dNUVCroE15JqYektWb/rirYRJp9G88LRO77swDU/XZ6tErZBw34DxMmeK08eYDZh3IUlTT/JveABo8pBWXH+igNXRfdGCHVcjVQgM9USWzk2aFO37OFgKkUl+fXaYiLEGYUXvDgdQW+hq6HenxyyUwERvecekn7Ql22nyQLJUmQP/jFM4wP+n4Ug7uZIcaI77HAy3rH95FTno5al9Wykgh//NdMU5imgrzigxFPRl+6dF3+YLoxk2jGUYmwOy3gYLc6JCKT7NSM9lawo4HInQnrpGLCiM0eb9xNxxvxY8r6QGrKk6FMDun9l+ECYmDhWvyfreBfHt5Scxx1QjFbaYbAsTDfs4mQ0Z/uG+gu4F64i8Bk4eKFNA==;2lzrqiK6B4xjDb5Bm+0tlQ=="
+secured: "vsbXJ58cAplUoSnkOQZ8UKsSxjvxSKwA6PYIQq8xOedgL8bg5LQJmtWraS6cVr83DpflfDDA6w03MXa4mVuVEWc3yAPXFQd+dXEDe1R1mFcZz3ZWH9T6KkrZJEEeC9XHWaWRf+VKIFl0yVS3GokaKzw1o7S3ljhzi72fSLP4ZKhiw2Fjpx+b8ymD/crbgrBOlPfLMyU3kIqQE+DsAqtxKtdCu9mhQY9UCYdYB+ZwXA7YsGEKVguBZ2MfWDCX5re7DBG1qaT4EFSwcDrSZde4lM0kg9Rid5xm3CXa79aANjPuFyItb6yepmvSdibFx3yl4b+qV3Lq73jKUGDrWn/eMbhQyMX7WeQFGFjWa7DZ0QQ=;A2V9RagPTUJyL2OKgfT87w=="
 ---
 
