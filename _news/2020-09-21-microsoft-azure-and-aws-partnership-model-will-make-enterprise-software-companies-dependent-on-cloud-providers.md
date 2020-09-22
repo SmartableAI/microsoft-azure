@@ -44,6 +44,22 @@ related:
         width: 760
         height: 428
         isCached: true
+  - title: "Microsoft Azure launches new availability zones in Canada and Australia"
+    excerpt: "Microsoft Azure offers developers access to more data center regions than its competitors, but it was late to the game of offering different availability zones in those regions for high-availability use cases."
+    publishedDateTime: 2020-09-22T15:37:00Z
+    webUrl: "https://techcrunch.com/2020/09/22/microsoft-azure-launches-new-availability-zones-in-canada-and-australia/"
+    ampWebUrl: "https://techcrunch.com/2020/09/22/microsoft-azure-launches-new-availability-zones-in-canada-and-australia/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/09/22/microsoft-azure-launches-new-availability-zones-in-canada-and-australia/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 97
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2017/09/gettyimages-681557990.jpg?w=1024"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "3Cloud Acquires Microsoft Azure Partner"
     excerpt: "Microsoft Azure cloud partner 3Cloud, backed by private equity firm Gryphon Investors, acquires Pragmatic Works' consulting arm. Creates largest U.S. Azure partner, buyer claims."
     publishedDateTime: 2020-09-15T21:33:00Z

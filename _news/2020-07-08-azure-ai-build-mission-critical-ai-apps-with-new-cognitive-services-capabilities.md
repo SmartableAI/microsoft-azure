@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/azure-ai-build-missioncritical-ai
 webUrl: "https://azure.microsoft.com/blog/azure-ai-build-missioncritical-ai-apps-with-new-cognitive-services-capabilities/"
 type: article
 quality: 84
-heat: 104
+heat: 84
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     height: 576
     isCached: true
     title: "Azure AI: Build mission-critical AI apps with new Cognitive Services capabilities"
-
-related:
-  - title: "Microsoft adds more APIs to its Azure Cognitive Services for developers"
-    excerpt: "Microsoft Corp. is adding more Cognitive Services application programming interfaces to its Azure cloud platform as it continues to expand its array of artificial intelligence services."
-    publishedDateTime: 2020-07-09T00:07:00Z
-    webUrl: "https://siliconangle.com/2020/07/08/microsoft-adds-apis-azure-cognitive-services-developers/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 37
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/07/16510342158_185f09969a_k.jpg"
-        width: 2048
-        height: 1365
-        isCached: true
 
 secured: "fuE0vl9Sj5M33Uv/feGmoxXurWXf3uJnB83ARmMB8S6btODlUMOnLFj6dK0GFYjqGnAbr3SBnz3ewbzpT/lpMB/LrSUsg80bJK7YDZ+jiCYASe0Ab3/Z3P6UZtdS0fVFhJI0H2cH7WrtJOGowpdeiEfkuLIS2/YUeg+HTSbsoR8K6y7aPvMhjRcBMO+1w55QRe0f2OEw5VyF/3eiUjL/1Vi9TMTYM7uTx5HoNwMa9KeXKrpaNKVKvsiJQe2FqJM3G4E3XR8PYcNd/o1ELAs49nGdvqfL9nCulBreaM5jFq8M2pcMD+cmmSTuPdSdwRUOLjJ082vnNR6lELRVpYlngguarcfxKLwrSl8e6Gnoxm4=;xb69cWOStGO3d9swf3EwcA=="
 ---

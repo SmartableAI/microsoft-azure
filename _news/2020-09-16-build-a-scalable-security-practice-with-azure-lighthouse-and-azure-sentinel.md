@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/build-a-scalable-security-practic
 webUrl: "https://azure.microsoft.com/blog/build-a-scalable-security-practice-with-azure-lighthouse-and-azure-sentinel/"
 type: article
 quality: 82
-heat: 102
+heat: 122
 published: true
 
 provider:
@@ -23,6 +23,20 @@ topics:
   - Security
 
 related:
+  - title: "AT&T powered guardian device with Azure Sphere enables highly secured, simple, and scalable connectivity from anywhere"
+    excerpt: "In July 2019, Microsoft and AT&T entered a strategic alliance to lead innovation and deliver powerful new solutions in some of the most transformative technologies, including the Internet of Things (IoT). Today, we are sharing that as part of that partnership, AT&T is introducing a new IoT solution consisting"
+    publishedDateTime: 2020-09-22T08:00:16Z
+    webUrl: "https://azure.microsoft.com/blog/attpowered-guardian-device-with-azure-sphere-enables-highly-secured-simple-and-scalable-connectivity-from-anywhere/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 63
+    images:
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/071cbd4b-fb81-44a6-9fd6-333ec60aee38.png"
+        width: 1024
+        height: 649
+        isCached: true
   - title: "Device Authority releases new version of IoT security platform with support for Microsoft Azure Sphere and security lifecycle management"
     excerpt: "Device Authority, a global leader in identity and access management (IAM) for the Internet of Things (IoT), today announced the latest version of its KeyScaler platform which includes enhanced device connectivity,"
     publishedDateTime: 2020-09-15T14:14:00Z

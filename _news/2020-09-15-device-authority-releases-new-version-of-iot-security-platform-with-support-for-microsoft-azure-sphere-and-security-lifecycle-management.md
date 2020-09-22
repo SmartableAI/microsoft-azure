@@ -33,6 +33,20 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 82
+  - title: "AT&T powered guardian device with Azure Sphere enables highly secured, simple, and scalable connectivity from anywhere"
+    excerpt: "In July 2019, Microsoft and AT&T entered a strategic alliance to lead innovation and deliver powerful new solutions in some of the most transformative technologies, including the Internet of Things (IoT). Today, we are sharing that as part of that partnership, AT&T is introducing a new IoT solution consisting"
+    publishedDateTime: 2020-09-22T08:00:16Z
+    webUrl: "https://azure.microsoft.com/blog/attpowered-guardian-device-with-azure-sphere-enables-highly-secured-simple-and-scalable-connectivity-from-anywhere/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 63
+    images:
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/071cbd4b-fb81-44a6-9fd6-333ec60aee38.png"
+        width: 1024
+        height: 649
+        isCached: true
 
 secured: "oqsBuN913u5fEB86rVQ3Y2hvlhLAyv9EsEZM8aQNgeCxkbz8mtZg0UyHP025donEVXk8cN75OQVkv94NIiCATdY+neu4AyJ8lqlaL0tkvAAhJbJalpfNebyq+ajmqI+KrK9tDsReiq/1J1HuEj+r5HwBnvH0xBEA45jP0KNFQ/ZG92FoF2+UZYYcDX2HyQ+ZkvpHywVAeuty3DH8imC+ioElrsNTVZAsxDvMVQ9lIr06dTqVl9oSnMLdU/XPpWesTM7kfd/TMnNLEb2vqy7ggvmN9+nzd/sB/rSfUVOIP99JMXeXKELFl3is/nNsz/MTwtufAc9yr4JLrhKO5tPAwcTlDpfALtVtgQNQMQO/WfE=;/YmaqvhjW2OpOHWvYtYp/Q=="
 ---
