@@ -4,6 +4,118 @@
   "page": 6,
   "value": [
     {
+      "path": "_learning/collections/microsoft-learn-explore-natural-language-processing-in-microsoft-azure.md",
+      "title": "Explore Natural Language Processing in Microsoft Azure",
+      "excerpt": "Natural language processing supports applications that can see, hear, speak with, and understand users.  They permit the user to interact with your application in natural ways without requiring the user to adapt to the computer model.  Using text analytics, translation, and language understanding services, Microsoft Azure makes it easy to build applications that support natural language.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-explore-natural-language-processing-in-microsoft-azure/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-explore-natural-language-processing-in-microsoft-azure/",
+      "length": "PT2H6M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "topItems": [
+        {
+          "path": "",
+          "title": "Analyze text with the Text Analytics service",
+          "excerpt": "The Text Analytics service is a cloud-based service that provides advanced natural language processing over raw text for sentiment analysis, key phrase extraction, named entity recognition, and language detection.",
+          "heat": 51,
+          "type": "course",
+          "topics": [
+            "Azure",
+            "AI"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Recognize and synthesize speech",
+          "excerpt": "Learn how to recognize and synthesize speech by using Azure Cognitive Services.",
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/convert-speech-to-text-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure",
+            "AI",
+            "Developer Tools"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Translate text and speech",
+          "excerpt": "Automated translation capabilities in an AI solution enables closer collaboration by removing language barriers.",
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/translate-text-with-translation-service-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure",
+            "AI"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Create a language model with Language Understanding",
+          "excerpt": "In this module, we'll introduce you to Language Understanding Intelligent Service (LUIS) and show how to build and publish a LUIS model.",
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/create-publish-luis-model-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure",
+            "AI",
+            "Developer Tools"
+          ]
+        }
+      ],
+      "size": 4,
+      "heat": 60,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/convert-speech-to-text-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "AI",
+        "Management Tools"
+      ]
+    },
+    {
       "path": "_learning/collections/microsoft-learn-explore-natural-language-processing.md",
       "title": "Explore natural language processing",
       "excerpt": "Natural language processing supports applications that can see, hear, speak with, and understand users.  Using text analytics, translation, and language understanding services, Microsoft Azure makes it easy to build applications that support natural language.",
@@ -2002,8 +2114,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/explore-concepts-of-data-analytics/",
       "length": "PT16M",
       "ratings": {
-        "count": 509,
-        "average": 4.7917485
+        "count": 511,
+        "average": 4.7925634
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2043,8 +2155,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/explore-core-data-concepts/",
       "length": "PT25M",
       "ratings": {
-        "count": 808,
-        "average": 4.830446
+        "count": 810,
+        "average": 4.8308644
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2084,8 +2196,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/azure-sql-intro/",
       "length": "PT44M",
       "ratings": {
-        "count": 253,
-        "average": 4.7312255
+        "count": 255,
+        "average": 4.733333
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2168,8 +2280,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/secure-azure-storage-account/",
       "length": "PT45M",
       "ratings": {
-        "count": 7484,
-        "average": 4.6398983
+        "count": 7485,
+        "average": 4.6399465
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2290,8 +2402,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/control-network-traffic-flow-with-routes/",
       "length": "PT50M",
       "ratings": {
-        "count": 1676,
-        "average": 4.6300716
+        "count": 1678,
+        "average": 4.6305127
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2333,8 +2445,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/create-azure-storage-account/",
       "length": "PT30M",
       "ratings": {
-        "count": 5846,
-        "average": 4.751625
+        "count": 5848,
+        "average": 4.75171
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2467,42 +2579,6 @@
       "price": "Free",
       "topics": [
         "Azure"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-create-serverless-logic-with-functions.md",
-      "title": "Create serverless logic with Azure Functions",
-      "excerpt": "Azure Functions allow you to host business logic that can be executed without managing or provisioning server infrastructure",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-create-serverless-logic-with-functions/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/create-serverless-logic-with-azure-functions/",
-      "length": "PT36M",
-      "ratings": {
-        "count": 6337,
-        "average": 4.666088
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 58,
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Compute",
-        "Serverless",
-        "Management Tools"
       ]
     }
   ],

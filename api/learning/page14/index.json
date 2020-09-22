@@ -4,6 +4,89 @@
   "page": 14,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-explore-causes-of-performance-issues.md",
+      "title": "Explore causes of performance issues",
+      "excerpt": "Explore the Query Store for tracking down problematic queries. Understand how SQL Server and Azure SQL manage currency by locking and blocking, or by using snapshots. Implement fragmentation checks and defragmentation.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-explore-causes-of-performance-issues/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/explore-causes-performance-issues/",
+      "length": "PT36M",
+      "ratings": {
+        "count": 31,
+        "average": 4.7419353
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Databases"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-explore-data-ingestion-azure.md",
+      "title": "Explore data ingestion in Azure",
+      "excerpt": "Explore data ingestion in Azure",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-explore-data-ingestion-azure/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/explore-data-ingestion-azure/",
+      "length": "PT23M",
+      "ratings": {
+        "count": 182,
+        "average": 4.6868134
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/explore-data-ingestion-azure-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-explore-non-relational-data-offerings-azure.md",
       "title": "Explore non-relational data offerings in Azure",
       "excerpt": "Explore non-relational data offerings in Azure",
@@ -93,8 +176,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/export-data-with-azure-import-export/",
       "length": "PT24M",
       "ratings": {
-        "count": 472,
-        "average": 4.6822033
+        "count": 473,
+        "average": 4.682875
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -421,8 +504,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/keep-your-virtual-machines-updated/",
       "length": "PT35M",
       "ratings": {
-        "count": 2671,
-        "average": 4.492325
+        "count": 2673,
+        "average": 4.492705
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1107,8 +1190,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/run-functional-tests-azure-pipelines/",
       "length": "PT1H3M",
       "ratings": {
-        "count": 648,
-        "average": 4.632716
+        "count": 649,
+        "average": 4.631741
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1139,89 +1222,6 @@
       "topics": [
         "Azure",
         "DevOps"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-run-non-functional-tests-azure-pipelines.md",
-      "title": "Run nonfunctional tests in Azure Pipelines",
-      "excerpt": "Run automated load tests by using Apache JMeter, a form of nonfunctional testing, in Azure Pipelines.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-run-non-functional-tests-azure-pipelines/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/run-non-functional-tests-azure-pipelines/",
-      "length": "PT49M",
-      "ratings": {
-        "count": 624,
-        "average": 4.69391
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/azure-devops/run-non-functional-tests-azure-pipelines-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "DevOps"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-run-parallel-tasks-in-azure-batch-with-the-azure-cli.md",
-      "title": "Run parallel tasks in Azure Batch with the Azure CLI",
-      "excerpt": "Find out about the Azure Batch capabilities designed to help you efficiently run large-scale parallel and high-performance computing applications in the cloud.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-run-parallel-tasks-in-azure-batch-with-the-azure-cli/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/run-parallel-tasks-in-azure-batch-with-the-azure-cli/",
-      "length": "PT45M",
-      "ratings": {
-        "count": 902,
-        "average": 4.575388
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/run-parallel-tasks-in-azure-batch-with-the-azure-cli-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
       ]
     }
   ],

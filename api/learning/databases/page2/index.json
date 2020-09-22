@@ -4,6 +4,48 @@
   "page": 2,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-develop-app-that-queries-azure-sql.md",
+      "title": "Develop and configure an ASP.NET application that queries an Azure SQL database",
+      "excerpt": "Create an Azure SQL database to store data for an application, and create an ASP.NET application to query data from the database.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-develop-app-that-queries-azure-sql/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/develop-app-that-queries-azure-sql/",
+      "length": "PT50M",
+      "ratings": {
+        "count": 2481,
+        "average": 4.528416
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/develop-app-that-queries-azure-sql-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Databases"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-access-data-with-cosmos-db-and-sql-api.md",
       "title": "Insert and query data in your Azure Cosmos DB database",
       "excerpt": "Discover the Azure Cosmos DB Data Explorer tool that enables you to add or modify data and to create and run stored procedures.",
@@ -188,8 +230,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/classify-user-feedback-with-the-text-analytics-api/",
       "length": "PT48M",
       "ratings": {
-        "count": 1388,
-        "average": 4.6195965
+        "count": 1389,
+        "average": 4.61987
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -227,8 +269,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/create-cosmos-db-for-scale/",
       "length": "PT35M",
       "ratings": {
-        "count": 3745,
-        "average": 4.6413884
+        "count": 3746,
+        "average": 4.6414843
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -262,8 +304,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/design-a-geographically-distributed-application/",
       "length": "PT34M",
       "ratings": {
-        "count": 544,
-        "average": 4.654412
+        "count": 545,
+        "average": 4.653211
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -299,8 +341,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/store-access-data-cosmos-graph-api/",
       "length": "PT42M",
       "ratings": {
-        "count": 1416,
-        "average": 4.64548
+        "count": 1417,
+        "average": 4.645025
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -820,8 +862,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/distribute-data-globally-with-cosmos-db/",
       "length": "PT31M",
       "ratings": {
-        "count": 1521,
-        "average": 4.607495
+        "count": 1523,
+        "average": 4.606697
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1127,8 +1169,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/secure-your-azure-sql-database/",
       "length": "PT1H7M",
       "ratings": {
-        "count": 3950,
-        "average": 4.532405
+        "count": 3951,
+        "average": 4.532017
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1162,8 +1204,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/store-access-data-cosmos-table-api/",
       "length": "PT29M",
       "ratings": {
-        "count": 1272,
-        "average": 4.6022015
+        "count": 1273,
+        "average": 4.6017284
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1262,7 +1304,7 @@
           "path": "",
           "title": "Manage Azure PaaS resources using automated methods",
           "excerpt": "Explore SQL automation for Azure SQL Database and Open Source databases. Configure elastic jobs and Azure Policy.",
-          "heat": 50,
+          "heat": 110,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
@@ -1408,118 +1450,6 @@
       "excerpt": "Migrate an ASP.NET web application to Azure App Service",
       "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-migrate-an-aspnet-web-application-to-azure-app-service/index.json",
       "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-migrate-an-aspnet-web-application-to-azure-app-service/",
-      "length": "PT1H17M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "topItems": [
-        {
-          "path": "",
-          "title": "Externalize the configuration of an ASP.NET app by using an Azure key vault",
-          "excerpt": "Learn how to use ConfigurationBuilder to dynamically configure an ASP.NET web app to retrieve secrets from an Azure key vault.",
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/aspnet-configurationbuilder-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "Azure",
-            "Security",
-            "Web",
-            "Compute",
-            "Containers",
-            "Mobile"
-          ]
-        },
-        {
-          "path": "",
-          "title": "Implement logging in a .NET Framework ASP.NET web application",
-          "excerpt": "Learn how to implement logging in an ASP.NET web application so you can store log data in Azure Blob storage and incorporate log information into Azure Application Insights performance data.",
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/aspnet-logging-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "Azure",
-            "Web",
-            "Compute",
-            "Containers",
-            "Mobile",
-            "Management Tools"
-          ]
-        },
-        {
-          "path": "",
-          "title": "Improve session scalability in a .NET Framework ASP.NET web application by using Azure Cache for Redis",
-          "excerpt": "Learn how to use Azure Cache for Redis to store session data and improve the scalability of web applications.",
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/aspnet-session-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "Azure",
-            "Web",
-            "Compute",
-            "Containers",
-            "Mobile"
-          ]
-        }
-      ],
-      "size": 3,
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/aspnet-configurationbuilder-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Compute",
-        "Web",
-        "Security",
-        "Databases"
-      ]
-    },
-    {
-      "path": "_learning/collections/microsoft-learn-migrate-an-aspnet-web-application-to-azure-with-visual-studio.md",
-      "title": "Migrate an ASP.NET web application to Azure with Visual Studio",
-      "excerpt": "Migrate an ASP.NET web application to Azure with Visual Studio",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-migrate-an-aspnet-web-application-to-azure-with-visual-studio/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-migrate-an-aspnet-web-application-to-azure-with-visual-studio/",
       "length": "PT1H17M",
       "provider": {
         "name": "Microsoft Learn",

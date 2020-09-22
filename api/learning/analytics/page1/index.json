@@ -4,6 +4,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-integrate-azure-databricks-other-azure-services.md",
+      "title": "Integrate Azure Databricks with other Azure services",
+      "excerpt": "Integrate Azure Databricks with other Azure services",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-integrate-azure-databricks-other-azure-services/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/integrate-azure-databricks-other-azure-services/",
+      "length": "PT33M",
+      "ratings": {
+        "count": 40,
+        "average": 4.675
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 110,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/integrate-azure-databricks-other-azure-services-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Analytics",
+        "AI"
+      ]
+    },
+    {
       "path": "_learning/collections/microsoft-learn-secure-your-cloud-data-in-azure-learning-path.md",
       "title": "Secure your cloud data in Azure learning path",
       "excerpt": "This learning path helps you leverage the built-in Azure services for securing app data, ensuring that only authorized services and clients have access.",
@@ -1489,8 +1532,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/choose-a-messaging-model-in-azure-to-connect-your-services/",
       "length": "PT45M",
       "ratings": {
-        "count": 3039,
-        "average": 4.5830865
+        "count": 3040,
+        "average": 4.583224
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2168,49 +2211,6 @@
         "IoT",
         "Analytics",
         "Storage"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-deep-learning-with-horovod-distributed-training.md",
-      "title": "Deep learning with Horovod for distributed training",
-      "excerpt": "Deep learning with Horovod for distributed training",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-deep-learning-with-horovod-distributed-training/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/deep-learning-with-horovod-distributed-training/",
-      "length": "PT36M",
-      "ratings": {
-        "count": 17,
-        "average": 4.352941
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/deep-learning-with-horovod-distributed-training-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Analytics",
-        "AI"
       ]
     }
   ],

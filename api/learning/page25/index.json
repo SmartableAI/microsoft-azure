@@ -4,6 +4,250 @@
   "page": 25,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-management-fundamentals.md",
+      "title": "Choose the best tool to manage and configure your Azure environment",
+      "excerpt": "Survey the management, administration, and reporting tools for Azure and choose the best one for your technical need.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-management-fundamentals/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/management-fundamentals/",
+      "length": "PT27M",
+      "ratings": {
+        "count": 2,
+        "average": 5.0
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Management Tools"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-merge-conflict-resolution-github.md",
+      "title": "Settle competing commits by using merge conflict resolution on GitHub",
+      "excerpt": "Learn to settle overlapping commits across branches by using merge conflict resolution.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-merge-conflict-resolution-github/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/resolve-merge-conflicts-github/",
+      "length": "PT52M",
+      "ratings": {
+        "count": 86,
+        "average": 4.8139534
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/github/resolve-merge-conflicts-github-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-message-queues-stream-processing.md",
+      "title": "Message queues and stream processing",
+      "excerpt": "Carnegie Mellon University's cloud developer course. The increase of available data has led to the rise of continuous streams of real-time data to process. Learn about different systems and techniques for consuming and processing real-time data streams.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-message-queues-stream-processing/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/cmu-message-queues-streams/",
+      "length": "PT1H2M",
+      "ratings": {
+        "count": 21,
+        "average": 4.857143
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-microservices-architecture.md",
+      "title": "Decompose a monolithic application into a microservices architecture",
+      "excerpt": "Improve development agility, deployment, fault tolerance, and scalability by modernizing your application with a microservices architecture.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-microservices-architecture/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/microservices-architecture/",
+      "length": "PT52M",
+      "ratings": {
+        "count": 273,
+        "average": 4.6227107
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Advanced"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/microservices-architecture-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Compute",
+        "Serverless",
+        "Web"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-microservices-aspnet-core.md",
+      "title": "Create and deploy a cloud-native ASP.NET Core microservice",
+      "excerpt": "This module guides you through containerizing an ASP.NET Core microservice and deploying it to Azure Kubernetes Service.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-microservices-aspnet-core/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/microservices-aspnet-core/",
+      "length": "PT53M",
+      "ratings": {
+        "count": 104,
+        "average": 4.6153846
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/aspnetcore/microservices-aspnet-core-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Containers"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-microservices-devops-aspnet-core.md",
+      "title": "Deploy a cloud-native ASP.NET Core microservice with GitHub Actions",
+      "excerpt": "Implement GitHub Actions to build a container image and deploy to Azure Kubernetes Service.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-microservices-devops-aspnet-core/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/microservices-devops-aspnet-core/",
+      "length": "PT54M",
+      "ratings": {
+        "count": 4,
+        "average": 4.75
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/aspnetcore/microservices-devops-aspnet-core-social.png",
+          "width": 642,
+          "height": 321,
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Containers"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-microservices-resiliency-aspnet-core.md",
       "title": "Implement resiliency in a cloud-native ASP.NET Core microservice",
       "excerpt": "This module guides you through implementing resiliency in an ASP.NET Core microservices app in Azure Kubernetes Service.",
@@ -753,8 +997,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/move-data-with-azure-data-box/",
       "length": "PT25M",
       "ratings": {
-        "count": 400,
-        "average": 4.6175
+        "count": 401,
+        "average": 4.618454
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -984,249 +1228,6 @@
       "topics": [
         "Azure",
         "Analytics"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-perform-machine-learning-with-azure-databricks.md",
-      "title": "Perform machine learning with Azure Databricks",
-      "excerpt": "Perform machine learning with Azure Databricks",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-perform-machine-learning-with-azure-databricks/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/perform-machine-learning-with-azure-databricks/",
-      "length": "PT59M",
-      "ratings": {
-        "count": 16,
-        "average": 4.8125
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/perform-machine-learning-with-azure-databricks-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Analytics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-perform-model-selection-with-hyperparameter-tuning.md",
-      "title": "Perform model selection with hyperparameter tuning",
-      "excerpt": "Perform model selection with hyperparameter tuning",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-perform-model-selection-with-hyperparameter-tuning/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/perform-model-selection-with-hyperparameter-tuning/",
-      "length": "PT33M",
-      "ratings": {
-        "count": 19,
-        "average": 4.736842
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/perform-model-selection-with-hyperparameter-tuning-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Analytics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-perform-zero-etl-analytics-hdinsight-interactive-query.md",
-      "title": "Perform Zero ETL analytics with HDInsight Interactive Query",
-      "excerpt": "Perform Zero ETL analytics with HDInsight Interactive Query",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-perform-zero-etl-analytics-hdinsight-interactive-query/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/perform-zero-etl-analytics-hdinsight-interactive-query/",
-      "length": "PT56M",
-      "ratings": {
-        "count": 95,
-        "average": 4.6210527
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/perform-zero-etl-analytics-with-hdinsights-interactive-query-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Analytics"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-persist-data-ef-core.md",
-      "title": "Persist and retrieve relational data with Entity Framework Core",
-      "excerpt": "This module guides you through creating a data access project, connecting to a relational database, and writing CRUD queries.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-persist-data-ef-core/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/persist-data-ef-core/",
-      "length": "PT1H4M",
-      "ratings": {
-        "count": 916,
-        "average": 4.6670303
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/aspnetcore/persist-data-ef-core-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "DevOps",
-        "Management Tools",
-        "Databases"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-pillars-of-a-great-azure-architecture.md",
-      "title": "Pillars of a great Azure architecture",
-      "excerpt": "You want to build great things on Azure, but you’re not sure exactly what that means. Using key principles throughout your architecture regardless of technology choice, can help you design, build, and continuously improve your architecture.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-pillars-of-a-great-azure-architecture/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/pillars-of-a-great-azure-architecture/",
-      "length": "54 mins",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/pillars-of-a-great-azure-architecture-social.png",
-          "width": 200,
-          "height": 200,
-          "title": "Pillars of a great Azure architecture",
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-pitch-your-product-prototype.md",
-      "title": "Pitch your product prototype",
-      "excerpt": "Write a compelling pitch deck for your product prototype that will resonate with your audience and share the vision of your prototype.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-pitch-your-product-prototype/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/pitching-your-prototype/",
-      "length": "PT44M",
-      "ratings": {
-        "count": 36,
-        "average": 4.7777777
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
       ]
     }
   ],

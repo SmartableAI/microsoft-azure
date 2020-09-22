@@ -4,6 +4,48 @@
   "page": 1,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-manage-azure-paas-resources-using-automated-methods.md",
+      "title": "Manage Azure PaaS resources using automated methods",
+      "excerpt": "Explore SQL automation for Azure SQL Database and Open Source databases. Configure elastic jobs and Azure Policy.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-manage-azure-paas-resources-using-automated-methods/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/manage-azure-paas-resources-using-automated-methods/",
+      "length": "PT34M",
+      "ratings": {
+        "count": 22,
+        "average": 4.7272725
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 110,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Databases"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-intro-to-data-in-azure.md",
       "title": "Core Cloud Services - Azure data storage options",
       "excerpt": "In this module, we'll explore the benefits of Azure data storage services versus on-premises storage.",
@@ -11,8 +53,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/intro-to-data-in-azure/",
       "length": "PT25M",
       "ratings": {
-        "count": 54309,
-        "average": 4.7334514
+        "count": 54315,
+        "average": 4.733407
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -46,8 +88,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/choose-storage-approach-in-azure/",
       "length": "PT30M",
       "ratings": {
-        "count": 10229,
-        "average": 4.6586175
+        "count": 10231,
+        "average": 4.6586843
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2335,8 +2377,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/azure-sql-intro/",
       "length": "PT44M",
       "ratings": {
-        "count": 253,
-        "average": 4.7312255
+        "count": 255,
+        "average": 4.733333
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2447,8 +2489,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/chain-azure-functions-data-using-bindings/",
       "length": "PT1H10M",
       "ratings": {
-        "count": 2663,
-        "average": 4.570785
+        "count": 2664,
+        "average": 4.5709457
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2484,8 +2526,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/upload-download-and-manage-data-with-azure-storage-explorer/",
       "length": "PT37M",
       "ratings": {
-        "count": 1416,
-        "average": 4.612288
+        "count": 1418,
+        "average": 4.612835
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2559,48 +2601,6 @@
       "topics": [
         "Azure",
         "Management Tools",
-        "Databases"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-develop-app-that-queries-azure-sql.md",
-      "title": "Develop and configure an ASP.NET application that queries an Azure SQL database",
-      "excerpt": "Create an Azure SQL database to store data for an application, and create an ASP.NET application to query data from the database.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-develop-app-that-queries-azure-sql/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/develop-app-that-queries-azure-sql/",
-      "length": "PT50M",
-      "ratings": {
-        "count": 2481,
-        "average": 4.528416
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 53,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/develop-app-that-queries-azure-sql-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
         "Databases"
       ]
     }

@@ -4,6 +4,89 @@
   "page": 13,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-automate-model-selection-with-azure-automl.md",
+      "title": "Automate machine learning model selection with Azure Machine Learning",
+      "excerpt": "Learn how to use automated machine learning in Azure Machine Learning to find the best model for your data.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-automate-model-selection-with-azure-automl/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/automate-model-selection-with-azure-automl/",
+      "length": "PT25M",
+      "ratings": {
+        "count": 876,
+        "average": 4.615297
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/automate-model-selection-with-azure-automl-badge-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-azure-architecture-fundamentals.md",
+      "title": "Describe core Azure architectural components",
+      "excerpt": "Learn about Azure Subscriptions, Management Groups, Resource Groups, Resource Manager, Azure Regions, and Availability zones.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-azure-architecture-fundamentals/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/azure-architecture-fundamentals/",
+      "length": "PT34M",
+      "ratings": {
+        "count": 5,
+        "average": 5.0
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/azure-architecture-fundamentals-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Management Tools"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-azure-compute-fundamentals.md",
       "title": "Explore Azure compute services",
       "excerpt": "Learn about the different services that are available in Azure Compute.",
@@ -55,8 +138,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/intro-to-logic-apps/",
       "length": "PT28M",
       "ratings": {
-        "count": 1583,
-        "average": 4.708149
+        "count": 1584,
+        "average": 4.7083335
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -259,8 +342,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/build-a-web-app-with-mean-on-a-linux-vm/",
       "length": "PT42M",
       "ratings": {
-        "count": 1703,
-        "average": 4.566647
+        "count": 1704,
+        "average": 4.566901
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1002,8 +1085,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/distribute-data-globally-with-cosmos-db/",
       "length": "PT31M",
       "ratings": {
-        "count": 1521,
-        "average": 4.607495
+        "count": 1523,
+        "average": 4.606697
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1143,89 +1226,6 @@
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/examine-privacy-compliance-data-protection-standards-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-explore-causes-of-performance-issues.md",
-      "title": "Explore causes of performance issues",
-      "excerpt": "Explore the Query Store for tracking down problematic queries. Understand how SQL Server and Azure SQL manage currency by locking and blocking, or by using snapshots. Implement fragmentation checks and defragmentation.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-explore-causes-of-performance-issues/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/explore-causes-performance-issues/",
-      "length": "PT36M",
-      "ratings": {
-        "count": 31,
-        "average": 4.7419353
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Databases"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-explore-data-ingestion-azure.md",
-      "title": "Explore data ingestion in Azure",
-      "excerpt": "Explore data ingestion in Azure",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-explore-data-ingestion-azure/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/explore-data-ingestion-azure/",
-      "length": "PT23M",
-      "ratings": {
-        "count": 182,
-        "average": 4.6868134
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/explore-data-ingestion-azure-social.png",
           "width": 640,
           "height": 320,
           "isCached": true

@@ -4,6 +4,48 @@
   "page": 11,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-detect-analyze-faces.md",
+      "title": "Detect and analyze faces with the Face service",
+      "excerpt": "Face detection, analysis, and recognition is an important capability for artificial intelligence (AI) solutions. The Face cognitive service in Azure makes it easy integrate these capabilities into your applications.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-detect-analyze-faces/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/detect-analyze-faces/",
+      "length": "PT24M",
+      "ratings": {
+        "count": 197,
+        "average": 4.7411165
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/detect-analyze-faces-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "AI"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-detect-objects-images-custom-vision.md",
       "title": "Detect objects in images with the Custom Vision service",
       "excerpt": "Object detection is a form of computer vision in which artificial intelligence (AI) agents can identify and locate specific types of object in an image or camera feed.",
@@ -43,6 +85,47 @@
       "topics": [
         "Azure",
         "AI"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-examine-components-of-modern-data-warehouse.md",
+      "title": "Examine components of a modern data warehouse",
+      "excerpt": "Examine components of a modern data warehouse",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-examine-components-of-modern-data-warehouse/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/examine-components-of-modern-data-warehouse/",
+      "length": "PT24M",
+      "ratings": {
+        "count": 216,
+        "average": 4.726852
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/examine-components-of-modern-data-warehouse-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
       ]
     },
     {
@@ -377,8 +460,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/intro-to-app-center/",
       "length": "PT49M",
       "ratings": {
-        "count": 261,
-        "average": 4.5249043
+        "count": 262,
+        "average": 4.5267177
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -453,8 +536,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/intro-to-hpc/",
       "length": "PT50M",
       "ratings": {
-        "count": 864,
-        "average": 4.5578704
+        "count": 865,
+        "average": 4.5583816
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -579,8 +662,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/learn-data-science-method/",
       "length": "PT34M",
       "ratings": {
-        "count": 271,
-        "average": 4.7121773
+        "count": 272,
+        "average": 4.7132354
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -942,8 +1025,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/monitor-github-events-with-a-function-triggered-by-a-webhook/",
       "length": "PT53M",
       "ratings": {
-        "count": 1595,
-        "average": 4.625078
+        "count": 1596,
+        "average": 4.6253133
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1027,8 +1110,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/protect-infrastructure-with-site-recovery/",
       "length": "PT59M",
       "ratings": {
-        "count": 745,
-        "average": 4.519463
+        "count": 746,
+        "average": 4.5201073
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1068,8 +1151,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/protect-on-premises-infrastructure-with-azure-site-recovery/",
       "length": "PT33M",
       "ratings": {
-        "count": 800,
-        "average": 4.585
+        "count": 801,
+        "average": 4.585518
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1142,89 +1225,6 @@
         "Azure",
         "Integration",
         "Web"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-query-azure-sql-data-warehouse.md",
-      "title": "Query data in Azure Synapse Analytics",
-      "excerpt": "Learn how to issue simple queries against Azure Synapse Analytics and how to visualize the data in both Excel and Power BI",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-query-azure-sql-data-warehouse/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/query-azure-sql-data-warehouse/",
-      "length": "PT60M",
-      "ratings": {
-        "count": 1381,
-        "average": 4.6321507
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/data-ai/query-azure-sql-data-warehouse-badge-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Analytics"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-query-relational-data-azure.md",
-      "title": "Query relational data in Azure",
-      "excerpt": "Query relational data in Azure",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-query-relational-data-azure/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/query-relational-data/",
-      "length": "PT40M",
-      "ratings": {
-        "count": 214,
-        "average": 4.761682
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/query-relational-data-azure-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
       ]
     }
   ],

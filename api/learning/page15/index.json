@@ -4,6 +4,89 @@
   "page": 15,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-run-non-functional-tests-azure-pipelines.md",
+      "title": "Run nonfunctional tests in Azure Pipelines",
+      "excerpt": "Run automated load tests by using Apache JMeter, a form of nonfunctional testing, in Azure Pipelines.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-run-non-functional-tests-azure-pipelines/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/run-non-functional-tests-azure-pipelines/",
+      "length": "PT49M",
+      "ratings": {
+        "count": 624,
+        "average": 4.69391
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/azure-devops/run-non-functional-tests-azure-pipelines-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "DevOps"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-run-parallel-tasks-in-azure-batch-with-the-azure-cli.md",
+      "title": "Run parallel tasks in Azure Batch with the Azure CLI",
+      "excerpt": "Find out about the Azure Batch capabilities designed to help you efficiently run large-scale parallel and high-performance computing applications in the cloud.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-run-parallel-tasks-in-azure-batch-with-the-azure-cli/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/run-parallel-tasks-in-azure-batch-with-the-azure-cli/",
+      "length": "PT45M",
+      "ratings": {
+        "count": 903,
+        "average": 4.575858
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/run-parallel-tasks-in-azure-batch-with-the-azure-cli-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-search-organize-repository-history-github.md",
       "title": "Search and organize repository history by using GitHub",
       "excerpt": "Learn to search and organize repository history by using filters, blame, and cross-linking on GitHub.",
@@ -176,8 +259,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/secure-your-azure-sql-database/",
       "length": "PT1H7M",
       "ratings": {
-        "count": 3950,
-        "average": 4.532405
+        "count": 3951,
+        "average": 4.532017
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -287,8 +370,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/store-access-data-cosmos-table-api/",
       "length": "PT29M",
       "ratings": {
-        "count": 1272,
-        "average": 4.6022015
+        "count": 1273,
+        "average": 4.6017284
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -330,8 +413,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/train-local-model-with-azure-mls/",
       "length": "PT40M",
       "ratings": {
-        "count": 1387,
-        "average": 4.589762
+        "count": 1389,
+        "average": 4.587473
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -620,7 +703,7 @@
           "path": "",
           "title": "Manage Azure PaaS resources using automated methods",
           "excerpt": "Explore SQL automation for Azure SQL Database and Open Source databases. Configure elastic jobs and Azure Policy.",
-          "heat": 50,
+          "heat": 110,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
@@ -1856,194 +1939,6 @@
           "url": "https://docs.microsoft.com/learn/achievements/introduction-to-ai-technology-social.png",
           "width": 800,
           "height": 400,
-          "isCached": true
-        }
-      ],
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_learning/collections/microsoft-learn-introduction-to-version-control-with-git.md",
-      "title": "Introduction to version control with Git",
-      "excerpt": "Git is the leading version control tool and essential for developers. Learn how to leverage Git to track your own changes and collaborate with others.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-introduction-to-version-control-with-git/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-introduction-to-version-control-with-git/",
-      "length": "PT3H0M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "topItems": [
-        {
-          "path": "",
-          "title": "Introduction to Git",
-          "excerpt": "Use Git to track changes and collaborate with other developers",
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/student-evangelism/introduction-to-git-badge-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "Azure"
-          ]
-        },
-        {
-          "path": "",
-          "title": "Collaborate with Git",
-          "excerpt": "Use Git to track changes to source code and collaborate with other developers",
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/student-evangelism/collaborate-with-git-badge-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "Azure"
-          ]
-        },
-        {
-          "path": "",
-          "title": "Edit code through branching and merging in Git",
-          "excerpt": "Level up your Git knowledge by learning about how to keep code separate using branches and how to merge them later",
-          "heat": 51,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/student-evangelism/branch-merge-git-badge-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "Azure"
-          ]
-        }
-      ],
-      "size": 3,
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/student-evangelism/introduction-to-git-badge-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_learning/collections/microsoft-learn-manage-cloud-resources.md",
-      "title": "Manage cloud resources",
-      "excerpt": "Learn more about how the cloud works by exploring it's underlying technology of virtualization, how to take advantage of the cloud for scale, and how to automate cloud resource management.\nIn this learning path, you will:\n\nLearn about virtualization and how it's used in the cloud\nKnow what VMs and containers are\nUnderstand what scale, load, and common load patterns are\nKnow what autoscaling is and be familiar with autoscaling techniques\nLearn how to automate cloud resource management with scripts\nUnderstand the concept of infrastructure-as-code\n\nIn Partnership with Dr. Majd Sakr and Carnegie Mellon University.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-manage-cloud-resources/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-manage-cloud-resources/",
-      "length": "PT2H31M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "topItems": [
-        {
-          "path": "",
-          "title": "Understand virtualization",
-          "excerpt": "Carnegie Mellon University's Cloud Developer course. Take a deep dive into virtualization by understanding its formal definition as well as the different types of virtual machines.",
-          "heat": 52,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/cmu-cloud-developer/understand-virtualization-social.png",
-              "width": 1000,
-              "height": 500,
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "Azure"
-          ]
-        },
-        {
-          "path": "",
-          "title": "Scale your cloud resources with elasticity",
-          "excerpt": "Cloud Admin course from Dr. Majd Sakr at Carnegie Mellon University. Discover what cloud elasticity means and different ways to scale your cloud resources.",
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/cmu-cloud-admin/cmu-cloud-elasticity-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "Azure"
-          ]
-        },
-        {
-          "path": "",
-          "title": "Automate cloud resource management",
-          "excerpt": "Cloud Admin course from Dr. Majd Sakr at Carnegie Mellon University. Learn about how to automate cloud resource management with scripts and infrastructure-as-code tools like Terraform.",
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/cmu-cloud-admin/cmu-orchestration-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "Azure"
-          ]
-        }
-      ],
-      "size": 3,
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/cmu-cloud-developer/understand-virtualization-social.png",
-          "width": 1000,
-          "height": 500,
           "isCached": true
         }
       ],
