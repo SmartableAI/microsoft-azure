@@ -4,6 +4,49 @@
   "page": 14,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-describe-azure-databricks.md",
+      "title": "Describe Azure Databricks",
+      "excerpt": "Describe Azure Databricks",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-describe-azure-databricks/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/describe-azure-databricks/",
+      "length": "PT53M",
+      "ratings": {
+        "count": 367,
+        "average": 4.4850135
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/describe-azure-databricks-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Analytics",
+        "AI"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-detect-objects-images-custom-vision.md",
       "title": "Detect objects in images with the Custom Vision service",
       "excerpt": "Object detection is a form of computer vision in which artificial intelligence (AI) agents can identify and locate specific types of object in an image or camera feed.",
@@ -11,8 +54,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/detect-objects-images-custom-vision/",
       "length": "PT39M",
       "ratings": {
-        "count": 205,
-        "average": 4.756098
+        "count": 206,
+        "average": 4.757282
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -261,8 +304,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/host-domain-azure-dns/",
       "length": "PT43M",
       "ratings": {
-        "count": 407,
-        "average": 4.7886977
+        "count": 461,
+        "average": 4.8004336
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -421,8 +464,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/implement-compliance-controls-sensitive-data/",
       "length": "PT15M",
       "ratings": {
-        "count": 72,
-        "average": 4.7777777
+        "count": 93,
+        "average": 4.8172045
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -621,8 +664,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/intro-to-site-reliability-engineering/",
       "length": "PT55M",
       "ratings": {
-        "count": 497,
-        "average": 4.724346
+        "count": 498,
+        "average": 4.7249
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -736,8 +779,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/m365-identity-cultural-shift/",
       "length": "PT31M",
       "ratings": {
-        "count": 1077,
-        "average": 4.7307334
+        "count": 1102,
+        "average": 4.7350273
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -778,8 +821,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/manage-build-dependencies/",
       "length": "PT59M",
       "ratings": {
-        "count": 1677,
-        "average": 4.6768036
+        "count": 1678,
+        "average": 4.676996
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -819,8 +862,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/manage-innersource-program-github/",
       "length": "PT50M",
       "ratings": {
-        "count": 86,
-        "average": 4.7325583
+        "count": 87,
+        "average": 4.7356324
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1093,8 +1136,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/monitor-diagnose-and-troubleshoot-azure-storage/",
       "length": "PT41M",
       "ratings": {
-        "count": 1132,
-        "average": 4.5600705
+        "count": 1134,
+        "average": 4.5599647
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1159,47 +1202,6 @@
           "width": 800,
           "height": 400,
           "title": "Predict flight delays by creating a machine learning model in Python",
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-preparing-migrate-sap-workloads-azure.md",
-      "title": "Prepare to migrate SAP workloads to Azure",
-      "excerpt": "This module provides details on the important steps prior to deploying SAP workloads to Azure: project preparation and planning, pilot, non-production, production preparation, go live, and post production.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-preparing-migrate-sap-workloads-azure/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/prepare-migrate-sap-workloads/",
-      "length": "PT1H1M",
-      "ratings": {
-        "count": 205,
-        "average": 4.721951
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Advanced"
-      ],
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/preparing-migrate-sap-workloads-azure-social.png",
-          "width": 800,
-          "height": 400,
           "isCached": true
         }
       ],
