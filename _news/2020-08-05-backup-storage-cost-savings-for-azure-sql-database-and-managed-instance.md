@@ -30,15 +30,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 64
-  - title: "Azure AD authentication features for Azure SQL DB, Azure Synapse Analytics, and Azure SQL Managed Instance "
-    excerpt: "These new preview features extend existing functionality, remove user limitations, and provide customers with greater ease of use when setting up Azure SQL Database or Azure SQL Managed Instance. "
-    publishedDateTime: 2020-09-22T16:05:34Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-ad-authentication-features-for-azure-sql-db-azure-synapse-analytics-and-azure-sql-managed-instance/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 49
   - title: "Configurable backup storage redundancy option for Azure SQL Managed Instance"
     excerpt: "More flexibility and choice for backup storage redundancy with the addition of LRS and ZRS storage options."
     publishedDateTime: 2020-08-05T16:00:04Z

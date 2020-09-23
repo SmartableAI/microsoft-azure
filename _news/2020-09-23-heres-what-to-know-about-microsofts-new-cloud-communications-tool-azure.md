@@ -7,7 +7,7 @@ originalUrl: "https://www.cnbc.com/video/2020/09/22/heres-what-to-know-about-mic
 webUrl: "https://www.cnbc.com/video/2020/09/22/heres-what-to-know-about-microsofts-new-cloud-communications-tool-azure.html"
 type: article
 quality: 76
-heat: 96
+heat: 76
 published: true
 
 provider:
@@ -26,22 +26,6 @@ images:
     width: 1920
     height: 1080
     isCached: true
-
-related:
-  - title: "What's New for Azure at Microsoft's Ignite Event"
-    excerpt: "Microsoft's Azure cloud computing platform was front and center as the company's Ignite developer/IT event kicked off this week."
-    publishedDateTime: 2020-09-22T21:15:00Z
-    webUrl: "https://virtualizationreview.com/articles/2020/09/22/azure-ignite.aspx"
-    type: article
-    provider:
-      name: Virtualization Review
-      domain: virtualizationreview.com
-    quality: 37
-    images:
-      - url: "https://virtualizationreview.com/-/media/ECG/redmondmag/Images/IntroImagesBigSmall/BlackWhiteCloudSmall.jpg"
-        width: 647
-        height: 450
-        isCached: true
 
 secured: "fUhAMm1bSbPBb5sQrhWcaz5Q6Cb3gCQgno2W2OU2yJFOXaDpx9U4VeaY2/cEjDdrXdtV5Xh4DGiGwkGJ+PqdSZBEwz+KmybbzhRiv/KRNcALzYOOK1PycAZUOgGhAG9kUx6PRjmi5+J2T0Auqv3vPy0dIWx9K3Pj3grzQScsRKqQUEVk546Kw5HNDJbwsTscuaPiCgvqgmre3/8/TGHa3nHUpxyi13NPfdHj1PCnmklgw7Ww8IxTfWvEqcbpcqwaGeEkgbnaz/yySEo45mtJTRRi6RWRpaV0YdD8ZWdLd/BF1XTBIUoK/DnXvh8NniKwv0o80o4P/K5Fk9r2VDGmjao1/D4eJJZKZTCCrcYScyc=;zsvBE7IyonKKVyKpeX3mXA=="
 ---
