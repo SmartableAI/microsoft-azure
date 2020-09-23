@@ -1,12 +1,12 @@
 ---
 category: news
 title: "Microsoft adds more devices and services to its Azure Stack hybrid line-up"
-excerpt: "Microsoft Ignite 2020: Mary Jo Foley on Project Cortex, Azure resiliency, Teams, and Edge on Linux Top cloud providers in 2020: AWS, Microsoft Azure, and Google Cloud, hybrid, SaaS players The cloud computing race in 2020 will have a definite multi-cloud spin."
-publishedDateTime: 2020-09-22T15:49:00Z
-originalUrl: "https://www.zdnet.com/index.php/category/2381/index.php/article/microsoft-adds-more-devices-services-to-its-azure-stack-hybrid-line-up/"
-webUrl: "https://www.zdnet.com/index.php/category/2381/index.php/article/microsoft-adds-more-devices-services-to-its-azure-stack-hybrid-line-up/"
-ampWebUrl: "https://www.zdnet.com/index.php/category/2381/index.php/google-amp/article/microsoft-adds-more-devices-services-to-its-azure-stack-hybrid-line-up/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2381/index.php/google-amp/article/microsoft-adds-more-devices-services-to-its-azure-stack-hybrid-line-up/"
+excerpt: "Microsoft is adding three new edge-computing devices and moving ahead, with various Azure-branded services that are part of its hybrid-cloud family."
+publishedDateTime: 2020-09-22T15:00:00Z
+originalUrl: "https://www.zdnet.com/index.php/category/2184/index.php/article/microsoft-adds-more-devices-services-to-its-azure-stack-hybrid-line-up/"
+webUrl: "https://www.zdnet.com/index.php/category/2184/index.php/article/microsoft-adds-more-devices-services-to-its-azure-stack-hybrid-line-up/"
+ampWebUrl: "https://www.zdnet.com/index.php/category/2184/index.php/google-amp/article/microsoft-adds-more-devices-services-to-its-azure-stack-hybrid-line-up/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2184/index.php/google-amp/article/microsoft-adds-more-devices-services-to-its-azure-stack-hybrid-line-up/"
 type: article
 quality: 95
 heat: -1
@@ -171,6 +171,6 @@ related:
       domain: seekingalpha.com
     quality: 14
 
-secured: "qtyGlG9M0pGG19DRMIzAmTMVDiNm0bcUzmNRxAwyZ8rH8dahcUFBuTjSxB8aohVSecOrFEmpSV5lNhse0TxrxrUKwCMzG6FCxk9JFuTBPrDt+8DmueJQM6+JIv1zy7o/KKuhVV+AyWjbXtKhKD4H0y2qXyGpghAueHZ+yNSydhJ4dG2VSNNDKx0imZAeGemNugVDvn9XCMrqHUJIjUJjze65ZKeJ9drsIAKfeW9nVqotYIJhCWauZVN6yNhHySC9HYjANrS3rIIhtdvzpQ05Iq1B/hBLjMk/bE5pF2ReK9vjripHd5GmpF2UzY5MppnqXu+evczKCd0+KOxeBcBTpnUsin76Vyyrl7i1AOKr4ic=;zScHYUbqAJggt5BuXlwvig=="
+secured: "1v9+IO7EWA/1/0wcdkGcylbLg/N++8QDUtpMnQOvSlnVNevxrZYg/Un3BovCuo6OGPjcCJpZ6T0NWOwKVMRUTZnS99nz4vaDKoJ4Oww6hZF00V0ZP/Q6864wD7YTdOnauyZpsUz/CWagVsAzBttgoTYokzMTzTc9FxpLo66tSnir1xxQ+Bu78rO9yFHP7TocK1ZynsXna6zKaD6s5qzK5w3JGJ1Uhp4QB7hz22hMAerGbG1czT84i5oBrSg+1EYk9pfjcop6nz1sElXZ521ddgFOc5YSpV9jCeDm+8h1Ymdn3TiIcBmCemjLq6tzomOKA3g/fHGG0p4GDwVjBRouoc1Ksy/jCdB+QL4wPDPpejc=;AX6pwWhKhB2y7PB8z3+DNw=="
 ---
 

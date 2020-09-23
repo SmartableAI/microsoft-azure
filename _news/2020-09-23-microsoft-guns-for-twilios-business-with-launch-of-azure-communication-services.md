@@ -47,11 +47,11 @@ related:
         height: 683
         isCached: true
   - title: "Microsoft adds more devices and services to its Azure Stack hybrid line-up"
-    excerpt: "Microsoft Ignite 2020: Mary Jo Foley on Project Cortex, Azure resiliency, Teams, and Edge on Linux Top cloud providers in 2020: AWS, Microsoft Azure, and Google Cloud, hybrid, SaaS players The cloud computing race in 2020 will have a definite multi-cloud spin."
-    publishedDateTime: 2020-09-22T15:49:00Z
-    webUrl: "https://www.zdnet.com/index.php/category/2381/index.php/article/microsoft-adds-more-devices-services-to-its-azure-stack-hybrid-line-up/"
-    ampWebUrl: "https://www.zdnet.com/index.php/category/2381/index.php/google-amp/article/microsoft-adds-more-devices-services-to-its-azure-stack-hybrid-line-up/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2381/index.php/google-amp/article/microsoft-adds-more-devices-services-to-its-azure-stack-hybrid-line-up/"
+    excerpt: "Microsoft is adding three new edge-computing devices and moving ahead, with various Azure-branded services that are part of its hybrid-cloud family."
+    publishedDateTime: 2020-09-22T15:00:00Z
+    webUrl: "https://www.zdnet.com/index.php/category/2184/index.php/article/microsoft-adds-more-devices-services-to-its-azure-stack-hybrid-line-up/"
+    ampWebUrl: "https://www.zdnet.com/index.php/category/2184/index.php/google-amp/article/microsoft-adds-more-devices-services-to-its-azure-stack-hybrid-line-up/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2184/index.php/google-amp/article/microsoft-adds-more-devices-services-to-its-azure-stack-hybrid-line-up/"
     type: article
     provider:
       name: ZDNet
@@ -171,6 +171,6 @@ related:
       domain: seekingalpha.com
     quality: 14
 
-secured: "SfWzfAZA35NWJfXV73hN50m8xk8zH/jFnoxnNuetIZ4the10Y5ouiZgxHkLuCLW6aO+9P7sUTn5ETz9maL7nPxjT3WvpTA9wclSLjOPH7KyCauveOo+BA31oH8IVjG2ekhdQBdtMEzHKSNPjbhNsAM9PafsXMFvNuRfKl7llJDIIE+E2ckR+svkRgT1tqwD3+7zRXblmxfJEw9lPwGNEatIrL4G7bLl64Jvpw38Bj+GHjR4AFfBI3S3PWNM835NhRV0WO1b20ijJ2M7voH+uNC/yaQF6UW9b3zpBRCd50LzO2Xn3X9bcMOjEpmDnUHsP8qcdXU7kw/QYyJ+Av0KVzu4Eyo3MPV6aJCJMZHSGLe4=;4EcF6z9I8ZIP+gks8vkHVw=="
+secured: "cbnn8kry3HoX1PxKbBqybEOf3u7Ubhwn1nYwE/Bvze8r0BOrY+e+i9XYWvuHQVpb5n53KW7lal5LrKQqH8dPjMjR8FZCHmrtcFyNYbDLMR6yox8BRfI1uLf2BvNqIqxEIgSjmr2dCpWcMrHUww22qXyRtpVQYdrBWYFS7a39Olql5ZiGDj9y5utuUzkQSbsQdHOvE2KcJd78x7KPcu7jJCbmmqGaAbwXIjIZ3VgfwcAXzV2k61Snr7CmJy104OE/iKPn2Et9/8SoNnLAKgqTOYOYOF2cTRIddOsCgl/Bx06rfni1udzMdZrNCjwapRoGXVWLI3GSip/7NFymjYtVz27nlAIgAajaq91a/3bDbmizwhlzgAPhMTFA13BpczlLyEl+dcgI8SO9WCmJ3apIncJiW5/cc9kx22Tnn0VnWRWXHVWDrRolVUFIpk0nRMFiiKCJjOktqde2Tw0AVOYA6K/Ic3jpA+zZrmM4nGAc3fSkRSVh9+9mjIPsx5VGaKqMk1ABMK4XN+kk3xPLkZM+Zw==;Re7l06A639UvE7r25HRxdw=="
 ---
 
