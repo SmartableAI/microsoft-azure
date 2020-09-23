@@ -85,6 +85,20 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 62
+  - title: "14 Top Azure Announcements From Microsoft Ignite 2020"
+    excerpt: "Microsoft Azure hybrid and multi-cloud solutions in the spotlight at Microsoft Build 2020 include Azure Arc updates, the Azure Certified Device Program, a public preview of Azure Communication Services,"
+    publishedDateTime: 2020-09-22T17:16:00Z
+    webUrl: "https://www.crn.com/slide-shows/cloud/14-top-azure-announcements-from-microsoft-ignite-2020"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 37
+    images:
+      - url: "https://www.crn.com/resources/025f-0ff0d7dce6e1-290de920b9a0-1000/microsoft-azure-sign.jpg"
+        width: 610
+        height: 457
+        isCached: true
 
 secured: "Arc0dpEHRzponE7rzgVONmJBzHiqUH881vRjoYBcj8S0QJKJqcKMZfhxfg3bpDly42QGPPT+jAUnqmLM3THvryxemIqvb3bXAq+WPKfAtmSimyAgQL7tbzExv0yTORT4c+PmqEf3604QMrMxlmsSMQ6Beo5Dkbt/JZIqkwI2+1R0XSvrSG5u6z9zivMZa1vmA4RHORYCcf2ZxB1SgWdVHV0ls1FPxnLaM/X5uy4JOqyQBLuEle7MQcEmksxNq4lV163niiqW4u+zWF0+0SDoV8FGjWdlydQqetJ6WDx2J/6OmOrW6l19eZhlKjIh9rs2Pd9C+xjJYWOwDYCuR3btlgc4ysvHrAGEDiJcjI+f9QkTbd9YtsvU27Rhy1uY9LqjCgk9O9iiG0qC1m9jgKhrA4IoVow88czMlmHeuk6hRv0o7kE4T6WzF7rw9YMbRUoHWgAcNzhWQ1Q5umv4oDGFRrrS/z1O62qe93TC74iJ0fM=;rpGr6Bn746PtgIy1p99M+Q=="
 ---

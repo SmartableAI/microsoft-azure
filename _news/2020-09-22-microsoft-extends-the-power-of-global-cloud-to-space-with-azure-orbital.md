@@ -9,7 +9,7 @@ ampWebUrl: "https://www.neowin.net/amp/microsoft-extends-the-power-of-global-clo
 cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-extends-the-power-of-global-cloud-to-space-with-azure-orbital/"
 type: article
 quality: 97
-heat: 237
+heat: 257
 published: true
 
 provider:
@@ -133,6 +133,20 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/09/33eccaa6-33be-4f9c-af26-ae497b69c520.png"
         width: 1024
         height: 576
+        isCached: true
+  - title: "Microsoft debuts Azure Orbital to power satellite downlinks for space sector clients"
+    excerpt: "Microsoft Corp. is building a global network of antennas co-located with its cloud data centers that will enable satellite operators to download data from orbit more easily. The antennas, or ground stations,"
+    publishedDateTime: 2020-09-22T23:54:00Z
+    webUrl: "https://siliconangle.com/2020/09/22/microsoft-debuts-azure-orbital-power-satellite-downlinks-space-sector-clients/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 30
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/09/unsplash.jpg"
+        width: 750
+        height: 500
         isCached: true
 
 secured: "VcCymnEro82yZFCGDqNczsZhXGtsryurP6M/y7maHqjXyhkfphbeTO+iEmu5Tw6dYz8+fTH6TkNgT5HEsaBKTnCTlv7op6d5lT02xYfYpQHkp6p9YD+C3lFRf6QeS7NP4uBXVM4OZol0qUv5mCRVBT58o5ZvV5dASVXVTn2D0rZiu6vPqp0/9yo8TwjrzfaVRyMFpujNpTb7+tOcnpjGALH7dfojU2F9LUGc5XvoaTOPUVn5zOuM5hHBNmPpN3FLu+yaLTvAnbvXymXWwbcyAfCLy6naABA7s1ZjWIfzKzDu2qGL5SYQlbVMYMp3aCHS1XZulNmpMiSnHVMrg3WtuV5gJotr7zXh3e/3saeg8aiStcW2wym8EIxRp/gS2VpqKFAMvp9JaTTseANp7DlETwTUkdMr4RsYGRbWNM6PDBh5SwWlyuSJNz9KhkxPbcxrTVPO2eQ1WBc7+NO0NCBXfh3rRfpDlHEAsvpLYGbPbeGZezSi5ZlSE3tVjApKR2YtKA461nHYmggDF346dTADSg==;JvVBub9WUOrSSc8ILoXnGw=="

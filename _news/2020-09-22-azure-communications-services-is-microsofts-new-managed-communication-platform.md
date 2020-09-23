@@ -9,8 +9,8 @@ ampWebUrl: "https://www.neowin.net/amp/azure-communications-services-is-microsof
 cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/azure-communications-services-is-microsofts-new-managed-communication-platform/"
 type: article
 quality: 93
-heat: 213
-published: true
+heat: -1
+published: false
 
 provider:
   name: Neowin
@@ -30,6 +30,54 @@ images:
     isCached: true
 
 related:
+  - title: "Daily Crunch: Microsoft launches Azure Communication Services"
+    excerpt: "Microsoft takes on Twilio, Google launches a work-tracking tool and Mirakl raises $300 million. This is your Daily Crunch for September 22, 2020. The big story: Microsoft launches Azure Communication Services Microsoft announced today that it’s ready to compete with Twilio by launching a set"
+    publishedDateTime: 2020-09-22T22:19:00Z
+    webUrl: "https://techcrunch.com/2020/09/22/daily-crunch-microsoft-azure-communication-services/"
+    ampWebUrl: "https://techcrunch.com/2020/09/22/daily-crunch-microsoft-azure-communication-services/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/09/22/daily-crunch-microsoft-azure-communication-services/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 97
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2020/08/GettyImages-1248409190.jpg?w=1024"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "Microsoft adds more devices and services to its Azure Stack hybrid line-up"
+    excerpt: "Microsoft Ignite 2020: Mary Jo Foley on Project Cortex, Azure resiliency, Teams, and Edge on Linux Top cloud providers in 2020: AWS, Microsoft Azure, and Google Cloud, hybrid, SaaS players The cloud computing race in 2020 will have a definite multi-cloud spin."
+    publishedDateTime: 2020-09-22T15:49:00Z
+    webUrl: "https://www.zdnet.com/index.php/category/2381/index.php/article/microsoft-adds-more-devices-services-to-its-azure-stack-hybrid-line-up/"
+    ampWebUrl: "https://www.zdnet.com/index.php/category/2381/index.php/google-amp/article/microsoft-adds-more-devices-services-to-its-azure-stack-hybrid-line-up/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2381/index.php/google-amp/article/microsoft-adds-more-devices-services-to-its-azure-stack-hybrid-line-up/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 95
+    images:
+      - url: "https://zdnet4.cbsistatic.com/hub/i/2020/09/20/95073367-3a24-4e17-8461-3e833f4f66e3/azurestackhybridignite.jpg"
+        width: 980
+        height: 597
+        isCached: true
+  - title: "Microsoft unveils updates across Azure Cognitive Services and Azure Machine Learning"
+    excerpt: "Microsoft rolled out updates across its AI and machine learning cloud portfolio during its Ignite 2020 virtual conference."
+    publishedDateTime: 2020-09-22T16:00:00Z
+    webUrl: "https://venturebeat.com/2020/09/22/microsoft-unveils-updates-across-azure-cognitive-services-and-azure-machine-learning/"
+    ampWebUrl: "https://venturebeat.com/2020/09/22/microsoft-unveils-updates-across-azure-cognitive-services-and-azure-machine-learning/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/22/microsoft-unveils-updates-across-azure-cognitive-services-and-azure-machine-learning/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 90
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2019/11/microsoft-1-e1580261336710.jpg?w=1200&#038;strip=all"
+        width: 1200
+        height: 573
+        isCached: true
   - title: "Build rich communication experiences at scale with Azure Communication Services"
     excerpt: "In this remote-first world, businesses are looking to quickly adapt to customers’ needs and connect with them through engaging communication experiences. Building new communication solutions or integrating them into existing applications can be complex and time-consuming. Often requiring considerable"
     publishedDateTime: 2020-09-22T08:00:31Z
@@ -44,71 +92,79 @@ related:
         width: 848
         height: 385
         isCached: true
-  - title: "Here's what to know about Microsoft's new cloud communications tool Azure"
-    excerpt: "CNBC's Josh Lipton reports on Microsoft's latest cloud communications tool and how it could impact Slack and other work from home beneficiaries."
-    publishedDateTime: 2020-09-22T19:30:00Z
-    webUrl: "https://www.cnbc.com/video/2020/09/22/heres-what-to-know-about-microsofts-new-cloud-communications-tool-azure.html"
+  - title: "Nokia simplifies Microsoft Azure integration"
+    excerpt: "The announcement comes almost a year after Nokia and Microsoft made their first joint solutions public. In November 2019, the two companies announced a strategic collaboration aim"
+    publishedDateTime: 2020-09-16T12:26:00Z
+    webUrl: "https://www.itpro.co.uk/marketing-comms/business-communications/357124/nokia-simplifies-microsoft-azure-integration"
     type: article
     provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 76
+      name: IT Pro
+      domain: itpro.co.uk
+    quality: 77
     images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106712811-16007994871600799484-11536478084-1080pnbcnews.jpg?v=1600799486"
+      - url: "https://media.itpro.co.uk//image/upload/v1594375394/itpro/2020/07/shutterstock_nokia%20data%20centre.jpg"
         width: 1920
         height: 1080
         isCached: true
-  - title: "Microsoft Improves Windows Patch and Azure Service Communications"
-    excerpt: "This notion was explained in a June Microsoft announcement as \"infusing AI into our cloud platform and DevOps process, becoming AIOps.\" Apparently, the AIOps term derives from analyst and ..."
-    publishedDateTime: 2020-08-19T01:09:00Z
-    webUrl: "https://redmondmag.com/articles/2020/08/18/windows-patch-azure-service-communications.aspx"
+  - title: "Microsoft Guns for Twilio's Business With Launch of Azure Communication Services"
+    excerpt: "Microsoft (NASDAQ: MSFT) is continuously upping its game in the public cloud arena, and recently announced the availability of Azure Communications Services. The new product is a library of APIs (an API is an application programming interface, a pre ..."
+    publishedDateTime: 2020-09-22T23:06:00Z
+    webUrl: "https://www.nasdaq.com/articles/microsoft-guns-for-twilios-business-with-launch-of-azure-communication-services-2020-09-22"
+    ampWebUrl: "https://www.nasdaq.com/articles/microsoft-guns-for-twilios-business-with-launch-of-azure-communication-services-2020-09-22?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/microsoft-guns-for-twilios-business-with-launch-of-azure-communication-services-2020-09-22?amp"
     type: article
     provider:
-      name: Redmond Magazine
-      domain: redmondmag.com
-    quality: 37
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 72
+  - title: "TCS Quartz? suite becomes available on Microsoft Azure Blockchain Service"
+    excerpt: "Tata Consultancy Services announced the general availability of its award winning Quartz? suite of blockchain based solutions on Microsoft Azure Blockchain Service. The Quartz suite of products helps organizations set up truly connected ecosystems ..."
+    publishedDateTime: 2020-09-21T07:04:00Z
+    webUrl: "https://www.indiainfoline.com/article/capital-market-corporate-news/tcs-quartz-suite-becomes-available-on-microsoft-azure-blockchain-service-120092100110_1.html"
+    ampWebUrl: "https://www.indiainfoline.com/article-amp/capital-market-corporate-news/tcs-quartz-suite-becomes-available-on-microsoft-azure-blockchain-service-120092100110_1.html"
+    cdnAmpWebUrl: "https://www-indiainfoline-com.cdn.ampproject.org/c/s/www.indiainfoline.com/article-amp/capital-market-corporate-news/tcs-quartz-suite-becomes-available-on-microsoft-azure-blockchain-service-120092100110_1.html"
+    type: article
+    provider:
+      name: India Infoline
+      domain: indiainfoline.com
+    quality: 56
     images:
-      - url: "https://redmondmag.com/-/media/ECG/VirtualizationReview/Images/IntroImages2016/0716vrm_Take5.jpg"
-        width: 647
-        height: 450
+      - url: "https://content.indiainfoline.com/_media/iifl/img/article/default/news.jpg"
+        width: 350
+        height: 233
         isCached: true
-  - title: "What's New for Azure at Microsoft's Ignite Event"
-    excerpt: "Microsoft's Azure cloud computing platform was front and center as the company's Ignite developer/IT event kicked off this week."
-    publishedDateTime: 2020-09-22T21:15:00Z
-    webUrl: "https://virtualizationreview.com/articles/2020/09/22/azure-ignite.aspx"
+  - title: "TCS Quartz suite becomes available on Microsoft Azure Blockchain Service"
+    excerpt: "Tata Consultancy Services announced the general availability of its award winning Quartz suite of blockchain based solutions on Microsoft Azure Blockchain Service. The Quartz suite of products helps organizations set up truly connected ecosystems ..."
+    publishedDateTime: 2020-09-21T21:38:00Z
+    webUrl: "https://www.indiainfoline.com/article/companies-announcements-bse/tcs-quartz%EF%BF%BD-suite-becomes-available-on-microsoft-azure-blockchain-service-120092200062_1.html"
     type: article
     provider:
-      name: Virtualization Review
-      domain: virtualizationreview.com
-    quality: 37
+      name: India Infoline
+      domain: indiainfoline.com
+    quality: 36
     images:
-      - url: "https://virtualizationreview.com/-/media/ECG/redmondmag/Images/IntroImagesBigSmall/BlackWhiteCloudSmall.jpg"
-        width: 647
-        height: 450
-        isCached: true
-  - title: "dotData Now Supports Microsoft Azure Deployment and Is Available on Microsoft Azure Marketplace"
-    excerpt: "Sept. 22, 2020 /PRNewswire/ -- dotData, focused on delivering full-cycle data science automation and operationalization for the enterprise, today announced that dotData Enterprise is now commercially available on Microsoft Azure and accessible through the ..."
-    publishedDateTime: 2020-09-22T12:09:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/dotdata-now-supports-microsoft-azure-deployment-and-is-available-on-microsoft-azure-marketplace-301135412.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 25
-    images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+      - url: "https://www.indiainfoline.com/include/_mod/site/images/currentoffer_mobile.png"
         width: 600
-        height: 315
+        height: 277
         isCached: true
-  - title: "Alaska Communications brings locally hosted Microsoft Azure Services to Alaska"
-    excerpt: "Alaska Communications will bring locally hosted Microsoft Azure Stack Hub cloud services to Alaska. Alaska Communications used Azure Stack Hub to enhance computing by offering greater flexibility and reliability."
-    publishedDateTime: 2020-07-02T08:04:00Z
-    webUrl: "https://www.telecompaper.com/news/alaska-communications-brings-locally-hosted-microsoft-azure-services-to-alaska--1344916"
+  - title: "Microsoft Azure launches services that compete with Twilio, Amazon"
+    excerpt: "Microsoft (MSFT +1.2%) launches Azure Communication Services, which allows developers to add video, voice, chat, and text messaging across applications, websites, and mobile platforms.The tech giant says Communication Services can improve \"customer engagement with Azure AI translation and sentiment analysis for chat messages."
+    publishedDateTime: 2020-09-22T16:57:00Z
+    webUrl: "https://seekingalpha.com/news/3616223-microsoft-azure-launches-services-compete-twilio-amazon"
     type: article
     provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 13
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 17
+  - title: "Viasat integrates its ground service solution with Microsoft's Azure Orbital"
+    excerpt: "Viasat (VSAT -1.1%) enters Microsoft's Azure Orbital ecosystem with its Real-Time Earth (RTE) solutions available as a managed services option to orbital end-users.Viasat's RTE network provides Ground-Station-as-a-Service ((GSaaS)) to the commercial and government earth observation and remote sensing communities on pay-per-use basis."
+    publishedDateTime: 2020-09-22T19:28:00Z
+    webUrl: "https://seekingalpha.com/news/3616273-viasat-integrates-ground-service-solution-microsofts-azure-orbital"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 14
 
 secured: "BtgTqu/5bZ9QnCwmWj1q+EhiMskEewqE/a5V1HmTY1mWMFxewUAqvXD+LrWyZWoTEhZAAlk5oOAUPQawkST4zBGWJRfPlP3b2sZXYq/f6Z1KahpMh1qYL1SRuGLgbNlVzv8VykSSnHsPMVjv/AOySpPH4wvEoXnatBYSNp0mTApGvO8ZNuipt/fMsFknZ0e2pMu/FSsAPwzy7q+nQHAveG6SAVN9mxBIBd+65E0J0LTC6J8b0gNQM3sEZ+VpHN45C3A37hpEM4ZdU/Kp1QduBmvX/koUpZ01PV/etEHMeV478XnaPtlSricgssHexcd1DVutV+ZNRwcY1Rcr/6A2AKyYFTdlJTRYc97cKNR4QpS43pD+ML1MaL0SHCEEfA0Noy6uEdlYwz5Px8tG7UMPSHt/ea9qaFvCd8PWoP6TOD5y13esB3nhramPjebaNa5tRCnqhWpneJA418vbAbMFoFjt33QAhovLkwjOyN5lVVemVGC+pdQ775SUMDeEj/ffCbX70K4aAIrTnWi3m3Bsww==;ab9k1iEepS97NdkpD+jc4g=="
 ---

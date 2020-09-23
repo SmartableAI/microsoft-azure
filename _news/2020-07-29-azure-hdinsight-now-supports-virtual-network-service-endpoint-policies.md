@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-29T16:00:29Z
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-hdinsight-now-supports-virtual-network-service-endpoint-policies/"
 type: article
 quality: 17
-heat: 37
+heat: 17
 published: false
 
 provider:

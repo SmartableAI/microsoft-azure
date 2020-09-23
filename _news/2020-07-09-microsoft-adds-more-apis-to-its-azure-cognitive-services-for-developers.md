@@ -24,90 +24,20 @@ images:
     title: "Microsoft adds more APIs to its Azure Cognitive Services for developers"
 
 related:
-  - title: "Microsoft adds more devices and services to its Azure Stack hybrid line-up"
-    excerpt: "Microsoft Ignite 2020: Mary Jo Foley on Project Cortex, Azure resiliency, Teams, and Edge on Linux Top cloud providers in 2020: AWS, Microsoft Azure, and Google Cloud, hybrid, SaaS players The cloud computing race in 2020 will have a definite multi-cloud spin."
-    publishedDateTime: 2020-09-22T15:49:00Z
-    webUrl: "https://www.zdnet.com/index.php/category/2381/index.php/article/microsoft-adds-more-devices-services-to-its-azure-stack-hybrid-line-up/"
-    ampWebUrl: "https://www.zdnet.com/index.php/category/2381/index.php/google-amp/article/microsoft-adds-more-devices-services-to-its-azure-stack-hybrid-line-up/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2381/index.php/google-amp/article/microsoft-adds-more-devices-services-to-its-azure-stack-hybrid-line-up/"
+  - title: "Azure AI: Build mission-critical AI apps with new Cognitive Services capabilities"
+    excerpt: "As the world adjusts to new ways of working and staying connected, we remain committed to providing Azure AI solutions to help organizations invent with purpose."
+    publishedDateTime: 2020-07-08T08:00:52Z
+    webUrl: "https://azure.microsoft.com/blog/azure-ai-build-missioncritical-ai-apps-with-new-cognitive-services-capabilities/"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 95
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
     images:
-      - url: "https://zdnet4.cbsistatic.com/hub/i/2020/09/20/95073367-3a24-4e17-8461-3e833f4f66e3/azurestackhybridignite.jpg"
-        width: 980
-        height: 597
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/6c142214-bbee-499c-bf07-e565fcbc4294.jpg"
+        width: 1024
+        height: 576
         isCached: true
-  - title: "Microsoft aims to grow Azure's footprint, resiliency with more availability zones and new services"
-    excerpt: "Microsoft officials have been talking up over the past year the company's plans to try to provide greater Azure resiliency and capacity. Despite its moves, market analysis firm Gartner dinged Microsoft in its September 2020 Magic Quadrant for Cloud ..."
-    publishedDateTime: 2020-09-22T15:13:00Z
-    webUrl: "https://www.zdnet.com/article/microsoft-aims-to-grow-azures-footprint-resiliency-with-more-availability-zones-new-services/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-aims-to-grow-azures-footprint-resiliency-with-more-availability-zones-new-services/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-aims-to-grow-azures-footprint-resiliency-with-more-availability-zones-new-services/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 63
-  - title: "Nutanix adds Azure to build out its trinity of multi-cloud services"
-    excerpt: "Reality usually takes a bit of time to catch up with the hype, and multi-cloud operations are no exception. Nutanix was talking about this back in mid-2017, while in 2015 Fujitsu acquired a French company,"
-    publishedDateTime: 2020-09-16T09:54:00Z
-    webUrl: "https://diginomica.com/nutanix-adds-azure-build-out-its-trinity-multi-cloud-services"
-    ampWebUrl: "https://diginomica.com/nutanix-adds-azure-build-out-its-trinity-multi-cloud-services?amp"
-    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/nutanix-adds-azure-build-out-its-trinity-multi-cloud-services?amp"
-    type: article
-    provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 37
-  - title: "14 Top Azure Announcements From Microsoft Ignite 2020"
-    excerpt: "Microsoft Azure hybrid and multi-cloud solutions in the spotlight at Microsoft Build 2020 include Azure Arc updates, the Azure Certified Device Program, a public preview of Azure Communication Services,"
-    publishedDateTime: 2020-09-22T17:16:00Z
-    webUrl: "https://www.crn.com/slide-shows/cloud/14-top-azure-announcements-from-microsoft-ignite-2020"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 37
-    images:
-      - url: "https://www.crn.com/resources/025f-0ff0d7dce6e1-290de920b9a0-1000/microsoft-azure-sign.jpg"
-        width: 610
-        height: 457
-        isCached: true
-  - title: "NCR taps Microsoft Azure to keep IoT edge devices at retail stores, restaurants and banks running"
-    excerpt: "NCR Corporation (NYSE: NCR), a software and services leader for the retail, restaurant and banking industries, today announced a collaboration with Microsoft to power NCR Digital Connected Services (DCS)."
-    publishedDateTime: 2020-09-18T06:52:00Z
-    webUrl: "https://www.finextra.com/pressarticle/84101/ncr-taps-microsoft-azure-to-keep-iot-edge-devices-at-retail-stores-restaurants-and-banks-running"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 24
-    images:
-      - url: "https://www.finextra.com/about/finextra-logo-alt-16-9.jpg"
-        width: 480
-        height: 270
-        isCached: true
-  - title: "Microsoft Azure launches services that compete with Twilio, Amazon"
-    excerpt: "Microsoft (MSFT +1.2%) launches Azure Communication Services, which allows developers to add video, voice, chat, and text messaging across applications, websites, and mobile platforms.The tech giant says Communication Services can improve \"customer engagement with Azure AI translation and sentiment analysis for chat messages."
-    publishedDateTime: 2020-09-22T16:57:00Z
-    webUrl: "https://seekingalpha.com/news/3616223-microsoft-azure-launches-services-compete-twilio-amazon"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 17
-  - title: "Viasat integrates its ground service solution with Microsoft's Azure Orbital"
-    excerpt: "Viasat (VSAT -1.1%) enters Microsoft's Azure Orbital ecosystem with its Real-Time Earth (RTE) solutions available as a managed services option to orbital end-users.Viasat's RTE network provides Ground-Station-as-a-Service ((GSaaS)) to the commercial and government earth observation and remote sensing communities on pay-per-use basis."
-    publishedDateTime: 2020-09-22T19:28:00Z
-    webUrl: "https://seekingalpha.com/news/3616273-viasat-integrates-ground-service-solution-microsofts-azure-orbital"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 14
 
 secured: "zsoVZLTu98ORQPRwU3x2c8hUKx1GICIDhwiUlQWvrdWqHoBANCu74NF8vyA21qng5/lGzj5tX33oSZyivdlwokVcc0Lo8qmmKsnZL83nW+6f81RIy6odLccwED4PMQ3YwvpBP+fft0iix803OJajvv8B2OpCnmw74FnMCo2e5RYxJcQafiN5idZg1uoC6kYshF8oCwSNyDwkMSPhjiUIYujUuQ3qfXItSYea5rXIXlRib1y427lPt8IDQXZC0n0OIf1qLkOIuOtXcyU5PFRxmn1o0efdiCUImgZ4JMlT+w+KyjLGa60DxdTcow9Hf+WNtUV6KFc+osUcTkrDTHZZ+ZC4ALTWq/ZX7DreV/9j/oeKSmDjatyvXEBnVk0DofXFNIC1Kubp4lUtN/f+occd0nQdmgqjGiZmqWx/YlDtuuhnoKOQO+J8xYt/mLhvg/HF9sbsKl7/80qYeXqcAE9a3Y4H+POYgbUkqtSYZD3wrMGyZksiQ1bCgXTrar4uLXR8;TGBrKeCoeEGoA0zi8MEKXA=="
 ---

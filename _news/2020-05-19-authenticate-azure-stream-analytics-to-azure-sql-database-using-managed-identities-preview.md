@@ -6,7 +6,7 @@ publishedDateTime: 2020-05-19T17:00:15Z
 webUrl: "https://azure.microsoft.com/en-us/updates/authenticate-stream-analytics-to-azure-sql-db-using-managed-identities-preview/"
 type: article
 quality: 6
-heat: 26
+heat: 6
 published: false
 
 provider:

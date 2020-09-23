@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-21T16:01:46Z
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-disk-storage-with-azure-private-link-integration-is-in-preview/"
 type: article
 quality: 17
-heat: 37
+heat: 17
 published: false
 
 provider:

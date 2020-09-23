@@ -7,7 +7,7 @@ originalUrl: "https://gulf-times.com/story/672845/Qatar-Financial-Centre-Regulat
 webUrl: "https://gulf-times.com/story/672845/Qatar-Financial-Centre-Regulatory-Authority-moves-to-Microsoft-Cloud"
 type: article
 quality: 22
-heat: 42
+heat: 22
 published: false
 
 provider:

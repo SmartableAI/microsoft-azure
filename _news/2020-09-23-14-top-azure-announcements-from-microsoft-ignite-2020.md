@@ -24,90 +24,81 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft adds more devices and services to its Azure Stack hybrid line-up"
-    excerpt: "Microsoft Ignite 2020: Mary Jo Foley on Project Cortex, Azure resiliency, Teams, and Edge on Linux Top cloud providers in 2020: AWS, Microsoft Azure, and Google Cloud, hybrid, SaaS players The cloud computing race in 2020 will have a definite multi-cloud spin."
-    publishedDateTime: 2020-09-22T15:49:00Z
-    webUrl: "https://www.zdnet.com/index.php/category/2381/index.php/article/microsoft-adds-more-devices-services-to-its-azure-stack-hybrid-line-up/"
-    ampWebUrl: "https://www.zdnet.com/index.php/category/2381/index.php/google-amp/article/microsoft-adds-more-devices-services-to-its-azure-stack-hybrid-line-up/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2381/index.php/google-amp/article/microsoft-adds-more-devices-services-to-its-azure-stack-hybrid-line-up/"
+  - title: "The biggest announcements from Microsoft Build 2020"
+    excerpt: "Faced with the same circumstances, Microsoft chose to do something remarkable with its developer conference: it put on a developer keynote. By subscribing, you are agreeing to receive a daily newsletter from The Verge that highlights top stories of the day,"
+    publishedDateTime: 2020-05-20T12:00:00Z
+    webUrl: "https://www.theverge.com/2020/5/20/21264363/microsoft-build-2020-top-news-annoucements-fluid-office-windows-reunion-edge"
+    ampWebUrl: "https://www.theverge.com/platform/amp/2020/5/20/21264363/microsoft-build-2020-top-news-annoucements-fluid-office-windows-reunion-edge"
+    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/5/20/21264363/microsoft-build-2020-top-news-annoucements-fluid-office-windows-reunion-edge"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 82
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/DLpMOz4jmOEGQJb21UUFtRfAEro=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66819966/twarren_180507_2536_0001.5.jpg"
+        width: 1400
+        height: 933
+        isCached: true
+  - title: "Microsoft Weekly: Build 2020, related updates, and Minecraft at 200 million"
+    excerpt: "Unsurprisingly, Microsoft's Build 2020 virtual event took place this week, where the firm announced new things coming to Azure, Edge, plus much more. Be sure to catch up via our overview."
+    publishedDateTime: 2020-05-24T14:32:00Z
+    webUrl: "https://www.neowin.net/news/microsoft-weekly-build-2020-related-updates-and-minecraft-at-200-million"
+    ampWebUrl: "https://www.neowin.net/amp/microsoft-weekly-build-2020-related-updates-and-minecraft-at-200-million/"
+    cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-weekly-build-2020-related-updates-and-minecraft-at-200-million/"
+    type: article
+    provider:
+      name: Neowin
+      domain: neowin.net
+    quality: 80
+    images:
+      - url: "https://cdn.neow.in/news/images/uploaded/2020/05/1590330181_msw-20200524_story.jpg"
+        width: 760
+        height: 428
+        isCached: true
+  - title: "Microsoft Build brings announcements for cloud data, analytics services, and intersection of the two"
+    excerpt: "A series of announcements around Synapse Analytics, Cosmos DB, Azure Database and SQL Edge make this year's Microsoft Build conference a virtual event revealing actual advances and concrete integrations."
+    publishedDateTime: 2020-05-19T15:00:00Z
+    webUrl: "https://www.zdnet.com/article/microsoft-build-brings-announcements-for-cloud-data-analytics-services-and-intersection-of-the-two/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-build-brings-announcements-for-cloud-data-analytics-services-and-intersection-of-the-two/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-build-brings-announcements-for-cloud-data-analytics-services-and-intersection-of-the-two/"
     type: article
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 95
+    quality: 67
     images:
-      - url: "https://zdnet4.cbsistatic.com/hub/i/2020/09/20/95073367-3a24-4e17-8461-3e833f4f66e3/azurestackhybridignite.jpg"
-        width: 980
-        height: 597
+      - url: "https://zdnet2.cbsistatic.com/hub/i/r/2020/05/13/bf550a82-e9e8-4511-bee9-983426e8fc52/thumbnail/1200x675/aaf99352c82c362f4feba84192e7819c/2555435eba4cad133864-58121622-nvidia-accelerates-apache-spark.jpg"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Microsoft aims to grow Azure's footprint, resiliency with more availability zones and new services"
-    excerpt: "Microsoft officials have been talking up over the past year the company's plans to try to provide greater Azure resiliency and capacity. Despite its moves, market analysis firm Gartner dinged Microsoft in its September 2020 Magic Quadrant for Cloud ..."
-    publishedDateTime: 2020-09-22T15:13:00Z
-    webUrl: "https://www.zdnet.com/article/microsoft-aims-to-grow-azures-footprint-resiliency-with-more-availability-zones-new-services/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-aims-to-grow-azures-footprint-resiliency-with-more-availability-zones-new-services/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-aims-to-grow-azures-footprint-resiliency-with-more-availability-zones-new-services/"
+  - title: "Microsoft Build 2020: Everything announced and then some"
+    excerpt: "Microsoft Build 2020 kicked off Tuesday with a digital event that featured multiple sessions as well as a host of announcements aimed at developers. Simply put, Microsoft Build ha"
+    publishedDateTime: 2020-05-19T17:44:00Z
+    webUrl: "https://www.zdnet.com/article/microsoft-build-2020-everything-announced-and-then-some/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-build-2020-everything-announced-and-then-some/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-build-2020-everything-announced-and-then-some/"
     type: article
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 63
-  - title: "Microsoft adds more APIs to its Azure Cognitive Services for developers"
-    excerpt: "Microsoft Corp. is adding more Cognitive Services application programming interfaces to its Azure cloud platform as it continues to expand its array of artificial intelligence services."
-    publishedDateTime: 2020-07-09T00:07:00Z
-    webUrl: "https://siliconangle.com/2020/07/08/microsoft-adds-apis-azure-cognitive-services-developers/"
+    quality: 62
+  - title: "Microsoft teases Edge for Linux at Build 2020"
+    excerpt: "Edge is already available on iOS, Android, Mac, Windows 10 and Windows 7, and we have known since December 2019 that Microsoft is working on Edge for Linux also, after Microsoft confirmed the development at Ignite 2019."
+    publishedDateTime: 2020-05-20T00:19:00Z
+    webUrl: "https://mspoweruser.com/microsoft-teases-edge-for-linux-at-build-2020/"
+    ampWebUrl: "https://mspoweruser.com/microsoft-teases-edge-for-linux-at-build-2020/amp/"
+    cdnAmpWebUrl: "https://mspoweruser-com.cdn.ampproject.org/c/s/mspoweruser.com/microsoft-teases-edge-for-linux-at-build-2020/amp/"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 37
+      name: MSPoweruser
+      domain: mspoweruser.com
+    quality: 42
     images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/07/16510342158_185f09969a_k.jpg"
-        width: 2048
-        height: 1365
+      - url: "https://mspoweruser.com/wp-content/uploads/2019/11/Microsoft-Edge-logos.jpg"
+        width: 811
+        height: 401
         isCached: true
-  - title: "Nutanix adds Azure to build out its trinity of multi-cloud services"
-    excerpt: "Reality usually takes a bit of time to catch up with the hype, and multi-cloud operations are no exception. Nutanix was talking about this back in mid-2017, while in 2015 Fujitsu acquired a French company,"
-    publishedDateTime: 2020-09-16T09:54:00Z
-    webUrl: "https://diginomica.com/nutanix-adds-azure-build-out-its-trinity-multi-cloud-services"
-    ampWebUrl: "https://diginomica.com/nutanix-adds-azure-build-out-its-trinity-multi-cloud-services?amp"
-    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/nutanix-adds-azure-build-out-its-trinity-multi-cloud-services?amp"
-    type: article
-    provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 37
-  - title: "NCR taps Microsoft Azure to keep IoT edge devices at retail stores, restaurants and banks running"
-    excerpt: "NCR Corporation (NYSE: NCR), a software and services leader for the retail, restaurant and banking industries, today announced a collaboration with Microsoft to power NCR Digital Connected Services (DCS)."
-    publishedDateTime: 2020-09-18T06:52:00Z
-    webUrl: "https://www.finextra.com/pressarticle/84101/ncr-taps-microsoft-azure-to-keep-iot-edge-devices-at-retail-stores-restaurants-and-banks-running"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 24
-    images:
-      - url: "https://www.finextra.com/about/finextra-logo-alt-16-9.jpg"
-        width: 480
-        height: 270
-        isCached: true
-  - title: "Microsoft Azure launches services that compete with Twilio, Amazon"
-    excerpt: "Microsoft (MSFT +1.2%) launches Azure Communication Services, which allows developers to add video, voice, chat, and text messaging across applications, websites, and mobile platforms.The tech giant says Communication Services can improve \"customer engagement with Azure AI translation and sentiment analysis for chat messages."
-    publishedDateTime: 2020-09-22T16:57:00Z
-    webUrl: "https://seekingalpha.com/news/3616223-microsoft-azure-launches-services-compete-twilio-amazon"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 17
-  - title: "Viasat integrates its ground service solution with Microsoft's Azure Orbital"
-    excerpt: "Viasat (VSAT -1.1%) enters Microsoft's Azure Orbital ecosystem with its Real-Time Earth (RTE) solutions available as a managed services option to orbital end-users.Viasat's RTE network provides Ground-Station-as-a-Service ((GSaaS)) to the commercial and government earth observation and remote sensing communities on pay-per-use basis."
-    publishedDateTime: 2020-09-22T19:28:00Z
-    webUrl: "https://seekingalpha.com/news/3616273-viasat-integrates-ground-service-solution-microsofts-azure-orbital"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 14
 
 secured: "97pvhZjwRf1XnfP5YQugK0wa28WH1LhNMzl1qCBLn7y4EN1w9IMfyQJKN37F3P6orY16NYhJ4DuVYBOLKZM2FKo4lWSyu4wQMsDpe++lHhCpWhBpkYN/bJuMutzspGtqhI62R/h12UySJefacB57Kz+8PWCpLp37wM8LwIp7YNBofbHmh81npj4ADwBnBu8shTihlBpifo/UYjq+P+WHX74exBldGiyVn6ZapX3xlkG1m1XlhS4PFzSXlY78z4HAekeDFOCW+xsEQGDr37bls9XNHzX/H7qpvXWsu1vyngPy47oXMWMSuyTPuNA9Ku3GfwEVf4YWJbLmyJeMEN4tAR+FmcNX4yeQyMnp/gIsHUqo7o4JYmhVK61sfUE2IOkUKd+16RVvlMIGFZQE8P3O+P5td2lMCt/9BDqTAxQCVdIWIYwnJJI47HRGASSJ6YjuehbwZ7YCVb30LMsWQajMxb2zJmB7FZp4IGB+hR+2SJYFjAxKll+1aN3Xq+/koDmQmO5cbaira1sCLnML/c0Ceg==;AR23pZ0YxiA8TuaXjKOo1w=="
 ---

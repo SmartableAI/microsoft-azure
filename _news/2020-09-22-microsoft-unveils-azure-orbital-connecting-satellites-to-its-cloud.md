@@ -130,6 +130,20 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Microsoft debuts Azure Orbital to power satellite downlinks for space sector clients"
+    excerpt: "Microsoft Corp. is building a global network of antennas co-located with its cloud data centers that will enable satellite operators to download data from orbit more easily. The antennas, or ground stations,"
+    publishedDateTime: 2020-09-22T23:54:00Z
+    webUrl: "https://siliconangle.com/2020/09/22/microsoft-debuts-azure-orbital-power-satellite-downlinks-space-sector-clients/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 30
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/09/unsplash.jpg"
+        width: 750
+        height: 500
+        isCached: true
 
 secured: "x5rmV4ggrDQb0ruvLb/B+ZnFRxYD/oFIrQCMKQdEn5oeNE1VcuARLDW+4/U5S72b8O5qp0xDdYOpYZ03Hn4Y00Bd6DJ3kUo3DETZtTVJi4VKLWYIrvPP4DC6JfPJM29Jz5vhJrCHs+lltQfyVfNvXoT9eT/LwQkSe45wL2vN9tqzNoOsFVXhhrsSHon3Ke3L4shZ+z0ajQBWQ9Vv2a37t8wuArBbHr08vgXjbQm2U0rbh+RCxzQiQ5xYEXlA2nR5UYFsduSvtLTa2Uy4hUJNHtfXKOuOF1HKzG4O/RGfj1f0g1haSxGLTFqOKlDkfwlxbs2k2FHRb7q54tSOlmqS4ZllaXv5r2fBrcKIFKHVnQiO87vKjoNbNzBbnt2Lonod9hqUrPoMZqYi6kkwPGOtw2zYL+mC+rsbn8RKmm5fD2QdVKUuPgDXo4NXoUhaBplen7qlgeuYn9hArdahmEkVpL5E44IYvmjm6DJpoLgZsJ1PiSwEyOHGHyhu4zRKBKQsBkMmj/OSxVbxpaOepVVXOw==;3Fq0hIbt2BWCNaNqh2ZKKA=="
 ---

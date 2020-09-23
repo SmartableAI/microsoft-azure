@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-15T23:00:32Z
 webUrl: "https://azure.microsoft.com/en-us/updates/ci-recommended-alerts/"
 type: article
 quality: 17
-heat: 57
+heat: 17
 published: false
 
 provider:

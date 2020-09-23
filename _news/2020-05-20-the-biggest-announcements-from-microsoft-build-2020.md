@@ -8,7 +8,7 @@ ampWebUrl: "https://www.theverge.com/platform/amp/2020/5/20/21264363/microsoft-b
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/5/20/21264363/microsoft-build-2020-top-news-annoucements-fluid-office-windows-reunion-edge"
 type: article
 quality: 82
-heat: 162
+heat: 182
 published: true
 
 provider:
@@ -88,6 +88,20 @@ related:
       - url: "https://mspoweruser.com/wp-content/uploads/2019/11/Microsoft-Edge-logos.jpg"
         width: 811
         height: 401
+        isCached: true
+  - title: "14 Top Azure Announcements From Microsoft Ignite 2020"
+    excerpt: "Microsoft Azure hybrid and multi-cloud solutions in the spotlight at Microsoft Build 2020 include Azure Arc updates, the Azure Certified Device Program, a public preview of Azure Communication Services,"
+    publishedDateTime: 2020-09-22T17:16:00Z
+    webUrl: "https://www.crn.com/slide-shows/cloud/14-top-azure-announcements-from-microsoft-ignite-2020"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 37
+    images:
+      - url: "https://www.crn.com/resources/025f-0ff0d7dce6e1-290de920b9a0-1000/microsoft-azure-sign.jpg"
+        width: 610
+        height: 457
         isCached: true
 
 secured: "aApjqfY84klgPlX1XBZJYHkesfOXoCaLh4+UlKNT5OoYOJSoabiyaZPiEw4Jrat3JEvOnqOrVGUjRwD/WQm9fRKoVnE6JvBNEoKi14vUUllIH/FD3ViVYUO88ZHlrqCVodOFkrS42wab0Qs7g8yOccFA1OAqlF0wPza7XO6aCKlL6irwhfyhSkfLV9pbUxxAYdVPkr6eezGpP5oIPBTdjjFi1gr/hTuSkbFaP7paIisXVR0de8+GqH5yqbw+xs0ZNbuqgk0mej2sjRiogmQEJw9HndhJuriQubttsQnFifb9x2JyMHkwrVWjCN4T+7xv;FLAD+Z6/DB0Lf1bXya3jpw=="
