@@ -4,6 +4,47 @@
   "page": 8,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-data-engineering-processes.md",
+      "title": "Identify the tasks of a data engineer in a cloud-hosted architecture",
+      "excerpt": "Learn about the responsibilities of a data engineer, how they relate to the jobs of other data and AI roles, and explore common data engineering practices.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-data-engineering-processes/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/data-engineering-processes/",
+      "length": "PT25M",
+      "ratings": {
+        "count": 4054,
+        "average": 4.7030096
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 58,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/data-ai/data-engineering-processes-badge-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-deploy-run-container-app-service.md",
       "title": "Deploy and run a containerized web app with Azure App Service",
       "excerpt": "Discover how to create a Docker image and store it in the Azure Container Registry, then use Azure App Service to deploy a web application based on the image.",
@@ -11,8 +52,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/deploy-run-container-app-service/",
       "length": "PT46M",
       "ratings": {
-        "count": 3765,
-        "average": 4.624701
+        "count": 3766,
+        "average": 4.624535
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -55,8 +96,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/design-ip-addressing-for-azure/",
       "length": "PT37M",
       "ratings": {
-        "count": 1183,
-        "average": 4.7295012
+        "count": 1184,
+        "average": 4.7297297
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -97,8 +138,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/design-monitoring-strategy-on-azure/",
       "length": "PT57M",
       "ratings": {
-        "count": 1306,
-        "average": 4.5765696
+        "count": 1307,
+        "average": 4.576894
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -141,8 +182,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/explore-core-data-concepts/",
       "length": "PT25M",
       "ratings": {
-        "count": 831,
-        "average": 4.8327317
+        "count": 833,
+        "average": 4.833133
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -225,8 +266,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/intro-to-azure-kubernetes-service/",
       "length": "PT25M",
       "ratings": {
-        "count": 3300,
-        "average": 4.60697
+        "count": 3301,
+        "average": 4.6070886
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -394,8 +435,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/m365-identity-overview/",
       "length": "PT15M",
       "ratings": {
-        "count": 2380,
-        "average": 4.7365546
+        "count": 2439,
+        "average": 4.7355475
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -436,8 +477,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/manage-subscription-access-azure-rbac/",
       "length": "PT21M",
       "ratings": {
-        "count": 3345,
-        "average": 4.743199
+        "count": 3493,
+        "average": 4.7446322
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -470,8 +511,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/upload-download-and-manage-data-with-azure-storage-explorer/",
       "length": "PT37M",
       "ratings": {
-        "count": 1425,
-        "average": 4.614035
+        "count": 1426,
+        "average": 4.614306
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -587,8 +628,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/analyze-infrastructure-with-azure-monitor-logs/",
       "length": "PT36M",
       "ratings": {
-        "count": 2283,
-        "average": 4.673675
+        "count": 2314,
+        "average": 4.6754537
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -671,8 +712,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/build-app-with-scale-sets/",
       "length": "PT57M",
       "ratings": {
-        "count": 2123,
-        "average": 4.6476684
+        "count": 2177,
+        "average": 4.6508956
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -713,8 +754,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/build-azure-vm-templates/",
       "length": "PT37M",
       "ratings": {
-        "count": 4274,
-        "average": 4.585868
+        "count": 4351,
+        "average": 4.587451
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -748,8 +789,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/choose-the-right-disk-storage-for-vm-workload/",
       "length": "PT24M",
       "ratings": {
-        "count": 1597,
-        "average": 4.6624923
+        "count": 1598,
+        "average": 4.6620774
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -790,8 +831,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/control-network-traffic-flow-with-routes/",
       "length": "PT50M",
       "ratings": {
-        "count": 1684,
-        "average": 4.631235
+        "count": 1685,
+        "average": 4.6308603
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -833,8 +874,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/create-a-build-pipeline/",
       "length": "PT1H20M",
       "ratings": {
-        "count": 4741,
-        "average": 4.740561
+        "count": 4742,
+        "average": 4.740405
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -915,8 +956,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/explore-roles-responsibilities-world-of-data/",
       "length": "PT17M",
       "ratings": {
-        "count": 643,
-        "average": 4.794712
+        "count": 644,
+        "average": 4.795031
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -956,8 +997,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/integrate-vnets-with-vnet-peering/",
       "length": "PT42M",
       "ratings": {
-        "count": 2466,
-        "average": 4.719789
+        "count": 2469,
+        "average": 4.7197247
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -998,8 +1039,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/intro-to-azure-machine-learning-service/",
       "length": "PT40M",
       "ratings": {
-        "count": 2082,
-        "average": 4.611431
+        "count": 2083,
+        "average": 4.611138
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1039,8 +1080,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/introduction-to-github/",
       "length": "PT1H12M",
       "ratings": {
-        "count": 330,
-        "average": 4.730303
+        "count": 331,
+        "average": 4.7280965
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1114,8 +1155,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/run-docker-with-azure-container-instances/",
       "length": "PT48M",
       "ratings": {
-        "count": 2891,
-        "average": 4.6530614
+        "count": 2929,
+        "average": 4.652441
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1217,48 +1258,6 @@
       "topics": [
         "Azure",
         "Storage"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-troubleshoot-azure-network-infrastructure.md",
-      "title": "Monitor and troubleshoot your end-to-end Azure network infrastructure by using network monitoring tools",
-      "excerpt": "Learn how to investigate and diagnose problems in your Azure virtual networks by using Network Watcher and other tools.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-troubleshoot-azure-network-infrastructure/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/troubleshoot-azure-network-infrastructure/",
-      "length": "PT37M",
-      "ratings": {
-        "count": 1986,
-        "average": 4.574018
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 57,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/troubleshoot-azure-network-infrastructure-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Networking"
       ]
     }
   ],
