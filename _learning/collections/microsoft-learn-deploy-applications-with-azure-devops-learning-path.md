@@ -4,7 +4,7 @@ excerpt: "Learn how to configure release pipelines that continuously build, test
 type: collection
 price: Free
 length: PT8H51M
-heat: 62
+heat: 61
 
 provider:
   name: Microsoft Learn
