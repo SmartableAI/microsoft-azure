@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-10T16:00:17Z
 webUrl: "https://azure.microsoft.com/en-us/updates/data-encryption-with-customermanaged-keys-for-azure-database-for-mysql-in-preview/"
 type: article
 quality: 17
-heat: 17
+heat: 117
 published: false
 
 provider:

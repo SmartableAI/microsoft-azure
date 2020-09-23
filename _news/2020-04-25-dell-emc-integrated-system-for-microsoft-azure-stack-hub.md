@@ -6,7 +6,7 @@ publishedDateTime: 2020-04-25T23:05:00Z
 webUrl: "https://www.crn.com/2020/04/24/dell-emc-integrated-system-for-microsoft-azure-stack-hub/4rB6NFMxtoUOqC8jADm48/index.html"
 type: article
 quality: 37
-heat: 37
+heat: 97
 published: false
 
 provider:

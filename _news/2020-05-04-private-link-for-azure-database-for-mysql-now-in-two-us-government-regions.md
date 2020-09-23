@@ -6,7 +6,7 @@ publishedDateTime: 2020-05-04T18:00:17Z
 webUrl: "https://azure.microsoft.com/en-us/updates/private-link-for-azure-database-for-mysql-in-usgov/"
 type: article
 quality: 15
-heat: 15
+heat: 55
 published: false
 
 provider:

@@ -6,7 +6,7 @@ publishedDateTime: 2020-05-13T21:23:00Z
 webUrl: "https://siliconangle.com/2020/05/13/cloud-is-indispensable-in-covid-19-era-as-analysts-kick-off-aws-summit-2020-coverage-awssummit/"
 type: article
 quality: 17
-heat: 17
+heat: 57
 published: false
 
 provider:
