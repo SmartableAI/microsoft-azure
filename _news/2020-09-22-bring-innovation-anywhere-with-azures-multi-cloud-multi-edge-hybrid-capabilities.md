@@ -37,6 +37,24 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 84
+  - title: "Gain IT efficiency for Windows Server with new Azure innovation"
+    excerpt: "Today, we're sharing new capabilities that continue to make Azure the best place to run Windows Server apps."
+    publishedDateTime: 2020-09-23T08:00:12Z
+    webUrl: "https://azure.microsoft.com/blog/gain-it-efficiency-for-windows-server-with-new-azure-innovation/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 69
+  - title: "Unlock cost savings and maximize value with new Azure infrastructure innovation"
+    excerpt: "Organizations including ASOS, Keiser University, and Manulife trust and build services on Azure to run their business-critical workloads and support their customers across the world. It’s customers such as these that fuel our desire to innovate."
+    publishedDateTime: 2020-09-23T08:00:12Z
+    webUrl: "https://azure.microsoft.com/blog/unlock-cost-savings-and-maximize-value-with-new-azure-infrastructure-innovation/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 63
 
 secured: "AtwDleWFqZXVQqr5g3hz6Y3a/LPzgskbSwSRlB3S3OnuQ7chdKuFd7szrenmS4uM9LrutRIc+0DdmvLhkpKdqQ+2cxEXoU3VsrbcAF8p3BPjpyM23njO0iGugwoKY3o5gCquSubjid5KAQ2BNNzAhviuwc56SAr5l8w61/dxbf9J/HHF/n3qQl6xgkE5tZE1x+UM3RBKAD3STfU6MTjZMTwwvXwJcg26fMoHQrq1MwrVT4h+a/xDnE1BhR2OQFP9LRjZV0+cmXbVM7PzL8yO+sLkIKXtVUkwHV7H/26EA4D3lJMqXyujL9oeGfSjpT7PfjFs23zTTYV0KxSzbivQe5qnx1H3J5K4nFNYaTIusWc=;uEoilQIRxBRXoJv47BiY9g=="
 ---
