@@ -1,26 +1,26 @@
 ---
 category: news
-title: "Microsoft debuts Azure Orbital to power satellite downlinks for space sector clients"
-excerpt: "Microsoft Corp. is building a global network of antennas co-located with its cloud data centers that will enable satellite operators to download data from orbit more easily. The antennas, or ground stations,"
-publishedDateTime: 2020-09-22T23:54:00Z
-originalUrl: "https://siliconangle.com/2020/09/22/microsoft-debuts-azure-orbital-power-satellite-downlinks-space-sector-clients/"
-webUrl: "https://siliconangle.com/2020/09/22/microsoft-debuts-azure-orbital-power-satellite-downlinks-space-sector-clients/"
+title: "Microsoft's Low-Code Power Apps Leans on Azure Cloud"
+excerpt: "The Azure cloud computing platform is dominating news coming out of the ongoing Microsoft Ignite 2020 developer/IT pro event, even extending to low-code application development with the company's Power Apps offering."
+publishedDateTime: 2020-09-23T19:26:00Z
+originalUrl: "https://virtualizationreview.com/articles/2020/09/23/power-apps-azure.aspx"
+webUrl: "https://virtualizationreview.com/articles/2020/09/23/power-apps-azure.aspx"
 type: article
-quality: 30
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: SiliconANGLE
-  domain: siliconangle.com
+  name: Virtualization Review
+  domain: virtualizationreview.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/09/unsplash.jpg"
-    width: 750
-    height: 500
+  - url: "https://virtualizationreview.com/-/media/ECG/VirtualizationReview/Images/IntroImages2019/BlocksColorsPink.jpg"
+    width: 647
+    height: 450
     isCached: true
 
 related:
@@ -143,20 +143,6 @@ related:
         width: 879
         height: 496
         isCached: true
-  - title: "Microsoft's Low-Code Power Apps Leans on Azure Cloud"
-    excerpt: "The Azure cloud computing platform is dominating news coming out of the ongoing Microsoft Ignite 2020 developer/IT pro event, even extending to low-code application development with the company's Power Apps offering."
-    publishedDateTime: 2020-09-23T19:26:00Z
-    webUrl: "https://virtualizationreview.com/articles/2020/09/23/power-apps-azure.aspx"
-    type: article
-    provider:
-      name: Virtualization Review
-      domain: virtualizationreview.com
-    quality: 37
-    images:
-      - url: "https://virtualizationreview.com/-/media/ECG/VirtualizationReview/Images/IntroImages2019/BlocksColorsPink.jpg"
-        width: 647
-        height: 450
-        isCached: true
   - title: "Microsoft expands Azure Arc’s hybrid cloud capabilities for better communications"
     excerpt: "Microsoft Corp. said today at its Ignite 2020 virtual conference that it’s extending the hybrid cloud capabilities of its Azure cloud platform to make it easier for customers to run their ..."
     publishedDateTime: 2020-09-22T15:21:00Z
@@ -171,7 +157,21 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Microsoft debuts Azure Orbital to power satellite downlinks for space sector clients"
+    excerpt: "Microsoft Corp. is building a global network of antennas co-located with its cloud data centers that will enable satellite operators to download data from orbit more easily. The antennas, or ground stations,"
+    publishedDateTime: 2020-09-22T23:54:00Z
+    webUrl: "https://siliconangle.com/2020/09/22/microsoft-debuts-azure-orbital-power-satellite-downlinks-space-sector-clients/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 30
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/09/unsplash.jpg"
+        width: 750
+        height: 500
+        isCached: true
 
-secured: "CZgYyruPjaD/w28WcSoeSaa+ZT8+u/pCJ45e46d4sJbVpSSaBvn54G4hYDnobEwHqrqFnXKC1qoW1YjAu1ruOW3TsR4Y1QeRpw0DGCoRGEnynQivcvbLyiOuxjygrU8UUmnhvYGe58GmkVZGx/OL0Oy4COsQj39CRpC/5XPJKWa5jVkH6hPwR5M89NDpww2yjVTdTEcvcFjnbduET7takv9kida3LQ86uRv4RkNwiCE/lzqqzoPC+9yDu8domWUAzzZNW5++QYAcdodMnoCYmeLXewUpQ5OsGU9MsWsniEm0WeEuYnhhVQF7aLsu/2jsZYbqk3sa1Ti/JAWht7df2Jfv/Lof6I5K73FIk3PMY2ErYZ8q4MHmJo7zLC3ZPC+EjqnAXO8HMPlKJRlLDqx9uPWgXxAwTtUAf9pLK7bdVQxpS0lnbFzTB9zJFLuFZEIpSX4NZGXCloRl6onsG3Byt48HUQOyEwESjZF49hX3VLl+i2nK2St4rPpP9PXFTdmwfRVmJecNW1uA245iT3coUw==;RnKxlN0hzWL0yRDN0jO8hg=="
+secured: "TvPP7GkrRbcn24++z5TxGMWhOUijN3rgoWvBXkqDOGU2SKwMfzqUdyeR9V/ISPqaWAPe9SbfnBLxRnsGkueAWB2OhtXzyuw1SVKKxPkWe34Uo/LQLRNxBZj16/6yXo385hasv989QO3HocMRrILVsTE7NXSGU3x9t1POoFXklF/D5tFAtXnZPWGch5dtiGNQzXVU26/LLLkSmEh3q1ssbernkbCSJxu50/VXpW0/uwH+iHfeXGIx6cd4co1T5ltWx4J9mVDmvB37MmNsJn56hWWrlxFO1yeFUBqLA1KQRvq/mxulw6lmwm34FQCzgNPSXYWMnC0v8Jr+dikHwLN1hU7+uR4dlZ5mCHdVXmH0xOI=;PQXxjaHgLcvV4QUZ7x/0ig=="
 ---
 

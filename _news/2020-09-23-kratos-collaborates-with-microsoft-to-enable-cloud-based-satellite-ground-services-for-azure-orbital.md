@@ -133,6 +133,20 @@ related:
         width: 879
         height: 496
         isCached: true
+  - title: "Microsoft's Low-Code Power Apps Leans on Azure Cloud"
+    excerpt: "The Azure cloud computing platform is dominating news coming out of the ongoing Microsoft Ignite 2020 developer/IT pro event, even extending to low-code application development with the company's Power Apps offering."
+    publishedDateTime: 2020-09-23T19:26:00Z
+    webUrl: "https://virtualizationreview.com/articles/2020/09/23/power-apps-azure.aspx"
+    type: article
+    provider:
+      name: Virtualization Review
+      domain: virtualizationreview.com
+    quality: 37
+    images:
+      - url: "https://virtualizationreview.com/-/media/ECG/VirtualizationReview/Images/IntroImages2019/BlocksColorsPink.jpg"
+        width: 647
+        height: 450
+        isCached: true
   - title: "Microsoft expands Azure Arc’s hybrid cloud capabilities for better communications"
     excerpt: "Microsoft Corp. said today at its Ignite 2020 virtual conference that it’s extending the hybrid cloud capabilities of its Azure cloud platform to make it easier for customers to run their ..."
     publishedDateTime: 2020-09-22T15:21:00Z
