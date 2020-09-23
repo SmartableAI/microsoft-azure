@@ -4,47 +4,6 @@
   "page": 14,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-cmu-virtualization.md",
-      "title": "Understand virtualization",
-      "excerpt": "Carnegie Mellon University's Cloud Developer course. Take a deep dive into virtualization by understanding its formal definition as well as the different types of virtual machines.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-cmu-virtualization/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/cmu-virtualization-developer/",
-      "length": "PT21M",
-      "ratings": {
-        "count": 60,
-        "average": 4.5666666
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/cmu-cloud-developer/understand-virtualization-social.png",
-          "width": 1000,
-          "height": 500,
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-communicate-using-markdown.md",
       "title": "Communicate effectively on GitHub by using Markdown",
       "excerpt": "Learn to use Markdown to communicate with brevity, clarity, and expression.",
@@ -170,8 +129,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/create-nodejs-project-dependencies/",
       "length": "PT25M",
       "ratings": {
-        "count": 187,
-        "average": 4.780749
+        "count": 188,
+        "average": 4.7819147
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -211,8 +170,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/deploy-azure-sql-database/",
       "length": "PT48M",
       "ratings": {
-        "count": 328,
-        "average": 4.8231707
+        "count": 359,
+        "average": 4.821727
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -253,8 +212,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/deploy-sql-server-virtual-machine/",
       "length": "PT60M",
       "ratings": {
-        "count": 480,
-        "average": 4.8145833
+        "count": 513,
+        "average": 4.810916
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -380,8 +339,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/explore-data-storage-processing-azure/",
       "length": "PT24M",
       "ratings": {
-        "count": 165,
-        "average": 4.6848483
+        "count": 166,
+        "average": 4.686747
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -463,8 +422,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/explore-provision-deploy-relational-database-offerings-azure/",
       "length": "PT38M",
       "ratings": {
-        "count": 185,
-        "average": 4.816216
+        "count": 186,
+        "average": 4.8172045
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -504,8 +463,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/expose-hybrid-services-with-azure-relay/",
       "length": "PT44M",
       "ratings": {
-        "count": 205,
-        "average": 4.634146
+        "count": 206,
+        "average": 4.6359224
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -588,8 +547,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/host-domain-azure-dns/",
       "length": "PT43M",
       "ratings": {
-        "count": 640,
-        "average": 4.8140626
+        "count": 667,
+        "average": 4.8155923
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -748,8 +707,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/implement-compliance-controls-sensitive-data/",
       "length": "PT15M",
       "ratings": {
-        "count": 156,
-        "average": 4.8076925
+        "count": 170,
+        "average": 4.7941175
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -947,8 +906,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/introduction-azure-sap-workloads/",
       "length": "PT50M",
       "ratings": {
-        "count": 376,
-        "average": 4.819149
+        "count": 377,
+        "average": 4.816976
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1029,8 +988,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/m365-identity-cultural-shift/",
       "length": "PT31M",
       "ratings": {
-        "count": 1173,
-        "average": 4.73572
+        "count": 1186,
+        "average": 4.736931
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1071,8 +1030,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/manage-build-dependencies/",
       "length": "PT59M",
       "ratings": {
-        "count": 1678,
-        "average": 4.676996
+        "count": 1679,
+        "average": 4.6759977
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1217,6 +1176,47 @@
       "price": "Free",
       "topics": [
         "DevOps"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-migrate-repository-github.md",
+      "title": "Migrate your repository by using GitHub best practices",
+      "excerpt": "Learn to move your existing project to GitHub from a legacy version control system.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-migrate-repository-github/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/migrate-repository-github/",
+      "length": "PT43M",
+      "ratings": {
+        "count": 134,
+        "average": 4.641791
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/github/migrate-repository-github-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
       ]
     }
   ],
