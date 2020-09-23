@@ -107,40 +107,6 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-identity-users-groups-approles.md",
-      "title": "Work with users, groups, and roles in custom apps and APIs",
-      "excerpt": "In this module, you’ll learn how to use both Azure AD Groups and Application Roles to provide fine grained access control to an application.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-identity-users-groups-approles/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/identity-users-groups-approles/",
-      "length": "PT1H13M",
-      "ratings": {
-        "count": 73,
-        "average": 4.7260275
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 113,
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Identity"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-introduction-to-security.md",
       "title": "Security, responsibility, and trust in Azure",
       "excerpt": "Discuss the basic concepts for protecting your infrastructure and data when you work in the cloud. Understand what responsibilities are yours and what Azure takes care of for you.",
@@ -148,8 +114,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/intro-to-security-in-azure/",
       "length": "PT1H16M",
       "ratings": {
-        "count": 44002,
-        "average": 4.7027183
+        "count": 44014,
+        "average": 4.7027535
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -919,8 +885,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/create-users-and-groups-in-azure-active-directory/",
       "length": "PT41M",
       "ratings": {
-        "count": 2399,
-        "average": 4.6986246
+        "count": 2404,
+        "average": 4.699251
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -961,8 +927,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/azure-well-architected-security/",
       "length": "PT1H2M",
       "ratings": {
-        "count": 2065,
-        "average": 4.702179
+        "count": 2066,
+        "average": 4.7023234
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1231,8 +1197,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/manage-users-and-groups-in-aad/",
       "length": "PT50M",
       "ratings": {
-        "count": 2876,
-        "average": 4.6714187
+        "count": 2879,
+        "average": 4.671761
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1273,8 +1239,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/intro-to-azure-ad/",
       "length": "PT27M",
       "ratings": {
-        "count": 1453,
-        "average": 4.6799726
+        "count": 1458,
+        "average": 4.68107
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1663,8 +1629,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/allow-users-reset-their-password/",
       "length": "PT31M",
       "ratings": {
-        "count": 1521,
-        "average": 4.6936226
+        "count": 1525,
+        "average": 4.6937704
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1831,8 +1797,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/secure-azure-resources-with-rbac/",
       "length": "PT37M",
       "ratings": {
-        "count": 4591,
-        "average": 4.6434326
+        "count": 4592,
+        "average": 4.6435103
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1866,8 +1832,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/m365-identity-overview/",
       "length": "PT15M",
       "ratings": {
-        "count": 2543,
-        "average": 4.7333856
+        "count": 2589,
+        "average": 4.7342606
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1908,8 +1874,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/manage-subscription-access-azure-rbac/",
       "length": "PT21M",
       "ratings": {
-        "count": 3801,
-        "average": 4.744278
+        "count": 3950,
+        "average": 4.7473416
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1942,8 +1908,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/describe-identity-access-management-capabilities-of-microsoft-365/",
       "length": "PT29M",
       "ratings": {
-        "count": 185,
-        "average": 4.7405405
+        "count": 186,
+        "average": 4.7419353
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2026,8 +1992,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/secure-aad-users-with-mfa/",
       "length": "PT38M",
       "ratings": {
-        "count": 1291,
-        "average": 4.681642
+        "count": 1293,
+        "average": 4.6821346
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2130,6 +2096,40 @@
           "isCached": true
         }
       ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Identity"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-identity-users-groups-approles.md",
+      "title": "Work with users, groups, and roles in custom apps and APIs",
+      "excerpt": "In this module, you’ll learn how to use both Azure AD Groups and Application Roles to provide fine grained access control to an application.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-identity-users-groups-approles/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/identity-users-groups-approles/",
+      "length": "PT1H13M",
+      "ratings": {
+        "count": 73,
+        "average": 4.7260275
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 53,
       "type": "course",
       "price": "Free",
       "topics": [
