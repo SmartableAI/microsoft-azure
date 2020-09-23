@@ -1,23 +1,33 @@
 ---
 category: news
 title: "Microsoft Guns for Twilio's Business With Launch of Azure Communication Services"
-excerpt: "Microsoft (NASDAQ: MSFT) is continuously upping its game in the public cloud arena, and recently announced the availability of Azure Communications Services. The new product is a library of APIs (an API is an application programming interface, a pre ..."
-publishedDateTime: 2020-09-22T23:06:00Z
-originalUrl: "https://www.nasdaq.com/articles/microsoft-guns-for-twilios-business-with-launch-of-azure-communication-services-2020-09-22"
-webUrl: "https://www.nasdaq.com/articles/microsoft-guns-for-twilios-business-with-launch-of-azure-communication-services-2020-09-22"
-ampWebUrl: "https://www.nasdaq.com/articles/microsoft-guns-for-twilios-business-with-launch-of-azure-communication-services-2020-09-22?amp"
-cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/microsoft-guns-for-twilios-business-with-launch-of-azure-communication-services-2020-09-22?amp"
+excerpt: "Microsoft (NASDAQ:MSFT) is continuously upping its game in the public cloud arena, and recently announced the availability of Azure Communications Services. The new product is a library of APIs (an API is an application programming interface,"
+publishedDateTime: 2020-09-23T02:55:00Z
+originalUrl: "https://www.fool.com/investing/2020/09/22/microsoft-guns-for-twilios-business-with-launch-of/"
+webUrl: "https://www.fool.com/investing/2020/09/22/microsoft-guns-for-twilios-business-with-launch-of/"
+ampWebUrl: "https://www.fool.com/amp/investing/2020/09/22/microsoft-guns-for-twilios-business-with-launch-of/"
+cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/09/22/microsoft-guns-for-twilios-business-with-launch-of/"
 type: article
-quality: 72
+quality: 92
 heat: -1
 published: false
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: The Motley Fool
+  domain: fool.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/fool.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
+
+images:
+  - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F592605%2Fsmartphone-millennials-getty-6217.jpg&w=1200&op=resize"
+    width: 1200
+    height: 740
+    isCached: true
 
 related:
   - title: "Daily Crunch: Microsoft launches Azure Communication Services"
@@ -161,6 +171,6 @@ related:
       domain: seekingalpha.com
     quality: 14
 
-secured: "a7K5t6TisPq2tQdxe7+H773cyd5p5qnWhw6O+TysUqiuZVV106LaR6OxIZkrUbwgZdKferQa7tDWqzB9uob37uvcTJw7VibWluNVf/F7ALvaa3xiu4b2bVJExBVNTd1lsD0E6+DDl78jc1WlhWPaGKXHd8ndZn54Nvxg3wCY2spSBWTaYhTuThsliYM2zg9kJZkCa6HoAz8/IVFlAG7Ay/CTAjbIMSI8wYyGNFNv737/6Wf4S/2TOd/oCHBeo4W6PBkEx8jtlOgtvpf48N5GaumJU+9niZ+tyQ0z4o+RhTjiMGvZHdG2dXzs1p6dMiakTuYXYeaJA10UW35l1qdMaiPXUkNJ5dP6OY3mIUDdj5g=;XHWz2RweSdF99sMC/6+Tvw=="
+secured: "SfWzfAZA35NWJfXV73hN50m8xk8zH/jFnoxnNuetIZ4the10Y5ouiZgxHkLuCLW6aO+9P7sUTn5ETz9maL7nPxjT3WvpTA9wclSLjOPH7KyCauveOo+BA31oH8IVjG2ekhdQBdtMEzHKSNPjbhNsAM9PafsXMFvNuRfKl7llJDIIE+E2ckR+svkRgT1tqwD3+7zRXblmxfJEw9lPwGNEatIrL4G7bLl64Jvpw38Bj+GHjR4AFfBI3S3PWNM835NhRV0WO1b20ijJ2M7voH+uNC/yaQF6UW9b3zpBRCd50LzO2Xn3X9bcMOjEpmDnUHsP8qcdXU7kw/QYyJ+Av0KVzu4Eyo3MPV6aJCJMZHSGLe4=;4EcF6z9I8ZIP+gks8vkHVw=="
 ---
 
