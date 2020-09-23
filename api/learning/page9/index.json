@@ -4,48 +4,6 @@
   "page": 9,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-troubleshoot-azure-network-infrastructure.md",
-      "title": "Monitor and troubleshoot your end-to-end Azure network infrastructure by using network monitoring tools",
-      "excerpt": "Learn how to investigate and diagnose problems in your Azure virtual networks by using Network Watcher and other tools.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-troubleshoot-azure-network-infrastructure/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/troubleshoot-azure-network-infrastructure/",
-      "length": "PT37M",
-      "ratings": {
-        "count": 1985,
-        "average": 4.5738034
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 57,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/troubleshoot-azure-network-infrastructure-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Networking"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-align-requirements-in-azure.md",
       "title": "Align requirements with cloud types and service models in Azure",
       "excerpt": "Discover Azure's three approaches to deploying cloud resources -- public, private, and hybrid -- and learn the difference each makes in your Azure services.",
@@ -86,8 +44,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/build-and-store-container-images/",
       "length": "PT49M",
       "ratings": {
-        "count": 2301,
-        "average": 4.6079965
+        "count": 2302,
+        "average": 4.6081667
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -162,8 +120,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/azure-well-architected-cost-optimization/",
       "length": "PT51M",
       "ratings": {
-        "count": 913,
-        "average": 4.7031765
+        "count": 914,
+        "average": 4.703501
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -287,8 +245,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/classify-user-feedback-with-the-text-analytics-api/",
       "length": "PT48M",
       "ratings": {
-        "count": 1393,
-        "average": 4.620244
+        "count": 1394,
+        "average": 4.6205163
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -326,8 +284,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/configure-and-manage-azure-key-vault/",
       "length": "PT29M",
       "ratings": {
-        "count": 1835,
-        "average": 4.6043596
+        "count": 1838,
+        "average": 4.6050053
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -444,8 +402,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/create-security-baselines/",
       "length": "PT60M",
       "ratings": {
-        "count": 2129,
-        "average": 4.6326914
+        "count": 2131,
+        "average": 4.632567
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -527,8 +485,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/design-your-migration-to-azure/",
       "length": "PT44M",
       "ratings": {
-        "count": 1398,
-        "average": 4.621602
+        "count": 1401,
+        "average": 4.6195574
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -802,8 +760,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/intro-to-azure-linux/",
       "length": "PT16M",
       "ratings": {
-        "count": 631,
-        "average": 4.771791
+        "count": 632,
+        "average": 4.77057
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -843,8 +801,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/keep-your-virtual-machines-updated/",
       "length": "PT35M",
       "ratings": {
-        "count": 2679,
-        "average": 4.4930944
+        "count": 2680,
+        "average": 4.4929104
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -878,8 +836,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/load-balance-web-traffic-with-application-gateway/",
       "length": "PT1H32M",
       "ratings": {
-        "count": 1904,
-        "average": 4.5866594
+        "count": 1906,
+        "average": 4.5855193
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -920,8 +878,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/provision-azure-sql-db/",
       "length": "PT50M",
       "ratings": {
-        "count": 4612,
-        "average": 4.6498265
+        "count": 4614,
+        "average": 4.6495447
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1150,8 +1108,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/intro-to-logic-apps/",
       "length": "PT28M",
       "ratings": {
-        "count": 1588,
-        "average": 4.709068
+        "count": 1589,
+        "average": 4.709251
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1184,6 +1142,47 @@
         "IoT",
         "Blockchain",
         "Integration"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-configure-security-policies-to-manage-data.md",
+      "title": "Configure security policies to manage data",
+      "excerpt": "Learn how to set up policies to classify, retain, and protect your cloud-based data.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-configure-security-policies-to-manage-data/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/configure-security-policies-to-manage-data/",
+      "length": "PT39M",
+      "ratings": {
+        "count": 1920,
+        "average": 4.5958333
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 55,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/configure-security-policies-to-manage-data-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
       ]
     }
   ],
