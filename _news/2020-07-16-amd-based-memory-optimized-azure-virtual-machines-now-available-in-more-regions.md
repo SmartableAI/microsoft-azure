@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-16T08:00:39Z
 webUrl: "https://azure.microsoft.com/blog/amd-based-memory-optimized-azure-virtual-machines-now-available-in-more-regions/"
 type: article
 quality: 33
-heat: 33
+heat: 153
 published: false
 
 provider:

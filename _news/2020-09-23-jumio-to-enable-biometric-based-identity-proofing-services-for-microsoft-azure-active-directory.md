@@ -6,6 +6,8 @@ publishedDateTime: 2020-09-22T22:05:00Z
 originalUrl: "https://www.businesswire.com/news/home/20200922005002/en/"
 webUrl: "https://www.businesswire.com/news/home/20200922005002/en/"
 type: article
+quality: 25
+heat: 25
 
 provider:
   name: Business Wire

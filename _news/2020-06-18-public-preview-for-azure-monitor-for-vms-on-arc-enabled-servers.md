@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-18T19:00:30Z
 webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-for-azure-monitor-for-vms-on-arc-enabled-servers/"
 type: article
 quality: 17
-heat: 17
+heat: 37
 published: false
 
 provider:

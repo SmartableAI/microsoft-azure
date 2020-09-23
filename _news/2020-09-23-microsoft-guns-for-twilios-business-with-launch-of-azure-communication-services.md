@@ -8,6 +8,8 @@ webUrl: "https://www.fool.com/investing/2020/09/22/microsoft-guns-for-twilios-bu
 ampWebUrl: "https://www.fool.com/amp/investing/2020/09/22/microsoft-guns-for-twilios-business-with-launch-of/"
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/09/22/microsoft-guns-for-twilios-business-with-launch-of/"
 type: article
+quality: 92
+heat: 92
 
 provider:
   name: The Motley Fool
@@ -26,6 +28,6 @@ images:
     height: 740
     isCached: true
 
-secured: "QtHmGU5QzEo1Vlx+/eAyGHhj28vhbg0rknhcXRdLADZMjvIzFsrzOwnRGntA/5PJrU3fppiBppoN1bnoOP3IS6ZAZmrFBGcJ7u3gwXgS0PTrhXlpfvGxUlycxOrTxF9pBFzKU8xKEwREo6U4+/+cSbintMFQEJtDTVP66YH80n6XOQL9bV7owuVi683HBb6Y04uhnO/ibzleXO3zf5OWlJ+3/23J6E774s6fFXXfMjtvRxcndiMdjYAa371TbLas6U15ilgaHhKzIFbkaSF+WmsnIGNtWAjTTlYtUeEf9YClOnuJQLL4Qaf4wxyMnbce78ot9gSOFYUylB489xaRB+6hjXeJ7562m9LQYWEkNGo=;4W1Viv4Ya15J/txtj+TvmQ=="
+secured: "xbVgYv3UKIg6ZgOy9EoGINJRYZzRkxnHYVzd8otq92sq+vvF8zdEUWdPd0N4KrxBIPr455LjicOV1PqArnk0twXLJyvT8RrQ8aV/AX97g0QhY4KiIkL57HgoSOBwAOfDyEUA+0FV48hhbeI8k9r+TfxuBJPckw+E2E0fyJBCxmcXLkveQU1rIDyLzcmj9t9vxQA2K2bFuA/l2x1YMuLUXfEXJJwrs3IbofYPR12Xz4VmuyJBVjUvsCJM+thlZ/IkM5zpNW2ZRJ2Xkg06QMSvEuzSIB48A9x5M4A/9YGWBAeHlfIs/TKJwnX9yT9kMgvIHU8697OeT7eIGXiMRA/LrVEp/YtRXjptCIY99G5GjuU0a/fg1uU6CHN5Tkyb6WTksP1Zotsn2NKsi9YUCp4rMDdC+ko27c4jpAe0Y+xyVLhl8Hp9ffNRlXz1E9z2SqavLNzuOhZpXJ52N0SOa/+toi5mz9iit+LkbGhE4HkGpOctP+iwPD+K+9tvD0LIWMS6FhpCl60ONHOE7ZP5Ky6r+A==;tNaFu8XUFPvqu0HoJCNqLA=="
 ---
 

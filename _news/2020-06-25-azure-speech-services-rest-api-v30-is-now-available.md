@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-25T16:00:28Z
 webUrl: "https://azure.microsoft.com/en-us/updates/public-release-for-azure-speech-services-v30-api/"
 type: article
 quality: 17
-heat: 17
+heat: 37
 published: false
 
 provider:

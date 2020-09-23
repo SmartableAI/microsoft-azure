@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-05T17:34:00Z
 webUrl: "https://www.embedded-computing.com/news/portwell-joins-microsoft-azure-certified-for-iot-collaboration"
 type: article
 quality: 37
-heat: 37
+heat: 97
 published: false
 
 provider:

@@ -8,6 +8,8 @@ webUrl: "https://techcrunch.com/2020/09/22/daily-crunch-microsoft-azure-communic
 ampWebUrl: "https://techcrunch.com/2020/09/22/daily-crunch-microsoft-azure-communication-services/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/09/22/daily-crunch-microsoft-azure-communication-services/amp/"
 type: article
+quality: 97
+heat: 97
 
 provider:
   name: TechCrunch
@@ -26,6 +28,6 @@ images:
     height: 683
     isCached: true
 
-secured: "HNnRUA2hh5Yk1SiVx9HCMA/CYpUHqiggd5h7KpzWiyPgT2yXPOhuy+pf5RyON4XqYIxjE4i5ZO0qA/v9Sq3qBrw6dfI4jWsmMXtjOn0MbMbt+T5Ony9rGDIix1gAVT18YTzgw1QXA3tuykkO9XcYXLlHJZ+vUBQV2tAX0kPm1COgCFuCQSNoTl8xnW7C/lmOGww8YkrT167kPrF1kZ+7o/zpo12L8n8rXOqzhxxhgz81MZGP5ilh155/L9Jy0+844Acb1EUBubZAuD5mv765cvS1cnVWsp8fVjsYCB4Tv/pt+W0qop8hTr8+hptWrXWfgZU9v92qgeNZEKA6UlWzOpivYaLeZNcE45E4beu/5d4=;DWZSyzM1CFw4eNoN21dlUg=="
+secured: "Kv1JhojbsM77eHdKFkkBgtvipD3CwfsEawkjNauL665/AIQzibZVGav5+wP5zbO1FPlorsxm5zO9yhLdGbhm9qBmRUnr0iIneSU2Fer/+FHxn8GakBXYDNx3PCALQyJuQDF7bqE9qeDkD4UJVJsgBOmu4OVsYPoKVmlMVJ8pSBfVRx6KJJy3mpycZfZ9jxfr94fJ0MvbWAwU4SPFT4cRr6/hv450zTguOvNEKvzgKLhPTu39ZRrhHTtW0Q+7btakiblJZY7qCCTfHlG4iI8m+2MapWvvfNSJ2uci/OBoBLGAEJDLYDMwNARFp3a3PdjBHsu8mUCZ4YsIgCEsXffJuWki1nfCtghVrxD0a2fBarTy1ovpKeTbXWy9eTSw3+NJP2n9f1nm6jARQC2LiSYBn8gaBRyh8FhxZ9XG90sJVbXXCrefK9TcC0tfvqxZ7E9pEtv9LXnPeZHJx1rNRjpHq8EdYq0EYlp6uTUw/V4hX21gAW9ukpxIf/pJX4h8OTPpUU8mY4KWGQQFO6FE9HM4rw==;ssfu0s/IKFnQaRYa2F0iQw=="
 ---
 

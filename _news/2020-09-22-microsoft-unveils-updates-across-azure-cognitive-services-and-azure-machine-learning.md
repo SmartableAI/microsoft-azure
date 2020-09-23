@@ -8,6 +8,8 @@ webUrl: "https://venturebeat.com/2020/09/22/microsoft-unveils-updates-across-azu
 ampWebUrl: "https://venturebeat.com/2020/09/22/microsoft-unveils-updates-across-azure-cognitive-services-and-azure-machine-learning/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/22/microsoft-unveils-updates-across-azure-cognitive-services-and-azure-machine-learning/amp/"
 type: article
+quality: 90
+heat: 90
 
 provider:
   name: VentureBeat
@@ -26,6 +28,6 @@ images:
     height: 573
     isCached: true
 
-secured: "NqUp+rOwI2Rp33Pw9iI6INHnBMh0xGMuhfQKKnvShXnpdjSsqqu7KCuuGf8nu64/wSsvAAeukK5ZnV5F+rRXNwGuu2iO4ujjclEE6+Lv1axGAwa4PlfW4smaY/gwurjFrku7HkWYhWQxBuPcEQefZruz/oj4q3zEAOkZAb0FJgM3a4YvdZRapsPSwBpNp8NsDW/nv7w67692MMbYu4s+1CZWlOVi3tQBX2KlWmoAw7whowtwCujP/3CiN0APM837rpfLr9/XL3w2i6JDl/d+eMdoLhZ1f3QOxrtGGkCNutBZs+VZzy+lXD4ZlSis63NWJyghVoblFcC3EVskEpcx09eankZp8F/4w0JbXerK/oM=;RIM7s7+UxU2tY/jBpre/kA=="
+secured: "5+JnYyzQwWFKSdTLYVjrhKsvsnBtdyQCUgcExcOx0swTWWZBJDg3Bo5FvjBgj2mgTpe3P8DxjXGRF6rUYtYIlYr+kyyLXtV+QG3hdAk9BjmEWg9wTRYgsc1GiNok3b9qpc51zaIYb3N07DJF5iG7TSiwt6/2ngo9kSRyio52qrr3aIaMIjQvxYlrw4iw1ALnR+6nGSQUrWxFtWx1mJFE7wtbkPWPiNrojU801SmEXFLlkwYo5ViU9HUEE47aNspkPNuOxYWceBufDCExdMIggx9WGltICJprbxFf9bwJ9cMk3Z315sOW7Px567eTLq7hsy6b8DLHwY2NR/HWDJh6Tsv0HGWFxZ9srX37VeyqG1K/92GpX03ylfVuw6LOtdt5qgVlJOw6/iClyaSsoK3BtnBQHodIqpcoZFNSDll28+rPRE3UpfSJaIP2mP7lhGc7+ov6QdPRImZ3/0wRu1ul182OuinDl6+9RK0OdND22pmwDc/4EaePvn7HjIiwQEGM/OI4TnPhnFX2J4gS1jIATA==;6vl5Mz8npp36E0mp8rgT3A=="
 ---
 
