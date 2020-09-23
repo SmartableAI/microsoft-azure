@@ -24,24 +24,37 @@ topics:
   - Azure
 
 related:
-  - title: "Azure Cognitive Services general availability updates "
-    excerpt: "General availability updates in Azure Cognitive Services Decision, Speech, and containers categories. "
-    publishedDateTime: 2020-09-22T16:05:30Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-cognitive-services-general-availability-updates/"
+  - title: "Viasat Real-Time Earth Ground Service Available via Microsoft Azure Orbital"
+    excerpt: "PRNewswire/ -- Viasat Inc. (NASDAQ: VSAT), a global communications company, today announced Viasat Real-Time Earth (RTE) is available as a manage"
+    publishedDateTime: 2020-09-22T19:34:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/viasat-real-time-earth-ground-service-available-via-microsoft-azure-orbital-1029612722"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/viasat-real-time-earth-ground-service-available-via-microsoft-azure-orbital-1029612722"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/viasat-real-time-earth-ground-service-available-via-microsoft-azure-orbital-1029612722"
     type: article
     provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 67
-  - title: "General availability: Zone redundant configuration for Azure SQL Database in additional regions"
-    excerpt: "The zone redundant configuration for Azure SQL Database is now generally available in these additional regions: Canada Central, West US 2, and North Europe."
-    publishedDateTime: 2020-09-21T20:00:05Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-zone-redundant-configuration-for-azure-sql-database-in-additional-regions/"
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 75
+  - title: "Tamr Data Mastering Platform Now Available on Microsoft Azure"
+    excerpt: "PRNewswire/ -- Tamr, Inc., the provider of cloud-native data mastering solutions, today announced its cloud-native capabilities on Microsoft"
+    publishedDateTime: 2020-09-19T03:40:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/09/n17431514/tamr-data-mastering-platform-now-available-on-microsoft-azure"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/17431514"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17431514"
     type: article
     provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 55
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 37
+  - title: "TCS’ Blockchain Product Quartz™ is Now Available on Microsoft Azure"
+    excerpt: "Tata Consultancy Services’ Award-winning Smart Ledgers Suite that Helps Enterprises Quickly Build and Deploy Blockchain Solutions Now Brings Added Benefits of the Cloud’s Flexibility, Scalability and Efficiency MUMBAI,"
+    publishedDateTime: 2020-09-21T08:18:00Z
+    webUrl: "https://www.tcs.com/tcs-blockchain-product-quartz-available-microsoft-azure"
+    type: article
+    provider:
+      name: Tata Consultancy Services
+      domain: tcs.com
+    quality: 17
 
 secured: "k+VkcPsJJk5aTsSULB8EV7aU5E7XpKSp87va6+8rlnes/omP58S5GnwSsCF3toRsLjwnr1iLIckmMvNi3qgucbPhOomI27t+C4HQFcaZfeYec3l1rr0q8F9fh2/4i67J4nUDchP7bFusIXYV7XrM+zlvOs4PTagrqnRwqnf4Af7pgE9GqILHb9bWMJRJc06VXGPW/yUbqLh3SIN4HdGJtBPqO0e2a76Dae02OBCJZS//AgEqfhsPkZckBjUv4s6XHf785D8XlnyPkRoj2YLkmGQ8PufY3Kf2q8Ycb9XjSAmVd24xwHhMDKZUVZ15uRnBcJS38U+U5jhwmRCI/3MDmfHg6ZNZoZdoo3/LT1mem7UYA8M5LBYYS1EXruesDkaG/qqqH3/vUNbDRGwtDCsXok/GBW5wEpmPnz9258/R9S0WnhGxUUn6ghtG26fqjeafQVzMPrjXUjyw7yiVLsWRt6LbmkT9HlASZARvXNW8EztOKnwieF3UaYu33q/w+vM5vF3y8xAZ38r33AbLsUginw==;xGaQlTuq2dT7x0rkg8QJSA=="
 ---

@@ -6,7 +6,7 @@ publishedDateTime: 2020-04-21T14:32:00Z
 webUrl: "https://www.thurrott.com/cloud/microsoft-365/235074/microsoft-365-for-consumers-launches-today"
 type: article
 quality: 22
-heat: 42
+heat: 22
 published: false
 
 provider:

@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Azure Orbital launches Microsoft into a cloud computing space race with Amazon"
-excerpt: "The world’s largest and most northerly commercial satellite ground station, KSAT’s Svalbard Station in Norway’s Arctic archipelago, will be part of Microsoft’s Azure Orbital network. (KSAT Photo) Call it the Clash of the Cloud Titans: Today ..."
-publishedDateTime: 2020-09-22T15:02:00Z
-originalUrl: "https://www.geekwire.com/2020/azure-orbital-launches-microsoft-cloud-computing-space-race-amazon/"
-webUrl: "https://www.geekwire.com/2020/azure-orbital-launches-microsoft-cloud-computing-space-race-amazon/"
-ampWebUrl: "https://www.geekwire.com/2020/azure-orbital-launches-microsoft-cloud-computing-space-race-amazon/amp/"
-cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/azure-orbital-launches-microsoft-cloud-computing-space-race-amazon/amp/"
+title: "Microsoft challenges Twilio with the launch of Azure Communication Services"
+excerpt: "Microsoft today announced the launch of Azure Communication Services, a new set of features in its cloud that enable developers to add voice and video calling, chat and text messages to their apps, as well as old-school telephony."
+publishedDateTime: 2020-09-23T12:09:00Z
+originalUrl: "https://techcrunch.com/2020/09/22/microsoft-challenges-twilio-with-the-launch-of-azure-communication-services/"
+webUrl: "https://techcrunch.com/2020/09/22/microsoft-challenges-twilio-with-the-launch-of-azure-communication-services/"
+ampWebUrl: "https://techcrunch.com/2020/09/22/microsoft-challenges-twilio-with-the-launch-of-azure-communication-services/amp/"
+cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/09/22/microsoft-challenges-twilio-with-the-launch-of-azure-communication-services/amp/"
 type: article
-quality: 93
+quality: 95
 heat: -1
 published: false
 
 provider:
-  name: GeekWire
-  domain: geekwire.com
+  name: TechCrunch
+  domain: techcrunch.com
   images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/geekwire.com-50x50.jpg"
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/techcrunch.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -24,9 +24,9 @@ topics:
   - Azure
 
 images:
-  - url: "https://cdn.geekwire.com/wp-content/uploads/2020/09/200922-svalbard-630x321.jpg"
-    width: 630
-    height: 321
+  - url: "https://techcrunch.com/wp-content/uploads/2020/09/GettyImages-1167012061.jpg?w=1024"
+    width: 1024
+    height: 576
     isCached: true
 
 related:
@@ -46,21 +46,21 @@ related:
         width: 760
         height: 428
         isCached: true
-  - title: "Microsoft challenges Twilio with the launch of Azure Communication Services"
-    excerpt: "Microsoft today announced the launch of Azure Communication Services, a new set of features in its cloud that enable developers to add voice and video calling, chat and text messages to their apps, as well as old-school telephony."
-    publishedDateTime: 2020-09-23T12:09:00Z
-    webUrl: "https://techcrunch.com/2020/09/22/microsoft-challenges-twilio-with-the-launch-of-azure-communication-services/"
-    ampWebUrl: "https://techcrunch.com/2020/09/22/microsoft-challenges-twilio-with-the-launch-of-azure-communication-services/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/09/22/microsoft-challenges-twilio-with-the-launch-of-azure-communication-services/amp/"
+  - title: "Azure Orbital launches Microsoft into a cloud computing space race with Amazon"
+    excerpt: "The world’s largest and most northerly commercial satellite ground station, KSAT’s Svalbard Station in Norway’s Arctic archipelago, will be part of Microsoft’s Azure Orbital network. (KSAT Photo) Call it the Clash of the Cloud Titans: Today ..."
+    publishedDateTime: 2020-09-22T15:02:00Z
+    webUrl: "https://www.geekwire.com/2020/azure-orbital-launches-microsoft-cloud-computing-space-race-amazon/"
+    ampWebUrl: "https://www.geekwire.com/2020/azure-orbital-launches-microsoft-cloud-computing-space-race-amazon/amp/"
+    cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/azure-orbital-launches-microsoft-cloud-computing-space-race-amazon/amp/"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 95
+      name: GeekWire
+      domain: geekwire.com
+    quality: 93
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/09/GettyImages-1167012061.jpg?w=1024"
-        width: 1024
-        height: 576
+      - url: "https://cdn.geekwire.com/wp-content/uploads/2020/09/200922-svalbard-630x321.jpg"
+        width: 630
+        height: 321
         isCached: true
   - title: "Microsoft unveils Azure Orbital, competing with Amazon to connect satellites to the cloud"
     excerpt: "Microsoft will offer a new service called Azure Orbital that connects satellites directly to its cloud computing network. The service will begin in a \"private preview\" for a select group of Microsoft customers. Satellite companies Amergint, Kratos ..."
@@ -162,6 +162,6 @@ related:
         height: 500
         isCached: true
 
-secured: "FYuRUGwQrExRY/m3hgM5zMu8AEiEs1HqpgdEPfJH4bKE2t11lCIdfpId+U889ndO2Gr7PQJSMCfFRFYBNf6WyMxaUGdnPlP3f8WE+nvI20J4P7+oRrejzCT3sGiicTMvsib8ieACX1NVqZ/t3NH3ICyoIKmci76nQ0ukeBJN2S2g46aD4uaw9THQIiq513oBVX0Uo/P5S47ABHXp/rdoVxSPn9THi6o19c1OIqTygDMPRiYw8cDF0BVU66LxvMNkn7ebOjKTSUJ6w5pIAcqBXfIE0Wr1GvSdq+c2hmYREMDwKUid09DZ2a9fXsi1OVI5AtBKKe7dzL9H1/ooFLEao5LW5mePVt+GgKAyRr24Fn8sZyaFKVrzCDlysxUMLI2GHiIh2+n1dVO8D0TZsuHJZjU71Ma7bf96HEhREC39F+h3UWBWkk0zHhoQqW8kLaj6leM3NmrVR03+fTzLI2rS9famFbSxl1Ny5GHvvM8ccJJO8Hz/gplR5LNBNHoLKcxhVJcHbQRh2sZGBMyZyv+rGA==;hi04k5ycFXtD4oeUrm3IBw=="
+secured: "wzeaNJ7NL0YQeFAIjRnopDzhU40li+ERNwh4xpA5BP6Llqxqii7mEbTllaUekt25aj374j8sEMWjt4/AACJNnc0q549rdiMykcVBAWx5SYm8fyCR2eMA9s2KxxnrPxBNrem5zBePsJazx0VMThuvmo+wZBkr7qa43ddc72zxLvYH/ftGFzElLrzu4UIbS1FbC3jeoedisP65WOQf8jbJ+VNNaTGQfDjZTysaCsWClaiWMf48s3RhEQEg/C+/dtWFI611SotAWWTp5MW7Jk2F55F19DzBbtJ9hEm2PXnRsWkV5mOMwLKkzxqOfm2yyHkFOacDJpllWrkDKtxXxb4kDKIFddOId5sYVXxW1KPWtkM=;sXuP5AsvGY7pQ5dLzkfH8w=="
 ---
 

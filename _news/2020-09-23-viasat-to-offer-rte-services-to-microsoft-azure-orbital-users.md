@@ -1,33 +1,23 @@
 ---
 category: news
-title: "Azure Orbital launches Microsoft into a cloud computing space race with Amazon"
-excerpt: "The world’s largest and most northerly commercial satellite ground station, KSAT’s Svalbard Station in Norway’s Arctic archipelago, will be part of Microsoft’s Azure Orbital network. (KSAT Photo) Call it the Clash of the Cloud Titans: Today ..."
-publishedDateTime: 2020-09-22T15:02:00Z
-originalUrl: "https://www.geekwire.com/2020/azure-orbital-launches-microsoft-cloud-computing-space-race-amazon/"
-webUrl: "https://www.geekwire.com/2020/azure-orbital-launches-microsoft-cloud-computing-space-race-amazon/"
-ampWebUrl: "https://www.geekwire.com/2020/azure-orbital-launches-microsoft-cloud-computing-space-race-amazon/amp/"
-cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/azure-orbital-launches-microsoft-cloud-computing-space-race-amazon/amp/"
+title: "Viasat to Offer RTE Services to Microsoft Azure Orbital Users"
+excerpt: "Viasat Inc. VSAT recently joined forces with Microsoft Corporation MSFT to offer its Real-Time Earth (RTE) services to Microsoft Azure customers. The availability of this hybrid space and ground network,"
+publishedDateTime: 2020-09-23T13:56:00Z
+originalUrl: "https://www.nasdaq.com/articles/viasat-to-offer-rte-services-to-microsoft-azure-orbital-users-2020-09-23"
+webUrl: "https://www.nasdaq.com/articles/viasat-to-offer-rte-services-to-microsoft-azure-orbital-users-2020-09-23"
+ampWebUrl: "https://www.nasdaq.com/articles/viasat-to-offer-rte-services-to-microsoft-azure-orbital-users-2020-09-23?amp"
+cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/viasat-to-offer-rte-services-to-microsoft-azure-orbital-users-2020-09-23?amp"
 type: article
-quality: 93
+quality: 77
 heat: -1
 published: false
 
 provider:
-  name: GeekWire
-  domain: geekwire.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/geekwire.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - Azure
-
-images:
-  - url: "https://cdn.geekwire.com/wp-content/uploads/2020/09/200922-svalbard-630x321.jpg"
-    width: 630
-    height: 321
-    isCached: true
 
 related:
   - title: "Microsoft extends the power of global cloud to space with Azure Orbital"
@@ -62,6 +52,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Azure Orbital launches Microsoft into a cloud computing space race with Amazon"
+    excerpt: "The world’s largest and most northerly commercial satellite ground station, KSAT’s Svalbard Station in Norway’s Arctic archipelago, will be part of Microsoft’s Azure Orbital network. (KSAT Photo) Call it the Clash of the Cloud Titans: Today ..."
+    publishedDateTime: 2020-09-22T15:02:00Z
+    webUrl: "https://www.geekwire.com/2020/azure-orbital-launches-microsoft-cloud-computing-space-race-amazon/"
+    ampWebUrl: "https://www.geekwire.com/2020/azure-orbital-launches-microsoft-cloud-computing-space-race-amazon/amp/"
+    cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/azure-orbital-launches-microsoft-cloud-computing-space-race-amazon/amp/"
+    type: article
+    provider:
+      name: GeekWire
+      domain: geekwire.com
+    quality: 93
+    images:
+      - url: "https://cdn.geekwire.com/wp-content/uploads/2020/09/200922-svalbard-630x321.jpg"
+        width: 630
+        height: 321
+        isCached: true
   - title: "Microsoft unveils Azure Orbital, competing with Amazon to connect satellites to the cloud"
     excerpt: "Microsoft will offer a new service called Azure Orbital that connects satellites directly to its cloud computing network. The service will begin in a \"private preview\" for a select group of Microsoft customers. Satellite companies Amergint, Kratos ..."
     publishedDateTime: 2020-09-22T15:06:00Z
@@ -78,17 +84,6 @@ related:
         width: 3000
         height: 2000
         isCached: true
-  - title: "Viasat to Offer RTE Services to Microsoft Azure Orbital Users"
-    excerpt: "Viasat Inc. VSAT recently joined forces with Microsoft Corporation MSFT to offer its Real-Time Earth (RTE) services to Microsoft Azure customers. The availability of this hybrid space and ground network,"
-    publishedDateTime: 2020-09-23T13:56:00Z
-    webUrl: "https://www.nasdaq.com/articles/viasat-to-offer-rte-services-to-microsoft-azure-orbital-users-2020-09-23"
-    ampWebUrl: "https://www.nasdaq.com/articles/viasat-to-offer-rte-services-to-microsoft-azure-orbital-users-2020-09-23?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/viasat-to-offer-rte-services-to-microsoft-azure-orbital-users-2020-09-23?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 77
   - title: "Kratos Collaborates with Microsoft to Enable Cloud-based Satellite Ground Services for Azure Orbital"
     excerpt: "announced today that it has joined with Microsoft to enable the launch of Microsoft Azure Orbital, a groundbreaking platform that provides Ground Station-as-a-Service (GSaaS) to the satellite industry. Azure Orbital is Microsoft's managed service designed ..."
     publishedDateTime: 2020-09-22T21:32:00Z
@@ -162,6 +157,6 @@ related:
         height: 500
         isCached: true
 
-secured: "FYuRUGwQrExRY/m3hgM5zMu8AEiEs1HqpgdEPfJH4bKE2t11lCIdfpId+U889ndO2Gr7PQJSMCfFRFYBNf6WyMxaUGdnPlP3f8WE+nvI20J4P7+oRrejzCT3sGiicTMvsib8ieACX1NVqZ/t3NH3ICyoIKmci76nQ0ukeBJN2S2g46aD4uaw9THQIiq513oBVX0Uo/P5S47ABHXp/rdoVxSPn9THi6o19c1OIqTygDMPRiYw8cDF0BVU66LxvMNkn7ebOjKTSUJ6w5pIAcqBXfIE0Wr1GvSdq+c2hmYREMDwKUid09DZ2a9fXsi1OVI5AtBKKe7dzL9H1/ooFLEao5LW5mePVt+GgKAyRr24Fn8sZyaFKVrzCDlysxUMLI2GHiIh2+n1dVO8D0TZsuHJZjU71Ma7bf96HEhREC39F+h3UWBWkk0zHhoQqW8kLaj6leM3NmrVR03+fTzLI2rS9famFbSxl1Ny5GHvvM8ccJJO8Hz/gplR5LNBNHoLKcxhVJcHbQRh2sZGBMyZyv+rGA==;hi04k5ycFXtD4oeUrm3IBw=="
+secured: "5cvVvCVT59iwVaTffRlZ9h94ifm62MMwNyV8mOvav7tOc3DLYMeeoHY4yxEBliqfm6avyr9PoW+oaxDRzp5w2dBsjGkRBX+38ipr9F6Au2CmDTrm8g6usnd5RbF9YY16+pTfYhHdq0MrnSHZXd/+H7LgBEPKL2GcQ//Fr9A4eG+8xLTYT+xZc3XiOoZbgC7Z4fcKvoQsQnTMPkNntO16aNPtxm2RWnvgeJDFZ6bb7UojZA2tJKZm7q9wLLo51nEXlwFRdSRAvOFL1oIRJ7HzIBpub0CHICM81ry7bZffo9Pw6S9aQgFYkKf2FXWQSYFL6hEpDJRfz1fOcwZsS8wRrRLA3T6Oahph0TU69jE6V5s=;NbEA54F44lD+0t3iKYE+qQ=="
 ---
 

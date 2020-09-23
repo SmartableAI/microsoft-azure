@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-02T10:00:27Z
 webUrl: "https://azure.microsoft.com/blog/application-gateway-ingress-controller-for-azure-kubernetes-service/"
 type: article
 quality: 39
-heat: 59
+heat: 39
 published: false
 
 provider:

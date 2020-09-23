@@ -40,6 +40,22 @@ related:
         width: 760
         height: 428
         isCached: true
+  - title: "Microsoft challenges Twilio with the launch of Azure Communication Services"
+    excerpt: "Microsoft today announced the launch of Azure Communication Services, a new set of features in its cloud that enable developers to add voice and video calling, chat and text messages to their apps, as well as old-school telephony."
+    publishedDateTime: 2020-09-23T12:09:00Z
+    webUrl: "https://techcrunch.com/2020/09/22/microsoft-challenges-twilio-with-the-launch-of-azure-communication-services/"
+    ampWebUrl: "https://techcrunch.com/2020/09/22/microsoft-challenges-twilio-with-the-launch-of-azure-communication-services/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/09/22/microsoft-challenges-twilio-with-the-launch-of-azure-communication-services/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 95
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2020/09/GettyImages-1167012061.jpg?w=1024"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Azure Orbital launches Microsoft into a cloud computing space race with Amazon"
     excerpt: "The world’s largest and most northerly commercial satellite ground station, KSAT’s Svalbard Station in Norway’s Arctic archipelago, will be part of Microsoft’s Azure Orbital network. (KSAT Photo) Call it the Clash of the Cloud Titans: Today ..."
     publishedDateTime: 2020-09-22T15:02:00Z
@@ -72,20 +88,17 @@ related:
         width: 3000
         height: 2000
         isCached: true
-  - title: "Viasat Real-Time Earth Ground Service Available via Microsoft Azure Orbital"
-    excerpt: "Sept. 22, 2020 /PRNewswire/ -- Viasat Inc. (NASDAQ: VSAT), a global communications company, today announced Viasat Real-Time Earth (RTE) is available as a managed services option for Microsoft Azure customers. The Company has integrated Azure Orbital with ..."
-    publishedDateTime: 2020-09-22T19:33:00Z
-    webUrl: "https://www.marketwatch.com/press-release/viasat-real-time-earth-ground-service-available-via-microsoft-azure-orbital-2020-09-22"
+  - title: "Viasat to Offer RTE Services to Microsoft Azure Orbital Users"
+    excerpt: "Viasat Inc. VSAT recently joined forces with Microsoft Corporation MSFT to offer its Real-Time Earth (RTE) services to Microsoft Azure customers. The availability of this hybrid space and ground network,"
+    publishedDateTime: 2020-09-23T13:56:00Z
+    webUrl: "https://www.nasdaq.com/articles/viasat-to-offer-rte-services-to-microsoft-azure-orbital-users-2020-09-23"
+    ampWebUrl: "https://www.nasdaq.com/articles/viasat-to-offer-rte-services-to-microsoft-azure-orbital-users-2020-09-23?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/viasat-to-offer-rte-services-to-microsoft-azure-orbital-users-2020-09-23?amp"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 75
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 77
   - title: "Kratos Collaborates with Microsoft to Enable Cloud-based Satellite Ground Services for Azure Orbital"
     excerpt: "announced today that it has joined with Microsoft to enable the launch of Microsoft Azure Orbital, a groundbreaking platform that provides Ground Station-as-a-Service (GSaaS) to the satellite industry. Azure Orbital is Microsoft's managed service designed ..."
     publishedDateTime: 2020-09-22T21:32:00Z
