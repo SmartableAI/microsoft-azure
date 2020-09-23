@@ -107,15 +107,15 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-manage-subscription-access-azure-rbac.md",
-      "title": "Manage access to an Azure subscription by using Azure role-based access control (RBAC)",
-      "excerpt": "Learn how to assign management access to a subscription by using Azure role-based access control.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-manage-subscription-access-azure-rbac/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/manage-subscription-access-azure-rbac/",
-      "length": "PT21M",
+      "path": "_learning/courses/microsoft-learn-identity-users-groups-approles.md",
+      "title": "Work with users, groups, and roles in custom apps and APIs",
+      "excerpt": "In this module, you’ll learn how to use both Azure AD Groups and Application Roles to provide fine grained access control to an application.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-identity-users-groups-approles/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/identity-users-groups-approles/",
+      "length": "PT1H13M",
       "ratings": {
-        "count": 3632,
-        "average": 4.7444935
+        "count": 73,
+        "average": 4.7260275
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -130,9 +130,9 @@
         ]
       },
       "levels": [
-        "Beginner"
+        "Intermediate"
       ],
-      "heat": 118,
+      "heat": 113,
       "type": "course",
       "price": "Free",
       "topics": [
@@ -148,8 +148,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/intro-to-security-in-azure/",
       "length": "PT1H16M",
       "ratings": {
-        "count": 43990,
-        "average": 4.7027736
+        "count": 44002,
+        "average": 4.7027183
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -436,7 +436,7 @@
           "path": "",
           "title": "Manage access to an Azure subscription by using Azure role-based access control (RBAC)",
           "excerpt": "Learn how to assign management access to a subscription by using Azure role-based access control.",
-          "heat": 118,
+          "heat": 58,
           "type": "course",
           "topics": [
             "Azure",
@@ -445,7 +445,7 @@
         }
       ],
       "size": 11,
-      "heat": 80,
+      "heat": 76,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/create-users-and-groups-in-azure-active-directory-social.png",
@@ -546,7 +546,7 @@
           "path": "",
           "title": "Manage access to an Azure subscription by using Azure role-based access control (RBAC)",
           "excerpt": "Learn how to assign management access to a subscription by using Azure role-based access control.",
-          "heat": 118,
+          "heat": 58,
           "type": "course",
           "topics": [
             "Azure",
@@ -555,7 +555,7 @@
         }
       ],
       "size": 14,
-      "heat": 80,
+      "heat": 76,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/create-users-and-groups-in-azure-active-directory-social.png",
@@ -919,8 +919,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/create-users-and-groups-in-azure-active-directory/",
       "length": "PT41M",
       "ratings": {
-        "count": 2398,
-        "average": 4.6984987
+        "count": 2399,
+        "average": 4.6986246
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -961,8 +961,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/azure-well-architected-security/",
       "length": "PT1H2M",
       "ratings": {
-        "count": 2063,
-        "average": 4.7018905
+        "count": 2065,
+        "average": 4.702179
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1231,8 +1231,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/manage-users-and-groups-in-aad/",
       "length": "PT50M",
       "ratings": {
-        "count": 2875,
-        "average": 4.671304
+        "count": 2876,
+        "average": 4.6714187
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1273,8 +1273,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/intro-to-azure-ad/",
       "length": "PT27M",
       "ratings": {
-        "count": 1450,
-        "average": 4.6793103
+        "count": 1453,
+        "average": 4.6799726
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1831,8 +1831,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/secure-azure-resources-with-rbac/",
       "length": "PT37M",
       "ratings": {
-        "count": 4588,
-        "average": 4.6431994
+        "count": 4591,
+        "average": 4.6434326
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1866,8 +1866,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/m365-identity-overview/",
       "length": "PT15M",
       "ratings": {
-        "count": 2488,
-        "average": 4.734325
+        "count": 2543,
+        "average": 4.7333856
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1893,6 +1893,40 @@
           "isCached": true
         }
       ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Identity"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-manage-subscription-access-azure-rbac.md",
+      "title": "Manage access to an Azure subscription by using Azure role-based access control (RBAC)",
+      "excerpt": "Learn how to assign management access to a subscription by using Azure role-based access control.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-manage-subscription-access-azure-rbac/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/manage-subscription-access-azure-rbac/",
+      "length": "PT21M",
+      "ratings": {
+        "count": 3801,
+        "average": 4.744278
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 58,
       "type": "course",
       "price": "Free",
       "topics": [
@@ -1992,8 +2026,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/secure-aad-users-with-mfa/",
       "length": "PT38M",
       "ratings": {
-        "count": 1290,
-        "average": 4.6813955
+        "count": 1291,
+        "average": 4.681642
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2104,40 +2138,6 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-identity-users-groups-approles.md",
-      "title": "Work with users, groups, and roles in custom apps and APIs",
-      "excerpt": "In this module, you’ll learn how to use both Azure AD Groups and Application Roles to provide fine grained access control to an application.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-identity-users-groups-approles/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/identity-users-groups-approles/",
-      "length": "PT1H13M",
-      "ratings": {
-        "count": 73,
-        "average": 4.7260275
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 53,
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Identity"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-manage-device-identity-ad-join.md",
       "title": "Manage device identity with Azure AD join and Enterprise State Roaming",
       "excerpt": "Learn how to manage device identity by using Azure AD join and Enterprise State Roaming.",
@@ -2145,8 +2145,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/manage-device-identity-ad-join/",
       "length": "PT25M",
       "ratings": {
-        "count": 851,
-        "average": 4.564042
+        "count": 852,
+        "average": 4.564554
       },
       "provider": {
         "name": "Microsoft Learn",

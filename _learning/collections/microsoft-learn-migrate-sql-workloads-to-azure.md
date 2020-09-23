@@ -4,7 +4,7 @@ excerpt: "The objective of this learning path is to educate the learner how they
 type: collection
 price: Free
 length: PT4H1M
-heat: 50
+heat: 51
 
 provider:
   name: Microsoft Learn

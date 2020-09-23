@@ -4,6 +4,43 @@
   "page": 2,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-chain-azure-functions-data-using-input-output-bindings.md",
+      "title": "Chain Azure Functions together using input and output bindings",
+      "excerpt": "In this module, we'll learn how to integrate your Azure Function with various data sources by using bindings.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-chain-azure-functions-data-using-input-output-bindings/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/chain-azure-functions-data-using-bindings/",
+      "length": "PT1H10M",
+      "ratings": {
+        "count": 2672,
+        "average": 4.5707335
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 56,
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Databases",
+        "Compute",
+        "Serverless",
+        "Storage"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-classify-user-feedback-with-the-text-analytics-api.md",
       "title": "Discover sentiment in text with the Text Analytics API",
       "excerpt": "Learn how to use the Text Analytics API and Azure Functions to discover what your customers are really saying in their feedback about your products or brands.",
@@ -11,8 +48,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/classify-user-feedback-with-the-text-analytics-api/",
       "length": "PT48M",
       "ratings": {
-        "count": 1396,
-        "average": 4.6210604
+        "count": 1397,
+        "average": 4.6206155
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -50,8 +87,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/provision-azure-sql-db/",
       "length": "PT50M",
       "ratings": {
-        "count": 4617,
-        "average": 4.649556
+        "count": 4618,
+        "average": 4.649199
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -85,8 +122,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/secure-your-azure-sql-database/",
       "length": "PT1H7M",
       "ratings": {
-        "count": 3957,
-        "average": 4.5319686
+        "count": 3959,
+        "average": 4.5319524
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -155,8 +192,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/develop-app-that-queries-azure-sql/",
       "length": "PT50M",
       "ratings": {
-        "count": 2487,
-        "average": 4.529554
+        "count": 2489,
+        "average": 4.5299315
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -197,8 +234,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/describe-sql-server-query-plans/",
       "length": "PT54M",
       "ratings": {
-        "count": 111,
-        "average": 4.747748
+        "count": 117,
+        "average": 4.7264957
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -805,8 +842,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/azure-well-architected-performance-efficiency/",
       "length": "PT48M",
       "ratings": {
-        "count": 391,
-        "average": 4.664962
+        "count": 392,
+        "average": 4.6658163
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -986,8 +1023,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/deploy-azure-sql-database/",
       "length": "PT48M",
       "ratings": {
-        "count": 359,
-        "average": 4.821727
+        "count": 388,
+        "average": 4.8273196
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1028,8 +1065,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/deploy-sql-server-virtual-machine/",
       "length": "PT60M",
       "ratings": {
-        "count": 513,
-        "average": 4.810916
+        "count": 550,
+        "average": 4.798182
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1112,8 +1149,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/implement-compliance-controls-sensitive-data/",
       "length": "PT15M",
       "ratings": {
-        "count": 170,
-        "average": 4.7941175
+        "count": 182,
+        "average": 4.7967033
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1188,8 +1225,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/protect-data-transit-rest/",
       "length": "PT43M",
       "ratings": {
-        "count": 254,
-        "average": 4.7716537
+        "count": 271,
+        "average": 4.778598
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1412,104 +1449,6 @@
         "AI",
         "Compute",
         "Containers"
-      ]
-    },
-    {
-      "path": "_learning/collections/microsoft-learn-optimize-query-performance-in-sql-server.md",
-      "title": "Optimize query performance in SQL Server",
-      "excerpt": "Analyze individual query performance and determine where improvements can be made. Explore performance-related Dynamic Management Objects. Investigate how indexes and database design affect queries.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-optimize-query-performance-in-sql-server/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-optimize-query-performance-in-sql-server/",
-      "length": "PT2H14M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "topItems": [
-        {
-          "path": "",
-          "title": "Describe SQL Server query plans",
-          "excerpt": "Read and understand various forms of execution plans. Compare estimated vs actual plans. Learn how and why plans are generated.",
-          "heat": 53,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/describe-sql-server-query-plans-social.png",
-              "width": 642,
-              "height": 321,
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "Azure",
-            "Databases"
-          ]
-        },
-        {
-          "path": "",
-          "title": "Evaluate performance improvements",
-          "excerpt": "Evaluate possible changes to indexes. Determine the impact of changes to queries and indexes. Explore relevant Dynamic Management Objects.",
-          "heat": 51,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/evaluate-performance-improvements-social.png",
-              "width": 643,
-              "height": 321,
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "Azure",
-            "Databases"
-          ]
-        },
-        {
-          "path": "",
-          "title": "Explore performance-based design",
-          "excerpt": "Evaluate possible changes to indexes. Determine the impact of changes to queries and indexes. Explore relevant Dynamic Management Objects.",
-          "heat": 51,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/explore-performance-based-design-social.png",
-              "width": 642,
-              "height": 321,
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "Azure",
-            "Databases"
-          ]
-        }
-      ],
-      "size": 3,
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/describe-sql-server-query-plans-social.png",
-          "width": 642,
-          "height": 321,
-          "isCached": true
-        }
-      ],
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Databases"
       ]
     }
   ],
