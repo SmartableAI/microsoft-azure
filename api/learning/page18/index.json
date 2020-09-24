@@ -4,6 +4,47 @@
   "page": 18,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-introduction-to-git.md",
+      "title": "Introduction to Git",
+      "excerpt": "Use Git to track changes and collaborate with other developers",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-introduction-to-git/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/intro-to-git/",
+      "length": "PT1H15M",
+      "ratings": {
+        "count": 435,
+        "average": 4.7379313
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/student-evangelism/introduction-to-git-badge-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-iot-fundamentals.md",
       "title": "Choose the best Azure IoT service for your application",
       "excerpt": "Examine Azure's IoT services choose the right service for your scenario.",
@@ -53,8 +94,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/learn-data-science-method/",
       "length": "PT34M",
       "ratings": {
-        "count": 274,
-        "average": 4.711679
+        "count": 275,
+        "average": 4.712727
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -266,7 +307,7 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/management-fundamentals/",
       "length": "PT27M",
       "ratings": {
-        "count": 5,
+        "count": 6,
         "average": 5.0
       },
       "provider": {
@@ -390,8 +431,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/migrate-repository-github/",
       "length": "PT43M",
       "ratings": {
-        "count": 136,
-        "average": 4.6397057
+        "count": 137,
+        "average": 4.6350365
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -462,40 +503,6 @@
       "price": "Free",
       "topics": [
         "Azure"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-monitor-azure-cosmos-db.md",
-      "title": "Optimize the performance of Azure Cosmos DB by using partitioning and indexing strategies",
-      "excerpt": "Learn how to measure the performance of your NoSQL Azure Cosmos DB database, by monitoring, partitioning, and indexing",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-monitor-azure-cosmos-db/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/monitor-and-scale-cosmos-db/",
-      "length": "PT1H16M",
-      "ratings": {
-        "count": 1068,
-        "average": 4.6001873
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 51,
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Databases"
       ]
     },
     {
@@ -1121,8 +1128,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/save-money-with-azure-reserved-instances/",
       "length": "PT34M",
       "ratings": {
-        "count": 45,
-        "average": 4.5555553
+        "count": 46,
+        "average": 4.5652175
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1204,8 +1211,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/schedule-tasks-using-sql-server-agent/",
       "length": "PT46M",
       "ratings": {
-        "count": 24,
-        "average": 4.6666665
+        "count": 25,
+        "average": 4.6
       },
       "provider": {
         "name": "Microsoft Learn",
