@@ -4,6 +4,50 @@
   "page": 26,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-m365-azure-migrate-introduction.md",
+      "title": "Introduction to Azure Migrate for server migration",
+      "excerpt": "Discover how Azure Migrate helps you realize the benefits of moving your on-premises VMware or Hyper-V server workloads to Azure infrastructure as a service (IaaS). Learn the process for migrating your workload agent-less, all within the hub.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-m365-azure-migrate-introduction/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/m365-azure-migrate-introduction/",
+      "length": "PT19M",
+      "ratings": {
+        "count": 69,
+        "average": 4.652174
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/introduction-azure-migrate-server-migration-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Compute",
+        "Migration",
+        "Management Tools"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-m365-azure-migrate-set-up.md",
       "title": "Set up Azure Migrate for server migration",
       "excerpt": "Learn how to check your prerequisite configurations in Azure and in your VMware vSphere environment and then perform the initial steps in Azure Migrate to choose your assessment and migration tools.",
@@ -55,8 +99,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/maintain-secure-repository-github/",
       "length": "PT1H9M",
       "ratings": {
-        "count": 109,
-        "average": 4.6330276
+        "count": 111,
+        "average": 4.6216216
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -222,8 +266,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/manage-changes-pull-requests-github/",
       "length": "PT49M",
       "ratings": {
-        "count": 92,
-        "average": 4.630435
+        "count": 93,
+        "average": 4.623656
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1129,8 +1173,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/monitor-report-aad-security-events/",
       "length": "PT35M",
       "ratings": {
-        "count": 137,
-        "average": 4.591241
+        "count": 138,
+        "average": 4.57971
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1207,47 +1251,6 @@
         "Management Tools",
         "DevOps",
         "Compute"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-n-tier-architecture.md",
-      "title": "Tour the N-tier architecture style for your application",
-      "excerpt": "Discover the benefits of a Resource Manager template to deploy an application in an N-tier architecture and review best practices for deployments of this style.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-n-tier-architecture/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/n-tier-architecture/",
-      "length": "PT39M",
-      "ratings": {
-        "count": 630,
-        "average": 4.8095236
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/n-tier-architecture-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
       ]
     }
   ],
