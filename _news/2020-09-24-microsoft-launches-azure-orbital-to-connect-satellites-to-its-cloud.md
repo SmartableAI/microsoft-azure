@@ -1,26 +1,32 @@
 ---
 category: news
-title: "Microsoft debuts Azure Orbital to power satellite downlinks for space sector clients"
-excerpt: "Microsoft Corp. is building a global network of antennas co-located with its cloud data centers that will enable satellite operators to download data from orbit more easily. The antennas, or ground stations,"
-publishedDateTime: 2020-09-22T23:54:00Z
-originalUrl: "https://siliconangle.com/2020/09/22/microsoft-debuts-azure-orbital-power-satellite-downlinks-space-sector-clients/"
-webUrl: "https://siliconangle.com/2020/09/22/microsoft-debuts-azure-orbital-power-satellite-downlinks-space-sector-clients/"
+title: "Microsoft launches Azure Orbital to connect satellites to its cloud"
+excerpt: "Ignite conference, Microsoft today announced the launch of Azure Orbital, a new service that is meant to give satellite operators a complete platform to communicate with their satellites and process data from them — including the ground stations to receive those signals."
+publishedDateTime: 2020-09-24T05:26:00Z
+originalUrl: "https://techcrunch.com/2020/09/22/microsoft-launches-azure-orbital-to-connect-satellites-to-its-cloud/"
+webUrl: "https://techcrunch.com/2020/09/22/microsoft-launches-azure-orbital-to-connect-satellites-to-its-cloud/"
+ampWebUrl: "https://techcrunch.com/2020/09/22/microsoft-launches-azure-orbital-to-connect-satellites-to-its-cloud/amp/"
+cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/09/22/microsoft-launches-azure-orbital-to-connect-satellites-to-its-cloud/amp/"
 type: article
-quality: 30
+quality: 97
 heat: -1
 published: false
 
 provider:
-  name: SiliconANGLE
-  domain: siliconangle.com
+  name: TechCrunch
+  domain: techcrunch.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/techcrunch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
 
 images:
-  - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/09/unsplash.jpg"
-    width: 750
-    height: 500
+  - url: "https://techcrunch.com/wp-content/uploads/2020/09/GettyImages-687795300.jpg?w=1024"
+    width: 1024
+    height: 683
     isCached: true
 
 related:
@@ -39,22 +45,6 @@ related:
       - url: "https://cdn.neow.in/news/images/uploaded/2020/09/1600717817_azure_at_ignite_story.jpg"
         width: 760
         height: 428
-        isCached: true
-  - title: "Microsoft launches Azure Orbital to connect satellites to its cloud"
-    excerpt: "Ignite conference, Microsoft today announced the launch of Azure Orbital, a new service that is meant to give satellite operators a complete platform to communicate with their satellites and process data from them — including the ground stations to receive those signals."
-    publishedDateTime: 2020-09-24T05:26:00Z
-    webUrl: "https://techcrunch.com/2020/09/22/microsoft-launches-azure-orbital-to-connect-satellites-to-its-cloud/"
-    ampWebUrl: "https://techcrunch.com/2020/09/22/microsoft-launches-azure-orbital-to-connect-satellites-to-its-cloud/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/09/22/microsoft-launches-azure-orbital-to-connect-satellites-to-its-cloud/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 97
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/09/GettyImages-687795300.jpg?w=1024"
-        width: 1024
-        height: 683
         isCached: true
   - title: "Microsoft challenges Twilio with the launch of Azure Communication Services"
     excerpt: "Microsoft today announced the launch of Azure Communication Services, a new set of features in its cloud that enable developers to add voice and video calling, chat and text messages to their apps, as well as old-school telephony."
@@ -201,7 +191,21 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Microsoft debuts Azure Orbital to power satellite downlinks for space sector clients"
+    excerpt: "Microsoft Corp. is building a global network of antennas co-located with its cloud data centers that will enable satellite operators to download data from orbit more easily. The antennas, or ground stations,"
+    publishedDateTime: 2020-09-22T23:54:00Z
+    webUrl: "https://siliconangle.com/2020/09/22/microsoft-debuts-azure-orbital-power-satellite-downlinks-space-sector-clients/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 30
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/09/unsplash.jpg"
+        width: 750
+        height: 500
+        isCached: true
 
-secured: "CZgYyruPjaD/w28WcSoeSaa+ZT8+u/pCJ45e46d4sJbVpSSaBvn54G4hYDnobEwHqrqFnXKC1qoW1YjAu1ruOW3TsR4Y1QeRpw0DGCoRGEnynQivcvbLyiOuxjygrU8UUmnhvYGe58GmkVZGx/OL0Oy4COsQj39CRpC/5XPJKWa5jVkH6hPwR5M89NDpww2yjVTdTEcvcFjnbduET7takv9kida3LQ86uRv4RkNwiCE/lzqqzoPC+9yDu8domWUAzzZNW5++QYAcdodMnoCYmeLXewUpQ5OsGU9MsWsniEm0WeEuYnhhVQF7aLsu/2jsZYbqk3sa1Ti/JAWht7df2Jfv/Lof6I5K73FIk3PMY2ErYZ8q4MHmJo7zLC3ZPC+EjqnAXO8HMPlKJRlLDqx9uPWgXxAwTtUAf9pLK7bdVQxpS0lnbFzTB9zJFLuFZEIpSX4NZGXCloRl6onsG3Byt48HUQOyEwESjZF49hX3VLl+i2nK2St4rPpP9PXFTdmwfRVmJecNW1uA245iT3coUw==;RnKxlN0hzWL0yRDN0jO8hg=="
+secured: "bdf82vxgnxFgGg9T+06B/UMyRcIoDOb74R1fSB3WGmwzIA1cd05UQqLCrvF6x7m+JX37JMKRMiRJu1mBIk5/S0CBiUWQp/A0VmaAhMNWwT/r3zRdPb0kY0CtoOulWURx/Z25w0mYEg8yNI+GkGRW2sQzhs14lO7gvekgkmx27p+1Jo4SpkHb9MuEc0iJ3BRgwbkjnMPwdGiUj+nJtQ1tNrFGy8IcScPl8xvQifAuvswukIRYm9uS94Bj7gDyqeD3Jk9CocgJMs9qvYAn5qNkhL2ICPkdwUcRljFwRtoLBPtNbhytz0U/G1JCccy/7TCJtuYBAgKBH1C6zK32D+AaeGr2FPMrPA/gohljUZSpyjg=;Kw+ggtCW08F/lvgpsqoZeQ=="
 ---
 
