@@ -1,32 +1,26 @@
 ---
 category: news
-title: "Microsoft challenges Twilio with the launch of Azure Communication Services"
-excerpt: "Microsoft today announced the launch of Azure Communication Services, a new set of features in its cloud that enable developers to add voice and video calling, chat and text messages to their apps, as well as old-school telephony."
-publishedDateTime: 2020-09-23T12:09:00Z
-originalUrl: "https://techcrunch.com/2020/09/22/microsoft-challenges-twilio-with-the-launch-of-azure-communication-services/"
-webUrl: "https://techcrunch.com/2020/09/22/microsoft-challenges-twilio-with-the-launch-of-azure-communication-services/"
-ampWebUrl: "https://techcrunch.com/2020/09/22/microsoft-challenges-twilio-with-the-launch-of-azure-communication-services/amp/"
-cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/09/22/microsoft-challenges-twilio-with-the-launch-of-azure-communication-services/amp/"
+title: "SES signs multi-year agreement with Microsoft to be an Azure Orbital partner"
+excerpt: "SES signed a multi-year agreement with Microsoft to be an Azure Orbital partner and to accelerate and expand the use of Microsoft Azure."
+publishedDateTime: 2020-09-23T23:32:00Z
+originalUrl: "https://www.helpnetsecurity.com/2020/09/24/ses-microsoft/"
+webUrl: "https://www.helpnetsecurity.com/2020/09/24/ses-microsoft/"
 type: article
-quality: 95
+quality: 34
 heat: -1
 published: false
 
 provider:
-  name: TechCrunch
-  domain: techcrunch.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/techcrunch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Help Net Security
+  domain: helpnetsecurity.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://techcrunch.com/wp-content/uploads/2020/09/GettyImages-1167012061.jpg?w=1024"
-    width: 1024
-    height: 576
+  - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/08/31114057/insecure-66a.jpg"
+    width: 304
+    height: 405
     isCached: true
 
 related:
@@ -45,6 +39,22 @@ related:
       - url: "https://cdn.neow.in/news/images/uploaded/2020/09/1600717817_azure_at_ignite_story.jpg"
         width: 760
         height: 428
+        isCached: true
+  - title: "Microsoft challenges Twilio with the launch of Azure Communication Services"
+    excerpt: "Microsoft today announced the launch of Azure Communication Services, a new set of features in its cloud that enable developers to add voice and video calling, chat and text messages to their apps, as well as old-school telephony."
+    publishedDateTime: 2020-09-23T12:09:00Z
+    webUrl: "https://techcrunch.com/2020/09/22/microsoft-challenges-twilio-with-the-launch-of-azure-communication-services/"
+    ampWebUrl: "https://techcrunch.com/2020/09/22/microsoft-challenges-twilio-with-the-launch-of-azure-communication-services/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/09/22/microsoft-challenges-twilio-with-the-launch-of-azure-communication-services/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 95
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2020/09/GettyImages-1167012061.jpg?w=1024"
+        width: 1024
+        height: 576
         isCached: true
   - title: "Azure Orbital launches Microsoft into a cloud computing space race with Amazon"
     excerpt: "The world’s largest and most northerly commercial satellite ground station, KSAT’s Svalbard Station in Norway’s Arctic archipelago, will be part of Microsoft’s Azure Orbital network. (KSAT Photo) Call it the Clash of the Cloud Titans: Today ..."
@@ -147,20 +157,6 @@ related:
         width: 647
         height: 450
         isCached: true
-  - title: "SES signs multi-year agreement with Microsoft to be an Azure Orbital partner"
-    excerpt: "SES signed a multi-year agreement with Microsoft to be an Azure Orbital partner and to accelerate and expand the use of Microsoft Azure."
-    publishedDateTime: 2020-09-23T23:32:00Z
-    webUrl: "https://www.helpnetsecurity.com/2020/09/24/ses-microsoft/"
-    type: article
-    provider:
-      name: Help Net Security
-      domain: helpnetsecurity.com
-    quality: 34
-    images:
-      - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/08/31114057/insecure-66a.jpg"
-        width: 304
-        height: 405
-        isCached: true
   - title: "Microsoft expands Azure Arc’s hybrid cloud capabilities for better communications"
     excerpt: "Microsoft Corp. said today at its Ignite 2020 virtual conference that it’s extending the hybrid cloud capabilities of its Azure cloud platform to make it easier for customers to run their ..."
     publishedDateTime: 2020-09-22T15:21:00Z
@@ -190,6 +186,6 @@ related:
         height: 500
         isCached: true
 
-secured: "wz0AtBizKjLIY7tlCowXUzGXhe3judxtM9IRz4zs5o2qJ0+p5VSPyZRYjD05YxK2ghfmlJxMB9kwBcyHv0ll1W/DJjWLychgMqc8ptxuac7j3vtHN/pv4UQiL7iyrMUIH1ceSXdg7m9VXwjzMflBUpzJ3xTxJJe65rq2S6+p7ZBOv4t28mCS2cyv2SRHNqbwqqFNz8OSgmar+BuS5s3+O8s+5r3Ck1xxcMtfkvDzVbVtu3mMK0ReJxfhdfdyW2GQRV3f6a2LZE1CY4fXiU4YENxpGXyYlJjUhNsidRPyq/gY66FKQkeRIBQfMSn1kdm+ubmJv72ADY9ZHDQecPxMvFAmgYusZ1Jgi9Hs2SdvW9gbsUvMW1PyVLDnumvlcRfJT15+460y2Hgbb0Xcv49O2gVhO4AOr0emMNQUw3f0EpBgUbUMF/ZGiYayKPfk0D6jSZTw44SaiXe+4pZN2Ga079hYtOsLuRsBrwKq56D5nrANxHIOy3C8XhZVrLMRq3BJBvE4OfzPhuE6Gp/O/m3hlA==;7rKymoRsy9CamKjjhDP4IQ=="
+secured: "yHfjMMr7oEmgiEsbDHFuZigcHZvQNqB0gjxTyKJTbKSfIPOfQ+CYBTTkSTshO5LA8pHscevK96qg1em4iuvc1Wrl1Ee80JRdr2J8nwZyl0RXQI3WOMqpAelXlL152l4p32dlRZR63jKqVnmrO5+nlGA9UlzboUvTA0rvEQphzBTY7QQBDS50g3yqnEfXEtHWy2+m/0u+lERGaOdELjlQfCq6c51ZHGXAbVhlwLUQT3ZfWM2sN/I+6B2LPZdj+eHKF7mvVn90tiy5UKAcLRdtIp1kRFhIg1PGx0LhiZBPwVTVjwUg+jE4p4xwPHm+0mLUH5qn57Gb3/IZI6CcbjMR9XOZ9l6UNHP0nIHHCLWYsGA=;j+LLSWcyD1P6jgAQZOzd9w=="
 ---
 

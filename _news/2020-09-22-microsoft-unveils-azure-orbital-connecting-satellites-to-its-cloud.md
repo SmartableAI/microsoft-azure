@@ -143,6 +143,20 @@ related:
         width: 647
         height: 450
         isCached: true
+  - title: "SES signs multi-year agreement with Microsoft to be an Azure Orbital partner"
+    excerpt: "SES signed a multi-year agreement with Microsoft to be an Azure Orbital partner and to accelerate and expand the use of Microsoft Azure."
+    publishedDateTime: 2020-09-23T23:32:00Z
+    webUrl: "https://www.helpnetsecurity.com/2020/09/24/ses-microsoft/"
+    type: article
+    provider:
+      name: Help Net Security
+      domain: helpnetsecurity.com
+    quality: 34
+    images:
+      - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/08/31114057/insecure-66a.jpg"
+        width: 304
+        height: 405
+        isCached: true
   - title: "Microsoft expands Azure Arc’s hybrid cloud capabilities for better communications"
     excerpt: "Microsoft Corp. said today at its Ignite 2020 virtual conference that it’s extending the hybrid cloud capabilities of its Azure cloud platform to make it easier for customers to run their ..."
     publishedDateTime: 2020-09-22T15:21:00Z

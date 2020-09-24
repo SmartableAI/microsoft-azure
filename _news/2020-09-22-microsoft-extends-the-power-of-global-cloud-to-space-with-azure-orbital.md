@@ -9,7 +9,7 @@ ampWebUrl: "https://www.neowin.net/amp/microsoft-extends-the-power-of-global-clo
 cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-extends-the-power-of-global-cloud-to-space-with-azure-orbital/"
 type: article
 quality: 97
-heat: 297
+heat: 317
 published: true
 
 provider:
@@ -146,6 +146,20 @@ related:
       - url: "https://virtualizationreview.com/-/media/ECG/VirtualizationReview/Images/IntroImages2019/BlocksColorsPink.jpg"
         width: 647
         height: 450
+        isCached: true
+  - title: "SES signs multi-year agreement with Microsoft to be an Azure Orbital partner"
+    excerpt: "SES signed a multi-year agreement with Microsoft to be an Azure Orbital partner and to accelerate and expand the use of Microsoft Azure."
+    publishedDateTime: 2020-09-23T23:32:00Z
+    webUrl: "https://www.helpnetsecurity.com/2020/09/24/ses-microsoft/"
+    type: article
+    provider:
+      name: Help Net Security
+      domain: helpnetsecurity.com
+    quality: 34
+    images:
+      - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/08/31114057/insecure-66a.jpg"
+        width: 304
+        height: 405
         isCached: true
   - title: "Microsoft expands Azure Arc’s hybrid cloud capabilities for better communications"
     excerpt: "Microsoft Corp. said today at its Ignite 2020 virtual conference that it’s extending the hybrid cloud capabilities of its Azure cloud platform to make it easier for customers to run their ..."

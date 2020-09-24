@@ -157,6 +157,20 @@ related:
         width: 647
         height: 450
         isCached: true
+  - title: "SES signs multi-year agreement with Microsoft to be an Azure Orbital partner"
+    excerpt: "SES signed a multi-year agreement with Microsoft to be an Azure Orbital partner and to accelerate and expand the use of Microsoft Azure."
+    publishedDateTime: 2020-09-23T23:32:00Z
+    webUrl: "https://www.helpnetsecurity.com/2020/09/24/ses-microsoft/"
+    type: article
+    provider:
+      name: Help Net Security
+      domain: helpnetsecurity.com
+    quality: 34
+    images:
+      - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/08/31114057/insecure-66a.jpg"
+        width: 304
+        height: 405
+        isCached: true
   - title: "Microsoft debuts Azure Orbital to power satellite downlinks for space sector clients"
     excerpt: "Microsoft Corp. is building a global network of antennas co-located with its cloud data centers that will enable satellite operators to download data from orbit more easily. The antennas, or ground stations,"
     publishedDateTime: 2020-09-22T23:54:00Z
