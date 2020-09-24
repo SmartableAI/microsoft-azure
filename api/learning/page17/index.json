@@ -4,6 +4,50 @@
   "page": 17,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-azure-in-action.md",
+      "title": "See Azure in action",
+      "excerpt": "The demos in this module provide an opportunity to see Azure in action.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-azure-in-action/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/azure-in-action/",
+      "length": "PT30M",
+      "ratings": {
+        "count": 2086,
+        "average": 4.706136
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/azure-in-action-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Management Tools",
+        "Databases",
+        "Compute"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-azure-sql-secure-data.md",
       "title": "Secure your data with Azure SQL",
       "excerpt": "Secure your data with Azure SQL",
@@ -211,8 +255,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/cmu-cloud-admin-overview/",
       "length": "PT2H5M",
       "ratings": {
-        "count": 286,
-        "average": 4.6573424
+        "count": 287,
+        "average": 4.6585364
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -575,8 +619,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/examine-privacy-compliance-data-protection-standards/",
       "length": "PT27M",
       "ratings": {
-        "count": 4,
-        "average": 4.75
+        "count": 5,
+        "average": 4.8
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -981,8 +1025,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/intro-azure-sphere/",
       "length": "PT30M",
       "ratings": {
-        "count": 39,
-        "average": 4.6666665
+        "count": 40,
+        "average": 4.675
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1166,48 +1210,6 @@
       "price": "Free",
       "topics": [
         "Azure"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-iot-fundamentals.md",
-      "title": "Choose the best Azure IoT service for your application",
-      "excerpt": "Examine Azure's IoT services choose the right service for your scenario.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-iot-fundamentals/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/iot-fundamentals/",
-      "length": "PT25M",
-      "ratings": {
-        "count": 5,
-        "average": 5.0
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "IoT"
       ]
     }
   ],

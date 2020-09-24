@@ -11,8 +11,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/secure-and-isolate-with-nsg-and-service-endpoints/",
       "length": "PT43M",
       "ratings": {
-        "count": 4083,
-        "average": 4.6054373
+        "count": 4096,
+        "average": 4.605713
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -53,8 +53,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/host-domain-azure-dns/",
       "length": "PT43M",
       "ratings": {
-        "count": 873,
-        "average": 4.8373423
+        "count": 885,
+        "average": 4.838418
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -370,6 +370,48 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-hub-and-spoke-network-architecture.md",
+      "title": "Centralize your core services by using hub and spoke Azure virtual network architecture",
+      "excerpt": "Design a network architecture in Azure that allows for growth and flexibility, secure isolation of critical resources, low administrative overhead, and communication with on-premises network resources.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-hub-and-spoke-network-architecture/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/hub-and-spoke-network-architecture/",
+      "length": "PT36M",
+      "ratings": {
+        "count": 1138,
+        "average": 4.6528997
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 112,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/hub-and-spoke-network-architecture-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Networking"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-intro-to-azure-networking.md",
       "title": "Core Cloud Services - Azure networking options",
       "excerpt": "Get acquainted with Azure networking basics to find out how Azure networking helps improve resiliency and reduce latency.",
@@ -377,8 +419,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/intro-to-azure-networking/",
       "length": "PT28M",
       "ratings": {
-        "count": 42990,
-        "average": 4.7647824
+        "count": 42991,
+        "average": 4.764788
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -645,8 +687,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/connect-on-premises-network-with-vpn-gateway/",
       "length": "PT39M",
       "ratings": {
-        "count": 4735,
-        "average": 4.5991554
+        "count": 4736,
+        "average": 4.59924
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1523,8 +1565,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/configure-network-for-azure-virtual-machines/",
       "length": "PT1H34M",
       "ratings": {
-        "count": 3597,
-        "average": 4.553795
+        "count": 3599,
+        "average": 4.554043
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1558,8 +1600,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/integrate-vnets-with-vnet-peering/",
       "length": "PT42M",
       "ratings": {
-        "count": 2472,
-        "average": 4.7196603
+        "count": 2474,
+        "average": 4.7194824
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1649,8 +1691,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/troubleshoot-azure-network-infrastructure/",
       "length": "PT37M",
       "ratings": {
-        "count": 1992,
-        "average": 4.5737953
+        "count": 1993,
+        "average": 4.574009
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1733,8 +1775,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/design-ip-addressing-for-azure/",
       "length": "PT37M",
       "ratings": {
-        "count": 1185,
-        "average": 4.729114
+        "count": 1186,
+        "average": 4.7293425
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1859,8 +1901,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/azure-well-architected-reliability/",
       "length": "PT59M",
       "ratings": {
-        "count": 420,
-        "average": 4.6928573
+        "count": 421,
+        "average": 4.693587
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1907,8 +1949,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/control-network-traffic-flow-with-routes/",
       "length": "PT50M",
       "ratings": {
-        "count": 1687,
-        "average": 4.6301126
+        "count": 1688,
+        "average": 4.6303315
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1992,8 +2034,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/troubleshoot-inbound-connectivity-azure-load-balancer/",
       "length": "PT1H38M",
       "ratings": {
-        "count": 243,
-        "average": 4.6502056
+        "count": 244,
+        "average": 4.6516395
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2025,48 +2067,6 @@
         "Azure",
         "DevOps",
         "Management Tools",
-        "Networking"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-design-a-hybrid-network-architecture.md",
-      "title": "Design a hybrid network architecture on Azure",
-      "excerpt": "You have a traditional on-premises infrastructure that you need to connect to resources in Azure. In this module, you learn how to select a connectivity method for your use cases that balances functionality, cost, and security.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-design-a-hybrid-network-architecture/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/design-a-hybrid-network-architecture/",
-      "length": "PT47M",
-      "ratings": {
-        "count": 1110,
-        "average": 4.6306305
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/design-a-hybrid-network-architecture-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
         "Networking"
       ]
     }

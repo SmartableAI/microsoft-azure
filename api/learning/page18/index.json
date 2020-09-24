@@ -4,6 +4,48 @@
   "page": 18,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-iot-fundamentals.md",
+      "title": "Choose the best Azure IoT service for your application",
+      "excerpt": "Examine Azure's IoT services choose the right service for your scenario.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-iot-fundamentals/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/iot-fundamentals/",
+      "length": "PT25M",
+      "ratings": {
+        "count": 5,
+        "average": 5.0
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "IoT"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-learn-data-science-method.md",
       "title": "Learn the data science method",
       "excerpt": "Learn about the history and motivation behind data science",
@@ -307,8 +349,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/microsoft-runs-on-trust/",
       "length": "PT30M",
       "ratings": {
-        "count": 5441,
-        "average": 4.7423267
+        "count": 5442,
+        "average": 4.742374
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -464,8 +506,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/monitor-azure-vm-using-diagnostic-data/",
       "length": "PT43M",
       "ratings": {
-        "count": 867,
-        "average": 4.6585927
+        "count": 869,
+        "average": 4.6593785
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -588,8 +630,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/protect-identities-with-aad-idp/",
       "length": "PT34M",
       "ratings": {
-        "count": 90,
-        "average": 4.633333
+        "count": 91,
+        "average": 4.626374
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1121,8 +1163,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/scan-open-source/",
       "length": "PT38M",
       "ratings": {
-        "count": 1820,
-        "average": 4.7203298
+        "count": 1821,
+        "average": 4.7204833
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1194,47 +1236,6 @@
       "topics": [
         "Azure",
         "Databases"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-search-organize-repository-history-github.md",
-      "title": "Search and organize repository history by using GitHub",
-      "excerpt": "Learn to search and organize repository history by using filters, blame, and cross-linking on GitHub.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-search-organize-repository-history-github/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/search-organize-repository-history-github/",
-      "length": "PT38M",
-      "ratings": {
-        "count": 82,
-        "average": 4.792683
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/github/search-organize-repository-history-github-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
       ]
     }
   ],
