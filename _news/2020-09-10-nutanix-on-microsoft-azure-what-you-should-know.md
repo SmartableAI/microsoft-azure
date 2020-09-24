@@ -1,21 +1,27 @@
 ---
 category: news
-title: "Nutanix Partners with Microsoft Azure for a Seamless Hybrid Experience"
-excerpt: "SAN JOSE –– Nutanix (NASDAQ: NTNX), a leader in enterprise cloud computing, today announced a new partnership with Microsoft that will enable both companies to deliver a hybrid solution with seamless application,"
-publishedDateTime: 2020-09-08T20:39:00Z
-originalUrl: "https://insidehpc.com/2020/09/nutanix-partners-with-microsoft-azure-for-a-seamless-hybrid-experience/"
-webUrl: "https://insidehpc.com/2020/09/nutanix-partners-with-microsoft-azure-for-a-seamless-hybrid-experience/"
+title: "Nutanix on Microsoft Azure: what you should know"
+excerpt: "“What about running all of Nutanix inside Azure? That’s the thing that really excites us.” Nutanix said the new Microsoft Azure partnership gives businesses a single software stack across ..."
+publishedDateTime: 2020-09-10T06:33:00Z
+originalUrl: "https://www.crn.com.au/news/nutanix-on-microsoft-azure-what-you-should-know-553076"
+webUrl: "https://www.crn.com.au/news/nutanix-on-microsoft-azure-what-you-should-know-553076"
 type: article
-quality: 17
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: insideHPC
-  domain: insidehpc.com
+  name: CRN Australia
+  domain: crn.com.au
 
 topics:
   - Azure
+
+images:
+  - url: "https://i.nextmedia.com.au/News/20200910063553_crn-14_nutanix_iStock-1208238427_(1).jpg"
+    width: 1400
+    height: 900
+    isCached: true
 
 related:
   - title: "Nutanix Announces Partnership with Microsoft Azure for a Seamless Hybrid Experience"
@@ -46,20 +52,6 @@ related:
         width: 610
         height: 457
         isCached: true
-  - title: "Nutanix on Microsoft Azure: what you should know"
-    excerpt: "“What about running all of Nutanix inside Azure? That’s the thing that really excites us.” Nutanix said the new Microsoft Azure partnership gives businesses a single software stack across ..."
-    publishedDateTime: 2020-09-10T06:33:00Z
-    webUrl: "https://www.crn.com.au/news/nutanix-on-microsoft-azure-what-you-should-know-553076"
-    type: article
-    provider:
-      name: CRN Australia
-      domain: crn.com.au
-    quality: 37
-    images:
-      - url: "https://i.nextmedia.com.au/News/20200910063553_crn-14_nutanix_iStock-1208238427_(1).jpg"
-        width: 1400
-        height: 900
-        isCached: true
   - title: "Platform.sh announces expansion of services to Microsoft Azure West US 2 Datacenter Region"
     excerpt: "PRNewswire/ -- Platform.sh, an end-to-end web platform for agile teams, is pleased to announce the expansion of its services to the West US 2 datacenter"
     publishedDateTime: 2020-09-08T16:00:00Z
@@ -74,6 +66,15 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Nutanix Partners with Microsoft Azure for a Seamless Hybrid Experience"
+    excerpt: "SAN JOSE –– Nutanix (NASDAQ: NTNX), a leader in enterprise cloud computing, today announced a new partnership with Microsoft that will enable both companies to deliver a hybrid solution with seamless application,"
+    publishedDateTime: 2020-09-08T20:39:00Z
+    webUrl: "https://insidehpc.com/2020/09/nutanix-partners-with-microsoft-azure-for-a-seamless-hybrid-experience/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 17
   - title: "Nutanix Announces Partnership with Microsoft Azure for a Seamless Hybrid Experience"
     excerpt: "“We are excited about what the partnership between Nutanix and Microsoft will bring, with Nutanix Clusters for Azure and beyond. I envision this hybrid cloud solution will accelerate our teams ..."
     publishedDateTime: 2020-09-08T12:00:00Z
@@ -84,6 +85,6 @@ related:
       domain: businesswire.com
     quality: 11
 
-secured: "yu5Qo7BP6WHgcemAxPOPBs870/D00/rK+2QFpLI74nB8fnZ/CpXV4bXrAFpXU06KQKgWlz1Ln7LKBHi4KuqpI8Ps6MNk+tgEOgPrOmuIh3LFieNXfm07pOJ18FoQVEdJhEgM7pO2LD7paTJWQkPCXcQooW23NoeGAF7LBQ1RJ4miwmCJH9rOsOKfUerPW0blXAsX3ERJfkhGJy32hDIV9Nskq8mtjbFqORaSon99rVgOMgQAoS3Rsf+xjpQ/SujPo9f1MvPwS1nfh9Iyb+fhs2qCHLFMju1wwDfo5ur9ax/rClCjiPeTW7yJlGqGYzdCNOxMHpU6UpYVewHMDZjpFnbdE8Q10wFipBS8T1Q4Rj8=;cwAvROLGLrzyQCSoiLns6Q=="
+secured: "FWQ5zFbjmWy7urw9qjKa+NE3IQLcVs01ibgbs5Wu4BS+vy+s6E0hMOlTahTlcwvR7b+E05m57T27FQoKxkjjPbWyGgV+E+IBUle+D9bB3nlnH1FYrEM60OE4+XofT3RbJDGOvuoV7wP0lFxDAGdF9BDg4F0Wypz2VufAtzktTKSiHF301eQusdPWa+Hr1WUpWM798Xy6GUx7ilRxgOe0BHYJX2yBVXp7XCBP8FwaqBSnbh4pBe7QS7Ff/tTkyaQ2rqfHA2Yh8f8k8so2zEF+BgjvPyC7MjiFfutku+4xkASKJ6HBvVwAXPufOhggQ9AY9xKAkD+itwfQJoyh9eYAUNnQ1vxjhYZEwv57nK6HczQ=;vAamSA+97he4tWyfL2i8yQ=="
 ---
 

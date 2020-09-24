@@ -52,6 +52,20 @@ related:
         width: 610
         height: 457
         isCached: true
+  - title: "Nutanix on Microsoft Azure: what you should know"
+    excerpt: "“What about running all of Nutanix inside Azure? That’s the thing that really excites us.” Nutanix said the new Microsoft Azure partnership gives businesses a single software stack across ..."
+    publishedDateTime: 2020-09-10T06:33:00Z
+    webUrl: "https://www.crn.com.au/news/nutanix-on-microsoft-azure-what-you-should-know-553076"
+    type: article
+    provider:
+      name: CRN Australia
+      domain: crn.com.au
+    quality: 37
+    images:
+      - url: "https://i.nextmedia.com.au/News/20200910063553_crn-14_nutanix_iStock-1208238427_(1).jpg"
+        width: 1400
+        height: 900
+        isCached: true
   - title: "Nutanix Partners with Microsoft Azure for a Seamless Hybrid Experience"
     excerpt: "SAN JOSE –– Nutanix (NASDAQ: NTNX), a leader in enterprise cloud computing, today announced a new partnership with Microsoft that will enable both companies to deliver a hybrid solution with seamless application,"
     publishedDateTime: 2020-09-08T20:39:00Z

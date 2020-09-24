@@ -38,6 +38,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Nutanix on Microsoft Azure: what you should know"
+    excerpt: "“What about running all of Nutanix inside Azure? That’s the thing that really excites us.” Nutanix said the new Microsoft Azure partnership gives businesses a single software stack across ..."
+    publishedDateTime: 2020-09-10T06:33:00Z
+    webUrl: "https://www.crn.com.au/news/nutanix-on-microsoft-azure-what-you-should-know-553076"
+    type: article
+    provider:
+      name: CRN Australia
+      domain: crn.com.au
+    quality: 37
+    images:
+      - url: "https://i.nextmedia.com.au/News/20200910063553_crn-14_nutanix_iStock-1208238427_(1).jpg"
+        width: 1400
+        height: 900
+        isCached: true
   - title: "Platform.sh announces expansion of services to Microsoft Azure West US 2 Datacenter Region"
     excerpt: "PRNewswire/ -- Platform.sh, an end-to-end web platform for agile teams, is pleased to announce the expansion of its services to the West US 2 datacenter"
     publishedDateTime: 2020-09-08T16:00:00Z
