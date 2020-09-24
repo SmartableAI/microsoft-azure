@@ -4,50 +4,6 @@
   "page": 16,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-react-to-state-changes-using-event-grid.md",
-      "title": "React to state changes in your Azure services by using Event Grid",
-      "excerpt": "Build a serverless application architecture, automate your operations, and integrate applications by handling Azure events with Event Grid.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-react-to-state-changes-using-event-grid/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/react-to-state-changes-using-event-grid/",
-      "length": "PT33M",
-      "ratings": {
-        "count": 259,
-        "average": 4.6023164
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/react-to-state-changes-using-event-grid-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Integration",
-        "IoT",
-        "Blockchain"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-read-text-computer-vision.md",
       "title": "Read text with the Computer Vision service",
       "excerpt": "Optical character recognition (OCR) enables artificial intelligence (AI) systems to read text in images, enabling applications to extract information from photographs, scanned documents, and other sources of digitized text.",
@@ -139,8 +95,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/run-web-app-background-task-with-webjobs/",
       "length": "PT39M",
       "ratings": {
-        "count": 614,
-        "average": 4.3843646
+        "count": 615,
+        "average": 4.385366
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1331,8 +1287,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/ai-strategy-in-government/",
       "length": "PT47M",
       "ratings": {
-        "count": 597,
-        "average": 4.7269683
+        "count": 598,
+        "average": 4.7274246
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1372,8 +1328,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/ai-strategy-in-manufacturing/",
       "length": "PT41M",
       "ratings": {
-        "count": 715,
-        "average": 4.7524476
+        "count": 716,
+        "average": 4.7527933
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1413,8 +1369,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/ai-strategy-in-retail/",
       "length": "PT40M",
       "ratings": {
-        "count": 637,
-        "average": 4.7755103
+        "count": 638,
+        "average": 4.775862
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1619,8 +1575,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/securely-provision-iot-devices-at-scale-with-device-provisioning-service/",
       "length": "PT57M",
       "ratings": {
-        "count": 202,
-        "average": 4.6237626
+        "count": 203,
+        "average": 4.6256156
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1651,6 +1607,47 @@
       "topics": [
         "Azure",
         "IoT"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-azure-ai-strategy.md",
+      "title": "Microsoft Azure Artificial Intelligence (AI) strategy and solutions",
+      "excerpt": "This module provides an overview of Azure AI and demonstrates how Microsoft tools, services, and infrastructure can help make AI real for your organization, whether you want to unlock insights from your latent data with knowledge mining, develop your own AI models with machine learning, or build immersive apps using AI.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-azure-ai-strategy/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/azure-artificial-intelligence/",
+      "length": "PT59M",
+      "ratings": {
+        "count": 4380,
+        "average": 4.750913
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/azure-artificial-intelligence-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
       ]
     }
   ],

@@ -4,47 +4,6 @@
   "page": 13,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-introduction-python-nasa.md",
-      "title": "Introduction to Python for space exploration",
-      "excerpt": "Get an introduction to the types of space exploration problems that Python and data science can influence.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-introduction-python-nasa/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/introduction-python-nasa/",
-      "length": "PT23M",
-      "ratings": {
-        "count": 526,
-        "average": 4.728137
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 54,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/student-evangelism/introduction-python-nasa-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-manage-build-dependencies.md",
       "title": "Manage build dependencies with Azure Artifacts",
       "excerpt": "In this module, the Space Game web team guides you through creating a build pipeline that produces a package that can be used by multiple applications.",
@@ -295,8 +254,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/ai-strategy-in-education/",
       "length": "PT51M",
       "ratings": {
-        "count": 533,
-        "average": 4.7579737
+        "count": 534,
+        "average": 4.758427
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -495,7 +454,7 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/azure-compute-fundamentals/",
       "length": "PT52M",
       "ratings": {
-        "count": 8,
+        "count": 10,
         "average": 5.0
       },
       "provider": {
@@ -619,8 +578,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/azure-sql-deploy-configure/",
       "length": "PT1H14M",
       "ratings": {
-        "count": 114,
-        "average": 4.7017546
+        "count": 115,
+        "average": 4.695652
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -660,8 +619,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/build-an-ai-ready-culture/",
       "length": "PT49M",
       "ratings": {
-        "count": 880,
-        "average": 4.739773
+        "count": 881,
+        "average": 4.740068
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -777,8 +736,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/create-azure-db-for-postgresql-server/",
       "length": "PT44M",
       "ratings": {
-        "count": 1809,
-        "average": 4.6218905
+        "count": 1810,
+        "average": 4.6215467
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -896,8 +855,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/develop-test-deploy-azure-functions-with-core-tools/",
       "length": "PT20M",
       "ratings": {
-        "count": 1700,
-        "average": 4.704118
+        "count": 1701,
+        "average": 4.704292
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1049,8 +1008,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/intro-to-kubernetes/",
       "length": "PT53M",
       "ratings": {
-        "count": 505,
-        "average": 4.6138616
+        "count": 506,
+        "average": 4.6146245
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1199,6 +1158,48 @@
         "Security",
         "Compute",
         "Web"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-neural-networks.md",
+      "title": "Make predictions from complex data with neural networks",
+      "excerpt": "Use neural network models to make predictions. Change neural network structures to refine predictions using TensorFlow and Keras.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-neural-networks/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-neural-networks/",
+      "length": "38 mins",
+      "ratings": {
+        "count": 287,
+        "average": 4.383275
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/introduction-to-neural-networks-social.png",
+          "width": 800,
+          "height": 400,
+          "title": "Make predictions from complex data with neural networks",
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
       ]
     }
   ],

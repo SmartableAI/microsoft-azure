@@ -95,8 +95,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/foster-ai-ready-culture-customer-service/",
       "length": "PT38M",
       "ratings": {
-        "count": 506,
-        "average": 4.7667985
+        "count": 507,
+        "average": 4.767258
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -128,8 +128,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/foster-ai-ready-culture-marketing/",
       "length": "PT38M",
       "ratings": {
-        "count": 621,
-        "average": 4.7826085
+        "count": 622,
+        "average": 4.782958
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -169,8 +169,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/foster-ai-ready-culture-sales/",
       "length": "PT38M",
       "ratings": {
-        "count": 513,
-        "average": 4.6939573
+        "count": 514,
+        "average": 4.6945524
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -341,47 +341,6 @@
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/github/github-actions-automate-tasks-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-govern-monitor-secure-resources-azure-lighthouse.md",
-      "title": "Use Azure Lighthouse to govern, monitor, and secure customer resources",
-      "excerpt": "Learn about how Azure Lighthouse can help you monitor, secure, and govern your customer resources.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-govern-monitor-secure-resources-azure-lighthouse/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/govern-monitor-secure-resources-azure-lighthouse/",
-      "length": "PT40M",
-      "ratings": {
-        "count": 8,
-        "average": 4.5
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
           "width": 640,
           "height": 320,
           "isCached": true
@@ -1207,6 +1166,49 @@
           "url": "https://docs.microsoft.com/learn/achievements/implement-windows-server-iaas-vm-ip-addressing-and-routing-social.png",
           "width": 643,
           "height": 321,
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Management Tools",
+        "Compute"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-implement-windows-server-iaas-vm-network-security.md",
+      "title": "Implement Windows Server IaaS VM network security",
+      "excerpt": "Implement Windows Server IaaS VM network security",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-implement-windows-server-iaas-vm-network-security/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/implement-windows-server-iaas-virtual-machine-network-security/",
+      "length": "PT1H9M",
+      "ratings": {
+        "count": 21,
+        "average": 4.6666665
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
           "isCached": true
         }
       ],

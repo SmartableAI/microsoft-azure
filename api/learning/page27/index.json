@@ -4,47 +4,6 @@
   "page": 27,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-n-tier-architecture.md",
-      "title": "Tour the N-tier architecture style for your application",
-      "excerpt": "Discover the benefits of a Resource Manager template to deploy an application in an N-tier architecture and review best practices for deployments of this style.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-n-tier-architecture/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/n-tier-architecture/",
-      "length": "PT39M",
-      "ratings": {
-        "count": 630,
-        "average": 4.8095236
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/n-tier-architecture-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-nodejs-files.md",
       "title": "Work with files and directories in a Node.js app",
       "excerpt": "Build an app that manipulates files and directories with Node.js.",
@@ -486,6 +445,50 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-plan-deploy-windows-server-iaas-vms.md",
+      "title": "Plan and deploy Windows Server IaaS Virtual Machines",
+      "excerpt": "You'll be able to describe Azure compute and storage in relation to Azure VMs, and deploy Azure VMs by using the Azure portal, Azure CLI, or templates.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-plan-deploy-windows-server-iaas-vms/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/plan-deploy-windows-server-iaas-virtual-machines/",
+      "length": "PT52M",
+      "ratings": {
+        "count": 6,
+        "average": 4.6666665
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Management Tools",
+        "Storage",
+        "Compute"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-plan-manage-azure-costs.md",
       "title": "Plan and manage your Azure costs",
       "excerpt": "Migration to the cloud presents new ways to think about your IT expenses. This module teaches you about the factors that influence cost and tools you can use to help estimate and manage your cloud spend.",
@@ -493,7 +496,7 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/plan-manage-azure-costs/",
       "length": "PT43M",
       "ratings": {
-        "count": 3,
+        "count": 4,
         "average": 5.0
       },
       "provider": {
@@ -618,7 +621,7 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/protect-against-security-threats-azure/",
       "length": "PT23M",
       "ratings": {
-        "count": 5,
+        "count": 6,
         "average": 5.0
       },
       "provider": {
@@ -990,8 +993,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/publish-app-service-static-web-app-api/",
       "length": "PT38M",
       "ratings": {
-        "count": 267,
-        "average": 4.775281
+        "count": 268,
+        "average": 4.776119
       },
       "provider": {
         "name": "Microsoft Learn",

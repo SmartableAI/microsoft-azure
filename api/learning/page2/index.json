@@ -127,8 +127,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/intro-to-azure-compute/",
       "length": "PT38M",
       "ratings": {
-        "count": 62880,
-        "average": 4.709701
+        "count": 62889,
+        "average": 4.709727
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -167,8 +167,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/m365-identity-cultural-shift/",
       "length": "PT31M",
       "ratings": {
-        "count": 1274,
-        "average": 4.747253
+        "count": 1283,
+        "average": 4.748246
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -209,8 +209,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/m365-threat-safeguard/",
       "length": "PT1H2M",
       "ratings": {
-        "count": 296,
-        "average": 4.7871623
+        "count": 303,
+        "average": 4.792079
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -338,8 +338,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/intro-to-security-in-azure/",
       "length": "PT1H16M",
       "ratings": {
-        "count": 44071,
-        "average": 4.7028203
+        "count": 44085,
+        "average": 4.7028923
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -409,7 +409,7 @@
           "path": "",
           "title": "Protect data in-transit and at rest",
           "excerpt": "Protect data in-transit and at rest",
-          "heat": 150,
+          "heat": 210,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/protect-data-in-transit-and-at-rest-social.png",
@@ -469,8 +469,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/configure-database-authentication-authorization/",
       "length": "PT49M",
       "ratings": {
-        "count": 251,
-        "average": 4.8247013
+        "count": 257,
+        "average": 4.828794
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -510,8 +510,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/explore-azure-infrastructure/",
       "length": "PT45M",
       "ratings": {
-        "count": 66605,
-        "average": 4.71346
+        "count": 66612,
+        "average": 4.71349
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -543,8 +543,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/implement-compliance-controls-sensitive-data/",
       "length": "PT15M",
       "ratings": {
-        "count": 241,
-        "average": 4.8381743
+        "count": 250,
+        "average": 4.832
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -585,8 +585,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/principles-cloud-computing-dynamics-365-deployment/",
       "length": "PT45M",
       "ratings": {
-        "count": 2025,
-        "average": 4.706173
+        "count": 2032,
+        "average": 4.7062006
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -836,8 +836,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/intro-to-data-in-azure/",
       "length": "PT25M",
       "ratings": {
-        "count": 54522,
-        "average": 4.733447
+        "count": 54531,
+        "average": 4.733473
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -871,8 +871,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/tour-azure-portal/",
       "length": "PT1H13M",
       "ratings": {
-        "count": 50003,
-        "average": 4.7076573
+        "count": 50009,
+        "average": 4.7076926
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -905,8 +905,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/welcome-to-azure/",
       "length": "PT36M",
       "ratings": {
-        "count": 65668,
-        "average": 4.8002834
+        "count": 65675,
+        "average": 4.800244
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1209,8 +1209,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/describe-performance-monitoring/",
       "length": "PT42M",
       "ratings": {
-        "count": 190,
-        "average": 4.8
+        "count": 197,
+        "average": 4.8020306
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1244,47 +1244,6 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-choose-compute-provisioning.md",
-      "title": "Choose a compute provisioning solution for your application",
-      "excerpt": "Discover the services and tools available to automate the deployment and configuration of your Azure infrastructure.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-choose-compute-provisioning/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/choose-compute-provisioning/",
-      "length": "PT50M",
-      "ratings": {
-        "count": 728,
-        "average": 4.6497254
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 111,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/choose-compute-provisioning-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-intro-to-governance.md",
       "title": "Apply and monitor infrastructure standards with Azure Policy",
       "excerpt": "Learn about tools Azure provides for policy and standards management that support your teams' ownership and development of their resources in the cloud.",
@@ -1292,8 +1251,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/intro-to-governance/",
       "length": "PT46M",
       "ratings": {
-        "count": 37721,
-        "average": 4.6302323
+        "count": 37726,
+        "average": 4.6302814
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1319,15 +1278,15 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-plan-deploy-windows-server-iaas-vms.md",
-      "title": "Plan and deploy Windows Server IaaS Virtual Machines",
-      "excerpt": "You'll be able to describe Azure compute and storage in relation to Azure VMs, and deploy Azure VMs by using the Azure portal, Azure CLI, or templates.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-plan-deploy-windows-server-iaas-vms/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/plan-deploy-windows-server-iaas-virtual-machines/",
-      "length": "PT52M",
+      "path": "_learning/courses/microsoft-learn-govern-monitor-secure-resources-azure-lighthouse.md",
+      "title": "Use Azure Lighthouse to govern, monitor, and secure customer resources",
+      "excerpt": "Learn about how Azure Lighthouse can help you monitor, secure, and govern your customer resources.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-govern-monitor-secure-resources-azure-lighthouse/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/govern-monitor-secure-resources-azure-lighthouse/",
+      "length": "PT40M",
       "ratings": {
-        "count": 6,
-        "average": 4.6666665
+        "count": 8,
+        "average": 4.5
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1342,7 +1301,7 @@
         ]
       },
       "levels": [
-        "Intermediate"
+        "Beginner"
       ],
       "heat": 110,
       "images": [
@@ -1356,10 +1315,7 @@
       "type": "course",
       "price": "Free",
       "topics": [
-        "Azure",
-        "Management Tools",
-        "Storage",
-        "Compute"
+        "Azure"
       ]
     },
     {
@@ -1370,8 +1326,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/explore-causes-performance-issues/",
       "length": "PT36M",
       "ratings": {
-        "count": 162,
-        "average": 4.783951
+        "count": 167,
+        "average": 4.790419
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1692,8 +1648,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/control-and-organize-with-azure-resource-manager/",
       "length": "PT46M",
       "ratings": {
-        "count": 37845,
-        "average": 4.7122736
+        "count": 37851,
+        "average": 4.7122664
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1726,8 +1682,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/describe-performance-related-maintenance-tasks-sql-server/",
       "length": "PT23M",
       "ratings": {
-        "count": 139,
-        "average": 4.76259
+        "count": 145,
+        "average": 4.7724137
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1768,8 +1724,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/get-started-ai-fundamentals/",
       "length": "PT27M",
       "ratings": {
-        "count": 2390,
-        "average": 4.725523
+        "count": 2409,
+        "average": 4.7251973
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1800,6 +1756,40 @@
       "topics": [
         "Azure",
         "AI"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-intro-to-azure-networking.md",
+      "title": "Core Cloud Services - Azure networking options",
+      "excerpt": "Get acquainted with Azure networking basics to find out how Azure networking helps improve resiliency and reduce latency.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-to-azure-networking/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/intro-to-azure-networking/",
+      "length": "PT28M",
+      "ratings": {
+        "count": 43003,
+        "average": 4.764784
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 102,
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Networking"
       ]
     }
   ],

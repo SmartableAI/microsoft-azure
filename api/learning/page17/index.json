@@ -4,47 +4,6 @@
   "page": 17,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-azure-ai-strategy.md",
-      "title": "Microsoft Azure Artificial Intelligence (AI) strategy and solutions",
-      "excerpt": "This module provides an overview of Azure AI and demonstrates how Microsoft tools, services, and infrastructure can help make AI real for your organization, whether you want to unlock insights from your latent data with knowledge mining, develop your own AI models with machine learning, or build immersive apps using AI.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-azure-ai-strategy/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/azure-artificial-intelligence/",
-      "length": "PT59M",
-      "ratings": {
-        "count": 4380,
-        "average": 4.750913
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/azure-artificial-intelligence-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-azure-in-action.md",
       "title": "See Azure in action",
       "excerpt": "The demos in this module provide an opportunity to see Azure in action.",
@@ -138,8 +97,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/azure-well-architected-operational-excellence/",
       "length": "PT54M",
       "ratings": {
-        "count": 423,
-        "average": 4.671395
+        "count": 425,
+        "average": 4.672941
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -162,6 +121,47 @@
           "url": "https://docs.microsoft.com/learn/achievements/azure-well-architected-operational-excellence-social.png",
           "width": 640,
           "height": 320,
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-choose-compute-provisioning.md",
+      "title": "Choose a compute provisioning solution for your application",
+      "excerpt": "Discover the services and tools available to automate the deployment and configuration of your Azure infrastructure.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-choose-compute-provisioning/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/choose-compute-provisioning/",
+      "length": "PT50M",
+      "ratings": {
+        "count": 728,
+        "average": 4.6497254
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/choose-compute-provisioning-social.png",
+          "width": 800,
+          "height": 400,
           "isCached": true
         }
       ],
@@ -736,8 +736,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/foster-ai-ready-culture-finance/",
       "length": "PT39M",
       "ratings": {
-        "count": 646,
-        "average": 4.803406
+        "count": 647,
+        "average": 4.8037095
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -818,8 +818,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/ha-application-storage-with-grs/",
       "length": "PT34M",
       "ratings": {
-        "count": 1261,
-        "average": 4.478192
+        "count": 1262,
+        "average": 4.477813
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -859,8 +859,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/identify-faces-with-computer-vision/",
       "length": "PT47M",
       "ratings": {
-        "count": 1362,
-        "average": 4.6453743
+        "count": 1363,
+        "average": 4.6441674
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -943,8 +943,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/improve-reliability-failure/",
       "length": "PT34M",
       "ratings": {
-        "count": 89,
-        "average": 4.6404495
+        "count": 90,
+        "average": 4.633333
       },
       "provider": {
         "name": "Microsoft Learn",

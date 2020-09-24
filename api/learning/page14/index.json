@@ -4,48 +4,6 @@
   "page": 14,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-neural-networks.md",
-      "title": "Make predictions from complex data with neural networks",
-      "excerpt": "Use neural network models to make predictions. Change neural network structures to refine predictions using TensorFlow and Keras.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-neural-networks/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-neural-networks/",
-      "length": "38 mins",
-      "ratings": {
-        "count": 287,
-        "average": 4.383275
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 53,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/introduction-to-neural-networks-social.png",
-          "width": 800,
-          "height": 400,
-          "title": "Make predictions from complex data with neural networks",
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-protect-apis-on-api-management.md",
       "title": "Protect your APIs on Azure API Management",
       "excerpt": "Protect your back-end APIs from information exposure and implement throttling to prevent resource exhaustion with policies in Azure API Management.",
@@ -262,8 +220,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/run-quality-tests-build-pipeline/",
       "length": "PT1H22M",
       "ratings": {
-        "count": 2997,
-        "average": 4.725392
+        "count": 2999,
+        "average": 4.725575
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -471,8 +429,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/translate-text-with-translation-service/",
       "length": "PT29M",
       "ratings": {
-        "count": 172,
-        "average": 4.7325583
+        "count": 173,
+        "average": 4.728324
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -959,8 +917,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/ai-strategy-in-financial-services/",
       "length": "PT45M",
       "ratings": {
-        "count": 840,
-        "average": 4.7309523
+        "count": 841,
+        "average": 4.731272
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1000,8 +958,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/ai-strategy-in-healthcare/",
       "length": "PT40M",
       "ratings": {
-        "count": 640,
-        "average": 4.778125
+        "count": 641,
+        "average": 4.778471
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1126,7 +1084,7 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/azure-architecture-fundamentals/",
       "length": "PT34M",
       "ratings": {
-        "count": 10,
+        "count": 11,
         "average": 5.0
       },
       "provider": {
@@ -1299,7 +1257,7 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/azure-storage-fundamentals/",
       "length": "PT27M",
       "ratings": {
-        "count": 6,
+        "count": 7,
         "average": 5.0
       },
       "provider": {
@@ -1488,6 +1446,47 @@
           "url": "https://docs.microsoft.com/learn/achievements/github/communicate-using-markdown-social.png",
           "width": 640,
           "height": 320,
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-configure-security-policies-to-manage-data.md",
+      "title": "Configure security policies to manage data",
+      "excerpt": "Learn how to set up policies to classify, retain, and protect your cloud-based data.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-configure-security-policies-to-manage-data/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/configure-security-policies-to-manage-data/",
+      "length": "PT39M",
+      "ratings": {
+        "count": 1921,
+        "average": 4.5960436
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/configure-security-policies-to-manage-data-social.png",
+          "width": 800,
+          "height": 400,
           "isCached": true
         }
       ],

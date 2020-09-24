@@ -4,50 +4,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-m365-azure-migrate-replicate-virtual-servers.md",
-      "title": "Replicate and migrate virtual machine servers with Azure Migrate",
-      "excerpt": "Learn the process for replicating, testing, and finally migrating your virtual machines into production.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-m365-azure-migrate-replicate-virtual-servers/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/m365-azure-migrate-replicate-virtual-servers/",
-      "length": "PT28M",
-      "ratings": {
-        "count": 54,
-        "average": 4.8333335
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/replicate-migrate-virtual-machine-servers-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Compute",
-        "Migration",
-        "Management Tools"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-manage-hybrid-workloads-with-azure-arc.md",
       "title": "Manage hybrid workloads with Azure Arc",
       "excerpt": "You will learn to describe Azure Arc, implement Azure Arc with on-premises server instances, deploy Azure policies with Azure Arc, and use role-based access control (RBAC) to restrict access to Log Analytics data.",
@@ -1594,6 +1550,49 @@
       "topics": [
         "Azure",
         "Identity",
+        "Management Tools",
+        "Compute"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-implement-hybrid-network-infrastructure.md",
+      "title": "Implement hybrid network infrastructure",
+      "excerpt": "You'll learn to connect your on-premises environment to Azure, implement subnets and routing between your on-premises and cloud environments, and ensure that workloads in the cloud and on-premises perform DNS resolution to locate each other.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-implement-hybrid-network-infrastructure/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/implement-hybrid-network-infrastructure/",
+      "length": "PT1H9M",
+      "ratings": {
+        "count": 8,
+        "average": 4.875
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
         "Management Tools",
         "Compute"
       ]
