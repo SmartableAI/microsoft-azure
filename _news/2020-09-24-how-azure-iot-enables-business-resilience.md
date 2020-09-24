@@ -6,9 +6,9 @@ publishedDateTime: 2020-09-24T10:00:26Z
 originalUrl: "https://azure.microsoft.com/blog/how-azure-iot-enables-business-resilience/"
 webUrl: "https://azure.microsoft.com/blog/how-azure-iot-enables-business-resilience/"
 type: article
-quality: 67
-heat: 67
-published: false
+quality: 84
+heat: 84
+published: true
 
 provider:
   name: Microsoft
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - Azure
+  - IoT
 
 secured: "TNBjAaZfAWem30Aw8zhQs3x49wSU+Cjvsye9O95i2TbD7KJjeFTKipoW18IoulqoV5SIsKQWomfOGXkRuuMyLttiIHgtb2snWzdNzYRXaXlAn1bkTj1FUG7N9CXdcbQh2k0PEQ821pT0PgumgiR0BeptrL8UhBrpG6FJAUgimVLVDCCuCHxvMyFJgLzBlgi+fdDoqPhjYqPkJ9xnPZeglVLKk5Xic3T4ntljDhaOFSaiB1PhfcGQ3FTc9OCwp6tOwClp9udtSSylYaWM4xYI00Eawo7cbYkCV7dFpaYhxgp57ZssUnr3sUhzPC8PcCby8a1hNb5m/+oqz4qKFnm+wuAhuEKmPo/+QJnWAY1Loow=;en3yPqurGXPve2jPiwBlmw=="
 ---

@@ -3,14 +3,14 @@ category: news
 title: "Microsoft: Azure-based Sentinel security gets new analytics to spot threats in odd behavior"
 excerpt: "One year on from reaching general availability, Microsoft's Azure-based Sentinel security system now brings new user and entity behavioral analytics to help detect unknown and insider threats faster."
 publishedDateTime: 2020-09-24T10:41:00Z
-originalUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/article/microsoft-azure-based-sentinel-security-gets-new-analytics-to-spot-threats-in-odd-behavior/"
-webUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/article/microsoft-azure-based-sentinel-security-gets-new-analytics-to-spot-threats-in-odd-behavior/"
-ampWebUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/microsoft-azure-based-sentinel-security-gets-new-analytics-to-spot-threats-in-odd-behavior/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/microsoft-azure-based-sentinel-security-gets-new-analytics-to-spot-threats-in-odd-behavior/"
+originalUrl: "https://www.zdnet.com/article/microsoft-azure-based-sentinel-security-gets-new-analytics-to-spot-threats-in-odd-behavior/"
+webUrl: "https://www.zdnet.com/article/microsoft-azure-based-sentinel-security-gets-new-analytics-to-spot-threats-in-odd-behavior/"
+ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-azure-based-sentinel-security-gets-new-analytics-to-spot-threats-in-odd-behavior/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-azure-based-sentinel-security-gets-new-analytics-to-spot-threats-in-odd-behavior/"
 type: article
-quality: 67
-heat: 67
-published: false
+quality: 87
+heat: 87
+published: true
 
 provider:
   name: ZDNet
@@ -23,6 +23,12 @@ provider:
 topics:
   - Azure
 
-secured: "8m064iKWyRlgmFcZ4Mz7oIR7O9AwudRCmV4IHVkbCKwg+sS67ctCmRw09npnwtjv3Jjv/ptZD3+eqVI01zHJbr1l87WarPDZ5h++G4abSfXd2zQdoDW6JqFEa8wIxtaODkjMaWB0yVcZbAoHlZZ6U+67YqaLXKz9aDC/PfJdCxbu7oO9eFKi3KiMSddkebKutmpiOiYBfbopZbq5zgO1/3JoisB2qnCaA+ifYDSkLeRivf4U62HnZpw4bXCfgEtfviV6/8wsJSY5roebhPyLbibNDAkk9AxK3g6/csX+Umdnh3UBYfO1+kdp0ySlbCs/2jRWKoAserpmL3bv6DFLgcMVuvVUxlvtLdoY4/1xDVzAOa9MDZUyXx/ao9qWoSSAuMmzbJPCHG8e37Fnc3qFtXabNjaRj/rDWyhR7RYeyUNjDsSLEbHiasj4iNeUxTqrKI5eXvMvID1uvsuRC8aeo4JMv91xc+/XDR+g0E0sbk60/MkMGep8mJTJw0Yf4W90I3EUCDoCRubi/BY7LSRQGA==;OnfPMl2BXqNbet7PuikPlA=="
+images:
+  - url: "https://zdnet4.cbsistatic.com/hub/i/r/2020/08/25/1284a515-4b68-4854-acfa-0aff9b6e5fba/thumbnail/1200x675/5dfcbb4710ad981ec95dff7c7eba7732/what-is-microsoft-azure-the-business-gui-5f3db47671c30002b05ceecf-1-aug-25-2020-17-10-49-poster.jpg"
+    width: 1200
+    height: 675
+    isCached: true
+
+secured: "f8SZV3l2xD0galZkRh6Wr+SKd6r7s9hnbXlTHA1nTVv7kYSShvJO0aU1jBr1WbDtU5dttgaG3xOe6FA6SG0LxqI29ONSKh6MooFLBYDBPr+qhrRSy41/pfD/Ja4UHUPXvzA+cFeNfg1vCiXzIKfNURRvBmL7TcMKxZEsjpPWqyodr/mDRS0xbOhj15wB+E6hYXjbwtJeKWa9KES0FJyOlZbgcs0pflSTsmwYvo7mIWCPn0EMjdP//q3ydxWEcHIYs5lAUgjCmdJwBT2O8QUSkdvl+KTDv4eKDgiBHI2IOkTnTunnxEHxLwPkxPEsXNHQRj/26IhoLjK2tKaWB6zC6rbCkp9nDMg/OeKNpJXAtpY=;fqg6botKBWXFLZxOChkgXg=="
 ---
 
