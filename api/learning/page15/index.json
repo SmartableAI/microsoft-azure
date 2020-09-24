@@ -4,6 +4,41 @@
   "page": 15,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-create-computer-vision-service.md",
+      "title": "Process images with the Computer Vision service",
+      "excerpt": "Use the Computer Vision API to analyze images for insights, extract text from images, and generate high-quality thumbnails.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-create-computer-vision-service/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/create-computer-vision-service-to-classify-images/",
+      "length": "PT32M",
+      "ratings": {
+        "count": 1306,
+        "average": 4.643951
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 52,
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Management Tools",
+        "AI"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-create-your-first-iot-central-app.md",
       "title": "Create your first Azure IoT Central app",
       "excerpt": "This module builds an IoT Central app to monitor and command a refrigerated truck. The first unit creates the app, the second unit defines a device template for a refrigerated truck. Then, create a programming project, add code to simulate a truck, and communicate with your IoT Central app. The truck is monitored through a custom dashboard.",
@@ -138,8 +173,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/describe-azure-databricks/",
       "length": "PT53M",
       "ratings": {
-        "count": 369,
-        "average": 4.485095
+        "count": 370,
+        "average": 4.4864864
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -530,47 +565,6 @@
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/introduction-azure-sap-workloads-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-introduction-to-azure-data-lake-storage.md",
-      "title": "Introduction to Azure Data Lake storage",
-      "excerpt": "Discover how Data Lake Storage provides a repository where you can upload and store unstructured data bringing new efficiencies to processing big data analytics.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-introduction-to-azure-data-lake-storage/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/introduction-to-azure-data-lake-storage/",
-      "length": "PT30M",
-      "ratings": {
-        "count": 1686,
-        "average": 4.6957297
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/data-ai/introduction-to-azure-data-lake-storage-badge-social.png",
           "width": 800,
           "height": 400,
           "isCached": true

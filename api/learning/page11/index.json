@@ -4,6 +4,43 @@
   "page": 11,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-chain-azure-functions-data-using-input-output-bindings.md",
+      "title": "Chain Azure Functions together using input and output bindings",
+      "excerpt": "In this module, we'll learn how to integrate your Azure Function with various data sources by using bindings.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-chain-azure-functions-data-using-input-output-bindings/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/chain-azure-functions-data-using-bindings/",
+      "length": "PT1H10M",
+      "ratings": {
+        "count": 2675,
+        "average": 4.5708413
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 56,
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Databases",
+        "Compute",
+        "Serverless",
+        "Storage"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-create-classification-model-with-azure-machine-learning-designer.md",
       "title": "Create a classification model with Azure Machine Learning designer",
       "excerpt": "Classification is a supervised machine learning technique used to predict categories or classes. Learn how to create classification models using Azure Machine Learning designer.",
@@ -80,8 +117,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/enable-digital-transformation/",
       "length": "PT32M",
       "ratings": {
-        "count": 8519,
-        "average": 4.699143
+        "count": 8522,
+        "average": 4.699014
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -203,8 +240,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/import-data-into-asdw-with-polybase/",
       "length": "PT1H6M",
       "ratings": {
-        "count": 2004,
-        "average": 4.561377
+        "count": 2005,
+        "average": 4.561596
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -245,8 +282,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/intro-to-python/",
       "length": "PT1H7M",
       "ratings": {
-        "count": 4627,
-        "average": 4.7153664
+        "count": 4628,
+        "average": 4.715428
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -496,8 +533,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/secure-your-azure-sql-database/",
       "length": "PT1H7M",
       "ratings": {
-        "count": 3962,
-        "average": 4.5320544
+        "count": 3963,
+        "average": 4.5321727
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -573,8 +610,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/scale-sql-databases-elastic-pools/",
       "length": "PT39M",
       "ratings": {
-        "count": 3370,
-        "average": 4.575668
+        "count": 3371,
+        "average": 4.5757937
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -651,8 +688,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/choose-api-for-cosmos-db/",
       "length": "PT38M",
       "ratings": {
-        "count": 2054,
-        "average": 4.6757545
+        "count": 2055,
+        "average": 4.6759124
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -893,8 +930,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/end-to-end-encryption-with-app-gateway/",
       "length": "PT1H17M",
       "ratings": {
-        "count": 711,
-        "average": 4.580872
+        "count": 712,
+        "average": 4.5814605
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1167,49 +1204,6 @@
         "Azure",
         "Storage",
         "Migration"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-publish-manage-apis-with-azure-api-management.md",
-      "title": "Publish and manage your APIs with Azure API Management",
-      "excerpt": "Learn about using an Azure API gateway to share APIs with partners, and how to use subscription keys to control access to your APIs.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-publish-manage-apis-with-azure-api-management/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/publish-manage-apis-with-azure-api-management/",
-      "length": "PT38M",
-      "ratings": {
-        "count": 1114,
-        "average": 4.66158
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 55,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/publish-manage-apis-with-azure-api-management-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Integration",
-        "Web"
       ]
     }
   ],

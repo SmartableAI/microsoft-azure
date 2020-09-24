@@ -4,6 +4,88 @@
   "page": 13,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-introduction-python-nasa.md",
+      "title": "Introduction to Python for space exploration",
+      "excerpt": "Get an introduction to the types of space exploration problems that Python and data science can influence.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-introduction-python-nasa/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/introduction-python-nasa/",
+      "length": "PT23M",
+      "ratings": {
+        "count": 525,
+        "average": 4.727619
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 54,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/student-evangelism/introduction-python-nasa-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-manage-build-dependencies.md",
+      "title": "Manage build dependencies with Azure Artifacts",
+      "excerpt": "In this module, the Space Game web team guides you through creating a build pipeline that produces a package that can be used by multiple applications.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-manage-build-dependencies/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/manage-build-dependencies/",
+      "length": "PT59M",
+      "ratings": {
+        "count": 1681,
+        "average": 4.676383
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 54,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/azure-devops/manage-dependencies-in-your-build-pipeline-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "DevOps"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-monitor-data-drift-with-azure-machine-learning.md",
       "title": "Monitor data drift with Azure Machine Learning",
       "excerpt": "Changing trends in data over time can reduce the accuracy of the predictions made by a model. Monitoring for this data drift is an important way to ensure your model continues to predict accurately.",
@@ -53,8 +135,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/monitor-github-events-with-a-function-triggered-by-a-webhook/",
       "length": "PT53M",
       "ratings": {
-        "count": 1602,
-        "average": 4.6260924
+        "count": 1603,
+        "average": 4.6263256
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -179,8 +261,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/work-with-mutable-and-partial-data-in-a-redis-cache/",
       "length": "PT1H5M",
       "ratings": {
-        "count": 548,
-        "average": 4.6149635
+        "count": 549,
+        "average": 4.615665
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -338,8 +420,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/analyze-text-with-text-analytics-service/",
       "length": "PT29M",
       "ratings": {
-        "count": 208,
-        "average": 4.8461537
+        "count": 209,
+        "average": 4.84689
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -500,8 +582,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/automatic-update-of-a-webapp-using-azure-functions-and-signalr/",
       "length": "PT55M",
       "ratings": {
-        "count": 1390,
-        "average": 4.281295
+        "count": 1391,
+        "average": 4.2818117
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -857,8 +939,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/enable-reliable-messaging-for-big-data-apps-using-event-hubs/",
       "length": "PT56M",
       "ratings": {
-        "count": 1812,
-        "average": 4.4409494
+        "count": 1813,
+        "average": 4.4412575
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -933,8 +1015,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/implement-message-workflows-with-service-bus/",
       "length": "PT54M",
       "ratings": {
-        "count": 2016,
-        "average": 4.651786
+        "count": 2017,
+        "average": 4.6519585
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -967,8 +1049,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/intro-to-kubernetes/",
       "length": "PT53M",
       "ratings": {
-        "count": 502,
-        "average": 4.613546
+        "count": 504,
+        "average": 4.6150794
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1116,91 +1198,6 @@
         "Azure",
         "Security",
         "Compute",
-        "Web"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-neural-networks.md",
-      "title": "Make predictions from complex data with neural networks",
-      "excerpt": "Use neural network models to make predictions. Change neural network structures to refine predictions using TensorFlow and Keras.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-neural-networks/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-neural-networks/",
-      "length": "38 mins",
-      "ratings": {
-        "count": 287,
-        "average": 4.383275
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 53,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/introduction-to-neural-networks-social.png",
-          "width": 800,
-          "height": 400,
-          "title": "Make predictions from complex data with neural networks",
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-protect-apis-on-api-management.md",
-      "title": "Protect your APIs on Azure API Management",
-      "excerpt": "Protect your back-end APIs from information exposure and implement throttling to prevent resource exhaustion with policies in Azure API Management.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-protect-apis-on-api-management/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/protect-apis-on-api-management/",
-      "length": "PT43M",
-      "ratings": {
-        "count": 661,
-        "average": 4.7186084
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 53,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/protect-apis-on-api-management-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Integration",
         "Web"
       ]
     }

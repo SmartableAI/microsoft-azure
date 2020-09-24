@@ -4,6 +4,48 @@
   "page": 10,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-azure-iot-strategy-and-solutions.md",
+      "title": "Microsoft Azure IoT strategy and solutions",
+      "excerpt": "This module provides an overview of Azure IoT, and describes Microsoft tools, services, and infrastructure. This knowledge can help bring IoT to life for your organization and customers.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-azure-iot-strategy-and-solutions/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/azure-iot-strategy-and-solutions/",
+      "length": "PT23M",
+      "ratings": {
+        "count": 5731,
+        "average": 4.7358227
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 58,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/azure-iot-strategy-and-solutions-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "IoT"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-create-clustering-model-azure-machine-learning-designer.md",
       "title": "Create a Clustering Model with Azure Machine Learning designer",
       "excerpt": "Clustering is an unsupervised machine learning technique used to group similar entities based on their features. Learn how to create clustering models using Azure Machine Learning designer.",
@@ -79,8 +121,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/execute-azure-function-with-triggers/",
       "length": "PT1H23M",
       "ratings": {
-        "count": 3321,
-        "average": 4.701295
+        "count": 3322,
+        "average": 4.7013845
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -156,8 +198,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/integrate-vnets-with-vnet-peering/",
       "length": "PT42M",
       "ratings": {
-        "count": 2471,
-        "average": 4.719547
+        "count": 2472,
+        "average": 4.7196603
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -198,8 +240,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/intro-to-azure-kubernetes-service/",
       "length": "PT25M",
       "ratings": {
-        "count": 3308,
-        "average": 4.607013
+        "count": 3310,
+        "average": 4.6072507
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -759,8 +801,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/classify-user-feedback-with-the-text-analytics-api/",
       "length": "PT48M",
       "ratings": {
-        "count": 1400,
-        "average": 4.620714
+        "count": 1401,
+        "average": 4.620271
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -798,8 +840,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/control-authentication-with-apim/",
       "length": "PT55M",
       "ratings": {
-        "count": 1492,
-        "average": 4.642761
+        "count": 1493,
+        "average": 4.6430006
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1009,8 +1051,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/explore-concepts-of-non-relational-data/",
       "length": "PT26M",
       "ratings": {
-        "count": 418,
-        "average": 4.818182
+        "count": 421,
+        "average": 4.8194776
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1125,8 +1167,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/secure-aad-users-with-mfa/",
       "length": "PT38M",
       "ratings": {
-        "count": 1296,
-        "average": 4.6805553
+        "count": 1297,
+        "average": 4.680802
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1168,8 +1210,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/troubleshoot-azure-network-infrastructure/",
       "length": "PT37M",
       "ratings": {
-        "count": 1991,
-        "average": 4.5740833
+        "count": 1992,
+        "average": 4.5737953
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1374,43 +1416,6 @@
       "price": "Free",
       "topics": [
         "Azure"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-chain-azure-functions-data-using-input-output-bindings.md",
-      "title": "Chain Azure Functions together using input and output bindings",
-      "excerpt": "In this module, we'll learn how to integrate your Azure Function with various data sources by using bindings.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-chain-azure-functions-data-using-input-output-bindings/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/chain-azure-functions-data-using-bindings/",
-      "length": "PT1H10M",
-      "ratings": {
-        "count": 2675,
-        "average": 4.5708413
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 56,
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Databases",
-        "Compute",
-        "Serverless",
-        "Storage"
       ]
     }
   ],

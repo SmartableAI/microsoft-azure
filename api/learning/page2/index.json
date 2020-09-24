@@ -4,39 +4,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-network-fundamentals-2.md",
-      "title": "Fundamentals of network security",
-      "excerpt": "Explore the fundamentals of computer networking security and monitoring.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-network-fundamentals-2/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/network-fundamentals-2/",
-      "length": "PT36M",
-      "ratings": {
-        "count": 1979,
-        "average": 4.6937847
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 142,
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
       "path": "_learning/collections/microsoft-learn-monitor-and-optimize-operational-resources-in-sql-server.md",
       "title": "Monitor and optimize operational resources in SQL Server",
       "excerpt": "Configure hardware and server resources for optimum performance after establishing a baseline. Identify sources of performance problems. Troubleshoot using Azure SQL Intelligent Insights.",
@@ -160,8 +127,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/intro-to-azure-compute/",
       "length": "PT38M",
       "ratings": {
-        "count": 62857,
-        "average": 4.7096424
+        "count": 62869,
+        "average": 4.709682
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -200,8 +167,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/m365-identity-cultural-shift/",
       "length": "PT31M",
       "ratings": {
-        "count": 1255,
-        "average": 4.7434263
+        "count": 1265,
+        "average": 4.7454543
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -242,8 +209,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/m365-threat-safeguard/",
       "length": "PT1H2M",
       "ratings": {
-        "count": 273,
-        "average": 4.805861
+        "count": 282,
+        "average": 4.7943263
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -273,95 +240,6 @@
       "price": "Free",
       "topics": [
         "Azure"
-      ]
-    },
-    {
-      "path": "_learning/collections/microsoft-learn-az-104-prerequisites-for-azure-administrators.md",
-      "title": "AZ-104: Prerequisites for Azure administrators",
-      "excerpt": "If you're an IT Administrator that's new to Azure and need to prepare for Exam AZ-104: Microsoft Azure Administrator, this path is the place to start. Learn the basic Azure concepts you'll need to know as an Azure administrator.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-az-104-prerequisites-for-azure-administrators/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-az-104-prerequisites-for-azure-administrators/",
-      "length": "PT6H30M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "topItems": [
-        {
-          "path": "",
-          "title": "Apply and monitor infrastructure standards with Azure Policy",
-          "excerpt": "Learn about tools Azure provides for policy and standards management that support your teams' ownership and development of their resources in the cloud.",
-          "heat": 111,
-          "type": "course",
-          "topics": [
-            "Azure",
-            "Management Tools"
-          ]
-        },
-        {
-          "path": "",
-          "title": "Introduction to Azure virtual machines",
-          "excerpt": "Learn about the decisions you make before creating a virtual machine, the options to create and manage the VM, and the extensions and services you use to manage your VM.",
-          "heat": 98,
-          "type": "course",
-          "topics": [
-            "Azure",
-            "Compute"
-          ]
-        },
-        {
-          "path": "",
-          "title": "Fundamentals of computer networking",
-          "excerpt": "You'll learn the fundamental principles of computer networking to prepare you for the Azure admin and developer learning paths.",
-          "heat": 97,
-          "type": "course",
-          "topics": [
-            "Azure"
-          ]
-        },
-        {
-          "path": "",
-          "title": "Fundamentals of network security",
-          "excerpt": "Explore the fundamentals of computer networking security and monitoring.",
-          "heat": 142,
-          "type": "course",
-          "topics": [
-            "Azure"
-          ]
-        }
-      ],
-      "size": 9,
-      "heat": 133,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/intro-to-governance-social.png",
-          "width": 100,
-          "height": 100,
-          "title": "Apply and monitor infrastructure standards with Azure Policy",
-          "isCached": true
-        }
-      ],
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Compute",
-        "Networking",
-        "Management Tools",
-        "Identity",
-        "Containers",
-        "Storage"
       ]
     },
     {
@@ -453,95 +331,6 @@
       ]
     },
     {
-      "path": "_learning/collections/microsoft-learn-prerequisites-for-azure-administrators.md",
-      "title": "Prerequisites for Azure administrators",
-      "excerpt": "If you're an IT Administrator that's new to Azure, this path is the place to start. Learn the basic Azure concepts you'll need to know as an Azure administrator.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-prerequisites-for-azure-administrators/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-prerequisites-for-azure-administrators/",
-      "length": "PT6H30M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "topItems": [
-        {
-          "path": "",
-          "title": "Apply and monitor infrastructure standards with Azure Policy",
-          "excerpt": "Learn about tools Azure provides for policy and standards management that support your teams' ownership and development of their resources in the cloud.",
-          "heat": 111,
-          "type": "course",
-          "topics": [
-            "Azure",
-            "Management Tools"
-          ]
-        },
-        {
-          "path": "",
-          "title": "Introduction to Azure virtual machines",
-          "excerpt": "Learn about the decisions you make before creating a virtual machine, the options to create and manage the VM, and the extensions and services you use to manage your VM.",
-          "heat": 98,
-          "type": "course",
-          "topics": [
-            "Azure",
-            "Compute"
-          ]
-        },
-        {
-          "path": "",
-          "title": "Fundamentals of computer networking",
-          "excerpt": "You'll learn the fundamental principles of computer networking to prepare you for the Azure admin and developer learning paths.",
-          "heat": 97,
-          "type": "course",
-          "topics": [
-            "Azure"
-          ]
-        },
-        {
-          "path": "",
-          "title": "Fundamentals of network security",
-          "excerpt": "Explore the fundamentals of computer networking security and monitoring.",
-          "heat": 142,
-          "type": "course",
-          "topics": [
-            "Azure"
-          ]
-        }
-      ],
-      "size": 9,
-      "heat": 133,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/intro-to-governance-social.png",
-          "width": 100,
-          "height": 100,
-          "title": "Apply and monitor infrastructure standards with Azure Policy",
-          "isCached": true
-        }
-      ],
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Compute",
-        "Networking",
-        "Management Tools",
-        "Identity",
-        "Containers",
-        "Storage"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-introduction-to-security.md",
       "title": "Security, responsibility, and trust in Azure",
       "excerpt": "Discuss the basic concepts for protecting your infrastructure and data when you work in the cloud. Understand what responsibilities are yours and what Azure takes care of for you.",
@@ -549,8 +338,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/intro-to-security-in-azure/",
       "length": "PT1H16M",
       "ratings": {
-        "count": 44054,
-        "average": 4.7028418
+        "count": 44059,
+        "average": 4.702853
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -680,8 +469,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/configure-database-authentication-authorization/",
       "length": "PT49M",
       "ratings": {
-        "count": 234,
-        "average": 4.811966
+        "count": 242,
+        "average": 4.818182
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -721,8 +510,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/explore-azure-infrastructure/",
       "length": "PT45M",
       "ratings": {
-        "count": 66590,
-        "average": 4.7134104
+        "count": 66594,
+        "average": 4.7134275
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -754,8 +543,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/implement-compliance-controls-sensitive-data/",
       "length": "PT15M",
       "ratings": {
-        "count": 224,
-        "average": 4.825893
+        "count": 229,
+        "average": 4.8296943
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -796,8 +585,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/principles-cloud-computing-dynamics-365-deployment/",
       "length": "PT45M",
       "ratings": {
-        "count": 2012,
-        "average": 4.7052684
+        "count": 2014,
+        "average": 4.705561
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1047,8 +836,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/intro-to-data-in-azure/",
       "length": "PT25M",
       "ratings": {
-        "count": 54502,
-        "average": 4.7334595
+        "count": 54510,
+        "average": 4.7334433
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1075,6 +864,42 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-choose-messaging-model.md",
+      "title": "Choose a messaging model in Azure to loosely connect your services",
+      "excerpt": "Learn how Azure's storage queues, event hubs, event grid, and service bus can improve your communication between devices.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-choose-messaging-model/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/choose-a-messaging-model-in-azure-to-connect-your-services/",
+      "length": "PT45M",
+      "ratings": {
+        "count": 3060,
+        "average": 4.58366
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 121,
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Integration",
+        "IoT",
+        "Analytics"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-tour-azure-portal-features.md",
       "title": "Core Cloud Services - Manage services with the Azure portal",
       "excerpt": "Get acquainted with the Azure cloud platform through the Azure portal, where you create and manage all of your Azure resources.",
@@ -1082,8 +907,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/tour-azure-portal/",
       "length": "PT1H13M",
       "ratings": {
-        "count": 49993,
-        "average": 4.707639
+        "count": 49997,
+        "average": 4.7076426
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1116,8 +941,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/welcome-to-azure/",
       "length": "PT36M",
       "ratings": {
-        "count": 65659,
-        "average": 4.800256
+        "count": 65662,
+        "average": 4.800265
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1140,6 +965,95 @@
       "topics": [
         "Azure",
         "Management Tools"
+      ]
+    },
+    {
+      "path": "_learning/collections/microsoft-learn-az-104-prerequisites-for-azure-administrators.md",
+      "title": "AZ-104: Prerequisites for Azure administrators",
+      "excerpt": "If you're an IT Administrator that's new to Azure and need to prepare for Exam AZ-104: Microsoft Azure Administrator, this path is the place to start. Learn the basic Azure concepts you'll need to know as an Azure administrator.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-az-104-prerequisites-for-azure-administrators/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-az-104-prerequisites-for-azure-administrators/",
+      "length": "PT6H30M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "topItems": [
+        {
+          "path": "",
+          "title": "Apply and monitor infrastructure standards with Azure Policy",
+          "excerpt": "Learn about tools Azure provides for policy and standards management that support your teams' ownership and development of their resources in the cloud.",
+          "heat": 111,
+          "type": "course",
+          "topics": [
+            "Azure",
+            "Management Tools"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Introduction to Azure virtual machines",
+          "excerpt": "Learn about the decisions you make before creating a virtual machine, the options to create and manage the VM, and the extensions and services you use to manage your VM.",
+          "heat": 98,
+          "type": "course",
+          "topics": [
+            "Azure",
+            "Compute"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Fundamentals of computer networking",
+          "excerpt": "You'll learn the fundamental principles of computer networking to prepare you for the Azure admin and developer learning paths.",
+          "heat": 97,
+          "type": "course",
+          "topics": [
+            "Azure"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Fundamentals of network security",
+          "excerpt": "Explore the fundamentals of computer networking security and monitoring.",
+          "heat": 82,
+          "type": "course",
+          "topics": [
+            "Azure"
+          ]
+        }
+      ],
+      "size": 9,
+      "heat": 117,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/intro-to-governance-social.png",
+          "width": 100,
+          "height": 100,
+          "title": "Apply and monitor infrastructure standards with Azure Policy",
+          "isCached": true
+        }
+      ],
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Compute",
+        "Networking",
+        "Management Tools",
+        "Identity",
+        "Containers",
+        "Storage"
       ]
     },
     {
@@ -1235,6 +1149,95 @@
       ]
     },
     {
+      "path": "_learning/collections/microsoft-learn-prerequisites-for-azure-administrators.md",
+      "title": "Prerequisites for Azure administrators",
+      "excerpt": "If you're an IT Administrator that's new to Azure, this path is the place to start. Learn the basic Azure concepts you'll need to know as an Azure administrator.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-prerequisites-for-azure-administrators/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-prerequisites-for-azure-administrators/",
+      "length": "PT6H30M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "topItems": [
+        {
+          "path": "",
+          "title": "Apply and monitor infrastructure standards with Azure Policy",
+          "excerpt": "Learn about tools Azure provides for policy and standards management that support your teams' ownership and development of their resources in the cloud.",
+          "heat": 111,
+          "type": "course",
+          "topics": [
+            "Azure",
+            "Management Tools"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Introduction to Azure virtual machines",
+          "excerpt": "Learn about the decisions you make before creating a virtual machine, the options to create and manage the VM, and the extensions and services you use to manage your VM.",
+          "heat": 98,
+          "type": "course",
+          "topics": [
+            "Azure",
+            "Compute"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Fundamentals of computer networking",
+          "excerpt": "You'll learn the fundamental principles of computer networking to prepare you for the Azure admin and developer learning paths.",
+          "heat": 97,
+          "type": "course",
+          "topics": [
+            "Azure"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Fundamentals of network security",
+          "excerpt": "Explore the fundamentals of computer networking security and monitoring.",
+          "heat": 82,
+          "type": "course",
+          "topics": [
+            "Azure"
+          ]
+        }
+      ],
+      "size": 9,
+      "heat": 117,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/intro-to-governance-social.png",
+          "width": 100,
+          "height": 100,
+          "title": "Apply and monitor infrastructure standards with Azure Policy",
+          "isCached": true
+        }
+      ],
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Compute",
+        "Networking",
+        "Management Tools",
+        "Identity",
+        "Containers",
+        "Storage"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-describe-performance-monitoring.md",
       "title": "Describe performance monitoring",
       "excerpt": "Compare Azure and on-premises tools for monitoring and measuring performance. Determine critical metrics. Understand the purpose of a baseline for comparative analysis.",
@@ -1242,8 +1245,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/describe-performance-monitoring/",
       "length": "PT42M",
       "ratings": {
-        "count": 175,
-        "average": 4.7885714
+        "count": 181,
+        "average": 4.79558
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1277,15 +1280,15 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-ai-machine-learning-fundamentals.md",
-      "title": "Choose the best artificial intelligence service for your needs",
-      "excerpt": "Examine Azure's artificial intelligence services choose the right service for your scenario.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-ai-machine-learning-fundamentals/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/ai-machine-learning-fundamentals/",
-      "length": "PT23M",
+      "path": "_learning/courses/microsoft-learn-introduction-to-azure-data-lake-storage.md",
+      "title": "Introduction to Azure Data Lake storage",
+      "excerpt": "Discover how Data Lake Storage provides a repository where you can upload and store unstructured data bringing new efficiencies to processing big data analytics.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-introduction-to-azure-data-lake-storage/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/introduction-to-azure-data-lake-storage/",
+      "length": "PT30M",
       "ratings": {
-        "count": 6,
-        "average": 5.0
+        "count": 1686,
+        "average": 4.6957297
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1302,20 +1305,19 @@
       "levels": [
         "Beginner"
       ],
-      "heat": 114,
+      "heat": 112,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
+          "url": "https://docs.microsoft.com/learn/achievements/data-ai/introduction-to-azure-data-lake-storage-badge-social.png",
+          "width": 800,
+          "height": 400,
           "isCached": true
         }
       ],
       "type": "course",
       "price": "Free",
       "topics": [
-        "Azure",
-        "AI"
+        "Azure"
       ]
     },
     {
@@ -1360,8 +1362,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/explore-causes-performance-issues/",
       "length": "PT36M",
       "ratings": {
-        "count": 154,
-        "average": 4.7727275
+        "count": 160,
+        "average": 4.78125
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1682,8 +1684,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/control-and-organize-with-azure-resource-manager/",
       "length": "PT46M",
       "ratings": {
-        "count": 37836,
-        "average": 4.7122316
+        "count": 37840,
+        "average": 4.712236
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1716,8 +1718,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/describe-performance-related-maintenance-tasks-sql-server/",
       "length": "PT23M",
       "ratings": {
-        "count": 128,
-        "average": 4.7421875
+        "count": 133,
+        "average": 4.7518797
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1758,8 +1760,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/get-started-ai-fundamentals/",
       "length": "PT27M",
       "ratings": {
-        "count": 2358,
-        "average": 4.7251906
+        "count": 2360,
+        "average": 4.725424
       },
       "provider": {
         "name": "Microsoft Learn",
