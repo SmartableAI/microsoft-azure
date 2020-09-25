@@ -11,8 +11,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/run-docker-with-azure-container-instances/",
       "length": "PT48M",
       "ratings": {
-        "count": 3470,
-        "average": 4.675216
+        "count": 3502,
+        "average": 4.676185
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -39,6 +39,48 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-protect-data-transit-at-rest.md",
+      "title": "Protect data in-transit and at rest",
+      "excerpt": "Protect data in-transit and at rest",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-protect-data-transit-at-rest/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/protect-data-transit-rest/",
+      "length": "PT43M",
+      "ratings": {
+        "count": 465,
+        "average": 4.7978497
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 210,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/protect-data-in-transit-and-at-rest-social.png",
+          "width": 643,
+          "height": 321,
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Databases"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-deploy-sql-server-virtual-machine.md",
       "title": "Deploy SQL Server in a virtual machine",
       "excerpt": "Configure virtual machine sizing, storage, and networking options to ensure adequate performance for your database workloads. Choose and configure appropriate high availability options. Investigate options for migrating existing workloads.",
@@ -46,8 +88,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/deploy-sql-server-virtual-machine/",
       "length": "PT60M",
       "ratings": {
-        "count": 888,
-        "average": 4.7894144
+        "count": 905,
+        "average": 4.7900553
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -186,8 +228,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/deploy-azure-sql-database/",
       "length": "PT48M",
       "ratings": {
-        "count": 636,
-        "average": 4.803459
+        "count": 651,
+        "average": 4.8033795
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -228,8 +270,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/deploy-mariadb-mysql-postgresql-azure/",
       "length": "PT23M",
       "ratings": {
-        "count": 607,
-        "average": 4.795717
+        "count": 623,
+        "average": 4.7929373
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -263,48 +305,6 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-protect-data-transit-at-rest.md",
-      "title": "Protect data in-transit and at rest",
-      "excerpt": "Protect data in-transit and at rest",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-protect-data-transit-at-rest/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/protect-data-transit-rest/",
-      "length": "PT43M",
-      "ratings": {
-        "count": 451,
-        "average": 4.796009
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 150,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/protect-data-in-transit-and-at-rest-social.png",
-          "width": 643,
-          "height": 321,
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Databases"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-configure-sql-server-resources-for-optimal-performance.md",
       "title": "Configure SQL Server resources for optimal performance",
       "excerpt": "Choose the appropriate size and storage options for your Azure SQL databases. Configure server resources such as tempdb. Understand the usage of Resource Governor.",
@@ -312,8 +312,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/configure-sql-server-resources-optimal-performance/",
       "length": "PT35M",
       "ratings": {
-        "count": 406,
-        "average": 4.7980294
+        "count": 422,
+        "average": 4.7985783
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -354,8 +354,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/explore-performance-based-design/",
       "length": "PT50M",
       "ratings": {
-        "count": 391,
-        "average": 4.808184
+        "count": 404,
+        "average": 4.809406
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -433,7 +433,7 @@
           "path": "",
           "title": "Protect data in-transit and at rest",
           "excerpt": "Protect data in-transit and at rest",
-          "heat": 150,
+          "heat": 210,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/protect-data-in-transit-and-at-rest-social.png",
@@ -493,8 +493,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/implement-compliance-controls-sensitive-data/",
       "length": "PT15M",
       "ratings": {
-        "count": 289,
-        "average": 4.8408303
+        "count": 299,
+        "average": 4.8394647
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -535,8 +535,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/intro-to-data-in-azure/",
       "length": "PT25M",
       "ratings": {
-        "count": 54569,
-        "average": 4.7332916
+        "count": 54574,
+        "average": 4.7333164
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -570,8 +570,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/describe-performance-monitoring/",
       "length": "PT42M",
       "ratings": {
-        "count": 225,
-        "average": 4.8133335
+        "count": 236,
+        "average": 4.809322
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -612,8 +612,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/explore-causes-performance-issues/",
       "length": "PT36M",
       "ratings": {
-        "count": 188,
-        "average": 4.7925534
+        "count": 195,
+        "average": 4.7897434
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -654,8 +654,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/describe-performance-related-maintenance-tasks-sql-server/",
       "length": "PT23M",
       "ratings": {
-        "count": 164,
-        "average": 4.7865853
+        "count": 169,
+        "average": 4.781065
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -696,8 +696,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/configure-databases-performance/",
       "length": "PT24M",
       "ratings": {
-        "count": 169,
-        "average": 4.8343196
+        "count": 176,
+        "average": 4.8295455
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -836,8 +836,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/describe-sql-server-query-plans/",
       "length": "PT54M",
       "ratings": {
-        "count": 182,
-        "average": 4.7637362
+        "count": 187,
+        "average": 4.7647057
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -878,8 +878,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/evaluate-performance-improvements/",
       "length": "PT30M",
       "ratings": {
-        "count": 158,
-        "average": 4.822785
+        "count": 161,
+        "average": 4.826087
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1336,8 +1336,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/choose-storage-approach-in-azure/",
       "length": "PT30M",
       "ratings": {
-        "count": 10322,
-        "average": 4.6587873
+        "count": 10326,
+        "average": 4.6589193
       },
       "provider": {
         "name": "Microsoft Learn",

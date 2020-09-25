@@ -4,42 +4,6 @@
   "page": 12,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-secure-your-azure-virtual-machine-disks.md",
-      "title": "Secure your Azure virtual machine disks",
-      "excerpt": "Explore the options for Azure disk encryption to encrypt OS and data disks on existing and new virtual machines.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-secure-your-azure-virtual-machine-disks/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/secure-your-azure-virtual-machine-disks/",
-      "length": "PT1H1M",
-      "ratings": {
-        "count": 2481,
-        "average": 4.6529627
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 55,
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Compute",
-        "Storage",
-        "Management Tools"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-stage-deploy-app-service-deployment-slots.md",
       "title": "Stage a web app deployment for testing and rollback by using App Service deployment slots",
       "excerpt": "Discover the benefits of creating deployment slots to streamline deployment and roll back a web app in Azure App Service.",
@@ -47,8 +11,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/stage-deploy-app-service-deployment-slots/",
       "length": "PT44M",
       "ratings": {
-        "count": 1690,
-        "average": 4.508876
+        "count": 1692,
+        "average": 4.509456
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -745,8 +709,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/control-network-traffic-flow-with-routes/",
       "length": "PT50M",
       "ratings": {
-        "count": 1695,
-        "average": 4.6289086
+        "count": 1698,
+        "average": 4.6295643
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -957,8 +921,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/distribute-load-with-traffic-manager/",
       "length": "PT29M",
       "ratings": {
-        "count": 2021,
-        "average": 4.5432954
+        "count": 2022,
+        "average": 4.543027
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1041,8 +1005,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/explore-non-relational-data-stores-azure/",
       "length": "PT54M",
       "ratings": {
-        "count": 147,
-        "average": 4.680272
+        "count": 148,
+        "average": 4.6824327
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1123,8 +1087,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/export-data-with-azure-import-export/",
       "length": "PT24M",
       "ratings": {
-        "count": 486,
-        "average": 4.6831274
+        "count": 487,
+        "average": 4.6837783
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1333,8 +1297,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/intro-to-app-center/",
       "length": "PT49M",
       "ratings": {
-        "count": 273,
-        "average": 4.5274725
+        "count": 274,
+        "average": 4.5255475
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1365,6 +1329,47 @@
       "topics": [
         "Azure",
         "Management Tools"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-introduction-python-nasa.md",
+      "title": "Introduction to Python for space exploration",
+      "excerpt": "Get an introduction to the types of space exploration problems that Python and data science can influence.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-introduction-python-nasa/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/introduction-python-nasa/",
+      "length": "PT23M",
+      "ratings": {
+        "count": 530,
+        "average": 4.728302
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 54,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/student-evangelism/introduction-python-nasa-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
       ]
     }
   ],
