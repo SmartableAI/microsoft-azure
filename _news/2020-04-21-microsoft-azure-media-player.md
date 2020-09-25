@@ -86,6 +86,17 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "A closer look at Microsoft Azure Arc"
+    excerpt: "The promise of Azure Arc is providing the simplicity of the cloud control plane inside the data center. A year after announcement with the core platform now going GA, we thought it would be a good time for a deeper dive to see how Azure Arc actually works."
+    publishedDateTime: 2020-09-25T12:00:00Z
+    webUrl: "https://www.zdnet.com/article/a-closer-look-at-microsoft-azure-arc/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/a-closer-look-at-microsoft-azure-arc/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/a-closer-look-at-microsoft-azure-arc/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 77
 
 secured: "HDpABPqOdLWDqP/O30R2WOpVneY8oKwVfk5q3PhDoK96shK35ggP7pc+MUgIJhvMWHIQ4VcAc4nZ3rTGjW7llC9i98GENJg5+CeuR+9o329nTguGlShepzNgrixWJseTP6DaIsC8n3fuhug2y1rhDBZZxPYFhQMWlD7RLgeQBQ3jPW6bWnC2JOoMy1RQp9kkOHpOeKk1TKHIRpYx41XQE5dGLCAGK1NESrJNfmA1mA79KjjaSXECc4Go7iiAeljKFWpRKTk8Azjc4yr4IIUGauQYSMOZSe963arEYlfgKYoDR0+zO6zL70Bg1k14V6yr;9AxQFpZzQg/PtwwpvumnBw=="
 ---

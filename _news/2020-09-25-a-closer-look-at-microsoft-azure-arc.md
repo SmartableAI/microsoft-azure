@@ -1,31 +1,27 @@
 ---
 category: news
-title: "GOOGLE CLOUD PLATFORM VS. MICROSOFT AZURE"
-excerpt: "We've compiled the ultimate GCP vs. Azure guide that takes a deep dive into the 10 key ways that the two cloud providers differ. Download the guide for stats, head-to-head comparisons, and customer perspectives that reveal which provider is leading the public cloud race."
-publishedDateTime: 2020-04-16T18:20:00Z
-webUrl: "https://www.infoworld.com/resources/201378/google-cloud-platform-vs-microsoft-azure"
+title: "A closer look at Microsoft Azure Arc"
+excerpt: "The promise of Azure Arc is providing the simplicity of the cloud control plane inside the data center. A year after announcement with the core platform now going GA, we thought it would be a good time for a deeper dive to see how Azure Arc actually works."
+publishedDateTime: 2020-09-25T12:00:00Z
+originalUrl: "https://www.zdnet.com/article/a-closer-look-at-microsoft-azure-arc/"
+webUrl: "https://www.zdnet.com/article/a-closer-look-at-microsoft-azure-arc/"
+ampWebUrl: "https://www.zdnet.com/google-amp/article/a-closer-look-at-microsoft-azure-arc/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/a-closer-look-at-microsoft-azure-arc/"
 type: article
 quality: 77
 heat: -1
 published: false
 
 provider:
-  name: InfoWorld
-  domain: infoworld.com
+  name: ZDNet
+  domain: zdnet.com
   images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/infoworld.com-50x50.jpg"
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/zdnet.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Azure
-
-images:
-  - url: "https://idge.staticworld.net/ifw/IFW_logo_social_300x300.png"
-    width: 300
-    height: 300
-    isCached: true
-    title: "GOOGLE CLOUD PLATFORM VS. MICROSOFT AZURE"
 
 related:
   - title: "A closer look at Microsoft Azure Synapse Analytics"
@@ -43,6 +39,20 @@ related:
       - url: "https://zdnet4.cbsistatic.com/hub/i/2020/04/14/ae52840f-bd1d-4e9d-8ec2-114e56664784/synapse.jpg"
         width: 750
         height: 500
+        isCached: true
+  - title: "GOOGLE CLOUD PLATFORM VS. MICROSOFT AZURE"
+    excerpt: "We've compiled the ultimate GCP vs. Azure guide that takes a deep dive into the 10 key ways that the two cloud providers differ. Download the guide for stats, head-to-head comparisons, and customer perspectives that reveal which provider is leading the public cloud race."
+    publishedDateTime: 2020-04-16T18:20:00Z
+    webUrl: "https://www.infoworld.com/resources/201378/google-cloud-platform-vs-microsoft-azure"
+    type: article
+    provider:
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 77
+    images:
+      - url: "https://idge.staticworld.net/ifw/IFW_logo_social_300x300.png"
+        width: 300
+        height: 300
         isCached: true
   - title: "14 ways AWS beats Microsoft Azure and Google Cloud"
     excerpt: "For all of its dominance, though, Amazon has strong competitors. Companies like Microsoft, Google, IBM, Oracle, SAP, Rackspace, Linnode, and Digital Ocean know that they must establish a real presence in the cloud and they are finding clever ways to compete and excel in what is less and less a commodity business. These rivals offer great ..."
@@ -72,17 +82,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "A closer look at Microsoft Azure Arc"
-    excerpt: "The promise of Azure Arc is providing the simplicity of the cloud control plane inside the data center. A year after announcement with the core platform now going GA, we thought it would be a good time for a deeper dive to see how Azure Arc actually works."
-    publishedDateTime: 2020-09-25T12:00:00Z
-    webUrl: "https://www.zdnet.com/article/a-closer-look-at-microsoft-azure-arc/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/a-closer-look-at-microsoft-azure-arc/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/a-closer-look-at-microsoft-azure-arc/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 77
   - title: "MICROSOFT AZURE MEDIA PLAYER"
     excerpt: "Section A: Microsoft is offering you a license to use the following components with Microsoft Azure Media Player (the \"Microsoft Program\"). The notices below are provided for informational purposes only and are not the license terms under which Microsoft distributes these files. The Microsoft Program may include the following third-party ..."
     publishedDateTime: 2020-04-21T05:22:00Z
@@ -98,6 +97,6 @@ related:
         height: 400
         isCached: true
 
-secured: "o+pttQ+jgJJZ8DR+OwkTzurDvDzZS/hS1uz1hzIdZ6IYz44RMSJMUf6rW3xqms4QCx08MM8ZN18s4UR/gnyPypZFbIQmCBjDFh+QQ44q3n+v1CFtenoIs5lFOmNRjs3Exrrcs2D1CkT7a52O3B3aQtrBMJWt1jeRtweoos4HcTwAkVaFfegjSeBdmIeyQLAQX0mhVe9oerVIdYEIuJze4uVz6tRDgk4CuppO1JEpptwjQRLwlIxzANs1m1MdUDAKUqdxb3OUxvVJPDriXYuX3q+uD+K6apcQlKh7lFeADrHhSOeE6zXtOtM6p8aIarduEwBSvecHvmPdCWWwXbqG+pkNDnz6HYEm6SfdhYMonL7zckAQNzuOpu7jQU7PPu5WkunUyIBEWzKGxvrlHUbTptuM9S0SCiSqhU6+jsM7Gs4Wt4NlaK4Fb7cCaKHdElWMCDGR6jcQS1dxG+hdGoJ0O7vNZ6P+owZq5mNmNWnf4XI=;701lcQ53ZhLMI/VXdwiHeQ=="
+secured: "+WK7equpih6Kw8iROGYG9j7r4nIPiGg4AK421drNNKUqZvhzZHqJjv/PP36FOHk58WxYAdIwM1oMIRsWyD5+l8t+e+6BEmLL3b9RS1VCQ9YVXNlZa8m2Qiqf6+zF+fcUGxiBEQMSXM1Kc8WKdwSZt14xIivPQKJx6uBDH1B9WyZOsHJ8SRO9wKD8HfwGp4ipNiCPqr7aDRXeYNmTMQBItmbos4KTIlvDn+SbF79kDMi2cUxMYF4KXat3Gjs8r62WHnpIhhdTVwIVglpbp4+iFgTaK/0ubFNdOZT6imZ7oDH7hbdARrZHUeG/oy++BtFn+MV3zEg5p+kB2roZwWrhrQ4h/finrhxbDSxU9AOjc1z2YnBKPAHw9/Z6TLL9IKLJHuAxJSa1ut3uZ1QYu/F94Yu3K/7EUNrTEVaAuCBILF5VpWvmKG5Xq9hTibY4GMf+/PezVureKg9mp77/Se6DCA5orTj3+vGhTfxaTTlsNbNB7NBU56+OYPA231+CVdofMaHacNCbyp2Ek8sUIjD9Ew==;7V3oRouTok6G9FHAZ0fK7w=="
 ---
 
