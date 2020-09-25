@@ -35,6 +35,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 57
+  - title: "Cobalt Iron Makes DCIG List of TOP 5 Microsoft Azure Cloud Backup Solutions"
+    excerpt: "Cobalt Iron Inc., a leading provider of SaaS-based enterprise data protection, today announced that its industry-leading Compass® enterprise SaaS back"
+    publishedDateTime: 2020-09-25T06:49:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200917005127/en/"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 15
 
 secured: "REc08BcGKKBuPmTLm7DVE1mXL3zreOioPPS/l76vPLUjRRzH+GEcBL3QBZH0Znxd9ksJW3ZbK61getvrvy3UcLWgNd5uQR/aBI/pBM0EMGaeYVpaHUV8MRc28K6S4677sUikFo2J5H7xnUNgVNNzRgXjTI5I0ZqBQ6rgzWCps/Y14UJGz7M+aRDXZzoeuERnGriHEW4BBqTso+8yyNDqHu4FTztk+KvkrLQt+ZiM05uauzUOL866Mk2AtLuoJJDhm/0SkHwsotM8oVdRR06yChcez98qigUsflLdyRJgugEj5i0ujKRY7yfke2ZuF4mv1Zo0CkQ0lallpJdW3PrfeD3fLcmO5PQHK97ojLTLbYWgnLYI/U0YnCE+SjmMRdH8+HEAseOiuwEgjXV7gYGRfLvVr5XzxVMYBByMPbQIgVkkKQfE4V3noySsSq2420n8JDsOE/nZJAtR0o+6kWN3wvs87FDDI2/XQQiUl0WjaRQsdZgzvNHej6/KUzAGz3y10NjiqQ48+jbrQCuuqVjvBA==;wTsMArmgUAcaS/Le7awZQg=="
 ---

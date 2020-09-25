@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/accelerate-analytics-and
 webUrl: "https://azure.microsoft.com/en-us/updates/accelerate-analytics-and-ai-workloads-with-photon-powered-delta-engine-on-azure-databricks/"
 type: article
 quality: 57
-heat: 57
+heat: -1
 published: false
 
 provider:
@@ -20,6 +20,17 @@ provider:
 
 topics:
   - Azure
+
+related:
+  - title: "Accelerating genomics workflows and data analysis on Azure"
+    excerpt: "Microsoft Genomics has released several open source projects on GitHub, including Cromwell on Azure, Genomics Notebooks and Bioconductor support for Azure. We have also made available a growing list of genomics public datasets on the Azure Open Dataset platform"
+    publishedDateTime: 2020-09-25T10:00:39Z
+    webUrl: "https://azure.microsoft.com/blog/accelerating-genomics-workflows-and-data-analysis-on-azure/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
 
 secured: "jnwPC8sp4peUbkIqODMRDf3tYNJ8C65QXCx44FqvzvptNb36LBTXkwlNz6X/M1bSzb2umoFciMQS+Wpj24q7f2m/z/p1L12IwMkUkTbe2WWO9GXKQ52ZiGAbDpJmbMJiTowwF1y6z8XOCaiXPACTSI8YUFUYGK4zXg8gL9Qh4Rs9q/4QXIgDUNrJ1DSjQOy6Pt7/IYLA7BqGcYtVEHK1qfth2NtZXWsBKWNnzree6oRMc6Evk/XX4BfSDVytDRXshohEsnzfeGHsIB9/k0AO6jRr/RAjyrs1/rR0QyJcABMh/7coHDucJAuw40n1PLgAOOxBcM5JHpxdFii1VYnmKabhAMUnqsO5u7Na1bzyPBw=;oLSMuPVzUKtWJevlYJpX7A=="
 ---

@@ -3,10 +3,10 @@ category: news
 title: "A closer look at Microsoft Azure Arc"
 excerpt: "The promise of Azure Arc is providing the simplicity of the cloud control plane inside the data center. A year after announcement with the core platform now going GA, we thought it would be a good time for a deeper dive to see how Azure Arc actually works."
 publishedDateTime: 2020-09-25T12:00:00Z
-originalUrl: "https://www.zdnet.com/article/a-closer-look-at-microsoft-azure-arc/"
-webUrl: "https://www.zdnet.com/article/a-closer-look-at-microsoft-azure-arc/"
-ampWebUrl: "https://www.zdnet.com/google-amp/article/a-closer-look-at-microsoft-azure-arc/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/a-closer-look-at-microsoft-azure-arc/"
+originalUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/article/a-closer-look-at-microsoft-azure-arc/"
+webUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/article/a-closer-look-at-microsoft-azure-arc/"
+ampWebUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/a-closer-look-at-microsoft-azure-arc/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/a-closer-look-at-microsoft-azure-arc/"
 type: article
 quality: 77
 heat: -1
@@ -97,6 +97,6 @@ related:
         height: 400
         isCached: true
 
-secured: "+WK7equpih6Kw8iROGYG9j7r4nIPiGg4AK421drNNKUqZvhzZHqJjv/PP36FOHk58WxYAdIwM1oMIRsWyD5+l8t+e+6BEmLL3b9RS1VCQ9YVXNlZa8m2Qiqf6+zF+fcUGxiBEQMSXM1Kc8WKdwSZt14xIivPQKJx6uBDH1B9WyZOsHJ8SRO9wKD8HfwGp4ipNiCPqr7aDRXeYNmTMQBItmbos4KTIlvDn+SbF79kDMi2cUxMYF4KXat3Gjs8r62WHnpIhhdTVwIVglpbp4+iFgTaK/0ubFNdOZT6imZ7oDH7hbdARrZHUeG/oy++BtFn+MV3zEg5p+kB2roZwWrhrQ4h/finrhxbDSxU9AOjc1z2YnBKPAHw9/Z6TLL9IKLJHuAxJSa1ut3uZ1QYu/F94Yu3K/7EUNrTEVaAuCBILF5VpWvmKG5Xq9hTibY4GMf+/PezVureKg9mp77/Se6DCA5orTj3+vGhTfxaTTlsNbNB7NBU56+OYPA231+CVdofMaHacNCbyp2Ek8sUIjD9Ew==;7V3oRouTok6G9FHAZ0fK7w=="
+secured: "FslL44w5OOMA73tFkIgAjcyWTJaKNrCfxT0uPdB/6qfvZjgjq+csNzGw0wPipmrvtYVD+HoClrlgLrsWmpmh30AZfGaOxSJDXhZlqWxVNtLsFSRyGAqx2o+E1qotPn3oJ8nHkJ/WWN1CPAhdVwSNiIfZ0U/RS1W7ljGoTMOtu1WKoh2kf5H74TM38IJRnqt+lQs/lUAx6S6s4ZFJIXO8E3t9euIQmIbhnQkGRs9wmv1iu7UQl+uTuF0ipMKU3WkJr9daZ0hSsHKuHe3G413852dgn7x2Ro3idHGL2/i8ziGr/I6nFEi5L+nb/sQsKpr1HSblrefnH9x1U0ZldzD64GB0I4Vf418KboHKrD+mdjHw0FxJKWSCIG5I3b5c+6EfAmYjaOct5XdEfYAQkBmzdnpgYGJ9uuxYN+YRUTwhTX1J5v6aZc1XhaBceh6P13iBR4s65EehPoTxfxXGx+hK689SWBV+T3zDApF/t1Y1D05+zMxqjDZdDEtpAXUSfZkuSJAxqrzkxeyOb9CF/UdjZQ==;LOzSXiL54CgJp5YEcsXUPg=="
 ---
 
