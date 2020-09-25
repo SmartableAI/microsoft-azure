@@ -3,10 +3,10 @@ category: news
 title: "A closer look at Microsoft Azure Arc"
 excerpt: "The promise of Azure Arc is providing the simplicity of the cloud control plane inside the data center. A year after announcement with the core platform now going GA, we thought it would be a good time for a deeper dive to see how Azure Arc actually works."
 publishedDateTime: 2020-09-25T12:00:00Z
-originalUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/article/a-closer-look-at-microsoft-azure-arc/"
-webUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/article/a-closer-look-at-microsoft-azure-arc/"
-ampWebUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/a-closer-look-at-microsoft-azure-arc/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/a-closer-look-at-microsoft-azure-arc/"
+originalUrl: "https://www.zdnet.com/index.php/category/2381/index.php/article/a-closer-look-at-microsoft-azure-arc/"
+webUrl: "https://www.zdnet.com/index.php/category/2381/index.php/article/a-closer-look-at-microsoft-azure-arc/"
+ampWebUrl: "https://www.zdnet.com/index.php/category/2381/index.php/google-amp/article/a-closer-look-at-microsoft-azure-arc/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2381/index.php/google-amp/article/a-closer-look-at-microsoft-azure-arc/"
 type: article
 quality: 77
 heat: -1
@@ -97,6 +97,6 @@ related:
         height: 400
         isCached: true
 
-secured: "FslL44w5OOMA73tFkIgAjcyWTJaKNrCfxT0uPdB/6qfvZjgjq+csNzGw0wPipmrvtYVD+HoClrlgLrsWmpmh30AZfGaOxSJDXhZlqWxVNtLsFSRyGAqx2o+E1qotPn3oJ8nHkJ/WWN1CPAhdVwSNiIfZ0U/RS1W7ljGoTMOtu1WKoh2kf5H74TM38IJRnqt+lQs/lUAx6S6s4ZFJIXO8E3t9euIQmIbhnQkGRs9wmv1iu7UQl+uTuF0ipMKU3WkJr9daZ0hSsHKuHe3G413852dgn7x2Ro3idHGL2/i8ziGr/I6nFEi5L+nb/sQsKpr1HSblrefnH9x1U0ZldzD64GB0I4Vf418KboHKrD+mdjHw0FxJKWSCIG5I3b5c+6EfAmYjaOct5XdEfYAQkBmzdnpgYGJ9uuxYN+YRUTwhTX1J5v6aZc1XhaBceh6P13iBR4s65EehPoTxfxXGx+hK689SWBV+T3zDApF/t1Y1D05+zMxqjDZdDEtpAXUSfZkuSJAxqrzkxeyOb9CF/UdjZQ==;LOzSXiL54CgJp5YEcsXUPg=="
+secured: "BQqd4JWUgs58RCOzvKOpOY7C8bPIXZbscDAQhuLslI2xyfQrq7YAsEnazHKQ7fmuLopaBMru6y6oF1FuE9H17c2ckeRQZ088mFZFl1oKJpWiGEP7261Nn3Uxt02jMWMjXyX1nYdELvIVr23b0LCKALIZPdLt0UMKiKUY1dG7cV2Cy2JhGO569dbo0j5Yl9JSEXj//qNadowdASgy8ijoVZeBTAL8ffkNF5v5SNORt4iz7tjUc1tA8hhhol9TYXp7kzLNLW7YiqR+w3aYImXpR0s8n57WjregLIVq052ds3bwQVaR9HXSC/ITnTb35sFr9MHMSLb4MSrCB7KlA2uwysaIKVFQdGmTZUlnUpaVB6ooOEpJ6dQnDToWqDpbwN0gzEempwxiqTkhRyvCFnWiuAULSj0oWLehA8Oz3JUz6rkOpkibTprBs8g1lt2eKcyVMViiPaNjz4bBI94PlRGOjg6bhTBCdSftUHFOWZYZtXrtKyDWjglJuWgoT8Kc5GqOTO9xDp1X8SfcJ0dDDxJZCA==;cHzy9GZGruxRx71antfQCw=="
 ---
 
