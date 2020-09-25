@@ -1,20 +1,27 @@
 ---
 category: news
-title: "Device Authority’s KeyScaler IoT Security Platform Now Available in the Microsoft Azure Marketplace"
-excerpt: "Microsoft Azure customers now gain access to Device Authority’s KeyScaler to take advantage of the scalability, reliability, and agility of Azure."
-publishedDateTime: 2020-06-23T11:50:00Z
-webUrl: "https://www.businesswire.com/news/home/20200623005500/en/Device-Authority’s-KeyScaler-IoT-Security-Platform-Microsoft"
+title: "Illusive Networks Joins Microsoft Intelligent Security Association and is Now Available in the Microsoft Azure Marketplace"
+excerpt: "Illusive Networks®, a leader in active cyber defense, today joined the Microsoft Intelligent Security Association (MISA), bringing the"
+publishedDateTime: 2020-09-24T19:03:00Z
+originalUrl: "https://www.prnewswire.com/il/news-releases/illusive-networks-joins-microsoft-intelligent-security-association-and-is-now-available-in-the-microsoft-azure-marketplace-866469933.html"
+webUrl: "https://www.prnewswire.com/il/news-releases/illusive-networks-joins-microsoft-intelligent-security-association-and-is-now-available-in-the-microsoft-azure-marketplace-866469933.html"
 type: article
-quality: 3
+quality: 11
 heat: -1
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Azure
+
+images:
+  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+    width: 600
+    height: 315
+    isCached: true
 
 related:
   - title: "Codafication's Virtual Assist Now Available in the Microsoft Azure Marketplace"
@@ -156,20 +163,6 @@ related:
         width: 2697
         height: 1414
         isCached: true
-  - title: "Illusive Networks Joins Microsoft Intelligent Security Association and is Now Available in the Microsoft Azure Marketplace"
-    excerpt: "Illusive Networks®, a leader in active cyber defense, today joined the Microsoft Intelligent Security Association (MISA), bringing the"
-    publishedDateTime: 2020-09-24T19:03:00Z
-    webUrl: "https://www.prnewswire.com/il/news-releases/illusive-networks-joins-microsoft-intelligent-security-association-and-is-now-available-in-the-microsoft-azure-marketplace-866469933.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 11
-    images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
-        isCached: true
   - title: "Greater Than Make FIA Smart Driving Challenge Now Available in the Microsoft Azure Marketplace"
     excerpt: "Microsoft Azure customers worldwide now gain access to FIA Smart Driving Challenge provided by Greater Than, to take advantage of the scalability, reliability and agility of Azure to drive application development and shape business strategies."
     publishedDateTime: 2020-05-05T13:06:00Z
@@ -179,7 +172,16 @@ related:
       name: Autoblog
       domain: autoblog.com
     quality: 5
+  - title: "Device Authority’s KeyScaler IoT Security Platform Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Microsoft Azure customers now gain access to Device Authority’s KeyScaler to take advantage of the scalability, reliability, and agility of Azure."
+    publishedDateTime: 2020-06-23T11:50:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200623005500/en/Device-Authority’s-KeyScaler-IoT-Security-Platform-Microsoft"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 3
 
-secured: "rBOMNxERV4AF88zeDMTUujZ/s8v9DEK5BG1HGSj90PfVULLVocskoVZoYJE8XfwXEMDk3iXPHINDJeGmbIm/YJoDdLdY29+2+ndq1/uUQU4MrksYfDPqqChHDlKFnxzM9AAGUKPzPasOJeie2q1D0d2FRZXFN5asE8oxTZ1y8fp6ArTFqs5zrGWWCsug4f97V1KAUQcK9B9qIZGXey/XD4wwrLSA2Q4lhadk8mrLYJwDUh4Grrym3SEKng452EHDPVv0OOY8HxQqs5rztz8HpINLIq/mTkgt7ah+CADbAenO9ddSFppQeM41Smmuul1WUmAPUf0vBpmh697g//8NuQ==;FYcdHLlLeJjKK65VLb0OEw=="
+secured: "SlSYLM6D7gfBuzwjVsttznAv4K9FAFC6IjzzQbMsI+5GStLewOdssZ72p4dNyeMubhlneOGpaCC0Qfl13IHYxaKIm0nlxrVWtO02dv9qxt+hJ5GpO8dScW4GqW6lSHbEDsp8nwr8732Kdlun6qg/Q15kpUNt/Ss9DbtqTvoyZRJszLSD363KPmtGp1bYIPYTPAI5N1fcMurzBPqfNyGheVQROcOEvGnfllCnnft336mIHoViSiR+2b/4fO/PUtaZ54A3SihwqB9YwZ1EyRJf5/2hNQqxbsm/4+mlvLHICk+STJzbHmaROXSafTOWRIUbMqTZAyy3757wHXcRtXTczDSZDF/jH60pBKPx7S0F0xE=;JBrRzeOctnzOZi9H5928IQ=="
 ---
 
