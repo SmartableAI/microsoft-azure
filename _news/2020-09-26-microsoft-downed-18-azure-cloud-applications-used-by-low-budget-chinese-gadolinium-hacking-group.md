@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/johndunn/2020/09/25/microsoft-downed-18
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johndunn/2020/09/25/microsoft-downed-18-azure-cloud-applications-used-by-low-budget-chinese-gadolinium-hacking-group/amp/"
 type: article
 quality: 84
-heat: 104
+heat: 124
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "Microsoft boots apps out of Azure used by China-sponsored hackers"
+    excerpt: "Fortune 500 companies aren’t the only ones flocking to cloud services like Microsoft Azure. Increasingly, hackers working on behalf of the Chinese government are also hosting their tools in the cloud,"
+    publishedDateTime: 2020-09-25T10:45:00Z
+    webUrl: "https://arstechnica.com/information-technology/2020/09/microsoft-boots-apps-used-by-china-sponsored-hackers-out-of-azure/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 77
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2020/09/china-inside-760x380.jpg"
+        width: 760
+        height: 380
+        isCached: true
   - title: "Microsoft boots apps used by China-sponsored hackers out of Azure"
     excerpt: "Fortune 500 companies aren’t the only ones flocking to cloud services like Microsoft Azure. Increasingly, hackers working on behalf of the Chinese government are also hosting their tools in the ..."
     publishedDateTime: 2020-09-25T10:47:00Z

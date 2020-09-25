@@ -1,10 +1,10 @@
 ---
 category: news
-title: "Microsoft boots apps used by China-sponsored hackers out of Azure"
-excerpt: "Fortune 500 companies aren’t the only ones flocking to cloud services like Microsoft Azure. Increasingly, hackers working on behalf of the Chinese government are also hosting their tools in the ..."
-publishedDateTime: 2020-09-25T10:47:00Z
-originalUrl: "https://arstechnica.com/information-technology/2020/09/microsoft-boots-apps-used-by-china-sponsored-hackers-out-of-azure/?comments=1"
-webUrl: "https://arstechnica.com/information-technology/2020/09/microsoft-boots-apps-used-by-china-sponsored-hackers-out-of-azure/?comments=1"
+title: "Microsoft boots apps out of Azure used by China-sponsored hackers"
+excerpt: "Fortune 500 companies aren’t the only ones flocking to cloud services like Microsoft Azure. Increasingly, hackers working on behalf of the Chinese government are also hosting their tools in the cloud,"
+publishedDateTime: 2020-09-25T10:45:00Z
+originalUrl: "https://arstechnica.com/information-technology/2020/09/microsoft-boots-apps-used-by-china-sponsored-hackers-out-of-azure/"
+webUrl: "https://arstechnica.com/information-technology/2020/09/microsoft-boots-apps-used-by-china-sponsored-hackers-out-of-azure/"
 type: article
 quality: 77
 heat: -1
@@ -44,10 +44,10 @@ related:
         width: 1200
         height: 686
         isCached: true
-  - title: "Microsoft boots apps out of Azure used by China-sponsored hackers"
-    excerpt: "Fortune 500 companies aren’t the only ones flocking to cloud services like Microsoft Azure. Increasingly, hackers working on behalf of the Chinese government are also hosting their tools in the cloud,"
-    publishedDateTime: 2020-09-25T10:45:00Z
-    webUrl: "https://arstechnica.com/information-technology/2020/09/microsoft-boots-apps-used-by-china-sponsored-hackers-out-of-azure/"
+  - title: "Microsoft boots apps used by China-sponsored hackers out of Azure"
+    excerpt: "Fortune 500 companies aren’t the only ones flocking to cloud services like Microsoft Azure. Increasingly, hackers working on behalf of the Chinese government are also hosting their tools in the ..."
+    publishedDateTime: 2020-09-25T10:47:00Z
+    webUrl: "https://arstechnica.com/information-technology/2020/09/microsoft-boots-apps-used-by-china-sponsored-hackers-out-of-azure/?comments=1"
     type: article
     provider:
       name: Ars Technica
@@ -59,6 +59,6 @@ related:
         height: 380
         isCached: true
 
-secured: "50Uu8ddvXa5vcM1rbYghGGUEDFRK1gCGPo2zQE75RdRIpGJU/OfjF+sQnzR2LDb2R4KWxf1qy9ZtdG1ymLNgzqeUbHosniWgjMIsFEvEpLszF/b7/i72vK52soN7X+P0QXHXiKS/Z0l4Go4Rsxbm5+oq9IrUeVCoV7ztA0bsKScxY0rye3YWn0OPDAYQri+C2v5XMU+2RMNVaVqn4VGwmRYFYWkRTHfkDonJvsR0njyB5inSXIaULocbOxSBkB+QH105nQY6GVoHQqbA23JL9LPdc2cgz5inv7QD3Q8OwOKNKPAIKwbKkd7y44nOFSDs/kLr5XUhCtCd58Cpfnzy5N9ngvWFG6UvrixMpEdw36O0iMIn+rAYJQhXHq4e9iEc15s97cYFl9fWKFud5Ek6ilFiZuf064bwgfg0wkd0MJ1PT3/7oWqK51rhBxyVj+/TX1ga3JB5O8adyd6UglDg12lVYJNIIzjWNbVCvtVRxvKWEijMoixy4fzPLFzV+LKGgHa18ZFiTssF9u8I2DHSVw==;azc1pHJsqGPHZ9Frm9cc9A=="
+secured: "NuMXdGTGroPxF/fna2NWPhak5Ck9PvHmV8gXBxuSRBdtEFG81SdFjQ9T4T34MPNwWi8N7ffgFSLnvZiIzWnHqfm57tW3QccswNSuB864kr2AVsyDnd2mJaox6JAsxGYDpqvbFylqe5jA1I0wno/+/KTQiOjhE7f1uXnIE22HSN/vobTRB8uBtzCLA66CbgBuApI51vv4h+m5yNY8MHkH7jfM6mpOT6Y1S5/Y2Ig+LwAkEu9884axHXRGilPzhoymQ5Zv7n+ZFjaH/DjnUud5qnr59BhV4N/95HRZE1VK8mtfMrG90XfSpydnRmjlsNFnFongrnL0asMXZEJQY1/cYBtl169jMGxZ/q3pGqpilT0=;jLg1UT5Qd4ObMswVe8y6Qg=="
 ---
 
