@@ -4,16 +4,12 @@
   "page": 2,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-trigger-azure-event-grid-workflow-iot-device.md",
-      "title": "Trigger an Azure Event Grid workflow from an IoT device",
-      "excerpt": "Trigger an Azure Event Grid workflow from an IoT device",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-trigger-azure-event-grid-workflow-iot-device/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/trigger-azure-event-grid-workflow-iot-device/",
-      "length": "PT42M",
-      "ratings": {
-        "count": 19,
-        "average": 4.7894735
-      },
+      "path": "_learning/collections/microsoft-learn-secure-your-cloud-applications-in-azure.md",
+      "title": "Secure your cloud applications in Azure",
+      "excerpt": "Learn how to secure your Azure apps and associated data with encryption, certificates, and policy.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-secure-your-cloud-applications-in-azure/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-secure-your-cloud-applications-in-azure/",
+      "length": "PT5H36M",
       "provider": {
         "name": "Microsoft Learn",
         "domain": "microsoft.com",
@@ -27,24 +23,92 @@
         ]
       },
       "levels": [
-        "Intermediate"
+        "Beginner",
+        "Intermediate",
+        "Advanced"
       ],
-      "heat": 50,
+      "topItems": [
+        {
+          "path": "",
+          "title": "Microsoft Azure Well-Architected Framework - Security",
+          "excerpt": "Discover the tools that Azure provides to help you design a secure environment throughout your infrastructure, data, network, and applications.",
+          "heat": -2147483598,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/azure-well-architected-security-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure",
+            "Identity"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Top 5 security items to consider before pushing to production",
+          "excerpt": "Learn about the Site Reliability Engineering approach to the challenge of assuring reliability and gain a better understanding of why it matters.",
+          "heat": -2147483598,
+          "type": "course",
+          "topics": [
+            "Azure",
+            "Security"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Create security baselines",
+          "excerpt": "Create security baselines",
+          "heat": -2147483598,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/create-security-baselines-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Manage secrets in your server apps with Azure Key Vault",
+          "excerpt": "Learn how to create an Azure Key Vault to store secret values and how to enable secure access to the vault.",
+          "heat": -2147483598,
+          "type": "course",
+          "topics": [
+            "Azure",
+            "Security",
+            "Compute",
+            "Web"
+          ]
+        }
+      ],
+      "size": 6,
+      "heat": -2147483648,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/iot/trigger-azure-event-grid-workflow-iot-device-social.png",
-          "width": 800,
-          "height": 400,
+          "url": "https://docs.microsoft.com/learn/achievements/azure-well-architected-security-social.png",
+          "width": 640,
+          "height": 320,
           "isCached": true
         }
       ],
-      "type": "course",
+      "type": "collection",
       "price": "Free",
       "topics": [
         "Azure",
-        "IoT",
+        "Management Tools",
+        "Security",
+        "Identity",
         "Integration",
-        "Blockchain"
+        "Web"
       ]
     }
   ],

@@ -8,7 +8,7 @@ length: PT34M
 ratings:
   count: 549
   average: 4.655738
-heat: 51
+heat: -14
 
 provider:
   name: Microsoft Learn
@@ -28,6 +28,6 @@ topics:
   - Compute
   - Databases
 
-secured: "PySEYLa4/mswRVV4gHsVYjgk+iWn48eyo3hsR7Riv+5xwfFdxPXgXC7m+uqmq829m25RQk4eTQPYHdunpzvVYRgI/UwBoIlHmnoF3MRONKSIYrps0icwfrhbWl7TOffzsTPjNCxubJFlM/WouWTeQJKuAd+Xen/G2yNdytoMlVyB9DqKQPCrJcVmaEyB4j/xVaP4Bd1rjQA1Xop+ARQmW3VlfvtuIg7fAanEUN3LnxyC+dy2DCjCq/HpL4NH/RRzcL6Ggg8zC2/Gpx+aAIS/yuYK8/Ngz/EeJpXlRYzS1G8C56VdwHzVgVtjWKpiqSYivbWKEJcGgYBI+qD61/ZmM3BG8FX/2uAHkHVPxtL+iaYKJ3eJgpivKuRMYt3sToWLvekDk4V7QW0qn45bnUu9dJwNiypXzPSnUYZsdjqdcD4=;syd7fHR89NsDkUUN63xtuw=="
+secured: "rcj4mcSsmmun8KTjYakUPnq6IupsWzyFyuOEPdou6r7jzzL7yi0roGVNaVmhYpULHg36M5g756xvb4MmrPhtAVkE1xtPOR0ptRyXzQVGAMODotGq/ZuCdRGoOalS+CQLhyGfGYVeRXQ9ZVnUfxb/BCbeRsuGKdlc9sknaSsgz4h/iOQEzR1sbeqVYMtiBGC/xEqtAHttJm9vW4+8nurIl4VgAXvx+RrKoxPj63OdcCa8XlyQ9kvGDpc3OBXh+WHmdBGYv6RJA9JI9WxbqOEcOOb8aEDEMkkVkEJP0T/k/gYIaW/JpaeiZIlsZEisCxRJn/dYUssvfv9LyhzmOIu4t4nwWABTs99Lly9aSNazUOr1kUTlTD63GVEij0en+hCQ/d7AhOrLYZ/kFsOZXeIe27FeSqeQfgLbHcaJ622P3a4=;TcKade1YiZLNxuD2f07BZA=="
 ---
 

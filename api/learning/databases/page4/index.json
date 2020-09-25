@@ -4,16 +4,12 @@
   "page": 4,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-secure-data-at-rest.md",
-      "title": "Introduction to securing data at rest on Azure",
-      "excerpt": "Identify the data in your organization and store it on Azure. Store secrets securely, and use client-side encryption and Storage Service Encryption to help protect your data.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-secure-data-at-rest/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/secure-data-at-rest/",
-      "length": "PT30M",
-      "ratings": {
-        "count": 184,
-        "average": 4.630435
-      },
+      "path": "_learning/collections/microsoft-learn-work-with-nosql-data-in-azure-cosmos-db.md",
+      "title": "Work with NoSQL data in Azure Cosmos DB",
+      "excerpt": "NoSQL data is an efficient way to store information that doesn’t map to the requirements of a relational SQL database. Learn how to use the Azure portal, the Azure Cosmos DB extension for Visual Studio Code, and the Azure Cosmos DB .NET Core SDK to work with your NoSQL data where you want, and provide your users with high availability, no matter where they are in the world.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-work-with-nosql-data-in-azure-cosmos-db/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-work-with-nosql-data-in-azure-cosmos-db/",
+      "length": "PT6H3M",
       "provider": {
         "name": "Microsoft Learn",
         "domain": "microsoft.com",
@@ -29,35 +25,95 @@
       "levels": [
         "Beginner"
       ],
-      "heat": 50,
+      "topItems": [
+        {
+          "path": "",
+          "title": "Create an Azure Cosmos DB database built to scale",
+          "excerpt": "Learn how to create an Azure Cosmos DB account, database, and container built to scale as your application grows.",
+          "heat": -2147483598,
+          "type": "course",
+          "topics": [
+            "Azure",
+            "Management Tools",
+            "Databases"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Choose the appropriate API for Azure Cosmos DB",
+          "excerpt": "Compare the different APIs that are available in Azure Cosmos DB, highlighting and contrasting the different scenarios that would make them a good choice for a company.",
+          "heat": -2147483598,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/choose-the-appropriate-api-for-cosmos-db-storage-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure",
+            "Databases"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Insert and query data in your Azure Cosmos DB database",
+          "excerpt": "Discover the Azure Cosmos DB Data Explorer tool that enables you to add or modify data and to create and run stored procedures.",
+          "heat": -2147483598,
+          "type": "course",
+          "topics": [
+            "Azure",
+            "Databases",
+            "Management Tools"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Store and access graph data in Azure Cosmos DB with the Graph API",
+          "excerpt": "Find out about creating an application with Azure Cosmos DB as a graph database, then retrieve, manipulate, and visualize graph data using Data Explorer.",
+          "heat": -2147483598,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/store-and-access-data-with-cosmos-db-and-the-graph-api-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure",
+            "Databases"
+          ]
+        }
+      ],
+      "size": 8,
+      "heat": -2147483648,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/secure-data-at-rest-social.png",
+          "url": "https://docs.microsoft.com/learn/achievements/choose-the-appropriate-api-for-cosmos-db-storage-social.png",
           "width": 800,
           "height": 400,
           "isCached": true
         }
       ],
-      "type": "course",
+      "type": "collection",
       "price": "Free",
       "topics": [
         "Azure",
         "Databases",
-        "Storage",
-        "Security"
+        "Management Tools"
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-store-access-data-cosmos-graph-api.md",
-      "title": "Store and access graph data in Azure Cosmos DB with the Graph API",
-      "excerpt": "Find out about creating an application with Azure Cosmos DB as a graph database, then retrieve, manipulate, and visualize graph data using Data Explorer.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-store-access-data-cosmos-graph-api/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/store-access-data-cosmos-graph-api/",
-      "length": "PT42M",
-      "ratings": {
-        "count": 1420,
-        "average": 4.643662
-      },
+      "path": "_learning/collections/microsoft-learn-work-with-relational-data-in-azure-learning-path.md",
+      "title": "Work with relational data in Azure learning path",
+      "excerpt": "This learning path introduces you to Azure-supported SQL-based enterprise data solutions enabling you to store and retrieve your app's data in the cloud.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-work-with-relational-data-in-azure-learning-path/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-work-with-relational-data-in-azure-learning-path/",
+      "length": "PT4H10M",
       "provider": {
         "name": "Microsoft Learn",
         "domain": "microsoft.com",
@@ -71,35 +127,90 @@
         ]
       },
       "levels": [
-        "Beginner"
+        "Intermediate"
       ],
-      "heat": 50,
+      "topItems": [
+        {
+          "path": "",
+          "title": "Provision an Azure SQL database to store application data",
+          "excerpt": "Find out what makes Azure SQL Database a good choice for your relational database, how to create the database from the portal and connect with Azure Cloud Shell.",
+          "heat": -2147483598,
+          "type": "course",
+          "topics": [
+            "Azure",
+            "Databases",
+            "Management Tools"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Create an Azure Database for PostgreSQL server",
+          "excerpt": "Learn how to create and deploy Azure Database for PostgreSQL for fully managed, enterprise-ready PostgreSQL database services.",
+          "heat": -2147483598,
+          "type": "course",
+          "topics": [
+            "Azure",
+            "Management Tools"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Scale multiple Azure SQL Databases with SQL elastic pools",
+          "excerpt": "Learn how to create SQL elastic pools and how to use them to manage performance and cost for a collection of SQL databases.",
+          "heat": -2147483598,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/azure-scale-azure-sql-databases-elastic-pools-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure",
+            "Management Tools",
+            "Databases"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Secure your Azure SQL Database",
+          "excerpt": "Secure an Azure SQL database to keep the information safe and diagnose potential security concerns as they happen.",
+          "heat": -2147483598,
+          "type": "course",
+          "topics": [
+            "Azure",
+            "Management Tools",
+            "Databases"
+          ]
+        }
+      ],
+      "size": 5,
+      "heat": -2147483648,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/store-and-access-data-with-cosmos-db-and-the-graph-api-social.png",
+          "url": "https://docs.microsoft.com/learn/achievements/azure-scale-azure-sql-databases-elastic-pools-social.png",
           "width": 800,
           "height": 400,
           "isCached": true
         }
       ],
-      "type": "course",
+      "type": "collection",
       "price": "Free",
       "topics": [
         "Azure",
-        "Databases"
+        "Databases",
+        "Management Tools"
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-store-access-data-cosmos-table-api.md",
-      "title": "Store and Access NoSQL Data with Azure Cosmos DB and the Table API",
-      "excerpt": "By using the Azure Cosmos DB Table API, you will benefit from the low latency, high availability, and scalability of Azure Cosmos DB in a Table storage application.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-store-access-data-cosmos-table-api/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/store-access-data-cosmos-table-api/",
-      "length": "PT29M",
-      "ratings": {
-        "count": 1276,
-        "average": 4.601097
-      },
+      "path": "_learning/collections/microsoft-learn-work-with-relational-data-in-azure.md",
+      "title": "Work with relational data in Azure",
+      "excerpt": "Azure supports several popular SQL-based database solutions including SQL Server, PostgreSQL, and MySQL. Learn how to use these enterprise data solutions in Azure to store and retrieve your app's data in the cloud.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-work-with-relational-data-in-azure/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-work-with-relational-data-in-azure/",
+      "length": "PT4H10M",
       "provider": {
         "name": "Microsoft Learn",
         "domain": "microsoft.com",
@@ -113,23 +224,80 @@
         ]
       },
       "levels": [
-        "Beginner"
+        "Intermediate"
       ],
-      "heat": 50,
+      "topItems": [
+        {
+          "path": "",
+          "title": "Provision an Azure SQL database to store application data",
+          "excerpt": "Find out what makes Azure SQL Database a good choice for your relational database, how to create the database from the portal and connect with Azure Cloud Shell.",
+          "heat": -2147483598,
+          "type": "course",
+          "topics": [
+            "Azure",
+            "Databases",
+            "Management Tools"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Migrate your relational data stored in SQL Server to Azure SQL Database",
+          "excerpt": "Plan and implement the migration of relational data from SQL Server to Azure SQL Database. Select the appropriate migration strategy for your database, and then use Data Migration Assistant to do the assessment and the migration.",
+          "heat": -29,
+          "type": "course",
+          "topics": [
+            "Azure",
+            "Databases"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Create an Azure Database for PostgreSQL server",
+          "excerpt": "Learn how to create and deploy Azure Database for PostgreSQL for fully managed, enterprise-ready PostgreSQL database services.",
+          "heat": -2147483598,
+          "type": "course",
+          "topics": [
+            "Azure",
+            "Management Tools"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Scale multiple Azure SQL Databases with SQL elastic pools",
+          "excerpt": "Learn how to create SQL elastic pools and how to use them to manage performance and cost for a collection of SQL databases.",
+          "heat": -2147483598,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/azure-scale-azure-sql-databases-elastic-pools-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure",
+            "Management Tools",
+            "Databases"
+          ]
+        }
+      ],
+      "size": 6,
+      "heat": -2147483648,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/store-and-access-data-cosmos-db-table-api-social.png",
+          "url": "https://docs.microsoft.com/learn/achievements/azure-scale-azure-sql-databases-elastic-pools-social.png",
           "width": 800,
           "height": 400,
           "isCached": true
         }
       ],
-      "type": "course",
+      "type": "collection",
       "price": "Free",
       "topics": [
         "Azure",
-        "Storage",
-        "Databases"
+        "Databases",
+        "Management Tools"
       ]
     }
   ],

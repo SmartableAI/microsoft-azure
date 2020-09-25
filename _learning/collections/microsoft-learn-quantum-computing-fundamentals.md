@@ -4,7 +4,7 @@ excerpt: "Intrigued by quantum computing but don't know where to start? This lea
 type: collection
 price: Free
 length: PT2H16M
-heat: 51
+heat: 44
 
 provider:
   name: Microsoft Learn

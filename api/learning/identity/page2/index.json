@@ -4,15 +4,15 @@
   "page": 2,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-protect-identities-with-aad-idp.md",
-      "title": "Protect your identities with Azure AD Identity Protection",
-      "excerpt": "Use the advanced detection and remediation of identity-based threats to protect your Azure Active Directory identities and applications from compromise.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-protect-identities-with-aad-idp/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/protect-identities-with-aad-idp/",
-      "length": "PT34M",
+      "path": "_learning/courses/microsoft-learn-introduction-to-security.md",
+      "title": "Security, responsibility, and trust in Azure",
+      "excerpt": "Discuss the basic concepts for protecting your infrastructure and data when you work in the cloud. Understand what responsibilities are yours and what Azure takes care of for you.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-introduction-to-security/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/intro-to-security-in-azure/",
+      "length": "PT1H16M",
       "ratings": {
-        "count": 91,
-        "average": 4.626374
+        "count": 44170,
+        "average": 4.7028527
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -27,12 +27,46 @@
         ]
       },
       "levels": [
-        "Intermediate"
+        "Beginner"
       ],
-      "heat": 51,
+      "heat": -2147483598,
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Identity"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-manage-users-and-groups-in-aad.md",
+      "title": "Manage users and groups in Azure Active Directory",
+      "excerpt": "Manage users and groups in Azure Active Directory",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-manage-users-and-groups-in-aad/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/manage-users-and-groups-in-aad/",
+      "length": "PT50M",
+      "ratings": {
+        "count": 2905,
+        "average": 4.6709123
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": -2147483598,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/protect-identities-with-aad-idp-social.png",
+          "url": "https://docs.microsoft.com/learn/achievements/manage-users-and-groups-in-aad-social.png",
           "width": 800,
           "height": 400,
           "isCached": true
@@ -46,12 +80,59 @@
       ]
     },
     {
-      "path": "_learning/collections/microsoft-learn-implement-windows-server-iaas-vm-identity.md",
-      "title": "Implement Windows Server IaaS VM Identity",
-      "excerpt": "After completing this learning path, you’ll know how to implement identity in Azure. You’ll be able to extend an existing on-premises Active Directory identity service into Azure.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-implement-windows-server-iaas-vm-identity/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-implement-windows-server-iaas-vm-identity/",
-      "length": "PT2H28M",
+      "path": "_learning/courses/microsoft-learn-secure-aad-users-with-mfa.md",
+      "title": "Secure Azure Active Directory users with Multi-Factor Authentication",
+      "excerpt": "Learn how to use multi-factor authentication with Azure AD to harden your user accounts.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-secure-aad-users-with-mfa/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/secure-aad-users-with-mfa/",
+      "length": "PT38M",
+      "ratings": {
+        "count": 1304,
+        "average": 4.6817484
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": -2147483598,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/secure-aad-users-with-mfa-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Management Tools",
+        "Identity"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-secure-app-with-oidc-and-azure-ad.md",
+      "title": "Secure your application by using OpenID Connect and Azure AD",
+      "excerpt": "In this module, you will learn how to enable users to authenticate in multiple systems by using their Azure AD identities.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-secure-app-with-oidc-and-azure-ad/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/secure-app-with-oidc-and-azure-ad/",
+      "length": "PT50M",
+      "ratings": {
+        "count": 1366,
+        "average": 4.6120057
+      },
       "provider": {
         "name": "Microsoft Learn",
         "domain": "microsoft.com",
@@ -67,57 +148,156 @@
       "levels": [
         "Intermediate"
       ],
+      "heat": -2147483598,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/secure-app-with-oidc-and-azure-ad-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Identity"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-secure-azure-resources-with-rbac.md",
+      "title": "Secure your Azure resources with role-based access control (RBAC)",
+      "excerpt": "Learn how to use Azure’s role-based access control to effectively manage your team’s access to Azure resources.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-secure-azure-resources-with-rbac/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/secure-azure-resources-with-rbac/",
+      "length": "PT37M",
+      "ratings": {
+        "count": 4620,
+        "average": 4.644589
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": -2147483598,
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Management Tools",
+        "Identity"
+      ]
+    },
+    {
+      "path": "_learning/collections/microsoft-learn-az-104-manage-identities-and-governance-in-azure.md",
+      "title": "AZ-104: Manage identities and governance in Azure",
+      "excerpt": "Learn how to manage Azure Active Directory objects, role-based access control (RBAC), subscriptions, and governance in Azure. This learning path helps prepare you for Exam AZ-104: Microsoft Azure Administrator.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-az-104-manage-identities-and-governance-in-azure/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-az-104-manage-identities-and-governance-in-azure/",
+      "length": "PT7H17M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
       "topItems": [
         {
           "path": "",
-          "title": "Implement hybrid identity with Windows Server",
-          "excerpt": "Implement hybrid identity with Windows Server",
-          "heat": 50,
+          "title": "Create Azure users and groups in Azure Active Directory",
+          "excerpt": "Learn how to create Azure users and groups in Azure Active Directory.",
+          "heat": -2147483598,
           "images": [
             {
-              "url": "https://docs.microsoft.com/learn/achievements/implement-hybrid-identity-with-windows-server-social.png",
-              "width": 642,
-              "height": 321,
+              "url": "https://docs.microsoft.com/learn/achievements/create-users-and-groups-in-azure-active-directory-social.png",
+              "width": 800,
+              "height": 400,
               "isCached": true
             }
           ],
           "type": "course",
           "topics": [
             "Azure",
-            "Identity",
-            "Management Tools",
-            "Compute"
+            "Identity"
           ]
         },
         {
           "path": "",
-          "title": "Deploy and manage Azure IaaS Active Directory domain controllers in Azure",
-          "excerpt": "Deploy and manage Azure IaaS active directory domain controllers in Azure",
-          "heat": 50,
+          "title": "Manage users and groups in Azure Active Directory",
+          "excerpt": "Manage users and groups in Azure Active Directory",
+          "heat": -2147483598,
           "images": [
             {
-              "url": "https://docs.microsoft.com/learn/achievements/deploy-and-manage-azure-iaas-active-directory-domain-controllers-in-azure-social.png",
-              "width": 642,
-              "height": 321,
+              "url": "https://docs.microsoft.com/learn/achievements/manage-users-and-groups-in-aad-social.png",
+              "width": 800,
+              "height": 400,
               "isCached": true
             }
           ],
           "type": "course",
           "topics": [
             "Azure",
-            "Identity",
-            "Management Tools",
-            "Compute"
+            "Identity"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Allow users to reset their password with Azure Active Directory self-service password reset",
+          "excerpt": "Learn how to allow users to reset their password with Azure Active Directory self-service password reset.",
+          "heat": -2147483598,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/allow-users-reset-their-password-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure",
+            "Identity"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Manage access to an Azure subscription by using Azure role-based access control (RBAC)",
+          "excerpt": "Learn how to assign management access to a subscription by using Azure role-based access control.",
+          "heat": 202,
+          "type": "course",
+          "topics": [
+            "Azure",
+            "Identity"
           ]
         }
       ],
-      "size": 2,
-      "heat": 50,
+      "size": 11,
+      "heat": -2147483648,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/implement-hybrid-identity-with-windows-server-social.png",
-          "width": 642,
-          "height": 321,
+          "url": "https://docs.microsoft.com/learn/achievements/create-users-and-groups-in-azure-active-directory-social.png",
+          "width": 800,
+          "height": 400,
           "isCached": true
         }
       ],
@@ -126,65 +306,16 @@
       "topics": [
         "Azure",
         "Identity",
-        "Management Tools",
-        "Compute"
+        "Management Tools"
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-deploy-manage-azure-iaas-active-directory-domain-controllers-azure.md",
-      "title": "Deploy and manage Azure IaaS Active Directory domain controllers in Azure",
-      "excerpt": "Deploy and manage Azure IaaS active directory domain controllers in Azure",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-deploy-manage-azure-iaas-active-directory-domain-controllers-azure/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/deploy-manage-azure-iaas-active-directory-domain-controllers-azure/",
-      "length": "PT39M",
-      "ratings": {
-        "count": 21,
-        "average": 4.714286
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/deploy-and-manage-azure-iaas-active-directory-domain-controllers-in-azure-social.png",
-          "width": 642,
-          "height": 321,
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Identity",
-        "Management Tools",
-        "Compute"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-enable-external-access-with-b2c.md",
-      "title": "Enable secure access to apps for external users with Azure AD B2C",
-      "excerpt": "Use Azure AD B2C as the full-featured identity system for your application, and ensure that users are required to sign in securely by using multi-factor authentication.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-enable-external-access-with-b2c/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/enable-external-access-with-b2c/",
-      "length": "PT16M",
-      "ratings": {
-        "count": 44,
-        "average": 4.4545455
-      },
+      "path": "_learning/collections/microsoft-learn-az-104-prerequisites-for-azure-administrators.md",
+      "title": "AZ-104: Prerequisites for Azure administrators",
+      "excerpt": "If you're an IT Administrator that's new to Azure and need to prepare for Exam AZ-104: Microsoft Azure Administrator, this path is the place to start. Learn the basic Azure concepts you'll need to know as an Azure administrator.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-az-104-prerequisites-for-azure-administrators/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-az-104-prerequisites-for-azure-administrators/",
+      "length": "PT6H30M",
       "provider": {
         "name": "Microsoft Learn",
         "domain": "microsoft.com",
@@ -200,33 +331,80 @@
       "levels": [
         "Beginner"
       ],
-      "heat": 50,
+      "topItems": [
+        {
+          "path": "",
+          "title": "Apply and monitor infrastructure standards with Azure Policy",
+          "excerpt": "Learn about tools Azure provides for policy and standards management that support your teams' ownership and development of their resources in the cloud.",
+          "heat": -2147483598,
+          "type": "course",
+          "topics": [
+            "Azure",
+            "Management Tools"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Introduction to Azure virtual machines",
+          "excerpt": "Learn about the decisions you make before creating a virtual machine, the options to create and manage the VM, and the extensions and services you use to manage your VM.",
+          "heat": -2147483598,
+          "type": "course",
+          "topics": [
+            "Azure",
+            "Compute"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Fundamentals of computer networking",
+          "excerpt": "You'll learn the fundamental principles of computer networking to prepare you for the Azure admin and developer learning paths.",
+          "heat": -2147483598,
+          "type": "course",
+          "topics": [
+            "Azure"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Fundamentals of network security",
+          "excerpt": "Explore the fundamentals of computer networking security and monitoring.",
+          "heat": -2147483598,
+          "type": "course",
+          "topics": [
+            "Azure"
+          ]
+        }
+      ],
+      "size": 9,
+      "heat": -2147483648,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/enable-external-access-with-b2c-social.png",
-          "width": 800,
-          "height": 400,
+          "url": "https://docs.microsoft.com/learn/achievements/intro-to-governance-social.png",
+          "width": 100,
+          "height": 100,
+          "title": "Apply and monitor infrastructure standards with Azure Policy",
           "isCached": true
         }
       ],
-      "type": "course",
+      "type": "collection",
       "price": "Free",
       "topics": [
         "Azure",
-        "Identity"
+        "Compute",
+        "Networking",
+        "Management Tools",
+        "Identity",
+        "Containers",
+        "Storage"
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-enable-external-collaboration-with-b2b.md",
-      "title": "Enable secure external collaboration for your applications with Azure AD B2B",
-      "excerpt": "Azure AD B2B collaboration lets you securely share your company's applications and services with guest users from any other organization, while maintaining control over your own corporate data.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-enable-external-collaboration-with-b2b/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/enable-external-collaboration-with-b2b/",
-      "length": "PT34M",
-      "ratings": {
-        "count": 25,
-        "average": 4.88
-      },
+      "path": "_learning/collections/microsoft-learn-az-400-develop-a-security-and-compliance-plan.md",
+      "title": "AZ-400: Develop a security and compliance plan",
+      "excerpt": "Build strategies around security and compliance that enable you to authenticate and authorize your users, handle sensitive information, and enforce proper governance.\nTake this learning path to help prepare for Exam AZ-400: Designing and Implementing Microsoft DevOps Solutions.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-az-400-develop-a-security-and-compliance-plan/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-az-400-develop-a-security-and-compliance-plan/",
+      "length": "PT8H31M",
       "provider": {
         "name": "Microsoft Learn",
         "domain": "microsoft.com",
@@ -242,307 +420,111 @@
       "levels": [
         "Beginner"
       ],
-      "heat": 50,
+      "topItems": [
+        {
+          "path": "",
+          "title": "Secure your identities by using Azure Active Directory",
+          "excerpt": "Use Azure Active Directory to you secure your internal, external, and customer identities.",
+          "heat": -2147483598,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/intro-to-azure-ad-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure",
+            "Identity"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Create Azure users and groups in Azure Active Directory",
+          "excerpt": "Learn how to create Azure users and groups in Azure Active Directory.",
+          "heat": -2147483598,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/create-users-and-groups-in-azure-active-directory-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure",
+            "Identity"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Authenticate apps to Azure services by using service principals and managed identities for Azure resources",
+          "excerpt": "Securely authenticate apps to Azure to manage and access Azure services. Service principals and managed identities give your app an Azure AD identity.",
+          "heat": 41,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/authenticate-apps-with-managed-identities-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Configure and manage secrets in Azure Key Vault",
+          "excerpt": "Configure and manage secrets in Azure Key Vault",
+          "heat": -2147483598,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/configure-and-manage-azure-key-vault-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure"
+          ]
+        }
+      ],
+      "size": 11,
+      "heat": -2147483648,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/enable-external-collaboration-with-b2b-social.png",
+          "url": "https://docs.microsoft.com/learn/achievements/intro-to-azure-ad-social.png",
           "width": 800,
           "height": 400,
           "isCached": true
         }
       ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Identity"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-getting-started-identity.md",
-      "title": "Getting Started with Microsoft Identity",
-      "excerpt": "Learn the basics of Microsoft identity including the different types of tokens, account types, and supported topologies.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-getting-started-identity/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/getting-started-identity/",
-      "length": "PT1H10M",
-      "ratings": {
-        "count": 207,
-        "average": 4.6763287
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Identity"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-identity-application-types.md",
-      "title": "Application types in Microsoft identity",
-      "excerpt": "Learn how developers can leverage Microsoft identity in different types of applications.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-identity-application-types/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/identity-application-types/",
-      "length": "PT50M",
-      "ratings": {
-        "count": 111,
-        "average": 4.6306305
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/identity-application-types-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Identity"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-identity-permissions-consent.md",
-      "title": "Permissions and Consent Framework",
-      "excerpt": "Learn the basics of Microsoft identity including the different types of tokens, account types, and supported topologies.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-identity-permissions-consent/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/identity-permissions-consent/",
-      "length": "PT1H6M",
-      "ratings": {
-        "count": 81,
-        "average": 4.728395
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/identity-permissions-consent-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Identity"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-identity-secure-custom-api.md",
-      "title": "Secure custom APIs with Microsoft Identity",
-      "excerpt": "Learn how to secure a web API with Microsoft identity and how to call it from another application.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-identity-secure-custom-api/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/identity-secure-custom-api/",
-      "length": "PT1H23M",
-      "ratings": {
-        "count": 70,
-        "average": 4.6571426
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Identity"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-identity-users-groups-approles.md",
-      "title": "Work with users, groups, and roles in custom apps and APIs",
-      "excerpt": "In this module, you’ll learn how to use both Azure AD Groups and Application Roles to provide fine grained access control to an application.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-identity-users-groups-approles/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/identity-users-groups-approles/",
-      "length": "PT1H13M",
-      "ratings": {
-        "count": 73,
-        "average": 4.7260275
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Identity"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-implement-hybrid-identity-with-windows-server.md",
-      "title": "Implement hybrid identity with Windows Server",
-      "excerpt": "Implement hybrid identity with Windows Server",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-implement-hybrid-identity-with-windows-server/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/implement-hybrid-identity-windows-server/",
-      "length": "PT1H49M",
-      "ratings": {
-        "count": 25,
-        "average": 4.6
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/implement-hybrid-identity-with-windows-server-social.png",
-          "width": 642,
-          "height": 321,
-          "isCached": true
-        }
-      ],
-      "type": "course",
+      "type": "collection",
       "price": "Free",
       "topics": [
         "Azure",
         "Identity",
-        "Management Tools",
-        "Compute"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-monitor-report-aad-security-events.md",
-      "title": "Monitor and report on security events in Azure AD",
-      "excerpt": "Keep tabs on security events in your Azure AD resources by using built-in reporting and monitoring capabilities. Respond to events as they happen, and address security risks before they become a problem.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-monitor-report-aad-security-events/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/monitor-report-aad-security-events/",
-      "length": "PT35M",
-      "ratings": {
-        "count": 139,
-        "average": 4.5827336
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/monitor-report-aad-security-events-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Identity",
+        "Security",
+        "Integration",
+        "Web",
         "DevOps",
         "Management Tools"
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-secure-cognitive-services.md",
-      "title": "Secure Cognitive Services",
-      "excerpt": "Learn how to secure Cognitive Services to prevent data loss and privacy violations for user data that may be a part of the solution.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-secure-cognitive-services/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/secure-cognitive-services/",
-      "length": "PT37M",
-      "ratings": {
-        "count": 6,
-        "average": 4.6666665
-      },
+      "path": "_learning/collections/microsoft-learn-manage-identities-and-governance-for-azure-administrators.md",
+      "title": "Manage identities and governance for Azure administrators",
+      "excerpt": "Learn how to manage users, subscriptions, role-based access control (RBAC), and governance in Azure.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-manage-identities-and-governance-for-azure-administrators/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-manage-identities-and-governance-for-azure-administrators/",
+      "length": "PT8H47M",
       "provider": {
         "name": "Microsoft Learn",
         "domain": "microsoft.com",
@@ -556,23 +538,505 @@
         ]
       },
       "levels": [
-        "Advanced"
+        "Beginner"
       ],
-      "heat": 50,
+      "topItems": [
+        {
+          "path": "",
+          "title": "Create Azure users and groups in Azure Active Directory",
+          "excerpt": "Learn how to create Azure users and groups in Azure Active Directory.",
+          "heat": -2147483598,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/create-users-and-groups-in-azure-active-directory-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure",
+            "Identity"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Manage users and groups in Azure Active Directory",
+          "excerpt": "Manage users and groups in Azure Active Directory",
+          "heat": -2147483598,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/manage-users-and-groups-in-aad-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure",
+            "Identity"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Allow users to reset their password with Azure Active Directory self-service password reset",
+          "excerpt": "Learn how to allow users to reset their password with Azure Active Directory self-service password reset.",
+          "heat": -2147483598,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/allow-users-reset-their-password-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure",
+            "Identity"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Manage access to an Azure subscription by using Azure role-based access control (RBAC)",
+          "excerpt": "Learn how to assign management access to a subscription by using Azure role-based access control.",
+          "heat": 202,
+          "type": "course",
+          "topics": [
+            "Azure",
+            "Identity"
+          ]
+        }
+      ],
+      "size": 14,
+      "heat": -2147483648,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/secure-cognitive-services-social.png",
-          "width": 643,
-          "height": 321,
+          "url": "https://docs.microsoft.com/learn/achievements/create-users-and-groups-in-azure-active-directory-social.png",
+          "width": 800,
+          "height": 400,
           "isCached": true
         }
       ],
-      "type": "course",
+      "type": "collection",
       "price": "Free",
       "topics": [
         "Azure",
         "Identity",
-        "AI"
+        "Management Tools"
+      ]
+    },
+    {
+      "path": "_learning/collections/microsoft-learn-manage-identity-and-access-in-azure-active-directory.md",
+      "title": "Manage identity and access in Azure Active Directory",
+      "excerpt": "Learn how to work with subscriptions, users, and groups by configuring Microsoft Azure Active Directory for workloads.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-manage-identity-and-access-in-azure-active-directory/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-manage-identity-and-access-in-azure-active-directory/",
+      "length": "PT6H8M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner",
+        "Intermediate"
+      ],
+      "topItems": [
+        {
+          "path": "",
+          "title": "Security, responsibility, and trust in Azure",
+          "excerpt": "Discuss the basic concepts for protecting your infrastructure and data when you work in the cloud. Understand what responsibilities are yours and what Azure takes care of for you.",
+          "heat": -2147483598,
+          "type": "course",
+          "topics": [
+            "Azure",
+            "Identity"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Create an Azure account",
+          "excerpt": "Find out how to start using Azure by creating an account where you’ll see services and personal settings for identity, billing, and preferences.",
+          "heat": -2147483598,
+          "type": "course",
+          "topics": [
+            "Azure",
+            "Management Tools"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Manage users and groups in Azure Active Directory",
+          "excerpt": "Manage users and groups in Azure Active Directory",
+          "heat": -2147483598,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/manage-users-and-groups-in-aad-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure",
+            "Identity"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Create Azure users and groups in Azure Active Directory",
+          "excerpt": "Learn how to create Azure users and groups in Azure Active Directory.",
+          "heat": -2147483598,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/create-users-and-groups-in-azure-active-directory-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure",
+            "Identity"
+          ]
+        }
+      ],
+      "size": 9,
+      "heat": -2147483648,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/manage-users-and-groups-in-aad-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Management Tools",
+        "Identity"
+      ]
+    },
+    {
+      "path": "_learning/collections/microsoft-learn-manage-security-operations-in-azure.md",
+      "title": "Manage security operations in Azure",
+      "excerpt": "Learn how to configure security policies and manage security alerts with the tools and services in Azure.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-manage-security-operations-in-azure/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-manage-security-operations-in-azure/",
+      "length": "PT6H49M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner",
+        "Intermediate"
+      ],
+      "topItems": [
+        {
+          "path": "",
+          "title": "Security, responsibility, and trust in Azure",
+          "excerpt": "Discuss the basic concepts for protecting your infrastructure and data when you work in the cloud. Understand what responsibilities are yours and what Azure takes care of for you.",
+          "heat": -2147483598,
+          "type": "course",
+          "topics": [
+            "Azure",
+            "Identity"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Create security baselines",
+          "excerpt": "Create security baselines",
+          "heat": -2147483598,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/create-security-baselines-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Identify security threats with Azure Security Center",
+          "excerpt": "Master securing your Azure workloads with Azure Security Center. In this module, you’ll discover how to detect and respond to threats with Azure Security Center.",
+          "heat": -59,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/identify-threats-with-azure-security-center-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Resolve security threats with Azure Security Center",
+          "excerpt": "In this module, you’ll use the alert capabilities of Azure Security Center to watch for and respond to threats.",
+          "heat": -2147483598,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/resolve-threats-with-azure-security-center-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure"
+          ]
+        }
+      ],
+      "size": 8,
+      "heat": -2147483648,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/create-security-baselines-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Management Tools",
+        "Security",
+        "Identity",
+        "Integration",
+        "Web"
+      ]
+    },
+    {
+      "path": "_learning/collections/microsoft-learn-prerequisites-for-azure-administrators.md",
+      "title": "Prerequisites for Azure administrators",
+      "excerpt": "If you're an IT Administrator that's new to Azure, this path is the place to start. Learn the basic Azure concepts you'll need to know as an Azure administrator.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-prerequisites-for-azure-administrators/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-prerequisites-for-azure-administrators/",
+      "length": "PT6H30M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "topItems": [
+        {
+          "path": "",
+          "title": "Apply and monitor infrastructure standards with Azure Policy",
+          "excerpt": "Learn about tools Azure provides for policy and standards management that support your teams' ownership and development of their resources in the cloud.",
+          "heat": -2147483598,
+          "type": "course",
+          "topics": [
+            "Azure",
+            "Management Tools"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Introduction to Azure virtual machines",
+          "excerpt": "Learn about the decisions you make before creating a virtual machine, the options to create and manage the VM, and the extensions and services you use to manage your VM.",
+          "heat": -2147483598,
+          "type": "course",
+          "topics": [
+            "Azure",
+            "Compute"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Fundamentals of computer networking",
+          "excerpt": "You'll learn the fundamental principles of computer networking to prepare you for the Azure admin and developer learning paths.",
+          "heat": -2147483598,
+          "type": "course",
+          "topics": [
+            "Azure"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Fundamentals of network security",
+          "excerpt": "Explore the fundamentals of computer networking security and monitoring.",
+          "heat": -2147483598,
+          "type": "course",
+          "topics": [
+            "Azure"
+          ]
+        }
+      ],
+      "size": 9,
+      "heat": -2147483648,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/intro-to-governance-social.png",
+          "width": 100,
+          "height": 100,
+          "title": "Apply and monitor infrastructure standards with Azure Policy",
+          "isCached": true
+        }
+      ],
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Compute",
+        "Networking",
+        "Management Tools",
+        "Identity",
+        "Containers",
+        "Storage"
+      ]
+    },
+    {
+      "path": "_learning/collections/microsoft-learn-secure-your-cloud-applications-in-azure.md",
+      "title": "Secure your cloud applications in Azure",
+      "excerpt": "Learn how to secure your Azure apps and associated data with encryption, certificates, and policy.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-secure-your-cloud-applications-in-azure/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-secure-your-cloud-applications-in-azure/",
+      "length": "PT5H36M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner",
+        "Intermediate",
+        "Advanced"
+      ],
+      "topItems": [
+        {
+          "path": "",
+          "title": "Microsoft Azure Well-Architected Framework - Security",
+          "excerpt": "Discover the tools that Azure provides to help you design a secure environment throughout your infrastructure, data, network, and applications.",
+          "heat": -2147483598,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/azure-well-architected-security-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure",
+            "Identity"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Top 5 security items to consider before pushing to production",
+          "excerpt": "Learn about the Site Reliability Engineering approach to the challenge of assuring reliability and gain a better understanding of why it matters.",
+          "heat": -2147483598,
+          "type": "course",
+          "topics": [
+            "Azure",
+            "Security"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Create security baselines",
+          "excerpt": "Create security baselines",
+          "heat": -2147483598,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/create-security-baselines-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Manage secrets in your server apps with Azure Key Vault",
+          "excerpt": "Learn how to create an Azure Key Vault to store secret values and how to enable secure access to the vault.",
+          "heat": -2147483598,
+          "type": "course",
+          "topics": [
+            "Azure",
+            "Security",
+            "Compute",
+            "Web"
+          ]
+        }
+      ],
+      "size": 6,
+      "heat": -2147483648,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/azure-well-architected-security-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Management Tools",
+        "Security",
+        "Identity",
+        "Integration",
+        "Web"
       ]
     }
   ],

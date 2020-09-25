@@ -4,7 +4,7 @@ excerpt: "This learning path enables students to migrate Cassandra and MongoDB w
 type: collection
 price: Free
 length: PT1H13M
-heat: 50
+heat: 47
 
 provider:
   name: Microsoft Learn

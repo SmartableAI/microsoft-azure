@@ -4,7 +4,7 @@ excerpt: "This path is intended for beginners that are looking to learn the basi
 type: collection
 price: Free
 length: PT12H53M
-heat: 60
+heat: 52
 
 provider:
   name: Microsoft Learn

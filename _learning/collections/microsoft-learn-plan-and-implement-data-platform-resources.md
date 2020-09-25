@@ -4,7 +4,7 @@ excerpt: "Deploy data platform resources in Azure for SQL Server and Open Source
 type: collection
 price: Free
 length: PT1H9M
-heat: 172
+heat: 124
 
 provider:
   name: Microsoft Learn

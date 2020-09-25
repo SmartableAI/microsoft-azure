@@ -4,60 +4,12 @@
   "page": 3,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-monitor-windows-server-iaas-vms-hybrid-instances.md",
-      "title": "Monitor Windows Server IaaS Virtual Machines and hybrid instances",
-      "excerpt": "You'll be able to implement Azure Monitor for IaaS Virtual Machines in Azure, implement Azure Monitor in on-premises environments, and use dependency maps.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-monitor-windows-server-iaas-vms-hybrid-instances/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/monitor-windows-server-iaas-virtual-machines-hybrid-instances/",
-      "length": "PT46M",
-      "ratings": {
-        "count": 17,
-        "average": 4.4117646
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Management Tools",
-        "DevOps",
-        "Compute"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-monitoring-fundamentals.md",
-      "title": "Choose the best monitoring service for visibility, insight, and mitigation of service outages",
-      "excerpt": "Discover solutions that help IT organizations with insights into the health and performance of their applications running in the cloud.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-monitoring-fundamentals/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/monitoring-fundamentals/",
-      "length": "PT22M",
-      "ratings": {
-        "count": 5,
-        "average": 5.0
-      },
+      "path": "_learning/collections/microsoft-learn-az-400-develop-a-security-and-compliance-plan.md",
+      "title": "AZ-400: Develop a security and compliance plan",
+      "excerpt": "Build strategies around security and compliance that enable you to authenticate and authorize your users, handle sensitive information, and enforce proper governance.\nTake this learning path to help prepare for Exam AZ-400: Designing and Implementing Microsoft DevOps Solutions.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-az-400-develop-a-security-and-compliance-plan/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-az-400-develop-a-security-and-compliance-plan/",
+      "length": "PT8H31M",
       "provider": {
         "name": "Microsoft Learn",
         "domain": "microsoft.com",
@@ -73,78 +25,111 @@
       "levels": [
         "Beginner"
       ],
-      "heat": 50,
-      "images": [
+      "topItems": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
+          "path": "",
+          "title": "Secure your identities by using Azure Active Directory",
+          "excerpt": "Use Azure Active Directory to you secure your internal, external, and customer identities.",
+          "heat": -2147483598,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/intro-to-azure-ad-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure",
+            "Identity"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Create Azure users and groups in Azure Active Directory",
+          "excerpt": "Learn how to create Azure users and groups in Azure Active Directory.",
+          "heat": -2147483598,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/create-users-and-groups-in-azure-active-directory-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure",
+            "Identity"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Authenticate apps to Azure services by using service principals and managed identities for Azure resources",
+          "excerpt": "Securely authenticate apps to Azure to manage and access Azure services. Service principals and managed identities give your app an Azure AD identity.",
+          "heat": 41,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/authenticate-apps-with-managed-identities-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Configure and manage secrets in Azure Key Vault",
+          "excerpt": "Configure and manage secrets in Azure Key Vault",
+          "heat": -2147483598,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/configure-and-manage-azure-key-vault-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure"
+          ]
         }
       ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Management Tools",
-        "DevOps"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-persist-data-ef-core.md",
-      "title": "Persist and retrieve relational data with Entity Framework Core",
-      "excerpt": "This module guides you through creating a data access project, connecting to a relational database, and writing CRUD queries.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-persist-data-ef-core/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/persist-data-ef-core/",
-      "length": "PT1H4M",
-      "ratings": {
-        "count": 919,
-        "average": 4.6681175
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
+      "size": 11,
+      "heat": -2147483648,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/aspnetcore/persist-data-ef-core-social.png",
+          "url": "https://docs.microsoft.com/learn/achievements/intro-to-azure-ad-social.png",
           "width": 800,
           "height": 400,
           "isCached": true
         }
       ],
-      "type": "course",
+      "type": "collection",
       "price": "Free",
       "topics": [
         "Azure",
+        "Identity",
+        "Security",
+        "Integration",
+        "Web",
         "DevOps",
-        "Management Tools",
-        "Databases"
+        "Management Tools"
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-provision-databases-azure-pipelines.md",
-      "title": "Provision databases in Azure Pipelines",
-      "excerpt": "Provision databases in Azure Pipelines",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-provision-databases-azure-pipelines/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/provision-database-azure-pipelines/",
-      "length": "PT1H2M",
-      "ratings": {
-        "count": 0,
-        "average": 0.0
-      },
+      "path": "_learning/collections/microsoft-learn-build-applications-with-azure-devops-learning-path.md",
+      "title": "Build applications with Azure DevOps learning path",
+      "excerpt": "In this learning path, find out how to collaborate with others to continuously build, test, and verify your applications using Azure Pipelines and GitHub.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-build-applications-with-azure-devops-learning-path/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-build-applications-with-azure-devops-learning-path/",
+      "length": "PT6H45M",
       "provider": {
         "name": "Microsoft Learn",
         "domain": "microsoft.com",
@@ -160,16 +145,91 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 50,
+      "topItems": [
+        {
+          "path": "",
+          "title": "Create a build pipeline with Azure Pipelines",
+          "excerpt": "Set up a continuous integration (CI) pipeline that automates the process of building your application.",
+          "heat": -2147483598,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/azure-devops/create-a-build-pipeline-azure-pipelines-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "DevOps"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Implement a code workflow in your build pipeline by using Git and GitHub",
+          "excerpt": "Learn along with the Space Game web team the benefits of collaboration through Visual Studio Code and GitHub.",
+          "heat": -2147483598,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/azure-devops/implement-a-code-workflow-in-your-build-pipeline-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "DevOps"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Run quality tests in your build pipeline by using Azure Pipelines",
+          "excerpt": "Find out about automated testing that proves your code to be maintainable, understandable, and functioning without repetitive manual testing.",
+          "heat": -2147483598,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/azure-devops/run-quality-tests-when-your-application-builds-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "DevOps"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Scan open source components for vulnerabilities and license ratings in Azure Pipelines",
+          "excerpt": "Scan open-source components for security vulnerabilities and assess their license ratings when your application builds in Azure Pipelines.",
+          "heat": -2147483598,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/azure-devops/manage-security-and-compliance-in-your-build-pipeline-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "DevOps"
+          ]
+        }
+      ],
+      "size": 6,
+      "heat": -2147483648,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/azure-devops/provision-database-azure-pipelines-social.png",
+          "url": "https://docs.microsoft.com/learn/achievements/azure-devops/create-a-build-pipeline-azure-pipelines-social.png",
           "width": 800,
           "height": 400,
           "isCached": true
         }
       ],
-      "type": "course",
+      "type": "collection",
       "price": "Free",
       "topics": [
         "Azure",
@@ -177,16 +237,12 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-recommend-system-feedback-mechanisms.md",
-      "title": "Recommend and design system feedback mechanisms",
-      "excerpt": "Learn how surveys and application analytics create a feedback loop that helps you understand the voice of the customer.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-recommend-system-feedback-mechanisms/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/recommend-system-feedback-mechanisms/",
-      "length": "PT49M",
-      "ratings": {
-        "count": 227,
-        "average": 4.6079297
-      },
+      "path": "_learning/collections/microsoft-learn-build-applications-with-azure-devops.md",
+      "title": "Build applications with Azure DevOps",
+      "excerpt": "Learn how configure build pipelines that continuously build, test, and verify your applications.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-build-applications-with-azure-devops/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-build-applications-with-azure-devops/",
+      "length": "PT6H45M",
       "provider": {
         "name": "Microsoft Learn",
         "domain": "microsoft.com",
@@ -200,18 +256,286 @@
         ]
       },
       "levels": [
-        "Beginner"
+        "Intermediate"
       ],
-      "heat": 50,
+      "topItems": [
+        {
+          "path": "",
+          "title": "Create a build pipeline with Azure Pipelines",
+          "excerpt": "Set up a continuous integration (CI) pipeline that automates the process of building your application.",
+          "heat": -2147483598,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/azure-devops/create-a-build-pipeline-azure-pipelines-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "DevOps"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Implement a code workflow in your build pipeline by using Git and GitHub",
+          "excerpt": "Learn along with the Space Game web team the benefits of collaboration through Visual Studio Code and GitHub.",
+          "heat": -2147483598,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/azure-devops/implement-a-code-workflow-in-your-build-pipeline-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "DevOps"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Run quality tests in your build pipeline by using Azure Pipelines",
+          "excerpt": "Find out about automated testing that proves your code to be maintainable, understandable, and functioning without repetitive manual testing.",
+          "heat": -2147483598,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/azure-devops/run-quality-tests-when-your-application-builds-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "DevOps"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Scan open source components for vulnerabilities and license ratings in Azure Pipelines",
+          "excerpt": "Scan open-source components for security vulnerabilities and assess their license ratings when your application builds in Azure Pipelines.",
+          "heat": -2147483598,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/azure-devops/manage-security-and-compliance-in-your-build-pipeline-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "DevOps"
+          ]
+        }
+      ],
+      "size": 6,
+      "heat": -2147483648,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/azure-devops/recommend-system-feedback-mechanisms-social.png",
-          "width": 1000,
-          "height": 500,
+          "url": "https://docs.microsoft.com/learn/achievements/azure-devops/create-a-build-pipeline-azure-pipelines-social.png",
+          "width": 800,
+          "height": 400,
           "isCached": true
         }
       ],
-      "type": "course",
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "DevOps"
+      ]
+    },
+    {
+      "path": "_learning/collections/microsoft-learn-evolve-your-devops-practices-learning-path.md",
+      "title": "Evolve your DevOps practices learning path",
+      "excerpt": "In this learning path, find out how Azure DevOps enables transparency and cooperation with continuous delivery and deployment for your development lifecycle.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-evolve-your-devops-practices-learning-path/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-evolve-your-devops-practices-learning-path/",
+      "length": "PT1H57M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "topItems": [
+        {
+          "path": "",
+          "title": "Assess your existing software development process",
+          "excerpt": "Find out how to assess efficiency with a value stream map to help you examine your existing release processes and technologies.",
+          "heat": -2147483598,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/azure-devops/assess-your-software-development-process-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "DevOps"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Get started with Azure DevOps",
+          "excerpt": "Explore Azure DevOps capabilities and get started setting up your own organization knowing what separates elite performers from low performers.",
+          "heat": -2147483598,
+          "type": "course",
+          "topics": [
+            "DevOps"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Choose an Agile approach to software development",
+          "excerpt": "Learn with the Space Game web team how to use Azure Boards to implement Agile software practices along with DevOps transparency and collaboration.",
+          "heat": -2147483598,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/azure-devops/choose-an-agile-approach-to-software-development-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "DevOps"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Manage Agile software delivery plans across teams",
+          "excerpt": "Learn to optimize delivery efficiency by improving work plan visibility across teams.",
+          "heat": -2147483598,
+          "type": "course",
+          "topics": [
+            "DevOps"
+          ]
+        }
+      ],
+      "size": 4,
+      "heat": -2147483648,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/azure-devops/assess-your-software-development-process-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "DevOps"
+      ]
+    },
+    {
+      "path": "_learning/collections/microsoft-learn-evolve-your-devops-practices.md",
+      "title": "Evolve your DevOps practices",
+      "excerpt": "DevOps is the union of people, process, and products to enable continuous delivery of value to your end users. Azure DevOps is a set of services that gives you the tools you need to do just that. With Azure DevOps, you can build, test, and deploy any application, either to the cloud or on premises. DevOps practices that enable transparency, cooperation, continuous delivery and continuous deployment become embedded in your software development lifecycle.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-evolve-your-devops-practices/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-evolve-your-devops-practices/",
+      "length": "PT1H57M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "topItems": [
+        {
+          "path": "",
+          "title": "Assess your existing software development process",
+          "excerpt": "Find out how to assess efficiency with a value stream map to help you examine your existing release processes and technologies.",
+          "heat": -2147483598,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/azure-devops/assess-your-software-development-process-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "DevOps"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Get started with Azure DevOps",
+          "excerpt": "Explore Azure DevOps capabilities and get started setting up your own organization knowing what separates elite performers from low performers.",
+          "heat": -2147483598,
+          "type": "course",
+          "topics": [
+            "DevOps"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Choose an Agile approach to software development",
+          "excerpt": "Learn with the Space Game web team how to use Azure Boards to implement Agile software practices along with DevOps transparency and collaboration.",
+          "heat": -2147483598,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/azure-devops/choose-an-agile-approach-to-software-development-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "DevOps"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Manage Agile software delivery plans across teams",
+          "excerpt": "Learn to optimize delivery efficiency by improving work plan visibility across teams.",
+          "heat": -2147483598,
+          "type": "course",
+          "topics": [
+            "DevOps"
+          ]
+        }
+      ],
+      "size": 4,
+      "heat": -2147483648,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/azure-devops/assess-your-software-development-process-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "type": "collection",
       "price": "Free",
       "topics": [
         "DevOps"

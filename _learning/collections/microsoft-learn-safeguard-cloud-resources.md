@@ -4,7 +4,7 @@ excerpt: "Learn to monitor your cloud resources, keep them safe, and protect or 
 type: collection
 price: Free
 length: PT2H40M
-heat: 50
+heat: 46
 
 provider:
   name: Microsoft Learn

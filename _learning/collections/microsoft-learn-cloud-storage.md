@@ -4,7 +4,7 @@ excerpt: "Gain a deep understanding of data and how it's stored on the cloud.\nI
 type: collection
 price: Free
 length: PT5H12M
-heat: 50
+heat: 48
 
 provider:
   name: Microsoft Learn

@@ -4,16 +4,12 @@
   "page": 2,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-create-web-app-with-refreshable-models.md",
-      "title": "Build a Web App with Refreshable Machine Learning Models",
-      "excerpt": "Build a web app powered by machine learning models trained using Custom Vision AI service, and learn how to refresh them with GitHub Actions.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-create-web-app-with-refreshable-models/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/create-web-app-with-refreshable-models/",
-      "length": "PT1H22M",
-      "ratings": {
-        "count": 21,
-        "average": 4.095238
-      },
+      "path": "_learning/collections/microsoft-learn-architect-modern-applications-in-azure-learning-path.md",
+      "title": "Architect modern applications in Azure learning path",
+      "excerpt": "Learn how to build modern applications using PaaS services for applications, caching, containers and Kubernetes in Azure.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-architect-modern-applications-in-azure-learning-path/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-architect-modern-applications-in-azure-learning-path/",
+      "length": "PT6H27M",
       "provider": {
         "name": "Microsoft Learn",
         "domain": "microsoft.com",
@@ -29,79 +25,172 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 50,
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "AI",
-        "Web",
-        "Compute",
-        "Containers",
-        "Mobile"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-design-for-performance-and-scalability.md",
-      "title": "Design for performance and scalability in Azure",
-      "excerpt": "Scaling your system to handle load, identifying network bottlenecks, and optimizing your storage performance are important to ensure your users have the best experience. Learn how to make your application perform at its best.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-design-for-performance-and-scalability/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-for-performance-and-scalability-in-azure/",
-      "length": "48 mins",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
+      "topItems": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/design-for-performance-and-scalability-in-azure-social.png",
-          "width": 200,
-          "height": 200,
-          "title": "Design for performance and scalability in Azure",
-          "isCached": true
+          "path": "",
+          "title": "Build a containerized web application with Docker",
+          "excerpt": "Learn how to use Docker to build, store, and manage private container images with the Azure Container Registry.",
+          "heat": -2147483598,
+          "type": "course",
+          "topics": [
+            "Azure"
+          ]
         },
         {
-          "url": "https://docs.microsoft.com/learn/achievements/azure-well-architected-framework-social.png",
-          "width": 640,
-          "height": 320,
-          "title": "Design for performance and scalability in Azure",
+          "path": "",
+          "title": "Run Docker containers with Azure Container Instances",
+          "excerpt": "Learn how to run and troubleshoot containerized apps using Docker containers with Azure Container Instances.",
+          "heat": 67,
+          "type": "course",
+          "topics": [
+            "Azure",
+            "Containers",
+            "Databases"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Build and store container images with Azure Container Registry",
+          "excerpt": "Learn how to use Docker to build, store, and manage private container images with the Azure Container Registry.",
+          "heat": -2147483598,
+          "type": "course",
+          "topics": [
+            "Azure",
+            "Containers"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Host a web application with Azure App service",
+          "excerpt": "Create a website in the programming language of your choice through the hosted web app platform in Azure App Service.",
+          "heat": -2147483598,
+          "type": "course",
+          "topics": [
+            "Azure",
+            "Compute",
+            "Web",
+            "Management Tools"
+          ]
+        }
+      ],
+      "size": 8,
+      "heat": -2147483648,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/intro-to-containers-social.png",
+          "width": 200,
+          "height": 200,
+          "title": "Build a containerized web application with Docker",
           "isCached": true
         }
       ],
-      "type": "course",
+      "type": "collection",
       "price": "Free",
       "topics": [
         "Azure",
-        "Compute",
-        "Databases",
-        "Serverless",
         "Containers",
-        "Networking"
+        "Compute",
+        "Web"
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-investigate-container-for-use-with-cognitive-services.md",
-      "title": "Investigate container for use with Cognitive Services",
-      "excerpt": "Learn about Container support in Cognitive Services allowing the use of APIs available in Azure and enable flexibility in where to deploy and host the services with Docker containers.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-investigate-container-for-use-with-cognitive-services/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/investigate-container-for-use-cognitive-services/",
-      "length": "PT46M",
-      "ratings": {
-        "count": 4,
-        "average": 5.0
+      "path": "_learning/collections/microsoft-learn-architect-modern-applications-in-azure.md",
+      "title": "Architect modern applications in Azure",
+      "excerpt": "Learn how to build modern applications using PaaS services for applications, caching, containers and Kubernetes in Azure.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-architect-modern-applications-in-azure/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-architect-modern-applications-in-azure/",
+      "length": "PT6H27M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
       },
+      "levels": [
+        "Intermediate"
+      ],
+      "topItems": [
+        {
+          "path": "",
+          "title": "Build a containerized web application with Docker",
+          "excerpt": "Learn how to use Docker to build, store, and manage private container images with the Azure Container Registry.",
+          "heat": -2147483598,
+          "type": "course",
+          "topics": [
+            "Azure"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Run Docker containers with Azure Container Instances",
+          "excerpt": "Learn how to run and troubleshoot containerized apps using Docker containers with Azure Container Instances.",
+          "heat": 67,
+          "type": "course",
+          "topics": [
+            "Azure",
+            "Containers",
+            "Databases"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Build and store container images with Azure Container Registry",
+          "excerpt": "Learn how to use Docker to build, store, and manage private container images with the Azure Container Registry.",
+          "heat": -2147483598,
+          "type": "course",
+          "topics": [
+            "Azure",
+            "Containers"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Host a web application with Azure App service",
+          "excerpt": "Create a website in the programming language of your choice through the hosted web app platform in Azure App Service.",
+          "heat": -2147483598,
+          "type": "course",
+          "topics": [
+            "Azure",
+            "Compute",
+            "Web",
+            "Management Tools"
+          ]
+        }
+      ],
+      "size": 8,
+      "heat": -2147483648,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/intro-to-containers-social.png",
+          "width": 200,
+          "height": 200,
+          "title": "Build a containerized web application with Docker",
+          "isCached": true
+        }
+      ],
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Containers",
+        "Compute",
+        "Web",
+        "Databases"
+      ]
+    },
+    {
+      "path": "_learning/collections/microsoft-learn-az-104-deploy-and-manage-azure-compute-resources.md",
+      "title": "AZ-104: Deploy and manage Azure compute resources",
+      "excerpt": "Learn how to deploy and configure virtual machines, containers, and Web Apps in Azure. This learning path helps prepare you for Exam AZ-104: Microsoft Azure Administrator.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-az-104-deploy-and-manage-azure-compute-resources/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-az-104-deploy-and-manage-azure-compute-resources/",
+      "length": "PT11H15M",
       "provider": {
         "name": "Microsoft Learn",
         "domain": "microsoft.com",
@@ -117,33 +206,89 @@
       "levels": [
         "Beginner"
       ],
-      "heat": 50,
+      "topItems": [
+        {
+          "path": "",
+          "title": "Create a Linux virtual machine in Azure",
+          "excerpt": "This module guides you through options for virtual machines in Azure, creating and connecting a Linux virtual machine, and configuring your network settings.",
+          "heat": -2147483598,
+          "type": "course",
+          "topics": [
+            "Azure",
+            "Management Tools",
+            "Compute"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Create a Windows virtual machine in Azure",
+          "excerpt": "Learn to create an Azure virtual machine in minutes that can be used like a local physical desktop or server.",
+          "heat": -2147483598,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/create-windows-virtual-machine-in-azure-social.png",
+              "width": 1000,
+              "height": 500,
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure",
+            "Compute"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Manage virtual machines with the Azure CLI",
+          "excerpt": "Learn how to use the cross-platform Azure CLI to create, start, stop, and perform other management tasks related to virtual machines in Azure.",
+          "heat": -2147483598,
+          "type": "course",
+          "topics": [
+            "Azure",
+            "Compute",
+            "Management Tools"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Add and size disks in Azure virtual machines",
+          "excerpt": "Learn about your virtual machine storage options and how to choose between standard and premium, managed and unmanaged disks for your Azure virtual machine.",
+          "heat": -2147483598,
+          "type": "course",
+          "topics": [
+            "Azure",
+            "Compute",
+            "Management Tools"
+          ]
+        }
+      ],
+      "size": 14,
+      "heat": -2147483648,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
+          "url": "https://docs.microsoft.com/learn/achievements/create-windows-virtual-machine-in-azure-social.png",
+          "width": 1000,
+          "height": 500,
           "isCached": true
         }
       ],
-      "type": "course",
+      "type": "collection",
       "price": "Free",
       "topics": [
         "Azure",
+        "Compute",
+        "Management Tools",
         "Containers"
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-microservices-aspnet-core.md",
-      "title": "Create and deploy a cloud-native ASP.NET Core microservice",
-      "excerpt": "This module guides you through containerizing an ASP.NET Core microservice and deploying it to Azure Kubernetes Service.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-microservices-aspnet-core/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/microservices-aspnet-core/",
-      "length": "PT53M",
-      "ratings": {
-        "count": 107,
-        "average": 4.6261683
-      },
+      "path": "_learning/collections/microsoft-learn-az-104-prerequisites-for-azure-administrators.md",
+      "title": "AZ-104: Prerequisites for Azure administrators",
+      "excerpt": "If you're an IT Administrator that's new to Azure and need to prepare for Exam AZ-104: Microsoft Azure Administrator, this path is the place to start. Learn the basic Azure concepts you'll need to know as an Azure administrator.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-az-104-prerequisites-for-azure-administrators/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-az-104-prerequisites-for-azure-administrators/",
+      "length": "PT6H30M",
       "provider": {
         "name": "Microsoft Learn",
         "domain": "microsoft.com",
@@ -157,35 +302,82 @@
         ]
       },
       "levels": [
-        "Intermediate"
+        "Beginner"
       ],
-      "heat": 50,
+      "topItems": [
+        {
+          "path": "",
+          "title": "Apply and monitor infrastructure standards with Azure Policy",
+          "excerpt": "Learn about tools Azure provides for policy and standards management that support your teams' ownership and development of their resources in the cloud.",
+          "heat": -2147483598,
+          "type": "course",
+          "topics": [
+            "Azure",
+            "Management Tools"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Introduction to Azure virtual machines",
+          "excerpt": "Learn about the decisions you make before creating a virtual machine, the options to create and manage the VM, and the extensions and services you use to manage your VM.",
+          "heat": -2147483598,
+          "type": "course",
+          "topics": [
+            "Azure",
+            "Compute"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Fundamentals of computer networking",
+          "excerpt": "You'll learn the fundamental principles of computer networking to prepare you for the Azure admin and developer learning paths.",
+          "heat": -2147483598,
+          "type": "course",
+          "topics": [
+            "Azure"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Fundamentals of network security",
+          "excerpt": "Explore the fundamentals of computer networking security and monitoring.",
+          "heat": -2147483598,
+          "type": "course",
+          "topics": [
+            "Azure"
+          ]
+        }
+      ],
+      "size": 9,
+      "heat": -2147483648,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/aspnetcore/microservices-aspnet-core-social.png",
-          "width": 640,
-          "height": 320,
+          "url": "https://docs.microsoft.com/learn/achievements/intro-to-governance-social.png",
+          "width": 100,
+          "height": 100,
+          "title": "Apply and monitor infrastructure standards with Azure Policy",
           "isCached": true
         }
       ],
-      "type": "course",
+      "type": "collection",
       "price": "Free",
       "topics": [
         "Azure",
-        "Containers"
+        "Compute",
+        "Networking",
+        "Management Tools",
+        "Identity",
+        "Containers",
+        "Storage"
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-microservices-devops-aspnet-core.md",
-      "title": "Deploy a cloud-native ASP.NET Core microservice with GitHub Actions",
-      "excerpt": "Implement GitHub Actions to build a container image and deploy to Azure Kubernetes Service.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-microservices-devops-aspnet-core/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/microservices-devops-aspnet-core/",
-      "length": "PT54M",
-      "ratings": {
-        "count": 4,
-        "average": 4.75
-      },
+      "path": "_learning/collections/microsoft-learn-deploy-and-manage-compute-resources-for-azure-administrators.md",
+      "title": "Deploy and manage compute resources for Azure administrators",
+      "excerpt": "Learn how to deploy and configure virtual machines, containers, and Web Apps in Azure.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-deploy-and-manage-compute-resources-for-azure-administrators/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-deploy-and-manage-compute-resources-for-azure-administrators/",
+      "length": "PT11H15M",
       "provider": {
         "name": "Microsoft Learn",
         "domain": "microsoft.com",
@@ -199,35 +391,91 @@
         ]
       },
       "levels": [
-        "Intermediate"
+        "Beginner"
       ],
-      "heat": 50,
+      "topItems": [
+        {
+          "path": "",
+          "title": "Create a Linux virtual machine in Azure",
+          "excerpt": "This module guides you through options for virtual machines in Azure, creating and connecting a Linux virtual machine, and configuring your network settings.",
+          "heat": -2147483598,
+          "type": "course",
+          "topics": [
+            "Azure",
+            "Management Tools",
+            "Compute"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Create a Windows virtual machine in Azure",
+          "excerpt": "Learn to create an Azure virtual machine in minutes that can be used like a local physical desktop or server.",
+          "heat": -2147483598,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/create-windows-virtual-machine-in-azure-social.png",
+              "width": 1000,
+              "height": 500,
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Azure",
+            "Compute"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Manage virtual machines with the Azure CLI",
+          "excerpt": "Learn how to use the cross-platform Azure CLI to create, start, stop, and perform other management tasks related to virtual machines in Azure.",
+          "heat": -2147483598,
+          "type": "course",
+          "topics": [
+            "Azure",
+            "Compute",
+            "Management Tools"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Add and size disks in Azure virtual machines",
+          "excerpt": "Learn about your virtual machine storage options and how to choose between standard and premium, managed and unmanaged disks for your Azure virtual machine.",
+          "heat": -2147483598,
+          "type": "course",
+          "topics": [
+            "Azure",
+            "Compute",
+            "Management Tools"
+          ]
+        }
+      ],
+      "size": 14,
+      "heat": -2147483648,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/aspnetcore/microservices-devops-aspnet-core-social.png",
-          "width": 642,
-          "height": 321,
+          "url": "https://docs.microsoft.com/learn/achievements/create-windows-virtual-machine-in-azure-social.png",
+          "width": 1000,
+          "height": 500,
           "isCached": true
         }
       ],
-      "type": "course",
+      "type": "collection",
       "price": "Free",
       "topics": [
         "Azure",
+        "Compute",
+        "Management Tools",
         "Containers"
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-microservices-resiliency-aspnet-core.md",
-      "title": "Implement resiliency in a cloud-native ASP.NET Core microservice",
-      "excerpt": "This module guides you through implementing resiliency in an ASP.NET Core microservices app in Azure Kubernetes Service.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-microservices-resiliency-aspnet-core/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/microservices-resiliency-aspnet-core/",
-      "length": "PT60M",
-      "ratings": {
-        "count": 11,
-        "average": 4.7272725
-      },
+      "path": "_learning/collections/microsoft-learn-prerequisites-for-azure-administrators.md",
+      "title": "Prerequisites for Azure administrators",
+      "excerpt": "If you're an IT Administrator that's new to Azure, this path is the place to start. Learn the basic Azure concepts you'll need to know as an Azure administrator.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-prerequisites-for-azure-administrators/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-prerequisites-for-azure-administrators/",
+      "length": "PT6H30M",
       "provider": {
         "name": "Microsoft Learn",
         "domain": "microsoft.com",
@@ -241,22 +489,73 @@
         ]
       },
       "levels": [
-        "Advanced"
+        "Beginner"
       ],
-      "heat": 50,
+      "topItems": [
+        {
+          "path": "",
+          "title": "Apply and monitor infrastructure standards with Azure Policy",
+          "excerpt": "Learn about tools Azure provides for policy and standards management that support your teams' ownership and development of their resources in the cloud.",
+          "heat": -2147483598,
+          "type": "course",
+          "topics": [
+            "Azure",
+            "Management Tools"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Introduction to Azure virtual machines",
+          "excerpt": "Learn about the decisions you make before creating a virtual machine, the options to create and manage the VM, and the extensions and services you use to manage your VM.",
+          "heat": -2147483598,
+          "type": "course",
+          "topics": [
+            "Azure",
+            "Compute"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Fundamentals of computer networking",
+          "excerpt": "You'll learn the fundamental principles of computer networking to prepare you for the Azure admin and developer learning paths.",
+          "heat": -2147483598,
+          "type": "course",
+          "topics": [
+            "Azure"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Fundamentals of network security",
+          "excerpt": "Explore the fundamentals of computer networking security and monitoring.",
+          "heat": -2147483598,
+          "type": "course",
+          "topics": [
+            "Azure"
+          ]
+        }
+      ],
+      "size": 9,
+      "heat": -2147483648,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/aspnetcore/microservices-resiliency-aspnet-core-social.png",
-          "width": 642,
-          "height": 321,
+          "url": "https://docs.microsoft.com/learn/achievements/intro-to-governance-social.png",
+          "width": 100,
+          "height": 100,
+          "title": "Apply and monitor infrastructure standards with Azure Policy",
           "isCached": true
         }
       ],
-      "type": "course",
+      "type": "collection",
       "price": "Free",
       "topics": [
         "Azure",
-        "Containers"
+        "Compute",
+        "Networking",
+        "Management Tools",
+        "Identity",
+        "Containers",
+        "Storage"
       ]
     }
   ],

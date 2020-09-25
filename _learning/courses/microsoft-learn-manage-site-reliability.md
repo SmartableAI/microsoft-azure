@@ -8,7 +8,7 @@ length: PT35M
 ratings:
   count: 270
   average: 4.648148
-heat: 50
+heat: 27
 
 provider:
   name: Microsoft Learn
@@ -30,6 +30,6 @@ images:
     height: 500
     isCached: true
 
-secured: "Z5G/csT7oA8swiRjvXp8X6yZjWCLLXHmiz7EgisjJrAcvxzEt1BBo/PaZCzQmbtJcktv3g6ntrGrTSMCCiA93PnNW1XXShJyiZprnf5TR2P7nUswn56J223WxuN1NV6zg/ufkMwBJ1Qkp3up/Y6TGUXrvvAL/QthJDOZlFKYCCwtZNwWOELJpcnzm/snMtX2e49hH0fq5r+Bt6//8mxZzwHAo7VvFgWbekcOWr9e0DUh5uO0ug/d6VeSje+y+pb3sj9ddZYExwOwj2VTQMwgb4MwVy72CvK0FWhe7qv/yjZvGgjCl9ZJyY7lB0sOgtvnPLKAaSrW+NVKYuc68fIkmFv54oVLRnnI60xwptO3xKhfXkXdFviqbtrSyIuhe9epLk8T4oDhIsoQkc7KJ8lIorM1wJhNRcsNhcBskMQgeUE=;W8pH7RY1wunc90VW1NrYQQ=="
+secured: "BkLu2Rz57duaosCXtmKWfwlaD/UuDx6rq4NJgBjNgTHfQq3VXqQRO3xTLG5z81kh+FbBrSXtHJD1HyW7U3GqKnn6I6UiIwbhCGSONFwjNpQnrrL+omMwiRdfjU5rX+Dmr/z/bLtNL706R+S0AgAZFLcHySjLZ2TLP44I8AFc2kTOj18t3qMELmS2QiZZVKB8qnTW/tx6C0jSXbCq0mtioeNusx0omh2od+ctmT0ps3gxVpCkeVMnqRPpbWQzJLYW1G2Od2Spu0e9hsQIUl9PxkrkealWKBwN68N/nHVs44gjAIN7nLBMpDFd8oRnxkWtymrpIrQ5aSP4PxoJWHVg4fLvEk5SN+knk6cd4CIai3qyKuUesMypWMOzsJWXl7af9CnlhdPbyYAM8LR4Drsw6hzl7iE9bhkDbTzA5niy/Dw=;NQrke7js87sBbAYcI8sQ1g=="
 ---
 

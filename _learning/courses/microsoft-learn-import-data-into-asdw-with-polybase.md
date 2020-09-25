@@ -8,7 +8,7 @@ length: PT1H6M
 ratings:
   count: 2009
   average: 4.562469
-heat: 56
+heat: -2147483598
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     height: 400
     isCached: true
 
-secured: "9OHpcGlNn3W8nj9nKrPaKlUxT09v+sIZ5bORWXU+7C13X/HMWHXChfLYTAlPSdBf5NeyGiNedDtxWjAXr77mVST//cYNE1OUWJsphNnY+w/7wMPl0djI5VfwZomhHElNNWRHKzHCyirPB8YcUtGm0PuaY27MqNipDnVhzffA+muQEcazEoa0eZpRECtgBRHn3c0zvpBH3Ah3AG/CxAXEb8rNLbHjWCReLpdAB0ZDTUJ1pb89Rot0mC1ipNFJe5GJl2rWFEd9GmcpnPBlT17u2KFkd6HcgGGL8PDVW2sMS1vyL4lqz/JSq09zmB2VkQCVfKLy/IYqQK/knQtDzQ+84qFO+XrJgXdoZ4kQdrYQ05ncyIY9D5yi4/kMMXwkQM2Jm2Mi1T6+P4elVhTYhz5yS7QkgKbXcaPaVzw44+JjQis=;Cs0ItaynHXz0ivVkJvXJ1A=="
+secured: "DWxh9R/hXOmGB87GV5IxsT59dtAAUtUATm/Zj+Wf93ct7I45YWDQPqfB0lguEtim6g/VvlPkY1Ks1gPctm1GHh8XIJ9MdKOCt9I4G6OunoJcO9FHYzvolia60hgiPcxc1K+SNqCq5c2jOYH+ta+WHzma9p4oXFJjy86y/vwdFAhX+a2uAp8AJXbERmbplckkO8LjskTyi7iJLVFAjZT2iXpqBDbyU+cCq0tOLAGs0ZI7AYvZ+fc8Ratsc38y3IIJHtMmLcK+Xewy689EfrNbFAiaFt9V2hOiFqNHa/9Q7KB2G1/aI4ZknMDW1zDOSbuCvQeEz7SeuYmoicNh1ayDAiQ8htLyIdGC+nXncreXivJg0RbxbHCzSYMoZX6E2lwTYcRj7De2SUwfKMsZsmxm1cqOYmqu+OPPh+eAI/9NOJA=;COyt7HyBBJdIAdFZKxOVRg=="
 ---
 
