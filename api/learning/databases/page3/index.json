@@ -4,6 +4,41 @@
   "page": 3,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-access-data-with-cosmos-db-and-sql-api.md",
+      "title": "Insert and query data in your Azure Cosmos DB database",
+      "excerpt": "Discover the Azure Cosmos DB Data Explorer tool that enables you to add or modify data and to create and run stored procedures.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-access-data-with-cosmos-db-and-sql-api/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/access-data-with-cosmos-db-and-sql-api/",
+      "length": "PT58M",
+      "ratings": {
+        "count": 2496,
+        "average": 4.647035
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": -2147483598,
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Databases",
+        "Management Tools"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-azure-functions-and-signalr.md",
       "title": "Enable automatic updates in a web application using Azure Functions and SignalR Service",
       "excerpt": "Update a web app's notification mechanism from polling to push-based architecture with SignalR Service, Azure Cosmos DB and Azure Functions.",
@@ -172,8 +207,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/choose-storage-approach-in-azure/",
       "length": "PT30M",
       "ratings": {
-        "count": 10358,
-        "average": 4.65949
+        "count": 10359,
+        "average": 4.659523
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -434,8 +469,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/intro-to-data-in-azure/",
       "length": "PT25M",
       "ratings": {
-        "count": 54650,
-        "average": 4.733376
+        "count": 54655,
+        "average": 4.733382
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -496,50 +531,6 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-persist-data-ef-core.md",
-      "title": "Persist and retrieve relational data with Entity Framework Core",
-      "excerpt": "This module guides you through creating a data access project, connecting to a relational database, and writing CRUD queries.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-persist-data-ef-core/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/persist-data-ef-core/",
-      "length": "PT1H4M",
-      "ratings": {
-        "count": 920,
-        "average": 4.6684785
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": -2147483598,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/aspnetcore/persist-data-ef-core-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "DevOps",
-        "Management Tools",
-        "Databases"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-provision-azure-sql-db.md",
       "title": "Provision an Azure SQL database to store application data",
       "excerpt": "Find out what makes Azure SQL Database a good choice for your relational database, how to create the database from the portal and connect with Azure Cloud Shell.",
@@ -547,8 +538,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/provision-azure-sql-db/",
       "length": "PT50M",
       "ratings": {
-        "count": 4639,
-        "average": 4.6499248
+        "count": 4640,
+        "average": 4.65
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -702,8 +693,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/upload-download-and-manage-data-with-azure-storage-explorer/",
       "length": "PT37M",
       "ratings": {
-        "count": 1447,
-        "average": 4.616448
+        "count": 1448,
+        "average": 4.6167126
       },
       "provider": {
         "name": "Microsoft Learn",
