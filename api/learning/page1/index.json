@@ -11,8 +11,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/manage-subscription-access-azure-rbac/",
       "length": "PT21M",
       "ratings": {
-        "count": 6122,
-        "average": 4.7551455
+        "count": 6160,
+        "average": 4.7550325
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -45,8 +45,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/deploy-sql-server-virtual-machine/",
       "length": "PT60M",
       "ratings": {
-        "count": 1187,
-        "average": 4.7843304
+        "count": 1197,
+        "average": 4.7836256
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -87,8 +87,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/build-app-with-scale-sets/",
       "length": "PT57M",
       "ratings": {
-        "count": 3369,
-        "average": 4.684476
+        "count": 3390,
+        "average": 4.6852508
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -129,8 +129,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/protect-virtual-machines-with-azure-backup/",
       "length": "PT35M",
       "ratings": {
-        "count": 2315,
-        "average": 4.714471
+        "count": 2327,
+        "average": 4.7155137
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -173,8 +173,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/host-domain-azure-dns/",
       "length": "PT43M",
       "ratings": {
-        "count": 1315,
-        "average": 4.8311787
+        "count": 1327,
+        "average": 4.831198
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -313,8 +313,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/deploy-azure-sql-database/",
       "length": "PT48M",
       "ratings": {
-        "count": 865,
-        "average": 4.7930636
+        "count": 872,
+        "average": 4.793578
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -355,8 +355,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/deploy-mariadb-mysql-postgresql-azure/",
       "length": "PT23M",
       "ratings": {
-        "count": 832,
-        "average": 4.7752404
+        "count": 841,
+        "average": 4.7752676
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -397,8 +397,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/build-azure-vm-templates/",
       "length": "PT37M",
       "ratings": {
-        "count": 5824,
-        "average": 4.6225963
+        "count": 5851,
+        "average": 4.6233125
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -432,8 +432,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/m365-identity-zero-trust/",
       "length": "PT35M",
       "ratings": {
-        "count": 753,
-        "average": 4.7968125
+        "count": 762,
+        "average": 4.7979
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -473,8 +473,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/protect-data-transit-rest/",
       "length": "PT43M",
       "ratings": {
-        "count": 613,
-        "average": 4.786297
+        "count": 618,
+        "average": 4.7831717
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -508,6 +508,48 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-sci-asc.md",
+      "title": "Improve your cloud security posture with Azure Security Center",
+      "excerpt": "Learn how you can strengthen your security posture through Azure Security Center.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-sci-asc/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/m365-security-azure-security-center/",
+      "length": "PT39M",
+      "ratings": {
+        "count": 0,
+        "average": 0.0
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 110,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Security"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-configure-sql-server-resources-for-optimal-performance.md",
       "title": "Configure SQL Server resources for optimal performance",
       "excerpt": "Choose the appropriate size and storage options for your Azure SQL databases. Configure server resources such as tempdb. Understand the usage of Resource Governor.",
@@ -515,8 +557,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/configure-sql-server-resources-optimal-performance/",
       "length": "PT35M",
       "ratings": {
-        "count": 549,
-        "average": 4.7941713
+        "count": 553,
+        "average": 4.79566
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -550,49 +592,6 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-perform-model-selection-with-hyperparameter-tuning.md",
-      "title": "Perform model selection with hyperparameter tuning",
-      "excerpt": "Perform model selection with hyperparameter tuning",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-perform-model-selection-with-hyperparameter-tuning/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/perform-model-selection-with-hyperparameter-tuning/",
-      "length": "PT33M",
-      "ratings": {
-        "count": 19,
-        "average": 4.736842
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 109,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/perform-model-selection-with-hyperparameter-tuning-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Analytics",
-        "AI"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-explore-performance-based-design.md",
       "title": "Explore performance-based design",
       "excerpt": "Evaluate possible changes to indexes. Determine the impact of changes to queries and indexes. Explore relevant Dynamic Management Objects.",
@@ -600,8 +599,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/explore-performance-based-design/",
       "length": "PT50M",
       "ratings": {
-        "count": 527,
-        "average": 4.804554
+        "count": 534,
+        "average": 4.8052435
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -635,47 +634,6 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-introduction-open-source-database-migration-azure-cosmos-db.md",
-      "title": "Introduction to open source database migration to Azure Cosmos DB",
-      "excerpt": "An introduction to migrating an open-source database to Azure Cosmos DB",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-introduction-open-source-database-migration-azure-cosmos-db/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/introduction-open-source-database-migration-azure-cosmos-db/",
-      "length": "PT40M",
-      "ratings": {
-        "count": 62,
-        "average": 4.677419
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 105,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/Introduction-to-open-source-database-migration-to-Azure-Cosmos-DB-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-m365-threat-safeguard.md",
       "title": "Safeguard your environment with Azure Advanced Threat Protection",
       "excerpt": "Learn about the Azure Advanced Threat Protection component of Microsoft Threat Protection.",
@@ -683,8 +641,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/m365-threat-safeguard/",
       "length": "PT1H2M",
       "ratings": {
-        "count": 475,
-        "average": 4.793684
+        "count": 483,
+        "average": 4.7971015
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -952,8 +910,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/m365-identity-overview/",
       "length": "PT15M",
       "ratings": {
-        "count": 3296,
-        "average": 4.745449
+        "count": 3303,
+        "average": 4.7459884
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1110,8 +1068,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/analyze-infrastructure-with-azure-monitor-logs/",
       "length": "PT36M",
       "ratings": {
-        "count": 3150,
-        "average": 4.6996827
+        "count": 3162,
+        "average": 4.7001896
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1248,8 +1206,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/configure-database-authentication-authorization/",
       "length": "PT49M",
       "ratings": {
-        "count": 399,
-        "average": 4.817043
+        "count": 405,
+        "average": 4.814815
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1289,8 +1247,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/implement-compliance-controls-sensitive-data/",
       "length": "PT15M",
       "ratings": {
-        "count": 385,
-        "average": 4.8337665
+        "count": 387,
+        "average": 4.8346252
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1331,8 +1289,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/m365-identity-authentication/",
       "length": "PT24M",
       "ratings": {
-        "count": 1891,
-        "average": 4.7419353
+        "count": 1900,
+        "average": 4.7421055
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1372,8 +1330,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/describe-performance-monitoring/",
       "length": "PT42M",
       "ratings": {
-        "count": 294,
-        "average": 4.823129
+        "count": 295,
+        "average": 4.823729
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1512,8 +1470,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/describe-sql-server-query-plans/",
       "length": "PT54M",
       "ratings": {
-        "count": 233,
-        "average": 4.7639484
+        "count": 235,
+        "average": 4.7659574
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1554,8 +1512,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/explore-causes-performance-issues/",
       "length": "PT36M",
       "ratings": {
-        "count": 242,
-        "average": 4.7975206
+        "count": 243,
+        "average": 4.7942386
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1596,8 +1554,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/configure-databases-performance/",
       "length": "PT24M",
       "ratings": {
-        "count": 210,
-        "average": 4.8428574
+        "count": 212,
+        "average": 4.84434
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1620,6 +1578,48 @@
           "url": "https://docs.microsoft.com/learn/achievements/configure-databases-for-performance-social.png",
           "width": 643,
           "height": 321,
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Databases"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-describe-performance-related-maintenance-tasks-sql-server.md",
+      "title": "Describe performance-related maintenance tasks in SQL Server",
+      "excerpt": "Implement tasks for both IaaS and PaaS to maintain indexes, and statistics. Explore the automatic tuning features of Azure SQL Database.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-describe-performance-related-maintenance-tasks-sql-server/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/describe-performance-related-maintenance-tasks-sql-server/",
+      "length": "PT23M",
+      "ratings": {
+        "count": 209,
+        "average": 4.799043
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 72,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
           "isCached": true
         }
       ],

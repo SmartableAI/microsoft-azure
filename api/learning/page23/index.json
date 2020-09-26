@@ -4,6 +4,41 @@
   "page": 23,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-choose-storage-approach-in-azure.md",
+      "title": "Choose a data storage approach in Azure",
+      "excerpt": "Learn how using Azure Storage, Azure SQL Database, and Azure Cosmos DB - or a combination of them - for your business scenario is the best way to get the most performant solution.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-choose-storage-approach-in-azure/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/choose-storage-approach-in-azure/",
+      "length": "PT30M",
+      "ratings": {
+        "count": 10361,
+        "average": 4.659589
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": -2147483598,
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Storage",
+        "Databases"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-choose-the-appropriate-api-for-cosmos-db-storage.md",
       "title": "Choose the appropriate API for Azure Cosmos DB",
       "excerpt": "Compare the different APIs that are available in Azure Cosmos DB, highlighting and contrasting the different scenarios that would make them a good choice for a company.",
@@ -173,8 +208,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/classify-user-feedback-with-the-text-analytics-api/",
       "length": "PT48M",
       "ratings": {
-        "count": 1417,
-        "average": 4.6210303
+        "count": 1418,
+        "average": 4.6205926
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -212,8 +247,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/communicate-between-apps-with-azure-queue-storage/",
       "length": "PT56M",
       "ratings": {
-        "count": 1663,
-        "average": 4.584486
+        "count": 1665,
+        "average": 4.584985
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -328,8 +363,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/configure-network-for-azure-virtual-machines/",
       "length": "PT1H34M",
       "ratings": {
-        "count": 3614,
-        "average": 4.5542336
+        "count": 3616,
+        "average": 4.5542035
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -363,8 +398,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/connect-an-app-to-azure-storage/",
       "length": "PT1H15M",
       "ratings": {
-        "count": 4807,
-        "average": 4.6284585
+        "count": 4808,
+        "average": 4.6285357
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -440,8 +475,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/connect-on-premises-network-with-vpn-gateway/",
       "length": "PT39M",
       "ratings": {
-        "count": 4796,
-        "average": 4.6000834
+        "count": 4797,
+        "average": 4.600167
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -482,8 +517,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/control-and-organize-with-azure-resource-manager/",
       "length": "PT46M",
       "ratings": {
-        "count": 37954,
-        "average": 4.7122045
+        "count": 37959,
+        "average": 4.7121897
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -516,8 +551,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/control-authentication-with-apim/",
       "length": "PT55M",
       "ratings": {
-        "count": 1505,
-        "average": 4.6411963
+        "count": 1506,
+        "average": 4.641434
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -559,8 +594,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/control-azure-services-with-cli/",
       "length": "PT34M",
       "ratings": {
-        "count": 4090,
-        "average": 4.748166
+        "count": 4091,
+        "average": 4.7482276
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -593,8 +628,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/control-network-traffic-flow-with-routes/",
       "length": "PT50M",
       "ratings": {
-        "count": 1701,
-        "average": 4.6302176
+        "count": 1702,
+        "average": 4.628672
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -704,48 +739,6 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-create-a-windows-vm-in-azure.md",
-      "title": "Create a Windows virtual machine in Azure",
-      "excerpt": "Learn to create an Azure virtual machine in minutes that can be used like a local physical desktop or server.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-create-a-windows-vm-in-azure/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/create-windows-virtual-machine-in-azure/",
-      "length": "PT51M",
-      "ratings": {
-        "count": 12451,
-        "average": 4.7054853
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": -2147483598,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/create-windows-virtual-machine-in-azure-social.png",
-          "width": 1000,
-          "height": 500,
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Compute"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-create-and-publish-a-luis-model.md",
       "title": "Add conversational intelligence to your apps by using Language Understanding Intelligent Service (LUIS)",
       "excerpt": "In this module, we'll introduce you to Language Understanding Intelligent Service (LUIS) and show how to build and publish a LUIS model",
@@ -796,8 +789,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/create-an-azure-account/",
       "length": "PT39M",
       "ratings": {
-        "count": 132484,
-        "average": 4.696597
+        "count": 132492,
+        "average": 4.696608
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -864,8 +857,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/create-azure-storage-account/",
       "length": "PT30M",
       "ratings": {
-        "count": 5922,
-        "average": 4.7512665
+        "count": 5924,
+        "average": 4.7513504
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -969,8 +962,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/create-custom-azure-roles-with-rbac/",
       "length": "PT30M",
       "ratings": {
-        "count": 1290,
-        "average": 4.6604652
+        "count": 1291,
+        "average": 4.660728
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1010,8 +1003,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/create-linux-virtual-machine-in-azure/",
       "length": "PT1H26M",
       "ratings": {
-        "count": 7766,
-        "average": 4.6828485
+        "count": 7767,
+        "average": 4.682889
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1087,8 +1080,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/create-security-baselines/",
       "length": "PT60M",
       "ratings": {
-        "count": 2179,
-        "average": 4.633777
+        "count": 2180,
+        "average": 4.6334863
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1128,8 +1121,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/create-serverless-logic-with-azure-functions/",
       "length": "PT36M",
       "ratings": {
-        "count": 6413,
-        "average": 4.663496
+        "count": 6414,
+        "average": 4.6635485
       },
       "provider": {
         "name": "Microsoft Learn",
