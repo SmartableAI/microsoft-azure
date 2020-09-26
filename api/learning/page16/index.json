@@ -361,8 +361,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/classify-images-custom-vision/",
       "length": "PT34M",
       "ratings": {
-        "count": 243,
-        "average": 4.765432
+        "count": 244,
+        "average": 4.7663937
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -519,8 +519,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/synthesize-text-input-speech/",
       "length": "PT18M",
       "ratings": {
-        "count": 200,
-        "average": 4.595
+        "count": 201,
+        "average": 4.597015
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1388,15 +1388,15 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-aks-workshop.md",
-      "title": "Azure Kubernetes Service Workshop",
-      "excerpt": "In this workshop, you'll go through tasks to deploy a multicontainer application to Kubernetes on Azure Kubernetes Service (AKS).",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-aks-workshop/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/aks-workshop/",
-      "length": "PT2H25M",
+      "path": "_learning/courses/microsoft-learn-react-to-state-changes-using-event-grid.md",
+      "title": "React to state changes in your Azure services by using Event Grid",
+      "excerpt": "Build a serverless application architecture, automate your operations, and integrate applications by handling Azure events with Event Grid.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-react-to-state-changes-using-event-grid/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/react-to-state-changes-using-event-grid/",
+      "length": "PT33M",
       "ratings": {
-        "count": 244,
-        "average": 4.7377048
+        "count": 260,
+        "average": 4.603846
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1411,12 +1411,12 @@
         ]
       },
       "levels": [
-        "Advanced"
+        "Intermediate"
       ],
       "heat": 28,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/aks-workshop-social.png",
+          "url": "https://docs.microsoft.com/learn/achievements/react-to-state-changes-using-event-grid-social.png",
           "width": 800,
           "height": 400,
           "isCached": true
@@ -1426,7 +1426,9 @@
       "price": "Free",
       "topics": [
         "Azure",
-        "Containers"
+        "Integration",
+        "IoT",
+        "Blockchain"
       ]
     }
   ],
