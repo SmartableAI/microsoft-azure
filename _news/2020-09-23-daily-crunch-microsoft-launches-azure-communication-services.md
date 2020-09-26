@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2020/09/22/daily-crunch-microsoft-azure-commu
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/09/22/daily-crunch-microsoft-azure-communication-services/amp/"
 type: article
 quality: 97
-heat: 297
+heat: 317
 published: true
 
 provider:
@@ -138,6 +138,17 @@ related:
         width: 350
         height: 233
         isCached: true
+  - title: "Microsoft disrupts nation-state hacker op using Azure Cloud service"
+    excerpt: "In a report today, Microsoft said that it disrupted operations of a nation-state threat group that was using its Azure cloud infrastructure for cyber attacks."
+    publishedDateTime: 2020-09-25T09:22:00Z
+    webUrl: "https://www.bleepingcomputer.com/news/security/microsoft-disrupts-nation-state-hacker-op-using-azure-cloud-service/"
+    ampWebUrl: "https://www.bleepingcomputer.com/news/security/microsoft-disrupts-nation-state-hacker-op-using-azure-cloud-service/amp/"
+    cdnAmpWebUrl: "https://www-bleepingcomputer-com.cdn.ampproject.org/c/s/www.bleepingcomputer.com/news/security/microsoft-disrupts-nation-state-hacker-op-using-azure-cloud-service/amp/"
+    type: article
+    provider:
+      name: Bleeping Computer
+      domain: bleepingcomputer.com
+    quality: 37
   - title: "TCS Quartz suite becomes available on Microsoft Azure Blockchain Service"
     excerpt: "Tata Consultancy Services announced the general availability of its award winning Quartz suite of blockchain based solutions on Microsoft Azure Blockchain Service. The Quartz suite of products helps organizations set up truly connected ecosystems ..."
     publishedDateTime: 2020-09-21T21:38:00Z

@@ -148,6 +148,17 @@ related:
         width: 350
         height: 233
         isCached: true
+  - title: "Microsoft disrupts nation-state hacker op using Azure Cloud service"
+    excerpt: "In a report today, Microsoft said that it disrupted operations of a nation-state threat group that was using its Azure cloud infrastructure for cyber attacks."
+    publishedDateTime: 2020-09-25T09:22:00Z
+    webUrl: "https://www.bleepingcomputer.com/news/security/microsoft-disrupts-nation-state-hacker-op-using-azure-cloud-service/"
+    ampWebUrl: "https://www.bleepingcomputer.com/news/security/microsoft-disrupts-nation-state-hacker-op-using-azure-cloud-service/amp/"
+    cdnAmpWebUrl: "https://www-bleepingcomputer-com.cdn.ampproject.org/c/s/www.bleepingcomputer.com/news/security/microsoft-disrupts-nation-state-hacker-op-using-azure-cloud-service/amp/"
+    type: article
+    provider:
+      name: Bleeping Computer
+      domain: bleepingcomputer.com
+    quality: 37
   - title: "Microsoft Azure launches services that compete with Twilio, Amazon"
     excerpt: "Microsoft (MSFT +1.2%) launches Azure Communication Services, which allows developers to add video, voice, chat, and text messaging across applications, websites, and mobile platforms.The tech giant says Communication Services can improve \"customer engagement with Azure AI translation and sentiment analysis for chat messages."
     publishedDateTime: 2020-09-22T16:57:00Z

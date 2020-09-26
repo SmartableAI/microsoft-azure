@@ -1,29 +1,23 @@
 ---
 category: news
-title: "TCS Quartz? suite becomes available on Microsoft Azure Blockchain Service"
-excerpt: "Tata Consultancy Services announced the general availability of its award winning Quartz? suite of blockchain based solutions on Microsoft Azure Blockchain Service. The Quartz suite of products helps organizations set up truly connected ecosystems ..."
-publishedDateTime: 2020-09-21T07:04:00Z
-originalUrl: "https://www.indiainfoline.com/article/capital-market-corporate-news/tcs-quartz-suite-becomes-available-on-microsoft-azure-blockchain-service-120092100110_1.html"
-webUrl: "https://www.indiainfoline.com/article/capital-market-corporate-news/tcs-quartz-suite-becomes-available-on-microsoft-azure-blockchain-service-120092100110_1.html"
-ampWebUrl: "https://www.indiainfoline.com/article-amp/capital-market-corporate-news/tcs-quartz-suite-becomes-available-on-microsoft-azure-blockchain-service-120092100110_1.html"
-cdnAmpWebUrl: "https://www-indiainfoline-com.cdn.ampproject.org/c/s/www.indiainfoline.com/article-amp/capital-market-corporate-news/tcs-quartz-suite-becomes-available-on-microsoft-azure-blockchain-service-120092100110_1.html"
+title: "Microsoft disrupts nation-state hacker op using Azure Cloud service"
+excerpt: "In a report today, Microsoft said that it disrupted operations of a nation-state threat group that was using its Azure cloud infrastructure for cyber attacks."
+publishedDateTime: 2020-09-25T09:22:00Z
+originalUrl: "https://www.bleepingcomputer.com/news/security/microsoft-disrupts-nation-state-hacker-op-using-azure-cloud-service/"
+webUrl: "https://www.bleepingcomputer.com/news/security/microsoft-disrupts-nation-state-hacker-op-using-azure-cloud-service/"
+ampWebUrl: "https://www.bleepingcomputer.com/news/security/microsoft-disrupts-nation-state-hacker-op-using-azure-cloud-service/amp/"
+cdnAmpWebUrl: "https://www-bleepingcomputer-com.cdn.ampproject.org/c/s/www.bleepingcomputer.com/news/security/microsoft-disrupts-nation-state-hacker-op-using-azure-cloud-service/amp/"
 type: article
-quality: 56
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: India Infoline
-  domain: indiainfoline.com
+  name: Bleeping Computer
+  domain: bleepingcomputer.com
 
 topics:
   - Azure
-
-images:
-  - url: "https://content.indiainfoline.com/_media/iifl/img/article/default/news.jpg"
-    width: 350
-    height: 233
-    isCached: true
 
 related:
   - title: "Daily Crunch: Microsoft launches Azure Communication Services"
@@ -134,17 +128,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Microsoft disrupts nation-state hacker op using Azure Cloud service"
-    excerpt: "In a report today, Microsoft said that it disrupted operations of a nation-state threat group that was using its Azure cloud infrastructure for cyber attacks."
-    publishedDateTime: 2020-09-25T09:22:00Z
-    webUrl: "https://www.bleepingcomputer.com/news/security/microsoft-disrupts-nation-state-hacker-op-using-azure-cloud-service/"
-    ampWebUrl: "https://www.bleepingcomputer.com/news/security/microsoft-disrupts-nation-state-hacker-op-using-azure-cloud-service/amp/"
-    cdnAmpWebUrl: "https://www-bleepingcomputer-com.cdn.ampproject.org/c/s/www.bleepingcomputer.com/news/security/microsoft-disrupts-nation-state-hacker-op-using-azure-cloud-service/amp/"
+  - title: "TCS Quartz? suite becomes available on Microsoft Azure Blockchain Service"
+    excerpt: "Tata Consultancy Services announced the general availability of its award winning Quartz? suite of blockchain based solutions on Microsoft Azure Blockchain Service. The Quartz suite of products helps organizations set up truly connected ecosystems ..."
+    publishedDateTime: 2020-09-21T07:04:00Z
+    webUrl: "https://www.indiainfoline.com/article/capital-market-corporate-news/tcs-quartz-suite-becomes-available-on-microsoft-azure-blockchain-service-120092100110_1.html"
+    ampWebUrl: "https://www.indiainfoline.com/article-amp/capital-market-corporate-news/tcs-quartz-suite-becomes-available-on-microsoft-azure-blockchain-service-120092100110_1.html"
+    cdnAmpWebUrl: "https://www-indiainfoline-com.cdn.ampproject.org/c/s/www.indiainfoline.com/article-amp/capital-market-corporate-news/tcs-quartz-suite-becomes-available-on-microsoft-azure-blockchain-service-120092100110_1.html"
     type: article
     provider:
-      name: Bleeping Computer
-      domain: bleepingcomputer.com
-    quality: 37
+      name: India Infoline
+      domain: indiainfoline.com
+    quality: 56
+    images:
+      - url: "https://content.indiainfoline.com/_media/iifl/img/article/default/news.jpg"
+        width: 350
+        height: 233
+        isCached: true
   - title: "TCS Quartz suite becomes available on Microsoft Azure Blockchain Service"
     excerpt: "Tata Consultancy Services announced the general availability of its award winning Quartz suite of blockchain based solutions on Microsoft Azure Blockchain Service. The Quartz suite of products helps organizations set up truly connected ecosystems ..."
     publishedDateTime: 2020-09-21T21:38:00Z
@@ -178,6 +177,6 @@ related:
       domain: seekingalpha.com
     quality: 14
 
-secured: "+yrerD7azV8+J2E8Tr5Cumc4D7TRd00iBZz82PZqjstXzvJtzy/w88aIYaQ1p0gahJP75M1sdIHkIMiH8AXvcb5QHzJfZqyZKjA27R394uoRem+TTVqE3hdvQlUuOpQcELyh9g0LkjXog2kGynbshddnH/x9xDJIkv8102VksP2Yuh6S13XhiUjWA6muk+u+1DK2wZypEHRlsXRZoI/dDyFk0UJ410PP25W7YvF8lc9n02pyKdZopaV4CZRMnOJvQN/O//3WncoQGqc/SEYwiO2a1ZbLd4zX1omVhMOU66tvhSSoltMuCTu46nUfXesV7Qr795gyPxLxN/rROx+GO/qQKWnrEgeGosAF9ozWWmw=;VgmCb0T3wPZtABmW6AxT3w=="
+secured: "fJ9BkTB7AUotKhMeBREkbZ1lHCNdgIYeLhZZZJWRSYaDgH3Kx0dyv4tUhvN0uVEU2ydBqQDs5I8EW57umlq9n0gk1ij6sc7XhYFIxs65OBp5abTc3RwWhDDqGRoTu4uJD2U/LQZn8H4+BqjJnw9iRRhluO5gbhVwADoOsWiro7uCzAZD+tzCwwHSfBP3am4rp1KL+AZhQz7+k4SBIsAAH37Nje7OpYYXDKWu/9lOgNy1M5eHcGynKPl9ynw3oyWRzyvq5K9+1iiwu0nxQTWaNJV5obYEDhs8tNRXaLCOiG+UBA/oxGplWlHHKTSP4RoJz3FoOTUzBZJnqxtO26BgwsZyu8vzxBY2F5hPQsmYcoqDbZQ4fAbNeIoJkP2xynDOGF1Utk45OQUkkEJv3cn5ESU02CFFBwJqhkP1ccaeWInKMm20aMvMuyyhekjPaae2v3QDoitW2l5OM45Bf6lwjYMdWvRuFPEjixUSdQKfFRzVZPJg1qX1Xw3lK4l2LDiEeFALWmivTJZ+Q3FUpXmcIw==;msJ9ujApvFqkPx2wQW5auw=="
 ---
 

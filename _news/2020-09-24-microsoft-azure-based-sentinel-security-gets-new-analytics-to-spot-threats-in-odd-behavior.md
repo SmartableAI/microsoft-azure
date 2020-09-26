@@ -3,10 +3,10 @@ category: news
 title: "Microsoft: Azure-based Sentinel security gets new analytics to spot threats in odd behavior"
 excerpt: "One year on from reaching general availability, Microsoft's Azure-based Sentinel security system now brings new user and entity behavioral analytics to help detect unknown and insider threats faster."
 publishedDateTime: 2020-09-24T10:41:00Z
-originalUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/article/microsoft-azure-based-sentinel-security-gets-new-analytics-to-spot-threats-in-odd-behavior/"
-webUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/article/microsoft-azure-based-sentinel-security-gets-new-analytics-to-spot-threats-in-odd-behavior/"
-ampWebUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/microsoft-azure-based-sentinel-security-gets-new-analytics-to-spot-threats-in-odd-behavior/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/microsoft-azure-based-sentinel-security-gets-new-analytics-to-spot-threats-in-odd-behavior/"
+originalUrl: "https://www.zdnet.com/article/microsoft-azure-based-sentinel-security-gets-new-analytics-to-spot-threats-in-odd-behavior/"
+webUrl: "https://www.zdnet.com/article/microsoft-azure-based-sentinel-security-gets-new-analytics-to-spot-threats-in-odd-behavior/"
+ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-azure-based-sentinel-security-gets-new-analytics-to-spot-threats-in-odd-behavior/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-azure-based-sentinel-security-gets-new-analytics-to-spot-threats-in-odd-behavior/"
 type: article
 quality: 87
 heat: 87
@@ -29,6 +29,6 @@ images:
     height: 675
     isCached: true
 
-secured: "lvD8/kDliSnE7L/RYdwPEMVEAvE+ikt9Ocs1fY3+hVEWkS2PqaTSEGWKZTYtpblXNzlwuyVV9Y6GeuJjrowtRIc6ZMzKTiQTPtwmr8tiIxIB1TWIgO78l+uNvys0uyfRJSwvZbXkT7lxybt9tNJ4YhcbNKk7WQ8zBRXwxcuGMG33ZISJckPDNZyknDm5alG+KDQ06+O7mzdQwl85jd/6h1EbYUai/IQe1B7rmg5OvPdmqJVCBYeStOpV98cdIIMlFoEVT0pf7mM6FvUzFA5FjB992g6iq0WDN4oB27Sbk2p653Ocz3gwAQ1BnhCY3C14F+EYFvcimzXn26u3vU5i+dxKEbpb23vbTVFS2HB5ZQk=;i8bNFGpoghZNoXfn4X4cRA=="
+secured: "mvQTULN99N1GvuY+AM2ahb8B/CyrSNIdpHRpuSHJS6wmOtLzicHbrMj+tOIA6sUsKXrGzTw2Anafs0Sbaq/LqBFie2nc5mYHPWMLZ05rXRzVqJL99CRKCabk7DXJjz/SrwGgVqA6b1+npl7coQq9bgriSPTpFzVCNyYsULRp4JeqM4woF9Df6yq6fRFLfJaTu8ePtT+pEyXWe8ZELShl8Z9NnMKJxG69iCW9UCTnMT9iV369ip0V/EBRq0S830GtTurzcXqms9AMHDdZtp4J/dUBdX4PEFwI9Iq4a6znzFnK3bf9vpKcHle6KQVGVrN+DpTl12Oxm6yfrQVcfG5nG4lHJBLoV4fnnNnSF2V/yrc=;z8TIstc8JTTEYAFNmK9ASw=="
 ---
 
