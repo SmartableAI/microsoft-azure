@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/azure-cognitive-services
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-cognitive-services-general-availability-updates/"
 type: article
 quality: 67
-heat: 87
+heat: 107
 published: true
 
 provider:
@@ -22,6 +22,17 @@ topics:
   - Azure
 
 related:
+  - title: "Microsoft aims to grow Azure's footprint, resiliency with more availability zones and new services"
+    excerpt: "Microsoft is bringing on board two more Azure Availability Zones, readying an Azure Resource Mover service aimed at those who care about data residency, and previewing its Azure Orbital service for satellite operators."
+    publishedDateTime: 2020-09-22T15:00:00Z
+    webUrl: "https://www.zdnet.com/index.php/category/2184/index.php/article/microsoft-aims-to-grow-azures-footprint-resiliency-with-more-availability-zones-new-services/"
+    ampWebUrl: "https://www.zdnet.com/index.php/category/2184/index.php/google-amp/article/microsoft-aims-to-grow-azures-footprint-resiliency-with-more-availability-zones-new-services/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2184/index.php/google-amp/article/microsoft-aims-to-grow-azures-footprint-resiliency-with-more-availability-zones-new-services/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 63
   - title: "General availability: Zone redundant configuration for Azure SQL Database in additional regions"
     excerpt: "The zone redundant configuration for Azure SQL Database is now generally available in these additional regions: Canada Central, West US 2, and North Europe."
     publishedDateTime: 2020-09-21T20:00:05Z

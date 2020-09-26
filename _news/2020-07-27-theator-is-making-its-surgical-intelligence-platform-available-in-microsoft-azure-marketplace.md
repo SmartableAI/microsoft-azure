@@ -32,6 +32,17 @@ related:
       name: Bloomberg
       domain: bloomberg.com
     quality: 46
+  - title: "Tamr Data Mastering Platform Now Available on Microsoft Azure"
+    excerpt: "PRNewswire/ -- Tamr, Inc., the provider of cloud-native data mastering solutions, today announced its cloud-native capabilities on Microsoft"
+    publishedDateTime: 2020-09-19T03:40:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/09/n17431514/tamr-data-mastering-platform-now-available-on-microsoft-azure"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/17431514"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17431514"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 37
 
 secured: "s5bYvwAnr1XN2ibMqYV4AZP300Ec5Oo2qKBsVWETt4PC62PAB7iUmdEB3SwJxnQwKV094cafCPQEdzitGrtgPJ1CP3eVTUth4K2Cu94vbgRwKK677A5EtuJpFif2gnNnPzJ5iZ3hScosV0Lm9oXxaQC0O718WaqoKlw/cN5gJCK6sB9z6XrWnBlOO0lqzGkFlewKgT90Vlz6/ohOMhpEq/LQwJ0a+lsgE1TltqMwKfxnk1Twgk7QO89iCOLhdiRm+igPO1u3YMkHXgs6rn3EFZ1fBASYPwLyeanN1tu7b23FenEwEH1fzBf8a9D9BKTuT+T/TkqpnFkgwKVWxxv4rw==;KpFldGctXXLPvTn2Oav99w=="
 ---

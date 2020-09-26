@@ -21,6 +21,17 @@ topics:
   - Azure
 
 related:
+  - title: "Tamr Data Mastering Platform Now Available on Microsoft Azure"
+    excerpt: "PRNewswire/ -- Tamr, Inc., the provider of cloud-native data mastering solutions, today announced its cloud-native capabilities on Microsoft"
+    publishedDateTime: 2020-09-19T03:40:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/09/n17431514/tamr-data-mastering-platform-now-available-on-microsoft-azure"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/17431514"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17431514"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 37
   - title: "Theator is Making its Surgical Intelligence Platform Available in Microsoft Azure Marketplace"
     excerpt: "Theator, the first of its kind surgical intelligence platform, announced today that its AI-powered platform is now available in the"
     publishedDateTime: 2020-07-27T20:00:00Z
