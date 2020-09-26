@@ -41,7 +41,7 @@ related:
   - title: "Cobalt Iron Makes DCIG List of TOP 5 Microsoft Azure Cloud Backup Solutions"
     excerpt: "Cobalt Iron Inc., a leading provider of SaaS-based enterprise data protection, today announced that its industry-leading Compass® enterprise SaaS back"
     publishedDateTime: 2020-09-25T06:49:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200917005127/en/"
+    webUrl: "https://www.businesswire.com/news/home/20200917005127/en/Cobalt-Iron-Makes-DCIG-List-of-TOP-5-Microsoft-Azure-Cloud-Backup-Solutions"
     type: article
     provider:
       name: Business Wire

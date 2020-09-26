@@ -1,28 +1,26 @@
 ---
 category: news
 title: "SES Becomes Microsoft Azure Orbital Founding Connectivity Partner"
-excerpt: "SES's proven low-latency MEO managed services to be part of Microsoft's new multi-orbit satellite connectivity integrated with Azure, promising optimized cloud"
-publishedDateTime: 2020-09-22T19:00:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/20/09/b17611271/ses-becomes-microsoft-azure-orbital-founding-connectivity-partner"
-webUrl: "https://www.benzinga.com/pressreleases/20/09/b17611271/ses-becomes-microsoft-azure-orbital-founding-connectivity-partner"
-ampWebUrl: "https://amp.benzinga.com/amp/content/17611271"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17611271"
+excerpt: "SES today announced it has joined as the medium Earth orbit (MEO) connectivity partner for Microsoft Azure Orbital, Microsoft’s new managed service enabling network operators to communicate and ..."
+publishedDateTime: 2020-09-22T19:04:00Z
+originalUrl: "https://www.finanzen.net/nachricht/aktien/ses-becomes-microsoft-azure-orbital-founding-connectivity-partner-9321525"
+webUrl: "https://www.finanzen.net/nachricht/aktien/ses-becomes-microsoft-azure-orbital-founding-connectivity-partner-9321525"
 type: article
-quality: 57
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Finanzen
+  domain: finanzen.net
 
 topics:
   - Azure
 
 images:
-  - url: "https://mms.businesswire.com/media/20200922005927/en/823710/4/SES_Press_Release_SES_Becomes_Microsoft_Azure_Orbital_Founding_Connectivity_Partner_image.jpg"
-    width: 480
-    height: 310
+  - url: "https://images.finanzen.net/images/logos/finanzennet_600x315.jpg"
+    width: 600
+    height: 315
     isCached: true
 
 related:
@@ -105,6 +103,6 @@ related:
       domain: seekingalpha.com
     quality: 17
 
-secured: "pGx4AbabbwBICNZDthaxSoE3BVIKyC4WERi3U88oEabSF8oXbWkmJY2xUWg60G+uzH6dkoZtowyXtaJFJfz5a4/qkX0nZQDzrLPmt2MccZeUNGEvzOjZd/rtb0rypsumzH7HJ8afBSYIsEVnKUXzl0Fhdj3KE95pah9vNEpwVVAPs9Ihju0+R7g2e4VvMm2kFTZ8xTHN57SAFwkog9r9pip+USIGoepAjE7HoUW2Z78HHszs1RB4TnIEp7wMaYY2It0NjK+Z8zLYv1/LGkZb/Q+omSml7Ns0VCTwMlAzp5lfDiP5/DsA/SpcU6dQuwLefNKyLyrQHAgYDjz+Vpc6oxAEASWmvq41qL4lQhin/ETsgkoXIzTa1fWLoO/UTUOJ/pyDrlTAHv/WWnsSl5nHgEM99LVlOLeowVFQFc3Yv5RRhBMm6w/ryboyGq1VSALrMBeZKzoL/wjJ44XlT2Go3kX4xkUFEStVOp3gkjI8JGPD6vY67Y3Hr2zKlasow/WN1S/yWVDOoOzv/Dkbj8Hp5Q==;otfFgB7QW5S+9a0hj42kng=="
+secured: "SGCVTjg6tqU+TpPSsX8uClOxzCWIKM7Wiv9y+gXzYPCq4wc5aG9s6LeLTmpAOu54fzwZhkxrSQ/60SvwvpralF1/eE5qkkFmAJKDRAvrEGKL7A18C2YuBtySRx+PsSUxmxGF9WafelJQfcw4j5DKHBRP8oU1yK5R/VtfoNF2BWnEFPuSxcDkylMgytsRFGNu5a5L+9VYk1f4MQqTUhu4YOFhhi2NwGlI8+7oH9PvPcyO6ILrDBkHE112JCZJzDbNKi6UJhmis9b9aR8V1/9aUt/A1XCsojQDrzOHRQtDoAX9HWgO7x4RFcODr8sRDLOz2WPXZIpEQM752FQK4Yls249RbeL7A9y5MyaKfnZ9GzM=;sTLWpOsq8xlHQG4NToWC1w=="
 ---
 

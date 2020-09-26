@@ -64,22 +64,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "SES Becomes Microsoft Azure Orbital Founding Connectivity Partner"
-    excerpt: "SES's proven low-latency MEO managed services to be part of Microsoft's new multi-orbit satellite connectivity integrated with Azure, promising optimized cloud"
-    publishedDateTime: 2020-09-22T19:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/09/b17611271/ses-becomes-microsoft-azure-orbital-founding-connectivity-partner"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/17611271"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17611271"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 57
-    images:
-      - url: "https://mms.businesswire.com/media/20200922005927/en/823710/4/SES_Press_Release_SES_Becomes_Microsoft_Azure_Orbital_Founding_Connectivity_Partner_image.jpg"
-        width: 480
-        height: 310
-        isCached: true
   - title: "Microsoft Ignite: Azure Advances Across Five Frontiers"
     excerpt: "To kick off the Microsoft Ignite virtual conference, CEO Satya Nadella made a bold claim about the public cloud with the second-largest market share behind Amazon."
     publishedDateTime: 2020-09-22T20:51:00Z
@@ -93,6 +77,20 @@ related:
       - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/IntroImagesBigSmall/MapRusticBig.jpg"
         width: 1665
         height: 1158
+        isCached: true
+  - title: "SES Becomes Microsoft Azure Orbital Founding Connectivity Partner"
+    excerpt: "SES today announced it has joined as the medium Earth orbit (MEO) connectivity partner for Microsoft Azure Orbital, Microsoft’s new managed service enabling network operators to communicate and ..."
+    publishedDateTime: 2020-09-22T19:04:00Z
+    webUrl: "https://www.finanzen.net/nachricht/aktien/ses-becomes-microsoft-azure-orbital-founding-connectivity-partner-9321525"
+    type: article
+    provider:
+      name: Finanzen
+      domain: finanzen.net
+    quality: 37
+    images:
+      - url: "https://images.finanzen.net/images/logos/finanzennet_600x315.jpg"
+        width: 600
+        height: 315
         isCached: true
   - title: "3Cloud Acquires Microsoft Azure Partner"
     excerpt: "Microsoft Azure cloud partner 3Cloud, backed by private equity firm Gryphon Investors, acquires Pragmatic Works' consulting arm. Creates largest U.S. Azure partner, buyer claims."
