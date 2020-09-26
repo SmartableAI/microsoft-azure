@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Milliman’s strategic cyber risk assessment now available in the Microsoft Azure Marketplace"
-excerpt: "Milliman, Inc., a premier global consulting and actuarial firm, today announced that it has launched its Strategic Cyber Risk Assessment in the Microsoft Azure Marketplace to help organizations better understand,"
-publishedDateTime: 2020-09-16T16:00:00Z
-originalUrl: "https://apnews.com/pr-newswire/63e199910660c46177675d83ec6e90dc"
-webUrl: "https://apnews.com/pr-newswire/63e199910660c46177675d83ec6e90dc"
+title: "Milliman's strategic cyber risk assessment now available in the Microsoft Azure Marketplace"
+excerpt: "16, 2020 /PRNewswire/ -- Milliman, Inc., a premier global consulting and actuarial firm, today announced that it has launched its Strategic Cyber Risk Assessment in the Microsoft Azure ..."
+publishedDateTime: 2020-09-16T16:14:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/milliman-s-strategic-cyber-risk-assessment-now-available-in-the-microsoft-azure-marketplace-1029595657"
+webUrl: "https://markets.businessinsider.com/news/stocks/milliman-s-strategic-cyber-risk-assessment-now-available-in-the-microsoft-azure-marketplace-1029595657"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/milliman-s-strategic-cyber-risk-assessment-now-available-in-the-microsoft-azure-marketplace-1029595657"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/milliman-s-strategic-cyber-risk-assessment-now-available-in-the-microsoft-azure-marketplace-1029595657"
 type: article
-quality: 27
+quality: 67
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
-
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
 
 related:
   - title: "Codafication's Virtual Assist Now Available in the Microsoft Azure Marketplace"
@@ -182,6 +182,6 @@ related:
       domain: businesswire.com
     quality: 3
 
-secured: "DOcG+ewwZdiT4VL3rxDBcsFqnQa4nXaFKJAic2Xo8aYLNF9yg0zNlDd3/CfIG0W/behP7kpDeezO8bF+4S8oNn7tyFXgap5oj/x/U2GA1SSfgSDxO6JIq1HutsYOQtVOm0zpPrBJmd6oKA2Fp9KsrJquIR/Fl+Q2S0hfrRB57GcOofE7OEYj5N/DVNhRx2caSDu922nGs+J6gT2BovCpZseRgzoeVvdELZxTcLcNooYQHo4+ix7TpmkWBepvrzVHZ+8wpTwVRnTbvoyvBxebn6MzayzUVwgz5uk3NkJc+A3wsz5Mg+O6akzagbAdscyBjWHucb7VkPVQYBXP1WOnJ00a7nx/NXaTuhe9LmPe688=;r5e3hfYSUrQ4vL7dGmeptg=="
+secured: "Dit0gDWW5LvWiLr8G696xNTcdCr5VJZFPHknZzAtBbiEV8AcYwu6F7QCwKkMJ3igVheAs/A95K/9uLm7mgsf1f2OYTcVAAD6++WRjXNUD0cslrvyTdq8THNNnyr4OoobmS8FxfMp//Yl8hIcqrMBSuz8OLs7s6TBzA7V53BFSsLeAUhtDeohsMbm3l4GI8tVeJw3X80Dh2ts2e9bKR8Jct3JnDTA0bgceVd13xDkcDfIX9xg2K2qBhCTDR+HYftTFF0f1o6CbIT28GtvwJ05lq61oi9wDzdec8zGOG6JwGJH+vC//tz90N8ZxtnxQ3/Kz5sUVpFiD0De5+ZBtbfr9YYvMcWz1UbI0bn+74BI8x0=;EEonltFQDPx6O6Ad6p7f6g=="
 ---
 

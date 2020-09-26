@@ -23,6 +23,17 @@ topics:
   - Azure
 
 related:
+  - title: "Milliman's strategic cyber risk assessment now available in the Microsoft Azure Marketplace"
+    excerpt: "16, 2020 /PRNewswire/ -- Milliman, Inc., a premier global consulting and actuarial firm, today announced that it has launched its Strategic Cyber Risk Assessment in the Microsoft Azure ..."
+    publishedDateTime: 2020-09-16T16:14:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/milliman-s-strategic-cyber-risk-assessment-now-available-in-the-microsoft-azure-marketplace-1029595657"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/milliman-s-strategic-cyber-risk-assessment-now-available-in-the-microsoft-azure-marketplace-1029595657"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/milliman-s-strategic-cyber-risk-assessment-now-available-in-the-microsoft-azure-marketplace-1029595657"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 67
   - title: "Zixi Now Available Through Microsoft Azure"
     excerpt: "Zixi Broadcasters will be deployed on Azure using ZEN Master, a control plane that enables users to manage large-scale configurations to orchestrate, analyze, monitor, alert and report on live video streams and devices across the Zixi Enabled Network."
     publishedDateTime: 2020-06-17T14:56:00Z
@@ -99,20 +110,6 @@ related:
     excerpt: "PRNewswire/ -- Commvault (NASDAQ: CVLT), a recognized global enterprise software leader in the management of data across cloud and on-premises environments, has announced the availability of Metallic’s Software-as-a-Service (SaaS) data protection portfolio in the Microsoft Azure Marketplace,"
     publishedDateTime: 2020-08-12T12:30:00Z
     webUrl: "https://apnews.com/PR Newswire/3e2eeb6df72a20273c39aa8b9c8c7cdf"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 27
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "Milliman’s strategic cyber risk assessment now available in the Microsoft Azure Marketplace"
-    excerpt: "Milliman, Inc., a premier global consulting and actuarial firm, today announced that it has launched its Strategic Cyber Risk Assessment in the Microsoft Azure Marketplace to help organizations better understand,"
-    publishedDateTime: 2020-09-16T16:00:00Z
-    webUrl: "https://apnews.com/pr-newswire/63e199910660c46177675d83ec6e90dc"
     type: article
     provider:
       name: Associated Press
