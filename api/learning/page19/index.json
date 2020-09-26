@@ -441,47 +441,6 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-foster-ai-culture-sales.md",
-      "title": "Discover how to foster an AI-ready culture in sales",
-      "excerpt": "Learn the necessary cultural changes for enterprise sales organizations to make AI transformation successful, and how they fit into a holistic AI strategy.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-foster-ai-culture-sales/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/foster-ai-ready-culture-sales/",
-      "length": "PT38M",
-      "ratings": {
-        "count": 515,
-        "average": 4.6951456
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": -8,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/foster-ai-ready-culture-sales-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-improve-developer-experience-of-an-api-with-swagger-documentation.md",
       "title": "Improve the developer experience of an API with Swagger documentation",
       "excerpt": "Learn how to document an existing API, written in C#/ASP.NET Core, using Swashbuckle, Swagger/OpenAPI, and Swagger UI.",
@@ -555,6 +514,39 @@
       "topics": [
         "Azure",
         "Management Tools"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-use-compute-contexts-in-aml.md",
+      "title": "Work with Compute in Azure Machine Learning",
+      "excerpt": "Learn how to manage compute contexts for experiments in Azure Machine Learning.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-use-compute-contexts-in-aml/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/use-compute-contexts-in-aml/",
+      "length": "PT45M",
+      "ratings": {
+        "count": 542,
+        "average": 4.6273065
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": -12,
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
       ]
     },
     {
@@ -852,8 +844,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/characterize-devops-continous-collaboration-improvement/",
       "length": "PT17M",
       "ratings": {
-        "count": 812,
-        "average": 4.669951
+        "count": 813,
+        "average": 4.6703568
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1213,7 +1205,7 @@
           "path": "",
           "title": "Work with Compute in Azure Machine Learning",
           "excerpt": "Learn how to manage compute contexts for experiments in Azure Machine Learning.",
-          "heat": 48,
+          "heat": -12,
           "type": "course",
           "topics": [
             "Azure"
@@ -1311,7 +1303,7 @@
           "path": "",
           "title": "Work with Compute in Azure Machine Learning",
           "excerpt": "Learn how to manage compute contexts for experiments in Azure Machine Learning.",
-          "heat": 48,
+          "heat": -12,
           "type": "course",
           "topics": [
             "Azure"

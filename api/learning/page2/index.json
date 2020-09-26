@@ -4,48 +4,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-describe-performance-related-maintenance-tasks-sql-server.md",
-      "title": "Describe performance-related maintenance tasks in SQL Server",
-      "excerpt": "Implement tasks for both IaaS and PaaS to maintain indexes, and statistics. Explore the automatic tuning features of Azure SQL Database.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-describe-performance-related-maintenance-tasks-sql-server/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/describe-performance-related-maintenance-tasks-sql-server/",
-      "length": "PT23M",
-      "ratings": {
-        "count": 190,
-        "average": 4.794737
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 72,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Databases"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-evaluate-performance-improvements.md",
       "title": "Evaluate performance improvements",
       "excerpt": "Evaluate possible changes to indexes. Determine the impact of changes to queries and indexes. Explore relevant Dynamic Management Objects.",
@@ -53,8 +11,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/evaluate-performance-improvements/",
       "length": "PT30M",
       "ratings": {
-        "count": 184,
-        "average": 4.826087
+        "count": 185,
+        "average": 4.827027
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -172,8 +130,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/run-docker-with-azure-container-instances/",
       "length": "PT48M",
       "ratings": {
-        "count": 3728,
-        "average": 4.67677
+        "count": 3741,
+        "average": 4.677359
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1446,8 +1404,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/m365-identity-secure-administrators/",
       "length": "PT21M",
       "ratings": {
-        "count": 1310,
-        "average": 4.7755723
+        "count": 1314,
+        "average": 4.7762556
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1633,7 +1591,7 @@
           "path": "",
           "title": "Distributed computing on the cloud: MapReduce",
           "excerpt": "Carnegie Mellon University's cloud developer course. MapReduce was a breakthrough in big data processing that has become mainstream and been improved upon significantly. Learn about how MapReduce works.",
-          "heat": 109,
+          "heat": 49,
           "type": "course",
           "topics": [
             "Azure"
@@ -2643,6 +2601,92 @@
       "price": "Free",
       "topics": [
         "Azure"
+      ]
+    },
+    {
+      "path": "_learning/collections/microsoft-learn-working-with-connected-field-service-for-dynamics-365-and-azure-iot.md",
+      "title": "Working with Connected Field Service for Dynamics 365 and Azure IoT",
+      "excerpt": "This learning path introduces you to connected Field Service and Azure IoT. Included in this learning path is identifying exceptions, register and manage devices, remotely monitor and service equipment, and using IoT central with connected Field Service.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-working-with-connected-field-service-for-dynamics-365-and-azure-iot/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-working-with-connected-field-service-for-dynamics-365-and-azure-iot/",
+      "length": "PT6H13M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "topItems": [
+        {
+          "path": "",
+          "title": "Get started with Connected Field Service for Dynamics 365 and Azure IoT",
+          "excerpt": "This module will focus on the initial deployment of the Connected Field Service add-on for Dynamics 365 for Field Service.  The module will walk you through the installation and an understanding of the components installed as part of the out of the box template application.",
+          "heat": 44,
+          "type": "course",
+          "topics": [
+            "Azure",
+            "IoT"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Remotely monitor and service equipment with Connected Field Service for Dynamics 365 and Azure IoT",
+          "excerpt": "Configure IoT devices to remotely monitor customer equipment.",
+          "heat": 44,
+          "type": "course",
+          "topics": [
+            "Azure",
+            "IoT"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Register and manage devices with Connected Field Service for Dynamics 365 and Azure IoT",
+          "excerpt": "Register and Manage Customer Devices with Connected Field Service.",
+          "heat": 46,
+          "type": "course",
+          "topics": [
+            "Azure",
+            "IoT"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Using IoT Central with Connected Field Service for Dynamics 365",
+          "excerpt": "This module will focus on using IoT Central with Connected Field Service add-on for Dynamics 365 for Field Service.  The module will walk you through building an IoT Central application and escalating the alerts into Dynamics 365.",
+          "heat": 46,
+          "type": "course",
+          "topics": [
+            "Azure",
+            "IoT"
+          ]
+        }
+      ],
+      "size": 5,
+      "heat": 55,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/get-started-with-connected-field-service-social.png",
+          "width": 200,
+          "height": 200,
+          "title": "Get started with Connected Field Service for Dynamics 365 and Azure IoT",
+          "isCached": true
+        }
+      ],
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "IoT"
       ]
     }
   ],

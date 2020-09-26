@@ -4,92 +4,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_learning/collections/microsoft-learn-working-with-connected-field-service-for-dynamics-365-and-azure-iot.md",
-      "title": "Working with Connected Field Service for Dynamics 365 and Azure IoT",
-      "excerpt": "This learning path introduces you to connected Field Service and Azure IoT. Included in this learning path is identifying exceptions, register and manage devices, remotely monitor and service equipment, and using IoT central with connected Field Service.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-working-with-connected-field-service-for-dynamics-365-and-azure-iot/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-working-with-connected-field-service-for-dynamics-365-and-azure-iot/",
-      "length": "PT6H13M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "topItems": [
-        {
-          "path": "",
-          "title": "Get started with Connected Field Service for Dynamics 365 and Azure IoT",
-          "excerpt": "This module will focus on the initial deployment of the Connected Field Service add-on for Dynamics 365 for Field Service.  The module will walk you through the installation and an understanding of the components installed as part of the out of the box template application.",
-          "heat": 44,
-          "type": "course",
-          "topics": [
-            "Azure",
-            "IoT"
-          ]
-        },
-        {
-          "path": "",
-          "title": "Remotely monitor and service equipment with Connected Field Service for Dynamics 365 and Azure IoT",
-          "excerpt": "Configure IoT devices to remotely monitor customer equipment.",
-          "heat": 44,
-          "type": "course",
-          "topics": [
-            "Azure",
-            "IoT"
-          ]
-        },
-        {
-          "path": "",
-          "title": "Register and manage devices with Connected Field Service for Dynamics 365 and Azure IoT",
-          "excerpt": "Register and Manage Customer Devices with Connected Field Service.",
-          "heat": 46,
-          "type": "course",
-          "topics": [
-            "Azure",
-            "IoT"
-          ]
-        },
-        {
-          "path": "",
-          "title": "Using IoT Central with Connected Field Service for Dynamics 365",
-          "excerpt": "This module will focus on using IoT Central with Connected Field Service add-on for Dynamics 365 for Field Service.  The module will walk you through building an IoT Central application and escalating the alerts into Dynamics 365.",
-          "heat": 46,
-          "type": "course",
-          "topics": [
-            "Azure",
-            "IoT"
-          ]
-        }
-      ],
-      "size": 5,
-      "heat": 55,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/get-started-with-connected-field-service-social.png",
-          "width": 200,
-          "height": 200,
-          "title": "Get started with Connected Field Service for Dynamics 365 and Azure IoT",
-          "isCached": true
-        }
-      ],
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "IoT"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-intro-to-azure-sentinel.md",
       "title": "Introduction to Azure Sentinel",
       "excerpt": "Get familiar with Azure Sentinel, a cloud native security information and event management (SIEM) service.",
@@ -452,8 +366,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/m365-identity-provisioning/",
       "length": "PT46M",
       "ratings": {
-        "count": 2052,
-        "average": 4.740741
+        "count": 2058,
+        "average": 4.740039
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1348,6 +1262,47 @@
           "url": "https://docs.microsoft.com/learn/achievements/cmu-cloud-developer/understand-virtualization-social.png",
           "width": 1000,
           "height": 500,
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-foster-ai-culture-sales.md",
+      "title": "Discover how to foster an AI-ready culture in sales",
+      "excerpt": "Learn the necessary cultural changes for enterprise sales organizations to make AI transformation successful, and how they fit into a holistic AI strategy.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-foster-ai-culture-sales/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/foster-ai-ready-culture-sales/",
+      "length": "PT38M",
+      "ratings": {
+        "count": 515,
+        "average": 4.6951456
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/foster-ai-ready-culture-sales-social.png",
+          "width": 800,
+          "height": 400,
           "isCached": true
         }
       ],

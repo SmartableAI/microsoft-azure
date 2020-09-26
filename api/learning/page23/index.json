@@ -4,6 +4,41 @@
   "page": 23,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-choose-storage-approach-in-azure.md",
+      "title": "Choose a data storage approach in Azure",
+      "excerpt": "Learn how using Azure Storage, Azure SQL Database, and Azure Cosmos DB - or a combination of them - for your business scenario is the best way to get the most performant solution.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-choose-storage-approach-in-azure/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/choose-storage-approach-in-azure/",
+      "length": "PT30M",
+      "ratings": {
+        "count": 10351,
+        "average": 4.65926
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": -2147483598,
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Storage",
+        "Databases"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-choose-the-appropriate-api-for-cosmos-db-storage.md",
       "title": "Choose the appropriate API for Azure Cosmos DB",
       "excerpt": "Compare the different APIs that are available in Azure Cosmos DB, highlighting and contrasting the different scenarios that would make them a good choice for a company.",
@@ -363,8 +398,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/connect-an-app-to-azure-storage/",
       "length": "PT1H15M",
       "ratings": {
-        "count": 4800,
-        "average": 4.6283336
+        "count": 4801,
+        "average": 4.628411
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -440,8 +475,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/connect-on-premises-network-with-vpn-gateway/",
       "length": "PT39M",
       "ratings": {
-        "count": 4785,
-        "average": 4.599791
+        "count": 4787,
+        "average": 4.599749
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -482,8 +517,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/control-and-organize-with-azure-resource-manager/",
       "length": "PT46M",
       "ratings": {
-        "count": 37934,
-        "average": 4.7122107
+        "count": 37935,
+        "average": 4.7122183
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -670,8 +705,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/create-a-build-pipeline/",
       "length": "PT1H20M",
       "ratings": {
-        "count": 4761,
-        "average": 4.7410207
+        "count": 4763,
+        "average": 4.7411294
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -796,8 +831,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/create-an-azure-account/",
       "length": "PT39M",
       "ratings": {
-        "count": 132405,
-        "average": 4.6965675
+        "count": 132413,
+        "average": 4.6965632
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -864,8 +899,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/create-azure-storage-account/",
       "length": "PT30M",
       "ratings": {
-        "count": 5913,
-        "average": 4.750888
+        "count": 5914,
+        "average": 4.75093
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1077,47 +1112,6 @@
       "topics": [
         "Azure",
         "DevOps"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-create-security-baselines.md",
-      "title": "Create security baselines",
-      "excerpt": "Create security baselines",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-create-security-baselines/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/create-security-baselines/",
-      "length": "PT60M",
-      "ratings": {
-        "count": 2169,
-        "average": 4.6330104
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": -2147483598,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/create-security-baselines-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
       ]
     },
     {
