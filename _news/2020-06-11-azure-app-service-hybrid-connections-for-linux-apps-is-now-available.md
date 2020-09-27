@@ -30,6 +30,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 17
+  - title: "Windows Server containers in AKS is now available in Azure Government"
+    excerpt: "Windows Server containers in AKS is now available in Azure Government. "
+    publishedDateTime: 2020-06-10T16:00:25Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/windows-server-containers-in-aks-is-now-available-in-azure-government/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 17
   - title: "Azure Cosmos DB Java SDK 4.0 for Core (SQL) API release now in general availability"
     excerpt: ""
     publishedDateTime: 2020-06-10T16:00:14Z
@@ -39,15 +48,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 11
-  - title: "Azure Monitor for containers now supports log collection on AKS Windows node pools (in preview)"
-    excerpt: "Starting with agent version ciprod05262020, Azure Monitor for containers will collect logs (std/stderr) for the containers running on AKS clusters with Windows node pools."
-    publishedDateTime: 2020-06-04T18:00:27Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/ci-windows-logging/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 5
 
 secured: "C8D+0Ocp/mY6wXG4KyfeLoOKwziNXAKxhT5Zwz/xzLwIvaIBjGE2Br8shZuqtkQEN5v6aARGS65eZUKqtzg60oEiB/dGy3wdelmrgqyIq9dRPAih5rQroJ5r9tL1VIE8fRLsc7eBMmBhL5K1np/jdQ2V3Vp1PWlopxNbh9RSYV+1fmD7zFQ8UwoWzOgyZmrwy3s9zfj866qJkuSWoCN75XQGaZLRhsOddPUerpXYFV25ySh2P+zEXVfEx6NqPg1x5OJBSvfoXLQ/F6wf2UMr4l0OmlXpPV5rjwrkLSf5IhqvpiyQOB63SrJ32Iryl3ovZTREQXgKjy1GjkAWCvHVwA==;slziN3GFd0lC9Bo18HZ0AQ=="
 ---

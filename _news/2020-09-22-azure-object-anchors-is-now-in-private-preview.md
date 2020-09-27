@@ -22,110 +22,15 @@ topics:
   - Azure
 
 related:
-  - title: "NFS 4.1 support for Azure Files is now in preview"
-    excerpt: "Azure Files is a distributed cloud file system serving Server Messaging Block (SMB) and REST protocols. Azure Files enables customers to easily lift and shift their legacy workloads to the cloud without any modifications or changes in technology. SMB works on both Windows and UNIX operating systems for"
-    publishedDateTime: 2020-09-15T13:00:18Z
-    webUrl: "https://azure.microsoft.com/blog/nfs-41-support-for-azure-files-is-now-in-preview/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 87
-    images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/f37b1fb4-f41e-42b8-8f88-754f3e8eef0c.jpg"
-        width: 1024
-        height: 489
-        isCached: true
-  - title: "NFS 3.0 support for Azure Blob storage is now in preview"
-    excerpt: "To enable customers to run NFS based applications at scale, we are announcing the preview of NFS 3.0 protocol support for Azure Blob storage. "
-    publishedDateTime: 2020-07-27T10:00:03Z
-    webUrl: "https://azure.microsoft.com/blog/nfs-30-support-for-azure-blob-storage-is-now-in-preview/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 86
-  - title: "Change feed support is now generally available for Azure Blob Storage"
-    excerpt: "Change feed support for Microsoft Azure Blob storage is now generally available."
-    publishedDateTime: 2020-09-09T20:04:54Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/change-feed-support-is-now-generally-available-for-azure-blob-storage/"
+  - title: "Announcing Private Azure Marketplace in public preview"
+    excerpt: "Private Azure Marketplace enables you to govern the apps available for deployment for your organization"
+    publishedDateTime: 2020-09-22T16:05:35Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/announcing-private-azure-marketplace-in-public-preview/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
     quality: 67
-  - title: "Azure Time Series Insights now supports AAD groups"
-    excerpt: "Azure Time Series Insights now supports Azure Active Directory groups through access policies."
-    publishedDateTime: 2020-09-11T21:00:13Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/tsi-aad-groups/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 67
-  - title: "Azure Files support for NFS v4.1 is now in preview"
-    excerpt: "Azure Files now adds support for NFS v4.1 file system protocol for an easy migration of your Linux-centric workloads."
-    publishedDateTime: 2020-09-16T17:00:28Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-files-support-for-nfs-v41-is-now-in-preview/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 67
-  - title: "Azure Arc enabled data services now in preview"
-    excerpt: "Run Azure Arc enabled data services on premises on any infrastructure of your choice with Azure cloud benefits like elastic scale, unified management, and a cloud billing model while staying always current. "
-    publishedDateTime: 2020-09-22T16:05:38Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-arc-enabled-data-services-now-in-preview/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 67
-  - title: "Azure Database for PostgreSQL Flexible Server now in preview"
-    excerpt: "Azure Database for PostgreSQL Flexible Server is a new deployment option that provides better control and flexibility, more options for high availability, and cost optimization controls."
-    publishedDateTime: 2020-09-22T20:00:01Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-database-for-postgresql-flexible-server-now-in-preview/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 67
-  - title: "Azure Spot support for Azure Kubernetes Service is in preview"
-    excerpt: ""
-    publishedDateTime: 2020-04-15T16:00:02Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-spot-support-for-azure-kubernetes-service-is-in-preview/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 17
-  - title: "Azure Functions—Java 8 support on Linux is now in preview"
-    excerpt: ""
-    publishedDateTime: 2020-04-27T15:00:24Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/announcing-java-feature-support-azure-functions/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 17
-  - title: "Firewall support for Azure Relay is now in preview"
-    excerpt: ""
-    publishedDateTime: 2020-05-18T21:00:04Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/firewall-support-for-azure-relay-firewall-is-now-in-preview/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 17
-  - title: ".NET Core support for Azure Analysis Services client libraries is in preview"
-    excerpt: "In response to customer feedback, .NET Core support for Azure Analysis Services client libraries is now available in preview. Start building .NET Core applications for modern cross-platform and cloud-oriented environments that target Analysis Services and Microsoft Power BI."
-    publishedDateTime: 2020-07-10T00:23:39Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/net-core-support-for-azure-analysis-services-client-libraries-is-in-preview/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 14
 
 secured: "zNPs5IP6UrrdCnUSsZTyWI+6S0LgAg7CgJjrwgAvaD50+/NoksidsKp1Wwr/sy5lDjrju16UZt/Zf2BkMnXg87f/qkKruCgaeypijXIfXF4dnQsYkh1kmceXWPpKNtzvj4536FgvxO7kH8q2MVQmrWkV25JJQsbt/JJ0UdGBxjJi9enKcw95JC1gRJ+Qh92xHtX+xTgkAaNaHrkq8eYJ8iwLL4MCwOD+iB3P7/ItTY30RNaMhozMuS98RCQUVXBCSzuUf9MON1UMtTCAlM/2WKwau4mTPtBS+tDtEVF/+OzqMo1AmF3jcKsFpP7/DFBasz5cVEpK0sNWvcC2I5DWfWUJSxU4DjPifMZcO6pB2uE=;IhyppbeRNzdUFI6SeZrtKg=="
 ---

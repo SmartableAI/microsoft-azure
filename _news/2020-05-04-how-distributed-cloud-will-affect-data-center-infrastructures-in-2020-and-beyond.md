@@ -46,20 +46,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Will coronavirus compound the concentration of cloud computing champions?"
-    excerpt: "As enterprise organisations are forced through digital transformation programmes during the COVID-19 lockdown period, some might suggest all will benefit, but it does appear newly created revenues are"
-    publishedDateTime: 2020-05-10T09:52:00Z
-    webUrl: "https://telecoms.com/504201/will-coronavirus-compound-the-concentration-of-cloud-computing-champions/"
-    type: article
-    provider:
-      name: Telecoms
-      domain: telecoms.com
-    quality: 21
-    images:
-      - url: "https://telecoms.com/wp-content/blogs.dir/1/files/2017/02/Cloud-Money-300x203.jpg"
-        width: 300
-        height: 203
-        isCached: true
 
 secured: "KXU/NAz5FxGMqD3xpBa/Kfsj5KqmUff6apfr5mEk/2/uWfKeGBXM/IvWlvMhrOt63fjIsZVRXsjzNiK1jbVQiaBJQoBAW1PAf0HP9wxtw/JlK+ox4SBf2RQxT7ovq2HqCPt5znAULpTiMAamjmpNmNlkCFqudOFSLnl0Nv9wCaEpLPlWIcI6tH6KxATjT4ldKM8p+UjrkZATNoiwoyOHRTZ0dGNaZLOaKHGESp8iNaByBb4KiWvoeT4DFLzjuT007WNQkwGFGCwLlTxIo3fdMWoNs8jDDv5idjnECGJ/ZXR3vqy8u2XlFbeBXOdGFisJTWCuon+N5MYBMO4RRw65flsvKa463COAbV1wDNwioltIeevcBQ8IXWLVA8rkE0k74w3gIfov4u414HGw0/P41J+KKNmIy4R4jLuoYHtkeveDtNb1Y+wmBGLkhb8hdOsbzCBJQ/yV509jtL5JsszCTXWIQ/llsViXyJTllI02GWs=;ChhvQBO0X3w49k3jMWdwtw=="
 ---

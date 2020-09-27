@@ -27,6 +27,44 @@ images:
     isCached: true
     title: "Learn how to deliver insights faster with Azure Synapse Analytics"
 
+related:
+  - title: "Learn how to accelerate time to insight at the Analytics in Azure virtual event"
+    excerpt: "The next wave of analytics is here with Azure Synapse Analytics! Simply unmatched and truly limitless, we're excited about this launch and want to share the highlights with you. Please join us for the Analytics in Azure virtual event on Tuesday, December 10, 2019 from 10:00 AM – 11:00 AM Pacific Time."
+    publishedDateTime: 2019-11-19T09:00:03Z
+    webUrl: "https://azure.microsoft.com/blog/learn-how-to-accelerate-time-to-insight-at-the-analytics-in-azure-virtual-event/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 30
+  - title: "Azure Synapse Analytics meter ID changes effective as of July 1, 2020"
+    excerpt: ""
+    publishedDateTime: 2020-05-26T18:00:04Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-synapse-analytics-meter-id-changes/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 17
+  - title: "Azure Log Analytics agent for Windows SHA-2 signing date has been extended"
+    excerpt: ""
+    publishedDateTime: 2020-05-11T17:00:02Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-log-analytics-agent-for-windows-sha2-signing-date-has-been-extended/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 15
+  - title: "Azure Private Link for Azure SQL Database and Azure Synapse Analytics is now available in all US government regions"
+    excerpt: ""
+    publishedDateTime: 2020-05-14T12:00:02Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/private-link-sqldb-usgov/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 0
+
 secured: "a+cMTYhULBKIqZmfDZIZiZ4pUy8Z2Kus2LcbKDGALH8Ln3JrzJNpBME09f1wYD3MpWDmJTIfHnUgyhwAdJ5aISw2yr+Zs120sHetRsMZjMYa5eR4/gMuSMTJUxmpcycU5t+r5O/RRukQiWJe0RU6zDGfOxq30EJZM29oWsFh8y4Nlanh4I+5W0KTjp00l16zkkQS4Pw1STktHkwhnD10Zh14pXhahpdBlvA28n+/8zz2TyZzjrs0nzsZ0GJ41l4SkL8A4HVV8y9/7BH5rzlCe9I2JHwnNUYFDTVltK11jofcMqlRbgOfAIBwHsXr34DryfyjZqTZ/4SVD/RYnbBMNQ==;QM9ouFSKcg5JuY21tRh66Q=="
 ---
 

@@ -44,24 +44,112 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Microsoft and Redis Labs collaborate to give developers new Azure Cache for Redis capabilities"
-    excerpt: "Now more than ever, enterprises must deliver their applications with speed and robustness that matches the high expectations of their customers. The ability to provide sub-millisecond response times, reliably support the demands of enterprises from small to large, and scale seamlessly to handle millions"
-    publishedDateTime: 2020-05-12T06:00:09Z
-    webUrl: "https://azure.microsoft.com/blog/microsoft-and-redis-labs-collaborate-to-give-developers-new-azure-cache-for-redis-capabilities/"
+  - title: "UW team imagines a better Parkinson’s test, lands in global finals for Microsoft student competition"
+    excerpt: "A team of students from the University of Washington is among the global finalists in Microsoft’s annual Imagine Cup after putting their imaginations — and technical skills — to work in hopes"
+    publishedDateTime: 2020-05-02T00:00:00Z
+    webUrl: "https://www.geekwire.com/2020/uw-team-among-microsofts-imagine-cup-finalists-tech-make-parkinsons-test-accessible/"
+    ampWebUrl: "https://www.geekwire.com/2020/uw-team-among-microsofts-imagine-cup-finalists-tech-make-parkinsons-test-accessible/amp/"
+    cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/uw-team-among-microsofts-imagine-cup-finalists-tech-make-parkinsons-test-accessible/amp/"
     type: article
     provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 5
-  - title: "Avid Technology Shares Up 10% After Renewing Cloud Collaboration With Microsoft"
-    excerpt: "Global News Select Avid Technology Shares Up 10% After Renewing Cloud Collaboration With Microsoft . . May 5, 2020 11:12 AM UTC"
-    publishedDateTime: 2020-05-05T11:12:00Z
-    webUrl: "https://www.morningstar.com/news/dow-jones/202005055147/avid-technology-shares-up-10-after-renewing-cloud-collaboration-with-microsoft"
+      name: GeekWire
+      domain: geekwire.com
+    quality: 67
+    images:
+      - url: "https://cdn.geekwire.com/wp-content/uploads/2020/04/teamtremor-630x353.png"
+        width: 630
+        height: 353
+        isCached: true
+  - title: "Arista Goes Big on Microsoft's SONiC Operating System"
+    excerpt: "Arista announced it was extending its support for the open-source SONiC network operating system (NOS). SONiC is a Linux-based operating system developed by Microsoft--initially for Azure--but Microsoft put it into the open-source community to broaden its usefulness."
+    publishedDateTime: 2020-05-11T12:03:00Z
+    webUrl: "https://www.eweek.com/networking/arista-goes-big-on-microsoft-s-sonic-operating-system"
     type: article
     provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 0
+      name: eWeek
+      domain: eweek.com
+    quality: 62
+    images:
+      - url: "https://www.eweek.com/imagesvr_ez/b2bezp/2019/03/Arista.logo.JPG?alias=social_image"
+        width: 560
+        height: 300
+        isCached: true
+  - title: "Timothy Horan: Microsoft little impacted by Covid-19 due to cloud strategy"
+    excerpt: "Timothy Horan, Oppenheimer Analyst, joins \"Closing Bell\" to discuss what happened in third quarter earnings for Microsoft."
+    publishedDateTime: 2020-04-29T21:07:00Z
+    webUrl: "https://www.cnbc.com/video/2020/04/29/timothy-horan-microsoft-little-impacted-by-covid-19-due-to-cloud-strategy.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 60
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106512839-cb200429timothyhoran.jpg?v=1588192896"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Why Aussie telcos are connecting voice services to Microsoft Teams"
+    excerpt: "Australian businesses got a third option for voice calling services through Teams, this time from Macquarie Telecom and Optus. Telstra has offered such a service for roughly two years and in March Vocus announced its own Teams service for its wholesale customers in Australia."
+    publishedDateTime: 2020-05-08T02:46:00Z
+    webUrl: "https://www.computerworld.com/article/3542777/why-aussie-telcos-are-connecting-voice-services-to-microsoft-teams.html"
+    ampWebUrl: "https://www.computerworld.com/article/3542777/why-aussie-telcos-are-connecting-voice-services-to-microsoft-teams.amp.html"
+    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3542777/why-aussie-telcos-are-connecting-voice-services-to-microsoft-teams.amp.html"
+    type: article
+    provider:
+      name: Computerworld
+      domain: computerworld.com
+    quality: 42
+    images:
+      - url: "https://images.idgesg.net/images/article/2019/09/microsoft_teams_security_considerations_mobile_messaging_collaboration_tools_thinkstock_511733570_virtual_technology_focus_security_radar_circular_brackets_by_xresch_cc0_via_pixabay-100810566-large.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "A Giant Pension Sold Apple, Microsoft, and Intel Stock. Here’s What It Bought."
+    excerpt: "The manager of Wisconsin’s pension also nearly doubled its investment in Uber stock in the first quarter. The pension is one of the largest in the U.S.—and, by some measures, one of the best."
+    publishedDateTime: 2020-05-09T10:00:00Z
+    webUrl: "https://www.barrons.com/articles/a-giant-pension-sold-apple-stock-microsoft-intel-bought-uber-51588871495"
+    ampWebUrl: "https://www.barrons.com/amp/articles/a-giant-pension-sold-apple-stock-microsoft-intel-bought-uber-51588871495"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/a-giant-pension-sold-apple-stock-microsoft-intel-bought-uber-51588871495"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 38
+    images:
+      - url: "https://images.barrons.com/im-184765/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Microsoft to invest $1.5 billion in Italy, new datacenter region coming in Milan"
+    excerpt: "Microsoft today announced a $1.5 billion 5-year investment plan in Italy. Microsoft also announced the first data center region coming to the country in Milan."
+    publishedDateTime: 2020-05-08T13:02:00Z
+    webUrl: "https://mspoweruser.com/microsoft-invest-1-5-billion-italy/"
+    ampWebUrl: "https://mspoweruser.com/microsoft-invest-1-5-billion-italy/amp/"
+    cdnAmpWebUrl: "https://mspoweruser-com.cdn.ampproject.org/c/s/mspoweruser.com/microsoft-invest-1-5-billion-italy/amp/"
+    type: article
+    provider:
+      name: MSPoweruser
+      domain: mspoweruser.com
+    quality: 37
+    images:
+      - url: "https://mspoweruser.com/wp-content/uploads/2020/05/Microsoft-Italy.jpg"
+        width: 890
+        height: 578
+        isCached: true
+  - title: "Microsoft to Open Cloud Region, Invest $1.5B In Italy"
+    excerpt: "Microsoft continues to ramp up its cloud infrastructure with plans to open a new data center region in Milan – its first in Italy -- as part of a $1.5 billion, five-year investment in the country"
+    publishedDateTime: 2020-05-11T22:58:00Z
+    webUrl: "https://www.crn.com/news/cloud/microsoft-to-open-cloud-region-invest-1-5b-in-italy"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 22
+    images:
+      - url: "https://www.crn.com/resources/025d-0f62b427e83a-33808bdb1efc-1000/cloud-hybrid-it-hand.jpg"
+        width: 610
+        height: 458
+        isCached: true
 
 secured: "9NVL+Rbx8Ly+j/90cafv28RFlRNylZ1XQJoXlzOsmEZ4yu5u9l9EN79IdgxQaGDmwLubDu/Kmr94XP1FvlGQpcCD3S1qBG/pF9Oj9kqeKJDi4tMlj3EB0357QciyZeYR1BNA8qXFWuRTbrI3JzKgx20nA1wXuEsrGRUn5b5D2pc+4dH/RMdvhUzdoIwXym3BXK+CWI4Mzkw8lEq/45PB+2pHkfrhC77KCdxkBvzLsqFsF6x4E3Adzqk1PAUcnRPIHQJovQd4WHIqn7Fw/K3/F/Lgu9crAzgYv3la7TJZHCv1grUU1gqmXSbtj5mLvPSsJtsHh//E6Maa7HGQxJuNx1I1ixNx+N3UjPfj46A0lAqbjc5AO3qMszsb8Svd4nlZiIcL4KMLtR2rgzvSSqkZkxWaD35lEVZzMxgPMtkXyGQx1RjNSjQTCYbTwFN2qurmGt7I/rLc7JbOEwD0SlPr9T6H1gWByV7vdhSViCmHGb4=;kzQLboYHUMxcnwTcuZmIPA=="
 ---

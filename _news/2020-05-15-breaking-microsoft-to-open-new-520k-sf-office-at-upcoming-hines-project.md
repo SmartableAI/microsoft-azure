@@ -24,6 +24,20 @@ images:
     title: "BREAKING: Microsoft To Open New 520K SF Office At Upcoming Hines Project"
 
 related:
+  - title: "Microsoft opening up another office in metro Atlanta, creating 1,500 new jobs"
+    excerpt: "Microsoft is investing $75 million that will create 1,500 new jobs. “We are excited that a global leader like Microsoft Corp. is expanding its investment in Georgia with tech jobs that will be truly beneficial to the company and our state,"
+    publishedDateTime: 2020-05-17T18:59:00Z
+    webUrl: "https://www.wsbtv.com/news/local/microsoft-opening-up-another-office-metro-atlanta-creating-1500-new-jobs/N7HHTTDBMFBEFEU7NVKFKXPT3U/"
+    type: article
+    provider:
+      name: WSB-TV
+      domain: wsbtv.com
+    quality: 19
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/cmg/COEABQVPO6FT5YXM563W5YSTQY.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Microsoft confirms 1,500 job expansion in Midtown, will occupy new project at Atlantic Station"
     excerpt: "Microsoft’s expansion has been discussed in economic development and real estate circles since last October, Atlanta Business Chronicle had previously reported."
     publishedDateTime: 2020-05-15T19:20:00Z

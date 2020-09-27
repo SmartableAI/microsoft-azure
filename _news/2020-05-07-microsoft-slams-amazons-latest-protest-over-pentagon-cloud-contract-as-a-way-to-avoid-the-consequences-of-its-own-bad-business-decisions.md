@@ -30,84 +30,104 @@ images:
     title: "Microsoft slams Amazon’s latest protest over Pentagon cloud contract as ‘a way to avoid the consequences of its own bad business decisions’"
 
 related:
-  - title: "Microsoft reportedly teamed up with Oracle to fend off Amazon for the Pentagon’s JEDI contract"
-    excerpt: "The Information revealed Monday how Microsoft had a “secret alley” — Oracle — to help land the coveted Joint Enterprise Defense Infrastructure contract, a $10 billion Pentagon project that"
-    publishedDateTime: 2020-05-11T21:55:00Z
-    webUrl: "https://www.geekwire.com/2020/microsoft-reportedly-teamed-oracle-fend-off-amazon-pentagons-jedi-contract/"
-    ampWebUrl: "https://www.geekwire.com/2020/microsoft-reportedly-teamed-oracle-fend-off-amazon-pentagons-jedi-contract/amp/"
-    cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/microsoft-reportedly-teamed-oracle-fend-off-amazon-pentagons-jedi-contract/amp/"
+  - title: "Amazon and Microsoft won’t stop beefing over the Pentagon’s $10B ‘war cloud’"
+    excerpt: "If the saga of the US gov's $10 billion 'war cloud' hadn't already devolved into a soap opera, the latest exchange between Microsoft and Amazon proves it."
+    publishedDateTime: 2020-05-08T12:44:00Z
+    webUrl: "https://thenextweb.com/hardfork/2020/05/08/pentagon-jedi-amazon-protest-microsoft-dod-10-billion-contract-deal-war-cloud/"
+    ampWebUrl: "https://thenextweb.com/hardfork/2020/05/08/pentagon-jedi-amazon-protest-microsoft-dod-10-billion-contract-deal-war-cloud/amp/"
+    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/hardfork/2020/05/08/pentagon-jedi-amazon-protest-microsoft-dod-10-billion-contract-deal-war-cloud/amp/"
     type: article
     provider:
-      name: GeekWire
-      domain: geekwire.com
-    quality: 70
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 79
     images:
-      - url: "https://cdn.geekwire.com/wp-content/uploads/2016/04/20160404_Envision_07-1240x828.jpg"
-        width: 1240
-        height: 828
+      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/05/2-people-doing-karate-during-sunset-62376-796x448.jpg"
+        width: 796
+        height: 448
         isCached: true
-  - title: "Amazon says big government JEDI award is 'fatally flawed' in latest rebuttal to Microsoft criticisms"
-    excerpt: "The JEDI, or Joint Enterprise Defense Infrastructure, deal worth up to $10 billion has become one of the most tangled contracts for the Department of Defense."
-    publishedDateTime: 2020-05-08T14:55:00Z
-    webUrl: "https://www.cnbc.com/2020/05/08/amazon-says-jedi-award-fatally-flawed-in-rebuttal-to-microsoft.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2020/05/08/amazon-says-jedi-award-fatally-flawed-in-rebuttal-to-microsoft.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/05/08/amazon-says-jedi-award-fatally-flawed-in-rebuttal-to-microsoft.html"
+  - title: "DoD: Pentagon okay in giving $10B ‘war cloud’ contract to Microsoft over Amazon"
+    excerpt: "The Pentagon’s watchdog has no real beef with the awarding of a $10 billion ‘war cloud’ contract to Microsoft over Amazon, despite admitting it can’t completely prove that Trump‘s White House didn’t interfere. In a massive 313-page report released Wednesday, the Defense Department‘s (DoD) inspector general deemed the contract’s ..."
+    publishedDateTime: 2020-04-16T16:58:00Z
+    webUrl: "https://thenextweb.com/hardfork/2020/04/16/dod-pentagon-okay-in-giving-10b-war-cloud-contract-to-microsoft-over-amazon/"
+    ampWebUrl: "https://thenextweb.com/hardfork/2020/04/16/dod-pentagon-okay-in-giving-10b-war-cloud-contract-to-microsoft-over-amazon/amp/"
+    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/hardfork/2020/04/16/dod-pentagon-okay-in-giving-10b-war-cloud-contract-to-microsoft-over-amazon/amp/"
     type: article
     provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 67
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 78
     images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106474164-1585941999885gettyimages-939960022.jpeg?v=1585942142"
-        width: 5253
-        height: 3502
+      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2018/11/Amazon-cloud-796x404.jpg"
+        width: 796
+        height: 404
         isCached: true
-  - title: "FedEx Teams Up With Microsoft to Fight Amazon. That’s Good for FedEx Stock."
-    excerpt: "Microsoft and FedEx announced an agreement to “transform e-commerce.” FedEx hopes to get a leg up in the delivery battle with Amazon."
-    publishedDateTime: 2020-05-18T14:30:00Z
-    webUrl: "https://www.barrons.com/articles/fedex-teams-up-with-microsoft-to-fight-amazon-thats-good-for-fedex-stock-51589815820"
-    ampWebUrl: "https://www.barrons.com/amp/articles/fedex-teams-up-with-microsoft-to-fight-amazon-thats-good-for-fedex-stock-51589815820"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/fedex-teams-up-with-microsoft-to-fight-amazon-thats-good-for-fedex-stock-51589815820"
+  - title: "Amazon continues to spar with Pentagon, Microsoft over ‘war cloud’ contract"
+    excerpt: "Microsoft and Amazon are competing for a $10 billion contract with the Department of Defense. Microsoft won the bid, but Amazon is arguing that decision."
+    publishedDateTime: 2020-05-12T19:02:00Z
+    webUrl: "https://mynorthwest.com/1869977/amazon-microsoft-war-cloud-contract/"
+    ampWebUrl: "https://mynorthwest.com/1869977/amazon-microsoft-war-cloud-contract/amp/"
+    cdnAmpWebUrl: "https://mynorthwest-com.cdn.ampproject.org/c/s/mynorthwest.com/1869977/amazon-microsoft-war-cloud-contract/amp/"
     type: article
     provider:
-      name: Barron's
-      domain: barrons.com
+      name: MyNorthwest.com
+      domain: mynorthwest.com
     quality: 40
     images:
-      - url: "https://images.barrons.com/im-188060/social"
-        width: 1280
-        height: 640
+      - url: "https://mynorthwest.com/wp-content/uploads/2017/07/Trump-and-Bezos-620.jpg"
+        width: 620
+        height: 370
         isCached: true
-  - title: "Microsoft claims AWS has used new JEDI mind trick with secret contract objection filing"
-    excerpt: "Amazon.com has filed a second, secret, appeal at the decision to award Microsoft the $10bn Pentagon Joint Enterprise Defense Infrastructure (JEDI) contract. So says Microsoft corp"
-    publishedDateTime: 2020-05-08T09:07:00Z
-    webUrl: "https://www.theregister.co.uk/2020/05/08/new_jedi_contract_objection/"
-    ampWebUrl: "https://www.theregister.co.uk/AMP/2020/05/08/new_jedi_contract_objection/"
-    cdnAmpWebUrl: "https://www-theregister-co-uk.cdn.ampproject.org/c/s/www.theregister.co.uk/AMP/2020/05/08/new_jedi_contract_objection/"
+  - title: "Amazon, Microsoft engage in heated public spat over USD 10 billion-worth Pentagon Cloud project"
+    excerpt: "While Amazon said that Microsoft has published multiple self-righteous and 'misleading' blog posts, the Satya Nadella-run firm said that 'such roadblock is disappointing but not surprising'."
+    publishedDateTime: 2020-05-09T05:42:00Z
+    webUrl: "https://www.newindianexpress.com/business/2020/may/09/amazon-microsoft-engage-in-heated-public-spat-over-usd-10-billion-worth-pentagon-cloud-project-2141152.html"
+    ampWebUrl: "https://www.newindianexpress.com/business/2020/may/09/amazon-microsoft-engage-in-heated-public-spat-over-usd-10-billion-worth-pentagon-cloud-project-2141152.amp"
+    cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/business/2020/may/09/amazon-microsoft-engage-in-heated-public-spat-over-usd-10-billion-worth-pentagon-cloud-project-2141152.amp"
     type: article
     provider:
-      name: The Register
-      domain: theregister.co.uk
-    quality: 34
+      name: The New Indian Express
+      domain: newindianexpress.com
+    quality: 30
     images:
-      - url: "https://regmedia.co.uk/2017/12/19/lightsaber.jpg"
-        width: 648
-        height: 432
+      - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2020/5/9/w600X390/Microsoft-Amazon.jpg"
+        width: 600
+        height: 390
         isCached: true
-  - title: "Amazon challenges the Pentagon’s revised JEDI solicitation directly to the department"
-    excerpt: "Amazon Web Services filed a bid protest directly to the Department of Defense challenging “ambiguous aspects” of the Pentagon’s revised solicitation for its embattled enterprise cloud contract. AWS’ challenge is in response to a revised solicitation from DoD regarding a specific technical requirement of the Joint Enterprise Defense Infrastructure cloud contract that AWS had challenged."
-    publishedDateTime: 2020-05-07T22:19:00Z
-    webUrl: "https://www.federaltimes.com/it-networks/cloud/2020/05/07/amazon-challenges-the-pentagons-revised-jedi-solicitation-directly-to-the-department/"
+  - title: "Amazon Files New Protest Over Pentagon's $10B JEDI Deal"
+    excerpt: "Amazon has filed a protest with the U.S. Department of Defense over the contentious $10 billion JEDI cloud computing deal, saying Thursday that the DOD had refused to answer questions about ambiguities in the solicitation."
+    publishedDateTime: 2020-05-08T01:09:00Z
+    webUrl: "https://www.law360.com/articles/1271571/amazon-files-new-protest-over-pentagon-s-10b-jedi-deal"
+    ampWebUrl: "https://www.law360.com/amp/articles/1271571"
+    cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1271571"
     type: article
     provider:
-      name: Federal Times
-      domain: federaltimes.com
-    quality: 15
+      name: Law360
+      domain: law360.com
+    quality: 22
+  - title: "Microsoft Authenticator for Android in the public cloud in China"
+    excerpt: "Microsoft Authenticator for Android in the public cloud in China. 05/06/2020; 2 minutes to read; In this article. The Microsoft Authenticator app for Android is available for down"
+    publishedDateTime: 2020-05-08T05:19:00Z
+    webUrl: "https://docs.microsoft.com/en-us/azure/active-directory/user-help/auth-app-android-china"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 22
     images:
-      - url: "https://www.armytimes.com/resizer/zPIx2t3S-cW9L6O4V1nUbDT6wsw=/1200x630/filters:quality(100)/arc-anglerfish-arc2-prod-mco.s3.amazonaws.com/public/SPQTUFFMHRFI7FZBGH36NHJ5MA.jpg"
-        width: 1200
-        height: 630
+      - url: "https://docs.microsoft.com/en-us/media/logos/logo-ms-social.png"
+        width: 400
+        height: 400
         isCached: true
+  - title: "Microsoft Surpasses $10 Billion Net Income On $35 Billion in Q1 2020 Revenue"
+    excerpt: "Cloud services helped Microsoft achieve its revenue goals, and COVID-19 had a \"minimal net impact on the total company revenue,\" a company announcement says."
+    publishedDateTime: 2020-05-13T18:34:00Z
+    webUrl: "https://www.mediapost.com/publications/article/350791/microsoft-surpasses-10-billion-net-income-on-35.html"
+    type: article
+    provider:
+      name: MediaPost
+      domain: mediapost.com
+    quality: 0
 
 secured: "LtJFTmetIxd9/BYpAhZR5jfVpKj4UHTUwp4a3QMVc0ezF1HpPtQ8ruMk0E3tWTcVYQPsmn8BSW/tO0QoSQGtDPC3YvCR08UxZ/VE9KAp930iGNe+DttsinKfbgbJ4FsSHD9WNM5o/bIWFmOWCZoPhaG7ei9uEOb6ZKi1kUInAHsd32ApNH5BPYD2SD/JfndpJ3eTF/nDAf8Nw/41PfQZFw6pjNnqmy4clNZfILfJ4fvUl1hB0XVVFrFy+p3vV5H1coXy+zqXPUAAOvjL3vBnCPyPmAojtSTukw/wIAMTx1elMSMxRWsUdMHX+Ht62MtQJrYJHabHVoCP1SfAUSx2kgZr0MkJ5LosXSJoDeWwCp0FPc2VHyo9PfnomjGGjHNpyB5GYN3GZMnkTBV1AsyPLaM6UltbA+0VK2677pyVmX7J+wiu4J/FT4cKi4t6MN27fb1uzhUrO3DS3nuWoxOMkNqFcosOy87jx/4rpX6qivw=;8Cj2vQiSZJrKeWLbdWCCsQ=="
 ---

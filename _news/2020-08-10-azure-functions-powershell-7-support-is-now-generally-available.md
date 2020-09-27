@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-10T20:39:42Z
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-functions-powershell-7-support-is-now-generally-available/"
 type: article
 quality: 67
-heat: 167
+heat: 127
 published: true
 
 provider:
@@ -21,37 +21,19 @@ topics:
   - Azure
 
 related:
-  - title: "Azure Data Box Disk is now generally available in South Africa and China"
-    excerpt: "Data Box Disk is GA in South Africa and China"
-    publishedDateTime: 2020-08-12T19:00:30Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-data-box-disk-is-now-generally-available-in-south-africa-and-china/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 66
-  - title: "Azure Data Share in-place sharing for Azure Data Explorer now generally available"
-    excerpt: "Share big data in-place easily, securely, and at no additional cost."
-    publishedDateTime: 2020-08-17T20:41:54Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-data-share-inplace-sharing-for-azure-data-explorer-now-generally-available/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 62
-  - title: "Windows 10 IoT Core Services are generally available"
-    excerpt: "Moving forward with Windows CE using the Windows CE App Container on Windows 10 IoT Core"
-    publishedDateTime: 2020-08-11T17:00:17Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/windows-10-iot-core-services-are-generally-available/"
+  - title: "PowerShell support in Durable Functions is in public preview"
+    excerpt: "Developers can now orchestrate complex automation workflows in Azure Functions using familiar language constructs in PowerShell 7"
+    publishedDateTime: 2020-08-19T16:00:12Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/powershell-support-in-durable-functions-is-in-public-preview/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
     quality: 52
-  - title: "Azure Support API is generally available"
-    excerpt: ""
-    publishedDateTime: 2020-04-17T17:00:00Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-support-api-is-generally-available/"
+  - title: "Azure Cosmos DB Management with PowerShell cmdlets is in public preview"
+    excerpt: "Now in preview, users can manage Azure Cosmos DB resources using a set of PowerShell cmdlets, available in the Az.CosmosDB Powershell module. The Az.CosmosDB module can be used with Windows PowerShell 5.1 as well as cross-platform PowerShell Core 6 or 7."
+    publishedDateTime: 2020-08-05T16:00:03Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-cosmos-db-management-with-powershell-cmdlets-is-in-public-preview/"
     type: article
     provider:
       name: Microsoft

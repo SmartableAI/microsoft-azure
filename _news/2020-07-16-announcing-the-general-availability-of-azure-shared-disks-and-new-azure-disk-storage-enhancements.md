@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-16T09:00:39Z
 originalUrl: "https://azure.microsoft.com/blog/announcing-the-general-availability-of-azure-shared-disks-and-new-azure-disk-storage-enhancements/"
 webUrl: "https://azure.microsoft.com/blog/announcing-the-general-availability-of-azure-shared-disks-and-new-azure-disk-storage-enhancements/"
 type: article
-quality: 58
+quality: 73
 heat: -1
 published: false
 

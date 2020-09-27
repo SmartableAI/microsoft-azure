@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/new-windows-virtual-desktop-capab
 webUrl: "https://azure.microsoft.com/blog/new-windows-virtual-desktop-capabilities-now-generally-available/"
 type: article
 quality: 72
-heat: 212
+heat: 192
 published: true
 
 provider:
@@ -60,15 +60,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 17
-  - title: "AKS-managed Azure Active Directory support is now generally available"
-    excerpt: "Azure Kubernetes Service (AKS)-managed Azure Active Directory (Azure AD) support is now generally available. "
-    publishedDateTime: 2020-07-21T16:00:56Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/aksmanaged-azure-active-directory-support-is-now-generally-available/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 17
   - title: "Remote Desktop client for Android now supports Windows Virtual Desktop connections"
     excerpt: "Access Windows Virtual Desktop from the new Remote Desktop client for Android."
     publishedDateTime: 2020-07-30T00:00:32Z
@@ -92,15 +83,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 12
-  - title: "Windows Virtual Desktop Azure portal and Microsoft Teams integrations are generally available"
-    excerpt: "It’s now easier to deploy and manage Windows Virtual Desktop as well as provide seamless meeting and collaboration experiences through integration with Microsoft Teams. "
-    publishedDateTime: 2020-07-28T22:14:54Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/windows-virtual-desktop-azure-portal-and-microsoft-teams-integrations-are-generally-available/"
+  - title: "Enable remote work faster with new Windows Virtual Desktop capabilities"
+    excerpt: "In the past few months, there has been a dramatic and rapid shift in the speed at which organizations of all sizes have enabled remote work amidst the global health crisis. Companies examining priorities and shifting resources with agility can help their employees stay connected from new locations and"
+    publishedDateTime: 2020-05-01T10:00:20Z
+    webUrl: "https://azure.microsoft.com/blog/enable-remote-work-faster-with-new-windows-virtual-desktop-capabilities/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 6
+    quality: 2
 
 secured: "gEokwEJy86VO/BOgyttIYsBAAgXoZwQ+QWJ1gADsoouDddHVJv/l3fB8eYP3GxNj18G6HNa6Fu23hHissM+0xUr+CTzTieTVdLVwuCdIeeY4SiJKMelQwmIvn/BF410TEZhzBX87Al2CXAcg3ItP5gLUm0F7RPk1ik1bxwlLOrMqqTt2H62YPf68AkjkCNKURsuiyKY6TyNLQKpt6uU4HUt/tbwp3UruxGQyNkuYbHSkBBnfoUA/kaaepwj0S51g6IWCX+HlJc9XpUNqiErunJv2JF12vWJrYy3RtnA1r50aFL5fxr0mm7vuRAAqruWPd325If+lN5g2XK1PE2WqXmTfnh5ySvLhu88VjR1+xTI=;bzZ1Vsbjsb4qQpv/AixhTg=="
 ---

@@ -26,22 +26,6 @@ images:
     title: "Netcracker Offers AI-Driven Digital BSS/OSS on Microsoft Azure"
 
 related:
-  - title: "Microsoft offers hackers $100K to break Azure Sphere"
-    excerpt: "Microsoft recently launched the Azure Sphere Research Challenge, offering approved security researchers up to a $100,000 reward for identifying dangerous exploits that could potentially impact the security of Azure Sphere,"
-    publishedDateTime: 2020-05-06T17:33:00Z
-    webUrl: "https://www.itpro.co.uk/cloud/microsoft-azure/355567/microsoft-offers-hackers-100k-to-break-azure-sphere"
-    ampWebUrl: "https://www.itpro.co.uk/cloud/microsoft-azure/355567/microsoft-offers-hackers-100k-to-break-azure-sphere?amp"
-    cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/cloud/microsoft-azure/355567/microsoft-offers-hackers-100k-to-break-azure-sphere?amp"
-    type: article
-    provider:
-      name: IT Pro
-      domain: itpro.co.uk
-    quality: 97
-    images:
-      - url: "https://media.itpro.co.uk//image/upload/v1588785400/itpro/AS.png"
-        width: 902
-        height: 602
-        isCached: true
   - title: "Microsoft to hackers: Break our Azure Sphere Linux IoT OS and earn up to $100k"
     excerpt: "Microsoft has launched the Azure Sphere Research Challenge, offering approved security researchers individual rewards of up to $100,000 for dangerous exploits that break the security of Azure Sphere,"
     publishedDateTime: 2020-05-05T16:00:00Z
@@ -122,20 +106,6 @@ related:
         width: 756
         height: 567
         isCached: true
-  - title: "Netcracker Offers AI-Driven Digital BSS/OSS to Microsoft Azure"
-    excerpt: "Netcracker Technology announced today it is working with Microsoft to offer its Digital BSS/OSS and Orchestration applications on Microsoft Azure."
-    publishedDateTime: 2020-05-12T13:00:00Z
-    webUrl: "https://www.marketwatch.com/press-release/netcracker-offers-ai-driven-digital-bssoss-to-microsoft-azure-2020-05-12"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 77
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Microsoft will pay up to $100,000 if you can hack Azure Sphere OS"
     excerpt: "Microsoft has announced a new bug bounty program to push the limits of Azure Sphere Linux OS. To that end, the company has announced “The Azure Sphere Research"
     publishedDateTime: 2020-05-08T13:00:00Z
@@ -152,34 +122,15 @@ related:
         width: 926
         height: 596
         isCached: true
-  - title: "Microsoft Challenges Security Researchers to Hack Azure Sphere"
-    excerpt: "Participants can earn up to $100,000 for finding severe flaws in Microsoft's Linux-based Azure Sphere IoT operating system."
-    publishedDateTime: 2020-05-05T21:54:00Z
-    webUrl: "https://www.darkreading.com/threat-intelligence/microsoft-challenges-security-researchers-to-hack-azure-sphere/d/d-id/1337739"
+  - title: "Microsoft And Amazon Pre-Earnings: A Look At The Numbers With Some Color Too"
+    excerpt: "Microsoft's June '20 quarter revenue estimate is 10% higher sequentially than the March '20 quarter - a positive and important tell. The slight downward negativ"
+    publishedDateTime: 2020-04-29T10:46:00Z
+    webUrl: "https://seekingalpha.com/article/4340852-microsoft-and-amazon-pre-earnings-look-numbers-color-too"
     type: article
     provider:
-      name: Dark Reading
-      domain: darkreading.com
-    quality: 37
-    images:
-      - url: "https://twimgs.com/nojitter/darkreading/dr-logo.jpg"
-        width: 600
-        height: 600
-        isCached: true
-  - title: "Microsoft Azure Sphere Security Research Challenge offers $100K bounty"
-    excerpt: "Microsoft has announced a $100,000 bounty for bug hunters who are able to discover specific vulnerabilities in two new areas of the company’s Azure Sphere."
-    publishedDateTime: 2020-05-06T16:01:00Z
-    webUrl: "https://www.scmagazine.com/home/security-news/vulnerabilities/microsoft-azure-sphere-security-research-challenge-offers-100k-bounty/"
-    type: article
-    provider:
-      name: SC Media
-      domain: scmagazine.com
-    quality: 37
-    images:
-      - url: "https://www.scmagazine.com/wp-content/uploads/sites/2/2018/08/microsoft41_1239455.jpg"
-        width: 700
-        height: 379
-        isCached: true
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 0
 
 secured: "6JuBsWW4SuS91ofpQqvvc5Lys0BkRhxXwa2+AweRUJpZBrDi0yk1nDyB57cR0ALvYiUE555+ZI1AnUbfYpUUx7cMj9RzL/SGYKoIFl5Qb8ADrVB+eoFjE17rsgUdS0dN9o1/jzXmSKfR5vYQuNfrEJYicxbtNIsZTLr4tnnaammfQCfpRYUyrpx4QWWuVuyuYpWC303Kkx67/Y//wvs0V1rvcQCxC/nftqpHhiDPS6ClyahGZuZNj03bbcNo+CC5RflXAvFgxpJGz2Eu8/qXnGDCtci+u5Wcz2p/g+LUMWW/aVG+cwzir3jE/RKgutxb;I6bmEewnbiYN0MlfbtlwBg=="
 ---

@@ -21,51 +21,66 @@ topics:
   - Azure
 
 related:
-  - title: "Azure Functions: PowerShell 7 support is now generally available"
-    excerpt: "Develop and deploy Azure Functions Apps for production scenarios using the latest version of PowerShell."
-    publishedDateTime: 2020-08-10T20:39:42Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-functions-powershell-7-support-is-now-generally-available/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 67
-  - title: "Azure Data Box Disk is now generally available in South Africa and China"
-    excerpt: "Data Box Disk is GA in South Africa and China"
-    publishedDateTime: 2020-08-12T19:00:30Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-data-box-disk-is-now-generally-available-in-south-africa-and-china/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 66
-  - title: "Azure Data Share in-place sharing for Azure Data Explorer now generally available"
-    excerpt: "Share big data in-place easily, securely, and at no additional cost."
-    publishedDateTime: 2020-08-17T20:41:54Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-data-share-inplace-sharing-for-azure-data-explorer-now-generally-available/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 62
-  - title: "Windows 10 IoT Core Services are generally available"
-    excerpt: "Moving forward with Windows CE using the Windows CE App Container on Windows 10 IoT Core"
-    publishedDateTime: 2020-08-11T17:00:17Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/windows-10-iot-core-services-are-generally-available/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 52
-  - title: "Azure Data Lake Storage Gen2 PowerShell and CLI are now generally available"
+  - title: "Azure Analysis Services calculation groups are now generally available"
     excerpt: ""
-    publishedDateTime: 2020-05-15T16:00:19Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-data-lake-storage-gen2-powershell-and-cli-are-now-generally-available/"
+    publishedDateTime: 2020-04-14T22:00:21Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/announcing-general-availability-ga-of-calculation-groups-in-azure-analysis-services/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 15
+    quality: 37
+    images:
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/0f9f89b3-100e-4d95-b715-e3b3f4e20492.gif"
+        width: 1290
+        height: 757
+        isCached: true
+  - title: "Azure Analysis Services—Improved query replica synchronization now available"
+    excerpt: ""
+    publishedDateTime: 2020-04-16T23:00:31Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/announcing-general-availability-ga-of-improved-query-replica-synchronization-in-azure-analysis-services/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 34
+    images:
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/2eee66bc-197a-4a22-97b3-a23d469d3f97.png"
+        width: 604
+        height: 492
+        isCached: true
+  - title: "Many-to-many relationships in Azure Analysis Services are now generally available"
+    excerpt: ""
+    publishedDateTime: 2020-04-14T22:00:22Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/announcing-general-availability-ga-of-manytomany-relationships-in-azure-analysis-services/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 32
+    images:
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/938e404c-6b8c-4d87-8795-119109f5f43e.png"
+        width: 553
+        height: 259
+        isCached: true
+  - title: "Azure Monitor for virtual machines is now generally available"
+    excerpt: ""
+    publishedDateTime: 2020-04-15T16:00:16Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-monitor-for-virtual-machines-is-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 17
+  - title: "Azure Analysis Services—Query interleaving is now generally available"
+    excerpt: ""
+    publishedDateTime: 2020-04-16T23:00:21Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/announcing-general-availability-ga-of-query-interleaving-for-azure-analysis-services/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 17
 
 secured: "8tospi4zjzRoAdAWBke4KI/CfLtiVnAaQ84aFdnHI4XfliwbMtQ4x1CLMYzd00WSzOWqaMii49THlFJDJM2G7NGmO2yq7e7veTvEOSmRO9ULcZpNbLW9qMIZNiTy3W0VJzmff93HIZOjA8DDoQ/thO3EBesmIw+yE3xchi149D+/QHAaxo42R6EY9chaz5T0GW+9yuMRAZkzwIuprEQr36m2C0YFtI11J6sjVMh+AttqUJmAg4W4USbtsBH49zdKGgWcM0SCczzTqwpuWt/LR2J0aDg76x5M1z43boZWJdZAbtjtmqjD0UQaLS4zrHyKo7tHsTaT6hl1VLN+EXuvGA==;USeJgxCUrytcLzcKfv9/kA=="
 ---

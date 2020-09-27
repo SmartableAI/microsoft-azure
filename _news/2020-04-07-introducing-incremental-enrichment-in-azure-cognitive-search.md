@@ -6,8 +6,8 @@ publishedDateTime: 2020-04-07T09:00:45Z
 originalUrl: "https://azure.microsoft.com/blog/introducing-incremental-enrichment-in-azure-cognitive-search/"
 webUrl: "https://azure.microsoft.com/blog/introducing-incremental-enrichment-in-azure-cognitive-search/"
 type: article
-quality: 91
-heat: 91
+quality: 106
+heat: 106
 published: true
 
 provider:

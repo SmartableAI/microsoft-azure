@@ -6,8 +6,8 @@ publishedDateTime: 2020-07-08T08:00:52Z
 originalUrl: "https://azure.microsoft.com/blog/azure-ai-build-missioncritical-ai-apps-with-new-cognitive-services-capabilities/"
 webUrl: "https://azure.microsoft.com/blog/azure-ai-build-missioncritical-ai-apps-with-new-cognitive-services-capabilities/"
 type: article
-quality: 84
-heat: 104
+quality: 99
+heat: 139
 published: true
 
 provider:
@@ -30,19 +30,37 @@ images:
     title: "Azure AI: Build mission-critical AI apps with new Cognitive Services capabilities"
 
 related:
-  - title: "Microsoft adds more APIs to its Azure Cognitive Services for developers"
-    excerpt: "Microsoft Corp. is adding more Cognitive Services application programming interfaces to its Azure cloud platform as it continues to expand its array of artificial intelligence services."
-    publishedDateTime: 2020-07-09T00:07:00Z
-    webUrl: "https://siliconangle.com/2020/07/08/microsoft-adds-apis-azure-cognitive-services-developers/"
+  - title: "Microsoft continues to build out its Azure Cognitive Services API family"
+    excerpt: "Microsoft is adding a new healthcare-focused text analytics interface to its family of AI programming interfaces, and it's making generally available Custom Commands and Form Recognizer APIs, as well."
+    publishedDateTime: 2020-07-08T15:01:00Z
+    webUrl: "https://www.zdnet.com/article/microsoft-continues-to-build-out-its-azure-cognitive-services-api-family/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-continues-to-build-out-its-azure-cognitive-services-api-family/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-continues-to-build-out-its-azure-cognitive-services-api-family/"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 37
+      name: ZDNet
+      domain: zdnet.com
+    quality: 96
     images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/07/16510342158_185f09969a_k.jpg"
-        width: 2048
-        height: 1365
+      - url: "https://zdnet4.cbsistatic.com/hub/i/2020/07/08/780add4e-19a4-463d-8d25-3a96f4f2afde/cognitiveservicesmicrosoft.jpg"
+        width: 781
+        height: 494
+        isCached: true
+  - title: "Microsoft announces new Azure AI capabilities for apps, healthcare, and more"
+    excerpt: "The latest announcements will help companies enhance their voice-enabled application experiences and provide critical data management across healthcare industries."
+    publishedDateTime: 2020-07-08T20:50:00Z
+    webUrl: "https://www.techrepublic.com/article/microsoft-announces-new-azure-ai-capabilities-for-apps-healthcare-and-more/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/article/microsoft-announces-new-azure-ai-capabilities-for-apps-healthcare-and-more/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-announces-new-azure-ai-capabilities-for-apps-healthcare-and-more/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 94
+    images:
+      - url: "https://tr4.cbsistatic.com/hub/i/r/2020/06/10/27946bf8-707b-4774-8f90-fe1121ea78b4/resize/1200x/57eed99cd6ea6ce4842383677842ede0/artificial-intelligence-image.jpg"
+        width: 1200
+        height: 836
         isCached: true
 
 secured: "fuE0vl9Sj5M33Uv/feGmoxXurWXf3uJnB83ARmMB8S6btODlUMOnLFj6dK0GFYjqGnAbr3SBnz3ewbzpT/lpMB/LrSUsg80bJK7YDZ+jiCYASe0Ab3/Z3P6UZtdS0fVFhJI0H2cH7WrtJOGowpdeiEfkuLIS2/YUeg+HTSbsoR8K6y7aPvMhjRcBMO+1w55QRe0f2OEw5VyF/3eiUjL/1Vi9TMTYM7uTx5HoNwMa9KeXKrpaNKVKvsiJQe2FqJM3G4E3XR8PYcNd/o1ELAs49nGdvqfL9nCulBreaM5jFq8M2pcMD+cmmSTuPdSdwRUOLjJ082vnNR6lELRVpYlngguarcfxKLwrSl8e6Gnoxm4=;xb69cWOStGO3d9swf3EwcA=="

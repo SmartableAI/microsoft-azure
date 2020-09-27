@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/azure-maps-creator-now-available-
 webUrl: "https://azure.microsoft.com/blog/azure-maps-creator-now-available-in-preview/"
 type: article
 quality: 93
-heat: 553
+heat: 333
 published: true
 
 provider:
@@ -74,34 +74,6 @@ related:
         width: 347
         height: 549
         isCached: true
-  - title: "A new consolidated API version in Azure Monitor Logs is now available"
-    excerpt: ""
-    publishedDateTime: 2020-06-08T16:00:33Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/new-consolidated-api-version-in-for-log-analytics/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 37
-    images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/55f9101b-07a0-4e94-b8aa-802abda1d4df.png"
-        width: 640
-        height: 386
-        isCached: true
-  - title: "Microsoft previews Azure Maps Creator to enable indoor location apps and AR"
-    excerpt: "Microsoft Corp. today announced the preview of Azure Maps Creator, a new tool in its public cloud platform that will enable companies to create custom indoor maps for use cases su"
-    publishedDateTime: 2020-06-01T18:50:00Z
-    webUrl: "https://siliconangle.com/2020/06/01/microsoft-previews-azure-maps-creator-enable-indoor-location-apps-ar/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 35
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/06/hololens2-768x512.jpg"
-        width: 768
-        height: 512
-        isCached: true
   - title: "Backup Explorer now available in preview"
     excerpt: "As organizations continue to expand their use of IT and the cloud, protecting critical enterprise data becomes extremely important. And if you are a backup admin on Microsoft Azure, being able to efficiently monitor backups on a daily basis is a key requirement to ensuring that your organization has"
     publishedDateTime: 2020-02-05T08:00:05Z
@@ -116,37 +88,10 @@ related:
         width: 1024
         height: 693
         isCached: true
-  - title: "Azure Monitor for VMs is now in preview in US Gov Virginia"
-    excerpt: ""
-    publishedDateTime: 2020-05-26T18:00:13Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-monitor-for-vms-is-now-available-in-us-gov-virginia/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 17
-  - title: "Azure DevTest Labs environments are now available in Azure Government"
-    excerpt: ""
-    publishedDateTime: 2020-05-27T16:00:03Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-devtest-labs-environments-are-now-available-in-azure-government/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 17
-  - title: "Azure DevTest Labs is now available in Switzerland regions"
-    excerpt: ""
-    publishedDateTime: 2020-05-27T16:00:01Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-devtest-labs-is-now-available-in-switzerland-regions/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 17
-  - title: "Azure Service Health—Emerging issues now available "
+  - title: "Azure Advisor recommendation digests now availab"
     excerpt: ""
     publishedDateTime: 2020-05-27T16:00:06Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-service-health-emerging-issues-now-available/"
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-advisor-recommendation-digests-now-availab/"
     type: article
     provider:
       name: Microsoft
@@ -165,24 +110,6 @@ related:
     excerpt: ""
     publishedDateTime: 2020-05-30T16:00:19Z
     webUrl: "https://azure.microsoft.com/en-us/updates/opinion-mining-is-now-available-in-text-analytics-in-public-preview/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 17
-  - title: "Azure Database for MariaDB  is now available in the France South region"
-    excerpt: ""
-    publishedDateTime: 2020-06-01T16:00:11Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-database-for-mariadb-is-now-available-in-the-france-south-region/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 17
-  - title: "Azure Database for MySQL is now available in France South"
-    excerpt: ""
-    publishedDateTime: 2020-06-01T16:00:11Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-database-for-mysql-is-now-available-in-france-south/"
     type: article
     provider:
       name: Microsoft
@@ -224,51 +151,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 16
-  - title: "Minimal TLS version setting is now available for Azure Database for MySQL"
-    excerpt: ""
-    publishedDateTime: 2020-06-04T17:00:27Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-database-for-mysql-minimal-tls-version/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 16
-  - title: "Minimal TLS version setting is now available for Azure Database for MariaDB"
-    excerpt: ""
-    publishedDateTime: 2020-06-04T17:00:49Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-database-for-mariadb-minimal-tls-version/"
+  - title: "Azure Private Link support for Azure Automation is now available in preview"
+    excerpt: "You can now use Azure Private Link to securely connect virtual networks to Azure Automation using private endpoints (in preview)."
+    publishedDateTime: 2020-07-09T23:00:06Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-private-link-azure-automation-is-now-available/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
     quality: 15
-  - title: "Azure Database for PostgreSQL—Single Server now available in the France South region"
-    excerpt: ""
-    publishedDateTime: 2020-05-27T16:00:09Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-database-for-postgresql-single-server-now-available-in-the-france-south-region/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 10
-  - title: "HBv2-Series VMs now available in West US 2"
-    excerpt: ""
-    publishedDateTime: 2020-06-03T17:00:13Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/hbv2series-vms-now-available-in-west-us-2/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 2
-  - title: "Windows Virtual Desktop media optimization for Microsoft Teams is now available in preview"
-    excerpt: ""
-    publishedDateTime: 2020-05-29T21:00:33Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/windows-virtual-desktop-media-optimization-for-microsoft-teams-is-now-available-in-public-preview/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 0
 
 secured: "7ThyBXxqqrNbBmm6CGt2+MISfMmZHNmt0TpTtvLQFWEVBj8/WC6jbeKEZU/H+waLys4wxRXCtIRz1EBmrhCLcF4A8mf4oDpnCxxRK8rXvJxb1x8TafTGXdCXipdOsTYYQNroP+5oIBhHmFBqnBeGC8c34TZzvD/bPzFl75heg3j02bR0WSklk2DnuIMrvlAmVOdHmVg6ZSsYJn136StxyrU2sabMrScciDqJWaPPjH6BfPh/xgU/NL8xTqccoHYhF9G1exdS0QyDlEUvRROTRrPe2NJsya2htM5KYDlSkQb0WnThvxEJDPGXlQ3fowFkjm4NF5MiZe1vwSKkkFQrUVh6h+J8i5gyt5swg7fzsto=;ThxkshsYCngcN/62y5Hztw=="
 ---

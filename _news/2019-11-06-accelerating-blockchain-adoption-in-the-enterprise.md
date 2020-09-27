@@ -22,20 +22,15 @@ topics:
   - Blockchain
 
 related:
-  - title: "Accelerating customer success with Azure migration"
-    excerpt: "This blog post was co-authored by Jeremy Winter, Partner Director and Tanuj Bansal, Senior Director for Microsoft Azure.\r\n\r\nAt last year's Microsoft Ignite 2018, we shared best practices on how to move to the cloud and why Azure is the best destination for all your apps, data, and infrastructure. Since"
-    publishedDateTime: 2019-11-07T07:00:09Z
-    webUrl: "https://azure.microsoft.com/blog/accelerating-customer-success-with-azure-migration/"
+  - title: "Introducing Corda Enterprise on Azure Blockchain Service"
+    excerpt: "Providing our customers with choice and flexibility is central to our mission around blockchain in Azure. Today, we are pleased to introduce that we're bringing managed Corda Enterprise to Azure Blockchain Service.\r\n\r\nThe road to Corda Enterprise on Azure as a managed service\r\n\r\nIn 2016, Microsoft and"
+    publishedDateTime: 2019-10-23T08:00:05Z
+    webUrl: "https://azure.microsoft.com/blog/introducing-corda-enterprise-on-azure-blockchain-service/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 54
-    images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/c07dd130-775c-4091-a648-dd290c678f17.jpg"
-        width: 1280
-        height: 720
-        isCached: true
+    quality: 34
 
 secured: "9bKU5vatOOSlM9huEPVkhdvWRC9VLDiiAF+HZRJBmvpKAEikbC3cMt174yexoUuOZD8Uy8mMDF+Qlfh4d6GdH8kr59OHfssFyqgmJPpkpOW5Xy8bEBQ5tJoo0/U7bSsKjO9poCEwYePire8jG6llJl0GOB9yQPTCqzo3PJO02uDvfEAz/0uAXd0mA6UeE2P7GSZNXS+5g99RYf8oxsIbJF8TX4VokyWv2Wfi6SQkmKAWh+39V0jKlAuMddBCamuGaFhC4BQIWHwB5pr6V/N8DA3yVsqPxJStuHRl0DPua5uhD+GmHucRSAydAP68icS6qcQQ9RGskCeLTW7Zh/qf1A==;POOt/5MrqdVj84Q0pXENBw=="
 ---

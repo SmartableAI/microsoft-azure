@@ -7,8 +7,8 @@ originalUrl: "https://azure.microsoft.com/blog/mixed-reality-momentum-hololens-2
 webUrl: "https://azure.microsoft.com/blog/mixed-reality-momentum-hololens-2-expands-globally-and-new-azure-service-launches/"
 type: article
 quality: 61
-heat: 61
-published: false
+heat: 81
+published: true
 
 provider:
   name: Microsoft
@@ -20,6 +20,22 @@ provider:
 
 topics:
   - Azure
+
+related:
+  - title: "HoloLens 2 expands markets; Azure mixed reality services now broadly available"
+    excerpt: "\r\n“When the intelligent cloud and intelligent edge are imbued with mixed reality and artificial intelligence, we have a framework for achieving amazing things and empowering even more people.” - Satya Nadella, Microsoft CEO speaking at the HoloLens 2 launch\r\n\r\n\r\nAt Microsoft Build 2020, we shared some"
+    publishedDateTime: 2020-05-20T09:00:28Z
+    webUrl: "https://azure.microsoft.com/blog/hololens-2-expands-markets-azure-mixed-reality-services-now-broadly-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 33
+    images:
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/8a5121d3-a63b-43d7-9fd0-2296e66f85f9.jpg"
+        width: 585
+        height: 383
+        isCached: true
 
 secured: "ZPYJubJozxpZ+T8LZUqu4c343E1zLbOiDQuvsqM7Tf55vVXOrA/jC3ieW6dtzfAJZgGYPHClxdn7JxWZbVOmZHzwD9OnNgJ6lTAur4WDVILFkzEun6+38DyGrX85R1dn+30Ch5bL2HjeQTmd2pV9PHyxvGdAcHKQpwAAgU9IjdIlQ7AcVP2YaIP5Rvi7HQGHtrKAqZaM+cN+hSXLrAsngvUvTYCzVoqpdV+G6HXdJjUX+XOvnUEGeryLhiWYrX8qSsWJDx+axaPGW4TpuY6nQ1alt8sOwyXuTyqCX7Tgz6Ap0XaHShzfsVgikmR34QO1I+JiFA1sxz1s6nFrxp/1TU7fNni0ZXREFYTXhXFQLps=;6qQUNkurJ3iTlP+xU5bqEg=="
 ---

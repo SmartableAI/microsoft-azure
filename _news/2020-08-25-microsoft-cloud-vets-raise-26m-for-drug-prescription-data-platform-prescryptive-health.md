@@ -30,21 +30,19 @@ images:
     isCached: true
 
 related:
-  - title: "Universal Shifting to Microsoft’s Azure Cloud Platform for Live-Action, Animation Production"
-    excerpt: "The company has embarked on a major multiyear strategy to move its studios’ film and TV production from in-house servers to the Microsoft Azure cloud computing platform. The goal is to let ..."
-    publishedDateTime: 2020-08-21T08:00:00Z
-    webUrl: "https://variety.com/2020/digital/news/universal-microsoft-azure-cloud-production-1234743076/#!"
-    ampWebUrl: "https://variety.com/2020/digital/news/universal-microsoft-azure-cloud-production-1234743076/amp/"
-    cdnAmpWebUrl: "https://variety-com.cdn.ampproject.org/c/s/variety.com/2020/digital/news/universal-microsoft-azure-cloud-production-1234743076/amp/"
+  - title: "ATO taps Data#3 for $3.5 million Microsoft cloud deal"
+    excerpt: "The Australian Taxation Office has struck up a contract with Data#3 for the provision of cloud infrastructure. The one-year renewal has been listed as a $3.5 million investment from the tax office, which will see it continue to procure Microsoft Azure Cloud Services from the Brisbane-based IT provider."
+    publishedDateTime: 2020-08-28T02:02:00Z
+    webUrl: "https://www.crn.com.au/news/ato-taps-data3-for-35-million-microsoft-cloud-deal-552551"
     type: article
     provider:
-      name: Variety
-      domain: variety.com
-    quality: 46
+      name: CRN Australia
+      domain: crn.com.au
+    quality: 22
     images:
-      - url: "https://pmcvariety.files.wordpress.com/2020/08/universal-microsoft-azure.png?w=1016"
-        width: 1016
-        height: 571
+      - url: "https://i.nextmedia.com.au/News/20200828115619_crn_14_data3newoffice.jpg"
+        width: 1400
+        height: 900
         isCached: true
 
 secured: "cbbMgnHxh2F3YhMRKTU7qDSM3vKKCJCQmFZO3/YqxVoOXfSaZGJRz+Jnv0BJceE+Fm4imRaIcFVDVPYi8hepxkCcNJFr7QSU11GEZOZSAGH0NWBVfkumu5CwpfSENE4NtMEkvgvVnPx10hycfaFMCVxOiZTQxnduP3knfg0gBavU4ylSsSaDP1XAvlJx+lTM9idSzJS9N4isSzbjziJif8oBrqRNJt3nUej9c3ntz17aehsGsolX13rEwF/DeSM7qHhMsZZ4/C7Dfd7xq+g64cj/EO8pPVySPYI+g3Bk3AlK3YbWcljjvQRNBRZYbU89L971SylB0ySGSMxIiTVd5V/D/QBYUdZ6qjPOs6HmJVsKd353NP2iVDd1Ishxy9zP0L/4Yof91k+/ABA4UvbNzbcY8f44crkR8E46lPnro3Ag0yGUIP3aNQ3tk0YesfnOfqweYpAMt0OZJpvZXID+fOdwUgSjq36myrCQz6utNUjDQt2WnXMRkQ0hA9GqZaRWXpYh4CPkbMzifNncqg7I4A==;oMwEj2mNt7IMRglAMYWcNA=="

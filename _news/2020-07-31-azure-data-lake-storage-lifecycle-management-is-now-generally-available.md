@@ -21,29 +21,33 @@ topics:
   - Azure
 
 related:
-  - title: "Multi-protocol access on Data Lake Storage now generally available"
-    excerpt: "We are excited to announce the general availability of multi-protocol access for Azure Data Lake Storage. Azure Data Lake Storage is a unique cloud storage solution for analytics that offers multi-protocol access to the same data. This is a no-compromise solution that allows both the Azure Blob Storage"
-    publishedDateTime: 2019-11-26T13:00:34Z
-    webUrl: "https://azure.microsoft.com/blog/multi-protocol-access-on-data-lake-storage-now-generally-available/"
+  - title: "Azure Blob storage lifecycle management now supports append blobs"
+    excerpt: "In addition to supporting block blobs, Azure Blob storage lifecycle management now offers a rich, rule-based policy to manage the retention of your append blobs."
+    publishedDateTime: 2020-09-17T20:00:12Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-blob-storage-lifecycle-management-now-supports-append-blobs/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 24
-    images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/b83238b4-dba1-4651-8eac-217459a4b753.png"
-        width: 1024
-        height: 471
-        isCached: true
-  - title: "Filesystem SDKs for Azure Data Lake Storage Gen2 now generally available"
-    excerpt: "Since the general availability of Azure Data Lake Storage (ADLS) Gen2 in Feb 2019, customers have been getting insights for their big data analytics workloads at cloud scale. Integration to analytics engines is critical for their analytics workloads, and equally important is the ability to programmatically"
-    publishedDateTime: 2020-03-19T09:00:12Z
-    webUrl: "https://azure.microsoft.com/blog/filesystem-sdks-for-azure-data-lake-storage-gen2-now-generally-available/"
+    quality: 67
+  - title: "Azure Blob storage point-in-time restore now generally available"
+    excerpt: "Azure Blob storage point-in-time restore provides continuous data protection and restoration capabilities for block blob data. This extends protection features to provide an easy way to restore to a previous date/time"
+    publishedDateTime: 2020-09-23T23:21:14Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-blob-storage-pointintime-restore-now-generally-available/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 20
+    quality: 67
+  - title: "Azure Blob access time tracking and access time-based lifecycle management preview "
+    excerpt: "The preview is available in France Central, Canada East, and Canada Central regions."
+    publishedDateTime: 2020-09-17T21:00:12Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-blob-access-time-tracking-and-access-timebased-lifecycle-management-preview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 61
 
 secured: "2tRkkQ3Fl8MVYYVRCHEKJATBsG1v0UkkG4YuwmJIM9Bz9vWyXbiuT5BbxuWKzC74za4Qc4s8ROPfIIIKRG89cfVAlQ1gSGsot5ZX5YRDY6JzzccpFYOPKhaVcQKUMlUjJaOfe1HtFtO1YcBInjTMus1uSr+WxxqylYopthDxmKJtE6DsnZ54nXFph7gDNRJSMVdWsRifZ0PzXzCgXgG2xx2f1YkdR23W1T5WaDrHPjOFFmZRA73eKiBeSXTU1MpnqGhtUDICzhWDywWijVHOo2r1ciplUiqPvLh76c/szUxPXkmkAJWIFuwcsw4Gvqf5wSYbwIzklSLkwWdoEIuyww==;ev7IN6zGSK4sZI064tq5pQ=="
 ---

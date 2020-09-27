@@ -29,19 +29,21 @@ images:
     isCached: true
 
 related:
-  - title: "Train to Become a Certified Cloud Professional in AWS, Azure, Google Cloud, and CompTIA"
-    excerpt: "Much like the last course, this one also prepares you for a valuable professional examination. The AZ-900: Microsoft Azure Fundamentals exam is designed for candidates looking to demonstrate foundational-level knowledge of cloud services and how those ..."
-    publishedDateTime: 2020-07-22T13:44:00Z
-    webUrl: "https://www.ign.com/articles/train-to-become-a-certified-cloud-professional-in-aws-azure-google-cloud-and-comptia"
+  - title: "Arup Group CIO on selecting AWS, GCP, Azure and Alibaba for its multi-cloud strategy"
+    excerpt: "Arup CIO Rob Greig talks us through his strategy for multi-cloud, including how he ensures he has the right skills across the organisation.  Arup, is a global professional services firm, headquartered in London,"
+    publishedDateTime: 2020-05-18T09:59:00Z
+    webUrl: "https://diginomica.com/arup-group-cio-selecting-aws-gcp-azure-and-alibaba-its-multi-cloud-strategy"
+    ampWebUrl: "https://diginomica.com/arup-group-cio-selecting-aws-gcp-azure-and-alibaba-its-multi-cloud-strategy?amp"
+    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/arup-group-cio-selecting-aws-gcp-azure-and-alibaba-its-multi-cloud-strategy?amp"
     type: article
     provider:
-      name: IGN
-      domain: ign.com
-    quality: 29
+      name: Diginomica
+      domain: diginomica.com
+    quality: 50
     images:
-      - url: "https://assets1.ignimgs.com/2020/07/22/sale-31344-article-image-1595422739070.jpg?width=1280"
-        width: 1280
-        height: 720
+      - url: "https://diginomica.com/sites/default/files/images/2020-05/485CFCDD-1ECC-403A-9C1B-C9BC555F9F09.jpeg"
+        width: 2000
+        height: 1125
         isCached: true
 
 secured: "WC5KTGvt1QaV/ZWy0ZW97E5Wt0qj/424aEEdiYMKXMNg1J4lUkxZ2vgkqfTeARsINDwZ4j/uZFmo+hHUgCOBJ8bW136MAfMSlncHUxry1jzd2Ns5ZVeuiHN4iMW+QVxSC0SEEB85Cb4PcOHiHwj936GLAoCOZ1ypRadzZym4FEb09/U9XtnS1ozZYPmsGXzFIebEK3KboS9UoaiyguhdaVNZ78mnN3FOWVe4bgAgos5zwV0rQJApFe9S8zZchtzAbZtAckQ3fOTdn/8rNr6746DmEAjPyDmLFTMCzx5YJ+/gFoktGCrM3uiOugeVeqwqrY58k63fGqwVUnD0ZiWZ6w==;B24tXmOhB1TJP/cP5hP86A=="

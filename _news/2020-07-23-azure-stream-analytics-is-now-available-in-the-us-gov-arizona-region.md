@@ -21,65 +21,43 @@ topics:
   - Azure
 
 related:
-  - title: "AMD-based memory-optimized Azure virtual machines now available in more regions"
-    excerpt: "Today, we're announcing the expanded availability of these virtual machine (VM) sizes in new Azure regions and support for additional Availability Zones."
-    publishedDateTime: 2020-07-16T08:00:39Z
-    webUrl: "https://azure.microsoft.com/blog/amd-based-memory-optimized-azure-virtual-machines-now-available-in-more-regions/"
+  - title: "Azure Time Series Insights Gen2: Leading the next generation of industrial IoT analytics platforms"
+    excerpt: "Azure Time Series Insights Gen2—a fully managed IoT analytics platform is now generally available today. With Azure Time Series Insights Gen2, you can explore and analyze billions of contextualized events across millions of sensors."
+    publishedDateTime: 2020-07-16T12:00:41Z
+    webUrl: "https://azure.microsoft.com/blog/azure-time-series-insights-gen-2-leading-the-next-generation-of-industrial-iot-analytics-solutions/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 33
+    quality: 107
     images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/d92493a1-f2b7-43cc-aac0-2fb16327579f.png"
-        width: 600
-        height: 542
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/5f45b0b1-c717-4967-b855-55833068b919.png"
+        width: 1024
+        height: 572
         isCached: true
-  - title: "Azure Data Box Disk is now available in China"
-    excerpt: "Azure Data Box Disk is now available for preview in the China East, China East 2, China North, and China North 2 regions. "
-    publishedDateTime: 2020-07-13T22:00:04Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-data-box-disk-is-now-available-in-china/"
+  - title: "Save up to 76 percent on Azure Synapse Analytics and gain breathtaking insights of your ERP data"
+    excerpt: "To help customers save on data warehouse migration costs and accelerate time-to-insight on critical SAP data, we are announcing two new analytics offers from Azure Synapse Analytics."
+    publishedDateTime: 2020-07-15T09:00:28Z
+    webUrl: "https://azure.microsoft.com/blog/save-up-to-76-percent-on-azure-synapse-analytics-and-gain-breathtaking-insights-of-your-erp-data/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 24
+    images:
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/2f43204b-76ea-4b9b-b1cb-18a606a9fbea.png"
+        width: 1008
+        height: 563
+        isCached: true
+  - title: "Azure Time Series Insights Gen2 is now generally available"
+    excerpt: "Azure Time Series Insights Gen2, our pay-as-you-go IoT Analytics offering, is now generally available and features a number of new capabilities that are powerful, yet simple to use:"
+    publishedDateTime: 2020-07-21T22:00:36Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-time-series-insights-gen2-is-now-generally-available/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
     quality: 17
-  - title: "Azure Red Hat OpenShift on OpenShift 4.4 now available"
-    excerpt: "Red Hat OpenShift 4.4 is now available on Azure Red Hat OpenShift."
-    publishedDateTime: 2020-07-21T16:00:46Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-red-hat-openshift-on-openshift-44-now-available/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 17
-  - title: "Azure ultra disks are now available in the US Gov Arizona region"
-    excerpt: "Azure ultra disks are now available in the US Gov Arizona region."
-    publishedDateTime: 2020-07-21T16:01:51Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-ultra-disks-are-now-available-in-the-us-gov-arizona-region/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 17
-  - title: "Shared disks in Azure Disk Storage are now available"
-    excerpt: "Shared disks are now available in Azure Disk Storage—the only shared block storage in the cloud that supports both Windows and Linux-based clustered or high-availability applications."
-    publishedDateTime: 2020-07-21T16:01:30Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/shared-disks-in-azure-disk-storage-are-now-available/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 17
-  - title: "New general purpose and memory-optimized Azure Virtual Machines with Intel now available"
-    excerpt: "Today we're announcing the availability of new general purpose and memory-optimized Azure Virtual Machines based on the 2nd generation Intel Xeon Platinum 8272CL (Cascade Lake). This custom processor runs at a base speed of 2.5GHz and can achieve all-core turbo frequency of 3.4GHz. It features Intel®"
-    publishedDateTime: 2020-06-15T09:00:47Z
-    webUrl: "https://azure.microsoft.com/blog/new-general-purpose-and-memoryoptimized-azure-virtual-machines-with-intel-now-available/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 8
 
 secured: "AVSdUSbgNNCr6Nlw+D+jHFxCBZOP5sYGLMLAiqj6Xx3Cc/dgiuuBbXuTnxHcGtMEcpAZ7iY56tBzYUE8AxEsYwDfEz/U9f8tWvZNqsP9cf8P6zjyYyhmShy11ONTmTYl2148NJDh4y+2CLH2tDzVZIMgmFxyx4Eazv/ijs5TXAVKCmdy7FOmXppb8W17WiGl28F76V5R4GK0rO/sCM8EFcs+EIbhMeKUzjBjIOmh9RkmTNic2M8Boh06ZRF403jaXCDPVk6R0ecSAFIZdva0m0Fjxd/HbwoR+yxJOZuY5EZYu/x6vgdoC6wZNMbWzvLZYbKFbarSBijedA+KuNj55g==;ZF2IkNVvm6nurw94KvLW3A=="
 ---

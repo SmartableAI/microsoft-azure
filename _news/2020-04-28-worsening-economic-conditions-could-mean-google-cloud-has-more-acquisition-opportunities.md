@@ -42,6 +42,34 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Cloud Backup Market Analysis, Evolving Opportunities Studied for the Period Until 2025 +CAGR of 23.8%"
+    excerpt: "Global Cloud Backup Market was valued at USD 1.7 Billion in the year 2017. Global Cloud Backup Market is further"
+    publishedDateTime: 2020-04-28T11:11:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cloud-backup-market-analysis-evolving-opportunities-studied-for-the-period-until-2025-cagr-of-238-2020-04-28"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 47
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global Cloud Gaming Market 2020 (Edition:2020) Outstanding Growth - NVIDIA Corporation, Amazon Web Services Inc and Microsoft Corporation"
+    excerpt: "Global Cloud Gaming Market (Revenue and Volume), Type, Application, End-User, and Regional Analysis, Import-Export Analysis, Industry Analysis, Premium Insights, Intellectual Property Analysis, Market Attractiveness,"
+    publishedDateTime: 2020-04-29T09:38:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-cloud-gaming-market-2020-edition2020-outstanding-growth---nvidia-corporation-amazon-web-services-inc-and-microsoft-corporation-2020-04-29"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 29
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "qBtLFARo8EyTTt3G+LRQbw7DmshmNnjF+a69d9K11fsJF/NnsegTEwKg9ZW8Hl2JXO5pnsYpxjHWyVCWty7zrmor9N3FRFL6hZe1uWQ7BRTCV2yh0JNuacCXnv8P4Y90kI2zvV2fAstmfrwKknBoEUNzMu2yxJmm+WLMmUOLzgwAOBVxjsP+6Bd7tJMpvuqhrh6K3DQDDqKg/xILVcNTvpUKaC3NDc1W3Vd9kozprWavLi70RkCShI5ZfP3z0RqyjqSuiGB8GBwNSOMfTkLq2R6/SRJ4VicEaHFyqy12gf7DUMoPDP73//1hy1KBB2Fj;A5w2lb92vUMNqd2aQ7LDNw=="
 ---

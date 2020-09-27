@@ -22,110 +22,106 @@ topics:
   - Azure
 
 related:
-  - title: "NFS 4.1 support for Azure Files is now in preview"
-    excerpt: "Azure Files is a distributed cloud file system serving Server Messaging Block (SMB) and REST protocols. Azure Files enables customers to easily lift and shift their legacy workloads to the cloud without any modifications or changes in technology. SMB works on both Windows and UNIX operating systems for"
-    publishedDateTime: 2020-09-15T13:00:18Z
-    webUrl: "https://azure.microsoft.com/blog/nfs-41-support-for-azure-files-is-now-in-preview/"
+  - title: "Connector for AWS in Azure Cost Management + Billing is now generally available"
+    excerpt: "The connector for AWS that helps you manage Azure and AWS costs from a single location is now generally available."
+    publishedDateTime: 2020-09-02T08:00:01Z
+    webUrl: "https://azure.microsoft.com/blog/connector-for-aws-in-azure-cost-management-billing-is-now-generally-available/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 87
+    quality: 83
     images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/f37b1fb4-f41e-42b8-8f88-754f3e8eef0c.jpg"
-        width: 1024
-        height: 489
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/8a7ddc8c-ab40-4eb0-8979-ec73c6098015.png"
+        width: 640
+        height: 364
         isCached: true
-  - title: "NFS 3.0 support for Azure Blob storage is now in preview"
-    excerpt: "To enable customers to run NFS based applications at scale, we are announcing the preview of NFS 3.0 protocol support for Azure Blob storage. "
-    publishedDateTime: 2020-07-27T10:00:03Z
-    webUrl: "https://azure.microsoft.com/blog/nfs-30-support-for-azure-blob-storage-is-now-in-preview/"
+  - title: "Azure Spring Cloud: a fully managed service for Spring Boot apps is now generally available"
+    excerpt: "Azure Spring Cloud is a fully managed service for Spring Boot apps, that lets you focus on building the apps that run your business without the hassle of managing infrastructure."
+    publishedDateTime: 2020-09-02T06:00:00Z
+    webUrl: "https://azure.microsoft.com/blog/azure-spring-cloud-a-fully-managed-service-for-spring-boot-apps-is-now-generally-available/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 86
-  - title: "Azure Time Series Insights now supports AAD groups"
-    excerpt: "Azure Time Series Insights now supports Azure Active Directory groups through access policies."
-    publishedDateTime: 2020-09-11T21:00:13Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/tsi-aad-groups/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 67
-  - title: "Azure Files support for NFS v4.1 is now in preview"
-    excerpt: "Azure Files now adds support for NFS v4.1 file system protocol for an easy migration of your Linux-centric workloads."
-    publishedDateTime: 2020-09-16T17:00:28Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-files-support-for-nfs-v41-is-now-in-preview/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 67
-  - title: "Azure Arc enabled data services now in preview"
-    excerpt: "Run Azure Arc enabled data services on premises on any infrastructure of your choice with Azure cloud benefits like elastic scale, unified management, and a cloud billing model while staying always current. "
-    publishedDateTime: 2020-09-22T16:05:38Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-arc-enabled-data-services-now-in-preview/"
+    quality: 77
+    images:
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/816ab479-5c10-48ba-8084-c7816d2b6f1b.jpg"
+        width: 1024
+        height: 737
+        isCached: true
+  - title: "Azure Blob versioning is now general available "
+    excerpt: "Azure storage strives to protect your business critial data from any accident or attack. We are excited to announce the general availability of  Azure Blob versioning. "
+    publishedDateTime: 2020-08-31T20:00:37Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-blob-versioning-is-now-general-available/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
     quality: 67
-  - title: "Azure Database for PostgreSQL Flexible Server now in preview"
-    excerpt: "Azure Database for PostgreSQL Flexible Server is a new deployment option that provides better control and flexibility, more options for high availability, and cost optimization controls."
-    publishedDateTime: 2020-09-22T20:00:01Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-database-for-postgresql-flexible-server-now-in-preview/"
+  - title: "Visualize and Manage your AWS costs in Azure Cost Management"
+    excerpt: "Connector for AWS in Azure Cost Management is now Generally Available."
+    publishedDateTime: 2020-09-01T16:00:07Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/visualize-and-manage-your-aws-costs-in-azure-cost-management/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
     quality: 67
-  - title: "Azure Object Anchors is now in private preview"
-    excerpt: "Align and anchor holographic content to objects. Register to be considered for Azure Object Anchors private preview. "
-    publishedDateTime: 2020-09-22T16:05:36Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azureobjectanchorsprivatepreview/"
+  - title: "Azure Spring Cloud is now generally available"
+    excerpt: "Azure Spring Cloud is a fully managed service for Spring Boot apps that lets you focus on building the apps that run your business without the hassle of managing infrastructure"
+    publishedDateTime: 2020-09-02T16:00:04Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-spring-cloud-is-now-generally-available/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
     quality: 67
-  - title: "Azure Spot support for Azure Kubernetes Service is in preview"
-    excerpt: ""
-    publishedDateTime: 2020-04-15T16:00:02Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-spot-support-for-azure-kubernetes-service-is-in-preview/"
+  - title: "Azure Blob storage object replication is now generally available"
+    excerpt: "Object replication allows you to replicate your block blob data at the blob level from one storage account to another anywhere in the Azure. "
+    publishedDateTime: 2020-09-09T20:05:14Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-blob-storage-object-replication-is-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
+  - title: "Immersive Reader is now generally available"
+    excerpt: "Immersive Reader is an Azure Cognitive Service for developers who want to embed inclusive capabilities into their apps for enhancing text reading and comprehension for users regardless of age or ability. "
+    publishedDateTime: 2020-08-27T00:35:27Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/immersive-reader-is-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 52
+  - title: "Manage your Azure & Amazon Web Services (AWS) spending in a single location with Azure Cost Management +Billing"
+    excerpt: "An Azure Cost Management + Billing connector for AWS is now generally available. "
+    publishedDateTime: 2020-09-01T17:16:16Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/manage-your-azure-amazon-web-services-aws-spending-in-a-single-location-with-azure-cost-management-billing/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 47
+  - title: "User-initiated failover for application fault resiliency in Azure SQL Managed Instance is now generally available"
+    excerpt: "Test the impact of automatic failover operations during planned or unplanned events before deployment to production by manually initiating automatic failover"
+    publishedDateTime: 2020-09-02T16:00:05Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/userinitiated-failover-for-application-fault-resiliency-in-azure-sql-managed-instance-is-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 46
+  - title: "Azure Monitor Logs connector is now generally available"
+    excerpt: "Use Azure Logic Apps and Power Automate to create automated workflows using hundreds of actions for a variety of services. The Azure Monitor logs connector is now generally available—use it to build workflows that retrieve data from the Azure Monitor Logs workspace or Application Insights component."
+    publishedDateTime: 2020-07-21T17:31:27Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-monitor-logs-connector-is-now-generally-available/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
     quality: 17
-  - title: "Azure Functions—Java 8 support on Linux is now in preview"
-    excerpt: ""
-    publishedDateTime: 2020-04-27T15:00:24Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/announcing-java-feature-support-azure-functions/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 17
-  - title: "Firewall support for Azure Relay is now in preview"
-    excerpt: ""
-    publishedDateTime: 2020-05-18T21:00:04Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/firewall-support-for-azure-relay-firewall-is-now-in-preview/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 17
-  - title: ".NET Core support for Azure Analysis Services client libraries is in preview"
-    excerpt: "In response to customer feedback, .NET Core support for Azure Analysis Services client libraries is now available in preview. Start building .NET Core applications for modern cross-platform and cloud-oriented environments that target Analysis Services and Microsoft Power BI."
-    publishedDateTime: 2020-07-10T00:23:39Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/net-core-support-for-azure-analysis-services-client-libraries-is-in-preview/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 14
 
 secured: "hPPoW3OaWnIbHFy7e/X+yf3RUxOObJsWkWluxt/a2Z8yI+5e6yiHKWrTS+6fg8Hf1MToogrmudmMCaUF47cNFx05lak7tClso310X+VjYvJi+3qxxPXYkZu/lt4KKbiA8YpOra7rjNUFWnmf7RXJiUXLnwWronzUgsraCJ/zbxeKFIa5d8rjhC3rb7Cp9NID+24Hm5/P/bRNPNrkbv3FSyCn3jgSwOKetWDPcII4ispd9p5yk0RN9WC4Ft9xFW199bHWuwUo+C7QkROVJEXJ7UdoIpemj0LIbafoEnRsCrVRLbaNbWdOChIiAD7DWFBu1okyV/7lvIeH4JOGzO4mTXcwMrRkrRrKjUUz+hKciKg=;DrujjhybuWhmSL0pGyaqcQ=="
 ---

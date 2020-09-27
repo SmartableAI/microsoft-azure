@@ -42,6 +42,24 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Azure Red Hat OpenShift on OpenShift 4 now available"
+    excerpt: ""
+    publishedDateTime: 2020-04-28T14:00:37Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-red-hat-openshift-on-openshift-4-now-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 17
+  - title: "Couchbase Advances Its First-In-Market Kubernetes Operator to Deliver a Cloud Native, Fully Autonomous Database Management Platform"
+    excerpt: "Couchbase, the creator of the enterprise-class, multicloud to edge NoSQL database, today announced Version 2.0 of the Couchbase Autonomous Operator for Kubernetes (“Autonomous Operator”), the most mature and advanced operator in the industry."
+    publishedDateTime: 2020-04-28T14:04:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/couchbase-advances-its-first-in-market-kubernetes-operator-to-deliver-a-cloud-native-fully-autonomous-database-management-platform-1029139072"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 12
 
 secured: "E/6YU+hC1w2kq5wkDYHG+XGz4v50WvAxgoRgPAB+Xr49bGhcFjuqKNf+v/BkoGGqvltfj779ul8VaPoD0PUrB1ti7zHnTyj6+0UptCdY8yKOoa4wAyKPBuCQuGGD4ueZqKh2vWw7OPKsWM5aIj5MVRIdWD8L4P+NDbZKVrlg2vVTVTapiZkJpq/EcjZljbVuQ9vEbneW40TWCJaOXxx+B577MFYvCAjvmftdFU/n/pHeXqmVEC//YbKZ4eQSkfL5rp7xjhzDFNiGQQl2SvUsOAkyLeAuc12ICSInezKNs21ZudBZ9sJuzm9mK/9VzFFW;haMWVZjzHv+fysznLTSDSg=="
 ---

@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-10T16:00:19Z
 webUrl: "https://azure.microsoft.com/en-us/updates/data-encryption-for-azure-database-for-postgresql-single-server/"
 type: article
 quality: 17
-heat: -1
+heat: 17
 published: false
 
 provider:
@@ -21,33 +21,24 @@ topics:
   - Azure
 
 related:
-  - title: "New regions for Azure Database for PostgreSQL—Hyperscale (Citus)"
+  - title: "Data encryption with customer-managed keys for Azure Database for MySQL"
     excerpt: ""
-    publishedDateTime: 2020-06-01T16:00:14Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/new-regions-for-azure-database-for-postgresql-hyperscale-citus/"
+    publishedDateTime: 2020-06-10T16:00:17Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/data-encryption-with-customermanaged-keys-for-azure-database-for-mysql-in-preview/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
     quality: 17
-  - title: "Minimal TLS version setting is now available for Azure Database for PostgreSQL"
+  - title: "Transparent data encryption with customer-managed keys for Azure SQL Database Hyperscale"
     excerpt: ""
-    publishedDateTime: 2020-06-04T17:00:39Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-database-for-postgresql-minimal-tls-version/"
+    publishedDateTime: 2020-06-10T16:00:20Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/transparent-data-encryption-with-customermanaged-keys-for-azure-sql-database-hyperscale/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 13
-  - title: "One-year and three-year reserved capacity for Azure Database for PostgreSQL—Hyperscale (Citus)"
-    excerpt: ""
-    publishedDateTime: 2020-06-01T16:00:13Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/oneyear-and-threeyear-reserved-capacity-for-azure-database-for-postgresql-hyperscale-citus/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 5
+    quality: 8
 
 secured: "e+HxBAR9MQDMRF/bhjNEFwbD126ezLE1jfOGmR39yMbWFGh62emFVAVwFTMCe+9T9XbpP9BKGzGIkksyHXQRlXdiUiomn4Yijv5jdnem6HokXUJaere2VKm8O4W+qGFCRunTWvkCY0yuIsSzsDcBi2YvdiH56CZ4w9u5Gn0sKJS8SZPsLcGkeXyF6Gb5ms4myT1RvQODXIohPo4eBP0A8E/gHIYC//LOZxk1BSlTg1R0uf7DU+v7gWF4bvmdbDXD++FxvslGLVu4E61GMzWILmGiYAudtEV+GXIkBkxv/wFC06jbquQW8Ac+CNtMYcu7yDsGHvFrpDq4CYANOGnbVA==;ylOvkJNs5FGpOzU/bvoXCg=="
 ---

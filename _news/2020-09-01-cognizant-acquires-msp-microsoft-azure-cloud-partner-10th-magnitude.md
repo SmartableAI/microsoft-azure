@@ -18,119 +18,209 @@ topics:
   - Azure
 
 related:
-  - title: "Descartes Selects Microsoft Azure to Deliver Cloud Solutions"
-    excerpt: "Before it's here, it's on the Bloomberg Terminal."
-    publishedDateTime: 2020-09-07T00:52:00Z
-    webUrl: "https://www.bloomberg.com/press-releases/2019-03-25/descartes-selects-microsoft-azure-to-deliver-cloud-solutions"
+  - title: "TikTok could become one of the largest Microsoft Azure customers"
+    excerpt: "Microsoft is just one of the many companies considering acquiring the social media app TikTok from its parent company ByteDance following President Trump's executive order that the service needs to be sold to a US company to continue operating in the United States."
+    publishedDateTime: 2020-08-27T22:44:00Z
+    webUrl: "https://www.techradar.com/au/news/tiktok-could-become-one-of-the-largest-microsoft-azure-customers"
+    ampWebUrl: "https://www.techradar.com/au/amp/news/tiktok-could-become-one-of-the-largest-microsoft-azure-customers"
+    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/au/amp/news/tiktok-could-become-one-of-the-largest-microsoft-azure-customers"
     type: article
     provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 77
+      name: TechRadar
+      domain: techradar.com
+    quality: 97
     images:
-      - url: "https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg"
+      - url: "https://cdn.mos.cms.futurecdn.net/DjEsP5aRA3jcWVJjU6gtzH-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "TikTok could become one of the largest Microsoft Azure customers"
+    excerpt: "For Microsoft, a minority investment in TikTok could lead to the company deciding to use Azure over competing cloud computing services. According to The Information, the social media app signed a ..."
+    publishedDateTime: 2020-08-27T22:47:00Z
+    webUrl: "https://www.techradar.com/news/tiktok-could-become-one-of-the-largest-microsoft-azure-customers"
+    ampWebUrl: "https://www.techradar.com/amp/news/tiktok-could-become-one-of-the-largest-microsoft-azure-customers"
+    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/tiktok-could-become-one-of-the-largest-microsoft-azure-customers"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 97
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/DjEsP5aRA3jcWVJjU6gtzH-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "dunnhumby Reduces Time to Action for Data Scientists via New Tool on Microsoft Azure"
+    excerpt: "Press Release dunnhumby, the global leader in customer data science, has launched its new web-based application on Microsoft Azure, enabling data scientists to deliver customer insights faster, driving profitability and customer loyalty."
+    publishedDateTime: 2020-09-02T13:48:00Z
+    webUrl: "https://venturebeat.com/2020/09/02/dunnhumby-reduces-time-to-action-for-data-scientists-via-new-tool-on-microsoft-azure/"
+    ampWebUrl: "https://venturebeat.com/2020/09/02/dunnhumby-reduces-time-to-action-for-data-scientists-via-new-tool-on-microsoft-azure/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/02/dunnhumby-reduces-time-to-action-for-data-scientists-via-new-tool-on-microsoft-azure/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 70
+  - title: "Telit's Comprehensive IoT Portfolio is Microsoft Azure Certified for IoT Device Catalog"
+    excerpt: "Telit, a global enabler of the Internet of Things (IoT), today announced that several of its module families have been certified by Microsoft as part of its Azure Certified for IoT device catalog. This certification provides Azure solution developers with a comprehensive selection of industry-leading LTE-M,"
+    publishedDateTime: 2020-08-27T08:33:00Z
+    webUrl: "https://www.marketwatch.com/press-release/telits-comprehensive-iot-portfolio-is-microsoft-azure-certified-for-iot-device-catalog-2020-08-12"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Nutanix joins Microsoft Azure for seamless Hybrid Cloud experience"
-    excerpt: "Microsoft and Nutanix will offer customers seamless sales and support experiences. Microsoft Azure customers will be able to use their existing Azure credits, as part of Microsoft Azure ..."
-    publishedDateTime: 2020-09-08T17:52:00Z
-    webUrl: "https://www.sify.com/finance/nutanix-joins-microsoft-azure-for-seamless-hybrid-cloud-experience-news-topnews-ujirOCgacfiei.html"
-    ampWebUrl: "https://www.sify.com/finance/nutanix-joins-microsoft-azure-for-seamless-hybrid-cloud-experience-news-topnews-ujirOCgacfiei.html"
-    cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/finance/nutanix-joins-microsoft-azure-for-seamless-hybrid-cloud-experience-news-topnews-ujirOCgacfiei.html"
+  - title: "DH2i Announces Support for Microsoft Azure Shared Disks and New Azure Disk Storage Enhancements"
+    excerpt: "To learn more, please join DH2i for a live webinar titled, \"How to Build Shared Disk SQL Server Clusters in Azure\" featuring Microsoft Principal Program Manager Kevin Farlee on September 2nd ..."
+    publishedDateTime: 2020-09-01T13:23:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/dh2i-announces-support-for-microsoft-azure-shared-disks-and-new-azure-disk-storage-enhancements-1029552477"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/dh2i-announces-support-for-microsoft-azure-shared-disks-and-new-azure-disk-storage-enhancements-1029552477"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/dh2i-announces-support-for-microsoft-azure-shared-disks-and-new-azure-disk-storage-enhancements-1029552477"
     type: article
     provider:
-      name: Sify.com
-      domain: sify.com
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 65
+  - title: "DH2i Announces Support for Microsoft Azure Shared Disks and New Azure Disk Storage Enhancements"
+    excerpt: "Fortunately, with the release of Azure shared disks, this requirement has been met for SQL Server users. Customers that are deploying SQL Server in Azure are now able to create HA instances using shared disks for full instance failover."
+    publishedDateTime: 2020-09-02T07:45:00Z
+    webUrl: "https://www.marketwatch.com/press-release/dh2i-announces-support-for-microsoft-azure-shared-disks-and-new-azure-disk-storage-enhancements-2020-09-01"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 65
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "AI company Staqu collaborates with Microsoft to bring ‘JARVIS’ on Azure"
+    excerpt: "AI implementation company, Staqu has collaborated with Microsoft to bring its video analytics solutions on Microsoft Azure. The collaboration enables Staqu’s proprietary video analytics solutions including JARVIS (Joint AI Research for Video Instances and Streams) to be integrated with Azure Kubernetes Service and Azure Stack Edge."
+    publishedDateTime: 2020-08-28T05:45:00Z
+    webUrl: "https://www.thehindubusinessline.com/info-tech/ai-company-staqu-collaborates-with-microsoft-to-bring-jarvis-on-azure/article32462745.ece"
+    ampWebUrl: "https://www.thehindubusinessline.com/info-tech/ai-company-staqu-collaborates-with-microsoft-to-bring-jarvis-on-azure/article32462745.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/ai-company-staqu-collaborates-with-microsoft-to-bring-jarvis-on-azure/article32462745.ece/amp/"
+    type: article
+    provider:
+      name: Business Line
+      domain: thehindubusinessline.com
     quality: 57
     images:
-      - url: "https://www.sify.com/uploads/nutanix_ujikoBjihaieg.jpeg"
-        width: 800
-        height: 420
+      - url: "https://www.thehindubusinessline.com/info-tech/mz010v/article32462744.ece/ALTERNATES/LANDSCAPE_615/ChatbotrobotvirtualassistanceArtificialintelligenceconc"
+        width: 615
+        height: 384
         isCached: true
-  - title: "Nutanix Announces Microsoft Azure Partnership To Drive Seamless Hybrid Cloud Experience"
-    excerpt: "Nutanix has announced a new partnership with Microsoft that will enable both companies to deliver a hybrid solution with seamless application, data, and license mobility as well as unified management across on-premises and Azure environments,"
-    publishedDateTime: 2020-09-09T01:46:00Z
-    webUrl: "https://www.scoop.co.nz/stories/BU2009/S00178/nutanix-announces-microsoft-azure-partnership-to-drive-seamless-hybrid-cloud-experience.htm"
-    ampWebUrl: "https://m.scoop.co.nz/stories/BU2009/S00178/nutanix-announces-microsoft-azure-partnership-to-drive-seamless-hybrid-cloud-experience.htm"
-    cdnAmpWebUrl: "https://m-scoop-co-nz.cdn.ampproject.org/c/s/m.scoop.co.nz/stories/BU2009/S00178/nutanix-announces-microsoft-azure-partnership-to-drive-seamless-hybrid-cloud-experience.htm"
+  - title: "Buurst Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Buurst, a leading enterprise-class data performance company, today announced the availability of its flagship product, SoftNAS, in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure."
+    publishedDateTime: 2020-09-01T12:00:00Z
+    webUrl: "https://apnews.com/d02a5aa318c5402188ac79f986783f8a"
     type: article
     provider:
-      name: Scoop
-      domain: scoop.co.nz
-    quality: 49
-    images:
-      - url: "https://m.scoop.co.nz/stories/images/1512/smcnz.png"
-        width: 268
-        height: 250
-        isCached: true
-  - title: "FastTrack has Announced its Migration to Microsoft Azure"
-    excerpt: "FastTrack has Announced its Migration to Microsoft Azure By CIOReview - FastTrack has announced its completion of migration to a cloud-computing platform to manage the numerous coding"
-    publishedDateTime: 2020-09-10T12:34:00Z
-    webUrl: "https://www.cioreview.com/news/fasttrack-has-announced-its-migration-to-microsoft-azure-nid-31927-cid-23.html"
-    type: article
-    provider:
-      name: CIOReview
-      domain: cioreview.com
+      name: Associated Press
+      domain: apnews.com
     quality: 37
     images:
-      - url: "https://www.cioreview.com/news_new/sliderimage/xamab.350.jpg"
-        width: 300
-        height: 350
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
-  - title: "Refintiv heads to Microsoft Azure"
-    excerpt: "Microsoft and Refinitiv have formed a new strategic partnership that will give people who work in the financial sector greater connectivity and insight into their markets and customers, and help them make critical business decisions."
-    publishedDateTime: 2020-09-12T13:53:00Z
-    webUrl: "https://www.finextra.com/pressarticle/83996/refintiv-heads-to-microsoft-azure"
+  - title: "Buurst SoftNAS is now available in the Microsoft Azure Marketplace"
+    excerpt: "Buurst announced the availability of SoftNAS in the Microsoft Azure Marketplace, with streamlined deployment and management."
+    publishedDateTime: 2020-09-01T23:48:00Z
+    webUrl: "https://www.helpnetsecurity.com/2020/09/02/buurst-microsoft-azure/"
     type: article
     provider:
-      name: Finextra
-      domain: finextra.com
+      name: Help Net Security
+      domain: helpnetsecurity.com
     quality: 37
     images:
-      - url: "https://www.finextra.com/about/finextra-logo-alt-16-9.jpg"
-        width: 480
-        height: 270
+      - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/08/31114057/insecure-66a.jpg"
+        width: 304
+        height: 405
         isCached: true
-  - title: "Microsoft launches Azure Spring Cloud to simplify enterprise software projects"
-    excerpt: "Microsoft Corp. today announced the general availability of Azure Spring Cloud, a managed service designed to reduce the amount of work involved in building and maintaining enterprise applications on its cloud platform."
-    publishedDateTime: 2020-09-02T18:11:00Z
-    webUrl: "https://siliconangle.com/2020/09/02/microsoft-launches-azure-spring-cloud-simplify-enterprise-software-projects/"
+  - title: "Call Journey Now Available in Microsoft Azure Marketplace and App Source"
+    excerpt: "Call Journey, provider of market-leading Conversation Analytics technology, announces its listing in the Microsoft Azure Marketplace and AppSource online stores for Microsoft customers providing ..."
+    publishedDateTime: 2020-08-31T23:40:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/08/p17320531/call-journey-now-available-in-microsoft-azure-marketplace-and-app-source"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/17320531"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17320531"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 36
+  - title: "Carahsoft Brings Microsoft Azure to Its Public Sector Customers and Partners"
+    excerpt: "Carahsoft Technology Corp., The Trusted Government IT Solutions Provider®, today announced that Microsoft Azure services"
+    publishedDateTime: 2020-08-27T16:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/08/g17272823/carahsoft-brings-microsoft-azure-to-its-public-sector-customers-and-partners"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/17272823"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17272823"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 34
+  - title: "Reminder: Save 95% on the Complete Microsoft Azure eBook & Video Course Bundle"
+    excerpt: "Just a quick reminder for our readers about the awesome deal on the Complete Microsoft Azure eBook & Video Course Bundle in the Geeky Gadgets Deals store. The Complete Microsoft Azure eBook ..."
+    publishedDateTime: 2020-08-27T11:02:00Z
+    webUrl: "https://www.geeky-gadgets.com/reminder-save-95-on-the-complete-microsoft-azure-ebook-video-course-bundle-27-08-2020/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
     quality: 33
     images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/09/microsoft2-1-1.png"
-        width: 718
-        height: 400
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2020/07/Complete-Microsoft-Azure-eBook-Video-Course-Bundle-1.jpg"
+        width: 700
+        height: 526
         isCached: true
-  - title: "3Cloud, Microsoft Azure cloud computing firm, acquires Pragmatic Works Consulting"
-    excerpt: "The deal expands 3Cloud's data and analytics capabilities and geographic reach, forming the largest Azure pure-play services firm in the United States."
-    publishedDateTime: 2020-09-10T19:48:00Z
-    webUrl: "https://www.bizjournals.com/chicago/news/2020/09/10/3cloud-azure-cloud-computing-buys-pragmatic-works.html"
-    ampWebUrl: "https://www.bizjournals.com/chicago/news/2020/09/10/3cloud-azure-cloud-computing-buys-pragmatic-works.amp.html"
-    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/chicago/news/2020/09/10/3cloud-azure-cloud-computing-buys-pragmatic-works.amp.html"
+  - title: "dunnhumby Speeds Time-to-Insight for Data Scientists with New Tool on Microsoft Azure"
+    excerpt: "Microsoft Azure, enabling data scientists to deliver customer insights faster. dunnhumby Model Lab is designed to solve complex retail challenges, such as understanding customer churn and predicting propensity to purchase and in what channel,"
+    publishedDateTime: 2020-09-02T15:43:00Z
+    webUrl: "https://www.dbta.com/Editorial/News-Flashes/dunnhumby-Speeds-Time-to-Insight-for-Data-Scientists-with-New-Tool-on-Microsoft-Azure-142651.aspx"
     type: article
     provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 32
-  - title: "EdgeConneX Brings Private Cloud Connectivity Solutions to Phoenix with Microsoft Azure ExpressRoute"
-    excerpt: "EdgeConneX®, a pioneer in Edge Data Centers, has just streamlined the path for customers in Arizona to connect to Microsoft cloud services"
-    publishedDateTime: 2020-09-10T12:02:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/edgeconnex-brings-private-cloud-connectivity-solutions-to-phoenix-with-microsoft-azure-expressroute-301126697.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 23
+      name: dbta.com
+      domain: dbta.com
+    quality: 30
     images:
-      - url: "https://mma.prnewswire.com/media/810989/EdgeConneX_Logo.jpg?p=facebook"
-        width: 619
-        height: 327
+      - url: "https://www.dbta.com/images/social-logo-2019.png"
+        width: 1200
+        height: 630
         isCached: true
+  - title: "Swisscom starts to offer Microsoft Azure to small and mid-sized firms"
+    excerpt: "Microsoft Azure also responds to customer demand in the areas of IoT and machine learning. The product is being sold through local Swisscom partners, who act as intermediaries between Swisscom and Microsoft and the"
+    publishedDateTime: 2020-08-31T09:16:00Z
+    webUrl: "https://www.telecompaper.com/news/swisscom-starts-to-offer-microsoft-azure-to-small-and-mid-sized-firms--1352001"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 17
+  - title: "Call Journey Now Available in Microsoft Azure Marketplace and App Source"
+    excerpt: "Call Journey, provider of market-leading Conversation Analytics technology, announces its listing in the Microsoft Azure Marketplace and AppSource online stores for Microsoft customers providing applications and services tailored to specific business needs."
+    publishedDateTime: 2020-09-02T07:41:00Z
+    webUrl: "https://www.arnnet.com.au/mediareleases/135281/call-journey-now-available-in-microsoft-azure/"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 16
+  - title: "Insurtech Leader FastTrack Completes Migration to the Microsoft Azure Cloud"
+    excerpt: "The project resulted in a transition to Microsoft Azure for their entire suite of solutions and was completed without any service disruption to its customers. Leveraging the hosting platform's ..."
+    publishedDateTime: 2020-09-02T15:20:00Z
+    webUrl: "https://www.trentonian.com/news/state/insurtech-leader-fasttrack-completes-migration-to-the-microsoft-azure-cloud/article_70b0fb10-bf08-5521-88bd-f3c4f075ad94.html"
+    type: article
+    provider:
+      name: The Trentonian
+      domain: trentonian.com
+    quality: 15
 
 secured: "dlPesxYJ4ms0xf18M1X8K3A3sfVVLodHA5eaY52bZGOY5J7h03zqv9Aty0JIn7bQmJgAqF+7HHzl20QubEf+N97INMJ6FWdsijEDLo4nNiU6l7LuAVzthpiHFYxWsB0gd4CDBBRT6wM71WYQpC9oFN/cItSilhH/GIgRHDV1Is8r57HrjY9viN+ttrLIsmxh1N1MXpz5lqrKxGL9A7aWPHMKDo66bRGirGVTE+rDkJhwo4E/I+HiB70818XhXncvdQscfa+6oqakQ7UBV/P1tgc4kEbw3eVj6zGEp68L88YPjC45L7Hd4oyTGvM74VtP+9Z3D11QwtMhThZM5PTzA3HD9KfS80M9tOMu8s6CgiA=;/vGTbmjqH1nJiOm4Ru+Fag=="
 ---

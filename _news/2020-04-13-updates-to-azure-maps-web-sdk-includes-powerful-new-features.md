@@ -6,8 +6,8 @@ publishedDateTime: 2020-04-13T10:10:05Z
 originalUrl: "https://azure.microsoft.com/blog/updates-to-azure-maps-web-sdk-includes-powerful-new-features/"
 webUrl: "https://azure.microsoft.com/blog/updates-to-azure-maps-web-sdk-includes-powerful-new-features/"
 type: article
-quality: 108
-heat: 128
+quality: 110
+heat: 130
 published: true
 
 provider:
@@ -23,6 +23,7 @@ topics:
   - IoT
   - Mobile
   - Web
+  - Developer tools
 
 images:
   - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/ea5e5a7d-10fe-4475-b6dc-c4499235fdcf.png"

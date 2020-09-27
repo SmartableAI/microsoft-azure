@@ -22,110 +22,74 @@ topics:
   - Azure
 
 related:
-  - title: "Rules Engine for Azure Front Door and Azure CDN is now generally available"
-    excerpt: "Today we are announcing the general availability of the Rules Engine feature on both Azure Front Door and Azure Content Delivery Network (CDN). "
-    publishedDateTime: 2020-06-23T09:00:03Z
-    webUrl: "https://azure.microsoft.com/blog/rules-engine-for-azure-front-door-and-azure-cdn-is-now-generally-available/"
+  - title: "Azure Private Link Service is now generally available in China "
+    excerpt: "Azure Private Link for customer owned services are now available in China Regions. "
+    publishedDateTime: 2020-09-14T17:10:45Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-private-link-service-is-now-generally-available-in-china/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 82
-  - title: "Trifacta Now Available for Direct Purchase and Activation in the Microsoft Azure Marketplace"
-    excerpt: "SAN FRANCISCO, June 25, 2020 (GLOBE NEWSWIRE) -- Trifacta, a global leader in data preparation, today announced the availability of Trifacta in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure."
-    publishedDateTime: 2020-06-25T13:00:00Z
-    webUrl: "https://www.marketwatch.com/press-release/trifacta-now-available-for-direct-purchase-and-activation-in-the-microsoft-azure-marketplace-2020-06-25"
+    quality: 67
+  - title: "IT Service Management Connector (ITSMC)  is now available in Azure Government"
+    excerpt: "The ITSM connector provides a bi-directional connection between Azure and ITSM tools to help track and resolve issues faster.  "
+    publishedDateTime: 2020-09-14T16:00:12Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/itsmc-is-now-available-in-fairfax/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 66
+      name: Microsoft
+      domain: microsoft.com
+    quality: 64
+  - title: "Azure Firewall Manager is now generally available"
+    excerpt: "Azure Firewall Manager is now generally available, and includes Azure Firewall Policy, Azure Firewall in a Virtual WAN Hub (Secure Virtual Hub), and Hub Virtual Network."
+    publishedDateTime: 2020-07-01T08:00:06Z
+    webUrl: "https://azure.microsoft.com/blog/azure-firewall-manager-is-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 37
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/48d05065-53c7-4758-8091-6b72d3df73d0.png"
+        width: 1024
+        height: 367
         isCached: true
-  - title: "A secure foundation for IoT, Azure Sphere now generally available"
-    excerpt: "Today Microsoft Azure Sphere is generally available. Our mission is to empower every organization on the planet to connect and create secured and trustworthy IoT devices. General availability is an important milestone for our team and for our customers, demonstrating that we are ready to fulfill our"
-    publishedDateTime: 2020-02-24T09:00:14Z
-    webUrl: "https://azure.microsoft.com/blog/a-secure-foundation-for-iot-azure-sphere-now-generally-available/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 19
-  - title: "Azure geo-zone-redundant storage is now generally available"
-    excerpt: "Geo-zone-redundant storage (GZRS) and read-access geo-zone-redundant storage (RA-GZRS) are now generally available, offering intra-regional and inter-regional high availability and disaster protection for your applications."
-    publishedDateTime: 2020-06-17T20:00:18Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/storage-gzrs-ga/"
+  - title: "Azure App Service—.NET Core 3.1 is now generally available"
+    excerpt: ""
+    publishedDateTime: 2020-04-23T16:00:29Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-app-service-net-core-31-ga-on-app-service/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
     quality: 17
-  - title: "Azure Storage account failover is now generally available "
-    excerpt: "Customer-initiated Storage account failover is now generally available, allowing you to determine when to initiate a failover instead of waiting for Microsoft to do so."
-    publishedDateTime: 2020-06-17T17:00:26Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-storage-account-failover-ga/"
+  - title: "Azure Private Link is now available for multiple new Azure services"
+    excerpt: ""
+    publishedDateTime: 2020-05-14T22:00:17Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-private-link-is-now-available-for-multiple-new-azure-services/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
     quality: 17
-  - title: "Azure Automation is now available in the USGov Arizona region"
-    excerpt: "Azure Automation is now available in the USGov Arizona region."
-    publishedDateTime: 2020-06-22T16:00:33Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-automation-generally-available-in-usgov-arizona-region/"
+  - title: "Azure Data Box Disk is now available in China"
+    excerpt: "Azure Data Box Disk is now available for preview in the China East, China East 2, China North, and China North 2 regions. "
+    publishedDateTime: 2020-07-13T22:00:04Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-data-box-disk-is-now-available-in-china/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
     quality: 17
-  - title: "Azure Content Delivery Network standard rules engine is now available "
-    excerpt: "Take advantage of new rules to further customize the behavior of standard Azure Content Delivery Network to best meet the needs of your customers. Use the rules engine to modify request and response headers or dynamically override your existing route behavior based on incoming requests. Now generally"
-    publishedDateTime: 2020-06-24T16:00:29Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-content-delivery-network-standard-rules-engine-is-now-available/"
+  - title: "Generally available: Azure Private Link for Azure SignalR Service "
+    excerpt: "Use private endpoint to connect to Azure SignalR Service. "
+    publishedDateTime: 2020-07-14T17:00:16Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/generally-available-azure-private-link-for-azure-signalr-service/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
     quality: 17
-  - title: "Database engine auditing for Azure Database for MySQL is now available"
-    excerpt: "Azure Database for MySQL now provides general availability support for using audit logs to record database activity and events such as connections and queries."
-    publishedDateTime: 2020-06-24T16:01:16Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/database-engine-auditing-for-azure-database-for-mysql-is-now-available/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 17
-  - title: "Azure Data Lake Storage archive tier is now generally available"
-    excerpt: "The archive tier for Azure Data Lake Storage is now generally available. The archive tier provides an ultra-low cost tier for long term retention of data while keeping your data available for future analytics needs."
-    publishedDateTime: 2020-06-30T20:00:36Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/archive-tier-for-azure-data-lake-storage-now-generally-available/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 17
-  - title: "Database engine auditing for Azure Database for MariaDB is now available"
-    excerpt: "Azure Database for MariaDB now provides general availability support for using audit logs to record database activity and events such as connections and queries."
-    publishedDateTime: 2020-06-24T16:01:15Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/database-engine-auditing-for-azure-database-for-mariadb-is-now-available/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 16
-  - title: "Azure Private Link for Azure Batch is now generally available in select regions"
-    excerpt: "Azure Private Link for Azure Batch is now generally available in the West US 2, East US, South Central US, US Gov Virginia, and US Gov Arizona regions"
-    publishedDateTime: 2020-06-16T21:00:05Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-private-link-for-azure-batch-is-now-generally-available-in-select-regions/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 13
 
 secured: "us3ScSBg6ExWfTqbcHNW+iDa79gehHGhnykxEqNJsTwrRGsjJUXaJq8fVcV8cxMUyasBdbCMEC3BPdU9yVY09OW6N2fw2U7lRuRXfXiSFDp468PzhP9myeq89btVEeWGmCprBE88ebeyN6SNVhS5iftpfOzKrNRfCGwSZeHzzcDF3a0hGgCe9CEaAz5S7F3IW/cJw+QNk9jy5zuAc0X7vHt9saA21p0Qa1lo5GI72bdwysjrSsx0nHJjivTz8GAanErckCSDBwU1n/9euVTk9BBXh0ohMzfM28ZvXY4zMIb3VSoTMQBVhYNC0krP2wu3rUWf1AKkv0gdxIKQ0nDtTxN9L9ONBchzfghzx1fk73o=;bqsGwHhRBayQjzaCGC5GxQ=="
 ---

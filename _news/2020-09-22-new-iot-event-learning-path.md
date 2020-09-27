@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/new-iot-event-learning-p
 webUrl: "https://azure.microsoft.com/en-us/updates/new-iot-event-learning-path/"
 type: article
 quality: 52
-heat: 52
+heat: -1
 published: false
 
 provider:
@@ -20,6 +20,17 @@ provider:
 
 topics:
   - Azure
+
+related:
+  - title: "How Azure IoT enables business resilience"
+    excerpt: "Azure IoT is uniquely positioned as a fully open, flexible platform that spans industry applications and simplifies the development process. At Microsoft Ignite, we shared the latest from Azure IoT and how partners and customers are using these innovations in amazing ways"
+    publishedDateTime: 2020-09-24T10:00:26Z
+    webUrl: "https://azure.microsoft.com/blog/how-azure-iot-enables-business-resilience/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
 
 secured: "GrCuIN7JgvQ9Mitsworh25386ziSmnmhHzMHoE0CIqlq+nWXz/wd5sHoPxNBpmUveNBGXPx9+MvtvZweqhf5W+ol5SocB/cAGATpG4AUfRdHx/uo64ynmjVLIkZiHrd3D1qb1xMkk7B8iyi5W5h01jcBN4IysCFSU3UQegNbnHKHMR6OSrVi1a1n2QNNKysBWZcNmUM8U0QVfNYZqY1GQbhJwhNgTIkvzOH+jzWkCc0KX1vO/871ou7poplhPDXq/xBz6n+Y+akO7LQMB2I+sx5vRYLERcQeg4hxX4uY1IbkcLrjimcNBHdS/Fv010t9vBqqPz1KeJExsKx2Bc1AUJzaV6+BuxcWX2lSSPcmU44=;LDrpsVl8qd616lpmN20Pmw=="
 ---

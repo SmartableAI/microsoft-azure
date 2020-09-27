@@ -21,56 +21,48 @@ topics:
   - Azure
 
 related:
-  - title: "Manage and find data with Blob Index for Azure Storage—now in preview"
-    excerpt: " \r\n\r\nBlob Index—a managed secondary index, allowing you to store multi-dimensional object attributes to describe your data objects for Azure Blob storage—is now available in preview. Built on top of blob storage, Blob Index offers consistent reliability, availability, and performance for all your workloads."
-    publishedDateTime: 2020-05-04T10:00:03Z
-    webUrl: "https://azure.microsoft.com/blog/manage-and-find-data-with-blob-index-for-azure-storage-now-in-preview/"
+  - title: "Azure VMware Solution (AVS) Preview private cloud and cluster concepts"
+    excerpt: "Learn about the key capabilities of Azure VMware software-defined data centers and vSphere clusters in VMware Solution on Azure by VMware."
+    publishedDateTime: 2020-05-05T05:23:00Z
+    webUrl: "https://docs.microsoft.com/en-us/azure/azure-vmware/concepts-private-clouds-clusters"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 106
+    quality: 37
     images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/92cec444-9b04-4e3c-9250-2af9a918d97d.png"
-        width: 1024
-        height: 644
+      - url: "https://docs.microsoft.com/en-us/media/logos/logo-ms-social.png"
+        width: 400
+        height: 400
         isCached: true
-  - title: "Azure Blob Storage enhancing data protection and recovery capabilities"
-    excerpt: "Enterprises, partners, and IT professionals store business-critical data in Azure Blob Storage. We are committed to providing the best-in-class data protection and recovery capabilities to keep your applications running. Today, we are announcing the general availability of Geo-Zone-Redundant Storage"
-    publishedDateTime: 2020-05-11T13:00:00Z
-    webUrl: "https://azure.microsoft.com/blog/azure-blob-storage-enhancing-data-protection-and-recovery-capabilities/"
+  - title: "Frequently asked questions about Azure VMware Solution (AVS) preview"
+    excerpt: "Azure VMware Solution (AVS) preview. 05/04/2020; 6 minutes to read; In this article. Answers for frequently asked questions about Azure VMware Sol"
+    publishedDateTime: 2020-05-05T05:22:00Z
+    webUrl: "https://docs.microsoft.com/en-us/azure/azure-vmware/faq"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 86
-  - title: "Query Acceleration for Azure Data Lake Storage now in preview"
-    excerpt: ""
-    publishedDateTime: 2020-04-29T16:00:06Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/query-acceleration-for-azure-data-lake-storage-now-in-preview-2/"
+    quality: 37
+    images:
+      - url: "https://docs.microsoft.com/en-us/media/logos/logo-ms-social.png"
+        width: 400
+        height: 400
+        isCached: true
+  - title: "Tutorial: Configure networking for your VMWare private cloud in Azure"
+    excerpt: "Configure networking for your VMWare private cloud in Azure. 05/04/2020; 4 minutes to read; In this article. An Azure VMware Solution (AVS) private cloud requires a virt"
+    publishedDateTime: 2020-05-05T05:22:00Z
+    webUrl: "https://docs.microsoft.com/en-us/azure/azure-vmware/tutorial-configure-networking"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 17
-  - title: "Azure Blob storage—Blob Index now available in preview"
-    excerpt: ""
-    publishedDateTime: 2020-05-07T01:00:17Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/blob-index-preview/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 17
-  - title: "Premium tier for Azure Data Lake Storage now in public preview"
-    excerpt: ""
-    publishedDateTime: 2020-05-11T18:00:02Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/premium-tier-for-azure-data-lake-storage-now-in-public-preview/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 17
+    quality: 37
+    images:
+      - url: "https://docs.microsoft.com/en-us/media/logos/logo-ms-social.png"
+        width: 400
+        height: 400
+        isCached: true
 
 secured: "65iB+eSS5uC9wz+wLMnIrl4u1v80uUnwWsT1iYC7JAvTg4qcet4XS/GfyzHJXx4KyxJ/W5GWz9lkpFvE/+qXEaKklmgfpJSYhsS9TPspqVloODLX+YEqVzxZIsGY0jeErhH+a8J2M3bQKQyYPw709Ni10zz+DdBEU+wMjwZ7/MBEDCQ3eJn5e6qg9UAFTBYqCEjhkVARTZ4j9pr0GKaN4SpBrdnydeKw64d3aViZTCono0ZpDLWPxlSo1K+zsbTyihUX091sV+7+uEm1p4YcAnJdvRJiPYYkRwsY6Syr3lF3ZW63ULMBYEj5CxxuN9vT5xldIebDxJoWGbb7JKp+Pg==;xwfvxB34EU6Z7uhcTqRUIQ=="
 ---

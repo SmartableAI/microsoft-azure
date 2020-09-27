@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/azure-blob-storage-lifec
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-blob-storage-lifecycle-management-now-supports-append-blobs/"
 type: article
 quality: 67
-heat: 107
+heat: 127
 published: true
 
 provider:
@@ -40,6 +40,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 61
+  - title: "Azure Data Lake Storage lifecycle management is now generally available"
+    excerpt: "Lifecycle management for Azure Data Lake Storage provides an automated solution for tiering down infrequently used data to cooler tiers, allowing you to easily optimize your data for both performance and cost.   "
+    publishedDateTime: 2020-07-31T20:00:18Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/lifecycle-management-for-azure-data-lake-storage-is-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 17
 
 secured: "xvRsBQq2uf6HfMIQTLAlHWd4lxlBARv27PVWyChgffxHOcQiZvI9ZS4KC+sYSjhqJdKz93JYtG7EkOfIF0ZInaESivZaC7SW6JftlFUHlk8TFX8HZt+zL7ty4oRteV9pma96BFzuatgtqJfGA9OWoeILp2YDjdlLr2VIv65Ir5nyUU0MeErXs0qBXuCOw5F6gSPWw6RMcQ1lwQFz5dIX/GQe9WtKTBDTIlRG23LCsRh4JgFhy05Cwb6FdhTI7dxLDYeLtR5TF9SPmeAaf+dh7XJHer4rEe1BIDwkXlLHesGJI0fq39KvlafP3J2qbwOjSXQIfdYzEHW0xBW3EYrWUYnYTclQjUhNQx9BhFoRlYM=;YjEamMZAHSbhhuHbR/Fu0w=="
 ---

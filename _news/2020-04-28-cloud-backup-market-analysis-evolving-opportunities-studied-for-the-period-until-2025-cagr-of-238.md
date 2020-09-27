@@ -28,75 +28,33 @@ images:
     title: "Cloud Backup Market Analysis, Evolving Opportunities Studied for the Period Until 2025 +CAGR of 23.8%"
 
 related:
-  - title: "Global Cloud Testing Market Emerging Trends And Future Opportunities Till 2023"
-    excerpt: "Global Cloud Testing Market Research Report, by Component (Services & Platform), by Deployment (Private, Public,"
-    publishedDateTime: 2020-04-27T10:20:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-cloud-testing-market-emerging-trends-and-future-opportunities-till-2023-2020-04-27"
+  - title: "Finance Cloud Market Outlook and Opportunities in Grooming Regions : Edition 2020"
+    excerpt: "Global Finance Cloud Market Size, Status And Forecast 2023 May 06, 2020 Xherald -- The global finance cloud market was valued at USD 12.22 billion in"
+    publishedDateTime: 2020-05-06T05:37:00Z
+    webUrl: "https://www.marketwatch.com/press-release/finance-cloud-market-outlook-and-opportunities-in-grooming-regions-edition-2020-2020-05-06"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 58
+    quality: 57
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Cloud Network Infrastructure Market : Global Business Growth, Size and share 2018-2023"
-    excerpt: "Cloud Network Infrastructure Market: By Component (Hardware, Services), Deployment (Public, Private and Hybrid),"
-    publishedDateTime: 2020-05-03T15:13:00Z
-    webUrl: "https://www.marketwatch.com/press-release/cloud-network-infrastructure-market-global-business-growth-size-and-share-2018-2023-2020-05-03"
+  - title: "Worsening economic conditions could mean Google Cloud has more acquisition opportunities"
+    excerpt: "The coronavirus allows Google Cloud to double down on its acquisition strategy as late-stage startups are vulnerable to worsening economic conditions."
+    publishedDateTime: 2020-04-28T19:01:00Z
+    webUrl: "https://www.businessinsider.com/google-cloud-faces-acquisition-opportunities-amid-pandemic-2020-4"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 54
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 53
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+      - url: "https://i.insider.com/5d3b1f4a100a2449c6157995?width=1200&format=jpeg"
         width: 1200
-        height: 630
-        isCached: true
-  - title: "Cloud Testing Market Report Region Market Size, Outlook, Trends,Share & Forecast 2018-2023"
-    excerpt: "Global Cloud Testing Market Research Report, by Component (Services & Platform), by Deployment (Private, Public,"
-    publishedDateTime: 2020-04-27T10:20:00Z
-    webUrl: "https://www.marketwatch.com/press-release/cloud-testing-market-report-region-market-size-outlook-trendsshare-forecast-2018-2023-2020-04-27"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 52
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Cloud Migration Services Market Global Trends, market Share, Growth, Opportunity 2017-2023"
-    excerpt: "The cloud migration services is basically a movement of infrastructure, data, business processes, and applications to the cloud. The increasing demand for cloud services among IT"
-    publishedDateTime: 2020-05-04T00:42:00Z
-    webUrl: "https://www.marketwatch.com/press-release/cloud-migration-services-market-global-trends-market-share-growth-opportunity-2017-2023-2020-05-03"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 52
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Cloud Manufacturing Market Size Growth Analysis, Outlook by - Trends and Forecast to 2019-2024"
-    excerpt: "Global Cloud Manufacturing Market Research Report: by Component (Hardware, Software and Services), by Deployment"
-    publishedDateTime: 2020-05-04T02:13:00Z
-    webUrl: "https://www.marketwatch.com/press-release/cloud-manufacturing-market-size-growth-analysis-outlook-by---trends-and-forecast-to-2019-2024-2020-05-03"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 50
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+        height: 600
         isCached: true
   - title: "Global Cloud Gaming Market 2020 (Edition:2020) Outstanding Growth - NVIDIA Corporation, Amazon Web Services Inc and Microsoft Corporation"
     excerpt: "Global Cloud Gaming Market (Revenue and Volume), Type, Application, End-User, and Regional Analysis, Import-Export Analysis, Industry Analysis, Premium Insights, Intellectual Property Analysis, Market Attractiveness,"
@@ -111,34 +69,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Global Public Cloud Application Services Market 2020 Emerging Trend, Top Companies, Industry Demand, Business Review and Regional Analysis by 2025"
-    excerpt: "A market study title Global Public Cloud Application Services Market Growth (Status and Outlook) 2020-2025 added"
-    publishedDateTime: 2020-04-26T21:16:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-public-cloud-application-services-market-2020-emerging-trend-top-companies-industry-demand-business-review-and-regional-analysis-by-2025-2020-04-26"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 24
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Gartner: Threats and opportunities facing cloud service providers during COVID-19"
-    excerpt: "Tech leaders need a thorough understanding of the threats, opportunities and forthcoming events that will occur as a result of the coronavirus pandemic."
-    publishedDateTime: 2020-05-04T13:57:00Z
-    webUrl: "https://www.ciodive.com/news/gartner-cloud-csp/577125/"
-    type: article
-    provider:
-      name: CIO Dive
-      domain: ciodive.com
-    quality: 17
-    images:
-      - url: "https://www.ciodive.com/user_media/cache/12/e2/12e2858c5eb8a7668a4ac74e3c216843.jpg"
-        width: 770
-        height: 364
         isCached: true
 
 secured: "FQA1MRayuz/3IfwhEQzNgO6sCuDY70DyqJ+OBhKK8ghw4tb3JXaTCDcMJXqg2OzsC8cjruUWt+9LMyPWZUTGp5kX9FKYfl1n0pIph9g80rk3z5q1sFNBTA2hiPkr1P+HUJpcegbepF/+JRmuMZ34ajQRTHnutnzPQdfjayDuDY+oYrJ7LD8Z2eS0V9VmS37R6FADRHnEtKtccfbjddVQM5HaXdbafX7PwCOBnpew/qbOrtn5XlgEX2MsPUAu3Isy0s6BQaU2Ae7AUACDk83oxAVLGL1x+gfqPCqkue49xGyY46hZG/ZpomgeH1bI+9qi;DhyHePjLKqTIOQQM/toLCQ=="

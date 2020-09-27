@@ -7,8 +7,8 @@ originalUrl: "https://azure.microsoft.com/blog/build-rich-communication-experien
 webUrl: "https://azure.microsoft.com/blog/build-rich-communication-experiences-at-scale-with-azure-communication-services/"
 type: article
 quality: 83
-heat: -1
-published: false
+heat: 143
+published: true
 
 provider:
   name: Microsoft
@@ -28,159 +28,38 @@ images:
     isCached: true
 
 related:
-  - title: "Daily Crunch: Microsoft launches Azure Communication Services"
-    excerpt: "Microsoft takes on Twilio, Google launches a work-tracking tool and Mirakl raises $300 million. This is your Daily Crunch for September 22, 2020. The big story: Microsoft launches Azure Communication Services Microsoft announced today that it’s ready to compete with Twilio by launching a set"
-    publishedDateTime: 2020-09-22T22:19:00Z
-    webUrl: "https://techcrunch.com/2020/09/22/daily-crunch-microsoft-azure-communication-services/"
-    ampWebUrl: "https://techcrunch.com/2020/09/22/daily-crunch-microsoft-azure-communication-services/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/09/22/daily-crunch-microsoft-azure-communication-services/amp/"
+  - title: "Build a scalable security practice with Azure Lighthouse and Azure Sentinel"
+    excerpt: "The Microsoft Azure Lighthouse product group is launching a blog series Azure Lighthouse covering areas where we are investing to make our service provider partners and enterprise customers successful with Azure."
+    publishedDateTime: 2020-09-16T10:00:31Z
+    webUrl: "https://azure.microsoft.com/blog/build-a-scalable-security-practice-with-azure-lighthouse-and-azure-sentinel/"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 97
+      name: Microsoft
+      domain: microsoft.com
+    quality: 82
+  - title: "Build powerful and responsible AI solutions with Azure"
+    excerpt: "As organizations assess safely reopening and continue navigating unexpected shifts in the world, getting insights to respond in an agile and conscientious manner is vital."
+    publishedDateTime: 2020-09-22T08:00:25Z
+    webUrl: "https://azure.microsoft.com/blog/build-powerful-and-responsible-ai-solutions-with-azure/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 69
+  - title: "AT&T powered guardian device with Azure Sphere enables highly secured, simple, and scalable connectivity from anywhere"
+    excerpt: "In July 2019, Microsoft and AT&T entered a strategic alliance to lead innovation and deliver powerful new solutions in some of the most transformative technologies, including the Internet of Things (IoT). Today, we are sharing that as part of that partnership, AT&T is introducing a new IoT solution consisting"
+    publishedDateTime: 2020-09-22T08:00:16Z
+    webUrl: "https://azure.microsoft.com/blog/attpowered-guardian-device-with-azure-sphere-enables-highly-secured-simple-and-scalable-connectivity-from-anywhere/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 63
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/08/GettyImages-1248409190.jpg?w=1024"
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/071cbd4b-fb81-44a6-9fd6-333ec60aee38.png"
         width: 1024
-        height: 683
+        height: 649
         isCached: true
-  - title: "Microsoft adds more devices and services to its Azure Stack hybrid line-up"
-    excerpt: "Microsoft is adding three new edge-computing devices and moving ahead, with various Azure-branded services that are part of its hybrid-cloud family."
-    publishedDateTime: 2020-09-22T15:00:00Z
-    webUrl: "https://www.zdnet.com/index.php/category/2184/index.php/article/microsoft-adds-more-devices-services-to-its-azure-stack-hybrid-line-up/"
-    ampWebUrl: "https://www.zdnet.com/index.php/category/2184/index.php/google-amp/article/microsoft-adds-more-devices-services-to-its-azure-stack-hybrid-line-up/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2184/index.php/google-amp/article/microsoft-adds-more-devices-services-to-its-azure-stack-hybrid-line-up/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 95
-    images:
-      - url: "https://zdnet4.cbsistatic.com/hub/i/2020/09/20/95073367-3a24-4e17-8461-3e833f4f66e3/azurestackhybridignite.jpg"
-        width: 980
-        height: 597
-        isCached: true
-  - title: "Azure Communications Services is Microsoft's new managed communication platform"
-    excerpt: "At its annual Ignite conference, Microsoft announced Azure Communications Service, the first fully managed communication platform offering from a major cloud provider. The service will help developers deliver enterprise-grade communication experiences ..."
-    publishedDateTime: 2020-09-22T14:59:00Z
-    webUrl: "https://www.neowin.net/news/azure-communications-services-is-microsofts-new-managed-communication-platform"
-    ampWebUrl: "https://www.neowin.net/amp/azure-communications-services-is-microsofts-new-managed-communication-platform/"
-    cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/azure-communications-services-is-microsofts-new-managed-communication-platform/"
-    type: article
-    provider:
-      name: Neowin
-      domain: neowin.net
-    quality: 93
-    images:
-      - url: "https://cdn.neow.in/news/images/uploaded/2020/09/1600721129_azure_at_ignite_2020_(2)_story.jpg"
-        width: 760
-        height: 428
-        isCached: true
-  - title: "Microsoft Guns for Twilio's Business With Launch of Azure Communication Services"
-    excerpt: "Microsoft (NASDAQ:MSFT) is continuously upping its game in the public cloud arena, and recently announced the availability of Azure Communications Services. The new product is a library of APIs (an API is an application programming interface,"
-    publishedDateTime: 2020-09-23T02:55:00Z
-    webUrl: "https://www.fool.com/investing/2020/09/22/microsoft-guns-for-twilios-business-with-launch-of/"
-    ampWebUrl: "https://www.fool.com/amp/investing/2020/09/22/microsoft-guns-for-twilios-business-with-launch-of/"
-    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/09/22/microsoft-guns-for-twilios-business-with-launch-of/"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 92
-    images:
-      - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F592605%2Fsmartphone-millennials-getty-6217.jpg&w=1200&op=resize"
-        width: 1200
-        height: 740
-        isCached: true
-  - title: "Microsoft unveils updates across Azure Cognitive Services and Azure Machine Learning"
-    excerpt: "Microsoft rolled out updates across its AI and machine learning cloud portfolio during its Ignite 2020 virtual conference."
-    publishedDateTime: 2020-09-22T16:00:00Z
-    webUrl: "https://venturebeat.com/2020/09/22/microsoft-unveils-updates-across-azure-cognitive-services-and-azure-machine-learning/"
-    ampWebUrl: "https://venturebeat.com/2020/09/22/microsoft-unveils-updates-across-azure-cognitive-services-and-azure-machine-learning/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/22/microsoft-unveils-updates-across-azure-cognitive-services-and-azure-machine-learning/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 90
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2019/11/microsoft-1-e1580261336710.jpg?w=1200&#038;strip=all"
-        width: 1200
-        height: 573
-        isCached: true
-  - title: "Nokia simplifies Microsoft Azure integration"
-    excerpt: "The announcement comes almost a year after Nokia and Microsoft made their first joint solutions public. In November 2019, the two companies announced a strategic collaboration aim"
-    publishedDateTime: 2020-09-16T12:26:00Z
-    webUrl: "https://www.itpro.co.uk/marketing-comms/business-communications/357124/nokia-simplifies-microsoft-azure-integration"
-    type: article
-    provider:
-      name: IT Pro
-      domain: itpro.co.uk
-    quality: 77
-    images:
-      - url: "https://media.itpro.co.uk//image/upload/v1594375394/itpro/2020/07/shutterstock_nokia%20data%20centre.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "TCS Quartz? suite becomes available on Microsoft Azure Blockchain Service"
-    excerpt: "Tata Consultancy Services announced the general availability of its award winning Quartz? suite of blockchain based solutions on Microsoft Azure Blockchain Service. The Quartz suite of products helps organizations set up truly connected ecosystems ..."
-    publishedDateTime: 2020-09-21T07:04:00Z
-    webUrl: "https://www.indiainfoline.com/article/capital-market-corporate-news/tcs-quartz-suite-becomes-available-on-microsoft-azure-blockchain-service-120092100110_1.html"
-    ampWebUrl: "https://www.indiainfoline.com/article-amp/capital-market-corporate-news/tcs-quartz-suite-becomes-available-on-microsoft-azure-blockchain-service-120092100110_1.html"
-    cdnAmpWebUrl: "https://www-indiainfoline-com.cdn.ampproject.org/c/s/www.indiainfoline.com/article-amp/capital-market-corporate-news/tcs-quartz-suite-becomes-available-on-microsoft-azure-blockchain-service-120092100110_1.html"
-    type: article
-    provider:
-      name: India Infoline
-      domain: indiainfoline.com
-    quality: 56
-    images:
-      - url: "https://content.indiainfoline.com/_media/iifl/img/article/default/news.jpg"
-        width: 350
-        height: 233
-        isCached: true
-  - title: "Microsoft disrupts nation-state hacker op using Azure Cloud service"
-    excerpt: "In a report today, Microsoft said that it disrupted operations of a nation-state threat group that was using its Azure cloud infrastructure for cyber attacks."
-    publishedDateTime: 2020-09-25T09:22:00Z
-    webUrl: "https://www.bleepingcomputer.com/news/security/microsoft-disrupts-nation-state-hacker-op-using-azure-cloud-service/"
-    ampWebUrl: "https://www.bleepingcomputer.com/news/security/microsoft-disrupts-nation-state-hacker-op-using-azure-cloud-service/amp/"
-    cdnAmpWebUrl: "https://www-bleepingcomputer-com.cdn.ampproject.org/c/s/www.bleepingcomputer.com/news/security/microsoft-disrupts-nation-state-hacker-op-using-azure-cloud-service/amp/"
-    type: article
-    provider:
-      name: Bleeping Computer
-      domain: bleepingcomputer.com
-    quality: 37
-  - title: "TCS Quartz suite becomes available on Microsoft Azure Blockchain Service"
-    excerpt: "Tata Consultancy Services announced the general availability of its award winning Quartz suite of blockchain based solutions on Microsoft Azure Blockchain Service. The Quartz suite of products helps organizations set up truly connected ecosystems ..."
-    publishedDateTime: 2020-09-21T21:38:00Z
-    webUrl: "https://www.indiainfoline.com/article/companies-announcements-bse/tcs-quartz%EF%BF%BD-suite-becomes-available-on-microsoft-azure-blockchain-service-120092200062_1.html"
-    type: article
-    provider:
-      name: India Infoline
-      domain: indiainfoline.com
-    quality: 36
-    images:
-      - url: "https://www.indiainfoline.com/include/_mod/site/images/currentoffer_mobile.png"
-        width: 600
-        height: 277
-        isCached: true
-  - title: "Microsoft Azure launches services that compete with Twilio, Amazon"
-    excerpt: "Microsoft (MSFT +1.2%) launches Azure Communication Services, which allows developers to add video, voice, chat, and text messaging across applications, websites, and mobile platforms.The tech giant says Communication Services can improve \"customer engagement with Azure AI translation and sentiment analysis for chat messages."
-    publishedDateTime: 2020-09-22T16:57:00Z
-    webUrl: "https://seekingalpha.com/news/3616223-microsoft-azure-launches-services-compete-twilio-amazon"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 17
-  - title: "Viasat integrates its ground service solution with Microsoft's Azure Orbital"
-    excerpt: "Viasat (VSAT -1.1%) enters Microsoft's Azure Orbital ecosystem with its Real-Time Earth (RTE) solutions available as a managed services option to orbital end-users.Viasat's RTE network provides Ground-Station-as-a-Service ((GSaaS)) to the commercial and government earth observation and remote sensing communities on pay-per-use basis."
-    publishedDateTime: 2020-09-22T19:28:00Z
-    webUrl: "https://seekingalpha.com/news/3616273-viasat-integrates-ground-service-solution-microsofts-azure-orbital"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 14
 
 secured: "jaVL/RRLraE4iYeJcTSERQne+p7si5I9vmjsVPfeKvlxkPBsiXixBCFBW4B0fU3XQMN+wClaTwIGPz6mey4GT3IUnB6BCEfXfo9Z8wlQeQ72cdhWdL1xodODD0muWcUub/Y1Hksu5ykd2F46uCyFetkrlYTIECvAAizLwbO5hH53teCAtFX0n0xFbvBhUp3Hg8HYx5lAFdhnOKB/AJznHH122uu3M/0b5Opa7zW7na7kh87jLlA9lf1EyCsl691iaC1ULQxuWLAf0sg0iDVBVQ7qs8S67obpAvAP3dBWWy8Fc7mPSmIniJIKR8Lomx3q0GaUcR5l7meJkIBa5nNY82jT68j2rpPCYmQGQ5/U8GQ=;Py9Rm6nAtB6xui8Lp86s3Q=="
 ---

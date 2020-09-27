@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/announcing-preview-of-java-messag
 webUrl: "https://azure.microsoft.com/blog/announcing-preview-of-java-message-service-2-over-amqp-on-azure-service-bus/"
 type: article
 quality: 64
-heat: 104
+heat: 84
 published: true
 
 provider:
@@ -22,20 +22,6 @@ topics:
   - Azure
 
 related:
-  - title: "Microsoft Announces the Preview of Java Message Service 2.0 over AMQP on Azure Service Bus"
-    excerpt: "In a recent blog post, Microsoft announced the preview support for Java Message Service (JMS) 2.0 over AMQP in the Azure Service Bus Premium tier. The support will allow customers to modernize their application stack by lifting and shifting their Java and Spring workloads to Azure."
-    publishedDateTime: 2020-08-17T11:39:00Z
-    webUrl: "https://www.infoq.com/news/2020/08/jms-2-amqp-service-bus-preview/?topicPageSponsorship=1affdcd4-e9d5-432d-80ae-f9e5b551db61&itm_source=presentations_about_Devops&itm_medium=link&itm_campaign=Devops"
-    type: article
-    provider:
-      name: InfoQ
-      domain: infoq.com
-    quality: 27
-    images:
-      - url: "https://cdn.infoq.com/statics_s2_20200821055107/styles/static/images/logo/logo-big.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Simplify and Modernize your Java and Spring workloads with Azure Service Bus"
     excerpt: "In order to provide Azure Service Bus to more customers irrespective of their application stack and application ecosystem, and in keeping with that vision, we’re announcing feature parity with Java Message Service (JMS) 2.0 over AMQP."
     publishedDateTime: 2020-08-05T16:00:02Z

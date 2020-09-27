@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-14T03:11:14Z
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-confidential-computing-available-in-west-us2/"
 type: article
 quality: 67
-heat: 167
+heat: 147
 published: true
 
 provider:
@@ -43,15 +43,6 @@ related:
     excerpt: "Confidential computing DCsv2-series virtual machines (VMs) are now available in East US, Canada Central, UK South, and West Europe."
     publishedDateTime: 2020-06-22T16:00:41Z
     webUrl: "https://azure.microsoft.com/en-us/updates/azure-confidential-computing-available-in-west-europe/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 17
-  - title: "Selective disks backup for Azure Virtual Machine is in public preview"
-    excerpt: "Optimize your costs and enjoy faster backup and restore operations by selectively backing up a subset of the data disks in a VM."
-    publishedDateTime: 2020-08-06T18:00:12Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/selective-disks-backup-for-azure-virtual-machine-is-in-public-preview/"
     type: article
     provider:
       name: Microsoft

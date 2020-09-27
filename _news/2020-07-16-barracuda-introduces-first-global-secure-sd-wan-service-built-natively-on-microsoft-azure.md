@@ -37,29 +37,22 @@ related:
         width: 911
         height: 513
         isCached: true
-  - title: "Barracuda launches secure SD-WAN service built natively on Microsoft Azure"
-    excerpt: "WAN service built natively on Microsoft Azure. The new Barracuda CloudGen WAN service is the first SD-WAN solution that runs inside Azure Virtual WAN Hubs. Hubs can be interconnected through the Microsoft Global Network."
-    publishedDateTime: 2020-07-20T02:02:00Z
-    webUrl: "https://www.helpnetsecurity.com/2020/07/20/barracuda-sd-wan-service/"
+  - title: "Barracuda launches first global SD-WAN service built natively on Microsoft Azure"
+    excerpt: "Barracuda, a leading provider of cloud-enabled security solutions, has introduced a new secure SD-WAN service built natively on Microsoft Azure. The new Barracuda CloudGen WAN service is the first SD-WAN solution that runs inside Azure Virtual WAN Hubs."
+    publishedDateTime: 2020-07-17T07:11:00Z
+    webUrl: "https://www.thehindubusinessline.com/info-tech/barracuda-launches-first-global-sd-wan-service-built-natively-on-microsoft-azure/article32111482.ece"
+    ampWebUrl: "https://www.thehindubusinessline.com/info-tech/barracuda-launches-first-global-sd-wan-service-built-natively-on-microsoft-azure/article32111482.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/barracuda-launches-first-global-sd-wan-service-built-natively-on-microsoft-azure/article32111482.ece/amp/"
     type: article
     provider:
-      name: Help Net Security
-      domain: helpnetsecurity.com
-    quality: 35
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 52
     images:
-      - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/06/15084653/insecure-66.jpg"
-        width: 304
-        height: 430
+      - url: "https://www.thehindubusinessline.com/info-tech/nozm6x/article32111481.ece/ALTERNATES/LANDSCAPE_615/BL17CLOUD"
+        width: 615
+        height: 384
         isCached: true
-  - title: "Barracuda introduces SD-WAN service built natively on Microsoft Azure"
-    excerpt: "Barracuda released what it calls the first SD-WAN service built natively on Microsoft Azure. The new Barracuda CloudGen WAN service is the first SD-WAN platform that runs inside Azure Virtual WAN Hubs. Hubs can be interconnected through the Microsoft ..."
-    publishedDateTime: 2020-07-17T12:43:00Z
-    webUrl: "https://www.telecompaper.com/news/barracuda-introduces-sd-wan-service-built-natively-on-microsoft-azure--1346958"
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 17
   - title: "Now install network virtual appliances directly into an Azure Virtual WAN hub"
     excerpt: "Several new capabilities for Azure Virtual WAN are now in preview—including the option to install network virtual appliances directly into a virtual WAN hub as an option for SD-WAN connectivity. "
     publishedDateTime: 2020-07-21T16:02:05Z

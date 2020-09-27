@@ -38,6 +38,31 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "DOD Strikes Back At Amazon's Protest To $10B JEDI Review"
+    excerpt: "On March 13, the DOD asked for 120 days to reevaluate proposals for the JEDI deal. For its reevaluation, the DOD plans to look only at extra information for one price scenario, according to a court filing. The limited review has drawn Amazon's opposition, with the company claiming it was designed to give Microsoft Inc. — the company awarded ..."
+    publishedDateTime: 2020-04-18T02:36:00Z
+    webUrl: "https://www.law360.com/articles/1264878/dod-strikes-back-at-amazon-s-protest-to-10b-jedi-review"
+    ampWebUrl: "https://www.law360.com/amp/articles/1264878"
+    cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1264878"
+    type: article
+    provider:
+      name: Law360
+      domain: law360.com
+    quality: 22
+  - title: "Judge gives DOD the chance for a second look at some aspects of the JEDI award"
+    excerpt: "AWS argued against the remand, stating that \"its proposed corrective action is irrational and would result in a predetermined re-award of the JEDI contract to Microsoft -- a fundamental breach of the very premise of corrective action.\" Microsoft, which is a party to the government's case, said that AWS lost fair and square. \"Amazon did build ..."
+    publishedDateTime: 2020-04-20T09:30:00Z
+    webUrl: "https://fcw.com/articles/2020/04/17/hasc-chair-react-jedi-probe.aspx"
+    type: article
+    provider:
+      name: Federal Computer Week
+      domain: fcw.com
+    quality: 18
+    images:
+      - url: "https://fcw.com/-/media/GIG/EDIT_SHARED/PEOPLE/S/adamsmith.jpg"
+        width: 760
+        height: 368
+        isCached: true
 
 secured: "aAy7HnP6fwhTuAg98/9Z9gnssLthLE6pQUh7EsNfUyug3wAbkAtfKhFFKsWYyf/XFDU9zxURRcogK1ebqiJpRRN0bcK7ylNoTeXiasylxG+CVQaTlP89tmxW7oj2odpexKYW5JEZBdO1buqKUO3vfIiAgYdWENf02w6g+BHlEeTIJqt7wyk5MzAsi4Slg6cANcE1YIVSNl59RvZzSfGD9d149HAgzbD3O6EYx3qOdwkSVrOkrHDCMmjsEpKZmq0AaL80Uu0zEpNDnsWpEVNWyuo0CaAjZELJwXZTzehWkIelk/zxJo6hZS9CmbURn9X2;JuJijVMbzQNofF6Jth+UUg=="
 ---

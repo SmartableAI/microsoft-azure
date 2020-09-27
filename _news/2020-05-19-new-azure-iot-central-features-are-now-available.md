@@ -53,33 +53,6 @@ related:
         width: 827
         height: 552
         isCached: true
-  - title: "Azure IoT Central—March 2020 updates"
-    excerpt: ""
-    publishedDateTime: 2020-04-28T23:00:43Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-iot-central-march-2020-updates/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 17
-  - title: "Azure IoT Central—April 2020 new features"
-    excerpt: ""
-    publishedDateTime: 2020-05-14T21:00:40Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-iot-central-april-2020-new-features/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 17
-  - title: "Azure IoT Central—April 2020 updates"
-    excerpt: ""
-    publishedDateTime: 2020-05-14T21:00:32Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-iot-central-april-2020-updates/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 17
   - title: "Azure IoT Central jobs and metrics feature updates—May 2020"
     excerpt: "May 2020 jobs and metrics feature updates for Azure IoT Central are now available."
     publishedDateTime: 2020-06-12T20:00:10Z

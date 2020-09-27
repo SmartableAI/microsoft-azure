@@ -24,15 +24,20 @@ images:
     title: "Cryptominers Found in Azure Kubernetes Containers"
 
 related:
-  - title: "Azure Monitor for Containers support for Azure Arc is in preview"
-    excerpt: "Azure Monitor for Containers is now extending monitoring support for Kubernetes clusters hosted on Azure Arc. This support is currently in preview."
-    publishedDateTime: 2020-06-17T21:30:19Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azcoinarc/"
+  - title: "Hackers Turn Kubernetes Machine Learning to Crypto Mining in Azure Cloud"
+    excerpt: "Beginning a few years ago or so, the AWS cloud ignominiously suffered a long spate of such attacks, most of which leveraged misconfigured S3 storage buckets as attack vectors. Recently, Microsoft's Azure cloud experienced a similar situation, this one ..."
+    publishedDateTime: 2020-06-24T18:55:00Z
+    webUrl: "https://virtualizationreview.com/articles/2020/06/24/azure-cloud-exploit.aspx"
     type: article
     provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 17
+      name: Virtualization Review
+      domain: virtualizationreview.com
+    quality: 36
+    images:
+      - url: "https://virtualizationreview.com/-/media/ECG/VirtualizationReview/Images/IntroImages2019/BrokenChainBlue.jpg"
+        width: 647
+        height: 450
+        isCached: true
 
 secured: "l/JwlNGkVTZ47ayxpl1ui/Vj4Tywwdfqsd8w442Rg1UQMmSkNdSZZT+8ObJcuBlBAwnDKnT7JsqsxtJveVzWTJElKfdBsIYosT/pSy5tO8dbCJB7MOtWeKZXAE4NH0st1GASROQqzMuefubgT+OmFL/VRAPSpnlxFGAiPKZlC9yudQvbNPKg1SYY3moBLOfx7E7QVEwFqYZIxZPBvJGrsFQdHSUhnCUWdsGSsbFjxsp7vn6y4pYFqrnjdld+cHqRmSPVg8vwCGjB5Uyd5Cd1plgpMdDp4RAg8TVplA4qgxyRT0YKnn03SzcsoIH+w3m8au1c4auJRDY0KW0FAB4rDw==;DmmW0acYH9v1DACbR6ps6A=="
 ---

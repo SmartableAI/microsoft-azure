@@ -30,21 +30,21 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 54
+    quality: 69
     images:
       - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/44928849-f16e-4a7f-8071-456c1f340ec3.png"
         width: 1457
         height: 806
         isCached: true
-  - title: "Advanced integrations with export of Security Center recommendations and alerts"
+  - title: "Identity recommendations now included in Azure Security Center free tier"
     excerpt: ""
-    publishedDateTime: 2020-04-15T16:00:24Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/advanced-integrations-with-export-of-security-center-recommendations-and-alerts/"
+    publishedDateTime: 2020-04-20T22:00:27Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/identity-recommendations-on-free-tier/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 0
+    quality: 16
 
 secured: "SQXhbHfi9+dvgz8KeHJnuy4TbPuo3Xtg2hC8V2JjBIqPeqB5oPGxrixH5hCdyJGA/rFRsuWj+7ydLCLn2cPV77NBgDJW/llC4gYfQ4vDyr+uT+xoG5i3aiMDuwLOOYtClxoIpc+OAGH1uWOctGwLU5xdFkfokO7JlsH/QVQiLa00rdgagKmJpbPo9gyyVij0R2uDaU0fCzNTmyaTGHdpd5iGfgXZizW+vm5WpdYvGVWUQDmKrSVNryo2CxACqt3wVe21Gl9Dq+ePX+7w05gz7vpH5AVOnF2rmVrlbLyW1Y4KtCcLKStABVtpxWLilDmFSIdgwzGG/EGVDpJ2J4FhaQ==;ox29DYJAfdjTfUW4PtOeag=="
 ---

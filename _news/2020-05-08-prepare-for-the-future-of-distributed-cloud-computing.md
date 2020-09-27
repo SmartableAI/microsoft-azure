@@ -8,7 +8,7 @@ ampWebUrl: "https://www.infoworld.com/article/3542672/prepare-for-the-future-of-
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3542672/prepare-for-the-future-of-distributed-cloud-computing.amp.html"
 type: article
 quality: 82
-heat: 122
+heat: 102
 published: true
 
 provider:
@@ -45,20 +45,6 @@ related:
       - url: "https://tr4.cbsistatic.com/hub/i/r/2020/04/30/61a5fc1e-5f9f-4a11-b0e7-62340e7bbd64/thumbnail/1200x675/bf9d1ca7025b33658e94dd76217e5b43/20200427-lance2-karen.jpg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Will coronavirus compound the concentration of cloud computing champions?"
-    excerpt: "As enterprise organisations are forced through digital transformation programmes during the COVID-19 lockdown period, some might suggest all will benefit, but it does appear newly created revenues are"
-    publishedDateTime: 2020-05-10T09:52:00Z
-    webUrl: "https://telecoms.com/504201/will-coronavirus-compound-the-concentration-of-cloud-computing-champions/"
-    type: article
-    provider:
-      name: Telecoms
-      domain: telecoms.com
-    quality: 21
-    images:
-      - url: "https://telecoms.com/wp-content/blogs.dir/1/files/2017/02/Cloud-Money-300x203.jpg"
-        width: 300
-        height: 203
         isCached: true
 
 secured: "rSwkICR1JFKoeLSs/IfW5Bh2FXprktYbtb2Jr0Ilva/ETm3k3MUcHQ6r5ZPkj1sTu08asqJeUycVFlRdpiiL6EFHOyd8n1QlHROKWpwN5U1vw5xk0CDgHHkyVvx/ftxOttX16Gt0OYc0l+hXcThVgWMtHDTB1uK5TT+vsIFOxpdIdcYFTGoml9wRSFJmfPGIv8wSDRkeAP0L4A8K76b7PxKbeaU1fGaC+xrMsI+oyvyILlfbTSoYzGVE8gPEUitCiuUseHkVUGCx6gJYl8OV9e2+TlvEw/qljWc7iUqm7J+/Ro+LxtovuM7P0ZxwoD+yab9UCGP+fcfcfxEXp1xLlqQ4YOq/RNDNA57KEkhbu9I/TK0wcJZKd0C5aD0+94b/h4eAGvcdyjYNrnCKwRtsO4hCAKMIeHqvl2RlXDsV2+PK6MY37Lf0DLC7Axz/y2+nwgTWXNpiV8GIo/JWjijlGQfRO02rN9YQe3z/pKl2el0=;JgeoehXDKzePPM0w1YNRjQ=="

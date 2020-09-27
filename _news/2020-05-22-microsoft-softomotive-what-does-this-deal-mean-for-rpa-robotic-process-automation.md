@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/tomtaulli/2020/05/22/microsoft--softomo
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomtaulli/2020/05/22/microsoft--softomotive-what-does-this-deal-mean-for-rpa-robotic-process-automation/amp/"
 type: article
 quality: 54
-heat: -1
+heat: 54
 published: false
 
 provider:
@@ -21,81 +21,6 @@ provider:
 
 topics:
   - Azure
-
-related:
-  - title: "Microsoft buys software-automation company Softomotive"
-    excerpt: "Softomotive will integrate with Power Automate, Microsoft's tool for automating workflows that would normally be tedious."
-    publishedDateTime: 2020-05-19T16:00:00Z
-    webUrl: "https://www.cnbc.com/2020/05/19/microsoft-buys-software-automation-company-softomotive.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2020/05/19/microsoft-buys-software-automation-company-softomotive.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/05/19/microsoft-buys-software-automation-company-softomotive.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 82
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106261600-1574453260135gettyimages-1127797637.jpeg?v=1589900843"
-        width: 4358
-        height: 3190
-        isCached: true
-  - title: "Microsoft is building software for health care workers and hospitals"
-    excerpt: "The tech giant says the software, which will be available later this year, is designed to help doctors schedule virtual appointments and improve security."
-    publishedDateTime: 2020-05-19T15:02:00Z
-    webUrl: "https://www.cnet.com/health/microsoft-is-building-software-for-health-care-workers-and-hospitals/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/microsoft-is-building-software-for-health-care-workers-and-hospitals/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/microsoft-is-building-software-for-health-care-workers-and-hospitals/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 82
-    images:
-      - url: "https://cnet3.cbsistatic.com/img/Dok6c43xRR9WyO7Gg_0AlGrbr6Q=/756x567/2020/04/14/de44da9c-e4e1-4477-b318-7b6e6923b653/gettyimages-1200013326.jpg"
-        width: 756
-        height: 567
-        isCached: true
-  - title: "Microsoft to adapt its cloud software for healthcare industry"
-    excerpt: "Microsoft Corp said on Tuesday it plans to roll out a version of its cloud-based software that will be modified to suit the needs of healthcare organizations."
-    publishedDateTime: 2020-05-19T15:05:00Z
-    webUrl: "https://www.reuters.com/article/us-microsoft-tech-idUSKBN22V27Z"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN22V27Z"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN22V27Z"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 82
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20200519&t=2&i=1519179146&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG4I1BJ"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "Microsoft strengthens its RPA portfolio with Softomotive acquisition"
-    excerpt: "Microsoft announced their planned acquisition of Softomotive, a UK-headquartered RPA software company with roots in Greece. With the intended purchase, Microsoft has muscled into the RPA game in a big way and,"
-    publishedDateTime: 2020-05-20T14:57:00Z
-    webUrl: "https://www.zdnet.com/article/microsoft-strengthens-its-rpa-portfolio-with-softomotive-acquisition/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-strengthens-its-rpa-portfolio-with-softomotive-acquisition/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-strengthens-its-rpa-portfolio-with-softomotive-acquisition/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 82
-    images:
-      - url: "https://zdnet2.cbsistatic.com/hub/i/r/2020/01/06/729a12cf-e9ce-41fc-a5f7-ff3d2b08dd86/thumbnail/1200x675/463f9e181651c8c4749d69e9511e9cd8/budget.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Keyhole Software Earns Microsoft Gold Competency Status"
-    excerpt: "Keyhole Software announces its achievement of the Microsoft Gold Competency status. This accomplishment will increase its capacity to continue to serve their clients by offering quality Microsoft-based solutions."
-    publishedDateTime: 2020-05-14T07:08:00Z
-    webUrl: "https://www.pr.com/press-release/812467"
-    type: article
-    provider:
-      name: PR
-      domain: pr.com
-    quality: 2
 
 secured: "+uXthuiJcClKtSV1qkOyTjd0DfLObEb/G9H+iSauUA7vxQGBhoRSSOUSV9rSPmvU+JWNzMi3XPP9QEs0XMR9ON3JCjxPXKCssgV89HTcd3opiHEORFye+LdYMcTOOYlvnSQRL0rJHxw/1tvOf4Tr+UxIa2yn6Kh1DXG3y8EGdrHGwZlRqt86p2Vh0QWUyDaIIlVCPKd0T5rxOi/bPM8k3d+3qqT6LIrPS43rW8xtQoK2TdKS3s7QE1mvf2YjFHhP46F5VFFsNg4I9ZStCZs55ckyjjA8yjWEEqbGR975QA3jdg0iO+1v+k9VBpkH3tBiMCgIg21xl2nb8TzWC2BNVUQdX+XJEIsfIkheR6OG6BxwKNBBjlbGuDWJOwPDAGZeeJ5WCrbvxvHsTxuiKowOSPpAtEic0pZS6KzlL6+67mCsZXB6XHRO68xJmRd7OsdHoCuUmBMJFvCUUUSZbnTup0ILWXBa8TOjglJK1vcEcMI=;779AuF4E820xOYbhNQdLsQ=="
 ---

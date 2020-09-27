@@ -23,52 +23,142 @@ images:
     isCached: true
 
 related:
-  - title: "Running SD-WAN virtual appliances natively in Azure Virtual WAN"
-    excerpt: "Today we’re announcing the preview of the new ability to deploy and run third-party Network Virtual Appliances such as SD-WAN natively within the Azure Virtual WAN hubs."
-    publishedDateTime: 2020-07-16T10:00:40Z
-    webUrl: "https://azure.microsoft.com/blog/running-sdwan-virtual-appliances-natively-in-azure-virtual-wan/"
+  - title: "Microsoft announces Azure-centric alliance with C.H. Robinson"
+    excerpt: "With focus lying on the digital transformation of supply chains, the partnership between Microsoft and C.H. Robinson will look toward leveraging Azure, Azure IoT, and the Navisphere platform."
+    publishedDateTime: 2020-07-14T21:44:00Z
+    webUrl: "https://www.neowin.net/news/microsoft-announces-azure-centric-alliance-with-ch-robinson"
+    ampWebUrl: "https://www.neowin.net/amp/microsoft-announces-azure-centric-alliance-with-ch-robinson/"
+    cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-announces-azure-centric-alliance-with-ch-robinson/"
     type: article
     provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 89
+      name: Neowin
+      domain: neowin.net
+    quality: 97
     images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/861ec5e7-1837-4e5f-b7ba-8721cc802554.png"
-        width: 911
-        height: 513
+      - url: "https://cdn.neow.in/news/images/uploaded/2020/07/1594761150_microsoft_c.h._robinson_logo_story.jpg"
+        width: 760
+        height: 428
         isCached: true
-  - title: "Barracuda introduces first global secure SD-WAN service built natively on Microsoft Azure"
-    excerpt: "New Barracuda CloudGen WAN is the first secure global SD-WAN service built natively on Microsoft Azure. The new service is deployed directly from Azure, works out of the box with smart default ..."
-    publishedDateTime: 2020-07-16T17:08:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/barracuda-introduces-first-global-secure-sd-wan-service-built-natively-on-microsoft-azure-301094835.html"
+  - title: "Microsoft and Samsung partner to digitize building maintenance via Azure and smart appliances"
+    excerpt: "The companies will pair Samsung’s smart home appliances and devices with Microsoft’s Azure cloud technology, with the aim of improving building maintenance practices. “This collaboration with Samsung opens up new opportunities for further innovation ..."
+    publishedDateTime: 2020-07-13T17:12:00Z
+    webUrl: "https://www.geekwire.com/2020/microsoft-samsung-partner-digitize-building-maintenance-via-azure-smart-appliances/"
+    ampWebUrl: "https://www.geekwire.com/2020/microsoft-samsung-partner-digitize-building-maintenance-via-azure-smart-appliances/amp/"
+    cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/microsoft-samsung-partner-digitize-building-maintenance-via-azure-smart-appliances/amp/"
+    type: article
+    provider:
+      name: GeekWire
+      domain: geekwire.com
+    quality: 86
+    images:
+      - url: "https://cdn.geekwire.com/wp-content/uploads/2016/04/IMG_9235-1240x827.jpg"
+        width: 1240
+        height: 827
+        isCached: true
+  - title: "Accelerating ATO in Microsoft Azure"
+    excerpt: "While your cloud provider manages security OF the cloud, security IN the cloud is the responsibility of the customer. During this on-demand webinar, Microsoft Azure’s Chief Information Security Officer for High Security Clouds, Mr. Richard Scher ..."
+    publishedDateTime: 2020-07-09T03:51:00Z
+    webUrl: "https://www.infoworld.com/resources/205509/accelerating-ato-in-microsoft-azure"
+    type: article
+    provider:
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 77
+    images:
+      - url: "https://idge.staticworld.net/ifw/IFW_logo_social_300x300.png"
+        width: 300
+        height: 300
+        isCached: true
+  - title: "Microsoft (MSFT) Azure to Aid Digital Overhaul of Halliburton"
+    excerpt: "Per the deal, Microsoft’s cloud platform Azure will help Halliburton enhance its customer offerings and drive digital transformation. Markedly, Azure’s advanced cloud computing capabilities will be leveraged by Halliburton to support remote work ..."
+    publishedDateTime: 2020-07-20T17:23:00Z
+    webUrl: "https://www.nasdaq.com/articles/microsoft-msft-azure-to-aid-digital-overhaul-of-halliburton-2020-07-20"
+    ampWebUrl: "https://www.nasdaq.com/articles/microsoft-msft-azure-to-aid-digital-overhaul-of-halliburton-2020-07-20?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/microsoft-msft-azure-to-aid-digital-overhaul-of-halliburton-2020-07-20?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 77
+  - title: "Microsoft adds more APIs to its Azure Cognitive Services for developers"
+    excerpt: "Microsoft Corp. is adding more Cognitive Services application programming interfaces to its Azure cloud platform as it continues to expand its array of artificial intelligence services."
+    publishedDateTime: 2020-07-09T00:07:00Z
+    webUrl: "https://siliconangle.com/2020/07/08/microsoft-adds-apis-azure-cognitive-services-developers/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 37
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/07/16510342158_185f09969a_k.jpg"
+        width: 2048
+        height: 1365
+        isCached: true
+  - title: "Azure and Citrix Workspace Now at Center of Microsoft-Citrix Pact"
+    excerpt: "Citrix will use Microsoft Azure as its preferred cloud services provider, while Microsoft will promote Citrix Workspace as a 'preferred digital workspace solution.'"
+    publishedDateTime: 2020-07-15T22:19:00Z
+    webUrl: "https://rcpmag.com/articles/2020/07/15/azure-citrix-workspace.aspx"
+    type: article
+    provider:
+      name: Redmond Channel Partner
+      domain: rcpmag.com
+    quality: 37
+    images:
+      - url: "https://rcpmag.com/-/media/ECG/VirtualizationReview/Images/introimages2014/GENOneRedBallConnectedToWhiteBalls.jpg"
+        width: 647
+        height: 450
+        isCached: true
+  - title: "Alithya Launches AI-FI™ Trade Surveillance Solution Powered by Microsoft Azure"
+    excerpt: "\"By hosting AI-FI™ Trade Surveillance on Microsoft Azure, we have increased our flexibility in configuration, while decreasing implementation time and cost. The advanced security features of ..."
+    publishedDateTime: 2020-07-15T11:43:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/alithya-launches-ai-fi-trade-surveillance-solution-powered-by-microsoft-azure-301093861.html"
     type: article
     provider:
       name: PR Newswire
       domain: prnewswire.com
-    quality: 28
+    quality: 33
     images:
-      - url: "https://mma.prnewswire.com/media/324434/barracuda_networks__inc__logo.jpg?p=facebook"
-        width: 2696
-        height: 1414
+      - url: "https://mma.prnewswire.com/media/1214660/Alithya_Alithya_Launches_AI_FI__Trade_Surveillance_Solution_Powe.mp4?p=medium"
+        width: 512
+        height: 288
         isCached: true
-  - title: "Barracuda introduces SD-WAN service built natively on Microsoft Azure"
-    excerpt: "Barracuda released what it calls the first SD-WAN service built natively on Microsoft Azure. The new Barracuda CloudGen WAN service is the first SD-WAN platform that runs inside Azure Virtual WAN Hubs. Hubs can be interconnected through the Microsoft ..."
-    publishedDateTime: 2020-07-17T12:43:00Z
-    webUrl: "https://www.telecompaper.com/news/barracuda-introduces-sd-wan-service-built-natively-on-microsoft-azure--1346958"
+  - title: "Alithya Launches AI-FI(TM) Trade Surveillance Solution Powered by Microsoft Azure"
+    excerpt: "PRNewswire/ - Alithya Group inc. (TSX: ALYA) (NASDAQ: ALYA) (« Alithya »), a leader in digital strategy and technologies employing more than 2,000 highly qualified professionals"
+    publishedDateTime: 2020-07-15T11:39:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/alithya-launches-ai-fi-tm-trade-surveillance-solution-powered-by-microsoft-azure/article_799b4fa7-7527-584a-b238-0f1c1f27756d.html"
     type: article
     provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 17
-  - title: "Now install network virtual appliances directly into an Azure Virtual WAN hub"
-    excerpt: "Several new capabilities for Azure Virtual WAN are now in preview—including the option to install network virtual appliances directly into a virtual WAN hub as an option for SD-WAN connectivity. "
-    publishedDateTime: 2020-07-21T16:02:05Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/now-install-network-virtual-appliances-directly-into-an-azure-virtual-wan-hub/"
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 32
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "The Microsoft Police State: Mass Surveillance, Facial Recognition, and the Azure Cloud"
+    excerpt: "Microsoft helps police surveil and patrol communities through its own offerings and a network of partnerships — while its PR efforts obscure this."
+    publishedDateTime: 2020-07-14T19:45:00Z
+    webUrl: "https://theintercept.com/2020/07/14/microsoft-police-state-mass-surveillance-facial-recognition/"
     type: article
     provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 14
+      name: The Intercept
+      domain: theintercept.com
+    quality: 29
+    images:
+      - url: "https://theintercept.imgix.net/wp-uploads/sites/1/2020/07/ms-police-state-final-theintercept.jpg?auto=compress%2Cformat&q=90&fit=crop&w=1200&h=800"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Snowflake Achieves FedRAMP Moderate Authorization for Snowflake on AWS and Microsoft Azure Government"
+    excerpt: "Snowflake, the cloud data platform, today announced it has achieved Federal Risk and Authorization Management Program (FedRAMP) Moderate Authorization"
+    publishedDateTime: 2020-07-08T17:32:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200708005692/en/Snowflake-Achieves-FedRAMP-Moderate-Authorization-Snowflake-AWS"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 2
 
 secured: "I2ER167WCwhKaqJ+xW6YLiT/FAfLZBL/I6rMeF+q+IySoa1JiOkpUQtg4fYpQjuCtUuWV4Gt4r0jG5UBaVe8ovOhtD3CrWGMl4wk/A/aZwTjbmaG6nnMpYULTRpybLRZs0M6AX6zfXn9zfghgES9mF+gKgpLVnZivHx+6UpV4OSPbkFMc7mNOQlz3TasO7P2QE8LmfgiNMzKgtsKZ50fyKL/XXDl9GV9wq6srkuGmsV6rBLl1OSP3LHQfGNB0wXtcawO2ylURfKM7NCt3dYEgT8Zu7R2c3RrAiedNo5lM78NghruddF+CUQuEKun5iGPAhP5C+E2sLX4xtPv3CeKy6uku/Yj0p1AqYJXVsV0L3oZ+6jiyGcUojsrspJC5TVQVYYAemJtKiAoeqHp4npKtevCUq6Q3sZBP+q2o2Y2q72yOQO9C1mnFEQrsx8NiSfzjQf45nXzKo4Lewzz64OWBjlDhcd79m48C+6k7TSkKW+Vkol28Cni42LLcBihA+kmeg1SAPF64tC7QUa6svxQ1g==;B7wyE+YkK11eunAVS53oww=="
 ---

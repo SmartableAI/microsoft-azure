@@ -6,8 +6,8 @@ publishedDateTime: 2020-06-25T09:25:34Z
 originalUrl: "https://azure.microsoft.com/blog/introducing-azure-load-balancer-insights-using-azure-monitor-for-networks/"
 webUrl: "https://azure.microsoft.com/blog/introducing-azure-load-balancer-insights-using-azure-monitor-for-networks/"
 type: article
-quality: 90
-heat: 130
+quality: 122
+heat: 142
 published: true
 
 provider:
@@ -22,6 +22,7 @@ topics:
   - Azure
   - Networking
   - Management tools
+  - DevOps
 
 images:
   - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/7bdd4241-7b7e-43cb-8782-dd60032480a4.png"
@@ -31,15 +32,6 @@ images:
     title: "Introducing Azure Load Balancer insights using Azure Monitor for Networks"
 
 related:
-  - title: "Updates for monitoring and troubleshooting Azure IoT Hub message routing"
-    excerpt: "More detailed monitoring metrics and diagnostic logs, plus a new troubleshooting guide, are now available to accelerate monitoring and troubleshooting for Azure IoT Hub message routing.\n"
-    publishedDateTime: 2020-06-24T00:00:06Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/iotroutingmonitoring/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 16
   - title: "Introducing Azure Load Balancer Insights using Azure Monitor for Networks"
     excerpt: "Azure Load Balancer customers now have instant access to a preconfigured solution for health monitoring and configuration analysis enabling rapid fault localization and informed design decisions."
     publishedDateTime: 2020-07-08T16:03:49Z

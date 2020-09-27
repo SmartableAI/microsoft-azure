@@ -7,8 +7,8 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/azure-backup-for-sap-han
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-backup-for-sap-hana-databases-running-on-rhel-is-now-ga/"
 type: article
 quality: 63
-heat: 143
-published: true
+heat: -1
+published: false
 
 provider:
   name: Microsoft
@@ -22,42 +22,24 @@ topics:
   - Azure
 
 related:
-  - title: "TypeScript 4.0 is generally available"
-    excerpt: "TypeScript 4 is the latest major version of the TypeScript programming language."
-    publishedDateTime: 2020-08-20T16:00:04Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/typescript-40-is-generally-available/"
+  - title: "Azure Data Box Disk is now generally available in South Africa and China"
+    excerpt: "Data Box Disk is GA in South Africa and China"
+    publishedDateTime: 2020-08-12T19:00:30Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-data-box-disk-is-now-generally-available-in-south-africa-and-china/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 52
-  - title: "Support to assess physical, AWS, GCP servers now generally available"
-    excerpt: "The assessments offer Azure suitability analysis, migration cost planning and performance-based rightsizing."
-    publishedDateTime: 2020-08-25T17:00:07Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/support-to-assess-physical-aws-gcp-servers-now-generally-available/"
+    quality: 66
+  - title: "Azure Data Share in-place sharing for Azure Data Explorer now generally available"
+    excerpt: "Share big data in-place easily, securely, and at no additional cost."
+    publishedDateTime: 2020-08-17T20:41:54Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-data-share-inplace-sharing-for-azure-data-explorer-now-generally-available/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 52
-  - title: "SAP HANA backup using Azure Backup is now generally available"
-    excerpt: "We are sharing that Microsoft Azure Backup’s solution for SAP HANA databases is generally available in all Azure Public and Gov Regions (with the exception of Germany Northeast and Germany central, France South & US Gov IOWA).\r\n\r\nAzure Backup is Azure's native backup solution, which is BackInt certified"
-    publishedDateTime: 2019-12-02T13:00:29Z
-    webUrl: "https://azure.microsoft.com/blog/sap-hana-backup-using-azure-is-now-generally-available/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 19
-  - title: "Backup your SAP HANA databases running on RHEL using Azure Backup"
-    excerpt: ""
-    publishedDateTime: 2020-05-27T20:53:43Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/backup-your-sap-hana-databases-running-on-rhel-using-azure-backup/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 17
+    quality: 62
 
 secured: "Lfx4TGCUY7/af62Aa/RrwPthplDi/MA7UNOBqNPUxWN2EMKKKeaTUEiQBiTwQEbLkKCSE656D/m/Nk5bJeXZrOJdJC4Tbs/mJCuvaJIGb+vv5lDkhkFqSELoHlovEUZIiFCzTnaeWlDfjJ+wDFTWiIFFWPKalbjCQzdvmX5D1aClZV3TIJDO01CAYYlvucEunLgggVm1oVBcPu5GXOrS6cEMUG4DvfXULO3KzgpHu8pM9GHMjFfF8mMDTId+4CgMV3jHyCkz7Z8ue9LC+3YQKy/cvMG6L713NBYkTVhv53OFOVHVD5GoSyrH0myHD3eW4gS0qTqU7ecBhBz1PF64JA==;PHlZthL4bTePsUNYe+xX3g=="
 ---

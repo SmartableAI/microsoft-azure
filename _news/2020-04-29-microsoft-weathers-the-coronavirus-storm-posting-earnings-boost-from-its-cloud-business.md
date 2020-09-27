@@ -26,21 +26,37 @@ images:
     title: "Microsoft weathers the coronavirus storm, posting earnings boost from its cloud business"
 
 related:
-  - title: "Microsoft beats quarterly revenue estimates on cloud boost"
-    excerpt: "Microsoft Corp reported quarterly revenue above Wall Street estimates on Wednesday, powered by another strong performance from its cloud service Azure as the coronavirus outbreak and home sheltering lead to more people working from home."
-    publishedDateTime: 2020-04-29T20:22:00Z
-    webUrl: "https://www.reuters.com/article/us-microsoft-results-idUSKBN22B34B"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN22B34B"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN22B34B"
+  - title: "Microsoft’s push to the cloud may save it from a coronavirus crash"
+    excerpt: "As the last recession washed over Microsoft Corp. in 2009, the company’s sales and earnings declined in the same year for the only time in the tech"
+    publishedDateTime: 2020-04-16T22:23:00Z
+    webUrl: "https://www.marketwatch.com/story/microsofts-push-to-the-cloud-may-save-it-from-a-coronavirus-crash-2020-04-16"
+    ampWebUrl: "https://www.marketwatch.com/amp/story/guid/B0912E66-8017-11EA-ACD4-37694A66548C"
+    cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/guid/B0912E66-8017-11EA-ACD4-37694A66548C"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
+      name: MarketWatch
+      domain: marketwatch.com
     quality: 82
     images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20200429&t=2&i=1516924789&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG3S223"
-        width: 817
-        height: 545
+      - url: "https://mw1.wsj.net/chart-cache/marketwatch/front-page-retina/bd417d2bb9774649b11deb114ebf1b24_600x407.png"
+        width: 600
+        height: 407
+        isCached: true
+  - title: "Watchdog review finds Pentagon's $10B cloud contract to Microsoft was legal"
+    excerpt: "The Pentagon’s move to award a cloud computing contract to Microsoft estimated to be around $10 billion was in line with legal and government purchasing standards, according to a review by a government watchdog released on Wednesday."
+    publishedDateTime: 2020-04-15T20:38:00Z
+    webUrl: "https://www.foxnews.com/politics/watchdog-review-pentagon-microsoft-cloud-contract-legal"
+    ampWebUrl: "https://www.foxnews.com/politics/watchdog-review-pentagon-microsoft-cloud-contract-legal.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/watchdog-review-pentagon-microsoft-cloud-contract-legal.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 80
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8d9fd65a-cbde-44cd-8be7-69ca1b916d0b/6161526e-62a1-46df-9a5e-9c833fb50275/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Microsoft tops $10 billion in earnings, beating even pre-coronavirus expectations"
     excerpt: "Microsoft Corp. outperformed the financial expectations that it faced even before the coronavirus in an earnings report Wednesday, sending shares"
@@ -58,48 +74,19 @@ related:
         width: 890
         height: 501
         isCached: true
-  - title: "Microsoft posts $35B in revenue, up 15%, sees ‘minimal net impact’ from COVID-19 in quarter"
-    excerpt: "Microsoft reported $35 billion in revenue, an increase of 15% from a year ago, as increased demand for its productivity, gaming and cloud technologies overcame the COVID-19 pandemic’s impact on"
-    publishedDateTime: 2020-04-29T20:33:00Z
-    webUrl: "https://www.geekwire.com/2020/microsoft-posts-35b-revenue-15-sees-minimal-net-impact-covid-19-quarter/"
-    ampWebUrl: "https://www.geekwire.com/2020/microsoft-posts-35b-revenue-15-sees-minimal-net-impact-covid-19-quarter/amp/"
-    cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/microsoft-posts-35b-revenue-15-sees-minimal-net-impact-covid-19-quarter/amp/"
+  - title: "Microsoft open-sources its coronavirus threat data for security researchers"
+    excerpt: "For the last couple of months, cybercriminals have taken advantage of the coronavirus pandemic to launch a series of attacks on individuals and companies, with a COVID-19 angle. In order to fight these threats,"
+    publishedDateTime: 2020-05-15T06:44:00Z
+    webUrl: "https://thenextweb.com/microsoft/2020/05/15/microsoft-open-sources-its-coronavirus-related-threat-data/"
     type: article
     provider:
-      name: GeekWire
-      domain: geekwire.com
-    quality: 72
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 60
     images:
-      - url: "https://cdn.geekwire.com/wp-content/uploads/2019/05/20190506_Microsoft_Build_55-630x420.jpg"
-        width: 630
-        height: 420
-        isCached: true
-  - title: "Microsoft (MSFT) Q3 Earnings & Revenues Beat Estimates, Up Y/Y"
-    excerpt: "GAAP earnings of $1.40 per share, which beat the Zacks Consensus Estimate by 10.2%. The figure also surged 23% on a year-over-year basis (up 27% at constant currency or cc). Revenues of $35.02 billion improved 15% from the year-ago quarter (up 16% at cc)."
-    publishedDateTime: 2020-04-30T14:15:00Z
-    webUrl: "https://www.nasdaq.com/articles/microsoft-msft-q3-earnings-revenues-beat-estimates-up-y-y-2020-04-30"
-    ampWebUrl: "https://www.nasdaq.com/articles/microsoft-msft-q3-earnings-revenues-beat-estimates-up-y-y-2020-04-30?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/microsoft-msft-q3-earnings-revenues-beat-estimates-up-y-y-2020-04-30?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 62
-  - title: "Microsoft Q3 FY20 Earnings: Azure cloud services revenue grew 59%"
-    excerpt: "Microsoft today announced FY20 Q3 earnings results. Microsoft’s revenue in the last quarter was $35 billion and the operating income was $13 billion. Revenue in Intelligent Cloud business segment was $12."
-    publishedDateTime: 2020-04-29T20:08:00Z
-    webUrl: "https://mspoweruser.com/microsoft-q3-fy20-earnings-azure-revenue-grew-59/"
-    ampWebUrl: "https://mspoweruser.com/microsoft-q3-fy20-earnings-azure-revenue-grew-59/amp/"
-    cdnAmpWebUrl: "https://mspoweruser-com.cdn.ampproject.org/c/s/mspoweruser.com/microsoft-q3-fy20-earnings-azure-revenue-grew-59/amp/"
-    type: article
-    provider:
-      name: MSPoweruser
-      domain: mspoweruser.com
-    quality: 57
-    images:
-      - url: "https://mspoweruser.com/wp-content/uploads/2016/05/Microsoft-Azure.jpg"
-        width: 791
-        height: 448
+      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2019/11/microsoft-hed-796x417.jpg"
+        width: 796
+        height: 417
         isCached: true
   - title: "Microsoft blames coronavirus-related supply chain constraints for its cloud capacity issues"
     excerpt: "Microsoft has struggled at times to keep up with the huge demand for its cloud services, as people work from home more."
@@ -115,69 +102,19 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Microsoft reports quarterly revenue of $35 billion, beating Wall Street estimates as the coronavirus crisis drives demand for its cloud"
-    excerpt: "The earnings report will give insight into how Microsoft has fared during the coronavirus crisis and what it's expecting in the future."
-    publishedDateTime: 2020-04-29T20:40:00Z
-    webUrl: "https://www.businessinsider.com/microsoft-reports-q3-fy20-earnings-2020-4"
-    ampWebUrl: "https://www.businessinsider.com/microsoft-reports-q3-fy20-earnings-2020-4?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/microsoft-reports-q3-fy20-earnings-2020-4?amp"
+  - title: "In a note to customers, Microsoft admitted that it struggled with cloud issues during the coronavirus crisis and vowed to fix them"
+    excerpt: "Microsoft acknowledged capacity issues with its Azure cloud business and said it's taking steps to make sure it can meet surges in demand."
+    publishedDateTime: 2020-04-24T17:23:00Z
+    webUrl: "https://www.businessinsider.com/microsoft-azure-cloud-capacity-issues-coronavirus-crisis-2020-4"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 50
+    quality: 32
     images:
-      - url: "https://i.insider.com/5ea9cc5f5f726e057f0f9244?width=1200&format=jpeg"
+      - url: "https://i.insider.com/5ea256085bd7a52bf774b642?width=1200&format=jpeg"
         width: 1200
         height: 600
-        isCached: true
-  - title: "Microsoft quarterly earnings report: Bracing for a surprise?"
-    excerpt: "Microsoft acknowledged in February that its near-term business is likely to miss estimates as its More Personal Computing (which makes up a third of Microsoft’s total revenue) suffered the most due to the virus outbreak."
-    publishedDateTime: 2020-04-28T13:01:00Z
-    webUrl: "https://www.fxstreet.com/analysis/microsoft-quarterly-earnings-report-bracing-for-a-surprise-202004281301"
-    ampWebUrl: "https://www.fxstreet.com/amp/analysis/microsoft-quarterly-earnings-report-bracing-for-a-surprise-202004281301"
-    cdnAmpWebUrl: "https://www-fxstreet-com.cdn.ampproject.org/c/s/www.fxstreet.com/amp/analysis/microsoft-quarterly-earnings-report-bracing-for-a-surprise-202004281301"
-    type: article
-    provider:
-      name: FXStreet
-      domain: fxstreet.com
-    quality: 42
-    images:
-      - url: "https://editorial.fxstreet.com/images/Macroeconomics/Events/Coronavirus/coronavirus3_Small.jpg"
-        width: 320
-        height: 204
-        isCached: true
-  - title: "Microsoft growth accelerates as virus boosts cloud business"
-    excerpt: "Microsoft shrugged off the effects of the coronavirus crisis with surprisingly strong results in the latest quarter, as a jump in cloud-related business more than offset a hit to some of its traditional software sales."
-    publishedDateTime: 2020-04-29T20:35:00Z
-    webUrl: "https://www.ft.com/content/ac054397-eb9a-4198-a050-18961f39feb9"
-    ampWebUrl: "https://amp.ft.com/content/ac054397-eb9a-4198-a050-18961f39feb9"
-    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/ac054397-eb9a-4198-a050-18961f39feb9"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 42
-    images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fb452bcee-2686-4274-bdc2-063dfa3c5e93.jpg?source=google-amp&fit=scale-down&width=500"
-        width: 500
-        height: 281
-        isCached: true
-  - title: "Microsoft Says Covid-19 Had Minimal Impact On Revenue In Its Latest Quarter. Its Stock Is Rising."
-    excerpt: "Microsoft had revenue of $35 billion and earnings of $1.40 a share in the March quarter. Both figures were better than Wall Street expected."
-    publishedDateTime: 2020-04-29T20:50:00Z
-    webUrl: "https://www.barrons.com/articles/microsoft-stock-rises-after-company-says-covid-19-had-minimal-impact-on-fiscal-third-quarter-earnings-51588193445"
-    ampWebUrl: "https://www.barrons.com/amp/articles/microsoft-stock-rises-after-company-says-covid-19-had-minimal-impact-on-fiscal-third-quarter-earnings-51588193445"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/microsoft-stock-rises-after-company-says-covid-19-had-minimal-impact-on-fiscal-third-quarter-earnings-51588193445"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 29
-    images:
-      - url: "https://images.barrons.com/im-181595/social"
-        width: 1280
-        height: 640
         isCached: true
 
 secured: "cH3KfAk2rSmqtbSltX31Da5IPq2nwFh0aroM1l6L3jsdvBdXLbhoZHByIisQqRcKm7I4UhBDGvQT8I3jhgwDkb2/ysm3zL8cKUbYGyvEjYnVsFAw5srUzsVf6x0ofJqzPZO+RezVgNCURYGIQFxOrlz1fhFXZ2E/Fq3cpysoIr6OWJ1ey9YlOET13d/Bu+sNWlX0XxMnbYWzt0ODGx4uXC2EJ1bC6P38buuJix+4/BWV7afflP9lCu1AgGlcJa7qrTIlr1pShVhJYL5UJnNAxjHWRHYCXo3micdREpn8Py5HPGd4sAZ1OMVsGqHk3dCCXwVt9ftmXP1HuBfY/Hi5/IdK0sA5jDO5HtGiH99Dn/1twrhZndzxnCuCknH/eCAUSCqFAEWJn1tHgFJVJkmm5o2qXZA+XrFoaI8h8WBVWbELW0NR/fVyk6/reG3VhHBTp/JZnP8vAdpuSjS1inC8J4UrtFpBJ+nK8yYXmtI3wug=;67ZrF6D43zG5i82RkUWslw=="

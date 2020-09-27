@@ -6,7 +6,7 @@ publishedDateTime: 2020-09-22T20:00:01Z
 originalUrl: "https://azure.microsoft.com/en-us/updates/azure-database-for-postgresql-flexible-server-now-in-preview/"
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-database-for-postgresql-flexible-server-now-in-preview/"
 type: article
-quality: 67
+quality: 99
 heat: -1
 published: false
 
@@ -20,112 +20,72 @@ provider:
 
 topics:
   - Azure
+  - Databases
 
 related:
-  - title: "NFS 4.1 support for Azure Files is now in preview"
-    excerpt: "Azure Files is a distributed cloud file system serving Server Messaging Block (SMB) and REST protocols. Azure Files enables customers to easily lift and shift their legacy workloads to the cloud without any modifications or changes in technology. SMB works on both Windows and UNIX operating systems for"
-    publishedDateTime: 2020-09-15T13:00:18Z
-    webUrl: "https://azure.microsoft.com/blog/nfs-41-support-for-azure-files-is-now-in-preview/"
+  - title: "Power mission-critical applications with Azure Database for PostgreSQL"
+    excerpt: "In our current environment, organizations are increasingly looking towards digital solutions to engage their customers and remain competitive. "
+    publishedDateTime: 2020-08-24T10:00:16Z
+    webUrl: "https://azure.microsoft.com/blog/power-missioncritical-applications-with-azure-database-for-postgresql/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 87
-    images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/f37b1fb4-f41e-42b8-8f88-754f3e8eef0c.jpg"
-        width: 1024
-        height: 489
-        isCached: true
-  - title: "NFS 3.0 support for Azure Blob storage is now in preview"
-    excerpt: "To enable customers to run NFS based applications at scale, we are announcing the preview of NFS 3.0 protocol support for Azure Blob storage. "
-    publishedDateTime: 2020-07-27T10:00:03Z
-    webUrl: "https://azure.microsoft.com/blog/nfs-30-support-for-azure-blob-storage-is-now-in-preview/"
+    quality: 101
+  - title: "Azure HDInsight and Azure Database for PostgreSQL news"
+    excerpt: "I’ve been committed to open source software for over a decade because it fosters a deep collaboration across the developer community, resulting in ground-breaking innovation. At the heart of open source is the freedom to learn from each other and share ideas, empowering the brightest minds to work together"
+    publishedDateTime: 2020-03-02T10:00:11Z
+    webUrl: "https://azure.microsoft.com/blog/azure-hdinsight-and-azure-database-for-postgresql-news/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 86
-  - title: "Change feed support is now generally available for Azure Blob Storage"
-    excerpt: "Change feed support for Microsoft Azure Blob storage is now generally available."
-    publishedDateTime: 2020-09-09T20:04:54Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/change-feed-support-is-now-generally-available-for-azure-blob-storage/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 67
-  - title: "Azure Time Series Insights now supports AAD groups"
-    excerpt: "Azure Time Series Insights now supports Azure Active Directory groups through access policies."
-    publishedDateTime: 2020-09-11T21:00:13Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/tsi-aad-groups/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 67
-  - title: "Azure Files support for NFS v4.1 is now in preview"
-    excerpt: "Azure Files now adds support for NFS v4.1 file system protocol for an easy migration of your Linux-centric workloads."
-    publishedDateTime: 2020-09-16T17:00:28Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-files-support-for-nfs-v41-is-now-in-preview/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 67
-  - title: "Azure Arc enabled data services now in preview"
-    excerpt: "Run Azure Arc enabled data services on premises on any infrastructure of your choice with Azure cloud benefits like elastic scale, unified management, and a cloud billing model while staying always current. "
-    publishedDateTime: 2020-09-22T16:05:38Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-arc-enabled-data-services-now-in-preview/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 67
-  - title: "Azure Object Anchors is now in private preview"
-    excerpt: "Align and anchor holographic content to objects. Register to be considered for Azure Object Anchors private preview. "
-    publishedDateTime: 2020-09-22T16:05:36Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azureobjectanchorsprivatepreview/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 67
-  - title: "Azure Spot support for Azure Kubernetes Service is in preview"
+    quality: 99
+  - title: "Minimal TLS version setting is now available for Azure Database for PostgreSQL"
     excerpt: ""
-    publishedDateTime: 2020-04-15T16:00:02Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-spot-support-for-azure-kubernetes-service-is-in-preview/"
+    publishedDateTime: 2020-06-04T17:00:39Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-database-for-postgresql-minimal-tls-version/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 17
-  - title: "Azure Functions—Java 8 support on Linux is now in preview"
+    quality: 13
+  - title: "Azure Private Link for Azure Database for PostgreSQL now in Azure government regions"
     excerpt: ""
-    publishedDateTime: 2020-04-27T15:00:24Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/announcing-java-feature-support-azure-functions/"
+    publishedDateTime: 2020-05-04T18:00:05Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-private-link-for-azure-database-for-postgresql-now-in-azure-government-regions/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 17
-  - title: "Firewall support for Azure Relay is now in preview"
+    quality: 10
+  - title: "Data encryption with customer managed keys for Azure DB for PostgreSQL-single server "
+    excerpt: "Data encryption with customer-managed keys for Azure Database for PostgreSQL-single server (generally available) enables you to bring your own key (BYOK) for data protection at rest. "
+    publishedDateTime: 2020-08-10T16:00:07Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/data-encryption-with-customer-managed-keys-for-azure-db-for-postgresqlsingle-server/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 10
+  - title: "Azure Database for PostgreSQL support for encryption at rest using customer-managed keys"
     excerpt: ""
-    publishedDateTime: 2020-05-18T21:00:04Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/firewall-support-for-azure-relay-firewall-is-now-in-preview/"
+    publishedDateTime: 2020-06-09T19:00:01Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-database-for-postgresql-encryption-at-rest-byok-preview/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 17
-  - title: ".NET Core support for Azure Analysis Services client libraries is in preview"
-    excerpt: "In response to customer feedback, .NET Core support for Azure Analysis Services client libraries is now available in preview. Start building .NET Core applications for modern cross-platform and cloud-oriented environments that target Analysis Services and Microsoft Power BI."
-    publishedDateTime: 2020-07-10T00:23:39Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/net-core-support-for-azure-analysis-services-client-libraries-is-in-preview/"
+    quality: 8
+  - title: "Infrastructure double encryption for Azure Database for PostgreSQL-single server is in preview"
+    excerpt: "Infrastructure double encryption adds a second layer of encryption using a FIPS 140-2 validated cryptographic module and a different encryption algorithm which gives an additional layer of protection for your data at rest."
+    publishedDateTime: 2020-08-10T16:00:06Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/infrastructure-double-encryption-for-azure-database-for-postgresqlsingle-server-is-in-public-preview/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 14
+    quality: 5
 
 secured: "qVgTmbUHoSRNvGJK0G/yhlE8vpA384+augpw8uziGTFdeGw3z3UnH10ndbV6R0tg2iHgj0vG7VvPgZwVxJt62GY7SiIPbi0GRY/sGyuloJObmei3VKpTEyrD544g5Zin8i7pgmnC5JzJ/6gAAKFHwp7v6mEwksAtrTO5wvCmVHGPqWpan4RIzSuk/1+6rX+fz0fiEPXRfRNLrurT9LPek1mIzwNYfizh9GHU3YuavFGE2AYvZ42Tdssq/a9Flgh8PUwbDuKix+a5/UI4jcAEXEBdpDLyAuw6N1lRupo6UTlyTJtVJfPdguOOVDGsoATDdhiu7Vt3+jxj42TeYXhk2sOnmdcbUZPtetbc4+C3zpk=;UvIFlP0fD1mp+eslo9o6QQ=="
 ---

@@ -27,15 +27,38 @@ images:
     isCached: true
 
 related:
-  - title: "Now save up to 52 percent when migrating to Azure Databricks"
-    excerpt: "To make it easier for customers to modernize their on-premises Spark and big data workloads to the cloud, we’re announcing a new migration offer with Azure Databricks."
-    publishedDateTime: 2020-07-15T08:00:28Z
-    webUrl: "https://azure.microsoft.com/blog/now-save-up-to-52-percent-when-migrating-to-azure-databricks/"
+  - title: "Azure Time Series Insights Gen2: Leading the next generation of industrial IoT analytics platforms"
+    excerpt: "Azure Time Series Insights Gen2—a fully managed IoT analytics platform is now generally available today. With Azure Time Series Insights Gen2, you can explore and analyze billions of contextualized events across millions of sensors."
+    publishedDateTime: 2020-07-16T12:00:41Z
+    webUrl: "https://azure.microsoft.com/blog/azure-time-series-insights-gen-2-leading-the-next-generation-of-industrial-iot-analytics-solutions/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 69
+    quality: 107
+    images:
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/5f45b0b1-c717-4967-b855-55833068b919.png"
+        width: 1024
+        height: 572
+        isCached: true
+  - title: "Azure Time Series Insights Gen2 is now generally available"
+    excerpt: "Azure Time Series Insights Gen2, our pay-as-you-go IoT Analytics offering, is now generally available and features a number of new capabilities that are powerful, yet simple to use:"
+    publishedDateTime: 2020-07-21T22:00:36Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-time-series-insights-gen2-is-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 17
+  - title: "Azure Stream Analytics is now available in the US Gov Arizona region"
+    excerpt: "Azure Stream Analytics, a real-time analytics service that is designed for mission-critical workloads, is now available in the US Gov Arizona region. \n"
+    publishedDateTime: 2020-07-23T23:00:08Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-stream-analytics-now-available-in-us-gov-arizona/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 17
 
 secured: "U8xEShXOvYmG9mrYLxMhALdneQC4Y1rJZKrcCH2fraBtBIURVjHTEwkmz3y00R5spnUSpgRAvVo5gV51BjPOUMPsS6xZfAJ+LRKC9RsCmBzB/9UvHAw+Oph3pXvjsPShM0g0WwIfnAUfBkhCWsjy/fO94irHQOheTOgDlHPqzYxcWeDZHiIjsocNIBfFaGsNnQKM2FoqrM/Og/tcKPQUYq1GLenrx9+CL/zLlDq/5Xqml2sUgUi1G9pWUSt+kHM4X9MMQwOgn5JNQH9qMHIHWsE2J5utuh3u+ZyCQqcqIZeNiKfE7wFsIoVvnvnne83FEy+312gIHkZvphDKXztTKg==;zxWCEHvtVOlZzOXyW2151Q=="
 ---

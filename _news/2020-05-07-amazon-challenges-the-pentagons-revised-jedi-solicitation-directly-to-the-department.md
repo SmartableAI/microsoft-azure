@@ -24,86 +24,59 @@ images:
     title: "Amazon challenges the Pentagon’s revised JEDI solicitation directly to the department"
 
 related:
-  - title: "Microsoft reportedly teamed up with Oracle to fend off Amazon for the Pentagon’s JEDI contract"
-    excerpt: "The Information revealed Monday how Microsoft had a “secret alley” — Oracle — to help land the coveted Joint Enterprise Defense Infrastructure contract, a $10 billion Pentagon project that"
-    publishedDateTime: 2020-05-11T21:55:00Z
-    webUrl: "https://www.geekwire.com/2020/microsoft-reportedly-teamed-oracle-fend-off-amazon-pentagons-jedi-contract/"
-    ampWebUrl: "https://www.geekwire.com/2020/microsoft-reportedly-teamed-oracle-fend-off-amazon-pentagons-jedi-contract/amp/"
-    cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/microsoft-reportedly-teamed-oracle-fend-off-amazon-pentagons-jedi-contract/amp/"
+  - title: "New AWS protest spawns JEDI blog wars"
+    excerpt: "Microsoft won the JEDI contract in October, but a lawsuit from rival AWS and early legal ruling from a federal judge induced the Pentagon to amend the solicitation and invite new bids on storage requirements for the portion of the request for bids called \"price scenario 6\" – a cloud storage component that,"
+    publishedDateTime: 2020-05-07T23:40:00Z
+    webUrl: "https://fcw.com/articles/2020/05/07/aws-dod-agency-protest-blog-wars.aspx"
     type: article
     provider:
-      name: GeekWire
-      domain: geekwire.com
-    quality: 70
+      name: Federal Computer Week
+      domain: fcw.com
+    quality: 22
     images:
-      - url: "https://cdn.geekwire.com/wp-content/uploads/2016/04/20160404_Envision_07-1240x828.jpg"
-        width: 1240
-        height: 828
+      - url: "https://fcw.com/-/media/GIG/EDIT_SHARED/Cloud/pentagoncloud2.png"
+        width: 760
+        height: 368
         isCached: true
-  - title: "Amazon says big government JEDI award is 'fatally flawed' in latest rebuttal to Microsoft criticisms"
-    excerpt: "The JEDI, or Joint Enterprise Defense Infrastructure, deal worth up to $10 billion has become one of the most tangled contracts for the Department of Defense."
-    publishedDateTime: 2020-05-08T14:55:00Z
-    webUrl: "https://www.cnbc.com/2020/05/08/amazon-says-jedi-award-fatally-flawed-in-rebuttal-to-microsoft.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2020/05/08/amazon-says-jedi-award-fatally-flawed-in-rebuttal-to-microsoft.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/05/08/amazon-says-jedi-award-fatally-flawed-in-rebuttal-to-microsoft.html"
+  - title: "AWS files another protest over JEDI cloud computing contract award"
+    excerpt: "The company filed a second, concurrent bid protest directly with the DOD this week. The protest comes after a federal court judge’s decision to grant the DOD a 120-day remand to “reconsider the aspects of the procurement challenged in Amazon’s protest of the JEDI contract."
+    publishedDateTime: 2020-05-08T00:20:00Z
+    webUrl: "https://siliconangle.com/2020/05/07/aws-files-another-protest-jedi-cloud-computing-contract-award/"
     type: article
     provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 67
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 22
     images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106474164-1585941999885gettyimages-939960022.jpeg?v=1585942142"
-        width: 5253
-        height: 3502
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/05/pentagon-80394_1920-tpsdave-pixabay-800x521.jpg"
+        width: 800
+        height: 521
         isCached: true
-  - title: "Microsoft slams Amazon’s latest protest over Pentagon cloud contract as ‘a way to avoid the consequences of its own bad business decisions’"
-    excerpt: "Amazon is once again challenging the Department of Defense’s decision to award a $10 billion cloud contract to Microsoft. Amazon filed a protest of the award directly with the DoD after a"
-    publishedDateTime: 2020-05-07T23:47:00Z
-    webUrl: "https://www.geekwire.com/2020/microsoft-slams-amazons-latest-protest-pentagon-cloud-contract-way-avoid-consequences-bad-business-decisions/"
-    ampWebUrl: "https://www.geekwire.com/2020/microsoft-slams-amazons-latest-protest-pentagon-cloud-contract-way-avoid-consequences-bad-business-decisions/amp/"
-    cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/microsoft-slams-amazons-latest-protest-pentagon-cloud-contract-way-avoid-consequences-bad-business-decisions/amp/"
+  - title: "AWS' latest protest over JEDI kicks off blog fight"
+    excerpt: "Amazon Web Services' latest JEDI protest went directly to the Defense Department, but Microsoft took notice and that has started a now-very public messaging battle between both cloud rivals."
+    publishedDateTime: 2020-05-08T15:42:00Z
+    webUrl: "https://washingtontechnology.com/articles/2020/05/08/jedi-protest-blog-fight.aspx"
     type: article
     provider:
-      name: GeekWire
-      domain: geekwire.com
-    quality: 48
+      name: Washington Technology
+      domain: washingtontechnology.com
+    quality: 22
     images:
-      - url: "https://cdn.geekwire.com/wp-content/uploads/2019/11/microsoft-630x473.jpg"
-        width: 630
-        height: 473
+      - url: "https://washingtontechnology.com/-/media/GIG/Washington-Technology/Staff/Ross-Wilkers.jpg"
+        width: 300
+        height: 300
         isCached: true
-  - title: "FedEx Teams Up With Microsoft to Fight Amazon. That’s Good for FedEx Stock."
-    excerpt: "Microsoft and FedEx announced an agreement to “transform e-commerce.” FedEx hopes to get a leg up in the delivery battle with Amazon."
-    publishedDateTime: 2020-05-18T14:30:00Z
-    webUrl: "https://www.barrons.com/articles/fedex-teams-up-with-microsoft-to-fight-amazon-thats-good-for-fedex-stock-51589815820"
-    ampWebUrl: "https://www.barrons.com/amp/articles/fedex-teams-up-with-microsoft-to-fight-amazon-thats-good-for-fedex-stock-51589815820"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/fedex-teams-up-with-microsoft-to-fight-amazon-thats-good-for-fedex-stock-51589815820"
+  - title: "AWS vs Microsoft: US JEDI contract dispute develops into war of words between tech giants"
+    excerpt: "Amazon and Microsoft are embroiled in a ‘battle of the blogs’ over the former’s continued efforts to get its claims that it lost out on a major US cloud contract due to ‘significant political interference’ fully investigated."
+    publishedDateTime: 2020-05-11T11:37:00Z
+    webUrl: "https://www.computerweekly.com/news/252482909/AWS-vs-Microsoft-US-JEDI-contract-dispute-develops-into-war-of-words-between-tech-giants"
+    ampWebUrl: "https://www.computerweekly.com/news/252482909/AWS-vs-Microsoft-US-JEDI-contract-dispute-develops-into-war-of-words-between-tech-giants?amp=1"
+    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252482909/AWS-vs-Microsoft-US-JEDI-contract-dispute-develops-into-war-of-words-between-tech-giants?amp=1"
     type: article
     provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 40
-    images:
-      - url: "https://images.barrons.com/im-188060/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Microsoft claims AWS has used new JEDI mind trick with secret contract objection filing"
-    excerpt: "Amazon.com has filed a second, secret, appeal at the decision to award Microsoft the $10bn Pentagon Joint Enterprise Defense Infrastructure (JEDI) contract. So says Microsoft corp"
-    publishedDateTime: 2020-05-08T09:07:00Z
-    webUrl: "https://www.theregister.co.uk/2020/05/08/new_jedi_contract_objection/"
-    ampWebUrl: "https://www.theregister.co.uk/AMP/2020/05/08/new_jedi_contract_objection/"
-    cdnAmpWebUrl: "https://www-theregister-co-uk.cdn.ampproject.org/c/s/www.theregister.co.uk/AMP/2020/05/08/new_jedi_contract_objection/"
-    type: article
-    provider:
-      name: The Register
-      domain: theregister.co.uk
-    quality: 34
-    images:
-      - url: "https://regmedia.co.uk/2017/12/19/lightsaber.jpg"
-        width: 648
-        height: 432
-        isCached: true
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 13
 
 secured: "Oj8JuBKidK4/IiOI6T1hcOk2Vv6tkp9/l3u2SbGhPJXt6zwFrg+GE/7sj9ByduVPtPv9EC1b+WC3qfM1HFIG+h/Hpg5QxFkvTMqP+e2DzKTpKUJxhWjL0CmVwKBAKv7qOf0Akdj1oIOvOQqBmyFU2I3Vj5qmNv/5VSxX8px6W3Qf1Dcq6oUTktFtQ6XapAr/cmcqLOsK/OODVwmuApmLhw8hc3G4DEOfvDMIUAjSPdh+DPDXDFgUK3WXC9r781KHa5yh+ord14KsFAVhNfqcIjcRlmVo53nar6rR7qNPyFErfN2r7DwGVR45G9QcnnTZvGlBIppGbICxmTy6EAgya2FsvOwmQbe/flIrB/np3x4tI/I64l8EBunUJiWjF76lvEhdgXgIDYW5Nw5b5Ix4pFWJVVSf1FPwMpVsXlmob80zRWijgfGlMpRJW1D/p3mVzOqk3XqYnjdTAo0wVn1rMSBBtZSbamxiVFqqdNjFF3I=;ub1mDsu/tIUK7SF0HfLo6g=="
 ---

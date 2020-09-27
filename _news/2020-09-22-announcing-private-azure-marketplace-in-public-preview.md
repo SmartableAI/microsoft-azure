@@ -7,8 +7,8 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/announcing-private-azure
 webUrl: "https://azure.microsoft.com/en-us/updates/announcing-private-azure-marketplace-in-public-preview/"
 type: article
 quality: 67
-heat: -1
-published: false
+heat: 87
+published: true
 
 provider:
   name: Microsoft
@@ -22,10 +22,10 @@ topics:
   - Azure
 
 related:
-  - title: "Public Preview - Get Retail Rates for all Azure Products/Services"
-    excerpt: "An unauthenticated experience to get retail prices for all Azure Products/Services (including Reserved Instances)."
-    publishedDateTime: 2020-09-15T22:00:16Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azureretailrates/"
+  - title: "Azure Object Anchors is now in private preview"
+    excerpt: "Align and anchor holographic content to objects. Register to be considered for Azure Object Anchors private preview. "
+    publishedDateTime: 2020-09-22T16:05:36Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azureobjectanchorsprivatepreview/"
     type: article
     provider:
       name: Microsoft

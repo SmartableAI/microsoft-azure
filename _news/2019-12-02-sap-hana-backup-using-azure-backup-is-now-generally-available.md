@@ -22,42 +22,20 @@ topics:
   - Storage
 
 related:
-  - title: "Azure Backup for SAP HANA databases running on RHEL is now generally available"
-    excerpt: "On August 1, 2020, Azure Backups support for HANA databases running on Red Hat Enterprise Linux (RHEL) became generally available. This offering is available across all Azure regions except for Germany Northeast, Germany Central, France South, and US Gov IOWA. "
-    publishedDateTime: 2020-08-19T16:00:41Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-backup-for-sap-hana-databases-running-on-rhel-is-now-ga/"
+  - title: "Multi-protocol access on Data Lake Storage now generally available"
+    excerpt: "We are excited to announce the general availability of multi-protocol access for Azure Data Lake Storage. Azure Data Lake Storage is a unique cloud storage solution for analytics that offers multi-protocol access to the same data. This is a no-compromise solution that allows both the Azure Blob Storage"
+    publishedDateTime: 2019-11-26T13:00:34Z
+    webUrl: "https://azure.microsoft.com/blog/multi-protocol-access-on-data-lake-storage-now-generally-available/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 63
-  - title: "TypeScript 4.0 is generally available"
-    excerpt: "TypeScript 4 is the latest major version of the TypeScript programming language."
-    publishedDateTime: 2020-08-20T16:00:04Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/typescript-40-is-generally-available/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 52
-  - title: "Support to assess physical, AWS, GCP servers now generally available"
-    excerpt: "The assessments offer Azure suitability analysis, migration cost planning and performance-based rightsizing."
-    publishedDateTime: 2020-08-25T17:00:07Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/support-to-assess-physical-aws-gcp-servers-now-generally-available/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 52
-  - title: "Backup your SAP HANA databases running on RHEL using Azure Backup"
-    excerpt: ""
-    publishedDateTime: 2020-05-27T20:53:43Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/backup-your-sap-hana-databases-running-on-rhel-using-azure-backup/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 17
+    quality: 39
+    images:
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/b83238b4-dba1-4651-8eac-217459a4b753.png"
+        width: 1024
+        height: 471
+        isCached: true
 
 secured: "zwVWgS9GaU0Tv2AN0tQxbXsZTNvHhFXJ6+xMHDT9T3LGx03UFx6//BLPkGQAvUg/KYX/pm9VjD2+KeQj3WyZkY3BScETjh913v3+qbAHufy7Q9/PRrkKFQsrUYE3iU6ob1jYcohKoH3Mo+QLwFUjba3wDljGk0OjAe/BktBEejOxgOcWqBIRXZsHMiiGcSP5QVPij1bIKcRcsxBQ39RuDqzENL1g5u7O32vvL8EHbgIamD7Dfc9zlpwXr7rYSEq8cwBVesXv/aPfUyWf3aD2hMbfX1hFFV6WTzQYLT0OkQR/sCrV+Hw/f1Jd3IV3o3DIKOMctT8qrYLGeeeChxtBxw==;8694kOLyTf3bSYrZw0mXrg=="
 ---

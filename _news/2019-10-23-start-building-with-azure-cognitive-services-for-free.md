@@ -31,15 +31,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
-  - title: "Public Preview: Cognitive Services Form Recognizer v2.1"
-    excerpt: "Form Recognizer v2.1-preview.1 has been released. It includes support for new languages, checkbox/selection marks, and the submit multiple form types to a single model Id."
-    publishedDateTime: 2020-08-21T17:00:18Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/form-recognizer-v2-1/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 52
 
 secured: "5jdETEf5foVJLuKjuqP0g3MHdXMB4E1iFCa57FbTJEbYU80WOKIj16SbZdnU89U9lm6vwqsyvcIGLIXEj+hSFVnCGh2/i3qn8a0HGzrzBkmloDMueGWpaZQrRSVhrEj6/RrYCNwnYNFyzWk1YtQRbgtqAnWEphnTulFCsphJcbAZ7neJ0iq9tA3C0TZ8a6IPyP6wkf4LewnpT2xamvrYnIjWYEsXBxtOg6NHAxTpnC5jQFIeO/8VxvKn+75937rQzyDDeSAl4rWPDelsl+7j4TfvZu0GHsouTMQtkEP2tlknpnMW9qGCym8uST13Y6XFevvQdl8405AhA+9qvvJWnw==;OsfUnCjf5EATxKu0S1U4yA=="
 ---

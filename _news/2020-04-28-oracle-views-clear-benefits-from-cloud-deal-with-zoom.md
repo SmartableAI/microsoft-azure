@@ -8,7 +8,7 @@ ampWebUrl: "https://www.thestreet.com/.amp/investing/oracle-gets-cloud-infrastru
 cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/oracle-gets-cloud-infrastructure-deal-with-zoom-video"
 type: article
 quality: 42
-heat: 42
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,31 @@ images:
     title: "Oracle Views Clear Benefits From Cloud Deal With Zoom"
 
 related:
+  - title: "Oracle Wins Cloud Computing Deal With Zoom as Video Calls Surge"
+    excerpt: "Zoom Video Communications Inc said on Tuesday it has started using Oracle Corp's cloud computing service to help handle the surge in online video call volumes brought on by the novel coronavirus pandemic."
+    publishedDateTime: 2020-04-28T12:07:00Z
+    webUrl: "https://www.usnews.com/news/technology/articles/2020-04-28/oracle-wins-cloud-computing-deal-with-zoom-as-video-calls-surge"
+    ampWebUrl: "https://www.usnews.com/news/technology/articles/2020-04-28/oracle-wins-cloud-computing-deal-with-zoom-as-video-calls-surge?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2020-04-28/oracle-wins-cloud-computing-deal-with-zoom-as-video-calls-surge?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 62
+  - title: "Zoom teams up with Oracle Cloud to support 'sudden spike' in video calls in the coronavirus crisis."
+    excerpt: "Zoom saw a surge in demand and is now turning to Oracle cloud to manage a \"sudden spike\" in video calls."
+    publishedDateTime: 2020-04-28T16:00:00Z
+    webUrl: "https://www.businessinsider.com/zoom-oracle-cloud-partnership-sudden-spike-video-calls-2020-4"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 48
+    images:
+      - url: "https://i.insider.com/56e9935e910584145c8b69c4?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Oracle Bests Cloud Rivals To Win Blockbuster Zoom Deal"
     excerpt: "Zoom selects Oracle Cloud Infrastructure as its cloud provider to help them scale video communications during the coronavirus pandemic."
     publishedDateTime: 2020-04-28T15:21:00Z

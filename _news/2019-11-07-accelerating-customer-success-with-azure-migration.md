@@ -6,8 +6,8 @@ publishedDateTime: 2019-11-07T07:00:09Z
 webUrl: "https://azure.microsoft.com/blog/accelerating-customer-success-with-azure-migration/"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: 54
+published: false
 
 provider:
   name: Microsoft
@@ -27,17 +27,6 @@ images:
     height: 720
     isCached: true
     title: "Accelerating customer success with Azure migration"
-
-related:
-  - title: "Accelerating blockchain adoption in the enterprise"
-    excerpt: "\r\n\r\nThe mission for our blockchain investments has remained steadfast since the beginning, with the goal of democratizing complex technologies and creating connections across organizational boundaries to solve shared problems in a trusted manner. With this in mind, our roadmap has been focused on building"
-    publishedDateTime: 2019-11-06T07:00:18Z
-    webUrl: "https://azure.microsoft.com/blog/accelerating-blockchain-adoption-in-the-enterprise/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 19
 
 secured: "xVCAFiYUdKUJ2w4gQnjgKXo10zAswrQlc1Q9RRpkk9IDLvfl3/Ytpa8uM5KbXdCyudCqOaNtcN++bjRgbFK3is0P0d+Za3O7raL8g9cj2431UIfhRiAw1GguOp106v5dTtsQmUT3jk4MJuonh4drFK1YXCv+p+js2ANPhg/VmcgEJM9hYY0ebMg7UPz7vOpvWNLpTlvhE1t1FW+qabmIbilG8HREsXtLaE6uMOMqb5ZIZw7vnujL9ScpsU8q+ZKIicFNcqVpPXGNRXfBQigQuBb57z5xLjVy1a/QeD2+e0/J4wy+Y8QzIUkgPmOHnfWBLxEwzuHJI6/W6EiH+8C6/Q==;XrqSQjIwjEct1NFEet50wQ=="
 ---

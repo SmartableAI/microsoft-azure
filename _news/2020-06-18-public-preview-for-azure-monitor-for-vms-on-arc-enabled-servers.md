@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-18T19:00:30Z
 webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-for-azure-monitor-for-vms-on-arc-enabled-servers/"
 type: article
 quality: 17
-heat: 17
+heat: -1
 published: false
 
 provider:
@@ -21,10 +21,19 @@ topics:
   - Azure
 
 related:
-  - title: "Azure Monitor for Key Vault is now in preview"
-    excerpt: "Azure Monitor for Key Vault Preview provides comprehensive monitoring of your key vaults by delivering a unified view of your Key Vault requests, performance, failures, and latency."
-    publishedDateTime: 2020-06-24T20:00:17Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/kvi/"
+  - title: "Azure Monitor for Virtual Machines is now in preview in US Gov Arizona"
+    excerpt: "Azure Monitor for Virtual Machines is now available in preview in US Gov Arizona. It's also available in an additional eighteen public regions around the world."
+    publishedDateTime: 2020-06-16T16:00:02Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-monitor-for-vms-is-now-in-preview-in-us-gov-arizona/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 17
+  - title: "Azure Automation is now available in the USGov Arizona region"
+    excerpt: "Azure Automation is now available in the USGov Arizona region."
+    publishedDateTime: 2020-06-22T16:00:33Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-automation-generally-available-in-usgov-arizona-region/"
     type: article
     provider:
       name: Microsoft

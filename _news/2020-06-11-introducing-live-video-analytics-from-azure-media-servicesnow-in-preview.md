@@ -6,8 +6,8 @@ publishedDateTime: 2020-06-11T11:30:23Z
 originalUrl: "https://azure.microsoft.com/blog/introducing-live-video-analytics-on-iot-edge-now-in-preview/"
 webUrl: "https://azure.microsoft.com/blog/introducing-live-video-analytics-on-iot-edge-now-in-preview/"
 type: article
-quality: 88
-heat: 128
+quality: 105
+heat: 145
 published: true
 
 provider:
@@ -21,6 +21,7 @@ provider:
 topics:
   - Azure
   - IoT
+  - Analytics
 
 images:
   - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/7ca46f3e-646d-4280-8e23-ff4336ba416d.png"

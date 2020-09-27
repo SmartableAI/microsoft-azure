@@ -2,6 +2,143 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-09-22-configurable-backup-storage-redundancy-option-for-azure-sql-managed-instance.md",
+      "title": "Configurable Backup Storage Redundancy option for Azure SQL Managed Instance ",
+      "excerpt": "Now in general availability, locally redundant storage (LRS) and zone-redundant storage (ZRS) options have been added to backup storage redundancy, providing more flexibility and choice. ",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/en-us/updates/configurable-backup-storage-redundancy-option-for-azure-sql-managed-instance-2/",
+      "originalUrl": "https://azure.microsoft.com/en-us/updates/configurable-backup-storage-redundancy-option-for-azure-sql-managed-instance-2/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 178,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-22T09:05:38-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure",
+        "Databases",
+        "Storage"
+      ]
+    },
+    {
+      "path": "_news/2020-09-22-redis-enterprise-features-on-azure-cache-for-redis-coming-soon.md",
+      "title": "Redis Enterprise features on Azure Cache for Redis coming soon",
+      "excerpt": "Two new tiers will be coming soon in preview for Azure Cache for Redis through a collaboration with Redis Labs: Enterprise and Enterprise Flash.",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/en-us/updates/redis-enterprise-features-on-azure-cache-for-redis-coming-soon/",
+      "originalUrl": "https://azure.microsoft.com/en-us/updates/redis-enterprise-features-on-azure-cache-for-redis-coming-soon/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-22T09:05:34-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure",
+        "Databases"
+      ]
+    },
+    {
+      "path": "_news/2020-09-08-view-your-azure-cache-for-redis-data-in-new-visual-studio-code-extension.md",
+      "title": "View your Azure Cache for Redis data in new Visual Studio Code extension",
+      "excerpt": "Azure Cache for Redis is an in-memory data store that is used to power fast, scalable applications. Now in preview, you can access all the caches under your Azure subscriptions and view their data with the new Azure Cache for Redis Visual Studio Code extension.",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/blog/view-your-azure-cache-for-redis-data-in-new-visual-studio-code-extension/",
+      "originalUrl": "https://azure.microsoft.com/blog/view-your-azure-cache-for-redis-data-in-new-visual-studio-code-extension/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 220,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/96dd25a6-f623-45bd-8863-ac0049eaea9d.jpg",
+          "width": 1024,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-08T01:00:01-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure",
+        "Databases",
+        "Developer tools"
+      ]
+    },
+    {
       "path": "_news/2020-08-24-power-mission-critical-applications-with-azure-database-for-postgresql.md",
       "title": "Power mission-critical applications with Azure Database for PostgreSQL",
       "excerpt": "In our current environment, organizations are increasingly looking towards digital solutions to engage their customers and remain competitive. ",
@@ -10,7 +147,7 @@
       "originalUrl": "https://azure.microsoft.com/blog/power-missioncritical-applications-with-azure-database-for-postgresql/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 71,
+      "heat": 241,
       "tags": null,
       "images": null,
       "type": "article",
@@ -45,21 +182,21 @@
       ]
     },
     {
-      "path": "_news/2020-07-28-three-reasons-to-migrate-your-aspnet-apps-and-sql-server-data-to-azure.md",
-      "title": "Three reasons to migrate your ASP.NET apps and SQL Server data to Azure",
-      "excerpt": "The way we work and live has changed. Over the last several months, enterprises have had to shift their strategy from physical first to digital first and accelerate their digital transformation to enable remote productivity, reduce costs, or rapidly address new opportunities.",
+      "path": "_news/2020-08-05-new-azure-sql-learning-tools-help-reduce-the-global-technology-skills-gap.md",
+      "title": "New Azure SQL Learning Tools help reduce the global technology skills gap",
+      "excerpt": "Across Microsoft, we are helping a new generation of technology workers develop the right level of skills. Recently, Microsoft announced the availability of new virtual learning programs. These programs, focused on technical topics are already helping people enhance their digital expertise and, for some,",
       "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/blog/three-reasons-to-migrate-your-aspnet-apps-and-sql-server-data-to-azure/",
-      "originalUrl": "https://azure.microsoft.com/blog/three-reasons-to-migrate-your-aspnet-apps-and-sql-server-data-to-azure/",
+      "webUrl": "https://azure.microsoft.com/blog/new-azure-sql-learning-tools-help-reduce-the-global-technology-skills-gap/",
+      "originalUrl": "https://azure.microsoft.com/blog/new-azure-sql-learning-tools-help-reduce-the-global-technology-skills-gap/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 73,
+      "heat": 83,
       "tags": null,
       "images": null,
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-28T03:00:15-07:00",
+      "publishedDateTime": "2020-08-05T02:00:41-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",
@@ -83,9 +220,7 @@
       ],
       "topics": [
         "Azure",
-        "Databases",
-        "Developer tools",
-        "Web"
+        "Databases"
       ]
     },
     {
@@ -97,7 +232,7 @@
       "originalUrl": "https://azure.microsoft.com/blog/eight-ways-to-optimize-costs-on-azure-sql/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 151,
+      "heat": 206,
       "tags": null,
       "images": [
         {
@@ -200,7 +335,7 @@
       "originalUrl": "https://azure.microsoft.com/blog/azure-cost-management-billing-updates-april-2020/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 235,
+      "heat": 215,
       "tags": null,
       "images": [
         {

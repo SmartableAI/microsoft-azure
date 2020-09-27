@@ -44,15 +44,36 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "Snowflake Achieves FedRAMP Moderate Authorization for Snowflake on AWS and Microsoft Azure Government"
-    excerpt: "Snowflake, the cloud data platform, today announced it has achieved Federal Risk and Authorization Management Program (FedRAMP) Moderate Authorization"
-    publishedDateTime: 2020-07-08T17:32:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200708005692/en/Snowflake-Achieves-FedRAMP-Moderate-Authorization-Snowflake-AWS"
+  - title: "Cameyo, ASG Africa extend virtual application delivery for remote work to Microsoft Azure customers throughout MEA"
+    excerpt: "The companies extend virtual application delivery for remote work to Microsoft Azure customers throughout Africa and the Middle East."
+    publishedDateTime: 2020-07-07T07:11:00Z
+    webUrl: "https://www.itweb.co.za/content/o1Jr5qx9blpvKdWL"
+    ampWebUrl: "https://amp.itweb.co.za/content/o1Jr5qx9blpvKdWL"
+    cdnAmpWebUrl: "https://amp-itweb-co-za.cdn.ampproject.org/c/s/amp.itweb.co.za/content/o1Jr5qx9blpvKdWL"
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 2
+      name: ITWeb
+      domain: itweb.co.za
+    quality: 35
+    images:
+      - url: "https://lh3.googleusercontent.com/rCZN-O0WszBdakQ7cbVOQBdVsDl1cl-ooboZ3eBbiuaMEASXwuYZn_7crSLmS2wSgOX5Ae9C8EhQM84jQ_4NEP0=w400-h324-c"
+        width: 400
+        height: 324
+        isCached: true
+  - title: "Course 40501-G: Microsoft Cloud Workshop: Cloud-native applications"
+    excerpt: "This workshop is intended for Cloud Architects and IT professionals who have architectural expertise of infrastructure and solutions design in cloud technologies and want to learn more about Azure and Azure services as described in the \"summary and \"Skills gained\" areas."
+    publishedDateTime: 2020-07-01T21:47:00Z
+    webUrl: "https://docs.microsoft.com/en-us/learn/certifications/courses/40501"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 22
+    images:
+      - url: "https://docs.microsoft.com/en-us/media/logos/logo-ms-social.png"
+        width: 400
+        height: 400
+        isCached: true
 
 secured: "0oVDUbH9PvpOp3hkdwL+wj2zekWGjMozhvg7V1nC4npHYCVQpAF4t9z16Aqm1avhj7sXS1ZBZs+4kJk+aajmfriwwlD3OfjCo6ixSJHUiWwtBZbvuHj192QZrFG3Sa9kuZuUmRJaOz/HK9eEBqmvpPcIM4NhOhnxRqeLLoMmorpWRBwmsWkf9vHq+Qh2hHpdHHvDWmdV3YuUTOvpx8Bf4RvzRf3sqp7NprmDZqdIBpuWGjfQSXtdyKtg+Y+DmU/Yfcmp5L3XCYL8gNaJU3co7OXWz+BMz+jCugspThOsEMvn+5JWsaHKInPzLse7lJ68taROYTOg5tDx1RTB1Emlew==;LOW0PgRl799jv8HexEuKhA=="
 ---

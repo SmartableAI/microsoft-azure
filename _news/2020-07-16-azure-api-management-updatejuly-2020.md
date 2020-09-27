@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-16T00:00:31Z
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-api-management-update-july-2020/"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -27,15 +27,15 @@ images:
     isCached: true
 
 related:
-  - title: "Azure API Management updates- September 2020"
-    excerpt: "Regular Azure API Management service updates including new features, bug fixes, changes and other improvements."
-    publishedDateTime: 2020-09-17T16:00:10Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-api-management-updates-september-2020/"
+  - title: "Azure API Management updates—June 2020"
+    excerpt: "A regular Azure API Management service update was started on June 10, 2020, and included new features, bug fixes, and changes, along with other improvements."
+    publishedDateTime: 2020-06-11T17:00:01Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-api-management-update-june-2020/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 67
+    quality: 17
 
 secured: "bhQ118cTnMC3mWy3r5hS1+7RHowF87nX3j1NwVbVnu3EewIgTLdg+ExRMqXN7iD0yoEN+Dp75rgoXuE1erKLTI2yrD81jbedKwdGeuuQI7amojI/nBWHP/iqslC+hvb2XJsBTMpnDLY4OlzR0Cxedy9/ogzJ0x0f8kBvo8rOFfMEqWNm9ebMKeD77Ueyc+4E0hMmiN98wkNEodanallZciBYDLvdARxv1LhE1ju7MZCw6on44T0ujwfyMAroCCeakoP1nZNigovLPzTdjht96pW1HU4UyAXxbZ2fVMO44241KObtSm/24fZPsW6SqQmATPvKxSqZ/YgbyoR4Z9L6HQ==;zqE22688mu0dH9ZR/qcF2Q=="
 ---

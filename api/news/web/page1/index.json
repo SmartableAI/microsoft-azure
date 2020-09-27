@@ -2,21 +2,30 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2020-07-28-three-reasons-to-migrate-your-aspnet-apps-and-sql-server-data-to-azure.md",
-      "title": "Three reasons to migrate your ASP.NET apps and SQL Server data to Azure",
-      "excerpt": "The way we work and live has changed. Over the last several months, enterprises have had to shift their strategy from physical first to digital first and accelerate their digital transformation to enable remote productivity, reduce costs, or rapidly address new opportunities.",
+      "path": "_news/2020-07-13-azure-maps-power-bi-visual-now-in-preview.md",
+      "title": "Azure Maps Power BI visual now in preview",
+      "excerpt": "The Azure Maps visual for Power BI will be releasing as a preview this week. Power BI is a powerful analysis and visualization tool. Azure Maps is an important tool for gaining geospatial context and insights that can be used in decision making.",
       "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/blog/three-reasons-to-migrate-your-aspnet-apps-and-sql-server-data-to-azure/",
-      "originalUrl": "https://azure.microsoft.com/blog/three-reasons-to-migrate-your-aspnet-apps-and-sql-server-data-to-azure/",
+      "webUrl": "https://azure.microsoft.com/blog/azure-maps-power-bi-visual-now-in-preview/",
+      "originalUrl": "https://azure.microsoft.com/blog/azure-maps-power-bi-visual-now-in-preview/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 73,
+      "heat": 133,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/8546d591-93c0-45ce-81a9-993caa2d22ea.png",
+          "width": 822,
+          "height": 469,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-28T03:00:15-07:00",
+      "publishedDateTime": "2020-07-13T02:00:01-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",
@@ -40,8 +49,8 @@
       ],
       "topics": [
         "Azure",
-        "Databases",
-        "Developer tools",
+        "IoT",
+        "Mobile",
         "Web"
       ]
     },
@@ -150,7 +159,7 @@
       "originalUrl": "https://azure.microsoft.com/blog/azure-maps-creator-now-available-in-preview/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 553,
+      "heat": 333,
       "tags": null,
       "images": [
         {
@@ -203,7 +212,7 @@
       "originalUrl": "https://azure.microsoft.com/blog/updates-to-azure-maps-web-sdk-includes-powerful-new-features/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 128,
+      "heat": 130,
       "tags": null,
       "images": [
         {
@@ -244,7 +253,8 @@
         "Azure",
         "IoT",
         "Mobile",
-        "Web"
+        "Web",
+        "Developer tools"
       ]
     }
   ],

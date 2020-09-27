@@ -8,7 +8,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/red-hat-takes-on-the-hybrid
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/red-hat-takes-on-the-hybrid-cloud-with-its-latest-openshift-kubernetes-distro/"
 type: article
 quality: 79
-heat: 99
+heat: 139
 published: true
 
 provider:
@@ -46,6 +46,24 @@ related:
         width: 1024
         height: 1024
         isCached: true
+  - title: "Azure Red Hat OpenShift on OpenShift 4 now available"
+    excerpt: ""
+    publishedDateTime: 2020-04-28T14:00:37Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-red-hat-openshift-on-openshift-4-now-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 17
+  - title: "Couchbase Advances Its First-In-Market Kubernetes Operator to Deliver a Cloud Native, Fully Autonomous Database Management Platform"
+    excerpt: "Couchbase, the creator of the enterprise-class, multicloud to edge NoSQL database, today announced Version 2.0 of the Couchbase Autonomous Operator for Kubernetes (“Autonomous Operator”), the most mature and advanced operator in the industry."
+    publishedDateTime: 2020-04-28T14:04:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/couchbase-advances-its-first-in-market-kubernetes-operator-to-deliver-a-cloud-native-fully-autonomous-database-management-platform-1029139072"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 12
 
 secured: "q6s2SovLKuBCkI8N3kZTa53MaKooPguzWB7B4QIevILzMoIKkuVDRxgXItE/sFkCdJYTzc00xJVZu4dCaCsiZRZJLOvh6ws/76zFiDbXKDBAcEErjDqbirPWC4yzgvdgEAw1oxaBUTRchTjKuvdwOrO4m7wnwUEV4i0dZgFQs51skoR4rPMDXPpii7Y43UbXviqmF+Hb+Np5wX9vxQt7U3wSwWEqmNuXg8gTMVvoNjthz7i2rqrG9ektyauWpZmKxSFkqgO8EA/Qb7L7aWIeAvNcnfMZF/2yy6FaBE+GKJVyKiX/cCvC3Aak6KIG79Pc;E1Ws9gb3ynR6+SAFKwQF8g=="
 ---

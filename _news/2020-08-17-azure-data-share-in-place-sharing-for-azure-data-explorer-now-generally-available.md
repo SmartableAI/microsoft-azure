@@ -21,15 +21,6 @@ topics:
   - Azure
 
 related:
-  - title: "Azure Functions: PowerShell 7 support is now generally available"
-    excerpt: "Develop and deploy Azure Functions Apps for production scenarios using the latest version of PowerShell."
-    publishedDateTime: 2020-08-10T20:39:42Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-functions-powershell-7-support-is-now-generally-available/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 67
   - title: "Azure Data Box Disk is now generally available in South Africa and China"
     excerpt: "Data Box Disk is GA in South Africa and China"
     publishedDateTime: 2020-08-12T19:00:30Z
@@ -39,33 +30,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 66
-  - title: "Windows 10 IoT Core Services are generally available"
-    excerpt: "Moving forward with Windows CE using the Windows CE App Container on Windows 10 IoT Core"
-    publishedDateTime: 2020-08-11T17:00:17Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/windows-10-iot-core-services-are-generally-available/"
+  - title: "Azure Backup for SAP HANA databases running on RHEL is now generally available"
+    excerpt: "On August 1, 2020, Azure Backups support for HANA databases running on Red Hat Enterprise Linux (RHEL) became generally available. This offering is available across all Azure regions except for Germany Northeast, Germany Central, France South, and US Gov IOWA. "
+    publishedDateTime: 2020-08-19T16:00:41Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-backup-for-sap-hana-databases-running-on-rhel-is-now-ga/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 52
-  - title: "Azure Support API is generally available"
-    excerpt: ""
-    publishedDateTime: 2020-04-17T17:00:00Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-support-api-is-generally-available/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 17
-  - title: "Azure Data Lake Storage Gen2 PowerShell and CLI are now generally available"
-    excerpt: ""
-    publishedDateTime: 2020-05-15T16:00:19Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-data-lake-storage-gen2-powershell-and-cli-are-now-generally-available/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 15
+    quality: 63
 
 secured: "L6J5IspjmMCbzyocm5g86nnaKqPrp2AlRn5Tmey5lE+OaTUxlvC0LZJFGyX3HlbFQaBYu/QF2vgbd4/xr+7eORE8eHrP9GQjplYifoXOuuURTIbtbHJ/xUCN4YlrwDJwvH4Yi7Rufc0Swq0OEDPM6cgJ73HOrj9iLvLUIXhsOuP5RdIXWaO4N9tk/+NWJEwvAqIyM7b0PjFScy/RxNBbtUOK+wnFmWwZyCmKBvCSxAETb53dE+mT7i0s7U5Vr2SGqMj/bpJoBcYZpXBvwsWIkCxPVainMP86LBbqsgCjRaFUbVAf7Sf+AlGe7HWG5etRjhuNdV36yPR2Hm04c8x3sJVcQ4PyEmhc5L+cK9X7LCA=;TTO7eiRJPMqUXZULJzCu7A=="
 ---

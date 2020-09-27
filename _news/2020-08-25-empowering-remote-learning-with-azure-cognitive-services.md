@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/empowering-remote-learning-with-a
 webUrl: "https://azure.microsoft.com/blog/empowering-remote-learning-with-azure-cognitive-services/"
 type: article
 quality: 67
-heat: 107
+heat: 87
 published: true
 
 provider:
@@ -22,15 +22,6 @@ topics:
   - Azure
 
 related:
-  - title: "Public Preview: Cognitive Services Form Recognizer v2.1"
-    excerpt: "Form Recognizer v2.1-preview.1 has been released. It includes support for new languages, checkbox/selection marks, and the submit multiple form types to a single model Id."
-    publishedDateTime: 2020-08-21T17:00:18Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/form-recognizer-v2-1/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 52
   - title: "Start building with Azure Cognitive Services for free"
     excerpt: "This post was co-authored by Tina Coll, Sr Product Marketing Manager, Azure Cognitive Services.\r\n\r\nInnovate at no cost to you, with out-of-the box AI services that are newly available for Azure free account users. Join the 1.3 million developers who have been using Cognitive Services to build AI powered"
     publishedDateTime: 2019-10-23T14:00:15Z

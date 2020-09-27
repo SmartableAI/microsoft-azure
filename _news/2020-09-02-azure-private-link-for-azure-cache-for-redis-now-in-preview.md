@@ -22,42 +22,61 @@ topics:
   - Azure
 
 related:
-  - title: "Azure Private Link support in Azure Data Factory now available"
-    excerpt: "Azure Data Factory (ADF) now supports Azure Private Link. "
-    publishedDateTime: 2020-08-31T22:00:31Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-private-link-support-in-azure-data-factory-now-available/"
+  - title: "View your Azure Cache for Redis data in new Visual Studio Code extension"
+    excerpt: "Azure Cache for Redis is an in-memory data store that is used to power fast, scalable applications. Now in preview, you can access all the caches under your Azure subscriptions and view their data with the new Azure Cache for Redis Visual Studio Code extension."
+    publishedDateTime: 2020-09-08T08:00:01Z
+    webUrl: "https://azure.microsoft.com/blog/view-your-azure-cache-for-redis-data-in-new-visual-studio-code-extension/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 120
+    images:
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/96dd25a6-f623-45bd-8863-ac0049eaea9d.jpg"
+        width: 1024
+        height: 630
+        isCached: true
+  - title: "New Deploy to Azure extension for Visual Studio Code"
+    excerpt: "Organizations and teams that adopt DevOps methodologies are consistently seeing improvements in their ability to deliver high-quality code, with faster release cycles, and ultimately achieve higher levels of satisfaction for their own customers, whether they’re internal or external. "
+    publishedDateTime: 2020-03-18T10:00:05Z
+    webUrl: "https://azure.microsoft.com/blog/new-deploy-to-azure-extension-for-visual-studio-code/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 106
+    images:
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/8fd83624-c140-4bcc-9bbb-b48b7cfd44cf.gif"
+        width: 600
+        height: 338
+        isCached: true
+  - title: "Azure Cache for Redis Visual Studio Code extension now in preview"
+    excerpt: "You will be able to use Visual Studio Code to view, test, and debug your caches in one streamlined experience. This extension enhances ease of development by eliminating the need to manually track connection and access keys to connect to your caches."
+    publishedDateTime: 2020-09-02T16:00:03Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-cache-for-redis-visual-studio-code-extension-now-in-preview-2/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
     quality: 67
-  - title: "Azure Private Link Services available in China"
-    excerpt: "Azure Private Link now includes multiple new services available in all China Regions"
-    publishedDateTime: 2020-09-21T18:00:04Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-private-link-partner-services-now-generally-available-in-china/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 67
-  - title: "Azure Private Link for Azure Monitor is now available"
+  - title: "New Azure extensions for Visual Studio Code"
     excerpt: ""
-    publishedDateTime: 2020-05-22T22:00:01Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/private-link-azure-monitor-is-now-available/"
+    publishedDateTime: 2020-05-19T16:05:40Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/new-azure-extensions-for-visual-studio-code/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
     quality: 17
-  - title: "Azure Relay—Azure Private Link support for sender clients is now available in preview"
+  - title: "Azure Databases extension for Visual Studio Code"
     excerpt: ""
-    publishedDateTime: 2020-05-18T21:00:03Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-relay-private-link-support-preview/"
+    publishedDateTime: 2020-05-28T16:00:15Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-databases-extension-for-visual-studio-code/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 10
+    quality: 17
 
 secured: "7FQPq126x7j38rKNrFWkEoC0eRvQB0r9/CVCLP8pIBDWmUBR0TxaX51rVDTaj4kKnqQY+4Hk8s2uG0kq3gTLmzB18TlOWnBLLzlIWIOUCULW3zyWb9DWw3zNTnLodvWfUNFc6nc8vBVH+B1M+3ecTvVpiSvLxbbmCFjkcvyUm9UUwqzEPmHNR741c0ncaFR4mI64EEIQ7DzMmthEpxx+CFCDrIeJEbf30i8XHWh+g517BUFX8630dfIBk1KqCbl3Hpjr1pZ5Gp4dOdoyWjbOhUJ3I6F3916FXQvaswx5ql456SMGJIo2W06TaTJ11gNuWC4BDHleJ05trhYR88rCjZMYZAAi4Hd+SR/pbFxmLIY=;iJpS2eRQaOUdqJ6G/4fw3Q=="
 ---

@@ -21,97 +21,106 @@ topics:
   - Azure
 
 related:
-  - title: "Microsoft Azure IoT Connector for FHIR now in preview"
-    excerpt: "The preview of Azure IoT Connector for FHIR—a fully managed and compliant feature of the Azure API for FHIR—is now available. The connector empowers health teams with the technology for a scalable end-to-end pipeline to ingest, transform, and manage Protected Health Information (PHI) data from devices"
-    publishedDateTime: 2020-07-16T11:00:40Z
-    webUrl: "https://azure.microsoft.com/blog/microsoft-azure-iot-connector-for-fhir-now-in-preview/"
+  - title: "Connector for AWS in Azure Cost Management + Billing is now generally available"
+    excerpt: "The connector for AWS that helps you manage Azure and AWS costs from a single location is now generally available."
+    publishedDateTime: 2020-09-02T08:00:01Z
+    webUrl: "https://azure.microsoft.com/blog/connector-for-aws-in-azure-cost-management-billing-is-now-generally-available/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 104
+    quality: 83
     images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/e5a083c8-5be0-4b4a-8878-bf65fbf877f9.png"
-        width: 735
-        height: 411
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/8a7ddc8c-ab40-4eb0-8979-ec73c6098015.png"
+        width: 640
+        height: 364
         isCached: true
-  - title: "Azure Maps Power BI visual now in preview"
-    excerpt: "The Azure Maps visual for Power BI will be releasing as a preview this week. Power BI is a powerful analysis and visualization tool. Azure Maps is an important tool for gaining geospatial context and insights that can be used in decision making."
-    publishedDateTime: 2020-07-13T09:00:01Z
-    webUrl: "https://azure.microsoft.com/blog/azure-maps-power-bi-visual-now-in-preview/"
+  - title: "Azure Spring Cloud: a fully managed service for Spring Boot apps is now generally available"
+    excerpt: "Azure Spring Cloud is a fully managed service for Spring Boot apps, that lets you focus on building the apps that run your business without the hassle of managing infrastructure."
+    publishedDateTime: 2020-09-02T06:00:00Z
+    webUrl: "https://azure.microsoft.com/blog/azure-spring-cloud-a-fully-managed-service-for-spring-boot-apps-is-now-generally-available/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 93
+    quality: 77
     images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/8546d591-93c0-45ce-81a9-993caa2d22ea.png"
-        width: 822
-        height: 469
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/816ab479-5c10-48ba-8084-c7816d2b6f1b.jpg"
+        width: 1024
+        height: 737
         isCached: true
-  - title: "Azure Monitor for SAP Solutions is now in preview"
-    excerpt: "To help our SAP on Azure customers effectively monitor their SAP applications, today we are announcing the preview of Azure Monitor for SAP solutions, an Azure-native monitoring solution for customers running their SAP solutions on Azure."
-    publishedDateTime: 2020-07-15T08:00:26Z
-    webUrl: "https://azure.microsoft.com/blog/azure-monitor-for-sap-solutions-is-now-in-preview/"
+  - title: "Azure Blob versioning is now general available "
+    excerpt: "Azure storage strives to protect your business critial data from any accident or attack. We are excited to announce the general availability of  Azure Blob versioning. "
+    publishedDateTime: 2020-08-31T20:00:37Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-blob-versioning-is-now-general-available/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 17
-  - title: "Azure Monitor for SAP Solutions is now available in preview"
-    excerpt: "Azure Monitor for SAP Solutions is a new Azure-native monitoring product for customers running SAP landscapes on Azure. It’s now available in public preview in US East, US East 2, US West 2, and West Eu regions."
-    publishedDateTime: 2020-07-21T16:01:22Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-monitor-for-sap-solutions-is-now-available-in-preview/"
+    quality: 67
+  - title: "Visualize and Manage your AWS costs in Azure Cost Management"
+    excerpt: "Connector for AWS in Azure Cost Management is now Generally Available."
+    publishedDateTime: 2020-09-01T16:00:07Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/visualize-and-manage-your-aws-costs-in-azure-cost-management/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 17
-  - title: "Java 11 for Azure Functions is now available in preview"
-    excerpt: "Java 11 for Azure Functions is now available in preview on Consumption and Premium plans for Windows and Linux."
-    publishedDateTime: 2020-07-21T16:02:46Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/java-11-for-azure-functions-is-now-available-in-preview/"
+    quality: 67
+  - title: "Azure Spring Cloud is now generally available"
+    excerpt: "Azure Spring Cloud is a fully managed service for Spring Boot apps that lets you focus on building the apps that run your business without the hassle of managing infrastructure"
+    publishedDateTime: 2020-09-02T16:00:04Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-spring-cloud-is-now-generally-available/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 17
-  - title: "Performance tiers for Azure Disk Storage are in limited preview"
-    excerpt: "Azure Disk Storage now enables you to set performance tiers (in limited preview) for a specific duration of time based on workload demand."
-    publishedDateTime: 2020-07-21T16:01:37Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/performance-tiers-for-azure-disk-storage-are-in-limited-preview/"
+    quality: 67
+  - title: "Azure Blob storage object replication is now generally available"
+    excerpt: "Object replication allows you to replicate your block blob data at the blob level from one storage account to another anywhere in the Azure. "
+    publishedDateTime: 2020-09-09T20:05:14Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-blob-storage-object-replication-is-now-generally-available/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 17
-  - title: "Azure Private Link support for Azure Automation is now available in preview"
-    excerpt: "You can now use Azure Private Link to securely connect virtual networks to Azure Automation using private endpoints (in preview)."
-    publishedDateTime: 2020-07-09T23:00:06Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-private-link-azure-automation-is-now-available/"
+    quality: 67
+  - title: "Change feed support is now generally available for Azure Blob Storage"
+    excerpt: "Change feed support for Microsoft Azure Blob storage is now generally available."
+    publishedDateTime: 2020-09-09T20:04:54Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/change-feed-support-is-now-generally-available-for-azure-blob-storage/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 15
-  - title: "Additional Azure regions for IoT Connector for Azure API for FHIR (preview)"
-    excerpt: "Azure IoT Connector, a feature of Azure API for FHIR, is now available for preview in additional Azure regions. It enables remote patient monitoring, telehealth, and clinical trial scenarios by ingesting health data from medical and non-medical devices in a secure, scalable, and compliant manner."
-    publishedDateTime: 2020-07-21T16:02:12Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/additional-azure-regions-for-iot-connector-for-azure-api-for-fhir-preview/"
+    quality: 67
+  - title: "Immersive Reader is now generally available"
+    excerpt: "Immersive Reader is an Azure Cognitive Service for developers who want to embed inclusive capabilities into their apps for enhancing text reading and comprehension for users regardless of age or ability. "
+    publishedDateTime: 2020-08-27T00:35:27Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/immersive-reader-is-now-generally-available/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 15
-  - title: "OpenID Connect support for Azure App Service and Azure Functions (in preview)"
-    excerpt: "A new capability (in preview) allows you to configure your Azure App Service and Azure Functions apps for login authentication through any OpenID Connect provider."
-    publishedDateTime: 2020-07-21T16:02:33Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/openid-connect-support-for-azure-app-service-and-azure-functions-in-preview/"
+    quality: 52
+  - title: "Manage your Azure & Amazon Web Services (AWS) spending in a single location with Azure Cost Management +Billing"
+    excerpt: "An Azure Cost Management + Billing connector for AWS is now generally available. "
+    publishedDateTime: 2020-09-01T17:16:16Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/manage-your-azure-amazon-web-services-aws-spending-in-a-single-location-with-azure-cost-management-billing/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 14
+    quality: 47
+  - title: "User-initiated failover for application fault resiliency in Azure SQL Managed Instance is now generally available"
+    excerpt: "Test the impact of automatic failover operations during planned or unplanned events before deployment to production by manually initiating automatic failover"
+    publishedDateTime: 2020-09-02T16:00:05Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/userinitiated-failover-for-application-fault-resiliency-in-azure-sql-managed-instance-is-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 46
 
 secured: "aqAFfDjMYyGUv4pdrJNV7MSUcnARUE5XPeLyO8VhT9EQgaayX0Ez6hFvTiqjH05g/uIEOnDN5UcfdCDZsJM/Y+YjQMHN9wTedQ/XhTg4WnbFZLvNga0m9oSQoTe0VQDq5eE+NSyC9TvDYgd45Dq/K2ftqG0h93RAomF5Lul9WpnIZ7tvCxKQqhV5l/0CHmZCJaboKVGTQI67Xu4B8uaEn7erfStmKPjuAeZk3yU+1P61Qj3XIFqmb/nibGRSEP3Ptal0ObTJlZ4Q3kJqip99mQ286dRw4QUrd0pEh4sWC+dVApBqgJPUe3bm+UJlO9/ST0l0FGLzKSKx2LGcsWssYQ==;HhDGA12sZcPk+NonNWRtyw=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/azure-private-link-suppo
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-private-link-support-in-azure-data-factory-now-available/"
 type: article
 quality: 67
-heat: 147
+heat: 107
 published: true
 
 provider:
@@ -22,15 +22,6 @@ topics:
   - Azure
 
 related:
-  - title: "Azure Private Link for Azure Cache for Redis now in preview"
-    excerpt: "You can now use Azure Private Link to connect to an Azure Cache for Redis instance from your virtual network via a private endpoint, which is assigned a private IP address in a subnet within the virtual network."
-    publishedDateTime: 2020-09-02T16:00:02Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-private-link-for-azure-cache-for-redis-now-in-preview/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 67
   - title: "Azure Private Link Services available in China"
     excerpt: "Azure Private Link now includes multiple new services available in all China Regions"
     publishedDateTime: 2020-09-21T18:00:04Z
@@ -49,15 +40,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 17
-  - title: "Azure Relay—Azure Private Link support for sender clients is now available in preview"
-    excerpt: ""
-    publishedDateTime: 2020-05-18T21:00:03Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-relay-private-link-support-preview/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 10
 
 secured: "sj/IQ48GyP9J1eGVC9W/XTNxiZdQAWg84m+PcjMk1WIxkbbfGwmzOi6M+zeMPH8DQjp32sgkeJ8Z1+PQeTf/TfLCwQ5R68ErSWZJoUKkA8ko2OVHqjbethGTUP+MRfZAzJDDfQH3+rEVRSqIZEInoq9YJvW0/WZeI/B9fgkqh7/ZAsKY5eTJh/KbGmf1jThJHLBV8sqw4pt9sKDM9DW6n40FYbRJArPRUQCMYvPTBw1yIAUWnCdqwhi+WM1J2Tkad3KxAPPU6N/ycszMQ7QmHNguGLDElt0ho1JLjiVa+/Fu4uKulJN+LruH0dDiSPivjzq43aaMDxfm+L9r2/c+BTB2KRmIaM6UCmnoRGca/1o=;avIrph9IsBoCSKmf7pN+YQ=="
 ---

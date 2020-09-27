@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-22T16:00:22Z
 webUrl: "https://azure.microsoft.com/en-us/updates/announcing-extended-term-reservation-for-the-azure-hbv2-virtual-machine/"
 type: article
 quality: 17
-heat: -1
+heat: 17
 published: false
 
 provider:
@@ -19,40 +19,6 @@ provider:
 
 topics:
   - Azure
-
-related:
-  - title: "Achieve higher performance and cost savings on Azure with virtual machine bursting"
-    excerpt: "Virtual machine bursting, which is enabled by default, offers you the ability to achieve higher throughput for a short duration on your virtual machine instance with no additional steps or cost."
-    publishedDateTime: 2020-06-18T09:30:27Z
-    webUrl: "https://azure.microsoft.com/blog/achieve-higher-performance-and-cost-savings-on-azure-with-virtual-machine-bursting/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 85
-    images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/977114bc-6c0d-44dd-bdb3-413fd3bcbeed.png"
-        width: 624
-        height: 480
-        isCached: true
-  - title: "Seven ways to achieve cost savings and deliver efficiencies with Azure infrastructure"
-    excerpt: "The global health crisis has transformed the way we work and live. At Microsoft, we are committed to doing what we can to help our customers respond to the crisis and plan ahead for future success."
-    publishedDateTime: 2020-06-17T09:30:13Z
-    webUrl: "https://azure.microsoft.com/blog/seven-ways-to-achieve-cost-savings-and-deliver-efficiencies-with-azure-infrastructure/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 60
-  - title: "Ephemeral OS disks for Azure Virtual Machines (VMs) now support additional VM sizes"
-    excerpt: "You now have the ability to store ephemeral OS disks on the VM temp or resource disk in addition to the VM cache (in preview). "
-    publishedDateTime: 2020-06-25T23:00:32Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/ephemeral-os-disks-for-azure-vms-now-supports-additional-vm-sizes/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 11
 
 secured: "AI+N7TB14NBIrtdb7yjDBoLrw0VHqmEuipju+Vv/x+xw+lLHY+Q5WswCDVKXTCDvxPSjq01r475zfmInwPoTFdMiyHLgTv/oNNpap9pUNSFOTBBm2uqyUw7ZGVioMCCvNi/5v7Yi4acXX9CPM/GvYnJGQelQ0+KnwpKb1XQvFxtjuxRv+n0b8mjtzTDq8OVdNz90EAhUkM96VQ9sW+kPhBTuSY/Qm7MMT9pPJERiGG8ihhI402QfhOnsZtqBs/tw3q/Ag+74NtcNLefkHPSg+oqaJzgs3Vc9NCJYOJxDpWTXLMYECW3OhuZb/qFoOHrzMKu52TrXEV652ZVJ3Stshw==;J+CaJhQ2QVYeEG9UWtJeqA=="
 ---

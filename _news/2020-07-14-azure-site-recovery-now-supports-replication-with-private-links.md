@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-14T17:00:14Z
 webUrl: "https://azure.microsoft.com/en-us/updates/site-recovery-now-supports-replication-with-private-links/"
 type: article
 quality: 17
-heat: -1
+heat: 17
 published: false
 
 provider:
@@ -21,10 +21,10 @@ topics:
   - Azure
 
 related:
-  - title: "Azure Site Recovery now supports proximity placement groups"
-    excerpt: ""
-    publishedDateTime: 2020-05-29T01:00:20Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-site-recovery-now-supports-proximity-placement-groups/"
+  - title: "Azure Monitor for Containers now supports recommended alerts"
+    excerpt: "Azure Monitor for Containers now includes recommended alerts. Use this feature to enable alerts in one click on your Azure Kubernetes Service (AKS) clusters. These preconfigured metrics alerts enable you to monitor your system resource when it's running on peak capacity or hitting failure rates. This"
+    publishedDateTime: 2020-07-15T23:00:32Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/ci-recommended-alerts/"
     type: article
     provider:
       name: Microsoft

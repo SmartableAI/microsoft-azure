@@ -6,8 +6,8 @@ publishedDateTime: 2020-07-28T09:00:15Z
 originalUrl: "https://azure.microsoft.com/blog/eight-ways-to-optimize-costs-on-azure-sql/"
 webUrl: "https://azure.microsoft.com/blog/eight-ways-to-optimize-costs-on-azure-sql/"
 type: article
-quality: 91
-heat: 151
+quality: 106
+heat: 206
 published: true
 
 provider:
@@ -30,15 +30,15 @@ images:
     isCached: true
 
 related:
-  - title: "5 ways to optimize your backup costs with Azure Backup"
-    excerpt: "Achieving cost efficiency in your cloud usage is more critical today than ever before. \nAt Azure Backup, we are committed to helping you optimize your backup costs. Over the last few months, we have…"
-    publishedDateTime: 2020-09-01T09:00:01Z
-    webUrl: "https://azure.microsoft.com/blog/5-ways-to-optimize-your-backup-costs-with-azure-backup/"
+  - title: "Three reasons to migrate your ASP.NET apps and SQL Server data to Azure"
+    excerpt: "The way we work and live has changed. Over the last several months, enterprises have had to shift their strategy from physical first to digital first and accelerate their digital transformation to enable remote productivity, reduce costs, or rapidly address new opportunities."
+    publishedDateTime: 2020-07-28T10:00:15Z
+    webUrl: "https://azure.microsoft.com/blog/three-reasons-to-migrate-your-aspnet-apps-and-sql-server-data-to-azure/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 71
+    quality: 73
   - title: "New memory- and compute-optimized hardware options in Azure SQL Database"
     excerpt: "M-series, a new memory-optimized hardware option, and Fsv2-series, a new compute-optimized hardware option, are now generally available in Azure SQL Database. "
     publishedDateTime: 2020-07-21T21:22:34Z
@@ -48,6 +48,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 16
+  - title: "Machine Learning services on Azure SQL Managed Instance is in limited preview"
+    excerpt: "Machine Learning Services, a feature of Azure SQL Managed Instance, provides in-database support for R and Python scripts (in limited preview)."
+    publishedDateTime: 2020-07-21T21:19:04Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/machine-learning-services-on-azure-sql-managed-instance-is-in-limited-preview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 14
   - title: "New memory optimized and compute optimized hardware options in Azure SQL Database"
     excerpt: "New memory optimized and compute optimized hardware options are now generally available in Azure SQL Database."
     publishedDateTime: 2020-07-23T16:04:22Z
@@ -57,6 +66,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 12
+  - title: "Azure SQL Database—A performance optimization change to default settings is coming soon"
+    excerpt: "The default maximum degree of parallelism (MAXDOP) option in Azure SQL Database is changing from 0 to 8, improving workload performance and optimizing resource utilization."
+    publishedDateTime: 2020-07-25T00:00:28Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/sqldb-maxdop-updates/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 9
 
 secured: "RiDZT6RJ+w7xcXOLD5gPYUp0ioSFgWZB5k2NTW4fAqWHusLyERlaFH3x/BHQcFhNE4pGyCnEqfP+NQQ8O2ubOiahttavIp8k4F97H4n3pwp9LYAnVigZIlLfEiDRiNvzPZg6+mL9m+ewewYSkMfLeyKgj0Uh3DAvYQE7ZK6tzMAWXvld0KaHwFMCc1mecYUMlvaRRVPTljZPuOW6cVw31Jk4NzxBjoYl0KpAMrV+sgqZJgTYvI6HDMGki5K29ynHCbVIdi5G4aEPkQL5HXe95Ok9UTGFcRmc/weZkV8A0DZ8kDDhGEHUIpiB0PsJv/6Y8j3Cz7yWtXWKgmgZ3hEJCHcL112mmfpvYGq+8s4pBCA=;Xbpfw42QmS6VbvoFPBXZpw=="
 ---

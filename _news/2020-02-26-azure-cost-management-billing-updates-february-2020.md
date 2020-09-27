@@ -75,20 +75,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 69
-  - title: "Azure Cost Management updates – January 2020"
-    excerpt: "Welcome to a new year, a new decade, and an exciting roadmap full of cost management updates based on your feedback. With January coming to a close, you can now schedule automated exports of your Microsoft Customer Agreement billing data, use custom RBAC roles for management groups, and more."
-    publishedDateTime: 2020-01-28T11:00:34Z
-    webUrl: "https://azure.microsoft.com/blog/azure-cost-management-updates-january-2020/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 39
-    images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/8a62399a-7122-4c8e-a669-46c5f20b3034.png"
-        width: 1383
-        height: 604
-        isCached: true
   - title: "Azure API Management update—May 2020"
     excerpt: ""
     publishedDateTime: 2020-05-07T20:00:12Z
@@ -103,15 +89,20 @@ related:
         width: 1367
         height: 678
         isCached: true
-  - title: "Azure API Management updates—June 2020"
-    excerpt: "A regular Azure API Management service update was started on June 10, 2020, and included new features, bug fixes, and changes, along with other improvements."
-    publishedDateTime: 2020-06-11T17:00:01Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-api-management-update-june-2020/"
+  - title: "Everything You Need to Know About Azure Infrastructure – April 2020 Edition"
+    excerpt: "The pandemic has put more pressure, in different ways, than usual on some of us, made some of us redundant/furloughed, stretched resources thin in Microsoft Azure, and maybe even bumped up Microsoft’s FYQ3 results up,"
+    publishedDateTime: 2020-05-01T15:50:00Z
+    webUrl: "https://www.petri.com/everything-you-need-to-know-about-azure-infrastructure-april-2020-edition"
     type: article
     provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 17
+      name: petri.com
+      domain: petri.com
+    quality: 35
+    images:
+      - url: "https://www.petri.com/wp-content/uploads/sites/3/2016/08/Microsoft-Azure-cloud-hero.png"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "cQ9Qp1sAY8FIrk2TtL8Q6RSGkqXi90tNvaip/up8XE+iZXinuH4LmEpdD7X5MY8rIa6BcZdMOi7u2L0ftrWQp3zrUeewhUDpimaagS5UGSxyeN3Hu0ZzIXwiIjqJA4UMGkr0qNKMsU7dpMSvMw/PPz7FJ74AH5GQdtpEao18Ded2BYciZ5JrJRDXBAAaLoXbMGHAL5t44M1ZkpYd3duf9ZjZqTsSoFi3Po7KO7/FShS4cX5U+TV2f+fr/8Ican9/nSkpGgSs9h3P6cS237B5IV2PQaIxYDBMO8w7Bi6I0CT7clb4OeUuCIrdoKvmEBJIFeClnmK0PDUyRWwVTiMsag==;ifRZYOvS872o9/ZVl6lbOg=="
 ---

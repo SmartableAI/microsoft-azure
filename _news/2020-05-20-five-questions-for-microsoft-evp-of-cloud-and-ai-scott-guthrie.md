@@ -8,7 +8,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/five-questions-for-microsof
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/five-questions-for-microsoft-evp-of-cloud-and-ai-scott-guthrie/"
 type: article
 quality: 82
-heat: 102
+heat: 182
 published: true
 
 provider:
@@ -30,19 +30,83 @@ images:
     title: "Five questions for Microsoft EVP of Cloud and AI Scott Guthrie"
 
 related:
-  - title: "Microsoft flexed its cloud and AI muscles at Build 2020"
-    excerpt: "The company’s investments in cloud and machine learning are starting to deliver real products. It’s a bold proposition, but one with the potential to propel Microsoft’s productivity software ahead of Google’s."
-    publishedDateTime: 2020-05-22T17:07:00Z
-    webUrl: "https://www.engadget.com/microsoft-build-2020-flex-ai-cloud-muscle-fluid-framework-healthcare-170004851.html"
+  - title: "Microsoft: Bosque is a new programming language built for AI in the cloud"
+    excerpt: "Microsoft works on a programming language that could bring it a win with hardware accelerators in Azure AI workloads."
+    publishedDateTime: 2020-05-13T12:55:00Z
+    webUrl: "https://www.zdnet.com/article/microsoft-bosque-is-a-new-programming-language-built-for-ai-in-the-cloud/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-bosque-is-a-new-programming-language-built-for-ai-in-the-cloud/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-bosque-is-a-new-programming-language-built-for-ai-in-the-cloud/"
     type: article
     provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 62
+      name: ZDNet
+      domain: zdnet.com
+    quality: 81
     images:
-      - url: "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=80&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-05%2F8e3ebec0-9ba4-11ea-87d4-3fabe0b95513&client=amp-blogside-v2&signature=be5fc0b80f6e8bad481efcad56d7969a2f70517e"
-        width: 1119
+      - url: "https://zdnet4.cbsistatic.com/hub/i/r/2019/05/20/c0a3728a-9463-417d-93bf-d74610a70832/thumbnail/1200x675/98371f48b0fedbacaa1c37916d28d557/programming-languages-why-javascript-dev-5cdd547cbd785600c4d4e0c0-1-may-20-2019-22-25-49-poster.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Microsoft and Sony to create smart camera solutions for AI-enabled image sensor"
+    excerpt: "Sony and Microsoft have joined together to create artificial intelligence-powered (AI) smart camera solutions to make it easier for enterprise customers to perform video analytics, the companies announced."
+    publishedDateTime: 2020-05-19T00:44:00Z
+    webUrl: "https://www.zdnet.com/article/microsoft-and-sony-partnership-to-create-smart-camera-solutions-with-ai-enable-image-sensor/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-and-sony-partnership-to-create-smart-camera-solutions-with-ai-enable-image-sensor/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-and-sony-partnership-to-create-smart-camera-solutions-with-ai-enable-image-sensor/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 78
+    images:
+      - url: "https://zdnet2.cbsistatic.com/hub/i/2020/05/15/d4d0aec9-a68d-4c05-93a1-1983d4569593/sony-sensor.jpg"
+        width: 360
+        height: 300
+        isCached: true
+  - title: "Sony Adds Microsoft-Powered Artificial Intelligence to IMX500 Video Camera Sensors"
+    excerpt: "Sony is making video cameras smarter. The IMX500 line of intelligent video sensors will come with embedded access to artificial intelligence (AI) tools from Microsoft (NASDAQ:MSFT"
+    publishedDateTime: 2020-05-19T16:57:00Z
+    webUrl: "https://www.fool.com/investing/2020/05/19/sony-adds-microsoft-powered-artificial-intelligenc.aspx"
+    ampWebUrl: "https://www.fool.com/amp/investing/2020/05/19/sony-adds-microsoft-powered-artificial-intelligenc.aspx"
+    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/05/19/sony-adds-microsoft-powered-artificial-intelligenc.aspx"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 76
+    images:
+      - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F575066%2Findustrial-monitor-camera.jpg&w=1200&op=resize"
+        width: 1200
+        height: 925
+        isCached: true
+  - title: "Microsoft, Google and WIMI’s Deep Learning Accelerates the Development of AI"
+    excerpt: "Over the past decade, machine learning, particularly deep learning methods based on artificial neural networks,"
+    publishedDateTime: 2020-05-13T20:59:00Z
+    webUrl: "https://www.marketwatch.com/press-release/microsoft-google-and-wimis-deep-learning-accelerates-the-development-of-ai-2020-05-13"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 59
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
         height: 630
+        isCached: true
+  - title: "Cisco fortifies ACI for Amazon, Microsoft integration and multicloud management"
+    excerpt: "Cisco has upgraded its core networking software to include better support for multicloud integration and management as well as tools to help telcos or hyperscalers tie together large scale data center networks."
+    publishedDateTime: 2020-05-23T01:09:00Z
+    webUrl: "https://www.networkworld.com/article/3545396/cisco-fortifies-aci-for-amazon-microsoft-integration-and-multicloud-management.html"
+    ampWebUrl: "https://www.networkworld.com/article/3545396/cisco-fortifies-aci-for-amazon-microsoft-integration-and-multicloud-management.amp.html"
+    cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3545396/cisco-fortifies-aci-for-amazon-microsoft-integration-and-multicloud-management.amp.html"
+    type: article
+    provider:
+      name: Network World
+      domain: networkworld.com
+    quality: 38
+    images:
+      - url: "https://images.techhive.com/images/article/2014/12/abstract_rack_of_servers-100538194-large.jpg"
+        width: 1200
+        height: 797
         isCached: true
 
 secured: "UVHDEXdih3hheEqwp1pvhAXsStkpXAYmBrfB14EaC8F3v10m1b/MCQHU4wn1VI2SR89ge3XlKox0ntllxVKK5tjklAaCWc5rPFssiRNxijys4O1oXrlcQsOIzcY9dvkbVlwmqR0Wfjwj9ueNzbLm80VJ0gWMpAppgpx3Z850gnfU7HLPber6sD6B8UCqYwDHbtCEN1pcBdJ+ur2xUKmPzpB+cUCu5LwW+R/P7CeJsqOKfk8pPyDci+w1hbLq6r3S54bwdODBMGnh80JNN4cwu3GCKApOTZWfT/j+NTMkyAKXoIEglIkQ3RmQL9z1R4wj9fSnXbPNov1eN980+ohwYuljXD23NaEssiGTe1XDZEPLSKvsJzPbgKWZm6N2oC8VUyX/gGI3xKReq7SbkgEg7EV/zan2y7sCi8vUbISi6bRWF/afqLRzEIAtoOSmpRzG8tVbFFN0OqUqRzLFwKqcV5UsQPbubSeGBNWqQ0qx+NI=;tmvFc8Cfudb5HhdLjdRBeg=="

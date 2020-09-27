@@ -40,15 +40,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
-  - title: "Update your Traffic Analytics queries by 31 August 2022 "
-    excerpt: "Update Traffic Analytics log schema to use new fields in queries "
-    publishedDateTime: 2020-08-27T16:00:14Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/update-your-traffic-analytics-queries-by-31-august-2022/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 52
 
 secured: "JdQ6piZLDrZSgw9LpufA0id9f3R5WN7Wl/tTvVa7FC7M55Ok7tJCKv9Xx+qnHzT7hdScNR8jLQ9rOaGHYf3b09ElvOIeQwAsLXklowGtrI4TeF01cm/OpRiPFesBzBJUtk1VfNeG1IyUPejhp0DuWDjFQmmDeUhbE7j4InpxRxWXGuDbKUbFWwP4iH/5elPlzhsXfZ09u03yIlg3zWZ/ptEvAe6a9yFfYN8UnRWtohCysS6QR53gOjuYktcJlmtJWtkFhdlIX9I4rIUHMrr7Chu7ZlQk3dJxStZx8N8QfCmpm0duvj75pBonf/JXtej1TmaCKFsrwlq7f/FnQ13OBzC4b+hzJXZ+d/29JBkf8kM=;+ND6byCNZOt9so8HkDiStw=="
 ---

@@ -25,31 +25,43 @@ images:
     isCached: true
 
 related:
-  - title: "Barracuda's global SD-WAN service built natively on Azure gains traction with customers and partners"
-    excerpt: "\"As we move our workloads to Microsoft Azure, we need to efficiently connect our sites to the cloud and optimize secure access to SaaS applications,\" said Kaleb Mercer, Director of IT at Rödl ..."
-    publishedDateTime: 2020-09-22T13:21:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/barracuda-s-global-sd-wan-service-built-natively-on-azure-gains-traction-with-customers-and-partners-1029611183"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/barracuda-s-global-sd-wan-service-built-natively-on-azure-gains-traction-with-customers-and-partners-1029611183"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/barracuda-s-global-sd-wan-service-built-natively-on-azure-gains-traction-with-customers-and-partners-1029611183"
+  - title: "Running SD-WAN virtual appliances natively in Azure Virtual WAN"
+    excerpt: "Today we’re announcing the preview of the new ability to deploy and run third-party Network Virtual Appliances such as SD-WAN natively within the Azure Virtual WAN hubs."
+    publishedDateTime: 2020-07-16T10:00:40Z
+    webUrl: "https://azure.microsoft.com/blog/running-sdwan-virtual-appliances-natively-in-azure-virtual-wan/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 62
+      name: Microsoft
+      domain: microsoft.com
+    quality: 89
+    images:
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/861ec5e7-1837-4e5f-b7ba-8721cc802554.png"
+        width: 911
+        height: 513
+        isCached: true
   - title: "Barracuda introduces first global secure SD-WAN service built natively on Microsoft Azure"
-    excerpt: "With the new Barracuda CloudGen WAN, Singapore customers can deploy the Microsoft Global Network as their secure enterprise WAN backbone. Barracuda, a trusted partner and a leading provider of cloud-enabled security solutions, today announced a new secure ..."
-    publishedDateTime: 2020-07-30T04:55:00Z
-    webUrl: "https://www.cmo.com.au/mediareleases/134723/barracuda-introduces-first-global-secure-sd-wan/"
+    excerpt: "New Barracuda CloudGen WAN is the first secure global SD-WAN service built natively on Microsoft Azure. The new service is deployed directly from Azure, works out of the box with smart default ..."
+    publishedDateTime: 2020-07-16T17:08:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/barracuda-introduces-first-global-secure-sd-wan-service-built-natively-on-microsoft-azure-301094835.html"
     type: article
     provider:
-      name: cmo.com.au
-      domain: cmo.com.au
+      name: PR Newswire
+      domain: prnewswire.com
     quality: 28
     images:
-      - url: "https://demo.idg.com.au/cmo/cmo50/2020/cmo50_promo.jpg"
-        width: 620
-        height: 254
+      - url: "https://mma.prnewswire.com/media/324434/barracuda_networks__inc__logo.jpg?p=facebook"
+        width: 2696
+        height: 1414
         isCached: true
+  - title: "Now install network virtual appliances directly into an Azure Virtual WAN hub"
+    excerpt: "Several new capabilities for Azure Virtual WAN are now in preview—including the option to install network virtual appliances directly into a virtual WAN hub as an option for SD-WAN connectivity. "
+    publishedDateTime: 2020-07-21T16:02:05Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/now-install-network-virtual-appliances-directly-into-an-azure-virtual-wan-hub/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 14
 
 secured: "T4XxoXuOfQYMLLtN0seix5s/cWfx+Xo4FqYokSm6woVEqhHU9hqE5nGTdB2Zve6mNH/LvWmJ18oV3QBS9+IDzhSGUxpXSy1y4D+/aL2y9WWHeBVWu9HIJK4HsSqNklluzUd6oRhVn4r0cUIu3TVWikuacqU0JHoK+IPOgs88134U5jD03hbozfAdSPpTgHtT44zMqQ94KTpqAC4RM5wnS7w31XoVdxFy/vsOrVuX4uhTMR83VUYijNyKa2AG4EsmNiqbgwXdh7l+U0b4EZE9M9roqDYLxEmSqbw9jaLn5c8dcp/vn1p+j893QepihO/6EACasr9Tt3D8iYE5bzWSJw==;Z3DUhVgHSRLGnfjaonorTg=="
 ---

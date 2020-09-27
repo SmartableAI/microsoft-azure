@@ -6,8 +6,8 @@ publishedDateTime: 2020-04-08T10:00:00Z
 originalUrl: "https://azure.microsoft.com/blog/using-azure-monitor-source-map-support-to-debug-javascript-errors/"
 webUrl: "https://azure.microsoft.com/blog/using-azure-monitor-source-map-support-to-debug-javascript-errors/"
 type: article
-quality: 89
-heat: 89
+quality: 106
+heat: 106
 published: true
 
 provider:
@@ -21,6 +21,7 @@ provider:
 topics:
   - Azure
   - Management tools
+  - DevOps
 
 images:
   - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/afb741b8-1eff-4f60-b6fa-c280efd22d1a.gif"

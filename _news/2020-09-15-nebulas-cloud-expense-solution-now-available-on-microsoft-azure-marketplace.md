@@ -26,86 +26,157 @@ images:
     isCached: true
 
 related:
-  - title: "AmploFly4.0 Now Available on Microsoft Appsource and Azure Marketplace"
-    excerpt: "Amplo Global Inc announced today that its AI-powered platform is now available on the Microsoft AppSource and Microsoft Azure Marketplace – their online stores providing applications and services for use on Azure."
-    publishedDateTime: 2020-08-24T07:06:00Z
-    webUrl: "https://www.marketwatch.com/press-release/amplofly40-now-available-on-microsoft-appsource-and-azure-marketplace-2020-08-21"
+  - title: "Microsoft and bp partner up on Azure, advancing sustainability"
+    excerpt: "The collaboration will be focusing on developing innovative tech solutions that help the companies meet their sustainability goals. bp will also be utilizing Microsoft's Azure services."
+    publishedDateTime: 2020-09-15T18:00:00Z
+    webUrl: "https://www.neowin.net/news/microsoft-and-bp-partner-up-on-azure-advancing-sustainability"
+    ampWebUrl: "https://www.neowin.net/amp/microsoft-and-bp-partner-up-on-azure-advancing-sustainability/"
+    cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-and-bp-partner-up-on-azure-advancing-sustainability/"
+    type: article
+    provider:
+      name: Neowin
+      domain: neowin.net
+    quality: 97
+    images:
+      - url: "https://cdn.neow.in/news/images/uploaded/2020/07/1595019630_microsoft_logo_red_story.jpg"
+        width: 760
+        height: 428
+        isCached: true
+  - title: "Nutanix Announces Partnership with Microsoft Azure for a Seamless Hybrid Experience"
+    excerpt: "“We are excited about what the partnership between Nutanix and Microsoft will bring, with Nutanix Clusters for Azure and beyond. I envision this hybrid cloud solution will accelerate our teams ..."
+    publishedDateTime: 2020-09-09T09:06:00Z
+    webUrl: "https://www.marketwatch.com/press-release/nutanix-announces-partnership-with-microsoft-azure-for-a-seamless-hybrid-experience-2020-09-08"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 77
+    quality: 71
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Commvault's Metallic SaaS Data Protection Now Available in the Microsoft Azure Marketplace"
-    excerpt: "PRNewswire/ -- Commvault (NASDAQ: CVLT), a recognized global enterprise software leader in the management of data across cloud and on-premises environments, has announced the availability of Metallic's Software-as-a-Service (SaaS) data protection portfolio in the Microsoft Azure Marketplace,"
-    publishedDateTime: 2020-08-22T09:05:00Z
-    webUrl: "https://www.marketwatch.com/press-release/commvaults-metallic-saas-data-protection-now-available-in-the-microsoft-azure-marketplace-2020-08-12"
+  - title: "Microsoft’s newest sustainable datacenter region coming to Arizona in 2021"
+    excerpt: "On our journey to become Carbon negative by 2030, Microsoft is continually innovating and advancing the efficiency and sustainability of our cloud infrastructure, with a commitment to use 100 percent renewable energy in all of our datacenters and facilities by 2025."
+    publishedDateTime: 2020-09-21T08:00:03Z
+    webUrl: "https://azure.microsoft.com/blog/microsoft-s-newest-sustainable-datacenter-region-coming-to-arizona-in-2021/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 67
+      name: Microsoft
+      domain: microsoft.com
+    quality: 70
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/f3db9223-8822-4d87-bf2b-0d47246c4d7e.png"
+        width: 650
+        height: 430
         isCached: true
-  - title: "Mimecast(R) Email Security for Azure Sentinel is now available in the Microsoft Azure Marketplace"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. LEXINGTON, Mass., Aug 17, 2020 (GLOBE NEWSWIRE via COMTEX) -- LEXINGTON, Mass., Aug. 17, 2020 (GLOBE NEWSWIRE ..."
-    publishedDateTime: 2020-08-17T09:33:00Z
-    webUrl: "https://www.marketwatch.com/press-release/mimecastr-email-security-for-azure-sentinel-is-now-available-in-the-microsoft-azure-marketplace-2020-08-17-51843038"
+  - title: "Nutanix joins Microsoft Azure for seamless Hybrid Cloud experience"
+    excerpt: "Microsoft and Nutanix will offer customers seamless sales and support experiences. Microsoft Azure customers will be able to use their existing Azure credits, as part of Microsoft Azure ..."
+    publishedDateTime: 2020-09-08T17:52:00Z
+    webUrl: "https://www.sify.com/finance/nutanix-joins-microsoft-azure-for-seamless-hybrid-cloud-experience-news-topnews-ujirOCgacfiei.html"
+    ampWebUrl: "https://www.sify.com/finance/nutanix-joins-microsoft-azure-for-seamless-hybrid-cloud-experience-news-topnews-ujirOCgacfiei.html"
+    cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/finance/nutanix-joins-microsoft-azure-for-seamless-hybrid-cloud-experience-news-topnews-ujirOCgacfiei.html"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 64
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Adverity Now Available in the Microsoft Azure Marketplace"
-    excerpt: "Adverity is a leading force in intelligent marketing analytics and business-ready data. Marketing data is a critical asset in helping businesses pivot, adapt and grow, but data complexity is hampering success due to the lack of understanding and ability to incorporate meaningful insights into positive outcomes."
-    publishedDateTime: 2020-07-01T15:37:00Z
-    webUrl: "https://www.exchangewire.com/blog/2020/07/01/adverity-now-available-in-the-microsoft-azure-marketplace/"
-    ampWebUrl: "https://www.exchangewire.com/blog/2020/07/01/adverity-now-available-in-the-microsoft-azure-marketplace/?amp"
-    cdnAmpWebUrl: "https://www-exchangewire-com.cdn.ampproject.org/c/s/www.exchangewire.com/blog/2020/07/01/adverity-now-available-in-the-microsoft-azure-marketplace/?amp"
-    type: article
-    provider:
-      name: exchangewire.com
-      domain: exchangewire.com
+      name: Sify.com
+      domain: sify.com
     quality: 57
     images:
-      - url: "https://www.exchangewire.com/wp-content/uploads/2019/12/adverity-logo.jpg"
-        width: 400
-        height: 400
+      - url: "https://www.sify.com/uploads/nutanix_ujikoBjihaieg.jpeg"
+        width: 800
+        height: 420
         isCached: true
-  - title: "CyberArk Now Available on the Microsoft Azure Marketplace"
-    excerpt: "Microsoft Azure customers worldwide now gain access to the CyberArk Privileged Access Security Solution to take advantage of the scalability, reliability, and agility of Microsoft Azure to drive application development and shape business strategies The ..."
-    publishedDateTime: 2020-09-22T13:55:00Z
-    webUrl: "https://www.nasdaq.com/press-release/cyberark-now-available-on-the-microsoft-azure-marketplace-2020-09-22"
+  - title: "Nutanix .NEXT 2020: HCI Clusters Are Now Available on Microsoft Azure"
+    excerpt: "What if you could have all of Nutanix running inside Azure?” said Nutanix CEO Dheeraj Pandey, announcing the news during his keynote address at the Global .NEXT Digital Experience, which runs through Sept."
+    publishedDateTime: 2020-09-08T21:39:00Z
+    webUrl: "https://biztechmagazine.com/article/2020/09/nutanix-next-2020-hci-clusters-are-now-available-microsoft-azure"
+    ampWebUrl: "https://biztechmagazine.com/article/2020/09/nutanix-next-2020-hci-clusters-are-now-available-microsoft-azure?amp"
+    cdnAmpWebUrl: "https://biztechmagazine-com.cdn.ampproject.org/c/s/biztechmagazine.com/article/2020/09/nutanix-next-2020-hci-clusters-are-now-available-microsoft-azure?amp"
+    type: article
+    provider:
+      name: BizTech
+      domain: biztechmagazine.com
+    quality: 57
+    images:
+      - url: "https://biztechmagazine.com/sites/biztechmagazine.com/files/styles/cdw_hero/public/articles/202009/Nutanix-Keynote.jpg?itok=e9WjDTpM"
+        width: 1440
+        height: 500
+        isCached: true
+  - title: "Why Jim Cramer Is a 'Huge Believer' In Microsoft's Azure Cloud"
+    excerpt: "Jim Cramer weighs in on the JEDI contract and Microsoft's victory."
+    publishedDateTime: 2020-09-08T19:32:00Z
+    webUrl: "https://www.thestreet.com/streetlightning/stock-picks/why-jim-cramer-huge-believer-microsoft-azure"
+    ampWebUrl: "https://www.thestreet.com/.amp-streetlightning/streetlightning/stock-picks/why-jim-cramer-huge-believer-microsoft-azure"
+    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp-streetlightning/streetlightning/stock-picks/why-jim-cramer-huge-believer-microsoft-azure"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 57
+    images:
+      - url: "https://content.jwplatform.com/thumbs/l56qlRDC-720.jpg"
+        width: 720
+        height: 406
+        isCached: true
+  - title: "Cisco extends Meraki SD-WAN to Microsoft Azure"
+    excerpt: "Cisco and Microsoft have teamed up on another joint effort, this time to make it easier for enterprise branch offices with Cisco Meraki SD-WAN gear to tap into the Azure Virtual WAN service."
+    publishedDateTime: 2020-09-10T20:08:00Z
+    webUrl: "https://www.networkworld.com/article/3574711/cisco-extends-meraki-sd-wan-to-microsoft-azure.html"
+    ampWebUrl: "https://www.networkworld.com/article/3574711/cisco-extends-meraki-sd-wan-to-microsoft-azure.amp.html"
+    cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3574711/cisco-extends-meraki-sd-wan-to-microsoft-azure.amp.html"
+    type: article
+    provider:
+      name: Network World
+      domain: networkworld.com
+    quality: 57
+    images:
+      - url: "https://images.idgesg.net/images/article/2020/08/virtual_connections_social_networking_remote_teams_by_igor_kutyaev_gettyimages-1209893950_2400x1600-100854043-large.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Experian’s CrossCore® Is Now Available on Microsoft Azure Active Directory"
+    excerpt: "Customers using Experian’ s digital identity and fraud risk platform, CrossCore ®, can now seamlessly connect with Microsoft Azure Active Directory External Identities. “Businesses need to be able to provide varying levels of authentication based on the level of risk,"
+    publishedDateTime: 2020-09-13T04:16:00Z
+    webUrl: "https://www.nasdaq.com/press-release/experians-crosscorer-is-now-available-on-microsoft-azure-active-directory-2020-09-08"
     type: article
     provider:
       name: Nasdaq
       domain: nasdaq.com
-    quality: 57
-  - title: "Nozomi Networks OT and IoT Security Solutions Now Available in the Microsoft Azure Marketplace"
-    excerpt: "Sajan Parihar, Senior Director, Microsoft Azure Platform at Microsoft Corp said, “We’re pleased to welcome Nozomi Networks to the Microsoft Azure Marketplace, which gives our partners great ..."
-    publishedDateTime: 2020-08-25T12:07:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/nozomi-networks-ot-and-iot-security-solutions-now-available-in-the-microsoft-azure-marketplace-1029531104"
+    quality: 55
+  - title: "Nutanix Announces Microsoft Azure Partnership To Drive Seamless Hybrid Cloud Experience"
+    excerpt: "Nutanix has announced a new partnership with Microsoft that will enable both companies to deliver a hybrid solution with seamless application, data, and license mobility as well as unified management across on-premises and Azure environments,"
+    publishedDateTime: 2020-09-09T01:46:00Z
+    webUrl: "https://www.scoop.co.nz/stories/BU2009/S00178/nutanix-announces-microsoft-azure-partnership-to-drive-seamless-hybrid-cloud-experience.htm"
+    ampWebUrl: "https://m.scoop.co.nz/stories/BU2009/S00178/nutanix-announces-microsoft-azure-partnership-to-drive-seamless-hybrid-cloud-experience.htm"
+    cdnAmpWebUrl: "https://m-scoop-co-nz.cdn.ampproject.org/c/s/m.scoop.co.nz/stories/BU2009/S00178/nutanix-announces-microsoft-azure-partnership-to-drive-seamless-hybrid-cloud-experience.htm"
+    type: article
+    provider:
+      name: Scoop
+      domain: scoop.co.nz
+    quality: 49
+    images:
+      - url: "https://m.scoop.co.nz/stories/images/1512/smcnz.png"
+        width: 268
+        height: 250
+        isCached: true
+  - title: "Google Cloud just nabbed another former bank exec as it looks to compete with AWS and Microsoft Azure for Wall Street customers"
+    excerpt: "Derek White joins Google Cloud as vice president of global financial services after having served as chief digital officer at US Bank."
+    publishedDateTime: 2020-09-10T13:03:00Z
+    webUrl: "https://www.businessinsider.com/google-cloud-hires-former-us-bank-chief-digital-officer-2020-9"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 45
-  - title: "eBaoCloud InsureMO is Now Available in the Microsoft Azure Marketplace"
-    excerpt: "SHANGHAI, May 20, 2020 /PRNewswire/ -- eBaoTech Corporation today announced the availability of eBaoCloud ® InsureMO ® in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure. eBaoTech's customers can now take advantage of the productive and trusted Azure cloud platform, with streamlined ..."
-    publishedDateTime: 2020-05-20T15:30:00Z
-    webUrl: "https://www.prnewswire.com/in/news-releases/ebaocloud-insuremo-is-now-available-in-the-microsoft-azure-marketplace-800602677.html"
+    quality: 49
+    images:
+      - url: "https://i.insider.com/5f581847e6ff30001d4e7a42?width=600&format=jpeg&auto=webp"
+        width: 600
+        height: 450
+        isCached: true
+  - title: "Tamr Data Mastering Platform Now Available on Microsoft Azure"
+    excerpt: "PRNewswire/ -- Tamr, Inc., the provider of cloud-native data mastering solutions, today announced its cloud-native capabilities on Microsoft Azure."
+    publishedDateTime: 2020-09-09T14:17:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/tamr-data-mastering-platform-now-available-on-microsoft-azure-301126571.html"
     type: article
     provider:
       name: PR Newswire
@@ -116,340 +187,170 @@ related:
         width: 600
         height: 315
         isCached: true
-  - title: "Healthper USA, Inc. Now Available in the Microsoft Azure Marketplace"
-    excerpt: "Microsoft Azure customers worldwide now gain access to Healthper to take advantage of the scalability, reliability, and agility of Azure to drive well-being."
-    publishedDateTime: 2020-05-20T16:53:00Z
-    webUrl: "https://www.pr.com/press-release/813120"
+  - title: "Clean Energy Regulator to power up AI tools after Microsoft Azure shift"
+    excerpt: "The Clean Energy Regulator is preparing to use its new Microsoft Azure environment to trial a series of artificial intelligence tools aimed at automating emissions reduction compliance. The agency, which is tasked with monitoring and reducing emissions through initiatives like the renewable energy target,"
+    publishedDateTime: 2020-09-10T02:23:00Z
+    webUrl: "https://www.itnews.com.au/news/clean-energy-regulator-to-power-up-ai-tools-after-microsoft-azure-shift-553060"
     type: article
     provider:
-      name: PR
-      domain: pr.com
+      name: IT News For Australia Business
+      domain: itnews.com.au
     quality: 37
     images:
-      - url: "https://img.pr.com/release/2005/470793/pressrelease_original_470793_1589990219.png"
-        width: 1280
-        height: 720
+      - url: "https://i.nextmedia.com.au/News/wind_turbine_solar_cell_renewable_energy.jpg"
+        width: 1254
+        height: 836
         isCached: true
-  - title: "KlariVis Now Available in the Microsoft Azure Marketplace"
-    excerpt: "KlariVis customers can now take advantage of the productive and trusted Microsoft Azure cloud platform with streamlined deployment and management."
-    publishedDateTime: 2020-06-09T12:09:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200609005152/en/KlariVis-Microsoft-Azure-Marketplace"
+  - title: "FastTrack has Announced its Migration to Microsoft Azure"
+    excerpt: "FastTrack has Announced its Migration to Microsoft Azure By CIOReview - FastTrack has announced its completion of migration to a cloud-computing platform to manage the numerous coding"
+    publishedDateTime: 2020-09-10T12:34:00Z
+    webUrl: "https://www.cioreview.com/news/fasttrack-has-announced-its-migration-to-microsoft-azure-nid-31927-cid-23.html"
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
+      name: CIOReview
+      domain: cioreview.com
     quality: 37
     images:
-      - url: "https://mms.businesswire.com/media/20200609005152/en/796737/23/klarivislogo-black-registered.jpg"
+      - url: "https://www.cioreview.com/news_new/sliderimage/xamab.350.jpg"
+        width: 300
+        height: 350
+        isCached: true
+  - title: "Cooling loss causes outage at Microsoft Azure's UK South region"
+    excerpt: "On Monday, September 14, a Microsoft Azure data center experienced an extended outage due to a cooling incident. The UK South facility was brought offline when multiple chilled water pumps shut down for reasons unknown,"
+    publishedDateTime: 2020-09-15T14:14:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/cooling-loss-causes-outage-microsoft-azures-uk-south-region/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 37
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/Microsoft_Cloud.2e16d0ba.fill-1200x630.jpg"
         width: 1200
-        height: 627
+        height: 630
         isCached: true
-  - title: "MinerEye DataTracker™, Now Available in the Microsoft Azure Marketplace"
-    excerpt: "MinerEye, a leading data protector company, today announced the availability of its innovative DataTracker™ via the Microsoft Azure"
-    publishedDateTime: 2020-06-24T13:05:00Z
-    webUrl: "https://www.prnewswire.com/il/news-releases/minereye-datatracker-now-available-in-the-microsoft-azure-marketplace-301082797.html"
+  - title: "The Gorilla Guide to…Express Edition: IT Resilience with Microsoft Azure"
+    excerpt: "Facing challenges of navigating disparate technologies or outdated backup? It’s time for IT Resilience in the cloud with Zerto and Microsoft Azure. With powerful continuous data protection, super simple application mobility and cloud agility capabilities ..."
+    publishedDateTime: 2020-09-14T21:21:00Z
+    webUrl: "https://mcpmag.com/whitepapers/2020/09/zerto-the-gorilla-guide-to-express-edition-it-resilience-with-microsoft-azure.aspx?tc=page0"
+    type: article
+    provider:
+      name: MCPmag
+      domain: mcpmag.com
+    quality: 36
+    images:
+      - url: "https://mcpmag.com/~/media/ECG/mcpmag/MCPlogo.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Mindtree Recognized as an Expert Managed Service Provider for Microsoft Azure"
+    excerpt: "Mindtree, a leading digital transformation and technology services company, has been recognized as a Microsoft Azure Expert Managed"
+    publishedDateTime: 2020-09-10T14:02:00Z
+    webUrl: "https://www.prnewswire.com/ae/news-releases/mindtree-recognized-as-an-expert-managed-service-provider-for-microsoft-azure-301127238.html"
     type: article
     provider:
       name: PR Newswire
       domain: prnewswire.com
-    quality: 37
+    quality: 34
     images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
-        isCached: true
-  - title: "Nasuni Now Available in the Microsoft Azure Marketplace"
-    excerpt: "Nasuni®, a leading provider of cloud file services, today announced the Nasuni file services platform is available for purchase in"
-    publishedDateTime: 2020-07-01T13:03:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/nasuni-now-available-in-the-microsoft-azure-marketplace-301086812.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 37
-    images:
-      - url: "https://mma.prnewswire.com/media/391402/Nasuni_Logo.jpg?p=facebook"
-        width: 1497
+      - url: "https://mma.prnewswire.com/media/1004066/Mindtree_Logo.jpg?p=facebook"
+        width: 1496
         height: 785
         isCached: true
-  - title: "amplofly4.0 Now Available on Microsoft Appsource and Azure Marketplace"
-    excerpt: "Amplo Global Inc announced today that its AI-powered platform is now available on the Microsoft AppSource and  Microsoft Azure Marketplace – their online stores providing applications and services for use on Azure."
-    publishedDateTime: 2020-08-18T17:00:00Z
-    webUrl: "https://apnews.com/c6dc3fe157382b0b0e9f44cf7627faa7"
+  - title: "3Cloud, Microsoft Azure cloud computing firm, acquires Pragmatic Works Consulting"
+    excerpt: "The deal expands 3Cloud's data and analytics capabilities and geographic reach, forming the largest Azure pure-play services firm in the United States."
+    publishedDateTime: 2020-09-10T19:48:00Z
+    webUrl: "https://www.bizjournals.com/chicago/news/2020/09/10/3cloud-azure-cloud-computing-buys-pragmatic-works.html"
+    ampWebUrl: "https://www.bizjournals.com/chicago/news/2020/09/10/3cloud-azure-cloud-computing-buys-pragmatic-works.amp.html"
+    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/chicago/news/2020/09/10/3cloud-azure-cloud-computing-buys-pragmatic-works.amp.html"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 37
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "Riversand MDM Platform Now Available in the Microsoft Azure Marketplace"
-    excerpt: "Sajan Parihar, Senior Director, Microsoft Azure Platform at Microsoft Corp said, “We’re pleased to welcome Riversand to the Microsoft Azure Marketplace, which gives our partners great exposure ..."
-    publishedDateTime: 2020-08-18T13:10:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200818005296/en/Riversand-MDM-Platform-Microsoft-Azure-Marketplace"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 37
-    images:
-      - url: "https://mms.businesswire.com/media/20200818005296/en/813376/23/riversandlogo.jpg"
-        width: 1200
-        height: 627
-        isCached: true
-  - title: "AmploFly4.0 Now Available on Microsoft Appsource and Azure Marketplace"
-    excerpt: "PRNewswire/ -- Amplo Global Inc announced today that its AI-powered platform is now available on the MicrosoftAppSource and Microsoft Azure Marketplace"
-    publishedDateTime: 2020-08-21T21:32:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/amplofly4-0-now-available-on-microsoft-appsource-and-azure-marketplace-301116528.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 37
-    images:
-      - url: "https://mma.prnewswire.com/media/1232052/AmploGlobal_Rocket.jpg?p=facebook"
-        width: 1198
-        height: 628
-        isCached: true
-  - title: "AmploFly4.0 Now Available on Microsoft Appsource and Azure Marketplace"
-    excerpt: "PRNewswire/ -- Amplo Global Inc announced today that its AI-powered platform is now available on the MicrosoftAppSource and Microsoft Azure Marketplace - their online stores"
-    publishedDateTime: 2020-08-21T21:50:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/amplofly4-0-now-available-on-microsoft-appsource-and-azure-marketplace/article_0e6a799a-8c12-50f5-9d88-c1b0d7081ff9.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 37
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/3/cb/3cbcd9fb-ef6c-5b03-a63d-3d4936dac151/5f404454416a5.image.jpg?resize=400%2C209"
-        width: 400
-        height: 209
-        isCached: true
-  - title: "Buurst Now Available in the Microsoft Azure Marketplace"
-    excerpt: "Buurst, a leading enterprise-class data performance company, today announced the availability of its flagship product, SoftNAS, in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure."
-    publishedDateTime: 2020-09-01T12:00:00Z
-    webUrl: "https://apnews.com/d02a5aa318c5402188ac79f986783f8a"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 37
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "Buurst SoftNAS is now available in the Microsoft Azure Marketplace"
-    excerpt: "Buurst announced the availability of SoftNAS in the Microsoft Azure Marketplace, with streamlined deployment and management."
-    publishedDateTime: 2020-09-01T23:48:00Z
-    webUrl: "https://www.helpnetsecurity.com/2020/09/02/buurst-microsoft-azure/"
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 32
+  - title: "Migrating and managing Oracle applications and database platforms on Microsoft Azure"
+    excerpt: "Data Intensity announced the launch of Safe-Switch, a life-cycle approach to migrating and managing Oracle applications and database platforms on Microsoft Azure. In response to the Oracle and ..."
+    publishedDateTime: 2020-09-10T23:07:00Z
+    webUrl: "https://www.helpnetsecurity.com/2020/09/11/data-intensity-safe-switch/"
     type: article
     provider:
       name: Help Net Security
       domain: helpnetsecurity.com
-    quality: 37
+    quality: 30
     images:
       - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/08/31114057/insecure-66a.jpg"
         width: 304
         height: 405
         isCached: true
-  - title: "DH2i Now Available in the Microsoft Azure Marketplace"
-    excerpt: "FORT COLLINS, Colo., Sept. 22, 2020 /PRNewswire/ -- DH2i today announced the availability of DxEnterprise for Availability Groups in the Microsoft Azure Marketplace, an online store providing applications and services for use on Microsoft Azure. DH2i ..."
-    publishedDateTime: 2020-09-22T13:19:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/dh2i-now-available-in-the-microsoft-azure-marketplace-301134323.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 37
-    images:
-      - url: "https://mma.prnewswire.com/media/324010/dh2i_logo.jpg?p=facebook"
-        width: 1400
-        height: 732
-        isCached: true
-  - title: "Call Journey Now Available in Microsoft Azure Marketplace and App Source"
-    excerpt: "Call Journey, provider of market-leading Conversation Analytics technology, announces its listing in the Microsoft Azure Marketplace and AppSource online stores for Microsoft customers providing ..."
-    publishedDateTime: 2020-08-31T23:40:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/08/p17320531/call-journey-now-available-in-microsoft-azure-marketplace-and-app-source"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/17320531"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17320531"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 36
-  - title: "BitDam Advanced Threat Protection now available on Microsoft Azure Marketplace"
-    excerpt: "BitDam announced the availability of its Advanced Threat Protection in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure. BitDam customers can now take advantage of the productive and trusted Azure cloud ..."
-    publishedDateTime: 2020-07-22T23:20:00Z
-    webUrl: "https://www.helpnetsecurity.com/2020/07/23/bitdam-microsoft-azure/"
-    type: article
-    provider:
-      name: Help Net Security
-      domain: helpnetsecurity.com
-    quality: 33
-    images:
-      - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/06/15084653/insecure-66.jpg"
-        width: 304
-        height: 430
-        isCached: true
-  - title: "Greater Than Make Enerfy Loyalty Now Available in the Microsoft Azure Marketplace"
-    excerpt: "Greater Than, today announced the availability of the cloud-based loyalty program Enerfy Loyalty in the Microsoft Azure Marketplace,"
-    publishedDateTime: 2020-06-11T10:01:00Z
-    webUrl: "https://www.prnewswire.co.uk/news-releases/greater-than-make-enerfy-loyalty-now-available-in-the-microsoft-azure-marketplace-888514598.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.co.uk
-    quality: 32
-    images:
-      - url: "https://www.prnewswire.co.uk/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
-        isCached: true
-  - title: "BitDam's Advanced Threat Protection Now Available in Microsoft Azure Marketplace"
-    excerpt: "BitDam's Advanced Threat Protection Now Available in Microsoft Azure Marketplace  - BitDam has announced the accessibility of its Advanced Threat Protection in the Microsoft Azure Marketplace. FREMONT,"
-    publishedDateTime: 2020-07-27T14:48:00Z
-    webUrl: "https://www.cioreview.com/news/bitdams-advanced-threat-protection-now-available-in-microsoft-azure-marketplace-nid-31683-cid-145.html"
-    type: article
-    provider:
-      name: CIOReview
-      domain: cioreview.com
-    quality: 32
-    images:
-      - url: "https://www.cioreview.com/news_new/sliderimage/2g2rf.mag.jpg"
-        width: 300
-        height: 350
-        isCached: true
-  - title: "Nebula’s cloud expense solution now available on the Microsoft Azure Marketplace"
-    excerpt: "OneView Cloud Expense Management, the latest module available in Nebula’s OneView Technology Expense Management platform, has launched in the Microsoft Azure Marketplace. Given the incredible growth of cloud-based SaaS solutions and the rise of self-service B2B Marketplaces – we wrote more about the trend here – this is a no-brainer as the geo-expansion approach for Microsoft ISVs,"
-    publishedDateTime: 2020-09-21T08:46:00Z
-    webUrl: "https://mybroadband.co.za/news/industrynews/368293-nebulas-cloud-expense-solution-now-available-on-the-microsoft-azure-marketplace.html"
-    ampWebUrl: "https://mybroadband.co.za/news/industrynews/368293-nebulas-cloud-expense-solution-now-available-on-the-microsoft-azure-marketplace.html/amp"
-    cdnAmpWebUrl: "https://mybroadband-co-za.cdn.ampproject.org/c/s/mybroadband.co.za/news/industrynews/368293-nebulas-cloud-expense-solution-now-available-on-the-microsoft-azure-marketplace.html/amp"
-    type: article
-    provider:
-      name: MyBroadband
-      domain: mybroadband.co.za
-    quality: 32
-  - title: "Tangent Works' Predictive Analytics Now Available in the Microsoft Azure Marketplace"
-    excerpt: "RANDOLPH, N.J. and BRUSSELS, July 24, 2020 /PRNewswire/ -- Tangent Works today announced the availability of TIM in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure. Tangent Works customers can now take ..."
-    publishedDateTime: 2020-07-24T23:16:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/tangent-works-predictive-analytics-now-available-in-the-microsoft-azure-marketplace/article_b03fb881-eb63-5744-99a6-90d2c9aa5c01.html"
+  - title: "Platform.sh announces expansion of services to Microsoft Azure West US 2 Datacenter Region"
+    excerpt: "PRNewswire/ -- Platform.sh, an end-to-end web platform for agile teams, is pleased to announce the expansion of its services to the West US 2 datacenter"
+    publishedDateTime: 2020-09-08T16:00:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/platform-sh-announces-expansion-of-services-to-microsoft-azure-west-us-2-datacenter-region/article_1d4f0d8f-1984-5ce1-b24e-3380c68de1b7.html"
     type: article
     provider:
       name: WFMZ-TV
       domain: wfmz.com
-    quality: 30
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/c/2f/c2fefe6c-c0e5-527b-ba10-0c9af861210a/5f1ae2bbc1ad0.image.jpg?resize=400%2C300"
-        width: 400
-        height: 300
-        isCached: true
-  - title: "Amplo Global Inc: amplofly4.0 Now Available on Microsoft Appsource and Azure Marketplace"
-    excerpt: "PISCATAWAY, NJ / ACCESSWIRE / August 18, 2020 / ???Amplo Global Inc announced today that its AI-powered platform is now available on the MicrosoftAppSource and Microsoft Azure Marketplace - their online stores providing applications and services for use on ..."
-    publishedDateTime: 2020-08-18T17:12:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2020-08/50478942-amplo-global-inc-amplofly4-0-now-available-on-microsoft-appsource-and-azure-marketplace-200.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 28
-    images:
-      - url: "http://cdn.newswire.com/files/x/26/69/1756aa85fe2bddc31a756e61b382.jpg"
-        width: 320
-        height: 220
-        isCached: true
-  - title: "Mimecast Email Security for Azure Sentinel now available in the Microsoft Azure Marketplace"
-    excerpt: "Mimecast Limited, a leading email security and cyber resilience company, has announced the availability of Mimecast Email Security for Azure Sentinel in the Microsoft Azure Marketplace ..."
-    publishedDateTime: 2020-08-20T10:34:00Z
-    webUrl: "https://mybroadband.co.za/news/industrynews/364426-mimecast-email-security-for-azure-sentinel-now-available-in-the-microsoft-azure-marketplace.html"
-    ampWebUrl: "https://mybroadband.co.za/news/industrynews/364426-mimecast-email-security-for-azure-sentinel-now-available-in-the-microsoft-azure-marketplace.html/amp"
-    cdnAmpWebUrl: "https://mybroadband-co-za.cdn.ampproject.org/c/s/mybroadband.co.za/news/industrynews/364426-mimecast-email-security-for-azure-sentinel-now-available-in-the-microsoft-azure-marketplace.html/amp"
-    type: article
-    provider:
-      name: MyBroadband
-      domain: mybroadband.co.za
     quality: 27
-  - title: "Mimecast® Email Security for Azure Sentinel is now available in the Microsoft Azure Marketplace"
-    excerpt: "(GLOBE NEWSWIRE) -- Mimecast Limited (NASDAQ: MIME), a leading email security and cyber resilience company, today announced the availability of Mimecast® Email Security for Azure Sentinel in the Microsoft Azure Marketplace,"
-    publishedDateTime: 2020-08-17T09:30:00Z
-    webUrl: "https://apnews.com/4710425f0bbe81da97cd4d269601accc"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 25
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Mimecast Email Security for Azure Sentinel is now available in the Microsoft Azure Marketplace"
-    excerpt: "Dubai, United Arab Emirates - Mimecast Limited (NASDAQ: MIME), a leading email security and cyber resilience company, today announced the availability of Mimecast® Email Security for Azure Sentinel in the Microsoft Azure Marketplace, an online store ..."
-    publishedDateTime: 2020-08-19T07:14:00Z
-    webUrl: "https://www.zawya.com/uae/en/press-releases/story/Mimecast_Email_Security_for_Azure_Sentinel_is_now_available_in_the_Microsoft_Azure_Marketplace-ZAWYA20200819070435/"
-    ampWebUrl: "https://www.zawya.com/uae/en/story/amp/ZAWYA20200819070435/"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/uae/en/story/amp/ZAWYA20200819070435/"
+  - title: "Qatar Financial Centre Regulatory Authority moves to Microsoft Cloud"
+    excerpt: "As part of its cloud journey, the QFCRA will deploy its existing, as well as new critical workloads and business applications to Microsoft Azure"
+    publishedDateTime: 2020-09-14T14:14:00Z
+    webUrl: "https://gulf-times.com/story/672845/Qatar-Financial-Centre-Regulatory-Authority-moves-to-Microsoft-Cloud"
     type: article
     provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 25
-  - title: "Mimecast Email Security for Azure Sentinel is now available in the Microsoft Azure Marketplace"
-    excerpt: "Dubai, United Arab Emirates - Mimecast Limited (NASDAQ: MIME), a leading email security and cyber resilience company, today announced the availability of Mimecast® Email Security for Azure Sentinel in the Microsoft Azure Marketplace, an online store ..."
-    publishedDateTime: 2020-08-19T23:13:00Z
-    webUrl: "https://www.zawya.com/mena/en/press-releases/story/Mimecast_Email_Security_for_Azure_Sentinel_is_now_available_in_the_Microsoft_Azure_Marketplace-ZAWYA20200819070435/"
-    ampWebUrl: "https://www.zawya.com/mena/en/story/amp/ZAWYA20200819070435/"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/ZAWYA20200819070435/"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 25
-  - title: "dotData Now Supports Microsoft Azure Deployment and Is Available on Microsoft Azure Marketplace"
-    excerpt: "Sept. 22, 2020 /PRNewswire/ -- dotData, focused on delivering full-cycle data science automation and operationalization for the enterprise, today announced that dotData Enterprise is now commercially available on Microsoft Azure and accessible through the ..."
-    publishedDateTime: 2020-09-22T12:09:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/dotdata-now-supports-microsoft-azure-deployment-and-is-available-on-microsoft-azure-marketplace-301135412.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 25
+      name: Gulf Times
+      domain: gulf-times.com
+    quality: 22
     images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
+      - url: "https://img.gulf-times.com/Content/Upload/Slider/9202014171346106183686.jpg"
+        width: 620
+        height: 355
         isCached: true
-  - title: "DataVisor Now Available in the Microsoft Azure Marketplace"
-    excerpt: "DataVisor, the leading fraud detection company with solutions powered by transformational AI technology, today announced the availability of dVector a"
-    publishedDateTime: 2020-05-19T12:37:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200519005042/en/DataVisor-Microsoft-Azure-Marketplace"
+  - title: "Nutanix Partners with Microsoft Azure for a Seamless Hybrid Experience"
+    excerpt: "SAN JOSE –– Nutanix (NASDAQ: NTNX), a leader in enterprise cloud computing, today announced a new partnership with Microsoft that will enable both companies to deliver a hybrid solution with seamless application,"
+    publishedDateTime: 2020-09-08T20:39:00Z
+    webUrl: "https://insidehpc.com/2020/09/nutanix-partners-with-microsoft-azure-for-a-seamless-hybrid-experience/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 17
+  - title: "Cisco Meraki, Microsoft Azure Collaborate on Virtual Cloud WAN"
+    excerpt: "WAN powered by Meraki integrates with Microsoft Azure’s Virtual WAN service. Here are 3 potential cloud benefits for Microsoft & Cisco partners."
+    publishedDateTime: 2020-09-11T20:53:00Z
+    webUrl: "https://www.channele2e.com/news/cisco-meraki-microsoft-azure-collaborate-on-virtual-cloud-wan/"
+    type: article
+    provider:
+      name: ChannelE2E
+      domain: channele2e.com
+    quality: 17
+  - title: "Nutanix Announces Partnership with Microsoft Azure for a Seamless Hybrid Experience"
+    excerpt: "“We are excited about what the partnership between Nutanix and Microsoft will bring, with Nutanix Clusters for Azure and beyond. I envision this hybrid cloud solution will accelerate our teams ..."
+    publishedDateTime: 2020-09-08T12:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200908005321/en/"
     type: article
     provider:
       name: Business Wire
       domain: businesswire.com
-    quality: 17
-  - title: "Mimecast offers e-mail security via Microsoft Azure marketplace"
-    excerpt: "E-mail and data security company Mimecast has announced the availability of Mimecast Email Security for Azure Sentinel on the Microsoft Azure Marketplace. By logging email activity instantly and making the information available to Azure Sentinel,"
-    publishedDateTime: 2020-08-20T12:25:00Z
-    webUrl: "https://www.telecompaper.com/news/mimecast-offers-e-mail-security-via-microsoft-azure-marketplace--1350913"
+    quality: 11
+  - title: "Device Authority releases new version of IoT security platform with support for Microsoft Azure Sphere and security lifecycle management"
+    excerpt: "Device Authority, a global leader in identity and access management (IAM) for the Internet of Things (IoT), today announced the latest version of its KeyScaler platform which includes enhanced device connectivity,"
+    publishedDateTime: 2020-09-15T14:14:00Z
+    webUrl: "https://www.totaltele.com/507141/Device-Authority-releases-new-version-of-IoT-security-platform-with-support-for-Microsoft-Azure-Sphere-and-security-lifecycle-management"
     type: article
     provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 17
-  - title: "Call Journey Now Available in Microsoft Azure Marketplace and App Source"
-    excerpt: "Call Journey, provider of market-leading Conversation Analytics technology, announces its listing in the Microsoft Azure Marketplace and AppSource online stores for Microsoft customers providing applications and services tailored to specific business needs."
-    publishedDateTime: 2020-09-02T07:41:00Z
-    webUrl: "https://www.arnnet.com.au/mediareleases/135281/call-journey-now-available-in-microsoft-azure/"
-    type: article
-    provider:
-      name: ARN
-      domain: arnnet.com.au
-    quality: 16
+      name: Total Telecom
+      domain: totaltele.com
+    quality: 4
+    images:
+      - url: "https://www.totaltele.com/res/image/articleimages/5g-icon-hpe.png"
+        width: 576
+        height: 583
+        isCached: true
 
 secured: "K2tu3JBXBDp49Ao5riGtBL0/ImVTnz+D11jsfHyMjqZWqgEWULiF/fmgkF1jm42IH1kaFVHjrIhl8YpzLf9bX7RHKLSPEFl9u5fYUJuQnL9iMl4006laMKo9BLVxdNWvzeS/JhV2zaMEoW3zlsAmvoGr5sEwvJEAxCZwvAOUpdmibxPMSxZonp/St+DBIRwGO+32rR3h/31aIqs/C7rmwOCdEcX/vCCpzM6UU0zmTfjWWlVoPI2GiBKkDJu8f5V8NLGzEWE5e+G5im4rlYbAEbXrF/7LHifPObPixHn30ZV9OMSAenq0T7GcDN5ZRQobdsYc/SiPvxHMfFpOLtrLrcYQXKva5fWGSighHpnVfOByHf9QDf1RQRRAIxKWdHk9RIsL6qavFsVMANH3dzNs23urf0Fi+sqqyot/04Em1F6eYFyT4uVTUPVVr6yEakfnrzTbQ56t7fRg8f2zn35nVwHBo6ErJpB3nCuWrfWbAZLDGdYT/r2s9x1+MzCYPyMX0PmZC8bnXkoqHD59RLZkBS+YgRGtj5LbfFbfa7ICjOk=;H4EW5aIoaPFglq15DAaC/g=="
 ---

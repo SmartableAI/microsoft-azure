@@ -21,6 +21,15 @@ topics:
   - Azure
 
 related:
+  - title: "Azure Storage—Routing preferences now available for preview"
+    excerpt: ""
+    publishedDateTime: 2020-05-19T17:00:16Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/routing-preferences-azure-storage-preview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 17
   - title: "Object replication public preview for Azure Blob storage"
     excerpt: ""
     publishedDateTime: 2020-05-21T15:44:37Z
@@ -39,6 +48,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 17
+  - title: "Static Web Apps single page hosting option available in App Service now in preview"
+    excerpt: ""
+    publishedDateTime: 2020-05-19T16:05:38Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/static-web-apps-single-page-hosting-option-available-in-app-service-now-in-preview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 0
 
 secured: "AcTd4eWopWaYZaRFUUIrT3E9GXOzku76qDCke6BAI2/e4EpNs0QW4fZdHP1a3k/wbrSwiIGJhN5VndKTKgtXuzgwWwCGAFm4Zu2OtCkH+3Eaoth0CTJzkumA8FESaAle4vd7UqTvg0ZtoO8qtVIHCZg0yjiEpM3jpEDC2PN/VxR4pDvGB6qv9WaM2ZehO2l1ZaP4XfmesYg8QOr+i5s4QDrYLl/to542tbUhtOeT9NmDsdmHF8exY7WaSFyN7NvTezdu1Wv9sFUVv6lm5N9AqhGVlYsyhrLqHByQJ70HmY0Fq7KZUbjvx9/SslCrOL/2Jqq3FglquAA3SsJn5BwpGg==;FW+a0PILEJ9UYzBfqKRtEQ=="
 ---

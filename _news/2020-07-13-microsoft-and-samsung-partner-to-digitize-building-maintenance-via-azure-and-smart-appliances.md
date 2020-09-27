@@ -29,109 +29,140 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft partners with Land O’Lakes to build agriculture tech on Azure"
-    excerpt: "Microsoft’s latest cloud partnership is with Land O’Lakes, the farming giant which will use Microsoft’s Azure technologies to spur sustainable farming practices and help farmers be more efficient."
-    publishedDateTime: 2020-07-15T18:08:00Z
-    webUrl: "https://www.geekwire.com/2020/microsoft-partners-land-olakes-build-agriculture-tech-azure/"
-    ampWebUrl: "https://www.geekwire.com/2020/microsoft-partners-land-olakes-build-agriculture-tech-azure/amp/"
-    cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/microsoft-partners-land-olakes-build-agriculture-tech-azure/amp/"
+  - title: "Microsoft announces Azure-centric alliance with C.H. Robinson"
+    excerpt: "With focus lying on the digital transformation of supply chains, the partnership between Microsoft and C.H. Robinson will look toward leveraging Azure, Azure IoT, and the Navisphere platform."
+    publishedDateTime: 2020-07-14T21:44:00Z
+    webUrl: "https://www.neowin.net/news/microsoft-announces-azure-centric-alliance-with-ch-robinson"
+    ampWebUrl: "https://www.neowin.net/amp/microsoft-announces-azure-centric-alliance-with-ch-robinson/"
+    cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-announces-azure-centric-alliance-with-ch-robinson/"
     type: article
     provider:
-      name: GeekWire
-      domain: geekwire.com
+      name: Neowin
+      domain: neowin.net
     quality: 97
     images:
-      - url: "https://cdn.geekwire.com/wp-content/uploads/2020/07/1.jpeg"
-        width: 950
-        height: 632
+      - url: "https://cdn.neow.in/news/images/uploaded/2020/07/1594761150_microsoft_c.h._robinson_logo_story.jpg"
+        width: 760
+        height: 428
         isCached: true
-  - title: "Microsoft continues to build out its Azure Cognitive Services API family"
-    excerpt: "Microsoft is adding a new healthcare-focused text analytics interface to its family of AI programming interfaces, and it's making generally available Custom Commands and Form Recognizer APIs, as well."
-    publishedDateTime: 2020-07-08T15:01:00Z
-    webUrl: "https://www.zdnet.com/article/microsoft-continues-to-build-out-its-azure-cognitive-services-api-family/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-continues-to-build-out-its-azure-cognitive-services-api-family/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-continues-to-build-out-its-azure-cognitive-services-api-family/"
+  - title: "Accelerating ATO in Microsoft Azure"
+    excerpt: "While your cloud provider manages security OF the cloud, security IN the cloud is the responsibility of the customer. During this on-demand webinar, Microsoft Azure’s Chief Information Security Officer for High Security Clouds, Mr. Richard Scher ..."
+    publishedDateTime: 2020-07-09T03:51:00Z
+    webUrl: "https://www.infoworld.com/resources/205509/accelerating-ato-in-microsoft-azure"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 96
-    images:
-      - url: "https://zdnet4.cbsistatic.com/hub/i/2020/07/08/780add4e-19a4-463d-8d25-3a96f4f2afde/cognitiveservicesmicrosoft.jpg"
-        width: 781
-        height: 494
-        isCached: true
-  - title: "Microsoft and Citrix commit to moving on-premises Citrix users to Azure"
-    excerpt: "Microsoft and Citrix have been partners for more than two decades. On July 14, Microsoft provided an update on its ongoing Citrix relationship, a week ahead of Microsoft's annual Inspire worldwide partner conference."
-    publishedDateTime: 2020-07-14T16:58:00Z
-    webUrl: "https://www.zdnet.com/article/microsoft-and-citrix-commit-to-moving-on-premises-citrix-users-to-azure/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-and-citrix-commit-to-moving-on-premises-citrix-users-to-azure/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-and-citrix-commit-to-moving-on-premises-citrix-users-to-azure/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
+      name: InfoWorld
+      domain: infoworld.com
     quality: 77
-  - title: "Microsoft and Citrix Partnership Shifts to Citrix Workspace and Microsoft Azure"
-    excerpt: "Microsoft and Citrix this week outlined the current direction of their longtime collaborative partnership efforts."
-    publishedDateTime: 2020-07-15T22:11:00Z
-    webUrl: "https://redmondmag.com/articles/2020/07/15/microsoft-citrix-partnership-shifts.aspx"
+    images:
+      - url: "https://idge.staticworld.net/ifw/IFW_logo_social_300x300.png"
+        width: 300
+        height: 300
+        isCached: true
+  - title: "Microsoft (MSFT) Azure to Aid Digital Overhaul of Halliburton"
+    excerpt: "Per the deal, Microsoft’s cloud platform Azure will help Halliburton enhance its customer offerings and drive digital transformation. Markedly, Azure’s advanced cloud computing capabilities will be leveraged by Halliburton to support remote work ..."
+    publishedDateTime: 2020-07-20T17:23:00Z
+    webUrl: "https://www.nasdaq.com/articles/microsoft-msft-azure-to-aid-digital-overhaul-of-halliburton-2020-07-20"
+    ampWebUrl: "https://www.nasdaq.com/articles/microsoft-msft-azure-to-aid-digital-overhaul-of-halliburton-2020-07-20?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/microsoft-msft-azure-to-aid-digital-overhaul-of-halliburton-2020-07-20?amp"
     type: article
     provider:
-      name: Redmond Magazine
-      domain: redmondmag.com
-    quality: 33
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 77
+  - title: "Microsoft adds more APIs to its Azure Cognitive Services for developers"
+    excerpt: "Microsoft Corp. is adding more Cognitive Services application programming interfaces to its Azure cloud platform as it continues to expand its array of artificial intelligence services."
+    publishedDateTime: 2020-07-09T00:07:00Z
+    webUrl: "https://siliconangle.com/2020/07/08/microsoft-adds-apis-azure-cognitive-services-developers/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 37
     images:
-      - url: "https://redmondmag.com/-/media/ECG/VirtualizationReview/Images/introimages2014/140813VRTCloudOrchestration.jpg"
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/07/16510342158_185f09969a_k.jpg"
+        width: 2048
+        height: 1365
+        isCached: true
+  - title: "Azure and Citrix Workspace Now at Center of Microsoft-Citrix Pact"
+    excerpt: "Citrix will use Microsoft Azure as its preferred cloud services provider, while Microsoft will promote Citrix Workspace as a 'preferred digital workspace solution.'"
+    publishedDateTime: 2020-07-15T22:19:00Z
+    webUrl: "https://rcpmag.com/articles/2020/07/15/azure-citrix-workspace.aspx"
+    type: article
+    provider:
+      name: Redmond Channel Partner
+      domain: rcpmag.com
+    quality: 37
+    images:
+      - url: "https://rcpmag.com/-/media/ECG/VirtualizationReview/Images/introimages2014/GENOneRedBallConnectedToWhiteBalls.jpg"
         width: 647
         height: 450
         isCached: true
-  - title: "IFI Techsolutions Recognized as a Finalist of OSS on Azure 2020 Microsoft Partner of the Year"
-    excerpt: "IFI Techsolutions today announced it has been named a finalist of OSS on Azure 2020 Microsoft Partner of the Year Award. The company"
-    publishedDateTime: 2020-07-13T19:30:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/ifi-techsolutions-recognized-as-a-finalist-of-oss-on-azure-2020-microsoft-partner-of-the-year-301092416.html"
+  - title: "Barracuda launches secure SD-WAN service built natively on Microsoft Azure"
+    excerpt: "WAN service built natively on Microsoft Azure. The new Barracuda CloudGen WAN service is the first SD-WAN solution that runs inside Azure Virtual WAN Hubs. Hubs can be interconnected through the Microsoft Global Network."
+    publishedDateTime: 2020-07-20T02:02:00Z
+    webUrl: "https://www.helpnetsecurity.com/2020/07/20/barracuda-sd-wan-service/"
+    type: article
+    provider:
+      name: Help Net Security
+      domain: helpnetsecurity.com
+    quality: 35
+    images:
+      - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/06/15084653/insecure-66.jpg"
+        width: 304
+        height: 430
+        isCached: true
+  - title: "Alithya Launches AI-FI™ Trade Surveillance Solution Powered by Microsoft Azure"
+    excerpt: "\"By hosting AI-FI™ Trade Surveillance on Microsoft Azure, we have increased our flexibility in configuration, while decreasing implementation time and cost. The advanced security features of ..."
+    publishedDateTime: 2020-07-15T11:43:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/alithya-launches-ai-fi-trade-surveillance-solution-powered-by-microsoft-azure-301093861.html"
     type: article
     provider:
       name: PR Newswire
       domain: prnewswire.com
-    quality: 26
+    quality: 33
     images:
-      - url: "https://mma.prnewswire.com/media/1213735/IFI_Techsolutions_Finalist_Microsoft_Partner_Award.jpg?p=facebook"
-        width: 2560
-        height: 1340
+      - url: "https://mma.prnewswire.com/media/1214660/Alithya_Alithya_Launches_AI_FI__Trade_Surveillance_Solution_Powe.mp4?p=medium"
+        width: 512
+        height: 288
         isCached: true
-  - title: "IFI Techsolutions Recognized as a Finalist of OSS on Azure 2020 Microsoft Partner of the Year"
-    excerpt: "MUMBAI, July 14, 2020 /PRNewswire/ -- IFI Techsolutions today announced it has been named a finalist of OSS on Azure 2020 Microsoft Partner of the Year Award. The company was honored among a global field of top Microsoft partners for demonstrating ..."
-    publishedDateTime: 2020-07-14T04:50:00Z
-    webUrl: "https://www.prnewswire.com/in/news-releases/ifi-techsolutions-recognized-as-a-finalist-of-oss-on-azure-2020-microsoft-partner-of-the-year-830017699.html"
+  - title: "Alithya Launches AI-FI(TM) Trade Surveillance Solution Powered by Microsoft Azure"
+    excerpt: "PRNewswire/ - Alithya Group inc. (TSX: ALYA) (NASDAQ: ALYA) (« Alithya »), a leader in digital strategy and technologies employing more than 2,000 highly qualified professionals"
+    publishedDateTime: 2020-07-15T11:39:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/alithya-launches-ai-fi-tm-trade-surveillance-solution-powered-by-microsoft-azure/article_799b4fa7-7527-584a-b238-0f1c1f27756d.html"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 26
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 32
     images:
-      - url: "http://mma.prnewswire.com/media/1213735/IFI_Techsolutions_Finalist_Microsoft_Partner_Award.jpg?p=facebook"
-        width: 2560
-        height: 1340
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Microsoft price target raised on Azure growth"
-    excerpt: "Citing ongoing cloud growth, Wedbush lifts Microsoft's (NASDAQ:MSFT) price target form $220 to $260. Analyst Daniel Ives says the pandemic-related remote work trend \"is further catalyzing more ..."
-    publishedDateTime: 2020-07-09T11:35:00Z
-    webUrl: "https://seekingalpha.com/news/3589771-microsoft-price-target-raised-on-azure-growth"
+  - title: "The Microsoft Police State: Mass Surveillance, Facial Recognition, and the Azure Cloud"
+    excerpt: "Microsoft helps police surveil and patrol communities through its own offerings and a network of partnerships — while its PR efforts obscure this."
+    publishedDateTime: 2020-07-14T19:45:00Z
+    webUrl: "https://theintercept.com/2020/07/14/microsoft-police-state-mass-surveillance-facial-recognition/"
     type: article
     provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 17
-  - title: "Microsoft And Partners Bring More Hyperconverged Hybrid Cloud Options To Azure"
-    excerpt: "When it comes to cloud computing, there's little doubt that we're in a hybrid world. At the company's partner-focused Inspire event, Microsoft unveiled several new hybrid cloud-focused additions to its Azure cloud computing platform."
-    publishedDateTime: 2020-07-22T17:26:00Z
-    webUrl: "https://seekingalpha.com/article/4359924-microsoft-and-partners-bring-hyperconverged-hybrid-cloud-options-to-azure"
+      name: The Intercept
+      domain: theintercept.com
+    quality: 29
+    images:
+      - url: "https://theintercept.imgix.net/wp-uploads/sites/1/2020/07/ms-police-state-final-theintercept.jpg?auto=compress%2Cformat&q=90&fit=crop&w=1200&h=800"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Snowflake Achieves FedRAMP Moderate Authorization for Snowflake on AWS and Microsoft Azure Government"
+    excerpt: "Snowflake, the cloud data platform, today announced it has achieved Federal Risk and Authorization Management Program (FedRAMP) Moderate Authorization"
+    publishedDateTime: 2020-07-08T17:32:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200708005692/en/Snowflake-Achieves-FedRAMP-Moderate-Authorization-Snowflake-AWS"
     type: article
     provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 13
+      name: Business Wire
+      domain: businesswire.com
+    quality: 2
 
 secured: "XmYIr6BzMeolcWaCYGQMWBOmmVJ37CBROiun9ttYQURJjROju4oAwU1uMPAsUNYFewjDq+lusAfxZ9dcTK0OQfDpnGKpONPgMNeZOlILxiR0877QCvMEx5dswLUMjhqX2jh1T37Ew0pAF5R+lx2SRMhA3e9Q85D28ud9/fQdn22j1qNIUa15ptTNe69RzsF9zDjXMeUno9j+ao5GE+hsq57jypq3QnjZzISO9qiK6Xj6jchM5S79eyIsfKhw/T/huiCPxhyFhUnCqXaoJUuzmTwCQ+T00hxpPziIyMHbZyYFQj5Qy7CMlJqgaz2nR6+/uWR14hN8zVC93qw+gqlwgiHE0oHmkMijbK7L0tx+zdrR6CCywUzZXdHPieggvNJ9PPBr76B2z6beHa/mB13/2sjB6quJWW9hG8O+I0WS3x1K9KCQq5LkG8zDgrX5L1WWpAM2/UYCHEXPcjBWkLLYIQKBImfTcfsX7Hr5ZjhwJqDAcnsAd2ZGQJxUl+D7DwSdi5y3NUwGS//5lOY4SIIg4A==;/fIS5N73cbCSHrCRtaAbRg=="
 ---

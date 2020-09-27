@@ -6,8 +6,8 @@ publishedDateTime: 2020-09-22T16:05:37Z
 originalUrl: "https://azure.microsoft.com/en-us/updates/high-throughput-output-from-stream-analytics-to-azure-synapse-analytics-general-availability/"
 webUrl: "https://azure.microsoft.com/en-us/updates/high-throughput-output-from-stream-analytics-to-azure-synapse-analytics-general-availability/"
 type: article
-quality: 55
-heat: 75
+quality: 87
+heat: 127
 published: true
 
 provider:
@@ -20,8 +20,18 @@ provider:
 
 topics:
   - Azure
+  - Analytics
 
 related:
+  - title: "Azure Cognitive Services general availability updates "
+    excerpt: "General availability updates in Azure Cognitive Services Decision, Speech, and containers categories. "
+    publishedDateTime: 2020-09-22T16:05:30Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-cognitive-services-general-availability-updates/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
   - title: "High throughput output from Stream Analytics to Azure Synapse Analytics (preview)"
     excerpt: ""
     publishedDateTime: 2020-05-19T17:00:14Z

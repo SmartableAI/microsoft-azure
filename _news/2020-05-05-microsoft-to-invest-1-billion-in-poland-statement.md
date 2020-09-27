@@ -8,8 +8,8 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN22H0WP"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN22H0WP"
 type: article
 quality: 82
-heat: 502
-published: true
+heat: -1
+published: false
 
 provider:
   name: Reuters
@@ -30,304 +30,150 @@ images:
     title: "Microsoft to invest $1 billion in Poland: statement"
 
 related:
-  - title: "Microsoft to add new cloud regions in Italy, New Zealand and Poland"
-    excerpt: "In the span of a week, Microsoft announced plans to add three new datacenter regions in countries where it doesn't currently have them."
-    publishedDateTime: 2020-05-08T16:09:00Z
-    webUrl: "https://www.zdnet.com/article/microsoft-to-add-new-cloud-regions-in-italy-new-zealand-and-poland/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-to-add-new-cloud-regions-in-italy-new-zealand-and-poland/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-to-add-new-cloud-regions-in-italy-new-zealand-and-poland/"
+  - title: "Microsoft Taps Coca-Cola to Challenge Amazon, Salesforce, and Slack"
+    excerpt: "Microsoft (NASDAQ:MSFT) recently inked a five-year cloud deal with Coca-Cola (NYSE:KO), in which the beverage maker will standardize its business operations with Microsoft's Azure, Dynamics 365, and Microsoft 365 services."
+    publishedDateTime: 2020-05-05T15:23:00Z
+    webUrl: "https://www.fool.com/investing/2020/05/05/microsoft-taps-coca-cola-challenge-amazon-slack.aspx"
+    ampWebUrl: "https://www.fool.com/amp/investing/2020/05/05/microsoft-taps-coca-cola-challenge-amazon-slack.aspx"
+    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/05/05/microsoft-taps-coca-cola-challenge-amazon-slack.aspx"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
+      name: The Motley Fool
+      domain: fool.com
     quality: 82
     images:
-      - url: "https://zdnet3.cbsistatic.com/hub/i/2020/05/08/9ed511c7-e2bb-4bba-b5d3-4dd6a65c9c4b/newcloudregionsmicrosoft.jpg"
-        width: 899
-        height: 538
+      - url: "https://g.foolcdn.com/editorial/images/497755/istock_000016851885_large_large.jpg"
+        width: 580
+        height: 378
         isCached: true
-  - title: "Microsoft to invest $1.5 billion in Italian cloud business"
-    excerpt: "Microsoft Corp. said on Friday it would create its first datacentre region in Italy under a $1.5 billion investment plan as the U.S. company expands its cloud computing services to more locations across the world."
-    publishedDateTime: 2020-05-08T14:52:00Z
-    webUrl: "https://www.reuters.com/article/us-microsoft-italy-idUSKBN22K211"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN22K211"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN22K211"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 82
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20200508&t=2&i=1517951945&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG471BI"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "RPT-Microsoft to invest $1.5 bln in Italian cloud business"
-    excerpt: "Friday it would create its first datacentre region in Italy under a $1.5 billion investment plan as the U.S. company expands its cloud computing services to more locations across the world. Microsoft’s rival Amazon Web Services last week opened a datacentre region in Milan,"
-    publishedDateTime: 2020-05-11T10:14:00Z
-    webUrl: "https://www.reuters.com/article/microsoft-italy-idUSL8N2CT3B2"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL8N2CT3B2"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL8N2CT3B2"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 82
-    images:
-      - url: "https://s4.reutersmedia.net/resources_v3/images/rcom-default.png"
+      - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F571626%2Fcoca-cola-store-orlando-plate.jpg&w=1200&op=resize"
         width: 1200
-        height: 630
-        isCached: true
-  - title: "Nokia to collaborate with Microsoft in data centre software"
-    excerpt: "Finnish telecom equipment maker Nokia said on Tuesday it would collaborate with Microsoft  in the open source network operating system SONiC, which is used in the data centres of some of the largest cloud-service providers."
-    publishedDateTime: 2020-05-12T12:30:00Z
-    webUrl: "https://www.reuters.com/article/us-nokia-microsoft-datacentres-idUSKBN22O1R6"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN22O1R6"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN22O1R6"
+        height: 800
+  - title: "Microsoft reportedly teamed up with Oracle to fend off Amazon for the Pentagon’s JEDI contract"
+    excerpt: "The Information revealed Monday how Microsoft had a “secret alley” — Oracle — to help land the coveted Joint Enterprise Defense Infrastructure contract, a $10 billion Pentagon project that"
+    publishedDateTime: 2020-05-11T21:55:00Z
+    webUrl: "https://www.geekwire.com/2020/microsoft-reportedly-teamed-oracle-fend-off-amazon-pentagons-jedi-contract/"
+    ampWebUrl: "https://www.geekwire.com/2020/microsoft-reportedly-teamed-oracle-fend-off-amazon-pentagons-jedi-contract/amp/"
+    cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/microsoft-reportedly-teamed-oracle-fend-off-amazon-pentagons-jedi-contract/amp/"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 82
+      name: GeekWire
+      domain: geekwire.com
+    quality: 70
     images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20200512&t=2&i=1518332685&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG4B0YH"
-        width: 817
-        height: 545
+      - url: "https://cdn.geekwire.com/wp-content/uploads/2016/04/20160404_Envision_07-1240x828.jpg"
+        width: 1240
+        height: 828
         isCached: true
-  - title: "Microsoft to Invest $1 Billion in Polish Cloud Project"
-    excerpt: "Microsoft will invest $1 billion in Poland as part of a plan that will involve opening a data centre in the country to provide cloud services to businesses and government institutions, the company said in a statement on Tuesday."
-    publishedDateTime: 2020-05-05T12:05:00Z
-    webUrl: "https://www.usnews.com/news/technology/articles/2020-05-05/microsoft-to-invest-1-billion-in-poland-statement"
-    ampWebUrl: "https://www.usnews.com/news/technology/articles/2020-05-05/microsoft-to-invest-1-billion-in-poland-statement?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2020-05-05/microsoft-to-invest-1-billion-in-poland-statement?context=amp"
+  - title: "Sell Salesforce Stock Now in Favor of Amazon or Microsoft"
+    excerpt: "Stock Market News, Stock Advice & Trading Tips The story with Salesforce (NYSE:CRM) isn’t all bad. The company has"
+    publishedDateTime: 2020-05-13T20:21:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/sell-salesforce-crm-stock-coronavirus-growth-1029199270"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/sell-salesforce-crm-stock-coronavirus-growth-1029199270"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/sell-salesforce-crm-stock-coronavirus-growth-1029199270"
     type: article
     provider:
-      name: U.S. News & World Report
-      domain: usnews.com
+      name: Business Insider
+      domain: businessinsider.com
     quality: 62
-  - title: "Microsoft to invest $1 bln in Polish cloud project"
-    excerpt: "Microsoft will invest $1 billion in Poland as part of a plan that will involve opening a data centre in the country to provide cloud services to businesses and government institutions, the company said in a statement on Tuesday."
-    publishedDateTime: 2020-05-05T09:42:00Z
-    webUrl: "https://www.nasdaq.com/articles/microsoft-to-invest-%241-bln-in-polish-cloud-project-2020-05-05"
-    ampWebUrl: "https://www.nasdaq.com/articles/microsoft-to-invest-%241-bln-in-polish-cloud-project-2020-05-05?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/microsoft-to-invest-%241-bln-in-polish-cloud-project-2020-05-05?amp"
+  - title: "Sell Cloud Stocks Salesforce.com and Workday, Analyst Says"
+    excerpt: "Rosenblatt Securities’ Yun Kim sees the potential for slower-than-consensus revenue growth ahead, which he fears could trigger multiple compression for both stocks."
+    publishedDateTime: 2020-05-05T14:15:00Z
+    webUrl: "https://www.barrons.com/articles/sell-cloud-stocks-salesforce-com-and-workday-analyst-says-51588688149"
+    ampWebUrl: "https://www.barrons.com/amp/articles/sell-cloud-stocks-salesforce-com-and-workday-analyst-says-51588688149"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/sell-cloud-stocks-salesforce-com-and-workday-analyst-says-51588688149"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 62
-  - title: "Microsoft to invest $1.5 bln in Italian cloud business"
-    excerpt: "Microsoft Corp. said on Friday it would create its first datacentre region in Italy under a $1.5 billion investment plan as the U.S. company expands its cloud computing services to more locations across the world."
-    publishedDateTime: 2020-05-08T14:55:00Z
-    webUrl: "https://www.nasdaq.com/articles/microsoft-to-invest-%241.5-bln-in-italian-cloud-business-2020-05-11"
-    ampWebUrl: "https://www.nasdaq.com/articles/microsoft-to-invest-%241.5-bln-in-italian-cloud-business-2020-05-11?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/microsoft-to-invest-%241.5-bln-in-italian-cloud-business-2020-05-11?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 62
-  - title: "Microsoft announces $1 billion investment plan in Poland"
-    excerpt: "Microsoft today announced a $1 billion investment plan in Poland. As part of this investment, Microsoft will open a new datacenter region in Poland to support startups, enterprises and government with enterprise-grade cloud services."
-    publishedDateTime: 2020-05-05T15:45:00Z
-    webUrl: "https://mspoweruser.com/microsoft-1-billion-investment-poland/"
-    ampWebUrl: "https://mspoweruser.com/microsoft-1-billion-investment-poland/amp/"
-    cdnAmpWebUrl: "https://mspoweruser-com.cdn.ampproject.org/c/s/mspoweruser.com/microsoft-1-billion-investment-poland/amp/"
-    type: article
-    provider:
-      name: MSPoweruser
-      domain: mspoweruser.com
+      name: Barron's
+      domain: barrons.com
     quality: 42
     images:
-      - url: "https://mspoweruser.com/wp-content/uploads/2020/05/Microsoft-Poland-1200x788.jpg"
-        width: 1200
-        height: 788
+      - url: "https://images.barrons.com/im-183590/social"
+        width: 1280
+        height: 640
         isCached: true
-  - title: "Microsoft to invest $1 billion in Poland, including new datacenter"
-    excerpt: "Microsoft will invest $1 billion to help transform the \"Polish Digital Valley.\" The investment includes a new Microsoft datacenter and plans to educate people on how to transform organizations by utilizing the cloud."
-    publishedDateTime: 2020-05-05T17:54:00Z
-    webUrl: "https://www.windowscentral.com/microsoft-investing-1-billion-poland-new-data-center"
-    ampWebUrl: "https://www.windowscentral.com/microsoft-investing-1-billion-poland-new-data-center?amp"
-    cdnAmpWebUrl: "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/microsoft-investing-1-billion-poland-new-data-center?amp"
+  - title: "Microsoft and Amazon trade more jabs in fight over DoD JEDI contract"
+    excerpt: "Microsoft and Amazon are going at it once again, penning heated blog posts in the fight over the Department of Defense's JEDI contract award. While Microsoft accuses Amazon of stalling the process in a \"force a re-do,"
+    publishedDateTime: 2020-05-08T19:29:00Z
+    webUrl: "https://www.windowscentral.com/microsoft-and-amazon-trade-more-jabs-fight-over-dod-jedi-contract"
+    ampWebUrl: "https://www.windowscentral.com/microsoft-and-amazon-trade-more-jabs-fight-over-dod-jedi-contract?amp"
+    cdnAmpWebUrl: "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/microsoft-and-amazon-trade-more-jabs-fight-over-dod-jedi-contract?amp"
     type: article
     provider:
       name: Windows Central
       domain: windowscentral.com
     quality: 42
     images:
-      - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2018/03/microsoft-logo-ignite-2017.jpg?itok=LlgVw_jV"
+      - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2017/09/microsoft-logo-2017-ignite2.jpg?itok=c3ocGDNm"
         width: 800
         height: 600
         isCached: true
-  - title: "Microsoft to invest $1 billion in Poland cloud"
-    excerpt: "Microsoft on Tuesday announced it would invest one billion dollars in Poland to expand its operations, including the creation of a new regional cloud-computing data hub. The US tech giant said it had signed an agreement with Poland's state-backed National Cloud Operator to provide \"cloud solutions for all industries and companies in Poland ..."
-    publishedDateTime: 2020-05-06T02:04:00Z
-    webUrl: "https://www.thejakartapost.com/news/2020/05/06/microsoft-to-invest-1-billion-in-poland-cloud.html"
-    ampWebUrl: "https://www.thejakartapost.com/amp/news/2020/05/06/microsoft-to-invest-1-billion-in-poland-cloud.html"
-    cdnAmpWebUrl: "https://www-thejakartapost-com.cdn.ampproject.org/c/s/www.thejakartapost.com/amp/news/2020/05/06/microsoft-to-invest-1-billion-in-poland-cloud.html"
+  - title: "Microsoft, Amazon trade jabs over disputed $10B JEDI contract"
+    excerpt: "Amazon’s battle with Microsoft over a $10 billion U.S. defense department cloud computing contract has gone from the courtroom to the web. In dueling blog posts peppered with harsh jabs and pointed rhetoric,"
+    publishedDateTime: 2020-05-11T04:23:00Z
+    webUrl: "https://www.bizjournals.com/seattle/news/2020/05/10/microsoft-amazon-trade-jabs-over-jedi-contract.html"
+    ampWebUrl: "https://www.bizjournals.com/seattle/news/2020/05/10/microsoft-amazon-trade-jabs-over-jedi-contract.amp.html"
+    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/seattle/news/2020/05/10/microsoft-amazon-trade-jabs-over-jedi-contract.amp.html"
     type: article
     provider:
-      name: The Jakarta Post
-      domain: thejakartapost.com
+      name: The Business Journals
+      domain: bizjournals.com
     quality: 42
     images:
-      - url: "https://img.jakpost.net/c/2019/03/23/2019_03_23_68363_1553355661._medium.jpg"
-        width: 747
-        height: 515
+      - url: "https://media.bizj.us/view/img/10988802/rtrlnine110024*600xx4350-2900-100-0.jpg"
+        width: 600
+        height: 400
         isCached: true
-  - title: "Report: Microsoft to invest $2 billion in Reliance Jio in India"
-    excerpt: "Today, a new report emerged online claiming that Microsoft is planning to invest $2 billion in Facebook for about 4% stake in Jio."
-    publishedDateTime: 2020-05-28T10:31:00Z
-    webUrl: "https://mspoweruser.com/microsoft-reliance-jio-2-billion/"
-    ampWebUrl: "https://mspoweruser.com/microsoft-reliance-jio-2-billion/amp/"
-    cdnAmpWebUrl: "https://mspoweruser-com.cdn.ampproject.org/c/s/mspoweruser.com/microsoft-reliance-jio-2-billion/amp/"
+  - title: "Nokia announces contributions to SONiC ecosystem led by Microsoft"
+    excerpt: "Nokia announced contributions to SONiC ecosystem led by Microsoft. Nokia has now developed a chassis-based SONiC implementation focused on the requirements of high capacity data centers."
+    publishedDateTime: 2020-05-12T14:30:00Z
+    webUrl: "https://mspoweruser.com/nokia-contributions-to-sonic-microsoft/"
+    ampWebUrl: "https://mspoweruser.com/nokia-contributions-to-sonic-microsoft/amp/"
+    cdnAmpWebUrl: "https://mspoweruser-com.cdn.ampproject.org/c/s/mspoweruser.com/nokia-contributions-to-sonic-microsoft/amp/"
     type: article
     provider:
       name: MSPoweruser
       domain: mspoweruser.com
     quality: 42
     images:
-      - url: "https://mspoweruser.com/wp-content/uploads/2019/08/Microsoft-Jio.jpg"
-        width: 881
-        height: 495
+      - url: "https://mspoweruser.com/wp-content/uploads/2017/01/data-centers.jpg"
+        width: 1000
+        height: 550
         isCached: true
-  - title: "New Zealand to get its own Microsoft Azure region"
-    excerpt: "Microsoft has applied for permission from the New Zealand government's Overseas Investment Office to acquire sites to build its first Azure region in the country, the company announced. Storing customer data at rest in New Zealand along with meeting users' security and compliance needs are cited by Microsoft as the drivers for establishing the new region."
-    publishedDateTime: 2020-05-06T01:40:00Z
-    webUrl: "https://www.itnews.com.au/news/new-zealand-to-get-its-own-microsoft-azure-region-547817"
-    type: article
-    provider:
-      name: IT News For Australia Business
-      domain: itnews.com.au
-    quality: 37
-    images:
-      - url: "https://i.nextmedia.com.au/News/MS_Azure_regions.png"
-        width: 882
-        height: 432
-        isCached: true
-  - title: "Microsoft to invest $1.5 billion in Italy, new datacenter region coming in Milan"
-    excerpt: "Microsoft today announced a $1.5 billion 5-year investment plan in Italy. Microsoft also announced the first data center region coming to the country in Milan."
-    publishedDateTime: 2020-05-08T13:02:00Z
-    webUrl: "https://mspoweruser.com/microsoft-invest-1-5-billion-italy/"
-    ampWebUrl: "https://mspoweruser.com/microsoft-invest-1-5-billion-italy/amp/"
-    cdnAmpWebUrl: "https://mspoweruser-com.cdn.ampproject.org/c/s/mspoweruser.com/microsoft-invest-1-5-billion-italy/amp/"
+  - title: "Amazon launched another JEDI contract complaint to DOD, and Microsoft responds"
+    excerpt: "In a blog post, Frank X. Shaw, Microsoft Corporate Vice President, Communications, revealed that Amazon has launched another bid to prevent Microsoft from fulfilling the Pentagon’s JEDI contract, which would update the Department of Defences’s IT services to a modern cloud-based back-end."
+    publishedDateTime: 2020-05-07T22:24:00Z
+    webUrl: "https://mspoweruser.com/amazon-launched-another-jedi-contract-complaint-to-dod-and-microsoft-responds/"
+    ampWebUrl: "https://mspoweruser.com/amazon-launched-another-jedi-contract-complaint-to-dod-and-microsoft-responds/amp/"
+    cdnAmpWebUrl: "https://mspoweruser-com.cdn.ampproject.org/c/s/mspoweruser.com/amazon-launched-another-jedi-contract-complaint-to-dod-and-microsoft-responds/amp/"
     type: article
     provider:
       name: MSPoweruser
       domain: mspoweruser.com
-    quality: 37
+    quality: 38
     images:
-      - url: "https://mspoweruser.com/wp-content/uploads/2020/05/Microsoft-Italy.jpg"
-        width: 890
-        height: 578
+      - url: "https://mspoweruser.com/wp-content/uploads/2019/10/109411443_gettyimages-853699560.jpg"
+        width: 660
+        height: 371
         isCached: true
-  - title: "Microsoft lands public cloud in New Zealand with new datacenter region"
-    excerpt: "Microsoft plans to establish its first datacenter region in New Zealand, in what it described as \"a major milestone toward delivering enterprise-grade cloud services in the country\"."
-    publishedDateTime: 2020-05-05T23:37:00Z
-    webUrl: "https://www.reseller.co.nz/article/679032/microsoft-lands-public-cloud-new-zealand-new-datacenter-region/"
+  - title: "Of FAANG (+MSFT) earnings, Amazon and Microsoft to lead, Wedbush says"
+    excerpt: "Wedbush's Dan Ives, in a note ahead of major tech earnings this week, wrote that during this Covid-19 storm, big tech and work-from-home names will be among the safest stocks during this \"pivotal&"
+    publishedDateTime: 2020-04-28T11:50:00Z
+    webUrl: "https://seekingalpha.com/news/3565190-of-faang-msft-earnings-amazon-and-microsoft-to-lead-wedbush-says"
     type: article
     provider:
-      name: Reseller News
-      domain: reseller.co.nz
-    quality: 22
-    images:
-      - url: "https://d1abomko0vm8t1.cloudfront.net/article/images/800x800/dimg/img_20190327_063139.jpg"
-        width: 800
-        height: 546
-        isCached: true
-  - title: "Microsoft To Invest $1 Bln In Poland Cloud"
-    excerpt: "Microsoft on Tuesday announced it would invest one billion dollars in Poland to expand its operations, including the creation of a new regional cloud-computing data hub. The US tech giant said it had signed an agreement with Poland's state-backed National Cloud Operator to provide \"cloud solutions for all industries and companies in Poland\","
-    publishedDateTime: 2020-05-05T18:47:00Z
-    webUrl: "https://www.ibtimes.com/microsoft-invest-1-bln-poland-cloud-2970673"
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 2
+  - title: "Microsoft slams Amazon's Cloud arm for blocking $10bn Pentagon project"
+    excerpt: "Microsoft has come out in the open against ecommerce giant Amazon's Cloud arm, slamming Amazon Web Services (AWS) for once again challenging the US government's decision to award $10 billion Pentagon Cloud project to Satya Nadella-run enterprise - this time out of view from the public and directly with the US Department of Defense (DoD)."
+    publishedDateTime: 2020-05-08T10:26:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Science/20200508/3554531.html"
     type: article
     provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 22
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/05/05/microsoft-said-it-had-signed-an-agreement-with.jpg"
-        width: 1024
-        height: 520
-        isCached: true
-  - title: "Microsoft Cloud Regions Planned For New Zealand, Poland"
-    excerpt: "The new additions would bring Microsoft to 60 announced cloud regions in 140 countries. Microsoft plans to open its first data center region in New Zealand, hailing it as a first step toward providing local access to enterprise-grade cloud services there."
-    publishedDateTime: 2020-05-06T23:01:00Z
-    webUrl: "https://www.crn.com/news/cloud/microsoft-cloud-regions-planned-for-new-zealand-poland"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 22
-    images:
-      - url: "https://www.crn.com/resources/025d-0f58ae9942c9-a62ab8ded06d-1000/cloud-mobility-touch400.jpg"
-        width: 397
-        height: 397
-        isCached: true
-  - title: "Microsoft could be the first to launch a cloud region in New Zealand"
-    excerpt: "Proposed data centre is not a guarantee that an Azure region will operate in New Zealand anytime soon, as government approval is needed."
-    publishedDateTime: 2020-05-06T18:06:00Z
-    webUrl: "https://www.computerworld.com/article/3541763/microsoft-could-be-the-first-to-launch-a-cloud-region-in-new-zealand.html"
-    type: article
-    provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 22
-    images:
-      - url: "https://images.idgesg.net/images/article/2017/10/dramatic-clouds-100737478-large.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Microsoft plans $1bn cloud investment in Poland"
-    excerpt: "Microsoft plans to invest $1bn in cloud computing in Poland. The company will open a data center region in the country, and partner with domestic cloud provider Chmura Krajowa to help sell Azure and other Microsoft enterprise services."
-    publishedDateTime: 2020-05-06T08:49:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/microsoft-plans-1bn-cloud-investment-in-poland/"
-    type: article
-    provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 22
-    images:
-      - url: "https://media.datacenterdynamics.com/media/images/Microsoft_Azure.2e16d0ba.fill-1200x630.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Microsoft invests $1.5bn in Italian cloud region"
-    excerpt: "Microsoft is investing $1.5bn to establish an Italian cloud region in Milan, according to Reuters. In February, Microsoft promised declared it was to invest in Europe with a $1bn injection into its Polish business coinciding with the opening of a new data center."
-    publishedDateTime: 2020-05-11T10:30:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/microsoft-invest-15bn-italian-cloud-region/"
-    type: article
-    provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 22
-    images:
-      - url: "https://media.datacenterdynamics.com/media/images/Microsoft_Cloud.2e16d0ba.fill-1200x630.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Microsoft to Open Cloud Region, Invest $1.5B In Italy"
-    excerpt: "Microsoft continues to ramp up its cloud infrastructure with plans to open a new data center region in Milan – its first in Italy -- as part of a $1.5 billion, five-year investment in the country"
-    publishedDateTime: 2020-05-11T22:58:00Z
-    webUrl: "https://www.crn.com/news/cloud/microsoft-to-open-cloud-region-invest-1-5b-in-italy"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 22
-    images:
-      - url: "https://www.crn.com/resources/025d-0f62b427e83a-33808bdb1efc-1000/cloud-hybrid-it-hand.jpg"
-        width: 610
-        height: 458
-        isCached: true
-  - title: "Microsoft targeting Italy with $1.5 billion investment for cloud datacentre"
-    excerpt: "The Italian cloud market is set to grow rapidly in the near future, with companies increasingly relying on digital technology for the daily operations. The market’s potential ha"
-    publishedDateTime: 2020-05-11T15:05:00Z
-    webUrl: "https://www.totaltele.com/505884/Microsoft-targeting-Italy-with-15-billion-investment-for-cloud-datacentre"
-    type: article
-    provider:
-      name: Total Telecom
-      domain: totaltele.com
-    quality: 0
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 2
 
 secured: "EDDWIIuMXwE5SEx+xRZvOQKfKD35+2D1FVRecUpKjopCSUpqJfmmHTI9piWDpWgyUO1iI4OoFVytKMK2AYVQcgPRnwawDKL91k/kUcqIrpiN700pWwIKDAMRGnAOXTEECTcDvCFFQ8KMQBfDjrvf4pWKg2DVK7zvmMKQTurP8Aq4/iQwLJ0IHpM2FlwMuDBOZd5h5Tf1vs+49KR1eQkTUJU94Fe695kG/u9wCsHhmQ1tXrD9tcxNPEpyQTXHg8vbqtPZ46U9HdxP1wd3meuUxXGAUzHliPzlBWrDXrFkHn5g3WCjct6i6RtF1Ov1nE94MdBrMH2VJExABf5WF75eTWV3pLMdSq5ETGBRjFdHweh6GcMxZHRVmAIPTuQp4K+qMm0bzxG1ndVqTw7xtUbfLyycPxbbnZfF4N2Gc207CUR7uua6reY5tqJxLzC6w/HUrbI1DdVAW+zy3/xhTDzqZwBWHWGtYh1qSlYlYs0PJ9Q=;8Tcyd7wEq6k27dMaqhMipg=="
 ---

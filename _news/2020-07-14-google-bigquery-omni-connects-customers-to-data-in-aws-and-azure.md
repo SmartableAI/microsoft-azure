@@ -45,22 +45,6 @@ related:
         width: 1200
         height: 939
         isCached: true
-  - title: "Get training in AWS, Microsoft Azure, Google Cloud, and CompTIA with these classes"
-    excerpt: "Amazon Web Services (AWS) is by far the most popular cloud services provider on the market, but Microsoft Azure and Google Cloud also have a lot to offer. This training bundle dives into each of ..."
-    publishedDateTime: 2020-07-20T14:42:00Z
-    webUrl: "https://mashable.com/shopping/july-20-cloud-foundation-certification-bundle-sale/"
-    ampWebUrl: "https://mashable.com/shopping/july-20-cloud-foundation-certification-bundle-sale.amp"
-    cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/shopping/july-20-cloud-foundation-certification-bundle-sale.amp"
-    type: article
-    provider:
-      name: Mashable
-      domain: mashable.com
-    quality: 91
-    images:
-      - url: "https://mondrian.mashable.com/2020%252F07%252F20%252F2a%252F288cc550936045a9829d0c7ac885da43.de3b0.png%252F1200x630.png?signature=_033ryXxiHP7FX--_CpIVfbfA1M="
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Google Cloud’s new BigQuery Omni will let developers query data in GCP, AWS and Azure"
     excerpt: "including those of Google Cloud competitors like AWS and Microsoft Azure — though for now, the service only supports AWS, with Azure support coming later. Using a unified interface, developers ..."
     publishedDateTime: 2020-07-14T12:04:00Z
@@ -104,20 +88,6 @@ related:
       - url: "https://virtualizationreview.com/-/media/ECG/VirtualizationReview/Images/IntroImages2017/0717vrcm_CTOOpinion.jpg"
         width: 647
         height: 450
-        isCached: true
-  - title: "New Google Cloud platform allows direct access to Amazon Web Services, Microsoft Azure data"
-    excerpt: "Google on July 14 announced a new platform that will allow users to directly access data stored in Google Cloud, Amazon Web Services and Microsoft Azure. The solution, dubbed BigQuery Omni, allows clients to use Google's serverless cloud data warehouse BigQuery for data stored in Google Cloud,"
-    publishedDateTime: 2020-07-14T14:33:00Z
-    webUrl: "https://www.beckershospitalreview.com/data-analytics/new-google-cloud-platform-allows-direct-access-to-amazon-web-services-microsoft-azure-data.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 27
-    images:
-      - url: "https://www.beckershospitalreview.com/images/channels/data-analytics/6.jpg"
-        width: 800
-        height: 600
         isCached: true
 
 secured: "kTDOO74YctBjH4k9Crlit/rJBFoUs5uEUBDYmqAQbvVTi4sQk39qmNNpUKarKslvLV98jPxwu5vSkgYYmyu6aH4obPw3I2ZFLh7A+u/7SuKL99BULM2yJJA7z+uFGwm4u70q4UUpQil/R6xvpyWOBuo41bT5xVzXtKX+pCTmQ/S21fdoIzKPmoS7c7FWUF3rmYsv9C8tS1lHvdzGrzfdVKNagWQXbBkIkYNSmVw+Za7Y/asetu6M7OFcXKRu5Wra1/uN/0PAhX8XdIroC5BpRTrZh1OIKAP9k0hMCOGbzrk7fWCdpkFmMOvQI2AxFcxQ2CCBxD7s4/aVZwao17SxXlSWVD/8xB3RNmyf7tiKvU0usWuCly+yJ2RRuecNX5n5ppw3spwvzw2B6sIJY4qgZFNe3DA07sV0o9zAmB/a4AfSxUr33FQo6VVioGjEFe3egZxrKbRJrjMtiI6Ewg8htbU79BWX+r7wsKRJOz08XrKwZ5ir/+KO1HQlxjE2GKh2;tSlr/Bq1kBZbPDzgZSoU1w=="

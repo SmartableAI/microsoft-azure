@@ -6,8 +6,8 @@ publishedDateTime: 2020-06-25T13:00:30Z
 originalUrl: "https://azure.microsoft.com/blog/the-next-frontier-in-machine-learning-driving-responsible-practices/"
 webUrl: "https://azure.microsoft.com/blog/the-next-frontier-in-machine-learning-driving-responsible-practices/"
 type: article
-quality: 74
-heat: 74
+quality: 89
+heat: 89
 published: true
 
 provider:

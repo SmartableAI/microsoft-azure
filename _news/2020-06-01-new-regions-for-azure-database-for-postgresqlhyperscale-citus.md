@@ -21,24 +21,15 @@ topics:
   - Azure
 
 related:
-  - title: "Data encryption for Azure Database for PostgreSQL—single server"
-    excerpt: ""
-    publishedDateTime: 2020-06-10T16:00:19Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/data-encryption-for-azure-database-for-postgresql-single-server/"
+  - title: "One- and three- year reserved capacity for Azure DB for PostgreSQL-Hyperscale (Citus)"
+    excerpt: "Azure Database for PostgreSQL-Hyperscale (Citus) reserved capacity is now available to reserve compute power for your existing and future Hyperscale (Citus) server groups. "
+    publishedDateTime: 2020-07-21T21:17:07Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/one-and-three-year-reserved-capacity-for-azure-database-for-postgresqhyperscale-citus/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 17
-  - title: "Minimal TLS version setting is now available for Azure Database for PostgreSQL"
-    excerpt: ""
-    publishedDateTime: 2020-06-04T17:00:39Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-database-for-postgresql-minimal-tls-version/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 13
+    quality: 10
   - title: "One-year and three-year reserved capacity for Azure Database for PostgreSQL—Hyperscale (Citus)"
     excerpt: ""
     publishedDateTime: 2020-06-01T16:00:13Z

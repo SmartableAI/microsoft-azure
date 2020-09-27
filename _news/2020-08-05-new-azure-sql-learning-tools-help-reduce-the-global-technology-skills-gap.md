@@ -6,9 +6,9 @@ publishedDateTime: 2020-08-05T09:00:41Z
 originalUrl: "https://azure.microsoft.com/blog/new-azure-sql-learning-tools-help-reduce-the-global-technology-skills-gap/"
 webUrl: "https://azure.microsoft.com/blog/new-azure-sql-learning-tools-help-reduce-the-global-technology-skills-gap/"
 type: article
-quality: 68
-heat: 68
-published: false
+quality: 83
+heat: 83
+published: true
 
 provider:
   name: Microsoft

@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/azure-iot-central-featur
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-iot-central-feature-updates-july-2020/"
 type: article
 quality: 67
-heat: 227
+heat: 167
 published: true
 
 provider:
@@ -45,33 +45,6 @@ related:
         width: 827
         height: 552
         isCached: true
-  - title: "Azure IoT Central—March 2020 updates"
-    excerpt: ""
-    publishedDateTime: 2020-04-28T23:00:43Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-iot-central-march-2020-updates/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 17
-  - title: "Azure IoT Central—April 2020 new features"
-    excerpt: ""
-    publishedDateTime: 2020-05-14T21:00:40Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-iot-central-april-2020-new-features/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 17
-  - title: "Azure IoT Central—April 2020 updates"
-    excerpt: ""
-    publishedDateTime: 2020-05-14T21:00:32Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-iot-central-april-2020-updates/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 17
   - title: "New Azure IoT Central features are now available"
     excerpt: ""
     publishedDateTime: 2020-05-19T16:05:41Z

@@ -6,7 +6,7 @@ publishedDateTime: 2020-04-07T11:46:00Z
 webUrl: "https://medium.com/microsoftazure/securing-access-to-azure-data-lake-gen2-from-azure-databricks-8580ddcbdc6"
 type: article
 quality: 77
-heat: 77
+heat: 97
 published: true
 
 provider:
@@ -26,6 +26,17 @@ images:
     height: 745
     isCached: true
     title: "Securing access to Azure Data Lake gen2 from Azure Databricks"
+
+related:
+  - title: "Now save up to 52 percent when migrating to Azure Databricks"
+    excerpt: "To make it easier for customers to modernize their on-premises Spark and big data workloads to the cloud, we’re announcing a new migration offer with Azure Databricks."
+    publishedDateTime: 2020-07-15T08:00:28Z
+    webUrl: "https://azure.microsoft.com/blog/now-save-up-to-52-percent-when-migrating-to-azure-databricks/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 69
 
 secured: "3rlOWwPCvjSrRWjcR/+8kt1kugwTpeugTBf/tIH1Z3+JJkSTbi/ZhgHWQwiLVeBqW52idobMAchpa6cMEHqyyeCYtrqvwLn718RqyyhzYLMyQEjOEr8kGknj+ocUkdlZkiykBa4ZS1o+aJjSEeQNXxPEwHQJS95L+JVzxKoUi2Tp379It4BM8vowSzXIDl+61YrVeqQUUZQulFpDrji4GXWXamUYsIoVYQku5sb49+Z1cz/CNODMLvtwcO0h8iE40I4GdQ5e91QuoeZznVIP3UxspFfHoTaZHwExYyCrPzyBlTLHbTw+hzal/G/2H+Ni;OuLfoSRCQCV4d/LxrNY5iw=="
 ---

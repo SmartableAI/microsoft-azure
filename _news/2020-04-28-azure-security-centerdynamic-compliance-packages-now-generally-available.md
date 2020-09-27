@@ -6,7 +6,7 @@ publishedDateTime: 2020-04-28T23:00:42Z
 webUrl: "https://azure.microsoft.com/en-us/updates/dynamic-compliance-packages-ga/"
 type: article
 quality: 16
-heat: -1
+heat: 16
 published: false
 
 provider:
@@ -19,53 +19,6 @@ provider:
 
 topics:
   - Azure
-
-related:
-  - title: "DCsv2-series VM now generally available from Azure confidential computing"
-    excerpt: "Security and privacy are critically important when storing and processing sensitive information in the cloud, from payment transactions, to financial records, personal health data, and more. With the general availability of DCsv2-series VMs, we are ushering in the start of a new level of data protection"
-    publishedDateTime: 2020-04-27T12:00:29Z
-    webUrl: "https://azure.microsoft.com/blog/dcsv2series-vm-now-generally-available-from-azure-confidential-computing/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 18
-  - title: "Azure custom role creation in the Azure portal is now generally available"
-    excerpt: ""
-    publishedDateTime: 2020-05-01T16:00:17Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-custom-roles-portal/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 16
-  - title: "Azure File shares snapshot management by Azure Backup is now generally available"
-    excerpt: ""
-    publishedDateTime: 2020-04-29T16:00:05Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-file-shares-snapshot-management-by-azure-backup-is-now-generally-available/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 12
-  - title: "Maintenance control for platform updates now generally available"
-    excerpt: ""
-    publishedDateTime: 2020-04-28T17:15:39Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/maintenance-control-for-platform-updates-now-generally-available/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 2
-  - title: "Windows Server containers in AKS now generally available"
-    excerpt: ""
-    publishedDateTime: 2020-04-28T16:30:38Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/windows-server-containers-in-aks-now-generally-available/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 2
 
 secured: "R80ehGIHUpgOjUvuAXrKTEAxC5zfWMONrLuYSNq/m5+3rAXr30pPjM4zKGQxiZAEMmoTbhbyI2N2EQ4ekoVPwtHu+vAaml7kdp2w816utPVxF47QCw3euOBtdB6qnnL4BujQvafXs0of54vAejl51AARlDtboHaageIQnBeX6U3/PgU6R/mo4bCtJxsPI5JC5+i9zzuKoPL6sd3PcJdpAKt+ASvkfe7mnv5tZQq9P63rOR1uCdmLtYZsyWEn2eR5LLqebZE5NAZLVUWt0kiEUNSJB7bc5fO37JfFn71vPvlvwdr5r5bOtURUEUzTxzw0nfgdxHo9u/8DXq8xhzoHbw==;L1od2aRrMY24HKTS4yoJEQ=="
 ---

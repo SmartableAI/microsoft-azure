@@ -8,8 +8,8 @@ ampWebUrl: "https://www.fool.com/amp/investing/2020/04/29/dow-jones-news-boeing-
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/04/29/dow-jones-news-boeing-cuts-production-and-staff-mi.aspx"
 type: article
 quality: 76
-heat: 96
-published: true
+heat: -1
+published: false
 
 provider:
   name: The Motley Fool
@@ -30,21 +30,81 @@ images:
     title: "Dow Jones News: Boeing Cuts Production and Staff; Microsoft Reports This Afternoon"
 
 related:
-  - title: "Dow Jones News: IBM to Launch New Cloud, AI Products; Microsoft's Next Xbox Could Face Problems"
-    excerpt: "IBM is using its Think conference to roll out new products, and Microsoft will need to contend with game delays and a sluggish economy when it launches a new game console later this year."
-    publishedDateTime: 2020-05-05T18:01:00Z
-    webUrl: "https://www.fool.com/investing/2020/05/05/dow-jones-news-ibm-to-launch-new-cloud-ai-products.aspx"
-    ampWebUrl: "https://www.fool.com/amp/investing/2020/05/05/dow-jones-news-ibm-to-launch-new-cloud-ai-products.aspx"
-    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/05/05/dow-jones-news-ibm-to-launch-new-cloud-ai-products.aspx"
+  - title: "Microsoft's Windows Virtual Desktop spring refresh: What's new and next"
+    excerpt: "Microsoft is ready to roll out its 'spring refresh' of WVD, while working on a grander plan to make WVD more of a full-fledged cloud-managed desktop."
+    publishedDateTime: 2020-04-30T13:00:00Z
+    webUrl: "https://www.zdnet.com/article/microsofts-windows-virtual-desktop-spring-refresh-whats-new-and-next/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsofts-windows-virtual-desktop-spring-refresh-whats-new-and-next/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsofts-windows-virtual-desktop-spring-refresh-whats-new-and-next/"
     type: article
     provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 70
+      name: ZDNet
+      domain: zdnet.com
+    quality: 82
     images:
-      - url: "https://g.foolcdn.com/editorial/images/497755/istock_000016851885_large_large.jpg"
-        width: 580
-        height: 378
+      - url: "https://zdnet1.cbsistatic.com/hub/i/2020/04/30/b77a0f01-6b33-4f90-b06e-94b4e3c3b85f/newwvdfeatures.jpg"
+        width: 875
+        height: 557
+        isCached: true
+  - title: "Microsoft expands data centre region to New Zealand"
+    excerpt: "Microsoft has announced it will be expanding its data centre footprint with plans to establish its first New Zealand data centre region. The New Zealand data centre region will be in addition to its global data centre footprint in 60 other regions,"
+    publishedDateTime: 2020-05-06T01:27:00Z
+    webUrl: "https://www.zdnet.com/article/microsoft-expands-data-centre-region-to-new-zealand/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-expands-data-centre-region-to-new-zealand/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-expands-data-centre-region-to-new-zealand/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 82
+    images:
+      - url: "https://zdnet4.cbsistatic.com/hub/i/r/2020/03/30/c2660a3e-8f41-4c66-9c19-b4905506f59e/thumbnail/1200x675/5a908ef8af6d1bb2302b432a2d6767e0/do-not-push-the-button-tfnsw.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Windows 10X will debut initially on single-screen devices, Microsoft exec confirms"
+    excerpt: "Microsoft confirmed this week that it will pause development of its Windows 10X operating system for dual-screen devices and instead focus first on developing Windows 10X first for"
+    publishedDateTime: 2020-05-05T16:29:00Z
+    webUrl: "https://www.geekwire.com/2020/windows-10x-will-debut-initially-single-screen-devices-microsoft-exec-confirms/"
+    ampWebUrl: "https://www.geekwire.com/2020/windows-10x-will-debut-initially-single-screen-devices-microsoft-exec-confirms/amp/"
+    cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/windows-10x-will-debut-initially-single-screen-devices-microsoft-exec-confirms/amp/"
+    type: article
+    provider:
+      name: GeekWire
+      domain: geekwire.com
+    quality: 76
+    images:
+      - url: "https://cdn.geekwire.com/wp-content/uploads/2020/04/no-neo-in-2020-microsoft-pauses-630x354.jpg"
+        width: 630
+        height: 354
+        isCached: true
+  - title: "Windows Virtual Desktop Improves to Address New Needs"
+    excerpt: "With COVID-19 triggering a massive uptick in Windows Virtual Desktop usage, Microsoft is responding with improvements and new features."
+    publishedDateTime: 2020-04-30T13:06:00Z
+    webUrl: "https://www.thurrott.com/windows/windows-10/235512/windows-virtual-desktop-improves-to-address-new-needs"
+    type: article
+    provider:
+      name: Thurrott
+      domain: thurrott.com
+    quality: 22
+    images:
+      - url: "https://www.thurrott.com/wp-content/uploads/sites/2/2020/04/windows-virtual-desktop.jpg"
+        width: 1066
+        height: 599
+        isCached: true
+  - title: "Microsoft Cloud Regions Planned For New Zealand, Poland"
+    excerpt: "The new additions would bring Microsoft to 60 announced cloud regions in 140 countries. Microsoft plans to open its first data center region in New Zealand, hailing it as a first step toward providing local access to enterprise-grade cloud services there."
+    publishedDateTime: 2020-05-06T23:01:00Z
+    webUrl: "https://www.crn.com/news/cloud/microsoft-cloud-regions-planned-for-new-zealand-poland"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 22
+    images:
+      - url: "https://www.crn.com/resources/025d-0f58ae9942c9-a62ab8ded06d-1000/cloud-mobility-touch400.jpg"
+        width: 397
+        height: 397
         isCached: true
 
 secured: "bHYDxaTMG/T3vpmg2IpjkMv6KrG8YifyM2iSei9pF1PzBEWMHyRfWsSVJf5EJGbq2GU92AIjEZGrkQwhq8sCA8+iWlK23LcoA5kNW15ayC4sUUJzXbVNo0Nfz3Sw7q+d8xSfygo9E+83Mth19baidaUKLl1qvrduwffbnoz7lTO9FbsHcawWlTMFEu8atQUxSI1ozByPC8+msRS2Ke0nixMCx1FGENFPx37Oh/QkxnHxSYuzoWF3VfJFPn6meAIMpTRhJLtTbTs8VU+tuVWiTggTVuV1QYKCnRHj/hItP+4a8rrJFk8IhPBjrVPXxDmNDuhoTxdGDUmrlJWNPQoQaHDsXRm8A19BunYeylnpl/bklhdnOOEKV1Lh/8t6TrTEIMkZs1rNMLKjqvc0awKW0gOE1uGF1Ue+RQPEwNrZ/3cS7mDmf+TQqIgx+IANb4GPzgwzKkbQm5aO1B+yTaBj3rNRVzgwzBFQ7cUYYwLNowo=;IIclkQB2cNDGe+mdh8GVUQ=="

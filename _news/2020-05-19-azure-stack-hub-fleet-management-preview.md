@@ -20,17 +20,6 @@ provider:
 topics:
   - Azure
 
-related:
-  - title: "Easily deploy and manage Azure Stack through Avanade"
-    excerpt: ""
-    publishedDateTime: 2020-05-19T16:05:35Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/easily-deploy-and-manage-azure-stack-through-avanade/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 17
-
 secured: "Acj7bqjO2kfdC/Aj3B0FMRai2KQ2MzhPkeE1KIBCJu2B74RqxGvFJUDdidpPw1fQceo83xz/mGhsEJKknUw4L1adr/t59NiFVZzRbWoIgk5UshDshJhQbcxJ7WGahop/KGNpBhZeIPIa/WFAZi28AjIFfPCU4+oBUOFlkdGKMpS5NaEtpccwU3wZGeywqEPvbklWqkQ8Gg24JZim833KBHR2sSenwV1g5g6JAmj3ScccokfrDMedyzIsdvHt/HB7byv0jFZq+b5uREjDqkxyZhYisHwGRIIlobczs/GJaH3eKlnYEcUPH21iqY/+NZdgH9xgbif0bX7lMkhHzQ/IwA==;QS+tiuQIvxxSe7vPNBnCrQ=="
 ---
 

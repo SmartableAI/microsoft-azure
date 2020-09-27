@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-25T00:00:28Z
 webUrl: "https://azure.microsoft.com/en-us/updates/sqldb-maxdop-updates/"
 type: article
 quality: 9
-heat: 9
+heat: -1
 published: false
 
 provider:
@@ -19,6 +19,58 @@ provider:
 
 topics:
   - Azure
+
+related:
+  - title: "Eight ways to optimize costs on Azure SQL"
+    excerpt: "Across the globe, businesses are emerging into a new normal, eager to restart or rebuild, but still operating in uncertain times. Optimizing costs and redirecting the spend to where it matters most is as important as ever, and many companies see the cloud as a way to control costs, build resilience and"
+    publishedDateTime: 2020-07-28T09:00:15Z
+    webUrl: "https://azure.microsoft.com/blog/eight-ways-to-optimize-costs-on-azure-sql/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 106
+    images:
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/ca2b2a4f-0ac3-45a8-81e1-c8af06bd8518.jpg"
+        width: 709
+        height: 491
+        isCached: true
+  - title: "Three reasons to migrate your ASP.NET apps and SQL Server data to Azure"
+    excerpt: "The way we work and live has changed. Over the last several months, enterprises have had to shift their strategy from physical first to digital first and accelerate their digital transformation to enable remote productivity, reduce costs, or rapidly address new opportunities."
+    publishedDateTime: 2020-07-28T10:00:15Z
+    webUrl: "https://azure.microsoft.com/blog/three-reasons-to-migrate-your-aspnet-apps-and-sql-server-data-to-azure/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 73
+  - title: "New memory- and compute-optimized hardware options in Azure SQL Database"
+    excerpt: "M-series, a new memory-optimized hardware option, and Fsv2-series, a new compute-optimized hardware option, are now generally available in Azure SQL Database. "
+    publishedDateTime: 2020-07-21T21:22:34Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/new-memory-and-computeoptimized-hardware-options-in-azure-sql-database/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 16
+  - title: "Machine Learning services on Azure SQL Managed Instance is in limited preview"
+    excerpt: "Machine Learning Services, a feature of Azure SQL Managed Instance, provides in-database support for R and Python scripts (in limited preview)."
+    publishedDateTime: 2020-07-21T21:19:04Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/machine-learning-services-on-azure-sql-managed-instance-is-in-limited-preview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 14
+  - title: "New memory optimized and compute optimized hardware options in Azure SQL Database"
+    excerpt: "New memory optimized and compute optimized hardware options are now generally available in Azure SQL Database."
+    publishedDateTime: 2020-07-23T16:04:22Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/new-memory-and-compute-optimized-hardware-options-in-azure-sql-database-2/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 12
 
 secured: "64NtlU9Gy9Xa9w/Fqq7DA2Nf2bxJPWhQYo7zSHkz+pIidOtEUDPDFvNINlAoJ0FMGYJ1bqD0PgoLZ62CSCwQ5akMrtOsS4gb3q8cFm84zNIchUsHulx2oF2AnI3q/hz7ml+w/+s2Qs8BTXFq8TXanyHnk7UmqGVla3LsX6uPmi9Pb6/Io6pz7fRlcWK3h407B6hj6l3tGQxku8r165cO4G5xdiek47iD8jVOVDEbZn1FGwn0y1EXJaMxb1rDU4dV1WTOdkKLaSPKaOdDu5l0EEUSbrlxaScUJ9z7foAiLT+iGAuyMU09bB+cyxLn3liuNpL8FAEQ3ms1uQ1Xk/OAYw==;PSmMJCyKYUdJgbYaIK1iRw=="
 ---

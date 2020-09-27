@@ -84,20 +84,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Cloud Data Integration Market Analysis by Emerging Growth Factors and Revenue Forecast to 2025| Snaplogic, Microsoft, Talend, Software, SAP, Oracle"
-    excerpt: "Cloud data integration solutions allow enterprises to unify data from disparate cloud sources in various formats. Cloud data integration solutions provide standard connectors to other cloud software systems,"
-    publishedDateTime: 2020-05-06T08:06:00Z
-    webUrl: "https://www.marketwatch.com/press-release/cloud-data-integration-market-analysis-by-emerging-growth-factors-and-revenue-forecast-to-2025-snaplogic-microsoft-talend-software-sap-oracle-2020-05-06"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 24
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Global Cloud Applications Market Analysis (2020 to 2026) - Key Players Include Google, Oracle & Adobe Among Others - ResearchAndMarkets.com"
     excerpt: "The \"Global Cloud Applications Market Analysis 2020\" report has been added to ResearchAndMarkets.com's offering. The Global Cloud Applications market is expected to reach $472.92 billion by 2026 growing at a CAGR of 17."
     publishedDateTime: 2020-05-13T15:30:00Z

@@ -6,8 +6,8 @@ publishedDateTime: 2020-09-16T11:00:32Z
 originalUrl: "https://azure.microsoft.com/blog/azure-container-instances-docker-integration-now-in-docker-desktop-stable-release/"
 webUrl: "https://azure.microsoft.com/blog/azure-container-instances-docker-integration-now-in-docker-desktop-stable-release/"
 type: article
-quality: 83
-heat: 123
+quality: 100
+heat: 140
 published: true
 
 provider:
@@ -21,6 +21,7 @@ provider:
 topics:
   - Azure
   - Developer tools
+  - Integration
 
 images:
   - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/9b424351-84c1-4f45-b23f-e34a18d24a9f.gif"

@@ -86,15 +86,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
-  - title: "New Azure VMs for general purpose and memory intensive workloads now available"
-    excerpt: "The new D v4 and E v4 series Azure Virtual Machines feature the Intel Xeon Platinum 8272CL custom processor, can achieve up to 3.4Ghz all core turbo frequency, and offer up to 504 GiB of RAM. "
-    publishedDateTime: 2020-09-01T16:00:06Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/new-azure-vms-for-general-purpose-and-memory-intensive-workloads-now-available/"
+  - title: "Change feed support is now generally available for Azure Blob Storage"
+    excerpt: "Change feed support for Microsoft Azure Blob storage is now generally available."
+    publishedDateTime: 2020-09-09T20:04:54Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/change-feed-support-is-now-generally-available-for-azure-blob-storage/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 63
+    quality: 67
   - title: "Immersive Reader is now generally available"
     excerpt: "Immersive Reader is an Azure Cognitive Service for developers who want to embed inclusive capabilities into their apps for enhancing text reading and comprehension for users regardless of age or ability. "
     publishedDateTime: 2020-08-27T00:35:27Z
@@ -113,33 +113,10 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 46
-  - title: "Azure Firewall Manager is now generally available"
-    excerpt: "Azure Firewall Manager is now generally available, and includes Azure Firewall Policy, Azure Firewall in a Virtual WAN Hub (Secure Virtual Hub), and Hub Virtual Network."
-    publishedDateTime: 2020-07-01T08:00:06Z
-    webUrl: "https://azure.microsoft.com/blog/azure-firewall-manager-is-now-generally-available/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 37
-    images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/48d05065-53c7-4758-8091-6b72d3df73d0.png"
-        width: 1024
-        height: 367
-        isCached: true
-  - title: "Azure Monitor for virtual machines is now generally available"
-    excerpt: ""
-    publishedDateTime: 2020-04-15T16:00:16Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-monitor-for-virtual-machines-is-now-generally-available/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 17
-  - title: "Azure SQL Managed Instance management pack is now generally available"
-    excerpt: "System Center Operations Manager (SCOM) management pack for Azure SQL Managed Instance is now generally available."
-    publishedDateTime: 2020-07-15T23:00:30Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-sql-managed-instance-management-pack-is-now-generally-available/"
+  - title: "Azure Monitor Logs connector is now generally available"
+    excerpt: "Use Azure Logic Apps and Power Automate to create automated workflows using hundreds of actions for a variety of services. The Azure Monitor logs connector is now generally available—use it to build workflows that retrieve data from the Azure Monitor Logs workspace or Application Insights component."
+    publishedDateTime: 2020-07-21T17:31:27Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-monitor-logs-connector-is-now-generally-available/"
     type: article
     provider:
       name: Microsoft

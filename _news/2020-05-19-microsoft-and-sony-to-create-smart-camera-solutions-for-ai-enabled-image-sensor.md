@@ -30,53 +30,37 @@ images:
     title: "Microsoft and Sony to create smart camera solutions for AI-enabled image sensor"
 
 related:
-  - title: "Microsoft just gave the Sony AI camera an Azure brain"
-    excerpt: "It was only last week that Sony showed off its new embedded AI smart camera sensor, and already Microsoft is promising an artificial intelligence for the innovative chip. The Sony IMX500 stacks a"
-    publishedDateTime: 2020-05-18T18:24:00Z
-    webUrl: "https://www.slashgear.com/microsoft-just-gave-the-sony-ai-camera-an-azure-brain-18621080/"
-    ampWebUrl: "https://www.slashgear.com/microsoft-just-gave-the-sony-ai-camera-an-azure-brain-18621080/amp/"
-    cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/microsoft-just-gave-the-sony-ai-camera-an-azure-brain-18621080/amp/"
+  - title: "Five questions for Microsoft EVP of Cloud and AI Scott Guthrie"
+    excerpt: "What's Microsoft's head of Cloud and AI been up to lately? What is he most excited about at Build 2020 and beyond? I asked and ScottGu (sort of) answered."
+    publishedDateTime: 2020-05-20T12:45:00Z
+    webUrl: "https://www.zdnet.com/article/five-questions-for-microsoft-evp-of-cloud-and-ai-scott-guthrie/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/five-questions-for-microsoft-evp-of-cloud-and-ai-scott-guthrie/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/five-questions-for-microsoft-evp-of-cloud-and-ai-scott-guthrie/"
     type: article
     provider:
-      name: SlashGear
-      domain: slashgear.com
-    quality: 97
-    images:
-      - url: "https://cdn.slashgear.com/wp-content/uploads/2020/05/sony-intelligent-vision-sensor-1.jpg"
-        width: 2307
-        height: 1334
-        isCached: true
-  - title: "Sony to use Microsoft’s Azure AI technology in new smart camera sensors"
-    excerpt: "Sony Semiconductor Solutions says it will embed Microsoft’s Azure AI technology into its new intelligent vision sensor for smart cameras under a partnership between the companies. Sony will also"
-    publishedDateTime: 2020-05-18T21:05:00Z
-    webUrl: "https://www.geekwire.com/2020/sony-use-microsofts-azure-ai-technology-new-smart-camera-sensors/"
-    ampWebUrl: "https://www.geekwire.com/2020/sony-use-microsofts-azure-ai-technology-new-smart-camera-sensors/amp/"
-    cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/sony-use-microsofts-azure-ai-technology-new-smart-camera-sensors/amp/"
-    type: article
-    provider:
-      name: GeekWire
-      domain: geekwire.com
-    quality: 97
-    images:
-      - url: "https://cdn.geekwire.com/wp-content/uploads/2020/05/sony-to-use-microsoft-azure-arti-1260x709.jpg"
-        width: 1260
-        height: 709
-        isCached: true
-  - title: "Sony and Microsoft team up on AI-powered cameras"
-    excerpt: "Sony and Microsoft are working on AI-powered cameras together. The two tech giants have announced that they’re embedding Microsoft Azure’s AI capabilities into Sony’s new image sensor, the IMX500, which comes with an onboard AI chip that processes information in real time."
-    publishedDateTime: 2020-05-19T09:17:00Z
-    webUrl: "https://www.engadget.com/sony-microsoft-team-up-ai-powered-cameras-091449976.html"
-    ampWebUrl: "https://www.engadget.com/amp/sony-microsoft-team-up-ai-powered-cameras-091449976.html"
-    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/sony-microsoft-team-up-ai-powered-cameras-091449976.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
+      name: ZDNet
+      domain: zdnet.com
     quality: 82
     images:
-      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2020-05%2F9229e060-999b-11ea-939f-54acbb91a315&client=amp-blogside-v2&signature=f4675774e49d1699bc2ea8c11f3f382adaf9a6e7"
-        width: 600
-        height: 350
+      - url: "https://zdnet3.cbsistatic.com/hub/i/2020/05/20/9e85075f-4425-4576-995a-976a4acc1b40/guthriewhereareyou.jpg"
+        width: 1071
+        height: 728
+        isCached: true
+  - title: "Microsoft: Bosque is a new programming language built for AI in the cloud"
+    excerpt: "Microsoft works on a programming language that could bring it a win with hardware accelerators in Azure AI workloads."
+    publishedDateTime: 2020-05-13T12:55:00Z
+    webUrl: "https://www.zdnet.com/article/microsoft-bosque-is-a-new-programming-language-built-for-ai-in-the-cloud/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-bosque-is-a-new-programming-language-built-for-ai-in-the-cloud/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-bosque-is-a-new-programming-language-built-for-ai-in-the-cloud/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 81
+    images:
+      - url: "https://zdnet4.cbsistatic.com/hub/i/r/2019/05/20/c0a3728a-9463-417d-93bf-d74610a70832/thumbnail/1200x675/98371f48b0fedbacaa1c37916d28d557/programming-languages-why-javascript-dev-5cdd547cbd785600c4d4e0c0-1-may-20-2019-22-25-49-poster.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Sony Adds Microsoft-Powered Artificial Intelligence to IMX500 Video Camera Sensors"
     excerpt: "Sony is making video cameras smarter. The IMX500 line of intelligent video sensors will come with embedded access to artificial intelligence (AI) tools from Microsoft (NASDAQ:MSFT"
@@ -94,49 +78,35 @@ related:
         width: 1200
         height: 925
         isCached: true
-  - title: "Microsoft and Sony partner to make smart cameras smarter with Azure AI"
-    excerpt: "Microsoft and Sony announced a partnership today that will bring Azure AI smarts to Sony's intelligent vision sensor IMX500. The combination is intended to result in faster analysis for enterprise scenarios."
-    publishedDateTime: 2020-05-18T20:16:00Z
-    webUrl: "https://www.windowscentral.com/microsoft-and-sony-partner-make-smart-cameras-smarter-azure-ai"
-    ampWebUrl: "https://www.windowscentral.com/microsoft-and-sony-partner-make-smart-cameras-smarter-azure-ai?amp"
-    cdnAmpWebUrl: "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/microsoft-and-sony-partner-make-smart-cameras-smarter-azure-ai?amp"
+  - title: "Microsoft, Google and WIMI’s Deep Learning Accelerates the Development of AI"
+    excerpt: "Over the past decade, machine learning, particularly deep learning methods based on artificial neural networks,"
+    publishedDateTime: 2020-05-13T20:59:00Z
+    webUrl: "https://www.marketwatch.com/press-release/microsoft-google-and-wimis-deep-learning-accelerates-the-development-of-ai-2020-05-13"
     type: article
     provider:
-      name: Windows Central
-      domain: windowscentral.com
-    quality: 57
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 59
     images:
-      - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2019/11/microsoft-logo-ignite-2019.jpg?itok=T29z3T0D"
-        width: 800
-        height: 600
-        isCached: true
-  - title: "Microsoft helps Sony power the world’s first AI image sensor with Azure"
-    excerpt: "Sony is the top image sensor supplier to the smartphone industry and has a presence in other segments as well. The IMX500 is designed to power enterprise systems such as industrial cameras for monitoring product lines."
-    publishedDateTime: 2020-05-19T16:59:00Z
-    webUrl: "https://siliconangle.com/2020/05/19/microsoft-helps-sony-power-worlds-first-ai-image-sensor-azure/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 37
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/05/microsoft-3.png"
-        width: 718
-        height: 400
-        isCached: true
-  - title: "Microsoft is integrating Azure AI into Sony’s smart camera sensors"
-    excerpt: "The two companies plan to embed Microsoft Azure AI capabilities onto Sony's new intelligent vision sensors, which were recently unveiled."
-    publishedDateTime: 2020-05-19T10:34:00Z
-    webUrl: "https://www.siliconrepublic.com/machines/microsoft-azure-sony-smart-camera-sensors-ai"
-    type: article
-    provider:
-      name: SiliconRepublic
-      domain: siliconrepublic.com
-    quality: 37
-    images:
-      - url: "https://www.siliconrepublic.com/wp-content/uploads/2020/05/microsoft-1.png"
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
-        height: 900
+        height: 630
+        isCached: true
+  - title: "Cisco fortifies ACI for Amazon, Microsoft integration and multicloud management"
+    excerpt: "Cisco has upgraded its core networking software to include better support for multicloud integration and management as well as tools to help telcos or hyperscalers tie together large scale data center networks."
+    publishedDateTime: 2020-05-23T01:09:00Z
+    webUrl: "https://www.networkworld.com/article/3545396/cisco-fortifies-aci-for-amazon-microsoft-integration-and-multicloud-management.html"
+    ampWebUrl: "https://www.networkworld.com/article/3545396/cisco-fortifies-aci-for-amazon-microsoft-integration-and-multicloud-management.amp.html"
+    cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3545396/cisco-fortifies-aci-for-amazon-microsoft-integration-and-multicloud-management.amp.html"
+    type: article
+    provider:
+      name: Network World
+      domain: networkworld.com
+    quality: 38
+    images:
+      - url: "https://images.techhive.com/images/article/2014/12/abstract_rack_of_servers-100538194-large.jpg"
+        width: 1200
+        height: 797
         isCached: true
 
 secured: "VYszav61PHnonzl2TCDJC4tXs3iZsGrI+jYkIuR3TLEqkl96ZfFlJrn77tm+TX4hmvzbsu8WkYc0zOTFykYnDYuNoDqd3byK2lIJg3YLxsi5MMrmXkPz7SXj5KONeyXHgHzIybNbqPSKr8KPeXSl6oarRAH8mK38+020rMJXVdnw5VIaggddblAp4FNiwYHylxnL+ZJXY9epdkcD1MCuk+msiNTlaRShbbEJXxHIYQqLG/L4stHqCZhsefuUPQFfB/S6NnCiJYDKFPKS1sI+XXKIQmEy/utf2y9NFH4lPJRaolyu0A2xhbOlKWmKrgPhavRtkHtM/fk7WrHks4JmDiLgoqwgG3bkE+gq96m8ptIKWv0WEaMh8qC6MFvKVjA8DK+dNBScDv9ScEr0hyawaOcSlwUFqS7bZ2rROolcXhf+H7loRxIEL4bB80gh4XTOAFEXT9tuPDN3NiRCuD4RHZC4//34YGBiKVezAcidcZw=;QBK8LHckVONmpzCG+vfcBw=="

@@ -58,7 +58,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 58
+    quality: 73
   - title: "Announcing the general availability of Azure Monitor for virtual machines"
     excerpt: "Today we're announcing the general availability of Azure Monitor for virtual machines (VMs), which provides an in-depth view of VM performance trends and dependencies. You can access Azure Monitor for VMs from the Azure VM resource blade to view details about a single VM, from the Azure Virtual Machine"
     publishedDateTime: 2020-03-16T10:00:32Z

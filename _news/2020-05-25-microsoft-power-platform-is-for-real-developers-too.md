@@ -8,7 +8,7 @@ ampWebUrl: "https://www.itworld.com/article/3545369/microsoft-power-platform-is-
 cdnAmpWebUrl: "https://www-itworld-com.cdn.ampproject.org/c/s/www.itworld.com/article/3545369/microsoft-power-platform-is-for-real-developers-too.amp.html"
 type: article
 quality: 42
-heat: -1
+heat: 42
 published: false
 
 provider:
@@ -26,73 +26,45 @@ images:
     title: "Microsoft: Power Platform is for real developers, too"
 
 related:
-  - title: "Docker expands relationship with Microsoft to ease developer experience across platforms"
-    excerpt: "When Docker sold off its enterprise division to Mirantis last fall, that didn’t mark the end of the company. In fact, Docker still exists and has refocused as a cloud-native developer tools vendor. Today it announced an expanded partnership with Microsoft around simplifying running Docker"
-    publishedDateTime: 2020-05-27T18:48:00Z
-    webUrl: "https://techcrunch.com/2020/05/27/docker-expands-relationship-with-microsoft-to-ease-developer-experience-across-platforms/"
-    ampWebUrl: "https://techcrunch.com/2020/05/27/docker-expands-relationship-with-microsoft-to-ease-developer-experience-across-platforms/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/27/docker-expands-relationship-with-microsoft-to-ease-developer-experience-across-platforms/amp/"
+  - title: "Microsoft Bing Maps is switching to TomTom for base map data"
+    excerpt: "Microsoft first started gradually rolling out the new TomTom base map data to Bing.com users and Microsoft first party products in March 2020. From today, Microsoft is transitioning the data for Bing Maps Platform."
+    publishedDateTime: 2020-06-01T14:24:00Z
+    webUrl: "https://mspoweruser.com/microsoft-bing-maps-switching-tomtom/"
+    ampWebUrl: "https://mspoweruser.com/microsoft-bing-maps-switching-tomtom/amp/"
+    cdnAmpWebUrl: "https://mspoweruser-com.cdn.ampproject.org/c/s/mspoweruser.com/microsoft-bing-maps-switching-tomtom/amp/"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 75
+      name: MSPoweruser
+      domain: mspoweruser.com
+    quality: 42
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/05/IMG_0961-2.jpg?w=1024"
-        width: 1024
-        height: 768
+      - url: "https://mspoweruser.com/wp-content/uploads/2016/12/Microsoft-Tom-Tom.jpg"
+        width: 1230
+        height: 796
         isCached: true
-  - title: "Docker and Microsoft join forces to simplify container projects on Azure"
-    excerpt: "Its partnership with Docker dates back to the earliest days of the effort. The collaboration the companies announced today focuses on easing the logistics involved in developing microservices-based applications for cloud environments."
-    publishedDateTime: 2020-05-27T20:23:00Z
-    webUrl: "https://siliconangle.com/2020/05/27/docker-microsoft-join-forces-simplify-container-projects-azure/"
+  - title: "Microsoft and Mubadala lining up yet more Jio Platforms investment"
+    excerpt: "Jio Plaforms’ hot streak of investment continues, with Microsoft reportedly in talks to buy a 2.5% stake for US$2 billion."
+    publishedDateTime: 2020-06-01T14:54:00Z
+    webUrl: "https://www.developingtelecoms.com/telecom-business/telecom-investment-mergers/9602-microsoft-and-mubadala-lining-up-yet-more-jio-platforms-investment.html"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 36
+      name: developingtelecoms.com
+      domain: developingtelecoms.com
+    quality: 22
     images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/05/Johnston-768x512.jpg"
-        width: 768
-        height: 512
-        isCached: true
-  - title: "Docker Extends Collaboration with Microsoft Azure to Boost Developer Productivity"
-    excerpt: "Docker today announced that it has extended its strategic collaboration with Microsoft to simplify code to cloud application development for developers and development teams by more closely integrating with Azure Container Instances (ACI)."
-    publishedDateTime: 2020-05-27T16:00:00Z
-    webUrl: "https://apnews.com/2fe98091652be001e8637122249be3f6"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 32
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "DevOps Enabler & Co. achieves a Microsoft Gold DevOps and Cloud Platform Competency"
-    excerpt: "DevOps Enabler & Co., the company behind an exclusive startup bundle for organizations that want to scale their operations, today announced it has attained a gold Microsoft DevOps and Cloud Platform competency,"
-    publishedDateTime: 2020-06-01T07:21:00Z
-    webUrl: "https://www.sify.com/finance/devops-enabler--co-achieves-a-microsoft-gold-devops-and-cloud-platform-competency-news-topnews-ugbqn5hgeidac.html"
-    type: article
-    provider:
-      name: Sify.com
-      domain: sify.com
-    quality: 16
-    images:
-      - url: "https://www.sify.com/uploads/DevOpsEnabler_ugbqn5hgfaeea.jpg"
+      - url: "https://www.developingtelecoms.com/images/stories/Places/Mexico_City_Zocalo_Cathedral600.jpg"
         width: 600
         height: 450
         isCached: true
-  - title: "DevOps Enabler & Co. Achieves a Microsoft Gold DevOps and Cloud Platform Competency"
-    excerpt: "Bengaluru, Karnataka, India: DevOps Enabler & Co., the company behind an exclusive startup bundle for organizations that want to scale their operations, today announced it has attained a gold Microsoft DevOps And Cloud Platform competency, demonstrating a “best-in-class” ability and commitment to meet Microsoft Corp. customers’ evolving ..."
-    publishedDateTime: 2020-06-02T08:18:00Z
-    webUrl: "https://www.businesswireindia.com/devops-enabler-and-co-achieves-a-microsoft-gold-devops-and-cloud-platform-competency-68193.html"
+  - title: "Microsoft: Purchase The Modern Day Railroads For Market Beating Returns"
+    excerpt: "Microsoft's 'Nadellaissance' is the turnaround story of the last decade with a cultural shift at the epicenter of it all. Azure continues to boom, as it lays th"
+    publishedDateTime: 2020-05-22T13:47:00Z
+    webUrl: "https://seekingalpha.com/article/4349431-microsoft-purchase-modern-day-railroads-for-market-beating-returns"
     type: article
     provider:
-      name: Business Wire
-      domain: businesswireindia.com
-    quality: 0
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 2
 
 secured: "BBxzgXl/RYLcG3ZB25Cgy14BDDEui40DiALaHTGe/7hYn4xM4pIM9gZE+ILeyeKJuKvHo6QmLBC0a81sWEDjDOtCatapq3fVkfr7Ht48TpBFLkY/bcVxAQSsb+f5SyXYtTvDMSejDY5EUwok6o4UysrGc2RtymgLL3PLJhe0snpB2NMQAfO2FucXJjo8+ciubLvf0WgNdhzqW6B+2csBFjmxDtW3B1DsymYnJso/S3F+BNcbARMWHBqSVIzd2OPmS5f56Hz7dLdtJOx0TXra/IJ4U587+uF5Mnji3TG+qg1XlY4P1TImvuRxcpjKN0dG;StzbiVlhDtq5FwS623hsdw=="
 ---

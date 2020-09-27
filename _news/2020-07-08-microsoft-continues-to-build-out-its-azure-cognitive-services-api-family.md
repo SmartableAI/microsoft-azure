@@ -30,109 +30,36 @@ images:
     title: "Microsoft continues to build out its Azure Cognitive Services API family"
 
 related:
-  - title: "Microsoft partners with Land O’Lakes to build agriculture tech on Azure"
-    excerpt: "Microsoft’s latest cloud partnership is with Land O’Lakes, the farming giant which will use Microsoft’s Azure technologies to spur sustainable farming practices and help farmers be more efficient."
-    publishedDateTime: 2020-07-15T18:08:00Z
-    webUrl: "https://www.geekwire.com/2020/microsoft-partners-land-olakes-build-agriculture-tech-azure/"
-    ampWebUrl: "https://www.geekwire.com/2020/microsoft-partners-land-olakes-build-agriculture-tech-azure/amp/"
-    cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/microsoft-partners-land-olakes-build-agriculture-tech-azure/amp/"
+  - title: "Azure AI: Build mission-critical AI apps with new Cognitive Services capabilities"
+    excerpt: "As the world adjusts to new ways of working and staying connected, we remain committed to providing Azure AI solutions to help organizations invent with purpose."
+    publishedDateTime: 2020-07-08T08:00:52Z
+    webUrl: "https://azure.microsoft.com/blog/azure-ai-build-missioncritical-ai-apps-with-new-cognitive-services-capabilities/"
     type: article
     provider:
-      name: GeekWire
-      domain: geekwire.com
-    quality: 97
+      name: Microsoft
+      domain: microsoft.com
+    quality: 99
     images:
-      - url: "https://cdn.geekwire.com/wp-content/uploads/2020/07/1.jpeg"
-        width: 950
-        height: 632
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/6c142214-bbee-499c-bf07-e565fcbc4294.jpg"
+        width: 1024
+        height: 576
         isCached: true
-  - title: "Microsoft and Samsung partner to digitize building maintenance via Azure and smart appliances"
-    excerpt: "The companies will pair Samsung’s smart home appliances and devices with Microsoft’s Azure cloud technology, with the aim of improving building maintenance practices. “This collaboration with Samsung opens up new opportunities for further innovation ..."
-    publishedDateTime: 2020-07-13T17:12:00Z
-    webUrl: "https://www.geekwire.com/2020/microsoft-samsung-partner-digitize-building-maintenance-via-azure-smart-appliances/"
-    ampWebUrl: "https://www.geekwire.com/2020/microsoft-samsung-partner-digitize-building-maintenance-via-azure-smart-appliances/amp/"
-    cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/microsoft-samsung-partner-digitize-building-maintenance-via-azure-smart-appliances/amp/"
+  - title: "Microsoft announces new Azure AI capabilities for apps, healthcare, and more"
+    excerpt: "The latest announcements will help companies enhance their voice-enabled application experiences and provide critical data management across healthcare industries."
+    publishedDateTime: 2020-07-08T20:50:00Z
+    webUrl: "https://www.techrepublic.com/article/microsoft-announces-new-azure-ai-capabilities-for-apps-healthcare-and-more/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/article/microsoft-announces-new-azure-ai-capabilities-for-apps-healthcare-and-more/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-announces-new-azure-ai-capabilities-for-apps-healthcare-and-more/"
     type: article
     provider:
-      name: GeekWire
-      domain: geekwire.com
-    quality: 86
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 94
     images:
-      - url: "https://cdn.geekwire.com/wp-content/uploads/2016/04/IMG_9235-1240x827.jpg"
-        width: 1240
-        height: 827
+      - url: "https://tr4.cbsistatic.com/hub/i/r/2020/06/10/27946bf8-707b-4774-8f90-fe1121ea78b4/resize/1200x/57eed99cd6ea6ce4842383677842ede0/artificial-intelligence-image.jpg"
+        width: 1200
+        height: 836
         isCached: true
-  - title: "Microsoft and Citrix commit to moving on-premises Citrix users to Azure"
-    excerpt: "Microsoft and Citrix have been partners for more than two decades. On July 14, Microsoft provided an update on its ongoing Citrix relationship, a week ahead of Microsoft's annual Inspire worldwide partner conference."
-    publishedDateTime: 2020-07-14T16:58:00Z
-    webUrl: "https://www.zdnet.com/article/microsoft-and-citrix-commit-to-moving-on-premises-citrix-users-to-azure/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-and-citrix-commit-to-moving-on-premises-citrix-users-to-azure/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-and-citrix-commit-to-moving-on-premises-citrix-users-to-azure/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 77
-  - title: "Microsoft and Citrix Partnership Shifts to Citrix Workspace and Microsoft Azure"
-    excerpt: "Microsoft and Citrix this week outlined the current direction of their longtime collaborative partnership efforts."
-    publishedDateTime: 2020-07-15T22:11:00Z
-    webUrl: "https://redmondmag.com/articles/2020/07/15/microsoft-citrix-partnership-shifts.aspx"
-    type: article
-    provider:
-      name: Redmond Magazine
-      domain: redmondmag.com
-    quality: 33
-    images:
-      - url: "https://redmondmag.com/-/media/ECG/VirtualizationReview/Images/introimages2014/140813VRTCloudOrchestration.jpg"
-        width: 647
-        height: 450
-        isCached: true
-  - title: "IFI Techsolutions Recognized as a Finalist of OSS on Azure 2020 Microsoft Partner of the Year"
-    excerpt: "IFI Techsolutions today announced it has been named a finalist of OSS on Azure 2020 Microsoft Partner of the Year Award. The company"
-    publishedDateTime: 2020-07-13T19:30:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/ifi-techsolutions-recognized-as-a-finalist-of-oss-on-azure-2020-microsoft-partner-of-the-year-301092416.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 26
-    images:
-      - url: "https://mma.prnewswire.com/media/1213735/IFI_Techsolutions_Finalist_Microsoft_Partner_Award.jpg?p=facebook"
-        width: 2560
-        height: 1340
-        isCached: true
-  - title: "IFI Techsolutions Recognized as a Finalist of OSS on Azure 2020 Microsoft Partner of the Year"
-    excerpt: "MUMBAI, July 14, 2020 /PRNewswire/ -- IFI Techsolutions today announced it has been named a finalist of OSS on Azure 2020 Microsoft Partner of the Year Award. The company was honored among a global field of top Microsoft partners for demonstrating ..."
-    publishedDateTime: 2020-07-14T04:50:00Z
-    webUrl: "https://www.prnewswire.com/in/news-releases/ifi-techsolutions-recognized-as-a-finalist-of-oss-on-azure-2020-microsoft-partner-of-the-year-830017699.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 26
-    images:
-      - url: "http://mma.prnewswire.com/media/1213735/IFI_Techsolutions_Finalist_Microsoft_Partner_Award.jpg?p=facebook"
-        width: 2560
-        height: 1340
-        isCached: true
-  - title: "Microsoft price target raised on Azure growth"
-    excerpt: "Citing ongoing cloud growth, Wedbush lifts Microsoft's (NASDAQ:MSFT) price target form $220 to $260. Analyst Daniel Ives says the pandemic-related remote work trend \"is further catalyzing more ..."
-    publishedDateTime: 2020-07-09T11:35:00Z
-    webUrl: "https://seekingalpha.com/news/3589771-microsoft-price-target-raised-on-azure-growth"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 17
-  - title: "Microsoft And Partners Bring More Hyperconverged Hybrid Cloud Options To Azure"
-    excerpt: "When it comes to cloud computing, there's little doubt that we're in a hybrid world. At the company's partner-focused Inspire event, Microsoft unveiled several new hybrid cloud-focused additions to its Azure cloud computing platform."
-    publishedDateTime: 2020-07-22T17:26:00Z
-    webUrl: "https://seekingalpha.com/article/4359924-microsoft-and-partners-bring-hyperconverged-hybrid-cloud-options-to-azure"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 13
 
 secured: "7TAC3s3dE2y+uNp3QPP0wXc0Ty5gPGpbvoytGsQO0IYr5ukEuoUzj23n/Qonf+nFQjadLn0Gfk/DylaPlETvCSvEzFXqkkY3xwCs14OikHmW5BY5J4WfG7EbUDfneJaBtCjhMgagwKfVr0ZDC9VbtVu7Q1ANUS1W3Fc3uOdRbmES9eL4I8dPXMfuyACqETU/GD2vzarzGaRLH2UG/B2swFXdSRVLAUUi94OCNP0Uqm9Tw9w1yvWTyMcFc5kmH+rrideKeDM5xtq47e92OSiDHcnjkLL+JzVhcggUkreC1czETTk4OnJ39E1qMB47VYotNXIqHYpPfmK5NGwRg9U96YuI9s/eUm6Mz+ERxJZGnXcrOggE/kT2T22oqUIwyoZAQ3VeOKIUgcLWAagpPoFvKXDVlr7DbVjkkFiyfW98wYRW38CGQc+tF7t5/RLQg8fj5Usc/+qO4GYjIpqD3o6J+HHjm7pNNiEfXLzTMweoCURNMkhJpsXlOlwVPPEqJ4ZGsbfMnsQXEV7MVf9tWaRbxw==;ILtPUbEqK6HH4ev2lIyh6A=="
 ---

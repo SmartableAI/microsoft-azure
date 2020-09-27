@@ -5,8 +5,8 @@ excerpt: "Continuing our Azure reliability series to be as transparent as possib
 publishedDateTime: 2019-12-17T10:00:15Z
 webUrl: "https://azure.microsoft.com/blog/advancing-azure-active-directory-availability/"
 type: article
-quality: 19
-heat: 19
+quality: 34
+heat: 34
 published: false
 
 provider:

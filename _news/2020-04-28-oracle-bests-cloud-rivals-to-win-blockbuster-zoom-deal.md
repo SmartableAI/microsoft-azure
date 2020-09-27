@@ -24,6 +24,31 @@ images:
     title: "Oracle Bests Cloud Rivals To Win Blockbuster Zoom Deal"
 
 related:
+  - title: "Oracle Wins Cloud Computing Deal With Zoom as Video Calls Surge"
+    excerpt: "Zoom Video Communications Inc said on Tuesday it has started using Oracle Corp's cloud computing service to help handle the surge in online video call volumes brought on by the novel coronavirus pandemic."
+    publishedDateTime: 2020-04-28T12:07:00Z
+    webUrl: "https://www.usnews.com/news/technology/articles/2020-04-28/oracle-wins-cloud-computing-deal-with-zoom-as-video-calls-surge"
+    ampWebUrl: "https://www.usnews.com/news/technology/articles/2020-04-28/oracle-wins-cloud-computing-deal-with-zoom-as-video-calls-surge?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2020-04-28/oracle-wins-cloud-computing-deal-with-zoom-as-video-calls-surge?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 62
+  - title: "Zoom teams up with Oracle Cloud to support 'sudden spike' in video calls in the coronavirus crisis."
+    excerpt: "Zoom saw a surge in demand and is now turning to Oracle cloud to manage a \"sudden spike\" in video calls."
+    publishedDateTime: 2020-04-28T16:00:00Z
+    webUrl: "https://www.businessinsider.com/zoom-oracle-cloud-partnership-sudden-spike-video-calls-2020-4"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 48
+    images:
+      - url: "https://i.insider.com/56e9935e910584145c8b69c4?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Oracle Views Clear Benefits From Cloud Deal With Zoom"
     excerpt: "Oracle gained some bragging rights in the competitive cloud infrastructure sector after landing a deal with Zoom Video."
     publishedDateTime: 2020-04-28T15:23:00Z

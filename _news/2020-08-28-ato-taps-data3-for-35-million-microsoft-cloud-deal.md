@@ -24,37 +24,21 @@ images:
     isCached: true
 
 related:
-  - title: "Snowflake files for IPO, taking on Amazon and Microsoft cloud database businesses"
-    excerpt: "Snowflake said in its IPO prospectus that revenue in the first half of 2020 more than doubled to $242 million, while its net loss narrowed slightly to $171.3 million."
-    publishedDateTime: 2020-08-24T21:19:00Z
-    webUrl: "https://www.cnbc.com/2020/08/24/snowflake-files-s-1-for-ipo.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2020/08/24/snowflake-files-s-1-for-ipo.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/08/24/snowflake-files-s-1-for-ipo.html"
+  - title: "Microsoft cloud vets raise $26M for drug prescription data platform Prescryptive Health"
+    excerpt: "Seattle startup Prescryptive Health raised $26 million for its prescription data platform software. Founded in 2017 by Microsoft commercial cloud vets Chris Blackley and Kevin"
+    publishedDateTime: 2020-08-25T17:36:00Z
+    webUrl: "https://www.geekwire.com/2020/microsoft-cloud-vets-raise-26m-drug-prescription-data-platform-prescryptive-health/"
+    ampWebUrl: "https://www.geekwire.com/2020/microsoft-cloud-vets-raise-26m-drug-prescription-data-platform-prescryptive-health/amp/"
+    cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/microsoft-cloud-vets-raise-26m-drug-prescription-data-platform-prescryptive-health/amp/"
     type: article
     provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 77
+      name: GeekWire
+      domain: geekwire.com
+    quality: 74
     images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106660668-1598305641096-snow.jpg?v=1598306191"
-        width: 790
-        height: 527
-        isCached: true
-  - title: "Birlasoft aims to scale Microsoft cloud business to $100 million"
-    excerpt: "The cloud alliance with Microsoft will help clients accelerate their digital journey, a statement said. “With this collaboration, Birlasoft is strategically positioned to support its enterprise clients with their cloud transformation needs, right from ..."
-    publishedDateTime: 2020-08-18T11:24:00Z
-    webUrl: "https://www.financialexpress.com/industry/technology/birlasoft-aims-to-scale-microsoft-cloud-business-to-100-million/2058804/"
-    ampWebUrl: "https://www.financialexpress.com/industry/technology/birlasoft-aims-to-scale-microsoft-cloud-business-to-100-million/2058804/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/technology/birlasoft-aims-to-scale-microsoft-cloud-business-to-100-million/2058804/lite/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 42
-    images:
-      - url: "https://images.financialexpress.com/2020/08/Birls-Soft-660.jpg"
-        width: 660
-        height: 440
+      - url: "https://cdn.geekwire.com/wp-content/uploads/2020/08/Chris-Blackley-headshot-scaled-1-840x1260.jpg"
+        width: 840
+        height: 1260
         isCached: true
 
 secured: "LJVAxAIb7qX0MzebbWGZUytBLaT1t9/wrjaefJEJ0i4SP9BCmvayH+hfSY18DkUPjsYga7kCqYHrOZKCKg3E38ge/RBc6R8FRuSxpcg0CKlClCPDP2Ykn5NTO7M4PYfRxuMrsxQlXCIyNcVFHpf8jDKyGRi507TqV9NuLKf7vIw0IzTWdR8CmMIfpftMewrPHJuJ9lwrDcyGzpA+b+NZAlIDxP792J0ZqGQcZNnmvi+O77TkIJm/veB+lGYQ5Sz6Ttt1E2AJa8U9jqFMRioSDrAtc32Weem9DM0fJBcAY0WeaEqZ+8qH1ezEWjNe4G+jyfnAXS6XC80WmXzjBQRLIt5TtbwEKweudfkCOrY3jqR0nPwKcy5wgvATg++Su8otq4nwTAmcv1qo61Ctio0gI/a7nNNC7il41nhcL9KHQ5weFngATCZAMbl5SxU//BGuQAnYqPCSiuVj4B/zl4p0t/BnS03wG4NUR7M/PVG6eFxvgtfH+uFKpI43j5z48nuMbOovxA3QmvKAQFZFhDr1D9nFyzI1nonlFNpEtthC4KM=;ODM74lNuSVYO59bt3hwM+A=="

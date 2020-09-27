@@ -31,15 +31,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
-  - title: "Azure Private Link for Azure Cache for Redis now in preview"
-    excerpt: "You can now use Azure Private Link to connect to an Azure Cache for Redis instance from your virtual network via a private endpoint, which is assigned a private IP address in a subnet within the virtual network."
-    publishedDateTime: 2020-09-02T16:00:02Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-private-link-for-azure-cache-for-redis-now-in-preview/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 67
   - title: "Azure Private Link for Azure Monitor is now available"
     excerpt: ""
     publishedDateTime: 2020-05-22T22:00:01Z
@@ -49,15 +40,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 17
-  - title: "Azure Relay—Azure Private Link support for sender clients is now available in preview"
-    excerpt: ""
-    publishedDateTime: 2020-05-18T21:00:03Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-relay-private-link-support-preview/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 10
 
 secured: "M6cMPOZNppt67VD/6hLt/7Ig4X20EzqNV97lOoUBeDqdFzLDJYBoBNEuyynzNh40loCrWU9kK83ZQYMPwZGUbtkS48eB+mWB7+rZLHi8qf7BsLsJ6HFBZZFvr6Xgso9HlO3CfcNky2AH99hNcmUXrHqLTYEX/SL6eN/PUvOP4uhW8+UPJyIrAZUOVCFwsafBkN7799kaYrYYK6zGLdhV8sIsHUO8vGqMr4rbZLT9W7VN7n9c1k88vl06ge/E0CYYWDWfkc0b02BFraTrp4MRxkC3M/4JMp/iQ0bW2yoEWHRniOG3qrV1XH93Gu69i7bzGDgowLEoF1EaRA6qoY876pEa5ZqdN1bV/DrRGy7FeZY=;nv08zDcXJWCR+4F2rDIE/Q=="
 ---

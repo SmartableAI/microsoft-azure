@@ -30,24 +30,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 50
-  - title: "Azure Cosmos DB Management with PowerShell cmdlets is in public preview"
-    excerpt: "Now in preview, users can manage Azure Cosmos DB resources using a set of PowerShell cmdlets, available in the Az.CosmosDB Powershell module. The Az.CosmosDB module can be used with Windows PowerShell 5.1 as well as cross-platform PowerShell Core 6 or 7."
-    publishedDateTime: 2020-08-05T16:00:03Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-cosmos-db-management-with-powershell-cmdlets-is-in-public-preview/"
+  - title: "Selective disks backup for Azure Virtual Machine is in public preview"
+    excerpt: "Optimize your costs and enjoy faster backup and restore operations by selectively backing up a subset of the data disks in a VM."
+    publishedDateTime: 2020-08-06T18:00:12Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/selective-disks-backup-for-azure-virtual-machine-is-in-public-preview/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
     quality: 17
-  - title: "Data encryption with customer managed keys for Azure DB for PostgreSQL-single server "
-    excerpt: "Data encryption with customer-managed keys for Azure Database for PostgreSQL-single server (generally available) enables you to bring your own key (BYOK) for data protection at rest. "
-    publishedDateTime: 2020-08-10T16:00:07Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/data-encryption-with-customer-managed-keys-for-azure-db-for-postgresqlsingle-server/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 10
   - title: "Data encryption with customer managed keys for Azure Database for MySQL is now generally "
     excerpt: "Data encryption with customer-managed keys for Azure Database for MySQL enables you to bring your own key (BYOK) for data protection at rest. "
     publishedDateTime: 2020-08-10T16:00:05Z
@@ -57,33 +48,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 8
-  - title: "Infrastructure double encryption for Azure Database for PostgreSQL-single server is in preview"
-    excerpt: "Infrastructure double encryption adds a second layer of encryption using a FIPS 140-2 validated cryptographic module and a different encryption algorithm which gives an additional layer of protection for your data at rest."
-    publishedDateTime: 2020-08-10T16:00:06Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/infrastructure-double-encryption-for-azure-database-for-postgresqlsingle-server-is-in-public-preview/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 5
-  - title: "Azure Database for MySQL support for encryption at rest using customer-managed keys now in preview"
-    excerpt: ""
-    publishedDateTime: 2020-06-08T16:00:20Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-database-for-mysql-encryption-at-rest-byok-preview/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 3
-  - title: "Kubernetes resource view is in public preview"
-    excerpt: "Kubernetes resource view allows developers to use point and click navigation to see live, in-depth details of their workloads."
-    publishedDateTime: 2020-08-05T16:00:01Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/kubernetes-resource-view-is-in-public-preview/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 2
 
 secured: "L/UtgqDkbCVVTDihb3axs/iyQvDGlFwBMklxMGKQfV6qd5OAzdAIZFFluNIhpmJHpWoBePvWWXJA+4aeUb2UNYPe79kTi+VQQPIiGd63A57oWJdB1j3tbH5A6KqFydxwMnfMOxcWh2E/+bKj7KXXcF7bagCaZ+9AOoHOzORabu3JaU/+dPEHyAG31TreqAwPRkuqm6770q1eNDzSQx4rZNa7PyXS2dhJoimRwcuKy/KyyYutTZ74EpGoYkJUJ/C48jv+jR5E3N78M9qYyjaG/6PzL817CAEKYDTn2ny7TZhDD9zL8e8amGm2t+uYTF/5gSIICCvClDdapXPdjzZjbg==;jyB1iZwhydT21YgX92SjMg=="
 ---

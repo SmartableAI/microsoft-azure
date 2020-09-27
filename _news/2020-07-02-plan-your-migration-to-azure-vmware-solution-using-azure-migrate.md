@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-02T08:00:02Z
 originalUrl: "https://azure.microsoft.com/blog/plan-your-migration-to-azure-vmware-solution-using-azure-migrate/"
 webUrl: "https://azure.microsoft.com/blog/plan-your-migration-to-azure-vmware-solution-using-azure-migrate/"
 type: article
-quality: 104
+quality: 119
 heat: -1
 published: false
 
@@ -38,7 +38,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 106
+    quality: 121
     images:
       - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/b1ef990c-46e2-4a1f-b878-3c9a016d9b97.jpg"
         width: 1024

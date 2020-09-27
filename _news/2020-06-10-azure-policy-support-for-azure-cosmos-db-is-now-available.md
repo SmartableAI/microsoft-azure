@@ -21,6 +21,15 @@ topics:
   - Azure
 
 related:
+  - title: "Windows Server containers in AKS is now available in Azure Government"
+    excerpt: "Windows Server containers in AKS is now available in Azure Government. "
+    publishedDateTime: 2020-06-10T16:00:25Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/windows-server-containers-in-aks-is-now-available-in-azure-government/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 17
   - title: "Azure App Service hybrid connections for Linux apps is now available"
     excerpt: "The hybrid connections feature of Azure App Service, which enables access to resources in disparate networks, is now available in public regions."
     publishedDateTime: 2020-06-11T16:00:15Z
@@ -39,15 +48,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 11
-  - title: "Azure Monitor for containers now supports log collection on AKS Windows node pools (in preview)"
-    excerpt: "Starting with agent version ciprod05262020, Azure Monitor for containers will collect logs (std/stderr) for the containers running on AKS clusters with Windows node pools."
-    publishedDateTime: 2020-06-04T18:00:27Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/ci-windows-logging/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 5
 
 secured: "Jf/p+GAqQLLPAvAkji0WdHVSwq09tVWDVhK+IvD0pgSrIUwLhm5efGEMBoLMyWu7b/nw5JUnatJm51aN4Zfm/bNxhXLitHiAFxOKZpmgaWGfcGH9NUXUf7GcNBJjrzhcEBQQaJeW3Hk5x8xJ0YoNP7YxYXZZCLgYluZBVrgVmUt/NA+zYsIRwrUf8rfk4yF6bsZOhdXDrBFDZDfcLl9AQYAe8t3VKipHf0PVahVht0d1FTnWzcG2eoUljsGQ/jgM+zId2zbLOEO3lLSVHAMpzmYsZdwSRlQ/PViSr3mJAG+gHcwGXFgfjoKhMHXq/nnJXv+3hKj37nVB1TyC0+RJbg==;7GMhH44bY3ppTM0PH4WNIw=="
 ---

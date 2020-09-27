@@ -39,6 +39,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 66
+  - title: "Azure SQL Database Gateway with IP address 23.99.160.139 in Central US will be deactivated on 15th September 2020"
+    excerpt: " Sql Gateway IP address 23.99.160.139 in Central US will be deactivated on 15th September 2020 and it will no longer accept any traffic after that date."
+    publishedDateTime: 2020-09-08T19:00:14Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-sql-database-gateways-changes-centralus-september-15-2020/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 46
   - title: "Additional Azure SQL Database gateways changes effective September 10, 2020"
     excerpt: "Additional SQL Gateways are being added for Azure SQL Database in West Central US and South Africa North effective 10 September 2020.  "
     publishedDateTime: 2020-08-06T20:00:13Z

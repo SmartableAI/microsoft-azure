@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/azure-container-registry
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-container-registry-now-available-in-switzerland-west-region/"
 type: article
 quality: 67
-heat: 107
+heat: 127
 published: true
 
 provider:
@@ -31,10 +31,19 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
-  - title: "Azure Container Registry diagnostic logs now generally available"
+  - title: "Azure Media Services is now available in Switzerland and Germany"
     excerpt: ""
-    publishedDateTime: 2020-05-19T16:05:39Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-container-registry-diagnostic-logs-now-generally-available/"
+    publishedDateTime: 2020-05-20T16:00:28Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-media-services-is-now-available-in-switzerland-and-germany/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 17
+  - title: "Azure DevTest Labs is now available in Switzerland regions"
+    excerpt: ""
+    publishedDateTime: 2020-05-27T16:00:01Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-devtest-labs-is-now-available-in-switzerland-regions/"
     type: article
     provider:
       name: Microsoft

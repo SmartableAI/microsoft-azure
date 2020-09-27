@@ -39,6 +39,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 17
+  - title: "Azure SQL Managed Instance management pack is now generally available"
+    excerpt: "System Center Operations Manager (SCOM) management pack for Azure SQL Managed Instance is now generally available."
+    publishedDateTime: 2020-07-15T23:00:30Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-sql-managed-instance-management-pack-is-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 17
 
 secured: "bYvKvmofb3HfgKEhm7bHInc+GmV/egLag/LjLQfGdvAsmwfpiTsieL5axJVrYhnAsp1L8ePm7cNpo5CIwQPefm/8ceDNFa1ZMbNC5qXkwFFgkKvfrJkt6246Q4PQ9yVf72bLTkupey98wNH1CLn8VmSCsT2TLQv0YStDGPsYs55HK1Tq4rgLeOGN5vI/B3AHYED6SAoBbwGiLsyZG3v5X1AmXphDT5l2uIYh78S6Cm0rdSvYQBhNQ96lwE7reIRqbvUnTGhh5/ezJaANIwLXuOP8R0oQPQClaXPjY/MUXbige72esg7Q+c2D8cRsowCCYoylpTcKgZCJkAmr+jue3w==;k8kkEIaUYLwZjF8Qg2214g=="
 ---

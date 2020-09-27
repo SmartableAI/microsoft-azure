@@ -6,8 +6,8 @@ publishedDateTime: 2020-07-13T10:00:01Z
 originalUrl: "https://azure.microsoft.com/blog/azure-files-support-and-new-updates-in-advanced-threat-protection-for-azure-storage/"
 webUrl: "https://azure.microsoft.com/blog/azure-files-support-and-new-updates-in-advanced-threat-protection-for-azure-storage/"
 type: article
-quality: 83
-heat: 83
+quality: 100
+heat: 100
 published: true
 
 provider:
@@ -21,6 +21,7 @@ provider:
 topics:
   - Azure
   - Security
+  - Storage
 
 images:
   - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/ee329ce4-7204-4fc5-86e0-c004e01b3f19.png"

@@ -42,20 +42,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "U.S. Healthcare Cloud Computing Market 2027 / Trends, Revenue, Demand And Forecast"
-    excerpt: "The report covers a forecast and an analysis of the U.S. healthcare cloud computing market. The study provides"
-    publishedDateTime: 2020-05-07T11:11:00Z
-    webUrl: "https://www.marketwatch.com/press-release/us-healthcare-cloud-computing-market-2027-trends-revenue-demand-and-forecast-2020-05-07"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 56
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Cloud Network Infrastructure Market Analysis, Size, Share, Growth, Trends, and Forecast 2018-2023"
     excerpt: "Cloud Network Infrastructure Market: By Component (Hardware, Services), Deployment (Public, Private and Hybrid),"
     publishedDateTime: 2020-05-03T15:13:00Z
@@ -70,20 +56,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Cloud Security Software Market Estimates (Pre and Post) COVID-19 Impact and Recovery Analysis by 2020-2029"
-    excerpt: "The Cloud Security Software report encompasses a careful analysis of a small and economic science issue that is influencing the expansion of the market. The Cloud Security Software market has cardinal frameworks that embody market outlook,"
-    publishedDateTime: 2020-05-14T07:06:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-cloud-security-software-market-estimates-pre-and-post-covid-19-impact-and-recovery-analysis-by-2020-2029-2020-05-14"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 41
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Global Cloud Computing Market 2020 includes Attractiveness and Raw Material Analysis and Competitor Position Grid Analysis to 2025"
     excerpt: "Fior Markets has published a new research study titled Cloud Computing Market by Service (IaaS, PaaS, SaaS), Deployment, Organization Size, Vertical (BFSI, IT and Telecommunications, Government, Others),"
     publishedDateTime: 2020-05-06T14:11:00Z
@@ -93,20 +65,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 32
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Healthcare Cloud Computing Market 2020 Effect of COVID-19 Industry - Key Players, Size, Trends, Opportunities, Growth Analysis and Forecast to 2026"
-    excerpt: "Cloud Computing can revolutionize healthcare. Cloud computing is a general term for anything that involves delivering hosted services over the Internet. But in the healthcare sector cloud computing is a cost-effective method that facilitates real-time data collection,"
-    publishedDateTime: 2020-05-08T12:51:00Z
-    webUrl: "https://www.marketwatch.com/press-release/healthcare-cloud-computing-market-2020-effect-of-covid-19-industry---key-players-size-trends-opportunities-growth-analysis-and-forecast-to-2026-2020-05-08?mod=mw_quote_news"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 24
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

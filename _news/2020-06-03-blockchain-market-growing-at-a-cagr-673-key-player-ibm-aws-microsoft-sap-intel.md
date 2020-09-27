@@ -8,7 +8,7 @@ ampWebUrl: "https://amp.benzinga.com/amp/content/16166093"
 cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16166093"
 type: article
 quality: 14
-heat: -1
+heat: 14
 published: false
 
 provider:
@@ -19,47 +19,30 @@ topics:
   - Azure
 
 related:
-  - title: "IoT Cloud Platform Market Growing at a CAGR 12.6% | Key Player AWS, Microsoft, Google, Cisco, IBM"
-    excerpt: "MarketsandMarkets forecasts the global Internet of Things (IoT) Cloud Platform Market size to grow from USD 6.4 billion in 2020 to USD 11.5 billion by 2025, at a Compound Annual Growth Rate (CAGR) of 12."
-    publishedDateTime: 2020-05-22T21:07:00Z
-    webUrl: "https://www.marketwatch.com/press-release/iot-cloud-platform-market-growing-at-a-cagr-126-key-player-aws-microsoft-google-cisco-ibm-2020-05-22"
+  - title: "Cloud-based Database Market – Major Technology Giants in Buzz Again | Oracle, Microsoft Azure, IBM, Apache Cassandra"
+    excerpt: "AMA Research have added latest edition of survey study on Global Cloud based Database Market with 100 market data Tables Pie Chat Graphs Figures spread through Pages and easy to understand detailed analysis At present the market is developing its"
+    publishedDateTime: 2020-06-06T19:22:00Z
+    webUrl: "https://www.openpr.com/news/2068878/cloud-based-database-market-major-technology-giants-in-buzz"
+    ampWebUrl: "https://www.openpr.com/amp/2068878/cloud-based-database-market-major-technology-giants-in-buzz"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2068878/cloud-based-database-market-major-technology-giants-in-buzz"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 49
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Middle East Cloud Applications Market Growing at a CAGR 17.5% | Key Player SAP, Microsoft, Oracle, Sage, IBM"
-    excerpt: "MarketsandMarkets expects the Middle East Cloud Applications Market to grow from USD 2.0 billion in 2019 to USD"
-    publishedDateTime: 2020-04-30T15:35:00Z
-    webUrl: "https://www.marketwatch.com/press-release/middle-east-cloud-applications-market-growing-at-a-cagr-175-key-player-sap-microsoft-oracle-sage-ibm-2020-04-30"
+      name: openpr.com
+      domain: openpr.com
+    quality: 14
+  - title: "New InterWork Alliance that includes IBM and Microsoft aims to standardize distributed applications"
+    excerpt: "New InterWork Alliance that includes IBM and Microsoft aims to standardize distributed applications - SiliconANGLE"
+    publishedDateTime: 2020-06-03T03:11:00Z
+    webUrl: "https://siliconangle.com/2020/06/02/new-interwork-alliance-includes-ibm-microsoft-aims-standardize-distributed-applications/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 43
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 8
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "CORONA Impact on Cloud Computing Market Growing at a CAGR 12.5% | Key Player AWS, Microsoft, Google, Alibaba, SAP"
-    excerpt: "May 05, 2020 (AB Digital via COMTEX) -- The impact of COVID-19 on the \"COVID-19 Impact on Cloud Computing Market by Service Type (Infrastructure"
-    publishedDateTime: 2020-05-05T21:07:00Z
-    webUrl: "https://www.marketwatch.com/press-release/corona-impact-on-cloud-computing-market-growing-at-a-cagr-125-key-player-aws-microsoft-google-alibaba-sap-2020-05-05"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 41
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/06/interwork.png"
+        width: 960
+        height: 320
         isCached: true
 
 secured: "Ne8sVrJA39uSOpp4BFIpp+2f73xC5OP5qIEYpLqHXYvPIucYHYlfvTGzt576Cg3U0S4L+jGqcqLHeD93RJGmheHWxecBZo3CM4yD8i6TBf7CHcJCW31XwoBGhwgRch+eqcWtVGpZptuiPhmmV3zJiDjjdo0CfcDzJ4FBUeYsOIL+sz4KjDlRVj68ZoK2H4AdtC+KVTjkyZt0lSVgMtogNpP0HJNzIdRh0jBXlhmieb3ZjyryMCLj+jGlqM2MzRxVWcAj9L24hNCkvRqt/m2T08GH5b1jK6EuWWHUijAx3eLwgEFsMHvHBefts6R80jru+bEigDHTdOKkS7r/MAA09tGwgZTP1pzu6n6daJh1xLz5fImBFGf5bOPJdLUc9j6s7DPCsqPPHY+3A2hY4i1UG35BdV1QNztKmIz6zgiuOuarrvh8E05HVwASd7OT+evuJIiO3EteETOqChADgDUyvACyMe9s4SWzpPhpu7Q4mYk=;rUodVfXVkUA9oIGbSD/+OA=="

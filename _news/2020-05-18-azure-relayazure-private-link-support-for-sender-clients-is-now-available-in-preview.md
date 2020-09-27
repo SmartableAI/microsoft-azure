@@ -21,42 +21,15 @@ topics:
   - Azure
 
 related:
-  - title: "Azure Private Link support in Azure Data Factory now available"
-    excerpt: "Azure Data Factory (ADF) now supports Azure Private Link. "
-    publishedDateTime: 2020-08-31T22:00:31Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-private-link-support-in-azure-data-factory-now-available/"
+  - title: "Migrate to Azure: Save now, be future ready"
+    excerpt: "The global health crisis has transformed the way we work and live. Remote work has surged across industries, and the ability to scale and manage your business from anywhere has become essential. As our customers are moving beyond resolving immediate crisis needs, many are thinking about the next set"
+    publishedDateTime: 2020-05-13T08:00:39Z
+    webUrl: "https://azure.microsoft.com/blog/migrate-to-azure-save-now-be-future-ready/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 67
-  - title: "Azure Private Link for Azure Cache for Redis now in preview"
-    excerpt: "You can now use Azure Private Link to connect to an Azure Cache for Redis instance from your virtual network via a private endpoint, which is assigned a private IP address in a subnet within the virtual network."
-    publishedDateTime: 2020-09-02T16:00:02Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-private-link-for-azure-cache-for-redis-now-in-preview/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 67
-  - title: "Azure Private Link Services available in China"
-    excerpt: "Azure Private Link now includes multiple new services available in all China Regions"
-    publishedDateTime: 2020-09-21T18:00:04Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-private-link-partner-services-now-generally-available-in-china/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 67
-  - title: "Azure Private Link for Azure Monitor is now available"
-    excerpt: ""
-    publishedDateTime: 2020-05-22T22:00:01Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/private-link-azure-monitor-is-now-available/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 17
+    quality: 69
 
 secured: "WTjnJdrkGxvtwcrbUOKE0E7QWRFk5S5zV9Qcn7TQ86QgtE9U/Axwz84BRVEo6h2mN1I9/P4jD8SJg+FBuO0fr5Lpn0qBXJ77cdjsPm76SZAKQMAS5OASoEjhku2ROHD8MU3dnSKomgvKG9k1TTa1lj9CXF1dG+kpHny3tagRD08gzRy0YktmXzsH8f7H3wnd/p6H6PhWv9aRFUbf8AIfFYiEpTFJSqDnzFQxNHwtQIixksFHo6ojNSe2DJ2/+6pHM5VKBGGjPU+DGYC05HsgsvGlZA33v4+unUQ74uvKem+dq1TKstjnuveaLKBGuZhMSqJ6LFaGyA1O8bJ/x60Gng==;lfioC/ZRwdcZlq1uXnLs+A=="
 ---

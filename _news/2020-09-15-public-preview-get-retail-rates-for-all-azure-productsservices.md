@@ -22,10 +22,10 @@ topics:
   - Azure
 
 related:
-  - title: "Announcing Private Azure Marketplace in public preview"
-    excerpt: "Private Azure Marketplace enables you to govern the apps available for deployment for your organization"
-    publishedDateTime: 2020-09-22T16:05:35Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/announcing-private-azure-marketplace-in-public-preview/"
+  - title: "Azure Arc enabled data services now in preview"
+    excerpt: "Run Azure Arc enabled data services on premises on any infrastructure of your choice with Azure cloud benefits like elastic scale, unified management, and a cloud billing model while staying always current. "
+    publishedDateTime: 2020-09-22T16:05:38Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-arc-enabled-data-services-now-in-preview/"
     type: article
     provider:
       name: Microsoft

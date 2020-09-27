@@ -6,9 +6,9 @@ publishedDateTime: 2020-09-22T16:05:37Z
 originalUrl: "https://azure.microsoft.com/en-us/updates/accelerate-analytics-and-ai-workloads-with-photon-powered-delta-engine-on-azure-databricks/"
 webUrl: "https://azure.microsoft.com/en-us/updates/accelerate-analytics-and-ai-workloads-with-photon-powered-delta-engine-on-azure-databricks/"
 type: article
-quality: 57
-heat: -1
-published: false
+quality: 74
+heat: 94
+published: true
 
 provider:
   name: Microsoft
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - Azure
+  - Analytics
 
 related:
   - title: "Accelerating genomics workflows and data analysis on Azure"

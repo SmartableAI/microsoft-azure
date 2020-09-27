@@ -5,8 +5,8 @@ excerpt: "Since the general availability of Azure Data Lake Storage (ADLS) Gen2 
 publishedDateTime: 2020-03-19T09:00:12Z
 webUrl: "https://azure.microsoft.com/blog/filesystem-sdks-for-azure-data-lake-storage-gen2-now-generally-available/"
 type: article
-quality: 20
-heat: -1
+quality: 35
+heat: 35
 published: false
 
 provider:
@@ -21,31 +21,6 @@ topics:
   - Azure
   - Storage
   - Management tools
-
-related:
-  - title: "Multi-protocol access on Data Lake Storage now generally available"
-    excerpt: "We are excited to announce the general availability of multi-protocol access for Azure Data Lake Storage. Azure Data Lake Storage is a unique cloud storage solution for analytics that offers multi-protocol access to the same data. This is a no-compromise solution that allows both the Azure Blob Storage"
-    publishedDateTime: 2019-11-26T13:00:34Z
-    webUrl: "https://azure.microsoft.com/blog/multi-protocol-access-on-data-lake-storage-now-generally-available/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 24
-    images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/b83238b4-dba1-4651-8eac-217459a4b753.png"
-        width: 1024
-        height: 471
-        isCached: true
-  - title: "Azure Data Lake Storage lifecycle management is now generally available"
-    excerpt: "Lifecycle management for Azure Data Lake Storage provides an automated solution for tiering down infrequently used data to cooler tiers, allowing you to easily optimize your data for both performance and cost.   "
-    publishedDateTime: 2020-07-31T20:00:18Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/lifecycle-management-for-azure-data-lake-storage-is-now-generally-available/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 17
 
 secured: "AGUMnaLLiVGG+wrtRYC0U9SGvhH91X5YGe8wVn2unP686BIko3qHkc3bNUzyhJ956PavoyQuGF9nsAKHdMuNrC3pRn/82pRZNhWyJBXwtE9h/4OSy6RCKJQhmFVTTBusGdPL6kwVBPn9JIRCVjF1Lh+xer9/fqfoPowpGyurWA/7B9J+vFpr2yMTHNW4p10qQPcbtJC1sjPimiNGAYm0uYL9MGkLHcu1i5h2j9XBaGLlkf3EjnaFcqZ/+k7IjFR7Ktty8Aj5GDI96Y+v7LxNdNRcnNWMJow7/fCPW2MU5ixFrnysJZ0yA5NAWZdrbA0gKwvlDws2XATxKSP7o3MB/A==;R10d1qpgUdWgGVqukiKnDg=="
 ---

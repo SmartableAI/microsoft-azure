@@ -21,65 +21,74 @@ topics:
   - Azure
 
 related:
-  - title: "AMD-based memory-optimized Azure virtual machines now available in more regions"
-    excerpt: "Today, we're announcing the expanded availability of these virtual machine (VM) sizes in new Azure regions and support for additional Availability Zones."
-    publishedDateTime: 2020-07-16T08:00:39Z
-    webUrl: "https://azure.microsoft.com/blog/amd-based-memory-optimized-azure-virtual-machines-now-available-in-more-regions/"
+  - title: "Azure Private Link Service is now generally available in China "
+    excerpt: "Azure Private Link for customer owned services are now available in China Regions. "
+    publishedDateTime: 2020-09-14T17:10:45Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-private-link-service-is-now-generally-available-in-china/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 33
+    quality: 67
+  - title: "Query Acceleration for Azure Data Lake Storage is now generally available"
+    excerpt: "Query Acceleration for Azure Data Lake Storage is now generally available in all Azure regions."
+    publishedDateTime: 2020-09-10T18:00:21Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/query-acceleration-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 66
+  - title: "IT Service Management Connector (ITSMC)  is now available in Azure Government"
+    excerpt: "The ITSM connector provides a bi-directional connection between Azure and ITSM tools to help track and resolve issues faster.  "
+    publishedDateTime: 2020-09-14T16:00:12Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/itsmc-is-now-available-in-fairfax/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 64
+  - title: "Azure Firewall Manager is now generally available"
+    excerpt: "Azure Firewall Manager is now generally available, and includes Azure Firewall Policy, Azure Firewall in a Virtual WAN Hub (Secure Virtual Hub), and Hub Virtual Network."
+    publishedDateTime: 2020-07-01T08:00:06Z
+    webUrl: "https://azure.microsoft.com/blog/azure-firewall-manager-is-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 37
     images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/d92493a1-f2b7-43cc-aac0-2fb16327579f.png"
-        width: 600
-        height: 542
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/48d05065-53c7-4758-8091-6b72d3df73d0.png"
+        width: 1024
+        height: 367
         isCached: true
-  - title: "Azure Red Hat OpenShift on OpenShift 4.4 now available"
-    excerpt: "Red Hat OpenShift 4.4 is now available on Azure Red Hat OpenShift."
-    publishedDateTime: 2020-07-21T16:00:46Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-red-hat-openshift-on-openshift-44-now-available/"
+  - title: "Azure App Service—.NET Core 3.1 is now generally available"
+    excerpt: ""
+    publishedDateTime: 2020-04-23T16:00:29Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-app-service-net-core-31-ga-on-app-service/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
     quality: 17
-  - title: "Azure ultra disks are now available in the US Gov Arizona region"
-    excerpt: "Azure ultra disks are now available in the US Gov Arizona region."
-    publishedDateTime: 2020-07-21T16:01:51Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-ultra-disks-are-now-available-in-the-us-gov-arizona-region/"
+  - title: "Azure Private Link is now available for multiple new Azure services"
+    excerpt: ""
+    publishedDateTime: 2020-05-14T22:00:17Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-private-link-is-now-available-for-multiple-new-azure-services/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
     quality: 17
-  - title: "Shared disks in Azure Disk Storage are now available"
-    excerpt: "Shared disks are now available in Azure Disk Storage—the only shared block storage in the cloud that supports both Windows and Linux-based clustered or high-availability applications."
-    publishedDateTime: 2020-07-21T16:01:30Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/shared-disks-in-azure-disk-storage-are-now-available/"
+  - title: "Generally available: Azure Private Link for Azure SignalR Service "
+    excerpt: "Use private endpoint to connect to Azure SignalR Service. "
+    publishedDateTime: 2020-07-14T17:00:16Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/generally-available-azure-private-link-for-azure-signalr-service/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
     quality: 17
-  - title: "Azure Stream Analytics is now available in the US Gov Arizona region"
-    excerpt: "Azure Stream Analytics, a real-time analytics service that is designed for mission-critical workloads, is now available in the US Gov Arizona region. \n"
-    publishedDateTime: 2020-07-23T23:00:08Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-stream-analytics-now-available-in-us-gov-arizona/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 17
-  - title: "New general purpose and memory-optimized Azure Virtual Machines with Intel now available"
-    excerpt: "Today we're announcing the availability of new general purpose and memory-optimized Azure Virtual Machines based on the 2nd generation Intel Xeon Platinum 8272CL (Cascade Lake). This custom processor runs at a base speed of 2.5GHz and can achieve all-core turbo frequency of 3.4GHz. It features Intel®"
-    publishedDateTime: 2020-06-15T09:00:47Z
-    webUrl: "https://azure.microsoft.com/blog/new-general-purpose-and-memoryoptimized-azure-virtual-machines-with-intel-now-available/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 8
 
 secured: "sdYriCOS6nn23Z03IQpAxC1ET8ZfP/5kEELWbwA82DvQyX54nnK4fKyaFt1Ay/AQ3udWEI6ll8d1IsuIopkdR4KPja1nMXaaYPjt45CQSM66FOw/y097q2KiHno3t13LgrQGFFklYyM+Jyz3EnxVvetUWvPamTLHW9nbYuISg0KySePUMz5OOoUj/8V4mRSnWernbJ4xarKkwdSBueYDYITJXvLGkQGe3/8KnUVLys4R7LmQp7/VhfLAPWn6kHohvUgbFQL8U87it6ehDYrg60dpBxRvm1lzXYn5Ci+avYZ9r/bigbWNm1Djpe+Qi2cJRSh3ANA/Cdo7vipx07rpmQ==;UFhjX9b8IcUy3foXtV6PMQ=="
 ---

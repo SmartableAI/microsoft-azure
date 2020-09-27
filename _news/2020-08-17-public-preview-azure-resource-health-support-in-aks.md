@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-17T23:01:22Z
 webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-azure-resource-health-support-in-aks/"
 type: article
 quality: 67
-heat: 147
+heat: 127
 published: true
 
 provider:
@@ -21,15 +21,15 @@ topics:
   - Azure
 
 related:
-  - title: "Azure Blob storage—Network File System 3.0 protocol support public preview region expansion"
-    excerpt: "NFS 3.0 support to block blob storage accounts with premium performance public preview regions now include: Australia Southeast, North Europe, UK West, Korea Central, Korea South, West Central US."
-    publishedDateTime: 2020-08-13T15:00:05Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/nfs-30-support-for-azure-blob-storage-preview-region-expansion/"
+  - title: "Azure Cloud Shell can now run in an isolated virtual network (public preview)"
+    excerpt: "Cloud Shell now supports virtual networks."
+    publishedDateTime: 2020-08-10T17:00:04Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/cloudshell-vnet/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 57
+    quality: 64
   - title: "Public preview: Ephemeral OS disk support in AKS"
     excerpt: "AKS now supports ephemeral OS disk for AKS agent nodes in public preview."
     publishedDateTime: 2020-08-17T23:00:03Z
@@ -39,24 +39,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 52
-  - title: "PowerShell support in Durable Functions is in public preview"
-    excerpt: "Developers can now orchestrate complex automation workflows in Azure Functions using familiar language constructs in PowerShell 7"
-    publishedDateTime: 2020-08-19T16:00:12Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/powershell-support-in-durable-functions-is-in-public-preview/"
+  - title: "Public Preview: Cognitive Services Form Recognizer v2.1"
+    excerpt: "Form Recognizer v2.1-preview.1 has been released. It includes support for new languages, checkbox/selection marks, and the submit multiple form types to a single model Id."
+    publishedDateTime: 2020-08-21T17:00:18Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/form-recognizer-v2-1/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
     quality: 52
-  - title: "Simplified Chinese language support now available in Azure Cognitive Services Computer Vision public preview"
-    excerpt: "Computer Vision Read API v3.1, part of Cognitive Services, announces its public preview with support for Simplified Chinese language."
-    publishedDateTime: 2020-08-20T20:00:06Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/computer-vision-read-31-public-preview-adds-simplified-chinese-ocr/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 48
 
 secured: "APn87P7nNWUn8xKHNfLzFprzZis3lGSFxrcdUjWsJFN3jj8M/jCMhhjd/SZSH2XAdGlufOfgvhiwRHUr0up1oxhJIXV3vXMbTCySTwNpD/6cUXFBQ0n0Sxfl16iTyXsOguOldvEwFZKk0BLfLPRUJapg5WeWCtO+5ymGWURN29iL/gYE4Qt8tz0OmPvM9HNv2C37/dlnXLGcPJ/Onzx/QVpIXDSV0cX6XIRWDBcDjIgtQoa6fcoUnJZNBXar+XkLXlroX8676bPyfgfzntR7Uo2i7NHaRmxvlh/qhRRgBU2CH/tgWRXRhK2POO9Dp8DYFcRhiisiHbYgfERo72c7tqzuHhYPL+ErNJDRtkcZSA0=;HkLenfiFhzCpCcCHsdNOyg=="
 ---

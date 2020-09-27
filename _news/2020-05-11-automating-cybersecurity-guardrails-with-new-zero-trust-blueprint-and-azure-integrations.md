@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/automating-cybersecurity-guardrai
 webUrl: "https://azure.microsoft.com/blog/automating-cybersecurity-guardrails-with-new-zero-trust-blueprint-and-azure-integrations/"
 type: article
 quality: 75
-heat: 95
+heat: 115
 published: true
 
 provider:
@@ -37,6 +37,15 @@ related:
         width: 1200
         height: 801
         isCached: true
+  - title: "Advanced integrations with export of Security Center recommendations and alerts"
+    excerpt: ""
+    publishedDateTime: 2020-04-15T16:00:24Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/advanced-integrations-with-export-of-security-center-recommendations-and-alerts/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 0
 
 secured: "2lIisYQS/rFLGo5X0l6CI9SvkP9+jN2Kz38v6AYyKGqrmGRzq7lA/LMHg1W643ouDeNWQmqNQAyQclNzsD9iI3bvn9ihl5N0MBt4IwC5oR/0EfmGTi5WMLPs2tiFQlv/Fj5VjOp+rxiYM0bvTdREBepIeFmj2TUouLqUyTTJsloELGAjzfylaHSpyvwlms/dqxriHWS89KVbUcLhUUZI1qs53nous+Dlb+I0/8tUSs26yqVE4hNw2jLgI+N3iRzBCMjoQMdRMU8l1SJYQIdDNpgHxvWeNWNDVzlJZerQKAcTDRrdTQ1QqmiwHR4mnXPiQJgEBOCDkVhmCnZnwUnv9QW03n8Y5KnbOyo2npsd1Qg=;KHqaCSgNlxbNZr8igrw0bA=="
 ---

@@ -21,37 +21,55 @@ topics:
   - Azure
 
 related:
-  - title: "Encryption of backup data using customer managed keys is in public preview"
-    excerpt: "Use self-managed RSA keys stored in the Azure Key Vault to encrypt your backups and maintain full control of your data. "
-    publishedDateTime: 2020-08-12T16:00:29Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/encryption-of-backup-data-using-customer-managed-keys-is-in-public-preview/"
+  - title: "Power mission-critical applications with Azure Database for PostgreSQL"
+    excerpt: "In our current environment, organizations are increasingly looking towards digital solutions to engage their customers and remain competitive. "
+    publishedDateTime: 2020-08-24T10:00:16Z
+    webUrl: "https://azure.microsoft.com/blog/power-missioncritical-applications-with-azure-database-for-postgresql/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 50
-  - title: "Azure Cosmos DB Management with PowerShell cmdlets is in public preview"
-    excerpt: "Now in preview, users can manage Azure Cosmos DB resources using a set of PowerShell cmdlets, available in the Az.CosmosDB Powershell module. The Az.CosmosDB module can be used with Windows PowerShell 5.1 as well as cross-platform PowerShell Core 6 or 7."
-    publishedDateTime: 2020-08-05T16:00:03Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-cosmos-db-management-with-powershell-cmdlets-is-in-public-preview/"
+    quality: 101
+  - title: "Azure HDInsight and Azure Database for PostgreSQL news"
+    excerpt: "I’ve been committed to open source software for over a decade because it fosters a deep collaboration across the developer community, resulting in ground-breaking innovation. At the heart of open source is the freedom to learn from each other and share ideas, empowering the brightest minds to work together"
+    publishedDateTime: 2020-03-02T10:00:11Z
+    webUrl: "https://azure.microsoft.com/blog/azure-hdinsight-and-azure-database-for-postgresql-news/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 17
-  - title: "Infrastructure double encryption for Azure Database for MySQL is in public preview"
-    excerpt: "Infrastructure double encryption adds a second layer of encryption and a different encryption algorithm which gives an additional layer of protection for your data at rest. "
-    publishedDateTime: 2020-08-10T16:00:04Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/infrastructure-double-encryption-for-azure-database-for-mysql-is-in-public-preview/"
+    quality: 99
+  - title: "Azure Database for PostgreSQL Flexible Server now in preview"
+    excerpt: "Azure Database for PostgreSQL Flexible Server is a new deployment option that provides better control and flexibility, more options for high availability, and cost optimization controls."
+    publishedDateTime: 2020-09-22T20:00:01Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-database-for-postgresql-flexible-server-now-in-preview/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 11
-  - title: "Data encryption with customer managed keys for Azure Database for MySQL is now generally "
-    excerpt: "Data encryption with customer-managed keys for Azure Database for MySQL enables you to bring your own key (BYOK) for data protection at rest. "
-    publishedDateTime: 2020-08-10T16:00:05Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/data-encryption-with-customer-managed-keys-for-azure-database-for-mysql-is-now-generally/"
+    quality: 99
+  - title: "Minimal TLS version setting is now available for Azure Database for PostgreSQL"
+    excerpt: ""
+    publishedDateTime: 2020-06-04T17:00:39Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-database-for-postgresql-minimal-tls-version/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 13
+  - title: "Azure Private Link for Azure Database for PostgreSQL now in Azure government regions"
+    excerpt: ""
+    publishedDateTime: 2020-05-04T18:00:05Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-private-link-for-azure-database-for-postgresql-now-in-azure-government-regions/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 10
+  - title: "Azure Database for PostgreSQL support for encryption at rest using customer-managed keys"
+    excerpt: ""
+    publishedDateTime: 2020-06-09T19:00:01Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-database-for-postgresql-encryption-at-rest-byok-preview/"
     type: article
     provider:
       name: Microsoft
@@ -66,24 +84,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 5
-  - title: "Azure Database for MySQL support for encryption at rest using customer-managed keys now in preview"
-    excerpt: ""
-    publishedDateTime: 2020-06-08T16:00:20Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-database-for-mysql-encryption-at-rest-byok-preview/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 3
-  - title: "Kubernetes resource view is in public preview"
-    excerpt: "Kubernetes resource view allows developers to use point and click navigation to see live, in-depth details of their workloads."
-    publishedDateTime: 2020-08-05T16:00:01Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/kubernetes-resource-view-is-in-public-preview/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 2
 
 secured: "acUGuLGTDaxoRnvtObjrCWhc1K2XSA/kPe3eZ2Mev0XuT5lLr4oMtCCFsvMoCEIyA3lePOCu33CIj9SxvF19lEnmmujNPjswThCYQXnY1orDellgpnqwzjYvE1DEgh2X4PRDx2pfbonk24S9K0Ka5Fhs5t4eKbdyLQ4szm+8ZqCJYbZLVL7BhK4YEzWR4RC9Zjz1gZAxjwTYBbv1LsYeX47DMwijjswUJg9EUXkQ41LCkl2So361WnKGXkJsBvao8Se5fyvT6FyhJJ2xClAH40HlU76igElFASlSQt21ETwEN0Zyl0B3O4P/I3fIUFHHaWUvdXkKs/ycGP5q0xhfFA==;nKYd4ntBbRA+FSi2B9lPJQ=="
 ---

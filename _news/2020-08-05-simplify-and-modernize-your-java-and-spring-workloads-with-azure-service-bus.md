@@ -30,20 +30,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 64
-  - title: "Microsoft Announces the Preview of Java Message Service 2.0 over AMQP on Azure Service Bus"
-    excerpt: "In a recent blog post, Microsoft announced the preview support for Java Message Service (JMS) 2.0 over AMQP in the Azure Service Bus Premium tier. The support will allow customers to modernize their application stack by lifting and shifting their Java and Spring workloads to Azure."
-    publishedDateTime: 2020-08-17T11:39:00Z
-    webUrl: "https://www.infoq.com/news/2020/08/jms-2-amqp-service-bus-preview/?topicPageSponsorship=1affdcd4-e9d5-432d-80ae-f9e5b551db61&itm_source=presentations_about_Devops&itm_medium=link&itm_campaign=Devops"
-    type: article
-    provider:
-      name: InfoQ
-      domain: infoq.com
-    quality: 27
-    images:
-      - url: "https://cdn.infoq.com/statics_s2_20200821055107/styles/static/images/logo/logo-big.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "ElC/Xv7KG7/BjQOzL67nlb3am1Nq6zIqB8iZjXdDEQ66xKpERTxaolUAwbK6XesYjF9iftmtB100IAoGkq+s3b0HxRr5rzrHeJZQBQnWUYP9h+eBC1ndzS+SiL4ZnXzJTV8EMvdgGPlA7SluKgO5e8quS7oDvGXH+pv3Gcf1u4fAkQJbSvnY30bk1HxMdtyjv0r0ZorWSyp1Xq07rAhyJ9jWJdkhpo47JYCXu3ZWXtX9+DEQinGWyZ2ccHb0gU45KJU9f+M2M8TPlzt1/kBDsshK6NwQrYiDN94+JZn9cZ5KXxZSy3doLwdBwZNp+m6faezLDiy8GHzKDjDD6+cktw==;xgAI/yNi5k1MJIwuKA/e9Q=="
 ---

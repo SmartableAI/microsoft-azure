@@ -24,6 +24,22 @@ images:
     title: "The Complete Microsoft Azure eBook & Video Course Bundle (95% OFF!)"
 
 related:
+  - title: "Commvault Announces Microsoft Azure Strategic Partnership"
+    excerpt: "Commvault has announced a multi-year agreement with Microsoft to integrate its Metallic Software-as-a-Service portfolio with Microsoft Azure."
+    publishedDateTime: 2020-06-30T12:42:00Z
+    webUrl: "https://www.forbes.com/sites/justinwarren/2020/06/30/commvault-announces-microsoft-azure-strategic-partnership/"
+    ampWebUrl: "https://www.forbes.com/sites/justinwarren/2020/06/30/commvault-announces-microsoft-azure-strategic-partnership/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/justinwarren/2020/06/30/commvault-announces-microsoft-azure-strategic-partnership/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 97
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5da3dcaa6763cb000608a26e%2F0x0.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Learn Microsoft Azure with this $30 training course bundle"
     excerpt: "TL;DR: Lead your business towards success with the Complete Microsoft Azure eBook & Video Course bundle for $29.99, a 95% savings as of July 6. It's no secret that most industries have been ..."
     publishedDateTime: 2020-07-06T14:22:00Z
@@ -40,102 +56,128 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Become a Microsoft Azure pro with this $29 bundle"
-    excerpt: "The age of the cloud is finally upon us, and this much-anticipated era has quickly moved beyond simple online storage platforms which reduce our reliance on external hard drives. The largest and most powerful companies in the world all rely on increasingly dynamic cloud infrastructures in order to develop and distribute various apps and digital information,"
-    publishedDateTime: 2020-07-22T18:12:00Z
-    webUrl: "https://www.engadget.com/microsoft-azure-pro-29-175557785.html"
-    ampWebUrl: "https://www.engadget.com/amp/microsoft-azure-pro-29-175557785.html"
-    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/microsoft-azure-pro-29-175557785.html"
+  - title: "Hello, Azurebook: Why Microsoft's Windows future is Intel-free and cloudy"
+    excerpt: "The natural response to Apple's Arm migration is \"What is Microsoft doing?\"  Is the company similarly going to do a full port of Windows to Arm and work with the OEM ecosystem to make Arm PCs? Because Microsoft is a much more transparent company than Apple,"
+    publishedDateTime: 2020-07-06T15:48:00Z
+    webUrl: "https://www.zdnet.com/article/hello-azurebook-why-microsofts-windows-future-is-intel-free-and-cloudy/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/hello-azurebook-why-microsofts-windows-future-is-intel-free-and-cloudy/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/hello-azurebook-why-microsofts-windows-future-is-intel-free-and-cloudy/"
     type: article
     provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 97
-    images:
-      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-07%2F5f230920-cae3-11ea-bfef-778d07aa6eb4&client=amp-blogside-v2&signature=38826b0409ecad8de954a4e01e40c23407387c1a"
-        width: 600
-        height: 350
-        isCached: true
-  - title: "Get this Complete Microsoft Azure eBook & Video Course Bundle at 95% off"
-    excerpt: "Leverage PowerShell to Perform Many Day-to-Day Tasks in Microsoft Azure Migrating Applications to the Cloud with Azure [eBook] Modernize Your Apps with Microsoft Azure by Moving Web, Desktop ..."
-    publishedDateTime: 2020-07-13T16:48:00Z
-    webUrl: "https://www.neowin.net/news/get-this-complete-microsoft-azure-ebook--video-course-bundle-at-95-off/"
-    ampWebUrl: "https://www.neowin.net/amp/get-this-complete-microsoft-azure-ebook--video-course-bundle-at-95-off/"
-    cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/get-this-complete-microsoft-azure-ebook--video-course-bundle-at-95-off/"
-    type: article
-    provider:
-      name: Neowin
-      domain: neowin.net
+      name: ZDNet
+      domain: zdnet.com
     quality: 96
     images:
-      - url: "https://cdn.neow.in/news/images/uploaded/2019/09/1567329629_azure-6_story.jpg"
-        width: 760
-        height: 428
+      - url: "https://zdnet3.cbsistatic.com/hub/i/r/2020/07/01/42142a34-e78f-4956-9770-6a4fa2e19bda/thumbnail/1200x675/e1f2477cc416f26abc37bea46b2d2260/2020-07-01-at-5-11-23-pm.jpg"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Accelerating ATO in Microsoft Azure"
-    excerpt: "While your cloud provider manages security OF the cloud, security IN the cloud is the responsibility of the customer. During this on-demand webinar, Microsoft Azure’s Chief Information Security Officer for High Security Clouds, Mr. Richard Scher ..."
-    publishedDateTime: 2020-07-09T03:51:00Z
-    webUrl: "https://www.infoworld.com/resources/205509/accelerating-ato-in-microsoft-azure"
+  - title: "Microsoft Azure and Johns Hopkins Medicine have partnered to accelerate precision medicine"
+    excerpt: "Microsoft Azure and Johns Hopkins Medicine partnered to leverage Microsoft's AI and analytics tools to facilitate precision medicine breakthroughs."
+    publishedDateTime: 2020-06-23T13:31:00Z
+    webUrl: "https://www.businessinsider.com/microsoft-johns-hopkins-partner-to-advance-precision-medicine-2020-6"
     type: article
     provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 77
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 67
     images:
-      - url: "https://idge.staticworld.net/ifw/IFW_logo_social_300x300.png"
-        width: 300
-        height: 300
+      - url: "https://i.insider.com/5ef1fdc8f0f419685c235043?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
-  - title: "Learn AWS, Microsoft Azure, Google Cloud With This $50 Online Bundle"
-    excerpt: "Get Cloud IT-certified on multiple platforms with this class, which contains 160 lessons and has resources that will come in handy for landing the job and succeeding once you're there."
-    publishedDateTime: 2020-07-21T12:21:00Z
-    webUrl: "https://www.pcmag.com/deals/learn-aws-microsoft-azure-google-cloud-with-this-50-online-bundle"
+  - title: "Commvault's Metallic SaaS Data Protection Now Available in the Microsoft Azure Marketplace"
+    excerpt: "PRNewswire/ -- Commvault (NASDAQ: CVLT), a recognized global enterprise software leader in the management of data across cloud and on-premises environments, has announced the availability of Metallic's Software-as-a-Service (SaaS) data protection portfolio in the Microsoft Azure Marketplace,"
+    publishedDateTime: 2020-08-22T09:05:00Z
+    webUrl: "https://www.marketwatch.com/press-release/commvaults-metallic-saas-data-protection-now-available-in-the-microsoft-azure-marketplace-2020-08-12"
     type: article
     provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 77
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 67
     images:
-      - url: "https://i.pcmag.com/imagery/articles/04SMpjyONF9bbgB7e55Fws6-1.fit_lim.size_1200x630.v_1595319685.jpg"
-        width: 1120
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
         height: 630
         isCached: true
-  - title: "Learn Microsoft Azure With 95% off This Bundle of Premium Courses and eBooks"
-    excerpt: "The Complete Microsoft Azure eBook & Video Course Bundle gives you a head start, with 15 hours of video tutorials and six ebooks for $29.99. The shift to cloud technology is happening fast ..."
-    publishedDateTime: 2020-07-28T18:07:00Z
-    webUrl: "https://www.windowscentral.com/learn-microsoft-azure-95-bundle-premium-courses-and-ebooks"
-    ampWebUrl: "https://www.windowscentral.com/learn-microsoft-azure-95-bundle-premium-courses-and-ebooks?amp"
-    cdnAmpWebUrl: "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/learn-microsoft-azure-95-bundle-premium-courses-and-ebooks?amp"
+  - title: "Adverity Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Adverity is a leading force in intelligent marketing analytics and business-ready data. Marketing data is a critical asset in helping businesses pivot, adapt and grow, but data complexity is hampering success due to the lack of understanding and ability to incorporate meaningful insights into positive outcomes."
+    publishedDateTime: 2020-07-01T15:37:00Z
+    webUrl: "https://www.exchangewire.com/blog/2020/07/01/adverity-now-available-in-the-microsoft-azure-marketplace/"
+    ampWebUrl: "https://www.exchangewire.com/blog/2020/07/01/adverity-now-available-in-the-microsoft-azure-marketplace/?amp"
+    cdnAmpWebUrl: "https://www-exchangewire-com.cdn.ampproject.org/c/s/www.exchangewire.com/blog/2020/07/01/adverity-now-available-in-the-microsoft-azure-marketplace/?amp"
     type: article
     provider:
-      name: Windows Central
-      domain: windowscentral.com
-    quality: 54
+      name: exchangewire.com
+      domain: exchangewire.com
+    quality: 57
     images:
-      - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2020/07/sale_29760_article_image-3enn.jpg"
-        width: 800
-        height: 533
+      - url: "https://www.exchangewire.com/wp-content/uploads/2019/12/adverity-logo.jpg"
+        width: 400
+        height: 400
         isCached: true
-  - title: "Learn Microsoft Azure With 95% off This Bundle of Premium Courses and eBooks"
-    excerpt: "With 90% of companies now reliant on cloud services, anyone who understands the technology has a big advantage in the job market. The Complete Microsoft Azure eBook & Video Course Bundle gives you a head start,"
-    publishedDateTime: 2020-07-29T00:06:00Z
-    webUrl: "https://crackberry.com/learn-microsoft-azure-95-bundle-premium-courses-and-ebooks"
-    ampWebUrl: "https://crackberry.com/learn-microsoft-azure-95-bundle-premium-courses-and-ebooks?amp"
-    cdnAmpWebUrl: "https://crackberry-com.cdn.ampproject.org/c/s/crackberry.com/learn-microsoft-azure-95-bundle-premium-courses-and-ebooks?amp"
+  - title: "Microsoft Azure AZ-900 Dumps and Real Practice Test [July 2020]"
+    excerpt: "Microsoft has updated the content of the Azure Fundamentals AZ-900 exam and you should prepare according to the latest changes. Candidates pass this exam to verify their basic Microsoft Azure ..."
+    publishedDateTime: 2020-07-06T08:10:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/07/ab16509774/microsoft-azure-az-900-dumps-and-real-practice-test-july-2020"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/16509774"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16509774"
     type: article
     provider:
-      name: CrackBerry.com
-      domain: crackberry.com
-    quality: 54
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 57
     images:
-      - url: "https://crackberry.com/sites/crackberry.com/files/styles/large/public/field/image/2020/07/sale_29760_article_image-3enn.jpg"
+      - url: "https://www.abnewswire.com/uploads/a2a696e019b9e12156f036b8caf3320d.jpg"
+        width: 600
+        height: 259
+        isCached: true
+  - title: "Alaska Communications Brings Locally Hosted Microsoft Azure Services to Alaska, Increasing Security and Improving Latency"
+    excerpt: "Alaska Communications (NASDAQ: ALSK) will bring locally hosted Microsoft Azure Stack Hub cloud services to Alaska. Alaska Communications, one of"
+    publishedDateTime: 2020-07-01T12:55:00Z
+    webUrl: "https://www.marketwatch.com/press-release/alaska-communications-brings-locally-hosted-microsoft-azure-services-to-alaska-increasing-security-and-improving-latency-2020-07-01"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 52
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
-        height: 800
+        height: 630
         isCached: true
-  - title: "Course 552241-A: Microsoft Azure Big Data Analytics Solutions"
-    excerpt: "A is a two-day instructor-led course is intended for data professionals who want to expand their knowledge about creating big data analytic solutions on Microsoft Azure. Students will learn how to design solutions for batch and real-time data processing."
-    publishedDateTime: 2020-07-01T21:48:00Z
-    webUrl: "https://docs.microsoft.com/en-us/learn/certifications/courses/552241"
+  - title: "MinerEye DataTracker™, Now Available in the Microsoft Azure Marketplace"
+    excerpt: "MinerEye, a leading data protector company, today announced the availability of its innovative DataTracker™ via the Microsoft Azure"
+    publishedDateTime: 2020-06-24T13:05:00Z
+    webUrl: "https://www.prnewswire.com/il/news-releases/minereye-datatracker-now-available-in-the-microsoft-azure-marketplace-301082797.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 37
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
+        isCached: true
+  - title: "Australia Seeks Switch to Microsoft Azure-Based Cloud Records"
+    excerpt: "Australia is looking to transform its data records across government organizations, by leveraging Azure solutions."
+    publishedDateTime: 2020-06-25T15:22:00Z
+    webUrl: "https://winbuzzer.com/2020/06/25/australia-seeks-switch-to-microsoft-azure-based-cloud-records-xcxwbn/"
+    type: article
+    provider:
+      name: winbuzzer.com
+      domain: winbuzzer.com
+    quality: 37
+    images:
+      - url: "https://winbuzzer.com/wp-content/uploads/2016/12/Microsoft-Azure-official-Microsoft.jpg"
+        width: 1400
+        height: 840
+        isCached: true
+  - title: "Exam AZ-104: Microsoft Azure Administrator"
+    excerpt: "Candidates for this exam should have subject matter expertise implementing, managing, and monitoring Responsibilities for an Azure Administrator include implementing, managing, and monitoring identity,"
+    publishedDateTime: 2020-06-25T06:46:00Z
+    webUrl: "https://docs.microsoft.com/en-us/learn/certifications/exams/az-104"
     type: article
     provider:
       name: Microsoft
@@ -145,6 +187,87 @@ related:
       - url: "https://docs.microsoft.com/en-us/media/logos/logo-ms-social.png"
         width: 400
         height: 400
+        isCached: true
+  - title: "Smarsh Launches Enterprise Archive Powered by Microsoft Azure"
+    excerpt: "Smarsh®, helping customers get ahead – and stay ahead – of the risk within their electronic communications, announced today that the Enterprise Archiv"
+    publishedDateTime: 2020-06-25T13:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200625005068/en/Smarsh-Launches-Enterprise-Archive-Powered-Microsoft-Azure"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 37
+    images:
+      - url: "https://mms.businesswire.com/media/20200625005068/en/755102/23/smarsh-logo-Reg%C2%AE-color-large_BEST_2019.jpg"
+        width: 1200
+        height: 627
+        isCached: true
+  - title: "Smarsh Enterprise Archive ports to Microsoft Azure"
+    excerpt: "Smarsh, helping customers get ahead – and stay ahead – of the risk within their electronic communications, announced today that the Enterprise Archive is now available on Microsoft Azure."
+    publishedDateTime: 2020-06-26T08:54:00Z
+    webUrl: "https://www.finextra.com/pressarticle/83070/smarsh-enterprise-archive-ports-to-microsoft-azure"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 37
+    images:
+      - url: "https://www.finextra.com/about/finextra-logo-alt-16-9.jpg"
+        width: 480
+        height: 270
+        isCached: true
+  - title: "Smarsh Launches Enterprise Archive Powered by Microsoft Azure"
+    excerpt: "Smarsh has launched its Enterprise Archive on the Microsoft Azure cloud platform, allowing businesses to save, search, review, and produce content from more than 80 communication channels. Smarsh also preserves the richness and complexity of data generated across all major Microsoft communications platforms,"
+    publishedDateTime: 2020-06-29T14:43:00Z
+    webUrl: "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=141574"
+    type: article
+    provider:
+      name: Destination CRM
+      domain: destinationcrm.com
+    quality: 37
+    images:
+      - url: "https://dzceab466r34n.cloudfront.net/Images/IssueImages/131140-0620_ConversationalAI_480x610-ORG.png"
+        width: 480
+        height: 610
+        isCached: true
+  - title: "Big price increases for Microsoft Azure in South Africa"
+    excerpt: "Microsoft will increase South African prices for pay-as-you-go subscriptions on its Azure cloud computing service. The price changes were announced in an email seen by MyBroadband which was sent ..."
+    publishedDateTime: 2020-06-30T07:56:00Z
+    webUrl: "https://mybroadband.co.za/news/cloud-hosting/358049-big-price-increases-for-microsoft-azure-in-south-africa.html"
+    ampWebUrl: "https://mybroadband.co.za/news/cloud-hosting/358049-big-price-increases-for-microsoft-azure-in-south-africa.html/amp"
+    cdnAmpWebUrl: "https://mybroadband-co-za.cdn.ampproject.org/c/s/mybroadband.co.za/news/cloud-hosting/358049-big-price-increases-for-microsoft-azure-in-south-africa.html/amp"
+    type: article
+    provider:
+      name: MyBroadband
+      domain: mybroadband.co.za
+    quality: 37
+  - title: "Commvault Brings Metallic To Microsoft Azure Marketplace"
+    excerpt: "Commvault is working with Microsoft Azure to bring its Metallic SaaS-based data protection technology to enterprises."
+    publishedDateTime: 2020-06-30T13:33:00Z
+    webUrl: "https://www.crn.com/news/storage/commvault-brings-metallic-to-microsoft-azure-marketplace"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 37
+    images:
+      - url: "https://www.crn.com/resources/025e-0fc6828a4345-7a6c367d681f-1000/sanjay-mirchandani-commvault.jpg"
+        width: 607
+        height: 456
+        isCached: true
+  - title: "Nasuni Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Nasuni®, a leading provider of cloud file services, today announced the Nasuni file services platform is available for purchase in"
+    publishedDateTime: 2020-07-01T13:03:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/nasuni-now-available-in-the-microsoft-azure-marketplace-301086812.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 37
+    images:
+      - url: "https://mma.prnewswire.com/media/391402/Nasuni_Logo.jpg?p=facebook"
+        width: 1497
+        height: 785
         isCached: true
   - title: "Save 95% on the Complete Microsoft Azure eBook & Video Course Bundle"
     excerpt: "We have a great deal on the Complete Microsoft Azure eBook & Video Course Bundle in the Geeky Gadgets Deals store this week, you can save 95% off the"
@@ -160,61 +283,239 @@ related:
         width: 700
         height: 526
         isCached: true
-  - title: "Microsoft Azure launches medical data-mining tool"
-    excerpt: "Microsoft announced July 8 a new artificial intelligence tool for its cloud platform Azure that allows developers to analyze unstructured medical data, including clinical notes, clinical trial protocols and medical publications."
-    publishedDateTime: 2020-07-08T15:00:00Z
-    webUrl: "https://www.beckershospitalreview.com/data-analytics/microsoft-azure-launches-medical-data-mining-tool.html"
+  - title: "Course DP-300T00-A: Administering Relational Databases on Microsoft Azure"
+    excerpt: "This course provides students with the knowledge and skills to administer a SQL Server database infrastructure for cloud, on-premises and hybrid relational databases and who work with the Microsoft PaaS relational database offerings."
+    publishedDateTime: 2020-06-28T20:16:00Z
+    webUrl: "https://docs.microsoft.com/en-us/learn/certifications/courses/dp-300t00"
     type: article
     provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 37
+      name: Microsoft
+      domain: microsoft.com
+    quality: 36
     images:
-      - url: "https://www.beckershospitalreview.com/images/channels/data-analytics/2.jpg"
+      - url: "https://docs.microsoft.com/en-us/media/logos/logo-ms-social.png"
         width: 400
-        height: 300
+        height: 400
         isCached: true
-  - title: "Train to Land an In-Demand Microsoft Azure Job with The Help of This Bundle"
-    excerpt: "15+ hours of video content and 5 ebooks can help get you up to speed on this cloud computing platform."
-    publishedDateTime: 2020-07-09T20:28:00Z
-    webUrl: "https://www.ign.com/articles/train-to-land-an-in-demand-microsoft-azure-job-with-the-help-of-this-bundle"
+  - title: "Allica Bank does business banking with a personal touch on Microsoft Azure"
+    excerpt: "Allica Bank, the business bank that seeks to empower small and medium-sized businesses, can now offer greater support to UK firms thanks to Microsoft technology. It has been built using Azure, Microsoft’s cloud platform, to securely store customer data."
+    publishedDateTime: 2020-06-29T07:45:00Z
+    webUrl: "https://news.microsoft.com/en-gb/2020/06/29/allica-bank-does-business-banking-with-a-personal-touch-on-microsoft-azure/"
     type: article
     provider:
-      name: IGN
-      domain: ign.com
+      name: Microsoft
+      domain: microsoft.com
     quality: 35
     images:
-      - url: "https://assets1.ignimgs.com/2020/07/09/sale-29760-article-image-1594323751475.jpg?width=1280"
-        width: 1280
+      - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/68/2020/06/philip-veater-mRlmfQ_yVFQ-unsplash-1-1600x1064.jpg"
+        width: 1600
+        height: 1064
+        isCached: true
+  - title: "Microsoft and Hitachi Announce Partnership Based on Azure Cloud Integration"
+    excerpt: "Microsoft and Hitachi are expanding their partnership to include a multi-year alliance focused on transforming manufacturing and logistics."
+    publishedDateTime: 2020-06-29T14:00:00Z
+    webUrl: "https://winbuzzer.com/2020/06/29/microsoft-and-hitachi-announce-partnership-based-on-azure-cloud-integration-xcxwbn/"
+    type: article
+    provider:
+      name: winbuzzer.com
+      domain: winbuzzer.com
+    quality: 35
+    images:
+      - url: "https://winbuzzer.com/wp-content/uploads/2019/12/Microsoft-Cologne-Office-Pixabay.jpg"
+        width: 957
         height: 720
         isCached: true
-  - title: "Reminder: Save 95% on the Complete Microsoft Azure eBook & Video Course Bundle"
-    excerpt: "Just a quick reminder for our readers about the awesome deal on the Complete Microsoft Azure eBook & Video Course Bundle in the Geeky Gadgets Deals store. The Complete Microsoft Azure eBook & Video Course Bundle is available in our deals store for just $29 ..."
-    publishedDateTime: 2020-07-09T11:05:00Z
-    webUrl: "https://www.geeky-gadgets.com/reminder-save-95-on-the-complete-microsoft-azure-ebook-video-course-bundle-09-07-2020/"
+  - title: "CEO Sanjay Mirchandani On Commvault Metallic And Microsoft Azure, COVID-19"
+    excerpt: "Sanjay Mirchandani told CRN that businesses, including his, will adjust to the new normal of the COVID-19 pandemic."
+    publishedDateTime: 2020-07-06T15:21:00Z
+    webUrl: "https://www.crn.com/slide-shows/channel-programs/ceo-sanjay-mirchandani-on-commvault-metallic-and-microsoft-azure-covid-19"
     type: article
     provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 33
+      name: CRN
+      domain: crn.com
+    quality: 35
     images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2020/07/Complete-Microsoft-Azure-eBook-Video-Course-Bundle-1.jpg"
-        width: 700
-        height: 526
+      - url: "https://www.crn.com/resources/025f-0fd2bb220d89-7e2805bf1204-1000/sanjay-mirchandani-commvault.jpg"
+        width: 607
+        height: 456
         isCached: true
-  - title: "Microsoft Azure Continues To Blow Up — So This Video/eBook Bundle Can Help Make You An Expert"
-    excerpt: "All together, faithful students could expect to spend over $700 for all this training. However, the package is on sale now for only $29.99, less than $3 for each video and ebook."
-    publishedDateTime: 2020-07-06T17:35:00Z
-    webUrl: "https://www.extremetech.com/deals/312405-microsoft-azure-continues-to-blow-up-so-this-video-ebook-bundle-can-help-make-you-an-expert"
+  - title: "Nuventive COVID-19 Response Hub Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Nuventive today announced the availability of the Nuventive COVID-19 Response Hub in the Microsoft Azure Marketplace, an online store"
+    publishedDateTime: 2020-07-07T12:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/nuventive-covid-19-response-hub-now-available-in-the-microsoft-azure-marketplace-301088804.html"
     type: article
     provider:
-      name: ExtremeTech
-      domain: extremetech.com
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 32
+    images:
+      - url: "https://mma.prnewswire.com/media/1201043/Nuventive_COVID_19_Response_Hub_Azure_Marketplace.jpg?p=facebook"
+        width: 854
+        height: 446
+        isCached: true
+  - title: "Thought Machine Vault now runs on Google Cloud, AWS, Microsoft Azure and IBM Cloud"
+    excerpt: "Thought Machine has announced that Vault now runs on Google Cloud Platform, Amazon Web Services, Microsoft Azure and IBM Cloud."
+    publishedDateTime: 2020-06-30T00:12:00Z
+    webUrl: "https://www.helpnetsecurity.com/2020/06/30/thought-machine-vault/"
+    type: article
+    provider:
+      name: Help Net Security
+      domain: helpnetsecurity.com
+    quality: 31
+    images:
+      - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/06/15084653/insecure-66.jpg"
+        width: 304
+        height: 430
+        isCached: true
+  - title: "Foxit Document Transformation Services Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Foxit Software, a leading provider of innovative PDF products and services, helping knowledge workers to increase their productivity and"
+    publishedDateTime: 2020-06-30T12:03:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/foxit-document-transformation-services-now-available-in-the-microsoft-azure-marketplace-301077872.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 29
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
+        isCached: true
+  - title: "Commvault’s Metallic SaaS Data Protection Now Available in the Microsoft Azure Marketplace"
+    excerpt: "PRNewswire/ -- Commvault (NASDAQ: CVLT), a recognized global enterprise software leader in the management of data across cloud and on-premises environments, has announced the availability of Metallic’s Software-as-a-Service (SaaS) data protection portfolio in the Microsoft Azure Marketplace,"
+    publishedDateTime: 2020-08-12T12:30:00Z
+    webUrl: "https://apnews.com/PR Newswire/3e2eeb6df72a20273c39aa8b9c8c7cdf"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 27
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "Bitvore Announces General Availability of its AI-Powered Cellenus Platform on Microsoft Azure"
+    excerpt: "PRNewswire/ -- Bitvore, a leading provider of AI-powered intelligence for financial institutions, today announced that it has completed a"
+    publishedDateTime: 2020-06-30T12:49:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/bitvore-announces-general-availability-of-its-ai-powered-cellenus-platform-on-microsoft-azure-301085624.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
     quality: 26
     images:
-      - url: "https://www.extremetech.com/wp-content/uploads/2020/07/sale_29760_primary_image_wide.jpg"
-        width: 992
-        height: 558
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
+        isCached: true
+  - title: "Malaysia builds its mass transit system in the Microsoft Cloud"
+    excerpt: "MRTC partnered with Bentley Systems, a member of the Microsoft Partner Network and a leading provider of software solutions for engineers, architects, builders, and owner-operators, to create its cloud-based BIM system. MRTC uses Bentley’s CDE ..."
+    publishedDateTime: 2020-06-29T00:00:00Z
+    webUrl: "https://news.microsoft.com/en-my/2020/06/29/malaysia-builds-its-mass-transit-system-in-the-microsoft-cloud/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 22
+    images:
+      - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/430/2020/07/MRT-Corp-SSP-Line-December-Taman-Naga-Emas-1-Large-1024x682.jpg"
+        width: 1024
+        height: 682
+        isCached: true
+  - title: "Three Dutch cities build an alliance on the Microsoft cloud"
+    excerpt: "Duo+ is an alliance of three cities in the Netherlands that have joined forces to collaborate administratively. Their goal is to better deal with the impact of new laws, and with the added workload and costs that were the result of taking over many governmental responsibilities passed down from the national government."
+    publishedDateTime: 2020-07-08T01:54:00Z
+    webUrl: "https://www.microsoft.com/en-us/microsoft-365/customer-stories/duo"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 22
+    images:
+      - url: "https://ms-f7-sites-01-cdn.azureedge.net/docs/stories/duo/resources/9456a0cb-1df5-4ef3-9bc7-b264baf4a077/1105580197876655638"
+        width: 5112
+        height: 3744
+        isCached: true
+  - title: "Corrata Announces Mobile Endpoint Integration with Microsoft Cloud App Security"
+    excerpt: "PRNewswire/ -- Corrata, an award-winning mobile endpoint security company, today announced availability of the first mobile endpoint integration"
+    publishedDateTime: 2020-06-30T11:46:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/corrata-announces-mobile-endpoint-integration-with-microsoft-cloud-app-security-301085864.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 18
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
+        isCached: true
+  - title: "NTT delivers access to Microsoft Azure region Germany North"
+    excerpt: "NTT said it has started to operate the Azure ExpressRoute site at its Berlin 1 Data Center to enable clients to access the new global Microsoft Azure region Germany North. Customers can now circumvent the public internet using a low-latency private ramp-up,"
+    publishedDateTime: 2020-06-29T10:40:00Z
+    webUrl: "https://www.telecompaper.com/news/ntt-delivers-access-to-microsoft-azure-region-germany-north--1344372"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 17
+  - title: "Teradata Strengthens Cloud Offerings on Amazon Web Services and Microsoft Azure"
+    excerpt: "... announced a myriad of enhancements to its as-a-service offerings for Teradata Vantage on public cloud providers Amazon Web Services (AWS) and Microsoft Azure. The improvements will also apply to Vantage on Google Cloud Platform (GCP), which will begin ..."
+    publishedDateTime: 2020-06-23T14:31:00Z
+    webUrl: "https://www.oaoa.com/news/business/article_756a3384-1320-5c65-b911-0d1dfea48287.html"
+    type: article
+    provider:
+      name: Odessa American
+      domain: oaoa.com
+    quality: 13
+  - title: "Alaska Communications brings locally hosted Microsoft Azure Services to Alaska"
+    excerpt: "Alaska Communications will bring locally hosted Microsoft Azure Stack Hub cloud services to Alaska. Alaska Communications used Azure Stack Hub to enhance computing by offering greater flexibility and reliability."
+    publishedDateTime: 2020-07-02T08:04:00Z
+    webUrl: "https://www.telecompaper.com/news/alaska-communications-brings-locally-hosted-microsoft-azure-services-to-alaska--1344916"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 13
+  - title: "Tiger Analytics Announces New Analytics and AI Solutions Built on Microsoft Cloud Services"
+    excerpt: "CHENNAI, India and SANTA CLARA, Calif., June 29, 2020 /PRNewswire-PRWeb/ -- Tiger Analytics, a leading provider of AI & advanced analytics consulting services has come"
+    publishedDateTime: 2020-06-29T05:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/06/n16422337/tiger-analytics-announces-new-analytics-and-ai-solutions-built-on-microsoft-cloud-services"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/16422337"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16422337"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 12
+  - title: "IDology's ExpectID Identity Verification and Anti-Fraud Solution Now Available to Microsoft Azure Active Directory Customers"
+    excerpt: "IDology, a GBG company, today announced a partnership with Microsoft to integrate its innovative ExpectID identity verification and"
+    publishedDateTime: 2020-06-30T13:37:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/idologys-expectid-identity-verification-and-anti-fraud-solution-now-available-to-microsoft-azure-active-directory-customers-301085766.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 10
+    images:
+      - url: "https://mma.prnewswire.com/media/604756/IDology_Logo.jpg?p=facebook"
+        width: 2700
+        height: 1414
+        isCached: true
+  - title: "The Coca-Cola Company announces strategic partnership with Microsoft to transform global engagement and experiences"
+    excerpt: "The Coca-Cola Company (NYSE: “KO”) on Monday announced a five-year agreement with Microsoft Corp. (Nasdaq: “MSFT)"
+    publishedDateTime: 2020-04-27T15:31:00Z
+    webUrl: "https://apnews.com/PR Newswire/cd5af10340231d2145bc2ee6bc0ff70d"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 0
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "3T0fdXRB0+wqJ4aTcF8Z53o0beQWRarrnrILK04wiW79Kk8CEsknlqpSEl/9oaeAAHv7CjdXDg238nE6GCuK898KDV0Rl00xWegJlcuUqT2uMTYGNkeChExHmUYIeWs55+dH/stN62WoS73LVJtD8BgivFdW41SH/XB/cYmYwMHIvJ6HY7a7WZWII+K9HI5VrWSfu6bPADyCGvnBfHXyjLKxQAEN1+Lx+bcJQ/6xce4qzY/Ad+CMm5+GGxvJt7DKNaLO6U/aLSUjeEtOmJ8tSHz2hiVZ8UcvC4TU4oxBWkrjMoaY7/KBF2gCCAFhseh1bioRjT3Zj2Maql/uFxkChQ==;mfLdbHMA9bXohtGXDKPFsg=="

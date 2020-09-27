@@ -42,6 +42,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Cloud Monitoring Market, Growth Analysis by Size, Market Share ,Forecast till 2023"
+    excerpt: "Cloud monitoring is the process of reviewing, monitoring and managing the operational workflow and processes within a cloud-based IT asset or infrastructure. It is the use of manu"
+    publishedDateTime: 2020-05-03T06:56:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cloud-monitoring-market-growth-analysis-by-size-market-share-forecast-till-2023-2020-05-03"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 56
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Cloud Network Infrastructure Market : Global Business Growth, Size and share 2018-2023"
     excerpt: "Cloud Network Infrastructure Market: By Component (Hardware, Services), Deployment (Public, Private and Hybrid),"
     publishedDateTime: 2020-05-03T15:13:00Z
@@ -84,29 +98,15 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Cloud Backup Market Analysis, Evolving Opportunities Studied for the Period Until 2025 +CAGR of 23.8%"
-    excerpt: "Global Cloud Backup Market was valued at USD 1.7 Billion in the year 2017. Global Cloud Backup Market is further"
-    publishedDateTime: 2020-04-28T11:11:00Z
-    webUrl: "https://www.marketwatch.com/press-release/cloud-backup-market-analysis-evolving-opportunities-studied-for-the-period-until-2025-cagr-of-238-2020-04-28"
+  - title: "Cloud High-Performance Computing Market industry Size, Market Share, Leading Players and Forecast 2018-2023"
+    excerpt: "Global Cloud High Performance Computing Market: Component (Hardware, Software), Service (Professional, Managed),"
+    publishedDateTime: 2020-05-04T01:22:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cloud-high-performance-computing-market-industry-size-market-share-leading-players-and-forecast-2018-2023-2020-05-03"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 47
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global Cloud Gaming Market 2020 (Edition:2020) Outstanding Growth - NVIDIA Corporation, Amazon Web Services Inc and Microsoft Corporation"
-    excerpt: "Global Cloud Gaming Market (Revenue and Volume), Type, Application, End-User, and Regional Analysis, Import-Export Analysis, Industry Analysis, Premium Insights, Intellectual Property Analysis, Market Attractiveness,"
-    publishedDateTime: 2020-04-29T09:38:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-cloud-gaming-market-2020-edition2020-outstanding-growth---nvidia-corporation-amazon-web-services-inc-and-microsoft-corporation-2020-04-29"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 29
+    quality: 44
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -125,20 +125,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Gartner: Threats and opportunities facing cloud service providers during COVID-19"
-    excerpt: "Tech leaders need a thorough understanding of the threats, opportunities and forthcoming events that will occur as a result of the coronavirus pandemic."
-    publishedDateTime: 2020-05-04T13:57:00Z
-    webUrl: "https://www.ciodive.com/news/gartner-cloud-csp/577125/"
-    type: article
-    provider:
-      name: CIO Dive
-      domain: ciodive.com
-    quality: 17
-    images:
-      - url: "https://www.ciodive.com/user_media/cache/12/e2/12e2858c5eb8a7668a4ac74e3c216843.jpg"
-        width: 770
-        height: 364
         isCached: true
 
 secured: "AACWEfsuZxwnm1UIV/zUm4/FwEN+YDv4HtmwYXLUHBAPAkX1o+8Z2fAFm9pTkZcmkHI7AEDobai11dv0L+v3bRAziZk3hETFSLVcqLDvDnA3MERGqGfOKu6Rv76Oytgb11U5FyfRu76lpp4HG1BnZxvMpKeBIrRW3PCU98tS9buvf3fwIJ7AZnlqkKRc7v/RIw45EJQzaoxo/VNF+gIl3nv/Mp23WRLhhAexCdE+rw8z0Sogj9DS6b5OBf664r/X0nhq0zXdFKZGSL4wKS1n1u3h5blljuXHU3iM4wj3S+F0+Ao3dtDD9Z5EkYk1B1ij;/gT1DGRiQyMrahqwijCVoQ=="

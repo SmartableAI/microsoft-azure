@@ -30,6 +30,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 17
+  - title: "Azure SQL Managed Instance management pack is now generally available"
+    excerpt: "System Center Operations Manager (SCOM) management pack for Azure SQL Managed Instance is now generally available."
+    publishedDateTime: 2020-07-15T23:00:30Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-sql-managed-instance-management-pack-is-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 17
   - title: "Custom Commands is now generally available"
     excerpt: "Streamline the process for creating task-oriented voice applications with Custom Commands (now generally available)."
     publishedDateTime: 2020-07-08T16:00:19Z

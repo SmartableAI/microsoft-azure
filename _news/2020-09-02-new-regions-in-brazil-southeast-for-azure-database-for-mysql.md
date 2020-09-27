@@ -7,8 +7,8 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/new-regions-in-brazil-so
 webUrl: "https://azure.microsoft.com/en-us/updates/new-regions-in-brazil-southeast-for-azure-database-for-mysql/"
 type: article
 quality: 67
-heat: 67
-published: false
+heat: 87
+published: true
 
 provider:
   name: Microsoft
@@ -20,6 +20,17 @@ provider:
 
 topics:
   - Azure
+
+related:
+  - title: "Private Link for Azure Database for MySQL now in two US government regions"
+    excerpt: ""
+    publishedDateTime: 2020-05-04T18:00:17Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/private-link-for-azure-database-for-mysql-in-usgov/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 15
 
 secured: "YchfB/b6MD7nynOgwhWpFMgvVrXlzNpJ1szvfC715VtFAlwVcGJlqsMVkeXKLo2RAycD0lag4svnGBPzdsjlGLNRob7J9CGzqv0IDKBRaMN33BmsUG+ZsqwIdbgPQbAJrvoVbRWJXwXFjAl4uc8BJxdFRWw+AfagC3h9K47yur4Gn2gSm6sc6GJ7annLklejpf++heMIf9KnIafa2zixAqkxw+yH2ze6z4hN3jOOosrRN/axGxPE56nYK7uXd9kZArVT/Pvh5+IJTvqgMexqDXs/ReXF6dUFqHIQIi5nRUik7Jk34A/HbuuJJOJQNOlZuiJrau/KHVsXaiFPiWLIql4UkzTV2Hi+agCGCYCMzAs=;KwaeDQ6ddrIszAzxGenLlw=="
 ---

@@ -2,22 +2,73 @@
   "page": 6,
   "value": [
     {
-      "path": "_news/2020-07-16-azure-data-factory-managed-virtual-network.md",
-      "title": "Azure Data Factory Managed Virtual Network",
-      "excerpt": "When you create an Azure Integration Runtime (IR) within Azure Data Factory Managed Virtual Network (VNet), the integration runtime will be provisioned with the managed VNet and will\nleverage private endpoints to securely connect to supported data stores.",
+      "path": "_news/2020-06-18-making-your-data-residency-choices-easier-with-azure.md",
+      "title": "Making your data residency choices easier with Azure",
+      "excerpt": "We understand that with Azure’s over 200 services, advances in architecture, and data protection promises, there are a lot of options available to customers. To help you make the right decisions, we have summarized the answers to your questions on Azure regions, data residency, data access, and retention.",
       "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/blog/azure-data-factory-managed-virtual-network/",
-      "originalUrl": null,
+      "webUrl": "https://azure.microsoft.com/blog/making-your-data-residency-choices-easier-with-azure/",
+      "originalUrl": "https://azure.microsoft.com/blog/making-your-data-residency-choices-easier-with-azure/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 109,
       "tags": null,
       "images": [
         {
-          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/5676f52b-6929-47d9-bfc1-b9a2825193e2.png",
+          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/9475f076-c845-48ff-85ab-3ee29228207f.png",
+          "width": 381,
+          "height": 480,
+          "title": "Making your data residency choices easier with Azure",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-18T04:30:28-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure",
+        "Analytics"
+      ]
+    },
+    {
+      "path": "_news/2020-06-18-achieve-higher-performance-and-cost-savings-on-azure-with-virtual-machine-bursting.md",
+      "title": "Achieve higher performance and cost savings on Azure with virtual machine bursting",
+      "excerpt": "Virtual machine bursting, which is enabled by default, offers you the ability to achieve higher throughput for a short duration on your virtual machine instance with no additional steps or cost.",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/blog/achieve-higher-performance-and-cost-savings-on-azure-with-virtual-machine-bursting/",
+      "originalUrl": "https://azure.microsoft.com/blog/achieve-higher-performance-and-cost-savings-on-azure-with-virtual-machine-bursting/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/977114bc-6c0d-44dd-bdb3-413fd3bcbeed.png",
           "width": 624,
-          "height": 303,
-          "title": null,
+          "height": 480,
+          "title": "Achieve higher performance and cost savings on Azure with virtual machine bursting",
           "attribution": null,
           "isCached": true
         }
@@ -25,7 +76,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-16T06:00:41-07:00",
+      "publishedDateTime": "2020-06-18T02:30:27-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",
@@ -48,26 +99,71 @@
         "news"
       ],
       "topics": [
-        "Azure"
+        "Azure",
+        "Storage",
+        "Management tools",
+        "Compute"
       ]
     },
     {
-      "path": "_news/2020-07-16-azure-time-series-insights-gen2-leading-the-next-generation-of-industrial-iot-analytics-platforms.md",
-      "title": "Azure Time Series Insights Gen2: Leading the next generation of industrial IoT analytics platforms",
-      "excerpt": "Azure Time Series Insights Gen2—a fully managed IoT analytics platform is now generally available today. With Azure Time Series Insights Gen2, you can explore and analyze billions of contextualized events across millions of sensors.",
+      "path": "_news/2020-06-17-announcing-azure-machine-learning-scholarships-and-courses-with-udacity.md",
+      "title": "Announcing Azure Machine Learning scholarships and courses with Udacity",
+      "excerpt": "According to LinkedIn’s Emerging Jobs Report for 2020, AI specialist roles are most sought after with a 74 percent annual growth rate in hiring over the last four years. To address this demand, we're pleased to announce our collaboration with Udacity to launch new machine learning courses, for both beginners",
       "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/blog/azure-time-series-insights-gen-2-leading-the-next-generation-of-industrial-iot-analytics-solutions/",
-      "originalUrl": "https://azure.microsoft.com/blog/azure-time-series-insights-gen-2-leading-the-next-generation-of-industrial-iot-analytics-solutions/",
+      "webUrl": "https://azure.microsoft.com/blog/announcing-azure-machine-learning-scholarships-and-courses-with-udacity/",
+      "originalUrl": "https://azure.microsoft.com/blog/announcing-azure-machine-learning-scholarships-and-courses-with-udacity/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 130,
+      "heat": 84,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-17T01:30:13-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-16-town-of-cary-innovates-flood-prediction-with-iot.md",
+      "title": "Town of Cary innovates flood prediction with IoT",
+      "excerpt": "This post was co-authored by Daniel Sumner, Worldwide Industry Director, Government—Smart Infrastructure at Microsoft.\r\n\r\nAccording to Flood Safety, flooding is the most common type of natural disaster worldwide. It affects tens of millions of people around the world each year and causes, on average,",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/blog/town-of-cary-innovates-flood-prediction-with-iot/",
+      "originalUrl": "https://azure.microsoft.com/blog/town-of-cary-innovates-flood-prediction-with-iot/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
       "tags": null,
       "images": [
         {
-          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/5f45b0b1-c717-4967-b855-55833068b919.png",
+          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/61b4a5f1-33bb-4726-872c-760102ea4678.jpg",
           "width": 1024,
-          "height": 572,
-          "title": null,
+          "height": 670,
+          "title": "Town of Cary innovates flood prediction with IoT",
           "attribution": null,
           "isCached": true
         }
@@ -75,7 +171,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-16T05:00:41-07:00",
+      "publishedDateTime": "2020-06-16T02:00:10-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",
@@ -103,139 +199,37 @@
       ]
     },
     {
-      "path": "_news/2020-07-16-microsoft-azure-iot-connector-for-fhir-now-in-preview.md",
-      "title": "Microsoft Azure IoT Connector for FHIR now in preview",
-      "excerpt": "The preview of Azure IoT Connector for FHIR—a fully managed and compliant feature of the Azure API for FHIR—is now available. The connector empowers health teams with the technology for a scalable end-to-end pipeline to ingest, transform, and manage Protected Health Information (PHI) data from devices",
+      "path": "_news/2020-06-15-microsoft-azure-becomes-sass-preferred-cloud-platform.md",
+      "title": "Microsoft Azure becomes SAS’s preferred cloud platform",
+      "excerpt": "SAS goes all in on Azure as both conclude a strategic partnership covering go to market and product development. SAS analytics capabilities could be integrated across the Azure portfolio to provide an additional option for model lifecycle management.",
       "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/blog/microsoft-azure-iot-connector-for-fhir-now-in-preview/",
-      "originalUrl": "https://azure.microsoft.com/blog/microsoft-azure-iot-connector-for-fhir-now-in-preview/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 284,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/e5a083c8-5be0-4b4a-8878-bf65fbf877f9.png",
-          "width": 735,
-          "height": 411,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-16T04:00:40-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure",
-        "IoT"
-      ]
-    },
-    {
-      "path": "_news/2020-07-16-running-sd-wan-virtual-appliances-natively-in-azure-virtual-wan.md",
-      "title": "Running SD-WAN virtual appliances natively in Azure Virtual WAN",
-      "excerpt": "Today we’re announcing the preview of the new ability to deploy and run third-party Network Virtual Appliances such as SD-WAN natively within the Azure Virtual WAN hubs.",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/blog/running-sdwan-virtual-appliances-natively-in-azure-virtual-wan/",
-      "originalUrl": "https://azure.microsoft.com/blog/running-sdwan-virtual-appliances-natively-in-azure-virtual-wan/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 169,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/861ec5e7-1837-4e5f-b7ba-8721cc802554.png",
-          "width": 911,
-          "height": 513,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-16T03:00:40-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure",
-        "Networking"
-      ]
-    },
-    {
-      "path": "_news/2020-07-15-microsoft-partners-with-land-olakes-to-build-agriculture-tech-on-azure.md",
-      "title": "Microsoft partners with Land O’Lakes to build agriculture tech on Azure",
-      "excerpt": "Microsoft’s latest cloud partnership is with Land O’Lakes, the farming giant which will use Microsoft’s Azure technologies to spur sustainable farming practices and help farmers be more efficient.",
-      "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/2020/microsoft-partners-land-olakes-build-agriculture-tech-azure/",
+      "webUrl": "https://www.zdnet.com/article/microsoft-azure-becomes-sass-preferred-cloud-platform/",
       "originalUrl": null,
       "featuredContent": null,
       "highlight": null,
-      "heat": 257,
+      "heat": 1017,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/07/1.jpeg",
-          "width": 950,
-          "height": 632,
-          "title": null,
+          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/06/12/cf920af9-289e-4b20-a13f-7556c4eb24c5/enterra-solutions-ml-cloud.png",
+          "width": 1125,
+          "height": 1125,
+          "title": "Microsoft Azure becomes SAS’s preferred cloud platform",
           "attribution": null,
           "isCached": true
         }
       ],
       "type": "article",
-      "ampWebUrl": "https://www.geekwire.com/2020/microsoft-partners-land-olakes-build-agriculture-tech-azure/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/microsoft-partners-land-olakes-build-agriculture-tech-azure/amp/",
-      "publishedDateTime": "2020-07-15T11:08:00-07:00",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsoft-azure-becomes-sass-preferred-cloud-platform/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-azure-becomes-sass-preferred-cloud-platform/",
+      "publishedDateTime": "2020-06-15T08:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
+        "name": "ZDNet",
+        "domain": "zdnet.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/geekwire.com-50x50.jpg",
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/zdnet.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -255,22 +249,107 @@
       ]
     },
     {
-      "path": "_news/2020-07-15-run-high-scale-workloads-on-blob-storage-with-new-200-tb-object-sizes.md",
-      "title": "Run high scale workloads on Blob storage with new 200 TB object sizes",
-      "excerpt": "Azure Blob storage is a massively scalable object storage solution that serves from small amounts to hundreds of petabytes of data per customer across a diverse set of data types including logging, documents, media, genomics, seismic processing, and much more.",
+      "path": "_news/2020-06-15-edgenexus-brings-advanced-load-balancing-to-azure.md",
+      "title": "Edgenexus brings advanced load balancing to Azure",
+      "excerpt": "Microsoft Azure customers worldwide now gain access to Advanced Load Balancer to take advantage of the scalability, reliability, and agility of Azure to drive application development and shape business strategies.",
       "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/blog/run-high-scale-workloads-on-blob-storage-with-new-200-tb-object-sizes/",
-      "originalUrl": "https://azure.microsoft.com/blog/run-high-scale-workloads-on-blob-storage-with-new-200-tb-object-sizes/",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/edgenexus-brings-advanced-load-balancing-to-azure-1029308747",
+      "originalUrl": null,
       "featuredContent": null,
       "highlight": null,
-      "heat": 91,
+      "heat": 77,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/edgenexus-brings-advanced-load-balancing-to-azure-1029308747",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/edgenexus-brings-advanced-load-balancing-to-azure-1029308747",
+      "publishedDateTime": "2020-06-15T07:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
+      "path": "_news/2020-06-15-six-reasons-customers-trust-azure-to-run-their-sap-solutions.md",
+      "title": "Six reasons customers trust Azure to run their SAP solutions",
+      "excerpt": "As global organizations across every industry adjust to the new normal, SAP solutions are playing an increasingly vital role in addressing immediate needs and paving a path to a resilient future. Now more than ever, companies are realizing the value of running their SAP solutions in the cloud. While",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/blog/six-reasons-customers-trust-azure-to-run-their-sap-solutions/",
+      "originalUrl": "https://azure.microsoft.com/blog/six-reasons-customers-trust-azure-to-run-their-sap-solutions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-15T01:00:01-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure",
+        "Compute",
+        "Developer tools",
+        "Web"
+      ]
+    },
+    {
+      "path": "_news/2020-06-11-introducing-live-video-analytics-from-azure-media-servicesnow-in-preview.md",
+      "title": "Introducing live video analytics from Azure Media Services—now in preview",
+      "excerpt": "Azure Media Services is pleased to announce the preview of a new platform capability called Live Video Analytics, or in short, LVA. LVA provides a platform for you to build hybrid applications with video analytics capabilities. The platform offers the capability of capturing, recording, and analyzing",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/blog/introducing-live-video-analytics-on-iot-edge-now-in-preview/",
+      "originalUrl": "https://azure.microsoft.com/blog/introducing-live-video-analytics-on-iot-edge-now-in-preview/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 145,
       "tags": null,
       "images": [
         {
-          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/d97748fa-5913-4666-9b2d-e3df500ccd5e.png",
-          "width": 973,
-          "height": 502,
-          "title": null,
+          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/7ca46f3e-646d-4280-8e23-ff4336ba416d.png",
+          "width": 642,
+          "height": 309,
+          "title": "Introducing live video analytics from Azure Media Services—now in preview",
           "attribution": null,
           "isCached": true
         }
@@ -278,7 +357,162 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-15T02:00:26-07:00",
+      "publishedDateTime": "2020-06-11T04:30:23-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure",
+        "IoT",
+        "Analytics"
+      ]
+    },
+    {
+      "path": "_news/2020-06-11-new-features-and-insights-in-azure-monitor.md",
+      "title": "New features and insights in Azure Monitor",
+      "excerpt": "Customers need full stack observability for their apps and infrastructure across Azure and hybrid environments to ensure their workloads are always up and running, for which they rely on Azure Monitor. Over the past few months, we have released many new capabilities targeting to improve native integration",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/blog/new-features-and-insights-in-azure-monitor/",
+      "originalUrl": "https://azure.microsoft.com/blog/new-features-and-insights-in-azure-monitor/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 146,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/2eaaeb65-3d31-4f10-acfd-c879f6a49a79.png",
+          "width": 651,
+          "height": 768,
+          "title": "New features and insights in Azure Monitor",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-11T02:00:02-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure",
+        "Management tools",
+        "DevOps"
+      ]
+    },
+    {
+      "path": "_news/2020-06-10-azure-machine-learningwhats-new-from-build-2020.md",
+      "title": "Azure Machine Learning—what’s new from Build 2020",
+      "excerpt": "Machine learning (ML) is gaining momentum across a number of industries and scenarios as enterprises look to drive innovation, increase efficiency, and reduce costs. Microsoft Azure Machine Learning empowers developers and data scientists with enterprise-grade capabilities to accelerate the ML lifecycle.",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/blog/azure-machine-learning-what-s-new-from-build-2020/",
+      "originalUrl": "https://azure.microsoft.com/blog/azure-machine-learning-what-s-new-from-build-2020/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/db646164-18d7-4987-a7ed-dd7451206d47.png",
+          "width": 1024,
+          "height": 586,
+          "title": "Azure Machine Learning—what’s new from Build 2020",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-10T05:00:14-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-10-azure-files-enhances-data-protection-capabilities.md",
+      "title": "Azure Files enhances data protection capabilities",
+      "excerpt": "Protecting your production data is critical for any business. That’s why Azure Files has a multi-layered approach to ensuring your data is highly available, backed up, and recoverable. Whether it’s a ransomware attack, a datacenter outage, or a file share that was accidentally deleted, we want to make",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/blog/azure-files-enhances-data-protection-capabilities/",
+      "originalUrl": "https://azure.microsoft.com/blog/azure-files-enhances-data-protection-capabilities/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/58c78eec-5ed2-4255-824c-4bfce9809ba8.png",
+          "width": 1024,
+          "height": 360,
+          "title": "Azure Files enhances data protection capabilities",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-10T04:30:14-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",
@@ -307,170 +541,37 @@
       ]
     },
     {
-      "path": "_news/2020-07-15-now-save-up-to-52-percent-when-migrating-to-azure-databricks.md",
-      "title": "Now save up to 52 percent when migrating to Azure Databricks",
-      "excerpt": "To make it easier for customers to modernize their on-premises Spark and big data workloads to the cloud, we’re announcing a new migration offer with Azure Databricks.",
+      "path": "_news/2020-06-01-microsoft-azure-5g-and-hybrid-cloud-what-you-need-to-know.md",
+      "title": "Microsoft Azure, 5G and hybrid cloud: What you need to know",
+      "excerpt": "It's a vision that's core to Microsoft's current strategy, focused on delivering the tools needed to build a hybrid cloud that reaches from the hyperscale global computer of Azure into Windows, and then on down into the smallest of devices,",
       "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/blog/now-save-up-to-52-percent-when-migrating-to-azure-databricks/",
-      "originalUrl": "https://azure.microsoft.com/blog/now-save-up-to-52-percent-when-migrating-to-azure-databricks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-15T01:00:28-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure",
-        "Migration"
-      ]
-    },
-    {
-      "path": "_news/2020-07-15-axilion-smart-mobility-recognized-as-the-finalist-of-azure-ai-and-machine-learning-2020-microsoft-partner-of-the-year.md",
-      "title": "Axilion Smart Mobility recognized as the finalist of Azure - AI and Machine Learning 2020 Microsoft Partner of the Year",
-      "excerpt": "Global Partner of the Year 2020 in AI & Machine Learning Mr. Moshe Leon, Mayor of Jerusalem - \" Jerusalem's long-standing partnership with Axilion is getting international recognition once again, with Microsoft's announcement of Axilion as this year's finalist in their Global 2020 Partner of the Year Award by Microsoft's top management.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/axilion-smart-mobility-recognized-as-the-finalist-of-azure-ai-and-machine-learning-2020-microsoft-partner-of-the-year-1029393925",
+      "webUrl": "https://www.techrepublic.com/article/microsoft-azure-5g-and-hybrid-cloud-what-you-need-to-know/",
       "originalUrl": null,
       "featuredContent": null,
       "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/axilion-smart-mobility-recognized-as-the-finalist-of-azure-ai-and-machine-learning-2020-microsoft-partner-of-the-year-1029393925",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/axilion-smart-mobility-recognized-as-the-finalist-of-azure-ai-and-machine-learning-2020-microsoft-partner-of-the-year-1029393925",
-      "publishedDateTime": "2020-07-15T00:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_news/2020-07-14-microsoft-announces-azure-centric-alliance-with-ch-robinson.md",
-      "title": "Microsoft announces Azure-centric alliance with C.H. Robinson",
-      "excerpt": "With focus lying on the digital transformation of supply chains, the partnership between Microsoft and C.H. Robinson will look toward leveraging Azure, Azure IoT, and the Navisphere platform.",
-      "sourceUrl": null,
-      "webUrl": "https://www.neowin.net/news/microsoft-announces-azure-centric-alliance-with-ch-robinson",
-      "originalUrl": null,
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 137,
+      "heat": 697,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn.neow.in/news/images/uploaded/2020/07/1594761150_microsoft_c.h._robinson_logo_story.jpg",
-          "width": 760,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.neowin.net/amp/microsoft-announces-azure-centric-alliance-with-ch-robinson/",
-      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-announces-azure-centric-alliance-with-ch-robinson/",
-      "publishedDateTime": "2020-07-14T14:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_news/2020-07-14-bigquery-omni-will-query-data-across-google-aws-and-azure-clouds.md",
-      "title": "BigQuery Omni will query data across Google, AWS, and Azure clouds",
-      "excerpt": "Google Cloud is previewing a BigQuery service that promises to eliminate painful and costly data movement by querying the data in place",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3566559/bigquery-omni-will-query-data-across-google-aws-and-azure-clouds.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 217,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.techhive.com/images/article/2014/03/178803656-100249440-large.jpg",
+          "url": "https://tr3.cbsistatic.com/hub/i/r/2020/06/01/12a49242-cb6f-466e-ac30-2f1d48e27d5a/resize/1200x/f2fbe90de778e11920caa51ecc173d36/tr-azure-edge-zones-2.jpg",
           "width": 1200,
-          "height": 939,
-          "title": null,
+          "height": 815,
+          "title": "Microsoft Azure, 5G and hybrid cloud: What you need to know",
           "attribution": null,
           "isCached": true
         }
       ],
       "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3566559/bigquery-omni-will-query-data-across-google-aws-and-azure-clouds.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3566559/bigquery-omni-will-query-data-across-google-aws-and-azure-clouds.amp.html",
-      "publishedDateTime": "2020-07-14T09:01:00-07:00",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/microsoft-azure-5g-and-hybrid-cloud-what-you-need-to-know/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-azure-5g-and-hybrid-cloud-what-you-need-to-know/",
+      "publishedDateTime": "2020-06-01T04:02:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/infoworld.com-50x50.jpg",
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/techrepublic.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -490,63 +591,22 @@
       ]
     },
     {
-      "path": "_news/2020-07-14-nab-to-share-development-costs-with-microsoft-as-it-sends-1000-apps-to-azure.md",
-      "title": "NAB to share development costs with Microsoft as it sends 1,000 apps to Azure",
-      "excerpt": "The National Australia Bank (NAB) is expanding its partnership with Microsoft, this time seeking to send 1,000 of its 2,600 applications to Azure. The new five-year deal with Microsoft will see the pair co-design, develop, and invest in multi-cloud tech to ...",
+      "path": "_news/2020-06-01-azure-maps-creator-now-available-in-preview.md",
+      "title": "Azure Maps Creator now available in preview",
+      "excerpt": "As enterprises continue to evolve in their digital transformation journey, there is a need for augmenting Azure Maps content with project-specific and private business knowledge of places. Today we're launching Azure Maps Creator in preview to extend location intelligence to indoor spaces.\r\n\r\nEnterprises",
       "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/nab-to-share-development-costs-with-microsoft-as-it-sends-1000-apps-to-azure/",
-      "originalUrl": null,
+      "webUrl": "https://azure.microsoft.com/blog/azure-maps-creator-now-available-in-preview/",
+      "originalUrl": "https://azure.microsoft.com/blog/azure-maps-creator-now-available-in-preview/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/nab-to-share-development-costs-with-microsoft-as-it-sends-1000-apps-to-azure/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/nab-to-share-development-costs-with-microsoft-as-it-sends-1000-apps-to-azure/",
-      "publishedDateTime": "2020-07-13T17:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_news/2020-07-13-azure-files-support-and-new-updates-in-advanced-threat-protection-for-azure-storage.md",
-      "title": "Azure Files support and new updates in advanced threat protection for Azure Storage",
-      "excerpt": "A year ago we announced the general availability of advanced threat protection for Azure Storage, to help our customers better protect their data in blob containers from the growing risk of cyberattacks.",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/blog/azure-files-support-and-new-updates-in-advanced-threat-protection-for-azure-storage/",
-      "originalUrl": "https://azure.microsoft.com/blog/azure-files-support-and-new-updates-in-advanced-threat-protection-for-azure-storage/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
+      "heat": 333,
       "tags": null,
       "images": [
         {
-          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/ee329ce4-7204-4fc5-86e0-c004e01b3f19.png",
-          "width": 1024,
-          "height": 515,
-          "title": null,
+          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/a6153b4c-6ec4-4b09-b1e7-dd8f2be265dd.png",
+          "width": 780,
+          "height": 768,
+          "title": "Azure Maps Creator now available in preview",
           "attribution": null,
           "isCached": true
         }
@@ -554,7 +614,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-13T03:00:01-07:00",
+      "publishedDateTime": "2020-06-01T01:00:09-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",
@@ -578,468 +638,36 @@
       ],
       "topics": [
         "Azure",
-        "Security"
+        "IoT",
+        "Mobile",
+        "Web"
       ]
     },
     {
-      "path": "_news/2020-07-09-recorded-demo-5-azure-data-backup-best-practices.md",
-      "title": "Recorded Demo: 5 Azure Data Backup Best Practices",
-      "excerpt": "Watch this interactive product demo to learn more about how NEW Veeam Backup for Microsoft Azure delivers enterprise-ready Azure backup and recovery to cost-effectively and securely protect your cloud data, including: An introduction to Veeam Backup for ...",
+      "path": "_news/2020-05-31-servicenow-stock-outperforms-top-cloud-rivals-on-encouraging-outlook.md",
+      "title": "ServiceNow Stock Outperforms Top Cloud Rivals On Encouraging Outlook",
+      "excerpt": "ServiceNow shares are up 20% since the company in late April delivered a solid Q1 earnings report and offered encouraging Q2 guidance. The stock has risen 37.4% YTD.",
       "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/resources/205550/recorded-demo-5-azure-data-backup-best-practices",
+      "webUrl": "https://www.forbes.com/sites/robertdefrancesco/2020/05/31/servicenow-stock-outperforms-top-cloud-rivals-on-encouraging-outlook/",
       "originalUrl": null,
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 82,
       "tags": null,
       "images": [
         {
-          "url": "https://idge.staticworld.net/ifw/IFW_logo_social_300x300.png",
-          "width": 300,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-09T07:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_news/2020-07-09-office-365-backup-to-object-storage-aws-s3-and-azure-blob.md",
-      "title": "Office 365 backup to object storage: AWS S3 and Azure Blob",
-      "excerpt": "This 8-minute demo of Veeam® Backup for Microsoft Office 365 will show how to eliminate the risk of losing access and control over your Office 365 data including Exchange Online, SharePoint Online, OneDrive for Business and Microsoft Teams.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/resources/205536/office-365-backup-to-object-storage-aws-s3-and-azure-blob",
-      "originalUrl": null,
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://idge.staticworld.net/ifw/IFW_logo_social_300x300.png",
-          "width": 300,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-09T06:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_news/2020-07-09-making-buildings-smarter-with-azure-iot.md",
-      "title": "Making buildings smarter with Azure IoT",
-      "excerpt": "Learn how Bosch Building Technologies, Bentley Systems, Schneider Electric, and ICONICS use Azure IoT to deliver the benefits of smart buildings.",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/blog/making-buildings-smarter-with-azure-iot/",
-      "originalUrl": "https://azure.microsoft.com/blog/making-buildings-smarter-with-azure-iot/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/c1c4f0fc-0217-4d75-ab3b-ff928aead4ad.jpg",
-          "width": 1024,
-          "height": 671,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-09T01:00:10-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure",
-        "IoT"
-      ]
-    },
-    {
-      "path": "_news/2020-07-08-azure-ai-build-mission-critical-ai-apps-with-new-cognitive-services-capabilities.md",
-      "title": "Azure AI: Build mission-critical AI apps with new Cognitive Services capabilities",
-      "excerpt": "As the world adjusts to new ways of working and staying connected, we remain committed to providing Azure AI solutions to help organizations invent with purpose.",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/blog/azure-ai-build-missioncritical-ai-apps-with-new-cognitive-services-capabilities/",
-      "originalUrl": "https://azure.microsoft.com/blog/azure-ai-build-missioncritical-ai-apps-with-new-cognitive-services-capabilities/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/6c142214-bbee-499c-bf07-e565fcbc4294.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": "Azure AI: Build mission-critical AI apps with new Cognitive Services capabilities",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-08T01:00:52-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-06-hello-azurebook-why-microsofts-windows-future-is-intel-free-and-cloudy.md",
-      "title": "Hello, Azurebook: Why Microsoft's Windows future is Intel-free and cloudy",
-      "excerpt": "The natural response to Apple's Arm migration is \"What is Microsoft doing?\"  Is the company similarly going to do a full port of Windows to Arm and work with the OEM ecosystem to make Arm PCs? Because Microsoft is a much more transparent company than Apple,",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/hello-azurebook-why-microsofts-windows-future-is-intel-free-and-cloudy/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2020/07/01/42142a34-e78f-4956-9770-6a4fa2e19bda/thumbnail/1200x675/e1f2477cc416f26abc37bea46b2d2260/2020-07-01-at-5-11-23-pm.jpg",
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1215161063%2F0x0.jpg",
           "width": 1200,
           "height": 675,
-          "title": "Hello, Azurebook: Why Microsoft's Windows future is Intel-free and cloudy",
+          "title": "ServiceNow Stock Outperforms Top Cloud Rivals On Encouraging Outlook",
           "attribution": null,
           "isCached": true
         }
       ],
       "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/hello-azurebook-why-microsofts-windows-future-is-intel-free-and-cloudy/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/hello-azurebook-why-microsofts-windows-future-is-intel-free-and-cloudy/",
-      "publishedDateTime": "2020-07-06T08:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_news/2020-07-06-learn-microsoft-azure-with-this-30-training-course-bundle.md",
-      "title": "Learn Microsoft Azure with this $30 training course bundle",
-      "excerpt": "TL;DR: Lead your business towards success with the Complete Microsoft Azure eBook & Video Course bundle for $29.99, a 95% savings as of July 6. It's no secret that most industries have been ...",
-      "sourceUrl": null,
-      "webUrl": "https://mashable.com/shopping/july-6-microsoft-azure-training-course-bundle/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 357,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mondrian.mashable.com/2020%252F07%252F06%252F63%252Fb36e08d8365d4d26bb30d80ce53619a5.7d439.jpg%252F1200x630.jpg?signature=bkqooSUHAbc-Ng2tbGWz95e7GsA=",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://mashable.com/shopping/july-6-microsoft-azure-training-course-bundle.amp",
-      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/shopping/july-6-microsoft-azure-training-course-bundle.amp",
-      "publishedDateTime": "2020-07-06T07:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_news/2020-07-06-microsoft-azure-az-900-dumps-and-real-practice-test-july-2020.md",
-      "title": "Microsoft Azure AZ-900 Dumps and Real Practice Test [July 2020]",
-      "excerpt": "Microsoft has updated the content of the Azure Fundamentals AZ-900 exam and you should prepare according to the latest changes. Candidates pass this exam to verify their basic Microsoft Azure ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/20/07/ab16509774/microsoft-azure-az-900-dumps-and-real-practice-test-july-2020",
-      "originalUrl": null,
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.abnewswire.com/uploads/a2a696e019b9e12156f036b8caf3320d.jpg",
-          "width": 600,
-          "height": 259,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/16509774",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16509774",
-      "publishedDateTime": "2020-07-06T01:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_news/2020-07-02-top-cloud-data-warehouses-for-the-enterprise-amazon-vs-azure-vs-google-vs-snowflake.md",
-      "title": "Top Cloud Data Warehouses for the Enterprise: Amazon vs. Azure vs. Google vs. Snowflake",
-      "excerpt": "Modern cloud architectures combine three essentials: the power of data warehousing, flexibility of Big Data platforms, and elasticity of cloud at a fraction of the cost to traditional solution users.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/resources/205314/top-cloud-data-warehouses-for-the-enterprise-amazon-vs-azure-vs-google-vs-snowflake",
-      "originalUrl": null,
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://idge.staticworld.net/ifw/IFW_logo_social_300x300.png",
-          "width": 300,
-          "height": 300,
-          "title": "Top Cloud Data Warehouses for the Enterprise: Amazon vs. Azure vs. Google vs. Snowflake",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-02T11:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_news/2020-07-01-alaska-communications-brings-locally-hosted-microsoft-azure-services-to-alaska-increasing-security-and-improving-latency.md",
-      "title": "Alaska Communications Brings Locally Hosted Microsoft Azure Services to Alaska, Increasing Security and Improving Latency",
-      "excerpt": "Alaska Communications (NASDAQ: ALSK) will bring locally hosted Microsoft Azure Stack Hub cloud services to Alaska. Alaska Communications, one of",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/alaska-communications-brings-locally-hosted-microsoft-azure-services-to-alaska-increasing-security-and-improving-latency-2020-07-01",
-      "originalUrl": null,
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Alaska Communications Brings Locally Hosted Microsoft Azure Services to Alaska, Increasing Security and Improving Latency",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-01T05:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_news/2020-06-30-commvault-announces-microsoft-azure-strategic-partnership.md",
-      "title": "Commvault Announces Microsoft Azure Strategic Partnership",
-      "excerpt": "Commvault has announced a multi-year agreement with Microsoft to integrate its Metallic Software-as-a-Service portfolio with Microsoft Azure.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/justinwarren/2020/06/30/commvault-announces-microsoft-azure-strategic-partnership/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 237,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5da3dcaa6763cb000608a26e%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "Commvault Announces Microsoft Azure Strategic Partnership",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/justinwarren/2020/06/30/commvault-announces-microsoft-azure-strategic-partnership/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/justinwarren/2020/06/30/commvault-announces-microsoft-azure-strategic-partnership/amp/",
-      "publishedDateTime": "2020-06-30T05:42:00-07:00",
+      "ampWebUrl": "https://www.forbes.com/sites/robertdefrancesco/2020/05/31/servicenow-stock-outperforms-top-cloud-rivals-on-encouraging-outlook/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robertdefrancesco/2020/05/31/servicenow-stock-outperforms-top-cloud-rivals-on-encouraging-outlook/amp/",
+      "publishedDateTime": "2020-05-31T14:02:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -1066,22 +694,172 @@
       ]
     },
     {
-      "path": "_news/2020-06-30-new-azure-firewall-features-in-q2-cy2020.md",
-      "title": "New Azure Firewall features in Q2 CY2020",
-      "excerpt": "We are pleased to announce several new Azure Firewall features that allow your organization to have more customization, improve security, and ease your management experience.",
+      "path": "_news/2020-05-31-is-apple-planning-to-enter-cloud-computing-space.md",
+      "title": "Is Apple Planning To Enter Cloud Computing Space?",
+      "excerpt": "The cloud computing sector has been heating up with Microsoft Azure and Google Cloud giving fierce competition to Amazon Web Services. Apple’s recent moves point towards gearing up its cloud infrastructure for its services.",
       "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/blog/new-azure-firewall-features-in-q2-cy2020/",
-      "originalUrl": "https://azure.microsoft.com/blog/new-azure-firewall-features-in-q2-cy2020/",
+      "webUrl": "https://www.forbes.com/sites/taarinikaurdang/2020/05/31/is-apple-planning-to-enter-cloud-computing-space/",
+      "originalUrl": null,
       "featuredContent": null,
       "highlight": null,
-      "heat": 149,
+      "heat": 82,
       "tags": null,
       "images": [
         {
-          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/130879a5-e5a4-4b5d-9fe1-b6389a099db8.png",
-          "width": 1024,
-          "height": 577,
-          "title": "New Azure Firewall features in Q2 CY2020",
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ed3e134dc72730006b73a6e%2F0x0.jpg",
+          "width": 1000,
+          "height": 685,
+          "title": "Is Apple Planning To Enter Cloud Computing Space?",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/taarinikaurdang/2020/05/31/is-apple-planning-to-enter-cloud-computing-space/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/taarinikaurdang/2020/05/31/is-apple-planning-to-enter-cloud-computing-space/amp/",
+      "publishedDateTime": "2020-05-31T10:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
+      "path": "_news/2020-05-29-19-cloud-computing-certifications-to-boost-your-salary.md",
+      "title": "19 cloud computing certifications to boost your salary",
+      "excerpt": "Find out what AWS, Google Cloud, and Microsoft Azure have to offer and which bootcamps and online classes will help you prepare for the exams.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/19-cloud-computing-certifications-to-boost-your-salary/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/01/27/d505bbe9-3a79-428e-b3fc-2df23032fe7a/thumbnail/1200x675/4d963c918ba08a8a098d2d502246c0f5/20200124-macy-karen.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "19 cloud computing certifications to boost your salary",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/19-cloud-computing-certifications-to-boost-your-salary/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/19-cloud-computing-certifications-to-boost-your-salary/",
+      "publishedDateTime": "2020-05-29T06:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
+      "path": "_news/2020-05-27-cybercriminals-targeting-cloud-services-amid-shift-to-remote-working.md",
+      "title": "Cybercriminals targeting cloud services amid shift to remote working",
+      "excerpt": "Attackers are increasingly hitting collaboration services such as Microsoft 365 to access cloud accounts with stolen credentials, says McAfee.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/cybercriminals-targeting-cloud-services-amid-shift-to-remote-working/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr4.cbsistatic.com/hub/i/r/2020/05/08/0154c4d4-36ae-4270-9291-968ddfd7c65c/thumbnail/1200x675/95cdef2021d3479a00e6861ffbb23d22/20200507-moyer3-dan.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Cybercriminals targeting cloud services amid shift to remote working",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/cybercriminals-targeting-cloud-services-amid-shift-to-remote-working/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/cybercriminals-targeting-cloud-services-amid-shift-to-remote-working/",
+      "publishedDateTime": "2020-05-27T04:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
+      "path": "_news/2020-05-27-streamlining-your-image-building-process-with-azure-image-builder.md",
+      "title": "Streamlining your image building process with Azure Image Builder",
+      "excerpt": "Customizing virtual machine (VM) images to meet security and compliance requirements and achieve faster deployment is a strong need for many enterprises, but most don't enjoy the process and energy needed for determining the right tooling, building the right pipeline, and maintaining it continuously.\r\n\r\nWe",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/blog/streamlining-your-image-building-process-with-azure-image-builder/",
+      "originalUrl": "https://azure.microsoft.com/blog/streamlining-your-image-building-process-with-azure-image-builder/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/982ca0ac-4dbc-4750-a754-57cec2524c79.gif",
+          "width": 1280,
+          "height": 720,
+          "title": "Streamlining your image building process with Azure Image Builder",
           "attribution": null,
           "isCached": true
         }
@@ -1089,7 +867,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-30T01:00:33-07:00",
+      "publishedDateTime": "2020-05-27T02:00:01-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",
@@ -1113,26 +891,26 @@
       ],
       "topics": [
         "Azure",
-        "Security"
+        "Compute"
       ]
     },
     {
-      "path": "_news/2020-06-29-advancing-azure-service-quality-with-artificial-intelligence-aiops.md",
-      "title": "Advancing Azure service quality with artificial intelligence: AIOps",
-      "excerpt": "As Mark mentioned when he authored the Advancing Reliability blog series, building and operating a global cloud infrastructure at the scale of Azure is a complex task with hundreds of ever-evolving service components, spanning more than 160 datacenters and across more than 60 regions.",
+      "path": "_news/2020-05-27-deploy-to-azure-using-github-actions-from-your-favorite-tools.md",
+      "title": "Deploy to Azure using GitHub Actions from your favorite tools",
+      "excerpt": "Enterprises and teams are adopting DevOps technologies combined with people and processes to deliver high-quality code, with faster release cycles and continuous delivery of value, to achieve higher levels of satisfaction for their own customers.\r\n\r\nHowever, it can often get difficult to craft CI/CD",
       "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/blog/advancing-azure-service-quality-with-artificial-intelligence-aiops/",
-      "originalUrl": "https://azure.microsoft.com/blog/advancing-azure-service-quality-with-artificial-intelligence-aiops/",
+      "webUrl": "https://azure.microsoft.com/blog/deploy-to-azure-using-github-actions-from-your-favorite-tools/",
+      "originalUrl": "https://azure.microsoft.com/blog/deploy-to-azure-using-github-actions-from-your-favorite-tools/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 91,
       "tags": null,
       "images": [
         {
-          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/23aa03d8-6047-40dd-9a74-f9785e4ca016.png",
+          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/e53fc3e7-de08-4b07-96d7-2228a4b23005.png",
           "width": 1024,
           "height": 449,
-          "title": "Advancing Azure service quality with artificial intelligence: AIOps",
+          "title": "Deploy to Azure using GitHub Actions from your favorite tools",
           "attribution": null,
           "isCached": true
         }
@@ -1140,7 +918,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-29T02:00:20-07:00",
+      "publishedDateTime": "2020-05-27T01:00:01-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",
@@ -1164,26 +942,77 @@
       ],
       "topics": [
         "Azure",
-        "AI"
+        "Developer tools",
+        "DevOps"
       ]
     },
     {
-      "path": "_news/2020-06-29-azure-digital-twins-powering-the-next-generation-of-iot-connected-solutions.md",
-      "title": "Azure Digital Twins: Powering the next generation of IoT connected solutions",
-      "excerpt": "Last month at Microsoft Build 2020, we announced the new features for Azure Digital Twins, the IoT platform that enables the creation of next-generation IoT connected solutions that model the real world. Today, we are announcing that these updated capabilities are now available in preview.",
+      "path": "_news/2020-05-25-best-memorial-day-xbox-one-deals-2020-consoles-and-games.md",
+      "title": "Best Memorial Day Xbox One Deals 2020: Consoles and games",
+      "excerpt": "How do you choose between the various Xbox consoles? We’ve taken some time below to describe each option in a little more detail. Microsoft currently sells three different Xbox consoles — the Xbox One S,",
       "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/blog/azure-digital-twins-powering-the-next-generation-of-iot-connected-solutions/",
-      "originalUrl": "https://azure.microsoft.com/blog/azure-digital-twins-powering-the-next-generation-of-iot-connected-solutions/",
+      "webUrl": "https://www.digitaltrends.com/dtdeals/best-memorial-day-xbox-one-deals-2020/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://icdn4.digitaltrends.com/image/digitaltrends/blur-close-up-controller-entertainment-139038-1200x630-c-ar1.91.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": "Best Memorial Day Xbox One Deals 2020: Consoles and games",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/dtdeals/best-memorial-day-xbox-one-deals-2020/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/dtdeals/best-memorial-day-xbox-one-deals-2020/?amp",
+      "publishedDateTime": "2020-05-25T09:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
+      "path": "_news/2020-05-25-cloud-storage-market-evolving-technology-and-growth-outlook-2020-to-2025.md",
+      "title": "Cloud Storage Market Evolving Technology and Growth Outlook 2020 to 2025",
+      "excerpt": "Global Cloud Storage Market - Growth, Trends, And Forecast (2020 - 2025) The report presents an in-depth assessment of the Global Cloud Storage including enabling technologies, key trends, market drivers,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/cloud-storage-market-evolving-technology-and-growth-outlook-2020-to-2025-2020-05-25",
+      "originalUrl": null,
       "featuredContent": null,
       "highlight": null,
       "heat": 101,
       "tags": null,
       "images": [
         {
-          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/4fc2801a-636a-45e1-965a-42626ca8f07c.png",
-          "width": 1024,
-          "height": 576,
-          "title": "Azure Digital Twins: Powering the next generation of IoT connected solutions",
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Cloud Storage Market Evolving Technology and Growth Outlook 2020 to 2025",
           "attribution": null,
           "isCached": true
         }
@@ -1191,14 +1020,14 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-29T01:00:35-07:00",
+      "publishedDateTime": "2020-05-25T04:28:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/marketwatch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1214,8 +1043,207 @@
         "news"
       ],
       "topics": [
-        "Azure",
-        "IoT"
+        "Azure"
+      ]
+    },
+    {
+      "path": "_news/2020-05-24-outlook-for-windows-client-to-store-email-signature-in-the-cloud.md",
+      "title": "Outlook for Windows client to store email signature in the cloud",
+      "excerpt": "Microsoft plans to release an update for the Outlook for Windows client next month that will add the possibility to configure an email signature and have it saved in the cloud, rather than inside each Outlook installation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/outlook-for-windows-client-to-store-email-signature-in-the-cloud/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2014/10/04/ba64a5a4-4b8f-11e4-b6a0-d4ae52e95e57/resize/1200x900/fc724b7f913049ace617ea871f4c0935/linksys-media-center-extender.jpg",
+          "width": 1111,
+          "height": 900,
+          "title": "Outlook for Windows client to store email signature in the cloud",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/outlook-for-windows-client-to-store-email-signature-in-the-cloud/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/outlook-for-windows-client-to-store-email-signature-in-the-cloud/",
+      "publishedDateTime": "2020-05-24T02:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
+      "path": "_news/2020-05-23-the-pentagons-joint-ai-center-wants-to-be-like-silicon-valley.md",
+      "title": "The Pentagon’s Joint AI Center wants to be like Silicon Valley",
+      "excerpt": "The largest Joint AI Center contract to date was awarded this week. CTO Nand Mulchandani on AI at the Pentagon and why JAIC is mimicing Silicon Valley.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/05/23/the-pentagons-joint-ai-center-wants-to-be-like-silicon-valley/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/05/5932740.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "The Pentagon’s Joint AI Center wants to be like Silicon Valley",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/05/23/the-pentagons-joint-ai-center-wants-to-be-like-silicon-valley/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/23/the-pentagons-joint-ai-center-wants-to-be-like-silicon-valley/amp/",
+      "publishedDateTime": "2020-05-23T09:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
+      "path": "_news/2020-05-22-microsoft-and-unitedhealth-group-launch-workplace-health-app.md",
+      "title": "Microsoft and UnitedHealth Group launch workplace health app",
+      "excerpt": "For all the talk about remote work, most of us need to go back to the office or work site. But distancing, rotating shifts, immunity and vaccination status, and all those sneeze shields won't prevent us from dreading the moment a coworker coughs.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/health/microsoft-and-unitedhealth-group-launch-workplace-health-app/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cnet1.cbsistatic.com/img/QJAZnYeTJ3nqwNYz4E5RCD7tTUA=/756x567/2020/04/13/4a78d253-d1a5-40d1-8336-2b30769fd064/now-what-live-with-telemedicine-00-26-07-17-still001.jpg",
+          "width": 756,
+          "height": 567,
+          "title": "Microsoft and UnitedHealth Group launch workplace health app",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/microsoft-and-unitedhealth-group-launch-workplace-health-app/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/microsoft-and-unitedhealth-group-launch-workplace-health-app/",
+      "publishedDateTime": "2020-05-22T13:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
+      "path": "_news/2020-05-22-cloud-iam-market-is-thriving-worldwide-broadcom-ibm-emc-intel-microsoft-dell.md",
+      "title": "Cloud IAM Market is Thriving Worldwide | Broadcom, IBM, EMC, Intel, Microsoft, Dell",
+      "excerpt": "An extensive elaboration of the Global Cloud IAM market strategy of the industry players in",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/cloud-iam-market-is-thriving-worldwide-broadcom-ibm-emc-intel-microsoft-dell-2020-05-22",
+      "originalUrl": null,
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Cloud IAM Market is Thriving Worldwide | Broadcom, IBM, EMC, Intel, Microsoft, Dell",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-22T09:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure"
       ]
     }
   ],

@@ -38,50 +38,6 @@ related:
         width: 628
         height: 246
         isCached: true
-  - title: "Microsoft Azure Synapse Link brings operational database services and analytics together in real-time"
-    excerpt: "To solve this issue, Microsoft is today announcing Azure Synapse Link which brings operational database services and analytics together in real-time with a single click. Using this, customers can get insights from their real-time transactional data stored in their operational databases with a single click,"
-    publishedDateTime: 2020-05-19T15:01:00Z
-    webUrl: "https://mspoweruser.com/microsoft-azure-synapse-link-database-analytics/"
-    ampWebUrl: "https://mspoweruser.com/microsoft-azure-synapse-link-database-analytics/amp/"
-    cdnAmpWebUrl: "https://mspoweruser-com.cdn.ampproject.org/c/s/mspoweruser.com/microsoft-azure-synapse-link-database-analytics/amp/"
-    type: article
-    provider:
-      name: MSPoweruser
-      domain: mspoweruser.com
-    quality: 42
-    images:
-      - url: "https://mspoweruser.com/wp-content/uploads/2019/11/Microsoft-Azure-Synapse-Analytics.jpg"
-        width: 1134
-        height: 737
-        isCached: true
-  - title: "Microsoft Announces New Azure Regions in Europe to Accelerate Digital Transformation"
-    excerpt: "And at the same provide a high level of security, data residency, and compliance. The new region will provide Polish businesses and organizations with Microsoft Azure, Microsoft 365, Dynamics 365, and Power Platform. A few days later on May 8 th, Microsoft announced a $1.5 billion five-year investment in Italy. The plan is dubbed Ambizione ..."
-    publishedDateTime: 2020-05-15T13:13:00Z
-    webUrl: "https://www.petri.com/microsoft-announces-new-azure-regions-in-europe-to-accelerate-digital-transformation"
-    type: article
-    provider:
-      name: petri.com
-      domain: petri.com
-    quality: 30
-    images:
-      - url: "https://www.petri.com/wp-content/uploads/sites/3/2016/08/Microsoft-Azure-cloud-hero.png"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Open Systems augments its cybersecurity capabilities with acquisition of leading Microsoft Azure Sentinel expert"
-    excerpt: "Its \"SWAT team\" of architects, engineers and developers enables enterprise customers to securely achieve their cloud automation, strategy and migration goals with the Microsoft Azure cloud platform."
-    publishedDateTime: 2020-05-20T22:11:00Z
-    webUrl: "https://www.lightreading.com/security/open-systems-augments-its-cybersecurity-capabilities-with-acquisition-of-leading-microsoft-azure-sentinel-expert/d/d-id/759821"
-    type: article
-    provider:
-      name: Light Reading
-      domain: lightreading.com
-    quality: 16
-    images:
-      - url: "https://img.lightreading.com/lightreading/LR_fb_button.jpg"
-        width: 600
-        height: 600
-        isCached: true
 
 secured: "K84gxXZ/62viovRxsRkH8JZdVBeZOZ5URKM9Q0HXL28mOi5Rcl+icilIXzmPhfLMKtUrC81Eh0+t+iVFCclB5QWpCshqim6qxHDwOUNkNuDN50Ce2f7HLsHp41iW28RUBIntU0rNlhSzy86pcOgQnWRpWYDaHakH3sNRESWIh18/7Mhs/SUaOOgoHkBDxAdZ8GzPfj/fUTLw84GbcgyjsQsEJrSQgki89YBBouX6hn132C4sXdpG01i7q0T4mkGVN2ViRoTG/E8v5feBLS9+fC3V7Hpp6nKKOg6r4+7cb4l7U4ExycYQyD1aAVy8vsdp;1sGBw+w+sFVL2nLY16cSoQ=="
 ---

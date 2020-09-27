@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/azure-cost-management-billing-upd
 webUrl: "https://azure.microsoft.com/blog/azure-cost-management-billing-updates-april-2020/"
 type: article
 quality: 95
-heat: 235
+heat: 215
 published: true
 
 provider:
@@ -65,20 +65,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 69
-  - title: "Azure Cost Management updates – January 2020"
-    excerpt: "Welcome to a new year, a new decade, and an exciting roadmap full of cost management updates based on your feedback. With January coming to a close, you can now schedule automated exports of your Microsoft Customer Agreement billing data, use custom RBAC roles for management groups, and more."
-    publishedDateTime: 2020-01-28T11:00:34Z
-    webUrl: "https://azure.microsoft.com/blog/azure-cost-management-updates-january-2020/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 39
-    images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/8a62399a-7122-4c8e-a669-46c5f20b3034.png"
-        width: 1383
-        height: 604
-        isCached: true
   - title: "Azure Cost Management + Billing updates – February 2020"
     excerpt: "The theme this month is transparency. From rich Azure Hybrid Benefit and reservation reporting in a new Power BI app to a detailed breakdown of resource costs and clarity behind what \"not applicable\" means in the Azure portal, you won't want to miss this one!"
     publishedDateTime: 2020-02-26T14:00:50Z
@@ -107,15 +93,20 @@ related:
         width: 1367
         height: 678
         isCached: true
-  - title: "Azure API Management updates—June 2020"
-    excerpt: "A regular Azure API Management service update was started on June 10, 2020, and included new features, bug fixes, and changes, along with other improvements."
-    publishedDateTime: 2020-06-11T17:00:01Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-api-management-update-june-2020/"
+  - title: "Everything You Need to Know About Azure Infrastructure – April 2020 Edition"
+    excerpt: "The pandemic has put more pressure, in different ways, than usual on some of us, made some of us redundant/furloughed, stretched resources thin in Microsoft Azure, and maybe even bumped up Microsoft’s FYQ3 results up,"
+    publishedDateTime: 2020-05-01T15:50:00Z
+    webUrl: "https://www.petri.com/everything-you-need-to-know-about-azure-infrastructure-april-2020-edition"
     type: article
     provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 17
+      name: petri.com
+      domain: petri.com
+    quality: 35
+    images:
+      - url: "https://www.petri.com/wp-content/uploads/sites/3/2016/08/Microsoft-Azure-cloud-hero.png"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "1vFDRobE01Vskyp98j+Baeq/pMyGqgFq5nPuR9BPgpHg+YLuqXUuZ6QwPyEzGzoUIB3ri9v5E7JXrP0UY1d2uBDkEEILbyxpybT0pOQaWRvSALIHhPvIAHBNwgXcxt3yp9hwTFVND0rgCWIJ0aCbe3c7ziw9irTt8NB43FAbeRnvVTjb7+J1RowLXhAcVPzHIz5KZoKF1N9h7Bit4tQBd8mmuIJ1AAFKDhf1IGPjOcf6qcGc396eURrhlcbhRFcDXpcDzm8P7HLAUdZj3GsYBNcLEH62PTlbcoQk9YoW+zmYFUf731Uwn06APmvRPorqHhedyapU5dchvFFXOTKzVN6RAwrqpWqZUyVnjE1TsfU=;yBrEKZyZoUNSewEYdlKZqA=="
 ---

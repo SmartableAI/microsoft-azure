@@ -21,38 +21,60 @@ topics:
   - Azure
 
 related:
-  - title: "Microsoft Azure IoT Connector for FHIR now in preview"
-    excerpt: "The preview of Azure IoT Connector for FHIR—a fully managed and compliant feature of the Azure API for FHIR—is now available. The connector empowers health teams with the technology for a scalable end-to-end pipeline to ingest, transform, and manage Protected Health Information (PHI) data from devices"
-    publishedDateTime: 2020-07-16T11:00:40Z
-    webUrl: "https://azure.microsoft.com/blog/microsoft-azure-iot-connector-for-fhir-now-in-preview/"
+  - title: "NFS 3.0 support for Azure Blob storage is now in preview"
+    excerpt: "To enable customers to run NFS based applications at scale, we are announcing the preview of NFS 3.0 protocol support for Azure Blob storage. "
+    publishedDateTime: 2020-07-27T10:00:03Z
+    webUrl: "https://azure.microsoft.com/blog/nfs-30-support-for-azure-blob-storage-is-now-in-preview/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 104
-    images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/e5a083c8-5be0-4b4a-8878-bf65fbf877f9.png"
-        width: 735
-        height: 411
-        isCached: true
-  - title: "Azure Maps Power BI visual now in preview"
-    excerpt: "The Azure Maps visual for Power BI will be releasing as a preview this week. Power BI is a powerful analysis and visualization tool. Azure Maps is an important tool for gaining geospatial context and insights that can be used in decision making."
-    publishedDateTime: 2020-07-13T09:00:01Z
-    webUrl: "https://azure.microsoft.com/blog/azure-maps-power-bi-visual-now-in-preview/"
+    quality: 101
+  - title: "NFS 4.1 support for Azure Files is now in preview"
+    excerpt: "Azure Files is a distributed cloud file system serving Server Messaging Block (SMB) and REST protocols. Azure Files enables customers to easily lift and shift their legacy workloads to the cloud without any modifications or changes in technology. SMB works on both Windows and UNIX operating systems for"
+    publishedDateTime: 2020-09-15T13:00:18Z
+    webUrl: "https://azure.microsoft.com/blog/nfs-41-support-for-azure-files-is-now-in-preview/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 93
+    quality: 87
     images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/8546d591-93c0-45ce-81a9-993caa2d22ea.png"
-        width: 822
-        height: 469
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/f37b1fb4-f41e-42b8-8f88-754f3e8eef0c.jpg"
+        width: 1024
+        height: 489
         isCached: true
-  - title: "Azure Monitor for SAP Solutions is now in preview"
-    excerpt: "To help our SAP on Azure customers effectively monitor their SAP applications, today we are announcing the preview of Azure Monitor for SAP solutions, an Azure-native monitoring solution for customers running their SAP solutions on Azure."
-    publishedDateTime: 2020-07-15T08:00:26Z
-    webUrl: "https://azure.microsoft.com/blog/azure-monitor-for-sap-solutions-is-now-in-preview/"
+  - title: "Azure Files support for NFS v4.1 is now in preview"
+    excerpt: "Azure Files now adds support for NFS v4.1 file system protocol for an easy migration of your Linux-centric workloads."
+    publishedDateTime: 2020-09-16T17:00:28Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-files-support-for-nfs-v41-is-now-in-preview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
+  - title: "Firewall support for Azure Relay is now in preview"
+    excerpt: ""
+    publishedDateTime: 2020-05-18T21:00:04Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/firewall-support-for-azure-relay-firewall-is-now-in-preview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 17
+  - title: "Azure Storage 200 TB block blob size is now in preview"
+    excerpt: "We’ve increased the maximum size of a single blob in Azure Storage from 5 TB to 200 TB, now available in preview. The 200 TB blob size is available for preview in all Azure public regions with hot, cool, and premium tiers. "
+    publishedDateTime: 2020-06-30T17:00:34Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-storage-200-tb-block-blob-size-is-now-in-preview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 17
+  - title: "Azure Disk Storage with Azure Private Link integration is in preview"
+    excerpt: "Azure Disk Storage now enables enhanced security options for export and import via integration with Azure Private Link."
+    publishedDateTime: 2020-07-21T16:01:46Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-disk-storage-with-azure-private-link-integration-is-in-preview/"
     type: article
     provider:
       name: Microsoft
@@ -62,15 +84,6 @@ related:
     excerpt: "Azure Monitor for SAP Solutions is a new Azure-native monitoring product for customers running SAP landscapes on Azure. It’s now available in public preview in US East, US East 2, US West 2, and West Eu regions."
     publishedDateTime: 2020-07-21T16:01:22Z
     webUrl: "https://azure.microsoft.com/en-us/updates/azure-monitor-for-sap-solutions-is-now-available-in-preview/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 17
-  - title: "Azure Monitor Logs connector is now generally available"
-    excerpt: "Use Azure Logic Apps and Power Automate to create automated workflows using hundreds of actions for a variety of services. The Azure Monitor logs connector is now generally available—use it to build workflows that retrieve data from the Azure Monitor Logs workspace or Application Insights component."
-    publishedDateTime: 2020-07-21T17:31:27Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-monitor-logs-connector-is-now-generally-available/"
     type: article
     provider:
       name: Microsoft
@@ -94,24 +107,33 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 17
-  - title: "Azure Private Link support for Azure Automation is now available in preview"
-    excerpt: "You can now use Azure Private Link to securely connect virtual networks to Azure Automation using private endpoints (in preview)."
-    publishedDateTime: 2020-07-09T23:00:06Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-private-link-azure-automation-is-now-available/"
+  - title: "Shared disks in Azure Disk Storage are now available"
+    excerpt: "Shared disks are now available in Azure Disk Storage—the only shared block storage in the cloud that supports both Windows and Linux-based clustered or high-availability applications."
+    publishedDateTime: 2020-07-21T16:01:30Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/shared-disks-in-azure-disk-storage-are-now-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 17
+  - title: "New regions added for Azure Blob storage object replication public preview"
+    excerpt: "We have expanded the preview regions for Azure Blob storage object replication to include East US 2, Central US. You can start previewing this feature on any existing or new General-purpose (GPv2) storage accounts in those regions."
+    publishedDateTime: 2020-07-31T20:00:27Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/new-regions-added-for-azure-blob-storage-object-replication-public-preview/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
     quality: 15
-  - title: "Additional Azure regions for IoT Connector for Azure API for FHIR (preview)"
-    excerpt: "Azure IoT Connector, a feature of Azure API for FHIR, is now available for preview in additional Azure regions. It enables remote patient monitoring, telehealth, and clinical trial scenarios by ingesting health data from medical and non-medical devices in a secure, scalable, and compliant manner."
-    publishedDateTime: 2020-07-21T16:02:12Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/additional-azure-regions-for-iot-connector-for-azure-api-for-fhir-preview/"
+  - title: "Azure Blob storage—Network File System 3.0 protocol support is now in preview"
+    excerpt: "NFS 3.0 protocol support for Azure Blob storage is now in preview. Azure Blob storage is the only storage platform that supports NFS 3.0 protocol over object storage natively (no gateway or data copying required), with crucial object storage economics."
+    publishedDateTime: 2020-07-27T20:30:04Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/nfs-30-support-for-azure-blob-storage-is-now-in-preview/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 15
+    quality: 14
 
 secured: "kxlu799WqfMrta/qSD1P0ffj5HcN63e6DVou448hCnZlksqSpx8adkig9MAZZ+nJ1oyNM3HPF8BVWb5gWNkCF3bi/O0+rEEwXseHwoMbfaRrjJUreUTk0pWFZj2MdBmC8urB5UTm2gV1OkaGgEQD9acSA/crNrAjAugqS1PYkc09sPoYpFSGue6kzkfmqnwlUE792WSr+LdtZEawzfB7yTMFDcBn2EwpMM36mdD7lSVGCnaRaEuv/DE41yOazeClmiGTRigy7vPQWhlCpf8zjTiVTPWx8n84j9yoXkFI22bdGodDisZ0NAojL0JCbef9RnMXroFWF3cy/jIGMmyCIA==;+9nuCEccwZuEnTvC4pxHCA=="
 ---

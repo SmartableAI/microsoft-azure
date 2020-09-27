@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/improved-data-ingestion-
 webUrl: "https://azure.microsoft.com/en-us/updates/improved-data-ingestion-isolation-in-log-analytics/"
 type: article
 quality: 52
-heat: 52
+heat: -1
 published: false
 
 provider:
@@ -20,6 +20,59 @@ provider:
 
 topics:
   - Azure
+
+related:
+  - title: "Line numbers in Log Analytics query editor"
+    excerpt: "Log Analytics query editor now show line numbers when composing a query"
+    publishedDateTime: 2020-08-13T16:00:06Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/line-numbers-in-log-analytics-query-editor/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 72
+    images:
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/620becd2-4c6b-4d21-a07c-32d6f154cff7.png"
+        width: 776
+        height: 271
+        isCached: true
+  - title: "Log Analytics new System Center configuration blade"
+    excerpt: "System center configuration now has it’s own dedicated blade in Log Analytics."
+    publishedDateTime: 2020-08-13T16:00:06Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/log-analytics-new-system-center-configuration-blade/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 72
+    images:
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/ce2a1746-2cef-41f4-8393-5652bfd9083b.png"
+        width: 683
+        height: 264
+        isCached: true
+  - title: "New Azure IoT Central App Template - Video Analytics is now available"
+    excerpt: "Microsoft and Intel have collaborated to build end-to-end video analytics solutions using Azure IoT Central & Live Video Analytics. IoT Central application template is removing the complexity and challenges related to Video Analytics solution development and deployment."
+    publishedDateTime: 2020-08-19T16:00:39Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/new-azure-iot-central-app-template-video-analytics-is-now-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
+  - title: "Log Analytics New Query Experience - Example Queries"
+    excerpt: ""
+    publishedDateTime: 2020-05-26T20:00:06Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/log-analytics-new-query-experience-example-queries/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 22
+    images:
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/50a5d557-e0aa-4ca9-8bd6-b04d1d84c64b.png"
+        width: 1160
+        height: 557
+        isCached: true
 
 secured: "L9I5XUZvbwU/NcNg+aWJrP5KVBlLuXuXq5RvKGl0emuejGhtz+XG/pnj+ymdTH1IErb9CD6VorpEAjedxpUpDTJQS3NpFT0nO0VX1qauptNMhqUCvHVabmS1zjYNij16ahED0yAzjSkpTwd1sbx5oFXab5XxMmK8K29YabMNy4+iuTNTJM3f7YCog/rHpf4vod7MVFckceK7jQBo6Q1gB55Ke6AL4RY4s19p7wxZPGxqR+o3TcvOJv9ijot68u912fSeYozxEsPKIPOY1rR/rCOyrMI5Un+1Eemhg/bQWb0qHKyF2mHvmGklBj4EiK2DBbZd1QAdYE32rFcVMX2+8GuzGdUnk/+DPs31rrE5Sw4=;gLcJw8Zev0iYBi7Ee/xLEQ=="
 ---

@@ -6,7 +6,7 @@ publishedDateTime: 2020-05-11T13:00:00Z
 originalUrl: "https://azure.microsoft.com/blog/azure-blob-storage-enhancing-data-protection-and-recovery-capabilities/"
 webUrl: "https://azure.microsoft.com/blog/azure-blob-storage-enhancing-data-protection-and-recovery-capabilities/"
 type: article
-quality: 86
+quality: 101
 heat: -1
 published: false
 
@@ -32,7 +32,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 106
+    quality: 121
     images:
       - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/92cec444-9b04-4e3c-9250-2af9a918d97d.png"
         width: 1024
@@ -42,15 +42,6 @@ related:
     excerpt: ""
     publishedDateTime: 2020-04-29T16:00:06Z
     webUrl: "https://azure.microsoft.com/en-us/updates/query-acceleration-for-azure-data-lake-storage-now-in-preview-2/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 17
-  - title: "New Azure VMware Solution is now in preview"
-    excerpt: ""
-    publishedDateTime: 2020-05-04T18:00:35Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/new-azure-vmware-solution-is-now-in-preview/"
     type: article
     provider:
       name: Microsoft

@@ -38,6 +38,20 @@ related:
         width: 750
         height: 525
         isCached: true
+  - title: "Microsoft opening up another office in metro Atlanta, creating 1,500 new jobs"
+    excerpt: "Microsoft is investing $75 million that will create 1,500 new jobs. “We are excited that a global leader like Microsoft Corp. is expanding its investment in Georgia with tech jobs that will be truly beneficial to the company and our state,"
+    publishedDateTime: 2020-05-17T18:59:00Z
+    webUrl: "https://www.wsbtv.com/news/local/microsoft-opening-up-another-office-metro-atlanta-creating-1500-new-jobs/N7HHTTDBMFBEFEU7NVKFKXPT3U/"
+    type: article
+    provider:
+      name: WSB-TV
+      domain: wsbtv.com
+    quality: 19
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/cmg/COEABQVPO6FT5YXM563W5YSTQY.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "C11CtOt74qrbQVh9+nV61cRodc4Tq7WUIdbSzsDYSppTpShzU1UomxxaP5Ox9CfdDaZ5FNYTxAnBk6CkfzM1Xx0rIktkHwhGgFFybJv0Ap7nsDKknqOmi+d0L6TGcLoJQt45YeRhoZc2XaEAkvHU58GeQZdjCsWXa97683TvRC4w4QQ2AEr0tNfIslHqATevFJOE7tnD9ugV8cVgAR8q5mZGTjpvos6ofW6fJGZMvpXmugGKKl0L4mDIo3Apv4/RhpjwwRIY2SIxovQ4WFnYXH87NuwVaXb03D6v/USJGIWQIvCAL6GlJ5ShXPJ/JQM0q3tvbfkyUdEKXD6Co8Uc9Y/wx6GkrSnxCIZv62BESNqcM8NrNKYDIhKt+iWFG9BwGm80bHFIVRgdlzoB4CH6wwIWe7Jebb1Pc4Vnj8d8UDHdlAW4FGeYiYOrcVOE49cE2p8m53Nek3jVcw+sNqGyDaUFIYQ7nzU5hHMMB4InTQk=;D7yY/rDsI0WsRgjm7EWKKQ=="
 ---

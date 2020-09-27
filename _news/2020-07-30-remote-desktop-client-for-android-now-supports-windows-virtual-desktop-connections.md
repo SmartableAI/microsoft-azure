@@ -73,15 +73,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 17
-  - title: "AKS-managed Azure Active Directory support is now generally available"
-    excerpt: "Azure Kubernetes Service (AKS)-managed Azure Active Directory (Azure AD) support is now generally available. "
-    publishedDateTime: 2020-07-21T16:00:56Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/aksmanaged-azure-active-directory-support-is-now-generally-available/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 17
   - title: "Azure Virtual WAN: Multiple capabilities and new partners now generally available"
     excerpt: "Today we are announcing the General Availability of multiple enhancements in Azure Virtual WAN, including hub-to-hub, custom routing and transit capabilities."
     publishedDateTime: 2020-07-06T17:00:16Z
@@ -91,15 +82,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 12
-  - title: "Windows Virtual Desktop Azure portal and Microsoft Teams integrations are generally available"
-    excerpt: "It’s now easier to deploy and manage Windows Virtual Desktop as well as provide seamless meeting and collaboration experiences through integration with Microsoft Teams. "
-    publishedDateTime: 2020-07-28T22:14:54Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/windows-virtual-desktop-azure-portal-and-microsoft-teams-integrations-are-generally-available/"
+  - title: "Enable remote work faster with new Windows Virtual Desktop capabilities"
+    excerpt: "In the past few months, there has been a dramatic and rapid shift in the speed at which organizations of all sizes have enabled remote work amidst the global health crisis. Companies examining priorities and shifting resources with agility can help their employees stay connected from new locations and"
+    publishedDateTime: 2020-05-01T10:00:20Z
+    webUrl: "https://azure.microsoft.com/blog/enable-remote-work-faster-with-new-windows-virtual-desktop-capabilities/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 6
+    quality: 2
 
 secured: "iHf+jRpUXP6/a4Bnm3T9PvdHsxla9LN5kntKuwqRu1m53cXx18XlJQZ4uU/EyQzaM/3EFWhItB2tzzJMFK8TxqN7Uli5gRhK6Mcaqgut3QPPk6K0zvjCf0gJB6CX46HnAbAjXY6CHHx0QyoVn/7ojhwFNv6m+WFoUuLaRzpD+PZHFi7lc53IFwFui/OXYFio4f2zY670Bj/0liWQjpHuHyrVH+X1CcE8yMFnKEngo1J1ra9MZNvJV551l6007fM+vW22MskAYzwsD72tlNIuvjAzHeAhBacX0InuPDT4Is8+WJrQsEkxdTEBeiu5BSyNZ3ak3QknzrQz6NU6i5oGaA==;EUuAy1quNSqJSqw3Hghs7A=="
 ---

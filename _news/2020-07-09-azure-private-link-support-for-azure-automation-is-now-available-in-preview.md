@@ -21,97 +21,139 @@ topics:
   - Azure
 
 related:
-  - title: "Microsoft Azure IoT Connector for FHIR now in preview"
-    excerpt: "The preview of Azure IoT Connector for FHIR—a fully managed and compliant feature of the Azure API for FHIR—is now available. The connector empowers health teams with the technology for a scalable end-to-end pipeline to ingest, transform, and manage Protected Health Information (PHI) data from devices"
-    publishedDateTime: 2020-07-16T11:00:40Z
-    webUrl: "https://azure.microsoft.com/blog/microsoft-azure-iot-connector-for-fhir-now-in-preview/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 104
-    images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/e5a083c8-5be0-4b4a-8878-bf65fbf877f9.png"
-        width: 735
-        height: 411
-        isCached: true
-  - title: "Azure Maps Power BI visual now in preview"
-    excerpt: "The Azure Maps visual for Power BI will be releasing as a preview this week. Power BI is a powerful analysis and visualization tool. Azure Maps is an important tool for gaining geospatial context and insights that can be used in decision making."
-    publishedDateTime: 2020-07-13T09:00:01Z
-    webUrl: "https://azure.microsoft.com/blog/azure-maps-power-bi-visual-now-in-preview/"
+  - title: "Azure Maps Creator now available in preview"
+    excerpt: "As enterprises continue to evolve in their digital transformation journey, there is a need for augmenting Azure Maps content with project-specific and private business knowledge of places. Today we're launching Azure Maps Creator in preview to extend location intelligence to indoor spaces.\r\n\r\nEnterprises"
+    publishedDateTime: 2020-06-01T08:00:09Z
+    webUrl: "https://azure.microsoft.com/blog/azure-maps-creator-now-available-in-preview/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
     quality: 93
     images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/8546d591-93c0-45ce-81a9-993caa2d22ea.png"
-        width: 822
-        height: 469
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/a6153b4c-6ec4-4b09-b1e7-dd8f2be265dd.png"
+        width: 780
+        height: 768
         isCached: true
-  - title: "Azure Monitor for SAP Solutions is now in preview"
-    excerpt: "To help our SAP on Azure customers effectively monitor their SAP applications, today we are announcing the preview of Azure Monitor for SAP solutions, an Azure-native monitoring solution for customers running their SAP solutions on Azure."
-    publishedDateTime: 2020-07-15T08:00:26Z
-    webUrl: "https://azure.microsoft.com/blog/azure-monitor-for-sap-solutions-is-now-in-preview/"
+  - title: "Azure Monitor Logs IntelliSense improvements are now available"
+    excerpt: ""
+    publishedDateTime: 2020-05-26T16:00:03Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/log-analytics-intellisense-improvements/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 37
+    images:
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/bc9fd2f5-bd17-4f4e-b1b5-c02c035f249b.gif"
+        width: 1730
+        height: 668
+        isCached: true
+  - title: "Azure Monitor Logs—New experience for agents is now available"
+    excerpt: ""
+    publishedDateTime: 2020-05-26T18:00:22Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/new-experience-for-agents-in-log-analytics/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 37
+    images:
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/480ae3b3-08b3-4078-b20f-83bb10f1d10c.gif"
+        width: 2554
+        height: 1323
+        isCached: true
+  - title: "Service Bus Explorer on the Azure portal is now available in preview"
+    excerpt: ""
+    publishedDateTime: 2020-05-26T18:00:30Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/sesrvice-bus-explorer/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 37
+    images:
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/ccedbcf5-8321-460c-a9a3-b0730caa96fe.jpg"
+        width: 347
+        height: 549
+        isCached: true
+  - title: "Backup Explorer now available in preview"
+    excerpt: "As organizations continue to expand their use of IT and the cloud, protecting critical enterprise data becomes extremely important. And if you are a backup admin on Microsoft Azure, being able to efficiently monitor backups on a daily basis is a key requirement to ensuring that your organization has"
+    publishedDateTime: 2020-02-05T08:00:05Z
+    webUrl: "https://azure.microsoft.com/blog/backup-explorer-now-available-in-preview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 26
+    images:
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/f68dd946-126d-46ef-a94a-c336a605aa9b.jpg"
+        width: 1024
+        height: 693
+        isCached: true
+  - title: "Azure Advisor recommendation digests now availab"
+    excerpt: ""
+    publishedDateTime: 2020-05-27T16:00:06Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-advisor-recommendation-digests-now-availab/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
     quality: 17
-  - title: "Azure Monitor for SAP Solutions is now available in preview"
-    excerpt: "Azure Monitor for SAP Solutions is a new Azure-native monitoring product for customers running SAP landscapes on Azure. It’s now available in public preview in US East, US East 2, US West 2, and West Eu regions."
-    publishedDateTime: 2020-07-21T16:01:22Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-monitor-for-sap-solutions-is-now-available-in-preview/"
+  - title: "Azure Ultra Disk Storage is now available in more regions"
+    excerpt: ""
+    publishedDateTime: 2020-05-27T16:00:05Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-ultra-disk-storage-is-now-available-in-more-regions/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
     quality: 17
-  - title: "Azure Monitor Logs connector is now generally available"
-    excerpt: "Use Azure Logic Apps and Power Automate to create automated workflows using hundreds of actions for a variety of services. The Azure Monitor logs connector is now generally available—use it to build workflows that retrieve data from the Azure Monitor Logs workspace or Application Insights component."
-    publishedDateTime: 2020-07-21T17:31:27Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-monitor-logs-connector-is-now-generally-available/"
+  - title: "Azure Text Analytics—Opinion mining is now available in preview"
+    excerpt: ""
+    publishedDateTime: 2020-05-30T16:00:19Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/opinion-mining-is-now-available-in-text-analytics-in-public-preview/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
     quality: 17
-  - title: "Java 11 for Azure Functions is now available in preview"
-    excerpt: "Java 11 for Azure Functions is now available in preview on Consumption and Premium plans for Windows and Linux."
-    publishedDateTime: 2020-07-21T16:02:46Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/java-11-for-azure-functions-is-now-available-in-preview/"
+  - title: "The Azure Sphere OS 20.05 quality release is now available"
+    excerpt: ""
+    publishedDateTime: 2020-06-01T17:00:10Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/the-azure-sphere-os-20-05-quality-release-is-now-available/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
     quality: 17
-  - title: "Performance tiers for Azure Disk Storage are in limited preview"
-    excerpt: "Azure Disk Storage now enables you to set performance tiers (in limited preview) for a specific duration of time based on workload demand."
-    publishedDateTime: 2020-07-21T16:01:37Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/performance-tiers-for-azure-disk-storage-are-in-limited-preview/"
+  - title: "Azure Shared Image Gallery feature improvements are now available"
+    excerpt: ""
+    publishedDateTime: 2020-06-02T01:00:15Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/shared-image-gallery-improvements/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
     quality: 17
-  - title: "Additional Azure regions for IoT Connector for Azure API for FHIR (preview)"
-    excerpt: "Azure IoT Connector, a feature of Azure API for FHIR, is now available for preview in additional Azure regions. It enables remote patient monitoring, telehealth, and clinical trial scenarios by ingesting health data from medical and non-medical devices in a secure, scalable, and compliant manner."
-    publishedDateTime: 2020-07-21T16:02:12Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/additional-azure-regions-for-iot-connector-for-azure-api-for-fhir-preview/"
+  - title: "Azure Shared Image Gallery—New features are now available in preview"
+    excerpt: ""
+    publishedDateTime: 2020-06-02T01:00:16Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/shared-image-gallery-new-features/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 15
-  - title: "OpenID Connect support for Azure App Service and Azure Functions (in preview)"
-    excerpt: "A new capability (in preview) allows you to configure your Azure App Service and Azure Functions apps for login authentication through any OpenID Connect provider."
-    publishedDateTime: 2020-07-21T16:02:33Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/openid-connect-support-for-azure-app-service-and-azure-functions-in-preview/"
+    quality: 17
+  - title: "Machine Learning on Azure SQL Managed Instance limited preview available"
+    excerpt: ""
+    publishedDateTime: 2020-05-27T16:00:07Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/machine-learning-on-azure-sql-managed-instance-limited-preview-available/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 14
+    quality: 16
 
 secured: "elFo7JW9xnWbpTQELBLzgzelzg2nTT+ohJT8unxlvKKHHk6ocmCZvXE+xjPLgj892Icc3izWkjIHh4AeguA1LbjglyvkCzBrEd7lijgOO14dcPbjAZrajvAWAWLC3RNqOsWzP0LuO/V3UBXdhyLtdVaD3FYC8K3WRtBZpPpQJiWHAMllNLd0oFyhtF5loXyMxVt2lK1lfa0Hy/KtFUHvZrZYQz6nA5MKuhSRa6Tkuk1VhvAlQdifjUIXSxRMjAdX000mE440KP8EQCXl2+Tl7eEvViaFnTozwpSdQLMXMoQLITC23JXgXqMeKbZRDAq9LiNxkg7MVtlFWGnt/YeBWQ==;lYtI+4bHolmK8/WcLWsyVw=="
 ---

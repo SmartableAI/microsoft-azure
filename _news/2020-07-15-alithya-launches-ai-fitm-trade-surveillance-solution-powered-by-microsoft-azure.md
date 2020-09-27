@@ -23,6 +23,105 @@ images:
     isCached: true
 
 related:
+  - title: "Microsoft announces Azure-centric alliance with C.H. Robinson"
+    excerpt: "With focus lying on the digital transformation of supply chains, the partnership between Microsoft and C.H. Robinson will look toward leveraging Azure, Azure IoT, and the Navisphere platform."
+    publishedDateTime: 2020-07-14T21:44:00Z
+    webUrl: "https://www.neowin.net/news/microsoft-announces-azure-centric-alliance-with-ch-robinson"
+    ampWebUrl: "https://www.neowin.net/amp/microsoft-announces-azure-centric-alliance-with-ch-robinson/"
+    cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-announces-azure-centric-alliance-with-ch-robinson/"
+    type: article
+    provider:
+      name: Neowin
+      domain: neowin.net
+    quality: 97
+    images:
+      - url: "https://cdn.neow.in/news/images/uploaded/2020/07/1594761150_microsoft_c.h._robinson_logo_story.jpg"
+        width: 760
+        height: 428
+        isCached: true
+  - title: "Microsoft and Samsung partner to digitize building maintenance via Azure and smart appliances"
+    excerpt: "The companies will pair Samsung’s smart home appliances and devices with Microsoft’s Azure cloud technology, with the aim of improving building maintenance practices. “This collaboration with Samsung opens up new opportunities for further innovation ..."
+    publishedDateTime: 2020-07-13T17:12:00Z
+    webUrl: "https://www.geekwire.com/2020/microsoft-samsung-partner-digitize-building-maintenance-via-azure-smart-appliances/"
+    ampWebUrl: "https://www.geekwire.com/2020/microsoft-samsung-partner-digitize-building-maintenance-via-azure-smart-appliances/amp/"
+    cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/microsoft-samsung-partner-digitize-building-maintenance-via-azure-smart-appliances/amp/"
+    type: article
+    provider:
+      name: GeekWire
+      domain: geekwire.com
+    quality: 86
+    images:
+      - url: "https://cdn.geekwire.com/wp-content/uploads/2016/04/IMG_9235-1240x827.jpg"
+        width: 1240
+        height: 827
+        isCached: true
+  - title: "Accelerating ATO in Microsoft Azure"
+    excerpt: "While your cloud provider manages security OF the cloud, security IN the cloud is the responsibility of the customer. During this on-demand webinar, Microsoft Azure’s Chief Information Security Officer for High Security Clouds, Mr. Richard Scher ..."
+    publishedDateTime: 2020-07-09T03:51:00Z
+    webUrl: "https://www.infoworld.com/resources/205509/accelerating-ato-in-microsoft-azure"
+    type: article
+    provider:
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 77
+    images:
+      - url: "https://idge.staticworld.net/ifw/IFW_logo_social_300x300.png"
+        width: 300
+        height: 300
+        isCached: true
+  - title: "Microsoft (MSFT) Azure to Aid Digital Overhaul of Halliburton"
+    excerpt: "Per the deal, Microsoft’s cloud platform Azure will help Halliburton enhance its customer offerings and drive digital transformation. Markedly, Azure’s advanced cloud computing capabilities will be leveraged by Halliburton to support remote work ..."
+    publishedDateTime: 2020-07-20T17:23:00Z
+    webUrl: "https://www.nasdaq.com/articles/microsoft-msft-azure-to-aid-digital-overhaul-of-halliburton-2020-07-20"
+    ampWebUrl: "https://www.nasdaq.com/articles/microsoft-msft-azure-to-aid-digital-overhaul-of-halliburton-2020-07-20?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/microsoft-msft-azure-to-aid-digital-overhaul-of-halliburton-2020-07-20?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 77
+  - title: "Microsoft adds more APIs to its Azure Cognitive Services for developers"
+    excerpt: "Microsoft Corp. is adding more Cognitive Services application programming interfaces to its Azure cloud platform as it continues to expand its array of artificial intelligence services."
+    publishedDateTime: 2020-07-09T00:07:00Z
+    webUrl: "https://siliconangle.com/2020/07/08/microsoft-adds-apis-azure-cognitive-services-developers/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 37
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/07/16510342158_185f09969a_k.jpg"
+        width: 2048
+        height: 1365
+        isCached: true
+  - title: "Azure and Citrix Workspace Now at Center of Microsoft-Citrix Pact"
+    excerpt: "Citrix will use Microsoft Azure as its preferred cloud services provider, while Microsoft will promote Citrix Workspace as a 'preferred digital workspace solution.'"
+    publishedDateTime: 2020-07-15T22:19:00Z
+    webUrl: "https://rcpmag.com/articles/2020/07/15/azure-citrix-workspace.aspx"
+    type: article
+    provider:
+      name: Redmond Channel Partner
+      domain: rcpmag.com
+    quality: 37
+    images:
+      - url: "https://rcpmag.com/-/media/ECG/VirtualizationReview/Images/introimages2014/GENOneRedBallConnectedToWhiteBalls.jpg"
+        width: 647
+        height: 450
+        isCached: true
+  - title: "Barracuda launches secure SD-WAN service built natively on Microsoft Azure"
+    excerpt: "WAN service built natively on Microsoft Azure. The new Barracuda CloudGen WAN service is the first SD-WAN solution that runs inside Azure Virtual WAN Hubs. Hubs can be interconnected through the Microsoft Global Network."
+    publishedDateTime: 2020-07-20T02:02:00Z
+    webUrl: "https://www.helpnetsecurity.com/2020/07/20/barracuda-sd-wan-service/"
+    type: article
+    provider:
+      name: Help Net Security
+      domain: helpnetsecurity.com
+    quality: 35
+    images:
+      - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/06/15084653/insecure-66.jpg"
+        width: 304
+        height: 430
+        isCached: true
   - title: "Alithya Launches AI-FI™ Trade Surveillance Solution Powered by Microsoft Azure"
     excerpt: "\"By hosting AI-FI™ Trade Surveillance on Microsoft Azure, we have increased our flexibility in configuration, while decreasing implementation time and cost. The advanced security features of ..."
     publishedDateTime: 2020-07-15T11:43:00Z
@@ -36,20 +135,6 @@ related:
       - url: "https://mma.prnewswire.com/media/1214660/Alithya_Alithya_Launches_AI_FI__Trade_Surveillance_Solution_Powe.mp4?p=medium"
         width: 512
         height: 288
-        isCached: true
-  - title: "Aureus to upgrade e-Discovery solution for legal profession, powered by Microsoft Azure"
-    excerpt: "A lot of insights will be hidden in this aggregation of raw data. The scalability of the Microsoft Azure cloud provides an effective way to collect and store the data—and Aureus' R&D on knowledge mining can help attorneys and paralegals mine key ..."
-    publishedDateTime: 2020-07-13T08:43:00Z
-    webUrl: "https://www.prnewswire.com/in/news-releases/aureus-to-upgrade-e-discovery-solution-for-legal-profession-powered-by-microsoft-azure-828476315.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 29
-    images:
-      - url: "https://mma.prnewswire.com/media/1213215/Microsoft_PR_image.jpg?p=facebook"
-        width: 1706
-        height: 893
         isCached: true
   - title: "The Microsoft Police State: Mass Surveillance, Facial Recognition, and the Azure Cloud"
     excerpt: "Microsoft helps police surveil and patrol communities through its own offerings and a network of partnerships — while its PR efforts obscure this."
@@ -65,6 +150,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Snowflake Achieves FedRAMP Moderate Authorization for Snowflake on AWS and Microsoft Azure Government"
+    excerpt: "Snowflake, the cloud data platform, today announced it has achieved Federal Risk and Authorization Management Program (FedRAMP) Moderate Authorization"
+    publishedDateTime: 2020-07-08T17:32:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200708005692/en/Snowflake-Achieves-FedRAMP-Moderate-Authorization-Snowflake-AWS"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 2
 
 secured: "LR6pIoZq0nn59xGbzcFHzac4lrtmyJouzT+eAsaH8VYN5BEqLXQGSZpzaxf+FOYK/U6ab1FQY15iOZrfHqsIcx6bi7M3pzT6fXZeV/736mGWueetNvnscUhUjHiP0G3xkRc78DLiy0jbTMZDT/IhbQuiF6btioJyRqZo7yvcoiMyZiz1AaMZ1HKUvWramZdSAHcPkhQ1c3WbuwHGRKTa5gFT8+Wj5vNLlzc+WVTkNOzh6QRjs6rjCKBMoWQbK973zt659ablmTokTURtL3PT7YkLtfB3nuyaIa0Iyjc481VUB1SAKdTBlOGxdGIMos/NChfh9yapRWDrq6oOncXZNw==;M0AJkkBrua8uwOtT3lZE2w=="
 ---

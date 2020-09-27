@@ -21,15 +21,24 @@ topics:
   - Azure
 
 related:
-  - title: "Azure Speech Services REST API v3.0 is now available"
-    excerpt: "Azure Azure Speech Services REST API v3.0 is now available, along with several new features. "
-    publishedDateTime: 2020-06-25T16:00:28Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/public-release-for-azure-speech-services-v30-api/"
+  - title: "Optional Uptime SLA now available for Azure Kubernetes Services (AKS)"
+    excerpt: ""
+    publishedDateTime: 2020-05-13T16:00:42Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/optional-uptime-sla-now-available-for-azure-kubernetes-services-aks/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
     quality: 17
+  - title: "Azure Kubernetes Service (AKS) resource provider on Azure Stack preview "
+    excerpt: ""
+    publishedDateTime: 2020-05-19T16:05:37Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-kubernetes-service-aks-resource-provider-on-azure-stack-preview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 16
 
 secured: "Kvc94sqGoD7EEDILo7VvgZ4Yz9AeWzgSkOu2fmLD3qTEYxZ5ESQ7Dn/RREMSxpbfjwm1DkW0gQGjq0aMKB0Ge7j0Sn1bqsKD9GJmeXz71RAWYu0QBwINteVuOrSmIfFsIptrPzxn9tNEbDiHqe1MwdVAG8rKSOClQTuTj7D6o9QIpzVR1Qcp7RMy/OtK/uA5jshLErePX02U1PtCmnIC1vmDbF1yw5CoPrUicaia9DD+lkllF1xOv4dfTIMDds/8LNZ9U2jgN5L7rgz38BkoKKyQOwz+X5NCycUEi7zoAM9Mnu+AFGlV8rRaUYKpKkBsWpk1IprYZZlKQPSFxoEqdA==;rfN8PG9JPJfLSnsETqYKaQ=="
 ---

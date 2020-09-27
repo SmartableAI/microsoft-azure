@@ -7,8 +7,8 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/azure-policy-compliance-
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-policy-compliance-scan-action-for-github-workflows-is-in-public-preview/"
 type: article
 quality: 64
-heat: 64
-published: false
+heat: 84
+published: true
 
 provider:
   name: Microsoft
@@ -20,6 +20,17 @@ provider:
 
 topics:
   - Azure
+
+related:
+  - title: "Azure App Service support for GitHub Actions is in preview"
+    excerpt: ""
+    publishedDateTime: 2020-04-29T16:00:01Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-app-service-support-for-github-actions-is-in-preview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 17
 
 secured: "LNSEyWQVsfT2F5Z/WiMlVDPuQ5rxAljbX7nIdlp6ntlDMWgEFSEcPbTLhmGugxL4Lv4i6z98cumPP1IDwnrRanF619XhJQmmO7YsxVDQzN1/5Igbrzs2Q6Pl3Azh+/k0rFk+JdSrhktU8wKpVFRkCFzWWTGphipuRIchaaL+Z4g7QLgzR3NBoTUDsi7uwA7v8tGZK068BjPfsvCA79PpPuNAMz8aBOCDu1m+pp+6+FMpnyqf9CtgmdAz9T2xca4ouSLyZUkbYCMS8cIcP5rbH11flp0NzksQWTU7InVTf0S2NmYHIG+1Xiums84m9MTO+DVPluLcYBK1Ruzh+Md58g==;UL06dso8rrVjwaEz6ZM4GA=="
 ---

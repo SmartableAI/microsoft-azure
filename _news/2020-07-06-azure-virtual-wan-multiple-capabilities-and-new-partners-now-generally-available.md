@@ -67,15 +67,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 17
-  - title: "AKS-managed Azure Active Directory support is now generally available"
-    excerpt: "Azure Kubernetes Service (AKS)-managed Azure Active Directory (Azure AD) support is now generally available. "
-    publishedDateTime: 2020-07-21T16:00:56Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/aksmanaged-azure-active-directory-support-is-now-generally-available/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 17
   - title: "Remote Desktop client for Android now supports Windows Virtual Desktop connections"
     excerpt: "Access Windows Virtual Desktop from the new Remote Desktop client for Android."
     publishedDateTime: 2020-07-30T00:00:32Z
@@ -90,15 +81,15 @@ related:
         width: 1080
         height: 2280
         isCached: true
-  - title: "Windows Virtual Desktop Azure portal and Microsoft Teams integrations are generally available"
-    excerpt: "It’s now easier to deploy and manage Windows Virtual Desktop as well as provide seamless meeting and collaboration experiences through integration with Microsoft Teams. "
-    publishedDateTime: 2020-07-28T22:14:54Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/windows-virtual-desktop-azure-portal-and-microsoft-teams-integrations-are-generally-available/"
+  - title: "Enable remote work faster with new Windows Virtual Desktop capabilities"
+    excerpt: "In the past few months, there has been a dramatic and rapid shift in the speed at which organizations of all sizes have enabled remote work amidst the global health crisis. Companies examining priorities and shifting resources with agility can help their employees stay connected from new locations and"
+    publishedDateTime: 2020-05-01T10:00:20Z
+    webUrl: "https://azure.microsoft.com/blog/enable-remote-work-faster-with-new-windows-virtual-desktop-capabilities/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 6
+    quality: 2
 
 secured: "PbwL2sXhaCbjKcxzcLhvz2Xvk71sN392SMhURIgi7ial+RZPeUjAMXE5yfM60KXWWD7npBMESZXKwEGvpntbw8yXxNe2a7OPBYfY1di+4DHQtx/e0M4Em+/Ee2G/jcGJ0dd90lH3M2HnfB0gLhyfgWGhcFeMNYBEBqY3Klt+5lxbWs0JwEM4oNp7cnZy+mVaIZDI5fjPu3LtofBuTAsT8WEkpF/Lq3nAf/di6AkdhEu/3yk7PWg7WPpzeCtUuPYJWVG7A4QoFJAZojj+U4rwI4O5i2eJr6zFf+6cV5+bh4ZCL5Iaxu239CgEBRYSFBVjB86QVKG7N7LtslKNVmJuag==;C3p/J1voTeb9DNUiPaTtxg=="
 ---

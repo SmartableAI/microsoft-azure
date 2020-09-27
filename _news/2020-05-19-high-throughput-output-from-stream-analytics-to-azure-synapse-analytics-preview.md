@@ -29,7 +29,16 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 55
+    quality: 87
+  - title: "Azure Cognitive Services general availability updates "
+    excerpt: "General availability updates in Azure Cognitive Services Decision, Speech, and containers categories. "
+    publishedDateTime: 2020-09-22T16:05:30Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-cognitive-services-general-availability-updates/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
 
 secured: "V2qTaJWlDT1lFmAW01n+op3PEX5wdAiJahe2+n+rRXi5qAEnmYdQnYE4mda6EDeN0d1RlBcnPeONTPKAwwwW1HFIEpgeB7utjmq2RCoZzT4vlZSAbqz1efHvJ5291bIKA5jEo7INKlfCpMVWTuUI4cqmgHUPAGjk9hvLP/RHwj9BiDXEmumhUJYKzVHc7we7BFqZApztg9RS6kHBzaEDm4GwsLijDEaIp7tYJdintVVyC0GKlZvJytz+l4+YQIFyWdk6I3bKXuSfG3sAnebD1bJee7oCYCcyZ1DMIn9OCxrL65B7liqry0qcG0JscR/pHsBpxtKlrl7TXcT2XZgeNQ==;gxTYRC7+kfidgSpRug0FmA=="
 ---

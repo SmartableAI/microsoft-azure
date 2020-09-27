@@ -20,6 +20,17 @@ provider:
 topics:
   - Azure
 
+related:
+  - title: "Azure Red Hat OpenShift on OpenShift 4.4 now available"
+    excerpt: "Red Hat OpenShift 4.4 is now available on Azure Red Hat OpenShift."
+    publishedDateTime: 2020-07-21T16:00:46Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-red-hat-openshift-on-openshift-44-now-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 17
+
 secured: "PkkBYoGAvr5ogr4TBk0lv2OavCPjyU78+NwiupkvZw7e/Eu2G1aHkZ8J8kfXPDLDboCb8lrSbJdbNtXxlwAFV8l41NYpG1Dnu5/DgIKwy2a4HHPTtf8RShxEztHIeTscML6T3KS8Mq+WohrD8hzqQ4lUuK6BmGfAhVXadD2Reuq79Lt46/Sa+xaxWtCzXnooNKYiWolLoHVHEFNEGBogfl8lP5kkOWmbRvW1LwHcs2Ji4IwzCFK34vgw1kF5h0QphxYpp3h7T92jw2/6IhUVsiGPk3XTQIdv1yTrOhmtdm4GXBQxnkoecZTlToXO+f2nsx7dQ3ooOxjteKT0+5DGkQ==;nLnA/Q+mMIshDTV3sPpIFg=="
 ---
 

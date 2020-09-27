@@ -49,15 +49,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 17
-  - title: "Selective disks backup for Azure Virtual Machine is in public preview"
-    excerpt: "Optimize your costs and enjoy faster backup and restore operations by selectively backing up a subset of the data disks in a VM."
-    publishedDateTime: 2020-08-06T18:00:12Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/selective-disks-backup-for-azure-virtual-machine-is-in-public-preview/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 17
   - title: "New DCsv2-series virtual machines are now available"
     excerpt: ""
     publishedDateTime: 2020-04-27T19:00:00Z

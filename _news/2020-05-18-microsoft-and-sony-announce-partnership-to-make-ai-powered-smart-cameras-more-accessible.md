@@ -26,239 +26,283 @@ images:
     title: "Microsoft and Sony announce partnership to make AI-powered smart cameras more accessible"
 
 related:
-  - title: "FedEx and Microsoft announce partnership to improve package delivery"
-    excerpt: "Microsoft and FedEx are joining forces with a new partnership that will supposedly \"transform commerce\" by pairing the former company's cloud prowess with the logistics network of the latter."
-    publishedDateTime: 2020-05-18T23:26:00Z
-    webUrl: "https://www.techspot.com/news/85276-fedex-microsoft-announce-partnership-improve-package-delivery.html"
-    ampWebUrl: "https://www.techspot.com/amp/news/85276-fedex-microsoft-announce-partnership-improve-package-delivery.html"
-    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/85276-fedex-microsoft-announce-partnership-improve-package-delivery.html"
+  - title: "Top cloud providers in 2020: AWS, Microsoft Azure, and Google Cloud, hybrid, SaaS players"
+    excerpt: "Whether it's Amazon Web Services, Microsoft Azure, and Google Cloud platform in infrastructure as a service, or IBM, Dell Technologies, Hewlett-Packard Enterprise, and VMware in multi-cloud hybrid ..."
+    publishedDateTime: 2020-05-11T19:59:00Z
+    webUrl: "https://www.zdnet.com/article/the-top-cloud-providers-of-2020-aws-microsoft-azure-google-cloud-hybrid-saas/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/the-top-cloud-providers-of-2020-aws-microsoft-azure-google-cloud-hybrid-saas/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-top-cloud-providers-of-2020-aws-microsoft-azure-google-cloud-hybrid-saas/"
     type: article
     provider:
-      name: TechSpot
-      domain: techspot.com
+      name: ZDNet
+      domain: zdnet.com
+    quality: 88
+    images:
+      - url: "https://zdnet4.cbsistatic.com/hub/i/2020/01/21/9d349185-abe0-4f78-aed7-f1aa4a2010ee/istock-925557862.jpg"
+        width: 1600
+        height: 1068
+        isCached: true
+  - title: "Microsoft to open first data center in New Zealand as cloud usage grows"
+    excerpt: "In spite of being in the midst of a pandemic sowing economic uncertainty, one area that continues to thrive is cloud computing. Perhaps that explains why Microsoft, which saw Azure grow 59% in its most recent earnings report,"
+    publishedDateTime: 2020-05-06T16:57:00Z
+    webUrl: "https://techcrunch.com/2020/05/06/microsoft-to-open-first-data-center-in-new-zealand-as-cloud-usage-grows/"
+    ampWebUrl: "https://techcrunch.com/2020/05/06/microsoft-to-open-first-data-center-in-new-zealand-as-cloud-usage-grows/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/06/microsoft-to-open-first-data-center-in-new-zealand-as-cloud-usage-grows/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
     quality: 82
     images:
-      - url: "https://static.techspot.com/images2/news/bigimage/2020/05/2020-05-18-image-34.jpg"
-        width: 2560
-        height: 1440
+      - url: "https://techcrunch.com/wp-content/uploads/2020/05/GettyImages-109864162.jpg?w=1024"
+        width: 1024
+        height: 682
         isCached: true
-  - title: "FedEx, Microsoft are teaming up to deliver packages, widening gap with Amazon"
-    excerpt: "The two companies also announced their first service, called FedEx Surround, which FedEx said will \"enhance visibility\" into supply chains."
-    publishedDateTime: 2020-05-18T14:55:00Z
-    webUrl: "https://www.cnbc.com/2020/05/18/fedex-microsoft-are-teaming-up-to-deliver-packages-widening-gap-with-amazon.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2020/05/18/fedex-microsoft-are-teaming-up-to-deliver-packages-widening-gap-with-amazon.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/05/18/fedex-microsoft-are-teaming-up-to-deliver-packages-widening-gap-with-amazon.html"
+  - title: "Build 2020: What to expect from Microsoft’s online-only developer conference"
+    excerpt: "Though it's been moved to an all-digital event, Microsoft still has a lot prepared for its Build 2020 developer conference. Here's what to expect May 19 and 20."
+    publishedDateTime: 2020-05-04T13:00:00Z
+    webUrl: "https://www.digitaltrends.com/computing/microsoft-build-2020-what-to-expect/"
+    ampWebUrl: "https://www.digitaltrends.com/computing/microsoft-build-2020-what-to-expect/?amp"
+    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/microsoft-build-2020-what-to-expect/?amp"
     type: article
     provider:
-      name: CNBC
-      domain: cnbc.com
+      name: Digital Trends
+      domain: digitaltrends.com
     quality: 79
     images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106512449-1588182933107fedex.jpg?v=1588183002"
-        width: 3000
-        height: 2000
+      - url: "https://icdn6.digitaltrends.com/image/digitaltrends/satya-nadella-keynote-2-1200x630-c-ar1.91.jpg"
+        width: 1000
+        height: 523
         isCached: true
-  - title: "FedEx partners with Microsoft to improve supply chains and shipping logistics"
-    excerpt: "The companies said their first offering, called FedEx Surround, will provide real-time analytics into commerce supply chains and shipment tracking."
-    publishedDateTime: 2020-05-18T17:00:00Z
-    webUrl: "https://www.zdnet.com/article/fedex-partners-with-microsoft-to-improve-supply-chains-and-shipping-logistics/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/fedex-partners-with-microsoft-to-improve-supply-chains-and-shipping-logistics/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/fedex-partners-with-microsoft-to-improve-supply-chains-and-shipping-logistics/"
+  - title: "Microsoft and Intel project converts malware into images before analyzing it"
+    excerpt: "Microsoft and Intel have recently collaborated on a new research project that explored a new approach to detecting and classifying malware. Called STAMINA (STAtic Malware-as-Image Network Analysis), the project relies on a new technique that converts malware samples into grayscale images and then scans the image for textural and structural patterns specific to malware samples."
+    publishedDateTime: 2020-05-11T01:40:00Z
+    webUrl: "https://www.zdnet.com/article/microsoft-and-intel-project-converts-malware-into-images-before-analyzing-it/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-and-intel-project-converts-malware-into-images-before-analyzing-it/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-and-intel-project-converts-malware-into-images-before-analyzing-it/"
     type: article
     provider:
       name: ZDNet
       domain: zdnet.com
     quality: 79
     images:
-      - url: "https://zdnet3.cbsistatic.com/hub/i/r/2020/05/18/2151fc49-7ad9-4a65-9002-0414a1081af1/thumbnail/1200x675/8639db4c7592580202910c59cd9b807c/screen-shot-2020-05-18-at-3-59-56-pm.png"
-        width: 1200
-        height: 675
+      - url: "https://zdnet1.cbsistatic.com/hub/i/r/2019/04/20/932ea1cb-d0e5-4b88-801e-c33b6433469f/resize/1200x900/350c937a9c20ed5d4994987051363f4e/03-optional-features.jpg"
+        width: 991
+        height: 900
         isCached: true
-  - title: "Microsoft and FedEx team up against Amazon with new technology and logistics partnership"
-    excerpt: "Microsoft and FedEx will work together to develop new products and services under a multiyear technology and logistics partnership announced Monday morning. The deal aligns the two corporate"
-    publishedDateTime: 2020-05-18T16:01:00Z
-    webUrl: "https://www.geekwire.com/2020/microsoft-fedex-team-amazon-new-technology-logistics-partnership/"
-    ampWebUrl: "https://www.geekwire.com/2020/microsoft-fedex-team-amazon-new-technology-logistics-partnership/amp/"
-    cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/microsoft-fedex-team-amazon-new-technology-logistics-partnership/amp/"
+  - title: "Microsoft and AWS exchange poisoned pen blog posts in latest Pentagon JEDI contract spat"
+    excerpt: "Microsoft and Amazon are at it again as the fight for the Defense Department JEDI contract continues. In a recent series of increasingly acerbic pronouncements, the two companies continue their ongoing spat over the $10 billion,"
+    publishedDateTime: 2020-05-08T13:20:00Z
+    webUrl: "https://techcrunch.com/2020/05/08/microsoft-and-aws-exchange-poisoned-pen-blog-posts-in-latest-pentagon-jedi-contract-spat/"
+    ampWebUrl: "https://techcrunch.com/2020/05/08/microsoft-and-aws-exchange-poisoned-pen-blog-posts-in-latest-pentagon-jedi-contract-spat/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/08/microsoft-and-aws-exchange-poisoned-pen-blog-posts-in-latest-pentagon-jedi-contract-spat/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 73
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2020/05/GettyImages-1073698070.jpg?w=1024"
+        width: 1024
+        height: 682
+        isCached: true
+  - title: "Cloud lift: Amazon, Microsoft, Google, Apple and others find a common cushion in the crisis"
+    excerpt: "Amazon CEO Jeff Bezos is advising the company’s shareholders to “take a seat” to prepare for the tech giant’s ambitious spending on COVID-19 initiatives, but if not for Amazon Web Services, they"
+    publishedDateTime: 2020-05-04T15:29:00Z
+    webUrl: "https://www.geekwire.com/2020/cloud-lift-amazon-microsoft-google-apple-others-finding-common-cushion-crisis/"
+    ampWebUrl: "https://www.geekwire.com/2020/cloud-lift-amazon-microsoft-google-apple-others-finding-common-cushion-crisis/amp/"
+    cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/cloud-lift-amazon-microsoft-google-apple-others-finding-common-cushion-crisis/amp/"
     type: article
     provider:
       name: GeekWire
       domain: geekwire.com
-    quality: 73
+    quality: 72
     images:
-      - url: "https://cdn.geekwire.com/wp-content/uploads/2018/06/DSC05118-630x432.jpg"
+      - url: "https://cdn.geekwire.com/wp-content/uploads/2019/12/reInvent-2018_Wednesday_AndyJassyKeynote_140-630x442.jpg"
         width: 630
-        height: 432
+        height: 442
         isCached: true
-  - title: "Sony’s Microsoft Azure partnership is “very strong” despite congestion concerns"
-    excerpt: "Sony's recent Microsoft Azure partnership has been described as a \"very strong\" collaboration despite some concerns regarding the cloud service's nighttime use."
-    publishedDateTime: 2020-05-19T12:27:00Z
-    webUrl: "https://mspoweruser.com/sonys-microsoft-azure-partnershipstrong-congestion/"
-    ampWebUrl: "https://mspoweruser.com/sonys-microsoft-azure-partnershipstrong-congestion/amp/"
-    cdnAmpWebUrl: "https://mspoweruser-com.cdn.ampproject.org/c/s/mspoweruser.com/sonys-microsoft-azure-partnershipstrong-congestion/amp/"
-    type: article
-    provider:
-      name: MSPoweruser
-      domain: mspoweruser.com
-    quality: 53
-    images:
-      - url: "https://mspoweruser.com/wp-content/uploads/2019/05/sony2-microsoft-team-up-nadella-yoshida.jpg"
-        width: 1280
-        height: 853
-        isCached: true
-  - title: "Microsoft deepens partnership with Redis to improve capabilities of Azure Cache for Redis"
-    excerpt: "Microsoft and Redis Labs today announced a major partnership to bring native integration between Redis Labs technology and Azure cloud. As part of this partnership, Redis Enterprise is now available as two new tiers of Azure Cache for Redis."
-    publishedDateTime: 2020-05-12T15:29:00Z
-    webUrl: "https://mspoweruser.com/microsoft-azure-cache-for-redis/"
-    ampWebUrl: "https://mspoweruser.com/microsoft-azure-cache-for-redis/amp/"
-    cdnAmpWebUrl: "https://mspoweruser-com.cdn.ampproject.org/c/s/mspoweruser.com/microsoft-azure-cache-for-redis/amp/"
-    type: article
-    provider:
-      name: MSPoweruser
-      domain: mspoweruser.com
-    quality: 48
-    images:
-      - url: "https://mspoweruser.com/wp-content/uploads/2020/05/Redis-Enterprise-for-Azure-Cache.jpg"
-        width: 1663
-        height: 945
-        isCached: true
-  - title: "FedEx and Microsoft join up to enter the package delivery game"
-    excerpt: "It’s a rather bold statement, but FedEx and Microsoft announced Monday afternoon that the two companies are partnering up to “transform commerce” in a new"
-    publishedDateTime: 2020-05-18T20:34:00Z
-    webUrl: "https://www.consumeraffairs.com/news/fedex-and-microsoft-join-up-to-enter-the-package-delivery-game-051820.html"
-    ampWebUrl: "https://www.consumeraffairs.com/amp/news/fedex-and-microsoft-join-up-to-enter-the-package-delivery-game-051820.html"
-    cdnAmpWebUrl: "https://www-consumeraffairs-com.cdn.ampproject.org/c/s/www.consumeraffairs.com/amp/news/fedex-and-microsoft-join-up-to-enter-the-package-delivery-game-051820.html"
-    type: article
-    provider:
-      name: ConsumerAffairs
-      domain: consumeraffairs.com
-    quality: 42
-    images:
-      - url: "https://media.consumeraffairs.com/files/cache/news/FedEx_building_JHVEPhoto_Getty_Images_large.jpg"
-        width: 700
-        height: 467
-        isCached: true
-  - title: "FedEx Is Using Microsoft’s A.I. Tools to Speed Up Package Delivery"
-    excerpt: "The launch of FedEx Surround, a package-tracking and logistics-intelligence service, is a real-world demonstration of the power of big data, among other things."
-    publishedDateTime: 2020-05-18T19:50:00Z
-    webUrl: "https://www.barrons.com/articles/fedex-surround-microsoft-package-delivery-tracking-51589831147"
-    ampWebUrl: "https://www.barrons.com/amp/articles/fedex-surround-microsoft-package-delivery-tracking-51589831147"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/fedex-surround-microsoft-package-delivery-tracking-51589831147"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 42
-    images:
-      - url: "https://images.barrons.com/im-188267/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "FedEx, Microsoft announce data-driven partnership to help businesses"
-    excerpt: "FedEx and Microsoft are combining logistics and cloud computing technology to provide a range of data-driven business services."
-    publishedDateTime: 2020-05-18T15:19:00Z
-    webUrl: "https://www.usatoday.com/story/money/business/2020/05/18/fedex-microsoft-announce-partnership-help-businesses-data/5212733002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5212733002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5212733002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 42
-    images:
-      - url: "https://www.gannett-cdn.com/-mm-/3821841996d20be492a000e5b8789ec34da3e9bd/c=0-57-2539-1492/local/-/media/2017/08/29/TennGroup/Memphis/636396002819185337-060915-a.JPG?auto=webp&format=pjpg&width=1200"
-        width: 1200
-        height: 678
-        isCached: true
-  - title: "FedEx, Microsoft team up to provide enhanced tracking"
-    excerpt: "FedEx and Microsoft are partnering to provide customers with enhanced package tracking. The companies will provide commercial shipping customers with early warnings of potential delays because of weather,"
-    publishedDateTime: 2020-05-18T20:16:00Z
-    webUrl: "https://www.foxbusiness.com/technology/fedex-microsoft-team-up-to-provide-enhanced-tracking"
-    ampWebUrl: "https://www.foxbusiness.com/technology/fedex-microsoft-team-up-to-provide-enhanced-tracking.amp"
-    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/fedex-microsoft-team-up-to-provide-enhanced-tracking.amp"
-    type: article
-    provider:
-      name: Fox Business
-      domain: foxbusiness.com
-    quality: 42
-    images:
-      - url: "http://media.foxbusiness.com/BrightCove/854081161001/202003/2301/854081161001_6145324627001_6145320707001-vs.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "FedEx Teams With Microsoft for Cloud-Based Delivery Tracking"
-    excerpt: "FedEx plans to merge its global digital and logistics network with Microsoft's cloud networking power, the companies said."
-    publishedDateTime: 2020-05-18T15:15:00Z
-    webUrl: "https://www.thestreet.com/investing/fedex-to-leverage-microsoft-cloud-networking-in-package-delivery"
-    ampWebUrl: "https://www.thestreet.com/.amp/investing/fedex-to-leverage-microsoft-cloud-networking-in-package-delivery"
-    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/fedex-to-leverage-microsoft-cloud-networking-in-package-delivery"
-    type: article
-    provider:
-      name: TheStreet.com
-      domain: thestreet.com
-    quality: 42
-    images:
-      - url: "https://content.jwplatform.com/thumbs/9eFnHW1Q-720.jpg"
-        width: 720
-        height: 406
-        isCached: true
-  - title: "Microsoft and FedEx announce partnership that will 'transform commerce'"
-    excerpt: "FedEx and Microsoft will work together to help businesses track and analyze commerce data in near-real-time. The first solution to come from the partnership is FedEx Surround, which helps businesses meet demand with inventory."
-    publishedDateTime: 2020-05-18T15:48:00Z
-    webUrl: "https://www.windowscentral.com/microsoft-and-fedex-announce-partnership-will-transform-commerce"
-    ampWebUrl: "https://www.windowscentral.com/microsoft-and-fedex-announce-partnership-will-transform-commerce?amp"
-    cdnAmpWebUrl: "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/microsoft-and-fedex-announce-partnership-will-transform-commerce?amp"
-    type: article
-    provider:
-      name: Windows Central
-      domain: windowscentral.com
-    quality: 42
-    images:
-      - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2017/09/microsoft-logo-2017-ignite2.jpg?itok=c3ocGDNm"
-        width: 800
-        height: 600
-        isCached: true
-  - title: "SD Times news digest: ESLint 7.0, DataStax Astra now available, and Redis Labs and Microsoft announce partnership"
-    excerpt: "DataStax Astra now available DataStax Astra brings Apache Cassandra performance, reliability, and scale to the cloud with a new database-as-a-service (DBaaS). The DBaaS reduces deployment time from weeks to minutes,"
-    publishedDateTime: 2020-05-12T15:29:00Z
-    webUrl: "https://sdtimes.com/softwaredev/sd-times-news-digest-eslint-7-0-datastax-astra-now-available-and-redis-labs-and-microsoft-announce-partnership/"
+  - title: "Microsoft provides insight into its programming language Bosque"
+    excerpt: "Microsoft Research announced new capabilities that it is building for its new Bosque programming language project created to support automated reasoning tools."
+    publishedDateTime: 2020-05-15T15:28:00Z
+    webUrl: "https://sdtimes.com/cloud/microsoft-provides-insight-into-its-programming-language-bosque/"
     type: article
     provider:
       name: SD Times
       domain: sdtimes.com
+    quality: 62
+    images:
+      - url: "https://sdtimes.com/wp-content/uploads/2020/05/bosque_code_sample.png"
+        width: 1022
+        height: 716
+        isCached: true
+  - title: "German Companies Turn to Service Providers to Manage Microsoft Product Suite"
+    excerpt: "(GLOBE NEWSWIRE via COMTEX) -- ISG Provider Lens(TM) report also finds growing interest in Microsoft Azure cloud solutions among German"
+    publishedDateTime: 2020-05-07T08:00:00Z
+    webUrl: "https://www.marketwatch.com/press-release/german-companies-turn-to-service-providers-to-manage-microsoft-product-suite-2020-05-07"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 59
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Amazon, Microsoft Or Google: Which Is The Best Play On Surging Cloud Infrastructure Demand?"
+    excerpt: "The Coronavirus pandemic is making people rely increasingly on the Internet to work, learn, shop, and entertain themselves as they spend more time at home. This, in turn, is boosting demand for public cloud infrastructure which allows businesses that range from retailers"
+    publishedDateTime: 2020-05-14T15:31:00Z
+    webUrl: "https://www.forbes.com/sites/greatspeculations/2020/05/14/amazon-microsoft-or-google-which-is-the-best-play-on-surging-cloud-infrastructure-demand/"
+    ampWebUrl: "https://www.forbes.com/sites/greatspeculations/2020/05/14/amazon-microsoft-or-google-which-is-the-best-play-on-surging-cloud-infrastructure-demand/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/greatspeculations/2020/05/14/amazon-microsoft-or-google-which-is-the-best-play-on-surging-cloud-infrastructure-demand/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 52
+  - title: "Microsoft announces $1 billion investment plan in Poland"
+    excerpt: "Microsoft today announced a $1 billion investment plan in Poland. As part of this investment, Microsoft will open a new datacenter region in Poland to support startups, enterprises and government with enterprise-grade cloud services."
+    publishedDateTime: 2020-05-05T15:45:00Z
+    webUrl: "https://mspoweruser.com/microsoft-1-billion-investment-poland/"
+    ampWebUrl: "https://mspoweruser.com/microsoft-1-billion-investment-poland/amp/"
+    cdnAmpWebUrl: "https://mspoweruser-com.cdn.ampproject.org/c/s/mspoweruser.com/microsoft-1-billion-investment-poland/amp/"
+    type: article
+    provider:
+      name: MSPoweruser
+      domain: mspoweruser.com
+    quality: 42
+    images:
+      - url: "https://mspoweruser.com/wp-content/uploads/2020/05/Microsoft-Poland-1200x788.jpg"
+        width: 1200
+        height: 788
+        isCached: true
+  - title: "Microsoft Stock Remains a Safe Buy as Markets Bounce Back"
+    excerpt: "Microsoft stock may not be 'cheap,' but given the company's strength in the wake of coronavirus, shares could move higher as markets recover."
+    publishedDateTime: 2020-05-12T01:17:00Z
+    webUrl: "https://investorplace.com/2020/05/microsoft-stock-safe-buy-uncertain-market/"
+    ampWebUrl: "https://investorplace.com/2020/05/microsoft-stock-safe-buy-uncertain-market/amp/"
+    cdnAmpWebUrl: "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2020/05/microsoft-stock-safe-buy-uncertain-market/amp/"
+    type: article
+    provider:
+      name: InvestorPlace
+      domain: investorplace.com
+    quality: 42
+    images:
+      - url: "https://investorplace.com/wp-content/uploads/2020/03/shutterstock_698745022-compressor.jpg"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "Microsoft, AWS in public spat over awarding of $10 billion cloud project"
+    excerpt: "After Microsoft slammed Amazon's Cloud arm for challenging the US government's decision to award $10 billion Pentagon Cloud project to the Satya Nadella-run enterprise, Amazon Web Services (AWS) has hit back,"
+    publishedDateTime: 2020-05-09T06:15:00Z
+    webUrl: "https://www.thenewsminute.com/article/microsoft-aws-public-spat-over-awarding-10-billion-cloud-project-124232"
+    ampWebUrl: "https://www.thenewsminute.com/article/microsoft-aws-public-spat-over-awarding-10-billion-cloud-project-124232?amp"
+    cdnAmpWebUrl: "https://www-thenewsminute-com.cdn.ampproject.org/c/s/www.thenewsminute.com/article/microsoft-aws-public-spat-over-awarding-10-billion-cloud-project-124232?amp"
+    type: article
+    provider:
+      name: The News Minute
+      domain: thenewsminute.com
     quality: 41
     images:
-      - url: "https://sdtimes.com/wp-content/uploads/2020/05/1_jFyfsakE2WBv5sFjBQUsuw.png"
-        width: 1200
-        height: 400
+      - url: "https://www.thenewsminute.com/sites/default/files/microsoft_750_7.jpg"
+        width: 750
+        height: 500
         isCached: true
-  - title: "FedEx, Microsoft Enter Multiyear Collaboration; To Roll Out FedEx Surround"
-    excerpt: "(RTTNews) - FedEx Corp. (FDX) and Microsoft Corp. (MSFT) announced a new multiyear collaboration to transform commerce using Microsoft's intelligent cloud. By combining the FedEx network and the Microsoft cloud,"
-    publishedDateTime: 2020-05-18T13:37:00Z
-    webUrl: "https://www.nasdaq.com/articles/fedex-microsoft-enter-multiyear-collaboration-to-roll-out-fedex-surround-2020-05-18"
+  - title: "The COO of VMware says it's become 'the indispensable bridge' in the cloud: Amazon, Microsoft and Google 'have all embraced us'"
+    excerpt: "VMware COO Sanjay Poonen says the alliances it forged with Amazon, Microsoft and Google has made it \"the indispensable bridge\" in the cloud."
+    publishedDateTime: 2020-05-04T17:28:00Z
+    webUrl: "https://www.businessinsider.com/vmwares-coo-the-indispensable-bridge-in-the-cloud-2020-5"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 40
-  - title: "Microsoft and SchedMD Partner to Bring Slurm into Azure CycleCloud"
-    excerpt: "Microsoft Azure announced a partnership with the company that developed the open source Slurm workload manager, SchedMD. In a blog posted"
-    publishedDateTime: 2020-05-21T19:12:00Z
-    webUrl: "https://www.hpcwire.com/off-the-wire/microsoft-and-schedmd-partner-to-bring-slurm-into-azure-cyclecloud/"
-    type: article
-    provider:
-      name: HPCwire
-      domain: hpcwire.com
-    quality: 37
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 34
     images:
-      - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/05/Nvidia_graphic_700x-405x228.jpg"
-        width: 405
-        height: 228
+      - url: "https://i.insider.com/5e2b06b7b6d52d07f655c43a?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
-  - title: "FedEx and Microsoft join forces to transform commerce"
-    excerpt: "MEMPHIS, Tenn., and REDMOND, Wash., May 18, 2020 /PRNewswire/ -- FedEx Corp. (NYSE: FDX) and Microsoft Corp. (Nasdaq: MSFT) on Monday announced a new multiyear collaboration to help transform commerce by combining the global digital and logistics network of FedEx with the power of Microsoft’s intelligent cloud."
-    publishedDateTime: 2020-05-18T16:04:00Z
-    webUrl: "https://apnews.com/PR Newswire/6651f50c5ebc9cc48560cd0ce2ae173a"
+  - title: "Microsoft claims AWS has used new JEDI mind trick with secret contract objection filing"
+    excerpt: "Amazon.com has filed a second, secret, appeal at the decision to award Microsoft the $10bn Pentagon Joint Enterprise Defense Infrastructure (JEDI) contract. So says Microsoft corp"
+    publishedDateTime: 2020-05-08T09:07:00Z
+    webUrl: "https://www.theregister.co.uk/2020/05/08/new_jedi_contract_objection/"
+    ampWebUrl: "https://www.theregister.co.uk/AMP/2020/05/08/new_jedi_contract_objection/"
+    cdnAmpWebUrl: "https://www-theregister-co-uk.cdn.ampproject.org/c/s/www.theregister.co.uk/AMP/2020/05/08/new_jedi_contract_objection/"
+    type: article
+    provider:
+      name: The Register
+      domain: theregister.co.uk
+    quality: 34
+    images:
+      - url: "https://regmedia.co.uk/2017/12/19/lightsaber.jpg"
+        width: 648
+        height: 432
+        isCached: true
+  - title: "Amazon Web Services and Microsoft engage in heated public spat over $10bn cloud project"
+    excerpt: "After Microsoft slammed Amazon's Cloud arm for challenging the US government's decision to award $10 billion Pentagon Cloud project to Satya Nadella-run enterprise, Amazon Web Services (AWS) has hit back,"
+    publishedDateTime: 2020-05-10T04:30:00Z
+    webUrl: "https://www.zeebiz.com/companies/news-amazon-web-services-and-microsoft-engage-in-heated-public-spat-over-10bn-cloud-project-126391"
+    ampWebUrl: "https://www.zeebiz.com/companies/news-amazon-web-services-and-microsoft-engage-in-heated-public-spat-over-10bn-cloud-project-126391/amp"
+    cdnAmpWebUrl: "https://www-zeebiz-com.cdn.ampproject.org/c/s/www.zeebiz.com/companies/news-amazon-web-services-and-microsoft-engage-in-heated-public-spat-over-10bn-cloud-project-126391/amp"
+    type: article
+    provider:
+      name: Zee Business
+      domain: zeebiz.com
+    quality: 34
+    images:
+      - url: "https://cdn.zeebiz.com/sites/default/files/styles/zeebiz_700x394/public/2020/05/09/118543-singhvi-chouhan.jpg?itok=4uLSp1Pb"
+        width: 700
+        height: 393
+        isCached: true
+  - title: "ClearSale chooses Microsoft Azure to support and protect e-commerce transactions"
+    excerpt: "ClearSale, an international fraud protection organization, announced it has moved the hosting of its anti-fraud application to Microsoft Azure."
+    publishedDateTime: 2020-05-11T00:03:00Z
+    webUrl: "https://www.helpnetsecurity.com/2020/05/11/clearsale-microsoft-azure/"
+    type: article
+    provider:
+      name: Help Net Security
+      domain: helpnetsecurity.com
+    quality: 32
+    images:
+      - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/03/12085321/insecure-rsac2020.jpg"
+        width: 304
+        height: 430
+        isCached: true
+  - title: "COVID-19 accelerating investments in cloud, AI and cybersecurity: Microsoft India President"
+    excerpt: "Microsoft India President Anant Maheshwari noted that the coronavirus pandemic has changed businesses, communities, industries and the world, forever."
+    publishedDateTime: 2020-05-16T09:43:00Z
+    webUrl: "https://yourstory.com/2020/05/coronavirus-microsoft-india-ai-cybersecurity"
+    ampWebUrl: "https://yourstory.com/2020/05/coronavirus-microsoft-india-ai-cybersecurity/amp"
+    cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/05/coronavirus-microsoft-india-ai-cybersecurity/amp"
+    type: article
+    provider:
+      name: Your Story
+      domain: yourstory.com
+    quality: 32
+    images:
+      - url: "https://images.yourstory.com/cs/1/d7f5b370208e11eabf3a639b6d05ad44/MicrosoftBringsDefenderAntivirusforLinux-1582436421058.png?fm=png&auto=format"
+        width: 1000
+        height: 502
+        isCached: true
+  - title: "Cloud Data Integration Market Analysis by Emerging Growth Factors and Revenue Forecast to 2025| Snaplogic, Microsoft, Talend, Software, SAP, Oracle"
+    excerpt: "Cloud data integration solutions allow enterprises to unify data from disparate cloud sources in various formats. Cloud data integration solutions provide standard connectors to other cloud software systems,"
+    publishedDateTime: 2020-05-06T08:06:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cloud-data-integration-market-analysis-by-emerging-growth-factors-and-revenue-forecast-to-2025-snaplogic-microsoft-talend-software-sap-oracle-2020-05-06"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 24
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "ClearSale Migration to Microsoft Azure Helps Increase Scalability and Performance in Fraud Protection"
+    excerpt: "Understanding the importance of its fraud prevention services to clients in a time when e-commerce sales continue to skyrocket, ClearSale wanted to ensure that its high-demand mer"
+    publishedDateTime: 2020-05-07T17:54:00Z
+    webUrl: "https://apnews.com/Business Wire/f12e6fa95a464ab0b5f0fb9b4b6db46c"
     type: article
     provider:
       name: Associated Press
@@ -269,35 +313,91 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "FedEx, Microsoft Team Up To Launch Shipping Initiative"
-    excerpt: "FedEx and Microsoft plan to launch a collaboration that they say will combine the transportation company's logistics network with the power of cloud computing."
-    publishedDateTime: 2020-05-18T17:51:00Z
-    webUrl: "https://www.pymnts.com/news/delivery/2020/fedex-microsoft-team-up-for-shipping-initiative/"
-    ampWebUrl: "https://www.pymnts.com/news/delivery/2020/fedex-microsoft-team-up-for-shipping-initiative/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/delivery/2020/fedex-microsoft-team-up-for-shipping-initiative/amp/"
+  - title: "Microsoft VP Asks AWS To ‘Stand Down’ On JEDI Cloud Protests"
+    excerpt: "Microsoft urges Amazon to \"stand down\" on JEDI protests. AWS says it only wants a fair and transparent evaluation."
+    publishedDateTime: 2020-05-07T23:34:00Z
+    webUrl: "https://www.crn.com/news/cloud/microsoft-vp-asks-aws-to-stand-down-on-jedi-cloud-protests"
     type: article
     provider:
-      name: pymnts.com
-      domain: pymnts.com
+      name: CRN
+      domain: crn.com
     quality: 22
-  - title: "Microsoft wins multiyear cloud and AI deal with FedEx to improve package deliveries"
-    excerpt: "Microsoft Corp. and FedEx Corp. today unveiled a multiyear partnership that will see the logistics giant use Azure to build a machine learning-powered platform for predicting package delivery delays."
-    publishedDateTime: 2020-05-18T17:12:00Z
-    webUrl: "https://siliconangle.com/2020/05/18/microsoft-wins-multiyear-cloud-ai-deal-fedex-improve-package-deliveries/"
+    images:
+      - url: "https://www.crn.com/resources/025d-0f5abb219b39-cc9210a444b0-1000/pentagon-front.jpg"
+        width: 610
+        height: 457
+        isCached: true
+  - title: "Microsoft slams AWS for blocking $10bn Pentagon project"
+    excerpt: "In a statement, Frank X Shaw who is Corporate Vice President, Communications at Microsoft said that this latest roadblock is disappointing but not surprising."
+    publishedDateTime: 2020-05-08T08:47:00Z
+    webUrl: "https://www.hindustantimes.com/tech/microsoft-slams-aws-for-blocking-10bn-pentagon-project/story-qHHGKSjsW6ZS2BcP2EiX0M.html"
+    ampWebUrl: "https://m.hindustantimes.com/tech/microsoft-slams-aws-for-blocking-10bn-pentagon-project/story-qHHGKSjsW6ZS2BcP2EiX0M_amp.html"
+    cdnAmpWebUrl: "https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/tech/microsoft-slams-aws-for-blocking-10bn-pentagon-project/story-qHHGKSjsW6ZS2BcP2EiX0M_amp.html"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 22
+  - title: "AWS and Microsoft war of words ramp up in JEDI cloud contract row"
+    excerpt: "Amazon Web Services (AWS) has said it ‘won’t back down’ in its appeal process for the $10 billion JEDI government cloud computing contract – as the war of words between AWS and Microsoft escalates. The contract for the Department of Defense has long courted rumour and conjecture around alleged potential intervention by President Trump,"
+    publishedDateTime: 2020-05-11T14:43:00Z
+    webUrl: "https://cloudcomputing-news.net/news/2020/may/11/aws-and-microsoft-war-of-words-ramp-up-in-jedi-cloud-contract-row/"
+    type: article
+    provider:
+      name: Cloud Computing
+      domain: cloudcomputing-news.net
+    quality: 22
+    images:
+      - url: "https://cloudcomputing-news.net/wp-content/uploads/sites/2/2020/05/476027925_189bab2d5d_k.jpg"
+        width: 2048
+        height: 1551
+        isCached: true
+  - title: "AWS Fires Back At Microsoft As JEDI Cloud Battle Rages: ‘We Won’t Back Down’"
+    excerpt: "The war of words is heating up between Microsoft and AWS as the Pentagon is rejigging the JEDI cloud RFP behind closed doors. After a Microsoft executive urged Amazon Web Services to “stand down” on its JEDI protests,"
+    publishedDateTime: 2020-05-08T21:24:00Z
+    webUrl: "https://www.crn.com/news/cloud/aws-fires-back-at-microsoft-as-jedi-cloud-battle-rages-we-won-t-back-down-"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 19
+    images:
+      - url: "https://www.crn.com/resources/025d-0f5c8e54763b-7560272feb30-1000/pentagon-front.jpg"
+        width: 610
+        height: 457
+        isCached: true
+  - title: "Q1 belongs to AWS and Microsoft as cloud provides ‘safe haven’ during Covid-19"
+    excerpt: "The economic impact of Covid-19 has so far failed to slow the cloud progress of AWS and Microsoft within the enterprise market."
+    publishedDateTime: 2020-05-04T11:02:00Z
+    webUrl: "https://www.arnnet.com.au/article/678964/q1-belongs-aws-microsoft-cloud-provides-safe-haven-during-covid-19/?fp=2&fpid=1"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 18
+    images:
+      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/800x800/dimg/aws_microsoft.jpg"
+        width: 800
+        height: 500
+        isCached: true
+  - title: "Tencent takes aim at Microsoft and Amazon with expansion of cloud business in Japan"
+    excerpt: "A division of Chinese internet services giant Tencent Holdings Ltd. will expand the scope of its cloud business in Japan by the end of this year, a senior executive said Tuesday. By utilizing its state-of-the-art technology in the automobile and electronics fields,"
+    publishedDateTime: 2020-05-13T04:03:00Z
+    webUrl: "https://www.japantimes.co.jp/news/2020/05/13/business/corporate-business/tencent-cloud-computing/"
+    type: article
+    provider:
+      name: The Japan Times
+      domain: japantimes.co.jp
     quality: 16
     images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/05/microsoft-2.png"
-        width: 718
-        height: 400
+      - url: "https://cdn.japantimes.2xx.jp/wp-content/uploads/2020/05/np_file_11661.jpeg"
+        width: 594
+        height: 396
         isCached: true
-  - title: "FedEx, Microsoft team up against Amazon for shipping solutions"
-    excerpt: "The new multiyear collaboration will help transform commerce by combining the global digital and logistics network of FedEx with the power of Microsoft's intelligent cloud, the two companies said. \"Now more than ever, organisations are counting on an efficient and capable supply chain to remain competitive and open for business,\" Satya Nadella ..."
-    publishedDateTime: 2020-05-18T22:01:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/Science/20200519/3560768.html"
+  - title: "AWS and Microsoft engage in heated public spat over $10bn cloud project"
+    excerpt: "After Microsoft slammed Amazon's Cloud arm for challenging the US government's decision to award $10 billion Pentagon Cloud project to Satya Nadella-run enterprise, Amazon Web Services (AWS) has hit back,"
+    publishedDateTime: 2020-05-09T10:58:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Science/20200509/3555183.html"
     type: article
     provider:
       name: Webindia 123

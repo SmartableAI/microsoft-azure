@@ -8,8 +8,8 @@ ampWebUrl: "https://www.geekwire.com/2020/microsoft-reportedly-teamed-oracle-fen
 cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/microsoft-reportedly-teamed-oracle-fend-off-amazon-pentagons-jedi-contract/amp/"
 type: article
 quality: 70
-heat: 170
-published: true
+heat: -1
+published: false
 
 provider:
   name: GeekWire
@@ -30,84 +30,150 @@ images:
     title: "Microsoft reportedly teamed up with Oracle to fend off Amazon for the Pentagon’s JEDI contract"
 
 related:
-  - title: "Amazon says big government JEDI award is 'fatally flawed' in latest rebuttal to Microsoft criticisms"
-    excerpt: "The JEDI, or Joint Enterprise Defense Infrastructure, deal worth up to $10 billion has become one of the most tangled contracts for the Department of Defense."
-    publishedDateTime: 2020-05-08T14:55:00Z
-    webUrl: "https://www.cnbc.com/2020/05/08/amazon-says-jedi-award-fatally-flawed-in-rebuttal-to-microsoft.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2020/05/08/amazon-says-jedi-award-fatally-flawed-in-rebuttal-to-microsoft.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/05/08/amazon-says-jedi-award-fatally-flawed-in-rebuttal-to-microsoft.html"
+  - title: "Microsoft Taps Coca-Cola to Challenge Amazon, Salesforce, and Slack"
+    excerpt: "Microsoft (NASDAQ:MSFT) recently inked a five-year cloud deal with Coca-Cola (NYSE:KO), in which the beverage maker will standardize its business operations with Microsoft's Azure, Dynamics 365, and Microsoft 365 services."
+    publishedDateTime: 2020-05-05T15:23:00Z
+    webUrl: "https://www.fool.com/investing/2020/05/05/microsoft-taps-coca-cola-challenge-amazon-slack.aspx"
+    ampWebUrl: "https://www.fool.com/amp/investing/2020/05/05/microsoft-taps-coca-cola-challenge-amazon-slack.aspx"
+    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/05/05/microsoft-taps-coca-cola-challenge-amazon-slack.aspx"
     type: article
     provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 67
+      name: The Motley Fool
+      domain: fool.com
+    quality: 82
     images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106474164-1585941999885gettyimages-939960022.jpeg?v=1585942142"
-        width: 5253
-        height: 3502
+      - url: "https://g.foolcdn.com/editorial/images/497755/istock_000016851885_large_large.jpg"
+        width: 580
+        height: 378
         isCached: true
-  - title: "Microsoft slams Amazon’s latest protest over Pentagon cloud contract as ‘a way to avoid the consequences of its own bad business decisions’"
-    excerpt: "Amazon is once again challenging the Department of Defense’s decision to award a $10 billion cloud contract to Microsoft. Amazon filed a protest of the award directly with the DoD after a"
-    publishedDateTime: 2020-05-07T23:47:00Z
-    webUrl: "https://www.geekwire.com/2020/microsoft-slams-amazons-latest-protest-pentagon-cloud-contract-way-avoid-consequences-bad-business-decisions/"
-    ampWebUrl: "https://www.geekwire.com/2020/microsoft-slams-amazons-latest-protest-pentagon-cloud-contract-way-avoid-consequences-bad-business-decisions/amp/"
-    cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/microsoft-slams-amazons-latest-protest-pentagon-cloud-contract-way-avoid-consequences-bad-business-decisions/amp/"
+      - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F571626%2Fcoca-cola-store-orlando-plate.jpg&w=1200&op=resize"
+        width: 1200
+        height: 800
+  - title: "Microsoft to invest $1 billion in Poland: statement"
+    excerpt: "Microsoft will invest $1 billion in Poland as part of a plan that will involve opening a data centre in the country to provide cloud services to businesses and government institutions, the company said in a statement on Tuesday."
+    publishedDateTime: 2020-05-05T09:03:00Z
+    webUrl: "https://www.reuters.com/article/us-microsoft-poland-idUSKBN22H0WP"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN22H0WP"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN22H0WP"
     type: article
     provider:
-      name: GeekWire
-      domain: geekwire.com
-    quality: 48
+      name: Reuters
+      domain: reuters.com
+    quality: 82
     images:
-      - url: "https://cdn.geekwire.com/wp-content/uploads/2019/11/microsoft-630x473.jpg"
-        width: 630
-        height: 473
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20200505&t=2&i=1517499643&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG440IH"
+        width: 817
+        height: 545
         isCached: true
-  - title: "FedEx Teams Up With Microsoft to Fight Amazon. That’s Good for FedEx Stock."
-    excerpt: "Microsoft and FedEx announced an agreement to “transform e-commerce.” FedEx hopes to get a leg up in the delivery battle with Amazon."
-    publishedDateTime: 2020-05-18T14:30:00Z
-    webUrl: "https://www.barrons.com/articles/fedex-teams-up-with-microsoft-to-fight-amazon-thats-good-for-fedex-stock-51589815820"
-    ampWebUrl: "https://www.barrons.com/amp/articles/fedex-teams-up-with-microsoft-to-fight-amazon-thats-good-for-fedex-stock-51589815820"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/fedex-teams-up-with-microsoft-to-fight-amazon-thats-good-for-fedex-stock-51589815820"
+  - title: "Sell Salesforce Stock Now in Favor of Amazon or Microsoft"
+    excerpt: "Stock Market News, Stock Advice & Trading Tips The story with Salesforce (NYSE:CRM) isn’t all bad. The company has"
+    publishedDateTime: 2020-05-13T20:21:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/sell-salesforce-crm-stock-coronavirus-growth-1029199270"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/sell-salesforce-crm-stock-coronavirus-growth-1029199270"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/sell-salesforce-crm-stock-coronavirus-growth-1029199270"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 62
+  - title: "Sell Cloud Stocks Salesforce.com and Workday, Analyst Says"
+    excerpt: "Rosenblatt Securities’ Yun Kim sees the potential for slower-than-consensus revenue growth ahead, which he fears could trigger multiple compression for both stocks."
+    publishedDateTime: 2020-05-05T14:15:00Z
+    webUrl: "https://www.barrons.com/articles/sell-cloud-stocks-salesforce-com-and-workday-analyst-says-51588688149"
+    ampWebUrl: "https://www.barrons.com/amp/articles/sell-cloud-stocks-salesforce-com-and-workday-analyst-says-51588688149"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/sell-cloud-stocks-salesforce-com-and-workday-analyst-says-51588688149"
     type: article
     provider:
       name: Barron's
       domain: barrons.com
-    quality: 40
+    quality: 42
     images:
-      - url: "https://images.barrons.com/im-188060/social"
+      - url: "https://images.barrons.com/im-183590/social"
         width: 1280
         height: 640
         isCached: true
-  - title: "Microsoft claims AWS has used new JEDI mind trick with secret contract objection filing"
-    excerpt: "Amazon.com has filed a second, secret, appeal at the decision to award Microsoft the $10bn Pentagon Joint Enterprise Defense Infrastructure (JEDI) contract. So says Microsoft corp"
-    publishedDateTime: 2020-05-08T09:07:00Z
-    webUrl: "https://www.theregister.co.uk/2020/05/08/new_jedi_contract_objection/"
-    ampWebUrl: "https://www.theregister.co.uk/AMP/2020/05/08/new_jedi_contract_objection/"
-    cdnAmpWebUrl: "https://www-theregister-co-uk.cdn.ampproject.org/c/s/www.theregister.co.uk/AMP/2020/05/08/new_jedi_contract_objection/"
+  - title: "Microsoft and Amazon trade more jabs in fight over DoD JEDI contract"
+    excerpt: "Microsoft and Amazon are going at it once again, penning heated blog posts in the fight over the Department of Defense's JEDI contract award. While Microsoft accuses Amazon of stalling the process in a \"force a re-do,"
+    publishedDateTime: 2020-05-08T19:29:00Z
+    webUrl: "https://www.windowscentral.com/microsoft-and-amazon-trade-more-jabs-fight-over-dod-jedi-contract"
+    ampWebUrl: "https://www.windowscentral.com/microsoft-and-amazon-trade-more-jabs-fight-over-dod-jedi-contract?amp"
+    cdnAmpWebUrl: "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/microsoft-and-amazon-trade-more-jabs-fight-over-dod-jedi-contract?amp"
     type: article
     provider:
-      name: The Register
-      domain: theregister.co.uk
-    quality: 34
+      name: Windows Central
+      domain: windowscentral.com
+    quality: 42
     images:
-      - url: "https://regmedia.co.uk/2017/12/19/lightsaber.jpg"
-        width: 648
-        height: 432
+      - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2017/09/microsoft-logo-2017-ignite2.jpg?itok=c3ocGDNm"
+        width: 800
+        height: 600
         isCached: true
-  - title: "Amazon challenges the Pentagon’s revised JEDI solicitation directly to the department"
-    excerpt: "Amazon Web Services filed a bid protest directly to the Department of Defense challenging “ambiguous aspects” of the Pentagon’s revised solicitation for its embattled enterprise cloud contract. AWS’ challenge is in response to a revised solicitation from DoD regarding a specific technical requirement of the Joint Enterprise Defense Infrastructure cloud contract that AWS had challenged."
-    publishedDateTime: 2020-05-07T22:19:00Z
-    webUrl: "https://www.federaltimes.com/it-networks/cloud/2020/05/07/amazon-challenges-the-pentagons-revised-jedi-solicitation-directly-to-the-department/"
+  - title: "Microsoft, Amazon trade jabs over disputed $10B JEDI contract"
+    excerpt: "Amazon’s battle with Microsoft over a $10 billion U.S. defense department cloud computing contract has gone from the courtroom to the web. In dueling blog posts peppered with harsh jabs and pointed rhetoric,"
+    publishedDateTime: 2020-05-11T04:23:00Z
+    webUrl: "https://www.bizjournals.com/seattle/news/2020/05/10/microsoft-amazon-trade-jabs-over-jedi-contract.html"
+    ampWebUrl: "https://www.bizjournals.com/seattle/news/2020/05/10/microsoft-amazon-trade-jabs-over-jedi-contract.amp.html"
+    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/seattle/news/2020/05/10/microsoft-amazon-trade-jabs-over-jedi-contract.amp.html"
     type: article
     provider:
-      name: Federal Times
-      domain: federaltimes.com
-    quality: 15
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 42
     images:
-      - url: "https://www.armytimes.com/resizer/zPIx2t3S-cW9L6O4V1nUbDT6wsw=/1200x630/filters:quality(100)/arc-anglerfish-arc2-prod-mco.s3.amazonaws.com/public/SPQTUFFMHRFI7FZBGH36NHJ5MA.jpg"
-        width: 1200
-        height: 630
+      - url: "https://media.bizj.us/view/img/10988802/rtrlnine110024*600xx4350-2900-100-0.jpg"
+        width: 600
+        height: 400
         isCached: true
+  - title: "Nokia announces contributions to SONiC ecosystem led by Microsoft"
+    excerpt: "Nokia announced contributions to SONiC ecosystem led by Microsoft. Nokia has now developed a chassis-based SONiC implementation focused on the requirements of high capacity data centers."
+    publishedDateTime: 2020-05-12T14:30:00Z
+    webUrl: "https://mspoweruser.com/nokia-contributions-to-sonic-microsoft/"
+    ampWebUrl: "https://mspoweruser.com/nokia-contributions-to-sonic-microsoft/amp/"
+    cdnAmpWebUrl: "https://mspoweruser-com.cdn.ampproject.org/c/s/mspoweruser.com/nokia-contributions-to-sonic-microsoft/amp/"
+    type: article
+    provider:
+      name: MSPoweruser
+      domain: mspoweruser.com
+    quality: 42
+    images:
+      - url: "https://mspoweruser.com/wp-content/uploads/2017/01/data-centers.jpg"
+        width: 1000
+        height: 550
+        isCached: true
+  - title: "Amazon launched another JEDI contract complaint to DOD, and Microsoft responds"
+    excerpt: "In a blog post, Frank X. Shaw, Microsoft Corporate Vice President, Communications, revealed that Amazon has launched another bid to prevent Microsoft from fulfilling the Pentagon’s JEDI contract, which would update the Department of Defences’s IT services to a modern cloud-based back-end."
+    publishedDateTime: 2020-05-07T22:24:00Z
+    webUrl: "https://mspoweruser.com/amazon-launched-another-jedi-contract-complaint-to-dod-and-microsoft-responds/"
+    ampWebUrl: "https://mspoweruser.com/amazon-launched-another-jedi-contract-complaint-to-dod-and-microsoft-responds/amp/"
+    cdnAmpWebUrl: "https://mspoweruser-com.cdn.ampproject.org/c/s/mspoweruser.com/amazon-launched-another-jedi-contract-complaint-to-dod-and-microsoft-responds/amp/"
+    type: article
+    provider:
+      name: MSPoweruser
+      domain: mspoweruser.com
+    quality: 38
+    images:
+      - url: "https://mspoweruser.com/wp-content/uploads/2019/10/109411443_gettyimages-853699560.jpg"
+        width: 660
+        height: 371
+        isCached: true
+  - title: "Of FAANG (+MSFT) earnings, Amazon and Microsoft to lead, Wedbush says"
+    excerpt: "Wedbush's Dan Ives, in a note ahead of major tech earnings this week, wrote that during this Covid-19 storm, big tech and work-from-home names will be among the safest stocks during this \"pivotal&"
+    publishedDateTime: 2020-04-28T11:50:00Z
+    webUrl: "https://seekingalpha.com/news/3565190-of-faang-msft-earnings-amazon-and-microsoft-to-lead-wedbush-says"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 2
+  - title: "Microsoft slams Amazon's Cloud arm for blocking $10bn Pentagon project"
+    excerpt: "Microsoft has come out in the open against ecommerce giant Amazon's Cloud arm, slamming Amazon Web Services (AWS) for once again challenging the US government's decision to award $10 billion Pentagon Cloud project to Satya Nadella-run enterprise - this time out of view from the public and directly with the US Department of Defense (DoD)."
+    publishedDateTime: 2020-05-08T10:26:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Science/20200508/3554531.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 2
 
 secured: "HQQX260fMH5yA3qKDs15hdhRc5LXuzsw/+KtnI1wIaGgsh0CETqzBIRz+V5P3IV/s+wfHSTOtS7+mOydDqC79zud0zc3DUIlwYH5cYCglVKnrUgrl1ptZxBnYR5CNvBPsAPX4ykQDvYAPMNlEeShC9nutSL4uUG9wZ8blKUdvYpOPkBg3beOhJsoBzjFFjNxY0h521iuoVLvNTeHHu53mo9rLVXiIZb5fC+WhuEekpmPE3+KMiPIrYyBOlyiJetfie9ca+mTendaP3q1m1/a3xNo8IgFKUl4cQc6mRcGV8BF+bXJ+I8f91/pZBXLem/3vRFMgKosmj46JJUuq+EId2h53DejtvyDgoj7QIrDCc2lTXk6nyxRdA9zZE+VJJPyzbxX0w2lamfPL2eYJkUXXimOka9y/0B662nnHXrNHftEGXjJhk6cMPCkWh+sop0NQfTbZj3Z7LaNm+jxbdZqXCz44ENMdIuMNLUaj9bNM3Y=;RknLk0wJA+aHgX8ddlsD0A=="
 ---

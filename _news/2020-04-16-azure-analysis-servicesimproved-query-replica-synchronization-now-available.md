@@ -56,10 +56,28 @@ related:
         width: 553
         height: 259
         isCached: true
-  - title: "Azure Text Analytics v3 is now generally available"
+  - title: "Azure Monitor for virtual machines is now generally available"
     excerpt: ""
-    publishedDateTime: 2020-05-29T21:00:32Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/text-analytics-v3-is-now-generally-available/"
+    publishedDateTime: 2020-04-15T16:00:16Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-monitor-for-virtual-machines-is-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 17
+  - title: "Azure Analysis Services—Query interleaving is now generally available"
+    excerpt: ""
+    publishedDateTime: 2020-04-16T23:00:21Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/announcing-general-availability-ga-of-query-interleaving-for-azure-analysis-services/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 17
+  - title: "Azure Support API is generally available"
+    excerpt: ""
+    publishedDateTime: 2020-04-17T17:00:00Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-support-api-is-generally-available/"
     type: article
     provider:
       name: Microsoft

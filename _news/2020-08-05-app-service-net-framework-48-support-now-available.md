@@ -21,15 +21,15 @@ topics:
   - Azure
 
 related:
-  - title: "Azure HDInsight now supports virtual network service endpoint policies"
-    excerpt: "Azure HDInsight now supports virtual network service endpoint policies, which allow you to filter HDInsight egress virtual network traffic to certain Azure storage accounts."
-    publishedDateTime: 2020-07-29T16:00:29Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-hdinsight-now-supports-virtual-network-service-endpoint-policies/"
+  - title: "Azure IoT Device Provisioning Service VNET ingress support is now available"
+    excerpt: "Azure IoT Device Provisioning Service (DPS) has released general availability support for Virtual Networks (VNET)."
+    publishedDateTime: 2020-07-29T21:52:47Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-iot-device-provisioning-service-vnet-ingress-support-is-now-available/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 17
+    quality: 15
 
 secured: "uiAwu95BtLuLdNLPYo3zRWkbkNbou9bPdOd98Irx4v2H8QBtW3FeAgA8uB7eSM6TcaURnpBSyk8jBZ8EE7PHGULOtVsLor1RdqgFLOPd59tDYy7ur9hGG5p+4oDg8DX+JkbrD9DFa+HGRbgbKB+s2NvJVN1Wb5CmAM7SWE1F5MnHayflXlTG0qGiqGDcSuPjQCc+1QPouspbRkZGRv4B5GPaOClaCEqt2BOE18rVNB5NAdd6vvofmPNtu5qEi2oY14nKh3pJU7vEFu+PQHDZ7WLJx7NFxDizAWNzMO6manephZxTZohxOUE503Up5OLmvzLw19JZhd6OEppzRLEEYA==;m+x5HraGur1MavTsyTpHQg=="
 ---

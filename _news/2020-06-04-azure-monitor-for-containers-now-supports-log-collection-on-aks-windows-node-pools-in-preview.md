@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-04T18:00:27Z
 webUrl: "https://azure.microsoft.com/en-us/updates/ci-windows-logging/"
 type: article
 quality: 5
-heat: -1
+heat: 5
 published: false
 
 provider:
@@ -19,35 +19,6 @@ provider:
 
 topics:
   - Azure
-
-related:
-  - title: "Azure Policy support for Azure Cosmos DB is now available"
-    excerpt: ""
-    publishedDateTime: 2020-06-10T16:00:15Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-policy-support-for-azure-cosmos-db-is-now-available/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 17
-  - title: "Azure App Service hybrid connections for Linux apps is now available"
-    excerpt: "The hybrid connections feature of Azure App Service, which enables access to resources in disparate networks, is now available in public regions."
-    publishedDateTime: 2020-06-11T16:00:15Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-app-service-hybrid-connections-for-linux-apps-is-now-available/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 17
-  - title: "Azure Cosmos DB Java SDK 4.0 for Core (SQL) API release now in general availability"
-    excerpt: ""
-    publishedDateTime: 2020-06-10T16:00:14Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-cosmos-db-java-sdk-40-for-core-sql-api-release-now-in-general-availability/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 11
 
 secured: "jkl8XuD/2CAL0bdPjkiGB4z4JC0nVPBWs4C3bnOYjxf2AKKtDU7OOp1BYVpG7q4ygzc1HblHfmmMFhXxGITYkNKAfSUpXdaakDPDhyS8iqDu5bQgN8VBBj1iX35LS6TA5CEWZcANQ+Uyh0JOyXIVpBKE6v3REGYaBmsC1+6aKNqqYwjQFs5381YiL5ZzZ8Olan8EZLG2IWcq7RccmtJF8BxGSGCrhd0+nQK5PSt16y40aocW4lRQFo9YDttSjxtIy2bU97C2tGw/wxQmEAYtMO9MTNQ+Lh1sIg7KhtruzbYnHkJpm6o7F0febOh71JwJsfqq7yzALCvojD3XPhCIag==;VNUGUZi9MlG6IbDSaFGlEg=="
 ---

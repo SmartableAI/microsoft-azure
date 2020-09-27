@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "Build rich communication experiences at scale with Azure Communication Services"
+    excerpt: "In this remote-first world, businesses are looking to quickly adapt to customers’ needs and connect with them through engaging communication experiences. Building new communication solutions or integrating them into existing applications can be complex and time-consuming. Often requiring considerable"
+    publishedDateTime: 2020-09-22T08:00:31Z
+    webUrl: "https://azure.microsoft.com/blog/build-rich-communication-experiences-at-scale-with-azure-communication-services/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 83
+    images:
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/5714ed9c-7365-4095-b8db-762920382282.png"
+        width: 848
+        height: 385
+        isCached: true
   - title: "Build a scalable security practice with Azure Lighthouse and Azure Sentinel"
     excerpt: "The Microsoft Azure Lighthouse product group is launching a blog series Azure Lighthouse covering areas where we are investing to make our service provider partners and enterprise customers successful with Azure."
     publishedDateTime: 2020-09-16T10:00:31Z
@@ -37,20 +51,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 82
-  - title: "Device Authority releases new version of IoT security platform with support for Microsoft Azure Sphere and security lifecycle management"
-    excerpt: "Device Authority, a global leader in identity and access management (IAM) for the Internet of Things (IoT), today announced the latest version of its KeyScaler platform which includes enhanced device connectivity,"
-    publishedDateTime: 2020-09-15T14:14:00Z
-    webUrl: "https://www.totaltele.com/507141/Device-Authority-releases-new-version-of-IoT-security-platform-with-support-for-Microsoft-Azure-Sphere-and-security-lifecycle-management"
+  - title: "Build powerful and responsible AI solutions with Azure"
+    excerpt: "As organizations assess safely reopening and continue navigating unexpected shifts in the world, getting insights to respond in an agile and conscientious manner is vital."
+    publishedDateTime: 2020-09-22T08:00:25Z
+    webUrl: "https://azure.microsoft.com/blog/build-powerful-and-responsible-ai-solutions-with-azure/"
     type: article
     provider:
-      name: Total Telecom
-      domain: totaltele.com
-    quality: 4
-    images:
-      - url: "https://www.totaltele.com/res/image/articleimages/5g-icon-hpe.png"
-        width: 576
-        height: 583
-        isCached: true
+      name: Microsoft
+      domain: microsoft.com
+    quality: 69
 
 secured: "8DuUXMyQ3TEygHBb7Mhk6F+TzCig0P1sHv0YugMAi5smYsPFiSgELkRTJ1wHMHGIFboDfaRWPqGJyQPX0uGNRyvQxQ36mAqRpXZgaE23gQiutOPMyKeEFVIQqMI+ZrDEUxZLsxBLyUaVU6dI3NOnxkwEY5tBWaZAcdZ0ShBMiryz/wxeNSqh5L+5yqYanXx90+Bx5u2vdte2VWdZNponoqUdTMvNNvQKVg45wxwn+xkT3jjmDKDrBq/kBI4QaT/afTA4NBz/ok/TkcaN+SfHU+xu4rrnmXwKPao1T4wtyHO843c5Bcdbc7guzODHv/YaIfd8T2/o2rLHU9936ezr8ZopNpqEkZx7wl8XppZ09Lg=;UjVKYLYKrTcukDDZk87rkA=="
 ---

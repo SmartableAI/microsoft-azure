@@ -28,43 +28,29 @@ images:
     title: "Cloud Virtual Machine (CVM) Market 2020 Share, Drivers, Growth Rate, Latest trends, Industry Size, Top Key Players till 2026"
 
 related:
-  - title: "The Impact of COVID-19 on Cloud Gaming Market Latest Research Report 2020 to 2025"
-    excerpt: "MarketResearchNest Announced that it's published an Exclusive Report on \"Global Cloud Gaming Market\" in its research database with report summary, table of content, research methodologies and data sources."
-    publishedDateTime: 2020-06-02T07:24:00Z
-    webUrl: "https://www.marketwatch.com/press-release/the-impact-of-covid-19-on-cloud-gaming-market-latest-research-report-2020-to-2025-2020-06-02"
+  - title: "Public Cloud Market Growth Analysis By Revenue, Size, Share, Scenario on Latest Trends & Types, Applications to 2025 Forecast"
+    excerpt: "Kenneth Research has published a detailed report on Public Cloud Market which has been categorized by market size,"
+    publishedDateTime: 2020-05-25T12:52:00Z
+    webUrl: "https://www.marketwatch.com/press-release/public-cloud-market-growth-analysis-by-revenue-size-share-scenario-on-latest-trends-types-applications-to-2025-forecast-2020-05-25"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 57
+    quality: 35
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Impact Analysis of COVID-19 on Cloud Storage Market Analysis 2020-2028 by Emerging Trends, Technology, Future Growth, Revenue, Demand Forecast"
-    excerpt: "The growing online activities such as e-mail, enterprise resource planning, digital images, Salesforce automation,"
-    publishedDateTime: 2020-06-02T20:26:00Z
-    webUrl: "https://www.marketwatch.com/press-release/impact-analysis-of-covid-19-on-cloud-storage-market-analysis-2020-2028-by-emerging-trends-technology-future-growth-revenue-demand-forecast-2020-06-02"
+  - title: "Personal Cloud Market 2017: Industry and Geography Insights, Size, Share, Opportunity Analysis and Industry Forecast till 2025"
+    excerpt: "Europe (Germany, UK, France, Rest of Europe) 5.3 Asia Pacific (China, India, Japan, Rest of Asia) 5.4 Latin America (Brazil, Argentina, Rest of Latin America) 5.5 Rest of the World Competitive Landscape: The major players in the market are as follows: 1."
+    publishedDateTime: 2020-05-26T07:42:00Z
+    webUrl: "https://www.marketwatch.com/press-release/personal-cloud-market-2017-industry-and-geography-insights-size-share-opportunity-analysis-and-industry-forecast-till-2025-2020-05-26"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 26
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Cloud Manufacturing Market 2020: Company Profiles, COVID - 19 Analysis, Industry Segments, Landscape, Global Trends and Demand by Forecast to 2023"
-    excerpt: "Cloud Manufacturing MarketOverview: Cloud manufacturing is the process of utilizing cloud to source relevant data"
-    publishedDateTime: 2020-05-27T07:56:00Z
-    webUrl: "https://www.marketwatch.com/press-release/cloud-manufacturing-market-2020-company-profiles-covid---19-analysis-industry-segments-landscape-global-trends-and-demand-by-forecast-to-2023-2020-05-27"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 24
+    quality: 34
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

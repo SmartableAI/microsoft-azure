@@ -6,7 +6,7 @@ publishedDateTime: 2020-05-22T13:52:00Z
 webUrl: "https://www.marketwatch.com/press-release/covid-19-impact-on-healthcare-cloud-computing-market-2020-05-22"
 type: article
 quality: 62
-heat: 222
+heat: 262
 published: true
 
 provider:
@@ -39,6 +39,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 58
+  - title: "The Impact of COVID-19 on Cloud Gaming Market Latest Research Report 2020 to 2025"
+    excerpt: "MarketResearchNest Announced that it's published an Exclusive Report on \"Global Cloud Gaming Market\" in its research database with report summary, table of content, research methodologies and data sources."
+    publishedDateTime: 2020-06-02T07:24:00Z
+    webUrl: "https://www.marketwatch.com/press-release/the-impact-of-covid-19-on-cloud-gaming-market-latest-research-report-2020-to-2025-2020-06-02"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 57
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "U.S. Healthcare Cloud Computing Market: Industry Insights, Major Key Players and Current Trends Analysis 2027"
     excerpt: "The report covers a forecast and an analysis of the U.S. healthcare cloud computing market. The study provides"
     publishedDateTime: 2020-05-21T09:12:00Z
@@ -95,19 +109,33 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Where Microsoft is headed in healthcare"
-    excerpt: "Microsoft has been on the forefront of supporting healthcare delivery and services during the pandemic, and on May 20 rolled out its cloud for healthcare offering. The company reported 34 million healthcare interactions on Microsoft Teams during the pandemic and has co-developed healthcare-specific solutions with partners including the CDC,"
-    publishedDateTime: 2020-05-29T15:31:00Z
-    webUrl: "https://www.beckershospitalreview.com/healthcare-information-technology/where-microsoft-is-headed-in-healthcare.html"
+  - title: "Healthcare Cloud Computing Market 2020 Effect of COVID-19 Industry - Key Players, Size, Trends, Opportunities, Growth Analysis and Forecast to 2026"
+    excerpt: "Cloud Computing can revolutionize healthcare. Cloud computing is a general term for anything that involves delivering hosted services over the Internet. But in the healthcare sector cloud computing is a cost-effective method that facilitates real-time data collection,"
+    publishedDateTime: 2020-05-08T12:51:00Z
+    webUrl: "https://www.marketwatch.com/press-release/healthcare-cloud-computing-market-2020-effect-of-covid-19-industry---key-players-size-trends-opportunities-growth-analysis-and-forecast-to-2026-2020-05-08?mod=mw_quote_news"
     type: article
     provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 22
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 24
     images:
-      - url: "https://www.beckershospitalreview.com/images/channels/healthcare-information-technology/1.jpg"
-        width: 400
-        height: 300
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Cloud Manufacturing Market 2020: Company Profiles, COVID - 19 Analysis, Industry Segments, Landscape, Global Trends and Demand by Forecast to 2023"
+    excerpt: "Cloud Manufacturing MarketOverview: Cloud manufacturing is the process of utilizing cloud to source relevant data"
+    publishedDateTime: 2020-05-27T07:56:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cloud-manufacturing-market-2020-company-profiles-covid---19-analysis-industry-segments-landscape-global-trends-and-demand-by-forecast-to-2023-2020-05-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 24
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "COVID-19 Impact on Cloud Computing Market - Exclusive Report by MarketsandMarkets™"
     excerpt: "Impact on Cloud Computing Market by Service Type (Infrastructure as a Service (IaaS), Platform as a Service (PaaS) and Software as a Service (SaaS)), Vertical and Region - Global Forecast to 2021\", size is expected to grow from USD 233 billion in 2019 to USD 295 billion by 2021,"

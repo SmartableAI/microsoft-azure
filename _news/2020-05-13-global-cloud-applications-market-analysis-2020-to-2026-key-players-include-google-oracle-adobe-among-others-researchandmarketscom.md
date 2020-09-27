@@ -94,20 +94,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Cloud Data Integration Market Analysis by Emerging Growth Factors and Revenue Forecast to 2025| Snaplogic, Microsoft, Talend, Software, SAP, Oracle"
-    excerpt: "Cloud data integration solutions allow enterprises to unify data from disparate cloud sources in various formats. Cloud data integration solutions provide standard connectors to other cloud software systems,"
-    publishedDateTime: 2020-05-06T08:06:00Z
-    webUrl: "https://www.marketwatch.com/press-release/cloud-data-integration-market-analysis-by-emerging-growth-factors-and-revenue-forecast-to-2025-snaplogic-microsoft-talend-software-sap-oracle-2020-05-06"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 24
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "6GAHZ4iPKk+OryHE07r6bU2n0wxFfYtfbs9XhuDSMwsDNIkoHjYZfgI2oXlQo6/8BQq1iV+0AG+rtZ/5OVg031gsE4KqHn3JUv6JQ6UnROQmOlENNGvX3Oax1dszBb8FhjE2tPquw9RWOddzbsGej17crPglhXUyi8DZUrLh8639VIXKJ9tDkFxgAcL0WCjvhMw+zeWxvG2SkLrs9OR9FnsoUBcW+ubBeeQSrH0UpRm66NcqtcDlj3FjoNaRERj+DH5BsH3N+rfMsuC/4nLSGgDvrt3Q5yunaR+lxtNBrz9pu+jxQJ0qkcVI4rH45ku/vBBmiZF+EXbNp3EjMUSguwNjETVV+6IQBKKrGyXXkF0KumpMnxF/5rkh9V2T+Mhdexqd1kPKQSKf+tq2Ev7oks0ZyJWpv2Xgbuggz1J8egXvONgfXUhIhdZKgArFyI0KNSzbWCOduzp28leMdUyUOan6hddZY3huXXBeRpo8lsY=;KJ+i6s4v9FRMp526ROWiJQ=="
 ---

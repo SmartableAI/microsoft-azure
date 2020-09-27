@@ -5,8 +5,8 @@ excerpt: "One of the most important features of a disaster recovery tool is fail
 publishedDateTime: 2019-10-28T13:00:04Z
 webUrl: "https://azure.microsoft.com/blog/customize-networking-for-dr-drills-azure-site-recovery/"
 type: article
-quality: 39
-heat: 39
+quality: 54
+heat: 54
 published: false
 
 provider:

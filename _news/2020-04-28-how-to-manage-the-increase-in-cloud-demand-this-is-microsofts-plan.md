@@ -28,74 +28,54 @@ images:
     title: "How to manage the increase in cloud demand? This is Microsoft's plan"
 
 related:
-  - title: "Microsoft: Here's how we're trying to manage increased cloud demand"
-    excerpt: "Microsoft officials have said repeatedly that the company is working to increase cloud capacity to try to keep up with the demand for Azure and other Microsoft cloud services. They've prioritized the needs of first responders, healthcare workers, and others on the front line, as they've noted previously. And they've throttled some less ..."
-    publishedDateTime: 2020-04-23T21:16:00Z
-    webUrl: "https://www.zdnet.com/article/microsoft-heres-how-were-trying-to-manage-increased-cloud-demand/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-heres-how-were-trying-to-manage-increased-cloud-demand/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-heres-how-were-trying-to-manage-increased-cloud-demand/"
+  - title: "Up 300% in 5 Years, How Much Higher Can Microsoft Stock Soar?"
+    excerpt: "Microsoft (NASDAQ:MSFT) was once considered a mature tech stock that was owned for stability and income instead of growth. But over the past five years, Microsoft stock rallied roughly 300% as a visionary CEO turned its business upside down."
+    publishedDateTime: 2020-04-26T19:08:00Z
+    webUrl: "https://www.fool.com/investing/2020/04/26/up-300-how-much-higher-can-microsoft-stock-soar.aspx?source=eptcnnlnk0000002"
+    ampWebUrl: "https://www.fool.com/amp/investing/2020/04/26/up-300-how-much-higher-can-microsoft-stock-soar.aspx"
+    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/04/26/up-300-how-much-higher-can-microsoft-stock-soar.aspx"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
+      name: The Motley Fool
+      domain: fool.com
     quality: 82
     images:
-      - url: "https://zdnet1.cbsistatic.com/hub/i/r/2020/03/30/1bee94a9-8bac-46fe-8ffe-5880854d1040/thumbnail/1200x675/0515dcdb3553b8b42f6fd98c04417369/20200330-daphne-karen-crashing.png"
+      - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F569510%2Fmicrosoft-at-westfield-sydney-on-pitt-street-mall.jpg&w=1200&op=resize"
         width: 1200
-        height: 675
+        height: 857
         isCached: true
-      - url: "https://zdnet4.cbsistatic.com/hub/i/r/2020/04/27/357591cc-30e1-4a7b-a061-402d91546b99/thumbnail/1200x675/7f25cdc9b4995f98b0353f18ff24c66e/microsoft-heres-how-were-trying-to-manag-5ea3181b1c719e452658f536-1-apr-27-2020-14-51-24-poster.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Microsoft Earnings Jump, Aided by Cloud-Computing Demand During Pandemic"
-    excerpt: "Microsoft reported strong growth in quarterly sales and profit and said the shift of more activities online amid the coronavirus pandemic is helping propel growth in areas from cloud-computing to videogames."
-    publishedDateTime: 2020-04-30T04:31:00Z
-    webUrl: "https://www.wsj.com/articles/microsoft-earnings-jump-aided-by-cloud-computing-demand-during-pandemic-11588192187"
-    ampWebUrl: "https://www.wsj.com/amp/articles/microsoft-earnings-jump-aided-by-cloud-computing-demand-during-pandemic-11588192187"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/microsoft-earnings-jump-aided-by-cloud-computing-demand-during-pandemic-11588192187"
+  - title: "Microsoft Weekly: Higher revenue, new Insider builds, and future games"
+    excerpt: "This week we got to see Microsoft's Q3 FY2020 earnings report, a couple of new Insider builds, and even confirmation that we'll see Series X gameplay next week. Catch up via this overview."
+    publishedDateTime: 2020-05-03T12:00:00Z
+    webUrl: "https://www.neowin.net/news/microsoft-weekly-higher-revenue-new-insider-builds-and-future-games"
+    ampWebUrl: "https://www.neowin.net/amp/microsoft-weekly-higher-revenue-new-insider-builds-and-future-games/"
+    cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-weekly-higher-revenue-new-insider-builds-and-future-games/"
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 81
+      name: Neowin
+      domain: neowin.net
+    quality: 82
     images:
-      - url: "https://images.wsj.net/im-181683/social"
-        width: 1280
-        height: 640
+      - url: "https://cdn.neow.in/news/images/uploaded/2020/05/1588506830_msw-20200503_story.jpg"
+        width: 760
+        height: 428
         isCached: true
-  - title: "How Microsoft is handling cloud capacity constraints"
-    excerpt: "Driven by a surge in remote work from the coronavirus pandemic, Microsoft's service demand skyrocketed and availability waffled."
-    publishedDateTime: 2020-04-27T14:35:00Z
-    webUrl: "https://www.ciodive.com/news/microsoft-cloud-capacity-coronavirus/576792/"
+  - title: "Microsoft Earnings on Deck: What to Watch In Its March Quarter Earnings"
+    excerpt: "Microsoft warned investors weeks ago that coronavirus disrupted its device shipments, but expects its results in other segments to be unaffected by the pandemic."
+    publishedDateTime: 2020-04-27T11:01:00Z
+    webUrl: "https://www.thestreet.com/investing/microsoft-earnings-on-deck-what-to-watch-in-its-march-quarter-earnings"
+    ampWebUrl: "https://www.thestreet.com/.amp/investing/microsoft-earnings-on-deck-what-to-watch-in-its-march-quarter-earnings"
+    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/microsoft-earnings-on-deck-what-to-watch-in-its-march-quarter-earnings"
     type: article
     provider:
-      name: CIO Dive
-      domain: ciodive.com
-    quality: 22
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 42
     images:
-      - url: "https://www.ciodive.com/user_media/cache/b7/4f/b74f97d2a980cbeea55d91705cc30d62.jpg"
-        width: 770
-        height: 364
+      - url: "https://content.jwplatform.com/thumbs/bwKn9eIN-720.jpg"
+        width: 720
+        height: 406
         isCached: true
-  - title: "Microsoft's cloud business helps offset pandemic woes"
-    excerpt: "Ongoing demand for Microsoft's cloud computing services help softened the blow of the coronavirus pandemic on the software giant's other products during the first three months of the year. The company on Wednesday reported fiscal third-quarter profit of $10."
-    publishedDateTime: 2020-04-29T21:23:00Z
-    webUrl: "https://www.chron.com/business/article/Microsoft-s-cloud-business-helps-offset-pandemic-15235193.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 2
-  - title: "Microsoft's cloud business helps offset pandemic woes"
-    excerpt: "Ongoing demand for Microsoft's cloud computing services help softened the blow of the coronavirus pandemic on the software giant's other products during the first three months of the year. The company on Wednesday reported fiscal third-quarter profit of $10."
-    publishedDateTime: 2020-04-30T05:30:00Z
-    webUrl: "https://www.sfgate.com/business/article/Microsoft-s-cloud-business-helps-offset-pandemic-15235193.php"
-    type: article
-    provider:
-      name: SFGate
-      domain: sfgate.com
-    quality: 2
 
 secured: "c/b8bEw7zWKyfnVvBnDIGkbp9/EAUvJsImIgo+6EwDYvujHQtdJj0PhDY/MM5KBOGBxEr16HK3TPn+gtBvvrFY1qG+ZcVvmeaeFdLX9LR/7BESBh17Ftu7P/TGHf+rk6NOgKPNbt2XpmaWpuBY2kKj920FxJ5xn1I/WaOYcCjMohJEc0XtidYLEGa63alHI1fbdou992JBUvikFt1wsqAzXwnkjRmWOrblgYnyNg0cNCyrI0JaK/SzDwUz8A7g0bfr5smawuCtDsNmVJrb8Xet9sKnfneD4Iw74Ht4cjadzZXPseZhvylYfcB88Yo2jR;VCtM3TNXYWUTjkPzvDU0Xg=="
 ---

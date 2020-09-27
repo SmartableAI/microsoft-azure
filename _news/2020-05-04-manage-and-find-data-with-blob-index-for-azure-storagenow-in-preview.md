@@ -6,8 +6,8 @@ publishedDateTime: 2020-05-04T10:00:03Z
 originalUrl: "https://azure.microsoft.com/blog/manage-and-find-data-with-blob-index-for-azure-storage-now-in-preview/"
 webUrl: "https://azure.microsoft.com/blog/manage-and-find-data-with-blob-index-for-azure-storage-now-in-preview/"
 type: article
-quality: 106
-heat: 206
+quality: 121
+heat: 201
 published: true
 
 provider:
@@ -39,20 +39,11 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 86
+    quality: 101
   - title: "Query Acceleration for Azure Data Lake Storage now in preview"
     excerpt: ""
     publishedDateTime: 2020-04-29T16:00:06Z
     webUrl: "https://azure.microsoft.com/en-us/updates/query-acceleration-for-azure-data-lake-storage-now-in-preview-2/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 17
-  - title: "New Azure VMware Solution is now in preview"
-    excerpt: ""
-    publishedDateTime: 2020-05-04T18:00:35Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/new-azure-vmware-solution-is-now-in-preview/"
     type: article
     provider:
       name: Microsoft

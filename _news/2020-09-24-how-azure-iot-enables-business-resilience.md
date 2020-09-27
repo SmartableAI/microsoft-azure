@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/how-azure-iot-enables-business-re
 webUrl: "https://azure.microsoft.com/blog/how-azure-iot-enables-business-resilience/"
 type: article
 quality: 84
-heat: 84
+heat: 104
 published: true
 
 provider:
@@ -21,6 +21,17 @@ provider:
 topics:
   - Azure
   - IoT
+
+related:
+  - title: "New IoT Event Learning Path "
+    excerpt: "A new Event Learning Path is now available for solution architects, business decision makers, and developers interested in IoT Solutions with Azure IoT Services. "
+    publishedDateTime: 2020-09-22T16:05:31Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/new-iot-event-learning-path/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 52
 
 secured: "TNBjAaZfAWem30Aw8zhQs3x49wSU+Cjvsye9O95i2TbD7KJjeFTKipoW18IoulqoV5SIsKQWomfOGXkRuuMyLttiIHgtb2snWzdNzYRXaXlAn1bkTj1FUG7N9CXdcbQh2k0PEQ821pT0PgumgiR0BeptrL8UhBrpG6FJAUgimVLVDCCuCHxvMyFJgLzBlgi+fdDoqPhjYqPkJ9xnPZeglVLKk5Xic3T4ntljDhaOFSaiB1PhfcGQ3FTc9OCwp6tOwClp9udtSSylYaWM4xYI00Eawo7cbYkCV7dFpaYhxgp57ZssUnr3sUhzPC8PcCby8a1hNb5m/+oqz4qKFnm+wuAhuEKmPo/+QJnWAY1Loow=;en3yPqurGXPve2jPiwBlmw=="
 ---

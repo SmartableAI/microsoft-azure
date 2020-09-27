@@ -7,8 +7,8 @@ originalUrl: "https://azure.microsoft.com/blog/now-save-up-to-52-percent-when-mi
 webUrl: "https://azure.microsoft.com/blog/now-save-up-to-52-percent-when-migrating-to-azure-databricks/"
 type: article
 quality: 69
-heat: 89
-published: true
+heat: -1
+published: false
 
 provider:
   name: Microsoft
@@ -23,19 +23,19 @@ topics:
   - Migration
 
 related:
-  - title: "Save up to 76 percent on Azure Synapse Analytics and gain breathtaking insights of your ERP data"
-    excerpt: "To help customers save on data warehouse migration costs and accelerate time-to-insight on critical SAP data, we are announcing two new analytics offers from Azure Synapse Analytics."
-    publishedDateTime: 2020-07-15T09:00:28Z
-    webUrl: "https://azure.microsoft.com/blog/save-up-to-76-percent-on-azure-synapse-analytics-and-gain-breathtaking-insights-of-your-erp-data/"
+  - title: "Securing access to Azure Data Lake gen2 from Azure Databricks"
+    excerpt: "If you are using the original Windows Azure Storage Blob (WASB) driver it is recommended to use ABFS with ADLS due to greater efficiency with directory level operations. To access data directly ..."
+    publishedDateTime: 2020-04-07T11:46:00Z
+    webUrl: "https://medium.com/microsoftazure/securing-access-to-azure-data-lake-gen2-from-azure-databricks-8580ddcbdc6"
     type: article
     provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 24
+      name: Medium
+      domain: medium.com
+    quality: 77
     images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/2f43204b-76ea-4b9b-b1cb-18a606a9fbea.png"
-        width: 1008
-        height: 563
+      - url: "https://miro.medium.com/max/1056/1*E5EnsRiE5828mAOSZZJ35A.png"
+        width: 1056
+        height: 745
         isCached: true
 
 secured: "3fKWX+afk/mjzeNPz7pLxrzYzhGKmQsOE29BnazIih3+3mDQFhccPS4qz27994UAY48uvU4rFpNvhldY2FMgWGFQ5y2SECUXuzCZR+fsba9ku9KGelIG4SPjh+P/zEy5iSdkuaWmM/8JSucwkc5I//0WoGZrODFb6P3Jyf6AlNd/CMx4G8URxNnEsvpxsM3WGNHxFwUBVZn5FaFKQSw5y6GCJdmvzaWSPza1tBWsxEnAkgQWQtLi0ruIUCVcSn+tV5+D+HIUfcUcouqkSQdW+B3vpE4wDoHtZpmSjG84FK5Wg1/uHlaFPOND791rkS8LI4cal8aLyoorDtXae5FdPSmlT2J13+csy+zLJgS4DKo=;KzEyG9POShtjhtd5pUVbjA=="

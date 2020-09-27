@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-16T16:00:02Z
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-monitor-for-vms-is-now-in-preview-in-us-gov-arizona/"
 type: article
 quality: 17
-heat: -1
+heat: 17
 published: false
 
 provider:
@@ -21,19 +21,19 @@ topics:
   - Azure
 
 related:
-  - title: "Azure Spring Cloud Basic tier is now in preview"
-    excerpt: ""
-    publishedDateTime: 2020-06-10T16:00:21Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-spring-cloud-basic-tier-is-now-in-preview/"
+  - title: "Public Preview for Azure Monitor for VMs on Arc Enabled Servers"
+    excerpt: "Azure Monitor for VMs, a monitoring offering with out-of-the-box performance and dependency data, is now available in public preview for Arc enabled servers."
+    publishedDateTime: 2020-06-18T19:00:30Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-for-azure-monitor-for-vms-on-arc-enabled-servers/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
     quality: 17
-  - title: "Azure Spring Cloud updates"
-    excerpt: ""
-    publishedDateTime: 2020-06-10T16:00:22Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-spring-cloud-updates/"
+  - title: "Azure Automation is now available in the USGov Arizona region"
+    excerpt: "Azure Automation is now available in the USGov Arizona region."
+    publishedDateTime: 2020-06-22T16:00:33Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-automation-generally-available-in-usgov-arizona-region/"
     type: article
     provider:
       name: Microsoft

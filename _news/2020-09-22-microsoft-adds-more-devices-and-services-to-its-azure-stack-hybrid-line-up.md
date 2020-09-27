@@ -30,157 +30,261 @@ images:
     isCached: true
 
 related:
-  - title: "Daily Crunch: Microsoft launches Azure Communication Services"
-    excerpt: "Microsoft takes on Twilio, Google launches a work-tracking tool and Mirakl raises $300 million. This is your Daily Crunch for September 22, 2020. The big story: Microsoft launches Azure Communication Services Microsoft announced today that it’s ready to compete with Twilio by launching a set"
-    publishedDateTime: 2020-09-22T22:19:00Z
-    webUrl: "https://techcrunch.com/2020/09/22/daily-crunch-microsoft-azure-communication-services/"
-    ampWebUrl: "https://techcrunch.com/2020/09/22/daily-crunch-microsoft-azure-communication-services/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/09/22/daily-crunch-microsoft-azure-communication-services/amp/"
+  - title: "Microsoft: Azure-based Sentinel security gets new analytics to spot threats in odd behavior"
+    excerpt: "One year on from reaching general availability, Microsoft's Azure-based Sentinel security system now brings new user and entity behavioral analytics to help detect unknown and insider threats faster."
+    publishedDateTime: 2020-09-24T10:41:00Z
+    webUrl: "https://www.zdnet.com/article/microsoft-azure-based-sentinel-security-gets-new-analytics-to-spot-threats-in-odd-behavior/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-azure-based-sentinel-security-gets-new-analytics-to-spot-threats-in-odd-behavior/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-azure-based-sentinel-security-gets-new-analytics-to-spot-threats-in-odd-behavior/"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 97
+      name: ZDNet
+      domain: zdnet.com
+    quality: 121
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/08/GettyImages-1248409190.jpg?w=1024"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "Azure Communications Services is Microsoft's new managed communication platform"
-    excerpt: "At its annual Ignite conference, Microsoft announced Azure Communications Service, the first fully managed communication platform offering from a major cloud provider. The service will help developers deliver enterprise-grade communication experiences ..."
-    publishedDateTime: 2020-09-22T14:59:00Z
-    webUrl: "https://www.neowin.net/news/azure-communications-services-is-microsofts-new-managed-communication-platform"
-    ampWebUrl: "https://www.neowin.net/amp/azure-communications-services-is-microsofts-new-managed-communication-platform/"
-    cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/azure-communications-services-is-microsofts-new-managed-communication-platform/"
-    type: article
-    provider:
-      name: Neowin
-      domain: neowin.net
-    quality: 93
-    images:
-      - url: "https://cdn.neow.in/news/images/uploaded/2020/09/1600721129_azure_at_ignite_2020_(2)_story.jpg"
-        width: 760
-        height: 428
-        isCached: true
-  - title: "Microsoft Guns for Twilio's Business With Launch of Azure Communication Services"
-    excerpt: "Microsoft (NASDAQ:MSFT) is continuously upping its game in the public cloud arena, and recently announced the availability of Azure Communications Services. The new product is a library of APIs (an API is an application programming interface,"
-    publishedDateTime: 2020-09-23T02:55:00Z
-    webUrl: "https://www.fool.com/investing/2020/09/22/microsoft-guns-for-twilios-business-with-launch-of/"
-    ampWebUrl: "https://www.fool.com/amp/investing/2020/09/22/microsoft-guns-for-twilios-business-with-launch-of/"
-    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/09/22/microsoft-guns-for-twilios-business-with-launch-of/"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 92
-    images:
-      - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F592605%2Fsmartphone-millennials-getty-6217.jpg&w=1200&op=resize"
+      - url: "https://zdnet4.cbsistatic.com/hub/i/r/2020/08/25/1284a515-4b68-4854-acfa-0aff9b6e5fba/thumbnail/1200x675/5dfcbb4710ad981ec95dff7c7eba7732/what-is-microsoft-azure-the-business-gui-5f3db47671c30002b05ceecf-1-aug-25-2020-17-10-49-poster.jpg"
         width: 1200
-        height: 740
+        height: 675
         isCached: true
-  - title: "Microsoft unveils updates across Azure Cognitive Services and Azure Machine Learning"
-    excerpt: "Microsoft rolled out updates across its AI and machine learning cloud portfolio during its Ignite 2020 virtual conference."
-    publishedDateTime: 2020-09-22T16:00:00Z
-    webUrl: "https://venturebeat.com/2020/09/22/microsoft-unveils-updates-across-azure-cognitive-services-and-azure-machine-learning/"
-    ampWebUrl: "https://venturebeat.com/2020/09/22/microsoft-unveils-updates-across-azure-cognitive-services-and-azure-machine-learning/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/22/microsoft-unveils-updates-across-azure-cognitive-services-and-azure-machine-learning/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 90
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2019/11/microsoft-1-e1580261336710.jpg?w=1200&#038;strip=all"
-        width: 1200
-        height: 573
-        isCached: true
-  - title: "Build rich communication experiences at scale with Azure Communication Services"
-    excerpt: "In this remote-first world, businesses are looking to quickly adapt to customers’ needs and connect with them through engaging communication experiences. Building new communication solutions or integrating them into existing applications can be complex and time-consuming. Often requiring considerable"
-    publishedDateTime: 2020-09-22T08:00:31Z
-    webUrl: "https://azure.microsoft.com/blog/build-rich-communication-experiences-at-scale-with-azure-communication-services/"
+  - title: "Column-level encryption for Azure Synapse Analytics"
+    excerpt: "Azure Synapse Analytics already provides a breadth of options that can be used to handle sensitive data in a secure manner—we are expanding that support with the introduction of Column Level Encryption (CLE)."
+    publishedDateTime: 2020-09-23T16:00:13Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/columnlevel-encryption-for-azure-synapse-analytics/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 83
-    images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/5714ed9c-7365-4095-b8db-762920382282.png"
-        width: 848
-        height: 385
-        isCached: true
-  - title: "Nokia simplifies Microsoft Azure integration"
-    excerpt: "The announcement comes almost a year after Nokia and Microsoft made their first joint solutions public. In November 2019, the two companies announced a strategic collaboration aim"
-    publishedDateTime: 2020-09-16T12:26:00Z
-    webUrl: "https://www.itpro.co.uk/marketing-comms/business-communications/357124/nokia-simplifies-microsoft-azure-integration"
+    quality: 99
+  - title: "COPY command now generally available in Azure Synapse Analytics"
+    excerpt: "The COPY command can now automatically parse your files to calculate file splits and can evenly distribute data chunks across the Synapse SQL compute nodes for parallel ingestion. "
+    publishedDateTime: 2020-09-23T16:00:13Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/copy-command-now-generally-available-in-azure-synapse-analytics/"
     type: article
     provider:
-      name: IT Pro
-      domain: itpro.co.uk
+      name: Microsoft
+      domain: microsoft.com
+    quality: 99
+  - title: "New MERGE command for Azure Synapse Analytics"
+    excerpt: "Users can now synchronize two tables in a single step, streamlining the data processing using a single step statement while improving code readability and debugging."
+    publishedDateTime: 2020-09-23T16:00:13Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/new-merge-command-for-azure-synapse-analytics/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 99
+  - title: "Azure AD authentication features for Azure SQL DB, Azure Synapse Analytics, and Azure SQL Managed Instance "
+    excerpt: "These new preview features extend existing functionality, remove user limitations, and provide customers with greater ease of use when setting up Azure SQL Database or Azure SQL Managed Instance. "
+    publishedDateTime: 2020-09-22T16:05:34Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-ad-authentication-features-for-azure-sql-db-azure-synapse-analytics-and-azure-sql-managed-instance/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 98
+  - title: "A closer look at Microsoft Azure Synapse Analytics"
+    excerpt: "Roughly six months after its unveiling at the Ignite conference last fall, Microsoft took a group of analysts and MVP professionals on a deep dive into the Azure Synapse Analytics service. As noted in Andrew's coverage last fall, Azure Synapse Analytics is a rebrand and evolution of Azure SQL Data Warehouse, broadening its footprint to span ..."
+    publishedDateTime: 2020-04-14T12:00:00Z
+    webUrl: "https://www.zdnet.com/article/a-closer-look-at-microsoft-azure-synapse-analytics/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/a-closer-look-at-microsoft-azure-synapse-analytics/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/a-closer-look-at-microsoft-azure-synapse-analytics/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 97
+    images:
+      - url: "https://zdnet4.cbsistatic.com/hub/i/2020/04/14/ae52840f-bd1d-4e9d-8ec2-114e56664784/synapse.jpg"
+        width: 750
+        height: 500
+        isCached: true
+  - title: "A closer look at Microsoft Azure Arc"
+    excerpt: "The promise of Azure Arc is providing the simplicity of the cloud control plane inside the data center. A year after announcement with the core platform now going GA, we thought it would be a good time for a deeper dive to see how Azure Arc actually works."
+    publishedDateTime: 2020-09-25T12:00:00Z
+    webUrl: "https://www.zdnet.com/index.php/category/2381/index.php/article/a-closer-look-at-microsoft-azure-arc/"
+    ampWebUrl: "https://www.zdnet.com/index.php/category/2381/index.php/google-amp/article/a-closer-look-at-microsoft-azure-arc/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2381/index.php/google-amp/article/a-closer-look-at-microsoft-azure-arc/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 77
+  - title: "Microsoft boots apps out of Azure used by China-sponsored hackers"
+    excerpt: "Fortune 500 companies aren’t the only ones flocking to cloud services like Microsoft Azure. Increasingly, hackers working on behalf of the Chinese government are also hosting their tools in the cloud,"
+    publishedDateTime: 2020-09-25T10:45:00Z
+    webUrl: "https://arstechnica.com/information-technology/2020/09/microsoft-boots-apps-used-by-china-sponsored-hackers-out-of-azure/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
     quality: 77
     images:
-      - url: "https://media.itpro.co.uk//image/upload/v1594375394/itpro/2020/07/shutterstock_nokia%20data%20centre.jpg"
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2020/09/china-inside-760x380.jpg"
+        width: 760
+        height: 380
+        isCached: true
+  - title: "Microsoft boots apps used by China-sponsored hackers out of Azure"
+    excerpt: "Fortune 500 companies aren’t the only ones flocking to cloud services like Microsoft Azure. Increasingly, hackers working on behalf of the Chinese government are also hosting their tools in the ..."
+    publishedDateTime: 2020-09-25T10:47:00Z
+    webUrl: "https://arstechnica.com/information-technology/2020/09/microsoft-boots-apps-used-by-china-sponsored-hackers-out-of-azure/?comments=1"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 77
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2020/09/china-inside-760x380.jpg"
+        width: 760
+        height: 380
+        isCached: true
+  - title: "Here's what to know about Microsoft's new cloud communications tool Azure"
+    excerpt: "CNBC's Josh Lipton reports on Microsoft's latest cloud communications tool and how it could impact Slack and other work from home beneficiaries."
+    publishedDateTime: 2020-09-22T19:30:00Z
+    webUrl: "https://www.cnbc.com/video/2020/09/22/heres-what-to-know-about-microsofts-new-cloud-communications-tool-azure.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 76
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106712811-16007994871600799484-11536478084-1080pnbcnews.jpg?v=1600799486"
         width: 1920
         height: 1080
         isCached: true
-  - title: "TCS Quartz? suite becomes available on Microsoft Azure Blockchain Service"
-    excerpt: "Tata Consultancy Services announced the general availability of its award winning Quartz? suite of blockchain based solutions on Microsoft Azure Blockchain Service. The Quartz suite of products helps organizations set up truly connected ecosystems ..."
-    publishedDateTime: 2020-09-21T07:04:00Z
-    webUrl: "https://www.indiainfoline.com/article/capital-market-corporate-news/tcs-quartz-suite-becomes-available-on-microsoft-azure-blockchain-service-120092100110_1.html"
-    ampWebUrl: "https://www.indiainfoline.com/article-amp/capital-market-corporate-news/tcs-quartz-suite-becomes-available-on-microsoft-azure-blockchain-service-120092100110_1.html"
-    cdnAmpWebUrl: "https://www-indiainfoline-com.cdn.ampproject.org/c/s/www.indiainfoline.com/article-amp/capital-market-corporate-news/tcs-quartz-suite-becomes-available-on-microsoft-azure-blockchain-service-120092100110_1.html"
+  - title: "Microsoft connects satellites to its cloud in new service, Azure Orbital"
+    excerpt: "Microsoft on Tuesday launched Azure Orbital, a new service that connects satellites to its cloud to process data from space."
+    publishedDateTime: 2020-09-22T18:08:00Z
+    webUrl: "https://www.upi.com/Top_News/US/2020/09/22/Microsoft-connects-satellites-to-its-cloud-in-new-service-Azure-Orbital/6811600792489/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2020/09/22/Microsoft-connects-satellites-to-its-cloud-in-new-service-Azure-Orbital/6811600792489/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2020/09/22/Microsoft-connects-satellites-to-its-cloud-in-new-service-Azure-Orbital/6811600792489/"
     type: article
     provider:
-      name: India Infoline
-      domain: indiainfoline.com
-    quality: 56
+      name: UPI.com
+      domain: upi.com
+    quality: 73
     images:
-      - url: "https://content.indiainfoline.com/_media/iifl/img/article/default/news.jpg"
-        width: 350
-        height: 233
+      - url: "https://cdnph.upi.com/sv/ph/og/i/6811600792489/2020/1/16007968764999/v1.5/Microsoft-connects-satellites-to-its-cloud-in-new-service-Azure-Orbital.jpg"
+        width: 620
+        height: 414
         isCached: true
-  - title: "Microsoft disrupts nation-state hacker op using Azure Cloud service"
-    excerpt: "In a report today, Microsoft said that it disrupted operations of a nation-state threat group that was using its Azure cloud infrastructure for cyber attacks."
-    publishedDateTime: 2020-09-25T09:22:00Z
-    webUrl: "https://www.bleepingcomputer.com/news/security/microsoft-disrupts-nation-state-hacker-op-using-azure-cloud-service/"
-    ampWebUrl: "https://www.bleepingcomputer.com/news/security/microsoft-disrupts-nation-state-hacker-op-using-azure-cloud-service/amp/"
-    cdnAmpWebUrl: "https://www-bleepingcomputer-com.cdn.ampproject.org/c/s/www.bleepingcomputer.com/news/security/microsoft-disrupts-nation-state-hacker-op-using-azure-cloud-service/amp/"
+  - title: "Microsoft aims to grow Azure's footprint, resiliency with more availability zones and new services"
+    excerpt: "Microsoft is bringing on board two more Azure Availability Zones, readying an Azure Resource Mover service aimed at those who care about data residency, and previewing its Azure Orbital service for satellite operators."
+    publishedDateTime: 2020-09-22T15:00:00Z
+    webUrl: "https://www.zdnet.com/index.php/category/2184/index.php/article/microsoft-aims-to-grow-azures-footprint-resiliency-with-more-availability-zones-new-services/"
+    ampWebUrl: "https://www.zdnet.com/index.php/category/2184/index.php/google-amp/article/microsoft-aims-to-grow-azures-footprint-resiliency-with-more-availability-zones-new-services/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2184/index.php/google-amp/article/microsoft-aims-to-grow-azures-footprint-resiliency-with-more-availability-zones-new-services/"
     type: article
     provider:
-      name: Bleeping Computer
-      domain: bleepingcomputer.com
+      name: ZDNet
+      domain: zdnet.com
+    quality: 63
+  - title: "Course 552241-A: Microsoft Azure Big Data Analytics Solutions"
+    excerpt: "A is a two-day instructor-led course is intended for data professionals who want to expand their knowledge about creating big data analytic solutions on Microsoft Azure. Students will learn how to design solutions for batch and real-time data processing."
+    publishedDateTime: 2020-07-01T21:48:00Z
+    webUrl: "https://docs.microsoft.com/en-us/learn/certifications/courses/552241"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
     quality: 37
-  - title: "TCS Quartz suite becomes available on Microsoft Azure Blockchain Service"
-    excerpt: "Tata Consultancy Services announced the general availability of its award winning Quartz suite of blockchain based solutions on Microsoft Azure Blockchain Service. The Quartz suite of products helps organizations set up truly connected ecosystems ..."
-    publishedDateTime: 2020-09-21T21:38:00Z
-    webUrl: "https://www.indiainfoline.com/article/companies-announcements-bse/tcs-quartz%EF%BF%BD-suite-becomes-available-on-microsoft-azure-blockchain-service-120092200062_1.html"
-    type: article
-    provider:
-      name: India Infoline
-      domain: indiainfoline.com
-    quality: 36
     images:
-      - url: "https://www.indiainfoline.com/include/_mod/site/images/currentoffer_mobile.png"
-        width: 600
-        height: 277
+      - url: "https://docs.microsoft.com/en-us/media/logos/logo-ms-social.png"
+        width: 400
+        height: 400
         isCached: true
-  - title: "Microsoft Azure launches services that compete with Twilio, Amazon"
-    excerpt: "Microsoft (MSFT +1.2%) launches Azure Communication Services, which allows developers to add video, voice, chat, and text messaging across applications, websites, and mobile platforms.The tech giant says Communication Services can improve \"customer engagement with Azure AI translation and sentiment analysis for chat messages."
-    publishedDateTime: 2020-09-22T16:57:00Z
-    webUrl: "https://seekingalpha.com/news/3616223-microsoft-azure-launches-services-compete-twilio-amazon"
+  - title: "14 Top Azure Announcements From Microsoft Ignite 2020"
+    excerpt: "Microsoft Azure hybrid and multi-cloud solutions in the spotlight at Microsoft Build 2020 include Azure Arc updates, the Azure Certified Device Program, a public preview of Azure Communication Services,"
+    publishedDateTime: 2020-09-22T17:16:00Z
+    webUrl: "https://www.crn.com/slide-shows/cloud/14-top-azure-announcements-from-microsoft-ignite-2020"
     type: article
     provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
+      name: CRN
+      domain: crn.com
+    quality: 37
+    images:
+      - url: "https://www.crn.com/resources/025f-0ff0d7dce6e1-290de920b9a0-1000/microsoft-azure-sign.jpg"
+        width: 610
+        height: 457
+        isCached: true
+  - title: "Orange says yes to Microsoft Azure MSP party"
+    excerpt: "A quick glance at Microsoft Azure's MSP Program page reveals that Orange European peers BT and Deutsche Telekom are also involved. OBS has also formed partnerships with public clo"
+    publishedDateTime: 2020-09-23T16:25:00Z
+    webUrl: "https://www.lightreading.com/cloud-nativenfv/orange-says-yes-to-microsoft-azure-msp-party/d/d-id/764127"
+    type: article
+    provider:
+      name: Light Reading
+      domain: lightreading.com
+    quality: 37
+    images:
+      - url: "https://img.lightreading.com/2020/09/764127/6261.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "What's New for Azure at Microsoft's Ignite Event"
+    excerpt: "Microsoft's Azure cloud computing platform was front and center as the company's Ignite developer/IT event kicked off this week."
+    publishedDateTime: 2020-09-22T21:15:00Z
+    webUrl: "https://virtualizationreview.com/articles/2020/09/22/azure-ignite.aspx"
+    type: article
+    provider:
+      name: Virtualization Review
+      domain: virtualizationreview.com
+    quality: 37
+    images:
+      - url: "https://virtualizationreview.com/-/media/ECG/redmondmag/Images/IntroImagesBigSmall/BlackWhiteCloudSmall.jpg"
+        width: 647
+        height: 450
+        isCached: true
+  - title: "Microsoft targets industrial IoT analytics with Azure Digital Twins update"
+    excerpt: "Microsoft Corp. today added a set of new features to Azure Digital Twins, its cloud-based analytics service for industrial “internet of things” applications. A digital twin usually means a virtual replica of a connected system,"
+    publishedDateTime: 2020-06-29T20:51:00Z
+    webUrl: "https://siliconangle.com/2020/06/29/microsoft-targets-industrial-iot-analytics-azure-digital-twins-update/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 35
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/06/unsplash-3.png"
+        width: 718
+        height: 404
+        isCached: true
+  - title: "Microsoft boosts Azure with new edge video analytics and authentication features"
+    excerpt: "Microsoft Corp. today introduced a new edge video analytics product for its Azure cloud platform, as well as improved authentication features to help organizations better address the shift to remote work. There’s a growing trend of analytics workloads moving from data centers to the so-called edge of the network. A manufacturer, for instance ..."
+    publishedDateTime: 2020-06-11T20:01:00Z
+    webUrl: "https://siliconangle.com/2020/06/11/microsoft-boosts-azure-new-edge-video-analytics-authentication-features/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 32
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/06/microsoft.png"
+        width: 761
+        height: 400
+        isCached: true
+  - title: "Illusive Networks Joins Microsoft Intelligent Security Association and is Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Illusive Networks®, a leader in active cyber defense, today joined the Microsoft Intelligent Security Association (MISA), bringing the"
+    publishedDateTime: 2020-09-24T19:03:00Z
+    webUrl: "https://www.prnewswire.com/il/news-releases/illusive-networks-joins-microsoft-intelligent-security-association-and-is-now-available-in-the-microsoft-azure-marketplace-866469933.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 28
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
+        isCached: true
+  - title: "Data Modernization and Intelligent Analytics with Microsoft Azure"
+    excerpt: "Computerworld covers a range of technology topics, with a focus on these core areas of IT: Windows, Mobile, Apple/enterprise, Office and productivity suites, collaboration, web browsers and blockchain,"
+    publishedDateTime: 2020-06-24T19:56:00Z
+    webUrl: "https://www.computerworld.com/resources/205007/data-modernization-and-intelligent-analytics-with-microsoft-azure"
+    type: article
+    provider:
+      name: Computerworld
+      domain: computerworld.com
     quality: 17
-  - title: "Viasat integrates its ground service solution with Microsoft's Azure Orbital"
-    excerpt: "Viasat (VSAT -1.1%) enters Microsoft's Azure Orbital ecosystem with its Real-Time Earth (RTE) solutions available as a managed services option to orbital end-users.Viasat's RTE network provides Ground-Station-as-a-Service ((GSaaS)) to the commercial and government earth observation and remote sensing communities on pay-per-use basis."
-    publishedDateTime: 2020-09-22T19:28:00Z
-    webUrl: "https://seekingalpha.com/news/3616273-viasat-integrates-ground-service-solution-microsofts-azure-orbital"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 14
 
 secured: "63yz3DHJ5wWwhtdSdlkfLnCFMc/3f2xjQNOOhQAg5AXMCwiQuHpNm8gVIbX6+Q9/lHenf/BcaVLxWXFtVZK+0XflZRdexYndA0aXuJ6Pjy1w/XLaoxBXD16oMrSk7rqgl0zgnqcJ1LJ/3mcO4T/EvgiPSjQOVqR6Jt9Y7w43N78tes8AGbwuVGorXtXjbMJPu60/GNO6v0/2ZmkzXAf4qsJDOlhlT45/OFqmpOdaXDc2WdaRr4fvfyTK2sp48rDlloEdYnAvJhQ8Wk/jGL7m3HxgwAUTkj0LaeULGrgXbhPcpPmndqzekzq3O8xZ3vBEjP7/gi6C0wSLDVPb29EXgSatYBIRzcAPfZjNFByRFQmkOSrRH+EtkBDP6IIFbG8hlRqkeclzgg7YR/8TYfDGoohTFy0RaFAuF7uJS88wcFuk82M34ui/DYg0h9oDUJ4E6x7tLVll1NosmfCFwuZcNPFNdE6XM07vgk3jRZiwXdTgSX8KS+LvFQSgOsgHd6fcBgmerUC9aernt24dlDSUZg==;cJ7pzaHu6eCV35QF02rDaw=="
 ---

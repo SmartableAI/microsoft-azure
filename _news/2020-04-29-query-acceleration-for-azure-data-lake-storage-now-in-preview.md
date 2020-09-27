@@ -29,7 +29,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 106
+    quality: 121
     images:
       - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/92cec444-9b04-4e3c-9250-2af9a918d97d.png"
         width: 1024
@@ -43,16 +43,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 86
-  - title: "New Azure VMware Solution is now in preview"
-    excerpt: ""
-    publishedDateTime: 2020-05-04T18:00:35Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/new-azure-vmware-solution-is-now-in-preview/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 17
+    quality: 101
   - title: "Azure Blob storage—Blob Index now available in preview"
     excerpt: ""
     publishedDateTime: 2020-05-07T01:00:17Z

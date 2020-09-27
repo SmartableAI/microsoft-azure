@@ -6,7 +6,7 @@ publishedDateTime: 2020-05-13T11:28:00Z
 webUrl: "https://www.marketwatch.com/press-release/cloud-database-and-dbaas-market-by-type-application---forecast-to-2026-2020-05-13"
 type: article
 quality: 62
-heat: 182
+heat: 162
 published: true
 
 provider:
@@ -79,20 +79,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 28
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Cloud Data Integration Market Analysis by Emerging Growth Factors and Revenue Forecast to 2025| Snaplogic, Microsoft, Talend, Software, SAP, Oracle"
-    excerpt: "Cloud data integration solutions allow enterprises to unify data from disparate cloud sources in various formats. Cloud data integration solutions provide standard connectors to other cloud software systems,"
-    publishedDateTime: 2020-05-06T08:06:00Z
-    webUrl: "https://www.marketwatch.com/press-release/cloud-data-integration-market-analysis-by-emerging-growth-factors-and-revenue-forecast-to-2025-snaplogic-microsoft-talend-software-sap-oracle-2020-05-06"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 24
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

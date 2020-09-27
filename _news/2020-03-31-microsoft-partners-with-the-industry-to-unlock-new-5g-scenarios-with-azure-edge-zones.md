@@ -58,26 +58,15 @@ related:
         width: 1187
         height: 821
         isCached: true
-  - title: "Lenovo Teams With Microsoft Azure At The Edge"
-    excerpt: "The new offerings are tied closely to Microsoft’s Azure software stack for enterprises operating in a hybrid cloud model, with a presence both on-premises and in the cloud. Microsoft actually pre-announced the new ThinkAgile MX1021 at its Ignite 2019 ..."
-    publishedDateTime: 2020-03-31T15:36:00Z
-    webUrl: "https://www.nextplatform.com/2020/03/31/lenovo-teams-with-microsoft-azure-at-the-edge/"
-    ampWebUrl: "https://www.nextplatform.com/2020/03/31/lenovo-teams-with-microsoft-azure-at-the-edge/amp/"
-    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2020/03/31/lenovo-teams-with-microsoft-azure-at-the-edge/amp/"
+  - title: "Microsoft powers transformation at NVIDIA’s GTC Digital Conference"
+    excerpt: "The world of supercomputing is evolving. Work once limited to high-performance computing (HPC) on-premises clusters and traditional HPC scenarios, is now being performed at the edge, on-premises, in the cloud, and everywhere in between. Whether it’s a manufacturer running advanced simulations, an energy"
+    publishedDateTime: 2020-03-24T14:00:24Z
+    webUrl: "https://azure.microsoft.com/blog/microsoft-powers-transformation-at-nvidia-s-gtc-digital-conference/"
     type: article
     provider:
-      name: The Next Platform
-      domain: nextplatform.com
-    quality: 57
-    images:
-      - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2020/03/ab_cloud-edge-1024x1024.jpg"
-        width: 1024
-        height: 1024
-        isCached: true
-      - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2020/03/ab_cloud-edge-scaled.jpg"
-        width: 2560
-        height: 1708
-        isCached: true
+      name: Microsoft
+      domain: microsoft.com
+    quality: 56
 
 secured: "mnB1BwYD0RAoQnQQKT6oqvPH69XQnFqQJL/MX9kYMo8HswUyffv0BgYaONw7AxlHYdr3h7s9wky1o61zNjZlJmqHXoGez6UJMzmvMRYLy/CgF/El3ZwFW5Al4Pynidzd9B70TSzRbmg6qHi03gyENKOcmK2BKmXnq/Pfmg8TyFGCsVgXFird2P/O/uYXINfldI6lz4aUzbNAVQb7FmkzC3KcxkidtLkgZPHOqZU/7aTlTEQeXhrO+IeIu0etov9uEK0M0SKKPQ9EFFbw0JS4eH3Bk2nWwDI/Z0zkKHmwtqoMN8zN4ehEKqdqNYs2phASzLYR6zKllhqeMCkFfQTo2tVdEOKf4RTDevBqhIpcoo8=;JmgvL3R3JCWQPpxzvpVifA=="
 ---

@@ -6,7 +6,7 @@ publishedDateTime: 2020-04-14T00:00:09Z
 webUrl: "https://azure.microsoft.com/en-us/updates/announcing-reverse-dns-support-in-azure-virtual-networks/"
 type: article
 quality: 17
-heat: -1
+heat: 17
 published: false
 
 provider:
@@ -19,22 +19,6 @@ provider:
 
 topics:
   - Azure
-
-related:
-  - title: "Azure Firewall Manager now supports virtual networks"
-    excerpt: "This post was co-authored by Yair Tor, Principal Program Manager, Azure Networking.\r\n\r\nLast November we introduced Microsoft Azure Firewall Manager preview for Azure Firewall policy and route management in secured virtual hubs. This also included integration with key Security as a Service partners, Zscaler,"
-    publishedDateTime: 2020-02-18T10:05:39Z
-    webUrl: "https://azure.microsoft.com/blog/azure-firewall-manager-now-supports-virtual-networks/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 39
-    images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/35eac5bb-b137-49ca-b783-a4321ac7ffbf.jpg"
-        width: 1024
-        height: 471
-        isCached: true
 
 secured: "o82zD5J1kLbs6VpmjRxUXFY8mQW5ao1uN8RkdNF146hoNvle6wPzl7PtnLlZqeonC8kNgvwvd2DkNjsZHCp+u6pVfe/RdW6pujx+A7hHci2mXks9L4NViFeQWZ1aP8dCJXarv65nDZcBDOMOHR2LCPt0/eBjF6j+RIZAKChAfg7qqYK4mtMmTy9F7oPGauR5/SNBO/LuyK8Um5K6mQqnk+K7PnIuRbJZGeB9qE7D4G4kg2xEnv3SIngUeMIFBS+jJU8024nD+wHerWWL7ebk0vZ4JWOewyb9C59Bitjwrxs1ixMr/E3uTh0fqwKTZMPSmzruazufVtruAEOdUjz58g==;1Mnyz1X5zXtsh9SBklmdgQ=="
 ---

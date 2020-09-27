@@ -6,8 +6,8 @@ publishedDateTime: 2020-06-11T09:00:02Z
 originalUrl: "https://azure.microsoft.com/blog/new-features-and-insights-in-azure-monitor/"
 webUrl: "https://azure.microsoft.com/blog/new-features-and-insights-in-azure-monitor/"
 type: article
-quality: 89
-heat: 109
+quality: 106
+heat: 146
 published: true
 
 provider:
@@ -21,6 +21,7 @@ provider:
 topics:
   - Azure
   - Management tools
+  - DevOps
 
 images:
   - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/2eaaeb65-3d31-4f10-acfd-c879f6a49a79.png"
@@ -30,20 +31,29 @@ images:
     title: "New features and insights in Azure Monitor"
 
 related:
-  - title: "Microsoft boosts Azure with new edge video analytics and authentication features"
-    excerpt: "Microsoft Corp. today introduced a new edge video analytics product for its Azure cloud platform, as well as improved authentication features to help organizations better address the shift to remote work. There’s a growing trend of analytics workloads moving from data centers to the so-called edge of the network. A manufacturer, for instance ..."
-    publishedDateTime: 2020-06-11T20:01:00Z
-    webUrl: "https://siliconangle.com/2020/06/11/microsoft-boosts-azure-new-edge-video-analytics-authentication-features/"
+  - title: "A new consolidated API version in Azure Monitor Logs is now available"
+    excerpt: ""
+    publishedDateTime: 2020-06-08T16:00:33Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/new-consolidated-api-version-in-for-log-analytics/"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 32
+      name: Microsoft
+      domain: microsoft.com
+    quality: 37
     images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/06/microsoft.png"
-        width: 761
-        height: 400
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/55f9101b-07a0-4e94-b8aa-802abda1d4df.png"
+        width: 640
+        height: 386
         isCached: true
+  - title: "Azure Monitor for Containers support for Azure Arc is in preview"
+    excerpt: "Azure Monitor for Containers is now extending monitoring support for Kubernetes clusters hosted on Azure Arc. This support is currently in preview."
+    publishedDateTime: 2020-06-17T21:30:19Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azcoinarc/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 17
 
 secured: "/3wInhKY/QAFG83nb8YgxCMDKbhO0gIeBrZbdmgfyTlor4dH0yv3LoAk1mH+WqcYyupkwQ0on9Rn4aFEnr7NJ4yC9whsYLpCc3hBdT5VHSu0jXkaZe3TO9FywQ5G5kS40ReCSJ2sGxTYod+9JDmpreGp7hXbbg6zV9yLMXuYrOI4lUl1cWCLJ0MToqrgtvCNCJ/E+JBtTRh3DNA/F05xhpxBovIHqHul+K3vobGUgYI+5oR6QHrxw5K3a/LGYrYh/KLYnmPW8LGWmRdOGQ/7WtbgnLHSb/WLiErWDtZN2qci5rMETb4Hu/mrzGQAlBIH6nuK3aqQHcrJ9Ayt4tGcLy/gt7PF+dgPVnVTwiCvEGg=;t/S5Cdl5XxLI+tAzs7qpXw=="
 ---

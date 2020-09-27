@@ -17,35 +17,21 @@ topics:
   - Azure
 
 related:
-  - title: "Microsoft releases more open-sourced cloud datacenter components, specs"
-    excerpt: "Microsoft is continuing its work with the OCP on open-sourced hardware, software, algorithms and other building-block technologies for cloud datacenter infrastructure."
-    publishedDateTime: 2020-05-12T16:15:00Z
-    webUrl: "https://www.zdnet.com/article/microsoft-releases-more-open-sourced-cloud-datacenter-components-specs/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-releases-more-open-sourced-cloud-datacenter-components-specs/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-releases-more-open-sourced-cloud-datacenter-components-specs/"
+  - title: "Microsoft's new Cloud for Healthcare lets doctors schedule telemedicine visits in Teams"
+    excerpt: "The industry-specific cloud service combines functionality from Microsoft 365, Dynamics, Power Platform, and Azure."
+    publishedDateTime: 2020-05-19T15:00:00Z
+    webUrl: "https://www.techrepublic.com/article/microsofts-new-cloud-for-healthcare-lets-doctors-schedule-telemedicine-visits-in-teams/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/article/microsofts-new-cloud-for-healthcare-lets-doctors-schedule-telemedicine-visits-in-teams/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsofts-new-cloud-for-healthcare-lets-doctors-schedule-telemedicine-visits-in-teams/"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 82
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 74
     images:
-      - url: "https://zdnet3.cbsistatic.com/hub/i/2020/05/12/184993f6-d771-44c7-97eb-4e437bbb83f5/microsoftocp2020.jpg"
-        width: 811
-        height: 503
-        isCached: true
-  - title: "Microsoft Open Sources Its Coronavirus Threat Data"
-    excerpt: "Microsoft's COVID-19 intelligence will be made publicly available to help businesses fight virus-related security threats."
-    publishedDateTime: 2020-05-15T19:06:00Z
-    webUrl: "https://www.darkreading.com/threat-intelligence/microsoft-open-sources-its-coronavirus-threat-data/d/d-id/1337836"
-    type: article
-    provider:
-      name: Dark Reading
-      domain: darkreading.com
-    quality: 22
-    images:
-      - url: "https://twimgs.com/nojitter/darkreading/dr-logo.jpg"
-        width: 600
-        height: 600
+      - url: "https://tr4.cbsistatic.com/hub/i/r/2020/05/18/5180a84a-a933-43ea-baef-86d59629357a/thumbnail/1200x675/0fa1b634480c0db3b89ee1d86d1aaddf/20200515-mj-larry-build.jpg"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "VsW43hcSMciwrN6qiXfLeueZvMlqKobWV/3E1zEq/jN919pjbonlPO7M/TFTBczzNQbSnrUk84NDGcYecAI0bHdPWCGUCDcwqPZc1sdYIfh9Ni4jlHfz4YyOp3yqhvg9gGCu+NeB1fEAzsI6gQ8t8IbjV8Ov5fMAFqyw7QToZemcetWvLHCBHjI3Bvd9A1lRF/0r9tLWN+le4s8PN+4BC68iuOuH0Vn82xvDYlT/Y0IEctkrGCiAJXR6TWS5Hb7rCtLTSUDCoSpVudcVjus9J34XvkE5Z+yp01Sl5vIZ7Yt3x0e+1iPkb7QEhke5nAZYWiY+U3rqXTLIYd7N5owuYk5wEakm3M/WBXzzX5N12En/tUhkr3KvqbrzSxsgGEQq3Refe7k1+HsA4JlnowG51QXGJGcqDBtSZNTK6s11bJnuzKehRpf80OoJqmSVhz/wl4b+9CdaSG/HmdkGw8S27CID81SYUFokHdOn6LIIdZU=;JWrWC07mw4VMr/5yDap9jw=="

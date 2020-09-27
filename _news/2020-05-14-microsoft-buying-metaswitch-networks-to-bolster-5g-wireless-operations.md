@@ -56,6 +56,38 @@ related:
         width: 1240
         height: 828
         isCached: true
+  - title: "Microsoft is suddenly recommending Google products and I'm worried"
+    excerpt: "It seemed as if we were entering what some enjoy calling browser wars. Suddenly, Microsoft starts to play nice."
+    publishedDateTime: 2020-05-09T12:00:00Z
+    webUrl: "https://www.zdnet.com/article/microsoft-is-suddenly-recommending-google-products-and-im-worried/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-is-suddenly-recommending-google-products-and-im-worried/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-is-suddenly-recommending-google-products-and-im-worried/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 82
+    images:
+      - url: "https://zdnet4.cbsistatic.com/hub/i/2020/03/16/3cae910b-d192-4697-a639-7c135e572556/microsoft-march-2020-patch-tuesday-fixes-5e6a4fb210393e000182bb8f-1-mar-16-2020-16-46-38-poster.jpg"
+        width: 960
+        height: 540
+        isCached: true
+  - title: "How to access the Microsoft Whiteboard app and share your projects"
+    excerpt: "The Microsoft Windows 10 Whiteboard app is fully integrated and can now be accessed by all users. Learn how to use it and share your whiteboard projects with others."
+    publishedDateTime: 2020-05-13T14:12:00Z
+    webUrl: "https://www.techrepublic.com/article/how-to-access-the-microsoft-whiteboard-app-and-share-your-projects/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/article/how-to-access-the-microsoft-whiteboard-app-and-share-your-projects/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-to-access-the-microsoft-whiteboard-app-and-share-your-projects/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 82
+    images:
+      - url: "https://tr4.cbsistatic.com/hub/i/r/2020/05/11/f96ed128-e306-4ba3-ab73-41daf81a4cff/resize/1200x/9fbab29553ce6e0db3b7e806a4cc4b45/istock-1201413682.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Microsoft acquires Metaswitch in telecom push"
     excerpt: "News of the deal comes less than a month after the close of Microsoft's acquisition of start-up Affirmed Networks."
     publishedDateTime: 2020-05-14T16:20:00Z
@@ -71,6 +103,22 @@ related:
       - url: "https://image.cnbcfm.com/api/v1/image/106341012-1579211430551pic1.jpg?v=1579211475"
         width: 1500
         height: 906
+        isCached: true
+  - title: "Microsoft HoloLens 2 adds 5G support and is getting easier to buy"
+    excerpt: "Over a year after it was announced, the HoloLens 2's key features continue to evolve. But there's still no consumer plan."
+    publishedDateTime: 2020-05-19T15:04:00Z
+    webUrl: "https://www.cnet.com/news/microsoft-hololens-2-adds-5g-support-and-is-getting-easier-to-buy/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/microsoft-hololens-2-adds-5g-support-and-is-getting-easier-to-buy/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/microsoft-hololens-2-adds-5g-support-and-is-getting-easier-to-buy/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 82
+    images:
+      - url: "https://cnet1.cbsistatic.com/img/LXu-8fpS1ZGM_hV9mzNKGEu8Vqo=/756x567/2019/02/18/62ea128f-6309-41fe-bc76-dcbfc69b5aca/microsoft-msft-hololens-2-1436-2.jpg"
+        width: 756
+        height: 567
         isCached: true
   - title: "Microsoft to Acquire Cloud Communications Specialist Metaswitch Networks"
     excerpt: "Microsoft (NASDAQ:MSFT) is moving to expand its cloud communications portfolio. The tech giant announced today that it has signed a definitive agreement to acquire cloud communications specialist Metaswitch for an undisclosed amount. Metaswitch provides cloud-based voice, data, and communication software solutions for telecommunication providers."
@@ -104,6 +152,63 @@ related:
         width: 760
         height: 428
         isCached: true
+  - title: "Netcracker Offers AI-Driven Digital BSS/OSS to Microsoft Azure"
+    excerpt: "Netcracker Technology announced today it is working with Microsoft to offer its Digital BSS/OSS and Orchestration applications on Microsoft Azure."
+    publishedDateTime: 2020-05-12T13:00:00Z
+    webUrl: "https://www.marketwatch.com/press-release/netcracker-offers-ai-driven-digital-bssoss-to-microsoft-azure-2020-05-12"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 77
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Amazon and Microsoft are accusing each other of playing dirty to get JEDI contract"
+    excerpt: "Last month, the DoD cleared Microsoft's JEDI contract award, after it couldn't find any wrongdoing in the whole process. This was the first result of legal action where Amazon, the company that came closest to winning the bid,"
+    publishedDateTime: 2020-05-08T23:38:00Z
+    webUrl: "https://www.techspot.com/news/85160-amazon-microsoft-accusing-each-other-playing-dirty-get.html"
+    ampWebUrl: "https://www.techspot.com/amp/news/85160-amazon-microsoft-accusing-each-other-playing-dirty-get.html"
+    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/85160-amazon-microsoft-accusing-each-other-playing-dirty-get.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 76
+    images:
+      - url: "https://static.techspot.com/images2/news/bigimage/2020/05/2020-05-08-image-13.jpg"
+        width: 1600
+        height: 1001
+        isCached: true
+  - title: "Microsoft doesn't care if you buy the next-generation Xbox — and it's a brilliant strategy"
+    excerpt: "Whether you get the new Xbox this holiday or not, Microsoft only cares that you're using its services and playing its games."
+    publishedDateTime: 2020-05-12T17:21:00Z
+    webUrl: "https://www.businessinsider.com/xbox-vs-playstation-microsoft-strategy-2020-5"
+    ampWebUrl: "https://www.businessinsider.com/xbox-vs-playstation-microsoft-strategy-2020-5?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/xbox-vs-playstation-microsoft-strategy-2020-5?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 72
+    images:
+      - url: "https://i.insider.com/5e727622c48540585f68fe06?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Buying Microsoft Stock? Stop. Try MSFT Supplier Arista Networks Instead"
+    excerpt: "Microsoft’s stock is up by over 100% since the beginning of 2018, driven by the company’s fast-growing cloud business. However, the stock price of Arista Networks, a network equipment supplier for cloud data centers that counts Microsoft as its largest customer,"
+    publishedDateTime: 2020-05-19T13:06:00Z
+    webUrl: "https://www.forbes.com/sites/greatspeculations/2020/05/19/buying-microsoft-stock-stop-try-msft-supplier-arista-networks-instead/"
+    ampWebUrl: "https://www.forbes.com/sites/greatspeculations/2020/05/19/buying-microsoft-stock-stop-try-msft-supplier-arista-networks-instead/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/greatspeculations/2020/05/19/buying-microsoft-stock-stop-try-msft-supplier-arista-networks-instead/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 62
   - title: "Microsoft buys cloud communications software vendor Metaswitch Networks to bolster 5G"
     excerpt: "Microsoft makes its second acquisition in the 5G space in two months, as it works to capitalize on the convergence of cloud and communications networks."
     publishedDateTime: 2020-05-14T16:21:00Z
@@ -207,6 +312,85 @@ related:
         width: 800
         height: 587
         isCached: true
+  - title: "AWS trying to bog down JEDI with complaints, Microsoft says"
+    excerpt: "When Amazon Web Services filed an agency protest with the Defense Department seeking clarity about technical aspects of the $10 billion Joint Enterprise Defense Infrastructure cloud contract, Microsoft called it an attempt “to force a do-over to rescue its failed bid."
+    publishedDateTime: 2020-05-12T22:58:00Z
+    webUrl: "https://gcn.com/articles/2020/05/12/aws-jedi-microsoft-blog-spat.aspx"
+    type: article
+    provider:
+      name: GCN
+      domain: gcn.com
+    quality: 22
+    images:
+      - url: "https://gcn.com/-/media/GIG/EDIT_SHARED/Cloud/DODcloud_1.png"
+        width: 760
+        height: 368
+        isCached: true
+  - title: "Microsoft Beats on Earnings, Stock Pops Above Its Monthly Risky Level"
+    excerpt: "The tech giant's purchase of LinkedIn began a winning streak of 16 consecutive quarters beating earnings estimates."
+    publishedDateTime: 2020-05-13T21:50:00Z
+    webUrl: "https://www.investopedia.com/microsoft-stock-pops-above-its-monthly-risky-level-4844946"
+    type: article
+    provider:
+      name: Investopedia
+      domain: investopedia.com
+    quality: 22
+    images:
+      - url: "https://www.investopedia.com/thmb/5YaW4-Esvo2FLX9mOGxQGlOqq_s=/680x440/filters:fill(auto,1)/microsoft_istock_522326598-e3cac41639634442896e47e54c13012a.jpg"
+        width: 680
+        height: 440
+        isCached: true
+  - title: "Microsoft, Intel Combine Deep Learning and Pixels to Nix Malware"
+    excerpt: "Microsoft and Intel researchers have found a way to combine artificial intelligence and image analysis to create a highly effective means to combat malicious software infections. The researchers call their approach \"STAMINA\" -- static malware-as-image network analysis -- and say it's proven to be highly effective in detecting malware with a low rate of false positives."
+    publishedDateTime: 2020-05-13T17:11:00Z
+    webUrl: "https://www.technewsworld.com/story/86662.html?rss=1"
+    type: article
+    provider:
+      name: TechNewsWorld
+      domain: technewsworld.com
+    quality: 22
+    images:
+      - url: "https://www.technewsworld.com/article_images/story_graphics_xlarge/xl-2018-malware-1.jpg"
+        width: 620
+        height: 360
+        isCached: true
+  - title: "Microsoft Buying Metaswitch, ‘Setting The Table’ For Major 5G Play"
+    excerpt: "With agreement to purchase Metaswitch, Microsoft is laying the groundwork to empower partners in the coming 5G era"
+    publishedDateTime: 2020-05-14T22:40:00Z
+    webUrl: "https://www.crn.com/news/cloud/microsoft-buying-metaswitch-setting-the-table-for-major-5g-play"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 22
+    images:
+      - url: "https://www.crn.com/resources/025d-0f68b50be2f2-5b42c493a416-1000/5g-networking-city.jpg"
+        width: 610
+        height: 458
+        isCached: true
+  - title: "Microsoft gets serious about telecom with Metaswitch purchase"
+    excerpt: "Although Metaswitch reported revenues of just $180 million in 2019, the company is viewed as a knowledgeable vendor of deep networking services, which signals Microsoft's ambitions in the space."
+    publishedDateTime: 2020-05-14T18:28:00Z
+    webUrl: "https://www.lightreading.com/cloud-native-nfv/microsoft-gets-serious-about-telecom-with-metaswitch-purchase/d/d-id/759668"
+    type: article
+    provider:
+      name: Light Reading
+      domain: lightreading.com
+    quality: 22
+    images:
+      - url: "https://img.lightreading.com/lightreading/LR_fb_button.jpg"
+        width: 600
+        height: 600
+        isCached: true
+  - title: "Netcracker Offers AI-Driven Digital BSS/OSS to Microsoft Azure"
+    excerpt: "Netcracker Technology announced today it is working with Microsoft to offer its Digital BSS/OSS and Orchestration applications on Microsoft Azure. Netcracker is collaborating with Microsoft to integrate Azure Machine Learning (ML) and AI services with Netcracker’s Advanced Analytics to add intelligent contextual decisioning and recommendations to enable more personalized customer"
+    publishedDateTime: 2020-05-14T09:16:00Z
+    webUrl: "https://www.totaltele.com/505911/Netcracker-Offers-AI-Driven-Digital-BSSOSS-to-Microsoft-Azure"
+    type: article
+    provider:
+      name: Total Telecom
+      domain: totaltele.com
+    quality: 17
   - title: "Microsoft to acquire Metaswitch Networks to bolster its cloud-based telecoms offering"
     excerpt: "Microsoft announced on Thursday that it has entered a definitive agreement to acquire UK's Metaswitch Networks, a leading provider of software solutions for cloud-based communication networks. The announcement comes as telecommunication firms continue to embrace virtualised platforms while they move from network functions running on specialised hardware to one in which software solutions help to perform same functions over servers,"
     publishedDateTime: 2020-05-15T09:40:00Z
@@ -230,23 +414,14 @@ related:
       name: Seeking Alpha
       domain: seekingalpha.com
     quality: 2
-  - title: "Microsoft Buys Metaswitch Networks"
-    excerpt: "Microsoft has agreed to buy Metaswitch Networks, which provides software to telecommunications companies to help them deliver voice and data services to their customers, CNBC reports."
-    publishedDateTime: 2020-05-15T16:38:00Z
-    webUrl: "https://www.mediapost.com/publications/article/351468/microsoft-buys-metaswitch-networks.html"
+  - title: "Microsoft is \"Only Getting Started\""
+    excerpt: "Earnings at Microsoft (MSFT) were spectacular, yet again. The surprise, for anyone who wasn’t paying attention, was how little the business i"
+    publishedDateTime: 2020-05-14T17:52:00Z
+    webUrl: "https://www.moneyshow.com/articles/tptp072513-54186/"
     type: article
     provider:
-      name: MediaPost
-      domain: mediapost.com
-    quality: 2
-  - title: "Microsoft to Acquire Metaswitch Networks to Expand 5G Cloud Strategy"
-    excerpt: "Microsoft has signed an agreement to acquire Metaswitch Networks, a leading provider of virtualized network software and voice,"
-    publishedDateTime: 2020-05-18T00:57:00Z
-    webUrl: "https://www.thefastmode.com/solution-vendors-m-a/17122-microsoft-to-acquire-metaswitch-networks-to-expand-5g-cloud-strategy"
-    type: article
-    provider:
-      name: Deep
-      domain: thefastmode.com
+      name: MoneyShow.com
+      domain: moneyshow.com
     quality: 2
 
 secured: "MOgiuiYuZzBCxhaYyFX9fbp2sahbz9Sx4z8qFCvn/mhRChDzf99v8ZVYJ4v1EKbesG7eG06G3AXn985sWS/hw61/hFSC+XWHTsjrAevnMFp/x0h1irbhfyYXRsynYE3yef/F+TR1Ajbsy4jO+wLvZICJ2L5Q5JiEWS3WclQ+1jCQJD7T3tI76VWtZKf6Mcu4b3jHOjARj8JzZcWniaeWAa7eOtuLXHx4lGBC+IkPplK32qeI/q9uZp32v+IbAKuGIzEbSvFNdXg3HVlND9irJrsjePa5Etn01d7CBayS6Yzh0/Uuvxe5bp+P2qaZ3bwA;3x7b73WX/LyouQf59pMzWQ=="

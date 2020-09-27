@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/windows-virtual-desktop-
 webUrl: "https://azure.microsoft.com/en-us/updates/windows-virtual-desktop-is-now-available-in-the-azure-government-cloud-in-preview/"
 type: article
 quality: 61
-heat: 101
+heat: 121
 published: true
 
 provider:
@@ -22,34 +22,33 @@ topics:
   - Azure
 
 related:
-  - title: "Tech Data expands Cloud Solution Factory with Windows Virtual Desktop on Azure Click-to-Run Solution"
-    excerpt: "Tech Data has expanded its Cloud Solution Factory offering with the addition of a new Windows Virtual Desktop on Azure Click-to-Run Solution."
-    publishedDateTime: 2020-08-25T00:34:00Z
-    webUrl: "https://www.helpnetsecurity.com/2020/08/25/tech-data-windows-azure/"
+  - title: "Public preview: Automated deployment of Always On availability groups through the Azure portal"
+    excerpt: "Simplify configuring Always On availability groups and improve availability for SQL Server on Azure Virtual Machines"
+    publishedDateTime: 2020-09-02T16:00:05Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-automated-deployment-of-always-on-availability-groups-through-the-azure-portal/"
     type: article
     provider:
-      name: Help Net Security
-      domain: helpnetsecurity.com
-    quality: 22
-    images:
-      - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/06/15084653/insecure-66.jpg"
-        width: 304
-        height: 430
-        isCached: true
-  - title: "Tech Data Expands Cloud Solution Factory Portfolio with Windows Virtual Desktop on Azure Click-to-Run Solution"
-    excerpt: "Tech Data today announced that it has expanded its Cloud Solution Factory offering with the addition of a new Windows Virtual Desktop on Azure Click-t"
-    publishedDateTime: 2020-08-24T12:43:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200824005324/en/Tech-Data-Expands-Cloud-Solution-Factory-Portfolio"
+      name: Microsoft
+      domain: microsoft.com
+    quality: 55
+  - title: "App Service is now an events publisher on Azure Event Grid (in preview)"
+    excerpt: ""
+    publishedDateTime: 2020-05-13T16:00:59Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/app-service-is-now-an-events-publisher-on-azure-event-grid-in-preview/"
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
+      name: Microsoft
+      domain: microsoft.com
     quality: 17
-    images:
-      - url: "https://mms.businesswire.com/media/20200824005324/en/701681/23/Tech_Data_Logo.jpg"
-        width: 1200
-        height: 627
-        isCached: true
+  - title: "Azure Databricks is now available in the Azure Government cloud (in preview)"
+    excerpt: ""
+    publishedDateTime: 2020-06-09T18:15:11Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-databricks-is-now-available-in-the-azure-government-cloud-in-preview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 14
 
 secured: "IedRu3Hw7eXQBWAk6wkjbMFMyZ83ROljkuRXv2dHf5oAYB28I5l15SfMVN8nwKIGKUB+/71BXe1iN2nZz8ua1epSxf3lnKLP7t+wrpDVD5YbbNXLT+VDgcfj1OIr0j2pL+RzAtbhaab95GrFtRnD8yoaelEUgb5xHOK3LT/nljehpMMCUD73SQRd/HML1E3ZUgEqJXXyw4pcgIvHM+2+6KTndhv0Ea4TVNIZZ9H2twGGTyBFNpQiCc0bX8i9lonjq/8JwOqzZuA6GPY2DGKduJSS9+nJb+0wfwq1os5Nko8Be7yzvMpDb79bXg9YwlNAeoRKDdVHZuDD7Mznu8gVkE3wrCHviMh8JnrXG5rAy3Y=;e7I5wrKI+3gtXKW4c0eK1Q=="
 ---

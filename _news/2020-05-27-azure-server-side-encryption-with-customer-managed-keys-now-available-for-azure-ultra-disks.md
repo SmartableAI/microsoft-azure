@@ -6,7 +6,7 @@ publishedDateTime: 2020-05-27T16:00:04Z
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-serverside-encryption-with-customermanaged-keys-now-available-for-azure-ultra-disks/"
 type: article
 quality: 7
-heat: -1
+heat: 7
 published: false
 
 provider:
@@ -21,42 +21,6 @@ topics:
   - Azure
 
 related:
-  - title: "Data encryption with customer-managed keys for Azure Database for MySQL"
-    excerpt: ""
-    publishedDateTime: 2020-06-10T16:00:17Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/data-encryption-with-customermanaged-keys-for-azure-database-for-mysql-in-preview/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 17
-  - title: "Large storage for Azure Database for MariaDB"
-    excerpt: ""
-    publishedDateTime: 2020-06-10T16:00:18Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/large-storage-for-azure-database-for-mariadb/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 17
-  - title: "Azure Database for PostgreSQL support for encryption at rest using customer-managed keys"
-    excerpt: ""
-    publishedDateTime: 2020-06-09T19:00:01Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-database-for-postgresql-encryption-at-rest-byok-preview/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 8
-  - title: "Transparent data encryption with customer-managed keys for Azure SQL Database Hyperscale"
-    excerpt: ""
-    publishedDateTime: 2020-06-10T16:00:20Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/transparent-data-encryption-with-customermanaged-keys-for-azure-sql-database-hyperscale/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 8
   - title: "Azure SQL Database Hyperscale—Transparent data encryption with customer-managed keys now in preview"
     excerpt: ""
     publishedDateTime: 2020-06-01T20:00:12Z

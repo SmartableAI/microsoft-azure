@@ -6,8 +6,8 @@ publishedDateTime: 2020-09-22T16:05:38Z
 originalUrl: "https://azure.microsoft.com/en-us/updates/configurable-backup-storage-redundancy-option-for-azure-sql-managed-instance-2/"
 webUrl: "https://azure.microsoft.com/en-us/updates/configurable-backup-storage-redundancy-option-for-azure-sql-managed-instance-2/"
 type: article
-quality: 64
-heat: 104
+quality: 98
+heat: 178
 published: true
 
 provider:
@@ -20,8 +20,28 @@ provider:
 
 topics:
   - Azure
+  - Databases
+  - Storage
 
 related:
+  - title: "General availability: Zone redundant configuration for Azure SQL Database in additional regions"
+    excerpt: "The zone redundant configuration for Azure SQL Database is now generally available in these additional regions: Canada Central, West US 2, and North Europe."
+    publishedDateTime: 2020-09-21T20:00:05Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-zone-redundant-configuration-for-azure-sql-database-in-additional-regions/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 55
+  - title: "SCOM management pack for Azure SQL Managed Instance is now available"
+    excerpt: ""
+    publishedDateTime: 2020-05-08T16:00:09Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-of-scom-management-pack-for-sql-managed-instance-is-now-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 17
   - title: "Backup storage cost savings for Azure SQL Database and Managed Instance"
     excerpt: "Greater recovery period granularity and automated backup compression now available, helping to optimize your backup storage costs."
     publishedDateTime: 2020-08-05T16:00:04Z

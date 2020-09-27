@@ -28,20 +28,6 @@ images:
     title: "Course 40508-G: Microsoft Cloud Workshop: Modern Cloud Apps"
 
 related:
-  - title: "Course 40501-G: Microsoft Cloud Workshop: Cloud-native applications"
-    excerpt: "This workshop is intended for Cloud Architects and IT professionals who have architectural expertise of infrastructure and solutions design in cloud technologies and want to learn more about Azure and Azure services as described in the \"summary and \"Skills gained\" areas."
-    publishedDateTime: 2020-07-01T21:47:00Z
-    webUrl: "https://docs.microsoft.com/en-us/learn/certifications/courses/40501"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 22
-    images:
-      - url: "https://docs.microsoft.com/en-us/media/logos/logo-ms-social.png"
-        width: 400
-        height: 400
-        isCached: true
   - title: "Course 40503-G: Microsoft Cloud Workshop: Enterprise-ready Cloud"
     excerpt: "In this workshop you will create an Azure Cloud Governance plan to advise a manufacturing company of the features available in Azure. You will discover features to bring governance to their Azure deployments,"
     publishedDateTime: 2020-07-01T21:47:00Z

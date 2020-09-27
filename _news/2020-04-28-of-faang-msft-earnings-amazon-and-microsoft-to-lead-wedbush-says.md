@@ -17,215 +17,157 @@ topics:
   - Azure
 
 related:
-  - title: "Microsoft Earnings Defy the Pandemic"
-    excerpt: "After gaining 4.5% during regular trading hours, shares of Microsoft (NASDAQ:MSFT) rose after hours on Wednesday when it reported its fiscal third-quarter earnings. That period included March, a month in which much of the economy had to be shut down to contain the spread of COVID-19,"
-    publishedDateTime: 2020-04-30T17:39:00Z
-    webUrl: "https://www.fool.com/investing/2020/04/30/microsoft-earnings-defy-the-pandemic.aspx"
-    ampWebUrl: "https://www.fool.com/amp/investing/2020/04/30/microsoft-earnings-defy-the-pandemic.aspx"
-    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/04/30/microsoft-earnings-defy-the-pandemic.aspx"
+  - title: "Microsoft Taps Coca-Cola to Challenge Amazon, Salesforce, and Slack"
+    excerpt: "Microsoft (NASDAQ:MSFT) recently inked a five-year cloud deal with Coca-Cola (NYSE:KO), in which the beverage maker will standardize its business operations with Microsoft's Azure, Dynamics 365, and Microsoft 365 services."
+    publishedDateTime: 2020-05-05T15:23:00Z
+    webUrl: "https://www.fool.com/investing/2020/05/05/microsoft-taps-coca-cola-challenge-amazon-slack.aspx"
+    ampWebUrl: "https://www.fool.com/amp/investing/2020/05/05/microsoft-taps-coca-cola-challenge-amazon-slack.aspx"
+    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/05/05/microsoft-taps-coca-cola-challenge-amazon-slack.aspx"
     type: article
     provider:
       name: The Motley Fool
       domain: fool.com
     quality: 82
     images:
-      - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F570470%2Fgettyimages-1172877307.jpg&w=1200&op=resize"
+      - url: "https://g.foolcdn.com/editorial/images/497755/istock_000016851885_large_large.jpg"
+        width: 580
+        height: 378
+        isCached: true
+      - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F571626%2Fcoca-cola-store-orlando-plate.jpg&w=1200&op=resize"
         width: 1200
-        height: 534
-        isCached: true
-  - title: "Microsoft earnings show strategic pivot has paid off amid COVID-19 pressures"
-    excerpt: "Microsoft Corp. managed to beat March-quarter expectations from even before the COVID-19 outbreak began to take hold, suggesting to analysts that"
-    publishedDateTime: 2020-04-30T16:21:00Z
-    webUrl: "https://www.marketwatch.com/story/microsoft-earnings-show-strategic-pivot-has-paid-off-amid-covid-19-pressures-2020-04-30"
-    ampWebUrl: "https://www.marketwatch.com/amp/story/guid/34881BF4-8AF8-11EA-B500-29C0C34A0E28"
-    cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/guid/34881BF4-8AF8-11EA-B500-29C0C34A0E28"
+        height: 800
+  - title: "Microsoft to invest $1 billion in Poland: statement"
+    excerpt: "Microsoft will invest $1 billion in Poland as part of a plan that will involve opening a data centre in the country to provide cloud services to businesses and government institutions, the company said in a statement on Tuesday."
+    publishedDateTime: 2020-05-05T09:03:00Z
+    webUrl: "https://www.reuters.com/article/us-microsoft-poland-idUSKBN22H0WP"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN22H0WP"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN22H0WP"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 79
+      name: Reuters
+      domain: reuters.com
+    quality: 82
     images:
-      - url: "https://s.marketwatch.com/public/resources/images/MW-GI919_micros_ZH_20180510083121.jpg"
-        width: 890
-        height: 501
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20200505&t=2&i=1517499643&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG440IH"
+        width: 817
+        height: 545
         isCached: true
-  - title: "Will Azure & Teams Adoption Aid Microsoft (MSFT) Q3 Earnings?"
-    excerpt: "Microsoft MSFT is scheduled to report third-quarter fiscal 2020 results on Apr 29. The tech giant has been striving to enhance capabilities of its cloud computing service — Azure, which is likely to have bolstered adoption."
-    publishedDateTime: 2020-04-27T15:17:00Z
-    webUrl: "https://www.nasdaq.com/articles/will-azure-teams-adoption-aid-microsoft-msft-q3-earnings-2020-04-27"
-    ampWebUrl: "https://www.nasdaq.com/articles/will-azure-teams-adoption-aid-microsoft-msft-q3-earnings-2020-04-27?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/will-azure-teams-adoption-aid-microsoft-msft-q3-earnings-2020-04-27?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 77
-  - title: "How will Microsoft weather the storm? Earnings will double as status report on company’s evolution"
-    excerpt: "Will problems in the Windows PC and server supply chain drag Microsoft down? Or will the boom in productivity, cloud and collaboration lift the company up? Microsoft’s earnings report"
-    publishedDateTime: 2020-04-29T16:59:00Z
-    webUrl: "https://www.geekwire.com/2020/will-microsoft-weather-storm-earnings-will-double-status-report-companys-evolution/"
-    ampWebUrl: "https://www.geekwire.com/2020/will-microsoft-weather-storm-earnings-will-double-status-report-companys-evolution/amp/"
-    cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/will-microsoft-weather-storm-earnings-will-double-status-report-companys-evolution/amp/"
+  - title: "Microsoft reportedly teamed up with Oracle to fend off Amazon for the Pentagon’s JEDI contract"
+    excerpt: "The Information revealed Monday how Microsoft had a “secret alley” — Oracle — to help land the coveted Joint Enterprise Defense Infrastructure contract, a $10 billion Pentagon project that"
+    publishedDateTime: 2020-05-11T21:55:00Z
+    webUrl: "https://www.geekwire.com/2020/microsoft-reportedly-teamed-oracle-fend-off-amazon-pentagons-jedi-contract/"
+    ampWebUrl: "https://www.geekwire.com/2020/microsoft-reportedly-teamed-oracle-fend-off-amazon-pentagons-jedi-contract/amp/"
+    cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/microsoft-reportedly-teamed-oracle-fend-off-amazon-pentagons-jedi-contract/amp/"
     type: article
     provider:
       name: GeekWire
       domain: geekwire.com
-    quality: 68
+    quality: 70
     images:
-      - url: "https://cdn.geekwire.com/wp-content/uploads/2019/12/nadella-630x418.jpg"
-        width: 630
-        height: 418
+      - url: "https://cdn.geekwire.com/wp-content/uploads/2016/04/20160404_Envision_07-1240x828.jpg"
+        width: 1240
+        height: 828
         isCached: true
-  - title: "Microsoft Is A Bargain After Earnings"
-    excerpt: "Microsoft (NASDAQ:MSFT) stock rose 5% after reporting exceptional earnings for the third quarter, which proved the"
-    publishedDateTime: 2020-05-05T11:50:00Z
-    webUrl: "https://www.nasdaq.com/articles/microsoft-is-a-bargain-after-earnings-2020-05-05"
-    ampWebUrl: "https://www.nasdaq.com/articles/microsoft-is-a-bargain-after-earnings-2020-05-05?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/microsoft-is-a-bargain-after-earnings-2020-05-05?amp"
+  - title: "Sell Salesforce Stock Now in Favor of Amazon or Microsoft"
+    excerpt: "Stock Market News, Stock Advice & Trading Tips The story with Salesforce (NYSE:CRM) isn’t all bad. The company has"
+    publishedDateTime: 2020-05-13T20:21:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/sell-salesforce-crm-stock-coronavirus-growth-1029199270"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/sell-salesforce-crm-stock-coronavirus-growth-1029199270"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/sell-salesforce-crm-stock-coronavirus-growth-1029199270"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
+      name: Business Insider
+      domain: businessinsider.com
     quality: 62
-  - title: "Microsoft Earnings on Deck: What to Watch In Its March Quarter Earnings"
-    excerpt: "Microsoft warned investors weeks ago that coronavirus disrupted its device shipments, but expects its results in other segments to be unaffected by the pandemic."
-    publishedDateTime: 2020-04-27T11:01:00Z
-    webUrl: "https://www.thestreet.com/investing/microsoft-earnings-on-deck-what-to-watch-in-its-march-quarter-earnings"
-    ampWebUrl: "https://www.thestreet.com/.amp/investing/microsoft-earnings-on-deck-what-to-watch-in-its-march-quarter-earnings"
-    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/microsoft-earnings-on-deck-what-to-watch-in-its-march-quarter-earnings"
-    type: article
-    provider:
-      name: TheStreet.com
-      domain: thestreet.com
-    quality: 42
-    images:
-      - url: "https://content.jwplatform.com/thumbs/bwKn9eIN-720.jpg"
-        width: 720
-        height: 406
-        isCached: true
-  - title: "Microsoft Reports Earnings on Wednesday. Here’s What to Expect."
-    excerpt: "Outside of the company’s PC exposure, the question is whether Microsoft will get a boost from more cloud activity, or whether a recession will slow spending and hit the company’s enterprise-software business throughout 2020 and perhaps beyond."
-    publishedDateTime: 2020-04-28T10:15:00Z
-    webUrl: "https://www.barrons.com/articles/microsoft-earnings-wednesday-personal-computing-cloud-azure-51588019515"
-    ampWebUrl: "https://www.barrons.com/amp/articles/microsoft-earnings-wednesday-personal-computing-cloud-azure-51588019515"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/microsoft-earnings-wednesday-personal-computing-cloud-azure-51588019515"
+  - title: "Sell Cloud Stocks Salesforce.com and Workday, Analyst Says"
+    excerpt: "Rosenblatt Securities’ Yun Kim sees the potential for slower-than-consensus revenue growth ahead, which he fears could trigger multiple compression for both stocks."
+    publishedDateTime: 2020-05-05T14:15:00Z
+    webUrl: "https://www.barrons.com/articles/sell-cloud-stocks-salesforce-com-and-workday-analyst-says-51588688149"
+    ampWebUrl: "https://www.barrons.com/amp/articles/sell-cloud-stocks-salesforce-com-and-workday-analyst-says-51588688149"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/sell-cloud-stocks-salesforce-com-and-workday-analyst-says-51588688149"
     type: article
     provider:
       name: Barron's
       domain: barrons.com
     quality: 42
     images:
-      - url: "https://images.barrons.com/im-144883/social"
+      - url: "https://images.barrons.com/im-183590/social"
         width: 1280
         height: 640
         isCached: true
-  - title: "Should You Buy Microsoft Stock Ahead of Earnings This Week?"
-    excerpt: "Microsoft stock has been rebounding hard from the March lows, and with good reason. Let's take a closer look at the chart ahead of earnings."
-    publishedDateTime: 2020-04-28T09:16:00Z
-    webUrl: "https://investorplace.com/2020/04/should-you-buy-microsoft-stock-ahead-of-earnings-this-week/"
-    ampWebUrl: "https://investorplace.com/2020/04/should-you-buy-microsoft-stock-ahead-of-earnings-this-week/amp/"
-    cdnAmpWebUrl: "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2020/04/should-you-buy-microsoft-stock-ahead-of-earnings-this-week/amp/"
+  - title: "Microsoft and Amazon trade more jabs in fight over DoD JEDI contract"
+    excerpt: "Microsoft and Amazon are going at it once again, penning heated blog posts in the fight over the Department of Defense's JEDI contract award. While Microsoft accuses Amazon of stalling the process in a \"force a re-do,"
+    publishedDateTime: 2020-05-08T19:29:00Z
+    webUrl: "https://www.windowscentral.com/microsoft-and-amazon-trade-more-jabs-fight-over-dod-jedi-contract"
+    ampWebUrl: "https://www.windowscentral.com/microsoft-and-amazon-trade-more-jabs-fight-over-dod-jedi-contract?amp"
+    cdnAmpWebUrl: "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/microsoft-and-amazon-trade-more-jabs-fight-over-dod-jedi-contract?amp"
     type: article
     provider:
-      name: InvestorPlace
-      domain: investorplace.com
+      name: Windows Central
+      domain: windowscentral.com
     quality: 42
     images:
-      - url: "https://investorplace.com/wp-content/uploads/2019/10/msft1600b.jpg"
-        width: 1600
-        height: 900
+      - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2017/09/microsoft-logo-2017-ignite2.jpg?itok=c3ocGDNm"
+        width: 800
+        height: 600
         isCached: true
-  - title: "Microsoft Shares Rise as Q1 Earnings, Revenues Beat Expectations"
-    excerpt: "Microsoft - Get Report shares rose in after-hours trading, as the world’s biggest software company reported first-quarter earnings that exceeded analysts’ expectations. Net in"
-    publishedDateTime: 2020-04-30T01:04:00Z
-    webUrl: "https://www.thestreet.com/investing/microsoft-beats-q1-earnings-revenues-estimates"
-    ampWebUrl: "https://www.thestreet.com/.amp/investing/microsoft-beats-q1-earnings-revenues-estimates"
-    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/microsoft-beats-q1-earnings-revenues-estimates"
+  - title: "Microsoft, Amazon trade jabs over disputed $10B JEDI contract"
+    excerpt: "Amazon’s battle with Microsoft over a $10 billion U.S. defense department cloud computing contract has gone from the courtroom to the web. In dueling blog posts peppered with harsh jabs and pointed rhetoric,"
+    publishedDateTime: 2020-05-11T04:23:00Z
+    webUrl: "https://www.bizjournals.com/seattle/news/2020/05/10/microsoft-amazon-trade-jabs-over-jedi-contract.html"
+    ampWebUrl: "https://www.bizjournals.com/seattle/news/2020/05/10/microsoft-amazon-trade-jabs-over-jedi-contract.amp.html"
+    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/seattle/news/2020/05/10/microsoft-amazon-trade-jabs-over-jedi-contract.amp.html"
     type: article
     provider:
-      name: TheStreet.com
-      domain: thestreet.com
+      name: The Business Journals
+      domain: bizjournals.com
     quality: 42
     images:
-      - url: "https://content.jwplatform.com/thumbs/6UhcmMhw-720.jpg"
-        width: 720
-        height: 406
+      - url: "https://media.bizj.us/view/img/10988802/rtrlnine110024*600xx4350-2900-100-0.jpg"
+        width: 600
+        height: 400
         isCached: true
-  - title: "Why Microsoft’s Cloud Business Can Carry It Through the Pandemic"
-    excerpt: "Many analysts raised their price targets on Microsoft shares on Thursday, with long-term enthusiasm tempered only slightly by near-term concerns."
-    publishedDateTime: 2020-04-30T16:26:00Z
-    webUrl: "https://www.barrons.com/articles/microsoft-stock-cloud-business-pandemic-covid-19-earnings-analysts-price-target-51588263881"
-    ampWebUrl: "https://www.barrons.com/amp/articles/microsoft-stock-cloud-business-pandemic-covid-19-earnings-analysts-price-target-51588263881"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/microsoft-stock-cloud-business-pandemic-covid-19-earnings-analysts-price-target-51588263881"
+  - title: "Nokia announces contributions to SONiC ecosystem led by Microsoft"
+    excerpt: "Nokia announced contributions to SONiC ecosystem led by Microsoft. Nokia has now developed a chassis-based SONiC implementation focused on the requirements of high capacity data centers."
+    publishedDateTime: 2020-05-12T14:30:00Z
+    webUrl: "https://mspoweruser.com/nokia-contributions-to-sonic-microsoft/"
+    ampWebUrl: "https://mspoweruser.com/nokia-contributions-to-sonic-microsoft/amp/"
+    cdnAmpWebUrl: "https://mspoweruser-com.cdn.ampproject.org/c/s/mspoweruser.com/nokia-contributions-to-sonic-microsoft/amp/"
     type: article
     provider:
-      name: Barron's
-      domain: barrons.com
+      name: MSPoweruser
+      domain: mspoweruser.com
     quality: 42
     images:
-      - url: "https://images.barrons.com/im-182026/social"
-        width: 1280
-        height: 640
+      - url: "https://mspoweruser.com/wp-content/uploads/2017/01/data-centers.jpg"
+        width: 1000
+        height: 550
         isCached: true
-  - title: "Microsoft Q3 Earnings Preview: Eyeing Cloud, Home, And Business Solutions"
-    excerpt: "Microsoft Corporation (NASDAQ: MSFT) solid earnings results helped kick off a sharp rally in the stock. Part of this rise had to do with MSFT’s guidance,"
-    publishedDateTime: 2020-04-27T20:24:00Z
-    webUrl: "https://www.benzinga.com/news/earnings/20/04/15889755/microsoft-q3-earnings-preview-eyeing-cloud-home-and-business-solutions"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/15889755"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15889755"
+  - title: "Amazon launched another JEDI contract complaint to DOD, and Microsoft responds"
+    excerpt: "In a blog post, Frank X. Shaw, Microsoft Corporate Vice President, Communications, revealed that Amazon has launched another bid to prevent Microsoft from fulfilling the Pentagon’s JEDI contract, which would update the Department of Defences’s IT services to a modern cloud-based back-end."
+    publishedDateTime: 2020-05-07T22:24:00Z
+    webUrl: "https://mspoweruser.com/amazon-launched-another-jedi-contract-complaint-to-dod-and-microsoft-responds/"
+    ampWebUrl: "https://mspoweruser.com/amazon-launched-another-jedi-contract-complaint-to-dod-and-microsoft-responds/amp/"
+    cdnAmpWebUrl: "https://mspoweruser-com.cdn.ampproject.org/c/s/mspoweruser.com/amazon-launched-another-jedi-contract-complaint-to-dod-and-microsoft-responds/amp/"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 41
+      name: MSPoweruser
+      domain: mspoweruser.com
+    quality: 38
     images:
-      - url: "https://www.benzinga.com/files/images/story/2012/untitled-1-recovered_3.png"
-        width: 1120
-        height: 630
+      - url: "https://mspoweruser.com/wp-content/uploads/2019/10/109411443_gettyimages-853699560.jpg"
+        width: 660
+        height: 371
         isCached: true
-  - title: "Microsoft weathers the coronavirus storm as earnings rise on cloud business"
-    excerpt: "Analysts expected as much, and that's one reason Microsoft's stock is closing in on the all-time high it hit in early February."
-    publishedDateTime: 2020-04-29T20:40:00Z
-    webUrl: "https://www.seattletimes.com/business/microsoft/microsoft-weathers-the-coronavirus-storm-posting-earnings-boost-from-its-cloud-business/"
-    ampWebUrl: "https://www.seattletimes.com/business/microsoft/microsoft-weathers-the-coronavirus-storm-posting-earnings-boost-from-its-cloud-business/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/microsoft/microsoft-weathers-the-coronavirus-storm-posting-earnings-boost-from-its-cloud-business/?amp=1"
+  - title: "Microsoft slams Amazon's Cloud arm for blocking $10bn Pentagon project"
+    excerpt: "Microsoft has come out in the open against ecommerce giant Amazon's Cloud arm, slamming Amazon Web Services (AWS) for once again challenging the US government's decision to award $10 billion Pentagon Cloud project to Satya Nadella-run enterprise - this time out of view from the public and directly with the US Department of Defense (DoD)."
+    publishedDateTime: 2020-05-08T10:26:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Science/20200508/3554531.html"
     type: article
     provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 40
-    images:
-      - url: "https://static.seattletimes.com/wp-content/uploads/2020/04/140922-300x215.jpg"
-        width: 300
-        height: 215
-        isCached: true
-  - title: "New earnings report shows Microsoft’s shift to cloud and subscriptions is working"
-    excerpt: "Microsoft's Q3 2020 earnings report showed growth for all three of the company's business segments, which hasn't even always happened in a \"normal\" quarter. Productivity, which includes services like Office and LinkedIn,"
-    publishedDateTime: 2020-05-01T18:40:00Z
-    webUrl: "https://arstechnica.com/gadgets/2020/05/despite-covid-19-every-part-of-microsofts-business-grew-this-quarter/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 37
-  - title: "Microsoft Earnings: Maybe A Pleasant Surprise"
-    excerpt: "While the COVID-19 crisis will likely spare very few companies, Microsoft could perform substantially better than the rest of the pack. The company reports earn"
-    publishedDateTime: 2020-04-29T10:04:00Z
-    webUrl: "https://seekingalpha.com/article/4340840-microsoft-earnings-maybe-pleasant-surprise"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
+      name: Webindia 123
+      domain: webindia123.com
     quality: 2
-  - title: "Microsoft And Amazon Pre-Earnings: A Look At The Numbers With Some Color Too"
-    excerpt: "Microsoft's June '20 quarter revenue estimate is 10% higher sequentially than the March '20 quarter - a positive and important tell. The slight downward negativ"
-    publishedDateTime: 2020-04-29T10:46:00Z
-    webUrl: "https://seekingalpha.com/article/4340852-microsoft-and-amazon-pre-earnings-look-numbers-color-too"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 0
 
 secured: "wW3//9SS6EvrOTpH275YoGP648pHZ/tqcMqbZ3MZOvp2kxqn8KsMS7Ka1cEGyxqLUki50Js0YqFabAkmdEFWLHygSKGy6QYEeLSvyyoJOwMcT0nnYpffdsUMp6GpIlOq4ozMqcwj64VjDDyBcUkvFABhZGPHH3PL/2eMkbhk/Bx82AtjKy3XpOmufcYJsBV33+IiMp2xnQo/UMA4wxcvuh+m/kuiWBNQxMlGR3kG6MDrfgY82ggySv5CEfJT1Nyku4qwHS4docnnkKMPetk7518anlqBvErZxIrQ6dZ1H+NP6DXQ/DCiT7ywkmXtYJnp;H/q+zvkfQrJ8oaeYu599iA=="
 ---

@@ -6,8 +6,8 @@ publishedDateTime: 2020-06-18T09:30:27Z
 originalUrl: "https://azure.microsoft.com/blog/achieve-higher-performance-and-cost-savings-on-azure-with-virtual-machine-bursting/"
 webUrl: "https://azure.microsoft.com/blog/achieve-higher-performance-and-cost-savings-on-azure-with-virtual-machine-bursting/"
 type: article
-quality: 85
-heat: 145
+quality: 102
+heat: 122
 published: true
 
 provider:
@@ -22,6 +22,7 @@ topics:
   - Azure
   - Storage
   - Management tools
+  - Compute
 
 images:
   - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/977114bc-6c0d-44dd-bdb3-413fd3bcbeed.png"
@@ -40,24 +41,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 60
-  - title: "Announcing extended term reservation for the Azure HBv2 Virtual Machine"
-    excerpt: "High-performance computing (HPC) organizations typically calculate cost projections five-to-six years for the typical lifespan of an on-premises HPC cluster. "
-    publishedDateTime: 2020-06-22T16:00:22Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/announcing-extended-term-reservation-for-the-azure-hbv2-virtual-machine/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 17
-  - title: "Ephemeral OS disks for Azure Virtual Machines (VMs) now support additional VM sizes"
-    excerpt: "You now have the ability to store ephemeral OS disks on the VM temp or resource disk in addition to the VM cache (in preview). "
-    publishedDateTime: 2020-06-25T23:00:32Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/ephemeral-os-disks-for-azure-vms-now-supports-additional-vm-sizes/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 11
 
 secured: "zp8UA8OQST293dgigSmGq19yaRaoE/8CDZRAu9FY4RZWj6UVmBEQW0eJr4qgGMqwqMlFdPveN9wHp8RZHVVaJahgGgn/Oys7jcfzlTvrH+XSjGpoOctkmpLNKvcJoMs+ONKLEtx02sRMsodYU6z+xR7YGPFeOi/rFSsIW9A8TSfkCzKSW7RwzQWfV44/GvFAsVlNyfvYTq0hcZucaMM7av42Efo0apRRAxY0TtoeFh+CLtn8TvbmoxkoDhV7n0zWFNRwco+kqT0RmNFU8oaxXM/p/JBUdfzyglPM6eqRXDg5aABMK03saFWLk2BwbVjzkS1/p1mPo/ArXuK7rXPniEpGgGpyn0l5lLmM21EuHeY=;qqleWbK5oUKVEjelUUNsNw=="
 ---

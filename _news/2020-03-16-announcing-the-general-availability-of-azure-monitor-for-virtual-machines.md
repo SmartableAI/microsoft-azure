@@ -58,6 +58,15 @@ related:
         width: 1024
         height: 696
         isCached: true
+  - title: "Announcing the general availability of Azure shared disks and new Azure Disk Storage enhancements"
+    excerpt: "Today, we’re announcing the general availability of—enabling you to migrate your existing on-premises Windows and Linux-based clustered environments to Azure. We’re also announcing important new disk enhancements to provide you with more availability, security, and flexibility on Azure."
+    publishedDateTime: 2020-07-16T09:00:39Z
+    webUrl: "https://azure.microsoft.com/blog/announcing-the-general-availability-of-azure-shared-disks-and-new-azure-disk-storage-enhancements/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 73
   - title: "Azure Pipelines announces the general availability of scale-set agents"
     excerpt: "In the last two months, we improved the reliability in performing various scale-set operations. We have updated the guidance on how to improve the performance of provisioning new virtual machines."
     publishedDateTime: 2020-09-11T21:13:11Z
@@ -67,15 +76,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
-  - title: "Announcing the general availability of Azure shared disks and new Azure Disk Storage enhancements"
-    excerpt: "Today, we’re announcing the general availability of—enabling you to migrate your existing on-premises Windows and Linux-based clustered environments to Azure. We’re also announcing important new disk enhancements to provide you with more availability, security, and flexibility on Azure."
-    publishedDateTime: 2020-07-16T09:00:39Z
-    webUrl: "https://azure.microsoft.com/blog/announcing-the-general-availability-of-azure-shared-disks-and-new-azure-disk-storage-enhancements/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 58
   - title: "Microsoft Announces the General Availability of Azure Spring Cloud"
     excerpt: "Microsoft and VMWare both announced the general availability of Azure Spring Cloud, a fully-managed service for Spring Boot apps. The service allows enterprises to deploy JARs or code to it, and the service automates the process of wiring the apps to the Spring service runtime."
     publishedDateTime: 2020-09-09T11:11:00Z

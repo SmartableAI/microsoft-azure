@@ -24,20 +24,142 @@ images:
     title: "Microsoft adds more APIs to its Azure Cognitive Services for developers"
 
 related:
-  - title: "Azure AI: Build mission-critical AI apps with new Cognitive Services capabilities"
-    excerpt: "As the world adjusts to new ways of working and staying connected, we remain committed to providing Azure AI solutions to help organizations invent with purpose."
-    publishedDateTime: 2020-07-08T08:00:52Z
-    webUrl: "https://azure.microsoft.com/blog/azure-ai-build-missioncritical-ai-apps-with-new-cognitive-services-capabilities/"
+  - title: "Microsoft announces Azure-centric alliance with C.H. Robinson"
+    excerpt: "With focus lying on the digital transformation of supply chains, the partnership between Microsoft and C.H. Robinson will look toward leveraging Azure, Azure IoT, and the Navisphere platform."
+    publishedDateTime: 2020-07-14T21:44:00Z
+    webUrl: "https://www.neowin.net/news/microsoft-announces-azure-centric-alliance-with-ch-robinson"
+    ampWebUrl: "https://www.neowin.net/amp/microsoft-announces-azure-centric-alliance-with-ch-robinson/"
+    cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-announces-azure-centric-alliance-with-ch-robinson/"
     type: article
     provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 84
+      name: Neowin
+      domain: neowin.net
+    quality: 97
     images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/6c142214-bbee-499c-bf07-e565fcbc4294.jpg"
-        width: 1024
-        height: 576
+      - url: "https://cdn.neow.in/news/images/uploaded/2020/07/1594761150_microsoft_c.h._robinson_logo_story.jpg"
+        width: 760
+        height: 428
         isCached: true
+  - title: "Microsoft and Samsung partner to digitize building maintenance via Azure and smart appliances"
+    excerpt: "The companies will pair Samsung’s smart home appliances and devices with Microsoft’s Azure cloud technology, with the aim of improving building maintenance practices. “This collaboration with Samsung opens up new opportunities for further innovation ..."
+    publishedDateTime: 2020-07-13T17:12:00Z
+    webUrl: "https://www.geekwire.com/2020/microsoft-samsung-partner-digitize-building-maintenance-via-azure-smart-appliances/"
+    ampWebUrl: "https://www.geekwire.com/2020/microsoft-samsung-partner-digitize-building-maintenance-via-azure-smart-appliances/amp/"
+    cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/microsoft-samsung-partner-digitize-building-maintenance-via-azure-smart-appliances/amp/"
+    type: article
+    provider:
+      name: GeekWire
+      domain: geekwire.com
+    quality: 86
+    images:
+      - url: "https://cdn.geekwire.com/wp-content/uploads/2016/04/IMG_9235-1240x827.jpg"
+        width: 1240
+        height: 827
+        isCached: true
+  - title: "Accelerating ATO in Microsoft Azure"
+    excerpt: "While your cloud provider manages security OF the cloud, security IN the cloud is the responsibility of the customer. During this on-demand webinar, Microsoft Azure’s Chief Information Security Officer for High Security Clouds, Mr. Richard Scher ..."
+    publishedDateTime: 2020-07-09T03:51:00Z
+    webUrl: "https://www.infoworld.com/resources/205509/accelerating-ato-in-microsoft-azure"
+    type: article
+    provider:
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 77
+    images:
+      - url: "https://idge.staticworld.net/ifw/IFW_logo_social_300x300.png"
+        width: 300
+        height: 300
+        isCached: true
+  - title: "Microsoft (MSFT) Azure to Aid Digital Overhaul of Halliburton"
+    excerpt: "Per the deal, Microsoft’s cloud platform Azure will help Halliburton enhance its customer offerings and drive digital transformation. Markedly, Azure’s advanced cloud computing capabilities will be leveraged by Halliburton to support remote work ..."
+    publishedDateTime: 2020-07-20T17:23:00Z
+    webUrl: "https://www.nasdaq.com/articles/microsoft-msft-azure-to-aid-digital-overhaul-of-halliburton-2020-07-20"
+    ampWebUrl: "https://www.nasdaq.com/articles/microsoft-msft-azure-to-aid-digital-overhaul-of-halliburton-2020-07-20?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/microsoft-msft-azure-to-aid-digital-overhaul-of-halliburton-2020-07-20?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 77
+  - title: "Azure and Citrix Workspace Now at Center of Microsoft-Citrix Pact"
+    excerpt: "Citrix will use Microsoft Azure as its preferred cloud services provider, while Microsoft will promote Citrix Workspace as a 'preferred digital workspace solution.'"
+    publishedDateTime: 2020-07-15T22:19:00Z
+    webUrl: "https://rcpmag.com/articles/2020/07/15/azure-citrix-workspace.aspx"
+    type: article
+    provider:
+      name: Redmond Channel Partner
+      domain: rcpmag.com
+    quality: 37
+    images:
+      - url: "https://rcpmag.com/-/media/ECG/VirtualizationReview/Images/introimages2014/GENOneRedBallConnectedToWhiteBalls.jpg"
+        width: 647
+        height: 450
+        isCached: true
+  - title: "Barracuda launches secure SD-WAN service built natively on Microsoft Azure"
+    excerpt: "WAN service built natively on Microsoft Azure. The new Barracuda CloudGen WAN service is the first SD-WAN solution that runs inside Azure Virtual WAN Hubs. Hubs can be interconnected through the Microsoft Global Network."
+    publishedDateTime: 2020-07-20T02:02:00Z
+    webUrl: "https://www.helpnetsecurity.com/2020/07/20/barracuda-sd-wan-service/"
+    type: article
+    provider:
+      name: Help Net Security
+      domain: helpnetsecurity.com
+    quality: 35
+    images:
+      - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/06/15084653/insecure-66.jpg"
+        width: 304
+        height: 430
+        isCached: true
+  - title: "Alithya Launches AI-FI™ Trade Surveillance Solution Powered by Microsoft Azure"
+    excerpt: "\"By hosting AI-FI™ Trade Surveillance on Microsoft Azure, we have increased our flexibility in configuration, while decreasing implementation time and cost. The advanced security features of ..."
+    publishedDateTime: 2020-07-15T11:43:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/alithya-launches-ai-fi-trade-surveillance-solution-powered-by-microsoft-azure-301093861.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 33
+    images:
+      - url: "https://mma.prnewswire.com/media/1214660/Alithya_Alithya_Launches_AI_FI__Trade_Surveillance_Solution_Powe.mp4?p=medium"
+        width: 512
+        height: 288
+        isCached: true
+  - title: "Alithya Launches AI-FI(TM) Trade Surveillance Solution Powered by Microsoft Azure"
+    excerpt: "PRNewswire/ - Alithya Group inc. (TSX: ALYA) (NASDAQ: ALYA) (« Alithya »), a leader in digital strategy and technologies employing more than 2,000 highly qualified professionals"
+    publishedDateTime: 2020-07-15T11:39:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/alithya-launches-ai-fi-tm-trade-surveillance-solution-powered-by-microsoft-azure/article_799b4fa7-7527-584a-b238-0f1c1f27756d.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 32
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "The Microsoft Police State: Mass Surveillance, Facial Recognition, and the Azure Cloud"
+    excerpt: "Microsoft helps police surveil and patrol communities through its own offerings and a network of partnerships — while its PR efforts obscure this."
+    publishedDateTime: 2020-07-14T19:45:00Z
+    webUrl: "https://theintercept.com/2020/07/14/microsoft-police-state-mass-surveillance-facial-recognition/"
+    type: article
+    provider:
+      name: The Intercept
+      domain: theintercept.com
+    quality: 29
+    images:
+      - url: "https://theintercept.imgix.net/wp-uploads/sites/1/2020/07/ms-police-state-final-theintercept.jpg?auto=compress%2Cformat&q=90&fit=crop&w=1200&h=800"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Snowflake Achieves FedRAMP Moderate Authorization for Snowflake on AWS and Microsoft Azure Government"
+    excerpt: "Snowflake, the cloud data platform, today announced it has achieved Federal Risk and Authorization Management Program (FedRAMP) Moderate Authorization"
+    publishedDateTime: 2020-07-08T17:32:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200708005692/en/Snowflake-Achieves-FedRAMP-Moderate-Authorization-Snowflake-AWS"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 2
 
 secured: "zsoVZLTu98ORQPRwU3x2c8hUKx1GICIDhwiUlQWvrdWqHoBANCu74NF8vyA21qng5/lGzj5tX33oSZyivdlwokVcc0Lo8qmmKsnZL83nW+6f81RIy6odLccwED4PMQ3YwvpBP+fft0iix803OJajvv8B2OpCnmw74FnMCo2e5RYxJcQafiN5idZg1uoC6kYshF8oCwSNyDwkMSPhjiUIYujUuQ3qfXItSYea5rXIXlRib1y427lPt8IDQXZC0n0OIf1qLkOIuOtXcyU5PFRxmn1o0efdiCUImgZ4JMlT+w+KyjLGa60DxdTcow9Hf+WNtUV6KFc+osUcTkrDTHZZ+ZC4ALTWq/ZX7DreV/9j/oeKSmDjatyvXEBnVk0DofXFNIC1Kubp4lUtN/f+occd0nQdmgqjGiZmqWx/YlDtuuhnoKOQO+J8xYt/mLhvg/HF9sbsKl7/80qYeXqcAE9a3Y4H+POYgbUkqtSYZD3wrMGyZksiQ1bCgXTrar4uLXR8;TGBrKeCoeEGoA0zi8MEKXA=="
 ---

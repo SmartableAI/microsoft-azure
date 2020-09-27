@@ -6,8 +6,8 @@ publishedDateTime: 2020-06-23T10:00:03Z
 originalUrl: "https://azure.microsoft.com/blog/azure-container-registry-securing-container-workflows/"
 webUrl: "https://azure.microsoft.com/blog/azure-container-registry-securing-container-workflows/"
 type: article
-quality: 89
-heat: 89
+quality: 106
+heat: 106
 published: true
 
 provider:
@@ -21,6 +21,7 @@ provider:
 topics:
   - Azure
   - Security
+  - Containers
 
 images:
   - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/ecfc63bf-21d1-493f-9f76-e1f895dc90a9.png"

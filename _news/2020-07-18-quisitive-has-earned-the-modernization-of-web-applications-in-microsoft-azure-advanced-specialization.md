@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-18T19:19:00Z
 webUrl: "https://www.marketwatch.com/press-release/quisitive-has-earned-the-modernization-of-web-applications-in-microsoft-azure-advanced-specialization-2020-07-14"
 type: article
 quality: 62
-heat: 222
+heat: 162
 published: true
 
 provider:
@@ -27,75 +27,45 @@ images:
     isCached: true
 
 related:
-  - title: "Apptio Launches Rightsizing Recommendations for Microsoft Azure"
-    excerpt: "July 21, 2020 /PRNewswire/ -- Apptio, Inc., a leading provider of technology business management (TBM) solutions that help organizations analyze, plan, and optimize technology spend, today announced rightsizing recommendations for Microsoft Azure SQL ..."
-    publishedDateTime: 2020-07-21T13:04:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/apptio-launches-rightsizing-recommendations-for-microsoft-azure-301096563.html"
+  - title: "Axilion Smart Mobility recognized as the finalist of Azure - AI and Machine Learning 2020 Microsoft Partner of the Year"
+    excerpt: "Global Partner of the Year 2020 in AI & Machine Learning Mr. Moshe Leon, Mayor of Jerusalem - \" Jerusalem's long-standing partnership with Axilion is getting international recognition once again, with Microsoft's announcement of Axilion as this year's finalist in their Global 2020 Partner of the Year Award by Microsoft's top management."
+    publishedDateTime: 2020-07-15T07:49:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/axilion-smart-mobility-recognized-as-the-finalist-of-azure-ai-and-machine-learning-2020-microsoft-partner-of-the-year-1029393925"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/axilion-smart-mobility-recognized-as-the-finalist-of-azure-ai-and-machine-learning-2020-microsoft-partner-of-the-year-1029393925"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/axilion-smart-mobility-recognized-as-the-finalist-of-azure-ai-and-machine-learning-2020-microsoft-partner-of-the-year-1029393925"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 53
+  - title: "IFI Techsolutions Recognized as a Finalist of OSS on Azure 2020 Microsoft Partner of the Year"
+    excerpt: "IFI Techsolutions today announced it has been named a finalist of OSS on Azure 2020 Microsoft Partner of the Year Award. The company"
+    publishedDateTime: 2020-07-13T19:30:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/ifi-techsolutions-recognized-as-a-finalist-of-oss-on-azure-2020-microsoft-partner-of-the-year-301092416.html"
     type: article
     provider:
       name: PR Newswire
       domain: prnewswire.com
-    quality: 37
+    quality: 26
     images:
-      - url: "https://mma.prnewswire.com/media/82080/apptio_logo.jpg?p=facebook"
-        width: 2421
-        height: 1270
+      - url: "https://mma.prnewswire.com/media/1213735/IFI_Techsolutions_Finalist_Microsoft_Partner_Award.jpg?p=facebook"
+        width: 2560
+        height: 1340
         isCached: true
-  - title: "Insight Earns Advanced Specialization in Four Areas of Microsoft Azure"
-    excerpt: "Insight also fields more than 1,000 Azure-focused engineers, developers and technical consultants, plus more than 2,000 Microsoft-focused services and technical professionals, maintaining more ..."
-    publishedDateTime: 2020-07-28T14:06:00Z
-    webUrl: "https://tucson.com/business/insight-earns-advanced-specialization-in-four-areas-of-microsoft-azure/article_88eb5653-7cf8-5650-a7f8-8b0ece08820f.html"
-    type: article
-    provider:
-      name: Arizona Daily Star
-      domain: tucson.com
-    quality: 37
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/tucson.com/content/tncms/custom/image/80e87ada-cfb0-11e7-b59b-a75438cf81bb.png"
-        width: 620
-        height: 290
-        isCached: true
-  - title: "MSRCosmos Has Earned the SAP on Microsoft Azure Advanced Specialization Status"
-    excerpt: "MSRCosmos ( today announced it has earned the SAP on Microsoft Azure advanced specialization, a validation of a"
-    publishedDateTime: 2020-08-04T00:15:00Z
-    webUrl: "https://www.prnewswire.com/in/news-releases/msrcosmos-has-earned-the-sap-on-microsoft-azure-advanced-specialization-status-863201932.html"
+  - title: "IFI Techsolutions Recognized as a Finalist of OSS on Azure 2020 Microsoft Partner of the Year"
+    excerpt: "MUMBAI, July 14, 2020 /PRNewswire/ -- IFI Techsolutions today announced it has been named a finalist of OSS on Azure 2020 Microsoft Partner of the Year Award. The company was honored among a global field of top Microsoft partners for demonstrating ..."
+    publishedDateTime: 2020-07-14T04:50:00Z
+    webUrl: "https://www.prnewswire.com/in/news-releases/ifi-techsolutions-recognized-as-a-finalist-of-oss-on-azure-2020-microsoft-partner-of-the-year-830017699.html"
     type: article
     provider:
       name: PR Newswire
       domain: prnewswire.com
-    quality: 33
+    quality: 26
     images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
+      - url: "http://mma.prnewswire.com/media/1213735/IFI_Techsolutions_Finalist_Microsoft_Partner_Award.jpg?p=facebook"
+        width: 2560
+        height: 1340
         isCached: true
-  - title: "Insight Earns Advanced Specialization in Four Areas of Microsoft Azure"
-    excerpt: "Insight also fields more than 1,000 Azure-focused engineers, developers and technical consultants, plus more than 2,000 Microsoft-focused services and technical professionals, maintaining more ..."
-    publishedDateTime: 2020-07-30T20:05:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200728005589/en/Insight-Earns-Advanced-Specialization-Areas-Microsoft-Azure/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ%3D%3D"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 17
-  - title: "Insight Earns Advanced Specialization in Four Areas of Microsoft Azure"
-    excerpt: "Insight also fields more than 1,000 Azure-focused engineers, developers and technical consultants, plus more than 2,000 Microsoft-focused services and technical professionals, maintaining more than 3,000 technical certifications combined. “Insight and ..."
-    publishedDateTime: 2020-07-31T08:07:00Z
-    webUrl: "https://stockhouse.com/news/press-releases/2020/07/28/insight-earns-advanced-specialization-in-four-areas-of-microsoft-azure"
-    type: article
-    provider:
-      name: Stockhouse
-      domain: stockhouse.com
-    quality: 17
-  - title: "Insight Earns Advanced Specialization in Four Areas of Microsoft Azure"
-    excerpt: "Insight Digital Innovation services demonstrate deep knowledge across Windows/SQL Server migration, Kubernetes, data warehouse migration and web application modernization Insight Enterprises (NASDAQ:NSIT),"
-    publishedDateTime: 2020-08-08T18:57:00Z
-    webUrl: "https://www.morningstar.com/news/business-wire/20200728005589/insight-earns-advanced-specialization-in-four-areas-of-microsoft-azure"
-    type: article
-    provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 17
   - title: "Ukrainian Azure Expert MSP Partner strengthens its Azure skills with achieved two Microsoft Advanced Specializations"
     excerpt: "Cloud Services has earned the Modernization of Web Applications in Microsoft Azure advanced specialization, and Windows Server and SQL Server Migration to Microsoft Azure advanced specialization, a validation of a solution partner’s in-depth knowledge ..."
     publishedDateTime: 2020-07-24T10:12:00Z
@@ -110,14 +80,16 @@ related:
         width: 768
         height: 512
         isCached: true
-  - title: "MSRCosmos Has Earned the SAP on Microsoft Azure Advanced Specialization Status"
-    excerpt: "SEATTLE, Aug. 3, 2020 /PRNewswire/ -- MSRCosmos (www.msrcosmos.com), today announced it has earned the SAP on Microsoft Azure advanced specialization, a validation of a services partner's deep ..."
-    publishedDateTime: 2020-08-03T15:08:00Z
-    webUrl: "https://www.morningstar.com/news/pr-newswire/20200803la79280/msrcosmos-has-earned-the-sap-on-microsoft-azure-advanced-specialization-status"
+  - title: "Axilion Smart Mobility recognized as the finalist of Azure - AI and Machine Learning 2020 Microsoft Partner of the Year"
+    excerpt: "Axilion Smart Mobility today announced it was recognized as a finalist in Azure - AI and Machine Learning 2020 Microsoft Partner of the Year Award. The company was honored among"
+    publishedDateTime: 2020-07-14T19:05:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/07/p16620223/axilion-smart-mobility-recognized-as-the-finalist-of-azure-ai-and-machine-learning-2020-microsoft-"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/16620223"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16620223"
     type: article
     provider:
-      name: Morningstar%2c Inc.
-      domain: morningstar.com
+      name: Benzinga.com
+      domain: benzinga.com
     quality: 13
 
 secured: "DF42b/0XX5FiKQyWdSxdp3rJL+lpSBaFel8hCj04WfPfuVsWwPhgisJqIQm3gfGEaJpDYMujnvNeMtBD38GwjNUG10GLDcKXUyDZiSaqmNOa/27+UHdKuYxOIV9H4hHu7Hjmd9YcWPoFjQIVtCb6nX5ZJLssTPMlYT7Ec4O72+UuCiPHM9ksosSIBjxySqumt/D9DeqCLrf7HyQF4sszyOTLIqRgudzWsQ3j/ExMHddHZFtk9VbMR/iCdCwpsBXKRKvDG1EY/oB4jtcnjuuUK5aiLm0gu4CQRmpSJFe6RqdopRk+i8DWUKrueAb+X4SiikIHHbyTN86kS2gc1dULZw==;72Co4ydV8wRJCXpiLqGm6A=="

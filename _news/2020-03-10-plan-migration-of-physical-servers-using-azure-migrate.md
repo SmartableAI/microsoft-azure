@@ -6,8 +6,8 @@ publishedDateTime: 2020-03-10T10:00:09Z
 originalUrl: "https://azure.microsoft.com/blog/plan-migration-of-physical-servers-using-azure-migrate/"
 webUrl: "https://azure.microsoft.com/blog/plan-migration-of-physical-servers-using-azure-migrate/"
 type: article
-quality: 106
-heat: 146
+quality: 121
+heat: 161
 published: true
 
 provider:
@@ -39,7 +39,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 104
+    quality: 119
     images:
       - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/5e1ed9d8-5fd5-45d0-9a03-1a6c9a8b2da0.png"
         width: 1024

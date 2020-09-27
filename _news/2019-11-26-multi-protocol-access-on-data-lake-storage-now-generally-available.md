@@ -5,8 +5,8 @@ excerpt: "We are excited to announce the general availability of multi-protocol 
 publishedDateTime: 2019-11-26T13:00:34Z
 webUrl: "https://azure.microsoft.com/blog/multi-protocol-access-on-data-lake-storage-now-generally-available/"
 type: article
-quality: 24
-heat: 24
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -29,24 +29,15 @@ images:
     title: "Multi-protocol access on Data Lake Storage now generally available"
 
 related:
-  - title: "Filesystem SDKs for Azure Data Lake Storage Gen2 now generally available"
-    excerpt: "Since the general availability of Azure Data Lake Storage (ADLS) Gen2 in Feb 2019, customers have been getting insights for their big data analytics workloads at cloud scale. Integration to analytics engines is critical for their analytics workloads, and equally important is the ability to programmatically"
-    publishedDateTime: 2020-03-19T09:00:12Z
-    webUrl: "https://azure.microsoft.com/blog/filesystem-sdks-for-azure-data-lake-storage-gen2-now-generally-available/"
+  - title: "SAP HANA backup using Azure Backup is now generally available"
+    excerpt: "We are sharing that Microsoft Azure Backup’s solution for SAP HANA databases is generally available in all Azure Public and Gov Regions (with the exception of Germany Northeast and Germany central, France South & US Gov IOWA).\r\n\r\nAzure Backup is Azure's native backup solution, which is BackInt certified"
+    publishedDateTime: 2019-12-02T13:00:29Z
+    webUrl: "https://azure.microsoft.com/blog/sap-hana-backup-using-azure-is-now-generally-available/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 20
-  - title: "Azure Data Lake Storage lifecycle management is now generally available"
-    excerpt: "Lifecycle management for Azure Data Lake Storage provides an automated solution for tiering down infrequently used data to cooler tiers, allowing you to easily optimize your data for both performance and cost.   "
-    publishedDateTime: 2020-07-31T20:00:18Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/lifecycle-management-for-azure-data-lake-storage-is-now-generally-available/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 17
+    quality: 19
 
 secured: "ap7nz+3r3lDY2X7pJyQbwhagijuk5N4dh+7vTKI3NziS4zd0Ch5bG8s2XWC5X50IbZP46ZQBsE/ZUcH0JYcvaXiYgaH3aQdU8a39AkRPaPdiN15itipSj+UmGrwhYPcp/AaK54WiV/VztSXNqujs4JIXITjiFq+WwO4ex/rDua8JC9cgwR8K28z2xV5HJdLyuOBNLqT6eYct3/GvpEMxqQOqJ3tLrZviYXn2u9kMLl+n+cHzOeW61pqhop3t+MBo/P3VnT67zjXEkPylhw2NMqK0t6/mawZJX6M4vljMRlJoB+47BEhbF3F/zhbZGgpVX/6XfeECbPHrbuENHZNwzw==;SAVjmh74XtVJnhB8vCeFCQ=="
 ---

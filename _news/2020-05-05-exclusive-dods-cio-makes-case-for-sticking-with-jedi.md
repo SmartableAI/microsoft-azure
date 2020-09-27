@@ -42,6 +42,36 @@ related:
         width: 300
         height: 201
         isCached: true
+  - title: "AWS files a second JEDI protest with the DOD"
+    excerpt: "AWS has claimed the latest salvo in a near interminable legal war over JEDI, filing a second protest to seek more info over the Pentagon's corrective action of the contract."
+    publishedDateTime: 2020-05-08T00:27:00Z
+    webUrl: "https://www.bizjournals.com/washington/news/2020/05/07/aws-files-a-second-jedi-protest-with-the-dod.html"
+    ampWebUrl: "https://www.bizjournals.com/washington/news/2020/05/07/aws-files-a-second-jedi-protest-with-the-dod.amp.html"
+    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/washington/news/2020/05/07/aws-files-a-second-jedi-protest-with-the-dod.amp.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 42
+    images:
+      - url: "https://media.bizj.us/view/img/10654474/3124262891-11*600xx4000-2667-0-0.jpg"
+        width: 600
+        height: 400
+        isCached: true
+  - title: "First Ring Daily Live: Return of the Jedi"
+    excerpt: "On this live edition of First Ring Daily, Microsoft and Amazon are fighting it out again, Outlook gets a new feature, and Google has a new communication tools boss."
+    publishedDateTime: 2020-05-08T16:41:00Z
+    webUrl: "https://www.thurrott.com/podcasts/235977/first-ring-daily-live-return-of-the-jedi"
+    type: article
+    provider:
+      name: Thurrott
+      domain: thurrott.com
+    quality: 22
+    images:
+      - url: "https://www.thurrott.com/wp-content/uploads/sites/2/2016/10/First-Ring-Daily-FRD-Hero-1024x576.jpg"
+        width: 1024
+        height: 576
+        isCached: true
 
 secured: "OUDyw5ZB4o4i4fU7lvwiNx7TSt2KY/KNBbh5n3Atun08FZSYGFDjXu5+H3RzZnB6RlK4rLIioGnusSmLNM/IzJ2KoxI77piMCTy4rD6Y5312lJ2sFP3qDzGbGgkkUsb2de9NtU44b1FcATMSvBpRhk5Xp24axGrM0FqcVLotSHvnH9pLPwic78o4JS+uY7VWVriCvP71NmQJuEm4848NfruY1SVo/gTyGOV5GVWjpjgi0FPObm7LC85O6UeMTtyjXCgId1fry6Wor+SAKIkblKHUXxK1KdBba8I8i3mqdecJMLVu++DeFR1hNXiDWMsDPgFiO8RMMV5fJrtkQ+a4Tbz6DUFzYDUhy7UkXlJzuhcyVpCIhbvjGjkgqqS/ghWQZu/MOzY4W1lgYT+kan8CCAoAerRAB+IdcURn4viF6Nswvb85i0VHVInLCmzTYLiodmco9VALCNS+cIMxqbsVq1+i59evCzSGiYs/g5W7dbI=;S7BD7RRIpJ19jm0Pg3HxVw=="
 ---

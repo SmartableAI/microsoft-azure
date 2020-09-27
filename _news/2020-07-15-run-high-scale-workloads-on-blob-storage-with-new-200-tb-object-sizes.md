@@ -6,8 +6,8 @@ publishedDateTime: 2020-07-15T09:00:26Z
 originalUrl: "https://azure.microsoft.com/blog/run-high-scale-workloads-on-blob-storage-with-new-200-tb-object-sizes/"
 webUrl: "https://azure.microsoft.com/blog/run-high-scale-workloads-on-blob-storage-with-new-200-tb-object-sizes/"
 type: article
-quality: 91
-heat: 91
+quality: 106
+heat: 106
 published: true
 
 provider:

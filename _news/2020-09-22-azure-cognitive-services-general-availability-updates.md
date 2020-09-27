@@ -7,8 +7,8 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/azure-cognitive-services
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-cognitive-services-general-availability-updates/"
 type: article
 quality: 67
-heat: 107
-published: true
+heat: -1
+published: false
 
 provider:
   name: Microsoft
@@ -22,26 +22,24 @@ topics:
   - Azure
 
 related:
-  - title: "Microsoft aims to grow Azure's footprint, resiliency with more availability zones and new services"
-    excerpt: "Microsoft is bringing on board two more Azure Availability Zones, readying an Azure Resource Mover service aimed at those who care about data residency, and previewing its Azure Orbital service for satellite operators."
-    publishedDateTime: 2020-09-22T15:00:00Z
-    webUrl: "https://www.zdnet.com/index.php/category/2184/index.php/article/microsoft-aims-to-grow-azures-footprint-resiliency-with-more-availability-zones-new-services/"
-    ampWebUrl: "https://www.zdnet.com/index.php/category/2184/index.php/google-amp/article/microsoft-aims-to-grow-azures-footprint-resiliency-with-more-availability-zones-new-services/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2184/index.php/google-amp/article/microsoft-aims-to-grow-azures-footprint-resiliency-with-more-availability-zones-new-services/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 63
-  - title: "General availability: Zone redundant configuration for Azure SQL Database in additional regions"
-    excerpt: "The zone redundant configuration for Azure SQL Database is now generally available in these additional regions: Canada Central, West US 2, and North Europe."
-    publishedDateTime: 2020-09-21T20:00:05Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-zone-redundant-configuration-for-azure-sql-database-in-additional-regions/"
+  - title: "High throughput output from Stream Analytics to Azure Synapse Analytics (General Availability)"
+    excerpt: "With a brand new output connector to Synapse SQL Pools, Stream Analytics can now support throughput rates even higher than 200MB/sec while ensuring ultra-low latencies. "
+    publishedDateTime: 2020-09-22T16:05:37Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/high-throughput-output-from-stream-analytics-to-azure-synapse-analytics-general-availability/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 55
+    quality: 87
+  - title: "High throughput output from Stream Analytics to Azure Synapse Analytics (preview)"
+    excerpt: ""
+    publishedDateTime: 2020-05-19T17:00:14Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/high-throughput-output-to-azure-synapse-analytics-from-stream-analytics-preview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 12
 
 secured: "P3bOoQR/LqwRY2HxYXo8kIskDmDB1FVO9Ugu5BMMNF5jAU1xCqCmtXog7CCZdwEirPDAk2ujhcE+J6Qf58w9ezFdYlBaDvHy2KnSAc4WTIxm3Wnc1n/Wxtt0hUbGyTxzXFgyV9HtlY1cRK4TNOmYKT80J0YYCIUMzKBiFrIIT06+VYm98+JuzxFmdggmgQs3c7mI4ZFPCMREpo2D/1mk0p9CrZxPc2DQEvUax8tnVdZY6RAgAJsDCxv9atWtoSsL7tCFuqEBX3OmNq066GSm1WO54kJQivImOJdIfUZUolqzErsEHFiib3A2uDZ6F9xkcJdO+J/nLWw88d6jJmzqG/terl4LCei4/MYShndZ3VQ=;O9MNcLsjlK7rXCIeCwpUoQ=="
 ---

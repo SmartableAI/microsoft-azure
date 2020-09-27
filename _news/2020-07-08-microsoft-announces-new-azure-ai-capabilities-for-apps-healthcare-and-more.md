@@ -30,35 +30,35 @@ images:
     title: "Microsoft announces new Azure AI capabilities for apps, healthcare, and more"
 
 related:
-  - title: "Microsoft announces Azure-centric alliance with C.H. Robinson"
-    excerpt: "With focus lying on the digital transformation of supply chains, the partnership between Microsoft and C.H. Robinson will look toward leveraging Azure, Azure IoT, and the Navisphere platform."
-    publishedDateTime: 2020-07-14T21:44:00Z
-    webUrl: "https://www.neowin.net/news/microsoft-announces-azure-centric-alliance-with-ch-robinson"
-    ampWebUrl: "https://www.neowin.net/amp/microsoft-announces-azure-centric-alliance-with-ch-robinson/"
-    cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-announces-azure-centric-alliance-with-ch-robinson/"
+  - title: "Azure AI: Build mission-critical AI apps with new Cognitive Services capabilities"
+    excerpt: "As the world adjusts to new ways of working and staying connected, we remain committed to providing Azure AI solutions to help organizations invent with purpose."
+    publishedDateTime: 2020-07-08T08:00:52Z
+    webUrl: "https://azure.microsoft.com/blog/azure-ai-build-missioncritical-ai-apps-with-new-cognitive-services-capabilities/"
     type: article
     provider:
-      name: Neowin
-      domain: neowin.net
-    quality: 97
+      name: Microsoft
+      domain: microsoft.com
+    quality: 99
     images:
-      - url: "https://cdn.neow.in/news/images/uploaded/2020/07/1594761150_microsoft_c.h._robinson_logo_story.jpg"
-        width: 760
-        height: 428
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/6c142214-bbee-499c-bf07-e565fcbc4294.jpg"
+        width: 1024
+        height: 576
         isCached: true
-  - title: "10 Top Azure Announcements From Microsoft Inspire 2020"
-    excerpt: "Microsoft Azure Tuesday released new hybrid migration, data, security and compliance, and developer offerings aimed at helping the No. 2 cloud provider’s customers on their journeys to the cloud. The products and services include the next generation of ..."
-    publishedDateTime: 2020-07-21T15:20:00Z
-    webUrl: "https://www.crn.com/slide-shows/cloud/10-top-azure-announcements-from-microsoft-inspire-2020"
+  - title: "Microsoft continues to build out its Azure Cognitive Services API family"
+    excerpt: "Microsoft is adding a new healthcare-focused text analytics interface to its family of AI programming interfaces, and it's making generally available Custom Commands and Form Recognizer APIs, as well."
+    publishedDateTime: 2020-07-08T15:01:00Z
+    webUrl: "https://www.zdnet.com/article/microsoft-continues-to-build-out-its-azure-cognitive-services-api-family/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-continues-to-build-out-its-azure-cognitive-services-api-family/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-continues-to-build-out-its-azure-cognitive-services-api-family/"
     type: article
     provider:
-      name: CRN
-      domain: crn.com
-    quality: 37
+      name: ZDNet
+      domain: zdnet.com
+    quality: 96
     images:
-      - url: "https://www.crn.com/resources/025f-0ff0d7dce6e1-290de920b9a0-1000/microsoft-azure-sign.jpg"
-        width: 610
-        height: 457
+      - url: "https://zdnet4.cbsistatic.com/hub/i/2020/07/08/780add4e-19a4-463d-8d25-3a96f4f2afde/cognitiveservicesmicrosoft.jpg"
+        width: 781
+        height: 494
         isCached: true
 
 secured: "0OGYO7IIaAaP2VncWiZVPIXfOZVkwQ1YLdqPWSR9LsTp2xBvFNXONUIIetZeBQa3kpF80g5ow4o39ayz+fKfoM/hJAx4TeU6bd9E8iIs+U2QR0Q2zU/TzbvMXNburRub6x5VJzp86yOs9Mtr0i1k3hSt9Yu2QK+ZPItRWXhf4Umb/zHlOWpC4lGx+EobEyAGXg9w6YPOzEltyYaRjMG42HckCazyHtBXH2FZqL7wVWXw+k82n1oVTkeAs64ZDAmZDivBM41iNbaNjVMdOctATSz/yd3+b3/xK/0B2ILeAR7Qu6RdehyeTFilF0F+31kw2UwiUNJr/RTdO6mrW5LVxwkBhWvg9+R/vdfkl+Bs8gt9wvzJTeKk0Ghet6DVb+3R7F1ED1wO7IWO2bgtR6WUIlt6MapBMrR24/aaAEqOaoPHLNUZbSBDR7LfAas2Ad0KmC/mVyiVGSVsc5SFN67GPMJHUnW11DeCeqgLLfnSLmS4LYQxR7GxZ9TWO1UBWN/P;KeRuImnn7ZKgb6aLySgXVA=="
