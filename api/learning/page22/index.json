@@ -11,8 +11,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/automate-model-selection-with-azure-automl/",
       "length": "PT25M",
       "ratings": {
-        "count": 886,
-        "average": 4.6173816
+        "count": 887,
+        "average": 4.6166854
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -46,15 +46,15 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-azure-container-registry.md",
-      "title": "Build and store container images with Azure Container Registry",
-      "excerpt": "Learn how to use Docker to build, store, and manage private container images with the Azure Container Registry.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-azure-container-registry/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/build-and-store-container-images/",
-      "length": "PT49M",
+      "path": "_learning/courses/microsoft-learn-control-and-organize-with-resource-manager.md",
+      "title": "Control and organize Azure resources with Azure Resource Manager",
+      "excerpt": "Use Azure Resource Manager to organize resources, enforce standards, and protect critical assets from deletion.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-control-and-organize-with-resource-manager/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/control-and-organize-with-azure-resource-manager/",
+      "length": "PT46M",
       "ratings": {
-        "count": 2314,
-        "average": 4.608038
+        "count": 37970,
+        "average": 4.71222
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -76,7 +76,7 @@
       "price": "Free",
       "topics": [
         "Azure",
-        "Containers"
+        "Management Tools"
       ]
     },
     {
@@ -198,8 +198,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/align-requirements-in-azure/",
       "length": "PT35M",
       "ratings": {
-        "count": 5620,
-        "average": 4.7368326
+        "count": 5621,
+        "average": 4.7368793
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -231,8 +231,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/allow-users-reset-their-password/",
       "length": "PT31M",
       "ratings": {
-        "count": 1554,
-        "average": 4.6904764
+        "count": 1555,
+        "average": 4.6906753
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -392,8 +392,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/assess-your-development-process/",
       "length": "PT19M",
       "ratings": {
-        "count": 6691,
-        "average": 4.706023
+        "count": 6693,
+        "average": 4.705961
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -497,6 +497,40 @@
       "price": "Free",
       "topics": [
         "Azure"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-azure-container-registry.md",
+      "title": "Build and store container images with Azure Container Registry",
+      "excerpt": "Learn how to use Docker to build, store, and manage private container images with the Azure Container Registry.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-azure-container-registry/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/build-and-store-container-images/",
+      "length": "PT49M",
+      "ratings": {
+        "count": 2314,
+        "average": 4.608038
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": -2147483598,
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Containers"
       ]
     },
     {
@@ -760,8 +794,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/azure-well-architected-security/",
       "length": "PT1H2M",
       "ratings": {
-        "count": 2138,
-        "average": 4.7043967
+        "count": 2139,
+        "average": 4.704535
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -803,8 +837,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/build-a-web-app-with-mean-on-a-linux-vm/",
       "length": "PT42M",
       "ratings": {
-        "count": 1722,
-        "average": 4.566202
+        "count": 1723,
+        "average": 4.566454
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -925,8 +959,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/build-blazor-webassembly-visual-studio-code/",
       "length": "PT45M",
       "ratings": {
-        "count": 1137,
-        "average": 4.6939316
+        "count": 1138,
+        "average": 4.6942005
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1080,8 +1114,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/choose-azure-service-to-integrate-and-automate-business-processes/",
       "length": "PT44M",
       "ratings": {
-        "count": 10065,
-        "average": 4.570293
+        "count": 10066,
+        "average": 4.570336
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1121,8 +1155,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/choose-a-messaging-model-in-azure-to-connect-your-services/",
       "length": "PT45M",
       "ratings": {
-        "count": 3090,
-        "average": 4.584142
+        "count": 3091,
+        "average": 4.584277
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1147,41 +1181,6 @@
         "Integration",
         "IoT",
         "Analytics"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-choose-storage-approach-in-azure.md",
-      "title": "Choose a data storage approach in Azure",
-      "excerpt": "Learn how using Azure Storage, Azure SQL Database, and Azure Cosmos DB - or a combination of them - for your business scenario is the best way to get the most performant solution.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-choose-storage-approach-in-azure/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/choose-storage-approach-in-azure/",
-      "length": "PT30M",
-      "ratings": {
-        "count": 10368,
-        "average": 4.6597223
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": -2147483598,
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Storage",
-        "Databases"
       ]
     }
   ],
