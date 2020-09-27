@@ -1,0 +1,26 @@
+---
+title: "How to share SQL tables and views using Azure Data Share | Azure Friday"
+excerpt: "Jie Feng joins Scott Hanselman to show how to share SQL tables and views using Azure Data Share. Azure Data Share now supports snapshot-based sharing for SQL-based sources, including Azure SQL Database and SQL Data Warehouse. Data Providers can use Azure Data Share to share tables and views with their"
+originalUrl: https://youtube.com/watch?v=a-21ryrpOFY
+type: video
+price: Free
+length: PT11M41S
+publishedDateTime: 2019-11-29T15:03:52Z
+heat: 
+
+featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/a-21ryrpOFY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+
+provider:
+  name: Microsoft
+  domain: microsoft.com
+  images:
+    - url: https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg
+      width: 50
+      height: 50
+
+topics:
+  - Azure
+
+secured: "cwVoHvhxCBSsxy9M60MAk41hhN3Rb0LANG1gN4fQhf8KS897UuKY1e89i5UCiQYq6cRIBaHsMOAst82CUi1X+LX0sgwzszsAukzNeHLp47pK5kOepYnzWGV63wZgbN/kKXIpJcmvowrhtnU/JI2Vncpf4bBGEDc4cjGxiqPBpK4e1MpJG9a2+DJ8yXxRX4WYkmO6mq9YmDYMACduCudUafkCHyAOIM9m2EYrbiCbPPZ3f+Le68R27lodZd5Uk5TOW09HaBLbEVgdcYy/2qPl2L89tH/agu72zLStfo2ELta0iRW3n/XeTF13J5c2HQ352hz+rLIVY8b9IpK1qtqwSgLENY3lFyZ/qvIDHD4RpKeqdwqqtMZYfwEQ66D5J1MOAnmVCezgrK9OBA8pEVScpQ==;BfPBfmynou7vtYK7OMQ9Gw=="
+---
+

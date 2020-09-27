@@ -1,0 +1,28 @@
+---
+title: "Go serverless: Enterprise integration with Azure Logic Apps | Azure Friday"
+excerpt: "Jeremy Likness joins Scott Hanselman to show how to build workflows and integrations from the cloud across third-party services and on-premises servers using Azure Logic Apps.  1:10 - Demo  Overview - What is Azure Logic Apps? https://aka.ms/azfr/621/01  Azure Logic Apps https://aka.ms/azfr/621/02  DEV50:"
+originalUrl: https://youtube.com/watch?v=2qwGl-f8gd4
+type: video
+price: Free
+length: PT12M59S
+publishedDateTime: 2020-03-27T16:39:11Z
+heat: 
+
+featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/2qwGl-f8gd4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+
+provider:
+  name: Microsoft
+  domain: microsoft.com
+  images:
+    - url: https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg
+      width: 50
+      height: 50
+
+topics:
+  - Azure
+  - Serverless
+  - Integration
+
+secured: "RcUbxUzYG4+n1JGQEUG+Xc+ZF8BMP0QkP9Ens6nK+82aF/Lci2bi5b9WhUzTvMDKZ4FK8swKy2CFCgksQTI3HJuPyy/MfFGlH1TKUfSCpgK8A7kn7RH12Tm3sQ9SYRtK05WK2kV0SWOpJp1pUmVxB81Gc/jD1jH1UB6i7jOVhQFTwmG4RF+zLRJOYcMUab87oM6zC6/vylxsM3oK9lUd8n7fq/LXkK631c91bKZBaE/yX19rP7Lpvmjn73kVQXIZKWahLr34uS2fbcqHaCnVI3q8498vz7RbAEI2nvx5rdbMe3sTD+oQP8cf1TpVlXzg43/3fKRsB3YJcrkyqedDURryYyeE3Pjl3ragxdtouZjLlYetu+aJaodGlWcpymN4iJ8w4NVP/MrCoTH6s2DOUQ==;QSPe5HE+edRXWgJOfJLrXQ=="
+---
+

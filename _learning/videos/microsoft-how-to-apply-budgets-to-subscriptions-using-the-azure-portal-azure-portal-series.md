@@ -1,0 +1,27 @@
+---
+title: "How to apply budgets to subscriptions using the Azure portal | Azure Portal Series"
+excerpt: "In this video of the Azure Portal “How To” Series, you will learn how to apply budgets to your Azure subscriptions to control the spend of your Azure resources.   Try out these features in the Azure portal: https://portal.azure.com     Keep connected on Twitter: https://twitter.com/AzurePortal"
+originalUrl: https://youtube.com/watch?v=UrkHiUx19Po
+type: video
+price: Free
+length: PT4M45S
+publishedDateTime: 2019-10-03T20:06:49Z
+heat: 
+
+featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/UrkHiUx19Po\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+
+provider:
+  name: Microsoft
+  domain: microsoft.com
+  images:
+    - url: https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg
+      width: 50
+      height: 50
+
+topics:
+  - Azure
+  - Management tools
+
+secured: "/cIjS6qtfLDnRcY1kIMHnvz7DwiPSjCrsOdxyQ5Bnr94pv9KkRIvUOgce5nxx+90pyGNltOPPomsTrK9643l8NlOjGDw4d1EVPsky06fWCxlLCh0NH0teAJShPw97c2FR7MeyXIjQBrvo1Xodqphu6e08ibgn+vRjxsHzbijMjNYlIouWvS7Lne3+XDNtv9rxScqtSPXu64wecPDSQTQuRXLQ9tSBvm7g2JjMPZvr23wNSF2tUm9aojDkEWUtlbr9v1ENS2bf/u2QOqqskanKJAlFP5U3GhGm6nZgcvJ+S/3oKoyuLHOSM6i7QJ3s1I9S2wBTEGTAx/0gA56hecjylhi7zt0MKbUwLF1HtpfXqWEEx78A8JWbbmLOeCti2D+zVz6milxylLuLVZDvgIXXw==;SP3tr/Z3I7W10egJNfHxlw=="
+---
+
