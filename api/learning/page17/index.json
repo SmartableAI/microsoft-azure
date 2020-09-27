@@ -4,6 +4,47 @@
   "page": 17,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-introduction-azure-sap-workloads.md",
+      "title": "Introduction to Azure for SAP workloads",
+      "excerpt": "With the recently expanded partnership between Microsoft and SAP, you can run SAP applications across development, test, and production scenarios in Azure, taking advantage of the scalability, flexibility, and cost savings of Microsoft Azure.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-introduction-azure-sap-workloads/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/introduction-azure-sap-workloads/",
+      "length": "PT50M",
+      "ratings": {
+        "count": 378,
+        "average": 4.8174605
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Advanced"
+      ],
+      "heat": 57,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/introduction-azure-sap-workloads-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-introduction-lambda-architecture-iot-solutions.md",
       "title": "Introduction to implementing lambda architecture for IoT solutions",
       "excerpt": "An overview of the concepts and resources behind storage technologies used in IoT applications on Azure. After completing the module, you can determine when to use Blob storage, Data Lake storage, Azure Cosmos DB, and Time Series Insights.",
@@ -47,8 +88,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/microsoft-responsible-ai-practices/",
       "length": "PT1H17M",
       "ratings": {
-        "count": 361,
-        "average": 4.797784
+        "count": 362,
+        "average": 4.7983427
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -88,8 +129,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/responsible-ai-governing-practices/",
       "length": "PT35M",
       "ratings": {
-        "count": 361,
-        "average": 4.7756233
+        "count": 362,
+        "average": 4.776243
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -650,8 +691,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/aks-workshop/",
       "length": "PT2H25M",
       "ratings": {
-        "count": 247,
-        "average": 4.7408905
+        "count": 248,
+        "average": 4.7419353
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -779,8 +820,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/classify-images-custom-vision/",
       "length": "PT34M",
       "ratings": {
-        "count": 246,
-        "average": 4.768293
+        "count": 247,
+        "average": 4.769231
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1098,8 +1139,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/intro-to-app-center/",
       "length": "PT49M",
       "ratings": {
-        "count": 278,
-        "average": 4.528777
+        "count": 279,
+        "average": 4.530466
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1141,8 +1182,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/qsharp-create-first-quantum-development-kit/",
       "length": "PT48M",
       "ratings": {
-        "count": 186,
-        "average": 4.7688174
+        "count": 187,
+        "average": 4.7700534
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1338,49 +1379,6 @@
       "topics": [
         "Azure",
         "AI"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-tm-introduction-to-threat-modeling.md",
-      "title": "Introduction to threat modeling",
-      "excerpt": "Explore the four high-level steps of threat modeling.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-tm-introduction-to-threat-modeling/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/tm-introduction-to-threat-modeling/",
-      "length": "PT27M",
-      "ratings": {
-        "count": 319,
-        "average": 4.7335424
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 56,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/introduction-to-threat-modeling-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "IoT",
-        "Security"
       ]
     }
   ],

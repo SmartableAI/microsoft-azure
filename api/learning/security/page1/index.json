@@ -101,8 +101,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/intro-to-security-in-azure/",
       "length": "PT1H16M",
       "ratings": {
-        "count": 44266,
-        "average": 4.703
+        "count": 44271,
+        "average": 4.7030334
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -357,8 +357,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/secure-and-isolate-with-nsg-and-service-endpoints/",
       "length": "PT43M",
       "ratings": {
-        "count": 4742,
-        "average": 4.61957
+        "count": 4753,
+        "average": 4.6200294
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -612,8 +612,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/top-5-security-items-to-consider/",
       "length": "PT45M",
       "ratings": {
-        "count": 6169,
-        "average": 4.6458097
+        "count": 6170,
+        "average": 4.645867
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -746,6 +746,50 @@
         "Identity",
         "Integration",
         "Web"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-audit-security-of-windows-server-iaas-vms.md",
+      "title": "Audit the security of Windows Server IaaS Virtual Machines",
+      "excerpt": "You'll learn about Azure Security Center and how to onboard Windows Server computers to Security Center. You'll also learn about Azure Sentinel, security information and event management (SIEM), and security orchestration, automation and response (SOAR).",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-audit-security-of-windows-server-iaas-vms/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/audit-security-of-windows-server-iaas-virtual-machines/",
+      "length": "PT45M",
+      "ratings": {
+        "count": 23,
+        "average": 4.7826085
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 111,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Management Tools",
+        "Compute",
+        "Security"
       ]
     },
     {
@@ -1196,8 +1240,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/azure-well-architected-security/",
       "length": "PT1H2M",
       "ratings": {
-        "count": 2145,
-        "average": 4.7053614
+        "count": 2149,
+        "average": 4.7059097
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1351,8 +1395,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/create-security-baselines/",
       "length": "PT60M",
       "ratings": {
-        "count": 2186,
-        "average": 4.63312
+        "count": 2187,
+        "average": 4.6332874
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1393,8 +1437,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/network-fundamentals-2/",
       "length": "PT36M",
       "ratings": {
-        "count": 2031,
-        "average": 4.694239
+        "count": 2033,
+        "average": 4.69454
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1511,8 +1555,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/design-monitoring-strategy-on-azure/",
       "length": "PT57M",
       "ratings": {
-        "count": 1345,
-        "average": 4.5776954
+        "count": 1346,
+        "average": 4.578009
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1555,8 +1599,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/manage-secrets-with-azure-key-vault/",
       "length": "PT46M",
       "ratings": {
-        "count": 1459,
-        "average": 4.5853324
+        "count": 1460,
+        "average": 4.5856166
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1591,8 +1635,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/resolve-threats-with-azure-security-center/",
       "length": "PT44M",
       "ratings": {
-        "count": 1015,
-        "average": 4.571429
+        "count": 1016,
+        "average": 4.5718503
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1633,8 +1677,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/secure-vms-with-azure-security-center/",
       "length": "PT44M",
       "ratings": {
-        "count": 868,
-        "average": 4.634793
+        "count": 870,
+        "average": 4.635632
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1675,8 +1719,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/identify-threats-with-azure-security-center/",
       "length": "PT43M",
       "ratings": {
-        "count": 754,
-        "average": 4.6870027
+        "count": 755,
+        "average": 4.687417
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1927,7 +1971,7 @@
           "path": "",
           "title": "Audit the security of Windows Server IaaS Virtual Machines",
           "excerpt": "You'll learn about Azure Security Center and how to onboard Windows Server computers to Security Center. You'll also learn about Azure Sentinel, security information and event management (SIEM), and security orchestration, automation and response (SOAR).",
-          "heat": 51,
+          "heat": 111,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
@@ -2011,7 +2055,7 @@
           "path": "",
           "title": "Audit the security of Windows Server IaaS Virtual Machines",
           "excerpt": "You'll learn about Azure Security Center and how to onboard Windows Server computers to Security Center. You'll also learn about Azure Sentinel, security information and event management (SIEM), and security orchestration, automation and response (SOAR).",
-          "heat": 51,
+          "heat": 111,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
@@ -2144,49 +2188,6 @@
       "price": "Free",
       "topics": [
         "Azure",
-        "Security"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-tm-introduction-to-threat-modeling.md",
-      "title": "Introduction to threat modeling",
-      "excerpt": "Explore the four high-level steps of threat modeling.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-tm-introduction-to-threat-modeling/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/tm-introduction-to-threat-modeling/",
-      "length": "PT27M",
-      "ratings": {
-        "count": 319,
-        "average": 4.7335424
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 56,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/introduction-to-threat-modeling-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "IoT",
         "Security"
       ]
     }
