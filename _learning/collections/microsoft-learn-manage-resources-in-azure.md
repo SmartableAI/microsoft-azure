@@ -29,13 +29,6 @@ topics:
   - Azure
   - Management Tools
 
-images:
-  - url: https://docs.microsoft.com/learn/achievements/align-requirements-in-azure-social.png
-    width: 200
-    height: 200
-    isCached: true
-    title: "Align requirements with cloud types and service models in Azure"
-
-secured: "PUvTSnb4y5WFZ9qoLKaiexdS2xuW4wipNZ9P5Xony3Y37Fck64LqVSPXs15pZ3d+3p4ld1yCk/1HGY512iKPelvcNbyO6+fJaQdF2Xew7XNbKgYIGI1WYRID4Sf7JhEbXWbA+ozs2OgvhccgKihkyeuRE6jmWv5dFvKdqloMLbhEtCOV26/1KnZCJZEFyUCB5zs8VLQLXbBfoVp9hxbx3WqsKMV3lla9tljLMIPTbWBsnczPhD1FfxQMjz6tztsFYp7YJLsKeKTLmRiLIDdo/LELS1x3hNrBZJQOpSmeJESXEuqH+817YLkpAMecNMRelAQgHf4kvqghNQF6zt9T1Q==;5qvnU+3XFed9BS8KNi0Khg=="
+secured: "s1MN8RQa1krJ9EWAo5Zp2dQBn2H9k0o1ejF3ou9W7CZtb74HanAMeOTsHVkYFy/PrjMdGK2uiA2TgvkK2GEdYB6TK21nBiPMFSDTlZN2YjYVo72HENiitGsVzCuLuHIEjzlfpKbXARKvqWOPWQ6zDFLV/tPnJCNOQ5YNIVDsp4UPeKW3NtE7gNnepckvlNWFrEzvLLUwgWlFf+7+DPAxisn5gT1QYvFvLplBV+o/BHdo5iTwO2OZG8Cykupp0IEQiKFn2KPsP79flP1Nhm0xQAs5XxRaR2KEb78VfLSwMqfIslSrz4UEnVOyQoVCxO8TTm02KVahqTosmEyWCSrLvLkty0xhM+lrVaOgyTrwRwQ=;E5TF8X2H4I8EXLfhTc9xwA=="
 ---
 

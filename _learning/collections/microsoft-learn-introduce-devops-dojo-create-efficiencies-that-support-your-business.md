@@ -29,13 +29,6 @@ topics:
   - Azure
   - DevOps
 
-images:
-  - url: https://docs.microsoft.com/learn/achievements/introduce-foundation-pillars-devops-culture-learn-product-social.png
-    width: 320
-    height: 160
-    isCached: true
-    title: "Introduce the foundation pillars of DevOps: Culture and Lean Product"
-
-secured: "kMO99PhzFG0dxHSNPuAQPpZku4G16QvVCY6BdpRQ1lXcHVLcpoZHFlePvHpOA8GH+JQLThqb6v5IE49JgBSZs3mfW5UXemkNIHgKEuENk4cZp/o/m5Y4rc1mDutfb3+axeV4mlDB5V+HW74dAs1Jtbaiw1vkfvTZRnqNyH3xMn8iXpdZHlMZbceyH/3D+gSnpZ/VmJrNUY/YU2wIi47vcifN/IpbA8H9GO2Ca49o6JqgZXxhA9N5G39NneagzNJzhKIJIwTfn+DBDFkbv7HUVYa4WuwygxAjz8q0A3SVzFvrY4GX9cK/m5jY+YOg7DbkM/H3VRVdcqloQDNKEQmKKA==;EHrPZvaSRIbV7jxMy7biDw=="
+secured: "cvJnIm/YMa0+pW9gce5RhGuJ0tJ4Uo1jkzFEwRPXU1DD0dMmDO0lqUNnVi7SDIQw+QiZHigxn5ZAduuMzeKKjsSx7HN6j/XEk36bE5/1xXIntlV+0HYEd1Ft8PbuZ0fm7Zb6hBvyURjJtvo5XTvpsHzFKRkeoxP+5BUMc4I2uj+QvIu/6TgXSNgOD+Vh4iEyvJ1fIkCtMFB7JhkHZyP/ARu/mR+Au7rilBx1UZZZrZ4SwJxWNRbzqmcOvX4uJd64Uq9Gvb3+Hq0Cn9EYKid6I5g8hXJ0jFkIdz0w/hFMB/IkILybkLMQzXzMbS5pcfCQ6CVKkTWvuZOugyDutMJyHz4Nto52UCgxwHqbGGb+Pao=;pHSN/i6mQvGGhI5EDAukGQ=="
 ---
 

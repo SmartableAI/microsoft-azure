@@ -1,6 +1,6 @@
 ---
 title: "Connect your services together"
-excerpt: "Azure lets you create applications composed of various components: web site front-ends, back-end services, and triggered functions that perform compute-on-demand services. Azure also includes various communication strategies to let these various components pass data to each other. Learn how to leverage these communication services to create scalable, efficient solutions out of testable components."
+excerpt: "Use Azure to create website front-ends, back-end services, and triggered functions that compute-on-demand and can also communicate with each other."
 type: collection
 price: Free
 length: PT3H31M
@@ -31,13 +31,6 @@ topics:
   - Analytics
   - Storage
 
-images:
-  - url: https://docs.microsoft.com/learn/achievements/choose-a-messaging-model-in-azure-to-connect-your-services-social.png
-    width: 200
-    height: 200
-    isCached: true
-    title: "Choose a messaging model in Azure to loosely connect your services"
-
-secured: "lB7dz7xDxnk+RNnmKLSCjYSoIDEjerAHiKy5grFCAsUu6NIDUnQxVUJuKP6kDBdBx08KMbFyqEfF/mC0KDktGD7bsnUtzcNUq714ReMNObPNZvG3b68u7fqQJUKk8vNRjDjF449l+rZERVuTj1XnnttYgVnrMQp1P3Au1HBDI2I3t6MxdEoMmguYtv1kFfp7QiFMQ9NDYLVI2NW+AK6zrwELMqEALqrZNM/NPP5aIuqYbmviuG1fzrjydemdEtaUmKS+rgSBwg4unnN/+XDDf2neU72OjQDIhjAxxKASXgCnksT7EtDeOteM7NCgcW4e1bibQ9kKdaT617YHBF4e3g==;et+UUR+teIXUVkX29JSIxg=="
+secured: "Imye8tpV8GiaiygLP9RLEfH5OdulqMYH+wvVnEynWPp8FIjQRre5skIsOmSFJ3MD1sTZH8S7RWmEPJRfj5TnT+ip9B5HnBsUsHaNS/dGMv8sflM+LrZ97aR1iSsyDc3rsaoO4+fZMeJQUjL0xkDQ2mJBkT1dlbQCvzh8IOlFrkvG/A4W27fnumVO6wkdm9gdVJBIHsd48kEdpR3AZS1WRYBuKv8QDwwK7Nd0FYDuw3rajQ80rcLI/KKgg4P3xPWP0+a6ZU+iZDPNuhCRRVKlBSy+/LGtUKm5J3d2GwsH7BJ5hUOGrp0YUSycnaIx8Fos353oJdeBFotyflhsEqAz/+hC9mqUBIzIg/BZaIvUaQ4=;QGKTC+h/TiLOUzzQgwYgpQ=="
 ---
 

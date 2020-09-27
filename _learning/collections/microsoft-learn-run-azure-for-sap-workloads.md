@@ -1,6 +1,6 @@
 ---
 title: "Run Azure for SAP workloads"
-excerpt: "This learning path augments existing knowledge around the deployment methodologies for SAP workloads in Azure, focusing on Azure Marketplace and custom images using the Azure portal, Azure Resource Manager (ARM) templates, and Azure PowerShell cmdlets."
+excerpt: "Run Azure for SAP workloads"
 type: collection
 price: Free
 length: PT2H33M
@@ -31,6 +31,6 @@ images:
     height: 400
     isCached: true
 
-secured: "RuKOQC1caLR0tHIcVphcGZE9vpDWsb4r6L1ngJ/wJLT8yoeRSuIlUSy5tmRW9kda80BV8f8IahE4z9miuQWboF1D91DXIm+4AEGRyiYUfdjG72r3zcjwAP9jrDPchlQjJVPw4bBUveXJUnmIBSCiCnljeFj3Uru5nbe4r4mQfxLgG/n2zvjuMdEU87yekpQ82iCyp5Ntn6NIaOWGd4XKnnsjSElDj+GEzMf00LdP9mgMUn/goXJXd9zmdcYYCpMx1DyBq6tIX6ar2h272dnRhO8aQsdmQSBv7sQRSa1ZfPwBJsQWQewvdSuVwg7mxNFO8pJnGjZ7ZHNXxiJCjB+NOQ==;OwmYMnuL/txFaLo08602rw=="
+secured: "++Gk6o94kuBH/yIieA2iZXiXLRC41dH24I9EY0Z6LMVzJCf/ZGUUBcgsm28FWeZyca69B+b7yDCvmgacO/2gZ95OfIqgklkN3rwVfS8DWfthOlLlvTt95fDNAu/UQZvuWzDHhdlzx1VctCyOo3/vknVuDG9H5lHRXMAobxPy7aDZFfR2/9qctog9XgM6M8lGeB8Kv5eCPTAP1pdVulJwnwIQORC2PKklewgoIQrs4RRiQRetyFl46J00U3tfldxndmZVynmKVdkQT2U/2Lj+0evEjNX5f66IUigxzsmKtKf9lDWzUj0MHRPkttxPwCCGKUuwK/8ylDpv3xl3S8wHw5jjIpgrqs4h9larxRwna50=;jpzLHSj6Fg7lqzOYkdK4+g=="
 ---
 

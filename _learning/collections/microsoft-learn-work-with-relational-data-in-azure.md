@@ -1,9 +1,9 @@
 ---
 title: "Work with relational data in Azure"
-excerpt: "Azure supports several popular SQL-based database solutions including SQL Server, PostgreSQL, and MySQL. Learn how to use these enterprise data solutions in Azure to store and retrieve your app's data in the cloud."
+excerpt: "This learning path introduces you to Azure-supported SQL-based enterprise data solutions enabling you to store and retrieve your app's data in the cloud."
 type: collection
 price: Free
-length: PT4H10M
+length: PT5H34M
 heat: 120
 
 provider:
@@ -36,6 +36,6 @@ images:
     height: 400
     isCached: true
 
-secured: "UpIKkAT4YfZMnWyfxsr0BQ0z7PlJfoAzCdcBzMPxOf0NEQ1CGOaGzkNnwm4uIaL9qVO9F7abU0UkikcTivHSFOPvtAw1XYShQmpZgNSigq6xTvtHuL1bxmceN0guSVdpsv5lxMyJSTGT3vPNZ3mM3DXaHVdNbKk81MM+NssQPMRS7rIeeuKNHObpl6B9GWx+W9Az/Rk9hK/LHtpRT+KE2Ezs9taOdbToGbBF2GYSyUX3xBK/fDXx7RtJenI6Zf/SQFo/bCcuWTvLlUPi9Lde3FcamrLmirBAW6RANvWrmPmNmWjYknt8XmSzwoB+IZTif41YlR1E96gvum1FtN8C+w==;ka2PEi+aC5G65DUqqpciPg=="
+secured: "VUzjqRFU4TRF9q6rEH+ng+/uxSiDcN191SVtOtw8WeGN3WE24NyMuiE1/gPL2Y3bKNe6DihvA1fylo7G57p6IyvuVrL6SIeSciMGx10neqi91biS1ZqGGcYl068XaCvA7uoJ0GUXBg3nOq5UxxWv+Uz8XmNFW1jtHw2vVxnNLt1pIlyWYZMBT6C7G1sz+UrvUA26UIova8lWuhi09Pt93HSAcXszZr88fC8mtbKJaci4RskS7suh4cfifjQ9TSdej+zXzfuhW8h95WpE7E7MZSEJvZ7aRZNyn5ieOSMUobsWxsmhkb4Sg7IWqtWNS3y9MuLPJrTA2BS0XZIaVAGiNhm++3IZlXey1rBFDEp1+6Q=;KkV14EWfhFvZ9dns5wdlDA=="
 ---
 

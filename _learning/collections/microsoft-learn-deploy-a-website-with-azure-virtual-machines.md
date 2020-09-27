@@ -1,6 +1,6 @@
 ---
 title: "Deploy a website with Azure virtual machines"
-excerpt: "If your web hosting requirements aren't directly supported by the Azure Web app platform, you can leverage virtual machines to customize and control every aspect of the web server. Learn how to create, configure, and manage virtual machines on Linux and Windows that host web apps."
+excerpt: "Learn to use a Windows or Linux Azure Virtual Machine to extend the website support that Azure provides."
 type: collection
 price: Free
 length: PT4H6M
@@ -34,6 +34,6 @@ images:
     height: 500
     isCached: true
 
-secured: "7F7vcMeD1Pnf+TkCJOBnWBqIMI9yPqmUZ9eiyhY6lNBDZda0Ha+OIXZzoQrl0B+c08kz7pGx8k2IgOHx3QfhESOzWpm/r0XSHMcaXR/gr/l8SqNNZ1fGwuJ0pYkN/Wjsfdiyk1tjAcOTIX201fy2UygejudEC/JKJ2+gf6H54nPGDd83QekSFnd5EuU78P9L4CtICNkTatmSdQmXj264i1doQAGvX9ooh8HhwvGkog+/9bUkKr1lIFFUboo9HtHZSbEfxTg1qm9kkaANK1W4ApBsJlx9ZxFpMOb8m46g9drnztjInJcMTUu9D+FsJDAjSGAs4ubTM28XDx5HMkISyg==;N2btS0bEryYJXRiVNZFcYw=="
+secured: "mWBJpEP8nhrtb4YKwlJQ2BWFBgJzOL3yNTPGBK/53aeIZxpsq1FYltMJF3bTrMMoag0PlQJLP36V/vUM9RoJjnrwzIIptrkrqodg4wOcYF3Q3ZHzj1yJo8NyBX+/RetZF8mAu0E/iDwIamB+q07VLo+fL5zzzJWldwQBcadS7uBOlanGORLUGiDtDbq/ie/+7bg2RrAyrY0bAPsgl/3S/JIap3CZfheLsfXPMTCmMTh+VP3wm5XqSdyQvaBH62xyFU7AAp83gt5UFfXQHRCX3vXcGlRbGeFFLlPGgkRbFsqqjNC6pvfBq7OZOtMYexSTYGqF1/8Bz9R0u4uOLrOFq9lbMhbspGPrchqBaVjO0Ng=;reD7FTooNacY8+g+Kdb3ZA=="
 ---
 

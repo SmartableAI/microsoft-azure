@@ -1,6 +1,6 @@
 ---
 title: "AZ-400: Define and implement continuous integration"
-excerpt: "Create automated pipelines that continuously build, test, package, and deploy your applications.\nTake this learning path to help prepare for Exam AZ-400: Designing and Implementing Microsoft DevOps Solutions."
+excerpt: "Create automated pipelines that continuously build, test, and deploy your applications and prepare for Exam AZ-400: Designing and Implementing Microsoft DevOps Solutions."
 type: collection
 price: Free
 length: PT11H40M
@@ -43,6 +43,6 @@ images:
     height: 400
     isCached: true
 
-secured: "JmjfYtmCFFtopPYa924bKqabUOFO/50aUHkMFGKssCB9T0TD1rtE2kKK+UrTaWBodR0ZRw6p57nwr5DRc7GIHihMRTyl2nwg5hzEH4WFSGvtGu2eHew7NJEXUOBptS0hqArLm1FiThf6HTWUcRNFcMmoaprAFnGGLaksTxcICaMZ0+wxnPqvNcVEOsLycLQDxnVDdVwfXrsu3maL/M2Hj9KEjfM/Z09IXb9j6dAwNBK1MzSCiF+LnUm4+MPO6BUmX9M0IxnNlL50aYEhTl4Ha6vUbu9CvSXifFdl64xY2E2eqHdXwH8UhowcxXJL5XILQK6tcIuLcSMWUSv0W79QAw==;cd5GeiZDl+sfyGylcu34FQ=="
+secured: "BDxKOTaQmzhKFUZztq4592X6UvB2vOr/b3fBaiLg6kjZFc5GhwI0R6r+zScXkuS5fLXeujh2Q31j/icNWqlF0N1bryJglyLFD1aQvGUsCKWrweaUO19iwjuScA1claKqVounoANUzY4X0tcC6JxUaPIASBqjwAs4zTkYWpL0uDgXz4B+oB3bya/UmSPzyHDpdHZqseRgYW/sVKi+DTDDJZ2en+aAeE8uAMi4oQG6FHWDU9F+AqIX6ul74xmRotwYtK2FYIedXJ4dN+kJmolBbMvLHRRtlnzIMPXMxV9XJVhE0Pm2nwdDUqVBKrn7JxgUWrf+IEDsONiv3y8B44zie0G2lenWdGBD8H8yvYXR54g=;t6U5zo5z3/9LrKl+FQypdA=="
 ---
 

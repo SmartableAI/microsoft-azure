@@ -1,6 +1,6 @@
 ---
 title: "AZ-104: Prerequisites for Azure administrators"
-excerpt: "If you're an IT Administrator that's new to Azure and need to prepare for Exam AZ-104: Microsoft Azure Administrator, this path is the place to start. Learn the basic Azure concepts you'll need to know as an Azure administrator."
+excerpt: "Learn the basic concepts you'll need to know as an Azure administrator and prepare for Exam AZ-104: Microsoft Azure Administrator."
 type: collection
 price: Free
 length: PT6H30M
@@ -37,13 +37,6 @@ topics:
   - Containers
   - Storage
 
-images:
-  - url: https://docs.microsoft.com/learn/achievements/intro-to-governance-social.png
-    width: 100
-    height: 100
-    isCached: true
-    title: "Apply and monitor infrastructure standards with Azure Policy"
-
-secured: "7uauiVm1M4W2G4ivT7uJbE4RvLUHs40MYTA1A0ZSNYtkCwRct+NNKPgu1L1HfNagh0op+2e5OahICfwZTiMW2nLqtj6dtecYE/weZGtYwUwDnl+W0OP41H514u1eFkVyG4IWCQzIX9bkpgs9KrATfxWQ9bVX3d/LXg8Equhjp9DHCGhRlhaUCjA5TeBpeChnfK7AT2O+gvyG46geUgNZG8h1k7/QUiA/PE6UVQiTZ/J+IWuM0n5+1zo/ua+1tUu4RvTnpRH1syhrBXAXVLgK8HFJNgASW5IG/cdqheBTht/K8v22q89sezppMNPxEEDeOaVALY5M/ehy7QHQvVwzzg==;QbNAlR3NnHJ5EJrqOvvtQQ=="
+secured: "+6rv9Knq3bdK9UJETfJvpTZUTwXAxeytoEJ7tYxZ0igJf1pyCXkBITkTtUsMduFjuEJVQvhua4gqLvwzJyMCItoDpG1Tg13dzE3uqyGndmC2sDOoIN+mi0X3W1a2yyHuBYY6499YSyRCKkxCkyIRby7DI6yg+2Wtulv/shHq9tzVL3ggkBVngO17eGxhM6e8hromS9Kz3nQj2K7YddhSXXilNFYrDZ1h+vVNd0v78LRlJVC+gq0N7vXuQA0Voc8L4um3KF/VBojgWF6UvbEyve7j8Nbz2/hCJB3E2NHITaLZBA6oWOeOdDPA6522zwfazWB73FkEE8WUoqjo6sheS8Bw31sOg/K3tVlybhKqZ2s=;zrceCmKNo/dRp3J8d2d3oQ=="
 ---
 

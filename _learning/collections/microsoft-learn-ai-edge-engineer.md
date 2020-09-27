@@ -1,9 +1,9 @@
 ---
 title: "AI edge engineer"
-excerpt: "The AI edge engineer learning path takes an engineering-led approach for the deployment of AI to edge devices within the framework of the cloud. This learning path helps the participants to learn skills in AI (broadly covering machine learning and deep learning algorithms), IoT and DevOps."
+excerpt: "University of Oxford"
 type: collection
 price: Free
-length: PT6H39M
+length: PT12H54M
 heat: 78
 
 provider:
@@ -38,7 +38,6 @@ topics:
   - IoT
   - Management Tools
   - Containers
-  - AI
   - Compute
 
 images:
@@ -47,6 +46,6 @@ images:
     height: 400
     isCached: true
 
-secured: "BKQ9SNsZONphzlNg+vQZCpDqa8OsuBXIXgxS/2ihfqWQsRur8vsxWDhqWYGFq3hUZNfTC//ySKDpmXH5pENoCsj4lXKol/mqot6Wax0HhedZiLEJLGA66OUlAY5J21sa1Jd3ePlg61XXYH6wyNm2+/SV5rZIo6OdDVW6OfMHVsi6/1XQmWE2VFHdlHtLrgHTlzv87CHWSCsdLwhsSAzT2ywuKj01nvhec1JSiLAE02RTeLlzR/krHfDsQFXZv15CMSeNq6a9TYUvXoCCQoBamhErWnZZyIgwFSqVu/fczWP18eSduH96dTcSgCBKwqMwmaJfWXi4RBJs/qKikfk6+g==;EtGx0z7uKLl8mHwcTewpgA=="
+secured: "9aUKzTwOdhK0gb6pcBSW9b/VJG3SzaLegv7sjvOBhUucz/JkuxaXHv7XuiKJiQnP5tD9cLtVRzoPDZWP+NK5of0fQML7FboyDzoMGxz/G2rEwOheTQQf/CKm8um7Gw1lWxNmyTP6Vs7x9yLhSLUeuIcnu5w/82renAE04T/zWOjeLHXUu52XmYn6FuFHfuJvrZSh16+3psQc55QPoxy6N0Nr1tWZLim3XeXgF+Di+g+PV1gCv49H5iRreE+cE4V/VMKrddLrrpwb4gGmV6vdSkL/e+Kq7CobT/id0s83MJGNM6+RnpgF6gpQdqy5U3wCGk4mEiGNPSPFzyZSBcK11H//XEkPbgw8JU7V4jrdAgw=;xHA/C2PgxqSqk39RVMHveg=="
 ---
 

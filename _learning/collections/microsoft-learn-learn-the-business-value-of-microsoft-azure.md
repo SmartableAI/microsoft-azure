@@ -1,6 +1,6 @@
 ---
 title: "Learn the business value of Microsoft Azure"
-excerpt: "Are you interested in learning about the cloud in an easy to understand way? Or perhaps you are confused about where to begin with cloud technology?\nThis learning experience will take you on  a journey that will begin by showing you how digital transformation and the power of the cloud can transform your business. We will cover how Microsoft Azure cloud services can power your organization on a trusted cloud platform. Finally, we will wrap up by illustrating how to make this journey real for your organization.\nIn this learning path, you will learn about:\n\nEnabling digital transformation.\nIdentifying ways to migrate and modernize applications.\nGaining insights through data, artificial intelligence (AI) and the Internet of Things (IoT)\nMeeting a broad set of regulatory and compliance standards on a trusted cloud platform."
+excerpt: "Are you interested in learning about the cloud in an easy to understand way? Or perhaps you are confused about where to begin with cloud technology? This learning path introduces you to digital transformation, what Azure is, and all the different ways it can meet your business needs."
 type: collection
 price: Free
 length: PT4H57M
@@ -36,6 +36,6 @@ images:
     height: 400
     isCached: true
 
-secured: "/w+/lDORV4oLKXu8f1mRRsC3ZER5rFqAOpIdpsZVKJTP6lC6Plgpohx9gs5owoENzbR7cHpxizm3Nqh+Ac/Stg44mvBv9GjAG9ebci1bivOOkmIboE+LP877WJL9O38gqBV74imRiM+MI6Jp0CaQ7uFXlWt3F2y39aDFS1Ac++Ypufau3r1xtOrOTB8OIBb49fVu/aNkySLRvcG1t5OMug4YtfOA0OAKm4s68lycwQi4bHaLqMxo9kb4Krtqy0cK+3N35UWqZUTVu5n7N2X/lO/8A9X/ROIqPxkKy4JcKmIaQ5XtvrRo0F2a/gFXWhuUYpbziwJc9bszpOOfW6UkYA==;Qu1ERU+mJkVnrHhjUjZDGw=="
+secured: "+wkKjZJ4gYds1A7UWBfVip45FNdFt+l66W8j1laM2kBT4PPZ3HIXmV7C26lAKATe9vteB9amPNu6fjCovSFCVywyeeyAzjlZgmc53qX4qQMqA2+A45lXqSRLw9qUgX3FV9/neqxf2xoJHpWP8o/2SEIPgKUN8VF5kLw3w2kfsk/329r6my/iUb3gATYHjl7ZQod1XXF7r8BEc5pG3rLthz96DPYyuTYk4Mb7fyAiTjvu8dajn3YkIydHBrMLExpy4D/cYULJwYRhJ91xp8lLWTwTxSwdSIzMqg6f860iymw5QgICuobpqDrkAxs5aQTupbZietpswvCGt28g5+XlwZtfvuuXqDLPjMZOCV/JXWU=;cLDsc33qQczV5AHXbgbUvg=="
 ---
 

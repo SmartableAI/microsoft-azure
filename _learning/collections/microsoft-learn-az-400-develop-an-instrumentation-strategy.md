@@ -1,9 +1,9 @@
 ---
 title: "AZ-400: Develop an instrumentation strategy"
-excerpt: "Learn how logging, telemetry, and monitoring give you full visibility into what's happening in your environment.\nTake this learning path to help prepare for Exam AZ-400: Designing and Implementing Microsoft DevOps Solutions."
+excerpt: "Develop an effective instrumentation strategy through logging, telemetry, and monitoring and prepare for Exam AZ-400: Designing and Implementing Microsoft DevOps Solutions."
 type: collection
 price: Free
-length: PT9H39M
+length: PT9H41M
 heat: 90
 
 provider:
@@ -50,6 +50,6 @@ images:
     height: 400
     isCached: true
 
-secured: "01Dg5AzFQ36CEA/9p50H9ooltV1T6HCEWdf1fuO7y6UBft49wFTbLBlpXdBDAQyT9YaB4zXx6KLdgVJXWiVChFQXm7Aj+9Gys6ZJBWjY9xAUKn/JzJuXPWFYu+f7xm3DkeAMkUdEt1FKEl3ikaJ5BK7ME92Vhb/Tvxqh6KL1rd2Rt4JvyVE5+H9pNzggdij9BNROJdv5x7vOsI+xlFdD+LjuZcbwHIdl+IbUgoqAmajjF9H3CAF4YKLARmqcKVbKg/5oVhi6K2ImFOkGuoIYEsAoI7q0kTWGHmyD61qILqC2c6glK0Pv9anflxycGkujdGLimVGIHzA/GTYkBnDhhg==;KgmMmy6mT5iMkeQroISgwg=="
+secured: "bUemaxXEvt28vKXyrNqQXUl20+pkk9uufJ6eNhY+IFJCJnnbeDUdynsrvOAVNln6vzsz2F5SxMTv3fyRj7bjqXQNSKQ4ACW6xVs3O9Ojjc/UOo0GPWilhcg0JZ10CQdVJoJkSdBHLg+qCZc95Ft1uJAM9lFOy8MR4fu0UHh4Qppu/6MO8ERt5wspV4Qi9P9tGSgKjjzw/joMj9GO/90WT+WpvJan8R1mi5spI9NL00yf7RUUGyAdRM9HXsJl8QjtkPjpoRzPQg7ICuKiABx70qmIuqGKr4xNFNYV9+moSnvp4xlWymVo55bRQfv/3jvX/0R9M+Rnx1GgC/agDpxxbJ0LDF306CfvpcaDBtZV+AQ=;EMu/smcsNmRH03OwrU+t+w=="
 ---
 

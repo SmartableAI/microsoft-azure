@@ -1,9 +1,9 @@
 ---
 title: "Azure Data Fundamentals: Explore modern data warehouse analytics in Azure"
-excerpt: "Learn the fundamentals of database concepts in a cloud environment, get basic skilling in cloud data services, and build your foundational knowledge of cloud data services within Microsoft Azure. You will explore the processing options available for building data analytics solutions in Azure. You will explore Azure Synapse Analytics, Azure Databricks, and Azure HDInsight."
+excerpt: "Azure Data Fundamentals: Explore modern data warehouse analytics in Azure"
 type: collection
 price: Free
-length: PT1H55M
+length: PT1H58M
 heat: 57
 
 provider:
@@ -32,6 +32,6 @@ images:
     height: 320
     isCached: true
 
-secured: "S1u+UA6PganppXF6rVR97E0w8nWQM0Lxj4aJMw7Q9yoaFSpl/jAyjrF0JAHrKzAMEnx4t3kquNkDriBdWD/DIazVWbS4uDGDzpR6aPc1e3CpxLTcJ7QrLLL0l10ydneUa3n2yHbFSxvL71HyfTQ0DdhTNkEVJpJd89gOOnehWriTHnU8xNovKEY8tpfoMwr8kLVJqagpX1iMvwuukp57HHTtZqPIscweBxrJmIJm16Z6BUls3aTS3O11/1aLKhxNckcpZUCJCpwL+7vri7t7mG4hxrpDK6qpOOmQ5PDJy77gh1Qe8Dabmfa5IJmAaobbeazMBfoWQjS1Q96gFpy4fQ==;rpqwvcWk+Krc7Kz4HrvtIA=="
+secured: "IXdEQ39tGJBiY5+wacLkT18FBBLboxmHMsaJ8DBc1VS6KlmCIPznb13wgwZ5Hn1rOyytmK3bmTOyA5C1aEYTxpD/9mprBym8e+Zov7eolpivXUbFvLGGKXIWZG3dYR9DON98989uoDWDCYUo8Pzns+MFCN+RdTZlVSupsEMT96M7RTOR4P0IzMjhTNHFCHCEgdvdAZ2iqTHkOLEhM5ilAye/vuTWRDA4vV9yW31yzJUINrDzBKNoeVGAKkN6NVcRKAyLr6i90eVzie3gvx0G5QoEbUINslgwR0NHxQDCKcq8ygmil/YNNhqs0oAANRqDntFJtRRY5jJxOt/EqHAi7yU6V00eAxYTKGtXMUGELK0=;UQpMsD9qwjq/BBwQfFdzJQ=="
 ---
 

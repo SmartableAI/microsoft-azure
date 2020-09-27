@@ -1,6 +1,6 @@
 ---
 title: "AZ-104: Manage identities and governance in Azure"
-excerpt: "Learn how to manage Azure Active Directory objects, role-based access control (RBAC), subscriptions, and governance in Azure. This learning path helps prepare you for Exam AZ-104: Microsoft Azure Administrator."
+excerpt: "Learn how to manage identities and governance in Azure and prepare for Exam AZ-104: Microsoft Azure Administrator."
 type: collection
 price: Free
 length: PT7H17M
@@ -41,6 +41,6 @@ images:
     height: 400
     isCached: true
 
-secured: "iriTbICBd6R+ujLxWwgLd2mzHNfI4xVgsgCBooR/Qk+l6e5bDVxYxtKak5HPQ+Tcs52mGiRCC5BhLQvd/X9bhn0OIIGkkxhMCzdBBsNUMlj67gcUy/g8AS+9d7KB7uE5Uj08UjRT1rZ7YX0t4C1VCGlyEF+6xB+LjWcyUFiqXpWXoh9bxzSiF25iJHWoXFrcz299eNoDvnUXXU2FS6QBhWGeAR+yHT3s2znZwg64pqaKbHQ+BZ+WuIHmB5i2mXQo3i0e+cxZA/pvL6U05ObxndZOLKaD57RfMHZ59vUpWpXdunBm3ShZ47IviwuhVIkkJCZAUtRKHuEgRQWXR/FK/Q==;SL1jA8iNQlJzczLaYPBjLA=="
+secured: "CTz0YPWB5pIVOZ5wj0MhLhyNNfB3dsaa1z0RAN+hCHss3VrURCNHr9wVG4uctypklPUADxXc3NsyLwFp6w3QADe+DGzc17rpKxGLDF/qX9hpLcAbcFl+nEDzWExsBOorMD6dtxjXwKo0HZQh4/4oFw1rHzHoTCEflhh3CqouFPQHsk8j1B0Y88NyRPIJjRTvtjR9l3nACrwt7jpBUbxkq3GqvSvxB5fGhF0XUULsQQEPJuqiVSLx/EwUbijag11NO7nIuUaPlstmvEPtp9UfMvkMNBMNVQ2cbbedzZ3gam1n9REbKQJx1pKVT4y/o2RUOlHd8+yUrkKqS+74nUFtNhTmKArbYhRQ+9iECwy7tfs=;/8rMDJEeN1KMlXbVCfWu9Q=="
 ---
 

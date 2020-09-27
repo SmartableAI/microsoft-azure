@@ -1,6 +1,6 @@
 ---
 title: "Migrating open-source workloads to Azure"
-excerpt: "Learn how to migrate open-source workloads from PostgreSQL and MySQL databases to the equivalent services in Azure. Explore the processes and tools, and learn how to validate application dependencies to support a successful migration."
+excerpt: "Migrate open-source workloads"
 type: collection
 price: Free
 length: PT3H8M
@@ -32,6 +32,6 @@ images:
     height: 400
     isCached: true
 
-secured: "Dichabruh4ztxv0Obgph4jQDGhyBOvnv01g5P69IHtRJL8qZUzLwmId2vphsDvR8+hjl4auY5dLoR1NbqgdG0K9MhHFHtjyxuILyygjEr+2Ri9sfPeMtVigOeaFcKQm4Dh6F15pe3CskCUnkmu9eXEmSRMr4Pnxk09Rem/XLOFo+IMY9AJ2G+6AptELCuZDBTA8oRQMqbQ4TdZDgvt5O0QRthzBLFefoZOvM4vE7d1HsBnwGDib5TS+dwJBECMlRS6LCkt9h6E6VFtPVe2ln536qZU57bO5jM+wrtDDxHjxnjFw29DZkjtvkGdnd/DcwsKusS2jqEbrQpIFtD9tz/A==;aNQKxz4QX9zZa1io9RkPeA=="
+secured: "bRaSB2IhKkAjQsfLtYPnvs+YO53EiOsE9NM6IVuEGOt5sUr0oZakELhcjnckGpx/0AeJ0kKtacaOwgZ04EPhdyRFvPGi2ji71aCInI/y2mJz67a0lnWANXd+LMHSNepsU5vQyb5UlY6LqiwCF8kzWYF+lC0dW7kRQxU4LetzaFpUrAaqgBfPt04XCUKwdxVHuRzJUFt/ICtsXslysblbJbr/mEsRLCgMCdR4hLyhkx/+P2Vq/eXqz0ygd9aavF92fxMTh9GmrYA9p6lRaDGBSHPyXRMni1yR816S0CW8kcgswChl9r7R4uliF+D7PjYP0pYG0UPAlBUgMR+4wQ0dUC18hVevoYjqjD24BYGtUJg=;5/GBxmdUnVdTVrG2JwLqbw=="
 ---
 

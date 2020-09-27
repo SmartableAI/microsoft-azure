@@ -1,6 +1,6 @@
 ---
 title: "Secure your cloud data"
-excerpt: "Azure was designed for security and compliance. Learn how to leverage the built-in services to store your app data securely to ensure that only authorized services and clients have access to it."
+excerpt: "This learning path helps you leverage the built-in Azure services for securing app data, ensuring that only authorized services and clients have access."
 type: collection
 price: Free
 length: PT5H38M
@@ -40,6 +40,6 @@ images:
     height: 400
     isCached: true
 
-secured: "xk33M8I02z2ouO6G1cc5B/8vXVimGjXGepwZq6b5hH19Arh1/gBhxuOpebz/7N+6y3xR5hTzvx463gzAi2ZeFXg1dM/4QiwFZVGEUTYHMxYWdNGbiTX3xj32skTgVYbBpZfWoTRVRMc6HOeO46haL8oaRAF2DqBxVBcAqW0I6Im8WZoPj4XGw5iH7h73tMAXrKt0GeiagmhOMEavhqCQRCobacZtAgFlYbyd3ku1gcVvW4xUwjB/qMUV1yMALjM93FkdfgsLt0Ogy+r+yttEBqRc92McyVVKdp3uYqcTGDyTahpi+cBFToSVzQe5w452Yz8v01VaDLNrxyNkGCavIw==;9TLvGPm0Es+Rc64Av2sphQ=="
+secured: "ydVwrvebiK8l4xMyIkhdWV4H9mQEGPfjxNniXuBgUp0pryz+NsvimsJv+hdfhfCVIx15w15gNX0Sioz8abp/YJHMg8AOObDiVg6vnK+maIq0D0fdjjl9cYMvTEtyT+1AIyElyEEAB+Jo70fE/8u/OOqdMO/pNxcAMxR05EDaLNW8wEx800t11aWdUSBy9ijY8QsPJnTpe6dy1tOc90EdwJgSAteLSFxWZRAI1L2aZXaS/1Fk+u/Bpt7bzKVHxaMHony6uSTEWwfd1BizXHloBxaYRgm4yMATQSHQcHkJUMNC92nYquUlINrZChkcv+Jc03Cnm6a9Lpud6L5AtcZOKlNodvF3/095887OaCEeJNg=;HbzMGz2yAdwD4Ou3EJgFZw=="
 ---
 

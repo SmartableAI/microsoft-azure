@@ -1,6 +1,6 @@
 ---
 title: "Evaluate text with Azure Cognitive Language Services"
-excerpt: "Learn how to use Cognitive Language Services to analyze text, determine intent, detect adult themes, and process natural language input."
+excerpt: "Learn how to use Cognitive Language Services to analyze text, determine intent, detect adult themes, and process natural language input"
 type: collection
 price: Free
 length: PT2H13M
@@ -33,6 +33,6 @@ images:
     height: 400
     isCached: true
 
-secured: "PvBuW2F5wK792gvOVrPEzRONJixFo26vpN5aV06hVzYrf8i685pV7MCi7Sh1HqrbDsMyD24ZvPikrPWpyoagOf4jkM7kwBlTzol7Ab8aSQ7fprojWrIg1S6juLFD6wKRtzt8Y2Q1J98pGtVPEOYuKPJAU6doxSCLvL5nE1yd2U9z1x3LLSwt9hjWTI3ELGJKBWpao8Ghh+ilnZiQRcxYb5KvACDV4v79lJ2SwdxGeYwtkqr9LbvJf2YuIKX9Q5RSM5hEDW3FkAObn+oyMJbCeaYWbA/pWXXIpc1/91XiAoDoARNpZtSLwBgzpFsZ1s0iLUmzmduL6YPunTEuBRj51A==;L2IbpUTc111JkRsFH9AmBA=="
+secured: "jx0+C1Emloc6QM79cPuknwOLnEMiEAC8k3LiFucIHkyJ4vreprNxfIyDxsjyxzj12xZALplJx0d8uWZia8FHMF2Mk+3KZtaOffoQvYNQn9XvUAg9Dhg4fxy5Iq5UGdMcuabTvy5OLpbqX9kg1ViY2nelUKXaqX7UM3yVmbpnjp5gW5GtmQXJtOPpbbHX+ffGuV+I0QfNSJdKd+kBTivUNQmwQUd3Ck/m38WoeP/dHwyqr9YuJ7CPE5Wfxhr5ynpIOJ8Fz1cBV9BHWUza++889dDeqRwv5UtQlatKboBNOxY0IPiFDShtgTAFKVuR7FGWdGNPvc/Q3lIexIcHBDM7/ia1hVab4CqCQSoZmIqsSE4=;ASqPCtvErFWTUVGSlcVLWQ=="
 ---
 

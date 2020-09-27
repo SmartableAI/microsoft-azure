@@ -1,6 +1,6 @@
 ---
 title: "Foundations of data science"
-excerpt: "This path is intended for beginners that are looking to learn the basics of Python and Data Science"
+excerpt: "Learn python programming and data science together with UC Berkeley's data 8: foundations of data science course"
 type: collection
 price: Free
 length: PT12H53M
@@ -40,6 +40,6 @@ images:
     height: 320
     isCached: true
 
-secured: "gqMCc3rwYILpL6EL3NiAvUUfHNc/AJoUTvp93Zy61R9o2fSsXvvewAcAY4lqJqXfPUjWYMrHjPAvgN4FRHENTiizo7lrNOWEujXU2IS7rnqyI9xHq+YLmTK1X9JmxkU/oOGiEL9ehHw8tZfXE/+fseMI0lmehfBhsu9MPoVFHpkg8UxbtxKClJGlYb+HCn4b0vo6xMquHPd1S98K7YC1VRtReUcT2tnCEcs456kzF+SowYABnnid8f2ZKIyMRjnwMUSmS8AGENWgGRkK67NddAqEw7DyMAhI8BOrBL7LZcNJR8Rp7Vz4Y410+OXGSTUjOa9/tATNpT5s+dd/9hiEEg==;/T7VXu6g2YTQrLKeVOQOQQ=="
+secured: "NWI5AiVqI9PdLCyhvPhXYFXNBrahEAtHnDCsVtd+g6nH95mAx+HJa6vCbgf5lfASORy7L7w77c8NKDDodC5L8kFCLARo4EUUh+sa81q3sNljpB7Ipl6sY63jSonDfgwz6Vy+VcwKyVIHpRweDaLntuS6HrcNrcEIPzZWbup6rijSgEiYzPSkohsCGDIajd2baPhWBxJG1OD4RikFLJaNkJ2NhbP014Mtj39isQ1GOSujIDpsgETFxr7EDO+S+J87uYQ/BsVd3wOW+dm0Io7Tk1WQThy4nm1LBFqEbKqmRxSHAk+QD1fj+YQU9iVNQYdUOvM4MXn2HR7uZQj36sxJ0984rmIFYkm91/TckdJZMDQ=;OTWY/3ZraGyJAClpBI4yMg=="
 ---
 

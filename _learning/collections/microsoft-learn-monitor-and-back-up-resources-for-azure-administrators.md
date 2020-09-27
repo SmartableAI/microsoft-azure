@@ -1,9 +1,9 @@
 ---
 title: "Monitor and back up resources for Azure administrators"
-excerpt: "Learn how to monitor resources by using Azure Monitor and implement backup and recover in Azure."
+excerpt: "Learn how to monitor and back up Azure resources."
 type: collection
 price: Free
-length: PT6H25M
+length: PT6H27M
 heat: 96
 
 provider:
@@ -41,6 +41,6 @@ images:
     height: 400
     isCached: true
 
-secured: "Sxfj+VHYF+o+z/E3tEEy1phC5mBPFWRDH/14V6KAFbUwoWe8xC8DnaUI5D5tytNHJTHDZhNf0lJQl3ckRqqXWoo0JzMoQoCD1gY9D5pMk8202yUrUuv+MkC7qPePkHd8vKmH/oxOgLcPiyy85kTwYrbLdG0XEITFLuYg1JJ24IBLQeP0PYEaWwQdcDWMi0NPtoxMLDtyOOaps9YwSypSOTMA6sJQfGLTn7pZPUKzJv8ZffjuGQg6jT0u6K3u+BFvcEMLlvBUufpwz6N+7eKuZtVdCNqcwuDTxkQ0rc/oTgduZGNamlQZYzwM1Klg2brkWgyWKRO9BRRHHssuaYw3rA==;a1vWLwPq7xb139emji3ulQ=="
+secured: "L/b9moTLrKdI1YNWFZHPyFLLO1e+92PnfpE3jmrk6ZP2tlku0VCSBM37WGxiJWffdGPCVK2HgO4vFYN2mXhKAS4VIJRGKxaH72HM0VgHpaHCosxa2pvYGPsL+WhjuniVkO5yGfb8xZrtCoBCTxlK8VVyXdBASE/keBoBqSLe8See4si6c4aLHkpJCV6orq8tlJ/KYrvsJsZ8Ce/qldCEu14U8eV35gtaMXYl2X6pp717vXVQPrOW9Cbk9aMEVrmjWhGZT7IEjb2SvS8w58Kr8stufS6PgmACyftgcf+ZhtJ1qsGCV3Gmg1+AUlw2rPhUjoeoB/swJ47hiR8QTF+8vyyiPF67YmEKpoQkCCCQ3wM=;kkuofS0XNaHr4LZCDtHYWg=="
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Migrate application workloads and data to Azure"
-excerpt: "Determine a migration approach for on-premises workloads and databases and ready those resources for migration to Microsoft Azure. Migrate on-premises Hyper-V-based application workloads and relational data to the cloud using Azure Migrate."
+excerpt: "Migrate application workloads and data to Azure"
 type: collection
 price: Free
 length: PT3H14M
@@ -33,6 +33,6 @@ images:
     height: 400
     isCached: true
 
-secured: "C0lkA6kVgGoSJS6gpjmerPrgYlToUStX3pZNogXlKdwVum4M5JmDSSa+BgG3R3mDFmglfTrTu+9dNfmnPwYx7Bf8BiH7M7wRtI3AYTuDe08uvSKdhv1MuGjKFjswfF4YnyH2Ef93dVF33io10rRTS5Zg6M/2C/IsuD7Ip5B+d8Ze+g3Fee/CUg95ystbjj78C+d8Da3pJQCsPwuLvry4JYbKeD64MSnNhOYcySUNS59uDNH9zx0qsTpCwyhem7XW1MF5fUGTJ6+BdXGox8uO3/MWMLxDKXY2NHx+FEb9tofRrHYQs8nx9K12mHu+Jd+c0UnynoUtq/6xpQPiRUkkFg==;Nt9iGI74sjYVZDvkT3zC5g=="
+secured: "UlCMIDp1z7Fena1iBNiTUM68Fv4USoZCwHVhdi8rTKWlrRtgEIl8aY+/LB/OlRTZ7m99DYZ9muHgHh4lCfTnIpOWE7wzemTRKaSI8W4dpZweYihFg8dhqzSt1tesIJ0coCXMmtVtlVZ6r9E8V/Z+JG2333TOBd8Va/LL/thLF4mUe3B8xY2lQzMX9r0glu192EjkYdOurIGVYfrz9FVAIX0Rdym4QEdj0T17U9kHzmrBA4JxCFIr6Orv9YN21xEKTnDxQ5QI1C7JOp/6G7f1qsUT4MSp4n4DTWQwxdV0lVAa2Cno32Ly2W16eG0m+l+DtMKJeLHka/gCoY1mOj3u3hZ9E1LFbO7Z6rcnBVpiCBU=;vf62y8aXhrcM1eZrHavv1g=="
 ---
 

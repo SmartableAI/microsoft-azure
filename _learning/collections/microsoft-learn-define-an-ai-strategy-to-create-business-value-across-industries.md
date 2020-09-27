@@ -1,6 +1,6 @@
 ---
 title: "Define an AI strategy to create business value across industries"
-excerpt: "In this learning path, you will hear from Peter Zemsky, INSEAD's Eli Lilly Chaired Professor of Strategy and Innovation, about how AI is driving business value across industries and companies as well as Microsoft customers and partners. You will be able to discuss how technical teams are bringing AI into business applications and how business leaders of different industries are thinking about AI for their own businesses."
+excerpt: "Learn to develop an enterprise AI strategy to create business value in manufacturing, healthcare, financial services, retail, education, and Government."
 type: collection
 price: Free
 length: PT5H34M
@@ -35,6 +35,6 @@ images:
     height: 400
     isCached: true
 
-secured: "DeFdxS8htHQPnLno2cfGANYgo/j7GqZng1SI8oodVrWaTk0ifCQXEkNFjWVyppfmf+rL8FZIR9b9ecJhWpgGs7lv8lennc4JoR1Ym7WtNK4Hcwv6QszPNmQAX+Wpm4U/5b4hKVz2E1Ci0tQOZ6t3qkVUI51veaVFedu0HnPa7LuVmdiWTtC/xcx1I6nZdaSns1MOBrJQERdLFZFqta79X0BLNt6aztFJcdPxS7noAiJBzy65rl8O/2mBpD6SmIn3NM43mkJQ5NOwV/5jHE4s/n593TM/nxGbAa51d3VbnpBZPWzbTUoHyYwSNlv2ltqpNwVlZj2Fhwc952LmRTL8jg==;BP22XblaKxIOnp6346u1XA=="
+secured: "OL1IIIUT57a86IJedTHNtx4jhdJL0du4YKoW99NzOxk/1NsCJrrkVhkLoFkssXNWwfGlboU7t6G1NL9rICnjk8PHI7BBUf15KAa3IoS6Ffii/fWfQtGVDXOR6cGlzRuDAR1mpgRxkeHms7Zaulw1EE9EosMFbG58JAwmLjlMcY1zZ27aZFRf/C4kD8q5Z9xSKokX90xDKJyFrEl5mz/rg7Oke3VLUBQcMy+cNHzsfMiDXWIx4UeFau6NOHwUgQ7mfhiUAcNsawYsNLJz+kNg+cyQVWpnUgH34kQjUpMxKPYf3HhSADdJR9snBPQ/qurrggnZ4fmwuUzbo3fZ0+0kiAMFX7qBJX7Fv78+/NN2i40=;6HO0uN+fA0yM/08321EO4Q=="
 ---
 

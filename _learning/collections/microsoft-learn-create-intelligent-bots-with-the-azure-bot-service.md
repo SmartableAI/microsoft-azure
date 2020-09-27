@@ -1,6 +1,6 @@
 ---
 title: "Create Intelligent Bots with the Azure Bot Service"
-excerpt: "Learn how to build a chat bot and add intelligence to the Bot by integrating QnA Maker and LUIS."
+excerpt: "In this learning path, find out how to build a chat bot to interact with customers using text, graphics, or speech with extras from QnA Maker and LUIS."
 type: collection
 price: Free
 length: PT29M
@@ -31,6 +31,6 @@ images:
     height: 400
     isCached: true
 
-secured: "9fsyjAhJ8durvCbcYgZdGQkbVqXQph4HCh2NTG6gvfk+XQoSEY2a5zg4dL67EPt0Od1h77jtuTUfoTxKi9xD84rbg40w7J30GNBYfiJPF6XadOAYbH0HH5PvIbQ4+6HHc4PPGEbjp+f2VmmZX1ft9bYi2SOlrA+hpiGEfkdyT4b6ZM4YjxDkE07DvRKVbjs521xrlIze8ReUr99kbCHAZGfzQVVWvc05Bmr45f2JBxJsL5UFTElxwLaq9gHP1pGUOpOWwZbQxa3Bd+5iE8KaYjKO4pVDI+8pkVdx+nlZtMlUGYThMrG4eHh8rsWngKx66+eQsrrTt6uco0KfdtObQA==;rxvu6NMPzOXDb/jkPDPJwQ=="
+secured: "dAFpsbqceiaXqvk+Plj2DSrwOJ6PmXgLISchq3FiKFfKQoFadtM0ZecsprMqp17AHvMDpn5OfavzmCnFz6wVKlVcGf8LweWBKKecCjWsNidhzp2DHRWkPG4TFnscARclEesyrZbr38nx/hBgNMw2a7KkQ1uM2dTvzj2HmMmrlNeVlQN8H7kgr0mw2oGYcnwFJRgFZKSO1A04qrYo7tVdM7wsnGPis4VdbobKomwYp7aizp7/FM5PZLzjBeh+uNH19vQ63UJrx28BjeM7TqTS/zScK0LJRLxDi9qx5yperDR8czqgLSqhlX7M8TynnTIVwOHD/IWpyQYYN7hSCKb927MBp5dm+VqnlT8MG4cSVSQ=;ncaPMo3A81mmCGyAFTF0ew=="
 ---
 

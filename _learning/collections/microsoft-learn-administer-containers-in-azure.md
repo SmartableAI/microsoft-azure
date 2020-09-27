@@ -1,6 +1,6 @@
 ---
 title: "Administer containers in Azure"
-excerpt: "Azure Container Instances are the quickest and easiest way to run containers in Azure. This learning path will teach you how to create and manage your containers, and how ACI can be used to provide elastic scale for Kubernetes."
+excerpt: "With this learning path, you'll create and manage your Azure Container Instances, and see how they can be used to provide elastic scale for Kubernetes."
 type: collection
 price: Free
 length: PT5H10M
@@ -30,13 +30,6 @@ topics:
   - Azure
   - Containers
 
-images:
-  - url: https://docs.microsoft.com/learn/achievements/intro-to-docker-containers-social.png
-    width: 200
-    height: 200
-    isCached: true
-    title: "Introduction to Docker containers"
-
-secured: "BtLGkszM3RZ1r4ZVYGRUXYXrU/BQsQ61uNvPCaYFyjmJFsvI7Q5Vx9Ypea8jZ1L1zdjS1EkGiDE1J8UHMccWlNtmfw6fAoQtkDeucQ13C4Qcq4nQ/YgmOXASN1STngj5lyky2u9Rjxxov/bbVcTN3IeFv3dl7KXueaQ7fEE34AeIEu9IljEHha4sxE2azpgARITu9xqMzYjwaVrZcJh0PXUbO3g9q7+6en9GEfA/2pk0lJxspRw1Mi4aQg+PUc4icWsoc6zCvZ5Mg9G7qW2CNRWHg7lCOrmAtWmFOp8c4SjWhxWtFqXF6vfp09kewzbQFxxgUHWCFUnsBEX+SllxxQ==;LD0WKUU/pmJpbAIw5IRXwQ=="
+secured: "urcdCE5aSrgadEjjmD/6IP3ZvF4VM9ZMv0oYxcy8SGzcP/Lvg6RZSwQcqRdNXyur0UWBqhjt+i4y7N8b9yt0VcIXewDOmu2bt3KZjBdbwB1b92RXNiA0HcNXphturOeYhTWcwFH0DZGRQPLYF8hrUrgW+YxeJSOsasruvlKokBdrts6sPqUMESGmHCQ/nrgdJbz/tfbnS1mbygiEurI+aiSSBRY7beMh6bsoN1tqNcFQMU5z+OgDxskGIEA8+0h0QAG9fYYIVeBzsKTU1Ko9csm7Z+ICoCc/dYExJNpapBrfMKpkpYv1QExtjF38xGJUsaXx16JfpbKH27nZONPqu5CGc2X2k+XIsrpxVVS33CM=;G66IsmrYe2y8emeTJa/iyA=="
 ---
 

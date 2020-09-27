@@ -1,6 +1,6 @@
 ---
 title: "Build automated workflows to integrate data and apps with Azure Logic Apps"
-excerpt: "Azure Logic Apps is a cloud service that automates the execution of your business processes. Learn how to leverage logic apps to create serverless workflows that run automatically when data is available."
+excerpt: "This learning path guides you through creation of serverless workflows for your organization using Azure Logic Apps, a cloud service that automates your business processes."
 type: collection
 price: Free
 length: PT2H49M
@@ -37,6 +37,6 @@ images:
     height: 400
     isCached: true
 
-secured: "4534Le+fwvJBVkcOqxrlAu0T0v2ETukDjWVpqAym1toR/ynDaCGURaFuBRzK/eNJ80LI6W3N9vLv7FYn+/Z3fOVdoI7vCj03yHeukSVKyXCRWoIvzClFz2NkZabER7eQb14rRnklbOU7av2hnpVv640CoX0xgMAAiocE2NM745m1Ryu96v3sWDNq8yQPRiPm2q0IU/UUG5vL3tpmhONFO9bxhVzoc+5F+aKzauqaxPI9opGEGskyUTPYgtbEFIbs7n6ai0GV/qKZNZMgqwI/9409o5eTkiVNZ53H6xYzVddYz6focfOUvJaH35l9ei7HSq0xFYBuG73Lxr+USrEjdA==;5f7yQOW+2n+q4iSxCcnrCA=="
+secured: "KniWLWuaOTCXBoGrgeWvPNAfjEzrAYtz0wf2oqAcmSgxROVydxh+cfq2tLdBSV4Pz7GcWQCZdCRz1Sds56dMf3oGNAErxycnWi4BGc8+TOVneX5o5kWj44xHqskVAPOxFPGVJ3diHtiazMZXTH0KgMfq/zZyHnGyM1nIBosm/I6ac0vfPBde4YsNHVc2t5h+ReE98F45BdfQsZzjFfqbS+BuQkOXSQDcGaaSFYmkNCalCuZcjQnmS3ibAfenzhEDGzVAOJs9PSFWVEau9PtvaBmijMnAngU/aft5Uea5WHLHuD/q5tLhy+S3o+9uJ3v494jRIkc98HydZF8G++5JCSGYjqhn+2Q+AdycmY8n9zY=;9vBUp7H3zFKe0xJcv5s9kg=="
 ---
 

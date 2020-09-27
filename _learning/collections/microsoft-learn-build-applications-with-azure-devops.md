@@ -1,6 +1,6 @@
 ---
 title: "Build applications with Azure DevOps"
-excerpt: "Learn how configure build pipelines that continuously build, test, and verify your applications."
+excerpt: "In this learning path, find out how to collaborate with others to continuously build, test, and verify your applications using Azure Pipelines and GitHub."
 type: collection
 price: Free
 length: PT6H45M
@@ -35,6 +35,6 @@ images:
     height: 400
     isCached: true
 
-secured: "OGNdbtLdwORpCRqBFo4fq8Fb9kpti2RLX4KrAjxyXBbarK2ACVoJzAq0l69rmvxGCbpSM7l2ORD7ZfJM0ciVB7Wtp7LS0i1UW+/D17Qu6hULjB/RnvlCA3ETgthWTetF9ONA5N2fwujULtjcxO+tqYAEoqfCmHm1CSzrYOXWrhOPr8xRvYN2VhO1e9jL88Igc+4QnEW4EyHrD19rpAJrBpzfKix6lmWHqOfh7gq5Ch04d3RMH1IY0QZ9Y5PHIgn6qveegMS5o0695OP8VLYxjk6v6RUOU3qyrBMCBHeqqpM4KphVTQhW/4+0O81JMZsQ++QuwO61Rxvl3IA2gfi+4w==;JJLdJXx9pwOEskZwE7LNBQ=="
+secured: "qAKoVbPoJW6fje8ubHcnliJ0pJY6HQIHNvx7upfV5zoOvBnUCfVIO8W/dtCYBa/q0M0p1arvrFhr0csY/PLsTPngfkvuiaxqs7cqst8bXme43dZkGcfcb1c9io04Fv/fKAtq2+KQCEJmLysJE4vAMRxEXND28v8HGiphkMHohTanurFv5Bfhli0Ioh9JsBo4Fju8ak1qR42lJy5Zy6vAmDfF61ZQwdtT5rboyT6Mli9nUXQt72W1YRo5537NR/3egTz3xIKJ/d0++cDBvKGfJCqCJVR04a7Up7LzmWt0SD19Hd1dEMo97Gr7fnd1vEjIpt+b22yESKGq/TntHiigtGfDy0jgbuAgbOeMgpD7dbc=;HdGznXrRhcNV3DFeRiFuvA=="
 ---
 

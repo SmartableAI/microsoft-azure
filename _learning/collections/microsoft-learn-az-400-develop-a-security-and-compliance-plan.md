@@ -1,6 +1,6 @@
 ---
 title: "AZ-400: Develop a security and compliance plan"
-excerpt: "Build strategies around security and compliance that enable you to authenticate and authorize your users, handle sensitive information, and enforce proper governance.\nTake this learning path to help prepare for Exam AZ-400: Designing and Implementing Microsoft DevOps Solutions."
+excerpt: "Build strategies around security and compliance and prepare for Exam AZ-400: Designing and Implementing Microsoft DevOps Solutions."
 type: collection
 price: Free
 length: PT8H31M
@@ -45,6 +45,6 @@ images:
     height: 400
     isCached: true
 
-secured: "/XrfbOgsoTNiufQ9SxMnFqgeb3EPUabulxRDsWrK1wdJ+vA9LKk0rxeRKscrmqoyx/P0AUyktl2WoCoKm5NmyN2+1zec+z+THy0GTp34N5ptC/IHWPKUD18bpJWcA7n+iGZ/ilmjJjJOtx/sX4HZqIvUNUykUvskJIW8u9LcoJEpiNg/6wjEWWpO4PjNOJZv0K3K9MBUlW7Pvqo7kzbIifZvYBNwTr+HDTV4yZqEosj8GEmXMZ4NFNy+hfDEjM4STiEjvPtPz7s2tVkNDUK/anVfq9kPEngN3GozVcuoUa4Zl6YjCLVHb+21SVJAU4qXWE72IMGj8+cO3jol+bsn6Q==;3i9Ak0gSD4U+4FhM8XCDYQ=="
+secured: "b81EgEJWX7GwzRTU6qqjnJjD13acHr4aei1FlUolWEODxbAwDS3Aju0VbqfyhhYboUYxwLY1IFC6JK3FhQV+UAU0VF5WcC+p0LVwgPNHa5bIFGPboQJXlWKYmA8/SYMIlfCIxYLrw3Z8oT8RrL4KHeU0Tg9crIimtfWfeWYaRiz3niJx9L/Hb/uWPvBD70OFUnQ12ypKDGeC4WSjKTkM3D6Q+fRXh48IE3nUtIRGJuLcuK5CEDFL278s/AeGtXdWzV9EVhkw3KaXqfZEN9TqUCeqUrG9+46/G66cAB9sH3BRJO015t6Uz+iIMfDZuXE9vRFey+64g+bnyBZ3zRJlEvDtYqBButas5eqcvPDmYy4=;VXgEYiziZowNdVc6Bd5TEQ=="
 ---
 

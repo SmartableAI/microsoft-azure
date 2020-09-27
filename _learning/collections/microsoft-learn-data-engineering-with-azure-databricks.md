@@ -1,6 +1,6 @@
 ---
 title: "Data engineering with Azure Databricks"
-excerpt: "Learn how to harness the power of Apache Spark and powerful clusters running on the Azure Databricks platform to run large data engineering workloads in the cloud."
+excerpt: "Data engineering with Azure Databricks"
 type: collection
 price: Free
 length: PT10H32M
@@ -45,6 +45,6 @@ images:
     height: 320
     isCached: true
 
-secured: "uL2GYBB3MmKOrhPRaUn0souivp88CNZ+nQK6yuw37gzc+fm/MZMe2v+Td1S3JB3PQUNI5GuQW1TtASEx7xILSXaGJ2sketgbEo6dYouWquuG50yM49HXm83EOX2qMQlv8BFlVldFXNZ6k2iedVU3w3cFLITZDL8xXvIEEfDJKLEeZTswqvgQBp1rAw1pv9KRxoi3q7Xh3DKQP6nwGny+7jP5l52f2Hhq3Rn0z44Pk5RNzqea8brbXfebyNLy2k6weSOpGAdscJOokoXLj9yxYq2BgYH4eZ0uenw6qUy3vnS8Mib5/LF0smqYd1gljHxSOJAhTvpfnFW5iC4XQuWzlQ==;x4pipY9SJLzms2I+SvKM8g=="
+secured: "1nRh4dU6Q6QCFESjJ9LdSzof1waS/bqkVkc+tQjGfqbQTIMmoPYgQGbDzpiIPMTNnWSbLe1BO6Bx+KdKsXMfdw0HHeR9pgDMohPy/6frYf1IrynfOTOEqWLCGi1j+eNynVdVCUIyaf1GDYdfp1n0N8SppTd9rU2u0RPOV8qmi72dXz1ywoLbpdXpMsmgH281Si09foMRj2Yrdi1PJ90rD8N8/+nqxsd5hTsFA4h6h4QXPZfhwSInX5kADw7DxuQCJhdSRj2cMFtUoZlCpSpPtADOWsetEvhOkIr90+hYGhPrQvXReTsHM91A0va/Ga7M6oYYdVu3j3tCjBm4HtVfkflrKJ0g3WZTaCpRYHMNaro=;0Oaq9K9tiEZiKkjX0avjUA=="
 ---
 

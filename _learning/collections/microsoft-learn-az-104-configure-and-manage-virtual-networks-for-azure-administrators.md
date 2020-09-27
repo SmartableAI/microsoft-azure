@@ -1,6 +1,6 @@
 ---
 title: "AZ-104: Configure and manage virtual networks for Azure administrators"
-excerpt: "Learn how to configure and manage Azure network capabilities like connectivity services, application protection, application delivery, and network monitoring services. This learning path helps prepare you for Exam AZ-104: Microsoft Azure Administrator."
+excerpt: "Learn how to configure key Azure network capabilities and prepare for Exam AZ-104: Microsoft Azure Administrator."
 type: collection
 price: Free
 length: PT11H2M
@@ -42,6 +42,6 @@ images:
     height: 400
     isCached: true
 
-secured: "QOnbsdIeK44h6zFuCym7ImEIa8cfAxdNI/WzeLPm01MXYFf7NOPmKl4jVIqLU7TrbT46L0v0er8KvESvJINqEVJbl+s/jNHhOQhy3vf1w4/UQaXuJFgj+btPifDwUOM0poGM+0HYIjLeZ9v3vq2Cxo4VRqd0yIoK5aIWVXm7ganUV54qm38o5Af351qm9a2iQ64vnyVYycCDvkBGkTrR0orGX0i4F5Bhe7+1dBCaGKRMaEY+rq8bxLNik1XTJOXdwNkANxG2OfqLvjY3Lfd4NI46zzP85famTh1GNoIgIdAFouEH9wpxZL+lH6PMauvyBU/nwbf1M8KEkhfB1uZbEQ==;QtXvIFjZNqMMyU/RFrs8DA=="
+secured: "XK9X/8yr1iKK4gqg/5lDnwP2IWX2BSKLJ+L0S4LiGhXDGQFr01La29GseJsHVufXtSwj0rxizIJz9fS4Ers1Y3wUZ3dRGFr/Kcaz6ElG2iqo2Z3p7RHns9Qxxx+T0ezZOoXHnMXN8sdoLVcvtIDhhEFB+6nC6EYsHrG9fDw31u2y6OJaGcSsgHZLWGRvLGisactJVASG48OVxyZKTC3xBJctoh4yITXLV07Y1TEu1ZoDzVKDEyTkXhrG5IWUDCx+8baZvEq3+FGJ1RxidDfUN/xmlxjn81MQn5ABu3iWnitELX2fTOGJmpbb1BYELceH3skWKA+sAEoKtIv7h7lPHYJs9ukdRQqMf8fV/TVu7ZM=;yyFf2wuKdiT8pO4V8ioAsw=="
 ---
 

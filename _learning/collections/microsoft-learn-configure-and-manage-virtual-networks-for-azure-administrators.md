@@ -1,6 +1,6 @@
 ---
 title: "Configure and manage virtual networks for Azure administrators"
-excerpt: "Learn how to configure and manage Azure network capabilities like connectivity services, application protection, application delivery, and network monitoring services."
+excerpt: "Learn how to configure and manage key Azure network capabilities."
 type: collection
 price: Free
 length: PT12H34M
@@ -45,6 +45,6 @@ images:
     height: 400
     isCached: true
 
-secured: "qLWKJOV7EdLE7RvAa7NIxQSc+lNcO8R2ID+2K/1b+jfYx66mRysqw8qYNuFqsnN7RjxbYMF6wnZwXk6TypUi2WZSwV/UEmF/toVH5CQ26l+Vd6dY3ogWkvDv5op00lc9rLEKlhOh316bCkKAZxHQon5PvmB43lffPseuztI3EFh3W0heVb7AXPNhOv8CqR+AO9hy9YhylLJcMtJ922yrvFa36EhmRR6p6wsuJRH1iZg0N3MSxd9H9QydzhaN6O2IoaHHgXeHTxVciKWCw4/c4dzJJ4zyoGqVB6lNflJa7WxGoiGhwTxnFCVKRPIcSFP9C2pm/JKv0svNR+uAfI4cYw==;mJJqbgi7EyF6ca6J1fJZGw=="
+secured: "jslA2yGfG4zVjAtT19g6O02Id3lF4tRpO/jOiuKMCWLwzrJfkn5VU3hjDu9JGuB8dZQ9ufPl/oGM/kanx8P87s7/LUXEgD2911pHc8CKLDyAkc28Hnct1Vv4JPGwvz+Rqn6pJ3vTlwXSFgUbyMJN85q7+VL6urXUyFH6ENlKT9hkIiBdJX6UpgyFVbcH2dtpTa+8iaMcmDvsmoVLw/lvX8ii7Inay+ZXtkq/4bVklV4v241wH22aaEF6iU8mB6ybnT+EG5uMT5MAsgx57xNCmaSfM+Ya35Jj2eoWtb7FWDJOVzk+e1cO1xymXCpsWjhXThqgkUQfH1tSZdilK7ciL0Jj4e16BK2Lk3MC2Tpg4q8=;09hCF5gQM4y0H+I8kNpJdA=="
 ---
 

@@ -3,7 +3,7 @@ title: "Introduction to Kubernetes on Azure"
 excerpt: "Learn about the basics of Docker containers, container orchestration with Kubernetes, and managed clusters on Azure Kubernetes Service."
 type: collection
 price: Free
-length: PT1H50M
+length: PT3H56M
 heat: 117
 
 provider:
@@ -34,6 +34,6 @@ images:
     height: 320
     isCached: true
 
-secured: "wutJ0zsoPziqr4I0TqCgIvTXvK8v7BAees8zRpnVwilVq2ycIdETCfXhEufCq0hge6l15bRkRQw1KQFNjllNhtXF4B1IsD7fg1KbQHH060ZvqLQ6dg9xprwU+utd9NOj42FOWaWeqyKNFKMhiYXqk/+umRGXJXwH7ol1wwH2A5RKApQ8nB2kMAeCQj5+qnCB4a/TBp3TcA+nf9sLBV5rBs0J6CM/lRlXpWdMrrK9hq7Xk/UF/ZFrQ2lLMeXImHKPHfaesqIFBDqcQhyUg3Tx/WodSqATCQv5JYNLDAWkKPi1BBcWjqlF90MxrO8n3DBVc7ZzZlvLYU/VlPeGBnugCg==;/U6Bgrvjr2MGI+rEOubdqA=="
+secured: "Zyo1/7Db0Zpjt66pBaHRsWakQH82b28FF9fZLxuHIXHbuW85T0rli54/zcIzPFu0wT/Y4GSFAPjM5tvOkze9WybXScvLsPGq3slsAw33l6f4xYGAAM2ZxpRXolTWSIJJK0zv52m3Np1RMEs3507tyxnNJ9B7razjvaCq7rey7DjEpCOYQVJR6An0aZYT+djSdrNgM+GWeakU3l/jhF8XWfauxVo9urdt8m7d9Uak/hxA1MCyyuEOrZQrvNVMiTwHEgR6dwWEPr73oB0FKrul1VjNAhVBNHz5D1KVkZPT1VUUE5ofmZvpId+5O251J8fg4hR/TtPbE/B93hg3xpwd0T0PgBw5PPiy/G7UsCrOF4M=;WM+3h1tNhMAqYtPqxKHJng=="
 ---
 

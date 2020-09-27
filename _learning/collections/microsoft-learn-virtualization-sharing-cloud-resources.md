@@ -1,6 +1,6 @@
 ---
 title: "Virtualization - Sharing cloud resources"
-excerpt: "Dive deeper into how the cloud works by understanding virtualization. How are computing power, memory, input and output, networking, and storage virtualized?\nIn this learning path, you will:\n\nGet an overview of virtualization technology and how it is used in the cloud\nLearn a formal definition of virtualization and its different types\nUnderstand how CPUs are virtualized\nUnderstand how memory is virtualized\nUnderstand how I/O is virtualized\nUnderstand how storage and networking is virtualized\n\nIn partnership with Dr. Majd Sakr and Carnegie Mellon University."
+excerpt: "Carnegie Mellon University's Cloud Developer course. Dive deeper into how the cloud works by understanding virtualization. How are computing power, memory, input and output, networking, and storage virtualized?"
 type: collection
 price: Free
 length: PT3H22M
@@ -35,6 +35,6 @@ images:
     height: 500
     isCached: true
 
-secured: "iUI/XCRqB3sUCM4yO15E5ugMv2H8RG0iAqp3SjKM0hxIb7qSfsskIjQKWgxIA6mvx7Np4iQPRDY4It++/z2U3VvvmwTYDk0XoIMp668EzvNzkhClYBob0oi41+NycsZi/GG3ZpaCmb4wa4iNLT2SO/86qfw3SXPhaz5g/iMHA9ZiDNnc8wJn7guM3207+BugDLaEii07U5k1nN8xvzk2zefrK2ZrMfiTfPY/2iiVIR2OeAmturrOHtHNhfP6HfYg/jmZ6PMD0/j/8b275jOxLvGjNFl7U7G6ognOTxwSRfl7VfbD5XvRKXecsJDIFKXv6uYb42hzSn8ALkBZTddEDA==;TfLLqjfxLf2k316STqUssw=="
+secured: "yApalzsxe7rkhe4RGvHqJ+XA64/FAon299umZsN76JcNJ3nq95NT/WhY8sSTwXqdCdWPsmViesx/z393Xqrx6LNdDduqMjk+aPxfIIXxBnW5iug2XemDtFgN1g61bwJfzI4HBNeQRxuKSiF7zf87jhQMtaJaXDuKKWWOPGcsKz3KZ7fJfE2eW2GS1Zh+wu4lLALITyXC2JkX+W9Zon0WVBWGpGPJ3qu6tA48vl0laFI9KuGJJyyKGlORCpVoxAJGeabrkX1jxzhSxWtmTzaQ/FiAb0uqY7OQfuTYAH+sh6ZDLnCqwPMT2MZuTrUOif49eAlbNE+MDRAi7dcwNlmOR50FQbCoZyQ2fHzERsDL7Mk=;7255q/4zuz+L1ndq528wJg=="
 ---
 

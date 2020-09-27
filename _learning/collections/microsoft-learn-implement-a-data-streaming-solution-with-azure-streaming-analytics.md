@@ -1,6 +1,6 @@
 ---
 title: "Implement a Data Streaming Solution with Azure Streaming Analytics"
-excerpt: "Learn the concepts of event processing and streaming data and how this applies to Azure Stream Analytics. You will then set up a stream analytics job to stream data, and learn how to manage and monitor a running job."
+excerpt: "In this learning path, discover Azure Stream Analytics streaming data, the concepts of event processing, and integration of Internet of Things (IoT) devices."
 type: collection
 price: Free
 length: PT1H14M
@@ -33,6 +33,6 @@ images:
     height: 400
     isCached: true
 
-secured: "FNe6/rdqu1sb5pCLx62qubeuyvJzU7LdmRdtlkiknU3qLcEGF1aB3FZfzwQSgqo/s7Q8RNa/2UWAcFLStzYObkzxEgtVgsS6PpyWIy0H2HgT+rqz972vNTThTGtvShmeIIuvvBh9wZqbVdu6oQ3TEF6pcWiwiPnPn2CQIqRUk36C6Pbwi7pCMR71Kwbm0wQmTilWXNlBr+zZiQHYBj16PHCcCYaKA6fxG1mpxSZYyXetNQah6OT7wMAiyqHtIYWusXKTOVKu3pt+yIowuun7TUBWoDORiS9BcNNv9Z3nfhVbpz9S4doaP/yg9d/4GleHWcGnmTZm+SF4VcHgtkHavg==;dpG51VLj36KmdcouTdQAmg=="
+secured: "rhzVMPBcKGUOyoE+4GZlzq4w7nZAg/aXMYFzldGU9D4t+sQb4B5ZK8HPMVA9DUWIGPR0kciW6Y11h363q9BKDp+e8JXPCHPC6QlPC2zrbD4ihtno4HmqFZiJcNWtlT36rPtrCk3UXmUTKQiiu6f8s3nFKmMtny+HFFcV47tqqb98553esOvtJpMqh310ahs2BQsVNCrJq875cA+ld9c9Rg+BOSy9QSSTiVguSn3PUPwzxwvp5124lKQD+3YVKEgJCqlPyuBTme6gZylWMpjJDTzxeCVrBJNd803NrgqI+0GE8cXy9InG3jRLAvqLuo8zzh1Mfyf91AmJTaLwt+gXfWcqSbLbZIqpH6qIAhuyqU4=;YAXs6Y/JPL9lQvVlw6d2mA=="
 ---
 

@@ -3,7 +3,7 @@ title: "Building Open Source Software (OSS) Analytics Solutions with Azure HDIns
 excerpt: "Building Open Source Software (OSS) Analytics Solutions with Azure HDInsight"
 type: collection
 price: Free
-length: PT4H36M
+length: PT5H6M
 heat: 63
 
 provider:
@@ -36,6 +36,6 @@ images:
     height: 400
     isCached: true
 
-secured: "KQlitsZ0eBjbLZ2l9bFWIDCo7fHziArXXcppOTFP+sPiuWZo3vyozQc7h4Bqrf14EECD11yjr9dQVMTAh9yUA2ZDbZMpivI5mf2NM1LfehyT+ezWvnWT0fT+/UZ+DPuHxkluWIn97p6kh/P3zNHYRB7Xt+NbhAj3mUpeySZ5f1K2sONUsrXiH/MSQ2uiJVDGio7WxFRDK3q25EVorXj+vBZDmXgXdmBRVEKWBr/BR1mh63kAj59lnPq6Hc9g+BSUh3NNZNjbdLBOgAG3OZxKBopcNCKs/Z8LKRbgN6MwJoNdxwY04V+PHWtfCF/Cj1hzNxzWxpiPG1/WmI5yfcuKmA==;IWo7F6ipwgbqA1FKg5jN7w=="
+secured: "b0AbGOPe537exuJuD+uVjJZs0t9jN8Qiz1rOJl/hiOcGYNC6jQCzn86Z0I9b5/ekgwTtAtFM6/z7SOqrbiqWvSEDboshCLtEKtQSktYe3inToFmLo2jEH3coGnlpfKqI607FMSKaIHp9wReRXXcilI32Wxy4M/rnFSEQ+OBcy6zppqytCdDclVMAaYX5ThCCxLnT6gI4ymP2QdTVX/syb1Byrg4HcqyyDCUqoPntleDgAG+rDIDqa1TjLun4puKP8Y0RBBSF9/Q7XYPUoDPCR4EH4an7h78HjHTy/Pu9K9GRgZLALeS2ygBl4DuUIPn0FjhaQ17MlZEA4hMale060ZmmcnYANgP9VIaIJZAkVDA=;a5FH87Y9zXdKfVKAIMwfgQ=="
 ---
 

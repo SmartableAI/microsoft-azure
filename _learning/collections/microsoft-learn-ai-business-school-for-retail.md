@@ -1,6 +1,6 @@
 ---
 title: "AI business school for retail"
-excerpt: "Retail industry decision-makers have considerations that are particular to their industry to help them realize the true transformational impact of AI in the enterprise."
+excerpt: "Learn to develop an enterprise AI strategy to create business value in retail, including artificial intelligence and machine learning technology, culture."
 type: collection
 price: Free
 length: PT9H31M
@@ -41,6 +41,6 @@ images:
     height: 400
     isCached: true
 
-secured: "vY8Ly0WAk46XQoGU8xiYpZsoNAZDWiApA9u9zmVn5uthAP2iQsE24tFMRmw8qX+kxRwt7agpxMRT7OiHjGJ6sJv+s3zDuHOMr1RegeQMoOfT9MRlgZJOHlMVIPuY9gCEH8+ar1xmk8AvlGt2OXg7aTdRd4t/qDaKQhy85WTwHzyw/YNnnUvrLgjQoIAblLzcIKk5QtvzmbFBtVyWSGad9adZwmsQnx8mNPYy9eZwV6fHl26oTU+CUs8QqOLjNGSztEXRTO5O+zV2WqrCZ1I1dfIZ4yj3/SPOQQjzq9AQQAsG4bQR9E4PioTtiNuKmR6KiKiP+J/abAoDlK90kNHJmQ==;0mwNCt42IN3flG+dFUWp+g=="
+secured: "cQiac5dNO79LJOzKKRIrVcdnfELc29sNA4ENAdfCDwi2jYyn34AFo5lRjDQ/L8S6h8cq5S/JyJJ6fP8CN6azV/OI17zxS8ETA8JYISkYy9g4GyMCmjgFY9C77rxY1ATWJbnaYCwzKk0FpJMB28HgfQmybtRvxMAGsbswaLxS3uCOkSZIHf9Pr7H0ifO6Bjl/9gfEhJ7qf03M+iCghhvvpWvlJWhJb/J2oB1Rs6WXu8rDQNN+z/XChE7GMIcYJauxtwVso5CMojz5H+wv6Nfu5tzITKKzmqIIJ3uIFi4P7tdUgw3xzmhuNQgPFeQ6hpsCubk/0MfQnKoH8FW9W9Ra3iG07U5smRamrDUrBUW2HvM=;2XuZURUfhaKaCkGK9NvkXA=="
 ---
 

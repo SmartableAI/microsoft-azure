@@ -1,6 +1,6 @@
 ---
 title: "AI business school for government"
-excerpt: "In government, decision-makers must take into account specific public sector considerations before they can realize the true transformational power of AI. It's critical to understand the components of a strategy that will help the public sector create value with AI. This learning path is designed for government decision-makers to illustrate the true transformational impact of AI in the public sector."
+excerpt: "Learn to develop an AI strategy to create value in education. Including artificial intelligence and machine learning technologies, culture, and responsible AI."
 type: collection
 price: Free
 length: PT9H45M
@@ -41,6 +41,6 @@ images:
     height: 400
     isCached: true
 
-secured: "k3cuhQVpx/YWlnq9nx/VQ5FjCNAg2Una+J3a2SIXGKg+d0XrZw+RdxLncSaJLnJxzGCohIt09DkQK2HN4xdwOarPBLDxC24rYIn70D6mii+et3H3i697P/CxPAij48WCpBPsU9OglL1J/PIfUbCq5yIv3m8USYrWiY1/0QAgZuCzHB52EMcFfRxx/IPWI3gVzpsv8R7Empq+j9tcSvZkFAnTtuI1GnLlKVqRmJ+zx4ibT3Vc8vEeGzvnqno9zaVRz+4wFKkSzVBbfILQOQZHclZuqfCkvpreaAUlXkVFCaZHu3n9ZYmR7PU1niVOSV+E19X/LMnAh5Bp7/wfpSCd1A==;pvbMle1QbxQYK+h3S6ujCQ=="
+secured: "VpRth3schsbMKka1AKn2o7YrFYNjKjiYZiB38XVvJcmlEoCR5NCJkZ3KJCuvih1f8sdb5kjpFPVDcr3hpxCgYPEbJLqTXa5zw7xiC64/z5rQm2cPWbA2BpAkBvMCaYdyxFkVZdcPQYF5W/wRNgfPYsOeu9sOXx2RE+Lbo6tWXf+atj4BUK5fC56kfZTyB4Hc+lFW0hCNOPkS7XIodOPH/41L/hck+27x8tf+jEEX9INdCBsKKAn1Xp8GU6iO4wUO58HvEIlpsaLINy9rzeGmIbXfIWSC8zvuey0YSJCMtsHREjw8n08rcV7N+9fmOMmDFhtkavMBc5eawfjMt+5wHJOJp5xnlpPIPUR0bI0U/mM=;b9DqAxfiXvxwZWsOgQtT5A=="
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Azure Data Fundamentals: Explore non-relational data in Azure"
-excerpt: "Learn the fundamentals of database concepts in a cloud environment, get basic skilling in cloud data services, and build your foundational knowledge of cloud data services within Microsoft Azure. You will explore non-relational data offerings, provisioning and deploying non-relational databases, and non-relational data stores with Microsoft Azure."
+excerpt: "Azure Data Fundamentals: Explore non-relational data in Azure"
 type: collection
 price: Free
 length: PT2H37M
@@ -31,6 +31,6 @@ images:
     height: 320
     isCached: true
 
-secured: "2vmmFzjJBC/axXEdkepQ7ILeUxIggiI3Ih1PtrXMsaHwiwGXxARR6Wu7aAGYbW7MiVBhpdVXrzPubbwtdh3fJwQFY6rqoPl9Q0SGacmpP9eVW0I4JqfJftco9OF+80QinnJPHK7i3e/sv0wtJmDD63HoxpScm6hJN2WvJohPO3pGtQgTSLf443+DfQeSg2plZvJRGu5+/Ap5ATZHICY7YYncy+4V6J86JNB33yN5IK8WJbrO+lSZJUJXfbn1OPoQchNBSisn6Kj261jf6kNmeIr+nLOd60lFbVI3t/kAHpk43LkmLaSMHF6Lq01xUU5CvmH7FZAQOAfP+t+RcgYf1Q==;qjTQCdEN4GkYprwUlrgNPw=="
+secured: "sucj14xg68D3axPWm4PnuGLIyc0KcaM4061mTJCDXTUR3cbdlWMKvoBpleWdMIPJMBnwvt15lhu93IgWvtttv0lu5fWEupB1phbgSC33DchmCUQw1MCeUIYqpvebfsM3caC00AT3L06MJ6iXJYwDyBarwkbQ42FCS33JRNrv13VJYZ1RmS2PYDMz29A+iw9Ika7olI5F6ySFKrnIJZ1KnoMaDkXRWrx8hAAbmE1bbkGuQOSql4EuLftnTl9vUfGnSOGmdjt+PAtlJ7fftN5XUWiDd9iVEFUav9n5GltNbW7dcPCw2//HaO5O/URlG/H+NTfq2F1X67x6QDSBDyr0NQ7dlpIIJbSG4KNo9X0E2rM=;+O0aKq11/ZUKADQLAIRFDg=="
 ---
 

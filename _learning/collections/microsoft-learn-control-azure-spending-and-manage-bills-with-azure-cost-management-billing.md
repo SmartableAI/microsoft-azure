@@ -3,7 +3,7 @@ title: "Control Azure spending and manage bills with Azure Cost Management + Bil
 excerpt: "Learn how to monitor and control your Azure spending and optimize the use of Azure resources."
 type: collection
 price: Free
-length: PT2H45M
+length: PT3H19M
 heat: 82
 
 provider:
@@ -33,6 +33,6 @@ images:
     height: 320
     isCached: true
 
-secured: "ixrJUP3QrVGPetQY6J/orl+WFTVE2zis+LElxpZfk6eDYlaGh2wIwi7Ba1Qusnd/6v9TJzYd79d13eL87CRd154EcHqntep4x7LiduNuLgwdLGIwmV7Gx9WRyiq0+FcAnvmi4RW88CY5ziXDKeuXr4YXiCYa7pQLNoXWHdvl8cpX1FJvcsOCTU7haGLzhR9frF+STM1QYBfPpd0ZJ08m2ld9lfSKB0Pf66atoy3t33KtlKThIVDex30n4n9k0iSl1Xrn06/Ik7ofjPLq+lOEcClzGabpnBVRvME2f8stsguvU7xnOCBdXo+udqfh3tu1gg+9ZX1rB+tnQIHEFzxGsw==;gUXeu0bH8TecH2vGcdly+A=="
+secured: "lX9Ykdsc6/Fp/KyufGtD78K3DRBKIhd56/WcCHvPr9IEuEOkmZ4UVIAvN453n+vApkBTWSsXZ+t4EKfbAHRVgjwtkD+BA+4LkrXsHX8CAOKIqe5+ZXzzZefRdq2GpwgfLqnoA0YdW+Ur/3YgAECiyYuTfb7pS8ZhKiQHmheDVrU+0S5yYeFb+3Bsyh2oafLoW0bSu+iB9yupuqwL/U+G+kY5rdW+idzGeJm71W/ye7hRFfp1xUY5u9p+/savmlpRhrekNLKjT1vWqqRoEBzAfkTuoDZcXojomVWg17Hh4Eb8WoANwDekn6MvFWG26017Hdek9F1afDy7GcZwaWFm7SbVYiBl1RtJGVZohOPTguU=;2YpA49OgA4v6SyHptF4Hrg=="
 ---
 

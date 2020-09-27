@@ -1,6 +1,6 @@
 ---
 title: "Explore natural language processing"
-excerpt: "Natural language processing supports applications that can see, hear, speak with, and understand users.  Using text analytics, translation, and language understanding services, Microsoft Azure makes it easy to build applications that support natural language."
+excerpt: "Natural language processing supports applications that can see, hear, speak with, and understand users.  They permit the user to interact with your application in natural ways without requiring the user to adapt to the computer model.  Using text analytics, translation, and language understanding services, Microsoft Azure makes it easy to build applications that support natural language."
 type: collection
 price: Free
 length: PT2H6M
@@ -34,6 +34,6 @@ images:
     height: 400
     isCached: true
 
-secured: "EIkpoc3Z70vQxSDSTxPeWCGJFC9ux8nplYVvQPtHkYh9BWwi4NXp4IvFi1uNpmcXHP/dlaYpHsXiBpX5hnhGdp4fVWwjP9QOhYydEUEhz5GWVvUNleEhkkwZJWWDi/Ot1Rps82+oSX3zHKYYq9C9So+wranRtAlXkb3aADyy0Ge9liZLCpFsUkH08PIDfuHXKNzekGHlIH2J7PvcHQayrsKWekwNHx/pbuhUyEUKyyQMRffrE0HPvi4jkTuY+GI6X1qyTjAteE5nKsc76gp7JIb4N4e23T8BVGUB8S/QlQv0FzfUD93rQP217TT63H3FQmfpYy9Teo0Hmn2ON6EhbA==;Lcc4Bo/oq8DLp5uX6Ao0Eg=="
+secured: "O9KdqK7+jcNZLjqCG0j8s/MhgZirx5ww0wXq3o6+PsxBKfB48+cOnLX7KtzsTuy6LFBuPkMWnTDiMkDBlFO4d0vdDGrLRrq9A6MLSwLZoAF320w4ZKLI7yXlm0k775KaW+xNoIPvENMO5pt+WPgg2yUvX0FpJ4mIHiSJNGCCzens1AKUs41VZoWksPcQeOriOZVkqlLyF9bXN/F5HMBjmJ3NQpebysS+TunQsjQWO+urZH5Hq+QIYXSvFWx/SftDUZg9nGQEy6UhP/q6/cAOnhEXJWjJX8qwvba4ygPQZrezoCa0pDy3bptYTaAfp/xU1wH1TSHZOFLx0Z5lZTME7yV83UMwa2K25l9cQhD6hOM=;/tPUW8QARIqpnYhbQA9BLg=="
 ---
 

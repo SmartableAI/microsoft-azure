@@ -1,6 +1,6 @@
 ---
 title: "AZ-400: Facilitate communication and collaboration"
-excerpt: "Learn how DevOps capabilities such as continuous planning and continuous collaboration help you communicate deployment and release information with business stakeholders.\nTake this learning path to help prepare for Exam AZ-400: Designing and Implementing Microsoft DevOps Solutions."
+excerpt: "Explore DevOps capabilities such as continuous planning and continuous collaboration and prepare for Exam AZ-400: Designing and Implementing Microsoft DevOps Solutions."
 type: collection
 price: Free
 length: PT2H13M
@@ -29,13 +29,6 @@ topics:
   - Azure
   - DevOps
 
-images:
-  - url: https://docs.microsoft.com/learn/achievements/analyze-devops-continuous-planning-continuous-integration-social.png
-    width: 320
-    height: 160
-    isCached: true
-    title: "Analyze DevOps Continuous Planning and Continuous Integration"
-
-secured: "6Wn+oh2n5El0EqrKNMECXajUdrYbKZuEHJI97QPcV/QweWnq04KlMuPxRF2jB/edJ4ARrYLk/3NwwnxFiczuoYzHP5E5WW/0EeGIFHW0G7KdSMm3wuQ9Vwnq6FNz7lXyK9cXYgQzgUE5UTJ70zmyTaon8A6pk8tQIAaGZytuHLuFNJD0i+Yesxp0usMqsZuAvrYgjsVJoY6WuIjaxCh55vq+DgBqP0mSjZAJv5NxQbFSOpNPH4XYUeyj0iTJgTVk8oVoZX5NQ/Htwayt715F8BUPxe7nYqkRAcB7k5Uad7YhrzLVMjfeFj6VicESoGCRVN8yTUdrM5nE3SlpKSq3rA==;9CxFUaABr+/EZc0iyNeC4Q=="
+secured: "I71KCH5vk0SACZdX5cYM8jxAOYFIzBEMmQgiCp1HyVOu5xaXx44exye9IKrSSQJ62qUH4M4/pNRNQ7zE9dzHlj1UxYmKxiheV3HBWbJFK0lnovzxfCwYdF+IQ7NBODbeweeaPp2UfXC8TzXQMtb7heQH8H/pmQfkfFs53DkfVrkrxWS97GMXLzzwE5VS8MQLJilz+xamVvbkTe9RhDFZ8bN1EgGUco7K/GLp1U2K3YUorXjCb4gNDKZcxn8BpKmOymEnSqGLDsmBaIvytu5r/LYCiOth0Ucvr9Cw69rjLkgOWDMvSKoHxTvfcl0pN+0XPpflGgyoIZIXfNTypO5rGBrnKiFRwNFCirc85V+utIw=;a09hascNTABg+NlJBaQqBw=="
 ---
 

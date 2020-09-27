@@ -1,6 +1,6 @@
 ---
 title: "AI business school for manufacturing"
-excerpt: "In manufacturing, decision-makers must take into account specific industry considerations before they can realize the true transformational power of AI in the enterprise. This learning path is designed for manufacturing industry decision-makers to illustrate the true transformational impact of AI in the enterprise."
+excerpt: "Learn to develop an enterprise AI strategy to create business value in manufacturing, including machine learning technologies, and culture."
 type: collection
 price: Free
 length: PT9H32M
@@ -41,6 +41,6 @@ images:
     height: 400
     isCached: true
 
-secured: "cFBjpNk4EUMLfdMPRQJ+/50828zXPYBsCzaV6kXW6L204Qar6MMb+qk9i9sGCyzmOD4fdVio4zAp6pbVzRXjv2KPhpT/1529QBPcUrGH+zqxCXuqUMe5igyJRHyM1tejc18xuj8/2T03joDqF/NQKzFGPj54eePhrzmNbDyqVy1DTWazolbkwTid+hWBl7JlCieEXkfKOODxu+P5Ot+RM7/fpuLhgQ+qcu+j3l8xsXtkO1dca15SA0iJYFqn8hJot6JyA8KDJbuMNordcXES9S32tlyEjE1vdat1wx5CevoqoLATh7g316Y5rFohgG95m/TMI9WuGOKj1rbnhL6LPQ==;J09e4i1vckC+SW7NNAH4QA=="
+secured: "xveNzI0KT/7lMoYnv5rU5DCnBJCVSsBIs0HtRD8QXxZkZtnIivGwthojKL7KLskj4ayNFoUVY5JLypo7YvG9+MO1xmU7XZBGhAOp3jrDFabJGx5PErlPmU9QAAo/hqN2w1Il/YGfw1fgt44uv/CCk9Zp93EsR9TdR0wIMSbJSOTclpNHJTosE/EN2qCEYKJQmWcszipo460SgKJRVV+YdFsp94nc0JVrL419MowjxfI5keFgGFZ5x9cSSGcvFidksiMdXYlJhGefmk1i8ZrytoS6BL2ewERkLYIUrmgkwMouTvx6Pma9IJ4QjO86F04ZMuLCIqS7zdmIffR0aVXU5T9c5DBWMhxm81UQ8b3XOqg=;80JQD8oJRD4aZnvYHGcJfA=="
 ---
 

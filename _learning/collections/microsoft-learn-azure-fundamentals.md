@@ -1,6 +1,6 @@
 ---
 title: "Azure fundamentals"
-excerpt: "Interested in the cloud, but aren't sure what it can do for you? This path is the place to start."
+excerpt: "Follow this learning path for a broad and compelling introduction to the fundamentals of Azure cloud computing."
 type: collection
 price: Free
 length: PT9H48M
@@ -37,13 +37,6 @@ topics:
   - Storage
   - Compute
 
-images:
-  - url: https://docs.microsoft.com/learn/achievements/principles-cloud-computing-social.png
-    width: 200
-    height: 200
-    isCached: true
-    title: "Cloud Concepts - Principles of cloud computing"
-
-secured: "M2tCpfrfL15a5aoXWHGTi+8TEmE4AQ0PUqXC9aoK+WZg2ur/vmUzWkLkbhnPYwN8tkZew/46CkmgOFmzN29C/N0Fx38l4EF19lG2TdValuxDmn0pAWSd5lBPMQ11JgKA9800VO0NALLn/VWEk33HrdBxX+f9llVHihC/xhkaJlUYcpIPUitlK7o6TTNuiDv7jTc+UKxrMdC0lmtzhHH9/aFt2/YhyjS1iVIdjXPqRJfoz8D5HhVOy9D9zHO49/TShTnCaYVB9b5R4xSEqRphKrV06O9aw35EWC3lLVfppok2pd5Hnm4QvYcFsSkd3K+wrs28h2AwgaPXqQQc+LKrJQ==;FK0JDNN5bNqZOMpYkwFQaA=="
+secured: "guYHaD68zudnSiQUOI0i1gN+pariCczRkLdBp0mizdCFuiYMi0b2eLPJlrMq0Dk2P9VWxrXKawcuQRMAbl74yzWraQj8HhXdMwsICx6g4/F+2eUk7W/UEkXhv8E2vd/bsSV0O6ujIyy9Ol71YIFeRy0Utw0AOCSd8gngeDuCruh+rcmBGeG3qP56QWwATSklFQaz+lI53OSvYv/Cl+b5PmWLQ0w2ZGPRmWxSvMMLUYZwhVlr1ts97BWfaSVqB9HD8l+w6pAnZxH20QJS7Oe/gsjUoLvuZCv5KlYdLUAQBpywcH+ltxu8ePXHPg7sUR/6ztH88qPHK2OG1I0qPvMOyUZr+92NXSCbXg4aG3uhYy0=;4PtGjvdzaJIcFmIWxHIcuA=="
 ---
 

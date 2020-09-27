@@ -1,6 +1,6 @@
 ---
 title: "AZ-400: Develop a Site Reliability Engineering (SRE) strategy"
-excerpt: "Learn how Site Reliability Engineering enables you to sustainably achieve the appropriate level of reliability in your systems, services, and products.\nTake this learning path to help prepare for Exam AZ-400: Designing and Implementing Microsoft DevOps Solutions."
+excerpt: "Sustainably achieve the appropriate level of reliability in your systems, services, and products and prepare for Exam AZ-400: Designing and Implementing Microsoft DevOps Solutions."
 type: collection
 price: Free
 length: PT7H46M
@@ -40,6 +40,6 @@ images:
     height: 400
     isCached: true
 
-secured: "GQEFRTN53vE8e1P2PWmym6UeTr9Svb95A55Qe2xLXYpHgRqezE91oZ50PHww0NNRJoWa+my6R6lDO6PcZiuX/EbkaJ/qpAwnyKD7uNeQq68Guuvc/OnYvhmzcD9eijcfiqoMx6PhGGkp2Qbhe3TsPQ+l8d/l8spAvzgMEs0YenLO/t8+nzal0OQ3YKjG5hyHv3J1TdtsV/+IVO7eoH+9yuY5IwO7uWKKgkJOJIDxtIiDMRz5zck2bH/OffVdh19eaSZ74JBZhjhc8If0gxbhCHR7q6vChvYU9lfalOVibSGEo4bYmgvv+EjsO4r1pyWTLioDN+MUmKCI9R+AT7cbRA==;ESgI0RECsaAbFiEtBa7kLw=="
+secured: "OxdTPm4ijOliL1GFQKqztxtIZAnQCm+F1J5tYICINWhKZNhGpzuG2FzQnTGY3n9vXIJEfFCQBdvQ4pnn+V/XgmeRowZ6TzpoFNdE/32MYftCokgQfQl24vYXOyoblVBvuXLrpruXHqbUDMNiDD80jFJkgHwJpuseoCpgjby8ebEetOUnS9r/SGlM/d+cnXWnqtMmjNzKb9Cn3jEUzd4SjGfJNBbf/6kGOL1xddVQ+FjBkkwWKlmsHAGR+/f3o5irRNnXnudE/fdgdgTX1vntFgXrNK1bkxuZXJjkhQ2RyfUrhEJ8JYZwpKOnjVWjVySJb/M43A6oK76ZCZDqzB1G7/PepevymlmpCyjxC1fRkLc=;5Y2+0b8GiX5HL4cOV/G61w=="
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Azure Data Fundamentals: Explore relational data in Azure"
-excerpt: "Learn the fundamentals of database concepts in a cloud environment, get basic skilling in cloud data services, and build your foundational knowledge of cloud data services within Microsoft Azure. You will explore relational data offerings, provisioning and deploying relational databases, and querying relational data through cloud data solutions with Microsoft Azure."
+excerpt: "Azure Data Fundamentals: Explore relational data in Azure"
 type: collection
 price: Free
 length: PT1H51M
@@ -31,6 +31,6 @@ images:
     height: 320
     isCached: true
 
-secured: "U8IjKhGZO9eWEoGry/CSfl4PJjHSrJFzqsfJklyIMe0Fnk6nBej08ZVJtInOq+jBgL9VQZE37nbDKzKIjhhjR81rDiKClDKvWVJ/PoPPZiOCXZ3i97rn6G/ZxNSO0n607Z2exvNM8b2McWK+ggZ0HU0TkpLn9hKtfoRcnzXtX5PWzy9ScsfdMZcvJGe+NfUnXR7wnSYJHQjN6psPLOM0yc9IB4ErEP703aNJ60bbor7T52HlSgBJshat7a967anbSXjpnmN/kPm1mde1BRN7OH0wpsmcCdiYVL+zmlBDVEbjUErDxJrnYC8kOYUpPaYxX/mTWfmGeVAweB/aGYwIRA==;v/kGL4ZSJ+fHiobAW8KKeg=="
+secured: "6n3O+9MOJqprfmYD7bLo2/eILJ/6fDKSsvFNOb/WfNURTqoUAUVFFrCZ3HEM1CcFvKiuK5PeNhh5k6lahEfITwOjsYQKflCOrlIHN96JwKmRLRFNAoL3IrJblwvn/WBhg8KlCNH4unrSH/JIeR05skKSK8O7oVjD6BKxTlrORR6o76lhw6yVvo7l/aIyAiiEVaOSl3oMNTAcQn+QZYVDLeG+Ii4KnWi7IqHwWBfkMoULnMJRPKnoRVzdy83D8Mkgps1sshkeIrgthruaS2oU2LjYvmhFn5JWZuay35Z7Ck/PKuPHCCC3uOwM/OVKwdtz9m9Ystr3ippPOMwXcEWnLcjRenc+G+sWPEipvEhwjIg=;gcGpmtHXAD8vCvVxBXG/Zg=="
 ---
 

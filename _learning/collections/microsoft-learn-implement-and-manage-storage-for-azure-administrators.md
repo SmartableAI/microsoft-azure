@@ -1,6 +1,6 @@
 ---
 title: "Implement and manage storage for Azure administrators"
-excerpt: "Learn how to manage storage accounts, data in Azure Storage, and Azure File and Blob storage."
+excerpt: "Learn how to manage storage as an Azure administrators."
 type: collection
 price: Free
 length: PT5H56M
@@ -40,6 +40,6 @@ images:
     height: 400
     isCached: true
 
-secured: "5jAtJ+cyxgfdjDqIeMVZb53mgxm/a0c9aTw1DbRsY24D7vlk7PCQSqqxwsa5tB05sCrsOX5L+ZYuabBfqi2S8c+dZ95VB74Te2oGnCfwh+sodgEthXroaaI0X5ofvGJ7+dofQPGOxaHPg4GNKmdZaR7xJD7/Imy7vWGIvTWvBDsiQw7StNhhHOPEwuxEzEluTHy1LT8u1X02pYXzyGIV+kOMgYOWcJoUj/T8CM6uhVuhyxMW8Rar1wAbJ1gln+G1C+PdNwzsFJxnHX/C/ynDLdDsLmRxYsbYGscMzXt81059b9EWM34mg0ohfOYsyi70NLlidUtkJ2YAKMhF9sagaQ==;7B8rLYbA5XFWbG2ZQjvdEg=="
+secured: "opZ+RBMq/BPQLx7usCvpi2IKdKcBdbZPDrz4iKKMbQ5eeAIH/yI5lu0bkJ8olzp1Xpzk0+jnh1PjJu7VtmhdDmznJyvfcMkMmi1T+Y6oDwmwaogGf+wvQa0LUENwBxyW9/SkPiIQHsgfOUIbO6mrdzLgM8HH4KohEHQo7fZV+lbO1MWu4ugQG9w0MTTtyMp9aG3R3JQEi98nZU5ekcAk228M+XJ0ZsxdqHfZlHFGJkyV/gvgqq7TIc46w5GXo/aGRR32OnIT/fMWtFDNBhwashyBQIDUKdC9/vCPEM1Cr8kUczPQRSSIQYade4wBnbnLF9UTZGAXu83zf3uEUiL1ej/h4hhX9nUiUamQJY1s6Z0=;aR3+8sMzOQl03XIvmvU4og=="
 ---
 

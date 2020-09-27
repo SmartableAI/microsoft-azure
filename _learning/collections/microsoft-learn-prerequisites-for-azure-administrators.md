@@ -1,6 +1,6 @@
 ---
 title: "Prerequisites for Azure administrators"
-excerpt: "If you're an IT Administrator that's new to Azure, this path is the place to start. Learn the basic Azure concepts you'll need to know as an Azure administrator."
+excerpt: "Learn the basic concepts you'll need to know as an Azure administrator."
 type: collection
 price: Free
 length: PT6H30M
@@ -37,13 +37,6 @@ topics:
   - Containers
   - Storage
 
-images:
-  - url: https://docs.microsoft.com/learn/achievements/intro-to-governance-social.png
-    width: 100
-    height: 100
-    isCached: true
-    title: "Apply and monitor infrastructure standards with Azure Policy"
-
-secured: "xrXUgC5J78b34CQERHxx70fQzHsDa0Iy1Ye4rCQx6gEmCQQaI7lSEwZMRhvv/u4Uc+rDGzzzmmoG5SXGLtR43wy+B8ucQ+NO/35Fq9SNosAGhMHSDxdW+KhDjPrEPpwaL1y0/VgpRPEnOVz1+pIl7Bi+z4qYV8aVaeWtNM1OD/QXea8idBEjSgLCQV5YYCL4zxmIxRqo53n7XeHtivRAkt0+7/7/+HVjj8aBz+9jFID7c0wYElbzRzcd8g5xD5YYknNBNGM2O/Wxm4Py6xDp8WP5hJ01ChyBzpQSV/wwva4Ts1udpcVpfrbHKRszyQQbMGMsVZO0Ut1K5lsuoSLKmg==;eDF4sdYuaErEg+BaHTfK+g=="
+secured: "vQncqnngzL6M/R/7PSaeEySlqcgY6Q/x5MXWVja4U+6/AEr7a2fYh3qGMjHP7fL0eMwuhe7di7sQcuJoWZWWTilOH7xBPJg9Df0S+cx52DgmEWyc/5IM0GK/QumJIi8hRCRxGPF5WYO7+BUWwXkfCFtmXzaeo+BDFYSC5ftwbsMz6faFtli0Pe8GPkI5MQdLLGMMLSCgKTT/OzqylsjIRX8uVZEyfjzg5wbrrZGM2XsZ4wybWkndDC+t8ooMVtSFNAMGklYYrRuDkcsqqwVAhPKpfQUcutl8j5JhhFm5VkSIENuXm02QPQl8bDRwWbrjlaKilQFWNfAhxQKVuGT7XY30G/K7ie0JaTzElVVf1zA=;TGctKxVVznG22L1rTW676A=="
 ---
 

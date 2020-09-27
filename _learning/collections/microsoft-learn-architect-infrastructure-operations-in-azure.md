@@ -3,7 +3,7 @@ title: "Architect infrastructure operations in Azure"
 excerpt: "Learn how to monitor, analyze, and manage the ongoing operation of your infrastructure in Azure."
 type: collection
 price: Free
-length: PT3H56M
+length: PT3H58M
 heat: 276
 
 provider:
@@ -35,6 +35,6 @@ images:
     height: 400
     isCached: true
 
-secured: "1i75T7nE5XD7e51KfVKYMFrKTBdABZoyujktp16p4rAcBsG5LRHpe/bV3Uh5o75RCf4AkQnDSKFJgs+xUZIsqOpNFrxv/VoPOergmHj+1clG8xKynvSP2irTpI0X19w5KJr9ynCWoHVIDHvaQmOw7Juww3qVs5sT+sf7/DYYg0Q0DR2+fL9qy1sDOaEP5A1RKW1pjBrClVdmbyaGKJlnMJvdf/wpwWglvSHbL0lQQk0GGhBywGz0U3bTr87BCgNQMv1InjqXa43cwFwCeXnCsod0rEMrfxW2CtY6d8iQV6kP57xVAoTEgcWGgUH/f8v7II8C1+0q/f06FCtY6jLdLA==;TWDjsDj7UIOktvyw0jWrvQ=="
+secured: "cLd2SeR83AFvTmjm90F4J78P+6OKEGj//vIGMpTFPwcWfBIgCoOUxUMTD4LWdeiZ09I8C9R9Z19p6G+NGtT5xdYmgHE/gy4v519wVkOi0vPJjTDhMkXk5E71EUnTFrsPIUE+wnofXMWQvD8Gne2K2iuCmkFWLH3rW3eKHdCxk1LZuxYnOYCEUdzTnV1igNiQ+Rw3tjLt3g5tJevex+2D/YBJe/xjQ7oGioqPpvq9JyFjI8YEni/ENhzo/mFI4EU3kDeQL3a7ZnkmtIr3/MESzc1602p5WYhDi+anwT3LVdJJJ2GdXK5XtyP2/2AeZ74K4ffSJthnU3xhxbDA50LOj8E9zKCPo8Gi4EfWqitg/KI=;Rf71eSqwCCb9MddFS6fQ9A=="
 ---
 

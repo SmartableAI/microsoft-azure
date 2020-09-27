@@ -1,6 +1,6 @@
 ---
 title: "AI business school for financial services"
-excerpt: "Decision-makers in financial services have considerations that are particular to their industry to help them realize the true transformational impact of AI in the enterprise. It is critical to understand the components of a strategy that will help the financial services sector create business value with AI."
+excerpt: "Learn to develop an enterprise AI strategy to create business value in financial services, including machine learning technologies, and culture."
 type: collection
 price: Free
 length: PT9H36M
@@ -41,6 +41,6 @@ images:
     height: 400
     isCached: true
 
-secured: "23kpH6+hU8r1SdcbHatFIIKOP7yHllQUwS/5HI9iZoOJw+ZNs8VVzUJS9SJUfMdnw7JVZFp8odfDppnIJzBAjI+QAQxkFcNEfBeEzMO9sNf45r1Q1WGf/+erHSzCOuLy+M5t2jak0AzJSM/u1AMJRfwq/Zvzr5fMGBoxImhCTYTZ9Y525e9dIa79w4r/r+5lXV/M6bM8K4JWYd8g0moHMtGiM918K/ufxfsNsrVdQ28B/Ce5wVhNRRYfIuG9wK6q+ooGc2KbLkYEvR3zItokas5PFoU4NRw2Dv4Kzji1YQi0cPuptuMCMf3usMeniLczFf1N9eYsah7+TqSlPCuGZg==;OdmClT5SGxs+tf3rmcs3yA=="
+secured: "MMj9ATO3lTUhoc1PlTYIUYxKPDWwZR47+PpLVbA+GuOr5uPIapzomPpl5TLj4cOCgPSUK+rZSL+jRLxmbguVhMK7dwx+9nyd5IXmJRBwVOG+T15BE3qrQ1EYzchMZRGYDzwtPnxUDAdureEJ9BFhmP0DXG18TPskHJYa+6ne9+YLw3bvOeL5v4GXm7pGD9b5l7yRdXBjVFHbH2AWVHEpcG/3Dr9lIPEGufCgRIs1f+85YTLBreyM00lTl6/PUf7UP8xfD2NadP87WmvspYAG7GdC462OP46ct1W3GMXKPUP4RvRqplVVigZja+yD35n+WVWHH/q9zCWk3kTecwJGpKM3PWkfNhjXyMy3d3RBeEw=;FOcD72orh2uXS70KEFze3w=="
 ---
 

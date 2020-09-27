@@ -1,6 +1,6 @@
 ---
 title: "Planning Azure for SAP workloads"
-excerpt: "In this learning path, you see how to plan for a deployment of SAP solutions on Azure. You will also consider the preparation required for migrating SAP workloads to Azure."
+excerpt: "As an IT Professional experienced in SAP solutions, you need to learn about how to leverage Azure resources that include virtual machines, virtual networks, storage accounts, and Azure AD. These modules will give you the Azure knowledge around the reference architecture for SAP Workloads, how to plan for the implementation of SAP solutions on Azure, and the preparation for your migration of SAP workloads to Azure."
 type: collection
 price: Free
 length: PT3H26M
@@ -31,6 +31,6 @@ images:
     height: 400
     isCached: true
 
-secured: "njT6c8rYl/UmZfpmjHd+8Kw05+F0Eny7dMSgXz2Kz72DAg+v6cO1Oxv96pwt3N3VO5wqGnEv8vun2vkwralA6BbVJpy1m1n76v2k8HPZarL+0w+fP2AQl/gkbjkxfxnUYK8wmZvKoNxF7fEQF2joYRwuUixzBFI9h3uJ4pMjEggswXUIOqaH0j5Zloy24eTf96IjkXWNA5mlpdYHtOgFSPEu9Qo87mOi7v9pYFeBvCOYNdYOe1bExwijJdVrzrJHlpROKG8XX6ePIDAlwSuW6s3NM2VO47kdKSURktPsJMV/w8D6Pxdk5HgdrXdZkl24Ml146S0W+t5jnUc+T7HoJA==;so2b/2OjhupVN1aTaaq6FQ=="
+secured: "KXmcYy7o5o8xUlomVnNf83G80vLjEgaT04DZRcMuzdpUaezJheoVPz9V2J6/Ma2iifZOYUHGR2zAUjc2vS2zMb+An29j/QLazCFtxyoMM8MGppBLBrW+pfQh70XwvwxaZy/5u5WYNZykwdFSAlMgEYq9exbCyEXakXEixh+IJRvrGwbZIeXDJ8oe2CFFzOa6pkE9SaaXb5PlZ1ztrPg/UIWVDSM7HpLEOrG+GuLDzo3K7uSHGLgxqYAjDl5VufqLA+bpajK+/VE+DBDMTSqrHhDH9MZOnkUVfju6FHYsF6Ijxr06f/FHn5BoM3fnZ2EUuTo99XIG/BvNOcMeFNPKnAGMCLO2w+no/BGOWHS0jiA=;7I0LNfA2W7IILVbytGeJgw=="
 ---
 

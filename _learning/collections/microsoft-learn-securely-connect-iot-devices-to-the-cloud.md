@@ -1,6 +1,6 @@
 ---
 title: "Securely connect IoT devices to the cloud"
-excerpt: "Interested in building end to end IoT solutions or about Azure IoT, but aren't quite sure what it can do for you? This path is the place to start."
+excerpt: "Follow this learning path to learn how to securely connect IoT devices with Azure IoT."
 type: collection
 price: Free
 length: PT5H29M
@@ -40,6 +40,6 @@ images:
     height: 400
     isCached: true
 
-secured: "UJ1ZZEd2aZ0fXrRH83Y9YFtMO3/ROI0TNAPw7b2gR9cyWLojeS0ytb3gf83IvzPndBH8jmJSYYiwb2fkwh+t+zeSdu7mCF/DtIu0u347HMwIPlAZRKyP1zbsso6ojf/XlXNDLG9tEcwGpsWAvE68ba+JOlzUR6hz+7BdvC9kE0Bp1tMaThh/s8l5euNR21RNYvAXO2p8JDtPatox0FAyK+ebdPr1z3evw5/ePAKrXEys1vzHDl5yM/2nl4uChT7DRsMd7n7jPX28ELS6lQxn2KBExCZuC5kMHOw2vYuidVo3rST32rV4PhB+sj9PZJzChj4lftBe4kz/4CfHly4zeA==;F1HEgzsbswketdRbGCDd/w=="
+secured: "VpuIOCv7zBC6smAV+W0fZgFBdRH7wX+UgIDDe97NVumxQWk/jMFiMFg/pKyo2Qf1CaWLfW2eAT3Ntpn8yia/vsIwrOVi9Hvve9lkb7ZlWL4O0Xu96r524gwyPPWEYl9M24xFEAhD1FPnGXIIiaZ6z4fo/MLPhFLtAplLG/nNzsQkMFpAo/8UjxEPLVQYaKNs1JnJ/07Is0EratZ9+V7UYXAFosPka/aGkYH49XRMpuAy8hyw/xt7ENkHL4SirzU9lccu00X0LPpnqiFMNJb4HC3T93VE8Jm7nOpJmtVhG2HJcH9G1GC1GKqArgwvB2ULZRzqpMl/XmLloE/Xn2hQbaxRyBZ4Ov7ahxeaIlR3Lz8=;3+uD98zqYCROxKX/QHS6Xg=="
 ---
 

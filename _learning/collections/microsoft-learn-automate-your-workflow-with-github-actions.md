@@ -3,7 +3,7 @@ title: "Automate your workflow with GitHub Actions"
 excerpt: "Learn how GitHub Actions enables you to automate your software development cycle and deploy applications to Azure."
 type: collection
 price: Free
-length: PT2H25M
+length: PT4H2M
 heat: 63
 
 provider:
@@ -34,6 +34,6 @@ images:
     height: 320
     isCached: true
 
-secured: "RMWbR7nTLBHInKDSEuqbDULhjNlwWhEdQ2sL4ml5kypotmImfqfO0HY2kdlWzTeDzIwKL29vR3iQPj4Eqwe0HS9Logxww9TzqejVP1+LdXYFCXYR1NQurLEmpE/mHk5/GmCOG8kA2JEOchWU6rFUO6kVDB2TDV6Bp2Oq9irAQ/6aOgqb/RfPglHhKUrfWxJr70WD7yKkzf5NTIWFyEyv6Rpwjk/3WpdYNlHN7tUzdaidnO68eTiY9eBahSZyUCALxpGyXapp/rK42enPM1fOPbnNqWT6WPxujo9wPjYASurs1wdLTdShJb5NiJP6Fw2GBzGifVXZk9vYaJCgvFA0lQ==;XU0JqHrHrxRuFxc258rWNA=="
+secured: "OsFIg/32OhRVZeWfTwacdBtaPU8IkJGLpZPvixQ5Xmjz8zJnPacXrqqBO5KxWTSj+yaeKtqduqRAPRhGuxzLzbfQj1Yk9F5PAOlRNw+IeM5fumTaNHtDXCLtXtC4h3Cpbl9CCsfYJnXcK3gihRCHIAqol+jxsOPGBT0LT3oz2B5M+9a1A3Czo/ynHl4x/d5737DPSirypPkeXFLMGIm0mu0dQ4rQ+709smhoZjKDtBDxtSwIqtplHa27z5fGhdFsjOV7Fjas5yHrDCj+GEs8YRwVkcsA8avtvZCYJ5JZcPIwm6QGx2BRdh9vCvD85Bs5StxqFIBy9m031csfCkK7JeWqbPdxve6qwba46h7/7vI=;MiWsWtIiX23kzaLA/DWFeg=="
 ---
 

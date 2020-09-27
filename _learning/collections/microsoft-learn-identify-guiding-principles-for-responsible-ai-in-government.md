@@ -1,6 +1,6 @@
 ---
 title: "Identify guiding principles for responsible AI in government"
-excerpt: "It is imperative to reflect on the implications of AI in government. In this learning path, you will be provided with guidelines to assist in setting up principles and a governance model in your government organization. You will also be provided with resources, best practices, and tools."
+excerpt: "It's imperative to reflect on the implications of AI in Government. Discover guidelines to set up principles and a governance model in your organization."
 type: collection
 price: Free
 length: PT2H55M
@@ -31,6 +31,6 @@ images:
     height: 400
     isCached: true
 
-secured: "tNynnogfoQQ33Eiu01BrEQIQ5xktqRVjcoh+xYXnHhZN8OLd1K9roiXq0hBlPFfzNeyaxM0jiI3ltcTuPCINRqYhfWNJpHf0niUt6ESH31xveS21uy/iLsB6tgVmybwdYXTo9FucEwxj+8xEo4I82jGu0aj/1WJ7tEDQeiwHyOdikX0lhbWIvvR99hGyhc1YZohp2twO6VYhuKgnd1v5wlFM6AgLl3VVT8XgGzhduVg3ksCqu64FGojq0/gnKuT/EzK98OmaYSDE7sH401b2y1+tY3CGKPrdFF9E0rhjvdQs6rJjZL1Lx2I5r04YWYUxTkUViGSN+7J4Kxh++g8Vqw==;40cd6HURUonAeTYZZ7UBiw=="
+secured: "d8ubU62QXTAAJPXpS/hioezKtpRZUPRkpy/i5yvMijudyCCvJtWOViOAY9YaCx/XHKk+a9EXhL8+ylX9qcYsfSmRCESmSuuilpaaZR14qnYHxTiHF16ULP+2gCvTmbmLXlfuMLTboYpQuqYWEqhAPlHwHNW/x5bnv/ahHy1b7N7cBH1Sc9yEz82B/jFvrDDj70FuG7MeGTafJUQLoOgDjrmVDMpa2gU12rSA1oD/+vrEHrDqob23WhcWP0BEX0Kda5kazZChq9IroRaTJVZyDEtYuDRdQVvtw3MSRTb5D0nw6Sh+qYns8uq0la9McIOPapBnyQz2N4AmWdN1pgZkkXqIWndqOsCxIMJ07ZPnkuc=;BU2qoBhz/ujX6Gjq8/O4Pw=="
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Deploy and manage compute resources for Azure administrators"
-excerpt: "Learn how to deploy and configure virtual machines, containers, and Web Apps in Azure."
+excerpt: "Learn how to deploy and configure Azure compute resources and prepare for Exam AZ-104: Microsoft Azure Administrator."
 type: collection
 price: Free
 length: PT11H15M
@@ -45,6 +45,6 @@ images:
     height: 500
     isCached: true
 
-secured: "MLH7Z5BgpMX9r7SUWbvVZixp4+lzYQ3var8Oe7c/gFCOSPQhlZfJX/faZAuUKcbklBkx9hMg9qEIdjt2OvmCkkvd39b55dILUjHCvpm5dfgBfcChKXa9zK2ifW4FSfRcJ/+zhO+ZMV8Gw5FvxpzjO6BLHaxjEG8xTM1KcO9xYHgPl04gipQuqis2bPhA4Xb96cjjBIsaxlriJztW3xgX4vrNFuobF5wkMK3FLwGjdeoYCrSJqTczZc+H6lQFdV9t+towRWCB7dOfcrO7Gwl74fLYYaFa5UVm9rR0w3LZ9vrbUK/aa48sGwiIRSBR24TMzGD+dehgsq05XY1zGvLO6g==;6eT9GQhAra90uPmbj0uk0w=="
+secured: "3Es7SbGGUmdxz//TrWZnxT5J7/UK3dCNlzEqbzXG+zJlaYzHBuO6JDWlpxp3Be8Lq81eyhBcrq5tkO0EBR541Ri8L5E6n02QnaYIXWip4mGZtGGj4DjpXk0PwTZfhgbkpaPUi4GykHWrO+quFK9joImmr82gfRNBd8lkGUMGYJwSezoP/jxCb0v9kG3MloSih6r2eEtA4qowd8dfStngCPJYspyZWnmfVQypefmG8h0JFtYF6F+IGD2Ui7jRFz78oWAKSrTHAK9aT5usflfjvGpnAxzFiLJCIN4RX2qGM6uvNGBu8sZqMjpK8G6JBg15c58nx40ZvZ7OJ24o4qpBrF2thNmbJnDRK0f8Oe4ahC8=;VUcO43JhSX7CsIHrJZTQ7Q=="
 ---
 

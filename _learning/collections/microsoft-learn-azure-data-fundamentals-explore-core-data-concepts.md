@@ -1,6 +1,6 @@
 ---
 title: "Azure Data Fundamentals: Explore core data concepts"
-excerpt: "Learn the fundamentals of database concepts in a cloud environment, get basic skilling in cloud data services, and build your foundational knowledge of cloud data services within Microsoft Azure.\nYou will identify and describe core data concepts such as relational, non-relational, big data, and analytics, and explore how this technology is implemented with Microsoft Azure. You will explore the roles, tasks, and responsibilities in the world of data."
+excerpt: "Azure Data Fundamentals: Explore core data concepts"
 type: collection
 price: Free
 length: PT1H48M
@@ -33,6 +33,6 @@ images:
     height: 320
     isCached: true
 
-secured: "g6WaFWHWGQq2VO+7YurEIOUUgWstV9LNFtUZHx76P4TZjGgRlLPm+JhmAtZwtVZsH4cbaW57Ap7U8f5OdAA/Z1uBSGHrm58JKy7Su/G3mbW3bbz8G44bjWgyPb466uFyI4t1Ri6GOYVS4Qsnx+kLagf/H1NReBoy19TLRDwOSkCKv6yu1gkyBu0dA9xjHUNAy1j0+IyhEE4/BRSRb2s0Mq/DIRH6FWzZTgctuduFsx/P6nU8t7IzsY1OAveC/6WHO9qzz3J6nA+71h/2M1IF5k4pDGXekvZqqtk0sZsnTVP4zi9491m0LxI672nthIl9BcZ430NenBNZoZUNVTeKew==;nTTNrsN6Hv8xOPjGBBXK0w=="
+secured: "+Mxa0G72/G/Svj7N8zg/ZEFJdazcEaCy00JPsLOxb967xwf6NAA8rpn9bEdqH6YHCo7CmK2/ApEvTM1cgSe6JEmDgaBvvwjOjS/4p2Bx36Z7WHgZoIf4OjRZeHIhMywLybFPN/rL4D+rG/07wgYBACriou0tmzxZsYZpqDJ+ipaYIQH5bm8tgFGQPmM87vrLox0H9sbS09w3SJqLCC9kW1afvYe1sYTjwgdHc2u7GLgASmq1zltdyN6BPNbp6PJXe3DR5g6Xm6W4cvi3eTrmpXZ5speF0uNUIcTXQymRFFMU9YYlMPQBThk370H0RNV79ETL+ywSnFoYhD0NVa7x55ny1d6A4Ih4DvN4XDP2CWY=;MwIFxixq4yNCPqcoe3n0Xg=="
 ---
 

@@ -4,7 +4,7 @@ excerpt: "The Microsoft identity platform is an evolution of the Azure Active Di
 type: collection
 price: Free
 length: PT5H42M
-heat: 62
+heat: 64
 
 provider:
   name: Microsoft Learn
@@ -34,6 +34,6 @@ images:
     height: 400
     isCached: true
 
-secured: "vyYQKTYYF/IKAtZkDWIJ3CU7cssOjF69YJxO05qRxYD+AYUNxIvkKCpgIcceiVLlyFOuvSZyRNzhvcmuMacpR5yM+LcVNoNjcjg8at0ml8u2NLeOw/xfu3xNCOkRsCPt68au2w8/pYq7K/9YEikTOf+8hfENMH/C9PBbU3S4N2VenlwImghw01IX9+NEvOvVm58bckdq23uYM5oUNeChWc8oYfIhWcvpxa57OGoBibhSYyrInmX90tAHytaAl82LGZoEXrJmkMzpwTkJd662t5p1/6zAwgyd1KmrfSigRFsdVSXlOp5NaBKZl8GnCLAJJC0fyXI2LGNxSyW+MAfLyg==;qCLtLd5e4X4DtlMOA9I8EQ=="
+secured: "kSfvRuC5l1yl5IKG3+dVG1A0hDfa36Wtb6so2GUGDb/0Atzy3UCxzKBv6UvCjPuvczOHuxu3c9oCNn51CQs8KJ+7yC/zJMjAnX50+m0YBEQvmQyD/10Obm4tBtHjEz4EIBjADu4oWgEO6WhA1uxOuIWECN53e6/X2/eqzWslUEgOM6Nvqa4C9ka7hoPlqloV5tCVSWIJ40rkRNM85ij1AZNiSTXY1HPfSndrqtoPU0Z3zWEKc2rsDO8279Kc8v2K9oJT7kzf3IJRkbmphaPMpN06ozcCJAg3kx8WUp9ChbafhNv71q1UImplABTwWapd9WvdrYFGWqDhgZjiMFagQM5IxoTaHraibT6vfbggsNU=;FkVf7cyjBAxOAGZSchc8ww=="
 ---
 

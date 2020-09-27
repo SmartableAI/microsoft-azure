@@ -3,7 +3,7 @@ title: "Implement Windows Server IaaS VM Security"
 excerpt: "This learning path deals with securing your Azure resources. After completing the learning path, you’ll be able to determine if your Azure IaaS workloads have any security vulnerabilities, and remediate those potential security vulnerabilities."
 type: collection
 price: Free
-length: PT1H59M
+length: PT4H23M
 heat: 60
 
 provider:
@@ -38,6 +38,6 @@ images:
     height: 320
     isCached: true
 
-secured: "J2+LEmtvSCkt4hLVsLn+MSg3uTmx0aPbByTkEjQsIjYgmkwQgYQUabcTk7NndS8OTuyYcRCz5YhktTcGHoLinh+q1dpG2xYDJUVSh80aUewb5ko1IIxnQEEY+Wxbot/p8Jtk9KynphrSlxSSr0OLWUduRVrhNlsVsVf2KWyoz2ZLj4OjMXjx+M5PAot7QiTe4i84xGwqaW0M3NyoJ0Lmxxb0g8ZZcltZBudNg40mT6E2YzSVAVrdGPY29yh5fu57R9vhW4xuxh22HmPeU8erJ1+dQ64jJYTTmHo4uvDue5efwSeIQaoe+w0m/u7VnZO9rj2H87TZH9QOVa6B8qLzFA==;uvflFKyjxw5up+rziZXu5g=="
+secured: "PgVWCGx24k4vORRvuZdrv5oZBvBy7ut/Dk7tQqRLlyzZ6MK24D0b4ClLOmXnTr6O+XfcHOxGYroieDWGXYwiwbHB9gZaXpg3l/lRuqXRrPRkldj4MJPpKdVZpVbkfssu3M4f3Hc7zaya6SkvQ9GMQMBNg5ak05yumGM4fW2PFcCr8XZ0qw2dr8E/1WM1s2GD9UVYLrttrXJFHf03jji16p9vHMs14DaGr/btuBkvhOsXFoajeQb3ukALFY49Adt40jkQZMjLOeH69ze541YJZ8ASnB/oM7QWoo03TA6wbozT5g9WL0VwKy//jOorJ5YFGda7aWzdWUpOZDmTQ/SR9ig6LPq4gRPQ8Y4Dnx40oDM=;tmfjZvd6f2C4MWW5TwE1fQ=="
 ---
 

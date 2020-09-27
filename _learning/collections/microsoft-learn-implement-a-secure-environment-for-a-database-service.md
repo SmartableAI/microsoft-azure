@@ -3,7 +3,7 @@ title: "Implement a secure environment for a database service"
 excerpt: "Implement SQL Server-based options for authentication and authorization, as well as Azure options for securing Azure SQL databases. Explore encryption, firewalls and advanced threat protection."
 type: collection
 price: Free
-length: PT1H6M
+length: PT1H52M
 heat: 90
 
 provider:
@@ -32,6 +32,6 @@ images:
     height: 321
     isCached: true
 
-secured: "LVuGDLnKtSA3gsiNphC+RxdpnUyrOTWfxUAOEmFLGto74qlZ0pRVkMRh1SgOQ06mJzccTD7a+EqnIAQavLbtKk68qTJhBe1WYRxs0pRb3a0yThXR6YLxDE0LptzIjdF3CK6f/4d1BWoqWi+xTQSG3Fn4tAwk98oFuJssrwdyE2Q1bqZKR4e4Iex3qJtvPv7yN08vgJHRhouZ2OLFmQsAwufOVGroO44jA+YFFg2CmnjYD28EDSYySbo1LTJXzRbA6HZpVfDpZ32uI2RV6nkOs8pxeBxhsea1CkPo4wnCA47kEmQ36O6R7dgBk75esV3v9BNii2gdcG4ponUmlD5kPw==;rX9772DSdtuOmESAK3sfVQ=="
+secured: "9meZaQKH0EbKwKkm7a+7HESB8y1W8xdj8n1BdXLRMbHx8YLnKan8cvwiB4F+T2PZLHkyfB3yEU9pSSkKrF+3IpQyLiQ9DjSD6C/GZQeVrukzAhEj07o4BsXVS2+KaG4pt4gSDoVfkSFyF3URn90oYji7JamFrtdR+kMbLRas8jVX5aZYJlUdu53ziHmNv7iFTEUxvpnxfupGd02jeQGZPO5cDrLK7fDhg7QQSuxuDoISmAIdcGIFqzMZ7e2dfTANM8QO5zf4t2PbrHq6WPs659Vqmucn1Pe/hwIv2LCvkIgEN6ZBTUAjyKHARq1lfohRJLsPkPWwe1DHM7iMaSMU4ZDxecDum6PTSEFMX91VD0I=;xnc++5bJafC2+I+8EVfRcg=="
 ---
 

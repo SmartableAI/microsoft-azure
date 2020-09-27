@@ -1,6 +1,6 @@
 ---
 title: "Store data in Azure"
-excerpt: "Azure provides a variety of ways to store data: unstructured, archival, relational, and more. Learn the basics of storage management in Azure, how to create a Storage Account, and how to choose the right model for the data you want to store in the cloud."
+excerpt: "This learning path gets you started with the basics of storage management in Azure, Storage Account creation, and choices for data storage."
 type: collection
 price: Free
 length: PT3H50M
@@ -35,6 +35,6 @@ images:
     height: 400
     isCached: true
 
-secured: "kcKQ/B/i+1SfUpFRJ+vEuhaA5Jp2s6AKKY0Bbq29JqFNRS2Dw3cC8f8E6D1r73qxr2LnSPDa5KtLh/rzKCEK8/BATjwAxEDh+4PqIQjwUJTm5ag3KhfWO3ywEDnCIZEq3RdkRxQdZ2DPYT8il4xj8jhDo71Qj+iS+lRigjtV+psoks7VbHUqCwo5u3bCH6WPa+tHukJ0W2Crb0hWqdFotCCqABP3PyXY+zHvT88xOAMEpTedK5zgv2etR4r0nhu34K5mWaraTAPxN0AF9Ra1MaE5fXr+nh4XyxCj1zkVSPqjRq0RhsD0SdIKP/o2vNQ8+tzclp4Hdr9p7TUz8WAkew==;dFNx5BNOo2W26h94QB0auw=="
+secured: "pY/W/wd4ypTIKrlmCtHuA+PNrg4O2XZYYg8PTJeSbSlhIgi7oQA0aH160/kiMEdUwQ+BkrOgMg98YC4w9keZ2ibp2jacjBUl+sI0E+9MHE2epYvDLV94rC5vGiwp71srHDlPnanQiiLgsZQN5RhmuVhTJ/QCdAwsZAwx0fkk6zgpe5KunXD2lDlvGoyoQOLQM5wIShAP5DsN0LhwiIyJ4buqc0Jrbt2oE94y3rw5ydrDKgYWVZ8H07yiqgXzDg0Oc0KFkjuW2KGWtWZArfF2yLWu6PGmyh/4g3tuuKVKu0WlrWnnVyIzSf9rplQMkKf07YrDH280dowEP4u+HpEJZ9CUa7ywxgxzeiNhGr8X58o=;F4mwwvqBm4yZ/OXmPuQ79g=="
 ---
 

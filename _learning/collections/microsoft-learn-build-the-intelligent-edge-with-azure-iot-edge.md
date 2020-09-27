@@ -1,6 +1,6 @@
 ---
 title: "Build the intelligent edge with Azure IoT Edge"
-excerpt: "Interested in building end to end IoT solutions or about Azure IoT, but aren't quite sure what it can do for you? This path is the place to start."
+excerpt: "Follow this learning path for a broad and compelling introduction to the fundamentals of building IoT solutions with Azure IoT."
 type: collection
 price: Free
 length: PT3H5M
@@ -31,7 +31,6 @@ topics:
   - Storage
   - Databases
   - Integration
-  - AI
   - Compute
   - Containers
 
@@ -41,6 +40,6 @@ images:
     height: 400
     isCached: true
 
-secured: "21xIGjUxt0uo8W2KhyIlSHxYAUGLW92329q5HIXA9axJr5iFZw2eEa2yLHOvYVb9qiwz1Kt7CL9RqbvyVNmnawq5fgDKJ05Lrg8ai3s5wjUc85ncWAGQdn8FZTp1PLeN8wuD1Txn3QdTj5vNwz1OFMKP8uXMClN/QqNWnZOglJnJGok1ss6NEgonAU9JKZu5xoQnHYgzMhp+KKsxbxWjF0ZO/6YIscmrkBixUipqAJpf9zMhaVz5Gl4YfFOaCWR98ACUagxn11yTuPn5jCqI3lmB5oebhNHI+L4b/DHQZPKT+Vbhoxpjxri/KQ61F6eR1tmwpDIPQtc4klGSy+B0qg==;PD6KCIvpsIu3/ikGqPND4w=="
+secured: "VGtaGtx6ZVR0S/++KFj1lVYx4bt4Gnj4d0FVepF4WK39bWciA9H2IediZGtNZrtoGITdsmJoyCUSRi1VdQO9iBMXMvZb4I3YbU8YKkryw7YNA9OhZUkP1luHmJ4LvT2SO7rRe1RfbI2XIInw0IlfRz26w9D6U/KXjv4tB7r+blGsPg3u0Fskvfx/560MCd+bq9rKMUIQL+kNaSsAeeKPtHDBifW+6ujd/+RF5adgH2fj8O5x3gyk7JNXDjVMM1V5kaarL/E7xAg6PjOrlGW+7bl3hpsBuwRLl8HtVv+LZ4+3baNCJGfqcIYsg3gW3n998yfy1newLOGBPYsbDCZCW3ZqZMPLCk366xx/Ag6OfDw=;E5/vMi0JVz4Vyxex8uKuFg=="
 ---
 

@@ -1,9 +1,9 @@
 ---
 title: "Linux on Azure"
-excerpt: "A comprehensive review of deployment and management of Linux on Azure."
+excerpt: "This comprehensive learning path reviews deployment and management of Linux on Azure. Learn about cloud computing concepts, Linux IaaS and PaaS solutions and benefits and Azure cloud services. Discover how to migrate and extend your Linux-based workloads on Azure with improved scalability, security, and privacy."
 type: collection
 price: Free
-length: PT10H6M
+length: PT11H1M
 heat: 205
 
 provider:
@@ -41,6 +41,6 @@ images:
     height: 320
     isCached: true
 
-secured: "rbD5TArWH+nv0LMK0cIyC/ht8pHKWjL3RqpdAS2sWmMRhvXcYXhdi7EPggr2zl30DNMhQecYVYQhjzyt3JDR+lsiBJ9F9jD97Yawaxmiqgd+YG3VySZVwVg3kFMCB6a13EZH/PsUk7CTrAVGkWptxaEXc09A8MRAV0nW1w6qRkGcqyIFaLgGwJJhUDbtGzfGN651msZNx/6GNkTRXevsNv9OVGWzJuKAOQQ68rM+TTLh4VA+jDUKanhewn+uOzWpHXHAYaJ7Yp7wnte0Ut8K4ELdcf+FfoHilYbfxV+bHXTrO/mZ5tiYXXs/210tn2afeynYrFLpAu0WLR/b1BTTyA==;QrVWcCeGCdG4lThTESfJjA=="
+secured: "RQMYoFfXaaI8lKGaaW/nczpoVc+BqPvVnxSBnzr7Jn49vVY84qx+j/7yt47o6fbmt3+0mQaZ2jJIminFMDwXd57FZTFbEKXJoM3TyV4SQTmY/hmm9VtKPDbcPe0/rVnRb2NPofw4idfpbyDRnpEasdWTSZVDFvPtB6MNUkgEg8kjeHYXXdnoxkE7HF44GP0iRs1jwsaGwu+NTolrIICmPqmcOrQsMONsi3tbmQdM/hvBpnWtaQa+T9+sgKbHYGmLTeGO/eurIPDwsThRMXn/0qP9+8UIMFO9BnPaK2jGtLZDnVNORHftVU8IAndFOKnB3+eNRyrPVazvI4mt8bGElN4++Ao1PpvIwv7f35c6UOk=;hi/Y+yxEILHGDqRM9EjCFw=="
 ---
 

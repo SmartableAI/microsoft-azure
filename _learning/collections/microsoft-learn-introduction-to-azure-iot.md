@@ -1,9 +1,9 @@
 ---
 title: "Introduction to Azure IoT"
-excerpt: "Interested in building end to end IoT solutions or about Azure IoT, but aren't quite sure what it can do for you? This path is the place to start."
+excerpt: "Follow this learning path for a broad and compelling introduction to the fundamentals of building IoT solutions with Azure IoT."
 type: collection
 price: Free
-length: PT5H0M
+length: PT5H3M
 heat: 144
 
 provider:
@@ -42,6 +42,6 @@ images:
     height: 400
     isCached: true
 
-secured: "BIZkBNu/S0LHM4VI8loq09YDOmhaComW8kiXNS/JHSVwF9544JLC4PXnwhggGCRiUZHBxl46R8ab0lE0nz2d4d+7uomXA6uDWipniqMmA4eNZSNbGN6mufpMHxMJrDDffoLoHhNxHhWX7a7bkaTL9ikRa3lQNdrwHUPm2gS3hT+1MfGA6W/VQL4Y2b36eH9FISfYAQd5wynrh/4iQs7IlEQANP+cqAHzo3aBLc89toGSbeiCwYAn/KjbVi91Tv+jKot8f0pzI+/TbRQfd8cMnmUnJuhYmUpMIEL7gTgNCaIY5+WVrI0H/mnK+uIKEz+zxbR//evStSPysLR8h2rdQw==;WM7cQS2W1Ppmge8H2Uh4RA=="
+secured: "HSzmrOsws+sLRVFdihwdTZe0lNhnQmC4nOxoD6gN8iagesTtp6WLZ/p6uH/lZ4xFi31kAeVvdam9SG3tbSCXwZGdX5NZa5na3JGebGdy4qdL1fbGPIZD2K2ZTVGXnW+PMPT0SQ2UUFlw5VgFuaW8eOXBMhMIDssNEmc05tUh7AnDug/Iv1urlZocR3kPAtudATP6X1t57djGyvjIvjlvp1GmINsIdlVjVaPvoyW4jMz0I9pjFv6yxInqUY9vw6GHPfDRvml5A+kfWM6/GiU7egx0juarADeolUh6zJ+ME8mNnsjdE4CH0ekDYAiBRWJQWfZmy/c2gyKyFKd4O5xB2Ixjvbsb+Jeu91h71PSPEgE=;eGJsrVCWqoVMTzD9wqv9mg=="
 ---
 

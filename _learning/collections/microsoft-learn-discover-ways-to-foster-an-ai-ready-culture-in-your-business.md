@@ -1,6 +1,6 @@
 ---
 title: "Discover ways to foster an AI-ready culture in your business"
-excerpt: "In this learning path, you will hear from top Microsoft executives about a framework to drive the key changes that are necessary to become an AI -ready organization. You will be able to identify the successful implementations of AI and articulate relevant scenarios. You will be able to discuss a line of business specific and relevant uses cases in finance, marketing, sales, and customer service. And finally, you will be able to identify  AI solutions to implement in your organization based upon its maturity."
+excerpt: "Learn AI solutions to implement based upon organization maturity and a framework to drive the key changes that are necessary to become an AI-ready organization."
 type: collection
 price: Free
 length: PT3H22M
@@ -33,6 +33,6 @@ images:
     height: 400
     isCached: true
 
-secured: "cLuSbHlRjZY9FC0ff8ek81KHj4dd0J5iUEOD6K84g0bzmlAL7Sr6IGLacVjbzCregb/+elydpJzyJRYYlNB85AF5Ru7GEXCGywtC11xsprzhKde2yaEPp4c0NgjxRNHfWXQp6+oIjrjRCJ7D7xIy+I9lvQvpUYuLu8D1iG7CF/g1UITNqt/70ety98F3Tsrf9vzVZnS6lhIhBP5NAbeWQYs11zEEXFYW9koqZJzIHqDoIYEdxhT16gz//NaD8/9LNTkY52R/rQenXnDpTZsLYX3yeBUP4iwTvvfzzvTu/kXL573eSh6Kar/9DRYkNih8rssYfSM75QZA4wl202kT2Q==;DOpYQF7FbZSUrt6RIzVvAw=="
+secured: "D6K+fgVjMTARLAQklJ8UyhX/W5q2tJYzcWtqOZmyZrsIBe14bf6MPiHxTpvj8NbUVnFDmtu4PjkyvIL2bBFZjEVZOdEm0c25URBzsGopVI2z2YJAr02hU6LRi7gFwUoVh/4yzs8mHcOLR38/HE6xDWvJ+fswWRR6bYh7qgjwWF5c5UW0Zs8nm19oBNXx8oVgzGlurMw504z9HMXCVE0Ia+3t0G9eUkgnjxvoU+BrJwTiaUeomVjsr0wwDdjvXvg33k7wehPBcpN+6bNKwOdxS5Oa/RaLPMa+K5mhfhLlX6kxUD+higtwd9gzSjZuuICu0UIf5VJwyFrgic1XHrBUVzVSa8Dtw8wtn6jPxu7dU4Q=;MqFA7yGVgWGa+bnvAhjvQw=="
 ---
 

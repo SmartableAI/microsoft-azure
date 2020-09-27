@@ -1,6 +1,6 @@
 ---
 title: "Create serverless applications"
-excerpt: "Azure Functions enable the creation of event driven, compute-on-demand systems that can be triggered by various external events. Learn how to leverage functions to execute server-side logic and build serverless architectures."
+excerpt: "In this learning path, discover Azure Functions that create event-driven, compute-on-demand systems using server-side logic to build serverless architectures."
 type: collection
 price: Free
 length: PT8H11M
@@ -44,6 +44,6 @@ images:
     height: 400
     isCached: true
 
-secured: "Gf68+niEyXIZoB88y/vMOih84tOqZgR1gdpG/r8s375fBpe/lWEOlMI9dPFgReSdNHK8TY0RCvwLjZDLeNIgYuidGnlc/D3ry1DjzGIVtg8rIsn+Ahr3cxS2+3iY/iQe+5sg1rfKWE130oxRqRFR4rIcfUaZx3fGEQZ12ibkyiBA59ItoJdcssM3wc1yIMeYlDeB5oJfAVkHIZZgXJm3pYOLeLQilADICy9MYIAXDFU6uek8G8cB+/K9QLbjZEHDqA4a7KRb3IxN5EVqrUmlVtY76VMH6VClVKIkqjWP3QBiCs04pZxEIxgVQ4/4D6KwRaHxwdTbB8skyqzYPcg57g==;Ni4sZDAcqlajghtA144STw=="
+secured: "6G2qA7pht3kuC62s7yxQzDATFfmp6NUhHtQI92moh/uQrX/ydNatFAu5GlcZJWUMoCb3T+DbWXTopOD1vAYnT2sJwlr+QFUfBEWsCBifREi8Ys8NxFgiiDL48LGaL8aOyJv1jgZEzJgdbwX+4SHmGcXPnnWUA9HuhJarhnW/6OPkjUgavsfN66iBWGS6tASN6Enq5WChBzHzryVhK5FyqJQSQgtBVWsq6npKT3BhUOGxc15Sifhuk7+PaQQiYKrpHkZi2mw6HJQ9ETVlzepzTh353yN5hWuJ1PwxYCLf0dJxBe6kURrBgnscNzAgEJUixVvOwNF9LgBN+fgy1hW1npu1NRscHv3I3ty1nAEIwkU=;mslZK5kQMYIicrKTuX4Diw=="
 ---
 

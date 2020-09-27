@@ -1,6 +1,6 @@
 ---
 title: "AI business school for education"
-excerpt: "Decision-makers in education have considerations that are particular to their sector to help them realize the true transformational impact of AI in education. It is critical to understand the components of a strategy that will help the education sector create value with AI. This learning path is designed for education decision-makers to illustrate the true transformational impact of AI in education."
+excerpt: "Learn to develop an AI strategy to create value in government, including artificial intelligence and machine learning technologies, culture, and responsible AI."
 type: collection
 price: Free
 length: PT9H42M
@@ -41,6 +41,6 @@ images:
     height: 400
     isCached: true
 
-secured: "mtP40m72+pg3aFxUxUiN/Cn//4BbPNwkQXaobjoKGJ0RHUUTwj3oEf0a7FqdB4U9e4hI8/PspUoXFHfuNY2LyLdavp8YePruv5YdWEhY6nbSQnwZZBwXkgCYVeFWTXmwdeX5E5tKSCx7rFdl0hx8kXwF0AmPEphN6QMAUUViEDHAo+zUK79HGV6KzhOR3qnSNZV3MexlK/wRLI+ZB0yEWQTBrhqgu09kNStC6VF4zW8WJCzDFmGgtkSh4Uaj4UmuQYdO4ZgNohHu4AGJ09DzMvYcgJPx+VnpZLB5kepDFBZkXo/oU3uaC9owa0wrVRSR9QQRc9YIyN0UK2caDq0G3A==;VjdRj8ztU4iKAROyyx9pVg=="
+secured: "WSDOOTqETxLBSp8h5/XNxMUOF1FJtlIvZlfcn1VJAot/VugaaWM6UECBpIaCniebD9+4i0CbL9oX/O9qxpy2rPQAuqCcg8C+e93XwloXeU7rkmsPWEbA+uNgCRHBzGlkGCa6agYA0BRE+7gxCcFvKHhydYb7oXarOI6zsf7OmgSuIVkG2ak3gYUnhioYUsd6gNPPhvg7rclMLF+5D4UjCq7OIjGJCXyfttXvu5bCIu7kj2eAs5RdqGmbs0/DX6pHFYiQ8uC15ToZ+8uX61R8OUKYgKzGTF4ozoX0N0K1i4oXv4YSFBK2UY7PywfhG6pbub31YVKLg/p3ft76LUTwO99SPA8vtHC0+Bk7spUNAmk=;YsSnvGcTNtE4WuyBBMNCrA=="
 ---
 

@@ -3,7 +3,7 @@ title: "Manage security operations in Azure"
 excerpt: "Learn how to configure security policies and manage security alerts with the tools and services in Azure."
 type: collection
 price: Free
-length: PT6H49M
+length: PT6H51M
 heat: 108
 
 provider:
@@ -42,6 +42,6 @@ images:
     height: 400
     isCached: true
 
-secured: "natTWHEWkgTlN/2yfT9/d1iqwOZWkxWkvbtm/bf/YfBsksIz6k/qNmQAnK8+ahSMbZeOtZb9Io7/DRvEvZ9pWarOOYmfLRg30KzQA4pkcj+ZGx124gUWB6awJoxzMGU2xr7UfIvf+MZu1sECZIap2DeGTCl3qVYXDGy0zpxg9Zn1Vsk4L0CNJQy1zOLzP395RAIrQTFHHnw4oCwOmDAf4NvS0PcFq1THOhoD9ja0KN1ngGUihAbiF/+VitBN0L9+ofdIdEgWv48nJ3YFzsnb0qZts4rH4c/Bc4nZPRUSY9bDVUDa31e0Ob80AUiqjymiMspi9HMg+Dnfbk0fQufcxQ==;poyKKCgRyqh8NBR7dvRK9g=="
+secured: "Abm3ZFQfLO5cChHucfHpmEYn8xwA320pOicDgxXDoMfLQdFtICIZkXhn5lQ/QEUCxhVy8wG716PskVPS54k8FEJ4iPPAVNsx7Akl5NgebaqRM+99LlPoYS5/Etw9mM1oFWbhDWtizQH0FNsxOIdkq7G9mT8H0B4nIldPnqCOz7c/rSBVNAcP8stuS6mpSugnwIpxkA5f4GAzUFiCKjCttxaogycxjHkIi/8JAcdvBo79E3wyWcYg0twBob3AqvySE7HYbAuS4L+kdhpBpiqcxfKAhjtgGs7p2GdChcl648AlfB5S7LVRepdvUkWwvGa8uZOSqG/KJROqI9EDGEYE0fC8zouTKIM1fC7TGLfSD7w=;/C27P9zj+fPyvJYl07J23w=="
 ---
 

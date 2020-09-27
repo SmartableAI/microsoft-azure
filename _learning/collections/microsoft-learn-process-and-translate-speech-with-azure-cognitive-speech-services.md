@@ -1,6 +1,6 @@
 ---
 title: "Process and Translate Speech with Azure Cognitive Speech Services"
-excerpt: "Learn how to implement the Speech services found in Azure Cognitive Services by performing speech-to-text transcription, synthesizing text input to speech, performing speech translation, and implementing speaker recognition in your AI infused applications."
+excerpt: "Learn how to implement the Speech services found in Azure Cognitive Services by performing speech-to-text transcription, synthesize text input to speech, perform speech translation, and implement speaker recognition in your AI infused applications"
 type: collection
 price: Free
 length: PT1H3M
@@ -32,6 +32,6 @@ images:
     height: 320
     isCached: true
 
-secured: "Q4Q6uuJPH/ReP/NGikBevfwaqm3YSPOGvaKJ2mvnViRPZbF6yv8m1X7V8RVRZ6w6VtuzAM82zSuvc5mzBdILyaZ4FxBEVotbfd81L+fmJlx6mp1C4VR1/ecGWmkqxMPNVD6KeMTq6Hwdw3ml32+HqD0qjNWm3c5yYrTwCkdWERnyk5pcq7KpoJSta1W+ZK92oZozV67PSDDI2SzVHp+Jzqgtt47kZSK9XH88EXwK7Eik8q67urv7AWXc4qGxph0fhbgziVYJdY9Btm5scLIrjtjURj5jTqKHNhYjSW4GI9iLTr5H40Utj7wkBnYhVQ9CFMM6kmCbG6ZuQoazlfQzkw==;DmlILcKI9xLL+7fcFR3bUQ=="
+secured: "HJsihXWYsH/JfmZ3CG0jleP65fct/uNWCUA/2jJFJvHh+Qcd6mBGA+PtUC3dwMoyg0pRdT8LH3VL6CkG2Cmr+i4kp1YXVZNTRNFcKcFCKe9ypF0hQPf6T3PeR+8wMV5HxJRp3wjszY0NIwoHDrz3W6YGgFC8DkvxufJZulxNWqB8CsPCK8ffeasIhKAtNHEaP5cPYnbXpngk12V1+g8AA6uFOKngRRpsST8CpjxCpxSspiL1OpJlLybO/qXECkd60l/ioFRuPEvz70jL9pi7ildnrStOTvu+z43+Y0L1aTc7J5tkAruCYXlfIKOK88bbpn+UqmF0THELZQ/Wi6vO3Rt/zU0d1JO1eJB4TPv/0+s=;p0DlSZ3/SnEKa36WBj5VGA=="
 ---
 

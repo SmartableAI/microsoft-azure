@@ -3,7 +3,7 @@ title: "Build AI solutions with Azure Machine Learning"
 excerpt: "Azure Machine Learning is a cloud platform for training, deploying, managing, and monitoring machine learning models. Learn how to use the Azure Machine Learning Python SDK to create enterprise-ready machine learning solutions."
 type: collection
 price: Free
-length: PT8H28M
+length: PT9H13M
 heat: 88
 
 provider:
@@ -42,6 +42,6 @@ images:
     height: 400
     isCached: true
 
-secured: "APC4wahL02AVUcJpKwCsfIYCHReR/Pyt1VCfYzsfdJTeexGi26W1NiyedoAfMJM6s8JcecMaw3XnwA+O9Am32gTcwDAAXFA+HWTaJVxcDPL16chYWI5/ULcBPLVxVORvxrsTFlq9rRv98rAjHDG31208xatHhSe3wTyyzr5wUN1ORlGtW7d0v2Tge3072e9H560zT9VNCXF4F9IhzMThc7lk/wKdrVqZSzN/C3ATqKjQ3su4z7/2IlWVPRpKYThDsGIB810j+wQyAAY5CkrEQrQ80/IvE9QOImqwO4WJOUpncKg80KU4Jf2irIRBNQyRs7ahXn/pvDLUTJ3JGtzVOQ==;yOWP0OCuH/fCcDDxux0MYg=="
+secured: "gJLJIrIUtmDLuS7B+R7np80qYxEnYfkTO2T8Vl88APQdO3xWLZBc7v5FwHh/iyRAtLioLWcOC4fpP5oIc+PG+VcE5+rLR4kU0Tr9bdyzdOZ+eq+0R6qIl8q763dWzCS+0xOe0hK0e6wZhFKvA5YYy0ORlMb23R/pZG+5C4L0YU2mg9KqlrbNSVXHQpTss4t99CKC/W6B+hGoRzBiG40FEkPZX/Alka1/8nttpZARia/uknJpV2ll5ilx21R2eks87eajfddMQOEV3cryXjAO8IRRvOcyvdqt46loGwtzfScFa6aO6KVbs3nGDRCMG5Z/kR3aB07dFgUwpR2L7inoSo+T3BI58V7CM1yuPoqsLZw=;Zk4iM0f58Ny/3/7zU8R/UA=="
 ---
 

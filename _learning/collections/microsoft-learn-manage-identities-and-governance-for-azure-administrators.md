@@ -1,6 +1,6 @@
 ---
 title: "Manage identities and governance for Azure administrators"
-excerpt: "Learn how to manage users, subscriptions, role-based access control (RBAC), and governance in Azure."
+excerpt: "Learn how to manage identities and governance in Azure."
 type: collection
 price: Free
 length: PT8H47M
@@ -44,6 +44,6 @@ images:
     height: 400
     isCached: true
 
-secured: "6X1v/Z6aUSzjWEHWD6AmT3C4ZonHgAf+BOOLq9x6D3uED2B5byCJ4Tf29jSdpC3t0v1jhLif0Z5DL1iC7Bz+AhoylZ029tTOUtwZ0+OyeJO8z9k2QZX0MT1UFEOIG7hdRc282CZu3kBQGOG8qCOp310cpnxDBTFqjmEJWb8rFohJtW6MndNaameDV5c0QYhZgtcNdBOxZ7A/2WAlML9H7b/Br+AWB+uS8PrWS3aqG3TpHXgHdpjQk8wrW1vBsWP7X0JYmP3hf5wVAVJK33cTdW3snsDWEQWaOe4OVV55RtnuDHhFekXHGz0bp1pkgaNWdz3upfTZs0k1TqPxQe0R4g==;QxI2MfMed0qgvLn13yOIEA=="
+secured: "pz2C7FqVrJ5ycJEBLxqkE/HK1pZ8Uwez2xCj0HxCtttuMkOYvIsqBC6Hgiyn/3Kld5nYp6mNdb/gK/IjWCgsGHOBDG4FJTamin+XsiALnQ6rNWRHsFC0B+pM9NO4RXknMW8EkSLZcPNVxvP7fPjz4Mr96/cN/e3Jz7SUEDsxZss9bDKdqsAEfUIriWwAKFXpdiDZqUPl4WxJVkvvzCWmMUe9yamvdMbjxoScR80tJytg3H7HHYAOWqCSukVoufvkH4dSbbJLyb6GqjwEgPeqGdwdu+eOtaDUBhhZS/h9kaSwqmyrNFt9SwDCkFxKqhZHVFCAQGv8BYN40ZcG7f81szZd/LOcal9FSOOzLHkJiKI=;5LqifPenxYz6FGdfQLW2SA=="
 ---
 

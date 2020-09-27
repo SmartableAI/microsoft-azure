@@ -1,6 +1,6 @@
 ---
 title: "Administer infrastructure resources in Azure"
-excerpt: "Learn how to create, manage, secure and scale virtual machine resources."
+excerpt: "This learning path teaches how to create and customize Windows and Linux virtual machines, connect them to virtual networks, and keep them updated."
 type: collection
 price: Free
 length: PT10H59M
@@ -44,6 +44,6 @@ images:
     height: 500
     isCached: true
 
-secured: "S/vIi+GQXcLLlTi/wWL0oXS1jZnuMYq2oEcJx+YHWFonqC9G+ldxjlITvHWVk2+IFVDYnaP23V/2u8940gf6RHdMMubwObvsRNqmsziXYrfKfVszw+pYSZsAydhgvHnVFs1r+uN1N6kD8q/WarSftwEhsZbNBzw7l41DDonVkH5AQwN2M/xWfCHaDNOun6vvDP0U6SEZVpDHv61el/AmEd2cj3v9UCQqrMdQlKTlAd0Nh89fmyRVG0fyqIkkntPDwqOFR+g/PZgaKLimYfq3FOXMOcKFw+g6icnUansfQxampUY1f6Lg6kG46H/2bKGKokDC3gnJnB0GOnrfEUs9vA==;MHSwYhnStTOhmfLmo3vS7Q=="
+secured: "DaF8nWNogvezqtDYrLQ2jkULHCfJG2wlrb/t9uq3RL+PnnCFcgL6VirDKXBMbFiyAl8nVQGfLBnoQTk8G7MmIBlokKAGdEQ5oVy35vdCFCXfhW4OC/y4StWjhq/d/rzxFLlUaSxLAZk2CoLbrauV9bKZPgPXQqnJUMMVq+B2QuYxzokb4wOHSlq/R+b30t4XWTtyhJF7h6+Rbd/Zny9pTwIVjYKx9V1sZyaDB/0sddWWbZoxhq+QF4uImBbqrFSwgn6Q0rZArzyKaDYJqK38qUBdJ20fZ9GGkwVXxw243RYW9LZpmuSm2TM05PztVvoeGxJT0VEaT/8L1zP1oJRYVUtnndK+phO8+PFNvEzhUVw=;k+FTyZzsWnDBiW3PXrONAw=="
 ---
 

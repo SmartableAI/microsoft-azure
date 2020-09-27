@@ -1,6 +1,6 @@
 ---
 title: "Evolve your DevOps practices"
-excerpt: "DevOps is the union of people, process, and products to enable continuous delivery of value to your end users. Azure DevOps is a set of services that gives you the tools you need to do just that. With Azure DevOps, you can build, test, and deploy any application, either to the cloud or on premises. DevOps practices that enable transparency, cooperation, continuous delivery and continuous deployment become embedded in your software development lifecycle."
+excerpt: "In this learning path, find out how Azure DevOps enables transparency and cooperation with continuous delivery and deployment for your development lifecycle."
 type: collection
 price: Free
 length: PT1H57M
@@ -32,6 +32,6 @@ images:
     height: 400
     isCached: true
 
-secured: "6l9vBNGc3+FEwNtjFHP1hSDPgzX+V+gWHc04GOvaBT3D4s4ZJXqNnfBXrPj9j5wccUHufHvbh1YbpfUlyLVdqGeEo+ryXEn/k0nUkIzkk7tf6CJ1Y6/0oixX4SJOXbZpNV6p5SlljoBSuki4tNY2n1W/7C2YxFpBl4sLn9BQWtlnnUJmCHeeb9tgl+ZBRQAyduK+WKT0OHI/NxewlzRsS9dUHQqgc2h0vU8xt2mgLwFbiOVQYbC334iLJzMNdrv4ppT+JHKUSuEaCnD2Bg4ZpKIyByGXSk2iwId7S6vDsSfksGjdHWp+XgYCwV7cRq2vcCyzMYY23VZf1cGY0Tl9Wg==;cPwE/ejEE4d7EN7m/h6RoA=="
+secured: "xCB5GviE1P2YGO6a3wNrikqDR+2ntyjnLNqLM0Zz3z0vQpTyaqomUC8UCk4gxGCyBxKW0IDk5eWM45GIJvJqWA8Ub8lYdjhB0DOOBkvLcVdx/EzLmYVnAX41nIEyRngpwo5DCHqXPdmJO2C+m96VvhhUfC9H1Ji9miDELBdXgKGmYxUC7CtWVu1al8Fhynw1RLFpN3wcezC9lgujFP/4BVA5wHM2D0NuEAI8sUrp5uGEK8lYZEpgfeuPwMl2VXttiVNas66E1X7cZH6gOxoNfp3Ax5PiteGBF2hHQRayaTazAXtjuRts69vmkH54PY14N7jZl8efsmSOSsOaytqPDvGKyXYPaGZJDG/ZckvSew8=;CfubTmQciwZou7Rig42LyQ=="
 ---
 

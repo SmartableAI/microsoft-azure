@@ -1,6 +1,6 @@
 ---
 title: "Perform data science with Azure Databricks"
-excerpt: "Learn how to harness the power of Apache Spark and powerful clusters running on the Azure Databricks platform to run data science workloads in the cloud."
+excerpt: "Perform data science with Azure Databricks"
 type: collection
 price: Free
 length: PT8H25M
@@ -42,6 +42,6 @@ images:
     height: 320
     isCached: true
 
-secured: "JFk7v+ooENBf18wzh/JTZNYTUYt5t+SviMIHXUbAMsRTwZ0pE4oc93Nt0wrWEP5zWnVZTQV0zNgv7tM8Gavm73rtSoPg2LYtq8D6k6KoFIWYuY3ttmWzdlgZ6CZVymcleWfHjhvVn205o+FOikbiw00+sl7vzaXeQGqn57uHuZ2WvU7+I226y5ScqxwujKbTGgjB/c0IsKKviw2DfJh3viTxGpRdtQywUz1tkXqBusqELpH0deKxVGDAqFRomVRVn3rzvEvrtBl3N3+1H05BwaP/e5igHzHQmL7j6V4oAh1JiNDFNi/t1nSCW+NfJ6/BnB03xe3rV9UbTCZ61y+3rw==;CGHDWJ67XhOeiBeLmseWRA=="
+secured: "cKzPB1YdK+e5Be1z8i99EblSDlWr8+RJRAwYlUpVteUurUXuRhM7+ZdcJunTT6kvapl3Xl+kvMESmPvV1r39OKCSx0oWabO0y9qw5/pFT5PwW3GBhTpxp6p7JkgAZXaDAc8DKHwwdOZSuVlO6HwnQmlNFyNfs0FIMg+DAwKYI4kjSqkXeY//5jNjCIWKRjJbVxgpTFFeiLZPbdiXA0mdnnscrU9Z051De7sfoTopbpxouYzWcvsIhcp9VOyc0RF5CEqf9HIIZpwJmy25Hl9jz8fhjieoDIc4i9sbx7xES6qgLaW7vHJD6CjM4CA+V8XexeD76HuJ57/rAxkUXFZdA0tegaXOplJmb4V08hFp4CY=;M5gGhyPe3NIHbQ2b3EpInQ=="
 ---
 

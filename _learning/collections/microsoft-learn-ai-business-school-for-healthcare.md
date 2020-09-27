@@ -1,6 +1,6 @@
 ---
 title: "AI business school for healthcare"
-excerpt: "Decision-makers in healthcare have considerations that are particular to their industry to help them realize the true transformational impact of AI in the enterprise. This learning path is designed for healthcare industry decision-makers to illustrate the true transformational impact of AI in the enterprise."
+excerpt: "Learn to develop an AI strategy to create business value in healthcare, including machine learning technologies, culture, and responsible AI."
 type: collection
 price: Free
 length: PT9H31M
@@ -41,6 +41,6 @@ images:
     height: 400
     isCached: true
 
-secured: "AcUA++9zU/dmz9GLLN/SgQIlCOjM9bORF4R5N6mtZeSjyrwaplwikRJGTQSK2e6twotRoC4YWn+ivKZvCx7GW8LCOIhDVBW19IigC06T9PMSVOWe48u6kEZWerrCchZGFvaNo2ugf1uGzMHuR0RJe3L0CYohDGaqX/tlTalM4jwbTcpoZBoWxEpWaod9x7ngIIx3BNdk1U5d0D80QUl16XczBx3WdTNQ5LO6ecEWJeMXEvnLsei8NjElQoTKKWKeC4BtWtr5qgv97csPWAxtdSL3kSh24BwR3sgK8WG1XAVDNMu1rAUDXzeJ6pUopuMRWp4gz9NYGmgMq9rkNT289g==;0kpI0gk3B2JCd8c/A2wQbA=="
+secured: "GSZwcIyGWWhTFBq/8L65UvO90DpalFAWISgk1KHSVPdHZ7/sQX+bmVZg2psp26tQNaD9CvYt9s7iDeX1wLqLSoLzxXFUWlNC0G48ZyJYNTHQEDofRb2WuDSdsJ+JZONg44Obtl6CQZgtnY8hsNwML0GC5E8dYRBuV5VlGRbhUkscG62yrh/r6ZheL4vl+xv8lFfCi61KK3025wEa46F0NJ67b5DLZaerjzHkkPU5m9MrOHwaHKNsa3WaTZNF9S1o29K0BtDdFJIGxjsFphPJXvSWQ8E0AZ0vd5gIuS9zKBHSnVciy3ugy9JLj1tfLzH2fZcgtfn65cHsRf+QDsBFR0PMBpBpVSVyAfxBM0GcDgg=;dRbt0LnTgIDPGkYOacqEKg=="
 ---
 

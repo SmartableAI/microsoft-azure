@@ -1,6 +1,6 @@
 ---
 title: "Scale AI in your organization"
-excerpt: "In this learning path, you’ll get a high-level overview of how to manage an AI organization, team, department, or center of excellence. You’ll learn about fueling innovation at all levels, evaluating and prioritizing AI investments, establishing technical processes for AI, and distributing AI-related responsibilities across the organization."
+excerpt: "Learn to manage AI organization to create business value in manufacturing, healthcare, financial services, retail, education, and Government."
 type: collection
 price: Free
 length: PT1H11M
@@ -30,6 +30,6 @@ images:
     height: 400
     isCached: true
 
-secured: "udsywUc9FGQFJoMEcGgvt0vvPMCM/Q6fxikr4gPJeR/pV3bBV3u+8CthOXtYgKNx5pAceLsiF1rsSCVqWGn831BfIcEih3vO+zAyl/5WvTZJV/bK1Qqt6YXT33SGNgYcepNyX67OqFl6hSTVyJxt8/i7UMpmLTvS/1weXPINqZaiYHqRTsiYm0Yzgqt9VpJWQqrYwRtABNWT+093yHse1aI/zsTec4HkVOL6CxYtkD0nqIBWqhSGn8N5VuTfc9DxDDMOSVJKLbxvOp603a00YBWU2SMKd93xcd5VENczVUpqDw+CQyQbsUdmvz27NRM5cFF6N3F7lZr9QfgMjwAfXw==;KyeOvlINphcthjp7K9cMpg=="
+secured: "MfwvDsiWUJMxCLO+HJgwXiJ40cz6iVu2kWjlTte578wLEBXgtIiHFIlDB+PVuyjuMSiWoswNt4Pl0ALbWO95bnuildJ5J2ZVeaZICdVUEmtZIa+/n6XoIZL8Chypjz0TYGX1FmbByFbLZFzfGGDWycqXkLDjP6f4Rsi+vErvbnuNKYlXcxBCvR2YHAI8Z7LFHRmvz/59YzhLPrc35EYm78dNJVSKZRczhdYwVl2ZLg+nGZkGAAZUq6yeG8dhLs24T9Ukmk5cY8HD5UDFeR/YhkaiGi3WVABBVh+PEYS2yKWPQQgf5AWXpH0CgNvaEWxhcBD2k/Bis5S43g5brEaC1c5sM7ikeB4WGOl+LONY9AI=;8UU8VbaT68sJC1g7OGy+mQ=="
 ---
 

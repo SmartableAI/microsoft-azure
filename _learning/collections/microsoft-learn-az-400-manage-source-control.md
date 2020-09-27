@@ -1,6 +1,6 @@
 ---
 title: "AZ-400: Manage source control"
-excerpt: "Learn how GitHub enables you to build a modern source control strategy that fosters collaboration and enables you to automate your build and deployment processes.\nTake this learning path to help prepare for Exam AZ-400: Designing and Implementing Microsoft DevOps Solutions."
+excerpt: "Use GitHub to build a modern source control strategy and prepare for Exam AZ-400: Designing and Implementing Microsoft DevOps Solutions."
 type: collection
 price: Free
 length: PT14H31M
@@ -43,6 +43,6 @@ images:
     height: 320
     isCached: true
 
-secured: "pIQoDIdooOdw/lpbRxY0ij2U/gUCEqSugJ4dZPQLKc39JDVKvGhVIM14Yg2XXHs5P0JrznfkMlVAYET3RGeemQOcqfRYAyoNrL8evgVe9dfn+kf5ZfeANZ7eQTULRehi7hEvA2dsGINYBar7Ms/vUQ2wILsVbu9G032qtKibRr/+j7zpVBKZ7gDnDctgrCbvkYlnIAOy8OKIUv+pHx416CxTB4d4c2bgsBNLmrm4FQLxCo0nH491IAy/gY5+arN5aGXNmFNArI27P2XPxb/Qrwh7lFIS9xTYDmY2zVo5QPd1h7+c4m1a7atiQqB47H8DxhsODN3n5NI1gb6mdZms5g==;+60S5IgyoK+gw0ggOS0mGQ=="
+secured: "WWpVjYuyjf520Tq2P1tao6qZJmefMWmeCCdiCYh5s7il2W8nL0DFJoIze5vy3s8ylwW4HSPaLho89QetM+j5mO6sbjYr2MQPzCZRp14KXC/DqcmsxyJwdjRtymt0HFmvCbaxXS+Oh5ywmdTOTlpdMLgSukSNq1ZRCcLxkoDSzBXeZts2DTC7Y1SNPbtO38hJjgEWLIvnPHAXIKNkjRyyenkM+AiXPXoWskmPCo+lEYbB1/DukeAfvqfgAcrQbiOxFtHe/Ln6WKPDOWgHs9Gso46O+qNV4LUHwZhTA36BbQ1l/qA8KSf05PQFTgBY4UZOZ3rMyTk5bWWtZyOrpKhUW+L9UZBrWzTvz5i/2620xAw=;+DT0rZ/6NDZjpVCb1yEzUw=="
 ---
 

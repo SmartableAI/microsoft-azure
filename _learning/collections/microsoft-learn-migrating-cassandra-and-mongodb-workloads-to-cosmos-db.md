@@ -1,6 +1,6 @@
 ---
 title: "Migrating Cassandra and MongoDB workloads to Cosmos DB"
-excerpt: "This learning path enables students to migrate Cassandra and MongoDB workloads to Cosmos DB."
+excerpt: "The focus of this learning path is to migrate MongoDB and Cassandra databases to Azure Cosmos DB."
 type: collection
 price: Free
 length: PT1H13M
@@ -32,6 +32,6 @@ images:
     height: 400
     isCached: true
 
-secured: "lJYTPI0WECQQjDWKo2UUGIr/iIaiWZ86t5utlI7CWA4mLCUYTwwj0DDEHVSXr8Zk9ruKr8gm0BJYq0dFuCmHA8aBe75zxZEozBtkKdrMzzDItPrhQ97l/QQgwHQGljJEKvU+90nGLhgXOHwIRlU+zTUg49NEQCGGkzMyiSzSt3BDdvMFR+QnVmHp2CwaErLvAWTcftPVkIq7ynJfuMk2FkwogqMPqFfmAdp8NOoZ62XKkcEbxL6WF3h0eKD7R94SAi/hmm2V1/Fn2lDLH0e1oYTjqxu2fn1jUZlvHie1aWb/fCTCl01GR0T7eZvhA1w2KIOD2z11xfYl4QzbZNtAHg==;Igak/Y3x1FwxEawImPDBLQ=="
+secured: "1W5TEJfMBZcxhb5251Z6ic3ngOPM9V/XewFIZT19EU31Og+4CG7T21JhbFZnce9lYv1bm6NbHaH8bXHuZOuOgTqQ6il3csajcPZbI+VGlof/Rd5hq1CfdwrjU694aDkUYmlgCqTxxlBNWLTOKdR7jUEa99geM7E44lQtmFdxZW9zn5emTl1zBf+EIwhPQuHS4brwD6ogVWTQSL17xg4pt9NSEasdSdlGmyJw0LqRdsk6NEX1tAPsLiy/6ppmtaNhjmX6DOEQJk43+ZnvdabUYkUQug7oKXQ/rgAf1lShOiO+31ulAXPK813lye+1RSfBtYyVouRUEoAk5kQ33lyOEMaqxfXMxFWZQ2MGO2cyidY=;HQyECBJ3DDcCp5SpC8QSUQ=="
 ---
 
