@@ -8,7 +8,7 @@ webUrl: "https://www.geekwire.com/2020/azure-orbital-launches-microsoft-cloud-co
 ampWebUrl: "https://www.geekwire.com/2020/azure-orbital-launches-microsoft-cloud-computing-space-race-amazon/amp/"
 cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/azure-orbital-launches-microsoft-cloud-computing-space-race-amazon/amp/"
 type: article
-quality: 93
+quality: 110
 heat: -1
 published: false
 
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - Azure
+  - Networking
 
 images:
   - url: "https://cdn.geekwire.com/wp-content/uploads/2020/09/200922-svalbard-630x321.jpg"
@@ -992,6 +993,15 @@ related:
     provider:
       name: ChannelE2E
       domain: channele2e.com
+    quality: 17
+  - title: "SES strengthens ties with Microsoft Azure in new multi-year deal"
+    excerpt: "Satellite operator SES has extended its partnership with Microsoft under a new multi-year contract that will support cloud transformation for its customers, as well as across its internal business units."
+    publishedDateTime: 2020-09-27T11:05:00Z
+    webUrl: "https://www.telecompaper.com/news/ses-strengthens-ties-with-microsoft-azure-in-new-multi-year-deal--1355063"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
     quality: 17
   - title: "Viasat Real-Time Earth Ground Service Available via Microsoft Azure Orbital"
     excerpt: "22, 2020 /PRNewswire/ -- Viasat Inc. (NASDAQ: VSAT), a global communications company, today announced Viasat Real-Time Earth (RTE) is available as a managed services option for Microsoft Azure ..."
