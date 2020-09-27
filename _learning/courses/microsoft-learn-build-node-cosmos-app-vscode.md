@@ -24,6 +24,7 @@ levels:
 topics:
   - Azure
   - Databases
+  - Developer tools
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/build-node-cosmos-app-vscode-social.png

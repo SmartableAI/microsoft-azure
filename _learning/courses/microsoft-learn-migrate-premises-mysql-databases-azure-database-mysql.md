@@ -23,6 +23,7 @@ levels:
 
 topics:
   - Azure
+  - Databases
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/migrate-on-premises-mysql-databases-to-azure-database-for-mysql-social.png

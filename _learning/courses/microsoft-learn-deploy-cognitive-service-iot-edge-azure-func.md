@@ -24,6 +24,8 @@ levels:
 topics:
   - Azure
   - IoT
+  - Serverless
+  - AI
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/student-evangelism/connecting-iot-devices-to-cognitive-services-using-azure-functions-social.png

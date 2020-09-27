@@ -25,6 +25,7 @@ topics:
   - Azure
   - Analytics
   - AI
+  - DevOps
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/implement-ci-cd-azure-devops-social.png

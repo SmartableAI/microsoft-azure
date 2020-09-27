@@ -26,6 +26,7 @@ topics:
   - IoT
   - Mobile
   - Web
+  - Serverless
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/advocates/send-crop-weather-alerts-social.png

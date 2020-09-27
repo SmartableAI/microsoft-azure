@@ -6,8 +6,8 @@ type: course
 price: Free
 length: PT1H13M
 ratings:
-  count: 50154
-  average: 4.7077603
+  count: 50157
+  average: 4.7077575
 heat: -2147483598
 
 provider:
@@ -24,6 +24,7 @@ levels:
 topics:
   - Azure
   - Management Tools
+  - Management tools
 
 secured: "N9HW0Zag8Lp1Tdf6LTQi0O/Dg/F4UcrZWivTrH7IsDBqUwyT6XyVeRy5e3EKsivFHXcsS36YB+PyMSFBmztk2is++/OiXYzGoHs/yfQNpvrleiHPhg6bAVdPNXTJ0Ni009vV93AkI83EffUKauvw8eJ1WwyJsRiOurZXawfj+J7gjhaCbkeyBnqb7bLYeAJHXab8z0xAHkBdoNSHqpDCflJSBR5mbMHKKBB4gIydVEGpnDrvpk6ScWVSqnTMoPijEaQG2dLU9gyAcfClVBbGkA/qpDLxY22ru5hPtmY37f3rk4Qse5dU6eKjcfDx1bgArvv6Kg+GR1EvU4eO0PGNIDqFyKn1cPJSE67CQ/1Aes8cGFDsTYDbYBBnX7+1TVtu460hafUcV5fOQ5sSL6nGOxBD3y3ENd/8xSUkrJchncck81K5i750X1MMehalnDS0;qLsD++m+hrG0WlRLbne7Kg=="
 ---

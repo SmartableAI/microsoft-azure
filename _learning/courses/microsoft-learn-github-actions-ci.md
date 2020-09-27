@@ -23,6 +23,7 @@ levels:
 
 topics:
   - Azure
+  - Integration
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/github/github-actions-ci-social.png

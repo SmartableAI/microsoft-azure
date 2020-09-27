@@ -6,8 +6,8 @@ type: course
 price: Free
 length: PT49M
 ratings:
-  count: 413
-  average: 4.8135595
+  count: 414
+  average: 4.8140097
 heat: 94
 
 provider:
@@ -23,6 +23,7 @@ levels:
 
 topics:
   - Azure
+  - Databases
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/configure-database-authentication-and-authorization-social.png

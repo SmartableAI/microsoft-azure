@@ -23,6 +23,7 @@ levels:
 
 topics:
   - DevOps
+  - Azure
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/azure-devops/create-a-build-pipeline-azure-pipelines-social.png

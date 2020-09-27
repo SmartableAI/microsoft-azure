@@ -23,6 +23,7 @@ levels:
 
 topics:
   - Azure
+  - Compute
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/stage-deploy-app-service-deployment-slots-social.png

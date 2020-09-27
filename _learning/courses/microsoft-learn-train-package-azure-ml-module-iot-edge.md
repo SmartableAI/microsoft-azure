@@ -24,6 +24,7 @@ levels:
 topics:
   - Azure
   - IoT
+  - AI
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/student-evangelism/train-and-package-an-azure-machine-learning-module-for-deployment-to-iot-edge-social.png

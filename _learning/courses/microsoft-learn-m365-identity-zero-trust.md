@@ -6,8 +6,8 @@ type: course
 price: Free
 length: PT35M
 ratings:
-  count: 770
-  average: 4.7974024
+  count: 777
+  average: 4.795367
 heat: 115
 
 provider:
@@ -23,6 +23,7 @@ levels:
 
 topics:
   - Azure
+  - Identity
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/embrace-zero-trust-social.png

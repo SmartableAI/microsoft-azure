@@ -6,8 +6,8 @@ type: course
 price: Free
 length: PT1H14M
 ratings:
-  count: 119
-  average: 4.7058825
+  count: 120
+  average: 4.7083335
 heat: 43
 
 provider:
@@ -23,6 +23,7 @@ levels:
 
 topics:
   - Azure
+  - Databases
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/azure-sql-deploy-configure-social.png

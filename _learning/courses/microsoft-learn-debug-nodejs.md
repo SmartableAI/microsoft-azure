@@ -23,6 +23,7 @@ levels:
 
 topics:
   - Azure
+  - Developer tools
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/debug-nodejs-social.png

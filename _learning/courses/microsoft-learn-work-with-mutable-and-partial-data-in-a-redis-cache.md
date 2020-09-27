@@ -24,6 +24,7 @@ levels:
 topics:
   - Azure
   - Management Tools
+  - Databases
 
 secured: "vS3cXrO1fWUPNvIUEFjDj5LZ5ptAy17q6vKXSOAxqYqPTT2pIdx2c0ORWOvUUY2fmI2bDmoJh13b4n1w/w89oVeeT718lRKlpz+X6ypZO/Z3noCubtqNal2j/03s7HT2SwZnojlA4jqVTPsO30vJ/y7ftPHXKdu4Q4KSK+sehcYRK0eOjS8J323az8NqBDFQeOuhrR6539GVVLGHwea3gdn8Rn46ETZhzyrdPkC2fej9ngBT4lVSi4Bs5K9/viwsgBRm1VMdGF9KQV5nYTXsF8C6LOcUmCPJpv/+q/PJNIjppltjJuKGfn82JHKWDEDEMSQnuQclJFiSqj2P2vNs+bxWZylwpZe70l0V/42vIvjJbOhfZGoGzDERds18QWJkzk7ynnz027+j3gp57YMSppvTPPNscH5+n7ywZSCm+Gs=;rEuKSr3e8HhJx1xkYq5nyg=="
 ---

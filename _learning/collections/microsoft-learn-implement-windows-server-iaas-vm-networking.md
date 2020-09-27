@@ -26,6 +26,7 @@ topics:
   - Azure
   - Management Tools
   - Compute
+  - Networking
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/implement-windows-server-iaas-vm-ip-addressing-and-routing-social.png

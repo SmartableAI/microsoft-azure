@@ -6,8 +6,8 @@ type: course
 price: Free
 length: PT35M
 ratings:
-  count: 2361
-  average: 4.7166457
+  count: 2369
+  average: 4.716336
 heat: 134
 
 provider:
@@ -26,6 +26,7 @@ topics:
   - Compute
   - Management Tools
   - Storage
+  - Management tools
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/protect-virtual-machines-with-azure-backup-social.png

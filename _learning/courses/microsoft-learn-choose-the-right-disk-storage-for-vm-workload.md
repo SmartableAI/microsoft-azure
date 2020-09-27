@@ -24,6 +24,7 @@ levels:
 topics:
   - Azure
   - Compute
+  - Storage
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/choose-the-right-disk-storage-for-vm-workload-social.png

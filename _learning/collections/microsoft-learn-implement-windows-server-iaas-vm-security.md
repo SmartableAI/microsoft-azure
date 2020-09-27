@@ -30,6 +30,7 @@ topics:
   - Management Tools
   - DevOps
   - Compute
+  - Security
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/generic-badge-social.png

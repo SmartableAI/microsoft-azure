@@ -6,8 +6,8 @@ type: course
 price: Free
 length: PT44M
 ratings:
-  count: 171
-  average: 4.619883
+  count: 172
+  average: 4.610465
 heat: 37
 
 provider:
@@ -24,6 +24,7 @@ levels:
 topics:
   - Azure
   - Management Tools
+  - AI
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/deploy-batch-inference-pipelines-with-azure-machine-learning-social.png

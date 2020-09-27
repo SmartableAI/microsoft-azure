@@ -23,6 +23,7 @@ levels:
 
 topics:
   - Azure
+  - Databases
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/migrate-onpremises-postgresql-db-azure-db-social.png

@@ -23,6 +23,8 @@ levels:
 
 topics:
   - Azure
+  - Storage
+  - Containers
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/gather-metrics-from-blob-storage-social.png

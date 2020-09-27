@@ -6,8 +6,8 @@ type: course
 price: Free
 length: PT16M
 ratings:
-  count: 545
-  average: 4.7944956
+  count: 546
+  average: 4.794872
 heat: 1
 
 provider:
@@ -23,6 +23,7 @@ levels:
 
 topics:
   - Azure
+  - Analytics
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/explore-concepts-of-data-analytics-social.png

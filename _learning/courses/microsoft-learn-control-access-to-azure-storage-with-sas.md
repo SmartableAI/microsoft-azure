@@ -23,6 +23,7 @@ levels:
 
 topics:
   - Azure
+  - Storage
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/control-access-to-azure-storage-with-sas-social.png

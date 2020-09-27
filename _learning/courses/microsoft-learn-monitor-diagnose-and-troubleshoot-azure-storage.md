@@ -23,6 +23,7 @@ levels:
 
 topics:
   - Azure
+  - Storage
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/monitor-diagnose-and-troubleshoot-azure-storage-social.png

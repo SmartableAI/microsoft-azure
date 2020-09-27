@@ -6,8 +6,8 @@ type: course
 price: Free
 length: PT24M
 ratings:
-  count: 1911
-  average: 4.7430663
+  count: 1918
+  average: 4.7434826
 heat: 86
 
 provider:
@@ -23,6 +23,7 @@ levels:
 
 topics:
   - Azure
+  - Identity
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/strengthen-authentication-with-microsoft-365-social.png

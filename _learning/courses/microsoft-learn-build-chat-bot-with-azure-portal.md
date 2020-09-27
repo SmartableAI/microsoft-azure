@@ -24,6 +24,7 @@ levels:
 topics:
   - Azure
   - AI
+  - Management tools
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/generic-badge-social.png

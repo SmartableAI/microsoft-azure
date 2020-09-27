@@ -23,6 +23,7 @@ levels:
 
 topics:
   - Azure
+  - Storage
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/optimize-blob-storage-costs-social.png

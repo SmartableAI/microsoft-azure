@@ -23,6 +23,7 @@ levels:
 
 topics:
   - DevOps
+  - Azure
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/azure-devops/run-quality-tests-when-your-application-builds-social.png

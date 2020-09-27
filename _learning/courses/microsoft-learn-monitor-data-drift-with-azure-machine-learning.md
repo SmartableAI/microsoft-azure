@@ -24,6 +24,7 @@ levels:
 topics:
   - Azure
   - Management Tools
+  - AI
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/monitor-data-drift-with-azure-machine-learning-social.png

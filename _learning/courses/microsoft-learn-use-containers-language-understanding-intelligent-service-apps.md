@@ -24,6 +24,7 @@ levels:
 topics:
   - Azure
   - AI
+  - Containers
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/use-containers-for-your-language-understanding-intelligent-service-luis-apps-social.png

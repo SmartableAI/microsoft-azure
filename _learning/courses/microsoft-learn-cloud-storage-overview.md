@@ -23,6 +23,7 @@ levels:
 
 topics:
   - Azure
+  - Storage
 
 secured: "EIhKb2ugkaoa1iXjRGaic2/LqJH+XUTaLwwtCO2IPvok4eeA4vPyvWqjkGcBo8SUZUve/Ra4GTOqeUiovN2L2AzncdqZ8lDzqyQX7rfd+q/YuCwU2g1Zg6AN9eLsjg60bH7ZIeULhFF4DLBTHKChL37rDLEdGQL+zvl7scWXgOHi+IGkvvMibFBgwN6mwRYEtwHVNQV00celMZzhgL6EZjKyPUuaQxo7yY3GDYZrblLimOlQ4FTub8VqVqaegd/SOn8pl4zPzSbsHXMfQgas/H/iEHAwX4ys2XplJ8oeZQiaCJZJq/X+Erpd3I24dFzwsWwVxDNLByilz9cMgMrl0Qr2dGhoF1OyxZk9Tig8IpG2w1bj9g9Yo558m3XqNEKeF1b0z5GGvHr9xY0bcgIgPhA9vQXytAuDBygvv5QsUGU=;qZ0r49MG4hFIrKgeKNDBzw=="
 ---

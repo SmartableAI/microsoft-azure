@@ -23,6 +23,7 @@ levels:
 
 topics:
   - Azure
+  - AI
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/train-local-model-with-azure-mls-badge-social.png

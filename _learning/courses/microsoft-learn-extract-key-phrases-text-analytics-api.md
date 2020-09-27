@@ -24,6 +24,7 @@ levels:
 topics:
   - Azure
   - AI
+  - Analytics
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/extract-key-phrases-from-text-with-the-text-analytics-api-social.png

@@ -24,6 +24,7 @@ levels:
 topics:
   - Azure
   - IoT
+  - Serverless
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/student-evangelism/introduction-to-azure-functions-iot-edge-social.png

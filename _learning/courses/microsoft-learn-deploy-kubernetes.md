@@ -24,6 +24,7 @@ levels:
 topics:
   - Azure
   - DevOps
+  - Containers
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/azure-devops/deploy-kubernetes-social.png

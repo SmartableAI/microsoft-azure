@@ -23,6 +23,7 @@ levels:
 
 topics:
   - Azure
+  - Storage
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/cmu-cloud-developer/storage-network-virtualization-social.png

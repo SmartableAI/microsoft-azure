@@ -23,6 +23,7 @@ levels:
 
 topics:
   - Azure
+  - Security
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/identify-threats-with-azure-security-center-social.png

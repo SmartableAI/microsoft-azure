@@ -24,6 +24,7 @@ items:
 
 topics:
   - Azure
+  - Analytics
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/examine-components-of-modern-data-warehouse-social.png

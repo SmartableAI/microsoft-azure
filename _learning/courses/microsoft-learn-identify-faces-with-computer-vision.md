@@ -24,6 +24,7 @@ levels:
 topics:
   - Azure
   - Developer Tools
+  - AI
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/data-ai/identify-faces-with-computer-vision-social.png

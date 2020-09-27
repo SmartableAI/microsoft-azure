@@ -24,6 +24,7 @@ levels:
 topics:
   - Azure
   - Analytics
+  - Security
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/manage-enterprise-security-in-hdinsight-social.png

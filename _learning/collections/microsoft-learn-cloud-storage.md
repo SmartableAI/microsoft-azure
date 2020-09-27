@@ -25,6 +25,7 @@ items:
 
 topics:
   - Azure
+  - Storage
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/cmu-cloud-developer/cloud-storage-overview-social.png

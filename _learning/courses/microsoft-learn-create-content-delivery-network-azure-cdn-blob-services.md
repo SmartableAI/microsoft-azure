@@ -25,6 +25,7 @@ topics:
   - Azure
   - Networking
   - Web
+  - Storage
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/create-cdn-static-resources-blob-storage-social.png

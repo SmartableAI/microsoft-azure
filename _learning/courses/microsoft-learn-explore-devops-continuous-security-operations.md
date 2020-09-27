@@ -23,6 +23,8 @@ levels:
 
 topics:
   - Azure
+  - Security
+  - DevOps
 
 secured: "CIODe2iuq+dvjFECknM9cRaq4FOUz3TPpFGlxWfSVzZxHjfsjVarqD0tSI1LWmHhHS33Zf7Un5TDlOroBOmmza/PBQtL/gnBvTetZq5B28RHe+SDnmlL8aay+J5z02kCckZjBcjOd95qI5Su4YF62GLeDVfTDMAZAoMmTl61OYR2BFt7xKohsc4BfTAlDWyCKUZOamIURr31NV8Oy+qVi1CnJM9hT0thYdUkbH0F8RZeuDRtsWZPgqp+EqCDXPokf6X+eWbp/0ZsYeMERYJT+1JerZ01RCIa9x5begNAZw/m6RR+bwFYaxj+SiZiB5J+4PL+BPslFEisQ35488ML90HKqHo58UmYtpYZlq/IFVy22Vyzj+7rI4YPcpvslVi0ZPkoSrszflB8YH3xvs9eN/KalquRmHlaiC3ZCfeTo84=;OpzwF4kIKwzQ8lJT++3NiA=="
 ---

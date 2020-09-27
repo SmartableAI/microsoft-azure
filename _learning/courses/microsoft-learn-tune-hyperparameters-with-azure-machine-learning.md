@@ -6,8 +6,8 @@ type: course
 price: Free
 length: PT46M
 ratings:
-  count: 160
-  average: 4.6875
+  count: 161
+  average: 4.6770186
 heat: 37
 
 provider:
@@ -24,6 +24,7 @@ levels:
 topics:
   - Azure
   - Management Tools
+  - AI
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/tune-hyperparameters-with-azure-machine-learning-social.png

@@ -26,6 +26,7 @@ topics:
   - Identity
   - DevOps
   - Management Tools
+  - Security
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/monitor-report-aad-security-events-social.png

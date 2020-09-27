@@ -25,6 +25,7 @@ topics:
   - Azure
   - Analytics
   - AI
+  - Security
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/describe-platform-architecture-security-data-protection-azure-databricks-social.png

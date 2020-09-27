@@ -23,6 +23,7 @@ levels:
 
 topics:
   - Azure
+  - Migration
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/prepare-on-premises-workloads-for-migration-to-azure-social.png

@@ -23,6 +23,7 @@ levels:
 
 topics:
   - Azure
+  - AI
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/register-and-deploy-model-with-amls-badge-social.png

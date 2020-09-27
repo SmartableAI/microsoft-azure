@@ -29,6 +29,7 @@ items:
 topics:
   - Azure
   - Management Tools
+  - Security
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/intro-to-security-in-azure-social.png

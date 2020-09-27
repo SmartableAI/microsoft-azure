@@ -29,6 +29,7 @@ topics:
   - Azure
   - Management Tools
   - Networking
+  - Security
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/secure-and-isolate-with-nsg-and-service-endpoints-social.png

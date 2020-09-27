@@ -23,6 +23,8 @@ levels:
 
 topics:
   - Azure
+  - DevOps
+  - Web
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/load-test-web-app-azure-devops-social.png

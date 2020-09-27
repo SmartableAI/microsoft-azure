@@ -24,6 +24,7 @@ levels:
 topics:
   - Azure
   - AI
+  - Analytics
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/recognize-entities-in-text-with-the-text-analytics-api-social.png

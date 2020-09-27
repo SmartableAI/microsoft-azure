@@ -6,8 +6,8 @@ type: course
 price: Free
 length: PT60M
 ratings:
-  count: 1217
-  average: 4.783895
+  count: 1223
+  average: 4.784955
 heat: 139
 
 provider:
@@ -24,6 +24,7 @@ levels:
 topics:
   - Azure
   - Databases
+  - Compute
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/generic-badge-social.png

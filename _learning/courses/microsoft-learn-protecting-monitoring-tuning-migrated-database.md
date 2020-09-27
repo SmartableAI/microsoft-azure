@@ -23,6 +23,7 @@ levels:
 
 topics:
   - Azure
+  - Databases
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/protecting-monitoring-and-tuning-a-migrated-database-social.png

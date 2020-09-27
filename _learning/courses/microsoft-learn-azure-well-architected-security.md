@@ -24,6 +24,7 @@ levels:
 topics:
   - Azure
   - Identity
+  - Security
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/azure-well-architected-security-social.png

@@ -23,6 +23,7 @@ levels:
 
 topics:
   - Azure
+  - Migration
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/protect-on-premises-infrastructure-with-azure-site-recovery-social.png

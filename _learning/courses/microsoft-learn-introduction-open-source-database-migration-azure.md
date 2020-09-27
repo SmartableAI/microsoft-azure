@@ -23,6 +23,8 @@ levels:
 
 topics:
   - Azure
+  - Databases
+  - Migration
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/introduction-to-open-source-database-migration-on-azure-social.png

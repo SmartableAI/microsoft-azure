@@ -23,6 +23,7 @@ levels:
 
 topics:
   - Azure
+  - AI
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/start-ml-lifecycle-mlops-social.png

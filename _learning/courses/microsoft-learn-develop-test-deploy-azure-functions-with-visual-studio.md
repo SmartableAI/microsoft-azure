@@ -25,6 +25,7 @@ topics:
   - Azure
   - Compute
   - Serverless
+  - Developer tools
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/develop-test-deploy-azure-functions-with-visual-studio-social.png

@@ -24,6 +24,7 @@ levels:
 topics:
   - Azure
   - IoT
+  - AI
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/student-evangelism/run-cognitive-services-on-iot-edge-social.png

@@ -24,6 +24,7 @@ levels:
 topics:
   - Azure
   - DevOps
+  - Serverless
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/azure-devops/deploy-azure-functions-social.png

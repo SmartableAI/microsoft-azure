@@ -27,6 +27,7 @@ topics:
   - Compute
   - Containers
   - Mobile
+  - Databases
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/aspnet-session-social.png

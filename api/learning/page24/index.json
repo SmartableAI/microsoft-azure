@@ -4,42 +4,6 @@
   "page": 24,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-create-serverless-logic-with-functions.md",
-      "title": "Create serverless logic with Azure Functions",
-      "excerpt": "Azure Functions allow you to host business logic that can be executed without managing or provisioning server infrastructure",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-create-serverless-logic-with-functions/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/create-serverless-logic-with-azure-functions/",
-      "length": "PT36M",
-      "ratings": {
-        "count": 6415,
-        "average": 4.663601
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": -2147483598,
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Compute",
-        "Serverless",
-        "Management Tools"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-create-users-and-groups-in-azure-active-directory.md",
       "title": "Create Azure users and groups in Azure Active Directory",
       "excerpt": "Learn how to create Azure users and groups in Azure Active Directory.",
@@ -160,7 +124,8 @@
       "type": "course",
       "price": "Free",
       "topics": [
-        "Azure"
+        "Azure",
+        "Migration"
       ]
     },
     {
@@ -171,8 +136,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/deploy-run-container-app-service/",
       "length": "PT46M",
       "ratings": {
-        "count": 3792,
-        "average": 4.626055
+        "count": 3793,
+        "average": 4.6261535
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -299,8 +264,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/design-azure-sql-data-warehouse/",
       "length": "PT47M",
       "ratings": {
-        "count": 2702,
-        "average": 4.57698
+        "count": 2704,
+        "average": 4.5765533
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -341,8 +306,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/design-ip-addressing-for-azure/",
       "length": "PT37M",
       "ratings": {
-        "count": 1200,
-        "average": 4.7275
+        "count": 1201,
+        "average": 4.727727
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -383,8 +348,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/design-monitoring-strategy-on-azure/",
       "length": "PT57M",
       "ratings": {
-        "count": 1336,
-        "average": 4.5793414
+        "count": 1338,
+        "average": 4.577728
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -457,7 +422,8 @@
       "type": "course",
       "price": "Free",
       "topics": [
-        "Azure"
+        "Azure",
+        "Migration"
       ]
     },
     {
@@ -510,8 +476,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/develop-test-deploy-azure-functions-with-core-tools/",
       "length": "PT20M",
       "ratings": {
-        "count": 1710,
-        "average": 4.7046785
+        "count": 1711,
+        "average": 4.704851
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -585,7 +551,8 @@
       "topics": [
         "Azure",
         "Compute",
-        "Serverless"
+        "Serverless",
+        "Developer tools"
       ]
     },
     {
@@ -631,8 +598,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/distribute-load-with-traffic-manager/",
       "length": "PT29M",
       "ratings": {
-        "count": 2038,
-        "average": 4.5431795
+        "count": 2039,
+        "average": 4.5434036
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -789,8 +756,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/execute-azure-function-with-triggers/",
       "length": "PT1H23M",
       "ratings": {
-        "count": 3339,
-        "average": 4.7026057
+        "count": 3340,
+        "average": 4.7023954
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -825,8 +792,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/explore-azure-infrastructure/",
       "length": "PT45M",
       "ratings": {
-        "count": 66780,
-        "average": 4.713597
+        "count": 66783,
+        "average": 4.713595
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -858,8 +825,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/get-started-ai-fundamentals/",
       "length": "PT27M",
       "ratings": {
-        "count": 2530,
-        "average": 4.724901
+        "count": 2531,
+        "average": 4.72501
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -922,7 +889,8 @@
       "type": "course",
       "price": "Free",
       "topics": [
-        "DevOps"
+        "DevOps",
+        "Azure"
       ]
     },
     {
@@ -963,7 +931,8 @@
       "type": "course",
       "price": "Free",
       "topics": [
-        "Azure"
+        "Azure",
+        "Storage"
       ]
     },
     {
@@ -1125,7 +1094,8 @@
       "price": "Free",
       "topics": [
         "Azure",
-        "Developer Tools"
+        "Developer Tools",
+        "AI"
       ]
     },
     {
@@ -1177,8 +1147,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/implement-message-workflows-with-service-bus/",
       "length": "PT54M",
       "ratings": {
-        "count": 2036,
-        "average": 4.653733
+        "count": 2037,
+        "average": 4.653903
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1201,6 +1171,48 @@
       "topics": [
         "Azure",
         "Integration"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-import-data-into-asdw-with-polybase.md",
+      "title": "Import data into Azure Synapse Analytics by using PolyBase",
+      "excerpt": "Load petabytes of data into an Azure Synapse Analytics database in minutes by using PolyBase",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-import-data-into-asdw-with-polybase/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/import-data-into-asdw-with-polybase/",
+      "length": "PT1H6M",
+      "ratings": {
+        "count": 2014,
+        "average": 4.5620656
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": -2147483598,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/data-ai/import-data-into-asdw-with-polybase-badge-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Analytics"
       ]
     }
   ],

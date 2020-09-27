@@ -6,8 +6,8 @@ type: course
 price: Free
 length: PT21M
 ratings:
-  count: 1362
-  average: 4.7782674
+  count: 1363
+  average: 4.77843
 heat: 59
 
 provider:
@@ -23,6 +23,7 @@ levels:
 
 topics:
   - Azure
+  - Identity
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/use-microsoft-365-to-secure-administrator-access-social.png

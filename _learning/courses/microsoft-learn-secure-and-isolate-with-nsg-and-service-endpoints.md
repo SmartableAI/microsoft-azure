@@ -6,8 +6,8 @@ type: course
 price: Free
 length: PT43M
 ratings:
-  count: 4652
-  average: 4.617154
+  count: 4660
+  average: 4.616953
 heat: -92
 
 provider:
@@ -24,6 +24,7 @@ levels:
 topics:
   - Azure
   - Networking
+  - Security
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/secure-and-isolate-with-nsg-and-service-endpoints-social.png

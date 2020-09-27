@@ -34,6 +34,7 @@ items:
 topics:
   - Azure
   - Management Tools
+  - AI
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/intro-to-azure-machine-learning-service-badge-social.png

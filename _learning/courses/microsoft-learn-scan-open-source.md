@@ -23,6 +23,7 @@ levels:
 
 topics:
   - DevOps
+  - Azure
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/azure-devops/manage-security-and-compliance-in-your-build-pipeline-social.png

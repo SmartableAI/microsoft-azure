@@ -23,6 +23,8 @@ levels:
 
 topics:
   - Azure
+  - Databases
+  - Migration
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/Introduction-to-open-source-database-migration-to-Azure-Cosmos-DB-social.png

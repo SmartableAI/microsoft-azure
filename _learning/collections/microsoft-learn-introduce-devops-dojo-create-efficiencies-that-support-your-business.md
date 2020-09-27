@@ -27,6 +27,7 @@ items:
 
 topics:
   - Azure
+  - DevOps
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/introduce-foundation-pillars-devops-culture-learn-product-social.png

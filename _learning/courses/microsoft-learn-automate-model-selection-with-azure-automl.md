@@ -23,6 +23,7 @@ levels:
 
 topics:
   - Azure
+  - AI
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/automate-model-selection-with-azure-automl-badge-social.png

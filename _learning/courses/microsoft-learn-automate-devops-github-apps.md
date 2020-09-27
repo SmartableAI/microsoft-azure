@@ -23,6 +23,7 @@ levels:
 
 topics:
   - Azure
+  - DevOps
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/github/automate-devops-github-apps-social.png

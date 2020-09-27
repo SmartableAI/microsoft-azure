@@ -30,6 +30,7 @@ topics:
   - Azure
   - Management Tools
   - Compute
+  - Security
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/azure-well-architected-security-social.png

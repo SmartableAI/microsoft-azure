@@ -25,6 +25,7 @@ topics:
   - Azure
   - Compute
   - Web
+  - Developer tools
 
 secured: "vxPyc4CoSyOV+3KuZycyv6Y0/AUVPWWMhpX55W4mm2Iy802rQ8sjQ6TszNADRTPz9lV+zu5zzqV7Lv6lXYUvxnI2/3wpvvWzezzBxTCzKfEdqmZplwU7s4cb5gjV3nHoCZ8qJzr2XukR6ntGagH4pQQl2SsSQPz+qfWZh4Zvw9AHHSyM4tZMPsotAabjiSRiLOwl7hPud+yd+mj/fQt2cB/Ev6kSMS+DzKXgeEMF929mC3PuHJGw3uC8aH5urKEK6ryrAQp8U3g4cVOelexuV5VoFnNvwYfzVsjKcQpK/dRPVSjjX58T2OuCu7F0N6vCjNbLQIE2Mn6h6Oz2a9h9iVore3aOQS5a3RZdNDdSkpkxEk2b20xlH5+dDH4oGUIo5D4oxj4MVN+aO/uoPCbB39dhoNBT0aHoRLyUIipZc78=;ph5ZpDU08tbvykFm41o4pw=="
 ---

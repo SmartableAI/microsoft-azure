@@ -23,6 +23,8 @@ levels:
 
 topics:
   - Azure
+  - AI
+  - Developer tools
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/intro-to-azure-machine-learning-service-badge-social.png

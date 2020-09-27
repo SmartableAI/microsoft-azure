@@ -25,6 +25,7 @@ topics:
   - Azure
   - Management Tools
   - Compute
+  - Networking
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/implement-dns-for-windows-server-iaas-vm-social.png

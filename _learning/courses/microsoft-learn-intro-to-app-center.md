@@ -24,6 +24,7 @@ levels:
 topics:
   - Azure
   - Management Tools
+  - Mobile
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/app-center/introduction-to-app-center-badge-social.png

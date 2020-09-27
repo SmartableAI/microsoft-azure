@@ -23,6 +23,7 @@ levels:
 
 topics:
   - Azure
+  - AI
 
 secured: "3c2REYS8dsMUs8K6XxS7ElsCI1HZtGBabhYuiCDXA/y2ovkS74s08owzp3hkRp0g15S4gfrlSmUApDjSk9um+xwLw6tjR7DbDZs1AdluJ4SNYbq/PnRgTZuKn4e+VvDo4nJeOB4pm+z6x9Es1QsFJDhpi/qyBfb1MZwBIjMVx9a+FgXZJqqkKM2ctw6FFUyQX/omCXp2OZ++CemUHXk56Dayt12i5zfVZshtI0ywJHvAnUrc9OZGPOqNRYGs8Bh8Rv9jovosRm5YyXXuHmN1OB9v71G4iLrvOl91taQ4P/0SzNf4Stuhev+YSmsvlp6w3Rqa2tx2T6qNSnZGlQkSMJmqHLGbr76grh0jVKjmieEA5Pa+zhfXGIfwdEnDsTTAII5samcZafqhnfpvcUxxA4xWRxVPJdRaeueMqr1F6LM=;gp9pbCzTi6i8m4O8MKU06w=="
 ---

@@ -23,6 +23,7 @@ levels:
 
 topics:
   - Azure
+  - Compute
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/run-web-app-background-task-with-webjobs-social.png
