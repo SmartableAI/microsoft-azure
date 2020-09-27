@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT2M18S
 publishedDateTime: 2020-03-31T17:35:47Z
-heat: 51
+heat: 
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/d87JY3oL-A8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -21,6 +21,12 @@ provider:
 topics:
   - Azure
   - Containers
+
+images:
+  - url: https://i.ytimg.com/vi/d87JY3oL-A8/maxresdefault.jpg
+    width: 1280
+    height: 720
+    isCached: true
 
 secured: "ZLBBcGCnGH7P1r+lylavGemfG0UbYRY4mABy/8MgfJGilSwNeWDs0x5BZCb69XqPqaVsidNM82eK78TljXsx+0+wtx046X1rbEMDa6pdVdVbFBi70PjiIY84Fu11soqljqgC1aGeUhJsLnVBbPJ1KLILtA3JRrnYrOplMHKIqgbVhtF+nLSRt+4x2dsLjdxQe4ZW61wgqNOlcisqZJNYfkm+M1VhUvoSsRpnpUdpbgJKgjzZAo7ul18cCIYgmNabPI4qKGM2h+R1h6sncLkTQ8Z/f3jh2ev9jJGjGNkk0NmIlVeDJRBEpZcz1UPsXPoV9HpSsFFxS3jMN3AXTKvIwxmORNMC2jDMYLMHrJOEkf7eFPK6xPyqBjIQRdqgXTFRwGc18wUoMxP4v6b8LlRm1Q==;VcVJnNrCZ1sah5z2LQdK0w=="
 ---

@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT11M36S
 publishedDateTime: 2020-02-21T13:58:08Z
-heat: 52
+heat: 
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/qYsVaAmni30\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -21,6 +21,12 @@ provider:
 topics:
   - Azure
   - Networking
+
+images:
+  - url: https://i.ytimg.com/vi/qYsVaAmni30/maxresdefault.jpg
+    width: 1280
+    height: 720
+    isCached: true
 
 secured: "5baakVm4GmzArRYBzlkyN3tr9EFYxDrkN+UmPJ1NQzbquNr5bOWQfBdDiRcFCppv6SmUNlEhbY5QwaO7ZnPtxaJ3aVdwfviKs5qicPDtY7K+7eHjnGIiUzoseTMMFQaXzl/v4FV1UwZt2CkntkJpoyJ6PQelrQHFNTcK6BiVkDkBNd902k90IR9u/YFk/j5w/r08VLUqZmR65bi5BUx6n/hMsk7cDeSLoRzLf2v9ZwrYDGlWN1jMqDaftXul1XdC8azShoYe7dzHNbJ3hty4zVyqBrEOYSNdTIm4jeHikkq5XiOuCTo1BWsVcZXURYAQ7JT0wVKrn24hixlzN6Jg+69IIyQYQqYVPwjBa4/mlcdKAraa6V/azgw84tf7x5pWnSmZtwLrRQLvGFflMj7xXw==;7rEz9iCPeENuC0vm7LSBpg=="
 ---

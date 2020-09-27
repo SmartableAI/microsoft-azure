@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT4M2S
 publishedDateTime: 2020-07-14T15:25:11Z
-heat: 52
+heat: 
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/PMDdD60DbCA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -22,6 +22,12 @@ topics:
   - Azure
   - Serverless
   - Containers
+
+images:
+  - url: https://i.ytimg.com/vi/PMDdD60DbCA/maxresdefault.jpg
+    width: 1280
+    height: 720
+    isCached: true
 
 secured: "ifteFfRmodAsW4mByhxETmtJzueU2NAhAAtrpCCd7+On54JMiFnne/eQOv0sR/ICAGBSg28zt5WlNn9O+gO6MirnrQunLWG9jfMIk2KWQk3ora2UriGLCGrEFWd8wF8t1Qds6Wp9xxa2lCKDVIJLVPNX8fSD5wU8U6macwDXG46JMz6u8sHVy6F+5I+ilMvQYHmtUR5gAe8b8nriYVPPCMs/ncPQJSy4AvChO8nercCJvB2dM+v2ACTgoxM1cXmqp0nGElVdsKIu3h/iV1H8AOCFmHxCz9a8imTN93QcP6g8Zs8N3Z8OXA/HkL77YIp+xaDFAFpgYDlXZym+Wdnfun6sUCGyku4xt6EXXL0bCn8EXFW6acXRPE118uRQ3SPscX8sksHrHNpm7qBY7drKlg==;7Q6RySSCb72j9DmK5sGT1A=="
 ---

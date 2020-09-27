@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT4M6S
 publishedDateTime: 2020-01-07T16:08:39Z
-heat: 51
+heat: 
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/VTVqV0hZ1EQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -21,6 +21,12 @@ provider:
 topics:
   - Azure
   - Integration
+
+images:
+  - url: https://i.ytimg.com/vi/VTVqV0hZ1EQ/maxresdefault.jpg
+    width: 1280
+    height: 720
+    isCached: true
 
 secured: "4KIhc8TsfjyeIIgiQwx2tS2JXyrwmyGuKUkpSbOSiN/TGx+GZe2ShkbyAg3rVpor+WiRJGEv6dVyhbVU4vOAUj49/4wTfpH7fqG1trRj6dL7SJrPLZyeMMpdOzYdwJbRwQLsy7uR3LKyLYQq/kBO0J0LN7lb6XrFqC5T14bP9QaVGc2ImdD4j6O3NAk2uRW1Auj2DOYors4jox2t7u7v1J3OWBdyd1pxJwISSQ+LrqchVhqqY8I5eqyMD9HFupSAqL98J2rUr8dZpmooK2h2RScAYtbzRTyC4kY5Dwo3G4BfHfvXML5HhxggQrDro2NshrE4CLyIyZU8zWnvsEZTJmL9mSPIQiJYTesqKT9rzw1MLuhjnwVzwMIZ/gb5uPYnsGQL1zWz+mVCe4SqoOoCXA==;V+yDnCmMAW8hzNJFoqUYkg=="
 ---

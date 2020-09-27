@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT10M26S
 publishedDateTime: 2019-12-06T16:42:23Z
-heat: 51
+heat: 
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/FigrAT2ooPM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -21,6 +21,12 @@ provider:
 topics:
   - Azure
   - Databases
+
+images:
+  - url: https://i.ytimg.com/vi/FigrAT2ooPM/maxresdefault.jpg
+    width: 1280
+    height: 720
+    isCached: true
 
 secured: "WNIV5dllv1JJfVdW3p/df/uo3VkEeFyUKUpr1nYGc4Nt/aER7loSA5W2f27421dHipxer60oCeNZcWGz7Y+hEazPOmT6VMQGVWt3R8O7C1qa4nXyBTjkSZl5riqYXTaEpBJKJZiFq9lYo4MbPhFlbf7wZRuYjYuPOfPsRjIY8G17gWHylxEcmcgJjCJerRKA62pPOGD3q0QxGXHIS6P/ADmkHEj1gIEdG/GncIRAvIKtojlHTPNU1GhItuyR8ucQGT+Acu3wBvI/ha/tY+zgSMDIMUi6ARWGqYJtrPIhyAKEusiZDCHd+uoDZe2I0haH1gnkudD08l6szZaYoPPfjTzNyAM+BUGJfwb8rRx7jCTlTa0YeVP4W7hha4uPPUBNtyh6R77XMPTurVxKAfeRGA==;U5DxsO0kjcNwvbd7Rn2QiA=="
 ---

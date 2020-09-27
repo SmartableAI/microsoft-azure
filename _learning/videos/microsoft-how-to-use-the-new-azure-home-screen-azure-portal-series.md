@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT5M42S
 publishedDateTime: 2019-12-12T18:48:01Z
-heat: 52
+heat: 
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Ddo__jkzgVo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -21,6 +21,12 @@ provider:
 topics:
   - Azure
   - Management tools
+
+images:
+  - url: https://i.ytimg.com/vi/Ddo__jkzgVo/maxresdefault.jpg
+    width: 1280
+    height: 720
+    isCached: true
 
 secured: "StNsSBeb/CHeJEpXEoG/zvnW6RyeOquvmuMwocI8oi9PK7hTLDFCvQ7LCTuPIKQCGbdCYDZO+fA/CjEfuLsY66I3yCjNe1j+IqZ1gV7m7mSSFBe3cmjHsycItZ+UFr1LOdfAH031iFSrcsxvYC6DtVmvnFtOfvLB7wIo0CfCWZohLV06ArE4QVtdjetzJib3TLYRPY8DAFOOdCkpeMRj4ExX243ymD0INQWZz5jl+krxg3sbTD7P8kIWH/rqfPUwvPUtnfzKczgY2hNDCkI4UtCD45O5BUBZLPuIowDHR/nK886pBuLwm/Z9LwRslOW50FHYKgkdyk4ouZP3d58T5HDg1GHpOrV4x+bH58MGdjqylxoCp/bGNFqoFWBcxGV2awYMuUadpTcXGBln6q9VeA==;odHE04m/QKC/p6pmroKbGA=="
 ---

@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT4M52S
 publishedDateTime: 2019-06-26T15:08:33Z
-heat: 50
+heat: 
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/nZ7WwTZcQbo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -21,6 +21,12 @@ provider:
 topics:
   - Azure
   - Management tools
+
+images:
+  - url: https://i.ytimg.com/vi/nZ7WwTZcQbo/maxresdefault.jpg
+    width: 1280
+    height: 720
+    isCached: true
 
 secured: "gtA1cVyxwdT3nSw66X/iH9GE+2AgXpVIyg/8E/UJcuDJLD/R9ZTD3qpptDJ+WpoVeislbS0XzSi16dB0d/c+Bb8MveJnHZyY0vrP28rz33zq26JYnZ/raiYnU+CSI0MH/wNLs5HEbl5EOhPtPA0MSSAprwAuz5xTmg5VJ3Vud93/+cojjNdgIv05gX2Hg795PgjbZvWyn/Vv2bT4EdI3S+x9Cej9y0e49gHKQcn204yc1oQU8A1/JgUfCYCoiLsUD4HeG3NsqjiaRkNc49OiIURr3c3KGMxe/UtVcHA+UsVUohEmvX9JnI4hxAULg0jHR1unhnpDq2RVewonzTWAQUZYtCDehvt1hg+niuuXG1M0NIUNvsDMCe6j1jjUOLoUr3nKkNdeVLsl1VWnDjnQdQ==;HZ6xYieQyDDUifug1MNtIw=="
 ---

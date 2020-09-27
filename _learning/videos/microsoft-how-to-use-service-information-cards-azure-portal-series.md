@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT5M16S
 publishedDateTime: 2020-03-25T16:00:07Z
-heat: 52
+heat: 
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/u00TU531qsQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -21,6 +21,12 @@ provider:
 topics:
   - Azure
   - Management tools
+
+images:
+  - url: https://i.ytimg.com/vi/u00TU531qsQ/maxresdefault.jpg
+    width: 1280
+    height: 720
+    isCached: true
 
 secured: "5PaCUlIuXe7+qzXP/dey8h6tg/UVcGV62mZ5zEsbbFZ0MtgD/ZFDzZ0zQuLNoUiSJEXsIX44S11Fug0YBQcvPKjJvD42f9HH2plBayP+6t7R1TXaiZ3xQsx0Q5VZDfAmfOe342aoBGwDzvrPOi6cu4lMuMeU4thsqWhnZOhxeIo0fisRKEtQnV+KX6VCWhe1/B3Ov6Tu3MKLgvWRcFQTWZn7m8jpdgWgBKLDIvszu/KGOpMtxWLbUJxOqqu0NZErLdBnkkLr/Fj3cRF9E1N3GFp1dbS0CchETV2LbDYI+/uNZLITfk+Nwg54ChA+FoEkarkA+Qw73GnXoUPgiqZmVSEu6wFEf5zjlhVulEXtwrfq0zJ/r0ZFP/dEkrS48qnB4R5OiWI/1neVRKxugwMEMg==;bZbVfF1XfR7BE/2Bi+ptSw=="
 ---

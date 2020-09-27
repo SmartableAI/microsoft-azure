@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT6M45S
 publishedDateTime: 2020-03-11T15:05:44Z
-heat: 52
+heat: 
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Z5xRyy3HB8U\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -22,6 +22,12 @@ topics:
   - Azure
   - Management tools
   - DevOps
+
+images:
+  - url: https://i.ytimg.com/vi/Z5xRyy3HB8U/maxresdefault.jpg
+    width: 1280
+    height: 720
+    isCached: true
 
 secured: "IVWzb0YDlEZlz/yEuvcadImh1v9sWxFLGKM3u0QbltYzrGntJULEbqlnXMOISTsJNI33yJ2L0v6eQEoMEUE2pC00/V/Y2rkHkxN05CERdFUEceCn13NCtkGs6zIbrrW2LGaWOjwiBRzJyRoXsFErYlC+WaYrU/5FrA06uSPz3E+E4/KR3a1+tKJqDuA+CvNjknwuItdURTp1t6wgOs1AWeZ4/YwrmWx7oM1WN+2jwvWpZDp0SIUjzM9f4hsp1MosgB/LjuXTpa6ssjg878g+Bmb/GeIeM50PmhjYTeOFxWVOGJBfapGOOsqi+Y41ka9bc06mPNXAUvG0lQiFOStZttyJa4LrqnfMR9rhgRdXkRnKzzX4tXvGtVi83BAUt4Gj5Be0let6mOOa78eQJKG1NQ==;tky1Ho2lStM8OFB1nTXPoQ=="
 ---
