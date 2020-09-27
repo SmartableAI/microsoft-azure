@@ -23,6 +23,12 @@ topics:
   - Management tools
   - Serverless
 
+images:
+  - url: https://i.ytimg.com/vi/0bdT_9uOqkg/maxresdefault.jpg
+    width: 1280
+    height: 720
+    isCached: true
+
 secured: "GnpKv2tRKE1v327UWDwc5NIx8F6GgJNHY4C22nDu97poK5Yv0kwMUKFZbnXdYAtN3oDjkQjGclPUDkZ8exZprHEEHkP6q01ZwNvPh870bAAknSDnO/S/fXqMLDdG3+rUVSm9n2vlfuxX8ztqdqbjdYj5pgGsR/RHNa+t/SjpvXqoTcIeup05U6ktTUeaNu5l//ruGuHHb9qoXYQeSdB6P0Mub5S4h5QEsBOs+nmhzrEDa6upp/i8wc5yidzI49kPzSGZz+MEuHpB5GTjAG9GmhlPsnUKu0UxfrXg25qPbvvT5QsIjys8mhVygwDLPIBf0uyNEqeJjdJlXltrOAfdadlawEUV1EUlTH0mFE/9EtoMjpKqoQK34pXM7SXBj3rSHLA/Pc7wJCziMzjX+Rjq9w==;ANRFhRCTKgKKWRUndLZzow=="
 ---
 

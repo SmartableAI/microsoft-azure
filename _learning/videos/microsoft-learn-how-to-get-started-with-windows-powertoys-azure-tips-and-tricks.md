@@ -21,6 +21,12 @@ provider:
 topics:
   - Azure
 
+images:
+  - url: https://i.ytimg.com/vi/7q9cLCU0Kpg/maxresdefault.jpg
+    width: 1280
+    height: 720
+    isCached: true
+
 secured: "GfqLgZ39edwbU6TWaFP3iHvI4QxFPbHTtI6eIOuPC+6SdgBpl74GaSBPSEAds23Sd5Zg3aYqKDyZauuu5+SEirD6AOcIgyYe+ASguQKHWDarK0iTguLLs6hqcrkSPpVvpTNjHgf7QvQQNFA6GYD3mZiPk0Wp0LCjvMXHqIYENwNJ6p/EDraglro4D/zwjvCo+dXUq5Mpq03F+X4ZIkbF5EEY9nN1hqQZbyt1wOsP523v7amhJDp32SFJsKw3SCrtNkwuFVhlkU9tHM81PMqmBzZUBJbpaANhlID+Tif905nUSCJ3kqXTNfDZMEG4v0swhhF5zTLvF73h0uLNkXK1P1ZFwCMY32p0T749hmJ3dMNLZ1mT/c5Ur23vn0CHxWnKfygcLs8M6aG4tQG7jndVsw==;svGPIniv15hxDUL2C1De6w=="
 ---
 

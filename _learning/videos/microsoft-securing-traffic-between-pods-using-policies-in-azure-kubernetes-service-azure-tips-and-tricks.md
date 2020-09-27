@@ -22,6 +22,12 @@ topics:
   - Azure
   - Containers
 
+images:
+  - url: https://i.ytimg.com/vi/knnn2fPEL0M/maxresdefault.jpg
+    width: 1280
+    height: 720
+    isCached: true
+
 secured: "BgDGHQn+WElfbSMa7j3BUlN2rx+1RdS92Lm/6wFvbJYJEMsAXClxMf53RmksIuqdHtcH6QCkvy0Kjqk10pJb8fnxv7vZxZKxuFxvAEpI0tgpURLELpelSkiG7Su9kM+7p0KPgeoNs9Ub++ByL6838iC8oQttvbnoUzceiFVDVgI77+oP8YyhzR8s2AlXPQ/NtIYTW7sV2PEtCQBFgRHRyL2LfrYdRgKLeVbSCDHbaVJiV15Sr1DMss/sy6LlzSCMDkbmIIaeFQY0n3qdmU4WPjph4ept5rtzUNP2e386k5bKqA71hbeDtGXPHnjCvOn2v3qbyCVSv2z9ES+iQevm80BpT8OpsqBXuXjMez2jtANLwGqMKhMr2Sdh6Hoev1Bg45VbUwu/XDbgLtaXGAAVQw==;IHJE42GzgqtzGTYwHk8Vpg=="
 ---
 
