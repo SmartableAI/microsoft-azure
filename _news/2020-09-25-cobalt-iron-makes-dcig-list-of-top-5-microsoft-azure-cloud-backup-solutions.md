@@ -482,6 +482,20 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 52
+  - title: "Viasat Real-Time Earth Ground Service Available via Microsoft Azure Orbital"
+    excerpt: "22, 2020 /PRNewswire/ -- Viasat Inc. (NASDAQ: VSAT), a global communications company, today announced Viasat Real-Time Earth (RTE) is available as a managed services option for Microsoft Azure ..."
+    publishedDateTime: 2020-09-22T19:08:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/viasat-real-time-earth-ground-service-available-via-microsoft-azure-orbital-301135976.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 52
+    images:
+      - url: "http://mma.prnewswire.com/media/612940/VIASAT_LOGO.jpg?p=facebook"
+        width: 600
+        height: 314
+        isCached: true
   - title: "SES signs multi-year agreement with Microsoft to be an Azure Orbital partner"
     excerpt: "SES signed a multi-year agreement with Microsoft to be an Azure Orbital partner and to accelerate and expand the use of Microsoft Azure."
     publishedDateTime: 2020-09-23T23:32:00Z
@@ -1017,15 +1031,6 @@ related:
       name: Telecompaper
       domain: telecompaper.com
     quality: 17
-  - title: "Viasat Real-Time Earth Ground Service Available via Microsoft Azure Orbital"
-    excerpt: "22, 2020 /PRNewswire/ -- Viasat Inc. (NASDAQ: VSAT), a global communications company, today announced Viasat Real-Time Earth (RTE) is available as a managed services option for Microsoft Azure ..."
-    publishedDateTime: 2020-09-22T19:08:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/viasat-real-time-earth-ground-service-available-via-microsoft-azure-orbital-301135976.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 15
   - title: "Viasat integrates its ground service solution with Microsoft's Azure Orbital"
     excerpt: "Viasat (VSAT -1.1%) enters Microsoft's Azure Orbital ecosystem with its Real-Time Earth (RTE) solutions available as a managed services option to orbital end-users.Viasat's RTE network provides Ground-Station-as-a-Service ((GSaaS)) to the commercial and government earth observation and remote sensing communities on pay-per-use basis."
     publishedDateTime: 2020-09-22T19:28:00Z

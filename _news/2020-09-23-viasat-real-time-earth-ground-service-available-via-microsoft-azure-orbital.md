@@ -6,7 +6,7 @@ publishedDateTime: 2020-09-22T19:08:00Z
 originalUrl: "https://www.prnewswire.com/news-releases/viasat-real-time-earth-ground-service-available-via-microsoft-azure-orbital-301135976.html"
 webUrl: "https://www.prnewswire.com/news-releases/viasat-real-time-earth-ground-service-available-via-microsoft-azure-orbital-301135976.html"
 type: article
-quality: 15
+quality: 52
 heat: -1
 published: false
 
@@ -16,6 +16,13 @@ provider:
 
 topics:
   - Azure
+  - Networking
+
+images:
+  - url: "http://mma.prnewswire.com/media/612940/VIASAT_LOGO.jpg?p=facebook"
+    width: 600
+    height: 314
+    isCached: true
 
 related:
   - title: "Microsoft launches Azure Orbital to connect satellites to its cloud"
