@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT4M48S
 publishedDateTime: 2019-04-24T19:51:39Z
-heat: 
+heat: 52
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-VMPzVoo5Nk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -22,6 +22,12 @@ topics:
   - Azure
   - Management tools
   - Networking
+
+images:
+  - url: https://i.ytimg.com/vi/-VMPzVoo5Nk/maxresdefault.jpg
+    width: 1280
+    height: 720
+    isCached: true
 
 secured: "ugztVG0gkQi70LOG38SLVnaxZqezchAcL0b/iG4Vpf4Jpv+hFCs3nWzq5SrlgWucpoYWUAh7tQXMpzpAlCn4MpwuLmeaIDXaDJSs43CurKQmfV/E3eGEFxRIalxhzO7IyL0sGfl106ZDWUpSCsXc/EETLX2/45PamFYT05uBvRQ45/nqgYpNj/fTYjGSyG5u6ydScPFoC3I4NKmDJSgGqg47UulugDGlvwEZ0Gi2IPYYYukX8t/BFmpd+o10fPOTugOEfwS/Y7oRlVpIBZq+MjosR11QEezZhVtVV8TgM6Ymg/sPW0oYTGE/TPh9BBQfXL+XFRogyH7wmDw+vBSF6YKrf11AZdTauikvoRZdPAoKFXNdLaiwE9vnrwhxA9h9rYdu9ppprm9AzEJaF14Gtw==;Y98ME2JF+ItMCFLrJc/iRw=="
 ---

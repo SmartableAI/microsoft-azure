@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT18M20S
 publishedDateTime: 2020-06-11T22:30:15Z
-heat: 
+heat: 59
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/eIoWrBFFusY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -21,6 +21,12 @@ provider:
 topics:
   - Azure
   - Security
+
+images:
+  - url: https://i.ytimg.com/vi/eIoWrBFFusY/maxresdefault.jpg
+    width: 1280
+    height: 720
+    isCached: true
 
 secured: "H+HBYiEHViCPTW4NlqA2D5pbLV5lh4MCxKx4NK5CxNZ+xPDp8GjhKSTV9gT+N1QhoCk9YQu+eZEprECKdKFgD2LZ+CsdHSyagLSOG08H2lu2CLyYq1uyGegzz7u1AOAiu4ZqOrvGfLB+Rvr+Dbhg1xLygQ/wzOPwFwuWmGT87sb+F8HP/djUo+ovyogNcxWlGMf4uW71xaVp1stqKjGdTBAr6VUhnBIGa5BlCHmyqHKcmAJXKzHcYzHfOA0QV75iWtk0KcG2IVC1bBVxU/6K6vA3RW9+52LkmMz8j9MQBDD1zdqleqpdTAO3THFWMhmgMVZ7FYIVcptlk6QRuZl3UvbTQuyI4xsxlctCMDuhnx04ZQxCHVuk6euOlbJUVuh347zDsSfqqMfmtjeQokAbCQ==;hiDhph0nNybuxPABxQ//vQ=="
 ---

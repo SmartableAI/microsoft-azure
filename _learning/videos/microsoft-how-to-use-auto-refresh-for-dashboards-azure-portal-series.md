@@ -22,6 +22,12 @@ topics:
   - Azure
   - Management tools
 
+images:
+  - url: https://i.ytimg.com/vi/tVoDXygZzWM/maxresdefault.jpg
+    width: 1280
+    height: 720
+    isCached: true
+
 secured: "LLU5enZYE7UzFM+Qg0xjZHaf6WgqvFW6JQVa14K5cuzvCM3VY/pmFfrjcK20CXdv4c8m2ROc3QxUwQOzb4/d/CqtJXL/Srs+Dpjyzv+VfuVLdTjWPCHptoG6SRw3mTK72+s9odKviqBTO/PSbER9k/CVND3OeHkHGnKi4LtRi4iORpCtXH6Ho/oLmDaFb9YGuIJ7iEU6jxn0AN5hVHHvARBwmsD+aWwRu7jD0H8w2IrEQvSN+RdP4xqnCL5bQqsEou0jxKCOOdNiG3ClsznPV3GsMUzioO+TIrtO2mYwrvzZ5ylhkbnq65SnGsciKm5N3NgzBweO6hIkoWL4SVZ6+fp0YwX5FBb1R4MbVGSoSF5IYAqbnI5A37DTLpggkvojN74pVox4S+FObxkPzl2eGw==;vCvClPpVWkjNsptm144aMA=="
 ---
 

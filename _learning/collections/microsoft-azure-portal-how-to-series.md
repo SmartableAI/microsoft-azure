@@ -2,7 +2,7 @@
 title: "Azure Portal “How To” Series"
 excerpt: "Welcome to our weekly series that highlights specific aspects of the Azure portal so you can be more efficient and productive while deploying your cloud workloads from the portal."
 type: collection
-heat: 
+heat: 70
 
 provider:
   name: Microsoft
@@ -61,6 +61,12 @@ items:
 topics:
   - Azure
   - Management tools
+
+images:
+  - url: https://i.ytimg.com/vi/b1kDT8-6a3g/maxresdefault.jpg
+    width: 1280
+    height: 720
+    isCached: true
 
 secured: "zY1cRPtSaRYAwivqBn2TIebTGEPUMdPDxS9LvawPvJVNT0e2Z/LhYhoacuNnOuW2Z5hMs70fRNiGHaEZ2LSSSHCgceD2QvRTCgZ5gDl/iMbWdyitjbWwxuu79WT3q+/G8GqhK5HvHbaWA0NXN4wsINOtPRBpKrcV+xhK4tck72h1ryIJKbdzAfF0K5q/9tFGvJegWh5kW9P02wnbmjysiOYdUot7Vm71F8LGhlfxmaqxA5cmqQ7ViHFgEvEDUfSwBpBjlNbXaCXv8mvmBu6DtnZ2LfStb/5rwnrXNmLqHwYTXVZBiQpP6qbap757NPVZCUzbe/bHPqWcga7pLz64+FfDYTQCIKGcA8WVeiQBdbY=;EteKzydiqCHUZnc86yW7qA=="
 ---

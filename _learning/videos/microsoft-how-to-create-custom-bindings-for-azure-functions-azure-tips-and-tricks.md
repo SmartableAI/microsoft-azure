@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT4M2S
 publishedDateTime: 2020-01-28T16:17:39Z
-heat: 
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Vyyy8JoF_OQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -21,6 +21,12 @@ provider:
 topics:
   - Azure
   - Serverless
+
+images:
+  - url: https://i.ytimg.com/vi/Vyyy8JoF_OQ/maxresdefault.jpg
+    width: 1280
+    height: 720
+    isCached: true
 
 secured: "9Xzrhup24OnVyTh6s+zY5uOIa/3NnBGy/PY8dlID9BcgDgpEWyIYR0UicD9+SoImlpdBumHSi1d4k7fucQ4DYiv0ikKfZyQnvmWmZcIeBlpW2FdebqKiOJXUgw+zLXpDWM7fy7/7DbvAEXiHh+TcRZ9npnM+w07zTuQ7HzrKnhHq4/2S5FgGeo60lwNbwX9J/Th2UdRQqyTv59AEhhMQytNwJ1EI2msHEuisE8uSlx2cgv71EfmmIwb5yEBh3SnZNpDuo2x3jtuJ+aKzaxxdBZDCR0sW9BNIz7h3L/UZK5g0YaBaH+GpPWXHFWJaJ+VAO0mS31pn0z4Srr5u9ojVubClLI4xAM0lE/kVgI177aBvbj83CXLBQhXis0gNj8XWtjRvjFw3OK+kSOVlhVx9Eg==;xqHGJWVLtmVyDsZEUmhfrg=="
 ---

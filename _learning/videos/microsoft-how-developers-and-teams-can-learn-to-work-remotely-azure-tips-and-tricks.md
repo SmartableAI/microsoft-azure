@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT2M59S
 publishedDateTime: 2020-08-04T16:12:42Z
-heat: 
+heat: 54
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/YShJAQAVoEc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -20,6 +20,12 @@ provider:
 
 topics:
   - Azure
+
+images:
+  - url: https://i.ytimg.com/vi/YShJAQAVoEc/maxresdefault.jpg
+    width: 1280
+    height: 720
+    isCached: true
 
 secured: "qjJwa+xJqoLFPP6Veaogw/b5O8GCAbVnB9D17GBCEFBMIhm1dNfp0JuLHYa1I5Dv24c+j6fUDqZK8gRoxk8eJJDPaKqzySSwdAGpHW9/oJvcVq18LCRTsH5CFbVrTh9Qq5I/AnbmrlxFa2s6phrGPKJe9+m2/K9dmolZ0Hvlqrl6SI28gfrnErBsSJVmODs6pnN073ZYDk8YxVkoIn8jBuvErSyI1IT1DqsfY7uSwAqPWViWa/GiKWbbPpaZNuXWYJqq38eFd7fIIC6bOVhCM3QdN3+f/xdJ6MqeD6H93egBFR/KjypyeYDZ/Bvii1RtgH+6MOc/6wt4Vq3y9a3F4wp9kWw7xvPVkjIZePd5Q9KcOUVLKBj9CPdur5aJKi/mxUqwRo40tMumTa35vFzsKg==;LSk8mK01RHi9L/Do6r2zJw=="
 ---

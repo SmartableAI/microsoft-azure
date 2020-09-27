@@ -2,7 +2,7 @@
 title: "Azure Tips and Tricks"
 excerpt: ""
 type: collection
-heat: 
+heat: 115
 
 provider:
   name: Microsoft
@@ -66,6 +66,12 @@ items:
 
 topics:
   - Azure
+
+images:
+  - url: https://i.ytimg.com/vi/IODL8gwWJE4/maxresdefault.jpg
+    width: 1280
+    height: 720
+    isCached: true
 
 secured: "qrjkpF8+Dk1FnG4nUYUlHVpAtQ01ESbSSnbab6hEukLu/2Wn/DmYRhO+TxREO5OgukduWLEOPkdsF1tSlvWZwqnPK32w19qc7LcwYF+TB+HPuT8Wl3jprJ3MS1yAq8VNLgbKAwWCB1TlucerMfN4fnHNRJE9JGaouN5AcTlgosW3nGf+eFCNHKJ8t3e9ArIU9AfKuIkPDaZgmKsqqo7+BrCWlnWDGYLyENv1m9x2DuINLwMmtmDI/+fZ2Df3yGUrhxGFrF8kmdqGMqpekUj6UhAOO4z5HG7H2eXwhM8uHAbUfAq6kaImSi4D9tyWbX6Ones8lT+HZzJQNA90BWeYgSEw2krmvVrAz3GuDAC5vtI=;eyhArfv+CNI8mAtk2PT0xA=="
 ---

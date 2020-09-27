@@ -23,6 +23,12 @@ topics:
   - Serverless
   - Containers
 
+images:
+  - url: https://i.ytimg.com/vi/wSv67WeNqdQ/maxresdefault.jpg
+    width: 1280
+    height: 720
+    isCached: true
+
 secured: "L3YnytWlemcUeIqZabE1u2a3z3b9djVu2eAq8p4xUX3z4l2gvBDaJeiSyb8sRbvFmvvnmhE8WhTQvIAGLblRGtntxPmhb8Huqkz9EJsH6QZo8yjgGfCMTLC6Ligq3d0R45zJQ91lo/Y8cv48A/lsrE3vi3UbwrdANm/lD1nQfrT5Xaw1WtWPZG9dKb6R0PyEf0mUbujLfHBkbKbVepl4I1bj4WXQgPOMMmRNi6fLcAM+5yix74J0Y4c3CVBaf+d3w4P3S1paQNlVJolroU+S/Ht3NYomqNX3B/H81gZdo8fvTNbcVQ2VoWq1tHW7I6vQsdmCSGzoYwfIlIkrMezrl2S3Lg/jMOBOKoaI5vzkH0xvQMWvodWS3oCRD76OaucdP0eNh0sr1dik05aCvInIIQ==;RbOfVRSkngvBypTKJhH0jA=="
 ---
 

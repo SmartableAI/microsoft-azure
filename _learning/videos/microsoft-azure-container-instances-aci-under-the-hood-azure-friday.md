@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT12M40S
 publishedDateTime: 2020-09-25T20:19:24Z
-heat: 
+heat: 190
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/giQLmxMKAKE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -20,6 +20,12 @@ provider:
 
 topics:
   - Azure
+
+images:
+  - url: https://i.ytimg.com/vi/giQLmxMKAKE/maxresdefault.jpg
+    width: 1280
+    height: 720
+    isCached: true
 
 secured: "vMhy0crvISqNoq6D/XYsUUk6zy9/JGBWiadAiAITbCwsHssonOQncPLDNu7X6Y2CCaa0pNQxWqSlFwTW8QBMyJLPpJ/oorwllrN4TxwUlTEb9CARbOVv6pFcmlFHsACLCJ4qHPv5MREzsBauffSUvzP8cbOphOeU7fWAijjoO8H8tXnHoo2b2h5YrP3qPNQ6qu7iRYHvnKgA+1zNHjwsjMIOpVuJjJPERj1SdQRvYqmWqSzMggQJHw93reHTktOehzLhu/UEBgTKUB/E60wI/sNAv23+mxVHW5YTq7DU91c3YEZExKyPyaRe+tQ+DYE1+armF7/EBzQ5585mI6gn9xsXK44AIXgMIOTFYBKHE+MOaVKp3Jbutetut2RNJ02ShEb4HzzAT1MgCyYJWa11XQ==;NRa+XoBHMwpVcb27QD8jfg=="
 ---

@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT12M53S
 publishedDateTime: 2020-01-10T19:46:02Z
-heat: 
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/TPtGhQY1pZQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -22,6 +22,12 @@ topics:
   - Azure
   - Databases
   - Developer tools
+
+images:
+  - url: https://i.ytimg.com/vi/TPtGhQY1pZQ/hqdefault.jpg
+    width: 480
+    height: 360
+    isCached: true
 
 secured: "QwXckShzcCeJpGE+r+Sp1XbM3+c9XBqCo/OJJ274q6krEZoj86dS7UYoKEfB+znt5AOJOk23PlTVTDMpjvP5MB9w5zsMy11+PF/X5OcAV99ecOUTkrFyVKmZcJqEn0kR3rpG6GTuYZYsEgdx+9WQ2JEO5UqAfRgvDZcbs7VLWpacKtdaDznqVas9Y3PSVSRWHLX7p/icx6sCM0WlnwandhriRtjQDiKjh5bvnJwDBQfpoNxTs5bH3oHDssuQFD2Mc60zlXvBVlrQ7SksSyzTdh+Q1KF1vq34ZI0wxMv4fCynuOWGZqTd6xlBgh0adXQafr7787GVUSU66+HaWkvndHqapeU3yXpfWRjoUX4sPo93Fv6Q5lrXD7fWgWXhY9iFWEDiDIOq3JffMQFDG9voRw==;FsnxlHgssbsmmwns6EIP2w=="
 ---

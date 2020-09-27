@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT13M52S
 publishedDateTime: 2020-03-05T20:44:29Z
-heat: 
+heat: 54
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/FmOA5oufedQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -21,6 +21,12 @@ provider:
 topics:
   - Azure
   - Databases
+
+images:
+  - url: https://i.ytimg.com/vi/FmOA5oufedQ/maxresdefault.jpg
+    width: 1280
+    height: 720
+    isCached: true
 
 secured: "jLGUsD/rTHU3uTaM/+3lAPjFTxqjJjvaW6ZwTIYcnuC0/wem1cVA8Wb7psxKJxM5440KhICvv5g/E38VBurcsch2/8HazMNz60guKVVAbAC4VDRoFp/9FYGQkpHRnAN/W+Kl7sUWkqKpqgPlY/6WuRRVQkw1ksiDL0fKzrOJG/wGN1OUopfwG2aHXNPp6aAzFjbw3Fhghk/ZvJ1YLhvC2T9DEQ2eEHWpOS9pg95qB++0GFRxwkt+hFI4uIU32l0zqlOABl/C3jL4/R0FWjMltoMoq2GUs65QKovrnmVIcAjBYJNXxk4MH3og4++A+a4yF6WCobNFnrUc4i2wBs6FXwNsgsbMcqau8qtpoITNm2dOT/qZXl/wSKuLJ3X5TV82kl27V20pq/yd4GpRJtFsAg==;G6m/fK1l5fIaoE2zOs2GPQ=="
 ---

@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT4M4S
 publishedDateTime: 2020-05-05T16:00:08Z
-heat: 
+heat: 53
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/vM7yDwHSc_o\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -22,6 +22,12 @@ topics:
   - Azure
   - Management tools
   - Storage
+
+images:
+  - url: https://i.ytimg.com/vi/vM7yDwHSc_o/maxresdefault.jpg
+    width: 1280
+    height: 720
+    isCached: true
 
 secured: "RoeIgjN3G/WtNxzuI0tb3fztpkjkG5UWnj0o4oR8d9Gab+H6vBIMrmjueTfQzfTEJ+nfFxMTaeVLaC+OzV76ZpT7k9WAPBt0auA54uiNQ+2mgo3JdeXCVVCi7JUhA7hI6oX6G3Z7Mm0gLY2FTcVdNyXCdVSE/zNPfPi9GRSfOy037pGNg+6llnbDPVsn7FQdQLWlb4dWfFNvMEpoVUuZv5f/uuRn0NFjQMsC9CY9qdG0ufk57a/DN/pX9EwvMaplg/uGb3yKHCR7yfZLF5JP7mHdMX1cVmvXp6oX9x1R6bqaGinNNZfzMiXdfc8A5M26INNQ8va05Qw8T6KjjYXf0yiLpEsa1x87rY05vUxpEAxYVfAKICtBVr+khx6XIBzbTdY6+TCW0A562s+J8Ed+Cg==;ufIiC5DX0xqc2DZgCmxKpg=="
 ---

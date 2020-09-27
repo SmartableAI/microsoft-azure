@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT3M38S
 publishedDateTime: 2019-02-13T16:06:42Z
-heat: 
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/5UOgVZa5zrQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -22,6 +22,12 @@ topics:
   - Azure
   - Management tools
   - Mobile
+
+images:
+  - url: https://i.ytimg.com/vi/5UOgVZa5zrQ/maxresdefault.jpg
+    width: 1280
+    height: 720
+    isCached: true
 
 secured: "0entut2OlK9+ptdvZ+ttdFtjZ4pRVT0bmAE1tjkZYp9JqkbJp7A8S3fpCWKWvSrzfh2Wk9MtyBFVpYCIvXrReQJ+ijSE127jffr+XZOBAEgxXstDrs+nSDiPx9y0inIAYnOnsOVAZJAupojJx5vFh/u5q4xVM9/qcpGjSdE6DsxeXBFmCRqLCBl0nYGwg7dTCKfqghS3b15OqYLC+qO8khQx0gbY+Ng1qWT5ZGM0EyDttl+uwZsFQQr3VrJopY17SCXDeoMSBZYsJ+hOdN/HRP9RH6mnRc0gTNebytlp7DQFQgsgnhE2li5AxyNOn+IQEYWPGZDhxjc526VseLKy06Myo1xp1uSxZCfu24wXKxkwFNToF2JYfipijCMfSgiBWKwNBEfFta/4T/4UfFz0ow==;zgLXgYgww8ob+WFFPzQmIw=="
 ---

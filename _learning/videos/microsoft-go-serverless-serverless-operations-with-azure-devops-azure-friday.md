@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT15M7S
 publishedDateTime: 2020-03-31T01:26:20Z
-heat: 
+heat: 54
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/JhXNjxe3sPY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -22,6 +22,12 @@ topics:
   - Azure
   - Serverless
   - DevOps
+
+images:
+  - url: https://i.ytimg.com/vi/JhXNjxe3sPY/maxresdefault.jpg
+    width: 1280
+    height: 720
+    isCached: true
 
 secured: "Jqdyd9ljB1tftp+4b7P7ljiuMILBLCPL7+QX3rfIOmJNQpMooDgfTxKUrQOX//9xA6CldRUCMFVJblQKFao6cpyn6uE4Puw+lyvRvdQdQLWeQp3Mi+vZMY04mAXYcbSSJcozSCO70Tjhl45kxwddbfvf1KJulmW3/dbsXtzTO91TP6bou7S0Bx5X+9e7yR2uxtzG/Nz2X0J66B/QGWtr9iH24l8ZBehNsHwdSQYcB/rlo/xZIkt51QOmzB9ynxVt3qoMEKQGM90N6lGfFwln7rh1IGMbwRkcfc2T/Hi6ikClB7QtCFLdk60VpaLS6PYRi89yNRCCmuRMex+Np1xjIlFiYrrraZ669pnHnCY7CTVOg4n8oIZUn7kWeFwO+gKFGV2LIoKn/JvDs5liNKB6cA==;4c7Udb+Wy7Xye3NOjWjtHQ=="
 ---

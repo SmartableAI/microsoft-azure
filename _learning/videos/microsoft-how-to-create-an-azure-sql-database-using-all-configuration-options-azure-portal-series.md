@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT6M58S
 publishedDateTime: 2019-07-31T14:59:25Z
-heat: 
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/v54UCzJJAYY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -22,6 +22,12 @@ topics:
   - Azure
   - Management tools
   - Databases
+
+images:
+  - url: https://i.ytimg.com/vi/v54UCzJJAYY/maxresdefault.jpg
+    width: 1280
+    height: 720
+    isCached: true
 
 secured: "3pw60qedtYPan3oAJuJWQpYVDm+9yu3AA6HT6KvyNox86qDHseBJO8QdrBSwMotnCeSTfabbAWxpopbd0blWls0lNCyLX4br2+kwgkYiskXKD1UtwEwE4ieoFxlmwtiK4PTiRZaz4o6d/HF/+rtxID+0s1DOaMhB9C6wpuz3quj2p+51RqdgSmA6Kgn3Xq4tK0wUw+kIelOtiA1qUcgFxAuqDwroiLzF4ZlbviWj0JiF931WPCdvAysfZoiXd5ezxZTfViiGfuAFnpL0djXcozRR+7X7RSpNJEeyAvTzzNcappaP2fsx6hsc9OJXVY+1zVEUYjXeia6zTJXC8NR6ScLzw3SIIx/njLOhtMb1Q8Ek9JzJkByump6GsCD0mn6L4uk/aKnLSzWhsR8iRPVbng==;iAql45D8wYiMcpRSxbQuyQ=="
 ---

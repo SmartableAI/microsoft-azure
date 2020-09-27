@@ -22,6 +22,12 @@ topics:
   - Azure
   - Compute
 
+images:
+  - url: https://i.ytimg.com/vi/qPphhM2v3xU/maxresdefault.jpg
+    width: 1280
+    height: 720
+    isCached: true
+
 secured: "SlCdOli3hlBwWBY2xkeo/gEC7/lxhCrB7wkT3Ff59qUfaUnglmMn5Rk0re06NMQVkU1vuxjM4Nxs88EIV/HRtDD/yiDzCePx98Ps5+HrDP41OE7Rd8q64EeidfEkkkLDA1sHBTF8jTiCtvCsAot7kkxs5gQx4cM5TwOT9FYEDG+W4hbFh4RRJ2FmjA4PNC9qNMt3H6/7Bkos5LJX8Kc9x4CX8nHuNurUdfJE6xVMXcQi0pEwhK9u8KhQJgReBQm8DCi1T5OMN7AAcWS0YcUWyu5ih/mQfUPPHEqguaSyw4UgvMhbTFPjLGF39ETDB3Zo8l95DasFEKal+lpMpKjlamINHUmbkVqF6MPD3T3q4FUpsFkxRK8AcAZsM3I2RV4H2Qo4Hw/f27Mn354bEEfYRQ==;7zvQ3i/Owipbk7lYBsJUOQ=="
 ---
 

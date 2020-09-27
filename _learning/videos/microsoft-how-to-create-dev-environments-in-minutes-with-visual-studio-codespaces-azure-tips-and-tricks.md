@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT19M2S
 publishedDateTime: 2020-05-08T15:15:47Z
-heat: 
+heat: 57
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/wgkgFpRCB60\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -21,6 +21,12 @@ provider:
 topics:
   - Azure
   - Developer tools
+
+images:
+  - url: https://i.ytimg.com/vi/wgkgFpRCB60/maxresdefault.jpg
+    width: 1280
+    height: 720
+    isCached: true
 
 secured: "FTLUShQ9MuYbpmdBUaP701b/XkFM6TzJPb+5n00dIoQx6ix86uPLQQ5XOeXknLIt+VGLAuAMw6B9+hkSTl/mYaLz0xCxwZu7Y3QEkQ0XaQCvjRsoMi/GPRiFQIhXZuDGakpfW+NGApeCPBUAMXw67Tzrq4iITavdkOcXimmSDcvKmr3VinVU+luMMUFP4Xeo8HabcrWHzBxz0bnbTYJ25HGYK93mn8slK3D6BX733Y3+VvVRQzXRPohQNXr2RpJGZydMLSeB0JXTugJZyfgOSYdOfeRtFUiEWp2Xrg1F8/2Qk0mBjQB/40MlngfSGZKVgOfwKG6WBFGdRvVyM1hhvpqZnlssSP+yeoHg2XzQKSFndwr7xqgehQqg+hkKzvBxqJVAazlpZG/fw4uldsB8Dw==;fXcmq61stzj+C6qDUjeWyQ=="
 ---

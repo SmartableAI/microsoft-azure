@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT8M49S
 publishedDateTime: 2019-02-20T16:12:50Z
-heat: 
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/z5J5MQkbqvE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -22,6 +22,12 @@ topics:
   - Azure
   - Management tools
   - Compute
+
+images:
+  - url: https://i.ytimg.com/vi/z5J5MQkbqvE/maxresdefault.jpg
+    width: 1280
+    height: 720
+    isCached: true
 
 secured: "cLjCd9f+x6rlky4N04/fYDSUWcvfZ5fMVcnEoq+cdDzv3yijyaJRllkt887KqQnDSEFtoD//btRZTmnMC4DAy/YHBav12hf3o3FLn0VyBhcEwY/xEJDM0cYNPMmrZ0V9ptdCEMRpBTg5JzJlGmkz/s2racbz4axPuyuX//wJAi9jeoV/SYTmuHF7ZsNBukEECL+VL/9g8aB25u6cUK9SLXM/TDQYZKc91DLqpqRHmLmC9ONu/FII1tXcopPoKN49bo80tERYu7I4horGpIQDPcaoyfwQDS+utpBLB13ZypGAqcptR1tnzr4VHeMPBR8NBxuMr/IHgmK005D7kN/nHIi8Kyh6CeNKjYWXSYHcJ7z4m1jGsD1cxy5iG9DP+Djs0NIlkNK5+bxXwcwqGEyF1w==;3eUuNuTi68qzMYwseiz1Lw=="
 ---

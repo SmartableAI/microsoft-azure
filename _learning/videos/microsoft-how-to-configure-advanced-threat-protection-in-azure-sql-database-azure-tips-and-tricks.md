@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT1M59S
 publishedDateTime: 2020-09-22T15:06:57Z
-heat: 
+heat: 118
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/IODL8gwWJE4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -21,6 +21,12 @@ provider:
 topics:
   - Azure
   - Databases
+
+images:
+  - url: https://i.ytimg.com/vi/IODL8gwWJE4/maxresdefault.jpg
+    width: 1280
+    height: 720
+    isCached: true
 
 secured: "KcEccgJn7EcHknCvRf6mHnL+tEGRpYPycI6HQi+BTbJ5kzP1mIp88ualK+SP94iiZdiW5iCeGj8+APL53p/ECpl0LZXheWEcSVkm91wWGhDsJ2hNAT1hM9xYYpv9bOgWW75AXcdV01qwyzMHAv502btw3H93HZNEDCU8dbj383U0MUYOQ9cNtWS5MyODUaLynnxSMURq9xJ2u1jyNIamULXpI1PI3N7OwtcYMDGJe8tFheWskvswJQ90zkVS3QFXtwv0D6bKQRGC09bqTjoeGLea/j2MFPhQEBkByGqU9lvA8t1luSzLDFKJBtQ2a78QwFze3lM8jdiqtrq/8oekdJG5mZBIowNNVln1ACENYn0y03suFL0ZOJiBy1l4VBEsg/hoyOJWAcFtIPHjra0kaA==;pj7HuwM2Js6HfhpzA1jtyQ=="
 ---

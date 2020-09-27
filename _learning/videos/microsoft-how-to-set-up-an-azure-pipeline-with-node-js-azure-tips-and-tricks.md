@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT3M36S
 publishedDateTime: 2019-11-26T16:05:18Z
-heat: 
+heat: 52
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/z_4sMQKE_zw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -20,6 +20,12 @@ provider:
 
 topics:
   - Azure
+
+images:
+  - url: https://i.ytimg.com/vi/z_4sMQKE_zw/maxresdefault.jpg
+    width: 1280
+    height: 720
+    isCached: true
 
 secured: "v7vkakDh9g0DoldY3WyLiGPFF2KsLPKLFVaMmlmletfP6bQ3Hz257e5SuMl53/n+SsymhidriDlGZRHmkfDzCMsExNOnuyHYrMfL5TPpJ0IeB8FynTX50dYok/QmKuo0id54fOafbVvysROnBDqx0R5R8qWNKwkDroJt1q83NJTuOeN0wkE2M/OoLHLXtT8CVCjJWf0kjc+WwtG+DiXBwkPhuIedXA2+2b/YILtGpeslP6dVBEpxq+OHQ1NE1mdkSv7DtxVPbizBfjx2rbzuZOzur4icf6XuoRSMTEQKbH0J68vRjHGtb+II11OcFnqW+UHrAtxPCrw5yIyJrS38zdlNHVMbNqK7nY9cRU+DVR/29C/8wtAOB8XQ2hlftkAF3AB81XxYaNFQMcFpqrpuEQ==;DB/debVz/Xk/bRk2gui//g=="
 ---
