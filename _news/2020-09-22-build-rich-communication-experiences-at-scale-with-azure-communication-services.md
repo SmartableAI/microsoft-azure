@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/build-rich-communication-experien
 webUrl: "https://azure.microsoft.com/blog/build-rich-communication-experiences-at-scale-with-azure-communication-services/"
 type: article
 quality: 83
-heat: 143
+heat: 144
 published: true
 
 provider:
