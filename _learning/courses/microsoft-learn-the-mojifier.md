@@ -8,7 +8,7 @@ length: PT1H31M
 ratings:
   count: 46
   average: 4.5869565
-heat: 47
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -26,6 +26,6 @@ topics:
   - Compute
   - Serverless
 
-secured: "/lcOTyd+xydU00aQwmj701PjYwWvLFN1cYTkBveR4J7PuFHJC3gBPqeM2XcwrhIqQUmYks83uhz0V8+zcg9M+6yuCv5aDg5SWFDZRi7o4Rn9xsRC/eDbEeEJYQTpFUQpesGuQzPqbKhg9WDpjaG087nzHIt4EwJODyhZCyK+YefYeqa+48ct+fb8KdUVdC/l3vHA2zjl2qVlGGWOqZbNRKJR3wkF5Hj84ha8tKb+woQicQz6ySnK0Vs23TA4ElTWV5wyDnLYkLmTOujHtqK2+SgKyGFYLKJ4yHQxPUKP30cW5lomyCg0oLCip/6Huz9x15683SNyVNI0HCkAOlXXrihR3w0PbZDS4U298PHVnFyjWz6HHSCcJO5RB9gy1Yv/ebwbl4cic/rn3VEQYoat8YrK88w7xyBkLeBEPq0xHdA=;SKLYdo84xjkzLfxS7Ebiqg=="
+secured: "F9ruriQVvRwbubAJ/TZB1WFf5y1DjvZ/+qoAb5vNPo+sdRe5SosxlG1TVAP6b6IYhr/n60RzKg5Af1arctNKVggAOwuJW9jyq1lWX8YU68tMdh0Qska03HeJuzlWJlYhwP6kzWRnu+Qbl1D9LMnFd+gde+saoKliJnIrvnuNMheePU6BABnszlCAo9MOYSY9EKJwt3FBloBRklJNqYiSFU8jjDWwbaToMGNRt49zDYUYm/LkJtiLuGe0zCs8Wv9VLi5XyWvYZKDD2L2wvaxJiQ1tcPbipF68l81GLftzkAJ9UlfcSLXA7bz9ppM7aqVhFgOmiD6xUoSvzyBOxfLZaFByDwkVEBZJVM4C0BEMwpGCAgv1OMJdY253l04vD+LvW0KvPoUCy8wUq/RDH+hzSIaj6Nxa/iCvPc9gber8jB0=;L/uydVgk2pfqtVjdnOUdgw=="
 ---
 

@@ -4,7 +4,7 @@ excerpt: "Azure Functions enable the creation of event driven, compute-on-demand
 type: collection
 price: Free
 length: PT8H11M
-heat: -2147483648
+heat: 151
 
 provider:
   name: Microsoft Learn

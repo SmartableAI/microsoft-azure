@@ -4,7 +4,7 @@ excerpt: "In this learning path, discover Azure Functions that create event-driv
 type: collection
 price: Free
 length: PT8H11M
-heat: -2147483648
+heat: 151
 
 provider:
   name: Microsoft Learn

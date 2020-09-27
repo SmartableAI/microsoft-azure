@@ -4,7 +4,7 @@ excerpt: "Azure Logic Apps is a cloud service that automates the execution of yo
 type: collection
 price: Free
 length: PT2H49M
-heat: -6
+heat: 90
 
 provider:
   name: Microsoft Learn

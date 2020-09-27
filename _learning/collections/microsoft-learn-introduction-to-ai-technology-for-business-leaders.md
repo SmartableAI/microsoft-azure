@@ -4,7 +4,7 @@ excerpt: "In this learning path, you will be provided with a high-level overview
 type: collection
 price: Free
 length: PT1H31M
-heat: -138
+heat: 76
 
 provider:
   name: Microsoft Learn
