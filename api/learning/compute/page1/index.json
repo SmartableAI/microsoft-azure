@@ -185,8 +185,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/intro-to-azure-compute/",
       "length": "PT38M",
       "ratings": {
-        "count": 63113,
-        "average": 4.709838
+        "count": 63117,
+        "average": 4.7098403
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -995,8 +995,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/build-azure-vm-templates/",
       "length": "PT37M",
       "ratings": {
-        "count": 5952,
-        "average": 4.62584
+        "count": 5972,
+        "average": 4.6257534
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1030,8 +1030,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/build-app-with-scale-sets/",
       "length": "PT57M",
       "ratings": {
-        "count": 3493,
-        "average": 4.688806
+        "count": 3506,
+        "average": 4.6879635
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1072,8 +1072,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/intro-to-azure-virtual-machines/",
       "length": "PT1H7M",
       "ratings": {
-        "count": 14300,
-        "average": 4.6874127
+        "count": 14302,
+        "average": 4.687456
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1416,8 +1416,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/create-windows-virtual-machine-in-azure/",
       "length": "PT51M",
       "ratings": {
-        "count": 12464,
-        "average": 4.705793
+        "count": 12466,
+        "average": 4.70584
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1892,8 +1892,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/protect-virtual-machines-with-azure-backup/",
       "length": "PT35M",
       "ratings": {
-        "count": 2407,
-        "average": 4.7154136
+        "count": 2413,
+        "average": 4.716121
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2153,8 +2153,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/deploy-sql-server-virtual-machine/",
       "length": "PT60M",
       "ratings": {
-        "count": 1247,
-        "average": 4.7826786
+        "count": 1257,
+        "average": 4.784407
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2383,15 +2383,15 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-azure-functions-and-signalr.md",
-      "title": "Enable automatic updates in a web application using Azure Functions and SignalR Service",
-      "excerpt": "Update a web app's notification mechanism from polling to push-based architecture with SignalR Service, Azure Cosmos DB and Azure Functions.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-azure-functions-and-signalr/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/automatic-update-of-a-webapp-using-azure-functions-and-signalr/",
-      "length": "PT55M",
+      "path": "_learning/courses/microsoft-learn-create-serverless-logic-with-functions.md",
+      "title": "Create serverless logic with Azure Functions",
+      "excerpt": "Azure Functions allow you to host business logic that can be executed without managing or provisioning server infrastructure",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-create-serverless-logic-with-functions/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/create-serverless-logic-with-azure-functions/",
+      "length": "PT36M",
       "ratings": {
-        "count": 1401,
-        "average": 4.280514
+        "count": 6418,
+        "average": 4.6634464
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2408,15 +2408,14 @@
       "levels": [
         "Beginner"
       ],
-      "heat": 133,
+      "heat": 126,
       "type": "course",
       "price": "Free",
       "topics": [
         "Azure",
-        "Storage",
         "Compute",
         "Serverless",
-        "Databases"
+        "Management Tools"
       ]
     }
   ],
