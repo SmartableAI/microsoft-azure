@@ -1,27 +1,23 @@
 ---
 category: news
-title: "Microsoft Kills 18 Azure Accounts Tied to Nation-State Attacks"
-excerpt: "An APT group has started heavily relying on cloud services like Azure Active Directory and OneDrive, as well as open-source tools, to obfuscate its attacks."
-publishedDateTime: 2020-09-25T15:32:00Z
-originalUrl: "https://threatpost.com/microsoft-azure-chinese-hackers/159551/"
-webUrl: "https://threatpost.com/microsoft-azure-chinese-hackers/159551/"
+title: "Microsoft Guns for Twilio's Business With Launch of Azure Communication Services"
+excerpt: "Microsoft (NASDAQ: MSFT) is continuously upping its game in the public cloud arena, and recently announced the availability of Azure Communications Services. The new product is a library of APIs (an API is an application programming interface,"
+publishedDateTime: 2020-09-27T13:58:00Z
+originalUrl: "https://www.nasdaq.com/articles/microsoft-guns-for-twilios-business-with-launch-of-azure-communication-services-2020-09-22"
+webUrl: "https://www.nasdaq.com/articles/microsoft-guns-for-twilios-business-with-launch-of-azure-communication-services-2020-09-22"
+ampWebUrl: "https://www.nasdaq.com/articles/microsoft-guns-for-twilios-business-with-launch-of-azure-communication-services-2020-09-22?amp"
+cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/microsoft-guns-for-twilios-business-with-launch-of-azure-communication-services-2020-09-22?amp"
 type: article
-quality: 37
+quality: 72
 heat: -1
 published: false
 
 provider:
-  name: Threat Post
-  domain: threatpost.com
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - Azure
-
-images:
-  - url: "https://media.threatpost.com/wp-content/uploads/sites/103/2020/09/25104849/cloud-hack.jpg"
-    width: 800
-    height: 530
-    isCached: true
 
 related:
   - title: "Microsoft launches Azure Orbital to connect satellites to its cloud"
@@ -324,17 +320,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 77
-  - title: "Microsoft Guns for Twilio's Business With Launch of Azure Communication Services"
-    excerpt: "Microsoft (NASDAQ: MSFT) is continuously upping its game in the public cloud arena, and recently announced the availability of Azure Communications Services. The new product is a library of APIs (an API is an application programming interface,"
-    publishedDateTime: 2020-09-27T13:58:00Z
-    webUrl: "https://www.nasdaq.com/articles/microsoft-guns-for-twilios-business-with-launch-of-azure-communication-services-2020-09-22"
-    ampWebUrl: "https://www.nasdaq.com/articles/microsoft-guns-for-twilios-business-with-launch-of-azure-communication-services-2020-09-22?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/microsoft-guns-for-twilios-business-with-launch-of-azure-communication-services-2020-09-22?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 72
   - title: "Windows IoT Microsoft Edge Kiosk Mode in public preview"
     excerpt: "Microsoft Edge can now be run in Kiosk mode on Windows IoT "
     publishedDateTime: 2020-09-23T16:00:12Z
@@ -703,6 +688,20 @@ related:
       name: Bleeping Computer
       domain: bleepingcomputer.com
     quality: 37
+  - title: "Microsoft Kills 18 Azure Accounts Tied to Nation-State Attacks"
+    excerpt: "An APT group has started heavily relying on cloud services like Azure Active Directory and OneDrive, as well as open-source tools, to obfuscate its attacks."
+    publishedDateTime: 2020-09-25T15:32:00Z
+    webUrl: "https://threatpost.com/microsoft-azure-chinese-hackers/159551/"
+    type: article
+    provider:
+      name: Threat Post
+      domain: threatpost.com
+    quality: 37
+    images:
+      - url: "https://media.threatpost.com/wp-content/uploads/sites/103/2020/09/25104849/cloud-hack.jpg"
+        width: 800
+        height: 530
+        isCached: true
   - title: "TCS Quartz suite becomes available on Microsoft Azure Blockchain Service"
     excerpt: "Tata Consultancy Services announced the general availability of its award winning Quartz suite of blockchain based solutions on Microsoft Azure Blockchain Service. The Quartz suite of products helps organizations set up truly connected ecosystems ..."
     publishedDateTime: 2020-09-21T21:38:00Z
@@ -1051,6 +1050,6 @@ related:
         height: 450
         isCached: true
 
-secured: "tMHAwR6b3vffEYFMYBAvRR5blU2x2PKjr+YTKU29KNtpuo3ouwSuT6uqtce1ggV0dG1AjMR5mXRDgjEd797ZXqTK/tcOnY09mv1+cCuQ0zdGnwpDZCCPI2QaJNa+gNpLAAY9y0d/6DOhZufXb2kDlOX6JJKX85YO1r5M8TRFKujGxIgURAHVZaC+trHLkJJMcV8ErK9bgwK6L91hs7YK3WUTsA64FwgeUpOqHajb+ism6TEAUzMQq7sWLBC5gwF3xenekenUx4TKIK/kB72XBKSVvrQnIqtq9lNPi/OIiAVMu71Bks7zxaIs1+f9gn/XIHCgS3JMjP0AmM6qRBsMsKadrNrrpgusC95S8LHWstJoqt1j1x0JOKP5s2ZU2c2fEwLyF/hS2ZKPxqfYu6hk/S4zwQFbRaBBUE01ZqfGdays7ZXgKGlt4xQjXJ6Pr5LsPOVuidducEa+2bzl2v9bbambR7yagGxMiKviQaFXl5C+sFyH0EkxeMYd+HxweWQZ3Bts1sqNzfVLbRE4P18zfg==;EetU155lJvs8ovjrxl0ZSw=="
+secured: "+mHYUWf8KRnAZgzclmG5hKUTbldviOcRXTPuP4/GXaVCgh4FHQtGnRaL7egHUjrJpTd3RQUQzc6So+az31h9g0DEkBUClO01JGZlTiUkuMst8gvf0dsOp+lU/t70h2ijxXvp+1/7nVWql3/BArEJhoW8jOsLsYjQb4oi4V7Ae/AiI51a4QyH33EzNjgxByh3nEROPwTAeNvaxqRYwNXV2tx7TpNdSLYa3TuRO/Ujmksa/MTUoex3fB2G/TQsQm0P2m9hFZOBillwd+LIoaeQqxs8Z833DkN3hCTWWU4NP5es0FMA4jJUU2u5E6gcsL7SnEvTpO3OeA0yo3QWVMBxpgRTG1elm7pJ45I3TPj1O+k=;1IVktlUPXS+7BrGktcGFbQ=="
 ---
 

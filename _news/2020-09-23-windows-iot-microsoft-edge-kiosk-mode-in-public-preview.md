@@ -323,6 +323,17 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 77
+  - title: "Microsoft Guns for Twilio's Business With Launch of Azure Communication Services"
+    excerpt: "Microsoft (NASDAQ: MSFT) is continuously upping its game in the public cloud arena, and recently announced the availability of Azure Communications Services. The new product is a library of APIs (an API is an application programming interface,"
+    publishedDateTime: 2020-09-27T13:58:00Z
+    webUrl: "https://www.nasdaq.com/articles/microsoft-guns-for-twilios-business-with-launch-of-azure-communication-services-2020-09-22"
+    ampWebUrl: "https://www.nasdaq.com/articles/microsoft-guns-for-twilios-business-with-launch-of-azure-communication-services-2020-09-22?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/microsoft-guns-for-twilios-business-with-launch-of-azure-communication-services-2020-09-22?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 72
   - title: "Milliman's strategic cyber risk assessment now available in the Microsoft Azure Marketplace"
     excerpt: "16, 2020 /PRNewswire/ -- Milliman, Inc., a premier global consulting and actuarial firm, today announced that it has launched its Strategic Cyber Risk Assessment in the Microsoft Azure ..."
     publishedDateTime: 2020-09-16T16:14:00Z

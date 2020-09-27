@@ -317,6 +317,17 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 77
+  - title: "Microsoft Guns for Twilio's Business With Launch of Azure Communication Services"
+    excerpt: "Microsoft (NASDAQ: MSFT) is continuously upping its game in the public cloud arena, and recently announced the availability of Azure Communications Services. The new product is a library of APIs (an API is an application programming interface,"
+    publishedDateTime: 2020-09-27T13:58:00Z
+    webUrl: "https://www.nasdaq.com/articles/microsoft-guns-for-twilios-business-with-launch-of-azure-communication-services-2020-09-22"
+    ampWebUrl: "https://www.nasdaq.com/articles/microsoft-guns-for-twilios-business-with-launch-of-azure-communication-services-2020-09-22?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/microsoft-guns-for-twilios-business-with-launch-of-azure-communication-services-2020-09-22?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 72
   - title: "Windows IoT Microsoft Edge Kiosk Mode in public preview"
     excerpt: "Microsoft Edge can now be run in Kiosk mode on Windows IoT "
     publishedDateTime: 2020-09-23T16:00:12Z
