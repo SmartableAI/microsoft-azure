@@ -6,7 +6,7 @@ publishedDateTime: 2020-09-23T18:03:00Z
 originalUrl: "https://www.channele2e.com/technology/iot/att-microsoft-azure-cloud-scale-iot-device-management/"
 webUrl: "https://www.channele2e.com/technology/iot/att-microsoft-azure-cloud-scale-iot-device-management/"
 type: article
-quality: 17
+quality: 34
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - Azure
+  - IoT
 
 related:
   - title: "Microsoft launches Azure Orbital to connect satellites to its cloud"

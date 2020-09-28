@@ -761,6 +761,15 @@ related:
         width: 918
         height: 516
         isCached: true
+  - title: "AT&T, Microsoft Azure Cloud Scale IoT Device Management"
+    excerpt: "AT&T and Microsoft are teaming up on a new ‘guardian device’ that will help customers deploy and manage IoT devices at scale. The new IoT solution will allow customers to connect devices and machines to their own cloud environment without the need to ..."
+    publishedDateTime: 2020-09-23T18:03:00Z
+    webUrl: "https://www.channele2e.com/technology/iot/att-microsoft-azure-cloud-scale-iot-device-management/"
+    type: article
+    provider:
+      name: ChannelE2E
+      domain: channele2e.com
+    quality: 34
   - title: "Microsoft launches Azure Spring Cloud to simplify enterprise software projects"
     excerpt: "Microsoft Corp. today announced the general availability of Azure Spring Cloud, a managed service designed to reduce the amount of work involved in building and maintaining enterprise applications on its cloud platform."
     publishedDateTime: 2020-09-02T18:11:00Z
@@ -1004,15 +1013,6 @@ related:
     provider:
       name: Seeking Alpha
       domain: seekingalpha.com
-    quality: 17
-  - title: "AT&T, Microsoft Azure Cloud Scale IoT Device Management"
-    excerpt: "AT&T and Microsoft are teaming up on a new ‘guardian device’ that will help customers deploy and manage IoT devices at scale. The new IoT solution will allow customers to connect devices and machines to their own cloud environment without the need to ..."
-    publishedDateTime: 2020-09-23T18:03:00Z
-    webUrl: "https://www.channele2e.com/technology/iot/att-microsoft-azure-cloud-scale-iot-device-management/"
-    type: article
-    provider:
-      name: ChannelE2E
-      domain: channele2e.com
     quality: 17
   - title: "SES strengthens ties with Microsoft Azure in new multi-year deal"
     excerpt: "Satellite operator SES has extended its partnership with Microsoft under a new multi-year contract that will support cloud transformation for its customers, as well as across its internal business units."
