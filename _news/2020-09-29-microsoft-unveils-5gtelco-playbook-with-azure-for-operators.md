@@ -1,32 +1,26 @@
 ---
 category: news
-title: "Microsoft Downed 18 Azure Cloud applications Used By low-Budget Chinese Gadolinium Hacking Group"
-excerpt: "You probably didn’t hear it here first but the incredibly impressive thing about modern hacking groups is how darned cheap they are - in every sense of that word."
-publishedDateTime: 2020-09-25T17:12:00Z
-originalUrl: "https://www.forbes.com/sites/johndunn/2020/09/25/microsoft-downed-18-azure-cloud-applications-used-by-low-budget-chinese-gadolinium-hacking-group/"
-webUrl: "https://www.forbes.com/sites/johndunn/2020/09/25/microsoft-downed-18-azure-cloud-applications-used-by-low-budget-chinese-gadolinium-hacking-group/"
-ampWebUrl: "https://www.forbes.com/sites/johndunn/2020/09/25/microsoft-downed-18-azure-cloud-applications-used-by-low-budget-chinese-gadolinium-hacking-group/amp/"
-cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johndunn/2020/09/25/microsoft-downed-18-azure-cloud-applications-used-by-low-budget-chinese-gadolinium-hacking-group/amp/"
+title: "Microsoft Unveils 5G/Telco Playbook With ‘Azure For Operators’"
+excerpt: "Microsoft Azure Monday laid out its playbook to partner with communications service providers by providing a carrier-grade platform for edge and cloud computing to help network operators realize the full potential of 5G technology."
+publishedDateTime: 2020-09-28T19:57:00Z
+originalUrl: "https://www.crn.com/slide-shows/cloud/microsoft-unveils-5g-telco-playbook-with-azure-for-operators-"
+webUrl: "https://www.crn.com/slide-shows/cloud/microsoft-unveils-5g-telco-playbook-with-azure-for-operators-"
 type: article
-quality: 84
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Forbes
-  domain: forbes.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/forbes.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: CRN
+  domain: crn.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f6e1f7b5065782fad98e914%2F0x0.jpg"
-    width: 1200
-    height: 686
+  - url: "https://www.crn.com/resources/025f-0ff0d7dce6e1-290de920b9a0-1000/microsoft-azure-sign.jpg"
+    width: 610
+    height: 457
     isCached: true
 
 related:
@@ -203,6 +197,22 @@ related:
       - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/c53722a4-6938-4dea-bb41-a2c639481af2.png"
         width: 727
         height: 345
+        isCached: true
+  - title: "Microsoft Downed 18 Azure Cloud applications Used By low-Budget Chinese Gadolinium Hacking Group"
+    excerpt: "You probably didn’t hear it here first but the incredibly impressive thing about modern hacking groups is how darned cheap they are - in every sense of that word."
+    publishedDateTime: 2020-09-25T17:12:00Z
+    webUrl: "https://www.forbes.com/sites/johndunn/2020/09/25/microsoft-downed-18-azure-cloud-applications-used-by-low-budget-chinese-gadolinium-hacking-group/"
+    ampWebUrl: "https://www.forbes.com/sites/johndunn/2020/09/25/microsoft-downed-18-azure-cloud-applications-used-by-low-budget-chinese-gadolinium-hacking-group/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johndunn/2020/09/25/microsoft-downed-18-azure-cloud-applications-used-by-low-budget-chinese-gadolinium-hacking-group/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 84
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f6e1f7b5065782fad98e914%2F0x0.jpg"
+        width: 1200
+        height: 686
         isCached: true
   - title: "Microsoft Launches Cloud for Healthcare"
     excerpt: "Microsoft's new cloud offering aims to improve patient engagement and enhance collaboration in the post-COVID-19 era."
@@ -779,20 +789,6 @@ related:
         width: 800
         height: 530
         isCached: true
-  - title: "Microsoft Unveils 5G/Telco Playbook With ‘Azure For Operators’"
-    excerpt: "Microsoft Azure Monday laid out its playbook to partner with communications service providers by providing a carrier-grade platform for edge and cloud computing to help network operators realize the full potential of 5G technology."
-    publishedDateTime: 2020-09-28T19:57:00Z
-    webUrl: "https://www.crn.com/slide-shows/cloud/microsoft-unveils-5g-telco-playbook-with-azure-for-operators-"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 37
-    images:
-      - url: "https://www.crn.com/resources/025f-0ff0d7dce6e1-290de920b9a0-1000/microsoft-azure-sign.jpg"
-        width: 610
-        height: 457
-        isCached: true
   - title: "TCS Quartz suite becomes available on Microsoft Azure Blockchain Service"
     excerpt: "Tata Consultancy Services announced the general availability of its award winning Quartz suite of blockchain based solutions on Microsoft Azure Blockchain Service. The Quartz suite of products helps organizations set up truly connected ecosystems ..."
     publishedDateTime: 2020-09-21T21:38:00Z
@@ -1155,6 +1151,6 @@ related:
         height: 450
         isCached: true
 
-secured: "TrFpCOpEFE5dIUCk4Q4vZS4P/gjTAR8MTwm+6LCE/pnrt0iIGaNUgVXH2+omSSrpIMp3v5q5Mtt4pCbkjeSa/PjeBZAqqNFWl/OOPx4Q/cmwAgUuBhfQGMryxNkcVsxIF74JID6+OUonJJzGtFvN9VPbSXnxHlVWbRJ2Dzvh4LloFQj1mA/iI+bVvXQwd0MMrNTwbkbcJ3jJ5QjVJd5oYevRNf/Ki92KVsmoIjJphTUWX8tLW0NuCcha6IVzQDB9eYy2rvpUHWM3JA/+96er77kHR5UgqxXUh5Jz01zpvIyWYQx5EEvvww3SU0ko+HFFim42uKIHRN4S73FURYwXa7BE+941bzjX3CzyBEV5rSvvyZLCxbNmcC7vScT7aU+1bVJqWsWKg+Tr7/XGXNTHv/TL2uTvGMgPPogUtadcW8lTMRnKCPU5U6NNeCVtEsbd6B0UI4jSM2YeIXh7Q2exAVH22fSrXc1mP2FgAeMl+w4lQnXEXLGsfEhGZWvRZnnu5yvih7s36h/Ir1Qj+TBXtw==;/PdGlSEtMIjbI9M9nBEZ1A=="
+secured: "V0dXVYlKxCYTyPrqPhujiETdexzVH316urBr7kItm9jPNl2kC6DMk7rM3Un17APjkVLbjltMsszDafO+t7trGqgaH8R2b08mAvPipDmrFqMBSdLJ2vi0vv+sJvNWMnDFUCD+VXroskoAoCBvn2DrzN/v3t2NbicAWjgJ1R+WT2bBH0PVH4GGC+CXmmcBtWHYBArs/tt7h1XV2AkGj1Zy/5fxEE7ODLhNQ2KS/sPn7Rsiiy6WkIG0iBF1bd/fltvXmZzfbN4je01UpZQwEOu/9r75/TK1vOAdaG5jL1tDVmoONkZHmQ6CiXjsAjFGaLbsc2GuxNsVvSic2ucusqUBpAFDM5amz09X72Qin6Mzxwk=;gEcFDXVpKNddN7gvjb0SFA=="
 ---
 

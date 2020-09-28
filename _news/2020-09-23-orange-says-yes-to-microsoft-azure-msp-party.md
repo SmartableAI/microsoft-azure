@@ -246,6 +246,20 @@ related:
         width: 647
         height: 450
         isCached: true
+  - title: "Microsoft launches Azure for Operators to expand connectivity"
+    excerpt: "Microsoft announced intent to expand connectivity, including 5G, by working with network operators to launch Azure for Operators"
+    publishedDateTime: 2020-09-28T18:51:00Z
+    webUrl: "https://www.information-age.com/microsoft-launches-azure-for-operators-expand-connectivity-123491849/"
+    type: article
+    provider:
+      name: Information Age
+      domain: information-age.com
+    quality: 37
+    images:
+      - url: "https://s27389.pcdn.co/wp-content/uploads/2020/09/microsoft-launches-azure-for-operators-expand-connectivity.jpeg"
+        width: 1080
+        height: 675
+        isCached: true
   - title: "Microsoft targets industrial IoT analytics with Azure Digital Twins update"
     excerpt: "Microsoft Corp. today added a set of new features to Azure Digital Twins, its cloud-based analytics service for industrial “internet of things” applications. A digital twin usually means a virtual replica of a connected system,"
     publishedDateTime: 2020-06-29T20:51:00Z

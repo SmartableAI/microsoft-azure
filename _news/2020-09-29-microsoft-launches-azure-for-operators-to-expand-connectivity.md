@@ -1,37 +1,45 @@
 ---
 category: news
-title: "Microsoft: Azure-based Sentinel security gets new analytics to spot threats in odd behavior"
-excerpt: "One year on from reaching general availability, Microsoft's Azure-based Sentinel security system now brings new user and entity behavioral analytics to help detect unknown and insider threats faster."
-publishedDateTime: 2020-09-24T10:41:00Z
-originalUrl: "https://www.zdnet.com/article/microsoft-azure-based-sentinel-security-gets-new-analytics-to-spot-threats-in-odd-behavior/"
-webUrl: "https://www.zdnet.com/article/microsoft-azure-based-sentinel-security-gets-new-analytics-to-spot-threats-in-odd-behavior/"
-ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-azure-based-sentinel-security-gets-new-analytics-to-spot-threats-in-odd-behavior/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-azure-based-sentinel-security-gets-new-analytics-to-spot-threats-in-odd-behavior/"
+title: "Microsoft launches Azure for Operators to expand connectivity"
+excerpt: "Microsoft announced intent to expand connectivity, including 5G, by working with network operators to launch Azure for Operators"
+publishedDateTime: 2020-09-28T18:51:00Z
+originalUrl: "https://www.information-age.com/microsoft-launches-azure-for-operators-expand-connectivity-123491849/"
+webUrl: "https://www.information-age.com/microsoft-launches-azure-for-operators-expand-connectivity-123491849/"
 type: article
-quality: 121
-heat: 562
-published: true
+quality: 37
+heat: -1
+published: false
 
 provider:
-  name: ZDNet
-  domain: zdnet.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/zdnet.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Information Age
+  domain: information-age.com
 
 topics:
   - Azure
-  - Analytics
-  - Security
 
 images:
-  - url: "https://zdnet4.cbsistatic.com/hub/i/r/2020/08/25/1284a515-4b68-4854-acfa-0aff9b6e5fba/thumbnail/1200x675/5dfcbb4710ad981ec95dff7c7eba7732/what-is-microsoft-azure-the-business-gui-5f3db47671c30002b05ceecf-1-aug-25-2020-17-10-49-poster.jpg"
-    width: 1200
+  - url: "https://s27389.pcdn.co/wp-content/uploads/2020/09/microsoft-launches-azure-for-operators-expand-connectivity.jpeg"
+    width: 1080
     height: 675
     isCached: true
 
 related:
+  - title: "Microsoft: Azure-based Sentinel security gets new analytics to spot threats in odd behavior"
+    excerpt: "One year on from reaching general availability, Microsoft's Azure-based Sentinel security system now brings new user and entity behavioral analytics to help detect unknown and insider threats faster."
+    publishedDateTime: 2020-09-24T10:41:00Z
+    webUrl: "https://www.zdnet.com/article/microsoft-azure-based-sentinel-security-gets-new-analytics-to-spot-threats-in-odd-behavior/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-azure-based-sentinel-security-gets-new-analytics-to-spot-threats-in-odd-behavior/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-azure-based-sentinel-security-gets-new-analytics-to-spot-threats-in-odd-behavior/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 121
+    images:
+      - url: "https://zdnet4.cbsistatic.com/hub/i/r/2020/08/25/1284a515-4b68-4854-acfa-0aff9b6e5fba/thumbnail/1200x675/5dfcbb4710ad981ec95dff7c7eba7732/what-is-microsoft-azure-the-business-gui-5f3db47671c30002b05ceecf-1-aug-25-2020-17-10-49-poster.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Column-level encryption for Azure Synapse Analytics"
     excerpt: "Azure Synapse Analytics already provides a breadth of options that can be used to handle sensitive data in a secure manner—we are expanding that support with the introduction of Column Level Encryption (CLE)."
     publishedDateTime: 2020-09-23T16:00:13Z
@@ -252,20 +260,6 @@ related:
         width: 647
         height: 450
         isCached: true
-  - title: "Microsoft launches Azure for Operators to expand connectivity"
-    excerpt: "Microsoft announced intent to expand connectivity, including 5G, by working with network operators to launch Azure for Operators"
-    publishedDateTime: 2020-09-28T18:51:00Z
-    webUrl: "https://www.information-age.com/microsoft-launches-azure-for-operators-expand-connectivity-123491849/"
-    type: article
-    provider:
-      name: Information Age
-      domain: information-age.com
-    quality: 37
-    images:
-      - url: "https://s27389.pcdn.co/wp-content/uploads/2020/09/microsoft-launches-azure-for-operators-expand-connectivity.jpeg"
-        width: 1080
-        height: 675
-        isCached: true
   - title: "Microsoft targets industrial IoT analytics with Azure Digital Twins update"
     excerpt: "Microsoft Corp. today added a set of new features to Azure Digital Twins, its cloud-based analytics service for industrial “internet of things” applications. A digital twin usually means a virtual replica of a connected system,"
     publishedDateTime: 2020-06-29T20:51:00Z
@@ -318,6 +312,6 @@ related:
       domain: computerworld.com
     quality: 17
 
-secured: "QZENBsNFZO2i0QhHNbQGyoZqvo8yv1enobIirjxn6j3IYEunR21uvdeKhgALfMjdmLmrvB9ySZtWeduWFnSlAneFfvaQ90v89/wg+/BRTbFV/hfQSwYvWigET1H8G+YE8D4LvXfTt27wM822eVE4Qab7eAzsByfi5A2B9TFoysU3siqEteJGo3Z0vmkGXBZGF4ML9Ty0MHZFBniIVwjr9FBR4fgnq/D1C/JljsOtCNKIjhD5oNPUyWmamF1YVC9oM5oRFecy6fh11L3Pl5GQqybUPzMkgvPcfLc4NsCTNdO6WTN+agpVoU9vLCOz5n/rnjESwYB+qdYcg0qtbFGrGtZQwf58TGjVs42XEvZpI4NNlolGqAejqtrFK2iFyiR9Rfc6OJTy6GzM9SZe9GS+ajv3omJtvUDOXjLvejBbM5NEFjH0JWxu6CqjAWNMy+3OBLk1csuMpeBTf/pBMw19blZfzIq8RjllFvUh1Uo7kLQajq1z7DZn/ui6S0YaBkcKhpDnZRDdKs9HGLLKbMUG8w==;4DLELG9btLmj1L7BJuX9YQ=="
+secured: "wTDZzI9Unxfn0e1PzE1bCk5h7DC+880NVNkLarJSJl8FCgjdT05kkHwyUXUcHuUXGLKfXHsWMKbYdF82mhgNzUDmXc7UXmGGIL/MdOplLh5ccfvlZ8FV9ISxclNocI2CroNggvaFXOenQxOoGj8/CdhTTd0oEMbgcB92sdvh1xNmodNb/xhSHIwa//AbFGNwHbzv7NHwkzV9nufZ3j7N80LPKQ/U0lZILO4Yh10FErbkWK2/VmPjyBW2CNQmAZBQYjzZjXBmSmd7QlQhipqGSBVDdtab0b1UeUnr2OR7BEvOByZxT8jBOlyubA/qx8g69yoS5KH2vnDyk6nYPLozjpiLzYw7XVpDB8wQmf7Vvzk=;EfgpTCM8XeNEP4WraNnlwQ=="
 ---
 

@@ -775,6 +775,20 @@ related:
         width: 800
         height: 530
         isCached: true
+  - title: "Microsoft Unveils 5G/Telco Playbook With ‘Azure For Operators’"
+    excerpt: "Microsoft Azure Monday laid out its playbook to partner with communications service providers by providing a carrier-grade platform for edge and cloud computing to help network operators realize the full potential of 5G technology."
+    publishedDateTime: 2020-09-28T19:57:00Z
+    webUrl: "https://www.crn.com/slide-shows/cloud/microsoft-unveils-5g-telco-playbook-with-azure-for-operators-"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 37
+    images:
+      - url: "https://www.crn.com/resources/025f-0ff0d7dce6e1-290de920b9a0-1000/microsoft-azure-sign.jpg"
+        width: 610
+        height: 457
+        isCached: true
   - title: "TCS Quartz suite becomes available on Microsoft Azure Blockchain Service"
     excerpt: "Tata Consultancy Services announced the general availability of its award winning Quartz suite of blockchain based solutions on Microsoft Azure Blockchain Service. The Quartz suite of products helps organizations set up truly connected ecosystems ..."
     publishedDateTime: 2020-09-21T21:38:00Z
@@ -1137,6 +1151,6 @@ related:
         height: 450
         isCached: true
 
-secured: "Qx0M/nLlCdf93IBvBC3DeRzFjuuYKulNTvXOM4AKCdlstMezln8EB8ty4kmNKHNf16aSao3vjmRSVaNfk30iplSibKEJv0mNs3hdspSOUH/bQINGq2uwHSvrTAhnZTYbPb3eoFrfCpFZmUtvh6v2NRYoicIMzXZ3l550MxwitrlYDPryr12cyLQOvhXzP0NUhUschD8hcf7RyP4L+JtUvmUeKMQO/HBx62ui9zcJ/N5lq/F8spB5vemedp5Zxa6Mf8KAFLORZJxkon4aSWOKxq5KOWvQ46ErUh/X9P+INXLKkOFKPEvQK8GNKs9539HPnm9Tmx80t84INDqDm05cC4qQKz65fCFYnGGlNwgfRyE=;/trzEe4Qp+rong/k6DF6IQ=="
+secured: "kiV+/KhIGtXdVhoUyLzM9tOY06ILdA5gjJepZT8b2ncpjYXqA0M2o2Cj+dByaQRRTFSUZiSNSWzydw08THb2/xcdN8m43bJkEx3bb/v5krQ9ERbtCxmnxQ70hWox9e7SjzJS4vZ6Yd4epVDvzh2kCmnALdgmqFhUC91JhOmlMGW4//A6oaYZZh/AtBpYa0WwMIMT+t0cIZjHNitPTngHy3hHqRVh3eMsZdN8BOpae3rDBR+SUA6AFxoPadKWt/ME78YhhhpfPaYgHsp/S1eLO1wllpHO+9QxXoCnJSI3gDwixPnvBY4cmGWZoQfuM1Z/RvQALneECFePGMad3kCsry7LuYDcy+hsgWe3X4UtEmbcLRyscYUE16Sg0mlR+MgduJju84shT4jmGLYYWDV/bNDpQER9QSHignr+mn2HhhOtRE3D4wIWcupYT18i4dMI84Tdmr+pBLauU/Jszkhrr/XjvfOVeh8CrgrpAwh0BP5usqiykmjBKYCAj5SxbhdYOzGAhLdAOooHIsfVXUBBWw==;J8ZgxROdL34t1Hd2Xu9ZIA=="
 ---
 
