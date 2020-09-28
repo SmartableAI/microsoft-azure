@@ -4,6 +4,40 @@
   "page": 11,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-manage-iot-devices.md",
+      "title": "Learn how to manage IoT devices as an IT admin",
+      "excerpt": "This module is an introduction to the Internet of Things for IT admins.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-manage-iot-devices/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/manage-iot-devices/",
+      "length": "PT44M",
+      "ratings": {
+        "count": 902,
+        "average": 4.6807094
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 67,
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "IoT"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-migrate-sql-server-relational-data.md",
       "title": "Migrate your relational data stored in SQL Server to Azure SQL Database",
       "excerpt": "Plan and implement the migration of relational data from SQL Server to Azure SQL Database. Select the appropriate migration strategy for your database, and then use Data Migration Assistant to do the assessment and the migration.",
@@ -550,8 +584,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/explore-concepts-of-data-analytics/",
       "length": "PT16M",
       "ratings": {
-        "count": 555,
-        "average": 4.7963963
+        "count": 557,
+        "average": 4.7971272
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -634,8 +668,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/microsoft-approach-to-ai/",
       "length": "PT54M",
       "ratings": {
-        "count": 833,
-        "average": 4.7262907
+        "count": 834,
+        "average": 4.7242208
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -741,8 +775,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/azure-sql-intro/",
           "length": "PT44M",
           "ratings": {
-            "count": 285,
-            "average": 4.736842
+            "count": 287,
+            "average": 4.738676
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1155,8 +1189,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/learn-data-science-method/",
           "length": "PT34M",
           "ratings": {
-            "count": 283,
-            "average": 4.720848
+            "count": 284,
+            "average": 4.71831
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1360,8 +1394,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/manage-iot-devices/",
           "length": "PT44M",
           "ratings": {
-            "count": 901,
-            "average": 4.680355
+            "count": 902,
+            "average": 4.6807094
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2103,8 +2137,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/upload-project-github/",
           "length": "PT43M",
           "ratings": {
-            "count": 129,
-            "average": 4.6666665
+            "count": 130,
+            "average": 4.669231
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2225,8 +2259,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/intro-to-azure-fundamentals/",
           "length": "PT36M",
           "ratings": {
-            "count": 178,
-            "average": 4.730337
+            "count": 180,
+            "average": 4.727778
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2266,8 +2300,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/azure-database-fundamentals/",
           "length": "PT39M",
           "ratings": {
-            "count": 28,
-            "average": 4.821429
+            "count": 29,
+            "average": 4.827586
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2869,41 +2903,6 @@
       "topics": [
         "Azure",
         "AI"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-explore-devops-continuous-security-operations.md",
-      "title": "Explore DevOps Continuous Security and Continuous Operations",
-      "excerpt": "Explore two capabilities in the DevOps taxonomy, Continuous Security and Continuous Operations.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-explore-devops-continuous-security-operations/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/explore-devops-continuous-security-operations/",
-      "length": "PT22M",
-      "ratings": {
-        "count": 556,
-        "average": 4.6798563
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 63,
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Security",
-        "DevOps"
       ]
     }
   ],

@@ -4,41 +4,6 @@
   "page": 5,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-configure-the-network-for-your-virtual-machines.md",
-      "title": "Configure the network for your virtual machines",
-      "excerpt": "Learn how to connect your local on-premises networks into Azure using virtual networks, VPN gateways, and Azure ExpressRoute.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-configure-the-network-for-your-virtual-machines/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/configure-network-for-azure-virtual-machines/",
-      "length": "PT1H34M",
-      "ratings": {
-        "count": 3627,
-        "average": 4.5547285
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 103,
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Compute",
-        "Networking"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-create-cosmos-db-for-scale.md",
       "title": "Create an Azure Cosmos DB database built to scale",
       "excerpt": "Learn how to create an Azure Cosmos DB account, database, and container built to scale as your application grows.",
@@ -46,8 +11,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/create-cosmos-db-for-scale/",
       "length": "PT35M",
       "ratings": {
-        "count": 3778,
-        "average": 4.640286
+        "count": 3779,
+        "average": 4.640381
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -74,6 +39,216 @@
       ]
     },
     {
+      "path": "_learning/collections/microsoft-learn-ai-business-school-for-retail.md",
+      "title": "AI business school for retail",
+      "excerpt": "Learn to develop an enterprise AI strategy to create business value in retail, including artificial intelligence and machine learning technology, culture.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-ai-business-school-for-retail/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-ai-business-school-for-retail/",
+      "length": "PT9H31M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner",
+        "Intermediate"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-ai-strategy-to-create-business-value.md",
+          "title": "Define an AI strategy to create business value",
+          "excerpt": "Explore the strategic components, use cases, and special factors of an enterprise AI strategy that creates real business value, with INSEAD and Microsoft.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-ai-strategy-to-create-business-value/index.json",
+          "webUrl": "https://docs.microsoft.com/learn/modules/ai-strategy-to-create-business-value/",
+          "length": "PT1H10M",
+          "ratings": {
+            "count": 2189,
+            "average": 4.694838
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 85,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/ai-strategy-to-create-business-value-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "AI"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-ai-strategy-in-retail.md",
+          "title": "Define an AI strategy to create business value in retail",
+          "excerpt": "Explore the strategic components, special factors, and use cases of an AI strategy in retail that creates business value, with INSEAD and Microsoft.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-ai-strategy-in-retail/index.json",
+          "webUrl": "https://docs.microsoft.com/learn/modules/ai-strategy-in-retail/",
+          "length": "PT40M",
+          "ratings": {
+            "count": 642,
+            "average": 4.775701
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 122,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/ai-strategy-in-retail-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "AI"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-build-an-ai-ready-culture.md",
+          "title": "Understand the importance of building an AI-ready culture",
+          "excerpt": "Understand the key elements that make a culture AI-ready and a framework to drive the change needed in your organization for a successful AI strategy.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-build-an-ai-ready-culture/index.json",
+          "webUrl": "https://docs.microsoft.com/learn/modules/build-an-ai-ready-culture/",
+          "length": "PT49M",
+          "ratings": {
+            "count": 890,
+            "average": 4.741573
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 66,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/build-an-ai-ready-culture-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "AI"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-foster-ai-culture-finance.md",
+          "title": "Discover how to foster an AI-ready culture in finance",
+          "excerpt": "Learn the necessary cultural changes for enterprise finance organizations to make AI transformation successful, and how they fit into a holistic AI strategy.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-foster-ai-culture-finance/index.json",
+          "webUrl": "https://docs.microsoft.com/learn/modules/foster-ai-ready-culture-finance/",
+          "length": "PT39M",
+          "ratings": {
+            "count": 654,
+            "average": 4.8058105
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 62,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/foster-ai-ready-culture-finance-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "AI"
+          ]
+        }
+      ],
+      "size": 12,
+      "heat": 102,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/ai-strategy-to-create-business-value-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "AI"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-m365-identity-cultural-shift.md",
       "title": "Enable identity protection in Azure Active Directory",
       "excerpt": "Learn about Azure Active Directory (AD) Identity Protection and ways to optimize the end-user experience while benefiting security.",
@@ -81,8 +256,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/m365-identity-cultural-shift/",
       "length": "PT31M",
       "ratings": {
-        "count": 1525,
-        "average": 4.76
+        "count": 1530,
+        "average": 4.75817
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -123,8 +298,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/principles-cloud-computing-dynamics-365-deployment/",
       "length": "PT45M",
       "ratings": {
-        "count": 2206,
-        "average": 4.711242
+        "count": 2208,
+        "average": 4.7110505
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -187,8 +362,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/get-started-ai-fundamentals/",
           "length": "PT27M",
           "ratings": {
-            "count": 2581,
-            "average": 4.724138
+            "count": 2583,
+            "average": 4.723577
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -247,8 +422,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/get-started-ai-fundamentals/",
       "length": "PT27M",
       "ratings": {
-        "count": 2581,
-        "average": 4.724138
+        "count": 2583,
+        "average": 4.723577
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -366,8 +541,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/connect-on-premises-network-with-expressroute/",
       "length": "PT40M",
       "ratings": {
-        "count": 3239,
-        "average": 4.6656375
+        "count": 3241,
+        "average": 4.6655354
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -527,8 +702,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/manage-users-and-groups-in-aad/",
       "length": "PT50M",
       "ratings": {
-        "count": 2956,
-        "average": 4.670839
+        "count": 2958,
+        "average": 4.6710615
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -592,8 +767,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/intro-to-azure-ad/",
           "length": "PT27M",
           "ratings": {
-            "count": 1530,
-            "average": 4.6816993
+            "count": 1531,
+            "average": 4.681907
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -634,8 +809,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/create-users-and-groups-in-azure-active-directory/",
           "length": "PT41M",
           "ratings": {
-            "count": 2519,
-            "average": 4.699881
+            "count": 2521,
+            "average": 4.700119
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -818,8 +993,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/intro-to-docker-containers/",
       "length": "PT32M",
       "ratings": {
-        "count": 2959,
-        "average": 4.626901
+        "count": 2960,
+        "average": 4.627027
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1037,8 +1212,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/create-users-and-groups-in-azure-active-directory/",
       "length": "PT41M",
       "ratings": {
-        "count": 2519,
-        "average": 4.699881
+        "count": 2521,
+        "average": 4.700119
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1188,8 +1363,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/analyze-infrastructure-with-azure-monitor-logs/",
           "length": "PT36M",
           "ratings": {
-            "count": 3512,
-            "average": 4.7061505
+            "count": 3521,
+            "average": 4.7066174
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1404,8 +1579,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/analyze-infrastructure-with-azure-monitor-logs/",
           "length": "PT36M",
           "ratings": {
-            "count": 3512,
-            "average": 4.7061505
+            "count": 3521,
+            "average": 4.7066174
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1610,8 +1785,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/analyze-devops-continuous-planning-intergration/",
           "length": "PT22M",
           "ratings": {
-            "count": 1228,
-            "average": 4.6946254
+            "count": 1233,
+            "average": 4.6950526
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1645,8 +1820,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/introduce-foundation-pillars-devops/",
           "length": "PT25M",
           "ratings": {
-            "count": 1924,
-            "average": 4.637734
+            "count": 1925,
+            "average": 4.6379223
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1679,8 +1854,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/characterize-devops-continous-collaboration-improvement/",
           "length": "PT17M",
           "ratings": {
-            "count": 838,
-            "average": 4.6670647
+            "count": 839,
+            "average": 4.6674614
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1713,8 +1888,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/explain-devops-continous-delivery-quality/",
           "length": "PT18M",
           "ratings": {
-            "count": 947,
-            "average": 4.7032733
+            "count": 950,
+            "average": 4.703158
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1780,8 +1955,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/introduce-foundation-pillars-devops/",
           "length": "PT25M",
           "ratings": {
-            "count": 1924,
-            "average": 4.637734
+            "count": 1925,
+            "average": 4.6379223
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1814,8 +1989,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/define-foundation-pillars/",
           "length": "PT16M",
           "ratings": {
-            "count": 838,
-            "average": 4.721957
+            "count": 839,
+            "average": 4.7210965
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1848,8 +2023,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/analyze-devops-continuous-planning-intergration/",
           "length": "PT22M",
           "ratings": {
-            "count": 1228,
-            "average": 4.6946254
+            "count": 1233,
+            "average": 4.6950526
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1883,8 +2058,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/explain-devops-continous-delivery-quality/",
           "length": "PT18M",
           "ratings": {
-            "count": 947,
-            "average": 4.7032733
+            "count": 950,
+            "average": 4.703158
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1950,8 +2125,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/describe-performance-monitoring/",
           "length": "PT42M",
           "ratings": {
-            "count": 357,
-            "average": 4.8291316
+            "count": 359,
+            "average": 4.8300834
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1992,8 +2167,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/explore-causes-performance-issues/",
           "length": "PT36M",
           "ratings": {
-            "count": 288,
-            "average": 4.798611
+            "count": 290,
+            "average": 4.8
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2034,8 +2209,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/configure-sql-server-resources-optimal-performance/",
           "length": "PT35M",
           "ratings": {
-            "count": 695,
-            "average": 4.7841725
+            "count": 701,
+            "average": 4.7845936
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2076,8 +2251,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/configure-databases-performance/",
           "length": "PT24M",
           "ratings": {
-            "count": 248,
-            "average": 4.846774
+            "count": 250,
+            "average": 4.848
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2135,8 +2310,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/integrate-vnets-with-vnet-peering/",
       "length": "PT42M",
       "ratings": {
-        "count": 2522,
-        "average": 4.72046
+        "count": 2523,
+        "average": 4.7201743
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2177,8 +2352,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/m365-threat-safeguard/",
       "length": "PT1H2M",
       "ratings": {
-        "count": 603,
-        "average": 4.809287
+        "count": 608,
+        "average": 4.8108554
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2401,8 +2576,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/protect-virtual-machines-with-azure-backup/",
           "length": "PT35M",
           "ratings": {
-            "count": 2702,
-            "average": 4.723168
+            "count": 2717,
+            "average": 4.722856
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2469,8 +2644,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/azure-well-architected-security/",
       "length": "PT1H2M",
       "ratings": {
-        "count": 2176,
-        "average": 4.70818
+        "count": 2178,
+        "average": 4.707989
       },
       "provider": {
         "name": "Microsoft Learn",
