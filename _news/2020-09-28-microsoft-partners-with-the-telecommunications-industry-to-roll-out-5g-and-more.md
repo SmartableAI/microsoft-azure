@@ -1,12 +1,12 @@
 ---
 category: news
-title: "Microsoft plans to establish new cloud datacenter region in Arizona "
-excerpt: "Today, we are taking a significant step toward that goal, revealing plans for our newest sustainable datacenter region in Arizona, which will become our West US 3 region."
-publishedDateTime: 2020-09-22T16:05:31Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/microsoft-plans-to-establish-new-cloud-datacenter-region-in-arizona/"
-webUrl: "https://azure.microsoft.com/en-us/updates/microsoft-plans-to-establish-new-cloud-datacenter-region-in-arizona/"
+title: "Microsoft partners with the telecommunications industry to roll out 5G and more"
+excerpt: "The increasing demand for always-on connectivity, immersive experiences, secure collaboration, and remote human relationships are pushing networks to their limits, while the market is driving prices down."
+publishedDateTime: 2020-09-28T08:00:11Z
+originalUrl: "https://azure.microsoft.com/blog/microsoft-partners-with-the-telecommunications-industry-to-roll-out-5g-and-more/"
+webUrl: "https://azure.microsoft.com/blog/microsoft-partners-with-the-telecommunications-industry-to-roll-out-5g-and-more/"
 type: article
-quality: 52
+quality: 68
 heat: -1
 published: false
 
@@ -20,6 +20,12 @@ provider:
 
 topics:
   - Azure
+
+images:
+  - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/194b5645-3de5-4e12-9b3d-e27dbfa2cb35.jpg"
+    width: 1024
+    height: 406
+    isCached: true
 
 related:
   - title: "Microsoft launches Azure Orbital to connect satellites to its cloud"
@@ -356,20 +362,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 69
-  - title: "Microsoft partners with the telecommunications industry to roll out 5G and more"
-    excerpt: "The increasing demand for always-on connectivity, immersive experiences, secure collaboration, and remote human relationships are pushing networks to their limits, while the market is driving prices down."
-    publishedDateTime: 2020-09-28T08:00:11Z
-    webUrl: "https://azure.microsoft.com/blog/microsoft-partners-with-the-telecommunications-industry-to-roll-out-5g-and-more/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 68
-    images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/194b5645-3de5-4e12-9b3d-e27dbfa2cb35.jpg"
-        width: 1024
-        height: 406
-        isCached: true
   - title: "Milliman's strategic cyber risk assessment now available in the Microsoft Azure Marketplace"
     excerpt: "16, 2020 /PRNewswire/ -- Milliman, Inc., a premier global consulting and actuarial firm, today announced that it has launched its Strategic Cyber Risk Assessment in the Microsoft Azure ..."
     publishedDateTime: 2020-09-16T16:14:00Z
@@ -519,6 +511,15 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "Microsoft plans to establish new cloud datacenter region in Arizona "
+    excerpt: "Today, we are taking a significant step toward that goal, revealing plans for our newest sustainable datacenter region in Arizona, which will become our West US 3 region."
+    publishedDateTime: 2020-09-22T16:05:31Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/microsoft-plans-to-establish-new-cloud-datacenter-region-in-arizona/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 52
   - title: "Viasat Real-Time Earth Ground Service Available via Microsoft Azure Orbital"
     excerpt: "22, 2020 /PRNewswire/ -- Viasat Inc. (NASDAQ: VSAT), a global communications company, today announced Viasat Real-Time Earth (RTE) is available as a managed services option for Microsoft Azure ..."
     publishedDateTime: 2020-09-22T19:08:00Z
@@ -1096,6 +1097,6 @@ related:
         height: 450
         isCached: true
 
-secured: "B/IbEAVMeIzqnzfzy1V45JiqNHhxcY5Bwr6ObRVvq3V2B6ZdXFVa18d09mQU9fzORFSAfyFme874n/yd6xSdzH1X6LE+Z6V1UrACfXP2dng7YwC2/Ns+gXkc7SZPt/ez0m+0fWua3yJkMo/pHv1DoEZwRTa8CYzYkot6JxX5ByIe3hrYqIMwi92jd530EpbEwOrpga2CLZikL2UWQ4tNJWJn0ViG9TCQDkPAlw4ofgNpB0bALpacf3PYMR5Iab1H6HSKzRsAu5MMJnj45XUdPdmmvBUY85QVS/8n76HQtpNUG/+ZNwZGtLdFcMwPZ6aXYeyC1A5lI3RddATrpid7HIAlTpGrdtIOuWfIWT3fySM=;BgGxImvS1ty/x5s4h00PMg=="
+secured: "j9mkzLNS1HxrwHDnKow6ZZAZB7lex6ehw2F3+aQEYyziI9U0O3aCExjEsRz5yVvYWlYZVkdVIRYR98JlN77kN9uOETo3CoCwIzEenxD/VfofAIZ8mvypfjZhwkmjabLlO4MbWf6lyUA1ep0/V7o2Qjip+8QR6owdTJXRdq/+WSEVzx2mGmWiPZ51bXlT6tXaamnEqcoMyhh8ydK3a0QfwibjDgE0INLGTwQvpeARmRoT0rxpDS2lA5zKbrsDmSYA2J2rONE8BQ6l7PpbF1b9f5zgfFSJ/aq1/biwjNzsDVHAnusLneZuDcorCaAXFzz99DMZL6nv5VlhZjEZfemV7QrosZTj1ORncQx4n0wjPaw=;pTEM7BV/TuRQle1Aw+80ag=="
 ---
 

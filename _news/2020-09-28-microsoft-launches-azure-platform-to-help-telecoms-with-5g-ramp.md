@@ -1,22 +1,18 @@
 ---
 category: news
-title: "Microsoft plans to establish new cloud datacenter region in Arizona "
-excerpt: "Today, we are taking a significant step toward that goal, revealing plans for our newest sustainable datacenter region in Arizona, which will become our West US 3 region."
-publishedDateTime: 2020-09-22T16:05:31Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/microsoft-plans-to-establish-new-cloud-datacenter-region-in-arizona/"
-webUrl: "https://azure.microsoft.com/en-us/updates/microsoft-plans-to-establish-new-cloud-datacenter-region-in-arizona/"
+title: "Microsoft launches Azure platform to help telecoms with 5G ramp"
+excerpt: "Announces a new telecom-focused initiative, Microsoft (MSFT +0.8%) is \"bringing to market a carrier-grade platform for edge and cloud to support the operator’s goals to future proof their infrastructure with disaggregated,"
+publishedDateTime: 2020-09-28T15:49:00Z
+originalUrl: "https://seekingalpha.com/news/3617721-microsoft-launches-azure-platform-to-help-telecoms-5g-ramp"
+webUrl: "https://seekingalpha.com/news/3617721-microsoft-launches-azure-platform-to-help-telecoms-5g-ramp"
 type: article
-quality: 52
+quality: 17
 heat: -1
 published: false
 
 provider:
-  name: Microsoft
-  domain: microsoft.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Seeking Alpha
+  domain: seekingalpha.com
 
 topics:
   - Azure
@@ -519,6 +515,15 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "Microsoft plans to establish new cloud datacenter region in Arizona "
+    excerpt: "Today, we are taking a significant step toward that goal, revealing plans for our newest sustainable datacenter region in Arizona, which will become our West US 3 region."
+    publishedDateTime: 2020-09-22T16:05:31Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/microsoft-plans-to-establish-new-cloud-datacenter-region-in-arizona/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 52
   - title: "Viasat Real-Time Earth Ground Service Available via Microsoft Azure Orbital"
     excerpt: "22, 2020 /PRNewswire/ -- Viasat Inc. (NASDAQ: VSAT), a global communications company, today announced Viasat Real-Time Earth (RTE) is available as a managed services option for Microsoft Azure ..."
     publishedDateTime: 2020-09-22T19:08:00Z
@@ -1054,15 +1059,6 @@ related:
       name: Telecompaper
       domain: telecompaper.com
     quality: 17
-  - title: "Microsoft launches Azure platform to help telecoms with 5G ramp"
-    excerpt: "Announces a new telecom-focused initiative, Microsoft (MSFT +0.8%) is \"bringing to market a carrier-grade platform for edge and cloud to support the operator’s goals to future proof their infrastructure with disaggregated,"
-    publishedDateTime: 2020-09-28T15:49:00Z
-    webUrl: "https://seekingalpha.com/news/3617721-microsoft-launches-azure-platform-to-help-telecoms-5g-ramp"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 17
   - title: "Cobalt Iron Makes DCIG List of TOP 5 Microsoft Azure Cloud Backup Solutions"
     excerpt: "Cobalt Iron Inc., a leading provider of SaaS-based enterprise data protection, today announced that its industry-leading Compass® enterprise SaaS back"
     publishedDateTime: 2020-09-25T06:49:00Z
@@ -1096,6 +1092,6 @@ related:
         height: 450
         isCached: true
 
-secured: "B/IbEAVMeIzqnzfzy1V45JiqNHhxcY5Bwr6ObRVvq3V2B6ZdXFVa18d09mQU9fzORFSAfyFme874n/yd6xSdzH1X6LE+Z6V1UrACfXP2dng7YwC2/Ns+gXkc7SZPt/ez0m+0fWua3yJkMo/pHv1DoEZwRTa8CYzYkot6JxX5ByIe3hrYqIMwi92jd530EpbEwOrpga2CLZikL2UWQ4tNJWJn0ViG9TCQDkPAlw4ofgNpB0bALpacf3PYMR5Iab1H6HSKzRsAu5MMJnj45XUdPdmmvBUY85QVS/8n76HQtpNUG/+ZNwZGtLdFcMwPZ6aXYeyC1A5lI3RddATrpid7HIAlTpGrdtIOuWfIWT3fySM=;BgGxImvS1ty/x5s4h00PMg=="
+secured: "4tvdItHrXTX1l/23LfdqeqDS72XhHrvwLCnC63jAtqMRrJKObv6tI+vRbS/FxXoVDmmDlB5HbhgbFmmyBQpxCiH17mveH9t7lstqKyvfSwMMrl8mxf/bNCdrOJCJKbE6/qQSFgiMjmGswFTVHyk+hegmcM0ZvWfgktPntdRHn9PVg1L5sp0daM3jLCfn/64NMiZAxf/fv5Qns5L1flZorr42n4mWBQvJdu9U8wgB8GkfCF5oo6G10Cb2Bt+K8SYKwyF3oSIhdL1aF+EFMQ2U0S3krfOdhqUtzkQgfehQ+A2g/w4BTayklsea5A0dqdqe4DdFNDgtXpBMzedqXuQUtn/wDfIo8c+ORI1RXAN9hpw=;LkaauCk1CQJFEDmQbiUbrQ=="
 ---
 

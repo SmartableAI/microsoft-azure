@@ -320,6 +320,20 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 77
+  - title: "TransientAccess Now Available in the Microsoft Azure Marketplace"
+    excerpt: "September 28th, 2020 - TransientX, transforming fixed and device-centric networks to disposable networks of apps, today announced the availability of TransientAccess Zero-Trust Network Access in the Microsoft Azure Marketplace,"
+    publishedDateTime: 2020-09-28T14:28:00Z
+    webUrl: "https://www.marketwatch.com/press-release/transientaccess-now-available-in-the-microsoft-azure-marketplace-2020-09-28"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 77
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Windows IoT Microsoft Edge Kiosk Mode in public preview"
     excerpt: "Microsoft Edge can now be run in Kiosk mode on Windows IoT "
     publishedDateTime: 2020-09-23T16:00:12Z
@@ -329,6 +343,20 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 69
+  - title: "Microsoft partners with the telecommunications industry to roll out 5G and more"
+    excerpt: "The increasing demand for always-on connectivity, immersive experiences, secure collaboration, and remote human relationships are pushing networks to their limits, while the market is driving prices down."
+    publishedDateTime: 2020-09-28T08:00:11Z
+    webUrl: "https://azure.microsoft.com/blog/microsoft-partners-with-the-telecommunications-industry-to-roll-out-5g-and-more/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 68
+    images:
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/194b5645-3de5-4e12-9b3d-e27dbfa2cb35.jpg"
+        width: 1024
+        height: 406
+        isCached: true
   - title: "Milliman's strategic cyber risk assessment now available in the Microsoft Azure Marketplace"
     excerpt: "16, 2020 /PRNewswire/ -- Milliman, Inc., a premier global consulting and actuarial firm, today announced that it has launched its Strategic Cyber Risk Assessment in the Microsoft Azure ..."
     publishedDateTime: 2020-09-16T16:14:00Z
@@ -1021,6 +1049,15 @@ related:
     provider:
       name: Telecompaper
       domain: telecompaper.com
+    quality: 17
+  - title: "Microsoft launches Azure platform to help telecoms with 5G ramp"
+    excerpt: "Announces a new telecom-focused initiative, Microsoft (MSFT +0.8%) is \"bringing to market a carrier-grade platform for edge and cloud to support the operator’s goals to future proof their infrastructure with disaggregated,"
+    publishedDateTime: 2020-09-28T15:49:00Z
+    webUrl: "https://seekingalpha.com/news/3617721-microsoft-launches-azure-platform-to-help-telecoms-5g-ramp"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
     quality: 17
   - title: "Cobalt Iron Makes DCIG List of TOP 5 Microsoft Azure Cloud Backup Solutions"
     excerpt: "Cobalt Iron Inc., a leading provider of SaaS-based enterprise data protection, today announced that its industry-leading Compass® enterprise SaaS back"

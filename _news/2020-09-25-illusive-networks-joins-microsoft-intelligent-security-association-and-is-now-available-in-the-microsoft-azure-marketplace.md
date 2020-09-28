@@ -3,8 +3,8 @@ category: news
 title: "Illusive Networks Joins Microsoft Intelligent Security Association and is Now Available in the Microsoft Azure Marketplace"
 excerpt: "Illusive Networks®, a leader in active cyber defense, today joined the Microsoft Intelligent Security Association (MISA), bringing the"
 publishedDateTime: 2020-09-24T19:03:00Z
-originalUrl: "https://www.prnewswire.com/il/news-releases/illusive-networks-joins-microsoft-intelligent-security-association-and-is-now-available-in-the-microsoft-azure-marketplace-866469933.html"
-webUrl: "https://www.prnewswire.com/il/news-releases/illusive-networks-joins-microsoft-intelligent-security-association-and-is-now-available-in-the-microsoft-azure-marketplace-866469933.html"
+originalUrl: "https://www.prnewswire.com/il/news-releases/illusive-networks-joins-microsoft-intelligent-security-association-and-is-now-available-in-the-microsoft-azure-marketplace-301137215.html"
+webUrl: "https://www.prnewswire.com/il/news-releases/illusive-networks-joins-microsoft-intelligent-security-association-and-is-now-available-in-the-microsoft-azure-marketplace-301137215.html"
 type: article
 quality: 28
 heat: -1
@@ -283,6 +283,6 @@ related:
       domain: computerworld.com
     quality: 17
 
-secured: "SlSYLM6D7gfBuzwjVsttznAv4K9FAFC6IjzzQbMsI+5GStLewOdssZ72p4dNyeMubhlneOGpaCC0Qfl13IHYxaKIm0nlxrVWtO02dv9qxt+hJ5GpO8dScW4GqW6lSHbEDsp8nwr8732Kdlun6qg/Q15kpUNt/Ss9DbtqTvoyZRJszLSD363KPmtGp1bYIPYTPAI5N1fcMurzBPqfNyGheVQROcOEvGnfllCnnft336mIHoViSiR+2b/4fO/PUtaZ54A3SihwqB9YwZ1EyRJf5/2hNQqxbsm/4+mlvLHICk+STJzbHmaROXSafTOWRIUbMqTZAyy3757wHXcRtXTczDSZDF/jH60pBKPx7S0F0xE=;JBrRzeOctnzOZi9H5928IQ=="
+secured: "T0525kIqyzm1XO7L4btzwfGSvE//eVDFCcDft+dvdJcyf4vRl/M1mpadAiAACVDQFpOQ8Da0TjIMYgVLyWGkROkA4HSVL4wRYakIDMO1Hp8FG2U0wW3oHOQzxt40w9M+Eg1dpEGpwBRkTyH252iJdqr5Zlurtew5r9+1nJA60Pn4GBQ+vTNyMiduk6dybHh+FW3NrZDdQaP0uHgF3E3W8RSnGMnguZQtjBWFXd0uAmcn9fLNk3i0sPDb0jA6NYlE9YH1lpvfCg67zGGo0EgykjgSFRPV2n09G8AItMTmedrUenzA28aYhX3PUpcCQGf7bPuxwYZsQr1Ti1N0cP4nf9Ji/iugx2JoGImGfRf/08w=;csRqZXP6MfYgh/G64wrh7g=="
 ---
 
