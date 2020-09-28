@@ -22,6 +22,12 @@ topics:
   - Azure
   - Management tools
 
-secured: "4+nVWVLBMbw5Nw46IlTaGdaf2mZhHJuETJmaLEfZZ21kYBEfQRfKts+srPNCUxOCv935xs90FL6dQ+BzSJ38zGIihOY3pfy5WKmij+74XkdCPadgcX3tk02cZad73E6A/No3/igw2VEp3e7YcoWU6V5zCiJoWaL87HjDBwZ28Zdh4DxGnfVxrSUDp1eTnHNHoKD2EKGX1aKBq5Bpb1WczGh+e86I24C7pATfvQD7yJFbMji0j8C7yIZF5jonNj2/C48ngROJo0/fSzRk7qRK2hxKsC2712Ao+pKdfe8hRy87jsK9M68Q8dyhtERyibbdTmUBb2NGMkrm1yl8JMz2DM0EUz6JJ/VXw7w9bWXPGfU5hW6i6WByU6aiX8EpxWt3bVWztTyFvUXsq464N4dOaA==;jHEAeO1/b43GiuE1PzqDIA=="
+images:
+  - url: https://i.ytimg.com/vi/FgfcSdHErus/maxresdefault.jpg
+    width: 1280
+    height: 720
+    isCached: true
+
+secured: "yzuFlqy49TXuQMVseJCjWgrdorUn41DDPJwu34XZXwNDyLgSh1ApS4RPXtYQxhDxB0yF/cvoaFDmV/CBTa39CH+uX0FHEAOqjXlzpkT1/Fu76YB+xLOagfucHKQ/nSU4t8ntWvfazN7bgGLvCtpVHO3CSjhanYD/o7CXRp/oWtxKrFx/FKhRKfULbYD/qV1P3taInRscdjNozA30ZgeRR1aTjt1byjHy2e3gntW9SGqhQhtFxKWlC+YIK7eiSRVQXbGOiqrCypkO86X8wEFOtghzoHesbbxXYYhKW+hAp82gXw9APkhR+fattx1wyw5RPBBslHs6vatriSJBT9AbfREcYBWEA4eOMcQlUsZWJiQfVcAao6c69MKpRpXgOz6AdW8plBpLO8hkFvGPS4nkMfs7YMuAZcjEe3Ez6Taif58=;WHbRTtSUOP+4qlxLx3/7og=="
 ---
 
