@@ -6,9 +6,9 @@ publishedDateTime: 2020-09-14T10:00:13Z
 originalUrl: "https://azure.microsoft.com/blog/better-health-outcomes-with-ai-frost-sullivan-names-microsoft-the-leading-ai-platform-for-healthcare-it/"
 webUrl: "https://azure.microsoft.com/blog/better-health-outcomes-with-ai-frost-sullivan-names-microsoft-the-leading-ai-platform-for-healthcare-it/"
 type: article
-quality: 60
-heat: 60
-published: false
+quality: 75
+heat: 75
+published: true
 
 provider:
   name: Microsoft

@@ -219,22 +219,6 @@ related:
         width: 752
         height: 423
         isCached: true
-  - title: "Microsoft and SAS partner to bring more AI solutions to Azure customers"
-    excerpt: "To that end the partnership will make it easier for Azure customer to run SAS-based workloads in the cloud, with it said to also hold value as far as digital transformation goes. “Through this partnership, Microsoft and SAS will help our customers ..."
-    publishedDateTime: 2020-06-18T12:16:00Z
-    webUrl: "https://www.htxt.co.za/2020/06/18/microsoft-and-sas-partner-to-bring-more-ai-solutions-to-azure-customers/"
-    ampWebUrl: "https://www.htxt.co.za/2020/06/18/microsoft-and-sas-partner-to-bring-more-ai-solutions-to-azure-customers/amp/"
-    cdnAmpWebUrl: "https://www-htxt-co-za.cdn.ampproject.org/c/s/www.htxt.co.za/2020/06/18/microsoft-and-sas-partner-to-bring-more-ai-solutions-to-azure-customers/amp/"
-    type: article
-    provider:
-      name: Htxt.Africa
-      domain: htxt.co.za
-    quality: 57
-    images:
-      - url: "https://www.htxt.co.za/wp-content/uploads/2020/06/billy-huynh-v9bnfMCyKbg-unsplash.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Microsoft Discusses Azure Cloud Capacity Changes It Made to Handle the COVID-19 Crisis"
     excerpt: "Microsoft has published a post detailing its various tweaks to Azure, Microsoft Teams, and other cloud services amid the COVID-19 pandemic."
     publishedDateTime: 2020-06-17T15:47:00Z

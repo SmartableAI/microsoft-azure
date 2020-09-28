@@ -75,20 +75,6 @@ related:
         width: 824
         height: 517
         isCached: true
-  - title: "Microsoft Azure Speech to Text review"
-    excerpt: "Microsoft’s voice-to-text technology has come a long way, and you can capitalize on its advances by integrating the Azure speech service into your system. That said, price and the need to have a ..."
-    publishedDateTime: 2020-04-06T13:47:00Z
-    webUrl: "https://www.techradar.com/au/reviews/microsoft-azure-speech-to-text-review"
-    type: article
-    provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 77
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/a2keRkLBXmPhMntS5HAZci-1200-80.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Newly Launched Microsoft Azure AZ-303 Dumps as PDF and Practice Test [August 2020]"
     excerpt: "online practice test to enhance preparation for the Microsoft Azure Solutions Architect exam. Success in this exam is very beneficial as it leads to Microsoft Azure Solutions Architect Expert."
     publishedDateTime: 2020-08-05T11:41:00Z
@@ -134,20 +120,6 @@ related:
       - url: "https://www.abnewswire.com/uploads/8ca6021bd32238181332305bb48fcf02.jpg"
         width: 600
         height: 335
-        isCached: true
-  - title: "Microsoft Azure Sphere Security Overview"
-    excerpt: "Microsoft, using its decades of experience in hardware, software, and cloud, with Azure Sphere, aims to provide security solutions for IoT devices. Another critical reason to be concerned about IoT data is its integration and management with numerous ..."
-    publishedDateTime: 2020-04-01T18:33:00Z
-    webUrl: "https://www.storagereview.com/review/microsoft-azure-sphere-security-overview"
-    type: article
-    provider:
-      name: StorageReview
-      domain: storagereview.com
-    quality: 37
-    images:
-      - url: "https://www.storagereview.com/wp-content/uploads/2020/04/StorageReview-Microsoft-Azure-Sphere.png"
-        width: 979
-        height: 456
         isCached: true
   - title: "Cloud Market Share 2020: Amazon AWS, Microsoft Azure, Google, IBM"
     excerpt: "In the cloud infrastructure services market, Amazon Web Services (AWS) continues to be the market share leader, followed by Microsoft Azure and Google Cloud Platform (GCP), according to Q2 2020 research from Synergy Research Group. Not by coincidence ..."

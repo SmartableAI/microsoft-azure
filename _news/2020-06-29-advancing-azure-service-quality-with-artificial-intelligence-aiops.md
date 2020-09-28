@@ -6,8 +6,8 @@ publishedDateTime: 2020-06-29T09:00:20Z
 originalUrl: "https://azure.microsoft.com/blog/advancing-azure-service-quality-with-artificial-intelligence-aiops/"
 webUrl: "https://azure.microsoft.com/blog/advancing-azure-service-quality-with-artificial-intelligence-aiops/"
 type: article
-quality: 89
-heat: 89
+quality: 119
+heat: 119
 published: true
 
 provider:

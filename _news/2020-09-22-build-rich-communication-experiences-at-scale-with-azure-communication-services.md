@@ -7,8 +7,8 @@ originalUrl: "https://azure.microsoft.com/blog/build-rich-communication-experien
 webUrl: "https://azure.microsoft.com/blog/build-rich-communication-experiences-at-scale-with-azure-communication-services/"
 type: article
 quality: 83
-heat: 144
-published: true
+heat: -1
+published: false
 
 provider:
   name: Microsoft
@@ -28,15 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Build a scalable security practice with Azure Lighthouse and Azure Sentinel"
-    excerpt: "The Microsoft Azure Lighthouse product group is launching a blog series Azure Lighthouse covering areas where we are investing to make our service provider partners and enterprise customers successful with Azure."
-    publishedDateTime: 2020-09-16T10:00:31Z
-    webUrl: "https://azure.microsoft.com/blog/build-a-scalable-security-practice-with-azure-lighthouse-and-azure-sentinel/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 82
   - title: "Build powerful and responsible AI solutions with Azure"
     excerpt: "As organizations assess safely reopening and continue navigating unexpected shifts in the world, getting insights to respond in an agile and conscientious manner is vital."
     publishedDateTime: 2020-09-22T08:00:25Z
@@ -45,7 +36,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 69
+    quality: 84
   - title: "AT&T powered guardian device with Azure Sphere enables highly secured, simple, and scalable connectivity from anywhere"
     excerpt: "In July 2019, Microsoft and AT&T entered a strategic alliance to lead innovation and deliver powerful new solutions in some of the most transformative technologies, including the Internet of Things (IoT). Today, we are sharing that as part of that partnership, AT&T is introducing a new IoT solution consisting"
     publishedDateTime: 2020-09-22T08:00:16Z

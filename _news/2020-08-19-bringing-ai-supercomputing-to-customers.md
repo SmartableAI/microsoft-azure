@@ -6,9 +6,9 @@ publishedDateTime: 2020-08-19T08:00:23Z
 originalUrl: "https://azure.microsoft.com/blog/bringing-ai-supercomputing-to-customers/"
 webUrl: "https://azure.microsoft.com/blog/bringing-ai-supercomputing-to-customers/"
 type: article
-quality: 56
-heat: 56
-published: false
+quality: 71
+heat: 71
+published: true
 
 provider:
   name: Microsoft

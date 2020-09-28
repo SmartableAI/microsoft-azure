@@ -6,8 +6,8 @@ publishedDateTime: 2020-05-19T08:00:15Z
 originalUrl: "https://azure.microsoft.com/blog/build-ai-you-can-trust-with-responsible-ml/"
 webUrl: "https://azure.microsoft.com/blog/build-ai-you-can-trust-with-responsible-ml/"
 type: article
-quality: 74
-heat: 74
+quality: 89
+heat: 89
 published: true
 
 provider:

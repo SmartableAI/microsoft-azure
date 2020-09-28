@@ -5,8 +5,8 @@ excerpt: "At Microsoft, we are inspired by how artificial intelligence is transf
 publishedDateTime: 2020-01-16T08:00:51Z
 webUrl: "https://azure.microsoft.com/blog/creating-a-more-accessible-world-with-azure-ai/"
 type: article
-quality: 19
-heat: 19
+quality: 34
+heat: 34
 published: false
 
 provider:

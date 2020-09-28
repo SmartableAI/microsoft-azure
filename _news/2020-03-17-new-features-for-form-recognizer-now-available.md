@@ -6,8 +6,8 @@ publishedDateTime: 2020-03-17T08:00:45Z
 originalUrl: "https://azure.microsoft.com/blog/new-features-for-form-recognizer-now-available/"
 webUrl: "https://azure.microsoft.com/blog/new-features-for-form-recognizer-now-available/"
 type: article
-quality: 74
-heat: 94
+quality: 89
+heat: 109
 published: true
 
 provider:

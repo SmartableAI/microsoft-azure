@@ -6,8 +6,8 @@ publishedDateTime: 2020-07-08T08:00:52Z
 originalUrl: "https://azure.microsoft.com/blog/azure-ai-build-missioncritical-ai-apps-with-new-cognitive-services-capabilities/"
 webUrl: "https://azure.microsoft.com/blog/azure-ai-build-missioncritical-ai-apps-with-new-cognitive-services-capabilities/"
 type: article
-quality: 99
-heat: 139
+quality: 114
+heat: 154
 published: true
 
 provider:

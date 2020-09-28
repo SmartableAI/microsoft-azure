@@ -6,9 +6,9 @@ publishedDateTime: 2020-05-21T09:00:42Z
 originalUrl: "https://azure.microsoft.com/blog/meeting-the-challenges-of-today-and-tomorrow-with-azure-ai/"
 webUrl: "https://azure.microsoft.com/blog/meeting-the-challenges-of-today-and-tomorrow-with-azure-ai/"
 type: article
-quality: 69
-heat: 69
-published: false
+quality: 84
+heat: 84
+published: true
 
 provider:
   name: Microsoft

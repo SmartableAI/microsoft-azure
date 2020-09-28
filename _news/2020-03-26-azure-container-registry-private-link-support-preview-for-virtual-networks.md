@@ -6,8 +6,8 @@ publishedDateTime: 2020-03-26T09:00:04Z
 originalUrl: "https://azure.microsoft.com/blog/azure-container-registry-private-link-support-preview-for-virtual-networks/"
 webUrl: "https://azure.microsoft.com/blog/azure-container-registry-private-link-support-preview-for-virtual-networks/"
 type: article
-quality: 121
-heat: 121
+quality: 136
+heat: 136
 published: true
 
 provider:

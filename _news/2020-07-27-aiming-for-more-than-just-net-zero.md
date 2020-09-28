@@ -6,8 +6,8 @@ publishedDateTime: 2020-07-27T08:00:01Z
 originalUrl: "https://azure.microsoft.com/blog/aiming-for-more-than-just-net-zero/"
 webUrl: "https://azure.microsoft.com/blog/aiming-for-more-than-just-net-zero/"
 type: article
-quality: 74
-heat: 74
+quality: 89
+heat: 89
 published: true
 
 provider:

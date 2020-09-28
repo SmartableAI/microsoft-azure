@@ -6,8 +6,8 @@ publishedDateTime: 2020-09-27T19:33:00Z
 originalUrl: "https://www.engadget.com/microsoft-flight-simulator-azure-ai-machine-learning-193545436.html?itm_source=parsely-api"
 webUrl: "https://www.engadget.com/microsoft-flight-simulator-azure-ai-machine-learning-193545436.html?itm_source=parsely-api"
 type: article
-quality: 77
-heat: 77
+quality: 94
+heat: 94
 published: true
 
 provider:
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - Azure
+  - AI
 
 images:
   - url: "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-09%2F92036cb1-ff61-11ea-bf3e-731546a38c60&client=amp-blogside-v2&signature=ffe8a2b4c0f922e4dd987dfb384f0ddaa42ed397"

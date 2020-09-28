@@ -6,7 +6,7 @@ publishedDateTime: 2020-09-22T19:04:00Z
 originalUrl: "https://www.finanzen.net/nachricht/aktien/ses-becomes-microsoft-azure-orbital-founding-connectivity-partner-9321525"
 webUrl: "https://www.finanzen.net/nachricht/aktien/ses-becomes-microsoft-azure-orbital-founding-connectivity-partner-9321525"
 type: article
-quality: 37
+quality: 54
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - Azure
+  - Networking
 
 images:
   - url: "https://images.finanzen.net/images/logos/finanzennet_600x315.jpg"
