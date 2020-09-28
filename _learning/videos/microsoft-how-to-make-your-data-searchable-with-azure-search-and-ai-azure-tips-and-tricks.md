@@ -20,6 +20,7 @@ provider:
 
 topics:
   - Azure
+  - AI
 
 images:
   - url: https://i.ytimg.com/vi/OQDRNQD1LDk/maxresdefault.jpg

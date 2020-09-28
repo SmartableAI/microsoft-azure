@@ -23,6 +23,7 @@ items:
 
 topics:
   - Azure
+  - AI
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/implement-ai-organization-social.png

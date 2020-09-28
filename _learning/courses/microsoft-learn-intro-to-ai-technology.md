@@ -6,8 +6,8 @@ type: course
 price: Free
 length: PT37M
 ratings:
-  count: 1469
-  average: 4.6936693
+  count: 1470
+  average: 4.6938777
 heat: 76
 
 provider:
@@ -23,6 +23,7 @@ levels:
 
 topics:
   - Azure
+  - AI
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/introduction-to-ai-technology-social.png

@@ -6,8 +6,8 @@ type: course
 price: Free
 length: PT59M
 ratings:
-  count: 4383
-  average: 4.751084
+  count: 4384
+  average: 4.7511406
 heat: 108
 
 provider:
@@ -23,6 +23,7 @@ levels:
 
 topics:
   - Azure
+  - AI
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/azure-artificial-intelligence-social.png

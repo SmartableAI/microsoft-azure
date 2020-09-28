@@ -39,6 +39,7 @@ topics:
   - Management Tools
   - Containers
   - Compute
+  - AI
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/student-evangelism/introduction-to-iot-social.png
