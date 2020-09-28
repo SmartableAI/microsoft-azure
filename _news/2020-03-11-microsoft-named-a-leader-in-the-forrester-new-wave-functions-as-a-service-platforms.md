@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/microsoft-named-a-leader-in-the-f
 webUrl: "https://azure.microsoft.com/blog/microsoft-named-a-leader-in-the-forrester-new-wave-functions-as-a-service-platforms/"
 type: article
 quality: 67
-heat: 87
+heat: 88
 published: true
 
 provider:

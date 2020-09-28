@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/streamline-connectivity-and-impro
 webUrl: "https://azure.microsoft.com/blog/streamline-connectivity-and-improve-efficiency-for-remote-work-using-azure-virtual-wan/"
 type: article
 quality: 81
-heat: 81
+heat: 82
 published: true
 
 provider:
