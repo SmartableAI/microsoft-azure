@@ -3,8 +3,8 @@ category: news
 title: "Microsoft Unveils 5G/Telco Playbook With ‘Azure For Operators’"
 excerpt: "Microsoft Azure Monday laid out its playbook to partner with communications service providers by providing a carrier-grade platform for edge and cloud computing to help network operators realize the full potential of 5G technology."
 publishedDateTime: 2020-09-28T19:57:00Z
-originalUrl: "https://www.crn.com/slide-shows/cloud/microsoft-unveils-5g-telco-playbook-with-azure-for-operators-"
-webUrl: "https://www.crn.com/slide-shows/cloud/microsoft-unveils-5g-telco-playbook-with-azure-for-operators-"
+originalUrl: "https://www.crn.com/slide-shows/cloud/microsoft-unveils-5g-telco-playbook-with-azure-for-operators-/2"
+webUrl: "https://www.crn.com/slide-shows/cloud/microsoft-unveils-5g-telco-playbook-with-azure-for-operators-/2"
 type: article
 quality: 37
 heat: -1
@@ -521,6 +521,17 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "Microsoft Positions Itself To Win Space Data Market With Azure Orbital"
+    excerpt: "Service means customers are only obliged to pay for the amount of time they actually need to use on the station."
+    publishedDateTime: 2020-09-28T21:10:00Z
+    webUrl: "https://breakingdefense.com/2020/09/microsoft-positions-itself-to-win-space-data-market-with-azure-orbital/"
+    ampWebUrl: "https://breakingdefense.com/2020/09/microsoft-positions-itself-to-win-space-data-market-with-azure-orbital/amp/"
+    cdnAmpWebUrl: "https://breakingdefense-com.cdn.ampproject.org/c/s/breakingdefense.com/2020/09/microsoft-positions-itself-to-win-space-data-market-with-azure-orbital/amp/"
+    type: article
+    provider:
+      name: Breaking Defense
+      domain: breakingdefense.com
+    quality: 54
   - title: "Microsoft plans to establish new cloud datacenter region in Arizona "
     excerpt: "Today, we are taking a significant step toward that goal, revealing plans for our newest sustainable datacenter region in Arizona, which will become our West US 3 region."
     publishedDateTime: 2020-09-22T16:05:31Z
@@ -856,6 +867,20 @@ related:
         width: 718
         height: 400
         isCached: true
+  - title: "MAJiK Systems’ Visual Factory Now Available in the Microsoft Azure Marketplace"
+    excerpt: "MAJiK Systems, provider of an IoT-centered software suite that allows manufacturers to drive operational excellence by natively connecting to PLCs and SCADA systems, today announced the availability of Visual Factory in the Microsoft Azure Marketplace,"
+    publishedDateTime: 2020-09-24T16:31:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200924005015/en/"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 33
+    images:
+      - url: "https://mms.businesswire.com/media/20200924005015/en/823750/23/Majik_Systems.jpg"
+        width: 1200
+        height: 627
+        isCached: true
   - title: "Cloud Guide: Disaster Recovery and Data Protection with Zerto and Microsoft Azure"
     excerpt: "This guide aims to provide you with an understanding of the driving factors behind why the cloud is being adopted en-masse, as well as advice on how to begin building your own cloud strategy. You’ll find out how,"
     publishedDateTime: 2020-09-16T18:40:00Z
@@ -1151,6 +1176,6 @@ related:
         height: 450
         isCached: true
 
-secured: "V0dXVYlKxCYTyPrqPhujiETdexzVH316urBr7kItm9jPNl2kC6DMk7rM3Un17APjkVLbjltMsszDafO+t7trGqgaH8R2b08mAvPipDmrFqMBSdLJ2vi0vv+sJvNWMnDFUCD+VXroskoAoCBvn2DrzN/v3t2NbicAWjgJ1R+WT2bBH0PVH4GGC+CXmmcBtWHYBArs/tt7h1XV2AkGj1Zy/5fxEE7ODLhNQ2KS/sPn7Rsiiy6WkIG0iBF1bd/fltvXmZzfbN4je01UpZQwEOu/9r75/TK1vOAdaG5jL1tDVmoONkZHmQ6CiXjsAjFGaLbsc2GuxNsVvSic2ucusqUBpAFDM5amz09X72Qin6Mzxwk=;gEcFDXVpKNddN7gvjb0SFA=="
+secured: "ZxlkLwlzhaPP3ePqXeUnS4D1SfbIr57MQrJIfepITp43Ds/zMU61FJXj3gepK1PJ19jzleg5OHEUdicM46hY91CXZQwNFmLxFIMKpuVSezvBm4f1t5xjEB1EdnP0syek0vrmBY4f8MTNQ2A1ID8+lLkndw9L7UuFauOddphHVN4BoIfNPb0njMIizxtRMGgYJHIb5IQoa/9rlwMyWTjb915krXl/+LW20KY4QuqV6VyYJWC9Mmyn0sIcbNygxClM8Lf6g9c37zH0i0h1yOczFN/p/K6SucIvTBMgucOGb3ORCU86hm3ZZba0zyudWU9yC7DBQCjcq+AV597HOSso0SeRtDomXv5Vuz2RpFPqD7M=;VviQgNyRNr8TSN6xyHCvFg=="
 ---
 

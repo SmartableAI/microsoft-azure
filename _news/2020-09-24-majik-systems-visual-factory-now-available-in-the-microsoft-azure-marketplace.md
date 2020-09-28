@@ -1,33 +1,26 @@
 ---
 category: news
-title: "Azure Orbital launches Microsoft into a cloud computing space race with Amazon"
-excerpt: "The world’s largest and most northerly commercial satellite ground station, KSAT’s Svalbard Station in Norway’s Arctic archipelago, will be part of Microsoft’s Azure Orbital network. (KSAT Photo) Call it the Clash of the Cloud Titans: Today ..."
-publishedDateTime: 2020-09-22T15:02:00Z
-originalUrl: "https://www.geekwire.com/2020/azure-orbital-launches-microsoft-cloud-computing-space-race-amazon/"
-webUrl: "https://www.geekwire.com/2020/azure-orbital-launches-microsoft-cloud-computing-space-race-amazon/"
-ampWebUrl: "https://www.geekwire.com/2020/azure-orbital-launches-microsoft-cloud-computing-space-race-amazon/amp/"
-cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/azure-orbital-launches-microsoft-cloud-computing-space-race-amazon/amp/"
+title: "MAJiK Systems’ Visual Factory Now Available in the Microsoft Azure Marketplace"
+excerpt: "MAJiK Systems, provider of an IoT-centered software suite that allows manufacturers to drive operational excellence by natively connecting to PLCs and SCADA systems, today announced the availability of Visual Factory in the Microsoft Azure Marketplace,"
+publishedDateTime: 2020-09-24T16:31:00Z
+originalUrl: "https://www.businesswire.com/news/home/20200924005015/en/"
+webUrl: "https://www.businesswire.com/news/home/20200924005015/en/"
 type: article
-quality: 110
+quality: 33
 heat: -1
 published: false
 
 provider:
-  name: GeekWire
-  domain: geekwire.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/geekwire.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - Azure
-  - Networking
 
 images:
-  - url: "https://cdn.geekwire.com/wp-content/uploads/2020/09/200922-svalbard-630x321.jpg"
-    width: 630
-    height: 321
+  - url: "https://mms.businesswire.com/media/20200924005015/en/823750/23/Majik_Systems.jpg"
+    width: 1200
+    height: 627
     isCached: true
 
 related:
@@ -46,6 +39,22 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2020/09/GettyImages-687795300.jpg?w=1024"
         width: 1024
         height: 683
+        isCached: true
+  - title: "Azure Orbital launches Microsoft into a cloud computing space race with Amazon"
+    excerpt: "The world’s largest and most northerly commercial satellite ground station, KSAT’s Svalbard Station in Norway’s Arctic archipelago, will be part of Microsoft’s Azure Orbital network. (KSAT Photo) Call it the Clash of the Cloud Titans: Today ..."
+    publishedDateTime: 2020-09-22T15:02:00Z
+    webUrl: "https://www.geekwire.com/2020/azure-orbital-launches-microsoft-cloud-computing-space-race-amazon/"
+    ampWebUrl: "https://www.geekwire.com/2020/azure-orbital-launches-microsoft-cloud-computing-space-race-amazon/amp/"
+    cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/azure-orbital-launches-microsoft-cloud-computing-space-race-amazon/amp/"
+    type: article
+    provider:
+      name: GeekWire
+      domain: geekwire.com
+    quality: 110
+    images:
+      - url: "https://cdn.geekwire.com/wp-content/uploads/2020/09/200922-svalbard-630x321.jpg"
+        width: 630
+        height: 321
         isCached: true
   - title: "Microsoft Azure launches new availability zones in Canada and Australia"
     excerpt: "Microsoft Azure offers developers access to more data center regions than its competitors, but it was late to the game of offering different availability zones in those regions for high-availability use cases."
@@ -872,20 +881,6 @@ related:
         width: 718
         height: 400
         isCached: true
-  - title: "MAJiK Systems’ Visual Factory Now Available in the Microsoft Azure Marketplace"
-    excerpt: "MAJiK Systems, provider of an IoT-centered software suite that allows manufacturers to drive operational excellence by natively connecting to PLCs and SCADA systems, today announced the availability of Visual Factory in the Microsoft Azure Marketplace,"
-    publishedDateTime: 2020-09-24T16:31:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200924005015/en/"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 33
-    images:
-      - url: "https://mms.businesswire.com/media/20200924005015/en/823750/23/Majik_Systems.jpg"
-        width: 1200
-        height: 627
-        isCached: true
   - title: "Cloud Guide: Disaster Recovery and Data Protection with Zerto and Microsoft Azure"
     excerpt: "This guide aims to provide you with an understanding of the driving factors behind why the cloud is being adopted en-masse, as well as advice on how to begin building your own cloud strategy. You’ll find out how,"
     publishedDateTime: 2020-09-16T18:40:00Z
@@ -1181,6 +1176,6 @@ related:
         height: 450
         isCached: true
 
-secured: "FYuRUGwQrExRY/m3hgM5zMu8AEiEs1HqpgdEPfJH4bKE2t11lCIdfpId+U889ndO2Gr7PQJSMCfFRFYBNf6WyMxaUGdnPlP3f8WE+nvI20J4P7+oRrejzCT3sGiicTMvsib8ieACX1NVqZ/t3NH3ICyoIKmci76nQ0ukeBJN2S2g46aD4uaw9THQIiq513oBVX0Uo/P5S47ABHXp/rdoVxSPn9THi6o19c1OIqTygDMPRiYw8cDF0BVU66LxvMNkn7ebOjKTSUJ6w5pIAcqBXfIE0Wr1GvSdq+c2hmYREMDwKUid09DZ2a9fXsi1OVI5AtBKKe7dzL9H1/ooFLEao5LW5mePVt+GgKAyRr24Fn8sZyaFKVrzCDlysxUMLI2GHiIh2+n1dVO8D0TZsuHJZjU71Ma7bf96HEhREC39F+h3UWBWkk0zHhoQqW8kLaj6leM3NmrVR03+fTzLI2rS9famFbSxl1Ny5GHvvM8ccJJO8Hz/gplR5LNBNHoLKcxhVJcHbQRh2sZGBMyZyv+rGA==;hi04k5ycFXtD4oeUrm3IBw=="
+secured: "hlWXnxoWTf1VidnXIpKFuqQZ2j3hrDZg6T+6c7jUzRpTum+84yXhz8g787bn2zSy+4bD697C73NU9Hgk8EPBrG+P5dmzJVtwwjc+ArXkSjdZPQN2SZdGk2E4Lvsxyo6ZjGT3bKturokEBM+SRtpcqSWzbxIqDFFFkVLFl2DxLCdn63zrDuXQSCrMMudeM/H5ksSc9AFgITDzLbluMyjuCkXA5KuZyiFlPQZLDEQWKd0HtEo8znjt5K+0gkWltmAImKC+mySu8YuA+S4sSnUixBToiWjexTsaTZSMJCXuspTOCX5/mdGdYlCKPwnY1WojZBFXOEG2UKP2/ly/oEYb2nI1j+Hn8CPmkG6wJvrHMq4=;jszHf6ZJ4bLYEwFxmvhZ6Q=="
 ---
 

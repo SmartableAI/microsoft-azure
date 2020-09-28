@@ -1,34 +1,24 @@
 ---
 category: news
-title: "Azure Orbital launches Microsoft into a cloud computing space race with Amazon"
-excerpt: "The world’s largest and most northerly commercial satellite ground station, KSAT’s Svalbard Station in Norway’s Arctic archipelago, will be part of Microsoft’s Azure Orbital network. (KSAT Photo) Call it the Clash of the Cloud Titans: Today ..."
-publishedDateTime: 2020-09-22T15:02:00Z
-originalUrl: "https://www.geekwire.com/2020/azure-orbital-launches-microsoft-cloud-computing-space-race-amazon/"
-webUrl: "https://www.geekwire.com/2020/azure-orbital-launches-microsoft-cloud-computing-space-race-amazon/"
-ampWebUrl: "https://www.geekwire.com/2020/azure-orbital-launches-microsoft-cloud-computing-space-race-amazon/amp/"
-cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/azure-orbital-launches-microsoft-cloud-computing-space-race-amazon/amp/"
+title: "Microsoft Positions Itself To Win Space Data Market With Azure Orbital"
+excerpt: "Service means customers are only obliged to pay for the amount of time they actually need to use on the station."
+publishedDateTime: 2020-09-28T21:10:00Z
+originalUrl: "https://breakingdefense.com/2020/09/microsoft-positions-itself-to-win-space-data-market-with-azure-orbital/"
+webUrl: "https://breakingdefense.com/2020/09/microsoft-positions-itself-to-win-space-data-market-with-azure-orbital/"
+ampWebUrl: "https://breakingdefense.com/2020/09/microsoft-positions-itself-to-win-space-data-market-with-azure-orbital/amp/"
+cdnAmpWebUrl: "https://breakingdefense-com.cdn.ampproject.org/c/s/breakingdefense.com/2020/09/microsoft-positions-itself-to-win-space-data-market-with-azure-orbital/amp/"
 type: article
-quality: 110
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: GeekWire
-  domain: geekwire.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/geekwire.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Breaking Defense
+  domain: breakingdefense.com
 
 topics:
   - Azure
   - Networking
-
-images:
-  - url: "https://cdn.geekwire.com/wp-content/uploads/2020/09/200922-svalbard-630x321.jpg"
-    width: 630
-    height: 321
-    isCached: true
 
 related:
   - title: "Microsoft launches Azure Orbital to connect satellites to its cloud"
@@ -46,6 +36,22 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2020/09/GettyImages-687795300.jpg?w=1024"
         width: 1024
         height: 683
+        isCached: true
+  - title: "Azure Orbital launches Microsoft into a cloud computing space race with Amazon"
+    excerpt: "The world’s largest and most northerly commercial satellite ground station, KSAT’s Svalbard Station in Norway’s Arctic archipelago, will be part of Microsoft’s Azure Orbital network. (KSAT Photo) Call it the Clash of the Cloud Titans: Today ..."
+    publishedDateTime: 2020-09-22T15:02:00Z
+    webUrl: "https://www.geekwire.com/2020/azure-orbital-launches-microsoft-cloud-computing-space-race-amazon/"
+    ampWebUrl: "https://www.geekwire.com/2020/azure-orbital-launches-microsoft-cloud-computing-space-race-amazon/amp/"
+    cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/azure-orbital-launches-microsoft-cloud-computing-space-race-amazon/amp/"
+    type: article
+    provider:
+      name: GeekWire
+      domain: geekwire.com
+    quality: 110
+    images:
+      - url: "https://cdn.geekwire.com/wp-content/uploads/2020/09/200922-svalbard-630x321.jpg"
+        width: 630
+        height: 321
         isCached: true
   - title: "Microsoft Azure launches new availability zones in Canada and Australia"
     excerpt: "Microsoft Azure offers developers access to more data center regions than its competitors, but it was late to the game of offering different availability zones in those regions for high-availability use cases."
@@ -512,17 +518,6 @@ related:
         width: 600
         height: 315
         isCached: true
-  - title: "Microsoft Positions Itself To Win Space Data Market With Azure Orbital"
-    excerpt: "Service means customers are only obliged to pay for the amount of time they actually need to use on the station."
-    publishedDateTime: 2020-09-28T21:10:00Z
-    webUrl: "https://breakingdefense.com/2020/09/microsoft-positions-itself-to-win-space-data-market-with-azure-orbital/"
-    ampWebUrl: "https://breakingdefense.com/2020/09/microsoft-positions-itself-to-win-space-data-market-with-azure-orbital/amp/"
-    cdnAmpWebUrl: "https://breakingdefense-com.cdn.ampproject.org/c/s/breakingdefense.com/2020/09/microsoft-positions-itself-to-win-space-data-market-with-azure-orbital/amp/"
-    type: article
-    provider:
-      name: Breaking Defense
-      domain: breakingdefense.com
-    quality: 54
   - title: "Microsoft plans to establish new cloud datacenter region in Arizona "
     excerpt: "Today, we are taking a significant step toward that goal, revealing plans for our newest sustainable datacenter region in Arizona, which will become our West US 3 region."
     publishedDateTime: 2020-09-22T16:05:31Z
@@ -1181,6 +1176,6 @@ related:
         height: 450
         isCached: true
 
-secured: "FYuRUGwQrExRY/m3hgM5zMu8AEiEs1HqpgdEPfJH4bKE2t11lCIdfpId+U889ndO2Gr7PQJSMCfFRFYBNf6WyMxaUGdnPlP3f8WE+nvI20J4P7+oRrejzCT3sGiicTMvsib8ieACX1NVqZ/t3NH3ICyoIKmci76nQ0ukeBJN2S2g46aD4uaw9THQIiq513oBVX0Uo/P5S47ABHXp/rdoVxSPn9THi6o19c1OIqTygDMPRiYw8cDF0BVU66LxvMNkn7ebOjKTSUJ6w5pIAcqBXfIE0Wr1GvSdq+c2hmYREMDwKUid09DZ2a9fXsi1OVI5AtBKKe7dzL9H1/ooFLEao5LW5mePVt+GgKAyRr24Fn8sZyaFKVrzCDlysxUMLI2GHiIh2+n1dVO8D0TZsuHJZjU71Ma7bf96HEhREC39F+h3UWBWkk0zHhoQqW8kLaj6leM3NmrVR03+fTzLI2rS9famFbSxl1Ny5GHvvM8ccJJO8Hz/gplR5LNBNHoLKcxhVJcHbQRh2sZGBMyZyv+rGA==;hi04k5ycFXtD4oeUrm3IBw=="
+secured: "PrLQ80usnXJVMUhKP6cRE2EJzX7o2YHdm7eFGrurCNKyHio5YTgG/Km2i2r0BVtxTwtMQ1WwkuZCa0evLCHX7nkG0Vd0FiPor2j3IoNpceokfJRGinO78lfgeuuOCcdys6+n2m7Sfbufb4Z4GJpWBiHHFFtD7HzxGZhu4vjPViFvM+C+P9Cnts284VdKntHgle3SSD85MijLzGhvAC5BRAbpJVesyggWUVi2bAIOxCzI/xtCoHHVxluIVhHLvqEDBFZyx7bopTOU/UMvNgN+65ckH5RU+l6XvEeZxhIRb60A60RwLbXB56VKQWu4eFnufjzU7jrm26nz2lct7CSzUsw/HOqXP0yzS9aUld43UvKLTadx/yhxdl1v1vIHaU9lcCYMfdBId6D5EaMgnrA/kQmtJDe8DOQEA5s8FwlSF8waSLYHsGv/8KrVnXvAQt22BeFnvX/kXEYyaHHemkKHtbuWOSN754LqeRjKAAwSKCkPOSyhoWe8bJqqN9mQ5ZoxMgVu43p30kSB35MA3a5lYQ==;5UV3U1q0Nv5QxEKh2LmOIA=="
 ---
 
