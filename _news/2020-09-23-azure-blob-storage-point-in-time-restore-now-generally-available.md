@@ -22,28 +22,37 @@ topics:
   - Azure
 
 related:
-  - title: "Azure Blob storage lifecycle management now supports append blobs"
-    excerpt: "In addition to supporting block blobs, Azure Blob storage lifecycle management now offers a rich, rule-based policy to manage the retention of your append blobs."
-    publishedDateTime: 2020-09-17T20:00:12Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-blob-storage-lifecycle-management-now-supports-append-blobs/"
+  - title: "Azure Container Registry now available in several new regions"
+    excerpt: "Azure Container Registry is now generally available in US Gov Texas, Germany West Central, and Brazil Southeast regions bringing the number of Azure regions that it’s available in to 38."
+    publishedDateTime: 2020-09-28T16:40:52Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-container-registry-now-available-in-several-new-regions/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
+  - title: "Azure Container Registry now available in Switzerland West region"
+    excerpt: "Azure Container Registry is now generally available in the Switzerland West region, bringing the total number of Azure regions that it's available in to 35. See the list of all regions where Azure Container Registry is available and where it's coming next."
+    publishedDateTime: 2020-08-31T18:46:09Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-container-registry-now-available-in-switzerland-west-region/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
     quality: 67
-  - title: "Azure Blob access time tracking and access time-based lifecycle management preview "
-    excerpt: "The preview is available in France Central, Canada East, and Canada Central regions."
-    publishedDateTime: 2020-09-17T21:00:12Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-blob-access-time-tracking-and-access-timebased-lifecycle-management-preview/"
+  - title: "Azure Container Registry now available in UAE Central region"
+    excerpt: "Azure Container Registry is now generally available in the UAE Central region, bringing the total number of Azure regions that it's available in to 36. See the list of all regions where Azure Container Registry is available and where it's coming next."
+    publishedDateTime: 2020-08-31T18:48:27Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-container-registry-now-available-in-uae-central-region/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 61
-  - title: "Azure Data Lake Storage lifecycle management is now generally available"
-    excerpt: "Lifecycle management for Azure Data Lake Storage provides an automated solution for tiering down infrequently used data to cooler tiers, allowing you to easily optimize your data for both performance and cost.   "
-    publishedDateTime: 2020-07-31T20:00:18Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/lifecycle-management-for-azure-data-lake-storage-is-now-generally-available/"
+    quality: 67
+  - title: "Azure Container Registry diagnostic logs now generally available"
+    excerpt: ""
+    publishedDateTime: 2020-05-19T16:05:39Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-container-registry-diagnostic-logs-now-generally-available/"
     type: article
     provider:
       name: Microsoft

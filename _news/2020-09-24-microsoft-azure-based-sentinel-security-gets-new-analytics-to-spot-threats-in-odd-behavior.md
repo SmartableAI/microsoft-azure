@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-azure-based-senti
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-azure-based-sentinel-security-gets-new-analytics-to-spot-threats-in-odd-behavior/"
 type: article
 quality: 121
-heat: 522
+heat: 542
 published: true
 
 provider:
@@ -180,6 +180,22 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 63
+  - title: "Microsoft gets into 5G race with Azure cloud"
+    excerpt: "Microsoft unveiled a new cloud platform on Monday aimed at enabling telecom operators to build 5G networks faster"
+    publishedDateTime: 2020-09-28T15:43:00Z
+    webUrl: "https://arynews.tv/en/microsoft-5g-azure-cloud/"
+    ampWebUrl: "https://arynews.tv/en/microsoft-5g-azure-cloud/amp/"
+    cdnAmpWebUrl: "https://arynews-tv.cdn.ampproject.org/c/s/arynews.tv/en/microsoft-5g-azure-cloud/amp/"
+    type: article
+    provider:
+      name: ARY News Live
+      domain: arynews.tv
+    quality: 57
+    images:
+      - url: "https://arynews.tv/wp-content/uploads/2020/09/Azure.jpg"
+        width: 750
+        height: 369
+        isCached: true
   - title: "Course 552241-A: Microsoft Azure Big Data Analytics Solutions"
     excerpt: "A is a two-day instructor-led course is intended for data professionals who want to expand their knowledge about creating big data analytic solutions on Microsoft Azure. Students will learn how to design solutions for batch and real-time data processing."
     publishedDateTime: 2020-07-01T21:48:00Z

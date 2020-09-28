@@ -21,24 +21,6 @@ topics:
   - Azure
 
 related:
-  - title: "Azure Container Registry now available in Switzerland West region"
-    excerpt: "Azure Container Registry is now generally available in the Switzerland West region, bringing the total number of Azure regions that it's available in to 35. See the list of all regions where Azure Container Registry is available and where it's coming next."
-    publishedDateTime: 2020-08-31T18:46:09Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-container-registry-now-available-in-switzerland-west-region/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 67
-  - title: "Azure Container Registry now available in UAE Central region"
-    excerpt: "Azure Container Registry is now generally available in the UAE Central region, bringing the total number of Azure regions that it's available in to 36. See the list of all regions where Azure Container Registry is available and where it's coming next."
-    publishedDateTime: 2020-08-31T18:48:27Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-container-registry-now-available-in-uae-central-region/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 67
   - title: "Azure Media Services is now available in Switzerland and Germany"
     excerpt: ""
     publishedDateTime: 2020-05-20T16:00:28Z

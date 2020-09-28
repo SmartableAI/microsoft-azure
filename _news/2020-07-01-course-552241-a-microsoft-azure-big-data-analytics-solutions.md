@@ -192,6 +192,22 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 63
+  - title: "Microsoft gets into 5G race with Azure cloud"
+    excerpt: "Microsoft unveiled a new cloud platform on Monday aimed at enabling telecom operators to build 5G networks faster"
+    publishedDateTime: 2020-09-28T15:43:00Z
+    webUrl: "https://arynews.tv/en/microsoft-5g-azure-cloud/"
+    ampWebUrl: "https://arynews.tv/en/microsoft-5g-azure-cloud/amp/"
+    cdnAmpWebUrl: "https://arynews-tv.cdn.ampproject.org/c/s/arynews.tv/en/microsoft-5g-azure-cloud/amp/"
+    type: article
+    provider:
+      name: ARY News Live
+      domain: arynews.tv
+    quality: 57
+    images:
+      - url: "https://arynews.tv/wp-content/uploads/2020/09/Azure.jpg"
+        width: 750
+        height: 369
+        isCached: true
   - title: "14 Top Azure Announcements From Microsoft Ignite 2020"
     excerpt: "Microsoft Azure hybrid and multi-cloud solutions in the spotlight at Microsoft Build 2020 include Azure Arc updates, the Azure Certified Device Program, a public preview of Azure Communication Services,"
     publishedDateTime: 2020-09-22T17:16:00Z

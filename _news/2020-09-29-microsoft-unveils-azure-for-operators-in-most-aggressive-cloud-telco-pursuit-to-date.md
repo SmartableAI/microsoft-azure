@@ -1,28 +1,26 @@
 ---
 category: news
-title: "Jumio Unveils Identity Verification With Biometrics For Microsoft Azure"
-excerpt: "California-based Jumio said its artificial intelligence (AI)-fueled identity verification offerings are now available to Microsoft Azure Active Directory External Identities for business-to-consumer (B2C) clients. The technology allows for a biometric and ..."
-publishedDateTime: 2020-09-23T19:13:00Z
-originalUrl: "https://www.pymnts.com/safety-and-security/2020/jumio-unveils-identity-verification-with-biometrics-for-microsoft-azure/"
-webUrl: "https://www.pymnts.com/safety-and-security/2020/jumio-unveils-identity-verification-with-biometrics-for-microsoft-azure/"
-ampWebUrl: "https://www.pymnts.com/safety-and-security/2020/jumio-unveils-identity-verification-with-biometrics-for-microsoft-azure/amp/"
-cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/safety-and-security/2020/jumio-unveils-identity-verification-with-biometrics-for-microsoft-azure/amp/"
+title: "Microsoft unveils Azure for Operators in most aggressive cloud telco pursuit to date"
+excerpt: "Microsoft has announced the launch of Azure for Operators to begin what the company calls 'a new chapter' in its telecoms industry collaboration."
+publishedDateTime: 2020-09-28T17:53:00Z
+originalUrl: "https://cloudcomputing-news.net/news/2020/sep/28/microsoft-unveils-azure-for-operators-in-most-aggressive-cloud-telco-pursuit-to-date/"
+webUrl: "https://cloudcomputing-news.net/news/2020/sep/28/microsoft-unveils-azure-for-operators-in-most-aggressive-cloud-telco-pursuit-to-date/"
 type: article
-quality: 57
+quality: 30
 heat: -1
 published: false
 
 provider:
-  name: pymnts.com
-  domain: pymnts.com
+  name: Cloud Computing
+  domain: cloudcomputing-news.net
 
 topics:
   - Azure
 
 images:
-  - url: "https://securecdn.pymnts.com/wp-content/uploads/2020/09/identity-verification-artifical-intelligence-457x305.jpg"
-    width: 457
-    height: 305
+  - url: "https://cloudcomputing-news.net/wp-content/uploads/sites/2/2020/03/iStock-458544341_dqOApoY.jpg"
+    width: 1254
+    height: 836
     isCached: true
 
 related:
@@ -447,6 +445,22 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 57
+  - title: "Jumio Unveils Identity Verification With Biometrics For Microsoft Azure"
+    excerpt: "California-based Jumio said its artificial intelligence (AI)-fueled identity verification offerings are now available to Microsoft Azure Active Directory External Identities for business-to-consumer (B2C) clients. The technology allows for a biometric and ..."
+    publishedDateTime: 2020-09-23T19:13:00Z
+    webUrl: "https://www.pymnts.com/safety-and-security/2020/jumio-unveils-identity-verification-with-biometrics-for-microsoft-azure/"
+    ampWebUrl: "https://www.pymnts.com/safety-and-security/2020/jumio-unveils-identity-verification-with-biometrics-for-microsoft-azure/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/safety-and-security/2020/jumio-unveils-identity-verification-with-biometrics-for-microsoft-azure/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 57
+    images:
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2020/09/identity-verification-artifical-intelligence-457x305.jpg"
+        width: 457
+        height: 305
+        isCached: true
   - title: "TCS Quartz? suite becomes available on Microsoft Azure Blockchain Service"
     excerpt: "Tata Consultancy Services announced the general availability of its award winning Quartz? suite of blockchain based solutions on Microsoft Azure Blockchain Service. The Quartz suite of products helps organizations set up truly connected ecosystems ..."
     publishedDateTime: 2020-09-21T07:04:00Z
@@ -895,20 +909,6 @@ related:
         width: 750
         height: 500
         isCached: true
-  - title: "Microsoft unveils Azure for Operators in most aggressive cloud telco pursuit to date"
-    excerpt: "Microsoft has announced the launch of Azure for Operators to begin what the company calls 'a new chapter' in its telecoms industry collaboration."
-    publishedDateTime: 2020-09-28T17:53:00Z
-    webUrl: "https://cloudcomputing-news.net/news/2020/sep/28/microsoft-unveils-azure-for-operators-in-most-aggressive-cloud-telco-pursuit-to-date/"
-    type: article
-    provider:
-      name: Cloud Computing
-      domain: cloudcomputing-news.net
-    quality: 30
-    images:
-      - url: "https://cloudcomputing-news.net/wp-content/uploads/sites/2/2020/03/iStock-458544341_dqOApoY.jpg"
-        width: 1254
-        height: 836
-        isCached: true
   - title: "CORRECTING and REPLACING SES Becomes Microsoft Azure Orbital Founding Connectivity Partner"
     excerpt: "SES’s proven low-latency MEO managed services to be part of Microsoft’s new multi-orbit satellite connectivity integrated with Azure, promising optimized cloud application performance for O3b mPOWER customers SES today announced it has joined as the ..."
     publishedDateTime: 2020-09-23T15:00:00Z
@@ -1137,6 +1137,6 @@ related:
         height: 450
         isCached: true
 
-secured: "MLNW+8a3sSI8jIg17gn92RpwRvo7ug31EIAD9pRz0OvSEJD9J7tXe3XbHhiBGCSGzu1ObUIsqbcZsSVrKEUBOPVKUYF+KnDvlcDtlM6DhX2YFaxSOdqBvTPBy76XO5T7T5cdUcKC6OroTmEdUuqdDX0GNgUuyGcHgq4SdssUg9kr0bu5V/vOQqoNqRlQh+NfHW1mpyqFpFIWltcnNk/5Jgv89M0tU0WYgzkfStdOGR+/+O9DdvJJqeR98Xvi0r6Vki/xZ3FustTZerHAYxUD76ALafWV+n7yOHUVIFzRjcfSh8zILk4Kt59okfUllpP12KXsiYPG4ix3G8YLPPnBBIu6OZg9snWCPl59w/LiMf3fzvFUyf6oVlyH+dl2CePbCGbsherRoCgTm4fCLc+fv/I9Awq28YvdgQYRz7wOsNQRg4cwvC1H2blDVcAo+irM7DWBlyF/mMn2Y7S67gHY9LrFBwxiFtxmUnpN1znxHehAheh/FFf7TVs7QJJU/+zuv8as/fYpDlCia8NbTK18VQ==;e1WUxyEXNjcpIOMkSrUe9Q=="
+secured: "6Lnfz4Y+mhb1si1RW1NdthoPAeWjOyFOTNa+tNyrEictj1MxQxTwUawWuf9JhPK/JBnTVbs9stC+cxulcPn4KbkklRdovG2wvWMfF7bQK40IhTlFn61a6pgLXSzhBWeaGT47KJKx+7eN52N0jkQWY5RIHTvy40598T106V2COpGTVDzUsD94PQOSPamWl8hgHCizPzFD4qatuSqrzcZv1O4lTFi1jSeaDlrpagCcK9wKITiaeRJxoZL8wzwLJqOpvLsGnlOmLq8btGd++qjOj8trM0H148Y5yoxYFKLAF3E+bLYyZMQS9EVP0swM4Pst8cWUWjwKLwNWp5Lb7zrvQXbM1yvF6x/HW9kt41HvAZk=;J0hZ+afxyMrMTtJV1MhA7w=="
 ---
 

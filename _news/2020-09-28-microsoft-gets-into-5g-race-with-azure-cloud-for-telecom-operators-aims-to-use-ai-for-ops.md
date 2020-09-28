@@ -1,28 +1,27 @@
 ---
 category: news
-title: "Jumio Unveils Identity Verification With Biometrics For Microsoft Azure"
-excerpt: "California-based Jumio said its artificial intelligence (AI)-fueled identity verification offerings are now available to Microsoft Azure Active Directory External Identities for business-to-consumer (B2C) clients. The technology allows for a biometric and ..."
-publishedDateTime: 2020-09-23T19:13:00Z
-originalUrl: "https://www.pymnts.com/safety-and-security/2020/jumio-unveils-identity-verification-with-biometrics-for-microsoft-azure/"
-webUrl: "https://www.pymnts.com/safety-and-security/2020/jumio-unveils-identity-verification-with-biometrics-for-microsoft-azure/"
-ampWebUrl: "https://www.pymnts.com/safety-and-security/2020/jumio-unveils-identity-verification-with-biometrics-for-microsoft-azure/amp/"
-cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/safety-and-security/2020/jumio-unveils-identity-verification-with-biometrics-for-microsoft-azure/amp/"
+title: "Microsoft gets into 5G race with Azure cloud for telecom operators, aims to use AI for ops"
+excerpt: "After banning China's Huawei [HWT.UL] from its telecom network, the U.S. government has been pushing big American companies such as Microsoft to get more involved with 5G - a technology which promises to enable everything from self-driving cars to remote surgery and more automated manufacturing."
+publishedDateTime: 2020-09-28T16:08:00Z
+originalUrl: "https://economictimes.indiatimes.com/news/international/business/microsoft-gets-into-5g-race-with-azure-cloud-for-telecom-operators-aims-to-use-ai-for-ops/articleshow/78369231.cms"
+webUrl: "https://economictimes.indiatimes.com/news/international/business/microsoft-gets-into-5g-race-with-azure-cloud-for-telecom-operators-aims-to-use-ai-for-ops/articleshow/78369231.cms"
 type: article
-quality: 57
+quality: 44
 heat: -1
 published: false
 
 provider:
-  name: pymnts.com
-  domain: pymnts.com
+  name: India Times
+  domain: indiatimes.com
 
 topics:
   - Azure
+  - AI
 
 images:
-  - url: "https://securecdn.pymnts.com/wp-content/uploads/2020/09/identity-verification-artifical-intelligence-457x305.jpg"
-    width: 457
-    height: 305
+  - url: "https://img.etimg.com/thumb/msid-78369266,width-1070,height-580,imgsize-526261,overlay-economictimes/photo.jpg"
+    width: 1070
+    height: 580
     isCached: true
 
 related:
@@ -447,6 +446,22 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 57
+  - title: "Jumio Unveils Identity Verification With Biometrics For Microsoft Azure"
+    excerpt: "California-based Jumio said its artificial intelligence (AI)-fueled identity verification offerings are now available to Microsoft Azure Active Directory External Identities for business-to-consumer (B2C) clients. The technology allows for a biometric and ..."
+    publishedDateTime: 2020-09-23T19:13:00Z
+    webUrl: "https://www.pymnts.com/safety-and-security/2020/jumio-unveils-identity-verification-with-biometrics-for-microsoft-azure/"
+    ampWebUrl: "https://www.pymnts.com/safety-and-security/2020/jumio-unveils-identity-verification-with-biometrics-for-microsoft-azure/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/safety-and-security/2020/jumio-unveils-identity-verification-with-biometrics-for-microsoft-azure/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 57
+    images:
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2020/09/identity-verification-artifical-intelligence-457x305.jpg"
+        width: 457
+        height: 305
+        isCached: true
   - title: "TCS Quartz? suite becomes available on Microsoft Azure Blockchain Service"
     excerpt: "Tata Consultancy Services announced the general availability of its award winning Quartz? suite of blockchain based solutions on Microsoft Azure Blockchain Service. The Quartz suite of products helps organizations set up truly connected ecosystems ..."
     publishedDateTime: 2020-09-21T07:04:00Z
@@ -569,20 +584,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 48
-  - title: "Microsoft gets into 5G race with Azure cloud for telecom operators, aims to use AI for ops"
-    excerpt: "After banning China's Huawei [HWT.UL] from its telecom network, the U.S. government has been pushing big American companies such as Microsoft to get more involved with 5G - a technology which promises to enable everything from self-driving cars to remote surgery and more automated manufacturing."
-    publishedDateTime: 2020-09-28T16:08:00Z
-    webUrl: "https://economictimes.indiatimes.com/news/international/business/microsoft-gets-into-5g-race-with-azure-cloud-for-telecom-operators-aims-to-use-ai-for-ops/articleshow/78369231.cms"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 44
-    images:
-      - url: "https://img.etimg.com/thumb/msid-78369266,width-1070,height-580,imgsize-526261,overlay-economictimes/photo.jpg"
-        width: 1070
-        height: 580
-        isCached: true
   - title: "Microsoft Cloud Gaming Is As Good As Your Internet Connection"
     excerpt: "Mobile connection, Microsoft Cloud Gaming works like a charm. Shooters like Halo 5 stream without stutter. Fighters like Marvel vs. Capcom Ultimate are passable for casual play. If I switch to the spotty wireless shared by my entire household,"
     publishedDateTime: 2020-09-16T17:10:00Z
@@ -1137,6 +1138,6 @@ related:
         height: 450
         isCached: true
 
-secured: "MLNW+8a3sSI8jIg17gn92RpwRvo7ug31EIAD9pRz0OvSEJD9J7tXe3XbHhiBGCSGzu1ObUIsqbcZsSVrKEUBOPVKUYF+KnDvlcDtlM6DhX2YFaxSOdqBvTPBy76XO5T7T5cdUcKC6OroTmEdUuqdDX0GNgUuyGcHgq4SdssUg9kr0bu5V/vOQqoNqRlQh+NfHW1mpyqFpFIWltcnNk/5Jgv89M0tU0WYgzkfStdOGR+/+O9DdvJJqeR98Xvi0r6Vki/xZ3FustTZerHAYxUD76ALafWV+n7yOHUVIFzRjcfSh8zILk4Kt59okfUllpP12KXsiYPG4ix3G8YLPPnBBIu6OZg9snWCPl59w/LiMf3fzvFUyf6oVlyH+dl2CePbCGbsherRoCgTm4fCLc+fv/I9Awq28YvdgQYRz7wOsNQRg4cwvC1H2blDVcAo+irM7DWBlyF/mMn2Y7S67gHY9LrFBwxiFtxmUnpN1znxHehAheh/FFf7TVs7QJJU/+zuv8as/fYpDlCia8NbTK18VQ==;e1WUxyEXNjcpIOMkSrUe9Q=="
+secured: "n+/IYfULoDmM4FH3NuafylThOxZ2JFSHvyxsoWu8Fla/npl05SL6sSdfJewEclYOTR/KP+g8P22niir32wBJUrX4RpYXpZ3YL2qrHFl56jYj4SUZmLsTav09Ifdgd1T/K20xzQFm3XaM1HsrChiNyTz35FQEGBH+a+MoUaIVQfLyEGtUve+JxFG/1Hc/XNPEan5NEJXrDewn6QaxXTUFvPzBPu7QiBxdFzOux33yYKGfcn1GjTYj/lffwmm14XTPFk22GtEBVhSlLSsOFgk/MoNHGPTtO2HD/IylrWoMlZzuxhBDBl4nh1SeGmZohZ2gz1pISZjjgfSXKHXEQoDDy42kL5Ndz0DG97wKr1C/7AU=;c8WZV0icn3iExGa7eZwKGg=="
 ---
 

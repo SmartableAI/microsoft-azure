@@ -1,26 +1,29 @@
 ---
 category: news
-title: "New MERGE command for Azure Synapse Analytics"
-excerpt: "Users can now synchronize two tables in a single step, streamlining the data processing using a single step statement while improving code readability and debugging."
-publishedDateTime: 2020-09-23T16:00:13Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/new-merge-command-for-azure-synapse-analytics/"
-webUrl: "https://azure.microsoft.com/en-us/updates/new-merge-command-for-azure-synapse-analytics/"
+title: "Microsoft gets into 5G race with Azure cloud"
+excerpt: "Microsoft unveiled a new cloud platform on Monday aimed at enabling telecom operators to build 5G networks faster"
+publishedDateTime: 2020-09-28T15:43:00Z
+originalUrl: "https://arynews.tv/en/microsoft-5g-azure-cloud/"
+webUrl: "https://arynews.tv/en/microsoft-5g-azure-cloud/"
+ampWebUrl: "https://arynews.tv/en/microsoft-5g-azure-cloud/amp/"
+cdnAmpWebUrl: "https://arynews-tv.cdn.ampproject.org/c/s/arynews.tv/en/microsoft-5g-azure-cloud/amp/"
 type: article
-quality: 99
+quality: 57
 heat: -1
 published: false
 
 provider:
-  name: Microsoft
-  domain: microsoft.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: ARY News Live
+  domain: arynews.tv
 
 topics:
   - Azure
-  - Analytics
+
+images:
+  - url: "https://arynews.tv/wp-content/uploads/2020/09/Azure.jpg"
+    width: 750
+    height: 369
+    isCached: true
 
 related:
   - title: "Microsoft: Azure-based Sentinel security gets new analytics to spot threats in odd behavior"
@@ -52,6 +55,15 @@ related:
     excerpt: "The COPY command can now automatically parse your files to calculate file splits and can evenly distribute data chunks across the Synapse SQL compute nodes for parallel ingestion. "
     publishedDateTime: 2020-09-23T16:00:13Z
     webUrl: "https://azure.microsoft.com/en-us/updates/copy-command-now-generally-available-in-azure-synapse-analytics/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 99
+  - title: "New MERGE command for Azure Synapse Analytics"
+    excerpt: "Users can now synchronize two tables in a single step, streamlining the data processing using a single step statement while improving code readability and debugging."
+    publishedDateTime: 2020-09-23T16:00:13Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/new-merge-command-for-azure-synapse-analytics/"
     type: article
     provider:
       name: Microsoft
@@ -178,22 +190,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 63
-  - title: "Microsoft gets into 5G race with Azure cloud"
-    excerpt: "Microsoft unveiled a new cloud platform on Monday aimed at enabling telecom operators to build 5G networks faster"
-    publishedDateTime: 2020-09-28T15:43:00Z
-    webUrl: "https://arynews.tv/en/microsoft-5g-azure-cloud/"
-    ampWebUrl: "https://arynews.tv/en/microsoft-5g-azure-cloud/amp/"
-    cdnAmpWebUrl: "https://arynews-tv.cdn.ampproject.org/c/s/arynews.tv/en/microsoft-5g-azure-cloud/amp/"
-    type: article
-    provider:
-      name: ARY News Live
-      domain: arynews.tv
-    quality: 57
-    images:
-      - url: "https://arynews.tv/wp-content/uploads/2020/09/Azure.jpg"
-        width: 750
-        height: 369
-        isCached: true
   - title: "Course 552241-A: Microsoft Azure Big Data Analytics Solutions"
     excerpt: "A is a two-day instructor-led course is intended for data professionals who want to expand their knowledge about creating big data analytic solutions on Microsoft Azure. Students will learn how to design solutions for batch and real-time data processing."
     publishedDateTime: 2020-07-01T21:48:00Z
@@ -302,6 +298,6 @@ related:
       domain: computerworld.com
     quality: 17
 
-secured: "AWrFmHzrswRt9A6xkNjDeR6TJGnSB5PTVVRW67pVnxu4UneA8k6N8ZjJ2HKqE45RFHyl28bHGXsp6PZvD8t5QGyeWBNzBNmfmFwA2Qh5xU8j3n81NDoa8g3rezxp4aICDRqotQHn3OMxb4VP/XtlM70o7Rp/JJtrZzMod3s1nGk4f2bKISSNobEg8N1lkxlvMtXFTYxpw4gTbyzZusyMBJN5qxy6wz7CUKqRDJwMj4HIszDj0GfZPqrBCqNkDg94a1/ZKuUkhHpxrAaTfBO50XH5eSYSaoxMsQTFgsP46JcB5dwGcW6qSa73b9wEDyXWMrgkPZ47yJTgsGywNlfFjRJfNfEvkpXxqRXMrb0m7Pc=;Y8jt0EhEryazGYnsmPLugA=="
+secured: "spwLEcjmwq6Je+rFPYYF5H3olhaeCIhg/mGIKqwH/VngrykyLUcRTZDLjJLrtHBn3oy6J1WIZZRhOhgWOi1JpsqDVfkEzKYm3H7WzuPwTW9WsR0iHtWw6FODy6AFPnh6+opdBvQwwwwvUqdtns/iGSU83lcH+guFj3h8lfJWWarvuG+/eZrVoh1Y90EuwIxS3InEHnMz+H1mxubLjZ+WZoY8ly0GTC5tJ25ES9qZsOqPGtjXH/QYi5TI/K48d4jHwAng7HNvjO4ifqhbg13hu1wFlLN9yA5ZlaN7BkLBI7t8o+R5balVKiC8kN+UIYLHJfW5Bw3tTjna264lwyJBm0IWIUDNa57oIm+7XTfjcOM=;TZjVShdWlPcQ5m4gcjzeKA=="
 ---
 

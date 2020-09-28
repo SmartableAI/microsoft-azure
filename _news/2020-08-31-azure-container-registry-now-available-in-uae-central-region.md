@@ -22,6 +22,15 @@ topics:
   - Azure
 
 related:
+  - title: "Azure Container Registry now available in several new regions"
+    excerpt: "Azure Container Registry is now generally available in US Gov Texas, Germany West Central, and Brazil Southeast regions bringing the number of Azure regions that it’s available in to 38."
+    publishedDateTime: 2020-09-28T16:40:52Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-container-registry-now-available-in-several-new-regions/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
   - title: "Azure Container Registry now available in Switzerland West region"
     excerpt: "Azure Container Registry is now generally available in the Switzerland West region, bringing the total number of Azure regions that it's available in to 35. See the list of all regions where Azure Container Registry is available and where it's coming next."
     publishedDateTime: 2020-08-31T18:46:09Z
@@ -31,19 +40,19 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
-  - title: "Azure Media Services is now available in Switzerland and Germany"
-    excerpt: ""
-    publishedDateTime: 2020-05-20T16:00:28Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-media-services-is-now-available-in-switzerland-and-germany/"
+  - title: "Azure Blob storage point-in-time restore now generally available"
+    excerpt: "Azure Blob storage point-in-time restore provides continuous data protection and restoration capabilities for block blob data. This extends protection features to provide an easy way to restore to a previous date/time"
+    publishedDateTime: 2020-09-23T23:21:14Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-blob-storage-pointintime-restore-now-generally-available/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 17
-  - title: "Azure DevTest Labs is now available in Switzerland regions"
+    quality: 67
+  - title: "Azure Container Registry diagnostic logs now generally available"
     excerpt: ""
-    publishedDateTime: 2020-05-27T16:00:01Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-devtest-labs-is-now-available-in-switzerland-regions/"
+    publishedDateTime: 2020-05-19T16:05:39Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-container-registry-diagnostic-logs-now-generally-available/"
     type: article
     provider:
       name: Microsoft

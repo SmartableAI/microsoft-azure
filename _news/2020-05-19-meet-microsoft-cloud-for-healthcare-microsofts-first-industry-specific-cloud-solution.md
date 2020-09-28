@@ -560,6 +560,22 @@ related:
         width: 304
         height: 405
         isCached: true
+  - title: "The battle for the telco cloud intensifies as Microsoft announces Azure for Operators"
+    excerpt: "The telco cloud is key to supporting 5G, applying AI to network services, and building an agile infrastructure Microsoft want to be a trusted telco partner"
+    publishedDateTime: 2020-09-28T17:13:00Z
+    webUrl: "https://www.telecomtv.com/content/emerging-tech/the-battle-for-the-telco-cloud-is-joined-as-microsoft-announces-azure-for-operators-39772/"
+    ampWebUrl: "https://www.telecomtv.com/content/emerging-tech/the-battle-for-the-telco-cloud-is-joined-as-microsoft-announces-azure-for-operators-39772/amp/"
+    cdnAmpWebUrl: "https://www-telecomtv-com.cdn.ampproject.org/c/s/www.telecomtv.com/content/emerging-tech/the-battle-for-the-telco-cloud-is-joined-as-microsoft-announces-azure-for-operators-39772/amp/"
+    type: article
+    provider:
+      name: TelecomTV
+      domain: telecomtv.com
+    quality: 50
+    images:
+      - url: "https://assets.telecomtv.com/assets/telecomtv/cloud-native-telco-bg-web-8390.jpg?w=1200"
+        width: 1050
+        height: 750
+        isCached: true
   - title: "Microsoft Cloud for Healthcare will be generally available on October 30, 2020"
     excerpt: "Microsoft Cloud for Healthcare will help organizations adapt and build scalable modalities of care while safeguarding patients, care teams, and assets. "
     publishedDateTime: 2020-09-22T16:05:32Z
@@ -569,6 +585,20 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 48
+  - title: "Microsoft gets into 5G race with Azure cloud for telecom operators, aims to use AI for ops"
+    excerpt: "After banning China's Huawei [HWT.UL] from its telecom network, the U.S. government has been pushing big American companies such as Microsoft to get more involved with 5G - a technology which promises to enable everything from self-driving cars to remote surgery and more automated manufacturing."
+    publishedDateTime: 2020-09-28T16:08:00Z
+    webUrl: "https://economictimes.indiatimes.com/news/international/business/microsoft-gets-into-5g-race-with-azure-cloud-for-telecom-operators-aims-to-use-ai-for-ops/articleshow/78369231.cms"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 44
+    images:
+      - url: "https://img.etimg.com/thumb/msid-78369266,width-1070,height-580,imgsize-526261,overlay-economictimes/photo.jpg"
+        width: 1070
+        height: 580
+        isCached: true
   - title: "Microsoft Cloud Gaming Is As Good As Your Internet Connection"
     excerpt: "Mobile connection, Microsoft Cloud Gaming works like a charm. Shooters like Halo 5 stream without stutter. Fighters like Marvel vs. Capcom Ultimate are passable for casual play. If I switch to the spotty wireless shared by my entire household,"
     publishedDateTime: 2020-09-16T17:10:00Z
@@ -864,6 +894,20 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/09/unsplash.jpg"
         width: 750
         height: 500
+        isCached: true
+  - title: "Microsoft unveils Azure for Operators in most aggressive cloud telco pursuit to date"
+    excerpt: "Microsoft has announced the launch of Azure for Operators to begin what the company calls 'a new chapter' in its telecoms industry collaboration."
+    publishedDateTime: 2020-09-28T17:53:00Z
+    webUrl: "https://cloudcomputing-news.net/news/2020/sep/28/microsoft-unveils-azure-for-operators-in-most-aggressive-cloud-telco-pursuit-to-date/"
+    type: article
+    provider:
+      name: Cloud Computing
+      domain: cloudcomputing-news.net
+    quality: 30
+    images:
+      - url: "https://cloudcomputing-news.net/wp-content/uploads/sites/2/2020/03/iStock-458544341_dqOApoY.jpg"
+        width: 1254
+        height: 836
         isCached: true
   - title: "CORRECTING and REPLACING SES Becomes Microsoft Azure Orbital Founding Connectivity Partner"
     excerpt: "SES’s proven low-latency MEO managed services to be part of Microsoft’s new multi-orbit satellite connectivity integrated with Azure, promising optimized cloud application performance for O3b mPOWER customers SES today announced it has joined as the ..."

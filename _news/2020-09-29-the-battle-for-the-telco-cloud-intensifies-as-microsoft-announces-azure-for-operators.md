@@ -1,28 +1,28 @@
 ---
 category: news
-title: "Jumio Unveils Identity Verification With Biometrics For Microsoft Azure"
-excerpt: "California-based Jumio said its artificial intelligence (AI)-fueled identity verification offerings are now available to Microsoft Azure Active Directory External Identities for business-to-consumer (B2C) clients. The technology allows for a biometric and ..."
-publishedDateTime: 2020-09-23T19:13:00Z
-originalUrl: "https://www.pymnts.com/safety-and-security/2020/jumio-unveils-identity-verification-with-biometrics-for-microsoft-azure/"
-webUrl: "https://www.pymnts.com/safety-and-security/2020/jumio-unveils-identity-verification-with-biometrics-for-microsoft-azure/"
-ampWebUrl: "https://www.pymnts.com/safety-and-security/2020/jumio-unveils-identity-verification-with-biometrics-for-microsoft-azure/amp/"
-cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/safety-and-security/2020/jumio-unveils-identity-verification-with-biometrics-for-microsoft-azure/amp/"
+title: "The battle for the telco cloud intensifies as Microsoft announces Azure for Operators"
+excerpt: "The telco cloud is key to supporting 5G, applying AI to network services, and building an agile infrastructure Microsoft want to be a trusted telco partner"
+publishedDateTime: 2020-09-28T17:13:00Z
+originalUrl: "https://www.telecomtv.com/content/emerging-tech/the-battle-for-the-telco-cloud-is-joined-as-microsoft-announces-azure-for-operators-39772/"
+webUrl: "https://www.telecomtv.com/content/emerging-tech/the-battle-for-the-telco-cloud-is-joined-as-microsoft-announces-azure-for-operators-39772/"
+ampWebUrl: "https://www.telecomtv.com/content/emerging-tech/the-battle-for-the-telco-cloud-is-joined-as-microsoft-announces-azure-for-operators-39772/amp/"
+cdnAmpWebUrl: "https://www-telecomtv-com.cdn.ampproject.org/c/s/www.telecomtv.com/content/emerging-tech/the-battle-for-the-telco-cloud-is-joined-as-microsoft-announces-azure-for-operators-39772/amp/"
 type: article
-quality: 57
+quality: 50
 heat: -1
 published: false
 
 provider:
-  name: pymnts.com
-  domain: pymnts.com
+  name: TelecomTV
+  domain: telecomtv.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://securecdn.pymnts.com/wp-content/uploads/2020/09/identity-verification-artifical-intelligence-457x305.jpg"
-    width: 457
-    height: 305
+  - url: "https://assets.telecomtv.com/assets/telecomtv/cloud-native-telco-bg-web-8390.jpg?w=1200"
+    width: 1050
+    height: 750
     isCached: true
 
 related:
@@ -447,6 +447,22 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 57
+  - title: "Jumio Unveils Identity Verification With Biometrics For Microsoft Azure"
+    excerpt: "California-based Jumio said its artificial intelligence (AI)-fueled identity verification offerings are now available to Microsoft Azure Active Directory External Identities for business-to-consumer (B2C) clients. The technology allows for a biometric and ..."
+    publishedDateTime: 2020-09-23T19:13:00Z
+    webUrl: "https://www.pymnts.com/safety-and-security/2020/jumio-unveils-identity-verification-with-biometrics-for-microsoft-azure/"
+    ampWebUrl: "https://www.pymnts.com/safety-and-security/2020/jumio-unveils-identity-verification-with-biometrics-for-microsoft-azure/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/safety-and-security/2020/jumio-unveils-identity-verification-with-biometrics-for-microsoft-azure/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 57
+    images:
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2020/09/identity-verification-artifical-intelligence-457x305.jpg"
+        width: 457
+        height: 305
+        isCached: true
   - title: "TCS Quartz? suite becomes available on Microsoft Azure Blockchain Service"
     excerpt: "Tata Consultancy Services announced the general availability of its award winning Quartz? suite of blockchain based solutions on Microsoft Azure Blockchain Service. The Quartz suite of products helps organizations set up truly connected ecosystems ..."
     publishedDateTime: 2020-09-21T07:04:00Z
@@ -543,22 +559,6 @@ related:
       - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/08/31114057/insecure-66a.jpg"
         width: 304
         height: 405
-        isCached: true
-  - title: "The battle for the telco cloud intensifies as Microsoft announces Azure for Operators"
-    excerpt: "The telco cloud is key to supporting 5G, applying AI to network services, and building an agile infrastructure Microsoft want to be a trusted telco partner"
-    publishedDateTime: 2020-09-28T17:13:00Z
-    webUrl: "https://www.telecomtv.com/content/emerging-tech/the-battle-for-the-telco-cloud-is-joined-as-microsoft-announces-azure-for-operators-39772/"
-    ampWebUrl: "https://www.telecomtv.com/content/emerging-tech/the-battle-for-the-telco-cloud-is-joined-as-microsoft-announces-azure-for-operators-39772/amp/"
-    cdnAmpWebUrl: "https://www-telecomtv-com.cdn.ampproject.org/c/s/www.telecomtv.com/content/emerging-tech/the-battle-for-the-telco-cloud-is-joined-as-microsoft-announces-azure-for-operators-39772/amp/"
-    type: article
-    provider:
-      name: TelecomTV
-      domain: telecomtv.com
-    quality: 50
-    images:
-      - url: "https://assets.telecomtv.com/assets/telecomtv/cloud-native-telco-bg-web-8390.jpg?w=1200"
-        width: 1050
-        height: 750
         isCached: true
   - title: "Microsoft Cloud for Healthcare will be generally available on October 30, 2020"
     excerpt: "Microsoft Cloud for Healthcare will help organizations adapt and build scalable modalities of care while safeguarding patients, care teams, and assets. "
@@ -1137,6 +1137,6 @@ related:
         height: 450
         isCached: true
 
-secured: "MLNW+8a3sSI8jIg17gn92RpwRvo7ug31EIAD9pRz0OvSEJD9J7tXe3XbHhiBGCSGzu1ObUIsqbcZsSVrKEUBOPVKUYF+KnDvlcDtlM6DhX2YFaxSOdqBvTPBy76XO5T7T5cdUcKC6OroTmEdUuqdDX0GNgUuyGcHgq4SdssUg9kr0bu5V/vOQqoNqRlQh+NfHW1mpyqFpFIWltcnNk/5Jgv89M0tU0WYgzkfStdOGR+/+O9DdvJJqeR98Xvi0r6Vki/xZ3FustTZerHAYxUD76ALafWV+n7yOHUVIFzRjcfSh8zILk4Kt59okfUllpP12KXsiYPG4ix3G8YLPPnBBIu6OZg9snWCPl59w/LiMf3fzvFUyf6oVlyH+dl2CePbCGbsherRoCgTm4fCLc+fv/I9Awq28YvdgQYRz7wOsNQRg4cwvC1H2blDVcAo+irM7DWBlyF/mMn2Y7S67gHY9LrFBwxiFtxmUnpN1znxHehAheh/FFf7TVs7QJJU/+zuv8as/fYpDlCia8NbTK18VQ==;e1WUxyEXNjcpIOMkSrUe9Q=="
+secured: "Qx0M/nLlCdf93IBvBC3DeRzFjuuYKulNTvXOM4AKCdlstMezln8EB8ty4kmNKHNf16aSao3vjmRSVaNfk30iplSibKEJv0mNs3hdspSOUH/bQINGq2uwHSvrTAhnZTYbPb3eoFrfCpFZmUtvh6v2NRYoicIMzXZ3l550MxwitrlYDPryr12cyLQOvhXzP0NUhUschD8hcf7RyP4L+JtUvmUeKMQO/HBx62ui9zcJ/N5lq/F8spB5vemedp5Zxa6Mf8KAFLORZJxkon4aSWOKxq5KOWvQ46ErUh/X9P+INXLKkOFKPEvQK8GNKs9539HPnm9Tmx80t84INDqDm05cC4qQKz65fCFYnGGlNwgfRyE=;/trzEe4Qp+rong/k6DF6IQ=="
 ---
 
