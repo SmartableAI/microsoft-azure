@@ -8,7 +8,7 @@ length: PT34M
 ratings:
   count: 4114
   average: 4.747934
-heat: 108
+heat: 62
 
 provider:
   name: Microsoft Learn
@@ -25,6 +25,6 @@ topics:
   - Azure
   - Management Tools
 
-secured: "4T5qToudaf8+n6MZDypQehmZTSE3dcqd60+aUjN/Jm69J3Yhi/uJQ/T4SAwCPzzYKjXk5MYJ8HWqqN3KM1tH1ybFgtY5nON+REsA1GDIh2UDq/RmfSZamWqxj1YlfQB4IkJ+/JHp60omz9qmAllQBCZNx6QgkKiYnTCK020M8UlaJNTRQJ7smFsfcOECubcBqonSdNgaDL8ZTza8tEF6/SFzgalDVIkooKy4FLG/u7Ynvbo0Vp+ye2mIll4n+Y7W7eXcKWaB0yip4P7DzJRnslaIVG4HeA25ux2hle6K73oBcu/US9VY5CrsPni047/1Fvc7gUKsLap7dTQhU+ni3Z6PHeD3kgalBzVSNsLCitGhB3JdQU2yTGHugzH6h0KHbGaaL2wnIp8CRnvFY/sgoZ/3okrsd2tvqQdiVwoxi94=;BwRQqsbMHbECvtJH6JKaLA=="
+secured: "oiCsH6in9ZvTwBbt0wDnQ+6gnGJjzkt2ZIFMbJWx+l7v7ENC0Wqo2BWVQ8/yFNC5irK7Y6D+oDwMQ2ysvdgPQ/qE2lP5JV4SHJ2P6BJHWHqbmxqwaDtcxSobMD/0V1xZjAPXDIGrQjMcYQaSuwAbyMAOHO4UPf5ru0flc5hhF2d4g8h+boFrBfCF+5A/6LMITtLVA2cg0CtJf1Z3g3pxzOwiWw2LSB66ESZFLfM5nnqNVBfK1yZyHPX8r0uk5942TMQCrqo7oV/VDIUu8kxgdAMVTo3Tr6CggxFEjKbqYJpSfMpfiwQ/2fAsV+4cxSkknDKmFDmu+h4k995zAFm7VyHFpjwdflPodBPE7zrODQaRG/wQV/REjXDgIpAdct0sQ4+TwozyJuMtyoZWunIp+JFTJDimowdReDGu/OEMMTg=;DW40Kje5+Kgo4MrH4TN60A=="
 ---
 

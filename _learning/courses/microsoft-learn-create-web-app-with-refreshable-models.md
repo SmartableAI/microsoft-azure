@@ -8,7 +8,7 @@ length: PT1H22M
 ratings:
   count: 22
   average: 4.1363635
-heat: 51
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -29,6 +29,6 @@ topics:
   - Containers
   - Mobile
 
-secured: "DgwktLX/HgXLlskXpe05RfWrJQ6oAC9MeBvmXkFce6X91Hzjym7GdszymqqNl4SvvMtR7nB7IqWe9v51MuCpIs38laUwyIvVb0zB1larkVQtQXU31AXf7b7COniqtxQn0JB7+7HtHsH/S/LMsfInHjjv88u8VwuW48ro+7CxFN+XRWChnktiwgKOhslVlbdv4pJrHSiag63y0cBNUPAX505/v5jG7ZX3LqtAItHjhHZhaODEI8EGa5p0rfJPWM/jmynBMyQlo65Uwd28QDVFyrICVa71HA3AYXs47Ah7g3YYQmpR4w8mRNn7g9IAskPfsqULYP6ADxZ7+tNqgp1QiyRH+p9URcPhn0Dy377zjulT/AAKp4Ovawa9YpctrIVTcHb96bDXyK9IHFM9ZDa12o90P9bkvyW9DMVySpI2xhI=;0yGeD2EcOFnl+cbD3xyyFg=="
+secured: "ApJ25hdduP3XcvOvSBsn7+I2tJ35owuF7Wz/vWaB5Jed0BaqbmZS3w+eD9OIhL2QfN+aUHu3KZiuyqFi6Q244OFIV1CYtZyI7aHmn6fd1wJUpoWEz71wj9JXMuRUq7A4eKBkYsG/PgbpiW/mYOncg7h7M0u+T8piA2QlNgChjqXloFkDR3qG1D9r+iKNJSkLKaOPjuB1KT6nM2UgamC2XoMknbx2t2Eu7dAtLnA4Um//VFUTDWP0TVDDgmiJX14vxag0GXAcM3HwupKEbTvYd/1f/GzRGsgZGzrUuOL+2bvVeJS5li+86l9L2x1VQQO6lA0fMW7WIFNUwVySpi5UrnWTq2JdArHWmHvTGpgoeFe0dTfoqP2QCq2afjEipUarxdDzOqB+uCm7UhmpZ2tfIaBIJ3QlXkoRVVyDFltimb4=;ua+lbQ1bcc0GkBuW/VYyZw=="
 ---
 
