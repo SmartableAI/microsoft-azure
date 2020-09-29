@@ -1,27 +1,21 @@
 ---
 category: news
 title: "Scality Announces 1 Terabit Per Second Performance for Scale-Out File System in Microsoft Azure Public Cloud"
-excerpt: "Scality, a leader in software solutions for distributed file and object storage, today announced the technical preview of its"
-publishedDateTime: 2020-09-29T13:00:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/scality-announces-1-terabit-per-second-performance-for-scale-out-file-system-in-microsoft-azure-public-cloud-301138988.html"
-webUrl: "https://www.prnewswire.com/news-releases/scality-announces-1-terabit-per-second-performance-for-scale-out-file-system-in-microsoft-azure-public-cloud-301138988.html"
+excerpt: "29, 2020 /PRNewswire/ -- Scality, a leader in software solutions for distributed file and object storage, today announced the technical preview of its high-performance scale-out file system (SOFS) in Microsoft Azure. Scality SOFS running in Azure delivers ..."
+publishedDateTime: 2020-09-29T13:30:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/scality-announces-1-terabit-per-second-performance-for-scale-out-file-system-in-microsoft-azure/article_f685f50b-01a5-5b3c-b019-70e8299790d2.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/scality-announces-1-terabit-per-second-performance-for-scale-out-file-system-in-microsoft-azure/article_f685f50b-01a5-5b3c-b019-70e8299790d2.html"
 type: article
-quality: 18
+quality: 0
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - Azure
-
-images:
-  - url: "https://mma.prnewswire.com/media/519854/Scality_Logo.jpg?p=facebook"
-    width: 1740
-    height: 911
-    isCached: true
 
 related:
   - title: "Microsoft launches Azure Orbital to connect satellites to its cloud"
@@ -370,6 +364,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Microsoft (MSFT) Azure to Transform 5G Edge Cloud Computing"
+    excerpt: "Microsoft MSFT is focused on making the most of 5G networking capabilities to transform cloud and edge computing. The tech giant is working in collaboration with the telecommunications industry to develop a carrier-grade platform for edge and cloud –– Azure for Operators."
+    publishedDateTime: 2020-09-29T14:38:00Z
+    webUrl: "https://www.nasdaq.com/articles/microsoft-msft-azure-to-transform-5g-edge-cloud-computing-2020-09-29"
+    ampWebUrl: "https://www.nasdaq.com/articles/microsoft-msft-azure-to-transform-5g-edge-cloud-computing-2020-09-29?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/microsoft-msft-azure-to-transform-5g-edge-cloud-computing-2020-09-29?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 77
   - title: "Microsoft Office 365, Azure plagued by disruptions for hours"
     excerpt: "Microsoft Corp. on Monday suffered disruptions with its Office 365 workplace software tools and its Azure cloud that disabled some users for hours."
     publishedDateTime: 2020-09-29T03:04:00Z
@@ -1291,6 +1296,15 @@ related:
       name: Seeking Alpha
       domain: seekingalpha.com
     quality: 17
+  - title: "RegDOX Solutions Statement on Microsoft Azure Outage"
+    excerpt: "Along with many observers, on September 28, 2020, we learned that Microsoft Azure Public and Azure Government networks suffered a major outage involving authentication services. This outage has denied many Microsoft Azure customers access to crucial ..."
+    publishedDateTime: 2020-09-29T15:48:00Z
+    webUrl: "https://www.morningstar.com/news/business-wire/20200929005837/regdox-solutions-statement-on-microsoft-azure-outage"
+    type: article
+    provider:
+      name: Morningstar%2c Inc.
+      domain: morningstar.com
+    quality: 17
   - title: "Cobalt Iron Makes DCIG List of TOP 5 Microsoft Azure Cloud Backup Solutions"
     excerpt: "Cobalt Iron Inc., a leading provider of SaaS-based enterprise data protection, today announced that its industry-leading Compass® enterprise SaaS back"
     publishedDateTime: 2020-09-25T06:49:00Z
@@ -1324,6 +1338,6 @@ related:
         height: 450
         isCached: true
 
-secured: "WxmqYxwffAY1uaHWwgTrXSxvKK669EOZA+EfJL1WYTBvf+CJ6mVn9JSH5uBMWzHplLtRLgJ6RWtZGMzCHKYDe1BjfUr3YQyIJF+0EVqPh7/fg2Q+fL2hjklTf2bDtHTfqXJjuMDmCbCB08f4PB7ZdfYnZoxuFmVehfQqcIrhP1LvLOK2LP5cylqeOio0/o5H8uKte2+a2ibWD8hyROepC1B7wb/Qy/s1WDnNTGgISihXS8RlOHJZpT0v3XLdMN6tGkBEOwdyRH/68FUdcEzThgPH85kRDhvTS9y3Sw7EsLi29N/R13AQBRxOmVkM1k+h1nJcQ9/Bv6ra2mOjJGd0J1mKmrS599Cy8Sq/Ca1AvMw=;Si5YZ4eFUcAX75jUjFgV6Q=="
+secured: "LyEqfKPn5gjkPWQDlXKMd94ru7bYHyMKOn8vgVDxRXf61Qxa0YT1vXs6YS99GKunfRSJla1ffhZkhy3iy/UoIC8liYGGqWSRR/zXoeMeT7Gs66Ct8m6LC+d6tmYbEAI5/d+ZMcayOMlH6H1gD534j/sNykkOE0N7ckC4MGOicokpamAh5++r7iJGFNc1EaifAKNhFbdS31mSst4Q4A2zBE2YvHrRYRXG3exvW1IZRMCZ9HycCSsnjSWdfKdLNARruyxPjY0MFmr86nCzOeceB9jFHZvHacp8j5zlhxKTdMy1gImTAJu5YpPG2WnKxH46Irv7ObhHvYOaJUhP08CCtYCBoddOOsDcS86ReuSg6co=;mj1MtpzP7EcE5dLwiL1+yQ=="
 ---
 

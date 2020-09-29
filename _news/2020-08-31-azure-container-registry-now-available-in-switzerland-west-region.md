@@ -31,6 +31,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 84
+  - title: "The new Azure VMware Solution is now generally available"
+    excerpt: "Last week, during Microsoft Ignite we announced the general availability of the new Azure VMware Solution. Designed, built, and supported by Microsoft, Cloud Verified by VMware, running VMware Cloud Foundation technologies, Azure VMware Solution enables customers to extend or migrate VMware workloads"
+    publishedDateTime: 2020-09-29T08:00:03Z
+    webUrl: "https://azure.microsoft.com/blog/the-new-azure-vmware-solution-is-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 69
   - title: "Azure Container Registry now available in UAE Central region"
     excerpt: "Azure Container Registry is now generally available in the UAE Central region, bringing the total number of Azure regions that it's available in to 36. See the list of all regions where Azure Container Registry is available and where it's coming next."
     publishedDateTime: 2020-08-31T18:48:27Z

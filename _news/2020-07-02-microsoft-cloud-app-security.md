@@ -370,6 +370,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Microsoft (MSFT) Azure to Transform 5G Edge Cloud Computing"
+    excerpt: "Microsoft MSFT is focused on making the most of 5G networking capabilities to transform cloud and edge computing. The tech giant is working in collaboration with the telecommunications industry to develop a carrier-grade platform for edge and cloud –– Azure for Operators."
+    publishedDateTime: 2020-09-29T14:38:00Z
+    webUrl: "https://www.nasdaq.com/articles/microsoft-msft-azure-to-transform-5g-edge-cloud-computing-2020-09-29"
+    ampWebUrl: "https://www.nasdaq.com/articles/microsoft-msft-azure-to-transform-5g-edge-cloud-computing-2020-09-29?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/microsoft-msft-azure-to-transform-5g-edge-cloud-computing-2020-09-29?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 77
   - title: "Microsoft Office 365, Azure plagued by disruptions for hours"
     excerpt: "Microsoft Corp. on Monday suffered disruptions with its Office 365 workplace software tools and its Azure cloud that disabled some users for hours."
     publishedDateTime: 2020-09-29T03:04:00Z
@@ -1205,20 +1216,6 @@ related:
         width: 300
         height: 270
         isCached: true
-  - title: "Scality Announces 1 Terabit Per Second Performance for Scale-Out File System in Microsoft Azure Public Cloud"
-    excerpt: "Scality, a leader in software solutions for distributed file and object storage, today announced the technical preview of its"
-    publishedDateTime: 2020-09-29T13:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/scality-announces-1-terabit-per-second-performance-for-scale-out-file-system-in-microsoft-azure-public-cloud-301138988.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 18
-    images:
-      - url: "https://mma.prnewswire.com/media/519854/Scality_Logo.jpg?p=facebook"
-        width: 1740
-        height: 911
-        isCached: true
   - title: "Oracle launches Microsoft Azure cloud interconnect location in Tokyo"
     excerpt: "Oracle has expanded its cloud interoperability collaboration with Microsoft Azure into Asia with a new cloud interconnect location in Tokyo. This new Tokyo interconnection is expected to enable businesses to share data across applications running in Microsoft Azure and Oracle Cloud."
     publishedDateTime: 2020-05-11T12:17:00Z
@@ -1291,6 +1288,15 @@ related:
       name: Seeking Alpha
       domain: seekingalpha.com
     quality: 17
+  - title: "RegDOX Solutions Statement on Microsoft Azure Outage"
+    excerpt: "Along with many observers, on September 28, 2020, we learned that Microsoft Azure Public and Azure Government networks suffered a major outage involving authentication services. This outage has denied many Microsoft Azure customers access to crucial ..."
+    publishedDateTime: 2020-09-29T15:48:00Z
+    webUrl: "https://www.morningstar.com/news/business-wire/20200929005837/regdox-solutions-statement-on-microsoft-azure-outage"
+    type: article
+    provider:
+      name: Morningstar%2c Inc.
+      domain: morningstar.com
+    quality: 17
   - title: "Cobalt Iron Makes DCIG List of TOP 5 Microsoft Azure Cloud Backup Solutions"
     excerpt: "Cobalt Iron Inc., a leading provider of SaaS-based enterprise data protection, today announced that its industry-leading Compass® enterprise SaaS back"
     publishedDateTime: 2020-09-25T06:49:00Z
@@ -1323,6 +1329,15 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Scality Announces 1 Terabit Per Second Performance for Scale-Out File System in Microsoft Azure Public Cloud"
+    excerpt: "29, 2020 /PRNewswire/ -- Scality, a leader in software solutions for distributed file and object storage, today announced the technical preview of its high-performance scale-out file system (SOFS) in Microsoft Azure. Scality SOFS running in Azure delivers ..."
+    publishedDateTime: 2020-09-29T13:30:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/scality-announces-1-terabit-per-second-performance-for-scale-out-file-system-in-microsoft-azure/article_f685f50b-01a5-5b3c-b019-70e8299790d2.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 0
 
 secured: "MSSq/ZAynCNkE4JqbSoqM1zv7x66nbZwIvde4Y4exb5+4ri0pKdzhlc8rqfxIdBsHT90MNrFiHbCAAJG70ceYQ2xlJsTIGwueSR7iNRVBq7Fd6Wt3PVZtSxNhi7rbv5fMh/GtVC0ivGYLaqNZ6Tyw9ShB4Ks4oEaMi8heBCyMr7wZAB7AO1mjVEawJ6/lsN++OErkDzWabEbiuAe7KZW2eXcMABc1+t4zOIbh77ncoc70gTrGn+F3iGip2r9ErJoxGlDshrQJ4dK72o5NL7xPS6W8YP0hzWy10FmmcvlfKzpzQfPOchAvR2FElFqHDVgfwXHHBIJ1lEa/i/2vjNLk1nyJZudsuXpka7NVBAQpe+etLgfN0XFHhUMHB6qq6XEIwPk8CCsJewylCc77HARwTFiUrIeJYsVh62G5FutbxwbxtVkXZsNp9tKW+tnlJi4N0L0uHw1G9BOdEXbIX/heTvXkB82V0N89t7RVSi7D1csAEUvqNGV03FAtWF+IkKcL5Y84cXVXJUB+qv8ArxvIg==;GL5I6OgjyNz/a7pCrZ/Scg=="
 ---

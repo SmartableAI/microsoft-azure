@@ -1,34 +1,21 @@
 ---
 category: news
-title: "Azure Orbital launches Microsoft into a cloud computing space race with Amazon"
-excerpt: "The world’s largest and most northerly commercial satellite ground station, KSAT’s Svalbard Station in Norway’s Arctic archipelago, will be part of Microsoft’s Azure Orbital network. (KSAT Photo) Call it the Clash of the Cloud Titans: Today ..."
-publishedDateTime: 2020-09-22T15:02:00Z
-originalUrl: "https://www.geekwire.com/2020/azure-orbital-launches-microsoft-cloud-computing-space-race-amazon/"
-webUrl: "https://www.geekwire.com/2020/azure-orbital-launches-microsoft-cloud-computing-space-race-amazon/"
-ampWebUrl: "https://www.geekwire.com/2020/azure-orbital-launches-microsoft-cloud-computing-space-race-amazon/amp/"
-cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/azure-orbital-launches-microsoft-cloud-computing-space-race-amazon/amp/"
+title: "RegDOX Solutions Statement on Microsoft Azure Outage"
+excerpt: "Along with many observers, on September 28, 2020, we learned that Microsoft Azure Public and Azure Government networks suffered a major outage involving authentication services. This outage has denied many Microsoft Azure customers access to crucial ..."
+publishedDateTime: 2020-09-29T15:48:00Z
+originalUrl: "https://www.morningstar.com/news/business-wire/20200929005837/regdox-solutions-statement-on-microsoft-azure-outage"
+webUrl: "https://www.morningstar.com/news/business-wire/20200929005837/regdox-solutions-statement-on-microsoft-azure-outage"
 type: article
-quality: 110
+quality: 17
 heat: -1
 published: false
 
 provider:
-  name: GeekWire
-  domain: geekwire.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/geekwire.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Morningstar%2c Inc.
+  domain: morningstar.com
 
 topics:
   - Azure
-  - Networking
-
-images:
-  - url: "https://cdn.geekwire.com/wp-content/uploads/2020/09/200922-svalbard-630x321.jpg"
-    width: 630
-    height: 321
-    isCached: true
 
 related:
   - title: "Microsoft launches Azure Orbital to connect satellites to its cloud"
@@ -46,6 +33,22 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2020/09/GettyImages-687795300.jpg?w=1024"
         width: 1024
         height: 683
+        isCached: true
+  - title: "Azure Orbital launches Microsoft into a cloud computing space race with Amazon"
+    excerpt: "The world’s largest and most northerly commercial satellite ground station, KSAT’s Svalbard Station in Norway’s Arctic archipelago, will be part of Microsoft’s Azure Orbital network. (KSAT Photo) Call it the Clash of the Cloud Titans: Today ..."
+    publishedDateTime: 2020-09-22T15:02:00Z
+    webUrl: "https://www.geekwire.com/2020/azure-orbital-launches-microsoft-cloud-computing-space-race-amazon/"
+    ampWebUrl: "https://www.geekwire.com/2020/azure-orbital-launches-microsoft-cloud-computing-space-race-amazon/amp/"
+    cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/azure-orbital-launches-microsoft-cloud-computing-space-race-amazon/amp/"
+    type: article
+    provider:
+      name: GeekWire
+      domain: geekwire.com
+    quality: 110
+    images:
+      - url: "https://cdn.geekwire.com/wp-content/uploads/2020/09/200922-svalbard-630x321.jpg"
+        width: 630
+        height: 321
         isCached: true
   - title: "Microsoft Azure launches new availability zones in Canada and Australia"
     excerpt: "Microsoft Azure offers developers access to more data center regions than its competitors, but it was late to the game of offering different availability zones in those regions for high-availability use cases."
@@ -1293,15 +1296,6 @@ related:
       name: Seeking Alpha
       domain: seekingalpha.com
     quality: 17
-  - title: "RegDOX Solutions Statement on Microsoft Azure Outage"
-    excerpt: "Along with many observers, on September 28, 2020, we learned that Microsoft Azure Public and Azure Government networks suffered a major outage involving authentication services. This outage has denied many Microsoft Azure customers access to crucial ..."
-    publishedDateTime: 2020-09-29T15:48:00Z
-    webUrl: "https://www.morningstar.com/news/business-wire/20200929005837/regdox-solutions-statement-on-microsoft-azure-outage"
-    type: article
-    provider:
-      name: Morningstar%2c Inc.
-      domain: morningstar.com
-    quality: 17
   - title: "Cobalt Iron Makes DCIG List of TOP 5 Microsoft Azure Cloud Backup Solutions"
     excerpt: "Cobalt Iron Inc., a leading provider of SaaS-based enterprise data protection, today announced that its industry-leading Compass® enterprise SaaS back"
     publishedDateTime: 2020-09-25T06:49:00Z
@@ -1344,6 +1338,6 @@ related:
       domain: wfmz.com
     quality: 0
 
-secured: "FYuRUGwQrExRY/m3hgM5zMu8AEiEs1HqpgdEPfJH4bKE2t11lCIdfpId+U889ndO2Gr7PQJSMCfFRFYBNf6WyMxaUGdnPlP3f8WE+nvI20J4P7+oRrejzCT3sGiicTMvsib8ieACX1NVqZ/t3NH3ICyoIKmci76nQ0ukeBJN2S2g46aD4uaw9THQIiq513oBVX0Uo/P5S47ABHXp/rdoVxSPn9THi6o19c1OIqTygDMPRiYw8cDF0BVU66LxvMNkn7ebOjKTSUJ6w5pIAcqBXfIE0Wr1GvSdq+c2hmYREMDwKUid09DZ2a9fXsi1OVI5AtBKKe7dzL9H1/ooFLEao5LW5mePVt+GgKAyRr24Fn8sZyaFKVrzCDlysxUMLI2GHiIh2+n1dVO8D0TZsuHJZjU71Ma7bf96HEhREC39F+h3UWBWkk0zHhoQqW8kLaj6leM3NmrVR03+fTzLI2rS9famFbSxl1Ny5GHvvM8ccJJO8Hz/gplR5LNBNHoLKcxhVJcHbQRh2sZGBMyZyv+rGA==;hi04k5ycFXtD4oeUrm3IBw=="
+secured: "J/ROnyDFG19An0/5oo01YlNTdKQjaMwXkhkEF/kR3exMk4DD22yCdvNY7XNP0VdxHDfqPR8Th+PRbU0Rh6x1BLW93a7PaQh2uvq6MbatohZWTV1cu6M6EkfVoo+5/F6to6638+GrdciylR7yaGCGcCaMlvVSUK11mhZS0VP93YIyT5mGHfxO/P95mEcqfYr8akVIlUbjRg/5/T4QVCaYmykEIkkfy7KsR/lb/Ta5vfCB6p/QKjmKBazZBdyRzu/oV39VtxhQWZJ7HbjitalvmR6E5YMW6EHP6AYHiB2OFMU6aT2nGn0e7hxRwFdJf5L/1xJ7Ii5i3BAc3ESnV3RitLdvpeZPqy9oCbIhcsy5AWo=;fUULJ6Ny56g/LHolG87c+Q=="
 ---
 

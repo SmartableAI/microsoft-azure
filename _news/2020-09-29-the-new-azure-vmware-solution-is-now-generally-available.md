@@ -1,11 +1,12 @@
 ---
 category: news
-title: "Azure Container Registry diagnostic logs now generally available"
-excerpt: ""
-publishedDateTime: 2020-05-19T16:05:39Z
-webUrl: "https://azure.microsoft.com/en-us/updates/azure-container-registry-diagnostic-logs-now-generally-available/"
+title: "The new Azure VMware Solution is now generally available"
+excerpt: "Last week, during Microsoft Ignite we announced the general availability of the new Azure VMware Solution. Designed, built, and supported by Microsoft, Cloud Verified by VMware, running VMware Cloud Foundation technologies, Azure VMware Solution enables customers to extend or migrate VMware workloads"
+publishedDateTime: 2020-09-29T08:00:03Z
+originalUrl: "https://azure.microsoft.com/blog/the-new-azure-vmware-solution-is-now-generally-available/"
+webUrl: "https://azure.microsoft.com/blog/the-new-azure-vmware-solution-is-now-generally-available/"
 type: article
-quality: 17
+quality: 69
 heat: -1
 published: false
 
@@ -19,6 +20,7 @@ provider:
 
 topics:
   - Azure
+  - Compute
 
 related:
   - title: "Azure Container Registry now available in several new regions"
@@ -30,15 +32,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 84
-  - title: "The new Azure VMware Solution is now generally available"
-    excerpt: "Last week, during Microsoft Ignite we announced the general availability of the new Azure VMware Solution. Designed, built, and supported by Microsoft, Cloud Verified by VMware, running VMware Cloud Foundation technologies, Azure VMware Solution enables customers to extend or migrate VMware workloads"
-    publishedDateTime: 2020-09-29T08:00:03Z
-    webUrl: "https://azure.microsoft.com/blog/the-new-azure-vmware-solution-is-now-generally-available/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 69
   - title: "Azure Container Registry now available in Switzerland West region"
     excerpt: "Azure Container Registry is now generally available in the Switzerland West region, bringing the total number of Azure regions that it's available in to 35. See the list of all regions where Azure Container Registry is available and where it's coming next."
     publishedDateTime: 2020-08-31T18:46:09Z
@@ -66,7 +59,16 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
+  - title: "Azure Container Registry diagnostic logs now generally available"
+    excerpt: ""
+    publishedDateTime: 2020-05-19T16:05:39Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-container-registry-diagnostic-logs-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 17
 
-secured: "WqiR+Um643/az0rt79Usq0kCgPGZKHOD6qrV7CjIp3rcWMMSOuwnqPdaPh5l7K86Njc2kbg1BW72gzWV/vNlJ0IzPQYozR0LbvamXjVb4xVW3XVF6Teinkk+D5mpWoniApPbGQ6U0/+Eiohrtrvuk2Zja8cy4XDLFHOWXZWG429KilJeYFh2F4FKPM1l28sz8MS6oG6iy0d6wTkORitnzNOY94aIVYZ7A/jbY8Mt5pEkyPo7kWYHV/MXB+wIcJA9QL6OcjKz/SoDyYve0H4quKM3gh7FjOTkDoK6pskMc80DxToNjL+T/8l98H7VRWeouL7PRwF5AnuIDAXRTINcpg==;U341ayGlpByUxWPH/T9+ew=="
+secured: "QrjeKIqgnwVGJ/iWVq6WLRZyF2Iw0p8UiTSIG2AK393TPbk1NYWwgC6AFoLSor4aAPbsNRDOveT0eAPCmTlzvoUy9uQq0j2+CdI5+ELWAUYBwhKtpe5SENUWRU2yLoAXCwUYGMHGgdlbgwSvyeyd2QKcuyXBKQZ+JxwZRM0cu8xPBBf53spj5UsxQV6TJ6L1+eEf+msNNwMbQ2vRWsV5s3BtM+qJ16rAO7beFNGNu8NLjL5rGRc2aObgcg7y8K+3ScnBTbgSF6vLnxgK8+44bd4wA39g20K/tEIglX+ySW+V6rORwDY++vof1B2JqthGPDNt/MuBm60ovwuhBZxz8A9mXoRYkAeNVfV6Lpo07R4=;tYZ6DrT21npaVrKGRb7VQA=="
 ---
 

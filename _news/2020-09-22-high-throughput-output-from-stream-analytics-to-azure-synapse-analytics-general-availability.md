@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/high-throughput-output-f
 webUrl: "https://azure.microsoft.com/en-us/updates/high-throughput-output-from-stream-analytics-to-azure-synapse-analytics-general-availability/"
 type: article
 quality: 87
-heat: 127
+heat: 147
 published: true
 
 provider:
@@ -32,6 +32,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
+  - title: "General Availability: Application Insight in UK West"
+    excerpt: "Application Insight, a part of Azure Monitor,  is now generally available in the UK West region for customers to collect telemetry and analyze their service health in production environments. "
+    publishedDateTime: 2020-09-29T15:23:28Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-application-insight-in-uk-west/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 52
   - title: "High throughput output from Stream Analytics to Azure Synapse Analytics (preview)"
     excerpt: ""
     publishedDateTime: 2020-05-19T17:00:14Z

@@ -1,11 +1,12 @@
 ---
 category: news
-title: "High throughput output from Stream Analytics to Azure Synapse Analytics (preview)"
-excerpt: ""
-publishedDateTime: 2020-05-19T17:00:14Z
-webUrl: "https://azure.microsoft.com/en-us/updates/high-throughput-output-to-azure-synapse-analytics-from-stream-analytics-preview/"
+title: "General Availability: Application Insight in UK West"
+excerpt: "Application Insight, a part of Azure Monitor,  is now generally available in the UK West region for customers to collect telemetry and analyze their service health in production environments. "
+publishedDateTime: 2020-09-29T15:23:28Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/general-availability-application-insight-in-uk-west/"
+webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-application-insight-in-uk-west/"
 type: article
-quality: 12
+quality: 52
 heat: -1
 published: false
 
@@ -39,16 +40,16 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
-  - title: "General Availability: Application Insight in UK West"
-    excerpt: "Application Insight, a part of Azure Monitor,  is now generally available in the UK West region for customers to collect telemetry and analyze their service health in production environments. "
-    publishedDateTime: 2020-09-29T15:23:28Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-application-insight-in-uk-west/"
+  - title: "High throughput output from Stream Analytics to Azure Synapse Analytics (preview)"
+    excerpt: ""
+    publishedDateTime: 2020-05-19T17:00:14Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/high-throughput-output-to-azure-synapse-analytics-from-stream-analytics-preview/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 52
+    quality: 12
 
-secured: "V2qTaJWlDT1lFmAW01n+op3PEX5wdAiJahe2+n+rRXi5qAEnmYdQnYE4mda6EDeN0d1RlBcnPeONTPKAwwwW1HFIEpgeB7utjmq2RCoZzT4vlZSAbqz1efHvJ5291bIKA5jEo7INKlfCpMVWTuUI4cqmgHUPAGjk9hvLP/RHwj9BiDXEmumhUJYKzVHc7we7BFqZApztg9RS6kHBzaEDm4GwsLijDEaIp7tYJdintVVyC0GKlZvJytz+l4+YQIFyWdk6I3bKXuSfG3sAnebD1bJee7oCYCcyZ1DMIn9OCxrL65B7liqry0qcG0JscR/pHsBpxtKlrl7TXcT2XZgeNQ==;gxTYRC7+kfidgSpRug0FmA=="
+secured: "Lbhi0o3rgOmaYogEf/BFGMOVH01cBT7XJ6+TLjA+GmG+PvCelUfUbZZEhEBanCrdYjJ2HXNjP3/9zRJhZ4ZkiAoaATXXh87kZ8feHQAeQTovj2n+3ZadmF9LhL8zfAEuqnvHhy2I6sh5+CNpkeWIq2r09WtPjWAu0n62ZJ7HxrL7ghWsQwwj+wTLIc2Tem4xKVkFVigX/0KrRI6FAK/h5+JNPceZiukGSG4gwU5UfjBxJ9NUXUZNSItRbkquo+axsdcsIHl6Wid/QOzyOtiD+pZFkP0Uudm/b/1ViUIrar7Vx282FheHRRCefFDuVOR8ciNSZqILU3bXYuQsbEOZN3YJV7zUa0M3cttKX2h8naY=;UjZ6sXajxAwxXynn9TNEDA=="
 ---
 
