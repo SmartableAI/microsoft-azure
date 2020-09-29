@@ -1,13 +1,14 @@
 ---
 category: news
-title: "A closer look at Microsoft Azure Synapse Analytics"
-excerpt: "Roughly six months after its unveiling at the Ignite conference last fall, Microsoft took a group of analysts and MVP professionals on a deep dive into the Azure Synapse Analytics service. As noted in Andrew's coverage last fall, Azure Synapse Analytics is a rebrand and evolution of Azure SQL Data Warehouse, broadening its footprint to span ..."
-publishedDateTime: 2020-04-14T12:00:00Z
-webUrl: "https://www.zdnet.com/article/a-closer-look-at-microsoft-azure-synapse-analytics/"
-ampWebUrl: "https://www.zdnet.com/google-amp/article/a-closer-look-at-microsoft-azure-synapse-analytics/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/a-closer-look-at-microsoft-azure-synapse-analytics/"
+title: "Microsoft adds more devices and services to its Azure Stack hybrid line-up"
+excerpt: "Microsoft Ignite 2020: Mary Jo Foley on Project Cortex, Azure resiliency, Teams, and Edge on Linux Top cloud providers in 2020: AWS, Microsoft Azure, and Google Cloud, hybrid, SaaS players The ..."
+publishedDateTime: 2020-09-22T21:24:00Z
+originalUrl: "https://www.zdnet.com/article/microsoft-adds-more-devices-services-to-its-azure-stack-hybrid-line-up/?taid=5f6a69d582069f0001ab8999"
+webUrl: "https://www.zdnet.com/article/microsoft-adds-more-devices-services-to-its-azure-stack-hybrid-line-up/?taid=5f6a69d582069f0001ab8999"
+ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-adds-more-devices-services-to-its-azure-stack-hybrid-line-up/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-adds-more-devices-services-to-its-azure-stack-hybrid-line-up/"
 type: article
-quality: 97
+quality: 75
 heat: -1
 published: false
 
@@ -21,13 +22,6 @@ provider:
 
 topics:
   - Azure
-
-images:
-  - url: "https://zdnet4.cbsistatic.com/hub/i/2020/04/14/ae52840f-bd1d-4e9d-8ec2-114e56664784/synapse.jpg"
-    width: 750
-    height: 500
-    isCached: true
-    title: "A closer look at Microsoft Azure Synapse Analytics"
 
 related:
   - title: "Microsoft: Azure-based Sentinel security gets new analytics to spot threats in odd behavior"
@@ -82,6 +76,22 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 98
+  - title: "A closer look at Microsoft Azure Synapse Analytics"
+    excerpt: "Roughly six months after its unveiling at the Ignite conference last fall, Microsoft took a group of analysts and MVP professionals on a deep dive into the Azure Synapse Analytics service. As noted in Andrew's coverage last fall, Azure Synapse Analytics is a rebrand and evolution of Azure SQL Data Warehouse, broadening its footprint to span ..."
+    publishedDateTime: 2020-04-14T12:00:00Z
+    webUrl: "https://www.zdnet.com/article/a-closer-look-at-microsoft-azure-synapse-analytics/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/a-closer-look-at-microsoft-azure-synapse-analytics/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/a-closer-look-at-microsoft-azure-synapse-analytics/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 97
+    images:
+      - url: "https://zdnet4.cbsistatic.com/hub/i/2020/04/14/ae52840f-bd1d-4e9d-8ec2-114e56664784/synapse.jpg"
+        width: 750
+        height: 500
+        isCached: true
   - title: "Microsoft is taking its Azure cloud into space"
     excerpt: "Azure Orbital will compete with rival AWS Ground Station service. Microsoft has launched a new cloud-based platform designed to help satellite operators ingest and analyse data drawn down from ..."
     publishedDateTime: 2020-09-23T13:43:00Z
@@ -167,17 +177,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Microsoft adds more devices and services to its Azure Stack hybrid line-up"
-    excerpt: "Microsoft Ignite 2020: Mary Jo Foley on Project Cortex, Azure resiliency, Teams, and Edge on Linux Top cloud providers in 2020: AWS, Microsoft Azure, and Google Cloud, hybrid, SaaS players The ..."
-    publishedDateTime: 2020-09-22T21:24:00Z
-    webUrl: "https://www.zdnet.com/article/microsoft-adds-more-devices-services-to-its-azure-stack-hybrid-line-up/?taid=5f6a69d582069f0001ab8999"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-adds-more-devices-services-to-its-azure-stack-hybrid-line-up/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-adds-more-devices-services-to-its-azure-stack-hybrid-line-up/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 75
   - title: "Microsoft connects satellites to its cloud in new service, Azure Orbital"
     excerpt: "Microsoft on Tuesday launched Azure Orbital, a new service that connects satellites to its cloud to process data from space."
     publishedDateTime: 2020-09-22T18:08:00Z
@@ -343,6 +342,6 @@ related:
       domain: computerworld.com
     quality: 17
 
-secured: "PVnyHQJcV/DnAMaHy7sJrLA67M3hFZIoeCMtBZxwzO+h26LMZ58cT/nJJi8JnCjA7lWj+7RlswbG3O2wqvHrHg4IYNtCSNhOMwvHd5L5vHc3P2tna+NRulmpi0e+MCW/mm70ZQxjUlkavyI5mQTIBUB+HEYqDy826xvD9DrvaMetLt2gklOOKEvwBgqBl6kZgyCvBElubR1FBIptH+usDk6y01wCJV3uCwHQ0UGWm2YTeEyL5BYhzT6JTAILMq1D81GPGXqwG5Wc5mwg1pEmiEm8/NA9PW1HN63l83V5ksTzZeZU9ZreblxJ4Yp7DRhN3Go3eAHctsDrMaifPmbx+aNGl5EYgqQ+KWfDkJKIV9MWwvDq31GFDjb22FPc9aiNdo6SfA4VfuIQzS98QZWzoSeaAimUnW6+PUuP6FjED8GwFGC3QECauJuzu3eDMxEH+wzGDgwlKzjDYFuSJ0PCXmNT8KKUJmhl1CzBKI+H1ZM=;il87sNqIqvY7oK5RlPyAhA=="
+secured: "3elYruLRg4QXGTo/oti9QctjawUAxzhrKEfY9FEXAJUj9ld8edMakEn2abfg1mw4eBGefp726Ga8A3gZ4LpDtHeInerrNShMGzdXha9gb6RDsdmgIROm6cH+AQSl/EQ0V45HiVvzHLrOj1QR8SvCOLGTiIXjVGIe8XxGNByaiO3Gv5ovKdvsEc37RJA8fmo9BpMG/BhnO6StGV+iuSxVK4g+G4WIPVK10K6wZsxmPzcNQy9y+7tLNKoa0ZLyyKC0TQ6dM0jWgIg1axnEMnfdvpZLbgGoFsAY6eROz+uVSdMWvEyRaF/1YvV5DLavou2UWOVgFfmvYnTJqXXmwWf+rPawa3u45iVJ1uzqiN463vw=;gGh/ZBNZSN9NmO9rElvlcA=="
 ---
 

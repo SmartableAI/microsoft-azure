@@ -1,26 +1,28 @@
 ---
 category: news
-title: "The Gorilla Guide to…Express Edition: IT Resilience with Microsoft Azure"
-excerpt: "Facing challenges of navigating disparate technologies or outdated backup? It’s time for IT Resilience in the cloud with Zerto and Microsoft Azure. With powerful continuous data protection, super simple application mobility and cloud agility capabilities ..."
-publishedDateTime: 2020-09-14T21:21:00Z
-originalUrl: "https://mcpmag.com/whitepapers/2020/09/zerto-the-gorilla-guide-to-express-edition-it-resilience-with-microsoft-azure.aspx?tc=page0"
-webUrl: "https://mcpmag.com/whitepapers/2020/09/zerto-the-gorilla-guide-to-express-edition-it-resilience-with-microsoft-azure.aspx?tc=page0"
+title: "HCL Technologies earns ‘SAP on Microsoft Azure Advanced Specialization’"
+excerpt: "HCL Technologies (HCL), a leading global technology company, today announced it has earned SAP on Microsoft Azure Advanced Specialization, a validation of a Microsoft service partner’s deep ..."
+publishedDateTime: 2020-09-15T10:23:00Z
+originalUrl: "https://www.indiainfoline.com/article/news-sector-information-technology/hcl-technologies-earns-‘sap-on-microsoft-azure-advanced-specialization’-120091500685_1.html"
+webUrl: "https://www.indiainfoline.com/article/news-sector-information-technology/hcl-technologies-earns-‘sap-on-microsoft-azure-advanced-specialization’-120091500685_1.html"
+ampWebUrl: "https://www.indiainfoline.com/article-amp/news-sector-information-technology/hcl-technologies-earns-%E2%80%98sap-on-microsoft-azure-advanced-specialization%E2%80%99-120091500685_1.html"
+cdnAmpWebUrl: "https://www-indiainfoline-com.cdn.ampproject.org/c/s/www.indiainfoline.com/article-amp/news-sector-information-technology/hcl-technologies-earns-%E2%80%98sap-on-microsoft-azure-advanced-specialization%E2%80%99-120091500685_1.html"
 type: article
-quality: 36
+quality: 57
 heat: -1
 published: false
 
 provider:
-  name: MCPmag
-  domain: mcpmag.com
+  name: India Infoline
+  domain: indiainfoline.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://mcpmag.com/~/media/ECG/mcpmag/MCPlogo.jpg"
-    width: 1200
-    height: 630
+  - url: "https://content.indiainfoline.com/_media/iifl/img/article/default/news.jpg"
+    width: 350
+    height: 233
     isCached: true
 
 related:
@@ -132,22 +134,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "HCL Technologies earns ‘SAP on Microsoft Azure Advanced Specialization’"
-    excerpt: "HCL Technologies (HCL), a leading global technology company, today announced it has earned SAP on Microsoft Azure Advanced Specialization, a validation of a Microsoft service partner’s deep ..."
-    publishedDateTime: 2020-09-15T10:23:00Z
-    webUrl: "https://www.indiainfoline.com/article/news-sector-information-technology/hcl-technologies-earns-‘sap-on-microsoft-azure-advanced-specialization’-120091500685_1.html"
-    ampWebUrl: "https://www.indiainfoline.com/article-amp/news-sector-information-technology/hcl-technologies-earns-%E2%80%98sap-on-microsoft-azure-advanced-specialization%E2%80%99-120091500685_1.html"
-    cdnAmpWebUrl: "https://www-indiainfoline-com.cdn.ampproject.org/c/s/www.indiainfoline.com/article-amp/news-sector-information-technology/hcl-technologies-earns-%E2%80%98sap-on-microsoft-azure-advanced-specialization%E2%80%99-120091500685_1.html"
-    type: article
-    provider:
-      name: India Infoline
-      domain: indiainfoline.com
-    quality: 57
-    images:
-      - url: "https://content.indiainfoline.com/_media/iifl/img/article/default/news.jpg"
-        width: 350
-        height: 233
-        isCached: true
   - title: "Experian’s CrossCore® Is Now Available on Microsoft Azure Active Directory"
     excerpt: "Customers using Experian’ s digital identity and fraud risk platform, CrossCore ®, can now seamlessly connect with Microsoft Azure Active Directory External Identities. “Businesses need to be able to provide varying levels of authentication based on the level of risk,"
     publishedDateTime: 2020-09-13T04:16:00Z
@@ -242,6 +228,20 @@ related:
     quality: 37
     images:
       - url: "https://media.datacenterdynamics.com/media/images/Microsoft_Cloud.2e16d0ba.fill-1200x630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "The Gorilla Guide to…Express Edition: IT Resilience with Microsoft Azure"
+    excerpt: "Facing challenges of navigating disparate technologies or outdated backup? It’s time for IT Resilience in the cloud with Zerto and Microsoft Azure. With powerful continuous data protection, super simple application mobility and cloud agility capabilities ..."
+    publishedDateTime: 2020-09-14T21:21:00Z
+    webUrl: "https://mcpmag.com/whitepapers/2020/09/zerto-the-gorilla-guide-to-express-edition-it-resilience-with-microsoft-azure.aspx?tc=page0"
+    type: article
+    provider:
+      name: MCPmag
+      domain: mcpmag.com
+    quality: 36
+    images:
+      - url: "https://mcpmag.com/~/media/ECG/mcpmag/MCPlogo.jpg"
         width: 1200
         height: 630
         isCached: true
@@ -382,6 +382,6 @@ related:
         height: 583
         isCached: true
 
-secured: "Nww2GvJUiTv/vOPk4pICEzvr0xlYWCOoxWlfXqXigIjObTfekTAGeBzdDGY3Kf+H0cu2tUpQdzKIkIj4k7/M4Evd2EsP6JJ87IuRynW5c7VJsuXs1TbfAz/zDRVTlifj6OJWFE3hi38YfkLUgov6Huq+fqJuJsg/PRc8qTAuDj5CwiqGn88dgphu4tL5f9Bk+cJQnxkikZCaotdTMIRHvTEQFluu7jmH9ZHAqw96HE/FWVbmnlVh0yCYomX9MUFOg+Ned+JgpQ/ejz4YjejNhdeO5lmzjm2y5Qb8maMSpA+8qTdvzF8PA6i11d2ZAQyTd5bkMfcPEzXGolxeQ6EoPzh2MwMkC8KeHSu9VFIka9k=;Kj0Rx8dqbj9qwzY4Q1CiLQ=="
+secured: "Lg63RSdWA1CvfaIbMmuYsJ4aa7+qlnGTjw0f1LXJOmGRQrCgEnpZ5Df4MHxiqAE3LBkGvbj3l4bv68era1kH/t8ai1OjOpcO1FjZng5DfhjYTvZeW+oBMyyLZqIMjpZLC+ULX5shfQR7EzJKCQKGK5xmYkW4Kvm0wA/jWmcHj09BZ2cga29iacHOJlNreOwVZ/g1riF+T8RVje3FKQ2jAdSz2yk+X7p4iuNbuvSC0B1HvQsHtC6c4dmOI94F4wb0SgAcOPfjFnJOPtIq6y3ihiiWQoJ9wLrB+LAPNmzoCOMN7hCcDNcK437a6LkaCvmIhABELov6jhuBpKuu6g+Tn2jgIAHyx9cXysCJBSekClQ=;s5J7dHGEHD7+IM41QMph4A=="
 ---
 

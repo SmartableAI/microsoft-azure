@@ -401,17 +401,6 @@ related:
         width: 1024
         height: 406
         isCached: true
-  - title: "Milliman's strategic cyber risk assessment now available in the Microsoft Azure Marketplace"
-    excerpt: "16, 2020 /PRNewswire/ -- Milliman, Inc., a premier global consulting and actuarial firm, today announced that it has launched its Strategic Cyber Risk Assessment in the Microsoft Azure ..."
-    publishedDateTime: 2020-09-16T16:14:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/milliman-s-strategic-cyber-risk-assessment-now-available-in-the-microsoft-azure-marketplace-1029595657"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/milliman-s-strategic-cyber-risk-assessment-now-available-in-the-microsoft-azure-marketplace-1029595657"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/milliman-s-strategic-cyber-risk-assessment-now-available-in-the-microsoft-azure-marketplace-1029595657"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 67
   - title: "Kratos Collaborates with Microsoft to Enable Cloud-based Satellite Ground Services for Azure Orbital"
     excerpt: "announced today that it has joined with Microsoft to enable the launch of Microsoft Azure Orbital, a groundbreaking platform that provides Ground Station-as-a-Service (GSaaS) to the satellite industry. Azure Orbital is Microsoft's managed service designed ..."
     publishedDateTime: 2020-09-22T21:32:00Z
@@ -489,6 +478,22 @@ related:
       - url: "https://securecdn.pymnts.com/wp-content/uploads/2020/09/identity-verification-artifical-intelligence-457x305.jpg"
         width: 457
         height: 305
+        isCached: true
+  - title: "Microsoft Wobbles Again: Do Azure Staging Procedures Need a Rethink?"
+    excerpt: "Microsoft outage blamed on a \"recent configuration change [that] impacted a backend storage layer, which caused latency to authentication requests\""
+    publishedDateTime: 2020-09-29T09:28:00Z
+    webUrl: "https://www.cbronline.com/opinion/microsoft-outage"
+    ampWebUrl: "https://www.cbronline.com/opinion/microsoft-outage/amp/"
+    cdnAmpWebUrl: "https://www-cbronline-com.cdn.ampproject.org/c/s/www.cbronline.com/opinion/microsoft-outage/amp/"
+    type: article
+    provider:
+      name: Computer Business Review
+      domain: cbronline.com
+    quality: 57
+    images:
+      - url: "https://www.cbronline.com/wp-content/uploads/2020/09/kobu-agency-3hWg9QKl5k8-unsplash-1024x838.jpg"
+        width: 1024
+        height: 838
         isCached: true
   - title: "TCS Quartz? suite becomes available on Microsoft Azure Blockchain Service"
     excerpt: "Tata Consultancy Services announced the general availability of its award winning Quartz? suite of blockchain based solutions on Microsoft Azure Blockchain Service. The Quartz suite of products helps organizations set up truly connected ecosystems ..."
@@ -623,6 +628,20 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 48
+  - title: "CORRECTING and REPLACING SES Becomes Microsoft Azure Orbital Founding Connectivity Partner"
+    excerpt: "SES’s proven low-latency MEO managed services to be part of Microsoft’s new multi-orbit satellite connectivity integrated with Azure, promising optimized cloud application performance for O3b mPOWER customers SES today announced it has joined as the ..."
+    publishedDateTime: 2020-09-23T15:00:00Z
+    webUrl: "https://www.oaoa.com/news/business/correcting-and-replacing-ses-becomes-microsoft-azure-orbital-founding-connectivity-partner/article_8f24ab84-719f-5f89-a3c2-2c3a47db75e1.html"
+    type: article
+    provider:
+      name: Odessa American
+      domain: oaoa.com
+    quality: 44
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/oaoa.com/content/tncms/assets/v3/editorial/1/fb/1fb9030e-273f-58c2-9811-53fe40ee5814/5f6b51f2be146.image.jpg?resize=975%2C630"
+        width: 975
+        height: 630
+        isCached: true
   - title: "Microsoft gets into 5G race with Azure cloud for telecom operators, aims to use AI for ops"
     excerpt: "After banning China's Huawei [HWT.UL] from its telecom network, the U.S. government has been pushing big American companies such as Microsoft to get more involved with 5G - a technology which promises to enable everything from self-driving cars to remote surgery and more automated manufacturing."
     publishedDateTime: 2020-09-28T16:08:00Z
@@ -1019,19 +1038,19 @@ related:
         width: 1254
         height: 836
         isCached: true
-  - title: "CORRECTING and REPLACING SES Becomes Microsoft Azure Orbital Founding Connectivity Partner"
-    excerpt: "SES’s proven low-latency MEO managed services to be part of Microsoft’s new multi-orbit satellite connectivity integrated with Azure, promising optimized cloud application performance for O3b mPOWER customers SES today announced it has joined as the ..."
-    publishedDateTime: 2020-09-23T15:00:00Z
-    webUrl: "https://www.oaoa.com/news/business/correcting-and-replacing-ses-becomes-microsoft-azure-orbital-founding-connectivity-partner/article_8f24ab84-719f-5f89-a3c2-2c3a47db75e1.html"
+  - title: "Milliman's strategic cyber risk assessment now available in the Microsoft Azure Marketplace"
+    excerpt: "16, 2020 /PRNewswire/ -- Milliman, Inc., a premier global consulting and actuarial firm, today announced that it has launched its Strategic Cyber Risk Assessment in the Microsoft Azure Marketplace ..."
+    publishedDateTime: 2020-09-16T16:38:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/millimans-strategic-cyber-risk-assessment-now-available-in-the-microsoft-azure-marketplace/article_29c684b0-c449-527f-8f3f-155edb8a52a5.html"
     type: article
     provider:
-      name: Odessa American
-      domain: oaoa.com
+      name: WFMZ-TV
+      domain: wfmz.com
     quality: 27
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/oaoa.com/content/tncms/assets/v3/editorial/1/fb/1fb9030e-273f-58c2-9811-53fe40ee5814/5f6b51f2be146.image.jpg?resize=975%2C630"
-        width: 975
-        height: 630
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "dotData Now Supports Microsoft Azure Deployment and Is Available on Microsoft Azure Marketplace"
     excerpt: "Sept. 22, 2020 /PRNewswire/ -- dotData, focused on delivering full-cycle data science automation and operationalization for the enterprise, today announced that dotData Enterprise is now commercially available on Microsoft Azure and accessible through the ..."

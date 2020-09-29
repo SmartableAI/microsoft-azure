@@ -167,6 +167,17 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Microsoft adds more devices and services to its Azure Stack hybrid line-up"
+    excerpt: "Microsoft Ignite 2020: Mary Jo Foley on Project Cortex, Azure resiliency, Teams, and Edge on Linux Top cloud providers in 2020: AWS, Microsoft Azure, and Google Cloud, hybrid, SaaS players The ..."
+    publishedDateTime: 2020-09-22T21:24:00Z
+    webUrl: "https://www.zdnet.com/article/microsoft-adds-more-devices-services-to-its-azure-stack-hybrid-line-up/?taid=5f6a69d582069f0001ab8999"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-adds-more-devices-services-to-its-azure-stack-hybrid-line-up/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-adds-more-devices-services-to-its-azure-stack-hybrid-line-up/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 75
   - title: "Microsoft connects satellites to its cloud in new service, Azure Orbital"
     excerpt: "Microsoft on Tuesday launched Azure Orbital, a new service that connects satellites to its cloud to process data from space."
     publishedDateTime: 2020-09-22T18:08:00Z

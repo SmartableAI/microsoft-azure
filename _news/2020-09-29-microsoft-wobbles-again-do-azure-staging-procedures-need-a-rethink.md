@@ -1,24 +1,29 @@
 ---
 category: news
-title: "Microsoft and Oracle to interconnect Microsoft Azure and Oracle Cloud"
-excerpt: "Before it's here, it's on the Bloomberg Terminal."
-publishedDateTime: 2020-05-31T18:14:00Z
-webUrl: "https://www.bloomberg.com/press-releases/2019-06-05/microsoft-and-oracle-to-interconnect-microsoft-azure-and-oracle-cloud"
+title: "Microsoft Wobbles Again: Do Azure Staging Procedures Need a Rethink?"
+excerpt: "Microsoft outage blamed on a \"recent configuration change [that] impacted a backend storage layer, which caused latency to authentication requests\""
+publishedDateTime: 2020-09-29T09:28:00Z
+originalUrl: "https://www.cbronline.com/opinion/microsoft-outage"
+webUrl: "https://www.cbronline.com/opinion/microsoft-outage"
+ampWebUrl: "https://www.cbronline.com/opinion/microsoft-outage/amp/"
+cdnAmpWebUrl: "https://www-cbronline-com.cdn.ampproject.org/c/s/www.cbronline.com/opinion/microsoft-outage/amp/"
 type: article
 quality: 57
 heat: -1
 published: false
 
 provider:
-  name: Bloomberg
-  domain: bloomberg.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/bloomberg.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Computer Business Review
+  domain: cbronline.com
 
 topics:
   - Azure
+
+images:
+  - url: "https://www.cbronline.com/wp-content/uploads/2020/09/kobu-agency-3hWg9QKl5k8-unsplash-1024x838.jpg"
+    width: 1024
+    height: 838
+    isCached: true
 
 related:
   - title: "Microsoft launches Azure Orbital to connect satellites to its cloud"
@@ -443,6 +448,15 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Microsoft and Oracle to interconnect Microsoft Azure and Oracle Cloud"
+    excerpt: "Before it's here, it's on the Bloomberg Terminal."
+    publishedDateTime: 2020-05-31T18:14:00Z
+    webUrl: "https://www.bloomberg.com/press-releases/2019-06-05/microsoft-and-oracle-to-interconnect-microsoft-azure-and-oracle-cloud"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 57
   - title: "Microsoft Azure and AWS' partnership model will make enterprise software companies dependent on cloud providers"
     excerpt: "Microsoft Azure and AWS are striking distribution deals with enterprise software providers, which may reshape the enterprise software ecosystem."
     publishedDateTime: 2020-09-21T14:58:00Z
@@ -481,22 +495,6 @@ related:
       - url: "https://securecdn.pymnts.com/wp-content/uploads/2020/09/identity-verification-artifical-intelligence-457x305.jpg"
         width: 457
         height: 305
-        isCached: true
-  - title: "Microsoft Wobbles Again: Do Azure Staging Procedures Need a Rethink?"
-    excerpt: "Microsoft outage blamed on a \"recent configuration change [that] impacted a backend storage layer, which caused latency to authentication requests\""
-    publishedDateTime: 2020-09-29T09:28:00Z
-    webUrl: "https://www.cbronline.com/opinion/microsoft-outage"
-    ampWebUrl: "https://www.cbronline.com/opinion/microsoft-outage/amp/"
-    cdnAmpWebUrl: "https://www-cbronline-com.cdn.ampproject.org/c/s/www.cbronline.com/opinion/microsoft-outage/amp/"
-    type: article
-    provider:
-      name: Computer Business Review
-      domain: cbronline.com
-    quality: 57
-    images:
-      - url: "https://www.cbronline.com/wp-content/uploads/2020/09/kobu-agency-3hWg9QKl5k8-unsplash-1024x838.jpg"
-        width: 1024
-        height: 838
         isCached: true
   - title: "TCS Quartz? suite becomes available on Microsoft Azure Blockchain Service"
     excerpt: "Tata Consultancy Services announced the general availability of its award winning Quartz? suite of blockchain based solutions on Microsoft Azure Blockchain Service. The Quartz suite of products helps organizations set up truly connected ecosystems ..."
@@ -1280,6 +1278,6 @@ related:
         height: 450
         isCached: true
 
-secured: "rgH0IfMqUzgsNuCjvf2L3aFfpVQvazncij4+cqNy0FUVci42wCyxTfqrRnSDSfFUkc7kOznS9hZMsSYXJuQm8NJGskro1fHQ76Gld5PSod7Qn8f8IB+CApMbx6zd80seSuMNJd4+en/scxbw3AxhF2Xzsirz4tU2lHPMTkZpzbu7kC2p/3UlnRjBm+IjUAoXatXqaS8uOw3SeBjJzMx7t/3e2sWohpc6f29D2JKQPjHcWjQlNqX7ME8fE1gZWZGRRKub1iiFfxEzGnuCoP/kqhGHCOAJUU0SpptWSJnl1iSO+w+VpfwRoIsmWKkNdyk1;c7LFAi4/8zz6+ya8vteGzA=="
+secured: "8Ly3EhoQRBx1PKFFaiLzqtaXchPmx27rJFi7/n9CIXyUO4KN9rHDoi61o+V4vrp+c0sAIibU/tdo77Sp9/ywGZqtIgoWs4ywnBP2PkSOlGJHVMq9m5k1yMPXg9gvOwJ8EZc4hgGUhEZrhBCp2wuuhGET75LWX3wJjFnwU8pMAnO4hri1uIjkjzvoFDy+6HQFWThaygbTOWcg4GytK6noBNaPZ6sH2y9J0IY5cQ6UwHBMVIkaPHLC9yc59Zu+GNLKYSUTFiT5OoL8VBMrBMzP2J7wNlYfAtgShXq9zaUQ8bcyaMDYUsQlMMAnA8frbhjlQg/ZW6F7RlX12RP7lFujrAPg6RjJyY9qEvuzWSYoI2o=;OfoNzLsp9hDUIcpGKfcXKA=="
 ---
 
