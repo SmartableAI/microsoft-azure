@@ -103,6 +103,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Microsoft Office 365, Azure Cloud Disrupted by Service Issues"
+    excerpt: "Microsoft on Monday suffered disruptions with its Office 365 workplace software tools and its Azure cloud that disabled some users for hours."
+    publishedDateTime: 2020-09-29T02:09:00Z
+    webUrl: "https://www.wsj.com/articles/microsoft-office-365-azure-cloud-disrupted-by-service-issues-11601344440"
+    ampWebUrl: "https://www.wsj.com/amp/articles/microsoft-office-365-azure-cloud-disrupted-by-service-issues-11601344440"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/microsoft-office-365-azure-cloud-disrupted-by-service-issues-11601344440"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 97
+    images:
+      - url: "https://images.wsj.net/im-237735/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Microsoft challenges Twilio with the launch of Azure Communication Services"
     excerpt: "Microsoft today announced the launch of Azure Communication Services, a new set of features in its cloud that enable developers to add voice and video calling, chat and text messages to their apps, as well as old-school telephony."
     publishedDateTime: 2020-09-23T12:09:00Z
@@ -336,6 +352,20 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Microsoft Office 365, Azure plagued by disruptions for hours"
+    excerpt: "Microsoft Corp. on Monday suffered disruptions with its Office 365 workplace software tools and its Azure cloud that disabled some users for hours."
+    publishedDateTime: 2020-09-29T03:04:00Z
+    webUrl: "https://www.marketwatch.com/story/microsoft-office-365-azure-plagued-by-disruptions-for-hours-11601348262?dist=bigcharts"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 77
+    images:
+      - url: "https://images.mktw.net/im-237757/social"
+        width: 1280
+        height: 640
         isCached: true
   - title: "Microsoft Guns for Twilio's Business With Launch of Azure Communication Services"
     excerpt: "Microsoft (NASDAQ: MSFT) is continuously upping its game in the public cloud arena, and recently announced the availability of Azure Communications Services. The new product is a library of APIs (an API is an application programming interface,"

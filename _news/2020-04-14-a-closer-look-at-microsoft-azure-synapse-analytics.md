@@ -295,7 +295,7 @@ related:
   - title: "Illusive Networks Joins Microsoft Intelligent Security Association and is Now Available in the Microsoft Azure Marketplace"
     excerpt: "Illusive Networks®, a leader in active cyber defense, today joined the Microsoft Intelligent Security Association (MISA), bringing the"
     publishedDateTime: 2020-09-24T19:03:00Z
-    webUrl: "https://www.prnewswire.com/il/news-releases/illusive-networks-joins-microsoft-intelligent-security-association-and-is-now-available-in-the-microsoft-azure-marketplace-301137215.html"
+    webUrl: "https://www.prnewswire.com/il/news-releases/illusive-networks-joins-microsoft-intelligent-security-association-and-is-now-available-in-the-microsoft-azure-marketplace-866469933.html"
     type: article
     provider:
       name: PR Newswire
