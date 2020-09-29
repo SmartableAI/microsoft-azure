@@ -1,30 +1,28 @@
 ---
 category: news
-title: "Microsoft Azure and AWS' partnership model will make enterprise software companies dependent on cloud providers"
-excerpt: "Microsoft Azure and AWS are striking distribution deals with enterprise software providers, which may reshape the enterprise software ecosystem."
-publishedDateTime: 2020-09-21T14:58:00Z
-originalUrl: "https://www.businessinsider.com/microsoft-aws-cloud-deals-may-reshape-enterprise-software-ecosystem-2020-9"
-webUrl: "https://www.businessinsider.com/microsoft-aws-cloud-deals-may-reshape-enterprise-software-ecosystem-2020-9"
+title: "Microsoft Azure Solution Could Greatly Reduce 5G Roll-Out Costs"
+excerpt: "Microsoft has revealed a new cloud solution, built on its Azure platform and meant to bolster 5G rollouts nationwide. That's according to recent reports"
+publishedDateTime: 2020-09-29T21:51:00Z
+originalUrl: "https://www.androidheadlines.com/2020/09/microsoft-azure-5g-cloud-platform.html"
+webUrl: "https://www.androidheadlines.com/2020/09/microsoft-azure-5g-cloud-platform.html"
+ampWebUrl: "https://www.androidheadlines.com/2020/09/microsoft-azure-5g-cloud-platform.html/amp"
+cdnAmpWebUrl: "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2020/09/microsoft-azure-5g-cloud-platform.html/amp"
 type: article
 quality: 57
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Android
+  domain: androidheadlines.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://i.insider.com/5f68b908323fc4001e0d76db?width=1200&format=jpeg"
-    width: 1200
-    height: 600
+  - url: "https://www.androidheadlines.com/wp-content/uploads/2020/09/Microsoft-Logo-DG-AH-2020.jpg"
+    width: 1920
+    height: 1080
     isCached: true
 
 related:
@@ -472,6 +470,20 @@ related:
       name: Bloomberg
       domain: bloomberg.com
     quality: 57
+  - title: "Microsoft Azure and AWS' partnership model will make enterprise software companies dependent on cloud providers"
+    excerpt: "Microsoft Azure and AWS are striking distribution deals with enterprise software providers, which may reshape the enterprise software ecosystem."
+    publishedDateTime: 2020-09-21T14:58:00Z
+    webUrl: "https://www.businessinsider.com/microsoft-aws-cloud-deals-may-reshape-enterprise-software-ecosystem-2020-9"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 57
+    images:
+      - url: "https://i.insider.com/5f68b908323fc4001e0d76db?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "CyberArk Now Available on the Microsoft Azure Marketplace"
     excerpt: "Microsoft Azure customers worldwide now gain access to the CyberArk Privileged Access Security Solution to take advantage of the scalability, reliability, and agility of Microsoft Azure to drive application development and shape business strategies The ..."
     publishedDateTime: 2020-09-22T13:55:00Z
@@ -512,22 +524,6 @@ related:
       - url: "https://www.cbronline.com/wp-content/uploads/2020/09/kobu-agency-3hWg9QKl5k8-unsplash-1024x838.jpg"
         width: 1024
         height: 838
-        isCached: true
-  - title: "Microsoft Azure Solution Could Greatly Reduce 5G Roll-Out Costs"
-    excerpt: "Microsoft has revealed a new cloud solution, built on its Azure platform and meant to bolster 5G rollouts nationwide. That's according to recent reports"
-    publishedDateTime: 2020-09-29T21:51:00Z
-    webUrl: "https://www.androidheadlines.com/2020/09/microsoft-azure-5g-cloud-platform.html"
-    ampWebUrl: "https://www.androidheadlines.com/2020/09/microsoft-azure-5g-cloud-platform.html/amp"
-    cdnAmpWebUrl: "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2020/09/microsoft-azure-5g-cloud-platform.html/amp"
-    type: article
-    provider:
-      name: Android
-      domain: androidheadlines.com
-    quality: 57
-    images:
-      - url: "https://www.androidheadlines.com/wp-content/uploads/2020/09/Microsoft-Logo-DG-AH-2020.jpg"
-        width: 1920
-        height: 1080
         isCached: true
   - title: "TCS Quartz? suite becomes available on Microsoft Azure Blockchain Service"
     excerpt: "Tata Consultancy Services announced the general availability of its award winning Quartz? suite of blockchain based solutions on Microsoft Azure Blockchain Service. The Quartz suite of products helps organizations set up truly connected ecosystems ..."
@@ -1392,6 +1388,6 @@ related:
         height: 450
         isCached: true
 
-secured: "bTDJmxktfrLDCO+bMVsTBPVfAAZXu+EirxjBUF06T9FzvKwyrhBUW3MnJU4LmIL8RoZaBYzSRxS9KUeHhRdaW8P6uzzfy4iOVbz3KoEpp0gOgSIWU2Y9XWNe5I/cWnx/a+mfI7Mg31NBh/HLBgNj7rsY3RLPOhQO5KE/0wjoCQedrvpqJY/5ZVOUJmun39JskcR1+yOISxezd4tLncbzOjsCSEiHV0iRNRx70EEY54Ggko5PEcuKDKssDJL+AF0a4P+aFVN4o4MyMk3zNvJ/lvbUSArDgnwKzQfylLhm65yx/pnIEfOVr9qtm5vem+LdL0xgjTERGJtHAkC35et4AKSWPOhiXT8REEWdIrq/4tFqV7a55AjWOBRFRGRVil96n1b3lYiA0dbO0f1Py2jldn5oQJ1a5AD6eggBBOG2AkkXUzvOshFFcKTaQFwRtfzdz9vRQf9YpblOurrUitPT7v/8ro/JTjAv7nlvLHBVr0JuXA9uwtMIlD/oy5KG3QKk0Rz/eS14OTHU2H11fAKA5w==;PzDtv/0wa8FLAaqAaLgoWQ=="
+secured: "fshzi4/5rFAL+2zlB6EMJ+/02NeSN0PJRlYqwVDP679Wlu5k4C7T05oEGh1TvQ57aUBQ94RXD00R7eJCGnogklDe+j+b7kTyJWncQdm3+Fen6/DhhdFe1z0vXONxERb9/wW2r+hScLsji/SrXDEKAHNSof5t3obhim0r0eQoWs2+f+hNaKmrGwoL+92OhXFac+QX+H2xyHuEO+wozWuN/7dkx2fbpyEFqIr8cpx9h0Q/5XTogHwQCWoPE9TL2RMH/bT9GQMyA8dIXkn/mHSJ4+31Kw6KsBcVzoenm0sC5xjAoeJ7fdvnQYMhPvs8I8bAmyF+n3HXjz8mEZfV4asPug6RcWU9H1BTi/NiJZVhUxM=;bk86jWTAMDNzG1YpFrMT1A=="
 ---
 

@@ -1,30 +1,26 @@
 ---
 category: news
-title: "Microsoft Azure and AWS' partnership model will make enterprise software companies dependent on cloud providers"
-excerpt: "Microsoft Azure and AWS are striking distribution deals with enterprise software providers, which may reshape the enterprise software ecosystem."
-publishedDateTime: 2020-09-21T14:58:00Z
-originalUrl: "https://www.businessinsider.com/microsoft-aws-cloud-deals-may-reshape-enterprise-software-ecosystem-2020-9"
-webUrl: "https://www.businessinsider.com/microsoft-aws-cloud-deals-may-reshape-enterprise-software-ecosystem-2020-9"
+title: "Scality Announces 1 Terabit Per Second Performance for Scale-Out File System in Microsoft Azure Public Cloud"
+excerpt: "Scality, a leader in software solutions for distributed file and object storage, today announced the technical preview"
+publishedDateTime: 2020-09-29T20:10:00Z
+originalUrl: "https://www.hpcwire.com/off-the-wire/scality-announces-1-terabit-per-second-performance-for-scale-out-file-system-in-microsoft-azure-public-cloud/"
+webUrl: "https://www.hpcwire.com/off-the-wire/scality-announces-1-terabit-per-second-performance-for-scale-out-file-system-in-microsoft-azure-public-cloud/"
 type: article
-quality: 57
+quality: 18
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: HPCwire
+  domain: hpcwire.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://i.insider.com/5f68b908323fc4001e0d76db?width=1200&format=jpeg"
-    width: 1200
-    height: 600
+  - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/09/Advantage-System-2-405x228.jpeg"
+    width: 405
+    height: 228
     isCached: true
 
 related:
@@ -472,6 +468,20 @@ related:
       name: Bloomberg
       domain: bloomberg.com
     quality: 57
+  - title: "Microsoft Azure and AWS' partnership model will make enterprise software companies dependent on cloud providers"
+    excerpt: "Microsoft Azure and AWS are striking distribution deals with enterprise software providers, which may reshape the enterprise software ecosystem."
+    publishedDateTime: 2020-09-21T14:58:00Z
+    webUrl: "https://www.businessinsider.com/microsoft-aws-cloud-deals-may-reshape-enterprise-software-ecosystem-2020-9"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 57
+    images:
+      - url: "https://i.insider.com/5f68b908323fc4001e0d76db?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "CyberArk Now Available on the Microsoft Azure Marketplace"
     excerpt: "Microsoft Azure customers worldwide now gain access to the CyberArk Privileged Access Security Solution to take advantage of the scalability, reliability, and agility of Microsoft Azure to drive application development and shape business strategies The ..."
     publishedDateTime: 2020-09-22T13:55:00Z
@@ -1264,20 +1274,6 @@ related:
         width: 1740
         height: 911
         isCached: true
-  - title: "Scality Announces 1 Terabit Per Second Performance for Scale-Out File System in Microsoft Azure Public Cloud"
-    excerpt: "Scality, a leader in software solutions for distributed file and object storage, today announced the technical preview"
-    publishedDateTime: 2020-09-29T20:10:00Z
-    webUrl: "https://www.hpcwire.com/off-the-wire/scality-announces-1-terabit-per-second-performance-for-scale-out-file-system-in-microsoft-azure-public-cloud/"
-    type: article
-    provider:
-      name: HPCwire
-      domain: hpcwire.com
-    quality: 18
-    images:
-      - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/09/Advantage-System-2-405x228.jpeg"
-        width: 405
-        height: 228
-        isCached: true
   - title: "Oracle launches Microsoft Azure cloud interconnect location in Tokyo"
     excerpt: "Oracle has expanded its cloud interoperability collaboration with Microsoft Azure into Asia with a new cloud interconnect location in Tokyo. This new Tokyo interconnection is expected to enable businesses to share data across applications running in Microsoft Azure and Oracle Cloud."
     publishedDateTime: 2020-05-11T12:17:00Z
@@ -1392,6 +1388,6 @@ related:
         height: 450
         isCached: true
 
-secured: "bTDJmxktfrLDCO+bMVsTBPVfAAZXu+EirxjBUF06T9FzvKwyrhBUW3MnJU4LmIL8RoZaBYzSRxS9KUeHhRdaW8P6uzzfy4iOVbz3KoEpp0gOgSIWU2Y9XWNe5I/cWnx/a+mfI7Mg31NBh/HLBgNj7rsY3RLPOhQO5KE/0wjoCQedrvpqJY/5ZVOUJmun39JskcR1+yOISxezd4tLncbzOjsCSEiHV0iRNRx70EEY54Ggko5PEcuKDKssDJL+AF0a4P+aFVN4o4MyMk3zNvJ/lvbUSArDgnwKzQfylLhm65yx/pnIEfOVr9qtm5vem+LdL0xgjTERGJtHAkC35et4AKSWPOhiXT8REEWdIrq/4tFqV7a55AjWOBRFRGRVil96n1b3lYiA0dbO0f1Py2jldn5oQJ1a5AD6eggBBOG2AkkXUzvOshFFcKTaQFwRtfzdz9vRQf9YpblOurrUitPT7v/8ro/JTjAv7nlvLHBVr0JuXA9uwtMIlD/oy5KG3QKk0Rz/eS14OTHU2H11fAKA5w==;PzDtv/0wa8FLAaqAaLgoWQ=="
+secured: "sS9O3MXNDjNYBZavPZyeFxRc4dcmm/z/PZ8S3dXF0IB+X/dQf7llgiT4ktf/OcQCMfV6/Rsu5rQg/jEuCHndvQxtvdQ2V0P3ATC2gX+1QDEJzsWMvFpblRhZOx3AUybtEXFX3aCaNorcAlUhUwU1s93W7dB0sNZ72dY7ZDs73JC7ciiOS62izfhCfw2NJtnuovsvOnPrSMhU4U62sq0MjkMy1GLEZdEjyMz2WKZoqmB/KQKnTD6F3bCQMI5GkgWbnKwNjIiU6LN5uqNYLdC8gx12NiMuKnOLp5C/Hbm3R9cR7O1HDiPdb02//TtjdIdhjHO06SUdLVwDdmcziissgrfWNAfjSSPDn4d0UeAXzGo=;u4jQqMkcTaad8Uee4g/iLg=="
 ---
 

@@ -523,6 +523,22 @@ related:
         width: 1024
         height: 838
         isCached: true
+  - title: "Microsoft Azure Solution Could Greatly Reduce 5G Roll-Out Costs"
+    excerpt: "Microsoft has revealed a new cloud solution, built on its Azure platform and meant to bolster 5G rollouts nationwide. That's according to recent reports"
+    publishedDateTime: 2020-09-29T21:51:00Z
+    webUrl: "https://www.androidheadlines.com/2020/09/microsoft-azure-5g-cloud-platform.html"
+    ampWebUrl: "https://www.androidheadlines.com/2020/09/microsoft-azure-5g-cloud-platform.html/amp"
+    cdnAmpWebUrl: "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2020/09/microsoft-azure-5g-cloud-platform.html/amp"
+    type: article
+    provider:
+      name: Android
+      domain: androidheadlines.com
+    quality: 57
+    images:
+      - url: "https://www.androidheadlines.com/wp-content/uploads/2020/09/Microsoft-Logo-DG-AH-2020.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "TCS Quartz? suite becomes available on Microsoft Azure Blockchain Service"
     excerpt: "Tata Consultancy Services announced the general availability of its award winning Quartz? suite of blockchain based solutions on Microsoft Azure Blockchain Service. The Quartz suite of products helps organizations set up truly connected ecosystems ..."
     publishedDateTime: 2020-09-21T07:04:00Z
@@ -948,6 +964,20 @@ related:
         width: 610
         height: 457
         isCached: true
+  - title: "Q&A: How Microsoft Is Raising Azure Arc's Data Services Game"
+    excerpt: "Ignite 2020 saw the public preview of Azure Arc enabled data services, the latest step in Microsoft's bid to demystify multicloud. Principal program manager Travis Wright explains how it works."
+    publishedDateTime: 2020-09-29T21:22:00Z
+    webUrl: "https://redmondmag.com/articles/2020/09/29/azure-arc-data-services-qa.aspx"
+    type: article
+    provider:
+      name: Redmond Magazine
+      domain: redmondmag.com
+    quality: 37
+    images:
+      - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/IntroImagesBigSmall/WordCloudLadderManBig.jpg"
+        width: 1665
+        height: 1158
+        isCached: true
   - title: "Meet Microsoft Cloud for Healthcare, Microsoft’s first industry-specific cloud solution"
     excerpt: "Microsoft made great progress in the health care related business. Today, Microsoft is announcing Microsoft Cloud for Healthcare, its first industry-specific cloud solution."
     publishedDateTime: 2020-05-19T15:02:00Z
@@ -1229,6 +1259,20 @@ related:
       - url: "https://mma.prnewswire.com/media/519854/Scality_Logo.jpg?p=facebook"
         width: 1740
         height: 911
+        isCached: true
+  - title: "Scality Announces 1 Terabit Per Second Performance for Scale-Out File System in Microsoft Azure Public Cloud"
+    excerpt: "Scality, a leader in software solutions for distributed file and object storage, today announced the technical preview"
+    publishedDateTime: 2020-09-29T20:10:00Z
+    webUrl: "https://www.hpcwire.com/off-the-wire/scality-announces-1-terabit-per-second-performance-for-scale-out-file-system-in-microsoft-azure-public-cloud/"
+    type: article
+    provider:
+      name: HPCwire
+      domain: hpcwire.com
+    quality: 18
+    images:
+      - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/09/Advantage-System-2-405x228.jpeg"
+        width: 405
+        height: 228
         isCached: true
   - title: "Oracle launches Microsoft Azure cloud interconnect location in Tokyo"
     excerpt: "Oracle has expanded its cloud interoperability collaboration with Microsoft Azure into Asia with a new cloud interconnect location in Tokyo. This new Tokyo interconnection is expected to enable businesses to share data across applications running in Microsoft Azure and Oracle Cloud."

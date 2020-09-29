@@ -1,30 +1,26 @@
 ---
 category: news
-title: "Microsoft Azure and AWS' partnership model will make enterprise software companies dependent on cloud providers"
-excerpt: "Microsoft Azure and AWS are striking distribution deals with enterprise software providers, which may reshape the enterprise software ecosystem."
-publishedDateTime: 2020-09-21T14:58:00Z
-originalUrl: "https://www.businessinsider.com/microsoft-aws-cloud-deals-may-reshape-enterprise-software-ecosystem-2020-9"
-webUrl: "https://www.businessinsider.com/microsoft-aws-cloud-deals-may-reshape-enterprise-software-ecosystem-2020-9"
+title: "Q&A: How Microsoft Is Raising Azure Arc's Data Services Game"
+excerpt: "Ignite 2020 saw the public preview of Azure Arc enabled data services, the latest step in Microsoft's bid to demystify multicloud. Principal program manager Travis Wright explains how it works."
+publishedDateTime: 2020-09-29T21:22:00Z
+originalUrl: "https://redmondmag.com/articles/2020/09/29/azure-arc-data-services-qa.aspx"
+webUrl: "https://redmondmag.com/articles/2020/09/29/azure-arc-data-services-qa.aspx"
 type: article
-quality: 57
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Redmond Magazine
+  domain: redmondmag.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://i.insider.com/5f68b908323fc4001e0d76db?width=1200&format=jpeg"
-    width: 1200
-    height: 600
+  - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/IntroImagesBigSmall/WordCloudLadderManBig.jpg"
+    width: 1665
+    height: 1158
     isCached: true
 
 related:
@@ -472,6 +468,20 @@ related:
       name: Bloomberg
       domain: bloomberg.com
     quality: 57
+  - title: "Microsoft Azure and AWS' partnership model will make enterprise software companies dependent on cloud providers"
+    excerpt: "Microsoft Azure and AWS are striking distribution deals with enterprise software providers, which may reshape the enterprise software ecosystem."
+    publishedDateTime: 2020-09-21T14:58:00Z
+    webUrl: "https://www.businessinsider.com/microsoft-aws-cloud-deals-may-reshape-enterprise-software-ecosystem-2020-9"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 57
+    images:
+      - url: "https://i.insider.com/5f68b908323fc4001e0d76db?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "CyberArk Now Available on the Microsoft Azure Marketplace"
     excerpt: "Microsoft Azure customers worldwide now gain access to the CyberArk Privileged Access Security Solution to take advantage of the scalability, reliability, and agility of Microsoft Azure to drive application development and shape business strategies The ..."
     publishedDateTime: 2020-09-22T13:55:00Z
@@ -954,20 +964,6 @@ related:
         width: 610
         height: 457
         isCached: true
-  - title: "Q&A: How Microsoft Is Raising Azure Arc's Data Services Game"
-    excerpt: "Ignite 2020 saw the public preview of Azure Arc enabled data services, the latest step in Microsoft's bid to demystify multicloud. Principal program manager Travis Wright explains how it works."
-    publishedDateTime: 2020-09-29T21:22:00Z
-    webUrl: "https://redmondmag.com/articles/2020/09/29/azure-arc-data-services-qa.aspx"
-    type: article
-    provider:
-      name: Redmond Magazine
-      domain: redmondmag.com
-    quality: 37
-    images:
-      - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/IntroImagesBigSmall/WordCloudLadderManBig.jpg"
-        width: 1665
-        height: 1158
-        isCached: true
   - title: "TCS Quartz suite becomes available on Microsoft Azure Blockchain Service"
     excerpt: "Tata Consultancy Services announced the general availability of its award winning Quartz suite of blockchain based solutions on Microsoft Azure Blockchain Service. The Quartz suite of products helps organizations set up truly connected ecosystems ..."
     publishedDateTime: 2020-09-21T21:38:00Z
@@ -1392,6 +1388,6 @@ related:
         height: 450
         isCached: true
 
-secured: "bTDJmxktfrLDCO+bMVsTBPVfAAZXu+EirxjBUF06T9FzvKwyrhBUW3MnJU4LmIL8RoZaBYzSRxS9KUeHhRdaW8P6uzzfy4iOVbz3KoEpp0gOgSIWU2Y9XWNe5I/cWnx/a+mfI7Mg31NBh/HLBgNj7rsY3RLPOhQO5KE/0wjoCQedrvpqJY/5ZVOUJmun39JskcR1+yOISxezd4tLncbzOjsCSEiHV0iRNRx70EEY54Ggko5PEcuKDKssDJL+AF0a4P+aFVN4o4MyMk3zNvJ/lvbUSArDgnwKzQfylLhm65yx/pnIEfOVr9qtm5vem+LdL0xgjTERGJtHAkC35et4AKSWPOhiXT8REEWdIrq/4tFqV7a55AjWOBRFRGRVil96n1b3lYiA0dbO0f1Py2jldn5oQJ1a5AD6eggBBOG2AkkXUzvOshFFcKTaQFwRtfzdz9vRQf9YpblOurrUitPT7v/8ro/JTjAv7nlvLHBVr0JuXA9uwtMIlD/oy5KG3QKk0Rz/eS14OTHU2H11fAKA5w==;PzDtv/0wa8FLAaqAaLgoWQ=="
+secured: "XPnkFyaJPucXpTt5LeuqRSJT+YDboIOGtUE8UY6C48Zvgintu/mrWTfL3hjCeFAsIjjI7y1i4aVxVjAkLVrHyz4TYc1bRz5X6bX5NqTnmLvCZOty95dXu70NCdq82/KckIpLbLoAyK+pI4oJOkh+qCGr1O6LF2yVz6S6aHL1V2R/PMJJ/8QSW2VQ+ckobI2I75Wdm93ILNEpcmMsn7yRo/YnsKc2a1oyfkX2spF/3mU5x5V0mEskjB0HRkuDjQFiqd371ckT2m566BlxfdrpKjyfIyimSgRKMvtpYu1sfSZP4mAJ7Lgc6GY1g7uQVaLU/YlcoaXY5Ipzyk2+n73XdggECJx0ujPjwdtkMPfnRXo=;V2uQ+dw/RKiL2jIkpqtoHA=="
 ---
 
