@@ -1,21 +1,27 @@
 ---
 category: news
 title: "Scality Announces 1 Terabit Per Second Performance for Scale-Out File System in Microsoft Azure Public Cloud"
-excerpt: "29, 2020 /PRNewswire/ -- Scality, a leader in software solutions for distributed file and object storage, today announced the technical preview of its high-performance scale-out file system (SOFS) in Microsoft Azure. Scality SOFS running in Azure delivers ..."
-publishedDateTime: 2020-09-29T13:30:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/scality-announces-1-terabit-per-second-performance-for-scale-out-file-system-in-microsoft-azure/article_f685f50b-01a5-5b3c-b019-70e8299790d2.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/scality-announces-1-terabit-per-second-performance-for-scale-out-file-system-in-microsoft-azure/article_f685f50b-01a5-5b3c-b019-70e8299790d2.html"
+excerpt: "Scality, a leader in software solutions for distributed file and object storage, today announced the technical preview of its"
+publishedDateTime: 2020-09-29T13:00:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/scality-announces-1-terabit-per-second-performance-for-scale-out-file-system-in-microsoft-azure-public-cloud-301138988.html"
+webUrl: "https://www.prnewswire.com/news-releases/scality-announces-1-terabit-per-second-performance-for-scale-out-file-system-in-microsoft-azure-public-cloud-301138988.html"
 type: article
-quality: 0
+quality: 18
 heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Azure
+
+images:
+  - url: "https://mma.prnewswire.com/media/519854/Scality_Logo.jpg?p=facebook"
+    width: 1740
+    height: 911
+    isCached: true
 
 related:
   - title: "Microsoft launches Azure Orbital to connect satellites to its cloud"
@@ -353,7 +359,7 @@ related:
   - title: "TransientAccess Now Available in the Microsoft Azure Marketplace"
     excerpt: "September 28th, 2020 - TransientX, transforming fixed and device-centric networks to disposable networks of apps, today announced the availability of TransientAccess Zero-Trust Network Access in the Microsoft Azure Marketplace,"
     publishedDateTime: 2020-09-28T14:28:00Z
-    webUrl: "https://www.marketwatch.com/press-release/transientaccess-now-available-in-the-microsoft-azure-marketplace-2020-09-28"
+    webUrl: "https://www.marketwatch.com/press-release/transientaccess-now-available-in-the-microsoft-azure-marketplace-2020-09-28?mod=mw_quote_news"
     type: article
     provider:
       name: MarketWatch
@@ -1338,6 +1344,6 @@ related:
         height: 450
         isCached: true
 
-secured: "LyEqfKPn5gjkPWQDlXKMd94ru7bYHyMKOn8vgVDxRXf61Qxa0YT1vXs6YS99GKunfRSJla1ffhZkhy3iy/UoIC8liYGGqWSRR/zXoeMeT7Gs66Ct8m6LC+d6tmYbEAI5/d+ZMcayOMlH6H1gD534j/sNykkOE0N7ckC4MGOicokpamAh5++r7iJGFNc1EaifAKNhFbdS31mSst4Q4A2zBE2YvHrRYRXG3exvW1IZRMCZ9HycCSsnjSWdfKdLNARruyxPjY0MFmr86nCzOeceB9jFHZvHacp8j5zlhxKTdMy1gImTAJu5YpPG2WnKxH46Irv7ObhHvYOaJUhP08CCtYCBoddOOsDcS86ReuSg6co=;mj1MtpzP7EcE5dLwiL1+yQ=="
+secured: "GXu5JKfi1IvtuW5O1z3aCHqrv7iXqsykS4imajufEHGc5OawdUT81rpj/vJI/wgZci0HZgysJ6Q+G2DfNlUl343zhPWZczppyKE1P4yPR0x6RUkbF5IAUJchr0y14oLDjxkU4Tjhv8Ofkf2nYNTg41+xoQuDvXI0E4uwWNep0AcI30r1WFuoxjGNAmb1JCDLH8+EfG+D8bYNt953/LE/058DagoamsOQ0lqSd3tv3Tl6m1l5qScT7ezE5NWmoUUtDq7ApHKOQ2pKOxQ9QzqWabp8+jeaOmh7alpRgYlSTZpjso41AubKh9EgOX5iYKKbvUAfqs4dtFCc6twcUM8Ezv68WfQLQhDSaa7OyqO1p9w=;8HNf9sAQMzb63aJem8BEiA=="
 ---
 

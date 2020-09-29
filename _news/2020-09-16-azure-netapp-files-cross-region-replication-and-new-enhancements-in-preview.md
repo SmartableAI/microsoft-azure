@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/azure-netapp-files-cross-region-r
 webUrl: "https://azure.microsoft.com/blog/azure-netapp-files-cross-region-replication-and-new-enhancements-in-preview/"
 type: article
 quality: 89
-heat: 129
+heat: 109
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Achieving business resilience with cloud application development"
-    excerpt: "When it comes to how people want to engage with organizations advancements in real-time—multichannel communication have raised expectations. Restrictions on physical interactions due to current events are accelerating adoption of remote, cloud-based solutions for customer engagement."
-    publishedDateTime: 2020-09-23T08:00:13Z
-    webUrl: "https://azure.microsoft.com/blog/achieving-business-resilience-with-cloud-application-development/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 72
-    images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/000d2f41-ef1f-4f3c-ba70-23cf7443c922.png"
-        width: 1034
-        height: 630
-        isCached: true
   - title: "Public Preview of Azure NetApp Files Cross Region Replication (CRR) capability"
     excerpt: "Replicate Azure NetApp Files volumes from one Azure region to another in a fast and cost-effective way, protecting your data from unforeseeable regional failures. "
     publishedDateTime: 2020-09-02T16:00:05Z

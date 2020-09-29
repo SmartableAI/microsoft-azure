@@ -361,7 +361,7 @@ related:
   - title: "TransientAccess Now Available in the Microsoft Azure Marketplace"
     excerpt: "September 28th, 2020 - TransientX, transforming fixed and device-centric networks to disposable networks of apps, today announced the availability of TransientAccess Zero-Trust Network Access in the Microsoft Azure Marketplace,"
     publishedDateTime: 2020-09-28T14:28:00Z
-    webUrl: "https://www.marketwatch.com/press-release/transientaccess-now-available-in-the-microsoft-azure-marketplace-2020-09-28"
+    webUrl: "https://www.marketwatch.com/press-release/transientaccess-now-available-in-the-microsoft-azure-marketplace-2020-09-28?mod=mw_quote_news"
     type: article
     provider:
       name: MarketWatch
@@ -1216,6 +1216,20 @@ related:
       name: MyBroadband
       domain: mybroadband.co.za
     quality: 22
+  - title: "Scality Announces 1 Terabit Per Second Performance for Scale-Out File System in Microsoft Azure Public Cloud"
+    excerpt: "Scality, a leader in software solutions for distributed file and object storage, today announced the technical preview of its"
+    publishedDateTime: 2020-09-29T13:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/scality-announces-1-terabit-per-second-performance-for-scale-out-file-system-in-microsoft-azure-public-cloud-301138988.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 18
+    images:
+      - url: "https://mma.prnewswire.com/media/519854/Scality_Logo.jpg?p=facebook"
+        width: 1740
+        height: 911
+        isCached: true
   - title: "Oracle launches Microsoft Azure cloud interconnect location in Tokyo"
     excerpt: "Oracle has expanded its cloud interoperability collaboration with Microsoft Azure into Asia with a new cloud interconnect location in Tokyo. This new Tokyo interconnection is expected to enable businesses to share data across applications running in Microsoft Azure and Oracle Cloud."
     publishedDateTime: 2020-05-11T12:17:00Z
@@ -1329,15 +1343,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Scality Announces 1 Terabit Per Second Performance for Scale-Out File System in Microsoft Azure Public Cloud"
-    excerpt: "29, 2020 /PRNewswire/ -- Scality, a leader in software solutions for distributed file and object storage, today announced the technical preview of its high-performance scale-out file system (SOFS) in Microsoft Azure. Scality SOFS running in Azure delivers ..."
-    publishedDateTime: 2020-09-29T13:30:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/scality-announces-1-terabit-per-second-performance-for-scale-out-file-system-in-microsoft-azure/article_f685f50b-01a5-5b3c-b019-70e8299790d2.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 0
 
 secured: "ZFfAGJJe0ygZMUHgglWCmb5JBR4CKacBk+bs+MX6PYTx4y97pHh3L85lR+Nj1WXppg8TT53WqP+73cnfI7ILpHqGAURCH8s4G42q0HDZstrW8bXezSU5To2yaP/GM/gEqZRi2ZubZb+K/8kOVgSv3bLaEmhl09MEC+39fnGlszHG28kA4H2xIRHyUlIcrmpMofp0SG1J1VcLqvgEogPKG+3XzqyiZPFd+YqIKcPmFHJYu+tnm8tn4LmpdaA3/qq8PcZ0IZ5K/3QkPka9L1iqmx5xoaYl+wmVpD1nsOR84w75cXta0nYAXerU5J4q2+4m7V5wF4YgaZNeY2qBuP1JdMcS+SHwsbl0WZJPRobEGq0ZbQQznCaGp0EVDKaH5JNXtdVJ0AJi/NK5dGFClw9hQiiBIK669I9HE2sUxwP8jiUgVw7RuIEh7VPnH7HMtl8r6wYYHGgIFFNinRR4VPkkzHMSqrPUq0Jjj5giNp8T9feO5hh0ueGRRKRAhVBvacunu8FfO433kGjYkHvH8cUJlQ==;2dUij2K3CQp7v56a/jWAlw=="
 ---

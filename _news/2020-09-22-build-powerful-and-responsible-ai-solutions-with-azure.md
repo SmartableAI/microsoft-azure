@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/build-powerful-and-responsible-ai
 webUrl: "https://azure.microsoft.com/blog/build-powerful-and-responsible-ai-solutions-with-azure/"
 type: article
 quality: 84
-heat: 124
+heat: 104
 published: true
 
 provider:
@@ -23,20 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "Build rich communication experiences at scale with Azure Communication Services"
-    excerpt: "In this remote-first world, businesses are looking to quickly adapt to customers’ needs and connect with them through engaging communication experiences. Building new communication solutions or integrating them into existing applications can be complex and time-consuming. Often requiring considerable"
-    publishedDateTime: 2020-09-22T08:00:31Z
-    webUrl: "https://azure.microsoft.com/blog/build-rich-communication-experiences-at-scale-with-azure-communication-services/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 83
-    images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/5714ed9c-7365-4095-b8db-762920382282.png"
-        width: 848
-        height: 385
-        isCached: true
   - title: "AT&T powered guardian device with Azure Sphere enables highly secured, simple, and scalable connectivity from anywhere"
     excerpt: "In July 2019, Microsoft and AT&T entered a strategic alliance to lead innovation and deliver powerful new solutions in some of the most transformative technologies, including the Internet of Things (IoT). Today, we are sharing that as part of that partnership, AT&T is introducing a new IoT solution consisting"
     publishedDateTime: 2020-09-22T08:00:16Z

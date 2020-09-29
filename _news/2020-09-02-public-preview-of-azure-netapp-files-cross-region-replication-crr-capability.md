@@ -36,20 +36,6 @@ related:
         width: 1024
         height: 529
         isCached: true
-  - title: "Achieving business resilience with cloud application development"
-    excerpt: "When it comes to how people want to engage with organizations advancements in real-time—multichannel communication have raised expectations. Restrictions on physical interactions due to current events are accelerating adoption of remote, cloud-based solutions for customer engagement."
-    publishedDateTime: 2020-09-23T08:00:13Z
-    webUrl: "https://azure.microsoft.com/blog/achieving-business-resilience-with-cloud-application-development/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 72
-    images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/000d2f41-ef1f-4f3c-ba70-23cf7443c922.png"
-        width: 1034
-        height: 630
-        isCached: true
 
 secured: "ourU4WGq5LNLac7gUSbwBVE1HNT1MxewsTvgjHqeurUackGZKY/UKIUJjmCaDHngn69xPWL118IN+6dxA4cTm5HV1ANJGXbfS9Scca2F9P72pL24bqq3Zd1jxQInPTXhq9q2a/hvc9luvYdHB4N9fJomeKvsUnt9tP231JMPtcEUkERTBm+IOYhFkLNJ28hgTwhkUh4J6oUEjBLfWDqxAVMVym+bNPsvnlhj625WGRKCLzAmovFRsCXx+n9KMpJ9n5Re1SXAp2dXEFA4ZJy7jETG0HyTiMUBNbIyhqLX/CE9zIgg56h1dsNDKy9xrG3HRCDjFxCDWE220WjDmKhi7xkEnCVT/Cw26JVAMzboNFw=;P8lxNU8g79ycLrqdU0oYGw=="
 ---
