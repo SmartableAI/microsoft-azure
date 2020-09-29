@@ -1,26 +1,26 @@
 ---
 category: news
-title: "Cooling loss causes outage at Microsoft Azure's UK South region"
-excerpt: "On Monday, September 14, a Microsoft Azure data center experienced an extended outage due to a cooling incident. The UK South facility was brought offline when multiple chilled water pumps shut down for reasons unknown,"
-publishedDateTime: 2020-09-15T14:14:00Z
-originalUrl: "https://www.datacenterdynamics.com/en/news/cooling-loss-causes-outage-microsoft-azures-uk-south-region/"
-webUrl: "https://www.datacenterdynamics.com/en/news/cooling-loss-causes-outage-microsoft-azures-uk-south-region/"
+title: "Nutanix Announces Partnership with Microsoft Azure for a Seamless Hybrid Experience"
+excerpt: "We are excited to collaborate with Nutanix to give customers flexibility and a seamless experience with hybrid Nutanix and Azure solutions.” As a result of the partnership, Nutanix and Microsoft will deliver: Nutanix Clusters on Azure: As part of this ..."
+publishedDateTime: 2020-09-11T06:01:00Z
+originalUrl: "https://www.totaltele.com/507041/Nutanix-Announces-Partnership-with-Microsoft-Azure-for-a-Seamless-Hybrid-Experience"
+webUrl: "https://www.totaltele.com/507041/Nutanix-Announces-Partnership-with-Microsoft-Azure-for-a-Seamless-Hybrid-Experience"
 type: article
-quality: 37
+quality: 31
 heat: -1
 published: false
 
 provider:
-  name: Datacenter Dynamics
-  domain: datacenterdynamics.com
+  name: Total Telecom
+  domain: totaltele.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://media.datacenterdynamics.com/media/images/Microsoft_Cloud.2e16d0ba.fill-1200x630.jpg"
-    width: 1200
-    height: 630
+  - url: "https://www.totaltele.com/res/image/articleimages/5g-icon-hpe.png"
+    width: 576
+    height: 583
     isCached: true
 
 related:
@@ -215,6 +215,20 @@ related:
         width: 300
         height: 350
         isCached: true
+  - title: "Cooling loss causes outage at Microsoft Azure's UK South region"
+    excerpt: "On Monday, September 14, a Microsoft Azure data center experienced an extended outage due to a cooling incident. The UK South facility was brought offline when multiple chilled water pumps shut down for reasons unknown,"
+    publishedDateTime: 2020-09-15T14:14:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/cooling-loss-causes-outage-microsoft-azures-uk-south-region/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 37
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/Microsoft_Cloud.2e16d0ba.fill-1200x630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "The Gorilla Guide to…Express Edition: IT Resilience with Microsoft Azure"
     excerpt: "Facing challenges of navigating disparate technologies or outdated backup? It’s time for IT Resilience in the cloud with Zerto and Microsoft Azure. With powerful continuous data protection, super simple application mobility and cloud agility capabilities ..."
     publishedDateTime: 2020-09-14T21:21:00Z
@@ -268,20 +282,6 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 32
-  - title: "Nutanix Announces Partnership with Microsoft Azure for a Seamless Hybrid Experience"
-    excerpt: "We are excited to collaborate with Nutanix to give customers flexibility and a seamless experience with hybrid Nutanix and Azure solutions.” As a result of the partnership, Nutanix and Microsoft will deliver: Nutanix Clusters on Azure: As part of this ..."
-    publishedDateTime: 2020-09-11T06:01:00Z
-    webUrl: "https://www.totaltele.com/507041/Nutanix-Announces-Partnership-with-Microsoft-Azure-for-a-Seamless-Hybrid-Experience"
-    type: article
-    provider:
-      name: Total Telecom
-      domain: totaltele.com
-    quality: 31
-    images:
-      - url: "https://www.totaltele.com/res/image/articleimages/5g-icon-hpe.png"
-        width: 576
-        height: 583
-        isCached: true
   - title: "Migrating and managing Oracle applications and database platforms on Microsoft Azure"
     excerpt: "Data Intensity announced the launch of Safe-Switch, a life-cycle approach to migrating and managing Oracle applications and database platforms on Microsoft Azure. In response to the Oracle and ..."
     publishedDateTime: 2020-09-10T23:07:00Z
@@ -366,6 +366,6 @@ related:
         height: 583
         isCached: true
 
-secured: "7zyiC9ha2EZEqnATLnGxDWxK8a4/5apDHMgoN+0il9htl+EABRJIYibXgB4ZsOOdpLO68pkbHUHgFcpBDIBGWJqCC3n/5qLTcA3tv20uNnecyjF/XM8cw8y0fx0KhIwOhBaL9bkA3j8Lnef8fwyIsG03qiwjWVJqhQP9aoPE4xcP7vhoOZlcHEhY+lh+YO+sgcfA1zfcweo4dc7O3WQXAtT0w58H10RA7lMgEYA1F7k2B++pE9m7nU0rOAXdCg/Wf+3VMbvaA23wZ0k+Cn26CCLSh8mmI7OvH7Giho7qmrOYBUrZH/PGKCevAv5CT61RiY6/FJUj+5hhubwnvrw0Tl9tvL5fDFs29Ld0XrIjo04hooGkYgf6tQew0dijaEDXyu+bLgaeaQ9DK4XL2SRb7diCHY75L8LS0yFsf0BT4sPHn8RpfZ3wcb64e7Mek9RqkdBWGaZBr/DDkrr6mY2MVg7dEjbAA+9GBi7UhdqW/3BdzwgdmCMvemejJhzqwacSMzDlVKPlYzhXJHoLKeo0weiIeTynFInLrlIDwTGG8/E=;Z2MfoR8e/XEzcZOUjsrFxQ=="
+secured: "7JCp3O2eAlcwYiPqYykyUExGN6RJ9OYBZhJzdGfz03nTsnxAzFqHXalxkIRzBBCUHHpjNTwJk4b8sDYTNfRCU0kOXOKA2+1GrRvRyMrfQQ6JvheOmYk8MPwznIUWNw3d7bAR/6hODtVtcdU3NDSfJGzJT7nbILXtGlujnMIIAF25kt+bmuzeqLb0kFY7xWVvLbnsd9T/AzlToG/xQDEtT4raM2XfgI5bCeDphucdwTbYFnj/VapS2ISyID2z02g4lE2K466dVNXj92vGbfmP1dS0NmBRWqiNSvU3jtwjAZBZLJguWObv07XyJASnZbZpl6c8/ZlCesuLRMqWZY8xy+I1UebLfozuwefUuOEnAQc=;gCO1zBJTfCYzryZqwYsHbQ=="
 ---
 

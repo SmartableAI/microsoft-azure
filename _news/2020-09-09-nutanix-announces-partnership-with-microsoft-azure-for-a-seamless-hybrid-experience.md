@@ -272,6 +272,20 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 32
+  - title: "Nutanix Announces Partnership with Microsoft Azure for a Seamless Hybrid Experience"
+    excerpt: "We are excited to collaborate with Nutanix to give customers flexibility and a seamless experience with hybrid Nutanix and Azure solutions.” As a result of the partnership, Nutanix and Microsoft will deliver: Nutanix Clusters on Azure: As part of this ..."
+    publishedDateTime: 2020-09-11T06:01:00Z
+    webUrl: "https://www.totaltele.com/507041/Nutanix-Announces-Partnership-with-Microsoft-Azure-for-a-Seamless-Hybrid-Experience"
+    type: article
+    provider:
+      name: Total Telecom
+      domain: totaltele.com
+    quality: 31
+    images:
+      - url: "https://www.totaltele.com/res/image/articleimages/5g-icon-hpe.png"
+        width: 576
+        height: 583
+        isCached: true
   - title: "Migrating and managing Oracle applications and database platforms on Microsoft Azure"
     excerpt: "Data Intensity announced the launch of Safe-Switch, a life-cycle approach to migrating and managing Oracle applications and database platforms on Microsoft Azure. In response to the Oracle and ..."
     publishedDateTime: 2020-09-10T23:07:00Z

@@ -3,8 +3,8 @@ category: news
 title: "Microsoft Office 365, Azure plagued by disruptions for hours"
 excerpt: "Microsoft Corp. on Monday suffered disruptions with its Office 365 workplace software tools and its Azure cloud that disabled some users for hours."
 publishedDateTime: 2020-09-29T03:04:00Z
-originalUrl: "https://www.marketwatch.com/story/microsoft-office-365-azure-plagued-by-disruptions-for-hours-11601348262?dist=bigcharts"
-webUrl: "https://www.marketwatch.com/story/microsoft-office-365-azure-plagued-by-disruptions-for-hours-11601348262?dist=bigcharts"
+originalUrl: "https://www.marketwatch.com/story/microsoft-office-365-azure-plagued-by-disruptions-for-hours-11601348262"
+webUrl: "https://www.marketwatch.com/story/microsoft-office-365-azure-plagued-by-disruptions-for-hours-11601348262"
 type: article
 quality: 77
 heat: -1
@@ -1224,6 +1224,6 @@ related:
         height: 450
         isCached: true
 
-secured: "yhsQNgPZ8wZ+FOd/FMmBO0040rAWCJo+quwt+Z3rhDR+uKWXCJz8QLcoNANxqCR6T5iE0A3L3LzC3tOmUGIL039eRoIdCWRhsIvbb1Ad6KFCtfMxjzxLY5e4rwKGtHHHTIKXbC9hf1R3cGx3rHwwss7/ewuQbM9Oupgb8HA7d4hd2OigW0UYusLG/sT2N4JCyWiud61O4B8oO9XnBtShP5G+WHqVZ+z6VO9kZMRENcklprtzFK2CRkSIvdWQA5BUHEiFYyDG2TVbqJpXa3DZIIz2N0hh8ZjbNmNo0fR4jW8Qw/kbdeXO9tyeWFEduZJaKkbbA7IsUZUBddFoHgTG6XZ63j82FUrsBw08bQr8if0=;sToQfcNSfZ7pBJWUTs9fkA=="
+secured: "DH18ZECBcI9/TeVhs0DsZPbdt5mME70zpKptCLVY00UOqn+d/ZX1ZEivPmHepf0MGuPCtMYjMsNySy30eEZy5XSHY5K6fPyTA+hnloSOWWr9N7bzqZhqHkzsTEkn7wyn6lusQjFBR9ukbaT6gNxBHWbLp6L1kSjcrPULG0JiqLFBfafxYFMlpEUCeRBJnlZ29hIPkmbyK4yQnaJzb4PDEIWUrcn2ZtqD0yHnPKBMTitMVxy5mCZYWy0yMQADH9K8DaNvQmPuI453wtfviO34Cs5H9ofFVAOmIP45RLaljPwv6r3b5ENOQY1mnY44eQi/KP9w97efE4Rj3ynwM5O9t6ERnXQD9pjE1Os2LMflwQ8=;MgmZ6xo0HGmtdNTfgj5cSw=="
 ---
 

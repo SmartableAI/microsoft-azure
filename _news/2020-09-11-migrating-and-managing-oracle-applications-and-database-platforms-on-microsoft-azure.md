@@ -282,6 +282,20 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 32
+  - title: "Nutanix Announces Partnership with Microsoft Azure for a Seamless Hybrid Experience"
+    excerpt: "We are excited to collaborate with Nutanix to give customers flexibility and a seamless experience with hybrid Nutanix and Azure solutions.” As a result of the partnership, Nutanix and Microsoft will deliver: Nutanix Clusters on Azure: As part of this ..."
+    publishedDateTime: 2020-09-11T06:01:00Z
+    webUrl: "https://www.totaltele.com/507041/Nutanix-Announces-Partnership-with-Microsoft-Azure-for-a-Seamless-Hybrid-Experience"
+    type: article
+    provider:
+      name: Total Telecom
+      domain: totaltele.com
+    quality: 31
+    images:
+      - url: "https://www.totaltele.com/res/image/articleimages/5g-icon-hpe.png"
+        width: 576
+        height: 583
+        isCached: true
   - title: "Platform.sh announces expansion of services to Microsoft Azure West US 2 Datacenter Region"
     excerpt: "PRNewswire/ -- Platform.sh, an end-to-end web platform for agile teams, is pleased to announce the expansion of its services to the West US 2 datacenter"
     publishedDateTime: 2020-09-08T16:00:00Z
