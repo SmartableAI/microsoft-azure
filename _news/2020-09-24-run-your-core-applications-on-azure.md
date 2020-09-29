@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/run-your-core-applications-on-azu
 webUrl: "https://azure.microsoft.com/blog/run-your-core-applications-on-azure/"
 type: article
 quality: 87
-heat: 88
+heat: 87
 published: true
 
 provider:

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.neowin.net/amp/microsoft-and-bp-partner-up-on-azure-adva
 cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-and-bp-partner-up-on-azure-advancing-sustainability/"
 type: article
 quality: 97
-heat: 557
+heat: 577
 published: true
 
 provider:
@@ -246,6 +246,20 @@ related:
       - url: "https://mma.prnewswire.com/media/1004066/Mindtree_Logo.jpg?p=facebook"
         width: 1496
         height: 785
+        isCached: true
+  - title: "ID R&D Voice Biometrics Solutions Now Available on Microsoft Azure Marketplace"
+    excerpt: "Biometric solutions provider ID R&D has announced that its artificial intelligence-based voice biometrics solutions are now available on the Microsoft Azure Marketplace. The new availability means that Microsoft Azure customers worldwide are now able to ..."
+    publishedDateTime: 2020-09-10T21:03:00Z
+    webUrl: "https://findbiometrics.com/id-r-d-voice-biometrics-solutions-now-available-microsoft-azure-marketplace-091006/"
+    type: article
+    provider:
+      name: SecuriMetrics HIIDE
+      domain: findbiometrics.com
+    quality: 33
+    images:
+      - url: "https://findbiometrics.com/wp-content/uploads/47280552_thumbnail1-e1441294667310.jpg"
+        width: 800
+        height: 550
         isCached: true
   - title: "3Cloud, Microsoft Azure cloud computing firm, acquires Pragmatic Works Consulting"
     excerpt: "The deal expands 3Cloud's data and analytics capabilities and geographic reach, forming the largest Azure pure-play services firm in the United States."

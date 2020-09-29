@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-azure-based-senti
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-azure-based-sentinel-security-gets-new-analytics-to-spot-threats-in-odd-behavior/"
 type: article
 quality: 121
-heat: 562
+heat: 561
 published: true
 
 provider:

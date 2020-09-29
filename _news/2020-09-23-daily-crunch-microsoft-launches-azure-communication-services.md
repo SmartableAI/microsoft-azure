@@ -790,10 +790,24 @@ related:
         width: 800
         height: 530
         isCached: true
+  - title: "Microsoft enters 5G race with Azure cloud for telecom operators"
+    excerpt: "Microsoft unveiled a new cloud platform on Monday aimed at enabling telecom operators to build 5G networks faster, reduce costs and sell customised services to business clients."
+    publishedDateTime: 2020-09-28T23:49:00Z
+    webUrl: "https://www.arnnet.com.au/article/683314/microsoft-enters-5g-race-with-azure-cloud-for-telecom-operators/"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 37
+    images:
+      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/800x800/promoted_content/promo/2019-07-22t130129z_1_lynxnpef6l11y_rtroptp_4_microsoft-results-100825276-orig_1_1.jpg"
+        width: 740
+        height: 493
+        isCached: true
   - title: "Microsoft Unveils 5G/Telco Playbook With ‘Azure For Operators’"
     excerpt: "Microsoft Azure Monday laid out its playbook to partner with communications service providers by providing a carrier-grade platform for edge and cloud computing to help network operators realize the full potential of 5G technology."
     publishedDateTime: 2020-09-28T19:57:00Z
-    webUrl: "https://www.crn.com/slide-shows/cloud/microsoft-unveils-5g-telco-playbook-with-azure-for-operators-/2"
+    webUrl: "https://www.crn.com/slide-shows/cloud/microsoft-unveils-5g-telco-playbook-with-azure-for-operators-"
     type: article
     provider:
       name: CRN

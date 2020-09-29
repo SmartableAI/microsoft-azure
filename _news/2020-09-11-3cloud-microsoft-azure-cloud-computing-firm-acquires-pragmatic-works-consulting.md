@@ -253,6 +253,20 @@ related:
         width: 1496
         height: 785
         isCached: true
+  - title: "ID R&D Voice Biometrics Solutions Now Available on Microsoft Azure Marketplace"
+    excerpt: "Biometric solutions provider ID R&D has announced that its artificial intelligence-based voice biometrics solutions are now available on the Microsoft Azure Marketplace. The new availability means that Microsoft Azure customers worldwide are now able to ..."
+    publishedDateTime: 2020-09-10T21:03:00Z
+    webUrl: "https://findbiometrics.com/id-r-d-voice-biometrics-solutions-now-available-microsoft-azure-marketplace-091006/"
+    type: article
+    provider:
+      name: SecuriMetrics HIIDE
+      domain: findbiometrics.com
+    quality: 33
+    images:
+      - url: "https://findbiometrics.com/wp-content/uploads/47280552_thumbnail1-e1441294667310.jpg"
+        width: 800
+        height: 550
+        isCached: true
   - title: "Migrating and managing Oracle applications and database platforms on Microsoft Azure"
     excerpt: "Data Intensity announced the launch of Safe-Switch, a life-cycle approach to migrating and managing Oracle applications and database platforms on Microsoft Azure. In response to the Oracle and ..."
     publishedDateTime: 2020-09-10T23:07:00Z

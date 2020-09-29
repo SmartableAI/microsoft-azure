@@ -3,8 +3,8 @@ category: news
 title: "Microsoft Unveils 5G/Telco Playbook With ‘Azure For Operators’"
 excerpt: "Microsoft Azure Monday laid out its playbook to partner with communications service providers by providing a carrier-grade platform for edge and cloud computing to help network operators realize the full potential of 5G technology."
 publishedDateTime: 2020-09-28T19:57:00Z
-originalUrl: "https://www.crn.com/slide-shows/cloud/microsoft-unveils-5g-telco-playbook-with-azure-for-operators-/2"
-webUrl: "https://www.crn.com/slide-shows/cloud/microsoft-unveils-5g-telco-playbook-with-azure-for-operators-/2"
+originalUrl: "https://www.crn.com/slide-shows/cloud/microsoft-unveils-5g-telco-playbook-with-azure-for-operators-"
+webUrl: "https://www.crn.com/slide-shows/cloud/microsoft-unveils-5g-telco-playbook-with-azure-for-operators-"
 type: article
 quality: 37
 heat: -1
@@ -800,6 +800,20 @@ related:
         width: 800
         height: 530
         isCached: true
+  - title: "Microsoft enters 5G race with Azure cloud for telecom operators"
+    excerpt: "Microsoft unveiled a new cloud platform on Monday aimed at enabling telecom operators to build 5G networks faster, reduce costs and sell customised services to business clients."
+    publishedDateTime: 2020-09-28T23:49:00Z
+    webUrl: "https://www.arnnet.com.au/article/683314/microsoft-enters-5g-race-with-azure-cloud-for-telecom-operators/"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 37
+    images:
+      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/800x800/promoted_content/promo/2019-07-22t130129z_1_lynxnpef6l11y_rtroptp_4_microsoft-results-100825276-orig_1_1.jpg"
+        width: 740
+        height: 493
+        isCached: true
   - title: "TCS Quartz suite becomes available on Microsoft Azure Blockchain Service"
     excerpt: "Tata Consultancy Services announced the general availability of its award winning Quartz suite of blockchain based solutions on Microsoft Azure Blockchain Service. The Quartz suite of products helps organizations set up truly connected ecosystems ..."
     publishedDateTime: 2020-09-21T21:38:00Z
@@ -1176,6 +1190,6 @@ related:
         height: 450
         isCached: true
 
-secured: "ZxlkLwlzhaPP3ePqXeUnS4D1SfbIr57MQrJIfepITp43Ds/zMU61FJXj3gepK1PJ19jzleg5OHEUdicM46hY91CXZQwNFmLxFIMKpuVSezvBm4f1t5xjEB1EdnP0syek0vrmBY4f8MTNQ2A1ID8+lLkndw9L7UuFauOddphHVN4BoIfNPb0njMIizxtRMGgYJHIb5IQoa/9rlwMyWTjb915krXl/+LW20KY4QuqV6VyYJWC9Mmyn0sIcbNygxClM8Lf6g9c37zH0i0h1yOczFN/p/K6SucIvTBMgucOGb3ORCU86hm3ZZba0zyudWU9yC7DBQCjcq+AV597HOSso0SeRtDomXv5Vuz2RpFPqD7M=;VviQgNyRNr8TSN6xyHCvFg=="
+secured: "fpmnc01qdorRV8D2vmC7hvSlHSMqgkobT0vuwIg2t7w+es0d/vCWMdRYDDgHWhYNycV5oHPCfURSQVDsYw9bzfFXY8KwaJMWIjP9UwVpO886YH7oKbfPZcZCIQVWLcC60rnfp+b45bWPAb4rzh8ovf8MJ3nzD16UXv8DJ1DzqO5CR7RkJT+/r/IybThJoNdjunB9EQ2MUleYqyEk145qMepNpo/m5Xat+CMFXgJ50bZRtJnGJO7p1zyhiD53nm6RCcwOqnkgotvakcvbUIgt4KsSvy3xYDAKLgS4e3b4F7vXsNDj7CtdwkW75i/Vbp7arns7eFZ1B5OAc0NXkFQezGZ0cPBgqfBLPfQ264wZRmQ=;+ywQ/oBk94I7xEJ/JUS0rQ=="
 ---
 

@@ -1,32 +1,26 @@
 ---
 category: news
-title: "Microsoft Downed 18 Azure Cloud applications Used By low-Budget Chinese Gadolinium Hacking Group"
-excerpt: "You probably didn’t hear it here first but the incredibly impressive thing about modern hacking groups is how darned cheap they are - in every sense of that word."
-publishedDateTime: 2020-09-25T17:12:00Z
-originalUrl: "https://www.forbes.com/sites/johndunn/2020/09/25/microsoft-downed-18-azure-cloud-applications-used-by-low-budget-chinese-gadolinium-hacking-group/"
-webUrl: "https://www.forbes.com/sites/johndunn/2020/09/25/microsoft-downed-18-azure-cloud-applications-used-by-low-budget-chinese-gadolinium-hacking-group/"
-ampWebUrl: "https://www.forbes.com/sites/johndunn/2020/09/25/microsoft-downed-18-azure-cloud-applications-used-by-low-budget-chinese-gadolinium-hacking-group/amp/"
-cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johndunn/2020/09/25/microsoft-downed-18-azure-cloud-applications-used-by-low-budget-chinese-gadolinium-hacking-group/amp/"
+title: "Microsoft enters 5G race with Azure cloud for telecom operators"
+excerpt: "Microsoft unveiled a new cloud platform on Monday aimed at enabling telecom operators to build 5G networks faster, reduce costs and sell customised services to business clients."
+publishedDateTime: 2020-09-28T23:49:00Z
+originalUrl: "https://www.arnnet.com.au/article/683314/microsoft-enters-5g-race-with-azure-cloud-for-telecom-operators/"
+webUrl: "https://www.arnnet.com.au/article/683314/microsoft-enters-5g-race-with-azure-cloud-for-telecom-operators/"
 type: article
-quality: 84
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Forbes
-  domain: forbes.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/forbes.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: ARN
+  domain: arnnet.com.au
 
 topics:
   - Azure
 
 images:
-  - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f6e1f7b5065782fad98e914%2F0x0.jpg"
-    width: 1200
-    height: 686
+  - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/800x800/promoted_content/promo/2019-07-22t130129z_1_lynxnpef6l11y_rtroptp_4_microsoft-results-100825276-orig_1_1.jpg"
+    width: 740
+    height: 493
     isCached: true
 
 related:
@@ -203,6 +197,22 @@ related:
       - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/c53722a4-6938-4dea-bb41-a2c639481af2.png"
         width: 727
         height: 345
+        isCached: true
+  - title: "Microsoft Downed 18 Azure Cloud applications Used By low-Budget Chinese Gadolinium Hacking Group"
+    excerpt: "You probably didn’t hear it here first but the incredibly impressive thing about modern hacking groups is how darned cheap they are - in every sense of that word."
+    publishedDateTime: 2020-09-25T17:12:00Z
+    webUrl: "https://www.forbes.com/sites/johndunn/2020/09/25/microsoft-downed-18-azure-cloud-applications-used-by-low-budget-chinese-gadolinium-hacking-group/"
+    ampWebUrl: "https://www.forbes.com/sites/johndunn/2020/09/25/microsoft-downed-18-azure-cloud-applications-used-by-low-budget-chinese-gadolinium-hacking-group/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johndunn/2020/09/25/microsoft-downed-18-azure-cloud-applications-used-by-low-budget-chinese-gadolinium-hacking-group/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 84
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f6e1f7b5065782fad98e914%2F0x0.jpg"
+        width: 1200
+        height: 686
         isCached: true
   - title: "Microsoft Launches Cloud for Healthcare"
     excerpt: "Microsoft's new cloud offering aims to improve patient engagement and enhance collaboration in the post-COVID-19 era."
@@ -790,20 +800,6 @@ related:
         width: 800
         height: 530
         isCached: true
-  - title: "Microsoft enters 5G race with Azure cloud for telecom operators"
-    excerpt: "Microsoft unveiled a new cloud platform on Monday aimed at enabling telecom operators to build 5G networks faster, reduce costs and sell customised services to business clients."
-    publishedDateTime: 2020-09-28T23:49:00Z
-    webUrl: "https://www.arnnet.com.au/article/683314/microsoft-enters-5g-race-with-azure-cloud-for-telecom-operators/"
-    type: article
-    provider:
-      name: ARN
-      domain: arnnet.com.au
-    quality: 37
-    images:
-      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/800x800/promoted_content/promo/2019-07-22t130129z_1_lynxnpef6l11y_rtroptp_4_microsoft-results-100825276-orig_1_1.jpg"
-        width: 740
-        height: 493
-        isCached: true
   - title: "Microsoft Unveils 5G/Telco Playbook With ‘Azure For Operators’"
     excerpt: "Microsoft Azure Monday laid out its playbook to partner with communications service providers by providing a carrier-grade platform for edge and cloud computing to help network operators realize the full potential of 5G technology."
     publishedDateTime: 2020-09-28T19:57:00Z
@@ -1194,6 +1190,6 @@ related:
         height: 450
         isCached: true
 
-secured: "TrFpCOpEFE5dIUCk4Q4vZS4P/gjTAR8MTwm+6LCE/pnrt0iIGaNUgVXH2+omSSrpIMp3v5q5Mtt4pCbkjeSa/PjeBZAqqNFWl/OOPx4Q/cmwAgUuBhfQGMryxNkcVsxIF74JID6+OUonJJzGtFvN9VPbSXnxHlVWbRJ2Dzvh4LloFQj1mA/iI+bVvXQwd0MMrNTwbkbcJ3jJ5QjVJd5oYevRNf/Ki92KVsmoIjJphTUWX8tLW0NuCcha6IVzQDB9eYy2rvpUHWM3JA/+96er77kHR5UgqxXUh5Jz01zpvIyWYQx5EEvvww3SU0ko+HFFim42uKIHRN4S73FURYwXa7BE+941bzjX3CzyBEV5rSvvyZLCxbNmcC7vScT7aU+1bVJqWsWKg+Tr7/XGXNTHv/TL2uTvGMgPPogUtadcW8lTMRnKCPU5U6NNeCVtEsbd6B0UI4jSM2YeIXh7Q2exAVH22fSrXc1mP2FgAeMl+w4lQnXEXLGsfEhGZWvRZnnu5yvih7s36h/Ir1Qj+TBXtw==;/PdGlSEtMIjbI9M9nBEZ1A=="
+secured: "Cab4lH4dI3XduOq73Ugi1meqGElDnO2oIIVRHKKzgYp/3QhGbekOTv7U9r4Bm1/4efEa8y8CIkeK9QHpwTSDfR0Q5OKYpEiEOK1J6JmjTHyPQuCCWRP+BwZeeC0Haz4lK5nd2r75E5I1S4lcSX0Uts4pcpqLrMVpaRMEXvdHC6fbw0ndq7vdWJmCnMb+V8nZW3w/pGOs2Lrc6Mx3cDOKNN7JlaNtNsas5j5wWmYfiJwFs3y1aWhRNcce4aJ5C58z1tgXSUDzR7nRPi4IrAEhNeu0kHH0+ah+58NWLvoAW1TydFpDxGleozfaZk/GCY05XZ46sL8a9I0pjd/9YwLxWQA/WaDWllVPqN4Fqj6rk+w=;+tnP/b+5sL7TAXlTFzGHFg=="
 ---
 

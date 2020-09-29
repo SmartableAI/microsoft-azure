@@ -1,28 +1,26 @@
 ---
 category: news
-title: "Nutanix Announces Microsoft Azure Partnership To Drive Seamless Hybrid Cloud Experience"
-excerpt: "Nutanix has announced a new partnership with Microsoft that will enable both companies to deliver a hybrid solution with seamless application, data, and license mobility as well as unified management across on-premises and Azure environments,"
-publishedDateTime: 2020-09-09T01:46:00Z
-originalUrl: "https://www.scoop.co.nz/stories/BU2009/S00178/nutanix-announces-microsoft-azure-partnership-to-drive-seamless-hybrid-cloud-experience.htm"
-webUrl: "https://www.scoop.co.nz/stories/BU2009/S00178/nutanix-announces-microsoft-azure-partnership-to-drive-seamless-hybrid-cloud-experience.htm"
-ampWebUrl: "https://m.scoop.co.nz/stories/BU2009/S00178/nutanix-announces-microsoft-azure-partnership-to-drive-seamless-hybrid-cloud-experience.htm"
-cdnAmpWebUrl: "https://m-scoop-co-nz.cdn.ampproject.org/c/s/m.scoop.co.nz/stories/BU2009/S00178/nutanix-announces-microsoft-azure-partnership-to-drive-seamless-hybrid-cloud-experience.htm"
+title: "ID R&D Voice Biometrics Solutions Now Available on Microsoft Azure Marketplace"
+excerpt: "Biometric solutions provider ID R&D has announced that its artificial intelligence-based voice biometrics solutions are now available on the Microsoft Azure Marketplace. The new availability means that Microsoft Azure customers worldwide are now able to ..."
+publishedDateTime: 2020-09-10T21:03:00Z
+originalUrl: "https://findbiometrics.com/id-r-d-voice-biometrics-solutions-now-available-microsoft-azure-marketplace-091006/"
+webUrl: "https://findbiometrics.com/id-r-d-voice-biometrics-solutions-now-available-microsoft-azure-marketplace-091006/"
 type: article
-quality: 49
+quality: 33
 heat: -1
 published: false
 
 provider:
-  name: Scoop
-  domain: scoop.co.nz
+  name: SecuriMetrics HIIDE
+  domain: findbiometrics.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://m.scoop.co.nz/stories/images/1512/smcnz.png"
-    width: 268
-    height: 250
+  - url: "https://findbiometrics.com/wp-content/uploads/47280552_thumbnail1-e1441294667310.jpg"
+    width: 800
+    height: 550
     isCached: true
 
 related:
@@ -159,6 +157,22 @@ related:
         width: 816
         height: 459
         isCached: true
+  - title: "Nutanix Announces Microsoft Azure Partnership To Drive Seamless Hybrid Cloud Experience"
+    excerpt: "Nutanix has announced a new partnership with Microsoft that will enable both companies to deliver a hybrid solution with seamless application, data, and license mobility as well as unified management across on-premises and Azure environments,"
+    publishedDateTime: 2020-09-09T01:46:00Z
+    webUrl: "https://www.scoop.co.nz/stories/BU2009/S00178/nutanix-announces-microsoft-azure-partnership-to-drive-seamless-hybrid-cloud-experience.htm"
+    ampWebUrl: "https://m.scoop.co.nz/stories/BU2009/S00178/nutanix-announces-microsoft-azure-partnership-to-drive-seamless-hybrid-cloud-experience.htm"
+    cdnAmpWebUrl: "https://m-scoop-co-nz.cdn.ampproject.org/c/s/m.scoop.co.nz/stories/BU2009/S00178/nutanix-announces-microsoft-azure-partnership-to-drive-seamless-hybrid-cloud-experience.htm"
+    type: article
+    provider:
+      name: Scoop
+      domain: scoop.co.nz
+    quality: 49
+    images:
+      - url: "https://m.scoop.co.nz/stories/images/1512/smcnz.png"
+        width: 268
+        height: 250
+        isCached: true
   - title: "Google Cloud just nabbed another former bank exec as it looks to compete with AWS and Microsoft Azure for Wall Street customers"
     excerpt: "Derek White joins Google Cloud as vice president of global financial services after having served as chief digital officer at US Bank."
     publishedDateTime: 2020-09-10T13:03:00Z
@@ -242,20 +256,6 @@ related:
       - url: "https://mma.prnewswire.com/media/1004066/Mindtree_Logo.jpg?p=facebook"
         width: 1496
         height: 785
-        isCached: true
-  - title: "ID R&D Voice Biometrics Solutions Now Available on Microsoft Azure Marketplace"
-    excerpt: "Biometric solutions provider ID R&D has announced that its artificial intelligence-based voice biometrics solutions are now available on the Microsoft Azure Marketplace. The new availability means that Microsoft Azure customers worldwide are now able to ..."
-    publishedDateTime: 2020-09-10T21:03:00Z
-    webUrl: "https://findbiometrics.com/id-r-d-voice-biometrics-solutions-now-available-microsoft-azure-marketplace-091006/"
-    type: article
-    provider:
-      name: SecuriMetrics HIIDE
-      domain: findbiometrics.com
-    quality: 33
-    images:
-      - url: "https://findbiometrics.com/wp-content/uploads/47280552_thumbnail1-e1441294667310.jpg"
-        width: 800
-        height: 550
         isCached: true
   - title: "3Cloud, Microsoft Azure cloud computing firm, acquires Pragmatic Works Consulting"
     excerpt: "The deal expands 3Cloud's data and analytics capabilities and geographic reach, forming the largest Azure pure-play services firm in the United States."
@@ -352,6 +352,6 @@ related:
         height: 583
         isCached: true
 
-secured: "5TlzxIv0mnXxpjDgS6G2CSkIuU/CB43kOeulkVul1scIvRWuIXuVs7zLX/I4Y79jC+pLueyyGQGHEGU5A/YFWQ7EA1nTug5OaF6oGw/TLZBPpsS8FkLyr1wNp2tVZ5aZa+BF+5a6kResTkMnu+0J/Y5xtWLle84SqdgwIqQatYEOC4ruQes8F4XnGdk71Vb9HQE4ghHpgRcTG/4CRiIltfu1olVYjIz6bzsCmv1yhcUK+ATsZMj4JmjF0kNxXsroguuucOmiOMR69Thkw6hPVjnhDgqtOElUG0cWB/uDEVjKyBpkC8w2d21tuKILm6AuGvFR7LAt+ga/N9KRbTngL8WOl9ibjto89jBOWDkqVeE=;Byy6AgffzPBykt1YWJ+aHQ=="
+secured: "wlM+Kl/MR6IVI+O0eqOGX04VWykIZldPuiIRkNGKNYRe4QwhPwDGRkJPcd2OFCxA3WrNhBYSBVYjC3+8H6iL3ViA7KTbIb/ntsm6YiWvU0QXnOJ/KQ7w2fTGlrCPkbANiYXdRgkke9UEdinr8nplhBIzZB2EAIxbWz4oz2mmlnpsX6YwBG4tXMIb/wL2mWGoJIjdeA8EgJLRB/Ydqti0Q+H+pIIFThq3BcBcolFhDUUjPevGTsQmTj3QmcXRo/GjNjLE8RPVHZ0aGJlIeqZAqlHVi7S2IVHftFjOh1KAKRBx2VLGy5SeBpRa0/3rl/yKscGHK6kkbyJo8jYEU5bGRm2JL4ENJsoBHu/NYJRx5SY=;NwOl3rp88gnRpM9upWI82Q=="
 ---
 
