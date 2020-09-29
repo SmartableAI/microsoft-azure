@@ -1,26 +1,26 @@
 ---
 category: news
-title: "Microsoft Ignite: Azure Advances Across Five Frontiers"
-excerpt: "To kick off the Microsoft Ignite virtual conference, CEO Satya Nadella made a bold claim about the public cloud with the second-largest market share behind Amazon."
-publishedDateTime: 2020-09-22T20:51:00Z
-originalUrl: "https://redmondmag.com/articles/2020/09/22/microsoft-ignite-azure-5-frontiers.aspx"
-webUrl: "https://redmondmag.com/articles/2020/09/22/microsoft-ignite-azure-5-frontiers.aspx"
+title: "Scality Announces 1 Terabit Per Second Performance for Scale-Out File System in Microsoft Azure Public Cloud"
+excerpt: "Scality, a leader in software solutions for distributed file and object storage, today announced the technical preview of its"
+publishedDateTime: 2020-09-29T13:00:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/scality-announces-1-terabit-per-second-performance-for-scale-out-file-system-in-microsoft-azure-public-cloud-301138988.html"
+webUrl: "https://www.prnewswire.com/news-releases/scality-announces-1-terabit-per-second-performance-for-scale-out-file-system-in-microsoft-azure-public-cloud-301138988.html"
 type: article
-quality: 37
+quality: 18
 heat: -1
 published: false
 
 provider:
-  name: Redmond Magazine
-  domain: redmondmag.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/IntroImagesBigSmall/MapRusticBig.jpg"
-    width: 1665
-    height: 1158
+  - url: "https://mma.prnewswire.com/media/519854/Scality_Logo.jpg?p=facebook"
+    width: 1740
+    height: 911
     isCached: true
 
 related:
@@ -814,6 +814,20 @@ related:
         width: 609
         height: 456
         isCached: true
+  - title: "Microsoft Ignite: Azure Advances Across Five Frontiers"
+    excerpt: "To kick off the Microsoft Ignite virtual conference, CEO Satya Nadella made a bold claim about the public cloud with the second-largest market share behind Amazon."
+    publishedDateTime: 2020-09-22T20:51:00Z
+    webUrl: "https://redmondmag.com/articles/2020/09/22/microsoft-ignite-azure-5-frontiers.aspx"
+    type: article
+    provider:
+      name: Redmond Magazine
+      domain: redmondmag.com
+    quality: 37
+    images:
+      - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/IntroImagesBigSmall/MapRusticBig.jpg"
+        width: 1665
+        height: 1158
+        isCached: true
   - title: "Microsoft’s Underwater Data Center A Success; Azure Ahead"
     excerpt: "... the Northern Isles has prompted Microsoft to look into leveraging underwater data centers to power the full suite of Microsoft Azure cloud services. “As we are moving from generic cloud computing to cloud and edge computing, we are seeing more and ..."
     publishedDateTime: 2020-09-22T19:27:00Z
@@ -1205,20 +1219,6 @@ related:
         width: 300
         height: 270
         isCached: true
-  - title: "Scality Announces 1 Terabit Per Second Performance for Scale-Out File System in Microsoft Azure Public Cloud"
-    excerpt: "Scality, a leader in software solutions for distributed file and object storage, today announced the technical preview of its"
-    publishedDateTime: 2020-09-29T13:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/scality-announces-1-terabit-per-second-performance-for-scale-out-file-system-in-microsoft-azure-public-cloud-301138988.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 18
-    images:
-      - url: "https://mma.prnewswire.com/media/519854/Scality_Logo.jpg?p=facebook"
-        width: 1740
-        height: 911
-        isCached: true
   - title: "Oracle launches Microsoft Azure cloud interconnect location in Tokyo"
     excerpt: "Oracle has expanded its cloud interoperability collaboration with Microsoft Azure into Asia with a new cloud interconnect location in Tokyo. This new Tokyo interconnection is expected to enable businesses to share data across applications running in Microsoft Azure and Oracle Cloud."
     publishedDateTime: 2020-05-11T12:17:00Z
@@ -1324,6 +1324,6 @@ related:
         height: 450
         isCached: true
 
-secured: "Kc4REH2pEh6g2ZuGEkuIeo5uu/p5QiDuHTNp8lNS4pvLkuA6nIIYer576SqPxpZkxeVGx9IYjWt0gd+Fu5mQJQ5yd6w+Ay651xj03VhFu4oC9EdYgjk988eTa2PW6wodTi8moZkkvH3j+NITEjRG3BEpxmsPLWJAEJV1OJSQk+KnDoz7HcKKObanJ1VJdL0gAqtrlwmtF65N1suLjAm7EpyNQkKax3tZWSHtiGgsJViCeTb5/pBHqb91PBnv8OpppEnMIoGenTbkipL67xlSpAth8v+7mvSehpBDqbd111MRhpr8VTOEqHLuecV2QvnwhZKQBLr6NtO5fHSbgpDLTmd0rPjiayYLijJXyqBFe9oEwdNe6mHUp+C7XS18uQPU7qxaFavUuqNTCHqZJf98g7vAWUYqLxWi2urIiZZ10LQAqymedF7RCy5KGu5hSsm7Iengztwqx86Bk59XCHWTSEWgVhNNFdgaCJnBomcnUMNW9w6Wv4iMSQeXwzgpDpQRGbclO4LkUT3SKKYutBWG9w==;xhXACzI5GXMx9NONng7jjA=="
+secured: "WxmqYxwffAY1uaHWwgTrXSxvKK669EOZA+EfJL1WYTBvf+CJ6mVn9JSH5uBMWzHplLtRLgJ6RWtZGMzCHKYDe1BjfUr3YQyIJF+0EVqPh7/fg2Q+fL2hjklTf2bDtHTfqXJjuMDmCbCB08f4PB7ZdfYnZoxuFmVehfQqcIrhP1LvLOK2LP5cylqeOio0/o5H8uKte2+a2ibWD8hyROepC1B7wb/Qy/s1WDnNTGgISihXS8RlOHJZpT0v3XLdMN6tGkBEOwdyRH/68FUdcEzThgPH85kRDhvTS9y3Sw7EsLi29N/R13AQBRxOmVkM1k+h1nJcQ9/Bv6ra2mOjJGd0J1mKmrS599Cy8Sq/Ca1AvMw=;Si5YZ4eFUcAX75jUjFgV6Q=="
 ---
 

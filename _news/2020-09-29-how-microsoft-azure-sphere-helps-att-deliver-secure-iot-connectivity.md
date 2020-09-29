@@ -1,32 +1,33 @@
 ---
 category: news
-title: "Microsoft is taking its Azure cloud into space"
-excerpt: "Azure Orbital will compete with rival AWS Ground Station service. Microsoft has launched a new cloud-based platform designed to help satellite operators ingest and analyse data drawn down from ..."
-publishedDateTime: 2020-09-23T13:43:00Z
-originalUrl: "https://www.techradar.com/uk/news/microsoft-is-taking-its-azure-cloud-into-space"
-webUrl: "https://www.techradar.com/uk/news/microsoft-is-taking-its-azure-cloud-into-space"
-ampWebUrl: "https://www.techradar.com/uk/amp/news/microsoft-is-taking-its-azure-cloud-into-space"
-cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/uk/amp/news/microsoft-is-taking-its-azure-cloud-into-space"
+title: "How Microsoft Azure Sphere Helps AT&T Deliver Secure IoT Connectivity"
+excerpt: "By adding cellular support to Azure Sphere, AT&T and Microsoft have enabled customers to quickly and securely connect their IoT devices to the cloud."
+publishedDateTime: 2020-09-29T13:38:00Z
+originalUrl: "https://www.forbes.com/sites/janakirammsv/2020/09/29/how-microsoft-azure-sphere-helps-att-deliver-secure-iot-connectivity/"
+webUrl: "https://www.forbes.com/sites/janakirammsv/2020/09/29/how-microsoft-azure-sphere-helps-att-deliver-secure-iot-connectivity/"
+ampWebUrl: "https://www.forbes.com/sites/janakirammsv/2020/09/29/how-microsoft-azure-sphere-helps-att-deliver-secure-iot-connectivity/amp/"
+cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2020/09/29/how-microsoft-azure-sphere-helps-att-deliver-secure-iot-connectivity/amp/"
 type: article
-quality: 97
+quality: 114
 heat: -1
 published: false
 
 provider:
-  name: TechRadar
-  domain: techradar.com
+  name: Forbes
+  domain: forbes.com
   images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/techradar.com-50x50.jpg"
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/forbes.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Azure
+  - IoT
 
 images:
-  - url: "https://cdn.mos.cms.futurecdn.net/dQoiSrD62YtvNU65gf2GJU-1200-80.jpg"
-    width: 970
-    height: 545
+  - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f72bee2246c9588deff2cc5%2F0x0.jpg"
+    width: 1000
+    height: 666
     isCached: true
 
 related:
@@ -45,22 +46,6 @@ related:
       - url: "https://zdnet4.cbsistatic.com/hub/i/r/2020/08/25/1284a515-4b68-4854-acfa-0aff9b6e5fba/thumbnail/1200x675/5dfcbb4710ad981ec95dff7c7eba7732/what-is-microsoft-azure-the-business-gui-5f3db47671c30002b05ceecf-1-aug-25-2020-17-10-49-poster.jpg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "How Microsoft Azure Sphere Helps AT&T Deliver Secure IoT Connectivity"
-    excerpt: "By adding cellular support to Azure Sphere, AT&T and Microsoft have enabled customers to quickly and securely connect their IoT devices to the cloud."
-    publishedDateTime: 2020-09-29T13:38:00Z
-    webUrl: "https://www.forbes.com/sites/janakirammsv/2020/09/29/how-microsoft-azure-sphere-helps-att-deliver-secure-iot-connectivity/"
-    ampWebUrl: "https://www.forbes.com/sites/janakirammsv/2020/09/29/how-microsoft-azure-sphere-helps-att-deliver-secure-iot-connectivity/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2020/09/29/how-microsoft-azure-sphere-helps-att-deliver-secure-iot-connectivity/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 114
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f72bee2246c9588deff2cc5%2F0x0.jpg"
-        width: 1000
-        height: 666
         isCached: true
   - title: "Column-level encryption for Azure Synapse Analytics"
     excerpt: "Azure Synapse Analytics already provides a breadth of options that can be used to handle sensitive data in a secure manner—we are expanding that support with the introduction of Column Level Encryption (CLE)."
@@ -113,6 +98,22 @@ related:
       - url: "https://zdnet4.cbsistatic.com/hub/i/2020/04/14/ae52840f-bd1d-4e9d-8ec2-114e56664784/synapse.jpg"
         width: 750
         height: 500
+        isCached: true
+  - title: "Microsoft is taking its Azure cloud into space"
+    excerpt: "Azure Orbital will compete with rival AWS Ground Station service. Microsoft has launched a new cloud-based platform designed to help satellite operators ingest and analyse data drawn down from ..."
+    publishedDateTime: 2020-09-23T13:43:00Z
+    webUrl: "https://www.techradar.com/uk/news/microsoft-is-taking-its-azure-cloud-into-space"
+    ampWebUrl: "https://www.techradar.com/uk/amp/news/microsoft-is-taking-its-azure-cloud-into-space"
+    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/uk/amp/news/microsoft-is-taking-its-azure-cloud-into-space"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 97
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/dQoiSrD62YtvNU65gf2GJU-1200-80.jpg"
+        width: 970
+        height: 545
         isCached: true
   - title: "Microsoft adds more devices and services to its Azure Stack hybrid line-up"
     excerpt: "Microsoft is adding three new edge-computing devices and moving ahead, with various Azure-branded services that are part of its hybrid-cloud family."
@@ -359,6 +360,6 @@ related:
       domain: computerworld.com
     quality: 17
 
-secured: "mTrVjA/Qix9++75LcTvw2R21f/u4HX1J5QYl8m1W0Lwn7y1foqU96ebV7K1iIwnNuDHBElLoSLr7ZJ50G8d3UywfvauP4ZvcClxQWs0w4NM+UOdHGU2AgSgG/X5JrgOoKl9dUsz7Lob4OccSYhiNG4awCi/3EoK/xj404HDuxHV4tZRG5wO5W1PSVV0GigUZh7WkRzwdoq7/kKXoHUoglpDoNrpnkXeMMIrzkk2OqB0g8cQCj5D0CQp4umBWH7+YBrkPvZshe0irZZBvLZGFVlUoGNVFwXcFis6bXNK9X+wqGUC0df2vu/dIodMmcnN7QPz69jK54vgGM29hEllQaQjthSdpAnbAo4AhAqdVGLI=;WeClN5jQswOA3aq4mM2/cw=="
+secured: "XwwVr0nPRws6WknA9/l7HQCvCeYfQfRAvwjvGvZ2e0oSCet8TZPeLhcHtW0pNI2j0g57X3lkS+0sO1gC/DlnkSbDh+12EmF4EFaiGWDaRaQKIOOeFlaIVLT35o0l8knGBrWzMNjivxjFJBPwlEPfzq1aX75P/ZW6G5EThVo5rrOWuOaGxnNQA0k7mioEGM9KoC3GHMq/d1JowoOsHCmFhuuRRRNAqFeqPSuzLuK2w3Yj2KYnOWHe3oF9+B52mI1UMhQBujjhsWNhXtjaA0+R9mXeuKbZBX7cyqRZipX8xEzRsTYn200yhRgLy9CXvp2Qvubf7CPnwWCwZdNnbmnG2I1LoKvP5ZqdbuS43Qhbhyw=;I/ZxcyxMadnVYjV+COkdVg=="
 ---
 

@@ -39,6 +39,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "How Microsoft Azure Sphere Helps AT&T Deliver Secure IoT Connectivity"
+    excerpt: "By adding cellular support to Azure Sphere, AT&T and Microsoft have enabled customers to quickly and securely connect their IoT devices to the cloud."
+    publishedDateTime: 2020-09-29T13:38:00Z
+    webUrl: "https://www.forbes.com/sites/janakirammsv/2020/09/29/how-microsoft-azure-sphere-helps-att-deliver-secure-iot-connectivity/"
+    ampWebUrl: "https://www.forbes.com/sites/janakirammsv/2020/09/29/how-microsoft-azure-sphere-helps-att-deliver-secure-iot-connectivity/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2020/09/29/how-microsoft-azure-sphere-helps-att-deliver-secure-iot-connectivity/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 114
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f72bee2246c9588deff2cc5%2F0x0.jpg"
+        width: 1000
+        height: 666
+        isCached: true
   - title: "COPY command now generally available in Azure Synapse Analytics"
     excerpt: "The COPY command can now automatically parse your files to calculate file splits and can evenly distribute data chunks across the Synapse SQL compute nodes for parallel ingestion. "
     publishedDateTime: 2020-09-23T16:00:13Z
