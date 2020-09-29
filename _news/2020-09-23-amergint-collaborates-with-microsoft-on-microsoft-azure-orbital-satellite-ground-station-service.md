@@ -1,31 +1,27 @@
 ---
 category: news
 title: "AMERGINT Collaborates with Microsoft on Microsoft Azure Orbital Satellite Ground Station Service"
-excerpt: "Before it's here, it's on the Bloomberg Terminal."
-publishedDateTime: 2020-09-23T13:05:00Z
-originalUrl: "https://www.bloomberg.com/press-releases/2020-09-23/amergint-collaborates-with-microsoft-on-microsoft-azure-orbital-satellite-ground-station-service"
-webUrl: "https://www.bloomberg.com/press-releases/2020-09-23/amergint-collaborates-with-microsoft-on-microsoft-azure-orbital-satellite-ground-station-service"
+excerpt: "AMERGINT Technologies announced it is working with Microsoft on their new Microsoft Azure Orbital, a new cloud service for connecting users to their satellites. AMERGINT is supporting Azure ..."
+publishedDateTime: 2020-09-23T15:06:00Z
+originalUrl: "https://www.thedailytimes.com/business/amergint-collaborates-with-microsoft-on-microsoft-azure-orbital-satellite-ground-station-service/article_8211da01-8318-568a-982c-871d6d021f89.html"
+webUrl: "https://www.thedailytimes.com/business/amergint-collaborates-with-microsoft-on-microsoft-azure-orbital-satellite-ground-station-service/article_8211da01-8318-568a-982c-871d6d021f89.html"
 type: article
-quality: 81
+quality: 41
 heat: -1
 published: false
 
 provider:
-  name: Bloomberg
-  domain: bloomberg.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/bloomberg.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: thedailytimes.com
+  domain: thedailytimes.com
 
 topics:
   - Azure
   - Networking
 
 images:
-  - url: "https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg"
-    width: 1200
-    height: 630
+  - url: "https://bloximages.chicago2.vip.townnews.com/thedailytimes.com/content/tncms/custom/image/4c01e2ce-7067-11e6-87cd-0725ce0cc960.jpg?resize=600%2C600"
+    width: 600
+    height: 600
     isCached: true
 
 related:
@@ -108,6 +104,22 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2020/08/GettyImages-1248409190.jpg?w=1024"
         width: 1024
         height: 683
+        isCached: true
+  - title: "Microsoft Azure for Operators is a cloud platform for telcos"
+    excerpt: "Microsoft’s push into the telecoms market continues with the launch of a dedicated suite of cloud services called ‘Azure for Operators’, hoping to capitalise on increased demand from telcos in the 5G era."
+    publishedDateTime: 2020-09-29T10:58:00Z
+    webUrl: "https://www.techradar.com/au/news/microsoft-azure-for-operators-is-a-cloud-platform-for-telcos"
+    ampWebUrl: "https://www.techradar.com/au/amp/news/microsoft-azure-for-operators-is-a-cloud-platform-for-telcos"
+    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/au/amp/news/microsoft-azure-for-operators-is-a-cloud-platform-for-telcos"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 97
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/kExEad3yNfdKVXRBuEsmfc-1200-80.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Microsoft Office 365, Azure Cloud Disrupted by Service Issues"
     excerpt: "Microsoft on Monday suffered disruptions with its Office 365 workplace software tools and its Azure cloud that disabled some users for hours."
@@ -662,6 +674,22 @@ related:
         width: 1070
         height: 580
         isCached: true
+  - title: "Sports IoT platform FanPlay moves to Microsoft Azure cloud, plans to augment engagement for Chennai Super Kings fans during IPL 2020"
+    excerpt: "FanPlay, Sports IoT platform has paired up with Microsoft to use the company's cloud platform Azure and provide a seamless experience for users."
+    publishedDateTime: 2020-09-29T11:52:00Z
+    webUrl: "https://www.financialexpress.com/industry/technology/sports-iot-platform-fanplay-moves-to-microsoft-azure-cloud-plans-to-augment-engagement-for-chennai-super-kings-fans-during-ipl-2020/2094139/"
+    ampWebUrl: "https://www.financialexpress.com/industry/technology/sports-iot-platform-fanplay-moves-to-microsoft-azure-cloud-plans-to-augment-engagement-for-chennai-super-kings-fans-during-ipl-2020/2094139/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/technology/sports-iot-platform-fanplay-moves-to-microsoft-azure-cloud-plans-to-augment-engagement-for-chennai-super-kings-fans-during-ipl-2020/2094139/lite/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 43
+    images:
+      - url: "https://images.financialexpress.com/2020/09/fanplay-iot-logo-edited.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Microsoft Cloud Gaming Is As Good As Your Internet Connection"
     excerpt: "Mobile connection, Microsoft Cloud Gaming works like a charm. Shooters like Halo 5 stream without stutter. Fighters like Marvel vs. Capcom Ultimate are passable for casual play. If I switch to the spotty wireless shared by my entire household,"
     publishedDateTime: 2020-09-16T17:10:00Z
@@ -926,6 +954,15 @@ related:
         width: 918
         height: 516
         isCached: true
+  - title: "NCR brings its IoT management software to Microsoft Azure"
+    excerpt: "Digital Connected Services IoT management software will run on Azure's IoT AI technology.\"By leveraging Microsoft Azure and its AI and IoT capabilities, NCR is helping retailers, restaurants and financial institutions simplify and keep commerce running with Microsoft's trusted,"
+    publishedDateTime: 2020-09-16T20:34:00Z
+    webUrl: "https://seekingalpha.com/news/3614756-ncr-brings-iot-management-software-to-microsoft-azure"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 34
   - title: "AT&T, Microsoft Azure Cloud Scale IoT Device Management"
     excerpt: "AT&T and Microsoft are teaming up on a new ‘guardian device’ that will help customers deploy and manage IoT devices at scale. The new IoT solution will allow customers to connect devices and machines to their own cloud environment without the need to ..."
     publishedDateTime: 2020-09-23T18:03:00Z
@@ -1196,15 +1233,6 @@ related:
       name: ChannelE2E
       domain: channele2e.com
     quality: 17
-  - title: "NCR brings its IoT management software to Microsoft Azure"
-    excerpt: "Digital Connected Services IoT management software will run on Azure's IoT AI technology.\"By leveraging Microsoft Azure and its AI and IoT capabilities, NCR is helping retailers, restaurants and financial institutions simplify and keep commerce running with Microsoft's trusted,"
-    publishedDateTime: 2020-09-16T20:34:00Z
-    webUrl: "https://seekingalpha.com/news/3614756-ncr-brings-iot-management-software-to-microsoft-azure"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 17
   - title: "Valimail Tools Now Offered Through Microsoft Azure Marketplace"
     excerpt: "Valimail had already provided email authentication and sender identity solutions to Microsoft 365 customers, states Steve Mock, vice president of business development for Valimail. The Azure cloud platform will provide Valimail customers with streamlined deployment and management,"
     publishedDateTime: 2020-09-18T21:30:00Z
@@ -1283,6 +1311,6 @@ related:
         height: 450
         isCached: true
 
-secured: "4aRiSCf2YjRARMXuzKo52aXe9HIvUPXurBmQb/KyWADZfYr+DTQnS0hL3Or6wm9Yd9CAbz9/5Zh+7ggcsPiC2x6HzXUlLvBtLYrYktBI4QKHCJk0RLiYsx56vEJRxiI6Mu12TkOndJkzR6wkerdIDnuH9FW/shm1S9bdbPTC9Mqp1VdNet1vXi2OtTNMxNu4u+Mlpc4xoWDTbGX5ivhhsFcqYcllPhA37DtGvxwoRwR9bJiWluZOncYIGsTZb7239LfJrxtQfpeS6iCw1qKcMlWRqKrkio/C94CUURP0nRHGDrPup/31JxUDDM4nhMYmBkD+hp7lgmBKzm7E4amuPD0rSi8PsxtB9l8fkoT2nyQ=;HYMIXLed4rrQTxtVwTp27w=="
+secured: "VlINUxUA0Mgi404Fzw3mxaeVkX6UZ0ErGiIr2qhondz93G23UckqnzuaskQ3swEgB8vlUMZYRXHlTtjss8HNvP9haEBQI9bXvRko+K6l+zVJ4u3Ou6xjQBqfAv1XEVKITKosG8K9FXWlvLb4i/hxucJNsROcQevKIzN8n+g5pPkBCS+XzsbXoDxBm6YlZwMcWB1PV+m+C/AZwNkawfQ20IkEURd5vPLcFrGsJx1mO5OeMDQ94ajEedx2FK302Y7bWeEfh4GD2V/Y6p2bcCfAJoRmLWgIqp3YT+QJCRJpdqGuacoKWvR5H6zRFNuGPFWaK1SK0D57Qt3+jeOzniOr/b4F+VGLF9CcgjXMW5O2Yx8=;8aGfAD20fCPqjnV4bSB3IQ=="
 ---
 

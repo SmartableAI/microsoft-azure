@@ -3,10 +3,10 @@ category: news
 title: "Microsoft is taking its Azure cloud into space"
 excerpt: "Azure Orbital will compete with rival AWS Ground Station service. Microsoft has launched a new cloud-based platform designed to help satellite operators ingest and analyse data drawn down from ..."
 publishedDateTime: 2020-09-23T13:43:00Z
-originalUrl: "https://www.techradar.com/nz/news/microsoft-is-taking-its-azure-cloud-into-space"
-webUrl: "https://www.techradar.com/nz/news/microsoft-is-taking-its-azure-cloud-into-space"
-ampWebUrl: "https://www.techradar.com/nz/amp/news/microsoft-is-taking-its-azure-cloud-into-space"
-cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/nz/amp/news/microsoft-is-taking-its-azure-cloud-into-space"
+originalUrl: "https://www.techradar.com/uk/news/microsoft-is-taking-its-azure-cloud-into-space"
+webUrl: "https://www.techradar.com/uk/news/microsoft-is-taking-its-azure-cloud-into-space"
+ampWebUrl: "https://www.techradar.com/uk/amp/news/microsoft-is-taking-its-azure-cloud-into-space"
+cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/uk/amp/news/microsoft-is-taking-its-azure-cloud-into-space"
 type: article
 quality: 97
 heat: -1
@@ -343,6 +343,6 @@ related:
       domain: computerworld.com
     quality: 17
 
-secured: "X65U5XNjH6EPauo4UjhRtu+0nxjqfLQG97eBSXZaqO2EzRfhv820ijuIhrGgDhsqpip2pD/ugz+D/zj47jON4bigLKdztQcfB/OzGNcuWKgcAitCrNpgmLCKIppwwMlG3Z84Bt6bVgigGzC8PDeC+7d+f7a9mAZzmCfxwTpZLsC1GIUekyaqKcJb9GqysJKNVW64tLn5FzhSFy/ANzm6HbRfLSPpTvE/jJlcB0wXzbJBMLMTQJ85yPwA2jVPm8uXJxLvowh/laSuBaIafa0h6j6hGasWxgHbiCq8iXchL4qMBXVadB/it1RDgHvHuQQnGkplYt9e+WxH6ptIG4SUgYeySAcnIzJEj+Ktx7elON0=;+kMfqp+yUgW6UAwV/SIS/g=="
+secured: "mTrVjA/Qix9++75LcTvw2R21f/u4HX1J5QYl8m1W0Lwn7y1foqU96ebV7K1iIwnNuDHBElLoSLr7ZJ50G8d3UywfvauP4ZvcClxQWs0w4NM+UOdHGU2AgSgG/X5JrgOoKl9dUsz7Lob4OccSYhiNG4awCi/3EoK/xj404HDuxHV4tZRG5wO5W1PSVV0GigUZh7WkRzwdoq7/kKXoHUoglpDoNrpnkXeMMIrzkk2OqB0g8cQCj5D0CQp4umBWH7+YBrkPvZshe0irZZBvLZGFVlUoGNVFwXcFis6bXNK9X+wqGUC0df2vu/dIodMmcnN7QPz69jK54vgGM29hEllQaQjthSdpAnbAo4AhAqdVGLI=;WeClN5jQswOA3aq4mM2/cw=="
 ---
 

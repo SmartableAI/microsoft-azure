@@ -1,26 +1,29 @@
 ---
 category: news
-title: "TCS Quartz suite becomes available on Microsoft Azure Blockchain Service"
-excerpt: "Tata Consultancy Services announced the general availability of its award winning Quartz suite of blockchain based solutions on Microsoft Azure Blockchain Service. The Quartz suite of products helps organizations set up truly connected ecosystems ..."
-publishedDateTime: 2020-09-21T21:38:00Z
-originalUrl: "https://www.indiainfoline.com/article/companies-announcements-bse/tcs-quartz%EF%BF%BD-suite-becomes-available-on-microsoft-azure-blockchain-service-120092200062_1.html"
-webUrl: "https://www.indiainfoline.com/article/companies-announcements-bse/tcs-quartz%EF%BF%BD-suite-becomes-available-on-microsoft-azure-blockchain-service-120092200062_1.html"
+title: "Sports IoT platform FanPlay moves to Microsoft Azure cloud, plans to augment engagement for Chennai Super Kings fans during IPL 2020"
+excerpt: "FanPlay, Sports IoT platform has paired up with Microsoft to use the company's cloud platform Azure and provide a seamless experience for users."
+publishedDateTime: 2020-09-29T11:52:00Z
+originalUrl: "https://www.financialexpress.com/industry/technology/sports-iot-platform-fanplay-moves-to-microsoft-azure-cloud-plans-to-augment-engagement-for-chennai-super-kings-fans-during-ipl-2020/2094139/"
+webUrl: "https://www.financialexpress.com/industry/technology/sports-iot-platform-fanplay-moves-to-microsoft-azure-cloud-plans-to-augment-engagement-for-chennai-super-kings-fans-during-ipl-2020/2094139/"
+ampWebUrl: "https://www.financialexpress.com/industry/technology/sports-iot-platform-fanplay-moves-to-microsoft-azure-cloud-plans-to-augment-engagement-for-chennai-super-kings-fans-during-ipl-2020/2094139/lite/"
+cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/technology/sports-iot-platform-fanplay-moves-to-microsoft-azure-cloud-plans-to-augment-engagement-for-chennai-super-kings-fans-during-ipl-2020/2094139/lite/"
 type: article
-quality: 36
+quality: 43
 heat: -1
 published: false
 
 provider:
-  name: India Infoline
-  domain: indiainfoline.com
+  name: The Financial Express
+  domain: financialexpress.com
 
 topics:
   - Azure
+  - IoT
 
 images:
-  - url: "https://www.indiainfoline.com/include/_mod/site/images/currentoffer_mobile.png"
-    width: 600
-    height: 277
+  - url: "https://images.financialexpress.com/2020/09/fanplay-iot-logo-edited.jpg"
+    width: 1200
+    height: 800
     isCached: true
 
 related:
@@ -673,22 +676,6 @@ related:
         width: 1070
         height: 580
         isCached: true
-  - title: "Sports IoT platform FanPlay moves to Microsoft Azure cloud, plans to augment engagement for Chennai Super Kings fans during IPL 2020"
-    excerpt: "FanPlay, Sports IoT platform has paired up with Microsoft to use the company's cloud platform Azure and provide a seamless experience for users."
-    publishedDateTime: 2020-09-29T11:52:00Z
-    webUrl: "https://www.financialexpress.com/industry/technology/sports-iot-platform-fanplay-moves-to-microsoft-azure-cloud-plans-to-augment-engagement-for-chennai-super-kings-fans-during-ipl-2020/2094139/"
-    ampWebUrl: "https://www.financialexpress.com/industry/technology/sports-iot-platform-fanplay-moves-to-microsoft-azure-cloud-plans-to-augment-engagement-for-chennai-super-kings-fans-during-ipl-2020/2094139/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/technology/sports-iot-platform-fanplay-moves-to-microsoft-azure-cloud-plans-to-augment-engagement-for-chennai-super-kings-fans-during-ipl-2020/2094139/lite/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 43
-    images:
-      - url: "https://images.financialexpress.com/2020/09/fanplay-iot-logo-edited.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Microsoft Cloud Gaming Is As Good As Your Internet Connection"
     excerpt: "Mobile connection, Microsoft Cloud Gaming works like a charm. Shooters like Halo 5 stream without stutter. Fighters like Marvel vs. Capcom Ultimate are passable for casual play. If I switch to the spotty wireless shared by my entire household,"
     publishedDateTime: 2020-09-16T17:10:00Z
@@ -936,6 +923,20 @@ related:
       - url: "https://www.crn.com/resources/025f-0ff0d7dce6e1-290de920b9a0-1000/microsoft-azure-sign.jpg"
         width: 610
         height: 457
+        isCached: true
+  - title: "TCS Quartz suite becomes available on Microsoft Azure Blockchain Service"
+    excerpt: "Tata Consultancy Services announced the general availability of its award winning Quartz suite of blockchain based solutions on Microsoft Azure Blockchain Service. The Quartz suite of products helps organizations set up truly connected ecosystems ..."
+    publishedDateTime: 2020-09-21T21:38:00Z
+    webUrl: "https://www.indiainfoline.com/article/companies-announcements-bse/tcs-quartz%EF%BF%BD-suite-becomes-available-on-microsoft-azure-blockchain-service-120092200062_1.html"
+    type: article
+    provider:
+      name: India Infoline
+      domain: indiainfoline.com
+    quality: 36
+    images:
+      - url: "https://www.indiainfoline.com/include/_mod/site/images/currentoffer_mobile.png"
+        width: 600
+        height: 277
         isCached: true
   - title: "Meet Microsoft Cloud for Healthcare, Microsoft’s first industry-specific cloud solution"
     excerpt: "Microsoft made great progress in the health care related business. Today, Microsoft is announcing Microsoft Cloud for Healthcare, its first industry-specific cloud solution."
@@ -1310,6 +1311,6 @@ related:
         height: 450
         isCached: true
 
-secured: "W5uBjsVXWHyAu+GGyxanzLZBfuqORfySRkbmqUI8udCJy7mr8edM0CqN4wv8WUTdPGtMidqY/o+U48e9jSmDI39eSBmKYngxVAaFi8THS2NQIhYqQZWjcqUEoalpXk6Qox7fn7xVVj+vaxxAq2gUd54sxzrJfFiu7dFyrMFqSaWGHjK0PJJTAs5b8f+wR4p1gWC1UuV7gn/zt9m4Av8GUqDJbTRaCTAU1t9cSxq+xFUgKp0F8DxiDFqAPXi9Z77PeLP7T2vB74emkgo8pKi5YFGA8LUPphQEvICWiNJouafEQOI7wmkq8c7FUNn992uAgPpVCCP30jjdTepLgo7ECeSOM85Ddc/6/Gfn2QzpB1U=;511B8rmleXbjeHk5J47f3A=="
+secured: "eNDzujblf9h7C+fUMzd/2OMAMqS8L7BdS8n2fKnRJ9QkMoI3SOfciQRGKoQRTw0xqcXxIPUIt2M+Bu4CYLda6w7DeIxE+IUf02pNaafES9qIWN9J0Hx55xY+gvlW+P33JrUwto9mqiG+DKvN53THpJQU40+vPnWoglMMSlHpE/DOgqs6yjm5EHTdIqzR7JrrkO19CSwY2QrEXlmRKZLV0WX6X5v2X6hmkWjZnQzI/KBMgHt0zAAr70xY93wmPYrJhM9RDvKPNxAetS1UMjbQG7QczkknswMkYI5uirmFnCEAB08cNMqOkHRIJAHlFmGTqr7w9mR4mmhVuwpczbhPuyb00XvMPbyWx8jIkARo2R0=;/T1xmTZsC1uVD0x1f6rLmg=="
 ---
 

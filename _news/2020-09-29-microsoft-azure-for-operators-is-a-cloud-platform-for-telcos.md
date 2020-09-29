@@ -1,26 +1,32 @@
 ---
 category: news
-title: "TCS Quartz suite becomes available on Microsoft Azure Blockchain Service"
-excerpt: "Tata Consultancy Services announced the general availability of its award winning Quartz suite of blockchain based solutions on Microsoft Azure Blockchain Service. The Quartz suite of products helps organizations set up truly connected ecosystems ..."
-publishedDateTime: 2020-09-21T21:38:00Z
-originalUrl: "https://www.indiainfoline.com/article/companies-announcements-bse/tcs-quartz%EF%BF%BD-suite-becomes-available-on-microsoft-azure-blockchain-service-120092200062_1.html"
-webUrl: "https://www.indiainfoline.com/article/companies-announcements-bse/tcs-quartz%EF%BF%BD-suite-becomes-available-on-microsoft-azure-blockchain-service-120092200062_1.html"
+title: "Microsoft Azure for Operators is a cloud platform for telcos"
+excerpt: "Microsoft’s push into the telecoms market continues with the launch of a dedicated suite of cloud services called ‘Azure for Operators’, hoping to capitalise on increased demand from telcos in the 5G era."
+publishedDateTime: 2020-09-29T10:58:00Z
+originalUrl: "https://www.techradar.com/au/news/microsoft-azure-for-operators-is-a-cloud-platform-for-telcos"
+webUrl: "https://www.techradar.com/au/news/microsoft-azure-for-operators-is-a-cloud-platform-for-telcos"
+ampWebUrl: "https://www.techradar.com/au/amp/news/microsoft-azure-for-operators-is-a-cloud-platform-for-telcos"
+cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/au/amp/news/microsoft-azure-for-operators-is-a-cloud-platform-for-telcos"
 type: article
-quality: 36
+quality: 97
 heat: -1
 published: false
 
 provider:
-  name: India Infoline
-  domain: indiainfoline.com
+  name: TechRadar
+  domain: techradar.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/techradar.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
 
 images:
-  - url: "https://www.indiainfoline.com/include/_mod/site/images/currentoffer_mobile.png"
-    width: 600
-    height: 277
+  - url: "https://cdn.mos.cms.futurecdn.net/kExEad3yNfdKVXRBuEsmfc-1200-80.jpg"
+    width: 1200
+    height: 675
     isCached: true
 
 related:
@@ -103,22 +109,6 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2020/08/GettyImages-1248409190.jpg?w=1024"
         width: 1024
         height: 683
-        isCached: true
-  - title: "Microsoft Azure for Operators is a cloud platform for telcos"
-    excerpt: "Microsoft’s push into the telecoms market continues with the launch of a dedicated suite of cloud services called ‘Azure for Operators’, hoping to capitalise on increased demand from telcos in the 5G era."
-    publishedDateTime: 2020-09-29T10:58:00Z
-    webUrl: "https://www.techradar.com/au/news/microsoft-azure-for-operators-is-a-cloud-platform-for-telcos"
-    ampWebUrl: "https://www.techradar.com/au/amp/news/microsoft-azure-for-operators-is-a-cloud-platform-for-telcos"
-    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/au/amp/news/microsoft-azure-for-operators-is-a-cloud-platform-for-telcos"
-    type: article
-    provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 97
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/kExEad3yNfdKVXRBuEsmfc-1200-80.jpg"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Microsoft Office 365, Azure Cloud Disrupted by Service Issues"
     excerpt: "Microsoft on Monday suffered disruptions with its Office 365 workplace software tools and its Azure cloud that disabled some users for hours."
@@ -937,6 +927,20 @@ related:
         width: 610
         height: 457
         isCached: true
+  - title: "TCS Quartz suite becomes available on Microsoft Azure Blockchain Service"
+    excerpt: "Tata Consultancy Services announced the general availability of its award winning Quartz suite of blockchain based solutions on Microsoft Azure Blockchain Service. The Quartz suite of products helps organizations set up truly connected ecosystems ..."
+    publishedDateTime: 2020-09-21T21:38:00Z
+    webUrl: "https://www.indiainfoline.com/article/companies-announcements-bse/tcs-quartz%EF%BF%BD-suite-becomes-available-on-microsoft-azure-blockchain-service-120092200062_1.html"
+    type: article
+    provider:
+      name: India Infoline
+      domain: indiainfoline.com
+    quality: 36
+    images:
+      - url: "https://www.indiainfoline.com/include/_mod/site/images/currentoffer_mobile.png"
+        width: 600
+        height: 277
+        isCached: true
   - title: "Meet Microsoft Cloud for Healthcare, Microsoft’s first industry-specific cloud solution"
     excerpt: "Microsoft made great progress in the health care related business. Today, Microsoft is announcing Microsoft Cloud for Healthcare, its first industry-specific cloud solution."
     publishedDateTime: 2020-05-19T15:02:00Z
@@ -1310,6 +1314,6 @@ related:
         height: 450
         isCached: true
 
-secured: "W5uBjsVXWHyAu+GGyxanzLZBfuqORfySRkbmqUI8udCJy7mr8edM0CqN4wv8WUTdPGtMidqY/o+U48e9jSmDI39eSBmKYngxVAaFi8THS2NQIhYqQZWjcqUEoalpXk6Qox7fn7xVVj+vaxxAq2gUd54sxzrJfFiu7dFyrMFqSaWGHjK0PJJTAs5b8f+wR4p1gWC1UuV7gn/zt9m4Av8GUqDJbTRaCTAU1t9cSxq+xFUgKp0F8DxiDFqAPXi9Z77PeLP7T2vB74emkgo8pKi5YFGA8LUPphQEvICWiNJouafEQOI7wmkq8c7FUNn992uAgPpVCCP30jjdTepLgo7ECeSOM85Ddc/6/Gfn2QzpB1U=;511B8rmleXbjeHk5J47f3A=="
+secured: "MtCXz3+USE9cGV+tcdc7xX+IbWzBSphNshGHsrTLsmW5Op/4KJqupinHlHNoHksfHwKwN98QwF/xKGLjRmbF61ZgESMpiQ6Iw5EpKQIQkBfAubTNmos5i8TVqzFkQhq41UVrGlSKPAtvwNME/FIpdKDFz1Qo1Al0kuBRt3NS6/3L/5fjaXD7ifQkiKbwQ3FFSHDp74+DrQZUiTKtpuwNdbB+kw4R47BXHBdKfBe6/3mfxyq11P9MOurYXtCoETiEgGP/62tBJGoX2j9k53g2L8kbe7oy2RVuqYroL+o+BH24iCrvW2kuiObakEJ7kn54t2XJAZ3Z9q08IeyWk4LyAULI1wIvAN/JNOIhpTQXs+8=;vHh64Bec6Oj2P4XoPVoVsA=="
 ---
 

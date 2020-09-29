@@ -85,9 +85,9 @@ related:
   - title: "Microsoft is taking its Azure cloud into space"
     excerpt: "Azure Orbital will compete with rival AWS Ground Station service. Microsoft has launched a new cloud-based platform designed to help satellite operators ingest and analyse data drawn down from ..."
     publishedDateTime: 2020-09-23T13:43:00Z
-    webUrl: "https://www.techradar.com/nz/news/microsoft-is-taking-its-azure-cloud-into-space"
-    ampWebUrl: "https://www.techradar.com/nz/amp/news/microsoft-is-taking-its-azure-cloud-into-space"
-    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/nz/amp/news/microsoft-is-taking-its-azure-cloud-into-space"
+    webUrl: "https://www.techradar.com/uk/news/microsoft-is-taking-its-azure-cloud-into-space"
+    ampWebUrl: "https://www.techradar.com/uk/amp/news/microsoft-is-taking-its-azure-cloud-into-space"
+    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/uk/amp/news/microsoft-is-taking-its-azure-cloud-into-space"
     type: article
     provider:
       name: TechRadar

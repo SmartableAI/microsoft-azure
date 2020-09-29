@@ -108,6 +108,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Microsoft Azure for Operators is a cloud platform for telcos"
+    excerpt: "Microsoft’s push into the telecoms market continues with the launch of a dedicated suite of cloud services called ‘Azure for Operators’, hoping to capitalise on increased demand from telcos in the 5G era."
+    publishedDateTime: 2020-09-29T10:58:00Z
+    webUrl: "https://www.techradar.com/au/news/microsoft-azure-for-operators-is-a-cloud-platform-for-telcos"
+    ampWebUrl: "https://www.techradar.com/au/amp/news/microsoft-azure-for-operators-is-a-cloud-platform-for-telcos"
+    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/au/amp/news/microsoft-azure-for-operators-is-a-cloud-platform-for-telcos"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 97
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/kExEad3yNfdKVXRBuEsmfc-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Microsoft Office 365, Azure Cloud Disrupted by Service Issues"
     excerpt: "Microsoft on Monday suffered disruptions with its Office 365 workplace software tools and its Azure cloud that disabled some users for hours."
     publishedDateTime: 2020-09-29T02:09:00Z
@@ -265,20 +281,6 @@ related:
       - url: "https://cdn.neow.in/news/images/uploaded/2015/06/img_0174_story.jpg"
         width: 760
         height: 506
-        isCached: true
-  - title: "AMERGINT Collaborates with Microsoft on Microsoft Azure Orbital Satellite Ground Station Service"
-    excerpt: "Before it's here, it's on the Bloomberg Terminal."
-    publishedDateTime: 2020-09-23T13:05:00Z
-    webUrl: "https://www.bloomberg.com/press-releases/2020-09-23/amergint-collaborates-with-microsoft-on-microsoft-azure-orbital-satellite-ground-station-service"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 81
-    images:
-      - url: "https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "GOOGLE CLOUD PLATFORM VS. MICROSOFT AZURE"
     excerpt: "We've compiled the ultimate GCP vs. Azure guide that takes a deep dive into the 10 key ways that the two cloud providers differ. Download the guide for stats, head-to-head comparisons, and customer perspectives that reveal which provider is leading the public cloud race."
@@ -675,6 +677,22 @@ related:
         width: 1070
         height: 580
         isCached: true
+  - title: "Sports IoT platform FanPlay moves to Microsoft Azure cloud, plans to augment engagement for Chennai Super Kings fans during IPL 2020"
+    excerpt: "FanPlay, Sports IoT platform has paired up with Microsoft to use the company's cloud platform Azure and provide a seamless experience for users."
+    publishedDateTime: 2020-09-29T11:52:00Z
+    webUrl: "https://www.financialexpress.com/industry/technology/sports-iot-platform-fanplay-moves-to-microsoft-azure-cloud-plans-to-augment-engagement-for-chennai-super-kings-fans-during-ipl-2020/2094139/"
+    ampWebUrl: "https://www.financialexpress.com/industry/technology/sports-iot-platform-fanplay-moves-to-microsoft-azure-cloud-plans-to-augment-engagement-for-chennai-super-kings-fans-during-ipl-2020/2094139/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/technology/sports-iot-platform-fanplay-moves-to-microsoft-azure-cloud-plans-to-augment-engagement-for-chennai-super-kings-fans-during-ipl-2020/2094139/lite/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 43
+    images:
+      - url: "https://images.financialexpress.com/2020/09/fanplay-iot-logo-edited.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Microsoft Cloud Gaming Is As Good As Your Internet Connection"
     excerpt: "Mobile connection, Microsoft Cloud Gaming works like a charm. Shooters like Halo 5 stream without stutter. Fighters like Marvel vs. Capcom Ultimate are passable for casual play. If I switch to the spotty wireless shared by my entire household,"
     publishedDateTime: 2020-09-16T17:10:00Z
@@ -690,6 +708,20 @@ related:
       - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/esbb8iwqojg34jjazcjr.jpg"
         width: 800
         height: 450
+        isCached: true
+  - title: "AMERGINT Collaborates with Microsoft on Microsoft Azure Orbital Satellite Ground Station Service"
+    excerpt: "AMERGINT Technologies announced it is working with Microsoft on their new Microsoft Azure Orbital, a new cloud service for connecting users to their satellites. AMERGINT is supporting Azure ..."
+    publishedDateTime: 2020-09-23T15:06:00Z
+    webUrl: "https://www.thedailytimes.com/business/amergint-collaborates-with-microsoft-on-microsoft-azure-orbital-satellite-ground-station-service/article_8211da01-8318-568a-982c-871d6d021f89.html"
+    type: article
+    provider:
+      name: thedailytimes.com
+      domain: thedailytimes.com
+    quality: 41
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/thedailytimes.com/content/tncms/custom/image/4c01e2ce-7067-11e6-87cd-0725ce0cc960.jpg?resize=600%2C600"
+        width: 600
+        height: 600
         isCached: true
   - title: "Microsoft Security Moves Target Azure Cloud Services"
     excerpt: "The moves to secure Azure cloud services range from providing greater visibility into third parties with access to an organization's applications and data to improving risk assessment with a Secure Score API."
@@ -925,6 +957,15 @@ related:
         width: 918
         height: 516
         isCached: true
+  - title: "NCR brings its IoT management software to Microsoft Azure"
+    excerpt: "Digital Connected Services IoT management software will run on Azure's IoT AI technology.\"By leveraging Microsoft Azure and its AI and IoT capabilities, NCR is helping retailers, restaurants and financial institutions simplify and keep commerce running with Microsoft's trusted,"
+    publishedDateTime: 2020-09-16T20:34:00Z
+    webUrl: "https://seekingalpha.com/news/3614756-ncr-brings-iot-management-software-to-microsoft-azure"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 34
   - title: "AT&T, Microsoft Azure Cloud Scale IoT Device Management"
     excerpt: "AT&T and Microsoft are teaming up on a new ‘guardian device’ that will help customers deploy and manage IoT devices at scale. The new IoT solution will allow customers to connect devices and machines to their own cloud environment without the need to ..."
     publishedDateTime: 2020-09-23T18:03:00Z
@@ -1194,15 +1235,6 @@ related:
     provider:
       name: ChannelE2E
       domain: channele2e.com
-    quality: 17
-  - title: "NCR brings its IoT management software to Microsoft Azure"
-    excerpt: "Digital Connected Services IoT management software will run on Azure's IoT AI technology.\"By leveraging Microsoft Azure and its AI and IoT capabilities, NCR is helping retailers, restaurants and financial institutions simplify and keep commerce running with Microsoft's trusted,"
-    publishedDateTime: 2020-09-16T20:34:00Z
-    webUrl: "https://seekingalpha.com/news/3614756-ncr-brings-iot-management-software-to-microsoft-azure"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
     quality: 17
   - title: "Valimail Tools Now Offered Through Microsoft Azure Marketplace"
     excerpt: "Valimail had already provided email authentication and sender identity solutions to Microsoft 365 customers, states Steve Mock, vice president of business development for Valimail. The Azure cloud platform will provide Valimail customers with streamlined deployment and management,"
