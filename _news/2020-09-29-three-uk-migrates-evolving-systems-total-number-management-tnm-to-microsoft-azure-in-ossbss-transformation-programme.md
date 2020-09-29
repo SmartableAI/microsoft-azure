@@ -1,22 +1,18 @@
 ---
 category: news
 title: "Three UK Migrates Evolving Systems’ Total Number Management (TNM™) to Microsoft Azure in OSS/BSS Transformation Programme"
-excerpt: "(GLOBE NEWSWIRE) -- Evolving Systems, Inc. (NASDAQ: EVOL), a leader in real-time digital engagement solutions and services, is proud to announce that its proven TNM solution has been deployed at Three UK on Microsoft Azure for the management of Three UK’s customer lifecycle."
-publishedDateTime: 2020-09-29T13:37:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/three-uk-migrates-evolving-systems-total-number-management-tnm-to-microsoft-azure-in-oss-bss-transformation-programme-1029630897"
-webUrl: "https://markets.businessinsider.com/news/stocks/three-uk-migrates-evolving-systems-total-number-management-tnm-to-microsoft-azure-in-oss-bss-transformation-programme-1029630897"
+excerpt: "Evolving Systems, Inc., a leader in real-time digital engagement solutions and services, is proud to announce that its proven TNM solution has been deployed at Three UK on Microsoft Azure for the management of Three UK’ s customer lifecycle."
+publishedDateTime: 2020-09-29T14:00:00Z
+originalUrl: "https://www.nasdaq.com/press-release/three-uk-migrates-evolving-systems-total-number-management-tnmtm-to-microsoft-azure"
+webUrl: "https://www.nasdaq.com/press-release/three-uk-migrates-evolving-systems-total-number-management-tnmtm-to-microsoft-azure"
 type: article
 quality: 32
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - Azure
@@ -37,6 +33,6 @@ related:
         height: 630
         isCached: true
 
-secured: "CxOrgs766wVrpiNpP/SlAlnMsSpj5+4TTxWhSfMA9MWaz+olF+mQEKiNiCFUXVBG4k2ClqLmSb10SxvnKw0W5oEwH1aULI7c71Vm3dyKCHsEWki6qDw9twZBJViJjmEZ9MZ4BTrvqnx1uHMEICe9fzez6Qcs1LtEzccVqYtia9H7Uy1kIeVGKS1UkWmzHjdUFwGRds/iruQjhRODJ6DltKWpdWoDIgtmpSzx+mRSBZLGysaXBWjbn6/YQw+P2UNfK1E6AcgScEK81JG+F+UAL8lo1XUuUaUnsJ5cQwLHoLCRhN8+x8SBrRXq3+shk7XHDM+yY1+PdlkDe3ZaAk78PLJ6/AVDZ0vzj/q3KdVYGr4=;EhMxF+F19Ur3ssVay5lizA=="
+secured: "6V9AoMrgb7KuIJIwOmHsgTBMPPWGBkMFMiBnWzbr4hyHaqSvZIHpUdhY1yhcwUMCQvg7b6zu5e3KHkhoBqfU9GAvuzVYHcAb4huX7Wr0t6vb8rdCvkmxEj8kwNQBF/vnPe5+NRql6/pVnzAP7y2uqWW3BTCkXJthgskul7jgrOTEi/1IU8tgsb+z51XLpFE/ST+ivLond4+rHjhC1q1U28YgpMMHyx4ndF1TpwiJ69cQ8GPwLr86JCbOoHNu2ULQ48v3eOesk8cCZOITS35/Y1+bqICJA/CP3w4FrRCmPyx0+MMHXejQKKxkz/6lhzwsXnq3FLf2IMWO8IWil6X4OBeHlRkhscCCRxJMMhCnylc=;5n9NZ4c3o8g5d7Bhn84HrQ=="
 ---
 

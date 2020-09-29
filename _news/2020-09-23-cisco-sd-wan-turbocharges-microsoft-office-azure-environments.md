@@ -1303,13 +1303,13 @@ related:
       domain: seekingalpha.com
     quality: 17
   - title: "RegDOX Solutions Statement on Microsoft Azure Outage"
-    excerpt: "Along with many observers, on September 28, 2020, we learned that Microsoft Azure Public and Azure Government networks suffered a major outage involving authentication services. This outage has denied many Microsoft Azure customers access to crucial ..."
-    publishedDateTime: 2020-09-29T15:48:00Z
-    webUrl: "https://www.morningstar.com/news/business-wire/20200929005837/regdox-solutions-statement-on-microsoft-azure-outage"
+    excerpt: "Along with many observers, on September 28, 2020, we learned that Microsoft Azure Public and Azure Government networks suffered a major outage involvi"
+    publishedDateTime: 2020-09-29T14:43:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200929005837/en/"
     type: article
     provider:
-      name: Morningstar%2c Inc.
-      domain: morningstar.com
+      name: Business Wire
+      domain: businesswire.com
     quality: 17
   - title: "Cobalt Iron Makes DCIG List of TOP 5 Microsoft Azure Cloud Backup Solutions"
     excerpt: "Cobalt Iron Inc., a leading provider of SaaS-based enterprise data protection, today announced that its industry-leading Compass® enterprise SaaS back"

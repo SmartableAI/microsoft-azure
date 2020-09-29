@@ -1,18 +1,18 @@
 ---
 category: news
 title: "RegDOX Solutions Statement on Microsoft Azure Outage"
-excerpt: "Along with many observers, on September 28, 2020, we learned that Microsoft Azure Public and Azure Government networks suffered a major outage involving authentication services. This outage has denied many Microsoft Azure customers access to crucial ..."
-publishedDateTime: 2020-09-29T15:48:00Z
-originalUrl: "https://www.morningstar.com/news/business-wire/20200929005837/regdox-solutions-statement-on-microsoft-azure-outage"
-webUrl: "https://www.morningstar.com/news/business-wire/20200929005837/regdox-solutions-statement-on-microsoft-azure-outage"
+excerpt: "Along with many observers, on September 28, 2020, we learned that Microsoft Azure Public and Azure Government networks suffered a major outage involvi"
+publishedDateTime: 2020-09-29T14:43:00Z
+originalUrl: "https://www.businesswire.com/news/home/20200929005837/en/"
+webUrl: "https://www.businesswire.com/news/home/20200929005837/en/"
 type: article
 quality: 17
 heat: -1
 published: false
 
 provider:
-  name: Morningstar%2c Inc.
-  domain: morningstar.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - Azure
@@ -1343,6 +1343,6 @@ related:
         height: 450
         isCached: true
 
-secured: "J/ROnyDFG19An0/5oo01YlNTdKQjaMwXkhkEF/kR3exMk4DD22yCdvNY7XNP0VdxHDfqPR8Th+PRbU0Rh6x1BLW93a7PaQh2uvq6MbatohZWTV1cu6M6EkfVoo+5/F6to6638+GrdciylR7yaGCGcCaMlvVSUK11mhZS0VP93YIyT5mGHfxO/P95mEcqfYr8akVIlUbjRg/5/T4QVCaYmykEIkkfy7KsR/lb/Ta5vfCB6p/QKjmKBazZBdyRzu/oV39VtxhQWZJ7HbjitalvmR6E5YMW6EHP6AYHiB2OFMU6aT2nGn0e7hxRwFdJf5L/1xJ7Ii5i3BAc3ESnV3RitLdvpeZPqy9oCbIhcsy5AWo=;fUULJ6Ny56g/LHolG87c+Q=="
+secured: "8jUTu/RDnES7OkPi+PCqEspirGtNAOkgWUtK9iMwJRB1xSJPpCrZQcZgY2jsw+SOJT3xtFTVB467GW6pkihAI+eiLlFsov6nqpM67RRf+GuY9WEIfwgM3noPRRtIEtMCA1jVYze4nUbWTLB46mAq7mDd1Df0TOQQXJRHs21Ijo4EhaBR1lfz2rfsk6OFqbWf48vPxUuU6NGuQ6CG5h5TSoSAziHNNo3JqKZfRYDC7L8I70/MT4lP83vrJY1a6EvCX9zly6pa5K7iCFg9aLRbSLJx/xZaZ36hdPzB1BV4DZcKMEVhDrd0HuOJb4XpcZwDfKwt9WtPESBAyaRWNQUB0FORZZf4U3CVtm8oSjsk8TM=;fCzUo1/pocGelFUHYb4OsQ=="
 ---
 
