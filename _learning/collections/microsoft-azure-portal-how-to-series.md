@@ -55,7 +55,6 @@ items:
   - videos/microsoft-how-to-create-share-and-use-azure-portal-dashboards-azure-portal-series
   - videos/microsoft-how-to-configure-a-new-virtual-machine-with-the-azure-portal-azure-portal-series
   - videos/microsoft-how-to-manage-virtual-machines-on-the-go-via-the-azure-mobile-app-azure-portal-series
-  - videos/microsoft-how-to-create-a-virtual-machine-in-azure-azure-portal-series
   - videos/microsoft-how-to-manage-multiple-accounts-directories-and-subscriptions-in-azure-azure-portal-series
 
 topics:

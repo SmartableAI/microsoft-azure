@@ -2,7 +2,7 @@
 title: "Azure Tips and Tricks"
 excerpt: ""
 type: collection
-heat: 62
+heat: 132
 
 provider:
   name: Microsoft
@@ -13,6 +13,7 @@ provider:
       height: 50
 
 items:
+  - videos/microsoft-how-to-add-azure-feature-flags-to-angular-projects-azure-tips-and-tricks
   - videos/microsoft-how-to-configure-advanced-threat-protection-in-azure-sql-database-azure-tips-and-tricks
   - videos/microsoft-how-to-use-a-graphql-on-azure-azure-tips-and-tricks
   - videos/microsoft-blazor-and-azure-functions-for-serverless-websites-azure-tips-and-tricks
@@ -62,13 +63,12 @@ items:
   - videos/microsoft-what-is-azure-sentinel-and-why-you-should-care-azure-tips-and-tricks
   - videos/microsoft-how-to-make-your-data-searchable-with-azure-search-and-ai-azure-tips-and-tricks
   - videos/microsoft-securing-traffic-between-pods-using-policies-in-azure-kubernetes-service-azure-tips-and-tricks
-  - videos/microsoft-how-to-set-up-an-azure-pipeline-with-node-js-azure-tips-and-tricks
 
 topics:
   - Azure
 
 images:
-  - url: https://i.ytimg.com/vi/IODL8gwWJE4/maxresdefault.jpg
+  - url: https://i.ytimg.com/vi/1d-rpBYf2QI/maxresdefault.jpg
     width: 1280
     height: 720
     isCached: true
