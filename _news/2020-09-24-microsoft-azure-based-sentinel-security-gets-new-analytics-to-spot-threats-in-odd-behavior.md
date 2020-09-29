@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-azure-based-senti
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-azure-based-sentinel-security-gets-new-analytics-to-spot-threats-in-odd-behavior/"
 type: article
 quality: 121
-heat: 561
+heat: 581
 published: true
 
 provider:
@@ -83,6 +83,22 @@ related:
       - url: "https://zdnet4.cbsistatic.com/hub/i/2020/04/14/ae52840f-bd1d-4e9d-8ec2-114e56664784/synapse.jpg"
         width: 750
         height: 500
+        isCached: true
+  - title: "Microsoft is taking its Azure cloud into space"
+    excerpt: "Azure Orbital will compete with rival AWS Ground Station service. Microsoft has launched a new cloud-based platform designed to help satellite operators ingest and analyse data drawn down from ..."
+    publishedDateTime: 2020-09-23T13:43:00Z
+    webUrl: "https://www.techradar.com/nz/news/microsoft-is-taking-its-azure-cloud-into-space"
+    ampWebUrl: "https://www.techradar.com/nz/amp/news/microsoft-is-taking-its-azure-cloud-into-space"
+    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/nz/amp/news/microsoft-is-taking-its-azure-cloud-into-space"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 97
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/dQoiSrD62YtvNU65gf2GJU-1200-80.jpg"
+        width: 970
+        height: 545
         isCached: true
   - title: "Microsoft adds more devices and services to its Azure Stack hybrid line-up"
     excerpt: "Microsoft is adding three new edge-computing devices and moving ahead, with various Azure-branded services that are part of its hybrid-cloud family."

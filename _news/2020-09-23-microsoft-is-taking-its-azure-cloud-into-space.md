@@ -1,26 +1,32 @@
 ---
 category: news
-title: "What's New for Azure at Microsoft's Ignite Event"
-excerpt: "Microsoft's Azure cloud computing platform was front and center as the company's Ignite developer/IT event kicked off this week."
-publishedDateTime: 2020-09-22T21:15:00Z
-originalUrl: "https://virtualizationreview.com/articles/2020/09/22/azure-ignite.aspx"
-webUrl: "https://virtualizationreview.com/articles/2020/09/22/azure-ignite.aspx"
+title: "Microsoft is taking its Azure cloud into space"
+excerpt: "Azure Orbital will compete with rival AWS Ground Station service. Microsoft has launched a new cloud-based platform designed to help satellite operators ingest and analyse data drawn down from ..."
+publishedDateTime: 2020-09-23T13:43:00Z
+originalUrl: "https://www.techradar.com/nz/news/microsoft-is-taking-its-azure-cloud-into-space"
+webUrl: "https://www.techradar.com/nz/news/microsoft-is-taking-its-azure-cloud-into-space"
+ampWebUrl: "https://www.techradar.com/nz/amp/news/microsoft-is-taking-its-azure-cloud-into-space"
+cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/nz/amp/news/microsoft-is-taking-its-azure-cloud-into-space"
 type: article
-quality: 37
+quality: 97
 heat: -1
 published: false
 
 provider:
-  name: Virtualization Review
-  domain: virtualizationreview.com
+  name: TechRadar
+  domain: techradar.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/techradar.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
 
 images:
-  - url: "https://virtualizationreview.com/-/media/ECG/redmondmag/Images/IntroImagesBigSmall/BlackWhiteCloudSmall.jpg"
-    width: 647
-    height: 450
+  - url: "https://cdn.mos.cms.futurecdn.net/dQoiSrD62YtvNU65gf2GJU-1200-80.jpg"
+    width: 970
+    height: 545
     isCached: true
 
 related:
@@ -91,22 +97,6 @@ related:
       - url: "https://zdnet4.cbsistatic.com/hub/i/2020/04/14/ae52840f-bd1d-4e9d-8ec2-114e56664784/synapse.jpg"
         width: 750
         height: 500
-        isCached: true
-  - title: "Microsoft is taking its Azure cloud into space"
-    excerpt: "Azure Orbital will compete with rival AWS Ground Station service. Microsoft has launched a new cloud-based platform designed to help satellite operators ingest and analyse data drawn down from ..."
-    publishedDateTime: 2020-09-23T13:43:00Z
-    webUrl: "https://www.techradar.com/nz/news/microsoft-is-taking-its-azure-cloud-into-space"
-    ampWebUrl: "https://www.techradar.com/nz/amp/news/microsoft-is-taking-its-azure-cloud-into-space"
-    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/nz/amp/news/microsoft-is-taking-its-azure-cloud-into-space"
-    type: article
-    provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 97
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/dQoiSrD62YtvNU65gf2GJU-1200-80.jpg"
-        width: 970
-        height: 545
         isCached: true
   - title: "Microsoft adds more devices and services to its Azure Stack hybrid line-up"
     excerpt: "Microsoft is adding three new edge-computing devices and moving ahead, with various Azure-branded services that are part of its hybrid-cloud family."
@@ -262,6 +252,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "What's New for Azure at Microsoft's Ignite Event"
+    excerpt: "Microsoft's Azure cloud computing platform was front and center as the company's Ignite developer/IT event kicked off this week."
+    publishedDateTime: 2020-09-22T21:15:00Z
+    webUrl: "https://virtualizationreview.com/articles/2020/09/22/azure-ignite.aspx"
+    type: article
+    provider:
+      name: Virtualization Review
+      domain: virtualizationreview.com
+    quality: 37
+    images:
+      - url: "https://virtualizationreview.com/-/media/ECG/redmondmag/Images/IntroImagesBigSmall/BlackWhiteCloudSmall.jpg"
+        width: 647
+        height: 450
+        isCached: true
   - title: "Microsoft launches Azure for Operators to expand connectivity"
     excerpt: "Microsoft announced intent to expand connectivity, including 5G, by working with network operators to launch Azure for Operators"
     publishedDateTime: 2020-09-28T18:51:00Z
@@ -328,6 +332,6 @@ related:
       domain: computerworld.com
     quality: 17
 
-secured: "STb32X/C09qeYcitr9ewXWDBmKt2v3U/smRrH8doGgZrwUJ6JuQvBIE5/ZCw6ZeUUbmQ/PuDYX3HrA54wYwALU+aO+V5j+S3n4y06mMpm+uzl27EcmPYIfxnEveynYe2lsZS/I3vO1hdn0EPa0buqTFwQGN297C1KPIoxOu+EfNlISpswr0kOqgGU4Z4P8YksKymXZx7DMASb/eKPNRjc43OwzsjE/oto4T0+rF0tndh65fkUOu9+D1vsCyMsPRoyDZlgKSA88h9e2NtY6uzMO7msEyCI58+8b/dQDJlA/PrxM6iIkIeuvkMV/Vq+Gi+KAChKoz1o2g+Fda4RkGxPp/Zf7y8NIviGf+O+gelbWkJ4yePzWxtiEM84OWME4KqlaOiRhXrSf6CHU01eJPH4JwUv1Dqk5L7WuqOcm9VNbTkziyTIcttZwggXl1scUkQ8egojBQgS6jZGpZNReDKWXObgCzlDKjszrHTJOTtaSDhlMmV7w4xIhLDPhjOD8M1FA03qz+/R3hOtD0Q9Yl3ZQ==;Fz8o3ZMB5KLna6g+Um+baQ=="
+secured: "X65U5XNjH6EPauo4UjhRtu+0nxjqfLQG97eBSXZaqO2EzRfhv820ijuIhrGgDhsqpip2pD/ugz+D/zj47jON4bigLKdztQcfB/OzGNcuWKgcAitCrNpgmLCKIppwwMlG3Z84Bt6bVgigGzC8PDeC+7d+f7a9mAZzmCfxwTpZLsC1GIUekyaqKcJb9GqysJKNVW64tLn5FzhSFy/ANzm6HbRfLSPpTvE/jJlcB0wXzbJBMLMTQJ85yPwA2jVPm8uXJxLvowh/laSuBaIafa0h6j6hGasWxgHbiCq8iXchL4qMBXVadB/it1RDgHvHuQQnGkplYt9e+WxH6ptIG4SUgYeySAcnIzJEj+Ktx7elON0=;+kMfqp+yUgW6UAwV/SIS/g=="
 ---
 

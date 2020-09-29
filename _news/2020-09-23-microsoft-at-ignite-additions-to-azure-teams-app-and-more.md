@@ -258,6 +258,20 @@ related:
         width: 760
         height: 506
         isCached: true
+  - title: "AMERGINT Collaborates with Microsoft on Microsoft Azure Orbital Satellite Ground Station Service"
+    excerpt: "Before it's here, it's on the Bloomberg Terminal."
+    publishedDateTime: 2020-09-23T13:05:00Z
+    webUrl: "https://www.bloomberg.com/press-releases/2020-09-23/amergint-collaborates-with-microsoft-on-microsoft-azure-orbital-satellite-ground-station-service"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 81
+    images:
+      - url: "https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "GOOGLE CLOUD PLATFORM VS. MICROSOFT AZURE"
     excerpt: "We've compiled the ultimate GCP vs. Azure guide that takes a deep dive into the 10 key ways that the two cloud providers differ. Download the guide for stats, head-to-head comparisons, and customer perspectives that reveal which provider is leading the public cloud race."
     publishedDateTime: 2020-04-16T18:20:00Z
@@ -762,6 +776,20 @@ related:
         width: 610
         height: 457
         isCached: true
+  - title: "AppDirect Launches Subscription Commerce Platform on Microsoft Azure"
+    excerpt: "AppDirect, a leading commerce platform for selling recurring products through any channel, today announced the availability of the AppDirect Subscription Commerce Platform on Microsoft Azure."
+    publishedDateTime: 2020-09-24T16:42:00Z
+    webUrl: "https://www.thedailytimes.com/business/appdirect-launches-subscription-commerce-platform-on-microsoft-azure/article_505c94f5-5cc6-5679-8d8a-a7cb2357f5fd.html"
+    type: article
+    provider:
+      name: thedailytimes.com
+      domain: thedailytimes.com
+    quality: 37
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/thedailytimes.com/content/tncms/custom/image/4c01e2ce-7067-11e6-87cd-0725ce0cc960.jpg?resize=600%2C600"
+        width: 600
+        height: 600
+        isCached: true
   - title: "Microsoft's Low-Code Power Apps Leans on Azure Cloud"
     excerpt: "The Azure cloud computing platform is dominating news coming out of the ongoing Microsoft Ignite 2020 developer/IT pro event, even extending to low-code application development with the company's Power Apps offering."
     publishedDateTime: 2020-09-23T19:26:00Z
@@ -1089,6 +1117,17 @@ related:
         width: 647
         height: 450
         isCached: true
+  - title: "Microsoft cloud services suffer global outage"
+    excerpt: "Microsoft suffered an outage yesterday which brought down a variety of its most popular cloud services – including Teams, Outlook, and Office 365."
+    publishedDateTime: 2020-09-29T07:02:00Z
+    webUrl: "https://mybroadband.co.za/news/cloud-hosting/369205-microsoft-cloud-services-suffer-global-outage.html"
+    ampWebUrl: "https://mybroadband.co.za/news/cloud-hosting/369205-microsoft-cloud-services-suffer-global-outage.html/amp"
+    cdnAmpWebUrl: "https://mybroadband-co-za.cdn.ampproject.org/c/s/mybroadband.co.za/news/cloud-hosting/369205-microsoft-cloud-services-suffer-global-outage.html/amp"
+    type: article
+    provider:
+      name: MyBroadband
+      domain: mybroadband.co.za
+    quality: 22
   - title: "Digital Transformation: Qatar Financial Center Regulatory Authority to Migrate Online Services to Microsoft Cloud"
     excerpt: "The Qatar Financial Center Regulatory Authority (QFCRA) recently revealed that it will be migrating its online services to the Microsoft Cloud in order to move forward with its digital transformation strategy."
     publishedDateTime: 2020-09-19T00:43:00Z

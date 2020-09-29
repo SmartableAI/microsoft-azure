@@ -1,23 +1,32 @@
 ---
 category: news
-title: "Tamr Data Mastering Platform Now Available on Microsoft Azure"
-excerpt: "PRNewswire/ -- Tamr, Inc., the provider of cloud-native data mastering solutions, today announced its cloud-native capabilities on Microsoft"
-publishedDateTime: 2020-09-19T03:40:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/20/09/n17431514/tamr-data-mastering-platform-now-available-on-microsoft-azure"
-webUrl: "https://www.benzinga.com/pressreleases/20/09/n17431514/tamr-data-mastering-platform-now-available-on-microsoft-azure"
-ampWebUrl: "https://amp.benzinga.com/amp/content/17431514"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17431514"
+title: "AMERGINT Collaborates with Microsoft on Microsoft Azure Orbital Satellite Ground Station Service"
+excerpt: "Before it's here, it's on the Bloomberg Terminal."
+publishedDateTime: 2020-09-23T13:05:00Z
+originalUrl: "https://www.bloomberg.com/press-releases/2020-09-23/amergint-collaborates-with-microsoft-on-microsoft-azure-orbital-satellite-ground-station-service"
+webUrl: "https://www.bloomberg.com/press-releases/2020-09-23/amergint-collaborates-with-microsoft-on-microsoft-azure-orbital-satellite-ground-station-service"
 type: article
-quality: 37
+quality: 81
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Bloomberg
+  domain: bloomberg.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/bloomberg.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
+  - Networking
+
+images:
+  - url: "https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg"
+    width: 1200
+    height: 630
+    isCached: true
 
 related:
   - title: "Microsoft launches Azure Orbital to connect satellites to its cloud"
@@ -257,20 +266,6 @@ related:
       - url: "https://cdn.neow.in/news/images/uploaded/2015/06/img_0174_story.jpg"
         width: 760
         height: 506
-        isCached: true
-  - title: "AMERGINT Collaborates with Microsoft on Microsoft Azure Orbital Satellite Ground Station Service"
-    excerpt: "Before it's here, it's on the Bloomberg Terminal."
-    publishedDateTime: 2020-09-23T13:05:00Z
-    webUrl: "https://www.bloomberg.com/press-releases/2020-09-23/amergint-collaborates-with-microsoft-on-microsoft-azure-orbital-satellite-ground-station-service"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 81
-    images:
-      - url: "https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "GOOGLE CLOUD PLATFORM VS. MICROSOFT AZURE"
     excerpt: "We've compiled the ultimate GCP vs. Azure guide that takes a deep dive into the 10 key ways that the two cloud providers differ. Download the guide for stats, head-to-head comparisons, and customer perspectives that reveal which provider is leading the public cloud race."
@@ -720,6 +715,17 @@ related:
         width: 400
         height: 300
         isCached: true
+  - title: "Tamr Data Mastering Platform Now Available on Microsoft Azure"
+    excerpt: "PRNewswire/ -- Tamr, Inc., the provider of cloud-native data mastering solutions, today announced its cloud-native capabilities on Microsoft"
+    publishedDateTime: 2020-09-19T03:40:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/09/n17431514/tamr-data-mastering-platform-now-available-on-microsoft-azure"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/17431514"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17431514"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 37
   - title: "DH2i Now Available in the Microsoft Azure Marketplace"
     excerpt: "FORT COLLINS, Colo., Sept. 22, 2020 /PRNewswire/ -- DH2i today announced the availability of DxEnterprise for Availability Groups in the Microsoft Azure Marketplace, an online store providing applications and services for use on Microsoft Azure. DH2i ..."
     publishedDateTime: 2020-09-22T13:19:00Z
@@ -1258,6 +1264,6 @@ related:
         height: 450
         isCached: true
 
-secured: "aPHApnynRRCyD/SJRX8qYsMTEonai77Z7jMiBnN1T2KGVtguA6tFvyNEZaqfwcHtqrXZqaK99K0rbtbqVkC85kIZMaPQcK6MvJV96BYfyGJ/ZjzYga78L+Sh9ZVBxpHa8Px1bJOTRrgrrac1VL8AdX5zB0VSxEEW4nEekRxr0FRpskG6HMMDEfM7xbqeeYYD2AqsfOnbY/54hrbsbIdHHYnIZIeI0SyGtIFXlhHtCKQXg8Le7tGf3h1Q/uHD1QrkccJTweTJu5927mtKe6ZE50FYDhqz7TEpG3QDLgro/64oUns4U0ocdv9xrnqDzvkE0KXERG4Sh/81+aWsu6MRz4D5c4Vndmmdg8PfQ7mgueo=;YgEvArYWm5TMB9g3YScj7g=="
+secured: "4aRiSCf2YjRARMXuzKo52aXe9HIvUPXurBmQb/KyWADZfYr+DTQnS0hL3Or6wm9Yd9CAbz9/5Zh+7ggcsPiC2x6HzXUlLvBtLYrYktBI4QKHCJk0RLiYsx56vEJRxiI6Mu12TkOndJkzR6wkerdIDnuH9FW/shm1S9bdbPTC9Mqp1VdNet1vXi2OtTNMxNu4u+Mlpc4xoWDTbGX5ivhhsFcqYcllPhA37DtGvxwoRwR9bJiWluZOncYIGsTZb7239LfJrxtQfpeS6iCw1qKcMlWRqKrkio/C94CUURP0nRHGDrPup/31JxUDDM4nhMYmBkD+hp7lgmBKzm7E4amuPD0rSi8PsxtB9l8fkoT2nyQ=;HYMIXLed4rrQTxtVwTp27w=="
 ---
 

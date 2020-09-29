@@ -1,23 +1,27 @@
 ---
 category: news
-title: "Tamr Data Mastering Platform Now Available on Microsoft Azure"
-excerpt: "PRNewswire/ -- Tamr, Inc., the provider of cloud-native data mastering solutions, today announced its cloud-native capabilities on Microsoft"
-publishedDateTime: 2020-09-19T03:40:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/20/09/n17431514/tamr-data-mastering-platform-now-available-on-microsoft-azure"
-webUrl: "https://www.benzinga.com/pressreleases/20/09/n17431514/tamr-data-mastering-platform-now-available-on-microsoft-azure"
-ampWebUrl: "https://amp.benzinga.com/amp/content/17431514"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17431514"
+title: "AppDirect Launches Subscription Commerce Platform on Microsoft Azure"
+excerpt: "AppDirect, a leading commerce platform for selling recurring products through any channel, today announced the availability of the AppDirect Subscription Commerce Platform on Microsoft Azure."
+publishedDateTime: 2020-09-24T16:42:00Z
+originalUrl: "https://www.thedailytimes.com/business/appdirect-launches-subscription-commerce-platform-on-microsoft-azure/article_505c94f5-5cc6-5679-8d8a-a7cb2357f5fd.html"
+webUrl: "https://www.thedailytimes.com/business/appdirect-launches-subscription-commerce-platform-on-microsoft-azure/article_505c94f5-5cc6-5679-8d8a-a7cb2357f5fd.html"
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: thedailytimes.com
+  domain: thedailytimes.com
 
 topics:
   - Azure
+
+images:
+  - url: "https://bloximages.chicago2.vip.townnews.com/thedailytimes.com/content/tncms/custom/image/4c01e2ce-7067-11e6-87cd-0725ce0cc960.jpg?resize=600%2C600"
+    width: 600
+    height: 600
+    isCached: true
 
 related:
   - title: "Microsoft launches Azure Orbital to connect satellites to its cloud"
@@ -720,6 +724,17 @@ related:
         width: 400
         height: 300
         isCached: true
+  - title: "Tamr Data Mastering Platform Now Available on Microsoft Azure"
+    excerpt: "PRNewswire/ -- Tamr, Inc., the provider of cloud-native data mastering solutions, today announced its cloud-native capabilities on Microsoft"
+    publishedDateTime: 2020-09-19T03:40:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/09/n17431514/tamr-data-mastering-platform-now-available-on-microsoft-azure"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/17431514"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17431514"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 37
   - title: "DH2i Now Available in the Microsoft Azure Marketplace"
     excerpt: "FORT COLLINS, Colo., Sept. 22, 2020 /PRNewswire/ -- DH2i today announced the availability of DxEnterprise for Availability Groups in the Microsoft Azure Marketplace, an online store providing applications and services for use on Microsoft Azure. DH2i ..."
     publishedDateTime: 2020-09-22T13:19:00Z
@@ -775,20 +790,6 @@ related:
       - url: "https://www.crn.com/resources/0261-106ffae8bd02-121d119690bf-1000/project-natick.jpg"
         width: 610
         height: 457
-        isCached: true
-  - title: "AppDirect Launches Subscription Commerce Platform on Microsoft Azure"
-    excerpt: "AppDirect, a leading commerce platform for selling recurring products through any channel, today announced the availability of the AppDirect Subscription Commerce Platform on Microsoft Azure."
-    publishedDateTime: 2020-09-24T16:42:00Z
-    webUrl: "https://www.thedailytimes.com/business/appdirect-launches-subscription-commerce-platform-on-microsoft-azure/article_505c94f5-5cc6-5679-8d8a-a7cb2357f5fd.html"
-    type: article
-    provider:
-      name: thedailytimes.com
-      domain: thedailytimes.com
-    quality: 37
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/thedailytimes.com/content/tncms/custom/image/4c01e2ce-7067-11e6-87cd-0725ce0cc960.jpg?resize=600%2C600"
-        width: 600
-        height: 600
         isCached: true
   - title: "Microsoft's Low-Code Power Apps Leans on Azure Cloud"
     excerpt: "The Azure cloud computing platform is dominating news coming out of the ongoing Microsoft Ignite 2020 developer/IT pro event, even extending to low-code application development with the company's Power Apps offering."
@@ -1258,6 +1259,6 @@ related:
         height: 450
         isCached: true
 
-secured: "aPHApnynRRCyD/SJRX8qYsMTEonai77Z7jMiBnN1T2KGVtguA6tFvyNEZaqfwcHtqrXZqaK99K0rbtbqVkC85kIZMaPQcK6MvJV96BYfyGJ/ZjzYga78L+Sh9ZVBxpHa8Px1bJOTRrgrrac1VL8AdX5zB0VSxEEW4nEekRxr0FRpskG6HMMDEfM7xbqeeYYD2AqsfOnbY/54hrbsbIdHHYnIZIeI0SyGtIFXlhHtCKQXg8Le7tGf3h1Q/uHD1QrkccJTweTJu5927mtKe6ZE50FYDhqz7TEpG3QDLgro/64oUns4U0ocdv9xrnqDzvkE0KXERG4Sh/81+aWsu6MRz4D5c4Vndmmdg8PfQ7mgueo=;YgEvArYWm5TMB9g3YScj7g=="
+secured: "0nGFVto+tDzi3LzR4DCeAM82vVsHJ4aw8XaLQuEdZadkVzC+ofl/5QXfj3tYbgEK6mFM5vIxF5bi8u8nGYxlKXzZRVk/iOobbI2qoRorXr8oMaY7DVKSbZgj8Ot4bCZM+ueb2iDaVHyIDSpcJxt0jzTEntdKMNbkc9ixSuQeyusBXnOC+/egLpRmirPbTUJGWwIwyNE9aWBezdM1KWJN0wUzOEq5zEXikIaeHZsnB96Y25rj9JxDIlVSWzWNZ6x8Un8o9et3482uPx0gQ/CfvW+Ds1E7SWytm9ANP+PEAsjDsdF79+sxMmPv3lvdyTdJ15n2NkI9exPj0EtQFRouYM6zOL3aQDtd9I6z9KnwTOY=;MzT46fSvRgSM4YsAihYhnw=="
 ---
 

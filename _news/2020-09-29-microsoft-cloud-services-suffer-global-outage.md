@@ -1,20 +1,20 @@
 ---
 category: news
-title: "Tamr Data Mastering Platform Now Available on Microsoft Azure"
-excerpt: "PRNewswire/ -- Tamr, Inc., the provider of cloud-native data mastering solutions, today announced its cloud-native capabilities on Microsoft"
-publishedDateTime: 2020-09-19T03:40:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/20/09/n17431514/tamr-data-mastering-platform-now-available-on-microsoft-azure"
-webUrl: "https://www.benzinga.com/pressreleases/20/09/n17431514/tamr-data-mastering-platform-now-available-on-microsoft-azure"
-ampWebUrl: "https://amp.benzinga.com/amp/content/17431514"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17431514"
+title: "Microsoft cloud services suffer global outage"
+excerpt: "Microsoft suffered an outage yesterday which brought down a variety of its most popular cloud services – including Teams, Outlook, and Office 365."
+publishedDateTime: 2020-09-29T07:02:00Z
+originalUrl: "https://mybroadband.co.za/news/cloud-hosting/369205-microsoft-cloud-services-suffer-global-outage.html"
+webUrl: "https://mybroadband.co.za/news/cloud-hosting/369205-microsoft-cloud-services-suffer-global-outage.html"
+ampWebUrl: "https://mybroadband.co.za/news/cloud-hosting/369205-microsoft-cloud-services-suffer-global-outage.html/amp"
+cdnAmpWebUrl: "https://mybroadband-co-za.cdn.ampproject.org/c/s/mybroadband.co.za/news/cloud-hosting/369205-microsoft-cloud-services-suffer-global-outage.html/amp"
 type: article
-quality: 37
+quality: 22
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: MyBroadband
+  domain: mybroadband.co.za
 
 topics:
   - Azure
@@ -720,6 +720,17 @@ related:
         width: 400
         height: 300
         isCached: true
+  - title: "Tamr Data Mastering Platform Now Available on Microsoft Azure"
+    excerpt: "PRNewswire/ -- Tamr, Inc., the provider of cloud-native data mastering solutions, today announced its cloud-native capabilities on Microsoft"
+    publishedDateTime: 2020-09-19T03:40:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/09/n17431514/tamr-data-mastering-platform-now-available-on-microsoft-azure"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/17431514"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17431514"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 37
   - title: "DH2i Now Available in the Microsoft Azure Marketplace"
     excerpt: "FORT COLLINS, Colo., Sept. 22, 2020 /PRNewswire/ -- DH2i today announced the availability of DxEnterprise for Availability Groups in the Microsoft Azure Marketplace, an online store providing applications and services for use on Microsoft Azure. DH2i ..."
     publishedDateTime: 2020-09-22T13:19:00Z
@@ -1117,17 +1128,6 @@ related:
         width: 647
         height: 450
         isCached: true
-  - title: "Microsoft cloud services suffer global outage"
-    excerpt: "Microsoft suffered an outage yesterday which brought down a variety of its most popular cloud services – including Teams, Outlook, and Office 365."
-    publishedDateTime: 2020-09-29T07:02:00Z
-    webUrl: "https://mybroadband.co.za/news/cloud-hosting/369205-microsoft-cloud-services-suffer-global-outage.html"
-    ampWebUrl: "https://mybroadband.co.za/news/cloud-hosting/369205-microsoft-cloud-services-suffer-global-outage.html/amp"
-    cdnAmpWebUrl: "https://mybroadband-co-za.cdn.ampproject.org/c/s/mybroadband.co.za/news/cloud-hosting/369205-microsoft-cloud-services-suffer-global-outage.html/amp"
-    type: article
-    provider:
-      name: MyBroadband
-      domain: mybroadband.co.za
-    quality: 22
   - title: "Digital Transformation: Qatar Financial Center Regulatory Authority to Migrate Online Services to Microsoft Cloud"
     excerpt: "The Qatar Financial Center Regulatory Authority (QFCRA) recently revealed that it will be migrating its online services to the Microsoft Cloud in order to move forward with its digital transformation strategy."
     publishedDateTime: 2020-09-19T00:43:00Z
@@ -1258,6 +1258,6 @@ related:
         height: 450
         isCached: true
 
-secured: "aPHApnynRRCyD/SJRX8qYsMTEonai77Z7jMiBnN1T2KGVtguA6tFvyNEZaqfwcHtqrXZqaK99K0rbtbqVkC85kIZMaPQcK6MvJV96BYfyGJ/ZjzYga78L+Sh9ZVBxpHa8Px1bJOTRrgrrac1VL8AdX5zB0VSxEEW4nEekRxr0FRpskG6HMMDEfM7xbqeeYYD2AqsfOnbY/54hrbsbIdHHYnIZIeI0SyGtIFXlhHtCKQXg8Le7tGf3h1Q/uHD1QrkccJTweTJu5927mtKe6ZE50FYDhqz7TEpG3QDLgro/64oUns4U0ocdv9xrnqDzvkE0KXERG4Sh/81+aWsu6MRz4D5c4Vndmmdg8PfQ7mgueo=;YgEvArYWm5TMB9g3YScj7g=="
+secured: "Rn3dR1NeOBLHm/jTiNit+bX/MCe91gudgRG+tnN6mlsmWzbW2FXBQ4ucGQwotLduxyMMuA56heSkFc/LIuzzDF4it3L/qlyFa8cUmFnZ5EK87/4DUtY7WeGxDTtxILKgA5Y1X4Zf1HCSvPlKKEcxy+hafFq+7AbHChv40s1muXW82VO8dLQI4oa96wCCBjvi3J8tDdGyA3HqUF+7L1VQQCEKE/5olT1vIqGHe0Olh2xm9501+YEy8AQ8+hH4RSLmbNpzvDzsK2mnAAEvjQOccuCYjnoFo/aexTAWkMTJK5o6Dg0vOS1/cR+kwglFlBe32d1ooiww4b69UmgY7EozaYFI58Oh3ykHpnpJbscC01xc221nDPKaIJZgH0SjPz8tKAXWPC0jc2GMCHxxLVxYH9uhtUyPyjar1ISzPFS5lnpdsPsX6PT7wpJg+FugC3pBJJDSkyPwlC4lHgoyhuQRUBb/zj5aXFDG1g64JwONgylXsf0ecmrMY7KbCzoiYRJYUKqs0gXUied3Ik6AvQow0A==;hkNQLIVHFLeqsWDfjjXREg=="
 ---
 

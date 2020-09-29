@@ -98,6 +98,22 @@ related:
         width: 750
         height: 500
         isCached: true
+  - title: "Microsoft is taking its Azure cloud into space"
+    excerpt: "Azure Orbital will compete with rival AWS Ground Station service. Microsoft has launched a new cloud-based platform designed to help satellite operators ingest and analyse data drawn down from ..."
+    publishedDateTime: 2020-09-23T13:43:00Z
+    webUrl: "https://www.techradar.com/nz/news/microsoft-is-taking-its-azure-cloud-into-space"
+    ampWebUrl: "https://www.techradar.com/nz/amp/news/microsoft-is-taking-its-azure-cloud-into-space"
+    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/nz/amp/news/microsoft-is-taking-its-azure-cloud-into-space"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 97
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/dQoiSrD62YtvNU65gf2GJU-1200-80.jpg"
+        width: 970
+        height: 545
+        isCached: true
   - title: "A closer look at Microsoft Azure Arc"
     excerpt: "The promise of Azure Arc is providing the simplicity of the cloud control plane inside the data center. A year after announcement with the core platform now going GA, we thought it would be a good time for a deeper dive to see how Azure Arc actually works."
     publishedDateTime: 2020-09-25T12:00:00Z
