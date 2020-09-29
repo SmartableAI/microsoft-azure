@@ -4,82 +4,6 @@
   "page": 16,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-ai-strategy-in-manufacturing.md",
-      "title": "Define an AI strategy to create business value in manufacturing",
-      "excerpt": "Explore the strategic components, special factors, and use cases of an AI strategy in manufacturing that creates business value, with INSEAD and Microsoft.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-ai-strategy-in-manufacturing/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/ai-strategy-in-manufacturing/",
-      "length": "PT41M",
-      "ratings": {
-        "count": 721,
-        "average": 4.753121
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/ai-strategy-in-manufacturing-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "AI"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-aks-deploy-container-app.md",
-      "title": "Deploy a containerized application on Azure Kubernetes Service",
-      "excerpt": "Explore how to create and deploy a containerized application by using Azure Kubernetes Service declarative manifest files.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-aks-deploy-container-app/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/aks-deploy-container-app/",
-      "length": "PT1H4M",
-      "ratings": {
-        "count": 47,
-        "average": 4.808511
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 51,
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Containers"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-aks-optimize-compute-costs.md",
       "title": "Optimize compute costs on Azure Kubernetes Service (AKS)",
       "excerpt": "Explore strategies that you can use on Azure to optimize your cloud-native application-development process by using Azure Kubernetes Service (AKS).",
@@ -130,8 +54,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/aks-workshop/",
       "length": "PT2H25M",
       "ratings": {
-        "count": 252,
-        "average": 4.7420635
+        "count": 253,
+        "average": 4.743083
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -423,8 +347,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/azure-database-fundamentals/",
       "length": "PT39M",
       "ratings": {
-        "count": 38,
-        "average": 4.868421
+        "count": 41,
+        "average": 4.878049
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -716,8 +640,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/caching-and-performance-azure-storage-and-disks/",
       "length": "PT44M",
       "ratings": {
-        "count": 1674,
-        "average": 4.6798086
+        "count": 1675,
+        "average": 4.68
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1237,6 +1161,86 @@
         "Azure",
         "Management Tools",
         "AI"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-deploy-kubernetes.md",
+      "title": "Automate multi-container Kubernetes deployments with Azure Pipelines",
+      "excerpt": "Implement a CI/CD pipeline for multiple containers to Kubernetes.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-deploy-kubernetes/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/deploy-kubernetes/",
+      "length": "PT56M",
+      "ratings": {
+        "count": 274,
+        "average": 4.6751823
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/azure-devops/deploy-kubernetes-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "DevOps",
+        "Containers"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-design-a-geographically-distributed-application.md",
+      "title": "Design a geographically distributed application",
+      "excerpt": "Build an application that spans multiple geographic locations for high availability and resiliency.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-design-a-geographically-distributed-application/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/design-a-geographically-distributed-application/",
+      "length": "PT34M",
+      "ratings": {
+        "count": 557,
+        "average": 4.6570916
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Advanced"
+      ],
+      "heat": 51,
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Networking",
+        "Web",
+        "Compute",
+        "Databases"
       ]
     }
   ],

@@ -4,6 +4,202 @@
   "page": 6,
   "value": [
     {
+      "path": "_learning/collections/microsoft-learn-work-with-nosql-data-in-azure-cosmos-db.md",
+      "title": "Work with NoSQL data in Azure Cosmos DB",
+      "excerpt": "In this learning path, find out how to customize NoSQL data storage and distribution with the Azure portal, Cosmos DB extension, and Cosmos DB .NET Core SDK.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-work-with-nosql-data-in-azure-cosmos-db/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-work-with-nosql-data-in-azure-cosmos-db/",
+      "length": "PT6H3M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-create-cosmos-db-for-scale.md",
+          "title": "Create an Azure Cosmos DB database built to scale",
+          "excerpt": "Learn how to create an Azure Cosmos DB account, database, and container built to scale as your application grows.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-create-cosmos-db-for-scale/index.json",
+          "webUrl": "https://docs.microsoft.com/learn/modules/create-cosmos-db-for-scale/",
+          "length": "PT35M",
+          "ratings": {
+            "count": 3780,
+            "average": 4.640476
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 55,
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Management Tools",
+            "Databases"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-choose-the-appropriate-api-for-cosmos-db-storage.md",
+          "title": "Choose the appropriate API for Azure Cosmos DB",
+          "excerpt": "Compare the different APIs that are available in Azure Cosmos DB, highlighting and contrasting the different scenarios that would make them a good choice for a company.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-choose-the-appropriate-api-for-cosmos-db-storage/index.json",
+          "webUrl": "https://docs.microsoft.com/learn/modules/choose-api-for-cosmos-db/",
+          "length": "PT38M",
+          "ratings": {
+            "count": 2065,
+            "average": 4.676029
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 51,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/choose-the-appropriate-api-for-cosmos-db-storage-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Databases"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-access-data-with-cosmos-db-and-sql-api.md",
+          "title": "Insert and query data in your Azure Cosmos DB database",
+          "excerpt": "Discover the Azure Cosmos DB Data Explorer tool that enables you to add or modify data and to create and run stored procedures.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-access-data-with-cosmos-db-and-sql-api/index.json",
+          "webUrl": "https://docs.microsoft.com/learn/modules/access-data-with-cosmos-db-and-sql-api/",
+          "length": "PT58M",
+          "ratings": {
+            "count": 2500,
+            "average": 4.6476
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 52,
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Databases",
+            "Management Tools"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-store-access-data-cosmos-graph-api.md",
+          "title": "Store and access graph data in Azure Cosmos DB with the Graph API",
+          "excerpt": "Find out about creating an application with Azure Cosmos DB as a graph database, then retrieve, manipulate, and visualize graph data using Data Explorer.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-store-access-data-cosmos-graph-api/index.json",
+          "webUrl": "https://docs.microsoft.com/learn/modules/store-access-data-cosmos-graph-api/",
+          "length": "PT42M",
+          "ratings": {
+            "count": 1426,
+            "average": 4.64446
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 53,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/store-and-access-data-with-cosmos-db-and-the-graph-api-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Databases"
+          ]
+        }
+      ],
+      "size": 8,
+      "heat": 63,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/choose-the-appropriate-api-for-cosmos-db-storage-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Databases",
+        "Management Tools"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-automate-azure-tasks-with-powershell.md",
       "title": "Automate Azure tasks using scripts with PowerShell",
       "excerpt": "Learn how to install Azure PowerShell on Linux, macOS, or Windows and then connect to Azure and manage your resources.",
@@ -44,8 +240,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/explore-roles-responsibilities-world-of-data/",
       "length": "PT17M",
       "ratings": {
-        "count": 702,
-        "average": 4.8019943
+        "count": 703,
+        "average": 4.802276
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -85,8 +281,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/secure-azure-storage-account/",
       "length": "PT45M",
       "ratings": {
-        "count": 7577,
-        "average": 4.639963
+        "count": 7579,
+        "average": 4.639926
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -310,8 +506,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/deploy-prebuilt-module-edge-device/",
           "length": "PT56M",
           "ratings": {
-            "count": 362,
-            "average": 4.475138
+            "count": 363,
+            "average": 4.476584
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -601,8 +797,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/intro-to-azure-fundamentals/",
           "length": "PT36M",
           "ratings": {
-            "count": 202,
-            "average": 4.742574
+            "count": 206,
+            "average": 4.747573
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -809,8 +1005,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/azure-sql-intro/",
           "length": "PT44M",
           "ratings": {
-            "count": 289,
-            "average": 4.740484
+            "count": 290,
+            "average": 4.7413793
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -985,212 +1181,6 @@
       "topics": [
         "Azure",
         "Databases"
-      ]
-    },
-    {
-      "path": "_learning/collections/microsoft-learn-create-an-enterprise-scale-architecture-in-azure.md",
-      "title": "Create an enterprise-scale architecture in Azure",
-      "excerpt": "Explore how to create Azure landing zone architecture at enterprise scale.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-create-an-enterprise-scale-architecture-in-azure/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-create-an-enterprise-scale-architecture-in-azure/",
-      "length": "PT2H46M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "topItems": [
-        {
-          "path": "_learning/courses/microsoft-learn-enterprise-scale-introduction.md",
-          "title": "Introduction to enterprise-scale landing zones in the Microsoft Cloud Adoption Framework for Azure",
-          "excerpt": "The Microsoft Cloud Adoption Framework for Azure provides many landing zone options. In this module, we'll focus on enterprise-scale landing zones.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-enterprise-scale-introduction/index.json",
-          "webUrl": "https://docs.microsoft.com/learn/modules/enterprise-scale-introduction/",
-          "length": "PT34M",
-          "ratings": {
-            "count": 12,
-            "average": 4.8333335
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 54,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Management Tools"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-enterprise-scale-organizational-design-principles.md",
-          "title": "Enterprise-scale architecture organizational design principles",
-          "excerpt": "Enterprise-scale architecture organizational design principles",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-enterprise-scale-organizational-design-principles/index.json",
-          "webUrl": "https://docs.microsoft.com/learn/modules/enterprise-scale-organization/",
-          "length": "PT34M",
-          "ratings": {
-            "count": 11,
-            "average": 4.909091
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 52,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-enterprise-scale-networking.md",
-          "title": "Enterprise-scale architecture networking design principles",
-          "excerpt": "Enterprise-scale architecture networking design principles",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-enterprise-scale-networking/index.json",
-          "webUrl": "https://docs.microsoft.com/learn/modules/enterprise-scale-networking/",
-          "length": "PT54M",
-          "ratings": {
-            "count": 10,
-            "average": 4.8
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Advanced"
-          ],
-          "heat": 52,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Networking"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-enterprise-scale-operations.md",
-          "title": "Enterprise-scale architecture operational design principles",
-          "excerpt": "Enterprise-scale architecture operational design principles",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-enterprise-scale-operations/index.json",
-          "webUrl": "https://docs.microsoft.com/learn/modules/enterprise-scale-operations/",
-          "length": "PT44M",
-          "ratings": {
-            "count": 10,
-            "average": 4.9
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Advanced"
-          ],
-          "heat": 52,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure"
-          ]
-        }
-      ],
-      "size": 4,
-      "heat": 62,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure"
       ]
     },
     {
@@ -1445,8 +1435,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/control-azure-services-with-cli/",
       "length": "PT34M",
       "ratings": {
-        "count": 4125,
-        "average": 4.7476363
+        "count": 4126,
+        "average": 4.7476974
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1937,8 +1927,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/intro-to-azure-fundamentals/",
           "length": "PT36M",
           "ratings": {
-            "count": 202,
-            "average": 4.742574
+            "count": 206,
+            "average": 4.747573
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1978,8 +1968,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/ai-machine-learning-fundamentals/",
           "length": "PT23M",
           "ratings": {
-            "count": 16,
-            "average": 4.75
+            "count": 17,
+            "average": 4.7647057
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2795,8 +2785,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/build-an-ai-ready-culture/",
           "length": "PT49M",
           "ratings": {
-            "count": 891,
-            "average": 4.7418633
+            "count": 892,
+            "average": 4.7421527
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3808,8 +3798,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/characterize-devops-continous-collaboration-improvement/",
       "length": "PT17M",
       "ratings": {
-        "count": 855,
-        "average": 4.6701756
+        "count": 856,
+        "average": 4.6693926
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3842,8 +3832,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/evolving-world-of-data/",
       "length": "PT28M",
       "ratings": {
-        "count": 4682,
-        "average": 4.67642
+        "count": 4683,
+        "average": 4.6764894
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3883,8 +3873,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/explore-core-data-concepts/",
       "length": "PT25M",
       "ratings": {
-        "count": 905,
-        "average": 4.836464
+        "count": 907,
+        "average": 4.835722
       },
       "provider": {
         "name": "Microsoft Learn",

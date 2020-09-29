@@ -4,39 +4,6 @@
   "page": 11,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-intro-to-site-reliability-engineering.md",
-      "title": "Introduction to Site Reliability Engineering (SRE)",
-      "excerpt": "Learn about SRE, an engineering discipline that helps you sustainably achieve the appropriate level of reliability in your systems, services, and products.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-to-site-reliability-engineering/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/intro-to-site-reliability-engineering/",
-      "length": "PT55M",
-      "ratings": {
-        "count": 520,
-        "average": 4.7192307
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 54,
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-migrate-sql-server-relational-data.md",
       "title": "Migrate your relational data stored in SQL Server to Azure SQL Database",
       "excerpt": "Plan and implement the migration of relational data from SQL Server to Azure SQL Database. Select the appropriate migration strategy for your database, and then use Data Migration Assistant to do the assessment and the migration.",
@@ -44,8 +11,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/migrate-sql-server-relational-data/",
       "length": "PT1H24M",
       "ratings": {
-        "count": 773,
-        "average": 4.389392
+        "count": 774,
+        "average": 4.390181
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -78,8 +45,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/run-parallel-tasks-in-azure-batch-with-the-azure-cli/",
       "length": "PT45M",
       "ratings": {
-        "count": 925,
-        "average": 4.576216
+        "count": 926,
+        "average": 4.576674
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -995,7 +962,7 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/azure-architecture-fundamentals/",
       "length": "PT34M",
       "ratings": {
-        "count": 25,
+        "count": 26,
         "average": 5.0
       },
       "provider": {
@@ -1074,8 +1041,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/azure-storage-fundamentals/",
       "length": "PT27M",
       "ratings": {
-        "count": 23,
-        "average": 4.826087
+        "count": 24,
+        "average": 4.8333335
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1206,8 +1173,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/build-an-ai-ready-culture/",
       "length": "PT49M",
       "ratings": {
-        "count": 891,
-        "average": 4.7418633
+        "count": 892,
+        "average": 4.7421527
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1289,8 +1256,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/choose-compute-provisioning/",
       "length": "PT50M",
       "ratings": {
-        "count": 741,
-        "average": 4.6491227
+        "count": 742,
+        "average": 4.6495957
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1562,6 +1529,48 @@
         "IoT",
         "Mobile",
         "Web"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-design-azure-sql-data-warehouse.md",
+      "title": "Design a data warehouse with Azure Synapse Analytics",
+      "excerpt": "Learn how to create a data warehouse in Azure Synapse Analytics in minutes to take advantage of massively parallel processing (MPP) and run complex queries at petabyte scale quickly",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-design-azure-sql-data-warehouse/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/design-azure-sql-data-warehouse/",
+      "length": "PT47M",
+      "ratings": {
+        "count": 2712,
+        "average": 4.5774336
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/data-ai/design-azure-sql-data-warehouse-badge-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Analytics"
       ]
     }
   ],

@@ -4,50 +4,6 @@
   "page": 14,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-develop-test-deploy-azure-functions-with-visual-studio.md",
-      "title": "Develop, test, and deploy an Azure Function with Visual Studio",
-      "excerpt": "Use Visual Studio together with a test framework to create, deploy, and test an Azure Function.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-develop-test-deploy-azure-functions-with-visual-studio/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/develop-test-deploy-azure-functions-with-visual-studio/",
-      "length": "PT43M",
-      "ratings": {
-        "count": 1770,
-        "average": 4.600565
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/develop-test-deploy-azure-functions-with-visual-studio-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Compute",
-        "Serverless",
-        "Developer tools"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-end-to-end-encryption-with-app-gateway.md",
       "title": "Encrypt network traffic end to end with Azure Application Gateway",
       "excerpt": "Secure the traffic from your users all the way to your web servers by enabling TLS encryption on Application Gateway.",
@@ -156,47 +112,6 @@
       },
       "levels": [
         "Advanced"
-      ],
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-enterprise-scale-organizational-design-principles.md",
-      "title": "Enterprise-scale architecture organizational design principles",
-      "excerpt": "Enterprise-scale architecture organizational design principles",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-enterprise-scale-organizational-design-principles/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/enterprise-scale-organization/",
-      "length": "PT34M",
-      "ratings": {
-        "count": 11,
-        "average": 4.909091
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
       ],
       "heat": 52,
       "images": [
@@ -461,8 +376,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/intro-to-hpc/",
       "length": "PT50M",
       "ratings": {
-        "count": 879,
-        "average": 4.5585895
+        "count": 881,
+        "average": 4.5595913
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -797,8 +712,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/move-data-with-azure-data-box/",
       "length": "PT25M",
       "ratings": {
-        "count": 427,
-        "average": 4.6323185
+        "count": 428,
+        "average": 4.6261683
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -999,8 +914,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/query-azure-sql-data-warehouse/",
       "length": "PT60M",
       "ratings": {
-        "count": 1391,
-        "average": 4.6319194
+        "count": 1392,
+        "average": 4.632184
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1041,8 +956,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/query-relational-data/",
       "length": "PT40M",
       "ratings": {
-        "count": 247,
-        "average": 4.7611337
+        "count": 248,
+        "average": 4.762097
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1082,8 +997,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/read-text-computer-vision/",
       "length": "PT24M",
       "ratings": {
-        "count": 203,
-        "average": 4.7487683
+        "count": 204,
+        "average": 4.75
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1124,8 +1039,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/secure-aad-users-with-mfa/",
       "length": "PT38M",
       "ratings": {
-        "count": 1316,
-        "average": 4.6800914
+        "count": 1317,
+        "average": 4.680334
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1233,6 +1148,90 @@
           "url": "https://docs.microsoft.com/learn/achievements/secure-network-connectivity-social.png",
           "width": 640,
           "height": 320,
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-translate-speech-speech-service.md",
+      "title": "Translate speech with the speech service",
+      "excerpt": "Perform speech translation tasks with the speech service to translate spoken text to different languages.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-translate-speech-speech-service/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/translate-speech-speech-service/",
+      "length": "PT18M",
+      "ratings": {
+        "count": 203,
+        "average": 4.635468
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/translate-speech-speech-service-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "AI"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-unsupervised-learning.md",
+      "title": "Use unsupervised learning to analyze unlabeled data",
+      "excerpt": "Use unsupervised learning methods to predict groupings in data. Use variations of k-means clustering and spectral clustering to analyze and visualize difficult data sets.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-unsupervised-learning/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-unsupervised-learning/",
+      "length": "27 mins",
+      "ratings": {
+        "count": 249,
+        "average": 4.6787148
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/introduction-to-unsupervised-learning-social.png",
+          "width": 800,
+          "height": 400,
+          "title": "Use unsupervised learning to analyze unlabeled data",
           "isCached": true
         }
       ],
