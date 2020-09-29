@@ -623,8 +623,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/intro-to-azure-fundamentals/",
           "length": "PT36M",
           "ratings": {
-            "count": 193,
-            "average": 4.7409325
+            "count": 195,
+            "average": 4.7384615
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1041,8 +1041,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/secure-azure-storage-account/",
           "length": "PT45M",
           "ratings": {
-            "count": 7571,
-            "average": 4.640074
+            "count": 7572,
+            "average": 4.6399894
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1131,48 +1131,6 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-ai-strategy-in-healthcare.md",
-      "title": "Define an AI strategy to create business value in healthcare",
-      "excerpt": "Explore the strategic components, special factors, and use cases of an AI strategy in healthcare that creates business value, with INSEAD and Microsoft.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-ai-strategy-in-healthcare/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/ai-strategy-in-healthcare/",
-      "length": "PT40M",
-      "ratings": {
-        "count": 649,
-        "average": 4.779661
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/ai-strategy-in-healthcare-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "AI"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-analyze-images-computer-vision.md",
       "title": "Analyze images with the Computer Vision service",
       "excerpt": "The Computer Vision service enables software engineers to create intelligent solutions that extract information from images; a common task in many artificial intelligence (AI) scenarios.",
@@ -1222,8 +1180,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/analyze-receipts-form-recognizer/",
       "length": "PT24M",
       "ratings": {
-        "count": 237,
-        "average": 4.7257385
+        "count": 238,
+        "average": 4.722689
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1384,8 +1342,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/azure-networking-fundamentals/",
       "length": "PT38M",
       "ratings": {
-        "count": 16,
-        "average": 4.8125
+        "count": 17,
+        "average": 4.8235292
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1511,8 +1469,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/azure-well-architected-operational-excellence/",
       "length": "PT54M",
       "ratings": {
-        "count": 437,
-        "average": 4.6750574
+        "count": 439,
+        "average": 4.6765375
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1594,8 +1552,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/build-blazor-webassembly-visual-studio-code/",
       "length": "PT45M",
       "ratings": {
-        "count": 1142,
-        "average": 4.694396
+        "count": 1143,
+        "average": 4.694663
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1718,8 +1676,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/create-azure-db-for-postgresql-server/",
       "length": "PT44M",
       "ratings": {
-        "count": 1819,
-        "average": 4.6228695
+        "count": 1820,
+        "average": 4.623077
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1795,8 +1753,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/develop-test-deploy-azure-functions-with-visual-studio/",
       "length": "PT43M",
       "ratings": {
-        "count": 1765,
-        "average": 4.6017
+        "count": 1766,
+        "average": 4.601359
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1829,6 +1787,48 @@
         "Compute",
         "Serverless",
         "Developer tools"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-end-to-end-encryption-with-app-gateway.md",
+      "title": "Encrypt network traffic end to end with Azure Application Gateway",
+      "excerpt": "Secure the traffic from your users all the way to your web servers by enabling TLS encryption on Application Gateway.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-end-to-end-encryption-with-app-gateway/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/end-to-end-encryption-with-app-gateway/",
+      "length": "PT1H17M",
+      "ratings": {
+        "count": 725,
+        "average": 4.5806894
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/end-to-end-encryption-with-app-gateway-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Networking"
       ]
     }
   ],
