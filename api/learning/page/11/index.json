@@ -4,6 +4,91 @@
   "page": 11,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-intro-to-ai-technology.md",
+      "title": "Introduction to AI technology",
+      "excerpt": "Learn the primary concepts and technologies of AI, and how Microsoft is turning the latest AI into tools, products, and services that organizations can leverage",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-to-ai-technology/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/introduction-to-ai-technology/",
+      "length": "PT37M",
+      "ratings": {
+        "count": 1475,
+        "average": 4.6922035
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 54,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/introduction-to-ai-technology-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "AI"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-intro-to-azure-machine-learning-service.md",
+      "title": "Introduction to the Azure Machine Learning SDK",
+      "excerpt": "Azure Machine Learning provides a cloud-based platform for training, deploying, and managing machine learning models.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-to-azure-machine-learning-service/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/intro-to-azure-machine-learning-service/",
+      "length": "PT40M",
+      "ratings": {
+        "count": 2126,
+        "average": 4.6119475
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 54,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/intro-to-azure-machine-learning-service-badge-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "AI",
+        "Developer tools"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-intro-to-site-reliability-engineering.md",
       "title": "Introduction to Site Reliability Engineering (SRE)",
       "excerpt": "Learn about SRE, an engineering discipline that helps you sustainably achieve the appropriate level of reliability in your systems, services, and products.",
@@ -44,8 +129,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/migrate-sql-server-relational-data/",
       "length": "PT1H24M",
       "ratings": {
-        "count": 775,
-        "average": 4.390968
+        "count": 776,
+        "average": 4.3917527
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -417,8 +502,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/explore-data-ingestion-azure/",
           "length": "PT23M",
           "ratings": {
-            "count": 215,
-            "average": 4.6976743
+            "count": 216,
+            "average": 4.6990743
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -458,8 +543,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/explore-data-storage-processing-azure/",
           "length": "PT24M",
           "ratings": {
-            "count": 191,
-            "average": 4.670157
+            "count": 192,
+            "average": 4.6666665
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -709,8 +794,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/identify-faces-with-computer-vision/",
           "length": "PT47M",
           "ratings": {
-            "count": 1379,
-            "average": 4.6461205
+            "count": 1382,
+            "average": 4.6468887
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -752,8 +837,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/create-computer-vision-service-to-classify-images/",
           "length": "PT32M",
           "ratings": {
-            "count": 1325,
-            "average": 4.6467924
+            "count": 1326,
+            "average": 4.647059
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -787,8 +872,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/classify-images-with-custom-vision-service/",
           "length": "PT37M",
           "ratings": {
-            "count": 1418,
-            "average": 4.6593795
+            "count": 1420,
+            "average": 4.659859
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -925,8 +1010,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/azure-compute-fundamentals/",
       "length": "PT52M",
       "ratings": {
-        "count": 26,
-        "average": 4.8846154
+        "count": 27,
+        "average": 4.888889
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1011,8 +1096,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/automatic-update-of-a-webapp-using-azure-functions-and-signalr/",
       "length": "PT55M",
       "ratings": {
-        "count": 1412,
-        "average": 4.2776203
+        "count": 1413,
+        "average": 4.2781315
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1048,8 +1133,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/azure-networking-fundamentals/",
       "length": "PT38M",
       "ratings": {
-        "count": 20,
-        "average": 4.8
+        "count": 21,
+        "average": 4.8095236
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1090,8 +1175,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/azure-well-architected-introduction/",
       "length": "PT1H4M",
       "ratings": {
-        "count": 923,
-        "average": 4.725894
+        "count": 924,
+        "average": 4.7261906
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1263,8 +1348,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/choose-compute-provisioning/",
       "length": "PT50M",
       "ratings": {
-        "count": 744,
-        "average": 4.6505375
+        "count": 745,
+        "average": 4.6510067
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1347,8 +1432,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/classify-images-custom-vision/",
       "length": "PT34M",
       "ratings": {
-        "count": 253,
-        "average": 4.7667985
+        "count": 254,
+        "average": 4.7519684
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1389,8 +1474,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/classify-images-with-custom-vision-service/",
       "length": "PT37M",
       "ratings": {
-        "count": 1418,
-        "average": 4.6593795
+        "count": 1420,
+        "average": 4.659859
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1467,8 +1552,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/create-computer-vision-service-to-classify-images/",
       "length": "PT32M",
       "ratings": {
-        "count": 1325,
-        "average": 4.6467924
+        "count": 1326,
+        "average": 4.647059
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1492,92 +1577,6 @@
         "Azure",
         "Management Tools",
         "AI"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-create-your-first-iot-central-app.md",
-      "title": "Create your first Azure IoT Central app",
-      "excerpt": "This module builds an IoT Central app to monitor and command a refrigerated truck. The first unit creates the app, the second unit defines a device template for a refrigerated truck. Then, create a programming project, add code to simulate a truck, and communicate with your IoT Central app. The truck is monitored through a custom dashboard.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-create-your-first-iot-central-app/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/create-your-first-iot-central-app/",
-      "length": "PT1H22M",
-      "ratings": {
-        "count": 579,
-        "average": 4.580311
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 53,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/iot/iot-central-refrigerated-truck-module-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "IoT",
-        "Mobile",
-        "Web"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-design-azure-sql-data-warehouse.md",
-      "title": "Design a data warehouse with Azure Synapse Analytics",
-      "excerpt": "Learn how to create a data warehouse in Azure Synapse Analytics in minutes to take advantage of massively parallel processing (MPP) and run complex queries at petabyte scale quickly",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-design-azure-sql-data-warehouse/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/design-azure-sql-data-warehouse/",
-      "length": "PT47M",
-      "ratings": {
-        "count": 2714,
-        "average": 4.577745
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 53,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/data-ai/design-azure-sql-data-warehouse-badge-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Analytics"
       ]
     }
   ],
