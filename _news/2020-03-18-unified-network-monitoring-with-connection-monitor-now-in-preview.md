@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/unified-network-monitoring-with-c
 webUrl: "https://azure.microsoft.com/blog/unified-network-monitoring-with-connection-monitor-now-in-preview/"
 type: article
 quality: 74
-heat: 75
+heat: 74
 published: true
 
 provider:
