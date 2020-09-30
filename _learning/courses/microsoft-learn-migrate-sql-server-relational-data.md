@@ -6,9 +6,9 @@ type: course
 price: Free
 length: PT1H24M
 ratings:
-  count: 777
-  average: 4.392535
-heat: 54
+  count: 778
+  average: 4.38946
+heat: 55
 
 provider:
   name: Microsoft Learn
@@ -25,6 +25,6 @@ topics:
   - Azure
   - Databases
 
-secured: "JUnAImhSksrQAfDIvuSXwl+Tm5A+Wc++25c29Xdxyai+NtP0FEctrFfBDe2AOwrIwdIZD3mwXXMc6T/9AhEuO41GYFxFwwWsCQV+u1xqzYkEteffusmFFwUy45ZAGCv+0qHY3LTdRTVMbklZKn5J5I19wDYsp5pCSITOF5m0wEEd/DzOldscSYj8c79UZaCRMR5aHsaC0itcGCBycDVUyC8aGqCJf8qMkshFIiM6mzAM0NZS78HCmyd92gE/M6r0N1O0pshrbrH3rwOE//UD9NepWyegfXdekIiLxanljywHnDVXqsLZZrIuGYG0mg8fz6Rd/Lptx4sfgz2ZYOMe0uQM1A11jvg1fAEXQ9KEQp+oBBPbkLzfUEt9lrq5Umu4cSQ+gd0Tb9uklrgcRvBXTUgghCt/Dc5lFCwl6yWeb84=;j3bPYcHN3BSS0V0jEdcLJQ=="
+secured: "3e6AfyU4uhufoMzBq5i3uA1lBVv0YVjtT/HTLBzSSMAUbxz1TMmS40Fs2sWrd5OzJlxL2h/zYvqSEoMpGJ9i26Ye39+KWUmGjFOghxQIuybflPMmmPwH9g/VN28iZjIovDQdUk5loF2iWoD9CDc7K8XbTj+4euNYjaj8BtCXHSgVxBMqG+w1/dqam8AYjsMwJJqxd1It6MwPlNmTMYrsLpaov5lTfIIr7nh55I2Kr/m8NrcFE38wNZ8cvM8oRYfRzWk7SWbpOzyMgZxLUu8d4uD/RS/8ttRGM4AI9vAf92O2tGA1WbGJbEpCPJk34LdyD7uBfP7EbMkDihMKcHRkQt29vXFCDSbQPsbccxzdpI3ikjShX/ejIpz30kW6yg2rItithAPu7DGpAkpJkzmn2tkhgz1T4Jrv0lb3hGuPJ3I=;n3R5r4+jEV2nw1biae7m5A=="
 ---
 
