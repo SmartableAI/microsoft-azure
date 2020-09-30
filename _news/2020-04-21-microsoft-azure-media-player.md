@@ -764,6 +764,20 @@ related:
         width: 600
         height: 600
         isCached: true
+  - title: "Intelemark's New Microsoft Azure Cloud-Based AI Proprietary Software Fuels International Expansion"
+    excerpt: "Intelemark, a national leader in the lead generation/appointment setting industry for more than 20 years, is pleased to announce the"
+    publishedDateTime: 2020-09-30T13:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/intelemarks-new-microsoft-azure-cloud-based-ai-proprietary-software-fuels-international-expansion-301141708.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 40
+    images:
+      - url: "https://mma.prnewswire.com/media/1294546/Intelemark_Logo.jpg?p=facebook"
+        width: 1447
+        height: 759
+        isCached: true
   - title: "Microsoft Security Moves Target Azure Cloud Services"
     excerpt: "The moves to secure Azure cloud services range from providing greater visibility into third parties with access to an organization's applications and data to improving risk assessment with a Secure Score API."
     publishedDateTime: 2020-05-26T19:21:00Z
@@ -1381,7 +1395,7 @@ related:
   - title: "RegDOX Solutions Statement on Microsoft Azure Outage"
     excerpt: "Along with many observers, on September 28, 2020, we learned that Microsoft Azure Public and Azure Government networks suffered a major outage involvi"
     publishedDateTime: 2020-09-29T14:43:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200929005837/en/"
+    webUrl: "https://www.businesswire.com/news/home/20200929005837/en/RegDOX-Solutions-Statement-on-Microsoft-Azure-Outage"
     type: article
     provider:
       name: Business Wire

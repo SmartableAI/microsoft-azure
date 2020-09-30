@@ -760,6 +760,20 @@ related:
         width: 600
         height: 600
         isCached: true
+  - title: "Intelemark's New Microsoft Azure Cloud-Based AI Proprietary Software Fuels International Expansion"
+    excerpt: "Intelemark, a national leader in the lead generation/appointment setting industry for more than 20 years, is pleased to announce the"
+    publishedDateTime: 2020-09-30T13:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/intelemarks-new-microsoft-azure-cloud-based-ai-proprietary-software-fuels-international-expansion-301141708.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 40
+    images:
+      - url: "https://mma.prnewswire.com/media/1294546/Intelemark_Logo.jpg?p=facebook"
+        width: 1447
+        height: 759
+        isCached: true
   - title: "MICROSOFT AZURE MEDIA PLAYER"
     excerpt: "Section A: Microsoft is offering you a license to use the following components with Microsoft Azure Media Player (the \"Microsoft Program\"). The notices below are provided for informational purposes only and are not the license terms under which Microsoft distributes these files. The Microsoft Program may include the following third-party ..."
     publishedDateTime: 2020-04-21T05:22:00Z
@@ -1377,7 +1391,7 @@ related:
   - title: "RegDOX Solutions Statement on Microsoft Azure Outage"
     excerpt: "Along with many observers, on September 28, 2020, we learned that Microsoft Azure Public and Azure Government networks suffered a major outage involvi"
     publishedDateTime: 2020-09-29T14:43:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200929005837/en/"
+    webUrl: "https://www.businesswire.com/news/home/20200929005837/en/RegDOX-Solutions-Statement-on-Microsoft-Azure-Outage"
     type: article
     provider:
       name: Business Wire
@@ -1416,6 +1430,6 @@ related:
         height: 450
         isCached: true
 
-secured: "mLtOfsAnF1Bf5kvXEGOxrMxGS6831HIy2V67/uzCx/NQGQBvEqe/5tlVI0tfdSLF/ES54YPAwMiakjsXcO5Lc073NCFGGI6KKqY9kAqby8VmlddLz3IfniEhFwi/NJAEIiOLU36M3OQlogpPfwr7DzrmfmldTlwDfWvAC5m0tJFLnxxZiorhlDNGpAHWwMVf/HxdfTPKH17CB8OBQzc0Sfbmhh5y/euStCX7wS10lPxhA0KGivdeCbJTX1n1ry4Fin0iV8OOHRV4DEleEi+MOe2yJkXMPxVS/spRVeOInMmCjuLkL4MPzpB98TpUWk7YDZU3F1CuYWtVUo1w/K1DjTyPTJaFl+uWWMlwstryccs=;L0Lx9oXgZI9p7xxtWytjAw=="
+secured: "4fvj+21sh3vIYqT9HHAkdU2wAlNZhfz3fY0hAzLdRNnlXWDdZUAejfDXIi5l7+ZTo4E1QOvw8o1UBBzewPxt2UPVmDRpB0G7LOCpiMwfdgq04MZDwAWX3OUNZ85Vqv8Lk8/K0alIK2cM9bDqEY/o6gfmMzuDzyPUtQt+L5qbFc+zJLS87/2kY0FwfUsCA9P4725rx4QNZH1yy6R5wNXdYgWf6b7ooBQRgRIeCXP0HUXaxtpSeRRpgomo29PyYj5HEoZGsae85CdP0LMcIG/K3eeUNsAQ3K5tkZGKMakPZZ6PFfmk7A8MDIOTDZtRKzckQzQBBhU0TS+wceVjBUpcI3zWKVOJKS5YoSZzJAiZylzphJvQ1y4bR+pTtZ2IvXcluqap5TpRYR2Z9eDOQxmasydFBdIOSXjDY8tePpV9yPwLgxScz7svS4DfnMhh5ncd77E5Xr58giqrb3FaL17mxHKJxFl3YCmB2rcyCV8PkNl3fqg/MHMM2/iZ3xk9SBpinorP5Ta/3Bogk+0wGkv7Xw==;SrNz5OLbO65JOva1q6HULA=="
 ---
 

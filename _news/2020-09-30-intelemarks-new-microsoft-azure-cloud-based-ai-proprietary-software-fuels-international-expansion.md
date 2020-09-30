@@ -1,32 +1,27 @@
 ---
 category: news
-title: "Microsoft challenges Twilio with the launch of Azure Communication Services"
-excerpt: "Microsoft today announced the launch of Azure Communication Services, a new set of features in its cloud that enable developers to add voice and video calling, chat and text messages to their apps, as well as old-school telephony."
-publishedDateTime: 2020-09-23T12:09:00Z
-originalUrl: "https://techcrunch.com/2020/09/22/microsoft-challenges-twilio-with-the-launch-of-azure-communication-services/"
-webUrl: "https://techcrunch.com/2020/09/22/microsoft-challenges-twilio-with-the-launch-of-azure-communication-services/"
-ampWebUrl: "https://techcrunch.com/2020/09/22/microsoft-challenges-twilio-with-the-launch-of-azure-communication-services/amp/"
-cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/09/22/microsoft-challenges-twilio-with-the-launch-of-azure-communication-services/amp/"
+title: "Intelemark's New Microsoft Azure Cloud-Based AI Proprietary Software Fuels International Expansion"
+excerpt: "Intelemark, a national leader in the lead generation/appointment setting industry for more than 20 years, is pleased to announce the"
+publishedDateTime: 2020-09-30T13:00:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/intelemarks-new-microsoft-azure-cloud-based-ai-proprietary-software-fuels-international-expansion-301141708.html"
+webUrl: "https://www.prnewswire.com/news-releases/intelemarks-new-microsoft-azure-cloud-based-ai-proprietary-software-fuels-international-expansion-301141708.html"
 type: article
-quality: 95
+quality: 40
 heat: -1
 published: false
 
 provider:
-  name: TechCrunch
-  domain: techcrunch.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/techcrunch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Azure
+  - AI
 
 images:
-  - url: "https://techcrunch.com/wp-content/uploads/2020/09/GettyImages-1167012061.jpg?w=1024"
-    width: 1024
-    height: 576
+  - url: "https://mma.prnewswire.com/media/1294546/Intelemark_Logo.jpg?p=facebook"
+    width: 1447
+    height: 759
     isCached: true
 
 related:
@@ -141,6 +136,22 @@ related:
       - url: "https://images.wsj.net/im-237735/social"
         width: 1280
         height: 640
+        isCached: true
+  - title: "Microsoft challenges Twilio with the launch of Azure Communication Services"
+    excerpt: "Microsoft today announced the launch of Azure Communication Services, a new set of features in its cloud that enable developers to add voice and video calling, chat and text messages to their apps, as well as old-school telephony."
+    publishedDateTime: 2020-09-23T12:09:00Z
+    webUrl: "https://techcrunch.com/2020/09/22/microsoft-challenges-twilio-with-the-launch-of-azure-communication-services/"
+    ampWebUrl: "https://techcrunch.com/2020/09/22/microsoft-challenges-twilio-with-the-launch-of-azure-communication-services/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/09/22/microsoft-challenges-twilio-with-the-launch-of-azure-communication-services/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 95
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2020/09/GettyImages-1167012061.jpg?w=1024"
+        width: 1024
+        height: 576
         isCached: true
   - title: "Azure Communications Services is Microsoft's new managed communication platform"
     excerpt: "At its annual Ignite conference, Microsoft announced Azure Communications Service, the first fully managed communication platform offering from a major cloud provider. The service will help developers deliver enterprise-grade communication experiences ..."
@@ -749,20 +760,6 @@ related:
       - url: "https://bloximages.chicago2.vip.townnews.com/thedailytimes.com/content/tncms/custom/image/4c01e2ce-7067-11e6-87cd-0725ce0cc960.jpg?resize=600%2C600"
         width: 600
         height: 600
-        isCached: true
-  - title: "Intelemark's New Microsoft Azure Cloud-Based AI Proprietary Software Fuels International Expansion"
-    excerpt: "Intelemark, a national leader in the lead generation/appointment setting industry for more than 20 years, is pleased to announce the"
-    publishedDateTime: 2020-09-30T13:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/intelemarks-new-microsoft-azure-cloud-based-ai-proprietary-software-fuels-international-expansion-301141708.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 40
-    images:
-      - url: "https://mma.prnewswire.com/media/1294546/Intelemark_Logo.jpg?p=facebook"
-        width: 1447
-        height: 759
         isCached: true
   - title: "MICROSOFT AZURE MEDIA PLAYER"
     excerpt: "Section A: Microsoft is offering you a license to use the following components with Microsoft Azure Media Player (the \"Microsoft Program\"). The notices below are provided for informational purposes only and are not the license terms under which Microsoft distributes these files. The Microsoft Program may include the following third-party ..."
@@ -1434,6 +1431,6 @@ related:
         height: 450
         isCached: true
 
-secured: "wz0AtBizKjLIY7tlCowXUzGXhe3judxtM9IRz4zs5o2qJ0+p5VSPyZRYjD05YxK2ghfmlJxMB9kwBcyHv0ll1W/DJjWLychgMqc8ptxuac7j3vtHN/pv4UQiL7iyrMUIH1ceSXdg7m9VXwjzMflBUpzJ3xTxJJe65rq2S6+p7ZBOv4t28mCS2cyv2SRHNqbwqqFNz8OSgmar+BuS5s3+O8s+5r3Ck1xxcMtfkvDzVbVtu3mMK0ReJxfhdfdyW2GQRV3f6a2LZE1CY4fXiU4YENxpGXyYlJjUhNsidRPyq/gY66FKQkeRIBQfMSn1kdm+ubmJv72ADY9ZHDQecPxMvFAmgYusZ1Jgi9Hs2SdvW9gbsUvMW1PyVLDnumvlcRfJT15+460y2Hgbb0Xcv49O2gVhO4AOr0emMNQUw3f0EpBgUbUMF/ZGiYayKPfk0D6jSZTw44SaiXe+4pZN2Ga079hYtOsLuRsBrwKq56D5nrANxHIOy3C8XhZVrLMRq3BJBvE4OfzPhuE6Gp/O/m3hlA==;7rKymoRsy9CamKjjhDP4IQ=="
+secured: "OVf1OU3rus3zVTwNXKy0D49WKSUiRAXPSZdFxhAjdRaIGHw/TIutcOGaj9W4P2rX17i+EAHcurw2NK/SNr3wHL+AI029pjAN/yPAAr6GT6KIsmuZ0Cz/vKb7tbGJDMwhRoHX9x3H+bHMnhRCOPY5M5E036WDAtgNHOUfLPrPMRCRijm4PYEJtVQhKQyckcduZGpSIj97hF59V7ghhtFsIo+dsXAF83LSiLWwqkhhYmlQ6aPo2jJQv2mnU0B0mspFkc/bCDK9ZM1YVTNFOY+LN8kBwp41H3LiO41B1Nd3Gc/F4GmzLQoD6BHJlTet14OzwGhWFYOlKnK+EcyR3ooNUBldvxki0qAF3caMxmrXDMY=;/H0wmTbeUykdWF/pgOCHGw=="
 ---
 
