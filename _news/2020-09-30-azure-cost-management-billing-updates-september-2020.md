@@ -1,12 +1,12 @@
 ---
 category: news
-title: "Azure Security Center—News and updates for August 2020"
-excerpt: "New enhancements and updates that were made to Azure Security Center in August 2020."
-publishedDateTime: 2020-09-02T21:00:05Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/asc-august2020/"
-webUrl: "https://azure.microsoft.com/en-us/updates/asc-august2020/"
+title: "Azure Cost Management + Billing updates – September 2020"
+excerpt: "While 2020 may be keeping you on your toes, September should help make your life a little bit easier with the general availability of AWS support in Azure Cost Management + Billing, allowing you to manage all your Azure and AWS costs in a single place; the preview of cost allocation, streamlining your"
+publishedDateTime: 2020-09-30T11:00:21Z
+originalUrl: "https://azure.microsoft.com/blog/azure-cost-management-billing-updates-september-2020/"
+webUrl: "https://azure.microsoft.com/blog/azure-cost-management-billing-updates-september-2020/"
 type: article
-quality: 67
+quality: 81
 heat: -1
 published: false
 
@@ -20,6 +20,13 @@ provider:
 
 topics:
   - Azure
+  - Analytics
+  - Storage
+  - Management tools
+  - Databases
+  - Compute
+  - Networking
+  - Serverless
 
 related:
   - title: "Azure Security Center—News and updates for September 2020"
@@ -31,15 +38,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 99
-  - title: "Azure Cost Management + Billing updates – September 2020"
-    excerpt: "While 2020 may be keeping you on your toes, September should help make your life a little bit easier with the general availability of AWS support in Azure Cost Management + Billing, allowing you to manage all your Azure and AWS costs in a single place; the preview of cost allocation, streamlining your"
-    publishedDateTime: 2020-09-30T11:00:21Z
-    webUrl: "https://azure.microsoft.com/blog/azure-cost-management-billing-updates-september-2020/"
+  - title: "Azure Security Center—News and updates for August 2020"
+    excerpt: "New enhancements and updates that were made to Azure Security Center in August 2020."
+    publishedDateTime: 2020-09-02T21:00:05Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/asc-august2020/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 81
+    quality: 67
   - title: "Azure API Management updates- September 2020"
     excerpt: "Regular Azure API Management service updates including new features, bug fixes, changes and other improvements."
     publishedDateTime: 2020-09-17T16:00:10Z
@@ -68,6 +75,6 @@ related:
       domain: microsoft.com
     quality: 17
 
-secured: "scCZsN3ECUgjyCit62PFQtdbMCNK/oN3L8jdlOW+usik/stSrAQmFcuKYRCgw23Fztmiu/JrvK2m74nfRdPdb7ltbgLBlcnZDrkmLvxYtBRaseD5R4Alew0YAYhSCgDUegTbFp95g4jcTRQMr7RrxY57moTC+dG3f/YvT4v3tS2iELq5YodxwkCf1C48KctaWaUf7ztJvWXFsrc/+CuI4vBISZYxwPjk6vkfQujM2jtISg1c6YNPZUlQrd4B/xxOGmCqE/bzIb6PqTpUecXAEs7UVIUWKJ9hfcxb4/D+3tYiquSTD7Swlfsls5RBHUVP8N2AUNfL3ozfjrY0OzioK6Fv5vAOcpVoQ7S2go38Sas=;XU5lTRM4BkeVC90uFuH+2g=="
+secured: "/95FzEQ0QJMQfKx0WAssom+tIp+3xONT+CnduNmSrS0pm8dCgXdk3h3+jBoy7yRkcsqvP3D/CgbfRGker2NqqZua+CP5UtKW6dhbsi5r4tKgq4pgLfTP5gQBituDQM01IxPHxDD+LDTF4hwkNDYp1ILs3R21tlq/R6/VynpMSpgnhLFTf2njaP+dER2gxPEuR0RvN1ijfcQXpzjpwMkpm+5fDuTGO1JOJagtKzj0nuQJXoZjgiZoI/KwrugpFS16fsiDvSHsPdAJXvp7EqEnzdvyP5woa6oIDWveJ/TnH2a2bW9uC1NC3BIXRnjmW48xA3zyayJEfYsk/Wj4shEjnKfVjHD68r527Q8tn3mmuIs=;CKPxxhsRyR4IiCPHUscqww=="
 ---
 

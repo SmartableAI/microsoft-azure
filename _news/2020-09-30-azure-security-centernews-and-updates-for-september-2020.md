@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/asc-september2020/"
 webUrl: "https://azure.microsoft.com/en-us/updates/asc-september2020/"
 type: article
 quality: 99
-heat: 179
+heat: 199
 published: true
 
 provider:
@@ -23,6 +23,15 @@ topics:
   - Security
 
 related:
+  - title: "Azure Cost Management + Billing updates – September 2020"
+    excerpt: "While 2020 may be keeping you on your toes, September should help make your life a little bit easier with the general availability of AWS support in Azure Cost Management + Billing, allowing you to manage all your Azure and AWS costs in a single place; the preview of cost allocation, streamlining your"
+    publishedDateTime: 2020-09-30T11:00:21Z
+    webUrl: "https://azure.microsoft.com/blog/azure-cost-management-billing-updates-september-2020/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 81
   - title: "Azure Security Center—News and updates for August 2020"
     excerpt: "New enhancements and updates that were made to Azure Security Center in August 2020."
     publishedDateTime: 2020-09-02T21:00:05Z
