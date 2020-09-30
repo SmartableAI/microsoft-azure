@@ -1397,6 +1397,15 @@ related:
       name: Business Wire
       domain: businesswire.com
     quality: 17
+  - title: "Datadog pops 7.5% after Microsoft Azure strategic partnership"
+    excerpt: "Under the new strategic partnership, Datadog (NASDAQ:DDOG) will be available on Microsoft (NASDAQ:MSFT) Azure console as a first-class service, which means Datadog setup will be automatic.The integration works for Azure customer applications whether they're entirely on Azure or spread across hybrid or multi-cloud environments."
+    publishedDateTime: 2020-09-30T15:25:00Z
+    webUrl: "https://seekingalpha.com/news/3618476-datadog-pops-7_5-after-microsoft-azure-strategic-partnership"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 17
   - title: "Cobalt Iron Makes DCIG List of TOP 5 Microsoft Azure Cloud Backup Solutions"
     excerpt: "Cobalt Iron Inc., a leading provider of SaaS-based enterprise data protection, today announced that its industry-leading Compass® enterprise SaaS back"
     publishedDateTime: 2020-09-25T06:49:00Z

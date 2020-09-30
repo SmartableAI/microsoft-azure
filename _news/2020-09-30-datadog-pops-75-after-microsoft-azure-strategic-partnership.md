@@ -1,27 +1,21 @@
 ---
 category: news
-title: "Microsoft Azure launches medical data-mining tool"
-excerpt: "Microsoft announced July 8 a new artificial intelligence tool for its cloud platform Azure that allows developers to analyze unstructured medical data, including clinical notes, clinical trial protocols and medical publications."
-publishedDateTime: 2020-07-08T15:00:00Z
-webUrl: "https://www.beckershospitalreview.com/data-analytics/microsoft-azure-launches-medical-data-mining-tool.html"
+title: "Datadog pops 7.5% after Microsoft Azure strategic partnership"
+excerpt: "Under the new strategic partnership, Datadog (NASDAQ:DDOG) will be available on Microsoft (NASDAQ:MSFT) Azure console as a first-class service, which means Datadog setup will be automatic.The integration works for Azure customer applications whether they're entirely on Azure or spread across hybrid or multi-cloud environments."
+publishedDateTime: 2020-09-30T15:25:00Z
+originalUrl: "https://seekingalpha.com/news/3618476-datadog-pops-7_5-after-microsoft-azure-strategic-partnership"
+webUrl: "https://seekingalpha.com/news/3618476-datadog-pops-7_5-after-microsoft-azure-strategic-partnership"
 type: article
-quality: 37
+quality: 17
 heat: -1
 published: false
 
 provider:
-  name: Becker's Hospital Review
-  domain: beckershospitalreview.com
+  name: Seeking Alpha
+  domain: seekingalpha.com
 
 topics:
   - Azure
-
-images:
-  - url: "https://www.beckershospitalreview.com/images/channels/data-analytics/2.jpg"
-    width: 400
-    height: 300
-    isCached: true
-    title: "Microsoft Azure launches medical data-mining tool"
 
 related:
   - title: "Microsoft launches Azure Orbital to connect satellites to its cloud"
@@ -816,6 +810,20 @@ related:
         width: 300
         height: 300
         isCached: true
+  - title: "Microsoft Azure launches medical data-mining tool"
+    excerpt: "Microsoft announced July 8 a new artificial intelligence tool for its cloud platform Azure that allows developers to analyze unstructured medical data, including clinical notes, clinical trial protocols and medical publications."
+    publishedDateTime: 2020-07-08T15:00:00Z
+    webUrl: "https://www.beckershospitalreview.com/data-analytics/microsoft-azure-launches-medical-data-mining-tool.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 37
+    images:
+      - url: "https://www.beckershospitalreview.com/images/channels/data-analytics/2.jpg"
+        width: 400
+        height: 300
+        isCached: true
   - title: "Tamr Data Mastering Platform Now Available on Microsoft Azure"
     excerpt: "PRNewswire/ -- Tamr, Inc., the provider of cloud-native data mastering solutions, today announced its cloud-native capabilities on Microsoft"
     publishedDateTime: 2020-09-19T03:40:00Z
@@ -1397,15 +1405,6 @@ related:
       name: Business Wire
       domain: businesswire.com
     quality: 17
-  - title: "Datadog pops 7.5% after Microsoft Azure strategic partnership"
-    excerpt: "Under the new strategic partnership, Datadog (NASDAQ:DDOG) will be available on Microsoft (NASDAQ:MSFT) Azure console as a first-class service, which means Datadog setup will be automatic.The integration works for Azure customer applications whether they're entirely on Azure or spread across hybrid or multi-cloud environments."
-    publishedDateTime: 2020-09-30T15:25:00Z
-    webUrl: "https://seekingalpha.com/news/3618476-datadog-pops-7_5-after-microsoft-azure-strategic-partnership"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 17
   - title: "Cobalt Iron Makes DCIG List of TOP 5 Microsoft Azure Cloud Backup Solutions"
     excerpt: "Cobalt Iron Inc., a leading provider of SaaS-based enterprise data protection, today announced that its industry-leading Compass® enterprise SaaS back"
     publishedDateTime: 2020-09-25T06:49:00Z
@@ -1439,6 +1438,6 @@ related:
         height: 450
         isCached: true
 
-secured: "hn6ZfwEtlf4U8zgAGHuBmPNWrETbvDgQlHR7uyuzxYeGP5EOKyon6C8x6PKLgFu90zxo7rir1exVzBXbcFwrYGATxtSp1vbgG801W3QThELWG9zCaASaJ74C2l92bBvTuHe2kl6hLwJyO2TKrgOjqb1Ip8DKB+GJ8bxnjkMHEqyL3mx/bl3u1UaXBwRiMXG33obEkR3ElarAt53na+nkWXiO7UaUVtgZ2NC+EtBEtJNiQOkLIMZB0NDFRXTpmTFvStu7rJkYoi1fcLugzpFVkesinwPxx9oieWsM2nR34gVOj3u9JzofMI7vMvwgcv6nKABYW8TSq/jGWCFOxzDhaWOqEMk9VxAi28ekIuurYDQRN3+bDyPS+0AZfnLbgop3tvsju1q8g2VbGkEmpPLg7Y0qcUixg+mQ7h6HytBCkhmD/j7E00SVcLDVWF2cFidBCXLjZL/Axa6mv1oAa3MFpeJifZMr5AFcqN1bGntkE8JWjdTHTb+G2cECgs5hyGjZwdU4zQaBkzgtOC9Al4+9rg==;FXU5I7C5KfueuCIJLO6EpQ=="
+secured: "sDcF0rKBnWv2vr7veassWsFBnq7j9ZAtQlNm+6dES7cPgk4Mr+m5fK1fT8R7VFZsGASqmlaJkkn22C2Z5JRlkOc4PmewtuuD3vg1ulj9hDP3gOP8YKCN6KRB58wGLtha6n84t5K3pLntIVZ9fFoDqgOXnQpbRn+YX8rBwSRzCiLH47iQK+UGQgJiqvLmhLIGA0Gq8Uoe5N6r5mFcWe7BsKQMXiPOdmUtVJAlyyXfElWUVMYo2/Ykm6DOxZnXzJnXuQtKM2NQs5npRz7AZ2yKlxBYFcEmkbFf/3t4j/dzGtwan2yqvuYzjQcLa8gxuJYj0H2OO+3pOZ1ALpjKvTmU75+yWbhnTiHdJOr5PMhAAHI=;ve8CD9nvbsbi5jT+7MHO/w=="
 ---
 

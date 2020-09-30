@@ -1405,6 +1405,15 @@ related:
       name: Business Wire
       domain: businesswire.com
     quality: 17
+  - title: "Datadog pops 7.5% after Microsoft Azure strategic partnership"
+    excerpt: "Under the new strategic partnership, Datadog (NASDAQ:DDOG) will be available on Microsoft (NASDAQ:MSFT) Azure console as a first-class service, which means Datadog setup will be automatic.The integration works for Azure customer applications whether they're entirely on Azure or spread across hybrid or multi-cloud environments."
+    publishedDateTime: 2020-09-30T15:25:00Z
+    webUrl: "https://seekingalpha.com/news/3618476-datadog-pops-7_5-after-microsoft-azure-strategic-partnership"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 17
   - title: "Viasat integrates its ground service solution with Microsoft's Azure Orbital"
     excerpt: "Viasat (VSAT -1.1%) enters Microsoft's Azure Orbital ecosystem with its Real-Time Earth (RTE) solutions available as a managed services option to orbital end-users.Viasat's RTE network provides Ground-Station-as-a-Service ((GSaaS)) to the commercial and government earth observation and remote sensing communities on pay-per-use basis."
     publishedDateTime: 2020-09-22T19:28:00Z
