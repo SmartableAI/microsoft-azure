@@ -8,7 +8,7 @@ length: PT1H4M
 ratings:
   count: 254
   average: 4.7519684
-heat: 50
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -30,6 +30,6 @@ images:
     height: 400
     isCached: true
 
-secured: "YbmBs1RhR34y63zB99esy6XhoPc01Vh+wqT7+BNrYlQhppEgRjYEQIFB+prbOG7KB8IdENzIqA/MQtJgnhi4us53rBqgnCy8lqrafrnJrzAP3zraupRlawmJhPH0vsK+zf89pxJ+v0TAmCd7OjtsLaAPZRB5QuNeyDbdu1EbIoCozsFM6958Of5UFNvm531gFpZNrvxSmf5GuNfSmFR5m0pWRr69ih/QmhJauyRFHFKaqIrSF45lBqcXXrMBXJM5xigl48VsERkppbbIKMCZudxsJg+Cptn0wvzdukOYwLlL05jNiX5MEpexBRySQTRcQwAppASUgIWtpF1tbFD3tbHiYBmwmvR0TpTnbXojPC2yryMn9pu6LKZJrJ9BZvPJkHOwr28cTpRDS2LxxFaMpA5gfZSqM3C1AkaOCp26iHs=;YnLG6NMM3fXJgWuN+d31VA=="
+secured: "smaWU9bEqr2DdzGKM2mv8ly62bQAZEJi4OdVSNTpzy/t9bS7trv5mKlWeYzc25M3aL42gZQeQqYVklUgpd+saw+mkQjjPTHtSzXFXF33jPriGrFKhtTuFaitmgSEI6K38qUu+f1hnXwgaQadxILmnDtqcMyqeHgXZOqLQbFhF2nv9g/MuEDD/Gyb/2LRJU/44J5BopjzColc1U+8KH+pfj8FUgihmZkk0tQ8GGZ6bGybGkw07qxAf0tEHUlAZHJD5duj4hcv+z5hyTl4UKEZIMN+mg7bG1gqkEvz9EXA++DUbB7exsLeL2zbkf4Rrb22v8+tfTu9NR7UO2xbO+sOhaJtaaE6MmADUKVzUEFcxqlt73yQ84A8CxuPdio5/IpOBSlfIHGMHe7JawDjQ1w/yPo4Iee9a3GGAG+w7eBqfdE=;8IwiFoL7dO6tAtkp9PNAmQ=="
 ---
 

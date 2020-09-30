@@ -6,9 +6,9 @@ type: course
 price: Free
 length: PT22M
 ratings:
-  count: 570
-  average: 4.6807017
-heat: 57
+  count: 571
+  average: 4.681261
+heat: 58
 
 provider:
   name: Microsoft Learn
@@ -26,6 +26,6 @@ topics:
   - Security
   - DevOps
 
-secured: "3tpWtuKo2PprD8xDkQof/fqST4EVGJcEidaiU4MOC5lG5wudr3WFJ66rKyd1TzvYkSG5VftlrP5o3/M7GPN5FVx6ZnOXH1Y4JzXjULxtVQDdglhJY/Ad7ab5JzqdZfxaLpK/TB6JPPyzgVZwnzLXF8yu8fnBAaomydmXj2MIc/AE4eOxDXBdbKGgwF8Jil7GRhNDKYkLCGuEn8b6kUgvzpPOv7h40wM4aHCBtC19PLcImwAuwqjTsYEE7llq/cLQ+0fYF2mh5Sig3SAQY8/cw4ABEfg8oA9B74KwzPo1Wy3JdGrCN9ZcPiV/vvWisHJogFl7E2QPEaBPsv7lra+h4Ufb+kMFNYZq+Kv5YQuPOjMFX4vgunZoH3UCCU4ljIoFftIZSXzkLP3DTNMtbHqNkj8ZpMiDxuB2/9QcWd0GST4=;X79HHyUWgtVa6wDI2CJj/w=="
+secured: "MGQ0p5yqBwpV+9q5BXoUcxIktA2cv209nPhQJavm3cmU5PpzgHNYqXnL7hYkN1hhfdxIgjR4IBVhSFDI4lZvlSeGlygr1BiaPgW9V/gCAM/kyG993ISb/epK06S4dROWGxDpZuuP0H3zWSp5DJ66yUDHToHWUXFNWuxr+CQpm1thZ5+Krk44pu8BVY8ZBWCDBKffgfXanCb9wNm05MX6OeAmKxC49nzozn1BZNbAmNmmNq2ae2V2lEIVLD4X2p45QA7se378zpbjBxZ8rPg/RcOkxsNyABSW0A2LH04Fj3uwJDrpU6mWqdMC8+BQ4fypSZVn9GQyVjKulLUAOr7lLR4dvHWGx/rYVawLqfyZTW1WFD4MhQWY1BWgA2+NHezO//eLbYP6JvmkqIRdoKmUgTUivoyDt2ha0GXXx2GtudM=;8Z+EaJDQyx0y2HB1eBoOKA=="
 ---
 

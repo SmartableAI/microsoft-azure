@@ -4,7 +4,7 @@ excerpt: "Conversational AI revolves around user interactions, in this case thro
 type: collection
 price: Free
 length: PT1H56M
-heat: 51
+heat: 50
 
 provider:
   name: Microsoft Learn
