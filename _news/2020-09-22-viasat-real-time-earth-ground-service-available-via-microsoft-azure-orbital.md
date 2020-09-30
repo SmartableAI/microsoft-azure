@@ -1,26 +1,31 @@
 ---
 category: news
-title: "dotData Now Supports Microsoft Azure Deployment and Is Available on Microsoft Azure Marketplace"
-excerpt: "Sept. 22, 2020 /PRNewswire/ -- dotData, focused on delivering full-cycle data science automation and operationalization for the enterprise, today announced that dotData Enterprise is now commercially available on Microsoft Azure and accessible through the ..."
-publishedDateTime: 2020-09-22T12:09:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/dotdata-now-supports-microsoft-azure-deployment-and-is-available-on-microsoft-azure-marketplace-301135412.html"
-webUrl: "https://www.prnewswire.com/news-releases/dotdata-now-supports-microsoft-azure-deployment-and-is-available-on-microsoft-azure-marketplace-301135412.html"
+title: "Viasat Real-Time Earth Ground Service Available via Microsoft Azure Orbital"
+excerpt: "22, 2020 /PRNewswire/ -- Viasat Inc. (NASDAQ: VSAT), a global communications company, today announced Viasat Real-Time Earth (RTE) is available as a managed services option for Microsoft Azure ..."
+publishedDateTime: 2020-09-22T15:06:00Z
+originalUrl: "https://www.marketwatch.com/press-release/viasat-real-time-earth-ground-service-available-via-microsoft-azure-orbital-2020-09-22"
+webUrl: "https://www.marketwatch.com/press-release/viasat-real-time-earth-ground-service-available-via-microsoft-azure-orbital-2020-09-22"
 type: article
-quality: 25
+quality: 92
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
+  - Networking
 
 images:
-  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-    width: 600
-    height: 315
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -167,20 +172,6 @@ related:
       - url: "https://cdn.neow.in/news/images/uploaded/2020/09/1600721129_azure_at_ignite_2020_(2)_story.jpg"
         width: 760
         height: 428
-        isCached: true
-  - title: "Viasat Real-Time Earth Ground Service Available via Microsoft Azure Orbital"
-    excerpt: "22, 2020 /PRNewswire/ -- Viasat Inc. (NASDAQ: VSAT), a global communications company, today announced Viasat Real-Time Earth (RTE) is available as a managed services option for Microsoft Azure ..."
-    publishedDateTime: 2020-09-22T15:06:00Z
-    webUrl: "https://www.marketwatch.com/press-release/viasat-real-time-earth-ground-service-available-via-microsoft-azure-orbital-2020-09-22"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 92
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Microsoft Guns for Twilio's Business With Launch of Azure Communication Services"
     excerpt: "Microsoft (NASDAQ:MSFT) is continuously upping its game in the public cloud arena, and recently announced the availability of Azure Communications Services. The new product is a library of APIs (an API is an application programming interface,"
@@ -1163,6 +1154,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "dotData Now Supports Microsoft Azure Deployment and Is Available on Microsoft Azure Marketplace"
+    excerpt: "Sept. 22, 2020 /PRNewswire/ -- dotData, focused on delivering full-cycle data science automation and operationalization for the enterprise, today announced that dotData Enterprise is now commercially available on Microsoft Azure and accessible through the ..."
+    publishedDateTime: 2020-09-22T12:09:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/dotdata-now-supports-microsoft-azure-deployment-and-is-available-on-microsoft-azure-marketplace-301135412.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 25
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
+        isCached: true
   - title: "Jumio to Enable Biometric-Based Identity Proofing Services for Microsoft Azure Active Directory"
     excerpt: "Jumio, a leading provider of AI-powered end-to-end identity verification and authentication solutions, today announced that its AI-powered identity ve"
     publishedDateTime: 2020-09-22T22:05:00Z
@@ -1416,6 +1421,6 @@ related:
         height: 450
         isCached: true
 
-secured: "qPRGZ9ix32t6L/doYC6bAc1ezZxZ9IUNKUIk+TcSgB127l55lxTGhoZ+u+zg2vHGzho9UlpwSOt+/pgVT4/qpcKPLLXX8H6FJC3JcRoI7wDzzmdeqLmmIt4SCwBq6bZ1Xnkd81OmEXLDnjDAHSi5Dhv3oaw6ifmIjkPeH3ILupKxyEsK4RcvKbblSBWzo+M9eJjFGBjKb2yqKJ87QAJeH7ZvWia3BCg68LCZwQWzwReyxeKXEr7b/NX2DKGJJncT7z7BrYqF36nNsWYqpV42MS79W5CFaPD1/HxbzObFDRdiJuy4ymT6ih/qvC4IvH3JyBXUzqTzsWD03OqmMheB0ruhMAIk7Ru9HprrE/xKKo8=;ie4sr5ZsQLxH71HzXLmm6w=="
+secured: "rgjWtmzOt4zEQhXFHml515Iz1mHQnmMI9RH0cEM6a2K9tsZV7qCSp/QaTVLTCC4T0R0C7NtETlkbIFwA0G4NcUus+e8Y8alE9JSfAnmThv0l4BhwN9aKkm0vw3MaDrRV0d3gneEv2TQ3jDWWjNEmkSuI6hGLmp9m9CmWu2gww1ZVjxjSjem0x5Fv4S6uovcMMKdJwMWrJSyDYl+VEywElFMy+GcgHc1ltOalGcMi7fGynVRVd1CVYIa4jpTonqlAFb+KN0RabNln3rel2pBKHicygcD6TorBsJpikP2Mp9aiKyv4OTSyUvBp63eraJCOhuq05lLnxozbFLvpQjCaODtxTy8wflm0WMrPYOHvats=;xBfdeOlvRahISFCQmQV6tA=="
 ---
 
