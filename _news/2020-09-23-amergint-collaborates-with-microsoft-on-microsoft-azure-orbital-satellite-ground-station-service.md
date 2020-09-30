@@ -2,26 +2,26 @@
 category: news
 title: "AMERGINT Collaborates with Microsoft on Microsoft Azure Orbital Satellite Ground Station Service"
 excerpt: "AMERGINT Technologies announced it is working with Microsoft on their new Microsoft Azure Orbital, a new cloud service for connecting users to their satellites. AMERGINT is supporting Azure ..."
-publishedDateTime: 2020-09-23T15:06:00Z
-originalUrl: "https://www.thedailytimes.com/business/amergint-collaborates-with-microsoft-on-microsoft-azure-orbital-satellite-ground-station-service/article_8211da01-8318-568a-982c-871d6d021f89.html"
-webUrl: "https://www.thedailytimes.com/business/amergint-collaborates-with-microsoft-on-microsoft-azure-orbital-satellite-ground-station-service/article_8211da01-8318-568a-982c-871d6d021f89.html"
+publishedDateTime: 2020-09-23T14:31:00Z
+originalUrl: "https://www.oaoa.com/news/business/amergint-collaborates-with-microsoft-on-microsoft-azure-orbital-satellite-ground-station-service/article_6c0fd2cf-a14e-5b5d-8f10-dbace5306d19.html"
+webUrl: "https://www.oaoa.com/news/business/amergint-collaborates-with-microsoft-on-microsoft-azure-orbital-satellite-ground-station-service/article_6c0fd2cf-a14e-5b5d-8f10-dbace5306d19.html"
 type: article
 quality: 41
 heat: -1
 published: false
 
 provider:
-  name: thedailytimes.com
-  domain: thedailytimes.com
+  name: Odessa American
+  domain: oaoa.com
 
 topics:
   - Azure
   - Networking
 
 images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/thedailytimes.com/content/tncms/custom/image/4c01e2ce-7067-11e6-87cd-0725ce0cc960.jpg?resize=600%2C600"
-    width: 600
-    height: 600
+  - url: "https://www.valleymorningstar.com/wp-content/uploads/sites/63/2020/07/GET-IT-NOW-BUTTON.png"
+    width: 576
+    height: 288
     isCached: true
 
 related:
@@ -56,6 +56,22 @@ related:
       - url: "https://cdn.geekwire.com/wp-content/uploads/2020/09/200922-svalbard-630x321.jpg"
         width: 630
         height: 321
+        isCached: true
+  - title: "Microsoft unveils Azure Orbital, competing with Amazon to connect satellites to the cloud"
+    excerpt: "Microsoft will offer a new service called Azure Orbital that connects satellites directly to its cloud computing network. The service will begin in a \"private preview\" for a select group of Microsoft customers. Satellite companies Amergint, Kratos ..."
+    publishedDateTime: 2020-09-22T15:06:00Z
+    webUrl: "https://www.cnbc.com/2020/09/22/microsoft-azure-orbital-satellite-service-to-compete-with-amazon-aws-.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2020/09/22/microsoft-azure-orbital-satellite-service-to-compete-with-amazon-aws-.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/09/22/microsoft-azure-orbital-satellite-service-to-compete-with-amazon-aws-.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 105
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106208340-1572296956035gettyimages-697919724.jpeg?v=1572296980"
+        width: 3000
+        height: 2000
         isCached: true
   - title: "Microsoft Azure launches new availability zones in Canada and Australia"
     excerpt: "Microsoft Azure offers developers access to more data center regions than its competitors, but it was late to the game of offering different availability zones in those regions for high-availability use cases."
@@ -214,22 +230,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2019/11/microsoft-1-e1580261336710.jpg?w=1200&#038;strip=all"
         width: 1200
         height: 573
-        isCached: true
-  - title: "Microsoft unveils Azure Orbital, competing with Amazon to connect satellites to the cloud"
-    excerpt: "Microsoft will offer a new service called Azure Orbital that connects satellites directly to its cloud computing network. The service will begin in a \"private preview\" for a select group of Microsoft customers. Satellite companies Amergint, Kratos ..."
-    publishedDateTime: 2020-09-22T15:06:00Z
-    webUrl: "https://www.cnbc.com/2020/09/22/microsoft-azure-orbital-satellite-service-to-compete-with-amazon-aws-.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2020/09/22/microsoft-azure-orbital-satellite-service-to-compete-with-amazon-aws-.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/09/22/microsoft-azure-orbital-satellite-service-to-compete-with-amazon-aws-.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 88
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106208340-1572296956035gettyimages-697919724.jpeg?v=1572296980"
-        width: 3000
-        height: 2000
         isCached: true
   - title: "Introducing Azure Orbital: Process satellite data at cloud-scale"
     excerpt: "Data collected from space to observe Earth is instrumental in helping address global challenges such as climate change and furthering of scientific discovery and innovation."
@@ -1465,6 +1465,6 @@ related:
         height: 450
         isCached: true
 
-secured: "VlINUxUA0Mgi404Fzw3mxaeVkX6UZ0ErGiIr2qhondz93G23UckqnzuaskQ3swEgB8vlUMZYRXHlTtjss8HNvP9haEBQI9bXvRko+K6l+zVJ4u3Ou6xjQBqfAv1XEVKITKosG8K9FXWlvLb4i/hxucJNsROcQevKIzN8n+g5pPkBCS+XzsbXoDxBm6YlZwMcWB1PV+m+C/AZwNkawfQ20IkEURd5vPLcFrGsJx1mO5OeMDQ94ajEedx2FK302Y7bWeEfh4GD2V/Y6p2bcCfAJoRmLWgIqp3YT+QJCRJpdqGuacoKWvR5H6zRFNuGPFWaK1SK0D57Qt3+jeOzniOr/b4F+VGLF9CcgjXMW5O2Yx8=;8aGfAD20fCPqjnV4bSB3IQ=="
+secured: "LoUV5+ZXndqSB8PvpZ1wUEwHPNlFg1EZu5U8DnS+6ZXX/TLVqLmyVqYglupBbrDFovjeYvfvSgSVmTeEM6VguVrEQFlqcebgUme6iYSjV12W6MPlLhJz9q0OFBXISxVnwI+PQs+KBZBEGfH1hexgqXcWqxMgdA2oLgif0KXAP2g6dGwUEk28TvPaf45S/NELdRgGCk+hy8L+ktlHcosQujkcUaiRd4Y2vySsJWIP1prbMFbkTJ0igrKCqkw7SjBB33sRMDeLLfPXn1NM9XHBWYAuWpD9RRrhI1VHWP7ZvUWH22Mjw5oLEKIda3sTc54Ticx6LPOTwTrYY+is7G84iEeY1vA1NXcM6xHM7DjGCWo=;z7LEF5iuBbBr4wRR/kJOXg=="
 ---
 
