@@ -22,33 +22,29 @@ topics:
   - Azure
 
 related:
-  - title: "High throughput output from Stream Analytics to Azure Synapse Analytics (General Availability)"
-    excerpt: "With a brand new output connector to Synapse SQL Pools, Stream Analytics can now support throughput rates even higher than 200MB/sec while ensuring ultra-low latencies. "
-    publishedDateTime: 2020-09-22T16:05:37Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/high-throughput-output-from-stream-analytics-to-azure-synapse-analytics-general-availability/"
+  - title: "General availability of Azure Maps support for Azure Active Directory, Power Apps integration, and more"
+    excerpt: "New and recent updates for Microsoft Azure Maps include support for Azure Maps integration with Azure Active Directory, integration with the Microsoft Power Apps platform, Search and Routing services enhancements, new Weather services REST APIs (in preview), and expanded coverage for Mobility services."
+    publishedDateTime: 2020-09-30T09:00:19Z
+    webUrl: "https://azure.microsoft.com/blog/general-availability-of-azure-maps-support-for-azure-active-directory-power-apps-integration-and-more/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 87
-  - title: "Azure Cognitive Services general availability updates "
-    excerpt: "General availability updates in Azure Cognitive Services Decision, Speech, and containers categories. "
-    publishedDateTime: 2020-09-22T16:05:30Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-cognitive-services-general-availability-updates/"
+    quality: 111
+    images:
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/06888534-da24-4586-a6f6-2afdce699a61.png"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "General availability: Azure Availability Zones in more regions"
+    excerpt: "Azure Availability Zones are now generally available in Australia East and Canada Central."
+    publishedDateTime: 2020-09-30T16:01:12Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azure-availability-zones-in-australia-east/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
     quality: 67
-  - title: "High throughput output from Stream Analytics to Azure Synapse Analytics (preview)"
-    excerpt: ""
-    publishedDateTime: 2020-05-19T17:00:14Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/high-throughput-output-to-azure-synapse-analytics-from-stream-analytics-preview/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 12
 
 secured: "Lbhi0o3rgOmaYogEf/BFGMOVH01cBT7XJ6+TLjA+GmG+PvCelUfUbZZEhEBanCrdYjJ2HXNjP3/9zRJhZ4ZkiAoaATXXh87kZ8feHQAeQTovj2n+3ZadmF9LhL8zfAEuqnvHhy2I6sh5+CNpkeWIq2r09WtPjWAu0n62ZJ7HxrL7ghWsQwwj+wTLIc2Tem4xKVkFVigX/0KrRI6FAK/h5+JNPceZiukGSG4gwU5UfjBxJ9NUXUZNSItRbkquo+axsdcsIHl6Wid/QOzyOtiD+pZFkP0Uudm/b/1ViUIrar7Vx282FheHRRCefFDuVOR8ciNSZqILU3bXYuQsbEOZN3YJV7zUa0M3cttKX2h8naY=;UjZ6sXajxAwxXynn9TNEDA=="
 ---

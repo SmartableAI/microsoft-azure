@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/computer-vision-read-31-
 webUrl: "https://azure.microsoft.com/en-us/updates/computer-vision-read-31-public-preview-adds-simplified-chinese-ocr/"
 type: article
 quality: 48
-heat: -1
+heat: 48
 published: false
 
 provider:
@@ -20,17 +20,6 @@ provider:
 
 topics:
   - Azure
-
-related:
-  - title: "Azure Cognitive Services Translator Text— New languages now available"
-    excerpt: "Translator Text now supports the Odia, Dari, Pashto, Central Kurdish and Northern Kurdish languages."
-    publishedDateTime: 2020-08-20T16:00:05Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-cognitive-services-translator-text-odia-dari-pashto-central-kurdish-and-northern-kurdish-now-available/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 67
 
 secured: "fZSvrmQ7UHwX2lgxcNY6gsxVhMnAiw/lp2ZRB9wnvCvQ8HA2L2tBAaz9jGBycTzPkcdD3Ks61ENJgiaaj8e/TSvZ7BH4JKRRSeuVDByC3lFluvHhuYmLiN3I4C71dFWznQFKwSwEuCt7c1NHxlLb42R/+oDlNC77KqB0JIP/g6pTd6zLFcD2aJJAHESIskQZBg8sJ9+TK/Oyoa1BYDKA3bNuCKPc7Ivx/6Vy6nOrdaJdwvzTkPUmlaNRGCg7RXDh0swMekBZcXUL5KKpF41hED13zX5ACzAuyy2DhShMwOxj4k5BRl2SOhpghf4k+CwYD1N9fPItjnErgSf8xinHkg==;AB8ijF3PGRXHPiDfDZkU/Q=="
 ---

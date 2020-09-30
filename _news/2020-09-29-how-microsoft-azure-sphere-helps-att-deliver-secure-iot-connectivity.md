@@ -131,6 +131,15 @@ related:
         width: 980
         height: 597
         isCached: true
+  - title: "Authenticate Azure Stream Analytics to Azure Synapse Analytics using managed identities (preview)"
+    excerpt: "To support Azure customers' need for a more secure streaming data pipelines, Azure Stream Analytics now supports managed identity authentication with SQL pool tables Azure Synapse Analytics."
+    publishedDateTime: 2020-09-30T17:00:20Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/authenticate-azure-stream-analytics-to-azure-synapse-analytics-using-managed-identities-preview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 86
   - title: "A closer look at Microsoft Azure Arc"
     excerpt: "The promise of Azure Arc is providing the simplicity of the cloud control plane inside the data center. A year after announcement with the core platform now going GA, we thought it would be a good time for a deeper dive to see how Azure Arc actually works."
     publishedDateTime: 2020-09-25T12:00:00Z

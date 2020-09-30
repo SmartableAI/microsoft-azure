@@ -44,6 +44,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 101
+  - title: "New features for Windows Server containers in Azure Kubernetes Service"
+    excerpt: "Learn about new Windows Server container related capabilities in AKS"
+    publishedDateTime: 2020-09-30T16:01:34Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/new-features-for-windows-server-containers-in-aks/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 99
   - title: "Burst 4K encoding on Azure Kubernetes Service"
     excerpt: "Burst encoding in the cloud with Azure and Media Excel HERO platform.\r\n\r\nContent creation has never been as in demand as it is today. Both professional and user-generated content has increased exponentially over the past years. This puts a lot of stress on media encoding and transcoding platforms. Add"
     publishedDateTime: 2020-02-24T11:00:15Z

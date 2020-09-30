@@ -48,6 +48,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 99
+  - title: "Long term retention for Azure Database for PostgreSQL-Single Server"
+    excerpt: "Preview of long-term retention of data for Azure Database for PostgreSQL-Single Server is now available."
+    publishedDateTime: 2020-09-30T16:01:35Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/long-term-retention-for-azure-database-for-postgresql-single-server/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 99
   - title: "Azure Private Link for Azure Database for PostgreSQL now in Azure government regions"
     excerpt: ""
     publishedDateTime: 2020-05-04T18:00:05Z

@@ -30,6 +30,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 84
+  - title: "Shared disks on Azure Disk Storage is now available in broader set of regions"
+    excerpt: "Shared disks is available for Premium SSDs in all regions and available for Ultra Disks in all regions that support Ultra Disks."
+    publishedDateTime: 2020-09-30T16:00:19Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/shared-disks-on-azure-disk-storage-is-now-available-in-broader-set-of-regions/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 81
   - title: "The new Azure VMware Solution is now generally available"
     excerpt: "Last week, during Microsoft Ignite we announced the general availability of the new Azure VMware Solution. Designed, built, and supported by Microsoft, Cloud Verified by VMware, running VMware Cloud Foundation technologies, Azure VMware Solution enables customers to extend or migrate VMware workloads"
     publishedDateTime: 2020-09-29T08:00:03Z
@@ -66,6 +75,33 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
+  - title: "Azure Ultra Disk is now available in more regions "
+    excerpt: "Azure Ultra Disk is now available in Australia Central, India Central, Korea Central and US Gov Texas. "
+    publishedDateTime: 2020-09-30T16:00:42Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-ultra-disk-is-now-available-in-more-regions/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
+  - title: "New performance recommendations now available in Azure Advisor"
+    excerpt: "Review new Azure Advisor recommendations to help you achieve better performance."
+    publishedDateTime: 2020-09-30T16:00:56Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/new-performance-recommendations-now-available-in-azure-advisor/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
+  - title: "New recommendations for operational excellence are now available in Azure Advisor"
+    excerpt: "Review new Azure Advisor recommendations to help you improve your cloud operations."
+    publishedDateTime: 2020-09-30T16:00:49Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/new-recommendations-for-operational-excellence-are-now-available-in-azure-advisor/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 62
 
 secured: "WqiR+Um643/az0rt79Usq0kCgPGZKHOD6qrV7CjIp3rcWMMSOuwnqPdaPh5l7K86Njc2kbg1BW72gzWV/vNlJ0IzPQYozR0LbvamXjVb4xVW3XVF6Teinkk+D5mpWoniApPbGQ6U0/+Eiohrtrvuk2Zja8cy4XDLFHOWXZWG429KilJeYFh2F4FKPM1l28sz8MS6oG6iy0d6wTkORitnzNOY94aIVYZ7A/jbY8Mt5pEkyPo7kWYHV/MXB+wIcJA9QL6OcjKz/SoDyYve0H4quKM3gh7FjOTkDoK6pskMc80DxToNjL+T/8l98H7VRWeouL7PRwF5AnuIDAXRTINcpg==;U341ayGlpByUxWPH/T9+ew=="
 ---

@@ -55,6 +55,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 101
+  - title: "New features for Windows Server containers in Azure Kubernetes Service"
+    excerpt: "Learn about new Windows Server container related capabilities in AKS"
+    publishedDateTime: 2020-09-30T16:01:34Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/new-features-for-windows-server-containers-in-aks/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 99
   - title: "Build resilient applications with Kubernetes on Azure"
     excerpt: "Today, we're excited to tell you about even more capabilities that can help you along on your cloud native journey to Kubernetes on Azure."
     publishedDateTime: 2020-08-17T02:00:30Z

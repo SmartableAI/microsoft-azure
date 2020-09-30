@@ -7,8 +7,8 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/asc-august2020/"
 webUrl: "https://azure.microsoft.com/en-us/updates/asc-august2020/"
 type: article
 quality: 67
-heat: 107
-published: true
+heat: -1
+published: false
 
 provider:
   name: Microsoft
@@ -22,6 +22,24 @@ topics:
   - Azure
 
 related:
+  - title: "Azure Security Center—News and updates for September 2020"
+    excerpt: "New enhancements and updates that were made to Azure Security Center in September 2020."
+    publishedDateTime: 2020-09-30T17:05:03Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/asc-september2020/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 99
+  - title: "Azure API Management updates- September 2020"
+    excerpt: "Regular Azure API Management service updates including new features, bug fixes, changes and other improvements."
+    publishedDateTime: 2020-09-17T16:00:10Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-api-management-updates-september-2020/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
   - title: "Azure Security Center—News and updates for May 2020"
     excerpt: ""
     publishedDateTime: 2020-05-18T00:00:51Z

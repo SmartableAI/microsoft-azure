@@ -7,8 +7,8 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/debug-api-management-pol
 webUrl: "https://azure.microsoft.com/en-us/updates/debug-api-management-policies/"
 type: article
 quality: 69
-heat: 89
-published: true
+heat: 69
+published: false
 
 provider:
   name: Microsoft
@@ -21,17 +21,6 @@ provider:
 topics:
   - Azure
   - Integration
-
-related:
-  - title: "Azure API Management updates- September 2020"
-    excerpt: "Regular Azure API Management service updates including new features, bug fixes, changes and other improvements."
-    publishedDateTime: 2020-09-17T16:00:10Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-api-management-updates-september-2020/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 67
 
 secured: "9gdPZUpj09N43PG8W41TZOT+Iy2yjYB9hWKEDXhsWcKQUVGHFI8VkR+gxL0W3LKpJ5PoZC7zuUng2VBLm7rJFJKPpwGvC4WV0xGxqxHCbiCTppKBmYwC+1OIwbCsGrWz7ST/OI0AItq5WNAVoM0NYSAXllvK50Rgf6cVvxLLUtxExJdftJ6ZH+6MJi1B3eBBO59HP7v6Jw+WkphzeWykUv0w4WWNXxlcguxPebQqnEuNwWvkP91SCVblabDXdMz565Hj9llzJGFUIhwNYZYdeDwSXBTxD+Zvq0QRPxBheZvTFa2uNTxjVfz3dsytMgqdmv2FgRcGZ2r2OC+Imah1vgeNgvgCGe7L0o2XHu8t7sk=;3quoO8btAskx9WIuS2xMlg=="
 ---

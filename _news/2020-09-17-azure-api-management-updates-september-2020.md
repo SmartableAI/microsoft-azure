@@ -22,15 +22,42 @@ topics:
   - Azure
 
 related:
-  - title: "Debug API Management policies in real time"
-    excerpt: "Debug API Management policies with the Visual Studio Code extension for Azure API Management"
-    publishedDateTime: 2020-09-22T18:00:00Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/debug-api-management-policies/"
+  - title: "Azure Security Center—News and updates for September 2020"
+    excerpt: "New enhancements and updates that were made to Azure Security Center in September 2020."
+    publishedDateTime: 2020-09-30T17:05:03Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/asc-september2020/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 69
+    quality: 99
+  - title: "Azure Security Center—News and updates for August 2020"
+    excerpt: "New enhancements and updates that were made to Azure Security Center in August 2020."
+    publishedDateTime: 2020-09-02T21:00:05Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/asc-august2020/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
+  - title: "Azure Security Center—News and updates for May 2020"
+    excerpt: ""
+    publishedDateTime: 2020-05-18T00:00:51Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/asc-may2020/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 17
+  - title: "Azure Security Center—News and updates for July 2020"
+    excerpt: "New enhancements and updates were made to Azure Security Center in July 2020."
+    publishedDateTime: 2020-08-04T16:00:33Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/asc-july2020/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 17
 
 secured: "Q3zpSmXFqJzXFXRUbXk+LMqe85x7mx/P76Xiq9QuCoT9XW9noPX+ikeZ6/dWxXp1umZxRoWnZx1KfDGuTlBz5fabUse3FdgBP7+f4JCKlDTZhw7RgvPN815pJNQgq9EZov77gpqRjJzmLynfPUf/TO2u86bu/3jUOSw9uPrcR1syYaPoyCE2UIm5pFAt8Z8Lgj+lQecReNHZXhGKZbfVaLRFBcSE5nKv50g4boDDH/WGxtUfejTWH3Y15QaarTCqvKwlk5pPf2sjNeoEkQbNhfHjh6mFEtBXKjRJfQUeTIetK29MVqG66nB1bw42a1pxTeS6cOaPyfj3cxWQ2AW1VEIl1+NPbiTjx9jl2bPessQ=;kC5bnXrjCk0A65UTKBUwVA=="
 ---

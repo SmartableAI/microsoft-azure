@@ -48,6 +48,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 99
+  - title: "Long term retention for Azure Database for PostgreSQL-Single Server"
+    excerpt: "Preview of long-term retention of data for Azure Database for PostgreSQL-Single Server is now available."
+    publishedDateTime: 2020-09-30T16:01:35Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/long-term-retention-for-azure-database-for-postgresql-single-server/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 99
   - title: "Minimal TLS version setting is now available for Azure Database for PostgreSQL"
     excerpt: ""
     publishedDateTime: 2020-06-04T17:00:39Z
