@@ -1,26 +1,26 @@
 ---
 category: news
-title: "Milliman's strategic cyber risk assessment now available in the Microsoft Azure Marketplace"
-excerpt: "16, 2020 /PRNewswire/ -- Milliman, Inc., a premier global consulting and actuarial firm, today announced that it has launched its Strategic Cyber Risk Assessment in the Microsoft Azure Marketplace ..."
-publishedDateTime: 2020-09-16T16:38:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/millimans-strategic-cyber-risk-assessment-now-available-in-the-microsoft-azure-marketplace/article_29c684b0-c449-527f-8f3f-155edb8a52a5.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/millimans-strategic-cyber-risk-assessment-now-available-in-the-microsoft-azure-marketplace/article_29c684b0-c449-527f-8f3f-155edb8a52a5.html"
+title: "Six Things To Know About the Latest Microsoft Cloud Outage"
+excerpt: "Azure Active Directory, Microsoft’s popular identity and access management service, stopped working Monday afternoon after an engineer attempted a code change, locking users across the U.S. out of the"
+publishedDateTime: 2020-09-30T00:13:00Z
+originalUrl: "https://www.crn.com/slide-shows/cloud/six-things-to-know-about-the-latest-microsoft-cloud-outage"
+webUrl: "https://www.crn.com/slide-shows/cloud/six-things-to-know-about-the-latest-microsoft-cloud-outage"
 type: article
-quality: 27
+quality: 22
 heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: CRN
+  domain: crn.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-    width: 1280
-    height: 720
+  - url: "https://www.crn.com/resources/025f-0fe383d9c3a4-64f39284f64b-1000/cloud_pic.png.png"
+    width: 366
+    height: 488
     isCached: true
 
 related:
@@ -1135,6 +1135,20 @@ related:
         width: 1254
         height: 836
         isCached: true
+  - title: "Milliman's strategic cyber risk assessment now available in the Microsoft Azure Marketplace"
+    excerpt: "16, 2020 /PRNewswire/ -- Milliman, Inc., a premier global consulting and actuarial firm, today announced that it has launched its Strategic Cyber Risk Assessment in the Microsoft Azure Marketplace ..."
+    publishedDateTime: 2020-09-16T16:38:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/millimans-strategic-cyber-risk-assessment-now-available-in-the-microsoft-azure-marketplace/article_29c684b0-c449-527f-8f3f-155edb8a52a5.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 27
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "dotData Now Supports Microsoft Azure Deployment and Is Available on Microsoft Azure Marketplace"
     excerpt: "Sept. 22, 2020 /PRNewswire/ -- dotData, focused on delivering full-cycle data science automation and operationalization for the enterprise, today announced that dotData Enterprise is now commercially available on Microsoft Azure and accessible through the ..."
     publishedDateTime: 2020-09-22T12:09:00Z
@@ -1230,20 +1244,6 @@ related:
       name: MyBroadband
       domain: mybroadband.co.za
     quality: 22
-  - title: "Six Things To Know About the Latest Microsoft Cloud Outage"
-    excerpt: "Azure Active Directory, Microsoft’s popular identity and access management service, stopped working Monday afternoon after an engineer attempted a code change, locking users across the U.S. out of the"
-    publishedDateTime: 2020-09-30T00:13:00Z
-    webUrl: "https://www.crn.com/slide-shows/cloud/six-things-to-know-about-the-latest-microsoft-cloud-outage"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 22
-    images:
-      - url: "https://www.crn.com/resources/025f-0fe383d9c3a4-64f39284f64b-1000/cloud_pic.png.png"
-        width: 366
-        height: 488
-        isCached: true
   - title: "Digital Transformation: Qatar Financial Center Regulatory Authority to Migrate Online Services to Microsoft Cloud"
     excerpt: "The Qatar Financial Center Regulatory Authority (QFCRA) recently revealed that it will be migrating its online services to the Microsoft Cloud in order to move forward with its digital transformation strategy."
     publishedDateTime: 2020-09-19T00:43:00Z
@@ -1402,6 +1402,6 @@ related:
         height: 450
         isCached: true
 
-secured: "ou5fngPkID/sdGvf4i/8EJS1lP5bhNTNpIR4cddNu5kXsitkcRRk1o5W2khqfCGgINDLI1n7iTsogtBMDv0VpxZ/Ha4yh52C7ZKKHtH1Cx4x/ca0cwda09D8Ox5xqQyitMpvr0PMyPVu94NwEXtvgy2YvJ5i3732Vfg0qQ3YeJFlcLz5nTS7CDFTGiL62actUoXvifwWGIvxskeWETPdYW63Sz+En4lLelw6aAsLDaUwa1x0OujcCd4kVIcSbkKjjjeGFw5ZE7lMaeL+5aFbDa9QkjJVWemBjIpcOD9Hry+KcPikPeXRaWnYq6+eqhiYrNXGatiKcKAYgM/2k0ZRogxe2zi8snJ/+HdkQ+1XIGU=;7NaR2dK2uDYXfncEKWMikQ=="
+secured: "C7o2zQwGS38V7lisTtmaI5EEiHS+l7YklytDDljrGuHmAM8zZAL6rMBPg4WGL5/Bl+0M3Qgkv3c3ID+Z1UIA4sCyQ6EhrP0Q1skrLR0UcUuCd72/pYwQ5qapcOkYoY08CRbRDQ6YenRpHwp0nUyjYsp1cq5gZPm/cUhqkux2AhrrE0Wc+LNT90SfRknl8Tt7iAt0H1AliLoVjGIGbRaT5lGSQGTVTn9J0sWPaOditRATa2LmIR/+44JLtjihF2i+0G5cUNSNwJhzxkYMeX2m+4WkujPVrN1aWa4l/Xjaly9G5ouSjNvzcVGx3Bup3jm6FJaklOU/hnqRgBTIN+EhQsuQs+SXcMfmaap0p8HoClc=;FmV+iz3017qet6x6nnv36g=="
 ---
 

@@ -1246,6 +1246,20 @@ related:
       name: MyBroadband
       domain: mybroadband.co.za
     quality: 22
+  - title: "Six Things To Know About the Latest Microsoft Cloud Outage"
+    excerpt: "Azure Active Directory, Microsoft’s popular identity and access management service, stopped working Monday afternoon after an engineer attempted a code change, locking users across the U.S. out of the"
+    publishedDateTime: 2020-09-30T00:13:00Z
+    webUrl: "https://www.crn.com/slide-shows/cloud/six-things-to-know-about-the-latest-microsoft-cloud-outage"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 22
+    images:
+      - url: "https://www.crn.com/resources/025f-0fe383d9c3a4-64f39284f64b-1000/cloud_pic.png.png"
+        width: 366
+        height: 488
+        isCached: true
   - title: "Scality Announces 1 Terabit Per Second Performance for Scale-Out File System in Microsoft Azure Public Cloud"
     excerpt: "Scality, a leader in software solutions for distributed file and object storage, today announced the technical preview of its"
     publishedDateTime: 2020-09-29T13:00:00Z
