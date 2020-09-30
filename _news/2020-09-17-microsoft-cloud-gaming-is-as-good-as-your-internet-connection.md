@@ -1247,7 +1247,7 @@ related:
   - title: "Six Things To Know About the Latest Microsoft Cloud Outage"
     excerpt: "Azure Active Directory, Microsoft’s popular identity and access management service, stopped working Monday afternoon after an engineer attempted a code change, locking users across the U.S. out of the"
     publishedDateTime: 2020-09-30T00:13:00Z
-    webUrl: "https://www.crn.com/slide-shows/cloud/six-things-to-know-about-the-latest-microsoft-cloud-outage/5"
+    webUrl: "https://www.crn.com/slide-shows/cloud/six-things-to-know-about-the-latest-microsoft-cloud-outage"
     type: article
     provider:
       name: CRN

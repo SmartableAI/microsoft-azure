@@ -1,24 +1,28 @@
 ---
 category: news
 title: "Microsoft unveils Azure for Operators to unlock 5G potential"
-excerpt: "Microsoft has announced a new cloud platform called Azure for Operators that has been designed to help telecommunications operators unlock the full potential of 5G. The new offering will help communication service providers create new opportunities and ..."
-publishedDateTime: 2020-09-30T09:45:00Z
-originalUrl: "https://www.channelpro.co.uk/news/11908/microsoft-unveils-azure-for-operators-to-unlock-5g-potential"
-webUrl: "https://www.channelpro.co.uk/news/11908/microsoft-unveils-azure-for-operators-to-unlock-5g-potential"
+excerpt: "Microsoft has announced a new cloud platform called Azure for Operators that has been designed to help telecommunications operators unlock the full potential of 5G. The new offering will help communication service providers create new opportunities and provide core infrastructure,"
+publishedDateTime: 2020-09-30T11:08:00Z
+originalUrl: "https://www.itpro.co.uk/mobile/5g/357287/microsoft-unveils-azure-for-operators-to-unlock-5g-potential"
+webUrl: "https://www.itpro.co.uk/mobile/5g/357287/microsoft-unveils-azure-for-operators-to-unlock-5g-potential"
 type: article
-quality: 37
+quality: 77
 heat: -1
 published: false
 
 provider:
-  name: Channel Pro
-  domain: channelpro.co.uk
+  name: IT Pro
+  domain: itpro.co.uk
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/itpro.co.uk-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
 
 images:
-  - url: "https://cdn1.channelpro.co.uk/sites/channelpro/files/2018/10/5g_shutterstock_606561206.jpg"
+  - url: "https://media.itpro.co.uk/image/upload/v1570816662/itpro/2018/08/5g_shutterstock_750428755.jpg"
     width: 1920
     height: 1080
     isCached: true
@@ -369,6 +373,6 @@ related:
       domain: computerworld.com
     quality: 17
 
-secured: "A3IZNZ3hWrcYkOgACRrEZ9Ap7M1LGYMkKU0CWpoosWcwThcZvTp+l49a6H2Mz4oxR+pFBXR1ch9IDqZGn8Fr/qHmUC7rABvokqmhKSj7IC9J/UYJ1Nugsf1m0hZ2RdpwFYuyXVFFRn5t9/+ue5N04A9/cLD1kOqHPvgW9LBG9OUmlV+YptOB5fcT4TPQS41ok7EsZKrE41sbUJfpDyqEK4GPI8YMlfpIay5VUOdk5vn05aFLyjPXaNmcnnlV3c3UBt9cpb7QZ5HlBplKyBRF3M6pDHOZmaXqPSDBN5Hm/h1Y8Rhkjo6hpleR3KWj3jCFkM/Fq7FogzCzkmRe+M/nfVYedLiAJv1f5fcqTUMV6bQ=;vxPawF0RZoruCUEv4WgwAg=="
+secured: "CzCQycVQiK6LhL7DnX2LDnvgAudZczFrB+XsLw/ghoTEgsj/h/GPQPZq8rh+vZ99Q1HuFlNnHirVbD5Q7dOQhlxEu3UwxYOF5/2BDWnByNx5q3PJUuXrJ7nSf/LUtPsVKWbQ0SthQG+qags6atpt2m+xnNQ7DsFmLxD1S4vkr9qFMzgZMQfRiuIg/GZcqlF4m+EmpaKtKdEJSRESU8SnJqrTaZJWRPyLWMgTyaE2o4HxWbrre76ME61aO3nxMcOFvc8s3lrKEIhBtt1u0KHwergvfPGnId6c5hQ0f7cPSG7aHQrSRIpxsZlJ3B403+ULk0UB+WwgQ8eZkFm8QS6t4G5zkHSHk/iMgKEegiODjME=;GmnFJUC1/kLBemi36VWsKw=="
 ---
 
