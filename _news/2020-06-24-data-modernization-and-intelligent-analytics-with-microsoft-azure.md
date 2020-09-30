@@ -310,6 +310,20 @@ related:
         width: 1080
         height: 675
         isCached: true
+  - title: "Microsoft unveils Azure for Operators to unlock 5G potential"
+    excerpt: "Microsoft has announced a new cloud platform called Azure for Operators that has been designed to help telecommunications operators unlock the full potential of 5G. The new offering will help communication service providers create new opportunities and ..."
+    publishedDateTime: 2020-09-30T09:45:00Z
+    webUrl: "https://www.channelpro.co.uk/news/11908/microsoft-unveils-azure-for-operators-to-unlock-5g-potential"
+    type: article
+    provider:
+      name: Channel Pro
+      domain: channelpro.co.uk
+    quality: 37
+    images:
+      - url: "https://cdn1.channelpro.co.uk/sites/channelpro/files/2018/10/5g_shutterstock_606561206.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Microsoft targets industrial IoT analytics with Azure Digital Twins update"
     excerpt: "Microsoft Corp. today added a set of new features to Azure Digital Twins, its cloud-based analytics service for industrial “internet of things” applications. A digital twin usually means a virtual replica of a connected system,"
     publishedDateTime: 2020-06-29T20:51:00Z

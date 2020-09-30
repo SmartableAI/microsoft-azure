@@ -1,27 +1,26 @@
 ---
 category: news
-title: "Illusive Networks Joins Microsoft Intelligent Security Association and is Now Available in the Microsoft Azure Marketplace"
-excerpt: "Illusive Networks®, a leader in active cyber defense, today joined the Microsoft Intelligent Security Association (MISA), bringing the"
-publishedDateTime: 2020-09-24T19:03:00Z
-originalUrl: "https://www.prnewswire.com/il/news-releases/illusive-networks-joins-microsoft-intelligent-security-association-and-is-now-available-in-the-microsoft-azure-marketplace-866469933.html"
-webUrl: "https://www.prnewswire.com/il/news-releases/illusive-networks-joins-microsoft-intelligent-security-association-and-is-now-available-in-the-microsoft-azure-marketplace-866469933.html"
+title: "Microsoft unveils Azure for Operators to unlock 5G potential"
+excerpt: "Microsoft has announced a new cloud platform called Azure for Operators that has been designed to help telecommunications operators unlock the full potential of 5G. The new offering will help communication service providers create new opportunities and ..."
+publishedDateTime: 2020-09-30T09:45:00Z
+originalUrl: "https://www.channelpro.co.uk/news/11908/microsoft-unveils-azure-for-operators-to-unlock-5g-potential"
+webUrl: "https://www.channelpro.co.uk/news/11908/microsoft-unveils-azure-for-operators-to-unlock-5g-potential"
 type: article
-quality: 28
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Channel Pro
+  domain: channelpro.co.uk
 
 topics:
   - Azure
-  - Security
 
 images:
-  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-    width: 600
-    height: 315
+  - url: "https://cdn1.channelpro.co.uk/sites/channelpro/files/2018/10/5g_shutterstock_606561206.jpg"
+    width: 1920
+    height: 1080
     isCached: true
 
 related:
@@ -318,20 +317,6 @@ related:
         width: 1080
         height: 675
         isCached: true
-  - title: "Microsoft unveils Azure for Operators to unlock 5G potential"
-    excerpt: "Microsoft has announced a new cloud platform called Azure for Operators that has been designed to help telecommunications operators unlock the full potential of 5G. The new offering will help communication service providers create new opportunities and ..."
-    publishedDateTime: 2020-09-30T09:45:00Z
-    webUrl: "https://www.channelpro.co.uk/news/11908/microsoft-unveils-azure-for-operators-to-unlock-5g-potential"
-    type: article
-    provider:
-      name: Channel Pro
-      domain: channelpro.co.uk
-    quality: 37
-    images:
-      - url: "https://cdn1.channelpro.co.uk/sites/channelpro/files/2018/10/5g_shutterstock_606561206.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Microsoft targets industrial IoT analytics with Azure Digital Twins update"
     excerpt: "Microsoft Corp. today added a set of new features to Azure Digital Twins, its cloud-based analytics service for industrial “internet of things” applications. A digital twin usually means a virtual replica of a connected system,"
     publishedDateTime: 2020-06-29T20:51:00Z
@@ -360,6 +345,20 @@ related:
         width: 761
         height: 400
         isCached: true
+  - title: "Illusive Networks Joins Microsoft Intelligent Security Association and is Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Illusive Networks®, a leader in active cyber defense, today joined the Microsoft Intelligent Security Association (MISA), bringing the"
+    publishedDateTime: 2020-09-24T19:03:00Z
+    webUrl: "https://www.prnewswire.com/il/news-releases/illusive-networks-joins-microsoft-intelligent-security-association-and-is-now-available-in-the-microsoft-azure-marketplace-866469933.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 28
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
+        isCached: true
   - title: "Data Modernization and Intelligent Analytics with Microsoft Azure"
     excerpt: "Computerworld covers a range of technology topics, with a focus on these core areas of IT: Windows, Mobile, Apple/enterprise, Office and productivity suites, collaboration, web browsers and blockchain,"
     publishedDateTime: 2020-06-24T19:56:00Z
@@ -370,6 +369,6 @@ related:
       domain: computerworld.com
     quality: 17
 
-secured: "QDRTR3sG3EYhnfDQV9X5s2wyySe7i1D9GiRQkYbgvFrXwgDvAq+/FppXiIX65MeGcb+0IFGt27vQoLPCNyWXn+RQn3vUbBlaNqNB5kjMlUdmhY/QKiQcPb+9rdAibt29p+Y69fLJdz0asqjvxNEiuk4GmKw0AFQ0M8n7XdKvxF68O1cODD9TRo+6Bw/oCz0RORXhLeOn/v7AR68A59NlG0CBJRxC5fLBVBrs94CPokJ8QNiqH0HwRK4iykNkdXMSYQchkgpJqPS7yIOP2h+6ffbfmO7nODKEmi5c72Zid34OLzKBBh3C1ZqQ9jRdrIEz275IXTUZKkYKCTCSepXFRBwODkdiBq2Qe5Esf6+j8Q8=;cKlokLHHAKkbM6S9mECq7A=="
+secured: "A3IZNZ3hWrcYkOgACRrEZ9Ap7M1LGYMkKU0CWpoosWcwThcZvTp+l49a6H2Mz4oxR+pFBXR1ch9IDqZGn8Fr/qHmUC7rABvokqmhKSj7IC9J/UYJ1Nugsf1m0hZ2RdpwFYuyXVFFRn5t9/+ue5N04A9/cLD1kOqHPvgW9LBG9OUmlV+YptOB5fcT4TPQS41ok7EsZKrE41sbUJfpDyqEK4GPI8YMlfpIay5VUOdk5vn05aFLyjPXaNmcnnlV3c3UBt9cpb7QZ5HlBplKyBRF3M6pDHOZmaXqPSDBN5Hm/h1Y8Rhkjo6hpleR3KWj3jCFkM/Fq7FogzCzkmRe+M/nfVYedLiAJv1f5fcqTUMV6bQ=;vxPawF0RZoruCUEv4WgwAg=="
 ---
 

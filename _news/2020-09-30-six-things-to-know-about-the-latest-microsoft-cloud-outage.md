@@ -3,8 +3,8 @@ category: news
 title: "Six Things To Know About the Latest Microsoft Cloud Outage"
 excerpt: "Azure Active Directory, Microsoft’s popular identity and access management service, stopped working Monday afternoon after an engineer attempted a code change, locking users across the U.S. out of the"
 publishedDateTime: 2020-09-30T00:13:00Z
-originalUrl: "https://www.crn.com/slide-shows/cloud/six-things-to-know-about-the-latest-microsoft-cloud-outage"
-webUrl: "https://www.crn.com/slide-shows/cloud/six-things-to-know-about-the-latest-microsoft-cloud-outage"
+originalUrl: "https://www.crn.com/slide-shows/cloud/six-things-to-know-about-the-latest-microsoft-cloud-outage/5"
+webUrl: "https://www.crn.com/slide-shows/cloud/six-things-to-know-about-the-latest-microsoft-cloud-outage/5"
 type: article
 quality: 22
 heat: -1
@@ -1416,6 +1416,6 @@ related:
         height: 450
         isCached: true
 
-secured: "7s0qENAr/KlaJ0lnqKGG5A8AeoaRil0ClwNc6UWSs8+i9+PTAhghcOf10/QpNCmprP5U1Jb4fw44qLLFq69OjMthHeSrVwChmkrszebFPsFbp79UhRECX9IJrePoJlE82R/zS8d6CQdhJACFYcIB0VtnY6FM+rCg6DTuIk7Lzg2O2PMuajLC6euV1c6Hxv4CjLYKYQb3hTfUrKYFfeSSNT5/2TrQ9dtdGN1bNEqnOM4ahLKP8QYrDR9PcrBDtayy55i/D5ElYCBPNfOS2ZgJt/yncd7gRaO38Lx3C5LGeTlh5RI0W/JTorV9MTeDRGpJYmcfVBQ0GgteFVbz9oDuEwGPJf6Xmz4pAMWzzni9SWgqcthMkjofYR1tnxMxc3qTsCLkRR+OtxrDFssEjpaJtuxWd59PFHq7xQawS4p+TxpTmMQDRDNvdkzl5iWs9RxCqVWobPiX57wprxJsJQT1itDoBJQNuF0BbTEmwOP4WvdhKPVVrs/lL5U0dGFPokbo7ACCfZzHEbPR+6BKTr1GOw==;f6jBBKoBnp8wR65JG/Svtw=="
+secured: "lpyI36yJndEuCpl0/T8/jk+Hv8lzX7/a1/uIB+5XbaWA+cMiOPYdm+nptoyFPkyAidIv/nlw2SqkAuwbWMIcw5kvul+09mnuSXBh021pBjKkqzYbhZ325rq85FBvCovg98XEqyt+/s5qHXzO9CX6zhPSDA37Kk9BPVd4DR6QDJlM/m2LV+08HtT3FL8YfQsweZx1BG6kpmX+tA8t/AqZvQmB03mQ958bmxBHJ4s8gPWejW6EhpuzepPKENKxXl+98DDjXjqbNPiSmqcjpgp5iAEF19kqXE5A/wL2IirwOCoKUcM7yFwFvDsPrJIOSxfsD6PEi32cCd6LByuhf5X4YFzBK0uBaia/k6oYyFQnWlg=;0p7/QbPeaxwNmVqYaZSoeg=="
 ---
 
