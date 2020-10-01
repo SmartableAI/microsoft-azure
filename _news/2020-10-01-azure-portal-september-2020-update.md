@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Azure Security Center—News and updates for September 2020"
-excerpt: "New enhancements and updates that were made to Azure Security Center in September 2020."
-publishedDateTime: 2020-09-30T17:05:03Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/asc-september2020/"
-webUrl: "https://azure.microsoft.com/en-us/updates/asc-september2020/"
+title: "Azure portal September 2020 update"
+excerpt: "Updates include improvements to the ARM template deployment experience, a variety of updates for Azure Blob Storage, and more."
+publishedDateTime: 2020-10-01T18:31:28Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/azure-portal-september-2020-update/"
+webUrl: "https://azure.microsoft.com/en-us/updates/azure-portal-september-2020-update/"
 type: article
-quality: 99
-heat: 219
-published: true
+quality: 84
+heat: -1
+published: false
 
 provider:
   name: Microsoft
@@ -20,18 +20,18 @@ provider:
 
 topics:
   - Azure
-  - Security
+  - Management tools
 
 related:
-  - title: "Azure portal September 2020 update"
-    excerpt: "Updates include improvements to the ARM template deployment experience, a variety of updates for Azure Blob Storage, and more."
-    publishedDateTime: 2020-10-01T18:31:28Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-portal-september-2020-update/"
+  - title: "Azure Security Center—News and updates for September 2020"
+    excerpt: "New enhancements and updates that were made to Azure Security Center in September 2020."
+    publishedDateTime: 2020-09-30T17:05:03Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/asc-september2020/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 84
+    quality: 99
   - title: "Azure Cost Management + Billing updates – September 2020"
     excerpt: "While 2020 may be keeping you on your toes, September should help make your life a little bit easier with the general availability of AWS support in Azure Cost Management + Billing, allowing you to manage all your Azure and AWS costs in a single place; the preview of cost allocation, streamlining your"
     publishedDateTime: 2020-09-30T11:00:21Z
@@ -78,6 +78,6 @@ related:
       domain: microsoft.com
     quality: 17
 
-secured: "f1VJNqmlksFXnn3fX6hORCFtUAw7Oa5Q11T2Tmz4IiIYvJD4vhtif/5/EwNZidaG1CeF4/kQgnFub9zbH2fsZL6ytVTuFeG++J/zOiVR4Kog/rpu+Mynq/C10EPEj9YU2haGwv9dB1QIQVhpwiP1+SHW6UIKto6PEoU0nsx5uSdBfC6TH27W0G4phcMtuQ6JzIy465lYA1RsLk4At9fDpI2F54gnGac72Amz2IpEaOlMGWViNE2M4+iBraC12CssrmXk0T7vQ0ngtH4hhybOG6MwS1kpcN1e3w2ZpKQ7wnWluKCyk/3K/KVZ5eYMvBzFgsOiqN/m2Fc2O9OpOjWnmdO69amrzNwi7fLnyhex46k=;SMCprZBtenQ5sARpOMczMw=="
+secured: "tbU6iLnlt8JHQVBnmtMTrkp6rFcfaPJVBa+/YAPtsNXOtqDbGfijUKG+gHYUo3OFgw7oRkZ7NkQbifJjxnObsL14DDh7mgthqs74vCKN/ywyzc8xXajdsVRxazrFps9SjPiljQC/3/xtjSg1ynVWRI7TDOX0KVi7YUnEGvGGmDbeudN+gqrMREcbZ9yYr/1zqh5s/AXUugQb9ahAM2mHhLIYbE1dEgHB5Nk7ia8liXne98mtnS8OajTTFw9cyeeifHuVschGDpHiL3ztX3WbtPjHP3WFwZN5Cm5ZH62cgyO/4DXk7TbyOkoLyG3ygnL9LDitJGKMkb5gQOIDSjs1ZHangq6IoyZE81T7AFLxWe0=;Jbezgw9TmHsOQ0HnB/+m6w=="
 ---
 

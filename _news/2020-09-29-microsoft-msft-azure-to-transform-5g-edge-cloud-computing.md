@@ -380,6 +380,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Microsoft gets into 5G race with Azure cloud for telecom operators"
+    excerpt: "Microsoft Corp <MSFT.O> unveiled a new cloud platform on Monday aimed at enabling telecom operators to build 5G networks faster, reduce costs and sell customised services to business clients."
+    publishedDateTime: 2020-09-29T05:46:00Z
+    webUrl: "https://www.businessinsider.com/microsoft-gets-into-5g-race-with-azure-cloud-for-telecom-operators-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/microsoft-gets-into-5g-race-with-azure-cloud-for-telecom-operators-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/microsoft-gets-into-5g-race-with-azure-cloud-for-telecom-operators-2020-9?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 77
   - title: "Microsoft Office 365, Azure plagued by disruptions for hours"
     excerpt: "Microsoft Corp. on Monday suffered disruptions with its Office 365 workplace software tools and its Azure cloud that disabled some users for hours."
     publishedDateTime: 2020-09-29T03:04:00Z

@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Microsoft's Low-Code Power Apps Leans on Azure Cloud"
-excerpt: "The Azure cloud computing platform is dominating news coming out of the ongoing Microsoft Ignite 2020 developer/IT pro event, even extending to low-code application development with the company's Power Apps offering."
-publishedDateTime: 2020-09-23T19:26:00Z
-originalUrl: "https://virtualizationreview.com/articles/2020/09/23/power-apps-azure.aspx"
-webUrl: "https://virtualizationreview.com/articles/2020/09/23/power-apps-azure.aspx"
+title: "Microsoft gets into 5G race with Azure cloud for telecom operators"
+excerpt: "Microsoft Corp <MSFT.O> unveiled a new cloud platform on Monday aimed at enabling telecom operators to build 5G networks faster, reduce costs and sell customised services to business clients."
+publishedDateTime: 2020-09-29T05:46:00Z
+originalUrl: "https://www.businessinsider.com/microsoft-gets-into-5g-race-with-azure-cloud-for-telecom-operators-2020-9"
+webUrl: "https://www.businessinsider.com/microsoft-gets-into-5g-race-with-azure-cloud-for-telecom-operators-2020-9"
+ampWebUrl: "https://www.businessinsider.com/microsoft-gets-into-5g-race-with-azure-cloud-for-telecom-operators-2020-9?amp"
+cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/microsoft-gets-into-5g-race-with-azure-cloud-for-telecom-operators-2020-9?amp"
 type: article
-quality: 37
+quality: 77
 heat: -1
 published: false
 
 provider:
-  name: Virtualization Review
-  domain: virtualizationreview.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
-
-images:
-  - url: "https://virtualizationreview.com/-/media/ECG/VirtualizationReview/Images/IntroImages2019/BlocksColorsPink.jpg"
-    width: 647
-    height: 450
-    isCached: true
 
 related:
   - title: "Microsoft launches Azure Orbital to connect satellites to its cloud"
@@ -384,17 +384,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Microsoft gets into 5G race with Azure cloud for telecom operators"
-    excerpt: "Microsoft Corp <MSFT.O> unveiled a new cloud platform on Monday aimed at enabling telecom operators to build 5G networks faster, reduce costs and sell customised services to business clients."
-    publishedDateTime: 2020-09-29T05:46:00Z
-    webUrl: "https://www.businessinsider.com/microsoft-gets-into-5g-race-with-azure-cloud-for-telecom-operators-2020-9"
-    ampWebUrl: "https://www.businessinsider.com/microsoft-gets-into-5g-race-with-azure-cloud-for-telecom-operators-2020-9?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/microsoft-gets-into-5g-race-with-azure-cloud-for-telecom-operators-2020-9?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 77
   - title: "Microsoft (MSFT) Azure to Transform 5G Edge Cloud Computing"
     excerpt: "Microsoft MSFT is focused on making the most of 5G networking capabilities to transform cloud and edge computing. The tech giant is working in collaboration with the telecommunications industry to develop a carrier-grade platform for edge and cloud –– Azure for Operators."
     publishedDateTime: 2020-09-29T14:38:00Z
@@ -947,6 +936,20 @@ related:
         width: 600
         height: 600
         isCached: true
+  - title: "Microsoft's Low-Code Power Apps Leans on Azure Cloud"
+    excerpt: "The Azure cloud computing platform is dominating news coming out of the ongoing Microsoft Ignite 2020 developer/IT pro event, even extending to low-code application development with the company's Power Apps offering."
+    publishedDateTime: 2020-09-23T19:26:00Z
+    webUrl: "https://virtualizationreview.com/articles/2020/09/23/power-apps-azure.aspx"
+    type: article
+    provider:
+      name: Virtualization Review
+      domain: virtualizationreview.com
+    quality: 37
+    images:
+      - url: "https://virtualizationreview.com/-/media/ECG/VirtualizationReview/Images/IntroImages2019/BlocksColorsPink.jpg"
+        width: 647
+        height: 450
+        isCached: true
   - title: "dotData Enterprise is Now Available on Microsoft Azure"
     excerpt: "Data, focused on delivering full-cycle data science automation and operationalization for the enterprise, is providing dotData Enterprise on Microsoft Azure, offering increased speed and efficiency of data science and machine learning processes coupled with Azure's strong managed IaaS/PaaS capabilities."
     publishedDateTime: 2020-09-25T14:40:00Z
@@ -1493,6 +1496,6 @@ related:
         height: 450
         isCached: true
 
-secured: "TVsai+DrPsRJqja+KeuU/7m1gKYuiTAiMC3qbtceIH34GQkv5U/hvCWO9AGcNlA7iw4p9IWROzRXXGHswDhesO5aMHAQAt/nmgAVg8Jw05IAJm/T8BScpaoIUcCYZBJXZIqeymHIBciq3aiNdb9rM6CTCQtEgvvV2zuZ74WjOqOCkCF1Df0jkmPQt74DQpVHKJ3hoVbfG9KmeGzmnLBeFNSgBunLLXleGEv6SbiLAbPEOIC2TW1r5/k8mfUmbIQUh6ZhwCemmWxH3j2SAtbA/jhaa/oHm6UwQx7wgtWZX2TUuXvlrfRosNYJL/leDvH8I4zYv56HzK2Q4ToMbzUOdeXsIxd9cM9il45iTJ/4rFRggKYBM1vTD56ywlIEc1jBd3SHajfFvDBOr/z2oH3GKNPvQK3P5OQF6JBp5UVX4KRGwlTJvcuVzDnbMNFoemivFt9qLR3XKYBb7B1Pwu/tq8KxhjvnC5A/Fv/VWtlz0kJd+TPiGkXn2+XnbkaIHaT8AOtnBjzssBpjMJEawbj6JA==;CBS7JdbRVpbRl8WbwoxIeQ=="
+secured: "RZf9JYHGKIfl0usBjIGUG9sYuhFqiQoail39bqCUafqFtn/BQX+enS4+E8R2fQg/tpzvGzjaWYodrEfkhFy3C0Jk+hqWWmYLDqdFacpKIq5U6p43SlIQ2BB0FMM1HlP6B9WQSENSGiu/ecHmNEO3SKy9XdGulGMRIUo2PAzexKwKqVF3pwpnOGmoIOijGRE/O4R5g9AxGGsptFOje4McA8iZ++ZryINOVO/3DsVnXtXbtpBdZGgH8gYMn0Kr3CVIDdFrBYp+MBAASUN3X/WrV8ym8FvXs1uW5tYPCGRV6K1ssQ6WRci0zYYd4Xgst4NQ5iHukYEM7bNzLRtlCPXOD6KuFjAwe968ff/g8r5N/vU=;XRYa5ptq8IDcqqlHnDiYnA=="
 ---
 
