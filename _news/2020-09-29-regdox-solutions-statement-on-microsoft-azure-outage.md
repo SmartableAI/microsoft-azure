@@ -3,8 +3,8 @@ category: news
 title: "RegDOX Solutions Statement on Microsoft Azure Outage"
 excerpt: "Along with many observers, on September 28, 2020, we learned that Microsoft Azure Public and Azure Government networks suffered a major outage involvi"
 publishedDateTime: 2020-09-29T14:43:00Z
-originalUrl: "https://www.businesswire.com/news/home/20200929005837/en/RegDOX-Solutions-Statement-on-Microsoft-Azure-Outage"
-webUrl: "https://www.businesswire.com/news/home/20200929005837/en/RegDOX-Solutions-Statement-on-Microsoft-Azure-Outage"
+originalUrl: "https://www.businesswire.com/news/home/20200929005837/en/"
+webUrl: "https://www.businesswire.com/news/home/20200929005837/en/"
 type: article
 quality: 17
 heat: -1
@@ -1481,6 +1481,6 @@ related:
         height: 450
         isCached: true
 
-secured: "/B2wCRR2h4GMa5z17hvQWaDsLx5aRFX8Q1fiPzbJ7CXey0GVZP80BnaCAPdpsLHr6z+5YMGCXZK3crpZnQCj7l9srvIlb55mbU25el/P7o/vJROkc/UQ33Cn2IcP5xophGBhCalkDMN1V3phM5dsYCzz1Pc5JdbdjOc+m9uKb+TvxUrc9ogozlXksUzn6J1i14HY9bDwBQT5Yg+xkhPRMY5gjcXE7aYLY7y+wvJeZzTMu1pL5aJqv7V9aRyLIBRa/7t9cZuElK/4DBOqWIno5H8sCWx7NlYPdIHhCKm3CFiVk6fcCktIB4IsU2uRpeFuvlg3BHmpOUyl1tNekM2R8eehedBqFmYoNiPsToyDH7g=;BC3KMojl1UySHz6oPVmaHw=="
+secured: "T/utYUkehVdjQuJJyx82t/4WZXD4qyMFuY8Fo26wJjZRKYjY4DVtlY45bHO81tEQoI1hn23TyDDxe5EyC6yvOHylFq1iZbNx1AiCi401CdS73cnIf4j3Ikv26F1JcxCjG+MiHnBISH8VTbCvOrUp9yixOysr3cIpE56Az17iSNhFLewxhhZlU7JdXOCR47O2+2n0jaTfuaozwGuJX/NoP60RRKMwQ2DrZZXLzbZP1ytzZtVakoVfkJgrsoczvBrAsMKPx3rXvvHZ6YlnUtI331HF0OI+IXL3ERuvAbA5Fx9q0wDafFynqyOTZA+vuNjiReTxe3hxWRCpULjQyjLf53vBpU0+rPGQooFxFPNqxj0=;AThtM0PQwRcwfs+BQ2qxcQ=="
 ---
 

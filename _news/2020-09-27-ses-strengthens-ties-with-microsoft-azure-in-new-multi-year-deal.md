@@ -1415,7 +1415,7 @@ related:
   - title: "RegDOX Solutions Statement on Microsoft Azure Outage"
     excerpt: "Along with many observers, on September 28, 2020, we learned that Microsoft Azure Public and Azure Government networks suffered a major outage involvi"
     publishedDateTime: 2020-09-29T14:43:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200929005837/en/RegDOX-Solutions-Statement-on-Microsoft-Azure-Outage"
+    webUrl: "https://www.businesswire.com/news/home/20200929005837/en/"
     type: article
     provider:
       name: Business Wire
