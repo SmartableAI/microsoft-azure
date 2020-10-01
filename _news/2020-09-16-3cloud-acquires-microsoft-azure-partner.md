@@ -1430,6 +1430,15 @@ related:
       name: Seeking Alpha
       domain: seekingalpha.com
     quality: 17
+  - title: "Unisys unveils ClearPath MCP Software Series for Microsoft Azure"
+    excerpt: "Unisys announced ClearPath MCP Software Series for Microsoft Azure − the first availability of its software environment in the public cloud."
+    publishedDateTime: 2020-10-01T01:23:00Z
+    webUrl: "https://www.helpnetsecurity.com/2020/10/01/unisys-clearpath-mcp-software-series-for-microsoft-azure/"
+    type: article
+    provider:
+      name: Help Net Security
+      domain: helpnetsecurity.com
+    quality: 17
   - title: "Cobalt Iron Makes DCIG List of TOP 5 Microsoft Azure Cloud Backup Solutions"
     excerpt: "Cobalt Iron Inc., a leading provider of SaaS-based enterprise data protection, today announced that its industry-leading Compass® enterprise SaaS back"
     publishedDateTime: 2020-09-25T06:49:00Z
