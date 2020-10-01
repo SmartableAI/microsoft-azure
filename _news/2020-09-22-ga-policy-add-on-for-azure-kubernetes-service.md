@@ -77,6 +77,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 84
+  - title: "Monitor Azure Arc enabled Kubernetes with Metric Alerts"
+    excerpt: "Learn how to configure recommended metric alerts for monitoring your Azure Arc enabled Kubernetes clusters."
+    publishedDateTime: 2020-10-01T16:00:35Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/arck8smetricalerts/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
   - title: "Application Gateway Ingress Controller for Azure Kubernetes Service"
     excerpt: "Today we are excited to offer a new solution to bind Azure Kubernetes Service (AKS) and Application Gateway. The new solution provides an open source Application Gateway Ingress Controller (AGIC) for Kubernetes, which makes it possible for AKS customers to leverage Application Gateway to expose their"
     publishedDateTime: 2019-12-02T10:00:27Z

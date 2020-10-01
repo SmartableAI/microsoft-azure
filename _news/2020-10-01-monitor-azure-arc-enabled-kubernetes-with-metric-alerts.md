@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Monitoring Azure Arc enabled Kubernetes and servers"
-excerpt: "Azure Arc is a preview service that enables users to create and attach Kubernetes clusters both inside and outside of Azure. Azure Arc also enables the user to manage Windows and Linux machines outside of Azure the same way native Azure Virtual Machines are managed."
-publishedDateTime: 2020-07-28T11:00:16Z
-originalUrl: "https://azure.microsoft.com/blog/monitoring-azure-arc-enabled-kubernetes-and-servers/"
-webUrl: "https://azure.microsoft.com/blog/monitoring-azure-arc-enabled-kubernetes-and-servers/"
+title: "Monitor Azure Arc enabled Kubernetes with Metric Alerts"
+excerpt: "Learn how to configure recommended metric alerts for monitoring your Azure Arc enabled Kubernetes clusters."
+publishedDateTime: 2020-10-01T16:00:35Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/arck8smetricalerts/"
+webUrl: "https://azure.microsoft.com/en-us/updates/arck8smetricalerts/"
 type: article
-quality: 106
-heat: 426
-published: true
+quality: 84
+heat: -1
+published: false
 
 provider:
   name: Microsoft
@@ -20,16 +20,23 @@ provider:
 
 topics:
   - Azure
-  - Management tools
   - Containers
 
-images:
-  - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/c4c6ac0f-ea43-458e-a4e7-cb971720a491.jpg"
-    width: 1024
-    height: 714
-    isCached: true
-
 related:
+  - title: "Monitoring Azure Arc enabled Kubernetes and servers"
+    excerpt: "Azure Arc is a preview service that enables users to create and attach Kubernetes clusters both inside and outside of Azure. Azure Arc also enables the user to manage Windows and Linux machines outside of Azure the same way native Azure Virtual Machines are managed."
+    publishedDateTime: 2020-07-28T11:00:16Z
+    webUrl: "https://azure.microsoft.com/blog/monitoring-azure-arc-enabled-kubernetes-and-servers/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 106
+    images:
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/c4c6ac0f-ea43-458e-a4e7-cb971720a491.jpg"
+        width: 1024
+        height: 714
+        isCached: true
   - title: "GA: Azure Kubernetes Service mutate default storage class feature"
     excerpt: "AKS users now have the flexibility to use a different storage class instead of the default storage class."
     publishedDateTime: 2020-09-22T16:05:35Z
@@ -66,15 +73,6 @@ related:
     excerpt: "Today, we're excited to tell you about even more capabilities that can help you along on your cloud native journey to Kubernetes on Azure."
     publishedDateTime: 2020-08-17T02:00:30Z
     webUrl: "https://azure.microsoft.com/blog/build-resilient-applications-with-kubernetes-on-azure/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 84
-  - title: "Monitor Azure Arc enabled Kubernetes with Metric Alerts"
-    excerpt: "Learn how to configure recommended metric alerts for monitoring your Azure Arc enabled Kubernetes clusters."
-    publishedDateTime: 2020-10-01T16:00:35Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/arck8smetricalerts/"
     type: article
     provider:
       name: Microsoft
@@ -190,6 +188,6 @@ related:
       domain: morningstar.com
     quality: 0
 
-secured: "Gp4o8xraCEwBs1HpcL+a5/OvYzEbiLqjVmeCtNt6jn/7dfsmVXN61zV8b31q1Bzra+glCiYuvaShfJpUNR0MXSEH9C+ZZs5ITxkEYtWAYALjr1nEvkI1WMYI9O9IlW6fe2ELEGkpkWzF9A/zgLTVgfFnd7/Pz49+ZVQhkMNro8m86+jgSHeTIXGH6NbtuMhEobRhUoNFDWpPAb8+TCZD16V6MzBrzhj924xRosSJLZExlffdy3KGJl9Ac243sxf7WRIJN8Ptrx7YS9DZey/K5pQBROOR/esYCpSnZM/9hgNT7IsClr2H8oMhwf1JF2/sR7hXIHcpvPGokEaeZvI4BLLo2P/w3/ydB0Z0wyZicQY=;ssS5Zd4KfY84mPIrvsUvyg=="
+secured: "/V1YEVEaeiqjoX+WYfs+U9OxweGts9bKnheY25bJyyFwHNeYOGkDXEwF9TuxfqnUt8fqbAvAUsLCYg3VR3PbKrFe0aDY+e+cs8ffMM+6v4B4Q77WqNxmGpayRfz/GC/sZQcIG9ltZXvYkuo8Yjfc5vi9YHZEhEY8yNxmoIqwS5w5KUQgJR/UKYwUfC+qbgnwVQxGgBi+4gOYjHDhggMgU09C7yx0efQzv8DeBCgs+CgADwnE5UBTIm86FkGXxNlurkc6n3Rx92gAUq3Pp7H1nnHRoGHMDfeg7dCsWne9KqtPTTjPWOfrheN0vwDGXO02ySQYfJCbflyVmkyECBEjJWmrUZeFAlZ9O4Wrs6iZ11s=;gQC3ouOyvpd6cJU+A/Te0Q=="
 ---
 

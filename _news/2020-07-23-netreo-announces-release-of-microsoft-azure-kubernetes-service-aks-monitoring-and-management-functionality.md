@@ -72,6 +72,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 84
+  - title: "Monitor Azure Arc enabled Kubernetes with Metric Alerts"
+    excerpt: "Learn how to configure recommended metric alerts for monitoring your Azure Arc enabled Kubernetes clusters."
+    publishedDateTime: 2020-10-01T16:00:35Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/arck8smetricalerts/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
   - title: "GA: Policy add-on for Azure Kubernetes Service"
     excerpt: "You can now set policies beyond the Azure Resource Manager level and drive in-depth compliance across pods, namespaces, ingress, and other Kubernetes resources."
     publishedDateTime: 2020-09-22T16:05:32Z
