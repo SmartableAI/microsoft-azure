@@ -1,33 +1,26 @@
 ---
 category: news
-title: "Microsoft is taking its Azure cloud into space"
-excerpt: "Azure Orbital will compete with rival AWS Ground Station service. Microsoft has launched a new cloud-based platform designed to help satellite operators ingest and analyse data drawn down from ..."
-publishedDateTime: 2020-09-23T13:43:00Z
-originalUrl: "https://www.techradar.com/uk/news/microsoft-is-taking-its-azure-cloud-into-space"
-webUrl: "https://www.techradar.com/uk/news/microsoft-is-taking-its-azure-cloud-into-space"
-ampWebUrl: "https://www.techradar.com/uk/amp/news/microsoft-is-taking-its-azure-cloud-into-space"
-cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/uk/amp/news/microsoft-is-taking-its-azure-cloud-into-space"
+title: "Public preview of Azure Stream Analytics unit testing capability in an CI/CD pipeline"
+excerpt: "The Azure Stream Analytics CI/CD tools are now updated with query unit testing capability. Users can now add and run automated test cases for their queries."
+publishedDateTime: 2020-10-01T15:00:34Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/azure-stream-analyitcs-unit-testing-for-ci-cd/"
+webUrl: "https://azure.microsoft.com/en-us/updates/azure-stream-analyitcs-unit-testing-for-ci-cd/"
 type: article
-quality: 97
+quality: 77
 heat: -1
 published: false
 
 provider:
-  name: TechRadar
-  domain: techradar.com
+  name: Microsoft
+  domain: microsoft.com
   images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/techradar.com-50x50.jpg"
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Azure
-
-images:
-  - url: "https://cdn.mos.cms.futurecdn.net/dQoiSrD62YtvNU65gf2GJU-1200-80.jpg"
-    width: 970
-    height: 545
-    isCached: true
+  - Analytics
 
 related:
   - title: "Microsoft: Azure-based Sentinel security gets new analytics to spot threats in odd behavior"
@@ -114,6 +107,22 @@ related:
         width: 750
         height: 500
         isCached: true
+  - title: "Microsoft is taking its Azure cloud into space"
+    excerpt: "Azure Orbital will compete with rival AWS Ground Station service. Microsoft has launched a new cloud-based platform designed to help satellite operators ingest and analyse data drawn down from ..."
+    publishedDateTime: 2020-09-23T13:43:00Z
+    webUrl: "https://www.techradar.com/uk/news/microsoft-is-taking-its-azure-cloud-into-space"
+    ampWebUrl: "https://www.techradar.com/uk/amp/news/microsoft-is-taking-its-azure-cloud-into-space"
+    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/uk/amp/news/microsoft-is-taking-its-azure-cloud-into-space"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 97
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/dQoiSrD62YtvNU65gf2GJU-1200-80.jpg"
+        width: 970
+        height: 545
+        isCached: true
   - title: "Microsoft adds more devices and services to its Azure Stack hybrid line-up"
     excerpt: "Microsoft is adding three new edge-computing devices and moving ahead, with various Azure-branded services that are part of its hybrid-cloud family."
     publishedDateTime: 2020-09-22T15:00:00Z
@@ -192,15 +201,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Public preview of Azure Stream Analytics unit testing capability in an CI/CD pipeline"
-    excerpt: "The Azure Stream Analytics CI/CD tools are now updated with query unit testing capability. Users can now add and run automated test cases for their queries."
-    publishedDateTime: 2020-10-01T15:00:34Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-stream-analyitcs-unit-testing-for-ci-cd/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 77
   - title: "Here's what to know about Microsoft's new cloud communications tool Azure"
     excerpt: "CNBC's Josh Lipton reports on Microsoft's latest cloud communications tool and how it could impact Slack and other work from home beneficiaries."
     publishedDateTime: 2020-09-22T19:30:00Z
@@ -391,6 +391,6 @@ related:
       domain: computerworld.com
     quality: 17
 
-secured: "mTrVjA/Qix9++75LcTvw2R21f/u4HX1J5QYl8m1W0Lwn7y1foqU96ebV7K1iIwnNuDHBElLoSLr7ZJ50G8d3UywfvauP4ZvcClxQWs0w4NM+UOdHGU2AgSgG/X5JrgOoKl9dUsz7Lob4OccSYhiNG4awCi/3EoK/xj404HDuxHV4tZRG5wO5W1PSVV0GigUZh7WkRzwdoq7/kKXoHUoglpDoNrpnkXeMMIrzkk2OqB0g8cQCj5D0CQp4umBWH7+YBrkPvZshe0irZZBvLZGFVlUoGNVFwXcFis6bXNK9X+wqGUC0df2vu/dIodMmcnN7QPz69jK54vgGM29hEllQaQjthSdpAnbAo4AhAqdVGLI=;WeClN5jQswOA3aq4mM2/cw=="
+secured: "fpP19Pzb2bTyhpSBY3I86boxnAZN3QhF6XWWVKOWOB+4WVvyS4xRCEJ6T+XrfwiDB295r932QPnsNjgrXalLfOopKU8zeNCeqUoOdS+BjqCijv6lelV8FALlCs2ZBm2yku8C1I1QonUv0UaydeS0kP2Cc44bTks1ykVhiYNw5n7MXqnmXf0ymj28bn1+/7nSWBHLo7QRNbbXaovwAOd+djwGwcn2bmcAK2UBLtMbPZ/rB8fHkbV/fQCsuc6xSwE/rrD6tBrIuJpW2ggzSby8O3RtRiLTC6KT56IiWMeDSz37Cg+oRuQbCJ7UKpTlDonJl5ba3IEVgNKPD1RlbXcE389GVKJ+/AwNzzwk4MLRUVo=;SvyXHP8rqC9Ne7FCilRvgg=="
 ---
 

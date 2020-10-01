@@ -205,6 +205,15 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Public preview of Azure Stream Analytics unit testing capability in an CI/CD pipeline"
+    excerpt: "The Azure Stream Analytics CI/CD tools are now updated with query unit testing capability. Users can now add and run automated test cases for their queries."
+    publishedDateTime: 2020-10-01T15:00:34Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-stream-analyitcs-unit-testing-for-ci-cd/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 77
   - title: "Here's what to know about Microsoft's new cloud communications tool Azure"
     excerpt: "CNBC's Josh Lipton reports on Microsoft's latest cloud communications tool and how it could impact Slack and other work from home beneficiaries."
     publishedDateTime: 2020-09-22T19:30:00Z
