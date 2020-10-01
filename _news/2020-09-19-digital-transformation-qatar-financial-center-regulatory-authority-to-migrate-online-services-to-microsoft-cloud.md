@@ -1449,6 +1449,15 @@ related:
       name: Seeking Alpha
       domain: seekingalpha.com
     quality: 14
+  - title: "odix joins MISA program and integrates its FileWall with Microsoft Azure Sentinel"
+    excerpt: "odix was nominated to MISA for integrating their recently launched product, FileWall, with Microsoft Azure Sentinel. FileWall is a security application for Microsoft 365 mailboxes and now includes reporting capabilities to Azure Sentinel. The Microsoft ..."
+    publishedDateTime: 2020-09-30T23:29:00Z
+    webUrl: "https://www.helpnetsecurity.com/2020/10/01/odix-microsoft/"
+    type: article
+    provider:
+      name: Help Net Security
+      domain: helpnetsecurity.com
+    quality: 12
   - title: "Spot by NetApp Delivers Availability, Automation, and Cost Savings for Cloud Workloads With Microsoft Azure Spot Virtual Machines"
     excerpt: "NetApp (NASDAQ: NTAP), a global cloud-led, data-centric software company, today announced the availability of Elastigroup for Microsoft Azure Spot Virtual Machines (VMs). NetApp recently acquired Spot,"
     publishedDateTime: 2020-09-23T12:00:00Z

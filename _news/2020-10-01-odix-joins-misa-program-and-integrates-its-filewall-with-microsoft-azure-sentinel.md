@@ -1,33 +1,21 @@
 ---
 category: news
-title: "Microsoft challenges Twilio with the launch of Azure Communication Services"
-excerpt: "Microsoft today announced the launch of Azure Communication Services, a new set of features in its cloud that enable developers to add voice and video calling, chat and text messages to their apps, as well as old-school telephony."
-publishedDateTime: 2020-09-23T12:09:00Z
-originalUrl: "https://techcrunch.com/2020/09/22/microsoft-challenges-twilio-with-the-launch-of-azure-communication-services/"
-webUrl: "https://techcrunch.com/2020/09/22/microsoft-challenges-twilio-with-the-launch-of-azure-communication-services/"
-ampWebUrl: "https://techcrunch.com/2020/09/22/microsoft-challenges-twilio-with-the-launch-of-azure-communication-services/amp/"
-cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/09/22/microsoft-challenges-twilio-with-the-launch-of-azure-communication-services/amp/"
+title: "odix joins MISA program and integrates its FileWall with Microsoft Azure Sentinel"
+excerpt: "odix was nominated to MISA for integrating their recently launched product, FileWall, with Microsoft Azure Sentinel. FileWall is a security application for Microsoft 365 mailboxes and now includes reporting capabilities to Azure Sentinel. The Microsoft ..."
+publishedDateTime: 2020-09-30T23:29:00Z
+originalUrl: "https://www.helpnetsecurity.com/2020/10/01/odix-microsoft/"
+webUrl: "https://www.helpnetsecurity.com/2020/10/01/odix-microsoft/"
 type: article
-quality: 95
+quality: 12
 heat: -1
 published: false
 
 provider:
-  name: TechCrunch
-  domain: techcrunch.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/techcrunch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Help Net Security
+  domain: helpnetsecurity.com
 
 topics:
   - Azure
-
-images:
-  - url: "https://techcrunch.com/wp-content/uploads/2020/09/GettyImages-1167012061.jpg?w=1024"
-    width: 1024
-    height: 576
-    isCached: true
 
 related:
   - title: "Microsoft launches Azure Orbital to connect satellites to its cloud"
@@ -157,6 +145,22 @@ related:
       - url: "https://images.wsj.net/im-237735/social"
         width: 1280
         height: 640
+        isCached: true
+  - title: "Microsoft challenges Twilio with the launch of Azure Communication Services"
+    excerpt: "Microsoft today announced the launch of Azure Communication Services, a new set of features in its cloud that enable developers to add voice and video calling, chat and text messages to their apps, as well as old-school telephony."
+    publishedDateTime: 2020-09-23T12:09:00Z
+    webUrl: "https://techcrunch.com/2020/09/22/microsoft-challenges-twilio-with-the-launch-of-azure-communication-services/"
+    ampWebUrl: "https://techcrunch.com/2020/09/22/microsoft-challenges-twilio-with-the-launch-of-azure-communication-services/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/09/22/microsoft-challenges-twilio-with-the-launch-of-azure-communication-services/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 95
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2020/09/GettyImages-1167012061.jpg?w=1024"
+        width: 1024
+        height: 576
         isCached: true
   - title: "Azure Communications Services is Microsoft's new managed communication platform"
     excerpt: "At its annual Ignite conference, Microsoft announced Azure Communications Service, the first fully managed communication platform offering from a major cloud provider. The service will help developers deliver enterprise-grade communication experiences ..."
@@ -1453,15 +1457,6 @@ related:
       name: Seeking Alpha
       domain: seekingalpha.com
     quality: 14
-  - title: "odix joins MISA program and integrates its FileWall with Microsoft Azure Sentinel"
-    excerpt: "odix was nominated to MISA for integrating their recently launched product, FileWall, with Microsoft Azure Sentinel. FileWall is a security application for Microsoft 365 mailboxes and now includes reporting capabilities to Azure Sentinel. The Microsoft ..."
-    publishedDateTime: 2020-09-30T23:29:00Z
-    webUrl: "https://www.helpnetsecurity.com/2020/10/01/odix-microsoft/"
-    type: article
-    provider:
-      name: Help Net Security
-      domain: helpnetsecurity.com
-    quality: 12
   - title: "Spot by NetApp Delivers Availability, Automation, and Cost Savings for Cloud Workloads With Microsoft Azure Spot Virtual Machines"
     excerpt: "NetApp (NASDAQ: NTAP), a global cloud-led, data-centric software company, today announced the availability of Elastigroup for Microsoft Azure Spot Virtual Machines (VMs). NetApp recently acquired Spot,"
     publishedDateTime: 2020-09-23T12:00:00Z
@@ -1477,6 +1472,6 @@ related:
         height: 450
         isCached: true
 
-secured: "wz0AtBizKjLIY7tlCowXUzGXhe3judxtM9IRz4zs5o2qJ0+p5VSPyZRYjD05YxK2ghfmlJxMB9kwBcyHv0ll1W/DJjWLychgMqc8ptxuac7j3vtHN/pv4UQiL7iyrMUIH1ceSXdg7m9VXwjzMflBUpzJ3xTxJJe65rq2S6+p7ZBOv4t28mCS2cyv2SRHNqbwqqFNz8OSgmar+BuS5s3+O8s+5r3Ck1xxcMtfkvDzVbVtu3mMK0ReJxfhdfdyW2GQRV3f6a2LZE1CY4fXiU4YENxpGXyYlJjUhNsidRPyq/gY66FKQkeRIBQfMSn1kdm+ubmJv72ADY9ZHDQecPxMvFAmgYusZ1Jgi9Hs2SdvW9gbsUvMW1PyVLDnumvlcRfJT15+460y2Hgbb0Xcv49O2gVhO4AOr0emMNQUw3f0EpBgUbUMF/ZGiYayKPfk0D6jSZTw44SaiXe+4pZN2Ga079hYtOsLuRsBrwKq56D5nrANxHIOy3C8XhZVrLMRq3BJBvE4OfzPhuE6Gp/O/m3hlA==;7rKymoRsy9CamKjjhDP4IQ=="
+secured: "Yxa6Y7wscfQkpNa83DgBYjLkeLe2O97cYQgQFvYlMes9uC1GPjmTmAtH8uP3xYBCNcVe/GbP8NqdJv9gG5/Y6CHeGE8ZdodE52wPRPRQndrCYhG/HayQkUHjBwguya876YBNNOZwcF0aKyZpobawpjrqkQPXHrwwJGzXdwGCt67m3Vd6uLJFlPG1Nx/GA65bwmFSCI2HpwhOaLwmpVYCv7A8h6tpMUMyWlDvVhJ6FYfHraGvNhTJVq8PQaWJWuPesr4iCfZmzrZdWFC9ehnxHOr8uiBwir5PgUoto4e3mOCvYHqyE9rivkf9ZdG/PffubB0LZzx/HkVbjZ8FB8riI0vl9z4YUskRbBzYAKr2kMU=;FVGFHMI1n2fX5i11wz1sAA=="
 ---
 

@@ -1463,6 +1463,15 @@ related:
       name: Seeking Alpha
       domain: seekingalpha.com
     quality: 14
+  - title: "odix joins MISA program and integrates its FileWall with Microsoft Azure Sentinel"
+    excerpt: "odix was nominated to MISA for integrating their recently launched product, FileWall, with Microsoft Azure Sentinel. FileWall is a security application for Microsoft 365 mailboxes and now includes reporting capabilities to Azure Sentinel. The Microsoft ..."
+    publishedDateTime: 2020-09-30T23:29:00Z
+    webUrl: "https://www.helpnetsecurity.com/2020/10/01/odix-microsoft/"
+    type: article
+    provider:
+      name: Help Net Security
+      domain: helpnetsecurity.com
+    quality: 12
 
 secured: "luCpj0uAmyXeQGTVHlPFCMsvh40lcS47DRzQi0yZjXkcA1BXI3f61wk0rwrHN1ogMX+Qm/L9svupUw0KXBVfryFkMCEhWPtDYr+a1uW6+kyyRiIyLukzX+F4P+59MQdTwhMWDFbm90NkXIf8zbvFVqYMmZgPBU3AWfjUEqeo9EQ+a24nf533F9oTs0vKwx+L3tKMrKb4gh5T2lcREkrRvzV4vuUo0p2WN1WFG4n53EA1ZUxTafPlrgGCwToBpi8qrwm4ZtAhgq81qy+vfQEXp02i6zFck1R2KUD3d4oLelaOzE3Is0T8UgUTSxKvb0Cw7tshVFDNCibSCG0zFFgXpLgr5GQ9g8mDoN79UPahY40=;RfDtpjFEc6GjULizbXkFRw=="
 ---
