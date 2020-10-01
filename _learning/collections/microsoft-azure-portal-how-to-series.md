@@ -2,7 +2,7 @@
 title: "Azure Portal “How To” Series"
 excerpt: "Welcome to our weekly series that highlights specific aspects of the Azure portal so you can be more efficient and productive while deploying your cloud workloads from the portal."
 type: collection
-heat: 61
+heat: 98
 
 provider:
   name: Microsoft
@@ -13,6 +13,7 @@ provider:
       height: 50
 
 items:
+  - videos/microsoft-how-to-add-and-secure-a-custom-domain-on-your-app-service-web-app-azure-portal-series
   - videos/microsoft-how-to-create-and-manage-an-app-service-domain-azure-portal-series
   - videos/microsoft-improvements-to-the-linux-virtual-machine-experience-azure-portal-series
   - videos/microsoft-how-to-use-blob-versioning-azure-portal-series
@@ -62,7 +63,7 @@ topics:
   - Management tools
 
 images:
-  - url: https://i.ytimg.com/vi/b1kDT8-6a3g/maxresdefault.jpg
+  - url: https://i.ytimg.com/vi/bXP6IvNYISw/maxresdefault.jpg
     width: 1280
     height: 720
     isCached: true

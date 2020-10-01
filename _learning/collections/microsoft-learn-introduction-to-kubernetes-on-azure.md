@@ -23,6 +23,7 @@ items:
   - courses/microsoft-learn-intro-to-azure-kubernetes-service
   - courses/microsoft-learn-aks-deploy-container-app
   - courses/microsoft-learn-aks-optimize-compute-costs
+  - courses/microsoft-learn-app-package-management-using-helm
 
 topics:
   - Azure
