@@ -4,42 +4,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-create-serverless-logic-with-functions.md",
-      "title": "Create serverless logic with Azure Functions",
-      "excerpt": "Azure Functions allow you to host business logic that can be executed without managing or provisioning server infrastructure",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-create-serverless-logic-with-functions/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/create-serverless-logic-with-azure-functions/",
-      "length": "PT36M",
-      "ratings": {
-        "count": 6478,
-        "average": 4.6630135
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 69,
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Compute",
-        "Serverless",
-        "Management Tools"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-create-linux-vm-in-azure.md",
       "title": "Create a Linux virtual machine in Azure",
       "excerpt": "This module guides you through options for virtual machines in Azure, creating and connecting a Linux virtual machine, and configuring your network settings.",
@@ -47,8 +11,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/create-linux-virtual-machine-in-azure/",
       "length": "PT1H26M",
       "ratings": {
-        "count": 7832,
-        "average": 4.6841164
+        "count": 7833,
+        "average": 4.684157
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -714,8 +678,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/deploy-vms-from-vhd-templates/",
       "length": "PT42M",
       "ratings": {
-        "count": 1665,
-        "average": 4.6804805
+        "count": 1666,
+        "average": 4.680672
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -812,8 +776,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/run-docker-with-azure-container-instances/",
           "length": "PT48M",
           "ratings": {
-            "count": 4733,
-            "average": 4.697021
+            "count": 4750,
+            "average": 4.6974735
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -881,8 +845,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/host-a-web-app-with-azure-app-service/",
           "length": "PT58M",
           "ratings": {
-            "count": 5108,
-            "average": 4.602976
+            "count": 5109,
+            "average": 4.6030536
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -986,8 +950,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/host-a-web-app-with-azure-app-service/",
           "length": "PT58M",
           "ratings": {
-            "count": 5108,
-            "average": 4.602976
+            "count": 5109,
+            "average": 4.6030536
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1141,8 +1105,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/intro-to-azure-fundamentals/",
           "length": "PT36M",
           "ratings": {
-            "count": 260,
-            "average": 4.7653847
+            "count": 261,
+            "average": 4.7662835
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1551,8 +1515,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/manage-virtual-machines-with-azure-cli/",
       "length": "PT51M",
       "ratings": {
-        "count": 5770,
-        "average": 4.6986136
+        "count": 5772,
+        "average": 4.698718
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1609,8 +1573,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/intro-to-azure-fundamentals/",
           "length": "PT36M",
           "ratings": {
-            "count": 260,
-            "average": 4.7653847
+            "count": 261,
+            "average": 4.7662835
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1825,8 +1789,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/intro-to-azure-fundamentals/",
           "length": "PT36M",
           "ratings": {
-            "count": 260,
-            "average": 4.7653847
+            "count": 261,
+            "average": 4.7662835
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3051,6 +3015,48 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-capture-application-logs-app-service.md",
+      "title": "Capture Web Application Logs with App Service Diagnostics Logging",
+      "excerpt": "Learn about how to capture trace output from your Azure web apps. View a live log stream and download logs files for offline analysis.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-capture-application-logs-app-service/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/capture-application-logs-app-service/",
+      "length": "PT55M",
+      "ratings": {
+        "count": 1155,
+        "average": 4.6103897
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 60,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/capture-application-logs-app-service-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Compute"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-fundamental-azure-concepts.md",
       "title": "Discuss Azure fundamental concepts",
       "excerpt": "Learn about the different types and categories of cloud computing.",
@@ -3137,8 +3143,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/keep-your-virtual-machines-updated/",
       "length": "PT35M",
       "ratings": {
-        "count": 2744,
-        "average": 4.4945335
+        "count": 2745,
+        "average": 4.4943533
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3318,8 +3324,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/evolving-world-of-data/",
           "length": "PT28M",
           "ratings": {
-            "count": 4700,
-            "average": 4.6770215
+            "count": 4702,
+            "average": 4.676946
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3359,8 +3365,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/survey-the-azure-data-platform/",
           "length": "PT58M",
           "ratings": {
-            "count": 4323,
-            "average": 4.6888733
+            "count": 4324,
+            "average": 4.6889453
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3401,8 +3407,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/data-engineering-processes/",
           "length": "PT25M",
           "ratings": {
-            "count": 4117,
-            "average": 4.7041535
+            "count": 4118,
+            "average": 4.7042255
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3462,8 +3468,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/add-and-size-disks-in-azure-virtual-machines/",
       "length": "PT36M",
       "ratings": {
-        "count": 2178,
-        "average": 4.6565657
+        "count": 2179,
+        "average": 4.6562643
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3539,8 +3545,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/build-serverless-api-with-functions-api-management/",
       "length": "PT41M",
       "ratings": {
-        "count": 1122,
-        "average": 4.6087346
+        "count": 1123,
+        "average": 4.6090827
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3584,8 +3590,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/chain-azure-functions-data-using-bindings/",
       "length": "PT1H10M",
       "ratings": {
-        "count": 2721,
-        "average": 4.5725837
+        "count": 2723,
+        "average": 4.5725303
       },
       "provider": {
         "name": "Microsoft Learn",
