@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/new-datadog-integration-with-azur
 webUrl: "https://azure.microsoft.com/blog/new-datadog-integration-with-azure-offers-a-seamless-configuration-experience/"
 type: article
 quality: 101
-heat: 141
+heat: 161
 published: true
 
 provider:
@@ -57,6 +57,15 @@ related:
         width: 1034
         height: 630
         isCached: true
+  - title: "Microsoft Azure customers can now implement Datadog as a monitoring solution for their cloud workloads"
+    excerpt: "Datadog announced a new strategic partnership with Microsoft Azure and is now be available in the Azure console as a first class service."
+    publishedDateTime: 2020-10-01T23:33:00Z
+    webUrl: "https://www.helpnetsecurity.com/2020/10/02/datadog-microsoft-azure/"
+    type: article
+    provider:
+      name: Help Net Security
+      domain: helpnetsecurity.com
+    quality: 1
 
 secured: "zHF2EiWyVEEi2klQPHk5qJMJKN23OOMIvFe4patJLT7r+YsRHKp3X3z6pBAI6bUCr6Hs2dvQsJqsjtz6dp/mRWEUl8thQ4CPY+SAAhm4ouZRXGmNSFAa8cBAEfIWE67HlTXZXXZPeV1OZDu+66NWgcQUeJ7cBz0WIpzy27ittjVFRKNomviNGMlfFwBHjfS4Fcv7ZOVhI6pYC7PEbvsIR7CQVQ8Wy+E+PBpz0/SVV2Qae5ib+SbHh7SQ8iGeZ9u9bwRVoF5OSNpaR+C5/s846D+Du/cp4bsAGnc58rB17HEON13yfd6fRd9d+8aPXshYVDNVeDZ83S9nj4zJPC6Su4SZH/zlzbyag0r2dmAWRFE=;ONQLxK1A6jMIwAp0yaKXQA=="
 ---

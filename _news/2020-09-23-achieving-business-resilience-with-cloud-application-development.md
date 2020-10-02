@@ -56,6 +56,15 @@ related:
         width: 848
         height: 385
         isCached: true
+  - title: "Microsoft Azure customers can now implement Datadog as a monitoring solution for their cloud workloads"
+    excerpt: "Datadog announced a new strategic partnership with Microsoft Azure and is now be available in the Azure console as a first class service."
+    publishedDateTime: 2020-10-01T23:33:00Z
+    webUrl: "https://www.helpnetsecurity.com/2020/10/02/datadog-microsoft-azure/"
+    type: article
+    provider:
+      name: Help Net Security
+      domain: helpnetsecurity.com
+    quality: 1
 
 secured: "FJVcKc7OSM1kUpInZOgJ3LRzxig1sFHwnN1wLDqvPyHZWVmjK2eYmjCChZFl8RisushAjnUSlnRj6gnFuDnOVFpWvPn3gaWQX3ZxUDRj0VjKatN6yIMgm4xw8Y6aJesIJK8F0ESAoXxrUGSyYxPZa/P0oOGpokDf4L0eGrMs36313QhytOAL3oS4so9j30aeZSzcoXkITwiGoPDw16MlOcLE+VeZgdAQT/1s3W5Tl5ksX6hDXxon6yr+SseTnHab2570swExj7bvkyZu4qbGrOfPtUrRGV0wko8BCJJeda3guqeHETYpyvvGlOsJ10zWZ3Ly1RXzJrNXNZpqTcrC1WKWLi4Oc7h/sxScYpNnv90=;KZlvhl8ItvKTigIqj0p6uw=="
 ---
