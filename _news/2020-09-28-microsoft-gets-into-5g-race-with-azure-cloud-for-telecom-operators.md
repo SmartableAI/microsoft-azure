@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Microsoft Acquires ADRM for Azure Cloud, Intelligent Data Lakes"
-excerpt: "Microsoft acquires ADRM Software; sets stage for Azure customers & channel partners to build intelligent cloud data lakes."
-publishedDateTime: 2020-06-18T21:49:00Z
-webUrl: "https://www.channele2e.com/investors/mergers-acquisitions/microsoft-buys-adrm-azure-intelligent-data-lakes/"
+title: "Microsoft Gets Into 5G Race With Azure Cloud for Telecom Operators"
+excerpt: "Microsoft Corp unveiled a new cloud platform on Monday aimed at enabling telecom operators to build 5G networks faster, reduce costs and sell customised services to business clients. After banning China's Huawei from its telecom network,"
+publishedDateTime: 2020-09-28T15:25:00Z
+originalUrl: "https://www.usnews.com/news/top-news/articles/2020-09-28/microsoft-gets-into-5g-race-with-azure-cloud-for-telecom-operators"
+webUrl: "https://www.usnews.com/news/top-news/articles/2020-09-28/microsoft-gets-into-5g-race-with-azure-cloud-for-telecom-operators"
+ampWebUrl: "https://www.usnews.com/news/top-news/articles/2020-09-28/microsoft-gets-into-5g-race-with-azure-cloud-for-telecom-operators?context=amp"
+cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2020-09-28/microsoft-gets-into-5g-race-with-azure-cloud-for-telecom-operators?context=amp"
 type: article
-quality: 37
+quality: 77
 heat: -1
 published: false
 
 provider:
-  name: ChannelE2E
-  domain: channele2e.com
+  name: U.S. News & World Report
+  domain: usnews.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/usnews.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
-
-images:
-  - url: "https://www.channele2e.com/wp-content/uploads/2020/06/Ravi-Krishnaswamy.jpg"
-    width: 300
-    height: 300
-    isCached: true
-    title: "Microsoft Acquires ADRM for Azure Cloud, Intelligent Data Lakes"
 
 related:
   - title: "Microsoft launches Azure Orbital to connect satellites to its cloud"
@@ -369,17 +369,6 @@ related:
     provider:
       name: Nasdaq
       domain: nasdaq.com
-    quality: 77
-  - title: "Microsoft Gets Into 5G Race With Azure Cloud for Telecom Operators"
-    excerpt: "Microsoft Corp unveiled a new cloud platform on Monday aimed at enabling telecom operators to build 5G networks faster, reduce costs and sell customised services to business clients. After banning China's Huawei from its telecom network,"
-    publishedDateTime: 2020-09-28T15:25:00Z
-    webUrl: "https://www.usnews.com/news/top-news/articles/2020-09-28/microsoft-gets-into-5g-race-with-azure-cloud-for-telecom-operators"
-    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2020-09-28/microsoft-gets-into-5g-race-with-azure-cloud-for-telecom-operators?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2020-09-28/microsoft-gets-into-5g-race-with-azure-cloud-for-telecom-operators?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
     quality: 77
   - title: "TransientAccess Now Available in the Microsoft Azure Marketplace"
     excerpt: "September 28th, 2020 - TransientX, transforming fixed and device-centric networks to disposable networks of apps, today announced the availability of TransientAccess Zero-Trust Network Access in the Microsoft Azure Marketplace,"
@@ -848,6 +837,20 @@ related:
       - url: "https://www.datacenterknowledge.com/sites/datacenterknowledge.com/files/cloud-secured-with-chains.jpg"
         width: 1540
         height: 800
+        isCached: true
+  - title: "Microsoft Acquires ADRM for Azure Cloud, Intelligent Data Lakes"
+    excerpt: "Microsoft acquires ADRM Software; sets stage for Azure customers & channel partners to build intelligent cloud data lakes."
+    publishedDateTime: 2020-06-18T21:49:00Z
+    webUrl: "https://www.channele2e.com/investors/mergers-acquisitions/microsoft-buys-adrm-azure-intelligent-data-lakes/"
+    type: article
+    provider:
+      name: ChannelE2E
+      domain: channele2e.com
+    quality: 37
+    images:
+      - url: "https://www.channele2e.com/wp-content/uploads/2020/06/Ravi-Krishnaswamy.jpg"
+        width: 300
+        height: 300
         isCached: true
   - title: "Microsoft Azure launches medical data-mining tool"
     excerpt: "Microsoft announced July 8 a new artificial intelligence tool for its cloud platform Azure that allows developers to analyze unstructured medical data, including clinical notes, clinical trial protocols and medical publications."
@@ -1504,6 +1507,6 @@ related:
         height: 450
         isCached: true
 
-secured: "5yZuovD8/okCX5kdW95ooY1t7x6g4TtsHq9Z4TQb1/0Cbk/hl/5DfPyHF3FlyQ66BfkXGJtpNn0+CitpWQSDo/x9CqCElLH9GM92NaLlxlSezxoHPSKmOsTiLqrzXbMXYH4p3ozcH0twG1V9T1fvKA/oAknxEYBGo9XD1oxGRGPVPO5HADPwPNxYMKOM2pDj/k5xnk5AjSKgDVEdwMB5EiZ+gULhPm6ARhX5PD9JOpjH4Gr7iW8iMcYbvV8bLH24/9jrcBSjyTsUicaPW1fHgRBA3nCJBQVEUCTXXaHevVM7Ju2hyzdZoBIIZiNM8XIf0fQeGVaXmYa1qRZkkv8MbMd8Ri4EMybbmBqu5ZdVSanAvqDWD9UyAQ/wKUMVbPDMw5R4hFySZxSqeOhHf8iPPyY1UUo3bA+74Fhjc3MRaBT+DBOvo0s9cycpnDZorl/B/tiU94n7AF3SrOXyGEi6Z0GmYMHijZ4vx8a1B6sUjT7a9d0RJqiZLcEnlsX6SmnHeb6m0e7G3kJiESAveCCsGA==;gVhhyZalnj2zS2m1S4ktCg=="
+secured: "7VDJ7Ub1Hionu2gTt07SCVV9IaRRJpKXaUffIJvCLHvas5YA3v1AP29sq7L+p1XV6irJ3tDQ6feP0Pp/E7rI33x0N39VYSoXEHGNq6p4AfppHnRieW1RZjfMqi/TcF5TwCqnznqTt2NOxjdsRX2i27iXhRS/h3Rgn04dtFtBd4UpnatP2hq7JsUYp2rSH0GuUS5grKcxlxOKucRb45MNBUY6VJ+a0Xtdg3ui/bTmWuCVW8EqDS9QP2A0KSOooL0gSy1zKiys4QUxdyVR58HyQsmTHb+JRnV0iwnA/tSbguiMjnW5EpI5UCa5C32IqUWK8drNd7/UvDjr/RFEo1tslXDhrW1kJjxMkIlXF7GcoX+FPnSOUqy6aulAQ2MohJRdLtG6oqK3PCk+LS8VeVNp13b97eboJWUTN77OYOgIZplkc7hpIpQC2RU8AQoA7YaCLrTax9E2e0B6yQ0/ot2L73xs7+kgOlQ+fgt3L0tDreGDtHOM9NC1WVO7OK0H4i78MgffPl+b2rRamL2HJmibuw==;+DwbcaX4krsLr/ByapW5YQ=="
 ---
 

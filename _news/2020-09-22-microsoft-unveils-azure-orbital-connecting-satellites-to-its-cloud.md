@@ -371,6 +371,17 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 77
+  - title: "Microsoft Gets Into 5G Race With Azure Cloud for Telecom Operators"
+    excerpt: "Microsoft Corp unveiled a new cloud platform on Monday aimed at enabling telecom operators to build 5G networks faster, reduce costs and sell customised services to business clients. After banning China's Huawei from its telecom network,"
+    publishedDateTime: 2020-09-28T15:25:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2020-09-28/microsoft-gets-into-5g-race-with-azure-cloud-for-telecom-operators"
+    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2020-09-28/microsoft-gets-into-5g-race-with-azure-cloud-for-telecom-operators?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2020-09-28/microsoft-gets-into-5g-race-with-azure-cloud-for-telecom-operators?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 77
   - title: "TransientAccess Now Available in the Microsoft Azure Marketplace"
     excerpt: "September 28th, 2020 - TransientX, transforming fixed and device-centric networks to disposable networks of apps, today announced the availability of TransientAccess Zero-Trust Network Access in the Microsoft Azure Marketplace,"
     publishedDateTime: 2020-09-28T14:28:00Z
