@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/power-missioncritical-application
 webUrl: "https://azure.microsoft.com/blog/power-missioncritical-applications-with-azure-database-for-postgresql/"
 type: article
 quality: 101
-heat: 261
+heat: 241
 published: true
 
 provider:
@@ -37,15 +37,6 @@ related:
     excerpt: "Azure Database for PostgreSQL Flexible Server is a new deployment option that provides better control and flexibility, more options for high availability, and cost optimization controls."
     publishedDateTime: 2020-09-22T20:00:01Z
     webUrl: "https://azure.microsoft.com/en-us/updates/azure-database-for-postgresql-flexible-server-now-in-preview/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 99
-  - title: "Long term retention for Azure Database for PostgreSQL-Single Server"
-    excerpt: "Preview of long-term retention of data for Azure Database for PostgreSQL-Single Server is now available."
-    publishedDateTime: 2020-09-30T16:01:35Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/long-term-retention-for-azure-database-for-postgresql-single-server/"
     type: article
     provider:
       name: Microsoft

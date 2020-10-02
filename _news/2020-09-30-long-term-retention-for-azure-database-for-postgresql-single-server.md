@@ -23,78 +23,42 @@ topics:
   - Databases
 
 related:
-  - title: "Power mission-critical applications with Azure Database for PostgreSQL"
-    excerpt: "In our current environment, organizations are increasingly looking towards digital solutions to engage their customers and remain competitive. "
-    publishedDateTime: 2020-08-24T10:00:16Z
-    webUrl: "https://azure.microsoft.com/blog/power-missioncritical-applications-with-azure-database-for-postgresql/"
+  - title: "Reserved capacity on Azure SQL Database Hyperscale is now available"
+    excerpt: "Obtain discounts on Azure SQL Database Hyperscale using reserved capacity."
+    publishedDateTime: 2020-10-02T16:00:23Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/reserved-capacity-on-azure-sql-database-hyperscale-is-now-available/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 101
-  - title: "Azure HDInsight and Azure Database for PostgreSQL news"
-    excerpt: "I’ve been committed to open source software for over a decade because it fosters a deep collaboration across the developer community, resulting in ground-breaking innovation. At the heart of open source is the freedom to learn from each other and share ideas, empowering the brightest minds to work together"
-    publishedDateTime: 2020-03-02T10:00:11Z
-    webUrl: "https://azure.microsoft.com/blog/azure-hdinsight-and-azure-database-for-postgresql-news/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 99
-  - title: "Azure Database for PostgreSQL Flexible Server now in preview"
-    excerpt: "Azure Database for PostgreSQL Flexible Server is a new deployment option that provides better control and flexibility, more options for high availability, and cost optimization controls."
-    publishedDateTime: 2020-09-22T20:00:01Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-database-for-postgresql-flexible-server-now-in-preview/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 99
-  - title: "Minimal TLS version setting is now available for Azure Database for PostgreSQL"
+    quality: 114
+  - title: "Azure SQL Database Hyperscale—Change tracking support now available"
     excerpt: ""
-    publishedDateTime: 2020-06-04T17:00:39Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-database-for-postgresql-minimal-tls-version/"
+    publishedDateTime: 2020-04-15T16:00:49Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-sql-database-hyperscale-change-tracking-support-now-available/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 13
-  - title: "Azure Private Link for Azure Database for PostgreSQL now in Azure government regions"
-    excerpt: ""
-    publishedDateTime: 2020-05-04T18:00:05Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-private-link-for-azure-database-for-postgresql-now-in-azure-government-regions/"
+    quality: 17
+  - title: "One- and three- year reserved capacity for Azure DB for PostgreSQL-Hyperscale (Citus)"
+    excerpt: "Azure Database for PostgreSQL-Hyperscale (Citus) reserved capacity is now available to reserve compute power for your existing and future Hyperscale (Citus) server groups. "
+    publishedDateTime: 2020-07-21T21:17:07Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/one-and-three-year-reserved-capacity-for-azure-database-for-postgresqhyperscale-citus/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
     quality: 10
-  - title: "Data encryption with customer managed keys for Azure DB for PostgreSQL-single server "
-    excerpt: "Data encryption with customer-managed keys for Azure Database for PostgreSQL-single server (generally available) enables you to bring your own key (BYOK) for data protection at rest. "
-    publishedDateTime: 2020-08-10T16:00:07Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/data-encryption-with-customer-managed-keys-for-azure-db-for-postgresqlsingle-server/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 10
-  - title: "Azure Database for PostgreSQL support for encryption at rest using customer-managed keys"
+  - title: "Transparent data encryption with customer-managed keys for Azure SQL Database Hyperscale"
     excerpt: ""
-    publishedDateTime: 2020-06-09T19:00:01Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-database-for-postgresql-encryption-at-rest-byok-preview/"
+    publishedDateTime: 2020-06-10T16:00:20Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/transparent-data-encryption-with-customermanaged-keys-for-azure-sql-database-hyperscale/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
     quality: 8
-  - title: "Infrastructure double encryption for Azure Database for PostgreSQL-single server is in preview"
-    excerpt: "Infrastructure double encryption adds a second layer of encryption using a FIPS 140-2 validated cryptographic module and a different encryption algorithm which gives an additional layer of protection for your data at rest."
-    publishedDateTime: 2020-08-10T16:00:06Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/infrastructure-double-encryption-for-azure-database-for-postgresqlsingle-server-is-in-public-preview/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 5
 
 secured: "25tq7PPpg7ZXKmfrJ6DX2Uh2ieVElz3728ORkQkdu6En2Q7Zz3agV9j5Y46cxZQ9TH6D382VGStL8QfAtp+7akEDo7Oo702aKU8W7zkgNe+SHZR4Tx7h35Qedx/62izsXzdQpfqhLvxP+2HneYUTjyS2ymggMSLf+qn88VDb7Z5fiB+2RuLAg/YaJDC7+V1wKlQHyeH6AE6Xv3jv1GIEHzo8GmaT3RIM1NbhWaW0xWZr69cf8G7TPGHeKlk7XRV/0aqZmdDrCQemg8uHpUH8Q6/Iyl5nuGBul6bB/HOPTv4m0vgfCV+HLzk+FgoHRdtkyph2f0My0fxCeY/iLCq1hJ2Ea0qtnls9hWGfLcII3wQ=;Ee6WJf90EqF9Ux4JTq+SSQ=="
 ---

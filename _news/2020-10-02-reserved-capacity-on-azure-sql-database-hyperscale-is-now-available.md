@@ -1,13 +1,14 @@
 ---
 category: news
-title: "Azure SQL Database Hyperscale—Change tracking support now available"
-excerpt: ""
-publishedDateTime: 2020-04-15T16:00:49Z
-webUrl: "https://azure.microsoft.com/en-us/updates/azure-sql-database-hyperscale-change-tracking-support-now-available/"
+title: "Reserved capacity on Azure SQL Database Hyperscale is now available"
+excerpt: "Obtain discounts on Azure SQL Database Hyperscale using reserved capacity."
+publishedDateTime: 2020-10-02T16:00:23Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/reserved-capacity-on-azure-sql-database-hyperscale-is-now-available/"
+webUrl: "https://azure.microsoft.com/en-us/updates/reserved-capacity-on-azure-sql-database-hyperscale-is-now-available/"
 type: article
-quality: 17
-heat: -1
-published: false
+quality: 114
+heat: 194
+published: true
 
 provider:
   name: Microsoft
@@ -19,17 +20,9 @@ provider:
 
 topics:
   - Azure
+  - Databases
 
 related:
-  - title: "Reserved capacity on Azure SQL Database Hyperscale is now available"
-    excerpt: "Obtain discounts on Azure SQL Database Hyperscale using reserved capacity."
-    publishedDateTime: 2020-10-02T16:00:23Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/reserved-capacity-on-azure-sql-database-hyperscale-is-now-available/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 114
   - title: "Long term retention for Azure Database for PostgreSQL-Single Server"
     excerpt: "Preview of long-term retention of data for Azure Database for PostgreSQL-Single Server is now available."
     publishedDateTime: 2020-09-30T16:01:35Z
@@ -39,6 +32,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 99
+  - title: "Azure SQL Database Hyperscale—Change tracking support now available"
+    excerpt: ""
+    publishedDateTime: 2020-04-15T16:00:49Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-sql-database-hyperscale-change-tracking-support-now-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 17
   - title: "One- and three- year reserved capacity for Azure DB for PostgreSQL-Hyperscale (Citus)"
     excerpt: "Azure Database for PostgreSQL-Hyperscale (Citus) reserved capacity is now available to reserve compute power for your existing and future Hyperscale (Citus) server groups. "
     publishedDateTime: 2020-07-21T21:17:07Z
@@ -58,6 +60,6 @@ related:
       domain: microsoft.com
     quality: 8
 
-secured: "G8EXnTj73zD0EUn0z6YKVcpuZ8lXso7BvOkDQ05wBdJMROeTX283HPdkat6oxSGGkwwUAU4zPn83kAOEgIK5teyMHfM67E8FrvnvmC5+MF61GecXfuHGM3BCcP5fLskV88Id0GtsmC8lFGhBlpoWULDBM2936dwz9yh0DKL3/f+slOkesjtqurpVKwd7ym0DgN4tR2BhSVnva3QQctBXh4Y3MDe5EE6goJ11wRyiRPnhEoryHk0Ejy4nZOeyXnYglRkz4qvdl19ooPzgphJc9l1Ba4kJ4zIRaIVJxyVUc6VjlezP8bYkqirYdzik6LbHb9t0c4BVs/1pNsdC3VmYXA==;GpGY35i2PPhkcmzHcj8tng=="
+secured: "X1RZvCqJ7ah1bhWZ/36fF5a5NV5hL2aBtPxcy5YnzglR8lfwIT473wlYVztg4gFkt2Dtn12B/n+HktzqZIPsciy8hrAaVyzNnsaeNkEyyEvKGdLmsg79D9pcKHem0NVmRmbBqAf//vi1GVgAwDpixjQE+g1YdJQrUCK5T3akUF/paUiCSLEquDrNVCXAAqIWcvwGfkG6yZOJmcwUnmxbsmPzv5icSKmTDX2c4aYF1JRqaznJcEF9b41lzHj6N3O0fL9BiC/0liKJHYoA0Qu2rbaY4DGbmaV6g8MVotZIsDwG3PX7ol2WO878+yeGUOXaKBQlhT/QmF46cr8s7L1ZbUiepDLI9vA2ebGM6Pp5M7I=;EYKAFE+YVfRLhSH4aNvWgQ=="
 ---
 

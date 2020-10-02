@@ -30,15 +30,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 17
-  - title: "Transparent data encryption with customer-managed keys for Azure SQL Database Hyperscale"
-    excerpt: ""
-    publishedDateTime: 2020-06-10T16:00:20Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/transparent-data-encryption-with-customermanaged-keys-for-azure-sql-database-hyperscale/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 8
 
 secured: "0QtbF6tP/GkY3KVM7jITPuDbHcx4NObsroo9CPghokO70Pn7ZkzrAWMZB6ku/yi/rt6UKjz7zZalBI9gNh+RPj68nXdSQpqFHbK9VklTPVa7yXmT8HcfNP2EeF+py6Wd9HEOn+Re9GpgbzPG3C9CMDb9NSgD+bLPzH8Rp1+714CtpOpAkhI/nj9GRIvlLvdcKyaWfrto6YVdWKszmsKHfWC/Mhcs9y1wWUYGW3IfL36Dkbdna6y/kyXUb5s732INoRgS6nHRm3ULFOJ1Rht8grIkV4zTNHxdjwFVPJ4gyhRXIcKch0go/aeSQOqatov/G/SRIioKndzQzw0gkEox1w==;3icd720wfzGAp4wjADPvbQ=="
 ---
