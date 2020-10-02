@@ -2,7 +2,7 @@
 title: "Azure Friday"
 excerpt: "Join Scott Hanselman, Donovan Brown, and Lara Rubbelke as they host the engineers who build & use Azure, demo it, answer questions, and share insights."
 type: collection
-heat: 64
+heat: 134
 
 provider:
   name: Microsoft
@@ -13,6 +13,7 @@ provider:
       height: 50
 
 items:
+  - videos/microsoft-azure-load-balancer-insights-using-azure-monitor-for-networks-azure-friday
   - videos/microsoft-azure-container-instances-aci-under-the-hood-azure-friday
   - videos/microsoft-code-to-cloud-with-docker-and-azure-container-instances-azure-friday
   - videos/microsoft-prepare-your-cloud-environments-using-azure-landing-zones-azure-friday
@@ -62,13 +63,12 @@ items:
   - videos/microsoft-how-to-connect-virtual-networks-across-azure-regions-with-azure-global-vnet-peering-azure-friday
   - videos/microsoft-how-to-share-sql-tables-and-views-using-azure-data-share-azure-friday
   - videos/microsoft-how-to-use-azure-ultra-disks-with-azure-virtual-machines-azure-friday
-  - videos/microsoft-how-to-connect-windows-server-to-azure-hybrid-services-using-windows-admin-center-azure-friday
 
 topics:
   - Azure
 
 images:
-  - url: https://i.ytimg.com/vi/giQLmxMKAKE/maxresdefault.jpg
+  - url: https://i.ytimg.com/vi/qfzOTNKYTgU/maxresdefault.jpg
     width: 1280
     height: 720
     isCached: true
