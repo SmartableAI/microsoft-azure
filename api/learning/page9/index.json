@@ -4,121 +4,6 @@
   "page": 9,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-chain-azure-functions-data-using-input-output-bindings.md",
-      "title": "Chain Azure Functions together using input and output bindings",
-      "excerpt": "In this module, we'll learn how to integrate your Azure Function with various data sources by using bindings.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-chain-azure-functions-data-using-input-output-bindings/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/chain-azure-functions-data-using-bindings/",
-      "length": "PT1H10M",
-      "ratings": {
-        "count": 2723,
-        "average": 4.5725303
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 57,
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Databases",
-        "Compute",
-        "Serverless",
-        "Storage"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-configure-the-network-for-your-virtual-machines.md",
-      "title": "Configure the network for your virtual machines",
-      "excerpt": "Learn how to connect your local on-premises networks into Azure using virtual networks, VPN gateways, and Azure ExpressRoute.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-configure-the-network-for-your-virtual-machines/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/configure-network-for-azure-virtual-machines/",
-      "length": "PT1H34M",
-      "ratings": {
-        "count": 3650,
-        "average": 4.5553427
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 57,
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Compute",
-        "Networking"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-control-network-traffic-flow-with-routes.md",
-      "title": "Manage and control traffic flow in your Azure deployment with routes",
-      "excerpt": "Learn how to control Azure virtual network traffic by implementing custom routes.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-control-network-traffic-flow-with-routes/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/control-network-traffic-flow-with-routes/",
-      "length": "PT50M",
-      "ratings": {
-        "count": 1747,
-        "average": 4.6296506
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 57,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/control-network-traffic-flow-with-routes-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Compute",
-        "Networking"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-create-security-baselines.md",
       "title": "Create security baselines",
       "excerpt": "Create security baselines",
@@ -210,8 +95,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/distribute-load-with-traffic-manager/",
       "length": "PT29M",
       "ratings": {
-        "count": 2078,
-        "average": 4.5466795
+        "count": 2079,
+        "average": 4.5468974
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -252,8 +137,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/evolving-world-of-data/",
       "length": "PT28M",
       "ratings": {
-        "count": 4703,
-        "average": 4.677015
+        "count": 4704,
+        "average": 4.6770835
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -286,6 +171,47 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-explore-concepts-of-non-relational-data.md",
+      "title": "Explore concepts of non-relational data",
+      "excerpt": "Explore concepts of non-relational data",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-explore-concepts-of-non-relational-data/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/explore-concepts-of-non-relational-data/",
+      "length": "PT26M",
+      "ratings": {
+        "count": 467,
+        "average": 4.828694
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 57,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/explore-concepts-of-non-relational-data-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-provision-azure-sql-db.md",
       "title": "Provision an Azure SQL database to store application data",
       "excerpt": "Find out what makes Azure SQL Database a good choice for your relational database, how to create the database from the portal and connect with Azure Cloud Shell.",
@@ -293,8 +219,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/provision-azure-sql-db/",
       "length": "PT50M",
       "ratings": {
-        "count": 4676,
-        "average": 4.650556
+        "count": 4677,
+        "average": 4.650417
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -328,8 +254,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/troubleshoot-azure-network-infrastructure/",
       "length": "PT37M",
       "ratings": {
-        "count": 2047,
-        "average": 4.573522
+        "count": 2048,
+        "average": 4.5737305
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -370,8 +296,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/add-custom-domain-name-azure-active-directory/",
       "length": "PT18M",
       "ratings": {
-        "count": 836,
-        "average": 4.662679
+        "count": 837,
+        "average": 4.6630826
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -412,8 +338,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/scale-sql-databases-elastic-pools/",
       "length": "PT39M",
       "ratings": {
-        "count": 3408,
-        "average": 4.5780516
+        "count": 3409,
+        "average": 4.5778823
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -651,50 +577,6 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-deploy-run-container-app-service.md",
-      "title": "Deploy and run a containerized web app with Azure App Service",
-      "excerpt": "Discover how to create a Docker image and store it in the Azure Container Registry, then use Azure App Service to deploy a web application based on the image.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-deploy-run-container-app-service/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/deploy-run-container-app-service/",
-      "length": "PT46M",
-      "ratings": {
-        "count": 3833,
-        "average": 4.6261415
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 56,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/deploy-run-container-app-service-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Compute",
-        "Web",
-        "Containers"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-design-a-hybrid-network-architecture.md",
       "title": "Design a hybrid network architecture on Azure",
       "excerpt": "You have a traditional on-premises infrastructure that you need to connect to resources in Azure. In this module, you learn how to select a connectivity method for your use cases that balances functionality, cost, and security.",
@@ -702,8 +584,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/design-a-hybrid-network-architecture/",
       "length": "PT47M",
       "ratings": {
-        "count": 1148,
-        "average": 4.634146
+        "count": 1149,
+        "average": 4.6344647
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -778,47 +660,6 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-explore-concepts-of-non-relational-data.md",
-      "title": "Explore concepts of non-relational data",
-      "excerpt": "Explore concepts of non-relational data",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-explore-concepts-of-non-relational-data/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/explore-concepts-of-non-relational-data/",
-      "length": "PT26M",
-      "ratings": {
-        "count": 467,
-        "average": 4.828694
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 56,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/explore-concepts-of-non-relational-data-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-get-started-with-devops.md",
       "title": "Get started with Azure DevOps",
       "excerpt": "Explore Azure DevOps capabilities and get started setting up your own organization knowing what separates elite performers from low performers.",
@@ -826,8 +667,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/get-started-with-devops/",
       "length": "PT25M",
       "ratings": {
-        "count": 6934,
-        "average": 4.7216616
+        "count": 6935,
+        "average": 4.7217016
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -853,6 +694,48 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-intro-to-azure-ad.md",
+      "title": "Secure your identities by using Azure Active Directory",
+      "excerpt": "Use Azure Active Directory to you secure your internal, external, and customer identities.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-to-azure-ad/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/intro-to-azure-ad/",
+      "length": "PT27M",
+      "ratings": {
+        "count": 1563,
+        "average": 4.6807423
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 56,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/intro-to-azure-ad-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Identity"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-intro-to-hpc.md",
       "title": "Introduction to high-performance computing (HPC) on Azure",
       "excerpt": "Discover the services available on Azure for your high-performance computing workloads.",
@@ -860,8 +743,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/intro-to-hpc/",
       "length": "PT50M",
       "ratings": {
-        "count": 900,
-        "average": 4.557778
+        "count": 902,
+        "average": 4.5587583
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -984,8 +867,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/load-balance-web-traffic-with-application-gateway/",
       "length": "PT1H32M",
       "ratings": {
-        "count": 1971,
-        "average": 4.587012
+        "count": 1972,
+        "average": 4.587221
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1026,8 +909,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/monitor-github-events-with-a-function-triggered-by-a-webhook/",
       "length": "PT53M",
       "ratings": {
-        "count": 1635,
-        "average": 4.6195717
+        "count": 1636,
+        "average": 4.6198044
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1069,8 +952,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/protect-infrastructure-with-site-recovery/",
       "length": "PT59M",
       "ratings": {
-        "count": 778,
-        "average": 4.525707
+        "count": 779,
+        "average": 4.5263157
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1153,8 +1036,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/secure-aad-users-with-mfa/",
       "length": "PT38M",
       "ratings": {
-        "count": 1336,
-        "average": 4.6811376
+        "count": 1337,
+        "average": 4.681376
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1189,6 +1072,41 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-secure-your-azure-sql-database.md",
+      "title": "Secure your Azure SQL Database",
+      "excerpt": "Secure an Azure SQL database to keep the information safe and diagnose potential security concerns as they happen.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-secure-your-azure-sql-database/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/secure-your-azure-sql-database/",
+      "length": "PT1H7M",
+      "ratings": {
+        "count": 3997,
+        "average": 4.5331497
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 56,
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Management Tools",
+        "Databases"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-store-app-data-with-azure-blob-storage.md",
       "title": "Store application data with Azure Blob storage",
       "excerpt": "Discover how to build an app that stores user files with Azure Blob storage, use Blob storage in a web app, and use the Azure Storage SDK for .NET Core.",
@@ -1196,8 +1114,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/store-app-data-with-azure-blob-storage/",
       "length": "PT50M",
       "ratings": {
-        "count": 2849,
-        "average": 4.5752897
+        "count": 2850,
+        "average": 4.5754385
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1220,6 +1138,83 @@
       "topics": [
         "Azure",
         "Storage"
+      ]
+    },
+    {
+      "path": "_learning/videos/microsoft-how-to-create-a-virtual-machine-in-azure-azure-portal-series.md",
+      "title": "How to create a virtual machine in Azure | Azure Portal Series",
+      "excerpt": "Azure provides multiple virtual machine configuration options for you to set up your virtual machine exactly how you want for whatever you're trying to do. In this video of the Azure Portal “How To” Series, learn how to configure a basic virtual machine and connect to it in minutes in the Azure portal.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-how-to-create-a-virtual-machine-in-azure-azure-portal-series/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-how-to-create-a-virtual-machine-in-azure-azure-portal-series/",
+      "originalUrl": "https://youtube.com/watch?v=rOiSRkxtTeU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/rOiSRkxtTeU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT7M18S",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2019-01-30T08:31:34-08:00",
+      "heat": 56,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/rOiSRkxtTeU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Management tools",
+        "Compute"
+      ]
+    },
+    {
+      "path": "_learning/videos/microsoft-how-to-create-app-services-in-the-azure-portal-azure-portal-series.md",
+      "title": "How to create App Services in the Azure portal | Azure Portal Series",
+      "excerpt": "In this video of the Azure Portal “How To” Series, you will learn how to create web apps using the Azure App service in the Azure portal.   Try out these features in the Azure portal: https://portal.azure.com    Keep connected on Twitter: https://twitter.com/AzurePortal     And make sure to keep an eye",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-how-to-create-app-services-in-the-azure-portal-azure-portal-series/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-how-to-create-app-services-in-the-azure-portal-azure-portal-series/",
+      "originalUrl": "https://youtube.com/watch?v=dHTzv-zY17I",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/dHTzv-zY17I\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M53S",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2019-07-03T09:54:47-07:00",
+      "heat": 56,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/dHTzv-zY17I/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Management tools"
       ]
     }
   ],

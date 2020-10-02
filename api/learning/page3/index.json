@@ -4,248 +4,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_learning/collections/microsoft-learn-monitor-and-optimize-operational-resources-in-sql-server.md",
-      "title": "Monitor and optimize operational resources in SQL Server",
-      "excerpt": "Configure hardware and server resources for optimum performance after establishing a baseline. Identify sources of performance problems. Troubleshoot using Azure SQL Intelligent Insights.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-monitor-and-optimize-operational-resources-in-sql-server/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-monitor-and-optimize-operational-resources-in-sql-server/",
-      "length": "PT2H40M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "topItems": [
-        {
-          "path": "_learning/courses/microsoft-learn-describe-performance-monitoring.md",
-          "title": "Describe performance monitoring",
-          "excerpt": "Compare Azure and on-premises tools for monitoring and measuring performance. Determine critical metrics. Understand the purpose of a baseline for comparative analysis.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-describe-performance-monitoring/index.json",
-          "webUrl": "https://docs.microsoft.com/learn/modules/describe-performance-monitoring/",
-          "length": "PT42M",
-          "ratings": {
-            "count": 415,
-            "average": 4.8168674
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 70,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Databases"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-explore-causes-of-performance-issues.md",
-          "title": "Explore causes of performance issues",
-          "excerpt": "Explore the Query Store for tracking down problematic queries. Understand how SQL Server and Azure SQL manage currency by locking and blocking, or by using snapshots. Implement fragmentation checks and defragmentation.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-explore-causes-of-performance-issues/index.json",
-          "webUrl": "https://docs.microsoft.com/learn/modules/explore-causes-performance-issues/",
-          "length": "PT36M",
-          "ratings": {
-            "count": 351,
-            "average": 4.786325
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 70,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Databases"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-configure-sql-server-resources-for-optimal-performance.md",
-          "title": "Configure SQL Server resources for optimal performance",
-          "excerpt": "Choose the appropriate size and storage options for your Azure SQL databases. Configure server resources such as tempdb. Understand the usage of Resource Governor.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-configure-sql-server-resources-for-optimal-performance/index.json",
-          "webUrl": "https://docs.microsoft.com/learn/modules/configure-sql-server-resources-optimal-performance/",
-          "length": "PT35M",
-          "ratings": {
-            "count": 872,
-            "average": 4.777523
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 95,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/configure-sql-server-resources-for-optimal-performance-social.png",
-              "width": 643,
-              "height": 322,
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Databases"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-configure-databases-for-performance.md",
-          "title": "Configure databases for performance",
-          "excerpt": "Control database-level configuration options. Explore Intelligent Query Processing. Configure Open Source databases for optimum performance.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-configure-databases-for-performance/index.json",
-          "webUrl": "https://docs.microsoft.com/learn/modules/configure-databases-performance/",
-          "length": "PT24M",
-          "ratings": {
-            "count": 312,
-            "average": 4.820513
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 70,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/configure-databases-for-performance-social.png",
-              "width": 643,
-              "height": 321,
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Databases"
-          ]
-        }
-      ],
-      "size": 5,
-      "heat": 84,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-introduction-to-azure-virtual-machines.md",
-      "title": "Introduction to Azure virtual machines",
-      "excerpt": "Learn about the decisions you make before creating a virtual machine, the options to create and manage the VM, and the extensions and services you use to manage your VM.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-introduction-to-azure-virtual-machines/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/intro-to-azure-virtual-machines/",
-      "length": "PT1H7M",
-      "ratings": {
-        "count": 14463,
-        "average": 4.6883774
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 84,
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Compute"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-m365-identity-cultural-shift.md",
       "title": "Enable identity protection in Azure Active Directory",
       "excerpt": "Learn about Azure Active Directory (AD) Identity Protection and ways to optimize the end-user experience while benefiting security.",
@@ -253,8 +11,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/m365-identity-cultural-shift/",
       "length": "PT31M",
       "ratings": {
-        "count": 1647,
-        "average": 4.767456
+        "count": 1651,
+        "average": 4.766808
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -295,8 +53,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/principles-cloud-computing-dynamics-365-deployment/",
       "length": "PT45M",
       "ratings": {
-        "count": 2320,
-        "average": 4.715086
+        "count": 2322,
+        "average": 4.7153316
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -323,43 +81,6 @@
         }
       ],
       "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_learning/videos/microsoft-code-to-cloud-with-docker-and-azure-container-instances-azure-friday.md",
-      "title": "Code to Cloud with Docker and Azure Container Instances | Azure Friday",
-      "excerpt": "Chad Metcalf from Docker joins Scott Hanselman to show how to use the Docker CLI to deploy a container to Azure Container Instances (ACI). Using only the Docker CLI, Chad deploys a Minecraft image to ACI and then shares the public IP address with Scott so he can join in the wacky, blocky world!  ACI",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-code-to-cloud-with-docker-and-azure-container-instances-azure-friday/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-code-to-cloud-with-docker-and-azure-container-instances-azure-friday/",
-      "originalUrl": "https://youtube.com/watch?v=2D8FTi-Zvt0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/2D8FTi-Zvt0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT14M43S",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-09-18T08:37:34-07:00",
-      "heat": 83,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/2D8FTi-Zvt0/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "type": "video",
       "price": "Free",
       "topics": [
         "Azure"
@@ -397,8 +118,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/choose-azure-service-to-integrate-and-automate-business-processes/",
           "length": "PT44M",
           "ratings": {
-            "count": 10199,
-            "average": 4.570742
+            "count": 10201,
+            "average": 4.5706306
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -492,7 +213,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 59,
+          "heat": 54,
           "type": "course",
           "price": "Free",
           "topics": [
@@ -666,8 +387,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/create-windows-virtual-machine-in-azure/",
           "length": "PT51M",
           "ratings": {
-            "count": 12589,
-            "average": 4.707046
+            "count": 12591,
+            "average": 4.707013
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -708,8 +429,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/manage-virtual-machines-with-azure-cli/",
           "length": "PT51M",
           "ratings": {
-            "count": 5778,
-            "average": 4.699031
+            "count": 5780,
+            "average": 4.699135
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -856,8 +577,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/create-windows-virtual-machine-in-azure/",
           "length": "PT51M",
           "ratings": {
-            "count": 12589,
-            "average": 4.707046
+            "count": 12591,
+            "average": 4.707013
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -898,8 +619,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/manage-virtual-machines-with-azure-cli/",
           "length": "PT51M",
           "ratings": {
-            "count": 5778,
-            "average": 4.699031
+            "count": 5780,
+            "average": 4.699135
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1012,8 +733,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/azure-well-architected-security/",
           "length": "PT1H2M",
           "ratings": {
-            "count": 2231,
-            "average": 4.705513
+            "count": 2232,
+            "average": 4.705645
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1132,8 +853,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/create-windows-virtual-machine-in-azure/",
           "length": "PT51M",
           "ratings": {
-            "count": 12589,
-            "average": 4.707046
+            "count": 12591,
+            "average": 4.707013
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1225,195 +946,6 @@
       ]
     },
     {
-      "path": "_learning/collections/microsoft-learn-architect-storage-infrastructure-in-azure.md",
-      "title": "Architect storage infrastructure in Azure",
-      "excerpt": "Learn how to architect storage solutions for your applications in Azure.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-architect-storage-infrastructure-in-azure/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-architect-storage-infrastructure-in-azure/",
-      "length": "PT6H7M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "topItems": [
-        {
-          "path": "_learning/courses/microsoft-learn-choose-storage-approach-in-azure.md",
-          "title": "Choose a data storage approach in Azure",
-          "excerpt": "Learn how using Azure Storage, Azure SQL Database, and Azure Cosmos DB - or a combination of them - for your business scenario is the best way to get the most performant solution.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-choose-storage-approach-in-azure/index.json",
-          "webUrl": "https://docs.microsoft.com/learn/modules/choose-storage-approach-in-azure/",
-          "length": "PT30M",
-          "ratings": {
-            "count": 10503,
-            "average": 4.661335
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 74,
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Storage",
-            "Databases"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-create-azure-storage-account.md",
-          "title": "Create an Azure Storage account",
-          "excerpt": "Discover ways to use an Azure Storage account to manage your data for billing, access, and storage location of your blobs, files, queues, and tables.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-create-azure-storage-account/index.json",
-          "webUrl": "https://docs.microsoft.com/learn/modules/create-azure-storage-account/",
-          "length": "PT30M",
-          "ratings": {
-            "count": 6002,
-            "average": 4.7532487
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 65,
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Storage",
-            "Management Tools"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-upload-download-and-manage-data-with-azure-storage-explorer.md",
-          "title": "Upload, download, and manage data with Azure Storage Explorer",
-          "excerpt": "Azure Storage Explorer allows you to quickly view all the storage services under your account. You can browse through, read, and edit data stored in those services through a user-friendly graphical interface.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-upload-download-and-manage-data-with-azure-storage-explorer/index.json",
-          "webUrl": "https://docs.microsoft.com/learn/modules/upload-download-and-manage-data-with-azure-storage-explorer/",
-          "length": "PT37M",
-          "ratings": {
-            "count": 1486,
-            "average": 4.6184387
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 59,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/upload-download-and-manage-data-with-azure-storage-explorer-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Storage",
-            "Databases"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-connect-app-to-azure-storage.md",
-          "title": "Connect an app to Azure Storage",
-          "excerpt": "Create a simple application and add configuration, client library references, and code to connect it to Azure Storage.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-connect-app-to-azure-storage/index.json",
-          "webUrl": "https://docs.microsoft.com/learn/modules/connect-an-app-to-azure-storage/",
-          "length": "PT1H15M",
-          "ratings": {
-            "count": 4865,
-            "average": 4.628366
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 60,
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Storage",
-            "Management Tools"
-          ]
-        }
-      ],
-      "size": 9,
-      "heat": 78,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/upload-download-and-manage-data-with-azure-storage-explorer-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Storage"
-      ]
-    },
-    {
       "path": "_learning/collections/microsoft-learn-manage-resources-in-azure.md",
       "title": "Manage resources in Azure",
       "excerpt": "Learn how to work with the Azure command line and web portal to create, manage, and control cloud based resources.",
@@ -1444,8 +976,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/align-requirements-in-azure/",
           "length": "PT35M",
           "ratings": {
-            "count": 5677,
-            "average": 4.737009
+            "count": 5678,
+            "average": 4.7370553
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1544,8 +1076,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/predict-costs-and-optimize-spending/",
           "length": "PT1H14M",
           "ratings": {
-            "count": 40144,
-            "average": 4.715026
+            "count": 40148,
+            "average": 4.7149796
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1581,195 +1113,6 @@
       ]
     },
     {
-      "path": "_learning/collections/microsoft-learn-store-data-in-azure.md",
-      "title": "Store data in Azure",
-      "excerpt": "This learning path gets you started with the basics of storage management in Azure, Storage Account creation, and choices for data storage.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-store-data-in-azure/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-store-data-in-azure/",
-      "length": "PT3H50M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "topItems": [
-        {
-          "path": "_learning/courses/microsoft-learn-choose-storage-approach-in-azure.md",
-          "title": "Choose a data storage approach in Azure",
-          "excerpt": "Learn how using Azure Storage, Azure SQL Database, and Azure Cosmos DB - or a combination of them - for your business scenario is the best way to get the most performant solution.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-choose-storage-approach-in-azure/index.json",
-          "webUrl": "https://docs.microsoft.com/learn/modules/choose-storage-approach-in-azure/",
-          "length": "PT30M",
-          "ratings": {
-            "count": 10503,
-            "average": 4.661335
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 74,
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Storage",
-            "Databases"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-create-azure-storage-account.md",
-          "title": "Create an Azure Storage account",
-          "excerpt": "Discover ways to use an Azure Storage account to manage your data for billing, access, and storage location of your blobs, files, queues, and tables.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-create-azure-storage-account/index.json",
-          "webUrl": "https://docs.microsoft.com/learn/modules/create-azure-storage-account/",
-          "length": "PT30M",
-          "ratings": {
-            "count": 6002,
-            "average": 4.7532487
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 65,
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Storage",
-            "Management Tools"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-connect-app-to-azure-storage.md",
-          "title": "Connect an app to Azure Storage",
-          "excerpt": "Create a simple application and add configuration, client library references, and code to connect it to Azure Storage.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-connect-app-to-azure-storage/index.json",
-          "webUrl": "https://docs.microsoft.com/learn/modules/connect-an-app-to-azure-storage/",
-          "length": "PT1H15M",
-          "ratings": {
-            "count": 4865,
-            "average": 4.628366
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 60,
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Storage",
-            "Management Tools"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-secure-azure-storage-account.md",
-          "title": "Secure your Azure Storage account",
-          "excerpt": "Learn how Azure Storage provides multilayered security to protect your data with access keys, secure networks, and Advanced Threat Protection monitoring.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-secure-azure-storage-account/index.json",
-          "webUrl": "https://docs.microsoft.com/learn/modules/secure-azure-storage-account/",
-          "length": "PT45M",
-          "ratings": {
-            "count": 7617,
-            "average": 4.640147
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 64,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/data-ai/secure-azure-storage-account-badge-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Storage"
-          ]
-        }
-      ],
-      "size": 5,
-      "heat": 78,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/data-ai/secure-azure-storage-account-badge-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Storage",
-        "Management Tools"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-create-custom-roles-rbac.md",
       "title": "Create custom roles for Azure resources with role-based access control (RBAC)",
       "excerpt": "Learn how to create custom roles for Azure resources with role-based access control (RBAC).",
@@ -1777,8 +1120,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/create-custom-azure-roles-with-rbac/",
       "length": "PT30M",
       "ratings": {
-        "count": 1443,
-        "average": 4.6729035
+        "count": 1448,
+        "average": 4.674033
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1841,8 +1184,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/get-started-ai-fundamentals/",
           "length": "PT27M",
           "ratings": {
-            "count": 2674,
-            "average": 4.726253
+            "count": 2675,
+            "average": 4.726355
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1901,8 +1244,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/create-windows-virtual-machine-in-azure/",
       "length": "PT51M",
       "ratings": {
-        "count": 12589,
-        "average": 4.707046
+        "count": 12591,
+        "average": 4.707013
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1943,8 +1286,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/get-started-ai-fundamentals/",
       "length": "PT27M",
       "ratings": {
-        "count": 2674,
-        "average": 4.726253
+        "count": 2675,
+        "average": 4.726355
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2008,8 +1351,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/connect-on-premises-network-with-vpn-gateway/",
           "length": "PT39M",
           "ratings": {
-            "count": 4891,
-            "average": 4.6008997
+            "count": 4892,
+            "average": 4.600981
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2050,8 +1393,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/connect-on-premises-network-with-expressroute/",
           "length": "PT40M",
           "ratings": {
-            "count": 3270,
-            "average": 4.6669726
+            "count": 3273,
+            "average": 4.667278
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2092,8 +1435,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/secure-and-isolate-with-nsg-and-service-endpoints/",
           "length": "PT43M",
           "ratings": {
-            "count": 5447,
-            "average": 4.6353955
+            "count": 5457,
+            "average": 4.6358805
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2188,416 +1531,6 @@
       ]
     },
     {
-      "path": "_learning/collections/microsoft-learn-az-104-implement-and-manage-storage-in-azure.md",
-      "title": "AZ-104: Implement and manage storage in Azure",
-      "excerpt": "Learn how to manage storage in Azure and prepare for Exam AZ-104: Microsoft Azure Administrator.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-az-104-implement-and-manage-storage-in-azure/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-az-104-implement-and-manage-storage-in-azure/",
-      "length": "PT5H12M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "topItems": [
-        {
-          "path": "_learning/courses/microsoft-learn-create-azure-storage-account.md",
-          "title": "Create an Azure Storage account",
-          "excerpt": "Discover ways to use an Azure Storage account to manage your data for billing, access, and storage location of your blobs, files, queues, and tables.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-create-azure-storage-account/index.json",
-          "webUrl": "https://docs.microsoft.com/learn/modules/create-azure-storage-account/",
-          "length": "PT30M",
-          "ratings": {
-            "count": 6002,
-            "average": 4.7532487
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 65,
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Storage",
-            "Management Tools"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-choose-the-right-disk-storage-for-vm-workload.md",
-          "title": "Choose the right disk storage for your virtual machine workload",
-          "excerpt": "Azure provides a variety of disk storage options for virtual machine workloads. Identify the features of capabilities of each type to ensure your application performs optimally.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-choose-the-right-disk-storage-for-vm-workload/index.json",
-          "webUrl": "https://docs.microsoft.com/learn/modules/choose-the-right-disk-storage-for-vm-workload/",
-          "length": "PT24M",
-          "ratings": {
-            "count": 1650,
-            "average": 4.6654544
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 54,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/choose-the-right-disk-storage-for-vm-workload-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Compute",
-            "Storage"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-secure-azure-storage-account.md",
-          "title": "Secure your Azure Storage account",
-          "excerpt": "Learn how Azure Storage provides multilayered security to protect your data with access keys, secure networks, and Advanced Threat Protection monitoring.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-secure-azure-storage-account/index.json",
-          "webUrl": "https://docs.microsoft.com/learn/modules/secure-azure-storage-account/",
-          "length": "PT45M",
-          "ratings": {
-            "count": 7617,
-            "average": 4.640147
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 64,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/data-ai/secure-azure-storage-account-badge-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Storage"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-store-and-share-with-azure-files.md",
-          "title": "Store and share files in your application with Azure Files",
-          "excerpt": "Azure Files provides a cloud-based file share for storing and sharing files to applications. Whether it's an application hosted in Azure App Service, an Azure VM, or an on-premises app, Azure Files can store and share file access between one or more applications and systems in a secure and failure-resilient manner.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-store-and-share-with-azure-files/index.json",
-          "webUrl": "https://docs.microsoft.com/learn/modules/store-and-share-with-azure-files/",
-          "length": "PT51M",
-          "ratings": {
-            "count": 1221,
-            "average": 4.6126127
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 55,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/store-and-share-with-azure-files-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Storage"
-          ]
-        }
-      ],
-      "size": 8,
-      "heat": 76,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/choose-the-right-disk-storage-for-vm-workload-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Storage",
-        "Migration",
-        "Compute"
-      ]
-    },
-    {
-      "path": "_learning/collections/microsoft-learn-implement-and-manage-storage-for-azure-administrators.md",
-      "title": "Implement and manage storage for Azure administrators",
-      "excerpt": "Learn how to manage storage as an Azure administrators.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-implement-and-manage-storage-for-azure-administrators/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-implement-and-manage-storage-for-azure-administrators/",
-      "length": "PT5H56M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "topItems": [
-        {
-          "path": "_learning/courses/microsoft-learn-create-azure-storage-account.md",
-          "title": "Create an Azure Storage account",
-          "excerpt": "Discover ways to use an Azure Storage account to manage your data for billing, access, and storage location of your blobs, files, queues, and tables.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-create-azure-storage-account/index.json",
-          "webUrl": "https://docs.microsoft.com/learn/modules/create-azure-storage-account/",
-          "length": "PT30M",
-          "ratings": {
-            "count": 6002,
-            "average": 4.7532487
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 65,
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Storage",
-            "Management Tools"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-choose-the-right-disk-storage-for-vm-workload.md",
-          "title": "Choose the right disk storage for your virtual machine workload",
-          "excerpt": "Azure provides a variety of disk storage options for virtual machine workloads. Identify the features of capabilities of each type to ensure your application performs optimally.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-choose-the-right-disk-storage-for-vm-workload/index.json",
-          "webUrl": "https://docs.microsoft.com/learn/modules/choose-the-right-disk-storage-for-vm-workload/",
-          "length": "PT24M",
-          "ratings": {
-            "count": 1650,
-            "average": 4.6654544
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 54,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/choose-the-right-disk-storage-for-vm-workload-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Compute",
-            "Storage"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-secure-azure-storage-account.md",
-          "title": "Secure your Azure Storage account",
-          "excerpt": "Learn how Azure Storage provides multilayered security to protect your data with access keys, secure networks, and Advanced Threat Protection monitoring.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-secure-azure-storage-account/index.json",
-          "webUrl": "https://docs.microsoft.com/learn/modules/secure-azure-storage-account/",
-          "length": "PT45M",
-          "ratings": {
-            "count": 7617,
-            "average": 4.640147
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 64,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/data-ai/secure-azure-storage-account-badge-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Storage"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-store-and-share-with-azure-files.md",
-          "title": "Store and share files in your application with Azure Files",
-          "excerpt": "Azure Files provides a cloud-based file share for storing and sharing files to applications. Whether it's an application hosted in Azure App Service, an Azure VM, or an on-premises app, Azure Files can store and share file access between one or more applications and systems in a secure and failure-resilient manner.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-store-and-share-with-azure-files/index.json",
-          "webUrl": "https://docs.microsoft.com/learn/modules/store-and-share-with-azure-files/",
-          "length": "PT51M",
-          "ratings": {
-            "count": 1221,
-            "average": 4.6126127
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 55,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/store-and-share-with-azure-files-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Storage"
-          ]
-        }
-      ],
-      "size": 9,
-      "heat": 76,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/choose-the-right-disk-storage-for-vm-workload-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Storage",
-        "Migration",
-        "Compute"
-      ]
-    },
-    {
       "path": "_learning/collections/microsoft-learn-secure-your-cloud-data.md",
       "title": "Secure your cloud data",
       "excerpt": "This learning path helps you leverage the built-in Azure services for securing app data, ensuring that only authorized services and clients have access.",
@@ -2629,8 +1562,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/intro-to-security-in-azure/",
           "length": "PT1H16M",
           "ratings": {
-            "count": 44540,
-            "average": 4.703323
+            "count": 44546,
+            "average": 4.703318
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2664,8 +1597,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/top-5-security-items-to-consider/",
           "length": "PT45M",
           "ratings": {
-            "count": 6208,
-            "average": 4.646263
+            "count": 6210,
+            "average": 4.646216
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2740,8 +1673,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/secure-azure-storage-account/",
           "length": "PT45M",
           "ratings": {
-            "count": 7617,
-            "average": 4.640147
+            "count": 7621,
+            "average": 4.640205
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2796,6 +1729,195 @@
       ]
     },
     {
+      "path": "_learning/collections/microsoft-learn-store-data-in-azure.md",
+      "title": "Store data in Azure",
+      "excerpt": "This learning path gets you started with the basics of storage management in Azure, Storage Account creation, and choices for data storage.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-store-data-in-azure/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-store-data-in-azure/",
+      "length": "PT3H50M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-choose-storage-approach-in-azure.md",
+          "title": "Choose a data storage approach in Azure",
+          "excerpt": "Learn how using Azure Storage, Azure SQL Database, and Azure Cosmos DB - or a combination of them - for your business scenario is the best way to get the most performant solution.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-choose-storage-approach-in-azure/index.json",
+          "webUrl": "https://docs.microsoft.com/learn/modules/choose-storage-approach-in-azure/",
+          "length": "PT30M",
+          "ratings": {
+            "count": 10504,
+            "average": 4.661367
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 74,
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Storage",
+            "Databases"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-create-azure-storage-account.md",
+          "title": "Create an Azure Storage account",
+          "excerpt": "Discover ways to use an Azure Storage account to manage your data for billing, access, and storage location of your blobs, files, queues, and tables.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-create-azure-storage-account/index.json",
+          "webUrl": "https://docs.microsoft.com/learn/modules/create-azure-storage-account/",
+          "length": "PT30M",
+          "ratings": {
+            "count": 6003,
+            "average": 4.75329
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 61,
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Storage",
+            "Management Tools"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-connect-app-to-azure-storage.md",
+          "title": "Connect an app to Azure Storage",
+          "excerpt": "Create a simple application and add configuration, client library references, and code to connect it to Azure Storage.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-connect-app-to-azure-storage/index.json",
+          "webUrl": "https://docs.microsoft.com/learn/modules/connect-an-app-to-azure-storage/",
+          "length": "PT1H15M",
+          "ratings": {
+            "count": 4865,
+            "average": 4.628366
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 60,
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Storage",
+            "Management Tools"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-secure-azure-storage-account.md",
+          "title": "Secure your Azure Storage account",
+          "excerpt": "Learn how Azure Storage provides multilayered security to protect your data with access keys, secure networks, and Advanced Threat Protection monitoring.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-secure-azure-storage-account/index.json",
+          "webUrl": "https://docs.microsoft.com/learn/modules/secure-azure-storage-account/",
+          "length": "PT45M",
+          "ratings": {
+            "count": 7621,
+            "average": 4.640205
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 64,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/data-ai/secure-azure-storage-account-badge-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Storage"
+          ]
+        }
+      ],
+      "size": 5,
+      "heat": 76,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/data-ai/secure-azure-storage-account-badge-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Storage",
+        "Management Tools"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-introduce-foundation-pillars-devops.md",
       "title": "Introduce the foundation pillars of DevOps: Culture and Lean Product",
       "excerpt": "DevOps is the union of people, process, and products to enable continuous delivery of value to our end users. Discover the first two foundation pillars of DevOps: Culture and Lean Product.",
@@ -2830,219 +1952,6 @@
       ]
     },
     {
-      "path": "_learning/collections/microsoft-learn-az-400-develop-a-security-and-compliance-plan.md",
-      "title": "AZ-400: Develop a security and compliance plan",
-      "excerpt": "Build strategies around security and compliance and prepare for Exam AZ-400: Designing and Implementing Microsoft DevOps Solutions.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-az-400-develop-a-security-and-compliance-plan/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-az-400-develop-a-security-and-compliance-plan/",
-      "length": "PT8H31M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "topItems": [
-        {
-          "path": "_learning/courses/microsoft-learn-intro-to-azure-ad.md",
-          "title": "Secure your identities by using Azure Active Directory",
-          "excerpt": "Use Azure Active Directory to you secure your internal, external, and customer identities.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-to-azure-ad/index.json",
-          "webUrl": "https://docs.microsoft.com/learn/modules/intro-to-azure-ad/",
-          "length": "PT27M",
-          "ratings": {
-            "count": 1563,
-            "average": 4.6807423
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 62,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/intro-to-azure-ad-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Identity"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-create-users-and-groups-in-azure-active-directory.md",
-          "title": "Create Azure users and groups in Azure Active Directory",
-          "excerpt": "Learn how to create Azure users and groups in Azure Active Directory.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-create-users-and-groups-in-azure-active-directory/index.json",
-          "webUrl": "https://docs.microsoft.com/learn/modules/create-users-and-groups-in-azure-active-directory/",
-          "length": "PT41M",
-          "ratings": {
-            "count": 2602,
-            "average": 4.7009993
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 73,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/create-users-and-groups-in-azure-active-directory-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Identity"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-authenticate-apps-with-managed-identities.md",
-          "title": "Authenticate apps to Azure services by using service principals and managed identities for Azure resources",
-          "excerpt": "Securely authenticate apps to Azure to manage and access Azure services. Service principals and managed identities give your app an Azure AD identity.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-authenticate-apps-with-managed-identities/index.json",
-          "webUrl": "https://docs.microsoft.com/learn/modules/authenticate-apps-with-managed-identities/",
-          "length": "PT1H6M",
-          "ratings": {
-            "count": 126,
-            "average": 4.5079365
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 51,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/authenticate-apps-with-managed-identities-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-configure-and-manage-azure-key-vault.md",
-          "title": "Configure and manage secrets in Azure Key Vault",
-          "excerpt": "Configure and manage secrets in Azure Key Vault",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-configure-and-manage-azure-key-vault/index.json",
-          "webUrl": "https://docs.microsoft.com/learn/modules/configure-and-manage-azure-key-vault/",
-          "length": "PT29M",
-          "ratings": {
-            "count": 1868,
-            "average": 4.604925
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 55,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/configure-and-manage-azure-key-vault-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Security"
-          ]
-        }
-      ],
-      "size": 11,
-      "heat": 74,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/intro-to-azure-ad-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Identity",
-        "Security",
-        "Integration",
-        "Web",
-        "DevOps",
-        "Management Tools"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-choose-azure-service-to-integrate-and-automate-business-processes.md",
       "title": "Choose the best Azure service to automate your business processes",
       "excerpt": "In this module, we'll discuss how to choose the appropriate Azure service to integrate and automate business processes.",
@@ -3050,8 +1959,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/choose-azure-service-to-integrate-and-automate-business-processes/",
       "length": "PT44M",
       "ratings": {
-        "count": 10199,
-        "average": 4.570742
+        "count": 10201,
+        "average": 4.5706306
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3091,8 +2000,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/choose-storage-approach-in-azure/",
       "length": "PT30M",
       "ratings": {
-        "count": 10503,
-        "average": 4.661335
+        "count": 10504,
+        "average": 4.661367
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3126,8 +2035,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/intro-to-azure-fundamentals/",
       "length": "PT36M",
       "ratings": {
-        "count": 270,
-        "average": 4.774074
+        "count": 274,
+        "average": 4.7737226
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3291,8 +2200,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/run-docker-with-azure-container-instances/",
           "length": "PT48M",
           "ratings": {
-            "count": 4777,
-            "average": 4.6985555
+            "count": 4783,
+            "average": 4.6987247
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3329,6 +2238,195 @@
       ]
     },
     {
+      "path": "_learning/collections/microsoft-learn-architect-storage-infrastructure-in-azure.md",
+      "title": "Architect storage infrastructure in Azure",
+      "excerpt": "Learn how to architect storage solutions for your applications in Azure.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-architect-storage-infrastructure-in-azure/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-architect-storage-infrastructure-in-azure/",
+      "length": "PT6H7M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-choose-storage-approach-in-azure.md",
+          "title": "Choose a data storage approach in Azure",
+          "excerpt": "Learn how using Azure Storage, Azure SQL Database, and Azure Cosmos DB - or a combination of them - for your business scenario is the best way to get the most performant solution.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-choose-storage-approach-in-azure/index.json",
+          "webUrl": "https://docs.microsoft.com/learn/modules/choose-storage-approach-in-azure/",
+          "length": "PT30M",
+          "ratings": {
+            "count": 10504,
+            "average": 4.661367
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 74,
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Storage",
+            "Databases"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-create-azure-storage-account.md",
+          "title": "Create an Azure Storage account",
+          "excerpt": "Discover ways to use an Azure Storage account to manage your data for billing, access, and storage location of your blobs, files, queues, and tables.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-create-azure-storage-account/index.json",
+          "webUrl": "https://docs.microsoft.com/learn/modules/create-azure-storage-account/",
+          "length": "PT30M",
+          "ratings": {
+            "count": 6003,
+            "average": 4.75329
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 61,
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Storage",
+            "Management Tools"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-upload-download-and-manage-data-with-azure-storage-explorer.md",
+          "title": "Upload, download, and manage data with Azure Storage Explorer",
+          "excerpt": "Azure Storage Explorer allows you to quickly view all the storage services under your account. You can browse through, read, and edit data stored in those services through a user-friendly graphical interface.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-upload-download-and-manage-data-with-azure-storage-explorer/index.json",
+          "webUrl": "https://docs.microsoft.com/learn/modules/upload-download-and-manage-data-with-azure-storage-explorer/",
+          "length": "PT37M",
+          "ratings": {
+            "count": 1488,
+            "average": 4.6182795
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 59,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/upload-download-and-manage-data-with-azure-storage-explorer-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Storage",
+            "Databases"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-connect-app-to-azure-storage.md",
+          "title": "Connect an app to Azure Storage",
+          "excerpt": "Create a simple application and add configuration, client library references, and code to connect it to Azure Storage.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-connect-app-to-azure-storage/index.json",
+          "webUrl": "https://docs.microsoft.com/learn/modules/connect-an-app-to-azure-storage/",
+          "length": "PT1H15M",
+          "ratings": {
+            "count": 4865,
+            "average": 4.628366
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 60,
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Storage",
+            "Management Tools"
+          ]
+        }
+      ],
+      "size": 9,
+      "heat": 73,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/upload-download-and-manage-data-with-azure-storage-explorer-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Storage"
+      ]
+    },
+    {
       "path": "_learning/collections/microsoft-learn-az-104-configure-and-manage-virtual-networks-for-azure-administrators.md",
       "title": "AZ-104: Configure and manage virtual networks for Azure administrators",
       "excerpt": "Learn how to configure key Azure network capabilities and prepare for Exam AZ-104: Microsoft Azure Administrator.",
@@ -3359,8 +2457,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/configure-network-for-azure-virtual-machines/",
           "length": "PT1H34M",
           "ratings": {
-            "count": 3650,
-            "average": 4.5553427
+            "count": 3651,
+            "average": 4.5551906
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3436,8 +2534,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/host-domain-azure-dns/",
           "length": "PT43M",
           "ratings": {
-            "count": 1977,
-            "average": 4.8280225
+            "count": 1986,
+            "average": 4.8277946
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3532,6 +2630,211 @@
       ]
     },
     {
+      "path": "_learning/collections/microsoft-learn-az-104-implement-and-manage-storage-in-azure.md",
+      "title": "AZ-104: Implement and manage storage in Azure",
+      "excerpt": "Learn how to manage storage in Azure and prepare for Exam AZ-104: Microsoft Azure Administrator.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-az-104-implement-and-manage-storage-in-azure/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-az-104-implement-and-manage-storage-in-azure/",
+      "length": "PT5H12M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-create-azure-storage-account.md",
+          "title": "Create an Azure Storage account",
+          "excerpt": "Discover ways to use an Azure Storage account to manage your data for billing, access, and storage location of your blobs, files, queues, and tables.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-create-azure-storage-account/index.json",
+          "webUrl": "https://docs.microsoft.com/learn/modules/create-azure-storage-account/",
+          "length": "PT30M",
+          "ratings": {
+            "count": 6003,
+            "average": 4.75329
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 61,
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Storage",
+            "Management Tools"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-choose-the-right-disk-storage-for-vm-workload.md",
+          "title": "Choose the right disk storage for your virtual machine workload",
+          "excerpt": "Azure provides a variety of disk storage options for virtual machine workloads. Identify the features of capabilities of each type to ensure your application performs optimally.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-choose-the-right-disk-storage-for-vm-workload/index.json",
+          "webUrl": "https://docs.microsoft.com/learn/modules/choose-the-right-disk-storage-for-vm-workload/",
+          "length": "PT24M",
+          "ratings": {
+            "count": 1650,
+            "average": 4.6654544
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 52,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/choose-the-right-disk-storage-for-vm-workload-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Compute",
+            "Storage"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-secure-azure-storage-account.md",
+          "title": "Secure your Azure Storage account",
+          "excerpt": "Learn how Azure Storage provides multilayered security to protect your data with access keys, secure networks, and Advanced Threat Protection monitoring.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-secure-azure-storage-account/index.json",
+          "webUrl": "https://docs.microsoft.com/learn/modules/secure-azure-storage-account/",
+          "length": "PT45M",
+          "ratings": {
+            "count": 7621,
+            "average": 4.640205
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 64,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/data-ai/secure-azure-storage-account-badge-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Storage"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-store-and-share-with-azure-files.md",
+          "title": "Store and share files in your application with Azure Files",
+          "excerpt": "Azure Files provides a cloud-based file share for storing and sharing files to applications. Whether it's an application hosted in Azure App Service, an Azure VM, or an on-premises app, Azure Files can store and share file access between one or more applications and systems in a secure and failure-resilient manner.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-store-and-share-with-azure-files/index.json",
+          "webUrl": "https://docs.microsoft.com/learn/modules/store-and-share-with-azure-files/",
+          "length": "PT51M",
+          "ratings": {
+            "count": 1221,
+            "average": 4.6126127
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 55,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/store-and-share-with-azure-files-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Storage"
+          ]
+        }
+      ],
+      "size": 8,
+      "heat": 73,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/choose-the-right-disk-storage-for-vm-workload-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Storage",
+        "Migration",
+        "Compute"
+      ]
+    },
+    {
       "path": "_learning/collections/microsoft-learn-configure-and-manage-virtual-networks-for-azure-administrators.md",
       "title": "Configure and manage virtual networks for Azure administrators",
       "excerpt": "Learn how to configure and manage key Azure network capabilities.",
@@ -3562,8 +2865,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/configure-network-for-azure-virtual-machines/",
           "length": "PT1H34M",
           "ratings": {
-            "count": 3650,
-            "average": 4.5553427
+            "count": 3651,
+            "average": 4.5551906
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3639,8 +2942,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/host-domain-azure-dns/",
           "length": "PT43M",
           "ratings": {
-            "count": 1977,
-            "average": 4.8280225
+            "count": 1986,
+            "average": 4.8277946
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3733,6 +3036,693 @@
         "Compute",
         "Networking",
         "Web"
+      ]
+    },
+    {
+      "path": "_learning/collections/microsoft-learn-control-azure-spending-and-manage-bills-with-azure-cost-management-billing.md",
+      "title": "Control Azure spending and manage bills with Azure Cost Management + Billing",
+      "excerpt": "Learn how to monitor and control your Azure spending and optimize the use of Azure resources.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-control-azure-spending-and-manage-bills-with-azure-cost-management-billing/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-control-azure-spending-and-manage-bills-with-azure-cost-management-billing/",
+      "length": "PT3H19M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-azure-well-architected-cost-optimization.md",
+          "title": "Microsoft Azure Well-Architected Framework - Cost optimization",
+          "excerpt": "Learn how to use the cost optimization pillar of the Microsoft Azure Well-Architected Framework to design a cloud-based architecture that is efficient, eliminates waste, and gives you full visibility into where your money is spent on cloud resources.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-azure-well-architected-cost-optimization/index.json",
+          "webUrl": "https://docs.microsoft.com/learn/modules/azure-well-architected-cost-optimization/",
+          "length": "PT51M",
+          "ratings": {
+            "count": 961,
+            "average": 4.700312
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 56,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/azure-well-architected-cost-optimization-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Management Tools",
+            "DevOps"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-predict-costs-and-optimize-spending.md",
+          "title": "Predict costs and optimize spending for Azure",
+          "excerpt": "Discover how to use Azure pricing calculator, Azure Cost Management, and Azure Advisor to predict and manage cloud expenses.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-predict-costs-and-optimize-spending/index.json",
+          "webUrl": "https://docs.microsoft.com/learn/modules/predict-costs-and-optimize-spending/",
+          "length": "PT1H14M",
+          "ratings": {
+            "count": 40148,
+            "average": 4.7149796
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 88,
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Management Tools"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-analyze-costs-create-budgets-azure-cost-management.md",
+          "title": "Analyze costs and create budgets with Azure Cost Management",
+          "excerpt": "Learn how to use cost analysis to understand how your costs accrue each month.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-analyze-costs-create-budgets-azure-cost-management/index.json",
+          "webUrl": "https://docs.microsoft.com/learn/modules/analyze-costs-create-budgets-azure-cost-management/",
+          "length": "PT40M",
+          "ratings": {
+            "count": 791,
+            "average": 4.6118836
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 61,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/analyze-costs-create-budgets-azure-cost-management-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Management Tools"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-save-money-with-azure-reserved-instances.md",
+          "title": "Save money with Azure Reserved Instances",
+          "excerpt": "Learn how to use plan for, buy, and manage Azure reservations to save money.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-save-money-with-azure-reserved-instances/index.json",
+          "webUrl": "https://docs.microsoft.com/learn/modules/save-money-with-azure-reserved-instances/",
+          "length": "PT34M",
+          "ratings": {
+            "count": 53,
+            "average": 4.5660377
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 51,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/save-money-with-azure-reservations-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Management Tools"
+          ]
+        }
+      ],
+      "size": 4,
+      "heat": 73,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/azure-well-architected-cost-optimization-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Management Tools"
+      ]
+    },
+    {
+      "path": "_learning/collections/microsoft-learn-implement-and-manage-storage-for-azure-administrators.md",
+      "title": "Implement and manage storage for Azure administrators",
+      "excerpt": "Learn how to manage storage as an Azure administrators.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-implement-and-manage-storage-for-azure-administrators/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-implement-and-manage-storage-for-azure-administrators/",
+      "length": "PT5H56M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-create-azure-storage-account.md",
+          "title": "Create an Azure Storage account",
+          "excerpt": "Discover ways to use an Azure Storage account to manage your data for billing, access, and storage location of your blobs, files, queues, and tables.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-create-azure-storage-account/index.json",
+          "webUrl": "https://docs.microsoft.com/learn/modules/create-azure-storage-account/",
+          "length": "PT30M",
+          "ratings": {
+            "count": 6003,
+            "average": 4.75329
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 61,
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Storage",
+            "Management Tools"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-choose-the-right-disk-storage-for-vm-workload.md",
+          "title": "Choose the right disk storage for your virtual machine workload",
+          "excerpt": "Azure provides a variety of disk storage options for virtual machine workloads. Identify the features of capabilities of each type to ensure your application performs optimally.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-choose-the-right-disk-storage-for-vm-workload/index.json",
+          "webUrl": "https://docs.microsoft.com/learn/modules/choose-the-right-disk-storage-for-vm-workload/",
+          "length": "PT24M",
+          "ratings": {
+            "count": 1650,
+            "average": 4.6654544
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 52,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/choose-the-right-disk-storage-for-vm-workload-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Compute",
+            "Storage"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-secure-azure-storage-account.md",
+          "title": "Secure your Azure Storage account",
+          "excerpt": "Learn how Azure Storage provides multilayered security to protect your data with access keys, secure networks, and Advanced Threat Protection monitoring.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-secure-azure-storage-account/index.json",
+          "webUrl": "https://docs.microsoft.com/learn/modules/secure-azure-storage-account/",
+          "length": "PT45M",
+          "ratings": {
+            "count": 7621,
+            "average": 4.640205
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 64,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/data-ai/secure-azure-storage-account-badge-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Storage"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-store-and-share-with-azure-files.md",
+          "title": "Store and share files in your application with Azure Files",
+          "excerpt": "Azure Files provides a cloud-based file share for storing and sharing files to applications. Whether it's an application hosted in Azure App Service, an Azure VM, or an on-premises app, Azure Files can store and share file access between one or more applications and systems in a secure and failure-resilient manner.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-store-and-share-with-azure-files/index.json",
+          "webUrl": "https://docs.microsoft.com/learn/modules/store-and-share-with-azure-files/",
+          "length": "PT51M",
+          "ratings": {
+            "count": 1221,
+            "average": 4.6126127
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 55,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/store-and-share-with-azure-files-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Storage"
+          ]
+        }
+      ],
+      "size": 9,
+      "heat": 73,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/choose-the-right-disk-storage-for-vm-workload-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Storage",
+        "Migration",
+        "Compute"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-create-users-and-groups-in-azure-active-directory.md",
+      "title": "Create Azure users and groups in Azure Active Directory",
+      "excerpt": "Learn how to create Azure users and groups in Azure Active Directory.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-create-users-and-groups-in-azure-active-directory/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/create-users-and-groups-in-azure-active-directory/",
+      "length": "PT41M",
+      "ratings": {
+        "count": 2605,
+        "average": 4.700576
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 73,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/create-users-and-groups-in-azure-active-directory-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Identity"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-introduction-to-azure-virtual-machines.md",
+      "title": "Introduction to Azure virtual machines",
+      "excerpt": "Learn about the decisions you make before creating a virtual machine, the options to create and manage the VM, and the extensions and services you use to manage your VM.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-introduction-to-azure-virtual-machines/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/intro-to-azure-virtual-machines/",
+      "length": "PT1H7M",
+      "ratings": {
+        "count": 14464,
+        "average": 4.688399
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 73,
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Compute"
+      ]
+    },
+    {
+      "path": "_learning/collections/microsoft-learn-az-400-develop-an-instrumentation-strategy.md",
+      "title": "AZ-400: Develop an instrumentation strategy",
+      "excerpt": "Develop an effective instrumentation strategy through logging, telemetry, and monitoring and prepare for Exam AZ-400: Designing and Implementing Microsoft DevOps Solutions.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-az-400-develop-an-instrumentation-strategy/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-az-400-develop-an-instrumentation-strategy/",
+      "length": "PT9H41M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-capture-application-logs-app-service.md",
+          "title": "Capture Web Application Logs with App Service Diagnostics Logging",
+          "excerpt": "Learn about how to capture trace output from your Azure web apps. View a live log stream and download logs files for offline analysis.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-capture-application-logs-app-service/index.json",
+          "webUrl": "https://docs.microsoft.com/learn/modules/capture-application-logs-app-service/",
+          "length": "PT55M",
+          "ratings": {
+            "count": 1157,
+            "average": 4.6093345
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 60,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/capture-application-logs-app-service-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Compute"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-control-and-organize-with-resource-manager.md",
+          "title": "Control and organize Azure resources with Azure Resource Manager",
+          "excerpt": "Use Azure Resource Manager to organize resources, enforce standards, and protect critical assets from deletion.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-control-and-organize-with-resource-manager/index.json",
+          "webUrl": "https://docs.microsoft.com/learn/modules/control-and-organize-with-azure-resource-manager/",
+          "length": "PT46M",
+          "ratings": {
+            "count": 38221,
+            "average": 4.7124877
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 88,
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Management Tools"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-intro-to-app-center.md",
+          "title": "Introduction to App Center",
+          "excerpt": "Explore Azure App services to find ways to simplify creation and integration as you build, distribute, test, and analyze usage of yours apps.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-to-app-center/index.json",
+          "webUrl": "https://docs.microsoft.com/learn/modules/intro-to-app-center/",
+          "length": "PT49M",
+          "ratings": {
+            "count": 288,
+            "average": 4.5416665
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 52,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/app-center/introduction-to-app-center-badge-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Management Tools",
+            "Mobile"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-azure-spring-cloud-workshop.md",
+          "title": "Azure Spring Cloud workshop",
+          "excerpt": "In this workshop, you'll go through tasks to deploy Spring Boot microservices to Azure Spring Cloud (ASC).",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-azure-spring-cloud-workshop/index.json",
+          "webUrl": "https://docs.microsoft.com/learn/modules/azure-spring-cloud-workshop/",
+          "length": "PT1H24M",
+          "ratings": {
+            "count": 146,
+            "average": 4.3013697
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 50,
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Compute",
+            "Web"
+          ]
+        }
+      ],
+      "size": 12,
+      "heat": 72,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/capture-application-logs-app-service-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Management Tools",
+        "DevOps",
+        "Integration",
+        "IoT",
+        "Security",
+        "Compute",
+        "Web",
+        "Containers",
+        "Serverless",
+        "Blockchain"
       ]
     }
   ],
