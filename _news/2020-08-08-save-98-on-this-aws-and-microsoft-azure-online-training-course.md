@@ -71,6 +71,17 @@ related:
         width: 770
         height: 578
         isCached: true
+  - title: "Microsoft Azure: These tools will help you track your cloud computing spend"
+    excerpt: "One of the perennial myths about working with cloud computing resources is that it's near-impossible to predict and manage costs. That might have been the case in the early days, when virtual machine sprawl and inconsistent management and governance tooling meant it was easy to suddenly be presented with a bill for many thousands of dollars,"
+    publishedDateTime: 2020-10-02T09:30:00Z
+    webUrl: "https://www.techrepublic.com/article/microsoft-azure-these-tools-will-help-you-track-your-cloud-computing-spend/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/article/microsoft-azure-these-tools-will-help-you-track-your-cloud-computing-spend/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-azure-these-tools-will-help-you-track-your-cloud-computing-spend/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 75
   - title: "Newly Launched Microsoft Azure AZ-303 Dumps as PDF and Practice Test [August 2020]"
     excerpt: "online practice test to enhance preparation for the Microsoft Azure Solutions Architect exam. Success in this exam is very beneficial as it leads to Microsoft Azure Solutions Architect Expert."
     publishedDateTime: 2020-08-05T11:41:00Z

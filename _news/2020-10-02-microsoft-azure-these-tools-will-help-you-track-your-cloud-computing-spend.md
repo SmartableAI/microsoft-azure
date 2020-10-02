@@ -1,28 +1,27 @@
 ---
 category: news
-title: "Newly Launched Microsoft Azure AZ-303 Dumps as PDF and Practice Test [August 2020]"
-excerpt: "online practice test to enhance preparation for the Microsoft Azure Solutions Architect exam. Success in this exam is very beneficial as it leads to Microsoft Azure Solutions Architect Expert."
-publishedDateTime: 2020-08-05T11:41:00Z
-webUrl: "https://www.benzinga.com/pressreleases/20/08/ab16940078/newly-launched-microsoft-azure-az-303-dumps-as-pdf-and-practice-test-august-2020"
-ampWebUrl: "https://amp.benzinga.com/amp/content/16940078"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16940078"
+title: "Microsoft Azure: These tools will help you track your cloud computing spend"
+excerpt: "One of the perennial myths about working with cloud computing resources is that it's near-impossible to predict and manage costs. That might have been the case in the early days, when virtual machine sprawl and inconsistent management and governance tooling meant it was easy to suddenly be presented with a bill for many thousands of dollars,"
+publishedDateTime: 2020-10-02T09:30:00Z
+originalUrl: "https://www.techrepublic.com/article/microsoft-azure-these-tools-will-help-you-track-your-cloud-computing-spend/"
+webUrl: "https://www.techrepublic.com/article/microsoft-azure-these-tools-will-help-you-track-your-cloud-computing-spend/"
+ampWebUrl: "https://www.techrepublic.com/google-amp/article/microsoft-azure-these-tools-will-help-you-track-your-cloud-computing-spend/"
+cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-azure-these-tools-will-help-you-track-your-cloud-computing-spend/"
 type: article
-quality: 51
+quality: 75
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: TechRepublic
+  domain: techrepublic.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/techrepublic.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
-
-images:
-  - url: "https://www.abnewswire.com/uploads/b9311731db8bd72c3326b1c9fca19038.jpg"
-    width: 600
-    height: 338
-    isCached: true
 
 related:
   - title: "Microsoft Azure: A cheat sheet"
@@ -87,17 +86,22 @@ related:
         width: 770
         height: 578
         isCached: true
-  - title: "Microsoft Azure: These tools will help you track your cloud computing spend"
-    excerpt: "One of the perennial myths about working with cloud computing resources is that it's near-impossible to predict and manage costs. That might have been the case in the early days, when virtual machine sprawl and inconsistent management and governance tooling meant it was easy to suddenly be presented with a bill for many thousands of dollars,"
-    publishedDateTime: 2020-10-02T09:30:00Z
-    webUrl: "https://www.techrepublic.com/article/microsoft-azure-these-tools-will-help-you-track-your-cloud-computing-spend/"
-    ampWebUrl: "https://www.techrepublic.com/google-amp/article/microsoft-azure-these-tools-will-help-you-track-your-cloud-computing-spend/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-azure-these-tools-will-help-you-track-your-cloud-computing-spend/"
+  - title: "Newly Launched Microsoft Azure AZ-303 Dumps as PDF and Practice Test [August 2020]"
+    excerpt: "online practice test to enhance preparation for the Microsoft Azure Solutions Architect exam. Success in this exam is very beneficial as it leads to Microsoft Azure Solutions Architect Expert."
+    publishedDateTime: 2020-08-05T11:41:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/08/ab16940078/newly-launched-microsoft-azure-az-303-dumps-as-pdf-and-practice-test-august-2020"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/16940078"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16940078"
     type: article
     provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 75
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 51
+    images:
+      - url: "https://www.abnewswire.com/uploads/b9311731db8bd72c3326b1c9fca19038.jpg"
+        width: 600
+        height: 338
+        isCached: true
   - title: "SimCorp A/S: SimCorp completes next phase in cloud transformation, offering SimCorp Dimension as a Service on Microsoft Azure"
     excerpt: "Before it's here, it's on the Bloomberg Terminal."
     publishedDateTime: 2020-08-12T08:08:00Z
@@ -518,6 +522,6 @@ related:
       domain: bobsguide.com
     quality: 0
 
-secured: "umePoAtec96e9R9TCLpx6v5Lwc5UyPO+JQcXNqD4EX91NFUYqqk4kbHJ7mQobc4RsEO5HtzyIFovM0S0yCeM3K/QaATrLTLyulxEtjpnZpnJGPl2rG8tZFwaO8iaRlyuNCiziajesl3EgZPBbjJO2mZquD9y87ia9Ykwk2ZE0081xJ+QpvIf+V30PjRa1i1qDiNxx7vw/z26kdzE6F+0Ycg0sLJPzex9+fcAXMgLAgnrDN1eOxgJeqtEtcgl3aAAUIq/dXMNVbDN8wth9fy+lvGfoqxDlFCobbuN+X2CKBnHKrbjGSVepVX1ltM99mgU2Y6I/fIFR69aBTDJWy3QlA==;63AI6rR+ucOohd1RuUxJrg=="
+secured: "PDo0hrt4oGGbcEnSW6Z4qb3YQiECZV7DLsviogx2fgzfgLPCNU0GxW0oySJxUcB+s4rT5nK1pZazy3izWNIygRODbBMOdATfKjBfL3XfiH74oBi1/8iftIv0lgNRyrB+xWXyrE8YqjoZ/2FGaeABm9RwfPgpDYS5EWxWIFc8IcZA1OPTO8FLBLc/wJf1oDCnB6HTaSRnXvBxtnuLxyhiAgqJo/dh6upCg2jGK35qi+1qoJNFuk1WS12dVLGzJ2ACW9i3LzUxSb6neeGxjmfD5zIr10frurtWl3+mdIcTJW7+KHEnxRkEonW8UlS4ZxIOJehKoptwy843GaLfZjmeMD7xzTILRu0zc3YEtzjwFwAwkrD55VCesjh1/rXBQzfQ2hLFUVy2rCLuWZRIIAM6vt9cB7RPbbilAEx0swepmSt7KUotRgeGY7BsrNC/JBGklePZ/+dE4u+gHhoFEDDKVLgrBlHfqfCAyUkpDxLk+KN3wCK78ccRPgJPOKKN3mPWkWaAB1mL4D6iOKYxUO4TQg==;dn4rF4W2VwxL4EpEUJMSyw=="
 ---
 
