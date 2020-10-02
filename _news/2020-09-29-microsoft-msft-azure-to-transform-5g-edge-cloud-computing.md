@@ -782,18 +782,18 @@ related:
         height: 288
         isCached: true
   - title: "Intelemark's New Microsoft Azure Cloud-Based AI Proprietary Software Fuels International Expansion"
-    excerpt: "Intelemark, a national leader in the lead generation/appointment setting industry for more than 20 years, is pleased to announce the successful implementation of our"
+    excerpt: "Intelemark, a national leader in the lead generation/appointment setting industry for more than 20 years, is pleased to announce the"
     publishedDateTime: 2020-09-30T13:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/intelemarks-new-microsoft-azure-cloud-based-ai-proprietary-software-fuels-international-expansion/article_d763ca0c-5282-5ff7-81a8-f5688877c416.html"
+    webUrl: "https://www.prnewswire.com/news-releases/intelemarks-new-microsoft-azure-cloud-based-ai-proprietary-software-fuels-international-expansion-301141708.html"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
+      name: PR Newswire
+      domain: prnewswire.com
     quality: 40
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-        width: 1280
-        height: 720
+      - url: "https://mma.prnewswire.com/media/1294546/Intelemark_Logo.jpg?p=facebook"
+        width: 1447
+        height: 759
         isCached: true
   - title: "MICROSOFT AZURE MEDIA PLAYER"
     excerpt: "Section A: Microsoft is offering you a license to use the following components with Microsoft Azure Media Player (the \"Microsoft Program\"). The notices below are provided for informational purposes only and are not the license terms under which Microsoft distributes these files. The Microsoft Program may include the following third-party ..."
@@ -1426,7 +1426,7 @@ related:
   - title: "RegDOX Solutions Statement on Microsoft Azure Outage"
     excerpt: "Along with many observers, on September 28, 2020, we learned that Microsoft Azure Public and Azure Government networks suffered a major outage involvi"
     publishedDateTime: 2020-09-29T14:43:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200929005837/en/"
+    webUrl: "https://www.businesswire.com/news/home/20200929005837/en/RegDOX-Solutions-Statement-on-Microsoft-Azure-Outage"
     type: article
     provider:
       name: Business Wire

@@ -3,8 +3,8 @@ category: news
 title: "RegDOX Solutions Statement on Microsoft Azure Outage"
 excerpt: "Along with many observers, on September 28, 2020, we learned that Microsoft Azure Public and Azure Government networks suffered a major outage involvi"
 publishedDateTime: 2020-09-29T14:43:00Z
-originalUrl: "https://www.businesswire.com/news/home/20200929005837/en/"
-webUrl: "https://www.businesswire.com/news/home/20200929005837/en/"
+originalUrl: "https://www.businesswire.com/news/home/20200929005837/en/RegDOX-Solutions-Statement-on-Microsoft-Azure-Outage"
+webUrl: "https://www.businesswire.com/news/home/20200929005837/en/RegDOX-Solutions-Statement-on-Microsoft-Azure-Outage"
 type: article
 quality: 17
 heat: -1
@@ -791,18 +791,18 @@ related:
         height: 288
         isCached: true
   - title: "Intelemark's New Microsoft Azure Cloud-Based AI Proprietary Software Fuels International Expansion"
-    excerpt: "Intelemark, a national leader in the lead generation/appointment setting industry for more than 20 years, is pleased to announce the successful implementation of our"
+    excerpt: "Intelemark, a national leader in the lead generation/appointment setting industry for more than 20 years, is pleased to announce the"
     publishedDateTime: 2020-09-30T13:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/intelemarks-new-microsoft-azure-cloud-based-ai-proprietary-software-fuels-international-expansion/article_d763ca0c-5282-5ff7-81a8-f5688877c416.html"
+    webUrl: "https://www.prnewswire.com/news-releases/intelemarks-new-microsoft-azure-cloud-based-ai-proprietary-software-fuels-international-expansion-301141708.html"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
+      name: PR Newswire
+      domain: prnewswire.com
     quality: 40
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-        width: 1280
-        height: 720
+      - url: "https://mma.prnewswire.com/media/1294546/Intelemark_Logo.jpg?p=facebook"
+        width: 1447
+        height: 759
         isCached: true
   - title: "MICROSOFT AZURE MEDIA PLAYER"
     excerpt: "Section A: Microsoft is offering you a license to use the following components with Microsoft Azure Media Player (the \"Microsoft Program\"). The notices below are provided for informational purposes only and are not the license terms under which Microsoft distributes these files. The Microsoft Program may include the following third-party ..."
@@ -1492,6 +1492,6 @@ related:
         height: 450
         isCached: true
 
-secured: "T/utYUkehVdjQuJJyx82t/4WZXD4qyMFuY8Fo26wJjZRKYjY4DVtlY45bHO81tEQoI1hn23TyDDxe5EyC6yvOHylFq1iZbNx1AiCi401CdS73cnIf4j3Ikv26F1JcxCjG+MiHnBISH8VTbCvOrUp9yixOysr3cIpE56Az17iSNhFLewxhhZlU7JdXOCR47O2+2n0jaTfuaozwGuJX/NoP60RRKMwQ2DrZZXLzbZP1ytzZtVakoVfkJgrsoczvBrAsMKPx3rXvvHZ6YlnUtI331HF0OI+IXL3ERuvAbA5Fx9q0wDafFynqyOTZA+vuNjiReTxe3hxWRCpULjQyjLf53vBpU0+rPGQooFxFPNqxj0=;AThtM0PQwRcwfs+BQ2qxcQ=="
+secured: "DmRV1B00gswo66ikLFsKBuQno9meV7CpPFoMBqX/5pUodOQQTvY41xTfZSAwanky9DQIi73wKo1d7ZKa1VD1R7dR/30tg1YAFavFIIr4j02oN6hUYoIyyvJ5OOZl/b2G0RKAJ6eBZpEX3D1YbSg1HP0Ye3SSbbnZpiih5OZ07JeRNuKeJD6ByRhskeej8RFUGUj4F8BLUz/h99RCicUb3dZz12bhZvCS83Rn18kszvGrPq5Jna5NKRQVZQLMDbNTxQ8eFlOiDxo4Q7lkNwvlFSNCGuf3RWZQqsFOmhou32OfohpmFa3sn3LkasUOF9s4H6vASEjZKnmwBgnxUHFCNgl0wgN14nTML8WH7IW4VGs=;ot9mEDZEPwcnZ1S/lb+LpQ=="
 ---
 
