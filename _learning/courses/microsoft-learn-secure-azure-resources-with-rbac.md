@@ -6,9 +6,9 @@ type: course
 price: Free
 length: PT37M
 ratings:
-  count: 4746
-  average: 4.6474924
-heat: 69
+  count: 4748
+  average: 4.647641
+heat: 76
 
 provider:
   name: Microsoft Learn
@@ -26,6 +26,6 @@ topics:
   - Management Tools
   - Identity
 
-secured: "qp0gvRGZdk9jZcdc04yeUsAgAjbwXh0pdn3BR1JzHm9dpnFbAzOL0m3Fa2gnpKP7Z/XhDwAmbwgJ3qFg/CcOalLLsFf3N3vBcrbAx61+RcZC7eydJgFLwAcr58T7bctoX3X90DQKOz/Ag5pJa7oLrWxcRmmhO6yJm2saY32xOr3rDTj4uMq4ZzHYhLUmbrw3CFY1pcmxeycLuCjp+fqZHh13eRoW3UiuJJakGS9P7Q4SoBfuVhbyt6TarRNKBdfT3xkwd4gL28bfFlozdPVdOWoaBii6trFm1x2UNo1DmxYRQuDf8iwjIDsx49ivbU3niREqx7GDCwsrfM4OwIcsJVeAS2499NQ0ysbAZSO/JIWfRS0pnuWRQZJJy2ysiLu8zHQwKMmjnAjuW1r+43y4+1MILKEpUcaIA55cC/CmtTU=;/bK8uQbU6zBIK7XHH2q1jg=="
+secured: "/hLTwxq7QujNvsINJO94+6Hd+xIoYDgOb64f569qq0ICxFUM809EEGOD86dMn/LPj4HBMdpSngSwzJm/b7mIu26sK6AR9Dn4syToUz4gyc7rrbEYhJJ4oK3kPCKjJ46EkqawiXhSb9sa40vXJ5p2S9jedXJ9VTdq1DMahnxaigCPJZfs8f8yfEMdlBpKl4pDo92cmQpAkZmNyIrpgxPVbSWAoxIp3b0y85WF7PN5kWqT/uhZgwQx3xB2o+jWneTQP/+OrsDD5ozfemkYn3H5TVZhmD/88TBFMdd2mYPqdOGmNWt1FAKNRFXIznzeFJzRI3nbwwyepFidasS9bOLEWGasCK/JdLCypppViRq5IuBN//YK0pWq0QupccCys+wSh2DIESE+LggN+me+vyb28oEkwhQWBv/JWfjEPJf8h9c=;sFuDtS8XroFoydaitgX5Fg=="
 ---
 
