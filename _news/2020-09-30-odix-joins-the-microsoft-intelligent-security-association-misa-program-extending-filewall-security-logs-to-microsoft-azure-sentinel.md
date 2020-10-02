@@ -41,6 +41,22 @@ related:
         width: 1103
         height: 765
         isCached: true
+  - title: "Minecraft Realms completes migration to Microsoft Azure cloud platform from AWS"
+    excerpt: "After announcing the move back in July, Mojang Studios has confirmed that Minecraft Realms, the private server platform for Minecraft, has completed its transition to Microsoft Azure, a big move for the company."
+    publishedDateTime: 2020-10-01T23:20:00Z
+    webUrl: "https://www.windowscentral.com/minecraft-realms-completes-migration-microsoft-azure-cloud-platform-aws"
+    ampWebUrl: "https://www.windowscentral.com/minecraft-realms-completes-migration-microsoft-azure-cloud-platform-aws?amp"
+    cdnAmpWebUrl: "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/minecraft-realms-completes-migration-microsoft-azure-cloud-platform-aws?amp"
+    type: article
+    provider:
+      name: Windows Central
+      domain: windowscentral.com
+    quality: 70
+    images:
+      - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2018/08/minecraft-realms-hero-01.jpg"
+        width: 800
+        height: 420
+        isCached: true
 
 secured: "Fux2XX6ha2eMHMqQ8ySuVGdp9wEsTq416EpPRJRD47BUOtwmMn6DXdyGHGnG/dKw0VVQtBk5mc6wcNb30NKcvLKPIF9b1wvyY5O52DfYUWCWTCHKR1xpKeb1vi0hdH/8I21LPknvLKPWf4ltyoieMlNHZ9uZZpD2Q8D29xpnjgEbOTxOHbE4m4kYl7PCI0MjQ49GRI145M8Jki9UQqUH2+GnJxpGPQ2C/9Q7M5Crepf5QgiL4Uk9gRQLs5DYS+c+TjxFZpuVAonAqsQnJoSaIIsIh+cXnlRa2fb34VXI0eBmxIhedqB5STJYp8cSKm3e3Iu2YXVQVfFmlT6PXmGOvWg7nZ5zS0cP32Cw2RalJjQ=;AQFNrEpqu8cpDwlPQrsfuw=="
 ---

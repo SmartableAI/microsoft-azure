@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/microsofts-azure-ad-authent
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsofts-azure-ad-authentication-outage-what-went-wrong/"
 type: article
 quality: 97
-heat: 117
+heat: 137
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Minecraft Realms completes migration to Microsoft Azure cloud platform from AWS"
+    excerpt: "After announcing the move back in July, Mojang Studios has confirmed that Minecraft Realms, the private server platform for Minecraft, has completed its transition to Microsoft Azure, a big move for the company."
+    publishedDateTime: 2020-10-01T23:20:00Z
+    webUrl: "https://www.windowscentral.com/minecraft-realms-completes-migration-microsoft-azure-cloud-platform-aws"
+    ampWebUrl: "https://www.windowscentral.com/minecraft-realms-completes-migration-microsoft-azure-cloud-platform-aws?amp"
+    cdnAmpWebUrl: "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/minecraft-realms-completes-migration-microsoft-azure-cloud-platform-aws?amp"
+    type: article
+    provider:
+      name: Windows Central
+      domain: windowscentral.com
+    quality: 70
+    images:
+      - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2018/08/minecraft-realms-hero-01.jpg"
+        width: 800
+        height: 420
+        isCached: true
   - title: "odix joins the Microsoft Intelligent Security Association (MISA) program extending FileWall security logs to Microsoft Azure Sentinel"
     excerpt: "PRNewswire/ -- odix, the Israel based cyber security leader in Enterprise CDR (Content Disarm and Reconstruction) technology, has officially joined the Microsoft Intelligent Security Association (MISA) program."
     publishedDateTime: 2020-09-30T06:00:00Z
