@@ -4,42 +4,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-create-serverless-logic-with-functions.md",
-      "title": "Create serverless logic with Azure Functions",
-      "excerpt": "Azure Functions allow you to host business logic that can be executed without managing or provisioning server infrastructure",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-create-serverless-logic-with-functions/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/create-serverless-logic-with-azure-functions/",
-      "length": "PT36M",
-      "ratings": {
-        "count": 6481,
-        "average": 4.662552
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 69,
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Compute",
-        "Serverless",
-        "Management Tools"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-create-linux-vm-in-azure.md",
       "title": "Create a Linux virtual machine in Azure",
       "excerpt": "This module guides you through options for virtual machines in Azure, creating and connecting a Linux virtual machine, and configuring your network settings.",
@@ -47,8 +11,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/create-linux-virtual-machine-in-azure/",
       "length": "PT1H26M",
       "ratings": {
-        "count": 7838,
-        "average": 4.684358
+        "count": 7839,
+        "average": 4.6843987
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -812,8 +776,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/run-docker-with-azure-container-instances/",
           "length": "PT48M",
           "ratings": {
-            "count": 4760,
-            "average": 4.698109
+            "count": 4768,
+            "average": 4.6979866
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1141,8 +1105,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/intro-to-azure-fundamentals/",
           "length": "PT36M",
           "ratings": {
-            "count": 267,
-            "average": 4.7715354
+            "count": 268,
+            "average": 4.772388
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1609,8 +1573,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/intro-to-azure-fundamentals/",
           "length": "PT36M",
           "ratings": {
-            "count": 267,
-            "average": 4.7715354
+            "count": 268,
+            "average": 4.772388
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1650,8 +1614,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/ai-machine-learning-fundamentals/",
           "length": "PT23M",
           "ratings": {
-            "count": 22,
-            "average": 4.7727275
+            "count": 23,
+            "average": 4.7391305
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1825,8 +1789,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/intro-to-azure-fundamentals/",
           "length": "PT36M",
           "ratings": {
-            "count": 267,
-            "average": 4.7715354
+            "count": 268,
+            "average": 4.772388
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1866,8 +1830,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/fundamental-azure-concepts/",
           "length": "PT24M",
           "ratings": {
-            "count": 67,
-            "average": 4.8358207
+            "count": 68,
+            "average": 4.8382354
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1909,8 +1873,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/azure-architecture-fundamentals/",
           "length": "PT34M",
           "ratings": {
-            "count": 47,
-            "average": 4.893617
+            "count": 49,
+            "average": 4.897959
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2429,8 +2393,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/audit-security-of-windows-server-iaas-virtual-machines/",
           "length": "PT45M",
           "ratings": {
-            "count": 24,
-            "average": 4.75
+            "count": 25,
+            "average": 4.76
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3100,8 +3064,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/fundamental-azure-concepts/",
       "length": "PT24M",
       "ratings": {
-        "count": 67,
-        "average": 4.8358207
+        "count": 68,
+        "average": 4.8382354
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3539,8 +3503,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/app-service-scale-up-scale-out/",
       "length": "PT46M",
       "ratings": {
-        "count": 2198,
-        "average": 4.55414
+        "count": 2199,
+        "average": 4.5543427
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3653,6 +3617,41 @@
         "Compute",
         "Serverless",
         "Storage"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-configure-the-network-for-your-virtual-machines.md",
+      "title": "Configure the network for your virtual machines",
+      "excerpt": "Learn how to connect your local on-premises networks into Azure using virtual networks, VPN gateways, and Azure ExpressRoute.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-configure-the-network-for-your-virtual-machines/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/configure-network-for-azure-virtual-machines/",
+      "length": "PT1H34M",
+      "ratings": {
+        "count": 3650,
+        "average": 4.5553427
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 57,
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Compute",
+        "Networking"
       ]
     }
   ],
