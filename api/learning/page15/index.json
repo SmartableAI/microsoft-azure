@@ -4,6 +4,47 @@
   "page": 15,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-cloud-admin-provision-manage.md",
+      "title": "Provision and manage cloud services",
+      "excerpt": "Cloud Admin course from Dr. Majd Sakr at Carnegie Mellon University. Learn about the different types of resources available on the cloud and the technology behind how they work.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-cloud-admin-provision-manage/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/cmu-provision-cloud-services/",
+      "length": "PT41M",
+      "ratings": {
+        "count": 185,
+        "average": 4.7513514
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/cmu-cloud-admin/cloud-admin-provision-manage-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-collaborate-with-git.md",
       "title": "Collaborate with Git",
       "excerpt": "Use Git to track changes to source code and collaborate with other developers",
@@ -52,8 +93,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/communicate-between-apps-with-azure-queue-storage/",
       "length": "PT56M",
       "ratings": {
-        "count": 1690,
-        "average": 4.585207
+        "count": 1691,
+        "average": 4.5854526
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -170,8 +211,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/build-cosmos-db-app-with-vscode/",
       "length": "PT54M",
       "ratings": {
-        "count": 1434,
-        "average": 4.4686193
+        "count": 1435,
+        "average": 4.4689894
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -240,8 +281,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/create-language-model-with-language-understanding/",
       "length": "PT39M",
       "ratings": {
-        "count": 236,
-        "average": 4.8305087
+        "count": 237,
+        "average": 4.8312235
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -370,8 +411,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/deploy-prebuilt-module-edge-device/",
       "length": "PT56M",
       "ratings": {
-        "count": 365,
-        "average": 4.479452
+        "count": 366,
+        "average": 4.47541
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -607,8 +648,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/explore-non-relational-data-stores-azure/",
       "length": "PT54M",
       "ratings": {
-        "count": 168,
-        "average": 4.702381
+        "count": 169,
+        "average": 4.704142
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -648,8 +689,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/explore-provision-deploy-non-relational-data-services-azure/",
       "length": "PT1H2M",
       "ratings": {
-        "count": 151,
-        "average": 4.7880793
+        "count": 153,
+        "average": 4.7908497
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1160,48 +1201,6 @@
       "topics": [
         "Azure",
         "Storage"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-introduction-to-data-streaming.md",
-      "title": "Work with data streams by using Azure Stream Analytics",
-      "excerpt": "Explore how Azure Stream Analytics integrates with your applications or Internet of Things devices to gain insights with real-time streaming data.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-introduction-to-data-streaming/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/introduction-to-data-streaming/",
-      "length": "PT25M",
-      "ratings": {
-        "count": 1267,
-        "average": 4.6306233
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/data-ai/introduction-to-data-streaming-badge-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Analytics"
       ]
     }
   ],
