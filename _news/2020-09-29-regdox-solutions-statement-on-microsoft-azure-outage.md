@@ -1,10 +1,10 @@
 ---
 category: news
 title: "RegDOX Solutions Statement on Microsoft Azure Outage"
-excerpt: "Along with many observers, on September 28, 2020, we learned that Microsoft Azure Public and Azure Government networks suffered a major outage involvi"
-publishedDateTime: 2020-09-29T14:43:00Z
-originalUrl: "https://www.businesswire.com/news/home/20200929005837/en/"
-webUrl: "https://www.businesswire.com/news/home/20200929005837/en/"
+excerpt: "NASHUA, N.H.--(BUSINESS WIRE)--Along with many observers, on September 28, 2020, we learned that Microsoft Azure Public and Azure Government networks suffered a major outage involving ..."
+publishedDateTime: 2020-09-29T16:13:00Z
+originalUrl: "https://www.businesswire.com/news/home/20200929005837/en/RegDOX-Solutions-Statement-on-Microsoft-Azure-Outage"
+webUrl: "https://www.businesswire.com/news/home/20200929005837/en/RegDOX-Solutions-Statement-on-Microsoft-Azure-Outage"
 type: article
 quality: 17
 heat: -1
@@ -789,17 +789,17 @@ related:
         isCached: true
   - title: "AMERGINT Collaborates with Microsoft on Microsoft Azure Orbital Satellite Ground Station Service"
     excerpt: "AMERGINT Technologies announced it is working with Microsoft on their new Microsoft Azure Orbital, a new cloud service for connecting users to their satellites. AMERGINT is supporting Azure ..."
-    publishedDateTime: 2020-09-23T14:31:00Z
-    webUrl: "https://www.oaoa.com/news/business/amergint-collaborates-with-microsoft-on-microsoft-azure-orbital-satellite-ground-station-service/article_6c0fd2cf-a14e-5b5d-8f10-dbace5306d19.html"
+    publishedDateTime: 2020-09-23T15:06:00Z
+    webUrl: "https://www.thedailytimes.com/business/amergint-collaborates-with-microsoft-on-microsoft-azure-orbital-satellite-ground-station-service/article_8211da01-8318-568a-982c-871d6d021f89.html"
     type: article
     provider:
-      name: Odessa American
-      domain: oaoa.com
+      name: thedailytimes.com
+      domain: thedailytimes.com
     quality: 41
     images:
-      - url: "https://www.valleymorningstar.com/wp-content/uploads/sites/63/2020/07/GET-IT-NOW-BUTTON.png"
-        width: 576
-        height: 288
+      - url: "https://bloximages.chicago2.vip.townnews.com/thedailytimes.com/content/tncms/custom/image/4c01e2ce-7067-11e6-87cd-0725ce0cc960.jpg?resize=600%2C600"
+        width: 600
+        height: 600
         isCached: true
   - title: "Intelemark's New Microsoft Azure Cloud-Based AI Proprietary Software Fuels International Expansion"
     excerpt: "Intelemark, a national leader in the lead generation/appointment setting industry for more than 20 years, is pleased to announce the"
@@ -1503,6 +1503,6 @@ related:
         height: 450
         isCached: true
 
-secured: "SQzGtX6Wdly0tbCdcvzSWzitli6yrHeC2pv9WwrzK/eRRiDDmf/ImGC3QmFD4l5umJp9PMUVN2dGUB55kMV1f9xyKlgBYZU8y+rvyR+75xr/o625nBRioHpKdc6FY69GqXgMPpXw4yTJj6wTQw+G6s3MI2ru1+qPQbswoKuwP5VhAQ+tuFrX6M79vs7UOm8N7qm5E4Ud5veDWptMqn8r3VqpRl1lgBGZpN4Ts8IaE89JdNZzvSgjrRFJBnQVu6uEVJXmc29bWiX5KFZ83StJTcl2lfucqHzW8rtTIm3HX/qWDPwBOG5BmF/W4VsxrXcDHo76bokWlEnNe85wYQhUCvmCw62+KYNoXnhSiMa0zzE=;31jXoBEXRtLES6VEDjVhsw=="
+secured: "grwWm++b5+x/JWthUAdrQmO/9/6ZL9decU5Saj94st3Nnc/Yv0/Ned3t3ETDYOT6pqO79KzX4Oh0F8pf0jawD3dQAseGTmv06DOII2uYDWDG3bIgwiRwxc88P6QRpfv7SeAKM1CBhDTXZcr7YdTueY5sR+O6aw6qgndo9SaQ6ZzPEyr0JN+FSDJwZupsqdM67MNChY+HRf99wTKMm2zt9LNIR22lRA9JJhouGI2KkP8Nj4SFydgQsyb+FFgo0aJ2tlkEjjO3lyZ9BMpXe2NHiMpDwN4gH9db690nwitxaWbtBeP03p7yHcUM7l1kZAbVVm+QmtLtfb1sR7Ajn9WUDlWJlh7pbgxinJ0rpbthmTg=;leIYaJHWaMqIH2Su7HuH7g=="
 ---
 

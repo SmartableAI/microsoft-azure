@@ -789,17 +789,17 @@ related:
         isCached: true
   - title: "AMERGINT Collaborates with Microsoft on Microsoft Azure Orbital Satellite Ground Station Service"
     excerpt: "AMERGINT Technologies announced it is working with Microsoft on their new Microsoft Azure Orbital, a new cloud service for connecting users to their satellites. AMERGINT is supporting Azure ..."
-    publishedDateTime: 2020-09-23T14:31:00Z
-    webUrl: "https://www.oaoa.com/news/business/amergint-collaborates-with-microsoft-on-microsoft-azure-orbital-satellite-ground-station-service/article_6c0fd2cf-a14e-5b5d-8f10-dbace5306d19.html"
+    publishedDateTime: 2020-09-23T15:06:00Z
+    webUrl: "https://www.thedailytimes.com/business/amergint-collaborates-with-microsoft-on-microsoft-azure-orbital-satellite-ground-station-service/article_8211da01-8318-568a-982c-871d6d021f89.html"
     type: article
     provider:
-      name: Odessa American
-      domain: oaoa.com
+      name: thedailytimes.com
+      domain: thedailytimes.com
     quality: 41
     images:
-      - url: "https://www.valleymorningstar.com/wp-content/uploads/sites/63/2020/07/GET-IT-NOW-BUTTON.png"
-        width: 576
-        height: 288
+      - url: "https://bloximages.chicago2.vip.townnews.com/thedailytimes.com/content/tncms/custom/image/4c01e2ce-7067-11e6-87cd-0725ce0cc960.jpg?resize=600%2C600"
+        width: 600
+        height: 600
         isCached: true
   - title: "Intelemark's New Microsoft Azure Cloud-Based AI Proprietary Software Fuels International Expansion"
     excerpt: "Intelemark, a national leader in the lead generation/appointment setting industry for more than 20 years, is pleased to announce the"
@@ -1435,9 +1435,9 @@ related:
       domain: seekingalpha.com
     quality: 17
   - title: "RegDOX Solutions Statement on Microsoft Azure Outage"
-    excerpt: "Along with many observers, on September 28, 2020, we learned that Microsoft Azure Public and Azure Government networks suffered a major outage involvi"
-    publishedDateTime: 2020-09-29T14:43:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200929005837/en/"
+    excerpt: "NASHUA, N.H.--(BUSINESS WIRE)--Along with many observers, on September 28, 2020, we learned that Microsoft Azure Public and Azure Government networks suffered a major outage involving ..."
+    publishedDateTime: 2020-09-29T16:13:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200929005837/en/RegDOX-Solutions-Statement-on-Microsoft-Azure-Outage"
     type: article
     provider:
       name: Business Wire

@@ -2,26 +2,26 @@
 category: news
 title: "AMERGINT Collaborates with Microsoft on Microsoft Azure Orbital Satellite Ground Station Service"
 excerpt: "AMERGINT Technologies announced it is working with Microsoft on their new Microsoft Azure Orbital, a new cloud service for connecting users to their satellites. AMERGINT is supporting Azure ..."
-publishedDateTime: 2020-09-23T14:31:00Z
-originalUrl: "https://www.oaoa.com/news/business/amergint-collaborates-with-microsoft-on-microsoft-azure-orbital-satellite-ground-station-service/article_6c0fd2cf-a14e-5b5d-8f10-dbace5306d19.html"
-webUrl: "https://www.oaoa.com/news/business/amergint-collaborates-with-microsoft-on-microsoft-azure-orbital-satellite-ground-station-service/article_6c0fd2cf-a14e-5b5d-8f10-dbace5306d19.html"
+publishedDateTime: 2020-09-23T15:06:00Z
+originalUrl: "https://www.thedailytimes.com/business/amergint-collaborates-with-microsoft-on-microsoft-azure-orbital-satellite-ground-station-service/article_8211da01-8318-568a-982c-871d6d021f89.html"
+webUrl: "https://www.thedailytimes.com/business/amergint-collaborates-with-microsoft-on-microsoft-azure-orbital-satellite-ground-station-service/article_8211da01-8318-568a-982c-871d6d021f89.html"
 type: article
 quality: 41
 heat: -1
 published: false
 
 provider:
-  name: Odessa American
-  domain: oaoa.com
+  name: thedailytimes.com
+  domain: thedailytimes.com
 
 topics:
   - Azure
   - Networking
 
 images:
-  - url: "https://www.valleymorningstar.com/wp-content/uploads/sites/63/2020/07/GET-IT-NOW-BUTTON.png"
-    width: 576
-    height: 288
+  - url: "https://bloximages.chicago2.vip.townnews.com/thedailytimes.com/content/tncms/custom/image/4c01e2ce-7067-11e6-87cd-0725ce0cc960.jpg?resize=600%2C600"
+    width: 600
+    height: 600
     isCached: true
 
 related:
@@ -1437,9 +1437,9 @@ related:
       domain: seekingalpha.com
     quality: 17
   - title: "RegDOX Solutions Statement on Microsoft Azure Outage"
-    excerpt: "Along with many observers, on September 28, 2020, we learned that Microsoft Azure Public and Azure Government networks suffered a major outage involvi"
-    publishedDateTime: 2020-09-29T14:43:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200929005837/en/"
+    excerpt: "NASHUA, N.H.--(BUSINESS WIRE)--Along with many observers, on September 28, 2020, we learned that Microsoft Azure Public and Azure Government networks suffered a major outage involving ..."
+    publishedDateTime: 2020-09-29T16:13:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200929005837/en/RegDOX-Solutions-Statement-on-Microsoft-Azure-Outage"
     type: article
     provider:
       name: Business Wire
@@ -1505,6 +1505,6 @@ related:
         height: 450
         isCached: true
 
-secured: "LoUV5+ZXndqSB8PvpZ1wUEwHPNlFg1EZu5U8DnS+6ZXX/TLVqLmyVqYglupBbrDFovjeYvfvSgSVmTeEM6VguVrEQFlqcebgUme6iYSjV12W6MPlLhJz9q0OFBXISxVnwI+PQs+KBZBEGfH1hexgqXcWqxMgdA2oLgif0KXAP2g6dGwUEk28TvPaf45S/NELdRgGCk+hy8L+ktlHcosQujkcUaiRd4Y2vySsJWIP1prbMFbkTJ0igrKCqkw7SjBB33sRMDeLLfPXn1NM9XHBWYAuWpD9RRrhI1VHWP7ZvUWH22Mjw5oLEKIda3sTc54Ticx6LPOTwTrYY+is7G84iEeY1vA1NXcM6xHM7DjGCWo=;z7LEF5iuBbBr4wRR/kJOXg=="
+secured: "0wlxGq06XsqINBmRB2XYIYpFCSzAHnr6fgmMJfe5ktSBfXoVWzJFwpNp61Fv7HFsNvSEPyAkxqsURuV7cwxFM7F5vynfxqPR0L1IC22rm0Y/QzckR2hb+ZbYqJALBGk4lAN++cj/JxPPSevDqWclKMNbClRL9ztL7oISk6dcTTbx8urg6qsHH5S69jdJepxwvYqxXG5gLOJkiZUltMTf/e3N3BEf9L1et5zZifJgUTlk6bGuwVk7EBTur8ljvIQY8WSRAY6uTHzlJZQl/WrqQpC2/+gzeh6TqzaJix+OrEA231gP9wCsSaZqQAjr7xk6SOilJpFEieIY+QNKWczHkAD0C53UqXzeKcvL/K+w+QA=;KpMt7ALQ7alTByHa1iqjiw=="
 ---
 
