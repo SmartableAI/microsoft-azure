@@ -1,27 +1,27 @@
 ---
 category: news
 title: "odix joins the Microsoft Intelligent Security Association (MISA) program extending FileWall security logs to Microsoft Azure Sentinel"
-excerpt: "PRNewswire/ -- odix, the Israel based cyber security leader in Enterprise CDR (Content Disarm and Reconstruction) technology, has officially joined the Microsoft Intelligent Security Association (MISA) program."
+excerpt: "PRNewswire/ --  odix, the Israel based cyber security leader in Enterprise CDR (Content Disarm and Reconstruction) technology, has officially  joined"
 publishedDateTime: 2020-09-30T06:00:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/corporate-news-malware-technology-business-products-and-services-7f47216304d0cbe47043b2ee79c6911a"
-webUrl: "https://apnews.com/press-release/pr-newswire/corporate-news-malware-technology-business-products-and-services-7f47216304d0cbe47043b2ee79c6911a"
+originalUrl: "https://www.prnewswire.com/news-releases/odix-joins-the-microsoft-intelligent-security-association-misa-program-extending-filewall-security-logs-to-microsoft-azure-sentinel-301140169.html"
+webUrl: "https://www.prnewswire.com/news-releases/odix-joins-the-microsoft-intelligent-security-association-misa-program-extending-filewall-security-logs-to-microsoft-azure-sentinel-301140169.html"
 type: article
 quality: 23
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Azure
   - Security
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+    width: 600
+    height: 315
     isCached: true
 
 related:
@@ -58,6 +58,6 @@ related:
         height: 420
         isCached: true
 
-secured: "Fux2XX6ha2eMHMqQ8ySuVGdp9wEsTq416EpPRJRD47BUOtwmMn6DXdyGHGnG/dKw0VVQtBk5mc6wcNb30NKcvLKPIF9b1wvyY5O52DfYUWCWTCHKR1xpKeb1vi0hdH/8I21LPknvLKPWf4ltyoieMlNHZ9uZZpD2Q8D29xpnjgEbOTxOHbE4m4kYl7PCI0MjQ49GRI145M8Jki9UQqUH2+GnJxpGPQ2C/9Q7M5Crepf5QgiL4Uk9gRQLs5DYS+c+TjxFZpuVAonAqsQnJoSaIIsIh+cXnlRa2fb34VXI0eBmxIhedqB5STJYp8cSKm3e3Iu2YXVQVfFmlT6PXmGOvWg7nZ5zS0cP32Cw2RalJjQ=;AQFNrEpqu8cpDwlPQrsfuw=="
+secured: "rFmHfDiBexD7j3U4eeLrhP/6vPGGoTcJftjfoD/WKj1PysZIqxlkwKXjBYzopqup9eKmbyuyGdbTvxgp3kJbRbPBKs3az5LkAvMdGK/vVRhEDgJ5asbsNnCszZHSYYxsSYSN/qM/QUYiWbPHSRMHuA+TbicRZtnOMgQjbkUUrDt/e3DIat3yZtBjNWK+mP4t9m5ExwvHehYoIuYkfezzhFaUctjBNfLmJC/nq7uZCaR3hpjNGa06nnEnx+GBfH8pUzjUEnpb6yHnetFRW4XTMv4xr787zNLQONk1zoQe/aVlewPbyTKZP46/E7pa8VmCyhPUOJDSkYU/fHjmWaVGwP3P7bFvmmT8x+R1GtVBA+A=;6jqjmLx4KxFZBV/oHjrIXg=="
 ---
 

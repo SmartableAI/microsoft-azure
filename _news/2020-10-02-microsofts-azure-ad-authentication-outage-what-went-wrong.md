@@ -47,18 +47,18 @@ related:
         height: 420
         isCached: true
   - title: "odix joins the Microsoft Intelligent Security Association (MISA) program extending FileWall security logs to Microsoft Azure Sentinel"
-    excerpt: "PRNewswire/ -- odix, the Israel based cyber security leader in Enterprise CDR (Content Disarm and Reconstruction) technology, has officially joined the Microsoft Intelligent Security Association (MISA) program."
+    excerpt: "PRNewswire/ --  odix, the Israel based cyber security leader in Enterprise CDR (Content Disarm and Reconstruction) technology, has officially  joined"
     publishedDateTime: 2020-09-30T06:00:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/corporate-news-malware-technology-business-products-and-services-7f47216304d0cbe47043b2ee79c6911a"
+    webUrl: "https://www.prnewswire.com/news-releases/odix-joins-the-microsoft-intelligent-security-association-misa-program-extending-filewall-security-logs-to-microsoft-azure-sentinel-301140169.html"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
+      name: PR Newswire
+      domain: prnewswire.com
     quality: 23
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
         isCached: true
 
 secured: "vN9FsSFA848FNmRFeIjL7b9K3Kf6K5AvbrdV5HdPjdCUA0nQ3WuV6KKVLQtGpuhUxKcK+2zcAFdksQIm4TUjKjXwAWfnB4m7lvlUo3NB9OR2WMaMs6l3YxnvIg2UWul1OE87lFd9RY1ondm3rIJOD+0ulFJTUiso3NGT70r03j/Tzkrf6ZOsMWcdUZD8ReyFVP304Vlb8ErEYY2jgS79p+hg1SP08eAXkee5pRiCrSuBh7DkTKHJuK5LlhH6rSHvYEoo1ZjVq2bsmPJKphMMHd4b9EB04b2tPZUR6Tvx9aRe+jUU0oosmJuHyOMDeM1zYEPnSZ/HwW8HbSoBDFpzeqm1Liz6t1Fb2WM1rCsuPtncfmbFnD/k15+W4bjNCk6MNrrn4AXYmE9dCCg9fzJCWeOcx5+EAySSurZUaPnTWQRpFRIP9Ee+ltZHi7g3pyAUP9kDe9aOCFoj9Toga/JHm8m8JM8fXrVCG2Xh7Zsn/nZwg7DfjFPSIWVlWT9mVTzkTC5rxyic+4rhJDSRlLoJzg==;r96c4Ev71yOr0fB4exCnRQ=="
