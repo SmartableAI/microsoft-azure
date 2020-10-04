@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-21T16:00:56Z
 webUrl: "https://azure.microsoft.com/en-us/updates/aksmanaged-azure-active-directory-support-is-now-generally-available/"
 type: article
 quality: 17
-heat: 17
+heat: 77
 published: false
 
 provider:

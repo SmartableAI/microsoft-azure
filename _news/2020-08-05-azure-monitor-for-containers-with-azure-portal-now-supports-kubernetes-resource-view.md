@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-05T23:00:02Z
 webUrl: "https://azure.microsoft.com/en-us/updates/ci-aks-resource-view/"
 type: article
 quality: 10
-heat: 10
+heat: 30
 published: false
 
 provider:
