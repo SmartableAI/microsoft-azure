@@ -4,6 +4,43 @@
   "page": 10,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-design-a-geographically-distributed-application.md",
+      "title": "Design a geographically distributed application",
+      "excerpt": "Build an application that spans multiple geographic locations for high availability and resiliency.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-design-a-geographically-distributed-application/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/design-a-geographically-distributed-application/",
+      "length": "PT34M",
+      "ratings": {
+        "count": 566,
+        "average": 4.6607776
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Advanced"
+      ],
+      "heat": 54,
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Networking",
+        "Web",
+        "Compute",
+        "Databases"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-design-a-hybrid-network-architecture.md",
       "title": "Design a hybrid network architecture on Azure",
       "excerpt": "You have a traditional on-premises infrastructure that you need to connect to resources in Azure. In this module, you learn how to select a connectivity method for your use cases that balances functionality, cost, and security.",
@@ -11,8 +48,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/design-a-hybrid-network-architecture/",
       "length": "PT47M",
       "ratings": {
-        "count": 1158,
-        "average": 4.632988
+        "count": 1160,
+        "average": 4.6327586
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -33,48 +70,6 @@
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/design-a-hybrid-network-architecture-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Networking"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-design-ip-addressing-for-azure.md",
-      "title": "Design an IP addressing schema for your Azure deployment",
-      "excerpt": "In this module, you will learn how to plan and implement an IP addressing scheme for virtual networks and virtual machines in Azure.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-design-ip-addressing-for-azure/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/design-ip-addressing-for-azure/",
-      "length": "PT37M",
-      "ratings": {
-        "count": 1247,
-        "average": 4.7281475
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 54,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/design-ip-addressing-for-azure-social.png",
           "width": 800,
           "height": 400,
           "isCached": true
@@ -331,8 +326,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/introduce-foundation-pillars-devops/",
       "length": "PT25M",
       "ratings": {
-        "count": 2010,
-        "average": 4.6422887
+        "count": 2011,
+        "average": 4.6424665
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -365,8 +360,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/iot-fundamentals/",
       "length": "PT25M",
       "ratings": {
-        "count": 19,
-        "average": 4.8421054
+        "count": 20,
+        "average": 4.85
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -440,8 +435,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/protect-infrastructure-with-site-recovery/",
       "length": "PT59M",
       "ratings": {
-        "count": 792,
-        "average": 4.5290403
+        "count": 793,
+        "average": 4.5296345
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -727,8 +722,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/explore-non-relational-data-offerings-azure/",
           "length": "PT41M",
           "ratings": {
-            "count": 188,
-            "average": 4.824468
+            "count": 189,
+            "average": 4.820106
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -890,8 +885,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/design-azure-sql-data-warehouse/",
           "length": "PT47M",
           "ratings": {
-            "count": 2727,
-            "average": 4.578658
+            "count": 2729,
+            "average": 4.5786004
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -932,8 +927,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/query-azure-sql-data-warehouse/",
           "length": "PT60M",
           "ratings": {
-            "count": 1401,
-            "average": 4.630978
+            "count": 1402,
+            "average": 4.6312413
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -974,8 +969,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/import-data-into-asdw-with-polybase/",
           "length": "PT1H6M",
           "ratings": {
-            "count": 2036,
-            "average": 4.5604124
+            "count": 2038,
+            "average": 4.5603533
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1036,8 +1031,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/analyze-devops-continuous-planning-intergration/",
       "length": "PT22M",
       "ratings": {
-        "count": 1291,
-        "average": 4.697134
+        "count": 1293,
+        "average": 4.6976023
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1320,8 +1315,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/azure-well-architected-reliability/",
       "length": "PT59M",
       "ratings": {
-        "count": 455,
-        "average": 4.6857142
+        "count": 456,
+        "average": 4.6864033
       },
       "provider": {
         "name": "Microsoft Learn",
