@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-16T00:00:31Z
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-api-management-update-july-2020/"
 type: article
 quality: 37
-heat: 57
+heat: 37
 published: false
 
 provider:

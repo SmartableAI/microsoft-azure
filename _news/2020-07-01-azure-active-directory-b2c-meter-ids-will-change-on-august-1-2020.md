@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-01T00:00:38Z
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-active-directory-b2c-change-in-resource-guids/"
 type: article
 quality: 17
-heat: 57
+heat: 17
 published: false
 
 provider:

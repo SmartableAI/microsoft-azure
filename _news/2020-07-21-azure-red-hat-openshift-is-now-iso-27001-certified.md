@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-21T16:00:32Z
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-red-hat-openshift-has-a-new-certification/"
 type: article
 quality: 17
-heat: 37
+heat: 17
 published: false
 
 provider:
