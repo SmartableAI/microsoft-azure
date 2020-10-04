@@ -1074,6 +1074,20 @@ related:
         width: 600
         height: 277
         isCached: true
+  - title: "Microsoft Innovates Its Azure Multi-Cloud, Multi-Edge Hybrid Capabilities"
+    excerpt: "During the recent Ignite virtual conference, Microsoft announced several updates for their Azure multi-cloud and edge hybrid offerings. These updates span from security innovations to new edge capabilities."
+    publishedDateTime: 2020-10-04T14:09:00Z
+    webUrl: "https://www.infoq.com/news/2020/10/azure-cloud-hybrid-edge/"
+    type: article
+    provider:
+      name: InfoQ
+      domain: infoq.com
+    quality: 36
+    images:
+      - url: "https://res.infoq.com/news/2020/10/azure-cloud-hybrid-edge/en/headerimage/croppted-Multi+Cloud+Azure-1601662293451.jpeg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "NCR brings its IoT management software to Microsoft Azure"
     excerpt: "Digital Connected Services IoT management software will run on Azure's IoT AI technology.\"By leveraging Microsoft Azure and its AI and IoT capabilities, NCR is helping retailers, restaurants and financial institutions simplify and keep commerce running with Microsoft's trusted,"
     publishedDateTime: 2020-09-16T20:34:00Z

@@ -1,27 +1,26 @@
 ---
 category: news
-title: "Microsoft unveils Azure Orbital connecting satellites to its cloud"
-excerpt: "Microsoft CEO Sataya Nadella speaking at Microsoft Ignite 2020, the annual developer conference. SAN FRANCISCO – Microsoft unveiled Azure Orbital Sept. 22, a service to help customers move data ..."
-publishedDateTime: 2020-09-22T16:03:00Z
-originalUrl: "https://spacenews.com/azure-orbital-introduction/"
-webUrl: "https://spacenews.com/azure-orbital-introduction/"
+title: "Microsoft Innovates Its Azure Multi-Cloud, Multi-Edge Hybrid Capabilities"
+excerpt: "During the recent Ignite virtual conference, Microsoft announced several updates for their Azure multi-cloud and edge hybrid offerings. These updates span from security innovations to new edge capabilities."
+publishedDateTime: 2020-10-04T14:09:00Z
+originalUrl: "https://www.infoq.com/news/2020/10/azure-cloud-hybrid-edge/"
+webUrl: "https://www.infoq.com/news/2020/10/azure-cloud-hybrid-edge/"
 type: article
-quality: 54
+quality: 36
 heat: -1
 published: false
 
 provider:
-  name: SpaceNews
-  domain: spacenews.com
+  name: InfoQ
+  domain: infoq.com
 
 topics:
   - Azure
-  - Networking
 
 images:
-  - url: "https://spacenews.com/wp-content/uploads/2020/09/rsz_screen_shot_2020-09-22_at_81844_am.png"
-    width: 879
-    height: 496
+  - url: "https://res.infoq.com/news/2020/10/azure-cloud-hybrid-edge/en/headerimage/croppted-Multi+Cloud+Azure-1601662293451.jpeg"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -622,6 +621,20 @@ related:
         width: 2000
         height: 2000
         isCached: true
+  - title: "Microsoft unveils Azure Orbital connecting satellites to its cloud"
+    excerpt: "Microsoft CEO Sataya Nadella speaking at Microsoft Ignite 2020, the annual developer conference. SAN FRANCISCO – Microsoft unveiled Azure Orbital Sept. 22, a service to help customers move data ..."
+    publishedDateTime: 2020-09-22T16:03:00Z
+    webUrl: "https://spacenews.com/azure-orbital-introduction/"
+    type: article
+    provider:
+      name: SpaceNews
+      domain: spacenews.com
+    quality: 54
+    images:
+      - url: "https://spacenews.com/wp-content/uploads/2020/09/rsz_screen_shot_2020-09-22_at_81844_am.png"
+        width: 879
+        height: 496
+        isCached: true
   - title: "SES Becomes Microsoft Azure Orbital Founding Connectivity Partner"
     excerpt: "SES today announced it has joined as the medium Earth orbit (MEO) connectivity partner for Microsoft Azure Orbital, Microsoft’s new managed service enabling network operators to communicate and ..."
     publishedDateTime: 2020-09-22T19:04:00Z
@@ -1058,20 +1071,6 @@ related:
       - url: "https://www.indiainfoline.com/include/_mod/site/images/currentoffer_mobile.png"
         width: 600
         height: 277
-        isCached: true
-  - title: "Microsoft Innovates Its Azure Multi-Cloud, Multi-Edge Hybrid Capabilities"
-    excerpt: "During the recent Ignite virtual conference, Microsoft announced several updates for their Azure multi-cloud and edge hybrid offerings. These updates span from security innovations to new edge capabilities."
-    publishedDateTime: 2020-10-04T14:09:00Z
-    webUrl: "https://www.infoq.com/news/2020/10/azure-cloud-hybrid-edge/"
-    type: article
-    provider:
-      name: InfoQ
-      domain: infoq.com
-    quality: 36
-    images:
-      - url: "https://res.infoq.com/news/2020/10/azure-cloud-hybrid-edge/en/headerimage/croppted-Multi+Cloud+Azure-1601662293451.jpeg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Meet Microsoft Cloud for Healthcare, Microsoft’s first industry-specific cloud solution"
     excerpt: "Microsoft made great progress in the health care related business. Today, Microsoft is announcing Microsoft Cloud for Healthcare, its first industry-specific cloud solution."
@@ -1524,6 +1523,6 @@ related:
         height: 450
         isCached: true
 
-secured: "x5rmV4ggrDQb0ruvLb/B+ZnFRxYD/oFIrQCMKQdEn5oeNE1VcuARLDW+4/U5S72b8O5qp0xDdYOpYZ03Hn4Y00Bd6DJ3kUo3DETZtTVJi4VKLWYIrvPP4DC6JfPJM29Jz5vhJrCHs+lltQfyVfNvXoT9eT/LwQkSe45wL2vN9tqzNoOsFVXhhrsSHon3Ke3L4shZ+z0ajQBWQ9Vv2a37t8wuArBbHr08vgXjbQm2U0rbh+RCxzQiQ5xYEXlA2nR5UYFsduSvtLTa2Uy4hUJNHtfXKOuOF1HKzG4O/RGfj1f0g1haSxGLTFqOKlDkfwlxbs2k2FHRb7q54tSOlmqS4ZllaXv5r2fBrcKIFKHVnQiO87vKjoNbNzBbnt2Lonod9hqUrPoMZqYi6kkwPGOtw2zYL+mC+rsbn8RKmm5fD2QdVKUuPgDXo4NXoUhaBplen7qlgeuYn9hArdahmEkVpL5E44IYvmjm6DJpoLgZsJ1PiSwEyOHGHyhu4zRKBKQsBkMmj/OSxVbxpaOepVVXOw==;3Fq0hIbt2BWCNaNqh2ZKKA=="
+secured: "baJL9UOD/5K4YPMqzrtDlHUJ+Obq3GQE8CJ2Oo2SMzqx7rIqEp6E7WN0cvkEV3dPZaj0rUuknYJOfSQ7VdQe2G67ohRi7rY2R4Q6e4YKug/Yj2/OfztnYUUkT/G2WxSntMPR+9v2nrbUtwhl8XKVAzU/8exayPDzrOBmjkQW4o7Z4SvEgR+fFPdxkytAaKoRuYbfMol6ZFtEq5jhFXx9AvapWQFAyZwJoMktGYiFh8Oy8/DqOdfzPgb8Mm47TMCs4mwbcl+6ies1xwUdEMFXqAb10dN34grKWaorieTak3qfEaIbpyoWdvLVaL6GB5ukws3s0RStwzx1Y0EubTEQMKeSRds2noyrF04OYe5lfEQ=;zQUPcuCo+oRnxNssK1K/dw=="
 ---
 

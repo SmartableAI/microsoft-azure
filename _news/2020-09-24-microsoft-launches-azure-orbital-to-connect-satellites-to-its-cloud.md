@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2020/09/22/microsoft-launches-azure-orbital-t
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/09/22/microsoft-launches-azure-orbital-to-connect-satellites-to-its-cloud/amp/"
 type: article
 quality: 114
-heat: 2354
+heat: 2374
 published: true
 
 provider:
@@ -1062,6 +1062,20 @@ related:
       - url: "https://www.indiainfoline.com/include/_mod/site/images/currentoffer_mobile.png"
         width: 600
         height: 277
+        isCached: true
+  - title: "Microsoft Innovates Its Azure Multi-Cloud, Multi-Edge Hybrid Capabilities"
+    excerpt: "During the recent Ignite virtual conference, Microsoft announced several updates for their Azure multi-cloud and edge hybrid offerings. These updates span from security innovations to new edge capabilities."
+    publishedDateTime: 2020-10-04T14:09:00Z
+    webUrl: "https://www.infoq.com/news/2020/10/azure-cloud-hybrid-edge/"
+    type: article
+    provider:
+      name: InfoQ
+      domain: infoq.com
+    quality: 36
+    images:
+      - url: "https://res.infoq.com/news/2020/10/azure-cloud-hybrid-edge/en/headerimage/croppted-Multi+Cloud+Azure-1601662293451.jpeg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Meet Microsoft Cloud for Healthcare, Microsoft’s first industry-specific cloud solution"
     excerpt: "Microsoft made great progress in the health care related business. Today, Microsoft is announcing Microsoft Cloud for Healthcare, its first industry-specific cloud solution."
