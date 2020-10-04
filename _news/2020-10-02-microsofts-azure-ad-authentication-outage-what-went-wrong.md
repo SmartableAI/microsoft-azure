@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/microsofts-azure-ad-authent
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsofts-azure-ad-authentication-outage-what-went-wrong/"
 type: article
 quality: 97
-heat: 139
+heat: 159
 published: true
 
 provider:
@@ -45,6 +45,20 @@ related:
       - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2018/08/minecraft-realms-hero-01.jpg"
         width: 800
         height: 420
+        isCached: true
+  - title: "Ooredoo enables digital transformation with connectivity solution to Microsoft Azure"
+    excerpt: "Ooredoo has announced the launch of Ooredoo Cloud Connect to Microsoft Azure to provide Qatar’s organisations with secure, reliable, and affordable cloud connectivity services to drive digital transfo"
+    publishedDateTime: 2020-10-04T17:05:00Z
+    webUrl: "https://www.gulf-times.com/story/674497/Ooredoo-enables-digital-transformation-with-connec"
+    type: article
+    provider:
+      name: Gulf Times
+      domain: gulf-times.com
+    quality: 30
+    images:
+      - url: "https://img.gulf-times.com/Content/Upload/Slider/2201825205426929928844.jpg"
+        width: 620
+        height: 355
         isCached: true
   - title: "odix joins the Microsoft Intelligent Security Association (MISA) program extending FileWall security logs to Microsoft Azure Sentinel"
     excerpt: "PRNewswire/ --  odix, the Israel based cyber security leader in Enterprise CDR (Content Disarm and Reconstruction) technology, has officially  joined"

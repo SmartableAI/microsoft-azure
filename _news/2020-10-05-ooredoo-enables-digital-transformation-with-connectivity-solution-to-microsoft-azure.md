@@ -1,27 +1,26 @@
 ---
 category: news
-title: "odix joins the Microsoft Intelligent Security Association (MISA) program extending FileWall security logs to Microsoft Azure Sentinel"
-excerpt: "PRNewswire/ --  odix, the Israel based cyber security leader in Enterprise CDR (Content Disarm and Reconstruction) technology, has officially  joined"
-publishedDateTime: 2020-09-30T06:00:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/odix-joins-the-microsoft-intelligent-security-association-misa-program-extending-filewall-security-logs-to-microsoft-azure-sentinel-301140169.html"
-webUrl: "https://www.prnewswire.com/news-releases/odix-joins-the-microsoft-intelligent-security-association-misa-program-extending-filewall-security-logs-to-microsoft-azure-sentinel-301140169.html"
+title: "Ooredoo enables digital transformation with connectivity solution to Microsoft Azure"
+excerpt: "Ooredoo has announced the launch of Ooredoo Cloud Connect to Microsoft Azure to provide Qatar’s organisations with secure, reliable, and affordable cloud connectivity services to drive digital transfo"
+publishedDateTime: 2020-10-04T17:05:00Z
+originalUrl: "https://www.gulf-times.com/story/674497/Ooredoo-enables-digital-transformation-with-connec"
+webUrl: "https://www.gulf-times.com/story/674497/Ooredoo-enables-digital-transformation-with-connec"
 type: article
-quality: 23
+quality: 30
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Gulf Times
+  domain: gulf-times.com
 
 topics:
   - Azure
-  - Security
 
 images:
-  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-    width: 600
-    height: 315
+  - url: "https://img.gulf-times.com/Content/Upload/Slider/2201825205426929928844.jpg"
+    width: 620
+    height: 355
     isCached: true
 
 related:
@@ -57,21 +56,21 @@ related:
         width: 800
         height: 420
         isCached: true
-  - title: "Ooredoo enables digital transformation with connectivity solution to Microsoft Azure"
-    excerpt: "Ooredoo has announced the launch of Ooredoo Cloud Connect to Microsoft Azure to provide Qatar’s organisations with secure, reliable, and affordable cloud connectivity services to drive digital transfo"
-    publishedDateTime: 2020-10-04T17:05:00Z
-    webUrl: "https://www.gulf-times.com/story/674497/Ooredoo-enables-digital-transformation-with-connec"
+  - title: "odix joins the Microsoft Intelligent Security Association (MISA) program extending FileWall security logs to Microsoft Azure Sentinel"
+    excerpt: "PRNewswire/ --  odix, the Israel based cyber security leader in Enterprise CDR (Content Disarm and Reconstruction) technology, has officially  joined"
+    publishedDateTime: 2020-09-30T06:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/odix-joins-the-microsoft-intelligent-security-association-misa-program-extending-filewall-security-logs-to-microsoft-azure-sentinel-301140169.html"
     type: article
     provider:
-      name: Gulf Times
-      domain: gulf-times.com
-    quality: 30
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 23
     images:
-      - url: "https://img.gulf-times.com/Content/Upload/Slider/2201825205426929928844.jpg"
-        width: 620
-        height: 355
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
         isCached: true
 
-secured: "rFmHfDiBexD7j3U4eeLrhP/6vPGGoTcJftjfoD/WKj1PysZIqxlkwKXjBYzopqup9eKmbyuyGdbTvxgp3kJbRbPBKs3az5LkAvMdGK/vVRhEDgJ5asbsNnCszZHSYYxsSYSN/qM/QUYiWbPHSRMHuA+TbicRZtnOMgQjbkUUrDt/e3DIat3yZtBjNWK+mP4t9m5ExwvHehYoIuYkfezzhFaUctjBNfLmJC/nq7uZCaR3hpjNGa06nnEnx+GBfH8pUzjUEnpb6yHnetFRW4XTMv4xr787zNLQONk1zoQe/aVlewPbyTKZP46/E7pa8VmCyhPUOJDSkYU/fHjmWaVGwP3P7bFvmmT8x+R1GtVBA+A=;6jqjmLx4KxFZBV/oHjrIXg=="
+secured: "/GaA4wiAKmQlW7MGD0y4K2DXVNlI74rUvHtrMqhPQ9KU9kzMal7BolCzZejvaeHe0RB5rZGRFMvte61TKvhxsaLXy0hV67KN4kXyRNmTPDSNdIwWxyqBLm6oMGYi6W5WeA08DdinvqbsMrPv7vmgAWVh6AjChaox9dSzFITzvxCk4ue1fMwwM/IExu7Xq8a5OiApq1ygvckUQVLKTI5xozhRXFxEQf0HlKMRwlBWuojKvgJJLmjYwYhSZix2QiqqITW4UYbXwBoV0hw0IVp2r6TPEGREg1f/rjwLansgWdBXFQWL7KctOU3chcNh5879zr/xvV2ge6cK0KdI/HGNNDwgOlbtHtu7E/krT7MtMJM=;WeQDT6ywwaSDkj2a61jKxw=="
 ---
 
