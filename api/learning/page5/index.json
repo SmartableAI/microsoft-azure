@@ -4,6 +4,181 @@
   "page": 5,
   "value": [
     {
+      "path": "_learning/collections/microsoft-learn-connect-your-services-together.md",
+      "title": "Connect your services together",
+      "excerpt": "Use Azure to create website front-ends, back-end services, and triggered functions that compute-on-demand and can also communicate with each other.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-connect-your-services-together/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-connect-your-services-together/",
+      "length": "PT3H31M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner",
+        "Intermediate"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-choose-messaging-model.md",
+          "title": "Choose a messaging model in Azure to loosely connect your services",
+          "excerpt": "Learn how Azure's storage queues, event hubs, event grid, and service bus can improve your communication between devices.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-choose-messaging-model/index.json",
+          "webUrl": "https://docs.microsoft.com/learn/modules/choose-a-messaging-model-in-azure-to-connect-your-services/",
+          "length": "PT45M",
+          "ratings": {
+            "count": 3123,
+            "average": 4.5846944
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 52,
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Integration",
+            "IoT",
+            "Analytics"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-implement-message-workflows-with-service-bus.md",
+          "title": "Implement message-based communication workflows with Azure Service Bus",
+          "excerpt": "Discover how to write code in .NET applications using Azure Service Bus for communications that can handle high demand, low bandwidth, and hardware failures.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-implement-message-workflows-with-service-bus/index.json",
+          "webUrl": "https://docs.microsoft.com/learn/modules/implement-message-workflows-with-service-bus/",
+          "length": "PT54M",
+          "ratings": {
+            "count": 2065,
+            "average": 4.6552057
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 54,
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Integration"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-communicate-between-applications-with-azure-queue-storage.md",
+          "title": "Communicate between applications with Azure Queue storage",
+          "excerpt": "Find out to use Azure Queue storage to handle high demand and improve resilience in your distributed applications.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-communicate-between-applications-with-azure-queue-storage/index.json",
+          "webUrl": "https://docs.microsoft.com/learn/modules/communicate-between-apps-with-azure-queue-storage/",
+          "length": "PT56M",
+          "ratings": {
+            "count": 1694,
+            "average": 4.5844154
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 52,
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Storage"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-enable-reliable-messaging-for-big-data-applications-using-azure-event-hubs.md",
+          "title": "Enable reliable messaging for Big Data applications using Azure Event Hubs",
+          "excerpt": "Learn to use Azure Event Hubs to reliably process high-volume data streams to enable you to code applications to send and receive messages through the hub.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-enable-reliable-messaging-for-big-data-applications-using-azure-event-hubs/index.json",
+          "webUrl": "https://docs.microsoft.com/learn/modules/enable-reliable-messaging-for-big-data-apps-using-event-hubs/",
+          "length": "PT56M",
+          "ratings": {
+            "count": 1854,
+            "average": 4.4460626
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 54,
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Analytics"
+          ]
+        }
+      ],
+      "size": 4,
+      "heat": 64,
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Integration",
+        "IoT",
+        "Analytics",
+        "Storage"
+      ]
+    },
+    {
       "path": "_learning/collections/microsoft-learn-evolve-your-devops-practices.md",
       "title": "Evolve your DevOps practices",
       "excerpt": "In this learning path, find out how Azure DevOps enables transparency and cooperation with continuous delivery and deployment for your development lifecycle.",
@@ -75,8 +250,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/get-started-with-devops/",
           "length": "PT25M",
           "ratings": {
-            "count": 6939,
-            "average": 4.721718
+            "count": 6940,
+            "average": 4.721758
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -223,8 +398,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/introduce-foundation-pillars-devops/",
           "length": "PT25M",
           "ratings": {
-            "count": 2008,
-            "average": 4.642928
+            "count": 2010,
+            "average": 4.6422887
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -291,8 +466,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/analyze-devops-continuous-planning-intergration/",
           "length": "PT22M",
           "ratings": {
-            "count": 1289,
-            "average": 4.696664
+            "count": 1291,
+            "average": 4.697134
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -393,8 +568,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/design-your-migration-to-azure/",
           "length": "PT44M",
           "ratings": {
-            "count": 1462,
-            "average": 4.6265388
+            "count": 1463,
+            "average": 4.6267943
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -518,8 +693,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/migrate-sql-server-relational-data/",
           "length": "PT1H24M",
           "ratings": {
-            "count": 806,
-            "average": 4.3759303
+            "count": 807,
+            "average": 4.375465
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -563,195 +738,6 @@
       ]
     },
     {
-      "path": "_learning/collections/microsoft-learn-work-with-relational-data-in-azure.md",
-      "title": "Work with relational data in Azure",
-      "excerpt": "This learning path introduces you to Azure-supported SQL-based enterprise data solutions enabling you to store and retrieve your app's data in the cloud.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-work-with-relational-data-in-azure/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-work-with-relational-data-in-azure/",
-      "length": "PT5H34M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "topItems": [
-        {
-          "path": "_learning/courses/microsoft-learn-provision-azure-sql-db.md",
-          "title": "Provision an Azure SQL database to store application data",
-          "excerpt": "Find out what makes Azure SQL Database a good choice for your relational database, how to create the database from the portal and connect with Azure Cloud Shell.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-provision-azure-sql-db/index.json",
-          "webUrl": "https://docs.microsoft.com/learn/modules/provision-azure-sql-db/",
-          "length": "PT50M",
-          "ratings": {
-            "count": 4690,
-            "average": 4.650533
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 54,
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Databases",
-            "Management Tools"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-migrate-sql-server-relational-data.md",
-          "title": "Migrate your relational data stored in SQL Server to Azure SQL Database",
-          "excerpt": "Plan and implement the migration of relational data from SQL Server to Azure SQL Database. Select the appropriate migration strategy for your database, and then use Data Migration Assistant to do the assessment and the migration.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-migrate-sql-server-relational-data/index.json",
-          "webUrl": "https://docs.microsoft.com/learn/modules/migrate-sql-server-relational-data/",
-          "length": "PT1H24M",
-          "ratings": {
-            "count": 806,
-            "average": 4.3759303
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 56,
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Databases"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-create-azure-db-for-postgresql.md",
-          "title": "Create an Azure Database for PostgreSQL server",
-          "excerpt": "Learn how to create and deploy Azure Database for PostgreSQL for fully managed, enterprise-ready PostgreSQL database services.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-create-azure-db-for-postgresql/index.json",
-          "webUrl": "https://docs.microsoft.com/learn/modules/create-azure-db-for-postgresql-server/",
-          "length": "PT44M",
-          "ratings": {
-            "count": 1832,
-            "average": 4.6222706
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 50,
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Management Tools",
-            "Databases"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-azure-scale-azure-sql-dbs-elastic-pools.md",
-          "title": "Scale multiple Azure SQL Databases with SQL elastic pools",
-          "excerpt": "Learn how to create SQL elastic pools and how to use them to manage performance and cost for a collection of SQL databases.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-azure-scale-azure-sql-dbs-elastic-pools/index.json",
-          "webUrl": "https://docs.microsoft.com/learn/modules/scale-sql-databases-elastic-pools/",
-          "length": "PT39M",
-          "ratings": {
-            "count": 3418,
-            "average": 4.577531
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 53,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/azure-scale-azure-sql-databases-elastic-pools-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Management Tools",
-            "Databases"
-          ]
-        }
-      ],
-      "size": 6,
-      "heat": 64,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/azure-scale-azure-sql-databases-elastic-pools-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Databases",
-        "Management Tools"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-align-requirements-in-azure.md",
       "title": "Align requirements with cloud types and service models in Azure",
       "excerpt": "Discover Azure's three approaches to deploying cloud resources -- public, private, and hybrid -- and learn the difference each makes in your Azure services.",
@@ -759,8 +745,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/align-requirements-in-azure/",
       "length": "PT35M",
       "ratings": {
-        "count": 5708,
-        "average": 4.7380867
+        "count": 5709,
+        "average": 4.738133
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -834,8 +820,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/choose-azure-service-to-integrate-and-automate-business-processes/",
       "length": "PT44M",
       "ratings": {
-        "count": 10248,
-        "average": 4.571331
+        "count": 10252,
+        "average": 4.5714006
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -875,8 +861,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/describe-sql-server-query-plans/",
       "length": "PT54M",
       "ratings": {
-        "count": 355,
-        "average": 4.7577467
+        "count": 357,
+        "average": 4.759104
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -917,8 +903,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/network-fundamentals/",
       "length": "PT47M",
       "ratings": {
-        "count": 3054,
-        "average": 4.7000656
+        "count": 3055,
+        "average": 4.700164
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1058,8 +1044,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/introduction-to-iot-hub/",
           "length": "PT28M",
           "ratings": {
-            "count": 1281,
-            "average": 4.6518345
+            "count": 1282,
+            "average": 4.6521063
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1156,8 +1142,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/create-serverless-logic-with-azure-functions/",
       "length": "PT36M",
       "ratings": {
-        "count": 6510,
-        "average": 4.66298
+        "count": 6511,
+        "average": 4.6630316
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1192,8 +1178,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/describe-performance-monitoring/",
       "length": "PT42M",
       "ratings": {
-        "count": 448,
-        "average": 4.821429
+        "count": 450,
+        "average": 4.822222
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1291,8 +1277,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/create-serverless-logic-with-azure-functions/",
           "length": "PT36M",
           "ratings": {
-            "count": 6510,
-            "average": 4.66298
+            "count": 6511,
+            "average": 4.6630316
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1488,8 +1474,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/intro-to-azure-fundamentals/",
           "length": "PT36M",
           "ratings": {
-            "count": 312,
-            "average": 4.7788463
+            "count": 315,
+            "average": 4.7777777
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1529,8 +1515,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/ai-machine-learning-fundamentals/",
           "length": "PT23M",
           "ratings": {
-            "count": 27,
-            "average": 4.740741
+            "count": 28,
+            "average": 4.75
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1830,8 +1816,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/azure-sql-performance/",
           "length": "PT1H24M",
           "ratings": {
-            "count": 45,
-            "average": 4.822222
+            "count": 46,
+            "average": 4.826087
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1913,8 +1899,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/azure-well-architected-introduction/",
           "length": "PT1H4M",
           "ratings": {
-            "count": 938,
-            "average": 4.728145
+            "count": 939,
+            "average": 4.7284346
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2360,8 +2346,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/choose-api-for-cosmos-db/",
           "length": "PT38M",
           "ratings": {
-            "count": 2070,
-            "average": 4.6758456
+            "count": 2071,
+            "average": 4.675519
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2402,8 +2388,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/access-data-with-cosmos-db-and-sql-api/",
           "length": "PT58M",
           "ratings": {
-            "count": 2511,
-            "average": 4.6483474
+            "count": 2512,
+            "average": 4.647293
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2532,8 +2518,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/create-users-and-groups-in-azure-active-directory/",
       "length": "PT41M",
       "ratings": {
-        "count": 2632,
-        "average": 4.701368
+        "count": 2633,
+        "average": 4.7014813
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2639,8 +2625,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/introduction-to-iot-hub/",
           "length": "PT28M",
           "ratings": {
-            "count": 1281,
-            "average": 4.6518345
+            "count": 1282,
+            "average": 4.6521063
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2939,8 +2925,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/control-authentication-with-apim/",
           "length": "PT55M",
           "ratings": {
-            "count": 1538,
-            "average": 4.636541
+            "count": 1539,
+            "average": 4.636777
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3302,8 +3288,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/enterprise-scale-networking/",
           "length": "PT54M",
           "ratings": {
-            "count": 19,
-            "average": 4.736842
+            "count": 20,
+            "average": 4.75
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3344,8 +3330,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/enterprise-scale-operations/",
           "length": "PT44M",
           "ratings": {
-            "count": 24,
-            "average": 4.8333335
+            "count": 25,
+            "average": 4.84
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3426,8 +3412,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/create-your-first-iot-central-app/",
           "length": "PT1H22M",
           "ratings": {
-            "count": 588,
-            "average": 4.5816326
+            "count": 589,
+            "average": 4.580645
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4236,8 +4222,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/automate-azure-tasks-with-powershell/",
       "length": "PT1H11M",
       "ratings": {
-        "count": 4841,
-        "average": 4.7097707
+        "count": 4842,
+        "average": 4.7098308
       },
       "provider": {
         "name": "Microsoft Learn",

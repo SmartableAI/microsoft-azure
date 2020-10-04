@@ -4,6 +4,171 @@
   "page": 12,
   "value": [
     {
+      "path": "_learning/collections/microsoft-learn-azure-fundamentals-part-4-describe-general-security-and-network-security-features.md",
+      "title": "Azure Fundamentals part 4: Describe general security and network security features",
+      "excerpt": "Learn about the various Azure services you can use to help ensure that your cloud resources are safe, secure, and trusted.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-azure-fundamentals-part-4-describe-general-security-and-network-security-features/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-azure-fundamentals-part-4-describe-general-security-and-network-security-features/",
+      "length": "PT1H31M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-intro-to-azure-fundamentals.md",
+          "title": "Introduction to Azure Fundamentals",
+          "excerpt": "This module introduces you to the basics of Azure.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-to-azure-fundamentals/index.json",
+          "webUrl": "https://docs.microsoft.com/learn/modules/intro-to-azure-fundamentals/",
+          "length": "PT36M",
+          "ratings": {
+            "count": 315,
+            "average": 4.7777777
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 69,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/intro-to-azure-fundamentals-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-protect-against-security-threats-azure.md",
+          "title": "Protect against security threats on Azure",
+          "excerpt": "Learn how Azure can help you protect the workloads you run both in the cloud and in your on-premises datacenter.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-protect-against-security-threats-azure/index.json",
+          "webUrl": "https://docs.microsoft.com/learn/modules/protect-against-security-threats-azure/",
+          "length": "PT23M",
+          "ratings": {
+            "count": 22,
+            "average": 4.909091
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 52,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/review-security-tools-features-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Security"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-secure-network-connectivity-azure.md",
+          "title": "Secure network connectivity on Azure",
+          "excerpt": "Learn about the various Azure services you can use to help ensure that your network is safe, secure, and trusted.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-secure-network-connectivity-azure/index.json",
+          "webUrl": "https://docs.microsoft.com/learn/modules/secure-network-connectivity-azure/",
+          "length": "PT32M",
+          "ratings": {
+            "count": 22,
+            "average": 4.909091
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 52,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/secure-network-connectivity-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure"
+          ]
+        }
+      ],
+      "size": 3,
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/intro-to-azure-fundamentals-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Security"
+      ]
+    },
+    {
       "path": "_learning/collections/microsoft-learn-azure-fundamentals-part-6-describe-azure-cost-management-and-service-level-agreements.md",
       "title": "Azure Fundamentals part 6: Describe Azure cost management and service level agreements",
       "excerpt": "Learn about the factors that influence cost, tools you can use to help estimate and manage your cloud spend, and how Azure's service-level agreements (SLAs) can impact your application design decisions.",
@@ -34,8 +199,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/intro-to-azure-fundamentals/",
           "length": "PT36M",
           "ratings": {
-            "count": 312,
-            "average": 4.7788463
+            "count": 315,
+            "average": 4.7777777
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -197,8 +362,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/introduction-to-azure-data-lake-storage/",
           "length": "PT30M",
           "ratings": {
-            "count": 1701,
-            "average": 4.6942973
+            "count": 1702,
+            "average": 4.694477
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -239,8 +404,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/upload-data-to-azure-data-lake-storage/",
           "length": "PT50M",
           "ratings": {
-            "count": 1599,
-            "average": 4.592245
+            "count": 1600,
+            "average": 4.5925
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -343,8 +508,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/app-service-autoscale-rules/",
       "length": "PT47M",
       "ratings": {
-        "count": 595,
-        "average": 4.5966387
+        "count": 596,
+        "average": 4.595638
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -629,8 +794,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/build-serverless-api-with-functions-api-management/",
       "length": "PT41M",
       "ratings": {
-        "count": 1129,
-        "average": 4.6111603
+        "count": 1131,
+        "average": 4.610964
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -792,8 +957,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/choose-api-for-cosmos-db/",
       "length": "PT38M",
       "ratings": {
-        "count": 2070,
-        "average": 4.6758456
+        "count": 2071,
+        "average": 4.675519
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -909,8 +1074,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/control-authentication-with-apim/",
       "length": "PT55M",
       "ratings": {
-        "count": 1538,
-        "average": 4.636541
+        "count": 1539,
+        "average": 4.636777
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -952,8 +1117,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/create-a-build-pipeline/",
       "length": "PT1H20M",
       "ratings": {
-        "count": 4793,
-        "average": 4.741915
+        "count": 4794,
+        "average": 4.741969
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1081,8 +1246,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/distribute-data-globally-with-cosmos-db/",
       "length": "PT31M",
       "ratings": {
-        "count": 1541,
-        "average": 4.605451
+        "count": 1542,
+        "average": 4.6044097
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1281,8 +1446,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/get-started-with-devops/",
       "length": "PT25M",
       "ratings": {
-        "count": 6939,
-        "average": 4.721718
+        "count": 6940,
+        "average": 4.721758
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1315,8 +1480,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/identify-threats-with-azure-security-center/",
       "length": "PT43M",
       "ratings": {
-        "count": 766,
-        "average": 4.6906004
+        "count": 767,
+        "average": 4.6897
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1399,8 +1564,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/intro-to-azure-linux/",
       "length": "PT16M",
       "ratings": {
-        "count": 739,
-        "average": 4.7713127
+        "count": 740,
+        "average": 4.7716217
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1430,40 +1595,6 @@
       "price": "Free",
       "topics": [
         "Azure"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-intro-to-azure-sentinel.md",
-      "title": "Introduction to Azure Sentinel",
-      "excerpt": "Get familiar with Azure Sentinel, a cloud native security information and event management (SIEM) service.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-to-azure-sentinel/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/intro-to-azure-sentinel/",
-      "length": "PT29M",
-      "ratings": {
-        "count": 29,
-        "average": 4.793103
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 52,
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Security"
       ]
     }
   ],
