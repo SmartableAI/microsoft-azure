@@ -126,6 +126,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Microsoft gets into 5G race with Azure cloud for telecom operators"
+    excerpt: "Microsoft Corp <MSFT.O> unveiled a new cloud platform on Monday aimed at enabling telecom operators to build 5G networks faster, reduce costs and sell customised services to business clients."
+    publishedDateTime: 2020-09-28T20:07:00Z
+    webUrl: "https://www.reuters.com/article/us-microsoft-5g-idUSKBN26J2EE"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26J2EE"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26J2EE"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 97
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20200928&t=2&i=1535226807&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG8R1KJ"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Microsoft Office 365, Azure Cloud Disrupted by Service Issues"
     excerpt: "Microsoft on Monday suffered disruptions with its Office 365 workplace software tools and its Azure cloud that disabled some users for hours."
     publishedDateTime: 2020-09-29T02:09:00Z
@@ -385,17 +401,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Microsoft gets into 5G race with Azure cloud for telecom operators"
-    excerpt: "Microsoft Corp <MSFT.O> unveiled a new cloud platform on Monday aimed at enabling telecom operators to build 5G networks faster, reduce costs and sell customised services to business clients."
-    publishedDateTime: 2020-09-29T05:46:00Z
-    webUrl: "https://www.businessinsider.com/microsoft-gets-into-5g-race-with-azure-cloud-for-telecom-operators-2020-9"
-    ampWebUrl: "https://www.businessinsider.com/microsoft-gets-into-5g-race-with-azure-cloud-for-telecom-operators-2020-9?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/microsoft-gets-into-5g-race-with-azure-cloud-for-telecom-operators-2020-9?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 77
   - title: "Microsoft (MSFT) Azure to Transform 5G Edge Cloud Computing"
     excerpt: "Microsoft MSFT is focused on making the most of 5G networking capabilities to transform cloud and edge computing. The tech giant is working in collaboration with the telecommunications industry to develop a carrier-grade platform for edge and cloud –– Azure for Operators."
     publishedDateTime: 2020-09-29T14:38:00Z

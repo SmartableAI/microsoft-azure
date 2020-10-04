@@ -2,26 +2,32 @@
 category: news
 title: "Microsoft gets into 5G race with Azure cloud for telecom operators"
 excerpt: "Microsoft Corp <MSFT.O> unveiled a new cloud platform on Monday aimed at enabling telecom operators to build 5G networks faster, reduce costs and sell customised services to business clients."
-publishedDateTime: 2020-09-29T05:46:00Z
-originalUrl: "https://www.businessinsider.com/microsoft-gets-into-5g-race-with-azure-cloud-for-telecom-operators-2020-9"
-webUrl: "https://www.businessinsider.com/microsoft-gets-into-5g-race-with-azure-cloud-for-telecom-operators-2020-9"
-ampWebUrl: "https://www.businessinsider.com/microsoft-gets-into-5g-race-with-azure-cloud-for-telecom-operators-2020-9?amp"
-cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/microsoft-gets-into-5g-race-with-azure-cloud-for-telecom-operators-2020-9?amp"
+publishedDateTime: 2020-09-28T20:07:00Z
+originalUrl: "https://www.reuters.com/article/us-microsoft-5g-idUSKBN26J2EE"
+webUrl: "https://www.reuters.com/article/us-microsoft-5g-idUSKBN26J2EE"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26J2EE"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26J2EE"
 type: article
-quality: 77
+quality: 97
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
+  name: Reuters
+  domain: reuters.com
   images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/businessinsider.com-50x50.jpg"
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/reuters.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Azure
+
+images:
+  - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20200928&t=2&i=1535226807&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG8R1KJ"
+    width: 817
+    height: 545
+    isCached: true
 
 related:
   - title: "Microsoft launches Azure Orbital to connect satellites to its cloud"
@@ -1507,6 +1513,6 @@ related:
         height: 450
         isCached: true
 
-secured: "RZf9JYHGKIfl0usBjIGUG9sYuhFqiQoail39bqCUafqFtn/BQX+enS4+E8R2fQg/tpzvGzjaWYodrEfkhFy3C0Jk+hqWWmYLDqdFacpKIq5U6p43SlIQ2BB0FMM1HlP6B9WQSENSGiu/ecHmNEO3SKy9XdGulGMRIUo2PAzexKwKqVF3pwpnOGmoIOijGRE/O4R5g9AxGGsptFOje4McA8iZ++ZryINOVO/3DsVnXtXbtpBdZGgH8gYMn0Kr3CVIDdFrBYp+MBAASUN3X/WrV8ym8FvXs1uW5tYPCGRV6K1ssQ6WRci0zYYd4Xgst4NQ5iHukYEM7bNzLRtlCPXOD6KuFjAwe968ff/g8r5N/vU=;XRYa5ptq8IDcqqlHnDiYnA=="
+secured: "cOd0qyRxsu6PIF00LUTWurL9+xzBbfI0yeZ0a7J1oTkzbuRaSbIPHPSKXnYUYSPokeHiFZPVRrwXafr0ukhuBcjL8UENJCr7KCwV1Y/CIagOcjr8vdRMW/EhsuFdyxktlnS8frUZ7WjGii8lQvMWU6lZKVF6StKLEmsEWWBQG36Do8R/TL5uQHhKcj8k6WkBDovtU155Kryg6t1Nkfq3mjBb8dA5nX5XMJvBioulo1wpCRzvNkNuLW/aq/sTV+qnl9S6VCOd+Suu2SiVf0s3y93ArhwVr8qCdGGVDcku36MpMYOMWXWD6RsU9NFXdH5NmD+1r3jV8+XPtf0pinCfPt2qIjm8np3Unu1A9cBrY0g=;p7bTPfxJP3bzk6hpAfNXLw=="
 ---
 
