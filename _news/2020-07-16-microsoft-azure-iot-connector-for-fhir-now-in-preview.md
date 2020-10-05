@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/microsoft-azure-iot-connector-for
 webUrl: "https://azure.microsoft.com/blog/microsoft-azure-iot-connector-for-fhir-now-in-preview/"
 type: article
 quality: 104
-heat: 1324
+heat: 1304
 published: true
 
 provider:
@@ -687,15 +687,6 @@ related:
     provider:
       name: Seeking Alpha
       domain: seekingalpha.com
-    quality: 17
-  - title: "Azure Monitor for SAP Solutions is now in preview"
-    excerpt: "To help our SAP on Azure customers effectively monitor their SAP applications, today we are announcing the preview of Azure Monitor for SAP solutions, an Azure-native monitoring solution for customers running their SAP solutions on Azure."
-    publishedDateTime: 2020-07-15T08:00:26Z
-    webUrl: "https://azure.microsoft.com/blog/azure-monitor-for-sap-solutions-is-now-in-preview/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
     quality: 17
   - title: "Barracuda introduces SD-WAN service built natively on Microsoft Azure"
     excerpt: "Barracuda released what it calls the first SD-WAN service built natively on Microsoft Azure. The new Barracuda CloudGen WAN service is the first SD-WAN platform that runs inside Azure Virtual WAN Hubs. Hubs can be interconnected through the Microsoft ..."

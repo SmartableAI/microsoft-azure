@@ -6,8 +6,8 @@ publishedDateTime: 2020-09-02T16:00:03Z
 originalUrl: "https://azure.microsoft.com/en-us/updates/azure-monitor-agent-and-data-collection-rules-public-preview/"
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-monitor-agent-and-data-collection-rules-public-preview/"
 type: article
-quality: 67
-heat: 87
+quality: 84
+heat: 104
 published: true
 
 provider:
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - Azure
+  - DevOps
 
 related:
   - title: "Azure Data Lake Storage Gen2 access control list recursive update in public preview"

@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/microsoft-named-a-leader-in-gartn
 webUrl: "https://azure.microsoft.com/blog/microsoft-named-a-leader-in-gartners-magic-quadrant-for-enterprise-integration-platform-as-a-service/"
 type: article
 quality: 78
-heat: 118
+heat: 138
 published: true
 
 provider:
@@ -45,6 +45,15 @@ related:
         width: 607
         height: 670
         isCached: true
+  - title: "Microsoft plans to establish new cloud datacenter region in Greece"
+    excerpt: "The new region is anticipated to include Microsoft Azure, with Microsoft 365, Dynamics 365 and Power Platform to follow."
+    publishedDateTime: 2020-10-05T17:29:42Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/microsoft-plans-to-establish-new-cloud-datacenter-region-in-greece/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 52
   - title: "Microsoft Touts Azure as 'Carrier-Grade Platform' for Telcos Deploying 5G"
     excerpt: "Microsoft on Monday affirmed its software-defined networking infrastructure support for telecom companies, especially as they move more toward rolling out 5G wireless services."
     publishedDateTime: 2020-09-28T22:12:00Z

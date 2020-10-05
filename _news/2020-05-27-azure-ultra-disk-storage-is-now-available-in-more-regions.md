@@ -136,15 +136,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 17
-  - title: "Machine Learning on Azure SQL Managed Instance limited preview available"
-    excerpt: ""
-    publishedDateTime: 2020-05-27T16:00:07Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/machine-learning-on-azure-sql-managed-instance-limited-preview-available/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 16
   - title: "Azure Private Link support for Azure Automation is now available in preview"
     excerpt: "You can now use Azure Private Link to securely connect virtual networks to Azure Automation using private endpoints (in preview)."
     publishedDateTime: 2020-07-09T23:00:06Z

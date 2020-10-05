@@ -48,6 +48,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 99
+  - title: "Public preview of Azure PostgreSQL backup with long term retention "
+    excerpt: "Now you can retain backups for up to 10 years by defining your own backup and retention policy for individual databases on PostgreSQL servers."
+    publishedDateTime: 2020-09-22T16:03:01Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-of-azure-postgresql-backup-with-long-term-retention/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
   - title: "Minimal TLS version setting is now available for Azure Database for PostgreSQL"
     excerpt: ""
     publishedDateTime: 2020-06-04T17:00:39Z

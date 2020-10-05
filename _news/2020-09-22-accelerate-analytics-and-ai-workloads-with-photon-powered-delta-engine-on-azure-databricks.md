@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/accelerate-analytics-and
 webUrl: "https://azure.microsoft.com/en-us/updates/accelerate-analytics-and-ai-workloads-with-photon-powered-delta-engine-on-azure-databricks/"
 type: article
 quality: 91
-heat: 111
+heat: 131
 published: true
 
 provider:
@@ -24,6 +24,15 @@ topics:
   - AI
 
 related:
+  - title: "Dedicated clusters for Azure Monitor Log Analytics with data encryption at rest and Lockbox"
+    excerpt: "Handle large scale deployments better by taking advantage of data encryption at rest (with Customer Managed Keys) & Lockbox, and even configure cluster level capacity reservation with discounted pricing."
+    publishedDateTime: 2020-09-22T16:04:35Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/dedicated-clusters-for-azure-monitor-log-analytics-with-cmk-lockbox/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 91
   - title: "Accelerating genomics workflows and data analysis on Azure"
     excerpt: "Microsoft Genomics has released several open source projects on GitHub, including Cromwell on Azure, Genomics Notebooks and Bioconductor support for Azure. We have also made available a growing list of genomics public datasets on the Azure Open Dataset platform"
     publishedDateTime: 2020-09-25T10:00:39Z

@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-28T00:00:06Z
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-active-directory-registration-service-is-ending-support-for-tls-10-and-11/"
 type: article
 quality: 12
-heat: -1
+heat: 12
 published: false
 
 provider:
@@ -19,35 +19,6 @@ provider:
 
 topics:
   - Azure
-
-related:
-  - title: "AKS-managed Azure Active Directory support is now generally available"
-    excerpt: "Azure Kubernetes Service (AKS)-managed Azure Active Directory (Azure AD) support is now generally available. "
-    publishedDateTime: 2020-07-21T16:00:56Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/aksmanaged-azure-active-directory-support-is-now-generally-available/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 17
-  - title: "Managed identity support in AKS is now available"
-    excerpt: ""
-    publishedDateTime: 2020-04-28T16:30:50Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/managed-identity-support-in-aks-is-now-available/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 2
-  - title: "Data Factory connector support for Delta Lake and Excel is now available"
-    excerpt: "New connectivity added to Azure Data Factory enables managing your Data Lakes using Delta and reading data directly from Excel files."
-    publishedDateTime: 2020-07-16T16:00:39Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/data-factory-connector-support-for-delta-lake-and-excel-is-now-available/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 1
 
 secured: "CAI5bifaB3bx8Cz9hIA0l/BP5jWuG98JqdkvjK5eYDB6heUZYr7JYItYXQA0kQKXf38iLMKv7q9NxZQO7UOvvJ2JP1ELGgSuQ/G4ROoFj+vB8gMykrbIkh9sgWxzOsQHQTRGkhou7AztWmDpilOfHv1tE7EqoDtgTwH0bly/45n2isdpaAFH917cgUQYkVmAfivh2/b+uflXUiAT21j+kbuYnK2QLx5BFceet24sQT3zelzjNo069hLPjcsE6ecIFyI9CXWJD2q0TbkbMjEIdTD5JbR0NhyHvlypNgdub+vSCQ8ZO/ioD5CrmKrbkfsrxfglQY/DGxE4vuEsDBWvCw==;InWM8szNJf+yHpFhTrW9wA=="
 ---

@@ -52,6 +52,24 @@ related:
         width: 1024
         height: 696
         isCached: true
+  - title: "Azure Pipelines announces the general availability of scale-set agents"
+    excerpt: "In the last two months, we improved the reliability in performing various scale-set operations. We have updated the guidance on how to improve the performance of provisioning new virtual machines."
+    publishedDateTime: 2020-09-11T21:13:11Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-pipelines-announce-the-general-availability-of-scaleset-agents/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
+  - title: "Announcing Azure SQL Edge now in general availability"
+    excerpt: "You can reduce cost, drive innovation, and improve operational efficiencies by using Azure SQL Edge to stream, store, and analyze IoT data."
+    publishedDateTime: 2020-09-22T16:05:18Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/announcing-azure-sql-edge-now-in-general-availability/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
   - title: "Announcing the general availability of Azure shared disks and new Azure Disk Storage enhancements"
     excerpt: "Today, we’re announcing the general availability of—enabling you to migrate your existing on-premises Windows and Linux-based clustered environments to Azure. We’re also announcing important new disk enhancements to provide you with more availability, security, and flexibility on Azure."
     publishedDateTime: 2020-07-16T09:00:39Z
@@ -61,29 +79,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 73
-  - title: "Azure Pipelines announces the general availability of scale-set agents"
-    excerpt: "In the last two months, we improved the reliability in performing various scale-set operations. We have updated the guidance on how to improve the performance of provisioning new virtual machines."
-    publishedDateTime: 2020-09-11T21:13:11Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-pipelines-announce-the-general-availability-of-scaleset-agents/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 67
-  - title: "Announcing the general availability of Azure Monitor for virtual machines"
-    excerpt: "Today we're announcing the general availability of Azure Monitor for virtual machines (VMs), which provides an in-depth view of VM performance trends and dependencies. You can access Azure Monitor for VMs from the Azure VM resource blade to view details about a single VM, from the Azure Virtual Machine"
-    publishedDateTime: 2020-03-16T10:00:32Z
-    webUrl: "https://azure.microsoft.com/blog/announcing-the-general-availability-of-azure-monitor-for-virtual-machines/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 55
-    images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/8aaf8f84-054c-4681-82e8-58dd8d160940.png"
-        width: 1430
-        height: 953
-        isCached: true
   - title: "Finxact Announces General Availability of its Core-as-a-Service on Microsoft Azure"
     excerpt: "Finxact is responding to growing market demand from its regional and super regional clients and prospects to support Azure. Finxact chose Microsoft based on its unique strength in accelerating ..."
     publishedDateTime: 2020-05-13T12:33:00Z

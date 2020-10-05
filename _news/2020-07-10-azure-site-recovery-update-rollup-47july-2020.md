@@ -30,15 +30,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
-  - title: "Azure Site Recovery update rollup 50 - September 2020"
-    excerpt: "The latest Azure Site Recovery update provides provides fixes, updated Linux support for the Mobility service, and download links for Site Recovery components."
-    publishedDateTime: 2020-09-15T20:43:48Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/site-recovery-update-rollup-50-august-2020/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 67
   - title: "Azure Site Recovery update rollup 46—June 2020"
     excerpt: ""
     publishedDateTime: 2020-06-04T21:00:29Z

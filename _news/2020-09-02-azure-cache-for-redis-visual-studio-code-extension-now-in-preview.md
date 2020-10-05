@@ -1,12 +1,12 @@
 ---
 category: news
 title: "Azure Cache for Redis Visual Studio Code extension now in preview"
-excerpt: "You will be able to use Visual Studio Code to view, test, and debug your caches in one streamlined experience. This extension enhances ease of development by eliminating the need to manually track connection and access keys to connect to your caches."
-publishedDateTime: 2020-09-02T16:00:03Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/azure-cache-for-redis-visual-studio-code-extension-now-in-preview-2/"
-webUrl: "https://azure.microsoft.com/en-us/updates/azure-cache-for-redis-visual-studio-code-extension-now-in-preview-2/"
+excerpt: "You’ll be able to use Visual Studio Code to view, test, and debug your caches in one streamlined experience. This extension enhances ease of development by eliminating the need to manually track connection and access keys to connect to your caches."
+publishedDateTime: 2020-09-02T16:00:02Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/azure-cache-for-redis-visual-studio-code-extension-now-in-preview/"
+webUrl: "https://azure.microsoft.com/en-us/updates/azure-cache-for-redis-visual-studio-code-extension-now-in-preview/"
 type: article
-quality: 67
+quality: 101
 heat: -1
 published: false
 
@@ -20,6 +20,8 @@ provider:
 
 topics:
   - Azure
+  - Databases
+  - Developer tools
 
 related:
   - title: "View your Azure Cache for Redis data in new Visual Studio Code extension"
@@ -78,6 +80,6 @@ related:
       domain: microsoft.com
     quality: 17
 
-secured: "cNmSedJFn6wBXqb+usvgpU9jFZ9s0foSSg2GCTtB82k8FdB1RtmIHhtm/SKhh5bKW56YdrjZZA5QRdvtqc0xm3DMstlQVB3buAHubYqoVoeX3e0viOmCqK575ZFWu+VSNwByBHA9TgBnnHoDq33sRv9DTiUJLlMZ1KnjB8z/ZDhJhJnzFKUHLV5JEcBky3+wIxVvjflXO/i5St7DNxDYoc2RwGTemPMujwfXM2xDpb9Cd6Fr54McbKP2DBErIrL/dKV7dSFvyhu6NuXJxuNmjHj3wbynhdfMQPbydyVR17KBuACMjF83ALv2b2HrGlnESh2udD4VZddo22YgLJ+1scFXFNsJBGWYMUpsdO1R8+E=;jRZQkG2DkALE2VwM0a3utA=="
+secured: "M62xiR7aoHm0QyzlvWnwsZrEuM0jPKZNHLnpff2Db9mvdeSBrOZLZlVK87SZwg09SpSn35ZpKm0RvS9WzXfLsjA+qtNC9UWoNevHdcywOGZH5A78hVq8mclgHvrE+ynd/hDOY5wrH+1jVcRVGoS0YdYoHzSjuE+SyON1h6Td41lAuMMkCCNNx27wf6fDfRZd11lYAnKk0XH5x8EILFXBYpMoFYgY3HC9AAmd0O0AC6g3FraefGDH7yqIJ8rR/2qijrsJTbx/+WssUBEwfN6SDKVO2FG9aPStAxJkqX2H0mrA+j05eGCZRckM7ULo4s+PgYGfJ2aHkr7J9OKp8TF3HVNuw/d19d3b8wOoV6VEM8g=;j/Ha7XzxNitSD63hB8PIPg=="
 ---
 

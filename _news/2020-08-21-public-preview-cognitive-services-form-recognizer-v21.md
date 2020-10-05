@@ -7,8 +7,8 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/form-recognizer-v2-1/"
 webUrl: "https://azure.microsoft.com/en-us/updates/form-recognizer-v2-1/"
 type: article
 quality: 52
-heat: -1
-published: false
+heat: 72
+published: true
 
 provider:
   name: Microsoft
@@ -22,33 +22,15 @@ topics:
   - Azure
 
 related:
-  - title: "Public preview: Azure Resource Health support in AKS "
-    excerpt: "You can now easily see when your AKS resources were unavailable due to any problems encountered as well as under any maintenance operation."
-    publishedDateTime: 2020-08-17T23:01:22Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-azure-resource-health-support-in-aks/"
+  - title: "Simplified Chinese language support now available in Azure Cognitive Services Computer Vision public preview"
+    excerpt: "Computer Vision Read API v3.1, part of Cognitive Services, announces its public preview with support for Simplified Chinese language."
+    publishedDateTime: 2020-08-20T20:00:06Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/computer-vision-read-31-public-preview-adds-simplified-chinese-ocr/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 67
-  - title: "Azure Cloud Shell can now run in an isolated virtual network (public preview)"
-    excerpt: "Cloud Shell now supports virtual networks."
-    publishedDateTime: 2020-08-10T17:00:04Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/cloudshell-vnet/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 64
-  - title: "Public preview: Ephemeral OS disk support in AKS"
-    excerpt: "AKS now supports ephemeral OS disk for AKS agent nodes in public preview."
-    publishedDateTime: 2020-08-17T23:00:03Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-ephemeral-os-disk-support-in-aks/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 52
+    quality: 48
 
 secured: "ISBNuNDw93m1nnMhvFojRNtO9sD6EapgrtpEHztPUsdjTAsJV0Tncba/PGV292VPLTrTMR2Eq9NG7lJ4F2f0NSKrkVdIqfUj+bJ7ktGiFxO2KLlIALlABAwJFQP501PdbLB2ywfLVa7YxqpPlc0KJ7L+v71064bZ0UuOPcXRB+nPoYzla9AOdxQbH1Tvc5+dJ/eGwQu1n1cxzbYPNRmQCKAMNh0y9Y6ht4YNEEgNTlhoI1g7dl9n4DBhtm0kLqQqVKjrBxZiBTyM77AKkTUbO+Tq88/1HpEHbpbT6CM2Xs0+4KvMlcCp8Cb8sLumr6AEmmfGtLYi6iEu6C/Of7vuqQ==;WbeDDAp8qLE1Ap6AziDRsQ=="
 ---

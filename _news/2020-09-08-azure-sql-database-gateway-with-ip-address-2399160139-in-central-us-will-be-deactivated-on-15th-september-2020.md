@@ -6,7 +6,7 @@ publishedDateTime: 2020-09-08T19:00:14Z
 originalUrl: "https://azure.microsoft.com/en-us/updates/azure-sql-database-gateways-changes-centralus-september-15-2020/"
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-sql-database-gateways-changes-centralus-september-15-2020/"
 type: article
-quality: 46
+quality: 93
 heat: -1
 published: false
 
@@ -20,8 +20,18 @@ provider:
 
 topics:
   - Azure
+  - Databases
 
 related:
+  - title: "Additional Azure SQL Database gateways changes effective October 12, 2020"
+    excerpt: "Additional SQL Gateways are being added for Azure SQL Database in Germany West Central effective 12 October 2020.  "
+    publishedDateTime: 2020-09-10T20:00:22Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/sql-gateway-additions-in-germany-west-central/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 113
   - title: "Azure SQL Database gateways changes effective September 15, 2020"
     excerpt: "Beginning September 15, 2020, new & existing Azure SQL Database gateways in multiple regions will start accepting traffic"
     publishedDateTime: 2020-08-19T20:00:04Z
@@ -31,15 +41,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
-  - title: "Additional Azure SQL Database gateways changes effective October 12, 2020"
-    excerpt: "Additional SQL Gateways are being added for Azure SQL Database in Germany West Central effective 12 October 2020.  "
-    publishedDateTime: 2020-09-10T20:00:22Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/sql-gateway-additions-in-germany-west-central/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 66
   - title: "Azure SQL Database gateways changes effective September 2020"
     excerpt: "Beginning September 1, 2020, new Azure SQL Database gateways in multiple regions will start accepting traffic "
     publishedDateTime: 2020-08-03T15:00:04Z

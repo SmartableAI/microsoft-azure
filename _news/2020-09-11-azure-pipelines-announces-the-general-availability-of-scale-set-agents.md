@@ -6,7 +6,7 @@ publishedDateTime: 2020-09-11T21:13:11Z
 originalUrl: "https://azure.microsoft.com/en-us/updates/azure-pipelines-announce-the-general-availability-of-scaleset-agents/"
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-pipelines-announce-the-general-availability-of-scaleset-agents/"
 type: article
-quality: 67
+quality: 84
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - Azure
+  - DevOps
 
 related:
   - title: "Announcing the general availability of Azure Spot Virtual Machines"
@@ -50,6 +51,15 @@ related:
         width: 1024
         height: 696
         isCached: true
+  - title: "Announcing Azure SQL Edge now in general availability"
+    excerpt: "You can reduce cost, drive innovation, and improve operational efficiencies by using Azure SQL Edge to stream, store, and analyze IoT data."
+    publishedDateTime: 2020-09-22T16:05:18Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/announcing-azure-sql-edge-now-in-general-availability/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
   - title: "Announcing the general availability of Azure shared disks and new Azure Disk Storage enhancements"
     excerpt: "Today, we’re announcing the general availability of—enabling you to migrate your existing on-premises Windows and Linux-based clustered environments to Azure. We’re also announcing important new disk enhancements to provide you with more availability, security, and flexibility on Azure."
     publishedDateTime: 2020-07-16T09:00:39Z
@@ -59,20 +69,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 73
-  - title: "Announcing the general availability of Azure Monitor for virtual machines"
-    excerpt: "Today we're announcing the general availability of Azure Monitor for virtual machines (VMs), which provides an in-depth view of VM performance trends and dependencies. You can access Azure Monitor for VMs from the Azure VM resource blade to view details about a single VM, from the Azure Virtual Machine"
-    publishedDateTime: 2020-03-16T10:00:32Z
-    webUrl: "https://azure.microsoft.com/blog/announcing-the-general-availability-of-azure-monitor-for-virtual-machines/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 55
-    images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/8aaf8f84-054c-4681-82e8-58dd8d160940.png"
-        width: 1430
-        height: 953
-        isCached: true
   - title: "Microsoft Announces the General Availability of Azure Spring Cloud"
     excerpt: "Microsoft and VMWare both announced the general availability of Azure Spring Cloud, a fully-managed service for Spring Boot apps. The service allows enterprises to deploy JARs or code to it, and the service automates the process of wiring the apps to the Spring service runtime."
     publishedDateTime: 2020-09-09T11:11:00Z

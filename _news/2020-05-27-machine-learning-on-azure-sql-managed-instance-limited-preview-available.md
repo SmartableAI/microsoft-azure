@@ -21,139 +21,69 @@ topics:
   - Azure
 
 related:
-  - title: "Azure Maps Creator now available in preview"
-    excerpt: "As enterprises continue to evolve in their digital transformation journey, there is a need for augmenting Azure Maps content with project-specific and private business knowledge of places. Today we're launching Azure Maps Creator in preview to extend location intelligence to indoor spaces.\r\n\r\nEnterprises"
-    publishedDateTime: 2020-06-01T08:00:09Z
-    webUrl: "https://azure.microsoft.com/blog/azure-maps-creator-now-available-in-preview/"
+  - title: "Machine Learning on Azure SQL Managed Instance in preview"
+    excerpt: "Machine Learning Services with support for R and Python languages now include preview support on Azure SQL Managed Instance. "
+    publishedDateTime: 2020-09-22T16:03:59Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/machine-learning-on-azure-sql-managed-instance-in-preview/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 93
-    images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/a6153b4c-6ec4-4b09-b1e7-dd8f2be265dd.png"
-        width: 780
-        height: 768
-        isCached: true
-  - title: "Azure Monitor Logs IntelliSense improvements are now available"
-    excerpt: ""
-    publishedDateTime: 2020-05-26T16:00:03Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/log-analytics-intellisense-improvements/"
+    quality: 101
+  - title: "Azure Database for MySQL Flexible Server in preview"
+    excerpt: "Azure Database for MySQL Flexible Server is a new deployment option for Azure Database for MySQL that provides better control and flexibility of database server parameters, more options for high availability, and cost optimization controls."
+    publishedDateTime: 2020-09-22T16:00:00Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-database-for-mysql-flexible-server-in-preview/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 37
-    images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/bc9fd2f5-bd17-4f4e-b1b5-c02c035f249b.gif"
-        width: 1730
-        height: 668
-        isCached: true
-  - title: "Azure Monitor Logs—New experience for agents is now available"
-    excerpt: ""
-    publishedDateTime: 2020-05-26T18:00:22Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/new-experience-for-agents-in-log-analytics/"
+    quality: 99
+  - title: "Global virtual network peering support for Azure SQL Managed Instance now available"
+    excerpt: "Utilize global virtual network peering for your managed instances to save time through easy network configuration and by offloading your gateways from database replication traffic. "
+    publishedDateTime: 2020-09-22T16:04:28Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/global-virtual-network-peering-support-for-azure-sql-managed-instance-now-available/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 37
-    images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/480ae3b3-08b3-4078-b20f-83bb10f1d10c.gif"
-        width: 2554
-        height: 1323
-        isCached: true
-  - title: "Service Bus Explorer on the Azure portal is now available in preview"
-    excerpt: ""
-    publishedDateTime: 2020-05-26T18:00:30Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/sesrvice-bus-explorer/"
+    quality: 95
+  - title: "Enhanced management experience for Azure SQL Managed Instance"
+    excerpt: "The new OPERATIONS API adds the ability to monitor management operations, see operation steps, and take dependent actions based on operation progress. "
+    publishedDateTime: 2020-09-22T16:02:06Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/enhanced-management-experience-for-azure-sql-managed-instance/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 37
-    images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/ccedbcf5-8321-460c-a9a3-b0730caa96fe.jpg"
-        width: 347
-        height: 549
-        isCached: true
-  - title: "Backup Explorer now available in preview"
-    excerpt: "As organizations continue to expand their use of IT and the cloud, protecting critical enterprise data becomes extremely important. And if you are a backup admin on Microsoft Azure, being able to efficiently monitor backups on a daily basis is a key requirement to ensuring that your organization has"
-    publishedDateTime: 2020-02-05T08:00:05Z
-    webUrl: "https://azure.microsoft.com/blog/backup-explorer-now-available-in-preview/"
+    quality: 84
+  - title: "Major performance improvements for Azure SQL Managed Instances"
+    excerpt: "Enhanced log write throughput and superior data/log IOPS make Azure SQL Managed Instances even more appealing for migration."
+    publishedDateTime: 2020-09-22T16:04:15Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/major-performance-improvements-for-azure-sql-managed-instances/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 26
-    images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/f68dd946-126d-46ef-a94a-c336a605aa9b.jpg"
-        width: 1024
-        height: 693
-        isCached: true
-  - title: "Azure Advisor recommendation digests now availab"
-    excerpt: ""
-    publishedDateTime: 2020-05-27T16:00:06Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-advisor-recommendation-digests-now-availab/"
+    quality: 84
+  - title: "Apache Spark for Azure Synapse In-cluster Caching and Shuffle Service (Preview)"
+    excerpt: "Optimize performance on caching and shuffle with new services from Apache Spark for Azure Synapse"
+    publishedDateTime: 2020-09-22T16:03:33Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/apache-spark-for-azure-synapse-incluster-caching-and-shuffle-service-preview/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 17
-  - title: "Azure Ultra Disk Storage is now available in more regions"
-    excerpt: ""
-    publishedDateTime: 2020-05-27T16:00:05Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-ultra-disk-storage-is-now-available-in-more-regions/"
+    quality: 80
+  - title: "Public preview: Azure Arc enabled SQL Server"
+    excerpt: "Public preview of Azure Arc enabled SQL Server extends power of Azure to SQL servers hosted on-premises or in other public clouds."
+    publishedDateTime: 2020-09-22T16:05:25Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-azure-arc-enabled-sql-server/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 17
-  - title: "Azure Text Analytics—Opinion mining is now available in preview"
-    excerpt: ""
-    publishedDateTime: 2020-05-30T16:00:19Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/opinion-mining-is-now-available-in-text-analytics-in-public-preview/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 17
-  - title: "The Azure Sphere OS 20.05 quality release is now available"
-    excerpt: ""
-    publishedDateTime: 2020-06-01T17:00:10Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/the-azure-sphere-os-20-05-quality-release-is-now-available/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 17
-  - title: "Azure Shared Image Gallery feature improvements are now available"
-    excerpt: ""
-    publishedDateTime: 2020-06-02T01:00:15Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/shared-image-gallery-improvements/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 17
-  - title: "Azure Shared Image Gallery—New features are now available in preview"
-    excerpt: ""
-    publishedDateTime: 2020-06-02T01:00:16Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/shared-image-gallery-new-features/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 17
-  - title: "Azure Private Link support for Azure Automation is now available in preview"
-    excerpt: "You can now use Azure Private Link to securely connect virtual networks to Azure Automation using private endpoints (in preview)."
-    publishedDateTime: 2020-07-09T23:00:06Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-private-link-azure-automation-is-now-available/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 15
+    quality: 67
 
 secured: "noMrFJbk/vT3ro3i5RZ5yS6MUXnzSlrmsDt/lIytVZZdAeeu1Qo2MpuR/V5A2BiYROnFDKCns5fON1ys7lOYyetMG+lFayJBgD9lYGCUze0Y5cpfEXPfI2huCNxC1uU4oGqwVRmsMBycy+dz+M5OPaqJFaMPZIAvt7ebg9wS1O42foiSKfDv5muI1cm2fcgcg7MZaEi0efs5FIs4Xwj51XV4399yPcmmAH1KFXaLKD1wQa+ocDHT2q77GIGhCEk/gwi5LVJcHMqGCh7ToSh7oJoXMSXv/02ar4FAXkWvRdOwbwluY2McYttbegdR0p3eJNaLB+G/gMGa42a9bbVZ8A==;1CSh5UJ0gkz90o01HUX9pA=="
 ---

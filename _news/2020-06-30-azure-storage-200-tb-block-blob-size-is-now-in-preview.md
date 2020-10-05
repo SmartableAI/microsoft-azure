@@ -30,20 +30,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 101
-  - title: "NFS 4.1 support for Azure Files is now in preview"
-    excerpt: "Azure Files is a distributed cloud file system serving Server Messaging Block (SMB) and REST protocols. Azure Files enables customers to easily lift and shift their legacy workloads to the cloud without any modifications or changes in technology. SMB works on both Windows and UNIX operating systems for"
-    publishedDateTime: 2020-09-15T13:00:18Z
-    webUrl: "https://azure.microsoft.com/blog/nfs-41-support-for-azure-files-is-now-in-preview/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 87
-    images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/f37b1fb4-f41e-42b8-8f88-754f3e8eef0c.jpg"
-        width: 1024
-        height: 489
-        isCached: true
   - title: "Azure Files support for NFS v4.1 is now in preview"
     excerpt: "Azure Files now adds support for NFS v4.1 file system protocol for an easy migration of your Linux-centric workloads."
     publishedDateTime: 2020-09-16T17:00:28Z

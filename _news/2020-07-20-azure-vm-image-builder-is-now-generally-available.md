@@ -21,75 +21,160 @@ topics:
   - Azure
 
 related:
-  - title: "New Windows Virtual Desktop capabilities now generally available"
-    excerpt: "With the global pandemic, customers are relying on remote work more than ever, and Windows Virtual Desktop is helping customers rapidly deliver a secure Windows 10 desktop experience to their users."
-    publishedDateTime: 2020-07-27T11:00:03Z
-    webUrl: "https://azure.microsoft.com/blog/new-windows-virtual-desktop-capabilities-now-generally-available/"
+  - title: "Azure Blob storage object replication is now generally available"
+    excerpt: "Object replication allows you to replicate your block blob data at the blob level from one storage account to another anywhere in the Azure. "
+    publishedDateTime: 2020-09-09T20:05:14Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-blob-storage-object-replication-is-now-generally-available/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 72
-    images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/f55af93e-678e-415a-9906-f3bdba2f1933.jpg"
-        width: 1024
-        height: 641
-        isCached: true
-  - title: "Windows Virtual Desktop Gets Azure Portal and Teams Client Support"
-    excerpt: "The Windows Virtual Desktop (WVD) service now has Azure Portal integration, plus Audio/Video (A/V) Redirect support for Microsoft Teams client sessions, Microsoft announced on Monday."
-    publishedDateTime: 2020-07-28T23:20:00Z
-    webUrl: "https://redmondmag.com/articles/2020/07/28/windows-virtual-desktop-support.aspx"
+    quality: 99
+  - title: "Change feed support is now generally available for Azure Blob Storage"
+    excerpt: "Change feed support for Microsoft Azure Blob storage is now generally available."
+    publishedDateTime: 2020-09-09T20:04:54Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/change-feed-support-is-now-generally-available-for-azure-blob-storage/"
     type: article
     provider:
-      name: Redmond Magazine
-      domain: redmondmag.com
+      name: Microsoft
+      domain: microsoft.com
+    quality: 99
+  - title: "Azure Blob versioning is now general available "
+    excerpt: "Azure storage strives to protect your business critial data from any accident or attack. We are excited to announce the general availability of  Azure Blob versioning. "
+    publishedDateTime: 2020-08-31T20:00:37Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-blob-versioning-is-now-general-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
+  - title: "Connector for AWS in Azure Cost Management + Billing is now generally available"
+    excerpt: "The connector for AWS that helps you manage Azure and AWS costs from a single location is now generally available."
+    publishedDateTime: 2020-09-02T08:00:01Z
+    webUrl: "https://azure.microsoft.com/blog/connector-for-aws-in-azure-cost-management-billing-is-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 83
+    images:
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/8a7ddc8c-ab40-4eb0-8979-ec73c6098015.png"
+        width: 640
+        height: 364
+        isCached: true
+  - title: "Query Acceleration for Azure Data Lake Storage is now generally available"
+    excerpt: "Query Acceleration for Azure Data Lake Storage is now generally available in all Azure regions."
+    publishedDateTime: 2020-09-10T18:00:21Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/query-acceleration-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 83
+  - title: "Azure Spring Cloud is now generally available"
+    excerpt: "Azure Spring Cloud is a fully managed service for Spring Boot apps that lets you focus on building the apps that run your business without the hassle of managing infrastructure"
+    publishedDateTime: 2020-09-02T16:00:04Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-spring-cloud-is-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
+  - title: "Azure Private Link Service is now generally available in China "
+    excerpt: "Azure Private Link for customer owned services are now available in China Regions. "
+    publishedDateTime: 2020-09-14T17:10:45Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-private-link-service-is-now-generally-available-in-china/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
+  - title: "Azure Stack Edge Mini R is now generally available"
+    excerpt: "The new lineup of rugged edge devices are now generally available. Azure Stack Edge Mini R is a lightweight, portable, battery-operated device - small enough to fit into a backpack - designed for the harshest environments and disconnected scenarios. "
+    publishedDateTime: 2020-09-22T16:05:24Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-stack-edge-mini-r-is-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
+  - title: "Azure Blob storage point-in-time restore now generally available"
+    excerpt: "Azure Blob storage point-in-time restore provides continuous data protection and restoration capabilities for block blob data. This extends protection features to provide an easy way to restore to a previous date/time"
+    publishedDateTime: 2020-09-23T23:21:14Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-blob-storage-pointintime-restore-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
+  - title: "User-initiated failover for application fault resiliency in Azure SQL Managed Instance is now generally available"
+    excerpt: "Test the impact of automatic failover operations during planned or unplanned events before deployment to production by manually initiating automatic failover"
+    publishedDateTime: 2020-09-02T16:00:05Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/userinitiated-failover-for-application-fault-resiliency-in-azure-sql-managed-instance-is-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 63
+  - title: "Durable Functions v2.3 is now available "
+    excerpt: "A new release of Durable Functions is out now. This release includes new functionality including long running timers, logging, and state management improvements."
+    publishedDateTime: 2020-09-02T16:00:04Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/durable-functions-v23-is-now-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 52
+  - title: "Azure Firewall Manager is now generally available"
+    excerpt: "Azure Firewall Manager is now generally available, and includes Azure Firewall Policy, Azure Firewall in a Virtual WAN Hub (Secure Virtual Hub), and Hub Virtual Network."
+    publishedDateTime: 2020-07-01T08:00:06Z
+    webUrl: "https://azure.microsoft.com/blog/azure-firewall-manager-is-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
     quality: 37
     images:
-      - url: "https://redmondmag.com/-/media/ECG/VirtualizationReview/Images/IntroImages2016/0916VRM_Take5.jpg"
-        width: 647
-        height: 450
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/48d05065-53c7-4758-8091-6b72d3df73d0.png"
+        width: 1024
+        height: 367
         isCached: true
-  - title: "Azure Archive expanded capabilities now generally available"
+  - title: "Object replication public preview for Azure Blob storage"
     excerpt: ""
-    publishedDateTime: 2020-04-23T16:00:13Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-archive-expanded-capabilities-generally-available/"
+    publishedDateTime: 2020-05-21T15:44:37Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-storage-object-replication-public-preview/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
     quality: 17
-  - title: "Remote Desktop client for Android now supports Windows Virtual Desktop connections"
-    excerpt: "Access Windows Virtual Desktop from the new Remote Desktop client for Android."
-    publishedDateTime: 2020-07-30T00:00:32Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/windows-virtual-desktop-client-for-android/"
+  - title: "Azure geo-zone-redundant storage is now generally available"
+    excerpt: "Geo-zone-redundant storage (GZRS) and read-access geo-zone-redundant storage (RA-GZRS) are now generally available, offering intra-regional and inter-regional high availability and disaster protection for your applications."
+    publishedDateTime: 2020-06-17T20:00:18Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/storage-gzrs-ga/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 17
+  - title: "Azure Data Lake Storage archive tier is now generally available"
+    excerpt: "The archive tier for Azure Data Lake Storage is now generally available. The archive tier provides an ultra-low cost tier for long term retention of data while keeping your data available for future analytics needs."
+    publishedDateTime: 2020-06-30T20:00:36Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/archive-tier-for-azure-data-lake-storage-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 17
+  - title: "Azure custom role creation in the Azure portal is now generally available"
+    excerpt: ""
+    publishedDateTime: 2020-05-01T16:00:17Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-custom-roles-portal/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
     quality: 16
-    images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/3358bb18-b443-4c0d-9823-f95637177398.png"
-        width: 1080
-        height: 2280
-        isCached: true
-  - title: "Azure Virtual WAN: Multiple capabilities and new partners now generally available"
-    excerpt: "Today we are announcing the General Availability of multiple enhancements in Azure Virtual WAN, including hub-to-hub, custom routing and transit capabilities."
-    publishedDateTime: 2020-07-06T17:00:16Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-virtual-wan-multiple-capabilities-and-new-partners-now-generally-available/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 12
-  - title: "Enable remote work faster with new Windows Virtual Desktop capabilities"
-    excerpt: "In the past few months, there has been a dramatic and rapid shift in the speed at which organizations of all sizes have enabled remote work amidst the global health crisis. Companies examining priorities and shifting resources with agility can help their employees stay connected from new locations and"
-    publishedDateTime: 2020-05-01T10:00:20Z
-    webUrl: "https://azure.microsoft.com/blog/enable-remote-work-faster-with-new-windows-virtual-desktop-capabilities/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 2
 
 secured: "hS+BPtO407C5uh97BIIWZ3s0OXPCeSJ5W7Wa0IZAgpzILymJvXWAiJlP8QwdIx53X9dJZGBiwAndhRIrDP8nbAsVCC8bWYRxaqdIimCU0lAW9jqxiUsbMdNOCSH8DBbwxpypGGbQYFvKvR6O3lKTmHTJcrR0iI4LekBcDTB70hrBGc8QwnBPDsG+qXb4WKv+jR8UC1TDM7g5NQFJ+aWvElcewWDX/Hzhd5O2S4RHOS6Qz6vCR3mVx/9srUDfaROQZuROcJV7W7FiTqSVxxg3oXw1d8FxN+kEOfCnX7XUjb4UL9u7QzwqKs/bWl8J9Gicaofmw4+qo+DJrjYSpL9F1g==;xWt1m8wXSd2u+9/9pO8Dpg=="
 ---

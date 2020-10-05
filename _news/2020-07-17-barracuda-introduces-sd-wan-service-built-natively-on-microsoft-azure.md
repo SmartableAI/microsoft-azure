@@ -690,15 +690,6 @@ related:
       name: Seeking Alpha
       domain: seekingalpha.com
     quality: 17
-  - title: "Azure Monitor for SAP Solutions is now in preview"
-    excerpt: "To help our SAP on Azure customers effectively monitor their SAP applications, today we are announcing the preview of Azure Monitor for SAP solutions, an Azure-native monitoring solution for customers running their SAP solutions on Azure."
-    publishedDateTime: 2020-07-15T08:00:26Z
-    webUrl: "https://azure.microsoft.com/blog/azure-monitor-for-sap-solutions-is-now-in-preview/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 17
   - title: "Barracuda, Microsoft Tout SD-WAN on Azure for Multi-Cloud Services"
     excerpt: "Barracuda CloudGen WAN allows companies and service providers to create a pragmatic Secure Access Service Edge (SASE) solution in public clouds, according to a statement from Microsoft and Barracuda. This could pave the way for greater public cloud ..."
     publishedDateTime: 2020-07-18T10:53:00Z

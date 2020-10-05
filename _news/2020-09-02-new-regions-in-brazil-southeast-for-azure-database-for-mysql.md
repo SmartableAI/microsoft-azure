@@ -6,8 +6,8 @@ publishedDateTime: 2020-09-02T16:00:04Z
 originalUrl: "https://azure.microsoft.com/en-us/updates/new-regions-in-brazil-southeast-for-azure-database-for-mysql/"
 webUrl: "https://azure.microsoft.com/en-us/updates/new-regions-in-brazil-southeast-for-azure-database-for-mysql/"
 type: article
-quality: 67
-heat: 87
+quality: 99
+heat: 119
 published: true
 
 provider:
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - Azure
+  - Databases
 
 related:
   - title: "Private Link for Azure Database for MySQL now in two US government regions"

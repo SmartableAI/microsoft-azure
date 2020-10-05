@@ -6,7 +6,7 @@ publishedDateTime: 2020-09-17T16:00:10Z
 originalUrl: "https://azure.microsoft.com/en-us/updates/azure-api-management-updates-september-2020/"
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-api-management-updates-september-2020/"
 type: article
-quality: 67
+quality: 84
 heat: -1
 published: false
 
@@ -20,17 +20,27 @@ provider:
 
 topics:
   - Azure
+  - Integration
 
 related:
-  - title: "Azure Security Center—News and updates for September 2020"
-    excerpt: "New enhancements and updates that were made to Azure Security Center in September 2020."
-    publishedDateTime: 2020-09-30T17:05:03Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/asc-september2020/"
+  - title: "IoT Security updates for September 2020"
+    excerpt: "New Azure IoT Security product updates include improvements around monitoring, edge nesting and the availability of Azure Defender for IoT."
+    publishedDateTime: 2020-09-22T16:05:28Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/iot-security/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 99
+    quality: 86
+  - title: "Azure Site Recovery update rollup 50 - September 2020"
+    excerpt: "The latest Azure Site Recovery update provides provides fixes, updated Linux support for the Mobility service, and download links for Site Recovery components."
+    publishedDateTime: 2020-09-15T20:43:48Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/site-recovery-update-rollup-50-august-2020/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
   - title: "Azure portal September 2020 update"
     excerpt: "Updates include improvements to the ARM template deployment experience, a variety of updates for Azure Blob Storage, and more."
     publishedDateTime: 2020-10-01T18:31:28Z
@@ -40,42 +50,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 84
-  - title: "Azure Cost Management + Billing updates – September 2020"
-    excerpt: "While 2020 may be keeping you on your toes, September should help make your life a little bit easier with the general availability of AWS support in Azure Cost Management + Billing, allowing you to manage all your Azure and AWS costs in a single place; the preview of cost allocation, streamlining your"
-    publishedDateTime: 2020-09-30T11:00:21Z
-    webUrl: "https://azure.microsoft.com/blog/azure-cost-management-billing-updates-september-2020/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 81
-  - title: "Azure Security Center—News and updates for August 2020"
-    excerpt: "New enhancements and updates that were made to Azure Security Center in August 2020."
-    publishedDateTime: 2020-09-02T21:00:05Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/asc-august2020/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 67
-  - title: "Azure Security Center—News and updates for May 2020"
-    excerpt: ""
-    publishedDateTime: 2020-05-18T00:00:51Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/asc-may2020/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 17
-  - title: "Azure Security Center—News and updates for July 2020"
-    excerpt: "New enhancements and updates were made to Azure Security Center in July 2020."
-    publishedDateTime: 2020-08-04T16:00:33Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/asc-july2020/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 17
 
 secured: "Q3zpSmXFqJzXFXRUbXk+LMqe85x7mx/P76Xiq9QuCoT9XW9noPX+ikeZ6/dWxXp1umZxRoWnZx1KfDGuTlBz5fabUse3FdgBP7+f4JCKlDTZhw7RgvPN815pJNQgq9EZov77gpqRjJzmLynfPUf/TO2u86bu/3jUOSw9uPrcR1syYaPoyCE2UIm5pFAt8Z8Lgj+lQecReNHZXhGKZbfVaLRFBcSE5nKv50g4boDDH/WGxtUfejTWH3Y15QaarTCqvKwlk5pPf2sjNeoEkQbNhfHjh6mFEtBXKjRJfQUeTIetK29MVqG66nB1bw42a1pxTeS6cOaPyfj3cxWQ2AW1VEIl1+NPbiTjx9jl2bPessQ=;kC5bnXrjCk0A65UTKBUwVA=="
 ---

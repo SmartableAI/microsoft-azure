@@ -24,20 +24,15 @@ topics:
   - Containers
 
 related:
-  - title: "Monitoring Azure Arc enabled Kubernetes and servers"
-    excerpt: "Azure Arc is a preview service that enables users to create and attach Kubernetes clusters both inside and outside of Azure. Azure Arc also enables the user to manage Windows and Linux machines outside of Azure the same way native Azure Virtual Machines are managed."
-    publishedDateTime: 2020-07-28T11:00:16Z
-    webUrl: "https://azure.microsoft.com/blog/monitoring-azure-arc-enabled-kubernetes-and-servers/"
+  - title: "Confidential containers platform now supported on Azure Kubernetes Service (AKS) "
+    excerpt: "We are committed to enabling the industry to move from computing in the clear to computing confidentially with the public preview of confidential computing nodes on Azure Kubernetes Service (AKS) powered by Intel SGX DC SKU s. "
+    publishedDateTime: 2020-09-22T16:00:00Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/confidential-containers-platform-now-supported-on-azure-kubernetes-service-aks/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 106
-    images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/c4c6ac0f-ea43-458e-a4e7-cb971720a491.jpg"
-        width: 1024
-        height: 714
-        isCached: true
+    quality: 109
   - title: "New features for Windows Server containers in Azure Kubernetes Service"
     excerpt: "Learn about new Windows Server container related capabilities in AKS"
     publishedDateTime: 2020-09-30T16:01:34Z
@@ -61,19 +56,28 @@ related:
         width: 980
         height: 516
         isCached: true
-  - title: "Build resilient applications with Kubernetes on Azure"
-    excerpt: "Today, we're excited to tell you about even more capabilities that can help you along on your cloud native journey to Kubernetes on Azure."
-    publishedDateTime: 2020-08-17T02:00:30Z
-    webUrl: "https://azure.microsoft.com/blog/build-resilient-applications-with-kubernetes-on-azure/"
+  - title: "Confidential computing nodes (DCSv2) support on Azure Kubernetes Service (AKS) in public preview"
+    excerpt: "Orchestrate your container applications with hardware based isolation and data-in-use protection through Intel SGX enclaves. Supporting both enclave aware containers and confidential containers (unmodified container apps)"
+    publishedDateTime: 2020-09-30T16:01:34Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/confidential-worker-nodes-aks-public-preview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 86
+  - title: "Azure Kubernetes Service on Azure Stack HCI now in public preview"
+    excerpt: "Azure Kubernetes Services (AKS) on Azure Stack HCI enables developers and admins to deploy and manage containerized apps on Azure Stack HCI. "
+    publishedDateTime: 2020-09-22T16:05:22Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-kubernetes-service-on-azure-stack-hci-now-in-public-preview/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
     quality: 84
-  - title: "Monitor Azure Arc enabled Kubernetes with Metric Alerts"
-    excerpt: "Learn how to configure recommended metric alerts for monitoring your Azure Arc enabled Kubernetes clusters."
-    publishedDateTime: 2020-10-01T16:00:35Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/arck8smetricalerts/"
+  - title: "GA: Azure Kubernetes Service support for new base image Ubuntu 18.04"
+    excerpt: "Ubuntu 18.04 is now the default Node Operating System on Azure Kubernetes Service (AKS). "
+    publishedDateTime: 2020-09-22T16:05:33Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/ga-aks-support-for-new-base-image-ubuntu-1804/"
     type: article
     provider:
       name: Microsoft
@@ -87,35 +91,25 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 67
-  - title: "Application Gateway Ingress Controller for Azure Kubernetes Service"
-    excerpt: "Today we are excited to offer a new solution to bind Azure Kubernetes Service (AKS) and Application Gateway. The new solution provides an open source Application Gateway Ingress Controller (AGIC) for Kubernetes, which makes it possible for AKS customers to leverage Application Gateway to expose their"
-    publishedDateTime: 2019-12-02T10:00:27Z
-    webUrl: "https://azure.microsoft.com/blog/application-gateway-ingress-controller-for-azure-kubernetes-service/"
+    quality: 84
+  - title: "Public preview: Azure Kubernetes Service support for Kubernetes 1.19 "
+    excerpt: "AKS users can now benefit from features in Kubernetes 1.19 release"
+    publishedDateTime: 2020-09-22T16:03:25Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-aks-support-for-kubernetes-119/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 54
-    images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/c1d791d2-98c0-44fa-a2df-44cfabf7f250.png"
-        width: 748
-        height: 768
-        isCached: true
-  - title: "Azure Arc enabled Kubernetes preview and new ecosystem partners"
-    excerpt: "In November 2019, we announced the preview of Azure Arc, a set of technologies that unlocks new hybrid scenarios for customers by bringing Azure services and management to any infrastructure across datacenters, edge, and multi-cloud. Based on the feedback and excitement of all the customers in the private"
-    publishedDateTime: 2020-05-20T08:30:28Z
-    webUrl: "https://azure.microsoft.com/blog/azure-arc-enabled-kubernetes-preview-and-new-ecosystem-partners/"
+    quality: 84
+  - title: "Public preview: Azure role-based access control (RBAC) for Kubernetes authorization "
+    excerpt: "Achieve unified management and access control across Azure resources, AKS, and Kubernetes resources."
+    publishedDateTime: 2020-09-22T16:05:33Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-azure-rbac-for-kubernetes-authorization/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 37
-    images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/2547e7a5-284b-4f2d-95b9-54e5200b3931.png"
-        width: 1024
-        height: 576
-        isCached: true
+    quality: 77
   - title: "Azure Spot support for Azure Kubernetes Service is in preview"
     excerpt: ""
     publishedDateTime: 2020-04-15T16:00:02Z
@@ -125,10 +119,10 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 17
-  - title: "Azure Kubernetes Service upgrade improvements are now in preview"
-    excerpt: "Two new AKS upgrade capabilities that will improve the granularity and efficiency of regular Kubernetes upgrade operations are now in preview."
-    publishedDateTime: 2020-06-10T16:00:24Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-kubernetes-service-upgrade-improvements-are-now-in-preview/"
+  - title: "Optional Uptime SLA now available for Azure Kubernetes Services (AKS)"
+    excerpt: ""
+    publishedDateTime: 2020-05-13T16:00:42Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/optional-uptime-sla-now-available-for-azure-kubernetes-services-aks/"
     type: article
     provider:
       name: Microsoft
@@ -143,6 +137,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 17
+  - title: "Azure Kubernetes Service (AKS) resource provider on Azure Stack preview "
+    excerpt: ""
+    publishedDateTime: 2020-05-19T16:05:37Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-kubernetes-service-aks-resource-provider-on-azure-stack-preview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 16
   - title: "Secure Azure Kubernetes Service (AKS) pods with Azure Policy (in preview)"
     excerpt: "To improve the security of your Azure Kubernetes Service (AKS) cluster, secure your pods with Azure Policy (in preview). Users can choose from a list of built-in options and apply those policies to secure pods."
     publishedDateTime: 2020-07-21T16:01:16Z
@@ -161,6 +164,24 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 15
+  - title: "Azure Monitor for containers with Azure Portal now supports Kubernetes resource view"
+    excerpt: "Azure monitor for containers with Azure portal now supports new Kubernetes resource view. In this new view you can diagnose the issue by drilling down to resource types including deployments, pods, and replica sets & see historical data trend and overall usage over time."
+    publishedDateTime: 2020-08-05T23:00:02Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/ci-aks-resource-view/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 10
+  - title: "Azure Kubernetes Service (AKS) support for proximity placement groups is now available"
+    excerpt: "Better support for latency-sensitive workloads in critical business scenarios."
+    publishedDateTime: 2020-06-24T16:00:42Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-kubernetes-service-aks-support-for-proximity-placement-groups-is-now-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 9
   - title: "Azure Kubernetes Service (AKS) now supports bring-your-own control plane managed identity"
     excerpt: "Azure Kubernetes Service (AKS) now supports bring-your-own identities for the control plane managed identity."
     publishedDateTime: 2020-07-21T16:01:03Z
@@ -170,24 +191,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 8
-  - title: "Announcing the general availability of Windows Server containers and private clusters for Azure Kubernetes Service"
-    excerpt: "Today’s application environments are often heterogeneous, composed of both Windows and Linux applications. Using Kubernetes to host containers on both Windows Server and Linux not only saves costs but also reduces operational complexity. Many Azure customers have demonstrated this with their usage of"
-    publishedDateTime: 2020-04-28T09:00:40Z
-    webUrl: "https://azure.microsoft.com/blog/announcing-the-general-availability-of-windows-server-containers-and-private-clusters-for-azure-kubernetes-service/"
+  - title: "Azure Kubernetes Service (AKS) now supports confidential workloads through DCSv2 SKUs (private preview)"
+    excerpt: "Azure Kubernetes Service (AKS) now supports confidential workloads through integration with DCSv2 SKU node pools powered by Intel SGX.\n"
+    publishedDateTime: 2020-07-09T21:00:13Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-kubernetes-service-aks-now-supports-confidential-workloads-through-dcsv2-skus-preview/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 0
-  - title: "Netreo Announces Release of Microsoft Azure Kubernetes Service (AKS) Monitoring and Management Functionality"
-    excerpt: "Netreo, the award-winning platform for IT infrastructure monitoring and management leveraging AIOps, today announced the release of its Microsoft Azure Kubernetes Service (AKS) monitoring and management functionality."
-    publishedDateTime: 2020-07-23T18:00:00Z
-    webUrl: "https://www.morningstar.com/news/globe-newswire/7964710/netreo-announces-release-of-microsoft-azure-kubernetes-service-aks-monitoring-and-management-functionality"
-    type: article
-    provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 0
+    quality: 1
 
 secured: "E9AYnNIiKEdHytvo300OrU+xDQ4jezIdJWGmI4I8sou61hZZOJ43UO65OvpvrTISA/T9pBbatTx4e1dkTdQ+PwO9ItNmn/sGlxnQrTAF2Dz6dZlhLW/fT9nJagze6fOx71iG9SultdhtQtrqhadiWkc1XKSTI6I8PrJ73Bcq0w0jNoS9udIhSxUXc22ZPzxp5d9x01lItOR9t+QYMYELcDLEQW89WUKrAmELctHvWN/kiT7js6+yub8KOwlo4KhQZGLKYGEpJOMTpIQRS4nFzWby2rkogqfIAx6cmp9/BxHp/0MlVOMfh1bFP37kPyBE25gwm6/Fsswk2zYpTLzn0Ole/dlRNboA0GVjFl1G4Mk=;+a0Pd9qIkCUjPziE+mR3Zg=="
 ---

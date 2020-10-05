@@ -30,10 +30,10 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 87
-  - title: "Azure Cognitive Services general availability updates "
-    excerpt: "General availability updates in Azure Cognitive Services Decision, Speech, and containers categories. "
-    publishedDateTime: 2020-09-22T16:05:30Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-cognitive-services-general-availability-updates/"
+  - title: "App Service announces the general availability of Windows Container support"
+    excerpt: "You can now deploy production workloads in Windows Containers on Azure App Service and take advantage of the rich productivity gains of the platform."
+    publishedDateTime: 2020-09-22T16:00:43Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/app-service-announces-general-availability-of-windows-container-support/"
     type: article
     provider:
       name: Microsoft

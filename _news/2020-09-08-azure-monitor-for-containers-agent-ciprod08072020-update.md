@@ -6,8 +6,8 @@ publishedDateTime: 2020-09-08T18:00:02Z
 originalUrl: "https://azure.microsoft.com/en-us/updates/ci-aug-update/"
 webUrl: "https://azure.microsoft.com/en-us/updates/ci-aug-update/"
 type: article
-quality: 87
-heat: 87
+quality: 121
+heat: 121
 published: true
 
 provider:
@@ -20,6 +20,8 @@ provider:
 
 topics:
   - Azure
+  - Containers
+  - DevOps
 
 images:
   - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/1f644ecd-b44f-4a18-b689-92551c059b62.jpg"

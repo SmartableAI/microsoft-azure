@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/general-availability-of-azure-map
 webUrl: "https://azure.microsoft.com/blog/general-availability-of-azure-maps-support-for-azure-active-directory-power-apps-integration-and-more/"
 type: article
 quality: 111
-heat: 151
+heat: 131
 published: true
 
 provider:
@@ -42,15 +42,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
-  - title: "General Availability: Application Insight in UK West"
-    excerpt: "Application Insight, a part of Azure Monitor,  is now generally available in the UK West region for customers to collect telemetry and analyze their service health in production environments. "
-    publishedDateTime: 2020-09-29T15:23:28Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-application-insight-in-uk-west/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 52
 
 secured: "BHcAA+tzvsjyPnJ5A9XHuLm/ngE0T7EOaPw2exYvIK2RSkXILgp8b3/1ClyrVuLj7/O1VwbX2DmSOMyPcTxArA1vOyVGJJrtlxNs5yOTkGdH1iQZnDjEjtlldm2k7mcwuMLTMyQArEQL1GRAJ1zGFXaNiLB9rf7yqLCbSN3hgXBrQ1RoHbvrZq5VcAyLz7/Y1j4PlAyX5MGOISKn10W/45FgOjy2DYmzJxzHkzue8SaGHdfmn42rqUzcL+tqwv34FfNbpgJ18g5Btn+rHclMNnmkIIBwt8QJT9j4Lwj4LAqd45qduESaJZkp+WSkYxVzcoxGir9i8PtcnEQZS6yro1Yyro2YvOYppAqR4b2tYro=;GNiFd/Ey69CMhvi+4rGxkA=="
 ---

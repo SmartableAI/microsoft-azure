@@ -23,51 +23,20 @@ topics:
   - Compute
 
 related:
-  - title: "Azure Container Registry now available in several new regions"
-    excerpt: "Azure Container Registry is now generally available in US Gov Texas, Germany West Central, and Brazil Southeast regions bringing the number of Azure regions that it’s available in to 38."
-    publishedDateTime: 2020-09-28T16:40:52Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-container-registry-now-available-in-several-new-regions/"
+  - title: "Dark theme is now available for the Azure mobile app"
+    excerpt: "You can choose either dark or light for your mobile app experience."
+    publishedDateTime: 2020-10-05T15:36:03Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/dark-theme-is-now-available-for-the-azure-mobile-app/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 84
-  - title: "Shared disks on Azure Disk Storage is now available in broader set of regions"
-    excerpt: "Shared disks is available for Premium SSDs in all regions and available for Ultra Disks in all regions that support Ultra Disks."
-    publishedDateTime: 2020-09-30T16:00:19Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/shared-disks-on-azure-disk-storage-is-now-available-in-broader-set-of-regions/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 81
-  - title: "Azure Container Registry now available in Switzerland West region"
-    excerpt: "Azure Container Registry is now generally available in the Switzerland West region, bringing the total number of Azure regions that it's available in to 35. See the list of all regions where Azure Container Registry is available and where it's coming next."
-    publishedDateTime: 2020-08-31T18:46:09Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-container-registry-now-available-in-switzerland-west-region/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 67
-  - title: "Azure Container Registry now available in UAE Central region"
-    excerpt: "Azure Container Registry is now generally available in the UAE Central region, bringing the total number of Azure regions that it's available in to 36. See the list of all regions where Azure Container Registry is available and where it's coming next."
-    publishedDateTime: 2020-08-31T18:48:27Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-container-registry-now-available-in-uae-central-region/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 67
-  - title: "Azure Blob storage point-in-time restore now generally available"
-    excerpt: "Azure Blob storage point-in-time restore provides continuous data protection and restoration capabilities for block blob data. This extends protection features to provide an easy way to restore to a previous date/time"
-    publishedDateTime: 2020-09-23T23:21:14Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-blob-storage-pointintime-restore-now-generally-available/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 67
+    quality: 104
+    images:
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/1575b15e-a4e1-4f2e-85e3-f5636e2e3fab.png"
+        width: 980
+        height: 675
+        isCached: true
   - title: "Azure Ultra Disk is now available in more regions "
     excerpt: "Azure Ultra Disk is now available in Australia Central, India Central, Korea Central and US Gov Texas. "
     publishedDateTime: 2020-09-30T16:00:42Z
@@ -95,15 +64,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 62
-  - title: "Azure Container Registry diagnostic logs now generally available"
-    excerpt: ""
-    publishedDateTime: 2020-05-19T16:05:39Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-container-registry-diagnostic-logs-now-generally-available/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 17
 
 secured: "QrjeKIqgnwVGJ/iWVq6WLRZyF2Iw0p8UiTSIG2AK393TPbk1NYWwgC6AFoLSor4aAPbsNRDOveT0eAPCmTlzvoUy9uQq0j2+CdI5+ELWAUYBwhKtpe5SENUWRU2yLoAXCwUYGMHGgdlbgwSvyeyd2QKcuyXBKQZ+JxwZRM0cu8xPBBf53spj5UsxQV6TJ6L1+eEf+msNNwMbQ2vRWsV5s3BtM+qJ16rAO7beFNGNu8NLjL5rGRc2aObgcg7y8K+3ScnBTbgSF6vLnxgK8+44bd4wA39g20K/tEIglX+ySW+V6rORwDY++vof1B2JqthGPDNt/MuBm60ovwuhBZxz8A9mXoRYkAeNVfV6Lpo07R4=;tYZ6DrT21npaVrKGRb7VQA=="
 ---

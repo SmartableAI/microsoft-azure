@@ -42,6 +42,15 @@ related:
         width: 755
         height: 385
         isCached: true
+  - title: "Cross Region Restore (CRR) for SQL/SAP HANA using Azure Backup"
+    excerpt: "Following the introduction of Cross Region Restore of Azure VMs, Azure Backup has extended this capability to support SQL and SAP HANA backups."
+    publishedDateTime: 2020-09-22T16:03:03Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/cross-region-restore-crr-for-sqlsap-hana-using-azure-backup/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
 
 secured: "J7kOw4M+/HrptzVi6JB7Iqa8LMsSlZUTilOXetBSfiJzy9CP2lVg3QXrlQIp5rob01UjQRpLu/a6QZRs7rhxaSnng8dgbJ0fZYi8qGzZx55Y1V4EX85uhq7MkG26ynilVYE7L3tN5YPWLbHgLfaBkhRbu2P5+sK3WivxpgBg/w5GNHENIRPdBShdmXt6sFh9V0nMHLhey2VCYXK9jVu85gZHA3oJis8XHTDXYcqlwAT20FMYzQcQWIuoEENpduKI4pGTlRud951exrAZ/31Ypj8pATHNA6T+SK7GcNNCtGj/p/Ifyg477D2CWcXuDmC+y9jo0amgz4Y1bLL4Ld0FiQ==;68GsAAToFPEbERO9pUzlnA=="
 ---

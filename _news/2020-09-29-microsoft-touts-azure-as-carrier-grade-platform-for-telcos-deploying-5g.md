@@ -52,6 +52,15 @@ related:
         width: 607
         height: 670
         isCached: true
+  - title: "Microsoft plans to establish new cloud datacenter region in Greece"
+    excerpt: "The new region is anticipated to include Microsoft Azure, with Microsoft 365, Dynamics 365 and Power Platform to follow."
+    publishedDateTime: 2020-10-05T17:29:42Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/microsoft-plans-to-establish-new-cloud-datacenter-region-in-greece/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 52
 
 secured: "rpQCaX4YfkviRFI3603msmH2bmuL5ybpa8dS4VjAbvDjtGaQ5O1VPiLHDFTjfksgmydKFpQ8kiQvn5TXbk8K65QasyXFOeZfZSuQQur9WhGPCO95AnrIYBQSq6MnpT7LmyFbPldDqZK/SbXa2xWGBw1FFEDQcvJ+Q+qGKzta7bTK3/HGJYD8Cba8QzoAsL9McSRbNOTnNVmozGKfhGS1sdR2XqBljmXf+I9UfFOp6MF6QTZIxWWooSgJROxFVCaNlO7ccUnEjjgILcbilESpe7hNB1dGUZ39FlFaAPZUHso2K70wZXJe2lGwFZWNhA/j16MmklinmZV2NkrHDrNKb0NwuOQ1g0k3zpY7E79fBU1MsDVoM3auNNEvCeYzQDFj4Vp1Bl6uxaxLXpbTYIf412XAc5PzrSxiIKqmwvUbxnt57G2Fz3K0lUJUBxgOWP7WegZ8gx+AOPtBLUuLc7dtFoU4Ip5m3iV7D6wk7RDnbv0btqwMCZxJPkxAVe+yKrVEPH8NJmSQJhdbCp/Sbbb6EA==;uEraju/72MM+neY3O7zVFQ=="
 ---

@@ -21,15 +21,6 @@ topics:
   - Azure
 
 related:
-  - title: "Public Preview for Azure Monitor for VMs on Arc Enabled Servers"
-    excerpt: "Azure Monitor for VMs, a monitoring offering with out-of-the-box performance and dependency data, is now available in public preview for Arc enabled servers."
-    publishedDateTime: 2020-06-18T19:00:30Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-for-azure-monitor-for-vms-on-arc-enabled-servers/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 17
   - title: "Azure Automation is now available in the USGov Arizona region"
     excerpt: "Azure Automation is now available in the USGov Arizona region."
     publishedDateTime: 2020-06-22T16:00:33Z

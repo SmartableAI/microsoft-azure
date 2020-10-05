@@ -6,8 +6,8 @@ publishedDateTime: 2020-09-02T16:00:06Z
 originalUrl: "https://azure.microsoft.com/en-us/updates/improvements-to-azure-monitor-metric-alerts/"
 webUrl: "https://azure.microsoft.com/en-us/updates/improvements-to-azure-monitor-metric-alerts/"
 type: article
-quality: 67
-heat: 87
+quality: 84
+heat: 104
 published: true
 
 provider:
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - Azure
+  - DevOps
 
 related:
   - title: "Improvements to Azure Monitor log alerts include new links and added dimensions"

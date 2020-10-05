@@ -30,15 +30,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 18
-  - title: "Azure custom role creation in the Azure portal is now generally available"
-    excerpt: ""
-    publishedDateTime: 2020-05-01T16:00:17Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-custom-roles-portal/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 16
   - title: "Windows Server containers in AKS now generally available"
     excerpt: ""
     publishedDateTime: 2020-04-28T16:30:38Z

@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/cross-region-restore-crr-for-azur
 webUrl: "https://azure.microsoft.com/blog/cross-region-restore-crr-for-azure-virtual-machines-using-azure-backup/"
 type: article
 quality: 122
-heat: 142
+heat: 162
 published: true
 
 provider:
@@ -32,6 +32,15 @@ images:
     title: "Cross Region Restore (CRR) for Azure Virtual Machines using Azure Backup"
 
 related:
+  - title: "Cross Region Restore (CRR) for SQL/SAP HANA using Azure Backup"
+    excerpt: "Following the introduction of Cross Region Restore of Azure VMs, Azure Backup has extended this capability to support SQL and SAP HANA backups."
+    publishedDateTime: 2020-09-22T16:03:03Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/cross-region-restore-crr-for-sqlsap-hana-using-azure-backup/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
   - title: "Cross-region restore for Azure Virtual Machines using Azure Backup"
     excerpt: ""
     publishedDateTime: 2020-04-29T16:00:05Z

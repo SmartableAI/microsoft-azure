@@ -53,6 +53,15 @@ related:
         width: 1385
         height: 831
         isCached: true
+  - title: "Azure Cost Management + Billing updates – September 2020"
+    excerpt: "While 2020 may be keeping you on your toes, September should help make your life a little bit easier with the general availability of AWS support in Azure Cost Management + Billing, allowing you to manage all your Azure and AWS costs in a single place; the preview of cost allocation, streamlining your"
+    publishedDateTime: 2020-09-30T11:00:21Z
+    webUrl: "https://azure.microsoft.com/blog/azure-cost-management-billing-updates-september-2020/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 81
   - title: "Azure Cost Management + Billing updates – March 2020"
     excerpt: "We're covering the spectrum this month from improvements to help you stay on top of all your pay-as-you-go (PAYG) invoices to 4 new ways to save money and a wealth of new, quick videos to help you learn how to manage and optimize your costs."
     publishedDateTime: 2020-03-25T11:00:12Z

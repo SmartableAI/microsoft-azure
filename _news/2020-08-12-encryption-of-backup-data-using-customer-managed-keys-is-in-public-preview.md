@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-12T16:00:29Z
 webUrl: "https://azure.microsoft.com/en-us/updates/encryption-of-backup-data-using-customer-managed-keys-is-in-public-preview/"
 type: article
 quality: 50
-heat: 110
+heat: 90
 published: true
 
 provider:
@@ -21,15 +21,6 @@ topics:
   - Azure
 
 related:
-  - title: "Selective disks backup for Azure Virtual Machine is in public preview"
-    excerpt: "Optimize your costs and enjoy faster backup and restore operations by selectively backing up a subset of the data disks in a VM."
-    publishedDateTime: 2020-08-06T18:00:12Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/selective-disks-backup-for-azure-virtual-machine-is-in-public-preview/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 17
   - title: "Infrastructure double encryption for Azure Database for MySQL is in public preview"
     excerpt: "Infrastructure double encryption adds a second layer of encryption and a different encryption algorithm which gives an additional layer of protection for your data at rest. "
     publishedDateTime: 2020-08-10T16:00:04Z

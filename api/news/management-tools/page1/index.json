@@ -2,21 +2,63 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2020-09-29-whats-new-in-azure-backup.md",
-      "title": "What’s new in Azure Backup",
-      "excerpt": "This past week at Ignite, we announced many new capabilities in Azure Backup to help customers scale their data protection to the evolving needs of their business. Lets recap on all the new capabilities within Azure Backup.",
+      "path": "_news/2020-09-22-azure-backup-support-for-up-to-32-disks-is-now-generally-available.md",
+      "title": "Azure Backup support for up to 32 disks is now generally available",
+      "excerpt": "Azure Backup now supports Azure Virtual Machines with up to 32 attached managed disks. \n",
       "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/blog/whats-new-in-azure-backup/",
-      "originalUrl": "https://azure.microsoft.com/blog/whats-new-in-azure-backup/",
+      "webUrl": "https://azure.microsoft.com/en-us/updates/azure-backup-support-for-up-to-32-disks-is-now-generally-available/",
+      "originalUrl": "https://azure.microsoft.com/en-us/updates/azure-backup-support-for-up-to-32-disks-is-now-generally-available/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 204,
       "tags": null,
       "images": null,
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-29T01:30:03-07:00",
+      "publishedDateTime": "2020-09-22T09:05:23-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure",
+        "Management tools"
+      ]
+    },
+    {
+      "path": "_news/2020-09-22-introducing-azure-backup-center.md",
+      "title": "Introducing Azure Backup Center ",
+      "excerpt": "Backup Center currently is in public preview for the workloads of Azure Virtual Machines and Azure Database for PostgreSQL servers and limited public preview for the workloads SQL in Azure VMs, SAP HANA in Azure VMs and Azure Files.",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/en-us/updates/azure-backup-center-now-supports-additional-workloads-preview/",
+      "originalUrl": "https://azure.microsoft.com/en-us/updates/azure-backup-center-now-supports-additional-workloads-preview/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-22T09:02:46-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",
@@ -52,7 +94,7 @@
       "originalUrl": "https://azure.microsoft.com/blog/azure-netapp-files-cross-region-replication-and-new-enhancements-in-preview/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 129,
       "tags": null,
       "images": [
         {
@@ -148,6 +190,48 @@
       ]
     },
     {
+      "path": "_news/2020-09-02-public-preview-automated-deployment-of-always-on-availability-groups-through-the-azure-portal.md",
+      "title": "Public preview: Automated deployment of Always On availability groups through the Azure portal",
+      "excerpt": "Simplify configuring Always On availability groups and improve availability for SQL Server on Azure Virtual Machines",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/en-us/updates/public-preview-automated-deployment-of-always-on-availability-groups-through-the-azure-portal/",
+      "originalUrl": "https://azure.microsoft.com/en-us/updates/public-preview-automated-deployment-of-always-on-availability-groups-through-the-azure-portal/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 112,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-02T09:00:05-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure",
+        "Management tools"
+      ]
+    },
+    {
       "path": "_news/2020-09-01-5-ways-to-optimize-your-backup-costs-with-azure-backup.md",
       "title": "5 ways to optimize your backup costs with Azure Backup",
       "excerpt": "Achieving cost efficiency in your cloud usage is more critical today than ever before. \nAt Azure Backup, we are committed to helping you optimize your backup costs. Over the last few months, we have…",
@@ -199,7 +283,7 @@
       "originalUrl": "https://azure.microsoft.com/blog/monitoring-azure-arc-enabled-kubernetes-and-servers/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 426,
+      "heat": 246,
       "tags": null,
       "images": [
         {
@@ -251,7 +335,7 @@
       "originalUrl": "https://azure.microsoft.com/blog/nfs-30-support-for-azure-blob-storage-is-now-in-preview/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 341,
+      "heat": 321,
       "tags": null,
       "images": null,
       "type": "article",
@@ -442,7 +526,7 @@
       "originalUrl": "https://azure.microsoft.com/blog/achieve-higher-performance-and-cost-savings-on-azure-with-virtual-machine-bursting/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 122,
+      "heat": 142,
       "tags": null,
       "images": [
         {
@@ -651,7 +735,7 @@
       "originalUrl": "https://azure.microsoft.com/blog/azure-cost-management-billing-updates-april-2020/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 216,
+      "heat": 236,
       "tags": null,
       "images": [
         {
@@ -705,7 +789,7 @@
       "originalUrl": "https://azure.microsoft.com/blog/cross-region-restore-crr-for-azure-virtual-machines-using-azure-backup/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 142,
+      "heat": 162,
       "tags": null,
       "images": [
         {

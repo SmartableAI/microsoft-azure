@@ -37,6 +37,20 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 84
+  - title: "Build rich communication experiences at scale with Azure Communication Services"
+    excerpt: "In this remote-first world, businesses are looking to quickly adapt to customers’ needs and connect with them through engaging communication experiences. Building new communication solutions or integrating them into existing applications can be complex and time-consuming. Often requiring considerable"
+    publishedDateTime: 2020-09-22T08:00:31Z
+    webUrl: "https://azure.microsoft.com/blog/build-rich-communication-experiences-at-scale-with-azure-communication-services/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 83
+    images:
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/5714ed9c-7365-4095-b8db-762920382282.png"
+        width: 848
+        height: 385
+        isCached: true
 
 secured: "8DuUXMyQ3TEygHBb7Mhk6F+TzCig0P1sHv0YugMAi5smYsPFiSgELkRTJ1wHMHGIFboDfaRWPqGJyQPX0uGNRyvQxQ36mAqRpXZgaE23gQiutOPMyKeEFVIQqMI+ZrDEUxZLsxBLyUaVU6dI3NOnxkwEY5tBWaZAcdZ0ShBMiryz/wxeNSqh5L+5yqYanXx90+Bx5u2vdte2VWdZNponoqUdTMvNNvQKVg45wxwn+xkT3jjmDKDrBq/kBI4QaT/afTA4NBz/ok/TkcaN+SfHU+xu4rrnmXwKPao1T4wtyHO843c5Bcdbc7guzODHv/YaIfd8T2/o2rLHU9936ezr8ZopNpqEkZx7wl8XppZ09Lg=;UjVKYLYKrTcukDDZk87rkA=="
 ---

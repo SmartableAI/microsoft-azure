@@ -21,33 +21,160 @@ topics:
   - Azure
 
 related:
-  - title: "DCsv2-series VM now generally available from Azure confidential computing"
-    excerpt: "Security and privacy are critically important when storing and processing sensitive information in the cloud, from payment transactions, to financial records, personal health data, and more. With the general availability of DCsv2-series VMs, we are ushering in the start of a new level of data protection"
-    publishedDateTime: 2020-04-27T12:00:29Z
-    webUrl: "https://azure.microsoft.com/blog/dcsv2series-vm-now-generally-available-from-azure-confidential-computing/"
+  - title: "Azure Blob storage object replication is now generally available"
+    excerpt: "Object replication allows you to replicate your block blob data at the blob level from one storage account to another anywhere in the Azure. "
+    publishedDateTime: 2020-09-09T20:05:14Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-blob-storage-object-replication-is-now-generally-available/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 18
-  - title: "Maintenance control for platform updates now generally available"
+    quality: 99
+  - title: "Change feed support is now generally available for Azure Blob Storage"
+    excerpt: "Change feed support for Microsoft Azure Blob storage is now generally available."
+    publishedDateTime: 2020-09-09T20:04:54Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/change-feed-support-is-now-generally-available-for-azure-blob-storage/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 99
+  - title: "Azure Blob versioning is now general available "
+    excerpt: "Azure storage strives to protect your business critial data from any accident or attack. We are excited to announce the general availability of  Azure Blob versioning. "
+    publishedDateTime: 2020-08-31T20:00:37Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-blob-versioning-is-now-general-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
+  - title: "Connector for AWS in Azure Cost Management + Billing is now generally available"
+    excerpt: "The connector for AWS that helps you manage Azure and AWS costs from a single location is now generally available."
+    publishedDateTime: 2020-09-02T08:00:01Z
+    webUrl: "https://azure.microsoft.com/blog/connector-for-aws-in-azure-cost-management-billing-is-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 83
+    images:
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/8a7ddc8c-ab40-4eb0-8979-ec73c6098015.png"
+        width: 640
+        height: 364
+        isCached: true
+  - title: "Query Acceleration for Azure Data Lake Storage is now generally available"
+    excerpt: "Query Acceleration for Azure Data Lake Storage is now generally available in all Azure regions."
+    publishedDateTime: 2020-09-10T18:00:21Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/query-acceleration-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 83
+  - title: "Azure Spring Cloud is now generally available"
+    excerpt: "Azure Spring Cloud is a fully managed service for Spring Boot apps that lets you focus on building the apps that run your business without the hassle of managing infrastructure"
+    publishedDateTime: 2020-09-02T16:00:04Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-spring-cloud-is-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
+  - title: "Azure Private Link Service is now generally available in China "
+    excerpt: "Azure Private Link for customer owned services are now available in China Regions. "
+    publishedDateTime: 2020-09-14T17:10:45Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-private-link-service-is-now-generally-available-in-china/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
+  - title: "Azure Stack Edge Mini R is now generally available"
+    excerpt: "The new lineup of rugged edge devices are now generally available. Azure Stack Edge Mini R is a lightweight, portable, battery-operated device - small enough to fit into a backpack - designed for the harshest environments and disconnected scenarios. "
+    publishedDateTime: 2020-09-22T16:05:24Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-stack-edge-mini-r-is-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
+  - title: "Azure Blob storage point-in-time restore now generally available"
+    excerpt: "Azure Blob storage point-in-time restore provides continuous data protection and restoration capabilities for block blob data. This extends protection features to provide an easy way to restore to a previous date/time"
+    publishedDateTime: 2020-09-23T23:21:14Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-blob-storage-pointintime-restore-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
+  - title: "User-initiated failover for application fault resiliency in Azure SQL Managed Instance is now generally available"
+    excerpt: "Test the impact of automatic failover operations during planned or unplanned events before deployment to production by manually initiating automatic failover"
+    publishedDateTime: 2020-09-02T16:00:05Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/userinitiated-failover-for-application-fault-resiliency-in-azure-sql-managed-instance-is-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 63
+  - title: "Durable Functions v2.3 is now available "
+    excerpt: "A new release of Durable Functions is out now. This release includes new functionality including long running timers, logging, and state management improvements."
+    publishedDateTime: 2020-09-02T16:00:04Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/durable-functions-v23-is-now-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 52
+  - title: "Azure Firewall Manager is now generally available"
+    excerpt: "Azure Firewall Manager is now generally available, and includes Azure Firewall Policy, Azure Firewall in a Virtual WAN Hub (Secure Virtual Hub), and Hub Virtual Network."
+    publishedDateTime: 2020-07-01T08:00:06Z
+    webUrl: "https://azure.microsoft.com/blog/azure-firewall-manager-is-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 37
+    images:
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/48d05065-53c7-4758-8091-6b72d3df73d0.png"
+        width: 1024
+        height: 367
+        isCached: true
+  - title: "Object replication public preview for Azure Blob storage"
     excerpt: ""
-    publishedDateTime: 2020-04-28T17:15:39Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/maintenance-control-for-platform-updates-now-generally-available/"
+    publishedDateTime: 2020-05-21T15:44:37Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-storage-object-replication-public-preview/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 2
-  - title: "Windows Server containers in AKS now generally available"
-    excerpt: ""
-    publishedDateTime: 2020-04-28T16:30:38Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/windows-server-containers-in-aks-now-generally-available/"
+    quality: 17
+  - title: "Azure geo-zone-redundant storage is now generally available"
+    excerpt: "Geo-zone-redundant storage (GZRS) and read-access geo-zone-redundant storage (RA-GZRS) are now generally available, offering intra-regional and inter-regional high availability and disaster protection for your applications."
+    publishedDateTime: 2020-06-17T20:00:18Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/storage-gzrs-ga/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 2
+    quality: 17
+  - title: "Azure Data Lake Storage archive tier is now generally available"
+    excerpt: "The archive tier for Azure Data Lake Storage is now generally available. The archive tier provides an ultra-low cost tier for long term retention of data while keeping your data available for future analytics needs."
+    publishedDateTime: 2020-06-30T20:00:36Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/archive-tier-for-azure-data-lake-storage-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 17
+  - title: "Azure VM Image Builder is now generally available"
+    excerpt: "Streamline your image building pipeline and integrate your DevOps application lifecycle with cloud native tools using VM Image Builder."
+    publishedDateTime: 2020-07-20T16:00:31Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-vm-image-builder-is-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 17
 
 secured: "BQyEqvWKJ7wEs5QovdB3q9059q2xCv5UTy1EhGPVB+TA5kS+Hqs/2cuCx07HMewjLhUG4jPLGOyqzQtPIilScRwB3tF9fswceUM4AJf8yRj9c6OGpF2itA34YtKJ/NTVZgpCwnrms9CADeoAmlgLPlOBCliLwX7OSeFsFZYgSNU8oks8Awpkiajco6ffK+tgIqFScTpv2RprimVD7L+VFBrIbaP8b8l7HjaqS+aG9NwV+f1iQUdLhZhGibaFwrlpbPcpj8r5wE8OhDY6F/HQhJEyQticksD5c7dW+4zJ3ccfAw0Jg2qkSsNrmf7irJgSVEIEafLLHDvTbldofJaCgA==;4d5iYpESXp8C1HBqNHGZCQ=="
 ---

@@ -22,20 +22,60 @@ topics:
   - Storage
 
 related:
-  - title: "Multi-protocol access on Data Lake Storage now generally available"
-    excerpt: "We are excited to announce the general availability of multi-protocol access for Azure Data Lake Storage. Azure Data Lake Storage is a unique cloud storage solution for analytics that offers multi-protocol access to the same data. This is a no-compromise solution that allows both the Azure Blob Storage"
-    publishedDateTime: 2019-11-26T13:00:34Z
-    webUrl: "https://azure.microsoft.com/blog/multi-protocol-access-on-data-lake-storage-now-generally-available/"
+  - title: "Azure Backup support for up to 32 disks is now generally available"
+    excerpt: "Azure Backup now supports Azure Virtual Machines with up to 32 attached managed disks. \n"
+    publishedDateTime: 2020-09-22T16:05:23Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-backup-support-for-up-to-32-disks-is-now-generally-available/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 39
-    images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/b83238b4-dba1-4651-8eac-217459a4b753.png"
-        width: 1024
-        height: 471
-        isCached: true
+    quality: 84
+  - title: "Azure HDInsight --Autoscale for Interactive Query with HDInsight 4.0 is now generally available"
+    excerpt: "Enable HDInsight Autoscale to drive higher utilization of your clusters. "
+    publishedDateTime: 2020-09-29T16:39:04Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-hdinsight-autoscale-for-interactive-query-with-hdinsight-40-is-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 72
+  - title: "512 Sector Size support on Azure Ultra Disks is now available"
+    excerpt: "Azure Ultra Disks now support 512 sector sizes."
+    publishedDateTime: 2020-09-22T16:05:21Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/512-sector-size-support-on-azure-ultra-disks-is-now-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
+  - title: "Selective disks backup for Azure Virtual Machines"
+    excerpt: "Using the Selective disks backup feature, you get an option to backup subset of the data disks in an Azure Virtual Machine.\n\n"
+    publishedDateTime: 2020-09-22T16:05:23Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/selective-disks-backup-for-azure-virtual-machine/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
+  - title: "Azure Support API is generally available"
+    excerpt: ""
+    publishedDateTime: 2020-04-17T17:00:00Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-support-api-is-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 17
+  - title: "AKS-managed Azure Active Directory support is now generally available"
+    excerpt: "Azure Kubernetes Service (AKS)-managed Azure Active Directory (Azure AD) support is now generally available. "
+    publishedDateTime: 2020-07-21T16:00:56Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/aksmanaged-azure-active-directory-support-is-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 17
 
 secured: "zwVWgS9GaU0Tv2AN0tQxbXsZTNvHhFXJ6+xMHDT9T3LGx03UFx6//BLPkGQAvUg/KYX/pm9VjD2+KeQj3WyZkY3BScETjh913v3+qbAHufy7Q9/PRrkKFQsrUYE3iU6ob1jYcohKoH3Mo+QLwFUjba3wDljGk0OjAe/BktBEejOxgOcWqBIRXZsHMiiGcSP5QVPij1bIKcRcsxBQ39RuDqzENL1g5u7O32vvL8EHbgIamD7Dfc9zlpwXr7rYSEq8cwBVesXv/aPfUyWf3aD2hMbfX1hFFV6WTzQYLT0OkQR/sCrV+Hw/f1Jd3IV3o3DIKOMctT8qrYLGeeeChxtBxw==;8694kOLyTf3bSYrZw0mXrg=="
 ---

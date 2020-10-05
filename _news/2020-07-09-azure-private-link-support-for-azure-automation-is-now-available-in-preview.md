@@ -145,15 +145,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 17
-  - title: "Machine Learning on Azure SQL Managed Instance limited preview available"
-    excerpt: ""
-    publishedDateTime: 2020-05-27T16:00:07Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/machine-learning-on-azure-sql-managed-instance-limited-preview-available/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 16
 
 secured: "elFo7JW9xnWbpTQELBLzgzelzg2nTT+ohJT8unxlvKKHHk6ocmCZvXE+xjPLgj892Icc3izWkjIHh4AeguA1LbjglyvkCzBrEd7lijgOO14dcPbjAZrajvAWAWLC3RNqOsWzP0LuO/V3UBXdhyLtdVaD3FYC8K3WRtBZpPpQJiWHAMllNLd0oFyhtF5loXyMxVt2lK1lfa0Hy/KtFUHvZrZYQz6nA5MKuhSRa6Tkuk1VhvAlQdifjUIXSxRMjAdX000mE440KP8EQCXl2+Tl7eEvViaFnTozwpSdQLMXMoQLITC23JXgXqMeKbZRDAq9LiNxkg7MVtlFWGnt/YeBWQ==;lYtI+4bHolmK8/WcLWsyVw=="
 ---

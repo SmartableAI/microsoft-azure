@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/reserved-capacity-on-azu
 webUrl: "https://azure.microsoft.com/en-us/updates/reserved-capacity-on-azure-sql-database-hyperscale-is-now-available/"
 type: article
 quality: 114
-heat: 194
+heat: 214
 published: true
 
 provider:
@@ -32,6 +32,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 99
+  - title: "Azure Arc enabled PostgreSQL Hyperscale now in preview"
+    excerpt: "Azure Arc enabled PostgreSQL Hyperscale is now in preview, providing elastic scale with a unified hybrid management experience with or without a direct connection to the cloud. "
+    publishedDateTime: 2020-09-22T16:00:15Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-arc-enabled-postgresql-hyperscale-now-in-preview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
   - title: "Azure SQL Database Hyperscale—Change tracking support now available"
     excerpt: ""
     publishedDateTime: 2020-04-15T16:00:49Z

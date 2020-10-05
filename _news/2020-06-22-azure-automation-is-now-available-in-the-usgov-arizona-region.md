@@ -30,15 +30,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 17
-  - title: "Public Preview for Azure Monitor for VMs on Arc Enabled Servers"
-    excerpt: "Azure Monitor for VMs, a monitoring offering with out-of-the-box performance and dependency data, is now available in public preview for Arc enabled servers."
-    publishedDateTime: 2020-06-18T19:00:30Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-for-azure-monitor-for-vms-on-arc-enabled-servers/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 17
 
 secured: "J8leQCVjOt4+WHmJhnxmyOPj/UWXnbk4aQovZVP8YDPjPdK/2iDLiYpjnEm1zi1UrFK0aGICm93xAWNVX96goKvGJ1TLRXomB3xoDMNfWMBdfgFACJjXuS530uLgT0VOdOL/BulISXc1tulBDGq16eThxqLdVBVpPW7K9H2rpl5JLxvjtdAyqasrh8rGPzmUo7lAQP+2toWWCzEIkPej2mgtDealXuVqGvH27bmLDhIVKz/m+xfbHFG1Lz4xRhlQQKL5HR+nqR3jScUJLxq2+HqgCIH0ej77Tdx8purKIGzl8wpkMWYhhaXJ8MJqgNFar92+jsiu1mVPLDv5hAR/+A==;l74f9vjIEuBg6CYVWo+PPQ=="
 ---

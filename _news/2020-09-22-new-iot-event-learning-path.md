@@ -6,7 +6,7 @@ publishedDateTime: 2020-09-22T16:05:31Z
 originalUrl: "https://azure.microsoft.com/en-us/updates/new-iot-event-learning-path/"
 webUrl: "https://azure.microsoft.com/en-us/updates/new-iot-event-learning-path/"
 type: article
-quality: 52
+quality: 69
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - Azure
+  - IoT
 
 related:
   - title: "How Azure IoT enables business resilience"

@@ -21,106 +21,75 @@ topics:
   - Azure
 
 related:
-  - title: "Connector for AWS in Azure Cost Management + Billing is now generally available"
-    excerpt: "The connector for AWS that helps you manage Azure and AWS costs from a single location is now generally available."
-    publishedDateTime: 2020-09-02T08:00:01Z
-    webUrl: "https://azure.microsoft.com/blog/connector-for-aws-in-azure-cost-management-billing-is-now-generally-available/"
+  - title: "New Windows Virtual Desktop capabilities now generally available"
+    excerpt: "With the global pandemic, customers are relying on remote work more than ever, and Windows Virtual Desktop is helping customers rapidly deliver a secure Windows 10 desktop experience to their users."
+    publishedDateTime: 2020-07-27T11:00:03Z
+    webUrl: "https://azure.microsoft.com/blog/new-windows-virtual-desktop-capabilities-now-generally-available/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 83
+    quality: 72
     images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/8a7ddc8c-ab40-4eb0-8979-ec73c6098015.png"
-        width: 640
-        height: 364
-        isCached: true
-  - title: "Azure Spring Cloud: a fully managed service for Spring Boot apps is now generally available"
-    excerpt: "Azure Spring Cloud is a fully managed service for Spring Boot apps, that lets you focus on building the apps that run your business without the hassle of managing infrastructure."
-    publishedDateTime: 2020-09-02T06:00:00Z
-    webUrl: "https://azure.microsoft.com/blog/azure-spring-cloud-a-fully-managed-service-for-spring-boot-apps-is-now-generally-available/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 77
-    images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/816ab479-5c10-48ba-8084-c7816d2b6f1b.jpg"
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/f55af93e-678e-415a-9906-f3bdba2f1933.jpg"
         width: 1024
-        height: 737
+        height: 641
         isCached: true
-  - title: "Azure Blob versioning is now general available "
-    excerpt: "Azure storage strives to protect your business critial data from any accident or attack. We are excited to announce the general availability of  Azure Blob versioning. "
-    publishedDateTime: 2020-08-31T20:00:37Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-blob-versioning-is-now-general-available/"
+  - title: "Windows Virtual Desktop Gets Azure Portal and Teams Client Support"
+    excerpt: "The Windows Virtual Desktop (WVD) service now has Azure Portal integration, plus Audio/Video (A/V) Redirect support for Microsoft Teams client sessions, Microsoft announced on Monday."
+    publishedDateTime: 2020-07-28T23:20:00Z
+    webUrl: "https://redmondmag.com/articles/2020/07/28/windows-virtual-desktop-support.aspx"
+    type: article
+    provider:
+      name: Redmond Magazine
+      domain: redmondmag.com
+    quality: 37
+    images:
+      - url: "https://redmondmag.com/-/media/ECG/VirtualizationReview/Images/IntroImages2016/0916VRM_Take5.jpg"
+        width: 647
+        height: 450
+        isCached: true
+  - title: "Azure Archive expanded capabilities now generally available"
+    excerpt: ""
+    publishedDateTime: 2020-04-23T16:00:13Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-archive-expanded-capabilities-generally-available/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 67
-  - title: "Visualize and Manage your AWS costs in Azure Cost Management"
-    excerpt: "Connector for AWS in Azure Cost Management is now Generally Available."
-    publishedDateTime: 2020-09-01T16:00:07Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/visualize-and-manage-your-aws-costs-in-azure-cost-management/"
+    quality: 17
+  - title: "Remote Desktop client for Android now supports Windows Virtual Desktop connections"
+    excerpt: "Access Windows Virtual Desktop from the new Remote Desktop client for Android."
+    publishedDateTime: 2020-07-30T00:00:32Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/windows-virtual-desktop-client-for-android/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 67
-  - title: "Azure Spring Cloud is now generally available"
-    excerpt: "Azure Spring Cloud is a fully managed service for Spring Boot apps that lets you focus on building the apps that run your business without the hassle of managing infrastructure"
-    publishedDateTime: 2020-09-02T16:00:04Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-spring-cloud-is-now-generally-available/"
+    quality: 16
+    images:
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/3358bb18-b443-4c0d-9823-f95637177398.png"
+        width: 1080
+        height: 2280
+        isCached: true
+  - title: "Azure Virtual WAN: Multiple capabilities and new partners now generally available"
+    excerpt: "Today we are announcing the General Availability of multiple enhancements in Azure Virtual WAN, including hub-to-hub, custom routing and transit capabilities."
+    publishedDateTime: 2020-07-06T17:00:16Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-virtual-wan-multiple-capabilities-and-new-partners-now-generally-available/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 67
-  - title: "Azure Blob storage object replication is now generally available"
-    excerpt: "Object replication allows you to replicate your block blob data at the blob level from one storage account to another anywhere in the Azure. "
-    publishedDateTime: 2020-09-09T20:05:14Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-blob-storage-object-replication-is-now-generally-available/"
+    quality: 12
+  - title: "Enable remote work faster with new Windows Virtual Desktop capabilities"
+    excerpt: "In the past few months, there has been a dramatic and rapid shift in the speed at which organizations of all sizes have enabled remote work amidst the global health crisis. Companies examining priorities and shifting resources with agility can help their employees stay connected from new locations and"
+    publishedDateTime: 2020-05-01T10:00:20Z
+    webUrl: "https://azure.microsoft.com/blog/enable-remote-work-faster-with-new-windows-virtual-desktop-capabilities/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 67
-  - title: "Change feed support is now generally available for Azure Blob Storage"
-    excerpt: "Change feed support for Microsoft Azure Blob storage is now generally available."
-    publishedDateTime: 2020-09-09T20:04:54Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/change-feed-support-is-now-generally-available-for-azure-blob-storage/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 67
-  - title: "Immersive Reader is now generally available"
-    excerpt: "Immersive Reader is an Azure Cognitive Service for developers who want to embed inclusive capabilities into their apps for enhancing text reading and comprehension for users regardless of age or ability. "
-    publishedDateTime: 2020-08-27T00:35:27Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/immersive-reader-is-now-generally-available/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 52
-  - title: "Manage your Azure & Amazon Web Services (AWS) spending in a single location with Azure Cost Management +Billing"
-    excerpt: "An Azure Cost Management + Billing connector for AWS is now generally available. "
-    publishedDateTime: 2020-09-01T17:16:16Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/manage-your-azure-amazon-web-services-aws-spending-in-a-single-location-with-azure-cost-management-billing/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 47
-  - title: "User-initiated failover for application fault resiliency in Azure SQL Managed Instance is now generally available"
-    excerpt: "Test the impact of automatic failover operations during planned or unplanned events before deployment to production by manually initiating automatic failover"
-    publishedDateTime: 2020-09-02T16:00:05Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/userinitiated-failover-for-application-fault-resiliency-in-azure-sql-managed-instance-is-now-generally-available/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 46
+    quality: 2
 
 secured: "aqAFfDjMYyGUv4pdrJNV7MSUcnARUE5XPeLyO8VhT9EQgaayX0Ez6hFvTiqjH05g/uIEOnDN5UcfdCDZsJM/Y+YjQMHN9wTedQ/XhTg4WnbFZLvNga0m9oSQoTe0VQDq5eE+NSyC9TvDYgd45Dq/K2ftqG0h93RAomF5Lul9WpnIZ7tvCxKQqhV5l/0CHmZCJaboKVGTQI67Xu4B8uaEn7erfStmKPjuAeZk3yU+1P61Qj3XIFqmb/nibGRSEP3Ptal0ObTJlZ4Q3kJqip99mQ286dRw4QUrd0pEh4sWC+dVApBqgJPUe3bm+UJlO9/ST0l0FGLzKSKx2LGcsWssYQ==;HhDGA12sZcPk+NonNWRtyw=="
 ---

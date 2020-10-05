@@ -56,6 +56,24 @@ related:
         width: 1000
         height: 666
         isCached: true
+  - title: "Azure Monitor Log Analytics UI improvements September 2020"
+    excerpt: "Log Analytics UI gets several improvements in September including, search in query history, search in query dialog, and time picker enhancements.\n"
+    publishedDateTime: 2020-09-22T16:05:17Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-monitor-log-analytics-ui-gets-search-in-query-history/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 101
+  - title: "Traffic Analytics & Diagnostics capabilities in Azure Monitor for Networks"
+    excerpt: "Azure Monitor for Network provides the starting point for network monitoring without any user configuration and provides access to all available network monitoring capabilities."
+    publishedDateTime: 2020-09-22T16:05:24Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/traffic-analytics-diagnostics-capabilities-in-azure-monitor-for-networks/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 99
   - title: "Column-level encryption for Azure Synapse Analytics"
     excerpt: "Azure Synapse Analytics already provides a breadth of options that can be used to handle sensitive data in a secure manner—we are expanding that support with the introduction of Column Level Encryption (CLE)."
     publishedDateTime: 2020-09-23T16:00:13Z
@@ -216,6 +234,15 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Azure Sentinel launches new analytics, threat intelligence, and data collection features"
+    excerpt: "New analytics, threat intelligence, and data collection capabilities in Azure Sentinel empower defenders to combat rapidly evolving threats with increased efficiency.  "
+    publishedDateTime: 2020-09-22T16:05:27Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-sentinel-launches-new-analytics-threat-intelligence-and-data-collection-features/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 75
   - title: "Microsoft adds more devices and services to its Azure Stack hybrid line-up"
     excerpt: "Microsoft Ignite 2020: Mary Jo Foley on Project Cortex, Azure resiliency, Teams, and Edge on Linux Top cloud providers in 2020: AWS, Microsoft Azure, and Google Cloud, hybrid, SaaS players The ..."
     publishedDateTime: 2020-09-22T21:24:00Z

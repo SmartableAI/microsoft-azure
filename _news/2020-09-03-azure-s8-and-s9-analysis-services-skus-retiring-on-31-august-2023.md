@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/azure-s8-and-s9-analysis
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-s8-and-s9-analysis-services-skus-retiring-on-31-august-2023/"
 type: article
 quality: 67
-heat: -1
+heat: 67
 published: false
 
 provider:
@@ -20,44 +20,6 @@ provider:
 
 topics:
   - Azure
-
-related:
-  - title: "View Designer in Azure Monitor is retiring on 31 August 2023"
-    excerpt: "Start using Azure Monitor Workbooks for rich visual reports"
-    publishedDateTime: 2020-09-01T16:00:06Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/view-designer-in-azure-monitor-is-retiring-on-31-august-2023/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 67
-  - title: "Azure Storage classic metrics will be retired on 31 August 2023"
-    excerpt: "Transition to using metrics in Azure Monitor"
-    publishedDateTime: 2020-09-03T16:00:17Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-storage-classic-metrics-will-be-retired-on-31-august-2023/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 67
-  - title: "Azure API Management will retire 5 legacy metrics in Azure Monitor on 31 August 2023"
-    excerpt: "Start using the new Requests metric in Azure Monitor."
-    publishedDateTime: 2020-09-03T16:57:33Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-api-management-will-retire-5-legacy-metrics-in-azure-monitor-on-31-august-2023/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 60
-  - title: "Version 2 of Translator is retiring on 24 May 2021 "
-    excerpt: "Migrate to version 3 of Translator "
-    publishedDateTime: 2020-08-27T16:00:14Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/version-2-of-translator-is-retiring-on-24-may-2021/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 52
 
 secured: "aI6WtEVS4ny+JT5SdTTM/gKGq4TTbEfWCVI+075F0HsZeUWv0S4Zx8Xr/X9zjMaajgVodZv4J7AUkP4rn30Ak9YOblZ6tG89I4p0p9eRnS+tQt9LJsQoEO+/f3mlPg5ejGURsZwn+Mgpx6TrG4M62f478CsAAjB7/HaSHKvHvSt+LFeX27VCN2j0+k/NX2XSS+og3A4oMfQcLi/oSdnCgRlfjHzmFkvF0uglG/58HDY1oIhQK2Vcdo2MqYxwg2nLxmNA+guc2XJvwQoGuNrWUqrJ/N0zSY+23aAGWHJrQUVID50Vxd3bIO3F8QAFPGkxJpGQy37YEnk8XNN1BTGTCjUCy6Xq0LTWww5RHZEcp9Y=;gjPTU+J1LIbtmnJe4pyfvw=="
 ---

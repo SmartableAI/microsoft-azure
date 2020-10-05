@@ -7,7 +7,7 @@ originalUrl: "https://visualstudiomagazine.com/Articles/2020/09/22/blazor-static
 webUrl: "https://visualstudiomagazine.com/Articles/2020/09/22/blazor-static-web-apps.aspx?p=1"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,17 @@ images:
     width: 647
     height: 450
     isCached: true
+
+related:
+  - title: "Blazor and C# APIs now supported in Azure Static Web Apps "
+    excerpt: "Developers can now build and publish applications built entirely in .NET with Static Web Apps using Blazor WebAssembly and C# API's."
+    publishedDateTime: 2020-09-22T16:05:21Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/blazor-and-c-sharp-apis-now-supported-in-azure-static-web-apps/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
 
 secured: "So/BYuMjzYTSUaKMyxWGsyiGaqU3uGqwcvEXvJdtl2FdoOMn2bJPOzgCu5CuRZNy9uRYurIHnDHBnMa8wRFGlL+WbIeH8ZO+lL+Mh14MzgubF3tssalRtmIxDTGsOzUEeQlR3mlwu2wl+BthjQVzXCAFtjDLRMN57PmaLWT17WqSPBi8s7p1IjQP+d0R1vA+ZTJEjFdLpT1YD78ND/tmA88TSRRVt6LdN2UjdfmoqkAIc3KuBmge2337DTU027hZrb3CtPuNQ0Z0jdMdmnRjyhA/07vqlJegRytojLiPWN5w7FE3sdqsBOwhixifOtOoy8dAsYbaVQBFQiDfzFDk8rsncrnoub3DggeFa6E8SwM=;D0JrKv2NF40bNhuDrZR56w=="
 ---

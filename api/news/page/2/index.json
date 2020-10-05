@@ -2,143 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2020-09-24-microsoft-launches-azure-orbital-to-connect-satellites-to-its-cloud.md",
-      "title": "Microsoft launches Azure Orbital to connect satellites to its cloud",
-      "excerpt": "Ignite conference, Microsoft today announced the launch of Azure Orbital, a new service that is meant to give satellite operators a complete platform to communicate with their satellites and process data from them — including the ground stations to receive those signals.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/09/22/microsoft-launches-azure-orbital-to-connect-satellites-to-its-cloud/",
-      "originalUrl": "https://techcrunch.com/2020/09/22/microsoft-launches-azure-orbital-to-connect-satellites-to-its-cloud/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 2414,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/09/GettyImages-687795300.jpg?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/09/22/microsoft-launches-azure-orbital-to-connect-satellites-to-its-cloud/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/09/22/microsoft-launches-azure-orbital-to-connect-satellites-to-its-cloud/amp/",
-      "publishedDateTime": "2020-09-23T22:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure",
-        "Networking"
-      ]
-    },
-    {
-      "path": "_news/2020-09-22-configurable-backup-storage-redundancy-option-for-azure-sql-managed-instance.md",
-      "title": "Configurable Backup Storage Redundancy option for Azure SQL Managed Instance ",
-      "excerpt": "Now in general availability, locally redundant storage (LRS) and zone-redundant storage (ZRS) options have been added to backup storage redundancy, providing more flexibility and choice. ",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/en-us/updates/configurable-backup-storage-redundancy-option-for-azure-sql-managed-instance-2/",
-      "originalUrl": "https://azure.microsoft.com/en-us/updates/configurable-backup-storage-redundancy-option-for-azure-sql-managed-instance-2/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 178,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-22T09:05:38-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure",
-        "Databases",
-        "Storage"
-      ]
-    },
-    {
-      "path": "_news/2020-09-22-accelerate-analytics-and-ai-workloads-with-photon-powered-delta-engine-on-azure-databricks.md",
-      "title": "Accelerate analytics and AI workloads with Photon powered Delta Engine on Azure Databricks",
-      "excerpt": "Photon powered Delta Engine is a 100% Apache Spark-compatible vectorized query engine designed to take advantage of modern CPU architecture for extremely fast parallel processing of data.",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/en-us/updates/accelerate-analytics-and-ai-workloads-with-photon-powered-delta-engine-on-azure-databricks/",
-      "originalUrl": "https://azure.microsoft.com/en-us/updates/accelerate-analytics-and-ai-workloads-with-photon-powered-delta-engine-on-azure-databricks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-22T09:05:37-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure",
-        "Analytics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-09-22-high-throughput-output-from-stream-analytics-to-azure-synapse-analytics-general-availability.md",
       "title": "High throughput output from Stream Analytics to Azure Synapse Analytics (General Availability)",
       "excerpt": "With a brand new output connector to Synapse SQL Pools, Stream Analytics can now support throughput rates even higher than 200MB/sec while ensuring ultra-low latencies. ",
@@ -181,21 +44,21 @@
       ]
     },
     {
-      "path": "_news/2020-09-22-azure-stream-analytics-clusters-with-vnet-support-preview.md",
-      "title": "Azure Stream Analytics clusters with VNet support (Preview)",
-      "excerpt": "Azure Stream Analytics clusters delivers support for Azure Virtual Network (VNet) and more predictable performance.",
+      "path": "_news/2020-09-22-iot-security-updates-for-september-2020.md",
+      "title": "IoT Security updates for September 2020",
+      "excerpt": "New Azure IoT Security product updates include improvements around monitoring, edge nesting and the availability of Azure Defender for IoT.",
       "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/en-us/updates/azure-stream-analytics-clusters-with-vnet-support-preview/",
-      "originalUrl": "https://azure.microsoft.com/en-us/updates/azure-stream-analytics-clusters-with-vnet-support-preview/",
+      "webUrl": "https://azure.microsoft.com/en-us/updates/iot-security/",
+      "originalUrl": "https://azure.microsoft.com/en-us/updates/iot-security/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 146,
       "tags": null,
       "images": null,
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-22T09:05:36-07:00",
+      "publishedDateTime": "2020-09-22T09:05:28-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",
@@ -219,25 +82,26 @@
       ],
       "topics": [
         "Azure",
-        "Analytics"
+        "IoT",
+        "Security"
       ]
     },
     {
-      "path": "_news/2020-09-22-announcing-private-azure-marketplace-in-public-preview.md",
-      "title": "Announcing Private Azure Marketplace in public preview",
-      "excerpt": "Private Azure Marketplace enables you to govern the apps available for deployment for your organization",
+      "path": "_news/2020-09-22-azure-machine-learning-offers-added-capabilities-at-lower-cost.md",
+      "title": "Azure Machine Learning offers added capabilities at lower cost ",
+      "excerpt": "Azure Machine Learning Enterprise Edition (preview) and Basic Edition are merging on September 22, 2020. This change does not cause any downtime or impact existing deployments.  ",
       "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/en-us/updates/announcing-private-azure-marketplace-in-public-preview/",
-      "originalUrl": "https://azure.microsoft.com/en-us/updates/announcing-private-azure-marketplace-in-public-preview/",
+      "webUrl": "https://azure.microsoft.com/en-us/updates/azure-machine-learning-offers-new-capabilities-at-no-added-cost/",
+      "originalUrl": "https://azure.microsoft.com/en-us/updates/azure-machine-learning-offers-new-capabilities-at-no-added-cost/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 124,
       "tags": null,
       "images": null,
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-22T09:05:35-07:00",
+      "publishedDateTime": "2020-09-22T09:05:26-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",
@@ -260,16 +124,186 @@
         "news"
       ],
       "topics": [
-        "Azure"
+        "Azure",
+        "AI"
       ]
     },
     {
-      "path": "_news/2020-09-22-redis-enterprise-features-on-azure-cache-for-redis-coming-soon.md",
-      "title": "Redis Enterprise features on Azure Cache for Redis coming soon",
-      "excerpt": "Two new tiers will be coming soon in preview for Azure Cache for Redis through a collaboration with Redis Labs: Enterprise and Enterprise Flash.",
+      "path": "_news/2020-09-22-protect-both-managed-and-unmanaged-iotot-devices-with-azure-defender-for-iot.md",
+      "title": "Protect both managed and unmanaged IoT/OT devices with Azure Defender for IoT ",
+      "excerpt": "Azure Defender for IoT a rebranding of Azure Security Center for IoT is launching new capabilities from the CyberX acquisition to provide agentless security for unmanaged IoT/OT devices as well as managed devices connected to Azure IoT Hub.",
       "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/en-us/updates/redis-enterprise-features-on-azure-cache-for-redis-coming-soon/",
-      "originalUrl": "https://azure.microsoft.com/en-us/updates/redis-enterprise-features-on-azure-cache-for-redis-coming-soon/",
+      "webUrl": "https://azure.microsoft.com/en-us/updates/protect-both-managed-and-unmanaged-iotot-devices-with-azure-defender-for-iot/",
+      "originalUrl": "https://azure.microsoft.com/en-us/updates/protect-both-managed-and-unmanaged-iotot-devices-with-azure-defender-for-iot/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-22T09:05:26-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure",
+        "IoT"
+      ]
+    },
+    {
+      "path": "_news/2020-09-22-azure-backup-support-for-up-to-32-disks-is-now-generally-available.md",
+      "title": "Azure Backup support for up to 32 disks is now generally available",
+      "excerpt": "Azure Backup now supports Azure Virtual Machines with up to 32 attached managed disks. \n",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/en-us/updates/azure-backup-support-for-up-to-32-disks-is-now-generally-available/",
+      "originalUrl": "https://azure.microsoft.com/en-us/updates/azure-backup-support-for-up-to-32-disks-is-now-generally-available/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 204,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-22T09:05:23-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure",
+        "Management tools"
+      ]
+    },
+    {
+      "path": "_news/2020-09-22-azure-key-vault-managed-hsm-available-in-public-preview.md",
+      "title": "Azure Key Vault Managed HSM available in public preview",
+      "excerpt": "A new key management offering is now available in public preview: Azure Key Vault Managed HSM (hardware security model). Azure Key Vault Managed HSM offers a fully managed, highly available, single-tenant, standards-compliant cloud service that enables you to safeguards cryptographic keys for your cloud",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/en-us/updates/akv-managed-hsm-public-preview/",
+      "originalUrl": "https://azure.microsoft.com/en-us/updates/akv-managed-hsm-public-preview/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-22T09:05:23-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure",
+        "Security"
+      ]
+    },
+    {
+      "path": "_news/2020-09-22-azure-cognitive-search-managed-identity-support-and-private-endpoints-are-ga.md",
+      "title": "Azure Cognitive Search - Managed identity support and Private Endpoints are GA",
+      "excerpt": "You can now request Azure Cognitive Search to create an outbound private endpoint connection in order to securely access data from such data sources via indexers . You can also create identity for a search service in Azure Active Directory, then use RBAC permissions to grant the identity permissions",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/en-us/updates/azure-cognitive-search-managed-identity-support-and-private-endpoints-are-ga/",
+      "originalUrl": "https://azure.microsoft.com/en-us/updates/azure-cognitive-search-managed-identity-support-and-private-endpoints-are-ga/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-22T09:05:22-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure",
+        "AI",
+        "Identity"
+      ]
+    },
+    {
+      "path": "_news/2020-09-22-azure-machine-learning-updates-ignite-2020.md",
+      "title": "Azure Machine Learning updates Ignite 2020 ",
+      "excerpt": "Azure Machine Learning is bringing new capabilities to customers at no additional cost. Azure Machine Learning designer and automated ML UI are now generally available. ",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/en-us/updates/azure-machine-learning-updates-ignite-2020/",
+      "originalUrl": "https://azure.microsoft.com/en-us/updates/azure-machine-learning-updates-ignite-2020/",
       "featuredContent": null,
       "highlight": null,
       "heat": 84,
@@ -278,7 +312,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-22T09:05:34-07:00",
+      "publishedDateTime": "2020-09-22T09:05:22-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",
@@ -302,16 +336,16 @@
       ],
       "topics": [
         "Azure",
-        "Databases"
+        "AI"
       ]
     },
     {
-      "path": "_news/2020-09-22-ga-azure-kubernetes-service-support-for-new-base-image-ubuntu-1804.md",
-      "title": "GA: Azure Kubernetes Service support for new base image Ubuntu 18.04",
-      "excerpt": "Ubuntu 18.04 is now the default Node Operating System on Azure Kubernetes Service (AKS). ",
+      "path": "_news/2020-09-22-blazor-and-c-apis-now-supported-in-azure-static-web-apps.md",
+      "title": "Blazor and C# APIs now supported in Azure Static Web Apps ",
+      "excerpt": "Developers can now build and publish applications built entirely in .NET with Static Web Apps using Blazor WebAssembly and C# API's.",
       "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/en-us/updates/ga-aks-support-for-new-base-image-ubuntu-1804/",
-      "originalUrl": "https://azure.microsoft.com/en-us/updates/ga-aks-support-for-new-base-image-ubuntu-1804/",
+      "webUrl": "https://azure.microsoft.com/en-us/updates/blazor-and-c-sharp-apis-now-supported-in-azure-static-web-apps/",
+      "originalUrl": "https://azure.microsoft.com/en-us/updates/blazor-and-c-sharp-apis-now-supported-in-azure-static-web-apps/",
       "featuredContent": null,
       "highlight": null,
       "heat": 104,
@@ -320,7 +354,573 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-22T09:05:33-07:00",
+      "publishedDateTime": "2020-09-22T09:05:21-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure",
+        "Web"
+      ]
+    },
+    {
+      "path": "_news/2020-09-22-export-and-import-securely-to-azure-disk-storage-with-azure-private-links-integration-ga.md",
+      "title": "Export and import securely to Azure Disk Storage with Azure Private Links integration (GA)",
+      "excerpt": "Azure Disk Storage now enables enhanced security options for export and import via integration with Azure Private Links ",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/en-us/updates/export-and-import-securely-to-azure-disk-storage-with-azure-private-links-integration-ga/",
+      "originalUrl": "https://azure.microsoft.com/en-us/updates/export-and-import-securely-to-azure-disk-storage-with-azure-private-links-integration-ga/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-22T09:05:21-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure",
+        "Storage",
+        "Integration"
+      ]
+    },
+    {
+      "path": "_news/2020-09-22-change-data-integration-in-azure-monitor-for-vms-is-now-in-public-preview.md",
+      "title": "Change data integration in Azure Monitor for VMs is now in public preview",
+      "excerpt": "You can now observe degradation of performance or health in a VM with the new change data integration in Azure Monitor for VMs.",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/en-us/updates/change-data-integration-in-azure-monitor-for-vms-is-now-in-public-preview/",
+      "originalUrl": "https://azure.microsoft.com/en-us/updates/change-data-integration-in-azure-monitor-for-vms-is-now-in-public-preview/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 420,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/6d7b4ff4-8c9a-4041-bff7-6887de23340f.png",
+          "width": 1024,
+          "height": 463,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-22T09:05:17-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure",
+        "DevOps",
+        "Integration"
+      ]
+    },
+    {
+      "path": "_news/2020-09-22-general-availability-of-azure-monitor-for-key-vault-and-azure-cache-for-redis.md",
+      "title": "General availability of Azure Monitor for Key Vault and Azure Cache for Redis",
+      "excerpt": "Azure Monitor for Key Vault and Azure Monitor for Azure Cache for Redis provide out of the box insights for these resources using platform telemetry.",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/en-us/updates/ga-of-azure-monitor-for-key-vault-and-azure-cache-for-redis/",
+      "originalUrl": "https://azure.microsoft.com/en-us/updates/ga-of-azure-monitor-for-key-vault-and-azure-cache-for-redis/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 235,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-22T09:05:16-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure",
+        "Databases",
+        "Security",
+        "DevOps"
+      ]
+    },
+    {
+      "path": "_news/2020-09-22-public-preview-azure-app-service-migration-assistant-java-tomcat-support.md",
+      "title": "Public Preview: Azure App Service Migration Assistant - Java Tomcat Support",
+      "excerpt": "You can now migrate your Java Tomcat web apps to Azure using the Azure App Service Migration Assistant tool.",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/en-us/updates/public-preview-azure-app-service-migration-assistant-java-tomcat-support/",
+      "originalUrl": "https://azure.microsoft.com/en-us/updates/public-preview-azure-app-service-migration-assistant-java-tomcat-support/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 219,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-22T09:05:08-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure",
+        "Compute",
+        "Migration"
+      ]
+    },
+    {
+      "path": "_news/2020-09-22-virtual-machine-vm-level-disk-bursting-on-dvs3-and-esv3-vms.md",
+      "title": "Virtual Machine (VM) level Disk Bursting on Dvs3 and Esv3 VMs",
+      "excerpt": "Virtual Machine (VM) level Disk Bursting is now enabled on for our Dsv3 and Esv3 virtual machines, allowing customer s workloads to handle unforeseen disk traffic spikes smoothly without the need to overprovision their virtual machine.",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/en-us/updates/virtual-machine-vm-level-disk-bursting-on-dvs3-and-esv3-vms/",
+      "originalUrl": "https://azure.microsoft.com/en-us/updates/virtual-machine-vm-level-disk-bursting-on-dvs3-and-esv3-vms/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-22T09:04:59-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure",
+        "Compute"
+      ]
+    },
+    {
+      "path": "_news/2020-09-22-machine-learning-on-azure-sql-managed-instance-in-preview.md",
+      "title": "Machine Learning on Azure SQL Managed Instance in preview",
+      "excerpt": "Machine Learning Services with support for R and Python languages now include preview support on Azure SQL Managed Instance. ",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/en-us/updates/machine-learning-on-azure-sql-managed-instance-in-preview/",
+      "originalUrl": "https://azure.microsoft.com/en-us/updates/machine-learning-on-azure-sql-managed-instance-in-preview/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 241,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-22T09:03:59-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure",
+        "AI",
+        "Databases"
+      ]
+    },
+    {
+      "path": "_news/2020-09-22-configurable-backup-storage-redundancy-options-for-azure-sql-database-coming-soon.md",
+      "title": "Configurable backup storage redundancy options for Azure SQL Database coming soon",
+      "excerpt": "New Azure SQL Database backup storage options coming soon, including local and zone-redundant storage.  ",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/en-us/updates/configurable-backup-storage-redundancy-options-for-azure-sql-database-coming-soon/",
+      "originalUrl": "https://azure.microsoft.com/en-us/updates/configurable-backup-storage-redundancy-options-for-azure-sql-database-coming-soon/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 266,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-22T09:03:48-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure",
+        "Databases",
+        "Storage"
+      ]
+    },
+    {
+      "path": "_news/2020-09-22-introducing-azure-backup-center.md",
+      "title": "Introducing Azure Backup Center ",
+      "excerpt": "Backup Center currently is in public preview for the workloads of Azure Virtual Machines and Azure Database for PostgreSQL servers and limited public preview for the workloads SQL in Azure VMs, SAP HANA in Azure VMs and Azure Files.",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/en-us/updates/azure-backup-center-now-supports-additional-workloads-preview/",
+      "originalUrl": "https://azure.microsoft.com/en-us/updates/azure-backup-center-now-supports-additional-workloads-preview/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-22T09:02:46-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure",
+        "Management tools"
+      ]
+    },
+    {
+      "path": "_news/2020-09-22-azure-synapse-link-now-supports-azure-cosmos-db-api-for-mongo-db-preview.md",
+      "title": "Azure Synapse Link now supports Azure Cosmos DB API for Mongo DB (Preview)",
+      "excerpt": "Analyze MongoDB data stored in Azure Cosmos DB collections using Azure Synapse Link.",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/en-us/updates/azure-synapse-link-now-supports-azure-cosmos-db-api-for-mongo-db-preview/",
+      "originalUrl": "https://azure.microsoft.com/en-us/updates/azure-synapse-link-now-supports-azure-cosmos-db-api-for-mongo-db-preview/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-22T09:02:38-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure",
+        "Databases",
+        "Analytics"
+      ]
+    },
+    {
+      "path": "_news/2020-09-22-azure-synapse-link-for-azure-cosmos-db-sql-serverless-runtime-support-coming-soon.md",
+      "title": "Azure Synapse Link for Azure Cosmos DB: SQL serverless runtime support coming soon",
+      "excerpt": "Run analytical T-SQL queries and build near-real time Power BI dashboards over Azure Cosmos DB data.",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/en-us/updates/azure-synapse-link-for-azure-cosmos-db-sql-serverless-runtime-support-coming-soon/",
+      "originalUrl": "https://azure.microsoft.com/en-us/updates/azure-synapse-link-for-azure-cosmos-db-sql-serverless-runtime-support-coming-soon/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 172,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-22T09:02:30-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure",
+        "Serverless",
+        "Databases",
+        "Analytics"
+      ]
+    },
+    {
+      "path": "_news/2020-09-22-migrate-servers-to-availability-zones-with-azure-migrate.md",
+      "title": "Migrate servers to Availability Zones with Azure Migrate",
+      "excerpt": "Azure Migrate: Server Migration now offers Availability Zones, a platform native capability.",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/en-us/updates/azure-migrate-now-lets-you-migrate-servers-to-availability-zones/",
+      "originalUrl": "https://azure.microsoft.com/en-us/updates/azure-migrate-now-lets-you-migrate-servers-to-availability-zones/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-22T09:01:51-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure",
+        "Migration"
+      ]
+    },
+    {
+      "path": "_news/2020-09-22-app-service-integration-with-github-actions-now-generally-available.md",
+      "title": "App Service integration with GitHub Actions now generally available",
+      "excerpt": "Continuous Integration and Delivery capabilities from GitHub Actions are now generally available in App Service Deployment Center",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/en-us/updates/app-service-integration-with-github-actions-now-ga/",
+      "originalUrl": "https://azure.microsoft.com/en-us/updates/app-service-integration-with-github-actions-now-ga/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 186,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-22T09:01:21-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure",
+        "Compute",
+        "Integration"
+      ]
+    },
+    {
+      "path": "_news/2020-09-22-confidential-containers-platform-now-supported-on-azure-kubernetes-service-aks.md",
+      "title": "Confidential containers platform now supported on Azure Kubernetes Service (AKS) ",
+      "excerpt": "We are committed to enabling the industry to move from computing in the clear to computing confidentially with the public preview of confidential computing nodes on Azure Kubernetes Service (AKS) powered by Intel SGX DC SKU s. ",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/en-us/updates/confidential-containers-platform-now-supported-on-azure-kubernetes-service-aks/",
+      "originalUrl": "https://azure.microsoft.com/en-us/updates/confidential-containers-platform-now-supported-on-azure-kubernetes-service-aks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 489,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-22T09:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",
@@ -348,6 +948,56 @@
       ]
     },
     {
+      "path": "_news/2020-09-22-oracle-weblogic-server-on-azure-virtual-machines-major-release-now-available.md",
+      "title": "Oracle WebLogic Server on Azure Virtual Machines major release now available",
+      "excerpt": "Enable lift-and-shift migration of mission critical enterprise Java workloads with a major release for solutions to run Oracle WebLogic Server (WLS) on Azure Linux virtual machines.",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/en-us/updates/oracle-weblogic-server-on-azure-virtual-machines-major-release-now-available/",
+      "originalUrl": "https://azure.microsoft.com/en-us/updates/oracle-weblogic-server-on-azure-virtual-machines-major-release-now-available/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/c4750600-1743-43b4-8659-86b6d1be799f.png",
+          "width": 941,
+          "height": 777,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-22T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
       "path": "_news/2020-09-22-build-powerful-and-responsible-ai-solutions-with-azure.md",
       "title": "Build powerful and responsible AI solutions with Azure",
       "excerpt": "As organizations assess safely reopening and continue navigating unexpected shifts in the world, getting insights to respond in an agile and conscientious manner is vital.",
@@ -356,7 +1006,7 @@
       "originalUrl": "https://azure.microsoft.com/blog/build-powerful-and-responsible-ai-solutions-with-azure/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 124,
       "tags": null,
       "images": null,
       "type": "article",
@@ -429,721 +1079,6 @@
       "topics": [
         "Azure",
         "Security"
-      ]
-    },
-    {
-      "path": "_news/2020-09-21-aws-vs-azure-vs-google-cloud-which-certification-is-best-for-professionals.md",
-      "title": "AWS vs Azure vs Google Cloud – Which certification is best for professionals??",
-      "excerpt": "In this post, we will pit AWS vs Azure vs Google Cloud, to explore which platform makes the most sense for professionals to learn depending on your skills, goals, and experience. A cloud platform is a collection of services,",
-      "sourceUrl": null,
-      "webUrl": "https://www.androidauthority.com/aws-vs-azure-vs-google-cloud-1159412/",
-      "originalUrl": "https://www.androidauthority.com/aws-vs-azure-vs-google-cloud-1159412/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn57.androidauthority.net/wp-content/uploads/2020/03/Man-Laptop-Network-Server-920x470.jpg",
-          "width": 920,
-          "height": 470,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.androidauthority.com/aws-vs-azure-vs-google-cloud-1159412/amp/",
-      "cdnAmpWebUrl": "https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/aws-vs-azure-vs-google-cloud-1159412/amp/",
-      "publishedDateTime": "2020-09-20T14:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Android Authority",
-        "domain": "androidauthority.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/androidauthority.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_news/2020-09-17-azure-blob-storage-lifecycle-management-now-supports-append-blobs.md",
-      "title": "Azure Blob storage lifecycle management now supports append blobs",
-      "excerpt": "In addition to supporting block blobs, Azure Blob storage lifecycle management now offers a rich, rule-based policy to manage the retention of your append blobs.",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/en-us/updates/azure-blob-storage-lifecycle-management-now-supports-append-blobs/",
-      "originalUrl": "https://azure.microsoft.com/en-us/updates/azure-blob-storage-lifecycle-management-now-supports-append-blobs/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-17T13:00:12-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_news/2020-09-16-azure-container-instances-docker-integration-now-in-docker-desktop-stable-release.md",
-      "title": "Azure Container Instances - Docker integration now in Docker Desktop stable release",
-      "excerpt": "We’re happy to announce that today’s new stable release of Docker Desktop includes the Azure Container Instances - Docker integration. Install or update to the latest release and get started deploying containers to Azure Container Instances (ACI) today.",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/blog/azure-container-instances-docker-integration-now-in-docker-desktop-stable-release/",
-      "originalUrl": "https://azure.microsoft.com/blog/azure-container-instances-docker-integration-now-in-docker-desktop-stable-release/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 140,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/9b424351-84c1-4f45-b23f-e34a18d24a9f.gif",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-16T04:00:32-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure",
-        "Developer tools",
-        "Integration"
-      ]
-    },
-    {
-      "path": "_news/2020-09-16-build-a-scalable-security-practice-with-azure-lighthouse-and-azure-sentinel.md",
-      "title": "Build a scalable security practice with Azure Lighthouse and Azure Sentinel",
-      "excerpt": "The Microsoft Azure Lighthouse product group is launching a blog series Azure Lighthouse covering areas where we are investing to make our service provider partners and enterprise customers successful with Azure.",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/blog/build-a-scalable-security-practice-with-azure-lighthouse-and-azure-sentinel/",
-      "originalUrl": "https://azure.microsoft.com/blog/build-a-scalable-security-practice-with-azure-lighthouse-and-azure-sentinel/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-16T03:00:31-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure",
-        "Security"
-      ]
-    },
-    {
-      "path": "_news/2020-09-16-azure-netapp-files-cross-region-replication-and-new-enhancements-in-preview.md",
-      "title": "Azure NetApp Files cross region replication and new enhancements in preview",
-      "excerpt": "As businesses continue to adapt to the realities of the current environment, operational resilience has never been more important. As a result, a growing number of customers have accelerated a move to the cloud, using Microsoft Azure NetApp Files to power critical pieces of their IT infrastructure, like",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/blog/azure-netapp-files-cross-region-replication-and-new-enhancements-in-preview/",
-      "originalUrl": "https://azure.microsoft.com/blog/azure-netapp-files-cross-region-replication-and-new-enhancements-in-preview/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/a1455ef1-fced-4db1-86b3-1001d9ac5ff1.jpg",
-          "width": 1024,
-          "height": 529,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-16T02:00:31-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure",
-        "Storage",
-        "Management tools"
-      ]
-    },
-    {
-      "path": "_news/2020-09-15-public-preview-get-retail-rates-for-all-azure-productsservices.md",
-      "title": "Public Preview - Get Retail Rates for all Azure Products/Services",
-      "excerpt": "An unauthenticated experience to get retail prices for all Azure Products/Services (including Reserved Instances).",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/en-us/updates/azureretailrates/",
-      "originalUrl": "https://azure.microsoft.com/en-us/updates/azureretailrates/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-15T15:00:16-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_news/2020-09-16-microsoft-and-bp-partner-up-on-azure-advancing-sustainability.md",
-      "title": "Microsoft and bp partner up on Azure, advancing sustainability",
-      "excerpt": "The collaboration will be focusing on developing innovative tech solutions that help the companies meet their sustainability goals. bp will also be utilizing Microsoft's Azure services.",
-      "sourceUrl": null,
-      "webUrl": "https://www.neowin.net/news/microsoft-and-bp-partner-up-on-azure-advancing-sustainability",
-      "originalUrl": "https://www.neowin.net/news/microsoft-and-bp-partner-up-on-azure-advancing-sustainability",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 617,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.neow.in/news/images/uploaded/2020/07/1595019630_microsoft_logo_red_story.jpg",
-          "width": 760,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.neowin.net/amp/microsoft-and-bp-partner-up-on-azure-advancing-sustainability/",
-      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-and-bp-partner-up-on-azure-advancing-sustainability/",
-      "publishedDateTime": "2020-09-15T11:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_news/2020-09-14-azure-private-link-service-is-now-generally-available-in-china.md",
-      "title": "Azure Private Link Service is now generally available in China ",
-      "excerpt": "Azure Private Link for customer owned services are now available in China Regions. ",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/en-us/updates/azure-private-link-service-is-now-generally-available-in-china/",
-      "originalUrl": "https://azure.microsoft.com/en-us/updates/azure-private-link-service-is-now-generally-available-in-china/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 207,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-14T10:10:45-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_news/2020-09-14-better-outcomes-with-ai-frost-sullivan-names-microsoft-the-leading-ai-platform-for-healthcare-it.md",
-      "title": "Better outcomes with AI: Frost & Sullivan names Microsoft the leading AI platform for healthcare IT",
-      "excerpt": "Frost & Sullivan have recognized Microsoft as the “undisputed leader” in global AI platforms for the healthcare IT sector. ",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/blog/better-health-outcomes-with-ai-frost-sullivan-names-microsoft-the-leading-ai-platform-for-healthcare-it/",
-      "originalUrl": "https://azure.microsoft.com/blog/better-health-outcomes-with-ai-frost-sullivan-names-microsoft-the-leading-ai-platform-for-healthcare-it/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/f86335ef-966f-4fca-bef4-121bf3aab9af.jpg",
-          "width": 954,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-14T03:00:13-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-09-azure-files-smb-multichannel-provides-improved-performance-for-clients.md",
-      "title": "Azure Files SMB Multichannel provides improved performance for clients",
-      "excerpt": " Today, we are announcing the preview of Azure Files SMB Multichannel on premium tier. With this release, Azure Files clients can now take advantage of this technology with premium file shares in the cloud.",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/blog/azure-files-smb-multichannel-provides-improved-performance-for-clients/",
-      "originalUrl": "https://azure.microsoft.com/blog/azure-files-smb-multichannel-provides-improved-performance-for-clients/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/96ef0aa8-fa88-4ffa-a245-0b342947e4ff.png",
-          "width": 1024,
-          "height": 507,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-09T09:06:12-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure",
-        "Storage",
-        "Management tools"
-      ]
-    },
-    {
-      "path": "_news/2020-09-09-deal-alert-learn-aws-azure-and-google-cloud-with-this-50-cloud-training-bundle.md",
-      "title": "Deal alert: Learn AWS, Azure, and Google Cloud with this $50 cloud training bundle",
-      "excerpt": "The convenience of the cloud is hard to beat. You've almost certainly experienced it first hand, whether it is saving your photos to the cloud so you always have access to them or pulling up an important document while on the go.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/deal-alert-learn-aws-azure-and-google-cloud-with-this-50-cloud-training-bundle/",
-      "originalUrl": "https://www.zdnet.com/article/deal-alert-learn-aws-azure-and-google-cloud-with-this-50-cloud-training-bundle/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/2020/07/26/09ba5e62-aece-4d9c-9dbf-3c421822783d/cloud-computing-lifestyle.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/deal-alert-learn-aws-azure-and-google-cloud-with-this-50-cloud-training-bundle/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/deal-alert-learn-aws-azure-and-google-cloud-with-this-50-cloud-training-bundle/",
-      "publishedDateTime": "2020-09-09T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_news/2020-09-08-azure-monitor-for-containers-agent-ciprod08072020-update.md",
-      "title": "Azure Monitor for containers agent (ciprod08072020) update",
-      "excerpt": "Azure monitor for containers new agent (ciprod08072020) will support new features & fixes such as monitoring support of deployments & Horizontal Pod Autoscaler(HPAs), displaying correct node status & health(tab) access through limited preview program.",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/en-us/updates/ci-aug-update/",
-      "originalUrl": "https://azure.microsoft.com/en-us/updates/ci-aug-update/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/1f644ecd-b44f-4a18-b689-92551c059b62.jpg",
-          "width": 958,
-          "height": 386,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-08T11:00:02-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_news/2020-09-08-view-your-azure-cache-for-redis-data-in-new-visual-studio-code-extension.md",
-      "title": "View your Azure Cache for Redis data in new Visual Studio Code extension",
-      "excerpt": "Azure Cache for Redis is an in-memory data store that is used to power fast, scalable applications. Now in preview, you can access all the caches under your Azure subscriptions and view their data with the new Azure Cache for Redis Visual Studio Code extension.",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/blog/view-your-azure-cache-for-redis-data-in-new-visual-studio-code-extension/",
-      "originalUrl": "https://azure.microsoft.com/blog/view-your-azure-cache-for-redis-data-in-new-visual-studio-code-extension/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 220,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/96dd25a6-f623-45bd-8863-ac0049eaea9d.jpg",
-          "width": 1024,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-08T01:00:01-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure",
-        "Databases",
-        "Developer tools"
-      ]
-    },
-    {
-      "path": "_news/2020-09-07-descartes-selects-microsoft-azure-to-deliver-cloud-solutions.md",
-      "title": "Descartes Selects Microsoft Azure to Deliver Cloud Solutions",
-      "excerpt": "Before it's here, it's on the Bloomberg Terminal.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/press-releases/2019-03-25/descartes-selects-microsoft-azure-to-deliver-cloud-solutions",
-      "originalUrl": "https://www.bloomberg.com/press-releases/2019-03-25/descartes-selects-microsoft-azure-to-deliver-cloud-solutions",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 177,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-06T17:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_news/2020-09-02-improvements-to-azure-monitor-metric-alerts.md",
-      "title": "Improvements to Azure Monitor Metric Alerts",
-      "excerpt": "Several new features and improvements in Azure metric alerts are now available.",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/en-us/updates/improvements-to-azure-monitor-metric-alerts/",
-      "originalUrl": "https://azure.microsoft.com/en-us/updates/improvements-to-azure-monitor-metric-alerts/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-02T09:00:06-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure"
       ]
     }
   ],

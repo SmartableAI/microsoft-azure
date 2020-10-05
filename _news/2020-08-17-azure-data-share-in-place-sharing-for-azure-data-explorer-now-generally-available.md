@@ -39,6 +39,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 63
+  - title: "Azure Data Box Disk is now available in China"
+    excerpt: "Azure Data Box Disk is now available for preview in the China East, China East 2, China North, and China North 2 regions. "
+    publishedDateTime: 2020-07-13T22:00:04Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-data-box-disk-is-now-available-in-china/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 17
 
 secured: "L6J5IspjmMCbzyocm5g86nnaKqPrp2AlRn5Tmey5lE+OaTUxlvC0LZJFGyX3HlbFQaBYu/QF2vgbd4/xr+7eORE8eHrP9GQjplYifoXOuuURTIbtbHJ/xUCN4YlrwDJwvH4Yi7Rufc0Swq0OEDPM6cgJ73HOrj9iLvLUIXhsOuP5RdIXWaO4N9tk/+NWJEwvAqIyM7b0PjFScy/RxNBbtUOK+wnFmWwZyCmKBvCSxAETb53dE+mT7i0s7U5Vr2SGqMj/bpJoBcYZpXBvwsWIkCxPVainMP86LBbqsgCjRaFUbVAf7Sf+AlGe7HWG5etRjhuNdV36yPR2Hm04c8x3sJVcQ4PyEmhc5L+cK9X7LCA=;TTO7eiRJPMqUXZULJzCu7A=="
 ---

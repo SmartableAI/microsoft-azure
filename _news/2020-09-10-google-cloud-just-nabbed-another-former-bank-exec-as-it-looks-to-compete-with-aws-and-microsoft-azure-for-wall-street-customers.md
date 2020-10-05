@@ -371,20 +371,6 @@ related:
       name: Business Wire
       domain: businesswire.com
     quality: 11
-  - title: "Device Authority releases new version of IoT security platform with support for Microsoft Azure Sphere and security lifecycle management"
-    excerpt: "Device Authority, a global leader in identity and access management (IAM) for the Internet of Things (IoT), today announced the latest version of its KeyScaler platform which includes enhanced device connectivity,"
-    publishedDateTime: 2020-09-15T14:14:00Z
-    webUrl: "https://www.totaltele.com/507141/Device-Authority-releases-new-version-of-IoT-security-platform-with-support-for-Microsoft-Azure-Sphere-and-security-lifecycle-management"
-    type: article
-    provider:
-      name: Total Telecom
-      domain: totaltele.com
-    quality: 4
-    images:
-      - url: "https://www.totaltele.com/res/image/articleimages/5g-icon-hpe.png"
-        width: 576
-        height: 583
-        isCached: true
 
 secured: "+t7y4AgLNWbnfx6yzisHJB517LLg40bFDq0Q8WCzVz2Jm5jwonRkmCXyoL9yHEZ4GvVTU9U+eAVdVfweFqVW2fC2d4funaIpF1sJimiGH7PUHfUZfCH7jWP4odH3mYSvl9VFMKIXEvRPjylIcy1H13wJR0bDDIQZ5TAJGJ/zvpytaNtB3p/g+QSS3n1inIUs40KE15UzuNfcEESSLbYYrhs7sQ6YYED3Ems/BhWvG2h71+J065o/dxZaggSw0o3J6MfxuxiO5zGkQVg/V+18tTDSs1oozuhqChi1G41zgXqhx1YT5TdbxDxV9gBtPkeSkEIG6/mHFL7i6FT9FRnfBBGQfqL7Ppw47+hYJX24yNMUPGDG1Vff8++903UxgYq08UHO9zpQ/CaKqqlrq2vqJL7yhqEn21jsz8mrrraPYn7jG1hppQeVvpxhkp5LO6yrUyEc+Ja18UuUo8zQY0b0IsbKdlc/RldGHze5xy2Q79NniLEjPC09D5TZO91Gcq9nmiem2Opdhgsn778RKSVPg5ixy0ZT7316J+L+4uXGRLU=;YuKN8IGBBXEecC2HRLnVzQ=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.neowin.net/amp/microsoft-and-bp-partner-up-on-azure-adva
 cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-and-bp-partner-up-on-azure-advancing-sustainability/"
 type: article
 quality: 97
-heat: 617
+heat: 597
 published: true
 
 provider:
@@ -371,20 +371,6 @@ related:
       name: Business Wire
       domain: businesswire.com
     quality: 11
-  - title: "Device Authority releases new version of IoT security platform with support for Microsoft Azure Sphere and security lifecycle management"
-    excerpt: "Device Authority, a global leader in identity and access management (IAM) for the Internet of Things (IoT), today announced the latest version of its KeyScaler platform which includes enhanced device connectivity,"
-    publishedDateTime: 2020-09-15T14:14:00Z
-    webUrl: "https://www.totaltele.com/507141/Device-Authority-releases-new-version-of-IoT-security-platform-with-support-for-Microsoft-Azure-Sphere-and-security-lifecycle-management"
-    type: article
-    provider:
-      name: Total Telecom
-      domain: totaltele.com
-    quality: 4
-    images:
-      - url: "https://www.totaltele.com/res/image/articleimages/5g-icon-hpe.png"
-        width: 576
-        height: 583
-        isCached: true
 
 secured: "eOpx+BjwtUmJqw52SqpVls8T/TNMkWb47O4wU9qg7xeoh7ifu+icNF4/cRQjeGCgqnw06QLQastddPHyObyjGSW+5j4Lw4TXY9vd020333PM+qHFMC8Cfsf9fGB5tjfiHQ2LxI08ZCzUDcae7TPbBgiX7axW6cUg18JWSYBUSymxWl+nQPW5DQMjG8VBiuvUoanqZa4it1PmjpDUYXpTn6gMbe+D9fGejl+G6XOupEn9nc0rUdXzKp8UPderAylH0tSKleVr0OzryEYpXAwt7B5RpvwwzdNDOGNymuBbVBSEd9brzwSDB69v35TErLdLm4Hxp0HQ8KbxtKm/A/l5a9UwMqP7iG8c9rvVjCTQsohYtd/yNsKmZyJdlWXGbDPL+UGf7Cx8gWbiARxCiPSe/nyIUOyI0NZWtOBPy54wZyzrG0/hklngh6Y1+2vF4gy7SjVExqA7K5Ot9bvWdfrM8FoOMXuDlZs1VaUjQY0yqe0YyLC5pc7nFgqrje2xUpuQWbfVv+GxbJUWjqz86qJElCB8ns0QbI6+vJBxDVOx9wU=;RoNnLiQMR2Lvrzhd+J5ZkQ=="
 ---

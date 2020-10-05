@@ -45,15 +45,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 17
-  - title: "Azure Log Analytics agent for Windows SHA-2 signing date has been extended"
+  - title: "Authenticate Azure Stream Analytics to Azure SQL Database using managed identities (preview)"
     excerpt: ""
-    publishedDateTime: 2020-05-11T17:00:02Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-log-analytics-agent-for-windows-sha2-signing-date-has-been-extended/"
+    publishedDateTime: 2020-05-19T17:00:15Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/authenticate-stream-analytics-to-azure-sql-db-using-managed-identities-preview/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 15
+    quality: 6
   - title: "Azure Private Link for Azure SQL Database and Azure Synapse Analytics is now available in all US government regions"
     excerpt: ""
     publishedDateTime: 2020-05-14T12:00:02Z

@@ -29,7 +29,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 67
+    quality: 99
 
 secured: "l59AEng8vbDGEfNwBqq52PTZMZarDOns1MCcOLyJ0l1dnn/krVm8erVqKedJdYZLsiubZfaXFqzoIAndmlTyZzr5GCLWQm7oDq7DB9FGSJ+306ceNC/5pa9h/wxr7HmeME3GavbrSvAOTqkE4JU6nVCFwjtMyNiuwmW8hVGkBi2/0LLwTPkBMj1BzFfT5aUppX/5tb5ox7ocSJFgpSyq5aUz9hXwTD5gCOpHOvJUGU+eEnGhXGbu2gJtfzTMgE4bFVPnZc/rG2O4e6FB6z9TrwcIVDkhqqr5nLdzN33s1B+ltxJTJiQPWzFn49kdOeMq/5HykuJxiVHasb6NLsKE8A==;puGEmpEFfXrODk2UrC2pXQ=="
 ---

@@ -29,7 +29,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 67
+    quality: 99
   - title: "Azure Blob access time tracking and access time-based lifecycle management preview "
     excerpt: "The preview is available in France Central, Canada East, and Canada Central regions."
     publishedDateTime: 2020-09-17T21:00:12Z
@@ -38,7 +38,21 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 61
+    quality: 78
+  - title: "Device Authority releases new version of IoT security platform with support for Microsoft Azure Sphere and security lifecycle management"
+    excerpt: "Device Authority, a global leader in identity and access management (IAM) for the Internet of Things (IoT), today announced the latest version of its KeyScaler platform which includes enhanced device connectivity,"
+    publishedDateTime: 2020-09-15T14:14:00Z
+    webUrl: "https://www.totaltele.com/507141/Device-Authority-releases-new-version-of-IoT-security-platform-with-support-for-Microsoft-Azure-Sphere-and-security-lifecycle-management"
+    type: article
+    provider:
+      name: Total Telecom
+      domain: totaltele.com
+    quality: 4
+    images:
+      - url: "https://www.totaltele.com/res/image/articleimages/5g-icon-hpe.png"
+        width: 576
+        height: 583
+        isCached: true
 
 secured: "2tRkkQ3Fl8MVYYVRCHEKJATBsG1v0UkkG4YuwmJIM9Bz9vWyXbiuT5BbxuWKzC74za4Qc4s8ROPfIIIKRG89cfVAlQ1gSGsot5ZX5YRDY6JzzccpFYOPKhaVcQKUMlUjJaOfe1HtFtO1YcBInjTMus1uSr+WxxqylYopthDxmKJtE6DsnZ54nXFph7gDNRJSMVdWsRifZ0PzXzCgXgG2xx2f1YkdR23W1T5WaDrHPjOFFmZRA73eKiBeSXTU1MpnqGhtUDICzhWDywWijVHOo2r1ciplUiqPvLh76c/szUxPXkmkAJWIFuwcsw4Gvqf5wSYbwIzklSLkwWdoEIuyww==;ev7IN6zGSK4sZI064tq5pQ=="
 ---

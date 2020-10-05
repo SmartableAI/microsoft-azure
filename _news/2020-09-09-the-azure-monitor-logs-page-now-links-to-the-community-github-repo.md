@@ -6,9 +6,9 @@ publishedDateTime: 2020-09-09T18:00:08Z
 originalUrl: "https://azure.microsoft.com/en-us/updates/logspagelinkstothegitrepo/"
 webUrl: "https://azure.microsoft.com/en-us/updates/logspagelinkstothegitrepo/"
 type: article
-quality: 67
-heat: 67
-published: false
+quality: 84
+heat: 84
+published: true
 
 provider:
   name: Microsoft
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - Azure
+  - DevOps
 
 secured: "6hnmnQ8DVjYK/rL2NjLKacsrPZ3LcseeJQ6hEuDIZ1RKX9EvjNBRyyU+98tfURineW7IMbA/aFd/H7FVqjedOrt/WyWhUl2UEyIXrRLByAeUtL7SYKnNGnd+tgn9azUNPrREDO9lhUvA/h87MDJavyE/azwjDI/nzFVZsvSpkXuN75lkXgFW27/nbpLWid3kROrXumWgrIeD0tdyl+cnge/bLLZZqms56r/rMnIZXC5W06Hr9E6bnLr7gL4D3MrstLIzwbaeZC3xRn2VojS+GCLOGaZL4royp1weRTT+u9XT1pxCmodc1vCZaOExGzorXAsvuuK5acgjDDV+aAVszz5rApQG9DZq+YgGUqJqaro=;4vyP9U8d/QWhLm7c5PFS/Q=="
 ---

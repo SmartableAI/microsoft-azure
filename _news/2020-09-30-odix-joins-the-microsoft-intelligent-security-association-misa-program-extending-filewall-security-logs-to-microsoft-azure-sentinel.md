@@ -73,6 +73,20 @@ related:
         width: 960
         height: 640
         isCached: true
+  - title: "Microsoft To Build New Azure Cloud Data Centers In Greece"
+    excerpt: "Microsoft plans to spend up to $1 billion to build three data centers for its first Azure cloud region in Greece and provide digital technology training to up to 100,000 people there by 2025"
+    publishedDateTime: 2020-10-05T17:36:00Z
+    webUrl: "https://www.crn.com/news/cloud/microsoft-to-build-new-azure-cloud-data-centers-in-greece"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 37
+    images:
+      - url: "https://www.crn.com/resources/0261-107e1bc258dd-899507ddf083-1000/shot_of_corridor_in_working_data_center_full_of_rack_servers_and_supercomputers_with_cloud_storage_advantages_icon_visualization..jpeg"
+        width: 549
+        height: 309
+        isCached: true
   - title: "Ooredoo enables digital transformation with connectivity solution to Microsoft Azure"
     excerpt: "Ooredoo has announced the launch of Ooredoo Cloud Connect to Microsoft Azure to provide Qatar’s organisations with secure, reliable, and affordable cloud connectivity services to drive digital transfo"
     publishedDateTime: 2020-10-04T17:05:00Z
@@ -101,6 +115,15 @@ related:
         width: 620
         height: 355
         isCached: true
+  - title: "Microsoft Azure customers can now implement Datadog as a monitoring solution for their cloud workloads"
+    excerpt: "Datadog announced a new strategic partnership with Microsoft Azure and is now be available in the Azure console as a first class service."
+    publishedDateTime: 2020-10-01T23:33:00Z
+    webUrl: "https://www.helpnetsecurity.com/2020/10/02/datadog-microsoft-azure/"
+    type: article
+    provider:
+      name: Help Net Security
+      domain: helpnetsecurity.com
+    quality: 1
 
 secured: "rFmHfDiBexD7j3U4eeLrhP/6vPGGoTcJftjfoD/WKj1PysZIqxlkwKXjBYzopqup9eKmbyuyGdbTvxgp3kJbRbPBKs3az5LkAvMdGK/vVRhEDgJ5asbsNnCszZHSYYxsSYSN/qM/QUYiWbPHSRMHuA+TbicRZtnOMgQjbkUUrDt/e3DIat3yZtBjNWK+mP4t9m5ExwvHehYoIuYkfezzhFaUctjBNfLmJC/nq7uZCaR3hpjNGa06nnEnx+GBfH8pUzjUEnpb6yHnetFRW4XTMv4xr787zNLQONk1zoQe/aVlewPbyTKZP46/E7pa8VmCyhPUOJDSkYU/fHjmWaVGwP3P7bFvmmT8x+R1GtVBA+A=;6jqjmLx4KxFZBV/oHjrIXg=="
 ---

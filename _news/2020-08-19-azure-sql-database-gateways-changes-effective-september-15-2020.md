@@ -7,8 +7,8 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/azure-sql-database-gatew
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-sql-database-gateways-changes-effective-september-15-2020/"
 type: article
 quality: 67
-heat: 147
-published: true
+heat: -1
+published: false
 
 provider:
   name: Microsoft
@@ -30,7 +30,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 66
+    quality: 113
   - title: "Azure SQL Database Gateway with IP address 23.99.160.139 in Central US will be deactivated on 15th September 2020"
     excerpt: " Sql Gateway IP address 23.99.160.139 in Central US will be deactivated on 15th September 2020 and it will no longer accept any traffic after that date."
     publishedDateTime: 2020-09-08T19:00:14Z
@@ -39,7 +39,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 46
+    quality: 93
   - title: "Azure SQL Database gateways changes effective September 2020"
     excerpt: "Beginning September 1, 2020, new Azure SQL Database gateways in multiple regions will start accepting traffic "
     publishedDateTime: 2020-08-03T15:00:04Z

@@ -21,28 +21,19 @@ topics:
   - Azure
 
 related:
-  - title: "Windows Virtual Desktop is now available in the Azure Government cloud (in preview)"
-    excerpt: "Get started today with Windows Virtual Desktop in public preview in US Government regions. Deploy and scale Windows desktops and apps on Azure in minutes."
-    publishedDateTime: 2020-08-31T17:00:27Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/windows-virtual-desktop-is-now-available-in-the-azure-government-cloud-in-preview/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 61
-  - title: "Public preview: Automated deployment of Always On availability groups through the Azure portal"
-    excerpt: "Simplify configuring Always On availability groups and improve availability for SQL Server on Azure Virtual Machines"
-    publishedDateTime: 2020-09-02T16:00:05Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-automated-deployment-of-always-on-availability-groups-through-the-azure-portal/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 55
-  - title: "App Service is now an events publisher on Azure Event Grid (in preview)"
+  - title: "Azure Spring Cloud Basic tier is now in preview"
     excerpt: ""
-    publishedDateTime: 2020-05-13T16:00:59Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/app-service-is-now-an-events-publisher-on-azure-event-grid-in-preview/"
+    publishedDateTime: 2020-06-10T16:00:21Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-spring-cloud-basic-tier-is-now-in-preview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 17
+  - title: "Azure Spring Cloud updates"
+    excerpt: ""
+    publishedDateTime: 2020-06-10T16:00:22Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-spring-cloud-updates/"
     type: article
     provider:
       name: Microsoft

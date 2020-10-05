@@ -30,15 +30,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 82
-  - title: "Azure geo-zone-redundant storage is now generally available"
-    excerpt: "Geo-zone-redundant storage (GZRS) and read-access geo-zone-redundant storage (RA-GZRS) are now generally available, offering intra-regional and inter-regional high availability and disaster protection for your applications."
-    publishedDateTime: 2020-06-17T20:00:18Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/storage-gzrs-ga/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 17
   - title: "Azure Storage account failover is now generally available "
     excerpt: "Customer-initiated Storage account failover is now generally available, allowing you to determine when to initiate a failover instead of waiting for Microsoft to do so."
     publishedDateTime: 2020-06-17T17:00:26Z
@@ -52,15 +43,6 @@ related:
     excerpt: "Take advantage of new rules to further customize the behavior of standard Azure Content Delivery Network to best meet the needs of your customers. Use the rules engine to modify request and response headers or dynamically override your existing route behavior based on incoming requests. Now generally"
     publishedDateTime: 2020-06-24T16:00:29Z
     webUrl: "https://azure.microsoft.com/en-us/updates/azure-content-delivery-network-standard-rules-engine-is-now-available/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 17
-  - title: "Azure Data Lake Storage archive tier is now generally available"
-    excerpt: "The archive tier for Azure Data Lake Storage is now generally available. The archive tier provides an ultra-low cost tier for long term retention of data while keeping your data available for future analytics needs."
-    publishedDateTime: 2020-06-30T20:00:36Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/archive-tier-for-azure-data-lake-storage-now-generally-available/"
     type: article
     provider:
       name: Microsoft

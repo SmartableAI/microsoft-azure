@@ -30,15 +30,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 50
-  - title: "Selective disks backup for Azure Virtual Machine is in public preview"
-    excerpt: "Optimize your costs and enjoy faster backup and restore operations by selectively backing up a subset of the data disks in a VM."
-    publishedDateTime: 2020-08-06T18:00:12Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/selective-disks-backup-for-azure-virtual-machine-is-in-public-preview/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 17
   - title: "Data encryption with customer managed keys for Azure Database for MySQL is now generally "
     excerpt: "Data encryption with customer-managed keys for Azure Database for MySQL enables you to bring your own key (BYOK) for data protection at rest. "
     publishedDateTime: 2020-08-10T16:00:05Z

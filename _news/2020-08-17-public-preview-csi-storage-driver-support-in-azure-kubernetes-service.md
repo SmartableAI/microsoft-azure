@@ -21,42 +21,15 @@ topics:
   - Azure
 
 related:
-  - title: "Confidential computing nodes (DCSv2) support on Azure Kubernetes Service (AKS) in public preview"
-    excerpt: "Orchestrate your container applications with hardware based isolation and data-in-use protection through Intel SGX enclaves. Supporting both enclave aware containers and confidential containers (unmodified container apps)"
-    publishedDateTime: 2020-09-30T16:01:34Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/confidential-worker-nodes-aks-public-preview/"
+  - title: "General Availability: Azure Kubernetes Service node image upgrade "
+    excerpt: "Users can now initiate a targeted upgrade to agent nodes for a given node pool to pull the latest available node updates and patches without requiring a full cluster upgrade"
+    publishedDateTime: 2020-08-17T22:59:08Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azure-kubernetes-service-node-image-upgrade/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 86
-  - title: "Azure Kubernetes Service (AKS) resource provider on Azure Stack preview "
-    excerpt: ""
-    publishedDateTime: 2020-05-19T16:05:37Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-kubernetes-service-aks-resource-provider-on-azure-stack-preview/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 16
-  - title: "Azure Kubernetes Service (AKS) support for proximity placement groups is now available"
-    excerpt: "Better support for latency-sensitive workloads in critical business scenarios."
-    publishedDateTime: 2020-06-24T16:00:42Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-kubernetes-service-aks-support-for-proximity-placement-groups-is-now-available/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 9
-  - title: "Azure Kubernetes Service (AKS) now supports confidential workloads through DCSv2 SKUs (private preview)"
-    excerpt: "Azure Kubernetes Service (AKS) now supports confidential workloads through integration with DCSv2 SKU node pools powered by Intel SGX.\n"
-    publishedDateTime: 2020-07-09T21:00:13Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-kubernetes-service-aks-now-supports-confidential-workloads-through-dcsv2-skus-preview/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 1
+    quality: 67
 
 secured: "2orLVsxynGOzL+pDdqfGZyr/PJknQkW7o29w20OzOFMW29Vs5Q+O6J4RlDvICfQBDQdA9EynnsVcoOE4FxZr7OP/XR1r88u7+oBmfSWJOdOKFvddjoSecoWfyZiXdn0viGOJjV1YCrdjrfxCOXZ3mVYbHSg2wijvw7HGRKbrxObM3PgdurMxdv02Iby9UNqcVUjCfvlZBTx4URwyVkuL5RvoGg/Bjv3lUnxHpOeKp0gfOxvV14dwDuj6pZlQkaE8sxn63TOfet6190PBwUXolpwZ2FmMWgGPsYdv1t1SMirmszEnCr4/9dU7XIpx0k/pFGeBICVe6UCm2Qr0YLe68XkDWNf/kSFWKKgW7p18CLo=;SC8va9r8TofzRJehS7mIoQ=="
 ---

@@ -6,8 +6,8 @@ publishedDateTime: 2020-08-17T23:01:22Z
 webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-azure-resource-health-support-in-aks/"
 type: article
 quality: 67
-heat: 127
-published: true
+heat: -1
+published: false
 
 provider:
   name: Microsoft
@@ -21,33 +21,60 @@ topics:
   - Azure
 
 related:
-  - title: "Azure Cloud Shell can now run in an isolated virtual network (public preview)"
-    excerpt: "Cloud Shell now supports virtual networks."
-    publishedDateTime: 2020-08-10T17:00:04Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/cloudshell-vnet/"
+  - title: "Public Preview: Azure App Service Migration Assistant - Java Tomcat Support"
+    excerpt: "You can now migrate your Java Tomcat web apps to Azure using the Azure App Service Migration Assistant tool."
+    publishedDateTime: 2020-09-22T16:05:08Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-azure-app-service-migration-assistant-java-tomcat-support/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 64
-  - title: "Public preview: Ephemeral OS disk support in AKS"
-    excerpt: "AKS now supports ephemeral OS disk for AKS agent nodes in public preview."
-    publishedDateTime: 2020-08-17T23:00:03Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-ephemeral-os-disk-support-in-aks/"
+    quality: 99
+  - title: "Public preview: Stop/start functionality for Azure Database for MySQL"
+    excerpt: "With the new database stop/start functionality, you can stop the database server when not in use (during non-business hours) and start it when it s back online. "
+    publishedDateTime: 2020-09-22T16:00:35Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/stopstart-functionality-for-azure-database-for-mysql/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 52
-  - title: "Public Preview: Cognitive Services Form Recognizer v2.1"
-    excerpt: "Form Recognizer v2.1-preview.1 has been released. It includes support for new languages, checkbox/selection marks, and the submit multiple form types to a single model Id."
-    publishedDateTime: 2020-08-21T17:00:18Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/form-recognizer-v2-1/"
+    quality: 99
+  - title: "New Azure Orbital, ground station as a service, now in preview"
+    excerpt: "Azure Orbital is a fully managed cloud-based ground station as a service that enables you to schedule contacts with your spacecrafts or satellites and directly ingest data in Azure using Orbital ground stations."
+    publishedDateTime: 2020-09-22T16:05:27Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/new-azure-orbital-ground-station-as-a-service-now-in-preview/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 52
+    quality: 84
+  - title: "Preview: Azure Load Balancer now supports cross-region load balancing"
+    excerpt: "Azure Load Balancer now supports load balancing across regions based on health and latency."
+    publishedDateTime: 2020-09-22T16:00:00Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/preview-azure-load-balancer-now-supports-crossregion-load-balancing/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
+  - title: "Public preview: AKS start/stop cluster feature"
+    excerpt: "Customers can save on time and costs by using the start/stop AKS clusters."
+    publishedDateTime: 2020-09-22T16:05:26Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-aks-startstop-cluster-feature/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 69
+  - title: "Public Preview: Steeltoe .NET Application Support in Azure Spring Cloud"
+    excerpt: "Develop and release applications faster with Steeltoe .NET application support in Azure Spring Cloud."
+    publishedDateTime: 2020-09-22T16:05:01Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-steeltoe-net-application-support-in-azure-spring-cloud/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
 
 secured: "APn87P7nNWUn8xKHNfLzFprzZis3lGSFxrcdUjWsJFN3jj8M/jCMhhjd/SZSH2XAdGlufOfgvhiwRHUr0up1oxhJIXV3vXMbTCySTwNpD/6cUXFBQ0n0Sxfl16iTyXsOguOldvEwFZKk0BLfLPRUJapg5WeWCtO+5ymGWURN29iL/gYE4Qt8tz0OmPvM9HNv2C37/dlnXLGcPJ/Onzx/QVpIXDSV0cX6XIRWDBcDjIgtQoa6fcoUnJZNBXar+XkLXlroX8676bPyfgfzntR7Uo2i7NHaRmxvlh/qhRRgBU2CH/tgWRXRhK2POO9Dp8DYFcRhiisiHbYgfERo72c7tqzuHhYPL+ErNJDRtkcZSA0=;HkLenfiFhzCpCcCHsdNOyg=="
 ---

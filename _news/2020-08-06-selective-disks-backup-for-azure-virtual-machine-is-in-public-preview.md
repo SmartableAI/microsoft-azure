@@ -21,33 +21,24 @@ topics:
   - Azure
 
 related:
-  - title: "Encryption of backup data using customer managed keys is in public preview"
-    excerpt: "Use self-managed RSA keys stored in the Azure Key Vault to encrypt your backups and maintain full control of your data. "
-    publishedDateTime: 2020-08-12T16:00:29Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/encryption-of-backup-data-using-customer-managed-keys-is-in-public-preview/"
+  - title: "Azure Cloud Shell can now run in an isolated virtual network (public preview)"
+    excerpt: "Cloud Shell now supports virtual networks."
+    publishedDateTime: 2020-08-10T17:00:04Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/cloudshell-vnet/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 50
-  - title: "Infrastructure double encryption for Azure Database for MySQL is in public preview"
-    excerpt: "Infrastructure double encryption adds a second layer of encryption and a different encryption algorithm which gives an additional layer of protection for your data at rest. "
-    publishedDateTime: 2020-08-10T16:00:04Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/infrastructure-double-encryption-for-azure-database-for-mysql-is-in-public-preview/"
+    quality: 64
+  - title: "Public preview: Ephemeral OS disk support in AKS"
+    excerpt: "AKS now supports ephemeral OS disk for AKS agent nodes in public preview."
+    publishedDateTime: 2020-08-17T23:00:03Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-ephemeral-os-disk-support-in-aks/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 11
-  - title: "Data encryption with customer managed keys for Azure Database for MySQL is now generally "
-    excerpt: "Data encryption with customer-managed keys for Azure Database for MySQL enables you to bring your own key (BYOK) for data protection at rest. "
-    publishedDateTime: 2020-08-10T16:00:05Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/data-encryption-with-customer-managed-keys-for-azure-database-for-mysql-is-now-generally/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 8
+    quality: 52
 
 secured: "HZ97F21NYuC77NQIoHM2nJ+F3ozurrfN+7RDUjJgmsD1aVdJm3HbsL1DS7Ge0b8X4TM+o1QBzgc2S/1LetMpVVcKQLKNq0LPEh24Dsg3IYSQTR0EtfTvhUslGnS3tNbQhxa4kbnPgagu69PJ/Ur78/He/cROcMK5HjHrvA3Xb5jnstern+C5vwFsR0F/Q4rGkYneKzc6GEkvCBtPW0xmCcSsqfISSAK7Cl1v+ZnvXcRjTnq4iiU2ke5r7O4qSEzTLGuVMENLB15jL1KDefU+EhU3y07Ie1e2glusa5ACTlq0lf9iW30+Ut65xl/9YS423BCRJfBP1uIk8fdxXmbgHA==;vRPLvaKFEUlWW1uz+tYSqg=="
 ---

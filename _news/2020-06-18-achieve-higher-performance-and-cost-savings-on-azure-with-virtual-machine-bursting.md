@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/achieve-higher-performance-and-co
 webUrl: "https://azure.microsoft.com/blog/achieve-higher-performance-and-cost-savings-on-azure-with-virtual-machine-bursting/"
 type: article
 quality: 102
-heat: 122
+heat: 142
 published: true
 
 provider:
@@ -32,6 +32,15 @@ images:
     title: "Achieve higher performance and cost savings on Azure with virtual machine bursting"
 
 related:
+  - title: "Achieve higher performance and cost savings on Azure Disk Storage with performance tiers"
+    excerpt: "Azure Disk Storage now enables you to set performance tiers (public preview) for a chosen duration of time based on workload demand. "
+    publishedDateTime: 2020-09-22T16:05:21Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/achieve-higher-performance-and-cost-savings-on-azure-disk-storage-with-performance-tiers/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 75
   - title: "Seven ways to achieve cost savings and deliver efficiencies with Azure infrastructure"
     excerpt: "The global health crisis has transformed the way we work and live. At Microsoft, we are committed to doing what we can to help our customers respond to the crisis and plan ahead for future success."
     publishedDateTime: 2020-06-17T09:30:13Z

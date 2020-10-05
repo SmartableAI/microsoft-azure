@@ -21,15 +21,15 @@ topics:
   - Azure
 
 related:
-  - title: "Azure Monitor for containers with Azure Portal now supports Kubernetes resource view"
-    excerpt: "Azure monitor for containers with Azure portal now supports new Kubernetes resource view. In this new view you can diagnose the issue by drilling down to resource types including deployments, pods, and replica sets & see historical data trend and overall usage over time."
-    publishedDateTime: 2020-08-05T23:00:02Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/ci-aks-resource-view/"
+  - title: "IoT Plug and Play new features now in public preview"
+    excerpt: "IoT Plug and Play new features in Public Preview to continue simplifying IoT."
+    publishedDateTime: 2020-07-29T16:00:28Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/iot-plug-and-play-public-preview-new-features/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 10
+    quality: 2
 
 secured: "w8A9X08ppM+qV4vg0hJuY2+Al51Gt/SBaKBYwbSPEpp3IjyS9pXRHfuN43keIgbVbh72zXXs4x1lA6m7UodOomiJ1B7GPYefNUcNY7pYDFa6ca4XOqRxfsKa/fRBHSnL8g/RAuZXVQmUzsYvBaILdPL+LZ0fzI3Dif3c1cHux7RUN/B1A36+ZQ5L4fd7QvOpE1t36QY7IZnD4G/j+4SsMDPL98HWCXugalqXvKaZkbbkXZnvxqiHvfSeq/wM6AzdWBe9uH4rJx+yaRAgWuSCHFrP3ycCPn/kU4C0C9veglsOpqA7jB8FWqPVu081qwcKhi3y1NPVKGFPMxsowaG79Q==;Tw3dwIVUXGLWx8dG2pT5/w=="
 ---

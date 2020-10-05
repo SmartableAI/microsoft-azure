@@ -39,6 +39,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 99
+  - title: "Azure Arc enabled PostgreSQL Hyperscale now in preview"
+    excerpt: "Azure Arc enabled PostgreSQL Hyperscale is now in preview, providing elastic scale with a unified hybrid management experience with or without a direct connection to the cloud. "
+    publishedDateTime: 2020-09-22T16:00:15Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-arc-enabled-postgresql-hyperscale-now-in-preview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
   - title: "One- and three- year reserved capacity for Azure DB for PostgreSQL-Hyperscale (Citus)"
     excerpt: "Azure Database for PostgreSQL-Hyperscale (Citus) reserved capacity is now available to reserve compute power for your existing and future Hyperscale (Citus) server groups. "
     publishedDateTime: 2020-07-21T21:17:07Z

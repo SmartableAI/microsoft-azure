@@ -22,24 +22,20 @@ topics:
   - Azure
 
 related:
-  - title: "Azure Container Registry now available in several new regions"
-    excerpt: "Azure Container Registry is now generally available in US Gov Texas, Germany West Central, and Brazil Southeast regions bringing the number of Azure regions that it’s available in to 38."
-    publishedDateTime: 2020-09-28T16:40:52Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-container-registry-now-available-in-several-new-regions/"
+  - title: "Dark theme is now available for the Azure mobile app"
+    excerpt: "You can choose either dark or light for your mobile app experience."
+    publishedDateTime: 2020-10-05T15:36:03Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/dark-theme-is-now-available-for-the-azure-mobile-app/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 84
-  - title: "Shared disks on Azure Disk Storage is now available in broader set of regions"
-    excerpt: "Shared disks is available for Premium SSDs in all regions and available for Ultra Disks in all regions that support Ultra Disks."
-    publishedDateTime: 2020-09-30T16:00:19Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/shared-disks-on-azure-disk-storage-is-now-available-in-broader-set-of-regions/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 81
+    quality: 104
+    images:
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/1575b15e-a4e1-4f2e-85e3-f5636e2e3fab.png"
+        width: 980
+        height: 675
+        isCached: true
   - title: "The new Azure VMware Solution is now generally available"
     excerpt: "Last week, during Microsoft Ignite we announced the general availability of the new Azure VMware Solution. Designed, built, and supported by Microsoft, Cloud Verified by VMware, running VMware Cloud Foundation technologies, Azure VMware Solution enables customers to extend or migrate VMware workloads"
     publishedDateTime: 2020-09-29T08:00:03Z
@@ -49,33 +45,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 69
-  - title: "Azure Container Registry now available in Switzerland West region"
-    excerpt: "Azure Container Registry is now generally available in the Switzerland West region, bringing the total number of Azure regions that it's available in to 35. See the list of all regions where Azure Container Registry is available and where it's coming next."
-    publishedDateTime: 2020-08-31T18:46:09Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-container-registry-now-available-in-switzerland-west-region/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 67
-  - title: "Azure Container Registry now available in UAE Central region"
-    excerpt: "Azure Container Registry is now generally available in the UAE Central region, bringing the total number of Azure regions that it's available in to 36. See the list of all regions where Azure Container Registry is available and where it's coming next."
-    publishedDateTime: 2020-08-31T18:48:27Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-container-registry-now-available-in-uae-central-region/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 67
-  - title: "Azure Blob storage point-in-time restore now generally available"
-    excerpt: "Azure Blob storage point-in-time restore provides continuous data protection and restoration capabilities for block blob data. This extends protection features to provide an easy way to restore to a previous date/time"
-    publishedDateTime: 2020-09-23T23:21:14Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-blob-storage-pointintime-restore-now-generally-available/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 67
   - title: "Azure Ultra Disk is now available in more regions "
     excerpt: "Azure Ultra Disk is now available in Australia Central, India Central, Korea Central and US Gov Texas. "
     publishedDateTime: 2020-09-30T16:00:42Z
@@ -94,15 +63,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 62
-  - title: "Azure Container Registry diagnostic logs now generally available"
-    excerpt: ""
-    publishedDateTime: 2020-05-19T16:05:39Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-container-registry-diagnostic-logs-now-generally-available/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 17
 
 secured: "YKmU1aBk47h4vPjtCkrh8pFCzSDi6b2C87HcHnPqcz43u/rU9CtlmmfAXXTLwvaq8a3w+hpkfTTmO4eWPLuTLJxsg1jRoiGfTFb8UkwXZAqBFjzP+T5xvJsaNxF5tv1dXbKYfUHWSuYzfiwwZpjHsIlRwHC8zru41VbjsyfMABCM3B5e9OMI5a4mZz7RDUfP+adETWfd+yC/5p/mjJ4pPohIrto+BQT6axzfSN3P7jwrVuqVvcSdf2O6M29PpVjRVx14r7BeDlnbaCtPhpmSjWwL2N0lBDXBjfXXJ+55rIQP21F7vJTYe0yXcodwDrhGD/Lvxs0Zhfq3MYmjTAtrZWgcqqLtw6xRnvj3EP+AG3A=;8DskmIRJTdZoy5LmqiW+/Q=="
 ---

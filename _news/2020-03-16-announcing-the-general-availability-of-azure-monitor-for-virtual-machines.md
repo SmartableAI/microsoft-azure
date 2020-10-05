@@ -30,126 +30,60 @@ images:
     title: "Announcing the general availability of Azure Monitor for virtual machines"
 
 related:
-  - title: "Announcing the general availability of Azure Spot Virtual Machines"
-    excerpt: "Today we’re announcing the general availability of Azure Spot Virtual Machines (VMs). Azure Spot VMs provide access to unused Azure compute capacity at deep discounts. Spot pricing is available on single VMs in addition to VM scale sets (VMSS). This enables you to deploy a broader variety of workloads"
-    publishedDateTime: 2020-05-12T08:00:18Z
-    webUrl: "https://azure.microsoft.com/blog/announcing-the-general-availability-of-azure-spot-virtual-machines/"
+  - title: "General availability of Azure Monitor for Key Vault and Azure Cache for Redis"
+    excerpt: "Azure Monitor for Key Vault and Azure Monitor for Azure Cache for Redis provide out of the box insights for these resources using platform telemetry."
+    publishedDateTime: 2020-09-22T16:05:16Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/ga-of-azure-monitor-for-key-vault-and-azure-cache-for-redis/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 104
-    images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/333076bc-4f9e-4461-9ba7-810752e19173.jpg"
-        width: 800
-        height: 468
-        isCached: true
-  - title: "Azure Virtual Machine Scale Sets now provide simpler management during scale-in"
-    excerpt: "We recently announced the general availability of three features for Azure Virtual Machine Scale Sets. Instance protection, custom scale-in policy, and terminate notification provide new capabilities to simplify management of virtual machine instances during scale-in.\r\n\r\nAzure Virtual Machine Scale Sets"
-    publishedDateTime: 2020-05-11T12:00:03Z
-    webUrl: "https://azure.microsoft.com/blog/azure-virtual-machine-scale-sets-now-provide-simpler-management-during-scalein/"
+    quality: 115
+  - title: "Azure Cognitive Services general availability updates "
+    excerpt: "General availability updates in Azure Cognitive Services Decision, Speech, and containers categories. "
+    publishedDateTime: 2020-09-22T16:05:30Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-cognitive-services-general-availability-updates/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 100
-    images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/985df91e-de4d-4c27-a28b-f3ec9be164e3.jpg"
-        width: 1024
-        height: 696
-        isCached: true
-  - title: "Announcing the general availability of Azure shared disks and new Azure Disk Storage enhancements"
-    excerpt: "Today, we’re announcing the general availability of—enabling you to migrate your existing on-premises Windows and Linux-based clustered environments to Azure. We’re also announcing important new disk enhancements to provide you with more availability, security, and flexibility on Azure."
-    publishedDateTime: 2020-07-16T09:00:39Z
-    webUrl: "https://azure.microsoft.com/blog/announcing-the-general-availability-of-azure-shared-disks-and-new-azure-disk-storage-enhancements/"
+    quality: 99
+  - title: "Azure Private Link for Azure Cache for Redis now in preview"
+    excerpt: "You can now use Azure Private Link to connect to an Azure Cache for Redis instance from your virtual network via a private endpoint."
+    publishedDateTime: 2020-09-22T16:00:27Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-private-link-for-azure-cache-for-redis-now-in-preview-2/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 73
-  - title: "Azure Pipelines announces the general availability of scale-set agents"
-    excerpt: "In the last two months, we improved the reliability in performing various scale-set operations. We have updated the guidance on how to improve the performance of provisioning new virtual machines."
-    publishedDateTime: 2020-09-11T21:13:11Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-pipelines-announce-the-general-availability-of-scaleset-agents/"
+    quality: 84
+  - title: "Redis Enterprise features on Azure Cache for Redis coming soon"
+    excerpt: "Two new tiers will be coming soon in preview for Azure Cache for Redis through a collaboration with Redis Labs: Enterprise and Enterprise Flash."
+    publishedDateTime: 2020-09-22T16:05:34Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/redis-enterprise-features-on-azure-cache-for-redis-coming-soon/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
+  - title: "General Availability of the New Azure VMware Solution"
+    excerpt: "Microsoft announces general availability (GA) of the Azure VMware Solution service. The new Azure VMware Solutions is a first party Microsoft Azure Compute services that is directly operated, delivered, and supported by Microsoft. "
+    publishedDateTime: 2020-09-22T16:05:17Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-of-the-new-azure-vmware-solution/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
     quality: 67
-  - title: "Microsoft Announces the General Availability of Azure Spring Cloud"
-    excerpt: "Microsoft and VMWare both announced the general availability of Azure Spring Cloud, a fully-managed service for Spring Boot apps. The service allows enterprises to deploy JARs or code to it, and the service automates the process of wiring the apps to the Spring service runtime."
-    publishedDateTime: 2020-09-09T11:11:00Z
-    webUrl: "https://www.infoq.com/news/2020/09/azure-spring-cloud-ga/"
-    type: article
-    provider:
-      name: InfoQ
-      domain: infoq.com
-    quality: 37
-    images:
-      - url: "https://res.infoq.com/news/2020/09/azure-spring-cloud-ga/en/headerimage/croppted-Azure+Spring+Cloud-1599509541685.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Finxact Announces General Availability of its Core-as-a-Service on Microsoft Azure"
-    excerpt: "Finxact is responding to growing market demand from its regional and super regional clients and prospects to support Azure. Finxact chose Microsoft based on its unique strength in accelerating ..."
-    publishedDateTime: 2020-05-13T12:33:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/finxact-announces-general-availability-of-its-core-as-a-service-on-microsoft-azure-301058085.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 31
-    images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
-        isCached: true
-  - title: "Qualys Delivers Vulnerability Management to Microsoft Azure Security Center for Virtual Machines and Containers"
-    excerpt: "Now, Microsoft Azure developers and customers have real-time visibility to secure and remediate cloud workloads at a click of a button with built-in orchestration as well.\" \"Security is in the DNA ..."
-    publishedDateTime: 2020-05-07T13:06:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/qualys-delivers-vulnerability-management-to-microsoft-azure-security-center-for-virtual-machines-and-containers-301054791.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 17
-    images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
-        isCached: true
-  - title: "Virtual Network NAT now generally available in Azure Government and Azure China"
-    excerpt: ""
-    publishedDateTime: 2020-05-07T21:00:13Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/virtualnetworknatgovchinaga/"
+  - title: "General Availability: Application Insight in UK West"
+    excerpt: "Application Insight, a part of Azure Monitor,  is now generally available in the UK West region for customers to collect telemetry and analyze their service health in production environments. "
+    publishedDateTime: 2020-09-29T15:23:28Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-application-insight-in-uk-west/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 13
-  - title: "Microsoft Announces the General Availability of Windows Server Containers, and More for AKS"
-    excerpt: "Microsoft launched a preview of Windows Server Containers in Azure Kubernetes Service (AKS). Now the company announced the general availability of Windows Server containers in AKS, including the support of private clusters and managed identities."
-    publishedDateTime: 2020-05-05T11:23:00Z
-    webUrl: "https://www.infoq.com/news/2020/05/windows-server-containers-aks-ga/"
-    type: article
-    provider:
-      name: InfoQ
-      domain: infoq.com
-    quality: 12
-    images:
-      - url: "https://cdn.infoq.com/statics_s2_20200602-0333/styles/static/images/logo/logo-big.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Azure SQL Auditing to storage account behind Virtual Network and firewall now generally available"
-    excerpt: ""
-    publishedDateTime: 2020-05-13T16:01:00Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-sql-auditing-to-storage-account-behind-virtual-network-and-firewall-now-generally-available/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 4
+    quality: 52
 
 secured: "5KFKWaC1B7s62sRd7Ga+0/1l5iQRmX5qG1W2y3PssIv29pJ74aXuNtTxIrwtMD4xt1cXhh8Vh+Aerg3ckbBtjb6Fy2C0hUdG/P80jC2BC0qdbOqYqM6Snivh6jV3MhAAOl4STUD7CP+BhgvZ+0rQJF/1W6Z8JlohW2RPiJYcifZFVODTCqrTGdvhcpCnBYGGlk/trCDZfrFM/6pNfQMbxDtdwBO4KNL6syxvGJD1QQlzC2ME1eAhHHRn194xJXWWuvgGsAnQfC5+BaZ3rAyIoZ2L9eEA7ig+mLGT2LWmeOo7yvf21tudbY1unZMnsh6ggOV/l/SNtWZU5ZApvuXZUw==;JRxLW7Kk8B67k1fHOLXm5w=="
 ---

@@ -72,10 +72,10 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 17
-  - title: "Azure Support API is generally available"
+  - title: "Azure App Service—.NET Core 3.1 is now generally available"
     excerpt: ""
-    publishedDateTime: 2020-04-17T17:00:00Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-support-api-is-generally-available/"
+    publishedDateTime: 2020-04-23T16:00:29Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-app-service-net-core-31-ga-on-app-service/"
     type: article
     provider:
       name: Microsoft

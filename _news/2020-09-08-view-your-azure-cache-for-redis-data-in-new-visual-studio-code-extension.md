@@ -45,14 +45,14 @@ related:
         height: 338
         isCached: true
   - title: "Azure Cache for Redis Visual Studio Code extension now in preview"
-    excerpt: "You will be able to use Visual Studio Code to view, test, and debug your caches in one streamlined experience. This extension enhances ease of development by eliminating the need to manually track connection and access keys to connect to your caches."
-    publishedDateTime: 2020-09-02T16:00:03Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-cache-for-redis-visual-studio-code-extension-now-in-preview-2/"
+    excerpt: "You’ll be able to use Visual Studio Code to view, test, and debug your caches in one streamlined experience. This extension enhances ease of development by eliminating the need to manually track connection and access keys to connect to your caches."
+    publishedDateTime: 2020-09-02T16:00:02Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-cache-for-redis-visual-studio-code-extension-now-in-preview/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 67
+    quality: 101
   - title: "Azure Private Link for Azure Cache for Redis now in preview"
     excerpt: "You can now use Azure Private Link to connect to an Azure Cache for Redis instance from your virtual network via a private endpoint, which is assigned a private IP address in a subnet within the virtual network."
     publishedDateTime: 2020-09-02T16:00:02Z
