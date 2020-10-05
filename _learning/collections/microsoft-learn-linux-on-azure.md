@@ -4,7 +4,7 @@ excerpt: "This comprehensive learning path reviews deployment and management of 
 type: collection
 price: Free
 length: PT11H1M
-heat: 82
+heat: 91
 
 provider:
   name: Microsoft Learn
