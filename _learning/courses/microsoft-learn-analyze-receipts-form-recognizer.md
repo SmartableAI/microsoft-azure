@@ -8,7 +8,7 @@ length: PT24M
 ratings:
   count: 262
   average: 4.7175574
-heat: 57
+heat: 52
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     height: 320
     isCached: true
 
-secured: "sTQcz9eWZEloFiMWDnOjIjC8j2RociOepuzza7OxamAjACxtTpJsCVxGBnBMI5BWfM6OcjNf9NM2iVaoHgD8jADGCLakgfv58/g79tkDYF/RkJxGg+vSxCiq6u2O5YUdHxDZNtRYTpu0LMpRSjODeYrVfLsCa7EKSLWkiWCMhBD0XnV7Qio+pcENIwTExTg9wBQcbD8lAirWsKNaBHoqnFTwkxzTi676ZEdE1mzRGUZHBXQv9ADozUlthUV8zhW2PgAun65dN63mnZAVeefRMgEFz0OchB97eUldOlkR28xXiExzruAYkDIzLm9xvNmncEfr0j6cyVJufnzVoVNIqFcAnI60fZ7qW6NLRbdddPwlmUkmEyq0hNl/Q6HsbCxJ05jq9m73In5wbqUyezgJwGT6ywN7SNejOGaOit2dJo8=;3QL3w7C6XKyLtBL0eebhUQ=="
+secured: "TvNNSdBTfhn2F98udpCPpJlYyHUmcYluVXKZ69A/svM7WKOSU+3/yRiiLLF+dBJ25Yp2ciVXkrCr5APmV3r2s9aB3HKNDee49Ea5eJrlbFos1sjT3U6DWEM8yUY3/bbI7vpgbWmRiy8jSMmdF3Oz+girog/x/qcCBbj+LQ3GpyMlrRa35Y/wIo/jVk2PML/oItJYiwQwS8pc/QygBau8LoDC2NzudRvfWbi2X8dk1uPwPitbpeK9ADGwKMY40ElMddLdNdABt0ved3wh3Bku1Kf06UOd31arfdiZOGSPOjJ8nB66b97yDAVdkOZIMPlXE5xjYLv+wk1ZZe/Ob1XFBSxC192w2PJonYMojpUUU/vnVVnHF/cFC3JCJLJ2GfnP9n7A0ZZSDf6iaILdf5hrhjpmPF1YlB2/Za7t1Q1qH20=;cS7ZsI7JaIK9ClBl2ZuMpg=="
 ---
 

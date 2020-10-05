@@ -4,7 +4,7 @@ excerpt: "Learn how to work with subscriptions, users, and groups by configuring
 type: collection
 price: Free
 length: PT6H8M
-heat: 112
+heat: 133
 
 provider:
   name: Microsoft Learn

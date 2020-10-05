@@ -4,7 +4,7 @@ excerpt: "Analyze individual query performance and determine where improvements 
 type: collection
 price: Free
 length: PT2H14M
-heat: 72
+heat: 76
 
 provider:
   name: Microsoft Learn
