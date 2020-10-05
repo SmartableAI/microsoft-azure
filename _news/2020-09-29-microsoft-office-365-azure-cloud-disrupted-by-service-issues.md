@@ -3,8 +3,8 @@ category: news
 title: "Microsoft Office 365, Azure Cloud Disrupted by Service Issues"
 excerpt: "The company said problems included some users of its Outlook email services and Teams workplace collaboration suite that provides chat functionality and videoconferencing."
 publishedDateTime: 2020-09-29T06:54:00Z
-originalUrl: "https://www.wsj.com/articles/microsoft-office-365-azure-cloud-disrupted-by-service-issues-11601344440"
-webUrl: "https://www.wsj.com/articles/microsoft-office-365-azure-cloud-disrupted-by-service-issues-11601344440"
+originalUrl: "https://www.wsj.com/articles/microsoft-office-365-azure-cloud-disrupted-by-service-issues-11601344440?mod=newsviewer_click"
+webUrl: "https://www.wsj.com/articles/microsoft-office-365-azure-cloud-disrupted-by-service-issues-11601344440?mod=newsviewer_click"
 ampWebUrl: "https://www.wsj.com/amp/articles/microsoft-office-365-azure-cloud-disrupted-by-service-issues-11601344440"
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/microsoft-office-365-azure-cloud-disrupted-by-service-issues-11601344440"
 type: article
@@ -1550,6 +1550,6 @@ related:
         height: 450
         isCached: true
 
-secured: "GG2gmPIwLJSPB3XNou4nnt+fF6Os1Ddd20NBce9v2eJJp2WtrrncdEcs16N8FYYVSmSHYUm8muBW4c1/zA/j8nrivgxnVrh9Kzuf2m52CcjZS6a9HPdh5Xk6vam3MboRwU8sgtmHJZkfDRkShGbIKX29Z8w+D+Fnasrj63YJe6bFNLzDYOXWxuil1bi3jmz6idLeBWmwoSad1N/1J64kMzfSNYG9i1mK4ro9OEAEYhsl8SYdsOTG8rMzIgyO4p4pWh+fV2nXMcuc9+4zpYx/Yesa1fMFr8u5eTrfyft6hQU7aalWd3HjcttfG1ZOZq5889mUxMB50MDR5XBJybEuN8D7HBxUUkb+mtUevKTujkQ=;1gQL49LyzZLmK9402e4bww=="
+secured: "SayudbD2n7fXfcEFtFCnr6lvbigCoY+eyKw5iiWyWjRlHGAXdaR/7f24doyLgS/cdrxmLxhenmfLGY+BgnGhAbgNkBzLsVCjDj5biuYGNS7MkYXaV4NdrOI+DeXuVKSsZvOnQNshvrLKaWErHOgvW4LuBHnwyFckIYbtSRa0YyMPPwCe1O0LtNb9Weg9hKbHosdzWyJhT3QLDLWazIZxo+OhvNhDh7OsIE41lQOcQUsNGoKhMVtNiHPAL+0qoa49u1G9Wqk20lsn8YiShIk+T+0nmAI0whqmiQ4Ojfbqd/PPXUTtVNaHM+bCrRzkd3+ah+YCBuGWNk3FIA73z6Rd8+DDEtRDiV3SYq74WfLlLAA=;/zkg2NhglWt2es5CXLbmgA=="
 ---
 
