@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Microsoft Office 365, Azure Cloud Disrupted by Service Issues"
-excerpt: "Microsoft on Monday suffered disruptions with its Office 365 workplace software tools and its Azure cloud that disabled some users for hours."
-publishedDateTime: 2020-09-29T02:09:00Z
-originalUrl: "https://www.wsj.com/articles/microsoft-office-365-azure-cloud-disrupted-by-service-issues-11601344440"
-webUrl: "https://www.wsj.com/articles/microsoft-office-365-azure-cloud-disrupted-by-service-issues-11601344440"
+excerpt: "The company said problems included some users of its Outlook email services and Teams workplace collaboration suite that provides chat functionality and videoconferencing."
+publishedDateTime: 2020-09-29T06:54:00Z
+originalUrl: "https://www.wsj.com/articles/microsoft-office-365-azure-cloud-disrupted-by-service-issues-11601344440?mod=newsviewer_click"
+webUrl: "https://www.wsj.com/articles/microsoft-office-365-azure-cloud-disrupted-by-service-issues-11601344440?mod=newsviewer_click"
 ampWebUrl: "https://www.wsj.com/amp/articles/microsoft-office-365-azure-cloud-disrupted-by-service-issues-11601344440"
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/microsoft-office-365-azure-cloud-disrupted-by-service-issues-11601344440"
 type: article
@@ -1550,6 +1550,6 @@ related:
         height: 450
         isCached: true
 
-secured: "hxrQ3ovZRV8baI3i3ZmDDL3eu1zOXFOQPPlU4C8vfjJ+WneWouD2JSg4qYSLERx6NfCfxeQXfVzNVHieSkAqSwyQ51j/87QCav4p9TXg/5gKdxW5gM+mGc//tK3+Y4C0s2ExnNgqPZ64KAR3c4mDxWRuYVxPwX1AM/WFo+G9sGKwxKOKRSnDC7R0juV3TOuBIqQbTEBE0L+Ofq3rDj/GmGwOpFqHOjlxDFxgbgAgQ6E18hUKZ+QlgghEv8TrcP6IVKsWq/qm5F3/+uYDXAhWg6QYlGpCDmdlGs+HlH/e76z5BA2qV0kVgP03RYREYn5WyQcZHHPldHSUfMjTYNeM2MGRqjxNz/sTmyU19ncEx9jE011wgsSNeRsd1ObmSRWkQEYMp+r/20cZ1uPQ8c9Z1rppKT8bton/a5pCr5y7HT40w63+9JrwdZJgVaUHsoW33XcVycvGOL8jgLdaDQgIc8KYJyjCOTzx9z12i7FqdS4QCwC4qcHI+BiL+jTbqfj4jMuqr/fT7G6zcO6GgLOXxg==;mOy/ROpCCk996DMxRVNfqw=="
+secured: "RcV8B5BYBi5pf0yhJTCP1WPrL9NjEs8JJ82ICpWsb/ONuhm943Wqg8YIYvqzVteaDsdp0wxq8twMITtFS1dW4kbHCPDMmKh8JcUw0lk9k46R3k9W+FfGelrYRHoJYPTq8ugpAATvbCWjHSU7urNrkSL0VmAHgE2RYdKm7VRdtlhfuwbwl2QE1J0Q3w3cOrJax23Zseg/WVQyENpFsRyg6cDAWt+gXqGTYbH5wq4fzrU+g80GbRDGcCuROPWgSQW1oothQGijhruwgwtEqCCgp39fRL9Cl+9tuHFYiO631KOF4tHlMonjJwp7uduU0VIx3EviPV8UY8bh9mkh303ZGK8ilXm1EROuqOE1wTqTQtU=;IFl5qBblOLNR6ExTl7l+cQ=="
 ---
 
