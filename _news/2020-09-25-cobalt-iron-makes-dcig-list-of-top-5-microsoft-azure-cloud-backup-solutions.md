@@ -1503,6 +1503,15 @@ related:
       name: Help Net Security
       domain: helpnetsecurity.com
     quality: 17
+  - title: "Ooredoo Qatar launches Cloud Connect to Microsoft Azure"
+    excerpt: "Ooredoo Qatar has announced the launch of Ooredoo Cloud Connect to Microsoft Azure, making Ooredoo a Microsoft Azure ExpressRoute connectivity provider in the country. It offers access to Microsoft Azure's private domain services in Europe,"
+    publishedDateTime: 2020-10-05T09:35:00Z
+    webUrl: "https://www.telecompaper.com/news/ooredoo-qatar-launches-cloud-connect-to-microsoft-azure--1356499"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 17
   - title: "Viasat integrates its ground service solution with Microsoft's Azure Orbital"
     excerpt: "Viasat (VSAT -1.1%) enters Microsoft's Azure Orbital ecosystem with its Real-Time Earth (RTE) solutions available as a managed services option to orbital end-users.Viasat's RTE network provides Ground-Station-as-a-Service ((GSaaS)) to the commercial and government earth observation and remote sensing communities on pay-per-use basis."
     publishedDateTime: 2020-09-22T19:28:00Z

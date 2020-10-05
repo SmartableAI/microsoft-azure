@@ -1,21 +1,18 @@
 ---
 category: news
-title: "Microsoft and Oracle to interconnect Microsoft Azure and Oracle Cloud"
-excerpt: "Before it's here, it's on the Bloomberg Terminal."
-publishedDateTime: 2020-05-31T18:14:00Z
-webUrl: "https://www.bloomberg.com/press-releases/2019-06-05/microsoft-and-oracle-to-interconnect-microsoft-azure-and-oracle-cloud"
+title: "Ooredoo Qatar launches Cloud Connect to Microsoft Azure"
+excerpt: "Ooredoo Qatar has announced the launch of Ooredoo Cloud Connect to Microsoft Azure, making Ooredoo a Microsoft Azure ExpressRoute connectivity provider in the country. It offers access to Microsoft Azure's private domain services in Europe,"
+publishedDateTime: 2020-10-05T09:35:00Z
+originalUrl: "https://www.telecompaper.com/news/ooredoo-qatar-launches-cloud-connect-to-microsoft-azure--1356499"
+webUrl: "https://www.telecompaper.com/news/ooredoo-qatar-launches-cloud-connect-to-microsoft-azure--1356499"
 type: article
-quality: 57
+quality: 17
 heat: -1
 published: false
 
 provider:
-  name: Bloomberg
-  domain: bloomberg.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/bloomberg.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Telecompaper
+  domain: telecompaper.com
 
 topics:
   - Azure
@@ -506,6 +503,15 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Microsoft and Oracle to interconnect Microsoft Azure and Oracle Cloud"
+    excerpt: "Before it's here, it's on the Bloomberg Terminal."
+    publishedDateTime: 2020-05-31T18:14:00Z
+    webUrl: "https://www.bloomberg.com/press-releases/2019-06-05/microsoft-and-oracle-to-interconnect-microsoft-azure-and-oracle-cloud"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 57
   - title: "Microsoft Azure and AWS' partnership model will make enterprise software companies dependent on cloud providers"
     excerpt: "Microsoft Azure and AWS are striking distribution deals with enterprise software providers, which may reshape the enterprise software ecosystem."
     publishedDateTime: 2020-09-21T14:58:00Z
@@ -1497,15 +1503,6 @@ related:
       name: Help Net Security
       domain: helpnetsecurity.com
     quality: 17
-  - title: "Ooredoo Qatar launches Cloud Connect to Microsoft Azure"
-    excerpt: "Ooredoo Qatar has announced the launch of Ooredoo Cloud Connect to Microsoft Azure, making Ooredoo a Microsoft Azure ExpressRoute connectivity provider in the country. It offers access to Microsoft Azure's private domain services in Europe,"
-    publishedDateTime: 2020-10-05T09:35:00Z
-    webUrl: "https://www.telecompaper.com/news/ooredoo-qatar-launches-cloud-connect-to-microsoft-azure--1356499"
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 17
   - title: "Cobalt Iron Makes DCIG List of TOP 5 Microsoft Azure Cloud Backup Solutions"
     excerpt: "Cobalt Iron Inc., a leading provider of SaaS-based enterprise data protection, today announced that its industry-leading Compass® enterprise SaaS back"
     publishedDateTime: 2020-09-25T06:49:00Z
@@ -1548,6 +1545,6 @@ related:
         height: 450
         isCached: true
 
-secured: "rgH0IfMqUzgsNuCjvf2L3aFfpVQvazncij4+cqNy0FUVci42wCyxTfqrRnSDSfFUkc7kOznS9hZMsSYXJuQm8NJGskro1fHQ76Gld5PSod7Qn8f8IB+CApMbx6zd80seSuMNJd4+en/scxbw3AxhF2Xzsirz4tU2lHPMTkZpzbu7kC2p/3UlnRjBm+IjUAoXatXqaS8uOw3SeBjJzMx7t/3e2sWohpc6f29D2JKQPjHcWjQlNqX7ME8fE1gZWZGRRKub1iiFfxEzGnuCoP/kqhGHCOAJUU0SpptWSJnl1iSO+w+VpfwRoIsmWKkNdyk1;c7LFAi4/8zz6+ya8vteGzA=="
+secured: "W9wdn28nCQPXAf0amcOBscaZVoS6Gfytw52uqGw/YbfiBKcN/Sl5atRvcDUzoUpCVDXyNjVda+ZgM6XodiwAs+MSkH6HLK6aAUc3x/Y7h/pynl43n3Q8i+1eSG2mawrjN4hkAko7cM34i37lplXJz+CxlgNZuxUx1FMgvMHWq/noMwVRCi/DpMrTTUiHsl72+GvnGu70NSEG1RjqqkRDbyaHWrOqLnqe2070RB5a1f4rlg3RPN5zx20MQ2BzNo3tSENk7vmlaVsC66e6TS46zhmtnAplCQBm/ISSsCqyLJ6noebr5HXtBA4nNtKarBz41z3UFfWSjK7wy3P14E8jZ9A5+o6Q5ll7nvoQWVwdErA=;TkMupKcsnFB/a/MZfL5GmA=="
 ---
 

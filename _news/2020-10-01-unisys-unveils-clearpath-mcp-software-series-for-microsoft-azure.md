@@ -1494,6 +1494,15 @@ related:
       name: Seeking Alpha
       domain: seekingalpha.com
     quality: 17
+  - title: "Ooredoo Qatar launches Cloud Connect to Microsoft Azure"
+    excerpt: "Ooredoo Qatar has announced the launch of Ooredoo Cloud Connect to Microsoft Azure, making Ooredoo a Microsoft Azure ExpressRoute connectivity provider in the country. It offers access to Microsoft Azure's private domain services in Europe,"
+    publishedDateTime: 2020-10-05T09:35:00Z
+    webUrl: "https://www.telecompaper.com/news/ooredoo-qatar-launches-cloud-connect-to-microsoft-azure--1356499"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 17
   - title: "Cobalt Iron Makes DCIG List of TOP 5 Microsoft Azure Cloud Backup Solutions"
     excerpt: "Cobalt Iron Inc., a leading provider of SaaS-based enterprise data protection, today announced that its industry-leading Compass® enterprise SaaS back"
     publishedDateTime: 2020-09-25T06:49:00Z
