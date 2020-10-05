@@ -3,8 +3,8 @@ category: news
 title: "TransientAccess Now Available in the Microsoft Azure Marketplace"
 excerpt: "September 28th, 2020 - TransientX, transforming fixed and device-centric networks to disposable networks of apps, today announced the availability of TransientAccess Zero-Trust Network Access in the Microsoft Azure Marketplace,"
 publishedDateTime: 2020-09-28T14:28:00Z
-originalUrl: "https://www.marketwatch.com/press-release/transientaccess-now-available-in-the-microsoft-azure-marketplace-2020-09-28"
-webUrl: "https://www.marketwatch.com/press-release/transientaccess-now-available-in-the-microsoft-azure-marketplace-2020-09-28"
+originalUrl: "https://www.marketwatch.com/press-release/transientaccess-now-available-in-the-microsoft-azure-marketplace-2020-09-28?mod=mw_quote_news"
+webUrl: "https://www.marketwatch.com/press-release/transientaccess-now-available-in-the-microsoft-azure-marketplace-2020-09-28?mod=mw_quote_news"
 type: article
 quality: 77
 heat: -1
@@ -1550,6 +1550,6 @@ related:
         height: 450
         isCached: true
 
-secured: "K4mIvyoLSdEKPqHiuSLdUl+mr8R2KCdEphci/5xDoS1KEJKiLFj5tnzkfvFiVUkyoTJobxk1bilgQtp8eoQzgJ65K3k/JQPFbUgYwJJsYHB5w5yJ72KBTMKx4pdLRrtrklMRKBnsHMi1py8H6QDD7kopMkbch5YZNW7OzaxIl9VhNZktuv1I8P20N8CigmLrpIhvukawhalSYVy19RPr6f32skFJgNpb/yIpWXmX5FaZk1feuFNPO5Sy0qnE//7Bx6gyzwRBSEyNl2BFr6t1dRebZlBJodbA8Jqigkbsz/dnyKwqBMEoNVnqED8AvWKgnVRY2lD/rM/1ly15Ji9lhv4xV4uYD5SYtLWF+dYVKCU=;StRtbYV6LtzlA3G5/9jQTA=="
+secured: "NUDuKEPib1KtXNDm6VoXXVkJ2Rz1z0p5xVWOTYhM4R1uAlDXiRsSBpkym+Ud4UgkXxTW22R4y/mrjmJASGXz1Y3UuuccFD7Fas9vHtZJZtj7hfoEIDDFuJe7bHSuI3phRwHe1hLHmRVi26xVux127jHHtaE+dITG+zm3ZKIbML1qUYVAD6KSX/hl20pjIzVukKmu0isk9Rt1PfPTQb3rcku5S43q+3srEWYiAaXd9mbCEuC5a0Z3XjQxM+DW5AyXEISJRK9zbvtPRfqQUGNVDvkLM855yg2FW7CzJa14dSUaOwDZIbFOu5fp6qVGX5CQfwMr0CqESKXe02zrVlAjR7Jw/nnFeNUD44YcrV6Xxeg=;RmMQkc5Gh2yoXHlq+BIfnA=="
 ---
 

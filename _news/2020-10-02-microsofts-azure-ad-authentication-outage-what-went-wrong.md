@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/microsofts-azure-ad-authent
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsofts-azure-ad-authentication-outage-what-went-wrong/"
 type: article
 quality: 97
-heat: 179
+heat: 199
 published: true
 
 provider:
@@ -45,6 +45,22 @@ related:
       - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2018/08/minecraft-realms-hero-01.jpg"
         width: 800
         height: 420
+        isCached: true
+  - title: "Microsoft Expands Azure Cloud Reach with Major Investment in Greece"
+    excerpt: "Microsoft says Azure cloud data centers will be built in Greece, helping to boost the country’s economy in coming years."
+    publishedDateTime: 2020-10-05T14:10:00Z
+    webUrl: "https://winbuzzer.com/2020/10/05/microsoft-expands-azure-cloud-reach-with-major-investment-in-greece-xcxwbn/"
+    ampWebUrl: "https://winbuzzer.com/2020/10/05/microsoft-expands-azure-cloud-reach-with-major-investment-in-greece-xcxwbn/?amp"
+    cdnAmpWebUrl: "https://winbuzzer-com.cdn.ampproject.org/c/s/winbuzzer.com/2020/10/05/microsoft-expands-azure-cloud-reach-with-major-investment-in-greece-xcxwbn/?amp"
+    type: article
+    provider:
+      name: winbuzzer.com
+      domain: winbuzzer.com
+    quality: 57
+    images:
+      - url: "https://winbuzzer.com/wp-content/uploads/2020/10/Microsoft-Cloud-Greece-Azure-Microsoft.jpg"
+        width: 960
+        height: 640
         isCached: true
   - title: "Ooredoo enables digital transformation with connectivity solution to Microsoft Azure"
     excerpt: "Ooredoo has announced the launch of Ooredoo Cloud Connect to Microsoft Azure to provide Qatar’s organisations with secure, reliable, and affordable cloud connectivity services to drive digital transfo"

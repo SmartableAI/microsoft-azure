@@ -56,6 +56,22 @@ related:
         width: 800
         height: 420
         isCached: true
+  - title: "Microsoft Expands Azure Cloud Reach with Major Investment in Greece"
+    excerpt: "Microsoft says Azure cloud data centers will be built in Greece, helping to boost the country’s economy in coming years."
+    publishedDateTime: 2020-10-05T14:10:00Z
+    webUrl: "https://winbuzzer.com/2020/10/05/microsoft-expands-azure-cloud-reach-with-major-investment-in-greece-xcxwbn/"
+    ampWebUrl: "https://winbuzzer.com/2020/10/05/microsoft-expands-azure-cloud-reach-with-major-investment-in-greece-xcxwbn/?amp"
+    cdnAmpWebUrl: "https://winbuzzer-com.cdn.ampproject.org/c/s/winbuzzer.com/2020/10/05/microsoft-expands-azure-cloud-reach-with-major-investment-in-greece-xcxwbn/?amp"
+    type: article
+    provider:
+      name: winbuzzer.com
+      domain: winbuzzer.com
+    quality: 57
+    images:
+      - url: "https://winbuzzer.com/wp-content/uploads/2020/10/Microsoft-Cloud-Greece-Azure-Microsoft.jpg"
+        width: 960
+        height: 640
+        isCached: true
   - title: "Ooredoo enables digital transformation with connectivity solution to Microsoft Azure"
     excerpt: "Ooredoo has announced the launch of Ooredoo Cloud Connect to Microsoft Azure to provide Qatar’s organisations with secure, reliable, and affordable cloud connectivity services to drive digital transfo"
     publishedDateTime: 2020-10-04T17:05:00Z

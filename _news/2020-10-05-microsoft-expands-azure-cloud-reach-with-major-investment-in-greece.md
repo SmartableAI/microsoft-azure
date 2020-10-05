@@ -1,29 +1,28 @@
 ---
 category: news
-title: "Minecraft Realms completes migration to Microsoft Azure cloud platform from AWS"
-excerpt: "After announcing the move back in July, Mojang Studios has confirmed that Minecraft Realms, the private server platform for Minecraft, has completed its transition to Microsoft Azure, a big move for the company."
-publishedDateTime: 2020-10-01T23:20:00Z
-originalUrl: "https://www.windowscentral.com/minecraft-realms-completes-migration-microsoft-azure-cloud-platform-aws"
-webUrl: "https://www.windowscentral.com/minecraft-realms-completes-migration-microsoft-azure-cloud-platform-aws"
-ampWebUrl: "https://www.windowscentral.com/minecraft-realms-completes-migration-microsoft-azure-cloud-platform-aws?amp"
-cdnAmpWebUrl: "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/minecraft-realms-completes-migration-microsoft-azure-cloud-platform-aws?amp"
+title: "Microsoft Expands Azure Cloud Reach with Major Investment in Greece"
+excerpt: "Microsoft says Azure cloud data centers will be built in Greece, helping to boost the country’s economy in coming years."
+publishedDateTime: 2020-10-05T14:10:00Z
+originalUrl: "https://winbuzzer.com/2020/10/05/microsoft-expands-azure-cloud-reach-with-major-investment-in-greece-xcxwbn/"
+webUrl: "https://winbuzzer.com/2020/10/05/microsoft-expands-azure-cloud-reach-with-major-investment-in-greece-xcxwbn/"
+ampWebUrl: "https://winbuzzer.com/2020/10/05/microsoft-expands-azure-cloud-reach-with-major-investment-in-greece-xcxwbn/?amp"
+cdnAmpWebUrl: "https://winbuzzer-com.cdn.ampproject.org/c/s/winbuzzer.com/2020/10/05/microsoft-expands-azure-cloud-reach-with-major-investment-in-greece-xcxwbn/?amp"
 type: article
-quality: 70
+quality: 57
 heat: -1
 published: false
 
 provider:
-  name: Windows Central
-  domain: windowscentral.com
+  name: winbuzzer.com
+  domain: winbuzzer.com
 
 topics:
   - Azure
-  - Migration
 
 images:
-  - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2018/08/minecraft-realms-hero-01.jpg"
-    width: 800
-    height: 420
+  - url: "https://winbuzzer.com/wp-content/uploads/2020/10/Microsoft-Cloud-Greece-Azure-Microsoft.jpg"
+    width: 960
+    height: 640
     isCached: true
 
 related:
@@ -43,21 +42,21 @@ related:
         width: 1103
         height: 765
         isCached: true
-  - title: "Microsoft Expands Azure Cloud Reach with Major Investment in Greece"
-    excerpt: "Microsoft says Azure cloud data centers will be built in Greece, helping to boost the country’s economy in coming years."
-    publishedDateTime: 2020-10-05T14:10:00Z
-    webUrl: "https://winbuzzer.com/2020/10/05/microsoft-expands-azure-cloud-reach-with-major-investment-in-greece-xcxwbn/"
-    ampWebUrl: "https://winbuzzer.com/2020/10/05/microsoft-expands-azure-cloud-reach-with-major-investment-in-greece-xcxwbn/?amp"
-    cdnAmpWebUrl: "https://winbuzzer-com.cdn.ampproject.org/c/s/winbuzzer.com/2020/10/05/microsoft-expands-azure-cloud-reach-with-major-investment-in-greece-xcxwbn/?amp"
+  - title: "Minecraft Realms completes migration to Microsoft Azure cloud platform from AWS"
+    excerpt: "After announcing the move back in July, Mojang Studios has confirmed that Minecraft Realms, the private server platform for Minecraft, has completed its transition to Microsoft Azure, a big move for the company."
+    publishedDateTime: 2020-10-01T23:20:00Z
+    webUrl: "https://www.windowscentral.com/minecraft-realms-completes-migration-microsoft-azure-cloud-platform-aws"
+    ampWebUrl: "https://www.windowscentral.com/minecraft-realms-completes-migration-microsoft-azure-cloud-platform-aws?amp"
+    cdnAmpWebUrl: "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/minecraft-realms-completes-migration-microsoft-azure-cloud-platform-aws?amp"
     type: article
     provider:
-      name: winbuzzer.com
-      domain: winbuzzer.com
-    quality: 57
+      name: Windows Central
+      domain: windowscentral.com
+    quality: 70
     images:
-      - url: "https://winbuzzer.com/wp-content/uploads/2020/10/Microsoft-Cloud-Greece-Azure-Microsoft.jpg"
-        width: 960
-        height: 640
+      - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2018/08/minecraft-realms-hero-01.jpg"
+        width: 800
+        height: 420
         isCached: true
   - title: "Ooredoo enables digital transformation with connectivity solution to Microsoft Azure"
     excerpt: "Ooredoo has announced the launch of Ooredoo Cloud Connect to Microsoft Azure to provide Qatar’s organisations with secure, reliable, and affordable cloud connectivity services to drive digital transfo"
@@ -102,6 +101,6 @@ related:
         height: 315
         isCached: true
 
-secured: "TZ0sd80IBE8FkdvkDwFRf6ufp0yfxcQneUhwytCF8ouHnUUosgHR/w1LerLzAumTBq8BOTf78C1XIcrr8We++veVJHKn8OBSkysOg9p0MAFvTkRYKE01yBhb1m3sebd7y79wNaHe+XCaqLkqx8HQVq0Uve0KqUvWWoNIHfwN7ZcYCI+Yb8J1bMJWe/X0tXOZJa415piwryL0zIaNqTYZcGFP9SwkMmffq0BzXuPGGnfTfcHToEb1fFWNuijsXi1jksvlDp7VVNVYyNmgnxsW470yjZU9B9QQvWdpIivwtXymESiR7n6jwQ+tKVDDqtNx/TSMF+SCv+5V2SDQX4wC3/R0LMmGnwgLvLHCSAPaeDxIPngo8NMPR4htNvNCNOakxgY6Zx5JX1GSt7HDXLr6ADdjPlvfTf5ptc/m73oRKizUfyijib7QMHPumy5TeX9fnp3W66kF9GUZtBsMEOB6M8f4urfYYdXUhMnmOV0bckuR2FGL0C/7TjBUg1fZk7ZxMZtpK5qXPOoDM7uSEIvOfw==;GXjYTMtm+lz8z+Lh51nDtQ=="
+secured: "aqmugA+XZZHkHeSsyfq4BVyZGOrjmFb5qKRV1OGXC+rQFuvyKEB731hmxLT1UfsCPsx74qzJMsK1UH40fJiVAjgCDU3Rfe1R/WbcvjhkNsh0wwtTzapVMY8aozeOlgtHBAqplkWJybXos6Xk1AzqpwgLfkh16gM32WdRjNMbfD5556gM0ef4s/NdiVw3vFThp8Z3LGtaSLDbQFR86lm2gj+1fdRsNYY4rCEHlpLaXsDHT4tQv8fSNJvbpYVi/ktW3tWPETKsUvTLgUtTs6i9MmjZiT/4rUZf9mYUfDDAKepMCJUpG5YXuCmM8L2GGdnX/TjD64f0yaFp+CMpESVJKA2rKVhsX2ZFwn39nZKSsaE=;nh9EM7RD8ixMik63W0il5A=="
 ---
 
