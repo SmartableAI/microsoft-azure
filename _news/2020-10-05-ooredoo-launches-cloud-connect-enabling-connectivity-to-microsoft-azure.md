@@ -1,26 +1,26 @@
 ---
 category: news
-title: "dotData Enterprise is Now Available on Microsoft Azure"
-excerpt: "Data, focused on delivering full-cycle data science automation and operationalization for the enterprise, is providing dotData Enterprise on Microsoft Azure, offering increased speed and efficiency of data science and machine learning processes coupled with Azure's strong managed IaaS/PaaS capabilities."
-publishedDateTime: 2020-09-25T14:40:00Z
-originalUrl: "https://www.dbta.com/Editorial/News-Flashes/dotData-Enterprise-is-Now-Available-on-Microsoft-Azure-143056.aspx"
-webUrl: "https://www.dbta.com/Editorial/News-Flashes/dotData-Enterprise-is-Now-Available-on-Microsoft-Azure-143056.aspx"
+title: "Ooredoo launches Cloud Connect enabling connectivity to Microsoft Azure"
+excerpt: "Doha: Ooredoo, the region’s leading enabler of digital business innovation, announced yesterday the launch of Ooredoo Cloud Connect to Microsoft Azure, to provide Qatar’s organisations with secure, reliable, and affordable cloud connectivity services ..."
+publishedDateTime: 2020-10-05T06:04:00Z
+originalUrl: "https://www.thepeninsulaqatar.com/article/05/10/2020/Ooredoo-launches-Cloud-Connect-enabling-connectivity-to-Microsoft-Azure"
+webUrl: "https://www.thepeninsulaqatar.com/article/05/10/2020/Ooredoo-launches-Cloud-Connect-enabling-connectivity-to-Microsoft-Azure"
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: dbta.com
-  domain: dbta.com
+  name: The Peninsula
+  domain: thepeninsulaqatar.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://www.dbta.com/images/social-logo-2019.png"
-    width: 1200
-    height: 630
+  - url: "https://www.thepeninsulaqatar.com/uploads/2020/10/05/post_main_cover/bb97589385769d1a0f1eecb2c64067bd5e849e78.jpg"
+    width: 502
+    height: 355
     isCached: true
 
 related:
@@ -977,6 +977,20 @@ related:
         width: 647
         height: 450
         isCached: true
+  - title: "dotData Enterprise is Now Available on Microsoft Azure"
+    excerpt: "Data, focused on delivering full-cycle data science automation and operationalization for the enterprise, is providing dotData Enterprise on Microsoft Azure, offering increased speed and efficiency of data science and machine learning processes coupled with Azure's strong managed IaaS/PaaS capabilities."
+    publishedDateTime: 2020-09-25T14:40:00Z
+    webUrl: "https://www.dbta.com/Editorial/News-Flashes/dotData-Enterprise-is-Now-Available-on-Microsoft-Azure-143056.aspx"
+    type: article
+    provider:
+      name: dbta.com
+      domain: dbta.com
+    quality: 37
+    images:
+      - url: "https://www.dbta.com/images/social-logo-2019.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Microsoft disrupts nation-state hacker op using Azure Cloud service"
     excerpt: "In a report today, Microsoft said that it disrupted operations of a nation-state threat group that was using its Azure cloud infrastructure for cyber attacks."
     publishedDateTime: 2020-09-25T09:22:00Z
@@ -1043,20 +1057,6 @@ related:
       - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/IntroImagesBigSmall/WordCloudLadderManBig.jpg"
         width: 1665
         height: 1158
-        isCached: true
-  - title: "Ooredoo launches Cloud Connect enabling connectivity to Microsoft Azure"
-    excerpt: "Doha: Ooredoo, the region’s leading enabler of digital business innovation, announced yesterday the launch of Ooredoo Cloud Connect to Microsoft Azure, to provide Qatar’s organisations with secure, reliable, and affordable cloud connectivity services ..."
-    publishedDateTime: 2020-10-05T06:04:00Z
-    webUrl: "https://www.thepeninsulaqatar.com/article/05/10/2020/Ooredoo-launches-Cloud-Connect-enabling-connectivity-to-Microsoft-Azure"
-    type: article
-    provider:
-      name: The Peninsula
-      domain: thepeninsulaqatar.com
-    quality: 37
-    images:
-      - url: "https://www.thepeninsulaqatar.com/uploads/2020/10/05/post_main_cover/bb97589385769d1a0f1eecb2c64067bd5e849e78.jpg"
-        width: 502
-        height: 355
         isCached: true
   - title: "TCS Quartz suite becomes available on Microsoft Azure Blockchain Service"
     excerpt: "Tata Consultancy Services announced the general availability of its award winning Quartz suite of blockchain based solutions on Microsoft Azure Blockchain Service. The Quartz suite of products helps organizations set up truly connected ecosystems ..."
@@ -1537,6 +1537,6 @@ related:
         height: 450
         isCached: true
 
-secured: "qXrfJ0p0rUhUboFq79sa6IYc0jrMOs9Gh5FCGdDQKrR+iYNanZfiRAUHYFd7QQVbTq5ytabtRHnqU4dZ2AUHAhUzbJ6hCL3qZZUFWja38huaRaBLc5x+mPKn0G38vDj2Y29X49yX+dryuZbjTRgjxYBCTdFF8dW9x6ZUhWg67saxTcosCZXfVMLbKHTOtPP8P2QKYM6wOMtGfHBXAeMlG/jJ9oBWjwKUvDlqLgPLEVWmzuYZVNn/81Z98opmCOpcqKEY8tLZo2f0hGmX13DKJZNpXX2Ejez1m2B8WwoTsoDzqqJ2mjXM4r7xOx/Zbi3ZW8NK2/q4U8rh+853J0R2GlfQTa96qKkgGdq4lrBpAoM=;c8i4O7qlUMAV7hlSbvUsJA=="
+secured: "KGWrjAweCCAj17bsMLBztDbBXAzfy0MiwzvVOr0qhrubUHUzHRn/YzkQv5PRi5WZKRn1q1Q05RMdaZpz3nRtWu1AzbCdllH6kVkQHaT7sf2OUq9C85llwnsibLt7xLIttECZDcBvXeMB+8W3mn/cNeLPyV+1t8uXoJmhNFx5xsFJLziKgEH/dG2suwMUw4Denlp4tpcun/x/0QcpAdtWE69eO5K74EnJMBmNnzJDnUjhbPjZwLCNMyBq7BK7p0iQN/mCDvunllHPHYQprcM8122hxfEEyiFwRs0lAqct3fz2wlZN0z1ZwV2fOEKXF1HbURS2A/gcZT8JroT7s0VxcNTUn2bKkSdEos9fnT20Rcc=;fxL8/xx5LmbtUfBN536mvw=="
 ---
 
