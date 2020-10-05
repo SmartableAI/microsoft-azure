@@ -6,8 +6,8 @@ type: course
 price: Free
 length: PT1H10M
 ratings:
-  count: 2733
-  average: 4.571533
+  count: 2734
+  average: 4.5716896
 heat: 53
 
 provider:
