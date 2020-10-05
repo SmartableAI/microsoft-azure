@@ -6,7 +6,7 @@ publishedDateTime: 2019-11-26T13:00:34Z
 webUrl: "https://azure.microsoft.com/blog/multi-protocol-access-on-data-lake-storage-now-generally-available/"
 type: article
 quality: 39
-heat: 59
+heat: 39
 published: false
 
 provider:

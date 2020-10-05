@@ -6,7 +6,7 @@ publishedDateTime: 2020-05-14T21:00:25Z
 webUrl: "https://azure.microsoft.com/en-us/updates/ci-health-limited-preview/"
 type: article
 quality: 14
-heat: 34
+heat: 14
 published: false
 
 provider:
