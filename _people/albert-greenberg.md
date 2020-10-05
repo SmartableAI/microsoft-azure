@@ -3,7 +3,7 @@ name: "Albert Greenberg"
 bio: "CVP, Microsoft Azure Networking"
 location: Seattle, WA
 type: "profile"
-heat: 57
+heat: 50
 
 affiliation:
   name: Microsoft
@@ -34,6 +34,6 @@ images:
     isCached: true
     title: "Albert Greenberg"
 
-secured: "FOSZ5qSN5m3WOyPijKbNa+AoXwp7Mj1oRli/7+YvhVenQ62+kpxsTefOyV5pyac6/G2g3mJ2VGjAOI7A/NyMmfAu5eBA2A/iNT1c0w1faTqdwrnLdcnosOmCsqyc3TBrWbcXiIdAhsw6BG/OcisicGsYA7SDRruqy6kjZVRrUn+bG0QjOMgvkhXanvCEgTK5m1Luqp9fP7TZDVJnRVh0j1ZFQ1pZyf4EebnuEQ+fGNlsNXzVMjR6EVlFkY7Yukj9VpjDNknq8wBf5yes9RWskWUTP6K2TofCiQ61TRPDZuwU5j1zLC+K15MhpH28q/56XeWSFBP0bmZLGWSVb3xt+RGFu2YfVxcs/rNtMQY/8tKJd8wwtEbqsQw5QyvW81LkQBGL2FvhlrZ+YwrS5ihxTw==;wvRbstvZc7bD+lzKlFzEKw=="
+secured: "KLUptAvHB7smqbZSNh8pSsk8zJUraXt9MhHuBJkKFPiftZ31HgB+yuZtmZhATOszJ87cG3IE6jwOKRHiDqfbTv+gAd1cYYb7BhN9SNGPiEcZ3VZYDCZe7FVYM3k59KORQiMWXRlZ9/gxY8a7nybgEV96iKgI1yEmryFzd8EmKbMKbqJVAI0wioCOAvPEWkl38ytHAis3xkov6/+uuJ3Cw0TuROYJyioBK2hIqotunlhfGyW1uuOsF6lYsW3nlvm2gjvkVb34rMtOux+fO6+ghascqLP2OKc9AYXB3iIPUfHje0G2Ap/P2rY8dk5o02dpEJscl56AAtmAJXhAFYf6uGJ5QMUqoR3ugbMao9r2w+mV6s4t9xrfQdiGfPcZibK/zdLQX1ByUyfr/rpZnsuIoA==;OXBtdf9nNawp9835P6dqow=="
 ---
 
