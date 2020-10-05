@@ -4,48 +4,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-describe-performance-monitoring.md",
-      "title": "Describe performance monitoring",
-      "excerpt": "Compare Azure and on-premises tools for monitoring and measuring performance. Determine critical metrics. Understand the purpose of a baseline for comparative analysis.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-describe-performance-monitoring/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/describe-performance-monitoring/",
-      "length": "PT42M",
-      "ratings": {
-        "count": 455,
-        "average": 4.821978
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 63,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Databases"
-      ]
-    },
-    {
       "path": "_learning/collections/microsoft-learn-azure-sql-fundamentals.md",
       "title": "Azure SQL fundamentals",
       "excerpt": "Learn how to deploy, secure, monitor and troubleshoot Azure SQL database.",
@@ -76,8 +34,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/azure-sql-intro/",
           "length": "PT44M",
           "ratings": {
-            "count": 319,
-            "average": 4.739812
+            "count": 320,
+            "average": 4.7375
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -160,8 +118,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/azure-sql-secure-data/",
           "length": "PT1H24M",
           "ratings": {
-            "count": 70,
-            "average": 4.742857
+            "count": 71,
+            "average": 4.732394
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -326,8 +284,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/azure-well-architected-cost-optimization/",
           "length": "PT51M",
           "ratings": {
-            "count": 972,
-            "average": 4.7006173
+            "count": 973,
+            "average": 4.700925
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -508,8 +466,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/create-cosmos-db-for-scale/",
           "length": "PT35M",
           "ratings": {
-            "count": 3804,
-            "average": 4.6409044
+            "count": 3805,
+            "average": 4.640999
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -585,8 +543,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/access-data-with-cosmos-db-and-sql-api/",
           "length": "PT58M",
           "ratings": {
-            "count": 2514,
-            "average": 4.647176
+            "count": 2516,
+            "average": 4.6446743
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1082,8 +1040,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/azure-sql-intro/",
       "length": "PT44M",
       "ratings": {
-        "count": 319,
-        "average": 4.739812
+        "count": 320,
+        "average": 4.7375
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1124,8 +1082,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/create-cosmos-db-for-scale/",
       "length": "PT35M",
       "ratings": {
-        "count": 3804,
-        "average": 4.6409044
+        "count": 3805,
+        "average": 4.640999
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1159,8 +1117,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/design-a-geographically-distributed-application/",
       "length": "PT34M",
       "ratings": {
-        "count": 567,
-        "average": 4.6613755
+        "count": 568,
+        "average": 4.661972
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1196,8 +1154,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/provision-azure-sql-db/",
       "length": "PT50M",
       "ratings": {
-        "count": 4693,
-        "average": 4.65033
+        "count": 4694,
+        "average": 4.650192
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1304,6 +1262,43 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-azure-functions-and-signalr.md",
+      "title": "Enable automatic updates in a web application using Azure Functions and SignalR Service",
+      "excerpt": "Update a web app's notification mechanism from polling to push-based architecture with SignalR Service, Azure Cosmos DB and Azure Functions.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-azure-functions-and-signalr/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/automatic-update-of-a-webapp-using-azure-functions-and-signalr/",
+      "length": "PT55M",
+      "ratings": {
+        "count": 1422,
+        "average": 4.2791843
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 53,
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Storage",
+        "Compute",
+        "Serverless",
+        "Databases"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-azure-scale-azure-sql-dbs-elastic-pools.md",
       "title": "Scale multiple Azure SQL Databases with SQL elastic pools",
       "excerpt": "Learn how to create SQL elastic pools and how to use them to manage performance and cost for a collection of SQL databases.",
@@ -1311,8 +1306,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/scale-sql-databases-elastic-pools/",
       "length": "PT39M",
       "ratings": {
-        "count": 3421,
-        "average": 4.57644
+        "count": 3422,
+        "average": 4.576271
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1354,8 +1349,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/azure-well-architected-reliability/",
       "length": "PT59M",
       "ratings": {
-        "count": 460,
-        "average": 4.6891303
+        "count": 461,
+        "average": 4.6898046
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1939,8 +1934,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/access-data-with-cosmos-db-and-sql-api/",
       "length": "PT58M",
       "ratings": {
-        "count": 2514,
-        "average": 4.647176
+        "count": 2516,
+        "average": 4.6446743
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2058,8 +2053,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/azure-sql-secure-data/",
       "length": "PT1H24M",
       "ratings": {
-        "count": 70,
-        "average": 4.742857
+        "count": 71,
+        "average": 4.732394
       },
       "provider": {
         "name": "Microsoft Learn",
