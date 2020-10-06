@@ -1,26 +1,26 @@
 ---
 category: news
 title: "DH2i Now Available in the Microsoft Azure Marketplace"
-excerpt: "FORT COLLINS, Colo., Sept. 22, 2020 /PRNewswire/ -- DH2i today announced the availability of DxEnterprise for Availability Groups in the Microsoft Azure Marketplace, an online store providing applications and services for use on Microsoft Azure. DH2i ..."
-publishedDateTime: 2020-09-22T13:19:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/dh2i-now-available-in-the-microsoft-azure-marketplace-301134323.html"
-webUrl: "https://www.prnewswire.com/news-releases/dh2i-now-available-in-the-microsoft-azure-marketplace-301134323.html"
+excerpt: "FORT COLLINS, Colo., Sept. 22, 2020 /PRNewswire/ -- DH2i today announced the availability of DxEnterprise for Availability Groups in the Microsoft Azure Marketplace, an online store providing ..."
+publishedDateTime: 2020-09-22T13:23:00Z
+originalUrl: "https://www.morningstar.com/news/pr-newswire/20200922la27955/dh2i-now-available-in-the-microsoft-azure-marketplace"
+webUrl: "https://www.morningstar.com/news/pr-newswire/20200922la27955/dh2i-now-available-in-the-microsoft-azure-marketplace"
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Morningstar%2c Inc.
+  domain: morningstar.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://mma.prnewswire.com/media/324010/dh2i_logo.jpg?p=facebook"
-    width: 1400
-    height: 732
+  - url: "https://mma.prnewswire.com/media/324010/dh2i_logo.jpg"
+    width: 400
+    height: 400
     isCached: true
 
 related:
@@ -1551,6 +1551,6 @@ related:
         height: 450
         isCached: true
 
-secured: "4n5jK7dmY4Is+TVODFmTB98F9val2onhUhH985Js8O7oKjE40+jIlxDfsTRdX/1+IYJ1aXDPdYNO3nbT8v2Jr3wr+XZJ2SjZi0JZ3uwDtcMqvGZ9olv8PcD5OCrRnN0Ual7ZgWXnQTQCeWGNyEsWjJlMOTR2ipNLWqV/VYOmOg1E5UtBWcj2DUehrIQVhuDoj5wCnp39YbyOKJMfSVRAoyGBXmFvl85U2H2l2IWQFYVrDvPEz/s6pMqcrMed/F/fMB2vDr42SmEMWxLvqDhC2D3NTFOBsyeWOlr56pWgO/l7lufTDM4gAnvQXvLN6UxG1EcmIE22xl/36JC0sITTVheJcWqHlDW+xWgLCXyrl6U=;8oSx0YIzg75mQdmaG7E+UA=="
+secured: "bvCTPEnNi14l/fTgsEdxlo6fKLuBzvILpFNr5C6Xf2gHusN2AANNTK67vHhExseZdYrOV7z0KloBxwG0jT+KC7CvF9dy1zHiB8hLQV3fyIddYzhbmH/MFPszsvO1hmoabZifHqLD2y0yGC4kg78gpjxt9QR8H/TLduPiK2XyuPGN1sn5oFUI3rhUNHL4wxN/kQ8jcdO9C0ubJnOLx0Mq7J9fQ1rn68QhN7W8KL/w+i7KE5uSfOP631S7Xt3hqbYx54iOR5DSueSxZ22qgk84KKDXjNMtIOzrp39gYWEoM5qkPxC08rL7DwI0h3VlfFu2R06sg2kBDDJWiaXYBb/2kPWB3SfzE+jRfe4IKIpa4Ns=;1UETywBSaYY5dF0Wt4HKkg=="
 ---
 

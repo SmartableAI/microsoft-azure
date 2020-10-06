@@ -1,12 +1,12 @@
 ---
 category: news
-title: "Granulate Launches Real-time Continuous Optimization Solution On Microsoft Azure Marketplace"
-excerpt: "Granulate, the leading provider of real-time continuous optimization solutions for server workload performance, is proud to announce its availability in the Microsoft"
-publishedDateTime: 2020-10-06T13:00:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/granulate-launches-real-time-continuous-optimization-solution-on-microsoft-azure-marketplace/article_190f285f-3d77-5572-818c-015780303762.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/granulate-launches-real-time-continuous-optimization-solution-on-microsoft-azure-marketplace/article_190f285f-3d77-5572-818c-015780303762.html"
+title: "Braze Reveals Multi-Cloud Support with Microsoft Azure to Help Brands Build Resilience into Customer Engagement Strategies"
+excerpt: "Braze, the comprehensive customer engagement platform, today announced several product and partnership updates that enable brands to build resilience into customer engagement strategies."
+publishedDateTime: 2020-10-06T15:08:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/braze-reveals-multi-cloud-support-with-microsoft-azure-to-help-brands-build-resilience-into-customer/article_3fa7875a-2785-5583-97bb-e6d47db9ba58.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/braze-reveals-multi-cloud-support-with-microsoft-azure-to-help-brands-build-resilience-into-customer/article_3fa7875a-2785-5583-97bb-e6d47db9ba58.html"
 type: article
-quality: 26
+quality: 0
 heat: -1
 published: false
 
@@ -16,12 +16,6 @@ provider:
 
 topics:
   - Azure
-
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/c/e1/ce1c5bc4-2af1-5b01-9b65-205e791e28d4/5f7c7229dcab8.image.jpg?resize=400%2C242"
-    width: 400
-    height: 242
-    isCached: true
 
 related:
   - title: "Microsoft's Azure AD authentication outage: What went wrong"
@@ -137,6 +131,20 @@ related:
         width: 620
         height: 355
         isCached: true
+  - title: "Granulate Launches Real-time Continuous Optimization Solution On Microsoft Azure Marketplace"
+    excerpt: "Granulate, the leading provider of real-time continuous optimization solutions for server workload performance, is proud to announce its availability in the Microsoft"
+    publishedDateTime: 2020-10-06T13:00:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/granulate-launches-real-time-continuous-optimization-solution-on-microsoft-azure-marketplace/article_190f285f-3d77-5572-818c-015780303762.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 26
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/c/e1/ce1c5bc4-2af1-5b01-9b65-205e791e28d4/5f7c7229dcab8.image.jpg?resize=400%2C242"
+        width: 400
+        height: 242
+        isCached: true
   - title: "odix joins the Microsoft Intelligent Security Association (MISA) program extending FileWall security logs to Microsoft Azure Sentinel"
     excerpt: "PRNewswire/ --  odix, the Israel based cyber security leader in Enterprise CDR (Content Disarm and Reconstruction) technology, has officially  joined"
     publishedDateTime: 2020-09-30T06:00:00Z
@@ -174,16 +182,7 @@ related:
       name: Help Net Security
       domain: helpnetsecurity.com
     quality: 1
-  - title: "Braze Reveals Multi-Cloud Support with Microsoft Azure to Help Brands Build Resilience into Customer Engagement Strategies"
-    excerpt: "Braze, the comprehensive customer engagement platform, today announced several product and partnership updates that enable brands to build resilience into customer engagement strategies."
-    publishedDateTime: 2020-10-06T15:08:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/braze-reveals-multi-cloud-support-with-microsoft-azure-to-help-brands-build-resilience-into-customer/article_3fa7875a-2785-5583-97bb-e6d47db9ba58.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 0
 
-secured: "HDFvx8x/tq8Azl5Emi5KRdxjk6SvTFo73NWu6xyVEGBq4O0Uy1EB7AzsYlYQ60riyCff9D7R7gXRMi9qi9JvZfjxC8aP2iq09iivIgPuImtH1gLACCgUVZXuCDew0LWmOloV7mXO6yFW76zkam2WOW57rTxwmQ9fKUfDA2Wi5NqWxQ2jrYM7ot004NwX+OUbc8CayuixAbv+c/vtNzzdgDp3NGzRpWbXywZpvVksyLOIvoVauuskvw8HHKauMcq7L2z6RXqtI0WvcHYQPs10WqwfA68DqQRxs8rONoHUMTK5NmOqsdNiQ75PMxm7dstfA3NH3CHPldSVYScV/zxX++0TjTO7jZddHH4dbwWQfiQ=;dSFWgURxH1CafqZzoOi+SA=="
+secured: "cJa/QnqhX88alNL9PhZhrRw7ICtlyFoDI9ybjme49WWBGV3fjGGzoyXMEYQV1E7HjLXly6uKK9kSDuKVxM71AFJksAMCo8dgR+cGHCGCvlJIQrxWiA3NMnGJpWTj4QgVJKHKOwmDmWeALS17LtrT/5hGwjep4uUDWI+/wbAIM76CJUFxjAzLXv25d86hED/EtfHMmRDN+4YLGFyC2z+hAcqR/IrFTG9DD4I/CddOs4z4mDvsFBR7mFlxHF19D0DsX4GPTWFkualTCj6drTC2xyB4XUswpMs+SEj2MMbuxwAL5mZKuEY0BFK7hB+qWaJNJ1SdcOTiOHSJxmlXIwqPvHr1iSG7R5HTRPE55GthsRIjsgt21kgQW8SxLWr/daKKnZUa7wr5iX9zdRm3uSo33VovHiUxEpd5RaNMtRp8UKwrdPJ/4mdHgCAObtyk3SKUvcKd8HHJBucNMstV7A/5p6TYYo8wgFQstX2GGQKWL1v/aMY7bFHLC2jzVb+UqWDVKSUZ/QxG1lZZavoQCzfbXQ==;xOG9WtQufCBfXJR4l9oruw=="
 ---
 

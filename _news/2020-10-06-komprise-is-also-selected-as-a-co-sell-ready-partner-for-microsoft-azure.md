@@ -1,12 +1,12 @@
 ---
 category: news
-title: "Granulate Launches Real-time Continuous Optimization Solution On Microsoft Azure Marketplace"
-excerpt: "Granulate, the leading provider of real-time continuous optimization solutions for server workload performance, is proud to announce its availability in the Microsoft"
-publishedDateTime: 2020-10-06T13:00:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/granulate-launches-real-time-continuous-optimization-solution-on-microsoft-azure-marketplace/article_190f285f-3d77-5572-818c-015780303762.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/granulate-launches-real-time-continuous-optimization-solution-on-microsoft-azure-marketplace/article_190f285f-3d77-5572-818c-015780303762.html"
+title: "Komprise is also selected as a co-sell ready partner for Microsoft Azure"
+excerpt: "PRNewswire/ -- Komprise, the leader in analytics-driven data management, today announced new capabilities for its Intelligent Data Management solution in Microsoft Azure. Customers can"
+publishedDateTime: 2020-10-06T14:32:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/komprise-addresses-demand-for-file-data-management-in-the-cloud-with-new-capabilities-for-microsoft/article_bc4626e6-afb0-509f-bd07-5e427ca23b02.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/komprise-addresses-demand-for-file-data-management-in-the-cloud-with-new-capabilities-for-microsoft/article_bc4626e6-afb0-509f-bd07-5e427ca23b02.html"
 type: article
-quality: 26
+quality: 36
 heat: -1
 published: false
 
@@ -18,9 +18,9 @@ topics:
   - Azure
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/c/e1/ce1c5bc4-2af1-5b01-9b65-205e791e28d4/5f7c7229dcab8.image.jpg?resize=400%2C242"
-    width: 400
-    height: 242
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+    width: 1280
+    height: 720
     isCached: true
 
 related:
@@ -95,20 +95,6 @@ related:
         width: 549
         height: 309
         isCached: true
-  - title: "Komprise is also selected as a co-sell ready partner for Microsoft Azure"
-    excerpt: "PRNewswire/ -- Komprise, the leader in analytics-driven data management, today announced new capabilities for its Intelligent Data Management solution in Microsoft Azure. Customers can"
-    publishedDateTime: 2020-10-06T14:32:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/komprise-addresses-demand-for-file-data-management-in-the-cloud-with-new-capabilities-for-microsoft/article_bc4626e6-afb0-509f-bd07-5e427ca23b02.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 36
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Ooredoo enables digital transformation with connectivity solution to Microsoft Azure"
     excerpt: "Ooredoo has announced the launch of Ooredoo Cloud Connect to Microsoft Azure to provide Qatar’s organisations with secure, reliable, and affordable cloud connectivity services to drive digital transfo"
     publishedDateTime: 2020-10-04T17:05:00Z
@@ -136,6 +122,20 @@ related:
       - url: "https://menafn.com/updates/pr/2020-10/04/GT_53bdb450-1image_story.jpg"
         width: 620
         height: 355
+        isCached: true
+  - title: "Granulate Launches Real-time Continuous Optimization Solution On Microsoft Azure Marketplace"
+    excerpt: "Granulate, the leading provider of real-time continuous optimization solutions for server workload performance, is proud to announce its availability in the Microsoft"
+    publishedDateTime: 2020-10-06T13:00:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/granulate-launches-real-time-continuous-optimization-solution-on-microsoft-azure-marketplace/article_190f285f-3d77-5572-818c-015780303762.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 26
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/c/e1/ce1c5bc4-2af1-5b01-9b65-205e791e28d4/5f7c7229dcab8.image.jpg?resize=400%2C242"
+        width: 400
+        height: 242
         isCached: true
   - title: "odix joins the Microsoft Intelligent Security Association (MISA) program extending FileWall security logs to Microsoft Azure Sentinel"
     excerpt: "PRNewswire/ --  odix, the Israel based cyber security leader in Enterprise CDR (Content Disarm and Reconstruction) technology, has officially  joined"
@@ -184,6 +184,6 @@ related:
       domain: wfmz.com
     quality: 0
 
-secured: "HDFvx8x/tq8Azl5Emi5KRdxjk6SvTFo73NWu6xyVEGBq4O0Uy1EB7AzsYlYQ60riyCff9D7R7gXRMi9qi9JvZfjxC8aP2iq09iivIgPuImtH1gLACCgUVZXuCDew0LWmOloV7mXO6yFW76zkam2WOW57rTxwmQ9fKUfDA2Wi5NqWxQ2jrYM7ot004NwX+OUbc8CayuixAbv+c/vtNzzdgDp3NGzRpWbXywZpvVksyLOIvoVauuskvw8HHKauMcq7L2z6RXqtI0WvcHYQPs10WqwfA68DqQRxs8rONoHUMTK5NmOqsdNiQ75PMxm7dstfA3NH3CHPldSVYScV/zxX++0TjTO7jZddHH4dbwWQfiQ=;dSFWgURxH1CafqZzoOi+SA=="
+secured: "KYf4cM95SWZEa2/DbZpoosGd9cYh1Tv/NzqVoytlrBa01w2lgzac5Q5vysmpFFxMYRBDwZd0MNuNfsPyk7LomJJK8vd3R8k4jGE4AmqwrNScZpN84xaZt2U7y7nPeUGypeC1DAUCIVsQeP0R5htLoGwf8SagjAYrfmhheNY5C0XiSvUokGHPj/5w8fcYnaOa/5tU2Kyz6juEeAPUvtEIGh5y13pmq7SSXBMm1jDuM9sDS8Y6hJoArmxrtXeIuZkhw1cbw6kDhIVJDWac5N0+dBm2JcqULDoCtNSrTN7i4NiGCEf9GNZ6DL9H8xGJI/odFmB4jFx1gUm/YAvGslY3qj2iajEMDg9aveEKYfx434c=;2iRzoWEAdW53hdYaCjevXw=="
 ---
 

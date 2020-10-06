@@ -56,6 +56,15 @@ related:
         width: 800
         height: 420
         isCached: true
+  - title: "Microsoft partners expand the range of mission-critical applications you can run on Azure"
+    excerpt: "In the past few years, IT organizations have been realizing compelling benefits when they transitioned their business-critical applications to the cloud, enabling them to address the top challenges they face with running the same applications on premises."
+    publishedDateTime: 2020-10-06T08:00:01Z
+    webUrl: "https://azure.microsoft.com/blog/microsoft-partners-expand-the-range-of-missioncritical-applications-you-can-run-on-azure/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 58
   - title: "Microsoft Expands Azure Cloud Reach with Major Investment in Greece"
     excerpt: "Microsoft says Azure cloud data centers will be built in Greece, helping to boost the country’s economy in coming years."
     publishedDateTime: 2020-10-05T14:10:00Z
@@ -86,6 +95,20 @@ related:
         width: 549
         height: 309
         isCached: true
+  - title: "Komprise is also selected as a co-sell ready partner for Microsoft Azure"
+    excerpt: "PRNewswire/ -- Komprise, the leader in analytics-driven data management, today announced new capabilities for its Intelligent Data Management solution in Microsoft Azure. Customers can"
+    publishedDateTime: 2020-10-06T14:32:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/komprise-addresses-demand-for-file-data-management-in-the-cloud-with-new-capabilities-for-microsoft/article_bc4626e6-afb0-509f-bd07-5e427ca23b02.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 36
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Ooredoo enables digital transformation with connectivity solution to Microsoft Azure"
     excerpt: "Ooredoo has announced the launch of Ooredoo Cloud Connect to Microsoft Azure to provide Qatar’s organisations with secure, reliable, and affordable cloud connectivity services to drive digital transfo"
     publishedDateTime: 2020-10-04T17:05:00Z
@@ -101,18 +124,18 @@ related:
         height: 355
         isCached: true
   - title: "Granulate Launches Real-time Continuous Optimization Solution On Microsoft Azure Marketplace"
-    excerpt: "PRNewswire/ -- Granulate, the leading provider of real-time continuous optimization solutions for server workload performance, is proud to announce"
-    publishedDateTime: 2020-10-06T13:20:00Z
-    webUrl: "https://www.prnewswire.com/il/news-releases/granulate-launches-real-time-continuous-optimization-solution-on-microsoft-azure-marketplace-301146545.html"
+    excerpt: "Granulate, the leading provider of real-time continuous optimization solutions for server workload performance, is proud to announce its availability in the Microsoft"
+    publishedDateTime: 2020-10-06T13:00:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/granulate-launches-real-time-continuous-optimization-solution-on-microsoft-azure-marketplace/article_190f285f-3d77-5572-818c-015780303762.html"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
+      name: WFMZ-TV
+      domain: wfmz.com
     quality: 26
     images:
-      - url: "https://mma.prnewswire.com/media/1307928/Granulate_Azure.jpg?p=facebook"
-        width: 1984
-        height: 1039
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/c/e1/ce1c5bc4-2af1-5b01-9b65-205e791e28d4/5f7c7229dcab8.image.jpg?resize=400%2C242"
+        width: 400
+        height: 242
         isCached: true
   - title: "odix joins the Microsoft Intelligent Security Association (MISA) program extending FileWall security logs to Microsoft Azure Sentinel"
     excerpt: "PRNewswire/ --  odix, the Israel based cyber security leader in Enterprise CDR (Content Disarm and Reconstruction) technology, has officially  joined"
@@ -151,6 +174,15 @@ related:
       name: Help Net Security
       domain: helpnetsecurity.com
     quality: 1
+  - title: "Braze Reveals Multi-Cloud Support with Microsoft Azure to Help Brands Build Resilience into Customer Engagement Strategies"
+    excerpt: "Braze, the comprehensive customer engagement platform, today announced several product and partnership updates that enable brands to build resilience into customer engagement strategies."
+    publishedDateTime: 2020-10-06T15:08:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/braze-reveals-multi-cloud-support-with-microsoft-azure-to-help-brands-build-resilience-into-customer/article_3fa7875a-2785-5583-97bb-e6d47db9ba58.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 0
 
 secured: "CDDt6vykG+GgJEIJ7PAcuKKi6VI2orlTu2kNfnUrhMxRtHr9I1Rh7TyvBNxN74yh6wQMdFHthxwkd0vKnjp/DbeXv5SAFH7v+A5dOlaHGvCt6L7lloRDkdiP2l63L11G9Ce1UEbnqefHC7EBj7FvMmxknt3QkLgvMJjnOZZmjgGCxaT09ITthJVrZJ26b1O+5TYFXDl+4dsus4972aNj1bCfugBgAXG+NrwLrLScI8PUZAL5/EmpsM9HRa0XoQlHoG5by2XF02ax/v+Or+tjpECAAec2siovYb+w58M8vUsJHxLJCfn28a+hzX2DUHFZxYJRPMScZ2TY/nX12E0wh/oWjUkUOBW46+huJND/abU=;HcRtHwMCqoKDR3m0SM6hvA=="
 ---

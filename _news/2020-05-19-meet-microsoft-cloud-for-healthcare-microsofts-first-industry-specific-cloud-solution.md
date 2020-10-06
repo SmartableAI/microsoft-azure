@@ -901,18 +901,18 @@ related:
       domain: benzinga.com
     quality: 37
   - title: "DH2i Now Available in the Microsoft Azure Marketplace"
-    excerpt: "FORT COLLINS, Colo., Sept. 22, 2020 /PRNewswire/ -- DH2i today announced the availability of DxEnterprise for Availability Groups in the Microsoft Azure Marketplace, an online store providing applications and services for use on Microsoft Azure. DH2i ..."
-    publishedDateTime: 2020-09-22T13:19:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/dh2i-now-available-in-the-microsoft-azure-marketplace-301134323.html"
+    excerpt: "FORT COLLINS, Colo., Sept. 22, 2020 /PRNewswire/ -- DH2i today announced the availability of DxEnterprise for Availability Groups in the Microsoft Azure Marketplace, an online store providing ..."
+    publishedDateTime: 2020-09-22T13:23:00Z
+    webUrl: "https://www.morningstar.com/news/pr-newswire/20200922la27955/dh2i-now-available-in-the-microsoft-azure-marketplace"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
+      name: Morningstar%2c Inc.
+      domain: morningstar.com
     quality: 37
     images:
-      - url: "https://mma.prnewswire.com/media/324010/dh2i_logo.jpg?p=facebook"
-        width: 1400
-        height: 732
+      - url: "https://mma.prnewswire.com/media/324010/dh2i_logo.jpg"
+        width: 400
+        height: 400
         isCached: true
   - title: "Cisco SD-WAN ‘Turbocharges’ Microsoft Office, Azure Environments"
     excerpt: "Cisco is deepening its existing relationship with Microsoft by extending Cisco SD-WAN within Microsoft Azure cloud and Microsoft Office 365 environments to improve user experiences, the vendors revealed this week at the Microsoft Ignite 2020 virtual conference."

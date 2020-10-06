@@ -1,27 +1,25 @@
 ---
 category: news
-title: "Granulate Launches Real-time Continuous Optimization Solution On Microsoft Azure Marketplace"
-excerpt: "Granulate, the leading provider of real-time continuous optimization solutions for server workload performance, is proud to announce its availability in the Microsoft"
-publishedDateTime: 2020-10-06T13:00:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/granulate-launches-real-time-continuous-optimization-solution-on-microsoft-azure-marketplace/article_190f285f-3d77-5572-818c-015780303762.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/granulate-launches-real-time-continuous-optimization-solution-on-microsoft-azure-marketplace/article_190f285f-3d77-5572-818c-015780303762.html"
+title: "Microsoft partners expand the range of mission-critical applications you can run on Azure"
+excerpt: "In the past few years, IT organizations have been realizing compelling benefits when they transitioned their business-critical applications to the cloud, enabling them to address the top challenges they face with running the same applications on premises."
+publishedDateTime: 2020-10-06T08:00:01Z
+originalUrl: "https://azure.microsoft.com/blog/microsoft-partners-expand-the-range-of-missioncritical-applications-you-can-run-on-azure/"
+webUrl: "https://azure.microsoft.com/blog/microsoft-partners-expand-the-range-of-missioncritical-applications-you-can-run-on-azure/"
 type: article
-quality: 26
+quality: 58
 heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Microsoft
+  domain: microsoft.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
-
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/c/e1/ce1c5bc4-2af1-5b01-9b65-205e791e28d4/5f7c7229dcab8.image.jpg?resize=400%2C242"
-    width: 400
-    height: 242
-    isCached: true
 
 related:
   - title: "Microsoft's Azure AD authentication outage: What went wrong"
@@ -56,15 +54,6 @@ related:
         width: 800
         height: 420
         isCached: true
-  - title: "Microsoft partners expand the range of mission-critical applications you can run on Azure"
-    excerpt: "In the past few years, IT organizations have been realizing compelling benefits when they transitioned their business-critical applications to the cloud, enabling them to address the top challenges they face with running the same applications on premises."
-    publishedDateTime: 2020-10-06T08:00:01Z
-    webUrl: "https://azure.microsoft.com/blog/microsoft-partners-expand-the-range-of-missioncritical-applications-you-can-run-on-azure/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 58
   - title: "Microsoft Expands Azure Cloud Reach with Major Investment in Greece"
     excerpt: "Microsoft says Azure cloud data centers will be built in Greece, helping to boost the country’s economy in coming years."
     publishedDateTime: 2020-10-05T14:10:00Z
@@ -137,6 +126,20 @@ related:
         width: 620
         height: 355
         isCached: true
+  - title: "Granulate Launches Real-time Continuous Optimization Solution On Microsoft Azure Marketplace"
+    excerpt: "Granulate, the leading provider of real-time continuous optimization solutions for server workload performance, is proud to announce its availability in the Microsoft"
+    publishedDateTime: 2020-10-06T13:00:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/granulate-launches-real-time-continuous-optimization-solution-on-microsoft-azure-marketplace/article_190f285f-3d77-5572-818c-015780303762.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 26
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/c/e1/ce1c5bc4-2af1-5b01-9b65-205e791e28d4/5f7c7229dcab8.image.jpg?resize=400%2C242"
+        width: 400
+        height: 242
+        isCached: true
   - title: "odix joins the Microsoft Intelligent Security Association (MISA) program extending FileWall security logs to Microsoft Azure Sentinel"
     excerpt: "PRNewswire/ --  odix, the Israel based cyber security leader in Enterprise CDR (Content Disarm and Reconstruction) technology, has officially  joined"
     publishedDateTime: 2020-09-30T06:00:00Z
@@ -184,6 +187,6 @@ related:
       domain: wfmz.com
     quality: 0
 
-secured: "HDFvx8x/tq8Azl5Emi5KRdxjk6SvTFo73NWu6xyVEGBq4O0Uy1EB7AzsYlYQ60riyCff9D7R7gXRMi9qi9JvZfjxC8aP2iq09iivIgPuImtH1gLACCgUVZXuCDew0LWmOloV7mXO6yFW76zkam2WOW57rTxwmQ9fKUfDA2Wi5NqWxQ2jrYM7ot004NwX+OUbc8CayuixAbv+c/vtNzzdgDp3NGzRpWbXywZpvVksyLOIvoVauuskvw8HHKauMcq7L2z6RXqtI0WvcHYQPs10WqwfA68DqQRxs8rONoHUMTK5NmOqsdNiQ75PMxm7dstfA3NH3CHPldSVYScV/zxX++0TjTO7jZddHH4dbwWQfiQ=;dSFWgURxH1CafqZzoOi+SA=="
+secured: "6+wXs/YpFIKUq+xwHjzN3cBTWxR+yzyVqEpMNdOqHWpbxu06oVU9D8eqbPvFVGTeTYl1MNlO5Q6/jGgN1N+kOAK7O4Q7yGZLd0ROYQWc3LXu4onkSspVDnTHCXjFLw4U17FVcEc9Usg66/jXjim9wH9Ik3gxTCsuKJsbY62hHzsYaT8ULY1Z25LZFjx8oEoGod+N826UUaiAcDJn9LBs2V5KRhC54w20XxwLONfc9o6ixp4ZNCcjZ518B7LXWpVYQj4EkdsNr5AJITJZ/dKyejIlepdHTmwHM4zdzQ7SnGjKmFWb4C8fNEPxHTw5CmIk3DHWY+Ov/A+dF2jy1Iej6HDdJXOYhC5kopUsxVQYhck=;SgflRrbxvvEWmvk+ig/44Q=="
 ---
 
