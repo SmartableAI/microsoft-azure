@@ -4,44 +4,6 @@
   "page": 16,
   "value": [
     {
-      "path": "_learning/videos/microsoft-how-to-use-the-azure-activity-log-azure-portal-series.md",
-      "title": "How to use the Azure Activity Log | Azure Portal Series",
-      "excerpt": "The Azure Activity Log informs you of the who, the what and the when for operations in your Azure resources. In this video of the Azure Portal “How To” Series, learn what activity logs are in the Azure Portal, how to access it, and how to make use of them.   Try out these features in the Azure portal:",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-how-to-use-the-azure-activity-log-azure-portal-series/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-how-to-use-the-azure-activity-log-azure-portal-series/",
-      "originalUrl": "https://youtube.com/watch?v=ACVpH6C_NL8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ACVpH6C_NL8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT4M9S",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2019-04-03T10:04:36-07:00",
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/ACVpH6C_NL8/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Management tools"
-      ]
-    },
-    {
       "path": "_learning/videos/microsoft-how-to-use-waf-to-protect-your-web-applications-with-azure-front-door-azure-tips-and-tricks.md",
       "title": "How to use WAF to protect your web applications with Azure Front Door | Azure Tips and Tricks",
       "excerpt": "In this video of Azure Tips and Tricks, you'll learn how to get started with Web Application Firewall (WAF) for Azure Front Door.  \r  For more tips and tricks, visit: http://azuredev.tips  Get started with 12 months of free services and $200 USD in credit. Create your free account today with Microsoft",
@@ -560,8 +522,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/responsible-ai-principles/",
           "length": "PT56M",
           "ratings": {
-            "count": 757,
-            "average": 4.7080584
+            "count": 759,
+            "average": 4.7088275
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1163,8 +1125,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/azure-well-architected-operational-excellence/",
       "length": "PT54M",
       "ratings": {
-        "count": 457,
-        "average": 4.6827135
+        "count": 458,
+        "average": 4.681223
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1370,8 +1332,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/configure-security-policies-to-manage-data/",
       "length": "PT39M",
       "ratings": {
-        "count": 1951,
-        "average": 4.5961046
+        "count": 1952,
+        "average": 4.5963116
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1727,6 +1689,48 @@
         "IoT",
         "Analytics",
         "Storage"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-data-estate-migration-and-modernization.md",
+      "title": "Microsoft data estate migration and modernization",
+      "excerpt": "Establishing a modern data estate is a foundational step toward digital transformation. A modern data estate enables timely insights and decision making across all your data, and sets the foundation for AI. A data estate is all of the data an organization owns. When you migrate this data to the cloud or modernize your environment on-premises you can gain important insights to fuel innovation.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-data-estate-migration-and-modernization/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/data-estate-migration-and-modernization/",
+      "length": "PT36M",
+      "ratings": {
+        "count": 4309,
+        "average": 4.7222095
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/data-estate-migration-and-modernization-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Migration"
       ]
     }
   ],

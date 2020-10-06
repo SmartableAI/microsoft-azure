@@ -4,48 +4,6 @@
   "page": 12,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-classify-images-custom-vision.md",
-      "title": "Classify images with the Custom Vision service",
-      "excerpt": "Image classification is a common workload in artificial intelligence (AI) applications. It harnesses the predictive power of machine learning to enable AI systems to identify real-world items based on images.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-classify-images-custom-vision/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/classify-images-custom-vision/",
-      "length": "PT34M",
-      "ratings": {
-        "count": 273,
-        "average": 4.747253
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 53,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/classify-images-custom-vision-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "AI"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-communicate-between-applications-with-azure-queue-storage.md",
       "title": "Communicate between applications with Azure Queue storage",
       "excerpt": "Find out to use Azure Queue storage to handle high demand and improve resilience in your distributed applications.",
@@ -87,8 +45,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/configure-and-manage-azure-key-vault/",
       "length": "PT29M",
       "ratings": {
-        "count": 1879,
-        "average": 4.605109
+        "count": 1880,
+        "average": 4.605319
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -214,8 +172,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/define-foundation-pillars/",
       "length": "PT16M",
       "ratings": {
-        "count": 894,
-        "average": 4.7181206
+        "count": 895,
+        "average": 4.7139664
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -290,8 +248,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/develop-app-that-queries-azure-sql/",
       "length": "PT50M",
       "ratings": {
-        "count": 2537,
-        "average": 4.5301538
+        "count": 2538,
+        "average": 4.530339
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -442,8 +400,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/explore-devops-continuous-security-operations/",
       "length": "PT22M",
       "ratings": {
-        "count": 590,
-        "average": 4.684746
+        "count": 591,
+        "average": 4.6852794
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -722,8 +680,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/route-and-process-data-logic-apps/",
       "length": "PT56M",
       "ratings": {
-        "count": 1500,
-        "average": 4.530667
+        "count": 1501,
+        "average": 4.530979
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -767,8 +725,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/secure-network-connectivity-azure/",
       "length": "PT32M",
       "ratings": {
-        "count": 27,
-        "average": 4.888889
+        "count": 29,
+        "average": 4.7586207
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -808,8 +766,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/serverless-fundamentals/",
       "length": "PT20M",
       "ratings": {
-        "count": 22,
-        "average": 4.7272725
+        "count": 23,
+        "average": 4.7391305
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1191,6 +1149,43 @@
       "topics": [
         "Azure",
         "Containers"
+      ]
+    },
+    {
+      "path": "_learning/videos/microsoft-how-to-set-up-an-azure-pipeline-with-node-js-azure-tips-and-tricks.md",
+      "title": "How to set up an Azure pipeline with Node JS | Azure Tips and Tricks",
+      "excerpt": "In this edition of Azure Tips and Tricks, you'll learn how to create an Azure Pipeline for a Node.js application. Setting up a continuous integration process that automatically builds and tests your node.js code is very easy with Azure pipelines.   For more tips and tricks, visit: http://azuredev.tips",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-how-to-set-up-an-azure-pipeline-with-node-js-azure-tips-and-tricks/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-how-to-set-up-an-azure-pipeline-with-node-js-azure-tips-and-tricks/",
+      "originalUrl": "https://youtube.com/watch?v=z_4sMQKE_zw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/z_4sMQKE_zw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3M36S",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2019-11-26T08:05:18-08:00",
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/z_4sMQKE_zw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Azure"
       ]
     }
   ],
