@@ -3,8 +3,8 @@ category: news
 title: "Microsoft Office 365, Azure Cloud Disrupted by Service Issues"
 excerpt: "The company said problems included some users of its Outlook email services and Teams workplace collaboration suite that provides chat functionality and videoconferencing."
 publishedDateTime: 2020-09-29T06:54:00Z
-originalUrl: "https://www.wsj.com/articles/microsoft-office-365-azure-cloud-disrupted-by-service-issues-11601344440"
-webUrl: "https://www.wsj.com/articles/microsoft-office-365-azure-cloud-disrupted-by-service-issues-11601344440"
+originalUrl: "https://www.wsj.com/articles/microsoft-office-365-azure-cloud-disrupted-by-service-issues-11601344440?mod=newsviewer_click"
+webUrl: "https://www.wsj.com/articles/microsoft-office-365-azure-cloud-disrupted-by-service-issues-11601344440?mod=newsviewer_click"
 ampWebUrl: "https://www.wsj.com/amp/articles/microsoft-office-365-azure-cloud-disrupted-by-service-issues-11601344440"
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/microsoft-office-365-azure-cloud-disrupted-by-service-issues-11601344440"
 type: article
@@ -1550,6 +1550,6 @@ related:
         height: 450
         isCached: true
 
-secured: "UzykSD9EtngOEZ711Ze2oF23ZVTULMz4bhVVStpmPubDcmOgJti21dCDxlPTrzneXNIP8uLAYD7suYHyr7jVqN9efkvFlJdZ6ozSsftVExfK5b7q+OXVZCHiWKssPUoEvHMa98quZ7l6DfBH2sDnFCXnJvbiyL3ve6erWUqeEhiD0ctocyNlyA0j8aaSlKzGW6hgh0HrxnMmNe1ZEbtBzOUd12f8BwB49QkHgC5KW9xCM41SUiMViiv/7qNGONFZD9I5G0R+1GtPFY/PeOaliR3OK1YNTqyU35+ZGsxPEySruScCyE+Xni45qW+qXUxKp12R8isp4coQx3YguL+011apsrEqQSV3FB4Vu8C4vMNJSU3lO4AXUITVkELrufTJEWsCmQu5OEqc84CcNpNq5fdXaAQ50jP4cbER94M7tSibC+fj1b1PjGDyY0U/hGmyzB3mrLuC1NMEOQ1VB6oIT1lFye0jFvZu29vykEdHYdxQ8bhFFW2PEEXSuOW/ct54GV33iROyt5k0kgEQc+TqnQ==;Ac1kgGXF0m0woUmBt5sSmw=="
+secured: "G4LSX2PAa0wGX2oMiAbIwUYL3ASwgUCuCcF/T9FGAqotuT6lA3+MYeEKCewQr2zT/i5jN0ncdbUdfRVyJ25iRytS4TWQd7X6x5fNmbUvxBm0P4a1HMmEvXkFjJxjfCJN1MJRl1FoZrDzDtyyk8jCKMdRBg/kzd7kKJOEogFwGUtZT8GzljPeoJewqfGZZRYTn/kSQAzlTN3UyOfu0fqe8XI0X3tIMxaX3ZRyZrPP9E7UnKHWo1jlXItzAS03iCie2EiqpbnWnZ3huPUq7WhSinySWhQignTF7OakaNCEVRoC7jvhLRe+EjyeOy4t2Ybl8EiOZrCbV34/zRJJII9kyvnCyoCBOdxbRmlzkJVUVng=;QZ07R/yF0DozgFRywczszw=="
 ---
 
