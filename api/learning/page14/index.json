@@ -4,48 +4,6 @@
   "page": 14,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-intro-to-iot.md",
-      "title": "Introduction to Azure IoT",
-      "excerpt": "University of Oxford",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-to-iot/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/introduction-iot/",
-      "length": "PT31M",
-      "ratings": {
-        "count": 451,
-        "average": 4.6895785
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/student-evangelism/introduction-to-iot-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "IoT"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-intro-to-nodejs.md",
       "title": "Introduction to Node.js",
       "excerpt": "Learn about Node.js: what it is, how it works, and when to use it.",
@@ -94,8 +52,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/introduction-python-nasa/",
       "length": "PT23M",
       "ratings": {
-        "count": 589,
-        "average": 4.7249575
+        "count": 590,
+        "average": 4.725424
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -260,8 +218,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/manage-iot-devices/",
       "length": "PT44M",
       "ratings": {
-        "count": 918,
-        "average": 4.675381
+        "count": 919,
+        "average": 4.6757345
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -335,8 +293,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/monitor-report-aad-security-events/",
       "length": "PT35M",
       "ratings": {
-        "count": 151,
-        "average": 4.5960264
+        "count": 152,
+        "average": 4.5986843
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -620,8 +578,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/query-relational-data/",
       "length": "PT40M",
       "ratings": {
-        "count": 266,
-        "average": 4.755639
+        "count": 267,
+        "average": 4.756554
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -872,8 +830,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/secure-aspnet-core-identity/",
       "length": "PT1H8M",
       "ratings": {
-        "count": 770,
-        "average": 4.461039
+        "count": 771,
+        "average": 4.461738
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1234,6 +1192,47 @@
       "topics": [
         "Azure",
         "Storage"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-upload-project-github.md",
+      "title": "Upload your project by using GitHub best practices",
+      "excerpt": "Learn to upload your existing project to GitHub.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-upload-project-github/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/upload-project-github/",
+      "length": "PT43M",
+      "ratings": {
+        "count": 141,
+        "average": 4.680851
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/github/upload-project-github-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
       ]
     }
   ],

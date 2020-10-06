@@ -4,12 +4,12 @@
   "page": 1,
   "value": [
     {
-      "path": "_learning/collections/microsoft-learn-az-400-develop-an-instrumentation-strategy.md",
-      "title": "AZ-400: Develop an instrumentation strategy",
-      "excerpt": "Develop an effective instrumentation strategy through logging, telemetry, and monitoring and prepare for Exam AZ-400: Designing and Implementing Microsoft DevOps Solutions.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-az-400-develop-an-instrumentation-strategy/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-az-400-develop-an-instrumentation-strategy/",
-      "length": "PT9H41M",
+      "path": "_learning/collections/microsoft-learn-architect-modern-applications-in-azure.md",
+      "title": "Architect modern applications in Azure",
+      "excerpt": "Learn how to build modern applications using PaaS services for applications, caching, containers and Kubernetes in Azure.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-architect-modern-applications-in-azure/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-architect-modern-applications-in-azure/",
+      "length": "PT6H27M",
       "provider": {
         "name": "Microsoft Learn",
         "domain": "microsoft.com",
@@ -23,19 +23,19 @@
         ]
       },
       "levels": [
-        "Beginner"
+        "Intermediate"
       ],
       "topItems": [
         {
-          "path": "_learning/courses/microsoft-learn-capture-application-logs-app-service.md",
-          "title": "Capture Web Application Logs with App Service Diagnostics Logging",
-          "excerpt": "Learn about how to capture trace output from your Azure web apps. View a live log stream and download logs files for offline analysis.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-capture-application-logs-app-service/index.json",
-          "webUrl": "https://docs.microsoft.com/learn/modules/capture-application-logs-app-service/",
-          "length": "PT55M",
+          "path": "_learning/courses/microsoft-learn-intro-to-containers.md",
+          "title": "Build a containerized web application with Docker",
+          "excerpt": "Learn how to use Docker to build, store, and manage private container images with the Azure Container Registry.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-to-containers/index.json",
+          "webUrl": "https://docs.microsoft.com/learn/modules/intro-to-containers/",
+          "length": "PT57M",
           "ratings": {
-            "count": 1182,
-            "average": 4.614213
+            "count": 2801,
+            "average": 4.607997
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -52,32 +52,23 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 117,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/capture-application-logs-app-service-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
+          "heat": 112,
           "type": "course",
           "price": "Free",
           "topics": [
-            "Azure",
-            "Compute"
+            "Azure"
           ]
         },
         {
-          "path": "_learning/courses/microsoft-learn-control-and-organize-with-resource-manager.md",
-          "title": "Control and organize Azure resources with Azure Resource Manager",
-          "excerpt": "Use Azure Resource Manager to organize resources, enforce standards, and protect critical assets from deletion.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-control-and-organize-with-resource-manager/index.json",
-          "webUrl": "https://docs.microsoft.com/learn/modules/control-and-organize-with-azure-resource-manager/",
-          "length": "PT46M",
+          "path": "_learning/courses/microsoft-learn-run-docker-containers-aci.md",
+          "title": "Run Docker containers with Azure Container Instances",
+          "excerpt": "Learn how to run and troubleshoot containerized apps using Docker containers with Azure Container Instances.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-run-docker-containers-aci/index.json",
+          "webUrl": "https://docs.microsoft.com/learn/modules/run-docker-with-azure-container-instances/",
+          "length": "PT48M",
           "ratings": {
-            "count": 38432,
-            "average": 4.7132077
+            "count": 5527,
+            "average": 4.7112355
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -94,67 +85,25 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 101,
+          "heat": 159,
           "type": "course",
           "price": "Free",
           "topics": [
             "Azure",
-            "Management Tools"
+            "Containers",
+            "Databases"
           ]
         },
         {
-          "path": "_learning/courses/microsoft-learn-intro-to-app-center.md",
-          "title": "Introduction to App Center",
-          "excerpt": "Explore Azure App services to find ways to simplify creation and integration as you build, distribute, test, and analyze usage of yours apps.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-to-app-center/index.json",
-          "webUrl": "https://docs.microsoft.com/learn/modules/intro-to-app-center/",
+          "path": "_learning/courses/microsoft-learn-azure-container-registry.md",
+          "title": "Build and store container images with Azure Container Registry",
+          "excerpt": "Learn how to use Docker to build, store, and manage private container images with the Azure Container Registry.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-azure-container-registry/index.json",
+          "webUrl": "https://docs.microsoft.com/learn/modules/build-and-store-container-images/",
           "length": "PT49M",
           "ratings": {
-            "count": 301,
-            "average": 4.548173
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 54,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/app-center/introduction-to-app-center-badge-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Management Tools",
-            "Mobile"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-azure-spring-cloud-workshop.md",
-          "title": "Azure Spring Cloud workshop",
-          "excerpt": "In this workshop, you'll go through tasks to deploy Spring Boot microservices to Azure Spring Cloud (ASC).",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-azure-spring-cloud-workshop/index.json",
-          "webUrl": "https://docs.microsoft.com/learn/modules/azure-spring-cloud-workshop/",
-          "length": "PT1H24M",
-          "ratings": {
-            "count": 153,
-            "average": 4.3071895
+            "count": 2331,
+            "average": 4.608752
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -176,35 +125,55 @@
           "price": "Free",
           "topics": [
             "Azure",
+            "Containers"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-host-a-web-application-with-azure-web-apps.md",
+          "title": "Host a web application with Azure App service",
+          "excerpt": "Create a website in the programming language of your choice through the hosted web app platform in Azure App Service.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-host-a-web-application-with-azure-web-apps/index.json",
+          "webUrl": "https://docs.microsoft.com/learn/modules/host-a-web-app-with-azure-app-service/",
+          "length": "PT58M",
+          "ratings": {
+            "count": 5129,
+            "average": 4.6040163
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 54,
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
             "Compute",
-            "Web"
+            "Web",
+            "Management Tools"
           ]
         }
       ],
-      "size": 12,
-      "heat": 121,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/capture-application-logs-app-service-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
+      "size": 8,
+      "heat": 134,
       "type": "collection",
       "price": "Free",
       "topics": [
         "Azure",
-        "Management Tools",
-        "DevOps",
-        "Integration",
-        "IoT",
-        "Security",
-        "Compute",
-        "Web",
         "Containers",
-        "Serverless",
-        "Blockchain"
+        "Compute",
+        "Web"
       ]
     },
     {
@@ -215,8 +184,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/intro-to-azure-compute/",
       "length": "PT38M",
       "ratings": {
-        "count": 63711,
-        "average": 4.7104583
+        "count": 63717,
+        "average": 4.7104225
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -355,8 +324,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/host-domain-azure-dns/",
           "length": "PT43M",
           "ratings": {
-            "count": 2395,
-            "average": 4.829645
+            "count": 2404,
+            "average": 4.829035
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -397,8 +366,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/integrate-vnets-with-vnet-peering/",
           "length": "PT42M",
           "ratings": {
-            "count": 2595,
-            "average": 4.7206163
+            "count": 2597,
+            "average": 4.7204466
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -482,8 +451,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/design-your-migration-to-azure/",
           "length": "PT44M",
           "ratings": {
-            "count": 1480,
-            "average": 4.6263514
+            "count": 1482,
+            "average": 4.6268554
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -608,8 +577,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/protect-virtual-machines-with-azure-backup/",
           "length": "PT35M",
           "ratings": {
-            "count": 3880,
-            "average": 4.7417526
+            "count": 3905,
+            "average": 4.7428937
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -699,8 +668,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/intro-to-azure-ad/",
           "length": "PT27M",
           "ratings": {
-            "count": 1597,
-            "average": 4.6812773
+            "count": 1599,
+            "average": 4.681051
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -783,8 +752,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/authenticate-apps-with-managed-identities/",
           "length": "PT1H6M",
           "ratings": {
-            "count": 130,
-            "average": 4.5153847
+            "count": 131,
+            "average": 4.519084
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -824,8 +793,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/configure-and-manage-azure-key-vault/",
           "length": "PT29M",
           "ratings": {
-            "count": 1877,
-            "average": 4.604688
+            "count": 1879,
+            "average": 4.605109
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -957,8 +926,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/top-5-security-items-to-consider/",
           "length": "PT45M",
           "ratings": {
-            "count": 6234,
-            "average": 4.646936
+            "count": 6235,
+            "average": 4.6469927
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -991,8 +960,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/create-security-baselines/",
           "length": "PT60M",
           "ratings": {
-            "count": 2244,
-            "average": 4.6354723
+            "count": 2246,
+            "average": 4.6353517
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1115,8 +1084,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/intro-to-security-in-azure/",
           "length": "PT1H16M",
           "ratings": {
-            "count": 44822,
-            "average": 4.7041187
+            "count": 44833,
+            "average": 4.704124
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1150,8 +1119,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/create-security-baselines/",
           "length": "PT60M",
           "ratings": {
-            "count": 2244,
-            "average": 4.6354723
+            "count": 2246,
+            "average": 4.6353517
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1192,8 +1161,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/identify-threats-with-azure-security-center/",
           "length": "PT43M",
           "ratings": {
-            "count": 771,
-            "average": 4.69131
+            "count": 772,
+            "average": 4.69171
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1291,12 +1260,12 @@
       ]
     },
     {
-      "path": "_learning/collections/microsoft-learn-architect-modern-applications-in-azure.md",
-      "title": "Architect modern applications in Azure",
-      "excerpt": "Learn how to build modern applications using PaaS services for applications, caching, containers and Kubernetes in Azure.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-architect-modern-applications-in-azure/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-architect-modern-applications-in-azure/",
-      "length": "PT6H27M",
+      "path": "_learning/collections/microsoft-learn-az-400-develop-an-instrumentation-strategy.md",
+      "title": "AZ-400: Develop an instrumentation strategy",
+      "excerpt": "Develop an effective instrumentation strategy through logging, telemetry, and monitoring and prepare for Exam AZ-400: Designing and Implementing Microsoft DevOps Solutions.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-az-400-develop-an-instrumentation-strategy/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-az-400-develop-an-instrumentation-strategy/",
+      "length": "PT9H41M",
       "provider": {
         "name": "Microsoft Learn",
         "domain": "microsoft.com",
@@ -1310,19 +1279,19 @@
         ]
       },
       "levels": [
-        "Intermediate"
+        "Beginner"
       ],
       "topItems": [
         {
-          "path": "_learning/courses/microsoft-learn-intro-to-containers.md",
-          "title": "Build a containerized web application with Docker",
-          "excerpt": "Learn how to use Docker to build, store, and manage private container images with the Azure Container Registry.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-to-containers/index.json",
-          "webUrl": "https://docs.microsoft.com/learn/modules/intro-to-containers/",
-          "length": "PT57M",
+          "path": "_learning/courses/microsoft-learn-capture-application-logs-app-service.md",
+          "title": "Capture Web Application Logs with App Service Diagnostics Logging",
+          "excerpt": "Learn about how to capture trace output from your Azure web apps. View a live log stream and download logs files for offline analysis.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-capture-application-logs-app-service/index.json",
+          "webUrl": "https://docs.microsoft.com/learn/modules/capture-application-logs-app-service/",
+          "length": "PT55M",
           "ratings": {
-            "count": 2801,
-            "average": 4.607997
+            "count": 1182,
+            "average": 4.614213
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1339,23 +1308,32 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 52,
+          "heat": 57,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/capture-application-logs-app-service-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
           "type": "course",
           "price": "Free",
           "topics": [
-            "Azure"
+            "Azure",
+            "Compute"
           ]
         },
         {
-          "path": "_learning/courses/microsoft-learn-run-docker-containers-aci.md",
-          "title": "Run Docker containers with Azure Container Instances",
-          "excerpt": "Learn how to run and troubleshoot containerized apps using Docker containers with Azure Container Instances.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-run-docker-containers-aci/index.json",
-          "webUrl": "https://docs.microsoft.com/learn/modules/run-docker-with-azure-container-instances/",
-          "length": "PT48M",
+          "path": "_learning/courses/microsoft-learn-control-and-organize-with-resource-manager.md",
+          "title": "Control and organize Azure resources with Azure Resource Manager",
+          "excerpt": "Use Azure Resource Manager to organize resources, enforce standards, and protect critical assets from deletion.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-control-and-organize-with-resource-manager/index.json",
+          "webUrl": "https://docs.microsoft.com/learn/modules/control-and-organize-with-azure-resource-manager/",
+          "length": "PT46M",
           "ratings": {
-            "count": 5504,
-            "average": 4.710756
+            "count": 38442,
+            "average": 4.71323
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1372,25 +1350,67 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 159,
+          "heat": 101,
           "type": "course",
           "price": "Free",
           "topics": [
             "Azure",
-            "Containers",
-            "Databases"
+            "Management Tools"
           ]
         },
         {
-          "path": "_learning/courses/microsoft-learn-azure-container-registry.md",
-          "title": "Build and store container images with Azure Container Registry",
-          "excerpt": "Learn how to use Docker to build, store, and manage private container images with the Azure Container Registry.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-azure-container-registry/index.json",
-          "webUrl": "https://docs.microsoft.com/learn/modules/build-and-store-container-images/",
+          "path": "_learning/courses/microsoft-learn-intro-to-app-center.md",
+          "title": "Introduction to App Center",
+          "excerpt": "Explore Azure App services to find ways to simplify creation and integration as you build, distribute, test, and analyze usage of yours apps.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-to-app-center/index.json",
+          "webUrl": "https://docs.microsoft.com/learn/modules/intro-to-app-center/",
           "length": "PT49M",
           "ratings": {
-            "count": 2331,
-            "average": 4.608752
+            "count": 301,
+            "average": 4.548173
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 54,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/app-center/introduction-to-app-center-badge-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Management Tools",
+            "Mobile"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-azure-spring-cloud-workshop.md",
+          "title": "Azure Spring Cloud workshop",
+          "excerpt": "In this workshop, you'll go through tasks to deploy Spring Boot microservices to Azure Spring Cloud (ASC).",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-azure-spring-cloud-workshop/index.json",
+          "webUrl": "https://docs.microsoft.com/learn/modules/azure-spring-cloud-workshop/",
+          "length": "PT1H24M",
+          "ratings": {
+            "count": 153,
+            "average": 4.3071895
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1412,55 +1432,35 @@
           "price": "Free",
           "topics": [
             "Azure",
-            "Containers"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-host-a-web-application-with-azure-web-apps.md",
-          "title": "Host a web application with Azure App service",
-          "excerpt": "Create a website in the programming language of your choice through the hosted web app platform in Azure App Service.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-host-a-web-application-with-azure-web-apps/index.json",
-          "webUrl": "https://docs.microsoft.com/learn/modules/host-a-web-app-with-azure-app-service/",
-          "length": "PT58M",
-          "ratings": {
-            "count": 5129,
-            "average": 4.6040163
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 54,
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
             "Compute",
-            "Web",
-            "Management Tools"
+            "Web"
           ]
         }
       ],
-      "size": 8,
-      "heat": 64,
+      "size": 12,
+      "heat": 68,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/capture-application-logs-app-service-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
       "type": "collection",
       "price": "Free",
       "topics": [
         "Azure",
-        "Containers",
+        "Management Tools",
+        "DevOps",
+        "Integration",
+        "IoT",
+        "Security",
         "Compute",
-        "Web"
+        "Web",
+        "Containers",
+        "Serverless",
+        "Blockchain"
       ]
     },
     {
@@ -1623,8 +1623,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/control-authentication-with-apim/",
           "length": "PT55M",
           "ratings": {
-            "count": 1550,
-            "average": 4.6354837
+            "count": 1551,
+            "average": 4.635719
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1708,8 +1708,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/intro-to-azure-fundamentals/",
           "length": "PT36M",
           "ratings": {
-            "count": 357,
-            "average": 4.767507
+            "count": 360,
+            "average": 4.7694445
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1794,8 +1794,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/azure-compute-fundamentals/",
           "length": "PT52M",
           "ratings": {
-            "count": 51,
-            "average": 4.7058825
+            "count": 52,
+            "average": 4.7115383
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1838,8 +1838,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/azure-storage-fundamentals/",
           "length": "PT27M",
           "ratings": {
-            "count": 43,
-            "average": 4.837209
+            "count": 44,
+            "average": 4.818182
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1928,8 +1928,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/azure-well-architected-introduction/",
           "length": "PT1H4M",
           "ratings": {
-            "count": 946,
-            "average": 4.729387
+            "count": 947,
+            "average": 4.7296724
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2317,8 +2317,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/build-serverless-api-with-functions-api-management/",
       "length": "PT41M",
       "ratings": {
-        "count": 1141,
-        "average": 4.6126204
+        "count": 1142,
+        "average": 4.6112084
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2410,8 +2410,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/control-authentication-with-apim/",
       "length": "PT55M",
       "ratings": {
-        "count": 1550,
-        "average": 4.6354837
+        "count": 1551,
+        "average": 4.635719
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2519,8 +2519,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/migrate-sql-server-relational-data/",
           "length": "PT1H24M",
           "ratings": {
-            "count": 817,
-            "average": 4.370869
+            "count": 818,
+            "average": 4.3716383
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2689,8 +2689,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/azure-compute-fundamentals/",
       "length": "PT52M",
       "ratings": {
-        "count": 51,
-        "average": 4.7058825
+        "count": 52,
+        "average": 4.7115383
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3027,8 +3027,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/create-your-first-iot-central-app/",
       "length": "PT1H22M",
       "ratings": {
-        "count": 590,
-        "average": 4.581356
+        "count": 591,
+        "average": 4.57868
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3114,8 +3114,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/publish-app-service-static-web-app-api-dotnet/",
       "length": "PT38M",
       "ratings": {
-        "count": 11,
-        "average": 4.909091
+        "count": 12,
+        "average": 4.9166665
       },
       "provider": {
         "name": "Microsoft Learn",
