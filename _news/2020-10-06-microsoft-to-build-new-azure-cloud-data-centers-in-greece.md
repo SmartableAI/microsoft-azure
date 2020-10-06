@@ -114,6 +114,20 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "Hexaware Becomes a Microsoft Azure Expert Managed Service Provider (MSP) and Earns Advanced Certification for Data Warehouse Migration to Azure"
+    excerpt: "PRNewswire/ -- Hexaware, one of the fastest growing next-generation digital transformation partners, today announced that it has become a Microsoft Azure Expert Managed Service Provider"
+    publishedDateTime: 2020-09-29T11:00:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/hexaware-becomes-a-microsoft-azure-expert-managed-service-provider-msp-and-earns-advanced-certification-for/article_b7ca4438-faa7-5453-8088-a48bfb848777.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 18
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/e/a2/ea266891-8fda-5615-b463-9568cb768b25/5f7317f848af8.image.jpg?resize=400%2C240"
+        width: 400
+        height: 240
+        isCached: true
   - title: "Microsoft Azure customers can now implement Datadog as a monitoring solution for their cloud workloads"
     excerpt: "Datadog announced a new strategic partnership with Microsoft Azure and is now be available in the Azure console as a first class service."
     publishedDateTime: 2020-10-01T23:33:00Z

@@ -1,27 +1,27 @@
 ---
 category: news
-title: "odix joins the Microsoft Intelligent Security Association (MISA) program extending FileWall security logs to Microsoft Azure Sentinel"
-excerpt: "PRNewswire/ --  odix, the Israel based cyber security leader in Enterprise CDR (Content Disarm and Reconstruction) technology, has officially  joined"
-publishedDateTime: 2020-09-30T06:00:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/odix-joins-the-microsoft-intelligent-security-association-misa-program-extending-filewall-security-logs-to-microsoft-azure-sentinel-301140169.html"
-webUrl: "https://www.prnewswire.com/news-releases/odix-joins-the-microsoft-intelligent-security-association-misa-program-extending-filewall-security-logs-to-microsoft-azure-sentinel-301140169.html"
+title: "Hexaware Becomes a Microsoft Azure Expert Managed Service Provider (MSP) and Earns Advanced Certification for Data Warehouse Migration to Azure"
+excerpt: "PRNewswire/ -- Hexaware, one of the fastest growing next-generation digital transformation partners, today announced that it has become a Microsoft Azure Expert Managed Service Provider"
+publishedDateTime: 2020-09-29T11:00:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/hexaware-becomes-a-microsoft-azure-expert-managed-service-provider-msp-and-earns-advanced-certification-for/article_b7ca4438-faa7-5453-8088-a48bfb848777.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/hexaware-becomes-a-microsoft-azure-expert-managed-service-provider-msp-and-earns-advanced-certification-for/article_b7ca4438-faa7-5453-8088-a48bfb848777.html"
 type: article
-quality: 23
+quality: 18
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - Azure
-  - Security
+  - Migration
 
 images:
-  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-    width: 600
-    height: 315
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/e/a2/ea266891-8fda-5615-b463-9568cb768b25/5f7317f848af8.image.jpg?resize=400%2C240"
+    width: 400
+    height: 240
     isCached: true
 
 related:
@@ -115,19 +115,19 @@ related:
         width: 620
         height: 355
         isCached: true
-  - title: "Hexaware Becomes a Microsoft Azure Expert Managed Service Provider (MSP) and Earns Advanced Certification for Data Warehouse Migration to Azure"
-    excerpt: "PRNewswire/ -- Hexaware, one of the fastest growing next-generation digital transformation partners, today announced that it has become a Microsoft Azure Expert Managed Service Provider"
-    publishedDateTime: 2020-09-29T11:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/hexaware-becomes-a-microsoft-azure-expert-managed-service-provider-msp-and-earns-advanced-certification-for/article_b7ca4438-faa7-5453-8088-a48bfb848777.html"
+  - title: "odix joins the Microsoft Intelligent Security Association (MISA) program extending FileWall security logs to Microsoft Azure Sentinel"
+    excerpt: "PRNewswire/ --  odix, the Israel based cyber security leader in Enterprise CDR (Content Disarm and Reconstruction) technology, has officially  joined"
+    publishedDateTime: 2020-09-30T06:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/odix-joins-the-microsoft-intelligent-security-association-misa-program-extending-filewall-security-logs-to-microsoft-azure-sentinel-301140169.html"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 18
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 23
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/e/a2/ea266891-8fda-5615-b463-9568cb768b25/5f7317f848af8.image.jpg?resize=400%2C240"
-        width: 400
-        height: 240
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
         isCached: true
   - title: "Microsoft Azure customers can now implement Datadog as a monitoring solution for their cloud workloads"
     excerpt: "Datadog announced a new strategic partnership with Microsoft Azure and is now be available in the Azure console as a first class service."
@@ -139,6 +139,6 @@ related:
       domain: helpnetsecurity.com
     quality: 1
 
-secured: "rFmHfDiBexD7j3U4eeLrhP/6vPGGoTcJftjfoD/WKj1PysZIqxlkwKXjBYzopqup9eKmbyuyGdbTvxgp3kJbRbPBKs3az5LkAvMdGK/vVRhEDgJ5asbsNnCszZHSYYxsSYSN/qM/QUYiWbPHSRMHuA+TbicRZtnOMgQjbkUUrDt/e3DIat3yZtBjNWK+mP4t9m5ExwvHehYoIuYkfezzhFaUctjBNfLmJC/nq7uZCaR3hpjNGa06nnEnx+GBfH8pUzjUEnpb6yHnetFRW4XTMv4xr787zNLQONk1zoQe/aVlewPbyTKZP46/E7pa8VmCyhPUOJDSkYU/fHjmWaVGwP3P7bFvmmT8x+R1GtVBA+A=;6jqjmLx4KxFZBV/oHjrIXg=="
+secured: "vaOcVpuxIULe1h1Z13Qw7i7i0oydGyQ2SfY3JEEIFQR+fGuYh0zc9H5xhb8pniKqc5MF7hnCnh4pSjio5K4tNStJAPuy8Ml/sVwnPZfYxHnuf/9aqLiN04nRS+WyFoYYbEUV+wLICuCM11Mor1cx1tv4WexgBUym0GDWufQ+M9I1iYCnN9xG6P9oY25dbS0lj2aCSs1nZeC7NS975MWFf/123bPFgUky5oo8b2VfrNjEHjQY+RxvQrm1xbu5SKYG7Rp6N+YeTayrTEfR4hKQ1muD1hXK88tQ72r1vNXzm62wW5otXwyZ2ja8smvH57vEn5gj/S9UGHXS/GB2HgAlP2pGJRgJJ2zZ+mDuw0iCXHU=;xmi79SNAwptaPUC14NbFgg=="
 ---
 

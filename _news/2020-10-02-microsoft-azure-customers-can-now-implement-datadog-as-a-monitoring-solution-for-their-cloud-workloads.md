@@ -122,6 +122,20 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "Hexaware Becomes a Microsoft Azure Expert Managed Service Provider (MSP) and Earns Advanced Certification for Data Warehouse Migration to Azure"
+    excerpt: "PRNewswire/ -- Hexaware, one of the fastest growing next-generation digital transformation partners, today announced that it has become a Microsoft Azure Expert Managed Service Provider"
+    publishedDateTime: 2020-09-29T11:00:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/hexaware-becomes-a-microsoft-azure-expert-managed-service-provider-msp-and-earns-advanced-certification-for/article_b7ca4438-faa7-5453-8088-a48bfb848777.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 18
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/e/a2/ea266891-8fda-5615-b463-9568cb768b25/5f7317f848af8.image.jpg?resize=400%2C240"
+        width: 400
+        height: 240
+        isCached: true
 
 secured: "C8qNSVXKTzUmC54kEKhva/2zUYoaj7KlSFm3BWGySMsG3lfFzzuInMuH9ZjI7Indmi7jxjios0wfMbG43nkJZDUOBby4+YESvTJrCkJYS+yG7P7cb+MymsbqMEaNomwBw/gm9VycL10uZmiZisRzvGYjp8WrtzKyYuxZ805jppVCD8Gy0se0vUjuFJ77g5gkueFnGk0XEhQqZnKMlRB3FqKtQci4m/SWF/4RXAffKtfNg+9JbUo78g/oEuP1EmDgUhZrdhRJWavFf7ClXOiGIHNwSP/xuomDojdAuWEgijJH51t+foTKd/pj0BcsTWou/QWhocT15UOcVNaetq/nUq9pfmF34iXX6RntGM/GKo4=;eF1zgPv4z4YRizWiRdwp1w=="
 ---
