@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/microsofts-azure-ad-authent
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsofts-azure-ad-authentication-outage-what-went-wrong/"
 type: article
 quality: 97
-heat: 257
+heat: 277
 published: true
 
 provider:
@@ -103,6 +103,20 @@ related:
       - url: "https://menafn.com/updates/pr/2020-10/04/GT_53bdb450-1image_story.jpg"
         width: 620
         height: 355
+        isCached: true
+  - title: "Granulate Launches Real-time Continuous Optimization Solution On Microsoft Azure Marketplace"
+    excerpt: "PRNewswire/ -- Granulate, the leading provider of real-time continuous optimization solutions for server workload performance, is proud to announce"
+    publishedDateTime: 2020-10-06T13:20:00Z
+    webUrl: "https://www.prnewswire.com/il/news-releases/granulate-launches-real-time-continuous-optimization-solution-on-microsoft-azure-marketplace-301146545.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 26
+    images:
+      - url: "https://mma.prnewswire.com/media/1307928/Granulate_Azure.jpg?p=facebook"
+        width: 1984
+        height: 1039
         isCached: true
   - title: "odix joins the Microsoft Intelligent Security Association (MISA) program extending FileWall security logs to Microsoft Azure Sentinel"
     excerpt: "PRNewswire/ --  odix, the Israel based cyber security leader in Enterprise CDR (Content Disarm and Reconstruction) technology, has officially  joined"

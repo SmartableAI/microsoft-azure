@@ -1,21 +1,31 @@
 ---
 category: news
 title: "CyberArk Now Available on the Microsoft Azure Marketplace"
-excerpt: "Microsoft Azure customers worldwide now gain access to the CyberArk Privileged Access Security Solution to take advantage of the scalability, reliability, and agility of Microsoft Azure to drive application development and shape business strategies The ..."
-publishedDateTime: 2020-09-22T13:55:00Z
-originalUrl: "https://www.nasdaq.com/press-release/cyberark-now-available-on-the-microsoft-azure-marketplace-2020-09-22"
-webUrl: "https://www.nasdaq.com/press-release/cyberark-now-available-on-the-microsoft-azure-marketplace-2020-09-22"
+excerpt: "CyberArk (NASDAQ: CYBR), the global leader in privileged access management, today announced availability of the CyberArk Privileged Access Security Solution on the Microsoft Azure Marketplace ..."
+publishedDateTime: 2020-09-22T08:30:00Z
+originalUrl: "https://www.marketwatch.com/press-release/cyberark-now-available-on-the-microsoft-azure-marketplace-2020-09-22"
+webUrl: "https://www.marketwatch.com/press-release/cyberark-now-available-on-the-microsoft-azure-marketplace-2020-09-22"
 type: article
-quality: 57
+quality: 77
 heat: -1
 published: false
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
+
+images:
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
+    isCached: true
 
 related:
   - title: "Microsoft launches Azure Orbital to connect satellites to its cloud"
@@ -1545,6 +1555,6 @@ related:
         height: 450
         isCached: true
 
-secured: "PJKAxJ1qNnsT2UyxXpcoEKs0aWrlNHmuxTYxPSAncZVlUedHL4IMthK/12dY25LQfLrbFZ5Lwqcr1xlmZemRta93go82c6HgSuq6vLH/zZ31PeH38I6hI2djGAOe5aFPpXiV4kOFP2ji6WeBqp++m5G9hDVqPa6pFSk1BpgvatWh/aMJAT4jd9awvsTAHG2GRXv/G4U4vT3I+rXuPDOAQ//KJ319bmDoKNDKBPw3N8MMAXL7kwLwzlT/P+dDjBWgremqKv8TWLzP6TSSQ5Gmj5ZTKtJViGwwueyL/qWgx6n4ol2swtiS5U9uVqCXV/Wb7YtFacydD/YWVamJNGsIex5GXd+Fl6uR2hkqwhHeo48=;/dyxyT0P0HtXhdy5imQ0vA=="
+secured: "BliFeIP64ylc4iQiqz6rt0PLFf6xeLwqMTujF2aYWaz6GUr76yceZMZiD2NZe1P9MLgor73bVZDZq6najR8uLBfuYnDVfvAyzzo8n7ksLQKxWL68Xl0ngNjsFXu6c0FyxLYBO77BLwHgIulr8pOf6C2tCoUcofUEpOHcF9EPiqX9LEAoy+Yf7Vf7/SlVWnEywyHUgq7etJy1Nw8bGQghn4iOv5Qn3fTe9CqlNwHsZl6mPBxoZMTxRI6QWzkR8MofWYvX2pbTiNDZnAXceeA+ejOkaWayDUfmE/DpVv9VsaRIc6AQk31yVsGRrfPuBfsTSoXiSqypT+zGRIS6OVJ6LTw5YD3YqnAiUFtim/iUt48=;08fSTFKNGLszp/K5d8T0Kg=="
 ---
 

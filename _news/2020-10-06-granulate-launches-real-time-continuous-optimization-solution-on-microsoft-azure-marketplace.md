@@ -1,26 +1,26 @@
 ---
 category: news
-title: "Ooredoo enables digital transformation with connectivity solution to Microsoft Azure"
-excerpt: "Ooredoo has announced the launch of Ooredoo Cloud Connect to Microsoft Azure to provide Qatar’s organisations with secure, reliable, and affordable cloud connectivity services to drive digital transfo"
-publishedDateTime: 2020-10-04T17:05:00Z
-originalUrl: "https://www.gulf-times.com/story/674497/Ooredoo-enables-digital-transformation-with-connec"
-webUrl: "https://www.gulf-times.com/story/674497/Ooredoo-enables-digital-transformation-with-connec"
+title: "Granulate Launches Real-time Continuous Optimization Solution On Microsoft Azure Marketplace"
+excerpt: "PRNewswire/ -- Granulate, the leading provider of real-time continuous optimization solutions for server workload performance, is proud to announce"
+publishedDateTime: 2020-10-06T13:20:00Z
+originalUrl: "https://www.prnewswire.com/il/news-releases/granulate-launches-real-time-continuous-optimization-solution-on-microsoft-azure-marketplace-301146545.html"
+webUrl: "https://www.prnewswire.com/il/news-releases/granulate-launches-real-time-continuous-optimization-solution-on-microsoft-azure-marketplace-301146545.html"
 type: article
-quality: 30
+quality: 26
 heat: -1
 published: false
 
 provider:
-  name: Gulf Times
-  domain: gulf-times.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://img.gulf-times.com/Content/Upload/Slider/2201825205426929928844.jpg"
-    width: 620
-    height: 355
+  - url: "https://mma.prnewswire.com/media/1307928/Granulate_Azure.jpg?p=facebook"
+    width: 1984
+    height: 1039
     isCached: true
 
 related:
@@ -86,6 +86,20 @@ related:
         width: 549
         height: 309
         isCached: true
+  - title: "Ooredoo enables digital transformation with connectivity solution to Microsoft Azure"
+    excerpt: "Ooredoo has announced the launch of Ooredoo Cloud Connect to Microsoft Azure to provide Qatar’s organisations with secure, reliable, and affordable cloud connectivity services to drive digital transfo"
+    publishedDateTime: 2020-10-04T17:05:00Z
+    webUrl: "https://www.gulf-times.com/story/674497/Ooredoo-enables-digital-transformation-with-connec"
+    type: article
+    provider:
+      name: Gulf Times
+      domain: gulf-times.com
+    quality: 30
+    images:
+      - url: "https://img.gulf-times.com/Content/Upload/Slider/2201825205426929928844.jpg"
+        width: 620
+        height: 355
+        isCached: true
   - title: "Qatar- Ooredoo enables digital transformation with connectivity solution to Microsoft Azure"
     excerpt: "Ooredoo has announced the launch of Ooredoo Cloud Connect to Microsoft Azure to provide Qatar's organisations with secure, reliable, and affordable cloud connectivity services to drive digital transformation."
     publishedDateTime: 2020-10-05T01:48:00Z
@@ -99,20 +113,6 @@ related:
       - url: "https://menafn.com/updates/pr/2020-10/04/GT_53bdb450-1image_story.jpg"
         width: 620
         height: 355
-        isCached: true
-  - title: "Granulate Launches Real-time Continuous Optimization Solution On Microsoft Azure Marketplace"
-    excerpt: "PRNewswire/ -- Granulate, the leading provider of real-time continuous optimization solutions for server workload performance, is proud to announce"
-    publishedDateTime: 2020-10-06T13:20:00Z
-    webUrl: "https://www.prnewswire.com/il/news-releases/granulate-launches-real-time-continuous-optimization-solution-on-microsoft-azure-marketplace-301146545.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 26
-    images:
-      - url: "https://mma.prnewswire.com/media/1307928/Granulate_Azure.jpg?p=facebook"
-        width: 1984
-        height: 1039
         isCached: true
   - title: "odix joins the Microsoft Intelligent Security Association (MISA) program extending FileWall security logs to Microsoft Azure Sentinel"
     excerpt: "PRNewswire/ --  odix, the Israel based cyber security leader in Enterprise CDR (Content Disarm and Reconstruction) technology, has officially  joined"
@@ -152,6 +152,6 @@ related:
       domain: helpnetsecurity.com
     quality: 1
 
-secured: "KW+b5AtklogxvL/e8h6JghHBLNO3cJrZy8wjWsCQofYczk8b+bOLgFjHFapW9QIbS9NhoC3LSyjPb1x8MCY2AMkfQ7+DuCs1Pg8k48GTLJs5M0geHlasPfTlC4xlRox2kDr4lYsOjIAVIQQk5PFdImCLZwDUVfwKsoNKblyomol78pnSW45HCvc5zJ/Yzf8MBlKTPOEYR8nIoHRpQBICqEz1Ma59cR7zDpAvM+FqIr05X0bnyvg1twbYu0o06G7lWb9VmwH7D45EIMPlaDqi8Jqasf4D5ekIfRIae8ynK7zmQ4v1uZfVlQXW6ZuIJB4IrxdU1ff19CmA9rFnfuw+06q49cjwlUwPhahmKK+9hmmGL+KIb+A/EQmfS8vEc+WVdHHapWuqcdUq1BITlOnT1xf9hzlD9znpPPpo3cVjMbGCISsxK5V3DORzuf4Ikka/wADmpUe/OIpNpUPK6NvJbBw9JaoG2AlQfx6lA7+X6+MUUOqNh8elmNW8k5ZURnm5gutNQ3cdrbsmH6XjVlU1YQ==;14PGOL3k/jPKp8WhKHD3pQ=="
+secured: "bsYlh0oYWVWrmRbL04KHEV3QaKJHmhgt3bz4nGrJUsy/25U90poiiGSlybCE5RXqr4TtlysYEegA4nTRMr58qrv5AQB5VIMOSDcXft+anJwGwWrcSBKwq0uU/P7xPbyXuXUTlWwRVChi2/K3sQfi8dHil4dspbf0Cs6cKNvJOusN9yXVl8hdQ7iFKedQ06ICLhCk3lIUTUO1klsIYB3xeeu8/7u+QxfLl2/ptuMCwaywJtzn82tnspZIs35HTnWQzcLEwxZFM5GF+1G1cE3hGs3AaUYG6EWUpU1DM6lEGDsGZjBG1bGRpJwEx1wsCtJUMBHAXis3nAJo6Z4lLPlc2wvTFeU1X+jKNc2TREswTrg=;2o9alNNfOEAw2Z1wvKTSEQ=="
 ---
 

@@ -115,6 +115,20 @@ related:
         width: 620
         height: 355
         isCached: true
+  - title: "Granulate Launches Real-time Continuous Optimization Solution On Microsoft Azure Marketplace"
+    excerpt: "PRNewswire/ -- Granulate, the leading provider of real-time continuous optimization solutions for server workload performance, is proud to announce"
+    publishedDateTime: 2020-10-06T13:20:00Z
+    webUrl: "https://www.prnewswire.com/il/news-releases/granulate-launches-real-time-continuous-optimization-solution-on-microsoft-azure-marketplace-301146545.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 26
+    images:
+      - url: "https://mma.prnewswire.com/media/1307928/Granulate_Azure.jpg?p=facebook"
+        width: 1984
+        height: 1039
+        isCached: true
   - title: "odix joins the Microsoft Intelligent Security Association (MISA) program extending FileWall security logs to Microsoft Azure Sentinel"
     excerpt: "PRNewswire/ --  odix, the Israel based cyber security leader in Enterprise CDR (Content Disarm and Reconstruction) technology, has officially  joined"
     publishedDateTime: 2020-09-30T06:00:00Z
@@ -139,6 +153,6 @@ related:
       domain: helpnetsecurity.com
     quality: 1
 
-secured: "vaOcVpuxIULe1h1Z13Qw7i7i0oydGyQ2SfY3JEEIFQR+fGuYh0zc9H5xhb8pniKqc5MF7hnCnh4pSjio5K4tNStJAPuy8Ml/sVwnPZfYxHnuf/9aqLiN04nRS+WyFoYYbEUV+wLICuCM11Mor1cx1tv4WexgBUym0GDWufQ+M9I1iYCnN9xG6P9oY25dbS0lj2aCSs1nZeC7NS975MWFf/123bPFgUky5oo8b2VfrNjEHjQY+RxvQrm1xbu5SKYG7Rp6N+YeTayrTEfR4hKQ1muD1hXK88tQ72r1vNXzm62wW5otXwyZ2ja8smvH57vEn5gj/S9UGHXS/GB2HgAlP2pGJRgJJ2zZ+mDuw0iCXHU=;xmi79SNAwptaPUC14NbFgg=="
+secured: "qywAwBFkEqpmNLIXcQ2iAgu7W4BnMzTajXXgku5t47rkx0IPoX22X7BHOGqhwrGaMOr8hFgGrHnPvLrxTDRR8ROhNq4dpOZF9I3FQXDHFJ4bL06Nj1o+BTvNOOT5QipfPJSZlBcdhOQvXfJXQxjbLka/uRmOtn2UknOZPlqBmkcYhBl6MT7xCjTkFJJoIrBkclbgIChqVcC0mSzr2nTyr7oVmUUdzP3E03cyJeyO3IY9DPiAFIY1E11hU5oVhdekMHUcbjKd1bRQexraMB6os5LbWLMfKdYKB6KrlqM7yh02UU0x6/Es/jl5hSXhZv7udD1dP37SHgWmBD1RWBsXzFpTgAQ+QKew9V7mK6VJ/8QMWgTXHWJVyNo8+ADmhLwB4/cFWNyX7i2W7ka6DkbiK0Iq8oUiqKL2aeClc1BUtnFWAx0vLK0vyoUfx5iLdgFzUoQ/exBQBMHuAmAg0Jr+6ppJb6RnqJOt+WY1r+ADdc4EMQs2sdedGNxDtX4E+nc4shIZyATpVLhOmwa50YxAjA==;VxGfCy8J2q6v8lNXjs3sLQ=="
 ---
 

@@ -366,6 +366,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "CyberArk Now Available on the Microsoft Azure Marketplace"
+    excerpt: "CyberArk (NASDAQ: CYBR), the global leader in privileged access management, today announced availability of the CyberArk Privileged Access Security Solution on the Microsoft Azure Marketplace ..."
+    publishedDateTime: 2020-09-22T08:30:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cyberark-now-available-on-the-microsoft-azure-marketplace-2020-09-22"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 77
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Microsoft at Ignite: Additions to Azure, Teams App and More"
     excerpt: "Microsoft MSFT announced major developments to its Teams app, Azure cloud computing and Office productivity suite at its Ignite conference. Ignite conference 2020 is a three-day virtual event that commenced on Sep 22 and will culminate on Sep 24."
     publishedDateTime: 2020-09-23T16:23:00Z
@@ -534,15 +548,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "CyberArk Now Available on the Microsoft Azure Marketplace"
-    excerpt: "Microsoft Azure customers worldwide now gain access to the CyberArk Privileged Access Security Solution to take advantage of the scalability, reliability, and agility of Microsoft Azure to drive application development and shape business strategies The ..."
-    publishedDateTime: 2020-09-22T13:55:00Z
-    webUrl: "https://www.nasdaq.com/press-release/cyberark-now-available-on-the-microsoft-azure-marketplace-2020-09-22"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 57
   - title: "Microsoft Wobbles Again: Do Azure Staging Procedures Need a Rethink?"
     excerpt: "Microsoft outage blamed on a \"recent configuration change [that] impacted a backend storage layer, which caused latency to authentication requests\""
     publishedDateTime: 2020-09-29T09:28:00Z
