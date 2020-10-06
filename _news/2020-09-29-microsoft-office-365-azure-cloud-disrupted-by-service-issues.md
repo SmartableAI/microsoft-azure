@@ -3,8 +3,8 @@ category: news
 title: "Microsoft Office 365, Azure Cloud Disrupted by Service Issues"
 excerpt: "The company said problems included some users of its Outlook email services and Teams workplace collaboration suite that provides chat functionality and videoconferencing."
 publishedDateTime: 2020-09-29T06:54:00Z
-originalUrl: "https://www.wsj.com/articles/microsoft-office-365-azure-cloud-disrupted-by-service-issues-11601344440?mod=newsviewer_click"
-webUrl: "https://www.wsj.com/articles/microsoft-office-365-azure-cloud-disrupted-by-service-issues-11601344440?mod=newsviewer_click"
+originalUrl: "https://www.wsj.com/articles/microsoft-office-365-azure-cloud-disrupted-by-service-issues-11601344440"
+webUrl: "https://www.wsj.com/articles/microsoft-office-365-azure-cloud-disrupted-by-service-issues-11601344440"
 ampWebUrl: "https://www.wsj.com/amp/articles/microsoft-office-365-azure-cloud-disrupted-by-service-issues-11601344440"
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/microsoft-office-365-azure-cloud-disrupted-by-service-issues-11601344440"
 type: article
@@ -390,7 +390,7 @@ related:
   - title: "TransientAccess Now Available in the Microsoft Azure Marketplace"
     excerpt: "September 28th, 2020 - TransientX, transforming fixed and device-centric networks to disposable networks of apps, today announced the availability of TransientAccess Zero-Trust Network Access in the Microsoft Azure Marketplace,"
     publishedDateTime: 2020-09-28T14:28:00Z
-    webUrl: "https://www.marketwatch.com/press-release/transientaccess-now-available-in-the-microsoft-azure-marketplace-2020-09-28"
+    webUrl: "https://www.marketwatch.com/press-release/transientaccess-now-available-in-the-microsoft-azure-marketplace-2020-09-28?mod=mw_quote_news"
     type: article
     provider:
       name: MarketWatch
@@ -1550,6 +1550,6 @@ related:
         height: 450
         isCached: true
 
-secured: "FYwKAMFclDnQBc7HEhsMs4M/Sqx+c+xiSwnDTlFV75TL28xoPjrUqL8Zd/T0qgEtkq+UmbLFSkrzmVa18iQmgiwqqJdmf3rdq5f7V+BUIoMGpMmViB/eSIjHnjFyTu6PfR78Z0z23Sa1nq8uKgJObjPzwLhExXsMGC1sGX1Q42iISt3IKARllr/Jzlt5Dxra8Cupzb1pFKReVfAKZgP19EIoFHzkrrCkxfsETKp3m4FIgyOCZYulTJUNTYiir2pe2snkjUbS35T9XQeEaTD9ePzhq0MO5Ki6B1xjaeeMkMrf0hD/BLkYQxfR6fbO9OcgT2XzGqWWarI1xcWynEYkJi8cmkuS2SwjIyN0nErpFXYuZnFxJknDLQNdczYwRyzX3s/qk4LBexHPt6Gvhz4yrgUGB2umGC37YLn8gDzcpq3md62LJYoq14YDXkGqJgUZoC1PxPboY0UjXS45/Z4cy+EadlM+aE4bOSISSCDIpxwYofvRGNMkq8dDygc0aXLEZk4wzu2dZOYw0LheFANN9g==;TPcE6JCLBIJKQhZ2n2iLpw=="
+secured: "E8CO4/4LTaVGsPY8XwhJBAY4cXplo+zrH4N1P2J4QwB23VxKh3nQotwhiW3ZfU2LcK5ByBpJdsblthisAaQKOLotI3I1LjjVT4+Mg3MXasxeR3MdBmza+nMhFxft5anKvHCdNJ8bURTiTQReMeU05HaxB0khGC4pzwK+l0wEx8ZTGcb3w/4eu1l0PjVRoell9E8EiAFgK2qyGMTJwisiVRfBsXs7SdHKYxvtXoOtTYT7fRmrBqD1jYb5SGiHkVjNHIVULD66O+TLyr4SsZAec+Q/iLR+mSRXqkW1lIRz4Wovx6C89aLP4Pv4EKaUYdDuh5FnlknzdrfbZADeR1ug9BQry8tAW0IOUZkyrFip6f0=;cBirM4Oni/XXqpyC2GZGmA=="
 ---
 
