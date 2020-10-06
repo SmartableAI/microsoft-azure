@@ -4,7 +4,7 @@ excerpt: "The third and final learning path in a course on Cloud Administration 
 type: collection
 price: Free
 length: PT2H40M
-heat: 50
+heat: 52
 
 provider:
   name: Microsoft Learn
