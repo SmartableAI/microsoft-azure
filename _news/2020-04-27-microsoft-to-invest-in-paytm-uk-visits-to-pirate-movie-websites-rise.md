@@ -56,6 +56,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Alibaba Cloud Computing Now Ranked Third-Largest Infrastucture as a Service Provider, Right Behind Amazon Web Services, Microsoft Azure"
+    excerpt: "Alibaba Cloud Computing now ranked third-largest infrastucture as a service provider, right behind Amazon Web Services, Microsoft Azure."
+    publishedDateTime: 2020-10-06T02:53:00Z
+    webUrl: "https://www.crowdfundinsider.com/2020/10/167568-alibaba-cloud-computing-now-ranked-third-largest-infrastucture-as-a-service-provider-right-behind-amazon-web-services-microsoft-azure/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2020/10/167568-alibaba-cloud-computing-now-ranked-third-largest-infrastucture-as-a-service-provider-right-behind-amazon-web-services-microsoft-azure/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/10/167568-alibaba-cloud-computing-now-ranked-third-largest-infrastucture-as-a-service-provider-right-behind-amazon-web-services-microsoft-azure/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 25
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2018/03/Cloud-Sky-Day-600x530.jpg"
+        width: 600
+        height: 530
+        isCached: true
   - title: "McAfee MVISION Cloud now supports encryption enhancements in Microsoft Teams"
     excerpt: "McAfee, a device-to-cloud cybersecurity company, announced that McAfee MVISION Cloud now supports encryption enhancements in Microsoft Teams, including encrypted webhooks and encrypted payloads. This enables organizations to improve productivity of their employees by letting them use Teams as a collaboration platform, participate in ..."
     publishedDateTime: 2020-04-24T00:32:00Z

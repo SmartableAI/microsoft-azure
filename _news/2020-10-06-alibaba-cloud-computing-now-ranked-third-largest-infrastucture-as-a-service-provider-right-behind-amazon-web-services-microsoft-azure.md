@@ -1,27 +1,29 @@
 ---
 category: news
-title: "McAfee MVISION Cloud now supports encryption enhancements in Microsoft Teams"
-excerpt: "McAfee, a device-to-cloud cybersecurity company, announced that McAfee MVISION Cloud now supports encryption enhancements in Microsoft Teams, including encrypted webhooks and encrypted payloads. This enables organizations to improve productivity of their employees by letting them use Teams as a collaboration platform, participate in ..."
-publishedDateTime: 2020-04-24T00:32:00Z
-webUrl: "https://www.helpnetsecurity.com/2020/04/24/mcafee-mvision-cloud-microsoft/"
+title: "Alibaba Cloud Computing Now Ranked Third-Largest Infrastucture as a Service Provider, Right Behind Amazon Web Services, Microsoft Azure"
+excerpt: "Alibaba Cloud Computing now ranked third-largest infrastucture as a service provider, right behind Amazon Web Services, Microsoft Azure."
+publishedDateTime: 2020-10-06T02:53:00Z
+originalUrl: "https://www.crowdfundinsider.com/2020/10/167568-alibaba-cloud-computing-now-ranked-third-largest-infrastucture-as-a-service-provider-right-behind-amazon-web-services-microsoft-azure/"
+webUrl: "https://www.crowdfundinsider.com/2020/10/167568-alibaba-cloud-computing-now-ranked-third-largest-infrastucture-as-a-service-provider-right-behind-amazon-web-services-microsoft-azure/"
+ampWebUrl: "https://www.crowdfundinsider.com/2020/10/167568-alibaba-cloud-computing-now-ranked-third-largest-infrastucture-as-a-service-provider-right-behind-amazon-web-services-microsoft-azure/amp/"
+cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/10/167568-alibaba-cloud-computing-now-ranked-third-largest-infrastucture-as-a-service-provider-right-behind-amazon-web-services-microsoft-azure/amp/"
 type: article
-quality: 19
+quality: 25
 heat: -1
 published: false
 
 provider:
-  name: Help Net Security
-  domain: helpnetsecurity.com
+  name: Crowdfund Insider
+  domain: crowdfundinsider.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/03/12085321/insecure-rsac2020.jpg"
-    width: 304
-    height: 430
+  - url: "https://www.crowdfundinsider.com/wp-content/uploads/2018/03/Cloud-Sky-Day-600x530.jpg"
+    width: 600
+    height: 530
     isCached: true
-    title: "McAfee MVISION Cloud now supports encryption enhancements in Microsoft Teams"
 
 related:
   - title: "China's Alibaba to invest $28.2 billion in cloud infrastructure as it battles Amazon, Microsoft"
@@ -70,21 +72,19 @@ related:
         width: 300
         height: 300
         isCached: true
-  - title: "Alibaba Cloud Computing Now Ranked Third-Largest Infrastucture as a Service Provider, Right Behind Amazon Web Services, Microsoft Azure"
-    excerpt: "Alibaba Cloud Computing now ranked third-largest infrastucture as a service provider, right behind Amazon Web Services, Microsoft Azure."
-    publishedDateTime: 2020-10-06T02:53:00Z
-    webUrl: "https://www.crowdfundinsider.com/2020/10/167568-alibaba-cloud-computing-now-ranked-third-largest-infrastucture-as-a-service-provider-right-behind-amazon-web-services-microsoft-azure/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2020/10/167568-alibaba-cloud-computing-now-ranked-third-largest-infrastucture-as-a-service-provider-right-behind-amazon-web-services-microsoft-azure/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/10/167568-alibaba-cloud-computing-now-ranked-third-largest-infrastucture-as-a-service-provider-right-behind-amazon-web-services-microsoft-azure/amp/"
+  - title: "McAfee MVISION Cloud now supports encryption enhancements in Microsoft Teams"
+    excerpt: "McAfee, a device-to-cloud cybersecurity company, announced that McAfee MVISION Cloud now supports encryption enhancements in Microsoft Teams, including encrypted webhooks and encrypted payloads. This enables organizations to improve productivity of their employees by letting them use Teams as a collaboration platform, participate in ..."
+    publishedDateTime: 2020-04-24T00:32:00Z
+    webUrl: "https://www.helpnetsecurity.com/2020/04/24/mcafee-mvision-cloud-microsoft/"
     type: article
     provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 25
+      name: Help Net Security
+      domain: helpnetsecurity.com
+    quality: 19
     images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2018/03/Cloud-Sky-Day-600x530.jpg"
-        width: 600
-        height: 530
+      - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/03/12085321/insecure-rsac2020.jpg"
+        width: 304
+        height: 430
         isCached: true
   - title: "McAfee MVISION Cloud Provides Secure and Compliant Way to Manage Data and User Activity in Microsoft Teams"
     excerpt: "McAfee, a device-to-cloud cybersecurity company, today announced that McAfee MVISION Cloud now supports encryption enhancements in Microsoft Teams, in"
@@ -101,6 +101,6 @@ related:
         height: 627
         isCached: true
 
-secured: "jb955AnwvNCgM0R2ZsH0gKWx2YRbq3quSkxnyDDWqZxBBZMW2nnv1Arc9iSzQS/NUkRc0irFIjK2rD8E2BgzwtCVHxK4xZu1yCWNptHKvJvMWqO+0S43JYX4dmWf+/i6+aEpa85G5BBvyZdCk1r/TdCl7WxPrBn+Cw+DOnRGk+zv5+bkB7dvJjjSm+/aMF/PVJVZFA4vH1es/ezNBDJycHuUegLtOhXG0TJaYwrYOPr4hh5d0a+hzDPzdmJbjA97Aa/xuUUr82o1oRZWkTI4DnFkHcJ6iy3qvrPbaeifoEBzQUC5kD/ocP1fafcM/eVV46M9RfjZJ2U67r5TIJIjRWWrH5xQW16t5la8z3ad4kkU/W5rtrqgGkFEGY8xRcKzPF6JNxTPAHV10RXOcbtQZBPVB/hQ+kS0S1rdqwbE1QuZwMnrU9o6SbS6NmicJINYKqViIhbLusMSO4CrQTu6gDrfmgGkxtuCUCSRauSvmuc=;EF015jSSyAEggk2mChEEYw=="
+secured: "FtutH/SfOCgGC7b3w5le3J3dsYxPeFrIfChn4IAUEdV5tJ78RPtoVH46Qwb3MbGgYwyxOnPRfDwfB7RibxW7f3mQJ77wcDRl2cAg3/PEm9Qmyi+y6b8Y8r9sX6mpqxEqFNIdVtbd5SInSmjD5odtUFqctnG/gQLh3HguXvLttUrlYKXKVWVgqpdcLJN5/L9aYsVFvF4/H0lxdPh276sJmzPahnjuN+FUQuzM6PESjRun18H2a1C+ZzeAZw+H2hsPAyV9Ra2t2GKM4mrnHOaU7Hh29jr27TobbsMRxXT3DtKH4BCsEwGAVy5vZjKhUjB3hmoc/S0daqNPzR+lSEXgLz45mHFSO6f/JWQPE9PiO+Q=;whCdnkJFBTorgjbhKq8ZZw=="
 ---
 
