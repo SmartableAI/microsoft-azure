@@ -1021,6 +1021,20 @@ related:
         width: 800
         height: 530
         isCached: true
+  - title: "DH2i Now Available in the Microsoft Azure Marketplace"
+    excerpt: "FORT COLLINS, Colo., Sept. 22, 2020 /PRNewswire/ -- DH2i today announced the availability of DxEnterprise for Availability Groups in the Microsoft Azure Marketplace, an online store providing ..."
+    publishedDateTime: 2020-09-26T12:18:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/dh2i-now-available-in-the-microsoft-azure-marketplace-301134323.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 37
+    images:
+      - url: "https://mma.prnewswire.com/media/324010/dh2i_logo.jpg?p=facebook"
+        width: 1400
+        height: 732
+        isCached: true
   - title: "Microsoft Unveils 5G/Telco Playbook With ‘Azure For Operators’"
     excerpt: "Microsoft Azure Monday laid out its playbook to partner with communications service providers by providing a carrier-grade platform for edge and cloud computing to help network operators realize the full potential of 5G technology."
     publishedDateTime: 2020-09-28T19:57:00Z

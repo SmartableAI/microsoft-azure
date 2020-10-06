@@ -106,6 +106,20 @@ related:
         width: 549
         height: 309
         isCached: true
+  - title: "Synoptek Certified as Microsoft Azure Expert Managed Services Provider"
+    excerpt: "Synoptek, a leading business and technology consulting firm, announced it has become certified as a Microsoft Azure Expert Managed Service Provider (M"
+    publishedDateTime: 2020-10-06T18:03:00Z
+    webUrl: "https://www.businesswire.com/news/home/20201006005876/en/"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 37
+    images:
+      - url: "https://mms.businesswire.com/media/20201006005876/en/784885/23/Synoptek_full_logo.jpg"
+        width: 1200
+        height: 627
+        isCached: true
   - title: "Ooredoo enables digital transformation with connectivity solution to Microsoft Azure"
     excerpt: "Ooredoo has announced the launch of Ooredoo Cloud Connect to Microsoft Azure to provide Qatar’s organisations with secure, reliable, and affordable cloud connectivity services to drive digital transfo"
     publishedDateTime: 2020-10-04T17:05:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2020/09/22/microsoft-launches-azure-orbital-t
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/09/22/microsoft-launches-azure-orbital-to-connect-satellites-to-its-cloud/amp/"
 type: article
 quality: 114
-heat: 2414
+heat: 2434
 published: true
 
 provider:
@@ -1011,6 +1011,20 @@ related:
       - url: "https://media.threatpost.com/wp-content/uploads/sites/103/2020/09/25104849/cloud-hack.jpg"
         width: 800
         height: 530
+        isCached: true
+  - title: "DH2i Now Available in the Microsoft Azure Marketplace"
+    excerpt: "FORT COLLINS, Colo., Sept. 22, 2020 /PRNewswire/ -- DH2i today announced the availability of DxEnterprise for Availability Groups in the Microsoft Azure Marketplace, an online store providing ..."
+    publishedDateTime: 2020-09-26T12:18:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/dh2i-now-available-in-the-microsoft-azure-marketplace-301134323.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 37
+    images:
+      - url: "https://mma.prnewswire.com/media/324010/dh2i_logo.jpg?p=facebook"
+        width: 1400
+        height: 732
         isCached: true
   - title: "Microsoft enters 5G race with Azure cloud for telecom operators"
     excerpt: "Microsoft unveiled a new cloud platform on Monday aimed at enabling telecom operators to build 5G networks faster, reduce costs and sell customised services to business clients."

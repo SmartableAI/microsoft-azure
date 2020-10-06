@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/microsofts-azure-ad-authent
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsofts-azure-ad-authentication-outage-what-went-wrong/"
 type: article
 quality: 97
-heat: 357
+heat: 377
 published: true
 
 provider:
@@ -95,6 +95,20 @@ related:
       - url: "https://www.crn.com/resources/0261-107e1bc258dd-899507ddf083-1000/shot_of_corridor_in_working_data_center_full_of_rack_servers_and_supercomputers_with_cloud_storage_advantages_icon_visualization..jpeg"
         width: 549
         height: 309
+        isCached: true
+  - title: "Synoptek Certified as Microsoft Azure Expert Managed Services Provider"
+    excerpt: "Synoptek, a leading business and technology consulting firm, announced it has become certified as a Microsoft Azure Expert Managed Service Provider (M"
+    publishedDateTime: 2020-10-06T18:03:00Z
+    webUrl: "https://www.businesswire.com/news/home/20201006005876/en/"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 37
+    images:
+      - url: "https://mms.businesswire.com/media/20201006005876/en/784885/23/Synoptek_full_logo.jpg"
+        width: 1200
+        height: 627
         isCached: true
   - title: "Komprise is also selected as a co-sell ready partner for Microsoft Azure"
     excerpt: "PRNewswire/ -- Komprise, the leader in analytics-driven data management, today announced new capabilities for its Intelligent Data Management solution in Microsoft Azure. Customers can"

@@ -1,23 +1,27 @@
 ---
 category: news
-title: "Microsoft Guns for Twilio's Business With Launch of Azure Communication Services"
-excerpt: "Microsoft (NASDAQ: MSFT) is continuously upping its game in the public cloud arena, and recently announced the availability of Azure Communications Services. The new product is a library of APIs (an API is an application programming interface,"
-publishedDateTime: 2020-09-27T13:58:00Z
-originalUrl: "https://www.nasdaq.com/articles/microsoft-guns-for-twilios-business-with-launch-of-azure-communication-services-2020-09-22"
-webUrl: "https://www.nasdaq.com/articles/microsoft-guns-for-twilios-business-with-launch-of-azure-communication-services-2020-09-22"
-ampWebUrl: "https://www.nasdaq.com/articles/microsoft-guns-for-twilios-business-with-launch-of-azure-communication-services-2020-09-22?amp"
-cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/microsoft-guns-for-twilios-business-with-launch-of-azure-communication-services-2020-09-22?amp"
+title: "DH2i Now Available in the Microsoft Azure Marketplace"
+excerpt: "FORT COLLINS, Colo., Sept. 22, 2020 /PRNewswire/ -- DH2i today announced the availability of DxEnterprise for Availability Groups in the Microsoft Azure Marketplace, an online store providing ..."
+publishedDateTime: 2020-09-26T12:18:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/dh2i-now-available-in-the-microsoft-azure-marketplace-301134323.html"
+webUrl: "https://www.prnewswire.com/news-releases/dh2i-now-available-in-the-microsoft-azure-marketplace-301134323.html"
 type: article
-quality: 72
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Azure
+
+images:
+  - url: "https://mma.prnewswire.com/media/324010/dh2i_logo.jpg?p=facebook"
+    width: 1400
+    height: 732
+    isCached: true
 
 related:
   - title: "Microsoft launches Azure Orbital to connect satellites to its cloud"
@@ -446,6 +450,17 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Microsoft Guns for Twilio's Business With Launch of Azure Communication Services"
+    excerpt: "Microsoft (NASDAQ: MSFT) is continuously upping its game in the public cloud arena, and recently announced the availability of Azure Communications Services. The new product is a library of APIs (an API is an application programming interface,"
+    publishedDateTime: 2020-09-27T13:58:00Z
+    webUrl: "https://www.nasdaq.com/articles/microsoft-guns-for-twilios-business-with-launch-of-azure-communication-services-2020-09-22"
+    ampWebUrl: "https://www.nasdaq.com/articles/microsoft-guns-for-twilios-business-with-launch-of-azure-communication-services-2020-09-22?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/microsoft-guns-for-twilios-business-with-launch-of-azure-communication-services-2020-09-22?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 72
   - title: "Windows IoT Microsoft Edge Kiosk Mode in public preview"
     excerpt: "Microsoft Edge can now be run in Kiosk mode on Windows IoT "
     publishedDateTime: 2020-09-23T16:00:12Z
@@ -1006,20 +1021,6 @@ related:
         width: 800
         height: 530
         isCached: true
-  - title: "DH2i Now Available in the Microsoft Azure Marketplace"
-    excerpt: "FORT COLLINS, Colo., Sept. 22, 2020 /PRNewswire/ -- DH2i today announced the availability of DxEnterprise for Availability Groups in the Microsoft Azure Marketplace, an online store providing ..."
-    publishedDateTime: 2020-09-26T12:18:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/dh2i-now-available-in-the-microsoft-azure-marketplace-301134323.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 37
-    images:
-      - url: "https://mma.prnewswire.com/media/324010/dh2i_logo.jpg?p=facebook"
-        width: 1400
-        height: 732
-        isCached: true
   - title: "Microsoft enters 5G race with Azure cloud for telecom operators"
     excerpt: "Microsoft unveiled a new cloud platform on Monday aimed at enabling telecom operators to build 5G networks faster, reduce costs and sell customised services to business clients."
     publishedDateTime: 2020-09-28T23:49:00Z
@@ -1564,6 +1565,6 @@ related:
         height: 450
         isCached: true
 
-secured: "+mHYUWf8KRnAZgzclmG5hKUTbldviOcRXTPuP4/GXaVCgh4FHQtGnRaL7egHUjrJpTd3RQUQzc6So+az31h9g0DEkBUClO01JGZlTiUkuMst8gvf0dsOp+lU/t70h2ijxXvp+1/7nVWql3/BArEJhoW8jOsLsYjQb4oi4V7Ae/AiI51a4QyH33EzNjgxByh3nEROPwTAeNvaxqRYwNXV2tx7TpNdSLYa3TuRO/Ujmksa/MTUoex3fB2G/TQsQm0P2m9hFZOBillwd+LIoaeQqxs8Z833DkN3hCTWWU4NP5es0FMA4jJUU2u5E6gcsL7SnEvTpO3OeA0yo3QWVMBxpgRTG1elm7pJ45I3TPj1O+k=;1IVktlUPXS+7BrGktcGFbQ=="
+secured: "J4ncN2qxNajWtfBzDK/gA8tqdcFvhb7tQ5iGBhlGo4uJeb/sh3tQDl0vdKrG5Hkg6ljecV4gX8YrcmJyUgAZdgrHj9sL3Ur7CV3bt3iN+mH7oE34qKs9u9nlxKTtXxzshesTf+nqSDFUuwfCxHfT2KVyB3Sjb5/dwTx/XEKR2h/HgfzQdD8N8u8PXokB5H7D8fb+9lPic40ixZcrSSmwLzQjOHZ9Y46Vsaq7bRI1MiOcZVoKTP1HEEtz0OpxuNh1qAIptkA5dnuw9oII7lY2TMb0flk44wuXrH1T8fVUHejdARCuiRWZGOSb/NoCJeO9AzERroyRQQuoLRG8MDjClRuYNQp75rRQ014R62MMELY=;MDWjkUXkOiY35yLfRYybBg=="
 ---
 

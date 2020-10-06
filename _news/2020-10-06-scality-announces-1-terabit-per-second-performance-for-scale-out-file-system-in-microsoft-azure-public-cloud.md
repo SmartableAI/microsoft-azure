@@ -25,16 +25,16 @@ images:
 
 related:
   - title: "Komprise addresses demand for file data management in the cloud with new capabilities for Microsoft Azure Files and Azure NetApp Files"
-    excerpt: "PRNewswire/ -- Komprise, the leader in analytics-driven data management, today announced new capabilities for its Komprise Intelligent Data"
+    excerpt: "Komprise addresses demand for file data management in the cloud with new capabilities for Microsoft Azure Files and Azure NetApp Files"
     publishedDateTime: 2020-10-06T13:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/komprise-addresses-demand-for-file-data-management-in-the-cloud-with-new-capabilities-for-microsoft-azure-files-and-azure-netapp-files-301146567.html"
+    webUrl: "https://www.finanzen.net/nachricht/aktien/komprise-addresses-demand-for-file-data-management-in-the-cloud-with-new-capabilities-for-microsoft-azure-files-and-azure-netapp-files-9364751"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
+      name: Finanzen
+      domain: finanzen.net
     quality: 5
     images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+      - url: "https://images.finanzen.net/images/logos/finanzennet_600x315.jpg"
         width: 600
         height: 315
         isCached: true
