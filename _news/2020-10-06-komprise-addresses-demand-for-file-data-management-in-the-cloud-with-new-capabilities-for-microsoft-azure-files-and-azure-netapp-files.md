@@ -1,24 +1,24 @@
 ---
 category: news
 title: "Komprise addresses demand for file data management in the cloud with new capabilities for Microsoft Azure Files and Azure NetApp Files"
-excerpt: "Komprise addresses demand for file data management in the cloud with new capabilities for Microsoft Azure Files and Azure NetApp Files"
+excerpt: "PRNewswire/ -- Komprise, the leader in analytics-driven data management, today announced new capabilities for its Komprise Intelligent Data"
 publishedDateTime: 2020-10-06T13:00:00Z
-originalUrl: "https://www.finanzen.net/nachricht/aktien/komprise-addresses-demand-for-file-data-management-in-the-cloud-with-new-capabilities-for-microsoft-azure-files-and-azure-netapp-files-9364751"
-webUrl: "https://www.finanzen.net/nachricht/aktien/komprise-addresses-demand-for-file-data-management-in-the-cloud-with-new-capabilities-for-microsoft-azure-files-and-azure-netapp-files-9364751"
+originalUrl: "https://www.prnewswire.com/news-releases/komprise-addresses-demand-for-file-data-management-in-the-cloud-with-new-capabilities-for-microsoft-azure-files-and-azure-netapp-files-301146567.html"
+webUrl: "https://www.prnewswire.com/news-releases/komprise-addresses-demand-for-file-data-management-in-the-cloud-with-new-capabilities-for-microsoft-azure-files-and-azure-netapp-files-301146567.html"
 type: article
 quality: 5
 heat: -1
 published: false
 
 provider:
-  name: Finanzen
-  domain: finanzen.net
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://images.finanzen.net/images/logos/finanzennet_600x315.jpg"
+  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
     width: 600
     height: 315
     isCached: true
@@ -39,6 +39,6 @@ related:
         height: 583
         isCached: true
 
-secured: "F91/Au60ShZSASmgSqzJFsFA/TcpR0/ljZwGl7ibPzSiDh1iiWHJv2TykPoUCfJSFXupL+K4G949RLnHQHkY/zoUiRiaOdKqbOAynSF2UeDMyQcifkcywNgsM7Rsu5RA6wfsyW/q7hjjsSRVMaRM+YEj3J9rfah9IDAuuhwqV3fRCe+qRwjRzhMNLFfuusJTe2uI2YWqdskqeGZ0M6V1JnwsRqL9lFyalpM2qQlGtlUr3Ugl6wDAh54+CUyqCvqQ0VxfPC5IwQCnBKgyuBUvh1WxYp/xSYSJ2Kf7cUog8zXLC65yzzuYrUqW8Axppdp2LMU9iIyYgE0quM3J7bRuVgbg6KhPhOIW3gP4pMvadEM=;7n4Fn72RAs1LZHl379wApw=="
+secured: "4lhZE0hzhZChYuE0vfbe8iH9bJ4a57HbQEuxfaiAojvXKCRMGdqirSVnwrgeM6OHiinfx7Tasuvb6v//BTk2mUfwdcqZ6pvu9/wktFJ5z/MtkaSrjTvy/VeNDRJqE7Wbyy46555r5meOdnVdI/wzBJIgA9Ns1y/LNuaRgQXDwohQ21ChuKMLTcC18izHI/5N8IQxBdoweeYWhpsQvdofjGznfFnTUJLpVop5nClBOG3SOhBfU9ZfGxaeA646x/A50+k/AQ66ChJY/4rafX51VM7JYGTgBS2JRp3Wa64Rqu3ofKBdrSuoDGTGS7Wil2UDJdFCtgLBPrAzScP+HNpAHXGGz8cjkeltlUVFpn+Ft/s=;Q9A073YXPKO4Zk8/CKTJBQ=="
 ---
 
