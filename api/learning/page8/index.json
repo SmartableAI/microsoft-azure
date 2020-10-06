@@ -4,6 +4,48 @@
   "page": 8,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-connect-on-premises-network-with-vpn-gateway.md",
+      "title": "Connect your on-premises network to Azure with VPN Gateway",
+      "excerpt": "Learn about the virtual private network (VPN) gateway options in Azure and typical scenarios for using a VPN. Create and test VPNs to securely connect sites to Azure.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-connect-on-premises-network-with-vpn-gateway/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/connect-on-premises-network-with-vpn-gateway/",
+      "length": "PT39M",
+      "ratings": {
+        "count": 4938,
+        "average": 4.6012554
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 60,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/connect-on-premises-network-with-vpn-gateway-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Networking"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-data-engineering-processes.md",
       "title": "Identify the tasks of a data engineer in a cloud-hosted architecture",
       "excerpt": "Learn about the responsibilities of a data engineer, how they relate to the jobs of other data and AI roles, and explore common data engineering practices.",
@@ -11,8 +53,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/data-engineering-processes/",
       "length": "PT25M",
       "ratings": {
-        "count": 4159,
-        "average": 4.7056985
+        "count": 4160,
+        "average": 4.705769
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -135,8 +177,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/responsible-ai-principles/",
       "length": "PT56M",
       "ratings": {
-        "count": 754,
-        "average": 4.708223
+        "count": 757,
+        "average": 4.7080584
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -177,8 +219,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/automate-azure-tasks-with-powershell/",
       "length": "PT1H11M",
       "ratings": {
-        "count": 4860,
-        "average": 4.710288
+        "count": 4861,
+        "average": 4.710142
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -210,8 +252,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/build-an-ai-ready-culture/",
       "length": "PT49M",
       "ratings": {
-        "count": 940,
-        "average": 4.7414894
+        "count": 941,
+        "average": 4.741764
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -294,8 +336,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/design-your-migration-to-azure/",
       "length": "PT44M",
       "ratings": {
-        "count": 1483,
-        "average": 4.627107
+        "count": 1484,
+        "average": 4.6266847
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -378,8 +420,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/intro-commercial-marketplace/",
       "length": "PT30M",
       "ratings": {
-        "count": 450,
-        "average": 4.7466664
+        "count": 451,
+        "average": 4.738359
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -411,8 +453,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/intro-to-azure-ad/",
       "length": "PT27M",
       "ratings": {
-        "count": 1602,
-        "average": 4.6810236
+        "count": 1603,
+        "average": 4.681223
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -538,8 +580,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/top-5-security-items-to-consider/",
       "length": "PT45M",
       "ratings": {
-        "count": 6236,
-        "average": 4.646889
+        "count": 6239,
+        "average": 4.6468987
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -610,8 +652,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/add-and-size-disks-in-azure-virtual-machines/",
       "length": "PT36M",
       "ratings": {
-        "count": 2208,
-        "average": 4.6580615
+        "count": 2209,
+        "average": 4.6582165
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -645,8 +687,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/add-custom-domain-name-azure-active-directory/",
       "length": "PT18M",
       "ratings": {
-        "count": 872,
-        "average": 4.669725
+        "count": 874,
+        "average": 4.6693363
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -729,8 +771,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/build-serverless-api-with-functions-api-management/",
       "length": "PT41M",
       "ratings": {
-        "count": 1144,
-        "average": 4.611888
+        "count": 1146,
+        "average": 4.6125655
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -774,8 +816,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/configure-network-for-azure-virtual-machines/",
       "length": "PT1H34M",
       "ratings": {
-        "count": 3681,
-        "average": 4.555827
+        "count": 3683,
+        "average": 4.5560684
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1083,8 +1125,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/store-app-data-with-azure-blob-storage/",
       "length": "PT50M",
       "ratings": {
-        "count": 2879,
-        "average": 4.577631
+        "count": 2882,
+        "average": 4.577724
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1117,8 +1159,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/survey-the-azure-data-platform/",
       "length": "PT58M",
       "ratings": {
-        "count": 4352,
-        "average": 4.689568
+        "count": 4353,
+        "average": 4.689639
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1149,54 +1191,6 @@
       "topics": [
         "Azure",
         "Storage"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-azure-well-architected-reliability.md",
-      "title": "Microsoft Azure Well-Architected Framework - Reliability",
-      "excerpt": "Learn how to recover from infrastructure and service failure, loss of data, and disasters by incorporating reliability into your architecture.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-azure-well-architected-reliability/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/azure-well-architected-reliability/",
-      "length": "PT59M",
-      "ratings": {
-        "count": 471,
-        "average": 4.6942677
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 57,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/azure-well-architected-reliability-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Storage",
-        "Databases",
-        "Management Tools",
-        "Migration",
-        "Networking",
-        "Compute",
-        "Web"
       ]
     }
   ],
