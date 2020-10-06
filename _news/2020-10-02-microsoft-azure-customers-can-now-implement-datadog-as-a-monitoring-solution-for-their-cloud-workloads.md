@@ -75,6 +75,17 @@ related:
         width: 960
         height: 640
         isCached: true
+  - title: "Microsoft pays over $370,000 for Azure Sphere bug reports"
+    excerpt: "Microsoft awarded over $370,000 in bounties to security researchers for 16 bounty eligible reports of vulnerabilities submitted through the Azure Sphere Security Research Challenge (ASSRC) IoT-focused research program."
+    publishedDateTime: 2020-10-06T16:00:00Z
+    webUrl: "https://www.bleepingcomputer.com/news/security/microsoft-pays-over-370-000-for-azure-sphere-bug-reports/"
+    ampWebUrl: "https://www.bleepingcomputer.com/news/security/microsoft-pays-over-370-000-for-azure-sphere-bug-reports/amp/"
+    cdnAmpWebUrl: "https://www-bleepingcomputer-com.cdn.ampproject.org/c/s/www.bleepingcomputer.com/news/security/microsoft-pays-over-370-000-for-azure-sphere-bug-reports/amp/"
+    type: article
+    provider:
+      name: Bleeping Computer
+      domain: bleepingcomputer.com
+    quality: 37
   - title: "Microsoft To Build New Azure Cloud Data Centers In Greece"
     excerpt: "Microsoft plans to spend up to $1 billion to build three data centers for its first Azure cloud region in Greece and provide digital technology training to up to 100,000 people there by 2025"
     publishedDateTime: 2020-10-05T17:36:00Z
@@ -174,14 +185,19 @@ related:
         height: 240
         isCached: true
   - title: "Braze Reveals Multi-Cloud Support with Microsoft Azure to Help Brands Build Resilience into Customer Engagement Strategies"
-    excerpt: "Braze, the comprehensive customer engagement platform, today announced several product and partnership updates that enable brands to build resilience into customer engagement strategies."
-    publishedDateTime: 2020-10-06T15:08:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/braze-reveals-multi-cloud-support-with-microsoft-azure-to-help-brands-build-resilience-into-customer/article_3fa7875a-2785-5583-97bb-e6d47db9ba58.html"
+    excerpt: "Braze, the comprehensive customer engagement platform, today announced several product and partnership updates that enable brands to"
+    publishedDateTime: 2020-10-06T14:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/braze-reveals-multi-cloud-support-with-microsoft-azure-to-help-brands-build-resilience-into-customer-engagement-strategies-301146692.html"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 0
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 11
+    images:
+      - url: "https://mma.prnewswire.com/media/606099/Braze_Logo.jpg?p=facebook"
+        width: 2700
+        height: 1414
+        isCached: true
 
 secured: "C8qNSVXKTzUmC54kEKhva/2zUYoaj7KlSFm3BWGySMsG3lfFzzuInMuH9ZjI7Indmi7jxjios0wfMbG43nkJZDUOBby4+YESvTJrCkJYS+yG7P7cb+MymsbqMEaNomwBw/gm9VycL10uZmiZisRzvGYjp8WrtzKyYuxZ805jppVCD8Gy0se0vUjuFJ77g5gkueFnGk0XEhQqZnKMlRB3FqKtQci4m/SWF/4RXAffKtfNg+9JbUo78g/oEuP1EmDgUhZrdhRJWavFf7ClXOiGIHNwSP/xuomDojdAuWEgijJH51t+foTKd/pj0BcsTWou/QWhocT15UOcVNaetq/nUq9pfmF34iXX6RntGM/GKo4=;eF1zgPv4z4YRizWiRdwp1w=="
 ---

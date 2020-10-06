@@ -1,27 +1,23 @@
 ---
 category: news
-title: "Microsoft To Build New Azure Cloud Data Centers In Greece"
-excerpt: "Microsoft plans to spend up to $1 billion to build three data centers for its first Azure cloud region in Greece and provide digital technology training to up to 100,000 people there by 2025"
-publishedDateTime: 2020-10-05T17:36:00Z
-originalUrl: "https://www.crn.com/news/cloud/microsoft-to-build-new-azure-cloud-data-centers-in-greece"
-webUrl: "https://www.crn.com/news/cloud/microsoft-to-build-new-azure-cloud-data-centers-in-greece"
+title: "Microsoft pays over $370,000 for Azure Sphere bug reports"
+excerpt: "Microsoft awarded over $370,000 in bounties to security researchers for 16 bounty eligible reports of vulnerabilities submitted through the Azure Sphere Security Research Challenge (ASSRC) IoT-focused research program."
+publishedDateTime: 2020-10-06T16:00:00Z
+originalUrl: "https://www.bleepingcomputer.com/news/security/microsoft-pays-over-370-000-for-azure-sphere-bug-reports/"
+webUrl: "https://www.bleepingcomputer.com/news/security/microsoft-pays-over-370-000-for-azure-sphere-bug-reports/"
+ampWebUrl: "https://www.bleepingcomputer.com/news/security/microsoft-pays-over-370-000-for-azure-sphere-bug-reports/amp/"
+cdnAmpWebUrl: "https://www-bleepingcomputer-com.cdn.ampproject.org/c/s/www.bleepingcomputer.com/news/security/microsoft-pays-over-370-000-for-azure-sphere-bug-reports/amp/"
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: CRN
-  domain: crn.com
+  name: Bleeping Computer
+  domain: bleepingcomputer.com
 
 topics:
   - Azure
-
-images:
-  - url: "https://www.crn.com/resources/0261-107e1bc258dd-899507ddf083-1000/shot_of_corridor_in_working_data_center_full_of_rack_servers_and_supercomputers_with_cloud_storage_advantages_icon_visualization..jpeg"
-    width: 549
-    height: 309
-    isCached: true
 
 related:
   - title: "Microsoft's Azure AD authentication outage: What went wrong"
@@ -81,17 +77,20 @@ related:
         width: 960
         height: 640
         isCached: true
-  - title: "Microsoft pays over $370,000 for Azure Sphere bug reports"
-    excerpt: "Microsoft awarded over $370,000 in bounties to security researchers for 16 bounty eligible reports of vulnerabilities submitted through the Azure Sphere Security Research Challenge (ASSRC) IoT-focused research program."
-    publishedDateTime: 2020-10-06T16:00:00Z
-    webUrl: "https://www.bleepingcomputer.com/news/security/microsoft-pays-over-370-000-for-azure-sphere-bug-reports/"
-    ampWebUrl: "https://www.bleepingcomputer.com/news/security/microsoft-pays-over-370-000-for-azure-sphere-bug-reports/amp/"
-    cdnAmpWebUrl: "https://www-bleepingcomputer-com.cdn.ampproject.org/c/s/www.bleepingcomputer.com/news/security/microsoft-pays-over-370-000-for-azure-sphere-bug-reports/amp/"
+  - title: "Microsoft To Build New Azure Cloud Data Centers In Greece"
+    excerpt: "Microsoft plans to spend up to $1 billion to build three data centers for its first Azure cloud region in Greece and provide digital technology training to up to 100,000 people there by 2025"
+    publishedDateTime: 2020-10-05T17:36:00Z
+    webUrl: "https://www.crn.com/news/cloud/microsoft-to-build-new-azure-cloud-data-centers-in-greece"
     type: article
     provider:
-      name: Bleeping Computer
-      domain: bleepingcomputer.com
+      name: CRN
+      domain: crn.com
     quality: 37
+    images:
+      - url: "https://www.crn.com/resources/0261-107e1bc258dd-899507ddf083-1000/shot_of_corridor_in_working_data_center_full_of_rack_servers_and_supercomputers_with_cloud_storage_advantages_icon_visualization..jpeg"
+        width: 549
+        height: 309
+        isCached: true
   - title: "Komprise is also selected as a co-sell ready partner for Microsoft Azure"
     excerpt: "PRNewswire/ -- Komprise, the leader in analytics-driven data management, today announced new capabilities for its Intelligent Data Management solution in Microsoft Azure. Customers can"
     publishedDateTime: 2020-10-06T14:32:00Z
@@ -200,6 +199,6 @@ related:
       domain: helpnetsecurity.com
     quality: 1
 
-secured: "K2Hu2SDuji77rJYIB9TW9GVjSKt+3TswpmWrPsgveqjUGL6wcQtFgNZoAfE9mSFMJ3oqnKrvbnmyeGPk6Kbr+yN7UYAPNLxEPS5n1dZAb9OuXjQ94euuifQ37JTBYPCcxHRuEHgT5kfyUlBUUD2J2Ji8YY/XAm74r04UeVvVspIoefBh4w0r/ZlqXGjNoXJ+xrvHISE0LcoeYM85GDt6hSW66GEXm47qk+QYRTzC5hiNHHQWDNWoK2DVtyzpL4+sIRLQafq9cv0GQjse5Ry64H5+KBbK6zjVOsexJhFzTYJ0K4Z21UIUQyq6dSgLJ6m5viLQjMmVa76XOtBszkPDY3a9WRBzfITrUosiN2ok0yUvs1NrihJ9tDQUgQi8eq7JSrllh8apnpAd/jIttbmDOsHZRAjvhwfeH/ZrdzXsBkEnLROrzRlFsOCBBs9JU9DiKVYVqYDxf/VAjYS8s0HbccZ7w6EyFbnG5SBbWyL+I9ceWhvhjlQb+5FUtLOjUQ+mOs9FxqewS2vi9/N03tWGlA==;q8PEVO71FjBTuiCtZhRp9g=="
+secured: "G8+oWcNXi4m0JUPSq+mC9U2CjDODRaeO2ZzLnh8H+DQqWONJSMPxrLs3e/0ZnB6cL83ToPyLbVz182BlfVnbRqd+DmGokDqcQ9U3PFIrgnFRE9eVJXcGN/sC8chOodyLaIOvdn14Ash8rfWAOa50SOqXJSAqiF36xb+xu2YwXiREavyE+ykCQGRaEHh8E5qLFw6RJo/A3FKoHtGr+BkeTpR2fx8wJPZA/XBe155X3zOqRpWBDebhwNAYlkDELliS1gdw5kwx56v0FRsbvBkpKTalzbu3swJfvilqtbcYYxL75PfXcsk1zTZgdH0R/KMKH9H+vdy8N26Qm0XkSs7zTaZlZESOkrK7cL2n9CkAg/vJCXRZdC3uBDrTGHsAkXmSwLWuGcDzdOWt53c5uQb5bQ0bYv7QXNsWRpVg7hE8ge8aLlj8hZvCsfIwv4QPWHiAbpAyt918/6cOW5E2BygfwIAY2DOqlas3ViqpdfWyysPYBcpN0s9ZShM3h7jQJb0e5C4aMtCOU2Zww39mqj2+wA==;Mb5lPDNdfvykjRfsiP7rng=="
 ---
 

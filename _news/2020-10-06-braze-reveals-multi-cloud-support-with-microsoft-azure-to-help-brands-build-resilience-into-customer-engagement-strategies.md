@@ -1,21 +1,27 @@
 ---
 category: news
 title: "Braze Reveals Multi-Cloud Support with Microsoft Azure to Help Brands Build Resilience into Customer Engagement Strategies"
-excerpt: "Braze, the comprehensive customer engagement platform, today announced several product and partnership updates that enable brands to build resilience into customer engagement strategies."
-publishedDateTime: 2020-10-06T15:08:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/braze-reveals-multi-cloud-support-with-microsoft-azure-to-help-brands-build-resilience-into-customer/article_3fa7875a-2785-5583-97bb-e6d47db9ba58.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/braze-reveals-multi-cloud-support-with-microsoft-azure-to-help-brands-build-resilience-into-customer/article_3fa7875a-2785-5583-97bb-e6d47db9ba58.html"
+excerpt: "Braze, the comprehensive customer engagement platform, today announced several product and partnership updates that enable brands to"
+publishedDateTime: 2020-10-06T14:00:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/braze-reveals-multi-cloud-support-with-microsoft-azure-to-help-brands-build-resilience-into-customer-engagement-strategies-301146692.html"
+webUrl: "https://www.prnewswire.com/news-releases/braze-reveals-multi-cloud-support-with-microsoft-azure-to-help-brands-build-resilience-into-customer-engagement-strategies-301146692.html"
 type: article
-quality: 0
+quality: 11
 heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Azure
+
+images:
+  - url: "https://mma.prnewswire.com/media/606099/Braze_Logo.jpg?p=facebook"
+    width: 2700
+    height: 1414
+    isCached: true
 
 related:
   - title: "Microsoft's Azure AD authentication outage: What went wrong"
@@ -75,6 +81,17 @@ related:
         width: 960
         height: 640
         isCached: true
+  - title: "Microsoft pays over $370,000 for Azure Sphere bug reports"
+    excerpt: "Microsoft awarded over $370,000 in bounties to security researchers for 16 bounty eligible reports of vulnerabilities submitted through the Azure Sphere Security Research Challenge (ASSRC) IoT-focused research program."
+    publishedDateTime: 2020-10-06T16:00:00Z
+    webUrl: "https://www.bleepingcomputer.com/news/security/microsoft-pays-over-370-000-for-azure-sphere-bug-reports/"
+    ampWebUrl: "https://www.bleepingcomputer.com/news/security/microsoft-pays-over-370-000-for-azure-sphere-bug-reports/amp/"
+    cdnAmpWebUrl: "https://www-bleepingcomputer-com.cdn.ampproject.org/c/s/www.bleepingcomputer.com/news/security/microsoft-pays-over-370-000-for-azure-sphere-bug-reports/amp/"
+    type: article
+    provider:
+      name: Bleeping Computer
+      domain: bleepingcomputer.com
+    quality: 37
   - title: "Microsoft To Build New Azure Cloud Data Centers In Greece"
     excerpt: "Microsoft plans to spend up to $1 billion to build three data centers for its first Azure cloud region in Greece and provide digital technology training to up to 100,000 people there by 2025"
     publishedDateTime: 2020-10-05T17:36:00Z
@@ -183,6 +200,6 @@ related:
       domain: helpnetsecurity.com
     quality: 1
 
-secured: "cJa/QnqhX88alNL9PhZhrRw7ICtlyFoDI9ybjme49WWBGV3fjGGzoyXMEYQV1E7HjLXly6uKK9kSDuKVxM71AFJksAMCo8dgR+cGHCGCvlJIQrxWiA3NMnGJpWTj4QgVJKHKOwmDmWeALS17LtrT/5hGwjep4uUDWI+/wbAIM76CJUFxjAzLXv25d86hED/EtfHMmRDN+4YLGFyC2z+hAcqR/IrFTG9DD4I/CddOs4z4mDvsFBR7mFlxHF19D0DsX4GPTWFkualTCj6drTC2xyB4XUswpMs+SEj2MMbuxwAL5mZKuEY0BFK7hB+qWaJNJ1SdcOTiOHSJxmlXIwqPvHr1iSG7R5HTRPE55GthsRIjsgt21kgQW8SxLWr/daKKnZUa7wr5iX9zdRm3uSo33VovHiUxEpd5RaNMtRp8UKwrdPJ/4mdHgCAObtyk3SKUvcKd8HHJBucNMstV7A/5p6TYYo8wgFQstX2GGQKWL1v/aMY7bFHLC2jzVb+UqWDVKSUZ/QxG1lZZavoQCzfbXQ==;xOG9WtQufCBfXJR4l9oruw=="
+secured: "fdypr+hJahQ5pYMYjq8iGdMbBSgP47ONiPoaDAbKAet5oKB6FfLdn1aOhJesDmjg8EsqEhfFMSUBPzmEZ3sfdkHKCI9V9DjQBNAZXSKELBZspUr7E2WNW8xITbVmJU0x/fU+RNDSK4Ze4Kd7Ol7Za+gX5DR7KvkQkqjH+uJQjJRituyABH7NmDwmhbu5oxErpu50hIXzm5PPOk/qYv5HjjXtMXyU5i2Vptyk9IwMFzabpe06u3eX0WNIStFjRUXzbZ0BcE/wVp3dhr/TkxNsRL8w+0b8gkR9+KnosBXvQnbnGh/5K/NrDNom+fd8U2k9s2UKxseU9+qJ7WlzzeErO9dLIqNVBw6DgsFXHLNvpaQ=;8BWmHpLA69C2ArWgg0ouNQ=="
 ---
 

@@ -81,6 +81,17 @@ related:
         width: 960
         height: 640
         isCached: true
+  - title: "Microsoft pays over $370,000 for Azure Sphere bug reports"
+    excerpt: "Microsoft awarded over $370,000 in bounties to security researchers for 16 bounty eligible reports of vulnerabilities submitted through the Azure Sphere Security Research Challenge (ASSRC) IoT-focused research program."
+    publishedDateTime: 2020-10-06T16:00:00Z
+    webUrl: "https://www.bleepingcomputer.com/news/security/microsoft-pays-over-370-000-for-azure-sphere-bug-reports/"
+    ampWebUrl: "https://www.bleepingcomputer.com/news/security/microsoft-pays-over-370-000-for-azure-sphere-bug-reports/amp/"
+    cdnAmpWebUrl: "https://www-bleepingcomputer-com.cdn.ampproject.org/c/s/www.bleepingcomputer.com/news/security/microsoft-pays-over-370-000-for-azure-sphere-bug-reports/amp/"
+    type: article
+    provider:
+      name: Bleeping Computer
+      domain: bleepingcomputer.com
+    quality: 37
   - title: "Microsoft To Build New Azure Cloud Data Centers In Greece"
     excerpt: "Microsoft plans to spend up to $1 billion to build three data centers for its first Azure cloud region in Greece and provide digital technology training to up to 100,000 people there by 2025"
     publishedDateTime: 2020-10-05T17:36:00Z
@@ -165,6 +176,20 @@ related:
         width: 400
         height: 240
         isCached: true
+  - title: "Braze Reveals Multi-Cloud Support with Microsoft Azure to Help Brands Build Resilience into Customer Engagement Strategies"
+    excerpt: "Braze, the comprehensive customer engagement platform, today announced several product and partnership updates that enable brands to"
+    publishedDateTime: 2020-10-06T14:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/braze-reveals-multi-cloud-support-with-microsoft-azure-to-help-brands-build-resilience-into-customer-engagement-strategies-301146692.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 11
+    images:
+      - url: "https://mma.prnewswire.com/media/606099/Braze_Logo.jpg?p=facebook"
+        width: 2700
+        height: 1414
+        isCached: true
   - title: "Microsoft Azure customers can now implement Datadog as a monitoring solution for their cloud workloads"
     excerpt: "Datadog announced a new strategic partnership with Microsoft Azure and is now be available in the Azure console as a first class service."
     publishedDateTime: 2020-10-01T23:33:00Z
@@ -174,15 +199,6 @@ related:
       name: Help Net Security
       domain: helpnetsecurity.com
     quality: 1
-  - title: "Braze Reveals Multi-Cloud Support with Microsoft Azure to Help Brands Build Resilience into Customer Engagement Strategies"
-    excerpt: "Braze, the comprehensive customer engagement platform, today announced several product and partnership updates that enable brands to build resilience into customer engagement strategies."
-    publishedDateTime: 2020-10-06T15:08:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/braze-reveals-multi-cloud-support-with-microsoft-azure-to-help-brands-build-resilience-into-customer/article_3fa7875a-2785-5583-97bb-e6d47db9ba58.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 0
 
 secured: "KYf4cM95SWZEa2/DbZpoosGd9cYh1Tv/NzqVoytlrBa01w2lgzac5Q5vysmpFFxMYRBDwZd0MNuNfsPyk7LomJJK8vd3R8k4jGE4AmqwrNScZpN84xaZt2U7y7nPeUGypeC1DAUCIVsQeP0R5htLoGwf8SagjAYrfmhheNY5C0XiSvUokGHPj/5w8fcYnaOa/5tU2Kyz6juEeAPUvtEIGh5y13pmq7SSXBMm1jDuM9sDS8Y6hJoArmxrtXeIuZkhw1cbw6kDhIVJDWac5N0+dBm2JcqULDoCtNSrTN7i4NiGCEf9GNZ6DL9H8xGJI/odFmB4jFx1gUm/YAvGslY3qj2iajEMDg9aveEKYfx434c=;2iRzoWEAdW53hdYaCjevXw=="
 ---
