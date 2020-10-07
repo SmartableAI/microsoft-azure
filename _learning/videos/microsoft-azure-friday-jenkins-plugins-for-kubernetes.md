@@ -1,0 +1,33 @@
+---
+title: "Azure Friday | Jenkins Plugins for Kubernetes"
+excerpt: "Pui Chee \"PC\" Chan joins Scott Hanselman to discuss native support for Jenkins in Azure. Our plugins make it easy for you to build your project using a container agent and then automate deployment from Jenkins to an Azure Container Service Kubernetes cluster.  Announcing Deploy to Kubernetes & Azure"
+originalUrl: https://youtube.com/watch?v=-pqrTrBkkVg
+type: video
+price: Free
+length: PT10M47S
+publishedDateTime: 2017-10-12T18:09:30Z
+heat: 50
+
+featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-pqrTrBkkVg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+
+provider:
+  name: Microsoft
+  domain: microsoft.com
+  images:
+    - url: https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg
+      width: 50
+      height: 50
+
+topics:
+  - Azure
+  - Containers
+
+images:
+  - url: https://i.ytimg.com/vi/-pqrTrBkkVg/maxresdefault.jpg
+    width: 1280
+    height: 720
+    isCached: true
+
+secured: "dfSheeT1jC1b6Pm5lI6zLZZKVjQe4x+/prwX16902sxo2Yz/NGGG4WOZLvf3bMFLyg7vI9tKYHJb5JFA9dU+oIe3PmaYFYrl7lhbUPwDT2Kri/Z37KLMd2xlrSATWJXySDDqdp/tIzTr9MzEDbqHeAMsFWLL4ZyqTFZX9I3du0oqrnEjJexEPvsn2jUYDIzcnjAPSY43FDkpoE0icJntFt1ODBl8hRCaj26bgu1zUom28Ugy4XmKbe/KyV1KbHC7LFFigS2crjHlgm8r7itfvsmgFvd93zT2coSNOkXXh9OUI0W2tMXLlc1mogyb+jt9o7ih6xlXMWwdc0FWYCGp+ToKCuEdN0DxCUPAf8KFRpl+y93c5sqr1TTBhGcJTqJ4MtYQ9C5hh9E2W89tJmogwg==;WI4JiHqgeOn4rmfP77OS/Q=="
+---
+
