@@ -7,7 +7,7 @@ originalUrl: "https://www.totaltele.com/507362/Scality-Announces-1-Terabit-Per-S
 webUrl: "https://www.totaltele.com/507362/Scality-Announces-1-Terabit-Per-Second-Performance-for-Scale-Out-File-System-in-Microsoft-Azure-Public-Cloud"
 type: article
 quality: 18
-heat: 18
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,17 @@ images:
     isCached: true
 
 related:
+  - title: "Quzara Cybertorch™ Adds Enhanced Security Operations Capabilities Through Azure Sentinel for the Microsoft Cloud"
+    excerpt: "Quzara Cybertorch™, Washington D.C based Security Operations Center (SOC) and Microsoft Partner, operated by cybersecurity firm Quzara LLC, announced deeper integrations for the Microsoft Commercial and Government Cloud."
+    publishedDateTime: 2020-10-07T07:43:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/quzara-cybertorch-adds-enhanced-security-operations-capabilities-through-azure-sentinel-for-the-microsoft-cloud-1029652288"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/quzara-cybertorch-adds-enhanced-security-operations-capabilities-through-azure-sentinel-for-the-microsoft-cloud-1029652288"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/quzara-cybertorch-adds-enhanced-security-operations-capabilities-through-azure-sentinel-for-the-microsoft-cloud-1029652288"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 73
   - title: "Komprise addresses demand for file data management in the cloud with new capabilities for Microsoft Azure Files and Azure NetApp Files"
     excerpt: "PRNewswire/ -- Komprise, the leader in analytics-driven data management, today announced new capabilities for its Komprise Intelligent Data"
     publishedDateTime: 2020-10-06T13:00:00Z
