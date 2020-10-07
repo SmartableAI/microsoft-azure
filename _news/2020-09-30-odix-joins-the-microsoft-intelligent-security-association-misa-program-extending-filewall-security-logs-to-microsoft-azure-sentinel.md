@@ -1,27 +1,27 @@
 ---
 category: news
 title: "odix joins the Microsoft Intelligent Security Association (MISA) program extending FileWall security logs to Microsoft Azure Sentinel"
-excerpt: "PRNewswire/ --  odix, the Israel based cyber security leader in Enterprise CDR (Content Disarm and Reconstruction) technology, has officially  joined"
+excerpt: "PRNewswire/ -- odix, the Israel based cyber security leader in Enterprise CDR (Content Disarm and Reconstruction) technology, has officially joined the Microsoft Intelligent Security Association (MISA) program."
 publishedDateTime: 2020-09-30T06:00:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/odix-joins-the-microsoft-intelligent-security-association-misa-program-extending-filewall-security-logs-to-microsoft-azure-sentinel-301140169.html"
-webUrl: "https://www.prnewswire.com/news-releases/odix-joins-the-microsoft-intelligent-security-association-misa-program-extending-filewall-security-logs-to-microsoft-azure-sentinel-301140169.html"
+originalUrl: "https://apnews.com/press-release/pr-newswire/corporate-news-malware-technology-business-products-and-services-7f47216304d0cbe47043b2ee79c6911a"
+webUrl: "https://apnews.com/press-release/pr-newswire/corporate-news-malware-technology-business-products-and-services-7f47216304d0cbe47043b2ee79c6911a"
 type: article
 quality: 23
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Azure
   - Security
 
 images:
-  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-    width: 600
-    height: 315
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -202,6 +202,20 @@ related:
         width: 400
         height: 240
         isCached: true
+  - title: "Dicom Systems Launches Enterprise Imaging Platform in the Microsoft Azure Marketplace, Deploys to a Leading National IDN"
+    excerpt: "Azure will streamline deployment for the nearly 6,000 modalities that will now be managed by Unifier enterprise imaging appliance. \"Through Microsoft Azure Marketplace, customers around the world can easily find, buy, and deploy partner solutions they can ..."
+    publishedDateTime: 2020-10-07T13:44:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/dicom-systems-launches-enterprise-imaging-platform-in-the-microsoft-azure-marketplace-deploys-to-a-leading-national-idn-301147741.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 12
+    images:
+      - url: "https://mma.prnewswire.com/media/1308768/DMWL_com_main_artwork.jpg?p=facebook"
+        width: 600
+        height: 314
+        isCached: true
   - title: "Microsoft Azure customers can now implement Datadog as a monitoring solution for their cloud workloads"
     excerpt: "Datadog announced a new strategic partnership with Microsoft Azure and is now be available in the Azure console as a first class service."
     publishedDateTime: 2020-10-01T23:33:00Z
@@ -221,6 +235,6 @@ related:
       domain: wfmz.com
     quality: 0
 
-secured: "rFmHfDiBexD7j3U4eeLrhP/6vPGGoTcJftjfoD/WKj1PysZIqxlkwKXjBYzopqup9eKmbyuyGdbTvxgp3kJbRbPBKs3az5LkAvMdGK/vVRhEDgJ5asbsNnCszZHSYYxsSYSN/qM/QUYiWbPHSRMHuA+TbicRZtnOMgQjbkUUrDt/e3DIat3yZtBjNWK+mP4t9m5ExwvHehYoIuYkfezzhFaUctjBNfLmJC/nq7uZCaR3hpjNGa06nnEnx+GBfH8pUzjUEnpb6yHnetFRW4XTMv4xr787zNLQONk1zoQe/aVlewPbyTKZP46/E7pa8VmCyhPUOJDSkYU/fHjmWaVGwP3P7bFvmmT8x+R1GtVBA+A=;6jqjmLx4KxFZBV/oHjrIXg=="
+secured: "vhDi34VnipCA5a9m6HirxdQM+kJX5ZvuS2qn1eeDyAXFGi++fYXW26CV6H7aSU4fK85ji5R46D3pFnMo1tTaw9xDyKn9AiqkFo7wxQ/QN/I8cvQ8kDhC3GQAVtQ+iGxfJDEOJ8/+cqZpBd8tkjw3x+Dpam9TqaWcz2dyKRfxvY/cgAFeu3BLwy+qXo30zrLKzjodCLS5d0yabGX6NyosN7FdwmwQs9LFzB501vKbkms/Ch6kkydD0uETxVOvCKMs8ivXdm+c9DlR3+KNekthXoI8XyF+KyLaHaXR36Tr9QzEvpxM6G0ILXd1dX1OcIa+VVIBJYh7fxSGnQorrjQi6oAtqHkK49Aw1bZ4riYA1/w=;UcAW34wDn714bOsm0jMdKA=="
 ---
 

@@ -182,18 +182,18 @@ related:
         height: 242
         isCached: true
   - title: "odix joins the Microsoft Intelligent Security Association (MISA) program extending FileWall security logs to Microsoft Azure Sentinel"
-    excerpt: "PRNewswire/ --  odix, the Israel based cyber security leader in Enterprise CDR (Content Disarm and Reconstruction) technology, has officially  joined"
+    excerpt: "PRNewswire/ -- odix, the Israel based cyber security leader in Enterprise CDR (Content Disarm and Reconstruction) technology, has officially joined the Microsoft Intelligent Security Association (MISA) program."
     publishedDateTime: 2020-09-30T06:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/odix-joins-the-microsoft-intelligent-security-association-misa-program-extending-filewall-security-logs-to-microsoft-azure-sentinel-301140169.html"
+    webUrl: "https://apnews.com/press-release/pr-newswire/corporate-news-malware-technology-business-products-and-services-7f47216304d0cbe47043b2ee79c6911a"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
+      name: Associated Press
+      domain: apnews.com
     quality: 23
     images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
   - title: "Hexaware Becomes a Microsoft Azure Expert Managed Service Provider (MSP) and Earns Advanced Certification for Data Warehouse Migration to Azure"
     excerpt: "PRNewswire/ -- Hexaware, one of the fastest growing next-generation digital transformation partners, today announced that it has become a Microsoft Azure Expert Managed Service Provider"
@@ -208,6 +208,20 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/e/a2/ea266891-8fda-5615-b463-9568cb768b25/5f7317f848af8.image.jpg?resize=400%2C240"
         width: 400
         height: 240
+        isCached: true
+  - title: "Dicom Systems Launches Enterprise Imaging Platform in the Microsoft Azure Marketplace, Deploys to a Leading National IDN"
+    excerpt: "Azure will streamline deployment for the nearly 6,000 modalities that will now be managed by Unifier enterprise imaging appliance. \"Through Microsoft Azure Marketplace, customers around the world can easily find, buy, and deploy partner solutions they can ..."
+    publishedDateTime: 2020-10-07T13:44:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/dicom-systems-launches-enterprise-imaging-platform-in-the-microsoft-azure-marketplace-deploys-to-a-leading-national-idn-301147741.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 12
+    images:
+      - url: "https://mma.prnewswire.com/media/1308768/DMWL_com_main_artwork.jpg?p=facebook"
+        width: 600
+        height: 314
         isCached: true
   - title: "Microsoft Azure customers can now implement Datadog as a monitoring solution for their cloud workloads"
     excerpt: "Datadog announced a new strategic partnership with Microsoft Azure and is now be available in the Azure console as a first class service."

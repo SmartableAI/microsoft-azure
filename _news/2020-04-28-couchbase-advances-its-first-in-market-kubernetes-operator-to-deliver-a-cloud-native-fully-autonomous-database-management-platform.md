@@ -53,15 +53,6 @@ related:
         width: 1024
         height: 1024
         isCached: true
-  - title: "Azure Red Hat OpenShift on OpenShift 4 now available"
-    excerpt: ""
-    publishedDateTime: 2020-04-28T14:00:37Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-red-hat-openshift-on-openshift-4-now-available/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 17
 
 secured: "4sg3JsF2Jawjt6/bzmVBAdgyOKiLKvLhmbbHW5cNLKtMO2OTCsfLXpfqwgU3SgrFIu+uhXR2e+EmkapEZpo4kBnoUHsMcjd7i97xH0qL5Gj6KqxFE/Uok2d78gSdhFrZeXMQ2e9yN07WxyxHXqkd7AUktt/9V9oBXWQQsGjTEXcZLgUfAkQMM/l/7SEY0zo1iYtgH6g3eRlRwT5ntsDQZ7BO8F1cGyX9O8bheJSv6cA/NB1rXSo921QfMhi/tq3iNjXyV07v+BAADar2OOqtWdFujciowo1EzUWrUGGqnPE4lBCWggjkwP14j1IbPYgT;vOm2SVCH4AppxSrzNnzhtQ=="
 ---

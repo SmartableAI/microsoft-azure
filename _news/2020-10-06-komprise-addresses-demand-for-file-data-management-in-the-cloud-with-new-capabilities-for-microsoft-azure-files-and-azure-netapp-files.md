@@ -35,6 +35,17 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 73
+  - title: "Tamr Announces the Only Cloud-Native Data Mastering Solutions for Google Cloud Platform, AWS, and Microsoft Azure"
+    excerpt: "PRNewswire/ -- Tamr, Inc., a cloud-native data mastering platform used by some of the world's largest enterprises"
+    publishedDateTime: 2020-10-07T13:35:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/tamr-announces-the-only-cloud-native-data-mastering-solutions-for-google-cloud-platform-aws-and-microsoft-azure-1029657406"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/tamr-announces-the-only-cloud-native-data-mastering-solutions-for-google-cloud-platform-aws-and-microsoft-azure-1029657406"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/tamr-announces-the-only-cloud-native-data-mastering-solutions-for-google-cloud-platform-aws-and-microsoft-azure-1029657406"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 56
   - title: "Scality Announces 1 Terabit Per Second Performance for Scale-Out File System in Microsoft Azure Public Cloud"
     excerpt: "Scality, a leader in software solutions for distributed file and object storage, today announced the technical preview of its high-performance scale-out file system (SOFS) in Microsoft Azure. Scality SOFS running in Azure delivers linear scaling performance for read- and write-intensive workloads."
     publishedDateTime: 2020-10-06T02:26:00Z

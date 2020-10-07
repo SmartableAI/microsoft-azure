@@ -1,27 +1,26 @@
 ---
 category: news
-title: "Hexaware Becomes a Microsoft Azure Expert Managed Service Provider (MSP) and Earns Advanced Certification for Data Warehouse Migration to Azure"
-excerpt: "PRNewswire/ -- Hexaware, one of the fastest growing next-generation digital transformation partners, today announced that it has become a Microsoft Azure Expert Managed Service Provider"
-publishedDateTime: 2020-09-29T11:00:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/hexaware-becomes-a-microsoft-azure-expert-managed-service-provider-msp-and-earns-advanced-certification-for/article_b7ca4438-faa7-5453-8088-a48bfb848777.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/hexaware-becomes-a-microsoft-azure-expert-managed-service-provider-msp-and-earns-advanced-certification-for/article_b7ca4438-faa7-5453-8088-a48bfb848777.html"
+title: "Dicom Systems Launches Enterprise Imaging Platform in the Microsoft Azure Marketplace, Deploys to a Leading National IDN"
+excerpt: "Azure will streamline deployment for the nearly 6,000 modalities that will now be managed by Unifier enterprise imaging appliance. \"Through Microsoft Azure Marketplace, customers around the world can easily find, buy, and deploy partner solutions they can ..."
+publishedDateTime: 2020-10-07T13:44:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/dicom-systems-launches-enterprise-imaging-platform-in-the-microsoft-azure-marketplace-deploys-to-a-leading-national-idn-301147741.html"
+webUrl: "https://www.prnewswire.com/news-releases/dicom-systems-launches-enterprise-imaging-platform-in-the-microsoft-azure-marketplace-deploys-to-a-leading-national-idn-301147741.html"
 type: article
-quality: 18
+quality: 12
 heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Azure
-  - Migration
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/e/a2/ea266891-8fda-5615-b463-9568cb768b25/5f7317f848af8.image.jpg?resize=400%2C240"
-    width: 400
-    height: 240
+  - url: "https://mma.prnewswire.com/media/1308768/DMWL_com_main_artwork.jpg?p=facebook"
+    width: 600
+    height: 314
     isCached: true
 
 related:
@@ -202,19 +201,19 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Dicom Systems Launches Enterprise Imaging Platform in the Microsoft Azure Marketplace, Deploys to a Leading National IDN"
-    excerpt: "Azure will streamline deployment for the nearly 6,000 modalities that will now be managed by Unifier enterprise imaging appliance. \"Through Microsoft Azure Marketplace, customers around the world can easily find, buy, and deploy partner solutions they can ..."
-    publishedDateTime: 2020-10-07T13:44:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/dicom-systems-launches-enterprise-imaging-platform-in-the-microsoft-azure-marketplace-deploys-to-a-leading-national-idn-301147741.html"
+  - title: "Hexaware Becomes a Microsoft Azure Expert Managed Service Provider (MSP) and Earns Advanced Certification for Data Warehouse Migration to Azure"
+    excerpt: "PRNewswire/ -- Hexaware, one of the fastest growing next-generation digital transformation partners, today announced that it has become a Microsoft Azure Expert Managed Service Provider"
+    publishedDateTime: 2020-09-29T11:00:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/hexaware-becomes-a-microsoft-azure-expert-managed-service-provider-msp-and-earns-advanced-certification-for/article_b7ca4438-faa7-5453-8088-a48bfb848777.html"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 12
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 18
     images:
-      - url: "https://mma.prnewswire.com/media/1308768/DMWL_com_main_artwork.jpg?p=facebook"
-        width: 600
-        height: 314
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/e/a2/ea266891-8fda-5615-b463-9568cb768b25/5f7317f848af8.image.jpg?resize=400%2C240"
+        width: 400
+        height: 240
         isCached: true
   - title: "Microsoft Azure customers can now implement Datadog as a monitoring solution for their cloud workloads"
     excerpt: "Datadog announced a new strategic partnership with Microsoft Azure and is now be available in the Azure console as a first class service."
@@ -235,6 +234,6 @@ related:
       domain: wfmz.com
     quality: 0
 
-secured: "qywAwBFkEqpmNLIXcQ2iAgu7W4BnMzTajXXgku5t47rkx0IPoX22X7BHOGqhwrGaMOr8hFgGrHnPvLrxTDRR8ROhNq4dpOZF9I3FQXDHFJ4bL06Nj1o+BTvNOOT5QipfPJSZlBcdhOQvXfJXQxjbLka/uRmOtn2UknOZPlqBmkcYhBl6MT7xCjTkFJJoIrBkclbgIChqVcC0mSzr2nTyr7oVmUUdzP3E03cyJeyO3IY9DPiAFIY1E11hU5oVhdekMHUcbjKd1bRQexraMB6os5LbWLMfKdYKB6KrlqM7yh02UU0x6/Es/jl5hSXhZv7udD1dP37SHgWmBD1RWBsXzFpTgAQ+QKew9V7mK6VJ/8QMWgTXHWJVyNo8+ADmhLwB4/cFWNyX7i2W7ka6DkbiK0Iq8oUiqKL2aeClc1BUtnFWAx0vLK0vyoUfx5iLdgFzUoQ/exBQBMHuAmAg0Jr+6ppJb6RnqJOt+WY1r+ADdc4EMQs2sdedGNxDtX4E+nc4shIZyATpVLhOmwa50YxAjA==;VxGfCy8J2q6v8lNXjs3sLQ=="
+secured: "hnDUtTXC5H1xQ2GMEF2WNPFNDpDgDI9xEuQoAsYbuC17fyzSY6YLbn4ozEbvdvyurCJmreMzu76Tg8fH4IHZiPg6iHB8GADfB2wJg5GRw+a8NJ52KVZ/xVzi18CIg+VebUKYJ/OL72PRM4/C2awetV/jqDhXUUVtQGXXmTQ7z2T+2fOyjo0d2NegkzQ/UIRmKLp9Q9Tb7D7g1Be1dj7DQt0o7h9PvFbU78OJ8zEp7zFJKeCzrfiH9tqjFuweDLtbKuTuKscxpCP3G6SZ02zNeVXlgNc5qX00h5M/QhScc2ZNp+qM79tOM+QQnLFDwVM3T/Mt114ND1wYGBGU5KCQMdnfoQtdtkDWvxuzpw/bPnw=;ThZl1M95VcQT+fKw49Cn2g=="
 ---
 

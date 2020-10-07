@@ -21,15 +21,38 @@ topics:
   - Azure
 
 related:
-  - title: "Azure Red Hat OpenShift is now ISO 27001 certified"
-    excerpt: "To help you meet your compliance obligations across regulated industries and markets worldwide, Azure Red Hat OpenShift is now  ISO 27001 certified. "
-    publishedDateTime: 2020-07-21T16:00:32Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-red-hat-openshift-has-a-new-certification/"
+  - title: "Lower prices and more flexible purchase options for Azure Red Hat OpenShift"
+    excerpt: "For the past several years, Microsoft and Red Hat have worked together to co-develop hybrid cloud solutions intended to enable greater customer innovation."
+    publishedDateTime: 2020-10-07T06:00:13Z
+    webUrl: "https://azure.microsoft.com/blog/lower-prices-and-more-flexible-purchase-options-for-azure-red-hat-openshift/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 85
+    images:
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/e458daa2-bc45-4846-8529-4436841722be.png"
+        width: 1024
+        height: 535
+        isCached: true
+  - title: "Azure Red Hat OpenShift on OpenShift 4 now available"
+    excerpt: ""
+    publishedDateTime: 2020-04-28T14:00:37Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-red-hat-openshift-on-openshift-4-now-available/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
     quality: 17
+  - title: "Azure Monitor for Containers support for Azure Red Hat OpenShift 4.X & OpenShift 4.X in preview"
+    excerpt: ""
+    publishedDateTime: 2020-04-29T19:00:03Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/aro-openshift4update/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 5
 
 secured: "3++j9lVqWEKOiQ+CH8AuUscEeaSxdonor6lte1cTDWx3cUR5FdFlq8rzDvXCNugXKrCn9edT7ENeolgayD8cfrTGGnDtLldJ2BdsyndWO5vks4n+qqU+nQv/+2Sm1aNdzzG7eQkoV3QhN7uHeSC5WeMM4Np14btndQjZNx/YpbLTRjxhPwqf2+6lpQway1xiNJr4NXT5XdtWv5pEteUjigZtBW+Ey2cAHEZBoDlWSsjP5+gx6ltPxjiKYfzmNYEbChoD7NWq9jXxExvtVCUuULMTd5Q9Al5zknlyEWfStN//9KIjBN8aKcf6x+HH9ObHlemp6IWiU7tGtWud7VjbmA==;TO+BdOET4Xlf3QjnJyo4gQ=="
 ---

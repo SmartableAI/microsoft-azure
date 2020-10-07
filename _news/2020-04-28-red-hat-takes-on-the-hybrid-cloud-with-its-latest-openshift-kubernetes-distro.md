@@ -8,7 +8,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/red-hat-takes-on-the-hybrid
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/red-hat-takes-on-the-hybrid-cloud-with-its-latest-openshift-kubernetes-distro/"
 type: article
 quality: 79
-heat: 139
+heat: 119
 published: true
 
 provider:
@@ -46,15 +46,6 @@ related:
         width: 1024
         height: 1024
         isCached: true
-  - title: "Azure Red Hat OpenShift on OpenShift 4 now available"
-    excerpt: ""
-    publishedDateTime: 2020-04-28T14:00:37Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-red-hat-openshift-on-openshift-4-now-available/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 17
   - title: "Couchbase Advances Its First-In-Market Kubernetes Operator to Deliver a Cloud Native, Fully Autonomous Database Management Platform"
     excerpt: "Couchbase, the creator of the enterprise-class, multicloud to edge NoSQL database, today announced Version 2.0 of the Couchbase Autonomous Operator for Kubernetes (“Autonomous Operator”), the most mature and advanced operator in the industry."
     publishedDateTime: 2020-04-28T14:04:00Z

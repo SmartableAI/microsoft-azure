@@ -21,47 +21,38 @@ topics:
   - Azure
 
 related:
-  - title: "Red Hat takes on the hybrid cloud with its latest OpenShift Kubernetes distro"
-    excerpt: "IT's future belongs to containers and Kubernetes, and Red Hat thinks its latest OpenShift Kubernetes distro will take you there."
-    publishedDateTime: 2020-04-28T12:00:00Z
-    webUrl: "https://www.zdnet.com/article/red-hat-takes-on-the-hybrid-cloud-with-its-latest-openshift-kubernetes-distro/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/red-hat-takes-on-the-hybrid-cloud-with-its-latest-openshift-kubernetes-distro/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/red-hat-takes-on-the-hybrid-cloud-with-its-latest-openshift-kubernetes-distro/"
+  - title: "Lower prices and more flexible purchase options for Azure Red Hat OpenShift"
+    excerpt: "For the past several years, Microsoft and Red Hat have worked together to co-develop hybrid cloud solutions intended to enable greater customer innovation."
+    publishedDateTime: 2020-10-07T06:00:13Z
+    webUrl: "https://azure.microsoft.com/blog/lower-prices-and-more-flexible-purchase-options-for-azure-red-hat-openshift/"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 79
+      name: Microsoft
+      domain: microsoft.com
+    quality: 85
     images:
-      - url: "https://zdnet1.cbsistatic.com/hub/i/r/2019/10/17/80f9289a-950c-41d9-9434-64906e178775/thumbnail/1200x675/1503a8d0f23cb307b71eda70d8ddcada/openshift-container-logo.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "OpenShift, Kubernetes, And The Hybrid Cloud"
-    excerpt: "For all the talk of cloud computing for the past decade and a half, for all the growth that the hyperscale public cloud providers like Amazon Web"
-    publishedDateTime: 2020-04-28T13:53:00Z
-    webUrl: "https://www.nextplatform.com/2020/04/28/openshift-kubernetes-and-the-hybrid-cloud/"
-    ampWebUrl: "https://www.nextplatform.com/2020/04/28/openshift-kubernetes-and-the-hybrid-cloud/amp/"
-    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2020/04/28/openshift-kubernetes-and-the-hybrid-cloud/amp/"
-    type: article
-    provider:
-      name: The Next Platform
-      domain: nextplatform.com
-    quality: 42
-    images:
-      - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2020/01/skyscraper-cloud-looking-up-vertical-1024x1024.jpg"
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/e458daa2-bc45-4846-8529-4436841722be.png"
         width: 1024
-        height: 1024
+        height: 535
         isCached: true
-  - title: "Couchbase Advances Its First-In-Market Kubernetes Operator to Deliver a Cloud Native, Fully Autonomous Database Management Platform"
-    excerpt: "Couchbase, the creator of the enterprise-class, multicloud to edge NoSQL database, today announced Version 2.0 of the Couchbase Autonomous Operator for Kubernetes (“Autonomous Operator”), the most mature and advanced operator in the industry."
-    publishedDateTime: 2020-04-28T14:04:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/couchbase-advances-its-first-in-market-kubernetes-operator-to-deliver-a-cloud-native-fully-autonomous-database-management-platform-1029139072"
+  - title: "Azure Red Hat OpenShift on OpenShift 4.4 now available"
+    excerpt: "Red Hat OpenShift 4.4 is now available on Azure Red Hat OpenShift."
+    publishedDateTime: 2020-07-21T16:00:46Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-red-hat-openshift-on-openshift-44-now-available/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 12
+      name: Microsoft
+      domain: microsoft.com
+    quality: 17
+  - title: "Azure Monitor for Containers support for Azure Red Hat OpenShift 4.X & OpenShift 4.X in preview"
+    excerpt: ""
+    publishedDateTime: 2020-04-29T19:00:03Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/aro-openshift4update/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 5
 
 secured: "Prk3RAx8B8kGWpP5eQJhIvDVeOIY8hKxMikDYRpVIJbK6lnFc1abM2MmnIBfw1pc3Jg1alPd6Et1RHvUrJqCHwduNvfxDx+LnV/mKGqsrF+dXSikZ0X6s7GogpNPGi24tAGvSonh7WNZwPv7dTQyZRcf4aT+sldbUnRw5oYjtToTinBif7Fu2t0BcLt5zWNTY1gPsOfrT6sYf5t/nFiUTtihw5G3wm2vBtOGFb/ckZep4mD4aysPPEnEAxFfwGR1UXLln0GocfxDymbeNqIM96/7ZORlpwaT9rhMUvjB2I4KIUYBAZ81R4zQ8Uchuv0OR41tPo+CXNJjynBT4u8lsw==;dv1Zllux3Ng7RHzpmbYZFA=="
 ---
