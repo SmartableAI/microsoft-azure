@@ -310,6 +310,20 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "Veea Joins Microsoft Azure Certified for IoT"
+    excerpt: "Veea announced it has joined Microsoft Azure Certified for Internet of Things (IoT), assuring hardware and software has been pre-tested and verified to work with Microsoft Azure IoT services."
+    publishedDateTime: 2020-10-07T18:44:00Z
+    webUrl: "https://www.embedded-computing.com/news/veea-joins-microsoft-azure-certified-for-iot"
+    type: article
+    provider:
+      name: Embedded Computing Design
+      domain: embedded-computing.com
+    quality: 54
+    images:
+      - url: "https://content.cdntwrk.com/mediaproxy?url=http%3A%2F%2Fshare.opsy.st%2F5f7df584ec254-Screen%2BShot%2B2020-10-07%2Bat%2B10.06.03%2BAM.png&size=1&version=1602090399&sig=8fd9b7e83389625bf5b0ecc9e433904d&default=hubs%2Ftilebg-blogs.jpg"
+        width: 500
+        height: 272
+        isCached: true
   - title: "Verizon Business to accelerate IoT solution creation and deployment with Microsoft Azure"
     excerpt: "... to-end IoT solutions Verizon’s ThingSpace IoT platform and 5G/LTE network connectivity have been integrated with Microsoft Azure IoT Central to accelerate time-to-market and save significant costs for IoT solutions Cognizant is the first company to ..."
     publishedDateTime: 2020-07-23T13:54:00Z

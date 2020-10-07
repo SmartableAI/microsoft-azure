@@ -1,27 +1,27 @@
 ---
 category: news
-title: "New phishing scam uses IBM Cloud, Microsoft Azure to feign legitimacy"
-excerpt: "Once the victim types in a password that fits the criteria, they will be redirected to another fake page that appears to confirm the settings update, hosted on Microsoft Azure domain windows.net. By using reputable services from big name brands ..."
-publishedDateTime: 2020-07-20T12:02:00Z
-webUrl: "https://www.itproportal.com/news/new-phishing-scam-uses-ibm-cloud-microsoft-azure-to-feign-legitimacy/"
-ampWebUrl: "https://www.itproportal.com/amp/news/new-phishing-scam-uses-ibm-cloud-microsoft-azure-to-feign-legitimacy/"
-cdnAmpWebUrl: "https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/news/new-phishing-scam-uses-ibm-cloud-microsoft-azure-to-feign-legitimacy/"
+title: "Veea Joins Microsoft Azure Certified for IoT"
+excerpt: "Veea announced it has joined Microsoft Azure Certified for Internet of Things (IoT), assuring hardware and software has been pre-tested and verified to work with Microsoft Azure IoT services."
+publishedDateTime: 2020-10-07T18:44:00Z
+originalUrl: "https://www.embedded-computing.com/news/veea-joins-microsoft-azure-certified-for-iot"
+webUrl: "https://www.embedded-computing.com/news/veea-joins-microsoft-azure-certified-for-iot"
 type: article
-quality: 57
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: IT Pro Portal
-  domain: itproportal.com
+  name: Embedded Computing Design
+  domain: embedded-computing.com
 
 topics:
   - Azure
+  - IoT
 
 images:
-  - url: "https://cdn.mos.cms.futurecdn.net/pxGqCRJZTNqDKMwMhattxP-1200-80.jpg"
-    width: 1000
-    height: 667
+  - url: "https://content.cdntwrk.com/mediaproxy?url=http%3A%2F%2Fshare.opsy.st%2F5f7df584ec254-Screen%2BShot%2B2020-10-07%2Bat%2B10.06.03%2BAM.png&size=1&version=1602090399&sig=8fd9b7e83389625bf5b0ecc9e433904d&default=hubs%2Ftilebg-blogs.jpg"
+    width: 500
+    height: 272
     isCached: true
 
 related:
@@ -231,6 +231,22 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 74
+  - title: "New phishing scam uses IBM Cloud, Microsoft Azure to feign legitimacy"
+    excerpt: "Once the victim types in a password that fits the criteria, they will be redirected to another fake page that appears to confirm the settings update, hosted on Microsoft Azure domain windows.net. By using reputable services from big name brands ..."
+    publishedDateTime: 2020-07-20T12:02:00Z
+    webUrl: "https://www.itproportal.com/news/new-phishing-scam-uses-ibm-cloud-microsoft-azure-to-feign-legitimacy/"
+    ampWebUrl: "https://www.itproportal.com/amp/news/new-phishing-scam-uses-ibm-cloud-microsoft-azure-to-feign-legitimacy/"
+    cdnAmpWebUrl: "https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/news/new-phishing-scam-uses-ibm-cloud-microsoft-azure-to-feign-legitimacy/"
+    type: article
+    provider:
+      name: IT Pro Portal
+      domain: itproportal.com
+    quality: 57
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/pxGqCRJZTNqDKMwMhattxP-1200-80.jpg"
+        width: 1000
+        height: 667
+        isCached: true
   - title: "Microsoft finally moving Minecraft from Amazon Web Services to Azure"
     excerpt: "Mojang and Microsoft are finally moving the Minecraft infrastructure from Amazon Web Services (AWS) to Microsoft Azure servers."
     publishedDateTime: 2020-07-21T03:20:00Z
@@ -294,20 +310,6 @@ related:
       - url: "https://wp-assets.futurism.com/2020/07/sale_25748_primary_image_wide-600x315.jpg"
         width: 600
         height: 315
-        isCached: true
-  - title: "Veea Joins Microsoft Azure Certified for IoT"
-    excerpt: "Veea announced it has joined Microsoft Azure Certified for Internet of Things (IoT), assuring hardware and software has been pre-tested and verified to work with Microsoft Azure IoT services."
-    publishedDateTime: 2020-10-07T18:44:00Z
-    webUrl: "https://www.embedded-computing.com/news/veea-joins-microsoft-azure-certified-for-iot"
-    type: article
-    provider:
-      name: Embedded Computing Design
-      domain: embedded-computing.com
-    quality: 54
-    images:
-      - url: "https://content.cdntwrk.com/mediaproxy?url=http%3A%2F%2Fshare.opsy.st%2F5f7df584ec254-Screen%2BShot%2B2020-10-07%2Bat%2B10.06.03%2BAM.png&size=1&version=1602090399&sig=8fd9b7e83389625bf5b0ecc9e433904d&default=hubs%2Ftilebg-blogs.jpg"
-        width: 500
-        height: 272
         isCached: true
   - title: "Verizon Business to accelerate IoT solution creation and deployment with Microsoft Azure"
     excerpt: "... to-end IoT solutions Verizon’s ThingSpace IoT platform and 5G/LTE network connectivity have been integrated with Microsoft Azure IoT Central to accelerate time-to-market and save significant costs for IoT solutions Cognizant is the first company to ..."
@@ -821,6 +823,6 @@ related:
       domain: microsoft.com
     quality: 2
 
-secured: "8KrmTUlbNtwWXBsk8Nvuqvl7D9cNEhFiVLeWT0VNEh/h6dKFEJdJIDjI08NHiRg3ImbjlBTafXeakvjNyBm+83EXxdKeNzJh7IVLNIfKZwwBLGAO710dsOJShJWZUD7Q96L4BuqkRIOxDae1EjUJFTv4WhgB3OV3mRxS7U2+rKnINmz9Y+qHXtttCC6LJTL19Z8rf/4W7VCQVdHCwCNIRjavWwf/ydrxiMnVmKi8DP7VZGmQS+536TQl+3ght7P4mB7VBgQTOyqCDsVlRIURMdPIBnqdSLgJJO/xGMb1PmmZD0aEdBsoE/G8XJIN4pM0roJG07pgcmBI6ztvWd4sFw==;ihtDKXJ1I6db+8EEi46EWg=="
+secured: "lod6ZXJzoaEb4VLNi6uLvhoE4uYFQmhHHZWKh6svZaenB0iltZ5cfAQ9+S8HamQKYKEs40kToVPBsqyWGH+FYVmZDdWc0B5IZx7hbquNBaWekk4N9cLCScY48K6hoD/4cOMixJJBip6jNyQ6S8+cHADNOHVBb0za1GahScHDNRrA1v2q+rHiEVqfpYHp9aJ7H+IrFV+02IxDa09n5yq1R4wmAhe+T7Sb6oG6tMJfwA/RXiXOIT07bgAz38FyOPLD6ZoSEvfkBL8dr24OztKmtiWmrS1Dis0RqwOwYCwOC1srkiag3JjqinpULJBux8EWSVzvvz906hbRVgiheJXu3sm6vLcXPunAkxcY1J1G1CA=;J0HfjH7dWXkwey6sXmAifw=="
 ---
 

@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Tamr Announces the Only Cloud-Native Data Mastering Solutions for Google Cloud Platform, AWS, and Microsoft Azure"
-excerpt: "PRNewswire/ -- Tamr, Inc., a cloud-native data mastering platform used by some of the world's largest enterprises to solve their toughest data"
-publishedDateTime: 2020-10-07T13:05:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/tamr-announces-the-only-cloud-native-data-mastering-solutions-for-google-cloud-platform-aws-and-microsoft-azure-301147624.html"
-webUrl: "https://www.prnewswire.com/news-releases/tamr-announces-the-only-cloud-native-data-mastering-solutions-for-google-cloud-platform-aws-and-microsoft-azure-301147624.html"
+excerpt: "PRNewswire/ -- Tamr, Inc., a cloud-native data mastering platform used by some of the world's largest enterprises"
+publishedDateTime: 2020-10-07T13:35:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/tamr-announces-the-only-cloud-native-data-mastering-solutions-for-google-cloud-platform-aws-and-microsoft-azure-1029657406"
+webUrl: "https://markets.businessinsider.com/news/stocks/tamr-announces-the-only-cloud-native-data-mastering-solutions-for-google-cloud-platform-aws-and-microsoft-azure-1029657406"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/tamr-announces-the-only-cloud-native-data-mastering-solutions-for-google-cloud-platform-aws-and-microsoft-azure-1029657406"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/tamr-announces-the-only-cloud-native-data-mastering-solutions-for-google-cloud-platform-aws-and-microsoft-azure-1029657406"
 type: article
-quality: 16
+quality: 56
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
-
-images:
-  - url: "https://mma.prnewswire.com/media/1157929/Tamr_Logo.jpg?p=facebook"
-    width: 1500
-    height: 785
-    isCached: true
 
 related:
   - title: "Quzara Cybertorch™ Adds Enhanced Security Operations Capabilities Through Azure Sentinel for the Microsoft Cloud"
@@ -64,6 +64,6 @@ related:
         height: 315
         isCached: true
 
-secured: "aUjCgHCpPYJZYZmap+BSILX0GxvoVp+qGIoV4N2c9PCXIIwQCeLkwke5bKa79v6zfJbxRdbol0crwYEwkzaUT/QaMg6VCbdYjg9sOzbJovnzYNmWoKhAiOL5YxFs/AI5eZz5NJau12zxg5yJzqiftocgU2xBPpUk4Jmn6cW4TtfOwM2irYGfm9LGgMwUYwqxlMW0re2I6xniY7qEkd1H0HbEtb9Kxcwx13EEAqsPqQpvRiiip6AarRQxweY9wZffAda8JZ6nl++FBQQ11WP+RON9ZKPjUFp3VAz2d5xhKSr+nh/saJaDBjQH/1O3oJ7AEBft9qiKxqXIKMjVRuq697gvUQ88BHKn/nNWEVkNv/Q=;4W7k+a/FnU897AEJk+Ko0g=="
+secured: "7r2h2K2JZg2CvN/SptyeLV4RPVbt5thFUjmrtvUrNBqamD2gnay7q9WspL41LKne97Qk8DNPtvfQJJFiChgdu87ryB9Lyl0DgsATfGPw12XRCbiqIxVIWmanLo7W1UPylDb6v+jtZ/RHtwyaLfdvrLgCf7lgOqmR+iWLE/EZyErlTgAaaTS9rvnBVpw9J/reqLbD2D+rXTk11xJ0LT9YrcZQBk51+QYku+vchBFzV2y+/MyXqRJOkubAd+rWE/XvhDdzcnO5o6ttnarXC0qipGGx+QVaeGrbHmNAjOV/j208MnhG7I7AJLsp+MtAYIAR/kpj6wghGKMNFocA5QuEmiThZIvsFeAln6hGyEp2u08=;VHld6SJlSPmBDMr66iWx/A=="
 ---
 
