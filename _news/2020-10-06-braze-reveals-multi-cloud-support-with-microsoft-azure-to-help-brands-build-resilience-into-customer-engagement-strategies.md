@@ -1,27 +1,21 @@
 ---
 category: news
 title: "Braze Reveals Multi-Cloud Support with Microsoft Azure to Help Brands Build Resilience into Customer Engagement Strategies"
-excerpt: "Braze, the comprehensive customer engagement platform, today announced several product and partnership updates that enable brands to"
-publishedDateTime: 2020-10-06T14:00:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/braze-reveals-multi-cloud-support-with-microsoft-azure-to-help-brands-build-resilience-into-customer-engagement-strategies-301146692.html"
-webUrl: "https://www.prnewswire.com/news-releases/braze-reveals-multi-cloud-support-with-microsoft-azure-to-help-brands-build-resilience-into-customer-engagement-strategies-301146692.html"
+excerpt: "Braze, the comprehensive customer engagement platform, today announced several product and partnership updates that enable brands to build resilience into customer engagement strategies."
+publishedDateTime: 2020-10-06T15:08:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/braze-reveals-multi-cloud-support-with-microsoft-azure-to-help-brands-build-resilience-into-customer/article_3fa7875a-2785-5583-97bb-e6d47db9ba58.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/braze-reveals-multi-cloud-support-with-microsoft-azure-to-help-brands-build-resilience-into-customer/article_3fa7875a-2785-5583-97bb-e6d47db9ba58.html"
 type: article
-quality: 11
+quality: 0
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - Azure
-
-images:
-  - url: "https://mma.prnewswire.com/media/606099/Braze_Logo.jpg?p=facebook"
-    width: 2700
-    height: 1414
-    isCached: true
 
 related:
   - title: "Microsoft's Azure AD authentication outage: What went wrong"
@@ -214,6 +208,6 @@ related:
       domain: helpnetsecurity.com
     quality: 1
 
-secured: "fdypr+hJahQ5pYMYjq8iGdMbBSgP47ONiPoaDAbKAet5oKB6FfLdn1aOhJesDmjg8EsqEhfFMSUBPzmEZ3sfdkHKCI9V9DjQBNAZXSKELBZspUr7E2WNW8xITbVmJU0x/fU+RNDSK4Ze4Kd7Ol7Za+gX5DR7KvkQkqjH+uJQjJRituyABH7NmDwmhbu5oxErpu50hIXzm5PPOk/qYv5HjjXtMXyU5i2Vptyk9IwMFzabpe06u3eX0WNIStFjRUXzbZ0BcE/wVp3dhr/TkxNsRL8w+0b8gkR9+KnosBXvQnbnGh/5K/NrDNom+fd8U2k9s2UKxseU9+qJ7WlzzeErO9dLIqNVBw6DgsFXHLNvpaQ=;8BWmHpLA69C2ArWgg0ouNQ=="
+secured: "NfzBZ8u2+S09WGxuykeZrjCzU1pDCAh/oOSLhlVeLEYHRq+i5SwmNoXZmdY+bwodr7k4VidpxJpkbMuuVgpD7x8VQ76cjlsprm+hGWPVxa7iWiQhSTzV6tDgUI2rv4NZN4t7nO1+BinpAEki7cb8iffU8tlBBT2lC3DAOPf96gqoMULb/0vfZB+9FXzoVnsnQk0ol9ZhuiAsznTK+eUE+WaCd7crOL2Eyh3dV4920OyDGgfWPvnj9jWNY5GWEjz0FXmGjgCjhZ5xM01G5WU82FYDJZ4oel05Na4Hu5mZqP4wDL4HcUSMubfFCgvCWPw1ZnZEipjqJUF6+IqLsnOjM1sm0BiVMTlUmztNcQBgppL4kvyN4bAAkxCGoVGKolnlhatRXL2SoIyJ5kn9+0MWotW5hrz8/VBYZ5CKJdwCFTuHSXFrTz1Y+6NFoPxQHX21RtbTvCSavEzbSe3cE/T9OU1OvGk+ScaaktYpqoQwwncD6DqgTfniSDQBoA/+1dHIARK68I6fpwiLZ5fNcrFBsQ==;tDLN7CYVHDBP/eK27/msNg=="
 ---
 

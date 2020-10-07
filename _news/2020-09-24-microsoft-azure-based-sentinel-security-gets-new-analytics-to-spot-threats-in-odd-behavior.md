@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-azure-based-senti
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-azure-based-sentinel-security-gets-new-analytics-to-spot-threats-in-odd-behavior/"
 type: article
 quality: 121
-heat: 741
+heat: 761
 published: true
 
 provider:
@@ -277,6 +277,17 @@ related:
     webUrl: "https://www.zdnet.com/index.php/category/2184/index.php/article/microsoft-aims-to-grow-azures-footprint-resiliency-with-more-availability-zones-new-services/"
     ampWebUrl: "https://www.zdnet.com/index.php/category/2184/index.php/google-amp/article/microsoft-aims-to-grow-azures-footprint-resiliency-with-more-availability-zones-new-services/"
     cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2184/index.php/google-amp/article/microsoft-aims-to-grow-azures-footprint-resiliency-with-more-availability-zones-new-services/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 63
+  - title: "Microsoft aims to grow Azure's footprint, resiliency with more availability zones and new services"
+    excerpt: "Microsoft officials have been talking up over the past year the company's plans to try to provide greater Azure resiliency and capacity. Despite its moves, market analysis firm Gartner dinged ..."
+    publishedDateTime: 2020-09-22T18:09:00Z
+    webUrl: "https://www.zdnet.com/article/microsoft-aims-to-grow-azures-footprint-resiliency-with-more-availability-zones-new-services/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-aims-to-grow-azures-footprint-resiliency-with-more-availability-zones-new-services/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-aims-to-grow-azures-footprint-resiliency-with-more-availability-zones-new-services/"
     type: article
     provider:
       name: ZDNet

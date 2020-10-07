@@ -1,28 +1,27 @@
 ---
 category: news
-title: "Illusive Networks Joins Microsoft Intelligent Security Association and is Now Available in the Microsoft Azure Marketplace"
-excerpt: "Illusive Networks®, a leader in active cyber defense, today joined the Microsoft Intelligent Security Association (MISA), bringing the"
-publishedDateTime: 2020-09-24T19:03:00Z
-originalUrl: "https://www.prnewswire.com/il/news-releases/illusive-networks-joins-microsoft-intelligent-security-association-and-is-now-available-in-the-microsoft-azure-marketplace-866469933.html"
-webUrl: "https://www.prnewswire.com/il/news-releases/illusive-networks-joins-microsoft-intelligent-security-association-and-is-now-available-in-the-microsoft-azure-marketplace-866469933.html"
+title: "Microsoft aims to grow Azure's footprint, resiliency with more availability zones and new services"
+excerpt: "Microsoft officials have been talking up over the past year the company's plans to try to provide greater Azure resiliency and capacity. Despite its moves, market analysis firm Gartner dinged ..."
+publishedDateTime: 2020-09-22T18:09:00Z
+originalUrl: "https://www.zdnet.com/article/microsoft-aims-to-grow-azures-footprint-resiliency-with-more-availability-zones-new-services/"
+webUrl: "https://www.zdnet.com/article/microsoft-aims-to-grow-azures-footprint-resiliency-with-more-availability-zones-new-services/"
+ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-aims-to-grow-azures-footprint-resiliency-with-more-availability-zones-new-services/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-aims-to-grow-azures-footprint-resiliency-with-more-availability-zones-new-services/"
 type: article
-quality: 28
+quality: 63
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: ZDNet
+  domain: zdnet.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/zdnet.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
-  - Security
-
-images:
-  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-    width: 600
-    height: 315
-    isCached: true
 
 related:
   - title: "Microsoft: Azure-based Sentinel security gets new analytics to spot threats in odd behavior"
@@ -291,17 +290,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 63
-  - title: "Microsoft aims to grow Azure's footprint, resiliency with more availability zones and new services"
-    excerpt: "Microsoft officials have been talking up over the past year the company's plans to try to provide greater Azure resiliency and capacity. Despite its moves, market analysis firm Gartner dinged ..."
-    publishedDateTime: 2020-09-22T18:09:00Z
-    webUrl: "https://www.zdnet.com/article/microsoft-aims-to-grow-azures-footprint-resiliency-with-more-availability-zones-new-services/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-aims-to-grow-azures-footprint-resiliency-with-more-availability-zones-new-services/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-aims-to-grow-azures-footprint-resiliency-with-more-availability-zones-new-services/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 63
   - title: "Microsoft gets into 5G race with Azure cloud"
     excerpt: "Microsoft unveiled a new cloud platform on Monday aimed at enabling telecom operators to build 5G networks faster"
     publishedDateTime: 2020-09-28T15:43:00Z
@@ -416,6 +404,20 @@ related:
         width: 761
         height: 400
         isCached: true
+  - title: "Illusive Networks Joins Microsoft Intelligent Security Association and is Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Illusive Networks®, a leader in active cyber defense, today joined the Microsoft Intelligent Security Association (MISA), bringing the"
+    publishedDateTime: 2020-09-24T19:03:00Z
+    webUrl: "https://www.prnewswire.com/il/news-releases/illusive-networks-joins-microsoft-intelligent-security-association-and-is-now-available-in-the-microsoft-azure-marketplace-866469933.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 28
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
+        isCached: true
   - title: "Data Modernization and Intelligent Analytics with Microsoft Azure"
     excerpt: "Computerworld covers a range of technology topics, with a focus on these core areas of IT: Windows, Mobile, Apple/enterprise, Office and productivity suites, collaboration, web browsers and blockchain,"
     publishedDateTime: 2020-06-24T19:56:00Z
@@ -426,6 +428,6 @@ related:
       domain: computerworld.com
     quality: 17
 
-secured: "QDRTR3sG3EYhnfDQV9X5s2wyySe7i1D9GiRQkYbgvFrXwgDvAq+/FppXiIX65MeGcb+0IFGt27vQoLPCNyWXn+RQn3vUbBlaNqNB5kjMlUdmhY/QKiQcPb+9rdAibt29p+Y69fLJdz0asqjvxNEiuk4GmKw0AFQ0M8n7XdKvxF68O1cODD9TRo+6Bw/oCz0RORXhLeOn/v7AR68A59NlG0CBJRxC5fLBVBrs94CPokJ8QNiqH0HwRK4iykNkdXMSYQchkgpJqPS7yIOP2h+6ffbfmO7nODKEmi5c72Zid34OLzKBBh3C1ZqQ9jRdrIEz275IXTUZKkYKCTCSepXFRBwODkdiBq2Qe5Esf6+j8Q8=;cKlokLHHAKkbM6S9mECq7A=="
+secured: "9EQcKNijiYj/Q5CRNLpgewU9awoAf4qKB8LcdTXt06mWjIvWcmr0ieCVv1ZIRVgmuD0I3V2r1T/XYWHKVzUpHUP1DRfL1dPouw7j/mM18rXG16cTm54L5/4Q5WaWGQ57Bx2brT3QywV+CEkIEUMtDhLKhYJSlgJCEMLKo458ZZdhu9ZZcPE0XLL2Ngt6s2tg65yPlMe+Md+6ZuZx+Ql+CO8RNInT5h2GSdeEH1rjgsXC50T0S+kFinH9gzPo3FdWqbImDAQQcLXfltNZkJkB3WevJ45hLXA6ygkI0brk6a0d15pvbYpZuMnFnDbH/segCIoQSyy50g+UH/QwwoFaGmgXLaQI2GWQJm3xEGyjEDg=;AOGzgAKKzf/jq+n6EHSKkg=="
 ---
 

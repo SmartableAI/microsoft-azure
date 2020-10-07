@@ -199,19 +199,14 @@ related:
         height: 240
         isCached: true
   - title: "Braze Reveals Multi-Cloud Support with Microsoft Azure to Help Brands Build Resilience into Customer Engagement Strategies"
-    excerpt: "Braze, the comprehensive customer engagement platform, today announced several product and partnership updates that enable brands to"
-    publishedDateTime: 2020-10-06T14:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/braze-reveals-multi-cloud-support-with-microsoft-azure-to-help-brands-build-resilience-into-customer-engagement-strategies-301146692.html"
+    excerpt: "Braze, the comprehensive customer engagement platform, today announced several product and partnership updates that enable brands to build resilience into customer engagement strategies."
+    publishedDateTime: 2020-10-06T15:08:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/braze-reveals-multi-cloud-support-with-microsoft-azure-to-help-brands-build-resilience-into-customer/article_3fa7875a-2785-5583-97bb-e6d47db9ba58.html"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 11
-    images:
-      - url: "https://mma.prnewswire.com/media/606099/Braze_Logo.jpg?p=facebook"
-        width: 2700
-        height: 1414
-        isCached: true
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 0
 
 secured: "C8qNSVXKTzUmC54kEKhva/2zUYoaj7KlSFm3BWGySMsG3lfFzzuInMuH9ZjI7Indmi7jxjios0wfMbG43nkJZDUOBby4+YESvTJrCkJYS+yG7P7cb+MymsbqMEaNomwBw/gm9VycL10uZmiZisRzvGYjp8WrtzKyYuxZ805jppVCD8Gy0se0vUjuFJ77g5gkueFnGk0XEhQqZnKMlRB3FqKtQci4m/SWF/4RXAffKtfNg+9JbUo78g/oEuP1EmDgUhZrdhRJWavFf7ClXOiGIHNwSP/xuomDojdAuWEgijJH51t+foTKd/pj0BcsTWou/QWhocT15UOcVNaetq/nUq9pfmF34iXX6RntGM/GKo4=;eF1zgPv4z4YRizWiRdwp1w=="
 ---

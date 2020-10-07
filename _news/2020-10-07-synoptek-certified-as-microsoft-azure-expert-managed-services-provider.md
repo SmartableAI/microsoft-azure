@@ -190,20 +190,6 @@ related:
         width: 400
         height: 240
         isCached: true
-  - title: "Braze Reveals Multi-Cloud Support with Microsoft Azure to Help Brands Build Resilience into Customer Engagement Strategies"
-    excerpt: "Braze, the comprehensive customer engagement platform, today announced several product and partnership updates that enable brands to"
-    publishedDateTime: 2020-10-06T14:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/braze-reveals-multi-cloud-support-with-microsoft-azure-to-help-brands-build-resilience-into-customer-engagement-strategies-301146692.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 11
-    images:
-      - url: "https://mma.prnewswire.com/media/606099/Braze_Logo.jpg?p=facebook"
-        width: 2700
-        height: 1414
-        isCached: true
   - title: "Microsoft Azure customers can now implement Datadog as a monitoring solution for their cloud workloads"
     excerpt: "Datadog announced a new strategic partnership with Microsoft Azure and is now be available in the Azure console as a first class service."
     publishedDateTime: 2020-10-01T23:33:00Z
@@ -213,6 +199,15 @@ related:
       name: Help Net Security
       domain: helpnetsecurity.com
     quality: 1
+  - title: "Braze Reveals Multi-Cloud Support with Microsoft Azure to Help Brands Build Resilience into Customer Engagement Strategies"
+    excerpt: "Braze, the comprehensive customer engagement platform, today announced several product and partnership updates that enable brands to build resilience into customer engagement strategies."
+    publishedDateTime: 2020-10-06T15:08:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/braze-reveals-multi-cloud-support-with-microsoft-azure-to-help-brands-build-resilience-into-customer/article_3fa7875a-2785-5583-97bb-e6d47db9ba58.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 0
 
 secured: "8SahY+C1RI3tivu0I15WBbiKOnW8xGabITugo9yaNBUYZO8g2z7wr/b+s5qf8d02gSqvtohWTFfyfplpzQblyf4n5l2dx5dgUYhlpx+wyg9P9UX4mK18GnRGJKqPmtR0Gzxs1W4UypYGoPWU2ysDBbRSqb+h3uRDlzIQsGTgp8xJmB40nCD0vxe5wOMVjLLRAFneUbeqJBsXyhxuK+KKQaTiUWV90JzvNVFW8gjrZ8e23Y621h8jOtwpqyAUAbVF1v5piRY/kAalT9DeAxyXV5CBikIvW0NXxR1y3mW9Tm3Xf/iDXPjcv8d4dB1FeAg4hYvHX8/LS84xl+1cxIN8I7yp+PpjZtDTr3gGxv52Rvw=;/ZJQu/Uvo8rnixIEZpDKKg=="
 ---
