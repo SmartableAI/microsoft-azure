@@ -6,9 +6,9 @@ type: course
 price: Free
 length: PT36M
 ratings:
-  count: 66440
-  average: 4.8006926
-heat: 96
+  count: 66447
+  average: 4.8006983
+heat: 97
 
 provider:
   name: Microsoft Learn
@@ -25,6 +25,6 @@ topics:
   - Azure
   - Management Tools
 
-secured: "Jvi/uODtgH9BMffJYF8oAY6Db+meFIdS9Q1hqu/UIysGSRKWRCSTcG989wcQCsmloL7wpQOUDl9DMTrIbqnDf0EbX2fRGyRPoXZe72tRqc+Y1TDbHEmvJBbmHGlM7RX3RyIl8IBHvzFDFhgLx2igYM3TVOjTGTno2pNNzNNFZL2CW1ZPkC3f4NmhVr2qRvFb/l3UJUowTm4Ii4YZLdFguj0DPpjc2Y/UzMFf8ZMrCCdcSw+9AyLyyTopQDgEnTTfM4fGKVkxCV+1yEE9RHLI8UuDtFxhCmRPWdbTHQX8GI+8/ocu604j2IvotiyY+PgbmP7COyIvgDrUDtgA4KCcd/ZP7m7dGfEjEIHKfoKU2idYcejYBHgcJzPaiNJ0uHpQt99Dcg7N53Xk/TCBLcxjb0RPQ+yJdL1zf6DtzRUpt8rMB6KfUJxLhWW2DCJ7Nb5t;X4JJzTr+Opt0D0FxGuhXgg=="
+secured: "liEtGQL/6asBVzV9ZF+Jky460fTOvzogi0FI8ecSauc/icM1xTnhyvvySSbWzy9O4vHgPwXpnUuK/AiPeeERpOeV/5oPOt9eu1PoWIgLaWL67UHJerG5GiIh5ECqhfdx8jQKL/+K6xePcHM0q/Lagbg8GGOixh3TVaER0kg22SwhtVHt0TDGMjwVkcEgPOrEXt2n0Qdmqb8jHa4BonUEXlC4CE927OgEaCHbjsDTN7leHSjIzOfe7WZZqTMbMV9Ops+BR7DfyyTsFejYgnSYbMP+brvp7OrhSDtR8OX8ISj+1jhg1A2ORgOEnmb/oc4EA4QNninqENm2mqAIS0UfH0YXGOQYu0l/ShiA5u5g7DM0g3ZjDDrhLZ/fR/GVoynQDRyaCaxFid1LufzSqky48Ol1yd/JaI3358RDhL62PrHVcDipMDbRhqZOfJ4NUKYG;o6MmJAMmKW8LvLj1dP1Chw=="
 ---
 

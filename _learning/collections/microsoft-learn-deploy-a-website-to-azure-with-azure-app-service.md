@@ -4,7 +4,7 @@ excerpt: "In this learning path, get acquainted with using Azure App Service to 
 type: collection
 price: Free
 length: PT4H30M
-heat: 62
+heat: 63
 
 provider:
   name: Microsoft Learn

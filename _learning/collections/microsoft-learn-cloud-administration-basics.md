@@ -4,7 +4,7 @@ excerpt: "The first learning path in a course on Cloud Administration from Carne
 type: collection
 price: Free
 length: PT3H26M
-heat: 50
+heat: 51
 
 provider:
   name: Microsoft Learn
