@@ -36,16 +36,19 @@ related:
       domain: businessinsider.com
     quality: 73
   - title: "Tamr Announces the Only Cloud-Native Data Mastering Solutions for Google Cloud Platform, AWS, and Microsoft Azure"
-    excerpt: "PRNewswire/ -- Tamr, Inc., a cloud-native data mastering platform used by some of the world's largest enterprises"
-    publishedDateTime: 2020-10-07T13:35:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/tamr-announces-the-only-cloud-native-data-mastering-solutions-for-google-cloud-platform-aws-and-microsoft-azure-1029657406"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/tamr-announces-the-only-cloud-native-data-mastering-solutions-for-google-cloud-platform-aws-and-microsoft-azure-1029657406"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/tamr-announces-the-only-cloud-native-data-mastering-solutions-for-google-cloud-platform-aws-and-microsoft-azure-1029657406"
+    excerpt: "PRNewswire/ -- Tamr, Inc., a cloud-native data mastering platform used by some of the world's largest enterprises to solve their toughest data"
+    publishedDateTime: 2020-10-07T13:05:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/tamr-announces-the-only-cloud-native-data-mastering-solutions-for-google-cloud-platform-aws-and-microsoft-azure-301147624.html"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 56
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 16
+    images:
+      - url: "https://mma.prnewswire.com/media/1157929/Tamr_Logo.jpg?p=facebook"
+        width: 1500
+        height: 785
+        isCached: true
   - title: "Komprise addresses demand for file data management in the cloud with new capabilities for Microsoft Azure Files and Azure NetApp Files"
     excerpt: "PRNewswire/ -- Komprise, the leader in analytics-driven data management, today announced new capabilities for its Komprise Intelligent Data"
     publishedDateTime: 2020-10-06T13:00:00Z

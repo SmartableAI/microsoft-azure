@@ -32,19 +32,19 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 84
-  - title: "Query Acceleration for Azure Data Lake Storage now in preview"
-    excerpt: ""
-    publishedDateTime: 2020-04-24T22:00:07Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/query-acceleration-for-azure-data-lake-storage-now-in-preview/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 17
   - title: "Azure Data Lake Storage immutable storage is now in preview"
     excerpt: "Immutable storage for Azure Data Lake Storage is now in preview.  Set time-based policies or legal holds on data so that the data becomes non-erasable and non-modifiable.  "
     publishedDateTime: 2020-06-30T20:00:36Z
     webUrl: "https://azure.microsoft.com/en-us/updates/immutable-storage-for-azure-data-lake-storage-now-in-public-preview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
+  - title: "Query Acceleration for Azure Data Lake Storage now in preview"
+    excerpt: ""
+    publishedDateTime: 2020-04-24T22:00:07Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/query-acceleration-for-azure-data-lake-storage-now-in-preview/"
     type: article
     provider:
       name: Microsoft

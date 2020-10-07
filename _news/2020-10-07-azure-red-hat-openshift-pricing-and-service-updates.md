@@ -1,11 +1,12 @@
 ---
 category: news
-title: "Azure Monitor for Containers support for Azure Red Hat OpenShift 4.X & OpenShift 4.X in preview"
-excerpt: ""
-publishedDateTime: 2020-04-29T19:00:03Z
-webUrl: "https://azure.microsoft.com/en-us/updates/aro-openshift4update/"
+title: "Azure Red Hat OpenShift - Pricing and service updates"
+excerpt: "Lower prices, more flexible purchase options, and an improved SLA."
+publishedDateTime: 2020-10-07T16:00:25Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/azure-red-hat-openshift-lower-prices-more-flexible-purchase-options-and-improved-sla/"
+webUrl: "https://azure.microsoft.com/en-us/updates/azure-red-hat-openshift-lower-prices-more-flexible-purchase-options-and-improved-sla/"
 type: article
-quality: 5
+quality: 67
 heat: -1
 published: false
 
@@ -35,15 +36,6 @@ related:
         width: 1024
         height: 535
         isCached: true
-  - title: "Azure Red Hat OpenShift - Pricing and service updates"
-    excerpt: "Lower prices, more flexible purchase options, and an improved SLA."
-    publishedDateTime: 2020-10-07T16:00:25Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-red-hat-openshift-lower-prices-more-flexible-purchase-options-and-improved-sla/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 67
   - title: "Azure Red Hat OpenShift on OpenShift 4 now available"
     excerpt: ""
     publishedDateTime: 2020-04-28T14:00:37Z
@@ -62,7 +54,16 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 17
+  - title: "Azure Monitor for Containers support for Azure Red Hat OpenShift 4.X & OpenShift 4.X in preview"
+    excerpt: ""
+    publishedDateTime: 2020-04-29T19:00:03Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/aro-openshift4update/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 5
 
-secured: "UzILw02iLMIqtv69+1MAfhu7cRi4O9ClWQuli1VRBbTXzJne6mqFmBfN34lrEEAixyZ211M6F3Nlmfnph6pxj0O63BeIODD9uNV7B8ApymfAWKnsGob8PGXbKXmp4ALV+u9HTZJ+XfQLEOIq0WGfJoyBWKMr3poiV24qlsQB6CeGqdltKKI8OcacALrFi2DJoOChhtFrBVgCZsSSfYNwgP8TreAf0nCuh7pQ9bNLTrS8/94xRt4jKye5MiVrvRO91AcEiNQlHnhbIt95j3QjZCBmPI1h0k4j7NSbnBmsREHAiozfKpLEXYzQv32tIo1YjZonx22jnRnrOG/KfdNT4w==;h7LBv4HRShoFac/uVSxNMA=="
+secured: "9ZWdzV4m1JJTSKgI0xkueXqN2lOxC+hvy9aW5UNur05nRNP+2FLa11b9DZdCCZAddDBcBDgbKjbYw0BSwW1jR2zzlAGIxUriGpJdHnIytnVrqgQDfqShDvf2IyLs8aSsSCIy9kbKLKiLY5P0uI3a+5MyKg4Di6lrvHBBI1wCTt5EwhCz0L2RuNeAsSvDXIRB5dTD+Am+TLVErZUJ6jTo8tS/27QP1IAr3Eitwy9Ak8l/tqkwQxE2qyg48n0duPQIJ8q5hfqpftoV4LWj0VvhXwSwT2P+vZji/eLZKU0blynU7pK6VfZHWiQ6J1hydPGeX+95xRJ0xKvZDV/xvpvRGcfOE71UYz7x53W0BKKMdiQ=;zkWHvnIcIK1aAktAnhtuEA=="
 ---
 

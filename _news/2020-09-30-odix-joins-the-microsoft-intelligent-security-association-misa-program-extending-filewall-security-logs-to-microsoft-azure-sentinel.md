@@ -160,6 +160,20 @@ related:
         width: 620
         height: 355
         isCached: true
+  - title: "Webinar: Transforming Business Models with System Soft Technologies and Microsoft Azure"
+    excerpt: "(GLOBE NEWSWIRE) -- System Soft Technologies (SSTech), a leader in enterprise IT services, solutions and products, today announced the company is making available its recent webinar about how organizations are using Microsoft Azure Cloud Services to enhance their business operations and spur growth during these uncertain economic times."
+    publishedDateTime: 2020-10-07T16:00:00Z
+    webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-corporate-news-north-america-products-and-services-abd7775219a08f49fc7dd2b81b837978"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 29
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Qatar- Ooredoo enables digital transformation with connectivity solution to Microsoft Azure"
     excerpt: "Ooredoo has announced the launch of Ooredoo Cloud Connect to Microsoft Azure to provide Qatar's organisations with secure, reliable, and affordable cloud connectivity services to drive digital transformation."
     publishedDateTime: 2020-10-05T01:48:00Z

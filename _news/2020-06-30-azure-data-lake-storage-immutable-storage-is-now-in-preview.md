@@ -3,9 +3,10 @@ category: news
 title: "Azure Data Lake Storage immutable storage is now in preview"
 excerpt: "Immutable storage for Azure Data Lake Storage is now in preview.  Set time-based policies or legal holds on data so that the data becomes non-erasable and non-modifiable.  "
 publishedDateTime: 2020-06-30T20:00:36Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/immutable-storage-for-azure-data-lake-storage-now-in-public-preview/"
 webUrl: "https://azure.microsoft.com/en-us/updates/immutable-storage-for-azure-data-lake-storage-now-in-public-preview/"
 type: article
-quality: 17
+quality: 84
 heat: -1
 published: false
 
@@ -19,6 +20,7 @@ provider:
 
 topics:
   - Azure
+  - Storage
 
 related:
   - title: "Azure Data Lake Storage file snapshots are now in preview"
@@ -49,6 +51,6 @@ related:
       domain: microsoft.com
     quality: 17
 
-secured: "fVJsL4PWuHForrlqbKdYGTDn2r3q72M6TsxUNUejfFOV+ppV/i5VdG2zlxnguGG0XYjS/7jPWqir+9c9W2zSz/StGRbPsTvJHbIsf9KXOlvHQNOr4zqNl1/Ih+gQ+Fkf23I7CgiazOkqK01DNs95LeaFx3AxEhjyb1C9KQ/xY2F45eoe/btS5ROpKg0B/WG1jf8ejxr8InwPIFIkNf0VD+Dzy1rrA/W74freqJR0tD+I84NrC2dX79i5nB4cH+pk990Vbqqwo7ri3Qrk3og5eAzwgi7bXlwFTXxtFQEAZWw9+wPLbubFuIMV3aCWgqqd36akt2IR3X7BPWTgX3lnfg==;/5n0g+l+cX03/hmsuZ8+iA=="
+secured: "zhqGX2A2XoPiMRRebRiy5zKtrD4SzqlfF89nGxfvcgNEofRq3dK17rcvGOpnkihP2oplhty6/781A9JX4ygxkMi9qUYX+qmH4uDVuZsjr0lu3iKyls3P6HxYC65L+CqQwv1AZ72UxmWRHUl27Q98B6Uj+5F+edUTk5/iD1bKO6X6AO3jXlHTn6jF2DErlTh3u7JPdVTwTzYiED0RhhIIlEHshumbZAcJ6PdViXLM2EpdRdaK7mKDPG/x1E0ULeW49AJbEUb/PohxXUPFRDuy8iUXw9Y/5Zl507YBJRZSmLsX75/L1kgqJn5de/3sQSmaL2Dn3POp9H0HlqMGFnDHbTfhMVDBTs9gsXTA3DpI1HQwhyzoQkuPMXNCOlWiZqei;/0/3YZep6ro8wqqq6TOrlw=="
 ---
 

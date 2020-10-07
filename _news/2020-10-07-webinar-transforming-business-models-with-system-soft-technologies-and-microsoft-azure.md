@@ -1,35 +1,45 @@
 ---
 category: news
-title: "Microsoft's Azure AD authentication outage: What went wrong"
-excerpt: "It's been a rough week for Microsoft users who have first- and third-party apps that rely on Azure Active Directory for authentication. Microsoft has published a root-cause analysis of its issues."
-publishedDateTime: 2020-10-01T17:42:00Z
-originalUrl: "https://www.zdnet.com/article/microsofts-azure-ad-authentication-outage-what-went-wrong/"
-webUrl: "https://www.zdnet.com/article/microsofts-azure-ad-authentication-outage-what-went-wrong/"
-ampWebUrl: "https://www.zdnet.com/google-amp/article/microsofts-azure-ad-authentication-outage-what-went-wrong/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsofts-azure-ad-authentication-outage-what-went-wrong/"
+title: "Webinar: Transforming Business Models with System Soft Technologies and Microsoft Azure"
+excerpt: "(GLOBE NEWSWIRE) -- System Soft Technologies (SSTech), a leader in enterprise IT services, solutions and products, today announced the company is making available its recent webinar about how organizations are using Microsoft Azure Cloud Services to enhance their business operations and spur growth during these uncertain economic times."
+publishedDateTime: 2020-10-07T16:00:00Z
+originalUrl: "https://apnews.com/press-release/globe-newswire/technology-business-corporate-news-north-america-products-and-services-abd7775219a08f49fc7dd2b81b837978"
+webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-corporate-news-north-america-products-and-services-abd7775219a08f49fc7dd2b81b837978"
 type: article
-quality: 97
-heat: 437
-published: true
+quality: 29
+heat: -1
+published: false
 
 provider:
-  name: ZDNet
-  domain: zdnet.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/zdnet.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://zdnet2.cbsistatic.com/hub/i/2020/10/01/2d8220eb-dff8-47d8-84b2-c696d04abbcc/azureadoutage.jpg"
-    width: 1103
-    height: 765
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
+  - title: "Microsoft's Azure AD authentication outage: What went wrong"
+    excerpt: "It's been a rough week for Microsoft users who have first- and third-party apps that rely on Azure Active Directory for authentication. Microsoft has published a root-cause analysis of its issues."
+    publishedDateTime: 2020-10-01T17:42:00Z
+    webUrl: "https://www.zdnet.com/article/microsofts-azure-ad-authentication-outage-what-went-wrong/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsofts-azure-ad-authentication-outage-what-went-wrong/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsofts-azure-ad-authentication-outage-what-went-wrong/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 97
+    images:
+      - url: "https://zdnet2.cbsistatic.com/hub/i/2020/10/01/2d8220eb-dff8-47d8-84b2-c696d04abbcc/azureadoutage.jpg"
+        width: 1103
+        height: 765
+        isCached: true
   - title: "Minecraft Realms completes migration to Microsoft Azure cloud platform from AWS"
     excerpt: "After announcing the move back in July, Mojang Studios has confirmed that Minecraft Realms, the private server platform for Minecraft, has completed its transition to Microsoft Azure, a big move for the company."
     publishedDateTime: 2020-10-01T23:20:00Z
@@ -149,20 +159,6 @@ related:
         width: 620
         height: 355
         isCached: true
-  - title: "Webinar: Transforming Business Models with System Soft Technologies and Microsoft Azure"
-    excerpt: "(GLOBE NEWSWIRE) -- System Soft Technologies (SSTech), a leader in enterprise IT services, solutions and products, today announced the company is making available its recent webinar about how organizations are using Microsoft Azure Cloud Services to enhance their business operations and spur growth during these uncertain economic times."
-    publishedDateTime: 2020-10-07T16:00:00Z
-    webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-corporate-news-north-america-products-and-services-abd7775219a08f49fc7dd2b81b837978"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 29
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Qatar- Ooredoo enables digital transformation with connectivity solution to Microsoft Azure"
     excerpt: "Ooredoo has announced the launch of Ooredoo Cloud Connect to Microsoft Azure to provide Qatar's organisations with secure, reliable, and affordable cloud connectivity services to drive digital transformation."
     publishedDateTime: 2020-10-05T01:48:00Z
@@ -252,6 +248,6 @@ related:
       domain: wfmz.com
     quality: 0
 
-secured: "vN9FsSFA848FNmRFeIjL7b9K3Kf6K5AvbrdV5HdPjdCUA0nQ3WuV6KKVLQtGpuhUxKcK+2zcAFdksQIm4TUjKjXwAWfnB4m7lvlUo3NB9OR2WMaMs6l3YxnvIg2UWul1OE87lFd9RY1ondm3rIJOD+0ulFJTUiso3NGT70r03j/Tzkrf6ZOsMWcdUZD8ReyFVP304Vlb8ErEYY2jgS79p+hg1SP08eAXkee5pRiCrSuBh7DkTKHJuK5LlhH6rSHvYEoo1ZjVq2bsmPJKphMMHd4b9EB04b2tPZUR6Tvx9aRe+jUU0oosmJuHyOMDeM1zYEPnSZ/HwW8HbSoBDFpzeqm1Liz6t1Fb2WM1rCsuPtncfmbFnD/k15+W4bjNCk6MNrrn4AXYmE9dCCg9fzJCWeOcx5+EAySSurZUaPnTWQRpFRIP9Ee+ltZHi7g3pyAUP9kDe9aOCFoj9Toga/JHm8m8JM8fXrVCG2Xh7Zsn/nZwg7DfjFPSIWVlWT9mVTzkTC5rxyic+4rhJDSRlLoJzg==;r96c4Ev71yOr0fB4exCnRQ=="
+secured: "d1809HoudCgk+SCAgs19u/E4XpK+ssS0mDVaf0jOIOeURLqv83Gy0RWNU1y8K84jfgbNxjgWoiOQujrIJhTFkPTmDuAx6OK5o2t4an1kr3OKuHOHGTlH1Gg9qsismLW21qK7fyLwLrHv5QE9pZveTf0EL2unVmWNaPRsBYB4frgC1vTqIbjZgEf+RDSiNx8PGlWYsQgQ1n9zh3cp5AF0eECPOc5kPitZJ0ArpmkdiTU/34IOPaHTDVg4rFiJ00Hie94JQrmlbC6yfLQnqyi78YVrbHJs+TIJ8w6H2be2/BlSdN0Z1soWqEmYKSd62V1FL5kzU8cVUhzEuaB46FiNnLTCjo/GtCzDqedDme7ynJI=;0pUYHoNYeQ1aD1VaB6go6w=="
 ---
 

@@ -1,11 +1,12 @@
 ---
 category: news
-title: "Virtual Network NAT now generally available in Azure Government and Azure China"
-excerpt: ""
-publishedDateTime: 2020-05-07T21:00:13Z
-webUrl: "https://azure.microsoft.com/en-us/updates/virtualnetworknatgovchinaga/"
+title: "New Azure Spot Virtual Machines features "
+excerpt: "You can now access the price history of Spot Virtual Machines and the eviction rate for the past 28 trailing days in the Azure portal."
+publishedDateTime: 2020-10-07T16:00:14Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/new-azure-spot-virtual-machines-features/"
+webUrl: "https://azure.microsoft.com/en-us/updates/new-azure-spot-virtual-machines-features/"
 type: article
-quality: 13
+quality: 67
 heat: -1
 published: false
 
@@ -76,15 +77,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 73
-  - title: "New Azure Spot Virtual Machines features "
-    excerpt: "You can now access the price history of Spot Virtual Machines and the eviction rate for the past 28 trailing days in the Azure portal."
-    publishedDateTime: 2020-10-07T16:00:14Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/new-azure-spot-virtual-machines-features/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 67
   - title: "Microsoft Announces the General Availability of Azure Spring Cloud"
     excerpt: "Microsoft and VMWare both announced the general availability of Azure Spring Cloud, a fully-managed service for Spring Boot apps. The service allows enterprises to deploy JARs or code to it, and the service automates the process of wiring the apps to the Spring service runtime."
     publishedDateTime: 2020-09-09T11:11:00Z
@@ -127,6 +119,15 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "Virtual Network NAT now generally available in Azure Government and Azure China"
+    excerpt: ""
+    publishedDateTime: 2020-05-07T21:00:13Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/virtualnetworknatgovchinaga/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 13
   - title: "Microsoft Announces the General Availability of Windows Server Containers, and More for AKS"
     excerpt: "Microsoft launched a preview of Windows Server Containers in Azure Kubernetes Service (AKS). Now the company announced the general availability of Windows Server containers in AKS, including the support of private clusters and managed identities."
     publishedDateTime: 2020-05-05T11:23:00Z
@@ -151,6 +152,6 @@ related:
       domain: microsoft.com
     quality: 4
 
-secured: "48g9But8I2d8N+ngf+PpvTADML73juthZwbyIqXc1EjYajhsVcf9fRHYYr6d+P7yjpBAzC/Mel5uhPt92b77J235sS9k3/kLzbOEOMvIw/BtQtc1vdc15rjM9GzLB5bA94hUTKTZyejLQ8IPmGgDXiyYaY6VtYFXnltoOq9HcZgal44RWsMfqb6gDAnjXGcEPLU4V3oSHY1ZGpiSWGsrwSLoFDkuoB4mHCUrZGTlycPnYoH6MKoEfgEL+NzeKQFb9KitGsx2Vj5A6BTFUSJCqr4xQFRzClxxyS+AqZVajH0EOCemKF+nALngVMgR81cUpdV5U4QdUq1LPz26P0fx2g==;naYFFCKHhd+4cPZyH2tW6A=="
+secured: "aJJ1CfrotwYcisLMxSag2euLIgSkdg/NxI3jWDVUtZU4sQoUbIaKuMqpetTPAcGm1smQkQgab4ApME09hCo2aIf9YIBPrThedN9coVpXXxChOvgxaYGb8MvMHTuzky6WAG9biWSEf7lIMxkiOdL4H6hN5kg6YWSvsjAp1/CRjLDeKmaxLY8ij9IQ0USpMeu1nuqnajKEqRzwo5mb3JGlTPBYdzgDEcCE/0lwFie+2Lg8j/3t6injJgBmHr0UMX/CMQmkP0biSKTofGGethZSAJzzorxWJjMUgHTLOk4efy9Ds6/UsvZRLWJzlOz5SvFyuv3MDQMwbCLVo/Yxsj8XeMLj/5fu+GvvDQswqX/S9LQ=;+XjyOkmCvd9T12ffBwkpXA=="
 ---
 

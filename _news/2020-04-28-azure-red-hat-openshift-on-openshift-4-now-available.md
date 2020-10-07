@@ -35,6 +35,15 @@ related:
         width: 1024
         height: 535
         isCached: true
+  - title: "Azure Red Hat OpenShift - Pricing and service updates"
+    excerpt: "Lower prices, more flexible purchase options, and an improved SLA."
+    publishedDateTime: 2020-10-07T16:00:25Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-red-hat-openshift-lower-prices-more-flexible-purchase-options-and-improved-sla/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
   - title: "Azure Red Hat OpenShift on OpenShift 4.4 now available"
     excerpt: "Red Hat OpenShift 4.4 is now available on Azure Red Hat OpenShift."
     publishedDateTime: 2020-07-21T16:00:46Z
