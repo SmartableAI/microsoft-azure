@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Qatar- Ooredoo enables digital transformation with connectivity solution to Microsoft Azure"
-excerpt: "Ooredoo has announced the launch of Ooredoo Cloud Connect to Microsoft Azure to provide Qatar's organisations with secure, reliable, and affordable cloud connectivity services to drive digital transformation."
-publishedDateTime: 2020-10-05T01:48:00Z
-originalUrl: "https://menafn.com/1100901054/Qatar-Ooredoo-enables-digital-transformation-with-connectivity-solution-to-Microsoft-Azure"
-webUrl: "https://menafn.com/1100901054/Qatar-Ooredoo-enables-digital-transformation-with-connectivity-solution-to-Microsoft-Azure"
+title: "Granulate Launches Real-time Continuous Optimization Solution On Microsoft Azure Marketplace"
+excerpt: "Granulate, the leading provider of real-time continuous optimization solutions for server workload performance, is proud to announce its availability in the Microsoft Azure Marketplace. Granulate's solution helps companies optimize workload performance and enables businesses to cut computing costs while improving performance with no code changes to their application."
+publishedDateTime: 2020-10-07T02:09:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/granulate-launches-real-time-continuous-optimization-solution-on-microsoft-azure-marketplace-1029652622"
+webUrl: "https://markets.businessinsider.com/news/stocks/granulate-launches-real-time-continuous-optimization-solution-on-microsoft-azure-marketplace-1029652622"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/granulate-launches-real-time-continuous-optimization-solution-on-microsoft-azure-marketplace-1029652622"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/granulate-launches-real-time-continuous-optimization-solution-on-microsoft-azure-marketplace-1029652622"
 type: article
-quality: 27
+quality: 66
 heat: -1
 published: false
 
 provider:
-  name: Middle East North Africa Financial Network
-  domain: menafn.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
-
-images:
-  - url: "https://menafn.com/updates/pr/2020-10/04/GT_53bdb450-1image_story.jpg"
-    width: 620
-    height: 355
-    isCached: true
 
 related:
   - title: "Microsoft's Azure AD authentication outage: What went wrong"
@@ -56,17 +56,6 @@ related:
         width: 800
         height: 420
         isCached: true
-  - title: "Granulate Launches Real-time Continuous Optimization Solution On Microsoft Azure Marketplace"
-    excerpt: "Granulate, the leading provider of real-time continuous optimization solutions for server workload performance, is proud to announce its availability in the Microsoft Azure Marketplace. Granulate's solution helps companies optimize workload performance and enables businesses to cut computing costs while improving performance with no code changes to their application."
-    publishedDateTime: 2020-10-07T02:09:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/granulate-launches-real-time-continuous-optimization-solution-on-microsoft-azure-marketplace-1029652622"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/granulate-launches-real-time-continuous-optimization-solution-on-microsoft-azure-marketplace-1029652622"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/granulate-launches-real-time-continuous-optimization-solution-on-microsoft-azure-marketplace-1029652622"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 66
   - title: "Microsoft partners expand the range of mission-critical applications you can run on Azure"
     excerpt: "In the past few years, IT organizations have been realizing compelling benefits when they transitioned their business-critical applications to the cloud, enabling them to address the top challenges they face with running the same applications on premises."
     publishedDateTime: 2020-10-06T08:00:01Z
@@ -159,6 +148,20 @@ related:
         width: 620
         height: 355
         isCached: true
+  - title: "Qatar- Ooredoo enables digital transformation with connectivity solution to Microsoft Azure"
+    excerpt: "Ooredoo has announced the launch of Ooredoo Cloud Connect to Microsoft Azure to provide Qatar's organisations with secure, reliable, and affordable cloud connectivity services to drive digital transformation."
+    publishedDateTime: 2020-10-05T01:48:00Z
+    webUrl: "https://menafn.com/1100901054/Qatar-Ooredoo-enables-digital-transformation-with-connectivity-solution-to-Microsoft-Azure"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 27
+    images:
+      - url: "https://menafn.com/updates/pr/2020-10/04/GT_53bdb450-1image_story.jpg"
+        width: 620
+        height: 355
+        isCached: true
   - title: "Granulate Launches Real-time Continuous Optimization Solution On Microsoft Azure Marketplace"
     excerpt: "Granulate, the leading provider of real-time continuous optimization solutions for server workload performance, is proud to announce its availability in the Microsoft"
     publishedDateTime: 2020-10-06T13:00:00Z
@@ -220,6 +223,6 @@ related:
       domain: wfmz.com
     quality: 0
 
-secured: "CDDt6vykG+GgJEIJ7PAcuKKi6VI2orlTu2kNfnUrhMxRtHr9I1Rh7TyvBNxN74yh6wQMdFHthxwkd0vKnjp/DbeXv5SAFH7v+A5dOlaHGvCt6L7lloRDkdiP2l63L11G9Ce1UEbnqefHC7EBj7FvMmxknt3QkLgvMJjnOZZmjgGCxaT09ITthJVrZJ26b1O+5TYFXDl+4dsus4972aNj1bCfugBgAXG+NrwLrLScI8PUZAL5/EmpsM9HRa0XoQlHoG5by2XF02ax/v+Or+tjpECAAec2siovYb+w58M8vUsJHxLJCfn28a+hzX2DUHFZxYJRPMScZ2TY/nX12E0wh/oWjUkUOBW46+huJND/abU=;HcRtHwMCqoKDR3m0SM6hvA=="
+secured: "uBDAF5DdEH7zNVtekDOPshg3frWuqoJXO/qPg3iki2395Ipu2VEdoS4kSQKk3Hadrn/VClU0HEfSGCDldpDPL+EHXjhowFBaj7SNPMMdsqh24D21gaxC4zep6o/Ep4569cefXoIByuFDw9ENKlEUYvbneDJ88VT/VC1whTorwjSD5zKcAbIgV0ICJ/gWRDIKerBdC52A88mug5+r05kEUTf6qfLBJeV41x0EUa4KI6eA5Yd8Gre3qJDAljlHH9++E/bgVfRcPnzQzUQk9O1hXlD2W9kVw5Dh/jTBXrFNFqjh0yH9nr4iAfcG4lTvBiXPjk3ARZATmZoFVCKBp+DbYeCFTlgpQrMYdFgt7E4/kFc=;K/NxNDVjKMpT6wibs2DLYg=="
 ---
 
