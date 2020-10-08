@@ -65,6 +65,17 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 66
+  - title: "Microsoft cloud services outages continue into week two"
+    excerpt: "Microsoft's cloud services problems are continuing this week with more Azure and Microsoft 365 services issues for some customers. Here's what's happened and why."
+    publishedDateTime: 2020-10-07T21:19:00Z
+    webUrl: "https://www.zdnet.com/article/microsoft-cloud-services-outages-continue-into-week-two/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-cloud-services-outages-continue-into-week-two/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-cloud-services-outages-continue-into-week-two/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 62
   - title: "Microsoft Expands Azure Cloud Reach with Major Investment in Greece"
     excerpt: "Microsoft says Azure cloud data centers will be built in Greece, helping to boost the country’s economy in coming years."
     publishedDateTime: 2020-10-05T14:10:00Z
@@ -179,7 +190,7 @@ related:
   - title: "Granulate Launches Real-time Continuous Optimization Solution On Microsoft Azure Marketplace"
     excerpt: "Granulate, the leading provider of real-time continuous optimization solutions for server workload performance, is proud to announce its availability in the Microsoft"
     publishedDateTime: 2020-10-06T13:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/granulate-launches-real-time-continuous-optimization-solution-on-microsoft-azure-marketplace/article_190f285f-3d77-5572-818c-015780303762.html"
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/granulate-launches-real-time-continuous-optimization-solution-on-microsoft-azure-marketplace/article_190f285f-3d77-5572-818c-015780303762.html"
     type: article
     provider:
       name: WFMZ-TV
@@ -232,6 +243,20 @@ related:
         width: 600
         height: 314
         isCached: true
+  - title: "Braze Reveals Multi-Cloud Support with Microsoft Azure to Help Brands Build Resilience into Customer Engagement Strategies"
+    excerpt: "Braze, the comprehensive customer engagement platform, today announced several product and partnership updates that enable brands to"
+    publishedDateTime: 2020-10-06T14:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/braze-reveals-multi-cloud-support-with-microsoft-azure-to-help-brands-build-resilience-into-customer-engagement-strategies-301146692.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 11
+    images:
+      - url: "https://mma.prnewswire.com/media/606099/Braze_Logo.jpg?p=facebook"
+        width: 2700
+        height: 1414
+        isCached: true
   - title: "Microsoft Azure customers can now implement Datadog as a monitoring solution for their cloud workloads"
     excerpt: "Datadog announced a new strategic partnership with Microsoft Azure and is now be available in the Azure console as a first class service."
     publishedDateTime: 2020-10-01T23:33:00Z
@@ -241,15 +266,6 @@ related:
       name: Help Net Security
       domain: helpnetsecurity.com
     quality: 1
-  - title: "Braze Reveals Multi-Cloud Support with Microsoft Azure to Help Brands Build Resilience into Customer Engagement Strategies"
-    excerpt: "Braze, the comprehensive customer engagement platform, today announced several product and partnership updates that enable brands to build resilience into customer engagement strategies."
-    publishedDateTime: 2020-10-06T15:08:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/braze-reveals-multi-cloud-support-with-microsoft-azure-to-help-brands-build-resilience-into-customer/article_3fa7875a-2785-5583-97bb-e6d47db9ba58.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 0
 
 secured: "6+wXs/YpFIKUq+xwHjzN3cBTWxR+yzyVqEpMNdOqHWpbxu06oVU9D8eqbPvFVGTeTYl1MNlO5Q6/jGgN1N+kOAK7O4Q7yGZLd0ROYQWc3LXu4onkSspVDnTHCXjFLw4U17FVcEc9Usg66/jXjim9wH9Ik3gxTCsuKJsbY62hHzsYaT8ULY1Z25LZFjx8oEoGod+N826UUaiAcDJn9LBs2V5KRhC54w20XxwLONfc9o6ixp4ZNCcjZ518B7LXWpVYQj4EkdsNr5AJITJZ/dKyejIlepdHTmwHM4zdzQ7SnGjKmFWb4C8fNEPxHTw5CmIk3DHWY+Ov/A+dF2jy1Iej6HDdJXOYhC5kopUsxVQYhck=;SgflRrbxvvEWmvk+ig/44Q=="
 ---

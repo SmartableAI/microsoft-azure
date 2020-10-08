@@ -67,6 +67,17 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 66
+  - title: "Microsoft cloud services outages continue into week two"
+    excerpt: "Microsoft's cloud services problems are continuing this week with more Azure and Microsoft 365 services issues for some customers. Here's what's happened and why."
+    publishedDateTime: 2020-10-07T21:19:00Z
+    webUrl: "https://www.zdnet.com/article/microsoft-cloud-services-outages-continue-into-week-two/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-cloud-services-outages-continue-into-week-two/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-cloud-services-outages-continue-into-week-two/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 62
   - title: "Microsoft partners expand the range of mission-critical applications you can run on Azure"
     excerpt: "In the past few years, IT organizations have been realizing compelling benefits when they transitioned their business-critical applications to the cloud, enabling them to address the top challenges they face with running the same applications on premises."
     publishedDateTime: 2020-10-06T08:00:01Z
@@ -176,7 +187,7 @@ related:
   - title: "Granulate Launches Real-time Continuous Optimization Solution On Microsoft Azure Marketplace"
     excerpt: "Granulate, the leading provider of real-time continuous optimization solutions for server workload performance, is proud to announce its availability in the Microsoft"
     publishedDateTime: 2020-10-06T13:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/granulate-launches-real-time-continuous-optimization-solution-on-microsoft-azure-marketplace/article_190f285f-3d77-5572-818c-015780303762.html"
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/granulate-launches-real-time-continuous-optimization-solution-on-microsoft-azure-marketplace/article_190f285f-3d77-5572-818c-015780303762.html"
     type: article
     provider:
       name: WFMZ-TV
@@ -229,6 +240,20 @@ related:
         width: 600
         height: 314
         isCached: true
+  - title: "Braze Reveals Multi-Cloud Support with Microsoft Azure to Help Brands Build Resilience into Customer Engagement Strategies"
+    excerpt: "Braze, the comprehensive customer engagement platform, today announced several product and partnership updates that enable brands to"
+    publishedDateTime: 2020-10-06T14:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/braze-reveals-multi-cloud-support-with-microsoft-azure-to-help-brands-build-resilience-into-customer-engagement-strategies-301146692.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 11
+    images:
+      - url: "https://mma.prnewswire.com/media/606099/Braze_Logo.jpg?p=facebook"
+        width: 2700
+        height: 1414
+        isCached: true
   - title: "Microsoft Azure customers can now implement Datadog as a monitoring solution for their cloud workloads"
     excerpt: "Datadog announced a new strategic partnership with Microsoft Azure and is now be available in the Azure console as a first class service."
     publishedDateTime: 2020-10-01T23:33:00Z
@@ -238,15 +263,6 @@ related:
       name: Help Net Security
       domain: helpnetsecurity.com
     quality: 1
-  - title: "Braze Reveals Multi-Cloud Support with Microsoft Azure to Help Brands Build Resilience into Customer Engagement Strategies"
-    excerpt: "Braze, the comprehensive customer engagement platform, today announced several product and partnership updates that enable brands to build resilience into customer engagement strategies."
-    publishedDateTime: 2020-10-06T15:08:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/braze-reveals-multi-cloud-support-with-microsoft-azure-to-help-brands-build-resilience-into-customer/article_3fa7875a-2785-5583-97bb-e6d47db9ba58.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 0
 
 secured: "d1809HoudCgk+SCAgs19u/E4XpK+ssS0mDVaf0jOIOeURLqv83Gy0RWNU1y8K84jfgbNxjgWoiOQujrIJhTFkPTmDuAx6OK5o2t4an1kr3OKuHOHGTlH1Gg9qsismLW21qK7fyLwLrHv5QE9pZveTf0EL2unVmWNaPRsBYB4frgC1vTqIbjZgEf+RDSiNx8PGlWYsQgQ1n9zh3cp5AF0eECPOc5kPitZJ0ArpmkdiTU/34IOPaHTDVg4rFiJ00Hie94JQrmlbC6yfLQnqyi78YVrbHJs+TIJ8w6H2be2/BlSdN0Z1soWqEmYKSd62V1FL5kzU8cVUhzEuaB46FiNnLTCjo/GtCzDqedDme7ynJI=;0pUYHoNYeQ1aD1VaB6go6w=="
 ---

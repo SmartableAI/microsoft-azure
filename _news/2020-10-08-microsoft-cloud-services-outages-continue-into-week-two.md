@@ -1,28 +1,27 @@
 ---
 category: news
-title: "Hexaware Becomes a Microsoft Azure Expert Managed Service Provider (MSP) and Earns Advanced Certification for Data Warehouse Migration to Azure"
-excerpt: "PRNewswire/ -- Hexaware, one of the fastest growing next-generation digital transformation partners, today announced that it has become a Microsoft Azure Expert Managed Service Provider"
-publishedDateTime: 2020-09-29T11:00:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/hexaware-becomes-a-microsoft-azure-expert-managed-service-provider-msp-and-earns-advanced-certification-for/article_b7ca4438-faa7-5453-8088-a48bfb848777.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/hexaware-becomes-a-microsoft-azure-expert-managed-service-provider-msp-and-earns-advanced-certification-for/article_b7ca4438-faa7-5453-8088-a48bfb848777.html"
+title: "Microsoft cloud services outages continue into week two"
+excerpt: "Microsoft's cloud services problems are continuing this week with more Azure and Microsoft 365 services issues for some customers. Here's what's happened and why."
+publishedDateTime: 2020-10-07T21:19:00Z
+originalUrl: "https://www.zdnet.com/article/microsoft-cloud-services-outages-continue-into-week-two/"
+webUrl: "https://www.zdnet.com/article/microsoft-cloud-services-outages-continue-into-week-two/"
+ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-cloud-services-outages-continue-into-week-two/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-cloud-services-outages-continue-into-week-two/"
 type: article
-quality: 18
+quality: 62
 heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: ZDNet
+  domain: zdnet.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/zdnet.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
-  - Migration
-
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/e/a2/ea266891-8fda-5615-b463-9568cb768b25/5f7317f848af8.image.jpg?resize=400%2C240"
-    width: 400
-    height: 240
-    isCached: true
 
 related:
   - title: "Microsoft's Azure AD authentication outage: What went wrong"
@@ -68,17 +67,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 66
-  - title: "Microsoft cloud services outages continue into week two"
-    excerpt: "Microsoft's cloud services problems are continuing this week with more Azure and Microsoft 365 services issues for some customers. Here's what's happened and why."
-    publishedDateTime: 2020-10-07T21:19:00Z
-    webUrl: "https://www.zdnet.com/article/microsoft-cloud-services-outages-continue-into-week-two/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-cloud-services-outages-continue-into-week-two/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-cloud-services-outages-continue-into-week-two/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 62
   - title: "Microsoft partners expand the range of mission-critical applications you can run on Azure"
     excerpt: "In the past few years, IT organizations have been realizing compelling benefits when they transitioned their business-critical applications to the cloud, enabling them to address the top challenges they face with running the same applications on premises."
     publishedDateTime: 2020-10-06T08:00:01Z
@@ -227,6 +215,20 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Hexaware Becomes a Microsoft Azure Expert Managed Service Provider (MSP) and Earns Advanced Certification for Data Warehouse Migration to Azure"
+    excerpt: "PRNewswire/ -- Hexaware, one of the fastest growing next-generation digital transformation partners, today announced that it has become a Microsoft Azure Expert Managed Service Provider"
+    publishedDateTime: 2020-09-29T11:00:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/hexaware-becomes-a-microsoft-azure-expert-managed-service-provider-msp-and-earns-advanced-certification-for/article_b7ca4438-faa7-5453-8088-a48bfb848777.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 18
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/e/a2/ea266891-8fda-5615-b463-9568cb768b25/5f7317f848af8.image.jpg?resize=400%2C240"
+        width: 400
+        height: 240
+        isCached: true
   - title: "Dicom Systems Launches Enterprise Imaging Platform in the Microsoft Azure Marketplace, Deploys to a Leading National IDN"
     excerpt: "Azure will streamline deployment for the nearly 6,000 modalities that will now be managed by Unifier enterprise imaging appliance. \"Through Microsoft Azure Marketplace, customers around the world can easily find, buy, and deploy partner solutions they can ..."
     publishedDateTime: 2020-10-07T13:44:00Z
@@ -265,6 +267,6 @@ related:
       domain: helpnetsecurity.com
     quality: 1
 
-secured: "qywAwBFkEqpmNLIXcQ2iAgu7W4BnMzTajXXgku5t47rkx0IPoX22X7BHOGqhwrGaMOr8hFgGrHnPvLrxTDRR8ROhNq4dpOZF9I3FQXDHFJ4bL06Nj1o+BTvNOOT5QipfPJSZlBcdhOQvXfJXQxjbLka/uRmOtn2UknOZPlqBmkcYhBl6MT7xCjTkFJJoIrBkclbgIChqVcC0mSzr2nTyr7oVmUUdzP3E03cyJeyO3IY9DPiAFIY1E11hU5oVhdekMHUcbjKd1bRQexraMB6os5LbWLMfKdYKB6KrlqM7yh02UU0x6/Es/jl5hSXhZv7udD1dP37SHgWmBD1RWBsXzFpTgAQ+QKew9V7mK6VJ/8QMWgTXHWJVyNo8+ADmhLwB4/cFWNyX7i2W7ka6DkbiK0Iq8oUiqKL2aeClc1BUtnFWAx0vLK0vyoUfx5iLdgFzUoQ/exBQBMHuAmAg0Jr+6ppJb6RnqJOt+WY1r+ADdc4EMQs2sdedGNxDtX4E+nc4shIZyATpVLhOmwa50YxAjA==;VxGfCy8J2q6v8lNXjs3sLQ=="
+secured: "PnbT6HFDnZgCTyglqPNo2W43Ndsu4fo9b0w4UhmjtPYlIHFmTO792CT69fRMt8uBLl+PiYIdCLIc1FFcXYxFuuevM5Kml8Eo8cC+zbG7/wF4lcflZ//YDvMb2XGAE1pwbs3SK9A2qhiHeV8Mf9MxnUZWCUUdh9xtuIO4CA7VaBTmT1EbXkoW4gHCvyZzwQARF5ej7UQaoSxjgvG3DsvchVCnEMCUkXWpED+q+qaEI9G+CIzsI99YemmlSOikw+LPDzj/o2V7OF5/eDv0KZv/XNVPw+JeRskyYA9TIU7sJ46RQhkML4SKvG9tkWjh7Bu61i3J8GjsjK2KRvj6CnvAyIFMk8mSuzn9JYEiKRij2TBKbDJXtGsdZLTfl/IJHRws45rexjqB1pomU4ZmJNbxMcaHYxFxp0PDN4NGtyrasVH5APz9FYSijjSOt3yUzEgGxoub1V/eEQMGzCvHJwlrUgjIGM2D5DhyADMc1QBa0PlDZJ/wHBc08z9rniTbKS9GJG+tRvomgUa4E/qjoAM51g==;PfIWOLKDP+uxoMc4M04CHg=="
 ---
 
