@@ -4,6 +4,45 @@
   "page": 14,
   "value": [
     {
+      "path": "_learning/videos/microsoft-how-to-create-an-azure-kubernetes-service-cluster-in-the-azure-portal-azure-portal-series.md",
+      "title": "How to create an Azure Kubernetes Service cluster in the Azure Portal | Azure Portal Series",
+      "excerpt": "The Azure Portal allows you to quickly get started with Kubernetes and containers. In this video of the Azure Portal “How To” Series, learn how to easily create an Azure Kubernetes Service cluster.   Try out these features in the Azure portal: https://ms.portal.azure.com/#home   Keep connected on Twitter:",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-how-to-create-an-azure-kubernetes-service-cluster-in-the-azure-portal-azure-portal-series/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-how-to-create-an-azure-kubernetes-service-cluster-in-the-azure-portal-azure-portal-series/",
+      "originalUrl": "https://youtube.com/watch?v=OP4L0es8WNo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/OP4L0es8WNo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT4M5S",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2019-03-20T10:21:55-07:00",
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/OP4L0es8WNo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Management tools",
+        "Containers"
+      ]
+    },
+    {
       "path": "_learning/videos/microsoft-how-to-get-started-with-docker-and-azure-azure-tips-and-tricks.md",
       "title": "How to get started with Docker and Azure | Azure Tips and Tricks",
       "excerpt": "In this edition of Azure Tips and Tricks, find out how you can get started using Docker and Azure. To get started with Docker, make sure you have the Docker desktop application installed on your local dev machine.     For more tips and tricks, visit: http://azuredev.tips/       Get started with 12 months",
@@ -373,8 +412,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/introduction-to-data-streaming/",
           "length": "PT25M",
           "ratings": {
-            "count": 1272,
-            "average": 4.6320753
+            "count": 1273,
+            "average": 4.6323643
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -584,8 +623,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/import-data-into-asdw-with-polybase/",
           "length": "PT1H6M",
           "ratings": {
-            "count": 2049,
-            "average": 4.560273
+            "count": 2050,
+            "average": 4.5604877
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -838,8 +877,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/transcribe-speech-input-text/",
           "length": "PT27M",
           "ratings": {
-            "count": 254,
-            "average": 4.6811023
+            "count": 255,
+            "average": 4.682353
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -880,8 +919,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/synthesize-text-input-speech/",
           "length": "PT18M",
           "ratings": {
-            "count": 216,
-            "average": 4.6064816
+            "count": 217,
+            "average": 4.599078
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -922,8 +961,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/translate-speech-speech-service/",
           "length": "PT18M",
           "ratings": {
-            "count": 220,
-            "average": 4.659091
+            "count": 221,
+            "average": 4.6561084
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1194,8 +1233,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/azure-networking-fundamentals/",
       "length": "PT38M",
       "ratings": {
-        "count": 51,
-        "average": 4.6862745
+        "count": 52,
+        "average": 4.673077
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1278,8 +1317,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/build-blazor-webassembly-visual-studio-code/",
       "length": "PT45M",
       "ratings": {
-        "count": 1160,
-        "average": 4.6948276
+        "count": 1161,
+        "average": 4.6950903
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1355,8 +1394,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/choose-api-for-cosmos-db/",
       "length": "PT38M",
       "ratings": {
-        "count": 2083,
-        "average": 4.675468
+        "count": 2084,
+        "average": 4.6751437
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1583,8 +1622,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/detect-objects-images-custom-vision/",
       "length": "PT39M",
       "ratings": {
-        "count": 247,
-        "average": 4.7449393
+        "count": 248,
+        "average": 4.745968
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1615,41 +1654,6 @@
       "topics": [
         "Azure",
         "AI"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-distribute-data-globally-with-cosmos-db.md",
-      "title": "Distribute your data globally with Azure Cosmos DB",
-      "excerpt": "Discover the benefits of writing and replicating customized data to regions around the world with Azure Cosmos DB global distribution.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-distribute-data-globally-with-cosmos-db/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/distribute-data-globally-with-cosmos-db/",
-      "length": "PT31M",
-      "ratings": {
-        "count": 1553,
-        "average": 4.604636
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 52,
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Databases",
-        "Management Tools"
       ]
     }
   ],

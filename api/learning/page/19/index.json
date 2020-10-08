@@ -618,8 +618,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/host-build-agent/",
       "length": "PT59M",
       "ratings": {
-        "count": 1739,
-        "average": 4.706728
+        "count": 1741,
+        "average": 4.707065
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1197,15 +1197,15 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-logic-apps-and-custom-connectors.md",
-      "title": "Call an API from a Logic Apps workflow using a custom connector",
-      "excerpt": "In this module, learn to create a Logic Apps custom connector to call an API from a Logic Apps workflow.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-logic-apps-and-custom-connectors/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/logic-apps-and-custom-connectors/",
-      "length": "PT40M",
+      "path": "_learning/courses/microsoft-learn-m365-azure-migrate-introduction.md",
+      "title": "Introduction to Azure Migrate for server migration",
+      "excerpt": "Discover how Azure Migrate helps you realize the benefits of moving your on-premises VMware or Hyper-V server workloads to Azure infrastructure as a service (IaaS). Learn the process for migrating your workload agent-less, all within the hub.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-m365-azure-migrate-introduction/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/m365-azure-migrate-introduction/",
+      "length": "PT19M",
       "ratings": {
-        "count": 516,
-        "average": 4.5755816
+        "count": 75,
+        "average": 4.653333
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1220,14 +1220,14 @@
         ]
       },
       "levels": [
-        "Beginner"
+        "Intermediate"
       ],
       "heat": 51,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/logic-apps-and-custom-connectors-social.png",
-          "width": 800,
-          "height": 400,
+          "url": "https://docs.microsoft.com/learn/achievements/introduction-azure-migrate-server-migration-social.png",
+          "width": 640,
+          "height": 320,
           "isCached": true
         }
       ],
@@ -1235,9 +1235,9 @@
       "price": "Free",
       "topics": [
         "Azure",
-        "IoT",
-        "Blockchain",
-        "Integration"
+        "Compute",
+        "Migration",
+        "Management Tools"
       ]
     }
   ],

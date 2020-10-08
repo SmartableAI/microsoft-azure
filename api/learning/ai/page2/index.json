@@ -4,40 +4,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-create-regression-model-azure-machine-learning-designer.md",
-      "title": "Create a Regression Model with Azure Machine Learning designer",
-      "excerpt": "Regression is a supervised machine learning technique used to predict numeric values. Learn how to create regression models using Azure Machine Learning designer.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-create-regression-model-azure-machine-learning-designer/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-regression-model-azure-machine-learning-designer/",
-      "length": "PT50M",
-      "ratings": {
-        "count": 275,
-        "average": 4.7636366
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 58,
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "AI"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-introduction-to-classification.md",
       "title": "Predict categories with machine learning classification",
       "excerpt": "Use machine learning models to categorize data. Build a logistic regression model and support vector machine models to predict categories like win/loss and tree species.",
@@ -188,8 +154,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/build-faq-chatbot-qna-maker-azure-bot-service/",
           "length": "PT29M",
           "ratings": {
-            "count": 1411,
-            "average": 4.6605244
+            "count": 1412,
+            "average": 4.6600566
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -249,8 +215,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/build-faq-chatbot-qna-maker-azure-bot-service/",
       "length": "PT29M",
       "ratings": {
-        "count": 1411,
-        "average": 4.6605244
+        "count": 1412,
+        "average": 4.6600566
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -459,8 +425,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/ai-machine-learning-fundamentals/",
       "length": "PT23M",
       "ratings": {
-        "count": 47,
-        "average": 4.6595745
+        "count": 48,
+        "average": 4.6666665
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -801,8 +767,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/transcribe-speech-input-text/",
           "length": "PT27M",
           "ratings": {
-            "count": 254,
-            "average": 4.6811023
+            "count": 255,
+            "average": 4.682353
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -843,8 +809,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/synthesize-text-input-speech/",
           "length": "PT18M",
           "ratings": {
-            "count": 216,
-            "average": 4.6064816
+            "count": 217,
+            "average": 4.599078
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -885,8 +851,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/translate-speech-speech-service/",
           "length": "PT18M",
           "ratings": {
-            "count": 220,
-            "average": 4.659091
+            "count": 221,
+            "average": 4.6561084
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1140,8 +1106,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/detect-objects-images-custom-vision/",
       "length": "PT39M",
       "ratings": {
-        "count": 247,
-        "average": 4.7449393
+        "count": 248,
+        "average": 4.745968
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1309,8 +1275,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/transcribe-speech-input-text/",
       "length": "PT27M",
       "ratings": {
-        "count": 254,
-        "average": 4.6811023
+        "count": 255,
+        "average": 4.682353
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1351,8 +1317,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/translate-speech-speech-service/",
       "length": "PT18M",
       "ratings": {
-        "count": 220,
-        "average": 4.659091
+        "count": 221,
+        "average": 4.6561084
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1611,6 +1577,48 @@
         "Azure",
         "AI",
         "Analytics"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-automate-model-selection-with-azure-automl.md",
+      "title": "Automate machine learning model selection with Azure Machine Learning",
+      "excerpt": "Learn how to use automated machine learning in Azure Machine Learning to find the best model for your data.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-automate-model-selection-with-azure-automl/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/automate-model-selection-with-azure-automl/",
+      "length": "PT25M",
+      "ratings": {
+        "count": 897,
+        "average": 4.618729
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/automate-model-selection-with-azure-automl-badge-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "AI"
       ]
     }
   ],

@@ -539,8 +539,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/communicate-using-markdown/",
       "length": "PT1H2M",
       "ratings": {
-        "count": 114,
-        "average": 4.6754384
+        "count": 115,
+        "average": 4.678261
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -838,8 +838,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/copy-blobs-from-command-line-and-code/",
       "length": "PT58M",
       "ratings": {
-        "count": 148,
-        "average": 4.574324
+        "count": 149,
+        "average": 4.5771813
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1210,15 +1210,15 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-create-language-translator-mixed-reality-application-unity-azure-cognitive-services.md",
-      "title": "Create a language translator mixed reality application with Unity and Azure Cognitive Services",
-      "excerpt": "Create a language translator application for your Mixed Reality device (Windows Mixed Reality, HoloLens 2 etc.) using Cognitive Services.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-create-language-translator-mixed-reality-application-unity-azure-cognitive-services/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/create-language-translator-mixed-reality-application-unity-azure-cognitive-services/",
-      "length": "PT1H10M",
+      "path": "_learning/courses/microsoft-learn-create-language-model-with-luis.md",
+      "title": "Create a language model with Language Understanding",
+      "excerpt": "In this module, we'll introduce you to Language Understanding Intelligent Service (LUIS) and show how to build and publish a LUIS model.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-create-language-model-with-luis/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/create-language-model-with-language-understanding/",
+      "length": "PT39M",
       "ratings": {
-        "count": 1,
-        "average": 5.0
+        "count": 247,
+        "average": 4.825911
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1233,14 +1233,14 @@
         ]
       },
       "levels": [
-        "Beginner"
+        "Intermediate"
       ],
       "heat": 50,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
+          "url": "https://docs.microsoft.com/learn/achievements/create-publish-luis-model-social.png",
+          "width": 800,
+          "height": 400,
           "isCached": true
         }
       ],
@@ -1248,7 +1248,8 @@
       "price": "Free",
       "topics": [
         "Azure",
-        "AI"
+        "AI",
+        "Developer Tools"
       ]
     }
   ],
