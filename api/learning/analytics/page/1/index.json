@@ -4,6 +4,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-describe-lazy-evaluation-other-performance-features-azure-databricks.md",
+      "title": "Describe lazy evaluation and other performance features in Azure Databricks",
+      "excerpt": "Describe lazy evaluation and other performance features in Azure Databricks",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-describe-lazy-evaluation-other-performance-features-azure-databricks/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/describe-lazy-evaluation-performance-features-azure-databricks/",
+      "length": "PT38M",
+      "ratings": {
+        "count": 79,
+        "average": 4.708861
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 130,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/describe-lazy-evaluation-other-performance-features-azure-databricks-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Analytics",
+        "AI"
+      ]
+    },
+    {
       "path": "_learning/collections/microsoft-learn-secure-your-cloud-data.md",
       "title": "Secure your cloud data",
       "excerpt": "This learning path helps you leverage the built-in Azure services for securing app data, ensuring that only authorized services and clients have access.",
@@ -35,8 +78,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/intro-to-security-in-azure/",
           "length": "PT1H16M",
           "ratings": {
-            "count": 44982,
-            "average": 4.704571
+            "count": 44984,
+            "average": 4.7045836
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -232,8 +275,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/intro-to-data-in-azure/",
           "length": "PT25M",
           "ratings": {
-            "count": 55174,
-            "average": 4.7339687
+            "count": 55175,
+            "average": 4.7339735
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -462,8 +505,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/azure-database-fundamentals/",
           "length": "PT39M",
           "ratings": {
-            "count": 81,
-            "average": 4.728395
+            "count": 82,
+            "average": 4.731707
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -722,8 +765,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/choose-a-messaging-model-in-azure-to-connect-your-services/",
           "length": "PT45M",
           "ratings": {
-            "count": 3138,
-            "average": 4.584449
+            "count": 3139,
+            "average": 4.584581
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -839,8 +882,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/choose-a-messaging-model-in-azure-to-connect-your-services/",
           "length": "PT45M",
           "ratings": {
-            "count": 3138,
-            "average": 4.584449
+            "count": 3139,
+            "average": 4.584581
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1669,8 +1712,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/azure-database-fundamentals/",
       "length": "PT39M",
       "ratings": {
-        "count": 81,
-        "average": 4.728395
+        "count": 82,
+        "average": 4.731707
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1961,8 +2004,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/choose-a-messaging-model-in-azure-to-connect-your-services/",
       "length": "PT45M",
       "ratings": {
-        "count": 3138,
-        "average": 4.584449
+        "count": 3139,
+        "average": 4.584581
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2062,8 +2105,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/transform-data-with-azure-stream-analytics/",
           "length": "PT49M",
           "ratings": {
-            "count": 1270,
-            "average": 4.564567
+            "count": 1271,
+            "average": 4.5649095
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2189,8 +2232,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/query-azure-sql-data-warehouse/",
           "length": "PT60M",
           "ratings": {
-            "count": 1407,
-            "average": 4.6318407
+            "count": 1408,
+            "average": 4.6321025
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2335,8 +2378,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/query-azure-sql-data-warehouse/",
       "length": "PT60M",
       "ratings": {
-        "count": 1407,
-        "average": 4.6318407
+        "count": 1408,
+        "average": 4.6321025
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2377,8 +2420,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/transform-data-with-azure-stream-analytics/",
       "length": "PT49M",
       "ratings": {
-        "count": 1270,
-        "average": 4.564567
+        "count": 1271,
+        "average": 4.5649095
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2817,49 +2860,6 @@
         "IoT",
         "Storage",
         "Analytics"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-create-production-workloads-azure-databricks-azure-data-factory.md",
-      "title": "Create production workloads on Azure Databricks with Azure Data Factory",
-      "excerpt": "Create production workloads on Azure Databricks with Azure Data Factory",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-create-production-workloads-azure-databricks-azure-data-factory/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/create-production-workloads-azure-databricks-azure-data-factory/",
-      "length": "PT33M",
-      "ratings": {
-        "count": 77,
-        "average": 4.5064936
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/create-production-workloads-azure-databricks-azure-data-factory-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Analytics",
-        "AI"
       ]
     }
   ],
