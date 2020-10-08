@@ -34,8 +34,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/responsible-ai-principles/",
           "length": "PT56M",
           "ratings": {
-            "count": 770,
-            "average": 4.703896
+            "count": 771,
+            "average": 4.701686
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -201,8 +201,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/responsible-ai-principles/",
           "length": "PT56M",
           "ratings": {
-            "count": 770,
-            "average": 4.703896
+            "count": 771,
+            "average": 4.701686
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -676,8 +676,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/intro-to-git/",
           "length": "PT1H15M",
           "ratings": {
-            "count": 446,
-            "average": 4.7421527
+            "count": 447,
+            "average": 4.742729
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1734,8 +1734,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/cmu-cloud-security/",
           "length": "PT59M",
           "ratings": {
-            "count": 52,
-            "average": 4.673077
+            "count": 53,
+            "average": 4.6792455
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2206,48 +2206,6 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-ai-strategy-in-manufacturing.md",
-      "title": "Define an AI strategy to create business value in manufacturing",
-      "excerpt": "Explore the strategic components, special factors, and use cases of an AI strategy in manufacturing that creates business value, with INSEAD and Microsoft.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-ai-strategy-in-manufacturing/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/ai-strategy-in-manufacturing/",
-      "length": "PT41M",
-      "ratings": {
-        "count": 726,
-        "average": 4.754821
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/ai-strategy-in-manufacturing-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "AI"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-ai-strategy-in-retail.md",
       "title": "Define an AI strategy to create business value in retail",
       "excerpt": "Explore the strategic components, special factors, and use cases of an AI strategy in retail that creates business value, with INSEAD and Microsoft.",
@@ -2374,8 +2332,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/aks-workshop/",
       "length": "PT2H25M",
       "ratings": {
-        "count": 264,
-        "average": 4.75
+        "count": 265,
+        "average": 4.750943
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2684,6 +2642,50 @@
         "Containers",
         "Mobile",
         "Databases"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-audit-security-of-windows-server-iaas-vms.md",
+      "title": "Audit the security of Windows Server IaaS Virtual Machines",
+      "excerpt": "You'll learn about Azure Security Center and how to onboard Windows Server computers to Security Center. You'll also learn about Azure Sentinel, security information and event management (SIEM), and security orchestration, automation and response (SOAR).",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-audit-security-of-windows-server-iaas-vms/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/audit-security-of-windows-server-iaas-virtual-machines/",
+      "length": "PT45M",
+      "ratings": {
+        "count": 29,
+        "average": 4.6896553
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Management Tools",
+        "Compute",
+        "Security"
       ]
     }
   ],
