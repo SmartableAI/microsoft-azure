@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Dicom Systems Launches Enterprise Imaging Platform in the Microsoft Azure Marketplace, Deploys to a Leading National IDN"
-excerpt: "Azure will streamline deployment for the nearly 6,000 modalities that will now be managed by Unifier enterprise imaging appliance. \"Through Microsoft Azure Marketplace, customers around the world can easily find, buy, and deploy partner solutions they can ..."
-publishedDateTime: 2020-10-07T13:44:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/dicom-systems-launches-enterprise-imaging-platform-in-the-microsoft-azure-marketplace-deploys-to-a-leading-national-idn-301147741.html"
-webUrl: "https://www.prnewswire.com/news-releases/dicom-systems-launches-enterprise-imaging-platform-in-the-microsoft-azure-marketplace-deploys-to-a-leading-national-idn-301147741.html"
+excerpt: "Dicom Systems, a healthcare IT software company, today announced the availability of Unifier enterprise imaging platform for medical imaging workflow, archiving, cloud, and"
+publishedDateTime: 2020-10-07T14:15:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/dicom-systems-launches-enterprise-imaging-platform-in-the-microsoft-azure-marketplace-deploys-to-a-leading/article_dcf4caba-5bac-5aa8-942c-3e8e9c466f58.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/dicom-systems-launches-enterprise-imaging-platform-in-the-microsoft-azure-marketplace-deploys-to-a-leading/article_dcf4caba-5bac-5aa8-942c-3e8e9c466f58.html"
 type: article
 quality: 12
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://mma.prnewswire.com/media/1308768/DMWL_com_main_artwork.jpg?p=facebook"
-    width: 600
-    height: 314
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/6/23/62336a11-eb80-54ab-be04-d9531f8f95d7/5f7dca1e645b2.image.jpg?resize=400%2C327"
+    width: 400
+    height: 327
     isCached: true
 
 related:
@@ -240,6 +240,15 @@ related:
         width: 400
         height: 240
         isCached: true
+  - title: "Braze Integrates With Microsoft Azure And Tealium"
+    excerpt: "The arrangement with Tealium will help brands to purchase data based on attributes and other variables, the company says."
+    publishedDateTime: 2020-10-06T21:21:00Z
+    webUrl: "https://www.mediapost.com/publications/article/356585/braze-integrates-with-microsoft-azure-and-tealium.html"
+    type: article
+    provider:
+      name: MediaPost
+      domain: mediapost.com
+    quality: 17
   - title: "Braze Reveals Multi-Cloud Support with Microsoft Azure to Help Brands Build Resilience into Customer Engagement Strategies"
     excerpt: "Braze, the comprehensive customer engagement platform, today announced several product and partnership updates that enable brands to"
     publishedDateTime: 2020-10-06T14:00:00Z
@@ -264,6 +273,6 @@ related:
       domain: helpnetsecurity.com
     quality: 1
 
-secured: "hnDUtTXC5H1xQ2GMEF2WNPFNDpDgDI9xEuQoAsYbuC17fyzSY6YLbn4ozEbvdvyurCJmreMzu76Tg8fH4IHZiPg6iHB8GADfB2wJg5GRw+a8NJ52KVZ/xVzi18CIg+VebUKYJ/OL72PRM4/C2awetV/jqDhXUUVtQGXXmTQ7z2T+2fOyjo0d2NegkzQ/UIRmKLp9Q9Tb7D7g1Be1dj7DQt0o7h9PvFbU78OJ8zEp7zFJKeCzrfiH9tqjFuweDLtbKuTuKscxpCP3G6SZ02zNeVXlgNc5qX00h5M/QhScc2ZNp+qM79tOM+QQnLFDwVM3T/Mt114ND1wYGBGU5KCQMdnfoQtdtkDWvxuzpw/bPnw=;ThZl1M95VcQT+fKw49Cn2g=="
+secured: "pE3rmlhv+Xdxmzr++vU5/nd2pZUYuzA7TPBl9qH0gLLrQs2X+4FwOi5oFOe9R0lpwuC0z+/4b40H7mYv8xwNcld/553NN+ulY/SkrJF5wc6C9mQ4un3LFurG5v4tdzogCsJyMB6mHMR+KKO2eMH3KLH0NiM3t75qZl9fQ5FGRE/y2C10Y4DEOUVHSE+0heYAKi+0m5YHLc+5DFvWC5crE9eR8+uoxDqJZ9YWPeJNSsvnoUImUxbKUo3e4BtKLlhqDMn7UlqwxToadbQsnsR5J5yEzFwIw9W81mcwbFSDOPgocVtkRxql7gn6bkQH++C0LIO7plSANFrIBONUU8IEUHWuRnZgU784tCIMHx2ftFQ=;aZz5LDjpedr5OjTjGm/b6A=="
 ---
 

@@ -1,27 +1,21 @@
 ---
 category: news
-title: "Braze Reveals Multi-Cloud Support with Microsoft Azure to Help Brands Build Resilience into Customer Engagement Strategies"
-excerpt: "Braze, the comprehensive customer engagement platform, today announced several product and partnership updates that enable brands to"
-publishedDateTime: 2020-10-06T14:00:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/braze-reveals-multi-cloud-support-with-microsoft-azure-to-help-brands-build-resilience-into-customer-engagement-strategies-301146692.html"
-webUrl: "https://www.prnewswire.com/news-releases/braze-reveals-multi-cloud-support-with-microsoft-azure-to-help-brands-build-resilience-into-customer-engagement-strategies-301146692.html"
+title: "Braze Integrates With Microsoft Azure And Tealium"
+excerpt: "The arrangement with Tealium will help brands to purchase data based on attributes and other variables, the company says."
+publishedDateTime: 2020-10-06T21:21:00Z
+originalUrl: "https://www.mediapost.com/publications/article/356585/braze-integrates-with-microsoft-azure-and-tealium.html"
+webUrl: "https://www.mediapost.com/publications/article/356585/braze-integrates-with-microsoft-azure-and-tealium.html"
 type: article
-quality: 11
+quality: 17
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: MediaPost
+  domain: mediapost.com
 
 topics:
   - Azure
-
-images:
-  - url: "https://mma.prnewswire.com/media/606099/Braze_Logo.jpg?p=facebook"
-    width: 2700
-    height: 1414
-    isCached: true
 
 related:
   - title: "Microsoft's Azure AD authentication outage: What went wrong"
@@ -240,15 +234,6 @@ related:
         width: 400
         height: 240
         isCached: true
-  - title: "Braze Integrates With Microsoft Azure And Tealium"
-    excerpt: "The arrangement with Tealium will help brands to purchase data based on attributes and other variables, the company says."
-    publishedDateTime: 2020-10-06T21:21:00Z
-    webUrl: "https://www.mediapost.com/publications/article/356585/braze-integrates-with-microsoft-azure-and-tealium.html"
-    type: article
-    provider:
-      name: MediaPost
-      domain: mediapost.com
-    quality: 17
   - title: "Dicom Systems Launches Enterprise Imaging Platform in the Microsoft Azure Marketplace, Deploys to a Leading National IDN"
     excerpt: "Dicom Systems, a healthcare IT software company, today announced the availability of Unifier enterprise imaging platform for medical imaging workflow, archiving, cloud, and"
     publishedDateTime: 2020-10-07T14:15:00Z
@@ -263,6 +248,20 @@ related:
         width: 400
         height: 327
         isCached: true
+  - title: "Braze Reveals Multi-Cloud Support with Microsoft Azure to Help Brands Build Resilience into Customer Engagement Strategies"
+    excerpt: "Braze, the comprehensive customer engagement platform, today announced several product and partnership updates that enable brands to"
+    publishedDateTime: 2020-10-06T14:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/braze-reveals-multi-cloud-support-with-microsoft-azure-to-help-brands-build-resilience-into-customer-engagement-strategies-301146692.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 11
+    images:
+      - url: "https://mma.prnewswire.com/media/606099/Braze_Logo.jpg?p=facebook"
+        width: 2700
+        height: 1414
+        isCached: true
   - title: "Microsoft Azure customers can now implement Datadog as a monitoring solution for their cloud workloads"
     excerpt: "Datadog announced a new strategic partnership with Microsoft Azure and is now be available in the Azure console as a first class service."
     publishedDateTime: 2020-10-01T23:33:00Z
@@ -273,6 +272,6 @@ related:
       domain: helpnetsecurity.com
     quality: 1
 
-secured: "tE/ccz3Dw5dEKvhbrPik2QqGTe31h7EuvAKo1X8wIFh7ZJIAsTT685j6d0af+n+nmXAbithACFYDCul/Mb2oVtQROuCwCOpHaJjoaiZL6SEDUSUzUBocRdP+gEw0JuegbUDo6JQ7huT1lk1xmSSpvQb1LZ1wqP5bicITQYhTNeLVy5AtEUCqo9f7OyxV30iTH2DBUOlGpL2nzoTKHnGNe7quGaQMm+h5c8uoXktUJLEyUAKRZhx3o85HZBiuVJh3vnba3T1mZaK2Fa7ZpTrz1wu8wx3dy6djqBqdb1+Sh3p7HnSWW1qkv+38nQHVBn33nC43Kj6Ef4evGyYt0dofmfXugJnHSPx2fPSortLjCNI=;76DMe3DnQhZfNljUhcCGdw=="
+secured: "wwP4aJA9s2QvuJiOobGDHYZHHGO6ZpmWzwYla9Zp/OTQoIv7a7qCE8s4IsGRuW5NX0VNqSKFO4oO0YAfprYaBdTf6qy8xJ3ZAXo/8550CLGjPlK8tCMKpe3ncoA6nXBZwnLAn6xKkPViJy0AO2s/trBxLrO9N5nGvWHTaV6PsdTNjZ3Y703CDZSp+B571oh0sljuuGhwduolZAnlLv8wyhDkrnG16kA+ZeoDNocuiHDJNgUy1X4cF/mrT6bkQpFylL+lnHdXGi0AXpS8PpWhrB0m64S+iKerioR+yIUW8PG47P1nI0xb7xNTA9K36U9ywhFN2CtfxTpuNGi1P+pH4BDW7PxsVda8Jea7ia+XcmY=;ScEJQhoS3aDStxS9RXjjqQ=="
 ---
 
