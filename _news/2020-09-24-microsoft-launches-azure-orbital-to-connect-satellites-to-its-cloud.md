@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2020/09/22/microsoft-launches-azure-orbital-t
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/09/22/microsoft-launches-azure-orbital-to-connect-satellites-to-its-cloud/amp/"
 type: article
 quality: 114
-heat: 2434
+heat: 2454
 published: true
 
 provider:
@@ -298,6 +298,22 @@ related:
       - url: "https://cdn.neow.in/news/images/uploaded/2015/06/img_0174_story.jpg"
         width: 760
         height: 506
+        isCached: true
+  - title: "Microsoft cloud issues continue with more global outages"
+    excerpt: "Microsoft’s cloud computing services are continuing to experience issues after outages resurfaced this week. A serious Azure Active Directory authentication issue emerged last week, followed by an Exchange/Outlook problem that affected Office 365 customers in Europe and India."
+    publishedDateTime: 2020-10-08T11:00:00Z
+    webUrl: "https://www.techradar.com/news/microsoft-cloud-issues-continue-with-more-global-outages"
+    ampWebUrl: "https://www.techradar.com/amp/news/microsoft-cloud-issues-continue-with-more-global-outages"
+    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/microsoft-cloud-issues-continue-with-more-global-outages"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 82
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/bXy3nBdbNkadCFnRDiEgT4-1200-80.jpg"
+        width: 970
+        height: 546
         isCached: true
   - title: "GOOGLE CLOUD PLATFORM VS. MICROSOFT AZURE"
     excerpt: "We've compiled the ultimate GCP vs. Azure guide that takes a deep dive into the 10 key ways that the two cloud providers differ. Download the guide for stats, head-to-head comparisons, and customer perspectives that reveal which provider is leading the public cloud race."

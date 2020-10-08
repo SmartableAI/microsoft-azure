@@ -1,23 +1,33 @@
 ---
 category: news
-title: "Microsoft cloud services suffer global outage"
-excerpt: "Microsoft suffered an outage yesterday which brought down a variety of its most popular cloud services – including Teams, Outlook, and Office 365."
-publishedDateTime: 2020-09-29T07:02:00Z
-originalUrl: "https://mybroadband.co.za/news/cloud-hosting/369205-microsoft-cloud-services-suffer-global-outage.html"
-webUrl: "https://mybroadband.co.za/news/cloud-hosting/369205-microsoft-cloud-services-suffer-global-outage.html"
-ampWebUrl: "https://mybroadband.co.za/news/cloud-hosting/369205-microsoft-cloud-services-suffer-global-outage.html/amp"
-cdnAmpWebUrl: "https://mybroadband-co-za.cdn.ampproject.org/c/s/mybroadband.co.za/news/cloud-hosting/369205-microsoft-cloud-services-suffer-global-outage.html/amp"
+title: "Microsoft cloud issues continue with more global outages"
+excerpt: "Microsoft’s cloud computing services are continuing to experience issues after outages resurfaced this week. A serious Azure Active Directory authentication issue emerged last week, followed by an Exchange/Outlook problem that affected Office 365 customers in Europe and India."
+publishedDateTime: 2020-10-08T11:00:00Z
+originalUrl: "https://www.techradar.com/news/microsoft-cloud-issues-continue-with-more-global-outages"
+webUrl: "https://www.techradar.com/news/microsoft-cloud-issues-continue-with-more-global-outages"
+ampWebUrl: "https://www.techradar.com/amp/news/microsoft-cloud-issues-continue-with-more-global-outages"
+cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/microsoft-cloud-issues-continue-with-more-global-outages"
 type: article
-quality: 22
+quality: 82
 heat: -1
 published: false
 
 provider:
-  name: MyBroadband
-  domain: mybroadband.co.za
+  name: TechRadar
+  domain: techradar.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/techradar.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
+
+images:
+  - url: "https://cdn.mos.cms.futurecdn.net/bXy3nBdbNkadCFnRDiEgT4-1200-80.jpg"
+    width: 970
+    height: 546
+    isCached: true
 
 related:
   - title: "Microsoft launches Azure Orbital to connect satellites to its cloud"
@@ -303,22 +313,6 @@ related:
       - url: "https://cdn.neow.in/news/images/uploaded/2015/06/img_0174_story.jpg"
         width: 760
         height: 506
-        isCached: true
-  - title: "Microsoft cloud issues continue with more global outages"
-    excerpt: "Microsoft’s cloud computing services are continuing to experience issues after outages resurfaced this week. A serious Azure Active Directory authentication issue emerged last week, followed by an Exchange/Outlook problem that affected Office 365 customers in Europe and India."
-    publishedDateTime: 2020-10-08T11:00:00Z
-    webUrl: "https://www.techradar.com/news/microsoft-cloud-issues-continue-with-more-global-outages"
-    ampWebUrl: "https://www.techradar.com/amp/news/microsoft-cloud-issues-continue-with-more-global-outages"
-    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/microsoft-cloud-issues-continue-with-more-global-outages"
-    type: article
-    provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 82
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/bXy3nBdbNkadCFnRDiEgT4-1200-80.jpg"
-        width: 970
-        height: 546
         isCached: true
   - title: "GOOGLE CLOUD PLATFORM VS. MICROSOFT AZURE"
     excerpt: "We've compiled the ultimate GCP vs. Azure guide that takes a deep dive into the 10 key ways that the two cloud providers differ. Download the guide for stats, head-to-head comparisons, and customer perspectives that reveal which provider is leading the public cloud race."
@@ -1372,6 +1366,17 @@ related:
         width: 647
         height: 450
         isCached: true
+  - title: "Microsoft cloud services suffer global outage"
+    excerpt: "Microsoft suffered an outage yesterday which brought down a variety of its most popular cloud services – including Teams, Outlook, and Office 365."
+    publishedDateTime: 2020-09-29T07:02:00Z
+    webUrl: "https://mybroadband.co.za/news/cloud-hosting/369205-microsoft-cloud-services-suffer-global-outage.html"
+    ampWebUrl: "https://mybroadband.co.za/news/cloud-hosting/369205-microsoft-cloud-services-suffer-global-outage.html/amp"
+    cdnAmpWebUrl: "https://mybroadband-co-za.cdn.ampproject.org/c/s/mybroadband.co.za/news/cloud-hosting/369205-microsoft-cloud-services-suffer-global-outage.html/amp"
+    type: article
+    provider:
+      name: MyBroadband
+      domain: mybroadband.co.za
+    quality: 22
   - title: "Six Things To Know About the Latest Microsoft Cloud Outage"
     excerpt: "Azure Active Directory, Microsoft’s popular identity and access management service, stopped working Monday afternoon after an engineer attempted a code change, locking users across the U.S. out of the"
     publishedDateTime: 2020-09-30T00:13:00Z
@@ -1580,6 +1585,6 @@ related:
         height: 450
         isCached: true
 
-secured: "Rn3dR1NeOBLHm/jTiNit+bX/MCe91gudgRG+tnN6mlsmWzbW2FXBQ4ucGQwotLduxyMMuA56heSkFc/LIuzzDF4it3L/qlyFa8cUmFnZ5EK87/4DUtY7WeGxDTtxILKgA5Y1X4Zf1HCSvPlKKEcxy+hafFq+7AbHChv40s1muXW82VO8dLQI4oa96wCCBjvi3J8tDdGyA3HqUF+7L1VQQCEKE/5olT1vIqGHe0Olh2xm9501+YEy8AQ8+hH4RSLmbNpzvDzsK2mnAAEvjQOccuCYjnoFo/aexTAWkMTJK5o6Dg0vOS1/cR+kwglFlBe32d1ooiww4b69UmgY7EozaYFI58Oh3ykHpnpJbscC01xc221nDPKaIJZgH0SjPz8tKAXWPC0jc2GMCHxxLVxYH9uhtUyPyjar1ISzPFS5lnpdsPsX6PT7wpJg+FugC3pBJJDSkyPwlC4lHgoyhuQRUBb/zj5aXFDG1g64JwONgylXsf0ecmrMY7KbCzoiYRJYUKqs0gXUied3Ik6AvQow0A==;hkNQLIVHFLeqsWDfjjXREg=="
+secured: "4Q6N/jnuyI7QZgaRiIwuQpzOY8iKqmDvS1/RM7B9qWWKi9Y+4H+2WPL6hDTF+fqG6hXOM8sxDprAdk5t/28OwIrTwnEI6jg+DOdMXI6kyocvv5C69FNONMVrxY3MYI5Abx9WNSJy2iDwo/npywRusajkNOpamHPYe3bEP1SnETiTveeudidHjJGT7nd2s5mSg4OaUw87qH5uHFIWTj7PHhPHll+ZiEKsdngaNxIkadRJWklx4w2dcwN7HbWhNBS8RbTflGhiVZSskO6Uu9IN0zeew29U1+AzNx5P7uf50uA/8umS/QBhrtSsplOrHrrFCQe6QFwrxrdQdGAABh9s5wmG1fevgCtjFpkTBP1HWac=;+nAff9ZD/s27EbyWUrsDDQ=="
 ---
 
