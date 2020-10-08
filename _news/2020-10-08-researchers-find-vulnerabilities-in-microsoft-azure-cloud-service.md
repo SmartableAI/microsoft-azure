@@ -305,6 +305,6 @@ related:
       domain: helpnetsecurity.com
     quality: 1
 
-secured: "G1YyuMrQxe+YsFUckWoKYI1p2lp8VzDI9czF6kcLcWIqIhlaZO7NnQikpgPQvbGvJFqpnBNhrAEXomyPD6tR57m35i2tlmmA6vkFM8TfAtD5zKXDFWVB9yTZvSTnArUXh9D/32p/0NqglEiQbIsRhmA34nbZFvZy4ul64y0yBWGk65KT1IUOVdA5PpAcpbUQn/hVwBTpQigImoRaed7+HSjc6kYFqqi4TFmFsCfLcZbLc6lxrtC+lbIgY5Z7lApYSp6+xYT/kk5fQvndux2SLiTbYWEocJ+qLwxpDfXU/HIpVCq41Ze/ux+XKfA7G3JFWKEBTRkWnhWcx53drCN6ETrbCV+PcAfYUOoZ5rwYk+w=;XBwf2qVFZKdC3MCH+plTSQ=="
+secured: "Wugk0+HhGfj+kU5OtUe+u+/mHIWbdAQ0eQIZGG7RlhC/u/4uvr9vnkqSI3bQ3M+7Gz+23z1mN1mZ3vcmX+4U/RpULadtZD2PdN2qqrTIE5AGeEdn8oWuXApdqVHnV6yFzljvwwhfGN6XVQvEDdFGowbZ8KGw9QPkLYMe27CZHeg5neHzmjHmFGyONSJrpMqEPZlnt2GxV2BmwpTZ/VGZ6W0j6eBibGbwmr0yDDONyB2v4C8NUHWTA/N65Qi25U/5br8jryX+Jepv/ZtT1w9GtdL0PUBac+pB/kTsucDEC+ZfKHrvYhPEaWAgGeK3F3fjJz/uZWKO2wfij6iEfh1ORdCAl+8/zSywN/SpYhuAkoLhOo3jmQ+9E+ixAHU8xNd0f2cPIiy77R4ox1BhaEnL6IIbp0gQA4l/KUIMADvFU4F4brXoDzdkylJTFu2C86CSZWp1obBy85jLRM46pOhLmr/H60RA6ER4VEv0EvdkZEl+/xzylLNDltnQnvw/d4yET26caBytyPtYpkaRqeihpg==;EGro0W3vCFrcOiEpt3ZB9w=="
 ---
 

@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Extension Sync is Finally Coming to Microsoft Edge"
-excerpt: "Four months after Microsoft took its new browser out of preview, Edge is getting extension sync, paving the way for automatic deployments."
-publishedDateTime: 2020-05-22T12:17:00Z
-webUrl: "https://www.thurrott.com/cloud/web-browsers/microsoft-edge/236458/extension-sync-is-finally-coming-to-microsoft-edge"
+title: "Microsoft Azure Flaws Open Admin Servers to Takeover"
+excerpt: "Two flaws in Microsoft's cloud-based Azure App Services could have allowed server-side forgery request (SSFR) and remote code-execution attacks."
+publishedDateTime: 2020-10-08T15:40:00Z
+originalUrl: "https://threatpost.com/microsoft-azure-flaws-servers-takeover/159965/"
+webUrl: "https://threatpost.com/microsoft-azure-flaws-servers-takeover/159965/"
 type: article
-quality: 22
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Thurrott
-  domain: thurrott.com
+  name: Threat Post
+  domain: threatpost.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://www.thurrott.com/wp-content/uploads/sites/2/2020/04/edge.jpg"
-    width: 1066
-    height: 600
+  - url: "https://media.threatpost.com/wp-content/uploads/sites/103/2020/09/15073634/Microsoft-Office.jpg"
+    width: 750
+    height: 402
     isCached: true
-    title: "Extension Sync is Finally Coming to Microsoft Edge"
 
 related:
   - title: "Extending the power of Azure AI to Microsoft 365 users"
@@ -381,20 +381,6 @@ related:
         width: 1254
         height: 836
         isCached: true
-  - title: "Microsoft Azure Flaws Open Admin Servers to Takeover"
-    excerpt: "Two flaws in Microsoft's cloud-based Azure App Services could have allowed server-side forgery request (SSFR) and remote code-execution attacks."
-    publishedDateTime: 2020-10-08T15:40:00Z
-    webUrl: "https://threatpost.com/microsoft-azure-flaws-servers-takeover/159965/"
-    type: article
-    provider:
-      name: Threat Post
-      domain: threatpost.com
-    quality: 37
-    images:
-      - url: "https://media.threatpost.com/wp-content/uploads/sites/103/2020/09/15073634/Microsoft-Office.jpg"
-        width: 750
-        height: 402
-        isCached: true
   - title: "Microsoft Announces the General Availability of Immersive Reader Service on the Azure AI Platform"
     excerpt: "Immersive Reader, which is a part of the Cognitive Services suite within the Microsoft Azure AI Platform provides help for readers to read and comprehend text. In a recent blog, Microsoft announced the general availability of the service."
     publishedDateTime: 2020-09-07T11:19:00Z
@@ -422,6 +408,20 @@ related:
       - url: "https://www.petri.com/wp-content/uploads/sites/3/2017/11/m365.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Extension Sync is Finally Coming to Microsoft Edge"
+    excerpt: "Four months after Microsoft took its new browser out of preview, Edge is getting extension sync, paving the way for automatic deployments."
+    publishedDateTime: 2020-05-22T12:17:00Z
+    webUrl: "https://www.thurrott.com/cloud/web-browsers/microsoft-edge/236458/extension-sync-is-finally-coming-to-microsoft-edge"
+    type: article
+    provider:
+      name: Thurrott
+      domain: thurrott.com
+    quality: 22
+    images:
+      - url: "https://www.thurrott.com/wp-content/uploads/sites/2/2020/04/edge.jpg"
+        width: 1066
+        height: 600
         isCached: true
   - title: "C3.ai selects Microsoft Dynamics 365 and Teams to power the next phase of growth"
     excerpt: "C3.ai, a leading innovator in enterprise AI software for accelerating digital transformation, announced plans to collaborate with"
@@ -465,6 +465,6 @@ related:
       domain: telecompaper.com
     quality: 2
 
-secured: "CbNg06MdqzjIN+Geb17/fRFqvpamNjFL4SmIuS3z7zqIw+BH+bNofBYL11vJl9fyBgCV7fTaHzetpttI3JkHE2x++kYkve0r1po6bcpzLtl5UibZbCqoq27Qy1zeisu52F+7yF8u1QtB9XMF+AJmso5x85/prwTRdhlAzC40chqfm/EjwI82A2YSxnFyHD9o97HhuY6w/ZQaspEMFDowmwP5E0cv7QZiPWUgBQtKsqsB2gKenXfMYNEg44ICc95K9EMxJ+eNwCv6nkL/LPUZhR6hY3gY1Fe2xFOo2iEFq/kFX//EzaHlztLFWo2pH/+ODJyW5ZOMThNt9FWrso5KLFlBIKNx498jW9rQGF5oIUEkfBsr6/DIZoQp4vNTWM5rsoFcOD6/7rbkXiWjyib8UT8v5UbWGQBWKJk+4gin94u+z1wXBeX8rrdiJomTiJ7L3QJVD48qK5uUMLyZT6JOb++5dfhsSol4SO7xf/gVWvQ=;5Pe/m/79stIa2wrHMafDcQ=="
+secured: "5aIDPiraudrZzFIz4BD8qgVnZwbEtn1YKW/Ip5sv9v+H6qlWDvf3B/hoKCWu8bFZSctn1aqFCyauQxR5rB9xX4r3NTaUXQVAtLwske52ywm9xOTFFxXrDd4ebuyZtELYkgvBpdz/1vnd6DVfBrKjtxKVsul+6Bl0Gs7I1DmV3aDd2DomsxZl2VMN4sTfRDCAkmRWopnsSho2KjUmNzJ+9lCsV91k+t7u6jZKPrblH4TGJSJi3b9ALCNsmKS8l9ORvDOxofZdLDtiRkgsPyhBDgMDnAOMBVTgkUBd+6pKX0d7bAdHIptSfZHHw3mVd8jo0/UU2uwpd1/Z+iT8e6OplbZnd13Ardh3BY7AqyqeXWI=;8wByfi3uM0Pk+2e4YT7m9A=="
 ---
 
