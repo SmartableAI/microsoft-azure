@@ -21,6 +21,12 @@ provider:
 topics:
   - Azure
 
-secured: "R5Jg5MSq2I+D2rCPPLlDfYDkgDWkf4TnegxadvZO8WbMwJVPQnW4ZzEwqpDmXbQOt9a9LWIFsetJZFI+a0OjN8kMru53TitN9OPN3j3tWl9558JNT1UUgdieu8d+cxKY+jyyu3lCJirZSte/MNK532yvG3kBWRPR/cVXnyTflBt2SlqUKkZI3Ub1j/xLOUMFglfw19VhmEEg0CFgaceTK36krd7XP2yCLDQKfkylyGfSKGIdRSY64jYlAfVKHBcCzfusfqlgCx57aR0sARiIIjHGzGrBFcBc7w/7CCsHHK8QPXwClK6mAV/LkpGHLhFgHFki8IP2hQt1VaU4KepBsuODQM+bsDgmF8T6B3hnyacvefyqilke1keI4qbG59cDA6jHxjySW+YrQnq5to4WvA==;05e7YjTMQ5prhlp807sprg=="
+images:
+  - url: https://i.ytimg.com/vi/jJnqJab_L9A/maxresdefault.jpg
+    width: 1280
+    height: 720
+    isCached: true
+
+secured: "EURSIaM8R++ITsj42lA1RMQJMDEmqzWF2nrzAGTbUZQefBhBdXhS4OX6RReikNMydvHkCpsNIZ2HbCa+kVgUo9hKEQVcvJIRG+iDyX0IZxgIBaHyxOuFDtglBCtOWD9DfAmd7QVY+1I631QadT4WTLjVKtwRMP5cxS/k4C/3V5vGGlf2x6zXiSjnIjSFSVg290MKRNiLBuv444B4kknsHSOhx1j5O3200Qi6Rjw1GlgfYzausXnkukwyY/XhA/+qbnY1eySwRkx5NtPqqW26VEVveP4M3LTzILuW5dtkAniMdl2qCJGEsguRYwVFn4z+nqErWXuopylE09gmJbtfsx69wx3bEhqoyIgWuzlw9xD2XoKLXRnAom8sUFN3Tx1V1DslIshJzIglRFOeXosCDRA9+tmsLiAHD4LP8a1TDAI=;dJ6T3mlg1lD/w4ZA4CWijQ=="
 ---
 

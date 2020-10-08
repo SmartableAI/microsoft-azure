@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT16M31S
 publishedDateTime: 2019-08-22T22:35:02Z
-heat: 54
+heat: 53
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Kgn_Y9nkv94\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -21,6 +21,12 @@ provider:
 topics:
   - Azure
 
-secured: "k+xL+kPKkXQ1/2TFMsuZ2MDO2WTeLXuRybMuiIr9pujE1rd4cUg29gYHazJZeyXKUgq+ZN1YZnjdqGQPDU2fJVu7nKqBxujebtZ9+QroAYCbjk5uKAZ6Dk33XsV6J8eRNwU9T3O5tqUg6tbT0rmOd61t+ZVTfTif9c6IFJ90tbIQMxWN99TYlqAkdIKnN9wT7u+7Kvy+QAuL9pwLlIvP/tGpKHOT6wbJLJUnYA4hnRukvtOWaTMj6abDIuuKkvvs6XhoGdv2AnSVK61s6FN29pUu1KzKSnhT+W/xE+4n0YrcbG5mb/ZUqFbkmzxGrJBlQTE7BiE3WvenpvnWabsf1cq2hgO3HaGibfftLtaCgWFzAqs5y+ZR2tyyPPKl/Dq1Qpk5RLe1hzqJXXq3R3or+A==;+HHzGhCPnIL9yEp5NU7Gow=="
+images:
+  - url: https://i.ytimg.com/vi/Kgn_Y9nkv94/maxresdefault.jpg
+    width: 1280
+    height: 720
+    isCached: true
+
+secured: "iZZ8jm6UinLKV8/9CgQCV/uXc9dguiGD2yqw4tgTn9+Ymv1ZWB9TDkomcf/M97d14/MaLEE5n+LI6xJMiuZlW849YCmt4Pnp91SP+l99ccAo2P43I077OJaFOsXwhZPu1015qx6YgHfjv7f5HfwXs5CfR5CbYovLV7i+9FUG6a7jQn1EvNFIoqQDF6yYH6VxSTh+Y+MXBiYAavCZekLDusn9bC8NIm8yJgM77q8/SUsSnA+XCKAJt2L8uegM6Vu0FhAAVALqNri7m2zdJT8oXJla3Dl7q6UJBdzsAzpakOIKhszEXN3LGWwkPpxKSvGZVmspp6IuLYcaVCIobCfvpuqwdHyK6qFNPN9TPOetY5vu3XPRDnA0caMdZv4vS7YIsg0gWfScEFiXxwy+3Q9WQb6rcwNOwNOQojZlnQrOW+w=;WYOWg9bbWDwFiskNI2B0KA=="
 ---
 

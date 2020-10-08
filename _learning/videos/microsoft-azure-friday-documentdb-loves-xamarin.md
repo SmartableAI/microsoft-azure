@@ -22,6 +22,12 @@ topics:
   - Azure
   - Mobile
 
-secured: "Vzi+C+w/OA1WshrX7GIHkwhKh8axATxNyCE9p5xHyV/42g40HWZwYSq1yVhl0DaX2itQ400ltZ/DOCJTKGjRypbdKCqm7BVTr/B/hyY8Z0wNIVrYHZ2ZaZtTubT5Q5hyCadCqyPktefd9oqzoY/Vr/xq4rKEvKuSlPFEsoqEF48TlbHC3pGzABpcwurt1ct97SfAdBA5LacfttLrE9z7s17nOazwnnOglX0spKI3Cnu/RyY0xbqrLLac+5ulkoKf6Ug2N/fEhU9gAIKoAxHQORoIleYr2Bki9dqBhpA1CkNflc8wa1iBZmkIS7zRaYRJfMBaMCO1vppK9mG5UGlHJdi5hyl/YkYltZ1pSpgsNX1AYK8YSW6kHDkGKZYTes7PEgy7cDfpWeiq8Ys4taHOOQ==;zEaqPZAxAs+t5BKOQUbTkQ=="
+images:
+  - url: https://i.ytimg.com/vi/VS69Y19ApG8/maxresdefault.jpg
+    width: 1280
+    height: 720
+    isCached: true
+
+secured: "BAK6zNlIXuwxmzXdVs+0pMj42fHFzEHtDu0W9Ha/ZVLbtELuU7w0b+XS/TLAUvZ8cRzVINuHWXgP7cZ3rd8hGnnIabGqr0S7PuKmqs6PbprDQK4WUBQm3ztYOXi9ojm6CBlU07vU/lvPtTzx71NcHK9/UhUVIyk8btntAAJTf39Kvui7rRsUbRbkt4J0lA1zO+ynCQtKrWczWwx1sCT3R5SMZSZrjdGwIl25G098dAgYVHzqA2+3znonjLO8wN+t449Hmamz1T11+o3nkbbGk5yETWh7BrAAsUtxr2Y6JFDfk1rBsn6qD2NBnS1+K0Q7y6EuP+n7a1Q36un8Vq/X1T+4KcH3syB3F82URUwsKdcAwpCTvAMmsfLZMI12ZibS2CpfuFXKKdemShMAjBAFZYocurJPBT/9niePJb+VDsk=;CgDcU09T/OWMq9q270NZ4w=="
 ---
 

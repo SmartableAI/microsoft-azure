@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT11M14S
 publishedDateTime: 2019-02-28T00:58:03Z
-heat: 51
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/82q67x769XE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -23,6 +23,12 @@ topics:
   - Serverless
   - Integration
 
-secured: "xAGJU16SCEWiJCCpm39yj3G2xR+GI2f673ppmb6Lyp799vY6p9AVD7obafDT6PjVOm+xcqKtr8ISitZqTB41qbqHfL5qyQjlvwBzaHih8oKVEPhhQ14m8jwinxKXt1HtT7TwDu2dBhaOKf7OaaVdgwmsZmhdjViH7TIN88GbJ7+w8Ya0PFgDz8wHiVW79GPlTsH78dwYKX0RakUc0wRy661god446l84eH35L0njJmEJMgfZezc0dH65XBN/iGbjv9Ku7v2nsI6iCojx3uKHpR/c4m6mPKz8itWGiLK7c8R7+Ja02bbxX0Xhqj8tA3U7/vgcTG34AV4Q6LMIUG8q4mZKWAFtInRiKTrNc+1lrYptXHNQmebAYu9I+pHIKMWj4DpHuvBJMlkeZBvNO81sGw==;aoVmRFIlwYnf6YeYoxKcpQ=="
+images:
+  - url: https://i.ytimg.com/vi/82q67x769XE/maxresdefault.jpg
+    width: 1280
+    height: 720
+    isCached: true
+
+secured: "DzReAK9//UZQKRtOoQtTJL51Fhb4oWy9oOZEn4k7kE2Pj3ndEc/OJXNDbq4FkDAuBx5SxxPAYMou9YvnRnSLnd50vomB/jv4r3SYJdjh4TbRFdh06Q50xrEb7VbogSAumT61ImDIyZ/COYKhpIB0tp8PabaMKxF+zfSiZLWpCMZrRrBa+HIEPkJhPDAOEsL48iMYVZosmC5zfKASjaNno1t55ogTNen3QaH9B4q/dN1srnApNXDVLLaV+L3x2BxJbl+YhyX3mU/vu+u7f0YAoRUoyz7yev+qLtJKBulEGVGJbEtGBrWV0sPmAEN778ca4i5AaqtAxw5GHp19Ypl7fNkUBByN6DtftloTdfxyuvwIgHQ8WLW1MY2EmpIsQKJ8ASaCQ2sqYszSiFkWFbOEFydyRmVhixmMcovyD17emuI=;wqNTqNQr/R53It1BrivmUQ=="
 ---
 
