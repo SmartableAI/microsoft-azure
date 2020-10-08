@@ -1,26 +1,26 @@
 ---
 category: news
-title: "Braze Reveals Multi-Cloud Support with Microsoft Azure to Help Brands Build Resilience into Customer Engagement Strategies"
-excerpt: "Braze, the comprehensive customer engagement platform, today announced several product and partnership updates that enable brands to"
-publishedDateTime: 2020-10-06T14:00:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/braze-reveals-multi-cloud-support-with-microsoft-azure-to-help-brands-build-resilience-into-customer-engagement-strategies-301146692.html"
-webUrl: "https://www.prnewswire.com/news-releases/braze-reveals-multi-cloud-support-with-microsoft-azure-to-help-brands-build-resilience-into-customer-engagement-strategies-301146692.html"
+title: "DataWeave Now Available in the Microsoft Azure Marketplace"
+excerpt: "DataWeave, a digital commerce analytics platform, today announced the availability of DataWeave competitive intelligence as a service in the Microsoft Azure Marketplace, an"
+publishedDateTime: 2020-10-08T17:01:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/dataweave-now-available-in-the-microsoft-azure-marketplace/article_351680aa-0a5c-5de1-9a43-21eae695da25.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/dataweave-now-available-in-the-microsoft-azure-marketplace/article_351680aa-0a5c-5de1-9a43-21eae695da25.html"
 type: article
-quality: 11
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://mma.prnewswire.com/media/606099/Braze_Logo.jpg?p=facebook"
-    width: 2700
-    height: 1414
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/f/da/fda7e0f8-cd73-50b4-8827-bd7dd9f33b88/5f7f45dfc0db4.image.jpg?resize=400%2C400"
+    width: 400
+    height: 400
     isCached: true
 
 related:
@@ -190,20 +190,6 @@ related:
         width: 1200
         height: 627
         isCached: true
-  - title: "DataWeave Now Available in the Microsoft Azure Marketplace"
-    excerpt: "DataWeave, a digital commerce analytics platform, today announced the availability of DataWeave competitive intelligence as a service in the Microsoft Azure Marketplace, an"
-    publishedDateTime: 2020-10-08T17:01:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/dataweave-now-available-in-the-microsoft-azure-marketplace/article_351680aa-0a5c-5de1-9a43-21eae695da25.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 37
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/f/da/fda7e0f8-cd73-50b4-8827-bd7dd9f33b88/5f7f45dfc0db4.image.jpg?resize=400%2C400"
-        width: 400
-        height: 400
-        isCached: true
   - title: "Komprise is also selected as a co-sell ready partner for Microsoft Azure"
     excerpt: "PRNewswire/ -- Komprise, the leader in analytics-driven data management, today announced new capabilities for its Intelligent Data Management solution in Microsoft Azure. Customers can"
     publishedDateTime: 2020-10-06T14:32:00Z
@@ -339,6 +325,20 @@ related:
         width: 400
         height: 327
         isCached: true
+  - title: "Braze Reveals Multi-Cloud Support with Microsoft Azure to Help Brands Build Resilience into Customer Engagement Strategies"
+    excerpt: "Braze, the comprehensive customer engagement platform, today announced several product and partnership updates that enable brands to"
+    publishedDateTime: 2020-10-06T14:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/braze-reveals-multi-cloud-support-with-microsoft-azure-to-help-brands-build-resilience-into-customer-engagement-strategies-301146692.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 11
+    images:
+      - url: "https://mma.prnewswire.com/media/606099/Braze_Logo.jpg?p=facebook"
+        width: 2700
+        height: 1414
+        isCached: true
   - title: "Microsoft Azure customers can now implement Datadog as a monitoring solution for their cloud workloads"
     excerpt: "Datadog announced a new strategic partnership with Microsoft Azure and is now be available in the Azure console as a first class service."
     publishedDateTime: 2020-10-01T23:33:00Z
@@ -349,6 +349,6 @@ related:
       domain: helpnetsecurity.com
     quality: 1
 
-secured: "tE/ccz3Dw5dEKvhbrPik2QqGTe31h7EuvAKo1X8wIFh7ZJIAsTT685j6d0af+n+nmXAbithACFYDCul/Mb2oVtQROuCwCOpHaJjoaiZL6SEDUSUzUBocRdP+gEw0JuegbUDo6JQ7huT1lk1xmSSpvQb1LZ1wqP5bicITQYhTNeLVy5AtEUCqo9f7OyxV30iTH2DBUOlGpL2nzoTKHnGNe7quGaQMm+h5c8uoXktUJLEyUAKRZhx3o85HZBiuVJh3vnba3T1mZaK2Fa7ZpTrz1wu8wx3dy6djqBqdb1+Sh3p7HnSWW1qkv+38nQHVBn33nC43Kj6Ef4evGyYt0dofmfXugJnHSPx2fPSortLjCNI=;76DMe3DnQhZfNljUhcCGdw=="
+secured: "PU9VipH1fxK48/vDofiLwnXQPyI17v7or+oQz+aSRWe7V0I1BVs0Ay/yzO9s7rgvix4gE7Xfy65XB2IddCe1uxKQAsnRL4QYmamJoHhst78xuYlXFp/pIxS3B6r4u1Si7cGcIUxoLCI2SvTIDIT7Wga2DC7Kf/jflCuPP29fYSsWVMuKD79wrTFoTRfS/3PLMPY4DcDLYUgXV2a+Im60lG06ioSfgH5OmA8wn8uvI8CKiNFMbRQfotWmFh2pGHypXQfGnHTNyzIUvj0QQ3SmHoghP+Moy79oFiYSg8+SY7UnWmDGDFlXLT4ILYhFmCRsgPgacObExmCJ5li8c3E2imV2BH2ep6q0Ftp4yumooZg=;qBZJmOXJ/1PFp5LCPdKBeA=="
 ---
 

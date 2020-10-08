@@ -1,26 +1,28 @@
 ---
 category: news
-title: "Braze Reveals Multi-Cloud Support with Microsoft Azure to Help Brands Build Resilience into Customer Engagement Strategies"
-excerpt: "Braze, the comprehensive customer engagement platform, today announced several product and partnership updates that enable brands to"
-publishedDateTime: 2020-10-06T14:00:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/braze-reveals-multi-cloud-support-with-microsoft-azure-to-help-brands-build-resilience-into-customer-engagement-strategies-301146692.html"
-webUrl: "https://www.prnewswire.com/news-releases/braze-reveals-multi-cloud-support-with-microsoft-azure-to-help-brands-build-resilience-into-customer-engagement-strategies-301146692.html"
+title: "Microsoft Cloud Services Like Outlook and Teams Continue to Face Outages"
+excerpt: "Microsoft Cloud services have suffered several windows of downtime in recent weeks, with the latest affecting Office 365."
+publishedDateTime: 2020-10-08T13:40:00Z
+originalUrl: "https://winbuzzer.com/2020/10/08/microsoft-cloud-services-like-outlook-and-teams-continue-to-face-outages-xcxwbn/"
+webUrl: "https://winbuzzer.com/2020/10/08/microsoft-cloud-services-like-outlook-and-teams-continue-to-face-outages-xcxwbn/"
+ampWebUrl: "https://winbuzzer.com/2020/10/08/microsoft-cloud-services-like-outlook-and-teams-continue-to-face-outages-xcxwbn/?amp"
+cdnAmpWebUrl: "https://winbuzzer-com.cdn.ampproject.org/c/s/winbuzzer.com/2020/10/08/microsoft-cloud-services-like-outlook-and-teams-continue-to-face-outages-xcxwbn/?amp"
 type: article
-quality: 11
+quality: 41
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: winbuzzer.com
+  domain: winbuzzer.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://mma.prnewswire.com/media/606099/Braze_Logo.jpg?p=facebook"
-    width: 2700
-    height: 1414
+  - url: "https://winbuzzer.com/wp-content/uploads/2016/09/Microsoft-Cloud-Scott-Guthrie-Keynote.jpg"
+    width: 1280
+    height: 720
     isCached: true
 
 related:
@@ -134,22 +136,6 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/09/02/microsoft-has-unveiled-software-that-can-spot-deepfake.jpg"
         width: 1024
         height: 520
-        isCached: true
-  - title: "Microsoft Cloud Services Like Outlook and Teams Continue to Face Outages"
-    excerpt: "Microsoft Cloud services have suffered several windows of downtime in recent weeks, with the latest affecting Office 365."
-    publishedDateTime: 2020-10-08T13:40:00Z
-    webUrl: "https://winbuzzer.com/2020/10/08/microsoft-cloud-services-like-outlook-and-teams-continue-to-face-outages-xcxwbn/"
-    ampWebUrl: "https://winbuzzer.com/2020/10/08/microsoft-cloud-services-like-outlook-and-teams-continue-to-face-outages-xcxwbn/?amp"
-    cdnAmpWebUrl: "https://winbuzzer-com.cdn.ampproject.org/c/s/winbuzzer.com/2020/10/08/microsoft-cloud-services-like-outlook-and-teams-continue-to-face-outages-xcxwbn/?amp"
-    type: article
-    provider:
-      name: winbuzzer.com
-      domain: winbuzzer.com
-    quality: 41
-    images:
-      - url: "https://winbuzzer.com/wp-content/uploads/2016/09/Microsoft-Cloud-Scott-Guthrie-Keynote.jpg"
-        width: 1280
-        height: 720
         isCached: true
   - title: "Microsoft pays over $370,000 for Azure Sphere bug reports"
     excerpt: "Microsoft awarded over $370,000 in bounties to security researchers for 16 bounty eligible reports of vulnerabilities submitted through the Azure Sphere Security Research Challenge (ASSRC) IoT-focused research program."
@@ -339,6 +325,20 @@ related:
         width: 400
         height: 327
         isCached: true
+  - title: "Braze Reveals Multi-Cloud Support with Microsoft Azure to Help Brands Build Resilience into Customer Engagement Strategies"
+    excerpt: "Braze, the comprehensive customer engagement platform, today announced several product and partnership updates that enable brands to"
+    publishedDateTime: 2020-10-06T14:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/braze-reveals-multi-cloud-support-with-microsoft-azure-to-help-brands-build-resilience-into-customer-engagement-strategies-301146692.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 11
+    images:
+      - url: "https://mma.prnewswire.com/media/606099/Braze_Logo.jpg?p=facebook"
+        width: 2700
+        height: 1414
+        isCached: true
   - title: "Microsoft Azure customers can now implement Datadog as a monitoring solution for their cloud workloads"
     excerpt: "Datadog announced a new strategic partnership with Microsoft Azure and is now be available in the Azure console as a first class service."
     publishedDateTime: 2020-10-01T23:33:00Z
@@ -349,6 +349,6 @@ related:
       domain: helpnetsecurity.com
     quality: 1
 
-secured: "tE/ccz3Dw5dEKvhbrPik2QqGTe31h7EuvAKo1X8wIFh7ZJIAsTT685j6d0af+n+nmXAbithACFYDCul/Mb2oVtQROuCwCOpHaJjoaiZL6SEDUSUzUBocRdP+gEw0JuegbUDo6JQ7huT1lk1xmSSpvQb1LZ1wqP5bicITQYhTNeLVy5AtEUCqo9f7OyxV30iTH2DBUOlGpL2nzoTKHnGNe7quGaQMm+h5c8uoXktUJLEyUAKRZhx3o85HZBiuVJh3vnba3T1mZaK2Fa7ZpTrz1wu8wx3dy6djqBqdb1+Sh3p7HnSWW1qkv+38nQHVBn33nC43Kj6Ef4evGyYt0dofmfXugJnHSPx2fPSortLjCNI=;76DMe3DnQhZfNljUhcCGdw=="
+secured: "F7sYvGeg6CU+ekZ8QOjzqS1bn6CDqvPwqnH8WJSASbf17Gz2jO8rqORFn0YoCV/KXpEl0eXYRDjRF/CjBuIcu8E02zMVdecFLjOzAR9w+VKCZ1/38tI2u44kdoKVTFqQnsHfbScEvxfi9Kp1kJIMpkd/QMu3iqkbxXTRsRByExjz1+ctSfoutOTXBNQ15e6IJILPeLEjVmgYGYIVqi0P2bmGdXtMsCKwlrBaJt8K1f9Dfb8q+ruk7ZPQn/GLacfHGocREdPsd7GrksaVt3+gMVDa7ONZuWoFfcH+XtGVtGqi14PLVcRBsmpf7m3Wso4ZUW3Xv5q/gBfDSZLFjJyNbbm17j3irC00ACPhaEZ+0k8=;UkEEKo1nQxzZhKfbwzt/kA=="
 ---
 

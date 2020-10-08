@@ -49,20 +49,6 @@ related:
         width: 576
         height: 583
         isCached: true
-  - title: "Komprise addresses demand for file data management in the cloud with new capabilities for Microsoft Azure Files and Azure NetApp Files"
-    excerpt: "PRNewswire/ -- Komprise, the leader in analytics-driven data management, today announced new capabilities for its Komprise Intelligent Data"
-    publishedDateTime: 2020-10-06T13:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/komprise-addresses-demand-for-file-data-management-in-the-cloud-with-new-capabilities-for-microsoft-azure-files-and-azure-netapp-files-301146567.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 5
-    images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
-        isCached: true
 
 secured: "a1jsk2UdmpM434LWgNCBSFdflx67JtTr6hJmV+3oBWGJLBpjuqLrMeo4oJVLBbVZfIulXtvs4KVgEHR9wPXitsi1QlbJ0ntWX+3HYm/lZ8zhdNRCwDew9SMgrVx3+TQegSLZGO1zINC5aVHhyxS61EJHPsZL7ENNjcxSeajdlN3qUNGgh30Qkc3MEujla0CcIzCwWxzT/zQd2Q2/uXeaB89vQuskpRKB6my3tz2Ep9g0ntWHBQaGML+2osw7vl1Trfxg75wygGJvyqxfIbgyGkSowgK/FepGlxsjRt60aXqr/Lzc6/5wlbM0DTnwz64ah1sNBI7T0q5QD6avoBHKD8HV1oXSV2DwbYn8gj7hbgo=;LCJC62B0Z/1SwrMw42htJQ=="
 ---

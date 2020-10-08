@@ -7,8 +7,8 @@ originalUrl: "https://azure.microsoft.com/blog/microsoft-named-a-leader-in-the-f
 webUrl: "https://azure.microsoft.com/blog/microsoft-named-a-leader-in-the-forrester-new-wave-functions-as-a-service-platforms/"
 type: article
 quality: 67
-heat: -1
-published: false
+heat: 87
+published: true
 
 provider:
   name: Microsoft
@@ -30,42 +30,19 @@ images:
     title: "Microsoft named a leader in The Forrester New Wave: Functions-as-a-Service Platforms"
 
 related:
-  - title: "Microsoft named a leader in Gartner’s Magic Quadrant for Enterprise Integration Platform as a Service"
-    excerpt: "We are excited to share that Gartner has positioned Microsoft as a Leader in the 2020 enterprise integration platform as a service (EiPaaS) Magic Quadrant, based on our ability to execute and completeness of vision. Microsoft has now remained an EiPaaS MQ leader for the past three years."
-    publishedDateTime: 2020-09-30T08:00:19Z
-    webUrl: "https://azure.microsoft.com/blog/microsoft-named-a-leader-in-gartners-magic-quadrant-for-enterprise-integration-platform-as-a-service/"
+  - title: "Microsoft is a leader in The Forrester Wave™: Streaming Analytics, Q3 2019"
+    excerpt: "Processing Big data in real-time is an operational necessity for many businesses. Azure Stream Analytics is Microsoft’s serverless real-time analytics offering for complex event processing.\r\n\r\nWe are excited and humbled to announce that Microsoft has been named a leader in The Forrester Wave™: Streaming"
+    publishedDateTime: 2019-12-17T09:00:15Z
+    webUrl: "https://azure.microsoft.com/blog/microsoft-is-a-leader-in-the-forrester-wave-streaming-analytics-q3-2019/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 78
+    quality: 37
     images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/2059e880-8170-4a2e-9a89-59d77305b60a.png"
-        width: 737
-        height: 768
-        isCached: true
-  - title: "Microsoft plans to establish new cloud datacenter region in Greece"
-    excerpt: "The new region is anticipated to include Microsoft Azure, with Microsoft 365, Dynamics 365 and Power Platform to follow."
-    publishedDateTime: 2020-10-05T17:29:42Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/microsoft-plans-to-establish-new-cloud-datacenter-region-in-greece/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 52
-  - title: "Microsoft Touts Azure as 'Carrier-Grade Platform' for Telcos Deploying 5G"
-    excerpt: "Microsoft on Monday affirmed its software-defined networking infrastructure support for telecom companies, especially as they move more toward rolling out 5G wireless services."
-    publishedDateTime: 2020-09-28T22:12:00Z
-    webUrl: "https://redmondmag.com/articles/2020/09/28/azure-carrier-grade-platform-5g.aspx"
-    type: article
-    provider:
-      name: Redmond Magazine
-      domain: redmondmag.com
-    quality: 36
-    images:
-      - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/IntroImagesBigSmall/AttenaSkyBig.jpg"
-        width: 1665
-        height: 1158
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/d98fb6ab-aa62-4760-9530-3caee7219d19.gif"
+        width: 600
+        height: 827
         isCached: true
 
 secured: "hdppSNsikF/44OAFZBapJAqDKln4Fa0Op3K+iBzToyHied/dMrosknBYKB4gyxrUu635Cx8YACDVYMAiYMjFzf6yZsqxV+gzT9FGRFtsTsU85uSlEywYeCBf6Qrvojvo2sehVTYssFCV2WCPyjRR/w5OzWq/h+5ZCy5gS73wzfkYP5M1eKclgzAXApWLYvIwhYL1L8nLYFGV4iBaa/ibtt3vC8HgKZay0XRKjKnBG+ISR1ZYEh+JJOttnBkTZz9gd4O1I9RkPYtKphoBbozNPDBZ9eyWH/0sps6i/hQ4NuiB2ed0OBGUYZVc8Tv9LtwykkvF6EfLysTp3ODxl+8rg5wfUPcNLFdgYysFyrqAMt4=;wjHm78wEd3oV8Oa/fQ//xA=="

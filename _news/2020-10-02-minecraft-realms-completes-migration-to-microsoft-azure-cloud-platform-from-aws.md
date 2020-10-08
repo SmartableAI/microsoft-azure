@@ -122,6 +122,22 @@ related:
         width: 1024
         height: 520
         isCached: true
+  - title: "Microsoft Cloud Services Like Outlook and Teams Continue to Face Outages"
+    excerpt: "Microsoft Cloud services have suffered several windows of downtime in recent weeks, with the latest affecting Office 365."
+    publishedDateTime: 2020-10-08T13:40:00Z
+    webUrl: "https://winbuzzer.com/2020/10/08/microsoft-cloud-services-like-outlook-and-teams-continue-to-face-outages-xcxwbn/"
+    ampWebUrl: "https://winbuzzer.com/2020/10/08/microsoft-cloud-services-like-outlook-and-teams-continue-to-face-outages-xcxwbn/?amp"
+    cdnAmpWebUrl: "https://winbuzzer-com.cdn.ampproject.org/c/s/winbuzzer.com/2020/10/08/microsoft-cloud-services-like-outlook-and-teams-continue-to-face-outages-xcxwbn/?amp"
+    type: article
+    provider:
+      name: winbuzzer.com
+      domain: winbuzzer.com
+    quality: 41
+    images:
+      - url: "https://winbuzzer.com/wp-content/uploads/2016/09/Microsoft-Cloud-Scott-Guthrie-Keynote.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Microsoft pays over $370,000 for Azure Sphere bug reports"
     excerpt: "Microsoft awarded over $370,000 in bounties to security researchers for 16 bounty eligible reports of vulnerabilities submitted through the Azure Sphere Security Research Challenge (ASSRC) IoT-focused research program."
     publishedDateTime: 2020-10-06T16:00:00Z
@@ -160,6 +176,20 @@ related:
       - url: "https://mms.businesswire.com/media/20201006005876/en/784885/23/Synoptek_full_logo.jpg"
         width: 1200
         height: 627
+        isCached: true
+  - title: "DataWeave Now Available in the Microsoft Azure Marketplace"
+    excerpt: "DataWeave, a digital commerce analytics platform, today announced the availability of DataWeave competitive intelligence as a service in the Microsoft Azure Marketplace, an"
+    publishedDateTime: 2020-10-08T17:01:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/dataweave-now-available-in-the-microsoft-azure-marketplace/article_351680aa-0a5c-5de1-9a43-21eae695da25.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 37
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/f/da/fda7e0f8-cd73-50b4-8827-bd7dd9f33b88/5f7f45dfc0db4.image.jpg?resize=400%2C400"
+        width: 400
+        height: 400
         isCached: true
   - title: "Komprise is also selected as a co-sell ready partner for Microsoft Azure"
     excerpt: "PRNewswire/ -- Komprise, the leader in analytics-driven data management, today announced new capabilities for its Intelligent Data Management solution in Microsoft Azure. Customers can"
@@ -230,6 +260,20 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/c/e1/ce1c5bc4-2af1-5b01-9b65-205e791e28d4/5f7c7229dcab8.image.jpg?resize=400%2C242"
         width: 400
         height: 242
+        isCached: true
+  - title: "CellTrust SL2 Compliant Voice and Text Messaging now Available with Microsoft Azure Government"
+    excerpt: "CellTrust Corporation, a leading provider of global secure and compliant mobile communication for government and enterprise, announced today that its"
+    publishedDateTime: 2020-10-06T16:38:00Z
+    webUrl: "https://www.businesswire.com/news/home/20201006005058/en/CellTrust-SL2-Compliant-Voice-and-Text-Messaging-now-Available-with-Microsoft-Azure-Government"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 25
+    images:
+      - url: "https://mms.businesswire.com/media/20201006005058/en/779665/23/CellTrust_Logo_Slogan_CMYK_Vector.jpg"
+        width: 1200
+        height: 627
         isCached: true
   - title: "odix joins the Microsoft Intelligent Security Association (MISA) program extending FileWall security logs to Microsoft Azure Sentinel"
     excerpt: "PRNewswire/ -- odix, the Israel based cyber security leader in Enterprise CDR (Content Disarm and Reconstruction) technology, has officially joined the Microsoft Intelligent Security Association (MISA) program."

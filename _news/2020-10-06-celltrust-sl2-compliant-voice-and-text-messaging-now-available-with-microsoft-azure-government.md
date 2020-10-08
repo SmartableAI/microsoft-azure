@@ -1,26 +1,26 @@
 ---
 category: news
-title: "Braze Reveals Multi-Cloud Support with Microsoft Azure to Help Brands Build Resilience into Customer Engagement Strategies"
-excerpt: "Braze, the comprehensive customer engagement platform, today announced several product and partnership updates that enable brands to"
-publishedDateTime: 2020-10-06T14:00:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/braze-reveals-multi-cloud-support-with-microsoft-azure-to-help-brands-build-resilience-into-customer-engagement-strategies-301146692.html"
-webUrl: "https://www.prnewswire.com/news-releases/braze-reveals-multi-cloud-support-with-microsoft-azure-to-help-brands-build-resilience-into-customer-engagement-strategies-301146692.html"
+title: "CellTrust SL2 Compliant Voice and Text Messaging now Available with Microsoft Azure Government"
+excerpt: "CellTrust Corporation, a leading provider of global secure and compliant mobile communication for government and enterprise, announced today that its"
+publishedDateTime: 2020-10-06T16:38:00Z
+originalUrl: "https://www.businesswire.com/news/home/20201006005058/en/CellTrust-SL2-Compliant-Voice-and-Text-Messaging-now-Available-with-Microsoft-Azure-Government"
+webUrl: "https://www.businesswire.com/news/home/20201006005058/en/CellTrust-SL2-Compliant-Voice-and-Text-Messaging-now-Available-with-Microsoft-Azure-Government"
 type: article
-quality: 11
+quality: 25
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://mma.prnewswire.com/media/606099/Braze_Logo.jpg?p=facebook"
-    width: 2700
-    height: 1414
+  - url: "https://mms.businesswire.com/media/20201006005058/en/779665/23/CellTrust_Logo_Slogan_CMYK_Vector.jpg"
+    width: 1200
+    height: 627
     isCached: true
 
 related:
@@ -274,20 +274,6 @@ related:
         width: 400
         height: 242
         isCached: true
-  - title: "CellTrust SL2 Compliant Voice and Text Messaging now Available with Microsoft Azure Government"
-    excerpt: "CellTrust Corporation, a leading provider of global secure and compliant mobile communication for government and enterprise, announced today that its"
-    publishedDateTime: 2020-10-06T16:38:00Z
-    webUrl: "https://www.businesswire.com/news/home/20201006005058/en/CellTrust-SL2-Compliant-Voice-and-Text-Messaging-now-Available-with-Microsoft-Azure-Government"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 25
-    images:
-      - url: "https://mms.businesswire.com/media/20201006005058/en/779665/23/CellTrust_Logo_Slogan_CMYK_Vector.jpg"
-        width: 1200
-        height: 627
-        isCached: true
   - title: "odix joins the Microsoft Intelligent Security Association (MISA) program extending FileWall security logs to Microsoft Azure Sentinel"
     excerpt: "PRNewswire/ -- odix, the Israel based cyber security leader in Enterprise CDR (Content Disarm and Reconstruction) technology, has officially joined the Microsoft Intelligent Security Association (MISA) program."
     publishedDateTime: 2020-09-30T06:00:00Z
@@ -339,6 +325,20 @@ related:
         width: 400
         height: 327
         isCached: true
+  - title: "Braze Reveals Multi-Cloud Support with Microsoft Azure to Help Brands Build Resilience into Customer Engagement Strategies"
+    excerpt: "Braze, the comprehensive customer engagement platform, today announced several product and partnership updates that enable brands to"
+    publishedDateTime: 2020-10-06T14:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/braze-reveals-multi-cloud-support-with-microsoft-azure-to-help-brands-build-resilience-into-customer-engagement-strategies-301146692.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 11
+    images:
+      - url: "https://mma.prnewswire.com/media/606099/Braze_Logo.jpg?p=facebook"
+        width: 2700
+        height: 1414
+        isCached: true
   - title: "Microsoft Azure customers can now implement Datadog as a monitoring solution for their cloud workloads"
     excerpt: "Datadog announced a new strategic partnership with Microsoft Azure and is now be available in the Azure console as a first class service."
     publishedDateTime: 2020-10-01T23:33:00Z
@@ -349,6 +349,6 @@ related:
       domain: helpnetsecurity.com
     quality: 1
 
-secured: "tE/ccz3Dw5dEKvhbrPik2QqGTe31h7EuvAKo1X8wIFh7ZJIAsTT685j6d0af+n+nmXAbithACFYDCul/Mb2oVtQROuCwCOpHaJjoaiZL6SEDUSUzUBocRdP+gEw0JuegbUDo6JQ7huT1lk1xmSSpvQb1LZ1wqP5bicITQYhTNeLVy5AtEUCqo9f7OyxV30iTH2DBUOlGpL2nzoTKHnGNe7quGaQMm+h5c8uoXktUJLEyUAKRZhx3o85HZBiuVJh3vnba3T1mZaK2Fa7ZpTrz1wu8wx3dy6djqBqdb1+Sh3p7HnSWW1qkv+38nQHVBn33nC43Kj6Ef4evGyYt0dofmfXugJnHSPx2fPSortLjCNI=;76DMe3DnQhZfNljUhcCGdw=="
+secured: "GTfJVPHvuMzYcFHvaskxw4vvlAD/OCYjLdvU0AJpHrNaJWARMyXkUTGc+mmgXGUTW2bc4PcvGjl1PJeVLEu/Y5zCyUX2OkWcvPY6BDkZkDTnBkyp7G90lyDYsArYtWBZljfWG18i3DwE8gdi5cUCzJIGDybnxklLdvx8q8892J415mPM4qXmQSogCQ1ryV6By0sp1pJQv9p6nRrVpqgL3X6LFTz4aJtZ9PAhnE9i6YW2Qp6p8Jo6V6QpDdmUFgDOtuJM0YyC8E4efDrDbgZBs44aSrHy9h9L52BkL/QRevxw1H4+gPOijAFDRq6fRYbKkdjyVlF8aAGNiKVNcce5EtaOmV9WtYjj4UvasRuPVSY=;/QOHFeFxNAZVDqjDKlBnbw=="
 ---
 

@@ -7,8 +7,8 @@ originalUrl: "https://azure.microsoft.com/blog/microsoft-named-a-leader-in-gartn
 webUrl: "https://azure.microsoft.com/blog/microsoft-named-a-leader-in-gartners-magic-quadrant-for-enterprise-integration-platform-as-a-service/"
 type: article
 quality: 78
-heat: 138
-published: true
+heat: -1
+published: false
 
 provider:
   name: Microsoft
@@ -31,42 +31,33 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft named a leader in The Forrester New Wave: Functions-as-a-Service Platforms"
-    excerpt: "We’re excited to share that Forrester has named Microsoft as a leader in the inaugural report, The Forrester New Wave™: Function-As-A-Service Platforms, Q1 2020 based on their evaluation of Azure Functions and integrated development tooling. We believe Forrester’s findings reflect the strong momentum"
-    publishedDateTime: 2020-03-11T09:00:16Z
-    webUrl: "https://azure.microsoft.com/blog/microsoft-named-a-leader-in-the-forrester-new-wave-functions-as-a-service-platforms/"
+  - title: "Microsoft is a Leader in the 2020 Gartner Magic Quadrant for Full Life Cycle API Management"
+    excerpt: "We are excited to share that Microsoft has been named a Leader in the Gartner Magic Quadrant for Full Life Cycle API Management 2020 based on the ability to execute and completeness of vision. Our placement is a testament to our continued innovation in enterprise API management capabilities and broad"
+    publishedDateTime: 2020-10-08T09:00:28Z
+    webUrl: "https://azure.microsoft.com/blog/microsoft-is-a-leader-in-the-2020-gartner-magic-quadrant-for-full-life-cycle-api-management/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 67
+    quality: 81
     images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/1b803064-57ed-4b9f-8899-07ff770c6176.png"
-        width: 607
-        height: 670
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/1f677c33-38c9-4a44-beaf-a147e625b476.jpg"
+        width: 708
+        height: 768
         isCached: true
-  - title: "Microsoft plans to establish new cloud datacenter region in Greece"
-    excerpt: "The new region is anticipated to include Microsoft Azure, with Microsoft 365, Dynamics 365 and Power Platform to follow."
-    publishedDateTime: 2020-10-05T17:29:42Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/microsoft-plans-to-establish-new-cloud-datacenter-region-in-greece/"
+  - title: "Komprise addresses demand for file data management in the cloud with new capabilities for Microsoft Azure Files and Azure NetApp Files"
+    excerpt: "PRNewswire/ -- Komprise, the leader in analytics-driven data management, today announced new capabilities for its Komprise Intelligent Data"
+    publishedDateTime: 2020-10-06T13:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/komprise-addresses-demand-for-file-data-management-in-the-cloud-with-new-capabilities-for-microsoft-azure-files-and-azure-netapp-files-301146567.html"
     type: article
     provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 52
-  - title: "Microsoft Touts Azure as 'Carrier-Grade Platform' for Telcos Deploying 5G"
-    excerpt: "Microsoft on Monday affirmed its software-defined networking infrastructure support for telecom companies, especially as they move more toward rolling out 5G wireless services."
-    publishedDateTime: 2020-09-28T22:12:00Z
-    webUrl: "https://redmondmag.com/articles/2020/09/28/azure-carrier-grade-platform-5g.aspx"
-    type: article
-    provider:
-      name: Redmond Magazine
-      domain: redmondmag.com
-    quality: 36
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 5
     images:
-      - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/IntroImagesBigSmall/AttenaSkyBig.jpg"
-        width: 1665
-        height: 1158
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
         isCached: true
 
 secured: "o0G42I4epwbNVbi3ftT21ZjTRf+Ys/RFFc2M/AILmaxW9mQBRLRs9jpKuAJA5UhlEdFgerS/fblSRuTfVO/XU5SX/D5XB+N7jDZ+3rbzltO0cG3UiTYl9g2JGiks6KEiXFbaasPJOeXm6SW7mUTbLaX4RU0cWQe7kBCRu3ZGmLXYI4XgTs22fncYgb9wV8Y9u8+lGo2nbScBusLrj3Rf5cfTUwYgfWGgVkDu/LFvE0fxvUgQP3bV78AB7PVTgZkNncdl2IZwhsQXxekAq9dqwjya+37LtPdoqj+FNNKaFYQz8WSZGf7HOEuI0y2HpeVLsGQPyVyGiHrKDg4VXATA+oNSp7w8kY8gVtE5tJ7vnSE=;XB9QMuQX/pXJipP+laQ1Cw=="
