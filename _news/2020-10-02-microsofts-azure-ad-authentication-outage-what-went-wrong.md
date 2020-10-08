@@ -191,7 +191,7 @@ related:
   - title: "Granulate Launches Real-time Continuous Optimization Solution On Microsoft Azure Marketplace"
     excerpt: "Granulate, the leading provider of real-time continuous optimization solutions for server workload performance, is proud to announce its availability in the Microsoft"
     publishedDateTime: 2020-10-06T13:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/granulate-launches-real-time-continuous-optimization-solution-on-microsoft-azure-marketplace/article_190f285f-3d77-5572-818c-015780303762.html"
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/granulate-launches-real-time-continuous-optimization-solution-on-microsoft-azure-marketplace/article_190f285f-3d77-5572-818c-015780303762.html"
     type: article
     provider:
       name: WFMZ-TV

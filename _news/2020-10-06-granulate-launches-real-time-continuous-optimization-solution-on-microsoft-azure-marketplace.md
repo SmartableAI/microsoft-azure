@@ -3,8 +3,8 @@ category: news
 title: "Granulate Launches Real-time Continuous Optimization Solution On Microsoft Azure Marketplace"
 excerpt: "Granulate, the leading provider of real-time continuous optimization solutions for server workload performance, is proud to announce its availability in the Microsoft"
 publishedDateTime: 2020-10-06T13:00:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/granulate-launches-real-time-continuous-optimization-solution-on-microsoft-azure-marketplace/article_190f285f-3d77-5572-818c-015780303762.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/granulate-launches-real-time-continuous-optimization-solution-on-microsoft-azure-marketplace/article_190f285f-3d77-5572-818c-015780303762.html"
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/granulate-launches-real-time-continuous-optimization-solution-on-microsoft-azure-marketplace/article_190f285f-3d77-5572-818c-015780303762.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/granulate-launches-real-time-continuous-optimization-solution-on-microsoft-azure-marketplace/article_190f285f-3d77-5572-818c-015780303762.html"
 type: article
 quality: 26
 heat: -1
@@ -273,6 +273,6 @@ related:
       domain: helpnetsecurity.com
     quality: 1
 
-secured: "oItMNTWYOYAOYfH5rnzrut2nSGtINbu61rZuqankWt4IZdvgkQj2Hx12JRVTPdaRkcpcQaBbkAYOKhqs6GbrG4yaZ6XlRTFxTi2jyTRmkRxJU2++umEUbO+OxLv1G3Ih8jwCrN6KAc0qNSJhI3Jr/gLMp7gR79zdvlOCLKXTwXikkJb+LYTOBRWdQO7P1mf6PKmObl4BidAgU2psGUhNKxjKPytdUM5KiS/AZe/z5jDDkk1/Zn4bz/4NE8j2YvWEIvybfTXS5QgoxRyYY1U+bGhTE4nxpooS1PnaRwNpRz+/8gC5Cu6pgkUNQn+KSk5eouyEFVk/V8W8SxfSwd2ecxfBVWqtu0fk9v4efqbWSvBRXFrPR+6rh4lnshXeyEAqYG1JMEAUjbSiZFoVxEw5XUK/KpgLtnQtcVLIqiZ1lRbQqtzL3sE8/cYPh3T26GFBxCEz9ysd8pz8BKboKHCueapBjbSwSjmQFGHO9adPXjOVEny18z1BZ7NoHsC9nzEHfzrBdTxBmX5F+jcFt4/BhQ==;OlWqlnFaDa1TRHCenopKYg=="
+secured: "0K08/S3uj/0XzMgtkyYGACZD5CcZlH3oRnKHZ1Y6hkBxhaxg/efFmkip388DCiJoqIq28IdlFL7E2eHOzDbbnYNlFE4a4ifmcq3tolcQxYMgR3/kq/EK3xz4uiZj4WZsQnHFXEqfIL+jF4gvBHuqXfWMkkbQSvy5LSVYIRZaHJU0Lz3Oz6GyP/5Nq2a0CjGx4Js0aDPfLBBNnfzmsjsv+JeF6C+37Xu79wfiEOykFW7VKlgaAkGDAECzNfh8eSrnRh/g69RKBvemHJqhqmb6PZ0w1VvFY8n7e3twFnE/Zg83EP3x/hkLFgKyU5vr8fwjoXIDyD+FtORz5sp8J0WBOVOltBbT/y88mLUNSueUOVw=;EePqq4zpPF3rgV+79ko3sA=="
 ---
 
