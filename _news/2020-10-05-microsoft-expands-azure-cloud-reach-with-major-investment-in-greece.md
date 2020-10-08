@@ -89,6 +89,22 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 58
+  - title: "Microsoft Cloud Services Affected In Worldwide Outage: What Is The Cause?"
+    excerpt: "The outage started at 2.48 p.m. ET Wednesday Users worldwide faced accessibility issues Most services are back online and issues have been resolved Microsoft users across the world suffered another outage for four hours from 2 p.m. ET Wednesday ..."
+    publishedDateTime: 2020-10-08T07:31:00Z
+    webUrl: "https://www.ibtimes.com/microsoft-cloud-services-affected-worldwide-outage-what-cause-3058653"
+    ampWebUrl: "https://www.ibtimes.com/microsoft-cloud-services-affected-worldwide-outage-what-cause-3058653?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/microsoft-cloud-services-affected-worldwide-outage-what-cause-3058653?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 41
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/09/02/microsoft-has-unveiled-software-that-can-spot-deepfake.jpg"
+        width: 1024
+        height: 520
+        isCached: true
   - title: "Microsoft pays over $370,000 for Azure Sphere bug reports"
     excerpt: "Microsoft awarded over $370,000 in bounties to security researchers for 16 bounty eligible reports of vulnerabilities submitted through the Azure Sphere Security Research Challenge (ASSRC) IoT-focused research program."
     publishedDateTime: 2020-10-06T16:00:00Z
@@ -187,7 +203,7 @@ related:
   - title: "Granulate Launches Real-time Continuous Optimization Solution On Microsoft Azure Marketplace"
     excerpt: "Granulate, the leading provider of real-time continuous optimization solutions for server workload performance, is proud to announce its availability in the Microsoft"
     publishedDateTime: 2020-10-06T13:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/granulate-launches-real-time-continuous-optimization-solution-on-microsoft-azure-marketplace/article_190f285f-3d77-5572-818c-015780303762.html"
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/granulate-launches-real-time-continuous-optimization-solution-on-microsoft-azure-marketplace/article_190f285f-3d77-5572-818c-015780303762.html"
     type: article
     provider:
       name: WFMZ-TV

@@ -1,35 +1,47 @@
 ---
 category: news
-title: "Microsoft's Azure AD authentication outage: What went wrong"
-excerpt: "It's been a rough week for Microsoft users who have first- and third-party apps that rely on Azure Active Directory for authentication. Microsoft has published a root-cause analysis of its issues."
-publishedDateTime: 2020-10-01T17:42:00Z
-originalUrl: "https://www.zdnet.com/article/microsofts-azure-ad-authentication-outage-what-went-wrong/"
-webUrl: "https://www.zdnet.com/article/microsofts-azure-ad-authentication-outage-what-went-wrong/"
-ampWebUrl: "https://www.zdnet.com/google-amp/article/microsofts-azure-ad-authentication-outage-what-went-wrong/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsofts-azure-ad-authentication-outage-what-went-wrong/"
+title: "Microsoft Cloud Services Affected In Worldwide Outage: What Is The Cause?"
+excerpt: "The outage started at 2.48 p.m. ET Wednesday Users worldwide faced accessibility issues Most services are back online and issues have been resolved Microsoft users across the world suffered another outage for four hours from 2 p.m. ET Wednesday ..."
+publishedDateTime: 2020-10-08T07:31:00Z
+originalUrl: "https://www.ibtimes.com/microsoft-cloud-services-affected-worldwide-outage-what-cause-3058653"
+webUrl: "https://www.ibtimes.com/microsoft-cloud-services-affected-worldwide-outage-what-cause-3058653"
+ampWebUrl: "https://www.ibtimes.com/microsoft-cloud-services-affected-worldwide-outage-what-cause-3058653?amp=1"
+cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/microsoft-cloud-services-affected-worldwide-outage-what-cause-3058653?amp=1"
 type: article
-quality: 97
-heat: 497
-published: true
+quality: 41
+heat: -1
+published: false
 
 provider:
-  name: ZDNet
-  domain: zdnet.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/zdnet.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: International Business Times
+  domain: ibtimes.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://zdnet2.cbsistatic.com/hub/i/2020/10/01/2d8220eb-dff8-47d8-84b2-c696d04abbcc/azureadoutage.jpg"
-    width: 1103
-    height: 765
+  - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/09/02/microsoft-has-unveiled-software-that-can-spot-deepfake.jpg"
+    width: 1024
+    height: 520
     isCached: true
 
 related:
+  - title: "Microsoft's Azure AD authentication outage: What went wrong"
+    excerpt: "It's been a rough week for Microsoft users who have first- and third-party apps that rely on Azure Active Directory for authentication. Microsoft has published a root-cause analysis of its issues."
+    publishedDateTime: 2020-10-01T17:42:00Z
+    webUrl: "https://www.zdnet.com/article/microsofts-azure-ad-authentication-outage-what-went-wrong/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsofts-azure-ad-authentication-outage-what-went-wrong/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsofts-azure-ad-authentication-outage-what-went-wrong/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 97
+    images:
+      - url: "https://zdnet2.cbsistatic.com/hub/i/2020/10/01/2d8220eb-dff8-47d8-84b2-c696d04abbcc/azureadoutage.jpg"
+        width: 1103
+        height: 765
+        isCached: true
   - title: "Minecraft Realms completes migration to Microsoft Azure cloud platform from AWS"
     excerpt: "After announcing the move back in July, Mojang Studios has confirmed that Minecraft Realms, the private server platform for Minecraft, has completed its transition to Microsoft Azure, a big move for the company."
     publishedDateTime: 2020-10-01T23:20:00Z
@@ -92,22 +104,6 @@ related:
       - url: "https://winbuzzer.com/wp-content/uploads/2020/10/Microsoft-Cloud-Greece-Azure-Microsoft.jpg"
         width: 960
         height: 640
-        isCached: true
-  - title: "Microsoft Cloud Services Affected In Worldwide Outage: What Is The Cause?"
-    excerpt: "The outage started at 2.48 p.m. ET Wednesday Users worldwide faced accessibility issues Most services are back online and issues have been resolved Microsoft users across the world suffered another outage for four hours from 2 p.m. ET Wednesday ..."
-    publishedDateTime: 2020-10-08T07:31:00Z
-    webUrl: "https://www.ibtimes.com/microsoft-cloud-services-affected-worldwide-outage-what-cause-3058653"
-    ampWebUrl: "https://www.ibtimes.com/microsoft-cloud-services-affected-worldwide-outage-what-cause-3058653?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/microsoft-cloud-services-affected-worldwide-outage-what-cause-3058653?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 41
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/09/02/microsoft-has-unveiled-software-that-can-spot-deepfake.jpg"
-        width: 1024
-        height: 520
         isCached: true
   - title: "Microsoft pays over $370,000 for Azure Sphere bug reports"
     excerpt: "Microsoft awarded over $370,000 in bounties to security researchers for 16 bounty eligible reports of vulnerabilities submitted through the Azure Sphere Security Research Challenge (ASSRC) IoT-focused research program."
@@ -293,6 +289,6 @@ related:
       domain: helpnetsecurity.com
     quality: 1
 
-secured: "vN9FsSFA848FNmRFeIjL7b9K3Kf6K5AvbrdV5HdPjdCUA0nQ3WuV6KKVLQtGpuhUxKcK+2zcAFdksQIm4TUjKjXwAWfnB4m7lvlUo3NB9OR2WMaMs6l3YxnvIg2UWul1OE87lFd9RY1ondm3rIJOD+0ulFJTUiso3NGT70r03j/Tzkrf6ZOsMWcdUZD8ReyFVP304Vlb8ErEYY2jgS79p+hg1SP08eAXkee5pRiCrSuBh7DkTKHJuK5LlhH6rSHvYEoo1ZjVq2bsmPJKphMMHd4b9EB04b2tPZUR6Tvx9aRe+jUU0oosmJuHyOMDeM1zYEPnSZ/HwW8HbSoBDFpzeqm1Liz6t1Fb2WM1rCsuPtncfmbFnD/k15+W4bjNCk6MNrrn4AXYmE9dCCg9fzJCWeOcx5+EAySSurZUaPnTWQRpFRIP9Ee+ltZHi7g3pyAUP9kDe9aOCFoj9Toga/JHm8m8JM8fXrVCG2Xh7Zsn/nZwg7DfjFPSIWVlWT9mVTzkTC5rxyic+4rhJDSRlLoJzg==;r96c4Ev71yOr0fB4exCnRQ=="
+secured: "pqs59u00HE9/GG2SecYnqyeK0CiQ6bi1H3hvmm0fget/Z+YDvsvnNa0BP9nCzfyie1Lc4uafRRdxgIOdtgaKqKfKXWR7NurGMhunbr46c+j3u8fKDRIM1yrPMECmbyCNiqKvaWZyMwuVqAsiOHvNTOZ8qHUWvFq5yVj2r7TE/6bOHK8u4ALOqxHqVp15Fojd690wfp/Xo+8gpski2jjXbuT4mutJcQViNW8OLiNiLtIClTLz3tZKTItVbpScSt/N4eJOkapKxbkC18m6wfAZg3PDPOnqQ8umtSphv7rgOn08wgBXUo6/+x7BnBaCL4pEg2k9/nGd++JEoylIgXqH6rvFoUuwzglm6EsJrL6dj/A=;UCAnHTjZ4Ysl3/y4LSdukA=="
 ---
 
