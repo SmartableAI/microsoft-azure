@@ -105,6 +105,22 @@ related:
         width: 960
         height: 640
         isCached: true
+  - title: "Researchers Find Vulnerabilities in Microsoft Azure Cloud Service"
+    excerpt: "Now according to the latest research, two security flaws in Microsoft's Azure App Services could have enabled a bad actor to carry out server-side request forgery (SSRF) attacks or execute arbitrary code and take over the administration server."
+    publishedDateTime: 2020-10-08T13:26:00Z
+    webUrl: "https://thehackernews.com/2020/10/microsoft-azure-vulnerability.html"
+    ampWebUrl: "https://thehackernews.com/2020/10/microsoft-azure-vulnerability.html?amp=1"
+    cdnAmpWebUrl: "https://thehackernews-com.cdn.ampproject.org/c/s/thehackernews.com/2020/10/microsoft-azure-vulnerability.html?amp=1"
+    type: article
+    provider:
+      name: The Hacker News
+      domain: thehackernews.com
+    quality: 57
+    images:
+      - url: "https://thehackernews.com/images/-eFgZSEAAMao/X38Suv_dbWI/AAAAAAAAA2w/q2hCefQPJhAMhdORNgkvmAUf_uj6W4r9QCLcBGAsYHQ/s0/microsoft-azure-cloud.jpg"
+        width: 728
+        height: 380
+        isCached: true
   - title: "Microsoft pays over $370,000 for Azure Sphere bug reports"
     excerpt: "Microsoft awarded over $370,000 in bounties to security researchers for 16 bounty eligible reports of vulnerabilities submitted through the Azure Sphere Security Research Challenge (ASSRC) IoT-focused research program."
     publishedDateTime: 2020-10-06T16:00:00Z

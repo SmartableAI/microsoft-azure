@@ -1,27 +1,29 @@
 ---
 category: news
-title: "Microsoft cloud services outages continue into week two"
-excerpt: "Microsoft's cloud services problems are continuing this week with more Azure and Microsoft 365 services issues for some customers. Here's what's happened and why."
-publishedDateTime: 2020-10-07T21:19:00Z
-originalUrl: "https://www.zdnet.com/article/microsoft-cloud-services-outages-continue-into-week-two/"
-webUrl: "https://www.zdnet.com/article/microsoft-cloud-services-outages-continue-into-week-two/"
-ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-cloud-services-outages-continue-into-week-two/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-cloud-services-outages-continue-into-week-two/"
+title: "Researchers Find Vulnerabilities in Microsoft Azure Cloud Service"
+excerpt: "Now according to the latest research, two security flaws in Microsoft's Azure App Services could have enabled a bad actor to carry out server-side request forgery (SSRF) attacks or execute arbitrary code and take over the administration server."
+publishedDateTime: 2020-10-08T13:26:00Z
+originalUrl: "https://thehackernews.com/2020/10/microsoft-azure-vulnerability.html"
+webUrl: "https://thehackernews.com/2020/10/microsoft-azure-vulnerability.html"
+ampWebUrl: "https://thehackernews.com/2020/10/microsoft-azure-vulnerability.html?amp=1"
+cdnAmpWebUrl: "https://thehackernews-com.cdn.ampproject.org/c/s/thehackernews.com/2020/10/microsoft-azure-vulnerability.html?amp=1"
 type: article
-quality: 62
+quality: 57
 heat: -1
 published: false
 
 provider:
-  name: ZDNet
-  domain: zdnet.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/zdnet.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: The Hacker News
+  domain: thehackernews.com
 
 topics:
   - Azure
+
+images:
+  - url: "https://thehackernews.com/images/-eFgZSEAAMao/X38Suv_dbWI/AAAAAAAAA2w/q2hCefQPJhAMhdORNgkvmAUf_uj6W4r9QCLcBGAsYHQ/s0/microsoft-azure-cloud.jpg"
+    width: 728
+    height: 380
+    isCached: true
 
 related:
   - title: "Microsoft's Azure AD authentication outage: What went wrong"
@@ -67,6 +69,17 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 66
+  - title: "Microsoft cloud services outages continue into week two"
+    excerpt: "Microsoft's cloud services problems are continuing this week with more Azure and Microsoft 365 services issues for some customers. Here's what's happened and why."
+    publishedDateTime: 2020-10-07T21:19:00Z
+    webUrl: "https://www.zdnet.com/article/microsoft-cloud-services-outages-continue-into-week-two/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-cloud-services-outages-continue-into-week-two/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-cloud-services-outages-continue-into-week-two/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 62
   - title: "Microsoft partners expand the range of mission-critical applications you can run on Azure"
     excerpt: "In the past few years, IT organizations have been realizing compelling benefits when they transitioned their business-critical applications to the cloud, enabling them to address the top challenges they face with running the same applications on premises."
     publishedDateTime: 2020-10-06T08:00:01Z
@@ -91,22 +104,6 @@ related:
       - url: "https://winbuzzer.com/wp-content/uploads/2020/10/Microsoft-Cloud-Greece-Azure-Microsoft.jpg"
         width: 960
         height: 640
-        isCached: true
-  - title: "Researchers Find Vulnerabilities in Microsoft Azure Cloud Service"
-    excerpt: "Now according to the latest research, two security flaws in Microsoft's Azure App Services could have enabled a bad actor to carry out server-side request forgery (SSRF) attacks or execute arbitrary code and take over the administration server."
-    publishedDateTime: 2020-10-08T13:26:00Z
-    webUrl: "https://thehackernews.com/2020/10/microsoft-azure-vulnerability.html"
-    ampWebUrl: "https://thehackernews.com/2020/10/microsoft-azure-vulnerability.html?amp=1"
-    cdnAmpWebUrl: "https://thehackernews-com.cdn.ampproject.org/c/s/thehackernews.com/2020/10/microsoft-azure-vulnerability.html?amp=1"
-    type: article
-    provider:
-      name: The Hacker News
-      domain: thehackernews.com
-    quality: 57
-    images:
-      - url: "https://thehackernews.com/images/-eFgZSEAAMao/X38Suv_dbWI/AAAAAAAAA2w/q2hCefQPJhAMhdORNgkvmAUf_uj6W4r9QCLcBGAsYHQ/s0/microsoft-azure-cloud.jpg"
-        width: 728
-        height: 380
         isCached: true
   - title: "Microsoft Cloud Services Affected In Worldwide Outage: What Is The Cause?"
     excerpt: "The outage started at 2.48 p.m. ET Wednesday Users worldwide faced accessibility issues Most services are back online and issues have been resolved Microsoft users across the world suffered another outage for four hours from 2 p.m. ET Wednesday ..."
@@ -308,6 +305,6 @@ related:
       domain: helpnetsecurity.com
     quality: 1
 
-secured: "PnbT6HFDnZgCTyglqPNo2W43Ndsu4fo9b0w4UhmjtPYlIHFmTO792CT69fRMt8uBLl+PiYIdCLIc1FFcXYxFuuevM5Kml8Eo8cC+zbG7/wF4lcflZ//YDvMb2XGAE1pwbs3SK9A2qhiHeV8Mf9MxnUZWCUUdh9xtuIO4CA7VaBTmT1EbXkoW4gHCvyZzwQARF5ej7UQaoSxjgvG3DsvchVCnEMCUkXWpED+q+qaEI9G+CIzsI99YemmlSOikw+LPDzj/o2V7OF5/eDv0KZv/XNVPw+JeRskyYA9TIU7sJ46RQhkML4SKvG9tkWjh7Bu61i3J8GjsjK2KRvj6CnvAyIFMk8mSuzn9JYEiKRij2TBKbDJXtGsdZLTfl/IJHRws45rexjqB1pomU4ZmJNbxMcaHYxFxp0PDN4NGtyrasVH5APz9FYSijjSOt3yUzEgGxoub1V/eEQMGzCvHJwlrUgjIGM2D5DhyADMc1QBa0PlDZJ/wHBc08z9rniTbKS9GJG+tRvomgUa4E/qjoAM51g==;PfIWOLKDP+uxoMc4M04CHg=="
+secured: "G1YyuMrQxe+YsFUckWoKYI1p2lp8VzDI9czF6kcLcWIqIhlaZO7NnQikpgPQvbGvJFqpnBNhrAEXomyPD6tR57m35i2tlmmA6vkFM8TfAtD5zKXDFWVB9yTZvSTnArUXh9D/32p/0NqglEiQbIsRhmA34nbZFvZy4ul64y0yBWGk65KT1IUOVdA5PpAcpbUQn/hVwBTpQigImoRaed7+HSjc6kYFqqi4TFmFsCfLcZbLc6lxrtC+lbIgY5Z7lApYSp6+xYT/kk5fQvndux2SLiTbYWEocJ+qLwxpDfXU/HIpVCq41Ze/ux+XKfA7G3JFWKEBTRkWnhWcx53drCN6ETrbCV+PcAfYUOoZ5rwYk+w=;XBwf2qVFZKdC3MCH+plTSQ=="
 ---
 
