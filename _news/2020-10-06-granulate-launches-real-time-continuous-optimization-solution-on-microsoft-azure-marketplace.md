@@ -252,18 +252,18 @@ related:
       domain: mediapost.com
     quality: 17
   - title: "Dicom Systems Launches Enterprise Imaging Platform in the Microsoft Azure Marketplace, Deploys to a Leading National IDN"
-    excerpt: "Dicom Systems, a healthcare IT software company, today announced the availability of Unifier enterprise imaging platform for medical imaging workflow, archiving, cloud, and"
-    publishedDateTime: 2020-10-07T14:15:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/dicom-systems-launches-enterprise-imaging-platform-in-the-microsoft-azure-marketplace-deploys-to-a-leading/article_dcf4caba-5bac-5aa8-942c-3e8e9c466f58.html"
+    excerpt: "Dicom Systems, a healthcare IT software company, today announced the availability of Unifier enterprise imaging platform for medical"
+    publishedDateTime: 2020-10-07T13:43:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/dicom-systems-launches-enterprise-imaging-platform-in-the-microsoft-azure-marketplace-deploys-to-a-leading-national-idn-301147741.html"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
+      name: PR Newswire
+      domain: prnewswire.com
     quality: 12
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/6/23/62336a11-eb80-54ab-be04-d9531f8f95d7/5f7dca1e645b2.image.jpg?resize=400%2C327"
-        width: 400
-        height: 327
+      - url: "https://mma.prnewswire.com/media/1308768/DMWL_com_main_artwork.jpg?p=facebook"
+        width: 600
+        height: 314
         isCached: true
   - title: "Braze Reveals Multi-Cloud Support with Microsoft Azure to Help Brands Build Resilience into Customer Engagement Strategies"
     excerpt: "Braze, the comprehensive customer engagement platform, today announced several product and partnership updates that enable brands to"
@@ -289,6 +289,6 @@ related:
       domain: helpnetsecurity.com
     quality: 1
 
-secured: "m4tDn6ApmgOC7ODLR4b4KEedJcXYG0xLLL2BujTEb44Cu/A+PUlm+YN3Ssm6ISGfhdBNQ/EaP2b0ceTYV2LmWzXW4y7ggWfwCzDTjDUGSVeQCjaS/EfP+gjRvQE8YRjXCri/2u/6u95Vk+Q+aTgj3Qp1N39UasCsU93UfxAXmgSZCcb6iUuASeOCbQQAIOzG8CXesoNp4SWTYO7kArgKst6yMOlMtzfum1p6T9/yoYpdq4M4pLuKJFwteaqRRe3ZEJXB3ogCknD9D3BA8+ZoJbF9Fkb/z0c1paOAvlxwiUYvRJlBP7OpJd6fbmYqHi8axRP1za6sUluVONTpbFCVscUitIKmX0nmFP3Z0/kvzco=;iH9tvT+6OfEzhTql89qcow=="
+secured: "L25lzR/ppu+qwDFx0Al8sLjjreLb0FegqFhVPa2lkjAeB1Dt0j3IakNbTCSujSzlfe+Vq3ZRb5TKx42HsMyZRIDDLe2oH2+YPVC9nLve2zpMK/oiLHIcU/oEy4bzwYT6OnUAQ8Di1qY+S+jskwIzBAxmuXxme6UmwNFPNRp2bSP3HLhja60htsec4uZJVVulWwOfsDpN0hlfKTc1CyJW4FBfrLaFg0kwjwfo3M0/CB4VpcXfZvq21FKVRmAkLPicVS6ovZK9BXRzjGwCh+ge8yHVhHR38woYMuumpLDxz3mN1WPkW0SEFw72mFEPgK6/wfBCNpqiw58gNCfDXSi3W6ywQt7bANPJjsM3VgFlIFkHvZ88mGGnYYuCvhfMCx8wfcB+3I1JnKW/cy2p4/EdIJHdwaSRyJPkRkv7SyGprBieAUW3u/6gvrA0Bn6boIu6ZernhS6wYQI8LOW5uKb7XvWb9GAaaA36lmpbA4qmKAhd1f2+mYdAV3pcbYV2KOB+RdHMbnnHgEYP2wwMdA54Gw==;qSITRUpAQqTqOdtNPUSRMw=="
 ---
 
