@@ -4,51 +4,6 @@
   "page": 7,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-azure-database-fundamentals.md",
-      "title": "Explore Azure database and analytics services",
-      "excerpt": "Learn about the database services that are available on Microsoft Azure, such as Azure Cosmos DB, Azure SQL, Azure Database for MySQL, Azure Database for PostgreSQL, as well as big data and analytics.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-azure-database-fundamentals/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/azure-database-fundamentals/",
-      "length": "PT39M",
-      "ratings": {
-        "count": 87,
-        "average": 4.7126436
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 58,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/azure-database-fundamentals-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Databases",
-        "Analytics",
-        "AI",
-        "Storage"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-azure-well-architected-security.md",
       "title": "Microsoft Azure Well-Architected Framework - Security",
       "excerpt": "Discover the tools that Azure provides to help you design a secure environment throughout your infrastructure, data, network, and applications.",
@@ -56,8 +11,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/azure-well-architected-security/",
       "length": "PT1H2M",
       "ratings": {
-        "count": 2304,
-        "average": 4.7092013
+        "count": 2305,
+        "average": 4.7093277
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -201,8 +156,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/create-serverless-logic-with-azure-functions/",
       "length": "PT36M",
       "ratings": {
-        "count": 6565,
-        "average": 4.6619954
+        "count": 6567,
+        "average": 4.6619463
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -237,8 +192,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/create-users-and-groups-in-azure-active-directory/",
       "length": "PT41M",
       "ratings": {
-        "count": 2725,
-        "average": 4.705688
+        "count": 2726,
+        "average": 4.7057962
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -279,8 +234,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/enable-digital-transformation/",
       "length": "PT32M",
       "ratings": {
-        "count": 8660,
-        "average": 4.697806
+        "count": 8661,
+        "average": 4.6977253
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -362,8 +317,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/intro-to-docker-containers/",
       "length": "PT32M",
       "ratings": {
-        "count": 3058,
-        "average": 4.6285152
+        "count": 3060,
+        "average": 4.6281047
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -752,8 +707,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/execute-azure-function-with-triggers/",
       "length": "PT1H23M",
       "ratings": {
-        "count": 3418,
-        "average": 4.7039204
+        "count": 3420,
+        "average": 4.703509
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -955,8 +910,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/move-azure-resources-another-resource-group/",
       "length": "PT42M",
       "ratings": {
-        "count": 1800,
-        "average": 4.608889
+        "count": 1801,
+        "average": 4.609106
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1127,8 +1082,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/deploy-sql-server-virtual-machine/",
           "length": "PT60M",
           "ratings": {
-            "count": 2665,
-            "average": 4.7834897
+            "count": 2666,
+            "average": 4.783571
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1212,8 +1167,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/deploy-mariadb-mysql-postgresql-azure/",
           "length": "PT23M",
           "ratings": {
-            "count": 2303,
-            "average": 4.7837605
+            "count": 2304,
+            "average": 4.783854
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1272,8 +1227,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/app-service-scale-up-scale-out/",
       "length": "PT46M",
       "ratings": {
-        "count": 2244,
-        "average": 4.5539217
+        "count": 2245,
+        "average": 4.55412
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1314,8 +1269,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/build-app-with-scale-sets/",
       "length": "PT57M",
       "ratings": {
-        "count": 5669,
-        "average": 4.721644
+        "count": 5670,
+        "average": 4.721693
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1346,6 +1301,42 @@
       "topics": [
         "Azure",
         "Compute"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-choose-messaging-model.md",
+      "title": "Choose a messaging model in Azure to loosely connect your services",
+      "excerpt": "Learn how Azure's storage queues, event hubs, event grid, and service bus can improve your communication between devices.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-choose-messaging-model/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/choose-a-messaging-model-in-azure-to-connect-your-services/",
+      "length": "PT45M",
+      "ratings": {
+        "count": 3146,
+        "average": 4.5851874
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 56,
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Integration",
+        "IoT",
+        "Analytics"
       ]
     }
   ],

@@ -7,7 +7,7 @@ price: Free
 length: PT34M
 ratings:
   count: 574
-  average: 4.6620207
+  average: 4.660279
 heat: 50
 
 provider:
