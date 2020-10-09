@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Granulate Launches Real-time Continuous Optimization Solution On Microsoft Azure Marketplace"
-excerpt: "Granulate, the leading provider of real-time continuous optimization solutions for server workload performance, is proud to announce its availability in the Microsoft Azure Marketplace. Granulate's solution helps companies optimize workload performance and enables businesses to cut computing costs while improving performance with no code changes to their application."
-publishedDateTime: 2020-10-07T02:09:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/granulate-launches-real-time-continuous-optimization-solution-on-microsoft-azure-marketplace-1029652622"
-webUrl: "https://markets.businessinsider.com/news/stocks/granulate-launches-real-time-continuous-optimization-solution-on-microsoft-azure-marketplace-1029652622"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/granulate-launches-real-time-continuous-optimization-solution-on-microsoft-azure-marketplace-1029652622"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/granulate-launches-real-time-continuous-optimization-solution-on-microsoft-azure-marketplace-1029652622"
+title: "Microsoft cloud outages continue as Office and Outlook customers report problems"
+excerpt: "Microsoft's cloud services problems are continuing this week with more Azure and Microsoft 365 services issues for some customers. Here's what's happened and why."
+publishedDateTime: 2020-10-08T13:57:00Z
+originalUrl: "https://www.zdnet.com/article/microsoft-cloud-services-outages-continue-into-week-two/"
+webUrl: "https://www.zdnet.com/article/microsoft-cloud-services-outages-continue-into-week-two/"
+ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-cloud-services-outages-continue-into-week-two/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-cloud-services-outages-continue-into-week-two/"
 type: article
-quality: 66
+quality: 57
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
+  name: ZDNet
+  domain: zdnet.com
   images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/businessinsider.com-50x50.jpg"
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/zdnet.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -56,6 +56,17 @@ related:
         width: 800
         height: 420
         isCached: true
+  - title: "Granulate Launches Real-time Continuous Optimization Solution On Microsoft Azure Marketplace"
+    excerpt: "Granulate, the leading provider of real-time continuous optimization solutions for server workload performance, is proud to announce its availability in the Microsoft Azure Marketplace. Granulate's solution helps companies optimize workload performance and enables businesses to cut computing costs while improving performance with no code changes to their application."
+    publishedDateTime: 2020-10-07T02:09:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/granulate-launches-real-time-continuous-optimization-solution-on-microsoft-azure-marketplace-1029652622"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/granulate-launches-real-time-continuous-optimization-solution-on-microsoft-azure-marketplace-1029652622"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/granulate-launches-real-time-continuous-optimization-solution-on-microsoft-azure-marketplace-1029652622"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 66
   - title: "Microsoft cloud services outages continue into week two"
     excerpt: "Microsoft's cloud services problems are continuing this week with more Azure and Microsoft 365 services issues for some customers. Here's what's happened and why."
     publishedDateTime: 2020-10-07T21:19:00Z
@@ -92,17 +103,6 @@ related:
         width: 960
         height: 640
         isCached: true
-  - title: "Microsoft cloud outages continue as Office and Outlook customers report problems"
-    excerpt: "Microsoft's cloud services problems are continuing this week with more Azure and Microsoft 365 services issues for some customers. Here's what's happened and why."
-    publishedDateTime: 2020-10-08T13:57:00Z
-    webUrl: "https://www.zdnet.com/article/microsoft-cloud-services-outages-continue-into-week-two/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-cloud-services-outages-continue-into-week-two/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-cloud-services-outages-continue-into-week-two/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 57
   - title: "Researchers Find Vulnerabilities in Microsoft Azure Cloud Service"
     excerpt: "Now according to the latest research, two security flaws in Microsoft's Azure App Services could have enabled a bad actor to carry out server-side request forgery (SSRF) attacks or execute arbitrary code and take over the administration server."
     publishedDateTime: 2020-10-08T13:26:00Z
@@ -363,6 +363,6 @@ related:
       domain: helpnetsecurity.com
     quality: 1
 
-secured: "uBDAF5DdEH7zNVtekDOPshg3frWuqoJXO/qPg3iki2395Ipu2VEdoS4kSQKk3Hadrn/VClU0HEfSGCDldpDPL+EHXjhowFBaj7SNPMMdsqh24D21gaxC4zep6o/Ep4569cefXoIByuFDw9ENKlEUYvbneDJ88VT/VC1whTorwjSD5zKcAbIgV0ICJ/gWRDIKerBdC52A88mug5+r05kEUTf6qfLBJeV41x0EUa4KI6eA5Yd8Gre3qJDAljlHH9++E/bgVfRcPnzQzUQk9O1hXlD2W9kVw5Dh/jTBXrFNFqjh0yH9nr4iAfcG4lTvBiXPjk3ARZATmZoFVCKBp+DbYeCFTlgpQrMYdFgt7E4/kFc=;K/NxNDVjKMpT6wibs2DLYg=="
+secured: "MK+AdILAEfZXEm/2aS3MRS2Tmn1we0tjqCOsiL6MgI9vnwXs8pMx9lBCkbzEXT1ROsH+OhOQuOrkc1dz2RYkTzT9R3t3ouHvQc00hnR873TmOQoA2+OjFYDzyna1Eror178iO1go3sGFgAx10S/p7rQK+W4XMmo2Xn1VSuCCgFXU8UXJ48UHxMXQBgD2LMtOYG90Ee7kJrN2hrL6Pcy/C+mHPkiFe69koDbBStdd/45/QhY+OeTPX2tKAF8j1qZcMtLGSIkFRe+U65yFtN2fUObwdJpCqFLNtL5Tj5EClp1XsfVuxuQryaRkm5nw99O+2LONM3z/Ss5D9PhhOMN9IlAQZUdAej3Eza9S+OTB2AEKoONIBHbxaTWH9FPNsiSc9+dCNEKftCdIfVv8ganQnoWy2KI+m0WpqEP4+Zi0zd8Xf71XOVeemYjMfuzb3Xg6ZKIWFw9d4GtsfZFFJt5JbeGOOAg35zj4Tu0mun91w/DMWrdPLxFPwjqOET87ICOflKFZy7D1KHBagYNuBFqljw==;xGWFwHx2eIuoWcC7UMrOqA=="
 ---
 

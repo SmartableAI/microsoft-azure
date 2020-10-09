@@ -3,10 +3,10 @@ category: news
 title: "Microsoft cloud services outages continue into week two"
 excerpt: "Microsoft's cloud services problems are continuing this week with more Azure and Microsoft 365 services issues for some customers. Here's what's happened and why."
 publishedDateTime: 2020-10-07T21:19:00Z
-originalUrl: "https://www.zdnet.com/index.php/category/2381/index.php/article/microsoft-cloud-services-outages-continue-into-week-two/"
-webUrl: "https://www.zdnet.com/index.php/category/2381/index.php/article/microsoft-cloud-services-outages-continue-into-week-two/"
-ampWebUrl: "https://www.zdnet.com/index.php/category/2381/index.php/google-amp/article/microsoft-cloud-services-outages-continue-into-week-two/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2381/index.php/google-amp/article/microsoft-cloud-services-outages-continue-into-week-two/"
+originalUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/article/microsoft-cloud-services-outages-continue-into-week-two/"
+webUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/article/microsoft-cloud-services-outages-continue-into-week-two/"
+ampWebUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/microsoft-cloud-services-outages-continue-into-week-two/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/microsoft-cloud-services-outages-continue-into-week-two/"
 type: article
 quality: 62
 heat: -1
@@ -92,6 +92,17 @@ related:
         width: 960
         height: 640
         isCached: true
+  - title: "Microsoft cloud outages continue as Office and Outlook customers report problems"
+    excerpt: "Microsoft's cloud services problems are continuing this week with more Azure and Microsoft 365 services issues for some customers. Here's what's happened and why."
+    publishedDateTime: 2020-10-08T13:57:00Z
+    webUrl: "https://www.zdnet.com/article/microsoft-cloud-services-outages-continue-into-week-two/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-cloud-services-outages-continue-into-week-two/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-cloud-services-outages-continue-into-week-two/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 57
   - title: "Researchers Find Vulnerabilities in Microsoft Azure Cloud Service"
     excerpt: "Now according to the latest research, two security flaws in Microsoft's Azure App Services could have enabled a bad actor to carry out server-side request forgery (SSRF) attacks or execute arbitrary code and take over the administration server."
     publishedDateTime: 2020-10-08T13:26:00Z
@@ -352,6 +363,6 @@ related:
       domain: helpnetsecurity.com
     quality: 1
 
-secured: "mwk7wQ3TOJcvz18eLne5qI8L9FGOfrcExlwRaIv78jP3x4hbV4pU2J3PT2VZn+mBUabhBea+CokOfKzQb4tUgY6TyJ2XPvzlhKE+ICp8pAuljhGSXKBscMmSZZyFusNaXqAoUSfxKTQsDnX7149HEWbAUbljTU+oHR1o106QF7/NHUCBUaZTNdk9+1wHTxqQi7bHg5RRBYUpnanAnvtD8i1VwdajN7ctwmMRv4kLS8kQ5R9qXJfMS4H88ynkfyPOGwUwgw8v6pARVU/KnfqnMfUC7ssGzvepG+xPzJ3DI90t6CUqPajuMceEwA9Iz1qoVoq8lA4jIRhnNFNJQWro2phHFudOZMsVKoSu8XcoTt9W5LOKRf0UzGHUTXdWe/hVglUfv2ywoUw+i1lR0XjjKJ9mM81YzUhRWPa7L2llMG6yYpDNN6YRawQL/G4ut4IdlAi5y7WQegskQXtmuvF7UEQgCVNPBnp68uXC5dBLK/emSXsyTDh0k6fIHw83H5COHT5WNKN+k/H43RUKzMT+RA==;agzwO1+YiidZfbOojnSSrA=="
+secured: "+w+smvuO0xWK/NsKYUwYqqHAf8c+P5IIwhGxlNWWUMFtXsAaS4kzrD0IFe5A8N2yvQTtAQmh8Mg9Nk+MGTA/MvoChjIoi8SUGZc1ck3KQg9eEe8WzWGNzVCgbTcrbSv4A+Iklts/bv3xdK0dOx/1117IHpem50eQ4n+WgkIlez8hpA08tUOqoqnG1HTzshhpBXDoYBzH9U26/JWR4KIK5OhjwgdpP9XPM2J1vT3NYeouUqCodg4llsMaqR+0in5szq/XDkvatJauU2g9e+GkjSEUr/iC+HR9/tK4g5sT83SqpZOzGqcL9B5rBEsL5V6p2vlIWfog6NJvGab7BFS54pM5tMXuub0LqoaAeFCId6CMvhPqiDyMZ4UoFVYoSGP1B0iSnRFYAqVQ1hIIGxwsqw8N2V4OEEeE8QND/qHZ2W5vRRPCAfpagPrllK+BrgY0evaGz9vARGDuWMNiaJHqVUYk0gUiFMd2uqFw9VFV0/oOye2uJzcAuv+6FdCZm9d3YExbwxmi3MmSdExzhRlREg==;Zn8pZyq9A8aMRaWQwGjZ+A=="
 ---
 

@@ -72,9 +72,9 @@ related:
   - title: "Microsoft cloud services outages continue into week two"
     excerpt: "Microsoft's cloud services problems are continuing this week with more Azure and Microsoft 365 services issues for some customers. Here's what's happened and why."
     publishedDateTime: 2020-10-07T21:19:00Z
-    webUrl: "https://www.zdnet.com/index.php/category/2381/index.php/article/microsoft-cloud-services-outages-continue-into-week-two/"
-    ampWebUrl: "https://www.zdnet.com/index.php/category/2381/index.php/google-amp/article/microsoft-cloud-services-outages-continue-into-week-two/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2381/index.php/google-amp/article/microsoft-cloud-services-outages-continue-into-week-two/"
+    webUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/article/microsoft-cloud-services-outages-continue-into-week-two/"
+    ampWebUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/microsoft-cloud-services-outages-continue-into-week-two/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/microsoft-cloud-services-outages-continue-into-week-two/"
     type: article
     provider:
       name: ZDNet
@@ -105,6 +105,17 @@ related:
         width: 960
         height: 640
         isCached: true
+  - title: "Microsoft cloud outages continue as Office and Outlook customers report problems"
+    excerpt: "Microsoft's cloud services problems are continuing this week with more Azure and Microsoft 365 services issues for some customers. Here's what's happened and why."
+    publishedDateTime: 2020-10-08T13:57:00Z
+    webUrl: "https://www.zdnet.com/article/microsoft-cloud-services-outages-continue-into-week-two/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-cloud-services-outages-continue-into-week-two/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-cloud-services-outages-continue-into-week-two/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 57
   - title: "Microsoft Cloud Services Affected In Worldwide Outage: What Is The Cause?"
     excerpt: "The outage started at 2.48 p.m. ET Wednesday Users worldwide faced accessibility issues Most services are back online and issues have been resolved Microsoft users across the world suffered another outage for four hours from 2 p.m. ET Wednesday ..."
     publishedDateTime: 2020-10-08T07:31:00Z
