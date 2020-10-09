@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/azure-blob-soft-delete-f
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-blob-soft-delete-for-containers-public-preview-region-expansion/"
 type: article
 quality: 101
-heat: 141
+heat: 142
 published: true
 
 provider:

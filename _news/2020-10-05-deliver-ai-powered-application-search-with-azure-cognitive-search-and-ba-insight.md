@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/deliver-ai-powered-application-se
 webUrl: "https://azure.microsoft.com/blog/deliver-ai-powered-application-search-with-azure-cognitive-search-and-ba-insight/"
 type: article
 quality: 114
-heat: 114
+heat: 115
 published: true
 
 provider:
