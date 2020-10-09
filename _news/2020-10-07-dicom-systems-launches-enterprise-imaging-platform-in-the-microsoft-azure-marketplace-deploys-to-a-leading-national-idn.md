@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Dicom Systems Launches Enterprise Imaging Platform in the Microsoft Azure Marketplace, Deploys to a Leading National IDN"
-excerpt: "Dicom Systems, a healthcare IT software company, today announced the availability of Unifier enterprise imaging platform for medical"
-publishedDateTime: 2020-10-07T13:43:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/dicom-systems-launches-enterprise-imaging-platform-in-the-microsoft-azure-marketplace-deploys-to-a-leading-national-idn-301147741.html"
-webUrl: "https://www.prnewswire.com/news-releases/dicom-systems-launches-enterprise-imaging-platform-in-the-microsoft-azure-marketplace-deploys-to-a-leading-national-idn-301147741.html"
+excerpt: "Dicom Systems, a healthcare IT software company, today announced the availability of Unifier enterprise imaging platform for medical imaging workflow, archiving, cloud, and"
+publishedDateTime: 2020-10-07T14:15:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/dicom-systems-launches-enterprise-imaging-platform-in-the-microsoft-azure-marketplace-deploys-to-a-leading/article_dcf4caba-5bac-5aa8-942c-3e8e9c466f58.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/dicom-systems-launches-enterprise-imaging-platform-in-the-microsoft-azure-marketplace-deploys-to-a-leading/article_dcf4caba-5bac-5aa8-942c-3e8e9c466f58.html"
 type: article
 quality: 12
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://mma.prnewswire.com/media/1308768/DMWL_com_main_artwork.jpg?p=facebook"
-    width: 600
-    height: 314
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/6/23/62336a11-eb80-54ab-be04-d9531f8f95d7/5f7dca1e645b2.image.jpg?resize=400%2C327"
+    width: 400
+    height: 327
     isCached: true
 
 related:
@@ -70,9 +70,9 @@ related:
   - title: "Microsoft cloud services outages continue into week two"
     excerpt: "Microsoft's cloud services problems are continuing this week with more Azure and Microsoft 365 services issues for some customers. Here's what's happened and why."
     publishedDateTime: 2020-10-07T21:19:00Z
-    webUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/article/microsoft-cloud-services-outages-continue-into-week-two/"
-    ampWebUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/microsoft-cloud-services-outages-continue-into-week-two/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/microsoft-cloud-services-outages-continue-into-week-two/"
+    webUrl: "https://www.zdnet.com/index.php/category/2381/index.php/article/microsoft-cloud-services-outages-continue-into-week-two/"
+    ampWebUrl: "https://www.zdnet.com/index.php/category/2381/index.php/google-amp/article/microsoft-cloud-services-outages-continue-into-week-two/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2381/index.php/google-amp/article/microsoft-cloud-services-outages-continue-into-week-two/"
     type: article
     provider:
       name: ZDNet
@@ -360,6 +360,6 @@ related:
       domain: helpnetsecurity.com
     quality: 1
 
-secured: "pKLIkCRJYOYJ2I3xgWKjDBo3NDPB+grGf1MOgKvkvLrCEL8HKfy1UEcy44ljv1XBaanlPPLv9pzz48UjoRMV8C8ZUfRfc+qKXT3zYaxElAYE4JFnJ5+r4dvhQVxiHOQwqpIc6Kqid2X3Ok0niRu3MOMdre10yMHSOPbVkgfDpXQj16j3imuqZQ7Yg5c4jBlvNuGs2HINOmSQIUvtayTU25SnQ/VxNVtr6h2yt4WnHg1A9Cx4VopxbczDKq8hLUxz4OAHw32hqSeaRpA4HjeldguQ5bYMmWZFwi/fYcit0QRObjuROs1alQWvMfMjX+tfh8eRwaFAVuxIlIdEZBWkqM5g8eixeIrCEgTc3pgFb0Q=;COnUhgyf6vvgObdQHZOFDw=="
+secured: "pImb5eBkKeEHno74gVF3XYmizMRsxCdFZEeKO+0VwM0ekO47DMDtodoTp1QxdrgpSBOUIberbWmN3opC/WaeR2QD9PlIp92V00W8id+RVJd93ETRFaXXZRCXoAcqVQJUIAQUYEDiQkTgP/hwDAdTUnAggFe6UU5enlTkozWVq3T+drwwO9Xt8tRbkEVrCPwh1lZqg1D5HUMMYPE+t5ihs61r1NmfPwCCdDeHR36Mzjtz4o+T4KKB3JnTNG3fzHWH8py7qIPvcFrEemrponQ1pS3ixgYVKEY6tZPB2kpvO3jnuctYr+UDev5nv/wnfHkTNkzUsexu71DiKYg7ROq3k9gGZkGaKq4+lQhbKuIkCVE=;fHFroNpsMrazMGkYDbFkQw=="
 ---
 

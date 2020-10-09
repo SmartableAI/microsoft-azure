@@ -3,10 +3,10 @@ category: news
 title: "Microsoft cloud services outages continue into week two"
 excerpt: "Microsoft's cloud services problems are continuing this week with more Azure and Microsoft 365 services issues for some customers. Here's what's happened and why."
 publishedDateTime: 2020-10-07T21:19:00Z
-originalUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/article/microsoft-cloud-services-outages-continue-into-week-two/"
-webUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/article/microsoft-cloud-services-outages-continue-into-week-two/"
-ampWebUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/microsoft-cloud-services-outages-continue-into-week-two/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/microsoft-cloud-services-outages-continue-into-week-two/"
+originalUrl: "https://www.zdnet.com/index.php/category/2381/index.php/article/microsoft-cloud-services-outages-continue-into-week-two/"
+webUrl: "https://www.zdnet.com/index.php/category/2381/index.php/article/microsoft-cloud-services-outages-continue-into-week-two/"
+ampWebUrl: "https://www.zdnet.com/index.php/category/2381/index.php/google-amp/article/microsoft-cloud-services-outages-continue-into-week-two/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2381/index.php/google-amp/article/microsoft-cloud-services-outages-continue-into-week-two/"
 type: article
 quality: 62
 heat: -1
@@ -326,18 +326,18 @@ related:
       domain: mediapost.com
     quality: 17
   - title: "Dicom Systems Launches Enterprise Imaging Platform in the Microsoft Azure Marketplace, Deploys to a Leading National IDN"
-    excerpt: "Dicom Systems, a healthcare IT software company, today announced the availability of Unifier enterprise imaging platform for medical"
-    publishedDateTime: 2020-10-07T13:43:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/dicom-systems-launches-enterprise-imaging-platform-in-the-microsoft-azure-marketplace-deploys-to-a-leading-national-idn-301147741.html"
+    excerpt: "Dicom Systems, a healthcare IT software company, today announced the availability of Unifier enterprise imaging platform for medical imaging workflow, archiving, cloud, and"
+    publishedDateTime: 2020-10-07T14:15:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/dicom-systems-launches-enterprise-imaging-platform-in-the-microsoft-azure-marketplace-deploys-to-a-leading/article_dcf4caba-5bac-5aa8-942c-3e8e9c466f58.html"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
+      name: WFMZ-TV
+      domain: wfmz.com
     quality: 12
     images:
-      - url: "https://mma.prnewswire.com/media/1308768/DMWL_com_main_artwork.jpg?p=facebook"
-        width: 600
-        height: 314
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/6/23/62336a11-eb80-54ab-be04-d9531f8f95d7/5f7dca1e645b2.image.jpg?resize=400%2C327"
+        width: 400
+        height: 327
         isCached: true
   - title: "Braze Reveals Multi-Cloud Support with Microsoft Azure to Help Brands Build Resilience into Customer Engagement Strategies"
     excerpt: "Braze, the comprehensive customer engagement platform, today announced several product and partnership updates that enable brands to"
@@ -363,6 +363,6 @@ related:
       domain: helpnetsecurity.com
     quality: 1
 
-secured: "+w+smvuO0xWK/NsKYUwYqqHAf8c+P5IIwhGxlNWWUMFtXsAaS4kzrD0IFe5A8N2yvQTtAQmh8Mg9Nk+MGTA/MvoChjIoi8SUGZc1ck3KQg9eEe8WzWGNzVCgbTcrbSv4A+Iklts/bv3xdK0dOx/1117IHpem50eQ4n+WgkIlez8hpA08tUOqoqnG1HTzshhpBXDoYBzH9U26/JWR4KIK5OhjwgdpP9XPM2J1vT3NYeouUqCodg4llsMaqR+0in5szq/XDkvatJauU2g9e+GkjSEUr/iC+HR9/tK4g5sT83SqpZOzGqcL9B5rBEsL5V6p2vlIWfog6NJvGab7BFS54pM5tMXuub0LqoaAeFCId6CMvhPqiDyMZ4UoFVYoSGP1B0iSnRFYAqVQ1hIIGxwsqw8N2V4OEEeE8QND/qHZ2W5vRRPCAfpagPrllK+BrgY0evaGz9vARGDuWMNiaJHqVUYk0gUiFMd2uqFw9VFV0/oOye2uJzcAuv+6FdCZm9d3YExbwxmi3MmSdExzhRlREg==;Zn8pZyq9A8aMRaWQwGjZ+A=="
+secured: "roJnNotOmUqqfr+vyotkQ+QyIu9pTVzjH9dHXg4sCKeGlmy2ze6XajeuGQeb+o36ooUaZwiu5vLEv1TbyOGIMAR0nLYimBuWpJEeIdaO7bysynFjte1RVnKxeugCmHGDZIasTgXI/DhV5xGarnlbs8a20zqIgtpmWJ9FDYyB/c1ow+rPJnOCCS6Wju2Rt6aNQ/EMTYJ53tF90Rykjdl8o+eJ4qfeLA9PR7iqBqzxrTRl/KNgRGsCNrgzG+2SXhicfdGA4rEQ8+qL5+6DaJtuWiPKmVYHBSlXoVJTpMHfnwKIXruMyI2GF9XnnjymsAHQU1CN2puJ5msGlUVDr1nmykk7KbnAgQh+ietxuyOOHA9vtiMUJEpb82bHqpbsYmDNGwxgoxtyLjxdjtBb4yVv/F+4LZ7pnGHPv9HUIRjrBl+a4kGbrCYPYmeJo5D6/w/WpyBZOsQsGkqc5yg4GkkDagSaAnmsDDuAQP5aYmvfconpECfhnKqy5rIE4Aco7JKdo9yclxjcSXL0CB4BDmaTRQ==;cjk4wyJysI1j7HiLNRGM/A=="
 ---
 
