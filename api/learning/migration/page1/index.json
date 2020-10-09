@@ -4,48 +4,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-design-your-migration-to-azure.md",
-      "title": "Design your migration to Azure",
-      "excerpt": "Minimize the time and resources required to migrate your on-premises environment to Azure. Assess your current systems with Azure Migrate, and migrate them with Azure Migrate and Azure Database Migration Service.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-design-your-migration-to-azure/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/design-your-migration-to-azure/",
-      "length": "PT44M",
-      "ratings": {
-        "count": 1499,
-        "average": 4.6270847
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 134,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/design-your-migration-to-azure-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Migration"
-      ]
-    },
-    {
       "path": "_learning/collections/microsoft-learn-architect-migration-business-continuity-and-disaster-recovery-in-azure.md",
       "title": "Architect migration, business continuity, and disaster recovery in Azure",
       "excerpt": "Learn how to migrate resources to Azure, how to provide site recovery for your applications in Azure and on-premises, and how to your applications are available through service interruptions and changes in load.",
@@ -94,7 +52,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 134,
+          "heat": 54,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/design-your-migration-to-azure-social.png",
@@ -160,8 +118,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/protect-infrastructure-with-site-recovery/",
           "length": "PT59M",
           "ratings": {
-            "count": 823,
-            "average": 4.5358443
+            "count": 824,
+            "average": 4.536408
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -202,8 +160,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/protect-virtual-machines-with-azure-backup/",
           "length": "PT35M",
           "ratings": {
-            "count": 4333,
-            "average": 4.7489038
+            "count": 4335,
+            "average": 4.7490196
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -241,7 +199,7 @@
         }
       ],
       "size": 9,
-      "heat": 72,
+      "heat": 64,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/design-your-migration-to-azure-social.png",
@@ -293,8 +251,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/create-azure-storage-account/",
           "length": "PT30M",
           "ratings": {
-            "count": 6068,
-            "average": 4.7529664
+            "count": 6070,
+            "average": 4.753048
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -371,8 +329,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/secure-azure-storage-account/",
           "length": "PT45M",
           "ratings": {
-            "count": 7682,
-            "average": 4.641109
+            "count": 7683,
+            "average": 4.6411557
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -721,8 +679,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/create-azure-storage-account/",
           "length": "PT30M",
           "ratings": {
-            "count": 6068,
-            "average": 4.7529664
+            "count": 6070,
+            "average": 4.753048
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -799,8 +757,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/secure-azure-storage-account/",
           "length": "PT45M",
           "ratings": {
-            "count": 7682,
-            "average": 4.641109
+            "count": 7683,
+            "average": 4.6411557
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1547,6 +1505,48 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-design-your-migration-to-azure.md",
+      "title": "Design your migration to Azure",
+      "excerpt": "Minimize the time and resources required to migrate your on-premises environment to Azure. Assess your current systems with Azure Migrate, and migrate them with Azure Migrate and Azure Database Migration Service.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-design-your-migration-to-azure/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/design-your-migration-to-azure/",
+      "length": "PT44M",
+      "ratings": {
+        "count": 1499,
+        "average": 4.6270847
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 54,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/design-your-migration-to-azure-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Migration"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-data-estate-migration-and-modernization.md",
       "title": "Microsoft data estate migration and modernization",
       "excerpt": "Establishing a modern data estate is a foundational step toward digital transformation. A modern data estate enables timely insights and decision making across all your data, and sets the foundation for AI. A data estate is all of the data an organization owns. When you migrate this data to the cloud or modernize your environment on-premises you can gain important insights to fuel innovation.",
@@ -1896,8 +1896,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/protect-infrastructure-with-site-recovery/",
       "length": "PT59M",
       "ratings": {
-        "count": 823,
-        "average": 4.5358443
+        "count": 824,
+        "average": 4.536408
       },
       "provider": {
         "name": "Microsoft Learn",
