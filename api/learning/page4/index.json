@@ -4,6 +4,48 @@
   "page": 4,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-connect-on-premises-network-with-vpn-gateway.md",
+      "title": "Connect your on-premises network to Azure with VPN Gateway",
+      "excerpt": "Learn about the virtual private network (VPN) gateway options in Azure and typical scenarios for using a VPN. Create and test VPNs to securely connect sites to Azure.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-connect-on-premises-network-with-vpn-gateway/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/connect-on-premises-network-with-vpn-gateway/",
+      "length": "PT39M",
+      "ratings": {
+        "count": 4975,
+        "average": 4.602412
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 63,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/connect-on-premises-network-with-vpn-gateway-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Networking"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-create-linux-vm-in-azure.md",
       "title": "Create a Linux virtual machine in Azure",
       "excerpt": "This module guides you through options for virtual machines in Azure, creating and connecting a Linux virtual machine, and configuring your network settings.",
@@ -385,8 +427,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/build-and-store-container-images/",
           "length": "PT49M",
           "ratings": {
-            "count": 2339,
-            "average": 4.609235
+            "count": 2340,
+            "average": 4.6094017
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -568,8 +610,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/manage-secrets-with-azure-key-vault/",
           "length": "PT46M",
           "ratings": {
-            "count": 1490,
-            "average": 4.590604
+            "count": 1491,
+            "average": 4.5908785
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -604,8 +646,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/secure-azure-resources-with-rbac/",
           "length": "PT37M",
           "ratings": {
-            "count": 4986,
-            "average": 4.655235
+            "count": 4988,
+            "average": 4.655373
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -888,8 +930,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/intro-to-azure-fundamentals/",
           "length": "PT36M",
           "ratings": {
-            "count": 435,
-            "average": 4.756322
+            "count": 437,
+            "average": 4.755149
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1686,211 +1728,6 @@
       ]
     },
     {
-      "path": "_learning/collections/microsoft-learn-explore-natural-language-processing.md",
-      "title": "Explore natural language processing",
-      "excerpt": "Natural language processing supports applications that can see, hear, speak with, and understand users.  They permit the user to interact with your application in natural ways without requiring the user to adapt to the computer model.  Using text analytics, translation, and language understanding services, Microsoft Azure makes it easy to build applications that support natural language.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-explore-natural-language-processing/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-explore-natural-language-processing/",
-      "length": "PT2H6M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "topItems": [
-        {
-          "path": "_learning/courses/microsoft-learn-analyze-text-with-text-analytics-service.md",
-          "title": "Analyze text with the Text Analytics service",
-          "excerpt": "The Text Analytics service is a cloud-based service that provides advanced natural language processing over raw text for sentiment analysis, key phrase extraction, named entity recognition, and language detection.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-analyze-text-with-text-analytics-service/index.json",
-          "webUrl": "https://docs.microsoft.com/learn/modules/analyze-text-with-text-analytics-service/",
-          "length": "PT29M",
-          "ratings": {
-            "count": 267,
-            "average": 4.801498
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 52,
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "AI",
-            "Analytics"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-recognize-synthesize-speech.md",
-          "title": "Recognize and synthesize speech",
-          "excerpt": "Learn how to recognize and synthesize speech by using Azure Cognitive Services.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-recognize-synthesize-speech/index.json",
-          "webUrl": "https://docs.microsoft.com/learn/modules/recognize-synthesize-speech/",
-          "length": "PT29M",
-          "ratings": {
-            "count": 243,
-            "average": 4.831276
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 51,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/convert-speech-to-text-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "AI",
-            "Developer Tools"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-translate-text-with-translation-service.md",
-          "title": "Translate text and speech",
-          "excerpt": "Automated translation capabilities in an AI solution enables closer collaboration by removing language barriers.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-translate-text-with-translation-service/index.json",
-          "webUrl": "https://docs.microsoft.com/learn/modules/translate-text-with-translation-service/",
-          "length": "PT29M",
-          "ratings": {
-            "count": 221,
-            "average": 4.7104073
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 130,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/translate-text-with-translation-service-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "AI"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-create-language-model-with-luis.md",
-          "title": "Create a language model with Language Understanding",
-          "excerpt": "In this module, we'll introduce you to Language Understanding Intelligent Service (LUIS) and show how to build and publish a LUIS model.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-create-language-model-with-luis/index.json",
-          "webUrl": "https://docs.microsoft.com/learn/modules/create-language-model-with-language-understanding/",
-          "length": "PT39M",
-          "ratings": {
-            "count": 250,
-            "average": 4.828
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 51,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/create-publish-luis-model-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "AI",
-            "Developer Tools"
-          ]
-        }
-      ],
-      "size": 4,
-      "heat": 62,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/convert-speech-to-text-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "AI",
-        "Management Tools"
-      ]
-    },
-    {
       "path": "_learning/collections/microsoft-learn-learn-the-business-value-of-microsoft-azure.md",
       "title": "Learn the business value of Microsoft Azure",
       "excerpt": "Are you interested in learning about the cloud in an easy to understand way? Or perhaps you are confused about where to begin with cloud technology? This learning path introduces you to digital transformation, what Azure is, and all the different ways it can meet your business needs.",
@@ -2605,8 +2442,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/create-azure-db-for-postgresql-server/",
           "length": "PT44M",
           "ratings": {
-            "count": 1840,
-            "average": 4.623913
+            "count": 1841,
+            "average": 4.6241174
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2702,8 +2539,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/intro-commercial-marketplace/",
       "length": "PT30M",
       "ratings": {
-        "count": 486,
-        "average": 4.744856
+        "count": 487,
+        "average": 4.74538
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2993,8 +2830,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/ai-strategy-in-education/",
           "length": "PT51M",
           "ratings": {
-            "count": 546,
-            "average": 4.7545786
+            "count": 547,
+            "average": 4.7550273
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3413,8 +3250,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/ai-strategy-in-government/",
           "length": "PT47M",
           "ratings": {
-            "count": 606,
-            "average": 4.729373
+            "count": 607,
+            "average": 4.729819
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3623,8 +3460,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/ai-strategy-in-healthcare/",
           "length": "PT40M",
           "ratings": {
-            "count": 657,
-            "average": 4.782344
+            "count": 658,
+            "average": 4.782675
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3833,8 +3670,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/ai-strategy-in-manufacturing/",
           "length": "PT41M",
           "ratings": {
-            "count": 726,
-            "average": 4.754821
+            "count": 727,
+            "average": 4.755158
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4043,8 +3880,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/ai-strategy-in-retail/",
           "length": "PT40M",
           "ratings": {
-            "count": 649,
-            "average": 4.7765794
+            "count": 650,
+            "average": 4.776923
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5033,8 +4870,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/describe-azure-databricks/",
           "length": "PT53M",
           "ratings": {
-            "count": 391,
-            "average": 4.501279
+            "count": 392,
+            "average": 4.497449
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5214,6 +5051,211 @@
         "Azure",
         "Analytics",
         "AI"
+      ]
+    },
+    {
+      "path": "_learning/collections/microsoft-learn-explore-natural-language-processing.md",
+      "title": "Explore natural language processing",
+      "excerpt": "Natural language processing supports applications that can see, hear, speak with, and understand users.  They permit the user to interact with your application in natural ways without requiring the user to adapt to the computer model.  Using text analytics, translation, and language understanding services, Microsoft Azure makes it easy to build applications that support natural language.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-explore-natural-language-processing/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-explore-natural-language-processing/",
+      "length": "PT2H6M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-analyze-text-with-text-analytics-service.md",
+          "title": "Analyze text with the Text Analytics service",
+          "excerpt": "The Text Analytics service is a cloud-based service that provides advanced natural language processing over raw text for sentiment analysis, key phrase extraction, named entity recognition, and language detection.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-analyze-text-with-text-analytics-service/index.json",
+          "webUrl": "https://docs.microsoft.com/learn/modules/analyze-text-with-text-analytics-service/",
+          "length": "PT29M",
+          "ratings": {
+            "count": 267,
+            "average": 4.801498
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 52,
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "AI",
+            "Analytics"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-recognize-synthesize-speech.md",
+          "title": "Recognize and synthesize speech",
+          "excerpt": "Learn how to recognize and synthesize speech by using Azure Cognitive Services.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-recognize-synthesize-speech/index.json",
+          "webUrl": "https://docs.microsoft.com/learn/modules/recognize-synthesize-speech/",
+          "length": "PT29M",
+          "ratings": {
+            "count": 243,
+            "average": 4.831276
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 51,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/convert-speech-to-text-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "AI",
+            "Developer Tools"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-translate-text-with-translation-service.md",
+          "title": "Translate text and speech",
+          "excerpt": "Automated translation capabilities in an AI solution enables closer collaboration by removing language barriers.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-translate-text-with-translation-service/index.json",
+          "webUrl": "https://docs.microsoft.com/learn/modules/translate-text-with-translation-service/",
+          "length": "PT29M",
+          "ratings": {
+            "count": 221,
+            "average": 4.7104073
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/translate-text-with-translation-service-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "AI"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-create-language-model-with-luis.md",
+          "title": "Create a language model with Language Understanding",
+          "excerpt": "In this module, we'll introduce you to Language Understanding Intelligent Service (LUIS) and show how to build and publish a LUIS model.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-create-language-model-with-luis/index.json",
+          "webUrl": "https://docs.microsoft.com/learn/modules/create-language-model-with-language-understanding/",
+          "length": "PT39M",
+          "ratings": {
+            "count": 251,
+            "average": 4.8286853
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 51,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/create-publish-luis-model-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "AI",
+            "Developer Tools"
+          ]
+        }
+      ],
+      "size": 4,
+      "heat": 61,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/convert-speech-to-text-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "AI",
+        "Management Tools"
       ]
     },
     {
@@ -5430,223 +5472,6 @@
         "Azure",
         "Management Tools",
         "DevOps",
-        "Security"
-      ]
-    },
-    {
-      "path": "_learning/collections/microsoft-learn-implement-windows-server-iaas-vm-security.md",
-      "title": "Implement Windows Server IaaS VM Security",
-      "excerpt": "This learning path deals with securing your Azure resources. After completing the learning path, you’ll be able to determine if your Azure IaaS workloads have any security vulnerabilities, and remediate those potential security vulnerabilities.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-implement-windows-server-iaas-vm-security/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-implement-windows-server-iaas-vm-security/",
-      "length": "PT4H23M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "topItems": [
-        {
-          "path": "_learning/courses/microsoft-learn-audit-security-of-windows-server-iaas-vms.md",
-          "title": "Audit the security of Windows Server IaaS Virtual Machines",
-          "excerpt": "You'll learn about Azure Security Center and how to onboard Windows Server computers to Security Center. You'll also learn about Azure Sentinel, security information and event management (SIEM), and security orchestration, automation and response (SOAR).",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-audit-security-of-windows-server-iaas-vms/index.json",
-          "webUrl": "https://docs.microsoft.com/learn/modules/audit-security-of-windows-server-iaas-virtual-machines/",
-          "length": "PT45M",
-          "ratings": {
-            "count": 30,
-            "average": 4.6666665
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 51,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Management Tools",
-            "Compute",
-            "Security"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-manage-azure-updates.md",
-          "title": "Manage Azure updates",
-          "excerpt": "You'll be able to enable Azure Update Management, deploy updates, review an update assessment, and manage updates for your Azure VMs.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-manage-azure-updates/index.json",
-          "webUrl": "https://docs.microsoft.com/learn/modules/manage-azure-updates/",
-          "length": "PT40M",
-          "ratings": {
-            "count": 22,
-            "average": 4.2727275
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 51,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Management Tools",
-            "Compute"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-create-implement-application-allowlists-with-adaptive-application-control.md",
-          "title": "Create and implement application allowlists with adaptive application control",
-          "excerpt": "You'll be able to implement Adaptive application controls within your organization to protect your Windows Server IaaS VMs.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-create-implement-application-allowlists-with-adaptive-application-control/index.json",
-          "webUrl": "https://docs.microsoft.com/learn/modules/create-implement-application-allowlists-adaptive-application-control/",
-          "length": "PT24M",
-          "ratings": {
-            "count": 9,
-            "average": 4.7777777
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Management Tools",
-            "Compute"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-configure-bitlocker-disk-encryption-for-windows-iaas-vms.md",
-          "title": "Configure BitLocker disk encryption for Windows IaaS Virtual Machines",
-          "excerpt": "You'll be able to configure Azure Disk Encryption for Windows IaaS VMs and back up and recover encrypted data.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-configure-bitlocker-disk-encryption-for-windows-iaas-vms/index.json",
-          "webUrl": "https://docs.microsoft.com/learn/modules/configure-bitlocker-disk-encryption-windows-iaas-virtual-machines/",
-          "length": "PT35M",
-          "ratings": {
-            "count": 12,
-            "average": 4.75
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 51,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Management Tools",
-            "Compute"
-          ]
-        }
-      ],
-      "size": 6,
-      "heat": 61,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Management Tools",
-        "DevOps",
-        "Compute",
         "Security"
       ]
     }

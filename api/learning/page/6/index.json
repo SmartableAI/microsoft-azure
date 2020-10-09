@@ -4,6 +4,222 @@
   "page": 6,
   "value": [
     {
+      "path": "_learning/collections/microsoft-learn-monitor-and-maintain-windows-server-iaas-virtual-machine.md",
+      "title": "Monitor and maintain Windows Server IaaS Virtual Machine",
+      "excerpt": "In this learning path, you’ll learn how to implement remote administration and management in Azure. After completing this path, you’ll be able to monitor your Azure resources, and plan for scale and high-availability.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-monitor-and-maintain-windows-server-iaas-virtual-machine/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-monitor-and-maintain-windows-server-iaas-virtual-machine/",
+      "length": "PT4H7M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-administer-manage-windows-server-iaas-vm-remotely.md",
+          "title": "Administer and manage Windows Server IaaS Virtual Machine remotely",
+          "excerpt": "You’ll be able to select and use suitable tools and techniques to remotely manage Windows IaaS VMs, and restrict administrative connections to those VMs.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-administer-manage-windows-server-iaas-vm-remotely/index.json",
+          "webUrl": "https://docs.microsoft.com/learn/modules/administer-manage-windows-server-iaas-virtual-machine-remotely/",
+          "length": "PT44M",
+          "ratings": {
+            "count": 11,
+            "average": 4.7272725
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Management Tools",
+            "Compute"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-monitor-windows-server-iaas-vms-hybrid-instances.md",
+          "title": "Monitor Windows Server IaaS Virtual Machines and hybrid instances",
+          "excerpt": "You'll be able to implement Azure Monitor for IaaS Virtual Machines in Azure, implement Azure Monitor in on-premises environments, and use dependency maps.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-monitor-windows-server-iaas-vms-hybrid-instances/index.json",
+          "webUrl": "https://docs.microsoft.com/learn/modules/monitor-windows-server-iaas-virtual-machines-hybrid-instances/",
+          "length": "PT46M",
+          "ratings": {
+            "count": 19,
+            "average": 4.4210525
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Management Tools",
+            "DevOps",
+            "Compute"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-understand-windows-server-iaas-vm-cost-management.md",
+          "title": "Understand Windows Server IaaS Virtual Machine cost management",
+          "excerpt": "You'll be able to use the Pricing calculator to assess likely costs, use Azure Advisor to monitor actual costs for Azure resources, implement Spot VMs and Azure Reservations, and describe benefits of Azure Hybrid licensing.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-understand-windows-server-iaas-vm-cost-management/index.json",
+          "webUrl": "https://docs.microsoft.com/learn/modules/understand-windows-server-iaas-vm-cost-management/",
+          "length": "PT38M",
+          "ratings": {
+            "count": 9,
+            "average": 4.7777777
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Management Tools",
+            "Compute"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-implement-scale-high-availability-with-windows-server-vm.md",
+          "title": "Implement scale and high availability with Windows Server VM",
+          "excerpt": "You'll learn how to implement scaling for virtual machine scale sets and load-balanced VMs. You'll also learn how to implement Azure Site Recovery.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-implement-scale-high-availability-with-windows-server-vm/index.json",
+          "webUrl": "https://docs.microsoft.com/learn/modules/implement-scale-high-availability-windows-server-virtual-machine/",
+          "length": "PT58M",
+          "ratings": {
+            "count": 13,
+            "average": 4.769231
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Management Tools",
+            "Compute"
+          ]
+        }
+      ],
+      "size": 5,
+      "heat": 60,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Management Tools",
+        "DevOps",
+        "Compute"
+      ]
+    },
+    {
       "path": "_learning/collections/microsoft-learn-process-natural-language-with-azure-cognitive-language-services.md",
       "title": "Process natural language with Azure Cognitive Language Services",
       "excerpt": "Process natural language with Azure Cognitive Language Services",
@@ -1224,8 +1440,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/describe-concepts-of-relational-data/",
       "length": "PT24M",
       "ratings": {
-        "count": 611,
-        "average": 4.7954173
+        "count": 613,
+        "average": 4.791191
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1265,8 +1481,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/fundamental-azure-concepts/",
       "length": "PT24M",
       "ratings": {
-        "count": 159,
-        "average": 4.7610064
+        "count": 161,
+        "average": 4.763975
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1415,8 +1631,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/evolving-world-of-data/",
           "length": "PT28M",
           "ratings": {
-            "count": 4780,
-            "average": 4.678661
+            "count": 4783,
+            "average": 4.6786537
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1456,8 +1672,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/survey-the-azure-data-platform/",
           "length": "PT58M",
           "ratings": {
-            "count": 4381,
-            "average": 4.688199
+            "count": 4382,
+            "average": 4.688042
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1498,8 +1714,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/data-engineering-processes/",
           "length": "PT25M",
           "ratings": {
-            "count": 4186,
-            "average": 4.705208
+            "count": 4187,
+            "average": 4.7052784
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1559,8 +1775,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/analyze-devops-continuous-planning-intergration/",
       "length": "PT22M",
       "ratings": {
-        "count": 1321,
-        "average": 4.697956
+        "count": 1322,
+        "average": 4.6981845
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1720,8 +1936,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/choose-azure-service-to-integrate-and-automate-business-processes/",
       "length": "PT44M",
       "ratings": {
-        "count": 10374,
-        "average": 4.5732603
+        "count": 10375,
+        "average": 4.5733013
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1803,8 +2019,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/define-foundation-pillars/",
       "length": "PT16M",
       "ratings": {
-        "count": 921,
-        "average": 4.718784
+        "count": 922,
+        "average": 4.719089
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1954,8 +2170,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/explore-core-data-concepts/",
       "length": "PT25M",
       "ratings": {
-        "count": 1035,
-        "average": 4.8367147
+        "count": 1036,
+        "average": 4.834942
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1995,8 +2211,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/intro-to-python/",
       "length": "PT1H7M",
       "ratings": {
-        "count": 4765,
-        "average": 4.7147956
+        "count": 4767,
+        "average": 4.7149153
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2036,8 +2252,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/network-fundamentals-2/",
       "length": "PT36M",
       "ratings": {
-        "count": 2203,
-        "average": 4.6963234
+        "count": 2204,
+        "average": 4.696461
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2070,8 +2286,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/survey-the-azure-data-platform/",
       "length": "PT58M",
       "ratings": {
-        "count": 4381,
-        "average": 4.688199
+        "count": 4382,
+        "average": 4.688042
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2172,8 +2388,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/explore-relational-data-offerings/",
           "length": "PT33M",
           "ratings": {
-            "count": 285,
-            "average": 4.8035088
+            "count": 286,
+            "average": 4.804196
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2336,48 +2552,6 @@
       "price": "Free",
       "topics": [
         "Azure"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-allow-users-to-reset-their-password.md",
-      "title": "Allow users to reset their password with Azure Active Directory self-service password reset",
-      "excerpt": "Learn how to allow users to reset their password with Azure Active Directory self-service password reset.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-allow-users-to-reset-their-password/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/allow-users-reset-their-password/",
-      "length": "PT31M",
-      "ratings": {
-        "count": 1704,
-        "average": 4.6989436
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 58,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/allow-users-reset-their-password-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Identity"
       ]
     }
   ],
