@@ -1,27 +1,23 @@
 ---
 category: news
-title: "Scality Announces 1 Terabit Per Second Performance for Scale-Out File System in Microsoft Azure Public Cloud"
-excerpt: "Scality, a leader in software solutions for distributed file and object storage, today announced the technical preview of its high-performance scale-out file system (SOFS) in Microsoft Azure. Scality SOFS running in Azure delivers linear scaling performance for read- and write-intensive workloads."
-publishedDateTime: 2020-10-06T02:26:00Z
-originalUrl: "https://www.totaltele.com/507362/Scality-Announces-1-Terabit-Per-Second-Performance-for-Scale-Out-File-System-in-Microsoft-Azure-Public-Cloud"
-webUrl: "https://www.totaltele.com/507362/Scality-Announces-1-Terabit-Per-Second-Performance-for-Scale-Out-File-System-in-Microsoft-Azure-Public-Cloud"
+title: "CDW recognized as Microsoft Azure expert service provider"
+excerpt: "CDW Corp., a leading computer solutions and services provider, has been recognized as a Microsoft Azure Expert Managed Service Provider, joining some of Microsoft's most recognized and capable global solutions partners."
+publishedDateTime: 2020-10-09T18:58:00Z
+originalUrl: "https://www.dailyherald.com/business/20201009/cdw-recognized-as-microsoft-azure-expert-service-provider"
+webUrl: "https://www.dailyherald.com/business/20201009/cdw-recognized-as-microsoft-azure-expert-service-provider"
+ampWebUrl: "https://www.dailyherald.com/amp-article/20201009/business/201009222/"
+cdnAmpWebUrl: "https://www-dailyherald-com.cdn.ampproject.org/c/s/www.dailyherald.com/amp-article/20201009/business/201009222/"
 type: article
-quality: 18
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Total Telecom
-  domain: totaltele.com
+  name: Daily Herald
+  domain: dailyherald.com
 
 topics:
   - Azure
-
-images:
-  - url: "https://www.totaltele.com/res/image/articleimages/5g-icon-hpe.png"
-    width: 576
-    height: 583
-    isCached: true
 
 related:
   - title: "Quzara Cybertorch™ Adds Enhanced Security Operations Capabilities Through Azure Sentinel for the Microsoft Cloud"
@@ -46,18 +42,21 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 56
-  - title: "CDW recognized as Microsoft Azure expert service provider"
-    excerpt: "CDW Corp., a leading computer solutions and services provider, has been recognized as a Microsoft Azure Expert Managed Service Provider, joining some of Microsoft's most recognized and capable global solutions partners."
-    publishedDateTime: 2020-10-09T18:58:00Z
-    webUrl: "https://www.dailyherald.com/business/20201009/cdw-recognized-as-microsoft-azure-expert-service-provider"
-    ampWebUrl: "https://www.dailyherald.com/amp-article/20201009/business/201009222/"
-    cdnAmpWebUrl: "https://www-dailyherald-com.cdn.ampproject.org/c/s/www.dailyherald.com/amp-article/20201009/business/201009222/"
+  - title: "Scality Announces 1 Terabit Per Second Performance for Scale-Out File System in Microsoft Azure Public Cloud"
+    excerpt: "Scality, a leader in software solutions for distributed file and object storage, today announced the technical preview of its high-performance scale-out file system (SOFS) in Microsoft Azure. Scality SOFS running in Azure delivers linear scaling performance for read- and write-intensive workloads."
+    publishedDateTime: 2020-10-06T02:26:00Z
+    webUrl: "https://www.totaltele.com/507362/Scality-Announces-1-Terabit-Per-Second-Performance-for-Scale-Out-File-System-in-Microsoft-Azure-Public-Cloud"
     type: article
     provider:
-      name: Daily Herald
-      domain: dailyherald.com
-    quality: 37
+      name: Total Telecom
+      domain: totaltele.com
+    quality: 18
+    images:
+      - url: "https://www.totaltele.com/res/image/articleimages/5g-icon-hpe.png"
+        width: 576
+        height: 583
+        isCached: true
 
-secured: "OUp80K/79dOy3QTFZLAtuA0hnBXipwYDn9j4+17l8ORNgnouneLG9c8tg8JT86PKKO4HW82cL/9wH5qS2RNYRHQXn08JAaO5hTGpw41duJptuJgecxu3f0rNGWjEiTl64ipzF4kK1YPUucT2I/M9UpbW6DjycPjBxqPXcuvhTeDAz2IClM5XDDg21WbRummx7BRNvaujTpe0OxaufykQMF6j1QrJtHcXPXp75KLk5tj1QxrhhfdNgC3D2zp7/0cB3Z6vTEVvpOu1SuFA9+1kVqV5HJNtO3Zjb0RxHO1tWrgx7zFqbCqjc5dGK+4cbvuKjTf0j8KDcR7QbiKlYurwoS7FF7XuDFzVBpCqam7PAMg=;ZYUZ8vRA50HNffWfeqC0ow=="
+secured: "6/ZjQvB7MAA/S6vrveYgNbwiCSfJIpjFDigRXBBZHVZdg6l9p3hwnEwi+jxUoA+ZPZ+V/BphSlraikvBAfccDpsMACI0u/GVa5R7TKV7zP7WW58qBTGD341rJYe9UpBC0GqYZTT63Tk+9Uyoi1UU29mv01CVGmEHQdkH6L1fac3/Z9EmGa5CvAArSFo6KqPpriWEA8nyP96e7mZ1+VqKQ23rHeNCiXdNHXmfzSglDefsXO6bRyMtdA0t1Bt5EnvrKcZtQlyG7GmGHJ1aq9N93BP/1kS4jQ1d4MbIbqToPqZBmoHVoO7c3MSpHwHOlTOF+DZ0YRdV6lJjXs0IU69PV0XFbjMtTbjjbuEyguWVdj0=;CzNLbDtG5NWFohlLjQ4dQg=="
 ---
 

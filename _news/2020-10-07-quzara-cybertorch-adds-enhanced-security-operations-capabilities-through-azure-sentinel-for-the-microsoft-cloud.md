@@ -9,7 +9,7 @@ ampWebUrl: "https://markets.businessinsider.com/amp/news/quzara-cybertorch-adds-
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/quzara-cybertorch-adds-enhanced-security-operations-capabilities-through-azure-sentinel-for-the-microsoft-cloud-1029652288"
 type: article
 quality: 73
-heat: 113
+heat: 133
 published: true
 
 provider:
@@ -36,6 +36,17 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 56
+  - title: "CDW recognized as Microsoft Azure expert service provider"
+    excerpt: "CDW Corp., a leading computer solutions and services provider, has been recognized as a Microsoft Azure Expert Managed Service Provider, joining some of Microsoft's most recognized and capable global solutions partners."
+    publishedDateTime: 2020-10-09T18:58:00Z
+    webUrl: "https://www.dailyherald.com/business/20201009/cdw-recognized-as-microsoft-azure-expert-service-provider"
+    ampWebUrl: "https://www.dailyherald.com/amp-article/20201009/business/201009222/"
+    cdnAmpWebUrl: "https://www-dailyherald-com.cdn.ampproject.org/c/s/www.dailyherald.com/amp-article/20201009/business/201009222/"
+    type: article
+    provider:
+      name: Daily Herald
+      domain: dailyherald.com
+    quality: 37
   - title: "Scality Announces 1 Terabit Per Second Performance for Scale-Out File System in Microsoft Azure Public Cloud"
     excerpt: "Scality, a leader in software solutions for distributed file and object storage, today announced the technical preview of its high-performance scale-out file system (SOFS) in Microsoft Azure. Scality SOFS running in Azure delivers linear scaling performance for read- and write-intensive workloads."
     publishedDateTime: 2020-10-06T02:26:00Z
