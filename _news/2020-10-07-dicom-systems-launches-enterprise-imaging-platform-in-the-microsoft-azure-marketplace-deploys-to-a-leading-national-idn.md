@@ -70,9 +70,9 @@ related:
   - title: "Microsoft cloud services outages continue into week two"
     excerpt: "Microsoft's cloud services problems are continuing this week with more Azure and Microsoft 365 services issues for some customers. Here's what's happened and why."
     publishedDateTime: 2020-10-07T21:19:00Z
-    webUrl: "https://www.zdnet.com/index.php/category/2381/index.php/article/microsoft-cloud-services-outages-continue-into-week-two/"
-    ampWebUrl: "https://www.zdnet.com/index.php/category/2381/index.php/google-amp/article/microsoft-cloud-services-outages-continue-into-week-two/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2381/index.php/google-amp/article/microsoft-cloud-services-outages-continue-into-week-two/"
+    webUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/article/microsoft-cloud-services-outages-continue-into-week-two/"
+    ampWebUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/microsoft-cloud-services-outages-continue-into-week-two/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/microsoft-cloud-services-outages-continue-into-week-two/"
     type: article
     provider:
       name: ZDNet
@@ -360,6 +360,6 @@ related:
       domain: helpnetsecurity.com
     quality: 1
 
-secured: "pImb5eBkKeEHno74gVF3XYmizMRsxCdFZEeKO+0VwM0ekO47DMDtodoTp1QxdrgpSBOUIberbWmN3opC/WaeR2QD9PlIp92V00W8id+RVJd93ETRFaXXZRCXoAcqVQJUIAQUYEDiQkTgP/hwDAdTUnAggFe6UU5enlTkozWVq3T+drwwO9Xt8tRbkEVrCPwh1lZqg1D5HUMMYPE+t5ihs61r1NmfPwCCdDeHR36Mzjtz4o+T4KKB3JnTNG3fzHWH8py7qIPvcFrEemrponQ1pS3ixgYVKEY6tZPB2kpvO3jnuctYr+UDev5nv/wnfHkTNkzUsexu71DiKYg7ROq3k9gGZkGaKq4+lQhbKuIkCVE=;fHFroNpsMrazMGkYDbFkQw=="
+secured: "MUhFgPy0tmTPWmvfcqWMf7z5Bvdy1lMP6Rx8Fa1PXO07WzZzpSn3qRSymYUt+IMNMMtXinfRpOwq4veJmwqjWkYzT64ThvfFC9GSzVqDau1Dv/n3hYZCZGn9fS8l/t76Zk6VoTUhhpsSmVDdtOmKPieqv+XCm4PQCq5Gi5MmE2qoYCy7WOpePwV7PzSKRGtaDPZ+ExK4d01z8+Yf0J4ROIMY86GUNmrdvDleCOlMFJP8uFLqnHF5ZOfKCxQTAdtaaVzSUylZfxvMVnshe5Q0HIXyFlzkGAnm01e3jrKueLXfgiNy77/RxdJwFlVvNklSydqyZw6OWMGprSAi280zWPtGdS2LzjN7wWlArIfZuk0KnIg43Q1+uYcNHdBkQVCz7ZBExH1RYYsmV910u8X4/Jus3dadPONPpFXbmhpLIAo6YR5qncyPLTnSNKwHg5XZ3+dvvzGKur3FyEPk2t/7kOCN7ehvlNuEEMwWNKsQOc/3/GKMFsrZv1eF6L/jbv8B6jGVHqijA8i8H6v8xHzixg==;36QPuSP4G2W9ViM+TArIjg=="
 ---
 
