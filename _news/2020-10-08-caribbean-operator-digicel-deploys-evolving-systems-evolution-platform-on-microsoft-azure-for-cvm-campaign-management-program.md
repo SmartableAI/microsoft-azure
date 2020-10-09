@@ -2,21 +2,17 @@
 category: news
 title: "Caribbean Operator Digicel Deploys Evolving Systems’ Evolution Platform on Microsoft Azure for CVM Campaign Management Program"
 excerpt: "(GLOBE NEWSWIRE) -- Evolving Systems, Inc. (NASDAQ: EVOL), a leader in real-time digital engagement solutions and services, is proud to announce that its fully scalable Evolution platform has been deployed at Digicel."
-publishedDateTime: 2020-10-08T13:41:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/caribbean-operator-digicel-deploys-evolving-systems-evolution-platform-on-microsoft-azure-for-cvm-campaign-management-program-1029661929"
-webUrl: "https://markets.businessinsider.com/news/stocks/caribbean-operator-digicel-deploys-evolving-systems-evolution-platform-on-microsoft-azure-for-cvm-campaign-management-program-1029661929"
+publishedDateTime: 2020-10-08T13:31:00Z
+originalUrl: "https://www.morningstar.com/news/globe-newswire/8065097/caribbean-operator-digicel-deploys-evolving-systems-evolution-platform-on-microsoft-azure-for-cvm-campaign-management-program"
+webUrl: "https://www.morningstar.com/news/globe-newswire/8065097/caribbean-operator-digicel-deploys-evolving-systems-evolution-platform-on-microsoft-azure-for-cvm-campaign-management-program"
 type: article
-quality: 29
+quality: 0
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Morningstar, Inc.
+  domain: morningstar.com
 
 topics:
   - Azure
@@ -37,6 +33,6 @@ related:
         height: 630
         isCached: true
 
-secured: "fJ4KGaoBrJHTShKaCz40tEn41mL74spVLeQR5lAJWq5UVgXiJcJl0O2skwLunDIHFDEFQL4pA+XAftpEq+Jj83F9JEPg0X6lsiw1LP2fMJmVZe7su3p7PR5Yv7M+cA4lY39dbtq2y4L8vwt+3XFLJNZataNruKvb2vdEbe97Zit9aRU4f4rrsXhqFSwMmaZSSCVG9ZmGE2m+8vHlNTVbrG1eJoWeua9ger7r4md/dn104Q0/mnE3rzByZXAZoxWyFVunu0hw0CQ+Xk37czXZpVuF4+sv7RsVfltSnSuylKy3NSqHYvMpOo3zv4L+ecuKH9s+XWJAFIQ7Gkgw0RhGvTb4eE0tZKhYO+iD5DGc6aU=;TSDR3VLIzlD9fYbSTJyqPQ=="
+secured: "Yo5xr2QBp0rzPCSjqKj8NZpxi//YoBt597CxuPmS5h8j75pYRXLKveOtitdBhpoOqStGvyEFFsjLQm5HvYV89E3PqEP/HEtujuc2LdE30dKUOKq6tS18MXZwpxrRzJ5uiDkMzW6RKYfw176jdrWKjKLArHYO14EXwcEfggshWrYqanxTTK+dlfeFPsf0yQCuc8UubWMtACeYn9CQ9ZlbvbNpDfxceOrozRYqYnqSBzWCdCOFLTIiUTrI7Cqnf//MDcNxPw1eG4zXTwXaM8yRMswlf9Seq7aBjOe3ZkJS9CbmETD4faxnHWdOdIsBW8gInfxPYIKOHdle9LV6eJDozQixD6LH/FSycqTGCap7NHc=;IInQsMVcDEeLkNRC0co59Q=="
 ---
 
