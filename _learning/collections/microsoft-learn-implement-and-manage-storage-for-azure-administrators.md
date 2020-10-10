@@ -20,6 +20,7 @@ levels:
 items:
   - courses/microsoft-learn-create-azure-storage-account
   - courses/microsoft-learn-choose-the-right-disk-storage-for-vm-workload
+  - courses/microsoft-learn-provide-disaster-recovery-replicate-storage-data
   - courses/microsoft-learn-secure-azure-storage-account
   - courses/microsoft-learn-store-and-share-with-azure-files
   - courses/microsoft-learn-upload-download-and-manage-data-with-azure-storage-explorer
