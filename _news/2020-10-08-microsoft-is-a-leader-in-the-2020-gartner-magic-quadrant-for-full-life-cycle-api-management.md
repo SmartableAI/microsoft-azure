@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/microsoft-is-a-leader-in-the-2020
 webUrl: "https://azure.microsoft.com/blog/microsoft-is-a-leader-in-the-2020-gartner-magic-quadrant-for-full-life-cycle-api-management/"
 type: article
 quality: 81
-heat: 121
+heat: 122
 published: true
 
 provider:
