@@ -381,6 +381,20 @@ related:
         width: 750
         height: 402
         isCached: true
+  - title: "Azure Sentinel vs. Microsoft Defender"
+    excerpt: "Technologies for an awfully long time now, I heard people often wondering how (former) Microsoft Threat Protection and Azure Sentinel fit into a single product-strategy. At this year's first virtual Ignite,"
+    publishedDateTime: 2020-10-09T22:00:00Z
+    webUrl: "https://www.linkedin.com/pulse/azure-sentinel-vs-microsoft-defender-jan-geisbauer"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 37
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQH9y7itIBxOAw/article-cover_image-shrink_720_1280/0?e=1607558400&v=beta&t=PGLrlEMoc-C5aLKesHFmkfCSZACIteegl81FYzGbj8U"
+        width: 1279
+        height: 720
+        isCached: true
   - title: "Microsoft Announces the General Availability of Immersive Reader Service on the Azure AI Platform"
     excerpt: "Immersive Reader, which is a part of the Cognitive Services suite within the Microsoft Azure AI Platform provides help for readers to read and comprehend text. In a recent blog, Microsoft announced the general availability of the service."
     publishedDateTime: 2020-09-07T11:19:00Z
