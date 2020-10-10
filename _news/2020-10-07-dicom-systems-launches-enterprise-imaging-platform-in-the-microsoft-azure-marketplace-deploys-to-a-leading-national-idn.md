@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Dicom Systems Launches Enterprise Imaging Platform in the Microsoft Azure Marketplace, Deploys to a Leading National IDN"
-excerpt: "Dicom Systems, a healthcare IT software company, today announced the availability of Unifier enterprise imaging platform for medical imaging workflow, archiving, cloud, and"
-publishedDateTime: 2020-10-07T14:15:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/dicom-systems-launches-enterprise-imaging-platform-in-the-microsoft-azure-marketplace-deploys-to-a-leading/article_dcf4caba-5bac-5aa8-942c-3e8e9c466f58.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/dicom-systems-launches-enterprise-imaging-platform-in-the-microsoft-azure-marketplace-deploys-to-a-leading/article_dcf4caba-5bac-5aa8-942c-3e8e9c466f58.html"
+excerpt: "Dicom Systems, a healthcare IT software company, today announced the availability of Unifier enterprise imaging platform for medical"
+publishedDateTime: 2020-10-07T13:43:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/dicom-systems-launches-enterprise-imaging-platform-in-the-microsoft-azure-marketplace-deploys-to-a-leading-national-idn-301147741.html"
+webUrl: "https://www.prnewswire.com/news-releases/dicom-systems-launches-enterprise-imaging-platform-in-the-microsoft-azure-marketplace-deploys-to-a-leading-national-idn-301147741.html"
 type: article
 quality: 12
 heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/6/23/62336a11-eb80-54ab-be04-d9531f8f95d7/5f7dca1e645b2.image.jpg?resize=400%2C327"
-    width: 400
-    height: 327
+  - url: "https://mma.prnewswire.com/media/1308768/DMWL_com_main_artwork.jpg?p=facebook"
+    width: 600
+    height: 314
     isCached: true
 
 related:
@@ -360,6 +360,6 @@ related:
       domain: helpnetsecurity.com
     quality: 1
 
-secured: "9YcQMdaeddRhfeH/4XXrhHDayRJ5JI2gv7Rxe8xnzbROOPYw+vy0Cc0Ia3dKfRyaYDCeAml7wpJByWS38RQiHUodNVp+UYyl2QrhAOe2iczYFUWegb8+Wl5mhFvU5GBUgVTwiKSZiVnYE6r5gv1PW1zOT0UwKc+SP2j47rJojj+KE3eK0Jz/jHM6pQ3l5ie8xm1S79dcCiuh2a7GMk+/eVHsR+UEgDNeej9hlkrVOxacDzgdgyUSqijfk3cDL7ooNUrP2aFXaFzY63r8R1v0nq6Qlb/Wj3kiMS8+SdQz3PXkpQcEuPRr/Aj0CndtZKL1WT6OctOjHIUovG90HSrp/NML3/u4dq0mH1O+CXzaO+NapHBftH8uS0+b1gZ9oiCEjdEYeda0uILNmGT8VDFOkUW83zYVnXupkyiuzxcqvyYXz80M4EIfOQu0PLjOyWI5Nxv2ElmIxN8TyCKRGyixzO94kEdxD4DJqYrsgzCe17d7o4C7BgEyTshkxC6VOnR/Ucx9YQNY8KPsFgS4OORKnQ==;rHEEAAsjn41XMTr3X30Dfg=="
+secured: "TLgfK1dsJ5Zfq1wnyBOisdVOOtt1aTR+dkF2aZ/hEx8l+WkF/mrUGPBHBIkIm1O9Osh8uMeb6Ls2m7CUYHqq69a59afL4YrwhIsXArPwlzPWKZxfLCyhNlg0GX8Sub3dMBSUrdnvE1QNVJOiO4qwC4eI5wbeeQKnz1aWdNuzPYFFiRo5E/Ald2lViNQmE3FCFTds3kxTSjIMVftU/IwINQbVLsbImnIY6A/zUzGNqA4HQ8WzDcXwaOTxN7JlAvCOnj348bqUpZKiqLsq5GKu4Kb+AitzlkhE4402akr34+hWDPLRBjTKwH0rHaFKGjW/KbZR7AjVLD4PpE3zCxkuX7VDdbnIquG2BXpalnSEaXY=;AqkVf4AZjEN81E99ipHxGQ=="
 ---
 
