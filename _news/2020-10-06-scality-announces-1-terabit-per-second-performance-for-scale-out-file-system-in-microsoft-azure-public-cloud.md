@@ -35,17 +35,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 73
-  - title: "Tamr Announces the Only Cloud-Native Data Mastering Solutions for Google Cloud Platform, AWS, and Microsoft Azure"
-    excerpt: "PRNewswire/ -- Tamr, Inc., a cloud-native data mastering platform used by some of the world's largest enterprises"
-    publishedDateTime: 2020-10-07T13:35:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/tamr-announces-the-only-cloud-native-data-mastering-solutions-for-google-cloud-platform-aws-and-microsoft-azure-1029657406"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/tamr-announces-the-only-cloud-native-data-mastering-solutions-for-google-cloud-platform-aws-and-microsoft-azure-1029657406"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/tamr-announces-the-only-cloud-native-data-mastering-solutions-for-google-cloud-platform-aws-and-microsoft-azure-1029657406"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 56
   - title: "CDW recognized as Microsoft Azure expert service provider"
     excerpt: "CDW Corp., a leading computer solutions and services provider, has been recognized as a Microsoft Azure Expert Managed Service Provider, joining some of Microsoft's most recognized and capable global solutions partners."
     publishedDateTime: 2020-10-09T18:58:00Z
@@ -57,6 +46,20 @@ related:
       name: Daily Herald
       domain: dailyherald.com
     quality: 37
+  - title: "Tamr Announces the Only Cloud-Native Data Mastering Solutions for Google Cloud Platform, AWS, and Microsoft Azure"
+    excerpt: "PRNewswire/ -- Tamr, Inc., a cloud-native data mastering platform used by some of the world's largest enterprises to solve their toughest data"
+    publishedDateTime: 2020-10-07T13:05:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/tamr-announces-the-only-cloud-native-data-mastering-solutions-for-google-cloud-platform-aws-and-microsoft-azure-301147624.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 16
+    images:
+      - url: "https://mma.prnewswire.com/media/1157929/Tamr_Logo.jpg?p=facebook"
+        width: 1500
+        height: 785
+        isCached: true
 
 secured: "OUp80K/79dOy3QTFZLAtuA0hnBXipwYDn9j4+17l8ORNgnouneLG9c8tg8JT86PKKO4HW82cL/9wH5qS2RNYRHQXn08JAaO5hTGpw41duJptuJgecxu3f0rNGWjEiTl64ipzF4kK1YPUucT2I/M9UpbW6DjycPjBxqPXcuvhTeDAz2IClM5XDDg21WbRummx7BRNvaujTpe0OxaufykQMF6j1QrJtHcXPXp75KLk5tj1QxrhhfdNgC3D2zp7/0cB3Z6vTEVvpOu1SuFA9+1kVqV5HJNtO3Zjb0RxHO1tWrgx7zFqbCqjc5dGK+4cbvuKjTf0j8KDcR7QbiKlYurwoS7FF7XuDFzVBpCqam7PAMg=;ZYUZ8vRA50HNffWfeqC0ow=="
 ---
