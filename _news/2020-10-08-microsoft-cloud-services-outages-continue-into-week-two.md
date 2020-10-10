@@ -3,10 +3,10 @@ category: news
 title: "Microsoft cloud services outages continue into week two"
 excerpt: "Microsoft's cloud services problems are continuing this week with more Azure and Microsoft 365 services issues for some customers. Here's what's happened and why."
 publishedDateTime: 2020-10-07T21:19:00Z
-originalUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/article/microsoft-cloud-services-outages-continue-into-week-two/"
-webUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/article/microsoft-cloud-services-outages-continue-into-week-two/"
-ampWebUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/microsoft-cloud-services-outages-continue-into-week-two/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/microsoft-cloud-services-outages-continue-into-week-two/"
+originalUrl: "https://www.zdnet.com/index.php/category/2184/index.php/article/microsoft-cloud-services-outages-continue-into-week-two/"
+webUrl: "https://www.zdnet.com/index.php/category/2184/index.php/article/microsoft-cloud-services-outages-continue-into-week-two/"
+ampWebUrl: "https://www.zdnet.com/index.php/category/2184/index.php/google-amp/article/microsoft-cloud-services-outages-continue-into-week-two/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2184/index.php/google-amp/article/microsoft-cloud-services-outages-continue-into-week-two/"
 type: article
 quality: 62
 heat: -1
@@ -363,6 +363,6 @@ related:
       domain: helpnetsecurity.com
     quality: 1
 
-secured: "o03BMzyd08OWrxyqtpyYIpHtOBGVMODZe6lZYffr7rc4n2jg8a6yGF/nmD6YLTzhgXOdXWByxd2YNUMrFteuMbzcuLMMrLbHP9xrvS26ki191K/ShPlTmVvRcDoF1SzhVCauYOpwOIDHj7icUgtKJeTdTnNr4ClSaHcX5vFVOTbg7ooNGMTCRfr8ynFjopC6rZAUxwM76RwAzyIMbviF7cTJ6s+WpK46BIp166MmABcc2h65OSSW5AocxGuDw9QAgt7nwZs9KniroH66yXEnQg8XGC5YCtHMA64xT60Ptr+K44x7uL/TBc/zFeDYdqppHWGX9AjTf0hxQU86P5hPWyLha2906VJQl3tu6Ip/Kp2a/GXR8Tl6flCp+hoZDzy4uyRKO4sIz8pRd8w+r34QNpFJHCi5U1h/WwB9R9g6KkyOVIozOtzZ6UDvWDqQjgotIpDJ2CL+ypwj9aqEi73YeoGMm5/5o38PaXMcs0MAxjPXzpNC4716/JnmruOY5ocUxdcrVS+7K4sDJCi0u/V/EA==;PoOiPpJnJkph4WTfy3K8zQ=="
+secured: "HpBNuqhzf29MiG45HqYF30GKTFxKTinV2vNMLOLGZpoYxcsUqhznEV+KJat0kP302KWzxekZLaMW8Bp+bHN53XBD99X6d/kZ/0stXLbKzg+oWZYBhblzncmn/t3tSkMPt87QzueALG0Q9oLTW2yUxTlAaB23L0RKxqndUsjwRZkmWIqg+y9YFApMvcPIm0YZ6e1JUMGY5OhDiUt2+uYCqxt4dRJ4c6aGeVMYdqbzP41tdjItDwRAEt9YhTFdXphzT1wAKpjE1Nitph2HuL+fFuXvbqGIAcqDo2vYBpwTHJcIlBkkvm/InYS1uJo5ttcWyF8x/sBumypP90kMbVWNrX5B5S1NJiz//x75ZUxaHNB6LzSlpixz35iRPN8crKyVXFfpo8t/O7kL227Xsdb3Y4cRTPXXIFviUBCbVa5CM4Hpdr2JOmVvu/EEGO3wfvbcxvi+cU8SG+ggoOQgqxdaIuiUm1c0y4x/ln+vriJiHQp4xCCQkx1lWPrDjc/viQsXctxzpS/0q8SqLd+S/0MIyA==;r6MYl8vXIx/Y8SjVxsZpyQ=="
 ---
 
