@@ -6,9 +6,6 @@ publishedDateTime: 2020-09-02T16:00:02Z
 originalUrl: "https://azure.microsoft.com/en-us/updates/azure-cache-for-redis-visual-studio-code-extension-now-in-preview/"
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-cache-for-redis-visual-studio-code-extension-now-in-preview/"
 type: article
-quality: 101
-heat: -1
-published: false
 
 provider:
   name: Microsoft
@@ -23,63 +20,6 @@ topics:
   - Databases
   - Developer tools
 
-related:
-  - title: "View your Azure Cache for Redis data in new Visual Studio Code extension"
-    excerpt: "Azure Cache for Redis is an in-memory data store that is used to power fast, scalable applications. Now in preview, you can access all the caches under your Azure subscriptions and view their data with the new Azure Cache for Redis Visual Studio Code extension."
-    publishedDateTime: 2020-09-08T08:00:01Z
-    webUrl: "https://azure.microsoft.com/blog/view-your-azure-cache-for-redis-data-in-new-visual-studio-code-extension/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 120
-    images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/96dd25a6-f623-45bd-8863-ac0049eaea9d.jpg"
-        width: 1024
-        height: 630
-        isCached: true
-  - title: "New Deploy to Azure extension for Visual Studio Code"
-    excerpt: "Organizations and teams that adopt DevOps methodologies are consistently seeing improvements in their ability to deliver high-quality code, with faster release cycles, and ultimately achieve higher levels of satisfaction for their own customers, whether they’re internal or external. "
-    publishedDateTime: 2020-03-18T10:00:05Z
-    webUrl: "https://azure.microsoft.com/blog/new-deploy-to-azure-extension-for-visual-studio-code/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 106
-    images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/8fd83624-c140-4bcc-9bbb-b48b7cfd44cf.gif"
-        width: 600
-        height: 338
-        isCached: true
-  - title: "Azure Private Link for Azure Cache for Redis now in preview"
-    excerpt: "You can now use Azure Private Link to connect to an Azure Cache for Redis instance from your virtual network via a private endpoint, which is assigned a private IP address in a subnet within the virtual network."
-    publishedDateTime: 2020-09-02T16:00:02Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-private-link-for-azure-cache-for-redis-now-in-preview/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 67
-  - title: "New Azure extensions for Visual Studio Code"
-    excerpt: ""
-    publishedDateTime: 2020-05-19T16:05:40Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/new-azure-extensions-for-visual-studio-code/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 17
-  - title: "Azure Databases extension for Visual Studio Code"
-    excerpt: ""
-    publishedDateTime: 2020-05-28T16:00:15Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-databases-extension-for-visual-studio-code/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 17
-
-secured: "UCAoEzZSUVp6u3+PQi0rjo1BP1lrqmHhXjbLUGn3sNocd1VLeNC9sBUzd55Un84VXmMO/Q9TZThOob83jsI4u3vEx+TRKQTe3osEYgka2ZR9cVgZ0GD5LnTwIpdbxgypxl1MHoPjbzh/BCHS5n4oBvEBNnNejWXgoQ0jO68UP6WaCsU+gK7xdaXrbB7YD63fKIseX9eYzm5k1miIFYA0QoOuMZnAzyXkGqih8uFRvMfHIlrsphHbYxFPCTfZMMyM0o6B3HU8cOIy89DsfZa6EopkwgsbpWKCCWy0W8Ri8ED1jIaUXtVaMkpOzRNhXLaairrP54cAEUlnobxb861BZiU+6PpTqZE+JtFSfjahSDM=;cI60bvDfIf8/OF/Lvb0B0A=="
+secured: "AFjWsUQShFbuAKOuxMoR0+W6oMFB+RE/wgfC9t3hsWTEXX4qkNGsCa3cR4C7APIFLilevMSIltQTvvc1sVmKB8hZ15u0tHHIyJH/39mB/CZzS0SjJIQ2nUG2VJi7gozQ+shNxR1JphIXla7hGuN0w6wBoz8t72cLveg4VRPLGBEi/YCpxoQYEOsS6iryNctopbevhRAjhX4dpkZg/uPdDXhNzV+cAFK+MmPoWNnAmt1EQt9c4rZ06hkrMUUSyulFx0Ya7J8smAuIiDkK5Egd93OyOmZ4kGyEo4m6Grd448FiSWGvLyLb6efLy4HVG9lGjmaS7PE4+SctqZWrZDQ7VcAfjTKLhw7YThdTNsRO5Fk=;Lg7+WkQCmTdeJXe7QPzSiQ=="
 ---
 
