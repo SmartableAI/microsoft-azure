@@ -11,8 +11,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/tour-azure-portal/",
       "length": "PT1H13M",
       "ratings": {
-        "count": 50778,
-        "average": 4.708122
+        "count": 50780,
+        "average": 4.708133
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -46,8 +46,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/intro-to-data-in-azure/",
       "length": "PT25M",
       "ratings": {
-        "count": 55270,
-        "average": 4.7341595
+        "count": 55271,
+        "average": 4.734164
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -81,8 +81,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/predict-costs-and-optimize-spending/",
       "length": "PT1H14M",
       "ratings": {
-        "count": 40506,
-        "average": 4.715499
+        "count": 40510,
+        "average": 4.715527
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -180,8 +180,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/control-and-organize-with-azure-resource-manager/",
           "length": "PT46M",
           "ratings": {
-            "count": 38640,
-            "average": 4.71338
+            "count": 38642,
+            "average": 4.713369
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -312,202 +312,6 @@
       ]
     },
     {
-      "path": "_learning/collections/microsoft-learn-create-serverless-applications.md",
-      "title": "Create serverless applications",
-      "excerpt": "In this learning path, discover Azure Functions that create event-driven, compute-on-demand systems using server-side logic to build serverless architectures.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-create-serverless-applications/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-create-serverless-applications/",
-      "length": "PT8H11M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner",
-        "Intermediate"
-      ],
-      "topItems": [
-        {
-          "path": "_learning/courses/microsoft-learn-choose-azure-service-to-integrate-and-automate-business-processes.md",
-          "title": "Choose the best Azure service to automate your business processes",
-          "excerpt": "In this module, we'll discuss how to choose the appropriate Azure service to integrate and automate business processes.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-choose-azure-service-to-integrate-and-automate-business-processes/index.json",
-          "webUrl": "https://docs.microsoft.com/learn/modules/choose-azure-service-to-integrate-and-automate-business-processes/",
-          "length": "PT44M",
-          "ratings": {
-            "count": 10392,
-            "average": 4.5737104
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 65,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/choose-azure-service-to-integrate-and-automate-business-processes-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-create-serverless-logic-with-functions.md",
-          "title": "Create serverless logic with Azure Functions",
-          "excerpt": "Azure Functions allow you to host business logic that can be executed without managing or provisioning server infrastructure",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-create-serverless-logic-with-functions/index.json",
-          "webUrl": "https://docs.microsoft.com/learn/modules/create-serverless-logic-with-azure-functions/",
-          "length": "PT36M",
-          "ratings": {
-            "count": 6581,
-            "average": 4.6616015
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 60,
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Compute",
-            "Serverless",
-            "Management Tools"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-execute-azure-function-with-triggers.md",
-          "title": "Execute an Azure Function with triggers",
-          "excerpt": "This module demos some of the most common types of triggers for executing Azure Functions and how to configure them to execute your logic.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-execute-azure-function-with-triggers/index.json",
-          "webUrl": "https://docs.microsoft.com/learn/modules/execute-azure-function-with-triggers/",
-          "length": "PT1H23M",
-          "ratings": {
-            "count": 3428,
-            "average": 4.7024503
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 56,
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Compute",
-            "Serverless",
-            "Management Tools"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-chain-azure-functions-data-using-input-output-bindings.md",
-          "title": "Chain Azure Functions together using input and output bindings",
-          "excerpt": "In this module, we'll learn how to integrate your Azure Function with various data sources by using bindings.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-chain-azure-functions-data-using-input-output-bindings/index.json",
-          "webUrl": "https://docs.microsoft.com/learn/modules/chain-azure-functions-data-using-bindings/",
-          "length": "PT1H10M",
-          "ratings": {
-            "count": 2763,
-            "average": 4.573652
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 57,
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Databases",
-            "Compute",
-            "Serverless",
-            "Storage"
-          ]
-        }
-      ],
-      "size": 10,
-      "heat": 72,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/choose-azure-service-to-integrate-and-automate-business-processes-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Compute",
-        "Serverless",
-        "Management Tools",
-        "Databases",
-        "Storage"
-      ]
-    },
-    {
       "path": "_learning/collections/microsoft-learn-get-started-with-artificial-intelligence-on-azure.md",
       "title": "Get started with artificial intelligence on Azure",
       "excerpt": "Artificial Intelligence (AI) empowers amazing new solutions and experiences; and Microsoft Azure provides easy to use services to help you get started.",
@@ -538,8 +342,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/get-started-ai-fundamentals/",
           "length": "PT27M",
           "ratings": {
-            "count": 2863,
-            "average": 4.7251134
+            "count": 2865,
+            "average": 4.7249565
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -598,8 +402,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/get-started-ai-fundamentals/",
       "length": "PT27M",
       "ratings": {
-        "count": 2863,
-        "average": 4.7251134
+        "count": 2865,
+        "average": 4.7249565
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -704,8 +508,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/intro-to-azure-virtual-machines/",
           "length": "PT1H7M",
           "ratings": {
-            "count": 14682,
-            "average": 4.689007
+            "count": 14684,
+            "average": 4.6890492
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -738,8 +542,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/create-linux-virtual-machine-in-azure/",
           "length": "PT1H26M",
           "ratings": {
-            "count": 7954,
-            "average": 4.68607
+            "count": 7955,
+            "average": 4.6861095
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -773,8 +577,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/create-windows-virtual-machine-in-azure/",
           "length": "PT51M",
           "ratings": {
-            "count": 12750,
-            "average": 4.708863
+            "count": 12751,
+            "average": 4.708729
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -894,8 +698,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/intro-to-azure-virtual-machines/",
           "length": "PT1H7M",
           "ratings": {
-            "count": 14682,
-            "average": 4.689007
+            "count": 14684,
+            "average": 4.6890492
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -928,8 +732,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/create-linux-virtual-machine-in-azure/",
           "length": "PT1H26M",
           "ratings": {
-            "count": 7954,
-            "average": 4.68607
+            "count": 7955,
+            "average": 4.6861095
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -963,8 +767,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/create-windows-virtual-machine-in-azure/",
           "length": "PT51M",
           "ratings": {
-            "count": 12750,
-            "average": 4.708863
+            "count": 12751,
+            "average": 4.708729
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1005,8 +809,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/build-a-web-app-with-mean-on-a-linux-vm/",
           "length": "PT42M",
           "ratings": {
-            "count": 1775,
-            "average": 4.565634
+            "count": 1776,
+            "average": 4.5658784
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1082,8 +886,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/choose-storage-approach-in-azure/",
           "length": "PT30M",
           "ratings": {
-            "count": 10649,
-            "average": 4.6635365
+            "count": 10651,
+            "average": 4.6635056
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1117,8 +921,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/create-azure-storage-account/",
           "length": "PT30M",
           "ratings": {
-            "count": 6082,
-            "average": 4.753371
+            "count": 6083,
+            "average": 4.753247
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1271,8 +1075,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/explore-core-data-concepts/",
           "length": "PT25M",
           "ratings": {
-            "count": 1046,
-            "average": 4.834608
+            "count": 1047,
+            "average": 4.834766
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1644,8 +1448,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/choose-storage-approach-in-azure/",
           "length": "PT30M",
           "ratings": {
-            "count": 10649,
-            "average": 4.6635365
+            "count": 10651,
+            "average": 4.6635056
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1679,8 +1483,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/create-azure-storage-account/",
           "length": "PT30M",
           "ratings": {
-            "count": 6082,
-            "average": 4.753371
+            "count": 6083,
+            "average": 4.753247
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1749,8 +1553,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/secure-azure-storage-account/",
           "length": "PT45M",
           "ratings": {
-            "count": 7695,
-            "average": 4.6417155
+            "count": 7696,
+            "average": 4.641762
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1833,8 +1637,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/create-azure-storage-account/",
           "length": "PT30M",
           "ratings": {
-            "count": 6082,
-            "average": 4.753371
+            "count": 6083,
+            "average": 4.753247
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1868,8 +1672,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/choose-the-right-disk-storage-for-vm-workload/",
           "length": "PT24M",
           "ratings": {
-            "count": 1688,
-            "average": 4.669431
+            "count": 1689,
+            "average": 4.669627
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1953,8 +1757,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/secure-azure-storage-account/",
           "length": "PT45M",
           "ratings": {
-            "count": 7695,
-            "average": 4.6417155
+            "count": 7696,
+            "average": 4.641762
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2038,8 +1842,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/create-azure-storage-account/",
           "length": "PT30M",
           "ratings": {
-            "count": 6082,
-            "average": 4.753371
+            "count": 6083,
+            "average": 4.753247
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2073,8 +1877,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/choose-the-right-disk-storage-for-vm-workload/",
           "length": "PT24M",
           "ratings": {
-            "count": 1688,
-            "average": 4.669431
+            "count": 1689,
+            "average": 4.669627
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2158,8 +1962,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/secure-azure-storage-account/",
           "length": "PT45M",
           "ratings": {
-            "count": 7695,
-            "average": 4.6417155
+            "count": 7696,
+            "average": 4.641762
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2244,8 +2048,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/azure-well-architected-security/",
           "length": "PT1H2M",
           "ratings": {
-            "count": 2319,
-            "average": 4.709789
+            "count": 2320,
+            "average": 4.7094827
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2329,8 +2133,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/create-linux-virtual-machine-in-azure/",
           "length": "PT1H26M",
           "ratings": {
-            "count": 7954,
-            "average": 4.68607
+            "count": 7955,
+            "average": 4.6861095
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2364,8 +2168,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/create-windows-virtual-machine-in-azure/",
           "length": "PT51M",
           "ratings": {
-            "count": 12750,
-            "average": 4.708863
+            "count": 12751,
+            "average": 4.708729
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2449,8 +2253,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/align-requirements-in-azure/",
           "length": "PT35M",
           "ratings": {
-            "count": 5758,
-            "average": 4.73793
+            "count": 5761,
+            "average": 4.737719
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2482,8 +2286,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/control-azure-services-with-cli/",
           "length": "PT34M",
           "ratings": {
-            "count": 4234,
-            "average": 4.748937
+            "count": 4235,
+            "average": 4.7489963
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2516,8 +2320,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/automate-azure-tasks-with-powershell/",
           "length": "PT1H11M",
           "ratings": {
-            "count": 4897,
-            "average": 4.709414
+            "count": 4899,
+            "average": 4.7095327
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2549,8 +2353,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/predict-costs-and-optimize-spending/",
           "length": "PT1H14M",
           "ratings": {
-            "count": 40506,
-            "average": 4.715499
+            "count": 40510,
+            "average": 4.715527
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2617,8 +2421,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/intro-to-security-in-azure/",
           "length": "PT1H16M",
           "ratings": {
-            "count": 45101,
-            "average": 4.704929
+            "count": 45102,
+            "average": 4.7049356
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2728,8 +2532,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/secure-azure-storage-account/",
           "length": "PT45M",
           "ratings": {
-            "count": 7695,
-            "average": 4.6417155
+            "count": 7696,
+            "average": 4.641762
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2791,8 +2595,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/manage-subscription-access-azure-rbac/",
       "length": "PT21M",
       "ratings": {
-        "count": 10500,
-        "average": 4.766095
+        "count": 10502,
+        "average": 4.76614
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2848,8 +2652,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/intro-to-azure-ad/",
           "length": "PT27M",
           "ratings": {
-            "count": 1634,
-            "average": 4.6780906
+            "count": 1635,
+            "average": 4.6782875
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3061,8 +2865,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/analyze-devops-continuous-planning-intergration/",
           "length": "PT22M",
           "ratings": {
-            "count": 1330,
-            "average": 4.6984963
+            "count": 1331,
+            "average": 4.698723
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3096,8 +2900,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/introduce-foundation-pillars-devops/",
           "length": "PT25M",
           "ratings": {
-            "count": 2079,
-            "average": 4.6435785
+            "count": 2080,
+            "average": 4.64375
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3231,8 +3035,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/introduce-foundation-pillars-devops/",
           "length": "PT25M",
           "ratings": {
-            "count": 2079,
-            "average": 4.6435785
+            "count": 2080,
+            "average": 4.64375
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3299,8 +3103,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/analyze-devops-continuous-planning-intergration/",
           "length": "PT22M",
           "ratings": {
-            "count": 1330,
-            "average": 4.6984963
+            "count": 1331,
+            "average": 4.698723
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3403,8 +3207,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/azure-well-architected-security/",
           "length": "PT1H2M",
           "ratings": {
-            "count": 2319,
-            "average": 4.709789
+            "count": 2320,
+            "average": 4.7094827
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3641,8 +3445,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/connect-on-premises-network-with-vpn-gateway/",
           "length": "PT39M",
           "ratings": {
-            "count": 4987,
-            "average": 4.601564
+            "count": 4988,
+            "average": 4.601644
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3683,8 +3487,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/connect-on-premises-network-with-expressroute/",
           "length": "PT40M",
           "ratings": {
-            "count": 3335,
-            "average": 4.668666
+            "count": 3336,
+            "average": 4.668765
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3851,8 +3655,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/create-linux-virtual-machine-in-azure/",
           "length": "PT1H26M",
           "ratings": {
-            "count": 7954,
-            "average": 4.68607
+            "count": 7955,
+            "average": 4.6861095
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3886,8 +3690,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/create-windows-virtual-machine-in-azure/",
           "length": "PT51M",
           "ratings": {
-            "count": 12750,
-            "average": 4.708863
+            "count": 12751,
+            "average": 4.708729
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4041,8 +3845,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/create-linux-virtual-machine-in-azure/",
           "length": "PT1H26M",
           "ratings": {
-            "count": 7954,
-            "average": 4.68607
+            "count": 7955,
+            "average": 4.6861095
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4076,8 +3880,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/create-windows-virtual-machine-in-azure/",
           "length": "PT51M",
           "ratings": {
-            "count": 12750,
-            "average": 4.708863
+            "count": 12751,
+            "average": 4.708729
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4232,8 +4036,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/intro-to-security-in-azure/",
           "length": "PT1H16M",
           "ratings": {
-            "count": 45101,
-            "average": 4.704929
+            "count": 45102,
+            "average": 4.7049356
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4407,8 +4211,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/choose-storage-approach-in-azure/",
       "length": "PT30M",
       "ratings": {
-        "count": 10649,
-        "average": 4.6635365
+        "count": 10651,
+        "average": 4.6635056
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -4432,6 +4236,47 @@
         "Azure",
         "Storage",
         "Databases"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-choose-azure-service-to-integrate-and-automate-business-processes.md",
+      "title": "Choose the best Azure service to automate your business processes",
+      "excerpt": "In this module, we'll discuss how to choose the appropriate Azure service to integrate and automate business processes.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-choose-azure-service-to-integrate-and-automate-business-processes/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/choose-azure-service-to-integrate-and-automate-business-processes/",
+      "length": "PT44M",
+      "ratings": {
+        "count": 10395,
+        "average": 4.5736413
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 65,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/choose-azure-service-to-integrate-and-automate-business-processes-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
       ]
     }
   ],
