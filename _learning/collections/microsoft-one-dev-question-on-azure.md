@@ -63,6 +63,21 @@ items:
   - videos/microsoft-what-is-the-difference-between-vsts-and-azure-devops-one-dev-question-abel-wang
   - videos/microsoft-what-is-azure-devops-one-dev-question-abel-wang
   - videos/microsoft-how-do-you-ensure-quality-in-a-devops-world-one-dev-question-abel-wang
+  - videos/microsoft-how-do-you-handle-databases-in-a-devops-world-one-dev-question-abel-wang
+  - videos/microsoft-what-is-the-difference-between-continuous-delivery-and-deployment-one-dev-question-abel-wang
+  - videos/microsoft-what-is-devops-one-dev-question-abel-wang
+  - videos/microsoft-how-to-develop-and-test-functions-on-windows-and-linux-one-dev-question-laurent-bugnion
+  - videos/microsoft-what-is-an-azure-static-website-one-dev-question-laurent-bugnion
+  - videos/microsoft-what-are-cost-effective-ways-to-store-mobile-app-data-in-azure-one-dev-question-laurent-bugnion
+  - videos/microsoft-how-to-create-cross-platform-mobile-apps-with-xamarin-one-dev-question-laurent-bugnion
+  - videos/microsoft-how-to-create-cross-platform-apps-with-net-using-xamarin-one-dev-question-laurent-bugnion
+  - videos/microsoft-how-to-run-aspnet-apps-on-windows-or-linux-one-dev-question-laurent-bugnion
+  - videos/microsoft-what-are-app-service-deployment-slots-one-dev-question-laurent-bugnion
+  - videos/microsoft-how-to-migrate-your-sql-server-databases-over-to-azure-one-dev-question-laurent-bugnion
+  - videos/microsoft-will-my-sql-server-database-run-on-azure-sql-one-dev-question-laurent-bugnion
+  - videos/microsoft-how-to-migrate-a-mongo-database-to-cosmos-db-one-dev-question-laurent-bugnion
+  - videos/microsoft-what-are-logic-apps-one-dev-question-laurent-bugnion
+  - videos/microsoft-what-can-i-use-azure-function-triggers-for-one-dev-question-laurent-bugnion
 
 topics:
   - Azure
