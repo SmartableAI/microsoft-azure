@@ -6,7 +6,7 @@ publishedDateTime: 2020-05-04T00:42:00Z
 webUrl: "https://www.marketwatch.com/press-release/cloud-migration-services-market-is-estimated-to-reach-usd-8-billion-by-forecast-period-of-2023-influence-of-covid-19-2020-05-03"
 type: article
 quality: 39
-heat: 39
+heat: 79
 published: false
 
 provider:

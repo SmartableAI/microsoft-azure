@@ -7,7 +7,7 @@ originalUrl: "https://www.oaoa.com/news/business/infoworks-datafoundry-to-be-fea
 webUrl: "https://www.oaoa.com/news/business/infoworks-datafoundry-to-be-featured-at-databricks-microsoft-azure-event/article_17bbac33-e0ae-5641-a446-99481cb5d234.html"
 type: article
 quality: 36
-heat: 36
+heat: 56
 published: false
 
 provider:

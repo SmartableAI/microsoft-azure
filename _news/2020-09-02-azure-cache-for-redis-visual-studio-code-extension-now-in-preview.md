@@ -7,8 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/azure-cache-for-redis-vi
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-cache-for-redis-visual-studio-code-extension-now-in-preview/"
 type: article
 quality: 101
-heat: -1
-published: false
+heat: 101
 
 provider:
   name: Microsoft
@@ -23,63 +22,6 @@ topics:
   - Databases
   - Developer tools
 
-related:
-  - title: "View your Azure Cache for Redis data in new Visual Studio Code extension"
-    excerpt: "Azure Cache for Redis is an in-memory data store that is used to power fast, scalable applications. Now in preview, you can access all the caches under your Azure subscriptions and view their data with the new Azure Cache for Redis Visual Studio Code extension."
-    publishedDateTime: 2020-09-08T08:00:01Z
-    webUrl: "https://azure.microsoft.com/blog/view-your-azure-cache-for-redis-data-in-new-visual-studio-code-extension/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 120
-    images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/96dd25a6-f623-45bd-8863-ac0049eaea9d.jpg"
-        width: 1024
-        height: 630
-        isCached: true
-  - title: "New Deploy to Azure extension for Visual Studio Code"
-    excerpt: "Organizations and teams that adopt DevOps methodologies are consistently seeing improvements in their ability to deliver high-quality code, with faster release cycles, and ultimately achieve higher levels of satisfaction for their own customers, whether they’re internal or external. "
-    publishedDateTime: 2020-03-18T10:00:05Z
-    webUrl: "https://azure.microsoft.com/blog/new-deploy-to-azure-extension-for-visual-studio-code/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 106
-    images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/8fd83624-c140-4bcc-9bbb-b48b7cfd44cf.gif"
-        width: 600
-        height: 338
-        isCached: true
-  - title: "Azure Private Link for Azure Cache for Redis now in preview"
-    excerpt: "You can now use Azure Private Link to connect to an Azure Cache for Redis instance from your virtual network via a private endpoint, which is assigned a private IP address in a subnet within the virtual network."
-    publishedDateTime: 2020-09-02T16:00:02Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-private-link-for-azure-cache-for-redis-now-in-preview/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 67
-  - title: "New Azure extensions for Visual Studio Code"
-    excerpt: ""
-    publishedDateTime: 2020-05-19T16:05:40Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/new-azure-extensions-for-visual-studio-code/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 17
-  - title: "Azure Databases extension for Visual Studio Code"
-    excerpt: ""
-    publishedDateTime: 2020-05-28T16:00:15Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-databases-extension-for-visual-studio-code/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 17
-
-secured: "KS3AW55HeUc+6hRSc7Kpz3JKpfT93xAGzGzfJDG6r2u00k85Ec/oEellRtpoOEnF+vUu0hOn7r7mEH7/1ZeeGhUU6cT63AK1G4z+lX4I7sOLCuXvb3vlQ/ghHahIc6dx7j6N9ODj5k3hJWYiGXF1yirIQnQbQ3VDHoZMlWofCi6bXnvZ770WFcYSwdL8GSnZkPqWE6cbU0r70u22+wEcacS2IiBawNpnYoHbC3AJrekgdDQGNAgwvp+n4jagiVHg9/v6xiW/tLc9w4q38EDWFCzNuGDFXK6WMml5Lrxk1o7XfuCmnmLisMDWlKNgsqooUhRdyniYQLBOySsUwRhLMfvwIMefmxJV+AMK8wkUmRw=;NtQjVJ9Fht+vhNfaNoHPPw=="
+secured: "9FQuPn2Z7p/igF6KAXJbpWnVKQhthVaxN9FhbOk24VK9x3cWex48vMRvnLm0F4xtiFDb5AxYUu+QfRC9LEmUzdyf3g0aiXOsJhKKsSn6g4qrgS7HDe1krcNwCDMRRiYhycmL6NnB1llF5wwQiop6loJdhPD609x61wRM9xYdBJhTW8sK44mO8KXX++ckGXdhFwrU9DkBdqMCe6X4JcAigPL+fV72SOOL3exdptGM5K+tJHo73fLcfEBx7hv4ZbhUwDKxv6ux75yOwkI7SHMFsehmN0bZKdrrrtuRN9U9+vo1O4gjZk/zlitMF0+65z34pfHHUaQViy39DyzXyqbA3H0rmwGJLVN+7JSPc9TTpL8=;oXQpsMN8IhzNntjkDZTp7Q=="
 ---
 
