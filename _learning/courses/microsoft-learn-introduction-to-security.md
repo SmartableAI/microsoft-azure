@@ -6,9 +6,9 @@ type: course
 price: Free
 length: PT1H16M
 ratings:
-  count: 45136
-  average: 4.7049804
-heat: 79
+  count: 45141
+  average: 4.7049465
+heat: 78
 
 provider:
   name: Microsoft Learn
@@ -26,6 +26,6 @@ topics:
   - Identity
   - Security
 
-secured: "vTKa2CQEx//dE/StxXtLfXZXrvjdlPR3lcAa5kj08iAT+qUdj+WjFFQ1XnCDF73LnLwG/elnll35jnjbcElmNct+z+fWWP/EOED3hz4Qg4Tkq4zdWqZ9k9tCKk7HJiHyH4G5CJjDdsQ3NxfexzF73WYCpZnFjvPzXsGmWexYUDEOLM6rLe0FNFpJGmcBUIKI7KWflr820pidCM89SWG8Bme5QVnc/wNYXGbjzDo2A2TrB2FYzGmwam89LdJb3b+nIta7ejMpX2yATALfPsgWf1S5r1Hws22TdPOWyyMTfKu0bPq6nP/Yq6cB16fLpKO7em8mcM9dh/6IVQZ6dhv/75RWTT1zmMru63gadILluDAEtBObBMnUp2Un+6XZEQCaWrBg1Xfzycc5GhvAQ7GW5sBpe2tC7ly6/g5azh3Gnj3/m25fk9dP3FSUCJuK4Kqh;9k+Li1dXj0k5NciDwOIaSw=="
+secured: "0rUfVm5F4nQslcDjBeIMGwOdcXbYI/Zn3pK1UzegItzRB/9HJOvAh0NML32grLPFl1lXuGd8NDOSbhakF1LZT9jy9Y6PEAh/P4Q7ODA/LoVA6vIyl64fKgxRJZ0D7f3Y8HmTz1N5c7WbJltLCPXs0l9OHcwqjjg3DB601+JBeTDvf3T1V3YnTDDLjP2wmVDcp4zwf2Z5ncb49fb7kE1+04aC0MOH9fAS9w2Zdj5iAQNUgvlymv+cTht7ZW/G4NS7N8J8/ZCHd2RWmqlcilJqIQvxOjpLyFTIsfWqL6FCNYCF4FgKQsF3Aq/Lw4CfBYWWiPkbyqUZWBH+8ml2Wh57eqD99MT9igtI1sceSSK9/wNByPy4bXkEqH212wLrBx/eF9Wh8WmmroDKpl+/9tkHwBL19g2r8grRMqAUA5KJ+47EvN+Dty6gyFZe2Z440qsX;/tJov5DjM9iPkl9eKTAE+A=="
 ---
 
