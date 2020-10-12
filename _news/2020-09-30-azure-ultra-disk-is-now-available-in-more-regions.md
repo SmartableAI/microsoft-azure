@@ -36,6 +36,15 @@ related:
         width: 980
         height: 675
         isCached: true
+  - title: "Row Level Security now generally available for Azure Data Explorer"
+    excerpt: "Row Level Security simplifies the design and coding of security. It lets you apply restrictions on data row access in your application. "
+    publishedDateTime: 2020-10-12T16:00:21Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/adx-rls/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
   - title: "The new Azure VMware Solution is now generally available"
     excerpt: "Last week, during Microsoft Ignite we announced the general availability of the new Azure VMware Solution. Designed, built, and supported by Microsoft, Cloud Verified by VMware, running VMware Cloud Foundation technologies, Azure VMware Solution enables customers to extend or migrate VMware workloads"
     publishedDateTime: 2020-09-29T08:00:03Z

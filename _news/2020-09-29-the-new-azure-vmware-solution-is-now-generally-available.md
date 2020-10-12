@@ -37,6 +37,15 @@ related:
         width: 980
         height: 675
         isCached: true
+  - title: "Row Level Security now generally available for Azure Data Explorer"
+    excerpt: "Row Level Security simplifies the design and coding of security. It lets you apply restrictions on data row access in your application. "
+    publishedDateTime: 2020-10-12T16:00:21Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/adx-rls/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
   - title: "Azure Ultra Disk is now available in more regions "
     excerpt: "Azure Ultra Disk is now available in Australia Central, India Central, Korea Central and US Gov Texas. "
     publishedDateTime: 2020-09-30T16:00:42Z
