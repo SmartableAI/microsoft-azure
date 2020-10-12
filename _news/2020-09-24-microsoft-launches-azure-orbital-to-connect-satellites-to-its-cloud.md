@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2020/09/22/microsoft-launches-azure-orbital-t
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/09/22/microsoft-launches-azure-orbital-to-connect-satellites-to-its-cloud/amp/"
 type: article
 quality: 114
-heat: 2454
+heat: 2474
 published: true
 
 provider:
@@ -250,6 +250,22 @@ related:
       - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/c53722a4-6938-4dea-bb41-a2c639481af2.png"
         width: 727
         height: 345
+        isCached: true
+  - title: "Azure Arc - Extending Microsoft Cloud Services To Data Center And Mainstream Cloud Platforms"
+    excerpt: "Announced in November 2019 at the Ignite conference, Azure Arc has become the cornerstone of Microsoft’s hybrid and multi-cloud strategy. With Arc, customers can bring existing infrastructure ..."
+    publishedDateTime: 2020-09-27T17:09:00Z
+    webUrl: "https://www.forbes.com/sites/janakirammsv/2020/09/27/azure-arcextending-microsoft-cloud-services-to-data-center-and-mainstream-cloud-platforms/"
+    ampWebUrl: "https://www.forbes.com/sites/janakirammsv/2020/09/27/azure-arcextending-microsoft-cloud-services-to-data-center-and-mainstream-cloud-platforms/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2020/09/27/azure-arcextending-microsoft-cloud-services-to-data-center-and-mainstream-cloud-platforms/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 86
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f70a3ffa57da9a0b90ae74b%2F0x0.jpg"
+        width: 1000
+        height: 692
         isCached: true
   - title: "Microsoft Downed 18 Azure Cloud applications Used By low-Budget Chinese Gadolinium Hacking Group"
     excerpt: "You probably didn’t hear it here first but the incredibly impressive thing about modern hacking groups is how darned cheap they are - in every sense of that word."

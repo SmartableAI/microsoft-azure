@@ -1,26 +1,33 @@
 ---
 category: news
-title: "Scaling Microsoft Kaizala on Azure"
-excerpt: "Microsoft Kaizala is a secure work management and mobile messaging app for mobile-only users. Today, we’re sharing some of our learnings about managing and scaling an enterprise grade productivity app resulting from the increased usage related to working from home.\n\n"
-publishedDateTime: 2020-09-30T10:00:20Z
-originalUrl: "https://azure.microsoft.com/blog/scaling-microsoft-kaizala-on-azure/"
-webUrl: "https://azure.microsoft.com/blog/scaling-microsoft-kaizala-on-azure/"
+title: "Azure Arc - Extending Microsoft Cloud Services To Data Center And Mainstream Cloud Platforms"
+excerpt: "Announced in November 2019 at the Ignite conference, Azure Arc has become the cornerstone of Microsoft’s hybrid and multi-cloud strategy. With Arc, customers can bring existing infrastructure ..."
+publishedDateTime: 2020-09-27T17:09:00Z
+originalUrl: "https://www.forbes.com/sites/janakirammsv/2020/09/27/azure-arcextending-microsoft-cloud-services-to-data-center-and-mainstream-cloud-platforms/"
+webUrl: "https://www.forbes.com/sites/janakirammsv/2020/09/27/azure-arcextending-microsoft-cloud-services-to-data-center-and-mainstream-cloud-platforms/"
+ampWebUrl: "https://www.forbes.com/sites/janakirammsv/2020/09/27/azure-arcextending-microsoft-cloud-services-to-data-center-and-mainstream-cloud-platforms/amp/"
+cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2020/09/27/azure-arcextending-microsoft-cloud-services-to-data-center-and-mainstream-cloud-platforms/amp/"
 type: article
-quality: 69
+quality: 86
 heat: -1
 published: false
 
 provider:
-  name: Microsoft
-  domain: microsoft.com
+  name: Forbes
+  domain: forbes.com
   images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg"
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/forbes.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Azure
-  - Mobile
+
+images:
+  - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f70a3ffa57da9a0b90ae74b%2F0x0.jpg"
+    width: 1000
+    height: 692
+    isCached: true
 
 related:
   - title: "Microsoft launches Azure Orbital to connect satellites to its cloud"
@@ -259,22 +266,6 @@ related:
         width: 727
         height: 345
         isCached: true
-  - title: "Azure Arc - Extending Microsoft Cloud Services To Data Center And Mainstream Cloud Platforms"
-    excerpt: "Announced in November 2019 at the Ignite conference, Azure Arc has become the cornerstone of Microsoft’s hybrid and multi-cloud strategy. With Arc, customers can bring existing infrastructure ..."
-    publishedDateTime: 2020-09-27T17:09:00Z
-    webUrl: "https://www.forbes.com/sites/janakirammsv/2020/09/27/azure-arcextending-microsoft-cloud-services-to-data-center-and-mainstream-cloud-platforms/"
-    ampWebUrl: "https://www.forbes.com/sites/janakirammsv/2020/09/27/azure-arcextending-microsoft-cloud-services-to-data-center-and-mainstream-cloud-platforms/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2020/09/27/azure-arcextending-microsoft-cloud-services-to-data-center-and-mainstream-cloud-platforms/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 86
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f70a3ffa57da9a0b90ae74b%2F0x0.jpg"
-        width: 1000
-        height: 692
-        isCached: true
   - title: "Microsoft Downed 18 Azure Cloud applications Used By low-Budget Chinese Gadolinium Hacking Group"
     excerpt: "You probably didn’t hear it here first but the incredibly impressive thing about modern hacking groups is how darned cheap they are - in every sense of that word."
     publishedDateTime: 2020-09-25T17:12:00Z
@@ -496,6 +487,15 @@ related:
     excerpt: "Microsoft Edge can now be run in Kiosk mode on Windows IoT "
     publishedDateTime: 2020-09-23T16:00:12Z
     webUrl: "https://azure.microsoft.com/en-us/updates/windows-iot-microsoft-edge-kiosk-mode-public-preview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 69
+  - title: "Scaling Microsoft Kaizala on Azure"
+    excerpt: "Microsoft Kaizala is a secure work management and mobile messaging app for mobile-only users. Today, we’re sharing some of our learnings about managing and scaling an enterprise grade productivity app resulting from the increased usage related to working from home.\n\n"
+    publishedDateTime: 2020-09-30T10:00:20Z
+    webUrl: "https://azure.microsoft.com/blog/scaling-microsoft-kaizala-on-azure/"
     type: article
     provider:
       name: Microsoft
@@ -1601,6 +1601,6 @@ related:
         height: 450
         isCached: true
 
-secured: "F9laXvC9S6nNCkUWbEtOVcdhOVu+3EmZgIbd70JUm2TSeUGpW8WQ3gxSr4Zv2LSj2WTIzXlZu0GHPeTIp4DKrGNMOZJqfTHXc7pXzlYiWYtTrZn3d/b31fxHwSd9lCqMyuxZOkwIkPA+eZhJ6m6X/De7q9qP7KT/SQuRBAUQnHFFX0J0heKGlVp5fODniMVdhrTVrQZS42gENOBin1P01UaRcHPMjq1+LNwbFgkU+oy0ZnuHD+ipGB8r46FK1PvQVlDzp7ovOFN5hVyp8ZPshj5SN8Vdf37QSmbRfzsZz3ET1fggHpWW0ZMgI9W3Q4rMWCCLEl0cv90+8rxagn5qfT7ctthHqEcG0TXGFDpLVW0=;04w0XxDdKD1uGUTtsW2XkQ=="
+secured: "O2HHYST850B0FGw2Av9hGBUqnqoVcnWA8Kgpob4pSNtF/DAFAP1f67BtVq+VmRrj3i/23JobZ2Vg4GAm/U7jFK5Ua9dKyQbNdIixLhXMS1SrUnykPbBVU5I9q2p/61K47ux61luuwwBm/tf1JbP+fqY/RrdEwltQOVdD5H1XpFr258VUC+xMwwH34+bK9ayplx1AntK2TQV4/hO62UlNqT5bIiGNCVFBx9h+0TMuJl6MrcW4+KBg7HyUV7xpcuaSFXbztbdt7ytupbfItf/HRNLCYQj0Llh0txZjQSvAJcfl8nDTIBG3IgwNpumW1QEvblk14cn5ublYKi3SY0qAzJ4JoA4e1xsFGCpx4oWjuYg=;TNCdGyoyrstqfj/bKaGqKw=="
 ---
 
