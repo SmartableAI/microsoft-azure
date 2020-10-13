@@ -4,15 +4,15 @@
   "page": 1,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-responsible-conversational-ai.md",
-      "title": "Discover Microsoft guidelines for responsible conversational AI development",
-      "excerpt": "Learn Microsoft guidelines for the development of responsible conversational AI, such as chat bots and voice-controlled systems.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-responsible-conversational-ai/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/responsible-conversational-ai/",
-      "length": "PT39M",
+      "path": "_learning/courses/microsoft-learn-recognize-synthesize-speech.md",
+      "title": "Recognize and synthesize speech",
+      "excerpt": "Learn how to recognize and synthesize speech by using Azure Cognitive Services.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-recognize-synthesize-speech/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/recognize-synthesize-speech/",
+      "length": "PT29M",
       "ratings": {
-        "count": 14,
-        "average": 4.714286
+        "count": 248,
+        "average": 4.830645
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -27,14 +27,23 @@
         ]
       },
       "levels": [
-        "Beginner"
+        "Intermediate"
       ],
-      "heat": 130,
+      "heat": 131,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/convert-speech-to-text-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
       "type": "course",
       "price": "Free",
       "topics": [
         "Azure",
-        "AI"
+        "AI",
+        "Developer Tools"
       ]
     },
     {
@@ -415,7 +424,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 51,
+          "heat": 131,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/convert-speech-to-text-social.png",
@@ -519,7 +528,7 @@
         }
       ],
       "size": 4,
-      "heat": 63,
+      "heat": 66,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/convert-speech-to-text-social.png",
@@ -814,8 +823,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/intro-to-azure-fundamentals/",
           "length": "PT36M",
           "ratings": {
-            "count": 485,
-            "average": 4.746392
+            "count": 487,
+            "average": 4.747433
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2503,8 +2512,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/intro-to-azure-fundamentals/",
           "length": "PT36M",
           "ratings": {
-            "count": 485,
-            "average": 4.746392
+            "count": 487,
+            "average": 4.747433
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3000,8 +3009,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/read-write-data-azure-databricks/",
           "length": "PT60M",
           "ratings": {
-            "count": 198,
-            "average": 4.5353537
+            "count": 199,
+            "average": 4.5376883
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3632,8 +3641,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/read-write-data-azure-databricks/",
           "length": "PT60M",
           "ratings": {
-            "count": 198,
-            "average": 4.5353537
+            "count": 199,
+            "average": 4.5376883
           },
           "provider": {
             "name": "Microsoft Learn",
