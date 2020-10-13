@@ -2,7 +2,7 @@
 title: "Azure Tips and Tricks"
 excerpt: ""
 type: collection
-heat: 61
+heat: 102
 
 provider:
   name: Microsoft
@@ -13,6 +13,7 @@ provider:
       height: 50
 
 items:
+  - videos/microsoft-5-things-you-didnt-know-about-azure-app-service-azure-tips-and-tricks
   - videos/microsoft-how-to-secure-a-blazor-application-with-azure-active-directory-azure-tips-and-tricks
   - videos/microsoft-how-to-add-azure-feature-flags-to-angular-projects-azure-tips-and-tricks
   - videos/microsoft-how-to-configure-advanced-threat-protection-in-azure-sql-database-azure-tips-and-tricks
@@ -151,7 +152,7 @@ topics:
   - Azure
 
 images:
-  - url: https://i.ytimg.com/vi/uKz3fPuhk4E/maxresdefault.jpg
+  - url: https://i.ytimg.com/vi/2CLcw-PXXa4/maxresdefault.jpg
     width: 1280
     height: 720
     isCached: true
