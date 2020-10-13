@@ -119,11 +119,11 @@ related:
         height: 683
         isCached: true
   - title: "Microsoft Azure for Operators is a cloud platform for telcos"
-    excerpt: "Microsoft’s push into the telecoms market continues with the launch of a dedicated suite of cloud services called ‘Azure for Operators’, hoping to capitalise on increased demand from telcos in the 5G era."
-    publishedDateTime: 2020-09-29T10:58:00Z
-    webUrl: "https://www.techradar.com/au/news/microsoft-azure-for-operators-is-a-cloud-platform-for-telcos"
-    ampWebUrl: "https://www.techradar.com/au/amp/news/microsoft-azure-for-operators-is-a-cloud-platform-for-telcos"
-    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/au/amp/news/microsoft-azure-for-operators-is-a-cloud-platform-for-telcos"
+    excerpt: "Microsoft’s push into the telecoms market continues with the launch of a dedicated suite of cloud services called ‘Azure for Operators’, hoping to capitalise on increased demand from telcos ..."
+    publishedDateTime: 2020-09-29T15:13:00Z
+    webUrl: "https://www.techradar.com/news/microsoft-azure-for-operators-is-a-cloud-platform-for-telcos"
+    ampWebUrl: "https://www.techradar.com/amp/news/microsoft-azure-for-operators-is-a-cloud-platform-for-telcos"
+    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/microsoft-azure-for-operators-is-a-cloud-platform-for-telcos"
     type: article
     provider:
       name: TechRadar
@@ -1055,6 +1055,20 @@ related:
       - url: "https://mma.prnewswire.com/media/324010/dh2i_logo.jpg?p=facebook"
         width: 1400
         height: 732
+        isCached: true
+  - title: "FanPlayIoT redefines sports engagement with Microsoft Azure"
+    excerpt: "New Delhi, September 25, 2020: Sports IoT platform FanPlay IoT is using Microsoft Azure to drive innovative engagement experiences for fitness and sports enthusiasts. Through the integration of advanced wearable technologies with deep analytics and cloud ..."
+    publishedDateTime: 2020-09-28T10:11:00Z
+    webUrl: "https://news.microsoft.com/en-in/fanplayiot-redefines-sports-engagement-microsoft-azure/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 37
+    images:
+      - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/45/2020/09/fanplay-iot-logo-edited-768x314.jpg"
+        width: 768
+        height: 314
         isCached: true
   - title: "Microsoft enters 5G race with Azure cloud for telecom operators"
     excerpt: "Microsoft unveiled a new cloud platform on Monday aimed at enabling telecom operators to build 5G networks faster, reduce costs and sell customised services to business clients."

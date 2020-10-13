@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-30T17:00:17Z
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-monitor-community-repository-is-now-available-2/"
 type: article
 quality: 37
-heat: 57
+heat: 37
 published: false
 
 provider:

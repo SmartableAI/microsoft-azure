@@ -203,6 +203,20 @@ related:
         height: 627
         isCached: true
   - title: "DataWeave Now Available in the Microsoft Azure Marketplace"
+    excerpt: "DataWeave, a digital commerce analytics platform, today announced the availability of DataWeave competitive intelligence as a service in"
+    publishedDateTime: 2020-10-08T16:30:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/dataweave-now-available-in-the-microsoft-azure-marketplace-301148597.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 37
+    images:
+      - url: "https://mma.prnewswire.com/media/486774/DataWeave_Logo.jpg?p=facebook"
+        width: 2000
+        height: 1046
+        isCached: true
+  - title: "DataWeave Now Available in the Microsoft Azure Marketplace"
     excerpt: "DataWeave, a digital commerce analytics platform, today announced the availability of DataWeave competitive intelligence as a service in the Microsoft Azure Marketplace, an"
     publishedDateTime: 2020-10-08T17:01:00Z
     webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/dataweave-now-available-in-the-microsoft-azure-marketplace/article_351680aa-0a5c-5de1-9a43-21eae695da25.html"

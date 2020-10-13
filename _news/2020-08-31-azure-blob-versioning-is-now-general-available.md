@@ -41,6 +41,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 99
+  - title: "Azure Blob storage point-in-time restore now generally available"
+    excerpt: "Azure Blob storage point-in-time restore provides continuous data protection and restoration capabilities for block blob data. This extends protection features to provide an easy way to restore to a previous date/time"
+    publishedDateTime: 2020-09-23T23:21:14Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-blob-storage-pointintime-restore-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 99
   - title: "Connector for AWS in Azure Cost Management + Billing is now generally available"
     excerpt: "The connector for AWS that helps you manage Azure and AWS costs from a single location is now generally available."
     publishedDateTime: 2020-09-02T08:00:01Z
@@ -86,15 +95,6 @@ related:
     excerpt: "The new lineup of rugged edge devices are now generally available. Azure Stack Edge Mini R is a lightweight, portable, battery-operated device - small enough to fit into a backpack - designed for the harshest environments and disconnected scenarios. "
     publishedDateTime: 2020-09-22T16:05:24Z
     webUrl: "https://azure.microsoft.com/en-us/updates/azure-stack-edge-mini-r-is-now-generally-available/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 67
-  - title: "Azure Blob storage point-in-time restore now generally available"
-    excerpt: "Azure Blob storage point-in-time restore provides continuous data protection and restoration capabilities for block blob data. This extends protection features to provide an easy way to restore to a previous date/time"
-    publishedDateTime: 2020-09-23T23:21:14Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-blob-storage-pointintime-restore-now-generally-available/"
     type: article
     provider:
       name: Microsoft
