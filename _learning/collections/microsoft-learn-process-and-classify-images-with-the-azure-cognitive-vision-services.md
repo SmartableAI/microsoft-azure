@@ -1,10 +1,10 @@
 ---
-title: "Process and classify images with the Azure Cognitive Vision Services"
-excerpt: "Microsoft Cognitive Services offers pre-built functionality to enable computer vision functionality in your applications.  Learn how to use the Cognitive Vision Services to detect faces, tag and classify images, and identify objects"
+title: "Process and classify images with the Azure cognitive vision services"
+excerpt: "Process and classify images with the Azure cognitive vision services"
 type: collection
 price: Free
-length: PT2H42M
-heat: 50
+length: PT3H15M
+heat: 60
 
 provider:
   name: Microsoft Learn
@@ -15,16 +15,16 @@ provider:
       height: 50
 
 levels:
-  - Beginner
+  - Intermediate
 
 items:
   - courses/microsoft-learn-identify-faces-with-computer-vision
   - courses/microsoft-learn-create-computer-vision-service
   - courses/microsoft-learn-classify-images-with-custom-vision-services
+  - courses/microsoft-learn-extract-insights-from-videos-with-video-indexer-service
 
 topics:
   - Azure
-  - Management Tools
   - AI
 
 images:
@@ -33,6 +33,6 @@ images:
     height: 400
     isCached: true
 
-secured: "MQgh/gKfM+QMU9/XaDwBMocYrcu9ZQj9sEPYs4hHrGhT9jG46OzPvVUlsEld28C3+8hA1nIUX+aU2NqOVi7zS7P1GSaHN9TvD6cKbog5oc9+pJ4avNnSuqPmblw0MIu61uK1iYylk4O2WGovgv3dVLwwzp1Jd7H7MbHuQT4kTbfp/b9WbacyrYIyneutn7I9dBqcy/ZvRVBNp60H/O5/CGOl8qut1J88vK0PgEglK1V/9vqt3OxJ5Ehil0WaFpedL//iZ0gqs3wnlBEEvrdMcza6LnmSiRGCdGZCzXCO2mtkYXSxqvk9FEbIgbwEKMtN9cTkw2LVlmtk8MwnJO/XLXiXVgyXGsdNUiNqmJPAZPk=;FuZ7MZS+YgnTQPahH5Hh5A=="
+secured: "77UIYULKyHAQF2JjeFcYpP3/eHkYmJWniefakK5oxccW8Py7xCFVumW98DZQ6OhFAiplm//IsdfIq1aoXuKNXPNy1k9MXyJMhzxvdmHc8SWsBpsuMH3DffbWB+8fX4GwHGnNXpD/Uaaf2ULTrpeos/HLJ2nZQonilGz/Venm4BuTxPnsZFQB2x2s3kQZOj+SK1drlnVPohwWP9Umz7PXA/0vU3DofbiWGp1TTJmkEAKoQySUPRpBhE8O3bvFm+dTwT+JsU6N4A0jnNffTbNBR4jkTwhl4IbMexJKTCAos3deLKAj12ghcOzL5D4cwstSTYFPZewo8M/LmOTd0SgZWMXIJB+GQR8G7fLTLGkZEhI=;u8zws7aLj9CgsLgOE7imzg=="
 ---
 

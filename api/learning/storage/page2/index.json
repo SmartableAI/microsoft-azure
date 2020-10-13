@@ -4,48 +4,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-explore-data-storage-processing-azure.md",
-      "title": "Explore data storage and processing in Azure",
-      "excerpt": "Explore data storage and processing in Azure",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-explore-data-storage-processing-azure/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/explore-data-storage-processing-azure/",
-      "length": "PT24M",
-      "ratings": {
-        "count": 233,
-        "average": 4.6523604
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 55,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/explore-data-storage-processing-azure-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Storage"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-store-app-data-with-azure-blob-storage.md",
       "title": "Store application data with Azure Blob storage",
       "excerpt": "Discover how to build an app that stores user files with Azure Blob storage, use Blob storage in a web app, and use the Azure Storage SDK for .NET Core.",
@@ -53,8 +11,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/store-app-data-with-azure-blob-storage/",
       "length": "PT50M",
       "ratings": {
-        "count": 2924,
-        "average": 4.5776334
+        "count": 2925,
+        "average": 4.577778
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -87,8 +45,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/survey-the-azure-data-platform/",
       "length": "PT58M",
       "ratings": {
-        "count": 4402,
-        "average": 4.6880965
+        "count": 4403,
+        "average": 4.68794
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -122,6 +80,44 @@
       ]
     },
     {
+      "path": "_learning/videos/microsoft-how-to-host-a-static-website-with-azure-storage-azure-tips-and-tricks.md",
+      "title": "How to host a static website with Azure Storage | Azure Tips and Tricks",
+      "excerpt": "In this edition of Azure Tips and Tricks, learn how you can host a static website running in Azure Storage in a few steps.     For more tips and tricks, visit: http://azuredev.tips     Get started with 12 months of free services and $200 USD in credit. Create your free account today with Microsoft Azure:",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-how-to-host-a-static-website-with-azure-storage-azure-tips-and-tricks/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-how-to-host-a-static-website-with-azure-storage-azure-tips-and-tricks/",
+      "originalUrl": "https://youtube.com/watch?v=gYpNC_tdbQQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/gYpNC_tdbQQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT2M51S",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2019-04-02T08:44:54-07:00",
+      "heat": 55,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/gYpNC_tdbQQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Storage"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-azure-database-fundamentals.md",
       "title": "Explore Azure database and analytics services",
       "excerpt": "Learn about the database services that are available on Microsoft Azure, such as Azure Cosmos DB, Azure SQL, Azure Database for MySQL, Azure Database for PostgreSQL, as well as big data and analytics.",
@@ -129,8 +125,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/azure-database-fundamentals/",
       "length": "PT39M",
       "ratings": {
-        "count": 98,
-        "average": 4.6836734
+        "count": 99,
+        "average": 4.6868687
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -199,6 +195,44 @@
         "Azure",
         "Storage",
         "Management Tools"
+      ]
+    },
+    {
+      "path": "_learning/videos/microsoft-azure-data-lake-storage-gen2-overview-azure-friday.md",
+      "title": "Azure Data Lake Storage Gen2 overview | Azure Friday",
+      "excerpt": "James Baker joins Lara Rubbelke to introduce Azure Data Lake Storage Gen2, which is redefining cloud storage for big data analytics due to multi-modal (object store and file system) access and combining the best qualities of a dedicated analytics file system with those of a cloud-scale object store.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-azure-data-lake-storage-gen2-overview-azure-friday/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-azure-data-lake-storage-gen2-overview-azure-friday/",
+      "originalUrl": "https://youtube.com/watch?v=McJj_N-pjgI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/McJj_N-pjgI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT17M32S",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2018-08-14T14:03:38-07:00",
+      "heat": 54,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/McJj_N-pjgI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Storage"
       ]
     },
     {
@@ -807,8 +841,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/secure-your-azure-virtual-machine-disks/",
       "length": "PT1H1M",
       "ratings": {
-        "count": 2573,
-        "average": 4.656432
+        "count": 2574,
+        "average": 4.6565657
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -879,44 +913,6 @@
       ]
     },
     {
-      "path": "_learning/videos/microsoft-azure-data-lake-storage-gen2-overview-azure-friday.md",
-      "title": "Azure Data Lake Storage Gen2 overview | Azure Friday",
-      "excerpt": "James Baker joins Lara Rubbelke to introduce Azure Data Lake Storage Gen2, which is redefining cloud storage for big data analytics due to multi-modal (object store and file system) access and combining the best qualities of a dedicated analytics file system with those of a cloud-scale object store.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-azure-data-lake-storage-gen2-overview-azure-friday/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-azure-data-lake-storage-gen2-overview-azure-friday/",
-      "originalUrl": "https://youtube.com/watch?v=McJj_N-pjgI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/McJj_N-pjgI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT17M32S",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2018-08-14T14:03:38-07:00",
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/McJj_N-pjgI/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Storage"
-      ]
-    },
-    {
       "path": "_learning/collections/microsoft-learn-implement-a-data-warehouse-with-azure-synapse-analytics.md",
       "title": "Implement a Data Warehouse with Azure Synapse Analytics",
       "excerpt": "Azure Synapse Analytics provides a relational big data store that can scale to Petabytes of data. In this learning path, you will learn how Azure Synapse Analytics can achieve this scale with its’ Massively Parallel Processing (MPP) architecture. Create a data warehouse in minutes and use familiar querying language to build reports. Load massive amounts of data in minutes, and ensure that your data warehouse is secure.",
@@ -947,8 +943,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/design-azure-sql-data-warehouse/",
           "length": "PT47M",
           "ratings": {
-            "count": 2759,
-            "average": 4.5777454
+            "count": 2760,
+            "average": 4.577536
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1409,6 +1405,45 @@
       ]
     },
     {
+      "path": "_learning/videos/microsoft-how-to-enable-and-use-soft-delete-in-a-storage-account-azure-portal-series.md",
+      "title": "How to enable and use soft delete in a storage account | Azure Portal Series",
+      "excerpt": "In this video of the Azure Portal “How To” Series, you will learn how to enable and use soft delete in an Azure storage account.   Try out these features in the Azure portal: https://portal.azure.com   Keep connected on Twitter: https://twitter.com/AzurePortal    And make sure to keep an eye on our Azure",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-how-to-enable-and-use-soft-delete-in-a-storage-account-azure-portal-series/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-how-to-enable-and-use-soft-delete-in-a-storage-account-azure-portal-series/",
+      "originalUrl": "https://youtube.com/watch?v=sHyvplezaMU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/sHyvplezaMU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT4M28S",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2019-05-15T09:00:27-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/sHyvplezaMU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Management tools",
+        "Storage"
+      ]
+    },
+    {
       "path": "_learning/collections/microsoft-learn-build-the-intelligent-edge-with-azure-iot-edge.md",
       "title": "Build the intelligent edge with Azure IoT Edge",
       "excerpt": "Follow this learning path for a broad and compelling introduction to the fundamentals of building IoT solutions with Azure IoT.",
@@ -1759,41 +1794,6 @@
         "Azure",
         "Storage",
         "Containers"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-caching-and-performance-azure-storage-and-disks.md",
-      "title": "Caching and performance in Azure storage disks",
-      "excerpt": "Learn about Azure VM disk performance and how to enable caching to help optimize read and write access to storage.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-caching-and-performance-azure-storage-and-disks/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/caching-and-performance-azure-storage-and-disks/",
-      "length": "PT44M",
-      "ratings": {
-        "count": 1693,
-        "average": 4.68104
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Compute",
-        "Storage"
       ]
     }
   ],
