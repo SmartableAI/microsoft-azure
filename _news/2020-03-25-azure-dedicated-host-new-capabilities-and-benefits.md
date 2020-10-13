@@ -6,7 +6,7 @@ publishedDateTime: 2020-03-25T12:00:13Z
 webUrl: "https://azure.microsoft.com/blog/azure-dedicated-host-new-capabilities-and-benefits/"
 type: article
 quality: 39
-heat: 59
+heat: 39
 published: false
 
 provider:
