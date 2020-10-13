@@ -1,7 +1,7 @@
 ---
 title: "Extract insights from videos with the Video Indexer service"
 excerpt: "Learn how to use the Video Indexer API to upload, index, retrieve insights, and search for content in video files."
-webUrl: https://docs.microsoft.com/learn/wwwl-data-ai/extract-insights-from-videos-with-video-indexer-service/
+webUrl: https://docs.microsoft.com/learn/modules/extract-insights-from-videos-with-video-indexer-service/
 type: course
 price: Free
 length: PT27M
@@ -31,6 +31,6 @@ images:
     height: 320
     isCached: true
 
-secured: "HYu4BoCXV8vJZZbBcE0UQ7jYuJ/Wiq2h/MHU5rzkNvJeLs1xp2jgRbVKW/WMTFQgI8JEeNjbPRb9hkSBt+ThQBiRmZZob/AQUmV6C5WPAvljctwkQF+99lR71+RB3YMQkgT1EJNpYJTxKRi0A0YCwGYOSutY5veLb37B8jnUr/vMF77m8lYyny9/WWp9OTH7C63oJTVwD9dNIJsF+3qHiNGFfsnn99SayA0uFkGitmAEvF2XoFsBBy7xPPzfWZBAnfC7ML6D6jWzeW2Xnz1q1n0HBm7aTOI/tSXwgnpR1lH4fOW0Rz3yv4SbMQT/++TEqvEtpmP8WMAS3D4lx1OYIcyKhvawyAiLQ/llPthLv2c9IgjQgd9YoilWonOOWPzdlSYdaNk/FvNN+db6BHfaHPMsTfWV3nfmNryyEqnPmkk=;uVXkwSa3wDN0Mmz8Aa2tHQ=="
+secured: "I+brIBB8Ii2A+6umk0K7qVcxQFG6J4RQpNWUqQbnatO1FkwvlagboSCh/8RVE5R0pM9EiVcUlU6CAjVmzwSQN4sB8HzcceGzO+IyZv6gURKQxhq0wTnz9W6EnZg8Ikh9839Hc1Catqw1Nm0RkUd1nZGZQ6Gus3+FawNcv+jZmCyzJEJQUg1JZmN5UbT6m03LE+DWmzkJfZPRiNzLUzObURol/powGG/uxIZkS1lZTFvgOsAk0TKPqqdc3S0vjE8QZ5LeGyWKx0NS/2CAC/J82sIqC8HF0/bnvCX5R/VxKTo1kGsw4dfa1+/EUrBirqCrdOwOVyB1uDFVwfva9B0DCDfZ+BBkjRdctQ1/q/fIlUcQOGUWd4XXFJwHkhyL2qu8Jq6IRzCjckWxueyuMOfhsg==;F6sFeQUN7WDNQ/mIGOVBlQ=="
 ---
 
