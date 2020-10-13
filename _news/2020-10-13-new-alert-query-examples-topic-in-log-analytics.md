@@ -1,13 +1,14 @@
 ---
 category: news
-title: "Log Analytics new System Center configuration blade"
-excerpt: "System center configuration now has it’s own dedicated blade in Log Analytics."
-publishedDateTime: 2020-08-13T16:00:06Z
-webUrl: "https://azure.microsoft.com/en-us/updates/log-analytics-new-system-center-configuration-blade/"
+title: "New alert query examples topic in Log Analytics"
+excerpt: "The logs experience was recently updated with examples queries for common log alerts."
+publishedDateTime: 2020-10-13T20:34:42Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/alert-examples-in-logs/"
+webUrl: "https://azure.microsoft.com/en-us/updates/alert-examples-in-logs/"
 type: article
-quality: 72
-heat: -1
-published: false
+quality: 89
+heat: 169
+published: true
 
 provider:
   name: Microsoft
@@ -19,28 +20,15 @@ provider:
 
 topics:
   - Azure
+  - Analytics
 
 images:
-  - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/ce2a1746-2cef-41f4-8393-5652bfd9083b.png"
-    width: 683
-    height: 264
+  - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/e5d2dc9a-2689-438b-829d-6c5106b14d71.gif"
+    width: 1907
+    height: 1019
     isCached: true
 
 related:
-  - title: "New alert query examples topic in Log Analytics"
-    excerpt: "The logs experience was recently updated with examples queries for common log alerts."
-    publishedDateTime: 2020-10-13T20:34:42Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/alert-examples-in-logs/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 89
-    images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/e5d2dc9a-2689-438b-829d-6c5106b14d71.gif"
-        width: 1907
-        height: 1019
-        isCached: true
   - title: "Line numbers in Log Analytics query editor"
     excerpt: "Log Analytics query editor now show line numbers when composing a query"
     publishedDateTime: 2020-08-13T16:00:06Z
@@ -54,6 +42,20 @@ related:
       - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/620becd2-4c6b-4d21-a07c-32d6f154cff7.png"
         width: 776
         height: 271
+        isCached: true
+  - title: "Log Analytics new System Center configuration blade"
+    excerpt: "System center configuration now has it’s own dedicated blade in Log Analytics."
+    publishedDateTime: 2020-08-13T16:00:06Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/log-analytics-new-system-center-configuration-blade/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 72
+    images:
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/ce2a1746-2cef-41f4-8393-5652bfd9083b.png"
+        width: 683
+        height: 264
         isCached: true
   - title: "Ingestion data isolation in Log Analytics"
     excerpt: "To provide you with additional service stability, we have added the ingestion volume rate limit to additional Log Analytics data sources including Diagnostic Settings, agents, and data collector API."
@@ -79,6 +81,6 @@ related:
         height: 557
         isCached: true
 
-secured: "iuYGYqx4WjnMujVUxkUT8SfCMCjOTJjnP2Po8UlsnS+oTI9PMwBu/IyKhzlaoZtjw0qjF4GfUEJb4yd/15u5WgXvduzlc8ZwiETAJK8Juip8B5R4rxfbJuJTSQ6PCbkzeVuq4aNz0UO8zJuNzW7foTZuo35Ci5se6FXm4Vwg9c2oQdbuujd26GIiyu6kgimuV8Cm2dg3oPXSohshXWT0EMkgYu7SdJhEZ48OR5cjUYftMC2TBIh90PssBzqBMLZ6/8Yz2XvNp386rQ3UHC+Ptn5VCY4qkhp23PYz+49CGtK+ABIEQiGhvBJwSd8z2fcE0ccYtQpsTSlwToQzWfH4LzamhWcVpqQ7cQbv5BhDrGs=;3u0spAVgwikJL4vtJKFfnQ=="
+secured: "6S4gN5NYea4JLp48oQNogvlYcapVabjkERbW8tgDFibdegDDvaEhh9s2DHy9QHPdgfUv5YCAH3/1ZU/HJ3VHAw0F/KxMKwwhSO66jq18juYicx/SKfnElJfQOvtTNG89uTTZIPCsZRAupEmubJCAj98LG63Ox4XliJGk+LPF/ckt6YFluDA/41JkkN5IiN3CAglUu9icEfFvXibfhBcaJOJYQZUFnv/4dxMPNM5+jHyv/Fc9jNE6nB3iKIgsaV0FgdX8fb3m+Jy9zeLWEC603h51/3jGHxmgR+UAK9KO6/19BXldyvCD9Bzg0YYiWA/9c5rDvzSxBsdRNoebmt7GySFm1F0bRoF3srmTPn1JMLo=;FuHXdwVzGvxN2Tj8R25giA=="
 ---
 

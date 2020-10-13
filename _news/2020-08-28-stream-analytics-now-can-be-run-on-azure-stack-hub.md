@@ -31,6 +31,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 69
+  - title: "New Azure IoT Central App Template - Video Analytics is now available"
+    excerpt: "Microsoft and Intel have collaborated to build end-to-end video analytics solutions using Azure IoT Central & Live Video Analytics. IoT Central application template is removing the complexity and challenges related to Video Analytics solution development and deployment."
+    publishedDateTime: 2020-08-19T16:00:39Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/new-azure-iot-central-app-template-video-analytics-is-now-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
   - title: "Azure Monitor Logs – Log Analytics REST APIs general availability"
     excerpt: "Log Analytics control plane REST APIs are generally available under a new consolidated version 2020-08-01."
     publishedDateTime: 2020-08-27T17:00:14Z
