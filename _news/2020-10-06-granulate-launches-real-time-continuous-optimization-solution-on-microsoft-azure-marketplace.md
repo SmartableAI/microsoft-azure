@@ -2,9 +2,9 @@
 category: news
 title: "Granulate Launches Real-time Continuous Optimization Solution On Microsoft Azure Marketplace"
 excerpt: "PRNewswire/ -- Granulate, the leading provider of real-time continuous optimization solutions for server workload performance, is proud to announce"
-publishedDateTime: 2020-10-06T13:20:00Z
-originalUrl: "https://www.prnewswire.com/il/news-releases/granulate-launches-real-time-continuous-optimization-solution-on-microsoft-azure-marketplace-301146545.html"
-webUrl: "https://www.prnewswire.com/il/news-releases/granulate-launches-real-time-continuous-optimization-solution-on-microsoft-azure-marketplace-301146545.html"
+publishedDateTime: 2020-10-06T13:00:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/granulate-launches-real-time-continuous-optimization-solution-on-microsoft-azure-marketplace-301146545.html"
+webUrl: "https://www.prnewswire.com/news-releases/granulate-launches-real-time-continuous-optimization-solution-on-microsoft-azure-marketplace-301146545.html"
 type: article
 quality: 26
 heat: -1
@@ -360,6 +360,6 @@ related:
       domain: helpnetsecurity.com
     quality: 1
 
-secured: "dOM2T1uqkfULy/dZKsurnUXqvRtd7goUr7gozuEstUspJY5P1qqKUJKeGO5exLbu24UNPwDFyjy1pQnHYRDpOSrmxV1pYQ4nn5KN6IF8N87gI6hKp8u7nT04aordLxhR09NUSKpTJwaTYIB4FlYpTGs/aWAUAIvLKSzxkhtCc0nNQu22Zs/OexvO0fWvZJ2i7mnB0pGmMn2gqTce6DJQPAJnuaKlw6WT7g/APuRIJWFzwX7PKJiCBJYJMmVyQGg6rIjmeVQelk5Uu+K5FZAwrFHCyH0qcMK5D7XR4cP5WTb/JtsksF/jibVdf4TP13uOIsngfAJjn3uquZd3gnkcuTD6la5YMIwilWwNKWp8OZQ=;Povn42vxsx9S1d5wedOxBw=="
+secured: "DLTfNsIRYT6MCJorzfsd8LdJKakjluSpqsfHVdkSmze6FQZeLsazZuboJ5mJtTlN9KznVOAG8vJBMYtuNbFkcWJK8iBL9tuEgavKGeF8iz85ecSyYnhKjs6/HyG+5U1/ekTGTHZIgFcLi83wOEqMgd6TnmBTFmIA9JBLDdNCPdewzLDyDoSYpT0QVCT0hiIiq+0kQGV0FTUwk9o8XPqNGafLhi2eXcAGMzxo+KRcUubRoq1IoAhHSUUuV7vSenibTA8YdeJnwCPTFfRawOoOU2/j7UPdWOdPBPg8oloBhaX3zcraJW9ePmthwyKcVrrQ/CeG0Ks612StR3Ogu4ggPTxLDIq5v7a3MXoUVHKL0ko=;RWowVbQEJQ0r3+qZUU/4hA=="
 ---
 
