@@ -4,40 +4,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-get-started-with-devops.md",
-      "title": "Get started with Azure DevOps",
-      "excerpt": "Explore Azure DevOps capabilities and get started setting up your own organization knowing what separates elite performers from low performers.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-get-started-with-devops/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/get-started-with-devops/",
-      "length": "PT25M",
-      "ratings": {
-        "count": 6979,
-        "average": 4.72188
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 133,
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "DevOps",
-        "Azure"
-      ]
-    },
-    {
       "path": "_learning/videos/microsoft-azure-load-balancer-insights-using-azure-monitor-for-networks-azure-friday.md",
       "title": "Azure Load Balancer insights using Azure Monitor for Networks | Azure Friday",
       "excerpt": "Erich Robinson-Tillenburg joins Scott Hanselman to demo and explain health monitoring and configuration analysis for Azure Load Balancer using Azure Monitor for Networks, a central hub that provides access to health and connectivity monitoring for all your network resources.  0:00 – Overview 1:16 – Load",
@@ -107,8 +73,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/control-and-organize-with-azure-resource-manager/",
           "length": "PT46M",
           "ratings": {
-            "count": 38697,
-            "average": 4.7135177
+            "count": 38704,
+            "average": 4.713518
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -141,8 +107,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/intro-to-governance/",
           "length": "PT46M",
           "ratings": {
-            "count": 38735,
-            "average": 4.6331224
+            "count": 38740,
+            "average": 4.633144
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -304,8 +270,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/intro-to-azure-virtual-machines/",
           "length": "PT1H7M",
           "ratings": {
-            "count": 14740,
-            "average": 4.6894846
+            "count": 14744,
+            "average": 4.6895685
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -373,8 +339,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/create-windows-virtual-machine-in-azure/",
           "length": "PT51M",
           "ratings": {
-            "count": 12777,
-            "average": 4.708852
+            "count": 12780,
+            "average": 4.70892
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -494,8 +460,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/introduce-foundation-pillars-devops/",
           "length": "PT25M",
           "ratings": {
-            "count": 2099,
-            "average": 4.64364
+            "count": 2101,
+            "average": 4.643979
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -630,195 +596,6 @@
       "price": "Free",
       "topics": [
         "Azure",
-        "DevOps"
-      ]
-    },
-    {
-      "path": "_learning/collections/microsoft-learn-evolve-your-devops-practices.md",
-      "title": "Evolve your DevOps practices",
-      "excerpt": "In this learning path, find out how Azure DevOps enables transparency and cooperation with continuous delivery and deployment for your development lifecycle.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-evolve-your-devops-practices/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-evolve-your-devops-practices/",
-      "length": "PT1H57M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "topItems": [
-        {
-          "path": "_learning/courses/microsoft-learn-assess-your-development-process.md",
-          "title": "Assess your existing software development process",
-          "excerpt": "Find out how to assess efficiency with a value stream map to help you examine your existing release processes and technologies.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-assess-your-development-process/index.json",
-          "webUrl": "https://docs.microsoft.com/learn/modules/assess-your-development-process/",
-          "length": "PT19M",
-          "ratings": {
-            "count": 6766,
-            "average": 4.7061777
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 56,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/azure-devops/assess-your-software-development-process-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "DevOps"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-get-started-with-devops.md",
-          "title": "Get started with Azure DevOps",
-          "excerpt": "Explore Azure DevOps capabilities and get started setting up your own organization knowing what separates elite performers from low performers.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-get-started-with-devops/index.json",
-          "webUrl": "https://docs.microsoft.com/learn/modules/get-started-with-devops/",
-          "length": "PT25M",
-          "ratings": {
-            "count": 6979,
-            "average": 4.72188
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 133,
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "DevOps",
-            "Azure"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-choose-an-agile-approach.md",
-          "title": "Choose an Agile approach to software development",
-          "excerpt": "Learn with the Space Game web team how to use Azure Boards to implement Agile software practices along with DevOps transparency and collaboration.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-choose-an-agile-approach/index.json",
-          "webUrl": "https://docs.microsoft.com/learn/modules/choose-an-agile-approach/",
-          "length": "PT40M",
-          "ratings": {
-            "count": 5292,
-            "average": 4.7433863
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 51,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/azure-devops/choose-an-agile-approach-to-software-development-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "DevOps"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-manage-delivery-plans.md",
-          "title": "Manage Agile software delivery plans across teams",
-          "excerpt": "Learn to optimize delivery efficiency by improving work plan visibility across teams.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-manage-delivery-plans/index.json",
-          "webUrl": "https://docs.microsoft.com/learn/modules/manage-delivery-plans/",
-          "length": "PT33M",
-          "ratings": {
-            "count": 2163,
-            "average": 4.7198334
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 52,
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "DevOps"
-          ]
-        }
-      ],
-      "size": 4,
-      "heat": 67,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/azure-devops/assess-your-software-development-process-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "type": "collection",
-      "price": "Free",
-      "topics": [
         "DevOps"
       ]
     },
@@ -1111,8 +888,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/control-and-organize-with-azure-resource-manager/",
           "length": "PT46M",
           "ratings": {
-            "count": 38697,
-            "average": 4.7135177
+            "count": 38704,
+            "average": 4.713518
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1489,8 +1266,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/intro-to-azure-ad/",
           "length": "PT27M",
           "ratings": {
-            "count": 1644,
-            "average": 4.6794405
+            "count": 1646,
+            "average": 4.67983
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1531,8 +1308,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/create-users-and-groups-in-azure-active-directory/",
           "length": "PT41M",
           "ratings": {
-            "count": 2774,
-            "average": 4.703677
+            "count": 2775,
+            "average": 4.703784
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1573,8 +1350,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/authenticate-apps-with-managed-identities/",
           "length": "PT1H6M",
           "ratings": {
-            "count": 133,
-            "average": 4.5263157
+            "count": 134,
+            "average": 4.529851
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1614,8 +1391,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/configure-and-manage-azure-key-vault/",
           "length": "PT29M",
           "ratings": {
-            "count": 1896,
-            "average": 4.6054854
+            "count": 1897,
+            "average": 4.6056933
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1872,6 +1649,195 @@
         "Management Tools",
         "Networking",
         "Compute"
+      ]
+    },
+    {
+      "path": "_learning/collections/microsoft-learn-evolve-your-devops-practices.md",
+      "title": "Evolve your DevOps practices",
+      "excerpt": "In this learning path, find out how Azure DevOps enables transparency and cooperation with continuous delivery and deployment for your development lifecycle.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-evolve-your-devops-practices/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-evolve-your-devops-practices/",
+      "length": "PT1H57M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-assess-your-development-process.md",
+          "title": "Assess your existing software development process",
+          "excerpt": "Find out how to assess efficiency with a value stream map to help you examine your existing release processes and technologies.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-assess-your-development-process/index.json",
+          "webUrl": "https://docs.microsoft.com/learn/modules/assess-your-development-process/",
+          "length": "PT19M",
+          "ratings": {
+            "count": 6766,
+            "average": 4.7061777
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 56,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/azure-devops/assess-your-software-development-process-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "DevOps"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-get-started-with-devops.md",
+          "title": "Get started with Azure DevOps",
+          "excerpt": "Explore Azure DevOps capabilities and get started setting up your own organization knowing what separates elite performers from low performers.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-get-started-with-devops/index.json",
+          "webUrl": "https://docs.microsoft.com/learn/modules/get-started-with-devops/",
+          "length": "PT25M",
+          "ratings": {
+            "count": 6979,
+            "average": 4.72188
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 53,
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "DevOps",
+            "Azure"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-choose-an-agile-approach.md",
+          "title": "Choose an Agile approach to software development",
+          "excerpt": "Learn with the Space Game web team how to use Azure Boards to implement Agile software practices along with DevOps transparency and collaboration.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-choose-an-agile-approach/index.json",
+          "webUrl": "https://docs.microsoft.com/learn/modules/choose-an-agile-approach/",
+          "length": "PT40M",
+          "ratings": {
+            "count": 5292,
+            "average": 4.7433863
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 51,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/azure-devops/choose-an-agile-approach-to-software-development-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "DevOps"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-manage-delivery-plans.md",
+          "title": "Manage Agile software delivery plans across teams",
+          "excerpt": "Learn to optimize delivery efficiency by improving work plan visibility across teams.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-manage-delivery-plans/index.json",
+          "webUrl": "https://docs.microsoft.com/learn/modules/manage-delivery-plans/",
+          "length": "PT33M",
+          "ratings": {
+            "count": 2166,
+            "average": 4.71976
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 52,
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "DevOps"
+          ]
+        }
+      ],
+      "size": 4,
+      "heat": 63,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/azure-devops/assess-your-software-development-process-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "DevOps"
       ]
     },
     {
@@ -2152,8 +2118,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/introduce-foundation-pillars-devops/",
           "length": "PT25M",
           "ratings": {
-            "count": 2099,
-            "average": 4.64364
+            "count": 2101,
+            "average": 4.643979
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2329,8 +2295,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/implement-code-workflow/",
           "length": "PT1H27M",
           "ratings": {
-            "count": 3522,
-            "average": 4.762919
+            "count": 3523,
+            "average": 4.762986
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2495,8 +2461,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/intro-to-azure-fundamentals/",
           "length": "PT36M",
           "ratings": {
-            "count": 497,
-            "average": 4.750503
+            "count": 504,
+            "average": 4.75
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3187,8 +3153,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/monitor-windows-server-iaas-virtual-machines-hybrid-instances/",
           "length": "PT46M",
           "ratings": {
-            "count": 20,
-            "average": 4.45
+            "count": 21,
+            "average": 4.4761906
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3621,8 +3587,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/monitor-windows-server-iaas-virtual-machines-hybrid-instances/",
           "length": "PT46M",
           "ratings": {
-            "count": 20,
-            "average": 4.45
+            "count": 21,
+            "average": 4.4761906
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3665,8 +3631,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/understand-windows-server-iaas-vm-cost-management/",
           "length": "PT38M",
           "ratings": {
-            "count": 9,
-            "average": 4.7777777
+            "count": 10,
+            "average": 4.8
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3805,8 +3771,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/introduce-foundation-pillars-devops/",
       "length": "PT25M",
       "ratings": {
-        "count": 2099,
-        "average": 4.64364
+        "count": 2101,
+        "average": 4.643979
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -4116,6 +4082,40 @@
       "topics": [
         "Azure",
         "DevOps"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-get-started-with-devops.md",
+      "title": "Get started with Azure DevOps",
+      "excerpt": "Explore Azure DevOps capabilities and get started setting up your own organization knowing what separates elite performers from low performers.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-get-started-with-devops/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/get-started-with-devops/",
+      "length": "PT25M",
+      "ratings": {
+        "count": 6979,
+        "average": 4.72188
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 53,
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "DevOps",
+        "Azure"
       ]
     },
     {

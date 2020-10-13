@@ -4,174 +4,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_learning/collections/microsoft-learn-migrating-cassandra-and-mongodb-workloads-to-cosmos-db.md",
-      "title": "Migrating Cassandra and MongoDB workloads to Cosmos DB",
-      "excerpt": "The focus of this learning path is to migrate MongoDB and Cassandra databases to Azure Cosmos DB.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-migrating-cassandra-and-mongodb-workloads-to-cosmos-db/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-migrating-cassandra-and-mongodb-workloads-to-cosmos-db/",
-      "length": "PT1H13M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "topItems": [
-        {
-          "path": "_learning/courses/microsoft-learn-introduction-open-source-database-migration-azure-cosmos-db.md",
-          "title": "Introduction to open source database migration to Azure Cosmos DB",
-          "excerpt": "An introduction to migrating an open-source database to Azure Cosmos DB",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-introduction-open-source-database-migration-azure-cosmos-db/index.json",
-          "webUrl": "https://docs.microsoft.com/learn/modules/introduction-open-source-database-migration-azure-cosmos-db/",
-          "length": "PT40M",
-          "ratings": {
-            "count": 64,
-            "average": 4.671875
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/Introduction-to-open-source-database-migration-to-Azure-Cosmos-DB-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Databases",
-            "Migration"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-migrate-cassandra-workloads-cosmos-db.md",
-          "title": "Migrate Cassandra workloads to Cosmos DB",
-          "excerpt": "Migrate Cassandra workloads to Cosmos DB",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-migrate-cassandra-workloads-cosmos-db/index.json",
-          "webUrl": "https://docs.microsoft.com/learn/modules/migrate-cassandra-workloads-cosmos-db/",
-          "length": "PT14M",
-          "ratings": {
-            "count": 43,
-            "average": 4.744186
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/migrate-cassandra-workloads-to-cosmos-db-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Databases"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-migrate-premises-mongodb-databases-azure-database-mongodb.md",
-          "title": "Migrate on-premises MongoDB databases to Cosmos DB",
-          "excerpt": "Migrate MongoDB workloads to Cosmos DB",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-migrate-premises-mongodb-databases-azure-database-mongodb/index.json",
-          "webUrl": "https://docs.microsoft.com/learn/modules/migrate-on-premises-mongodb-databases-azure-database-mongodb/",
-          "length": "PT19M",
-          "ratings": {
-            "count": 48,
-            "average": 4.75
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/migrate-on-premises-mongodb-databases-to-cosmos-db-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Databases"
-          ]
-        }
-      ],
-      "size": 3,
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/Introduction-to-open-source-database-migration-to-Azure-Cosmos-DB-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Databases"
-      ]
-    },
-    {
       "path": "_learning/collections/microsoft-learn-optimize-query-performance-in-sql-server.md",
       "title": "Optimize query performance in SQL Server",
       "excerpt": "Analyze individual query performance and determine where improvements can be made. Explore performance-related Dynamic Management Objects. Investigate how indexes and database design affect queries.",
@@ -453,8 +285,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/backup-restore-databases/",
           "length": "PT31M",
           "ratings": {
-            "count": 30,
-            "average": 4.733333
+            "count": 31,
+            "average": 4.7419353
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -559,8 +391,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/azure-database-fundamentals/",
       "length": "PT39M",
       "ratings": {
-        "count": 95,
-        "average": 4.673684
+        "count": 96,
+        "average": 4.6770835
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -865,8 +697,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/backup-restore-databases/",
       "length": "PT31M",
       "ratings": {
-        "count": 30,
-        "average": 4.733333
+        "count": 31,
+        "average": 4.7419353
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -950,8 +782,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/classify-user-feedback-with-the-text-analytics-api/",
       "length": "PT48M",
       "ratings": {
-        "count": 1453,
-        "average": 4.6235375
+        "count": 1454,
+        "average": 4.623109
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1200,8 +1032,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/describe-performance-monitoring/",
       "length": "PT42M",
       "ratings": {
-        "count": 543,
-        "average": 4.8268876
+        "count": 544,
+        "average": 4.8272057
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1462,8 +1294,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/explore-causes-performance-issues/",
       "length": "PT36M",
       "ratings": {
-        "count": 525,
-        "average": 4.8133335
+        "count": 526,
+        "average": 4.8136883
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1610,6 +1442,49 @@
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/Introduction-to-open-source-database-migration-to-Azure-Cosmos-DB-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Databases",
+        "Migration"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-introduction-open-source-database-migration-azure.md",
+      "title": "Introduction to open-source database migration on Azure",
+      "excerpt": "&quot;Introduction to open-source database migration on Azure&quot;",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-introduction-open-source-database-migration-azure/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/introduction-open-source-database-migration-azure/",
+      "length": "PT50M",
+      "ratings": {
+        "count": 142,
+        "average": 4.7394366
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/introduction-to-open-source-database-migration-on-azure-social.png",
           "width": 800,
           "height": 400,
           "isCached": true
