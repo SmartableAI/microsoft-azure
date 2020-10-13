@@ -6,7 +6,7 @@ publishedDateTime: 2020-09-23T23:21:14Z
 originalUrl: "https://azure.microsoft.com/en-us/updates/azure-blob-storage-pointintime-restore-now-generally-available/"
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-blob-storage-pointintime-restore-now-generally-available/"
 type: article
-quality: 67
+quality: 99
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - Azure
+  - Storage
 
 related:
   - title: "Azure Blob storage object replication is now generally available"
