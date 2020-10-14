@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/three-ways-serverless-apis-can-ac
 webUrl: "https://azure.microsoft.com/blog/three-ways-serverless-apis-can-accelerate-enterprise-innovation/"
 type: article
 quality: 93
-heat: 94
+heat: 93
 published: true
 
 provider:
