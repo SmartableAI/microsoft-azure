@@ -4,6 +4,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-fundamental-azure-concepts.md",
+      "title": "Discuss Azure fundamental concepts",
+      "excerpt": "Learn about the different types and categories of cloud computing.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-fundamental-azure-concepts/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/fundamental-azure-concepts/",
+      "length": "PT24M",
+      "ratings": {
+        "count": 222,
+        "average": 4.779279
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 69,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/fundamental-azure-concepts-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Compute",
+        "Serverless"
+      ]
+    },
+    {
       "path": "_learning/collections/microsoft-learn-implement-network-security-in-azure.md",
       "title": "Implement network security in Azure",
       "excerpt": "Learn how to configure, protect, and isolate your networks in Azure.",
@@ -35,8 +78,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/intro-to-security-in-azure/",
           "length": "PT1H16M",
           "ratings": {
-            "count": 45216,
-            "average": 4.7049937
+            "count": 45220,
+            "average": 4.7049537
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -148,8 +191,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/end-to-end-encryption-with-app-gateway/",
           "length": "PT1H17M",
           "ratings": {
-            "count": 748,
-            "average": 4.590909
+            "count": 749,
+            "average": 4.5914555
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -233,8 +276,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/intro-to-docker-containers/",
           "length": "PT32M",
           "ratings": {
-            "count": 3092,
-            "average": 4.629366
+            "count": 3093,
+            "average": 4.629486
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -309,8 +352,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/intro-to-azure-kubernetes-service/",
           "length": "PT25M",
           "ratings": {
-            "count": 3430,
-            "average": 4.6107874
+            "count": 3432,
+            "average": 4.610431
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -351,8 +394,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/aks-deploy-container-app/",
           "length": "PT1H4M",
           "ratings": {
-            "count": 58,
-            "average": 4.827586
+            "count": 59,
+            "average": 4.8305087
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -426,8 +469,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/intro-to-data-in-azure/",
           "length": "PT25M",
           "ratings": {
-            "count": 55346,
-            "average": 4.7342176
+            "count": 55351,
+            "average": 4.7342234
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -615,8 +658,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/resolve-threats-with-azure-security-center/",
           "length": "PT44M",
           "ratings": {
-            "count": 1060,
-            "average": 4.581132
+            "count": 1062,
+            "average": 4.581921
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -729,8 +772,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/secure-azure-resources-with-rbac/",
           "length": "PT37M",
           "ratings": {
-            "count": 5035,
-            "average": 4.655015
+            "count": 5037,
+            "average": 4.655152
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -851,8 +894,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/control-and-organize-with-azure-resource-manager/",
           "length": "PT46M",
           "ratings": {
-            "count": 38740,
-            "average": 4.713552
+            "count": 38746,
+            "average": 4.7135706
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1014,8 +1057,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/intro-to-security-in-azure/",
           "length": "PT1H16M",
           "ratings": {
-            "count": 45216,
-            "average": 4.7049937
+            "count": 45220,
+            "average": 4.7049537
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1133,8 +1176,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/resolve-threats-with-azure-security-center/",
           "length": "PT44M",
           "ratings": {
-            "count": 1060,
-            "average": 4.581132
+            "count": 1062,
+            "average": 4.581921
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1220,8 +1263,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/m365-identity-overview/",
           "length": "PT15M",
           "ratings": {
-            "count": 4732,
-            "average": 4.7637362
+            "count": 4733,
+            "average": 4.763575
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1262,8 +1305,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/m365-identity-provisioning/",
           "length": "PT46M",
           "ratings": {
-            "count": 2857,
-            "average": 4.7504377
+            "count": 2858,
+            "average": 4.750175
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1431,8 +1474,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/azure-well-architected-security/",
           "length": "PT1H2M",
           "ratings": {
-            "count": 2353,
-            "average": 4.711007
+            "count": 2354,
+            "average": 4.71113
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1474,8 +1517,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/top-5-security-items-to-consider/",
           "length": "PT45M",
           "ratings": {
-            "count": 6291,
-            "average": 4.6482277
+            "count": 6293,
+            "average": 4.6483393
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1881,8 +1924,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/run-docker-with-azure-container-instances/",
           "length": "PT48M",
           "ratings": {
-            "count": 5936,
-            "average": 4.7152963
+            "count": 5937,
+            "average": 4.7153444
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2147,8 +2190,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/azure-sql-performance/",
           "length": "PT1H24M",
           "ratings": {
-            "count": 54,
-            "average": 4.851852
+            "count": 55,
+            "average": 4.836364
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2230,8 +2273,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/assess-your-development-process/",
           "length": "PT19M",
           "ratings": {
-            "count": 6771,
-            "average": 4.7060995
+            "count": 6772,
+            "average": 4.706143
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2271,8 +2314,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/get-started-with-devops/",
           "length": "PT25M",
           "ratings": {
-            "count": 6984,
-            "average": 4.7219357
+            "count": 6985,
+            "average": 4.721976
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2305,8 +2348,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/choose-an-agile-approach/",
           "length": "PT40M",
           "ratings": {
-            "count": 5294,
-            "average": 4.7432942
+            "count": 5296,
+            "average": 4.743391
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2420,8 +2463,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/enable-digital-transformation/",
           "length": "PT32M",
           "ratings": {
-            "count": 8685,
-            "average": 4.6983304
+            "count": 8686,
+            "average": 4.698365
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2601,8 +2644,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/create-windows-virtual-machine-in-azure/",
       "length": "PT51M",
       "ratings": {
-        "count": 12797,
-        "average": 4.7090726
+        "count": 12800,
+        "average": 4.709141
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2684,8 +2727,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/secure-azure-resources-with-rbac/",
       "length": "PT37M",
       "ratings": {
-        "count": 5035,
-        "average": 4.655015
+        "count": 5037,
+        "average": 4.655152
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2777,8 +2820,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/design-ip-addressing-for-azure/",
           "length": "PT37M",
           "ratings": {
-            "count": 1285,
-            "average": 4.7276263
+            "count": 1286,
+            "average": 4.727838
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2861,8 +2904,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/integrate-vnets-with-vnet-peering/",
           "length": "PT42M",
           "ratings": {
-            "count": 2641,
-            "average": 4.7216964
+            "count": 2642,
+            "average": 4.7218018
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3031,8 +3074,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/analyze-infrastructure-with-azure-monitor-logs/",
           "length": "PT36M",
           "ratings": {
-            "count": 5177,
-            "average": 4.7326636
+            "count": 5178,
+            "average": 4.732715
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3073,8 +3116,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/incident-response-with-alerting-on-azure/",
           "length": "PT53M",
           "ratings": {
-            "count": 1739,
-            "average": 4.638873
+            "count": 1740,
+            "average": 4.6390805
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3194,8 +3237,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/incident-response-with-alerting-on-azure/",
           "length": "PT53M",
           "ratings": {
-            "count": 1739,
-            "average": 4.638873
+            "count": 1740,
+            "average": 4.6390805
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3364,8 +3407,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/intro-to-azure-fundamentals/",
           "length": "PT36M",
           "ratings": {
-            "count": 538,
-            "average": 4.7565055
+            "count": 541,
+            "average": 4.756007
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3584,8 +3627,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/azure-well-architected-introduction/",
           "length": "PT1H4M",
           "ratings": {
-            "count": 982,
-            "average": 4.732179
+            "count": 983,
+            "average": 4.732452
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3625,8 +3668,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/azure-well-architected-cost-optimization/",
           "length": "PT51M",
           "ratings": {
-            "count": 1010,
-            "average": 4.7069306
+            "count": 1011,
+            "average": 4.7072206
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3842,8 +3885,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/design-ip-addressing-for-azure/",
           "length": "PT37M",
           "ratings": {
-            "count": 1285,
-            "average": 4.7276263
+            "count": 1286,
+            "average": 4.727838
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3926,8 +3969,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/integrate-vnets-with-vnet-peering/",
           "length": "PT42M",
           "ratings": {
-            "count": 2641,
-            "average": 4.7216964
+            "count": 2642,
+            "average": 4.7218018
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4081,8 +4124,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/publish-azure-web-app-with-visual-studio/",
           "length": "PT48M",
           "ratings": {
-            "count": 2928,
-            "average": 4.6711063
+            "count": 2929,
+            "average": 4.6708775
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4242,8 +4285,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/prepare-onpremises-workloads-migration-azure/",
           "length": "PT35M",
           "ratings": {
-            "count": 129,
-            "average": 4.6899223
+            "count": 130,
+            "average": 4.6923075
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4486,8 +4529,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/analyze-infrastructure-with-azure-monitor-logs/",
           "length": "PT36M",
           "ratings": {
-            "count": 5177,
-            "average": 4.7326636
+            "count": 5178,
+            "average": 4.732715
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4528,8 +4571,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/incident-response-with-alerting-on-azure/",
           "length": "PT53M",
           "ratings": {
-            "count": 1739,
-            "average": 4.638873
+            "count": 1740,
+            "average": 4.6390805
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4651,8 +4694,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/choose-api-for-cosmos-db/",
           "length": "PT38M",
           "ratings": {
-            "count": 2097,
-            "average": 4.676681
+            "count": 2098,
+            "average": 4.676835
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4728,8 +4771,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/store-access-data-cosmos-graph-api/",
           "length": "PT42M",
           "ratings": {
-            "count": 1444,
-            "average": 4.643352
+            "count": 1445,
+            "average": 4.6435986
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4978,8 +5021,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/azure-architecture-fundamentals/",
       "length": "PT34M",
       "ratings": {
-        "count": 145,
-        "average": 4.8344827
+        "count": 147,
+        "average": 4.836735
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -5020,8 +5063,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/connect-on-premises-network-with-vpn-gateway/",
       "length": "PT39M",
       "ratings": {
-        "count": 5019,
-        "average": 4.6017137
+        "count": 5021,
+        "average": 4.601673
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -5052,220 +5095,6 @@
       "topics": [
         "Azure",
         "Networking"
-      ]
-    },
-    {
-      "path": "_learning/collections/microsoft-learn-architect-api-integration-in-azure.md",
-      "title": "Architect API integration in Azure",
-      "excerpt": "Learn how to architect API integration in Azure, and provide secure, scalable API access for your applications.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-architect-api-integration-in-azure/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-architect-api-integration-in-azure/",
-      "length": "PT3H44M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "topItems": [
-        {
-          "path": "_learning/courses/microsoft-learn-publish-manage-apis-with-azure-api-management.md",
-          "title": "Publish and manage your APIs with Azure API Management",
-          "excerpt": "Learn about using an Azure API gateway to share APIs with partners, and how to use subscription keys to control access to your APIs.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-publish-manage-apis-with-azure-api-management/index.json",
-          "webUrl": "https://docs.microsoft.com/learn/modules/publish-manage-apis-with-azure-api-management/",
-          "length": "PT38M",
-          "ratings": {
-            "count": 1158,
-            "average": 4.664076
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 51,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/publish-manage-apis-with-azure-api-management-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Integration",
-            "Web"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-improve-api-performance-with-apim-caching-policy.md",
-          "title": "Improve the performance of an API by adding a caching policy in Azure API Management",
-          "excerpt": "Learn how to use Azure API Management to change an API without rewriting code to enable you to apply a caching policy to a GET operation for quicker response.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-improve-api-performance-with-apim-caching-policy/index.json",
-          "webUrl": "https://docs.microsoft.com/learn/modules/improve-api-performance-with-apim-caching-policy/",
-          "length": "PT47M",
-          "ratings": {
-            "count": 683,
-            "average": 4.658858
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 51,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/improve-api-performance-with-apim-caching-policy-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Integration",
-            "Web"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-protect-apis-on-api-management.md",
-          "title": "Protect your APIs on Azure API Management",
-          "excerpt": "Protect your back-end APIs from information exposure and implement throttling to prevent resource exhaustion with policies in Azure API Management.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-protect-apis-on-api-management/index.json",
-          "webUrl": "https://docs.microsoft.com/learn/modules/protect-apis-on-api-management/",
-          "length": "PT43M",
-          "ratings": {
-            "count": 696,
-            "average": 4.718391
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 53,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/protect-apis-on-api-management-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Integration",
-            "Web"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-control-authentication-with-apim.md",
-          "title": "Control authentication for your APIs with Azure API Management",
-          "excerpt": "Discover how to protect your APIs from unauthorized use with API keys and client certificate authentication.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-control-authentication-with-apim/index.json",
-          "webUrl": "https://docs.microsoft.com/learn/modules/control-authentication-with-apim/",
-          "length": "PT55M",
-          "ratings": {
-            "count": 1582,
-            "average": 4.6340075
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 53,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/control-authentication-with-apim-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Integration",
-            "Web"
-          ]
-        }
-      ],
-      "size": 5,
-      "heat": 63,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/publish-manage-apis-with-azure-api-management-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Integration",
-        "Web"
       ]
     }
   ],
