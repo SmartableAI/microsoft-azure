@@ -4,6 +4,92 @@
   "page": 1,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-configure-infrastructure-azure-pipelines.md",
+      "title": "Configure infrastructure in Azure Pipelines",
+      "excerpt": "Run configuration management tools in Azure Pipelines to help keep your infrastructure configured as you need.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-configure-infrastructure-azure-pipelines/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/configure-infrastructure-azure-pipelines/",
+      "length": "PT1H2M",
+      "ratings": {
+        "count": 359,
+        "average": 4.5320334
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 130,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/azure-devops/configure-infrastructure-azure-pipelines-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "DevOps"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-implement-change-tracking-file-integrity-monitoring-for-windows-iaas-vms.md",
+      "title": "Implement change tracking and file integrity monitoring for Windows IaaS VMs",
+      "excerpt": "Implement change tracking and file integrity monitoring for Windows IaaS VMs",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-implement-change-tracking-file-integrity-monitoring-for-windows-iaas-vms/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/implement-change-tracking-file-integrity-monitoring/",
+      "length": "PT50M",
+      "ratings": {
+        "count": 15,
+        "average": 4.8
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 130,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/implement-change-tracking-and-file-integrity-monitoring-for-windows-iaas-vms-social.png",
+          "width": 642,
+          "height": 325,
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Management Tools",
+        "DevOps",
+        "Compute"
+      ]
+    },
+    {
       "path": "_learning/collections/microsoft-learn-architect-infrastructure-operations-in-azure.md",
       "title": "Architect infrastructure operations in Azure",
       "excerpt": "Learn how to monitor, analyze, and manage the ongoing operation of your infrastructure in Azure.",
@@ -34,8 +120,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/control-and-organize-with-azure-resource-manager/",
           "length": "PT46M",
           "ratings": {
-            "count": 38753,
-            "average": 4.7135963
+            "count": 38755,
+            "average": 4.7135596
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -68,8 +154,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/intro-to-governance/",
           "length": "PT46M",
           "ratings": {
-            "count": 38798,
-            "average": 4.6332803
+            "count": 38800,
+            "average": 4.633196
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -102,8 +188,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/design-monitoring-strategy-on-azure/",
           "length": "PT57M",
           "ratings": {
-            "count": 1436,
-            "average": 4.5779943
+            "count": 1437,
+            "average": 4.578288
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -270,8 +356,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/intro-to-azure-virtual-machines/",
           "length": "PT1H7M",
           "ratings": {
-            "count": 14781,
-            "average": 4.6896014
+            "count": 14783,
+            "average": 4.6895757
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -502,8 +588,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/create-users-and-groups-in-azure-active-directory/",
           "length": "PT41M",
           "ratings": {
-            "count": 2791,
-            "average": 4.7040486
+            "count": 2792,
+            "average": 4.7041545
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -673,8 +759,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/analyze-devops-continuous-planning-intergration/",
           "length": "PT22M",
           "ratings": {
-            "count": 1351,
-            "average": 4.700222
+            "count": 1352,
+            "average": 4.7004437
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -776,8 +862,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/explain-devops-continous-delivery-quality/",
           "length": "PT18M",
           "ratings": {
-            "count": 1054,
-            "average": 4.70778
+            "count": 1055,
+            "average": 4.707109
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -877,8 +963,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/define-foundation-pillars/",
           "length": "PT16M",
           "ratings": {
-            "count": 954,
-            "average": 4.7211742
+            "count": 956,
+            "average": 4.7217574
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -911,8 +997,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/analyze-devops-continuous-planning-intergration/",
           "length": "PT22M",
           "ratings": {
-            "count": 1351,
-            "average": 4.700222
+            "count": 1352,
+            "average": 4.7004437
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -946,8 +1032,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/explain-devops-continous-delivery-quality/",
           "length": "PT18M",
           "ratings": {
-            "count": 1054,
-            "average": 4.70778
+            "count": 1055,
+            "average": 4.707109
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1055,8 +1141,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/control-and-organize-with-azure-resource-manager/",
           "length": "PT46M",
           "ratings": {
-            "count": 38753,
-            "average": 4.7135963
+            "count": 38755,
+            "average": 4.7135596
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1089,8 +1175,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/intro-to-app-center/",
           "length": "PT49M",
           "ratings": {
-            "count": 317,
-            "average": 4.548896
+            "count": 318,
+            "average": 4.5503144
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1217,8 +1303,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/assess-your-development-process/",
           "length": "PT19M",
           "ratings": {
-            "count": 6773,
-            "average": 4.7061863
+            "count": 6774,
+            "average": 4.7062297
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1258,8 +1344,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/get-started-with-devops/",
           "length": "PT25M",
           "ratings": {
-            "count": 6986,
-            "average": 4.7220154
+            "count": 6988,
+            "average": 4.722095
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1292,8 +1378,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/choose-an-agile-approach/",
           "length": "PT40M",
           "ratings": {
-            "count": 5296,
-            "average": 4.743391
+            "count": 5297,
+            "average": 4.7434397
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1333,8 +1419,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/manage-delivery-plans/",
           "length": "PT33M",
           "ratings": {
-            "count": 2170,
-            "average": 4.7198157
+            "count": 2171,
+            "average": 4.719945
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1406,8 +1492,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/design-monitoring-strategy-on-azure/",
           "length": "PT57M",
           "ratings": {
-            "count": 1436,
-            "average": 4.5779943
+            "count": 1437,
+            "average": 4.578288
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1450,8 +1536,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/monitor-azure-vm-using-diagnostic-data/",
           "length": "PT43M",
           "ratings": {
-            "count": 909,
-            "average": 4.657866
+            "count": 910,
+            "average": 4.6582417
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1825,8 +1911,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/azure-well-architected-introduction/",
           "length": "PT1H4M",
           "ratings": {
-            "count": 988,
-            "average": 4.7338057
+            "count": 990,
+            "average": 4.7343435
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1866,8 +1952,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/azure-well-architected-cost-optimization/",
           "length": "PT51M",
           "ratings": {
-            "count": 1012,
-            "average": 4.70751
+            "count": 1014,
+            "average": 4.7071004
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2048,8 +2134,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/design-monitoring-strategy-on-azure/",
           "length": "PT57M",
           "ratings": {
-            "count": 1436,
-            "average": 4.5779943
+            "count": 1437,
+            "average": 4.578288
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2092,8 +2178,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/monitor-azure-vm-using-diagnostic-data/",
           "length": "PT43M",
           "ratings": {
-            "count": 909,
-            "average": 4.657866
+            "count": 910,
+            "average": 4.6582417
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2264,8 +2350,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/create-a-build-pipeline/",
           "length": "PT1H20M",
           "ratings": {
-            "count": 4827,
-            "average": 4.7424903
+            "count": 4828,
+            "average": 4.7425437
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2306,8 +2392,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/implement-code-workflow/",
           "length": "PT1H27M",
           "ratings": {
-            "count": 3525,
-            "average": 4.7631207
+            "count": 3527,
+            "average": 4.763255
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2506,8 +2592,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/intro-to-azure-fundamentals/",
           "length": "PT36M",
           "ratings": {
-            "count": 550,
-            "average": 4.7527275
+            "count": 555,
+            "average": 4.754955
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2722,8 +2808,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/create-a-build-pipeline/",
           "length": "PT1H20M",
           "ratings": {
-            "count": 4827,
-            "average": 4.7424903
+            "count": 4828,
+            "average": 4.7425437
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3367,8 +3453,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/create-release-pipeline/",
           "length": "PT1H4M",
           "ratings": {
-            "count": 1001,
-            "average": 4.6743255
+            "count": 1002,
+            "average": 4.6746507
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3771,8 +3857,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/analyze-devops-continuous-planning-intergration/",
       "length": "PT22M",
       "ratings": {
-        "count": 1351,
-        "average": 4.700222
+        "count": 1352,
+        "average": 4.7004437
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3806,8 +3892,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/define-foundation-pillars/",
       "length": "PT16M",
       "ratings": {
-        "count": 954,
-        "average": 4.7211742
+        "count": 956,
+        "average": 4.7217574
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3954,8 +4040,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/explain-devops-continous-delivery-quality/",
       "length": "PT18M",
       "ratings": {
-        "count": 1054,
-        "average": 4.70778
+        "count": 1055,
+        "average": 4.707109
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3988,8 +4074,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/manage-delivery-plans/",
       "length": "PT33M",
       "ratings": {
-        "count": 2170,
-        "average": 4.7198157
+        "count": 2171,
+        "average": 4.719945
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -4021,8 +4107,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/explore-devops-continuous-security-operations/",
       "length": "PT22M",
       "ratings": {
-        "count": 618,
-        "average": 4.6957927
+        "count": 619,
+        "average": 4.6962843
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -4045,78 +4131,6 @@
       "topics": [
         "Azure",
         "Security",
-        "DevOps"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-get-started-with-devops.md",
-      "title": "Get started with Azure DevOps",
-      "excerpt": "Explore Azure DevOps capabilities and get started setting up your own organization knowing what separates elite performers from low performers.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-get-started-with-devops/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/get-started-with-devops/",
-      "length": "PT25M",
-      "ratings": {
-        "count": 6986,
-        "average": 4.7220154
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 55,
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "DevOps",
-        "Azure"
-      ]
-    },
-    {
-      "path": "_learning/videos/microsoft-how-to-use-azure-monitor-application-insights-to-record-custom-events-azure-tips-and-tricks.md",
-      "title": "How to use Azure Monitor Application Insights to record custom events | Azure Tips and Tricks",
-      "excerpt": "In this edition of Azure Tips and Tricks, learn how to use Azure Monitor Application Insights to make your application logging smarter with Custom Event Tracking.   For more tips and tricks, visit: http://azuredev.tips     Get started with 12 months of free services and $200 USD in credit. Create your",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-how-to-use-azure-monitor-application-insights-to-record-custom-events-azure-tips-and-tricks/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-how-to-use-azure-monitor-application-insights-to-record-custom-events-azure-tips-and-tricks/",
-      "originalUrl": "https://youtube.com/watch?v=iTRILNstmFI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/iTRILNstmFI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT3M56S",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2019-03-19T08:12:44-07:00",
-      "heat": 55,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/iTRILNstmFI/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Azure",
         "DevOps"
       ]
     }
