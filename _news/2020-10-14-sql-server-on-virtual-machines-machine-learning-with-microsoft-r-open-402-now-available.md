@@ -8,6 +8,7 @@ webUrl: "https://azure.microsoft.com/en-us/updates/sql-server-on-virtual-machine
 type: article
 quality: 74
 heat: 74
+published: true
 
 provider:
   name: Microsoft

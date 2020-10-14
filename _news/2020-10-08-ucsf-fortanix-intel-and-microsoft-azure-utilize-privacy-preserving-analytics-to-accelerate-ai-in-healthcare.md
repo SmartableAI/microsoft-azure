@@ -26,6 +26,29 @@ images:
     isCached: true
 
 related:
+  - title: "Azure Monitor Log Analytics data export is in public preview"
+    excerpt: "You can now enable continuous data export from your Log Analytics workspaces to an Azure Storage Account or Azure Event Hubs."
+    publishedDateTime: 2020-10-14T16:00:18Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-monitor-log-analytics-data-export-is-in-public-preview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 121
+    images:
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/a2fdbe1c-7e34-4260-bcf5-0dd1d292edcd.png"
+        width: 956
+        height: 330
+        isCached: true
+  - title: "Dedicated clusters for Azure Monitor Log Analytics with data encryption at rest and Lockbox"
+    excerpt: "Handle large scale deployments better by taking advantage of data encryption at rest (with Customer Managed Keys) & Lockbox, and even configure cluster level capacity reservation with discounted pricing."
+    publishedDateTime: 2020-09-22T16:04:35Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/dedicated-clusters-for-azure-monitor-log-analytics-with-cmk-lockbox/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 91
   - title: "New alert query examples topic in Log Analytics"
     excerpt: "The logs experience was recently updated with examples queries for common log alerts."
     publishedDateTime: 2020-10-13T20:34:42Z
@@ -40,6 +63,15 @@ related:
         width: 1907
         height: 1019
         isCached: true
+  - title: "Announcing Azure Data Explorer data connector for Azure Synapse"
+    excerpt: "You can now use Azure Synapse Workspace to access your data in Azure Data Explorer using Apache Spark pool"
+    publishedDateTime: 2020-10-14T16:00:13Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/adx-synapse-connector/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
   - title: "Line numbers in Log Analytics query editor"
     excerpt: "Log Analytics query editor now show line numbers when composing a query"
     publishedDateTime: 2020-08-13T16:00:06Z
@@ -54,20 +86,15 @@ related:
         width: 776
         height: 271
         isCached: true
-  - title: "Log Analytics new System Center configuration blade"
-    excerpt: "System center configuration now has it’s own dedicated blade in Log Analytics."
-    publishedDateTime: 2020-08-13T16:00:06Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/log-analytics-new-system-center-configuration-blade/"
+  - title: "Azure Monitor Logs – Log Analytics REST APIs general availability"
+    excerpt: "Log Analytics control plane REST APIs are generally available under a new consolidated version 2020-08-01."
+    publishedDateTime: 2020-08-27T17:00:14Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-monitor-logs-log-analytics-rest-apis-general-availability/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 72
-    images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/ce2a1746-2cef-41f4-8393-5652bfd9083b.png"
-        width: 683
-        height: 264
-        isCached: true
+    quality: 67
   - title: "Ingestion data isolation in Log Analytics"
     excerpt: "To provide you with additional service stability, we have added the ingestion volume rate limit to additional Log Analytics data sources including Diagnostic Settings, agents, and data collector API."
     publishedDateTime: 2020-08-26T16:00:01Z
@@ -77,20 +104,47 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 52
-  - title: "Log Analytics New Query Experience - Example Queries"
-    excerpt: ""
-    publishedDateTime: 2020-05-26T20:00:06Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/log-analytics-new-query-experience-example-queries/"
+  - title: "Azure Monitor Log Analytics Quick Start content is moving to the Overview page"
+    excerpt: "In order to simplify and streamline Azure Monitor Logs, we're moving all links and content from the Quick Start page to the Overview page. The Quick Start page will be removed in August 2020."
+    publishedDateTime: 2020-07-30T16:00:01Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/log-analytics-quick-start-content-is-moving-to-the-overview-page/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 22
+    quality: 33
     images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/50a5d557-e0aa-4ca9-8bd6-b04d1d84c64b.png"
-        width: 1160
-        height: 557
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/b8e6e1fd-2a10-4f2e-9340-17ed9a7c5556.png"
+        width: 791
+        height: 371
         isCached: true
+  - title: "Azure Analytics Data Bricks Meters"
+    excerpt: "Effective September 1, 2020 Azure Analytics Data Bricks Meters will have a name change."
+    publishedDateTime: 2020-07-30T17:00:10Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-analytics-data-bricks-meters/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 17
+  - title: "Live Video Analytics now in public preview"
+    excerpt: "Live Video Analytics is a platform to capture, record, and analyze live video and publish the results (video and/or video analytics), enabling intelligent video applications."
+    publishedDateTime: 2020-06-11T20:00:11Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/live-video-analytics-now-in-public-preview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 2
+  - title: "Text Analytics for health is now available in preview"
+    excerpt: "The health feature of Text Analytics uses natural language processing techniques to find and label valuable information in unstructured clinical documents such as doctor’s notes, discharge summaries, clinical documents, and electronic health records."
+    publishedDateTime: 2020-07-08T16:00:19Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/the-health-feature-of-text-analytics-is-now-available-in-preview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 2
 
 secured: "T3Nm3Ig9T7mEPyXXCyjgbP+if/0CprXO9cKwm7FP3Z4NREz8WEbWUGVrdSqAKbU6mYmFpCmV4j/RG0uAUooU+1BXKha64v8JxsaSNMprhn8QGTTQ1gSQaqKkCAK3IoZxW29YHOpjnXKxluzMtzN5NqiV5mFWcgH+ZHsrA236NQKvH5l0ZDiR3XQfdEh/ArleOX8TWz+NAQmsz2BsZuDK6j0ao4ZrJyGce449N8/s7T/GtiKtUux22e6OSWntrf6qHBuvfLU7ojdeE0PwAm2hxbdhSJJh91Muj1UIlen+os7c0ai3Sx2h/cxHoJ6YebWFrgPeB3KPcu2n6pTJoxX98Q5/byREDMW/OwDkdfWdvgo=;NRekfOr+J/o0eYkOYxcbHA=="
 ---

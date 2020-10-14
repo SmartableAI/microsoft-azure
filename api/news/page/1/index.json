@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2020-10-13-new-alert-query-examples-topic-in-log-analytics.md",
-      "title": "New alert query examples topic in Log Analytics",
-      "excerpt": "The logs experience was recently updated with examples queries for common log alerts.",
+      "path": "_news/2020-10-14-azure-monitor-log-analytics-data-export-is-in-public-preview.md",
+      "title": "Azure Monitor Log Analytics data export is in public preview",
+      "excerpt": "You can now enable continuous data export from your Log Analytics workspaces to an Azure Storage Account or Azure Event Hubs.",
       "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/en-us/updates/alert-examples-in-logs/",
-      "originalUrl": "https://azure.microsoft.com/en-us/updates/alert-examples-in-logs/",
+      "webUrl": "https://azure.microsoft.com/en-us/updates/azure-monitor-log-analytics-data-export-is-in-public-preview/",
+      "originalUrl": "https://azure.microsoft.com/en-us/updates/azure-monitor-log-analytics-data-export-is-in-public-preview/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 189,
+      "heat": 341,
       "tags": null,
       "images": [
         {
-          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/e5d2dc9a-2689-438b-829d-6c5106b14d71.gif",
-          "width": 1907,
-          "height": 1019,
+          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/a2fdbe1c-7e34-4260-bcf5-0dd1d292edcd.png",
+          "width": 956,
+          "height": 330,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -26,7 +26,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-13T13:34:42-07:00",
+      "publishedDateTime": "2020-10-14T09:00:18-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",
@@ -50,7 +50,363 @@
       ],
       "topics": [
         "Azure",
+        "Analytics",
+        "DevOps"
+      ]
+    },
+    {
+      "path": "_news/2020-10-14-app-service-private-endpoints-now-generally-available.md",
+      "title": "App Service Private Endpoints now generally available",
+      "excerpt": "Secure your line of business applications with Private Endpoints",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/en-us/updates/app-service-private-endpoints-ga/",
+      "originalUrl": "https://azure.microsoft.com/en-us/updates/app-service-private-endpoints-ga/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-14T09:00:17-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure",
+        "Compute"
+      ]
+    },
+    {
+      "path": "_news/2020-10-14-azure-cognitive-services-has-achieved-human-parity-in-image-captioning.md",
+      "title": "Azure Cognitive Services has achieved human parity in image captioning",
+      "excerpt": "Computer Vision, part of Azure Cognitive Services, now offers an updated image captioning capability that has achieved human parity based on the Novel Object Captioning at Scale (NOCAPS) benchmark. ",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/en-us/updates/azure-cognitive-services-has-achieved-human-parity-in-image-captioning/",
+      "originalUrl": "https://azure.microsoft.com/en-us/updates/azure-cognitive-services-has-achieved-human-parity-in-image-captioning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-14T09:00:16-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-14-sql-server-on-virtual-machines-machine-learning-with-microsoft-r-open-402-now-available.md",
+      "title": "SQL Server on Virtual Machines: Machine Learning with Microsoft R Open 4.0.2 now available",
+      "excerpt": "The latest update for Microsoft R Open 4.0.2 (downloadable for Windows, Mac, and Linux platforms) includes improvement to the performance of the merge function and adds an option to better handle zero-length arguments to the paste and paste0 functions.",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/en-us/updates/sql-server-on-virtual-machines-machine-learning-with-microsoft-r-open-4-0-2-now-available/",
+      "originalUrl": "https://azure.microsoft.com/en-us/updates/sql-server-on-virtual-machines-machine-learning-with-microsoft-r-open-4-0-2-now-available/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-14T09:00:16-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-14-t-digest-extension-for-azure-database-for-postgresql-hyperscale-citus.md",
+      "title": "T-digest extension for Azure Database for PostgreSQL - Hyperscale (Citus)",
+      "excerpt": "Now in general availability, the algorithm used in the open source t-digest extension allows high performance percentile calculations on sizable distributed analytical workloads with improved accuracy.",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/en-us/updates/tdigest-extension-for-azure-database-for-postgresql-hyperscale-citus/",
+      "originalUrl": "https://azure.microsoft.com/en-us/updates/tdigest-extension-for-azure-database-for-postgresql-hyperscale-citus/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 138,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-14T09:00:16-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure",
+        "Databases"
+      ]
+    },
+    {
+      "path": "_news/2020-10-14-distributed-database-transactions-spanning-multiple-azure-sql-managed-instances.md",
+      "title": "Distributed database transactions spanning multiple Azure SQL Managed Instances",
+      "excerpt": "Utilize distributed transactions (now in preview) and save time when migrating existing applications that require this capability as it eliminates the need to change application code and to perform extensive testing. ",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/en-us/updates/distributed-database-transactions-spanning-multiple-azure-sql-managed-instances/",
+      "originalUrl": "https://azure.microsoft.com/en-us/updates/distributed-database-transactions-spanning-multiple-azure-sql-managed-instances/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-14T09:00:15-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure",
+        "Databases"
+      ]
+    },
+    {
+      "path": "_news/2020-10-14-zone-redundant-configuration-for-azure-sql-db-general-purpose-tier.md",
+      "title": "Zone redundant configuration for Azure SQL DB general purpose tier",
+      "excerpt": "Make your general purpose databases and elastic pools resilient to a much larger set of failures, including catastrophic datacenter outages, without any changes of the application logic by selecting zone redundancy.",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/en-us/updates/zone-redundant-configuration-for-azure-sql-db-general-purpose-tier/",
+      "originalUrl": "https://azure.microsoft.com/en-us/updates/zone-redundant-configuration-for-azure-sql-db-general-purpose-tier/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-14T09:00:14-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure",
+        "Databases"
+      ]
+    },
+    {
+      "path": "_news/2020-10-14-azure-synapse-link-for-azure-cosmos-db-sql-serverless-runtime-support-in-preview.md",
+      "title": "Azure Synapse Link for Azure Cosmos DB: SQL serverless runtime support in preview",
+      "excerpt": "Azure Synapse Link now offers preview support for querying Azure Cosmos DB data with Synapse SQL serverless.",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/en-us/updates/azure-synapse-link-for-azure-cosmos-db-sql-serverless-runtime-support-in-preview/",
+      "originalUrl": "https://azure.microsoft.com/en-us/updates/azure-synapse-link-for-azure-cosmos-db-sql-serverless-runtime-support-in-preview/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 193,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-14T09:00:13-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure",
+        "Serverless",
+        "Databases",
         "Analytics"
+      ]
+    },
+    {
+      "path": "_news/2020-10-14-azure-iot-central-new-and-updated-featuresseptember-2020.md",
+      "title": "Azure IoT Central new and updated features—September 2020",
+      "excerpt": "September updates include the data export feature, more jobs improvements, offline commands, new dashboard formatting capabilities, new Power Automate templates, and documentation enhancements.",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/en-us/updates/azure-iot-central-feature-updates-september-2020/",
+      "originalUrl": "https://azure.microsoft.com/en-us/updates/azure-iot-central-feature-updates-september-2020/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 184,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/2e4f169b-104a-43ce-8e07-a8b1b6917d3a.png",
+          "width": 626,
+          "height": 223,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-14T08:22:22-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure",
+        "IoT"
       ]
     },
     {
@@ -62,7 +418,7 @@
       "originalUrl": "https://azure.microsoft.com/en-us/updates/iot-edge1-0-10/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 125,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -94,6 +450,49 @@
       "topics": [
         "Azure",
         "IoT"
+      ]
+    },
+    {
+      "path": "_news/2020-10-13-azure-site-recovery-tls-certificate-changes.md",
+      "title": "Azure Site Recovery - TLS Certificate Changes",
+      "excerpt": "Assess and mitigate the impact of Azure TLS certificate updates on your Site Recovery environment",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/en-us/updates/site-recovery-tls-certificate-update/",
+      "originalUrl": "https://azure.microsoft.com/en-us/updates/site-recovery-tls-certificate-update/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-13T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure",
+        "Migration"
       ]
     },
     {
@@ -286,7 +685,7 @@
       "originalUrl": "https://azure.microsoft.com/blog/microsoft-is-a-leader-in-the-2020-gartner-magic-quadrant-for-full-life-cycle-api-management/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 121,
+      "heat": 141,
       "tags": null,
       "images": [
         {
@@ -426,60 +825,6 @@
       ]
     },
     {
-      "path": "_news/2020-10-07-three-ways-serverless-apis-can-accelerate-enterprise-innovation.md",
-      "title": "Three ways serverless APIs can accelerate enterprise innovation",
-      "excerpt": "With the wrong architecture, application programming interface (APIs) can be a bottleneck to not only your applications, but to your entire business. Bottlenecks such as downtime, low performance, or high application complexity, can result in exaggerated infrastructure and organizational costs as well",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/blog/three-ways-serverless-apis-can-accelerate-enterprise-innovation/",
-      "originalUrl": "https://azure.microsoft.com/blog/three-ways-serverless-apis-can-accelerate-enterprise-innovation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/44d54ad0-b506-4b3a-b93a-49911fd2ecb9.png",
-          "width": 1024,
-          "height": 459,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-07T03:00:15-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure",
-        "Integration",
-        "Web",
-        "Serverless"
-      ]
-    },
-    {
       "path": "_news/2020-10-07-optimize-your-azure-workloads-with-azure-advisor-score.md",
       "title": "Optimize your Azure workloads with Azure Advisor Score",
       "excerpt": "Modern engineering practices, like Agile and DevOps, are redirecting the ownership of security, operations, and cost management from centralized teams to workload owners—catalyzing innovations at a higher velocity than in traditional data centers.",
@@ -539,7 +884,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/quzara-cybertorch-adds-enhanced-security-operations-capabilities-through-azure-sentinel-for-the-microsoft-cloud-1029652288",
       "featuredContent": null,
       "highlight": null,
-      "heat": 133,
+      "heat": 153,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -633,7 +978,7 @@
       "originalUrl": "https://azure.microsoft.com/blog/iot-signals-research-edition-2-global-insights-for-2020-and-beyond/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 90,
       "tags": null,
       "images": [
         {
@@ -821,385 +1166,6 @@
       "topics": [
         "Azure",
         "Mobile"
-      ]
-    },
-    {
-      "path": "_news/2020-10-05-enabling-resilient-devops-practices-with-code-to-cloud-automation.md",
-      "title": "Enabling resilient DevOps practices with code to cloud automation",
-      "excerpt": "At Microsoft Ignite we announced new GitHub Actions for Azure, which we added to our growing catalogue of Azure and GitHub integrations, with more to come soon.",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/blog/enabling-resilient-devops-practices-with-code-to-cloud-automation/",
-      "originalUrl": "https://azure.microsoft.com/blog/enabling-resilient-devops-practices-with-code-to-cloud-automation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/385a8bf1-35dd-494e-af1b-eea7092fb5fa.png",
-          "width": 983,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-05T02:30:01-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure",
-        "DevOps"
-      ]
-    },
-    {
-      "path": "_news/2020-10-05-deliver-ai-powered-application-search-with-azure-cognitive-search-and-ba-insight.md",
-      "title": "Deliver AI-powered application search with Azure Cognitive Search and BA Insight",
-      "excerpt": "Data is growing exponentially, and over 80 percent of data is unstructured, creating a challenge for organizations to find and surface the right information to their customers. What organizations need is a solution that enables them to uncover latent insights from all their content by quickly identifying",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/blog/deliver-ai-powered-application-search-with-azure-cognitive-search-and-ba-insight/",
-      "originalUrl": "https://azure.microsoft.com/blog/deliver-ai-powered-application-search-with-azure-cognitive-search-and-ba-insight/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/3825d129-7b61-4af7-9e9e-6ea06c242b9c.png",
-          "width": 1024,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-05T01:30:01-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-05-azure-machine-learning-helps-customers-stay-ahead-of-challenges.md",
-      "title": "Azure Machine Learning helps customers stay ahead of challenges",
-      "excerpt": "Organizations today are striving to build agility and resilience to the fast-changing environment we live in. AI and machine learning innovation can help tackle these emerging challenges and enable cost efficiencies.",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/blog/azure-machine-learning-helps-customers-stay-ahead-of-challenges/",
-      "originalUrl": "https://azure.microsoft.com/blog/azure-machine-learning-helps-customers-stay-ahead-of-challenges/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/54a5211d-b1cd-4904-bdc7-275db6482b0f.png",
-          "width": 727,
-          "height": 341,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-05T01:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-02-reserved-capacity-on-azure-sql-database-hyperscale-is-now-available.md",
-      "title": "Reserved capacity on Azure SQL Database Hyperscale is now available",
-      "excerpt": "Obtain discounts on Azure SQL Database Hyperscale using reserved capacity.",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/en-us/updates/reserved-capacity-on-azure-sql-database-hyperscale-is-now-available/",
-      "originalUrl": "https://azure.microsoft.com/en-us/updates/reserved-capacity-on-azure-sql-database-hyperscale-is-now-available/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 214,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-02T09:00:23-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure",
-        "Databases"
-      ]
-    },
-    {
-      "path": "_news/2020-10-02-microsofts-azure-ad-authentication-outage-what-went-wrong.md",
-      "title": "Microsoft's Azure AD authentication outage: What went wrong",
-      "excerpt": "It's been a rough week for Microsoft users who have first- and third-party apps that rely on Azure Active Directory for authentication. Microsoft has published a root-cause analysis of its issues.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/microsofts-azure-ad-authentication-outage-what-went-wrong/",
-      "originalUrl": "https://www.zdnet.com/article/microsofts-azure-ad-authentication-outage-what-went-wrong/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 617,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet2.cbsistatic.com/hub/i/2020/10/01/2d8220eb-dff8-47d8-84b2-c696d04abbcc/azureadoutage.jpg",
-          "width": 1103,
-          "height": 765,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsofts-azure-ad-authentication-outage-what-went-wrong/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsofts-azure-ad-authentication-outage-what-went-wrong/",
-      "publishedDateTime": "2020-10-01T10:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_news/2020-10-01-raw-logs-and-metrics-are-generally-available-on-azure-content-delivery-network-cdn-from-microsoft-cdn.md",
-      "title": "Raw Logs and Metrics are generally available on Azure Content Delivery Network (CDN) from Microsoft CDN",
-      "excerpt": "New options for analytics on Azure CDN are now available to unblock more scenarios for you",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/en-us/updates/azure-content-delivery-network-cdn-from-microsoft-cdn-http-raw-logs-and-metrics-is-generally-available/",
-      "originalUrl": "https://azure.microsoft.com/en-us/updates/azure-content-delivery-network-cdn-from-microsoft-cdn-http-raw-logs-and-metrics-is-generally-available/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-01T09:35:31-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure",
-        "Networking"
-      ]
-    },
-    {
-      "path": "_news/2020-10-01-sycomp-launches-an-unmatched-cloud-data-experience-with-sycomp-storage-fueled-by-ibm-spectrum-scale-on-azure.md",
-      "title": "Sycomp launches an unmatched cloud data experience with Sycomp Storage Fueled by IBM Spectrum Scale on Azure",
-      "excerpt": "Sycomp today introduces the first IBM Spectrum Scale solution on Azure. Sycomp Storage Fueled by IBM Spectrum Scale, a new cloud storage solution now available on the Microsoft Azure Marketplace. Sycomp Storage Fueled by IBM Spectrum Scale enables organizations to utilize different storage tiers,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/sycomp-launches-an-unmatched-cloud-data-experience-with-sycomp-storage-fueled-by-ibm-spectrum-scale-on-azure-1029641066",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/sycomp-launches-an-unmatched-cloud-data-experience-with-sycomp-storage-fueled-by-ibm-spectrum-scale-on-azure-1029641066",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/sycomp-launches-an-unmatched-cloud-data-experience-with-sycomp-storage-fueled-by-ibm-spectrum-scale-on-azure-1029641066",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/sycomp-launches-an-unmatched-cloud-data-experience-with-sycomp-storage-fueled-by-ibm-spectrum-scale-on-azure-1029641066",
-      "publishedDateTime": "2020-10-01T08:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure",
-        "Storage"
-      ]
-    },
-    {
-      "path": "_news/2020-09-30-azure-devtest-labs-encrypt-os-disks-in-your-lab.md",
-      "title": "Azure DevTest Labs: Encrypt OS disks in your lab",
-      "excerpt": "Protect your labs data and data stored on managed disks while resting assured that you are hitting your organization's security and compliance benchmarks with Server-Side Encryption.",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/en-us/updates/azure-devtest-labs-encrypt-os-disks-in-your-lab/",
-      "originalUrl": "https://azure.microsoft.com/en-us/updates/azure-devtest-labs-encrypt-os-disks-in-your-lab/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-30T09:01:34-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure",
-        "DevOps"
       ]
     }
   ],

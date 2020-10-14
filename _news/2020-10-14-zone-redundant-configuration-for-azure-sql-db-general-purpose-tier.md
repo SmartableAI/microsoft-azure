@@ -8,6 +8,7 @@ webUrl: "https://azure.microsoft.com/en-us/updates/zone-redundant-configuration-
 type: article
 quality: 84
 heat: 84
+published: true
 
 provider:
   name: Microsoft

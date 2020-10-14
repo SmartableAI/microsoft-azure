@@ -8,6 +8,7 @@ webUrl: "https://azure.microsoft.com/en-us/updates/distributed-database-transact
 type: article
 quality: 95
 heat: 95
+published: true
 
 provider:
   name: Microsoft

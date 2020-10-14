@@ -6,6 +6,9 @@ publishedDateTime: 2020-10-14T18:25:51Z
 originalUrl: "https://azure.microsoft.com/en-us/updates/azure-sphere-update-2010-is-now-available-for-compatibility-testing/"
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-sphere-update-2010-is-now-available-for-compatibility-testing/"
 type: article
+quality: 67
+heat: -1
+published: false
 
 provider:
   name: Microsoft
@@ -17,6 +20,26 @@ provider:
 
 topics:
   - Azure
+
+related:
+  - title: "Azure IoT Edge 1.0.10 release is now available "
+    excerpt: "The Azure IoT Edge 1.0.10 release is available with support for diagnostic metrics, message priorities, module startup order, and arrays in twins. "
+    publishedDateTime: 2020-10-13T19:17:08Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/iot-edge1-0-10/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
+  - title: "New Azure IoT Central features are now available"
+    excerpt: ""
+    publishedDateTime: 2020-05-19T16:05:41Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/new-azure-iot-central-features-are-now-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 17
 
 secured: "6nn01mj5Lx2Jz0rSr1bkqdrXSjEhbzzScqnRj9icYIBMOdUQy/ybE0yzrwU/fxlYmdC4GaZjTBdXrbut0mw8REnxl/2xmGuNuKfK0LmJsqoI5ImwKAvIc5d1zSwZgB4ryqgw7N47yOWCiEuKQTz/n+UuUy1xiVla8fK5S5g6yhuGu20Aab07PeJZy9LUzzHxpDV1bTaM8sYacbnHofwTs4z2ys7p2jc40lzJ3wByo2rc72y93UGLfCbvwP4K9yJWv4kq2c8+jA/5Az8nuyo+xfS//SbHU0UHqu3NyD7UgjwTFExfEf9qcF7CHcrHPyVrFnj+GL8dDZBHAaMXTemlXxHBQ870zPsk7KwrjQWiOMc=;/XRBG+VQTqlbUyjUppGR8w=="
 ---

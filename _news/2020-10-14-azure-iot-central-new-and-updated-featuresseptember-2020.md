@@ -7,7 +7,8 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/azure-iot-central-featur
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-iot-central-feature-updates-september-2020/"
 type: article
 quality: 104
-heat: 104
+heat: 184
+published: true
 
 provider:
   name: Microsoft
@@ -26,6 +27,44 @@ images:
     width: 626
     height: 223
     isCached: true
+
+related:
+  - title: "Azure IoT Central new and updated features—August 2020"
+    excerpt: "August updates include jobs improvements, a new file upload feature, a preview of the new data export feature, CLI updates, and documentation enhancements."
+    publishedDateTime: 2020-09-14T19:00:14Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-iot-central-feature-updates-august-2020/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
+  - title: "Azure portal September 2020 update"
+    excerpt: "Updates include improvements to the ARM template deployment experience, a variety of updates for Azure Blob Storage, and more."
+    publishedDateTime: 2020-10-01T18:31:28Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-portal-september-2020-update/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
+  - title: "Azure IoT Central UI new and updated features—July 2020"
+    excerpt: "July updates include jobs improvements, CLI updates, documentation enhancements, new REST APIs, and a new mobile gateway sample."
+    publishedDateTime: 2020-08-19T16:00:48Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-iot-central-feature-updates-july-2020/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
+  - title: "Azure IoT Central UI new and updated features—June 2020"
+    excerpt: "June 2020 feature updates for Azure IoT Central are now available."
+    publishedDateTime: 2020-07-15T23:00:33Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-iot-central-feature-updates-june-2020/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 17
 
 secured: "tlwJciCtWe+TbMksGO6VkEU1xt4RzbQrXJTQYlz/vRAJtMne9GvIKlUUY8nRRJayLNwtjjYrqU6Xr/WCq2/Kck86XjSfV07IThNCr+wayyCofgKUHjMQP6QBfbRfMir3s2INCWiB0/H86J09DMgZwtp3W3LZjVqUWs+Qei7KJv82nOAMcC2LUMngZHPLgRUz+vmegwogT6+l6pEl3dObYHOfNZ6hKo0I85DOE84SVUm66aR2l0KXAwTyPA0Py0A8WIRdm0zi7RIGIvgBxpbZ3F6oAeJC33up4olbkMGDKSQoeJHzf0GyVRW//LIIDyQvFjWjGA6UTQUf3987UqmTG8pkmoJyzzHSxZKZMdwHn48=;xeUn/RzoTL2Vnty7p53fgg=="
 ---

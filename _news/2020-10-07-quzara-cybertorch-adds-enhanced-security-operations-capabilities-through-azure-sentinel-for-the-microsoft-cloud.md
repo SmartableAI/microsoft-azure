@@ -9,7 +9,7 @@ ampWebUrl: "https://markets.businessinsider.com/amp/news/quzara-cybertorch-adds-
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/quzara-cybertorch-adds-enhanced-security-operations-capabilities-through-azure-sentinel-for-the-microsoft-cloud-1029652288"
 type: article
 quality: 73
-heat: 133
+heat: 153
 published: true
 
 provider:
@@ -25,6 +25,20 @@ topics:
   - Security
 
 related:
+  - title: "Saviynt Integrates Microsoft Azure Active Directory to Provide Advanced Identity Governance for Enterprise Customers"
+    excerpt: "LOS ANGELES-- ( BUSINESS WIRE )-- Saviynt, a leading cloud-built identity governance platform, today announced new and expanded integration with Microsoft Azure Active Directory (Azure AD) to provide additional advanced governance scenarios for enterprise customers."
+    publishedDateTime: 2020-10-14T11:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20201014005187/en/"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 46
+    images:
+      - url: "https://mms.businesswire.com/media/20201014005187/en/820722/23/saviynt_logo.jpg"
+        width: 1200
+        height: 627
+        isCached: true
   - title: "CDW recognized as Microsoft Azure expert service provider"
     excerpt: "CDW Corp., a leading computer solutions and services provider, has been recognized as a Microsoft Azure Expert Managed Service Provider, joining some of Microsoft's most recognized and capable global solutions partners."
     publishedDateTime: 2020-10-09T18:58:00Z

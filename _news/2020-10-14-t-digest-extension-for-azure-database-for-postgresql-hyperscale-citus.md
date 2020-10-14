@@ -7,7 +7,8 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/tdigest-extension-for-az
 webUrl: "https://azure.microsoft.com/en-us/updates/tdigest-extension-for-azure-database-for-postgresql-hyperscale-citus/"
 type: article
 quality: 98
-heat: 98
+heat: 138
+published: true
 
 provider:
   name: Microsoft
@@ -20,6 +21,26 @@ provider:
 topics:
   - Azure
   - Databases
+
+related:
+  - title: "New regions for Azure Database for PostgreSQL—Hyperscale (Citus)"
+    excerpt: ""
+    publishedDateTime: 2020-06-01T16:00:14Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/new-regions-for-azure-database-for-postgresql-hyperscale-citus/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 17
+  - title: "One-year and three-year reserved capacity for Azure Database for PostgreSQL—Hyperscale (Citus)"
+    excerpt: ""
+    publishedDateTime: 2020-06-01T16:00:13Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/oneyear-and-threeyear-reserved-capacity-for-azure-database-for-postgresql-hyperscale-citus/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 5
 
 secured: "QPiY4uM59QqLben3WxcnjGBSNXLBl8sGdGctr18HOapWSG4JKn0VFCL5iJ8Y/E/6OqzdRMebo3czhsXdi+uzTbjXm4c5cBYlddS1HFM3qF2QF8gtdpQHz6MkUdBHsA/kNCS1OGTNShVhoT8B4QNTRFej9WIczk7xslZRcEZ9BkT7EzmseKzchhGB8ZNuf3sbWAcsRJk/NB3my48Yhr3N+EmDTBDqmaOIOmJ/TmmiLGQNj8SnVdn45+Hw19uzprHjD9gZ7ofKlFoz9v5KrCk6a069vFh2r9QPwd7r2jQE1nYjnlLBKSeJ76M2lU4sElslzEplhnmvVkMXQTSFCWAuTfzjMzZdU5rm5q4q/lOQAJs=;Hz2DpLCqznUZRuH7aShwkw=="
 ---

@@ -1,27 +1,21 @@
 ---
 category: news
-title: "Komprise addresses demand for file data management in the cloud with new capabilities for Microsoft Azure Files and Azure NetApp Files"
-excerpt: "PRNewswire/ -- Komprise, the leader in analytics-driven data management, today announced new capabilities for its Komprise Intelligent Data"
-publishedDateTime: 2020-10-06T13:00:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/komprise-addresses-demand-for-file-data-management-in-the-cloud-with-new-capabilities-for-microsoft-azure-files-and-azure-netapp-files-301146567.html"
-webUrl: "https://www.prnewswire.com/news-releases/komprise-addresses-demand-for-file-data-management-in-the-cloud-with-new-capabilities-for-microsoft-azure-files-and-azure-netapp-files-301146567.html"
+title: "Starburst Enterprise for Presto Now Available in The Microsoft Azure Marketplace"
+excerpt: "Starburst today announced the availability of Starburst Enterprise for Presto in the Microsoft Azure Marketplace."
+publishedDateTime: 2020-10-14T20:09:00Z
+originalUrl: "https://www.businesswire.com/news/home/20201013005348/en/Starburst-Enterprise-for-Presto-Now-Available-in-The-Microsoft-Azure-Marketplace"
+webUrl: "https://www.businesswire.com/news/home/20201013005348/en/Starburst-Enterprise-for-Presto-Now-Available-in-The-Microsoft-Azure-Marketplace"
 type: article
-quality: 5
+quality: 12
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - Azure
-
-images:
-  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-    width: 600
-    height: 315
-    isCached: true
 
 related:
   - title: "Microsoft is a Leader in the 2020 Gartner Magic Quadrant for Full Life Cycle API Management"
@@ -52,16 +46,21 @@ related:
         width: 737
         height: 768
         isCached: true
-  - title: "Starburst Enterprise for Presto Now Available in The Microsoft Azure Marketplace"
-    excerpt: "Starburst today announced the availability of Starburst Enterprise for Presto in the Microsoft Azure Marketplace."
-    publishedDateTime: 2020-10-14T20:09:00Z
-    webUrl: "https://www.businesswire.com/news/home/20201013005348/en/Starburst-Enterprise-for-Presto-Now-Available-in-The-Microsoft-Azure-Marketplace"
+  - title: "Komprise addresses demand for file data management in the cloud with new capabilities for Microsoft Azure Files and Azure NetApp Files"
+    excerpt: "PRNewswire/ -- Komprise, the leader in analytics-driven data management, today announced new capabilities for its Komprise Intelligent Data"
+    publishedDateTime: 2020-10-06T13:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/komprise-addresses-demand-for-file-data-management-in-the-cloud-with-new-capabilities-for-microsoft-azure-files-and-azure-netapp-files-301146567.html"
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 12
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 5
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
+        isCached: true
 
-secured: "4lhZE0hzhZChYuE0vfbe8iH9bJ4a57HbQEuxfaiAojvXKCRMGdqirSVnwrgeM6OHiinfx7Tasuvb6v//BTk2mUfwdcqZ6pvu9/wktFJ5z/MtkaSrjTvy/VeNDRJqE7Wbyy46555r5meOdnVdI/wzBJIgA9Ns1y/LNuaRgQXDwohQ21ChuKMLTcC18izHI/5N8IQxBdoweeYWhpsQvdofjGznfFnTUJLpVop5nClBOG3SOhBfU9ZfGxaeA646x/A50+k/AQ66ChJY/4rafX51VM7JYGTgBS2JRp3Wa64Rqu3ofKBdrSuoDGTGS7Wil2UDJdFCtgLBPrAzScP+HNpAHXGGz8cjkeltlUVFpn+Ft/s=;Q9A073YXPKO4Zk8/CKTJBQ=="
+secured: "tCVVjBpyn9ocZYw9iv2yxFO+BgA2k+BHWC5Z80q9F6A3QSx+3Sbwi/uni/1Wj69c4WDNQ9Ss1TM/hSIX+pILU2aCKFOynrOC1jk0FZx3pNgzSJ1m8kAuOUAxtRkr7ArKekFABsOybF0kqwBJNfo5F9V+MOnV8jYg2d/JdweceXSoleMAkCiRwlNScP3pQc0666+xirzzFzZMiJWJnDkxjj35A+lfwZsoEsFd0qMfViRn9qWx2EX9IgUFuOSFizeCBJ5k45SxIt9lTpU4kL2Mo7FhtdSxswLqYOfV2f3QrQ5Da7oaMSzCxLPVgkFde7IfjIjv/8zTlJ6Xix9GveJKyarXHlrPAnvS0F+mAp4kE9c=;ZM7i1dD0Oayw5CaY785EaQ=="
 ---
 

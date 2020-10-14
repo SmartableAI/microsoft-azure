@@ -31,6 +31,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 73
+  - title: "Saviynt Integrates Microsoft Azure Active Directory to Provide Advanced Identity Governance for Enterprise Customers"
+    excerpt: "LOS ANGELES-- ( BUSINESS WIRE )-- Saviynt, a leading cloud-built identity governance platform, today announced new and expanded integration with Microsoft Azure Active Directory (Azure AD) to provide additional advanced governance scenarios for enterprise customers."
+    publishedDateTime: 2020-10-14T11:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20201014005187/en/"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 46
+    images:
+      - url: "https://mms.businesswire.com/media/20201014005187/en/820722/23/saviynt_logo.jpg"
+        width: 1200
+        height: 627
+        isCached: true
   - title: "Scality Announces 1 Terabit Per Second Performance for Scale-Out File System in Microsoft Azure Public Cloud"
     excerpt: "Scality, a leader in software solutions for distributed file and object storage, today announced the technical preview of its high-performance scale-out file system (SOFS) in Microsoft Azure. Scality SOFS running in Azure delivers linear scaling performance for read- and write-intensive workloads."
     publishedDateTime: 2020-10-06T02:26:00Z

@@ -30,6 +30,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 84
+  - title: "Azure Sphere update 20.10 is now available for compatibility testing"
+    excerpt: "The Azure Sphere OS update 20.10 is now available for evaluation via the Retail Eval feed. The 20.10 evaluation release includes an OS update as well as a special evaluation version of the SDK for use during this period. T"
+    publishedDateTime: 2020-10-14T18:25:51Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-sphere-update-2010-is-now-available-for-compatibility-testing/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
 
 secured: "s5ohdTS1BRJxzCvEt5/ja+qdxlFuJUrjTY2A0xFRgtooZcr6KwBMyMjJVQbxlUw7BO5YIoZyrOZDMdXoUWCXJ6Vnkcz6VR996Jkbm/SK7ScaFpdLWSKQ+MyxuiyB9Rc9SUXRd/YfCOE9qFS6Awljisgr4Np7CyNTfQKJaWmmQnTQ975B3nRJbcLFObxn6AgcbHUmB2rSKNlmd25QQv+91TmCm8k0Z5TBTjemT+FuZuFSO8cCOVkkXCneMBQ8o1NJ9X1M4CP8wxNCsv/6LmYiDmCwsnZIicopx9af39FPunUYZ/WEvHIkTUHsuyg5MKxfk32CmpjTeHXb9QjPzYBYfQ==;QGzMZaJMb1S/zCbegi27/w=="
 ---
