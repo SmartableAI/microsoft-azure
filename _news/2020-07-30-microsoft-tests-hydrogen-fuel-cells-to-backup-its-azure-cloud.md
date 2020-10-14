@@ -1424,6 +1424,34 @@ related:
         width: 366
         height: 488
         isCached: true
+  - title: "Dicker Data launches Microsoft Cloud unit"
+    excerpt: "Dicker Data has launched a new Microsoft Cloud business unit under the leadership of Sarah Loiterton as general manager."
+    publishedDateTime: 2020-10-14T05:35:00Z
+    webUrl: "https://www.arnnet.com.au/article/683708/dicker-data-launches-microsoft-cloud-unit/"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 22
+    images:
+      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/800x800/dimg/sarah_loiterton_1.jpg"
+        width: 797
+        height: 550
+        isCached: true
+  - title: "Dicker Data launches new Microsoft Cloud business unit"
+    excerpt: "ASX-listed IT hardware, software and cloud distributor, Dicker Data has launched a new Microsoft Cloud business unit in a move the company says deepens its relationship with the global tech giant. Dicker Data (ASX:DDR) says the new unit will led by Sarah Loiterton as general manager and as part of"
+    publishedDateTime: 2020-10-14T04:50:00Z
+    webUrl: "https://www.itwire.com/resellers/dicker-data-launches-new-microsoft-cloud-business-unit.html"
+    type: article
+    provider:
+      name: ITWire
+      domain: itwire.com
+    quality: 22
+    images:
+      - url: "https://www.itwire.com/media/k2/items/cache/a6d3ea62ee421e5fc717dccf4b518a58_M.jpg"
+        width: 375
+        height: 375
+        isCached: true
   - title: "Digital Transformation: Qatar Financial Center Regulatory Authority to Migrate Online Services to Microsoft Cloud"
     excerpt: "The Qatar Financial Center Regulatory Authority (QFCRA) recently revealed that it will be migrating its online services to the Microsoft Cloud in order to move forward with its digital transformation strategy."
     publishedDateTime: 2020-09-19T00:43:00Z
