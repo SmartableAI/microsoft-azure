@@ -1,69 +1,25 @@
 ---
 category: news
 title: "Tisane Labs' Solutions on Microsoft Azure Add Wikidata Extraction Feature"
-excerpt: "Tisane Labs, a supplier of text analytics AI solutions, today announced a new feature in Tisane API, already available on Microsoft Azure Marketplace and AppSource. With the new feature, Tisane API now allows tagging and extraction of Wikidata entities,"
-publishedDateTime: 2020-10-13T17:54:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/tisane-labs-solutions-on-microsoft-azure-add-wikidata-extraction-feature-1029675775"
-webUrl: "https://markets.businessinsider.com/news/stocks/tisane-labs-solutions-on-microsoft-azure-add-wikidata-extraction-feature-1029675775"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/tisane-labs-solutions-on-microsoft-azure-add-wikidata-extraction-feature-1029675775"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/tisane-labs-solutions-on-microsoft-azure-add-wikidata-extraction-feature-1029675775"
+excerpt: "Tisane Labs, a supplier of text analytics AI solutions, today announced a new feature in Tisane API, already available on Microsoft"
+publishedDateTime: 2020-10-13T17:31:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/tisane-labs-solutions-on-microsoft-azure-add-wikidata-extraction-feature-301151377.html"
+webUrl: "https://www.prnewswire.com/news-releases/tisane-labs-solutions-on-microsoft-azure-add-wikidata-extraction-feature-301151377.html"
 type: article
-quality: 76
-heat: 136
-published: true
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Azure
 
-related:
-  - title: "CDW recognized as Microsoft Azure expert service provider"
-    excerpt: "CDW Corp., a leading computer solutions and services provider, has been recognized as a Microsoft Azure Expert Managed Service Provider, joining some of Microsoft's most recognized and capable global solutions partners."
-    publishedDateTime: 2020-10-09T18:58:00Z
-    webUrl: "https://www.dailyherald.com/business/20201009/cdw-recognized-as-microsoft-azure-expert-service-provider"
-    ampWebUrl: "https://www.dailyherald.com/amp-article/20201009/business/201009222/"
-    cdnAmpWebUrl: "https://www-dailyherald-com.cdn.ampproject.org/c/s/www.dailyherald.com/amp-article/20201009/business/201009222/"
-    type: article
-    provider:
-      name: Daily Herald
-      domain: dailyherald.com
-    quality: 37
-  - title: "Innovaccer's Data Activation Platform Now on Microsoft Cloud for Healthcare"
-    excerpt: "Innovaccer, Inc., a leading healthcare technology company, recently announced that it is supporting Microsoft Cloud for Healthcare with"
-    publishedDateTime: 2020-10-13T17:17:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/innovaccers-data-activation-platform-now-on-microsoft-cloud-for-healthcare-301151372.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 20
-    images:
-      - url: "https://mma.prnewswire.com/media/1311776/Innovaccer_Logo.jpg?p=facebook"
-        width: 600
-        height: 314
-        isCached: true
-  - title: "Tamr Announces the Only Cloud-Native Data Mastering Solutions for Google Cloud Platform, AWS, and Microsoft Azure"
-    excerpt: "PRNewswire/ -- Tamr, Inc., a cloud-native data mastering platform used by some of the world's largest enterprises to solve their toughest data"
-    publishedDateTime: 2020-10-07T13:05:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/tamr-announces-the-only-cloud-native-data-mastering-solutions-for-google-cloud-platform-aws-and-microsoft-azure-301147624.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 16
-    images:
-      - url: "https://mma.prnewswire.com/media/1157929/Tamr_Logo.jpg?p=facebook"
-        width: 1500
-        height: 785
-        isCached: true
+images:
+  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+    width: 600
+    height: 315
+    isCached: true
 
-secured: "lmWp7m8i3aMGxbBC7L4nY8SQY0YlMUrQpRQJvsqEWnsQKTkUKNpOiB9Pj0Ejvg9+R4Yuak+byUZp0ASvKTtiorbTYXaHHQXbABxc4v6Xnl51pltq/1kNUIQC9alSM/8zwst6ITC5L5a0Dx5Oleo0qxrMCRssqgzfaxRYIbtSSU3P1q/PLJrzw16FQLo0g2mMAcN01abgFmNzx+4iJW7njPYJvH6rvgwtjAz5gFyxVup1EfxSlh/Lfnkv8qPxh5y/52QHmTIcXmp54UqgQHWrW9QQb8mGXnPzSdI2ey/HJfRqS0mBUDpCqdDLCkePXK6he/TI9E747QY50pTrXmcrd7pC4VSYTbdun6IIT/vBpWg=;0FeFxOehzTjtpGt5tPJx3A=="
+secured: "LUyIpHVgLUvAqwJtwOZGkvyjSBmOA7HeB3N/Pw9Jz3rfwodnr3n+vVAtovQbqLEfgVWO03LPmD6lqYhyPQ5fDNb9XePLZXBEtUeebZ66OQBcK/yhcoHly+dskpiezajFX1zR4Ul/Q+q/iae/0sdeKfcfTqjGACgAQ8U2sBgn2NIERhgW1lROs8p5mM7u9T9YMYmUr8mw1e9La1l4npIzBskduI9EJ+KNvRTrE/s8C/GkMIgI0NCc8OTKJ4ACFxY/tuB22i4KmDBplmJ44gtr6AGoIS4NzNCXnBmEVVS84ORz5938UezIKKUCqznY6wOII1q3YRRdGJNh3wlYqD0W7sBC6IxEaGEkHukvOe5egmE=;q7Qr9vINViKUNOZGsL8eGA=="
 ---
 
