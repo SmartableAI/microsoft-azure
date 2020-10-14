@@ -1,25 +1,29 @@
 ---
 category: news
-title: "Ingestion data isolation in Log Analytics"
-excerpt: "To provide you with additional service stability, we have added the ingestion volume rate limit to additional Log Analytics data sources including Diagnostic Settings, agents, and data collector API."
-publishedDateTime: 2020-08-26T16:00:01Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/improved-data-ingestion-isolation-in-log-analytics/"
-webUrl: "https://azure.microsoft.com/en-us/updates/improved-data-ingestion-isolation-in-log-analytics/"
+title: "UCSF, Fortanix, Intel, and Microsoft Azure Utilize Privacy-Preserving Analytics to Accelerate AI in Healthcare"
+excerpt: "UC San Francisco’s Center for Digital Health Innovation (CDHI), Fortanix, Intel, and Microsoft Azure today have formed a collaboration to establish a confidential computing platform with privacy-preserving analytics to accelerate the development and validation of clinical algorithms."
+publishedDateTime: 2020-10-07T19:00:00Z
+originalUrl: "https://www.businesswire.com/news/home/20201007005922/en/UCSF-Fortanix-Intel-and-Microsoft-Azure-Utilize-Privacy-Preserving-Analytics-to-Accelerate-AI-in-Healthcare/?feedref=JjAwJuNHiystnCoBq_hl-YChnX-dlxR7bnql9VXy9e5cS3CA0Bo2lHArOQl-PHrIrCOi9QzgjCezTS3Nw_X6kJUrpSBm-Hav1w-UkdSlG3k-cHwnfBrk8h_RXgEUlyPTLkaZDLiczsahzEklD3R10Q%3D%3D"
+webUrl: "https://www.businesswire.com/news/home/20201007005922/en/UCSF-Fortanix-Intel-and-Microsoft-Azure-Utilize-Privacy-Preserving-Analytics-to-Accelerate-AI-in-Healthcare/?feedref=JjAwJuNHiystnCoBq_hl-YChnX-dlxR7bnql9VXy9e5cS3CA0Bo2lHArOQl-PHrIrCOi9QzgjCezTS3Nw_X6kJUrpSBm-Hav1w-UkdSlG3k-cHwnfBrk8h_RXgEUlyPTLkaZDLiczsahzEklD3R10Q%3D%3D"
 type: article
-quality: 52
+quality: 51
 heat: -1
 published: false
 
 provider:
-  name: Microsoft
-  domain: microsoft.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - Azure
+  - AI
+  - Analytics
+
+images:
+  - url: "https://mms.businesswire.com/media/20201007005922/en/828476/23/UCSF_sig_navy_RGB.jpg"
+    width: 1200
+    height: 627
+    isCached: true
 
 related:
   - title: "New alert query examples topic in Log Analytics"
@@ -64,20 +68,15 @@ related:
         width: 683
         height: 264
         isCached: true
-  - title: "UCSF, Fortanix, Intel, and Microsoft Azure Utilize Privacy-Preserving Analytics to Accelerate AI in Healthcare"
-    excerpt: "UC San Francisco’s Center for Digital Health Innovation (CDHI), Fortanix, Intel, and Microsoft Azure today have formed a collaboration to establish a confidential computing platform with privacy-preserving analytics to accelerate the development and validation of clinical algorithms."
-    publishedDateTime: 2020-10-07T19:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20201007005922/en/UCSF-Fortanix-Intel-and-Microsoft-Azure-Utilize-Privacy-Preserving-Analytics-to-Accelerate-AI-in-Healthcare/?feedref=JjAwJuNHiystnCoBq_hl-YChnX-dlxR7bnql9VXy9e5cS3CA0Bo2lHArOQl-PHrIrCOi9QzgjCezTS3Nw_X6kJUrpSBm-Hav1w-UkdSlG3k-cHwnfBrk8h_RXgEUlyPTLkaZDLiczsahzEklD3R10Q%3D%3D"
+  - title: "Ingestion data isolation in Log Analytics"
+    excerpt: "To provide you with additional service stability, we have added the ingestion volume rate limit to additional Log Analytics data sources including Diagnostic Settings, agents, and data collector API."
+    publishedDateTime: 2020-08-26T16:00:01Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/improved-data-ingestion-isolation-in-log-analytics/"
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 51
-    images:
-      - url: "https://mms.businesswire.com/media/20201007005922/en/828476/23/UCSF_sig_navy_RGB.jpg"
-        width: 1200
-        height: 627
-        isCached: true
+      name: Microsoft
+      domain: microsoft.com
+    quality: 52
   - title: "Log Analytics New Query Experience - Example Queries"
     excerpt: ""
     publishedDateTime: 2020-05-26T20:00:06Z
@@ -93,6 +92,6 @@ related:
         height: 557
         isCached: true
 
-secured: "L9I5XUZvbwU/NcNg+aWJrP5KVBlLuXuXq5RvKGl0emuejGhtz+XG/pnj+ymdTH1IErb9CD6VorpEAjedxpUpDTJQS3NpFT0nO0VX1qauptNMhqUCvHVabmS1zjYNij16ahED0yAzjSkpTwd1sbx5oFXab5XxMmK8K29YabMNy4+iuTNTJM3f7YCog/rHpf4vod7MVFckceK7jQBo6Q1gB55Ke6AL4RY4s19p7wxZPGxqR+o3TcvOJv9ijot68u912fSeYozxEsPKIPOY1rR/rCOyrMI5Un+1Eemhg/bQWb0qHKyF2mHvmGklBj4EiK2DBbZd1QAdYE32rFcVMX2+8GuzGdUnk/+DPs31rrE5Sw4=;gLcJw8Zev0iYBi7Ee/xLEQ=="
+secured: "T3Nm3Ig9T7mEPyXXCyjgbP+if/0CprXO9cKwm7FP3Z4NREz8WEbWUGVrdSqAKbU6mYmFpCmV4j/RG0uAUooU+1BXKha64v8JxsaSNMprhn8QGTTQ1gSQaqKkCAK3IoZxW29YHOpjnXKxluzMtzN5NqiV5mFWcgH+ZHsrA236NQKvH5l0ZDiR3XQfdEh/ArleOX8TWz+NAQmsz2BsZuDK6j0ao4ZrJyGce449N8/s7T/GtiKtUux22e6OSWntrf6qHBuvfLU7ojdeE0PwAm2hxbdhSJJh91Muj1UIlen+os7c0ai3Sx2h/cxHoJ6YebWFrgPeB3KPcu2n6pTJoxX98Q5/byREDMW/OwDkdfWdvgo=;NRekfOr+J/o0eYkOYxcbHA=="
 ---
 

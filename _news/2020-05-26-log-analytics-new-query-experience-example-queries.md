@@ -79,6 +79,20 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 52
+  - title: "UCSF, Fortanix, Intel, and Microsoft Azure Utilize Privacy-Preserving Analytics to Accelerate AI in Healthcare"
+    excerpt: "UC San Francisco’s Center for Digital Health Innovation (CDHI), Fortanix, Intel, and Microsoft Azure today have formed a collaboration to establish a confidential computing platform with privacy-preserving analytics to accelerate the development and validation of clinical algorithms."
+    publishedDateTime: 2020-10-07T19:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20201007005922/en/UCSF-Fortanix-Intel-and-Microsoft-Azure-Utilize-Privacy-Preserving-Analytics-to-Accelerate-AI-in-Healthcare/?feedref=JjAwJuNHiystnCoBq_hl-YChnX-dlxR7bnql9VXy9e5cS3CA0Bo2lHArOQl-PHrIrCOi9QzgjCezTS3Nw_X6kJUrpSBm-Hav1w-UkdSlG3k-cHwnfBrk8h_RXgEUlyPTLkaZDLiczsahzEklD3R10Q%3D%3D"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 51
+    images:
+      - url: "https://mms.businesswire.com/media/20201007005922/en/828476/23/UCSF_sig_navy_RGB.jpg"
+        width: 1200
+        height: 627
+        isCached: true
 
 secured: "ehNVy5y+3GcykC/nXHsmI3SVJ941LDOOD+zOGJPXrl1RAfEhlEJ8qOS4AcyxQ2eyizeskOkpSBU2/BfoqHfUuOiC4tJGJA8WCnW9LX0wErpwUQk0BLY1tPne6rEBTxrBy677+PIUr+xQN1kacL9uYfMXU3GZivkGz8hFB/Tvu5S/y1WVW6aeVAmTykIBzgjPdlHCTY9RSjb7Cf/Ec1KoW0Ju1WVKL/Ez6uFHqamqi3c3xASaWN7gB007G7nBqMruCjBVDi1AN7DpJJBlVoSees4VVRhmu9A3I+475VXriqFS/4XRVXQLRoSmXyxcc5mb008zSx0TrTnq8QPTMq9jCg==;Vkp8ioQG4Fz+o29M77xHYA=="
 ---
