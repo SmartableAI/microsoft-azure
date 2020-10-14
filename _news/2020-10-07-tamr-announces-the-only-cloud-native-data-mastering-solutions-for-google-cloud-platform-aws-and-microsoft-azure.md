@@ -24,17 +24,17 @@ images:
     isCached: true
 
 related:
-  - title: "Quzara Cybertorch™ Adds Enhanced Security Operations Capabilities Through Azure Sentinel for the Microsoft Cloud"
-    excerpt: "Quzara Cybertorch™, Washington D.C based Security Operations Center (SOC) and Microsoft Partner, operated by cybersecurity firm Quzara LLC, announced deeper integrations for the Microsoft Commercial and Government Cloud."
-    publishedDateTime: 2020-10-07T07:43:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/quzara-cybertorch-adds-enhanced-security-operations-capabilities-through-azure-sentinel-for-the-microsoft-cloud-1029652288"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/quzara-cybertorch-adds-enhanced-security-operations-capabilities-through-azure-sentinel-for-the-microsoft-cloud-1029652288"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/quzara-cybertorch-adds-enhanced-security-operations-capabilities-through-azure-sentinel-for-the-microsoft-cloud-1029652288"
+  - title: "Tisane Labs' Solutions on Microsoft Azure Add Wikidata Extraction Feature"
+    excerpt: "Tisane Labs, a supplier of text analytics AI solutions, today announced a new feature in Tisane API, already available on Microsoft Azure Marketplace and AppSource. With the new feature, Tisane API now allows tagging and extraction of Wikidata entities,"
+    publishedDateTime: 2020-10-13T17:54:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/tisane-labs-solutions-on-microsoft-azure-add-wikidata-extraction-feature-1029675775"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/tisane-labs-solutions-on-microsoft-azure-add-wikidata-extraction-feature-1029675775"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/tisane-labs-solutions-on-microsoft-azure-add-wikidata-extraction-feature-1029675775"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 73
+    quality: 76
   - title: "CDW recognized as Microsoft Azure expert service provider"
     excerpt: "CDW Corp., a leading computer solutions and services provider, has been recognized as a Microsoft Azure Expert Managed Service Provider, joining some of Microsoft's most recognized and capable global solutions partners."
     publishedDateTime: 2020-10-09T18:58:00Z
@@ -46,19 +46,19 @@ related:
       name: Daily Herald
       domain: dailyherald.com
     quality: 37
-  - title: "Scality Announces 1 Terabit Per Second Performance for Scale-Out File System in Microsoft Azure Public Cloud"
-    excerpt: "Scality, a leader in software solutions for distributed file and object storage, today announced the technical preview of its high-performance scale-out file system (SOFS) in Microsoft Azure. Scality SOFS running in Azure delivers linear scaling performance for read- and write-intensive workloads."
-    publishedDateTime: 2020-10-06T02:26:00Z
-    webUrl: "https://www.totaltele.com/507362/Scality-Announces-1-Terabit-Per-Second-Performance-for-Scale-Out-File-System-in-Microsoft-Azure-Public-Cloud"
+  - title: "Innovaccer's Data Activation Platform Now on Microsoft Cloud for Healthcare"
+    excerpt: "Innovaccer, Inc., a leading healthcare technology company, recently announced that it is supporting Microsoft Cloud for Healthcare with"
+    publishedDateTime: 2020-10-13T17:17:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/innovaccers-data-activation-platform-now-on-microsoft-cloud-for-healthcare-301151372.html"
     type: article
     provider:
-      name: Total Telecom
-      domain: totaltele.com
-    quality: 18
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 20
     images:
-      - url: "https://www.totaltele.com/res/image/articleimages/5g-icon-hpe.png"
-        width: 576
-        height: 583
+      - url: "https://mma.prnewswire.com/media/1311776/Innovaccer_Logo.jpg?p=facebook"
+        width: 600
+        height: 314
         isCached: true
 
 secured: "vOzXIV1O3RcV/IRXljrIPI0AVlSBeY++ib+PPm2rR5ReubDDL74MzwAiej795Dwk+ajMpAGHqO4jNvdQxonXe6Yuw0QpJV+yQJkjMCPEanQ/1ODVvequoy7eYqUXr5e7Bpi/ZEUKjcfnwiA9mz4oIUlmIxWWgkHaI2YW8f9y17sVhJRI6+K41JHx1O/TmFYL9qeH/DaUOoYMI/Xs0LjkZXusonM6XT9ExdPpqa9gIu2EBj9E02qKE/oqFliMaeycQUVb8X6BJ4swUQqVV2ZpwFtZtJqyxs84BQB+UFbXlnYj+4oUV8bYJ8XKUu4Co9RUCVV8rvvbCxfe8Cjyqyz8dGAYzhjA0gxhmXX7S64TQ8Y=;hqq5W5K5AY3bx12ujA5FuQ=="
