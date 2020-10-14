@@ -41,15 +41,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 84
-  - title: "Azure portal September 2020 update"
-    excerpt: "Updates include improvements to the ARM template deployment experience, a variety of updates for Azure Blob Storage, and more."
-    publishedDateTime: 2020-10-01T18:31:28Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-portal-september-2020-update/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 84
 
 secured: "Q3zpSmXFqJzXFXRUbXk+LMqe85x7mx/P76Xiq9QuCoT9XW9noPX+ikeZ6/dWxXp1umZxRoWnZx1KfDGuTlBz5fabUse3FdgBP7+f4JCKlDTZhw7RgvPN815pJNQgq9EZov77gpqRjJzmLynfPUf/TO2u86bu/3jUOSw9uPrcR1syYaPoyCE2UIm5pFAt8Z8Lgj+lQecReNHZXhGKZbfVaLRFBcSE5nKv50g4boDDH/WGxtUfejTWH3Y15QaarTCqvKwlk5pPf2sjNeoEkQbNhfHjh6mFEtBXKjRJfQUeTIetK29MVqG66nB1bw42a1pxTeS6cOaPyfj3cxWQ2AW1VEIl1+NPbiTjx9jl2bPessQ=;kC5bnXrjCk0A65UTKBUwVA=="
 ---

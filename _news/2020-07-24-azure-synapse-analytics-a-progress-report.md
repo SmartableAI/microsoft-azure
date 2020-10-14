@@ -8,7 +8,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/azure-synapse-analytics-a-p
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/azure-synapse-analytics-a-progress-report/"
 type: article
 quality: 97
-heat: 237
+heat: 197
 published: true
 
 provider:
@@ -99,29 +99,6 @@ related:
         width: 925
         height: 426
         isCached: true
-  - title: "Azure Monitor Log Analytics Quick Start content is moving to the Overview page"
-    excerpt: "In order to simplify and streamline Azure Monitor Logs, we're moving all links and content from the Quick Start page to the Overview page. The Quick Start page will be removed in August 2020."
-    publishedDateTime: 2020-07-30T16:00:01Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/log-analytics-quick-start-content-is-moving-to-the-overview-page/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 33
-    images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/b8e6e1fd-2a10-4f2e-9340-17ed9a7c5556.png"
-        width: 791
-        height: 371
-        isCached: true
-  - title: "Azure Analytics Data Bricks Meters"
-    excerpt: "Effective September 1, 2020 Azure Analytics Data Bricks Meters will have a name change."
-    publishedDateTime: 2020-07-30T17:00:10Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-analytics-data-bricks-meters/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 17
 
 secured: "J34doIUTeBf7yC/yeA2VfRd0T9kCYvo2UUXaffYH/9z/wt9IXJ8P2PW1vqspmY6ITNWGEP6QEJoyStCK0NnQXmNOyCX1PJ+jiETtrxZ+ismd/eDZwBbfeO+ahOPKnTUCWTKAg3wgWnvbeurkU1VB3vF8utk52OLnscqIlhPe1d4fYam5+tynaPWb6A1NQNnq21OWzIxi8NM3dBonKc4UHTwC6SUZRR51gsydLzHz2B6HG6gpe9z+sURlo2McmfdnERgcH1lcbXg3kZTSV9CSXffYg81PTPln32i3P+F8aTevjXg5OTuxnYKKF/2pPgooex4lCN5jyqOjSe26YLDmjuTxJElovLZRJUBro9OxFojq06ZPRdWxphRMtbLlnm289I59/D8qYgwNVprAvWGnU/1P3QZzj0MuEfHPId9573EZLoK0isZqbuyvWWC1QYV3cSh/Nzhfrf3flxl3Y1Jg43ZK/XJO85E8HxweC3n3KlBxW2Cqt65fbxBMXmtjq/+ol3GaU2huERDM73ZO1zObyQ==;1C1dxyffdZecGpoZ5m0mlA=="
 ---

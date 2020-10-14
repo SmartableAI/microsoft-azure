@@ -22,51 +22,121 @@ topics:
   - Azure
 
 related:
-  - title: "Log Analytics Agent for Windows August 2020 release is now available"
-    excerpt: "The August 2020 release contains bug fixes and improvements to stability and reliability."
-    publishedDateTime: 2020-09-02T16:00:03Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/log-analytics-agent-for-windows-august-2020-release-is-now-available/"
+  - title: "Azure Monitor Log Analytics data export is in public preview"
+    excerpt: "You can now enable continuous data export from your Log Analytics workspaces to an Azure Storage Account or Azure Event Hubs."
+    publishedDateTime: 2020-10-14T16:00:18Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-monitor-log-analytics-data-export-is-in-public-preview/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 69
-  - title: "New Azure IoT Central App Template - Video Analytics is now available"
-    excerpt: "Microsoft and Intel have collaborated to build end-to-end video analytics solutions using Azure IoT Central & Live Video Analytics. IoT Central application template is removing the complexity and challenges related to Video Analytics solution development and deployment."
-    publishedDateTime: 2020-08-19T16:00:39Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/new-azure-iot-central-app-template-video-analytics-is-now-available/"
+    quality: 121
+    images:
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/a2fdbe1c-7e34-4260-bcf5-0dd1d292edcd.png"
+        width: 956
+        height: 330
+        isCached: true
+  - title: "Dedicated clusters for Azure Monitor Log Analytics with data encryption at rest and Lockbox"
+    excerpt: "Handle large scale deployments better by taking advantage of data encryption at rest (with Customer Managed Keys) & Lockbox, and even configure cluster level capacity reservation with discounted pricing."
+    publishedDateTime: 2020-09-22T16:04:35Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/dedicated-clusters-for-azure-monitor-log-analytics-with-cmk-lockbox/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 67
-  - title: "Stream Analytics now can be run on Azure Stack Hub"
-    excerpt: "Azure Stream Analytics is now available on Azure Stack Hub via IoT Edge Runtime. "
-    publishedDateTime: 2020-08-28T16:04:07Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/asaonstack/"
+    quality: 91
+  - title: "New alert query examples topic in Log Analytics"
+    excerpt: "The logs experience was recently updated with examples queries for common log alerts."
+    publishedDateTime: 2020-10-13T20:34:42Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/alert-examples-in-logs/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 67
-  - title: "Azure Text Analytics v3 is now generally available"
-    excerpt: ""
-    publishedDateTime: 2020-05-29T21:00:32Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/text-analytics-v3-is-now-generally-available/"
+    quality: 89
+    images:
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/e5d2dc9a-2689-438b-829d-6c5106b14d71.gif"
+        width: 1907
+        height: 1019
+        isCached: true
+  - title: "Announcing Azure Data Explorer data connector for Azure Synapse"
+    excerpt: "You can now use Azure Synapse Workspace to access your data in Azure Data Explorer using Apache Spark pool"
+    publishedDateTime: 2020-10-14T16:00:13Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/adx-synapse-connector/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
+  - title: "Line numbers in Log Analytics query editor"
+    excerpt: "Log Analytics query editor now show line numbers when composing a query"
+    publishedDateTime: 2020-08-13T16:00:06Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/line-numbers-in-log-analytics-query-editor/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 72
+    images:
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/620becd2-4c6b-4d21-a07c-32d6f154cff7.png"
+        width: 776
+        height: 271
+        isCached: true
+  - title: "Ingestion data isolation in Log Analytics"
+    excerpt: "To provide you with additional service stability, we have added the ingestion volume rate limit to additional Log Analytics data sources including Diagnostic Settings, agents, and data collector API."
+    publishedDateTime: 2020-08-26T16:00:01Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/improved-data-ingestion-isolation-in-log-analytics/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 52
+  - title: "UCSF, Fortanix, Intel, and Microsoft Azure Utilize Privacy-Preserving Analytics to Accelerate AI in Healthcare"
+    excerpt: "UC San Francisco’s Center for Digital Health Innovation (CDHI), Fortanix, Intel, and Microsoft Azure today have formed a collaboration to establish a confidential computing platform with privacy-preserving analytics to accelerate the development and validation of clinical algorithms."
+    publishedDateTime: 2020-10-07T19:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20201007005922/en/UCSF-Fortanix-Intel-and-Microsoft-Azure-Utilize-Privacy-Preserving-Analytics-to-Accelerate-AI-in-Healthcare/?feedref=JjAwJuNHiystnCoBq_hl-YChnX-dlxR7bnql9VXy9e5cS3CA0Bo2lHArOQl-PHrIrCOi9QzgjCezTS3Nw_X6kJUrpSBm-Hav1w-UkdSlG3k-cHwnfBrk8h_RXgEUlyPTLkaZDLiczsahzEklD3R10Q%3D%3D"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 51
+    images:
+      - url: "https://mms.businesswire.com/media/20201007005922/en/828476/23/UCSF_sig_navy_RGB.jpg"
+        width: 1200
+        height: 627
+        isCached: true
+  - title: "Azure Monitor Log Analytics Quick Start content is moving to the Overview page"
+    excerpt: "In order to simplify and streamline Azure Monitor Logs, we're moving all links and content from the Quick Start page to the Overview page. The Quick Start page will be removed in August 2020."
+    publishedDateTime: 2020-07-30T16:00:01Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/log-analytics-quick-start-content-is-moving-to-the-overview-page/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 33
+    images:
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/b8e6e1fd-2a10-4f2e-9340-17ed9a7c5556.png"
+        width: 791
+        height: 371
+        isCached: true
+  - title: "Azure Analytics Data Bricks Meters"
+    excerpt: "Effective September 1, 2020 Azure Analytics Data Bricks Meters will have a name change."
+    publishedDateTime: 2020-07-30T17:00:10Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-analytics-data-bricks-meters/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
     quality: 17
-  - title: "Azure Log Analytics agent for Windows SHA-2 signing date has been extended"
-    excerpt: ""
-    publishedDateTime: 2020-05-11T17:00:02Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-log-analytics-agent-for-windows-sha2-signing-date-has-been-extended/"
+  - title: "Live Video Analytics now in public preview"
+    excerpt: "Live Video Analytics is a platform to capture, record, and analyze live video and publish the results (video and/or video analytics), enabling intelligent video applications."
+    publishedDateTime: 2020-06-11T20:00:11Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/live-video-analytics-now-in-public-preview/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 15
+    quality: 2
   - title: "Text Analytics for health is now available in preview"
     excerpt: "The health feature of Text Analytics uses natural language processing techniques to find and label valuable information in unstructured clinical documents such as doctor’s notes, discharge summaries, clinical documents, and electronic health records."
     publishedDateTime: 2020-07-08T16:00:19Z

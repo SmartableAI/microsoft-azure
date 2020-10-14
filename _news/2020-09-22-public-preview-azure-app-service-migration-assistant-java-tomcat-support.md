@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/public-preview-azure-app
 webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-azure-app-service-migration-assistant-java-tomcat-support/"
 type: article
 quality: 99
-heat: 219
+heat: 259
 published: true
 
 provider:
@@ -51,6 +51,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 84
+  - title: "Public Preview: JBoss EAP on Azure App Service"
+    excerpt: "A managed JBoss Enterprise Application Platform (EAP) experience is now available in Public Preview on Azure App Service. Deploy your Web Application Archive (WAR) and Enterprise Application Archive (EAR) apps to a PaaS for Java EE apps."
+    publishedDateTime: 2020-10-14T16:00:14Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-jboss-eap-on-azure-app-service/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
   - title: "Public preview: AKS start/stop cluster feature"
     excerpt: "Customers can save on time and costs by using the start/stop AKS clusters."
     publishedDateTime: 2020-09-22T16:05:26Z
@@ -78,6 +87,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
+  - title: "Public preview: Service Fabric managed clusters"
+    excerpt: "Service Fabric managed clusters reduce complexity and issues associated with managing a cluster made up of multiple resources."
+    publishedDateTime: 2020-10-14T16:00:14Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-service-fabric-managed-clusters/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 52
 
 secured: "tIC/liSgZ0gNj6nv8jxdeLeGqL6aFUffjljIyEe4y0hPuIaBK8zcUIhQhvaye6ciSlQPpxb9g39/8jqLB1xIusPoJdEW8MePi2AOoIz2sIV+UHs0CTSDf5GnshMXeKT499Y49v/W1NEQYKOqfIG6Cc5AGSsfkltpUNgFjIwgjYDfQS0SNrGhRP5V+krK8ErnVHVm1zZTKrBsmYA+PE8I+sqrguiZzxCQqiyKZjNoqE7RIpRm6BEKNGfl/N0hy60/SfP6nBOQLRJvoSvIRZV2+5PSq2q8HAbOf/ArrFMbyy+KSqYvnYZrGux8MzFkbvjZMw76s8SQ5IJbn3gcn6iHsC2sOzFc45HSGDAemsubcik=;U2ppykawFAATMjaHCHOnAw=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/iot-edge1-0-10/"
 webUrl: "https://azure.microsoft.com/en-us/updates/iot-edge1-0-10/"
 type: article
 quality: 84
-heat: 84
+heat: 85
 published: true
 
 provider:

@@ -45,6 +45,20 @@ related:
         width: 1024
         height: 630
         isCached: true
+  - title: "Zone Redundancy for Azure Cache for Redis now in preview"
+    excerpt: "Between waves of pandemics, hurricanes, and wildfires, you don’t need cloud infrastructure adding to your list of worries this year. Fortunately, there has never been a better time to ensure your Azure deployments stay resilient. Availability Zones in particular are one of the best ways to mitigate risks"
+    publishedDateTime: 2020-10-14T09:00:13Z
+    webUrl: "https://azure.microsoft.com/blog/zone-redundancy-for-azure-cache-for-redis-now-in-preview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 104
+    images:
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/9ff6c903-f462-454d-9738-a08e39a4549d.png"
+        width: 917
+        height: 768
+        isCached: true
   - title: "Azure Cache for Redis Visual Studio Code extension now in preview"
     excerpt: "You will be able to use Visual Studio Code to view, test, and debug your caches in one streamlined experience. This extension enhances ease of development by eliminating the need to manually track connection and access keys to connect to your caches."
     publishedDateTime: 2020-09-02T16:00:03Z
@@ -54,6 +68,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 101
+  - title: "Zone Redundancy in preview for Azure Cache for Redis"
+    excerpt: "Increase reliability in the Azure Cache for Redis premium tier even further with up to four nodes for redundancy; a primary and three replicas that can be distributed across multiple availability zones. This setup protects you against a datacenter-level outage, increasing availability up to a 99.95 percent"
+    publishedDateTime: 2020-10-14T16:00:15Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/zone-redundancy-in-preview-for-azure-cache-for-redis/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
   - title: "Azure Private Link for Azure Cache for Redis now in preview"
     excerpt: "You can now use Azure Private Link to connect to an Azure Cache for Redis instance from your virtual network via a private endpoint, which is assigned a private IP address in a subnet within the virtual network."
     publishedDateTime: 2020-09-02T16:00:02Z

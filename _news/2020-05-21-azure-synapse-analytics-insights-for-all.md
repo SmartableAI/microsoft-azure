@@ -100,29 +100,6 @@ related:
         width: 925
         height: 426
         isCached: true
-  - title: "Azure Monitor Log Analytics Quick Start content is moving to the Overview page"
-    excerpt: "In order to simplify and streamline Azure Monitor Logs, we're moving all links and content from the Quick Start page to the Overview page. The Quick Start page will be removed in August 2020."
-    publishedDateTime: 2020-07-30T16:00:01Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/log-analytics-quick-start-content-is-moving-to-the-overview-page/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 33
-    images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/b8e6e1fd-2a10-4f2e-9340-17ed9a7c5556.png"
-        width: 791
-        height: 371
-        isCached: true
-  - title: "Azure Analytics Data Bricks Meters"
-    excerpt: "Effective September 1, 2020 Azure Analytics Data Bricks Meters will have a name change."
-    publishedDateTime: 2020-07-30T17:00:10Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-analytics-data-bricks-meters/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 17
 
 secured: "Iv79OxkFejEkEBckj7wXNfneFMW5eL7mO9w0jzfnpE2BAqWD2qoNlYSecN3wV3jV2Fi+im1w1sff7rjh4d4NQbsdQC4LnTqLgH5ru03RZfLVmBBSJRHOGTaQmeO+VRvvveut0WtXWPXJXCMbqex4YeNZo1iwbHc+4JCzp5AmY2+7AGfRuTVtxi/hspf3aAwI15KO/UzWgf7t3nQDevE/WvHTdJlfSdwW8JzJ5xODuSkVJodupfkeg8xSJzyH0SjTYWKZmbUWIxwG9lTfb6SfUbX1v8P5BRXfopnLIE3PRnxUHkkyEn5C9NS326BsLdpTANic7b/CJ2O3DIkwbzviyw==;hLg3Ovqzt3etDbPn0P9XCg=="
 ---

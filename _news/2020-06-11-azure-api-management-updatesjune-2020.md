@@ -49,6 +49,15 @@ related:
         width: 1211
         height: 752
         isCached: true
+  - title: "Azure IoT Central jobs and metrics feature updates—May 2020"
+    excerpt: "May 2020 jobs and metrics feature updates for Azure IoT Central are now available."
+    publishedDateTime: 2020-06-12T20:00:10Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-iot-central-jobs-and-metrics-feature-updates-may-2020/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 17
 
 secured: "y7K55ECQfUqlmtIYmfemkKYOO9z0aRl21RZ6W/MBCsw0ulFx+FNf4WouLwNkBtVRv12mKUU8q7ZF3o+UVQqylSvZHfRNjhmx22bleHoZpYlf744OPYRHVJ0UtVlhAjGuZ2K+iKWPYA5f/9XAYdVhyFEfY22xsq3rB/XDHbxvBfUgFnPO9GTyhBfNyPvs5Gwk4KlnF5rpd0LlCHwIwN3kx42Pg6jk2EkgqVXwbE+0qmhrtmwb4/YkMZ7BLwddI6sVbitcfzoDlwozbednvTwuNjYE7c9m49IpiK44k1sys4lj8JXk615sIJUhKe+5Tx7Hz8d+hh5Psf6pVJJ9COI17g==;GXHQNyCf50Uacl4aJAjX2A=="
 ---

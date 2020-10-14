@@ -35,15 +35,6 @@ related:
         width: 642
         height: 309
         isCached: true
-  - title: "Live Video Analytics now in public preview"
-    excerpt: "Live Video Analytics is a platform to capture, record, and analyze live video and publish the results (video and/or video analytics), enabling intelligent video applications."
-    publishedDateTime: 2020-06-11T20:00:11Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/live-video-analytics-now-in-public-preview/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 2
 
 secured: "bUX9Pw+inR/pe/uuDkEYQbYpZMonKyaQuJkGyvlRnz3iQ3/O3xIN1lt509ED4xghhmXsRewEhi1JgwPq8zLB1GxIKEcauTIwD+lTNLSRUoXL7ao1TYH61nMZyDA+gAWUvyfHizOXE6w+D5f8g6Sygm2w0m8rJWr0iAcjIWII6Z5kWi1wswlR+Gmy3CMmZVCTPNjvO0/3Bt33nJG1hYDATndPl8nBBMktkdnwAZnNKcYxltewiYwpHSk27wjcWOC9elvTkg3m1yyMdapFj2Az0n5Z9AkDvSFwXMgahO/2f2tm5lSBJuiaWjxAjEVRJMQY7thGqe+4sch+/8zYWAlPDA==;7j0BW3CIqdGg8o2GDXp8YQ=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.telecompaper.com/news/napafrica-starts-offering-direct
 webUrl: "https://www.telecompaper.com/news/napafrica-starts-offering-direct-access-to-microsoft-azure-peering--1357548"
 type: article
 quality: 17
-heat: 17
+heat: 37
 published: false
 
 provider:

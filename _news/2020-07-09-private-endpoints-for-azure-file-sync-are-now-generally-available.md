@@ -21,24 +21,24 @@ topics:
   - Azure
 
 related:
-  - title: "Azure Machine Learning studio web experience is generally available"
-    excerpt: "Azure Machine Learning studio web experience is now generally available and bringing new features."
-    publishedDateTime: 2020-07-08T16:00:19Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-machine-learning-studio-web-experience-is-generally-available/"
+  - title: "App Service Private Endpoints now generally available"
+    excerpt: "Secure your line of business applications with Private Endpoints"
+    publishedDateTime: 2020-10-14T16:00:17Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/app-service-private-endpoints-ga/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 69
+  - title: "Azure App Service—.NET Core 3.1 is now generally available"
+    excerpt: ""
+    publishedDateTime: 2020-04-23T16:00:29Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-app-service-net-core-31-ga-on-app-service/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
     quality: 17
-  - title: "Custom Commands is now generally available"
-    excerpt: "Streamline the process for creating task-oriented voice applications with Custom Commands (now generally available)."
-    publishedDateTime: 2020-07-08T16:00:19Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/custom-commands-is-now-generally-available/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 2
 
 secured: "plDW1DdFK+2A0MFVF8WTqSbhJLSxEMnSonghFDLbOlfzOp851WkhkJUvO10m3MPjTET+6iTJSpzm38mclbVDrEYuPtBH4ThdC306guiJE2NEvMQVdaogUSX14HWDtm/YEOr/5hlJi8XQel16iK/4Uyf1svpyJKNHh7MDuSC+yzewM6AFIHMLQNEDRKlU/pdDpLflgmhyviNDklGqfE8R8VVfAajBZO45x2D+XODtckDeSUxegxDXlApJUTK1RargHR5dnQPAj2Wp53IsylVA5EWT2CHqNLEQ8JS/B0VftzwTwPuis18MtnURYHc5N9yYHf0al7mevB8djz3amF1i+w==;l2OfrdgmC/e11sANNKAXew=="
 ---

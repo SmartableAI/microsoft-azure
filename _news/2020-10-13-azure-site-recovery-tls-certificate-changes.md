@@ -6,6 +6,8 @@ publishedDateTime: 2020-10-13T16:00:00Z
 originalUrl: "https://azure.microsoft.com/en-us/updates/site-recovery-tls-certificate-update/"
 webUrl: "https://azure.microsoft.com/en-us/updates/site-recovery-tls-certificate-update/"
 type: article
+quality: 84
+heat: 84
 
 provider:
   name: Microsoft

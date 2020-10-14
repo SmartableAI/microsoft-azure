@@ -50,6 +50,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 84
+  - title: "Public Preview: JBoss EAP on Azure App Service"
+    excerpt: "A managed JBoss Enterprise Application Platform (EAP) experience is now available in Public Preview on Azure App Service. Deploy your Web Application Archive (WAR) and Enterprise Application Archive (EAR) apps to a PaaS for Java EE apps."
+    publishedDateTime: 2020-10-14T16:00:14Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-jboss-eap-on-azure-app-service/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
   - title: "Public preview: AKS start/stop cluster feature"
     excerpt: "Customers can save on time and costs by using the start/stop AKS clusters."
     publishedDateTime: 2020-09-22T16:05:26Z
@@ -77,6 +86,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
+  - title: "Public preview: Service Fabric managed clusters"
+    excerpt: "Service Fabric managed clusters reduce complexity and issues associated with managing a cluster made up of multiple resources."
+    publishedDateTime: 2020-10-14T16:00:14Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-service-fabric-managed-clusters/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 52
 
 secured: "FppgIL4UHsy+aY3McC18rCp5HjbLMFiuvbrQ4BpacOWwfAUFQDJRgEnsybBmRHCdy+Grhp8Q8chVi4jotR2H3sxLsHdLrZ0s7zo5ljNusAXQ65PqQiw+czt1IoMW4h2JZosyEFO6m7a/mDfO+3v1vqacZYSDGvPMEiLnuwhUuLlTRxdNFEM8KLr9rP1w6/b074QYonip6+3z6K35z5jJgJpi6urRtByPSN44vwbUToV4g+YDh0D4X7PF5RN0o7sz6IDxr/Q8saNjW0aGVl8cG1zenujCbEEy1odfV4Q7+ODxocGlA9wVaoJUT+QMlXzmFO0NXx17jRpV++EMwrfa5XjPN903C83HfIUelsCvyjc=;Bprrvu5vBaV/cy05uteGrg=="
 ---

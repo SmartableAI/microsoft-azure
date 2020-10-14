@@ -21,6 +21,15 @@ topics:
   - Azure
 
 related:
+  - title: "T-digest extension for Azure Database for PostgreSQL - Hyperscale (Citus)"
+    excerpt: "Now in general availability, the algorithm used in the open source t-digest extension allows high performance percentile calculations on sizable distributed analytical workloads with improved accuracy."
+    publishedDateTime: 2020-10-14T16:00:16Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/tdigest-extension-for-azure-database-for-postgresql-hyperscale-citus/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 98
   - title: "New regions for Azure Database for PostgreSQL—Hyperscale (Citus)"
     excerpt: ""
     publishedDateTime: 2020-06-01T16:00:14Z

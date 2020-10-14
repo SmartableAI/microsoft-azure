@@ -6,6 +6,8 @@ publishedDateTime: 2020-10-14T15:22:22Z
 originalUrl: "https://azure.microsoft.com/en-us/updates/azure-iot-central-feature-updates-september-2020/"
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-iot-central-feature-updates-september-2020/"
 type: article
+quality: 104
+heat: 104
 
 provider:
   name: Microsoft

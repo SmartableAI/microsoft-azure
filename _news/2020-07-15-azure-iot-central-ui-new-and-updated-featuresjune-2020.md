@@ -21,10 +21,33 @@ topics:
   - Azure
 
 related:
+  - title: "Azure IoT Central new and updated features—September 2020"
+    excerpt: "September updates include the data export feature, more jobs improvements, offline commands, new dashboard formatting capabilities, new Power Automate templates, and documentation enhancements."
+    publishedDateTime: 2020-10-14T15:22:22Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-iot-central-feature-updates-september-2020/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 104
+    images:
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/2e4f169b-104a-43ce-8e07-a8b1b6917d3a.png"
+        width: 626
+        height: 223
+        isCached: true
   - title: "Azure IoT Central new and updated features—August 2020"
     excerpt: "August updates include jobs improvements, a new file upload feature, a preview of the new data export feature, CLI updates, and documentation enhancements."
     publishedDateTime: 2020-09-14T19:00:14Z
     webUrl: "https://azure.microsoft.com/en-us/updates/azure-iot-central-feature-updates-august-2020/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
+  - title: "Azure portal September 2020 update"
+    excerpt: "Updates include improvements to the ARM template deployment experience, a variety of updates for Azure Blob Storage, and more."
+    publishedDateTime: 2020-10-01T18:31:28Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-portal-september-2020-update/"
     type: article
     provider:
       name: Microsoft
@@ -39,24 +62,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
-  - title: "New Azure IoT Central features are now available"
-    excerpt: ""
-    publishedDateTime: 2020-05-19T16:05:41Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/new-azure-iot-central-features-are-now-available/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 17
-  - title: "Azure IoT Central jobs and metrics feature updates—May 2020"
-    excerpt: "May 2020 jobs and metrics feature updates for Azure IoT Central are now available."
-    publishedDateTime: 2020-06-12T20:00:10Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-iot-central-jobs-and-metrics-feature-updates-may-2020/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 17
 
 secured: "1QzRl3pRNCqu3wOrZsqpjZbSEKH6694cdx7rGLGckITcvtqSCKrO/0RzCbi39RHYQEevFhXcdHcMrJzxfph1H6k8CelCPrGE8SPlrpt0rQbPaDY7Ug+blqBtlwtreL3R4mqCjurzmmHOJ4jq0Z0P1aCdvUzGpctVST3U2Nef+Drgjser9YiYizCEKo7DO6ARVXQHnzO4C0Q9giJvqmoiDrlLcIfNcdU07puAi8H+rlTTVUDvFUUIgE/F0MrG19iN5hfC7nzzOCE9XlQ6qKo2Qbuei/yvSRjZvEKRWfPMDPcIC2LutrS8oYgz1dVkxZeKatkmjJoPLZ+woLM0b/o9XQ==;XYPpO1VSiDOknwzgKn7yPg=="
 ---

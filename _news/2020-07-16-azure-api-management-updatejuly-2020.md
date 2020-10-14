@@ -50,6 +50,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 17
+  - title: "Azure IoT Central jobs and metrics feature updates—May 2020"
+    excerpt: "May 2020 jobs and metrics feature updates for Azure IoT Central are now available."
+    publishedDateTime: 2020-06-12T20:00:10Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-iot-central-jobs-and-metrics-feature-updates-may-2020/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 17
 
 secured: "bhQ118cTnMC3mWy3r5hS1+7RHowF87nX3j1NwVbVnu3EewIgTLdg+ExRMqXN7iD0yoEN+Dp75rgoXuE1erKLTI2yrD81jbedKwdGeuuQI7amojI/nBWHP/iqslC+hvb2XJsBTMpnDLY4OlzR0Cxedy9/ogzJ0x0f8kBvo8rOFfMEqWNm9ebMKeD77Ueyc+4E0hMmiN98wkNEodanallZciBYDLvdARxv1LhE1ju7MZCw6on44T0ujwfyMAroCCeakoP1nZNigovLPzTdjht96pW1HU4UyAXxbZ2fVMO44241KObtSm/24fZPsW6SqQmATPvKxSqZ/YgbyoR4Z9L6HQ==;zqE22688mu0dH9ZR/qcF2Q=="
 ---

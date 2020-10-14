@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/iot-security/"
 webUrl: "https://azure.microsoft.com/en-us/updates/iot-security/"
 type: article
 quality: 86
-heat: 146
+heat: 126
 published: true
 
 provider:
@@ -37,15 +37,6 @@ related:
     excerpt: "Regular Azure API Management service updates including new features, bug fixes, changes and other improvements."
     publishedDateTime: 2020-09-17T16:00:10Z
     webUrl: "https://azure.microsoft.com/en-us/updates/azure-api-management-updates-september-2020/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 84
-  - title: "Azure portal September 2020 update"
-    excerpt: "Updates include improvements to the ARM template deployment experience, a variety of updates for Azure Blob Storage, and more."
-    publishedDateTime: 2020-10-01T18:31:28Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-portal-september-2020-update/"
     type: article
     provider:
       name: Microsoft

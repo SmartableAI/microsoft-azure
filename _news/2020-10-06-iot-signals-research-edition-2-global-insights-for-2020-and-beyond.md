@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/iot-signals-research-edition-2-gl
 webUrl: "https://azure.microsoft.com/blog/iot-signals-research-edition-2-global-insights-for-2020-and-beyond/"
 type: article
 quality: 89
-heat: 89
+heat: 90
 published: true
 
 provider:

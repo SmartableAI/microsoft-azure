@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/introducing-live-video-analytics-
 webUrl: "https://azure.microsoft.com/blog/introducing-live-video-analytics-on-iot-edge-now-in-preview/"
 type: article
 quality: 105
-heat: 145
+heat: 125
 published: true
 
 provider:
@@ -40,15 +40,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 11
-  - title: "Live Video Analytics now in public preview"
-    excerpt: "Live Video Analytics is a platform to capture, record, and analyze live video and publish the results (video and/or video analytics), enabling intelligent video applications."
-    publishedDateTime: 2020-06-11T20:00:11Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/live-video-analytics-now-in-public-preview/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 2
 
 secured: "ubnYFz919X1mYLPgdX0ZLLHNahYj9bio5Z9IOR5u5SHG1tJlENEwn7SKJnBlbYmySyP+hiuWF81IhmtLMBDcsUrL1Gc8ufThdXRv6mm5QW1QwiNB0UM/PVFawc48OtA+PzijMMcrPk2s+PNXUc48dLzZvjxk46G8FC0HT7H/oROApSxwSpujKwqkuSAU3AOEyRAF1IwwBFSDnxILJLP1VaUsJEpT99AqxIsmLaP26317YPe1SpJ05SnwoVrJNVLRH3qPfO7/XyuH4KduCJ939sVkuG/46GL2ut+wIaWRYx62AREGiK2tQlQ7Xj3O3/dz1HCCXdT40exycRHkB53O5vTO8f5YhIKVekeFdMq0zcQ=;nbHvHUesOXtEZZNMniCl6g=="
 ---

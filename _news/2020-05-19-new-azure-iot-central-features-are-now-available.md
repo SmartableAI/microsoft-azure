@@ -21,42 +21,15 @@ topics:
   - Azure
 
 related:
-  - title: "Azure IoT Central new and updated features—August 2020"
-    excerpt: "August updates include jobs improvements, a new file upload feature, a preview of the new data export feature, CLI updates, and documentation enhancements."
-    publishedDateTime: 2020-09-14T19:00:14Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-iot-central-feature-updates-august-2020/"
+  - title: "Azure IoT Edge 1.0.10 release is now available "
+    excerpt: "The Azure IoT Edge 1.0.10 release is available with support for diagnostic metrics, message priorities, module startup order, and arrays in twins. "
+    publishedDateTime: 2020-10-13T19:17:08Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/iot-edge1-0-10/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
     quality: 84
-  - title: "Azure IoT Central UI new and updated features—July 2020"
-    excerpt: "July updates include jobs improvements, CLI updates, documentation enhancements, new REST APIs, and a new mobile gateway sample."
-    publishedDateTime: 2020-08-19T16:00:48Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-iot-central-feature-updates-july-2020/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 67
-  - title: "Azure IoT Central jobs and metrics feature updates—May 2020"
-    excerpt: "May 2020 jobs and metrics feature updates for Azure IoT Central are now available."
-    publishedDateTime: 2020-06-12T20:00:10Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-iot-central-jobs-and-metrics-feature-updates-may-2020/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 17
-  - title: "Azure IoT Central UI new and updated features—June 2020"
-    excerpt: "June 2020 feature updates for Azure IoT Central are now available."
-    publishedDateTime: 2020-07-15T23:00:33Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-iot-central-feature-updates-june-2020/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 17
 
 secured: "s5ohdTS1BRJxzCvEt5/ja+qdxlFuJUrjTY2A0xFRgtooZcr6KwBMyMjJVQbxlUw7BO5YIoZyrOZDMdXoUWCXJ6Vnkcz6VR996Jkbm/SK7ScaFpdLWSKQ+MyxuiyB9Rc9SUXRd/YfCOE9qFS6Awljisgr4Np7CyNTfQKJaWmmQnTQ975B3nRJbcLFObxn6AgcbHUmB2rSKNlmd25QQv+91TmCm8k0Z5TBTjemT+FuZuFSO8cCOVkkXCneMBQ8o1NJ9X1M4CP8wxNCsv/6LmYiDmCwsnZIicopx9af39FPunUYZ/WEvHIkTUHsuyg5MKxfk32CmpjTeHXb9QjPzYBYfQ==;QGzMZaJMb1S/zCbegi27/w=="
 ---

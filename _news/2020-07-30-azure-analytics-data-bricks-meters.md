@@ -21,91 +21,97 @@ topics:
   - Azure
 
 related:
-  - title: "Azure Synapse Analytics: A progress report"
-    excerpt: "Azure Synapse Analytics is now nine months old. Time to review new GA and public preview features, and a new partnership too."
-    publishedDateTime: 2020-07-24T13:00:00Z
-    webUrl: "https://www.zdnet.com/article/azure-synapse-analytics-a-progress-report/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/azure-synapse-analytics-a-progress-report/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/azure-synapse-analytics-a-progress-report/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 97
-    images:
-      - url: "https://zdnet2.cbsistatic.com/hub/i/2020/07/23/c117195f-c0bc-4118-9393-07fda8f3cd08/synapse-workspace-wide.png"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Simply unmatched, truly limitless: Announcing Azure Synapse Analytics"
-    excerpt: "Today, businesses are forced to maintain two types of analytical systems, data warehouses and data lakes. Data warehouses provide critical insights on business health. Data lakes can uncover important signals on customers, products, employees, and processes. Both are critical, yet operate independently"
-    publishedDateTime: 2019-11-04T06:00:41Z
-    webUrl: "https://azure.microsoft.com/blog/simply-unmatched-truly-limitless-announcing-azure-synapse-analytics/"
+  - title: "Azure Monitor Log Analytics data export is in public preview"
+    excerpt: "You can now enable continuous data export from your Log Analytics workspaces to an Azure Storage Account or Azure Event Hubs."
+    publishedDateTime: 2020-10-14T16:00:18Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-monitor-log-analytics-data-export-is-in-public-preview/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 69
+    quality: 121
     images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/ee753f4b-675a-405f-98b2-01d4a85034ca.png"
-        width: 1024
-        height: 576
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/a2fdbe1c-7e34-4260-bcf5-0dd1d292edcd.png"
+        width: 956
+        height: 330
         isCached: true
-  - title: "Azure SQL Data Warehouse is now Azure Synapse Analytics"
-    excerpt: "On November fourth, we announced Azure Synapse Analytics, the next evolution of Azure SQL Data Warehouse. Azure Synapse is a limitless analytics service that brings together enterprise data warehousing and Big Data analytics. It gives you the freedom to query data on your terms, using either serverless"
-    publishedDateTime: 2019-11-07T10:00:11Z
-    webUrl: "https://azure.microsoft.com/blog/azure-sql-data-warehouse-is-now-azure-synapse-analytics/"
+  - title: "Dedicated clusters for Azure Monitor Log Analytics with data encryption at rest and Lockbox"
+    excerpt: "Handle large scale deployments better by taking advantage of data encryption at rest (with Customer Managed Keys) & Lockbox, and even configure cluster level capacity reservation with discounted pricing."
+    publishedDateTime: 2020-09-22T16:04:35Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/dedicated-clusters-for-azure-monitor-log-analytics-with-cmk-lockbox/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 69
-    images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/4f907102-6934-45ea-9eb4-acdfec680961.png"
-        width: 1000
-        height: 562
-        isCached: true
-  - title: "Azure Analytics: Clarity in an instant"
-    excerpt: "What 2020 is teaching us is that the world can change in an instant. In the span of a few months, we have witnessed massive disruptions across every industry around the globe. Factories are idle, hotels are empty, and the transportation backbone that connects us all is quiet. Navigating these unprecedented"
-    publishedDateTime: 2020-05-19T08:00:13Z
-    webUrl: "https://azure.microsoft.com/blog/azure-analytics-clarity-in-an-instant/"
+    quality: 91
+  - title: "New alert query examples topic in Log Analytics"
+    excerpt: "The logs experience was recently updated with examples queries for common log alerts."
+    publishedDateTime: 2020-10-13T20:34:42Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/alert-examples-in-logs/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 37
+    quality: 89
     images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/849b9325-2b7b-4f90-9aee-4ff7f5e66354.gif"
-        width: 1600
-        height: 900
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/e5d2dc9a-2689-438b-829d-6c5106b14d71.gif"
+        width: 1907
+        height: 1019
         isCached: true
-  - title: "Azure Synapse Analytics: Insights for all"
-    excerpt: "In November we announced Azure Synapse Analytics—a limitless analytics service that brings together enterprise data warehousing and big data analytics. Despite the massive disruptions occurring throughout industries in recent months, we continue to see a high level of excitement and enthusiasm for joining"
-    publishedDateTime: 2020-05-21T08:30:41Z
-    webUrl: "https://azure.microsoft.com/blog/azure-synapse-analytics-insights-for-all/"
+  - title: "Announcing Azure Data Explorer data connector for Azure Synapse"
+    excerpt: "You can now use Azure Synapse Workspace to access your data in Azure Data Explorer using Apache Spark pool"
+    publishedDateTime: 2020-10-14T16:00:13Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/adx-synapse-connector/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 37
-    images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/19cd7b32-501a-4032-8fa8-ed2bd9a28d03.gif"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "Azure Log Analytics saved searches functionality is moving to query explorer"
-    excerpt: "Azure Log Analytics saved searches functionality is now available in query explorer. "
-    publishedDateTime: 2020-07-27T16:00:02Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/saved-searches-functionality-is-moving-to-query-explorer/"
+    quality: 84
+  - title: "Line numbers in Log Analytics query editor"
+    excerpt: "Log Analytics query editor now show line numbers when composing a query"
+    publishedDateTime: 2020-08-13T16:00:06Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/line-numbers-in-log-analytics-query-editor/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 34
+    quality: 72
     images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/5693d9d5-fd5f-4037-8747-aca13db4934b.png"
-        width: 925
-        height: 426
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/620becd2-4c6b-4d21-a07c-32d6f154cff7.png"
+        width: 776
+        height: 271
+        isCached: true
+  - title: "Azure Monitor Logs – Log Analytics REST APIs general availability"
+    excerpt: "Log Analytics control plane REST APIs are generally available under a new consolidated version 2020-08-01."
+    publishedDateTime: 2020-08-27T17:00:14Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-monitor-logs-log-analytics-rest-apis-general-availability/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
+  - title: "Ingestion data isolation in Log Analytics"
+    excerpt: "To provide you with additional service stability, we have added the ingestion volume rate limit to additional Log Analytics data sources including Diagnostic Settings, agents, and data collector API."
+    publishedDateTime: 2020-08-26T16:00:01Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/improved-data-ingestion-isolation-in-log-analytics/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 52
+  - title: "UCSF, Fortanix, Intel, and Microsoft Azure Utilize Privacy-Preserving Analytics to Accelerate AI in Healthcare"
+    excerpt: "UC San Francisco’s Center for Digital Health Innovation (CDHI), Fortanix, Intel, and Microsoft Azure today have formed a collaboration to establish a confidential computing platform with privacy-preserving analytics to accelerate the development and validation of clinical algorithms."
+    publishedDateTime: 2020-10-07T19:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20201007005922/en/UCSF-Fortanix-Intel-and-Microsoft-Azure-Utilize-Privacy-Preserving-Analytics-to-Accelerate-AI-in-Healthcare/?feedref=JjAwJuNHiystnCoBq_hl-YChnX-dlxR7bnql9VXy9e5cS3CA0Bo2lHArOQl-PHrIrCOi9QzgjCezTS3Nw_X6kJUrpSBm-Hav1w-UkdSlG3k-cHwnfBrk8h_RXgEUlyPTLkaZDLiczsahzEklD3R10Q%3D%3D"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 51
+    images:
+      - url: "https://mms.businesswire.com/media/20201007005922/en/828476/23/UCSF_sig_navy_RGB.jpg"
+        width: 1200
+        height: 627
         isCached: true
   - title: "Azure Monitor Log Analytics Quick Start content is moving to the Overview page"
     excerpt: "In order to simplify and streamline Azure Monitor Logs, we're moving all links and content from the Quick Start page to the Overview page. The Quick Start page will be removed in August 2020."
@@ -121,6 +127,24 @@ related:
         width: 791
         height: 371
         isCached: true
+  - title: "Live Video Analytics now in public preview"
+    excerpt: "Live Video Analytics is a platform to capture, record, and analyze live video and publish the results (video and/or video analytics), enabling intelligent video applications."
+    publishedDateTime: 2020-06-11T20:00:11Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/live-video-analytics-now-in-public-preview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 2
+  - title: "Text Analytics for health is now available in preview"
+    excerpt: "The health feature of Text Analytics uses natural language processing techniques to find and label valuable information in unstructured clinical documents such as doctor’s notes, discharge summaries, clinical documents, and electronic health records."
+    publishedDateTime: 2020-07-08T16:00:19Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/the-health-feature-of-text-analytics-is-now-available-in-preview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 2
 
 secured: "olYdTPXHO6qMxIS/cQzeSU+kSoFTUpbm/kFTZN328cMVIthysNdQyaiSC3aeVUTFPgRNHmoleIiIAJc+awh1S+mF7XuKLgDzPljhlAfukD0Zs1TEayyAsh0B8g9R7k04LEi7kD2NhmwOabUnAZks473JL7gc4HpVLNuanopQCXCRsNguklvoGySPX+eWfouJzqTGqifRwpgozolqEHgrL4IBr2jvhgGAgZOnHVNgCKsq7Bzkp1Yg8rQTuNnnQXoOqquPlt1ynQUXpXyB97kUKM7aCYPDWTV7MTUaDS8OwdLbiaOuPTinQPsNDc6Au7hU2BSZJ+NRKYW54W1jNKExBg==;o02irvEDAGZbUrEgs6mNyQ=="
 ---

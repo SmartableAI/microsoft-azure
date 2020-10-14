@@ -31,24 +31,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 69
-  - title: "New Azure IoT Central App Template - Video Analytics is now available"
-    excerpt: "Microsoft and Intel have collaborated to build end-to-end video analytics solutions using Azure IoT Central & Live Video Analytics. IoT Central application template is removing the complexity and challenges related to Video Analytics solution development and deployment."
-    publishedDateTime: 2020-08-19T16:00:39Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/new-azure-iot-central-app-template-video-analytics-is-now-available/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 67
-  - title: "Azure Monitor Logs – Log Analytics REST APIs general availability"
-    excerpt: "Log Analytics control plane REST APIs are generally available under a new consolidated version 2020-08-01."
-    publishedDateTime: 2020-08-27T17:00:14Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-monitor-logs-log-analytics-rest-apis-general-availability/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 67
   - title: "Azure Text Analytics v3 is now generally available"
     excerpt: ""
     publishedDateTime: 2020-05-29T21:00:32Z
@@ -67,15 +49,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 15
-  - title: "Text Analytics for health is now available in preview"
-    excerpt: "The health feature of Text Analytics uses natural language processing techniques to find and label valuable information in unstructured clinical documents such as doctor’s notes, discharge summaries, clinical documents, and electronic health records."
-    publishedDateTime: 2020-07-08T16:00:19Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/the-health-feature-of-text-analytics-is-now-available-in-preview/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 2
 
 secured: "q2YRrvaadEALN88BNMKph+WwZluMGgc5zbgS2EYCP79j6nqZBTHsZhE9lv1RC03IhsJTqZGUVlt+/TrYkTw95hL0zPYBD/a5bIFhUnLxYnSodNzEYiaY4lhFLCK4gwg7/K1hjDcjzBUZYFn1nwVU3DyK8xgn+bNUYdcyGsjkKgqkhjRbgIZXGmng0VAiQ5SnM6c97F0ZWgWTjyPTwwx7WXiw565QONehKfRcgnZlbAiYnspqpmf2BAISz1ewzwbLt291jd4L75BagX7T0BnxA3fiPhh+Bbq6hAom/kzsto5wJ84eWNoC8v75OSqm8Qb3eA+qhzf0CxY12C1+AflrwY8qQQpsg0Z42l87SwCK+8M=;1xsstar5hR1Z9lQOw+pjNA=="
 ---
