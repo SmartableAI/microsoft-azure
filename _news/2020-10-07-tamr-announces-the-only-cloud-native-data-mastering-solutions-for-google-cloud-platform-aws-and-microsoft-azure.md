@@ -1,27 +1,25 @@
 ---
 category: news
 title: "Tamr Announces the Only Cloud-Native Data Mastering Solutions for Google Cloud Platform, AWS, and Microsoft Azure"
-excerpt: "PRNewswire/ -- Tamr, Inc., a cloud-native data mastering platform used by some of the world's largest enterprises to solve their toughest data"
-publishedDateTime: 2020-10-07T13:05:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/tamr-announces-the-only-cloud-native-data-mastering-solutions-for-google-cloud-platform-aws-and-microsoft-azure-301147624.html"
-webUrl: "https://www.prnewswire.com/news-releases/tamr-announces-the-only-cloud-native-data-mastering-solutions-for-google-cloud-platform-aws-and-microsoft-azure-301147624.html"
+excerpt: "PRNewswire/ -- Tamr, Inc., a cloud-native data mastering platform used by some of the world's largest enterprises"
+publishedDateTime: 2020-10-07T13:35:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/tamr-announces-the-only-cloud-native-data-mastering-solutions-for-google-cloud-platform-aws-and-microsoft-azure-1029657406"
+webUrl: "https://markets.businessinsider.com/news/stocks/tamr-announces-the-only-cloud-native-data-mastering-solutions-for-google-cloud-platform-aws-and-microsoft-azure-1029657406"
 type: article
-quality: 16
+quality: 36
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
-
-images:
-  - url: "https://mma.prnewswire.com/media/1157929/Tamr_Logo.jpg?p=facebook"
-    width: 1500
-    height: 785
-    isCached: true
 
 related:
   - title: "Quzara Cybertorch™ Adds Enhanced Security Operations Capabilities Through Azure Sentinel for the Microsoft Cloud"
@@ -89,6 +87,6 @@ related:
         height: 583
         isCached: true
 
-secured: "vOzXIV1O3RcV/IRXljrIPI0AVlSBeY++ib+PPm2rR5ReubDDL74MzwAiej795Dwk+ajMpAGHqO4jNvdQxonXe6Yuw0QpJV+yQJkjMCPEanQ/1ODVvequoy7eYqUXr5e7Bpi/ZEUKjcfnwiA9mz4oIUlmIxWWgkHaI2YW8f9y17sVhJRI6+K41JHx1O/TmFYL9qeH/DaUOoYMI/Xs0LjkZXusonM6XT9ExdPpqa9gIu2EBj9E02qKE/oqFliMaeycQUVb8X6BJ4swUQqVV2ZpwFtZtJqyxs84BQB+UFbXlnYj+4oUV8bYJ8XKUu4Co9RUCVV8rvvbCxfe8Cjyqyz8dGAYzhjA0gxhmXX7S64TQ8Y=;hqq5W5K5AY3bx12ujA5FuQ=="
+secured: "cXHB7MsgVr0I8QZsiKFrbervhwJdvLC7t2KJ4Pn54TaXkvWiLeFZrNOsjZjtMnyIg9SPBYxMXDVJg+6Za+lNkj/omYNIzY6sI7ieewwFgRKadJkbYQg4YDwfwRTGgx6awZYXmj3jwgGNbcemr/vOKW1zslSs9AsRXsYrkuE+Usixind9VA4369v1+rUS5KmQZncT6IIJyAkmg6T3zyqzfgdWKR9dyURz/ViQPmoXArYwubSu1PgwLYkxScyGnHriSkcofKjF91+SADkJ6tCC4/uXYKLkDdxBefplNhSp/ttaAr7DYqakGtvg0Qt4N5wtULneU696h9+ZAzssiNHi9Z+OngXWBtNbx7IDbdAwYj0=;1E1LSAp6oLAFdJHIN4pevA=="
 ---
 

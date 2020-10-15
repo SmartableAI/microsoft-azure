@@ -62,6 +62,15 @@ related:
       name: Daily Herald
       domain: dailyherald.com
     quality: 37
+  - title: "Tamr Announces the Only Cloud-Native Data Mastering Solutions for Google Cloud Platform, AWS, and Microsoft Azure"
+    excerpt: "PRNewswire/ -- Tamr, Inc., a cloud-native data mastering platform used by some of the world's largest enterprises"
+    publishedDateTime: 2020-10-07T13:35:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/tamr-announces-the-only-cloud-native-data-mastering-solutions-for-google-cloud-platform-aws-and-microsoft-azure-1029657406"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 36
   - title: "Scality Announces 1 Terabit Per Second Performance for Scale-Out File System in Microsoft Azure Public Cloud"
     excerpt: "Scality, a leader in software solutions for distributed file and object storage, today announced the technical preview of its high-performance scale-out file system (SOFS) in Microsoft Azure. Scality SOFS running in Azure delivers linear scaling performance for read- and write-intensive workloads."
     publishedDateTime: 2020-10-06T02:26:00Z
@@ -75,20 +84,6 @@ related:
       - url: "https://www.totaltele.com/res/image/articleimages/5g-icon-hpe.png"
         width: 576
         height: 583
-        isCached: true
-  - title: "Tamr Announces the Only Cloud-Native Data Mastering Solutions for Google Cloud Platform, AWS, and Microsoft Azure"
-    excerpt: "PRNewswire/ -- Tamr, Inc., a cloud-native data mastering platform used by some of the world's largest enterprises to solve their toughest data"
-    publishedDateTime: 2020-10-07T13:05:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/tamr-announces-the-only-cloud-native-data-mastering-solutions-for-google-cloud-platform-aws-and-microsoft-azure-301147624.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 16
-    images:
-      - url: "https://mma.prnewswire.com/media/1157929/Tamr_Logo.jpg?p=facebook"
-        width: 1500
-        height: 785
         isCached: true
 
 secured: "BNDhEDBwg6JXN94q1vfnzbfXXyFhQCg1T9nB1Ja565VF2GQRvYa2EfH6Km4E46psVeF+LbIFk6S4r1zZmJxyFaXbG6L5WInsKhCmay6pee9m3RbxZOUqi7kYoP+CvRfMPoMs7UlM2ni8Oq9JWnx/m46oAzm2p+LrOI/ZuWYapEwrrGkHmsEgnGaTmZeweiy/UHBa1gai8OoXQgKhpoPT95owLYQ/bgiytMcEyWSZI+cBGDwGwspc40O8J+jhPwsd/L+qMr4ICquPhUk0Y0Q++O7HKo1Twjlztns/rdXPXdc4F1z3c+X24CucdJVgvzIrqGv3ghQYaYA5JVUbs0Xms9c9cZ6vW2CRD81ltIIvS2lzMm7q/LX6gyN+UNm/hPXdJMQ1fgm2ffjlBWNsqrxRpUptP2wTQHNUk9UDHsmyBoZdd8fIRlikiLFj0l7kgBWCE3Age8bYZHFKDjUw+0+qVyxZ9tPAcCOeQN7zjj9Quk+pM67bLqWUkUhf4D5J47uDXu31JdRGP+C4A7IXdRhxiQ==;i/K0NmLZgZILiw1RaP1knA=="
