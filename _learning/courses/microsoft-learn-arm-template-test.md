@@ -25,6 +25,12 @@ topics:
   - Azure
   - Management Tools
 
+images:
+  - url: https://docs.microsoft.com/learn/achievements/generic-badge-social.png
+    width: 640
+    height: 320
+    isCached: true
+
 secured: "3bNVI/Qw3ha1cMPmk43R8E1RYxo23Yl0YJ9SjhiTb2/d2KoGHW4eL3LW53F2B3wypyeIkkOiIjo7tiR2luTho4NkKgqLwM+1gw7MwwD4rPOCaEqeqaJsNg312hbvwj/vUtEfmGHk06MsHwhLwegIg4oLUBi/WYSDqrY/BKxUsEq40nkiC2bniCKkfccM8I2S7u+Rn48A2N+kW1CnFF0EEbCBrJWnukILZBC1DbGFW1gbiRQGx+KeOxXv+zShpFhgPCIhqovmTINHtiWDRBdbPjsUJMtYjO3bf83aE/nvY78bLDeBfsMaTxfSd3is38rVZu2DtjGUOzU8AGEKYLtEzfRv2SPV1QrgCuJQnTKE995GnJ2PGO2BUUoRdYTVo0PiYxvT+Wj3KAgeIyDdOx09FQ==;rc3hT/F1xG+GuCN9XSv3GQ=="
 ---
 
