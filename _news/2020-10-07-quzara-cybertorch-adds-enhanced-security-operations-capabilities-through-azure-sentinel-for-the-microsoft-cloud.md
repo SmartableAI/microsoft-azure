@@ -9,7 +9,7 @@ ampWebUrl: "https://markets.businessinsider.com/amp/news/quzara-cybertorch-adds-
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/quzara-cybertorch-adds-enhanced-security-operations-capabilities-through-azure-sentinel-for-the-microsoft-cloud-1029652288"
 type: article
 quality: 73
-heat: 153
+heat: 173
 published: true
 
 provider:
@@ -25,6 +25,20 @@ topics:
   - Security
 
 related:
+  - title: "Saviynt integrates with Microsoft Azure AD to provide identity-centric, zero trust security service"
+    excerpt: "Saviynt expands integration with Microsoft Azure AD to provide additional advanced governance scenarios for enterprise customers."
+    publishedDateTime: 2020-10-14T23:38:00Z
+    webUrl: "https://www.helpnetsecurity.com/2020/10/15/saviynt-microsoft-azure/"
+    type: article
+    provider:
+      name: Help Net Security
+      domain: helpnetsecurity.com
+    quality: 57
+    images:
+      - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/10/14145709/helpnetsecurity.jpg"
+        width: 1200
+        height: 627
+        isCached: true
   - title: "Saviynt Integrates Microsoft Azure Active Directory to Provide Advanced Identity Governance for Enterprise Customers"
     excerpt: "LOS ANGELES-- ( BUSINESS WIRE )-- Saviynt, a leading cloud-built identity governance platform, today announced new and expanded integration with Microsoft Azure Active Directory (Azure AD) to provide additional advanced governance scenarios for enterprise customers."
     publishedDateTime: 2020-10-14T11:00:00Z

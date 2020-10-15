@@ -36,6 +36,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 73
+  - title: "Saviynt integrates with Microsoft Azure AD to provide identity-centric, zero trust security service"
+    excerpt: "Saviynt expands integration with Microsoft Azure AD to provide additional advanced governance scenarios for enterprise customers."
+    publishedDateTime: 2020-10-14T23:38:00Z
+    webUrl: "https://www.helpnetsecurity.com/2020/10/15/saviynt-microsoft-azure/"
+    type: article
+    provider:
+      name: Help Net Security
+      domain: helpnetsecurity.com
+    quality: 57
+    images:
+      - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/10/14145709/helpnetsecurity.jpg"
+        width: 1200
+        height: 627
+        isCached: true
   - title: "CDW recognized as Microsoft Azure expert service provider"
     excerpt: "CDW Corp., a leading computer solutions and services provider, has been recognized as a Microsoft Azure Expert Managed Service Provider, joining some of Microsoft's most recognized and capable global solutions partners."
     publishedDateTime: 2020-10-09T18:58:00Z

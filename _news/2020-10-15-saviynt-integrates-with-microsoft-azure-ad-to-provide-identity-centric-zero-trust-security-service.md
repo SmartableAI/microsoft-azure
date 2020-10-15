@@ -1,23 +1,29 @@
 ---
 category: news
-title: "CDW recognized as Microsoft Azure expert service provider"
-excerpt: "CDW Corp., a leading computer solutions and services provider, has been recognized as a Microsoft Azure Expert Managed Service Provider, joining some of Microsoft's most recognized and capable global solutions partners."
-publishedDateTime: 2020-10-09T18:58:00Z
-originalUrl: "https://www.dailyherald.com/business/20201009/cdw-recognized-as-microsoft-azure-expert-service-provider"
-webUrl: "https://www.dailyherald.com/business/20201009/cdw-recognized-as-microsoft-azure-expert-service-provider"
-ampWebUrl: "https://www.dailyherald.com/amp-article/20201009/business/201009222/"
-cdnAmpWebUrl: "https://www-dailyherald-com.cdn.ampproject.org/c/s/www.dailyherald.com/amp-article/20201009/business/201009222/"
+title: "Saviynt integrates with Microsoft Azure AD to provide identity-centric, zero trust security service"
+excerpt: "Saviynt expands integration with Microsoft Azure AD to provide additional advanced governance scenarios for enterprise customers."
+publishedDateTime: 2020-10-14T23:38:00Z
+originalUrl: "https://www.helpnetsecurity.com/2020/10/15/saviynt-microsoft-azure/"
+webUrl: "https://www.helpnetsecurity.com/2020/10/15/saviynt-microsoft-azure/"
 type: article
-quality: 37
+quality: 57
 heat: -1
 published: false
 
 provider:
-  name: Daily Herald
-  domain: dailyherald.com
+  name: Help Net Security
+  domain: helpnetsecurity.com
 
 topics:
   - Azure
+  - Security
+  - Identity
+
+images:
+  - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/10/14145709/helpnetsecurity.jpg"
+    width: 1200
+    height: 627
+    isCached: true
 
 related:
   - title: "Quzara Cybertorch™ Adds Enhanced Security Operations Capabilities Through Azure Sentinel for the Microsoft Cloud"
@@ -31,20 +37,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 73
-  - title: "Saviynt integrates with Microsoft Azure AD to provide identity-centric, zero trust security service"
-    excerpt: "Saviynt expands integration with Microsoft Azure AD to provide additional advanced governance scenarios for enterprise customers."
-    publishedDateTime: 2020-10-14T23:38:00Z
-    webUrl: "https://www.helpnetsecurity.com/2020/10/15/saviynt-microsoft-azure/"
-    type: article
-    provider:
-      name: Help Net Security
-      domain: helpnetsecurity.com
-    quality: 57
-    images:
-      - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/10/14145709/helpnetsecurity.jpg"
-        width: 1200
-        height: 627
-        isCached: true
   - title: "Saviynt Integrates Microsoft Azure Active Directory to Provide Advanced Identity Governance for Enterprise Customers"
     excerpt: "LOS ANGELES-- ( BUSINESS WIRE )-- Saviynt, a leading cloud-built identity governance platform, today announced new and expanded integration with Microsoft Azure Active Directory (Azure AD) to provide additional advanced governance scenarios for enterprise customers."
     publishedDateTime: 2020-10-14T11:00:00Z
@@ -59,6 +51,17 @@ related:
         width: 1200
         height: 627
         isCached: true
+  - title: "CDW recognized as Microsoft Azure expert service provider"
+    excerpt: "CDW Corp., a leading computer solutions and services provider, has been recognized as a Microsoft Azure Expert Managed Service Provider, joining some of Microsoft's most recognized and capable global solutions partners."
+    publishedDateTime: 2020-10-09T18:58:00Z
+    webUrl: "https://www.dailyherald.com/business/20201009/cdw-recognized-as-microsoft-azure-expert-service-provider"
+    ampWebUrl: "https://www.dailyherald.com/amp-article/20201009/business/201009222/"
+    cdnAmpWebUrl: "https://www-dailyherald-com.cdn.ampproject.org/c/s/www.dailyherald.com/amp-article/20201009/business/201009222/"
+    type: article
+    provider:
+      name: Daily Herald
+      domain: dailyherald.com
+    quality: 37
   - title: "Scality Announces 1 Terabit Per Second Performance for Scale-Out File System in Microsoft Azure Public Cloud"
     excerpt: "Scality, a leader in software solutions for distributed file and object storage, today announced the technical preview of its high-performance scale-out file system (SOFS) in Microsoft Azure. Scality SOFS running in Azure delivers linear scaling performance for read- and write-intensive workloads."
     publishedDateTime: 2020-10-06T02:26:00Z
@@ -88,6 +91,6 @@ related:
         height: 785
         isCached: true
 
-secured: "6/ZjQvB7MAA/S6vrveYgNbwiCSfJIpjFDigRXBBZHVZdg6l9p3hwnEwi+jxUoA+ZPZ+V/BphSlraikvBAfccDpsMACI0u/GVa5R7TKV7zP7WW58qBTGD341rJYe9UpBC0GqYZTT63Tk+9Uyoi1UU29mv01CVGmEHQdkH6L1fac3/Z9EmGa5CvAArSFo6KqPpriWEA8nyP96e7mZ1+VqKQ23rHeNCiXdNHXmfzSglDefsXO6bRyMtdA0t1Bt5EnvrKcZtQlyG7GmGHJ1aq9N93BP/1kS4jQ1d4MbIbqToPqZBmoHVoO7c3MSpHwHOlTOF+DZ0YRdV6lJjXs0IU69PV0XFbjMtTbjjbuEyguWVdj0=;CzNLbDtG5NWFohlLjQ4dQg=="
+secured: "W0mElfmPcGe1XTeRJjM1O2MlmCk8+e/F6QMr24Hfx2+fzIkqiqycxEyenNDeuIvhQFSXAK1mkQ2W3U4CQY11AhgSq6RgdiJdwGgbNpRXxsd4XdYfEifm0r7wAD+gyKYF/XlU7MA6Qlo3uqe8BY4EJQeNchv6kQmVXjpylT+vIXErw6U5IXkwfXYOjGRY2MPpWNjyYcx+gFKfgflSaWb+6S2gG1dFtBTbpW/AOqLpO8k25Y6GY0rCJhhhxPkwDp6UUAyOCGPTzCSfgj6NwiQlqQSI253t9NfvXhzMBniUIFSy6tdRnVVqSO9ndehPuQcoYxF1j2rNo9jG7Colvxi9s/1xXST1oIlilJ0f5Q9ETVg=;tAuP6bIk8FFLzX3P/2uGtg=="
 ---
 
