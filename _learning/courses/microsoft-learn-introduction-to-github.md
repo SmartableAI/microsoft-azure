@@ -1,14 +1,14 @@
 ---
 title: "Introduction to GitHub"
 excerpt: "Learn to use key GitHub features, including issues, notifications, branches, commits, and pull requests."
-webUrl: https://docs.microsoft.com/learn/modules/introduction-to-github/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/introduction-to-github/
 type: course
 price: Free
 length: PT1H12M
 ratings:
   count: 420
   average: 4.714286
-heat: 51
+heat: 64
 
 provider:
   name: Microsoft Learn
@@ -30,6 +30,6 @@ images:
     height: 320
     isCached: true
 
-secured: "gokDsWEWfKDQsFnoqu+JLfZmAuSOPZV4UssDROKFdfPd968bc00iQ4XGb3ufbZFFs2y61SngThqHBJ5QCLnNbQX9n5Xj8MiAyPcyvbRQfe4n+BwykJSEH33zY+uXoPjrJakPvikEpLFUUuBxnDtLvCIKMVizTepAXbP0LijaZCEWx7Og3eR5gKMZTmzAj34T592Vb1D5JYqELFDCDFLioUCHwf7TdXBv4FMfw66CdH8pwKvFQ7mCOTCchaOAB8Oi6kbXDXmxltukcrddkyo2hz/YmoX4W8UMmpfMYEi/oObdceJ8n0algDYw8oxFTGXOKuJMwb+kkyxMdyXii5LSQbiB0Hkoxc+HEphTR/rcPW9mLqxDdHWrcTPpm7yBhHyy67NGHD/Jup+TVWi6VbbQ4R1Xl2TbBBiFwyRHwI42TuQ=;TK3dvGBFJsr88cfnPdmKaw=="
+secured: "Z+63alnD6XMbFW8rmXR0sPPumbXm48XJCT4sWo0inxN6gbup6UsRu+nHZVtnyF4Ol7/u29RXhJjfAamzpS+tJSfSwnPahkFzJbAuHrlcy3h+wIyqJJo7DeqHmI88XihhEaIrMp+o8ya6ac91MbU5lTx0mKc0BZ9lPk+mCVHndXaDK8AmKjb3BMCba1gKsi8ZfbNbR3Pn53rAyv7I2YwmbA9/bSNYnEhBqD/Ry1opgKU0en74rDVXY8STdck75WsoAIlFpFhIuA+AHI8EhgMWxKbJUZ6JciLyN1MJoBXZ0pd9JSsqXbCGUuhBSECnH5XuRjOOTvWIYSRoc42EwubGF5kIorhqSMriL+LKfusmy/6cGBKDluzpXouFwxuH8sR6Pr8NoUF0tuf7qedxg55lWw==;CBd1m5Fv+yX3vTHm18pxHw=="
 ---
 

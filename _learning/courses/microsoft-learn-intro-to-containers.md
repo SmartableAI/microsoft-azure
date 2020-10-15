@@ -1,14 +1,14 @@
 ---
 title: "Build a containerized web application with Docker"
 excerpt: "Learn how to use Docker to build, store, and manage private container images with the Azure Container Registry."
-webUrl: https://docs.microsoft.com/learn/modules/intro-to-containers/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/intro-to-containers/
 type: course
 price: Free
 length: PT57M
 ratings:
   count: 2823
   average: 4.6085725
-heat: 53
+heat: 113
 
 provider:
   name: Microsoft Learn
@@ -24,6 +24,6 @@ levels:
 topics:
   - Azure
 
-secured: "hAIAtVFe6fzPa0WDl5+BCwhTgM+O4GVm3MLLCQhheonKYkuL5qBrLLpxPklfTqi3oDk55O+Cvz6UnZsbZczfRdpy+uqtFjyTJug93i+D19wRApdI6ai2bUG7Q5P7oifXgRcxg9Sctj6Mr/baSGMNXYrabxQbk/sU43lCA4SYAQHxIh2N0wcqjqB6IcOaoW8jFkM5lQeTTctsoKs/Gbw/HVLMyoTCgPzP9JGpDBWdPgFOVfZ7enE/n8OMMAYI76GnhcPFInozCE05KcX73CmUEdXHPLn55eKY7x0eqUF9mzNbe4Zm9fSU/yPatcEQGiPtodTlSpgKp2kKR5LF85HvHREdynGQGfrgbq/wG6kys+59Cz2ahe2IWCST1oQpBWLEao2D8vivi1bYVDYMA610ZlV5DGxzsRU4yjU7tTHV8LM=;0e6FEB+p/eXNK59t9RLiug=="
+secured: "Okv6uGpUDQByAQJ9fqkyu/rrXNEBQU6UPvPKZXEDtW6nsNWAAXTvz/dascj8TjHydoBeWVmpsjqL5CPeIPVosC+VYx7CYLGJ407m9RMX+kep2vKRifLS5OgUT27M6Aa3sZHKT8eG1FvsyDX32CYIL+k39ODHjgkihcGdVSLkY8z/bC3UrySFAZ84diriv3DOz+8fCrc0oROc4rHlarH3wO3F5ZDNH4cvtvuKcvwSYycvSyU38r8GwTSNBSsodtWHK/FK3PVD7A7Tpw2xfuZjHcWb7C1w/V113b8Bex2X1dy03KdlyjEg6na7c8KERRMijGcltJfQKdFUgf+kqsDkxlwid61NXuW0TS9bCQ8MTukZv9BkqpA7atST4CO+g9mS/P1pPHuQfg5Thfv4SIb2Ig==;fdKwYhqgYNKKqQ3FJXup/Q=="
 ---
 

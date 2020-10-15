@@ -1,14 +1,14 @@
 ---
 title: "Build a .NET Core app for Azure Cosmos DB in Visual Studio Code"
 excerpt: "Learn how to create a .NET Core application to store and query data in Azure Cosmos DB by using Visual Studio Code."
-webUrl: https://docs.microsoft.com/learn/modules/build-cosmos-db-app-with-vscode/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/build-cosmos-db-app-with-vscode/
 type: course
 price: Free
 length: PT54M
 ratings:
   count: 1452
   average: 4.4724517
-heat: 52
+heat: 88
 
 provider:
   name: Microsoft Learn
@@ -26,6 +26,6 @@ topics:
   - Databases
   - Developer tools
 
-secured: "03Mr8LGItNkA11l0i7OBdnmi/4BvZja+agyKbEKD39yoCJv3ByCtqlIt1lIolczerOHzz+h8BcnYGfJsecwnzwjBXwEr0VJr8teia2AU5jWUJT4f0JzdM4eA0oPaKN7dUbQo8kH4d/0oJdnXQ0gt5ShiVCzIyHVHJuZmw3vV9eNtThpG7CacMO64/ciw7QYmsWF+7oomCfXMF91gh4w/VOWeirhqXR0YAiKih6HExwKTIX8ijbJxwat1ls6DMO7rTO5tUzuKqnXSVdwRDsgMweaREN2uO+yVc3bK0XCV7OMtU9PNViNYJcpjUNrXypXZ+ldtDKcrT+KuztbHfmRnj+iqao0S3e/ad6JhFd9MTjQFfkGoolRj8lz+Gd/U6wW2YnPHy6KBI5ZoSKSdtYZTYOMyUQpSv0ugjio2y/jkbaY=;vxIj/wt5VejmpE3J4FpTwA=="
+secured: "xPqZB8m+rmU4ApjCnq4W/4DWYvVGLXyR31URGg+FvgYvaQiuJgbcL7szV05Dfty/9iGqOXnMK8ADaq0Klmu/4oNdSGwFLjRLQRjuf0tLpeQ+IDcUfXNvyjImyLNedCLr0bwPaPpbOaYNYjpP5IZmdIfL9+nWV2ad/7yxDD3LKW1voO37lU7FJGX0IUX6p4mMUJ72wK//GIu15w7CkK8D2ZIDsG7+62ABOeeO1Uy4G7b6opYR8P6Di1rp8Chi/ZYqC6ZnLWMjW09GhTCiaUOfErehmckJE0Pm6QaXn0DrGv+jJHC1uJPCYsJgHxbAgBaGxQBxK2DxgbQzx9RCLE8hSYuZYJi9WasH7hdkuSuvmLhhrLzS3FDoSfNJ6tPTdDk4ZXC5ym8EpndeQ5W+cm5VnQ==;skfmXbnuaLj4TiIsicksAw=="
 ---
 

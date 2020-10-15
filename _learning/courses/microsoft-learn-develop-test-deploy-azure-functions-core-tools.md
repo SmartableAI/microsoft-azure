@@ -1,14 +1,14 @@
 ---
 title: "Develop, test, and publish Azure Functions by using Azure Functions Core Tools"
 excerpt: "Find out how to develop an Azure Function in Visual Studio with a test framework to create, deploy, and test this scalable and secure service."
-webUrl: https://docs.microsoft.com/learn/modules/develop-test-deploy-azure-functions-with-core-tools/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/develop-test-deploy-azure-functions-with-core-tools/
 type: course
 price: Free
 length: PT20M
 ratings:
   count: 1777
   average: 4.7056837
-heat: 55
+heat: 96
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     height: 400
     isCached: true
 
-secured: "vhfMqJdloHPP2qwQ9yFZpOE/oE1t29HL1DWD6xm1DOo8SE7pb9Jd+holvmz7NxJGoinrl0kZAzjSnWYE6Nbw6lBDW7yA/dHhqRyk4/WHK+a1Zg276guQqBLgL942gJmD2GIY0NhtxmvXXM+cgw2cvaG+rl9JhOLlJmSpNpAAQAsv15fnfZPhnT9LEhIs1ebLdHynPtKbPWVc/+RSSQmaN5ecvIk/Cm+UENpnfhg32gTwEJbm9zapIc/aNHefI7RyCZQaRiBzmqPlRoNjivEFh041HE0U53OJy6yPPCZ3FC4/4NMswq+VYEp4ev4OKNfWvLz7iZG4EuDlyuRpdIqC7Rv8A2wv2Q7vIIfkN2rWIIG831yuMWQvZN6/lEIfxrsQT6iPpZRpDIrl+1oGALafVdlvmLalvvo17iFWBWfxEyo=;3JrMfEmVjCjvf1A3IdVqSA=="
+secured: "idpDHJYJQ3gFqDkQuKJUCerF290ugV6se3EJOpvrwGe2CdGLQa0W49KhQEt9StrraEMRLzAQqV8xJ1o1TmWwgy065WoHXl/TlhV2omD0ZK37YO4cQTk1eW4cQvhnF5yHJD/h7P3cx4V8VVz1d1twFx4OXZtPrAyCqLpb2Y5B6ABgf1afPLTs3fuhqeSSvU5/m6tlemQn8CEvNQWMQpw6vDhzzcTH6sfxhIVhhk2MTe8+gjee4Za5Z9aQkUOjTviGT0ODnln4YOTSE5buNe411zn5OxGI16LgeH67TE8mNHC7dNE8pt2c8hZES6qe6EpmF+OujWjKypEEanAyQT8nqR/FrMFCACBBNEwuARcCutwADUmo6/K9v9c/0SA99rMGQD9jEqwz3OY9biGmbDKa2Q==;XJbjPYOq7VAVyMsYeqKziQ=="
 ---
 

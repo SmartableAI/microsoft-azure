@@ -1,14 +1,14 @@
 ---
 title: "Configure security policies to manage data"
 excerpt: "Learn how to set up policies to classify, retain, and protect your cloud-based data."
-webUrl: https://docs.microsoft.com/learn/modules/configure-security-policies-to-manage-data/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/configure-security-policies-to-manage-data/
 type: course
 price: Free
 length: PT39M
 ratings:
   count: 1966
   average: 4.59766
-heat: 51
+heat: 99
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     height: 400
     isCached: true
 
-secured: "2ZuOhRQQKLfd5dt+KCi49NfsNoj72PEvHVnZe8e1tziNurhZfibnD4kjqr9nJ1j1SxzILZgu1RHvc+QqHZkUYiFo1u3YsIuVzaegl/D+m5MxhUY4Z2jNI15uwYR/YCj9o7DWL8jrd2Vb2NIFzmW2r9nIIjcHMQQPDPOmG2p+JH1/N/JrIEUWHjxnPa36fH/jfkbVAPdTn0+C6GNLT214v/Le07TStoBNBZEX4XXIMqqXaVTCGNmAqpoOi7q3XG8P36E3uEHVw1ZPyVWZ7ZBkUf39DoX86zaMLGyIDi+MTZ55JadNb1LV/lcIR/4AqRUCotI9HLVZYB0S86baIkgNGCsg6xzi2+Z0k+t9+sSXCjje9aogbhuwQ6X/vc+s+zZ1v9c5gUKoqPh6RqEK5ePPPG1qBfVz13zZTcbeOzB+zZQ=;+o3UBpJ/b2vwgVCnYQzszw=="
+secured: "VGvu2oF78wGsz6Re596iRE/wn3xttjNCLvXnx88s19KbtA0+4z/SgQ9u1HswW5JklmYXvTGbTFHFocX33u0bF1As/Dvr/EqK800ZoLMPNG3Wfo1JtZLWJPIxzPIUHHevGNzqMu8wzqKajbJJRWIGm0LVDh4bJtOf0izOUJkdlxKWAqnfM9QAi2FH3RndkQDfOJ7poVhxx+4g0KXd9BOa7Lh5rsmda2cFyY4YMlddFv6+0wCC0JRDfWEWwS2IaFIRvtmhaDb7aLPCBM7g4RObhn3CU7G61sdWrTx6NkugWYm/EH6Cx7Q4H/r/w4XHuUuBd0qbMeRhzhhuMD8Us02JuNykRLIrYaofwnXq86NGTNopI+loi+CL9Lu7DcVQvYilx25khn34hOQP9Jyq9GfuVQ==;grAR9bYLKnZMIjsMW+jLVA=="
 ---
 

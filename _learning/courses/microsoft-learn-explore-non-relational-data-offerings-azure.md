@@ -1,14 +1,14 @@
 ---
 title: "Explore non-relational data offerings in Azure"
 excerpt: "Explore non-relational data offerings in Azure"
-webUrl: https://docs.microsoft.com/learn/modules/explore-non-relational-data-offerings-azure/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/explore-non-relational-data-offerings-azure/
 type: course
 price: Free
 length: PT41M
 ratings:
   count: 212
   average: 4.8301888
-heat: 54
+heat: 57
 
 provider:
   name: Microsoft Learn
@@ -30,6 +30,6 @@ images:
     height: 320
     isCached: true
 
-secured: "XEbF+keIiphr6kY2/ki6cLI3/WGoZIRAEfr8k/Jtga9z81/X+SNYxoX5XS6UkcBnDiN0PnsVBa4XRa1r+iwtZcwOETJSU8t9FtIy5t7q89sgWPb89RP4/nVqdWgmeF4gxXSrpWcqeDxwp/qBVmquSRZw9Iir+PVeLtJB2n5Y0f4AG39RLqIGzz7c0HDs0520Y6sQ6gzwbvstsb3y1FwOtoASNm/mTGc8fUT0v3a24I3DfloHoGrIkVOFqiWmRBnzW2t3p9nXgq+PA9Fx7WS2b7NbbHVKfRD3zASDJC7yLX7dBmXVUfAb4/ZCz4LVeaD8qiNRFdwlq/xA8iIrlIRJ3tia61qgLzIJHEBBg+AznXczPIPiPKWVGuk7pyicnAnKMp028njVwMvcJdKr7+TAyFMrmxvHKy3qCW8aaIdFcSc=;OLsnvhWumpTzZvzaCfX69Q=="
+secured: "qiD0NZhfUmMXOnNTh1B7insEE0LBZVuN0FV8mMwPEMe+96QdoXxACPNsJ9fAckOMr8+upFiuNPIjMI/95q2wJ3fL/AYa4T9OTNh+LNSMRSiD2JOmeoisQoTaUTjNW4GoWcCANxMI0+IwlhVUbX0uIg1wk80zomvkOxB1/EoQ8f7t11rvHw7/sq+fY1YyRRzMC/1L5twGWqUFLZ+18ZkJTf/u1bc1K6mi8fq6r4XWSKfKRK/Z4wrOj49zRWhVgUNbqfKzvFcAf7tP9EY7Bijvzq7+0DrJe7rHamtraegMaWRILZSbIo7GyqZwQmrGO3c61QN0FgN0HY9HWCTBcfyucp+z/Q92Ggad3/pWkrq0mnkIni9OT0E0xRzDzx24NbdAs/ynphZABZIn2nam9JPhFw==;SRarhbKgc2bZAH2UBihrYw=="
 ---
 

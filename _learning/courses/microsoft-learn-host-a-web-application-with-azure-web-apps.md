@@ -1,14 +1,14 @@
 ---
 title: "Host a web application with Azure App service"
 excerpt: "Create a website in the programming language of your choice through the hosted web app platform in Azure App Service."
-webUrl: https://docs.microsoft.com/learn/modules/host-a-web-app-with-azure-app-service/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/host-a-web-app-with-azure-app-service/
 type: course
 price: Free
 length: PT58M
 ratings:
   count: 5171
   average: 4.604332
-heat: 55
+heat: 142
 
 provider:
   name: Microsoft Learn
@@ -27,6 +27,6 @@ topics:
   - Web
   - Management Tools
 
-secured: "ZUiV0/MVb/xLD3ZtYMgRU6cf6cYCsVSrFEq0dX4EAJAzkEdvnKQEG1vTRFArQ3hzVQCyyGiZav4s4gqH8SZFp9fyDRIRkZVl12gUrRKg4n2Ulee2vU1cSkQW0cNPyh1myuRN831z3KV7/mD3D5JmUnzLhtHn3JoINlD3rTeOdKdno0FRNXFlraXunmkzHCIGDTvM4Z8NpFxcUX5t5K2VERPSB+kTUeYr0AnCihZQz688KXXxMa3FNcGVxSSSopjVoOy4O0/VwfxTT9cTmHwBcf555cdifgnyCtKmLGbQ69GTZwP+X/cM91olhCkb1phvZVIP0vb4P6UUl/e1tIlmW1cVqbbQUeb2CLKeygUPoxxcr/5v3Lgwbp5u8jdJ8qHFRZ4laDUODC2GqphYq8ocbkItCBfuTvGn5hlNtyZDpe8=;nfjfezkicamwGB8oIZApAA=="
+secured: "ZyFYDEu1m/pErHHn84D9LMpfHhvmdqevqhw5KMF/a1SanGbY4OT0yOYTVO/d5g6W3FQQ1FWrer+676OZ/49YG23LZJnW00mm5tGWPz1sqjCtx+kZFWaNCebCcrogFVJP2EHtBYcWF7kxA1gd8lQTcuEyD+Sn5lTa9UkGrBoyB2IQ9bv1tP8KvQ9IissPdwDhr7MqBYdZ/M/QDsY8tvbowkXY9vWwTkkbI1j9VFIe/ighVhX2xld7LNQj1UX3xzgdzpiHQ01Q6AKeRhrZOY2Vt/w0DDwFmmC0NBEMoXksS5wu+VTUqoau3IM2SWcc8FsEXmkdQ7IqCSJQB7cpSb7hsmEk1BzS2v9LLCkazEK9i1q4LVgH8mowS+sleJ2gdoP1/8Pmi1RejO+bOyEG43bO6g==;WW7UUE+/Yy4mqVM0WG0oEw=="
 ---
 

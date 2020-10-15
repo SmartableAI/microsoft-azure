@@ -1,14 +1,14 @@
 ---
 title: "Query data in Azure Synapse Analytics"
 excerpt: "Learn how to issue simple queries against Azure Synapse Analytics and how to visualize the data in both Excel and Power BI"
-webUrl: https://docs.microsoft.com/learn/modules/query-azure-sql-data-warehouse/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/query-azure-sql-data-warehouse/
 type: course
 price: Free
 length: PT60M
 ratings:
   count: 1425
   average: 4.633684
-heat: 52
+heat: 89
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     height: 400
     isCached: true
 
-secured: "NqqT+tUCUO669viicYdfzDJBR9durvnG2zs2llzg4lVcptY50/Q8sLzN8IOzO/wcDHH/ylc9TRgAtjeCmXanPkVbDFthe1clWmI6UNDP/6N5wnMjZoXzeB7BagNEox8xfb2wFa3xJBKGGnylBVDm0f6DvqDy5N/D6Sz4uzoi/4Wv9r6jFRoOoyWkU9Nky9kGIZA2933l/A4RC4BOsbgo7RvLU7BM5XdUFtLS8MJZU74m7pZ8Jn3QU54S7ehdRPfqmwZGqKLlA+ASZfRDhvwxKAm078yGK6ZrdnPfMuPMS3nrBZuUDInnPvuvU14qIfhUwHyjn98h0u2IYEhr9HVjVMHBPSZ135wXgvZCG/QJBIYcowVgYuewCgxRZoXhSboQgbnAI6Y3lFpm33FNf0nmeFoayKaR7j4+tAby2WRJkKI=;/1pdFjKY2Oyw0pqDuvgApw=="
+secured: "wa4U5VzPpPDPtvIUT8AcKdvulPTCduYOjRpCWWB45b7TQNFE+GAWYK+ZfmqNXssvVxSJYI8BA/7axYE5wFWlelVND1PeLqL9K1vUL93S+1SxHOmUkDEVHO2a9tF9I0yFANyA3UR271+LK5zhUnfYN2YokbID92qp3liIfDZ8IvaBOel1XJunrjMwwqgPbQ1aflQJ4AVCX5Xsm0mG3SB+vw/T8E8UL8Ot915HLBK+spQlUP54UcmanB/PXtm3+zjWRv1uLPtA+Dv85FS2vjq1MaZKGUmWwdTvT5jfco1kqb9119/d26tZ8SeVaXP4Mg6BS60rR36vC/f9OT/x5eacgdSJmjLfTFRC/D+Jm+CmRUFsiZiGK0LFFudW8KXlmtxMgtd7n4ZI/Nx7TXKaBuD2Xg==;MFmLV5kt77Im/s4PpI6PXg=="
 ---
 

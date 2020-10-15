@@ -1,7 +1,7 @@
 ---
 title: "Implement hybrid backup and recovery with Windows Server IaaS"
 excerpt: "You'll learn about Azure Backup before learning to implement Recovery Vaults and Azure Backup Policies. You’ll learn to implement Windows IaaS VM recovery, perform backup and restore of on-premises workloads, and manage Azure VM backups."
-webUrl: https://docs.microsoft.com/learn/modules/implement-hybrid-backup-recovery-windows-server-iaas/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/implement-hybrid-backup-recovery-windows-server-iaas/
 type: course
 price: Free
 length: PT1H1M
@@ -27,11 +27,11 @@ topics:
   - Compute
 
 images:
-  - url: https://docs.microsoft.com/learn/achievements/generic-badge-social.png
-    width: 640
-    height: 320
+  - url: https://docs.microsoft.com/learn/achievements/implement-hybrid-backup-and-recovery-with-windows-server-iaas-social.png
+    width: 642
+    height: 321
     isCached: true
 
-secured: "0ZmGuceucHeVvdsnvpzHgrho9DVuesZ0wkQQjjr1M/rYH4hqfpZoJ5P4dyjOD0jFRRHMTCwtoHoMKqVnjXTVbjoL5fZx4iFTBnj5JEyTaDApUiRCBteIxyNMu/RhZvE2+YqOwNcp5c8okiZIj2ecmgUS3XjYmKDQsQmnT1NUjOm3ShrOVoaQE1SGkWdKj907kyqZYZcAELER3ZlOmLzAR3jTwMn3e7qg4Fa+ymgwYsXQ0YgSZo3GNtWAuTf7mkox8RShimP3152+0tkSYHKtBx4WhUxGEjuU+Ij4eI5IrFLKmFGPDqvcJGHPdSejNmwJjXXwbqYMPXwR600xsxv0EBxCWN75MkYRx6kDmU02q5mAOmKobsT0uTq8TJEm8u0Yftc6iEdn3G8ZYtdZtRT/KifFVxpSXrME33HLqY1IA0M=;jxQGqtTaOE9uR+uAEJWjoQ=="
+secured: "bvBz0iBkoW23MMhNEweeNDwEuWES9TK/pDDiFGt4EDRkXVsvRFMufCmGUwOirZi55sMsaGvERHsq4FeEp5Jf7XWi29Joh3Wz+qHxYL56u0CzaVMi+Vi/TSgLjGrx+l4+gs1FgQ0fD3HScqvcESFbY4ehNcxszb51D51RFhFPEwPkBxIv14rXxiGIeMbeXWvRt7mMBaBoS5v7Y1Z5rHZ6OgNrSZigHXWtlxdYAJ/0pB23EJ19Q62oUfLQrBuOnS4a8nGDk6xFtoSHbFm4J0AJvFr5vg+x+cps8idDEJWdflj5saoYcJb48wlh0BNnEUAwXa7rZEWR23PipSJkOVp4JVD1HZivMDS23QQH5SCtHVWsVu1U8fw2XkMsFfmTWdD+YJ+pnhRCdUU2bDCzGYn2Ew==;NS8o9TPgv1Ko13FQjhJM5g=="
 ---
 

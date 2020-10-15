@@ -1,14 +1,14 @@
 ---
 title: "Migrate on-premises workloads to Azure"
 excerpt: "Migrate on-premises workloads to Azure"
-webUrl: https://docs.microsoft.com/learn/modules/migrate-on-premises-workloads-azure/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/migrate-on-premises-workloads-azure/
 type: course
 price: Free
 length: PT31M
 ratings:
   count: 119
   average: 4.647059
-heat: 50
+heat: 54
 
 provider:
   name: Microsoft Learn
@@ -30,6 +30,6 @@ images:
     height: 400
     isCached: true
 
-secured: "C196qfbcRlFCxaqU+cIa9BDzBvWOBMpNGz58fSHnSsmUqdRLvvLC9hUjp5VftVl5XzSD43Cs5MXzz53b9FofP0pvzhwCYQtQKs71XVWFqwhHWSjjhCF1MiKq+BnfljaPkpGjrNp3x0ayC45Lyrqwtdg2JVYaUQMl2RFYhem3mMs7IlVV9kNKp+wBQTySjdydAXfWu+SaiOiUV46YVVsq0v0ARaseHUjNXakH92L0Rg+m02czN6w3oc6HeapmMJzTTfp8MTfmCpV1oCJL84ZqBvNNiaTTDqfC8AfCv9h9sN4GQ0fFLVohTyDc3vso5z/W6+iaPTKPtx/3C8RzmguehmJtJ9EXFVlzsUYor9nbUHWEsPFtupZqDLI93B/glzZCRuzzysGg6Pe3Q+lqjmUzKmJUaW3IHjs96OtT5EU41tg=;MigJMS53xTPyyLfL/SmRjw=="
+secured: "vQ250tQJzt5tK0n1Z61lsKuC8YVNHcGUM5aGisJSEO49d+m+FKnTYIcgIxdEtuncZBxv1zMP5hCiirEAVXKAIaZZNWMeKsGg3KoMrRu1xZAsSPhwwRNajIJ+jknG95xTjDt9iqX2jhbgWncrQ+QlO7T24YI9u2uOfBQiKgy6C/qrk/hobtSraLNdMkmi2sM4mkwDXQ9yhMuXG8ue0i2+0GMacrHJMYdsc6RGn0zjXTy3o7IDypMx51d50H1hnqb+CaDKl7UyCS5lrkZDUJU+cckwfUmwjpiSq1i9dXj5YR7GuPQ1ismrkWV+b9kn3MjOdBdic0QqtilriFQ9Faq8P1vX+N4YLA6xCAgxXhAesetcNpl2D+BRhMHOkE+6r6jquZQXyAst1ZD95Qk7BlLO1Q==;eH69BvPg0f1NnWmDgOpJRw=="
 ---
 

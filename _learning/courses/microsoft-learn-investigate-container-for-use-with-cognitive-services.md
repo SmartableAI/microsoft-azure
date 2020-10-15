@@ -1,7 +1,7 @@
 ---
 title: "Investigate container for use with Cognitive Services"
 excerpt: "Learn about Container support in Cognitive Services allowing the use of APIs available in Azure and enable flexibility in where to deploy and host the services with Docker containers."
-webUrl: https://docs.microsoft.com/learn/modules/investigate-container-for-use-cognitive-services/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/investigate-container-for-use-cognitive-services/
 type: course
 price: Free
 length: PT46M
@@ -27,11 +27,11 @@ topics:
   - AI
 
 images:
-  - url: https://docs.microsoft.com/learn/achievements/generic-badge-social.png
+  - url: https://docs.microsoft.com/learn/achievements/investigate-container-for-use-with-cognitive-services-social.png
     width: 640
     height: 320
     isCached: true
 
-secured: "6zeRAX+VpFJ9rGwKWa82HESU3AhRRh/uf/3NW373gnVBZewXIntto5lq6IQfNxxAqkmv73m86l6tXpfzn2UgvFuPoiKw7wdUOzX/ozzX4u7+1RJp1ErRb4RbD36ddDr4lNPV1bk+Z9pg0msu0OBWQ3k3EBVFOrd9NsgLP68xxtj81TYKrsLJrdAQjE87Ny9w2MnUICKtni+aNBruQMNHrhGD0StXElJQgPi7WKMmt8YxEHXn0jm9vdgjGXsb284y7tHQULQ0ervMVJwSNAK+9KgxrcHEH3dfHvYrQmuQZGutWTIEBn5FRtlSX9uU0T52bhEZxLOuHdAl3IxgTwm0DPRqZLw5t0TTYRQidhvLRz6UvmtG0ioPWkpacx++UhqA8LFfaPnh3MoT6KLsIwx5FzkJb9MP9NTKGLxWvofMBhk=;NoqAT6GC6PE6opChq/77DA=="
+secured: "nGn/aHSr8QulBOjrVOJdiGgUrNWBzCoptJwbq1U9GmfddXOoqKaDwkzUI49wVUWht27ovV2ZhtNd5z9Gy9FjjhMmUX6SE1cisCmLeG255oZGRLBCZ7ALefqxo5Gles9YzsfiWYgGKeMvDVAX2ac8Rvu8zOkhfMxMg7h2/5znaV6vtXqZXyI81cyS0/N++96P4M+vUqE/+U/rIomWxm/eu7Ig0CwZingJ+HfRs4eqZSkPgPI+N5ocavOVqx+ytIK+ZItLLiroPxzuuylIiz/bq8KajpwlIox32WcLSjkwx0EkaVtfBr6PJ3mzVy7ObFRQJw50srtYZ4q3sWzqC6jUVFY6I+OcXS86NeCGsfUqbMYOXb5NshXJ/8I+VVsT8CMU+p6TKxr8EnFvnXoexHbXWg==;cuM/DIynZujFeZiO2NUezg=="
 ---
 

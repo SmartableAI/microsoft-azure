@@ -1,14 +1,14 @@
 ---
 title: "Migrate SQL workloads to Azure virtual machines"
 excerpt: "Migrate SQL workloads to Azure virtual machines"
-webUrl: https://docs.microsoft.com/learn/modules/migrate-sql-workloads-azure-virtual-machines/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/migrate-sql-workloads-azure-virtual-machines/
 type: course
 price: Free
 length: PT25M
 ratings:
   count: 62
   average: 4.580645
-heat: 51
+heat: 52
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     height: 400
     isCached: true
 
-secured: "TIyhxKP8EMmUmmwCIlmFpBWFo1HlvuBUUI00RBQY0zv2AI3a04ta8ygi8USCqR3UnhMCYVV2qOn5yCm7pS15F4f3yb9nRH+zhvkR0ouEPgZc9YtweAPSAJdksyyr8KkYuHa9DMoEaqbvyexvUXu7BUSEfJmcdioOU9Gnv7a/NL7oo+sJv/V/cgYy0OkUjPD5wspJN+ZvbSU3703IWPKziAm7+nuHrpoxdnT1cy7rsQDgMt8JYiQgRguEjAtrmUfJe9Fq/ZznQfhoGvHEQflIqEDWxy9k3qSupV+US6Aj8N5kRQIgNCTx5F8rGnFZwlBFo0KYvjpBz2jGXXt9kWLTatfKxI3N1ainnnBKsdyAi8UGrStqFs94/3piiaoftbBBnSMr007VMjcTGkDVpi5+sdV+gOYSX3bn8OmoFrVc/vI=;4LruinErIAU4v+ZiUXZSsw=="
+secured: "mQ613JVXCtuTpqosYhCE77dQmDL+eKmZJdBdCKYqWshFS8tFPIwx+RMXKdA7en7o3LYgHJVF1VvFuKNYqsK8lozRyF3V/cCncf9GKkHyzzf20D6nF1iIjTZStYHuAclcVrIOGlEaJCxm+SAU6BIQSrLSPCEawcIihJQ3KX9j67VsnfVO2N/1kVa9IjmjQjpAu0AjDHCN5QXkQuIHH/iiBAmppjSd+EfSDNx/Ji2DQ/TjBDHqaBbLNcgRZB1WKWCWM0RAo8p8svTmA/hn/nHO1914Oenv+ECHFrdg+b9QZpb7pBFflOmMbDu5J3pkV18auKKIIt5PPrdlVXPD+Rl93aHpc9j++M4oX3DevIDv4rS6hJcef8h4cPPrNdHWYWAJ6SDJBKrETinrt2JhjlEn5A==;SsaRQ1my/AhjrgrHQ3iGvw=="
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Understand virtualization"
 excerpt: "Carnegie Mellon University's Cloud Developer course. Take a deep dive into virtualization by understanding its formal definition as well as the different types of virtual machines."
-webUrl: https://docs.microsoft.com/learn/modules/cmu-virtualization-developer/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/cmu-virtualization-developer/
 type: course
 price: Free
 length: PT21M
@@ -30,6 +30,6 @@ images:
     height: 500
     isCached: true
 
-secured: "Bel4gTJXHBIS6qRwHtaGh19iclNm6vifoO6jAhK6KUB2FoDhFZX62iJwvIVYtDZ9fOc3sQK5mslGSbnXWCVBWThhMDx/XS5NRgzIyNm+GIq61eqz0mM1FZaZ9uz0993sfht9wjh/+m/AY1NDvGcfN0xY4JnEAqb1w7SpWyLzNsZt9A8W2o7oiQgONjaacD4pWckDYpPdh0T281oYrk5Z9qHN+6CF2gDO8Yw04VLuhmz8X6kCXvA4UaQ6fN3VET31OCXj/IPiBQ3hge+ErgypmYF3GHf4txR3Ll5Dj7OoLNHtiXKDylNAe3qfmWbcHLr18eXFnsFxP7lPHMOBUfSK0FowFhG0tJ6/1ATM/CfYyqdNp4qKaM+P6xcP6K7bajaGg5ZQ7UU7B3UlybQ8M8zTWw==;7OvU30Q+C4ANfqHQLwY8Tg=="
+secured: "gRGpfIwU20bypyCtSYwipNhziWUivz1hPisO07EtgHSmZgCOxVtOUbGYgbJZ6MeKYNef1HID2lNHnRxZ934IgEu+QzoNSb02dKrT/s7P85SVkEQ+fHNk7+HgSkqreGlK17HwlWbcwkvJ/pKq/PtCmYmscWLdxuN9H0fbXbZXgim2NATC2Y2tVJ6sThQrf8ph25ruY8Ddwbbn9TKnAbKpRnjcFsINv9wBeKA+6tphsXfrDbya9/zxWtrJE0KBstMejXcliCavtgSPRppdzYNZDtROtAWAwQlPdzdxnJN+A8iXddX6GQRGDoX9gvcSG5mb1ynsWsy/pXNq9kN0I2lNAMi1PSFrFYvJRHdNQ9XosxHCzxlfm45fa9Dv3HKtyfF8KuTpb5SZBmf2hGohZYEztQ==;qg1DkQlAKEI1rlPGgL10mw=="
 ---
 

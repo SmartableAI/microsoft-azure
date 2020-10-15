@@ -1,14 +1,14 @@
 ---
 title: "Describe the identity and access management capabilities of Microsoft 365"
 excerpt: "Describe the identity and access management capabilities of Microsoft 365"
-webUrl: https://docs.microsoft.com/learn/modules/describe-identity-access-management-capabilities-of-microsoft-365/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/describe-identity-access-management-capabilities-of-microsoft-365/
 type: course
 price: Free
 length: PT29M
 ratings:
   count: 317
   average: 4.7097793
-heat: 53
+heat: 60
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     height: 324
     isCached: true
 
-secured: "am8WEh+X82FPkSik31MiIvfgGOexFAtvZ2K9tap6qeDG6xaBcPlw6M3xrwvfglKxrTNYNFxFn0NLShWYHTW+9vG55WAAT8k/jzBRmvcrT1oT9iEPcW+coAtgg6LvdevnQW32q1WhN8iUNzTqS1Ki9ssnVNQUnm/N1fC275X9vymv22DIAZ7ix6PDH7UtTT3bQ8DTvvDQDfm9aNhGnIWtcGERtv6JVUXGPhBim0wVVtA8i5lW+RlinOHPcb0CNjnv7+ZwC+Osxans60nbOCO7sqejHoU9eaDDTiCn84tnL5EJnoApvMjWAMpKPMCkF7/306fxIdnjb50dIXRfDXjuwlP05AO5V8CnQu1qVD9TKcz7MVBofoERKHk/8hBxvwkD1V2F85RXgNJfdyJjodg/pRGyvSgPc8D+cLpPTTfwT8g=;3vyKheTNbE6dhkT9H/lRsQ=="
+secured: "lNyw9hyXDDrRskmRKfGwTaezgPCA3s3pP/z3+E1mgAq2rQywGqw4uNSf7L7q2TB2a2h4JOAEar7Lm+h6OslMj2qE8HKv1WT6tJT0spIntTLe2BQAa7f14tV6tzrre/m3j30M8b7ENSqz+Y9msqHV0CzhqhHbYDv55RSZLJkYf/CHtdQKA9r49byvafIYKVzReO8v8SqqRxcZZUgxToiY8ZWJ6En7bzH28j50BL7CghV69wXGak3aUOLbFvSc6avIabVKyLVje92roCM2iddcxYhqh67SeYl6sp7kQwh9FVw3xtyMGDfjxgFbs8ZjZWfUmvNuC5lqLQhbXGiLxubO1q0OUL1+fBEEbaZn65/rTaKsT2iGsvyOT/tQU6SAk1XjxbbAVFFD/Qlfxeqv/1mO6g==;vSCkhVGTDFcqzNlItllrIA=="
 ---
 

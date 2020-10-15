@@ -1,14 +1,14 @@
 ---
 title: "Design your site recovery solution in Azure"
 excerpt: "Protect your applications and data from disasters with a well-designed site recovery solution."
-webUrl: https://docs.microsoft.com/learn/modules/design-your-site-recovery-solution-in-azure/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/design-your-site-recovery-solution-in-azure/
 type: course
 price: Free
 length: PT44M
 ratings:
   count: 65
   average: 4.707692
-heat: 50
+heat: 52
 
 provider:
   name: Microsoft Learn
@@ -33,6 +33,6 @@ images:
     height: 400
     isCached: true
 
-secured: "lbhKyJi+9+clZ6F46GCw+CS+mwGOKTatPMZR7Te+hduoPU5YfKEyWquPBmMovsEdGQQW9nQRl7XroNHNR53iLLJ9yoTQNJgckFKcko9ZG/8DhLqHI51jp28k9S5CLg9SM4gUKypoWnFJOpoOlWl+rHuHqVQG9mTOWNZYW1LR5fMmmhn1cD1CZvDAWvg0DuHxm9Xi+I3pOmxXwGw8wVuNV0u4sKpGJ4YxAkJw6AbtYg6kojzZD3G0mpRFikHJ8kv5pgVWDj8qeK5zb8w9nz29Kw9QpdYoIuYnMpbEQOpnNrE9yM4a2nPjEePtJT24PcRBCS/NmKoti7RpsU0+Nqhn8a687OoEt171whKf5KCQzs3RHKsW0H8R4ynS03Lgd1vAXLoKWKwmGxK/3UT8E3pTFl9K+jKBew2sGQrNj85plOI=;RmKjOHzCC/nGF1wZuMWLAA=="
+secured: "oOBcXgyZ5a0xOJ/4YPEa9YvoBEmD9FiE+ssvRzdSKiJeO4jIzgGVxDgsCxci6pO01w90VtyDRLjOPJg+RQCFLSJudREzKH/3q+cXzN6peTrxaogNOQJUzGO9WwPl2FaQleLvaz4Ii9u908wNHXW5M+mDEh28rMLYizv2xj1M8Q7fUmSQpa1vT/x0wSchRzLjKMdzx/iZrUXIknTRPGptIykCwVExdtkHpHVfoMlxNqjizaZsVX9qDAbjLpUuPxT6u9GzaYJvJ+RL1pTKlEEMn5wHEAw0M2Rv0whzfoYXPPSLUOVCEBDGEczybRW5n9us9zCSInETTbrEncvGbMWvOy/0epUHsXFVSQ+HRry874/11Xx5k6XDxtzs8uRtLNizm2HJEOC34ZiyiN9XdTwFAA==;gkYUm7FLpXHHhIq7ToPiDQ=="
 ---
 

@@ -1,14 +1,14 @@
 ---
 title: "Spark architecture fundamentals"
 excerpt: "Spark architecture fundamentals"
-webUrl: https://docs.microsoft.com/learn/modules/spark-architecture-fundamentals/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/spark-architecture-fundamentals/
 type: course
 price: Free
 length: PT33M
 ratings:
   count: 304
   average: 4.638158
-heat: 53
+heat: 60
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     height: 320
     isCached: true
 
-secured: "tdBhQIq6NzcpvUvxAQamMXWxczfHAxbWstvrsFx2koIH/43KNisXeb3ZpyqguH+xC/V376wZxDBHeD3t/tan3gVn7cJJJdm9RUCFAfOe5LMP7Aio54gZPVzE8drU3YkXEuNsPdAI5UiYBT+wTHF28Buhuxorp6zAZOkz5lTU20bLE/VeoLWoslW2C8jlTDJgGNmZ8+1Ddm1BCmJyTCPqMxEsp9lZQzZ7zUGeKL22myxjT61MDK8y4uG4oq2+waE4Los3C1UCrtUpXPZgAX+8U+ol4v64yydus4AQdqFyn9VMFpo+/UxK/LrlPmkr3rDGy75btteXL8Mk+CUCvOKHwvpCY0VW2L5uiXbB956kA7QgK1Ze10L0Aj2GYmo7GVnP+yamIoELG1xUl5KLauenwQ/q9EMrgmT6JyT80gnmMkg=;Q3yBaZbUmm5n76+G+xoAxw=="
+secured: "uBmjU3Y7G2ixkZs6r4oKEJNH7RBsop3vhKldCvNKCpgFEOJoJI2UoPyKTUl6uywBRppUG0KdVXbjtzgAkp8B4sKBvOwKRHihGsMVzxPJTmm1GEaqtiTcEhlH7kVcFKfCrlfN+5wul7y0iEayC5ngMkopYONapUY8B2FfeYonUdTBkO36MJ5z1e+Tb65z2abO/xTa4lfrUBdO9lF3ST5QCETclY+4FXqjgyLsIXOI2+qYKa+1P63v8F2ObZdByhBikwRK2/B8TcmRxVquSyObc41iyNeaJvxSjE1RZRn198labIO2Q8vwx9+FHB5zKGYPL1jutockipm9/pcvTKGWuCiPs67US/cLwBaFewL33QWU6SkuRZ/ZjxXXn7q9KjbcZE/18wuXs38VN59DH4x6NA==;S7B/gbkOpcHjqQSe5kYbhw=="
 ---
 

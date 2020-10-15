@@ -1,7 +1,7 @@
 ---
 title: "Discover Microsoft guidelines for responsible conversational AI development"
 excerpt: "Learn Microsoft guidelines for the development of responsible conversational AI, such as chat bots and voice-controlled systems."
-webUrl: https://docs.microsoft.com/learn/modules/responsible-conversational-ai/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/responsible-conversational-ai/
 type: course
 price: Free
 length: PT39M
@@ -25,6 +25,6 @@ topics:
   - Azure
   - AI
 
-secured: "Lg6/KRJk2kMhK7rhNaIWDx2t7husqB0JKH1j4v1hUuvWMlaMxLXYbHpKxw+qanmE2MZO+jzcwzwWrb7qvYSiXRDtodXyrWaZj6937C6zp1+s2+ii+7MhkGh762w1s//Q3MedJN7dhS+AX22XFBWxarorECC8vPmCV0Nc3qnm6FkRfD50RGB9d6sHuY3TfE9lz5esQGrvuE8hYTTXiYmYup7VcC2bgu45QB5rUG609vf6OZ/OLYaQgDABBzB7YG3jbWuMFOkj/PSc0rCpbDQDKm9tFGTa9zadhIbWVIwu574w666I+CdwJdE5NCLKH8S6HLtej/bCGk/Btjj5Y+4C5EwCRaUSkoCQiFEiBiIEGD7A/sLKF8dQ24jHR22/AuV35uVdc8djwy/V7Q4/dXDWA4tXORMuls93b+FGqfFWe3g=;K0/+not7rnMhTkxf/3wqAg=="
+secured: "IxxUwz+kYeNLfAfyI3JC17oDCYdiFbP1pXeGJhEc5escH6NdoGR9xMSjH9xi1c3PxKUpgiOdlmf3VEGK/9Rrm1jh/xWTnVjWFQ0glh/nZLDKXKprJ2K+rh9IEgIrBnpaMuz8qsQtYW/Bb0/WtB+cg2rK+5+Eo3HSDNv3DKGB4q9kaj6Su0jt+vPraBg96haSLSePZrGPHmcWS6eEhj3mrQHdVSBpYVEhF+qq+5UXq5akTcNJDFWC1DCIWAtUZAPXYxzuEn+xX+z3yg6uHskQBDzb1HXR85RHH86l55ixh5mSg3Ei8/jOzChN7U8d2KlkmoL7+/XuBkSa+S07s+E+/zBgNPnhz6DhmA73wQ0bIB+ZdtIr7Puf5l0Esm0dcNtN408JnojdSiKN6z6Jztp3Vg==;W24r19UyluUzeUzX8vQI3A=="
 ---
 

@@ -1,14 +1,14 @@
 ---
 title: "Implement a hybrid file server infrastructure"
 excerpt: "In this module, you’ll learn to deploy Azure File Sync, migrate from DFS, and use Storage Migration Services to migrate file servers to Azure."
-webUrl: https://docs.microsoft.com/learn/modules/implement-hybrid-file-server-infrastructure/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/implement-hybrid-file-server-infrastructure/
 type: course
 price: Free
 length: PT1H32M
 ratings:
   count: 13
   average: 4.769231
-heat: 51
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -28,11 +28,11 @@ topics:
   - Compute
 
 images:
-  - url: https://docs.microsoft.com/learn/achievements/generic-badge-social.png
-    width: 640
-    height: 320
+  - url: https://docs.microsoft.com/learn/achievements/implement-a-hybrid-file-server-infrastructure-social.png
+    width: 642
+    height: 321
     isCached: true
 
-secured: "TJs5QaebG5+EWKHrl9Pj3ZgngwEV/a/DfxoDEOe/BIPq5J3RKhOuo9rRIVWgB6SO9U4jtscnMpjqPioqd/rPV3LwuKokDdLgVmF7FbFf47T/mBy/WMZKsJFw30PtRvZm/CjvmSCfrwFdOSRiW6M2l8kc7f/+khZOGYjSw2+2DvX1vMwKlNV2DCxKN4+ycKjFQWK5lfGIqZ5IGcdymTBdcTJEnH429+aPggI9jiTnT63Z8d83HKeyWGRhYpFJBtBAqRsvczJWkWsvC1oI0YbNKwMQW54lzFFbiNJ1mBNJ5fDdmLiYfo8IGxkqEkRXnRygEgyxCQoBGNkrGn+l42Mqq+/cEExbkZUVKxux9MsI8zD7u9e0Igxt014YKDKBZzyWl6qOIbkApY/RC63srUMGJj+3B2Z98CpQG7B+7H8EXmA=;q1YZT1pAD7p5t6P0ihHpEg=="
+secured: "QJUGwJmVYAON6osIp9lt6fqzoBPJl0DlKtRCX9CkRKhKOuDAqmp7i884zqf6NpobGM4r7aFh2dNR2xiBwqpd28suwceUz6WTDYVfrwRlveOrUmIaLN40NPRwirIy9Q9/W0L4Pjvbxjjwu6d/fl8OdKkI/x6W1+HQ/vohfLmqBcJ2RX4Gm/4QZWt8iWF2TVuTkffz66AJFP35XmfKpzsw6NTTZiYcNh/lTPi+nCLLfhnkdG+rf5qZtI8rIl+czrYyOdg4FR3ElU3C5/gtm1Re6ihrIdjAN0U/X+nOxr9KTeG7MBy5lGNJbdjSAXfxFQQ3eIVCw5Kq4VG9mNGo6HbYCCeNTAxRYED/XlyZcWecWXULEmygPh3Gb7cPD7wv8eiE8w9WGpKmPfFa7lb8+HwpiA==;8BCgL6U7CW51CD5ZUWb8wg=="
 ---
 

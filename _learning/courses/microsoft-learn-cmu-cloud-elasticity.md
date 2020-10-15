@@ -1,14 +1,14 @@
 ---
 title: "Scale your cloud resources with elasticity"
 excerpt: "Cloud Admin course from Dr. Majd Sakr at Carnegie Mellon University. Discover what cloud elasticity means and different ways to scale your cloud resources."
-webUrl: https://docs.microsoft.com/learn/modules/cmu-cloud-elasticity/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/cmu-cloud-elasticity/
 type: course
 price: Free
 length: PT46M
 ratings:
   count: 153
   average: 4.5882354
-heat: 51
+heat: 55
 
 provider:
   name: Microsoft Learn
@@ -30,6 +30,6 @@ images:
     height: 400
     isCached: true
 
-secured: "dHYczXV9DRPjgzGKTzdbxSlF5Df3JBA/NU3ASV/y3t8kYzh19GmQbobFA6siCziC2Svo6D2B8ZnXT/Zt9hnRMTCFTh0IzuJep+chlvL+TiKMAtxGkBPQX0qfqcfrcztzQ3NXMepDTqQ0Sp2B78i/jvpuANdmLbWMe5eR6YY/W7gfD5pISXue1FJXSWJRZ7LaHxUK408FSWHjgMLL8kKVmJS5uWkZY9rZ1dmq8sIHwiGflHkuvLUshLMjN88eIRhWpUSaVoT6sGrxxDrFK1hbHTGAVIg9CJyhD0DQLtonb/cSThm1s07a06mJyVX4aCvKv8G6SIPeSAYQEH9Fyqo6YgXJexvh0gDLMxGUXjY8GPACNd7yTMduURrOMrBHaYmoJoDJZL2zhek71Cdg/kIk1A0YmWSsMoQph442squTdXI=;jUWhmTQf+B6IK/g/4bCtYg=="
+secured: "oD3VJgox2CMiaVwRPxd6hGUMrTxlfM0HsY9ibUCHrId9vBv7Xdi+UgFwH+4TqGLJgeH+yFjNeAciVz1SKWi1+sW9ORe0g+z5L91eNnAk83MuDnF7QA8s6xf8Qp6mU6GOrxLIJdp5F+yd8FJDepigf2+dJByySPifsWaOdLWoiMW9dQwbSYN0UExeKglSU9kAr9wxYAy0C4yMlsUzZy5csKZ+Jy5nyeMw4GoIPAtrwpSsF5kQeLIhl4z8sIRl9zcfySHnpR/FslMvhQbiFazcmvT4vivpStVjONs122wIDo0W0NalWMj+hqMdz3uKoG7IrPN2KdxCM/575wh12ovk9Y9DDlO1PQS7nb5ksI1cp/lPa9rCn8veE4mrm6X1j3NeUOCM7K7KbR1PYCyHopVW0A==;+ed7zen+3orHKAov1+H/kA=="
 ---
 

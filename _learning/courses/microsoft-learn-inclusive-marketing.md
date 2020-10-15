@@ -1,14 +1,14 @@
 ---
 title: "Learn inclusive marketing principles"
 excerpt: "Learn how to embody diversity and inclusivity across marketing engines"
-webUrl: https://docs.microsoft.com/learn/modules/inclusive-marketing/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/inclusive-marketing/
 type: course
 price: Free
 length: PT38M
 ratings:
   count: 36
   average: 4.75
-heat: 50
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -30,6 +30,6 @@ images:
     height: 320
     isCached: true
 
-secured: "TXtjBhzJH68+UZN328y62YlJ8/11dGTupwzf67rFIR0jirMFXZp+XxSmLQsmh0Rbhjz6J4pkkT2vhhRuu4xxS3x43pBaGFWhwDhT0Fo4du7nEP2LHWC0Lfy4p7LQ79Rcgk1CRlEmuJEspt2g4EKRbDU3jmCfrYiV+ds1DU2oz5MIXqJp6DSEJZBO0cWnppUaFWc34arEBbCNJnQH/93hZI42me6ateHqmgP1miAv95YpAWXs5LEzabyiFDjNtx5X0iwRcQGJ46lWg54xpHpraYbdPMq6aHHe/3Ic+M3NGG6wS4hGBxsXThjq6APutBA7mVyNsrQP/aeg98avaNIxSJJZ2drTVdHalW4KAqEpY1QPMae5giL1MXUi+jw4wK7FFxM1pZ80z4l3HGDhpV3jGDDlmjJBaP7C0bbMXTlo0vM=;EiI8AUxpTNWtyLXaZyEAOg=="
+secured: "re28JxOI980L6dOLQ9eJQCEO1lkHBUzK7BIuIEdGs1uPOzmtxYdx9KKSuRdk9tLQ4FcDqJWBXqTJZnSvgRGUVpB0dkVhAn4sn6UzGRhI+VD9fWmi0FF/tUZ3YFqpbKvH1jgJsvCJYlMkQ1LSFLOGigZdmaDpF4aQM7Efot0THtIb5wvA7E00z/Gwr3bjE1kFCnsDdbLh2rBhWfF4J26fIymb/Av5heA2I1Jy9++v6XCr0bVbovXr4pPlnIEsGN+UwbPCDjJyAupmzbrrNiHEwVpntd5q2Y9SQ4mHlN8nB627Y6oYDTTLP7tlpm+IS2s6Q0uBScgQnpRv/fddpPSlJzgPvcwAhQrMRd87p1zQPEi5Bou1WcCUJAdxqnG6bpTZe0EN/Gzjcco+giCt/Yyoow==;zkpgeNHNwX6BYD4uY1n+Nw=="
 ---
 

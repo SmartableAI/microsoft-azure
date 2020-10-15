@@ -1,14 +1,14 @@
 ---
 title: "Secure your data with Azure SQL"
 excerpt: "Secure your data with Azure SQL"
-webUrl: https://docs.microsoft.com/learn/modules/azure-sql-secure-data/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/azure-sql-secure-data/
 type: course
 price: Free
 length: PT1H24M
 ratings:
   count: 92
   average: 4.75
-heat: 55
+heat: 53
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     height: 325
     isCached: true
 
-secured: "u8SvqB9GKFKn5k0hQLUGaRV90Vx6Kg+dCNT8V0pUxjpkcgmAnGUmSJXI4pacQzDv7PRkmAWCVfS87q3rFhZ2FFLv1luqYNNMpqN3LnM8zb5BGs+LWLt5I4xnDwz6tCJNi8QPLwGo9o9epKCTybexyWded7r8k+eTOrm1rnZSugNzF23dKD4dqoShbSfzdzRILj97tFManvTwzn2JfVB8OLlRhLaXRWRt8rmBQa/Iluia9Au+adPCu+GL4aHOG/5BaY0ouXpfs7v2JUjaPqDwo9gxRZ49egk43Zoc9MF3b/Onpn4xddXZnZ7uSvncB4oEYvLW+3Rp6e1SpIGZOq5eGDFz70VqBjl+OCzhR1CDqEbBL93AKGlEWwAWqvmwoHQ0vcI84v8PAEFl1V6WKQn2m/Nu8qCpzaqKU6qaBvHjwQk=;5U6iS3Ws3BPNDIUJMKXfBg=="
+secured: "PHaH0WtWYG+3Yfww4eFU6CNs9+V9PXJAqmXwUB4VvmBnLG0tGzNLPuMfcKs+/LL+iQRnj0Ku4NddCMvmEQp8Etm0H0CV2/ublj+ZP8PQMSZC2RiMrj36u7+0Uw9U+tm7/KzHOmBFRcPTEE+jmvksfKZmeKJMxA++jI+xmUaE16xQa3LFb2EWdLCS83HNk9MBv3fD5ghuutpp469SLrgQVL8MO8dh8w3bYfJfn0pxVp1Ae9M0cejLXzbmOgLu30TWj+vsjLWdYLluspKCgZlOoMvklbEIE1mCoHHSbV2ZPgrPc5uOfFdhi5fmBE0CSPSrqidZrOxTjhgMFto3rMsHGQUygClwyneswPNqZEjwGc5MvcGqD5a5qJpNDhtNo6F4v2ChiKg3Mh3V8z5Yw6ACWQ==;GBF6kp3sCaCIMmybdYn28A=="
 ---
 

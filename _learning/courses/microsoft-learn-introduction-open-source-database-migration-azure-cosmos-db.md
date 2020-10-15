@@ -1,14 +1,14 @@
 ---
 title: "Introduction to open source database migration to Azure Cosmos DB"
 excerpt: "An introduction to migrating an open-source database to Azure Cosmos DB"
-webUrl: https://docs.microsoft.com/learn/modules/introduction-open-source-database-migration-azure-cosmos-db/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/introduction-open-source-database-migration-azure-cosmos-db/
 type: course
 price: Free
 length: PT40M
 ratings:
   count: 65
   average: 4.6769233
-heat: 50
+heat: 52
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     height: 400
     isCached: true
 
-secured: "WfEbWwtl8Y/yeVQfw3n6CxjGIG8wKKvv9U/yzcu0I5v/3Sz0PfvbKrNQsGKrmYwotpFaUB0R7hfmBB2Io2isVfiaKow7pcMNRcNu+xp38bZI2OpNWqQtwsEEHnrOKdgSATkl/MrOpNf8r6TFHeaOmojdUGohfsC5FWStVn5GR3wdB9wYtdJ7GsuzQg7Jvj7rPHAL3HPq4/kwqIX97mNe6HCC38JFIV2Xb5tFUo/GL+nYhSle/uVimqpmXvcDE5p/Q/M9ZaTjesZ66jx5SgVEdjJdLrq0eiclScVF3fmFf0F9ibJ1j16qXgXt5VA6Oc18ONrwxXck3m2IiM0SLuqAI4kpvq5eztIfWq+nEioN7AA7PrNVmBpUhvXB9JUMr52DyeFOZ7iBT4R3N3KR/awImSM+DKRoS5a3lnZIvQJnAqg=;CFUh9RW5AJyznqsY3b2M+A=="
+secured: "A+vYEZ6J7qkNx1YHUZXfG3judAwgYQHa8nWXZ/elC4Ph6MUySQruS7UJ5mpT5GREuHfgURLOhtbdWnEQJuUh7eKFI75KbARlpEMLDbL+i8m26NyHiZx24Mip5HAAi8g4717ff+QnJSh7LkM/c57b5yIusIVgurW57J59BwfpUN1dLNTxCsfGAeRRq2biv2fqll87qysXTL+9VvE40WeghzKCTpaXFag5M0FM1Pwz8sRzF1UdkSofdIRV/FSUZ6YfN9+EMKchcqSFKGXYUyH1ckJyGpe3AblVM68AoyocrSp+5Zfuk9H4RFDzElcbxdqN60ZTLyEEfAHa8Yk4u3fI95CFT02AIO5P/RsnnHraMJ3lB+EbmJGw+XDZPeFLR8ba8kj5Rxu7GxYtC5LAzUCb3Q==;+FjwrR9Om2ppSUHCa14vcA=="
 ---
 

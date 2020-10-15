@@ -1,14 +1,14 @@
 ---
 title: "Implement a code workflow in your build pipeline by using Git and GitHub"
 excerpt: "Learn along with the Space Game web team the benefits of collaboration through Visual Studio Code and GitHub."
-webUrl: https://docs.microsoft.com/learn/modules/implement-code-workflow/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/implement-code-workflow/
 type: course
 price: Free
 length: PT1H27M
 ratings:
   count: 3528
   average: 4.7630386
-heat: 53
+heat: 125
 
 provider:
   name: Microsoft Learn
@@ -30,6 +30,6 @@ images:
     height: 400
     isCached: true
 
-secured: "hYCrp4GoItK+zce5HeEydpP0ZMfHiwzjhIjwBQCuN/t/paFCMhEsy76zD3xLDJef8St93SLMmt4t4DRqGIBgkaxjITnnz2Yk5sUXGYR5YGceMAZmcNVB/vHUelEI+ZkYXb3x3ZPmG7wmk/9MK65qDDdhIOBjGMzrr6fs4F7V7js3YLU+y0daNJZtySYqbQ3u1FMX5piEMTEpuxZObAAKJwwwD6CEGXj3mFsU4ZaGPE0taT4frNm4xCM1VXhpioQbJPpxeoo3o3pUo2PxWstoX4QGqURKPCc7DbW+oG1QGLxqleEPx4xej2wbooNniPCx0l0eMbNGaalTWtXWt8cl7eZtrGi8PJyvZyFHPeAWYHzkljPXDtpknqra1j0EtJ+OCEp6ZHlFQfH9LLVpGBKQax0Nzn7w633qE61QQICGegk=;h09yU1OkrkDPh/iHa25+UA=="
+secured: "U1h+QX93zyLQPswimAgnux8VuORxDkSQmGlStgObsin6tzavYUmkvv8kvu3kIJ/lrdSUCx5ao5wFP76CXh2S3OXlw85wmEsMgZd82ofgJd7qFGPU39xm8jpoETWWudKi85ql4lmFncYJwiZ0anrJf2lz503m87UFwhepxbEdjuXKKTz89aZ9mxsqhp6qnVKCBYploYVM6bTYNjOK1br/r6BbieEqbuYWe8YI18IfHUGLbCXViDfnmDhifX7CMH7UXwt5pGWRToX/u3Pzc65L+VeOnT89AuGpu/a0EKM2RCkuIdUtUqXnxqwwtjDf0jYh0vxNJz5H14atG1z7DA6D5S+9eQ0Avu1RtThpDzTvNS9z1V9tcKnuwCRqj1YGYSo96bIrPU445PAjDQKuTB9iiQ==;1Fk9AgFrmDz31R840D2C6Q=="
 ---
 

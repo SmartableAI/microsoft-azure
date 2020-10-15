@@ -1,14 +1,14 @@
 ---
 title: "Define an AI strategy to create business value in retail"
 excerpt: "Explore the strategic components, special factors, and use cases of an AI strategy in retail that creates business value, with INSEAD and Microsoft."
-webUrl: https://docs.microsoft.com/learn/modules/ai-strategy-in-retail/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/ai-strategy-in-retail/
 type: course
 price: Free
 length: PT40M
 ratings:
   count: 652
   average: 4.7776074
-heat: 50
+heat: 71
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     height: 400
     isCached: true
 
-secured: "BO3dpKiP5POEAL39B7GgsGqGMSLYfGU311yslBlvScpM8CNsUvJ3N2OJ+gAaXjwM3m4aGtxOffRZPrjUN9qx0b2KDlBQ5/1NQyaiLqybT3PcA6DzARuNJBBPQINFxlxyTMKWD1pe/n4FEhUMR4JWLHUhDbW09RYVfHN+LZQ+/R7md8SpE9+BCl8fzTK3Um3AJ+Fo/ow1XCQO45iXiaiWJaHdleDp9AJMoertfQNsdg5onCKbOvZAyYnZt6ua062TUQufz+gLmFWV+NcD5w/tg+haRnEObKJlAksfE4OyqjJnIKWL7zoxOctn209gCruoctLPuAp+YSFuVyjVRWR1JXbUeBQmqGOx4myepgWmxHTEBimbzzIqNsFwdnEC+RsY2oaHLgGRTZqsx9T+BGWgbWh0P0h4U+0nmzt2vsvRSYg=;Bt1+YD/iMxw3sPlx/9jY/w=="
+secured: "D7vFLCAnVe2YXf7zdd6QETv6URtAokdlpqryx8l52rIv/sHNX/aRwqmgZMQszr0n/99UDT3ZrFK9G6v1+tIjrQQGhn3TPCdFXSwJ8t37ZA83Ejl6A0AbDeRrX6eujOmchgSPb0W92GhGboeFnYBy0W40ZQggU1NFZT50RkWNn8t1AMNWFPfQdBDJbmlyTUAIDdy986d28ehuldBUqU4HMwvTGJLzhXiH8is8sXpFCMCQzLw6BEiA72CIHfc1wjqEtB22Vb3YPsq9R/LvuRSwguZHWJOVNzstERcOfvbui4bdM4xzcRW/+GpwejW155+E/ximQqNHut8US3+a+Ixm9psn7c2bc4UZJS582XTKUS9lRWPKzEI9dToU7i2ytP/CyDhcCdfoIU1VNgHYh6PTAg==;skXnWhqzxStHREdflCuNlQ=="
 ---
 

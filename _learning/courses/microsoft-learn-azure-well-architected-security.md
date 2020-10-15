@@ -1,14 +1,14 @@
 ---
 title: "Microsoft Azure Well-Architected Framework - Security"
 excerpt: "Discover the tools that Azure provides to help you design a secure environment throughout your infrastructure, data, network, and applications."
-webUrl: https://docs.microsoft.com/learn/modules/azure-well-architected-security/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-security/
 type: course
 price: Free
 length: PT1H2M
 ratings:
-  count: 2369
-  average: 4.711271
-heat: 61
+  count: 2370
+  average: 4.7113924
+heat: 107
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     height: 320
     isCached: true
 
-secured: "aQ8zX2OFJcXo37WbiJB0UBtmrFZ3ov+XSW3XssEmMIQUEUc3HQNSJ4GlLlAhkwSm5Nawlw6BZM2Svt3xlktkBVOdepFCUb2I/VNm3emLeGyJX/+dxGr8i1iaqXCNCktSiLmqmQ4JcCTb71HrAjt9sCE0IA4DSyYIzznJSjuoZHoMr/g50TalztAtitS3D7pN73XqddFmAEhejLdmYU7s1Oyx9jNpUsLpz9DvklbreGQ9i5y6Z37HBXrDg2pEn5zBU8pTaFrkatef2qxwuo0sAntAQYmqWTtST61My3jga1nb64VAu+r32kJIut2/MN7OOpTImKzyCLS95040NhB62wwgN71qksP8ikL2sr6V/NdBv1Ty9HQWof+LtTBSR2I+cOok/Rj4akWfExzr2f/SXNFtJYI2Hl4bBJEIsXv+7yM=;GZJozsttFPxVlIzyJZbcnw=="
+secured: "dmR2WJ71agvZLyB6hE9aCFUw+0q6GKQ3CvVZ3BNXDNdaJM5ZsKgNxv6LsaARC2vZnruVOnbK0KMX8p8Ykwc/rpkDHwyXfFB7OHQqmEkn3ps/tr2IX2NRc76N+jQyWH2tRYM/n6m+l0tpoQxhL5VftP1/uJWld1sDy0219x7vaKdDgHBLXbGd3OY1QDruH2Rnr2I8t18m0t0CXe2dNuZe7z8vllbJm6LS1sbQCbEDvLzSWRUlptAQ67ZUdRPh94ibQr0d8o5ceLfugT+8OfRGcH8nTmZdpJyqq1sdG/UQeUCpOhv/EeDBDSrX9+W8WdQXdEHvuq23I98y+QETUdu8WqRksv9hWSE5dcUNZuAFwjF2tV9UhoRsR07G/972sDMFlGhNjAy7gqrSOrU/0gtmpw==;aK2TWvMCLF5IEHy7979VFg=="
 ---
 

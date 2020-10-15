@@ -1,14 +1,14 @@
 ---
 title: "Describe core Azure architectural components"
-excerpt: "Learn about Azure Subscriptions, Management Groups, Resource Groups, Resource Manager, Azure Regions, and Availability zones."
-webUrl: https://docs.microsoft.com/learn/modules/azure-architecture-fundamentals/
+excerpt: "Learn about Azure subscriptions, management groups, resource groups, Azure Resource Manager, Azure regions, and availability zones."
+webUrl: https://docs.microsoft.com/en-us/learn/modules/azure-architecture-fundamentals/
 type: course
 price: Free
 length: PT34M
 ratings:
-  count: 167
-  average: 4.844311
-heat: 65
+  count: 168
+  average: 4.845238
+heat: 56
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     height: 320
     isCached: true
 
-secured: "GlT6QImy0Lhm8C2Inb6u1OhDBk37THWI0NG5ZqSacsDUmuqq2DFBLfaKcXX278OuCIh6F3wMvJgKqyJZqNEsWkzHCtYgUJbFbO+RpqFGrBjgFLXUULHXqCFrWmkaRuR74psinepT5cjv1WZPLn6GjCPY68atCZxILFqppeC/4UoamLB7SErEANhfO5nUN99x6dJsBMDTEuqS0QUD5FYFbgI/2RssThb9ulBdT5FeI0xHSg/2E3VU9EfjZwblPu/aP6vQKKgPQkmRZ4/xs8hZ6KfKYZzdUjQN8uYTP8wQ3xrBFumBTg2v3d1SURn3Sv439PUENAt66M0alO7PsX2ZtYB6KxbJLCadDneHHCMaOr3NGnfJUq3NPFBSB8bDQJ0SzjHHnRR5X7DnL83SZXBVHH8xQfSwVmZrVU3SK2XmY/k=;29nW3OuPzOiuu2GPxCjG6w=="
+secured: "Vfm/s0ZX+Xe8xaXcbXq672NMpDUC7RkSVs9iDtVmL0dGpUSN3wvoZolbLu7SiuGQ41RmGHHLbmkt2UeUTbZV/7+mRM+S0JO31faAx30gmAUCoUN0whebYDYPrWkhoRZI8OospbB090P0hibvK4XhRTDHIMo05I1jgs7UHHw6nNzpFNQCm7fjeypOmxWffWD6ZgeOstf9lgRIkkPfAl6ASGnUAwEekR7zZLDr5Ss1iEcR/JHAvsaIPp+dxC0nr+TONvxK8uGLKJxN5JkMqV29X35mZ9G2NSkS9DQvBCyeZXuROuMCFp/e3na9CbRAM1Rw87NSQka9mOaHkipW2JMhfeIgUwYdfBCdQ2FOmjktjyrKx/AJJtwn+yrp1gxEpauSfdLsj222Ihgeri4qJ+l5WA==;MGfD1pu+CDXWA5jYFyURFA=="
 ---
 

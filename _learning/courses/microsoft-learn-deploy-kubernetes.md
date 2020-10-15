@@ -1,14 +1,14 @@
 ---
 title: "Automate multi-container Kubernetes deployments with Azure Pipelines"
 excerpt: "Implement a CI/CD pipeline for multiple containers to Kubernetes."
-webUrl: https://docs.microsoft.com/learn/modules/deploy-kubernetes/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/deploy-kubernetes/
 type: course
 price: Free
 length: PT56M
 ratings:
   count: 280
   average: 4.678571
-heat: 50
+heat: 59
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     height: 320
     isCached: true
 
-secured: "pAEpYKQ9mwjxc5HONQoK3V1e9KxqBaOI5kvuozD1W9748vT8da0Jwx7WNzN4Hb4gKJK6xI4+vrvrLbPN0G6iJyjUxgQ6R6laoXVhEPEpNeAvGqsLpT+dkQH026P2Trkiz7TKRqn26XxDdYWnLIYZYGXqbYXcwXT2ka+SOuSZ3chvHaX3jp1Sl+Lap/vsLWrvIWCSF2YVRXHHQXXyZk/rAa4YOgimt3fQi36DtHNI9uQu5XwABIAtA2Pe5fJGas9x2TK9NcNWcQdBPhnwJuNm3Y8wpJnsH4zTDn4OHQFPKPXJhgNNfalEN8tGJh1uNcAq3PMiTZUATyObLJ0qK8SKB4UEbPgLXaO87n3AIphzjF+PEHe8FQcsIbqNZHgHAim4zlorK6Jx532Y95hPfIB/kdozp7K4hPio0KOjI/vZ1cA=;jLcq2HDqBWvkUqbXVqZRcQ=="
+secured: "7ZoTQ5Mkn2Vuy1g02URPgThbFL4ed9jD9lzg6rA9Z5LJbo+18MwNVywD5VdiRdDkL6jk1/kOW8P9xIutRvCnwWp/5Kj6fBpspnBZDvBau++psfXJfYv/OK230typVqU/UQDjB+DU8rloUL6zH957Q4F50M2eW+NWeIEFVmsw7beccDGS7HuWIWeKfkc9GRYMY6ZyhHJBPp8/TDZ5bW1cME2rLu+WMlc/4P4b4RwoxP1ENVlwvwF+m6umWHxwcsuaymznL0RKaSpFmPEhBBWfSbmFJn3FanXSAV007lixTYxNleNE1ldFhDsfC/ablFYUEktpxqFIHi3gvB+teW3gItntYSfByprvrmYYwOZn9U8XzPTGLs/a+RZZWEVoO39E778XytZX2uy3Ia1SeqK1zw==;MFOfelH/nSB1vGM+batCIA=="
 ---
 

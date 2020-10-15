@@ -1,14 +1,14 @@
 ---
 title: "Manage build dependencies with Azure Artifacts"
 excerpt: "In this module, the Space Game web team guides you through creating a build pipeline that produces a package that can be used by multiple applications."
-webUrl: https://docs.microsoft.com/learn/modules/manage-build-dependencies/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/manage-build-dependencies/
 type: course
 price: Free
 length: PT59M
 ratings:
   count: 1718
   average: 4.6740394
-heat: 50
+heat: 95
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     height: 400
     isCached: true
 
-secured: "yHFvALHzjlHk5MxRfsfg8esY41Dyhmebi9YpO5YVfpQlICdb39yJvDAJhdLemHmNp0xwz2cWIPuX6aJmloMAOWS5PA41ZC2B3J5EF/vitSBZ6VVt88yS0jGLrWTYBy2TuLU7G/maL1ezwnPiaujloxerMBwKTZiIG44XUChB70bv8iQJtbLr2rH1MNfsEAGSX29pShJpClkKnZpE/MXE/hN+cpBSjjc88ZZhq2u7JOHRffwxZ6qjcuOtw6qbqg/PIk40zgp42RlszAI3LcDtW6Eit3BuO/AQqUvRdyfhKEpyx9FCaI1feNJRevAnFVbYVCFZZIuKino+1KnTWlIjSPwe9wquyfPlJck1NsS/0vrHU+sQ2WNle+X4Q4Egwwn7UA3RRzs3ZrBOWW5cbxr/+Tvu3pwrFgT/zF2th0cl6P0=;27S3orP4iJkq2ftaqdx11g=="
+secured: "U2hzmqPe1FacinUbbtptBaIKYo1JsQTWhJE8HXUmCgtNUbeSjj4E1ho8Bkr6LI93/+zdajSybHabPOi+Ja8sPiCXEah9ab+jRFgsp3/qEd2lROQvg39HxH716y+hmaJobMgeru/qbfwRvmTAf0Rn4x0cY1w+YoWGtP73yE6Yd1GsTCj18WROGQpd3tptdTXIRtRg6cdKW78GH/QGS0yGgGh091Dq7S9+5lIcJhV2W9kxFICYuGrsVn0ITUz1hWT4ZXWymkew2eDOLwJ/E79QPpLeH+7ZFAs9weLN1jf2pNnwU3losdVopZMcladevTu+vMEMlbRR/2up+0XYRb6+8mqYWZKJkjFxM0isTWENrZ3uftOoFwtfvv0orPy8flvjyvgfEAu+wOAclzSdO1N4nw==;FD9b/qr5oXB240/qR7tRTw=="
 ---
 

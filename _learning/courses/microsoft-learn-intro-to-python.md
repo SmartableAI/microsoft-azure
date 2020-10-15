@@ -1,14 +1,14 @@
 ---
 title: "Introduction to Python"
 excerpt: "Learn about the Python programming language, how to execute statements and scripts, declare variables, and create a basic Python app."
-webUrl: https://docs.microsoft.com/learn/modules/intro-to-python/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/intro-to-python/
 type: course
 price: Free
 length: PT1H7M
 ratings:
   count: 4802
   average: 4.716368
-heat: 57
+heat: 139
 
 provider:
   name: Microsoft Learn
@@ -30,6 +30,6 @@ images:
     height: 400
     isCached: true
 
-secured: "ZJTF/K16dO1uupsBoomqCXsiosfF+GqAXg1VrCqQusAfc6DgRHWWhQsPEPRQ+wTuvXndtXqWtV/7r81uQ3zLSA7yBkLm58zjhGoajJE/NTnb53ZHCqG9VZHs+vKbhUbSeLNQ7qKof+ezidyjrc2LEEiIW/UYOy5/8PbSeoA4Iazr4GLqKnBVVvsZO54YstwPfEXtCOOvCEoV/biKza7A2Re6oIshIF2P0q2ECpu/CY91ELSU5BCI1T8i1RJGxnGfIg7aFjg+lrv5il9jYZ5xECIeu7UjDLa7swtTspGqJkk/YpMH6yCuR6k6R9pTXCbecd1CIkao478/isjPdthFBaLsCDDq1hzZSKDFPSpI3ixzLgXeJeJKxK8CQuAUlEraGPfhyab5qWMQz1oLFlZd4pqlXIYRtTUn3eXZkIOPSyM=;qLSDZNLx/8CpqK6/SYCf7Q=="
+secured: "NutBbGkjtdg2GJKxU0jNuKsPddYnaef54JDm4igAe6Z+3VFDqhW0WI08n6Jlp597Ku7T2/yYQMsakfK0OlwFTlu/I2jieHnQ/Xg2Ymg0eLI2YyuEzRiuH1eKQnTIm1vxnx/3TgB+MeWYwvYaRERjnl2POk2JKj7HksqbFKoNH4/cl1Wy7NFKMArFCxIhXU1EDdnVbgrfKQXH0P4N2DcBF1MevTaJhtMF+fzVlaF82nQ+f34tEfKLZs/83QWUShyBY2CXdjAzVY6zWctcUd2xH8dzUx4Tj/FjrPfXjDRdykg/SpGZy/P+r+RQjhbMkcOZ4Q0u124DCL5mlAkhaRhCX8N6HNqxtI+0wy2FdWZuhM6WglfWTK7ggot/JKh3iP3GajiiQseW7SjF8CoW+NWCug==;qcEuHf0XfZKS6GYiyoUxhg=="
 ---
 

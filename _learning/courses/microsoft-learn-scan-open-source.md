@@ -1,14 +1,14 @@
 ---
 title: "Scan open source components for vulnerabilities and license ratings in Azure Pipelines"
 excerpt: "Scan open-source components for security vulnerabilities and assess their license ratings when your application builds in Azure Pipelines."
-webUrl: https://docs.microsoft.com/learn/modules/scan-open-source/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/scan-open-source/
 type: course
 price: Free
 length: PT38M
 ratings:
   count: 1843
   average: 4.7205644
-heat: 50
+heat: 98
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     height: 400
     isCached: true
 
-secured: "wUnw9PygUIT+bhKZ2mtyy4eQnhfMvgohJ8+fGI45RYJI4t7mL4ChcGSbtiz53ijLMx44OYup3iIgwDd9t0AjP7YCp51/dsB8yZ/vLhfeDE4+JaZKwT0N6t+n9W6Wz090zjMmUp3hmeRSQXILi9FXsOww0cOKJTVNHD71ALlCjj9DZluwa4klIFDBoqI6BBTx8SNrVVX5Tj6rAHplJTr8mGvEe1NInjJ61Z/wCvJYjKoHK97k0gGL8C/7edTa43ek2eITuih6r2Kmde8okQOR6dhmbyhufgdI44F67ftjeo2uPrfDbxzN4dbFaBXpLGGFk+r/vWcFC3N8X1SAeGKKmuwz+Zh+CuKFdylp54o3uAQlri/7X5uwBQCXEX4uZBAOUxGVEa5nqyawiRjxLuQ9BafYCcQ4DUpB8onQDsBcWg4=;OCcByj1IzAjkgUQp6h2M1w=="
+secured: "Qfcd63YLPOLv29vnVPHn6kf6UI39++/SDNjDpsHFUMmzme2hdfvhp7IlMRaP0c/A2AaoeQombfyN/DvA36YyhO8MXVXlKHF8aDDnZoxnOfdVR6IDYUxO1gFI8MXTElq3HIsBzGEq0GL5p2OxLPUVAdfcF7b74dAoMoXfmRriw+4IYduH6kowNnBYkGQtglpDzl2ukbGf66J3Gay7jCzST+UALj63uzIhGl8EtVQYXly85THNZjRMpQ4zLl2qKFaXNJOI4WFMH2/tIHJXHUk+0sQK4aN0mWaf8moDDxC4/gsoMDPpl2fvKwKDM2TtwXboMCiRO/JjySwQV6n77X9vgcnTunQIfuEkfiBBMHop7C+w/WYiNpPhdJf2NcaBvLUC6ydYJpjrvm+U9dzCjzaa1g==;f79UY03xe4OU9MYIahOTkw=="
 ---
 

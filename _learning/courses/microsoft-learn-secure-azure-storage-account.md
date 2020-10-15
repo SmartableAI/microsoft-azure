@@ -1,14 +1,14 @@
 ---
 title: "Secure your Azure Storage account"
 excerpt: "Learn how Azure Storage provides multilayered security to protect your data with access keys, secure networks, and Advanced Threat Protection monitoring."
-webUrl: https://docs.microsoft.com/learn/modules/secure-azure-storage-account/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/secure-azure-storage-account/
 type: course
 price: Free
 length: PT45M
 ratings:
-  count: 7731
-  average: 4.642349
-heat: 58
+  count: 7732
+  average: 4.642266
+heat: 164
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     height: 400
     isCached: true
 
-secured: "sejNEqLHqn2vLdwe1ChOwBvsAmgPgjEHlk9zBFLlzUkXm7lU4nE8xU8HwjD5RJNHHLLXuNEuGrX9PYHZVxkqvS6xgUUsd9GGwdKrgtAiMqZAJbEze39JRSqW95dSIFCGNWIvH4rEm6YJWqz2F69MiR/IL1ulfL3Fa4WGq8U8CmFf8QN9DwbKt4CQHlid4mvgsSgiimORHgalZeiOzOWdYM31uIBKRE6TNcMtRxLfEnyNz/rpmMTE0VT9gIT3PrfHi++LOKro7nU7hg4l2JvoaWluJdnGcXAdvO5Ije0H7373Gvq0qwdLvpoBWofk+u5ALm5+FJA4zNSPt1zHuBK7BQxCI9JXxz+6IJdRb5eyiY/tHOtov2LEBQGDwmh6YXOUr/86qXu4Q9CNeoufkDczQXyCbWWn5LSXxY2pimpH0Yg=;Cf8R6r5opnrHNwk450UZ5A=="
+secured: "NG5/RPh6Gk0AjmcyS4p1+ofbNhh224lTSdgbmANQlVU1+erq1sIX6/Tku/BzoXqel2Ag9/8UXy0yv+hdnaTqbH0jgbDGfpo7ik6MYmc6gOzCb9oMJkYHLMOw1UKmbubZiU0fyNSncs8LJnXBvOOGFnBuSA6WpkIFCa8eKG32Zo2VQ6lSZqwHBE6yeAQ7ZdVTnnWINDW0Vk9pF0gNitxkNbxxbNWnmhR8xxsfIFftPspS7OYhV91yogxQvS0imubIVegQEgkc1Rg1cyzMVMty3gK0c2/RkibZ6F5nwt6H5TK877hixiSWp1oIxQijK1qOlK89+6+/phuUGKGcEGb+sMDcf3zCb6LTUprGohOUznoL/sbhk8iUNYBq9e8V2B6qxCumbXV9q6aiPVb48OgqSQ==;MKg02sFxeG3aquVW5KBhGw=="
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Automate the installation and configuration of software in your Virtual Machines"
 excerpt: "Learn how to automate the installation and configuration of software in your Azure Virtual Machines."
-webUrl: https://docs.microsoft.com/learn/modules/automate-virtual-machine-software-installation-configuration/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/automate-virtual-machine-software-installation-configuration/
 type: course
 price: Free
 length: PT39M
@@ -26,6 +26,6 @@ topics:
   - Compute
   - Management Tools
 
-secured: "4yTWe9dnm3ELvfFmUAYkGIrJnknhh4EWiFUcnDAezM8Srlgl/2uo7tnrFUIDk0uN37MItRW4Ik2ff2plsL1yJELyL+iuGtpZTeiObZ2NnwUYJwy4m0hvVqgcUAx1H0Yq2Hf6bDnv6OO8OKzV8xDrGCOkydKrCgHQiCZjsGEKizEwzXFq4pjE2NG6VN9M2VOEJBk16x5jaYeCCiD2hzk6jsyqpa5UzPMPRh38zUj4ttMBSc99Hp+YZ4HjGCZ0NRxE8D0uULZG3uRSfcAGNlHAyVR4fCJRIOSaO1XhWGyxGLuhZCyCdC2aTkdjMfx4F3QxfPQ0g9oqfGcjyeu4/oYqMUcN2XVqhTtdD4B6h+xMVqYvBl5ExrRz/hBNItce6iflNUXhNBYamvbRDWDA1tiptKDH/CJEggkNRL9FX0bRKHM=;sr0P2T90x20BS8g7pBKPhA=="
+secured: "gQo41MXu3prK8OShBdcmskicNEkZIbZSSnXZ3zuf4e0DIqJEm7lpkrBzYjWEUaoaPNM1I2xgaSfuW9Rw1H759nLH95GWhNk1AWF4jliqpJUz9BehjASyC4wVjy0jNLvk1CiG6v50avDbydjaZfywvzkFtFjTbTaN1l8hipfaI1ZgLSvEuBBE5PfI2gjw/sbMHlziWVwkLf/xE0n+TE80t6CPSJGe2kNXWl0u9Lz1G43svDsjeJh559NneQiWS2RdHorH+2uYKmoqNuXEFD3mGkZrl+nOUupapUP0o4LakWfkeBum4pG5FGgDkMQggERD8Jl3gfEzTBQPABevMSZhIyaWySt4W13QUk+U/AvPzYU/VIjgAE9rwcjWrb1R2dsdgEflGxIAM3tx7Y4csgRmNg==;BUKqQiEpBnUjcAE8dUq9kA=="
 ---
 

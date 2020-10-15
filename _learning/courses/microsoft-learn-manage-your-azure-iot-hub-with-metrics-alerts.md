@@ -1,14 +1,14 @@
 ---
 title: "Manage your Azure IoT Hub with alerts and metrics"
 excerpt: "Learn about metrics, alerts, diagnostics, and logs. Create an Azure IoT Hub, an app to send vibration telemetry, and then create and test some metrics and alerts."
-webUrl: https://docs.microsoft.com/learn/modules/manage-azure-iot-hub-with-metrics-alerts/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/manage-azure-iot-hub-with-metrics-alerts/
 type: course
 price: Free
 length: PT53M
 ratings:
   count: 172
   average: 4.645349
-heat: 51
+heat: 56
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     height: 400
     isCached: true
 
-secured: "3JMsl4CDRJ/ITknHmnn194cIeO3CV9SWzkBrNV2Cv59M3hZSRdMZHlB9wFr5vgHDmFSEkzvbphMTV2dQo7Z9ewraw/PxMonXubgp5qcSxChpxG6t10Ji8hqyCn7Odjqdhi5nKwlK3H//UmwPz4750bwNhsdHStgSxKGit57FOHWjRMWtGZSGh9t/sXjo22TLtR4bFFy55YnHTyXQAOBxCo+RcP13AM1loQSAF+uJpoCMP7XKoY2RXGj5IGBI42/3vinZLCODq4zRfkqeSgl1AWh9PI7zs/2uOL9LiDmOBWkW8ygiW+HfjmgjwZx4mxgpWTUkh6pIZQ9ENbcZx2Nh5hYZBkYnKBZo8UgvfGG9GYz1rhY5qfTPQyaQn5MOuEWUb3xthpmz6DiOPC7FULZqU1C5C58+EeQCz1+PXGBSbHY=;/DIBg+jzG8NKHBOr64IvHw=="
+secured: "FOApo5DrDOmxV27nL/PBgXBLp9qcXaEgoVkAc9cYxTfIC0ryPC3CXk0qLj5TzqcRRfEoG0yTcs4+yIZnQk2fFiBmAC2Xg7qpDfPohWvbQUXFXn0tolSLp4UOf2vwAEAqTqx96+3RO7nrO0Y8+Ee4GNzW0R0Svs5jv7y/sMHwkf9ZAoiknw7z7p5qFJBVYOhL/Up3fggCKjlYaky3LYlY6pe4Kpd6jb9oDr3oYYUje8PkZXAvBJuvsbAuMcH3lpVXLbWVJSEx3gJ/JN+7u/KVhbl07L7QA+rS3tG5dZ4CL/Legf30J4f2828ix9oSTxQYMecjl5hkqI4nOW4SuTbwrHdpbS0vj0sand3Reoe8bKbc8xZr+NfB451e3nSVFz34oIZgKf4pkZW0h24QLXFuVg==;4NSJYEx6GHtnShQGZFBwrQ=="
 ---
 

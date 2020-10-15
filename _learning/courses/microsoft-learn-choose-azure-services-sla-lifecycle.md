@@ -1,14 +1,14 @@
 ---
 title: "Choose the right Azure services by examining SLAs and service lifecycle"
-excerpt: "Learn about Azure's service-level agreements (SLAs) and how they can impact your application design decisions. Also see how to access preview services and learn how they impact your planning."
-webUrl: https://docs.microsoft.com/learn/modules/choose-azure-services-sla-lifecycle/
+excerpt: "Learn about service-level agreements (SLAs) in Azure, and how they can affect your application design decisions. See how to access preview services and learn how they affect your planning."
+webUrl: https://docs.microsoft.com/en-us/learn/modules/choose-azure-services-sla-lifecycle/
 type: course
 price: Free
 length: PT27M
 ratings:
   count: 51
   average: 4.8235292
-heat: 55
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -30,6 +30,6 @@ images:
     height: 320
     isCached: true
 
-secured: "saDKREz5FSdtC5d6o2YT5GgvaGTscBLQDq62uSOrdVXOtBGPbhUiGrYr+BVumKrIjGJ8tlKXqXoO69MMWiSlJwSUJDg5oZxARFAGnlfQPmx9Ht8K+fQ4dQ+hMD/4uIz9+9/En8fCrh8M9LIOqR4JYlPw2qEOzg0BQGulvld7+tKhV5JpjIZJ6YYotDEBL5R2ZY5ml6QlJ9QaXSfQ5OerTICD+BFDB3adHbmLPDr4Rtt7u4AadX9WLWV3kJnb4WDnblvACiSCFx4qPjzotBN42UwKylFhqOX5L7x843oun4udwZnxFQ8PUDuxuJ/k3WUdhsEaYPnTlSpZfXMAMIy9nQPzgKbnZTb3wutBE7l1DQpSkisCP7lv9cvBG8dtts5diybwVAxqtesAXl3ARSo5TFPkOOOzUA4/tZ+keDEh5Ww=;GuzI8P5vcTb52XENlePluA=="
+secured: "5TCIuzVWxNehWG1fOOra8vOdoPX87cgWyzEw86+1PeBtkJY/xO7iR15iUCG96AEFIUfaRrgID/TtbW4HMemDcIYlOtpug6UW9xQSZewkLC3cvpmcFmd96gxe6yXthYHY4IBnDuxeVxd95E7hGATwdffTq4aMt3ZINc0P9qxyyPClfE54Hi6V4NTxglLqnseY8/uUkJIGx8MvMcp3trBWWov4NhL1ZqaPfR5I70zMdl5FVVAuaH0bVbQke89w30uKxezvg6ik17DVo2QHvFu66hFWT9vBLGTGSGhO3y5fIy4L5iXeSf1hniJxjMxdxEdNFigoIY6UC1iUUHVOu8+MSlVrj/LD1amk02LChBj7IJjeWLHQqqrOmG16iLD5qEVPoQN0Y9huTFnxF85YoWocXg==;v9+M6JFC+11jghANhGil3Q=="
 ---
 

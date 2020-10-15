@@ -1,14 +1,14 @@
 ---
 title: "Choose the best Azure service to automate your business processes"
 excerpt: "In this module, we'll discuss how to choose the appropriate Azure service to integrate and automate business processes."
-webUrl: https://docs.microsoft.com/learn/modules/choose-azure-service-to-integrate-and-automate-business-processes/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/choose-azure-service-to-integrate-and-automate-business-processes/
 type: course
 price: Free
 length: PT44M
 ratings:
   count: 10448
   average: 4.5745597
-heat: 59
+heat: 181
 
 provider:
   name: Microsoft Learn
@@ -30,6 +30,6 @@ images:
     height: 400
     isCached: true
 
-secured: "em7b3HKSCnrLyaqUeKTPKo5q9aFGkrOqTlCRr4GtsctsOd1qQzsHT9HkKSl/PEYBEzqlJt1NS5S6IGVggfSjCpUdItMKzWfJRUao6SY3lMzTxHzD9AGY/GAUB5umOMFJu4NxWIufyRUQWexkRLyFTm/LUdHHUE/NYUStQZAQrLzDwYF4OySGrQmIcDQ65/Y3sv4c4OzJfBkQjyJKxw1xEq9KSt58+Z17wdj6OQwo87JiBEc38x2MAbUSChvjVM9m8d0aW1JSCTw558SVNJconUq8U9PAB366H46X0gl3aENC/CAU+CxoxZxoDsHOWW4DyF26/gGSyNxqRho6A82/PIlQgBLRz5g6jerTsFj++tK0QNY/Kmg46uOV0rG2eWyC2rCi9Dyge4iN11JY2iWc3snSlcItWJUHc2/xghQcVJA=;EuA7mhF/W7P9xNQg/Rn8RA=="
+secured: "UwSZSNJPlh315VgaLwmAtZ4NcDVlMBeQpkI6fqadU9J3zfo+B5OBcc+kJH3aBu0aby/Lfnr6Ni1iskDu7qHw6X/prxL0BkUkEQqHWTwH8w5/3U5UfdP26Uxx5NW7kx3iwvnU6kryycIXzgKyuXHpL0tQN/pygsC1cw3Mu6jmbl+5T8/jO/H2IiBKzhSit1ETd/95SAvDkrhvQeBg1H2UGDcOg9XfybnSBEM10JoK+A3v6mSt71ELO9Vf2m3wJy8lKDS8JZRS+r3oYZxlcOOaOLw2EKXK7IdnmL0Yc9CrA9UGnBoH6PN+Gqj43xqovZujkQVZEyPtM8/KOOGOYutHfTYivWqrdPYLBT/q/TK2FYGDLxaPpk7LUfbMfBl4UALF+WuRe10HExTaRIbcsehbsA==;RUb9j6B9dZ0WIKjthO6lIA=="
 ---
 

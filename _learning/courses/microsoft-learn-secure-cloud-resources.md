@@ -1,14 +1,14 @@
 ---
 title: "Secure your cloud resources with access control"
 excerpt: "Cloud Admin course from Dr. Majd Sakr at Carnegie Mellon University. Learn about digital identities and how they can be managed and synchronized within an organization."
-webUrl: https://docs.microsoft.com/learn/modules/cmu-secure-cloud-resources/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/cmu-secure-cloud-resources/
 type: course
 price: Free
 length: PT40M
 ratings:
   count: 207
   average: 4.6618357
-heat: 51
+heat: 57
 
 provider:
   name: Microsoft Learn
@@ -30,6 +30,6 @@ images:
     height: 400
     isCached: true
 
-secured: "FEH4jOSAQjLljwoVsCw2l+tMjx77EEVir9LqVqkaJNFckoHYifyhlc4W8LHdAqXuHoTvN/cq/H7T1EkffwunyxjGY3F5twkgRuS53dUOGkmmp8HOyMn3R6jLRTAZ2yci8ES5qTAhTpHInGCitioM/vu+eE8gOoD9L5/aE0xv7HCQ1LLuoJVRhN2VuoxLNXLOF9Mq1x0U5AsahNcsWADYAbG7pn/EouiBIs9ZLqoRvvFORPW3+4atUCmXkMgE7e7zsMuNzF1o7EkV/IE6DD59PZaqf35ZR/a2R7saFpHdVMMEFwSQgaYAsANsD9KTy46Kjl6Pdi8Sun6Zdy6mj72YU5fTP8HCl+ww92kJhJXoGBei2yqxiyh3I4WwJ6BV+HHLuMLtzmJqAt/ZJIx6lj7KQMPdyIiJwAfHhGVYvXsyaXA=;b6UCpQLbcDQ10e7LfNWUmQ=="
+secured: "cc1gwYjE8CddNdi7qc7Lc1KTyw+0n53JudEj626IS6Iiax0UAl0kj6HO7WJGj5Y5uZHOtHMThAqkfYEQycoIeQRBPeMObuPGcty77nns6Zml7lsmsQHwhC09TgsragH0uTwPfj7ig2AFYPp/jaFLVifSWjYGXYVo+lzIjX3h6FvtebuBzKZ0LggmCkfz0ojNGPTN9NmDuAlN7UAAzdIcD9PGnU2jtZtaqm6fuWgS1Gx4Y9WkvX3K/Y+giDF7DdiPMH1M8BoFnxbbfC+y0ttBWHVIIizATyJcyWtvoii1mxeLRf3wGYn3qMItOqLwBkhUORFcweUFUzbb+miR/ex8vLs/NSpBfoaUfIlQovfwEcIonXgg2U4prYE0pSC90NKiiY1iGOZ2dV6XJ2asGO+YKg==;wg8VzzeOymGXHcgLX1xEbA=="
 ---
 

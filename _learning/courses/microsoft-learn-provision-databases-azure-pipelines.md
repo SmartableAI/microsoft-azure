@@ -1,7 +1,7 @@
 ---
 title: "Provision databases in Azure Pipelines"
 excerpt: "Provision databases in Azure Pipelines"
-webUrl: https://docs.microsoft.com/learn/modules/provision-database-azure-pipelines/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/provision-database-azure-pipelines/
 type: course
 price: Free
 length: PT1H2M
@@ -31,6 +31,6 @@ images:
     height: 400
     isCached: true
 
-secured: "x0g20eH7VQLRhfG3ynVsLHb9pd2czeyg4kTGsHMHTcnryHrW4RA9gWwk6DP64c4stJ94ozyq+VWdYoNHh3oCeS16DZmk5V4KAqQ8wuFGXNi232d8s0RlG+QYVrbX9zton5XYZotIj551BaJALxWVg0uRTNLIS8QuWafRtoIrFImCx5YgIytOKSsmr9dFjFfLPdwcajorpfxSoTSwYvgTCUJ3iSST57hA19RN7U1Kct+1yjMm5Wcd0VijhrPT/iIAr6Be7Xat8Eb0Fj0IJncKYNPxUYWSm+KUkNKZWVrRnlZ4m1ffNwptFYSaRnCaF2HRbKFgv/3UMSHaJs8E9WmRMOnpNpPXqJDaKx4T60WUza5/0aBiMsvr7Z9Nc/nSRGWovCTSoymrzhPRSqbQYgWaR+FAZliGpLsXw+TpbUEAcIA=;8PZGiSxZzvzmUEzkR13yrg=="
+secured: "25+q0GCQtMdBBhTQn6oFFpqN2S2j9P/HcFwEQoJG6LmSfrk33dJ9B6qrNHZRWyW3f5Tyj38M77SE3pdBQp4z7qA0mldkOig4bZguDhjHTkjoptEy9gz88GGWhpt3YGImIMfT9z+z2TtgOG8560123TLpDxNMHfJn3MPIluVV0Lhu9l93u+blr3Ro5XBq/poNTMUmXVu3j2hbO6DwaxubVZzkXK4emuUGv93sMC4xNoEr00hMWPprC4D0Cm68xp2NRkqmrqlL8Hjj2PzZAkikIrtDxGW7shSWNLekX2jmwLLygAj+J4onoQfz+1kYaV7EjtK1nD3ar+7g6/csIavFeUCFzp/dmLelRjGTakWyatIyNzClu0mGE2/N997LFVZW/nD9mDAOlpF239QN+1DuTg==;42k0X6lgpz8Ns6YBI/x3yQ=="
 ---
 

@@ -1,14 +1,14 @@
 ---
 title: "Build and deploy applications to Azure by using GitHub Actions"
 excerpt: "Create two deployment workflows using GitHub Actions and Microsoft Azure."
-webUrl: https://docs.microsoft.com/learn/modules/github-actions-cd/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/github-actions-cd/
 type: course
 price: Free
 length: PT54M
 ratings:
   count: 106
   average: 4.688679
-heat: 50
+heat: 53
 
 provider:
   name: Microsoft Learn
@@ -30,6 +30,6 @@ images:
     height: 320
     isCached: true
 
-secured: "HhxXoUZPs7+FYUcJOKYCX9rDJiGLAIIaeMpmaqO7ZhAZJC8IVmC4qiQGyDvb1vsZavR0bKtpjqrFY9X296zJuqY+eTdWBSwO4FNagiBwPG2bGEpMhshPuN6PzsrHuiyASD9aV5mmz7iQXmkjNO5HlYaGcKkHGFNcjrNH+ZZb4y4LYIBNqIR65j4FzymalEZTSOoYbp3xHsZuoQN7q+oga3qt1OrhecWKuKolCbU98wcdEx3EX6eAyVpsJHaqnj4CEDeiX8G/f33AHXqbvA+E++xgjgh/gIpYDyZ2jnG1LoPbhcHxNEqQAVU85WTADA8CnifjeoWfWDBTU1lPJeyYW4Ru5h/qIsCZPTOGHZK1H6/7nQjI6FxaGtgJ8wAkiwwrv1a4pJEutPCaBokt78mOiWUz7wcloypPRFOp/uUXUlA=;KeAwpHhvOHidv8/9K7Gb9A=="
+secured: "6VmMqrnFSixmV7wlIb6mQywn9bh4aXBdgWwS822cRVSm6OTZ5PD4U164FpJH54j9smS0DLZx/WJRkzQHewBKhgyvLqWkWYzxGnsGkl5do87XGJSvKFzHjDKTtKd9Bs0tao5629YaOlQur8lSworri9xDK5wtjW3ShfiCRVIbW4LUd5eDDGYEd38wYi1rMn9UJgDxqCKhc5XYU4OGzlFkukfH/gSwFCjUijGMmIGsZhmuldu0PaimNFamitK+BSn1jyKJotkcx77eK8s9nEA/pSglv+pUoQ8Lq5Cst5vKGhUVTu1A2ETPlfRqE1PspugDrY2J48ZOLCb4ngXvKGRaxUz/G1fAaE6ttHJ5vYqakNluYfw6I+KzJGj+aHnAcn8Y7RhksS6k7vtJSgUzOzgtIg==;idTTONdIOUujnRhYC/coVw=="
 ---
 

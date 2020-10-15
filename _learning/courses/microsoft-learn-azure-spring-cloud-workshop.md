@@ -1,14 +1,14 @@
 ---
 title: "Azure Spring Cloud workshop"
 excerpt: "In this workshop, you'll go through tasks to deploy Spring Boot microservices to Azure Spring Cloud (ASC)."
-webUrl: https://docs.microsoft.com/learn/modules/azure-spring-cloud-workshop/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/azure-spring-cloud-workshop/
 type: course
 price: Free
 length: PT1H24M
 ratings:
   count: 165
   average: 4.2545457
-heat: 52
+heat: 55
 
 provider:
   name: Microsoft Learn
@@ -26,6 +26,6 @@ topics:
   - Compute
   - Web
 
-secured: "9cYRpBEf2xpZbHt61njs1RgnsisGk/zKm+yNm9NU+gxwd17LCCk934Gi6PFcxL1B2mTyguuNuoJ4VCoHWkRprJM5BaEd/lCbTJNtFJOnVcPJYF12jiqdCmOQb1QOit6RNkLnUfC8abaxwN6ah3M4YI3iLdJ6016/x/zT9O8sosGNtHOHW6nqtxQKOpWgR+zhqAEkqU3+P/f00lebhElvEf0XM2WVKFTdPu5ZRz2V0/WKThzRT/ds3B7n4aXQXiDhOaP/xsLm1Bsk4gCT8ab6LbzTiZyHMSe1aEALAzFGYNiOzwBEmD5zeT+3AuXoDxZ7iOSVsZZN7EMqGLyiexsZ9bs4CfdnJdQLgbDCyPM0l5XAX/6IeIt0oLQcSok0L/HnhVu3yF6J4KkSTXrCdTLG9DQeeDphmHMwGlX3PEj1Jf8=;8XJTDbxTg31Sex8ngaGd+w=="
+secured: "v2UsldJF1qjWPzxMP/ZIVmxHNnl+Bkbit5rptn4MOFBf7wPEJ8swf0jfkhSMyk6KyPr2328FRhDqnNK1l8YF1ZJx9qMIYyaUzYyMoCS3c6Vo8xVqF0dQ8/bYxHAzun2LoHkDL0X9nhAsYqaebPOGuyducEV6p9edAKEaSAD4JRetxuxPskRI9hugjkzlDKQVXKoa1C8EpkD0ihBN0gk3tSoXoe9wMYogS1HLS0lvxeOlS2xdOm5AXj2L1Qr2zWqN2Ur5iHYVRrS2GowmMuwjUNPq3kXdFKDZiFt8kndtxHZ89rdMXpsHsZfEXOvsY80aKSF7nGppNIMLUREJVEcdif+mvV05x+97+hVBxLzq8o2Amr5P41eQY27kr9EVSN4kcvKggBQldaQXMzCW+taE0A==;APveDlHsJI80evcfYNaNpA=="
 ---
 

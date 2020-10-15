@@ -1,14 +1,14 @@
 ---
 title: "Choose an Agile approach to software development"
 excerpt: "Learn with the Space Game web team how to use Azure Boards to implement Agile software practices along with DevOps transparency and collaboration."
-webUrl: https://docs.microsoft.com/learn/modules/choose-an-agile-approach/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/choose-an-agile-approach/
 type: course
 price: Free
 length: PT40M
 ratings:
   count: 5303
   average: 4.7435412
-heat: 52
+heat: 145
 
 provider:
   name: Microsoft Learn
@@ -30,6 +30,6 @@ images:
     height: 400
     isCached: true
 
-secured: "GZfFLY3cUJVIDZDE1E/+V09782le8VzXmFMI1Z4AYOe+CTEf+b82gVmSPxv07ApfuCM+PqKK3ualXUqjoN7lQ+OuZG8jtVrVOcp1sJsP1iqDR0fZ/lAVdLRrh1Qq20DfzfOOBonVPBKPt0Qee17C8znHoskGCzHS7V3PWnPr9ei6FTakRbc2uneKn74miZ8v9cF8Sy3nhmUSPP6vFbhh1kDc6b+S2Rc4m1kbx2guMS3lY31oEyH2DReqv2o1ee3IUxrv0XNMyvg9kAqi0jpeDd9/9L9jg4enRsfeiaIcqFsXVxC98r8SymHQpamO830AAVA9mfv8PH+w0G2GqF9zjklA0Jbr7Rwf9Exn80J27S/kc2XHfpidxq4yuaa6Cm998QLkl84RCWHXyxAuiJhwRzNUjTv14tNLMbW5KYxYceM=;DlmYcH7dYajctLyPE2tJig=="
+secured: "T64Ec32DNgXyFhV5DSLubB+KsTlzOczVCIvlvluN8/uXxmOw+5Lqu4onRcghVMksIP2YYPs/P8i8d5oRaYcOMD6CDBExdVs0m2KLkZHFA+xHV+8cIAVtwx16wkw3aHS6XsoyqL4G8GZQbxMF0REeICfY9JoqNKw3Om1oQMEX1j/xZF5DfHoMLRht4O+g6Hpx37FoJV4O/+XKca8FlOmwVj87a2hXv1gllFhyDnnxmncIZnAZM9tKOLOJCiilIXbfArq4htzUnxacGKjiHv4ufbbP/eYg0oEjnO5iqXOM29Lhi+mUYQicm1y5etxcM8D6lK0J94Rh6isZnrM+Iq3ThfKniAr/bZH/VyIkUoZ8stZ3Ye4MQgFu1HWKaJNZNtlarLyRGDiMOHqfQ8UTs7KZfw==;CsMnbQRnWc9YosCIrCTEjQ=="
 ---
 

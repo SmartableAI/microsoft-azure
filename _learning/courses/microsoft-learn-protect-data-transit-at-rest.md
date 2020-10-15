@@ -1,14 +1,14 @@
 ---
 title: "Protect data in-transit and at rest"
 excerpt: "Protect data in-transit and at rest"
-webUrl: https://docs.microsoft.com/learn/modules/protect-data-transit-rest/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/protect-data-transit-rest/
 type: course
 price: Free
 length: PT43M
 ratings:
   count: 1543
   average: 4.7977967
-heat: 53
+heat: 92
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     height: 321
     isCached: true
 
-secured: "QsnJBv4ELks7LSL9YrHQVVyp3GExh7TckeohZpveWuVB1baD88sLfX6u96wvBCaQFF42bYjngrj7zY8CpEDusY7vbAMVyHiQPqyONEl1XPTSwmm25d9rrBCdsZtrcLXZyjlstMW5mL+mLsTEp82N6u4UFdjNcntjO6p+DhNQDujOA169Awb2sUshvfefjVMpIESmPWfYMI4l29rBfCfAqBgO5hhcUGvcJcDl1OFB+B3TAeWPnF0LTrZv7S0fvDXyP4BGCi6fEI7eVlhRMpLUBx9/xflQCeLdQs9MubFI+XBDApUHYZqkKQZeP0aYTz/lpRtXeYRPiXmV4NwWrPEHEL/x9XOYss/l1yyi2cJo3c4ak1qUiCUWyFZr9IuJNhE5hH9BxEntQOnDwQWwuv1Kfr2fkfkbkFHuP7ez8yF4Kag=;s+vuCWhG2HzIyw/uNwdwfw=="
+secured: "0fvOACpalu7Y7LBqJzBnIy/zMYTQ9VJ5l3JBT+ppxWuYHE1McxufK4+GJrfqhnezi0+RPV6f5nJ0ljw4L5GneC7OUk7m/MfN3A5YGJmjj45pO6NMEKTgFqimOlYefRYgWOKrWru8VMfaxCkXsdvYK7nPcQdq5qrXWFe2BA34HKPlYQxjt9o+xTPW+vjM4JeWJcEezNaXcpZiJ1WRDMeex19pRvkUjNAe/Snn0gGGy09l0HuXExD7ygFBDwxK+xewhb6v9MBqHDfchqQZa1znHPi3cLgMofl7HLRA1sveYd88dlYfpl26T3ddbLpb/Yi2QskwoInuuh88u1mawiGGHNYxgOYbsR3hFx0YomB0yCLw2sUjZlEVWYf+/jfZ8EFTmQ3BTSNUIWQN46Bk8Gs1eQ==;pUsNYaCQkCQP6RyJpQliAQ=="
 ---
 

@@ -1,14 +1,14 @@
 ---
 title: "Discuss practices for responsible AI at Microsoft"
 excerpt: "Discover how to translate your organization’s ethical principles into actionable guidance and tools for engineering teams and how AI can improve lives worldwide"
-webUrl: https://docs.microsoft.com/learn/modules/microsoft-responsible-ai-practices/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/microsoft-responsible-ai-practices/
 type: course
 price: Free
 length: PT1H17M
 ratings:
   count: 370
   average: 4.802703
-heat: 50
+heat: 62
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     height: 400
     isCached: true
 
-secured: "YWt5Gkbx6lTpE/3sRRX9JpTHxybX9ab52plthnVn4o8E2qElRtmGAjH38t+Nge7OmAa9mo1JNviPgSz4TKwUCYcaxCOuuV0Qm4sExNwc0Xl1+qzOGl8DurZ1wJkS7/ysR6JiX1CsXCwNyNJfKQoUjwjb+8ZSsFaFferi6/DGws04mqWoAk1wswNUl6LPBGndiTrvHi9xhb6aCoQYLzbErAF7L2LdE4ZyI/htbfDR+fTtpTcCG4RlXRU8DsGB1c66d6gcvSh+Uw72BVi3gSw8CCN/q1/faXmXN3eABOW6DUCyq8oIIAWWk2AYGM2BLY/AG20aiCsfLxoB9L8R7F5KHVRG05Hkcbb86rpibknkITJQFP2OPZWBoJ2kB4Ob+6FwTjQdajJ39m8HZloqf+fmk0XrR6tSj/H3V9J7ywxCZMo=;CQFWfpjYpAuPqAla4gyYiA=="
+secured: "hvdFvEsjMBMKhcMFBm16SxWVc4gy6QQujshEKL+mcjsP0cMTFPugFN5PDiL0O1r+pV4vgO0uLJGqAX8/zJ877V0Qbfgg/LmGWqX2xozkO79XEv0SC7xCMf3QosJES51WiyUUMuwy7UsU61uuLhFIwpg/PREMWS8VG8gU4J9rm9+Frc0d6p7AAlYzcVwLOBcHagbWhmj8YGBeqmH9XKV6DrqERbBs975WP1dk/5fklqtzjIsszKHiPFsumgnttGc6J1NC93QORw6g2CDtjzWqZE74bUnxHoy5zOpVWLDH5Hx72iL8ulA2IQK6+UCvY46UDGEYhotpsV2NVTMmNN6e/80cE7sLtob5NoT+K2930RRUR1Zs6P5unGGo54SQt+jXUzHnBTYLsp5frUbpnGDCoQ==;RG+RPwCFx5f+i62eGPRY5A=="
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Help remote farmers protect their crops with text message weather alerts using Azure Functions"
 excerpt: "In this module, you'll create an application that allows farmers to use text messaging to set up temperature alerts. These alerts can help farmers know when to plant, when to water, or when to protect their crops."
-webUrl: https://docs.microsoft.com/learn/modules/send-crop-weather-alerts/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/send-crop-weather-alerts/
 type: course
 price: Free
 length: PT35M
@@ -34,6 +34,6 @@ images:
     height: 320
     isCached: true
 
-secured: "spkWfCGtB9Rc1wIUInlEKx0DxhTnWYDMKIfVg75YzVRCxoB5+uACGWrZ1zKzyzrre6sMCDZBzqFlR+sc4EQKr+mzMaest9gL2lVa7Eitj62N1v2vPkMMKRJ7qr7GWBhStke0xczl9jSdQGOxhAGACwPglxMFt/FzEGrvzM8c5v7N3DrY1S+h05MICdeqIvcuqPNN/BO3FMonoBoy7HZuxKBs4CZeGnyR07m5siQxYTGfLBEE36MQC/jrobzgneTxmYN6cYrhWDzWDqOAlwZEFkUzA7tZjl6OUZDHvr7FtY8raoqZ+6sIZPReM0kPEdHtCp5Gr5ASLqd3bEAHhBvGr3NnFs8AKUAqXFHX32OyBzFL/Rj0FbY/2CRd2k7y8c6Q4kT76UJJpIfGkyG96JoezonD1jbRiEh/bfYXleMcKPE=;lbukpUNWFGJgQFDQie7cDQ=="
+secured: "owcIiHfdbz7p9YxLjsXR2W0nUkxSOHqwx5RhB9Sy3Cvfz+myiQY1snQJ1DPG/+e+OWObSAMowNKKfZrgTKeYGNTSFHEFqwPXYzphpZIq1BcN+hv5Wgg04X5cxySAm7WBUt3vntND8yPw+E8A+efSny32IauhKYzPHp+6q9IPlxmJSskU/tgKuzUfhfSAYPgfNAYR1p3YoOl03avAhLzBx3EGJkOxVmNbE4uJkxj7vYxaENth7nx9HTxt02zeZrFafWsGMg+J1W00ooPw9RfuUpYfD3UQvq+GUz4wSgVXQc9NZkmW1pCUspOsYHVtlOkf3wYDPOmUTby0Poe/qlZeo1iP8mjs2hvGq4fvhdzcuq5fKXeXCkLTCCQosbz8wVWNtHJ+xn4ZzuGXEwpN/MVzcQ==;XYxPaYqijoRw7J9fYDnHPA=="
 ---
 

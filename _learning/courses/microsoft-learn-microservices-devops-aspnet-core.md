@@ -1,7 +1,7 @@
 ---
 title: "Deploy a cloud-native ASP.NET Core microservice with GitHub Actions"
 excerpt: "Implement GitHub Actions to build a container image and deploy to Azure Kubernetes Service."
-webUrl: https://docs.microsoft.com/learn/modules/microservices-devops-aspnet-core/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/microservices-devops-aspnet-core/
 type: course
 price: Free
 length: PT54M
@@ -31,6 +31,6 @@ images:
     height: 321
     isCached: true
 
-secured: "ACQXXUh1kwyKSDGiyn6/DMnpgum19UK2tkCpB2QGD6WLaIzK4/q/IGUev3Oku9qWhnXL7hBmw2XDSMAj/iYc8P8h2OzCSnVOdqm7yeVTNkkcoPg3bTsZHUpgI8ET+2uIg1600HcpEzvNT9dvhkJa9yv2pthoAo58vOhXbGO0Yp3IWYeps0z5j3OoQ71tzjmSLLHXMKab6dLLgklRPsKaemfj92HT3M6tDe+tiBCU0K2vln+7Vj70RFpQ12o2eEFYx77QaLNfzehXi2xxAgAqpSO+WS9CVEn4hdwv6Mx/sQv/Tu8+DRCjAwjClOpNf0oJAa398DHJeytY+VygjrOwY/AAkZXUX+7XhTrmk/gNORSuGmeNbfQG+yIOSnZKKNjlne2H1WzL6HWElzVV7DQ+QBsN6BEmOOuQ31GpyqQYD5s=;/j1aUpkoMf6PoyYHFut0RQ=="
+secured: "U3kpAouseRpkDXGaupTo7Ks062br+wJ+aoacqtEqTKRQrgQExqjT5b8Yxkevscp0Bg9P1fmevR18gexcCdthHZq3oSjPOWuN0hNzlHw3Uo7Cjot2xGFOi5n58P50DXIqoW/ZVEWMva13acgz0SKyGFJJ0l9z8ekwqEQXpPZhMKsUxn0TCKPxkcJ6xiiW8Y/hSbjdOqu6aK1qYGa63AAm4NQc7sc2askj9/1Y+ZvgnJ2+rEJbuGzrIzKzRvBrmskt+X6+k9ZESEYn8t5dngHs//3qzYYochL1YHNWbm1sF+fH/t5QqawH4CxACiv4PYHcKWVKy4cHkX7Lwo7nVWSfhuixrqSZYJKaKWiBIT8XWx+6OOuZDQ87ZhMEC6q8waY6JzLwNG5iSVPzwpvTHBkEkw==;Xto4zVdmyWsZjPY5cMApVg=="
 ---
 

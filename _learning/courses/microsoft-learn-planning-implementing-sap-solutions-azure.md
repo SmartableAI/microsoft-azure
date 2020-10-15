@@ -1,14 +1,14 @@
 ---
 title: "Planning for implementing SAP solutions on Azure"
 excerpt: "Planning for implementing SAP solutions on Azure"
-webUrl: https://docs.microsoft.com/learn/modules/plan-implement-sap-solutions/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/plan-implement-sap-solutions/
 type: course
 price: Free
 length: PT1H21M
 ratings:
   count: 191
   average: 4.7539268
-heat: 50
+heat: 56
 
 provider:
   name: Microsoft Learn
@@ -30,6 +30,6 @@ images:
     height: 400
     isCached: true
 
-secured: "jcp6Bvh45JPtNqDcCtEwFjHt8z9jhSdF21Hk0CxbrwDdlCsAB/P5/4Ihd7jfdmK02LlA/4w5ZXfs66UzqSQJQrm2bpWTJExkaR8grNugGBW/Z4SeXyNw2l+jGJ+HOnE++z36HNQ6Dz3JaCYefZWKbi3uh6mB+TjkFOMLgZgOZGVdbwecGGlORO730GBPBtUMOJNrynJn5BvkGhWnIFkE1s9sJofFdFFWEDxKR3wRBIUAZa/VxDhZL6Yp0BfqgWuV8gDPRKttr4xqzU+jbKdDhKt82NtjZKgBJ5NUgdQTRHqqEx1COqvQyzeiGbsEDbbhjhe3YqFl5lCPgjauGurZpBlt77/udh2q1HkZ55MjXu7smjp6B6WHC+zqmf+fjbB4mQ5dgOarV4jYwzm1BhoDXIVm0SY1bFdQVTa9Ppg7898=;hrbhej+Hejbs1XD4Y5R0cQ=="
+secured: "H5MNZFFFeniG0ayC1NHqRqXbXdpmjiaiFcuq9LmgidVR5PHCEdLzm+O7zzVsyMo2HTURgj8srJvFL3QTpRSL6jrE2wYSd79JCVpHClxcX/DnDZTjLGjhVJqmHb1KblqtxRC6NPHTLzscdk3RzM5JBYQjguRA6MF/d/bpeb1IQm/OOLgmj/K7KbrlUP7HEQEStwwYy+cTiqlxdw4oQt3J75pYpTIn4q4Q/QevxuaDWEcUg0s08zyO5aeHXvo+rZE1mp0depuSRXnuGtvWvV0GNYGz97weoNm4ezWw0ppjoCK/vl7iNh00Wk/UPjNK9ZyNaego2IGVhKGlod8Y/aIYTUOtULEDKaxUIBx6NkyaOeXVPBPd0o+v5pZ/kdUOTs/5cfoG7s4NTJXEhMwssdH/zw==;tBUvfjw2pvSXRGKKZYhiUw=="
 ---
 

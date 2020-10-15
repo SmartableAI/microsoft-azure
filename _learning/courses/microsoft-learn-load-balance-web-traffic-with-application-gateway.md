@@ -1,14 +1,14 @@
 ---
 title: "Load balance your web service traffic with Application Gateway"
 excerpt: "Improve application resilience by distributing load across multiple servers and use path-based routing to direct web traffic."
-webUrl: https://docs.microsoft.com/learn/modules/load-balance-web-traffic-with-application-gateway/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/load-balance-web-traffic-with-application-gateway/
 type: course
 price: Free
 length: PT1H32M
 ratings:
   count: 2048
   average: 4.5893555
-heat: 55
+heat: 100
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     height: 400
     isCached: true
 
-secured: "y5xKEDgDxuFgBa0j9JY2FEss6qeIzFs0oVuPHvOR72Y666pHgY9OzmjoNrUKCjsgkqCV5P7ICR+ZjR0ZTAltjYwEGNSigLhnpkn9vcMbOvnQ+9PlBM8DbiGLk/0ezzu+4gIFurJbC/Njr+sm7vWS/KECyIgFsRrXg43pziZ0fytuAqwbkkQPFVfqhtfFAOWw8ogIGXlkrbiinXV6IxyeVGVGPmlrSHK5hfpAWvGupOcLpw3/s+nhH+8XHVuFXcil/uuyCRllWhS66OCkd71GWCaJIBVqxhyu/2FScRH+X3hWI+yJMHZaBClXrR3q/24DRmOhqgGAzlJUu1KDLy89Dj6WUeHxlPJdowi6J12pMJPDhfJV3WJ/tLG5QU55sYOWegd+oBR28Vn8K5tsikqrRMJJZHu/hx5nWyQ8vBUz1eY=;dgRRJhChNTVwqD/ATLyuhQ=="
+secured: "CiKHAp0GFrfy9humm7Q9jBA8vmWUVdO3d0Nulf5Wvx09sEJSavrBoW52fhesPBZb4T/i6hPN/ivqV+uZLE0t8tDqjSX4UNRrhGLYGSU3AlbGSfrLD5QTaMGRRIiMhlufZs6SqUSg2Q3opjtWZQRInFK6JtpG6QIMb0fBWjyExC2AmPpwEJso4Uzt9bmjecjTYGKEoXt0d8de5fDegWyIv2mYDSx8kban7ZNTwzM7neYG6p3/AYkvKaO34t+kXs8P4igvvpbf2wDxNcHPTKC2AJITOeQQ9CQ5MGV/M9fHeeHd0JQXqq7LG10d9plyNxDKoyZru96GbNqaRACEm7ZsLR2IBIpYPdRsvco3MXBWP56+CSNqMc11J5yDan/UaMM3G8omVE/L7WUF6hH9H1w3kw==;5qTKFJdrwuPde/epTpPLjA=="
 ---
 

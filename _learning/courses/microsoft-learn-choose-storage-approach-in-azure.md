@@ -1,14 +1,14 @@
 ---
 title: "Choose a data storage approach in Azure"
 excerpt: "Learn how using Azure Storage, Azure SQL Database, and Azure Cosmos DB - or a combination of them - for your business scenario is the best way to get the most performant solution."
-webUrl: https://docs.microsoft.com/learn/modules/choose-storage-approach-in-azure/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/choose-storage-approach-in-azure/
 type: course
 price: Free
 length: PT30M
 ratings:
   count: 10736
   average: 4.665052
-heat: 69
+heat: 184
 
 provider:
   name: Microsoft Learn
@@ -26,6 +26,6 @@ topics:
   - Storage
   - Databases
 
-secured: "Wn1cYiaWMp/MdEtnuEzWMrktMg7rMIam8gpwIqxuh5gogXWSv4xCH5QzH7RadETryFKRTJ1xgYep8bdPgSgGBIA2ikPlY2ctn5sv6t4yH0M5m8E6/nTIzDqeZsVUXEikGrQhWgzp6C1qSNHM7qV2OpP1NlwX6nSb/sahbe5YEHQanT/R0hxCoa2/9LQxVdkUCHMBJ1Bu9FNpdTs2whJM/CVdPzdsmjQcpNgHj01OtqU2m0gmPVsZmtV8t3daeBadBtjrI6bcnpM9OR+RcZsXmBzIq7izyPBixySHjvw90Fr98o+U8qCERek8BvH8xAvVrdlqz38+XPS3oUT0t1VRaKaUOuFLAsDoXbSc3It/yrLFtLkoSBG8pUOzKn+mt2MnjLR3ni4FFmFA5Hh09xHQHXz4yZ2vE2vwAKw26nj3oIM=;JoAhEWbkVQAVEBIMkiPVFw=="
+secured: "DxSFnmJQS7tc3qP4COEwoI9F/m1JfgmGiNxBQJt4SGPsV2tn8h+oLaSiMUBZ61sjkq2eZA23zhL2Z7s5MOGbWv7bsUhCxFPHZcttL53U1WAWoCD6tml3ZDbEWj3jmNcTzYKGluFuOfbha05QmzGY9aBQZCIrCvXBmowEKMrREYtex2KQ5DOeVrj3cLG+P5Ss8SQ3aEOvaLZA7goNBZW2ligaKSSnZf6f9JMGOB9JDrqDFtNkEKLS3C/Mq35haJYYjKEXs1OwRsO0cezRxtUIMumJ5Q7toUbTarF1FlyvhVNbX3vxiGyS/5eRLEneF7IQRkixPXl50RMlhggTJVDmxa87fUWYOoUbuPF/JufVmIL335ygei8vyTdfocz0jgQMfyFyBJECQyYGeZdeBV+uog==;DE53KZjAJJjhpAuiglHBAg=="
 ---
 

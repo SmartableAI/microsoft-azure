@@ -1,7 +1,7 @@
 ---
 title: "Implement Windows Server IaaS VM IP addressing and routing"
 excerpt: "Implement Windows Server IaaS VM IP addressing and routing"
-webUrl: https://docs.microsoft.com/learn/modules/implement-windows-server-iaas-virtual-machine-ip-addressing-routing/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/implement-windows-server-iaas-virtual-machine-ip-addressing-routing/
 type: course
 price: Free
 length: PT53M
@@ -32,6 +32,6 @@ images:
     height: 321
     isCached: true
 
-secured: "jq2t3Cao+QZtqSUxS7pOsU1Kla5TE2id/jcb3+93XKv2ns9P95pMcqQpF3bwFa7VZGE9Vr+eeaW5e3JUL1CmK18+2CjQVIop4eFbSAOP0NOy3CH562/L1NLOFdDnLy5enWsJRpttpKUigaVr/3VAUfN9dBpcDToxSvSuwkuLLHUb36tgyzWZw+Jsgnb/hT+oVABxZ/AhVOK4PazNTVwwjAJ6oUaHEunTngmgRp1qjbeDRb5ljCXAirS4klG4r7Eq+su9JSECmIrElhcPjzpBIXLkMLd32hY00DLn9iQt3toEHjHdsJfcOnuE5DuDPABWvAB6IgXEqqoV6Q0TBfgRTDq1TXxmEZ1B26GpOluxv1rA3AXGT/H1E4jzsSMEJSHkBaq1bOKmFz4oB+dnIUKC8cGk8/PUKbdSeqBGAhuLvFw=;Yd/Cyn2GRPvSlSzrbMb/Ag=="
+secured: "jyFVBuGy1GILVSGYwkNBxlFuugeFW/ngvrD6OrToYMSgtFV+hA17wL5kKMrBUbBIhEdpdqARrVRFgDvM78HLbEDpodphhD38ERlMjfHT1a9pnizEM+Ac9rOiJFkAi5iCXNHpyscAn/k8QLzcmZMhMmncHVd1rfSdTXkHC9Q610BHYljdky8wqlY6rwqiRjdOGGNClzTXO6bttyETD60ygY3YZLT32+J2UgU/eaBy3gRHaLqhTf8VrvQISrFBNb191CXhVAz6MY3Ntnu4Bevwb97pImFEFpacGlgi8k0MAYBFIyqCH4rEBS9QXR1b7uyqKBEquwoONF+FJIi/334BGhVMADz5hWvWdkWlO2sGVHk6Fb0L2Isqz3kDduIUGocGGq49I2QYYe3rDEisigIA+g==;QYZYZC93G8NpCasuflfefA=="
 ---
 

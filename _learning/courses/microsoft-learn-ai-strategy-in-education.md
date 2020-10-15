@@ -1,14 +1,14 @@
 ---
 title: "Define an AI strategy to create value in education"
 excerpt: "Explore the strategic components, special factors, and use cases of an AI strategy in education that creates value, with INSEAD and Microsoft."
-webUrl: https://docs.microsoft.com/learn/modules/ai-strategy-in-education/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/ai-strategy-in-education/
 type: course
 price: Free
 length: PT51M
 ratings:
-  count: 549
-  average: 4.752277
-heat: 50
+  count: 550
+  average: 4.7527275
+heat: 68
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     height: 400
     isCached: true
 
-secured: "dK2V37wd8ZDbz2cD/TQLwtcMWQDxzd1bv74GjhA6Xfhj03iMpcivadyDnkBlIFkv93eiDkpyEhFVFtz67isAoyL1iS+GWzV8q9HLQKgW8quArbzF5mkkIwoVVkUlDqIQPB+0QUgbA9t3NqClDkSqSTouv4l7GrCV6Zr33sawfXoMbRF34Yd5Cdix33wLFtVvc1NS21nhtdn0mdewXdql0Ry/zad0ebHABYDOG6ZhOG4q7xclUssraRGSYGfGFqAKVPs0Dt0G1q2iPKNTbMnMzppgV7OaMZvGetJLrNoIIMZv38VuPVmUHHyVsN35ly2C1lhU8ejuD8M4Hxy4FrTGglkUG9Dh11aNp8i3s4e8C5q6soIi2cDnCfSJSSdD4MP7tLCwYKRd4ySfie5ye/padLI/uPKxEL4MhlcIB7qqLGE=;gKDpi01WJi5BsaEdADgQ5w=="
+secured: "O8xcMebbP5V9eMazJCQdfYkv7aWy4zTwBfnyYN3n0XiojVPWFGCmIl3FBcwdnaRKzUkdJzMOahGw8GkHu7x+IQzMp77pnlpCiW1RnyV8XbIlEPCwks0WDUgQRbb8LOTq6NvYPkz0W+WywOBHJFXYm7nAhL2G27bLMlBl9hlS6/h2s0K/U52nR6720VmT8dsHSxcVwvvdDMBooWT7Iz/l9tZeCwTocINSSEQufHMBGDVkb+cTumgAeCo0CRtK/uqB81itz/En9Ype36E6Zrz2qzQ5ykv5HdW7xM61ExCgZzu+5QMuJcD2MuhD/MCFv+zxOFgcIfHpngWKFktgZIcDr5epYTET+oe2QtooISNvU89+cuFCnN2T8DSW1QyOaFkxAMKKlGMMb7W+37Pjpdrz8Q==;ZLQf1k1ECeYKd9Q14Ncd2w=="
 ---
 

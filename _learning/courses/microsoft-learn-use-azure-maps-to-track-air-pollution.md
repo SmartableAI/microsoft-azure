@@ -1,14 +1,14 @@
 ---
 title: "Track global air quality with Azure Maps"
 excerpt: "This module shows how you can track global air quality using the Azure Maps Web SDK and pollution data from a third-party air quality API."
-webUrl: https://docs.microsoft.com/learn/modules/azure-maps-track-air-pollution/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/azure-maps-track-air-pollution/
 type: course
 price: Free
 length: PT36M
 ratings:
   count: 33
   average: 4.6969695
-heat: 50
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -33,6 +33,6 @@ images:
     height: 320
     isCached: true
 
-secured: "xxZ+Avtmgf6w6TyMQtgr8O9ofoCKb13kCHuT3rovGb0wrYAvsEKaiZdQAgLCEzMzDDwzOgHe4mx4RerbijVfCaOqZJUQeMOLGCp2ijcIyh9Gh1NBlqTIgU0axkXgO1OwEUIiEJzFz//gCsXso4v+HXCV70jI3zRcljY3YuK8d+Qq/HJEe9hsoUKgAGrX2ZptsiKJqR1g3vxIcCX3tY94D7ScBfoxU8zFTLHLOyuwo3FLxkYsln3Q+566XDWhz9M8u0EZsBwz26X4fZua/Xqbz1Z73RviR3qZx2JJ2ePYM5ycfGCmT8pEsDu5OaiKTNhZkaZge3n1H7B4HeYa0/IgAtFDhcTN/tpg8KUhyk1pe5P1zzCSh7KdL5MbnijUS0I8FqJ7YPVlaoCMYUIlZZkQbtGOpmt15q05l1m9S7bGPb0=;iiE3M3GcDbvOASOUM3FpLQ=="
+secured: "5vLnn6aZop/ptykWqkj8mjhrRJx/N5wjyuqKMgFg2nj8tCvqko4RggzCqMwmMZfzzyFoc0GUlQhnXi+oa554g9cWsxwxwT0xKOf7DgO2fkfZoEMKPxCHQ/nycrm15C9+5zkJaup4PB2AwA1AiJellsm+r7caquBxXecmLvMEEZJCddbxrpU2tSfY46RS7kax13Oh4M2XWkv43pp5XviGqA/HMu6s2C9fSt9U0IdihW+Wf58Ub/K4DMI6cMrQdl+0T0omG9vNtpwOWa6K8ILQEDXUL10j4GHUhKNb3KZv0v4xONjEU4rHVBIBgFJSe4k/O4u69XfwCh+r64Zak7VgJB/oGP87g6KOCBmPjQD7XGdXmzPddqdiPkcjPav05KCn4nPH/9309G77lYJ16LHQ5Q==;5fGxC1jVGe//zVSzH4soww=="
 ---
 

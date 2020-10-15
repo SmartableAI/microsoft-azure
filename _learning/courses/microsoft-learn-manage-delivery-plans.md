@@ -1,14 +1,14 @@
 ---
 title: "Manage Agile software delivery plans across teams"
 excerpt: "Learn to optimize delivery efficiency by improving work plan visibility across teams."
-webUrl: https://docs.microsoft.com/learn/modules/manage-delivery-plans/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/manage-delivery-plans/
 type: course
 price: Free
 length: PT33M
 ratings:
-  count: 2177
-  average: 4.719798
-heat: 56
+  count: 2178
+  average: 4.7199264
+heat: 104
 
 provider:
   name: Microsoft Learn
@@ -24,6 +24,6 @@ levels:
 topics:
   - DevOps
 
-secured: "3z/LdSWR639l0sNAOBc81Sehfcjg+7iemdoyH2a7qUQr8kdu65ws39pyRttMDw9kApOOBg7O+Jz/yVyWnxhcJkBZ1NVcA30h0vj9aw+WV26/B0rkGn6boN1FtNqow7miAWbUPh2eRaRMXANY0WrPPvpts0NRYHQtGH9j0rXcNUKIy2liu8Gw/7cHfKoCiDvrALvkQNpf5LiS3BSDrVsc219FfhnmqkVNsT7tpF3MnOIGHjOJpS1dXCTNZk/muW8hAwsyo6+Za0duvcngxwqPC6Qlj7xY5LgWgoXAV8sSZ23DxgmEzRj6DaasWZSoqpOGod9ypxOiFy9P3hQorwbo/LcHN0V2q3T/1OsaC+EY0NVu1b8Ks7qxGL8dmzPQztUnsVfJlnW0lgwDYGGRBGRPlkVvyMeaeK/+SHHYImHNN1o=;tZ33iUl5kZ6FvPPNxuAg+Q=="
+secured: "OHtpeSMj+YILmMPlYlYOYHaGEf2fGqmKCQyx7KibLloOWjrOofH2jnd7px9Y7temRL3W+t/XmvqZi5CNydfo8/0u7/9oQdzrOQI+oBWOwsRLfpIVls2OIq7CaVwIUq3BiK+hWoJDrfeV6uPuz/MGtAtOE7kTzafu7znwomnzhTw4buWHI0QxOOnFThIwrBY6/GLn2WolQ6/BtFyiROTo2GQjjZEHs9XyfHED6BDlwXNA1bPXSXdptADtcqfO3acEIkbRYFGU6Q+CBIo7gOtmYGFWL8/k+IHHsgy2TYFA6lQIU4IVhMpvRFm3Z9uD5NmsN7xz79Flit+JV9v8jX89fdaZsTbvnJDUdGN2jg1Z4EWTLnvl782J4cIkPATcjmL0/CbekrX3KLN0cCnszyB4kg==;AKrDu3p+a33gh8D3f243Bg=="
 ---
 

@@ -29,7 +29,7 @@ topics:
   - Management Tools
 
 images:
-  - url: https://docs.microsoft.com/learn/achievements/generic-badge-social.png
+  - url: https://docs.microsoft.com/learn/achievements/create-and-manage-cognitive-services-social.png
     width: 640
     height: 320
     isCached: true

@@ -33,9 +33,9 @@ topics:
   - Security
 
 images:
-  - url: https://docs.microsoft.com/learn/achievements/generic-badge-social.png
-    width: 640
-    height: 320
+  - url: https://docs.microsoft.com/learn/achievements/audit-the-security-of-windows-server-iaas-vms-social.png
+    width: 642
+    height: 321
     isCached: true
 
 secured: "PgVWCGx24k4vORRvuZdrv5oZBvBy7ut/Dk7tQqRLlyzZ6MK24D0b4ClLOmXnTr6O+XfcHOxGYroieDWGXYwiwbHB9gZaXpg3l/lRuqXRrPRkldj4MJPpKdVZpVbkfssu3M4f3Hc7zaya6SkvQ9GMQMBNg5ak05yumGM4fW2PFcCr8XZ0qw2dr8E/1WM1s2GD9UVYLrttrXJFHf03jji16p9vHMs14DaGr/btuBkvhOsXFoajeQb3ukALFY49Adt40jkQZMjLOeH69ze541YJZ8ASnB/oM7QWoo03TA6wbozT5g9WL0VwKy//jOorJ5YFGda7aWzdWUpOZDmTQ/SR9ig6LPq4gRPQ8Y4Dnx40oDM=;tmfjZvd6f2C4MWW5TwE1fQ=="

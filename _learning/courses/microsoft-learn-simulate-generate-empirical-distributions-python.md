@@ -1,14 +1,14 @@
 ---
 title: "Simulate and generate empirical distributions in Python"
 excerpt: "Learn how to simulate and generate empirical distributions in Python"
-webUrl: https://docs.microsoft.com/learn/modules/simulate-generate-empirical-distributions-python/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/simulate-generate-empirical-distributions-python/
 type: course
 price: Free
 length: PT1H16M
 ratings:
   count: 64
   average: 4.671875
-heat: 50
+heat: 52
 
 provider:
   name: Microsoft Learn
@@ -24,6 +24,6 @@ levels:
 topics:
   - Azure
 
-secured: "gZ7T0ns+YIXTQEkWaB9AWMMRPj8BZBn14ws+Am0GZ0lull7AN1ntbOVWLjCi/ZVQ+ctIjOSGnzQhqRUTjDsc0m1tAQp/jX+gPdgJnloTOuedXXS+9npgDCF26S6n/CXQV5EGQgkHbIYWGMRoqJFK62lSQHqOQ1UGqOPAFoPpJDAQTqX19A+xCJWVxTh1lMoNlvJU/0qxZBYyWF7FGvsRO1QFCW7+yBA6p+1WRAXY1Pb1PgQWzg9MEQBg0rCDbzZHMWy7CXd7oBfC1B6/xO+sgQrVtzVzJ9LYeJ9EbY1r64nq5gnNgXtt1yljmusohIBNfm5YtbPouJlTeDeCWG9uwPof2TNLBSmN71WvW+aUL4Q+YWIomKFuq/TCmv+XyTrG2Z9Po+orekL1ZDb7iE12bytSTYuYhJlw8HLC0Q130J8=;i5SEXAYJj2+hjiZtIZ+keQ=="
+secured: "gmLSTT7Yik+EBaT5JrCDR89Haz5ps5E0kqHDIdN9WjsIRRXmnra82lQXe1qzfthsAQrOtAs5iWJ8IrK9ecZA0Y6pcpFusGJziIfGsGonNoHgW7YePctOVtfK9sIfW+jUeO8dJgXmEOlkM8YuPeRxBR40geQIYiXHaG+K2u/3+nH64s5iaJ0gmN/KFb728jr8X2SAg8yMBf8ixRAx/a+Jlx6WCJfwPm+91WDbhB5YhE9ebMdjkwnUdwBmGUf+47UKI8zpAumKWj9mWHKly7JGmrp+ujZqjr5/WnRLylTkMM4mC3MCmJ1RfI/O3awgPPnr73FFLRQnzNllNW/kw1QXVU7EUJNVXYR1xVDjeg1IlXHn2RaxcMnqZXhztYOwEHNv2vlaTiHbrTYkeJYLJvy02g==;/bKfWu/EuTSyIwSQ19C8AQ=="
 ---
 

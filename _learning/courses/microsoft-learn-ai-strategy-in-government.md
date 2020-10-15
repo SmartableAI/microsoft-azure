@@ -1,14 +1,14 @@
 ---
 title: "Define an AI strategy to create value in government"
 excerpt: "Explore the strategic components, special factors, and use cases of an AI strategy in Government that creates value, with INSEAD and Microsoft."
-webUrl: https://docs.microsoft.com/learn/modules/ai-strategy-in-government/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/ai-strategy-in-government/
 type: course
 price: Free
 length: PT47M
 ratings:
   count: 607
   average: 4.729819
-heat: 50
+heat: 69
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     height: 400
     isCached: true
 
-secured: "gsxOs5nsAWlDVn9TK2uuezbFE37XJeLN9g75iNs5h/e8ip2oOOWmzeFO1Rcrvqt5vKdggBDADYlizvqRAaC19423XiYNzVn93f7EO3CeRD1tajH7sz0Mocrig2uE0TYFIrANigRDsQJ3idUIWV3SK3xVULmDWr9MJ2G4VcWm9m32FubT97n28hew8bFP7cY7tMF1ItqqhWueHgMCuyvDrzk+WnlAFqhQd4qxQNhNpkpp1DJ6F/qqscsFBot6G9C0mQp7sSe7Z5x/z7opYsmKVijOT+cf5IbopmxX+Zuvq699KudxQVJyFM+DPdHzn/38/ausdiLu24UHJWt/fFE/e/oqU2J2QdmU5J1+UIUSYdwZYckiJohyhNkmy44Ea7uoOStWf4AF5+X9y4yq0OlqihXeSBIGsDAKcTYRt1HS9hI=;felxPtgozqgUrrZGLzHlLg=="
+secured: "zLVKot8IHIR2K1caPPOTmjBBuoNAcxAR6zVtoDw6+iAxy/ksrUL6YY1T0TO1ZTena7Hjwtck3pngfEiFg21CBagqrS6alloiBKpZ4Urfgh9OcZKMv90BSKbo5R9TPZJUv1pTwNYI6WvHeHZ+H/dcsYYYwhtKvGje00MDgBrgDHQBF6WRGASWoc/fHfg2JV4OQWX+lpqVErk7MrVQR2djifIwJImtJ3/MZaNXvEz6kk8Ky4CGBkE2+8uvr38VPYS5qHSkH8kRPrRlzfyo7yqjsvv61bjSQUSoBJpt0GsMs2c6WCB4yup/0CnOLm0v3Kg9oBb78sBxKjBEDVH+1zku2GS5lPyl7bBAx/eBmRUPps+YE+FJ5oG6ehCUTpTeAAl2dlqlhMoLsjlpIkbt+vq8sg==;UV+PcPSZbvaQKbgF+eDpFA=="
 ---
 

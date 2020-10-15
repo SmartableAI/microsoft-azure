@@ -1,14 +1,14 @@
 ---
 title: "Run parallel tasks in Azure Batch with the Azure CLI"
 excerpt: "Find out about the Azure Batch capabilities designed to help you efficiently run large-scale parallel and high-performance computing applications in the cloud."
-webUrl: https://docs.microsoft.com/learn/modules/run-parallel-tasks-in-azure-batch-with-the-azure-cli/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/run-parallel-tasks-in-azure-batch-with-the-azure-cli/
 type: course
 price: Free
 length: PT45M
 ratings:
   count: 1014
   average: 4.5887575
-heat: 52
+heat: 79
 
 provider:
   name: Microsoft Learn
@@ -30,6 +30,6 @@ images:
     height: 400
     isCached: true
 
-secured: "ZK5xPjy7no1WQ8YBo10w/m2oav5JIfP/k1DIzeXbnPwk/6I9NElrLRanAthozsMaCEu0xl/NiIWZW7ZZzBu9bzxhX+ypiFMJBmc5Kip6QXp/3H7P652qvpRT6Uos9eXm6rDphmqdTl2OoGlFRgSFMtTbuO1xy8oJYyKLaXjJpk+n5d4B90+fUqGl0oA9ocGGlrsag0aDTOa+DPO+P7KGIC3FlYKWRSUzChDQ1qFFqY2lGjepnJMIG633/qvSbA77VIR6XXjw8MJYGY22G4MvTSVChsYYnhMFckggoDH9haRuqWAWLuVmNXHF31HSuDqt7yG+QHmgXlcIJzRhyp+ohp7g5Isr7JtwFbcYQv2lJ3Gus9PXZbp/7QMIqaIV6CfmRqJ0PckfcBL/ipIpmi2BuiQ8Ybrv7wBYyx0fEKYmc9o=;UQxd8AvaRoQ6ai/Zcs42Kw=="
+secured: "vaIe5Mus73vQJYEXkTMj5aV8wSxyMyyd16s3OTqhxTMGhJ2AoQ3xqkiyCT4BPI/71ZOiGcKpx/nTr5ku/umneG86bfZb91kU2DKiNuh7kYvU7O9ccpVgQqSKhzT3Y34iT844bTkuipoAt3pA1uOp0EQoGmEsEPMKMMb14ERlVZwtrMl5ex1Oxgc+Nklp2Xx/f8L3z8vYs8aU/XvxxzMSgWxGUf+t250sYGw/MP8Qf+gKcbKuGMpBBQ+N5Tx+1n8GTa8kStU/lY63oplWzdg2YXVShohK+QXKFKrnXpnEgwLaXDNFcn4vaFJFtfNnT+/JwZ8J/+BjbONjdA+H9mM+UTpL0L4ItYqaDdbVvMmkmoiIcd7HVX7n9jBXqpvLBtxX0U6pKFScmczb7JbeJJb1BA==;6x3JEorBEd89cIUKrwfJFA=="
 ---
 

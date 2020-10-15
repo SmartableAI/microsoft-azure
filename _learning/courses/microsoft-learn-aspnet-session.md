@@ -1,7 +1,7 @@
 ---
 title: "Improve session scalability in a .NET Framework ASP.NET web application by using Azure Cache for Redis"
 excerpt: "Learn how to use Azure Cache for Redis to store session data and improve the scalability of web applications."
-webUrl: https://docs.microsoft.com/learn/modules/aspnet-session/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/aspnet-session/
 type: course
 price: Free
 length: PT29M
@@ -35,6 +35,6 @@ images:
     height: 320
     isCached: true
 
-secured: "sS8AIOAqvDO+I2U3ctA0fQHunk36LHpChukA3AyKUqyzxMCUWFXhusF5x8/ly94oWhmrHjCSDY3we+juSB+3Gashr/oJgIA8FC7KyGljjOBR19nUcDRiStCAnpOQLZbXSYsJkpLUmgYmJ7gXvAXtOTX7q/8LaWldgPc6lR4RUBPsp0ZH5HOLiTBFQ94v4B5lpj7rHXGnHwBZSIxqnGqNEY6VZVGRjRuYuI0Q/1VFOOLgzfXvmXf6tRJIA1wB648DTZrSM2GxcjNmz1xH5waDWsV4Jf75jYkNIsn966qyOXvi4ROsv/EtyrqqJLBdCIAE7NeB1tAyS5rXJhjdCYMcd0zb1CH2OqfTqt1cLo4MuxbG9rwZBIfdcueCccyEzZ+Njjyyd9RMM7fbsDhBNeKHgPpBxMLkZ7/gCBK34v5J/C4=;zO25SuS+TPKVA6a8wiJ0Aw=="
+secured: "VBLSO1rixGti1Qup8LeN6IxEIeWkFjXHDisNYcbo1djSCoPJ/I21rzKp6PWOg57fbnlmLA97pG8IvpyOztHCYRakQaZixQ0WhYpsaWYIwv3qN9KB17Mg2vMpxbu+TUwgI6MTw/kHSd05OiBU+hzBfCKeylWDXWLxnvu0afF0zm6xLJ2xRAxaTomLB57AdYADPAOv6JRo53d96CsgQV3adeaz5xCc4drnIIAkQst+TWbMJDlrnO6rCtHCbRBZycQRBraKG/sucUfFdG2kXxtPQ6hoO9GeShWv5Z50xd14Bk6h06RjTJOKYTJHq5hX4iv6uDuysIK6J1d3UOzthHBQolTWgukMPHwZaJVnxYSHQ6eZaD3oBzaFDgRNaAEU54vNQ6RLp5EMGZytT43HznC8Tw==;B+vfihQqJgBnND+5gZbrKg=="
 ---
 

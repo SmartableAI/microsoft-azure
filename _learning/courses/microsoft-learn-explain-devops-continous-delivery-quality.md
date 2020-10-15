@@ -1,14 +1,14 @@
 ---
 title: "Explain DevOps Continuous Delivery and Continuous Quality"
 excerpt: "Explore two capabilities in the DevOps taxonomy, Continuous Delivery and Continuous Quality."
-webUrl: https://docs.microsoft.com/learn/modules/explain-devops-continous-delivery-quality/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/explain-devops-continous-delivery-quality/
 type: course
 price: Free
 length: PT18M
 ratings:
-  count: 1063
-  average: 4.707432
-heat: 56
+  count: 1064
+  average: 4.707707
+heat: 81
 
 provider:
   name: Microsoft Learn
@@ -25,6 +25,6 @@ topics:
   - Azure
   - DevOps
 
-secured: "ikEYLXi8s1qNyqZr8zyvuAGWVBsd26zb9h3QDTBi983LMZuW0wHCTLZ+O4DwLJZ8N502+yjkLaKJnTDxU73ZZMSRCRUyp0Rrk2GgUcMYvgTzktTKJqiMhh9SAqTi0Ng4Dl+octTP2ts+erndfTu6fMozP5Nw2UMpBiObE30wnPe3xTr3vviLwaFC2ZTmsFerYblNZLPz8E03OzWGULd6IxmXi89IVrNdxXThF4IqlnEBlJankr2DnkmEAcIuv5/wcEZmgYmN+f97Lnl+gSUfk3yRGfj2Kr1vTI2JomQ5c/yQzw42JKTKoyNb/PU+WBgsacplVbHvGhgO6uN3dZrl1HOFNQLD7QyDkZDuIDWq1qIcMvIY1Sg6gCiD3EW0vthdQXl1QUhiBDQbCiEWBlqU9m2Uaer0ch3A7a2YtbMJjbE=;0Bq2+VXfJym0e4OfE/73Kw=="
+secured: "0yPjkXjRAQCYtBCIUlEEjeCEymn1tEeEPQrwmYy2kS6vNPU++cmL0wzvR91q+ZnYihpbUNNa5jCQtf2ue54bWh8CDykoGyt0G6dMqOMfyB2zp1bwBMnDWAnxHo6AyL8bziIytjYsoyPaZNYtF136bpmhPxvVX5Kb80wtF7hPih6hVzDft32fmgYiPCHxtJ3Tfp9uoGgR7BpRm4PanrX5UavUWahtmQmapxJr5Jij63nOv9T3C98t8w+aJ9ANG76tSg+/o3rbOKGvQAFENTXkiRPgRCJaBLxw0yQtdNNwfKauyS/kcmnmVrIrGyn/lnDWwUZ2M3wrMr8ousKv2fs/KHwpIzaKr71pAKx6Q2KtP/8sNQIWIGrdBn/2WTCas82rAiTALhCCHBvXXUP0jHZ3AA==;LMSuvdZe5VajvfjdOnIikg=="
 ---
 

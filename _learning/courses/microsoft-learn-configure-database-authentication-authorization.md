@@ -1,14 +1,14 @@
 ---
 title: "Configure database authentication and authorization"
 excerpt: "Contrast authentication using Azure Active Directory vs Windows Active Directory vs SQL Server authentication. Implement various security principals and configure permissions."
-webUrl: https://docs.microsoft.com/learn/modules/configure-database-authentication-authorization/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/configure-database-authentication-authorization/
 type: course
 price: Free
 length: PT49M
 ratings:
-  count: 1009
-  average: 4.8196235
-heat: 54
+  count: 1010
+  average: 4.819802
+heat: 80
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     height: 321
     isCached: true
 
-secured: "aT+ElW4ojaFPmu4Gv3msVDMGpkTp5OCsxYe9njAIq8Ipn0wfPXd/PjwwHk8KuAf4USfAjd8XfL/Ts3VmfxWL6x8ecrbqlVBY+6cnyyMGW8KlV1+VuJNWrwGtfV0l+FiMDGpeC3sB8za+FPJTsY23sk2SoH0A18l0wCFEUqPLVu1xngL2Ev+jeAZB/nt9krT6A9jB2Pbx7Xq6xJ0468S982JCDFvFKSiTSIsDAJjBVWcNfWwuNZf8NN8m2yzXUXMgNGv/JwneoPQCCnKhllsLXJ82dwi1NtL6YdyZeobPp/2bt8vuHdkp85YZIsDJ0XuLKyPNtqvyJAtRy4hI3lra1VULa6TigeobReFxlFemA7xgN85tx5ywLJB0pvXZmEdyxKmMg7vrSmuZBtN+zoMFQd/dIK0/fOumgZUzWUrBrYk=;qa0Qh6Arp9ZeflQ3qwzNkw=="
+secured: "qUWK76RoxwqO3uRL8RK5epU/yDXsWg9kL6gcaoOjOtF6h90ekszgqtfvmqzVSbXF+YVMLCtqGLXZhxijHu93TPQZ7asRMSMGPwXDAFjDLOehJ6XyKLzZfjMb4Y6d3PmBsLuJ+7mc1gaV/HlfNEsQTEz/fUgtm5awoaKQ3zzXeRgCI2w3pHy4lqu58WtpOrYFPSzFhLwh06XzSvKFRpBrvjhfPF5uSS5wA+8fwUHdJu0J85nABAI3wzbrObkMLby2qe6Jt+9RdSmqx7XCJnXZXwYxcbh1IsnGvxQkTs4pgtayrkbbKxJmUKZk04Y3s4PUjtgocbG3CpBf6IxxCISrQiA/tCoF5YO6cyP1yj8+TttMAwHVL7rJuSBL3L3SAUM9BAadHHf2pir+w3Scn9n/Yg==;n/VDu7LibNoj1r9t6ejThg=="
 ---
 

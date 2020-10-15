@@ -1,14 +1,14 @@
 ---
 title: "Export large amounts of data from Azure by using Azure Import/Export"
 excerpt: "Learn how and when to use Azure Import/Export to copy large amounts of data from Azure"
-webUrl: https://docs.microsoft.com/learn/modules/export-data-with-azure-import-export/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/export-data-with-azure-import-export/
 type: course
 price: Free
 length: PT24M
 ratings:
-  count: 536
-  average: 4.69403
-heat: 52
+  count: 537
+  average: 4.6945996
+heat: 67
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     height: 400
     isCached: true
 
-secured: "4aHbnGv/5wI8Cb5+6y7jbUACs28Wco6s3yBdo+dm5HWJ5o4kockFLY0RVWca3cynpuRZyGbVcReCby/Y7EfCN7/U7f3Yiymc0WHTkpoqaeaXWbp8S5fLVnGfCPql/bdirHCgwOfZDyxhfjX9BkBySsZFHP4sY0EZvow1X4GPR4EoDpZh+J/z1BEPGXuT2N9V7pogm4q4Dth+sIDTPjqFDRfbS490pKEz9qd2gJ3FLzqglzTV96JlWW4we04NyBUb2iNRwtfIZpS94z+iJ9G2Ip0c6VWD7wy57dPo8lYDNV0itOBQg8YX+FW7wlyr7WNdQ/2B1+ompZ4DVUmeu3vWgojbwoZcxm0hvO0JAoRVX/tQl5ysus6alOjoi51Pm75Zh9E13EaUiGxzt02B0TXItBpG/6gEiMhVHW0SzBUK/7k=;lPDff2Q13jBrjtnl+dtF8g=="
+secured: "n8MQZ6/m073xqpUExCDcOHg2LnbcuP5h+RoJ6OWuguZt0uNq448glU+fEFGId2fqX56VdRKR2T6Rk1QG86TAV7Fyla7CeamTVqmPTqyvQGzylcfMB2pTjNhQDZIifl2AaEJpJKs9J3Q47rwcsCXbQSW8+x2PYP+WU2/LScOm07UbD6MvYL6FqUFRYasv2H8pjx8QtqFiYfHzdYSyaLbbvWxZUYUCo/Qd+Ppd5dB002Zag9Qanlhqc3UHNMCeVRG4Pr6BOA0iN1BPK8tCo/YroSJsTJgyG7cUqNKkOo/qO9bPtIAJMnvh3422Kt9krFMg+9Igd27asJl8BrMOCauzofoPZzZwl85t+5CrvAjvjRv0KGiw3zcI61RvJs2AbNVMvXAhvQU/BgySAUo7K51s9A==;7DRrpMIpRJ1fNZgC+vltGw=="
 ---
 

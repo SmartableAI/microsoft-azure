@@ -1,7 +1,7 @@
 ---
 title: "Introduction to Azure Arc"
 excerpt: "Introduction to Azure Arc"
-webUrl: https://docs.microsoft.com/learn/modules/intro-to-azure-arc/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-arc/
 type: course
 price: Free
 length: PT37M
@@ -30,6 +30,6 @@ images:
     height: 321
     isCached: true
 
-secured: "VnVIyhY0Mu/26/KfdzGk3vPfzX+005IatR4mRF+X/FvxMQmxhjZuz4uHbMlEq7Mu2xLr2Q+PieJg8Nz7QtaHpFerk3iRFMpnwjAsDxW6CWfmHt74aJiNq2m2bAejXyYbRowNfoKq0PZSC8hK0Ldi/QFtyTfbJJjQdFFjQL2KbTCMVjs7Hp28MPUlPJQj9n/fhNCuV9yTJl3+sD9bO7bxHXNAFaXPANTNdTbf7PioPQvK+dCGQd2Gb52ZFzROqRt+LPrXIvT6bJYpfh46d5zwdgo+8Z7/qUfVhOTjEGbgs6yAnU1uOxP92MxTv9KoK44Sh/JHNgYQJJwTKbD1iSzweXuyxbA4LVTztnweuGjGCFG6GykfYhJpBYlhbAupEygH5BZGOFU5m7TmQu7Tqm/asLMAgJmBAwtogcBw325cDXI=;rMlHu1VXSc75SE5Gx+s5jg=="
+secured: "WYTVZI0tMeWntkUTtESa9qtRsjIzi7kqcJVvxokzi0phj2nxA50r5xay9E1IA/Ky3CL7Nryueczsn27dz/4sCwcwk2Ssu3wogF723QXNican00eqFieigRYXWY4HXMIIct56XXan7196zAUTlBeRyNlX+Ek6PDoB0fIUlUGrOOa6VzR/ueNMX13fZlzQsociLdJF/nNGbqRk31809oVHB/1b72ppKQJqv+Kx/AQ4cGDCp26nU3Rimxs4xht5OReW3F4XUwzg0z6dapJW07xLV5trZ6DMtZupSQb5NchHQUzVb6sdcQFTSdvEl81EREJGmK0I3wCFTpUY4Ale9RDiS+WSCbaIPe96J3K39CT0LP6Zz1M+x5sh534/8o8Njna17n9mC8DtnBVw0VCMwVN0Cg==;4SZAR6nMbP7wl2c0SbanuQ=="
 ---
 

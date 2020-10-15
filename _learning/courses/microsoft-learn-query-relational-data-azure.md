@@ -1,14 +1,14 @@
 ---
 title: "Query relational data in Azure"
 excerpt: "Query relational data in Azure"
-webUrl: https://docs.microsoft.com/learn/modules/query-relational-data/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/query-relational-data/
 type: course
 price: Free
 length: PT40M
 ratings:
   count: 312
   average: 4.7532053
-heat: 52
+heat: 60
 
 provider:
   name: Microsoft Learn
@@ -30,6 +30,6 @@ images:
     height: 320
     isCached: true
 
-secured: "4NRew6Lb5cWq+6ZIwLNl1uOxWEBVx4tgb1c8DFRv6YNpnhBqQlkIKTa1cRW3YGuTyO6c9zipgMyH+8IbHREmL6D/ivzjWmG39LYkXIS9SxTKpBWT2lUhhZkMtt9M+LFNK3UWlNgpgaJDySK4WW+ac0Gy/TnLT1vNyNV6egw2gdWfD+Tvd9ogtsZ9lhS0MZn+ZhlCLwxMhJJps8CidZrzpF/sETmvE96hNCJa2uGLeOeW0M22CA+knuKtLeqd/XEGkInCR3OVZiA6U5U1hseA/Ie1fiow43eCKO7FJernSefmYUWS0Ie8Ax0PQXdbTgHrXyRDmBaOHkYr0ifuW+m44JhxHyyeSfgmwrwZvdilnmMSuwGl3jJV6CdDYvXrlDOTD2tgDmssGL/3lSmJiv3BmNkSnqgmTaqKNct3O5o+n7Q=;Nmq8CLX7JVwGVYBgxpATuA=="
+secured: "WB0ympmKle7/zQqpoaZrVNSOv+OYmfcoqFnno5QTZxiCkZGj9KIHU4s3IJVjv1ABnEIWC7t0i4UBRg4HQBJ1EcCXgowtdk36Us3LxnP34+mBr7MnuNqHcRb6kt9BSRHHsQhec7dZCh0eB1U3yhnhlNcjHyQa+eKjUK3ng0cPUb1ih6HNsatIRWw670+yzPsOxse3vHy1rHfxL/YxJWUawm/UgxAVtjZ8ZFvv73aSuCOGaK/8qHT7sl0qldCHRjA9uG07ItXT2YjcXyG6UPgFV9p0sOMExIYQfMPyWHfeVuZ4sCszdFIFBqsaY4B/ioHd2rXsTIIQCWP7v2JDD50KpYPNhm5/Quqff/7cOyAHHRP1lYux3meBq2+ppJYjWOOnxKaLrQewXQlGWjUbuX/QmA==;II3sts5LTAksVH4+zBZEVA=="
 ---
 

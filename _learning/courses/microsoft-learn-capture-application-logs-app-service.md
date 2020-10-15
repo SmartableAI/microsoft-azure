@@ -1,14 +1,14 @@
 ---
 title: "Capture Web Application Logs with App Service Diagnostics Logging"
 excerpt: "Learn about how to capture trace output from your Azure web apps. View a live log stream and download logs files for offline analysis."
-webUrl: https://docs.microsoft.com/learn/modules/capture-application-logs-app-service/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/capture-application-logs-app-service/
 type: course
 price: Free
 length: PT55M
 ratings:
   count: 1241
   average: 4.6244965
-heat: 56
+heat: 85
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     height: 400
     isCached: true
 
-secured: "WYgE814bGBDj9pBmOOBqXR2baEHJ00BTGSSVKnpREltBIHLQhUQsw46uG+EiBZY1BI0bismspo2EBPmonX1Fetug2zoyNxm3WQzSHcLbfYFm6iV+jTPl2Oqlh/loiGYJi0/hadshUEe+H+dPpN8H5ciBsCMpy/X8dCRW687OrGz4+RFTg13MBQQalLLDgCwKa7pmjEajygvm6h7l/+chxmExj5OXha+ksqq9ClTFNt/QquO3thF9H/vGGGQAMLxVirTuo5mnQN/HQ3KoyF+xMajm/xKAj0i81t4HdlOt4PpzeaJ0FmQ/peWGcYvkRySw5XN7CjrhXI+CNHDhSeBjcRSkqlJjHg+5s1yUWE4gn0Sjxm+0hzp6CuPXbhAL922waYyBv5W7hz53DmSJ/PGeI4gvMcEGUFVMsZ/a3fsw1ko=;WWb+2ebhWoSp4a2dy2Wpsg=="
+secured: "PqIh8MNOx52LHjU8cQ5+LFsEJSLSv3GKJvrIlQLvd1fJXHzq3q1fUgc1+dIiBaLy83LpSc31sCMzT2MqjYBVEt+wK/we5CUAV11Djbnk3PGFzppVx1NyWIElRdbJL9OlPuItMXPyIewBUn0HDYfgwpLWTnoL2xLG+eHU8Hxu0F3m0GzvQKm612rf1ZD0oNugG2PN7wfUv7zxJF/mxTK8gpGZgjQrARvQRYHgTmqYzz4hrX1eo3fZF6E9J2MUIy1pyDQOaA9J3sIY38UQTSP/fL13FAhdJVDiT0N5AIedCx9Wc3tPXpHn9eeurLCKG+k+kKbwrzvB6+lsiUr7SxzzPKooNyl4oUGtIqHaLamtsWmx90qAzsay3XOFoPkvxWBOLIKPlsDkvqFa3XXqap8WYg==;TJ74QhBzrhvzxsolSWRGaw=="
 ---
 

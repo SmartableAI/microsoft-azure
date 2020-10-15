@@ -1,14 +1,14 @@
 ---
 title: "Host your domain on Azure DNS"
 excerpt: "Learn how to host your domain on Azure DNS."
-webUrl: https://docs.microsoft.com/learn/modules/host-domain-azure-dns/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/host-domain-azure-dns/
 type: course
 price: Free
 length: PT43M
 ratings:
   count: 2624
   average: 4.828506
-heat: 51
+heat: 112
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     height: 400
     isCached: true
 
-secured: "bFXfzATj8Y3uKOhA467RHUqekaL9dNTwmevLR2n6U6RycHyWFMarW6VgYrrJcJFWM6qp2WioSrEjhQaAXpRa+jjfUZS6TpTBcpAfrNYLuCN7GB8us34+nhCfPbHel36/hD4zyItizYmwLz1PIh+d4kwmeLj0LaYUasMClVNK61dzccAVzdzIf8plo5fLD4EurXXWsFa8pXW01o/gCM1hzbRcBVldZRnfniLgZwxj+EQDKFwaV0Jtq7z/DnSDyKIkueKRj4YWQQtCFllisFMafN7bXHACUCVDRWYcJWZwg9MLORCKrwW+RddTvYJDcAqmNGitaxPX2mDC/LphNn7YgVVE1zpXAYLm5JrkQ3QeBM+2Ys+NOfrfQlNVe76zehFTq4FgN9Jj7rzIA5FaPwmA9zdCnJuCAzW76s2tCfAuKS4=;aO3/PFaySxC0Pj3WSKX8WA=="
+secured: "oNc1gEqX1jDzpCxObE2ECfswygw4x+IbeTyQsz3VuPSD1MfE8ch6Qmn+iGvVDnNf+/ahoi4mSWrSS1h+GQV+DuZRAOoYI7jMF3BDVFQlicRW7TMu2VWbbaiyGDFY+caraWAx4Ss9beK1RCY5TxMCPvYX8bs/KRtQcD5x81e7f/Q5KpKyUHN2tlDZWouP/E9+Vcu9Jj5RJyatTdnmj5R6DAwbHYSJitXfy7TNYGiJ+QTACzLM4LT+Vvxrp121NNo5CdqY7ynTxkj8YoXHtT62HG1jjTcEvAF1jrFHkDVttlxTt8J9LyzJ5bIUqVLu0m2Cg92TL9casbPEC35VyjG6IAlN+vxfOB968RjqUiWRVLUdVsbYYy7iE90mYNapQjpRloT0oeal7yfVzrDige6gMg==;Ek3UQyT2WaCnZM1qJWApPQ=="
 ---
 

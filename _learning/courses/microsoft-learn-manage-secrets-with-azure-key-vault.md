@@ -1,14 +1,14 @@
 ---
 title: "Manage secrets in your server apps with Azure Key Vault"
 excerpt: "Learn how to create an Azure Key Vault to store secret values and how to enable secure access to the vault."
-webUrl: https://docs.microsoft.com/learn/modules/manage-secrets-with-azure-key-vault/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/manage-secrets-with-azure-key-vault/
 type: course
 price: Free
 length: PT46M
 ratings:
-  count: 1505
-  average: 4.5933557
-heat: 53
+  count: 1506
+  average: 4.5936255
+heat: 90
 
 provider:
   name: Microsoft Learn
@@ -27,6 +27,6 @@ topics:
   - Compute
   - Web
 
-secured: "HKGb2xTscUWGFuANT71mBpkCFB76p28vuuQIE6zJRWIdcBW4R/XUinA8NQgkxKhTUybPYJi0fBflZnYbJGXN43WWwL5wGL0mRB5VqJ072OrJoMHWiykIDB8uMFCE5MT1yFKvJADEsS01W3IVmh2nbZ990io3pbOIEdxd4GfVEctOwPOf/OMCAtd8w5EX6aulMfMovaHOXM/nIGjiledwx+w0kmM5hdXB6mccx41UEZT6KuWfqb28F0h7CbhRleF0l1oDha3IzAvsxAtoZsiB9EdzJzHGO/vC6zBRj3GZE85cX3xDX0MYqCBrDsZwz4xXzhkmMXknWL/tDHprHJvHIbCBRfKQO72kLG1t+rce/ZuK15xJMDbM4mKlqKz3bM2Lze62HBq8QtSN3TjYITb8RHAo/3l2pRJpgiYsTn1Mt2M=;aJcvLTi+SXN/3/GrKBZPmA=="
+secured: "Is3pWAPbEWY0JE4np+Bn+PzJHOhrsGdUjp83kDjo61uJfWbOEaQeC4TI0lGuteHUIrZetGJu24t8lMEMc21SrMtEiU1hrHvo5Rl003P4kt8NdbYlMXRblHJzfJoVOpOLUSdZewv5S+4sOD31J/bSBVaMQ09BXfCilUJIE4mcZ1YvBtkKGz4D3VN3OglmKDX9M3N1SgllmSY1BBZ0isDXZ0TQrl16Xf+wFA+ZYYlCjbly9kIwzCqNeuLgTSY5Ggiw1pIHji92U7Uf6vM6RQnNEiGuk1Vc01ttmeTGRrvOvtDaCcfqD6hkuUqJNfx9vSR1IYkgaBialWVk4xvn5hwl/Fj8fN9O+LkfIAkzpK56AvcrcTEJwIUEjN+2xxBWLusdkaGPrIJ2Xe39mL35MIwE6Q==;oou1O2ATRW7qzORpwATiSg=="
 ---
 

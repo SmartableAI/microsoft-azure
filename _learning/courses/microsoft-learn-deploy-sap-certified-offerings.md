@@ -1,14 +1,14 @@
 ---
 title: "Deploy SAP certified offerings on Azure"
 excerpt: "Azure provides a scalable, compliant, and enterprise-proven platform for a range of SAP workloads. In this module, you explore the platform compliance criteria that is stipulated by SAP before deploying SAP solutions in Azure, and look at the different options for deploying SAP in Azure."
-webUrl: https://docs.microsoft.com/learn/modules/deploy-sap-certified-offerings/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/deploy-sap-certified-offerings/
 type: course
 price: Free
 length: PT43M
 ratings:
   count: 338
   average: 4.795858
-heat: 52
+heat: 61
 
 provider:
   name: Microsoft Learn
@@ -30,6 +30,6 @@ images:
     height: 400
     isCached: true
 
-secured: "2VQmpRUdEMk0Nc5rkQ5a9hTbdh4v1kORIuXrK1XCqEA0vASLrX4Jb2GAx/DMHNtodcqaRCr8oMORxjIz35qCcSk4Z0t8sfse7iUvf8AS3ZhsXl+iZFG9rF0I5BacI/MCgzHc3hUIhYySsg9WFvmM55zdhC9haX/sbDxn405PDkJtZaaBFlr5PwZMPgqjNNHi2Od0V3bTcEe6bapQYirlClcIbUTgwwvK3HWB8WOmaoswIQDnf/VSN/MPum/nxlbpYOWT0l8uLSWJrjbJDXYeD3qz/IYittJk1hQ/g2rPvLsR06vwL2X8nrA1Eey8t39FANrNVqUowjOrxH5YBIXiVDav76mDLxyleanqJMqGzVmw28iHtPRsJeoPx1eWZnQAcBmA0HGO6b4L7pe6oTKI6AwXc3H0+VFffqZRBK/cx5U=;cFabUtgbmKjpMNiTtagInQ=="
+secured: "UN8OViLcTc7tBrvbSmPTPHnmuNPqRzqV3XMRg/RtsQaIc3m3usR5VaE8k5lO0fUu2IQdpg/SpEtXkH9P1QbU3bNL47YEdlDE2ycWl3oKhtV6guEUTxDMDIDmwFgvio3wHzvEU531ZUB76AVIGc8BP+Ofp8UKjl53bgnkrftDQ8Cd//Sg4DSqULNUGbD9adhAoGjCBtbxPEUyLeMssYgvpIT0xumcTwW0EnOuMAh5LnR4c1QxFNCcIoFlEFIn+0SVusHrkaRCTOec787iO9XqIj7TkIaNo1uprQu4+qperU+ddkAzOEUZKDPtxifWbyspaHK5jYgyrW/FurWeCqThGy4SsL2qmrcVFiCHt+mNfI1qrHuboQLmxdBjr4p63VbSKUYOEeS3nDN/XlKN3Z3plw==;jNHLf3K80dDiu2dzFIZgtg=="
 ---
 

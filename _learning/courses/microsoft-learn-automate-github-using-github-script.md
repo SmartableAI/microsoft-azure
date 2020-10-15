@@ -1,14 +1,14 @@
 ---
 title: "Automate GitHub by using GitHub Script"
 excerpt: "Learn to interact with the GitHub API from GitHub Actions by using GitHub Script."
-webUrl: https://docs.microsoft.com/learn/modules/automate-github-using-github-script/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/automate-github-using-github-script/
 type: course
 price: Free
 length: PT25M
 ratings:
   count: 88
   average: 4.75
-heat: 50
+heat: 53
 
 provider:
   name: Microsoft Learn
@@ -30,6 +30,6 @@ images:
     height: 320
     isCached: true
 
-secured: "uJRNN1mSl6hmny2HRyu38FcaM1cGJWXQLXlSjrPfd5up7kteWqMzLopnrmMFfqUAW0Z8vR6bZafuOLxcs4I09DVnQ3Qry5gEY70pvvLfgLpMhqJL26LNodDONZdgqnlYBcc4SZswtoK1nF6AkGwgoyfK12SYXcQ7pVXexkX3p0TEFKpWcUIpCSCcWXdyj6/G1QilOeR9p9ZyVNGlq5k704oM9FbUh5mn1qyK1iMXxqHxasl+8necOLlg0Jmr9ptag2XetvCDm6dHVqNCQ3wHMHugKXcDiwFOEFpEcr0noiU5Imt6jYbrjzXv8gvhwP/XXYWQLjDXR84mojxOMRraYweIZyUe+3Zx5i7t6UKvPx6XEiz0ndJjG1A9iurMPMnd0Bs2j5qTqZiWBRFXtmGKXSVd9duka4jVEmbV+5sONrA=;kv6QvYXC/1sbKduuf/37Ug=="
+secured: "WPkfaXABTckVEDYY1cWR0B90kQEX++fYBkQ7JY1IF9yP0z/nmvY0bCJAcZTY7NeX7JaCznED1qCRTxqQs0tPzfszpGHSFMQ9FIc0IHIU1wEuwggSzdbp5PBvd5PnxYnS2GRElyq8vlHgJVivtd0u41z6VD/kMzlc9wanZ+4QB9r7qddxBuQxZRLIYkH+eesWp/PXbJeiAl+m8YPjNwv1aNnRUoMVttvBS8cnusL3PDHQKJB82+J4WPrgm0Dw5TbYbQZKgkK3p9XrLlAv6Eq6mJAMj2VQonGPM8RE6ykdQkvNGfi48XUjja/qUJxFuDynC/j/9JrHANHG4kNaUux5UlKTq8dJV4JJyW5aU1t9pp8Q98oByGmzZmxhvqFBrC8nH7TCalK+vqo7tba2ZAkgZQ==;FEYxvTLLayLN6WkSZYP15Q=="
 ---
 

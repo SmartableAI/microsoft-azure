@@ -1,14 +1,14 @@
 ---
 title: "Optimize compute costs on Azure Kubernetes Service (AKS)"
 excerpt: "Explore strategies that you can use on Azure to optimize your cloud-native application-development process by using Azure Kubernetes Service (AKS)."
-webUrl: https://docs.microsoft.com/learn/modules/aks-optimize-compute-costs/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/aks-optimize-compute-costs/
 type: course
 price: Free
 length: PT1H2M
 ratings:
   count: 60
   average: 4.7
-heat: 50
+heat: 52
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     height: 320
     isCached: true
 
-secured: "OgTPT2UH61u+ykrRCvvrc8U5FdvxHbZnre6bhKq6mCXWYX3MefotH/cw7UO7F2mbGsWZrI2GNfC3lvujjFxlCOKy+job/YWR/Ujao37RRJCK1e1M9fLPkCk1l1hCVHtbfRCOHV9sOCSMBlYx1AzUWiBVaV7HRCu5nfrMTwUCqMmOI//DlUtHgkIBdujZCDEVEsF0z82+Ww9+/4381omO7SOAQw+zrvNB4vJDwGjYjLF5gDS5FWmmV3XVJv/v29exxtJMZs6rfWgkU5KkDAskF3Oj80X6HFTSuLgDvgBcQt1J5O1qkFpnLIC+NqnlQRvkU/st8QDLaKGuzXNHtBQ11MWSeAou4JTL6S0BIHAGNrt9ybx07BJV62K8O+SiVWSNXHH0HGW2/L7yDgqPkYp3M2ybmeuvgBHXlayVKSkR9No=;ATWUs46w1cBz2kZjPZ60eA=="
+secured: "6ruw2VSWaQd8jPsukANvtSxxO9bY2CHXaD+HM/82dtaOq5LpdOextMcmW+L98YCpJRHJs4qPAyIGqzEvTaSGyVCpvY1tpqjlOzWsyfkjycX6kXmm86yJ3iAJpraS3KYezl6UJcshGnDb7ccCrdyfn+REjm1QT5hmN6e9Hd0lAn7SCOBh0KWf4jkb93ECqzYiM3eut2XiWUirO/WKkSKa5UGaVrwjAFRIwDlvHbglDsGrrjiRgaFK1MUPvYZHQiA9YrkfouisP2ViTNeQKuGRiAOCBmGUX75zo7hWKJvGwOh7lMi+Mg86SwI8YLRUm5GxTcGQXOQquWqEhZTvrVMOqKJ6M5gIkSHkbnBh9ucqk8D3Rq41VCiEWtguV2QgGmTj2tGTqvgDtI5kYhjfQV8h2w==;Q+M9eHQlXR3IPxG03kiYTg=="
 ---
 

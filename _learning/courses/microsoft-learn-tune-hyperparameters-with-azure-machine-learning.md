@@ -1,14 +1,14 @@
 ---
 title: "Tune hyperparameters with Azure Machine Learning"
 excerpt: "Choosing optimal hyperparameter values for model training can be difficult, and usually involved a great deal of trial and error. With Azure Machine Learning, you can leverage cloud-scale experiments to tune hyperparameters."
-webUrl: https://docs.microsoft.com/learn/modules/tune-hyperparameters-with-azure-machine-learning/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/tune-hyperparameters-with-azure-machine-learning/
 type: course
 price: Free
 length: PT46M
 ratings:
   count: 175
   average: 4.68
-heat: 50
+heat: 56
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     height: 320
     isCached: true
 
-secured: "IiLIYkRLQekIXRJOLQlW5CzkghpFYF4sBtIplWqUKD0ksesTGWNN0XCtW6SThh/gzbvdHsCprkmfTAaQnNWrEUePUuZE9JjE3FXOujZRnKl2xZse6MMoHPPGObh9koUNUPp6rKb+gYW7diE2sKaqyH+e9Iflh4Rv4gZ0zCRYsN99G6YNNmZnYHctF2cubku5tycQhtlh+syBEOtIyGuEKnpKPfRAV0MpJfk+CnZzmoCyBqty0D4I+EfeIHGEfYwduPQfMS5hWKWV+OS4hAy0maRQCXFcvHc3i/1TphoYqflLFg5Is2zMntBFoFvJBflPZA3XJGqcnLZK1XmgAWZ9U0RE+mjldIluESnP1kaRn+V1BxQF8W61utH2kJGkdNpZFprHN1POqPZqfmSGOr9TkzmA5ghZxC/zy9F21RFm7DA=;CR2u5J2XVYBAfSHImPngWQ=="
+secured: "Lg639XA1dlpb0n3+3hMva7MHaw/oCiQQXumyH9GjUfVUvoczhZtddDtnTyfn3o0HVRcd/zdq8nacAIZHHHs6iEKyPUYu3k+RjJM0Dk4CVxxz1aBQB6PeiEd+qV9KyYBhJpfQkHqjqVCTug3PWt6xB2xxW+nr5C1JL6ezt0dCCIUhAZQe8iTLYfBH7nCyZiWCK1H95e6n4rj2YBooDbVV/TtMI1rsBauqCMJKWFQEXq3FiQm/8bohBIzfkgFEqji5dTVgKdfFuYCrxuMh5XmO+fm7fhgZEn8JKLIKV91LNUUuGZCTfaxj+SMA/ryVyU+HGDx4kyMKXU1vT2+uQkq4lyu90sPdHOtvb6ywgI2Du/0vI7ueApxXZZuxr+UgHq/s24l5eQzN1AH/0NT82Nymlw==;c4JYDKOn6gDzeB/juAnIEg=="
 ---
 

@@ -1,14 +1,14 @@
 ---
 title: "Explore relational data offerings in Azure"
 excerpt: "Explore relational data offerings in Azure"
-webUrl: https://docs.microsoft.com/learn/modules/explore-relational-data-offerings/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/explore-relational-data-offerings/
 type: course
 price: Free
 length: PT33M
 ratings:
   count: 306
   average: 4.8039217
-heat: 52
+heat: 60
 
 provider:
   name: Microsoft Learn
@@ -30,6 +30,6 @@ images:
     height: 320
     isCached: true
 
-secured: "B0YelpWpOlR8BLTWsiKqGXKdAoSvpLUX9WmhLwwGQwiuzg33vM4o6HdXTDSBCaoy2M4rl8gSYgZboDgcAMkGhSFYFr3ybfXXuuzMSqGvsUWod+yQxul1Ov9k1+B+9IQEa4/ra0uRPsjngnlivgTmWSu4HTQ70rlMNI9UjNUIxyzioA8BU6I4YzprLdQm22URk+j91+C+JSc0Kl+piEXh5b0ybo54ll1ZwvyCw5jm3CUtF7LFAVUf8FgNKnvuwFn/AH3aq1hffp6erCyq/tlPnxpPbBVEZwvXYJCtp1XnXinpcN4+Q9FpOBNsTZsoXJ+UEZLpYjWpyn87iQJJokCgVtpFlWp1qCm2uzKmgdbm6lqErAOwbe0YgPU/zrbWDSPaNZBlgTNjul3c6hKpcdBNylTbnbp59NyJVYJAG/L0peE=;yMPK1bfw+Z3x3iRyGq0a5Q=="
+secured: "2eDpbbtXsYc6coGVt5h8wBQXHI15B3eM+qJ4ZyVZWzWi/sT43gLtdqwa4Ia0A/l35FsPYSPfAATnOpPi2WJZunlNhdoJ1XKc7XPnAt/KdIliI2H5npoh7ZJPXJCilkPWI7pcbyhTGGnoDTszgoKmiYq8omo48xiXKWa/VdHSx4OlnUBZS5QAbeYk9AmQ3o3ybk7sB6D1z1XtE+uKAoYY39guu2mQVYQUQRdRpZPMnPPo+Q9xMVaLvMJnd//7lxJLEK5wsfOWsBWJKK+ryX8dWLn5XZC/A6Z6Rp+pcFea9PHKHpywfKIfHFFJWHHwZXz8bQyK4EdYXsX5N7Qw3THRuczPdhAixG+uE2ym657gH9x22iDQdg78TvjBOJKbXJQvq3UjqZsVGCipOiEDrbyxKw==;SSiCqF5b4p/vvQha0HZtSQ=="
 ---
 

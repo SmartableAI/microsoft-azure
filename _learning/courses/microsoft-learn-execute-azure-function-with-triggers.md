@@ -1,14 +1,14 @@
 ---
 title: "Execute an Azure Function with triggers"
 excerpt: "This module demos some of the most common types of triggers for executing Azure Functions and how to configure them to execute your logic."
-webUrl: https://docs.microsoft.com/learn/modules/execute-azure-function-with-triggers/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/execute-azure-function-with-triggers/
 type: course
 price: Free
 length: PT1H23M
 ratings:
-  count: 3455
-  average: 4.701592
-heat: 55
+  count: 3456
+  average: 4.701389
+heat: 123
 
 provider:
   name: Microsoft Learn
@@ -27,6 +27,6 @@ topics:
   - Serverless
   - Management Tools
 
-secured: "9DdW/vjF3mc/79laFHUHHGg3fi7REa+40DsI92x6Swt4M0IIj76urw+83wf2mszCj3wTo37YuM7ygGSDK5YvCY/0I87x1KQqyNrZUAb3cl1BgUVERVRNSkcEd4Bz+kffwOeWX0faHLJw43Za3gGWoq1wpMARlaiK5pGgdUk1o1kB2GQNyYUzya4b+jGfxH4vbt9Y+dd1msBOdqSy/QsS2fVal5dQqBHPPtiY7yDyIlkXynYguJBJg/sYgcmvqcR+yF30OVHU4GUjofbi5x6AClMQG9wa2j6cNzAM2O/t5Vy3hvH53C3PzBhJcYeCY1egKl6dbbnRjC9QHaC9Gj50Jv1D5e3YOh4272OSWCke99X6nhtFESXfA2Felmd5JJnNKbrAzNOKc84q/yLoxifM+wj2iMkLwKKK3r0hAi5nc68=;egY0iINHajVNd14wqm/FNA=="
+secured: "frXf+X6TboViOBYwvMRbLmiXc5UucAKIxXuKQRaeK00FzLUydlQrVNGzS+TsVhYZ5TrY2nLgMSkqzBNET1BEYNXlaR7jK1azcmbn/1Iq8zvyo4SEoPYDdm/88fAx/Fbp/J5Ex4SM460xETOLPWnmZgYVZ0gy3VspExMcrup4dHBrNc0wtQsuMkBRIpczcbooD3q3wmB4ZlBf99zF8BoF0I5IBt0jH85f3rxQQPuTnI57Ht9xcvQJYp+LRdHdTArcH6S4Dv7goMunUNYChnARCvsCyhiKn2Vo/1Vi9l+3cQ4CLP56lwfVAravDdOdfxHQ30leYjFSRRh7S0+cHxOcE8jieoI9ukprUTOLs7N/3d5xozF1cirzZivODS3ps1TGUC2GrffCGZqdv4DLPWj0Dw==;3hRLYFs8U19etIHG/Y859Q=="
 ---
 

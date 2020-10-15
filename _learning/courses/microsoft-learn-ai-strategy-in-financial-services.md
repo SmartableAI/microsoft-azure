@@ -1,14 +1,14 @@
 ---
 title: "Define an AI strategy to create business value in financial services"
 excerpt: "Explore the strategic components, use cases, and special factors of an AI strategy in financial services that creates business value, with INSEAD and Microsoft."
-webUrl: https://docs.microsoft.com/learn/modules/ai-strategy-in-financial-services/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/ai-strategy-in-financial-services/
 type: course
 price: Free
 length: PT45M
 ratings:
   count: 855
   average: 4.733333
-heat: 50
+heat: 76
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     height: 400
     isCached: true
 
-secured: "pBfrPmmHyP4GXuBm3R5mYADOlRz/3MmpUxXBIVtgjivdlzbTd8IMF29AmJqYANgaD0AIuOknNxGxHSIeIje/vzZACC+6O9tfJHifHXyF/6l6LfCwgqBZ8fwzjPg7SuFI/Sw5frp+B92+Cek6vwvRPVQd6kAJ8CFuwBmHes71AAbtNzjsV0q0iVlfQuunsh1whQCeyxMwBE03Utv40r+hOyE7hKRD1lQbzvoeg6tO4NLHhizpYKgF/GYZNb6eYieGFZ3N/QL59g92dV8WgufdvVypzlJdNZDxFRe2lxiW201AMMRZOxIeZ+XUhVqMgzFbag4nP/jW+vQD9oAdE9tctn4jpzndYklfpyUod+jWloxxSPiN324DBfJ2wvh5B7wXfMl4Qj3RfNxLDvBeTaKNzwOUQ+GKNAioyydgeu3+oF8=;MQGG8/iUx1+1QGwFqbIKjA=="
+secured: "BH9V7EH3H0QwXzoEJvpydjKbMWnsiTt9VUAPK+ClvKq/Ke/zimZz7lovJIejGmYnKcLK08Kp/vQ+oDdOFlPWwIsJGSHrNvJo36nox2Q9rtL14HMOAmO6zr21nBnLxT1ZhvO2CAfWhJG7R25PLtBGQr66JcqnQ1QiW/a3qKMJZp7UFDPKJLgPHd3UXjiSGPRdFW/xYLxGw2ih7dveXAxRhTr5YuwAc3QAqKjjbGLcBXluif7moFJtx9MWK5TU3coo0Dltuo45oCSMSNBZWZfWdQVtoSjGiq6/ds0AfIyp9BrMEYPITdcInEyvbor3SptcAL/dwOs3aXlt+4VsYh7SWwR4GeBvvi5RuE4vtl8LTXfxkaNo3w2ZhLqm8X9wQuJmWqWowgaKpG3b7K4lASSFyw==;IjJrgOlyT+tl7RVN4G/1WA=="
 ---
 

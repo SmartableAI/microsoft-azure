@@ -1,14 +1,14 @@
 ---
 title: "Monitor cloud resources"
 excerpt: "Cloud Admin course from Dr. Majd Sakr at Carnegie Mellon University. Monitoring how your cloud resources are performing is crucial to building reliable cloud applications. This module covers what monitoring is, why you need to do it, and how you can about monitoring your resources."
-webUrl: https://docs.microsoft.com/learn/modules/cmu-monitor-cloud-resources/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/cmu-monitor-cloud-resources/
 type: course
 price: Free
 length: PT40M
 ratings:
   count: 156
   average: 4.519231
-heat: 51
+heat: 55
 
 provider:
   name: Microsoft Learn
@@ -30,6 +30,6 @@ images:
     height: 400
     isCached: true
 
-secured: "RIjsF4sgtp7+pFKApLyieRioFeP3WSBWFY8aPH4vV+wR6iOWECYZ7dfyiY52MisFPXYzRkN2K4lfUJviiBvYsr1PlQUVG29hZpv32vxViGegEaGt8OE2b10Bopp4zLPGZUSGLSFc12McHLeJKTu15BNNzDNr3PjnONuwKJKRFT5KV9YFd4P3hCyn1FeOdyvvnfccwXoHUQyUhsHh8R6GYFfJrmFUqxaVFOfkPJcIEEhvPTzh7Q1TdUpPgztCZjCAyal+Ic+UBLeENj/9MvB5cOP+L/dRWvEY1KO4uNjrz6BJN1v1yMdt5q2JWwNhxZUpizbzGjib+tGXQXf2/itSOmTAydeqNQUMMw4ER1ApuGstSKBOOHW01bumWA1zeBMdR849jSC+nrZKhyO7nZZS0gzT6JxwAZlMQ+H9+888EQc=;K+r/wH9gt0FQ6jTpybyG/A=="
+secured: "EmykQSCLFHjelOaJsGPTXb5SD8UTE48DWOzqqojlye/Ub3U+Jpwc4/pIalnC2q31lKCCKafxwR4xUnFXn2P7ZjoKWRzHBWfEkwtzu4Xx+tQjqSuBuVoSvkR/CVoKdQ9gG8ek8+dh9Qwaxn9A6qhlia8PL/it6VluRkonjIrwS6MFcd32OQIwVl0MijvAq9YZbKibjynF5+5tiZy2DchMmINWW2uFb9UyLII33pYFO8hSAsqhPQwIV0nv2bdzTNKUBJwojlHKJREeCLrqP4atQkW7WcAh+sy16P0rS5UoHmDu+8tNL9Rm+8sgGxcmGeq7s/9zuPYX358MXbzd4vc4TjyqSg5nS8XIp6Hv4iM1jPkP6axrRuk8I9xLzQ1gpumEyMWgTaqC9Qxzga4cvNz2EA==;DSYcmfOYt348QWp7mnUJxg=="
 ---
 

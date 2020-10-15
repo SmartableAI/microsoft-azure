@@ -1,14 +1,14 @@
 ---
 title: "Support concurrency in Blob storage apps with ETags and blob leases"
 excerpt: "In this module you will learn how to implement application code to manage concurrency in blob storage."
-webUrl: https://docs.microsoft.com/learn/modules/support-concurrency-blob-storage/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/support-concurrency-blob-storage/
 type: course
 price: Free
 length: PT50M
 ratings:
   count: 57
   average: 4.736842
-heat: 50
+heat: 52
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     height: 400
     isCached: true
 
-secured: "3es69MLgkR8uJtbdewsRyXpzsB0UKSKSUORpNtaku4zj6JFrvSDWmpyop1OB/lNliiWoCDV6cpvUj4MPjUYfXppew33xl4mrYpWRG2IOj8iUc8JrxJTcCGnLvaKLU5FwLIGfCeTnfyVeJfC8wsQOye0NOxMB1hHKgvsG041xaeNlQNjKW/y4eQUX9vpbBYyVer0HnIm0bcLIzPheWowrHSsYRRp//zATPeoDmgijzpEeuhFfC30hqU7Kj49KPEKwpSlw0m5TUX2lY7cb52G0QOASmtZL8Gn9g97qDPB/l4uzJqFzzcqZQjMhxXcXFR53JVTA3z5rfvQErWkdaNIlG2QdHrmD0/68JeBvVrFzDZa58BW4yxVAG/xzTXilqkDdE+2NlcguNL/RcDeXTDXQDaog3DFvEpVXKxHsJuAAEtk=;DX2lSFj0QJjadd/2M0ev3A=="
+secured: "3apaXyKc/RXvoy29TGFEqXxalRMOJnl8Cgx/+wxPSEir9GRDsY1tgfQpVUTH7zL2BzAwfEYxnWWjInR1jN2RvYUTWBjdncYCwNU8GfeRbUrptCOy5UkK2D64xyqTb0faah5pV3nmsCwQ9fPkgeSW5agnsfw0+VMDVtMu01xxoYyna5b2JTQ8TuyFEj19twIyUY6CQGJjZCYrJmKTmRcwntTQmWYtDu/Wq1hcXP+vTcvMq1zVKgzlKY+53u262xywSWKfActbT8BGnPuElS4qAKkqyw4LNwtIgmzxgO/ly+ds48wLynAhZJ7qwRJK2jjTUAfc80f18qxS+VTQcMGiBaJxARTfW2bjxCiN9e07bttdagl2xtVRsXwWJBBWuhrfmyW/o2BoMr3tovlbI97ejw==;YJi7uBpHIt72vo6nQgyyhg=="
 ---
 

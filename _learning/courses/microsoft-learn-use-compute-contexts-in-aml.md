@@ -1,14 +1,14 @@
 ---
 title: "Work with Compute in Azure Machine Learning"
 excerpt: "Learn how to manage compute contexts for experiments in Azure Machine Learning."
-webUrl: https://docs.microsoft.com/learn/modules/use-compute-contexts-in-aml/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/use-compute-contexts-in-aml/
 type: course
 price: Free
 length: PT45M
 ratings:
   count: 566
   average: 4.6289754
-heat: 51
+heat: 68
 
 provider:
   name: Microsoft Learn
@@ -25,6 +25,6 @@ topics:
   - Azure
   - AI
 
-secured: "f4zf25hMrAppcuoRyLA6eK8u3lwMzvhWGe6pBHnXB7Ul9OmpiC+a1B5UPluU+BFALY43PKQRXJEDn+kApmRORuH4lSMfYcK1WyXAM1lp2UG9NlmDRGJM0L/yj5p18xKJ2SkB4lZFACa4eK1I9NstPHqb01BR2tB5h5oTl22GBoOvejgdat0ZSww9XB9ZUqvo8oSbGV4dbUz9Owd5cSoo3pkHdalwdWUhVxBwpJ7RXXKxq0CUQlGjjTMYL3BVLZ0bmzUw3BpM9LfnGR6s6tCuoDJFtTaZ+sFrxUTHUqJaSjaUTBCSRWfeiWZOL6+lvAtSt31mtQIdwyFyEBgi9nUqS1Kuv6cMoB9DvV0SKOoPf4twleAyGNavoynol7R+9KI381qHTv9gykhiXZwejHe+UmM+wj8AkAoH3zCwbP89yCU=;76MoYiSeL6UKEOmLFNz6oA=="
+secured: "dJV9XyP0mRDfPbKhhX4HzNIN82WmTU58C2Msqu7viEDx7mzrZbT8h8xOHQHwzFTsreyXohSntwP1RrYEddAxoNvnTX5RXZMr7sdyazhoB1cjS5KdqmjEmEOSE4SZHi+Wpln6hmj+cWB9EItqf66PFBBPfyiG+wMg4zS69Jhv5wsbyh8Uh9iAtbGpkoR27pwycLb08iWGfC2T1a2qLPQyV5TI1WsOfkBNCRK69icKdxhqNqGngVC2j4wPinnqW+OxDTc5LkDZZXMf9pJoGjNWho6glnTJmQCOhYX677+0eM7diBWPdDx59idbQkZncJUTg6U6k3Jdc5qk4zKipnzGaWfGbQc4/kmdQsYjJRnfe1FVj6jknySn50V8n7PiolJ1nJS59ma63sLHTpMkesr60A==;lEuLlZ5u6Ar3vyoYj9JLug=="
 ---
 

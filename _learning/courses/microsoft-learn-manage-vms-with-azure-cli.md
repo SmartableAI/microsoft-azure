@@ -1,14 +1,14 @@
 ---
 title: "Manage virtual machines with the Azure CLI"
 excerpt: "Learn how to use the cross-platform Azure CLI to create, start, stop, and perform other management tasks related to virtual machines in Azure."
-webUrl: https://docs.microsoft.com/learn/modules/manage-virtual-machines-with-azure-cli/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/manage-virtual-machines-with-azure-cli/
 type: course
 price: Free
 length: PT51M
 ratings:
   count: 5896
   average: 4.7011533
-heat: 53
+heat: 150
 
 provider:
   name: Microsoft Learn
@@ -26,6 +26,6 @@ topics:
   - Compute
   - Management Tools
 
-secured: "mDxvFlRKXsdynY/UbhBc09nAhM/f60bK0JfYQK6TgBx4Kjhirpx+LQsDjgaURIXNdtmVOXjmrXMPlXPgwtPG/lY6+dMVFwFZU7X9IEzVA5N4RzcJ712alPHwaVhMWAXHJMXvdhESPZ92oWJyJ1fM+obHYck3vadCFLMCSIncsylnll81NmB1Tu5YIcp/oX0Cowuu+Fy9hl12bAfJGC1GlxswIQHOSZ++bCgjAQUJOn78g80eaMxv/4/GwfwuxSfkUG/gb3aaynAan5wSeYQQQGpka9ScPVQ9KrqSxJkwIgcBjlv4h4Hs5iMqaA8VyTnnRd4QR3eGu7F2ry8bmiWJPF7H2+6vpqQGYZydtNapRLjhwsGTD2QWeUCbOOUv0mSedAbFmHviYMYpYF1+E9nIQ6x8aKyJdv20XtgjsvvSjlI=;H6JccIBh7I3HdSv3r2zUPg=="
+secured: "IJDt7tpjdXlcwLUsQo99VxZjqU7/4h1QIZVLmgl+DW79bU6v2UGrDvQgg737GrxCJz8WYXstzQ+Se9v1oE4g3CP3i9o9AMhr+BiLrJZYXOZdFJ7w6MLT5BlDnkjanVSeVoNexm2YHHxwK3LG7TUQKo68A0fvRN8yIEZk5CNBTjqZuAB+2rZIqYg6YF8r/9qyOWYXZBvW3JQ1YDDx9C8Bn57EbcisViiW16VJSgv3tRWpLky3wv/81BwC5K4wirTDIBZrXBs9PxtIirloWspEUCbO0dpsbPx8LOniAud3zjQx5mLO/FRK5/GoWMkgfBkUR8NDyCTOHrDxZcV1fKw59FRD/YOE+Tt7w4hZGmfKNfKswacyo+9G33vcSA8z4kWGwGv9oF3wYlOxCMU6XQTUjA==;bvfHhzNVuDn6RKWk2C0rTg=="
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Deploy to multiple Azure environments by using ARM templates"
 excerpt: "Manage multiple Azure environment deployments of your Azure Resource Manager templates by using functions, variables, tags, and parameter files."
-webUrl: https://docs.microsoft.com/learn/modules/modify-azure-resource-manager-template-reuse/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/modify-azure-resource-manager-template-reuse/
 type: course
 price: Free
 length: PT39M
@@ -31,6 +31,6 @@ images:
     height: 320
     isCached: true
 
-secured: "a8aSuXWlOUn1XM6yyM9KjkzHmNMZhdwyQ3qoOvDg7En8q9F+CNWboD1rjGLTkfJNw0N3wuotWbOVdT9iy17jattzmQqUP0E5WQaIPT1++cQXHnedBEi9ShoaOoLGUB7MNtGxlPMULQ8gi0HUJAhO5SsNTLMk2XYRRKs0n9pMr+eZVglVIKYDvPQMRaLrm6SENLZOAroyef05dtC8o+8HWl1et9v+okCYEzNnq7tLqkdzMGSc+qwvNEGwHI/yX6FysDKQ8guCkTDgEatdajfrUdfq+nhxY8rppPeusSzTiI6Do0UOQ0w2FfiDJtu7jHX8VkWVGfRvNrcIsOTCmFlSFMt4I+gwa2FB6tbovRbQLJlLG0RMr4F8eQh6VE6BV+9pFpBeAcXfwMhugc0li4qE/gvGnaEgfsGLJLKhB0Z5f5Q=;c9AWwK8KPKdjgYVOk2jQ0A=="
+secured: "G2FLS9j6lsqScuBhz4iae+H2fjbn1bBo8MU8QTORBCCZBoLJEqqHwQMpwLdG18bWa37MrTDGXjf3k5/0TnytKRpX6PSkdu3uHkFrjYi/RnmP3vydLHY0MX3QdViDytB/P/Smuurni6q0FWKBtaUeYQs3ncxCkJce6+d+cpFkdT3uGHtspR9xzeZw/yavR/yWJzYU/PoxOuyyAPEr5cFzq1mnsdhnrp+1CSMGs1w1K5x9X12XwJB+RvwWpj/0AHUflr0vVb4G1nY/PXlz0MqFedTbtDBNn4sVhsMnwBDE/VCxqbHXt97UGcXBuHyoDEtAhKh6+/GT+w4ff5JKt4djys/VD68nHreBqist7goV/Hy67v/cyvmInmVlhp+ee7/lh1TA5nUgBlM8L+vV6Lw3KQ==;+jzb0AwMzJQOCWnOz7db6Q=="
 ---
 

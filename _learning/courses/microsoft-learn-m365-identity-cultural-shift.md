@@ -1,14 +1,14 @@
 ---
 title: "Enable identity protection in Azure Active Directory"
 excerpt: "Learn about Azure Active Directory (AD) Identity Protection and ways to optimize the end-user experience while benefiting security."
-webUrl: https://docs.microsoft.com/learn/modules/m365-identity-cultural-shift/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/m365-identity-cultural-shift/
 type: course
 price: Free
 length: PT31M
 ratings:
-  count: 1942
-  average: 4.7744594
-heat: 55
+  count: 1943
+  average: 4.774575
+heat: 100
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     height: 400
     isCached: true
 
-secured: "l/yNyV34jHoM/u/XvHetnrzOFwBEZGOdG3B1Wu1XgWbyWI07+U8t/PZemCAOJhMP6bqS1TZ4QcMwuid1bW/kaHjI/WQxDElsQ+kMg0OcMDkXxB/9QPrbXw4S0MBwnAnUpKswKAT6H1WM7GBG057MNqTAHrkLaYe3Jg7eAyp756s0WjAuOpA2jBdUcVhXprCOavVzsJOu5DLHaqCqGxLTqCuvsqC8Zgy4X6grONoQWIBpu9NcX2EL6wudV2lIIiR6wNfkY8hpJ4HYtA9fqRvPQjfUA/X87OqZKYZTo6WyzF6K0nxdP/wzkdJYlS6xwqiwwcnC+1nr6U13c4ElPSFH9xfewexZDrknjwcL/9P+XP6XpxaQlZVVi/A9tfcziHYlMd/carrD9j4Zrtqoj9TULkJLpvHDS9m8QJOkK1E5gB4=;LQfmkfSsYe5z+heCeA+A0w=="
+secured: "7U3BBDbJ6C2Y0kpjF6EkFmIrc8qbmtbUC/ICk4QS+ctQvMwx6Y1j6tagTyOf++ZXZBdIfiztXd51Oc/Krkh0IYS8GXPrksI5U0OOiZpvlGARMcySOlnd5u1N0mGRBt7h6Sh2mxUmOqiFDTaKXmz56qCX1+6wmXQ3GJ1X6+FAZWAhBEqF0SbCG9LpjP16tmZ/NnWfmkdQezeyCGt554/4RPSgKRrFZw1aQFxlfcd1c4gDcdf3p0YekJEb0CtJgqqrI74uztsenUXtof5MvIEfeM+o9/dSfsrWHbFGRv6L1ZyH76u7O+ijK/N9sIubiJYxVWJByFKMyWWV/8OToQ90pr8uSg95xWrVzHAIYJNidwFoUWMXO9/OoU5aKBa7hdcwqUKSfVPFIIE5t+5c6UIb0A==;GA/vyZLuGZA5YGqJe336bw=="
 ---
 

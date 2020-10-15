@@ -1,14 +1,14 @@
 ---
 title: "Instrument server-side web application code with Application Insights"
 excerpt: "Get full information and custom telemetry about a web app in Application Insights by installing the Application Insights SDK."
-webUrl: https://docs.microsoft.com/learn/modules/instrument-web-app-code-with-application-insights/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/instrument-web-app-code-with-application-insights/
 type: course
 price: Free
 length: PT34M
 ratings:
   count: 282
   average: 4.609929
-heat: 52
+heat: 59
 
 provider:
   name: Microsoft Learn
@@ -30,6 +30,6 @@ images:
     height: 400
     isCached: true
 
-secured: "WK+arfBUoReZKZ+PwKJxqpCQxtGwDVkHtwRd3P38uAkTEh8btlNNMXEAJ2+mmtJgL3cv5xdW+g/MMqLek/RwjIquF3aDY76hsQfkm0VxAe/uUZAyiD7KkzWYMXV76pHMOqSnhxEuTUOwx4M3aDot7YWSqWiLz8yE0bmpj8k+ZGx1wDpDuzWLewzYYBHbOXfbjgBbGiurYUQP/sxmnZcnF2kcvA204Gx/WfXrL9GSWazS4J4tcH0Km4OyjAXYn4WgS8Aux/7JW1apnHHTWJdVjp05jKCXmCxhXKXRga1+vbAv6P30epFxpWfL14ez+6YeH5D/y36hN9gn1HTv+uHODf/xFlJnK445kcEYDacSUwYauCB5NjkgRwI/6kb0pEEZtvWw7xzr8CPdBkk6dd7ShGjIO6IrSIEi5eMmumbAv6k=;ZtpG0JLQ5H0toeFhv549JA=="
+secured: "Aikkj7pTS6O4bjN1hBEI/xbtJHqU1m9V24ekoTTIqYRpsy388yb9YoOfmmXzskOeXLDe9GyhT4ZsQ3l37wuc48iv2DydLQY1AbrMCWqpNM423Z9Ephyhscpor4xSCr1eQCHc9xyy/QOeL3EzwTBDBINTwkE7+jD8b1AaMlPcevFRcZZabxfTdq5VyltirX6OGy1pYawERja7DoujpRHmtRl8tzmx9D27sgXOprRP47NeEAT8ZMUTSeIo69bqoCNvYwbJoDkjxTGzMNKkj2pZ4CWQbEUiwrUWZuLOyP6Pr1dahSjEsTu+2Ik8xa1cQrJb2r6Cwsotiy7DcMg0YdqVkglIdwhGXpkjRDClBekVaHioqXxNH9cFBWM+48NpVqyYHkNdE0ZiKEGy3Ro3Z+84bQ==;TODuLfryDn4U/qMBymqPjA=="
 ---
 

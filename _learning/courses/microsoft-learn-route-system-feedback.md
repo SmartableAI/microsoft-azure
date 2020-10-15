@@ -1,14 +1,14 @@
 ---
 title: "Route system feedback to development teams"
 excerpt: "Learn how continuous monitoring and dashboards give you insight into how customers use your software and where patterns of failure occur."
-webUrl: https://docs.microsoft.com/learn/modules/route-system-feedback/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/route-system-feedback/
 type: course
 price: Free
 length: PT22M
 ratings:
   count: 293
   average: 4.6177473
-heat: 52
+heat: 59
 
 provider:
   name: Microsoft Learn
@@ -30,6 +30,6 @@ images:
     height: 500
     isCached: true
 
-secured: "Nah+jftFtz3Cib3igCFuVcr/Mdo855P46KdhXbq8GMEohJy7/ZpsBolM8mBkIoJ4IWRvrGsZOhERn3y6UAhKF2j3SKZWelUusJ2grThvc29WRwq3URNbGIi7QgcllV1LmCAiXjja0m40tO26bHQV4aC+/633IulqyLXvI2vtcVSCKKzQ6ldI/s+xjFR1dWCaoqYANc+PFXotNHpAWLOeSkvQIwlBuggO3YLeLqdyng+pJsJwIlS4j+3k99k/61SVDC7i/GJlpWn0t5e0xcLRbPVcV7NRiW/72yIE3S+L5K/xrsYdJtGAHBK9549Bsvx+uxW+Wlw2CMZ3qqaO+5sZFCGfFvxvOrhPzvXP9pVlNzJH/ywWpfe1nOtURM5vwvCTMGJLzctTkkuoa6PZGYU319G7xUskq+5y23Q07ikbNTY=;YAiSTAxTjUodP07oluEFTQ=="
+secured: "SvD4ao7HWSqdeB5Q1yrus/FPQUj6wcYGSj90WHr0Ya+baCvZeHAGYWcEdTzN68Xg8AicbUQMxF6Zx1opfotWI8x9l6KQnEyjH8O+b4Z4v+UK8aA03kxlNJi8OJ2rcGzFGBMsBwx7L6zm6mxiEIXkni8huOOEPcFgQWxFWmHZj3/IVIs38Ib0Hcgx1uOGm9Sb8dlNCW7khIC6stWShg9iEMGyY44hMh8JcycOwp+tY/mwfRUs+Whbp6OsaVNbUV2kLym9r4yob/D0n0nQMKHiFs14FS8uX00jvH4jk9W7r1dZEpy19p+tswn+4ytpSrrIbB4JKFL1eZEKoBct+UdO+m+mNOp5VZ+WSPPzlTtLk5fglJ6eKb27PRQua7UADntR06IawrLsg5yExyBXKqblfQ==;q/oWsJiZbR3cTH3BcpFvCA=="
 ---
 

@@ -1,14 +1,14 @@
 ---
 title: "Manage database changes in Azure Pipelines"
 excerpt: "Use a release approval in Azure Pipelines to help coordinate database schema changes between developers and database administrators."
-webUrl: https://docs.microsoft.com/learn/modules/manage-database-changes-in-azure-pipelines/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/manage-database-changes-in-azure-pipelines/
 type: course
 price: Free
 length: PT1H14M
 ratings:
   count: 617
   average: 4.6337113
-heat: 50
+heat: 69
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     height: 400
     isCached: true
 
-secured: "7w2pUTFp2FHPemcLXxd0CBWwkaUE6V8BBv5rc9z89BRXXEt+P+hfEwlT4ChcuMSszHrf9Cjiw2evLXXRafWZZ40KSxTlV9mpB/wWJgbkgwinVBUjpQuzDVwRnVQIUhH/ISm2ADl+6+HsIH+NqJw+4oIFCxWK2oqlwFWmJ27D3bJhfGskwZYzy8S7YOk5vKzXOR/3dlCzHnJ26N4vOAW1Qe3YSagDwY4LDC6QVrmM91no75ya7jI+78vfCCk4M7sHWwaD4CD/B6FYysuxvzDrDUamNJTQoEz08Y3/vwRvnTH8AXOIGpXqVWFwjfMguVrTzYlcCZEbj45JPyrMEdJlZHY65Qs7CleEYnT7F5GfrRavPtZ7wxIlurSlXPw3aG4e6HuhfGGizecu2gEvJDWfnzfOUqV0h9ulGAqL1BzPQH4=;8/Pr4srBRHkUAhmXYs99KA=="
+secured: "fArft+iCx+56GsJ+B5+ysQJxcHIcjLZwanr7K3HgbC88bk5aA4HdpACtfa3cxWui1xTBHDjyOE4Lu4r04UpRnfVDGkmnA7uwzNeWka6FgMGwugUifOlok0/m/edqVLK+AGG+YhrpFeP/pkwtAC5QFsRLi1F+FMJfwm9IVKWYRTqlB3sRZhq8GIwEzP312t1LUd5irAkFtxH4bfCkBtrA2ew3DPoLpReDIwtaLdBpO4nBU5Q5WZy2eBaZHrK04/MuF+l4fLO8PBA74f3MHlo7mh/8y4ZB6FCldv5aR+gGF/svBYzc0oSsDrXSwL2oPXzg3X8e6XDMsb1VbFbFHELdJH44MxskMAfQBgtK6n0ZfZo1s7K2iMkEKqcLVyPpldfz3OmNi076J8yLCW4vwnQC/Q==;c6J6HbCX6GxcEwuxINKCuw=="
 ---
 

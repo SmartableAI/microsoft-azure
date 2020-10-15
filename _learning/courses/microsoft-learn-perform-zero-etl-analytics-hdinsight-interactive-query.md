@@ -1,14 +1,14 @@
 ---
 title: "Perform Zero ETL analytics with HDInsight Interactive Query"
 excerpt: "Perform Zero ETL analytics with HDInsight Interactive Query"
-webUrl: https://docs.microsoft.com/learn/modules/perform-zero-etl-analytics-hdinsight-interactive-query/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/perform-zero-etl-analytics-hdinsight-interactive-query/
 type: course
 price: Free
 length: PT56M
 ratings:
   count: 98
   average: 4.622449
-heat: 50
+heat: 53
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     height: 400
     isCached: true
 
-secured: "6IiZn3YxD2XrYlz22ncaSbd8QEhj74CT5+OQTAZlkckZEDsd/bInoW+unkPMEZc5YGV48QRx6KoNkt+DqR1ZQnFyBkcSURsuoREMnhkcnrgvVhZweT7YjKD37wugNE/WWD15RIr1nlUPOOm60+F4DC/DKjmW4W38026tOL5/i/ElQ2QWHNHGrKmqydFpSz3MwK6dbOBvZhA2+Q+HaV2kShQvtRVv0ty/c2slw3A76Ib7mGv4qW8GWHlYkP6OFGi76JjQspFNQbgYjPu049FD2X0UAVaz2poVIrVmmJVFhULe7n9hY2Mz1/LMknw36OUZCN3aVX64NjWobkWTPk7qpawq/AGQvi7kbKYws7IdjPBgYcvK8poC8JEDznPE62nRn3DoDgIRlc+HnWhSJJVWLrYLK6EBT7Bu1S4Qm3hAcQ0=;3NGcRwbUBOfLz/a/3Kes8w=="
+secured: "tQsEJwAOY5K1CHAoTvJTVr+hOwxbjcBnjUGKXkwQ4qgMQxK5SYwyOCnLhICjuLQ6HpafuBa958tqPjewnjfW5lSivt/qRtu4FrqCDdfIfaqqv5gXZwo7i4Ip7v7hfHE7DDbzvKa5FcytW62ztbDbVaDz6/+VTDS+Vv4LwuMctR+c/27dd4K0DTrteWbFWHsV32plS5+Gc4XwMJ3SAC01zAZC9OJeyd4AuzbEDjzH9RYOQoDXPzfLhfdbxqXk/maKytZ5s01Dk9cymzAX7RdkbsnUgAlgUCSDsmQi31/eMYujFoaeSkz0WwP9+cGo5oPeKKWWqCELX2AqOTM3rJwvm54PM3aWHATVXhNX8+y/iAAvI3MYkTuj2/U2ww6bLTl3NN5ZjPDeVdP9XbT9NlKxpA==;K0qQAyoSKb58iSQDkLxoHA=="
 ---
 

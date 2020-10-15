@@ -1,14 +1,14 @@
 ---
 title: "Core Cloud Services - Manage services with the Azure portal"
 excerpt: "Get acquainted with the Azure cloud platform through the Azure portal, where you create and manage all of your Azure resources."
-webUrl: https://docs.microsoft.com/learn/modules/tour-azure-portal/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/tour-azure-portal/
 type: course
 price: Free
 length: PT1H13M
 ratings:
-  count: 50954
-  average: 4.708129
-heat: 82
+  count: 50955
+  average: 4.7081347
+heat: 288
 
 provider:
   name: Microsoft Learn
@@ -26,6 +26,6 @@ topics:
   - Management Tools
   - Management tools
 
-secured: "sS8SQfWKqFZ8LVwvUWNQAkccimxSBIPu19fxKiH2onUq6FHlzuDq8QIrk24tgSZ0I5XyNpxCabQOWjdPeRUbOTRwGdbQRlUBr0HbIMDXcvYNRhnQ6vED5PR/UsrG90Kv00k8kBafHOS+mN3MRCfOj9jmNEctL1GxDu+icRfgpSLSX0OdVkmgdEbmPiYRDnFlT1m32B5LEhCaDvaMpfn3X2Dh0MalitMV0qE+sCunk4G1hFG8Aa+uSq7S4BfrhUVYL3G7cVbIKosQZrqVZtCjgPwCsdUP3fCmWXxSaEzZG8LBn6qGcy6bXWqN0Yu4bpQV50gOLXv/bIsVCwTeu1dtJnOzjF3/Z1zyo1KD8jBE6SKoB+2vg8X95AEEzZ6r7y6X2enQx7kDldsUuNY2CmIqSzcT+S1NCMGw+4j0u536SvfwSIwQ+S+GblKlD4G5mJlF;2aL/vDMAP1RWPlkdpNjcNQ=="
+secured: "x6TovpPUJ2bx2idPrTqah1qTZEqSVkEGLVIbr888Qtmn1WeWXzFOP43/gagcC/dXJOzJt0Iwsal7Gq0n0rWl3XF66Qi/dk/mRV6KShM9Mn4bM9+N224s4F959Rlkbg2xuzv0KYOz83+coCs47fzCO9R2rKOZCohIyOluE+6fxj9n2VRXYR/Jpw2WnPi4lKtcWH9rI2UhTvClfrpiKt4yBuzilZ1quQ3ULJ9BFhvDdrLsn1zdJw/mGAaohwZ9bcKFI7LGpKB8xgm5NQ790URdIcAbyg96ZHgLiIqRrOhkPw3ahOH9iXXKDwg+G8zF3hrqlxcEzqEnO6W6bdZ9wGsNcklaSvhiSU3UzydBxgsQBKWIrG3ld+vGVbDa/7N3qg5TbXZCVGFPF/KqsfGoHC7Niw==;6S13YkF8Nnhocorkwmvs/g=="
 ---
 

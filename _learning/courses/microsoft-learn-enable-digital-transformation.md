@@ -1,14 +1,14 @@
 ---
 title: "Enabling digital transformation"
 excerpt: "Digital transformation is a wave of business innovation fueled by the explosion of technology—data, applications, and devices are everywhere. The cloud, artificial intelligence (AI), and the internet of things (IoT) give organizations new ways to make sense of information and generate insights to transform their business. Realizing the benefits of digital transformation requires business leaders to look beyond technology to reimagine existing business models and embrace a different way of bringing together people, data, and processes to create value for customers."
-webUrl: https://docs.microsoft.com/learn/modules/enable-digital-transformation/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/enable-digital-transformation/
 type: course
 price: Free
 length: PT32M
 ratings:
   count: 8693
   average: 4.698608
-heat: 55
+heat: 172
 
 provider:
   name: Microsoft Learn
@@ -30,6 +30,6 @@ images:
     height: 400
     isCached: true
 
-secured: "pT4YCLh0xdugX1lxKrwbGyshqkJAzzpH+FEmMqUls4kniTuy5xPbh5vTP/l+sCTdxTYPK6WZVc8834RGaONXWSVhO5IgVlx4tcwyVd8valCyyTfOec/uNHs0Uk6+BKd9+qSVxUC8jcy46tbSBiGeR662neofY4ciFab64tqxsQxuv6De+OKYVIA5PEn8aNGeXu9OuW79lOJm/GiijAgSHIGa5zDdQnbpfrOaTwJjsqwBpJ25j5/p1qc+/5iix3JMq/8uzbkZbZ092QKhpzl03dujw0Zj+K22WD5yIOUbyQzafQV4t9UubOLh5zymfytfrZE92ANkvKHBf9+3/fUikRbOXPOZ/uHXM5K1doJWWTSlBROUd/6zyn2h6xMa3YL3LEHKLnmSfgb1ZfGYrihvXAgqO5yzDHboX/MKcfOqfm8=;XFd7Yn9ZEV+hR+wy7MEopQ=="
+secured: "O0WiM+w7mlMqTRStANiofSBUpzhRplWBf+8fgi2+vpjr+kWpxUY+pqvKmq2ZaRxXmZGLwo9K3izzLAcL2IlQhPOEfYA/UBG9GXiPBl+IjicDmgFGDB6f4wcogF7WmAURDlZi0ors5zJNHN9YM/GqvHGznP+MoNIVABM9AWvl6lSzB7Q98UOfgDRlPlTA/wRpzxgsRu+pkNrrm4S4LLiMNqmBFB+GRRPBgaQhEY7+IZdDZJXycEuxs6dWhZ0yESCIGInPlUf3G04pIRbpVT5Jr1/8ovLQHzSp2MchJGNwDhhjlxxjDSCoy8FR1EB9dq1WlQkfUDMA+YBH+xJM79Rzy5baILTiBabG4MFBxB4qskPrRfLv2DH6KewidKQk/+mXlVymptF6iiMMqQqorLw5Iw==;DPkgKYioqZO6EwwCt2oYMg=="
 ---
 

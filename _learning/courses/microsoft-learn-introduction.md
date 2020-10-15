@@ -1,7 +1,7 @@
 ---
 title: "What is distributed programming?"
 excerpt: "Carnegie Mellon University's Cloud Developer course. Learn about distributed programming and why it's useful for the cloud, including programming models, types of parallelism, and symmetrical vs. asymmetrical architecture."
-webUrl: https://docs.microsoft.com/learn/modules/cmu-distributed-programming-introduction/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/cmu-distributed-programming-introduction/
 type: course
 price: Free
 length: PT1H57M
@@ -24,6 +24,6 @@ levels:
 topics:
   - Azure
 
-secured: "+aMNLCI7XiWFXxSdP9qvXgBAaKmGhT0q2LmrrYuNPyOT1/NVt2dnC9DRqWnxPK/HaaJSGTjQAav+dsQbTvEbLbHCssZNAq8hhLc76ybAam7VJgJ6FeBJDt7AqfUFulmsHmofGrF6IlIXBENrsCMu3KA4mQFCsCVCgfOMq2tuzgW9Axq6Ad1jJl+808sbzQVpzfQjm3FZW7O680QlGagcAG/2lfPbC5fQsk5+ezWcYve/MGBiWeExxOFzO7GyW/eEkI/wtvh3ymiJM8Qbu8kr+EUOxrTFq4m3fZZsOfZLO6lTjnlIRSmRJrXe5BxaaqBrqCAh/O/4pMOJvNSGFUN/nMWuUHZNn0rw6h/0GWAEDrCpyI77CDPw8LhQfg0y3pxRv03D5LN/juTdLrX0x93xbZ/TPFhRGSomjLqcEQX0bMs=;hSV2zUc+fRSO/VbLTHO2rg=="
+secured: "GXPXzYZj7rVVoT9jFCt4OUOopSnIqprDgOSa8oeUOhEOjUn5mm4yIPlpG4nbNoq9iZS+B2+wPrDYu9DTKnvHhKTGJLYRPpbqHLDHjuR9qEBdhgL86N31s+G8MxLGu//ccr5LdnvqrnDXVvgEybtWZrM02yhRvzoBA+KOUnuWVkCHPDlmBup91iwwp9Oi3g6Sj9tViChHAy1i7a2ZgQHWIclQLWf+FI3DhEjq0AmfWs8xUmfQCeboxCvK526GTx4Z5KX5HKJEesIdgkFNXzqcOj9CJVj/NcaaVlCGU0Fc5ClEkN3sEWB+YT2txXldrBqltxeieu8T2YTmfW3iY+ZzpEqiIiSQ0tfD2OGb6WT/U6XaN/b0wZzDX9R284LcoB657aQ/c+15SerDx9F/yBPUdw==;VIXOrXApJ0LaV6aaMl6HHg=="
 ---
 

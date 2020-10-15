@@ -1,14 +1,14 @@
 ---
 title: "Safeguard your environment with Azure Advanced Threat Protection"
 excerpt: "Learn about the Azure Advanced Threat Protection component of Microsoft Threat Protection."
-webUrl: https://docs.microsoft.com/learn/modules/m365-threat-safeguard/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/m365-threat-safeguard/
 type: course
 price: Free
 length: PT1H2M
 ratings:
   count: 1491
   average: 4.830986
-heat: 51
+heat: 91
 
 provider:
   name: Microsoft Learn
@@ -30,6 +30,6 @@ images:
     height: 321
     isCached: true
 
-secured: "amLm/8JcQeYsU53MKcnZ8U4Iyez3ys5HZGJvdi390TELABXzrJZVbJILjrL/ydFLzCwq8fjsF1ckn5qz+RtaPAkMkCAdHPXYY9Fr20pddjIqLpnMxKlVAKnzleivDEURuH5lLpCPt6FhaAroGt+nFNGlnm+UPmkYl+5dSzmbTiWgakFjmyKJOczOncevUxKYyOSjXVLUHwU4I7SQ7ptvgkzg0EUAgz2Orft4hhmb/yAbh0rqjGg5YmbSVUrrUTPyjsMQ+TToKRoxIQN6IpOeGBnu+A1a8YbmwPxDYP+QLzqVEF/wGy8sOrIrL0ZNyJBEPfTbt9IqiGIqlnDOMHxNL/O98up9NEOYOI86Sg8DFHrNA1KBRPd+cEMFWySpLlMgcAUDrXSLmQBWlu8yuZnHqMev7sB1303tHm8cU5DdKRA=;gncVEZdXhglQB0L2VFBDIw=="
+secured: "PsnmDBpjuJaRQehYBFFuxzcYB0kpJ0heZ+JyywOlJLiBaw1dTwi7urxy19v995FlBT1i+rgQAaYF18rHmFndTWjHmzUuPku3oOlK0AnCuwsDJU4ZJjHJGKFH4AWXqXWGwkJ+3bMxgLxu+lo5vdDmHP+YNyV/q2ichj7GAZp1gePkw8IiaDtNsQF+iJEZAGK8/ZVKSgehH7apJHLKjJAMxdZW/8x5J1FQDbFUz0e9dkQF2yZp9iQ2upul6PCp+QRMmMGwjtPCgOTBNU4MuFJB7Th3ecIgpwcJDB4J2cxosNjJxENadZglRZTYM6A3v7e058BroOGfFP8GFD6GvdJfSCHvbJVBi+8kA9/TFtU4WJEPMdjlMnszrxTBWVnqq/W71K6unzT7W7J7c3IqBJ+DYg==;iPhv9C676RPfVvX+ElaqgA=="
 ---
 

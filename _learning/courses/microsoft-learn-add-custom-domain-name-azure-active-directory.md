@@ -1,14 +1,14 @@
 ---
 title: "Add custom domain name to Azure Active Directory"
 excerpt: "Learn how to add custom domain name to Azure Active Directory."
-webUrl: https://docs.microsoft.com/learn/modules/add-custom-domain-name-azure-active-directory/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/add-custom-domain-name-azure-active-directory/
 type: course
 price: Free
 length: PT18M
 ratings:
   count: 910
   average: 4.6703296
-heat: 55
+heat: 77
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     height: 400
     isCached: true
 
-secured: "Mhx/PH/uePwQVDrsN1vI2PqmvGBZM/6h3NjuMkg5YE0E5XIupFqNbKa+uESZMM6vX6UtixOby7UYrK1sfM8kC/NZ43/7pGYw/EZX1vcoO9wq0ABT3gVc8ZMYZYyzwdGqJQuT94IONFTsC2rQG92jWJwo0z79aXqntRsf8mTqudOYYzd+MKxA4n2ItiWkviC2vDO16alWeY2E9hhHBUQxKmhTCsjjnPHKIOH+G+ZyFEuK9e9o4dstm7X48P6ZSMbI1MnH6+E/J/bFvJ/5wEqPHTRQqgALF2hLPj+ZEFBPMYSh2VeaLZdRSXNR1QTcB8Kv1Vi9gEnwLXqn+q6SPUUTetSP14jCGScICOvwZiFW970nyIz972lOqoqHzNh1qiBRGbd5SHhtLIuzWSTjPs2XS3otrV49xzaTSPFNj2pZCoE=;+p8qVk3EkBInqct+EbsR0g=="
+secured: "Cq7Yg41lpEuUDkhfksuoCNBZ615nbyO9zWt678oj64X7wLdV1d/qXBWb81K2luC+tT/UjeCST/OqLqHs2+1Ak5Hk5adxACGZUe9GKZh8xXznjy1MKZMib3nLkER64cL/DpAcSkV/uygLPUCndZErfgOS6TpV6tVvhCSTtkbqC27YK2a4p9nZu4orr/r0FrYT6rqzQVGJapOVxWdfG1dJqAcHiyW3DBCafzpKXmXm8+MfTKoUQV4KocprSqr8ib8Nnn5c9dA5GPUpok3qV9oIzR4tHhCJiiEP1/M3i7h3ebRGxj1EtDBTEBD1dGdVDE/ogTkhXHpjXfmGVgknmjvsGuHebH4kYDGvsitWLRDszGSWteU1H/n6Ds1qI/2Qi2iex5l3aO/dUZvxhk2JiGr7sw==;9VI93uczoaEj3+gLUzw+9w=="
 ---
 

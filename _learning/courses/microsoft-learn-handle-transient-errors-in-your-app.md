@@ -1,14 +1,14 @@
 ---
 title: "Handle transient errors in your app"
 excerpt: "Detect, handle, and recover from errors when working with cloud-based services to make your apps more resilient and improve user experience."
-webUrl: https://docs.microsoft.com/learn/modules/handle-transient-errors-in-your-app/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/handle-transient-errors-in-your-app/
 type: course
 price: Free
 length: PT59M
 ratings:
   count: 53
   average: 4.773585
-heat: 50
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -30,6 +30,6 @@ images:
     height: 400
     isCached: true
 
-secured: "z4r3qLyKdWYP2jvWt9DKLl/bI+jjVIl7/JvNZzRUg2MUFM1zN3uEUNV6Gm62NkgOy72XmsVVtewBA38+Y4uXQMq7HNK9ED9BcRiJY5SSTFsy2HhGqR16BYyQT21OOnaJr1q8HQhGGwk0SyygqE+ZtHWpt9/36xHCwUGUWAFCYSJyqSzqvWXWBFbyUw04J3GKE1mnqU+GLMfOAAstNKvXTUA5yqIUWDkE6wZS9j+347LIWb/DM0lPjYliSVu9sjqSRGOS6jm4HxBrszjgpShA8oPS4muj5N6xDqb6b/jEEW4AYBpS51uOqANUWlBS+9dF9vkcf0qRuG5KK74j4BiVhh4x+CjU4/XwuglQwzRZGzlx0DFa/Xb9stn9c5HrKtyvv9RKoTPaNX8O22icrmHLdrubsJ7+RKvGJWTGB25sChE=;YIH5MJmPiqVAAcVILbRfng=="
+secured: "7XBvx0HBsRheK+1T56tzf77O2UzToH3wu/stcA5HhGjOY80dAi0XCDL+xQMmrk4PI62H/KIOH/+j/wi8FMQeNQIelHFczR5Sz9/mm2RJHgh+p7Al24/QgzVjaQ2bg8xgB5kpvQJegxsZgt9OPcqJ44hd2dm8fQxejpr2F1dxomLbG9K0C1EdTvqeGG8rVGLrQtYbu87ABmwicno5Co4Qe0lOVtzAu2vbQQFd36QVWdG4PfrJ2TDj4vxdPO2SOWE46WGCE4xdIgpxjuGUZIXfrBw3J5eFBDlpD97MSMvQC724WCGx8fV5GSsuaNt7qboUkkr/EZK/zMgWnzZHBcsvA3MuMzIfcSGeZBmEpI9CPmu1ZKlylnZNP6XUKyEvgf1x2WfrSPdtppqsLbXhvfwJ6A==;ZVRV9JaR8x8URF6dgXZvWQ=="
 ---
 

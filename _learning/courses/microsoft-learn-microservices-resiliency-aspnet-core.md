@@ -1,7 +1,7 @@
 ---
 title: "Implement resiliency in a cloud-native ASP.NET Core microservice"
 excerpt: "This module guides you through implementing resiliency in an ASP.NET Core microservices app in Azure Kubernetes Service."
-webUrl: https://docs.microsoft.com/learn/modules/microservices-resiliency-aspnet-core/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/microservices-resiliency-aspnet-core/
 type: course
 price: Free
 length: PT60M
@@ -31,6 +31,6 @@ images:
     height: 321
     isCached: true
 
-secured: "6396rc37f72J0bASjYCnDPsu3aKHQD2VD1FYDf1ZHOpA8GcXhAqKNQm0k1YjB7xtZnlTekF7br1V9lpegRoQZBv9kfnV6qKZPpBdxTXFTLlkRvXfRKus1ficKiWalrpYmwwG5klT/j7HPf9rNOUIdz68/7t2PG7mme3lV+cMC4UXThAUQzkj4hh0DdRD8QXpblTuEjs6sC3fqqybX0anLHGaa3JoY9qy00fHRG7Vsyc2u3GFS4bdpRtRyOICiTiwu30I+pmrjjmuKNENq3sKLqUFYAFsJbQf55eS/xWzmW3WOhMQS/Lb9G2pkvMmTyy0tS+QBqzXe2+ErrZQeL4Ma/X58mKm9AdHUk196DR3VhsGiYYRvPNKLSkE9RIJYeEWsEJmy/BOX4pKyL2GHxFcgiibkhXKFPt1MN1frwmGOhE=;a24rzjGOZkNtnxhq5eWvZg=="
+secured: "GLrr2hMk+nIAGHEyOYC9mMehU+gVwMa2AIMDu4VwwF99gGwqqSdsbUbRujo2HsRIolbj8enLIPnIcqCYLg9/5PgTEywiPZG+/2ZsZ9InNsG5+usce5BN12wlaS/EbYWT5AzEmbeda6mYpNEmxX48vqqnvfWMTgpCFX1XVn1apAgFRP9a0Z23bEV8tAi+M9WLnaainEUrGChm76HBMRgIwqzDym2lOVLDHgFbw+fxJzu/TMWCFMlJJ6oh0PBnRaxmOV8fTC3Ng6zWMxR8XRfX66vkpTQ2S4FyDag8KqcRGwO2OaByKW6j1XaVCa8IIF/RmDhqZdcqU7vV/auuZ6hMr0Y543M/Zkm6VBRSfgbmIkmUUxepP1jBQ7PMkpre0EQcYoEww8rsIzkPgd0zdWotUw==;OLxa5HT6N0Vneex8xdR5Og=="
 ---
 

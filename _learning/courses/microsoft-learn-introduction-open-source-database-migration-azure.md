@@ -1,14 +1,14 @@
 ---
 title: "Introduction to open-source database migration on Azure"
 excerpt: "&quot;Introduction to open-source database migration on Azure&quot;"
-webUrl: https://docs.microsoft.com/learn/modules/introduction-open-source-database-migration-azure/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/introduction-open-source-database-migration-azure/
 type: course
 price: Free
 length: PT50M
 ratings:
   count: 147
   average: 4.714286
-heat: 52
+heat: 55
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     height: 400
     isCached: true
 
-secured: "4VMWuxw4ysgBovCr4qjApCEiz6AkAze283NaU041/DnCdE53tugykDl9c+eRVa9P3MFPJ3mCRgsa38/O4MYOLY8EvBWSpD5JJ+jtd/uvI2y2oX8Ua8aVbJXhBXJNmEVEDDsQRz+b36iBn4eolcUj4wJr047HeAw0banaBXL+kTS8LmW+nxbguk/LYdU9RrWpYZ67BzzvBBLhPBX7DKmxJGzMx1X+X68B2GaaucKD10IUUKoh+y4xakmTjsPDX8dzBedb7//7hRrAi6d9wENUQoGq2y4YNIb5iuWElbeSONZ331rWLRF6kEL6F8mHkVKJ36nF2t53mzuJTunqti5kGUGJ95O7iS16hhteoTZBgIPFPgIZTmCS1C1UOrpOi3KzBiquytnKzZXoXGn3iZxmtKWUPgyWo8ZzA+46M6WHrgM=;+Ww4uhIJDny+f0o1Qk293Q=="
+secured: "Ofvq7+9EGB6mt4soroX17WVAD9/MoTPjtUp2LqdPyanwDtF1Y+epk+e+lHiWLsZbd/SsOrKCKfdcZsnd0FXwdG1mGN4FCQDOE4XWV5mVULX/97VeUmf0dFClgozfTOlfTP0zoABH7OF3nNywak8GFjIy9/FBm1jwLQFBS2SWT5ipE5jMsPZEoVkLuoLdvpXZ+xTG+I+n4M8MHcdf51ryr+pHm0xBC51mkB4mtpDrwGBcbTNHPrXejeJ/E00JPG/ObrBv3Dnxrn6BFXseVwVmYRmgtt3LoNjMtK2sZ/dzIG7bRPdjp0/42lfV4tvaHrX+mSjVIX39+KnAPP2kXuKMDYMpJWQyOhoSxmJ3PT2U9B27nRSSGUUWpKo4D9BLjtUizyJDKawunTAue+65KRX9Ig==;+Axom0XG+QqVY1PxlaNqWw=="
 ---
 

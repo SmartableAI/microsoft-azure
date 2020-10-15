@@ -1,14 +1,14 @@
 ---
 title: "Create a build pipeline with Azure Pipelines"
 excerpt: "Set up a continuous integration (CI) pipeline that automates the process of building your application."
-webUrl: https://docs.microsoft.com/learn/modules/create-a-build-pipeline/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/create-a-build-pipeline/
 type: course
 price: Free
 length: PT1H20M
 ratings:
   count: 4829
   average: 4.7425966
-heat: 53
+heat: 140
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     height: 400
     isCached: true
 
-secured: "GOtjoVnskAxNuqTHgijxfNbiMt4LB50iSgKQ1gaup5Vp7bXP18Xw77oCsFZfr92RC8G4clwySPL9IwrfhEWFVhC7Lci55JNijsSQDSDzhc+Dt5pV4L0U9yRzr6Gl6S2/2cRQr1CM3nq76TltAm+g7xe4CYpVLv8ZrDpesTQ389hoHFwoEItSQfLom4XHHT1gDoU9lx5a2jab9OGcEYiy4iXWq7FT907z8+Yl49ntuWGaOqjeiHvIeLJYVwXQyeTzvmZAzApDbgseEoCdm98shyW+VFkrkZO9awUZTlIUB8Mcc0H4ARL27U6NIHeWuY7TyO/8LaHZhlttk+i2u99lFJD6S41w+J3KZKJY2dHOH/AUflirqp2voakNJpiBv0THfkedxoFXDyNtsJG5Jj0hhSon/DCVDpTka74sCGFQZZA=;txNKfz0Qgr/eRP6jDJbffA=="
+secured: "XiKljye4IX5HCwWGmitQ1O+lgiy2IvJXnfjNsAYUqmZCe5oVwQYjP7hBDkw0AjEaW17Jz8vomnS9NH8hiA72vU0HXWoU+vOSw6Pk5kpRhHVaug3cehl/Dz9e8d/I4SuAHERZztUzaHVl0pFx/MV/ZaE/zKqQKW5nKPLKYrUpPna9LAVEy/gOD7mm38n+GVU8yUaXs4c3STu/BeeaFDgtn1AZJ3x9CErzhfHUG172PLTDZ0iyRew24Qqi46zL1TDFFQ2HJMJQDY1M+Bh0FEeXWIx1kD+h8tjy1LYbeoXU3mXhQsFzRFsjbMZTA+3tcexS08IFb7x48+0Hx76Y4doadcfgmhNSU4Mn3OcQw+mmZUTj1URJyNsLB0Zx8W33kXkcytw/0TXHRopPOZAovHe9UA==;l1SB0giCEiMEfwQai8v5XQ=="
 ---
 

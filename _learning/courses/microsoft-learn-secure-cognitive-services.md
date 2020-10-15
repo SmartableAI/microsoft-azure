@@ -1,14 +1,14 @@
 ---
 title: "Secure Cognitive Services"
 excerpt: "Learn how to secure Cognitive Services to prevent data loss and privacy violations for user data that may be a part of the solution."
-webUrl: https://docs.microsoft.com/learn/modules/secure-cognitive-services/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/secure-cognitive-services/
 type: course
 price: Free
 length: PT37M
 ratings:
   count: 13
   average: 4.6153846
-heat: 51
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     height: 321
     isCached: true
 
-secured: "M705iL9KF4D1/R60Bpv8sv8gItr6kUSW+qNcqpBCVBrZOlZrInm79bqBWZlsD64/KP2AveSD0Cgg4b2HsCqmUqdOu0aAimTLSbVrWnlytKjvrn0YcYUuallBFWafAONINJ44j8ba1RuiWf329OoGzFi+iQhV7NG97XK/n16lG1TlnXVLrODagY/kN1+P1CvPtW0Oom2ozjo8OfZlYa8nJ5fbbb8xXPD/Q4axgjFAKKjUrcaIOBt7CU1uY2e21qiqaJ7HsgF+rJtmAr9p/7AAbmgR/R1c3Y+FuFZ3mB69BrL0YyrI3l8dkYAlOIpfNVK87OYEVypW/Nrazw+c1NYDp2SaFgjGKcUcJI1BgInf7uXFf1d6vvZYzFJVpQjiXNaa92q0Ui7lFfIsLbuRZJf8hKxmNYV386LMqrTB7m5iq7w=;ZEnkzUhQ43rIPqbLpYOwYw=="
+secured: "Jfb8CbwLQDOkixHYlCDJTf3YERytit8HRjLKSQJlvIGfqVzETT+WH9Xm50Pkqyxj1LfjwsXnDYRt78xMSniVTftVF6pCP4njE3kIBkBmWEWQdf70ISAzYjKznONww6WI2yvb8FDOXrU53tD4tzM0WBDjmn7pd3EFgo1Vh2Z+3oho56u6+DPl08b6V8JVR1COEk+bE9Tx2Argu4S9uQOOXuuN0M7wVqmlrotLPBekYwJ4XSt3fk0BN2AX5VTy6w9vB9YMnAU8WQ9Ga37YybLbOJBalfCjCe3GLObEkYxcXS4ZAg5nP4Uak5S+qkF4BJcxjBDLgt0lA6fgvRjbXbMZ/Iu7ss4Gm7QboGAlgyUkrYSp3tCw6FPUVAm8lBrgP12AjQqUnvCfcYYDa263XYxkYg==;HIMbmPnQ0QrRk80qjLuGCA=="
 ---
 

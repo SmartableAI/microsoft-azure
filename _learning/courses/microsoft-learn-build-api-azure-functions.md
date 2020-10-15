@@ -1,14 +1,14 @@
 ---
 title: "Build Serverless APIs with Azure Functions"
-excerpt: "In this module, you'll learn how to build a Serverless API using Azure Functions. You'll connect that API to Azure Cosmos DB, deploy the API to Azure and finish with a fully functional web application."
-webUrl: https://docs.microsoft.com/learn/modules/build-api-azure-functions/
+excerpt: "Use Visual Studio Code to build a JavaScript and Vue.js dashboard with a Serverless API powered by Azure Functions, Node.js and Cosmos DB."
+webUrl: https://docs.microsoft.com/en-us/learn/modules/build-api-azure-functions/
 type: course
 price: Free
 length: PT53M
 ratings:
   count: 102
   average: 4.617647
-heat: 50
+heat: 53
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     height: 400
     isCached: true
 
-secured: "QeyZxY9os3NLzXRiCP/x9k5JFxb94X68u3ZWtDf6q08msYktrHH7nONzl/pY4ckvt1kBiZK39wLE/LhPtnTi9pxzJbwqkOuoQvHFIEVDmZJ5EGx8Hz/uHUm5ijkxS0ChZCrnNWMp0wLlYv6NV7mxJzCLmWtHVkNLaDqlll+tlsYcTVv8o/KzBVMntrx5MkmoFioAMWsCzmXds8j6BlPkPeaIjKyHj7jzv+1KOAjCvanS4YkA7kN/QRCLHBM+UaHvSLhBKSAil/LQ+XazUpjShmGDN0M23unuOt2MbaaCnNce0FD3qBfs9F7yeWYVdxpasC/+UMhXjlwhJlmvMKOh3KSpI4HzmMCPp5g4Nl8sblufm0qj15ITcnlwhaUM0qeHu7Av7e3QSruCmGKyB5n10Z0KywuwkRQhQ0PrbKYUymA=;8PKXeGytOc1qkCm5NVj5zQ=="
+secured: "0J/YM6bZ4MWqggwybIK3hdHCAgjHwZFYK94KKUOQCu5p6KHhnoKQ+yaDM9fZ/fJjjFNm99ba8tZzodUFrAYr7R8MN4XE3tMJuuRS+UzMqzZjrGgHeLYraIRPkgz+spsd7YBqcLimRMbisb4DbkZrmwPCnwbqRPhMfQiJUjcXaqt3QF82pEgVqBI+rs2a+m4VopLGf9KQOAfCIhiq8PNUrN3glYRZtswD46hmqTplGfN7mRMEmT84rbTYN5tMTy9sk8yg4s2dOPgFLXltp5uVVlOl7uy2TncUTKEn9qLA4unyGHzA8WKhXowq1cjYh9b+S1ZKKwjR8BfCpmONDy4BoZx9uP3als58h1AfdzLd/8UKP+bsFk2wGaRk26yst7EVZM7sHHEPPCpx9KJ49E9m6Q==;CXG6EQY1MNwsxTIow/nmHQ=="
 ---
 

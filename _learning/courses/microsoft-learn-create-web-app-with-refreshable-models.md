@@ -1,7 +1,7 @@
 ---
 title: "Build a Web App with Refreshable Machine Learning Models"
 excerpt: "Build a web app powered by machine learning models trained using Custom Vision AI service, and learn how to refresh them with GitHub Actions."
-webUrl: https://docs.microsoft.com/learn/modules/create-web-app-with-refreshable-models/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/create-web-app-with-refreshable-models/
 type: course
 price: Free
 length: PT1H22M
@@ -29,6 +29,6 @@ topics:
   - Containers
   - Mobile
 
-secured: "PSwacDKGZBEE7Gq9ynehddYlegkkLLJRteVRU6qBZAodXtULD+/ch0KRiyBf2jYwuzVuRCMXkSH1qROclrqfadGfnS14TMvpNx3I83Q5t5ky7IaB8FAeE5/Gecs+TOeZVjSNBfkt0Q+YBgZFCd/SG1TohMNSsZ9Xp0vZqcf1jjmHVFSpg6hU+ZRg4mLAD3NFbNiPnuLNCd0UIrJ05f0eaI4lCbqzjalbMxxZiwRLm+H5KeHLECmWH+ch83xAvOIq2m7ljSkGLEEqJ0+K4z1WqmtWy8ItKmNNAFswrMc6pb4TzWFGPbE9XN95spIlqsmct29K8FBXebJn61Or5XKDY9YaQ8Ei/7vgE3TTXzGVM9NuuIJCSsjWKm4dcGXxGpuGEzF/Uf9lw6zQ59Na9i+eQSvOymNYIyelVzkXMB0DcLo=;irTVup//3INdGkZJkjmLiA=="
+secured: "UdWhwpcv+HqZVg+PW6WMzfZol488DqWeezDJuUGTajIIrmb0Pf1alW71c5/Ckw1kgcL+YK8t1ea0lIl0qH8vZEw2jUEpyhPgT5DiTx3GrfbqnOAca89JDrPvmk1mxapZhuJhdI8nPPkQi8f4Ypz9iWHD4UzYLKisxddth3MTpYPBYS6OLAKiK3l56VL+8Qmye1WP9EdmboH97YNuBIv/no97jBN4HRLD+0h7WXvYggw7l+LpMPdls3Qm/6Q6GZ4mG3gv5NQt576W40JGztHmmY2rtGCcqKMqEmkswhJO7iLkf5yal56cMatH+LVUh/Oz9fR0pd6YdpUmF+Dn3Qn91ox1D1hnmqYEPdLJN1F7AfC9ND9O6VS/kXDFdx7ClYDAllNubiz2go7yIDQJMYZXzw==;UO/HWiNFuU90HG4bmRlLIQ=="
 ---
 

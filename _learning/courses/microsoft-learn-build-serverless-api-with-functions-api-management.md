@@ -1,14 +1,14 @@
 ---
 title: "Expose multiple Azure Function apps as a consistent API by using Azure API Management"
 excerpt: "In this module, you will learn how to assemble multiple Azure Functions into a single API using Azure API Management."
-webUrl: https://docs.microsoft.com/learn/modules/build-serverless-api-with-functions-api-management/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/build-serverless-api-with-functions-api-management/
 type: course
 price: Free
 length: PT41M
 ratings:
-  count: 1179
-  average: 4.611535
-heat: 52
+  count: 1180
+  average: 4.6110168
+heat: 83
 
 provider:
   name: Microsoft Learn
@@ -34,6 +34,6 @@ images:
     height: 400
     isCached: true
 
-secured: "oMfby854I9WnIubZGkAXcJh2hDSS9BpU6CPMXB+HrMB6QC+AIKYjsSDck5UoUnQISsUeXIOXMotYStGhV2M2jIOyxd2bTPgzkambUGYsNxESFvSg3dPuX01M3Uk5A6oTgwKJbU2uoMy2piyzUMYpLvfh4+OQTf6ZQAFK0hU7mZJjEI1x+4nj/VXNz1Rwh5T2DONmiG9+L52Jt+4YMN0hAguUf/NeJmHG2OBt//5HQSbI+BaYvjMBJBY3yZgLBm+mrKmBU3+i40xJzR5zqFZk7mgrgCwq+HDLbYbuFnp/DgxArbGjJr5Ll+FaE7wb4akOEeiKDTHwXpN8EGvob8UMSvzV9zP8bU/rG9bDeSbvOhHLMsR2tBJxnitBTu6RbVuzxoNkKlqPlrKIS2eSDUeJJN1SDKzY6T/DSrF9nv2sJgU=;qBZCWOkqMuuUIfaZcmoTeQ=="
+secured: "vAgn301xwrcmtNbOsSmAf4JnLLs4SRoGBG2KhzD2XNwFpyMwltTHCZIu7kFKgCAb/m2vX+97B0j5r4XhABk0PLeqrMo3+iuTFwxpSzWA75aWqTJeCnQRWVh6YYdDtFe3o0/ycb5enKvqUcqAj4JFHQMvgRKWFPRtsg66R/10FlzcbZ+2jfOl6tUI/yVL+uefgJ2+iZ9ZBPF/kE4ZWeGL5gRltpmxPfp+yNDyyTb9L6pBC/0XtFJ7eP1jraE44UqvaBzousdatBLLPn59f8I/NZ3GR7+v2zCSZxKBL23Cqid/7hNzg6w27eNHUPw53UU5sGaGMcsWY6RP9OxnXJeQgoYVUbihBkKlh6Evl46d7Qo6Oi1Bp5XNufIyVWSx4PgHusms1peto2TDDPTz9yA/QA==;1Lmlaf2xnzNlNUaQiCJwsw=="
 ---
 

@@ -1,14 +1,14 @@
 ---
 title: "Introduction to Azure Functions for IoT"
 excerpt: "University of Oxford"
-webUrl: https://docs.microsoft.com/learn/modules/intro-azure-functions-iot/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/intro-azure-functions-iot/
 type: course
 price: Free
 length: PT27M
 ratings:
   count: 78
   average: 4.6282053
-heat: 50
+heat: 52
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     height: 320
     isCached: true
 
-secured: "/mUqPuLdymKC6IUCcR5zlmh9afJRU5IX2aUMS1oXKTZFZbXUyl0N483h0Xz6+elCk14J6OHwRxcsSH2V6r+SYTmTczwNiHJ5paZH8DS2EL0aLQZXMPMXinMXwiRWH7j2eUSPC9RLlJKe0MwtmLtWCocPM79CoaWpwJyhv+Wg5JRyK69RB9BSPF/lhh6gQ4aJJpZKSs6wO5/mzpIwTZbLDs34Cy0fsoJt22115KpLLLNURYip5g+w1uv5QWzDwRfzyMhpBy2Ji8yc7d8+l+mEOvc81J0bA9lYHRllSyzdPeyI8nWViU2M7gVWVU79qUl7P0fYe76MGFGKp518/bjdL360zH1TqFdMiNzkD69IB0+NSYyx+GLlzFY2dotitX7KN978WmM8e4EVY33DUf4iDB1oaQjo1XUAcRp+hRNUWl0=;bQh7T7KAYkmD/I+pgV+r9A=="
+secured: "6ciotGuH9xNA+hBURTL3cRK6Qk3k6W3Bq3be5yXT6iIVv/Ysh65euhj9dj1hX0UD+jyKGETFIGJqg1yO7605ZyLiLIX+GrTlHYOU7K0h6d2OmZ8+GcykQ9DhSC9np2PoPgKdPnQhSLRlBfyob6pI0b9SLvepzQRmKinb2w06hml95nUItciHi3FsWuQhqdmGhZv+3/wll1SPa4V9s8T61rrNLhCcCDB9hL8/jOainD3jwHtx6PafQHaFGYnZ5mSmWV9+jBQoYMyZFlgvCUtrgNsVDR3vKLr7C1EfX3WCxB5bnXVoz5vPW5NlENjOfyXuDv9PTNXgXJoXfr0V2vAdK4lsXXRsshMd4iSTjzvnQ6ILYDShcC+fiiJEzVDtUmR7N7pK8p0131uLib0iFMYTlw==;+rAj4pgCzjr4i+LMqBUIbA=="
 ---
 

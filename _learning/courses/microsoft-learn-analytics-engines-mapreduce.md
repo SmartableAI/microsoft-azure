@@ -1,7 +1,7 @@
 ---
 title: "Distributed computing on the cloud: MapReduce"
 excerpt: "Carnegie Mellon University's cloud developer course. MapReduce was a breakthrough in big data processing that has become mainstream and been improved upon significantly. Learn about how MapReduce works."
-webUrl: https://docs.microsoft.com/learn/modules/cmu-analytics-engines-mapreduce/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/cmu-analytics-engines-mapreduce/
 type: course
 price: Free
 length: PT1H47M
@@ -24,6 +24,6 @@ levels:
 topics:
   - Azure
 
-secured: "5hCTKqNFNU/eaRvjqUd+mVd2ziG3aGNBlrqHvcbUe/vlXz/0Dvqdo3mBSqRMBpejk1E5lnOqJuM5UsOpiGKBFNMp9IV5x5r9YsveHO+YtpEjLO+aUpdQiMBUwBysBDH8XkrOZK/ljrR3LOS4OvccmNFFoTS1FGpffpU79zp1xpxtR81dOIb2fEWZZCNEZKJZK5VrW74YOL/BWQGsLMzMvQ6nA8/vizLQd0KP37njUNcagHPPWp8yb4FiMCyoFHFMLMeus/atHuOsshpVGas5GPaGzraZ3DUAEyUgZa6UNdQzNACJRkz7zxr8887kakk41PiTUTB2hWExKCqa8kCatJRiYn3hSHwDIr+V9YNzpzMpsroI9c2fV09oi16EoIwbKiWvRN0sBhBhu54CMzl34GjFQsLGH/RYJVzXSSme27c=;CYDlMK49dz5igiyCb/+6Xw=="
+secured: "50D6ghwA01Gw6zOQHBkyBz4NLYq6QhB9oWXnS9R5OqMemiQB4smoRBvLQDeaeVpZfZ4vC59HC/cVLpKq4r/oWmCNufe0qH3l1KbOh8Yz7rar3VDLzcBX+KTbAkImNNCHDKrr+MVSt4QIPU9IEZvK2JU87OL/4N7UCKNKDV9ljffrn3SsLcGPsWG42LsK0l226Mvkz0Ert1DHBYUseY4aXNC0SJidA6sn8E8GdumlGNMNep1lnjgbYHHtjciDZCsVF/2ZADixIyIc1mQxljdGJkKRMDgTEHXWu/2lsgxxsiIT9HWvwcQcSb65zWQu6rUwnqLq0wAmhO7aTz06iAUuVjJoUcjad6+PSCqCZiZlc9EPwRUHHdSf3RWQJA/EsySj+mL/64oS/28Jy2iPAQ/I3Q==;K3pmWKE7VCBkG3hHpU6S4w=="
 ---
 

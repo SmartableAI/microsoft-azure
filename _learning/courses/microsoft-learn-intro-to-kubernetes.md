@@ -1,14 +1,14 @@
 ---
 title: "Introduction to Kubernetes"
 excerpt: "Get acquainted with the Kubernetes open-source container-orchestration system for automating application deployment, scaling, and management."
-webUrl: https://docs.microsoft.com/learn/modules/intro-to-kubernetes/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/intro-to-kubernetes/
 type: course
 price: Free
 length: PT53M
 ratings:
   count: 539
   average: 4.6159554
-heat: 53
+heat: 67
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     height: 320
     isCached: true
 
-secured: "2v65+9u6wcbbb7F2dz1kt+wwvthbJjsEYp7efyVR77h4w3CsAo4D/RBMukn5PUFkuCaULQHV+1ZD+RCMRtb4d1vhco/25vfvVpTxiS03PNT/ginWxkBy4sSvC6E4bSzzKmwAtye3sxXkvWKXgUHmeBgUxWtNP4lv7OE6l7PXpnGOo3XuBwR+MmF+VPoAKywR9Sc/O69NLx1DgdCIu0gURwUzC4tCBG9bGitp7TW6EPWa/Dgx5eLZsNNxcZHApyP8kxPdN8e2jJM7M/iKcnQ3j43Pc/zsJfXj96XPjyaWr0xstpvhATRjnifPskIn1+Si6lZ50cnyJ1CFcCvTimk4nwO1mwwUS5LWy/y9UmpJdCNO5XuCpvSXqmaNFcYZTiM2pj/ys9qBg2qH4C3Jsr7WbbZYoUJx02gStTF8m40HqDw=;/ZX6+/WCDJ87f2k4rVbLsQ=="
+secured: "71/YqFQFYGIKf89ycxO4i5HN6n4YZgIsJVM83Pd16RotYFZQ7bjaYQjkNfrfzUGiV/tfXtQqNFCCNK5zvtZNCuxIHJKRH/r2PjxnuiOnTOja1bDwbP+R+X7sn6xbtDrtUeSQ0aJNtT7eZnb7e2PRa6nWD7XYZO0YFEQ7Ao74HQRLszoZjYzFJOCgSJW+QQZgCZjuHfCiKxYnO2EjOAmAFcqO+cI09vlDxDYk0SGm7akTuhaxx4x6TBY+Y6faGULalOmytqe0VimUIwzY0kZa48C7nHQeP1LBEg+gvsrOlpL/0fZ+0DU07wRhV3RC1PMODuQGLGyn1HhUzOVK/5qDCKEAM9pZOnAH9mdgW1q24y75F4t9CJh0mfuSCUs4ogQG7pacFMFLg6+RxGPtzbJ6vw==;hMp1SjVdpcpWaljb4Ft67w=="
 ---
 

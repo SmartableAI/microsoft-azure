@@ -1,14 +1,14 @@
 ---
 title: "Virtualize memory"
 excerpt: "Carnegie Mellon University's Cloud Developer course. Learn how memory is virtualized to support cloud resources. Covers different types of memory mapping and related issues."
-webUrl: https://docs.microsoft.com/learn/modules/cmu-virtualize-memory/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/cmu-virtualize-memory/
 type: course
 price: Free
 length: PT19M
 ratings:
   count: 41
   average: 4.5609756
-heat: 50
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -30,6 +30,6 @@ images:
     height: 500
     isCached: true
 
-secured: "RtcxnAB0dJn/7E/V0RIUlHaUhj3N3pWHpV2+eiH3o82P1yD1yoGkPSxN4X6g3tT/oL7VjJfOuaj4jskrqkPIoYzFGm14+0uwD0YrfxqWmRMpfKUIlu/dNegDrnWtgsypaylL+XkKwPVBhxoetNlxftJnSJxbjNthLSNCOR2l6kGpkyQffySeOS3KIg39XXOmz6o5/dhnwA3ohJKGs2xf83l133a9ir7ePx8bpEMBXnwC2HVt8mu+4paIHUDJsx5+m0xBivSSxSM0W5PB6d6wWHZAYcZq+nExc11bgHs0MBMXalZ2SPfjIIqJ/ZX5vSeIIw53Ke6x+d+/UUolnxBXln6ju4SxGq4wB6nFkToi6gQXc4Id4PO/3jdMBzTXxxI0FPlNbENLGYgVoyPC96QaGXYfcdZKhC+pKcbQsqT7hgk=;IVxQPO/kdKYk+6sOOC0tjg=="
+secured: "dm2aVU8P9+bvTxz0e4mW09YM9c0NAvFqHpoy0PeuRRIIVZwpNz10cwY57HaBCRZDlWhyOKlji8HXWlBGeF7o+UgntZbDIqEG+UA6MewT8U586EW12+pY9IuEHU+fZ0HLuM2dv0gphRQtPAeVTkH8HZ8dnXZYd4cGGBdAWrJ0hC7d1pLPSw78WAe5OfE0WlS43T4lGr9Qz+GD5V30VOcu0odsgNVCigUYJ3JoWjo42pZf8IJ0yehVHTIXEO58P4QEnyyq6WoO17jqLkgwxQZ80bFTAneV0mgNS/NLYNM35J28cAVEioWDrz2sT8/ucD91oKzDdTAV7amETzrAvcTaFqLrELw4BUlbwfAEv7USGCa7R/yMoDYtY/eo/7Eb3t/UZOgPArnn7Z3x4faz2bSEPw==;DYrZTtXUNoODOItorUGUJw=="
 ---
 

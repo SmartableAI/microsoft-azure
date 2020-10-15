@@ -1,14 +1,14 @@
 ---
 title: "Choose the best tools to help organizations build better solutions"
-excerpt: "Learn about the tools and services that help developers and operations engineers use build modern solutions for the cloud and on-premises."
-webUrl: https://docs.microsoft.com/learn/modules/azure-devops-devtest-labs/
+excerpt: "Learn about Microsoft tools and services that help developers and operations engineers build modern solutions for the cloud and on-premises."
+webUrl: https://docs.microsoft.com/en-us/learn/modules/azure-devops-devtest-labs/
 type: course
 price: Free
 length: PT21M
 ratings:
   count: 47
   average: 4.7021275
-heat: 54
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     height: 320
     isCached: true
 
-secured: "BaxT8Gl3NIvr1UVPBE2HDJkG3sMnc3J3+xBy5kML9mN2jAWWwjgU/84JUGbj7R2bSq0+pN7pVgQ8QYSbVt18sBzwB1nkifCw+GHrScC2VhhX91wJdmBrtR7y8fpF2LCkpocRPYxRT0RJuUK0GgVzqcfrKHWId9FSlqJM+hheFT6+J595fHhDieEFk84klMtNgVmCKglFap2+M/p4fanUQajEUf1M5a0hL6wPOD0hKLi735jflrxH9U4/lCpV0GyNqmQmqtqDybtxO8wJdPAJuI4C0OUnhwuB47TTLeZbyZ4lvqBPBFCY+VnFgHIqEblZIhHl3gS7QkgGbIQjwiUTqv/t3iDxMdgP3BiWUpZbZVGxJq2BhzXKI/s2/8MXQNB7txKtEjklc4n+qd47vCgnqOoe9vh6Qeu2Nnh0wd5aKiM=;pfBML0uwuhykDjQN/RmUPw=="
+secured: "NlWOtPX9copGLNwX3Xwtfr1DPyxaIqq0PtzzdqH6Kns8PFqrnJznyLmmg7hk7PBIKBNpJQpESqGZKEqL0xhx4n6Zfy63QO/NaWKk49g3Gxvd45wmSP5Jc/bHV5pd4H0/vad2u+u2FmnXh77nAKB5G+pp4h8s484ZL2JwPrOgtwduvU0Xe1jMw5J04yhcM8yXD9YUASMBJ2D8f6coCrtvKLyabyDaCgqkor/cRvLsYgELkGdM10xFxOcyUfFifJcvDQrbkbbtYdLytqYmwoTuQeD5CvU91nIEH6h8lJQjzjJKOHuv2HfdHu7py6DagdeHkw2+xOxlcJXUhswUzwGkxce1NIW9jjxwvwc5HRd7ByVMM3aUYyvZm8k+dDM6hbhSCzXsRKDTdkZElGLr5s9jWg==;+XVo4YC5KrBbJvkjoT1BFA=="
 ---
 

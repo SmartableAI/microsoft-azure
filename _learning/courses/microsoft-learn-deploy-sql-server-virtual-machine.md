@@ -1,14 +1,14 @@
 ---
 title: "Deploy SQL Server in a virtual machine"
 excerpt: "Configure virtual machine sizing, storage, and networking options to ensure adequate performance for your database workloads. Choose and configure appropriate high availability options. Investigate options for migrating existing workloads."
-webUrl: https://docs.microsoft.com/learn/modules/deploy-sql-server-virtual-machine/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/deploy-sql-server-virtual-machine/
 type: course
 price: Free
 length: PT60M
 ratings:
   count: 2680
   average: 4.783582
-heat: 53
+heat: 113
 
 provider:
   name: Microsoft Learn
@@ -27,11 +27,11 @@ topics:
   - Compute
 
 images:
-  - url: https://docs.microsoft.com/learn/achievements/generic-badge-social.png
+  - url: https://docs.microsoft.com/learn/achievements/deploy-sql-server-in-a-virtual-machine-social.png
     width: 640
     height: 320
     isCached: true
 
-secured: "tI2G8eWkDJDGo0LvAgLn4t5ua1XgSAPpjlibPAy9jMz3aGIpBkjGNkeLwnVCGpkaK9DRlYZo/4jdQYQuBDYrsuCRcHZTVkLe1ZnuAMV8YHb0mn6jo8wMwqU2LizVfq0YWeutNuKINh136BIlB3Broqm/TOsrk5lzV8FKkWZQb112u0i07XNUwNlt2t4kHVCLmVpAMzj4m+bcHGkXzrZllkEcTh1+lUiEYwHTLeridhLIl3/wNDSYup53uO020sezG1nmAw0r93/D+npnbDyTaNzmFuCvSKczOAlYtCOAEzUxonfQE+TFQ5C8KFst8mttkDldnI6qrxpQTIygJ5d4PnPzyV9uuA1PU+WZQQ3/IU6MenvOBH/ZL39JR/jUm+u26DcvlhMNpIqMqiLVzfI2scFmRx7NyFpR6vfjzQ3zpHE=;2G7PfQ2FcrzdHcgAN4R7/A=="
+secured: "kRZvUxSS4tUt926LsPL3F2AvvKrvKrQeOPmhjL3HrEIxoiyVdXYRg8Gxd24IGXAGfcCRESXZnpql/Hmsg0651+7taUhNsp3j5NS0XduQO+JVVzUIMzKKBDj0RtXQLbfl/xy7TXDWbpBpAHTALpIMkPgXDj1Eeyr1YMzjJvyz/jEz/vEmoV0edZpOL9YuaQdrGueyWcWo/sf+/naJEL1qFzsvDUNwZOhch+hyNbPvAGNPTKkfAK6ktc9QfGnzfpf4ZP9XOxcEIc9jANc9UyVAEAX0/sNkPoRX4YocOZq+FyIrK7BlhTZlShbryW4twIWdluyWMnRplMFtA7GA2R0aftlbA5VkdI5aZJ70M5Sft/py3Sq0qsQVR+HfBe38HToJ3cWOF80n43+vE7xjhy2rNg==;44II6Y/mbqwULS90CF24Gg=="
 ---
 

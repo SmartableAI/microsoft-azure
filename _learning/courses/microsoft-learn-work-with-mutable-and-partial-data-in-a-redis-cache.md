@@ -1,14 +1,14 @@
 ---
 title: "Work with mutable and partial data in Azure Cache for Redis"
 excerpt: "Learn how to create transactions, manage memory, and use the cache-aside pattern with Azure Cache for Redis"
-webUrl: https://docs.microsoft.com/learn/modules/work-with-mutable-and-partial-data-in-a-redis-cache/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/work-with-mutable-and-partial-data-in-a-redis-cache/
 type: course
 price: Free
 length: PT1H5M
 ratings:
   count: 574
   average: 4.618467
-heat: 52
+heat: 68
 
 provider:
   name: Microsoft Learn
@@ -26,6 +26,6 @@ topics:
   - Management Tools
   - Databases
 
-secured: "gDx9k4ZjkA2SEkknzuD87x5Yw7nlIZ3rsTTTFTtZl1T64CIlKbM3L68t5KpaCgV38uUSU6xT6e1otscnWldM8+unicCFWEAIl8VEHXn9BrQN3skxb92o5WK94VXEdVjY4f7otcvq2QXm//lehDNUCDysRMWCEmWk2/wi2iE8EW8sGEXuL27GIaPwmvLfQRuPf1hDL+UFQgAINvBDhbX59GVhZqVaBkOoYlKxmXsGAbuU/kqtMXk1H1nQiLU/gIphp5CK/6rBGO7MShOz2t7EGG3LxYQ64sFfDCc1m0fgys+gg7TucvDHTzGyQfHZT2FQVgM1dVqCVx0cPU2XsmdcAmovEfq2mRtQ+TOysoWfH4u5vRv8uuPWJYt+XGsuqX1sX8wv+dFBUu67iQqnrkvlogsLC2kJ6ZNfA0RgK3LtLW0=;IpDN1cebowPFkmPW+NTB2Q=="
+secured: "Vn8xcY4gTfhlANVdGZyO5wCyXQbvw4eTDk26ipPDsXimfA1Uk5XZmYGDtciyXenIaip4kJOImdQglU4R/si48N25RUrGDYBL/Cd4fqWok6gepEqpFLkgHXEnJ0AgiYhkOuhNUen/QYVseJRk29YA1Gk2UbyzBQ03vO6UZ6aFtnihOPkHXg7BLrWZbKJb7oVaGLxm9+DCg5FcpyI7ZY4HSNQ+J5YzYc5ijUM55fzVfDbKrU8lemT9L7eF8CpPAAIPZyuXN4sJ7IngCkT2z+hAJOjGnsxs5vnsajcE/jToQE34Htj28oY8UoQnTgn2ckns07wF+XRmKnhhXdC2+zH0/dGE2LABSqiDe2QLGPnJ8PWAxecvuFqVs+55MVSevI7cL4omyOnH/1pKYbq498lNJA==;IAdomkAYcqoyyk7v3wrcjQ=="
 ---
 

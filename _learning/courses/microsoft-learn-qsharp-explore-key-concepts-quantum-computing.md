@@ -1,14 +1,14 @@
 ---
 title: "Explore the key concepts of quantum computing by using Q#"
-excerpt: "Learn the fundamental concepts of quantum computing by using the different tools of Q# and the Quantum Development Kit."
-webUrl: https://docs.microsoft.com/learn/modules/qsharp-explore-key-concepts-quantum-computing/
+excerpt: "Learn the fundamental concepts of quantum computing by using tools in Q# and the Quantum Development Kit."
+webUrl: https://docs.microsoft.com/en-us/learn/modules/qsharp-explore-key-concepts-quantum-computing/
 type: course
 price: Free
 length: PT58M
 ratings:
   count: 24
   average: 4.5833335
-heat: 51
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -25,11 +25,11 @@ topics:
   - Azure
 
 images:
-  - url: https://docs.microsoft.com/learn/achievements/generic-badge-social.png
-    width: 640
-    height: 320
+  - url: https://docs.microsoft.com/learn/achievements/quantum/qsharp-explore-key-concepts-quantum-computing-social.png
+    width: 642
+    height: 321
     isCached: true
 
-secured: "4aTpU2iAndIDsowjNCGVYyI8uO3B3kzJrHp9nNlux0jDpi6IRwsyTFuiKiSn2dYmvpsLYJm+4jpqY9oPnFdipfY3tLU3nCNQGW5RR7VH4OTlJySu560HXDY2/AJlF7L6qEiQeKGaPgase8xL7uc8GmtUz5QqV45Vl8e2Sn+TOAF/pe6OGaG2jvyX7wZw6zsbSfqGrneDH0oMjnZANwx1L0UIhMOWO2XGA2eOZORTog2sjhr+rEW+OdUqTMhrrFDKPaNknt6epg6v4BDtKt1pQEN/6VPahYR9oI0rskQ2kpNpH75gouMYMV1SL2pvGassCczaRi5ktJjsia7bsRwGy5jlQL9mWiYq1b2Gdxkamatf2vyyP4dEZfwrJ5U5oEY6uY9P2KGueMctazjJX0Yqdrh4avoveczwGAQ0oir4U78=;jLLTL0U7eOKEC5kBfgVfPA=="
+secured: "HZuS5H1DZ3jIgCosvyZeoBJ0ZN64XrZjs5sAAS9ETAHhMpmDcktH16+r3oRZhmyRoqgVMuIohaIY/L4iMATLIhRBxbhuNY+YXwCTW7bJi2pGa04dF+SP5l5xmvbWubMo2JbayZ2ZlxfqCNLsnYX66spysAPLDsGFzEDDM+vMrMhRM5KhS7Y+97Rq1ODuL00sAfrm0VINsJ3Sdb5y/2gdj6e9Sfei2rD6hybOlil7kNezXPx3chlpjLV3M1/sPpT4j/CYxRSPac4Vwqg8Px9MoGPcdK1Ut1ln5wYW6b24VABZU+F5JYRaedolnGh8YYhT22tmOswxJXHTvRC5WjJiYG/i8iG5ycULqbfcu1fMhbsYERtikTEoRemUh76EpLTRXcJb3Gz1Q8LbK1XLC+zXLg==;rpGVZu2a63hQyt079XM66w=="
 ---
 

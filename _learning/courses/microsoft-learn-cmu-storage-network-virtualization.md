@@ -1,14 +1,14 @@
 ---
 title: "Storage and network virtualization"
 excerpt: "Carnegie Mellon University's Cloud Developer course. Learn about how storage and network resources can be virtualized to support software defined datacenters."
-webUrl: https://docs.microsoft.com/learn/modules/cmu-storage-network-virtualization/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/cmu-storage-network-virtualization/
 type: course
 price: Free
 length: PT54M
 ratings:
   count: 39
   average: 4.6410255
-heat: 50
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     height: 400
     isCached: true
 
-secured: "HQqKLTWBM4FmPqNjCEdUos99QQMF7cJn9P3fG47gNyaFYZ53GOOCc5eUC5vOTXpC1q6d7ibqwzqmGgxLpjC9DC265OFNmqvjzfd5lFdcRS2DELQdMQ8s+ag+iAk+pV3HuMxRU2ps9XZYruifyJL8R2S1IQt952unCbvFdJvd8n7A07FRvTUgaYJWlNnbkKS1p51dtgM1vHyPJQ/2bHSAsQcveN9PZuBFCHuq0ABfsYdswzVQNYD2Png2ZkU0QWitXqXTrNHYb8ktwb+/Cykzi4YkWCIc95bk1mqBPib6sKstKwlOfoYD78UT+weckptnEByMwATvXhkI55W8b5iIFC/NIfcHhnNqt1wszNzztDkfJ+o47id/Jo7PonzKiKUyfwjiCuUH3UooVMlp0RkCg/Be9xgqxrYtG55fQ4GzUpY=;zKzo0B8rn8bUUvUwOhLzCg=="
+secured: "g/k2/HtKzmE2SYTqB+aqUEsTZjEZnnU4z8u6+l7ISPhZBWlvON86kfbD1aCSWFsszRwD93MGoAjZMtab83UXHZQx43mM4Lw7+WZtIlXkj7n6Yw8MH0YbkqDHxAhwnPgiGPyt/m8HtYTzo67V0u7XJyD97sVHxsHbO6hu7TT4IcORylE6o/sTk2BIMZnLMb2rvJySD4/9RlZjo9VpKtueMxVNf/SMT7RgE/c2yQRE7nyiNaKKy8LcferEph/qpyuHON4eeNYNsmzaiVIxDCAVkQqBgcjdUB4VSx5+gwwnGCc3yPR9V/B7OU1tNDpvkMA/OIdAohwzVa/6cIy6uFSTzYyVlGW8zVS8pdY6wqmaLmuJo8iTg0qZUUg1hv1EbJpmde+fhyIv6ry5q2cjtJInIw==;EbDsLgm++gEIZ5nXt/mfAg=="
 ---
 

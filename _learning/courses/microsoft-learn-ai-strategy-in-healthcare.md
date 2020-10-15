@@ -1,14 +1,14 @@
 ---
 title: "Define an AI strategy to create business value in healthcare"
 excerpt: "Explore the strategic components, special factors, and use cases of an AI strategy in healthcare that creates business value, with INSEAD and Microsoft."
-webUrl: https://docs.microsoft.com/learn/modules/ai-strategy-in-healthcare/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/ai-strategy-in-healthcare/
 type: course
 price: Free
 length: PT40M
 ratings:
   count: 659
   average: 4.7830048
-heat: 50
+heat: 71
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     height: 400
     isCached: true
 
-secured: "a/O8Bh0vER58cigYB+2pp+tUMtlKFt8ajVbXbFgnxDy9YJtbwcVIbC/1Dn8l765HLETr7dYvdGyhAWjz9K8s+jCe4sfwTwkxxSX5e1vsaKAP8UKqF37zJ5ZUEW2t9IZFIuRyy9/SJzN5udRiBpZHZgOaQuKM+zETDgLXbd8UbuQg46YIAT2/EsHzoy2T9ASvPa9zzM6Mf14MDvzLdypgtNFRvFCxTAzqIo3Ywk5Pp9ehFGrmiSbNn3BjiFLji2lMHBZxF3R88sxdbr+AjNUr+Ikd6fwXXBD/C1Vb5q5Xhrsr8khSdkKBiTVaHQ1ZO2urWHh1hr948i/i0coKo+c6BP4fXKylpQUGzW6pSfNhx8UcPEVoB0YXh6pgOtFqVis6nBD9KVTJ/42tBvW6+t9aPuYf/5VaQE1mKbpGYYLPWuI=;YRQEKU0dqNhK+qPAfmpSsA=="
+secured: "KF4dcRoeWz+FQcEc7Mo8dTOJ3vGnkJfuQRw3aAHyC0ty+TsvtSxqo93FH19YT2kuh47guTFwVlWEyIt3kyrUvHFa/vfMeYJIEWrJ8hrZ75lL3Vw68ySaFyL4tVIxpRIkgECvQbS0yPYXpxfYelJXkMgj0WGnWFw7yiTy6uMN9mgfGl3cNiGSmGrUplPCdvnj0jQ7JTO/e0YfONa1w9zjvg4sXKDXGDjo0KUeTsG1V7U/d5zpkeqs5mJVQN+FttdWyRj2UwHzIK5meoh+ruyic51K/1t1VSiUTTxt1z6tdwm9NUnoA3lR7PhEMOVS5aDBK/9Pbgw7dVLfxBfgLXtd0+RYyd3LFF281GZKTnGrB1BnKR5KMExQlC204d5Et6c+gGUtDnft12iRtZE5k8/jUg==;0xw0OPhWN1PYduucmFoM8Q=="
 ---
 

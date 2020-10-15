@@ -1,14 +1,14 @@
 ---
 title: "Protect your virtual machines by using Azure Backup"
 excerpt: "Use Azure Backup to help protect the data for on-premises servers, virtual machines, virtualized workloads, SQL Server, Azure Files, and more."
-webUrl: https://docs.microsoft.com/learn/modules/protect-virtual-machines-with-azure-backup/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/protect-virtual-machines-with-azure-backup/
 type: course
 price: Free
 length: PT35M
 ratings:
-  count: 4376
-  average: 4.747486
-heat: 60
+  count: 4377
+  average: 4.7473154
+heat: 135
 
 provider:
   name: Microsoft Learn
@@ -34,6 +34,6 @@ images:
     height: 400
     isCached: true
 
-secured: "lka2wgSxB+I9DmpPOrxarQediTvX+aqtMfUKHKyjdwe+HvztfNnDhcSG6WByHAbpmwqRGix0aLbqe9pajIfm6iYHkvucIHfv3iqJ2IYJ/4SFBrDaUx1MKqm4o7ER4LTjMZzg8JnV6ac+T+JMjkiL56ppinbWwFEdV0MZatOGSa2Ipm5z0gMArKI0UfcQDrFcuaFEgxwq5Fod5zPhrhoZC3zxlAKI7N632dKUKO9U8ZFOoLxqH3dnUsAKNOj1ecvSnTsVDlf+b9Qn3+2WLdXscCo3oJYur9YtNYR0L6IjrqWLIfgE5eXeGtgW6CllnJEGmNGfa5eafQe5Dmq83uMXPgxYCRlK6Dkuepz0ZB4ShpjNbnfCQQ4AmILbwMrNXxIvnpfVDXqxO7j9uknkKcB/romhie7I+e03OxcQtXoJg2Y=;zjez9hi9x64N6AdaPe/Fag=="
+secured: "/c6KojGRtBFkLvaG74XmAAPUvlWMA9oeCnlZYWmQVpTO0XhZT0qih7dzHY/FxFnHC8J+oVJ+Mp2IzN1lrswQPLM7pjoichn88HyEDQUnuLYlDbAjwV+9VQZ4Wz6anOwyV2jjxsl4WlyQYqOzptJrvfMdpNuBrXOBtn+5BbIk76td6RKhrwKLlgUs0CL9N267QaHHXhc+qgLSOMy7lrK5fQyRN1ynKjrlUb949fQMsb68tEUo5sfXzGo0aVOapsMQlR9ueYGxVAxabxaVWN7E54Gpy7+L3rsHAWEEqcm/MI+hBS/ABiyIsW+fQ4lVomIHYfch2dlChTWJLx50iYNKaNCa995PeKV5/CdDnUO5kVV+0VBiwjMIgGXZQdU2jN+Jl1zOnAzc+5jfV/I06uF+aQ==;LqYUkvCKurkShJuR9gRXZA=="
 ---
 

@@ -1,14 +1,14 @@
 ---
 title: "Introduction to threat modeling"
 excerpt: "Explore the four high-level steps of threat modeling."
-webUrl: https://docs.microsoft.com/learn/modules/tm-introduction-to-threat-modeling/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/tm-introduction-to-threat-modeling/
 type: course
 price: Free
 length: PT27M
 ratings:
   count: 333
   average: 4.744745
-heat: 50
+heat: 61
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     height: 320
     isCached: true
 
-secured: "JN6Y2rRPYG0cx87hkO7f+NB57D7V/vkEIpy1DurLzCWaDRIFMq6JJIs1vqzqdwLvhKqmh5dSsSPdbm0w10fW2NtJRjg6QndNraLCrISaToTlxLcvHtILRM/GZzhfqKc2/YRF3z0W7ULYTPWpR0hLKKU+GxPnvmfi+IbEHOQ7ViQOkRu+1jIVBXEnKPLncfKRe4WHNI7jaRi5tM4uSUlDoAEEXi5rd1CvyTk+RuWBL0XFqEjitPtp/3zF98Z2vMhMgGSQcBqjhvyraYtb6YSuk7U41YinGZzh7QbKluXFlz8F77vSQtaE6KepdoC7be80d/WdX/t07O/l4zyECu2sLmUD3T9hsSme9H72Gotq2USNQUh9e1BNYB9xBbriqLDwItovMDUx5CxRUkag0F7CPAOkJEScXPQEKTpqae6bxss=;4DQnoZJKJdWJ4LRTo59fpQ=="
+secured: "Fkp22lnZeN15d425ND/N4FaiqAVMEn6VQzUChDoJC4WzJQHK/PjrjjLo4XPkRF4oPJyn3oZ1JklbaMIVwwbTHcoqeSfM/zxamgug6ErlW5aUq8IZOlhsFN1xcLH4n/Qevg4ICmsZ0YyEn6Vku5h7ViNCeEwn4ciNKlDL4v5Hg9uYRHmJ6Ps24zyJLCxdd90kMpny3XTUzajVLIymq6oSJZ27mjIqyiNGDnukoTNCVO3HPAx1p9YSktXXZhLKRuwf4Vvo7oygwXI4M2XrYdk8rS6nIbDkIwDm5qeJkT43PMDLJDKwH7AMMm5cHzIkYQ+3HOEO/YYXSwz8Ix5bozAdheh2x0bAtL/MggiuR76/hfwjqpPfLhMmwkLH4CyVGynoxPUnYnS+z95ggE3rkuLsDw==;U07dmogApRpbXLD+bwqRdw=="
 ---
 

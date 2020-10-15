@@ -1,14 +1,14 @@
 ---
 title: "Introduction to implementing lambda architecture for IoT solutions"
 excerpt: "An overview of the concepts and resources behind storage technologies used in IoT applications on Azure. After completing the module, you can determine when to use Blob storage, Data Lake storage, Azure Cosmos DB, and Time Series Insights."
-webUrl: https://docs.microsoft.com/learn/modules/introduction-lambda-architecture-iot-solutions/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/introduction-lambda-architecture-iot-solutions/
 type: course
 price: Free
 length: PT28M
 ratings:
   count: 382
   average: 4.5994763
-heat: 50
+heat: 62
 
 provider:
   name: Microsoft Learn
@@ -27,6 +27,6 @@ topics:
   - Storage
   - Databases
 
-secured: "sI4clZIC1lhIY3l3dVdwBzli9uwlmkzrKok6fKC3Jk9rqYtW3teJfZYkCO4W5H3iW5EjInkNxGwTpmCtif2rRD3+BzWdRoo9O3pJRKeBSz05DyJIe4UavIp2x6iyopuSJQfzi/dB9SQll9joAD49ynz7PH8FJsIF7L+V7vdr0y/pgz18LUUrzcG/HHyGl1b6rcmb4/nNZcntOBFMrCoyKcaWMT/qNq+4sCtZuj+Wh9NeGn3AtJnxljkRzPv+8VBAIMmDJSJc7WsCarb+fazZli8IrLPmIpXj7ZXbHtAOMz3uDZgqVqdF5FTagZTLhKpqbt0PJ9b6bKiP17K224O8QV4+2t2id8N/Zf8/rZooA3yvULGyHcfAy8hT5BO+Gq0Gy4cButZpwu0a+J1kuwsu2myB3zH/IyM9wA7fyLMUfc0=;vPt8i9wila4MKPssaEIpCg=="
+secured: "Fr5BP9zn0YvXkqShDMAP6+PRbxKpab4Ir6QFKLfQXbrpsJsH9KKQ+lr7SRs/IjpmerZxH/m/GDX/xubxsxXD6Rhs4/xtndDzHLxLkYRDu+8I1PQ8J3vXEoWzzC6++e//u0CtrhKouiafKx/2U3v4exk3YnPGLbfodNLLvZytPMEPuI7BMO7LvNtFQk/l3dQ27FugZCaQusmgyyy03ys6nnOCb6MgPqirS+uWVAfHLAjiWiJj1TyT8unttwmGUnAZ7iiKeS9KFKZzPTsFiinZpxA8JcLkUVtHUyT9C9u9ppLMvdXE77XnTLbu0VPBJWOf1Zx95rnAgxk0Ks1tO9q9KMv0H6gCJ/MSBMi1TrJdfjQJnC5zqb+YymC9PYbU52+6eu/5MT8JKjVE/mTnyBAifQ==;tzowdQfZ+IdvtXR33KvnUQ=="
 ---
 

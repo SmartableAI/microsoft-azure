@@ -1,14 +1,14 @@
 ---
 title: "Microsoft data estate migration and modernization"
 excerpt: "Establishing a modern data estate is a foundational step toward digital transformation. A modern data estate enables timely insights and decision making across all your data, and sets the foundation for AI. A data estate is all of the data an organization owns. When you migrate this data to the cloud or modernize your environment on-premises you can gain important insights to fuel innovation."
-webUrl: https://docs.microsoft.com/learn/modules/data-estate-migration-and-modernization/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/data-estate-migration-and-modernization/
 type: course
 price: Free
 length: PT36M
 ratings:
   count: 4319
   average: 4.722158
-heat: 51
+heat: 134
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     height: 400
     isCached: true
 
-secured: "QawFE2oaIw1kRekP2pLiX+AbYM7vkEpmPmm2csQDVR/3OcmFgkWQlpnfvd2+A1bY/x+3NPXNRXJeVmNEkEX3sGKS+XGyDGzDT/q2ArmgrP2M4S72e6njRz2yiN6vHqq4/MbMpOaMujOgHEZbUCQHUO6lwwBSc2j4a/P672sXL+YspGjTTskx7Di52zE3tjKM+Vji/nBiV92kxH2wr2Dq9yCA2WF9koVkdpEMuJ0p5wFIhhaA71ki16ZosrQiZCVYC85Et3OLpJ1lZIoh3pH8lavKEYJ1IHjvMUlaOwDyBCNsFjyarcivpriMEKvbAKsADI5E0TQJsXKOiWawZt5mtk3S833alXiW7xSF6Zn9CGViq+QtkZJqbjnp+hzG2Geyxk552nM8nGe6lhOvLCHIE5xyrYYzHCB5I69sUjqeLRM=;5baXqT542NgbOYt4fWMJDg=="
+secured: "0t7JT9pUEVAVhGO0cEnO5GMIz7YZjvpF7ercUZsor9H7A6vZHO3H7zWSubS8gdsJb/XRKpY6rFY/FgyY3EhDYTdiiTzA7z+Hlhf8qv5fsZsYNUBkxdkTPDcI71JhLm2BUqfEH03eqbaOZAmySULsAfp3YYXBvsJAXVhKxLwPfqJAyadCXh3dM7j9UDmvEIN7Tw0NQ84pWqvYRve1oNDO6R6InXg60ZfS+K/RiIdlkaNBUPReLN0vNTTXcVz4EC5kmiU4p2GN4JCKAbYZWMu/BqyA+Zn+ePiQb1A/TS88t5rMQH6QEd48qy7Vmjc7DS0yaROHa1hk1/aiFM8RdtKMeLgE8CyRK3sRurlj3B+LVkQUZ0UfDdM+pw9ykVm8bWaVqGtUOkrWXviWN0QR3UsUwg==;G3F2O6inB+a/dlRXi4obcA=="
 ---
 

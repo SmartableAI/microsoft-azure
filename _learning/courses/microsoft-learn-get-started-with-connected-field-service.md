@@ -1,14 +1,14 @@
 ---
 title: "Get started with Connected Field Service for Dynamics 365 and Azure IoT"
 excerpt: "This module will focus on the initial deployment of the Connected Field Service add-on for Dynamics 365 for Field Service.  The module will walk you through the installation and an understanding of the components installed as part of the out of the box template application."
-webUrl: https://docs.microsoft.com/learn/modules/get-started-with-connected-field-service/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/get-started-with-connected-field-service/
 type: course
 price: Free
 length: PT1H6M
 ratings:
   count: 82
   average: 4.707317
-heat: 50
+heat: 52
 
 provider:
   name: Microsoft Learn
@@ -25,6 +25,6 @@ topics:
   - Azure
   - IoT
 
-secured: "TlB2Hbkm7WpizdijX6ARO6235RzY/CVWS2WvG4TAB7dXagtWSXDlwBS2icwzOaDzqIwCPJzyOzaygLoHDhQDHEheFPwl0k+RBPZ50x3HKFC6A0EQ/AFNxfV+kkkN/mYWw/CIAzCHzJr7pxVfCtgn0VZ3ip2OCnNa07HktWrj0kOP+JIqJl3pP8PKjTHi9ykgm+elwzKrwyNBUHKmn4SgqY2/3Q+5t9dsaLzxTaVJy2B5HJE4nX8EjIQfy9QWARoecMpDGzFjYmMNH99kTo0uA6vuet4IRbD9FKOyvBqeppXhgh9wxeXYzf5aMzq0ss5KjdEWgBSPAtSPJTWKBI3iAJE1P7uY0hxMjLWf3e9wFRp3kjS7vnofZKp0W0vw97hjlUK9HCc7jhSZXTPMYTqD0n8sRbRR+4sWYZf2IIUJYbk=;PgbVP8uFJv8rnaPhPnCqgQ=="
+secured: "Ug3iA0+dPynq9bPJL32TPI8GEbSEMhGvNJew2bRgqWywLcLpDlJhFQn14npOLQzOS8RBDk6js3TGjnfNmHIQCY0HkMrvla6CTJjEowtNoK97dppC3hc76LqczQS5setYxWx/YTeaF0d44QRDts339+IaJYeICR9K216Qpad02900MOx1sBIR/gfMHZheKLJzuo6fSrcU/lyu9DHOBvX15GVAR3Ty2MVwQLLZqtkUb4xoMOH/06Cxvq0oJRaUqvh8nU5P7fZOAvukLoSrHxneXvJWEvgGNxYlY6UN4X0UevdX7nGWr+fZ2OgC/nmXid+LlvuqIty5rRRlmPKEMW5/i3hcZO1EpQDxW/yYzGawlfaSGH6LuxhD18YHzJwl/rselVXIfH6CSMV0NGoqKYhbMw==;KJDsn9ReSUzaK74gcygKbA=="
 ---
 

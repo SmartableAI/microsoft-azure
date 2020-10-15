@@ -1,14 +1,14 @@
 ---
 title: "Introduction to Node.js"
-excerpt: "Learn about Node.js: what it is, how it works, and when to use it."
-webUrl: https://docs.microsoft.com/learn/modules/intro-to-nodejs/
+excerpt: "Learn about Node.js: what it is, how it works, and when to use it. Create Node.js applications using JavaScript/TypeScript using Visual Studio Code."
+webUrl: https://docs.microsoft.com/en-us/learn/modules/intro-to-nodejs/
 type: course
 price: Free
 length: PT20M
 ratings:
   count: 445
   average: 4.7865167
-heat: 52
+heat: 145
 
 provider:
   name: Microsoft Learn
@@ -30,6 +30,6 @@ images:
     height: 321
     isCached: true
 
-secured: "q3v30izOtWqCOKh36wVoaEczA42q2rQiPuXeRQ8ic3bZYW40mi6r2X5xX6Av6tYnpTPtiVxt2AhTrUcOC/pMbvD2m7/1crxSDutaSeumvjtUHJoH3M9yB5uQWQwevlVZL4fL6qDGvjMG0fEQQ2mczoOzPU/URqSp4CSFNNuRKD4Gt6u2p1okMNjnG38P/Gm++ax+PCD7fFASgiNTzRFPP7hIc6zK1ThqQkrlu4Wx31IiMXlFTKPZMe17nGgmLrvlNoWTOr+uMSWmMbUFJ320CQCtwQlVn+kHP+2ms8Cj/luSCPXMrc6Ui5Bs3HjRBZB5eoffkjQMbSHJv1yjQvvROhYoTOFvSP7pV5bGxHeP2g/eptWKz/ZUG/GETZ91oFnDie5MU56tM5hoxRvumyMIBmLNpwZhA6fzNYh4YPFBJhg=;5652IcHHdu2hMEpYTufbjw=="
+secured: "9n3GgYnOP7Di2mSY79DcTLZLYQPRUt5AnaozNytdWUhcNjY49ia6CVwIu+794caSQNnlpbmMwH7hZSA2d2BAGrgae2kOqybkp4oRSozCw7MC5XCSY8mMKOEnExnnu6hBwMuKCWt6fNanhPcXeU/WyWHHHDMPfslLumEkR97D4QUtvRL60ZgvQBHg1SxJ+cDWBV5f4SXSDGoN6bXnMeYyEldGW17gBpcFxkg+kpN32FYuVxLCG1zC1A/YAU8wph7Ot7yDE/RSxIjhynNjtH2sjpWap1VdRlcJGZD6+CU/aJTcMBftKckaNpPKL25ajj5zGDZQIDkE88FIXVBRuvvmrBK+56Puvc0i0bkfnMfOpNkfEu/3RB6m3/f/TOvIaSD+LpM9e/aEfpk4RX6mb5AEhA==;sh7SGW+Tf6vkQOVAtbIiwg=="
 ---
 

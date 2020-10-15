@@ -1,14 +1,14 @@
 ---
 title: "Explore data ingestion in Azure"
 excerpt: "Explore data ingestion in Azure"
-webUrl: https://docs.microsoft.com/learn/modules/explore-data-ingestion-azure/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/explore-data-ingestion-azure/
 type: course
 price: Free
 length: PT23M
 ratings:
   count: 260
   average: 4.7153845
-heat: 51
+heat: 59
 
 provider:
   name: Microsoft Learn
@@ -30,6 +30,6 @@ images:
     height: 320
     isCached: true
 
-secured: "GG7rHLjq3WHdfOeQ0A4m4EhCb/OASY+2Cy5x77emcpLv68+XgC4g8Ux4Wko+lmd1CBY1lFWNeJW/KecnivY2sRBbP4AuGORFTdNhpROu+7j1X40w/1Db5nohHY+CAoWVWk7No73R7+DxUoOQHSR+av9Md+2iutTMuEnAuwHi46Jak75/rZ78a2j4c2q12GIGWcqF79RLjz61gI4kn5ZlGg/oWKfd31m74CsBghLIdHqftNOYvZFB1rxm2JYZaGhlAmT0JWL1gF4Rlsx5fZwzFIplSsOG5l8C0pvOYViaLGoka/1FESO4n98H8N+IVfChMXMpnFKI33+rG174RwnHm/lr29q0BTRqNxI1JpWk+BvqXhkhIlLX17Wt8R6DdEEJUc6rQbV/J9BYUNmzGSeNRZxF4rOj2JWEKPeoPfkf54I=;R6xYnIH195Tnyvoj/JZjJg=="
+secured: "2qlgR0/n/+RF9M9rUmWh71RR8txqfB829ygYY3VS3ELMMtlD/sChoiFidxIlIW2Ua5G+p/WEuhFS86PLMiDRxrmHrEQF/F/MTWy9GkSOonmltJ1ROdziT58ddbBe/AIRyb/vowZR8vsiyWxXZcgkrWak+TzexELLgR6G4Ud3+TpmcHAvmlZ7z5oLBVvtKPmLsnkgNwz2Lanb1stB/ndYlegKINPyyKKUDlVwgO/J7qBY5ZygabkjRWZdUoEHDeLt2KV0+e3wpNHtX9fW0bWqgC4iE2bfikj5HEu0QNKmtNFfBcd6W7T1hBHttWu3IjjF2ISXYc8mEVAQDCqk45xA2cqmo7EpXEqeqz2Pz9gEfyQ7O2zEUYOVRsHsoTu70NmDcdYT2dnwBWOgWIlXMDrBBQ==;+Lealq8jMY/xEYimsIxOlw=="
 ---
 

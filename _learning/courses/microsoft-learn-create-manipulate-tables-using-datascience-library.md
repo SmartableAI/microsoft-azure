@@ -1,14 +1,14 @@
 ---
 title: "Create and manipulate tables using the datascience library"
 excerpt: "Learn the basics of table manipulation in the datascience library"
-webUrl: https://docs.microsoft.com/learn/modules/create-manipulate-tables-using-datascience-library/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/create-manipulate-tables-using-datascience-library/
 type: course
 price: Free
 length: PT1H32M
 ratings:
   count: 88
   average: 4.75
-heat: 50
+heat: 53
 
 provider:
   name: Microsoft Learn
@@ -30,6 +30,6 @@ images:
     height: 320
     isCached: true
 
-secured: "dTYxDGdzUsrveDhgeNKeHc1g56L7ZKMeety7jXcGZiziOfjwR2zRuYtRxullrAvCLD1w+a3g1OBtUFIYLtY4xFtQVCunRwNaPgeSA2C3qtxJnu4kHn9nUSSc8ygh4VtrHdBm4OoOzEbTaqf7DocViwIrAgXAp443005GuI0w7OvB++39G0AV4AGotgQpVVdb1i+HflNRMyGYBoKl7ruFAz5DatBRoDHrZMuRK6tkgh+guEpJ2r6YSviEw6cObJLQAU0FpVNRpniG816t7qKkyx9ZTMtf/OqE2KPmAGLg4bhlDPfIGFAUr0O4ad07mH610jmbB4/hPueRgEnA90BrsLgjK89WJscMhRQkNbUT/H9uzrTTr1F0NYIfb53+9yd8RtOgTd356eiNb+N6Qtak3B1bFzwdydE8BXv5wmBppf0=;h3cWCs351OXNrtj9hJyPnw=="
+secured: "ql3p7AfgU3P5tuoGOPEyyy8T72pMEwIkWDc9aOJ1b+XgJZt1J+9L+MmxBGVg8ZiZhiGzPiqz6v3d8Mg1YBVCgwF0USLo8TjsSIK7PrKvjKvHiGEE9mocC+hn2OZ6zGnkO6HqZVPGZE6WSKL8bGD/nhYHKTLTOsXPP184MROFqsZzIt/2wP5dDmIuIeRTBwWfKM9jbAcUJSEIULzW120loiLgUXfa+z23AfZ1J0DKS4qrqY7KCEDCpBPiyaTQoc8pv45o+R/c8U4cjy6D2TdS/zDHyr76GqiP3tqF+4pXQBG77JAx/s3/7RHPYPpNU8IZ5BTW4e0+gFsxASwZ79CZWkvSwPm8QTdWCFWlI2bccCVCRjL3wJ8rhBiYC+zQvloi7Xivid9kZ8oj4/PgPqipRg==;cdW9Je3jAtvTE3ZmUtqhCg=="
 ---
 

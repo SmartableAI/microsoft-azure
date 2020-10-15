@@ -1,7 +1,7 @@
 ---
 title: "Classify endangered bird species with Custom Vision"
 excerpt: "Learn how to use Azure Cognitive Services Custom Vision to build a machine learning model that identifies the species of a bird in an image, to help with gathering data."
-webUrl: https://docs.microsoft.com/learn/modules/cv-classify-bird-species/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/cv-classify-bird-species/
 type: course
 price: Free
 length: PT32M
@@ -31,6 +31,6 @@ images:
     height: 320
     isCached: true
 
-secured: "K9BM12yUtWwPUBxIHm105qDRRqhCHZOwOjtVF5VWqS+7jdtaw6sJLTE2LvX8qIbnMOUKPhr/DtPbGe8l5cin/oWKBj8Wd9Xjxrm1DUBCRm1bt47qPWSmX8ouEHjRDj1FpiqkNjX3CjYj0SKzzaUYJn8L1OP7Cws+l5HwOdc6e/l8qzJHqopMfzcOYJDwXIs5BmTzhHvtgh6uPEsB8398t65h6FqqrscjjWcp38L6Sey41HG0lZ+sMpJOv1PNqBI9sAjuWLRR9BerVV4Ax6ixMSUyOkJwutoNihMcNYr0k/zB0ZFPirP2PxSB9/HxICA2V7+pHTMpITAq7DVg0HbgBH4ApABuggm9WaRYUrMKBSd56lub7RnMO9TmOH9EWH7t5GclCuwhjYIgRxhEj7EdPh3+1hrUPVLktRK8jc7n/uw=;hs896VZ+bmIEUdljUF7Pig=="
+secured: "JrstIDliTPRS3uHXfBW+d739nR8MwID1d0eoZCSCGc6x8HWdvjpesuchr28lcG5Sy7j1d0fVsD21d6G53ug42e9JXnV5/q6mirjdIguLRM8HNmnBYsUJ/o1MOX8XQNOwlKcnYtFIwA3r1f0/28R6yeGynvnMg07w6D5yxvTEKlfvCX/rGrCYqFeUabYPwfH2OyXD6ny8lWvXYy+HlExtxJGF3oLaRkz7Dv6mRvDt+SwQULInWFTgUDvGj8l15bhrGXnuFbC/w0cXxaUDCp89MXxfjldFfipvvajmX4EZz3RZlY3DvzE1ntyCT/0QGPl/+X8UDKaX28y3HjXKa//xT4X+pypZPeTY0cnbdV9MJAvq3wnD0aAhXTzhh8Ud/Mtqo4CMTal6s5WhLKNNAHQZKg==;Lgqy4MLrraCnqKhVvnDZ3A=="
 ---
 

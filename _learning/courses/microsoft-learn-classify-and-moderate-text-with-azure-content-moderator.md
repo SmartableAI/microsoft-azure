@@ -1,14 +1,14 @@
 ---
 title: "Classify and moderate text with Azure Content Moderator"
 excerpt: "In this module, we'll introduce you to Azure Content Moderator and show how to use it for text moderation"
-webUrl: https://docs.microsoft.com/learn/modules/classify-and-moderate-text-with-azure-content-moderator/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/classify-and-moderate-text-with-azure-content-moderator/
 type: course
 price: Free
 length: PT31M
 ratings:
   count: 1653
   average: 4.6388383
-heat: 52
+heat: 93
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     height: 400
     isCached: true
 
-secured: "1tmWABVMuro5z3PsI1ZEEkbOU92BtmpI0IwbznxCBzutnvabraJO+vtypxLRc83sY9bLyp1ZDSQtFXmVQrJ4sWO5be5lneFBswfEiVejhm+gaMPHugQ0HVKeOownTJdeI8YQP+y8vprAkQMhHEwfU2kgHutZ4f8vYMqBRUPLdsWLOx3aoW++J1v18olZMS+6E4ttCvdQAh1dof27hH1eUJ5Y9lKv/mmSubCn5UWuhxeg9zLf2qf+eZfhBEipjL9lM8jscg9xC+ZkqgJaMLWWXudaLAVe46aO7sjvcRnoLDtq4TUpDPz8ZtDWt9Ap7D1oSZabKGAFwfx1RCunuHo0SlT91VWE3Wd+ZyBJTgUBJPdzcAycwvYoeHa8PAJ3aL7xwLLB1ZGHQxbK9NUg8YhEIEiAu3HHeA3WSXmCjmywhlk=;NBuYuyyodatr4vJxYWy6gw=="
+secured: "hcRqWP628ruvnzzC4uZALb8+/1xG8s8qGWa4FVD6Vx8AFTdck3kbOOOOyU9C83jUlICws/5a8/PM2lvNEUI+6GSjtXGLe6pL6LygjZWF2VIRorDK44DkIBX03K+2Ww7T8cPJMMWj0mN3kXweIpILnBohUoc3pthJpqsiPBhservqbF0B59cP1VbeVhLjHaDcbwIEGtxfh2UdhmGWrNT6vBb+e6yEasjHYMxmW7OhBOSJguDUzSIyrEgZSYP409m1UqYljTcQ2oQkV3Ifo9XGZMs3S/uEz7zYvAZlh/YtIQYnwevqnvrxwxkF/fq4ri8NmKPsmJ+tyFeKoOkHr0+KjT4y4l1U+3Ln1yvAjopQPYf8bI85aK0Tg54557uUHNx6loLXSBrRr5Q79fUTykCZLQ==;s/krNWY7HyPwCAQR1KMkFg=="
 ---
 

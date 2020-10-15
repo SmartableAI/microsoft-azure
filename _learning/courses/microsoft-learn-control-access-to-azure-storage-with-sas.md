@@ -1,14 +1,14 @@
 ---
 title: "Control access to Azure Storage with shared access signatures"
 excerpt: "Grant access to data stored in your Azure Storage accounts securely through the use of shared access signatures."
-webUrl: https://docs.microsoft.com/learn/modules/control-access-to-azure-storage-with-sas/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/control-access-to-azure-storage-with-sas/
 type: course
 price: Free
 length: PT37M
 ratings:
   count: 32
   average: 4.375
-heat: 50
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     height: 400
     isCached: true
 
-secured: "EkCfoQtMATJCHQSvebhdrC3rTRPjNfASdUn2zqAjysoz5In/veJ6qtfZ65JM6LF/9dNAicGmpmLxsoHjlOwWq2r6hAviorATic/uEdumhesAKqdz01L7PZpD4hvVw6UAA3Ga63pPJZp+dnYG74Ht+M+m+Zlz4uE1L4K+hqdo3YusRcxlrmNrSCJ8FRuGu8ORRBTjOLq/wqVCIDYJvNNODgEiWHWbF558Q3MpaN85AsVt6ftUyHblrUMTRylUTFeqHGaW41tLE+kyB3kMlEOgj3P4E4Tr9eUAwjnBdWL4oVGG0RAb8/U6dyd1k4Zd3wY6rfGG7Gg0cIXJWbyNoDz5MxckEEKnGXBFz1AiN6RUxmtJAwVBdK5SY2nDsj3MlYMUOaSxuN4UAK63Kki7jJQZhXZoU83fN1397VSnSHkW9cc=;EqmyJN9fREZZm6km6tzQLg=="
+secured: "qVUoG14cMGBgZvNXxWl3a9Yq3yAPD9qKBRkLkOcTjUxnqHyFG7fRfyLpWUEdrpty35lbuByE/4cbLrY8D4fOzZH3hsLJ1S9Z+slwOAVC+gvQ/UPkh54XHZQsa7wg2pUQD49K4HjbN+OUrQ0czYLnjNuoOoDEBoSooOnlsF7U1oYwKu0N6cmwo2j2D+PsgJiCwhorbfK/EQp94oZeS2Ez+TwypjbYpWndBmhr7l/Zd37zrC8WrsIis72nH3i1y+9g1hB6EYEVAL7wnN4c3mpmhtCE/S7l0ZcdZ3bOGqMjXiBgDuMT9+us97yqsna5zKA2ES32bW6aMK1zG0/NnMZvtCA4Q+JIAClkDu9Fm14G4AQsEzRgGozg2IBoYbD/wNBSvrcEuOkwBtNSaIA1mVEMPw==;wBp7xbjCVUyvWj5vud3u2Q=="
 ---
 

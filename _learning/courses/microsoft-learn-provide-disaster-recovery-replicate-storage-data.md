@@ -1,14 +1,14 @@
 ---
 title: "Provide disaster recovery by replicating storage data across regions and failing over to secondary location"
 excerpt: "Learn how to provide disaster recovery by replicating storage data across regions and failing over to secondary location."
-webUrl: https://docs.microsoft.com/learn/modules/provide-disaster-recovery-replicate-storage-data/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/provide-disaster-recovery-replicate-storage-data/
 type: course
 price: Free
 length: PT46M
 ratings:
   count: 36
   average: 4.5833335
-heat: 55
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     height: 400
     isCached: true
 
-secured: "LH3XB4lxelYAWYA2f/7ldj0P7sRtTXsT5mAUPVnYT2DnlWg/wwzDmC+cVUZVIyftTfPpmjUm2c1K8UAMg5Ktdu97UU14dpSuvor3SB4UBDvu5H1c016l1C1MXghY2eSuDX35NdvTeSyxwbDaqgIiYsjHYKyOE1fVoxv+Cb0f913ykcZKSGaad2XXfHm1lzgoUQARsTWIFBT0uKU+kQSgtOuKIbrJAPNqV2jBtzXM4lxYPPvosX4uC6/y3OwtSc9YLph5B2fuaKy7rvsPB/65f5zwjbfBy0HQ1nrPlNuqlgKHzp9nhdaUNWMuYP/pS2JjhP3VNO7d+icCrGgXvB6AGub5R58MPQttAnxHzqciUWI/aHOxF7xavKVcbPKnBkPxI7/UkR98vOan/oysfSTKjuWXljeVO2RCckMeNfeFfM0=;s2Ke+RvkFVFAoOUXV1T4wA=="
+secured: "02zMKbe/fGB0vo2rNb+13PBXVvV5o2T3VDZNy5MIwVKLqTzi3lwlBr/nItUsonxI1mQVQ/d5ueILqRK4Em+5zyrgdVmQ2Fr0kmNS1yFJaUnz4DITOhpykwI9CgHPjveXkzzHH1TgbuH50R0HJrrmrP1pRPEu1KS1T5s0tCxnzYe+uWUwkW0MmiXuoxuHOv3vU1Nwj9wkdSO9qq7uweOW2LfwfUD0i+Q1PZm9Eik8PChU4ufKmIY32zS1Pw+sfRgEm9o95fXWaAwEhr/F7688eFNSQuSLsOvHiGs9sa5zCnY5MGu3LgRytrR9JMHElUR7Wn0jB8ug5xhmp+IHyxxS0I2JjSQqbxRUvQLvzoJ24yTrA7waU+J9rVo4R7Z5Rygiss0JnPpUeU/34o7P6esxQQ==;91r28ywM/SUk3M4/ZdywWQ=="
 ---
 

@@ -1,14 +1,14 @@
 ---
 title: "Build a bot with QnA Maker and Azure Bot Service"
 excerpt: "Learn how to create a bot that answers frequently asked questions."
-webUrl: https://docs.microsoft.com/learn/modules/build-faq-chatbot-qna-maker-azure-bot-service/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/build-faq-chatbot-qna-maker-azure-bot-service/
 type: course
 price: Free
 length: PT29M
 ratings:
   count: 1466
   average: 4.6616645
-heat: 53
+heat: 90
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     height: 400
     isCached: true
 
-secured: "wc9aAYFO2tRXJnzJ7QGw4FOomP9nV/+5P7wloCx33YNkfae6W7EKP9YtPCfT0OhqLpBSoOr70A6ldhB/t8XdT7YMbTv7mRW4/g91bRPyR6OABP4zVps7waG8wRHPx4hfTxUTrUTuKJ3Za8m/XvOgyc5w0y7azpjiQNOKu33fUH3xf3zJlLQucF1WJDr407ssIVFsv9P/a8rxC6s3sW/ZBoNzybpnNIgenqrZmXrxrLNrjfVrEY4yFhnSyB++Ujad7/S84EzYsJrZeqmvHnhYiXKFXz8IKQIGoGwy9eRoXI/cldxl7kQaNo7MF05RhAyiIuUCJnIarng3nTkqPE0hQWr3E/Xu1qd7ZETaWSXnQN8smkUkTJ2DL9P0qqjbmThjBW+X7hGkhsepRlPICFC0hTRP78tUOnDkXOIPvz1h66E=;S0prRUCYyLrWqylBCaP+dw=="
+secured: "usMNOAw6/2Un3IQ2jqmI3tvTbFnJxyBOY6XjtepgQ2YaRoVgygDcvv2qCwoGP/Q5seGJQTAr8dvGlSUXXqljjE47ZERL/pyu1SNjL/1GIbMOx25oYyDPuYkHLKyG2C2se7PImkEaSMcZqLhY+MwncztcVAZf52NB/dQFxCDfobpVAh1VRRwuvya/nK8KS3682rRX+GpoKTav9pbR7bNmgOWy814YImlRudJe1QaGYUvCMKu+TmccxgfvpQCvYxiiBJZsmppnD8QujsR4ymSPch2LyOcjk+FJR2Xd5vjf8FOzI4+DdvquX2FKzPRO5kmxuxesvqfX4LHB11RTthjtao4bLYMaNhEBLQgYPZn/RZPtdtZNwEe7C+XIs6tebVH3gRPMlqv5uob7/MGhsTtp8A==;j7a7yqBe2YtjrcwGw7vZpw=="
 ---
 

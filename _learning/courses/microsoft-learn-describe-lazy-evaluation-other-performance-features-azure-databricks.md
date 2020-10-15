@@ -1,14 +1,14 @@
 ---
 title: "Describe lazy evaluation and other performance features in Azure Databricks"
 excerpt: "Describe lazy evaluation and other performance features in Azure Databricks"
-webUrl: https://docs.microsoft.com/learn/modules/describe-lazy-evaluation-performance-features-azure-databricks/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/describe-lazy-evaluation-performance-features-azure-databricks/
 type: course
 price: Free
 length: PT38M
 ratings:
   count: 84
   average: 4.7261906
-heat: 51
+heat: 53
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     height: 320
     isCached: true
 
-secured: "Nl0jbK6QXKQ7JYWU6fvHEJ+3LCLYg3f9iJfqYmHIvZfF1DA9GZy22v3edGEXPgo8Mp9dQ7Blfe32IkV95ODawrwVW5tB6M9EUwdmTCirBdYOWQ3mo2wxbVVOWOY2a5HmAX6WP1yj1RITBeZAcI4z4L5QeC3TsdA3DLc7f9dibzVl2FZPskZwIZIwbyDe1ShiikXMkV5NO3fssUjpq79VkeTq0DuF/rfOwffPc7v91XhIwojUcq/DcmNAOThzDhoZqetKYVBg7+qySKoGT4p9dtnK/jpzgZxE6UQtDW3kZaMzWF9p3dFrQ/1IB3y9uFobZcbpa0hKJH9Q3RslzsYBaf/SLbz8VZ+YZLQdZ8iE8Qu2UhIK/+hZ+TnA2SkCdBu2nJ6n7N/wla4pnGM2utCOlvanbZ4qhgMsVBYd6GuKJWc=;yW789HIeLra5C4QmwrfDig=="
+secured: "0s+W+sPDpT/UPvWvb//GlplwL0T0biPb4UwNEQOUCx0nC3O2LdJf6ggPGbpacyos5otb2FqBsqQoK0YDKVjLq10wPgqy+HKKYzwaVWHRWdsXELEH/uvCjhEAWdVO/UCoAM1eDS39TaiNSnYcmANbAd62F8icuYJwu4OQ2lWloeFC7bv6EJylO3p2ThR7CNuAA/cI/y+MEPl6FzuKIMxCIebdsYwrjQ6XeHjAoaUmZXFWtoca/2vDYI+na8xMQ0GnZI1Rhrr90NLz+zXrrUx4sdo1HNqbkCyVegr8cNV8U/qoIRR1g4zJfHX0QC7mQqGebrEVQ69Yh1fKsDAMRxobrhFJ03lHO1u2FYoSvUoiETKibT2CW3gB9jT+JRf4TJzV/1Ifr9XoE2DGKf42yglFEg==;5OMbr6YqAivoSDIFCJVRjw=="
 ---
 

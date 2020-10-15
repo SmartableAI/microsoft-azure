@@ -1,14 +1,14 @@
 ---
 title: "Describe Azure Databricks Delta Lake architecture"
 excerpt: "Describe Azure Databricks Delta Lake architecture"
-webUrl: https://docs.microsoft.com/learn/modules/describe-azure-databricks-delta-lake-architecture/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/describe-azure-databricks-delta-lake-architecture/
 type: course
 price: Free
 length: PT33M
 ratings:
   count: 64
   average: 4.59375
-heat: 50
+heat: 52
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     height: 320
     isCached: true
 
-secured: "F44vxGp/EO488K1qxg7DzryUtNhu2WMKmo77gQE7cRjBdix1sJFNTpFBE0bGjlabC5Cs1+ffSqiYPdwzRTbXqW0vLr/zLfkxLlrdFKTONI5nnaz+MLeXhODa2+rGJla5rT4MkGE/Xxxx7vIY07lDJGzs4cDp0f4Apps0X0i8VxeO401pU8tr6h8G3cVwRF/BOSvPrxsLnf/qZ2w/+HWWCa2LbkIPxq8n747q30vumfYZLbyMaVoUqwfqfxxXyqT9pWnN2zVM8Fx0ojVwdihRncFXa8pi86FpiOG/Bi1BXAse4zn3yNf95gTzOWYNx57EoxtwCgrKRSTS/p9I5ujCpz2JwtVvYrWIDNaNtN9aiX6328in8qtieadkcH25uCzrO+2udR/0MoYetkv+Oo0dPEgwjJWO7z/qpODUnY8D28g=;QhgkH6ldNttZsEo3ZSA/OQ=="
+secured: "/i7hlVD84qzkMyXyqgEIAzzjUXBTIA6NryUPxsukv4SBmC14LWB9sP7IuUQOaZl6I0A1OEdyB5vuPqphWd20mz0pM4IrXsOwVSr6PhWcPuTTbDOvZil/Y3n5DTCNkZ/8wMbAeRZ2N7V2WU5F7VEcB2ufC6+xsUFn1qlWXn03Ru3fZPkyAbqkvFn9ztWwa8lP+RKkGvZMACK8acRlOcfAfwrTwcqIgihGM/cGHrYMkSDgNMkpD4VvgsfVOqvZiu/+V+jwscO0g+p8yY+01sr2miatzw3Y7RPEXY0vkOwLLpUQEJM+QX2xVN4YHl633lFrx175UWFRgFVeO0CgqJzF/87Kl1/53nEOB9Tp4f5esECZxpiNZ52w+c77l+FKccCzGR3u1aAGyFRa7nadWR27Wg==;KAikC2mArdJnJA1oNlrm5g=="
 ---
 

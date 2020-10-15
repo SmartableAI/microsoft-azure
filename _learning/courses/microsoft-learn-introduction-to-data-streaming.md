@@ -1,14 +1,14 @@
 ---
 title: "Work with data streams by using Azure Stream Analytics"
 excerpt: "Explore how Azure Stream Analytics integrates with your applications or Internet of Things devices to gain insights with real-time streaming data."
-webUrl: https://docs.microsoft.com/learn/modules/introduction-to-data-streaming/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/introduction-to-data-streaming/
 type: course
 price: Free
 length: PT25M
 ratings:
-  count: 1281
-  average: 4.6338797
-heat: 50
+  count: 1282
+  average: 4.6341653
+heat: 86
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     height: 400
     isCached: true
 
-secured: "H2QNuHLPRu6YeJIILUqbUU7KiBGQlVjPzJnoJ/B3/qT6N7ASFCC/2QawjjErxuqRtoW6nQluoSnLK7eKnDJ+GmBxSnSSfe/wa7d+Zl7PWMk6RQrx3XR60y6epHCY4thmxe5HaHiBhrP5seBHw48oVy+TNvGOc36UGBw7UVt1w7kvEsZ24Rz77VaXScZoaZIZJg+ey3le4Zu0EqLkbQ8NGPNz8OM9TYYx0RKwQ2K/MpKqvgAnV+gz5AqDl1fboKEFrqCNZ/sMFmjvNLjLcONpBfkrRzU1d/O+LVBRhF51Spo0JkvtaeNaq+JONM+7A/gWtfJ6OIlXnK6cLguRDP10kwanS51U/wZTqBLunmBQxIZMISs07h01LURw5tMWPRGpa/b8G2CFQIQbyTy4WtNOYP2TcZ3REDCzqvGpJHI7B6Y=;P5LPygI4QzlHTStxf/VZQQ=="
+secured: "kAQM5QcMcsHZRHYxtYuapch/J/YjAP2khEIEvsbgh7FIiEZaaVLP735L6Uc5zpHSnzZyZ5KoWTAk8eLavuwovcOaBUIu+NbTFiO2CVSq9vaSztNs4hUN9yAurHBV3rMtfIrJ1J6ESGfIZPqMOkwHhWK+6A5wdS0xB1tH/zcgeX/GXWGxgHjEt5it4lpS8p2sL0rOuvWEwtyAVrZ5cCITwwaTm6fxEljiS8rKVs6DCISQM639nlLqtulBKfTeNrLnzOC1C85WlmoT55WeTFE+kVhgU9wT28FToh/Rf4ED75S6nF6g4y6TQucQI6OzAjk8PE1Y8A2Z8J1YWfdC1aPr4rnlZXKXko1ySplyGbUe2QTV+NeT/J8HTTLglzfcdVlKRc2C3h6PbLF4y+9ZCO32aQ==;wU6KR5LKkwk+nE9Xra934Q=="
 ---
 

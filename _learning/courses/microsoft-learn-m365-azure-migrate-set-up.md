@@ -1,14 +1,14 @@
 ---
 title: "Set up Azure Migrate for server migration"
 excerpt: "Learn how to check your prerequisite configurations in Azure and in your VMware vSphere environment and then perform the initial steps in Azure Migrate to choose your assessment and migration tools."
-webUrl: https://docs.microsoft.com/learn/modules/m365-azure-migrate-set-up/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/m365-azure-migrate-set-up/
 type: course
 price: Free
 length: PT19M
 ratings:
   count: 59
   average: 4.7288136
-heat: 50
+heat: 52
 
 provider:
   name: Microsoft Learn
@@ -33,6 +33,6 @@ images:
     height: 320
     isCached: true
 
-secured: "ECgZ9dyD078CCMxW660AbS50s4akcP/tIcfKqGwP1TDmDPIs9HU85pgQ1mAjr+0edJrizEi/HehCGeOulnHBtRp4arFFypw487pI2M4/O7xxqWYfn1G1V+6VIawJ/YlMwlweP4Bu1L4MwbHrNicuWiXK3LCFPZVT8Mr1ff0BRGOpDC/By+tCPqLoqgZTdGLA5grv0WJDaWofO8GTPfe+7lUlqZ6zquQiNF8mkpznwfe6K32e3cgg6QBx+2PsNOxiABGdAEMmPTnv1qPRm2cXO6r7D2gerAYSWJgQCyWKEMfHjBov+IrFS2/8XMz5WScO1lNvvqDzpzhwzW8Wh8gjETgd0FjfRCYLLM6vuOkCu/LC7bCMhvOwRfaYVtIwCYn5xE/gBZsSVEj7bGoqWeWFRD46j/vafKYsaSzfvZ2HiD4=;wUBIf2ymo8QNvBcEcTIjOA=="
+secured: "EPLYNjinQ9gLHwOPIQDV2Q2pM4xyvT0kvq2NaSV1GCnGkMy0wkGLsZhW60/H4c+I/AukQ4ujxqMvaAANi8aAydgqTDHZ2sgv9kpRj7e3PfTBx078CMWrZ3jBDdTWICD5dP+BekdRXKYaPSuoPxysWF+llr/2SJ59RLkqpCt1HmWRZmFccVUHqe4QXPQovXuN13a3cdErUil8eJw4O/GNsGFGJRjRXvQSRb4ucsAJpVThzZkCk7GxnN5/9qCmXj/TSha0wLhJVwdIDTpMXyBTXKW9vK5jHtOJ6CB0buf0IWXX9I+Bmb/rsLetat1lJWuArcXMBCkgIbRYxksVvONGAhjQU8vKLr37+G/LC/8U4I1In2Cd1U1U78TuTR9TArpJRnQtuOG6LOtee0E99/QfZg==;ASDTZNXceYxeB+NvpGa9KQ=="
 ---
 

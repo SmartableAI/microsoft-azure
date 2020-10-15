@@ -1,14 +1,14 @@
 ---
 title: "Migrate on-premises MongoDB databases to Cosmos DB"
 excerpt: "Migrate MongoDB workloads to Cosmos DB"
-webUrl: https://docs.microsoft.com/learn/modules/migrate-on-premises-mongodb-databases-azure-database-mongodb/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/migrate-on-premises-mongodb-databases-azure-database-mongodb/
 type: course
 price: Free
 length: PT19M
 ratings:
   count: 49
   average: 4.755102
-heat: 50
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     height: 400
     isCached: true
 
-secured: "15MCR2I2e4vEuad7CdSz5z1OwPgnv1MUDgHEDKnyf1DkZG82uh9oqEBZJM4OjXtfSxsQnY9oqNdC/m0S0tRY2q/+WF5jo7Pr0GNGKGCQkIT86VCpsbsA9QOEMvwlyAD1hwfzfhNadaKs29BCQ37HQ5jubf7himttVBFKikAsz6g07zIGlIw+/QGlncsF/KFu9/KskAtrbtS903hw1PiKj2XmgphnhPsQGCNggIvSG4T+BroGBJYA3Bdw8mwHuUfDWKgQtV0GoaEYAvKqgHQNi2gz5r60PWBbCVl8tyDFeGs8WPIiF1ZGXBzx+Blj8RznhFiNnTvAjwO0fpOT4lmvIa38NuluaDSNHdjoNM56oTW8C9Z+U1AHkpEpxq/QWl9E7ZszXBCGKoGW57g5pEdmu4R0eBGfn6ubyI5+sYrmYYE=;HN8/wiTcYnrj5+4TdJ3elQ=="
+secured: "5rmUXMAmjR6g6LenvHMtU/xvtY+BQ45DwqLEr1+esT6jxW9mIFo/724iMNB2HDJ7vdkDU1KF7J+O3VHNZmsDbmjmwFwNODPg1H8gpN0zyJLcX+FwSR4YT1oymC4J0TvictabFrAP7tJUVSyPMidchVmP78I5Nkiq/T4JNVtY88UYbjiphFb/9kZbXnl5q4Uo75DX0Sv88QHHhUjw69pVU9/Qj1KOeJFGmTmgCgkUlyhC9mc1KYFfZ4r/WEBT3zVHHOcYXQ75V38Lnom4dNh4x/dJg0Fx8C65/lfviT4fPjNBimVQOuGOAtSEjqV7LYlyBLzsqqkjX7ai1SSVkEZ7xGWNIQ9vkLg2MxpHdQbr9F4evv9hP9/nbpPYT2lPn2lYvZYeS1dbhSR54nP+23i5Yw==;NDHO0pBUVVv6/ocqfKsdFA=="
 ---
 

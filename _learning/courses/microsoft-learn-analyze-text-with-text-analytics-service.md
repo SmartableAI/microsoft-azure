@@ -1,14 +1,14 @@
 ---
 title: "Analyze text with the Text Analytics service"
 excerpt: "The Text Analytics service is a cloud-based service that provides advanced natural language processing over raw text for sentiment analysis, key phrase extraction, named entity recognition, and language detection."
-webUrl: https://docs.microsoft.com/learn/modules/analyze-text-with-text-analytics-service/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/analyze-text-with-text-analytics-service/
 type: course
 price: Free
 length: PT29M
 ratings:
   count: 284
   average: 4.7957745
-heat: 51
+heat: 59
 
 provider:
   name: Microsoft Learn
@@ -26,6 +26,6 @@ topics:
   - AI
   - Analytics
 
-secured: "OoqLSg0wmLl6gThwZAf+ynpcVze5wOcstxWukegFSmgFvRRP5R81fuxBn/pjOiH/Y70A/AUBDjN/uAoevF2LXB829m8NwjKJtHmsl1BbkhID8bC61D4btvLKmQ5bdSwzgyMsjIwRVYuegjJ/wi3fwdEjr8kjtMZAglj1pOz30mI393sIqdtpfArfp/YfF3TbOaVgPQZGZFt5w16BAZ/I3xzvv8KB9UUTGw+4HBAiniaxo5yF3m2U8TT2RzB7cBm7y1CBCO3PcSnZMjkm1OS3MfviHff9bVkIjSQCtqyvPbSM+rQwAFN/ZIKLx2m/Edu1Oz0dNJGUoBR154W8/Q/b1jCSwHgkHjPAdmDMU7HvhHCGtWn4tHFZisd9McxkEIKyMc18pEzrhScNpHl1eAyTriLJmMHFhKgbhAGi1U9B/6Y=;a+ADn5Z4tm26lq2SUO/6+w=="
+secured: "QXwIIByPzy2j7hJhPIsVqek8hZWy41Darb4QqCKbQ+c2DIbruYSlcV04lPj2ScLIfdPyos4GEclVN+3uQ2QpL7DgA4RVItsvOArc/4ynTCa3FP/YVk0h0BL9ijZs+sMC0b6Oz8fJDbCufYfJCw5GVOW/87TzfMpwSW6xzUO2obAhoB/pHJBUpJ+S7BEt/uXN0XNEUEsCW+0Kk24c0OKtPWrW2WtpUQoOpStd24WOGBTI2AIaYKozIfVCXdd8WKFog1RDdQDKbbW/IWy1W3COwfWUoDqaDk6bJKZh1gvV1yHpq+GRZJFTGm9kHljoutXt8Y/yukqE0Q4AI7OgFuJbRKtXMourj/K1rNB2Gxvh0VvDvzFT6s1CJZQpWAkXOgjkz07yGHUDVuwMbIMqK72Fqw==;uMTFy/yOie7X6T98dsrlOg=="
 ---
 

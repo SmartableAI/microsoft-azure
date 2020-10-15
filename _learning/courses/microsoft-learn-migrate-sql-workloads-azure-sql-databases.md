@@ -1,14 +1,14 @@
 ---
 title: "Migrate SQL Workloads to Azure SQL Databases"
 excerpt: "Migrate SQL Workloads to Azure SQL Databases"
-webUrl: https://docs.microsoft.com/learn/modules/migrate-sql-workloads-azure-sql-databases/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/migrate-sql-workloads-azure-sql-databases/
 type: course
 price: Free
 length: PT28M
 ratings:
   count: 103
   average: 4.6407766
-heat: 50
+heat: 53
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     height: 400
     isCached: true
 
-secured: "qo1raq+xryTYPsRWEtM3QiOjigPJgkTRIpqNc7bfw52FV6I5iMl1UMtKyjRsTs/w8sTInpYNnYPy6XFXsGqzHVppcvK1AyP0NvgNbIAmRaYfKprmQX0nhOOmr/rSwFGMa/G85VPhZV5prONDScxYyPjy7CtxCel286/s5pym0RUl5n31zni8L2KY7d+HvNEAt+14IUK7uzhJspHqCHwCAu5qDenthstliRXgkXr+pD4/t1T0TsVf1QovFa5pFJ4ppfvGlXA9HpMwhXD7duhuxKlVR7DWuT5vH3GdlQbPSfOGQeNs38SIvpl9KD/LM/MZ0S1WmvZY7Sxd4PlKyhyryjD37+nH/pVw7L4vy4Ub/mXTnNxnWcAkw/jFa11/HYxLOwxQZwAXF+FubbmS4ahGrRSl7fDnXnztoZdGw1jzIKE=;19ykfoOD4lQlbpfx7pbw9g=="
+secured: "UWgXMR+IVGoy7U50I+FkFbNqnhOfC1p/Ti/Iw5Q9/fUq8CBqPC3YAIEWdvOUpo7qAdz565T1GIku/FCURyW9rl5WYnyEHfHXHDF3bcGPqU+LeccqHlPgQDRxmd4U9FcYaxlrUcMbeFd3rSYOHD2rhHCjB6aCzd2NOi7dNdw/o/go6OXaIRpN/TvPnZkvhBYXDAHomKYh4/DdcwgmLe1ViYpRR7JAHiS74zasmsvU4ed8CE0L7P0yUVafUAe4a7t7Teg3Iz09BU6AjEKlbl1v7xrv8U5UV5VusT5yLm1gabLVdEAENu6zW8cuvrZv/BnbQfuTBizJfJCPwcRBSdN6uxS2Pl21EhES86jECXeQhnSLPoVWpBPl6GJeMhrWty5l72Ou0fjNBGgT7vqVHk8L3w==;fMIL98RUomDYgGyeWCqdkw=="
 ---
 

@@ -1,14 +1,14 @@
 ---
 title: "Encrypt network traffic end to end with Azure Application Gateway"
 excerpt: "Secure the traffic from your users all the way to your web servers by enabling TLS encryption on Application Gateway."
-webUrl: https://docs.microsoft.com/learn/modules/end-to-end-encryption-with-app-gateway/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/end-to-end-encryption-with-app-gateway/
 type: course
 price: Free
 length: PT1H17M
 ratings:
   count: 750
   average: 4.592
-heat: 50
+heat: 72
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     height: 400
     isCached: true
 
-secured: "9g2BqFxSQFAlV5HzJDobpZpHujou9tpCxKEsG0fQ5N7b40Nufn5/RkehGB0HZY80p8FNrktI7Mq8SIfnp7yyhbuAZPiPJnOTAlPXfsfw+glxUUeSIz5YoyJ7//wKmfO9vQmp4Un2UzIvfkMNEjz/zM4A3nz5xdDrZewKBjnYGPLdaJJLOoT28FXm82ZRLDEh6Z1UBuM/dMCDqPmERI+RQavV5P18U1hm4mOFWD5NykJ4zZ9cMQgjPyasxj5okCG8cpK9bxz+5fZSr/ESqh+3jgwACo8Kua7pfP04YUQeJTWkZ6l69IsODE2uw4s5zp/RTbvbNJ7iiAdUj3JBQHUB4caTCvR/pN31k9kfVfRp36whzXbwfYIu5vsIN/X1aRawRRi0oBvQW44/rQCTY+Nb6ZE8sofeoD0ZQYBNUj093Uo=;t9OuDwCdqkYVr9pI3nNWxQ=="
+secured: "hxnzWTMMe69ndXKsi+eXPECGDxpn4sanv4RUv9eTXmDQHXCttEzBQD6j66oTF6wmbt3k7tBHoz96Ny48Fz0SJrGhU6fLDOUWZ8NNgWsb4mYIYcLSREJXR6ILyPTUFZhBi8HSHXqUiCYhWGJAYIz6A9uyXbgb+Gxir+y2YARZ2TLMV52Dq+4MetWJiMXgUhLDYM8taYB2XHNLv69N96sx7uj3eBmBU4L7PYmyw7cIGgC9h5dKf7gXTjcB9gXBZYR2ZGV+EAkE1ZzSjil10GnTkgc7tJKPjBye/JJ70SFAIIRU/YfIO/JCce949PagEepseV269T6xSH9mQ2R2B4yZgzuOqDg/4SPcW4ORlhPGGwfiERyw+GZ7m47GbpTO0tjNLqT5LgkNykPDHvpMilmxGQ==;tsZ3NhIhueSci2v324E5Eg=="
 ---
 

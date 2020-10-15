@@ -1,14 +1,14 @@
 ---
 title: "Build a cloud governance strategy on Azure"
 excerpt: "Learn how to access policies, resource locks, and tags, as well as how Azure services such as Azure Policy and Azure Blueprints can help you build a comprehensive cloud governance strategy."
-webUrl: https://docs.microsoft.com/learn/modules/build-cloud-governance-strategy-azure/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/build-cloud-governance-strategy-azure/
 type: course
 price: Free
 length: PT48M
 ratings:
   count: 38
   average: 4.6578946
-heat: 54
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     height: 320
     isCached: true
 
-secured: "mxdU1tp8b9RVxzABuzIO4z5uZUilWtCUcjaAMxtyhwy1oV1M+m4YKye2x6BpKXN2YAgcHrh2RWRAr6VcVogjUVsexZCVXNB6fRtm8Mtaa3qnI4iMb3c8bXxshPI8XW785QiIe2TDas/fRXXoZ+BeQ21gmrHao2DUMulKRBF34733PzwNXPyfKFcA4/NuGZnsc4fwYd03jBid8PDYSgB3sdq57cK57rTQpjlgC9UYUZs3FbNSQ1IjFzkySpxmFNCQ9f+FtSMpKjM5z8VGfHF2LP9rMWUJroLiqY4fO+xp/iCzxAkVtNx92b3IrL1w6tjYOu4NfPwc/+1a478OTqm4nYBVC3tiDkAJpIb8i+20bE6/q39FiNLxPoz87NvkphqGfAOFeCdOmilEWBTJ5+2BwOP3/DPYaT9HxA3HYM0kiNo=;0oP0us+7AzSepdFEa6QGoA=="
+secured: "edtAN3pftNS0ztKKfO6oydVUJr+UjRJL57LPJLZUmInD2Z6SObo8BmhS2maSmSf3d+0PbDu2w8uEToclSvZ4CSDrVyws7HTnTvXQg0DOddJ7LCChDujWDPsY+cNlWdo41kFrBVYl1RJxPnAtJqRt4sgXdgVNKDlj7lrRtka0pMOI5YUgpox9dxbZmI4POuheg289wwloZrOSRvhWVDDKcq0ypCtHVa09iLqR4geXBBc7PfLnKQvH7Abvek4DW6T9pSABgMa+Lkp+itmdK4LY/3FZJJ2rYhS2XOcCQTJJ/GD+TAlk0BZx8pzFtEcBkXmtsEH8dNahA3UGDVbmP/lOKtgkdw/9Ff58BTJSzg/EyHKjDljUMOBW+tXQAwZbCkiQRg90zv6kyNayyiGp468hnQ==;+mGHd1eQd1ih4nrWuf+deA=="
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Write Ethereum smart contracts by using Solidity"
 excerpt: "Learn how to install tools that you can use to develop smart contracts."
-webUrl: https://docs.microsoft.com/learn/modules/blockchain-solidity-ethereum-smart-contracts/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/blockchain-solidity-ethereum-smart-contracts/
 type: course
 price: Free
 length: PT45M
@@ -30,6 +30,6 @@ images:
     height: 320
     isCached: true
 
-secured: "4DGRwEvntoT+4KSrf1tvJnTYQJXa0gR9Co81jUgwf+o6RL5gqe2S7SKrdfoIGe9f9p9wmuK+3luYMpdyMcaW0zHUyg7L1t/D97WdeIvTSupP918yBY9XnuM2tp0AONoNJg7YesCr1NCjtLoOjCZ/tT3b0UqRU9FsfsIDtDXRLJRISHNjUX4S4BVBHMCOWfrpnGYUMBOgcqKZJs1Yf7H2gRuIylcdh6/3h5/3RusZUs0UXPWBPLQHtwzzaz7O0K6LpxPU6DtkFC/2semcHloGZ67MNd4RYSsgcSUK5bLMAlyNvr/DniS1X5ixyHHoay+iB8mbaerRq7QeWBisjXKXSXnlWIO/7hJejpL6OxQeq7w7o6YWK6XPtuYF2T9XReAP/z4DmwsaCrPL5T6L3wSvrKnBK4x7V7tdANCGxNvxlGk=;s5/gKKjqKMOZRKE69irLqg=="
+secured: "T568ZxK472UIx5TlXlkErGCg3folaNPxkqaqS8sojhYD92Toa66W2DzvjJl86FSNtK01Xi1CdGD/QOrxQSsNkGbivGCFbWPaQNmAI1/AvXGceqDiL9RtZaYvM+5npF6HH+7f6PjG+ADDi9+73lsV9nTEQGVTGUkkS1YGVIujeaAqo2xaCobCa0wcIxWIM9OQVgRIE2YKrXh+mckz17IidizBhhrWQ2vuX+IBB8tMNZBW0v9XMYb62XrnkEoGv+PmVky91pl+ErrFRBrTVCN7QTrfGPP2F4kopX0LO9rZE7aQTd0cpJ/CMpaDN6k7mFHOAwKYI1Mm//Yb2bo5rHMhAXi/TRcQOpF5rd7Sg1S2SdrmVlneuNG3khrlDtq12xaCsDPM9rxcc+rsJYzhym7Qnw==;7Vs5t7O1K894a2Dig0X1+Q=="
 ---
 

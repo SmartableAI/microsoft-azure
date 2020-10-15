@@ -1,14 +1,14 @@
 ---
 title: "Manage repository changes by using pull requests on GitHub"
 excerpt: "Learn how to manage changes to your repository source by using pull requests."
-webUrl: https://docs.microsoft.com/learn/modules/manage-changes-pull-requests-github/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/manage-changes-pull-requests-github/
 type: course
 price: Free
 length: PT49M
 ratings:
   count: 115
   average: 4.652174
-heat: 50
+heat: 54
 
 provider:
   name: Microsoft Learn
@@ -30,6 +30,6 @@ images:
     height: 320
     isCached: true
 
-secured: "r1w+xh6rmPwyz6Mk5fjvoi7QQL/e+bX0dZnQRjWQZprppyNO7VTOGjCdEiqIrq83dDWUdTMAo086bo6ocWOpsXKuM+03OXFdL63R4UWpSowPrIotxp7/r+7CaKsuvnQDfkq1jrZfNFhaNOtpqq4/rLI7qA9F8C0u+JIv0rHLYGFWD4PdtgEXHYADvQQqAdAVw4EAzJc5UQr9ai3HzB66lRf4RbZFkRkKxuFpHltty1vePvsKFnQgI51pV+GcuedytqUFZI7Um6cxasGH38Ydjn8bQr0KVqPuEZLoRpTc6ky4+9AL3pl9/wl/ykBceOVl3yW+z83hLJNlkHP7lEp+eL/beFzK+3q6iLTinMJHIC4V75hauh6koARRowMzxbx5x0TGzpmzXdm7fFvTPndMp2Yvdjot6igu4kh7FMmpPF8=;Da45UIldRD8E2ZpadIeD9Q=="
+secured: "Xjry++zKjBLGKYgNlSpUsoRTQQ45Pp0b3PfIF2/p4P6HNn/+Tr+glYM4mMbDz5b0H+HswAYXzA2tt26jIMmJq7GzwuEu86fzmDQIbyb/ACuNPRcmWpD7eZz60B0hjYzOdxTKFjiqHZ2lWt5YDrMIhnIom4j/l402xbxN/emIjiEH6Kmo9nNAXqzOw6dvWTXpgcwTptFS3W4zXMIwPiFqBo9BNUB150dl/kSXF6jhWIPpm7C1W8F/aeGsbkaGeeeY6f+7QL1FEtIoq/918t0SLkuiubXBABcZvimqKHwAMDZHnK5EHtv1stpRttAnTKF9WDJ2f1kv1G5bKLG4EOCY8+VHw+u+NFdmI7tAK9Vl7dhiOjeynnzAhdU6SkkNcDf2O9Y567AOPPKbGyFCB0VPDQ==;1/RUjxl1mvmSnH+j+40Xig=="
 ---
 

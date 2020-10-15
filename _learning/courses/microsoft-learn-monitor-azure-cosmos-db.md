@@ -1,14 +1,14 @@
 ---
 title: "Optimize the performance of Azure Cosmos DB by using partitioning and indexing strategies"
 excerpt: "Learn how to measure the performance of your NoSQL Azure Cosmos DB database, by monitoring, partitioning, and indexing"
-webUrl: https://docs.microsoft.com/learn/modules/monitor-and-scale-cosmos-db/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/monitor-and-scale-cosmos-db/
 type: course
 price: Free
 length: PT1H16M
 ratings:
   count: 1087
   average: 4.603496
-heat: 52
+heat: 81
 
 provider:
   name: Microsoft Learn
@@ -25,6 +25,6 @@ topics:
   - Azure
   - Databases
 
-secured: "umR1t4U4NSn8ICKu30yCvCse8f6AVCeV0VhT3Ezg7ldeGnesFV+Kydc83WUu110BAwDT4GLPSPpOBZG4uULmI4VJuR4kaCzev+QqVEhf9cYi0Gk3PJzAQne05ZIofLUSjjYil60HEJ4b4bm84gu23QfmWlE6zQ2GuGP06ob/d0JLBWgg6d4LynxjsgAo1i+nrYDnbUzI5V1kJoy0piA+4GwrfcE/uD65AZNM3M3co5/ztqWJm6ZNWiQvbu/SqkUP+Ab4Kvf8BZUhi5zYde99FtPze/55iw/Mn2HfhTxyT/4XaGtbi4wl6akEfgeWBPG7EEKzKX4grd3XMlaVFJE3URmDqtTkyEVcaWCGNup1usPHmMMGhwa2zbrHToJ5vZOYaHmGcH7aOavUqCop28sqUoqaHExwyzH/92iNU4qm8JM=;WiSGnZvKN/ubXp31gWi1Yg=="
+secured: "15K0XuF6b5kChvhxbk8qwzc/Adz7QRJSuRz6repPQB2cWEY6J4ltaLrDiWM0lL3Eu3Krw9VxK+Ac+OomLJ8LXDti/R7qCl+EENoqiq7CfRFr7TbqLhmdWq84Cdu0J8gVdkSN/xli9tN4aiKLkzvR1aFbvxedyuIjVDDokQpsOOhqVUX4KfiwroKx/jHronZeHPlClu1BrjANlWHwE2aVJecdg031NKyKDfGz2VxoE+MCxznpBFJ8jfC14z/K6cV49SUA0jGu8MrvLkbCPJMkEPoXKl4q7hKfm9sVH2sB14VhYSYMzS6yXecveNTg603f5uirQFSTI0XO2gbM7+5+Y2otPuP3EJpaJbqNmhzolGW57fK0UH3is7ulURHxCorXrKBfsl3bHYjxHLcnhBu7Nw==;R/MSsI+KhGBSJ+vSX5cWpg=="
 ---
 

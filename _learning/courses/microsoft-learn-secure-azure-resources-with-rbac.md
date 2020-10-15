@@ -1,14 +1,14 @@
 ---
 title: "Secure your Azure resources with role-based access control (RBAC)"
 excerpt: "Learn how to use Azure’s role-based access control to effectively manage your team’s access to Azure resources."
-webUrl: https://docs.microsoft.com/learn/modules/secure-azure-resources-with-rbac/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/secure-azure-resources-with-rbac/
 type: course
 price: Free
 length: PT37M
 ratings:
   count: 5057
   average: 4.6557245
-heat: 65
+heat: 141
 
 provider:
   name: Microsoft Learn
@@ -26,6 +26,6 @@ topics:
   - Management Tools
   - Identity
 
-secured: "ohtSfWFXQwRo854iK7kzofUnQZl+EetYwv6G+wl9CbY39BRufCLxjYqVB9osWHY1hQQ5og3w2+eeNsxkLk9kFJgFH5x29QZzs8RybDlsQy467hqJ+rA6wANZzj46Q/73cbvA4cgnZ5H68Yg8kxlXTmqsTi9OZPmJ5Tfk0So6hcmIQyjDlJPRp5SYPC70Qbyp5ACdt9DHZkVGWGhwaYzTMI3p4wwRymY46D7RKpyDDkEoGa+dN6eTMy8pzxgJmgzXVD7X1wHRiszYpshRtUUa36Y3TIEUyr4CmP9xcX6vdfGnRq6h/O4kZQ/j8IXoibsf3b8yjIg8oIOn9uAJCJg2fhCZxp5uUgRcAcdi5+cX6VJsiwiwwIg26SqKnMg8zvPCH+us2qDl2eQOklBXEMJ0yLFtDGKRB94PjJWUb66FHjA=;4ZcryqMpxMDfxbeh1hEhsg=="
+secured: "bShYNvxVd3QRd3U9zW8I85NOWv9CQuKVnCstYjUumdnQTZEL/tFxdkl/WSKm5SySDCilRETOlYMDM0qliPruOvv1T0VAghs4I0wG0L3tiH2HHJkVNtAi1Li9ras5Fp+QaA0fNpnJ2VGSX5YhBHyW9SMNLZPuesgYqyXqoGoZ450ZkUdTLvMvtOR6uDXthzodL3g21LrT2Ao9RxoOx3g2cqVqfIvcNEo7/5IR+hFE30GfD8E6+9d954VakOIZAGUJOCAFnEaQrGEtQ+VykUB+V6XxVdSQKgWUwARWNGEQPcC5orraydjKcMX2oRNCeVGGNebJWykT++xWPC+pdw5jr/+Yqsh29SNyoETFfS3NuzBodhs+BaLmzaBgA/QBhGYiDfyDbgczIrJkAnMmwm5sXQ==;4vxSGhd36kBH6+w006qWmg=="
 ---
 

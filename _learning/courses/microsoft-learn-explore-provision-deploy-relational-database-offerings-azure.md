@@ -1,14 +1,14 @@
 ---
 title: "Explore provisioning and deploying relational database offerings in Azure"
 excerpt: "Explore provisioning and deploying relational database offerings in Azure"
-webUrl: https://docs.microsoft.com/learn/modules/explore-provision-deploy-relational-database-offerings-azure/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/explore-provision-deploy-relational-database-offerings-azure/
 type: course
 price: Free
 length: PT38M
 ratings:
   count: 258
   average: 4.8217053
-heat: 50
+heat: 59
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     height: 320
     isCached: true
 
-secured: "YXb/o9hGMqpgxBLFhdKwaXdv1a75z6yaScmOEfVj5Mf35TKObP9Ag5U6Bnvw7Wet2ZtoPLpuZfHce61QiuQFWLrYv6/QEMYOzPcg9/lUu14qsI+YfiWrBuy4B4OVFXFWZRzTmaULkdts88S2h9amSW13HAyhU7XT+k/SDeN+f0uZ9X1mZpLjVtJWmFvpdBjAR4pAFVy7S0QSmE8iXDQY2R+RoxVB4L9BsUCMc1bK7I8Ov1ww6VjjBSJ4wGy9M8zc7heVj48fPb6GFUpnl/TvzZOQfeZDnpZB65WcOS5qIoXtFxF8P/lcV/dVoFvxo/0LhtpCLCUS/dHH/SHOEm59nGC3gOmsjfEQ0tFRosEwudAx8kjvJy6oQR/p+/Dm5HqB84f8fmpmzDF2PwmUsqNZG66EgBm4PdWtVAZSWbVDLNI=;ySzt+5KZYLoNAFvVDwBz5A=="
+secured: "HKM2VQ8z3Z4heQ9IIPcZ5c4KeYMQ7YP7JvEEDWRpUOnC4OQWiSvm4D8CNrt5eXrUfAm1keIvqsGSI5VZwvkpJvk3JO5fPiVX9KjEtJm/xi7xySx3Azfhe2M9aFG61T8QKKHhCLYS1D5RK/d6LLtadmWlR+9eRciAfM8qIMzIgZkOfWALlIvAFqEBWfy4RmXPuqQp5ub6T9x0QSuyukK/M+dIRgTZM5GkmUr5x0zkhl9PhvA2spIwSsKnh2wy6QsQVe37RCHGd6atf6ZSLQLkPmfdGNcs+2Y58P5jCWk/y+k54GFO3mlPhngA6svddg93JzTQ03hWXXK2Y6Cq14oJXnkJMbMC+Izy/+lKtoxLmGUZROz0LZx2Iql/BQII4CuyKyQ7MXOxnK0wo7MVN1OhFQ==;sb8OKWJimzd+m+xCCphy8w=="
 ---
 

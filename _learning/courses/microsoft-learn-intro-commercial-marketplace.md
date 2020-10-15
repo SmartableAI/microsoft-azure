@@ -1,14 +1,14 @@
 ---
 title: "Introduction to the Microsoft commercial marketplace"
 excerpt: "Overview of the Microsoft commercial marketplace, including Microsoft AppSource, Azure Marketplace, offer types, and Marketplace Rewards"
-webUrl: https://docs.microsoft.com/learn/modules/intro-commercial-marketplace/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/intro-commercial-marketplace/
 type: course
 price: Free
 length: PT30M
 ratings:
   count: 515
   average: 4.745631
-heat: 54
+heat: 67
 
 provider:
   name: Microsoft Learn
@@ -24,6 +24,6 @@ levels:
 topics:
   - Azure
 
-secured: "tPVGcexcfc9fBst6oh42BtfGe2+6bhIxAH/6wVzWmHq16hKPRabisCNy67OpCtcck/zceQJcZt0am9LgLKY0nJjAlp4wlsflq8Y9QvgtvJFLTbYqkFEYhXnxM2spyPR8k89uZWSOZc0SZw/D6qCuHfupaYubkx+1Ifz/T3MLXUbgkaKNKb6c4qvOedDhLm9IaeM8G2FbxKenQ7MJxnoVKTvhWZFVMj4XFL4nSkMbnSYadGkq9V86hJBtFd9xr8XlOKPl9NcdnSPzzZxhXeGmX5kNUZO7urj3q6KZqYlf72TFVeIp+XjTiK8tGfPfomt4R6Mk7/z08LQa3wNjW4DoAgOJk87uow+uBJ3FZle5YA9Wx79Pm59TUR6rutAXdXJ1rhMoLjLxUOi04Sxa2CQl+F1QKTP4v1zrfHi2vafnhPw=;9r39JA0TOxX8CAgvLcE3oQ=="
+secured: "D1QpU+er8j6VHEl/v3Z++NwxvDI48+3j6MsM7KT601GAv0pwm9A63CFli+CCBREi48DUplI+b6lm1PwEFXVodak9XceHum6JtFmGavTHfEYgVSdRZrOynfek1BnK77c0AG47Y8E7r26G0S3ypWRL9qxZ8cdvZ9+/HwKalg+9ATeZygi18IoZUAWv4muo7zyWT9a1Nuy0b7cmtR+cDUrVUs7DvVU+4gOfrmf0s3NGF6GGgH+L9UiQS8eW5iebzaXiyQrtjjBiOs1O0OsrHqh4Cx/nn8LGz0QC4O9XTTxgcYJDqJBNf9bc4ZzzdPUlFGWylJDW11OhttkfaifOHaTC33Z98eHo1aZWD8h0FQzIGcDX3rwZtcCtQN8+0u9EmT3oBLjs4gY0DEqxabgVWzB59Q==;GagozWYJHXcFLvIOrGJFpw=="
 ---
 

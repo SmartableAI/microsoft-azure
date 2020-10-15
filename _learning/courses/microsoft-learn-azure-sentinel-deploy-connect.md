@@ -1,7 +1,7 @@
 ---
 title: "Deploy Azure Sentinel and connect data sources"
-excerpt: "Deploy Azure Sentinel and connect data sources"
-webUrl: https://docs.microsoft.com/learn/modules/azure-sentinel-deploy-configure/
+excerpt: "Learn how to deploy Azure Sentinel and connect the services you want to monitor. Then you can use Azure and AI to provide analysis of security alerts."
+webUrl: https://docs.microsoft.com/en-us/learn/modules/azure-sentinel-deploy-configure/
 type: course
 price: Free
 length: PT50M
@@ -31,6 +31,6 @@ images:
     height: 320
     isCached: true
 
-secured: "d0/YDbOO7xMdKrehB9LMFxmM9/Fa+orCCzERHLL/tPBtaAa2V4CHWfPvBRlCmlrUPSFHkpWqjPJyoDTa6R3TcAlWsDLPuKwBWD/P+07COY9rQahP4pclPxDNxMRekOZ6dA7T0v6rP7JMnjs+oO+Ri3N3KeYpPaGOXzbdSwpHx70+TTxw9j568GaG7WA4+dwUiSUOrwvNAbjhcduS/bP3D0Tt4WD6t29IjhM9a4raApZG4zneDLZgvjF1430ZMbCsMeJKMkXj4Bk4oPQUX+dCDq027dqiT/fJgHyRH58u/nFt48PBCLlcMIypHuwmfheUCYay4ONy1ZTFnnJHjsfmQKVALMpuMS59SFowg1CdCYfDIS0F8q9uQodHPO5H5XPZnkRPdyTXFjXIWogltQ++hm7WQFsHQQR1C3IOHOncfjs=;Q/e5iaJSL8VmrGE6LCY1SQ=="
+secured: "rVe+EVeCrtlANF7d2gelhUnSY0OzqR+bp+6syhTWqwNFo4hoAN8bKKdFrSACtnkiBZ5k+QeF4qRLENSQ8SBdD+xuPcfWohnNlUafbNKqY2U7Va/VeFCvOdImRu6yl/wtk3AskbxfNR2udKlvC91XZemjV6C64B5NK/aCQEuZjaIuXiIkNLoYN6v/ZC2aWYyWldKBkY1hbZ7uxQaxzjDkk3Atc9wRhDVHdXAgaKmK5pQkzMiUa/D8NyfZz3Duek/R8dOZalP+zIURx/vRYHLEhVmIj1dsfVqNltq/scs0vu+QpgtyNsQttdug84Sts9Z0tHIR9H8Jav1vUOUm6egmkFTRMogbKQrgO+1MzTFFjpQ+yIBJtEYgj8kLQWg/y4aPAUlX4mMi53QXCXwEKCSuog==;QiMOE4++0hdYrVaxEeJTAg=="
 ---
 

@@ -1,14 +1,14 @@
 ---
 title: "Introduction to Python for space exploration"
 excerpt: "Get an introduction to the types of space exploration problems that Python and data science can influence."
-webUrl: https://docs.microsoft.com/learn/modules/introduction-python-nasa/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/introduction-python-nasa/
 type: course
 price: Free
 length: PT23M
 ratings:
   count: 615
   average: 4.734959
-heat: 132
+heat: 69
 
 provider:
   name: Microsoft Learn
@@ -30,6 +30,6 @@ images:
     height: 320
     isCached: true
 
-secured: "KTGYIrYxALDXgZDCMWTUNULFnb5RSSWzUJXvktaSh2IWSsfasI8TWaMlvXecBzGLwMBOFyhdAyFYeTXdhfCt1ORGtZBaWsGLWg8/QqD4JTrUX9GBUkm7UzgYSeJw+JhYGO3gPKp0ttWuAyGd611sPELGoAXPZGlSlqVJH/WmxdjxL0EyIaT1LD9usgYu1lsMbBf+yTkIratLW2FbIFAueR533HPf0cgElMx0XPjgT7aDw0j9sTb9BTpNaa9/OiVy9+M5QXd9lXVHn/s3Fnl/RDZJIeh7B09JuGzOuOG9hsdCx8fWOB77MnZwtXCL92ExQmINFUOHJ5u5yqqoOxxLZ4eYeyQ9FP8k35Tii1maKmIIp4wLIE0+6Vi+OKdG2WVTXzaVM9fYvSvnulCEPbHPbT3ozKEYjmnjhyGCBHXjdx0=;no/ZKBj8MBbQ6KqwBTP2yA=="
+secured: "AUk+KePmb8ttcKzxTLreA4X9hBatyfp4/QoXqFDL/tLZ3YftXk9Z3J0JC1lLUvUwJva/WqdDx25d/HlD1JCaaAgu9D3638Wxs++VX5F3F8YzIDs8C+tUMOXg0pUTSBguRIgDkBxF2s0JtDvuBKlmyDcxuRc7fpGbTLcGqPYsSV/GgBm/00lC3jGaWwJsY6Clx/WIcz40LxATULwEw1eGYfs+c/GbJwMSBJUE5buG5c0ZflkW7vx71NqkwWtqReoy5Iq+nNyGL7unDGihI/4J+0rYaty0G+yZQp+l5T4t36wJGKeDSNextpbFidm+xCr8BQ+atSvEiCxGzgI2Zy5GmpuUv8mq7S/v4tph0/IJsm0g3FXvjzn/j87OoweeEhFxiIYeVmjwlZHoyiVuPvILZw==;TY5WKc3PvzHv3vHcT8u4jA=="
 ---
 

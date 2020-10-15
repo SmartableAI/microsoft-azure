@@ -1,14 +1,14 @@
 ---
 title: "Secure custom APIs with Microsoft Identity"
 excerpt: "Learn how to secure a web API with Microsoft identity and how to call it from another application."
-webUrl: https://docs.microsoft.com/learn/modules/identity-secure-custom-api/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/identity-secure-custom-api/
 type: course
 price: Free
 length: PT1H23M
 ratings:
   count: 73
   average: 4.6712327
-heat: 50
+heat: 52
 
 provider:
   name: Microsoft Learn
@@ -25,6 +25,6 @@ topics:
   - Azure
   - Identity
 
-secured: "QHuMqgJafCgDEZ/ZUIDiffTgv/Qp8xLZy3GRSevq5LtnMgTVgtr7XHkmekvQHj5OZ5AoCScSgpYUCGwUj66pNkKeufHx15L+ad6dcgAfOScnIYaynLRW0FPQu98MORGMk+xVG7GgrUUUf6wsURt+jPIn7BUyYcMENQS0ZCW7bpCDCdZsefpfFa9CoxRZQoKeWzq/562YADqz/mIX+m3WPxDQKEsN3djSSR6pXO5R4ZWajykutd9fjFFsoTsf2Ybjipk5movkcgN8Ihypy8KAtBWyQUmfSwAg3w/TiTh/HNpjYjwSGvYGAjiiLsLjd99+Eu7Nlr0jurtqjp+aXUWdrAKf/ilunlPcCmM1U5Nrojtxw2yiIw7i3ZyD6nsrVq8sK4hrJWJY3VOPo47blVLnmNGFsp18l5T81rSsfFToVcU=;2FLSK3AQ+lzCwk3AVw6b3w=="
+secured: "72/Al/Zb07SUkJHoiXda3dB7qJo4jvW+EQC//UAWsPj/sw+TS9AuRqsUzSBYez8tNDe9pmM5WGewTixOkGMaACATNrKxLy4vhhVKOeRRi2/8g16CPMhOG1imSGioOykMX8abf/BAkhiOFmqzZXL2ejgy7BtA9O3ru8vGW5zsFr9ahIhT9STEC7G/JQTyi43Ftl5x7IMr7UIgjVEJntP4QEy/mqf+Poz23PP07s6PQLaEogXU1hFP3Z3EoYldWabdW2m9EIryoUk377uNnd1XQ1TCmB/IdZ0Uy9/r9w9bpm9aj7PeN6sx5HkxVJPtd4dM0ReWSJE4Jb2NHItr6NEM6k2laArD730lvFB4Vd8yz4bEQFcDsPnz3DYT5q9j4Fiujr9IrdGbZUSv3XQHBeu63g==;ET8XVq8JLffegvhsiNqE8g=="
 ---
 

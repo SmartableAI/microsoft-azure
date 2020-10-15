@@ -1,14 +1,14 @@
 ---
 title: "Develop, test, and deploy an Azure Function with Visual Studio"
 excerpt: "Use Visual Studio together with a test framework to create, deploy, and test an Azure Function."
-webUrl: https://docs.microsoft.com/learn/modules/develop-test-deploy-azure-functions-with-visual-studio/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/develop-test-deploy-azure-functions-with-visual-studio/
 type: course
 price: Free
 length: PT43M
 ratings:
   count: 1831
   average: 4.5996723
-heat: 52
+heat: 96
 
 provider:
   name: Microsoft Learn
@@ -33,6 +33,6 @@ images:
     height: 400
     isCached: true
 
-secured: "GnKJeqLIRe7RpU4lAC1T4TPgOdkGGyS8CmRGo9Khr6YsAf4Jn3Vg9xFpjrWFjl5lts29W/ttYljoA1N9xgcH0/3ILt4NZgjz2EADZWHAYVGgJe3XyUGI4g72/1obEvMLKzSxvpIfW8jNyC69YmfEJ+bIo1sfXxA67XLkUK7VwQ3twQ1Bq/gurnSwxFuyBNjRf65MEzLTpPFOsqLMgpJ11GahfGfzGRmG6cPbR/rV4/0Z3fCO/hZymRnxNklvKUwqlOE8av/fNvZraRQqcUwXva9KEBm4XmqSWW6p+rfM61+GB1OlezxaX7qhRXAXMhzUix1lElGxSDloUZsfIPConrEEIfPpqsKA8/Z3iQ2dn0I2SeIS4MP2lw8PRUxbyDSAZnL8M6y2xTqUfvz7peTH6ZIefdCMLZBOpweNZJQE5MA=;GDtSLwdoUKrwUU4wm/3TKw=="
+secured: "2fkxPwRdurJ5xqFUCxAnZvFLxcsVOAC5E7oYLRe0cC/kedSid0k99w8bD4mtLidRw07AVzLJr5ddpY3cEL6Qpkn5yt2CuqKtwDyVDJMG49QZxDCTkQzNtH5/ThPPNzQC6yISNKHeqN+qn2TD8bS57W0hIFv7e/OZyd0RjP0clSliH0JpqsprPJCvL6sDVv0GVpXVv5tHx0SiCLs0Smrj2PGa3Aev3XN9tzNVgII9Zbjf2QW5R9ZO9IavgMCKXpJufxv8+Mkn4FYA1LBRM/rMTKEY/QzNrOgRPqyNAVQn3ADYaOgPfARWSmhMZXmNL8ODor/uKZF2NDiQhENsuCl3XBO+VKGi6m9oaDcciCOTuiMVFVcrQc88ZtkgpX6MVF4qH5/8sAxktZPpLYQUmdaXIQ==;kIdcJ2lWqwFEFXuYqA6UJw=="
 ---
 

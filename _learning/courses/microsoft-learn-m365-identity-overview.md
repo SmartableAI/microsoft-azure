@@ -1,14 +1,14 @@
 ---
 title: "Define identity and access management in Azure Active Directory"
 excerpt: "Learn about identity and access management in Azure Active Directory and why identity is a core component of your organization’s security posture."
-webUrl: https://docs.microsoft.com/learn/modules/m365-identity-overview/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/m365-identity-overview/
 type: course
 price: Free
 length: PT15M
 ratings:
-  count: 4750
-  average: 4.763579
-heat: 59
+  count: 4751
+  average: 4.763418
+heat: 139
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     height: 400
     isCached: true
 
-secured: "vXws5TDukmgCmfNV+VzEUJTvwswx1GaPcMa678SEEhXxcKwQQPFsVqhEnz8hfUVAY9rn3czhtNnWu1F53U2M18F402CWWUC610TT10vNVq/VAW9XzI0iATgrKMJMISIfS8fJjMGXXWHaWZW3tfQeXh3U3RCB7MBCYOnPGYIArVLKVKVGs0fhkb5jk1f2GoprmM74Cu2GoXV125kU03DTa2jIXV43Qjrslv+6utjhBV5ZvesIK7+azDwrMgXQWtCZ1aaDRHqO3VyIQFuB2kLF/1SqfF0sqScaWEab32imp4+IEIO1yI3u6/vSwFMCKwmO7iQzkEI10QpULNP7uiwY9TnYIoa1g1RNen4amw4/zFOEXpnxSz2DCeybMi8kyD1I/er7seaZbfJdEYKwkSPwGUsVfT9N7yV4LX1FM3oTVXs=;LPlaHsnl+YRacQglSUgLRQ=="
+secured: "QzaRVLOnjd323viExvhyM4zHeNJRJITZANpFiheFjSB3uwFDH9motAxNIWDqW1rtPL3BdN11vZRqhC8t0sZ4MCrWvFk7KLV4h8rzBxmIlePdpoCj8ILKlQcxWdgDuJhOFvtfpdDEXn5zkiB7NwbqL1WFGTBVtGVDiGsTr2VUDN2A+n5kaYIIUaIjYYfJuUtkI4Cr2XqY0+bSojgBLLiUm41BrUycw1zPHVUa2K+8QeXU62O70hXowtZg/cP0BHrc58bgOmnnJDlJLLbcwEYPCqroxpXXTg5Lc+lfspcSLUeKhiIChdtg/KlBdnjdHAYqjAvGp4V/X+NQLvUaCPlnFDxE5b60nZ2a+sVdbTdL82+0dfn39JxxXVLmJ/xaBXOnLHcJVyLqtHdXaSx+oKy/1Q==;omxzhL3tVaVPutEUw/GNPQ=="
 ---
 

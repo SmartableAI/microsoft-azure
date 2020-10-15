@@ -1,14 +1,14 @@
 ---
 title: "Manage enterprise security in HDInsight"
 excerpt: "Manage enterprise security in HDInsight"
-webUrl: https://docs.microsoft.com/learn/modules/manage-enterprise-security-hdinsight/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/manage-enterprise-security-hdinsight/
 type: course
 price: Free
 length: PT37M
 ratings:
   count: 53
   average: 4.6226416
-heat: 50
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     height: 400
     isCached: true
 
-secured: "7rDcGX3Knfg48806gxmscoUtOY7PMyRQt1sdImkL0tcorn2pWDpHkn7dUNa+0qgZ49nkMJDAX9j9OYt0+l8ZWUZXHfjnH5OU94vsAelN737DIvrujXde10dM8awZ0GLgUKPsmHL02YensScZ9JCcuCBzi5BBj48v4wpIe6SjQVwzw/GCk5lzeMbE5sBC78V0fL1EZaHz6bHer5xNsCCWojgndbYzH4lqwTx6yVFwsrlj1iMoBwd348hkET2UjevSR/R4CWMpCJ8HgpdDH/1mTjYkZecpZtU08OzSwFeNuQuLdcnGuub8UZ1gspUvfRDxYVpL4km+pHaZhNMj1a1IOyiF3YiVHFuOoCgOPejAw4XwDrKVQkqGdQFk5QY6qR/VidC3BUBWdTFhnTQ6AZZog5GOGKjqyKwxfO1W/iM2hUQ=;v2xLRjUvBHBfMB5JhZk73A=="
+secured: "+zQ9JgfbFk8bzTLDw6d/kbcKACckRUgQLsUhPjTagH/h0umQW+hUtar46xO/nCq4jTDZKED6qqTWhIB+vm5oM0kDuWvmZBkV6hpA3mL91b+NpsunApydvH3VQXZdq/dofJfVLyNA/0kzKgP0TlRl65Od0qjo6tTZTnMDTT26BQDCW2kQB2GNc1uAi5/4s0+XIjH1w7wYLASOwl9FdhsZ46spnbHb6Qg0f6Ncwv6mk/azo3FBhYyXZUYaItjP3iA+TL6jU4DHAYdHiAR9Q7uQX0iwIYXrSctvJcLyrXDRrdZ5BTvfjIGJc7xmSSzsyb6+ZwnuwZBnTtItiuETFhBM6h+ECEyMa5PpHutC25+lPWkKs6i6YR7U0y9sEA7WzeCvJA1auxggGoDBKYfOPJHFiw==;00YW0PcqwLTD+VbSwpQ/FA=="
 ---
 

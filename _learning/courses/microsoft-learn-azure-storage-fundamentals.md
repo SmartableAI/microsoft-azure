@@ -1,7 +1,7 @@
 ---
 title: "Explore Azure Storage services"
 excerpt: "Learn about the different storage options that are available in Azure Storage."
-webUrl: https://docs.microsoft.com/learn/modules/azure-storage-fundamentals/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/azure-storage-fundamentals/
 type: course
 price: Free
 length: PT27M
@@ -31,6 +31,6 @@ images:
     height: 320
     isCached: true
 
-secured: "WsHMgOBYCa/eJ9E1dUZCUSxjxUJixpTrXY64oQIPGEyD1jpJ8HfNfWYTvd3BQdEosQ1rYM0tnI6e2KotZGyT2fx7ufpcn1GgoNwg81YRjfYSJ9HfRkl/M8P3lQgyhVNStLv7LH66eaikQrCFtGN8ZueJVaR+9+z7PSVJ6O/nurKBwxX+vDqWlIki7UU2NjVGETEe3tzW5ava2dB+6Tyeh72AIifwBjjiCKfhPo2u/YjP76VV3mi7xVWDzAs0CpV5wOP14JMZBUOA/ZEOSZxD9xUqntMQ3+2ey62Mw0tYdA9FQv0FmXx35BW/51H830GIlr+tJYmlea1aI4keUH6t+j80bMiYconKWQQNNnTtxMTesmMEYq9YOnSOXdAYPEvOE0vNo3dqytkHcFnVE+A25FC8j57k0P57vZl4n/OzyA0=;2GsReJU1v//SQkyjA32vNw=="
+secured: "StMTjAw3c9XliSQrXJzveCKAR4aPPnv/sHonN5NZji2KMSxXJ1yp2BHTFhLxftqnPrATw5pCfq28LdurnMEUtlOx/rlccgtEusheI4AKGY0KG5klpNhbGqoFaM4qjfjA7ZPElmeff+vSjsWed9/yo/GnTIOwuDxiX0qA2SIoMhm1+kFAL+yjmtubrg1BkqEP1kPiLrx4hZQArA+eDd9HtyXfD9OR1CuizPgdR8I4Tbs/AS6K/yMRoAq78aU/Vsv9TNl9uwqAKl8zjg56PiYzwbWQBVWK3UNee+W2FIXEuzQUXmgTVspWQ7+xODBBdMvDhkKxZpkIHC+AOAYG/6b3Ct1JIXphfsrmjt8fD/vJ0Rqj/S4vvcaM7LOwa2SNCXZlVn9JFppJuOwksLjz/7rs7A==;MI2vr/mmerBtDjvjJJtqeA=="
 ---
 

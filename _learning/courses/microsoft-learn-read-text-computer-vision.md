@@ -1,14 +1,14 @@
 ---
 title: "Read text with the Computer Vision service"
 excerpt: "Optical character recognition (OCR) enables artificial intelligence (AI) systems to read text in images, enabling applications to extract information from photographs, scanned documents, and other sources of digitized text."
-webUrl: https://docs.microsoft.com/learn/modules/read-text-computer-vision/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/read-text-computer-vision/
 type: course
 price: Free
 length: PT24M
 ratings:
   count: 238
   average: 4.7436976
-heat: 52
+heat: 58
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     height: 320
     isCached: true
 
-secured: "QUr1zhPuTBFC04DXg7FarDwKs6ytRdYLJ19UK6vuO7vhVAlGkvFlVfKHWRLpn/Aw4vdqEBjljQnNB1y9zhFYmCPB4CfV6CikovABQQJAYEnpyIJXZPf57FsGXJ7lM7qQ0ueOlfMw+zNQ2OCFTpdPrHlizqr/U0AIGsNZbsdiT7UWAQJq3PToyHVZDT8zDSCr6L3ZiXb8pJbmksEIz2Jnc5o2ZcLF1Z7uu+YgSJ4c9OsaOh4vlSDbuU/BD5hNgQrbq0fBGvj75aXduQdUz/ZTyG476SiQdS9G1jBtMdgrmSfaN9FUnezI+OVZbQFl4dH8lPRJnkoJywDRoojO0LTvGGWvQjdOeyJdWV7+pV9KCDU+H2b44pJb+Q9PigaqTl1qvYGK6yDJAZA2Yv3/X0fiyT2ft2yy+4yhKrO84yJ40Uc=;+9RwLPZ8Fw2hsAetiFc39A=="
+secured: "UPbfUJ3nmYqz7pL+1VPQgTnxKzT64tspCXDcbFKUnydcnfVVxyjVm6y/QZ2fmm3lkEqt+xW4gY36k9Ca1YhP1og6imp+HFkTM7Rh5L536KNLUx+mba2F5nXm5iKqcx/qP2oZUiTItD6gk7ldbIrzR32jNtc4CjdGFsmwsnCmfhTvCq2TDTYa4S49hlEWrI2EoMZ70uf9x1KcglAD/aReWJ7p8PNF95qPqEBlpMdScOM7kvbCfxaNDJNgw04hz+7Kr1W4tbfHxLCYmKXT46Uj4uFVqVanCDcF+Au9/kNDBG/TJDL5Y+caIjqwikkzgbh20EZzx0M49/1+YKX2mTv/+G/w19+mU4I/XyjKKUWcHFPhWdd/o/Xk4zI46L9vsqtqLQpCiKWO97mNFOqlL1JYYA==;liAYLjV7zbkA0iXWzWJUQw=="
 ---
 

@@ -1,14 +1,14 @@
 ---
 title: "Register and manage devices with Connected Field Service for Dynamics 365 and Azure IoT"
 excerpt: "Register and Manage Customer Devices with Connected Field Service."
-webUrl: https://docs.microsoft.com/learn/modules/register-and-manage-customer-devices-with-connected-field-service/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/register-and-manage-customer-devices-with-connected-field-service/
 type: course
 price: Free
 length: PT1H26M
 ratings:
   count: 55
   average: 4.690909
-heat: 50
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -25,6 +25,6 @@ topics:
   - Azure
   - IoT
 
-secured: "MYb3sYzlfFB6dTD0jN8b8BmxsDFj1UDVf5M/sDkJJLmb1FiGQ12Ic/Gj/JcV2tcNab9CvAT6QSnA9Sk9rrawRCEbbroXi4HNaKyngBfmD9uli+1+JPwx1O2AIZ/22OD7CsEeko2VWXarFdQ99cxhGFlKAJPCYit25PehY4CF++O23umENrgghykKESwZIBkXUjVg/FCMnQ6G9Hda+5vP2uoxYStrKQc7mfVgWjvxZBvbT4MamANmIEhL5do5SBAyqZnlH22ZfWbgvGiemKnTDTsCSUXpXdV4EKSFfCD4zobnABAl0ZuW7cZfOXERBrTy2l8BkF9a/pLDVevp4/MkWiotog7H6ZlC76BRN50rwvuGghH2sQXrxB3ftU9tGPhs3piyqM7aQI63oU8HHYWMwUBxcSbx2ibFveZ/FvNZVoE=;EyMgLq0Tzfbs6crNwkMrvA=="
+secured: "mZq6it5wsgizpe7Ll6009Hh1T4BjULmmgoAtC3cg+83Mo/n1w18ExHFlVdt+9L3lYVnkPM9XL+xeyUubS0Y/boXRQZxcXVDBoUidVLUb1VDpEfFL8wUDZ9Dj6vpQ5O0oe9DluKiIo+QTCqxbEU+Qg34LaeBxQ8zBOVaBa8cnHX39ysI5ekgj60i6EYa1tUD24qrR41CTBPigQ4vbLrU6R1xnHRMT7DakLYzhGc/FGQfqXeAVF/5o7s7vrIkIsOZJ/S2C8m8nP3j9pM6suuRagihXasNHpU1Rom1qEWj38AQSjf5S0XVCxcScSC/w5xKdeEcqEtQte6b1eOI7L3lFkUfKlj2iuHfKWKd4GyXyon84enUxUrzKdcqJBkCNxPP+sd5509jFyhyLqalwyTixkw==;NQon3vgfThOPGYHHaae8zA=="
 ---
 

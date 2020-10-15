@@ -1,14 +1,14 @@
 ---
 title: "Manage access to an Azure subscription by using Azure role-based access control (RBAC)"
 excerpt: "Learn how to assign management access to a subscription by using Azure role-based access control."
-webUrl: https://docs.microsoft.com/learn/modules/manage-subscription-access-azure-rbac/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/manage-subscription-access-azure-rbac/
 type: course
 price: Free
 length: PT21M
 ratings:
-  count: 10710
-  average: 4.7644258
-heat: 94
+  count: 10713
+  average: 4.7644916
+heat: 185
 
 provider:
   name: Microsoft Learn
@@ -25,6 +25,6 @@ topics:
   - Azure
   - Identity
 
-secured: "TISOJIDOLG4xKbXMdtrEel87njfgXIX8IaCdkKTzGhB9TeMFdaYTCH61BUASQt+nDjhWcpPjf8+zfP5RetTtvmcYPcAtjB/KTlkl08PuwZxkKdqizmojYYaLh4/nvNejUzg5iO9xByG4T6rC7e7wiq2O7LMy+M1P+7GOG8ehOSOM32oV++YLyYvD9yXwEUkRe1Fk0MaEOoOLoXveI1oyNGHGi2uWRs16QAjCUrnK+d7IKnTXqud2KuOidy31TiXQ4SX3AsHKOZxVdH2oI7qq9nZ9NcYlCEBz4bq2jSpmt/JcS3QVw/nwQsDTM9NJfG9ukpWQZiO6u4o3avUf+fYrKPs5lkdm7wEjdI6X16TfLvqWxBVooEVBUdxUHsv8F5hcW3hsPx+yIVsLIYBk2F/wymEJ+DTLpc+rKIGOdAcktXs=;JyxNlCiWPzrQFwox+SBsOg=="
+secured: "5uuu7SlVwNHLarIaLP7LKFO8JvnijOobAdTI1IqsQ+EAnN1APHypTVxsEkkIswehd8c+IGaa7AN909HoVuGl8ePA9V+cxIP8Xd68lTaCOGiFfppqJU7c/ssr7pQ1owMpjkBYmJQXBCsO7oZvP2/w2zooNRol6EUzVaxf0/+r6Zf7uyeLWqrPtOi+ruhTAtzhQ+bztGfPrgyvmTSpNs6MQ2VTPigTUS3ScUfC+VIAYsnIteAMHv1oixCip9FlfXsC/jjGuYBbdJLAuNOF1mPJfqOB7UBGmnLHX5XgypU8QJfH2ChYpqLQumvs1mMGlAUykklEawdYXKaOEOKxfCBAtpqar+VDva6hkZvl3AtSV99kgqUxdEb1W3yrw6cgV+ME4edEbzhSU+vPQGVYmpp9RQ==;DiaT1Xi3WJy0MbXceMODRg=="
 ---
 

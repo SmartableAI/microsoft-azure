@@ -1,14 +1,14 @@
 ---
 title: "Explore Azure database and analytics services"
 excerpt: "Learn about the database services that are available on Microsoft Azure, such as Azure Cosmos DB, Azure SQL, Azure Database for MySQL, Azure Database for PostgreSQL, as well as big data and analytics."
-webUrl: https://docs.microsoft.com/learn/modules/azure-database-fundamentals/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/
 type: course
 price: Free
 length: PT39M
 ratings:
   count: 111
   average: 4.6936936
-heat: 57
+heat: 53
 
 provider:
   name: Microsoft Learn
@@ -34,6 +34,6 @@ images:
     height: 320
     isCached: true
 
-secured: "vmOVjX2zx3I2xwSOl1ttKL3gEGUzwB53weWwYkYDzlNGsxqHQ3w1MaimSiEgtVW8lyvYp5X9oCMahQDXfEIu5PDKZbdMa8L3ILVnWd1rtGpANrxGpfu3SaJPn17VzGKWzBcy1qd3n2eLcJlMwXPq8S9mZbQKH+/Iw2wo+q/kwQUmNBeBZQst9y7CpErRKmxwGCnmOaVk7zqx5uUcxrbiPSVw/BW0MeBq4NFWVE57lb3jbTyDuCa/2LiRT/aCFxOeVez5rCRgaZuFMyvtM0XsH5pOuLlrn7Mt5RFo2S4eEZTuBVpNsjI4X1b1MLUyGGDD3jOUomdv4tspCdYAswGeI+9YXLucxHAPTx56VEc/Ah1ifri4XDnmYnjJnXfiq9utlScIm7hryseAb15QFdCsA7qWGijpJZufPlcdaQMqWic=;lokDewv6RB/EO0dSE70pHQ=="
+secured: "7OKclP55HFX98lYvxgoT/Dad6o4jHduLpMx3wPHy+wZMb0DXwvBKP9jxM4TLev8PFSl+s7ykRXcuSLBeR6gFdlvuNnj7lxXWjY272VcBOZAoTpztFLYzWuPWCOwzYtdel6xKOSykXnalyDt5pJz2BRyvdQykFqHZ01fkvWvSNgfJx4jDM0GA/C4FIH1wG3Kg05I+hP5mgEz5peDpzh0uuYFUvGyOhtm36yOMGthsIQmxgWsvvBwBZxuEUCW+NA298Yf76blHBjQtO4Pr6eqNmIfxjxff8tA7YM82JqOyC3VH6vzmxqm4BrTBAkQrQ/zFJI9kMetS0/A8cKsu0qjVh+A2pz2ZIXdUCkZrSBs79Aohufx9a1/RDroASC5V9zMvByuUrV9PbmW3BO2OXVFbzg==;bUJomJZFSkAMyP1PtM7wAQ=="
 ---
 

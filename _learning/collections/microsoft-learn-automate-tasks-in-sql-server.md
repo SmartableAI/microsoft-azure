@@ -4,7 +4,7 @@ excerpt: "Scripting repetitive tasks in Azure SQL for regular maintenance jobs a
 type: collection
 price: Free
 length: PT1H47M
-heat: 50
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -27,9 +27,9 @@ topics:
   - Databases
 
 images:
-  - url: https://docs.microsoft.com/learn/achievements/generic-badge-social.png
-    width: 640
-    height: 320
+  - url: https://docs.microsoft.com/learn/achievements/configure-automatic-deployment-for-azure-sql-database-social.png
+    width: 642
+    height: 321
     isCached: true
 
 secured: "1ez+PdnQ7y3nWHtbwfjOPwQnn9FpGCXomrMbxKSOtC7mytgaR66jDSnCdLAOdJ0gF0avKECbFA0fm3uG0PLlfXD6kdbHNPm2cD+sv0A9u+UyTNPBOXPidZ+yRjAZQMOJhmDo+siCGT6rFltd84Ykkmpx23U6wg0sChN0QYXdNJzQwuBGyqDBqAzRTnxsZpz6D5eFVCpht4aGkT9Y04sevgbBFJct0Uhg3+R/6OB4SbJmrgIke2BbMhFKUMNpSOkXsAQ6BSOl8dZBWZrvtAztGfzOMY5Vi/cmW39OlAj7Fa6U94etg9kS9jJExuwXYOgGesdoRy/tFrbpLMNJAiPQ2eLpBhVxC93gz3r/mSxMjQY=;N6NdnYRBf1h/fLXxSHmwoQ=="

@@ -1,14 +1,14 @@
 ---
 title: "Microsoft Azure Well-Architected Framework - Operational excellence"
 excerpt: "Learn how to design an Azure architecture that uses modern practices and gives you full visibility into what's happening in your environment."
-webUrl: https://docs.microsoft.com/learn/modules/azure-well-architected-operational-excellence/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-operational-excellence/
 type: course
 price: Free
 length: PT54M
 ratings:
   count: 478
   average: 4.6841006
-heat: 54
+heat: 65
 
 provider:
   name: Microsoft Learn
@@ -30,6 +30,6 @@ images:
     height: 320
     isCached: true
 
-secured: "FnBcizx4TYP0zwM2uaByGM5rm5SzJH0doWxbkScFKBevMNVF51wfLerVAt2R/SI+hu0/USLRy7nZSJb/8zPxDXLtD8O5bNvKwXOmoKuTtgFGwlVSHY6rxq1qSaZ2VVkrJPGuSLlPxfBKdzGhzGfKTUSQG2CbiDXHfl2+AXLSZZh9y5d3G8moHhy5ZHs+Gcakn08VKPJysp6kGtIuMMF3kMSyyRrhEP8AEZBZl4QiuH+6urRqD/0k5AhgXa+QDvdP8MP8P4dl7xSNiQ9sIx3m6OSYG6XOOd+TJEMYuh/5DRVxCovNE4zui3Ztj3Za6OaFh9F9XVcQh3xjSjK+VIynJ9SkGAUXlWdzzTUYtKzJub5hv61nxF4YyHrNs5YH1SEkTlCEwQ9uPIsQ8TivRZZgj6x61LXUdnPvM/LcCLpegaI=;D5OpasLkQ1ig9HBV4UvzTQ=="
+secured: "4oyXTvbmIcKDAI3X/JTsWzJlUrB95M2cXv5fmk62rqd/2+0RBACicJ5Q0vHos+8rZdew/I8D9whuS8ttqtMo5IEXkj1TuLO3wfAGNsszbBLPehw4xRlp55XPEZGO2B95n9SdSYlTSd/GoggzSKbx/oMeBkhmRHTfL36vPlYwbUIeeBfu7HfzpboxA7rMNDMwsFXDRpQ9UGMqrKlzaxLYDJu0ezP2ZEEIv+cNGduHiD1O4Y+NjKps7Q6/WFX8SwXsvolI77qpSSxLUXTakYqOPUU34QdLYWM2MYppVhTYUCyTjLZyv1dJw88b7uEscCtrB05TcDUY9TBwBiXTaTIjaNZrNGhPZ9GYY7GUipWN9LDeaKoy7NzPPjNqvSGsdLxOP4lMG00JkBVSeZ2Jh2ySrw==;AExixbOOWvRSBU7ReEC8gQ=="
 ---
 

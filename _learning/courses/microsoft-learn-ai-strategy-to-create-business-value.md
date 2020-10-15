@@ -1,14 +1,14 @@
 ---
 title: "Define an AI strategy to create business value"
 excerpt: "Explore the strategic components, use cases, and special factors of an enterprise AI strategy that creates real business value, with INSEAD and Microsoft."
-webUrl: https://docs.microsoft.com/learn/modules/ai-strategy-to-create-business-value/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/ai-strategy-to-create-business-value/
 type: course
 price: Free
 length: PT1H10M
 ratings:
   count: 2340
   average: 4.697436
-heat: 54
+heat: 106
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     height: 400
     isCached: true
 
-secured: "5USUcKBxn527LJOH0SlqlvPZo08dKbsxDpYjbLZ/tWLbxHlhla0Nb+SpFGXowldDFosMmUYJz3JBHVrRImsZplDg4QYE8gF8SkBGcrmsNRze0UZ4dVdwtlMf29Uug9cyCAknQeGO8Ss1XD+6S+evMyoXjMa+sfx5UhMiVZXCbG/GfNdyMuQtxU2fQOX+LLPfi+g7vPCz6x2hz5Z2WOoHMnFvshsqegpdb9Obz7PI2CkIwIqKCJ1jsUV9Os4GArjaCRFI1uIkhbnCucHGOwxgW08vJaI9ZH9KwgMbgy7k+x26JniuylJuOV2jUBrd9hR+00tHoptwgTSGKSmU/f80E75q8y+ru4bLky3AmkNxs9dt3a9JC5MnPK3a9g/pVUVRGY3VuGMCTQz0IXHuuwFCttfAfBRMM9T+1rYVU41jmvQ=;vpC1sDUUNKqP+Uhr5MW7cw=="
+secured: "FHC3ARqPWlFIy3j0N6U9MCMLyoyUOIFnlI0k0C3zg9Ykz9h3zlPdIJoR3HrzmeX4VBw0m+Z2NGQhGLHL/uMff/UwSMA8pRF2rMCD5JVnZRp2IA1nycaUccpr5pL/US//rmqY6qS8nsj9BBxr1Q2fDYkN1UlwVK/5Gdu/uu4/k33yiDZ6H6hHNNOBK3OD55Bb7lJsIjZAnLyaj5ONAoPSrlDdRV4tWs6fRoKHpMXlAFrEoySy3WpiFQVvIP/1wug6f0P6wfCdzkuofrqH42WxtXXvJtEB0DekoOz2sPmfp2ZYTZnhdorHhJpzBaaO2U5Otm10Yfm/wkSGRQIdlgvSMRwTKp0TeHBTI021iyeHXjfYZ4tFTrAcH/WHXuQLByn6s8by9OELrFyytffBIHCMxA==;wcjRDbJXeT59O/C1hVNJfA=="
 ---
 

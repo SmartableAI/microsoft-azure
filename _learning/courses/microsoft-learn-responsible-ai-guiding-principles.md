@@ -1,14 +1,14 @@
 ---
 title: "Identify guiding principles for responsible AI"
 excerpt: "Explore six principles to guide AI development and use - fairness, reliability and safety, privacy and security, inclusiveness, transparency, and accountability"
-webUrl: https://docs.microsoft.com/learn/modules/responsible-ai-principles/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/responsible-ai-principles/
 type: course
 price: Free
 length: PT56M
 ratings:
   count: 780
   average: 4.705128
-heat: 51
+heat: 74
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     height: 400
     isCached: true
 
-secured: "lF8u82CO0WdrI9kPkLC4stn87gsbOymxoGHCOyWlvFcqC4G/KmowNK4uLODuTFkzlR5ZSRac/d+2KNw2cOEpxqMRAQBup9IKx3S5O59KjrlIkfpMTS2k+rh1JDKtF7KTKHUxUHArg0HyAIU4+lCuDoVPmxLlXgmY66sw3+SSjG/F1gxmqNh2J47kBN1ST1AmXrrkVQPTIPFm51+Ss+jbNF+2jTS4MykWw3OWqSTGS+F8W+tAbpHcf8fORy1SkmQsj3lz8ZMV5isp+dZYgVM62g3GQg3kXIdBqODSJl7+LdlCI1cRFhNaRTUj9MTHIz/PoMKGUWPPElp3tOOzaZs8bgqhfB80r07RX/Ac4xtsAD7nu68Roia3dSyohdrRtxmiPRjUt5ZAqqPSp9TF3W3KG+4R2zXsF3EsjgKOZs0Q8oI=;oILjAQBq23scc3FBtozS6A=="
+secured: "kz6uWC+EsS5DTHGGlE+Q7yGsdALpnX3q+0Qjeyme2GudMOTNWQodCukyvqbEi4CTYNgOgksk0cLEK7Q9b9agPk9sMwJPq49jYD1i12slmJ+TwiXGr7imi2qd0ow01UH46vf5PJZandeVnGXF2CMQiupPC+LGf4ZZKo74Y/LlxvVsSqQtiyT1TaowUQ9/SHu9g5FlgiXG6R9CfY+sLXP9ZAaQ8Z/efLWxNSh2zborOUZWl96Er7Kpxw/yh76PMxTVsUR4OUUPtZ5vfCyh1jBjoOCEpSmSoBF1VBG6Ra9IPJIn2PP1FOvv9vi9Qj051Lzk4r2F7oTyJfRHYAnXAfgy5z9A6EIhb5xu+u0RKXU3O0Ql7K0TPLoMcXCdhEpfA0MOjwgbJBpA2kZngnQ2oicBJQ==;Mxn/Yl9ncEnWK3YViITy/w=="
 ---
 

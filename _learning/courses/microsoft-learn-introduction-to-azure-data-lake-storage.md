@@ -1,14 +1,14 @@
 ---
 title: "Introduction to Azure Data Lake storage"
 excerpt: "Discover how Data Lake Storage provides a repository where you can upload and store unstructured data bringing new efficiencies to processing big data analytics."
-webUrl: https://docs.microsoft.com/learn/modules/introduction-to-azure-data-lake-storage/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/introduction-to-azure-data-lake-storage/
 type: course
 price: Free
 length: PT30M
 ratings:
   count: 1732
   average: 4.6968822
-heat: 53
+heat: 95
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     height: 400
     isCached: true
 
-secured: "Xx4jYXyLxGCcwT4k3sjcoMpfUfSOXvmH5Bkrqc5ZUgpSrD0DlV7UBizKcdn4PHuFSqj8fFu7IqXla0G3UaGx18tTSrQvN09oYUmMBQynko9DHBNCudnvrzlbSuZ92H7FHZWsFJvr5m35ZuFhXg6pSCTXuh9sL7jpGnilD2NYzO+bSxaHDfTmPlITmspOR4Gu3o/nz0CxW7QMRuIfNk5Tt16C/C7hisaR4tSqSlkDMq2vF3Y928N7DO6HMpQDoW/r230a4+yAv36EBjdC/bGuZM9iVzqXJTEuFBtT2UzRlNJiTUxegQZsSSqCjt9aM/88FV+aIWlx5NK8uBi6vHgU8EZdCe7VFd6t6+rOgwBD9sQgGaQNxyRpa946sFmiEERMt4WPR/07HCrv1IGX5KsAA3N+sz+W0Yd47DqCkHqG3EQ=;wfN92JHzkvN5342bD5OmVQ=="
+secured: "gpipTn8CzYJjrkfHjxPTtE9NN33Q4MJcbSbgBKO8byCzwsvT+hj2nZ3+RcbYsFnJxjztC/J2/JqX5/Pj0Sls6ozUNJqmqCvNMA+hNyH90XYMK+EZTV8W4PeiZuBx4MMczqW/HGyAS5sQfgBHkngfDTp7+G4zZ1zHVVChGK1KDQKHnZ9cFstwT9BH3nti6heMViNel9b/rq8EoTUAcuGucfmsBYFjgs0MEPjDU3Oa26zN1peYC153OYgea0SejWhKadpojDR+IsqQ5zUm33/7ODGyGLrxyfZ+gXwCHmG92SMnkfDd12Qc8LEyv+JfyOC3FGSl7Ufk2JLbmGPJQ2frMpXE/V1IQZ63q7T7jsW25mv1lA3/q66iIGWhe8Tict8SmZIgKM7CBjy+4yRL3ngfCQ==;lgeHErvVahnyNOFiKH3HEw=="
 ---
 

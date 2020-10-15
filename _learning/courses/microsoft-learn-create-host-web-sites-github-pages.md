@@ -1,7 +1,7 @@
 ---
 title: "Create and host web sites by using GitHub Pages"
 excerpt: "Learn how to host your personal, organization, and project sites for free with GitHub Pages."
-webUrl: https://docs.microsoft.com/learn/modules/create-host-web-sites-github-pages/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/create-host-web-sites-github-pages/
 type: course
 price: Free
 length: PT1H12M
@@ -30,6 +30,6 @@ images:
     height: 320
     isCached: true
 
-secured: "UO6UCXjNCvEVx7/N7Rxqsuuk8V3LAD/gSevk5tKflltQfV9R8+I8PdkS0qztztqPXsAbj8bGyMCLHZX8abj/nRBg3TNYQAqXchbh3FQhzGVl2snF0tIZ7BjWL5BfDkUDtoozMTS/rfNMkHL/9QS/fGro6ziUs8qepNRsLT3TrPYzxUaozxb+p/CWB+UJ7dgeoU4/2QS+LS7NHM7UdN3/dKCsR/BPmHVjpIH7oDF7FHH5AIUwVCt6XddP3T1scGkqFjs7nhJjInakcBUA0NgJKCI3+2pg8bFtkAE9s3lhFlg2qF0dvt/hIhQkQxKJHxHnyr2KWfa24BWfRwdpCvJh1OulYZn4DYXD8KsXmxdfoN9OtsNhnTFxSsZ3a42pPe8Vv8TZTq+zercdj5Ct5IBKBmaLrISAktfDuNGdLlfONr4=;2M/uq3RMyhUoweB2YSBhsw=="
+secured: "/QsoQzbdzf2gQybJ5qvZjg2PZsWl48RjeLY/GWf9z0JbRZvcNpNmiB4jeJhWniVTl2D4gr+0yj+Xyr0Nd0iTI4EQyzWvbz9mW4aM9xWaXo9tjj6Vutwkps6+ycDcyFaP4orLnMmZErb5qicH3QRYeZmmHjotxHbfSVLfIsYl0ulDEI4l/4AQZsmb3PCfJg2Ivk5N5VnFKBXCforqb78GlntuhEhZ735voLr4UEwt8DRK6eq2YDm2hYfPsu8TYHFZLKfRCiP1V+O3jGIVUcD+14gnwiEN+5I0xRFD6iD8dyLyIdfV7XOgrvkL28pQxUEk5jTqfY5wwqYuHQAodCv917WrQJTJt0q5IPBVw7OZ3F0XCqBR4F1X4L7zwT2ilm4QDdJfyJZIkPRh56FF2lRpaA==;2k5ZoxWuIo9cxkLkEccxmQ=="
 ---
 

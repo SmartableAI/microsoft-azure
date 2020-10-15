@@ -1,14 +1,14 @@
 ---
 title: "Examine privacy, compliance, and data protection standards on Azure"
 excerpt: "Learn about Microsoft's commitment to privacy, how Azure adheres to common regulatory and compliance standards, and additional considerations government agencies need to make."
-webUrl: https://docs.microsoft.com/learn/modules/examine-privacy-compliance-data-protection-standards/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/examine-privacy-compliance-data-protection-standards/
 type: course
 price: Free
 length: PT27M
 ratings:
   count: 44
   average: 4.659091
-heat: 54
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -30,6 +30,6 @@ images:
     height: 320
     isCached: true
 
-secured: "NQtk/3bgWUWQkGJ9NWsaRHruoUyv8GloNAleFS8I528NFlrgzz2v0k9tx1zjLAi2kzOhEH/0tIF/h0930sRTfsp7NaxICWEklmmstZ3R/1BdL0Sifz/gltVqIlZPmXpSZwN9rm/jSMKmVYR28WsU7pb6L5ue0/EE8ghcPQmZTvPsM5aqoJuS4mS2nO2DXARoHEBI8vrMKTpaL8OEyWMTTp6LfvBbiomrwXKvtcMWzl9e3MZaQVZYiBmgLuJasEV7oqcBFSQI5SpHOY6i5BZaoMIDHDy6Tppu2niiFGDgn7gyRrBIrZIQg7tjkdVZNWZfuWYWwDfisqRu12HByaKQewnIPxoJuvcWngikoB7GIxMdefmNitmdiqhTLJunu/92q1ljmXzQ//4+9E1yPRcoor5Fi+TLQ1K9FqvYRygRjPg=;AOOXwRzdkQxNe+CxhPsbMg=="
+secured: "0eumpgi7Mn+x+gRLVFxdYvDgq9Og5SO2RgxcM7+Or0TDsXW6X8Ido3Cj1lCEmPGKajKgK2Q1coSQJ4rWTZdyE6qmewQj8naLCLMWOn1/bROUf9IFZNeW9JuqbgzknCSkCdtezW717Y2XDX92F9bsD4u0k/zjHObnAcbYaThOhpL7iNaFfMA1IkY1ywWpR5vUb5SX3SHKOvxnbMV1fXs6vbNGe03STwxyatuOClQT93rQzKG6im0oGqm8b02fAoeMdBO5g8QlFnMmD+Xhq0tEY554CDhZG876Bl3NUmw/bo+AQ8mAb6IX3334NS2hEQunGhUv6pvI3NozmXigsGX4PFKJMpRDnyOkJptC42Mbz7TXjJihl8wkShyzNhI+FK6dtWyiovJt04x0qfGEuglYRQ==;FN2NJ5H8Q8/Im2Se4eq34A=="
 ---
 

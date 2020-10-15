@@ -1,7 +1,7 @@
 ---
 title: "Getting started with the Microsoft Cloud Adoption Framework for Azure"
 excerpt: "CAF getting started. Use the Cloud Adoption Framework getting started guides to unblock your organization’s cloud adoption efforts"
-webUrl: https://docs.microsoft.com/learn/modules/cloud-adoption-framework-getting-started/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/cloud-adoption-framework-getting-started/
 type: course
 price: Free
 length: PT43M
@@ -30,6 +30,6 @@ images:
     height: 321
     isCached: true
 
-secured: "C38whrhWm7rCBEqaSAD9kQWVUy2RNReHJ/Nws61qo4y846nqvPfM3BuuO1M3+YIZQrtnIJtewwQmMZAqnfZ3rkcRn4fQ5ifzyK2fbLJ48o2+AJ8RvyOuH1rcQzt2v8nD6mNeH/iLGSJT6gzeYEOSOHHEJT0u/Yj0d1M4gD+susfBr0loq3wwx7vBbqpAgbHcN7Pt58lC141nynx+fOZUrzDG68RmLitaXJphKddHLBz45estAmHJ6768d/8NPZwn9vd4XbRFCZEg+zQiGXbhbBZUmOc1sYEUxggxzy/EqweLDyVHL5fX6eBFf/xQDM8EvlOE/L3YRrjN0jFs+wNmU4u2OEjeST6+8HRNrERaqMVXsIweoNBv421PZOM+xu3CIcjkyyXGDPZQ+zj4k4cYoRrvTWmCYFQg5FbBqCrgmEM=;kR01EQmRZq6ajTbvKjKOKQ=="
+secured: "L1v1YVT9lxO9hYmnYEftEr24gAtcwDtR8uuD/6QwSI8PUgQsoJeOBIGdKxLxsY1Hi5L53tfgrKSKyykhZ9I5IBlzrGkI/L1RzP8b2O0/hX9bt/u4wrdQKrNUZm3UUif0Ug4Io7RKSRFoF9qRKzgQduT0/F1ICiH0viVKJtRIPWe/YqeMATaPJ+bM/v+pqAocEJIm4ddhMizFNsDgnaNv9OeBaMF/Geiil/RU+Mn2MtnXlxt/KVnFVevjx9NNW/q6ZFMrcJxfejV41vah6taKnTP/I6O7eaCOPxM/MajzWkhHIdvv7RClW0FcxlggwhQLw6ZrcVRWB34PS8B+W48N9+gxEP1oIWflsovEOOL2zn0rU99yJAmZe3c6PU0Y+ZacLI8fFPtU7IounJJXvwKEHw==;CM1l1JyTw/yNThS3AUQndA=="
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Learn how to use Solidity"
 excerpt: "Discover how Solidity can help you program smart contracts for the Ethereum blockchain platform."
-webUrl: https://docs.microsoft.com/learn/modules/blockchain-learning-solidity/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/blockchain-learning-solidity/
 type: course
 price: Free
 length: PT44M
@@ -30,6 +30,6 @@ images:
     height: 320
     isCached: true
 
-secured: "pYkEOU8COQGEy5XS7dXEXEnmFOKJok/YlY34RnB2wj9fDDA+gYjYESSgRtVtvbSjVyPzcM+QkkU0dH0qFZBHHLHzjZlHy4NTIF7Yhel2yiV6N/DpXt4JYHK81jwoErHPaUTqpw1srChW/KuftVRTNKwgyjfpnugtaWmMJFq+ad2K1yXsAGycASD12zi5BoiP6rdBk9TFyIgM2ZEvXjf1JAhacED+r6aVW/R7oR3dDlBRiaqvwn0AqFXb6vpw6uyOEPJs0oWsoc1KTPHayR1WxRrwCjw/FHj5TbR0DvrFem+LmL7fCSU3k2MWjQhvdtIvJ7U9abTdilMJdJFhZuHQIUfDwJ2UJua3/2cJS+neWlBn7SySkuM9BNjgPxConnZNp2Q4RoFNUVWNyTbkPGhyRCVUWWsSoJm4eqp3R/4aQhQ=;AvI1wLKopZOFaWTY+i8VHQ=="
+secured: "kvXzWVGzOtWpnSpt1fucvJEA3c9IWPQmyBSS88waSmXliITQHH4FGhZ9Qj0sl2a2/yxEXxL2xhZlFWIOfjN1sEktEB4b5FvCwO5AW/DUpSn0qTzTdaekvHrRneOdQL0sNMJGzahSXYGeJA4HfSlHRqfpQFZhCx07YMx6awHOvH2oEngRg2mQmECrlqD0zQGvKmo6GNjVBKM+8M2+Fv4cY1vSYwJhT45pwzk451vkVE9HtyOa3GMBQDTQKM1H9Av7sKjfcN/L5zoSP7pU3FvRls/IfgJV1g7ELjYa4abLam45S95J1O/fGmp+ULabQDe424gTIjxpS3BQRrpM3qQSAEziJ0uI00nliu9p3ZpxaQdAZzo/qs6pZKxd7LmUmo6xniuNGP+Vh2vwQJHdyA5LUw==;5JGsDPXguVHMRnoFaUZTtA=="
 ---
 

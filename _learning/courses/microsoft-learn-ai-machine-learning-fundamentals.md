@@ -1,14 +1,14 @@
 ---
-title: "Choose the best artificial intelligence service for your needs"
-excerpt: "Examine Azure's artificial intelligence services choose the right service for your scenario."
-webUrl: https://docs.microsoft.com/learn/modules/ai-machine-learning-fundamentals/
+title: "Choose the best AI service for your needs"
+excerpt: "Examine Azure's AI services, and choose the right one for your company."
+webUrl: https://docs.microsoft.com/en-us/learn/modules/ai-machine-learning-fundamentals/
 type: course
 price: Free
 length: PT23M
 ratings:
   count: 67
   average: 4.671642
-heat: 56
+heat: 52
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     height: 320
     isCached: true
 
-secured: "3m97PbuGcKBCmK5jRy7Eg6UIG8rCExrQT+BOMKsYFwO1azkACVVrvXBN2bYzTuVif/6FwcgTsLy2K6RN6Zv4b76bDaUvR9sdCI42b6kp+0Y9rmHkjCG4stqi43O4sjfZ3iE/OnS3IT45fqvUOQ29vO1BqoZfkl1lkEH/0xrdnRoprciUkQOoQvj9OaWrDkV2je1oyZJlU6P40SLxNrSy1Xi13K3siDiGpAsSu85vYxyHoPa1ZzKTiMxZPwtYe6OmaoE7g7ZKsp+Eg9QhL0QcikBtNMYSdMOyPbkOI3sA4ytnvwI4U0Ti2IQHT2csDy9dhSUM3tJnp+wTw6p+SGArBBBD8zsMy1mQ5yV17dEIsEngDB6zTJZXKHf+3JM0LvZr/anf04gH3ojGE/AmFQqmYWk8XiC1F4RLASX+q0gQWDE=;n9WQk029nfgKCyglAW+T6Q=="
+secured: "2UPT1fwI23SD3VJhN0+ELZuCU3p0UU4ucp8sFH0FxWytfQWf8YmHj31gpvfIzcdMlhMBIqciahhFIRwHqsRd8AcjQc31nT8Se3tlrLR+vTp5Qg4IcBQEzMfrMpXSY7pVBmuLdLP4VY5oHNmty2wjIfX3CLotYi/wqACxA4/S1FvbhPoWCksJj7Tjjaj/O9lMUwpcirPaODEb/w3892+mGuYmn0JLDwUZaY5W1+Dwe+SD4sTl3+8iSSUfZds3m/PXRLR3RqQciRBjPLIja8q+8q2lApnE9TyJYZ5ZIQ4mLPverw6OhQzhcHbTMxaiMPj8UvpkQxBuBrEeQSRwE82VVb206ciifVuOc93BVmZUfXbWZbRbad8kPUpLZB0FkKrDwaxOG8DhB/8MmOaV61QoUw==;AppktXRTSauXnBbP/6xVOA=="
 ---
 

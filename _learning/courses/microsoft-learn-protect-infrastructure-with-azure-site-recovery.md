@@ -1,14 +1,14 @@
 ---
 title: "Protect your Azure infrastructure with Azure Site Recovery"
 excerpt: "Provide disaster recovery for your Azure infrastructure by managing and orchestrating replication, failover, and failback of Azure virtual machines with Azure Site Recovery."
-webUrl: https://docs.microsoft.com/learn/modules/protect-infrastructure-with-site-recovery/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/protect-infrastructure-with-site-recovery/
 type: course
 price: Free
 length: PT59M
 ratings:
-  count: 839
-  average: 4.5327773
-heat: 54
+  count: 841
+  average: 4.530321
+heat: 75
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     height: 400
     isCached: true
 
-secured: "HtZixwncDpUHtaTlC75gwkQTrHOB+CJEx+sdFHuDAda2mhCwp3yfoL94wy7LFSBmCUncKVQ4vXkeUYQFvipj4Q1Hktby6wnUn1+U2WVkot4rfOOK5a6rxUHnUri8Dczp+ZFoNdlGMFwG/IKPEFw1tZd2/IwXtz4+iURQE1wPOSoGH85inu0teu/5pSS1YviUpsZHJ9SX7KBJGpBTv01hc+xx/yoSaM/6vJOZMtIfZlOCCpMVhCkS3fK8h1G5wzBd2xEATalKI00ls/BID/evnQfJ0RdQEbTAFB1Lnc9iOwYeum9yMeNgDqO7sOiU8HbEKxpm6C4d6hx8TvLA05Xxrj4qlTReF1xEAr17nyZkVLA3yoQ91oSBE+x8JNisCKSRs+TY361X4UbGV8HwFMdYvENgjLePsAy3RMnJPrs7wWw=;xsvQOY2utDqoDBXO5BuV8Q=="
+secured: "PE2wymGh5qTg75DgZEXiFV1jhHPiJy5nidSDtNWkBhwRYQcjZWLzf2CZS6dHFE5WvV7la9knM1h9IdtZ62Vl4J9BFxql3zUI7f3K9nhkl+8K2VpDbOumI3cH6jy9KHkxFYPWCduDBDcxoquil/uAF4RTDRF7pPwXOSYraRBSQ8aRGAvL71PWb2+pecmDyG9/vJlRlMg3aW5gwv2VKO0xNTUZ0YBj8Ip8Oo6HRzdFsZZ7G2nyYrqsSK8LGM82E/2HNiEm8/gT8HUTvJv2SDEDRZ+/njR5AXIFHk80nzRKIiSl+M2SgLf7MzqqbbDGUXYRbBLRnmeuFYnPAgDJf5GQee36tLe2uPH+QUYax7ogilrRpTJpWnM4O3cQVZEBS4vucCVYVmXqEuf7kpwVmHrSGw==;97LfQT/Nux9jmMUR+83Zkg=="
 ---
 

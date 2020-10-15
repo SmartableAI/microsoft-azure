@@ -1,14 +1,14 @@
 ---
 title: "Plan and manage your Azure costs"
 excerpt: "Migration to the cloud presents new ways to think about your IT expenses. This module teaches you about the factors that influence cost and tools you can use to help estimate and manage your cloud spend."
-webUrl: https://docs.microsoft.com/learn/modules/plan-manage-azure-costs/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/plan-manage-azure-costs/
 type: course
 price: Free
 length: PT43M
 ratings:
   count: 47
   average: 4.808511
-heat: 54
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -30,6 +30,6 @@ images:
     height: 320
     isCached: true
 
-secured: "3JDE8aNNZJ2YR74/hNqP8aH7OlZb5PEiuCNF6sMGnkzKdvCalRQYCKFCselRdInAhXpNzOxRSi35V/MX9o+rjMFNLXNJy1Nnlg9LmVgsLU+JovVqR5k6vCSKMwx+ltXkxNc431hKD5EOJSoN0SQqhnBcPte60wIPFVFZanq9XdJHWitmJi869ojc3u/0pf16monhDcvnzELYYTVBBzPtvOfjOMLfYbOmxDBMn7PKofCXW7H5zxwj5NmRV/EU2kPKFO5nrFxZHj2ypZbftcGCccVBkinWScoIad3lSBqengjH8+KbyU24jveAK4iB5e/1W98x6K4lx+v/fZVj3ZjhVJTkGQsmDc3VQpaH8tkuwv6SqpsKUjPD+gVNNCUCzx8EKR+BPUiI8kbkx7XlL+x+dGo494Qh43jZrSzMgSRUC7g=;5VreEGXrN5lsua0y0DvpYQ=="
+secured: "nkHWHQWg5N25DOzJFnTTVaLafYw0xKdHRy5/qEnX3QMWGJyAHBbbq7uQCHrJhCZiSGJOAxWs7pxg4ffKQ5t2+GtI1UKUM6/FertkPgZGfQZX5Wg9Vy/CyV184hR2CdGBYdd2U6k4xO81SPOZjfbTzHrkhO5GqBxb9Hxr33HFtHrWW16p5/bjvT5Y1SPYrsxNnWt55/E7FrBfxJMHp+/vWKh0URtVKnTPCMQ1Ng0XdEJlyLuN17vyL1F/olWgh2xp1i/7WK7FrLYi6haIacPE0+vqojd78gYejxSuCpJkYdEm9ey26brOmrxeWmf2AMkIJYT/Li7C3oF4eOA52GZmLDMGm2ISeM2h9uSP1i3BM8QqnWhXyWxlUQXLD7pKqZzdCi7JQVPYF5bYaqslrayRqA==;f5dvVEJbqm1pSGMihsV7bQ=="
 ---
 

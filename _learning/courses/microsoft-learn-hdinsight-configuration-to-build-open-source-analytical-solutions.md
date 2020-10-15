@@ -1,14 +1,14 @@
 ---
 title: "Choose the correct HDInsight Configuration to build open-source analytics solutions"
 excerpt: "Choose the correct HDInsight Configuration to build open-source analytics solutions"
-webUrl: https://docs.microsoft.com/learn/modules/hdinsight-config-open-source-solution/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/hdinsight-config-open-source-solution/
 type: course
 price: Free
 length: PT40M
 ratings:
   count: 169
   average: 4.6153846
-heat: 50
+heat: 55
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     height: 400
     isCached: true
 
-secured: "c+xsxWtxkkj2KQ5F1G4N39Uq1hgbTJKoQ12qoRvcz9/M36meJnNPbILxTbOr0b7bJlP7kN/jYvtSwqs8y2kL8YfIAonxtLfbQxfeVfQ90zW5OBQ4rQ4c6sa/6jSi4LfIdcKMFexYaIsImTucmzRp+QbfHGzQKHq1IQ4bSwJ6F43DW6aCYc6q4Cec7c2Y5eWxvNFX95/qQBnjxZkgCKl4q+ffka3Ep/FG7erAXu/Oha7I6jzVRnXKoz5KpKDL1YWaTmWSzWwF20ublUjUXGphehyuWgpJrQRMKp5N2AvjIGU2JZsUPBVJtLIf45tkeSl8+7mQokmD+GF2fKZ6ut3oKir90Y+1n/Agu8Jo9pKfIxiE6PFAFMn2d6ROhEionsilxuhIj2468WYV7m8qVhPhkjBm3+pyCMb3IngKh/QnyG4=;eYa7NbvjkJP3lDXKiYNCsg=="
+secured: "hBpsmK1AiijUq3RPQW+K1ByPey6D4RwEiGwF1BINtjjHJygKtjGatUQG6UawONGQJEp1cohtwdeNVdCY+N1o58dXChD5ErF7Rp26ImeSjQlD2/sNJjN5SXBMHPBash/PnnK3zlx3PgwnrhvaCfyTakQoNeL8IfFO//6eZPJKgec23/6D2J6YdUQfODRd2JvVP0YL5GEoMAOGa2WM89gzVqiPNmS4KCrI2C3EYzQzGX36wwORHyu5R497ludSzHPjceCA9QXL93kCB09dEWOLEhF/ZQXghyASRazyS/bzYZMrWH41xCokkl+hd43aAWrklSqWaGclnTE3nCqvxtjhQglGRkQxiE+Y6ym+s6z5pjFBxnznSjg+jhKRBL9UMSakjvUsQJFVPUQdZwmwkaKUJA==;snnFAIB+FxSl+T8OppsYmw=="
 ---
 

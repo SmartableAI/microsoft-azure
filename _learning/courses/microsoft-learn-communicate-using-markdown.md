@@ -1,14 +1,14 @@
 ---
 title: "Communicate effectively on GitHub by using Markdown"
 excerpt: "Learn to use Markdown to communicate with brevity, clarity, and expression."
-webUrl: https://docs.microsoft.com/learn/modules/communicate-using-markdown/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/communicate-using-markdown/
 type: course
 price: Free
 length: PT1H2M
 ratings:
   count: 120
   average: 4.6833334
-heat: 50
+heat: 54
 
 provider:
   name: Microsoft Learn
@@ -30,6 +30,6 @@ images:
     height: 320
     isCached: true
 
-secured: "SnBI6Grux5JJkfu62Y8IAMvchsKehU6yP4ST7aP17Gh4LV4V+jj8o1TCLxeTXdZiPs8Kv2V5jq9E5VO+0/ffiOoArMh3CuaEDKv9HQ1lPIhVoMQK45GjDzOQjM6C/xVhhXf+gisc5AbgOFGwNk7rryvqek8WMxKAoFI57j5sFrC0JLn92zjtV2hmfyAdD8LWbRlCQ1VZzd3AzVEyVlit+eHwXnbhyDapicadR0QYlObNv2eUr/+ZdL49nF+9ZqFH1/3q46lTqtEFH0QjzbqGVfzyx1H8r07njJc/mgpQWez9rvHLumjAq+ylCnMRxJl/p9yFulOCuW2Zw8LM8IWXCdg5BZgfYuKCyMng5IQjToVRFP0yX1inYFAmo3w1TKnC1JpcqL+oWuCLcjWiiuJ3uA7To4QkS9NHvLrKYO0i9/0=;gEhgiFUPWEeQC0UZeiVcbw=="
+secured: "uhvlrrLt+H/H3+OBpOtGwmqc+4n4UYW1FhML1qRvKvZy44hrCa95Xjp59k1zpQWTsym5JjQWnrJAJBeASn6fqMiPZH/BxsU3IcVyLebmbRgMuPvog+1WWpm9GM/pkDAYTE0AvYzBPebcyb8ULz8bvSiTgHdrzilHcSN8KqvFHVS1JeGQSPDzal03Z9r/aO5f9r6V4V1hW6TKK+HhnIB1SjvzbUTukAlKuOCGVLRfPZMtiUjHpv5GApGOZEL108vj3PRRMnAGsMGGZjfU7sOq7bZHNF+Pbp29I/CsrpwWaKdmn+GYSZB5X39Y9WAatFrEED5Z2DyLdfb4iR++H4byiwp5q/SubuLNbLuw/UM4RJ0e2yoqEKoaTWzOjGKnULIGCg2mQl5AxcMh78g07Qqtbw==;QMTye4a9+X9JDZI3A8i0Wg=="
 ---
 

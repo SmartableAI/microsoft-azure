@@ -1,14 +1,14 @@
 ---
 title: "Introduction to Azure Sphere"
 excerpt: "University of Oxford"
-webUrl: https://docs.microsoft.com/learn/modules/intro-azure-sphere/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/intro-azure-sphere/
 type: course
 price: Free
 length: PT30M
 ratings:
   count: 43
   average: 4.6976743
-heat: 50
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     height: 320
     isCached: true
 
-secured: "dn3O6zwGdmRlP/JMyLcxfv4zKItueb0Ko7X8crs230ByxL6g3ekUOZdrwcLKEcq4DZ8MKgB21v7uue7ujGdmljY2AUA20PhtXH499qZ3g7XD8x8SbG8081mqspLqO+nvLsyuLZ1arwyzMx7sci3rAjKMm8YMWFA99rtvmvYR/Ma0yJZWYVs/PPWpFnf5zFJJlY5xi75S6BUCZZz7DGeeUquMYgDfFG+4Y9XcPzNtZ7rJ/29fBsw6u9hy4KYq1rOKjc5zjMw25AYJZgUCF2ow8hQsEnrN44ztSwD7KSvqHfSMqzfTXgh+Wj8NcsFisPoBPFxYh82tIapyjhnUbwS8Vqij0LyF6+85z1BOUWdVagrL7XMbZoWViny8c+WXcAxriwVN1DZ0BQ6qUDPY7D6pKwORU1GoefXso4YEilpyIME=;98lKiJz9bC9pqGjYUfrtWQ=="
+secured: "q+dMOdTEcqPSVywa7KHBsLFf/RPxFM0GARo/Kke5wU32f/BnHBuA9KATn/MnFMjg/FlbPAGAUQNOnisJdq5MIbzT2VPz595aBBJuAxDXPrqbdBrYHxT5QEfjU9crxj65hRIj6+8VtAhdYthAk+jmHCLrG5ME06XnComDn7B71PVYckDfTpOEbT7e6njRg4C7LZU/E1IC9IAkXtotuD3NIqn42oW81MJGl0zFZw2lqdkA9m8JuuFlvrTey1C9AWFvJajmC045dAeP+0sxt3PGdsU7zpMH5SqXwRtYyMgYfuyOZPanoX0gA/ZZom+31OA3tWZqwAIBz0L9phs2zcMFrRaAznbOvpQbNofok0yC7Sc9ALL4vx3CvZh5JLGNsNR9ytgQ3oM1mGLkgIx1a8Pihg==;41FODHeFN/chtittwaLZ7Q=="
 ---
 

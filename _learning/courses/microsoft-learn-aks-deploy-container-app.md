@@ -1,14 +1,14 @@
 ---
 title: "Deploy a containerized application on Azure Kubernetes Service"
 excerpt: "Explore how to create and deploy a containerized application by using Azure Kubernetes Service declarative manifest files."
-webUrl: https://docs.microsoft.com/learn/modules/aks-deploy-container-app/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/aks-deploy-container-app/
 type: course
 price: Free
 length: PT1H4M
 ratings:
   count: 60
   average: 4.8166666
-heat: 50
+heat: 52
 
 provider:
   name: Microsoft Learn
@@ -25,6 +25,6 @@ topics:
   - Azure
   - Containers
 
-secured: "TiP/9porlvlKbKNRNAjBGC2vhaickAl65Jcbt7JJcbouqymiMm0tDuwkSSiYYWIX3nbRkF5hs5BmcwHvKflkImauL4CYRFoOuxmQurF5GAorO7k53vL7iLw53pZfnfjd8a8T40TglcZ/3l7mRVw3NGk98VnJBSTPCZexvZp31yO9fVZfd4uHZx6G5+a81f+xi5MPPgnIMpqhEoYIlgom/cXdBMWxDgdH4cNSpnt0yPPQYeWzpj23ClPOzPrhmrhfmcj0lEgCw/fw6rHYqMKhJdtvI7s3Qls3KKvA/uovn4tteKi7GlF644CSMKvLA5kb39+vOFF0idNLqTsQrEBSDUGb5yy8FTVeOP9WgP/sKWu93b7J67oRb9zua1B9zPjO4CvYGdVhMYJmrDU9le0OTRmla7RLg7MUMq3iCRLFpWc=;OS2YpQShhO4uqasB7N7cww=="
+secured: "1Y0TWd8RC4v9udxugxHf1qr6OqE5ejinXWmtgJi/SXVF1CWi3C+3T8ZaD9LwQLoK8QiMRHn+jfniw/R06QFCqrn99FKBEOSTXjrT07JKanogwj4IP30s4t/0yaBrEVOGlBQrUhPa3NfpUfTjqIiY34xJ+5WO9YTBzk1oHYaQgi1wKfKohNWXr01eXECzURot/UuWPBW2GcSOUR1UEGYnl1XCliuUgy1VdxCCY8S/UR4lF+9GJtnmOd2VPT4B1284LduYbCrdZlwSbDBSFawnFyI0e0MbgOxHuGU9GXorbfJzHz41Uvz5x2kDAubnAXfIXruh8+sdUDls8Lk5aPNltmFeflGFcjCYGTVpNvkxXxaGBJ+qy7llEKj8FjzNdpVGFEvIWyMbUbbKhSrd2xkkXg==;s6jSXgc/04PFMEx9bKIhFw=="
 ---
 

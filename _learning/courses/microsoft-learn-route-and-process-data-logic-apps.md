@@ -1,14 +1,14 @@
 ---
 title: "Route and process data automatically using Logic Apps"
 excerpt: "Learn how to define a workflow to run your business with Logic apps using built-in triggers, actions, and conditional operators."
-webUrl: https://docs.microsoft.com/learn/modules/route-and-process-data-logic-apps/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/route-and-process-data-logic-apps/
 type: course
 price: Free
 length: PT56M
 ratings:
   count: 1519
   average: 4.5292954
-heat: 52
+heat: 90
 
 provider:
   name: Microsoft Learn
@@ -34,6 +34,6 @@ images:
     height: 400
     isCached: true
 
-secured: "/CIzrI5RfxaBbjm/0aD0RWQIggaKquImv9z8i384hL7rYtKc+afFI/3r+3EhHsBAsFG4i++NtNyQ/xbsIcnlSQvE9/WOncFURVocUnpnbJd1bfuqnjTNDPAuIrA6JMx+OtvE0Y8yiJbMNBPXwXst/Tt0v8DKRj+PVQvMAGjeLII2BuslbhIPAvx1itpLbGXjNlbDDTB7TqDcTbupYQYL0J1Mv1OBGqkqT8nqybaj5Qvh9UvoxH7R9v5BpLDnU+Y8cQCJ1IjsnvJiMGrpVVpwEAk0zq+IoRgXsj/zN32HEt2OBSGWi47lMqHuVw1/UGWF48pR9W7117s5BynEZSEX2zrzkZGxV6QHU/FlvoLlgpdb+Z20PTeC2543OZDlfcFUC0zPQLIczXZ6Y816+brJfdNDgzSur3YlHpYNNdVHeEg=;senWm/E/WHt7yaFsOklp2w=="
+secured: "e91SmOwWMZMw3BtdSUQK0ZrAESdVbTbScFoLvWRSSsNEPys+lfYP66LU0XqufLLJF9HfJ2ImMTIoZAMWa5WPlDsnd2AyBde1zI2vAPla/MfBOoVM36SuNg/HJuKrAFzt94cX3+VHbk0Q/DkKPr3JnLIX7wDklx5SnEaTYOJuHLrSUb2RA/M67J/Jx32AkHCBGg4wx2FVFmrO0A5/DOyUhi0kTFVGZP62DW4sHh8eCUxI7vxs93FARr8dJOWKV7cHC5owi2t1QoMWnNzuanskHO0HLegcN577OEI3Y6x49xp+XCCMU/pUA5/ImOLrjUyd9ApzfnO9xMVatQyrCuMgOssMxZ/Htb27zK3VkS4lkRTrn6zVyXfAMdFY3/LqhYhUtcfWZWqgx5sz9I8Evi1nMQ==;g3qEhrhtqEIiPbA5h3KeOA=="
 ---
 

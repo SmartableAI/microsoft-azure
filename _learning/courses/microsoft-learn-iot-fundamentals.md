@@ -1,14 +1,14 @@
 ---
 title: "Choose the best Azure IoT service for your application"
-excerpt: "Examine Azure's IoT services choose the right service for your scenario."
-webUrl: https://docs.microsoft.com/learn/modules/iot-fundamentals/
+excerpt: "Examine Azure IoT services, and choose the right service for your scenario."
+webUrl: https://docs.microsoft.com/en-us/learn/modules/iot-fundamentals/
 type: course
 price: Free
 length: PT25M
 ratings:
-  count: 55
-  average: 4.7454543
-heat: 54
+  count: 56
+  average: 4.75
+heat: 52
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     height: 320
     isCached: true
 
-secured: "SZYfOSTjT6moTdV9DJ2377Sa+8UJso8hhxmZLM8DEa/GQSRzauYar1HIM5X47KBj70K5hoIwvfZleL+4wgiYw81JlgIxlPLeRGLW7sekGg8xVUo458GVswInHGo75B4Inj54SIPRNYeuzJrljrHiD2fDuf8l85Crsrc0JZhhPxXrDG5Lk5K7lZSGnTbMezXVuVLxfvliO36alppF5gDWId/AKqrg45fTy7AvttzzGsmS1/xnZNk1z0aMQDu+wgW6yS5OuCg8jxCTnTB/qLKfOMhDpgXRGUfBzp+s6SwYw56kvc3xr/rwer4hLFzhTCUeC8fE94LrIkthKq+doi2vB52gZO+d375uiYFuqwnF+iEqlXH8ZPb0W778PIB9eVwN206St4GA0Q0lY9VfLugnokiCVfxMk4aMh7KoE9508nY=;i7hsmboao2KoL+PWz4VosQ=="
+secured: "CzJSadLjyrjkbWdqsDCn7Ef3KAdOPD3euCA4tJbGryWBsM1tO+i0MnKwJnfHFufdFmOBNrciRvmC1kRGZSSaEwUtyT4yBEF1ZPW+sTGEYrfODtoHgQal1YWa+arguZUqfUIKqtv4BU/OL1DnhnHDKTHBD6Cm6kndiFfxWvs0HTh3+lcdkdwjg6JFoOnwXZBYu9SIrSqrfilNHusyD0cPu6xrjnuBBR+NcuTgceBHwmiCXvQnTbuLe0382Vq5C8Du4YG7iww5GB6KWZT+Zj5o2ES7N3caSMqbA8974d/9xhH1XbonVRfd/z3LmSeC9WW69xQbsSn+UA5ll0zupxvu6B3JYP90R5xCJrhoedQrvT2ho37gK5WRLPRL3B2tDt9E9+1QI5dbZGZT7dBNHtsIYw==;DzhN2saep7H0GNSpseGFFw=="
 ---
 

@@ -1,14 +1,14 @@
 ---
 title: "Predict  classes with a knn classifier"
 excerpt: "Learn"
-webUrl: https://docs.microsoft.com/learn/modules/predict-classes-with-knn-classifier/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/predict-classes-with-knn-classifier/
 type: course
 price: Free
 length: PT55M
 ratings:
   count: 61
   average: 4.819672
-heat: 50
+heat: 52
 
 provider:
   name: Microsoft Learn
@@ -30,6 +30,6 @@ images:
     height: 320
     isCached: true
 
-secured: "6gmB2Cm+M5rcFdzncc0zLV/NQhxh1oZfcKTVEPOMIzBM7pY8knKR9E+PEUpWHnDnyvWlcPa9Dp7L5Wh1SDlFgnrR3C15WQyvXeJ4WwX3wRqUKMKjCU/vL/5DfSQNzkV9qRsMqmEq0HHBcsaIWsMR8Uxh6De9GzMY40rMKSDscDyymI989x1Vv789jrSw2YzupnXE7siyAt3FbPzUe8EuuMNwys0sdf5YwUfUADrkdOSpQu49/qPZUnXzTxz1XWJvErkaRWCE/XgfKe8rcafJ8mfdzFNMSMSBBNKfftuE7pNe3QRSs+xs8aU6rqbSw8sreiCPHyIjbTlfuApP6f5bvH/gAW3sYZvhSviSk2xMFgvtsgqRm7mnW3NOv5ZeoRf2oaRLOl0mMtrP8HcJGShSipt6K2fp9AhKclCuREfSPok=;Cr9bwD3ZLZLFAct03GZCWQ=="
+secured: "cPti8Lm1eaQ3pIi9HjcKDCVtPSeu4fnILb3w4uz4lMFS9+p6wJ+w9N2alVgdUQ/cyFvwZrdu7iCM1p1JtpjrRfsLZd/DZ2zzO6Ta9QXT515xfQUbvpypppQLPknIEEsO2nyci+raEE9dW7gjSvvOSkZvirUngAWbpk0f/rRkHBa6JRNaAqyHna9AmB307OarZau6dU+8dadn5SScJKVbqjRysDUXD8EpQgxtBxTklLKlpfloz3weEobZY1p4fPJ+2wK+g+NZ8wkLYdgRzYWkWIOQNkA1dpBFqnCJpLa6tO86wpXoffiyiOE/098lBEB/ewAP2fRcv6cYD6MSdqclF8gj7s8L5S5NUJ1f0mbTC600Zjz5Ao14oWKxvUZD/jHXxOKHwD0G7Jf/GJg7Mah65A==;kTyOu0Ba5aWP5Hrt0xRhew=="
 ---
 

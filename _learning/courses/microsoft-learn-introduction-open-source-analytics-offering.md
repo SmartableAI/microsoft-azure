@@ -1,14 +1,14 @@
 ---
 title: "Introduction to the Open source Analytics Offering"
 excerpt: "Introduction to the Open source Analytics Offering"
-webUrl: https://docs.microsoft.com/learn/modules/intro-open-source-analytics-offering/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/intro-open-source-analytics-offering/
 type: course
 price: Free
 length: PT31M
 ratings:
   count: 209
   average: 4.6076555
-heat: 50
+heat: 57
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     height: 400
     isCached: true
 
-secured: "2P2U3JG2zanKXs5YQ7RtY8/CDxJw07ABMYEmWL7Afvu+10MT0Q8hRHF7iIsz32P3jhKjaeYmxsrrhSIzJmr5uUI/GFr5sbKcY9fYbXnNtvefl/6MCkII+hEyGGa19tTzEuXN9VrleTJhkNKOjzhrIsSnuCRec8qZAtT1O2T58KA+CR6Hd8nCq+//b8np2vm8eOu+XfRX+tfPuhdN4HFeunXz+e3nPryDVD6gT1D4PAyYgssBhlCLRmJQuH6LlAIvQiUy1yo17A0xi+qJ0GjU1diRoHYCMSO/4k9UbRdaWySZcN6wjT+d0CbdqZkHRLGKg+JfaY9k3Po2EF3FVKSwRAdc9caQpSUVUF51/5eb5ln3ElsUFksa3nrQhgdTQ5YI09J2X2aUjTBxARJxN9+ZZslyLWL3HJCZHWg7xeo1XVY=;WEnyjuDwkOAQTZIRo/dMFA=="
+secured: "E5owHlyU3r11AfwW4OzUDRjiS+kifCeL5IdG5WpzP8zoWq/ekKyGza+XzTvn8xUjdehoYf8i45m0KIpQRs0xe//OXwrpmdougEG8E6xxNL8V7ua5oPV+xKoXLZn+d4jGBappiBfoiEzxGaWMkIltcxVkhd+rGyHm7zhZmvqaGxeTc4cgbR4vTECTR7/WKM40i3Lypa2qpVKbgtfZqNUuFbOU39Av93mp43EoAg3YyhjqZuSTlVMb3WyC7nHq8rAJDzfj5KcrUpXz1e2TQbhX/hLCMqQcAgJ97GapH8uS58AVYhIsHx2bIk0jz+zw8aDQ7oFlj6IlGKiIYTfCRhnJoVBij+phWo/U8EInIHglxhwJfPlMj7y3YcE6vxpXiG20Drt/liAJfkmraX5f52yqjQ==;6JhetalKc0tQxHJq5UEfSQ=="
 ---
 

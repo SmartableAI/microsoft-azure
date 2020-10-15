@@ -4,7 +4,7 @@ excerpt: "Deploy data platform resources in Azure for SQL Server and Open Source
 type: collection
 price: Free
 length: PT2H11M
-heat: 52
+heat: 107
 
 provider:
   name: Microsoft Learn
@@ -27,7 +27,7 @@ topics:
   - Databases
 
 images:
-  - url: https://docs.microsoft.com/learn/achievements/generic-badge-social.png
+  - url: https://docs.microsoft.com/learn/achievements/deploy-sql-server-in-a-virtual-machine-social.png
     width: 640
     height: 320
     isCached: true

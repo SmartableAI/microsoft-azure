@@ -1,14 +1,14 @@
 ---
 title: "Analyze your Azure infrastructure by using Azure Monitor logs"
 excerpt: "Use Azure Monitor logs to extract valuable information about your infrastructure from log data."
-webUrl: https://docs.microsoft.com/learn/modules/analyze-infrastructure-with-azure-monitor-logs/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/analyze-infrastructure-with-azure-monitor-logs/
 type: course
 price: Free
 length: PT36M
 ratings:
   count: 5191
   average: 4.7329993
-heat: 56
+heat: 143
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     height: 400
     isCached: true
 
-secured: "Vy5Qzz9iVM0pOp1CNgI/C05g3XNXzlapJZTvZzIugSOObsy9k2d1b0zFlUL7o7Y4AyGI/z+wtjOmRT6rLJYg4RY8i6lJucsml5RGuR4TNwB7/nCzwnrrnfKLVPnhkcxSRsGch7w16o5mnZyh8kWLO5AuFMh6AHzoBSy8I9BJ86/fHG1c2KXIcFleV/ODhr2obSt/RqtLD0B1OVhz22TbEtrou0nkRjpHBSDfaD9l/39jydq6+wHoaeqKAXByerQIX4yLUv9YWESjmj7Ki3o6VujTcU/TIA7lj8oJWUIWTd4kumIIUjkT4WiJhy52KTz9BtHk+c6rv1kGE/a7WOO11AcwTzm0VePcecvJZsgthneX8YzARG1+zRx00zm83sMSmiLBtGfEls84mAkKC1aDySS8MBLQwa+sfp7dBazVfXA=;C6AL30lslnKf0SHKr+9A1A=="
+secured: "r6BDIHoNdyNuZy7nOn7+lWrs0eueyrNl09byY7b6ZaFQS6V8tAnuHZPENOAD5buomjPp0yWv2Je2lSaJmYpSyiYNzGJq5okzwmXOFhxGp58JFgG57ynZ9x4CYpZN3sMcZsC40jKBIfWMDtU4fDzg6IihrqxckvZtqi/FjZgkWGJ9z2KPOLzdb8oP+Q0gWADdtkHf9m9e3NoFgz4AIPqqgNk4tTVmcRPLs5Df23z8FGTegD7GBfpzT5f+1kSWont3dWtwNSG6BcDWRrAGlph3jPefDj9yOcmNeAdPwa8MJJ6bxE7UkkDSeGT+K9iBvYF+WNXLq7dCiH1VEOPSnhMsDiyJpW20d8BdKlZueRCGoIuex7L0MVtXm2UlcdE09n1YM9ZALaG/uecNh4fd0dOhMw==;+ej8Yp0/fDNWneoppf6jwg=="
 ---
 

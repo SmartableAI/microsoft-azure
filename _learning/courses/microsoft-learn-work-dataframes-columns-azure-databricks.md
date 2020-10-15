@@ -1,14 +1,14 @@
 ---
 title: "Work with DataFrames columns in Azure Databricks"
 excerpt: "Work with DataFrames columns in Azure Databricks"
-webUrl: https://docs.microsoft.com/learn/modules/work-dataframes-columns-azure-databricks/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/work-dataframes-columns-azure-databricks/
 type: course
 price: Free
 length: PT43M
 ratings:
   count: 90
   average: 4.6
-heat: 50
+heat: 53
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     height: 320
     isCached: true
 
-secured: "CZuq/tApqKvnOn/mjL/JPZnM/pPfExLNP47hoIpVSWNwaANY74QxEzvAfsvJRjajE3BIY4EnY819H/vHuxmbWWYRjte6hhlpcPvsViIDL5/0XSQ9EgSI4/pU0mJAcXfXG2USxiygc+6uMgalEnW1eTEeyDldBKBuaGRd96OLeQF9O5ePEamEuorJkOto8I2fCnB/6hwDkzrzOcG9VwW4E9lfIB1IGrqqSo0xudUG8pvjztp440L5boAZnz6jTNuxyPLgQH9B6X9MKpWu6DUo4QeG53lZld56hGLiWuSmoWxR4tOOWB1cdTAcScanmswLZ15o82aCN3qPF9tRJ7whQ/EFqI1WErCQouEjHz4bJbqvhspJhbgzlxTNidrKwuSvuVVqtI4FzLCgsVM2gpMwM0paIKqSeZF2/0455K01fDs=;boye7DeHWnQZskkuVK3L/g=="
+secured: "o7F8mcqDaDZHtka6XuggCZAf8WfTh2KSGiZCu1gYskZJxc6jtgCG7oDgL7coLcSQvdljah+qrjVp3bwryd4KfLOKVqtVjnr+wxjtqcdzwZ5lZ20qH1Wsi353ZfK4zkfEFOP1/0OA2Wv3XWuTCFrpPnkcnq1OGLWre4biGGjW6nX5HcogB2S/PoDS3EzxWhkMA0qplXFvgzMuSQUCe9l1lBvzNLc9bSD7mbs7+FpruPC3a1UXxZHHph2qpq2gyYn7CV10WaSbDVTPjfIgWy/oHIQeLTxA3wOAtnpsC25RgkcrDvkcUthEO314pk6WyZOGdvoo4J/0f+OiMZTZAHxu5cEKccRhPiTx1BjTgLF0b/AENCP0jqy75l/UAfzdFSfhCWEXj1JbvJpR7upJozQYGg==;+IGqw7iAGQqM1cKVIhUHig=="
 ---
 

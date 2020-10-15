@@ -1,14 +1,14 @@
 ---
 title: "Monitor, diagnose, and troubleshoot your Azure storage"
 excerpt: "Monitor, diagnose, and troubleshoot your Azure storage"
-webUrl: https://docs.microsoft.com/learn/modules/monitor-diagnose-and-troubleshoot-azure-storage/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/monitor-diagnose-and-troubleshoot-azure-storage/
 type: course
 price: Free
 length: PT41M
 ratings:
   count: 1195
   average: 4.56318
-heat: 53
+heat: 83
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     height: 400
     isCached: true
 
-secured: "9jK6LDVyMhH752gXr3cxvTOl9cpkrPwsisf5tkgtSgjWBRiY2HqR9Vw4qCEtsZ+schG0mKt3YUp1aa3cv1anniSSZe8ds53C9j1URh1UhHg8NfQ1+kg6XZ/+DeVzpCuaN6ooh6dTBekFSAvB03Ci68UhlF1fWI1mdJihrzP6cwpEEUEcX9QAIYLlit5TMTcbGLCFIj8gEabIL0WKUbCKpGSzM5K5eo78/RMhJYcLHVw+MP5RxeMX9wXvlD0SyfI/mCpje62JiuUUv1+yksrrS+Xl7ONyiJKrRGvkHpNfmcLMF7j+g96m97gXw+y6HsBfib0Da8iIQbppETZ18HNmdIb76dOPh7scp/mK9uRoHMnw4OyySfuBne2pjrE7vqTDNxyjPNKzcOOrKXyLFqmmGHIIlHjq4yBnB+Kgoor27NI=;n6WzeZo7Tn2bpwrna12ePg=="
+secured: "Q6gGGoq0NvITYvjYh0m6RMTVoxUMmR9o76xav5qj8xFA1GFrP1RJN0dEgXFMxoUzpZPDB8w+Dof0rDrNeURPN9Fb25HjnLU7NhHPXYMTi9+Nr3HaNFGmA9nYltowhTi/ZG6qQ5EuybqStVj2Q4v95iE9SU3CHHWKrk4s4TazYHtSQncbhKXISlsNFmSBR+vZh0+6ZJ0Kd2C8Yh+QLX/nCt5IZ0jjMEhh4Gg/H66a0Pxq1VCpxC7YGxxGqM1Qxjd+CiK/9Nxma6khkDIUXbF2PnhkxJZ1Xk+Wr71X9YIPBJ7d3fdlcuEzr+2bavztWq/eKCFL08fvmchb7cZD/PwwN8vyIg+/mAlI8PvW7oDIBUdmEUuK078k8KmTXL4cPIsYyixc/zKlhL26tQO9AenQTQ==;1x+YienMg4LjeLqVN2xDLg=="
 ---
 

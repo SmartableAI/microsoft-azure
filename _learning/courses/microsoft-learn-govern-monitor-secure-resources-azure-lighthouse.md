@@ -1,7 +1,7 @@
 ---
 title: "Use Azure Lighthouse to govern, monitor, and secure customer resources"
 excerpt: "Learn about how Azure Lighthouse can help you monitor, secure, and govern your customer resources."
-webUrl: https://docs.microsoft.com/learn/modules/govern-monitor-secure-resources-azure-lighthouse/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/govern-monitor-secure-resources-azure-lighthouse/
 type: course
 price: Free
 length: PT40M
@@ -30,6 +30,6 @@ images:
     height: 320
     isCached: true
 
-secured: "GF9Xl9eoIujAhtTdemw/dU+zFR080yU7FRHeQ5I3i6XCwZWgwp/+BEOpmQ5ixF3YRqiypy6DvEO5mGZzerOv4Fu49NsCov4KUDeFATG59JCKg1nLg5jS1NsYm3zBco2w8M7dKm5QfiX2tP9jVckPctPpyWeP7vihXVxgmVpMoi4R9whin4ub7fv2hgxXaHmB2iMentAIJT9Cg76ZTq4r2qBFw+oIc+ngfw55j9ldSfYLRduo52dUodB72mhlx4ZHBXrByrdldrVokB6RIbcaKb06fjLUqllb3Zlri1ZDuk3qbwAHme2227YQJ+njf9dlwEBYMFxgLBpyX7JKcsNKj2otLFzTYhfYC/XvsWdJRf8xClgS8hUxzV3qtDzlvZJynekjDzEbnP8/VhxNgh4OoIPLMbQfmrifanUWy+WWASM=;d91XVm1htxdqAeQ/+HBFDg=="
+secured: "4tu5qMGKezQeGS9V4jMLOJ45ubPzaNvoWkyN7EJjXkEap5LH5yb0bktGbkKxsiMe577vIs/W0TrHLirt34c8DJPXjsyKrZrpVQQLUY1EolfAJYjZK/FRuqAdhwyv+2LDaJWRPoReyw1c6fChQuuZ0rr1zTYiskI4eiigKuehCZ7O0U3d/oP4r4KXQBHit/OXLKx9SRi/llo3MltUeas4ayrOmbo5uIr/u87vBp2Ft2/+Uk9e7TdlPKqKRu6xuwBIw8HCWcix7Ugbo1hMUMM22G/vXQsIdMiLM5zhFiDTu24y5mrm7NsaC2vYSTtmgmYHqxvhJRKeiW79m34AfN/NHXMfLMAnhmNYcp4HHHunPvNfpcmrgjqzEqq2MGUlXENOr7ELU+L1WapGG0xdQgzQaA==;tgCy3dm9GiqrmII7CnMPWw=="
 ---
 

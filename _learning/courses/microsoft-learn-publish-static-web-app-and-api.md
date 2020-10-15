@@ -1,14 +1,14 @@
 ---
-title: "Publish an Angular, React, Svelte, or Vue JavaScript app and API with Azure Static Web Apps"
-excerpt: "Publish an Angular, React, Svelte, or Vue JavaScript app and API with Azure Static Web Apps"
-webUrl: https://docs.microsoft.com/learn/modules/publish-app-service-static-web-app-api/
+title: "Publish an Angular, React, Svelte, or Vue JavaScript app with Azure Static Web Apps"
+excerpt: "Publish an Angular, React, Svelte, or Vue JavaScript app with Azure Static Web Apps. Use Visual Studio Code to create and run the web app locally."
+webUrl: https://docs.microsoft.com/en-us/learn/modules/publish-app-service-static-web-app-api/
 type: course
 price: Free
-length: PT38M
+length: PT22M
 ratings:
   count: 280
   average: 4.7642856
-heat: 50
+heat: 59
 
 provider:
   name: Microsoft Learn
@@ -24,15 +24,14 @@ levels:
 topics:
   - Azure
   - Compute
-  - Serverless
   - Web
 
 images:
-  - url: https://docs.microsoft.com/learn/achievements/publish-static-web-app-and-api-social.png
+  - url: https://docs.microsoft.com/learn/achievements/generic-badge-social.png
     width: 640
     height: 320
     isCached: true
 
-secured: "+xrW89u8VChwItFPc1rCYtGALYXfvBzpYnjzXY+tkl8IQmQvJ+B6PxRdK2hCvxC/aLsYRcNy2LVil0pww3qVpvbA9/Spr/yiYpebTUmAWuMUqgm6QoGr8gwa5vrKk2m7t/QaD+Cm6Ls+Na1DGq486RYsLg6z/oDvzfAZIO8YzW+xTkXVkok/aAZ2vaTETqYEpf5oyB5kmFjxA19pbj4na9zwuKYqSHxRPMqL8iTMM1/zStWL/iHNzhsuycQFA0vveWO0HRYnGzWPkGDLRIrF2rrVXXfLmnTHfugB08Gll0e/Z1q+mNoLEwiUxToG+pBu/GneUlbeai/0MPYp3AQglfRn8wURu2OC9XC5Lchf21E4bSmtA76sWG7Srr0tPNLE+ifXsDk+l23pREaUK+66ZFxLMujvmputqejP2xSShck=;3x8c3UoJrhfyemxXrx0+eQ=="
+secured: "5ID/lhraU00UhHvm3WgE20W2/vSbbsXxNnsYYniYrahRfyc2MDgfmt5fNmBVAbeNGkWgFOlX3NB/WbVCgTrMTwhmK0kKmSpYrwUzlRT+anv3uJWo9aPGa9jPdL+TO7x87mnwqfv3BkAq6SH+gp9+w+W9VxgiPojj3aRCSRjbLytQrntVDDSQlreNEBJKYmneMTiC2BkLlL57S4l8hC/HZQVe/52Gv/qJ8qcEzl6YeByD4JPMJscPshL5eOJntKI9/Ll5mOFLgjVss0lnt1cPkWqLlMecPMqmRPO7pyyyWS+cUW6wF96htrOO3euaDASYcizllqG/A8bsQuIEQoP0cqVdb+dkRC9x9sy7pgpZvKxtx0q+abMTVTUcE9kwHAU/7EOL/q98sAIo9MwUwwXn9A==;P8NzvWTarcoj6Qqf/+k/yQ=="
 ---
 

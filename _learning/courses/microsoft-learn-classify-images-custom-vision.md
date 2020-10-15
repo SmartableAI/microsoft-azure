@@ -1,14 +1,14 @@
 ---
 title: "Classify images with the Custom Vision service"
 excerpt: "Image classification is a common workload in artificial intelligence (AI) applications. It harnesses the predictive power of machine learning to enable AI systems to identify real-world items based on images."
-webUrl: https://docs.microsoft.com/learn/modules/classify-images-custom-vision/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/classify-images-custom-vision/
 type: course
 price: Free
 length: PT34M
 ratings:
-  count: 296
-  average: 4.756757
-heat: 52
+  count: 297
+  average: 4.7474747
+heat: 60
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     height: 320
     isCached: true
 
-secured: "XDtIYyazIoX3v7jeZ+8uBOWutiIuOqiUF4jE9uC5tugNJeW4gmsnVfVLluRU2RKdL8rjLeVXL1dJsk1nZmqNmiyxEWn6XFtunZ+YRXjgWa8I/vUwX/yoMTh+SGDG38le2uZlSmYn1n7H3YT9W6jN9rZADM4LekO/pAnwEOeTUR1UKcRTs0iNb1CrrQWZe1TnDBP2cUesdB9Dog81cHrn4LcM8WQ3EPNoveHMy1ufrz6e4GZxSLhDZJyMtfgZCEl0R0iaDTnvNZ8DOMwGSdZhyugYSXzK7773XonQr20+q2c89CHKoT6VHHMzRpmk4SJ53sEE5eMjvu40gENDPGL4VI6jHnzGAY3q8Euig0+mqbjd4neJYSsbS0xPOxzG1z6XxvMiL959iay0uPE2viSesXQDnte1OJJVrXU0tDmV3ag=;z3aZrEVkTFaGsGAOlEc3vQ=="
+secured: "XBMd8nrwRP1HL71fN4s4GewFWu07YY0BXaCz8I1EPIJd06+C3Loi1YrTs1TwWBngBr8G8syjvWrsOL5eKCdyi0uoPNZV8n96NWsedHmtR7U8MLDG7oBRt44ttAGsvQZ4U4PLxWgGW08CmseFrbmO45qXEAJDRaMbIflUF4h2GkKF7z0gsrZGiXHvJJDJaKFl/C4nwDmdeDZGP14DxSvtu+giNuL9bUv3Oh8Vg24AnfyySKRh4yD4ozcwQ2TyuDMgQJIeMVGvwr5WTTs+MSnO3ZFCTn7st3KL3y7ErYX5h4i5+m9srbhBnxDNBOy5uGDtAzTBe4qciOIpQd3ZDNUQ2ZVQqXN37ygfzB8ltiANwMFDPoHhzTsugmkLUAR5XNEqHloduRyYf9P/zRPqUdobCg==;Oes/wjmN+GlhANwx0RGHng=="
 ---
 

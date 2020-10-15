@@ -1,14 +1,14 @@
 ---
 title: "Troubleshoot inbound network connectivity for Azure Load Balancer"
 excerpt: "Learn how to troubleshoot inbound network connectivity for Azure Load Balancer."
-webUrl: https://docs.microsoft.com/learn/modules/troubleshoot-inbound-connectivity-azure-load-balancer/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/troubleshoot-inbound-connectivity-azure-load-balancer/
 type: course
 price: Free
 length: PT1H38M
 ratings:
   count: 315
   average: 4.6539683
-heat: 51
+heat: 60
 
 provider:
   name: Microsoft Learn
@@ -33,6 +33,6 @@ images:
     height: 400
     isCached: true
 
-secured: "KBM4nS1uKAcsCId8UZ/IRGBl+v1/etSdiSZpEGKaZkCRgrIUTfJfjSM44l8hFGPP7KavAAkETL2lPEC5MYZ9y03tpoLJBdwTQrZ1B/09ZleWHcCKVkKN08+OYtN+vRSwc24vYzlFXdOzuHg8plyb4y/Pd/gyqGkAlMjl/g9LFPqmyoZo2+4MgtNQZfFVaMam5lGPHk/ADUfiXwKWoJOp8yh/fzo4qbMbHaI/s89Mg3ifPsng6Pn2Tp6mgPKs6xNQ8SCEvNIvR9SguM9eCis9+tno+Af/zRWU1XoENCbUm0BKm2vrSRvqPsOaB+gRk8yP5rOVtyLKrgb653Vj47SvqG6JushalLdC1GN4j/0WHIKXl2fByWlGMsn7oxEndXngMsWTLnwia+EIbg+K4pOxzw0TYGPoki8VKAFtFGT/s/Q=;LnsXEZCmziWF0u4MV8DJ4Q=="
+secured: "YRqnOssVyGaB7xK877kKoVD9mYntZDe0KSr22EjYCJw5zs1XJh1EQSGyaLwNE+SWUcl+dA2RT8vGFjuKkMnRfTgBR/O7YmJzxn1YBjTTwJuarajXLFKo5ahMBCT1BNRQEziFI2P5shmqoKd/wXS0zF0X1OcZK+wf/slFODpOiK8MnKga/X1mVjwZ5L1dQR7KMpW1sdgx/NubuvxZXbsngY0JkkM/1/rV+tvRfoku30z+Qk3/pPPe5fwcc8tthtILg8BSRR62PpeBnSVEiEgJUOpmedApzEcIBNP3pEx5aM0RFMSYMaSscBPSXov6WbtIIpd8UhtkUiVWbxWGm5SbCzFGwbFqq8SCzh2rf3n7ZYeVhzyM5z8mlFaH+aNMUOYDg6CF65Swgj7SdZxTkUMUlQ==;bBRhdT/aqeGyBk2E6i6R6Q=="
 ---
 

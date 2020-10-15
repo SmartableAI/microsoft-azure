@@ -1,14 +1,14 @@
 ---
 title: "Configure databases for performance"
 excerpt: "Control database-level configuration options. Explore Intelligent Query Processing. Configure Open Source databases for optimum performance."
-webUrl: https://docs.microsoft.com/learn/modules/configure-databases-performance/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/configure-databases-performance/
 type: course
 price: Free
 length: PT24M
 ratings:
   count: 513
   average: 4.820663
-heat: 51
+heat: 67
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     height: 321
     isCached: true
 
-secured: "93RLrKz0y3/b8ptttp2Y5XApA4FZI/Sx37gEr8Cj7G3CWGudpVlpdUPzYrSyM1IjvLeCWDKw3DRzkrR9COvFeir3v52Jm4E48MtuTjoVxDMgK3akmDZ+zzeO1CKZNKK6obhA8G3gYxvqOmU20anAia31IwuAkjjXt6btiVvZ/YRlHAveVASz6Xsa4d9aQN67MjbIGUI2zVMwdDcaoku/F8l3JYUqp4tMnRemk69aMJKF7yDl1JhiLz3eyvz3bXtPbADShBEScoEj6PS6EJLyRYI/8aReM9sVCL9cDRKeqjoGymvmtidDkQk8JjWVYFpet5kBye19KW6BThsPXP8rwTl4I8j8ggxQ5/QDl+MufrLFIZu41RXtfHPxkvb2cGqm8HMIjs1+MAXqrVO4NDYcOJEzlWZBdJNFw4pJSGUxE40=;PlrGk4eVczU/nilyAjygQg=="
+secured: "p9hhaantL1Errx4VHmNSmeT7+bT/U87m0kfnq7Qbqmy5lHpNPvu5ryGXxp7KUaDHoDdb80WeuaJ4xwahCxpnfYJY0ilFGawz4AQoUJ4lUvD/tKrBaRks1rGthHRtjexch+OKzu7oioX+Y6/O2l/siZ4Sstaa3eRkKc6i5hoJUe0pdOkka2bX+cquENPdYKOYXPdaLEHlMTEosWHKQQsuKGP8Bu6YIuibmoZKUmHW8lLWkMwmF4G1ZXZE1PNwNlWRscFkLQT0I5cTXmdnewh4hFMz+JR5/lSrohOTlxRTIP8N1NIv1WGutEpru90FiCfnQQ94tn2nyFfeKkdceEC0FLfAQPo9+2Gxyd+bEK0WzmGHBzMsIuWn2jIrHV3GiMicqImg5eGqNKNG173UqMMEZw==;L7xOrQ8NZW7VUkX84TrjWg=="
 ---
 

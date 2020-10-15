@@ -1,14 +1,14 @@
 ---
 title: "Describe platform architecture, security, and data protection in Azure Databricks"
 excerpt: "Describe platform architecture, security, and data protection in Azure Databricks"
-webUrl: https://docs.microsoft.com/learn/modules/describe-platform-architecture-security-data-protection-azure-databricks/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/describe-platform-architecture-security-data-protection-azure-databricks/
 type: course
 price: Free
 length: PT1H3M
 ratings:
   count: 58
   average: 4.6896553
-heat: 51
+heat: 52
 
 provider:
   name: Microsoft Learn
@@ -33,6 +33,6 @@ images:
     height: 320
     isCached: true
 
-secured: "2k9vp4CfWF1hv/kThtS8OTgUxZTif+L+TfyhEvw8fB5/dwpCuD8JHItMIp+pmPse09MdcBWuJ2/KlJm33jqei/KBvyjD0HwZuVjifqqsxwWmI85bmGi9IZr/GB/vjNsOgAY85dkarDSFqGaVs2LR8td2Xwjaih9j7iUhy10+xFY7kcZqGFslZTQa6o1Ow1nGld6H8xzyLNQKWMpTUSHOLjQNRDX/ury5ZXSJ0IyqtYinsFAD4WhN94ZMLfUYCQgvqL4/2puLTFnDGACoWHm47nR2tMd26XwaoKxlIGKJH/eCYludtnXutLmAtqFFrGVliCHmfXOZOg8lRV31JEBPk2ZnW62QyRsMWyCJ6PNzpX4dJ0ddhHKZq81LJmba9pfNZnUJ2KS1B3DygPYsFrA4SLtZSHDZsRQeXjGpqs6DNgo=;hkvBTgmj61V4Ir28TIxZSQ=="
+secured: "YclgtG5Tyr2KsP9j4B4+vne5izT/SnxA4x3+793TexFzYChfIxzLNp6j8dPRvdwd7v/ZQgdHWX7IMP6ZXUcDIpD8MFJQgWM8r8JBl/6gBz6A+kNzYVDiqzgPy674YtnW0cXg4wi72/00zciAXxUarG3rT0xDz9spX+G0lSKpzzx703UpCrE79K5Zkap4iSCoTkDDUStkMlAo4kXG4Dz9ZaAfnKv+Jz8NPn37o4/Ni0hKircSPETS7GeMtgxNkgC48y8XfHv8G/jmdty0qM23iQ6P67uG7p7lFXGRGBtUdZKpZWR84ONCvgcqZtnQCQSl7EUeVjQTmBTzhbRpieyuLbx/65Acrwuvfj4yDJNHNtu2EAjcJQdeR+7rLntvHMh1ICN/qRm3XJ4jr0DHS60Hcg==;JUVErCI3sWExe5cCeRNAOQ=="
 ---
 

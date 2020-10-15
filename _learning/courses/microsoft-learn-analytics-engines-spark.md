@@ -1,7 +1,7 @@
 ---
 title: "Distributed computing on the cloud: Spark"
 excerpt: "Carnegie Mellon University's cloud developer course. Spark is an open-source cluster-computing framework with different strengths than MapReduce has. Learn about how Spark works."
-webUrl: https://docs.microsoft.com/learn/modules/cmu-analytics-engines-spark/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/cmu-analytics-engines-spark/
 type: course
 price: Free
 length: PT1H5M
@@ -24,6 +24,6 @@ levels:
 topics:
   - Azure
 
-secured: "Hz1YSDMF/0XID8BUOB4Dwcodus9Exx2zC2gbxIhAHGADWrykMf8mW7xnqDwffkQ47YAB66DoJPOC0eb61wEWX3gQf61cqi5S8xcOdjzCEtzl/L7zy9uM61tiKbFzk5kMLGxiDt/Bk1jfgYB/ijuqVJWuHniz9ID+UkEwfpneHpJ3AfMxknm/kqDn12ESFiV+UaS779RuSd/ruKlX2hhKu/yQX8bnZVxJMK3x9kvSvk8ckf+NziE8z+WLl3VNjoPi8RbftDkPgVmSG9LSqpVV11jMHGSRmGB2RRTwYM+ktwJm/jdEXrgKhYEOytxqecfYVuImPfcsbZbd6pOi/meCCUZraOkqhp0pMuMW1fYZ3VQyxiaag/PQnsCSHkCh41QUE1ACZyhHjSOOnGt5jbil1nnqDggVvq3/vwqaGMSV3wQ=;2Kb89/WX1rTiw6otdMDc6Q=="
+secured: "VfudY2VrhpyTb7oZezYR6Zvo3T/ES6ZMPADoCAkocbFAFJFdA8eh2b44wkU/a06FHfCF/bGjwvf4Bl4dZvAxaIsxBn8QyjoDab5aTYeZyd2nn7t5k5ZY7s7cU+tzVj4VNtUdBnInUN/jdhSXRv2mfW6qWgECNzbr91IZgBMfLIh+AHYA7zhBPlOSAZCfgNA3tiAYrFl3RV16yhf5byXvniE1eeFzdMHSoe+dGLJAa1zZXhmxAT7KpoLutbe+HhifraXcau7+oDjKJ/4541nxhCX88FXTz0IiIeXLg1RG37xtXgRNE/S8ueOLAfEYXpl0kseqEPj4h0BfsHBjdlsGWF+2mA/qFWGYy9MOuXoP9/D7l0l5S4gvaIjJ0dBsbn8WfqII0JCuQkywskGMtsq0mg==;EIZa7sk7UtcATCCMULvSwQ=="
 ---
 

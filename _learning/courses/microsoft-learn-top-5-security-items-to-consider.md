@@ -1,14 +1,14 @@
 ---
 title: "Top 5 security items to consider before pushing to production"
 excerpt: "Learn about the Site Reliability Engineering approach to the challenge of assuring reliability and gain a better understanding of why it matters."
-webUrl: https://docs.microsoft.com/learn/modules/top-5-security-items-to-consider/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/top-5-security-items-to-consider/
 type: course
 price: Free
 length: PT45M
 ratings:
   count: 6311
   average: 4.648867
-heat: 56
+heat: 153
 
 provider:
   name: Microsoft Learn
@@ -25,6 +25,6 @@ topics:
   - Azure
   - Security
 
-secured: "ZE/4i6MLZwHEACX5aUjIwTCj0AV8JiXjfyiKcZ8gyvPzgCRVs/xNZEcVLDMYVtt2rp/YLj5UF8ee7o2M+qW4j1KucJ+ri5Bgi4A7ZWvjeeewypjL5VjxSYGBWqsCWQ2kgolRAUO8FU0voPiBjQC1Tnxja3P7j3+jtb6og3RXNT30JiapA1HP79gIbLjq5KNNhxqJDiYmgolUwl6jP6JLxazPjLHNkU8YQt555n7VBPEQbT/2gzxzJHu8OCGtxrs0Ee6r6jWmGgQU0GDgQvo4rH30Bw4Key8ivrAImNfg0F18KTyh/WLLGgRhVAVeMPRcbNE7rGqH/yaNCtzh1v+26Af0kU1+FI1kK7+AKHLVFqZxNajh8PRgZEfPqWcwPOABtc9o2s2/uAQVTLfyObneufwrY91n1G2u1sesAtI2TG0=;LDDLiB1tPapzy09OxhqDmg=="
+secured: "JCJQAV1M59JumziQlLUfgw8Ny7KlADspimMTcxmCpc9mrmpGqOIyxzh5ZeKddU9KAI49NEbvaWf/D9JLEp7LmRxX5V1zLMgxVp+km7j6z5NOOYEtTuA+gdDikluUjcgiECVbyssDMUscSCvF5ymS8IK0105fgpKLAZTlA/vPaw/nsWqNa7yfAn7rGU+D2845B90gw9Xq7UKUCfxFYfPoWmvEH3xat0y/ejyjQAZsZjeGJjbHb22lXxo+XB1OeQf4WApaoFf4+CzxQfPo+2AprLyfOmRmLY1Hah9b6hJd/LdfvUW5ldiUmRnHoL7rMUiCHkmbCqHwPk3ygESIGrV0AIo+BCr5dU9vWbT+dyAD6g3cW3v/HvyNdLvPZ5stnxssFP/4pgdRYSSHrO0D3MbWbw==;8/hBUq8nDhh7nY72tmCCkA=="
 ---
 

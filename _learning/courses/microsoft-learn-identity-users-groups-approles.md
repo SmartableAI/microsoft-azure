@@ -1,14 +1,14 @@
 ---
 title: "Work with users, groups, and roles in custom apps and APIs"
 excerpt: "In this module, you’ll learn how to use both Azure AD Groups and Application Roles to provide fine grained access control to an application."
-webUrl: https://docs.microsoft.com/learn/modules/identity-users-groups-approles/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/identity-users-groups-approles/
 type: course
 price: Free
 length: PT1H13M
 ratings:
   count: 74
   average: 4.7297297
-heat: 50
+heat: 52
 
 provider:
   name: Microsoft Learn
@@ -25,6 +25,6 @@ topics:
   - Azure
   - Identity
 
-secured: "2Iyg87CMPDKxVNgsZdFjMBdd8ckrmnN8EaN0PqMxHsxeh6xxS8EWgSjaSiHKRp3d9aYK3RPnOYA5cVv9QNmq2LXPknChGRgjZNMwgzscpHxgTfBtINt5CrFUJF4vI7EIv28AAq7J6cUGMKag0QTGleJvTJtV/rtpcfXV5FXcadyHXYxdOj7FWi4FRklGXfDoMFTKMkwi/uTvnO3Ekz9xVSMv8uoZNy3BDwzIaaZh4OiE4hNRBNmk0Jn8oVcYJIxyzmYdjTg3Fi5W1P7KZy91tjZ2/Mo/hCiz9l+pC7PqSE5twWUXP0vHWwgHpplPCadr6NEA5J0D8G+IPp2BSgfor6YhM0a3vvve641qk4PtYBOW5kNrESXo4e83ts28XgWhKWPvw41Oqok8eHELVeX682vP0vXOiI8a7e9bmpZFVNQ=;/dpS+1mDIXpXT9gnKzjwhg=="
+secured: "qd87/eJFcbLYZgp1mAJXu71fbx21OTvYc19725D9pEaOUh2p8JIErd2gwgqaleRvNWyJMcmrH/k68BFeAD+VUkWvADMEgFplLXwk9X7NWPTzuMS1yR/cdj26viCcE/+gTrZLgAWQbdpmFJYkp4GI2IvnGzCB8AX1W90ogflvejbiRyXlOV+nMXHDO5uO5JK5jlOzgahnsAEW/vtLyzFzfFFJSoDn1u+ZQVMbq5de3QLZqp4fEETzjAmSK76rNsOX53Bvhcr60gZ3TNxU2zyJfkzEh3KxNTqzM00SHHPhLaqfuIK4l0rTSTNbYcuQRcyPMiXutTTYX4f4UW2pLLLB2x4dLYA5sNJWgrNOiK21lt5oNEBPmDsPVZEEn0PoYfr7YXFfONyJ1l2lbzSeEYfHTA==;GrWSG4MVXKeDTJ4vCaNMlg=="
 ---
 

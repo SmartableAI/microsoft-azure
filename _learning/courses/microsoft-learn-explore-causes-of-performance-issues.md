@@ -1,14 +1,14 @@
 ---
 title: "Explore causes of performance issues"
 excerpt: "Explore the Query Store for tracking down problematic queries. Understand how SQL Server and Azure SQL manage currency by locking and blocking, or by using snapshots. Implement fragmentation checks and defragmentation."
-webUrl: https://docs.microsoft.com/learn/modules/explore-causes-performance-issues/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/explore-causes-performance-issues/
 type: course
 price: Free
 length: PT36M
 ratings:
   count: 528
   average: 4.814394
-heat: 51
+heat: 67
 
 provider:
   name: Microsoft Learn
@@ -26,11 +26,11 @@ topics:
   - Databases
 
 images:
-  - url: https://docs.microsoft.com/learn/achievements/generic-badge-social.png
-    width: 640
-    height: 320
+  - url: https://docs.microsoft.com/learn/achievements/explore-causes-of-performance-issues-social.png
+    width: 643
+    height: 322
     isCached: true
 
-secured: "2T4867n3vjUlw5sLndKk9pwUwhtU2ca0qb3mc42Wmr4D9zM6pQJ2HKBCS1d2oSQfUWke6YOtEMv6fHXMTSoeanP7Cii6RwRIfYv6whzw0uVhcZZszRCmbz0p4i6T7iDzRAuChmpFuAePfg8C8TU46vE9skdI8BvQgH8lBqagK77nA3cVpunWzAZo1FcYtAWPbv9bKiJYeKHPylmvo3h+MoCLUnRwdbogFlqBf30IafzxNrxwo8Rih+/vd/8HV/rE142ziABIaUYDyyv2s0F6NKHAizLLH/4XTqGDG69hPBJPHJvrfksXK/xl+6qthPcgQFNhdELrFnt0n7fujYR2wQwcCl7bYds5rR3SIJG0FkefNRMm2061X1WdbK6KvSX04g2SKbLdVDgUfJqVC64mHCeB6xng7pMsMs+g4PYqV2w=;t0rdhWwj3dHlzjYe70bypQ=="
+secured: "5ndMoaanyRxEq3dJGH8i38sLrLM0RHLfAnxcJ942M8yqsMX8nTHMnI5HEsCO25BJC0odLvhW7af0y+g7PJSW8MNWZjlymSR6QF2/iv2rNWbXO2H6cJkYzQ2AWgoW+3dX+0a04by3F3FtQtEKrlpSHZJ+992gozFnjlbabLmx9YIzWschHaJ4SLg8cBtL9uW12sLjyDPRw+lEfGSYkT+w0TqBsMt60fOkRzgwDtvF9uf47dg82vaN9d8SrMMS/l/zqT1DRAR9V+6ZLEzCLUdBSzqB1jXby8kq/hy4H5GtWIA/CY9EBDXHLYsCiX9iYXsWioLh+7Wjaoz3diTCq/0pMpaqQh3teRnNS8COHTdQjpjbcDnzdcHY/ix6UoZhuYVtdhMPGQxJG9R1m6oK9bHGrA==;r6vcbj8wImTNExkkj3mntQ=="
 ---
 

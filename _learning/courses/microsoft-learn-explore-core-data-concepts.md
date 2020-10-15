@@ -1,14 +1,14 @@
 ---
 title: "Explore core data concepts"
 excerpt: "Explore core data concepts"
-webUrl: https://docs.microsoft.com/learn/modules/explore-core-data-concepts/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/explore-core-data-concepts/
 type: course
 price: Free
 length: PT25M
 ratings:
-  count: 1110
-  average: 4.830631
-heat: 65
+  count: 1111
+  average: 4.830783
+heat: 83
 
 provider:
   name: Microsoft Learn
@@ -30,6 +30,6 @@ images:
     height: 320
     isCached: true
 
-secured: "r6uctTjP79aU467QO4BQ5uInN5Lm1J3RnBxpM9N4UPz6nURrhqmiGGUUee/TbM5Drb2pGbr0Ql26ySm/Ss2ZfoYtYsRRIf5SVJfb2dB74lRxhsdhEHU3BRLENAc70KA0EAahM1mGoVHWmuPdTp771lrvcRKgYptELgGYjiuXMsKMefNjXZn9oB39kNxSfbeVqj1ugolBq3mfv27mP04hUBqxYy8gnQdzKvGfr3Mq52ygtk/zFvYHWkdEyCIz9TJI3UljYUx7AnIl6DP5PhwzSP4ERiLPPIQqKsqxQT4mOp9G92A6jyCtRcxu50U6yRox2MjR1xKEoxbqYwEX7lYuoNuf2+ip9TSL0ItXWR1i7ga0o+WkWqjgnmflcV9cmvTH27jI6D82yG8xnjdNHFAKDOZGnYCoy76azaDvY6WoUYE=;u4Ramnao1cTLibnuXzMSJA=="
+secured: "gwK2EMF7/TFIHmp/vV4Po7U7mlWKzRHh91Os3R42NXet9Sz7oWda5ty4wdnIG97fwoZcCnAlFfqgOYrynyTu/zoqzGi8XeO2+983ZI4jI5VfZQWBMNgNWG8ezuCJQlOwM/5iMqc28U9CkQ6Mc/TqteD8rprajZ8nLjEFOjCIe3/BoGgDLBN9xFrw42ACp/BAhS9UkujmDpAJ9TAumYASMooMtYxargyyGEuJKMlZuMlWONJXwcIQyJSabQvn0QaRyw0z/WDM9QmW4s45AjL11nq3tQeMqA/vp9xyUTAglXNOS1vR/OysW29H0QNpEJ/9XKUw/mfnFL3Ct5tRP12Eaeom772GLOiCrPPG5JeHtmJYpk5CUlBw3IcnHBOh3KPG3CPgCX0y0rNo4xjN8PXR0g==;dX75OVUNPkrr29bmjIAYQQ=="
 ---
 

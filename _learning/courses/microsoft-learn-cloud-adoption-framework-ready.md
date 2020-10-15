@@ -1,7 +1,7 @@
 ---
 title: "Choose the best Azure landing zone to support your cloud operations requirements"
 excerpt: "Azure landing zones help accelerate configuration of your environment to meet your operational requirements."
-webUrl: https://docs.microsoft.com/learn/modules/cloud-adoption-framework-ready/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/cloud-adoption-framework-ready/
 type: course
 price: Free
 length: PT1H29M
@@ -30,6 +30,6 @@ images:
     height: 321
     isCached: true
 
-secured: "J1bV7iNviBSe8mdiuSkqVFU8f7AXe3C+YPEizNxww/T2wl2/LMjag77p5+btWSJ6aNA4ptGKvDNHsPZwY38F+/7KqXZVK4Nd8txfIgshPZJ1tt1rSMjtJY6f4MdL0G+wKIX+zJja571TsVPFO+48L1lATJCRC4nPRuBIWvFedsC6/CYcLOCfQcLSX8R+fmSOJUYXTZwliMx5t33Xc9FZ1MKMn2Qf67z22JZiIyImIYNUQnZNwQVniPDxR9QNiG1GKlnQHvqD0j8Jg3nmrck2zmNupcaJJhQABPhQbkLzJm2geRmUobXfBGeBDCBI4q31EB4IIDY8X2nlxu0takfF6gewpa52KMGqxF0zgOiM74gL05Zq1/MdSswlKXLgC7qSPCWVpuR52GPDzAuMq3YBKNEz6Lr6ADLgy5j3PG9icbE=;x+ZM+e2zMnoAvBBuzsN/+Q=="
+secured: "vy40MhA157MTjDnWtxlrygj1YZYRQ4lVHS3VVvnpBcnqfFnnhAi8wD2C+QZYjnztSvoTb5MilPgl6G6DgOzf7k8RmYrUUho+82nW3/lEAEAC/Dsxq2/60/4ADVfvINDYDV/cL5QOeRBFp4Aha0BcMM0HUoZJv2xuwd3f3BIy/sS/vPOpwLkdjq4qoBFkB2uqUiqTTNIOp4076sOpMONyM6a+3e0he8EftXlNzqNxYJqGmdhHLbPfmsgJw+nZNgyo9tVeu4XOP0DS8z9q+MGsN5Ee9k2oJmMiDcGOgD1b6QHCBzfaPBknf2XpBSB696gJaRVXsrFvnPDPOCL7P6nA2plhFMgzGydD81YMXHfR0Bi32X1yXORHDQ9AAjEU1OXoMuZidLLiH1xHhCc79KvhoQ==;Tf13Vo8dhgbpg19BbO3R3g=="
 ---
 

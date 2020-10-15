@@ -1,7 +1,7 @@
 ---
 title: "Image classification using Azure Sphere"
 excerpt: "University of Oxford"
-webUrl: https://docs.microsoft.com/learn/modules/image-classification-azure-sphere/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/image-classification-azure-sphere/
 type: course
 price: Free
 length: PT1H8M
@@ -31,6 +31,6 @@ images:
     height: 320
     isCached: true
 
-secured: "484CPWc31sL+BtSeVxDgmdAk5d8s01cOCCm1VMAiT+7x287HR71NMh1PHX3defgUM3QryrNTGuOHsQFhkj3W1GB7f5hgx+fQSRfzWUyoYRn+UHbSTQnCKagGD9ZN2AU2rE60qwnUe/ZfHAFCQlv7SGAu3JruP6jIU1C7x8w+xsyMeexKLByQhO/IMqSZhCEuvsI6iS22OUsWrhacjYp2ticMWvtbTXecjknkj05rjXJy1x2Psw77WmlXp8CMg8QhLFLPMAzQxoLB04MBTfM/SiMpaC456e8t0UBXlclvjc0tHYhbIusjLA1ka4daQE8HYR8BcsIl6sLRf8Jrm+bS2EfaXih7jucJtuGGHRV0faxtFJr3s3DcjJ1K692qh6K89iFdRa5tknW5wWfCaMe7veAZYCvjGdoxdEy4SjWl+9s=;NPichpN5sBDF88rDL47A2g=="
+secured: "4WnwzyCMhrTkKV18XeP94l6aWVjxTgVwuUkRZzLwpPt+HsQDemXNb+NMO4BpGdoPTsJmvDcQinrgCQDxiv9/yiiqPJXtzYIsw0YYFy3aKG57bgj2FUc+9olcv+Ia8IsNGTmpz7KMDLfxhL7ynAhCH1ZArjCN5ZNCZyQFFdE7IsgfSdatqG/iWFO7MJHruFwmHbftD27FNR1n9JBDWY27OUAydcmTVMckxXnT/6h1mmoOQei+zWEp+Px55yAeV8Tt5Z/QakAbptiXQtVPukUkI52/emX4iLVtWFWhSuwPjmBQUEDo2Xoq52XVezT7rgecZgB1PvPdEFMRzxLynd3uV82ii2pCN/4fYG3k2ydgCNf31GVcrNR5G/OkHK/USbsPSGXbdwWjX+u9zKVW91Armw==;eK6D6L/sN1wD0URUMbCjSg=="
 ---
 

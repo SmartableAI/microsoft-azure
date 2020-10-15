@@ -1,14 +1,14 @@
 ---
 title: "Maintain Azure for SAP workloads"
 excerpt: "Maintain Azure for SAP workloads"
-webUrl: https://docs.microsoft.com/learn/modules/maintain-azure-sap-workloads/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/maintain-azure-sap-workloads/
 type: course
 price: Free
 length: PT48M
 ratings:
   count: 106
   average: 4.716981
-heat: 50
+heat: 53
 
 provider:
   name: Microsoft Learn
@@ -30,6 +30,6 @@ images:
     height: 400
     isCached: true
 
-secured: "EYqlBGs7PnXJ7DR40ylIKbUrU/dnT38a+t6gVZrjwz5yJs9sWIWIV9nFTftWYpmazk/Q1XOawguDujIQ4LLNeMEKWzgYkJ8ZQqJpkSLvwPpWGm/cX9cyNbQF24TdV0P54TcfETq343Q2IrpgwK6MYYYtLpOAAVMiubEtVyrBneuHE67mTAOTX0m7r4YddZHXQBfmNBGed/UjcbWE0XhndC+UQ2INEVCTfIl3Hd0uFjLRplJ4npiD69z7DKkiY5rZI6FrXdIjXMxbiEDdiGJILscdqhb+kfWtioqRSmLnNi2LQwwrM6/a5byx9gjW0nCI3LJ/KbIdVb86314HyQp9CMpGLBykKqRgOW+0B4MnxuFtE6JFAbI5XoHEyabpY3lyVLNADIcQOMxmCxYPYyuldAAP8jV+6bMEFgWe/QMzNxk=;QC98NBMOPCKtdRP1usdbyw=="
+secured: "cIs9ZPTNzdDt5ZRUitQL/fj9XGOSHw7V5xMtAxfiHMiyNe8CPN5s4rxrL5xnJ/mvk4o0z9TI9quplx10p8tZy+HZlFDvzHO98HhRhXELB0CFcg5uHriRo3/Gyhjixkc0fjcOLww86cfDV0nSct22Lf3tLCDiJ42hTo/u+ip1j8Lw4Mu/dxvCEi3dwhkVAAA+VdVaMjumXpELA4TRd/JZfssTsI3MqsXEJEK4kuF4FJQKrDfzYsC8vYmGFZWCK+a+abq3R39vMBzaF4Ry+lMZfJhzBweb9bIXjWrt7Evr6LblA9HLgCosoNO7GthLtm3neqPc4eMqr4cMB3FMJl58Hg9xE1ALLCV0vc3EAdAJWI9A0EZlVZhHSv3XBlpG6qmA+tcXf4Lpi0P8w0hSECImow==;HVjXY45gatLfV+UZd4OmoQ=="
 ---
 

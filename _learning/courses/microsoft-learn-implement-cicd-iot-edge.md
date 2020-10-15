@@ -1,7 +1,7 @@
 ---
 title: "Implement CI/CD for IoT Edge"
 excerpt: "University of Oxford"
-webUrl: https://docs.microsoft.com/learn/modules/implement-cicd-iot-edge/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/implement-cicd-iot-edge/
 type: course
 price: Free
 length: PT1H11M
@@ -31,6 +31,6 @@ images:
     height: 320
     isCached: true
 
-secured: "lrmRnIwAYXUwBKitWXY2WQjmYDgVb9p9LGHIEK6KRfLC6J0bYaimR3lIABvDi9DAlDHi5Fu/cw9hakyqU+Qq4XYpcJofI/i70NJTxSGFB13CaFvKu4PsivtPChZRjSk3vKcwxhMWALAYFSQu8EeKH+QeMuuSxLGgeTTs89DrH73ssIq/C0K82vFShS/jJH03HiR3jXwPdPdUmF+vXgSBdySlW48pDUFZrSOVdRU9vUsEAWriWf02KnMAAXNOevhtOOkEiFD7ZyIlxoCOLwUfoPZEblfJ3Zx3b70UDhOYMLbOjRTcAt5CwhzQlG0dpygiikiJtD6Hw+IrBln16zfAs4oP4Lqf7sc2epC6MLINxpDjBopGDJBFL3I/z4Vsth3ubJrNzHLu2oZA/5bIb950ruB0I5/yDX3ClQvcOeMuQvE=;wzuOANr5bYh1pDvv9nJwgg=="
+secured: "+JrGpWfp2h8CJ+7i3jknUpcMjCr704l7MhHHQM4k+JCGQTmeALFpbbqGbsTycA9Rb6A0edNmvu/+2A0N5kgbHY0U9mzkeEXfYBdmbsua7YaLGhN4+QaE6zlO+4ptQ6RTdiVHtCJO74qOdUCyj1PCgmWPa2qnYPWBxNu59ilMeByBEkzTtxvEHHYKgbirsiQbZM5xzkFXr9wK+OgBzYPVNVxuHUmA8nz5QB9Nu5ThxbRjkg9WW7gOVjGakJOhGumL2AJumi/rLCJmeqAQecyPv3VGCW7hNLlzU+3g5l9n4OzgIdD8RO3NeJxsCetqFzDn4svC8fzAJsSJYeZyonOv5Otfm9m77+qBUFxZBgAl9EbWTGL9VnovcFyF/zd0OSHlOobRHdFELY8mSwQ7TVe2UA==;0IeclFyizOvjd8ERi8Jjsw=="
 ---
 

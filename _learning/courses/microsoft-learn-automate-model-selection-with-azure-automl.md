@@ -1,14 +1,14 @@
 ---
 title: "Automate machine learning model selection with Azure Machine Learning"
 excerpt: "Learn how to use automated machine learning in Azure Machine Learning to find the best model for your data."
-webUrl: https://docs.microsoft.com/learn/modules/automate-model-selection-with-azure-automl/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/automate-model-selection-with-azure-automl/
 type: course
 price: Free
 length: PT25M
 ratings:
   count: 902
   average: 4.618625
-heat: 50
+heat: 76
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     height: 400
     isCached: true
 
-secured: "eRsDzJRFZo5pnqRpNFRIPUHYgy1e6gaIhf8U+EyDgcBoOh7+LN75ppUi32HWGk78fZWXQUtVJlMJwxh1msjxV7mD+9iCFIOFXNrWnb5rqkxk8mecU+jPsYm+s3OP4l7dCn9RlNSbPstl/PnG7XX8J2Z3YB1dh0R75MDn6stAeaKfMzYtPlUwrPoCQNtuPvOgOSF4in6xQb1v/dA6qfEcH08xvj/GW/5KBxM9kNmUvqb1wz5F80zeEDy1mc5ovzTe6fVvNCEIMduFO1aUxF+an06oh7vlEhlPcnb6G5dkXbf8w/Tc52mblTcRmkL+IAry8Ay61XFu6L1ScKRpSVMk5KWPtIcFHAi+knsxKKum1vEp7i67zukX0NMhyaknBprr0OEYoUr50q5aPZSbqx2dMQDsEAB9MdVB+ZnsFBaRp2M=;FDhdsr2fgf+QqGazz3apDg=="
+secured: "u9JaFtn08SSPeItmem/q+cW8uXRLAj927Dv7N/YYx7Q4r+mkWTujs6ujxtfX3na2ETXReu978sE9AxatA5/9IdyHL8wMmUL4kYOO86IeaayPWLa572jnlAQyG/seKRohcbmqCQtozE7/7YOChlXok2pgxvGs1RqvbueSDKgXXSds9ncwQLnJoA6U5tD7wzEGYeADrmUyjUVMvdue6Qathj/Pzq4+Wr/JvL3xCXgQ8GthIULo53EnouWJB/iWGAddem5QLUrqSLYc4O8Ti6Idolm7p6KfV8thPKdu1kqUUlJhHSD8JbmKUIqYZ24ctUPSF7z/gatYbUaRWEBKE1Euc1ofG4GlKFHcH56SfqkgdAnaTTaqbZgitnYLv78KStl5XBuHXqQnqabwS4VserpmJg==;0fafmS0FVR1CzmlsoxkF0w=="
 ---
 

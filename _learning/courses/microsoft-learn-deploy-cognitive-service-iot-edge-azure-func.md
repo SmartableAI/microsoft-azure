@@ -1,14 +1,14 @@
 ---
 title: "Connecting IoT devices to Cognitive Services using Azure Functions"
 excerpt: "University of Oxford"
-webUrl: https://docs.microsoft.com/learn/modules/connecting-iot-devices-cognitive-services-azure-functions/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/connecting-iot-devices-cognitive-services-azure-functions/
 type: course
 price: Free
 length: PT1H16M
 ratings:
   count: 41
   average: 4.4390244
-heat: 50
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -33,6 +33,6 @@ images:
     height: 320
     isCached: true
 
-secured: "auZXFVqtbUMIAJ2Q7S6LJBna6ZY0X7YeMgXBxNKX1Y+quzmO6qiHt8wLm1eY6+LwJQvbfXGL1m5QKs83AmRghrbEcSmkua84laF+D0B4bpcVBBTOiOlbybw0CmazgjNvQMPwdIE2P2HkhCZ9Mp5Nj1IzD2API6ouGuTOPcDLoO6bxLCmRhvrys7mzgaJwwN+EszldIGBTGcTJIVWg7Dp1A4iA6NSPyLx0BNWB2vsaPQepHWwUWNExUEDqNBOivJ4NARjyHrJWYw6xTVCThoGWrVkqKBOkEYliXM7PCjCdU/lkye3eX+BKPfwHbZ5pVJwGtaklQdPi6NC5O9rpNORihYLkHfzVEDYI7qFkl3nyH9kESioM7/7aZytkNruoM9LnPqOIkzoNOugznoA1LiBdk4V1rgghArUCT0v2c5D5vI=;Ro/zRfVaKFGmuSF2BcuS4Q=="
+secured: "RY+f35RFyTTaZ1HibAxk41lFb5tcL02uaCMB542wnfqaaXnjljIRDt2EE4VqK8zJRKSbP2gRQ47DPwRj1tg59WMF0gVqRnUC5Itf9lyLXTiugMX2Xmxde+qmqzR0c7554ZjHEX10PrN3Sk6Jbv+u+0KbzZ6i7cIH9r7/FAxEgXkUVx8UAi416svSFVrx+J+b6WWyTnNNEbcMPm/+4/WId7kaboKlLLyau9G3iWyjBZmWu6paF9kp5/2X7CjxrFJVyV7nIa0u+xYB7/f37UmjVTeGCSCHfCxssZP1aoa7ixBpWK94xQiXyyjrA6Wr4k98+YCYRSILuebl4EWLNVirqwhujvwGOeHCgtUsl/RzP3hVpaZVLtc78yKvil/Icoj3FBKt7CPoxERasTuDpHVbqA==;3tJ8Ls/GqLV4uFyi+QBaVw=="
 ---
 

@@ -27,7 +27,7 @@ topics:
   - Azure
 
 images:
-  - url: https://docs.microsoft.com/learn/achievements/generic-badge-social.png
+  - url: https://docs.microsoft.com/learn/achievements/enterprise-scale-introduction-social.png
     width: 640
     height: 320
     isCached: true

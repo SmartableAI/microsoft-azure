@@ -1,7 +1,7 @@
 ---
 title: "Upgrade and migrate Windows Server IaaS virtual machines"
 excerpt: "Learn to migrate a workload running in Windows Server to an infrastructure as a service (IaaS) virtual machine (VM) and to Windows Server 2019 by using Windows Server migration tools or the Storage Migration Service."
-webUrl: https://docs.microsoft.com/learn/modules/upgrade-migrate-windows-server-iaas-virtual-machines/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/upgrade-migrate-windows-server-iaas-virtual-machines/
 type: course
 price: Free
 length: PT53M
@@ -33,6 +33,6 @@ images:
     height: 320
     isCached: true
 
-secured: "A2lFmNnVHY2shc0NkogJMb5Iw2GqUv6yMniXaXJpoP80SZRboD2JN/AXCNDrjxmKAbqWs8kNq5nYyvZ64GnoXGxM5jsX00Zbb8UVj3saNGRImYu84cmDHgPyFW5xJZYhV+QTQlBdxnJUzAGrpmid8gXO1ZlWdxVwmsT5JZheORS3RN5PK3p3a/rZbwhvqDkaRqnGN75LOzjcMUHIu+WvIkXqL/LQwLRt+eMee489pWis2sAuplDEgdvQNBmFhFcadVMTegiQW64d+TmQhv+olaDlZhYKMKL+zR0XRrtIqKCtAbyKKZT7At/JRVtamOIpaYoeiP3afrnZbUR4DFn2Yh657K+/hMkCKbluz56sWOdF7HcdvFxc81+X8k6O2MzBxqifdhJG0G0a7UiAIP+CU9gZF0HECKSI922ExLo635Q=;dtJUFgxEkALljJGP9eP3Iw=="
+secured: "7JBMfrAbi8mhrg9Kt9uEUI6uvzH3XEjFc3vUXb0fAig9LYiQwqo2mbsYIMmhKEAKV9zzGA6YTehaXXD3CLqUR+9dVZKw1NAjbdG4/kla6EQw1SxGjuZEzRUJIa4UFQ8RrZSDqfa4tOimFon5VhVrAEoIgCHWWohEKrrYoZX1Z9kL7Ca/w0sab36A9+bD+8VZRoBXuyYv9qx36YhT04VM/id4jdjdaEvixfQf5ci4ettYDU96n2nXFDaacAoVwCl329caJQ8SXXWEXGFpQ1zBPzJjBIwU0CQe/YoEXAjzHX8CEgtcwTIdqR8RdpETTTnRmMNLar0FIXRvkqzV1K+jueJjLHuzckrZoFvmFtSyBlnZ2IYYJPxMMeYWzHONq6k3ugu2oI/iW9Qod8Sqw0d3LA==;D8gxSbujmKQda2ZR6AqqOQ=="
 ---
 

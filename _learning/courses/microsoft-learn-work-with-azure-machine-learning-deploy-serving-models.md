@@ -1,7 +1,7 @@
 ---
 title: "Work with Azure Machine Learning to deploy serving models"
 excerpt: "Work with Azure Machine Learning to deploy serving models"
-webUrl: https://docs.microsoft.com/learn/modules/work-with-azure-machine-learning-deploy-serving-models/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/work-with-azure-machine-learning-deploy-serving-models/
 type: course
 price: Free
 length: PT23M
@@ -32,6 +32,6 @@ images:
     height: 320
     isCached: true
 
-secured: "35YtWRB61vD85zHQzLCXt1eqIvH2ZXN0QR+pJriNHSCdKPeWmMXxkIucn702sUUk5ALkWpRrh2w/Ez+0s74i6cLmlaMZ8yD5O//RV0Q3aIfe5QJuqJePZLVdFa07AbQrNLhtjoR+9J2IPOIu5OsAHH22M8O06ENd/3QqyfcWHGA4KFVNZiDj303S0mOqo4d2IaKglrLlkpZPIc6hsgQqdWNEA3QLUXcELy6LdKakUE69PTTK5yQG0R88Zvqr0mIeZ3z8tW4iWTdLWOfh6Pw+icmzgCx7QWs29lW2gDbylk+Ylq8vCnWoQiWvqJFiD3RHsyt08cMkOLpJNMASGn+Bafv1UMYTQB/EI4te5st7W0Ic9lQSjMLqB5yrFP2dVWH0G6CqwNL6k8F4Md8tuu2sIXgIF8Q9a9SqKWCzBrKqf6Y=;hHlLY6MmvXK50qzy1jOnQg=="
+secured: "50GGEb4xWZ9Tv1hL3dYrY0bW5Cst3YDlRGO6z/ztuCCd5tbOp4UvBdCk1Olds/o2RBfJKNHjerLRMES9rxiK5vKYJF2vMhDR/IHjBBEnrTrCVBu8DsqeqALUH+9oFZaUCKSrZuxvC0xvXKGOZGvrdwBGvHSNLYCNbIycQ/qaXnhetLBGcTdG3OLTfemjHfaXb9kCHo5Nyh6PSKyaWgEIvouNbk/x5AczjVogdC0weO1JwouD3UxZL9uPE/eRBvwkw6g++2b82JaO8owKB/mMVOyumFJGvdSLEDlv7NfkH5hcSgIOrBvkHUKMP19rsttEQ1IuIbeOPlaEDSzDPgNXIv/fw8On+eyq5jqU7gUTG7m531aL/cX68rnruPA0wDJkgpBMU/bQSF7gWCRD4ymaag==;7S3/bwTdquITOYgqK7q3qg=="
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Create a Bot with the Bot Framework Composer"
 excerpt: "User the Bot Framework Composer to quickly and easily build sophisticated conversational bots without writing code."
-webUrl: https://docs.microsoft.com/learn/modules/create-bot-with-bot-framework-composer/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/create-bot-with-bot-framework-composer/
 type: course
 price: Free
 length: PT1H4M
@@ -31,6 +31,6 @@ images:
     height: 320
     isCached: true
 
-secured: "bljq4eXR1tqs8JBEymJFcy53IlLXPFknvyzWveJbScLEGdDOOEN3hIlorSRlNBASBp5KwTLl8cbYa27OOp/UpRo23/y/9G3ccy7iu5E41EpcPzM6HBUpnN6Tu8NptteiN7RqYGzkBjN11U8EiwJndYpND8+stFd87IDnxBChSgxoo+2Bn4279tjp2q1uPSl19NNRgdVoewaVEzq5Z4Rdt9vVinWRYlmPle279SGOtzA149KUDrXecdx858mx+JcimpVAxQT3n2OQITcqTc2CN3VKEm17ObtXhJAmK5z1Ao00wJe1j/RpjuoKnSuxUrPyuIAij4ZFLKuuKF+zxyVPgZ6kShLP/funT36CFdXzao3MhbRVJx+wD3+KtxMgBqsPeekZyGurmGZh6dnqi7gMkqHxpO++iMlYILfMyLgpaXQ=;U7kP5fdLnz+jt7O5zCnwmg=="
+secured: "ShU0Ah5ss2MzPHsAdJub0AbkHgNuV2OD96w6HMZoi7Jg+D/AHFG+Qzh6QWN/EOCDxYUT+65NDz8B7EfRIQXqWdgYcUUWlNLbWZp07JnAZlsszbAzj2KZaiTl+iW13jag2oac+06Y0xyM4s3Y92LBWaRNwGjHh1xJZz+J5uzq/y4NoiYXYbhVMKsQ8moq0FTeq7bxMB/vX1Ll33tzrN90GNzHvay3QZFS3vYmZkrL4SGYIGD9Y4Aeu4wsa5mP8Qo9gE2l8TtiV9YARVvcfnkaJRrEehvaPctglUctbjsEBrsSqof+SmWawTuoR0XkifP3qqheD7JeyWRCM8VR3RuP86RDsGERyQEV5raKcX7YabaWg3Vqq9qo/6jV3UsYfQ/UER6srj6VItRptp/Eq0k3eg==;NhLLw0+aZ71pMYGqng4dJw=="
 ---
 

@@ -1,14 +1,14 @@
 ---
 title: "Use recommended tools to create a data-flow diagram"
 excerpt: "You can use any canvas, physical or virtual, to create a data-flow diagram. Engineers at Microsoft recommend three tools to help you in your threat modeling journey."
-webUrl: https://docs.microsoft.com/learn/modules/tm-use-recommended-tools-to-create-a-data-flow-diagram/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/tm-use-recommended-tools-to-create-a-data-flow-diagram/
 type: course
 price: Free
 length: PT18M
 ratings:
   count: 158
   average: 4.632911
-heat: 50
+heat: 55
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     height: 320
     isCached: true
 
-secured: "WsFKV2QhKnm9EZFhBTJaBQi9WEuR+7KiE/lwA7zc2jB8pQP3fjG7cBe+7Tx+vaBXWZNxG+AE3H4Owqa6RK5pLKuQT7yXcjva7dZANUCCk3bmAbCjsSqry4mfh1jqL+wgW7EPpCLApDWGKeALA8oCqMuQ9+1oQjgTgAwc0S7rxr1SP3sDfgFJ0ohy5doq5C+jc877xg36R3p3vJBko4dNMBsyvV8qA/1cFstf8iO1dIrTIcih+ELaEEzOEy3s79dQ+93ZbZzz//xkYj/zN8k8FQtSOsFp/msTmVHZegMoMFfdoAKQF6cEbfRctQB5rvsk6kjE1jVHa7hPeryOUnvbJWfZ+fC7+xthPkbraKImnqDBlrVfRdvGerQX/BZ75Ba/Eg7rqBceQ/2u2JLIc7V8HOrkBTCi+5781+7IR+41mxM=;LZHrZ2l8hqKnT5u1Wm93eQ=="
+secured: "QOVoxIwGkWCxsXdZa0bC80d4XyuHsej/x4YR6/3tR5ryYEkFTzpV64sauyzfgplL+v8NVJesjjCJpdVKtVd5Yapq2dkHW4wowzAx7CyjKjSM4+bsHG7cI0fykAAjeVLVM8QYxtPyslPXGyi3xWlIrPDufkgn2G0MW5HbFHFpyiOcroxeZanm6CS58/6wlnIIygAhxjKjAHG6YN2bI/AJa5XgIDdGTWD9sO+kNynrIR4BwH9qeEdRDCMNTjXwlI5laLIsgYxbwANteSSJYuiwBYGJspkMie8du6oIDR/J0Zhs9KNaBx7ea2rhI3juQsr+o0lGL/P13etJAyn1JAPS6fWemIj0izcrNdAjxQG+8LpU6u0x1Qwpz05OR/oHtGfV7mn8nH8LT5dGaQFkzFWEow==;N3APz2QMPzzT26/ZH7iGJQ=="
 ---
 

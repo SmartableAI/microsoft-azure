@@ -1,14 +1,14 @@
 ---
 title: "Introduction to Azure IoT Edge"
 excerpt: "University of Oxford"
-webUrl: https://docs.microsoft.com/learn/modules/introduction-iot-edge/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/introduction-iot-edge/
 type: course
 price: Free
 length: PT29M
 ratings:
   count: 764
   average: 4.6387434
-heat: 50
+heat: 73
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     height: 400
     isCached: true
 
-secured: "7V3oUUAhhEseUQFCQi8OpAiztcxt1pkQG6bFW4QPezL66jetAQNswwMQ5niUdbtkizqqFeXdVnVP0TlnHS0NxiPwP4ibbeqiup64Ct3sKoBd9YAug8EjYBbtom1656oOiCVK6B1e+NFECMPt+ggoO35H53QGgJQTw0vxTzJo+Rxuc27BpUCZ8Uo5qtcf+q4j5KQStGv5lAZlQfRfLqMV8PpMNdlXOQuAfsSkWPAGQAy1EnPZuHN77dxR0lmQDh3TcBCt2KsgWFZLBV2XWJ9E6HJb2Z8s4/JvF2aO7WeYy/3kOaECTRmHgN/kvhVahvTrdnaI8n2OdJPrdmSPiwkGqPBLoQlBlDBSJd5VCFKlGkERkG5+XSRhHs7Nwql3ZBqrsVMobEIXg+nWr5ahlvMTQ/tloFVFN8A3ogTPYNNqAmw=;YujbB+KqzYC8wtbVXoGlkQ=="
+secured: "kTT02xLryASgtR2529WJUoDx0uS35ZrrWOyyA5e7HJX74u3GjNgzpDdpP43QqSDPkudg22ApUv3nl0Aq5B/kf8qMAquig+lrxiTiqwiYmGRw/BW7WniM5n7axd7JQrXKG8MzShxe9MSB9x0roF92JmmoQh+00Q08ioMU0dYfWy/PSzNkvkQi/mX3arPbDpmrURHd4zA6/ttk2pCrlBIEnuNHAbCXbfoy+KBjCstC0oYN4zG3U8yQkg7C2KfHdmKjlwYPXJB15Orlj1UYkj1cxi1Y/vJj1XHLiMnPCuMEAun3u9RDBFK3w7ir/RyUVAeAN+aCtyqN/Uw20qVCQ2zQaXNTp6JmrnRP5vjT33Z/qPc25e5iEtvO36KWUt+OGkm4Fn5Vjup50Ezfq2emNhjlJw==;4QtfNOz6MgxjEsx32EATWw=="
 ---
 

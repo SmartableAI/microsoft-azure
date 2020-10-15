@@ -1,14 +1,14 @@
 ---
 title: "Predict costs and optimize spending for Azure"
 excerpt: "Discover how to use Azure pricing calculator, Azure Cost Management, and Azure Advisor to predict and manage cloud expenses."
-webUrl: https://docs.microsoft.com/learn/modules/predict-costs-and-optimize-spending/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/predict-costs-and-optimize-spending/
 type: course
 price: Free
 length: PT1H14M
 ratings:
-  count: 40652
-  average: 4.7157826
-heat: 78
+  count: 40654
+  average: 4.715797
+heat: 272
 
 provider:
   name: Microsoft Learn
@@ -25,6 +25,6 @@ topics:
   - Azure
   - Management Tools
 
-secured: "co6VMgwOpmnsRzPG0eDcCbe96S4lqH83PTDIPHRFuCCMdCBdwSzmkpcXdNGnNqerU64RzzjJwfnB7lJ1QuN1aBU2NR/JZJz/Tq87VRJipUwPzgDNdWf97//44R8YksqELTxM+O5woS/YEX3AlnVyBlHLpytiaZAirMxqYZ/Vh97e1pZQrfBIwFueV7px6hlODqGCFGFqFqo9Yvl6YlSULqCZjEjcMpAbKlpOSDITRpqKrW4JgkOYpcE3c0eeClGGF1oc343uWKu6THke1HTG0GPWkLxOjgdUCRKZDS/n0JEJ/mc+h+j9NT+4VBPZCzDNwcVcwzz6ji0WAPWrAheLCv6Y84tgIm/baDzVYIeX3Wrjv2/sBDOgrvVxA4UA5CpdmrAZWWNET5pNzf9X2qow5wbQBPDgjEzXHc8wPNuys1H71ZvSlh0KBnlQVwO9geoF;nZEZKu7yB66sLwEB2m/xFg=="
+secured: "dNLx/ymPbECw8kwtDyEJNynJIJDAMB/K9SvHnp34qaAdKqS1B5eZeISHM1pMwMm2BCtd/2Z/k91JoNOVXknde0XvJxpdeAopRaJvvStve+jXoXJZoDTK1pI1F7ScxrIUi/5MkQDg1ZM8t6myFmEatJ/GnW1pBDKSK4wKk3gLOQCOI9mddB1T7VrplpeR4t0+6rCGGjPDOxKuehuCG11GRITVeNaNQqzGplRBW7QpRZAAw5F/dmC6YBZ3E1ybRJV0SAPyNLc4OcJr8VAZWiOzgFMd7UgzbZmKmforEmLdZ/H86beuh3IhjzQFkp/xXi8PthnAPcsjOY1JoLbjKnpbBfoAzn/mQ5lP1QAbx/mmoj9fRf6dmpArqL+zVhc+QWaY4XlvlJdZwTHUKuWQPZWyTQ==;yTb1JPSQM/Yd4QLR/G6jLw=="
 ---
 

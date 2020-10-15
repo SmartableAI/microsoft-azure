@@ -1,14 +1,14 @@
 ---
 title: "Provide context with the right depth layer"
 excerpt: "Threat models can get complex if all parties involved cannot agree on a data-flow diagram depth layer that provides enough context to satisfy requirements"
-webUrl: https://docs.microsoft.com/learn/modules/tm-provide-context-with-the-right-depth-layer/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/tm-provide-context-with-the-right-depth-layer/
 type: course
 price: Free
 length: PT26M
 ratings:
-  count: 178
-  average: 4.724719
-heat: 50
+  count: 179
+  average: 4.726257
+heat: 56
 
 provider:
   name: Microsoft Learn
@@ -26,6 +26,6 @@ topics:
   - IoT
   - Security
 
-secured: "bcW4KR9LmGxXUxFnkpr93QWIEFnXqhJ5xMayPokDR624JjOQkxUyVcGskI4j1S0/J0gSGlooakaspRiOTAhMD0Wsc35GV4UF4Sa7742cTXPmJnG+JpWylG/a6Jke4iQ5cEaNiA0/t+i7fFU46dSYSaRfUAO60/C2slzGwSw9FxKDZ15YuMllOhrA6dlkyKXCfpH/h3BtFtt5nzJ4AS4WfvOSeCrGW7KDjBsCxHpGFGCGU5ZP/vZh1dPqjjHas/U5WPrKA6Eo/GR9r1vFQaz4+5cLeWhxHzMEZueO6WsQ1n28Nc862jrKO+9om3UA6ms5XlxLE1jYtoqSK1m8jmtT/f2SAxOkXJconGI8mZbVKEZb6fzbAB6JR4WCDrw4Ht6UKMf79qWASMTOOv6xmC3FsHFwfd4gQuKQu6hoP26AB+g=;/JYyHkbRKmuQugyctnmwwg=="
+secured: "/0EGK+1VG3WatIu/u3njnAQ0OjJDeMeoFI8YJOfZaVHO/HyqCFaj8khHnypMtEEJLA4FQ1UAnB0cl1YA4UtFxDhFU0ZaloTCgde7pUzQU2BxLkUI6hC+E97389gsD7o75xfUn/IyfG1tdWrs5s/A+WK54DbFbh9W6pAcucsJ25nUq1xyAQG4Rx5YG8aOYEFGGD2tawNL7tv7zhi4ZlTwUgetKNWbu1DLbCjD602VWPQ2+JUhHZJqLjxaZUM3y/7Te2bULKBcv0loqdc7IA7libbJNsZLjDp50gMvFeSUsbN0WbXYyHeKLnUsY/SO6M6WhpvK32KPzokJm1qNkPmP6tyt0cbEXVeoDemajf4pOdGRTeQ19cFoN8jai4apRgHjW2NgKD74aVQdpe1LSuxIdQ==;iSZH2SEdswrSxWkfLdeMCg=="
 ---
 

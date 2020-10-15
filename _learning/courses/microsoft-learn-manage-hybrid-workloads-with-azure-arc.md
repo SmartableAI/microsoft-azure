@@ -1,7 +1,7 @@
 ---
 title: "Manage hybrid workloads with Azure Arc"
 excerpt: "You will learn to describe Azure Arc, implement Azure Arc with on-premises server instances, deploy Azure policies with Azure Arc, and use role-based access control (RBAC) to restrict access to Log Analytics data."
-webUrl: https://docs.microsoft.com/learn/modules/manage-hybrid-workloads-azure-arc/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/manage-hybrid-workloads-azure-arc/
 type: course
 price: Free
 length: PT44M
@@ -27,11 +27,11 @@ topics:
   - Compute
 
 images:
-  - url: https://docs.microsoft.com/learn/achievements/generic-badge-social.png
-    width: 640
-    height: 320
+  - url: https://docs.microsoft.com/learn/achievements/manage-hybrid-workloads-with-azure-arc-social.png
+    width: 642
+    height: 322
     isCached: true
 
-secured: "FK+HZgP+XxCIREgSARNZ4r/2gSUjUIDYaI7om4jo7ReYiUcIePR7yXR4M/yjVFg9kasvx+xwXA8YuZWUvXsvo1A/SZsnIvp+WjBstvg8sXgDisRXz0f6qtl7NuNb3lM5Ug22XDY2Fjm0C8d6Lvd17vcYZrG+hNAbCVPnFXjiLJG8j4irydlTjWfb4WWdwuruQnIeUNtIXB6wQqo6mbYeevKZCm4trUZAAiQvnfoUg+YC8EShNjmLbCENzGaMQqYd2mXmcgcuaOAM8uP2dTszyvDpUMzKm20s9aY6nsmxlPv0BGR6EFor+Th4OFDmnxp0FLFtVN/JDxa51qfViTJMTSTezJKOVnyvNY5Z52aR06AW8EmblE6cn1Jl/zE6bt2SrMU7+lWLRrFmZT7uod6EFqlWT6sdAp1U0BzaTXegvyk=;KJtbNVOmMN5iUnFrBHPeBQ=="
+secured: "ynj71x/HvAa+SnZrQpC0Qssg1SrOmUSkJABrho94xnx0vYlTgouUwYyesFMsynTmPW02d7+eBoRmNvFfhZmSXC+qzxCFX9i/dIbZ5LDY0RoWDfjBDPAyEb0KlKMHMEPIONAW35HFwrTSLUR518z5uvHs1dqGbI92/yAWPWuq6RytoLZFveEh0l3oQoA5nWQ9Xzwz8DLV1JVY1OiFsycmyIAmpcfP399WF04chVXzZGvQwVds7ssmR7EK7YqRU6iKrhktq2u2t9INSDyazj1wQPvtw/5tFrYcLBor4B0UIqaHuAsGzPbBlPa3aqrAO/Q9XiXqkXaaYpV0M8e8KPzkOyBxqz8cLr8YYxAIQFkfQyzB1SwDlUDUVR5FB59JAQrNdeYSS8d9IMFTFJQkTo36vg==;f+SZpsMp6YmdCTymjQuaiA=="
 ---
 

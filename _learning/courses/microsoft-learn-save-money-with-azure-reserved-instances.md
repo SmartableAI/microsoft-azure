@@ -1,7 +1,7 @@
 ---
 title: "Save money with Azure Reserved Instances"
 excerpt: "Learn how to use plan for, buy, and manage Azure reservations to save money."
-webUrl: https://docs.microsoft.com/learn/modules/save-money-with-azure-reserved-instances/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/save-money-with-azure-reserved-instances/
 type: course
 price: Free
 length: PT34M
@@ -31,6 +31,6 @@ images:
     height: 320
     isCached: true
 
-secured: "k10sKRodITjWrRqb2mqfw6RCANIpRPiUod88U4c4k/OC6evyaa5tFFUdTShnK94Pgt3WcoZYtY8hsR9Tc5WMaXUq96r5P6Hl4VqG4yvDP3IhfBFtjLZQlECL4CU+uaB3DcQDksfUqSgVhNDuCKOfbK20ugKcZd96rjbqCMCT12nqEp8ttYDclsAVEzNhlthpx/e1WreedBYC98TuG0BipJsTQGcrhGxv7EBB2kdcSX9gJxlqCjgdpyPPtlU3Thj924KV8Rkl9QxtL5YosHts/V+P1MTIoss2nrzG+Di8Bf1y1/ai9MuCsmsYcsmuBmA8ZajJ3T4E95eq8i0xsUiE5/l2ALhNi1FscWrVkjn9cK3xOFYz+HCg6eNYR/MBdMzRb9245U/UYo2u4+fzPmA8r2MC1gkva2AAtxsj15NiC+4=;VP/DQOxg61REAETonp25rA=="
+secured: "Mst4TIxKNCsl5F9m7Ip90sDS57jAt74uSXMz/mds2+R4LZ/4/dWCip0Y3IPJyWS0u+mw89uCWiYK4UN4BOBLXUBtCE8JpzryPl7WCM5OF35lrSwDQS1voYviEBIHxlETRG9m+pi84PWGLL22co2UwTdTchayMHmMQ7lmUIww4PP1vGDI4tZknJEPQGf2g/4fazJIFhZjVlJA3fr+r2zeqe0OIhDJBE4JbDI/4MNCae7mlBJRdal1eW4fZdGH/dNwVnKMd0lfbUdn8H1ZYgEiB9fp3UsgoJQaft6TDVXrxubbGLY5cmhRdAorxCG2faRd1VcpuHNRulLP/L8hQBayDfxYl6EC9TO++SIS8Jk6KP1cqDff117i4ZkyIYiSWtpkr95jTNJTiZtxtwhyOpGPmg==;onInGZEVQ4G+vKlif3vmjA=="
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Simplify cloud procurement and governance with Azure Marketplace"
 excerpt: "Overview of using Azure Marketplace for cloud procurement and governance for customers"
-webUrl: https://docs.microsoft.com/learn/modules/simplify-cloud-procurement-governance-azure-marketplace/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/simplify-cloud-procurement-governance-azure-marketplace/
 type: course
 price: Free
 length: PT31M
@@ -30,6 +30,6 @@ images:
     height: 320
     isCached: true
 
-secured: "3a4RX74DaotWO/4vGInlxKLG5c9MoN4nDXCHYIvI6g2eTI5PViA0L0EgsQbWs5+cHa17kfaCySeL3Yct5Npz06Aa/W8x0JUHBl5oaqmpbj7o2BW33z2mWeaMSMnPhk0rbMcbh0nK5OvAyAEMPg2DarSRbGBnda9HYuknas1dGybeCJQt4/OUoCasrOi+jJwKJ38LTARSvDJMSOw9P0ijDLKDtsBGsJOOOS0d1gsOiMmquT03eUL/EWvv4VM+GGvVArUBAtGJZSNRn0W6JaeUAxTfxMPXlHa4KquXreTyW9vtiURrUX/ni3sOY5MOQOJI1JSbrPDYX+1GYX9klSNyRpmDOQM9Xfr0BvDpjZkDggZx7rEfM1+wl7+Q7McSahorm2DxCPwmA3HvF6mhGG2iuam5StNlkLbY+uwVkRsT4O0=;Pxg4j4X5M9kSfoIgAOZF3A=="
+secured: "I2/3dhK+SLyaUgSFqMEUaWeVoCuYwPgsG+j0YZy55PYhuBOn4+Y8/DHdCN/vPrY75HLXby7FrAU7h+fVJbJZ4zPTnlW36+KWQifrEbdQFr7JYvL7HLANzRtxu4jSMrL59lIcujo9Aid8zJVW57c8qFG0FXQbB4Qsah8VHGGeMxP9cnb0+k0qXPhlVOYqxTdRgiQ1Dy/MA2mqiMfNrhf1YmLKf7KvmzLkHi6p3dNzyaOT/s9F8Hn8+fKcAHV7yl1UcmjvYU2xgTbre/yRa/2FUMknrxDB7TQzrDNnlSeJTjqnnQJ/WuDtJ3GUiWFW0Ln3tIxfjzbex5Jy8zKasN3WOdq9BCB1kHUSzn3/55QPfn76sL+5miwtvOmxG2rG5rCZdW3VzRrw26aikfjqtonWQQ==;oc8oXZMMEvOon45fgmVWVw=="
 ---
 

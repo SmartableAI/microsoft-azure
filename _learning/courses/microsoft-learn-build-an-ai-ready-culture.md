@@ -1,14 +1,14 @@
 ---
 title: "Understand the importance of building an AI-ready culture"
 excerpt: "Understand the key elements that make a culture AI-ready and a framework to drive the change needed in your organization for a successful AI strategy."
-webUrl: https://docs.microsoft.com/learn/modules/build-an-ai-ready-culture/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/build-an-ai-ready-culture/
 type: course
 price: Free
 length: PT49M
 ratings:
   count: 965
   average: 4.7430053
-heat: 51
+heat: 79
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     height: 400
     isCached: true
 
-secured: "wKGPGk/vx/0IUwNjcuTWEm4+TJt3WZy67iFi2XHtJQVxXTq+FpDSoG3C1Uqgrc6ao9/EjEXkr8QkSmfSt/UNOITrf0fa7ae+duRUKtcQoEbK+lBL1+MjRi5voFa5i6Aze0iwTuuZ9rLFbKnuKmQGEacG/cVRwmUfVyof6K8EAP1FkFRJ6pLPFMAETHFep4n/cvzLYVf7rMeMT6x9dj0bB9JK3JZjgzdKp+EqFBXurJECfOwvihwMCh/R60mZdcsiIvwVUbyWlW44VhqvebmYb6R/zp7lSxxeiszJErp7LIwFQXpMsqDykgtin13nqiO/OM5ilxZnqPzX1rt0UUm1Xxv5DYPuzmnicgMfswMOsq4/OJ2nkGcERSt64l/sZ1LGty43Tx2ruR9vDddtQhQZtyNK8SjjHHzUWI1OLBmduPM=;sPRZom828myBrGNWDNn0Uw=="
+secured: "XoacFGsoW3JjkxYEAOxHz3FTz5ImQMsUL/6bj2sGMSsVBCp5PmXpyv5EOgkOUXWeN75muYwOPwEJLaYmCgM431+6u1adPv2DQjwrrTWQ7Qeb8bemuG22nBfFsO/htyh73uFMP2bIUbfNAtLxBPEHfEkqUWNeFTcKUNSZmns0woQ2tpMhsoGo+E0YbQlG0CEAuAk4xGk2XMzIy7aQwHS56fHILZ5E53hD2pjhGhFXTSHc2iyuYEI2HX142X8FKqBgpMfubrnIT/0JpvhmlPAGPCdjuE+gEPjfKLDNhnMJAnN9TbT9o3+sFko9m+m/Yjr+EXCbKfcJX2qgqlJq/xRxZDSSSDbGRzGJZJW0KqpmyicXGqTGcOMwdllRx7OeYkdVfbfk6EZckqFYuMtm8FqRAg==;cUQFU7jW/R7IkicHQUuAIw=="
 ---
 

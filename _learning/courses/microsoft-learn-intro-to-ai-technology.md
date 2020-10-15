@@ -1,14 +1,14 @@
 ---
 title: "Introduction to AI technology"
 excerpt: "Learn the primary concepts and technologies of AI, and how Microsoft is turning the latest AI into tools, products, and services that organizations can leverage"
-webUrl: https://docs.microsoft.com/learn/modules/introduction-to-ai-technology/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/introduction-to-ai-technology/
 type: course
 price: Free
 length: PT37M
 ratings:
   count: 1562
   average: 4.6920614
-heat: 53
+heat: 92
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     height: 400
     isCached: true
 
-secured: "vEv0H5T2ZfYYYCNzvlCPFfkn1tTs6qANPl3GoMXgeptDL70bC4nmZLpA6o83h7rwSJHGjJdoHTF0lr8fRs95eLnR+kiHbrc2ksqabAqZXQ5VIl80I7ZhgnXqy7ASKP55iZErUQd+dIrgTsPfIai0DN7VzLaXEBbY0KNXMUUpO/+4itytt+7LoRC7Q+gMTac6yQ9s/zLy50k97LdJ8QcmOKs5kejP3KM3KWgfE8/1dTW8wsQToZj8xPgL1X7X3QHN/BSwZx6kPiwFgeRieO2fIwARMXg4uUEl5jtGH5dnW/fYmq0r7AtE7C5KMBnVJnZxNNOJFS7QWTpp9C0nA5UrHGv0sDS9Ee5yqvEQ7w4CAHfu+xhgTNYcCVwvbik3LUB3hbuwocnWqo6OsgG3lYlBY4SjaGq6EUodWmO3OmjraBY=;vm35s6R+rQX5latS7YeiTA=="
+secured: "o6L9I7PfsSkUcpMXMBcu4jZkqEQr40dYykpGhWek+pZOKYoUWvCjGotj0jKWfUSrwvCUeST6FUMu6bOhCDAhTBTDK9/3heOWlx2s2SqS6SzbtO8dWIINExOozeW8Ipj8Ih0xOXuvvTJnQfpF69wIEvHI346O2a6+zk1qCuYA28GdRWcJ/h8lCDN7XQZU/tF0ThGHX8qNW42u9NBV7s4acxPnavcZyaatIa+F7E7glaKkr/bo+uC36bpOP/JLo26s0slOO4ya0wS6PyqKALzvsHqRopMh3QekfA/Wej8uUBNdEGyWeKEErAf2bS6k/l/81Oa7bSUU/aJjjsS9i7yQWnb0lijQ5wtTIEsgordcRaSz6dgPCH8fy7Tjr+QTEujxWEXQYYhvFTLr82gK5WxFgg==;6F04SQkzp5zSSS3D6OsxYQ=="
 ---
 

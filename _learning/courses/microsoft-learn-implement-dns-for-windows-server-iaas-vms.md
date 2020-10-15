@@ -1,7 +1,7 @@
 ---
 title: "Implement DNS for Windows Server IaaS VMs"
 excerpt: "Implement DNS for Windows Server IaaS VMs"
-webUrl: https://docs.microsoft.com/learn/modules/implement-dns-for-windows-server-iaas-virtual-machines/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/implement-dns-for-windows-server-iaas-virtual-machines/
 type: course
 price: Free
 length: PT50M
@@ -33,6 +33,6 @@ images:
     height: 324
     isCached: true
 
-secured: "EHom9VrMNZxVEm9VO5FtkTHNz7EwMpYPLArXm6FI9/c0mnLUGmoJHOYFwoo9SPrfjE3xdeVL0K0fC89gYvsEeuLhN9WG7UGXoEnxjSqMPxl7vVdAqysC/pXrhP7mo2WmlsnsYUm7FUFRaCxNpYVY6NXG8Y20KB0zhlMP9f292EhTgAmqfPlemkDWw3/gsF/EES/KPigmJAnEnWNJDxJrhE1LQOXerVg70pbOjG625i8Vv+RLIHeyzrUzHsBs3eXcoy53fr9KFF//imEBve2y0ZSTudxUMDNr5vZSi9d9gfW+AbifFXX1faBgEykTOyFhcP+bSySKhRq//HMKA3WezPtutamX1PpZZoMsW0SRQqW+de/lKWyrnxezBoiC8I4RhK2jbb5zbjm8DGlXYv/dExRISifIf1mrstC2xLKQMP4=;ULYqFxvlxDk+ULIj/EgY7A=="
+secured: "/K+fP3TlRx38OK700s5UsKT/qdpOLkoWottD/sOnXTn9YYbGPokVuH+YIN2Uzj2baRHIZDQeI1pEDR8AUsi2LFK6F6qPlInvwbCDgG9+KsbbRmy4ye3eMNRSzYZJz/Y44r0g2kkOuxenRUfODJsdVhiAgt1k4Bqknwf5O0m6+qvbdTN7f4X67n14jUOTvw0hKlyw5pCEQisk8LXffy4wvHxBlDIlIIXsk9zaO0tGMedansUoFVpEBMZmZ4dQQ9aHnDj6i6RLZ/B2v4WUXZGCA56ZKhijR+YCmwwjqsemFAIx9IVZkMP6VGM9jLwojVgKRzmRlg6kPPuvym274r3NBu3GHl3NUoL0sMc6vPhucGtLcoccjBAglTEvq/JbyxRaZbYOZUsZAHI/DzSshvR53Q==;esdpwfmJSqUAeQRLe49tgQ=="
 ---
 

@@ -1,14 +1,14 @@
 ---
 title: "Validate your deployments by using what-if and the ARM template test toolkit"
 excerpt: "Leverage the ARM template test toolkit and apply it on your Azure Resource Manager templates to ensure the templates follow good practices before deployment. Apply the what-if command to see the impact of a deployment before it's applied."
-webUrl: https://docs.microsoft.com/learn/modules/arm-template-test/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/arm-template-test/
 type: course
 price: Free
 length: PT37M
 ratings:
   count: 2
   average: 5
-heat: 51
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     height: 320
     isCached: true
 
-secured: "42GAg4++vKEy45JK7v3YO0LVv89fgCejoshCfmyY7HVGTu7mbcdF4YLMpgRYH3Ipp1r9hG39RX5ii/HHZNYcaQT9oD74/6637TukdOizYfjgBI4TNevfVZkmu/9fbjN9o2ByKMqRunYr1trtvTMnUe7UIfF4gA6EGjUgbH2ciGEAi7w20nXxJCiCIRcQoMz75R6TOdcZ/b5WMjv44y4t3pg3/Gdk3BJLURQOQ11g2NfUGabdEs8y9S0QfrWdpiRUo/DaG844bLt3HKcFN+ibaawcB+czWXv+9OHVrRram2B9+YrddVkIwB+dQA+sEse24Ip0TSNhSv12dB2BTHu8LQt2nRfcqjTcukoTpCtet1E/zzgDNXUqIykwkLholMwjt1VkHKJ/Of/CLwKesVhmT7kxq7K9Zag5TE5ySuUDgEs=;TzphILMAW0PSJCGdhydxAw=="
+secured: "47krg2bCJ1by6t9EAoxVTlcPJ3ZzJp2EqSzkRIj1BEzdp1wFY4TE/4fsQlbv2vP3Q2KFdOO7AKYzMLjze6OC1J1vNqbOiTpoc2sHTzOj+81BmW3ftLytU2E6nO+/skFbTcVmo/U171OWYKbb2SlQlYzCm2BhfDCYD/mFUEDWF7eldmwlFgSNl06x5nlZm9bM3ahJi44GadA2KBWO0EbnVvmvgAFkDI06m50vFH8v67nuqcs490fVAriL7RHN5hfmx7+B7fSf/V5wRunnsp6PAEfwJ6L2u9YIwhrVktVM4+DXBruZZDssaFS1mlXV8urZqL7u8d7N0K4/jyyF9Hl1DabiYbvI+hnH/JVRu6l4F70TPp3zgrkbU/OcRx9ESwWCvz1L1uJ8I23hKzxYg3XO8g==;FUrBGLpfBVMsVQvr0TVG8A=="
 ---
 

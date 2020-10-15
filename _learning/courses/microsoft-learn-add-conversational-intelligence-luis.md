@@ -1,7 +1,7 @@
 ---
 title: "Add basic conversational intelligence to your apps by using Language Understanding Intelligent Service (LUIS)"
 excerpt: "Learn to identify valuable information in conversations with LUIS for interpreting user goals (intents) and distill valuable information from sentences (entities)."
-webUrl: https://docs.microsoft.com/learn/modules/add-basic-conversational-intelligence/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/add-basic-conversational-intelligence/
 type: course
 price: Free
 length: PT27M
@@ -31,6 +31,6 @@ images:
     height: 321
     isCached: true
 
-secured: "3EqvTyk9j+aRVRSKA/gdnJ8/a05Cgrt8geFa1ExDD9OE7xpmHOSe98PiNSYRdrtmQZBAj1CZw4C28ZEQmLlOis2Emu3kBGWzmMbZO0NzYQNegG8RZzwl/yUYy0v0EWBWqqcCKAHFrp5iBchlUNE3aIsgy7JkPNyosOYK7k+O3e5eYDAt5SjqeBr/oP9bCMf5zNKCpB054Nl531MP+oqq5lg1ISbWdvN1gZ6ecMyeFO/LqtnlKq+tsJ2XWpDGdeR7/LNWX9zSs6mn+JaSFjf1Zitmial9dTSr2y9+3IESORf1+qlq+VOVB/Xhu0jJWAm+R1amfnobiWfTDxHSnExZ4qFqfn5j5ZXF6YaZKZYifjT3N/EhrHTJUTHUwYISzNRoUgMXu3quQUOTdWPY+QvFpuM+agrRjvMyMQreUPApKqQ=;iWfc8CyJuWD8Y7C/BEpcLw=="
+secured: "bXB5qfK+LQLjHNp9VIV7PoKWLoggfGTkyCSTMOB+B8IBnpr7v10mA/GAPx3eofYZAoOhvQ4gekwcWh7zGZ422lrd52HMTwdyB7XqhljySLM8PsvCAkeN2IE1+b0+pGr+yJjTRsjLkGn9+6FI0knJBaZZFrdEL/1cmWR99hbhY99PpDkBthhxjMmKmTb8cPDvOksSwmV/Uz8ytQ8Orp27rginoMlDAOFoaMdhOX6/JznA5AaBCuVUNxGSbwz7lsiufFO2qj7wwAy76lC+OcOQYC57US72VeNIgxtl63IqFTw55say3h7g+QFuY9vpB0rTbE9CoDcGVubGfJAz6kkSrzu8y7zvyBPMVt2crm4q4yZUEM7yqAo/VPieZP4eepXr0F1w6QYDrgt8em4N/pLMhg==;uO0qB7pC5cS818hItSvlCA=="
 ---
 

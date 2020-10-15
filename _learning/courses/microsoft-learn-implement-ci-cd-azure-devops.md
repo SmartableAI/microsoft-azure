@@ -1,14 +1,14 @@
 ---
 title: "Implement CI/CD with Azure DevOps"
 excerpt: "Implement CI/CD with Azure DevOps"
-webUrl: https://docs.microsoft.com/learn/modules/implement-ci-cd-azure-devops/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/implement-ci-cd-azure-devops/
 type: course
 price: Free
 length: PT28M
 ratings:
   count: 56
   average: 4.660714
-heat: 50
+heat: 52
 
 provider:
   name: Microsoft Learn
@@ -33,6 +33,6 @@ images:
     height: 320
     isCached: true
 
-secured: "3minDIzbX9k8hBkyPzixybbx32WbVxsYRA1x5F1vATQf2uIYFYpOlBuhA8Sbd6Ze35yOvQfnQdnPcKxrhbTvN80qRsDQrXZG7RAFNZw0KK0ALh7a8GH9Z8ZUy/wBA6h14kBpfGBDYmASZrQaDnn8/nJeibhnWsVzUTbsAERZKtqJTF5VhyTmx08cgMT2CCBKstd2WP1ZiizREDrUVk920s2NNHB7b95fozjQvs7WlCvOqjPrp6yaxl426rYAiVCQi9I8UvH7WP9tt9DUyaJhiObPm6USz2ZAAOlt7HbOwJie0TxbCyceH03HsNH4fS5Zk/jzboXdPZtkHmPSL6uTlFdPWP6fTJV4vjvWqYmb7YgIp34eFQi34byZ4kFnDZ764BrBGRHbzvOonEcdJVzReulQAeg/eVR1KFFWq7zQVhk=;Wt4oeIk85KBxw9R6ei04Hw=="
+secured: "ObizplbmFdzkb12UcahGvmuwZ8chY7s4cJ7di8OMWt73OTZQvYaRI4uMez+6/qZdh/KFruLKl4ebbbejTibO1Pv+7dU/Mfn0pg4Zgtv+IZ85UfrLxuSMMyyL7CergsCVs3iX1hqk1Bb0X0rTCpeOyjaou36vDgLU+MeO6l0r/arOzCx5VBJXmxFOzkna3ylpteklzt6bWL/rLu3+KtaeX8mqkC9mriqH1OoWNyhD41I+V+FkXpALkKbdSCZSGQTwoTPOwk7iRz+L9fZTsCSJ/qQm0CROFwpHiEn/lo0Lump/NIoERtqo0nWJCGKV98n/QuiemT8VrCn//4BMOPwRnxu2UMN2wWTB98/+TGqp4md2TIwZSOaKQ+KnqfsjFs9uATImqf3/zHqjuroLTeP3OQ==;433o+2CUzRQj4SHWOpAv9w=="
 ---
 

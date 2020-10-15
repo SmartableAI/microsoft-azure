@@ -1,14 +1,14 @@
 ---
 title: "Permissions and Consent Framework"
 excerpt: "Learn the basics of Microsoft identity including the different types of tokens, account types, and supported topologies."
-webUrl: https://docs.microsoft.com/learn/modules/identity-permissions-consent/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/identity-permissions-consent/
 type: course
 price: Free
 length: PT1H6M
 ratings:
   count: 86
   average: 4.7325583
-heat: 50
+heat: 53
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     height: 400
     isCached: true
 
-secured: "yImtslLHOTtE8DSrM5JZjL/BpB9/Mgb/VX4rSjtWaREGoDzMKaz4AT3K/UAVKYYgKmiKGkiEuQcvi/ElJfVewMbZrmzoYJWO9l2HMIiF0+R0OW2Srk+j17Y9+4jV8ZaVw1+6qazwoXmKfzO+9RNKCzBqBL9Vmml8BCh88XOuEcFob009Mt0XGdfyE7aJNDrnCEZg+xPKPniZg6NBfMXh4O91pwqwJAw2L27zDZglGC3tZjrVZKGMYBveeE3TR7+NNn7Jkn9jMQma7jkdFDMOm18ea3v+VLv2e7ZiIE3MJE5ZwsTJ6GtOUHgOHCSEZk1DkQ3qlLyeZcs/8hmP1jr9fmakcCVxSP/f90R+vHkZyqHlqItRhxmDMe1IADq5DYc0qDhmgGSzoGRUS9JsZBpDcFbEkKxcFueV1Tr+TmKpsCA=;iQ4zlDMLRccegrjwvlvtdw=="
+secured: "epbK0Pv7VTooW73WIo8wv99e90z4rQqRgKDQyZMzJudgbafGtCu9Jw1pfEzbGn0t5ub0beuWMjOVPA/8GC7qHvqAHJohqPBzkJVoi3gSyH3+5Hxu9+ptgtsq8AXjUHecjmALRaVjjuD5lOcqli61wqa8MykUFJMhFJiQlMySxOu0M664XIL3J+aytEipkhlT0jBzuJNK3V7bx4GdW2AA9z2bGS873HKwv4NGLqu7ojZ8tz2xQxGMG1iJrhqJPUf0Hd3vyalWlfc7fkOiA8+T5vr0v18Rp7MXdcipfmYSkVVmuPl2JocY0QP8FG3uGxgOFSIoSYEbGuP2lP53vAK56tkbdtCKfILjrQKM+jjcHvbBGSyaKRAlvFWVkUEkwmHB4Yl3s/sGhYfq8Gwtznj+eg==;RHbUWVV6p+eif5x5g1vrtw=="
 ---
 

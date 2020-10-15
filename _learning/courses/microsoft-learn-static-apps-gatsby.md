@@ -1,14 +1,14 @@
 ---
 title: "Create and publish a static web app with Gatsby and Azure Static Web Apps"
 excerpt: "Use Gatsby to develop and compile a static web app, then deploy it to the web with Azure Static Web Apps."
-webUrl: https://docs.microsoft.com/learn/modules/create-deploy-static-webapp-gatsby-app-service/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/create-deploy-static-webapp-gatsby-app-service/
 type: course
 price: Free
 length: PT41M
 ratings:
   count: 70
   average: 4.8142858
-heat: 50
+heat: 52
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     height: 320
     isCached: true
 
-secured: "J3bFzPTQAuVorb7Q6xPJWJTee5X24lUDZhBrQG4l+7JXLVjMeGV35N5JGIejqdjUiWa4IGoba7ZFd+67e1Pe3dUzY1G1a2BY4rQMwo3W3K/ZIcxbJrm+L/vkGmtcpWqYGjS6Pcbr2i4k2X3hSg3QmyONcW7xK+IAtYxfgaqYmHaVbNdFFE8TGhK6bFob89yS5jCXjzGvldS3Bq3pHsxVgo3GPhGSTcR/f2CJ7DsJjrbVnyoo4/TgBPnXJYPAMgh5ZvVW5fuz+Z0AhUtqSkj9G2vS+vec6zvdQTJonc/jECIZVLXcw4lhfXMP9LELOqY+sO5pBx6Cmu6so/B2IZ0KXyxOrOwXg3Uqbh/gM9spyzI+H3pp3fm/iLZycFAYtvaWgcSJp459YTA2mo2xeex1DXADOD8N3rrnJb08E2P/ON8=;1CMDfjboV6+vUc0GwMgTRw=="
+secured: "1vWUVcdEu0TznlvCFlaUmFoHHBdNnnmVPaDAmZemdR66MmpA+yn2n1spLPP6FsLAuY5pMvoaqMxyGfeQts9VSPjmVBPSCYdsE8cAWZR9sg4N5pejgQaQN4SHI0Y8c2TI7PKQOt0JhDjinWLE/02tQbP5hXeN2KNHJMOP7E6ZcK+pqb9VGY9TD6Nb1+sazdybOpzqMx0ObcUcpRFcf6s07XStnsaBTKJaJBtVOi+h3nRIU1O0omuOVUEG8dI76s5Xs6PUQ8frLyu3NBo1zWdPJWfwhganGhWYy9ww6tivhz2ZGYR7EzXgraOhZDuqbMuM6SjNYfNG3nVdahU2oHl7l7wvYBnPOSMzhkOU2VvcDJBNRoQT2CRw8TeuP7geHGi1Ryi+gMjbXsj4/W+HbK9qlw==;EVBO9IZBWoiwH35nud/wNA=="
 ---
 

@@ -1,14 +1,14 @@
 ---
 title: "Introduction to enterprise-scale landing zones in the Microsoft Cloud Adoption Framework for Azure"
 excerpt: "The Microsoft Cloud Adoption Framework for Azure provides many landing zone options. In this module, we'll focus on enterprise-scale landing zones."
-webUrl: https://docs.microsoft.com/learn/modules/enterprise-scale-introduction/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/enterprise-scale-introduction/
 type: course
 price: Free
 length: PT34M
 ratings:
   count: 54
   average: 4.4814816
-heat: 50
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -26,11 +26,11 @@ topics:
   - Management Tools
 
 images:
-  - url: https://docs.microsoft.com/learn/achievements/generic-badge-social.png
+  - url: https://docs.microsoft.com/learn/achievements/enterprise-scale-introduction-social.png
     width: 640
     height: 320
     isCached: true
 
-secured: "MhzEAxPrMzuDQXJJlp1pQVgkWRZNaxHSy3/KMujVJFtiPQ5YvIRKWxvlk5diRhJHPBV7V2W69f2yleDeJSsBaTyEhScqIirD7cdgXeXQbzH1taFfUdpsFH10xjcck2QGVjjP20TaKeCEKqT60msMhAJGkFqAy0GGIO1Ir1/sUAskBV6PFi2Xg+fzf5o3Rm6iiaIHCt20Jnw10f/vNKzfDGYsFhiAnsnuBJ2KEIo91JfEZNhRtyIuWfXzBbNByjvmTCXp4+chLzIBtt7NzZPI72FvZ8hjkmmINJ4GR/T1buYBvBKZF+Slyq+2knzcDvy4JERkOKAqWsCwKj9cGXA6jOk/RpMwd+NHQ+sAnHBVUHOAEjjuCZToNKVUf/kB8s+hW3XbeHIHxXfdQHdSKgX/K+r+7a1M5qp8zJwaWr5EkUc=;pU2GsK1TRERUb0Bm1b+gSQ=="
+secured: "yZ+b0/0kOhtS0ocQgmERbygIosLX5F/jc4neCuf7dEcvVmzhQuYDLSSq66b2UoQ0er4ceRtW5eroG6h1mxCo4g93tfnEcppTdSI0eA4N/OXigRGKzAnJ24L/Ncz1denN0fsvOQq6MDWn58z8Sl5MkwbH4d8zT9nDOZKYnEhiSMTOpMlIjWk899mHxQmJgxFieCP/XKA7qjAAah3HGx1a5i7HvIZen30SVXshdGX1a6V1+e00FLMxH213z5kzZAJL7wgUwD1Yblil8rYX3/z5Xr4KwwKpPL/bPKhhGvNGp/p3HTqw5Yq24RFRWyHKwn5r2LH7IzNcElbNXjxFdH2RidiHY7Bb1v/R5IYfqNFS9Awjzk22gFhLGbE5do5Id8hB8viom4SRfhda5Nt6dDNbXw==;H76YJTnQlafrXScByLiG6Q=="
 ---
 

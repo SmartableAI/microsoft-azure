@@ -1,14 +1,14 @@
 ---
 title: "Design a hybrid network architecture on Azure"
 excerpt: "You have a traditional on-premises infrastructure that you need to connect to resources in Azure. In this module, you learn how to select a connectivity method for your use cases that balances functionality, cost, and security."
-webUrl: https://docs.microsoft.com/learn/modules/design-a-hybrid-network-architecture/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/design-a-hybrid-network-architecture/
 type: course
 price: Free
 length: PT47M
 ratings:
   count: 1190
   average: 4.6361346
-heat: 50
+heat: 83
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     height: 400
     isCached: true
 
-secured: "0kWYC6YqpqJRF7kzvbow1Tp1VGJZcY7J8BrzPtDbodjf8GDf9CnGsgX0jaYkc5io5TOz2f5zp4NBx4/+e/IVVM/8lDt0V4v6PubwCRs3Ta90Za4ZMFgnshYzMBi3Hpq/KdRGRpf1fT4RvphKQt5QURwUy4qfBJPLVOZx0yTvqffgMr35L7VMidQ0yb2oyN84Q8JFp4UauphGBI2rf4AP1j3VxSshvYloKHwsHca7kCKRCED55z4xaASkz4eafSo02gM50B/AkNekMWm/fiCSxF/tYNVz62cHuDaaPsqt8KBNLgCGmNF3JdwAIu8wdxsPVvcTsxbv32MLSVEMaZ6A0dFWFdspy/4XsKZdC9MybcPVwQDVHBO1mW4+6iTQV2f23r9qtq49/tGFE8Y3UJkIMZjbxNJbMk44irb1Ox/Ps+E=;nUeNOyjWMl9HRzbgmZMwYA=="
+secured: "CmwQ43hU1iPSB6Y9ooOpRwPnqLnvJ9PvoXMfPQQ9JiSe+pXZKUVWvz/eeA3w7ZF1f5F/sE8XdzsFQhj2HlHZMHSFw6EjISoPVCAb085WKj1dIeQo/WZT8zZ5AvMV4UgPXAfPmWQJF0oJGbs4Xbw6MdPb+PZujwghCnsyWYa+FAvKILk9rWGX/wkNOQKBLVgWDyBKYuDD2RnfI2LZuBPoQPrVub+E/gk1g7jvdOeidGfdZoFlvncuP6iqjjhCeia+m0CgVF1wz+L8aQTBV/OcXhYUdhMowLpQpMTWUFYWmWI4E82rgU4W0g73h58hGgDxlwG2fRlVDpS2JIS9mnqHoWb7HF1p5T2FiVsohtZUNNoicfDDSggI3uUY4kUkzIlApQtLtxfkhPw4XLu8278aIQ==;JTgatBbsbWO7ujWR/NWJPw=="
 ---
 

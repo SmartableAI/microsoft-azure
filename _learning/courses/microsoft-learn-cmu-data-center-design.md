@@ -1,14 +1,14 @@
 ---
 title: "Datacenter components"
 excerpt: "Carnegie Mellon University's Cloud Developer course. Take a deep dive into datacenters to discover how they are laid out and how computing resources are provisioned and metered."
-webUrl: https://docs.microsoft.com/learn/modules/cmu-data-center-design/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/cmu-data-center-design/
 type: course
 price: Free
 length: PT1H58M
 ratings:
   count: 48
   average: 4.625
-heat: 50
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -30,6 +30,6 @@ images:
     height: 400
     isCached: true
 
-secured: "KFKcRdqHCJRtjAtmkRBEYx9gStZJ8hD7egSzMD4vSH6x8c3pGJlIWvJ70TxGLGFW41y78ayfeCPOVyUPCYleOPx1UJa/iBEeJ7pPapny6qd67TKQ2VXVbSuZ4f3eWFJa2U4U2q55Uh6qhiSAYK3+pyjYyHjWorLSwBq7cQsBLvOmnwgnDlg62u9w6IA5+jGFYJHjbdXeg6lxb8O9OaXV+BlziyFn0b8wMVJ2OyOifKlt5uKBTKFEVQqFxHafdYuHzGIwKkJ1BXQC0vquCfhnanv1DDFJSck8cBu7tCzjYEdkK3wFtWtGRQXgQtcS3znPpEF1ZNvif/y4I5+6hAhMAtUKSbAXpm8dzqjTdWJDJRui3y22EcKJgSkIYSi+ezt/xTbYRIbCC93SrlLExeA6eSmPscbW6MDQaCTkXROKPJw=;yVKGlpGZbOwe/0uM+j4ieQ=="
+secured: "3mU4OA7s1EihTgyKigL86yXg9wsEkh26VHZ/K8XEKLtKDUoJcCPkt6ZJFFcjxIZwhc9X0vGFXuXYeLGfx+1zthNxAdK8x64BfKyJutDopxlbybVp1T+vvCA0Q5PprBVuKIx41DMA969znINRUqP0+kvUUShoJnuLZUcczmMGWO93nlkfkv5koBvqUODT34lzMH82fNuixz0K7UII+HVtGFqCD00rIQhSyR+C55zjzRZ/WDk9BDpP3zqL2gooYdN9aPuyv6eb6I0FLeaTm563OAaPbSKTViWxhs9JwpxrWKFY1ZNRlgIx05PRwC8lSzNA1541Ub94bgLWXWK7Y8anQi3Otyci3ChnqgAUuW/nApgzTG3H8IcMoWfcRN7mugixJXNZwxAdR6zgBP+KJ9WKqA==;B7WNTXHXORxgSzu0qfFA3w=="
 ---
 

@@ -1,14 +1,14 @@
 ---
 title: "Getting Started with Microsoft Identity"
 excerpt: "Learn the basics of Microsoft identity including the different types of tokens, account types, and supported topologies."
-webUrl: https://docs.microsoft.com/learn/modules/getting-started-identity/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/getting-started-identity/
 type: course
 price: Free
 length: PT1H10M
 ratings:
   count: 212
   average: 4.6839623
-heat: 50
+heat: 57
 
 provider:
   name: Microsoft Learn
@@ -25,6 +25,6 @@ topics:
   - Azure
   - Identity
 
-secured: "iz4ITeJxA2JTVP+IfM2Js2rWpsRRGCu2n9GtRDzzNiJpmMExmIaQyL1ZIHkiYu4LbjvmMmWMG4T99rQfLPy/lTKquOrGYlU3l9MbEWN+LQFjye1NSfBYT3DVm10kTVhJCxITLqsqNJL3bOdVEc3Tu6nweX1QVSRd2a3eQnp5aiuecjtDxnHZ0cVVcMWUReDvXSyU6fTY0aM0EYGnR+IsoCd6fUCZnSQkSBc/K6HDZSgTU+gZu+H+D/UWYyNdrR5r8acPp08Sh59gED4kvXnp3LvuRrDqn/KO5oracL34kJgHzV8wlyKJph4MAS0UeI1aL+XJPC8iSy6j6S0NfysjxV7dzXG/4W+Y2b+UbaHruVezH2adq0r+9nclqfWIJwyaLrefCisGSGlMtWrBouqOLlTnYX8S1b86tXUM+8poB1k=;yqPVXmDjL0/OGOMep4LPCA=="
+secured: "FGgSfvtavxoREC05sE00o+rv4DN7z48bzCVSF5P73dSv8fiuO+ZguxCfEqq/l+aWBlrbL7rvWf2TnfWbKqmum251AGIqP1L1SY+uuocjuSR/tjbjSmnMVm6TovPdhka42WKGufB7xnDSUuDEAFVcI3bNeTEZdX+0Q7VzmMY1/j4iMgt98/JZbksjjRGBIBImHfq8Ib+Hpv8/acfnwLaQ7/tA8HRGVoeurkX9etRb+oH2vLPdAbflI+d5BkXpcTuv8/XVA5oLTYrXXI0rnAUqcuBXduYP3G8L9w6Xk9EFtYM4eDGYuWURYN28849XvqcJZhmYkioBdHECocfDoG823LA0HtZeOSDMs+AzAVU7JC/tCcoZCCBxlYIsmyvBFBUrA86lkvhQQv9M3W6+ZUxdbA==;JhwByCmfd5Z8NvmrgxQIZw=="
 ---
 

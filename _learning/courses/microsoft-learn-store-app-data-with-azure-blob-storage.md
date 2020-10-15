@@ -1,14 +1,14 @@
 ---
 title: "Store application data with Azure Blob storage"
 excerpt: "Discover how to build an app that stores user files with Azure Blob storage, use Blob storage in a web app, and use the Azure Storage SDK for .NET Core."
-webUrl: https://docs.microsoft.com/learn/modules/store-app-data-with-azure-blob-storage/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/store-app-data-with-azure-blob-storage/
 type: course
 price: Free
 length: PT50M
 ratings:
   count: 2935
   average: 4.5788755
-heat: 56
+heat: 115
 
 provider:
   name: Microsoft Learn
@@ -25,6 +25,6 @@ topics:
   - Azure
   - Storage
 
-secured: "sirpHnmwrbg9FJWCCHghQ0J8iQS17CcjJ6essXuypzVbeVrKg+jk7UXYTZEfs8niRGvMBHoWfHSp5YdZWFYRI3K1NPUukm+4LGu2bRX0hdHbmeajRO/YJPF1aCNo7xWgqsR/+serJcHn31cU6+0Pkq1jos66GvzLTroq00rfJPaiGJkCttGVtzr3nz8thwHc7WLubRT+miEADcf/8PUMNWLJNq506XZxyKlqp6EEZAeVlumza56/drxU9YWJkao79zPJGrXMMeO2z0Maa2jnwJqlOR1teIgre8ZCFwtmF+FaqHiuyIS59gYPdi/WrAibUu2lSkp7hdAEcnLzvIzHZJSuqFx+9zxgJDC2ioXg3VTZketYh7oAP9bOeVjNST7vTZZeKrIj6I/9HkwTSrJd0QNO15fQaeC46OTACEH5sW4=;EA7Docr5ppjwtX6rjNCThw=="
+secured: "H25YmUGVvL1jXcRyFdBmvtRN1FYpZjPSijyq8lK/ptcWtESUl/Mg1lMkXpl3MTgXECTpSvLWOMky4B62z4RNqDAzlquFmlqRT0F6pOdY3YIAX2K3Dlb+hLJcJa/8i/WlN3FCzUZ3WCC3UppacumnCBp0LABeH/OBYASVEuZL3EX11Kg0QB3I73yrByWx1/aNLJJsaFatY+KIwzhZRNLKkDZLrNaSARm31cx6YBoSSTwTbxPmnPeZYy6hcZ7O6znDeDQjELkJQNA3PzPQa0Fl9Q5Gcuouq8sNDxybIlgfcVqi1CkkDVKftqx4N30CXi9xXYK9H2MEgnCwGtbZ8om24CjZ83AzscNdiWAKnhoInaOOHBXAgXzdMqcE1EOzzImqp9u5nVqByQQteWtij5RcjA==;gvlJtYyiEoZ6XFDOK3+GJQ=="
 ---
 

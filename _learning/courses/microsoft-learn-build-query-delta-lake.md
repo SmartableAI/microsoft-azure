@@ -1,14 +1,14 @@
 ---
 title: "Build and query a Delta Lake"
 excerpt: "Build and query a Delta Lake"
-webUrl: https://docs.microsoft.com/learn/modules/build-query-delta-lake/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/build-query-delta-lake/
 type: course
 price: Free
 length: PT43M
 ratings:
   count: 92
   average: 4.630435
-heat: 51
+heat: 53
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     height: 320
     isCached: true
 
-secured: "KzUlHaUZpGP6oaJaPTp7AU5SX7xRCZHuCKD1Uxnfaze43I4kfGgm96FkTc5juhj/Y3lsCjd6RRtHCMi4ieD7eIS87yP9OdnTpx4Cs3AjFMlpy8bmmAlkxubCFkTNd+XILBukXVkt9UkQizrUtePexNJMG2zbku/QEpFduRKSVbPgwOyjAwBDAJF0H5Ee81zfU4gVZTG2UT+agBZ9fl6NodJ06c1MIofVHMEHXKzNZDn7ePg46T4zGO48PX3WhkbVvU1u0mlT0i56+qtxF8STTi0KFw3Y8FIYT/qvsWAfEVBgyFBCqHgAAKEI2rlRux69sIn6/v+qTmb1aaCEB8H3Rmqh25g/fkVDMcnURpTeMSG28A6UhXOgYlG1wpQ+UBAUVGf7JmNGsUVBnVTDJGzxkqgAYTtfvewHU9ps1s0PwTQ=;JL41L63/17PTdmodSDyt0Q=="
+secured: "YJ/ODbGkT7IIOUtk8wTZSh8B5j/IGN2AVNT+DYrjwCyi3zv03+kk5f7E9aQ2lU09SlfZppayGzaKPEtdJH/k4VWtq66MuNZN1bo6ekVcDy0mS2vzzlip6GFxWHS9rIwUPp0DC12UKn4rOCEFz5J3wpBMeMCA7ftO+YoW2VKqOv27uzgRksVH3xsQwo7HoNvy06fKayX3PCMS34C7OU6VQFL5/s1/VPXnHKXTeVD0V0QE+AU+aRZuPDyxGqrsT4XKjyBX4RSqk1IVKhHjfIbbxH1CQ9viQwv7HogNK6P2y7h30dNa2lBzHOlXp+hZeJc1HL9ayoyy6ZV5GWnUxKetRb0TEVqlRxMV9s2GiGy2ETXsl41/cs3r+ccdDyhrnvyBmlMy6Tc0mm0lWM/Ohvimtg==;3Reiy9m/d3s8qkzLVeUUQQ=="
 ---
 

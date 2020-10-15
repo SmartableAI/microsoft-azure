@@ -1,7 +1,7 @@
 ---
 title: "Configure and manage costs as a Microsoft partner by using Azure Cost Management"
 excerpt: "Learn how to reconcile your bill and analyze costs across your customers and resources by using Azure Cost Management as a partner."
-webUrl: https://docs.microsoft.com/learn/modules/manage-costs-partner-cost-management/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/manage-costs-partner-cost-management/
 type: course
 price: Free
 length: PT34M
@@ -31,6 +31,6 @@ images:
     height: 320
     isCached: true
 
-secured: "IKXE2Eym8172A6QUYxPq3HHzduM92e6Fs0rsFzOHMSO2HuJq4SsjwRA2Ai4hBEOWB8cKsTdB1TBMEt5mixrjSrYYpqB4YxKmIfNJZwCcuMdFXyNCjzwMGKLThBO7bXV8wiHPvmUd0cAWN3RZtDG2w6INZQ+jb/vg9cqFS/8K3eHAgntfBgO2rRcXbN3p8gM4dILbvX5NqvZ5u9HLzas2NIgU522+9HUxLTfg5WHKAi6owM9z8qGef0Hd7HKw3Wee28296+XHA1x+QKtojvYZ69XTUU+bZts0N5PH5WCBLFI3/10B/CzeMZGJtFiMLimSDQttqX/Imxa+prUAdmSMaIh3jxSpRmFzY29/p73CfLCzl5scxebV3VIn5DfCbmXEoTiPHZxxBpsvNVJdKrC1LhWeCJqzenJzrgsMEdLj3hI=;hl7MTt6vXLT3cfR0UfbRfg=="
+secured: "VBOzjFrsKO9ebjR17ulczGdwB1v1w44W/isyeFMDpjksxW0QKp6q95y018D4j+JflNwgTA0qYHkFN7smezdeLHiTfulhsZXnCcKwEy3h3dAvO80Qw7+BmAMRQyn1kqRCvEyty8V8tT8urvniaCitXTL/gFaC0tWW8LZZEPVP4694NOxz0BEo0TwWpo+S5/EivBX3AVFpDPLo2TPkplGkvYMC1H2+SMVIDz2U02p9WqgEmxUdtpbkFzZcw8rCznUM4VOvx7LOi3mAfWGB8p873omOLvoTsMN4AJ4Cwz1UUKWm7b7LczrLyt/sn3FfKRiZGkbXFJ7bB8udEUEaHP/VOrVRGEGmdIOT2BL1Tjo8NyqGv2mzkHSo5oke8ymXjgrfikisPzsdQE35V4tsCunuww==;Q9veuOT758ApF5NPk0raDg=="
 ---
 

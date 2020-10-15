@@ -1,7 +1,7 @@
 ---
 title: "Introduction to Azure hybrid cloud services"
-excerpt: "Get an introductory overview of various hybrid-cloud technologies and how you can connect an on-premises environment to Azure in a way that works best for your organization."
-webUrl: https://docs.microsoft.com/learn/modules/intro-to-azure-hybrid-services/
+excerpt: "Get an introductory overview of hybrid cloud technologies and how you can connect an on-premises environment to Azure in a way that works best for your organization."
+webUrl: https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-hybrid-services/
 type: course
 price: Free
 length: PT1H14M
@@ -30,6 +30,6 @@ images:
     height: 320
     isCached: true
 
-secured: "9emTAA7PckhfJuQGU7X6ACqjqctYabQ/CAjFLLq2ZPHshKyUeR9TOBjWaKzV5bKRn9gZ7hmScc/Co9mZEhKRGrAseDcsLihxI6j6reiwfQHRatL+of2t+483N1MnO08VHVuZxPyak458Ph/eVqCnrm6rLPrsoFBadbgcziM6jK4WdhPiF+lzSjVVeJ1LPzZUCFmED+Bnu+E+X2g0dIh45AEQszD3R6WMvP9W0Pxe6nEZhmYOPueWI2TwOw9ZJpDMnRw+Zx9KV69nwTGMItC8Rf4xsxoFK8hE/BTiwIQE1NNCup7FHE9kvKcmlDJNwsOdoemH/kudMYpO+sUsSj6/fvFQFLXvCLWKq3wstQY6DSExjmrmi7FHH6YxmDCeuNulOSGFcExHpnuZj2FtIifUSD5EDrrgdDqNW4m5Zvq/5LE=;oesKf4EhYWHb2YSBh2ZQTw=="
+secured: "ezOc4SF1J4f1X1PNCFq8NIhwPa0E3ULlD4X6Xvt3IZrZosb/YFFCSzcAWprONTT8fO+2ik8mc07m7EbY57YLOsvedW0oro8tGNXXtyLFxtVtFpidHZHKAph29JqJLTMnQ7e0Mo7CpL+6ZDrV65DGuTqmANL+SLiFfxlaGHIhaBhDhbcL1fCbWzU63H8H1T5zx/UnYdqAJA7Wzg5tSGAbuJ+bn5hSTdkSjshVxtDlU3Qs0oTdwnOn1MnlnV1ZKa8EoB/1EdXJtAKNb7lgrwGaCmcU3aMlG5Hvs7heidK5Seg2MVpGR0FtWjKG4BausQn8iSyrvep0rvYFH4vFj7l0vGrcqmuk63XfMfctoib1pltH9nTlvrhL1nVgF4LBYEXTj0Sp/AUNjoFfKOrv/8cvAA==;5CIT9D/EmPX73vt4eeBcdQ=="
 ---
 

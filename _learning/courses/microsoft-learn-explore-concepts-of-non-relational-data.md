@@ -1,14 +1,14 @@
 ---
 title: "Explore concepts of non-relational data"
 excerpt: "Explore concepts of non-relational data"
-webUrl: https://docs.microsoft.com/learn/modules/explore-concepts-of-non-relational-data/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/explore-concepts-of-non-relational-data/
 type: course
 price: Free
 length: PT26M
 ratings:
   count: 544
   average: 4.8235292
-heat: 55
+heat: 68
 
 provider:
   name: Microsoft Learn
@@ -30,6 +30,6 @@ images:
     height: 320
     isCached: true
 
-secured: "io0E8UNlaYd7lzvdEcossbtsEI3iLfiA+bsQlydqXCmw3cKr5AYsvShcYHnuu1xHiiZICqDNxjd3qZJ4Udz7dgBu40nitLpJCEk/kH8tSeN7JDxH22jz70Ry8HZLG0+BKXhtUHsWBkC3TEqUReUGDczSaTIaQuceHZmgCS/LwN+/921HXAubjO1nd4V2Yjr+TfNw6BJ5rA4xbU683eMJp1m+IFs0uD7Bs+75SAzs0Y19LuO9NqlVOrFVcaZnB7uzw4F+P0KSCwmftDCsEWgYzPoqvR3bkokp1sgZqyHFYYx/sIM2ni4p2XhXysveuFjeYVoCdehF7z+CKhRpG2Fk1nV33mYEFWO4xzmzJefkqk/VOIrwYStSsWstEQwTt9+lZAkwxFTtPzXlRi9Ws05XQZxdn7li69LzYv715OrAwIs=;5eS9PEGL48zRZs673GyD/g=="
+secured: "l3SKORY91QGOZVyPMY6JU6JcdntM0UEj+pCGevb9rha2BMgHrwoqJvCsMccK80YZNbJIO4gf8s8zgwJ32o6L64A2/XSDh6vzCx9tvK2UKcC70yM8plNeb98NmA6j3vzJFDEy+T4DXy1i8mzUdxlhzT+HqhtgEg6d6Cfe4gKRjOOptb5UDtcOqS7oiHdhOEKVuyCSvluwJMiaNMaf1t5TlOoTrab0hlSKnmV8WsORl5fb4BlmGGjnmPFA1lR+e/89tttjvnBihEh/ohCc1Tk6WYbWKMkZl1jS6rFmXlQ2fUPGkoJ4wuwg/bsAZd3tuBKg3FvrdKgMNZsd+I1e4Gryothq/SoCjkBE2U1+P1Gz2emMpat4FM5fSG4UDZ4mW/LVmOnVgbxRephFUWG+BItulw==;5zWSygKABrCYjA1ny6LWCA=="
 ---
 

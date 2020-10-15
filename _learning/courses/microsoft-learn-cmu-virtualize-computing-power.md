@@ -1,14 +1,14 @@
 ---
 title: "Virtualize computing power"
 excerpt: "Carnegie Mellon University's Cloud Developer course. Learn about how computing power is virtualized using virtual CPUs. Covers different types of CPU virtualization."
-webUrl: https://docs.microsoft.com/learn/modules/cmu-virtualize-computing-power/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/cmu-virtualize-computing-power/
 type: course
 price: Free
 length: PT33M
 ratings:
   count: 45
   average: 4.4666667
-heat: 50
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -30,6 +30,6 @@ images:
     height: 500
     isCached: true
 
-secured: "lTf37lXodlLdkcQIJTB2H3WFkU7IDsPrLQVuDSR7jT9gshCuoSCnLHKy05iogVee0/ARHpT+6NyzALgzS2oFrZFuVzWhElhS3wTHu9CoaT2i+0sVFa4N4hyD/cF2M9EaMstNp7IlbiIBJ2uI1rVlh+LVAqkuV3Bt01OzCUlp0OnQtdomCpsUkOdhd0IcxgPFzf4kZZJFZJlTRgl9c5DqaFQ/S+sgKFlB6ee0ruElEJhiSDqOuBxuBytlkheNiYkut8hhL/qvL880DPFvgCEU8M53dxceNiQ+QoMWV+QJYqWAGhqLGpeTxJ0YAcCMtAYjYNqtZiL6eLEwQdNSgpJh8IUxIf0II93dFyW9QJWoW4km/GgtCNzzE4fOS9TV5x5miQPbrkdHS8Alxsq50mvlCWvhGEw8nf0EHY0RufaU598=;hAMVDtbZO4oSRek8ILqZ/w=="
+secured: "vk99SOrNn+N/d9b5lYQ/QH8kkAWmpA0dWDhLX/M2yeLAMUwi2pZQxR3QmDGybMki7WwtEX9/LTu34GIP3k2CJJK8kNBAkQdeghv2IzrppKJNpBAT1NXM1Qtlw7sJouA0dH7JJKnWZDzgT7auBwh89ZRklmhDsBVUjZIIBqoEbu9Dkg9OOpBVcHAxWoyMMylwVHQB6rkQ8oe8CDKr+eMIN28Yw4kiJGH7R6daJFqA5204zIEGUX9MBSwVl2yDGlDq06h6OnkChkkxdot0nLHqr5x3KXRUNODMvKmc/4aitYs8gJAd9rCHyD+4EIlYkSZw1Ypbb4WyxA8VSNIjgVEaSCvsZ+p4qBW6l19TqU4nsmg6nb+hfvdb7WHP628LseTlNVTYE9KqPTtn6gnxcmu/sA==;MX3MVufRsOuRaWxrQEwaIw=="
 ---
 

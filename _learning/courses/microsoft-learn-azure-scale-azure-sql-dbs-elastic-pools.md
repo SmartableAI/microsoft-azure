@@ -1,14 +1,14 @@
 ---
 title: "Scale multiple Azure SQL Databases with SQL elastic pools"
 excerpt: "Learn how to create SQL elastic pools and how to use them to manage performance and cost for a collection of SQL databases."
-webUrl: https://docs.microsoft.com/learn/modules/scale-sql-databases-elastic-pools/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/scale-sql-databases-elastic-pools/
 type: course
 price: Free
 length: PT39M
 ratings:
   count: 3457
   average: 4.5779576
-heat: 54
+heat: 122
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     height: 400
     isCached: true
 
-secured: "bc+8/36tPxctpxBrDj3R2DMJCNJOP5Moo5vWJPLuhnBidVVXvUqQ0dl1yWR11LjMQS4mY/DkCIW0ZIX9v2eb7J/YEdtDL9aJfvaDaFxczAVDZanIaNwnbqdp0mgjKKA6wEU8tALR01nQP67ooe6eGRLggMJgQcJBdhY2qmFvxcWT4SPa/v2gZgBFMIKIpM+gzHZlek4Ou/3FLNEwiswQtpzsJ/az00TX35eHaxYsV2VKFyVr5uf36/O3hHY+y2fQeGqHwJgHwtYaUVLJ39SXiYehxiIu4OY/lP5gsn9HKram3S913PXfg8dJo471o+HQd9pSm+E17MGm7Jj1Vxpf+MlQqg8JEpX7RReKwo2eaaQ5ikP/mhb16jhJxJ7naLIBDHd0oc1g8baHKRFSDpRjiFXmViK9b/IMUsNU+PzZS0o=;HkzVHt779O07BjN2sGO72g=="
+secured: "ZrtXFRAHjBfsWD479YjZIY9TISqfGl/7lmdr/XDX1FCs95svtQbFQvISuiGIyhyihYbK8MLF+U1yE0ywu3L/2osmFZ49BWHE7FAcAfPpFuuN3Nzq04/kzZbNLZu69SNzjaoUFNnhbBUjDY5AekE4k6rtWq5B2DjIYLIaBp61PZ3z/3DzY4pHSc8rAGSzIiACvvcJQe3FNldLJYZQRwuxwB1M7ZCR05+iK/TI93CFCDu7x2fthbp/VPMIJ6AU4chVRp/6QO5cjVXPYcb1VkTD1HMJSHUYb45Z73VWvNXHyNkZ5AWTJKCYJeBnsnV1ujUkqPkMMLYNuahcJmAfeJ7uSblc1ZJ45M4ik3qBjGJ6XY7+fwLc5uocGER/rizmfUOO4gXyQPuSFwGoH9MB6r31lQ==;OR2kTXaZAa74UFD1ftqGug=="
 ---
 

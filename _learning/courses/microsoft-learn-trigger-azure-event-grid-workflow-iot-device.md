@@ -1,7 +1,7 @@
 ---
 title: "Trigger an Azure Event Grid workflow from an IoT device"
 excerpt: "Trigger an Azure Event Grid workflow from an IoT device"
-webUrl: https://docs.microsoft.com/learn/modules/trigger-azure-event-grid-workflow-iot-device/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/trigger-azure-event-grid-workflow-iot-device/
 type: course
 price: Free
 length: PT42M
@@ -33,6 +33,6 @@ images:
     height: 400
     isCached: true
 
-secured: "19SuWZqkLIBmfPSz+tTTjTFJZwb2a5uwJl6NoazppN4iNu0dH15MZno2NGj5HnG0sy6Pd2FYrJ/agBHZ7qx81B46fFHj73dLGJns8x7FWo9vrxOtU2NV0GEXHag/mv6I8lLlJ4HtrPiujnQqSptu9yVeMD1tunjhuEIYhuhrqO3iiQbr3jdh0B4p50LhoYkGqRLtOLqGC2Jwb0PZ8d6V0PMzZVF5S1vueTv7foeViQ/CwJudTL3PNhjUYakTjwxFS7aacaAWfNNmPxqGT60vUiw6EbzgkfJDi3zLJKCerIrJR+wanaWoZwHMeRlWHDX/7Emgp/Qfeet1kp2jSlPmZ43D76RaGBMNXQlXjwDwQStVMHFSz8QjAkyGrN4RSP8X0bG8tNAknc2PL4dTJafq4OFgGuieg2e5RwN70lC3Qe8=;BP2FVQueo9J2mF9Ed75ulg=="
+secured: "44vbBGUUW/xUqY90ZcE11io7uSMf8LqznTHWr/Mqb0jwaU4YJFSevJys0rwSXz6+ogLQP3EYzYwMoTFXGW3MEK0pq4M1t7yVhaTore8axIM7Wmne0XmAAqQlydI8bkIMilnABySGtDv/1+iDIKeKcN1LruQXPfTKhTEHgnJtWUOOALf6ZpUeuwxeZrBKOohO7R5xsqxbouD4j/iqEZzk2+PJ7ZOFDPzNq8d0cCTLw1uQQM74O24otpUh7kRLcC6kp8Nf/XcZivPtCAXwLA8VxfrLmv4Ts1eaR2IzfhIUZA/TDk2E2EO4pLmWzmL15nZEbScILianAYdHaGZgs8R9Z+xylNuBJDGscw2/0f59LP64A/f4WGKq173VjiwiY3eMObI/8mUJygqUV+LaqGLolA==;ChYAMO5PAJQQNS091UqFIw=="
 ---
 

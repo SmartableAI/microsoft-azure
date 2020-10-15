@@ -1,7 +1,7 @@
 ---
 title: "Publish a web app to Azure by using Azure Toolkit for Eclipse"
 excerpt: "Create a web app in Eclipse and deploy the app to Azure by using Azure Toolkit for Eclipse."
-webUrl: https://docs.microsoft.com/learn/modules/publish-azure-web-app-with-azure-toolkit-eclipse/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/publish-azure-web-app-with-azure-toolkit-eclipse/
 type: course
 price: Free
 length: PT49M
@@ -31,6 +31,6 @@ images:
     height: 400
     isCached: true
 
-secured: "UIxSPxfWXbaIP32awaM8fcaycTI7Abbrb7ZWAlmG/wo0omhGSY81/kb2OB2/fFHGfcit+Vm8XpS/Rb6dJ2AgLoEAQnpc+uXd+rOFjLMbgMGWy/IE22NPNDd2FDXyr4oY4l/9s3gOzW3hBrb41NhOl5Im3u48789xPKGVllDzP0/e50dvMf4LA4k2PHzFdw2YpHfsz97hd/rovUZNGPv04h4wz0w7gL8dd/bDthscSl3g9TmywY7D5M6dBxoaQQWbkyM+y66plzSBhMiiYLDKc6YRS2r80axJy7R1JMQ2Ii2HtIE39ghlukzXNqsOR/aL3uW4NhrfQvPbeq+hPntGpsJMUCynPZQmpr6od2r1UFbkJMDJyZEFngyZoyUtOsYuucRYoeNCCn317Cza64cJBpdml1tprtpDa3/Q96cZ6cU=;rbeYdXFmqOHESMISq/8ADg=="
+secured: "kjgGAucnMRmJHFI0AgM2nXr7RUUyv3EVoUMBatPT8YqTtOtTkBQkUPPY3EelQRz9erux3CWhweZhemUuhkhG6xl23xqc4SfrGJSBqOlQOtjTqtCVxpYrvif4QUCA/BraeOOk9xlqwGRV4RdF/+BCKfb2VGDMKvIhdpkYkPazA/wRGdwYY5EpVq16YYtXAvg47wmRHVwcKqUDfqO0l3yn6+J4HJGO76vwixTPxHgxIlSC/NsO6KOIkH52WuO1xXryOWC4deuj8G3E/TSi0L/R0t7CQmjBu5zErYHwVjW+wpL0WzrONg4TLuVdF03zBzgMKcrOa+zC1zvu2E5GUfFexatvOnLHPMNBYzRMnnGkzFLzl0L8gdKqU3lQZ2VZiC0wAl3xqsyPryWf3y4AhwZLZQ==;KKXYIFFdlr4NpAEXw5ke/Q=="
 ---
 

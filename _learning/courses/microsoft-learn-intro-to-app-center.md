@@ -1,14 +1,14 @@
 ---
 title: "Introduction to App Center"
 excerpt: "Explore Azure App services to find ways to simplify creation and integration as you build, distribute, test, and analyze usage of yours apps."
-webUrl: https://docs.microsoft.com/learn/modules/intro-to-app-center/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/intro-to-app-center/
 type: course
 price: Free
 length: PT49M
 ratings:
   count: 319
   average: 4.551724
-heat: 52
+heat: 60
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     height: 400
     isCached: true
 
-secured: "gYmebwmVWNA+zr/MfBv2+VCzhF44/DqijnxRRlu2eyhW225a1vx6xTiCRE0qg30+CVJzrUJ5YwFcZSsoCH7ZZnfC48rNoV+oHogb81xdVd0O2/W3HdlN+kPv+ddXMADFULz6cC7Xi23cPhcW0AFVKzNnMQ+KCeHaxYYAGMWKQJKGlCOcdKqSwyIRHLAFpmL4JJYNo9P2Tonxqpu53UVrTkCrOkzJmnaUN/lxOMxXPrQGnP03L+IEYQU/A+uQorfrwEGfjZaE3FwFtcb97OvEUihoHNs4W3N6CSyhiRjyhS5hN1cMUKgaBK2UUCBkdQA5TFISNgnrtIr00H8B4em2I/YItfmcnMF3jgICTUan2vbM2mV3TPt5Ahn2BBBQfRW7wnBQZSY2sjWMFu9Jenk7j9ToKQ2rwF95XzGBZ43Z/Yg=;Jd/btBU5GFJehDKXZ1YyKQ=="
+secured: "1+aF3m3V5k0crpsdwRMT5Vj7YMDeB385/kD9MA93zeZxhZzInd+ivO9GbSjdzPzaKiVCJTxYr958mFKm0JJ1xM3ZOCKoj0n39ONexnHsl9opudqiPp8vhoPQelmiPo3+NXLBkopJO5MCj8+L0+peVE6IIx1ItjrbzcETorq3MkmQKDzoyxxAbR7HqmLTraH9554ARU7hI6JXYpZKPr8BzMXulKg2yArjXtRZtozjBe2KuYJu+AaRUEuYosh8USNF1Vh/0JsNZVj1/zclmExMsAI6cxUhi/ZD8/EpC3WEsebLL6Wz/MZa+60MijX8lqqnvDnjYoP+nIePbrISGwWlge0i8uQyNHW5Bxwhh42qXE/dtPkRxSuzIh02evT756SOlhGZPXllFHY+29RkZ61V5w==;i76F6dkoR6+DXoV6gsPZVQ=="
 ---
 

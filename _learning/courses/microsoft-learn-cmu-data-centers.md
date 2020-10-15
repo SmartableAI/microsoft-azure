@@ -1,14 +1,14 @@
 ---
 title: "Datacenter trends in cloud computing"
 excerpt: "Carnegie Mellon University's Cloud Developer course. Datacenters are what power the cloud. Learn what they are, how they work, and challenges in managing them."
-webUrl: https://docs.microsoft.com/learn/modules/cmu-data-centers/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/cmu-data-centers/
 type: course
 price: Free
 length: PT40M
 ratings:
   count: 56
   average: 4.553571
-heat: 50
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -30,6 +30,6 @@ images:
     height: 400
     isCached: true
 
-secured: "K/M8WET+Uu4QeIXH/N2e/HPSPLyJ8NQwYQQq7ntd8oIrCojf6Q/UdaMZ6PSezjswLrSzR29wjYOvH9LlrpFw6Q5Eoz+VTn1nZ9RaNIxrFYu+YDx1iZ+0gcLUwpdN1rESSEMPZfdD78nAhr06f4Be3wjhyzMJTZ7iWrHpknV2uYikei3hGCs2sLbxCW3gdlGBcdSRoRjAEkrcK9c8UDt4akf5eVnoY/C8e4ak+rKaCkU1HkDbyFlMBZiT8liNZ8ugyPrRSHOLgMfdIsI9N5ocWUteJpZlYgJYCmBYE2GBfeMmIpZUrM69AsfYXAxtdFhkWZudh+Ux9RBtNObe1c31HRuEBN7TDvsI59gvL304zBEfL5F1e2GDtmfTrSopzmLzdfaQHGiyOFQNbvz3MCxx9lXrGMWZagafhSRRLGtO4u4=;QnMKBeB3aO2DD84rBfWS8w=="
+secured: "b6te3/spXZJM6+WB0FbFwfrobZbZkPY8KFZ/B7izVeZ7kHQStQzNeA1Tb8MyHcJKPrDIrXDHH18N7ogYV19mzZCgl40YG752c7go2+awM440jmpCe+ke+IwIBP0CYxgr85OfXGauYajDShqn/52wOaI+HLRUSCFXcjlSsDEzY/j3hffg5dPLYj+IwHpiMMRLSjpPT1xdo3JK+u5lW8+0oomU8jJi4aMcXm7SgAL3TB1spgVa9OgeCOXcWyyI1Igwu8NazDSlZuRDqDksKe+u+/J+BGPkK3rrfx4luxy7Mv7T1/sGbG9D4+3iTiAI8osm9E6f4UGeO27D6h51Z5MEJsIZhucVu7f6I4QBCPqyu39t/Od5rlg1FKElJxGl1iy+pHvkrJzOzL3LvcuSDOn89w==;kK5rpRxZAIfkqFc+JLyuKg=="
 ---
 

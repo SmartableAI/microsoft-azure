@@ -1,14 +1,14 @@
 ---
 title: "Dynamically meet changing web app performance requirements with autoscale rules"
 excerpt: "Respond to periods of high activity by incrementally adding resources, and then removing these resources when activity drops, to reduce costs."
-webUrl: https://docs.microsoft.com/learn/modules/app-service-autoscale-rules/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/app-service-autoscale-rules/
 type: course
 price: Free
 length: PT47M
 ratings:
   count: 612
   average: 4.596405
-heat: 51
+heat: 69
 
 provider:
   name: Microsoft Learn
@@ -30,6 +30,6 @@ images:
     height: 400
     isCached: true
 
-secured: "S++aHss1IkVOjhTZ7VHrPf8yJi2w3YsWmPizx8EyTnlgCHpIdpo8kMW7A/fJEa5EpuyfKikd2PTq4wXe0kcigM8eMNnZv4/7FPP6KIK7T5O+Zj82lnjhJW8LDifLW5Hzs8fgr/YT3/xJ0RcAaO5HHi9uSiE3Rfx9epQ7+p3DNqP5cW4GRQHSo4/N5TFJiveNwPVnWoAmYBh+fkJmUYCLhzib4TS87/FGvaV2b2n0WUKGSWsBbjxcl80vihzflf6+NZNFUx6FFeuo1faD2UX4CQ6dJw2GchqMMQxC1btjo5aHhxEGOwUoMwxre1Ol/1e3G3aWJSnC/cKi/q7w8cVjMr/7BhKakK3ZVxi2SS58dh4ZGndGdsqDGYja/04LWcK3NNDiLJLcIdxhptvuft1IkOwYhifg3G35G3/R8nRffPU=;TK7iAtCKpCeYsS/aYbsETg=="
+secured: "Ay7mVhXe01QR/W34yt06i8lxJSdldVdRVoOy6kbxoqJLa9xx/mRcuoBC5vD4n+EbAel4/fQZZidJy8ki7Pq0apiwDY+5rBVb2Zm1EKWsQMr4Now/G3+d3W0iTqULq9YafmoemkS7Uf3qUhpClc/IH0s/5cJsXoZJAWtrS0BaatYFD+ZjvD6aja5jjrx+WGYqkutyxUBqWY8/Qf9NTvfciInUG4BHFqg7KoEFWCUYB8M8E4eZtdEwXrmdoo0eSA4nAKcQvGNQZHm/hVU1HXQgNnCbPy+FvoEofioQTfYusgvmS45bCxukkD+f1bdMW0bWEvDWcyCt7xsIc7loO18AI0oKA486LsbkXdwrvY3xexYVIIPgnhf6iZl8aD8JhfK5SrOI+ArdrXsDNscwAqavjA==;XZTjUQr+d+dy/w7UYNPKSg=="
 ---
 

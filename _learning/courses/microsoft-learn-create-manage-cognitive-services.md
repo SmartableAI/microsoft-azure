@@ -1,7 +1,7 @@
 ---
 title: "Create and manage Cognitive Services"
 excerpt: "Azure Cognitive Services enable developers to easily add cognitive features into their applications. Learn how to configure and manage these services for your AI application needs."
-webUrl: https://docs.microsoft.com/learn/modules/create-manage-cognitive-services/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/create-manage-cognitive-services/
 type: course
 price: Free
 length: PT44M
@@ -27,11 +27,11 @@ topics:
   - Containers
 
 images:
-  - url: https://docs.microsoft.com/learn/achievements/generic-badge-social.png
+  - url: https://docs.microsoft.com/learn/achievements/create-and-manage-cognitive-services-social.png
     width: 640
     height: 320
     isCached: true
 
-secured: "4omX3V3HNhf6Tt1Qw7GU4vXBB+1ZdpnofKkJ1p4iTGCYD1Wc4X/O5gwcJpy3sDjTxsbSV/7WId8RDyqCi2hfYFTl0XFvTNa9GSxJxof0k2LMYTWKZfxaPt+ZXikmpHxrGbLun/iwZkxHQrUzl6zcU47nqbpUCYFSMYzt92RQTy57rh4X+TmXo5kGLCZd1MmqDBykr9GVP77h84/xCYz8r1pZUia5omZ+aE+UQLtjO4EwLzX7zEK4S9zLuy3WGxZimdh33/HGXzIyUqAUrJZWvtJGS6vwzjDFG0x7P0eBErswOs+nK3w6WRVuFlCljfsIDbOFiRi4az+d3kFtfgu+9Co+XtOb/Vz9P2JeUtaqUOf69BYL94HtJ2y+zNue+sopWUG2d1hKDJJ89mjwo4DEuYhDupKMJ5/eP8AhIUPYSPI=;uPvBKOVYaJGD8BbzelmjRQ=="
+secured: "Mtjd5yruW4zqi60PUrs3nKOGuSJW5S4lDFZ3PovnLrFSSwlQW/0j3SqH/UX5Q8JX4QMouGvYmoEldyCYdtus+5f3MgjBuJVob4uQPJSNhTynIymjajxCUdjlekL7czm5ZFsyP4jWjhPS00Lc8ooSghOH2bCFc1u1Uk+6b9AcwpREUHwXHlCKTYJXqUUvRXSnoUyyKJkbkMKhDz2Cyfs1esmLEs+O7Ty234mnjTSolODmZK2HmcEIFp4RvcPXm4KcM3emZTVoGSm3lHFk8AroRjDoMbOeYaaxRirT9slPp2ceWFclkb0AXdZZrTIffU/zy4S8orGEGjgSjJ6X1ugc8IVFyE7PmmwUeYXC9+Zr6tcjSC6RbmqVwko+JIR6oSbwgjfjiti/5xIAPqnXaDUGmg==;nZHdefRqF3pt4sVqhF8Kfw=="
 ---
 

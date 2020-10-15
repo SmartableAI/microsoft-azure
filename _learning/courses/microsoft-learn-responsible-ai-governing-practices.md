@@ -1,14 +1,14 @@
 ---
 title: "Identify governing practices for responsible AI"
 excerpt: "Learn guiding principles for organizations, and how to choose and operationalize a governance system to responsibly and successfully use AI in the enterprise."
-webUrl: https://docs.microsoft.com/learn/modules/responsible-ai-governing-practices/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/responsible-ai-governing-practices/
 type: course
 price: Free
 length: PT35M
 ratings:
   count: 372
   average: 4.782258
-heat: 50
+heat: 62
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     height: 400
     isCached: true
 
-secured: "FL3gqHNsrLNFzxF1hDB4l5qydnMCoIsn5KPAt4V8syey8i2HTf7G4628FZ1atGD8br/FxJD2GEf1IOwdxH+lmbOmBDw+usVL/wCmAk4IZkIyaawuNduw2/CvTZj2P+OFJCtCfpNQ/whopjUNDlzMMBqbHj4XRSjr5pmxYRn0bxlMyYDyJLF9UONtRa5g08EITT7oXuBsQ7Wj2Q3RfsKkFj046+myrFvrZsl/mRNyFxYhK6th22SK6TWLbNcf+OD4ZymFkFSzXlZaBcAQdNvRBcjNgSO5MiSi2aEqhiqOwZDpATnhO9kf3IaLDwnSafuX/1GkVHAIYPvL5y6gdyckIsu/BUt4dIE1/XDFVEMwE2jIPsQxlC4Cu98wByN7VsZieuguImrfhACwnQ/VG9SvVpEw0NJnfHMDTnGaoaaXa1s=;NjXW0bjtcxcF/INx7PaTyA=="
+secured: "R8OcYHdms6zCg3W0ZeajlAN5VBmN+s5LbNocsjRvqAZtl/UAaw+MYssNXzwWaqLxYEj+2sOkV1AfgfYxZOArtuqgIf7oHZCO0xNmm2KqM0/MYwI4GIJYsvtgl5TFmxfnvsS3qKePxGnuxG9WZB66xotZwdFWkxRJFvB+XxHWsbHk5rvmYAgDJaRuCFCgESZ20wEUkUDLBGdXUOMgKRtgg6u9RTpSZKYBPqVWaDELweKOuvDfB4FVX+9g4ysLtnxjUVa6loIRumBSWtAo0CuPToQAGugiFbwMPn/imhHQppwbLAXxyr1gagbUTPWyduEyCEcZPXj2urCUC0JTwSUjac4mTyr/vBYWjuPyJmigpQnxumR4sUATVCTHBliwqtpjpxImo7amkwAYKXzbSilK+A==;iJ8C7eSrETr1C6PZOOT4og=="
 ---
 

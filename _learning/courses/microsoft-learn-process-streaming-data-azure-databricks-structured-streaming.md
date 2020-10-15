@@ -1,14 +1,14 @@
 ---
 title: "Process streaming data with Azure Databricks structured streaming"
 excerpt: "Process streaming data with Azure Databricks structured streaming"
-webUrl: https://docs.microsoft.com/learn/modules/process-streaming-data-azure-databricks-structured-streaming/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/process-streaming-data-azure-databricks-structured-streaming/
 type: course
 price: Free
 length: PT46M
 ratings:
   count: 48
   average: 4.4791665
-heat: 50
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     height: 320
     isCached: true
 
-secured: "19oqH4vYrvgWT4TcsYnDY7N6o6wUJEPcnXCbzQWb5yfrjaI/XTcOK8v514Bm7Ft0zobmVhCR+zF6bSQx/0HE63XVFkrF4+R+dnGuL2TOTK00FxLxZiBnF/sNc/Z97+xx0YV25WfAu19NaVpleeXD80BqEcL7Z4KxJRzQL+SBgnQTDSb60HLmwjmelHY6gIuh8SmaACfm0Bap9Ir5LWqL+Ku44suPQokwyU/sRvxOFJMbW8//bWPV4GqID61hgCGc8/ex67Zvntqh9cSVcZ7kv6lKP689sjpVoVLtCu6BI3nSgqDMGIxCV/6eDQhA7lK6JYWa71u3aj3cs54FwPrheXUQIpHgY+4IFVr+K/vFDEDQMwkOoRLMi0jksZqfcxpsP6yYOER9JkEp/avJZxHnZTTeqU1Tliw1vcajGnc3vO4=;WFYXXLZkBsXKuhwgkD6tig=="
+secured: "WSIwQjAys1T3YqlqPCjNEJJWAl9A9Oc4KxePMsIE2u63k/Y15KpwUGfd1+x/TQYec3JLVA4YabprjIJsT8tB2a5PwlHjj94tqAOTxfcb59ZmeA5F2MGe0TmdYvUsSUviIUhfarBeFm13RMxXYNSF8zGtUgEXkLZd1U9+R/fCUUi9tXN8qnjnSITa5IcRcLN5tM4115aVCRhd7rr0DaICy6//LWMN1ZHnTGRBwhCA7ghFVhOgOSoDAA+SG8IqzgowcO454KE5zgiXDATgvjNn4ILccXDDzOAqp2eYVDuGIlTdiH7PklZRaYWm4GMVLQbMIo8541+C//QuwoPUUS9/GntE3G6PtTMEgWA7Hzb0DDVH5rTCXDC1/11h8QQI5BCBJpbSKBbDPeXgCFWzAUCqtw==;T4rjwDBRO8LgTIiMVDrqIQ=="
 ---
 

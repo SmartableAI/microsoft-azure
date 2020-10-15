@@ -1,14 +1,14 @@
 ---
 title: "Evaluate performance improvements"
 excerpt: "Evaluate possible changes to indexes. Determine the impact of changes to queries and indexes. Explore relevant Dynamic Management Objects."
-webUrl: https://docs.microsoft.com/learn/modules/evaluate-performance-improvements/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/evaluate-performance-improvements/
 type: course
 price: Free
 length: PT30M
 ratings:
   count: 476
   average: 4.827731
-heat: 50
+heat: 66
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     height: 321
     isCached: true
 
-secured: "qKwQ2qafx2R5MEBSZ3T/hRKJ9o/psld5tySCDNqgV6v7zYhluR1yKm6dDuj3ZejwnwSAp2VHLqQWMBEie9x4JWlYJLskg+iYJK6dWdd/awwMAqArc3e45sWerB7UcyEAXqxDbo1rq9OwzQGWp8Zfqp1o/NMEchyLL6nj+ObWmfFlbFwnmcdT4UzNH973lvtu7QiXHaujsbGtlNLw98DWu+laCSQ151y7ElP/byuo/20pFSe6PNj7jQ4AW6vO9kv++hxyLtYcXX0hMjuEYwCGP5hwK8rttNW7re8Wyfjqlw05lFo6cOYqw1vNkGiasu/afYTHTn7IJQpvGHYBiLsZlCNcCfWAOXwr0uEyMi0lZrwhsrGb47uyW5P5u5QDK7aywfXGLS32TR+Vkq39niS3WOAyP1DdYRegHkB5KmEBTUw=;qbGtK9rLUR1w4uT3ug2YhA=="
+secured: "PMCyeZmXA/0mhdC1lU/FqW7wa7ibd99Sp41nsaMUrboqfHAEdvIX2g+GgnIcoqDKIgQ8seDeK7Mi00H5OprK17VduSUVcUoBEyD5Q7HAw0FjCUpGOao/J/OfI5L5aBi4Xrf1PDwr5TsGe/DqmCtg7OsUMSeUIK2NZkMoyZ4/i0q+G8QMr56eqch+E6Me0oGNGbb8Ey9F88ccA1b3ZeAKX5/U4Uz/JrKGHhsUjYH2za7LFJ0ddk99B9tHrrXsR6zNDudLhYps7IKDtAKuW3ElsXnTxosP6ogE/DF8XyHWynlevhUF4SRCuHM7wCZCq5/C7I5gSAIFekEHs+CICYSr41ZIsi23FQPvFjAZj0pxdM+jth37ZfU7QYB23QPYjwp9GI/Zq5iBSultOq7MyLGCfw==;ndr3lNvGJqSdHsuk+xs2Yg=="
 ---
 

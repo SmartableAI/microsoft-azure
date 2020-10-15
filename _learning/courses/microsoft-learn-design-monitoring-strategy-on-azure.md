@@ -1,14 +1,14 @@
 ---
 title: "Design a holistic monitoring strategy on Azure"
 excerpt: "Use monitoring services on Azure to bring operational excellence to your applications and infrastructure."
-webUrl: https://docs.microsoft.com/learn/modules/design-monitoring-strategy-on-azure/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/design-monitoring-strategy-on-azure/
 type: course
 price: Free
 length: PT57M
 ratings:
   count: 1441
   average: 4.576683
-heat: 54
+heat: 89
 
 provider:
   name: Microsoft Learn
@@ -33,6 +33,6 @@ images:
     height: 400
     isCached: true
 
-secured: "7V32MCRQXvt7Go07IcoWjZtxlz+I/reVzUcGaiXYWG2nI6du8ysAQ9DLhi1nU24FcRGxmZ5quLnxzdYAyZXqKSwa4gzwQfrWbNIygiHo+SNFjBWmTQJQpWGtXcAz+oStwIQp91LoRbFCtmgd/HzLgP+xZj5qFeZDDrQPoZiOSEZAh3vPeMpAEUyhKqCIk8OF+dAX5EqGOxR/fzjqElzKTNzC4qe1iXvyjHot6UZjoS+r53wKGkkvedzt0WZNtoPDEmPj+YmZ+/gISiyGvgBehilAVTrcQGrPq47GcQ9IJWUPyIqyxyOonBNIjVyqtC/DTUBaelM2JUHHbCMMulDFg95AlFeh6BypTVuBRN8wgbtDv2uekqRNZK80qy5Z26f+TEtRjC0NjYIJZgBUqUSBwM00RuQv/zInx8PEtBtcmV8=;dbDL2QA6Etzt5h+TZyAMOg=="
+secured: "Nyi64Vpolu7EJjEhEAlCtfoWAu/mBTStccoc3sQQmhEVs/XDAo6DkGXDB5kBuq2I0ltPGrIUa0VCVZP0DlbPRd1IsgTHyttiFR+oltlZJFai1rG02zQeXTR30esWkskPocwe78ee3a4J9grOkxf14vMzyTOkOJ07YDHlrZG6QhwHvYME4BhVGNg+UrgnD91O9uw3rYsNBWv/FbsycwE1e3UGOnUHLL59Jp+xwxUO8Zyal6BRoyEBbUNimaVUIrkWk4769xlioueUy2+KxmdMaqvANxdBI0/+P74uiu+sGyQ9NroU4TRHV5FQBd/O6t5iZe5DIBme6P5rpAtVrJL2nagJIbYyNrlFOzJwdeu/S60QouwEkQ+95oArNCFCWIro7vvX7TDWijNGFXl9P/23Jg==;MkU0aoaCSK1S5cbomB/Cmw=="
 ---
 

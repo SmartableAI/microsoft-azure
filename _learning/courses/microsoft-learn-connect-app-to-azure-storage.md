@@ -1,14 +1,14 @@
 ---
 title: "Connect an app to Azure Storage"
-excerpt: "Create a simple application and add configuration, client library references, and code to connect it to Azure Storage."
-webUrl: https://docs.microsoft.com/learn/modules/connect-an-app-to-azure-storage/
+excerpt: "Create a simple application and add configuration, client library references, and C# or JavaScript code to connect it to Azure Storage."
+webUrl: https://docs.microsoft.com/en-us/learn/modules/connect-an-app-to-azure-storage/
 type: course
 price: Free
 length: PT1H15M
 ratings:
   count: 4940
   average: 4.631174
-heat: 56
+heat: 140
 
 provider:
   name: Microsoft Learn
@@ -26,6 +26,6 @@ topics:
   - Storage
   - Management Tools
 
-secured: "QGHR7UuXAnagXbiHx24IYfEUC24I6NJqQGGn6e0iSS9xKFA5iV0mJca3m0Z0jr5u3Isigk2lbkQ2zdhwr1VwHgEzOD0Fci2A70B/a8sEYkvJDpgC5gdi3DS8cVq5yekwOOhoUPkh95vNbl5EFTqwvbPAinLLZPbqAyDTH6nTBXybSP4B8Eax9LnrdLt3pjjWVXbWIAaLWa9RBOAxIDz9MZ3NF6bmnbTMl8JZPi/F4KjId+OaHkMvpvIWAsWSTWYDL0HsOBNl1j5L84U6aYBkYqiHiFAaKbMMyFA9AUdmkb5/PUG5erwb4/Y40WG3+3FCnoiPdn/0frxTbOgUDElpv7ty4e02uQIIig131xaCpwZJKZgJ0KbzZKeBhXtZYKxErL+SRGzOTi/ZLh9mtvkqrDMYPVOO/82OVhUUZJfKyHs=;GYzECmmus9K/1lXakG6Hug=="
+secured: "4Ibrfv9fxLd1X4iZsUq+bVLQsNu7mw0lzgbjcXqBvCFj4utgo5vI1l3DGAW0eqaXnN7SSMvUmOhB3MFQs9rRFALDcC/FPLNQYU1loRQfJWkANcYzXcN2gSSXO/+ehhtUKJCAv6L5eInaH0LcJ7yrrmNBMCcAyw+1e0ge9mtuevfSLXkf+F8s/jeplWgjpM6YiOSeM5zB8z6iEfyjLF9bd3MDyxpto0q4MPMiu1A5QQdEHWH24aOk9Ksek+wh6Q3ifhmiMrKUVZJenXH9GxuhhCBL12SOSTspJzzraKzloG+Onl4F8VF1hvkdXP4dlEpRia8xKVnMdwJwgqdZo6rYg3lsNnp6a8fM72Zq0Mk6goe0+IMZQZFxZe0Uo8UoO8c2ByzZSFcdoEuO7qtC11yqiQ==;kGxA9+ubzT3+tLLwMPonyQ=="
 ---
 

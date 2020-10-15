@@ -1,14 +1,14 @@
 ---
 title: "Introduction to Azure for SAP workloads"
 excerpt: "With the recently expanded partnership between Microsoft and SAP, you can run SAP applications across development, test, and production scenarios in Azure, taking advantage of the scalability, flexibility, and cost savings of Microsoft Azure."
-webUrl: https://docs.microsoft.com/learn/modules/introduction-azure-sap-workloads/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/introduction-azure-sap-workloads/
 type: course
 price: Free
 length: PT50M
 ratings:
-  count: 404
-  average: 4.809406
-heat: 51
+  count: 405
+  average: 4.8098764
+heat: 63
 
 provider:
   name: Microsoft Learn
@@ -30,6 +30,6 @@ images:
     height: 400
     isCached: true
 
-secured: "068uGftrJWzHHzNuw7BiWVjup7z9W29wDpe4fSs34SSwxfEovrageUjWbdHmZjMUusN9+5tdghgYRTX03i3lGolCcfiJBqMk+ujhIce4MmG5C+Ktrx4R5GcnwbyY4Bas0szESz8Hs4MnkOwNYUVMUmQXNKiFZ8fnUBXclXSTPy5WVziCcgP9qEcnf99IOULLevXoFXUtlpjKULso1Mfx+DMPeYZrt+AoRaTgonSgMFa0ilU/deU1UKIEk/zEmH9aPwrSSTlUi9XMkPx3pi5oG16VOA8ZLZlVY4KP76LDdhrRtpA3YNsfyCD1LOXxaAPl3HHdMC3wDoHMzkZvtnJ3Ijse6ez3rXs6FI3T5R/0pkIDy79CI/Td+w6HGRlcbdMRmgTLyUVpUExPdDRXODadRYzdMSKLm1TO7PKjoX4k7QU=;RUCpEIla/Q1kxEnfVRIoXg=="
+secured: "qRAffEJcn7OCF64h4AfU8MB5plB1dxnhPAIrHnVmWXfIA3kI2Ypih6fjMkDzhcC1mWHEl48SdSMW2bK7TqsaW75xTidJjIj/arwV+4XqOtfWxFOsUXSOdgjrEhnjH9XAhzjN0VPngFkNGUQKY1GD+M0hRhZAd/IJ7+B3BnicSW/xxWIvgGxBzknZ5edZno5Wop+6u+H54RqT/v1x3e/5ET0Kr1gX0RA9T01PePOpOQ48QOX1XiNYvMEX3EyD4ZcSTB0pugxppNH3sY/ME8htlz2Syl/RbcjJ/b10SMChUDB2RieEmmb08QqQOqHb3w4wn/GeCCaUU6J9KZxtqa2NZQPrHGjOC1BhXio+chkhpdeUG8XMXK7Q7KxRbtgG6YBLZEH3Y6QVSqabJe34OXzG5w==;Ha6u3PShmySiVXqrTwrYqA=="
 ---
 

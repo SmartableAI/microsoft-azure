@@ -1,14 +1,14 @@
 ---
 title: "Prepare on-premises workloads for migration to Azure"
 excerpt: "Prepare on-premises workloads for migration to Azure"
-webUrl: https://docs.microsoft.com/learn/modules/prepare-onpremises-workloads-migration-azure/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/prepare-onpremises-workloads-migration-azure/
 type: course
 price: Free
 length: PT35M
 ratings:
   count: 132
   average: 4.681818
-heat: 50
+heat: 54
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     height: 400
     isCached: true
 
-secured: "tQ3322nXQcLJEUYyl8GefaRY41G3JPIertEa5x/aEcRknHyr2Bu7wofvxtVrk/A6Z4emFf6sMxc+AextUr5h2hH7uGKyTgt40gtQKq83cMvKDAOmES91eo034vPKEEm/W0He9TcHRgb1Nbq4ujx56SXmw0tfuPN8u+6OzjyBpOcPvpEobUYW8imxd48yTIejrgeIWPplzVUqYiaH0ZG1ksxBYnlMPQuRP3vDet2Rj2AMDx9K7Su8EO1+Yo92MTH00NejaOf0X5bTc+pAFpVnlJLVdj96AbsVpZdogxoeeJIMgkQrPzGJLSsygkZ2YKOkuHAzwp78+uF8kt9MolGXLi9hy/kwkyyYwfKXHD7dV0lv0YT5li8xC5hMSWMgtwL5c9SPztTIP7MvrIAsCKSv+5doj4hsP6bIVS9pAufHGF4=;Au6ZFlGe3O3m1qQQ5OnlnA=="
+secured: "aj5Zyw1ssrR6E9bzMxCZMhfB+ahvr/ai+wCPl7UWKLxJCJgLkFb/tuxn0FwckVXBl9/moEPF1ameaRpWr7tP6fq7Tqs+7wNp8ijv5KhyChZCpX7sIn93SpB90M6AEeavXdObW+4t7iyI9qHM5R5y8FNANMovAbDU9iSezlNCnzVDngsXFPOJv+ZFdDzkFBceF+tMvBSLWodAdKAoey4E/TDDM3Fky3CF17M4F4M9Of6VT6wM0u+LHEN5Q8MtU9yMBGVRXIZHd3SrwMIYvDphbcpy6mwjdbveXlU+6VmEz+VonAR9WFZX7rlCcs2+Fw9uk2wtLparXpB06/PfOcwiz7O9K/SZIVTyvYPcgCkum/w2nrC1CHOWLoZfy98IF6I16cDEeMy5Lb0HSWL7MMKP1w==;LkZ9kK6avxhUMtlCDdANeg=="
 ---
 

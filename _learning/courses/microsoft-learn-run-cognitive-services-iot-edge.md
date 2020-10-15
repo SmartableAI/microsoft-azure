@@ -1,7 +1,7 @@
 ---
 title: "Run Cognitive Services on IoT Edge"
 excerpt: "University of Oxford"
-webUrl: https://docs.microsoft.com/learn/modules/run-cognitive-services-iot-edge/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/run-cognitive-services-iot-edge/
 type: course
 price: Free
 length: PT1H4M
@@ -32,6 +32,6 @@ images:
     height: 320
     isCached: true
 
-secured: "J9sX+d4j45i/w1xZppZs3BUEfaHyYSUTTmmBXbQsEapHzyvEBhMP8656h2OugUsMsQu7HlEzX9bBV9nKawxty82RiYK0v7Exho6yOCXWwkq2Hs2nBXYTmszYqTMCtjRq3cM++in+8s4R7J7JGUf/b7JVhOJptUszkb4WSotZfkk26171ztthYfmD2Ri8yYx8Yfh72EJNTqYzVeV4z14CPSaNxZ7sMqXmuSe+SXB2BPzpDCdnfiURNxkO0vo4Dw/01hJxHeED6aik+L7/AKfmPt3R1DxXBONtc/b/7ZE7LH9xqh3vHZgrd7SnVXKq9J793Fxm+k07z1rEEhI+A83B/sUDw4dPMYcC3dV7X6L7bMg5bCn9yRn6NRookdYmGaCwyu4A/mChtQZ9t+DngyxXHjLRG8m3ykg3gfvcggxwTg8=;YITV7fW4ux+1lsLk8trtuw=="
+secured: "mFkJxEUagqbWgI+1ToDbzGezqAIWdNEeIBxyvIjqjmrohru8+YSp2oa5HrID4uGJ30w7KHBz4CWnQ1QBTjUX/QXWJVXp7YASBoG1ufIBQLwh7LV4XjfW4PwrHsMt4BtZI4hegAvolYMKMByXLekenqzYwbnyUc8MGrwHYHsrAyA/JgXn2uc+h6fsQtNxvi0Objme4INjo+N1yISrXqameoD8SWBZOZTpY7kU7Sn7Pn1qDA825YeNYTz8dSNDocQOOJJVPYpuSfQCLmpAQ2L0d7X8jMF6/EyHxi73Md4T3a3ZOn1tvy/S7sbGHrddrG7iUcx/mowaEa9spe6zDhk8SHkUVQhifzXetYZT1MZVCZWk5OtBZ8brI/b9hWxKLy/t/G2t6eo/xZX8u3UZOCr1Lw==;xmyh8BWqgVALkkHGTlSWvQ=="
 ---
 

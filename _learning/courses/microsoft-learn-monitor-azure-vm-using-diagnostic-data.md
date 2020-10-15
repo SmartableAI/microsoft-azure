@@ -1,14 +1,14 @@
 ---
 title: "Monitor the health of your Azure virtual machine by using Azure Metrics Explorer and metric alerts"
 excerpt: "Learn how to monitor the health of your Azure VMs by using Azure Metrics Explorer and metric alerts."
-webUrl: https://docs.microsoft.com/learn/modules/monitor-azure-vm-using-diagnostic-data/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/monitor-azure-vm-using-diagnostic-data/
 type: course
 price: Free
 length: PT43M
 ratings:
   count: 910
   average: 4.6582417
-heat: 52
+heat: 77
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     height: 400
     isCached: true
 
-secured: "8n2wfvgS/l+RR66a7YavoCv3dBiLpaTroJ1z9M+XVHA4RPQPIRCXDzqBYceCEbumfcbGaqgNVmZvoHZcerRfayjU5ONOpglnZLvAFp4TXHGLIJeyHu/SdonmAI85JEhIJZHQ38oYEm6q4AcoNIOuSgiBm/EAY0Ri5ODQ1Qhj1fgRF081HXyPEdL/MbweqOoMGU88UfItH7xjbbnTNqUo8DlRZtaJ0bV86rhdvD94G5GhkfS/7ce6d5ggJFX8VpBd9J/AFU68Si1tvow/uOuTkPh2SHpmhqeKcSdrshSPhL2i8fSJCJ965jMOZM4xUr/eMIaJ3P/tMSt9dmI8la0IWVVSVj2KiE9r2+Qw4atDsDFlQYYX1da/5pn/vqnWMQSKYiI5461OSqwY56xbp4SDcxf0d+paSBwNfl+Q1cUY0sc=;GliyNxMK5RDAbPKb0zLWrA=="
+secured: "eUMyvPLkuzuhr2DbtxYHc/Iu0rXxou9CrMY2jYcYNdRaYBmSHftoiJSk6zdA+rkYIcFQRiLOFqi8SDUBuXEo4ozdKvvnT9KE1dPv7/DUyDnmu6ieYqSZ16H+P3dBCq4fKBxX9jHXLw6mQ3oXh61dmYAjL9YFc7XvXOO08fZ4SoMbalTHqcSPyKuvG4MeM4ijvvI3z61DjwNHrxx293ljPu3qJKyAx735shLYbH9OJlrbrt/VMR8kpI74xK/65KXs2ay1lB3LfoVosFPRo8qyraSIavjoJ+lenj0MGAJ7ox7GII87KQcmO56nyXLVfTo3SCzSwvi5j2QPDCDLOsSfY1dL/jrZ7EIdZKfR2DFTO37d2hCN25Jd+QSmnTgugQWvP/iGQOqY0FkoqEeilhET9w==;2xr148RZKZSpI2XIh6M4DA=="
 ---
 

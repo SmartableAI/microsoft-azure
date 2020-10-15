@@ -1,14 +1,14 @@
 ---
 title: "Classify images with the Microsoft Custom Vision Service"
 excerpt: "In this learning path, find out how Cognitive Vision Services detects faces, tags and classifies images, and identifies objects."
-webUrl: https://docs.microsoft.com/learn/modules/classify-images-with-custom-vision-service/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/classify-images-with-custom-vision-service/
 type: course
 price: Free
 length: PT37M
 ratings:
   count: 1440
   average: 4.6604166
-heat: 52
+heat: 89
 
 provider:
   name: Microsoft Learn
@@ -26,6 +26,6 @@ topics:
   - AI
   - Management Tools
 
-secured: "lpw6HqItam/5CpZ4wa456v0kg5iZg1XDcGpoCk9vOhTrcOtMGFFugZRLDvWjYjHcs5vwNq8kMrf97XWVnJs5xGeYwxaRD64Ina5YgjIr7xG220AdaRS+6EaLIfVrwCPgnJauWgRklF3TsRBiH+qhyN7aXTO42MtDn9Vn+Cf0dOqGeUkvo4CEDL9CYAA8AwiHqQFPmL4StW4glRb+WCHjUwjNfdSYUaoz8jM0d25C4u/d/qwKBziXYwEIffcO3+0S7I8k6jDxXDvP/PnsdCwJn2HfPoBytkXHdJfohjQC+b4lV2k0v/hEXjzc2MCGbOHrlVwAZQ70fNQ4w44ZgyRZKG75QdyQw19a8JBfbzlqsiYXH9LhtWOcfnDE75Sgsz/UdYNb/1K+4R6MAqPYO6ymWwpQ33GFkIn7NAtwUe56rUE=;icqGiRuntZqjKd0FGRyQ1Q=="
+secured: "KkVnRQVpD57/Zhgdz/dB7DEzfEjJOn9omuRqtL7EWPPaRduoCrFiy5o3ytM+J2NLFoQVJpiLPnZLstGbXBIhXu8S24pAqCNENAX4sf91HfsMECRa5/dYAMXhsPloJvPkAEcmNAAcqB6MRUOj3kd3Lm3LBKAC8s+lks3teKyvvUTTEx+wu9RUrZk/p3niJ3axnSdcBnm0i1aM1FVSKI+SM1Y15vr5ON+eP1No/hUe7rb7nc9tqhybTUD+xntNVdERU8CxVB5UTU8+7t5uOvZBOhyNi5GPdFOwWWB3Rjaw5MV0Qx6UuTPsp+5m113JxuRY+0f1IpjQbOXKaU/WWp5ycZO9GV1qdOHFTIhWBKGTq1+sniK6RF2WsrGf9i7XWdtief3i6XKzMjqw861y6WNE/g==;zE5N5xEbGcTiSX5ZpB/QNQ=="
 ---
 

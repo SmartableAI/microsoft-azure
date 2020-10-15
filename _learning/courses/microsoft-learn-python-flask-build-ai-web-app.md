@@ -1,14 +1,14 @@
 ---
 title: "Build an AI web app by using Python and Flask"
 excerpt: "Use Python, Flask, and Azure Cognitive Services to build a web app that incorporates AI"
-webUrl: https://docs.microsoft.com/learn/modules/python-flask-build-ai-web-app/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/python-flask-build-ai-web-app/
 type: course
 price: Free
 length: PT1H15M
 ratings:
   count: 77
   average: 4.5194807
-heat: 50
+heat: 52
 
 provider:
   name: Microsoft Learn
@@ -25,6 +25,6 @@ topics:
   - Azure
   - AI
 
-secured: "AeJxqe+bO/M8hpTIDAmrs7BIBn+JcmGqZQULKAS/mSlM4mwujrXt0kTrQ9rzHiwJmb0XIJCKPGXJThJOdN3rrP7f3TZyr7XPVZGxBhgg3knmQMdpa4mCI8GAcIfC3uXLPUgAriyrXF7PXboGgcYP/ojsy0k1kBFaeN6YhGEvEmfKLLwLAIE263eX4bT9JUTyYPQ/5sYZs9NKiSBa3RKTfeN2LSdoyT7EG0VWOsd1hdXy1eRvr0zb/m3jCm8ddje8/5+SM+i3NYB+iORQmCuBZB4TAF3P/ER8snK1UtGodOC/u59QNipul4BQDyzbk4EOVewK/9gXwM/4afV2QjnGRT2nGWcidDFN3tp+ixGV7VflL4B/P6V6vRH3AkOo0jX54/if51N0e0O4Cd7pz4DNpM4Sd4qTxSuj/rQCEK/9uqY=;niIeoGxLnelvTz7+fmZZ+Q=="
+secured: "GfqttGQL2kwYA4AN776Kdju5wtEBjIHwbJzLj2P21vT0LF1cGxBFlBTY3V44ZCfYFfsmO9PPk2WwwENTzVCaxWm8DG5VmDpLsrUYw2TlrCpnztFGgV0xedfts4S9IM9vY30xae8VafOJpVrh/D14g/8PhWoC4J4u97gP+FWXQ7poEEAYJXStL812SXVfmr+/0UIPRc+7nPNmoOTu+CDJ8uVjqFmB01gpEraEW3vLRNpC777gT6uGEH8xUtN0kFFmjwucrqmEfow9IuAXRDSWlCzc2eko6cuvpyktlpHulKd3MN4ST9dYMvs0lfGXQG81n1DcNvqnNJU2Do35fo7Jo0stTQpF7487xjx0PqvQ38qNHq/vgjfmJ3wdkiUZjxj25YQjY/8rAniio7oORciX0g==;ZuKlBCVTYLtfThdQtNGToQ=="
 ---
 

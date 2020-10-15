@@ -1,14 +1,14 @@
 ---
 title: "Manage site reliability"
 excerpt: "Learn how to manage site reliability."
-webUrl: https://docs.microsoft.com/learn/modules/manage-site-reliability/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/manage-site-reliability/
 type: course
 price: Free
 length: PT35M
 ratings:
   count: 290
   average: 4.6517243
-heat: 50
+heat: 59
 
 provider:
   name: Microsoft Learn
@@ -30,6 +30,6 @@ images:
     height: 500
     isCached: true
 
-secured: "Y9zIvlXCKktM6XdCxQsq7FCBQUUV620G4ND+hg5ywyasE3jK0MyLwqTcUja9ISE6DoeFcvN2MrVRCveTsPMkujeUn77tDJCTziIyDWcX80WbTldLg+AATZhmZGq+m6kNtdy5P8FDmZbqymQQjISQVgLU91/kwEn6DHfoMPPS48HirpkYQ8qp902J4WAw5hyMmCjG3XKxyYf0O/TqU++yVgLPvTvIFFDWbjKs5bM1MMKV4tIy1FDE8uzU6vdKVQmpTRYaC7yxgm+oRxaLK83k7IEmbWQ0vRU2RkotD72+l899TFM+VXWwX2LPYWr53yXOH0tMlDIyEC6wrPaYA7vVGj9kLuRyRfLgNCyRS+CHJIyGS1sulzTmX+GSwzi8Ae95HZ4RyUsJkrC9yuT2NlOLpENESRk/4KquH0QnnFvqXrM=;H7EDoS+Zz83HJYMRLIRdlg=="
+secured: "DJXJq/kRDJcjaQqoDDWal0NzAyAj7tLJivg6QNvnzJ1aplXskmQJpxW3SbJF8GAvQzGmlRiV4ejdR8SwWdMak5XdFL+SLjFQE53LqFlv3NfE16N8AEIfwyHcEL/izRWDTFV9iPZ25EkE3ShkUW3DF4tSgCPRJY3oN5iTqlk2I46hVxemz3DCzdU4JHdQviasWlzG9dBolAkgiuV5QcNIaqSbyKTwcUVz+dlZXn4f+5blpIlg+iPPxK6NAaXgdqVNMuK0/Ir6oQyLxfP48Z079O0p1pQvWpyIDtZAFb3V99g0jJ7rR5j+SdpDDbw56roEDKp2MMNtJeaYSDyUzhT4/Fwd+fNlphXJw2F+qSm6G1tZlV4W3GX5stfh9DaC/eIDTA3v/iuFd8YYnmH5faA6Wg==;cmH/tXs4VMuBjhqEGKEu1Q=="
 ---
 

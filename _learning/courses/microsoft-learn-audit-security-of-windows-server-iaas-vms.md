@@ -1,7 +1,7 @@
 ---
 title: "Audit the security of Windows Server IaaS Virtual Machines"
 excerpt: "You'll learn about Azure Security Center and how to onboard Windows Server computers to Security Center. You'll also learn about Azure Sentinel, security information and event management (SIEM), and security orchestration, automation and response (SOAR)."
-webUrl: https://docs.microsoft.com/learn/modules/audit-security-of-windows-server-iaas-virtual-machines/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/audit-security-of-windows-server-iaas-virtual-machines/
 type: course
 price: Free
 length: PT45M
@@ -28,11 +28,11 @@ topics:
   - Security
 
 images:
-  - url: https://docs.microsoft.com/learn/achievements/generic-badge-social.png
-    width: 640
-    height: 320
+  - url: https://docs.microsoft.com/learn/achievements/audit-the-security-of-windows-server-iaas-vms-social.png
+    width: 642
+    height: 321
     isCached: true
 
-secured: "w+y8hFWczH45JSTGzgBcTNSLOajDTHWgVrou395PC/Uu+mNi/V0J121T6ELyLytMrL4svClTLYoXOE02px4keKUoPvn+BORMItlEdtne18qREqhbSq/S/k1hSepEQZ+edZMDH5lAToag7fLf9MjdWU3IyitbDAB889W3dfaS15/HBKrxHEUI1A+uZHlc3yFw2yjVbyMIkee0ZUP2chf8ku/iCj8oZ1O5/vMuiXQ1Eg/3WOGC/HslHI3s65ypNlfO4bILSU3WmFwjVZW4ObXuCJe8tmglkYpm+okywD7FuGSWBljLIEbmWWgg/5v5/HH5Mj9ClyBwnIgeW5oQOnA+S6HXEfeVl9YdmI/E39u5m7fq2B301BHiPFkxvwAnvWUYM43j7GWmd7Ml4ijTNjGyaryzYMIwwuoTHTbzT0IOnAg=;IkDq0LQvSW6NkG9/+iJOSw=="
+secured: "hDdt4C5aBgQ8NStCa+BnlouE3AnBTO12aXsChLPVxhoCyzBdNELHgMaoWopFfSPyJXIpmlIxweRvzZjUAZA3W6tmswBb9tcHT9XdfOdr0BtQ7anj0u8e+DJdJpBMyayRkeIsL97JhhdD0IWCWkkAnvzpB67Sdu7j6l0OqANK+cfxZqvAhbHUZfeWHPR6rh/mmnav7AESAoTo4eceTG1PDhBxA/Uo59NQYV04y6wNjGRd8VYIbLySTeCBBO1gRbfn4Bb3yT2KMaAtcLCrBYnmOrHwMHKbi68KqH2j5hl6L5mfqQyDoaRmHCY4hhWSQHkmfZkofUDq4yzSLHQmHnynXocqsIcxd/46TfN1KR2QRBr406eOTok8fq5Bt5QTkdQ1xlzP5sNBAp95zDwXIjJCIQ==;7CUQnSpY0fnXLDvo9n/iKQ=="
 ---
 

@@ -1,14 +1,14 @@
 ---
 title: "Using IAAS support with Azure for SAP workloads"
 excerpt: "There are a variety of commonly used SAP-certified operating systems supported by SAP running on Azure VMs, and there are also several different methods of provisioning storage for SAP workloads in Azure. In this module, you will learn the SAP recommended support products and VM types as well as the network, database, and monitoring requirements."
-webUrl: https://docs.microsoft.com/learn/modules/using-iaas-support-azure-sap-workloads/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/using-iaas-support-azure-sap-workloads/
 type: course
 price: Free
 length: PT44M
 ratings:
   count: 268
   average: 4.7462687
-heat: 51
+heat: 59
 
 provider:
   name: Microsoft Learn
@@ -30,6 +30,6 @@ images:
     height: 400
     isCached: true
 
-secured: "qPDrQlk94At7G3PaTaOXsJbuhkmL+DwSlRy2xkIDn9pRD7yaamqyrRf8raOBteojrZNS4xTHsxK91C9P8QqwSVuljW7+Wll52Itn8d8aefhyBLMqQG35BNHojKSHhJTMkFSSG4M2WDgy8+cE5Uvtd2MbubbNR8NNGF04hiOzEebxCYRTpHYqJ2tbpnC/xxVWqklQNMXRDOOE9SyxRFCoNqQySu7br+IEIDFYfjY2WeiojLLw5124chjFlw+FGfUOkxy6aLapi0Z+tgqIUDG55ZsXJ+LBTpi2biLEX2bzzLf3GhcY1nit4OmjYRQ6KEmBrx8ks9VL94uCW5KuxLx39LQ1DbQ0YsKXCVYYekUBN+SdKAOPfYaNO/PvGs6RWtgiUY91KodQFbw3vcog/0PvLaLw7mTwpf8sKjn4Bg3eskg=;dFSLNLbCvFr8AhCBuBvsEw=="
+secured: "poLY3Xn/LAUcdZeBI2sg6idp5cxPVkqIkfJ3vO1Z7vChlZ48mQTrJYvSoFFvhFMGL6gdOqdxYKc+d5ZZqOaP6HdAsPszZeOJgS70HsnAz8BE51trC0zd45bhuFLZkmVibMwJJsXJkV3EfivWDtJpg0hDlnDGLD8zQb80LEU6DB/JAFWwrgMrnxQXJ2w7p3aVGciUq8n1rYDrQtRFE3/TcoYDbnJU7YtGBj7611VvJw86MXV32hJZ+y3ZnFu8PtrizUW2ThgJ9uNFxnfJFHJmAbkURGDET7LIQTwXxg/+DcReN4wpLm2+zHGwhZqokt4tpO2trbMHnhWIYEwYJr/BvOQ6sD6i8z8kgIolzjnZVDxnHa2d6c4nt+L0hG11CPID1ADJgbcexfsrgq8JNHNSgA==;BISF3PM6fkbdG0nniNgrsA=="
 ---
 

@@ -1,14 +1,14 @@
 ---
 title: "Recognize and synthesize speech"
 excerpt: "Learn how to recognize and synthesize speech by using Azure Cognitive Services."
-webUrl: https://docs.microsoft.com/learn/modules/recognize-synthesize-speech/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/recognize-synthesize-speech/
 type: course
 price: Free
 length: PT29M
 ratings:
   count: 258
   average: 4.8333335
-heat: 53
+heat: 59
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     height: 400
     isCached: true
 
-secured: "fcFvRRx0+BNGDP4RKq1QUVUqPI0oQ6vtYLdElDtYrdybT5XoTD6r/ih1KDkAgBe0UbALjn7lOD2qJ5B5SwXCDg8qLox/54aiGGEA17tnhWNG7ZVM+CfbanbQup7HmzWnE/REQ7a+Htuv8cIos+nXRuwnkiM/PbNqL/x1cUVOLfrSfHsEUIj6OArqK4XRID4ezUKeJ3CrhuVlGMZbIyij6VH+NwY+RT2sqnmQyi4W3Xedxz1TGtgPE0fJPuZT5//Ua1b6tNLJnY5zhHSxlI2q6VVe/G2ww8O7zIlu3ewn5aVaPPHDYp+UppHrFoO7kdHCQ6vaPvHAb1Km4VyGa26t/OcTGZj4JaVw0T2dvsMn8IKN+4neVrNtravVg7B3rCGqhjR7FsClEkWVcBcYAqXU4OfnMpqNVzrwM0fQqeLOwrY=;dcYMXbiW+YXRGvtVqP/9TQ=="
+secured: "y2TDMT+lTs/FAaSLRlzLPcstyI8Ak5uCpZWStbzDg8FMogP6lAMf74xWndTTAJZdFGKCh+Xsgkn/KbI+MDejClOLgwlwWTAxztvIpdpgdyTtnjm3BkdwelAqYT+5MLDLwqzSfE1AhGZemv/z/3d5S5gII8KLAlxWm24rOedrny+4IrX6e1fWxFwoJE5KqPV7zLbzMcqX1p23AJM2NF0SEUlEuQciOo4JIh3V8hGr/BG9ZvE1jRMSnFLzU89c89fVWBz3apT8E25ZBsttDYZ1ADLXKJXyWgHrnWrs2Xs6qi0cILJ0ljBFJut0D5DUEqYRAaf1tIMaLaMtaCt5bKloPHyLDGy1QYWRR0QwYhOHNG4AEahGYN47xqsqHPSZbnQSCuqBfi/TLcthH0RW2RqreQ==;SwbRQXsKlfo3ewoYwwoFTg=="
 ---
 

@@ -1,14 +1,14 @@
 ---
 title: "Explore concepts of data analytics"
 excerpt: "Explore concepts of data analytics"
-webUrl: https://docs.microsoft.com/learn/modules/explore-concepts-of-data-analytics/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/explore-concepts-of-data-analytics/
 type: course
 price: Free
 length: PT16M
 ratings:
   count: 691
   average: 4.8118668
-heat: 61
+heat: 72
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     height: 320
     isCached: true
 
-secured: "Jss95inLTcA9NCdkZheG/kMPrRTkhMPQAFl8IVrkr8exIV6mR5qoDqVhbAm+/Q3ZOC1TVkhqE4UHgM30cB8h+RnqTB5IDmN9UaGW5ZZWpSmKhBzixsyakzARueAJjEg5oZ/XT7sTFDsNCvwLMd+vICKkgEgptuMXacS4MG+K65NjSQS7dp9OiYCaMTPz63TxmsSIitYNClBICjOrvZ7Pp3dmi3QiZ1NDCdS+4MwvBeOn3rtP1ToYr0SWwR4IfhZYAbvlEE5jlzL5eGpUrXgHb7KPSoNGRRUnGFb7CYTGm4IwiUjiCxX2JoiMep23ZRmts0lpVUvKPTSXFLZlEGfkgWUCWjbsdo4QA4goV6g7wUCPU6NZC9I/0tdz3Q/bx0ajhnZGQYASQWm4eku3h/5BFn+lx5uu6vliGDapywZL3rs=;YZWy979CFIGl2Uw5612AiA=="
+secured: "n9CXVrTIjZhvuFLF8ORi1qop217LvlSnkbqjWkqKq5mVJ882A0K1HuG5+c8eSe1/Nl18vDwONqskgq8I/Q7LzRzAx8Ge7GAiU97xO/F/ERt5SAWY7pXhhkPz/VWs593eKcuKdVBZ1+hdJukdhLJWMwTL4yLEARvc3qT0Quku0zahpDBudh1v8TBQjkKkm/iUafpbyAdqZQe+2+MEuQhMs055ZEelUYBrT2qlxnqxS5KNDkKkN2awSk9NpSLeGsASbmck/3ydRzsGrfCsRzUlEjFCdu7knNdjC59ddPhb7pmCK4hd3zyRP08uWCwut3+qcwYO6MkPVEjp5lWFJi4n42x81/1wMv1CWDP/DUlUSSRkWodGC3QE8pPApea6C5q8Llf5Aa7owqXd64L5ZuQ2sQ==;KavH8VPE5zXaaXrMEtIddw=="
 ---
 

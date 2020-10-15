@@ -1,14 +1,14 @@
 ---
 title: "Fundamentals of computer networking"
 excerpt: "You'll learn the fundamental principles of computer networking to prepare you for the Azure admin and developer learning paths."
-webUrl: https://docs.microsoft.com/learn/modules/network-fundamentals/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/network-fundamentals/
 type: course
 price: Free
 length: PT47M
 ratings:
-  count: 3218
-  average: 4.699192
-heat: 63
+  count: 3219
+  average: 4.6992855
+heat: 120
 
 provider:
   name: Microsoft Learn
@@ -25,6 +25,6 @@ topics:
   - Azure
   - Networking
 
-secured: "Uvwo4bL+RwCqV2QD5PBQvKU99pkQC7FQciJuf8gKlneMforAGFSD7gitdll3uZAGN5bCdIsYgtGh+MpVw/1yrMvnEqWWNQeESXuUzneLynhifSRhc3ZufbWpM/T+tTXU6FeWnGOde9laSXC9dzzubMsQ0RaeG7TX9GcXzu/n1OiTZof91gJMoA0zpoH4P2YnIk0fMwzLL0O392JxTF3toACxJAsKqYIl0pK55LFUxvS+XiWPY7lYZNUzo/0o4/w7vpwRtQ9VR0ElIIXg4sP+UKwKJHFMlX/BNHYx21Wn9gzsbs01/K4/aQK2+V7gJIFVg7zAmmzgV2v/CCyu8SOYNOgRJOJxZ8rdTM5wkCmSfr19I+sR1vHLjHU8iOn/GvkkQ/tua33d67Kv0mZuQAg83X1uORPV9Kv4+ww6LwaxQlg=;4sia6L1R235ZuCjDkQW9aA=="
+secured: "pxFY/pTJ0bOlLMSlLR2iAddzsVYdL+x+lIfreO/al7YvKZAMqUGtVNawyt4lfaTtEOo0Bru7G7w04oeLyGucig2EdvZa8ScMcqxR/uDGuN/ldDrKU7GvKqziviJqOvj/7kjXaF4qZ0kaPEPyCTK+48PNmLodHvQLe+JTJT+q+D6qLsMNK+zwWtisbORL5fUNBBzSgTpAZE4501L0HFqCt7GnvtVvqW5n8wjFNJfafOKUNZx+KFJjiJN4vf0ljmcU7KPJWXHJJI36MJ62pOxZO1EsEypimhhRte7eruf49ptFCvTbqsaNu6k9fZXFPhmYDuI58LnxbxPBJePW2J/SrSTbmqzUbXwrYhTKAj7+ZwGE5ChxnenQavrs5xnQMf3cz3Xv2/wtp/sQRmtu8o5REw==;wS+qlqlUqA5xfJFPw4N46g=="
 ---
 

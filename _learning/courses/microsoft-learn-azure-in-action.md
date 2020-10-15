@@ -1,14 +1,14 @@
 ---
 title: "See Azure in action"
 excerpt: "The demos in this module provide an opportunity to see Azure in action."
-webUrl: https://docs.microsoft.com/learn/modules/azure-in-action/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/azure-in-action/
 type: course
 price: Free
 length: PT30M
 ratings:
   count: 2098
   average: 4.706387
-heat: 50
+heat: 102
 
 provider:
   name: Microsoft Learn
@@ -33,6 +33,6 @@ images:
     height: 400
     isCached: true
 
-secured: "d/hnro+VDZmY/m6qAkLqpzL3DsxEHLLYK8D+KijGnyze5Um8bI/nj8ywyEAXyUo+SmT17V1hfHGMnCnUg97G7IVKEmFMRdjbnkuo+xyJLV+J1K1eFUZoWScJ70VRoAMXQGeig68hjjykqcWYyU7j/x4TSgnhk1RteRnUwInS/fGA/PL+euXGwY9D8xApeRmqC1Y2n0787wnEPxXK1hoX7fIoSnKhGdXzaIVfbvTNRbnZmNP74bsoyg4K9HvTyzqVQXvJWdDu1A68EEAVG9yAmBhzjTKyahmv/Xk8DL5lZsVlZUjgfCZmMtNlrF4PhJpFADLrTSWV5VoElAElhLSuByDyRV8tYWKlplKKatcmjPuDnYgk1PG5dUd53trtPZ6/x80+81LV52VadiT8XfZLVRPL3dr6wxtC+gEvbNXU0dw=;mLulQlGPshov11ZwW9OlEQ=="
+secured: "+W4nzTsaZSffSIrsxbcj+o0srRagUbuGm2wIY3WDwjng06Z+9y27iPu/msVZHLdQYmj+MEakuMytdU56D3C7GP2BalMXlP4EEdrekRgdJXzG91SLtrp7RFn8xGg763OTFaOnCUbANTUCnNOtBr6SS3+3+lAc7/2BbjkRhXxS5lRVOLhcnuHBHcySskMFuPRmquM9wltyfvunL1gecBvGVHKja/ccZIq7XopPmtBhTectGNha0kMbr+EOJKpO9HyLsi6/r9o54IImEJCgVCgePwRdi30io1Yl6cU74eoRgfcZfmRBM+ixIfcvnFTgvSEUx0PCjivEnsejAqzql6aLgCbrs8kUNgNL4TLhK90RGxPrdqfWfB/RMofp5heOBSjziXVhrLJ4yx0JGWD4pzm2Dg==;WWpEXiEmjS/oFoGKkZi3kg=="
 ---
 

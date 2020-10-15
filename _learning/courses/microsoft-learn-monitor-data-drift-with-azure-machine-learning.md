@@ -1,14 +1,14 @@
 ---
 title: "Monitor data drift with Azure Machine Learning"
 excerpt: "Changing trends in data over time can reduce the accuracy of the predictions made by a model. Monitoring for this data drift is an important way to ensure your model continues to predict accurately."
-webUrl: https://docs.microsoft.com/learn/modules/monitor-data-drift-with-azure-machine-learning/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/monitor-data-drift-with-azure-machine-learning/
 type: course
 price: Free
 length: PT42M
 ratings:
   count: 169
   average: 4.704142
-heat: 51
+heat: 55
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     height: 320
     isCached: true
 
-secured: "uG52ooRKPBAooRtUXqzJ9pYPxYMMdgwGQgtJu/HIJB4dy4ENRJeZVpnwrH4eKaC15DJKSnonxCjLgbXOYoZGu/tKj9A2NcqfFaj/XWS79Ae1Rs2ncmoaYrypgm9RSgBFHyrtbT2D4SY8rGPGZkeRAixxZKQyagzzu6ibAj3oPkXwYwQH7ck59z3dt5DaG6Tc2kjn3MaWUbD7x6gWg6N8nGDwF8T1lMxMvE3C7Qy+awkDJiwq6L1H9nqL6LSrYAo5Zaqi96ccwK9CoFFaIARx1N4HB316MdqLIxXyXaCmFa5sw+qjQrMjooKjCzCfU5OnRc4CDzA2zzhphsTqSxc/ALf26+31AfWQTevrIyqSpa6J21zb0jl7cmmL3n6nL7wgQGb4ERXDT5kEEcp1Rq1Hq+SnjpXcrGZxe6VfpoWjF/g=;XMzrdalf6NeCOTdqHfV5uQ=="
+secured: "t/CPAcHsa1oh8jztEnv+fRPQAa/hY9snjs28W2DhW1pRkU4ffo7n/pJDC8J8jz0HmyL9c+fXC1HOTGEyIQ17aV+MkTd2Gxlse1fwlRu5lou3DiaJl1xTVrbwa1IGtJwAr3EiX8m3MT+8Pnh9KgFi8rMYcQZLkEpRIhmSgVYnwsLrbff4PahRXE3Ob0GO+DLgyF37jIT8hgNaZkqMMYk9L7gzDcFyov37hwgcnVrs8UBlSLjiyI9cB30XpiD/03CtNNucGejvFNWcCsQX+YeyjZYx3yNz4erlZHXCEJ+56yvDuxFI7AYc4RecUy0M5xfOAJFvgtiU25qh51EaI7AMDAq7uU/7rpGqxjXBFp4DQ1PmC/prI6iNu6gfz6KeN6W3nuupmDxDvSTuyTyHcmlpZg==;y0Tl3bc3YkBfny9+ww2tzw=="
 ---
 

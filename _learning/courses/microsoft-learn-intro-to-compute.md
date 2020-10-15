@@ -1,14 +1,14 @@
 ---
 title: "Core Cloud Services - Azure compute options"
 excerpt: "Explore essential Azure concepts to find out how virtual machines, containers, and apps combined with serverless computing services can fortify your business."
-webUrl: https://docs.microsoft.com/learn/modules/intro-to-azure-compute/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-compute/
 type: course
 price: Free
 length: PT38M
 ratings:
   count: 64070
   average: 4.710551
-heat: 74
+heat: 304
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ topics:
   - Blockchain
   - Integration
 
-secured: "N6SEfbW5M0FYJvV+cQJ2plFFz7Ny22qSNvh4DeaT+DWwTIU5KJOLaCEnXhCGzVP8RF7DYhUFPT6EE9wHyxDV0P5rbUXqZkwVmRQRbB/bTkin6bUagko++s172KRIBa/ph9myDC25CFjQOJFFLwCMQT/pvcrsMAFmlzzVkoccQlQNQZV0xTaBE3wZhbA9XCTq1D0eP/8kHr/At5yk7oj55ln+4WWLhfSZ+vfcR3t51/44z2kYb/B1hqBatacdUdtd5sZKtP39r1lcdRZuBDg3T74wSdMNB5XHTJBfZLp+6yARSEh3pGsv/9EXwM5c45Br9cLjdun+5upOD3PKTtPTkSYMwKnhZdsZFaxT10jzn3KtU/bRV8rYesuxZtYtbKJInPE251phn20JTbIROVL1v4qdj6kw8/9+bKPer6X2b39AING36hz/ukYC3eo5Bhpu;zSVTvkw44lDm63/dHWhbhQ=="
+secured: "+jEgljfnqv6Ltt18OanLTux+zsthdvqvwMsNae/wB6FCSJH8Ekea9D1sPEEC9DTi4B06qwZt1QOUBNayQ7mV5cv/wGwoZvn15NT7pBt636rCijB+uCt1T0+z050nz9Zv3neOzVZGkcuK5+kSwQdQ/Cvl7Rx3lwHHLIERfdo6UubPo15bZfE+UD6AyJmDBCHWV6UrtZG2kfZOVzDUgvvPcALvh9BAwwqUSs86uYNXxUPdMxi73dVnTUEUruxCRDLPGRqUBkAHGD1QIj+gwjkJjIJGAW+AkngW9Hc6SIvbhRxl1W3rsW6Zo9EJqb1t0Nn5T3weYzhFOrovLEbcgKUyvb5oWzIaQ/Y2TFxgvPK8ty9UoLIP4m5e0HtkqN5Z1fJ+gThxYyBvFGxeb0C/WR65yw==;S97RZyOpMGEiYRY/+xzBHg=="
 ---
 

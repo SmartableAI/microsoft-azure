@@ -1,14 +1,14 @@
 ---
 title: "Migrate SQL Workloads to Azure Managed Instances"
 excerpt: "Migrate SQL Workloads to Azure Managed Instances"
-webUrl: https://docs.microsoft.com/learn/modules/migrate-sql-workloads-azure-managed-instances/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/migrate-sql-workloads-azure-managed-instances/
 type: course
 price: Free
 length: PT1H4M
 ratings:
   count: 62
   average: 4.629032
-heat: 50
+heat: 52
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     height: 400
     isCached: true
 
-secured: "GiYLgByDsf0ilSNqoAjyrP/CHb3toU/nnSzXDO7cnHyUS7G85AFh5MFU0skbWQU3O7qVRZXLR4s4U1XmZPoSeZscySYGtSQV6nDOONnGlPo0ZEOeINPwMK0rOT749wkn7Hcw/GNle6hojn8r8YNY67LgNcjgDhOv9jlZcHGOYBfjBh9ZpXOWnvJ9dVX+b9hL6B0m0B2TM0Pni4ez9OKtFLWqzAiIpnhSC8tWbUx+1o/1kK0v4MPKzH4n74NXfUWDLfGAQQNhR/uD+u8YGeBF2hxb34aTDBAcEoCEfJ0CJdqyL9x1O5xuvtSyhKst2fHjrBLlyxDCVNwf80LE85wgq0sMbt4n0IcH5MKDJEV5BT078fOY4Yf0CYmWwVDhwqwoWA53I8gZR4PXc+20oj+w1jjNDs0H7PSTiXAS53tb5Rk=;sEBvPQ+nVhHITpXl6HkxgA=="
+secured: "lzMgbtOowAIZufhTthVpbNbDxxImwZzc0hKFb4Mba8T/tUi5o/LdVtCAkQWunh+METwSFF7XgnRA8qVeo/Hb4bUFUb1v+MnrVH+gb1yAhBBkbqY54+GDAU+l+mTiQmwbY10/s2W6nwtvYfvdE8O6opw7YcESbdtY+t+1I6sarvnYouPv/E214E8DgTgn9nKcDjoXasc13bttvZzMwu6b3VUCPffqan1+gyhsztqcPOLrQo1+1whtxzz/rUTPH8GNNAekfNfuuSlBAved8rLYGthG+kSKReK7E3xlw911XChj3qGwKBF+lF+tdjmNDWw/GrQyqFFkGQmgEgAQiRB7IebGfVPKV9kdAvYZBfrMIXZMKOM6qSLc74upSBOZdW1YDOvrx7kdeNdWLXFuGvDJ4Q==;etIg2d7SMT0hGK3PzkaIRg=="
 ---
 

@@ -1,14 +1,14 @@
 ---
 title: "Core Cloud Services - Azure architecture and service guarantees"
 excerpt: "Learn about the Azure global network of physical datacenters, the physical architecture of Azure, how redundancy is provided, and Microsoft service guarantees."
-webUrl: https://docs.microsoft.com/learn/modules/explore-azure-infrastructure/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/explore-azure-infrastructure/
 type: course
 price: Free
 length: PT45M
 ratings:
-  count: 67729
-  average: 4.714199
-heat: 86
+  count: 67731
+  average: 4.7142076
+heat: 308
 
 provider:
   name: Microsoft Learn
@@ -24,6 +24,6 @@ levels:
 topics:
   - Azure
 
-secured: "fr7HLDmwbN4YMHuqusZBwnm0J7M9KwfKRLR1fMqnBaafxPKeE2n+2ut6QvWtxQ3Dq/EyOGWuBpIueQLd+Yr6cryyegwDoHc8by2IHouYQOUYrAVIBHofQtkcmvuC+SbVMbb/0lwBmvfdIavWls8tOaKsaC77yOtccB2Ah0Yh2TJE2+/nAzStBNSEcJ7bjWQxyMx5MeAkB3BJbRDHupKTX7xIEobrVMyfZqM/ZK6Jw7oT4FmbyE4BXrsOGBQidTG18txCkP83YUMlKRp8yw6g4ytMfbrK17XDLEitnsahe6UXNY7xKTqySD82k7S8+rGWS+pT9/BVyF01vod5y9TYpFoRgTWqkb9IWzhYOdINkBR3MdrYnrAJ7086tXTSulKkFCmqWxlITsDNdVWIeOuZoUIYLgpuba3pUOHzjRaj5/F4vIUz4jDpl3Q0QrSOpZFk;7l7LtzRYTy4pRPzw3GVu3A=="
+secured: "IzceB3sSNU2PnaC9a2Gc42b0Ldota+VrNg9tOWGANhlnnY1syezfattP7mFuFcViBINxRT2Tscm3NOAkST4/feG6NC0NN/s2KlnGeP25DcqukZ3sQXmHlNhd+01iUcNOsK8voh7u9Dna2rz9+pV+2lLZngqVRZ9bnttRJwjIvmnMOS7g+OYsTJGnxLrDLGnS8uEDx2u6ra7875FBzwuzLSa6jO+Lr2swnFpWwv9duX48+zs3/GznPx5yTWCIQlCnx99tGAMAU4pBReLT1/hNsVD/yyuAHXcf/CCIl1N7Y5es5QO4zaX5mphx5CD5xAgX63Hraz6ZhDYojYUV4IHSHA4La1FB5dBOR7WXRGqXW3K3q2E6CC0vxorhsS9hk60vxrPZcMbfVgCfV7CHmLshtQ==;X4gsjM96fvfEmDGsf/ucTQ=="
 ---
 

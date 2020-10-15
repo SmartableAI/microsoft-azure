@@ -1,14 +1,14 @@
 ---
 title: "Describe concepts of relational data"
 excerpt: "Describe concepts of relational data"
-webUrl: https://docs.microsoft.com/learn/modules/describe-concepts-of-relational-data/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/describe-concepts-of-relational-data/
 type: course
 price: Free
 length: PT24M
 ratings:
   count: 654
   average: 4.796636
-heat: 57
+heat: 71
 
 provider:
   name: Microsoft Learn
@@ -30,6 +30,6 @@ images:
     height: 320
     isCached: true
 
-secured: "jaItv3NtqTQostiUeqVvLZ0pFEOZUJxTXKkpTc/qGW2MOjcX6SE2qH+Ns7jzyXXIDQLX3NymV5d7N8v5riSAQqNfy/QNFpphk+M4W3lRSTPL1TzAwrQ72V6L0kTSA3lro4ZG9Qneev7178vwGdNkCOMyQOlHIPPyRrxCFOgkQFvDTXOB5razP6QBmP2OKIofZhIdyCTMOcYvMqxzfiQ4FZUTl98GS9hWyeAzuBdIOGc2jxUirI17yO8ndEx+0mn/JAxaP2JR35nG33nEoWpsePOS+3Gps0tfdKFY/l11WhFKscu1UpyjPAWuVttNM0OYFz/WWNrexCY859GKQ4Nyh+nt9F0nyiOYn/WQhwj+Gsr+w/DbxQhN3tWsfYsp+iFNak7nzw310nlFsuMq9DMUWsmKuJJcIJtDSmWVlwdF79Q=;jDqdGUc3ic5aFqW5RFMMAg=="
+secured: "V/jTdKtQYOiQfOGbLngTgk54V0K9UMKn9Q84snei9pQxnJdtjMaWsILUFdO/GNWLDAhu323UVHKvsJu5iSSojd69dQjL1B/gdpq6bQkI8PFijOOLCA5UhQhmU5Ipr6jtq33L9jWMDWEo5aZyw/+pEiZsgdfA7iqV+6NUIcfhBIGUs5S1MD3U3SGV36mSD223BaBTMqPEfe/oLeY2z32A2gkR5QGAf4xcnM8mSgX8eYUD7TERbVHh/l/Irro369me5BMx924Sb827Em3n9jLLTVgtOfHCg+PK/DrcCkym25SHeIW++9UX2LF4ylAZndvorg7ZAGwTFFkKHZzGXqWTLwxqDoNtAnTZgBm/sp5HqxuTigVpgTY16sMtKld5yGZtRznYypclMUhdebwfO/Tejg==;aeW7w/xzf4zuGJX0Pe269A=="
 ---
 

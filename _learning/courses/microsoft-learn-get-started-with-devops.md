@@ -1,14 +1,14 @@
 ---
 title: "Get started with Azure DevOps"
 excerpt: "Explore Azure DevOps capabilities and get started setting up your own organization knowing what separates elite performers from low performers."
-webUrl: https://docs.microsoft.com/learn/modules/get-started-with-devops/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/get-started-with-devops/
 type: course
 price: Free
 length: PT25M
 ratings:
   count: 6996
   average: 4.721984
-heat: 55
+heat: 160
 
 provider:
   name: Microsoft Learn
@@ -25,6 +25,6 @@ topics:
   - DevOps
   - Azure
 
-secured: "z8WthQSWB1ckRfky12RPQfP+eRLCRVqVYQ0f8/CaWcqAlmd27241EBT+j+3y+yHa2IRNkWHu5ubO2JXXjS8Vwi4ErsA0kM/lG95Aqs/ajXwYFDan4CEXSH+pz7UMs6CrBPNzALP9BaAbQYG73Vqznl9NymIKjG6TKBvDzUoTM9uSaZ46zyjBhoqnWjMBHxRiHBYsR57uwyjbwTFJn4PQqtAT4Jcye6xZMG+Sr+b/Ww6dn53JFUZLFTp0Kbp81wdgqb+Cyhv776stEOli6VGIdJTAkG8mQcodqNymnIEG210odUm8NPWUOITvfNkW57jrpiVsuGq5aezoFlHcubywtf6K7DDEC4UBc4pWhWsoFMh3rv1EPQQ4cAAlOKMIJl/Ya6gy1gnesJ2NpkunAa+ppKnWqxQUKjHMdK/2j1OxHog=;EGt5fv8ySESuu1vKvonZGA=="
+secured: "ty8Za0+CTOhfF+2iPDVHNKFp+zvAvdmEkdCK8ydxVfdP5DpdZn+7DUQLaKk3iY+H2aCnrnv+Q4KAe5IDDQYvo077RmKbjRYWBnJ42NT7qd6gBEhBmuai8NZhbi+g5VAmiHH7UcxJtIEpBkJtYeEZHF3WPSqq32wjZCJoR70/tgwpfNj2rhfLdX1k20NDKBKZoYndcoJst2y3g5juXzUNBBUzS5WzUd1LAbQcZCLr4qzsIIklPsXtm9ZKShmUqtWmDZnOC81Pb/1e2MMvbIn/qBwRxR0NbOargD4K6CaFSAB9Sq4hWCNeNxIoXQBsq3epVSJ8frCE0Ar1uRTcfGt8EYoKxX26piW9uf8oChyla4q7JH0vtS9rUiXl9VO7KK7/tyMrNR+mSCrtGidcz6MM7w==;IRgTkjrWoKq49zL7fx5Bvw=="
 ---
 

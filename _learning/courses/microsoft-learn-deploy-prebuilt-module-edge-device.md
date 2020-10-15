@@ -1,14 +1,14 @@
 ---
-title: "Deploy a prebuilt module to the Edge device"
+title: "Deploy a pre-built module to the Edge device"
 excerpt: "University of Oxford"
-webUrl: https://docs.microsoft.com/learn/modules/deploy-prebuilt-module-edge-device/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/deploy-prebuilt-module-edge-device/
 type: course
 price: Free
 length: PT56M
 ratings:
   count: 372
   average: 4.467742
-heat: 50
+heat: 62
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     height: 400
     isCached: true
 
-secured: "i+B2rIu2baeLij3IXzErRrM36gNG3vPUfywlrSOaH8cTiNM+ld134l0gxHLwodGGRf5Q4RZsHiaGX1rRapMQDhvg1OvkxlB7whJ/VNTmqMeKcVW2rIUNw58AUHp69v7++U/bbCOXBO1uHUjN3sI4GjrH5ZSgr68f2esdGGK97GaQe3iSRDATmeZfGz9IWSCP3jI5z3fDp6z/RstSwxUKDoOUc3guLKwE8KNjzn+UcZXUnaClgaFncS+T7fPvsgZJAJIbBMNIQdIY5ZTZK0bRmb+E9zU40huuc3IMJHzIPhvSUQQprTjj2b5SUPWl1yph6U7CzH/e8QQTdNrenOgTLPUQBGZ7qc3Iirrd4GIw+gv2rdf6zdNOGmB2GNtD2Aab65cTBqNMEARdyrUks4/l7vlfNT4kaCy0tGYBk2+TUK4=;s8IBBwZe+zJtwRd7VZ3tBw=="
+secured: "XdsyizbrkVUQ/l2gSf+U3ci2/1Dz2bKkfj86kiFXhEgPYo31mjLlgLLFZ5eo/Bl2av2kSp93T06CYLpBayC5hkDFkGnB9mxV8rpfIWn15OtODHZJZ7JvTa8YmEdvhCAoBgBbpyigxgoqZgFAMQzakEglw/9sQEFSvdFh0J2D1wbmZqtSgMx9PS6l40SqxWdWbQouGEfQ/H52u2rlZHvx8neshNGkJEE+1S96ggMB2gE6Znw5lMAdT//DwHG07y0WONWQfFDyZqnYkAh6r4b/hbNmumtmYgiyPF+7+/ab/8cbnHyQV3IsgXIZdqA4XqwyRFe4LEdJG4KCJ0BeW6Q+kJYQ920iXCxCFddnQcjh/Lf52g1L5jBr2nnDN8nl+uxmctJLFCFbpR+gmCB3gjQzsw==;8hDPHgVtfqvuT21DKeDa2g=="
 ---
 

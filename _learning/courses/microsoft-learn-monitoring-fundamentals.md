@@ -1,14 +1,14 @@
 ---
 title: "Choose the best monitoring service for visibility, insight, and mitigation of service outages"
 excerpt: "Discover solutions that help IT organizations with insights into the health and performance of their applications running in the cloud."
-webUrl: https://docs.microsoft.com/learn/modules/monitoring-fundamentals/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/monitoring-fundamentals/
 type: course
 price: Free
 length: PT22M
 ratings:
   count: 47
   average: 4.680851
-heat: 53
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     height: 320
     isCached: true
 
-secured: "LswE8dHEzTmY3hjztKLHRnu52BxGtnL5aGr06X8pRPrplZLwguo5id3l8kqOII4zOP1Fyug/D6fXeX7MmjtaI97QLjd3RX1f0OZpvP6T/E/O4PK/hmi96f74huDUO/QCiEPNpIVdDYNhm9hmVDcTfrVH7+WpJR0l0oL5gfx3rhUrRDC8VzX2N0LTtJDWUA5ypimgHsgMWxol16kuuf4PgJGFUe/wsxEKKYorJvay0bCj5OdI2I5zRL5MYXLV5w1Hoftbk64DM7A3ljzrzax4GBDDXmew33BNQfNL+tJ/89gi3SSkH8IAwhsBjLt4WiZ6ZfX4nIPzGHCJ/eeIsR6QpQosdj70Tg8SwN1MyHwMWxNT+BEWo77uOiynVXsmBPy30CHcPJ2A80RrzvV0WGnO+wHo+hr/ZdTaj3crmeGjWJg=;eqwtHWLIjC5c4FkuMMG7lg=="
+secured: "Mfui07ZZ2SFz69r6bykB2Kg6DVBAZAUzOsGl7nS29AuHZ/saCW3nMjsoukGxcj7tVtIWuYHIelJxp25xr2dRPweKOMAgj5pLO/LX5WNSYC0j72bjKV3lbb8ij5wL2sRzVVe7HQl+kAYJJXuwCd1wLND6xaXA1Swsy2vugKVNjUv4QL9LZIiD144bu4k1ImdGg9L3By6c3MTzDfHXBqbgOo/ghj7pCoC5knb3DG908jXjPXuka8VZEE9Lu46u6g50L0phnLJBD1vVfED7phfKwjOI7/wegf0kbW5+eD/XYHDxq6Uijijxl+PnP9MPeo0Y72cayPbEz5bNBcmCU4SwhZWBCgQ6IxMs5mquAtApbAuae1nUO6pg5Cm7cE2Z8Qq5sMYFE55sDhvNq+U0F94MrQ==;7aOAK0EM82w8mGpmV9BSsw=="
 ---
 

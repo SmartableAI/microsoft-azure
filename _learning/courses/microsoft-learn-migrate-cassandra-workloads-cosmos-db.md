@@ -1,14 +1,14 @@
 ---
 title: "Migrate Cassandra workloads to Cosmos DB"
 excerpt: "Migrate Cassandra workloads to Cosmos DB"
-webUrl: https://docs.microsoft.com/learn/modules/migrate-cassandra-workloads-cosmos-db/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/migrate-cassandra-workloads-cosmos-db/
 type: course
 price: Free
 length: PT14M
 ratings:
   count: 44
   average: 4.75
-heat: 50
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     height: 400
     isCached: true
 
-secured: "u4aAcJF7BzGxJ/yZU0Tf+eBINKRaRmeesdDHDQbd6m8DK0y2XwrIuGdQvbCLclzbjAS56HBbVn0MZP2jT/JSGemKfkHRgFBqdEol0hx/KI2CnDrtpj8VcRzaex3bPFUm4FzJnJocGrnBzNCN9zvWwpjgstCbyF5JhtFJoL5zv7ZMoEYJo0JqWuw/rzdYOVg8d8V36/nzp9FxybehmK388AofcQcM6JXCFXxYDDb7tEji2hgLcLA88NGtyRmw3dkXdDiMI1pkWn4+EPgxM3xOPRH82HaCXEz46/qg1/6a3/GKpMUt5uVIIMqGfMhwpC8M0HWxMRWgloFnrAFdARV95/lo5tlSS8OYCQcw9IIfHsEzt998JZESlgn8BIn4I9qnhzlvWA3bvJa/k3Yr4dnKNjeIxhntmEGSnYsWaRWB0EY=;0vRBR3Tgs4REe3G/KJXOhQ=="
+secured: "p0LgjawCej12wCYSPOv1hBsrACAW5VTEkLHGADjWQ1pPXGpvAILLCWRv++V2mgX9Ht95AWRyH4PVD0I39b+vXAgRpeHBpx0dHMXPVX33+tTIvH/piKkNCVNHQINMFBfs62sGW8ZNcdd9u0oY2P4hOK5S1qYlXqHa9fIefk/5f+qoz8iqZv1M9off2HcH1CDZ8LmRLmP7IYR5/o3PVmLkB5JMPuQhw16OPNz6FzAdVDC2n5YgelET5GvKzqWqWzI0VwJMAkaPTST9BugRKkZOvGCl6C1RBtA673fjDIt0aSx4HWIJfVFs5bmHv8gfqhJuFKZXH7IFNYxYq2wUa/iR+TCTxwugqydlb8slRDA5TYEZ792vmjkv1xjS8s2sl+QLOZx3QqL9JRjVoo5HiNJD1g==;wG/znT7sGBoFUSg/Wdb30Q=="
 ---
 

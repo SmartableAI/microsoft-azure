@@ -1,7 +1,7 @@
 ---
 title: "Train a machine learning model"
 excerpt: "Train a machine learning model"
-webUrl: https://docs.microsoft.com/learn/modules/train-machine-learning-model/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/train-machine-learning-model/
 type: course
 price: Free
 length: PT53M
@@ -32,6 +32,6 @@ images:
     height: 320
     isCached: true
 
-secured: "+TQ1OrUjNOka/FOaFRX2wMQyLN0NwOa4s7/4rYP9CMZVUcPpgzJCg06tkZaDz8nlY5Eb4YbCvrWGCOFBTYG0+/ZN4/SOInESEcojc589sTJ/7kQmyfaVsbRk7B/mnsMLIB8qtK/KfgVbPEnokzuJnuthKjokvYM7HHaN22XWyrwZb+5Dq+BJMp8iy7BeTbCV2hEMCOr3IlcvWMVWz6sYlOTzsEDxMWN0A3Tub4WCRWHDmwGdax4qJBw3aZ3PikzMwTZvxildgQ3hu+dIkAe+fxntZEEfWsO7M8P+ZQQzizjCX86/oCYi0Js4ybMwZUZX0fgWANEWWPWjf9QwgodSIiP4C/7SNRGfSP+6hMqQVBkPl4jYLpFbwLFskJJpOSxFD3N2ELE8Fs7tyK6pYFzeV4dAcqZiHR+XsixzSLio3zI=;Sj07PteR8N+T9S9WgEMCLw=="
+secured: "8qluQCR5aan9tjuYPFmb/MypqTSxvWhJLNS2eMTdAicMgJTzvK2Zcs68F7bjHjG/yD5FyeL2kNtzvuFun1fu5P1IiYE6KhYCiYxfzewuY4GyPwjfuXdfo0w+jCDESNcijna8CFk9jAYDEvy4VedwW4p13rVxWQkoqVoWXidpNWs750TwsTl3CSH+OK9eonG7VECZuOvcJrhn+NmYFC1DkF0s3ENZOst7GEHUIq7ts/TjAPeL6TI5WGNhWeiuDc7Hh2NxqujwcWpVCC7tFHJyXaSQO65RBns2pFaz2NLf4E7WbDpN5t5hyIekarsIVhpG+IzLpSk9zHT4c2m6ryfD4Rx6ygcw37F8TgX+W5ygl6dlfFEEFrtlzeI3zNW7bv1sOmgSvxXHA8rGYJ/SfCNkIw==;NRusCTEbBi+NavexNLplrw=="
 ---
 

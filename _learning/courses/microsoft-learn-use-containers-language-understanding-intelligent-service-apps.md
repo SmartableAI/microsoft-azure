@@ -1,7 +1,7 @@
 ---
 title: "Use containers for your Language Understanding Intelligent Service (LUIS) Apps"
 excerpt: "The Language Understanding (LUIS) container loads your trained or published Language Understanding model. As a LUIS app, the docker container provides access to the query predictions from the container's API endpoints"
-webUrl: https://docs.microsoft.com/learn/modules/use-containers-language-understanding-intelligent-service-apps/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/use-containers-language-understanding-intelligent-service-apps/
 type: course
 price: Free
 length: PT18M
@@ -32,6 +32,6 @@ images:
     height: 321
     isCached: true
 
-secured: "a2HFCJJEhsIpqp7l+0y0EWozFuaays/7Iw6/wS6hQkm+bAIinK2AWIbESwGXimI34nWAwqsLlAgGsAr66mFHqtlEDhbeaRQ6wwni+B07GGHg1uIwCZVs6Q0MhffOFVg3Uf2t3FagS6M35Bwa7sNZez/vtLVbTVT3IOARReTUxwj33l+6k1m1TZlPcUlfMboDZy0PQAwUiLWEOhpiK2iNV0QnEt14lYhRmL18+EcRQvttF+Y7fLW9rIArr0FZihgVISmgKVV/g73IGB2mrQo+6PuI6QAI20xrNk3FZQK9ChfuI2jmE18TrB1GNelxjq3H7Z24Ah7TTYM6IUQAr5z9kTQtOyLsgGJNNzzLU1cU+TVHmp/YjOIjmMQ31J2RRkpesyOssG+ULnpslXypdyxSuqd/flbcCeimR8a+ualxTFU=;zrxpw44BgkEwS+zhGTxxIQ=="
+secured: "wNbXIqru+5PmhmXfOJQ+T7Q3b13mtfRsJNRqNhbnZeuhCD5zUWtd3T3gTh9ExLuNPg8Rp3cQcOf0MK9SoanssihjYP1I2xSOu+3tvj03cMG+KuKn8MX33ZHNZKsH+7+o56o71LmYchiqcpC2tU8Z2pId9kM1IBdEhCPunGpyORuj3WqdRKMqmb69WFTXtAFipFmM24oKKlEy34GXqiiIV7UFPyEK2cDXNwEF+oFHTWFiTOODZ0AdsIlZDA1CzMIooFZuUvNsW1EUd0PcHa+2qtf0JX3Dp3jOpKGYLe32s40e87a59rtT4isXZmNRpui3ydVh0cMZ8gTeRgQdKU9f53JQdMhotwq6b1RChLLfeIBSLF/L8HRc8qOjsRdD9MdRebf3x7szPMXoaDZGDtnJvQ==;63t1qYiAneZeoQTXLaCWQw=="
 ---
 

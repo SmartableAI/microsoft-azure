@@ -1,14 +1,14 @@
 ---
 title: "Build a Node.js app for Azure Cosmos DB in Visual Studio Code"
-excerpt: "Build a database app to store and query data in Azure Cosmos DB by using Visual Studio Code and Node.js."
-webUrl: https://docs.microsoft.com/learn/modules/build-node-cosmos-app-vscode/
+excerpt: "Build a database app to store and query data in Azure Cosmos DB by using Visual Studio Code, Node.js and JavaScript."
+webUrl: https://docs.microsoft.com/en-us/learn/modules/build-node-cosmos-app-vscode/
 type: course
 price: Free
 length: PT59M
 ratings:
   count: 308
   average: 4.5292206
-heat: 50
+heat: 60
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     height: 400
     isCached: true
 
-secured: "IZlmsaolQq4vsjRdYXLlgtmrPjJCxB0w7qvZ714myksy8N4bBpV/kRIzHZa4TuMHxASI6I/V3wy39y0oWpQ2iQHt5FkIffCu8toqbhPCeZfznYAjIN9DGZwjBFWNe01bX/g4GbtGZqAgQKoG7Df9GQJylQrt3ofWysDuHs8utD6ycOuXMjSia34QXqq5fCwoEmf7q6idVj9C1U7iA0StPXxUWzvg6Z9A9BeIiIwuo3DYwFkqotWLvi8K371c/jYhFULtPzXnfKX2lkKgQuzNJbPIBlXvq0kQjJVDUI4MwWk86VvO/QecyChvQa2e0vHY12Mb8WeclXuYC+OYi48aWcR4Fp9ZUIoVcDVJxqR0+gBCqQexu08edNuieWcTz3hxBSp0Gn50NOPtmnYALa3D7TFLIUWKkFSArVgd9ZX6zXU=;MJy4XW6kp3znp5x8q5RfWg=="
+secured: "SCRkPsAaxLu1ckZ4C8MX1lRIXpTuGkwNJq4YDkTj9QkVQisMZmQSDBp0isqPgE9+oLETfXpKKIa4J2EHz7bLM0Bqfd3pmefxOHlrJWS1zfOs0Rw4LNYw/zrdtme5cOSaD75xMP+YgxAz3+nAS5GFIoNayggO/UI8YSxa5RmQuy/iBR4PsMKNVU+CborDg0yq5coPiw+J4StflIkQzPZ2oLoPvFHKusPb+LNmeHsxPLyuxrhhgpG/5qzGKYPFfk6U9bFdZJcmJTPtJ7rIbCWqzj3Xpdiim19ta3pxDDRVY4WZJDehvSFDdp8WC2ewLHOuc8vSuXcA9YUbo8jtbeI02P5w+a933k7kKH8YPFdyXODSmdhdrbn6pVZO1AXfY5HJ/YKOxMHFctzAhZWJVnLgTQ==;8nYQl3o922GYckGyk+/yug=="
 ---
 

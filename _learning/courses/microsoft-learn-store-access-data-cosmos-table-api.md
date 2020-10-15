@@ -1,14 +1,14 @@
 ---
 title: "Store and Access NoSQL Data with Azure Cosmos DB and the Table API"
 excerpt: "By using the Azure Cosmos DB Table API, you will benefit from the low latency, high availability, and scalability of Azure Cosmos DB in a Table storage application."
-webUrl: https://docs.microsoft.com/learn/modules/store-access-data-cosmos-table-api/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/store-access-data-cosmos-table-api/
 type: course
 price: Free
 length: PT29M
 ratings:
   count: 1302
   average: 4.6006145
-heat: 52
+heat: 86
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     height: 400
     isCached: true
 
-secured: "20tPHtUHfcLyUw+hjm/NW9eP0UgOSs3SyHpmd58merbkpfqJPrWQIzD8VJs3/fM2tpbWeOEsn1cuDwKBsENi+CLC6NCI5ITd9M4Sf8wZzHURwcEd7bfOT9RC2kFTWTKvVfqqJwpV68Rf+14kJLOax56QpfqgKJDhpL4Ve11mLvJJ1aefYbmaXkqmkyjxu06BuCdpwrsrFMMKYRTsO225RcqlbH26KgDk/vmSsRoWt7BPYBAYg5a89xeFvvU/FI/ldjVL//tif5QerAPBHdJWsTL6QCqnF/KE2Iw9O2l2eqimsCL4OWziW4LaLGgGg/cvas3kKZk5fb8WUBnfft174Ix3iT2+aaNS+dZAeWl+z95vtWiLQedlzsxf+sbrWPnmfSySzfzxArQqo5IpZ2cnGOLvK8hkvz+i8fUn2piMJaE=;1zg5CKdoFSesv5U7A1qCLQ=="
+secured: "tnH6uVukCgOhThR3jBCnU2KP6ujAdSICWh8rYyjxKZaci0a/1uKyh9EjA2m45/3x8vBM0hT3uRP4cjZYp3PKB7BVxjQ4SZe86zaoa9TfpgV0LVZt60XY2AqaxYopGIw+UPRzWyxg8KejaZFX71RSuxqMBqNffvqNuWby4kWQuOYy6S0Jkt577Oac/T5rTXM1xmEnj/8y75+sXLVJukaCGf1vy880UeD4ORkLStv7xxcdTkeRF2cuGEPMhbJYy3qKE/dAKrz5TImq/4jDxWVhHlJxg+rHEMVpK1WVivMfBkF5b9gGNgz+frZxOC32WxeOuNjZGDu7bL0J61pj2hDS2ao6d7fHPs+3Wjchmm5fQgTwzfrNlJ0sKhIeh/gDTHqzl5ziky11UjdtAdwXt7QoZA==;yHUPly2taH4CPZ6nqq3M3A=="
 ---
 

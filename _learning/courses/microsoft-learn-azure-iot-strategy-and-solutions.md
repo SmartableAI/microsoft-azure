@@ -1,14 +1,14 @@
 ---
 title: "Microsoft Azure IoT strategy and solutions"
 excerpt: "This module provides an overview of Azure IoT, and describes Microsoft tools, services, and infrastructure. This knowledge can help bring IoT to life for your organization and customers."
-webUrl: https://docs.microsoft.com/learn/modules/azure-iot-strategy-and-solutions/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/azure-iot-strategy-and-solutions/
 type: course
 price: Free
 length: PT23M
 ratings:
-  count: 5803
-  average: 4.735654
-heat: 56
+  count: 5804
+  average: 4.7356997
+heat: 149
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     height: 400
     isCached: true
 
-secured: "I4zZmpN7LRilSko9PV71Ltr4XwRw93q5qm8snCvE+/jkhFHH3MIRqoLVn2axu1r+OlHoydW4ma0etJM/ausvAo4m1qaPTAwEhQ/d0maO4sPcHgxVWDLloIX0VYjD+1sG2135fry0luPWk6okVsjjEEXOPBQ0rMKeoaxFFgonHY2MrhvxdKPnX/rls6o9z8OaeO1S6zs7nA1aIu+u2nP5RqF6QpaofvhWsYpCRQoS57M4F5nhKf8CR9W6ELVWsI9wdVnKIeOHvwqUcvorGSvkk/X/2UioO41nsFAu6LqlSXPKCu4ewUDEpCXYh1yQI6Ka8bD4dERBIWstNqCpmm4wLNj4zh+OWmCwfgALE8Nk7PvnMsl6+kOND8cCuT7b6brk0o/VFUC32RfQcLP1m0gZOMe+IOgdYWVXOHNJn6QT4Ss=;K4hMQVBklwLlHOY5zR5K+Q=="
+secured: "l92MJbTMUQIuPP1qxkh1a3xGOpbA0bBnkLOJvYotpoy+gTXgTZbfCm8SrZsVn19pG0M0fiEOeQbAaFbE67yxTxGG3i+0O8q5QvRyxn07AZCHInw5eZoIiv5HcqKvYm/p/RywbBs3cm61m6BkFnEsoHFYdzj+QexbN9WsmVsZN7lmBwmP6VE5tR6VLXYoYuDAoUhwN+XlR2n5sbzUummqY57W/KBFqtQ0Lgg3UHaOy8lCzGn+f6GiA3edH5f7E2PJ9GshKbwUeQv0bA6IBBW2Ii2hzFqndHgT6j8BEfGaA+8H0IKp4j3yu1molz9y4s/Sh5DRlzFNr925TWEQwbEKmP5eWX1YCniDJh+PWlweEBoLWDVbsc9p8BmfDik/y8A/XQzioGks1LQEC06vV/QWIA==;JlUTnfYYbwmva5cGnjTFlg=="
 ---
 

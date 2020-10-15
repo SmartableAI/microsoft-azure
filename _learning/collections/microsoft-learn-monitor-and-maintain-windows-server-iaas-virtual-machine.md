@@ -4,7 +4,7 @@ excerpt: "In this learning path, you’ll learn how to implement remote administ
 type: collection
 price: Free
 length: PT4H7M
-heat: 61
+heat: 60
 
 provider:
   name: Microsoft Learn
@@ -31,7 +31,7 @@ topics:
   - Compute
 
 images:
-  - url: https://docs.microsoft.com/learn/achievements/generic-badge-social.png
+  - url: https://docs.microsoft.com/learn/achievements/administer-and-manage-windows-server-iaas-vm-remotely-social.png
     width: 640
     height: 320
     isCached: true

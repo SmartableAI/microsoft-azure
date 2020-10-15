@@ -1,14 +1,14 @@
 ---
 title: "Analyze receipts with the Form Recognizer service"
 excerpt: "Processing invoices and receipts is a common task in many business scenarios. Increasingly, organizations are turning to artificial intelligence (AI) to automate data extraction from scanned receipts."
-webUrl: https://docs.microsoft.com/learn/modules/analyze-receipts-form-recognizer/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/analyze-receipts-form-recognizer/
 type: course
 price: Free
 length: PT24M
 ratings:
-  count: 284
-  average: 4.7288733
-heat: 51
+  count: 285
+  average: 4.7298245
+heat: 59
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     height: 320
     isCached: true
 
-secured: "ejz9DaBN4dbOnrKUuBng65wwL3gp018SKFCAZjynGQIsnxjMoDPIOlN5t927aneden3a5nyaHM1aSBkDgSPX7KaSJGccOLl2z3WNi/YZHGrLXzVPw9paBMcuJPUKcBIb0i0Dwbki0jOYIs99IVY1fI1bkMqk2sBI9G2EJbhkUIQ0QjR1FxKyIE2Oi797atCT/7SsD/NVrkF3xevWnl2cjscQB/ZUqMeZlOjGxyTRor65OJudYkctFKpH+EQxbzQEDOcIib8Xkj4ToZTp8bkSxDyFJbeOQIYhWlfOS0EFuoazD40T62qAwL1vdJsI/emU5ndcHlgyz/fuo4LwaLTomYHtUqFz92zfOUzw/gnMk83xQTAHrZ35Q7rYA0TsW8UcKAyDQBtOkfvidu2CwCqTIOGznQbkitiduHnslAmil1Y=;hS91J1J9tWCc8VXp+0f9BQ=="
+secured: "3oDkx2qVDSHJvFpWZyWCN7afAasYRjSV57aST89AwbdBeGpMPuaqPwNfUedN/daSNOSCU42SbXT4NnmlCofP8V4ghMMUl4TeSeR29hYwq0ZQWPnrCJTy0qCoOUIwzkcui8Ep9BkjmAlg54bbDVzTYGxkQNFYDhP18PO0Dvvy4yLsFEMiEev0oqsrLjecynoXKZdKvIavatC7yyqQuWvNhik8l5U1Bs/IYbwe5O5KzHgfPYXsMstPQnLojYBE8I5Z/tTRRBk0FQHj1L95ObxcC3EGzPFLv6hzZmgjEehobNW9Q71rgZ8qHN7v69gL+zRKWinzvyXmjTIEwU8KJ57qJTI4oDK0fwzgScY2lnZK3O7jpG99Uh6rbjOqbo1LABtTLuKW3bk9CdChfdRWUyTe4w==;z7Lzo7dYOcC0PKwH2J2Taw=="
 ---
 

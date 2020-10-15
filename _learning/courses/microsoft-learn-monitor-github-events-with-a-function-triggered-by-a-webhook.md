@@ -1,14 +1,14 @@
 ---
 title: "Monitor GitHub events by using a webhook with Azure Functions"
 excerpt: "Discover the benefits of webhooks when you trigger an Azure function with a GitHub webhook and parse the payload for insights."
-webUrl: https://docs.microsoft.com/learn/modules/monitor-github-events-with-a-function-triggered-by-a-webhook/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/monitor-github-events-with-a-function-triggered-by-a-webhook/
 type: course
 price: Free
 length: PT53M
 ratings:
   count: 1678
   average: 4.6215734
-heat: 53
+heat: 94
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     height: 400
     isCached: true
 
-secured: "KXx3/zQAlkqpfWm4/r3z3ckK5++KNYAxfoec9cZwMzinjcq9aw/wirtgnc/xjAK1TKwPo/aVfbKRRUzEQJiNIEF886zESHeisz4GjdP2IDtwgrKYSiapbPMcwdXj5L1LRneNGNK+CMnwd8KtIFDqzIZXz1KgRJ/NEfhZ3hLLxd0dlNhDWcSUv6GbLZ5FfmFG1SxTxnKAsJsD+wvEF/GxiDgcrHkWQQ9p9doETUqhp590BAELYeb9FXaXlhhlZcl92qcXCCR+cx3hMpmrTwu16aet4wm4pvZCgKBmz9YMncYxyNzq9P98jJ5D1gQVAZbnKK0lULHRzYOY58gQWP6ZZV/+0BKeLamkDc5qMPK36+awpS+bu1sBFipw562xRaQxhA7CahhX9j4rRdK/EEfz5PPNsFHLAzbIw1JubNzHW4M=;GuvbCC66b3AjVa8WBPR/FQ=="
+secured: "XamdcNg/7ncTkuPRqeMHccuf2B2Nn4G4jy6JVA+1+ec3qRckzp7HKyd7wq0MxvWHPJRflzDCyGGZo2DqJW3UFtIsuqP3wtL52+1M0lbizCJzIEKe/ZOlB/0LyT8EWyLd9u5ZDtRVFL9uK7kpdsgTwLofMeRfowiu3xKJ8CRBvalj5PYZelFANlOOQTfWI7xVG5W9IdSJU0Y8ijrgm1spCz34aN6WC39AxzLIe0qOOGDaLza4iTqAsW92cnVJkBDo/CifQbAEIEM9dX1nq6/6WLtEOF4UJzXxK1juCUZFPKiG77bekLxGSptHpASKSrDw8g/8OIuIEOFYHp4qqc0NtIOBu7vfENj5doDoXX+X1heGrunlKUGZaTFMfFE126wXVmxqE5P80BPnVwwWaKgvbQ==;aUufN4Z6dSVR6eO5S1wYPQ=="
 ---
 

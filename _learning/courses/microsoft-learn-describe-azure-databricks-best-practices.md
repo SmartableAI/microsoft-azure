@@ -1,14 +1,14 @@
 ---
 title: "Describe Azure Databricks best practices"
 excerpt: "Describe Azure Databricks best practices"
-webUrl: https://docs.microsoft.com/learn/modules/describe-azure-databricks-best-practices/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/describe-azure-databricks-best-practices/
 type: course
 price: Free
 length: PT38M
 ratings:
   count: 44
   average: 4.7272725
-heat: 50
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     height: 320
     isCached: true
 
-secured: "aemnLbqj4ZyC6yswLNjobv7CA4FfNT4x0wr+mSOrjfKq33BesZ8bJfV3smPSWLVoAW/QwWlk/FzWMKAOS75ILMHbdeGv4RdGCyU5T0dqgk4O1JO3wQIn4wXZrfnCH6naMRV3a9XMiZ7A/FnUVtNCCu5/Uun+d0IF6+Rz1O6Fyo+ey8F0tHyk+o2aQ9SZc+k8zyNfaLYPP/kTGC1qZ6JssnvbjtK3c4+T4DJ+lLoyTmfmyAhxOVHY+d7cydL3+7yRYvaspXvxBg0vMOwARNwjZPoXvYkoQRbfkoGoJAJrT9ToCCwATNlWoMqPiOk8VzDFC1aPpj1u9LV/xALtAx2pBx996b0glcf11hZyDEpLEyQvGUzVRg3WAEx17EeXJdTrIHkAW+Nmy5AZT9ovf9YpYuB7JcPupGgyEu9Za6tyHAU=;KdAFiY7aiPaXRjePpk8M0w=="
+secured: "/Or2JfvkeLHp8USJlLvaQQ71wdFBxehJhqiQrsu/5kQzhEGsw2b3uRbt0jimVZlnKTwUy7I6XsY7dOXh07CAieyAw2O4SUtAKabjh7+n/LbnhyHVdJCoGdXHTBTTmGseeLThlLTtueAiWYwrnzW6kCDBeqVuKJPlOR21UBvRqyZjSHVO1H1oLtVH/T4K0vCOqhYssNzRu3xRe5blz9CKBh2iHeKQ11Jo0fj/oUj429ZyLkdFdy9ow5+jzJfhCO1C/AmQEdvrO6VwKd1wgfxU51IVZqLzeBD13bwEIvx/s85AhvNFGG4iESomANI3Ilwu87NY0pJXa9QFdc2fge8w7ejCuJJ1gMDtB634Bm0P7gUcNpIu+JbMwe1Uu02PjoXt0po35oCfLVbdk2cWmTVMew==;MpgN14E1WH4f1WRiav1qEg=="
 ---
 

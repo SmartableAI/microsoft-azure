@@ -1,14 +1,14 @@
 ---
 title: "Create custom roles for Azure resources with role-based access control (RBAC)"
 excerpt: "Learn how to create custom roles for Azure resources with role-based access control (RBAC)."
-webUrl: https://docs.microsoft.com/learn/modules/create-custom-azure-roles-with-rbac/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/create-custom-azure-roles-with-rbac/
 type: course
 price: Free
 length: PT30M
 ratings:
   count: 1981
   average: 4.707723
-heat: 71
+heat: 100
 
 provider:
   name: Microsoft Learn
@@ -30,6 +30,6 @@ images:
     height: 400
     isCached: true
 
-secured: "LjhsKvOrP0aIwXSQAXHruN48A4eyg9RNn7oDFjJNOgKfXmAJpG2HeX1N5iedtEkgukrrM+iH4zealS2KUJlk55zEMEigmNTxuY0Z6Dbw6sS2D2OWd/6n0i6pj5DEL2c/ukLg7au6iNZvzcBFcVrXwJ4J+vflhIJaDHgdF4lsBNogRJ70i98XwZ9KqcR9LDBG/vmYpoab9ZnlwNcJEKyniyjWWQlX9Bx7ZclxVPGX9f0OyPpNSDAe41Y8Q34C4IdghPc13L9x7F3wFsuNEvVB0uJD5ugCyiAjpVHw0XxetwOyV+UM+fUrWyGM9Hs/pIwDVzDZCa1Rc0vXjD2Z2Kqyk6pjTlR2J7DMIzZMFiEX+7sV6KNJFsyiyE+FV7YPyKPVXCp3zH6YansHQNfoVqO77aark3Aki8VkiKqv9snqZCU=;3AqphcijEdnpyWZZXeCflw=="
+secured: "VdkZy6hSoD9Ru8qGwyqIL3plCFML+AP8oz5/Q+s6XYjgVyieaEz+F8JKIQZk+N+//TxmDd4wBP0b2iO/D+A3kf8Ovr0pMHOWB08Ti6LxuasdgvUOBXyvOPLWUjYfthCjfycjFA2uq07zWbqYSucGgIWG397bxihjNLoYKhJ5Nx32g/GjCCey4l+oM6ZjWPC+extuj1cxpiqjSNUPf3OPIPKBtEHd8UP8tSE2SUnulL7Mi6npnKwM8SrMyFYkFXOIT2ZDNr2ruM3onKu3RWZu7E+IhRc01a1X4aYuQp6bPPLTO/iu437tk0ZrIEraNz0pabJ0NZyRnip+zh77wkrZI5Zcpq2Ck0SFbaQydbPHb0j01LJj2Sr5waeUmLGagtpeaQAow0Hm5xOOCFSnR5TNcg==;X26FDkD30BgtSlmA5J1U3Q=="
 ---
 

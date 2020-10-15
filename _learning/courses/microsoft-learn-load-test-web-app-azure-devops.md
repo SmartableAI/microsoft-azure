@@ -1,14 +1,14 @@
 ---
 title: "Load test Azure web apps by using Azure DevOps"
 excerpt: "Discover Azure portal and Azure DevOps tools that help you quickly and efficiently define and scale up load tests for apps."
-webUrl: https://docs.microsoft.com/learn/modules/load-test-web-app-azure-devops/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/load-test-web-app-azure-devops/
 type: course
 price: Free
 length: PT54M
 ratings:
   count: 131
   average: 4.5801525
-heat: 50
+heat: 54
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     height: 400
     isCached: true
 
-secured: "nbXF/SxiJoTx3vcheikW2bajPbyUCW+Rw52xLQy41XvyGB2AkCo8cDSpiKUpF8yjHI0Y9BJpHkyT+sh/o16ID+6iegn3sKCymZQ0FMNIy41MmbQbKsFaT6cJSdptaXpQKuO4pk4IAKSH/JWTD7YQLrdSpyrblQ7RCIVkJdVxv97ZDlNM3JZ12SsUe2ySe4p6GSHGCcvabOdVbUFP4roDZesFBd8fD1nuuvuZeFpWBoOlrHqkNgCVV2SxU/KWPq7M5WV7EjqQev4PGcAI/J8hpDhIXpU3/B2Ts1l6Hcb2oA2MVMRO3XYp5TEZB9XKIoHzCz3RocymHryFL4I5pjrx6Inmu7XTUjESV6ln2ncWwsgPcFhgqAtgUJE8KBLNeCoRtNv4sztYPWnQsoe+Z49qksjnUaWWR2082V5joaYQUrE=;mCo9MI1xFm6JjwqfsWk45A=="
+secured: "5e3g1hXsBSomrQB4kLzdH8QUr9+Rv0UOi2v07Y3MLi0xpgWFBlabF3tcj5ZmBBMs2z6nVsbmg0HK9vGz7kuWZFtVlEz8631xiR4grgzPs95BBizwkfmDyjttK5GXQrTvcUoLKajdEvBSSZn79+M4Hb9O2wzKzrUrJbKff03SA8jcZY78SahUtMgCTnKFCj/FnyL1D8mPaHpopto5ukNkFaoBaVjnt//GF3jhOq8UpB9v/87AivuXeXsut5P2fzE5B4OIrJf+jQSdOgZtTdvcSHM8szpcJcE7/Rmsk6+Jc5EfAWas60/ZdrW410I5O51W1lJen234+dfMwEqI8DGvTKglFPVDQmrqkvfFTHWchV3iwbZRxijSE5zJLsJnJIwc8uYR2w8aab1mPULYO58vRQ==;esMo2TIOKUmO58X+GvUccQ=="
 ---
 

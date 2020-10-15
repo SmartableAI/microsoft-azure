@@ -1,14 +1,14 @@
 ---
 title: "Train and package an Azure machine learning module for deployment to IoT Edge device"
 excerpt: "University of Oxford"
-webUrl: https://docs.microsoft.com/learn/modules/train-package-module-iot-edge/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/train-package-module-iot-edge/
 type: course
 price: Free
 length: PT1H26M
 ratings:
   count: 132
   average: 4.4469695
-heat: 50
+heat: 54
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     height: 400
     isCached: true
 
-secured: "TG+Vl3B+99H9rH2W/7JscZLuobC89+LObogt+FTJdD3GEwNP7j/y9JdToOalzCcnw34B/1Z+/DLAELawMrM0AJGvluf2UIcumasftnWq3KWp4e1dU1IqzOVuX0qb/qLtOWk2HJi45sR49DfWHVn/WcFGnxc8hGRxZIT3d2Jrip6Jt5W37Z/De4/kgerzLUXgMMY24leo1nudsbrSwHgipyycdazYu57VyXD3VtRv73VZ8i6ucSAvnX3oal/VVDQycrL+EUsIlqt7RR0m/hXlJMu+LdXvxV6IhpkT5k/v8EcxrBu64xmPFQxqBrLfyJ+rB/nFW/nvBdH4WEEOzEsywYRVIAMplRNQVQpHTv3M9vWcCQ3mtUIOV25RR4L3trSaFh67SI6t12BktsoAKIaGjvc7SDVw3YM93SNw0q1O/WE=;9IRyIkIr/dw08twI7PE9SQ=="
+secured: "R2RwqYN79raGZmoCkKhrWYpXsZWA/syGAnws8sbZHo7S37XpKsfCI3GJ+Y8jfA+9YeOTyh+yuoC1t8K3UvnXJNm0tglcAFuUpixaYnBWPFUnQ530xMtm/d8uXSm8Xz2az9Ra3l8c9c2MmdpiDEfcolDgCyalgEKBJukVxZyTSqQimhz6Vr0v20ZW2BYNpFxvlyrgCIqsiffWfjIZSvGqelyr0qk4iK5ayImGpcHIStwoXH53GuoRRRYt/AxUlthF/OPHum7H4uDnKUOEzDKuye0zTLXFkMofkCYvI4+gT514LXb1fyJnsOfHRfIS4cwVShUwW/xIb7/aoW1CgcledLKS1bLrMG0aKJSevTb4w5h9irhahKhSKxnCewKsMaKiqbWuAr2vyuBG87BiqbUS1w==;9qokKiZBTtYaq5tGSVpUxA=="
 ---
 

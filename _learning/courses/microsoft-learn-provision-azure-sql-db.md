@@ -1,14 +1,14 @@
 ---
 title: "Provision an Azure SQL database to store application data"
 excerpt: "Find out what makes Azure SQL Database a good choice for your relational database, how to create the database from the portal and connect with Azure Cloud Shell."
-webUrl: https://docs.microsoft.com/learn/modules/provision-azure-sql-db/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/provision-azure-sql-db/
 type: course
 price: Free
 length: PT50M
 ratings:
   count: 4735
   average: 4.6519537
-heat: 56
+heat: 138
 
 provider:
   name: Microsoft Learn
@@ -26,6 +26,6 @@ topics:
   - Databases
   - Management Tools
 
-secured: "VckWkdl36AhePAvyZlv6OUMMl7VMHoQj4t2dkRzAjsiMvHDOkgysL6YLUUs9XvAdVNwm7/WDpBTjSzjOP4UY2NjF9C/7FpSUY08LOlOKEkYBXq2sQwk53y3DLuCfpWAy1p9RN7ubLOzqKugtJQQcdPrCFb5DB2qb6fbNQKhnok/olHxHXQLffpiaKr7yRqlb0sXltcayxtZBTlXmleZGUzwX3Nr9/76x18MubtT/vVxG9jWwhMa9on587tibtAEizQXOyIGERRJISdVjyjBU78pBPEKbNatN9ZPQl87fzohn9zfBV4tJ9/7TSeh5m3debEXadLiJPMh/rWwzLI/fBgJnz1FirbwODS1oV28w5NjPTLy1rVt1Zi2UUCtqPNUo22AHFoRXA9TAcblbliuKdw6nySZd+fYLDsghOcBxDJI=;MWVUUikvPySioj/Vhai9sw=="
+secured: "+8Id6rydiI5xKykJ3E9Vxh8AHtyOGSvyA9mupeiCEs4TRmTX3OKJX+B3IczobT666Sy0+fDi7sB3joSW/Vhdseu+jSRir/8zrDIpaBgfrQk7jYicyh17YjhJrYxPehWjfSMJ94pMCgMnLybnpO1Ppkgg4/+c0DnDjn3JebMouUchfxK1NjXJhbxSzt5iE0/dfAl8KvaxEgo87qfEPZeaIn7HclWdJ6Hsct0NYWEF+lvoEghZozMagb7Anpii5z77tQnVs9jkVL1g3EvdVw+5dnJY7B1R4/4gb8X2jTkb7kiusvl5ZEdmuygxkFSHRFP8780QKOpoEW+uZmBjluEF1wYSBi/XIe5CUVIA82/LCCyd8ASnRY49BBrSUFwn8vOj7HK1HekPh/ImM2dvNa6Gsw==;on5fWHkeKuohSA0gvL5Xlg=="
 ---
 

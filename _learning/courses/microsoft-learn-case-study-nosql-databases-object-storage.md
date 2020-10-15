@@ -1,7 +1,7 @@
 ---
 title: "Case studies: NoSQL databases and cloud object storage"
 excerpt: "Carnegie Mellon University's Cloud Developer course. Learn about two more types of storage - NoSQL databases and object storage - with case studies from industry."
-webUrl: https://docs.microsoft.com/learn/modules/cmu-case-study-nosql-databases/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/cmu-case-study-nosql-databases/
 type: course
 price: Free
 length: PT1H22M
@@ -25,6 +25,6 @@ topics:
   - Azure
   - Storage
 
-secured: "dVtHWkFtu6RzAV9IYDdpDjw+VmOeJYgAD5qC8QaiFTQ4eNfSNwPYs4mI+VJyOcoWAtMmvTTgBz4BGUF2+R6//iTFtkw+3VEu1JhX2GttfyMY2+F6OXeWzaIPnp5jcwFqNzAf71pvO6F4+AweBT6Dd4aptJ9tzi8VUQYQFDMduoGZzN6NtG+pFI//mgjddg8Zk7uJV6RXDF+Hp8/z8r31a8b58FSR+33nuAEcG7aLV9U847VmkDIsMqWV0NdwK9IEwvQX74zaPyiHbONc5CulToj9gnujyQYy74Pfl1e0lHLjEB3YoR9+EGzhYSkfPz3E/bd9ywX+TYXJmVDXrdrPGFAofrSr+BK7fOSRUaYOzoPtSu6wrOAqT5lEgVIDQ6xsFK+Rp7PGiTVb4f0c1mrBvPM3R6VaWfHEfjQrnc2EQmk=;h2enXOyCkIVn3T51nRuh8g=="
+secured: "GNldC4ggmTOe0cIJH1g8QSVuc20tiBpn4/vZKuiEs+SBqppEuJtZBTEKix9UlqQ4vu8sKojtOZGYG8e59cYpDBodyi97QGsEgyImXP2OnWtZkt63q07TV8Al9R0+c3QnR59Zm1w75XulTJb5zELSZVOt5c4RPqwcexag6FaAdiwYnH6YyQFiLQdEi4bWvjnAw/hwmv8zri3Jfp3NmfrLGqoUZUYT5qjyZd4h3yL8jCFSsTuUGcXFKDEG+U5UmA05MwlsDXnkkirFADCbPr1ao2sEjzEnmXhtFprxKcDz+uzNTSJKQhbndRmyxjiHCK3L01JUKo7TpF2k3QovHyomDVYFpMMsgRmymrxUKNaRab7aP6Qq1mtBAlGzyTchenbThpYB/wA5OJ0q7aWqZfbIZw==;7PvAE/UUyU4MvfPyXMwXQg=="
 ---
 

@@ -1,14 +1,14 @@
 ---
 title: "Using IoT Central with Connected Field Service for Dynamics 365"
 excerpt: "This module will focus on using IoT Central with Connected Field Service add-on for Dynamics 365 for Field Service.  The module will walk you through building an IoT Central application and escalating the alerts into Dynamics 365."
-webUrl: https://docs.microsoft.com/learn/modules/using-iot-central-with-connected-field-service/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/using-iot-central-with-connected-field-service/
 type: course
 price: Free
 length: PT58M
 ratings:
   count: 54
   average: 4.648148
-heat: 50
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -25,6 +25,6 @@ topics:
   - Azure
   - IoT
 
-secured: "ZgG19gUWhNjRaUNQap8/FKSp5uYaX2okCD4swEebpKMuNLLC62/Ckug7eYzcFObNDt7ZZabsFPuhODRV8yr6SINiCMYDFGiWkxx6zz0IWWniEFCPZ7/4epq+3zqKLQWud6+NbbJmXcoyqt+hRo6ytbb1SStmzPND1WpdAoWol75Tlgo41T6SYZQ50P+HaAGvguuHX4fHY2qhZ7htK0ywiSSMdhmz3h9nBnoT9BmqqlA/U4UVeZOEIvInIbDjn2PB9Ih+LJPz5/52nuhySNPNR1M8vi1fEY3aCCY2dFV1s9I4JadryQz+DBvtPeyn4VRVYkxSdCC3Ob7wJSBXKZ60c8Xpbb9LwpPi1n82SLyycfrQXgR+tLs2BX6DCTXSMmfG6FBY+U0u29zi/HoV7RXXQlVhXASeDdAIZ+HDkvZM+nw=;YPPr6err19QJyqI7xQU51A=="
+secured: "dzgLsEKVS3/jQmBUs55MgkRUveGMj6rya+oNejLuaVqPeX/sQfUN2IriktdGWSYlZrDPklI20Xjkr3nsUjD6i1mJc2dZAT8OsUKneQQBTtLmMofJge0h/GYK0G6JpN1UZVBiN0T1CYLrmSBxIO55IZhIJWS4pv3d9cw09pXqkvcTxocNS+sVR6QU9NUJ4AuN7MOCyQJt5o02hx1vo0VMgjPS++YYUGVt6015Z3BQduDt41a16wRBcFxoy6354/fXYaqakv7ij9EOv3JgoqEkpX0YTlQS6/BZy/cwfS9LpVwotm6Vf+yidF+UsucW+9OIsgwuzgr4zYcUc8TN3HxelrNZkDANiqGU0XWRgCd022NPgyFerGz/DmShE//Prz0pUtbUOnCkkrA896LoBj416w==;k0c8Ihm4+rlk9rZAGgy6fg=="
 ---
 

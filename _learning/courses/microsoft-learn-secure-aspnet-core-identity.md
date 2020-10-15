@@ -1,14 +1,14 @@
 ---
 title: "Secure an ASP.NET Core web app with the Identity framework"
 excerpt: "Add authentication and authorization to an ASP.NET Core web app using the Identity framework."
-webUrl: https://docs.microsoft.com/learn/modules/secure-aspnet-core-identity/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/secure-aspnet-core-identity/
 type: course
 price: Free
 length: PT1H8M
 ratings:
   count: 788
   average: 4.461929
-heat: 52
+heat: 73
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     height: 400
     isCached: true
 
-secured: "YtyliRpA2ftNgtV5xzojhgfrAb/UsIUiPO4mz7VmIehyfCJPHWUQ8kuC+ez/+wWInbH8Ozew3zfd+SWUDwi1f/FUIINkLbSHSwUKF8i6KVTm2iLGM+hLAzGyQo/fSvDdc7VuAQvIXBnu3D+T9LW14O7qAZ4cIgtDch+My+Ymanp9Y62+zRixeM6jAcAPdmt2tzqqWW3ZJONHFARhotn/bqD+XtxJnL70HGKQz4kcKSuMTXcaWY8aGUo3wxNG9PNeTwkw5qqwXoDXnkuI5uG/ExswiXuUT+9ISvkggRcyjgevjbfev+pRA6I4imgsoKcUZpcFqYbvMCYUEfE6SORmaKd1gDm96OED9jywpBtopM54+n7rciIra7uYBCi7dTnYBEKE4HLCYTjdOvYFMm34GU6O/kx4Ucf60AlNDBGcHS8=;hHZ5VrgZLsMjfkyOJ0UBIg=="
+secured: "ZvPq9m76F8dp/d+mIikQoTV+l504+hlhJCNeyVShGwQlpjeRzmlV40Hk3wIiDSEvWAMjdhpVL7u6cGgQCs+3zr4x+UWUpWX2aJGLOevElFtjHp/ts8EjnLvYki+rBYdUI8+yt3N/8W+XWDVdImlIGSjBIIzE+n/ZvY0HZyGLNzD2SUgrwyCXIbKGnUwC0Pm9XXFqlBeOn/mmj9pH0tuXnwfKCRdChXSkqo6sDWW3+9bcB9/qfjBbJdY1RlAZO3G/NPvo9GYOALUbXN2B1zgcGh/c1A/7B3MJX8sKqJ+0Q/xE5ki/y17CBCQq88xJovtdu2dOZRe5kUn+ugWkLs2WPbe1VQcr6A/ob9oK20Bra//oJ1ZWF6Eng24K2E55zG051RAg7im6U6kgV6xLjv0/TA==;2pzTXnI49nppfyFngmc61w=="
 ---
 

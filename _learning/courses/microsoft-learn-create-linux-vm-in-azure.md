@@ -1,14 +1,14 @@
 ---
 title: "Create a Linux virtual machine in Azure"
 excerpt: "This module guides you through options for virtual machines in Azure, creating and connecting a Linux virtual machine, and configuring your network settings."
-webUrl: https://docs.microsoft.com/learn/modules/create-linux-virtual-machine-in-azure/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/create-linux-virtual-machine-in-azure/
 type: course
 price: Free
 length: PT1H26M
 ratings:
   count: 8006
   average: 4.6863604
-heat: 62
+heat: 167
 
 provider:
   name: Microsoft Learn
@@ -26,6 +26,6 @@ topics:
   - Management Tools
   - Compute
 
-secured: "nQwk6D8GI4UI8VPajyAo0Zz/EI4WX2+EBtrARnBHgQbzTZO/vgcb7v6PBniGOSJ8v9wrKkBKuKbia3pytJs6M8rRyMnYLLsEFqIz9CQBK9bKdhBQuAo+LIMhEVVB978iK2cxSbxieEd8haR1TrL03tgN3bDERhWTCb0Qg2kSf/I5DZdRT5Ue6KdP6Vuna0HZ8XVJusqRKMLOHVWuT+iNTi+Ht3kJ83CXcQXfpol/2h0GorU/1udPm/0p42V3dWLP9g6+OBRoPES7Lfm32eRIhf5fMfMcfmwvM/4/x59AaRVDYKsy1p2aniX5YX0bjIAjglWi/NI6/f2I4VYB8GJsG+Psvfrv9J+Z0jPoR9y+iP8E5/Upx7ch62rb78+gWOJ2yM7U0K41nIA2/XG3/q2y0s9yRG1kHgDIaYAkksOvfiM=;Z3314PEk3JUDrolmeDCtLQ=="
+secured: "HYwso7jOazA6HEErGfzch/biXj2gOXOMp0Bh65k2RCszZl8mUNmDN0ITSQqaJ1DO8MznQFZlmNdpHMgeabWG12Opt5gAgftKltQ7Laag3KBgaQWN/0KxbWSGoJWEVTegtzlcpHNnfllOKSV9XW8SGxM8xkuoTSS8joLdIBkrKDDdgU6DchgCPJjKyXnD9uLKoJLhr+YwdpS9M/1hUJVchXnJA0bGdMZ5S+oG5lvAWu37bl9psDKP+vXN+oZ6GHpUxsQDTValtXUM4nx4yO7521HW7XdV2PcVG7p9MN7Ihx6qkbMnPE0RUsaZF43MJuespJccijEFQrb5fRdCAyJIwxhpLhLI3uoIvuNUP87yTT7ge6V/GMvfazG4Tm5PI7AjweqC8BurHmlTYZ456wTHbA==;AwJLddszASU0OqdTwYixEg=="
 ---
 

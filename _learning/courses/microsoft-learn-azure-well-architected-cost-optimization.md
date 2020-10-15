@@ -1,14 +1,14 @@
 ---
 title: "Microsoft Azure Well-Architected Framework - Cost optimization"
 excerpt: "Learn how to use the cost optimization pillar of the Microsoft Azure Well-Architected Framework to design a cloud-based architecture that is efficient, eliminates waste, and gives you full visibility into where your money is spent on cloud resources."
-webUrl: https://docs.microsoft.com/learn/modules/azure-well-architected-cost-optimization/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-cost-optimization/
 type: course
 price: Free
 length: PT51M
 ratings:
   count: 1015
   average: 4.7064037
-heat: 54
+heat: 80
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     height: 320
     isCached: true
 
-secured: "HgQ+gU3jd9Rf4V+T7L0Ch1PLwz95lCZHk3qLev2vCkMfgzmIpwdmkGebp1rbcHmxy+LwLMglgnLSXrWSVTzWEVG17p0rJ2Wyem2UD6dRd2hwm0fGYpi6V3ybw5VDyrjoBuxasvHNLjdKkq/8RsmWap+2oNfDzrPQMyuFGBCTOIXJgq0C/hz4dklOmPszVPbMZKR/Wn6ZD2RzQhJor6eS+dvQtcCJPmEZUxgDBn7jQTewOvNBK4qBdN+eRlgHOcZjAPp1UUw43aEAsVDW8Fu6RAgXO+HyyEF+BwvJqOFeC51l/vTZhufM0+/jW1AXYsh67us8JqrtlHoqExMRV7WTFS4HBO68oNn3l3jOU+aw8yYXps6J1pVGNI25a1sYmEDx2P5j05VvSgfPsexMMtGhTP+ex9K1FewuckpNOLFeubk=;f+RWPWjuxofSTETOBUmZZQ=="
+secured: "wPMlfI8e7J4aTLxugA1kFL0RgO9udmbtSxbV05nK5FjbLRTfMstCHHgULyCEi74N+6ZXR9D5wHkRrSU5EAL4c6r71d87a7H6N5Q9UrxwngU4HXW1QRE1tJcw2xyLFJUFDRrhMcd2NmWCjsJNT/vCkbAnc7JbmiMjlpAbdiLYfU1tr5W3eT/D6RekvqJlzABryDQl2cwjl6D95WakGXzeaIS24LybdK7DAnUUPI45QXq6bBaoFYSrMa1xFCY3H8pXUF5acfy9IeViCk74hAfrephYRRC3J4uFuX0nBWz6EIetoUMD3+zg+nplupw8+5Wf90+09GgfNphnfCZalwI4S2DJYoxvMtPLTGsyIFiMdL3sXklF9gdF3McseFaH8LF7eYxnG2zj46CE0I/fR1dv2g==;lcAR0B6Wj2U7VdLWQh6fyw=="
 ---
 

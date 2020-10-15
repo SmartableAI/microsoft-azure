@@ -1,7 +1,7 @@
 ---
 title: "Develop an App using the Maven Plugin for Azure Functions"
 excerpt: "Use the Maven Plugin for Azure Functions to create a cloud-based function that is triggered when certain values are passed in the HTTP request, and outputs a log entry to track the activity."
-webUrl: https://docs.microsoft.com/learn/modules/develop-azure-functions-app-with-maven-plugin/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/develop-azure-functions-app-with-maven-plugin/
 type: course
 price: Free
 length: PT44M
@@ -26,6 +26,6 @@ topics:
   - Compute
   - Serverless
 
-secured: "NtUA2SAJnI1wBO/RWxsZDf/yqw3v488GXBoueq+VZ/5Ndbe7jqXRCqUo83oisHPjPY5Au83AUMt1rYyXlUgLjqb9iTRuC1KYnYq7Zny7+RtTltY2uBjuSb5eHSPYf4fjyS+Z6pcH6v09BEA0C+7bcx+BtVa1TiTYupy4+H9UzzF3+iyDSrRfVGH1M6AINWkHLoI2VaFJVs1aVIAx5+2FLKkiVj7SK73JzLSfbirI33y7wq26hJwKVk55ZakjG5vb+/UHqQ7oVva13FLNEn71ioJqmv1Mvn2gsQy8nsNNOBiSTG31fS28H7erXcAzcsRPx/A5wRNyQN61kf1Vj6zmfNkHhpfY9yDtgnQmEX/3IotbrF6ByDDpGClx6CnyOKFH7PR+tRD3d03RcNtbOKqFitfSKlynSgONcjsGX34oLV4=;hg7nx3lU7wvmsz7bg/b+jA=="
+secured: "BeOhXc7G4oJB7sw02WvQME+ZDWCrhKtahA+ldHk5WSGhSzoFFvjfMsumwHDMqZ6b12hbMbSQi4kHA1Z6Tnc/Tdw5xv1CG0bIsijcz5nMEzrVfRae5Pub4KXL/GAZ2mI+9KQJJuhtdF4NVTgfIX2KU3HfzIdVKHgr7oWvSo1dRYQLSvSU9rPYJ5DuYMS7/ft4npVSHJ+jNRmSO0ArHqypA4oYaps+AbSgco1iNaIAywhM+toxFy1NXmUu/cYIyhKvlOJY4gpbn27nso6g9tM4Wy78bwm1f/ShR+Qm4XeOqwTK0P62WbxWmtEHbMe/XLn0yEi0Flod4polmSrXNFzmcTRiMBhD9x6GZJNiKRSikpEZ0Qh1rgTHjPWL1wEV70CGDjbH+m/uKSLC5moM3HqMLA==;YEbl3GPmzmcV9CHiNlH3LA=="
 ---
 

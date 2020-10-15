@@ -1,14 +1,14 @@
 ---
 title: "Synthesize Text Input to Speech"
 excerpt: "Learn how to synthesize text to speech using the Speech-to-Text service."
-webUrl: https://docs.microsoft.com/learn/modules/synthesize-text-input-speech/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/synthesize-text-input-speech/
 type: course
 price: Free
 length: PT18M
 ratings:
   count: 225
   average: 4.595556
-heat: 51
+heat: 57
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     height: 320
     isCached: true
 
-secured: "sGjtjXcrV+ioVxveI4gGOUY9oRyDcnS/8x3GKtE22RuUcvzscGTQZ2/ic6ZuPxLeUGuugxleX0yeWDEHymrVZeVsYqkxBRUPNcW/6SPbNJLMHLUzY6vVZgHC2Spg3BTPAODkKcJOcmpY7bWRbR2lpq5k8hy+KprKWxUup3cwrEVshskQUbgPWlzXU7xM/wOQM3IgpEX6IgOEFvY8dflclSD6tzKYkHhPVLx6ty0sIBJM9qHNM8EKDMCDazyegEa9hTq+/3nkIRnocCKoXoopRkFOl50PviKb7nstv/lZjJ+esvsm8qeOjS/R4OeM+OK0QY/DjJjMvhGCaTPijWu5Z1g7Jq+3ScbEnG+bTHCQta783jsI+1tNl9O0YTac4wALOKuquWvBkA4QfxMYYgFfaAGe7mIdBoda6RV1bwP91/o=;9OKr7EozQG2wawZrZ5pM9w=="
+secured: "6Tcp/onYziOm/ljhiA7Maka5dPIa3OHMwVMnJfRdY+3pwat49V4mnGFBx8udutg9Nx+OKvCHkoIIStDMz58ABG4s9v3eKB7UKkrN8nyjGhPj2AEmelYiazvJKIPBQxzJIJRcDLs+w98R2W5kuGrwmJXKPrTn8E3MyBFBTusZPkE0HXF55SPPI/uTM2+w/40cvZL+EDIIMHNxsQYyC096lPjVfY7sCDELazjxFLK2siDBks6ztcPJJRArg8BvtQjZW5YsNjo5H64JvWx+cxvt104AWakPAs9/q+93FI+1wb5Bxwgtxl017aWnemUV4ywvochJDV0RAw32ZIsRqc0M0XFm7rWEYK9+rOHGiwo2O9gl6JwY9SxpV0nz5NTOOXL4R0T1jkHIikA2gp7fXjFs8w==;XTrNvH7vyKrRTB8NW2mMAA=="
 ---
 

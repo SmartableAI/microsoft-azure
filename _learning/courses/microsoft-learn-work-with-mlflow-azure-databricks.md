@@ -1,7 +1,7 @@
 ---
 title: "Work with MLflow in Azure Databricks"
 excerpt: "Work with MLflow in Azure Databricks"
-webUrl: https://docs.microsoft.com/learn/modules/work-with-mlflow-azure-databricks/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/work-with-mlflow-azure-databricks/
 type: course
 price: Free
 length: PT33M
@@ -32,6 +32,6 @@ images:
     height: 320
     isCached: true
 
-secured: "Druk7QHhQgTcwxxA/gEP/c3bSTEvQ1FK2fuHbcFv0rTLBqFQ5lw1b5xcNvrKFqCIBxQaU3iSap5+fE7Pyt7QiLCyQ8Qk/F0iOzl0ahmIpHt1M3qL40zw4yJk6PEa3F5EQR2URT2ptDTifFnFWDAgNyrhqIJDrk7PbIGNRXcUML8XodRsdEPlQZ1OM542C8bSOUsql0esMZd800EzUwHshlOI+DfcKeh6Xf21GZNOawmBpYznUqoyFgiCJ2kC7YrKPKlXBlAFBMb20mj1/XtSmbfxskKkkPfG+/WWWDixwipVk9QucEj2BZ94NzNmjQyeYSOIQcJgdG/zX9+8WpKkLwZj6nC90Y4IA8YcyK/lzhkuFSC0E7+GmYvkACjZGQ2+dPhmYQnfs8t38zCOYcmxoa8+ocDLXt91JbWmySzIXEk=;38jd81tBIhxr2byoFyLQ3A=="
+secured: "/0+wxzDPh7ePDyxJWy7Ck+FXk4VVSXYAKl8PCDJkULUmnH2jDBOnwZOeEP8RAD/uNqXtAaH8BOM3perwVGHE9xystmtEYS44Pa0qHCKEpVdRuFxg9tDbOltQ3GrDRrYuG1zHT2vAjPhVREGPp9eMvazhLJEaKUFDjf4eiG4Ltk3uyOj2S+3KhNxjBNGShTvvrEr4aQhN2v9tC2zRx3qrp+gUsHQZ2I+rUljmrZnyKIp6d7DSIYAaF3cx8WXr8rI6fSYYMeVPmKNjKBhcygL7QQrA0r3scttfpdRcAitPfOJOa+6H+vGibJYQjaiNXrYN5u+/Jvu10v2YCycKeo+Z7g/D3W27Yw/6rk64Wr3ELJ1Df1GLAKY/doZfz7nBjBR3jSLEf1D9QfZ1r9KkUKnshA==;axFbDBaoxKdfP7XP5jfZyw=="
 ---
 

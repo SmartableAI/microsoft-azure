@@ -1,7 +1,7 @@
 ---
 title: "Introduction to Cloud for Everyone"
 excerpt: "Introduction to Cloud for Everyone"
-webUrl: https://docs.microsoft.com/learn/modules/intro-cloud-everyone/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/intro-cloud-everyone/
 type: course
 price: Free
 length: PT17M
@@ -30,6 +30,6 @@ images:
     height: 320
     isCached: true
 
-secured: "y4kJ8kt4P0sITGH2C8xb8Bh4pbMKMWbyeLyVrj9/21O4xPrNu4oe3hQJIydCBlGRqpGHrdCJbgu6Orayc7olD4ijXrMFalRfdX/v1bs2smsu4YppxSS5oh+RAmJLsWH+IQGhkXkUq4TCxnN0gbfRvP2AHLYNbkSSZnuLVQ9qekvkl+yoAFO683D4e6sEp70zseCiUTRmYEUGkKwwd/hZACri32kSsKSXBxEWQSd6kAMtgLZwVsx4RzWxsrZM0A7kUIfNcrQ/Pot/I3QRMTr8DNcZFHkU4vkHZ+fDZ3cFqsW2z6jyF/EaKx0mLklbE5OmPdwe2uZ4bp9pXYM6r5arvSI/4OfDje8l9donJ1gRGDv4F7d/s8RDPo0OwtRsolqCNMb7QH9RN0QzZfUsPFOgmtJMyR5T1KB0h7ceebr1Oj8=;u9dgwAA4tqJgoMXNe28Ttw=="
+secured: "M0+jJFlUruUpxGKftVAAp1Qzpg740zO5ZNYMSImtUCZz9kisIwmlr5Ad1Ecik2+WFZkFDQzHB5eYqPr7HOiUErUL5Ado0HbM5sRE/Jp4UqXpUFrdHel175JIgz35swGt93Q+tCnCdfGdJ642fwQc1L2kPKKm4WD/bE5+5jNTBedYk8rqCNkQysD+Q2IG3Mx6uPHQpMvsqn9AurvUAbAsi3cDu6LLO9UlzWbOiz7ym5W8KvE7oUEKHImTVzRdfHJgmg/1wQ/XCNgoVYzt+m5lj2c2vTweKyO/TpzdvDGvlrljGNCvZsFXoIExjuO+E4qoj7jZJoTw1j/ae6CFC5kybPW+ZBvuv1dZ96QF6hY61WsjRWuFkYavsz97KUG6ZuS8dijggdef6Fn5exBlGVqybg==;MDtDsx8JsPrB0qLX4LqqIA=="
 ---
 

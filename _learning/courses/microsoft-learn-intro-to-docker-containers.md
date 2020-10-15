@@ -1,14 +1,14 @@
 ---
 title: "Introduction to Docker containers"
 excerpt: "Introduction to Docker containers"
-webUrl: https://docs.microsoft.com/learn/modules/intro-to-docker-containers/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/intro-to-docker-containers/
 type: course
 price: Free
 length: PT32M
 ratings:
-  count: 3108
-  average: 4.630309
-heat: 58
+  count: 3109
+  average: 4.630428
+heat: 118
 
 provider:
   name: Microsoft Learn
@@ -25,6 +25,6 @@ topics:
   - Azure
   - Containers
 
-secured: "pScMivkO31ms+y5YSVlCzxIdJ0Fu7nJjNzaRMJKCUZSC8BRv1Du4HlWEbYi3yDjMqga5jYZQruwUFUo9oRX4H7xmW9tnnRikPAcmvvTltCmbRRu+LVQ0aN9DBb8ygP+wxpbJMio04mrdFDsZa5K9vqjM+Es/Z5dEH4kC1Yr4tONc4cZDZsYvbm/M2s4M5Hwm5jGIXEWJPuY+U2J7foiPgEQpRjvtlKPXKp5QSJEKh1kUYImtoMTgCtYunrX+9g86B9ddk0btghIil1Uo1gEYQMBNJl4unIcfEPA6dtBP+ix3a+7KwFlUnqb5S7Pzyti8CYKt2WSeDlkb75BVt5zHADrSLkRLxtPHnO3Fxi6jdNdrmfhj2ukqdnQ/P+zQGeGSGi0nYusEsavXeetU4nNRVgOTQAMrG3EM32XUdnSM0Ko=;+rnL9Ha+EDUevrmRKCLWvA=="
+secured: "tO4pY01LjlKGItW7A76ePOgKfLHDuN9fCINRbk/qdIXqnWPrCGU82zQrozrhSX8VWYJ4RjgTU9CiaoAR2Lygl037fDobjz8/lG1Rzr+B75jcHY8srMwAG0xn+rRKUS5EeAFpT0bEEHhGszJazvOWIfKnrzMGDHTKqfiPIYoUzB2eBKPStuZ3xed95Ty9X63zDUZsK0H8xKcbhtON/bU1G2iRLlIsyTjbfo10fovj+CxpuvTPXJL+3ZhXlzBPdqsNvPrI7oLax2eYjnd3hW5uLBJHeu9M5KT/arcqFy+U8DnsWkav/cBHWH0EFz5KEK70lRSFWI9xbc4U2Q66Q+UXImMo4lIcu20qA4nULBW5z9A8t380I9czoqxTVb7wocAHt69gRnxo9is/BKMFlIxlNQ==;YXBtID+iCCNrSdIAmx0zCQ=="
 ---
 

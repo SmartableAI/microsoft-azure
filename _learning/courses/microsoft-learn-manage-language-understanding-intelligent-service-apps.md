@@ -1,7 +1,7 @@
 ---
 title: "Manage your Language Understanding Intelligent Service (LUIS) Apps"
 excerpt: "Learn to manage LUIS apps through versioning, key management, handling data, and improving predictions."
-webUrl: https://docs.microsoft.com/learn/modules/manage-language-understanding-intelligent-service-apps/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/manage-language-understanding-intelligent-service-apps/
 type: course
 price: Free
 length: PT24M
@@ -26,11 +26,11 @@ topics:
   - AI
 
 images:
-  - url: https://docs.microsoft.com/learn/achievements/generic-badge-social.png
-    width: 640
-    height: 320
+  - url: https://docs.microsoft.com/learn/achievements/manage-your-language-understanding-intelligent-service-luis-apps-social.png
+    width: 642
+    height: 321
     isCached: true
 
-secured: "HQCzjkjftYhe9p0r5at+WT528xMDwsl08FLZlMdpE+EILspauunSJztwf7hGxqj61w3QE5VGWvmdCtKPNe2EBp3fSYno8FStlJ1lwMJ3EPyZDbcN88ShAQWAluecDWsRVbs2sMgaUz9jC4el9znZ6W1UMrcaBUZS6DUxiko0KlorzIdttU1hzc/Esrmiylv6idYnE/NNVncKo6UWQCzeWd0QTawZtk0/mfFE3jcJV3lkHmv3c6Fg5xicQ2TIxcIKohtMqN91cP0jxcb5hO5ZomOdOAfjVmjzAikd9tUuHoe10aZpvhcheQlWkPawtTImb7LAOWud2nfomdXm1F2udDmTg/mwTcZdJNjrmsvNsBKAJiA16nUmpP1vZOaThdI0ZaqdloxWTxV5tpgGJGciTcQy1zoXHoubv4SdEkHPM8s=;GpJpVXKKi/DXfSanRjBVEA=="
+secured: "mnNblblUHMN5mN2YXbvUXuq2Tjhhl/Sc1TiHFb1mU+4lLC3l3j6yizsRF0YFgv4BjOdBuhWapeDWO68/iRSM5Mhgvf5uGxEuhd93R2Fy50cZ1hJyL7trFZ2Buzed7s5BvqfDPM3QeviRXcRxU4NjrN1Gw+iF+rtRoyVR6bgKQSaTMZgoOcLA0z0sE33e6ORZAx/qWrWc4fMxTsJV4E+1cnWIqsiXXIb3X8VXdcSeczgJlAWg9YCDZjKB4IFAzceIjLMDOgP8xmr3/8JlWNvTHEHieOID9o7liFxTMY5DsVVc3I227m1mIoMtRrzqc+odKeSse3kUHezBM+4CpkxPfpgbuHlSxGlH7nXeA7FK8cGwE+/bW9jS2yRhPSF92p16XeGA60UOg6VnzK2X0G4R1g==;2Zg/PUNv2fT8ZF2/aO3CQA=="
 ---
 

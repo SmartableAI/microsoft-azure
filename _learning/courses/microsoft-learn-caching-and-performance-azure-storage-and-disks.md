@@ -1,14 +1,14 @@
 ---
 title: "Caching and performance in Azure storage disks"
 excerpt: "Learn about Azure VM disk performance and how to enable caching to help optimize read and write access to storage."
-webUrl: https://docs.microsoft.com/learn/modules/caching-and-performance-azure-storage-and-disks/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/caching-and-performance-azure-storage-and-disks/
 type: course
 price: Free
 length: PT44M
 ratings:
   count: 1697
   average: 4.681202
-heat: 51
+heat: 94
 
 provider:
   name: Microsoft Learn
@@ -26,6 +26,6 @@ topics:
   - Compute
   - Storage
 
-secured: "kWy5ZXY2DKtNNB28SjQ8YUm1Ae5AgKwdxfX89iqr6wt6+i8ZY8ar5OiC679pCivURKTm74UKj6WMvjjKXy1KR2G3UG1ywtRMAW+G0qKi/wMJwsqM9PmtE0VKaE/nvafiv0TpnGhVbfPjC/AsC+GI7NLvIHst7Sa4Y7Shi7pOdq4+mi3/nePYNGGzPC+UoBYeL1uC1OD05ndPkAHjoS8T8acPLuN+CMU56pnCYbe6HtpmFhp8rIQpOOqsEOwenKVVwz7ERnRTdzJuArM3XhBwPD9/WHKZTKpOOUORcco3Yvmbh5FTMhGU0kSt6HtlV4M6WVfr9BMYt+kRZK/m0pq2QbApHXf+PTYfImDroHgzC7FMWEYpvtRRddqQY1GioKqjNtYmWixUEB0mPjjuyAAiCydmWYIiKseiC+4TR3/uYG8=;GOFZRNhfSimCehIy5+O78g=="
+secured: "44BLaPzQCp2XQvC+8MDKvYBtTeezToUFjWbhdyyFiPrEq0pWis91qZFgX8x+qdb0swAaw14BSjedguRA8j0g2LrZIVkXGxdmh0BwSqTdv3+o9QhvxXiR8ZcRhYORIcNtv5nLrZDm1iBpBBlhLEWfvBP/Xq4Yne/UmbRAflMAVVR74xnwv8GytxZ1v60M+UqNgbhBZy6RHv/IjeV5kWc3NzQWY7fkTWyPTAzB+oTIGCFN854aM8Ydx6wsETxwRXsjyugKAQ0JsHHzLagCKK3jX0uP0MRhVdS9bPkW/WaHhn6qHX74n1pYm94KYXJuSxpqaqbZ13/drz3wLVeZTZpdYzGO6r9A2qDrGzrFXc3zlmqYygGU8Q82d7iuehTXYMkGalyIenfwYChcMUm0p6AQ1g==;pKZbegC0cOimW7sQAHuKUg=="
 ---
 

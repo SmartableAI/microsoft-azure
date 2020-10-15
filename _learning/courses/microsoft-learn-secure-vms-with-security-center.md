@@ -1,14 +1,14 @@
 ---
 title: "Protect your servers and VMs from brute-force and malware attacks with Azure Security Center"
 excerpt: "Stop hackers from getting into your Windows and Linux servers. In this module, you’ll discover how to protect VMs and servers with Azure Security Center"
-webUrl: https://docs.microsoft.com/learn/modules/secure-vms-with-azure-security-center/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/secure-vms-with-azure-security-center/
 type: course
 price: Free
 length: PT44M
 ratings:
   count: 908
   average: 4.643172
-heat: 52
+heat: 77
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     height: 400
     isCached: true
 
-secured: "Y/Mq5CdKCrpjN52IB1aDuPPXls7S9qQL4RkLT0gOrIuAmQZmkuEusTP17OF9GtUpl3ZGFu+JAzPrEZTt1EQk5iho95OL56fU/6DIcuTJ0GMZ0NwJgNHLHwz37DwqwuRHOJKwrlllyML911CAqDZw4S69oa97PUwLk1fa0/4vq8F9udZZtkiHDk9FKFTycxtivxMihxM9nNuA9DwNYVvbYR3BaADJx1u+9V4zx/xd37sem+EkRrrrZ116XfUM82cQ6dJlWqd0FyqRDQR/MUI6YjQyiF81qGpMCqHtD/GqTO/jsYEVy/pkgWp7NTrQWE30k0amWS0Ym3z7eIAutx/cUoY0mAgluAC+NoGYSyJlwMr0Hrm3Xp94dmSebwbqAP6d/mXTgt7WvloBJEtkPzB53+oO2yMFjcPh3DcwqAP1cVU=;dqhJLwH3yqpn8jYiUXOZLw=="
+secured: "gFRjHi8q84cRWJLI0wBsFo0K71HUxJJS0GhbybNm+lJhsqzIcPiEj9YOt9hD1HCj/geI6InrYk3sVRDd99LnqnplZLryzZYdTWAcWE4K6FbRoaKngXEMO5lV/BcqTgEw8GHThXe2t2pByWRJqU6mcRssj7wmiEUk7vII2uoCIQ0RKOeT12Z41B3Ms6f2gwEt9KvdKZCp2fdMAG+6vTViwhcTw+b/kJXyVNM6nD9GMTeldqnbW4I1qTJVWtLLr7nhd60W5HEL5ETgP+rM2u+hoyb9Br15XCbe3jgKap6CX1jj+zeVNPl5u2c0Qr27c2xSInBbCkIamDOa7+9zGhI6mACaS4q2572E+rWRpNxg6SOOG40S2wN9dXWubBW8XE2WZnWeYDglGsHGB+KJP4jpMg==;JOZ40pqkxmnkrgCoIhfGag=="
 ---
 

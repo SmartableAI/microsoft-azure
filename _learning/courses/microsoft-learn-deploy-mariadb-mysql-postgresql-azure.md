@@ -1,14 +1,14 @@
 ---
 title: "Deploy MariaDB, MySQL, and PostgreSQL on Azure"
 excerpt: "Compare Open Source Azure Database offerings with Azure SQL Server offerings. Configure an Open Source database and configure high availability and security options."
-webUrl: https://docs.microsoft.com/learn/modules/deploy-mariadb-mysql-postgresql-azure/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/deploy-mariadb-mysql-postgresql-azure/
 type: course
 price: Free
 length: PT23M
 ratings:
   count: 2323
   average: 4.781748
-heat: 52
+heat: 107
 
 provider:
   name: Microsoft Learn
@@ -26,11 +26,11 @@ topics:
   - Databases
 
 images:
-  - url: https://docs.microsoft.com/learn/achievements/generic-badge-social.png
+  - url: https://docs.microsoft.com/learn/achievements/deploy-mariadb-mysql-and-postgresql-on-azure-social.png
     width: 640
     height: 320
     isCached: true
 
-secured: "a6sdZ5HvTo47ac1iHhOMe3A82lUEJgYpCuN/VcqZ1ci6XnmhaM835gu6KmTBO1ILzf6RFBJVsaxr0YwwKFNkz04U8rrBlt3PGgHsQr5i0Q4QeVipJ+57lONOm/8wcFEig3Q8UwvP9uz6Tba0B5HTtjjvpQmgl6PVTASqYjdoXlxq8pbNuvX7JLrotEQpPit9gbV3t0TNDVPES74zd3HSerCPpTxv3FKlcLVdRUh0xfQoGHhlfvTvOvs5uaIH9sPnm2ZgJfkmvF7ocjBt/zB6gZS/mvcOIWZjT85m/QbXCOHn5QiowfJiWKNAmvRetNzHtWdr8ULqbvoHKoVEJk8ydZcQ6ycqgKtLEvxv3HjBh+Gb+3ScC825K3QpvlZimxoUESyotdOeQ6BP0js173c3Uw0kgloyOj821Aj2LGMJkm0=;pTaUVmPjQh+TqKIBDHdiBw=="
+secured: "d/AJQuCPQBun4lrir+Jlp6G3AGSe5m9SDXYs//NaiHvnPFynXB+WKnc0TcmMLDs9RvHjfYEEhcC9lthmzRx5+73gnuSXd4/8h/4VCgpl6W1HID8gan4zm+TcfGwORs/iF6CJXbBauYvMgKHkayNEp+qodj8Pc8H764DnQJDFIOpzOqdmXrbHUR0r1MFfjv0paODUt5YYfMveOmv77PgbhyCs3uU2myLgMppQoC2ZE/Dz529YuWsE+uWBjDpDnlFVYX8pulyiVjQ2Lz62MS3kV8flH0PQ5nZpVusX7ByZZYtpclM+RRMbtTu6Yz6ZbRaHFSBBsagxfI+fuZg6FSy9mkO6S95Uqywsz/wbHTCKQah6ietbtnwXVeLnP6zKiI4ppWDt7+NpIHftl1OaG+yfRw==;iFBLR+ZgkZ32SNIoqZR3Tg=="
 ---
 

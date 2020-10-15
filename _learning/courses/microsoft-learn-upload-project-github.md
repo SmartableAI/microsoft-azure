@@ -1,14 +1,14 @@
 ---
 title: "Upload your project by using GitHub best practices"
 excerpt: "Learn to upload your existing project to GitHub."
-webUrl: https://docs.microsoft.com/learn/modules/upload-project-github/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/upload-project-github/
 type: course
 price: Free
 length: PT43M
 ratings:
-  count: 149
-  average: 4.677852
-heat: 50
+  count: 150
+  average: 4.68
+heat: 55
 
 provider:
   name: Microsoft Learn
@@ -30,6 +30,6 @@ images:
     height: 320
     isCached: true
 
-secured: "SObADpH0QJwF6g4RP8DLJyqWndc9FtiD4ABGW2i+do0WFfFP+AJgNBglsTfo7yyzC8qmH8kDu1g7P0XJxtzE9TnsGhUvYh8JicC3JEoGoeMknAyx6DjMO6Y76MEOG5IBR8l3WSv5IlZCnjswYT7Pci3f+JMnkF4zTRGGNZbVstt66HSLNTxqwdsXmS8jPMDZjUgPPw3wn2E0aq28sUHhHZFEpJWcQ6ve+a65eX3Tq8r/LAG9A2hqxNoZNev65QVgNqFkC338JMcjR7pcEGPYSLjtSdj3d1NKEZIEYmVDNaZfNgde9iIxCgeC58wp6eY/gsFGgoilkN8Yp/tD3MxcJaQFvdIHTQMFMvoYEohpSzTpy9AqDuOk2tlXNqH0DfCkEizdyvUSZD/P1X6zShqjaSrsqpJHvGCQL+U97Cfc4hE=;pFBJ9KT/XFgSWkCGuYwgdA=="
+secured: "gHiCStciRGWj6G14TXy1yA+Pzl8FrcOMHqhr5jZSLUCv2hRa0oUXCZiOSj52eGnBIFThFefFwmtRTY2/hH4yz0Z8ufZm91snRUZXQl9y4NT1wXjgONS7o/YFVg1tuXMUiLvFcXwru+S+mHFn76mVAS2mD/LNU7u2/Y8eKfrRbkIuPXB0wh6Jiefx24NEANXC4JOc/8h7CC9SSJNl3mVXtVNMLRrsKrW0lGFqvvwZcImsXkPp4ku1AubtmCHbKadjTNVwr11XjHwzN3day3waQ2lvGO2B7tTibmLEQSPVEgrKNl1LIyx9G2vSco2GkU/fyuqhErwQug3WuXkbM2c4cvn0aVvXP9sNDxGPaxlBWAZoTAecpegH/nXXIBVwiIcvjedDhFxATmSI2PFY5E/QEg==;RMbdKR9ae34fHZTo70eRug=="
 ---
 

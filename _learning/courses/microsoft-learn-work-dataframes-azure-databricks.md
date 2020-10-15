@@ -1,14 +1,14 @@
 ---
 title: "Work with DataFrames in Azure Databricks"
 excerpt: "Work with DataFrames in Azure Databricks"
-webUrl: https://docs.microsoft.com/learn/modules/work-dataframes-azure-databricks/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/work-dataframes-azure-databricks/
 type: course
 price: Free
 length: PT46M
 ratings:
   count: 148
   average: 4.668919
-heat: 52
+heat: 55
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     height: 320
     isCached: true
 
-secured: "bL6jRBiepS8LWwOjxkrpbqLr1LChOc/QJiFFkEhcGH8GeSa+hHGwGntSOLSjoNMMNvQyIw8ick3Ctcjtcbwq0zcfrbVOcrVoEayDVmZYi7v7B02RWEDZAGWTAhO5Vj5PNEZmfdXaPJc5rP7Obk6aAbD3KsQbdXVwyWL6sVtwYqQDVPP87RuTGcwUyasGJ2vvEv+nvUginr+nGUJ8lIGkzIoiZJ2y0ex0Ydskw1IYlN3Me3cU3sG4/vHgdeAERy1p8mCdOud+q6Cbgy5HRkdCxQ26vmy2PS9/0YytlxMi8JemssODJbUWRHxMflpBWRKNvVxZsra4ln8vfPb//yPY3G8enhp2THrfL83Nt4q01wv5G37xdni/jjzeWTZzvBElkUozMy8GUKh+/03hKUWjsPp47cQs9g3Ymgtg5rdDv34=;3DwF0Dnx+IGQjA90wV5I3w=="
+secured: "U9eakDFTWI3pFl3O9HwT9M5V4jCeRBKKkeQnBJndTwK88/Q33hmTjKjylnA647kg/qYkXOAIQAf2OYqF1no4CklRHg/P6EjNoYUNxRtb3vzzASMGG1kMaTvz+XfnbqQqoF3vQXlhlSpWbr7sZAjfuYsB0uU2prjQpMcXIbEmAAoASfvzjsK5qXl7/R0NDLaCDNPbFc8PcFP3usV3x0PsKWCi8o9UdISXsUXzhWUFjSmiH544jK+JUeGV41vLrRFkDgPw7E43kx3rnRMbnctvaIehv6FLtzGEL/SNF35y1JI65Ks8dzCxi7RExnAZOd1PQCWS+TpSPUBwfLrgL8I/uoB+/nw5/7KZrNrQGIgMt0xn8fU1VXdW4pVvyU5jj5Vlt5MgJ78joUsPzgMG0tfn2g==;z9svTJ2qWvrdx2sYygMDog=="
 ---
 

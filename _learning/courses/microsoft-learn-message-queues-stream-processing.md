@@ -1,7 +1,7 @@
 ---
 title: "Message queues and stream processing"
 excerpt: "Carnegie Mellon University's cloud developer course. The increase of available data has led to the rise of continuous streams of real-time data to process. Learn about different systems and techniques for consuming and processing real-time data streams."
-webUrl: https://docs.microsoft.com/learn/modules/cmu-message-queues-streams/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/cmu-message-queues-streams/
 type: course
 price: Free
 length: PT1H2M
@@ -24,6 +24,6 @@ levels:
 topics:
   - Azure
 
-secured: "pQeFa0QQ92WB7mOCwZUHSPYKnEUDYItODyYEXCBR+NBv+52KDzXroyvWGaHZMIp3C5hlorHvqbKTKl+LM4lO/3xxZr4ROJMK9pG4A/thiUN7QXUi8aRoUnxq6WuLI0R42h1HuSJM5sALaLmThuu2XmrXi90MEnmg0Q7eO99wT+1YH9VDuuk5Jjp9I+WeMCciGrOz5jCp7npXc93q1uICs5MmS5WvfAPIFlE/fiz5QKPuYWalJx8G3wAUSQBFZmL1KSuG2gCv8xAcm6AcH0rg2R+R04HP5YhMlHwX2DUwFyCqCVOgv34yQpgEDnVcDEsokTUL0j3LUl2JRvqYPeKfV6R7t8T2cnRdFRUORilh0SrRfiTH+N/f7iSoNnhxFLxefMm8RW6iU1Z1od6B91wh9hc/QfvIjPHYAG5nbgZpwUs=;lKUQX6IB8o629fsgIHuS0A=="
+secured: "08CiTOaHhdppSS8dE7Jur/DyUwiGPpNTO0ck49AaFs1ZpNX1MFpYNUnQ93vaI0H/L06tSytE0Yw44QefmyHccUc9zV/Gk8qWNlZnURath2QOIEoQOfLyCyBxPEr8/lnm6bD+qlF7xiywC53/Pc+kvYgTA2Yhcb30jNRVTaWeLuBTJp5yYswf2NLsm7dryW8O6jeWaSQUg8eSurgeLDcpolHVA1r/S4oH6Os2lnLSGDB2jZ9G7f8yhSC5IvgP3uYQOag/9roBs0IwJB4FxLfTwDzgp/yWqrruy6oJBVJahT8AjcfXrbPLpjoDhmOPViBXJDDYFLZHHp3Ra7BqP+tFB7tQ6frlKLStA5VjiPuNFJB7sz8T5P2iwsUR5LJIv9d71UYYDgfbhtHYuR7AHqI7FA==;eVkF3qbt622xup7HHcQHJw=="
 ---
 

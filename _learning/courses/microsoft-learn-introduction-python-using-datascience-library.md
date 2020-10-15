@@ -1,14 +1,14 @@
 ---
 title: "Introduction to Python using the datascience library"
 excerpt: "Learn about Python expressions, functions, basic data types(numbers, strings), and comparisons"
-webUrl: https://docs.microsoft.com/learn/modules/introduction-python-using-datascience-library/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/introduction-python-using-datascience-library/
 type: course
 price: Free
 length: PT1H28M
 ratings:
   count: 188
   average: 4.638298
-heat: 50
+heat: 56
 
 provider:
   name: Microsoft Learn
@@ -30,6 +30,6 @@ images:
     height: 320
     isCached: true
 
-secured: "mbhv0Bhu1E0n1o/F44/Ia4W0rJ+e5Br3Vf23PpJ+Gsii6kWQC0ngV+ChUa8ZUVydTEUgzjELZ4UVW6xSEQLFqfKY+PASGA0WbwShbZL0e1IMPSm8I3T9q0wY9awcRibuZLDBLXcu7TeuvrsighLd0AcKr7LVErrFf90YsFcmzqWeO4WFzOs3ipxovyhSqVdSOsJ8GdHGErteK8Zk7csRXEzvHwoyzkj3NZ3+yY0D0/bJYGAVp5uWUh6bC57m7IVFQIq14DpI6H+RsYPOjGOEe6mzAqN7fyZjelgK02s+bMU1F2+QMsPSeiEfsByHuhljMtOJwQLBuVjnHGoYcy/mKadzI57ovnG8A5q7sYhMu1DXxpSLITqcn65rxdy3Zx7IvO3mAHbYdu9F9LJMnqNu8bODGfVqQ3/qMIkN9PCTenM=;BQJmeR7hikqPmYeX9NOCBQ=="
+secured: "GtTjesSypaMr0uuMgDPDRohETp8xZJiAUIy60SK35SK0fkssTvKnCcIKk3o0pa2CTITmSB85cOC8/0cUGHfOSM6IsAFLVF7XC25v8glxVwyQeFfF9tk6hYhzr7/XtdNMCtT7EfsxkOqeiT6LNqV3oij22yPLG2Vn6gbGZpMw1/JAzt49W+cLOeDT2SbRKGjRhjY0jSupmeCaD28+gTrdfmIK7SzTtMIxCxAbB+EMWqyG/eYXipo84N89B179HMPWKTrnavH8rQVlMzaDCKLIUav6RrOzNBRZuyXN3x4C0L36LNhXfWelIo4aMUoFQrDIeY6Gm3o/YqB2GXKfnw/OhHWSPAMwzhjpVl2NeO5tRxDpTBgtLdzUJ9/UZ+5osF+P4r3hGyv0EzlujG2wDYUoXg==;JxKruzmtaRDm2mDhFJgf5g=="
 ---
 

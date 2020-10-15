@@ -1,14 +1,14 @@
 ---
 title: "Introduction to MLOps for IoT Edge"
 excerpt: "University of Oxford"
-webUrl: https://docs.microsoft.com/learn/modules/intro-mlops-iot-edge/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/intro-mlops-iot-edge/
 type: course
 price: Free
 length: PT36M
 ratings:
   count: 43
   average: 4.5581393
-heat: 50
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     height: 320
     isCached: true
 
-secured: "X4V/wxQjNSfptRGNNouv6pTsjBay7T+WE8uhg27gCKbfUneHIbiQRCw8jjk5zvoJzYQy6gQLeUKFgrBzw5xT6rx4aubkJ6cfqGdcjQfVYUjDd6DWkmxwqWJnQbW5dXs2IIt9bxec+jbfxumq5UBDj882Mb0O0XjHJWENLz2tb/9yegjJBUlQOCQyJsBd33XXQjBdKOVLMIFzhqwCqbbxC0Y7Jza2r3bclNj3illQt/uAJl2QBhRL2wq3G4Gvcdcm4wjwCRAXVUYuHMUHqoe3OPH3/5+BVOc10dRODjX1HiyobLJGDY++sdLBQdoPpzaerMbDqlWEMvIBIgNuEGqHgghsyU5SKxXjsp0wXU5FvCwaFc1WNidAyCQToU9lyWJUSUoOx5UYCbxnTUAEkld9xKLeSkC+/MnlitlmaoUCNu8=;KxSvO/D2owWvp1eJTIEFfw=="
+secured: "mh03vc/1jwQhVQiZcBfLutaiHjAcOgitl2ktfJXVCbdNLw8pDNvSD438Kv5vAng70uXwIlCv/QVnyYgD4SjCJ9YTf2xDcVtCrFuA/pG9OcKlPAcSW60zMETSDCUb+BoPjX44ZMGOpdoqjLTgSjmmY80htUErDv4OQeIRMeGvHFb0zu8Tgz6XJPY78mg8kat6w5ep4YPDGYkdG4mKyyaTRqDM75UbSdtcenZ0tAbfqsCt8VVYEAz0wTcmy26VnAnRZoVrjIX4sYzCVK/ESPmGQujIlFnq7FsHL4h/WtY90a9YFfjb5Wp2Rs2phguNKfp5/3X57898nVAhoFZsXujAwPV4CS5lM6/dP/dvO0UEw3z3W9cWeNbepDvNj9hy1aMC0QuMLPrWQrmFI3YXSUkjOA==;I9y7mIACnWf6vMfxFe81TA=="
 ---
 

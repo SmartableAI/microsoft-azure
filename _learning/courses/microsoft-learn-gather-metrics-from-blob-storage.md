@@ -1,14 +1,14 @@
 ---
 title: "Gather metrics from your Azure Blob Storage containers"
 excerpt: "Find out how to use Azure Storage Analytics to track the performance of your Blob storage containers and to display that Blob performance in your dashboard."
-webUrl: https://docs.microsoft.com/learn/modules/gather-metrics-blob-storage/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/gather-metrics-blob-storage/
 type: course
 price: Free
 length: PT1H26M
 ratings:
   count: 35
   average: 4.4
-heat: 50
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     height: 400
     isCached: true
 
-secured: "4pKdxjftZqNQnXgZLe/pnnftElsdgboEdi64CH5EyeIncwZnRFE9NsL6194yDDWNSVwtcPcXjGPS+PK3oqnWFNShw9JrGmzOEHmdFhPR2TNecTIJdIRTkV2KI0GT1i8pJPfIKH/0kLu6u/DKW1xnMofLa4lqD9pqSGP98a/6wQa3JaUWhrvtXKn64dMJHDNqL6KBzs3OuE0C4/OwokRvWMIDPjl/OHLxfPAWBABX2mxEJ+hUunR8kP5EPwkYUs2Tl1T/BhdVquJ9AXdbz9q5RajkSYiZJFzVN+OUq3O/n+pfnwo33Gz5cGqCS94kGla0VXNWdOIsD1JJEz/b3hnSgDIkGDvd4ZhDPgObfB4CX/hZZ1uho+woY9aiUVQEPo3z2zcsl5x5hPk32Jed/H0F/fDFgRHyrjBsO1THONKUuJU=;ypyNk1wyke4ypnqXBdYFHw=="
+secured: "HCN5jgW3XR/n7LR1yzs/nZW3/mP29o1EFIR1oReUerv5hpAtU5C6pNcsWFjJoB2Wmb0HFs8W2TdOj9Htbxl+tyX+xdCHTbxLFztUQKDIAegOFEbYa2dMEli8zIEVMd+PtA4Mtl1I2jzW6f9xj6Nk8LoWKLDOOoD+FyfOlk+6bYYOGMo//GYDyUBhXCv38iZxPmbSkuQexmzJlGtXAZC/K1PD/+M/Z5tGJ7foDOOMi5okPj4GyN3WZ+m7l3TKjZULz353eXhuA2w0aPkcuk6mo8MVC/+SuuVusYk/vjU9SNVvOscAmBm2GgwfyzBhPmS7KeuWjte0kup6OmyIcGgCkwQLb1z1pF5OPX5iMmPNJWye3jinddxR8YofCyMRbcLn9ZV0bYPzr8ykqc5LqvKaWQ==;Y1ff0OwuK9isuwbQ9VedHg=="
 ---
 

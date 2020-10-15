@@ -1,14 +1,14 @@
 ---
 title: "Secure network connectivity on Azure"
-excerpt: "Learn about the various Azure services you can use to help ensure that your network is safe, secure, and trusted."
-webUrl: https://docs.microsoft.com/learn/modules/secure-network-connectivity-azure/
+excerpt: "Learn about the Azure services you can use to help ensure that your network is safe, secure, and trusted."
+webUrl: https://docs.microsoft.com/en-us/learn/modules/secure-network-connectivity-azure/
 type: course
 price: Free
 length: PT32M
 ratings:
   count: 53
   average: 4.6981134
-heat: 53
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -30,6 +30,6 @@ images:
     height: 320
     isCached: true
 
-secured: "bYV5VuN55v6JPcjmSRwn448FFzLALffPuvPC9pxIPod41bigIVPaeH7KxvHgZvbtCKuDdkFq3AfmwYdXpTgrb4a+RKKl0NBE5/gWKCwpgB4ZFRcA6HQs7TCVu+Gfxvt6Dr4GeuuRQJuGy2+wmDeBVWdwDM8VG5bcjL5IyrQijoZ6j/PuCFmbcXL6VdfKL1C1/75tb05i8gQzjt8DeRtEOZREnteGSGigAbtld/uGR22aGRK3ROoUSUn6TnpGfBJQ7VLIilL1U3smUr+WrTmFQww7NdihC2YiRuFdjQiXB+iJjkQzTu6guTVOus0lDLHM/wCQdPY+L8cvxIsz1HmxhhF0Ww0Z6+0I5GKR2leKniMt0GvPRvkI35YAk69w+6Z6xcGaDWObqtBu5Rvorv87cu5Zljs9WOL1gr3oA6TT+MA=;57b45qQtNIdJiaUsU6w0xQ=="
+secured: "GC5jSMHI4KgCNIy+mrsgq2yBJzJ9myGFxXm6rspNdKLD1BcCHI3XYfIaqMAwhvaMOqIm1YsQfWeJ9f74EDLbJM5jftSLJLHmB8e1yt+GiYH7AgGoRZFJcAzQhaN2znB6jtlfV/6q8rB8f07EN7jB0ku2j21tCsti+ePcuWXql1dq36TNekOfu1Zjj8aBHlAxe14QNg4sXHhj++2JImPfpwCPe4HkkzADSKeTGz6A4yuUxNvsfTLyAKh6v+QHLZMmiFLjwS0NihFqS+YdU1mnY39GllfnDjnSINUCWKK0FFM15YReziKfrnqtUevFJ2xYRHe3PYBkzDVWf5yp9iKXEIK1YRPgCresqDWtAXuUJsZs61eYSikvzCvM5BkFSa5qPfmGDui60IwkEk4ojwv0xw==;xvv4uP//6wBDT1Wst9p9Gw=="
 ---
 

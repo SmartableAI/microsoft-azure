@@ -1,7 +1,7 @@
 ---
 title: "Run Petabyte level OSS NoSQL databases with HDInsight HBase"
 excerpt: "Run Petabyte level OSS NoSQL databases with HDInsight HBase"
-webUrl: https://docs.microsoft.com/learn/modules/run-petabyte-level-oss-nosql-databases-hdinsight-hbase/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/run-petabyte-level-oss-nosql-databases-hdinsight-hbase/
 type: course
 price: Free
 length: PT30M
@@ -31,6 +31,6 @@ images:
     height: 400
     isCached: true
 
-secured: "iFlJYTOveBsoKoE8W5SOSt9w528sKs8Q1L356gWYyeD0VEOcQplxg6ZS0AfVMYlN1OLFWuk4wMb2bshzBFqo4yXYTapMpyZONPqdlfJJWp6W5a65NTT84LbGjQ7Fxyya/GNXUhkStt8GVw6n776lTQB8pNOajiyNBqOxzcTIDvPczuqMPxFT6hvEzd76mVqEiWaNhr3LWf4HZ4RA8aH0Y50Ao0IBJFSyNMHW2u0CHBsAzrqe1zZa7rNp2sf0wCeycfk4+7mPhCZseBMv0C/1c8zyCzEms/Taf/TJ1W/XHSPxUtNTj8cUqeKwN2e+h2fldGH57G7/6gnRmKyZtEwOgyNlLgAmrEk+szei6NPz4TMRpqjxnE9PgPOEZDdzB5Q7BsKTv61lxWifTfpLb7PuQGIThwihQjOyE7l9aMwDr/o=;JsdbSUanz3QPMPTjDIuRnA=="
+secured: "GFkybnUzNLdZG4VW2hQf9Cl3kdxLVA2/4M7SFZ+0lEOJqojG/qIameTKWQpN1ztzvtK48TdHWdw8E15sRAXS0ydSZu8HxFcO/aCwuWZMZUn2DootaHy4p+6tNOirjFxWdFljgieE1I+f1kIAodNkL1rvhbYdFnFNBEudObxFWCGcM09QQ0LR/AZ6OLRtu8UkYZ9jK+B6Q9+GJqf61XIPBiALHq1zqs9mEFtcKN8/v/L/tsP/h1pjb9jVbAMD2rb8alEm8HpXxSKQgkrGtbD8XUZeHYyk005sAT+Ezzi/xqqIrjiQHre6d8ne0jLeTa5Gt65rOV+OWxkyU2Daji4JW/tmjFK7ntp9dAW1/CAnG6viRRl/2RraMkX6NY5mjeqIMZdYzp1A5ssmQn8zTRUdlg==;tiruQKR+/4r6Y2VAsFetGg=="
 ---
 

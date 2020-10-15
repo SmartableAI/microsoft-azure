@@ -1,10 +1,10 @@
 ---
 title: "Customize Windows Server IaaS Virtual Machine images"
 excerpt: "You'll be able to create new VMs from generalized images and use Azure Image Builder templates to create and manage images in Azure."
-webUrl: https://docs.microsoft.com/learn/modules/customize-windows-server-iaas-virtual-machine-images/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/customize-windows-server-iaas-virtual-machine-images/
 type: course
 price: Free
-length: PT42M
+length: PT50M
 ratings:
   count: 10
   average: 4.7
@@ -27,11 +27,11 @@ topics:
   - Compute
 
 images:
-  - url: https://docs.microsoft.com/learn/achievements/generic-badge-social.png
+  - url: https://docs.microsoft.com/learn/achievements/customize-windows-server-iaas-vm-images-social.png
     width: 640
     height: 320
     isCached: true
 
-secured: "0PFALQJLwxyC6+GHbAnk+lI2cm3gIzkGXtAKDhhK4GyCif6KTHg1BEOTpRXmycDsrXERHFj9NfjzvxrOqooAcRvUJjrdUVqi7Lvse/G4THVE3apcYblkg4V3/El8X1r+R3OWuZZeWTTKqEFhOO8ATEn5Uyr5rEeCCHVVF2ZoI/fmJiiir6pkkB9eo7k0Pi2hjMowntEaxQP36jWUGex+Ye5PoITua/dX5xjpCx5XYvOLnuNPX0Kl0T2LSQ2YwaMfjp4d4zIzaIDjnHs6sftrEtqX3K/QL9q3OKBuF6pc4XLj9brevZC8qD3RQICx0ZGeatndsNEYXyXQk58h6JKyBioVZH0OEV6GQgHO4MCpiUrlhyoimNkPzP4GK5VSCW2sRbsoMbkXMrVjD1x4xE9xk03CHJ/QufDpgR+lZPFDPUI=;PlXxcBlBI5RyFnwPQOvoRw=="
+secured: "Bb9qeQSPYbKqz2Vs94FbuX72jIzLIwtnJ08bG0ZQJJu0coSuQZ3IdbCTa4OyvYdA0iUGK0L1uzHfxu+ze+m6xqp0rOGFrAEdFEXKQ2nDZLjeVk4kJ6vooxZj4plXdFJcjjNn6LOREykURmazQJUPcRGqfJA5B/eIYEHZZJ3JaFqeLKK5bCXCjGTGozQyvti+8Ykck5VXwP+mFHd8XOOyK7orfYv/KtSVqcFCLZpsfirql2cvo6UJkWhraHBW3+wzJ9R5o53sdLiyy6Ap984s8HIqzF2ERyHTjoxUDJX53Ki6cFEwahI1kKsPtyjptdZe5UcW/nc/7y5j8jnwU4ZxubgdmZjbQf8srHUkGe00Bsyi/Fw0c4wSOzN4ZLUQYwl7DlVDDnyPrD9BepjSvNzl1Q==;qlxyj3s0P/p55r2gT8xWaw=="
 ---
 

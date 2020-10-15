@@ -1,14 +1,14 @@
 ---
 title: "Maintain a secure repository by using GitHub best practices"
 excerpt: "Learn best practices for building, hosting, and maintaining a secure repository on GitHub."
-webUrl: https://docs.microsoft.com/learn/modules/maintain-secure-repository-github/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/maintain-secure-repository-github/
 type: course
 price: Free
 length: PT1H9M
 ratings:
   count: 135
   average: 4.6518517
-heat: 51
+heat: 54
 
 provider:
   name: Microsoft Learn
@@ -30,6 +30,6 @@ images:
     height: 320
     isCached: true
 
-secured: "fQu7fD3usRcFoHTnVZmaJcd1mgZvcTObifS0OLMdpbLUyxFE1Gw/ntiKz6g1Fg4qawyDD16+RA7shx4vvFmrFkmruMh1mKCfx2ZWwkfT6gHGSqpJJ2QJrzINY6YbMXp9Ey8xO37qd2SQP4H0GlnxOX05GdsjxJ+lXjiC/WldunY2Gp4MGdjdS82UBCzzQlurQUxeqOZp1zJ0J2vqm655vJjkB4biW+fFf4GgNpGnNbuVQVfsh4LhfJ2/oJiR/uWldf0jybmzkc8d1waxQDNL6qWXy5lUUyZzmN83UKNTnza7AzWPBe37UCdJbAHEhGjgKbl0ImYwIR5RAmMdR3bxvTkWa7uiOhf8nXQ/FT08Yd78mgkJYt7PlwI/WL0Zd64djGC/sQvlabvXy2HFmwbe76ai61QX/lMoZM8Jct1bJkA=;nmzlrO2XdRKizz3WYGXNUQ=="
+secured: "86sF2t9Tw7Mgz6N9KutN9Zx0JU/FYqSsSAvUywpyqeLpzQG+juNmNLOAiLgI/CIUK0xOJlproK9s6ak0h+p0VJAVLK1nVjIhm8A96kyXB8ofuB7UZDcTl295CbO0U48uakYITCVvoPz5bZ+IFoX39bLJwLymdiUEvv1ArRlLkxcKM5fe0GEMc31aqUBIM/g1NEuZCzFQtu5qI11UFwmIhh3dhcFFF3blLMu1DspMGjAArZITpizkaabzRDp2yIPdiQr5nyMid6N8RaAH8CRzE/LDBc/+ScYC/9QrsbZ8b2hBsN53omqUZ0tF+6j7qoc/TE2VS8Na10yYeFAk06wLf9sDxxW1XsdUXiAtF3LAaBBdDgwSNQG59NY1Y4qpswDLAXAZa7NhyrrGT7FbarsF/A==;Sz2ekOEackIqLLLs1kckjA=="
 ---
 

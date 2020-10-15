@@ -1,14 +1,14 @@
 ---
 title: "Integrate Azure Databricks with other Azure services"
 excerpt: "Integrate Azure Databricks with other Azure services"
-webUrl: https://docs.microsoft.com/learn/modules/integrate-azure-databricks-other-azure-services/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/integrate-azure-databricks-other-azure-services/
 type: course
 price: Free
 length: PT33M
 ratings:
   count: 49
   average: 4.6734695
-heat: 50
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     height: 320
     isCached: true
 
-secured: "lHyAB0Z+CY8uufmtBVNMmK0dMLsRzUbQ9s3fMDbB3y7BeYYAst0gfnHshRM9ME8RWm0XWhUn9E4I3SXO13W66wQh8iVtA0Z6Y8+thU/+4nbmnjvxwoqWxiQrnMeCY09lYQywNRNTbU8rVo862uBqzG01d3VPAQJkPZVGBUYHP492kS5zlSfoctgAaVVWqJWtwDMoHVFLnsPwmyUFRTROGi4swKEzKtQyhIVUTnGMlk5QDmYI88zFD5jJkZazzX6UeHVqn5EmL5E4xdc1E5eYoP5bSymiIPACCsEhV7S/PLDVLIyPK4/5ARIwC5yiQLcn/2BVrLrlE2IN3WWDXaySiBowrmnsDK0k6kqnV/fQ+lIlzqPyMgT9Z8nr208V8ZuYR9/7nq8Andv5YTaerfGmnWopQvAwwgXgaxef5g38210=;141yrbgy7YLu6MfmNjJSww=="
+secured: "SJCCaX38UnROiFzQMSY+PysOXc8IFWpejP4+Bbt27ILKirlDCkhFOuAKdLl5pLcd7n1y8GLunYSQKofBG4+8MiQQHVwoNTVa/gkWBSfu9u1gZEHXvr3JZ6mcjCnLEeCPxCecVErwIvUJ3VwAgPUpXLqY5BZ8H/Q1q0ztIjszU/AkcGyUUkmquMpPbfttaBV6Q5//FKKtAt1Dtp1yJ/Xhv7dbOhxtbomG6179uFqHk+TWBqgeNZYVtrPMByIFKYSEyvZ+yTWEAPjZCp61J0i0+48Tbdg3an5GIqO9Y4mFUyFB7eZ5lt8c8KfT8mHDkhCOzoOqIV29vl3mK2fBlIVW5iMTQeM1AOQXbelONwFbREkuyUFnmO3OCAbd5tKD375sU0lz/it0dBW+cmCf9klkqg==;NP1q60D3sCewnXnh0x0Akw=="
 ---
 

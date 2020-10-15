@@ -1,14 +1,14 @@
 ---
 title: "Persist and retrieve relational data with Entity Framework Core"
 excerpt: "This module guides you through creating a data access project, connecting to a relational database, and writing CRUD queries."
-webUrl: https://docs.microsoft.com/learn/modules/persist-data-ef-core/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/persist-data-ef-core/
 type: course
 price: Free
 length: PT1H4M
 ratings:
   count: 939
   average: 4.664537
-heat: 50
+heat: 78
 
 provider:
   name: Microsoft Learn
@@ -33,6 +33,6 @@ images:
     height: 400
     isCached: true
 
-secured: "3itumDDoP0WbiHokoaa+YnOM5HCRVyPI9GF+0mZ34jgeR6FYk/3Os5GXc+RhvPSG4RLUr1pGIcHM24FMPTqAruXroV0nesyYFQ/QHemavg5LIu8jkfiZhwWEdcyEjZhebGfEc6AJTBKng7dYHa2rxujliHZfEsrqH3jyVeN63swkdwN+so8EtTmaLVyBzttYYNOrWmAQro9wDJpYedW8OxLNeFYWLK3HH0wEZDBcBG7M44ElbILvDf4IO2POSuXny1LB/LEldnOuUQ3Mk81hqCpe6L4XdM1ns5j8GeBe0Vw+Lnbgh2xQutxAxCrBhtZenKvQOEUpqjovGIb4TCvYBGu7xNYkmQlCjUPk7sLpJJlarnMQJ2GnzXPCyKvijcaBGq6q7mIww26129H00DCCV/l+N6i3q50RSu1aZ7Bj8PI=;gKco3fKW9JBEsjIUPFC+kg=="
+secured: "yD1v7qUGO1N14pY6PSUGUm2YkIkEuzWMjCBCn+7R2xsBhbLPSrhzqJ8kFXovLtguC6XvcVy1mMYjiqEL8YOconMfK6ZfGSvuUeFwSkbS7UBvA2xsD2KXyKJdOavlnLEzHvto4CAEOfDJp9F+765SU5re2c/KCnXBcRtvynTbYUjHtO5thBSG6h/ZXdLKjX894YWxEFyVqj9B81RZdoiVJAxuhSECcRgTid9EP7msiXHK/sqtJCUr68XQrN1CCbay0997NNEr39prQvqNtG1zL4oZuF5NJUuKKy6zjRLpJGuVv9p1CCv5jAJbaa2h3R+DWtMbyOuAzh95p/G1f18q58cBSuuYreAV8Kx3zSi/gz6lg/RDRXIJORZArL2QubNMjnjF6qojuWK+95Yv3g0jfg==;eHekfJNGHdXh5OVqxu2/0A=="
 ---
 

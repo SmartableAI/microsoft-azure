@@ -1,14 +1,14 @@
 ---
 title: "Automate Azure tasks using scripts with PowerShell"
 excerpt: "Learn how to install Azure PowerShell on Linux, macOS, or Windows and then connect to Azure and manage your resources."
-webUrl: https://docs.microsoft.com/learn/modules/automate-azure-tasks-with-powershell/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/automate-azure-tasks-with-powershell/
 type: course
 price: Free
 length: PT1H11M
 ratings:
-  count: 4953
-  average: 4.7088633
-heat: 62
+  count: 4954
+  average: 4.708922
+heat: 221
 
 provider:
   name: Microsoft Learn
@@ -24,6 +24,6 @@ levels:
 topics:
   - Azure
 
-secured: "9UTPC7DzrRTZfU8Dy8K+UK/o/Qe5/FlGGOX4SRv53D5c4ciVgRXqoCamX9h6Kmwlim/6xHqol/zwDFgm8qHg0++uHusNYhKad7gUlhhF2HLOQnnSqU1XSRzykOlkgI0rmNsDpNIAeIlbdw47t15xYIc/zToSjZNR68Z/gcAs4Xf+HAPEwYAJDbads780gxlqJ5m6hNTpa6mykrCw/GQFcb2VyxjfX6nedsCuOCPrs+cSROeNu3CUuQ+ZnhbNaXsNkmKevpfa5UzJORS0JZ5ZUyzRIqQqU3tD8Kt8TAFRbWTp5l3PaqVtgw/ZuJSx9ShzJyN62WC0nkj8uJqWvdNkGevUnHbWT9Oyn2JwGBgKgEzL37dAyqhC2cLx8Eqsvc/EsYMDr65hrDjMyuRsBI7hfEBoJ3c44j7CCstagk1lD18=;p5tuPoQUBP6vRCDaq2ICzg=="
+secured: "ehI856bFTOJvhiFXYFOmtqdBYqLJVGk5yJ01q+rPkb1+Mcwz6CSW596Tf+4S1tGtZs/0/Rzl+tljidAU6e1ZRK2hHVYfphSc5s/xBInncLYZ+xnyqwpiq+ucoEHeQxWFztJTAbOZjZMf/ZBKhd869qq5Tqg5BiZ6bD8hfbw7Kc9hqYEOa5/liIm2ly6niG/Wvg3yC2zUXfAkGy4vnduqWMkGs8pzY4mGINJtscskSFD9q3om2eLxdwSXVih5czkB9RznFHYRAOxadjI7v9RPXmdh+zzPjGiWD7J8355bBRg7DlgeljpKsn1L1w8Ho4H8ArAB30aVfY7rno4VeNZhyex6Yiy6eSR9cuTOsa5yQx0/aSlKi2UcaJT8c4f4Wi5ltl4zglWCw50wTPABub/caQ==;S0/LLf56mgeWbkRvGgjeng=="
 ---
 

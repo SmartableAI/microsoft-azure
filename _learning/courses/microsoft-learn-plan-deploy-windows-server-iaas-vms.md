@@ -1,7 +1,7 @@
 ---
 title: "Plan and deploy Windows Server IaaS Virtual Machines"
 excerpt: "You'll be able to describe Azure compute and storage in relation to Azure VMs, and deploy Azure VMs by using the Azure portal, Azure CLI, or templates."
-webUrl: https://docs.microsoft.com/learn/modules/plan-deploy-windows-server-iaas-virtual-machines/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/plan-deploy-windows-server-iaas-virtual-machines/
 type: course
 price: Free
 length: PT52M
@@ -33,6 +33,6 @@ images:
     height: 320
     isCached: true
 
-secured: "7sjmM+PhuEJc4buvd+0QXmNwfmr91heVXbQZtRZnCyrk96lDtoXZ5wko71wHSPoda++VzrJcfboCe+Tvz7eba+E4LPOOlAaXbfYrgPTdBOev8TyHDfjD1HGz9gnuG9iTf4CCndTwz3AzrOEwXzbCpHzmY455FEpECS/bITNvMjnHUmkJLGdqQn+esskneLxqwfbORus0g3HouYLJG93CaBzwCmIWtrIynPVd0WfIgKTKLsc9ex/91qwStvNdGn+IqEbX6/kW50f3/IISoFO6I2Plr90piKLkrqBqBxeY1OSFdnE33oqN0wFOCHRbIUUJ+9AXlpM+fLKon3VZrZLwtSEIBer3QeOITGYskOubVz0DutNA9HU40z2ghTcAFENL+XDi+F/UEcff9fRkhq8XhLRYf+9nil2AtiRx8HrBllE=;DajiNFkMdYaBm7Zwa18/iA=="
+secured: "xI8FNXQSyHwzSmLgMJJHPtutyetsnSL43z+BK4zPl8O5VPLFO2vLvaQGKQR48LUo58M+XNIEdCxVrEYKClZceX/NCNOkaThq2SqR7GBIEVuTxBPJW9QvarMJJg/oYuQUqSS6qbDmmREpivHfyYrDkfY3L+e7GY7hS7HaMxCx/BrDQNboa6sNT2wJks8XaW2aOn+SM/H7u7zNto7I6DFZod4QlBQmtQkBN5c4ya4lmC6NncLiL7bJRZz2zPR6EaLtCFH58dS1HTLVuPI09paQJfGMHFB4S+2UsRIyYJnomUIWl4vhtagGlh+/r+gu0haQs+uxJC+0CaBahn1NZjuJwvDiPCMMt0C+wuJXIIyQNAMKkJYC3xVb7ydvZGVrrYewBhinKpJeH0429kdJMi8Ugw==;t8SEIinP0oezmVVphZNkNg=="
 ---
 

@@ -1,14 +1,14 @@
 ---
 title: "Start the machine learning lifecycle with MLOps"
 excerpt: "Learn enterprise AI management with our free open online course, including machine learning."
-webUrl: https://docs.microsoft.com/learn/modules/start-ml-lifecycle-mlops/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/start-ml-lifecycle-mlops/
 type: course
 price: Free
 length: PT30M
 ratings:
   count: 30
   average: 4.7
-heat: 50
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     height: 400
     isCached: true
 
-secured: "HUfqp7xSMNmiVqF37UcaifUvthEbR+IQi4OlnsOe0iZEscbZ4HfZK2bBhHrfdNoWyhQE7BvW2UEuMIsl1IjVWZGLttr1HR+trhWp/7Tc3D743YOIVREYPujWUvISVblP39S7Hnviakmjkc/TMPrJ8TGjlVh+Mj+ASLcozo/49FWJ53/j2LzIjVIzyPfRtRZ9yanGpKphchxUr32aMuP8mx1D91RTmgyiPZ+3KBSFwFeQ1y7+UMjFJHMlluWYxHnXXXT7t72GqawoqdGcuchJ4pauAaLgc/3wHxIpTjJjbInCgVbXLjc+juFqo5wAos4FgCjNXyfF+lZDTYrJD/vBKCp/lvkGS++CLFMUoQ6plVcNMMkP+sAm0K2QKiMlGvi7z+gf3K/aBSrmuWc2wUnsre0E3QZaRw3triS4U9Qckgc=;i7vxEb+5q1klWG+GQXcUDQ=="
+secured: "EKA4w3sfqAWdI0M71P/+ij+F28jioGNri3jSj4qynN9bc5Xd/39nlC5jvtTyTR6DPgR3QE3LIqhN+YmDae+yUvEBukNeRcAVY5y/Zbu4V9gN6khmRll5fBGYWPK80Q/60kJ/egqEEMwF1f2yyyqOZdXTgFpOsqZ1eKdjrmREbzmFr4p96ZWUbv1x8tQC95NWQOMEuj/S90+8o8eU9wyUolnN2c+18w0/G2UUebA7t8nvvvG2cxM6WUcCKBSianuvNv5iXLwfjz9ndCpJcUdHV8YIb60rrpuhYMPXfbERtley87cG5Y0r7Zgbii01kHbESNV/Mvrlxwo27djJf69kY+jEOEp8lPIS5pdSptZcit06vJOzPZZ/dM1jswp785+GPy7IBEqV9bi0gl7FippRZQ==;6RiukO6xTmo4UHFYJBNQ9g=="
 ---
 

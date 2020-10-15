@@ -1,14 +1,14 @@
 ---
 title: "Provision and manage cloud services"
 excerpt: "Cloud Admin course from Dr. Majd Sakr at Carnegie Mellon University. Learn about the different types of resources available on the cloud and the technology behind how they work."
-webUrl: https://docs.microsoft.com/learn/modules/cmu-provision-cloud-services/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/cmu-provision-cloud-services/
 type: course
 price: Free
 length: PT41M
 ratings:
   count: 192
   average: 4.7395835
-heat: 50
+heat: 56
 
 provider:
   name: Microsoft Learn
@@ -30,6 +30,6 @@ images:
     height: 400
     isCached: true
 
-secured: "jYDo2SpMfa4X3vb6cdE2YijRgJyKCOAFOvLJ9pNpaU0zeL29MdI6mqod1nZuDcrKK3o3yDBs8OiwlBDhDUP64Bone2KxwIuPYPghM3mA6bbnkOrhHUlf656QYSbeX3BlspEQys+KhOpWCAMFb3rS2p//Oz1y5F/VjB08sQg8EU2secLvQM2nZo3JyEORtfHhGh95NiKhDeRof7jVJYQnFklOUyxlSDN6iis4R1AC6v52g/oQBjPYi6QflXbt8EJdoZDTI047qk0qvvtWj9sccNW1ViFG1JrPb75FeUAFHmF8JILlDaAuEivmBb5t6uxXREHp3fRHpP8evjgJnKDUIndG9hASEayR+8qLB93bj9BVROpJ4bYhGfrrGuF7vnbivJ3TaxTUUYyPcWOa/skzId+yw9EAqvow0wLNahQcWyI=;uP/iZLUTte4Er8k9fLbGrw=="
+secured: "NBWcg+iLGet/+iUFwGrJ9mnaDkQz+7YDE8lfgEcSTuANls+HECZGDQrf6nlHf0Gd+RnyqRV2sCpQ6JBuJ81eXgyAnCDa3GHMZ7zCOE65lxdJAEinKEKySL/TTv0qYg1bb4s5SjkDGWPh59u66JdO+tufzwYk9q10+7NE/sxS+I7J6NXrdZUouogGWljfo+d61sEqY66eCwLxxCLvUrpHaWAqvNDCsDTVdYO1b+eDKS0W7EFBvCf9VrVzJ1UspX26PKWCo4XH/2i+sEe4i3M8uPDXtc8ra8sYYiuPUYE8RPsmN/yWug4tmL9yWza09h4g2vtclibn8xFr6fg1JPBslS9TGGSX/APbrlc/t+oRImkTGOwSvIarH1hUlkzVI7O8pa9CfMAlyOWvjkrZMikVTQ==;3pBWO3R9Kat8IO6+b1eSJA=="
 ---
 

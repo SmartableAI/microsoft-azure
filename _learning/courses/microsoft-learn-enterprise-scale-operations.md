@@ -1,13 +1,13 @@
 ---
 title: "Enterprise-scale architecture operational design principles"
 excerpt: "Enterprise-scale architecture operational design principles"
-webUrl: https://docs.microsoft.com/learn/modules/enterprise-scale-operations/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/enterprise-scale-operations/
 type: course
 price: Free
 length: PT44M
 ratings:
-  count: 46
-  average: 4.652174
+  count: 48
+  average: 4.6458335
 heat: 51
 
 provider:
@@ -25,11 +25,11 @@ topics:
   - Azure
 
 images:
-  - url: https://docs.microsoft.com/learn/achievements/generic-badge-social.png
+  - url: https://docs.microsoft.com/learn/achievements/enterprise-scale-operations-social.png
     width: 640
     height: 320
     isCached: true
 
-secured: "aHQwwXfuILPPwYig1KS2vumC7pb++4w3aQ4QQybxvG8sixtxjGPxaqqTwcy70t+ni35g1bKMgYplCKKJsSXTC7AC6hZcWTjJsJgAYQHtcKau5ZRjeezlVTbm/zeX4X23Ms6LRnhZod9ICvyX//iJU8rQtVFu10y/7sqm7GvImTmpcgchShzwZFfotrLrPTxH0n0POTgNaAflKo4qrbcck6Lafd9rraU14XQd0kUEUuuT2hjamSKvGNQN+yyYK4l1nHHjRobC7zuQWuMQihFKii2ug3xpe4vE2cV3MLpw65+gOYQvgovdZD/7M6FvkifhgWjrjNAJhp769d2tPaI4MypCsNU6HY/2z/FTjlIYD5l6CECsFCLAtxbmoel5GKmgsfybV88fimn/Thvp4rwzUX62gW2arXEroy16K85nsUQ=;NEWz8RztzuDs8Ykund7iNQ=="
+secured: "iMct2rgp8/aH/9jmha8I/yYbZdNSt96PCOGYIlmqu8XZ9YY44ou5Zkl5IGJEW2YKnl+dv4HulrUvcc9pF2nqQ9q+jzCQ93RX+1tZ7kvmezD5zs7VWlUGkYzaWgzlTYQf81qdJbR+Z3Z0KHg9/AtSEywZ+m+t2NVRDTOxpW6nNuHbko9ppDTkyIXhKqPfbW6FmVJxixenE9Uk2dfUQiskDnP9VvKxVVfaiUYMwm6y/kJ+h508CJ90ZVS7IwYvR5oLDty935ZGecIfuSvvZ8pBl9a/KjehhZ8dJqBbjKre9QhAsogbHN/qrNJi5rFs/9yEvP272mOXxVhpP+Go5py+Tf33zgmmIvtF2omt6JjkeqCzPmHAVMKgmxhhGcYsDXdHE5L8R0SYFm5vxtGhFyZbJA==;mh3l2MnkCPy2x5WjlDXg/Q=="
 ---
 

@@ -1,14 +1,14 @@
 ---
 title: "Explore performance-based design"
 excerpt: "Evaluate possible changes to indexes. Determine the impact of changes to queries and indexes. Explore relevant Dynamic Management Objects."
-webUrl: https://docs.microsoft.com/learn/modules/explore-performance-based-design/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/explore-performance-based-design/
 type: course
 price: Free
 length: PT50M
 ratings:
-  count: 1373
-  average: 4.780772
-heat: 50
+  count: 1374
+  average: 4.7809315
+heat: 88
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     height: 321
     isCached: true
 
-secured: "zR93LEtn5UyiIJCM+dMYmKe7Dsuqt2LW6uIVVHgc5C54bOh/+qvJcLYg199Nkc+JPNVrhPRM2b/rgVHGoXuXL2ZOA+NlsHM9EE7ReHFE6/oZho8kQJN9x9SriwDFy5UV+lGu+Ho7H+nCuJ7t8CXyQMpvS/w/Yoapz2/AcDiWtMVkOgyjGbZ2c5/PcrabhFLkPAv6p0yxLKE7FQBPbkwg6cmhI/kKXX/zxSj0aaGaPQYJeh6CPJJLXXs/Hv3uOfqsj2wg+QAjwkpcOejhUovlzvYIY0ms0dMQiRcN5IEzjU8KBMnkzuAiGWwS3fZMlC5TOF/P3srxD4B2OxFVdFQFvOQz/w3RW7hYTFivrY3pGeQc0ZJ5v0L539/A5l38U+R6nrveGu8wuLDswJz9TJKvwO/U9wnCUNRYYBmfSl4CTJ4=;dAqY8uGHgZI21Ckh8A67iA=="
+secured: "nar3N92+AOeUy47V7FwGvvOIaSNzL9gE7wvjQeS3VUS2g72YSsG1LJAmlhL3qwn1L2Gu9mEUW65tdw1mQo7pNnoDKMKjweGTGXm4LMNSRYJteyUGf+gXlgcwbZ76xW62cMns0qgVjcA+BMtqoO1dc1vAXJ3aFWQGVbD7FdRNTRr3supSOTKUcSQ27kWMriNp0mslrpXkaBqmzusEP0j0/GfZmkneTYHkV/JFCK2af7pb2+7PHzn3RA7f0dIP1vpPeRf47lUjDFeWdJvw0IefMcex30nU2+1SyWjN2bQBMiiZNLSfb4JOpa728yPnbtdFBXwh4kT+s5YUuAIcPzUm5o1Qg4zRsXLg+Ak9v0x0n7UsSF3dqnZ7qgOGeUCNaO7O0LC+U1yQM+lWL3jUEkB6BQ==;wJvlPAucIMmfYLFvq6ZUUw=="
 ---
 

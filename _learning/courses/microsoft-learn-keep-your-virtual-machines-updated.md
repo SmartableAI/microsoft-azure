@@ -1,14 +1,14 @@
 ---
 title: "Keep your virtual machines updated"
 excerpt: "Learn to use Azure Update Management to update virtual machines, verify agent connectivity, and use Azure Log Analytics in your cloud environment."
-webUrl: https://docs.microsoft.com/learn/modules/keep-your-virtual-machines-updated/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/keep-your-virtual-machines-updated/
 type: course
 price: Free
 length: PT35M
 ratings:
   count: 2793
   average: 4.497315
-heat: 53
+heat: 112
 
 provider:
   name: Microsoft Learn
@@ -26,6 +26,6 @@ topics:
   - Compute
   - Management Tools
 
-secured: "NjP2LTYLhC63p4jx1Bn/WoD32zN65/50CB5luasmZKZBn6ED/KHLhKXwZTPWQt0rzcJorLJDO6kzOM62ZleASbXfgg7c9lHgzxQPvpjZKNcIJ223E99kZSZmRJ1/l2cYINpFB88r9leTDapN3A1w/f0A1x/mLjuVM10bDe43ml94k0AdvTHFUdi9XEcILx6+qy+3F+ajACx+bRNjPrMgNsRZAoC9evV2JE30KtQQhcdBrRodqDCEIQqSPIMZ62xY44XR/Tdur4xDqsNN8XQMxyb54domurbI2a3u8NkN6uKMrvcHxbPV+LTWs1+lrjprn+pQMS2KoEYNwcCxwr61z5IO27lhXRuGsPgiuQd8kq5fKt3bdPq/LcJ6T/dtbPbpRDFvdFT/g3nIC5qQEtJvUdsbi/nYT5LMEejdmsKt8Lw=;nCIym+A+ybBiY7NYOOudcA=="
+secured: "wvkpEEI9wdKGY/G5NfNIYlZyZVAqEF4XNEVfH9fx7cqqiMiMISQ3hi/KEXOfKY32ubeYSZMyGqnAhB4IPlGgHL+xz1YDKyPcFrOrPHfDbQahoeOIxXMA7Ms18SbyuyEo4jaXJpLNSU0oPfpbB78zQvCIFH6n4jOP//XnOaDzdyowJ3gwAKAcVtC4+eW38W9HFzF4IPw4yVN/0Y4yft1Z1eV3XBpr4/PIHrSSuyiSJOrus7kGgihRlEF3Yq+9Mbd6eLGXkPaEQz4lGSWWWblJV72PWKauFHRhG2FWRSgeuq6pUUo9ZPbTnEWcaNt/832NlQKAjsnp0AYoNGOCOo9MM7cBGMnA7asq1VLT67vT0ZqP2NaQAnO+JwiIhYrL9HFeNeqvu4dpoNLO1s6lcsXdQQ==;pXwi/pwOu6ndbskU9HhYAQ=="
 ---
 

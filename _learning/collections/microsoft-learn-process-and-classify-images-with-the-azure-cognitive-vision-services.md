@@ -4,7 +4,7 @@ excerpt: "Process and classify images with the Azure cognitive vision services"
 type: collection
 price: Free
 length: PT3H15M
-heat: 61
+heat: 105
 
 provider:
   name: Microsoft Learn
@@ -33,6 +33,6 @@ images:
     height: 400
     isCached: true
 
-secured: "izFjGGOZZRAiCLsSXhgfe9v2ewmsVvHNBJsK0rBsC5YIBoPk15kXtn5hBJDrP6VXK51kPMjL+8ZNp8wD3i2pFCXQoQPF9QtUK3KjQrDOnITLjBVsJddNNCdm+DlrQ9aiOdz0AO8JmAedlVSWRtc/vhuODd+Mn4vcrPVPmQ/Ge6PXjrk10lSE3g02zbf+0wk6xpr4mLRRLKP7o3RRoNmdyAEhUF4oeToGea4/lldkW/6zjN2XVCVqkLMkEqnw80VYp/RnERNsU3W9t0i1uYIckuw7T13650rqxaeERF36gpwKCpi+BRcv7Dyc3QzhUy4ReHJKl2kKZx+Bw8Ubx1AqA8mWIdAnGtIdYO+NHeb5ABs=;DzEjzlnoptQzEqxMwqwkeg=="
+secured: "bWz3ANC53pPw8yTJmpYPkWpRm5TujiBXg+Xbs3cEtcXw2KLQTO1T1nwgoSDlroKSaOxcXzs7vMbEf12JtFyMSFjMYOVVf2TNhRMkhskourM0EMNdsHBr44/BBecvWmgaKSnIm+Hqw7FktkOgCsMlwlLQTAuGRe521nUkw8rC0M9AwgctSOkh68su4OdkD9SNAieSGN8YxecMWptRmdHf6sqCeD5OrzHpcxGy2UL8M62BEnQ29eHl/9ZPBWQ2/KFhii+6n19DqW+5MJj5lHt49BJJmJwy6Arz7qlJuzgKJrngRBUujhCFFvektYLp8xCTqVTgbrIQ8l/t7TdEpMl1Hotr+0BeZPGV+4xxQp8frOo=;jcO/r91pdzua0ce1bXpirw=="
 ---
 

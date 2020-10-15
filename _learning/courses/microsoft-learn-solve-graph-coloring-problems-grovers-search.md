@@ -1,7 +1,7 @@
 ---
 title: "Solve graph coloring problems by using Grover's search"
 excerpt: "Learn how Grover's algorithm can help you solve search problems such as graph coloring problems."
-webUrl: https://docs.microsoft.com/learn/modules/solve-graph-coloring-problems-grovers-search/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/solve-graph-coloring-problems-grovers-search/
 type: course
 price: Free
 length: PT2H34M
@@ -30,6 +30,6 @@ images:
     height: 321
     isCached: true
 
-secured: "80q4Haz4RHKdFFYbtbyWd2uGp59iKkHjb5GFgH4JyJzYa6ZZBz6yyxKf+C7FXMSJjwQjhcpeb2FA9GC/WIyJ9fSKgERBsaTvF4E5NdeRL+PqzQjTwkpwxyn/rnr3vpN8CYNka5WCHncr/WPjOrbAuODcFajT6GEW53FVZ2Wi51XZEVqS5fOrOs39q+k63/lrndesp44sqWrG7pJXJxCndVZ/E2nPogw3QQplD9nxe9HbNtH7zVTLMX0zV22IbhMeWQGbXAi4kWknLmt08bLW6EijJYYw0O1TKkdHhfhR/+JVuFaLvlMmWkvuVtuTc1kkXqPyQV0vqKJw7weWvYMYcjexDFn4Unl3fJeBnkWcK8L51p/bon16D7d4INYRX9C/8Gc+cLuczmUvS9+R4C+3D+xcXtfyqXUCw0gq5GWApRI=;dKO1zPnsq6u7NLvUz39tRw=="
+secured: "84+xBFxniF1xNhN6iDucRw9pxRW0L282IrOslnHH+JOD5siBFn66sWAMUT97MO4nzlMbvxSs2A4qA+tKgBJsRI3RiL8ipQufkxjs3wlPGBqM2gGeOJe4bNzLt7paRTXkYprKAYNj9guwuCwQIB5ddmhV9OR7bdnhmetXjb0607OdIbJJ0xY7oIeJyBrRQtiGRpGyjlETrhnoaMJkUy4/76/l0g9yfB/zy1YXB+7DmRo8Wof7osvGVr7mi2jKYJbsh0PQMke1dJgjpDzDaqQ3tQcaG6H35OG7UOPJbxrQN8jfhaJIDvGPrpoTCnPosCqkVE6/tGFmBLCEM/ZiLymi+8KZxWT2sA2p+Snh97ap+72DbuWAJA9LoM09INzTg45okkRO4obIGOACbyCxobUTlA==;zTaNtGIvOYnH/Gi0zT9ZRw=="
 ---
 

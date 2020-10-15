@@ -1,14 +1,14 @@
 ---
 title: "Discover how to foster an AI-ready culture in marketing"
 excerpt: "Learn the necessary cultural changes for enterprise marketing organizations to make AI transformation successful, and how they fit into a holistic AI strategy."
-webUrl: https://docs.microsoft.com/learn/modules/foster-ai-ready-culture-marketing/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/foster-ai-ready-culture-marketing/
 type: course
 price: Free
 length: PT38M
 ratings:
   count: 632
   average: 4.786392
-heat: 50
+heat: 70
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     height: 400
     isCached: true
 
-secured: "UngBkxWOIwr2YQxQF9CoQyJDTaIwlnOPB3jwO3ym/0DAXR+NHc48FYQRBJivbMgDzjJUzm2XLuQUepOttTN0ozRqCTymYFa/F7g6/mPxTGK4JC7xQyW+LMsreWk4xKVr1mksUDjtiJParO32L2DHTQlH/MTOyL3EIPPjboPa7B6YWF3enRT4+q4ijn/vWGwrzw3g5QpqT2FtV1TLh74T8MrlLsMaHOK7K7I8NrjImnv2jtbj7/Uh7iRHgYJWJdWSjUc5kMaoUCeJAcC8s2KuZMk33HsajrnLLRvvm67i605GN1PwY+XbGhD2ai4eXblMKwenHk9SAvsYNA9jMJakQv5/3pAcxmAIfGRICeuZJ0bqtoRv6It/MofNgk0eCoZx3qmUmvJeyJ9KwPiYIW6bRLknbjZeL3vkhXxBVYzovkU=;6ZJOHaTInLW8yfsYfvjHIg=="
+secured: "3jVy3IFllmcCU1MgE1Y0b59BN/Ym1GNVH4Wo2ENuaigO9MYyQTWDu0AETOr7I05tjVV3umNS4GodA5qVCbKhF3pymBwx36EG66cm5jqIx0fdStIUU/jwzGt7Jwms7ousJQSxTewSBP3puc5FDQuL98FU9Zl6fNZIu7YTqhz5fWTO73PeRPSYdloItxfsD1iGq3k5AgpJOphdgR5pnvInjWG0y1GEOYpN84mjieaxHQyojJMEViXVaMolLMyOD3CKUajSkN9tawg4yDvJeFaCyIk2B3jcBO3rlaZ/+5uQOsUGziERQ/Ijt29b6EqlBeuh/btXzcEj2Qsu2EYla4g+U47EEEWaEeDx6gLMS/jMy7Tp8J5Wgh4hJh/5/D16mL0OtZHFnxZkLLVAIY2hcmWadg==;EHxdrBevvFNWjB6ztskP3g=="
 ---
 

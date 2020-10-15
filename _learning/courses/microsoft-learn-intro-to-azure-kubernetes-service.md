@@ -1,14 +1,14 @@
 ---
 title: "Introduction to Azure Kubernetes Service"
 excerpt: "Get acquainted with the Azure Kubernetes open-source container-orchestration system for automating application deployment, scaling, and management."
-webUrl: https://docs.microsoft.com/learn/modules/intro-to-azure-kubernetes-service/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-kubernetes-service/
 type: course
 price: Free
 length: PT25M
 ratings:
   count: 3438
   average: 4.611111
-heat: 57
+heat: 122
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     height: 400
     isCached: true
 
-secured: "qY1NAhWPPXsYLR7I2S9PFvZgrMUpqyzcjoGd4K7SgqgaWQJ1JuublNscO6Q3WYEZP1NrkDIrS2EFNaVwxhe62ZDElJhEEXoWCmV/oTTaaxMRe8inb9EpSxIIXGMIyAcfGppEbnD8Sq9tgEBQZx2vLs3nSkrcbpqsMskRJ0HLo7goZZAaSbhKw6gp0cJjnkfwo4aDmQvvf720kmG3mVmTc/f06/XvYQuu68ZrtQMSpTM275PzWVsdMIMvFkPFHX6SYhcHocvb0vUcb1Wg1Pae/RTVv1MA91nsn0HpeBP/3bsBURCNcMqzHfgn3lYZgNjIrsZ15SjlmVUx4c5CsexIhOw1V0oNrhgr438ewX1hh0hREW6U3RWX8qE7XlilC02UZHE1jFDDKNN1ygqIiUxGPnPDNECCiYBBlovO2jRjPKg=;t5cZ6oeTSgTfetP2PtK/1w=="
+secured: "lgMbUw9Y04wlE0HWd6bpMD1AZuAaNmSYN+a4YnwVHZQWaw1tPw74i4MWqA+tgTuuHQ4boaP3ETDb0disGnXlkNAqSFv+FjjD6n2ii/Zf9zQ5twCKtvG1lo3GXiRtQqeuySdjvS+3q7/eVRnIhIox/chfAZ2VNtjEWAqtyJayDvgr6kiQx7kRbk2se6ezFUpp4GRUfLGJc1KjXKtLGzZGOzUPxYBi8Sm+QEMbNgSXdJXyY1HGFzhq7zk8JVhBrOp85A4R4MVIn5sbTMiW3YOb2zuu7+z8JZZZH+u2Jes1afLwaZt1nfn5jMv4FfZaq/u/wW8TsmoRW8oguKDH99gKmY4fTrgGkpAyJHMay2wMQn6uPI6zMWVLpGxEx1sJHrmgli8Vxh/noLCFyoFZKCnKxA==;k9o9TXZqh632DNH4QtGVow=="
 ---
 

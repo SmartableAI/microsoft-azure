@@ -1,14 +1,14 @@
 ---
 title: "Compare two samples by bootstrapping"
 excerpt: "Learn how to test hypothesis about samples using bootstrapping"
-webUrl: https://docs.microsoft.com/learn/modules/compare-two-samples-by-bootstrapping/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/compare-two-samples-by-bootstrapping/
 type: course
 price: Free
 length: PT1H24M
 ratings:
   count: 49
   average: 4.632653
-heat: 50
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -30,6 +30,6 @@ images:
     height: 320
     isCached: true
 
-secured: "+MHE1Iv3MHeqmGV/hVLIA5RG1zXvZvIaM4JWevHgn3ZPvqF1JS+Iw3x380TytPhzlnQVaqQ5+CCivoy7lPHoQEnl2tgUUZscfwJaDd4SOOWc2GSS+swBlT3CQj8mocDDsG3l3DhQEAbAQflQT6bJuSIHCfVXk3RuYR8KY6/oGZkbknY6c4KKTKpH558NlPASHsTbCBxk7EVlHWZzMXN/EhI9JG7TvHOApvLS/HFr80vpwuWRL+6rS7SWVv2sOvuYPayk7paO+FFAnZHR13a4fPKjh+e1I09wZdDgkpQPGn0wptHYCqox/tRH640S34L9rfVtRoiqQTK+CX+c07N6WyG0oypISThNHkNZgLO5ulyjVWU02ngDjcIUgC9CIM9uy0oyMxZ5Lec3n1uIuUxW2WjbR+NL80g5v4tAbA6ed0s=;S5/1yY73feycNUbOHFLkDw=="
+secured: "xUZlSiqrWKYxBhg+0y3nti5DPKDMBjPqeL9LjG23aLxazC/0gPSQqRaWoC28acZOiUsW14n9qZigihvCByV4TxvMqroMe1HFYstM587cqJw1jhjdOG/7wbv0/G5BiTUc8+fUU9lana4UEP4p5SE5ZWrEYGM1/gZ6QZBlPKDTaiup+QyJvER6UhJ0P6vSIZl4h4GP85IGRem5tB93Oih6XpSxaV+20WY6ygiUpsOgHiTO40FiHvKLZmuVfIIdsYzOsjeugbVqwN5k829nE4QWffdOBsP/9FWf9qw2qJzxJ/Cm0LToZSC6P1ktO0ht89j3ro56SP+XbIrM8UZrIh1LqurAeJq3QeznW+MY55ZkEhAu8G3PBkVFDmmngijJGN2nVuXhWiJ9G8k+wBhXdSCsTg==;Dce+eObIeim8GASSfPdETQ=="
 ---
 

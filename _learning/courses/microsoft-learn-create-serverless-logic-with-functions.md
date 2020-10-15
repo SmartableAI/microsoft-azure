@@ -1,14 +1,14 @@
 ---
 title: "Create serverless logic with Azure Functions"
 excerpt: "Azure Functions allow you to host business logic that can be executed without managing or provisioning server infrastructure"
-webUrl: https://docs.microsoft.com/learn/modules/create-serverless-logic-with-azure-functions/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/create-serverless-logic-with-azure-functions/
 type: course
 price: Free
 length: PT36M
 ratings:
   count: 6623
   average: 4.660275
-heat: 58
+heat: 156
 
 provider:
   name: Microsoft Learn
@@ -27,6 +27,6 @@ topics:
   - Serverless
   - Management Tools
 
-secured: "Aqw4oN4ncRqV5Wpf0PcswnWIZrO0W8+1yxc8JXl8+WrHjDFVHwsKepWCMUqq4gL4Ex5H4dI8EBkfbKxna+mIGWTVn61pv3TeJ50s8Yhy4WL+v7mjFQlOho7nDGpEJS3Nx5x/iU7o2DATfykgQq9NjOxw4pZ93BA8fBQHjCl5yKdnCjXrmEt+Aqj06K4gPwWwtmjfgklADF+Iev9bEfW+pYN4tgXUwu3WV/Tth+nCE8LSVWzWQTwkaKmxqmArXeNp+zXABUdmaVCVcjYhrsCOhdGCATolQttyF8K0zqZxar5ULoUkH1F+wtYv005gBiF9DY8KxDAXFEwNq0+SZ5sd6+9yzrGokzGqHQ1LdCn8ZnZBr62SOkX08ALEsKrIKVyLq4HmN/a8xeDVR+eHeoi+73DUnU8Ywx9j6nTUfiEJskA=;H0P6sj/Ho5eIfQVzddEsuw=="
+secured: "phJLH6CmP1h5rx9MU3MDnLLSrUIEAWcaPeU2gjVRLNreSehGuV9kJv3NbonQLyAuotF8HlI7y6KSv8s4nscWTbJjmvo3XZxQFCN9kCITA9O/9W6JcRu5rM9Y+vG1uknVlYqwm7mSiBOadAJzl8CmYUuqp+gbLy6y0viDbLMW9uvjfYpQSngbF+0q1tSINrKkCHVWDfwzHwu5fo1iMCZFCe1FgnW/DeWW6qJbgkUlmRAJuAMPnuL8vI3aTjXqbp/yl3yJT+pjJShPEFAAArXvA6LzbVWj/UoH6r5xsS+7cElIqg4RPNXlg/DzRLpgPf34vNqW+mJW1X/GWOtURKkluHV9Hyc8bSlvJLDL75y9dJQIa4eQENiRCc/aDjT7eW4lT8bvS1VgoGDv2eFUDn1wsg==;ekhAFfQiDugACLNhoq7M3g=="
 ---
 

@@ -1,14 +1,14 @@
 ---
 title: "Discover how to foster an AI-ready culture in finance"
 excerpt: "Learn the necessary cultural changes for enterprise finance organizations to make AI transformation successful, and how they fit into a holistic AI strategy."
-webUrl: https://docs.microsoft.com/learn/modules/foster-ai-ready-culture-finance/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/foster-ai-ready-culture-finance/
 type: course
 price: Free
 length: PT39M
 ratings:
   count: 667
   average: 4.8065968
-heat: 50
+heat: 71
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     height: 400
     isCached: true
 
-secured: "bcnQP6vT5GtR5kcZK5zr7GgfhohJ9kRZDLyawcT01wFZLTavy4G6I6ohIF8/2uVKW4ltZ6awBvtoo+3jwyaF9hCGld0Qmw+RvgzZXWK3lm0WhGpXtbO9IPwoOp46rZeoAEduDwp+LLJ3/+w5d3mdBS8oL5f+KC4JARjMzOt7P5Yzk3eUnXjGJ+6/A/ibR+By8y7K/PM0E8DLPygawFMvUCbux/XcwepY2FgLGGhvfq+brlu0D+KaDUuUR+aRX3SDcACeLpVP43kNeC7hjmbd9E/eXETsEeS/ruhzK71NLlJgaGoNjDlsThjrGf1thSmyh+wYTBCUNhwy/5ORocdG8UtR/rjabR8K0dD336F0CGRo0Npi7frQhwxhJBy2eCqL5vqXEsZlSz7PJjS/1wo4k+e3OoxSBtXm+UOT7bFu/DY=;f83vE0rQJ+ZmD0OcP+GKCw=="
+secured: "4E7Rr/AscSKbxSLfHCOFLHHQfYsFVxPHS1WlanI2zn1scpxzOnJBXiTCqQlDeMhKWYYNgP6kBVllVwqMx1hrnUiji+aSN9dqPZDSHo3aNTzrOlFwxMv7uhgmWbo2Xcm//WXKQByrAxKRB/Jgdb8KyXxulyEo4Q/Mtl//ucsUUqjf2BTQ2QTWn6Z8EU4beN1NL6LP44TDGAL+wpxmykBjcY7hTWr4ZOGgQC6E31g0MAUAUEx7vNRB/tQ0Iu4oIhPcWCh6ONU5XifoTDEx7NZmwvsybFbb7h2ozeJE7PIb4voKpKq/qevQAVR5XtPUNt7suN8aevHruHezuSAfq5vWAfR4KzmcQIdiKco5KIVaUCwPnf3agKU+mDNGDBncikdNm9CI5s/PyQPY9O79AtigUA==;JuExx5K4oAcIRpeDZlStVw=="
 ---
 

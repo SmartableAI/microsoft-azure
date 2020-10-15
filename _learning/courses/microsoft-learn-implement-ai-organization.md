@@ -1,7 +1,7 @@
 ---
 title: "Implement AI in your organization"
 excerpt: "Learn enterprise AI management with our free open online course, including machine learning."
-webUrl: https://docs.microsoft.com/learn/modules/implement-ai-organization/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/implement-ai-organization/
 type: course
 price: Free
 length: PT41M
@@ -31,6 +31,6 @@ images:
     height: 400
     isCached: true
 
-secured: "8oWi0aP7jJonIvtGuJ+RXXIU/0A7QZMGx+rcD7+OfPe1pHrZqLESFOogtEDm/rG19rFCSFzCou7VGxOEZOQbYk2On4TaroamUVPhIz6lDBg5rivyZyE8uJm+8l5jNtFG2Bs91lh3GzNPs8L18MaGuzXvxN0rxwtzU4GIdvOw7ZT9hI1hshxu64Gvt2MHp+zsKVMLnHYab/x/mvfSKUW1yHjJez0LNeCo/8tHSiguFqb92ouKXvYnhb4JC8VTqgocgvFZn0lekTspBA0NNDJXRVRbL140WTpAxd9R1jcTC1GwOuLMRlhlMm49rrkFiO8IZpY3uHS+Gale+e3y4LAFZaSNeraAxihkmD+Jc6RjxA0tOV9tHaAveq2yosrN+1I6iskpJR1qbPO8ekx+NaiJj9nhNugtsozIQLJf2xQ2BqM=;GXabonSvBjO27J3nUfprCA=="
+secured: "x2mLr5ODLWTVBQHZunjrO8CYbjU3mFnr3E0RSNg8VlXi9N5W6C5jkC0JGsLI6l5YQlDUvUhSApaiF0f41wfkhCzDrcpy/qRN7Thc5FIEzJZvhczyQka5y4NH16o1KnpbMeOflY0fap0gABVRv6knsroEzo1SqyqNIu2A+QJf+jiRDeECa1h9t8lIdm2WwWctztq42NVhKiHHEj0GH+A35ag6u0vMRw7ot8edwW9WAjKxOVw0YgoKHa1KXEazd4ubIBbayPLj6Mow6ijtmnu2wLSkJ34yLUSaqDblFJotrZif+YSUEhY1BMSuNF4G9rkFu0E6PU6LzIIxKCneEeSJDhkvicYOfuOKJK2E1VexMbthqlV9PyG32S9K0CfNEpIT5h6JG8cxySmgYLzXJuB/0g==;E5SOTztjgPsddoZxilRV7w=="
 ---
 

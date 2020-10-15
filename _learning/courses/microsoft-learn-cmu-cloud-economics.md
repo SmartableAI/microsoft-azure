@@ -1,14 +1,14 @@
 ---
 title: "Economics of cloud computing"
 excerpt: "Carnegie Mellon University's Cloud Developer course. Learn how developers pay to use the cloud and how cloud providers are able to charge for their services. Get an overview of how the cloud is kept secure."
-webUrl: https://docs.microsoft.com/learn/modules/cmu-cloud-economics/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/cmu-cloud-economics/
 type: course
 price: Free
 length: PT54M
 ratings:
   count: 68
   average: 4.602941
-heat: 50
+heat: 52
 
 provider:
   name: Microsoft Learn
@@ -30,6 +30,6 @@ images:
     height: 400
     isCached: true
 
-secured: "AACMGJLEZIoPkao6NN+p+xphKfmNtNThudnn84jiS2VYfjefMwU++w81DNEulOKJhvTNna2lBAOdETbAid82tHZDQYUDEO1Zq3/7LVZEA+Nv9MVSkkAQjBiA2syQhnrRkzeDm9bTkVhKUo6IBBNCTW/IF+dwbqtdSxv/8hs5+wgrXUgOoTW3jYJdKEW9B0x6ihY5JxDps0zioR2JUQmBwziTkfJ86rJ4IFl3uEk4j5W4HK0wJsYDccez1WBNxFHaI3Gzs6QoDHnI5kyKkx7unW+Oz2i/lzL2/th5vNjBw2mCBywGYc992S7HSz2fHKM1k5LPXtYSbkdfq/cuujojnYMPCD3BhjED/AYYdjETGbbigRGPx7BePjeu9BR31e4U7nu3cDKp2Z4kU/6hfu/7GdGwtAqT/+oLo/+7QfUZP58=;3D8yG3wlcHZad6pggb7VyA=="
+secured: "VGqHLoGgCUTI/C8dROp358S0uBu8gQK2F7B1DwsNCX2R2fYQmhM2fE26GAA8mFidSOP7VM9fl0XBqS5n1LGHzHsqvIX0QAomkw+st8rploytpxwXMCbnTfZti948wMZ7joakfsSRSFDo+SrIV2NS5QiaaxkBWuOveSnS8y25Sv1ZZYQ7wu9/YcOoePxA3mOr+Uv7olsjGOsftY0bNVqomuw75kbKEbAbYieovdsYrA+x6SbyQEd5a223UyvZxTeEh0kQ+at4YKOoxVNwZQLrY9SAEG4cELgjJ9Tnzi/bk4NSrSGY1cb8Yy4c5u1uTWPKm5qANF21NbXAMGYnhpysWorjtAXxiCprxloEjKruhC+ab47gve+VqgrotB8XP2uie/HGQPzwgMEg/t9EWQAKSg==;OvfhMUjnT7ILiM9Qu4Q3Kg=="
 ---
 

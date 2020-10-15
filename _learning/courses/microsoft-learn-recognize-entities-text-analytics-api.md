@@ -1,7 +1,7 @@
 ---
 title: "Recognize entities in text with the text analytics API"
 excerpt: "Identify and categorize entities in your text as people, places, organizations, date/time, quantities, percentages, currencies, and more."
-webUrl: https://docs.microsoft.com/learn/modules/recognize-entities-text-analytics-api/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/recognize-entities-text-analytics-api/
 type: course
 price: Free
 length: PT18M
@@ -32,6 +32,6 @@ images:
     height: 321
     isCached: true
 
-secured: "zaSkDqpMCIw8F9NBuSQegOmabWXZbeJQ1gIZyrQ1NmbSp3CW+1eFeka04hC7DxNyCgSjeg+irPfdNwCwh9+i7iyEqcL6qkpmJRQqAXbZP5amD2arPSoeKzBFV9coGYCGMkyIKB0dY8pIuqC1zDO1aSDXSc0B4cBp/2U7LmuUccNOCVgQUwAxGnVYL7wYD+BqGKAVQZ/6kP8dBV9zpG3S1y5FIf52ykVhSJsZUW1NSzY67G9KHuozxbHogMdRQd4Tyc2nrSKAdg177MKd7A5ybBpaBhudj/NJno7bZ3/a2NCcgwhoqVn3XtYJL/4tGRMoiRgGmxB6Vfrrytxw1PTHkBLzncztvRckbtSvBUUlkdxwbz0Dd7dA0Ty46m0rXFNXkzLrmzKBOYnH/x0pAF5KLfzHflehFIIvUmQjzske2uA=;OiuMVUiN9WOY0cObk0gFtQ=="
+secured: "+Wd5HfCVFiKD7q218bmUqu2u8r0EoMMR4u91ugGe7s7r4WzymI1S4emPDEDpAOqESQ9j+r5qKgoEnxuaqr5ss+d4seYnu+yXZq2Fkj1Mhx5ay1zhoWwSmVzOrG6Z+dEWSJR5JmI6cNGSGqNXe4NWu4q+6i24fcKjWPJwvEgSFs995c0dLE8nZUvbrWyXB4IAH4bvGSSsvaed82XOivawXcsjDDUP46jL+htGquW+anNjXiUAE8aR8aRRQgF7Gm4llF9IzaufgksLr3ys6TaXcNoOxcFUfarSl6TTlLGyNAdGuEylW6U/6TwycyLV1vUfm8s3nhqUDVizr84aQQqY9kSsZNIju9bq4y6Qezil+A8/XPsKXTe9+hjp213pm0SemE3eRW8TWxrqcMCM8MUZsg==;miLe4Qguv0FT7OjZEZHj3Q=="
 ---
 

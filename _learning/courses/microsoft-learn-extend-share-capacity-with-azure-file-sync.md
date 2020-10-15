@@ -1,7 +1,7 @@
 ---
 title: "Extend your on-premises file share capacity using Azure File Sync"
 excerpt: "Evaluate and deploy Azure File Sync to extend the capacity of your on-premises file share."
-webUrl: https://docs.microsoft.com/learn/modules/extend-share-capacity-with-azure-file-sync/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/extend-share-capacity-with-azure-file-sync/
 type: course
 price: Free
 length: PT1H16M
@@ -31,6 +31,6 @@ images:
     height: 400
     isCached: true
 
-secured: "trRBfJTQH1H5FzhDyUjauh29fNNCmKTynPShFMOICk3+3tWzj0KgvASD5pm5cahjwP/ZTDc3qWCyktAsRorhk04WeBNJ32Equvq2DHzkAyG1n0YaZkNZyPUMLWm7JsfTyd6DoB8/a3dXfb/oW3pmim+3XyWYWrAqFythE9zQ/OwI2MOUl7FSTJ7WPijTFNGJvr+HkYPSYM8y38lLFlpl554AnUhrSgp5iK3Ztz3sfOpGiYH20XCK0h+L84fMxhp+ZloularJMOH+Efunl5W4lgrV+/iwNw3nKvoiPc8XfClDSYiNZL417GvlSv7l2Ugoi8taggzZKEw39hZW8NAyxAAVIEe4YM08/AzWBarybPzsR0EDN6CSSzlSi2bRGhSXBepNLTPMkUDjr/AJZ5kqyPtkpXcv72kVeeeRAuKy8vU=;F85Qr0PY7makIpBDxhFMBw=="
+secured: "ohCbWFYGM4sm5xphuhQ9e/Uejz6FjZGK2ADpUwE+KJzBOrGD367MyCX/jFc+9qTDPLNINg+EW29nkoy6xUZIu9gi65YyXNzNcv2VZHTk+qXHBidWldz1EwHVNAzO2d5WAFcFI0HTyUC7Fhu+LLLDvl0VMUdT/5pgYR/XjK1iIi1IFVT14y3N+LMBOKAh6nrGskTOPoHN/ZKG97yyLuDoyt/v6iV5swP5rD1qXZ7/aFGTGChrgMZBcVY6OprUENY17RMk00F41McmUCZVJBxv1HwHGB/1rRsRUFGtY6GhcfWi7axTnWc3bvJg5+s3BZPQzr34tPkU1I6INfSEHlNBGaDML9lh73LT9NbFX9FxIXMW4wn8DFRTwGckyLg26DoO+2a6kC1JR8RekcHJ82fK4g==;ccbuYyTlSA14/UBtbuIjbg=="
 ---
 

@@ -1,14 +1,14 @@
 ---
 title: "Examine components of a modern data warehouse"
 excerpt: "Examine components of a modern data warehouse"
-webUrl: https://docs.microsoft.com/learn/modules/examine-components-of-modern-data-warehouse/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/examine-components-of-modern-data-warehouse/
 type: course
 price: Free
 length: PT24M
 ratings:
-  count: 335
-  average: 4.7582088
-heat: 54
+  count: 338
+  average: 4.757396
+heat: 61
 
 provider:
   name: Microsoft Learn
@@ -30,6 +30,6 @@ images:
     height: 320
     isCached: true
 
-secured: "BGRgAwTWX0R8wHQabxnQWVE+gWl6ImduwmtQkPDbLJAUNfSsxae9ve1/pApBYBTHYDhIK8xhTecoOJaChz+2fjiHBo5XL+vveYFQIsoofNNPgG1yRe5LzDp+bVdciREv/Yj/hz8k+LXNx04cr0x51Kz9fmuoKBhgwVeG7XHfYSrLK4P17eOvRRB0jIjxYuoves8L8yzbkqYIabHUcGNbBHBC23Uuji/4ofSW/0XHpJnKGaJDnDysmECG5hGBsQ5dmUUgwI0yieKcEDg3XTmAVrVvwwxMsc8hHATGh8n/bhkzeOmRMPMQv/kvCkNqhm8iQiLHO5WQXtUamQDGrrcGS4LkllV9OS4hIzn6EtCaWZqd3wdPiZIFusI5e8+g2en9GI67pOkxMiz62xgextzrEslabgtWAcPTlKsAL5R4W3k=;7qWyUwlE7JzcIV+IKa23yQ=="
+secured: "VYpUAD24/xGWI7xG1cqHxDRwA+6YizAxSrW0i2mF8srf6/0gTCeL0TI07q4NmLLIEsh5fjAqgJkm+NsOh4GXu/NYYytF+xjFFF9nau166rDi0WrHDv0Fy9A8uqTGzGo0cQ27ZdNk3b+hjEPX+7m4Gh/hEL8tXs/WlLKSmK5HAG8FqgHdwU3/oFFfXoqXYQ9h3dSSYkMMtNH5sahIeE6aqvTF1i3XdJhp2OhdA48Fb8srD+evZrDgFdFhj58hwRBm38lsmRd8zYsDyN3YXoak7vqBPn4ZoiZWGotm/L6erv3KQ/vdytCQFX88OgkQVM6SE/F+5Hzn3lOMw50m4LTvL5oeSlpXxdBGLlzHS2nXZ+IUiuRACaXHN7Qv02WVlts2W90qbXtZl7W3Fx3lZV3eOQ==;TrJTgvRmOZP6UCcbm+mf0Q=="
 ---
 

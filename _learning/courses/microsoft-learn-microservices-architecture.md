@@ -1,14 +1,14 @@
 ---
 title: "Decompose a monolithic application into a microservices architecture"
 excerpt: "Improve development agility, deployment, fault tolerance, and scalability by modernizing your application with a microservices architecture."
-webUrl: https://docs.microsoft.com/learn/modules/microservices-architecture/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/microservices-architecture/
 type: course
 price: Free
 length: PT52M
 ratings:
   count: 277
   average: 4.620939
-heat: 50
+heat: 59
 
 provider:
   name: Microsoft Learn
@@ -33,6 +33,6 @@ images:
     height: 400
     isCached: true
 
-secured: "0P9x4mXaiDodpgqkEx8aULb7cagi10t7DiELtAMunn1ENnAAOyAMIhq7XA7gQWTefbuZAxdXBczVoL5YY3+Nt0bbLi12FDRlYB56DUuLRjfIxq8TBJkU1uYApErmTkwQIple0K+Ly0fE2NXhpNIh9q7ppZl8KFfXfneO3aMXysO0H0OcAm+TKIZsjJbt/DtgyOWWA15FLHbUE6EbN721p8OkYLpxhdfGTbeJI++0HGzzoSRGLY8MAnqG2yBiCZJLwbBB0u/W8S9pDZPlQrf7TR5ycoLBji2HER8ldSNfn0vwTBNj7U/fkmwIvGVO/Rc8vLav8v0j+GZLUO0jBipzfFvTXxmX7nVmalnyTw7oZcQkH+Gu2fhsm2Iiz34bU2INQ6EOqLAm7aWvqIFtMtQ+V7dQLkmyxtca0QjstqVPD8k=;3vQnMtdzqPK5CrgwMYbSJQ=="
+secured: "SlZP11YWDoFCw8zCmtSPkqUJuVLIVVH34jtB2xVHuYjZn6gn6yPb7+j3CGr9AwdGUK5XHVcMQXcLtFlaMzgTJFdwqtisMs6x2hr6t9kBXI3yb07TD3kCOkU4jIhusUdZ91w/k17XATBhuyphd5Kbb9QTNjMUF1gq5BCmGDw5ykT4o0naTAUD1oNTVrtm3YrnKpy3ubZy9nOw2YYhamC+qhyYgFociaVw+wwa6gzS09QAsV96NHOT04FmM2FmoiXRhEnBXQ/Ntm+/v1zXPESfQRB9ybxYJ6qyYQ3S4oOEDd6CExOqmv4jE9GD7t7v1nSLTdD1TCd46O8tduydnOcoYWpGOxIlcoDdrnZlaleCANS6M/W7zB5fyzV4ZWtMjGEUY9bU8/oIPpgeJqxgWwlHZg==;vMEV+GsKAjGoTxrZg++Gsw=="
 ---
 

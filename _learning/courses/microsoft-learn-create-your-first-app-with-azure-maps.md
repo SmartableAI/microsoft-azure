@@ -1,7 +1,7 @@
 ---
 title: "Create your first route finding app with Azure Maps"
-excerpt: "Learn about writing code to interact with Azure Maps. Develop and test a fun app to find the best route for a truck, car, or bicycle. The route is from the west coast of the USA, to the east coast. You will see how routes change based on vehicle. And, for trucks, how routes vary if the contents are hazardous. You will get the chance to add in your own locations."
-webUrl: https://docs.microsoft.com/learn/modules/create-your-first-app-with-azure-maps/
+excerpt: "Learn about writing code to interact with Azure Maps. Develop and test a fun app using JavaScript and Visual Studio Code to find the best route for a truck, car, or bicycle. The route is from the west coast of the USA, to the east coast. You will see how routes change based on vehicle. And, for trucks, how routes vary if the contents are hazardous. You will get the chance to add in your own locations."
+webUrl: https://docs.microsoft.com/en-us/learn/modules/create-your-first-app-with-azure-maps/
 type: course
 price: Free
 length: PT45M
@@ -33,6 +33,6 @@ images:
     height: 320
     isCached: true
 
-secured: "KA6K/SK4+Nw0qFxBMRrZXoQnnek/J/0FagL4x8nQGQQvk4rMD1lqjCU44cfG2ZcE3pqwm8AYN/ad08DmsJjPq89K/2xT92jwymlAD4h7Fg9sLqWUrH2P4erxb5Q7bKfkrFpcuGId6VWB3/VgqPIq1TYho5CbXafOd/ODbgwsb/widvsc1Y9s2miPcINx40qEhld0N6Z7KoqC7yqkTJ387Zx0fRACT21YIQivM0VnTJk8/iw8omN7+yWZ6sbvlArtBysswuiORaPyYYIF3tscWp+JiLgf4If+kt3peBaVID3F6J5NJMfaD6sxVU55cg6YfO7o+d6XUKBCDUIcYeAqzf4qv6Tnk0DY3Z7gw8kR3p7pvli7PeOXWadVjH7mbeJ7ZZblyJrzPE6enLwVSw15vtxsWXmZE4KT2+ZBwbTrVLo=;WqnSUKvERmLmux/1AxDnhA=="
+secured: "drGgQLZU+23f535LChKElrn+LBfvY5LKVmeSSdZqMz52oIhXgjERRjSV7bUPj1Jidp6LhmEc2qJDoY6tSjB+r2opCzxOAoOu7Icj/GsUqM9G9sphnwPfGsG2z/DAC920yCzXSD6vyVUl+b+B+Cxaq+I5DFgXZBQyN62TV4lGNem321L3zrysLVPwHmiXjPA/XpLPBwxwZC4Bsn0mIb21uL9YGS3XU5LWOpcT2Enst/a9XSRgD915I5o1e1Pa9cvT5/Y8pgPidSbUeWrTDWcX67dAjtBFzfbqr9nr4d+5EFGaLsIKonpGYgXSqcmC1ZSZB9YwcG/LXBArShQdDE2RJNPr6gr/Qs1aOZ/u7XXN4rOOwx/Bk9KYSxRfd+UmJ8ukmXnGUAMZUDmUN5Uvt0vM3g==;DVWPmuTtUgazo2WtAi5pGg=="
 ---
 

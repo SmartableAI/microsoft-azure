@@ -1,10 +1,10 @@
 ---
 title: "Improve your cloud security posture with Azure Security Center"
 excerpt: "Learn how you can strengthen your security posture through Azure Security Center."
-webUrl: https://docs.microsoft.com/learn/modules/m365-security-azure-security-center/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/m365-security-azure-security-center/
 type: course
 price: Free
-length: PT39M
+length: PT44M
 ratings:
   count: 2
   average: 5
@@ -31,6 +31,6 @@ images:
     height: 320
     isCached: true
 
-secured: "1ljnPBT0Xgjdbwtz6pL9Ar8DscFTiuuOpuLQE52mUw6WU3t33noLjxeHJ4Kt3KzO1+m39GQEU9fIddbGma+8SuJfHv+d6HyV43mCq6hO8lruvoTioKzTgGvpYHfann5qTd51UaxcQN1kxsRRLDXRfwNwWciGn3zsSFVGXLvI9MbF3XQBuDLKR3D33nCxfpJLpPzjfzSqsqDRHPax76LiqRam8XX92smhJG0lZ72VKoPuB0tbjjExr34pBF4j2I5STNB5ludvZ8Tzp4SN8oH5F3B2ITPE3MDggNaKB64u6OnM/E17pVOm159wnTzP2Vz1qgDMHMC3nYfVxEaZccqEQ8q2vTKe+WvPAhpA69RaWYdsMd+dvHigG/deQbQOIXIpvmMlKb2bz0wP4BJGH44Z1bgY8HKnWyTa0miiKcOnxOc=;NdciVqupnGrIMadqAfDCew=="
+secured: "PvXZNg0dnS8Egusg+OqqCSwsfjY9gwllaF7OTbCVaNijld1OLjge2e/xyk/IjE/FYvMuMx28li5t1qBNZ8o/5OqZke5H7WTs1unUN5VHk99rcF8pCoQNu6BjtlHLxvA+9f4Dttzd9HdZusg4wtYOkRX7f8YoNeabYg2yM7IumiIg9Oy2HCxbudqY2XNZ/8TEOvvdnepR3DiuAUtFk8VVj0hnpzIq/qRiTTs46xUMwOFb7To0hctZbwRxXBgSNTc8S/NcWhkfSYb53kP6dE14h4xjYjRT1J4s29D9ZaPHXSwsmKXQ2iGOUGd2iUilOEYMA2IVCBMHwQKit1eRKrlbpK65QJBIqLaGFW54l2S6PZpn6BVxCG1zE3tPLSRFteZ6D0SJ6FIbEwjEuUeLVCZU+w==;TDWe7bOxXcFrzL1HJCZMVQ=="
 ---
 

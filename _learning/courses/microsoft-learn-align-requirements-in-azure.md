@@ -1,14 +1,14 @@
 ---
 title: "Align requirements with cloud types and service models in Azure"
 excerpt: "Discover Azure's three approaches to deploying cloud resources -- public, private, and hybrid -- and learn the difference each makes in your Azure services."
-webUrl: https://docs.microsoft.com/learn/modules/align-requirements-in-azure/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/align-requirements-in-azure/
 type: course
 price: Free
 length: PT35M
 ratings:
   count: 5801
   average: 4.7376313
-heat: 59
+heat: 149
 
 provider:
   name: Microsoft Learn
@@ -24,6 +24,6 @@ levels:
 topics:
   - Azure
 
-secured: "U3z1GBVWJRVOOue6zalBuaRjSl1J6gPUKLFyfiSjDGgXu4uZ+qCe6PY35CCAPqkPKkaRh+iGIv2XQ+5HmDUYURxOFBauBMtF8ji8cvmsvMEZqVCWf6CAAD1bZhQ36vNVJFZnMARyjNVW09I9FiQJO2gMU9A/ZMv5AE/OPiqx5ccmzSJzhK22Ia2MMHAKDKBLGUxmIr0si+LpsFC1U7R4y57N9E+qZhqhpO6KPksZZ7KMvkUEid07oBzEOkJDxupAgzrtkBo2r3Z9ecI2R/9BkArnU/VED+Wy+Np0AN987vp1V8g6Xpwu7wi6s8F7CJpoi0XvSQawzw9WEE/JqrhXUuih+Zb72xZlXRNnrZgiSdAXiVUeCjF4nQRsD+88/9dAnGFctEKZzXhmB9QZOuniLHABzdoY6I7U61sc0SHTjfQ=;NajIgFo3yNnFWyk82etyaQ=="
+secured: "oX6Xnb+9Ml801/uxLWNeZv/a9yq32CyX2LJhaIm/+Z0u69QiNsnbULLx7445Le1GsgbhWHfxRa2J6e+dSheDH78gVMrIuI3CymNxRT1ohJYylTrBJa/jIEsnTn9U2OwaeyrQN1nacuFHxWWou3kRxmL+cWwJNtZHJ+KtE8xiiLkxvvnrwKYIeUFT36WxoMNsAuVTRZaB+MoF/papMtMuKlNFYXsps4+zhGX1ZnZA3/NDrynrSP84HGsTAPAoDTSeIzopL7hRrSF7s5o1CMakHL8u1Qs7ds9wEkIDRN8+NUChFvC8TPVPlSgtXDPkA9iM+c0fwezE/QS7ajEoQNOW6QGFBbg7uiWzqIVvBaPjK2GeKDfJchkiv7s/C43pYevbBpV4uhthpX1Vz881OjPiTA==;LEYCVR6Pu2BnuxMl7ce20g=="
 ---
 

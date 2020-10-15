@@ -1,14 +1,14 @@
 ---
-title: "Choose the best tool to manage and configure your Azure environment"
-excerpt: "Survey the management, administration, and reporting tools for Azure and choose the best one for your technical need."
-webUrl: https://docs.microsoft.com/learn/modules/management-fundamentals/
+title: "Choose the best tools for managing and configuring your Azure environment"
+excerpt: "Explore the Azure management, administration, and reporting tools, and choose the ones that best meet your organization's needs."
+webUrl: https://docs.microsoft.com/en-us/learn/modules/management-fundamentals/
 type: course
 price: Free
 length: PT27M
 ratings:
-  count: 42
-  average: 4.7380953
-heat: 52
+  count: 43
+  average: 4.744186
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     height: 320
     isCached: true
 
-secured: "MfI3EHjn9AHGuidgzkJ6PhQeEZzQ7X/5Qb+MdhlUh3CfhEP6aOBWH7bJT4dKG5j1CmDVMhs05KtmR3hN8bsoKvefirIF8+NuFRe9nYLpvZNFNolno9K9oVUpedesR4F4RyqbZ56899w8oj9SCML/VQIw+COETwQgD3WvRABgoI1lP5ogrcUdOLBxjOL/xPwu5WjehW312wWPbhptmyLW2pHxaxN0fI/RYeG9/In+rAdPbNSe4D1feeyZTkGX9rRVCKBDvTGHlAPQwy++YfGsULYMMTMfMQy7yf1Bc+CNrggZTukUe3/SQuRys8XRRJkJcqPOWiq0xxQs+NJAPE30iTGC4ie1ff63U/8umOnGqHqc9hlDX3ouNP8XdlT7V9176k8fT1FyW7M/4BICoNizDdlvosQMUCw5hw24gIiI/q4=;sFQWVE0+JQltY36BhNFYOA=="
+secured: "Q19pRZQy/8bTuXR4rBQnb6HlzF+2rsFJaQLU3nqkI3Evo6NFwxwpkg+Hf1WCOYPj3JSr2ro9yC+iN4m9i2f2SHn+xMoRCFDxx266K02g7coItNsvcwyoyo4f32JWIz9E0tEPfIeyrK3K9JXGdX+3gtHmmUyNaFMi6ImZ2qLXH+sqj9PS3jvcU3Qj/Mw+jgKj8s3qaTOG9JMTcQCgqxyLzylbzFAeNPvkgdIxAF9JQqL4ii3KlvGvdIQue9iECoWgLpsxuVDcj8Vk8+qZCcFbKnOrK74/VmDTvpASY/qxSbr+7V/S9S7GKC3vLIn6+fDvEbGisqD5dEuyMxOSAxwVLLh8OYGF4GVDfZuj/WfwQNoT7cPlffcs93IrC51wRnO40wJJxpO/yE8dY0PXUdR2gQ==;OfteOIu1A0vJZeoPmptpzg=="
 ---
 

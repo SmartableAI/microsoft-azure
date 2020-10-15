@@ -1,14 +1,14 @@
 ---
 title: "Understand the normal curve"
 excerpt: "Learn about the normal curve"
-webUrl: https://docs.microsoft.com/learn/modules/understand-normal-curve/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/understand-normal-curve/
 type: course
 price: Free
 length: PT1H5M
 ratings:
   count: 52
   average: 4.8076925
-heat: 50
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -30,6 +30,6 @@ images:
     height: 320
     isCached: true
 
-secured: "evFFH4RBc5L61XSlIpsYHE1Sxx87gdy0mmnYJjCAfLycJXgdOWIGpuZkKMvrM+zj+GRE2863i04SS4hFndxASnUyUCKlinQMzWRnpcKEioZyfrIrM4qAB42dfPJDjXpguvTJ2SzSiW/OckKKttwaC27vqcMrWS/PHLL5Knr5wrY8FnT3Ut3nvOZsgGOGgFrp/taqJCUTc2MINLFVnV6X47rRhDepi64aH5W+09jw+jQnd6oyOiKXiFzkMLUVYY4cQm9Xx/4tee/QY9n2XKpnwscU26rnojUYRZ9Es0sD7m/U1kccNM4hRI+QtdWyQpy7gRMQJkOdz2UivBnE8ztFqFBB0QtwpiES93F2cvEtYs/vUJqbclQoZFj4sSk9g9qzOIbRVD6dUuiYn0gLGbH4mO6Htp4rx9dPuUCylcvgUBs=;ii7sF5Z5huq6W0hwC5eNtw=="
+secured: "iGcZllKkPZIHzzRc8YPEdhyc0f8KobCo6PI9m9E83VzXFkPWlOfwzV6QI8VIMRFiRRPjINnCRBKXSloeYRY3RZxkMRNfOfujyLHKFjT+WaMsmrlsK+D6mxlxTINwBJbQ51xqSid8O6EveMDo2VDQOP5qNmJ/Ks2HM/h6rJocpPt56kARQXICnBp5IDmSIEfeTeNKmNTwW4ZKwM4oqW+P7jrfkpMuCWXcRtCwZ0mJ8ww884oaGn/wvflMgtCRtvygNYEOplDT8SVjDJ5kBN8Hk+aHCbkG5cfUF3NrSecZATcVYBuCYOmMIlbXCOw0Oy4zK8QfNrv2AI54Tn0paZCli4QA34Ag92Kd7xq+9SuCLzK9PWvMe/6ZSrm2eK/wo5kb1zt1Ec4r3HHDt0PYqhYm1A==;mtETGrWkO3M1Ef4rW5JaPQ=="
 ---
 

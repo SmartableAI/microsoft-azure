@@ -1,14 +1,14 @@
 ---
 title: "Principles of cloud computing and deployment"
 excerpt: "Principles of cloud computing and deployment"
-webUrl: https://docs.microsoft.com/learn/modules/principles-cloud-computing-dynamics-365-deployment/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/principles-cloud-computing-dynamics-365-deployment/
 type: course
 price: Free
 length: PT45M
 ratings:
   count: 2598
   average: 4.7190146
-heat: 59
+heat: 111
 
 provider:
   name: Microsoft Learn
@@ -30,6 +30,6 @@ images:
     height: 400
     isCached: true
 
-secured: "ixXZC4bhufmLELAwTNtDB+e0EC1aEGRqodMYz1+JXCWdSc1wRWQthoUo+qwpkatiCHtDE1a+EGvZfoQlzYvMns5A1qDyObOsaSfFYzhxc4vQKS1YLGFqb8JhWlxOP0SHs6wq0c0z44AxxsjUBdSW/eat94bDkOBYa5ydEvtk4zirOzhLO9ySUmAwxIQnbbY/wW3pJBMaBScdoE0BED3fcvT/J0gJkYFmKxD3ARDe1F6aB1EEd2XRat+9gBrxmln8QVHHcNsCYy52YyYOoYB3eknH4X0ooyPP3xLb715/abPQ4kfwnYyVmvqU/Oiti2CMJ193yZTakb8TgnkDCh9WjDmSjYwGZJ9hcXKa7sy1WhGwQdKyS5pcfwME2Mi17jnJQ6dt9nuKIBP+miu6SgjmKkneNobSyJG3QeK7hLw65jY=;87kecAqujv4VThBosm0E8g=="
+secured: "IbIn77H6Zm8WFEVWXngI+UCQ/Pt3zamwjWVWTtN+JbozR/J0aMw3zWDXV7RSVZ+451rhzAug+mevjR3CC2FS2rU1cSzLqvxdXmWdZ1s7rc7JkMTn8QcObFww7324vHyUGuBykrVvjwxiVfF9Ggk4Um73YgFNYxbE028LoPw5yC6mQWLMS5gbU9UmFb42zfkh6qaR6ODRMfCzC70+bW2p7nxyk3asMIMVZmiG+bbj0xy8EwpP0cSonOJy34dpcuxQ68gAspPHOO7g/JXuKa0A75/UN+5QqCZOsh5Q72XT7nvRy8ZEbAelxOiZE5brxsqbjThYqgmX7G+pD1t0+mMGfZHuJ4tak6XVt3cTHgumq/k56/w9R4Ap7mj56Z9skhD6yfBg4WDsfdpSoQUf8J2lZQ==;nyrtAr1d+HI5zY2rOi4niQ=="
 ---
 

@@ -1,14 +1,14 @@
 ---
 title: "Settle competing commits by using merge conflict resolution on GitHub"
 excerpt: "Learn to settle overlapping commits across branches by using merge conflict resolution."
-webUrl: https://docs.microsoft.com/learn/modules/resolve-merge-conflicts-github/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/resolve-merge-conflicts-github/
 type: course
 price: Free
 length: PT52M
 ratings:
   count: 107
   average: 4.7943926
-heat: 50
+heat: 53
 
 provider:
   name: Microsoft Learn
@@ -30,6 +30,6 @@ images:
     height: 320
     isCached: true
 
-secured: "vIQmgDYzKpF+JNuFC2coD2JG9l0D9vcYVzcQR5jSCRv89nqtfrujDwIK6hk1r/u5FG4Aw0MHeZ32uGDKcfeAZS/eduUSgFLFGJoD0/t26HJCUS9+kT3uERK3Dy82B/VbS5pPLNEFJBh6t6ZPWJy5/PEKmp4y2Ndu1xH2lGHx5mpYdwqGPkG6d39nqgbM1pOFa+ujOpq/c0nsuIZ6oGkXnv7UY4/kf17JS8bdhPXD79SxWXuv8TzRx2TYVqfEsp7ORLXnvkCLSnmmfS1/KxiZvVANl9b6NMwPPX2kt/FhObNFrogZSh0RoRZBXQIf6H6FIk6DtV4bHKt8tXG7ZKJtXq9nOKQvdSp6r3y78BY6cCt7Q5qw4GoQrdvlRBWtRzM/Nzzg/tIMHHjm10SnJMBhERqDXpnHMb4ziUbYA83JqJA=;KQTksuR2+LtIidkH2xDgbw=="
+secured: "G/0XlRnqG+PuQZq3CL4/nJAbc8txMzV2EIKKysWsB6VrGfcjBnmDMleSW/5/a+iJT0Z/ipTlyxN2jto1DnbTeKqeSZoXNPe7YclRyUes6d+HTXYSuqEKxSa3U/qT0gcnI0WXrHPLmB9tLhbXxPckfFZ2+jtADyb5Kye505nV0DIR5pBk0fcbEx9ZYTAhQStS2QsxLN5nmOx/iq9bI5DSlUvWN2VDJXLlFUi7JDwmJU1gtmbjDSBiQNNZkTF9BDs5Tbr3uOu7+47F44nerRsgy2D7mwRbCyALIZ+VXqKYT1D39SqdBpXila5GTmucTU+JgHNRTfXWHIpNZwG/sjHxMfI7+CUsG0ClxRJHdkhHVNcmh5yW8ZO7ZcxhkgaxqhNV99HbyM9K7XLtj4YRNBfqgA==;x17JTwv7pDhUoGNtv4XcMg=="
 ---
 

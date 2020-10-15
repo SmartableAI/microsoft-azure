@@ -1,14 +1,14 @@
 ---
 title: "Cloud management"
 excerpt: "Carnegie Mellon University's Cloud Developer course. Get into the nitty-gritty of cloud computing to understand how resources are provisioned, billed, and monitored. Learn about how to orchestrate cloud infrastructure with examples."
-webUrl: https://docs.microsoft.com/learn/modules/cmu-data-center-cloud-service/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/cmu-data-center-cloud-service/
 type: course
 price: Free
 length: PT40M
 ratings:
   count: 50
   average: 4.64
-heat: 50
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -30,6 +30,6 @@ images:
     height: 400
     isCached: true
 
-secured: "hKKvxZOrM74Zr2pOB3hoJ200tVSejJ05hZOq7CMyHOlQTIOhSGYfMRvk9fcXLGBG63ZqO5+JJmaEZ8sxg1yc1hwGiAyRVxi5ls9uD2at/uJKpqvwMhHF2OfCtTTEEOb70eCNprXsrkbNv5RWjNMDHcdLqmrbH9XFW+UwLMeDjf7tEGyPAnyPfwtotdBxEiNJlVZia+SKey7AqS9nE6ReH+JyBabQJyzKOftNyeOTV1BAZV1zT9omLtImeL5jlGLSFmzRY0mwLng8uUyAROV/pnOaSfZQu6BBbgtuBzYIXr2H8a/iLZnwt2TRTRUop0AQC3UN563MXVZbGKfenytKE1qI7I9rzR4d84yP3zFIzpfpNhWVBmro9IsZS0bV3sck8KJNIgJo2C3kzzjIBsiibWBjmVAxD3/70zN7x20yQPE=;Rmws9xd5XFMd9jE0LWmuuA=="
+secured: "xHucgMlaw4xMnTV+2yRswzDfR/0AxVsQmGNotAwX6cqN2pNTb9WnjS4AhyyR0jsctiDtTTrYsw2bPdmUdn1w12Lde8m9PYNMO4B65E+OmcLc758T2JNk9pajGYKYRBkYwuq25psR5AZFDUYYbpqfrkgBXe1/S5Wdb9A5hYZpfbusQHZE3rXpHloaPpEGR4T2HdvVE92fq0nX/ZTqDoOacu4uKoxwliUN3893aTXcUjzG6X39MeJNiBgUWlJwKrtNgRifSrMgjJmdXAWB7k7Vha8EEosa25CPD1vqFC47cw+KZ4gHWrJ1BqV3VL78FduyO16AKWiBVoh1BvFaTrQlHB8iSlSxcA42oefx2dHqJyEfbvVFceERcxY+A4oYzC3KSMa2AM2YAF4Zl6a18iptdA==;3Vibn9FBnFk0y+MmVEyo5Q=="
 ---
 

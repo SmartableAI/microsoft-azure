@@ -1,14 +1,14 @@
 ---
 title: "Create an Azure Cosmos DB database built to scale"
 excerpt: "Learn how to create an Azure Cosmos DB account, database, and container built to scale as your application grows."
-webUrl: https://docs.microsoft.com/learn/modules/create-cosmos-db-for-scale/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/create-cosmos-db-for-scale/
 type: course
 price: Free
 length: PT35M
 ratings:
   count: 3838
   average: 4.642001
-heat: 54
+heat: 127
 
 provider:
   name: Microsoft Learn
@@ -26,6 +26,6 @@ topics:
   - Management Tools
   - Databases
 
-secured: "dQCKPq32QXYL8x4QcJKllA+svNkJS5w3FxsHJAykEIqHJ9Hb/2fNjef/tJ73Q+63GJyQFz1AEQUGGzLCdB8kgHpk99w/0xLwxKOo1iz8Y9wKgu7Fa2KO4rBljyvAZZEpSNJ6rfnX47HE0NG1qfAURgao9Mh2NXDZoELXcXQbAJ+bRLBYzwZ0zK1D9OZhF5shGK+Bw4JznfwQhg4wgLSYm2mwF4cfPPNXhhWtKTc+L1bkvU6APeIEAxWnVbcz1ZYQgQu5ETjHM6Uvs/nfq15hv0NE4pgyAWIC/tFa3D6fGDWJ9gdN1bUHX/H7gETe9/REIQy5WYWdqUuJAFZ/eQYB20w8YWs4YrxyTefdFu32dFN8iA2xQvR2ZLFnTgXFuwdurkrlE0XTp+lMtUwxWdCLhduvrVC6zAxU246glzx6zWA=;QaUB+Q3VFntBjglzrre5vg=="
+secured: "GBBN3X2jZdZQ0jYvRUtjYOEMKf1lSLgpIRZ3aHqpgCXAbPcsk16pIS8udfwMX5hlDV4f/L3M/XvVHo6icmhmtdJQAaLd3Ls0rk3s0uDamamIzJbB0dncUTnIp6MAQjNX/FbKmrdbNa9pT0bU1nkWwY3PJLXwv+TmAdg2oRLEjBzUgBY+lJbuI8bdsIdELoAwYHbMqtHVMpl0lLwIWIHifIxEznquE1y0ja0jKyuVMNL2SQ/HNy62VhBM7VSABL3aiuNH7fHF3CnBLPEeZXPJuT5RuIYxje8katTUFLjyJh6rCCj0xp1wIrbfz+gufxjDL7V54dJQ85XFdq2C+79pfy0SpWL1SB9fO66KvuwfeqbIYOeCh9CxDQ1hUGlQ4HwFrWUPnm7JNYJeZF5ewPpDsQ==;z0+VrsuaKn0QLFoOF3X5Xw=="
 ---
 

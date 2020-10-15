@@ -1,14 +1,14 @@
 ---
 title: "Automate development tasks by using GitHub Actions"
 excerpt: "Create a basic GitHub Action and use that action in a workflow."
-webUrl: https://docs.microsoft.com/learn/modules/github-actions-automate-tasks/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/github-actions-automate-tasks/
 type: course
 price: Free
 length: PT36M
 ratings:
   count: 130
   average: 4.646154
-heat: 50
+heat: 54
 
 provider:
   name: Microsoft Learn
@@ -30,6 +30,6 @@ images:
     height: 320
     isCached: true
 
-secured: "PXzFvsYqG49SwLcvOo7jafdtUG7fh787IFFiMzWwgN61B8mPadGKvzHuWmC8R8MV21ggmFMeEEA+MYha8ohbkZ1DKu+jsBcdvrBtbBewkFZV2l095ztlBHw74A84pwI4hI0iGdt4qY3DCFTTJN13+IZh1Z/XcwcES1pFo01UlkflPj7nQHq5Kl2jM2ERSJq6qepb41gDzglycrM519iUj8hysnjhCTE80QB69J5C61QPl2YgaTPdKY4z7iZ1MEENw2IAihjiPhUzLKbW3D3fmzB3oWSTsDrYFMN5gl6T60PMxtr/+j+hsuDz0OkojxNbMdODcuKXTXMtp2K0wkqOvV+EHNPstqPRE8cK6AG+NFTAiD12fFj2z0Do8OhP6Vy/6EnXm2HRs5Fp4wh13nNL4/JpEEYlxTAelUrDxPbEK2M=;p/ZC5kMapCYi1vAevzufkQ=="
+secured: "XK4pGib0D9TVEWFHf2+JS3vmJgzKdGrz6LVGbIR7vDjKWBA6AF2scM7gmoCXdy2MaPPVIydDMbjYAM4FfjBImxusEN7328v6sQ8mMUpmDknVM5IEPFzdvj8vCeFKtEmbbyqOUNqwwhNR6WDv8oUUNC0liBpMwz8Z47I0KsUQnEzMKssSHW4wzCePYIcfth8CFfvtDYAHvK/h4CvwSBFoRG8HHNQd64m68t3UY6cFlu3RlPW69dPx23S/cL+yioc++tL5uo3wujNbdFTc3h8nUNLC5tTO/jbpdWztvHOmIEGrS0fvy/5SZYO5P5yctrTcqxkTLaNl1W7eKZMpatvH6fHdI5YnsDXsMHVXUNUWjC9GyAojjtEAHg3V28KoNwuxm/ZNHY4NSMAPjm11mUDnMg==;g7da3YagO+du01uXmsQ4lg=="
 ---
 

@@ -1,14 +1,14 @@
 ---
 title: "Create security baselines"
 excerpt: "Create security baselines"
-webUrl: https://docs.microsoft.com/learn/modules/create-security-baselines/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/create-security-baselines/
 type: course
 price: Free
 length: PT60M
 ratings:
   count: 2302
   average: 4.6390095
-heat: 56
+heat: 105
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     height: 400
     isCached: true
 
-secured: "v4SD5EkfJu8B0kiDjnKPeeTSzukntDMGArR1IGL6ZasQmBKX2fQhUfBkfPNeoEbFePhXfh9jiGOVR7/VDnsxu7/FDNB+4jD1hvvU58TR/ysfrYZsXwS/456LtBQTzTw4T84XdxhH/+sZzWjangKrt17SvNv6HswTVLD7P2CdYiBakKuaLblaNu4mPUNa0E7Xl3yrJv+tfyGwUvp3o17qKldFiF0gwhmJw2FeAgZCam2Wetf+k2oyU/sqFLiS4nI+CEKG6ggZ0C6pW4C4t7ZpF5+tjadTNkJiRPsITREm4lbGCwy4vosaMxO3FeRRczM0MwwNgvtj1RwOMmDHE9D+Q/MPi+TFD7Aw7qMqJhAhdJPSWgmNU+DGeQUr30ySQyv7gZxOl5kfKb39YAipf6PA5qcKpz/yk2/MUDWcy+1wcKw=;qev1eHnbM3D8C8K7i3nvBQ=="
+secured: "35UPkjQjSvz+sWEYswl0OoqLxwY+sbSRr9Dz5gxZNJKUCzbVynuOI+EKDawxAQ6n24GjH/l7JgRh5RC1skhJe6r3/4tX19/iQwmbdY5K1sPDXuYiWrMXZdkHW4KHL8R5rVdJI7LHwcIu2to2oiqPek0M3O3J2E0Fn07NBCDgo9GVy2StRFZpPS+d0QiILLrBBOPaGiGzoYn0EERNdTYnwm11fzDDoJ/cbMroP/eXkJuk8fO/rmkbaO20y2RTa7p61L6HiEmoti1D+B57h9XROP6LKNCXOu8Cqft0Ca84XTKZxEAJUREWlbHRBUbWIYLmnT5a2qEeVSZHyFc7jOxX/FPAFKlR7k9MXLEv9k6CH0ddS9/dPFn5dvCQfx0EdSblSq7D/VprAW11cd0mZKWLzw==;7U5Bp71EudEWJW4U2v976A=="
 ---
 

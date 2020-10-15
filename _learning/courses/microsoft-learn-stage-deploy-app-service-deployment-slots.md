@@ -1,14 +1,14 @@
 ---
 title: "Stage a web app deployment for testing and rollback by using App Service deployment slots"
 excerpt: "Discover the benefits of creating deployment slots to streamline deployment and roll back a web app in Azure App Service."
-webUrl: https://docs.microsoft.com/learn/modules/stage-deploy-app-service-deployment-slots/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/stage-deploy-app-service-deployment-slots/
 type: course
 price: Free
 length: PT44M
 ratings:
   count: 1734
   average: 4.506344
-heat: 51
+heat: 94
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     height: 400
     isCached: true
 
-secured: "AsybCVQPIOUtvRBF+aHNiL4BhiZTn8c4/ef3WwNqk6WEu2LZUGNpvvzzHDPDp4sdxbaZzRBX6wD5bLwRY3lcmaEm3vFy0aWmoVwfcN0EvnoGqJCKnP3s3A108pRzRP8ZUlit2Z4V2XBQkxZwULv5mYF4hnPSk4xtuiznsTuPBHlMfNnmZyIklpcoKAmJXc/6so0jt6yP0k+pEcvaw5gtCUHfCMOJG9rXeOaLR5qZaopWdlEncZwfZI5ERZfD+0ohgKJqSmjt4OCK7OW5nw9ZfjjMyADn8r3rERenqKqkWuILQATW+RGOTuflsPFdEDfxYnbNPDPmqwvOuxbMOpR2UYtRLlKVmm//LDGn8WVpKaW5ICe8mt6hMNV1ye3NxPQ1FKFLjQRdcwG3Wd5ylTK2VteK8Nz6QRWBEzv1koyCK3c=;bRXqklobI4mT1/d5wAFJLw=="
+secured: "vThOEqhQ7Iao9kPy3Fn4hI4oMBQjfBBfR1yepRxwSf2DN2N5j8mUTQ+vpLmcPJRMhOtye9kuBvmqCgVqB8eGQWr4zxlngjFUrEwmY9rZS/u+wKiwtb8lPExCWkvQAy9mvfErtd9KqQA0wjyFalRKw5OivraXJUXeH4YiR3H7fY/LS4xxgwP9kNLI/3yrZOpfxKmJchhrlm0KJW3TgdaNYyI/tsAh2rEhgaDawsnPmWUgw8GZdlD7eJKhe5dNqveqCqd/tqWXGpVCUwci1gZl03f3Kw6O5NZKltOhjVP0flYoxnhQ5gi4iIFH97IgxUnv4XKjyO/HwKe9ViH8oo3qugPW9jCaogZ9OYplzTb8hj7S6IX4amz73x96Z/qmS3Cb7o2kDdz9VYL2wpLmqgQQ2A==;hPhxiKr6fC/VqvS9aylKRw=="
 ---
 

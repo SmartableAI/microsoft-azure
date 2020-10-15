@@ -4,7 +4,7 @@ excerpt: "Configure hardware and server resources for optimum performance after 
 type: collection
 price: Free
 length: PT2H40M
-heat: 61
+heat: 81
 
 provider:
   name: Microsoft Learn
@@ -28,7 +28,7 @@ topics:
   - Azure
 
 images:
-  - url: https://docs.microsoft.com/learn/achievements/generic-badge-social.png
+  - url: https://docs.microsoft.com/learn/achievements/describe-performance-monitoring-social.png
     width: 640
     height: 320
     isCached: true

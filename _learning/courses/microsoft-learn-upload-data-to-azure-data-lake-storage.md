@@ -1,14 +1,14 @@
 ---
 title: "Upload data to Azure Data Lake Storage"
 excerpt: "Learn about creating an Azure Data Lake Storage account and uploading data to Data Lake Storage Gen 2 through the Azure Storage Explorer."
-webUrl: https://docs.microsoft.com/learn/modules/upload-data-to-azure-data-lake-storage/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/upload-data-to-azure-data-lake-storage/
 type: course
 price: Free
 length: PT50M
 ratings:
   count: 1622
   average: 4.595561
-heat: 52
+heat: 92
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     height: 400
     isCached: true
 
-secured: "W+ElFgM8+HCpfcRYRHS/aDue4qsirFshjj7tITl84BfuVtsxgWanp/hPXUPuwwY9MlF2pHWM6TwG5Nq1k/NupPTCgFWnXvKa/WuDGWz1cV4y2bU//pCsYTjpH3b1x9pUJTrPCYLq4Iss1OH9abBo7BzpLmFcayw7NRUVZXxhEY5G9FFrqHhlYJGh35oj4YQTkPsek4Me/cCt7TOlDw2UcUwVMPNsI0sML2uV7mDLzcMLIAbDIJTrkiADGqHaDKWjhyMKrdQCaPkCIfKHmJUitT3OgIskImvmjwiIGoQUmVgLq+VUZMOrMM+mhh1IyC7e/gEVBOOGr+GRTcYldtYZvfcP++/rPIGfzzY9LzgI6jpPIwDoVfYsZj7uFqLP7gkpXB82fWSrQlno0ADypCLmpoCUNg1Jkeu60zsi/b8HsQU=;3OhQACKyruwz3PfDizuJNA=="
+secured: "baLJy0qX/wOtpOwePHxcreuJcM67SAOifci6thyy8icB9LWmgVJLX6BH5L01RYUUfxAymqjyEjA+xfJVU7OGOmjwatwnwMjG/+lXECUOcSvcc/F0H9DbDMaXZWKVnzTnc8Ii9/WIlvyjsmRGN3999/5N/McIexSuRCcZvAic5+2/1EhVautfMfY78lg+wbocjQJseY+V/kEsVzEEoCmCch49Tziw89ByVOpcsgB1gdTnvLaMEM04jeE+t56jwLHnodRJ977m3WA4yrmuuxNsQKJ6PyhRVozY6YTszhg+4tFiRZcQi1kWpzR1Ec00qLOSO5XxQAdq0TF0DSKlyhdCNc4aX4yUVBVCokJzIGnmihsoAauELVZXRkatGLjx6lsPiQbefl1dkIjLnis9m5RPVg==;9OJsoaQiT/rfl3PAYBvrkQ=="
 ---
 

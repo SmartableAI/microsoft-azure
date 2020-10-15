@@ -1,14 +1,14 @@
 ---
 title: "Describe SQL Server query plans"
 excerpt: "Read and understand various forms of execution plans. Compare estimated vs actual plans. Learn how and why plans are generated."
-webUrl: https://docs.microsoft.com/learn/modules/describe-sql-server-query-plans/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/describe-sql-server-query-plans/
 type: course
 price: Free
 length: PT54M
 ratings:
   count: 464
   average: 4.778017
-heat: 50
+heat: 65
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     height: 321
     isCached: true
 
-secured: "Wr2AnCju7NwMeoU9rmSEoVvAmz54m68ZkUfT9rqyy1jd0byOrcicCVg1Vk4/Ff+/6YuFhiWp2c3VGZSn5gjg4ZR8flec8Ja7QMiokZnyYt5quz6hhUlC1F0e1FJ+B17I1tU5VMky1gY6JrU++myXxhMwi52z27sN7Df5Mn1eAXn1cGzljq2XDju1iOciWJOlZ6nOc1jYqoEcs+xYLPCbc+YzhmEe3jP7UdAEkdGAGAWPwQj7vcuNUPUhhUdhCAd6AME7jZLbKPDlaV7188zVQLelx5FFUdXJ0FgsDjWqgL5m62RUfN9W7IRg7NFO6ZkFrnbt6ul9Vl4cxeID1UQJKS9GTGGmVJNpcCGnkEekzVMB3cZ2TWlSVhs5d4q/7fgJGuxx4m4DzxoOYqT/LUF9mypGFsxIX4oyr1IV1i7ggh8=;PK+U7lJOO6MJtx4+jYQZ0Q=="
+secured: "59FtqeDw95X82X51FePEoOb04tJBOtq2J8zwcHLJGZ9zqnGldXVPnmAthv0oUT8lJ4P+9PQMl+D24mWkO8kLkKnOsIdrGkcMHrOmNQcYSsoD02qRVw4NaCkQDy8SHKVUUmt0bOVli30Tm//stusgQethk8aGprQJK2ayXvyep7DQ7YxhrgywPlF7ZJ53325wImqqjXFmMY1FpvrHogVALPl1uyVPd2p5T01Xa1wxEudafHzlehkK6wCzj/ofOJ/0x6HoAKUqP4WXHjlZ4FY5wo+Oow9ZkCJ1c85jXIu4l5xrGpVuhTdth/SkBT879W1pG6vqiSxIjKPMBJLXNAh6K8xr5ePaIJYPXv8OL1+oWNhWDbk8nQz+AuoXkVoTevurwSDs2+sBF4prjWrbXRk0Ow==;+ztCIMWHOaIcPFJc9mQ9wg=="
 ---
 

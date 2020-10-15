@@ -1,14 +1,14 @@
 ---
 title: "Secure Azure Active Directory users with Multi-Factor Authentication"
 excerpt: "Learn how to use multi-factor authentication with Azure AD to harden your user accounts."
-webUrl: https://docs.microsoft.com/learn/modules/secure-aad-users-with-mfa/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/secure-aad-users-with-mfa/
 type: course
 price: Free
 length: PT38M
 ratings:
   count: 1406
   average: 4.6842103
-heat: 55
+heat: 89
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     height: 400
     isCached: true
 
-secured: "Euqk4YzGxCCJYKt4QXCE+PXOkAfq21fBhRv5OKc9L9wx/crn223+MTHxMpFdSxMQGVew3JT2udSc4choYNp1cJNxrHlUJNVE5GwBYze9UPfIqm9fUC6KKN2KTBrWe0vtsSOnFTbdGL5tOn/mDyUR/+4KlZKEhUcd0/6rXYjmQDFZ0AI+PWXUJROYBsACgPg1j78aGTrla7zFitJ0M/vMqMEgFIpbGbOG/xvMRar2mQ/mfvPzBwtPJdVMEG/QzqjXbZzd8lFBtTXep9YQXZoMlH6VMelldk1gUeabntLMhjtlfWlowZX59NNzRMvlvu7SRi3ei1OgMzWGmZgoFHvGejwPrxibNDbkWyxRWo1VHSqO278Qtax5K6Gv/uStn4xBLevC6B76AYSwu8mNinCXuOgPXQS7ikVl227+2zBESpw=;rPWuPze5DpenaY10bLQP+Q=="
+secured: "/SY3LiddjUFDO0mR/4biAnr75lOF/eRZqC0prkeuM8xO15ZbUoh7uockCiNuX5zwCl9czatnfqQ87OqB7C5KCHh1e+o4y1u06wgzAbXwRfMNpSHPhPGOWsuKVFU+OIbBQeZA+XAtbKyWb9tqVAEn/OSSbyHXzT8I8NgOoGX83qjUysRDShdAJ//cVgITkJrsPeToz6j+Lc/+vzRlzP+KobGFwZZuKGBzqYyvvh7F88x+k4hUc4Xt9G99FfmM/uPwTPEY44QPk+dxJNe3vZ31WBhZIxtIooAm75CNUkIKHokdCz6ahekPO03tuGfOxdWof1lLCJaJWYGSDUcITU7UH9Ga7q0rVH+918c7tyk8Uy561Tt5D0qw2LuKx4NYnM9PMMUQDnDtzvleljt3WxKERQ==;CSsy5w8Epgaxg8XB+p1kVQ=="
 ---
 

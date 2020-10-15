@@ -1,14 +1,14 @@
 ---
 title: "Describe performance monitoring"
 excerpt: "Compare Azure and on-premises tools for monitoring and measuring performance. Determine critical metrics. Understand the purpose of a baseline for comparative analysis."
-webUrl: https://docs.microsoft.com/learn/modules/describe-performance-monitoring/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/describe-performance-monitoring/
 type: course
 price: Free
 length: PT42M
 ratings:
-  count: 545
-  average: 4.8275228
-heat: 50
+  count: 546
+  average: 4.827839
+heat: 68
 
 provider:
   name: Microsoft Learn
@@ -26,11 +26,11 @@ topics:
   - Databases
 
 images:
-  - url: https://docs.microsoft.com/learn/achievements/generic-badge-social.png
+  - url: https://docs.microsoft.com/learn/achievements/describe-performance-monitoring-social.png
     width: 640
     height: 320
     isCached: true
 
-secured: "krwMO+T9b9Em1ep/N34rDAHwDLqwE24ttkZqNR7aH3F3B+CxEOfnMmmmtOHAdsHq2OdthP21IhmD3kPrRfEOz7SnL3DSj/bJRt7gFjubZmXHGDWmQ36H5kyxO6iAKpV4Wvj/KDhoxRR6ttkqi3PiR1R5PG1MSbUevXFdG6/AgZOvnGKpQ7Wl78SeAhqDmqT9fVZHxjZSjgsQvrJcV9uOA8qyABvcGNImCn6kuMNnG5WyIOnBezu9R/6Zt0/QNs5r0FXgSNOOp4R/aRhw1yg1syXN8k1Nq8r67WbrVRs5ZUIUaYOmXwwSvKVNgVZFLRw9Vj39XJTZzZ6IPDXmuT3CH+zhbS7CFt0fNSecjKErmhQCdHVlcZE3vtjGe7+e0ngfAyRln1zWo0mC2iSsPTxHEL90oic8lZL+t8Ds9jllU+U=;JDR9LWh7Lqb6NLqilEEVcQ=="
+secured: "5NkxfAtM5wFx2g5l8811l2wMH4mvjaKuE/jFIrg8KATW8zBUt3oTGMscKI40eOfTJxlGoMZOIHuiOQ7uRJkgtUKqXeNzXgVv2rl7MgzLw8br7uB1pbuNkSAwuN0pT7lh0SJyJyiHPU/i/JNC8lh6mfO1hB/84EXKghXLIua+88d3ZJlArj8JG4WnQ0n81y8xt3w/kV7SraPtoTJNNmEzGef/If85MQY08BQ8wAPRhl/UnwyJUH6PfvmqJYY/FBu/FQTc6OYKUnYC2hyAJOR9CuflxbJ1X+dc6o1lwV7E9Wo1SKTqeaALe00jAj3aksyl8HIftCzgcN62vEb/nSE50CNHzIIUs2C8aKKQfQjJJ9HdEIyencOWedQk1y+sA1gvEKQ/FLBmTNtUCPqUS3AR7w==;cM/XODzmB3kvThCdgC21FQ=="
 ---
 

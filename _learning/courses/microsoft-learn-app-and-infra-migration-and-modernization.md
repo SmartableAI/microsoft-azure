@@ -1,14 +1,14 @@
 ---
 title: "Applications and infrastructure migration and modernization"
 excerpt: "Every modern business is powered by applications, such as internal procurement applications, Customer Relationship Management (CRM) systems, retail websites, and third-party products. As your business prepares for digital transformation, it’s important to begin modernizing and migrating your applications and infrastructure to the cloud. Azure is a key component of that process. You can choose to migrate, modernize, or build cloud native solutions depending on your business goals and how you assess your application portfolio. This is a strategic decision. You’ll be able to choose the path that’s right for your organization."
-webUrl: https://docs.microsoft.com/learn/modules/app-and-infra-migration-and-modernization/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/app-and-infra-migration-and-modernization/
 type: course
 price: Free
 length: PT43M
 ratings:
   count: 5251
   average: 4.7470956
-heat: 51
+heat: 144
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     height: 400
     isCached: true
 
-secured: "3OORMlqE4+yyZebg2YwyD3gFZrpsJxzxLMhGersOETTRpEpMrqHSqWfVSAj1kIes/vhH23nkI5uyLo9js2xZCbpksIeRlt8UjL9kdSjb4HfuDsEMaoMD7WDiUCh+HVvZYM4geOhCgLPQ0ofWEDpQEzm6L62Cc1n4l1Zg5enfcMzDYB2xyTrTqAi4iPvHYS2z+qsH0g+oi1JKkKpKYZQicny2+3J7rSD7LoAS3Z1CQvNQgPklRhE8AknehzbOAA3fn7DXdiDk6Ib+3Fk65jomlcAN0+gMdoQtU+XVqzc2TQf0ByjstCyUIVk5AZL4fxGKR/bL0LAs58z60dw24T129a1VteCGRIrwUC1+b6v0mBAusksabFcGBXFwF6yjAdFj6/W+p6Dftlt2w4IoMYzgtLqrnD0r6PsWOkN5G90D7Ic=;gvHt1EDar+zAqNSXKwyWgA=="
+secured: "aW/NLCuwvtdbpPqC6UcYt/dosm1rM+SJyzrtRHHHI3R1W626LeYH6LutKS53k4A008kDu2wC55PFB5dodHcC/N/e91PzmB3gH/EzqamyvjhDm6AC2Bsk6UaiBwDN165fs9kFL1GNA/d2S2aRwoSPZ4uHkXSOgAS4gAsDMRDd3iy1cJSXael4Q1JawcV5pywhdekf5OuuhpXAVBD844wQb9imgvQOjALkTj4DBdYyxMwxoHHs9aQ/6WtJOvA7187hO5G2loq+P7iyIVJOqZPduV+OxSxa0m+mjPJYvqZ+D0dRb7f34v5LbE9mPPpIj0G9XxNsiGWknbvEdPETNifeOADfI/fW3PunwWOh2qEAB6H2MaKcNfPJH5a5zLQTBA218IOWiyQYmjZ9YJp+6Tnzqw==;MtvVzTtHdMdKubUpSdf9KQ=="
 ---
 

@@ -1,14 +1,14 @@
 ---
 title: "Create a long-running serverless workflow with Durable Functions"
 excerpt: "Learn how to orchestrate a long-running workflow as a set of activities using scalable and cost-effective Durable Functions."
-webUrl: https://docs.microsoft.com/learn/modules/create-long-running-serverless-workflow-with-durable-functions/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/create-long-running-serverless-workflow-with-durable-functions/
 type: course
 price: Free
 length: PT46M
 ratings:
   count: 2636
   average: 4.4575114
-heat: 54
+heat: 109
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     height: 400
     isCached: true
 
-secured: "QU9VyRmLRYWgvkeAC1W6ImHFupu9MxVmoRX5rhwDiW+7Vb/3ZQ8YvzFFJO9qSkRBs7jJEGvo2x5aNnW8J4dnN5Vgn9bRp7u6baqxrqV2FRCEhUSnnCFivW0P+fWtwm6zJifZaEvXv47MWNuR8mJKzPcFYWvM/FiEuaSEMmyyvu3L3ajZyRKarXKEt4WyToTM0lKt+yoNg+P1oXkNN4GPlVwYI+BoF2u8du6T+oNXvj9koZfWoHz9jaOtSn0oJKKw5f3lks6vmumMevj7kiv+aT6ZgBCUY3FA4tc+blYDsXraSuGnM+dvnN9fL8rlxaXXdJ5XjWfFbVZ7zZY6v0zbYRQZUU8N+S//Pd53AIdywmkLnjd8wF92YPemzzFzG/JBxaQ+h5DN0po5Sw5fMzT1LHQqM2z0ijB2HttW/TKKBds=;QzbrHnmbVXCzerPr63DLBA=="
+secured: "3r9rnV9BxSDVs9IB5HNtf3Qc1AJ/6uw56LaO6GGkQ5MkKSjVU+nAJCfm5hAMO9Sc8kOZjDfrKoPoD4YPUcEI5IU/4QdmGBGWxNBe4DkioG3QTh3HYvaFWyu2e2xxkYqxXoGHdT+dBk6xSlMyJVryXv/NC96zTaaGyWInDoEZPlpTnzqW0+XLtOXHNQPqEhlSZxs6VMgHeApuldNpstETJResxWehzr9u0+6ICgtBV1mLlx/3yIw8lOe1Rf42sTWLZJykGgIcaHWisAnEBcXDGlPxFnDM2b2x9NdsOg89g62JAmrC5jbUtJG/bhOJaWOx9uFXV+0zxP4XLT5p9TRYCBfTHdF7gdOZlWJo7A4beNNDO5VTXTHt8Vu4/bngOJUt9qtgk/st+E9VaoAElOZ8yA==;AJhyQ/47BgMPE2ZAix0aTg=="
 ---
 

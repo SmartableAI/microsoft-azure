@@ -1,14 +1,14 @@
 ---
 title: "Expose hybrid services securely with Azure Relay"
 excerpt: "Securely expose services that run in your on-premises network to clients in the cloud, without having to open a port on your firewall or make intrusive changes to your corporate network infrastructure."
-webUrl: https://docs.microsoft.com/learn/modules/expose-hybrid-services-with-azure-relay/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/expose-hybrid-services-with-azure-relay/
 type: course
 price: Free
 length: PT44M
 ratings:
-  count: 221
-  average: 4.61086
-heat: 51
+  count: 222
+  average: 4.6126127
+heat: 57
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     height: 400
     isCached: true
 
-secured: "/dMIe+twaiFlGWmJAmpVMWn0PPL39ZshYvZekMejSHzzhyym/jiBidXHo3KxAg4hsHp+Ot9hfMo8wnO7OMdD1/azGxfx+43Lm/vbQ0HxGmOam2+GOTG+FgNA/JByESs31+YfFKJxpJtQWH03Gjn76miFm1hEmbn1YF9xq3MmZ7Nmn3YITbpNad1qpDoTs8kWHdSi5284+EkaML6seMM1JE5wJes1Hw7l1dS2Kt0SXQXnrBdmtZvwZczPhBotVJ1w2HrFcUJElUViWXbntzuZr6YudKK2rDHKnTwy+W6Bx7Whs5su8oa8hIgdIo0OBqgJjU7ZECgdoMgln708ZeR9Qd25sZNPAYe5PqOFgap6vR2pLbS9yy5ZcxL2jjAFnq6RYr/PPfgSnfQ8CczR/XaTu+ZfaCDxHWBq17pgVHcdFeM=;5hM/DfhspUrnkzIaY8YGsw=="
+secured: "ZPfRZk+pbBXpzBbJljBY49KS12NxOURWB1KKOorlA41jTFkScF1+D8STCgqdBne6ro96er91Ns0JxuMVMqeawx0lZuiwJzOnHMKfWYN9reoaKoXmMomxWB1viy78XfwvimhqSquvcjuq0GCdd3iqAU3wrQqbZyL5rVXhOkXkj4XKE2mONOlX3zizZtsepHG8o5TGSuNVKsk6m79krGn9B7RqrPfT9XzugwsZSP33qMUEdTxwB1gTHodOz3RVlXZr7mYNEffC3Iver32jDrV2JRnofDpljU/CLS2eksvWsXn8XgO6Uid8LLLgl/FitWuPAnwrwbz3Sd2f6pm8F5Bqk1eQbkW8AfwqL/GJTivENAjCRILwz+II3Cae8whDmxUSziOQedANX5T/+T+X3cOQjA==;NR6RPj7mXOqOt2+VS43M8A=="
 ---
 

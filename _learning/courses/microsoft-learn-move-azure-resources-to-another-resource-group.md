@@ -1,14 +1,14 @@
 ---
 title: "Move Azure resources to another resource group"
 excerpt: "Learn how to identify Azure resources you can move, and how to move them to a new resource group."
-webUrl: https://docs.microsoft.com/learn/modules/move-azure-resources-another-resource-group/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/move-azure-resources-another-resource-group/
 type: course
 price: Free
 length: PT42M
 ratings:
   count: 1860
   average: 4.610215
-heat: 62
+heat: 97
 
 provider:
   name: Microsoft Learn
@@ -25,6 +25,6 @@ topics:
   - Azure
   - Management Tools
 
-secured: "LkpoLNVdp2rqsqtxGrDOEgJ9/T7DCwKri1Yf5NG3H3E3YHI3gKisWKfPJS7814suEave9iCcc5hQDeUBZu7LJZ4a2qXiVQUxHEVemTWHrbs73y1JioTJOQjz8CZQkTmPbkapnCG1qCJY2rkdiPUP4qQBiz2iJ5IcZl96ehHisaqJujfoSi+i/0j+Rfsxyuoe9ZFRrwusOHiFs3IgZzKygG2/nhmrnzXrBzVDCYEUC7Bfgc0pgEB2R8bQP44ACxyH5DoIH8Sn1lfyB11EftIxsf/EdDBFYCou2zYUnfvsPTZBec94+fvuw3vEeLLPyrpijOGcYur3X8Tqpm14MKCz8JWKns4FsBbC+aQOJ+9OfPLL/+/Ay3kaSfodPf+VQRI5qn11H7L0mmaFT/anWNjUzBMj8HHlhlq5o8JfA/2EHAI=;JNCcXlb9hrIgBujvXY6r6Q=="
+secured: "3Lv7Z9wwKRKV2IUIPOeyE3WSXuMA8fKO+FF1sPE+1UAYgao0lyEiicXbxqBITw8fgHrbAOem+7/1oEB6twXRsoinXEqexH4kxzoijrr28GdN4fzrEmEA8dTL9wD37tWoKA2prQB63DHIlUqqipdcJPM4kRv7tEsilv9gnNFPi4K9iY4QiNxkVkejgfUAuTTTeKzy7eUOhE6ZIu5qoarPnCbMtzOSrh/3BD/OL+kbbY0xflzOxCveKzTcfmQsSGsSFWOT5E7g0rOLRGhP3Pc7H08eDqSkAjyeqN9QkrkxtJhxm/tzNshL3DRXCXS3UdB24DeTn8ZFd+UiilX/TyP0D+fBGPblRNlokOdWpKw+CzbXKMD0foItwTnF36MWh6xahItKFpWOK5G2BqOs9f3RoA==;3LNAqM1UIlkXUqKSReoVjA=="
 ---
 

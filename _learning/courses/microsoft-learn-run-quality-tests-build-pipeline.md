@@ -1,14 +1,14 @@
 ---
 title: "Run quality tests in your build pipeline by using Azure Pipelines"
 excerpt: "Find out about automated testing that proves your code to be maintainable, understandable, and functioning without repetitive manual testing."
-webUrl: https://docs.microsoft.com/learn/modules/run-quality-tests-build-pipeline/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/run-quality-tests-build-pipeline/
 type: course
 price: Free
 length: PT1H22M
 ratings:
   count: 3045
   average: 4.7254515
-heat: 51
+heat: 118
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     height: 400
     isCached: true
 
-secured: "W8xrTnQPjQw0FkQAWQlhqxWCH6uC7x9XO6c1ZaYTzqZ89/DfDIZ1c2F10pDBHZZJ1EzxBW0q3Ur4s86x0Ifd3p4tKMs7USSIT2qxsjmYCG7BQ1paY+bZuH9t/W61QCo9F3ayjGeJ5d7gvY2B+NlHeAWhp6ShdK3GKZccOOibhH+QAW/K8CBkyphfrjd4OFfooLwfJhGhk3ZmkPwRJcP4/y2FX74qopMiZVa89PEEUzIQ8/Q+wraj+R1EcyK1dlblH1v/zugA1DkNd7HUGuSs+lBhtZoQxwAeevuL/goijTj7lnehLbFPw7pg9/pdVv0lq59D2TWM2Ca1f+UlxB9c2PN1dJ3OnP2DaXm8BEc8SDLJ7xp/Ul95VWeDowP6CaIOOWngNKJQIgpO0z89WjYqInxGyb33DUikzNMQvs5j8Bg=;+M8jn3n2+Nc+KimvPYCYqg=="
+secured: "IDqKK44eWz0Vc6lpxZ9hURBM+RYachhzJeOMI0mz6KsxnY9OxKlFCaKf5vQHVppBwbB3I7sj8W0HuGBhj5gPirO73/QilLIJoRK9B5wBuCijtHnpz8dcac10TEk6WUYGtivmThrzMf1cxmBt1mYPtZ/lvUk3NSbwwLw6t/dBj9S28C5xa2FPtJNkDyvl3+ZRm3W+HYOzvlLY+nhiqtvBFHB965k+QQBxf8c0c71vPzBlkFslCR3PTWXVsjmwmJmqVTBKp5BnGXZ0VSep4LrMzr4rzFGacZ/7ua3dByBIuYUHgeIf6mwajfUMgOnBQ9ZfmmvKwvegOwjCPN2mSFKQZwGrj+RK3iHYVYU07U5UOvnggEYKnOkEYBjUtXZ83RVnc3LfK/WDsnmbpaZSnc97Hg==;Aalmj346hztqcm/J6IxKbA=="
 ---
 

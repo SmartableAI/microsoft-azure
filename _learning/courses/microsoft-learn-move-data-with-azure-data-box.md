@@ -1,14 +1,14 @@
 ---
 title: "Move large amounts of data to the cloud by using Azure Data Box family"
 excerpt: "Learn how to move large amounts of data to the cloud by using Azure Data Box devices."
-webUrl: https://docs.microsoft.com/learn/modules/move-data-with-azure-data-box/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/move-data-with-azure-data-box/
 type: course
 price: Free
 length: PT25M
 ratings:
-  count: 456
-  average: 4.635965
-heat: 131
+  count: 457
+  average: 4.6367617
+heat: 64
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     height: 400
     isCached: true
 
-secured: "CWU6Em1EO1crR8lekfLeudI6/AvVgdqcycCg0T0T1e4dUFH006ZrK9mXIGswYxiEe+nYfeB+T5ODb7ubL8vOoijRM18cKTbvuVB+32bLf+GhpQqSjiHgl/fhaqWcIPGqGQtGdAQRRU166Hs/ovY0yX6IWc0I+PNRKgQqmI/eLVwsiHtgc6i+MbpO93WU4zqro3Mxuw+YaGv3Ac+UaNs4EEujP/jnFVJw4UQzkZyRKByi0lCYGrWwyQaG9aNJbXPjUriTlUCiEohb6WUA3eauPCLSwWmon2/vyAp7LSYPwb1WIZobbOboYVQvJrgmotjLRUTw2RCnf4fcRgnxCBbp5EQKMxyPQgVVtfoBIi37TuSoopnZp5ENH5YDyV48dlG4xOt9bApfrJppD5dNb4uqmdANlB8RV24J3yO2m3qmR9Q=;s3HwhXOlmp0t6iZlssniBg=="
+secured: "1XZqub2ndUEx7J6RSDJoGGmYl9VURNgbPLsNeBtbzuloHiysmGEH9oa9rvGWOvzS2eB048Bt8TPp3N+FXuGEntcMCCbSQqI2nHhBm56FhKKcJWLXfdlF6HbFEHknuqBXOFxCdxMcwnEA70g+DX4uswzLHNvsH0U+AKdC22k7AhbKTrqGmtBwtVQXcfdnz01E3nwIxyJ02Ega2YpOCHmz+7tfE0c7zmcJvqbbGLmtDVcUC+XkpMnLn9KKu23gdMbv47zJ3JG8MHr1N1hlaIGIDv2UGSvw/QvcA89+Lzh2mFMinSPa+03r7fFamqpSeRywG0GnEgj778rqilR4/r1oxiYxdEAxkHPo7nJ3kvB4apntp9xnNWJR1JV2saiw/uRkX7AW+ss/KAH5fe2rFVj4dw==;k5gPATnC1MYvvYSnawIfnw=="
 ---
 

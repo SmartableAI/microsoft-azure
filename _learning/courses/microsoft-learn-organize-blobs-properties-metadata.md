@@ -1,14 +1,14 @@
 ---
 title: "Organize Azure storage blobs with properties and metadata"
 excerpt: "Find out about Azure storage blob properties and metadata, how to organize blob data, and create an app with ASP.NET to retrieve metadata."
-webUrl: https://docs.microsoft.com/learn/modules/organize-blobs-properties-metadata/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/organize-blobs-properties-metadata/
 type: course
 price: Free
 length: PT42M
 ratings:
   count: 60
   average: 4.366667
-heat: 50
+heat: 52
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     height: 400
     isCached: true
 
-secured: "M3i2Flt3WA0ScJDU6wtyXDaenPJsMphaBb7RjO8pIAhUlznIXOV/ky9H0ZrPjkflOkooHNi89hhWT9lwohPhd/lJ7rZy15cOL59hs9m7hz88Dp86X221HdlH9dHxJU71/dtU60vWvvkYT8I6S0yfhYn7w8/YowhYL9ZcsdzHzXp2s85mR+6QLqK0h7hCzLpzjx7g8KHbLfTQaJzLouwRTi/Qp3+QJFvdYYKuMAO7O1L6pGfbuBvrIwmP9cbPT72vXVgo/hos/+HrfW8+KUctg1he+D6z7jWA4uUwqDjw7l4UQqMKWgQvRm+SYVNYtQtXLEXWSVbGyLiEU7qX5LFL5tE+juHpV0FVEJ9YKBx7D6stgO6Txjxw/ljkf4M5RLoALOzRKmwUhZbA2xG+hc7a1Gm7+AMK1IFs/WT4gv9R8OE=;NgvBJvrWx1/T5vh6Fk7Xlw=="
+secured: "oB/vpxrWt8JtwSv/n3B7YJ5biUIwgXGfx5Yc0+vUUbzNkHTvZctgtLLcYV1OaAbPBmrjwlVNreCoxlzUw7L4sUdStlG+aIdy6pkXIjvxaOlJCJ6ne/J5s6ZYYF9QQrVQjWML9IxwnjJ3nKzs1HjzMwp7X21UA86YDGxV1aqpXfGj2wFhI1wXUWzUcFYrm4PZtZqNdNF2B93R3EqnGKqW7ZJNyqGhl8y/ckMyuS3UTNe6O06ecT9BxkjgnyOOqwbg+yW/RVH8K2377x8VYilNyw7PbJzajt60kWb8vYKvz87ySmkR3SzVq/eFP+kt7Xs1peKG6eBlGr0yZpFuG/SZAVJGDf6LeFdrAtXPn9RSi2UwARH39P5iS9taPq+hF5GelM4KOuFM+ozQloGrq4P9aw==;vdaM5mjMR3p5VZHZx1R8LQ=="
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Externalize the configuration of an ASP.NET app by using an Azure key vault"
 excerpt: "Learn how to use ConfigurationBuilder to dynamically configure an ASP.NET web app to retrieve secrets from an Azure key vault."
-webUrl: https://docs.microsoft.com/learn/modules/aspnet-configurationbuilder/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/aspnet-configurationbuilder/
 type: course
 price: Free
 length: PT24M
@@ -35,6 +35,6 @@ images:
     height: 320
     isCached: true
 
-secured: "tzJ0eQGU33+36tc9GGFskEKPrqTVpbUuPoVGAfUot19Rw8WvisH0KDUmWDb+KZ7tXNJF9v3UVwn3JQPVXkvaz/bdbR4eC6X3711wA6KXSlabj3M2oq/ytQpf5k10PobrYCxMSbJjH8Z2maiYqj+ra1tUEGm9ltTt4JqGHUJ3dollljl+9l4hH/0e6uWX8Sil3ELhQdR9M1Dv4Z7j1SeSLSZkdsNlOhBxYsvgoiyvX2wbu2Kdw0RXLwzVzvH1aXx0ZxXkWb/4LYobu3o8Uai5ziMgZ4XiAZWTWGO/SalSdUB3/zHXG7cabnJutm0YLP02cdH7zT28/4dd9e1sRC0bs8GmP1bsRbVr+194AEJJmrOqF7tRaY2bXSNuHpSQ2GnlaoEqMY09CHhLA4ivkAvQNRKOFwlLTE67IWhr8aXB6G4=;f3gQ4lKVqdHphmWimuiqWw=="
+secured: "c1kako5Qp2piL1BU/WN9ABrRrr6jcaQlkRztWpIlzwAJrD+W/UZyH9V8S3FAcx/D300+ntyS9N055d+X2HmCa8ej8LUE/vy8OHGWxVbOGxk1k6o4w+9ns7K+aLxwzNPZfg+Bf0ATfTy3FduhQ2EloYmplPKk5hzagx9sivAeyne6yh8lbHDKZltpEddeAEW6HYl0hlQHssLYeD4I2G/pHJ5YWWYgvkvuDlMcBjONAcWX/4/YrIuXpaCmSHaEJyjoTYm0u0iIxrI3XE+YvnIdghhuiKHwJTAqqkkzb6YqKpislYyTnABzWO9CdTHSmpgzsGVEjrZ6bF3fnfRrqxtSRKyPboVLkbrczKCtCVQDMEDEV/xDnUtE83yD+H3o2rsft+v6EU8+31MQX9ZkXyXUQA==;XyxSkJr7EzBGnDbb27r6Aw=="
 ---
 

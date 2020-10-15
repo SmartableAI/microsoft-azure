@@ -1,14 +1,14 @@
 ---
 title: "Transcribe speech input to text"
 excerpt: "Speech to text from the speech service, known as speech recognition, enables real time transcription of audio streams into text. Your applications, tools, or devices can consume, display, and take action on this text as command input."
-webUrl: https://docs.microsoft.com/learn/modules/transcribe-speech-input-text/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/transcribe-speech-input-text/
 type: course
 price: Free
 length: PT27M
 ratings:
   count: 262
   average: 4.683206
-heat: 51
+heat: 59
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     height: 320
     isCached: true
 
-secured: "mXPT0ovkbipkPRfs3dRqjnzm1jb7OuUqqVP/1qsKdK1Kunx6dsGalVjXx0PklYbEeTJYln4bAO1RM9+3e7Cf5HmodUtbTbjGoRu4VDv/Z8r1dD4L++VXUxNN04GxYwCm/15S+BadwI8EEe5G3gnlHtkGGvN0CLg9A5qpp+ZUG6wrXqxcoIFQhfPfbpaAYJIbaS1GICfgYDq8Z4dcPYWfL/lz8MAXtoKWhhnf2RUlGH5kvBmSBP+66mMqRf2A+ADo8raT8sPUNti1LwaKsH4S5um6gqfoeqn1T4gE9KyG8/qKFhQQHaDi8TgHlRC+DtGyRsfJyr3XXWpR95IYvQTS1PgChDhq0t+8yOQkrb2WoBKSYgi87EO9s0B5+iVdCGcUigsk/lPG01SkIATT7ULIH3yiIxKv/77DetIM2cBFb14=;gBn75KEKf9mrUrxftOXnJg=="
+secured: "xvaaG0cxy+MEVPndvUFuA57aZKltFF7cHTDiYjQd92ccS9zB3TaabyBpMo+l/79StbAYhcx9nHkamnoI+IFSYgdSMRsRI0/XAtPuFmXLV/6qIxruD6CchUv7PFzbImPAeGJ4smJNoDgEbDMtuR+Gsj8a/37OLkYwWqya5bDsjaEvkEk3kQzyKVeQy06a6RCfve3IQ/1HBGQUWubni8QuAHkVcbnQf1E4OWPuNeQzyg9OQReGCYc/WvvQG4d+mdJse2GZTG0TWk9LZng9yW9qM1usL9Vh3YNwD0WhTTb4INizEjEhz3s4U9IW+bWTwgjPxtW+eteiIea9ws2BV6JwMsfC4rzQCetsZNuDmtxNWrfRfjAVJVMy5eZau2v9v5bF7PJsap255uXAFD7IOFq8tQ==;WGHfkQJ87RUQZUawxvubLQ=="
 ---
 

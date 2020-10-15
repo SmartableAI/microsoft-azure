@@ -1,14 +1,14 @@
 ---
 title: "Migrate on-premises PostgreSQL databases to Azure Database for PostgreSQL"
 excerpt: "Migrate on-premises PostgreSQL to Azure Database for PostgreSQL"
-webUrl: https://docs.microsoft.com/learn/modules/migrate-on-premises-postgresql-databases/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/migrate-on-premises-postgresql-databases/
 type: course
 price: Free
 length: PT50M
 ratings:
   count: 53
   average: 4.773585
-heat: 50
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     height: 400
     isCached: true
 
-secured: "9vF+lLne9KqcCyfWL7mEiUUwpe5IzUhsWa7VvqF8H+S+O8bEJ0KYanGSrWvuKfvmMcUr86TTIdfJDAzHwi2C0HKHMW6I+ox3WMX5AWQpqo37LyYBgRNIpm+2lN24YH9zFDsepsqhQdbpDddwtNMnB7WQyjjuw6TZPE8UHfWNR3aAw85Qz5HjyLuuoYE7ARJiWUxDrMdIffmUmpxQHGafvcqe/vwXzFaxDplgnBLtTSdoYibk08udmyS21vv1Tg1GwfEx/Jr60BYzA0UCoz3nyBdXcJkmYjPQ6Wr0TCFhl8U18sjvbw2HEKw4cfzsbvWCd7d/+ABrnrrCZIyotAnKbfhz54q75ebFZGuUxJGATqwamRiYvo312emDX5RAH5aUayPyJ1+RrnLPBlMvizIvoyF+RQHnnBFkaa1B5WKnfZQ=;0MCShrySyyagkavFRVn/sw=="
+secured: "NkLUcnq+VYsdWwV+pxNmBRW1J5+2CSvBOuu6+gbUodv39XwS7/cjKTPeQXl/TTtjKjNJ4Z2vLfPXFZGC1ZtA2Rlzo/ENs7tZ4mRSjNp4y74NvPAZYN/EZXzT/J2jmGG8NUnWQhYiP3/7L2KQ+HxvuIIcyNtcWyi1YHATlOaSDhyV4wG3E9x+Sy6MSC5ImyN+fbMoWxJivs4+QRmOPr/1i18o16yFhihgsnu2N15jOjor4KddCZkxusxgheDP8QzVJTy8ISd3kyRh6Wn7sOgeqdQBSpVTVSnE4gHm1CPDq3+EBMA8e/CtcycULQ8qJy9iKLoqQiI9kUGbczP+Oh+Za406O7Vu/jnLGVJukcPsSu3w7vXZGhLGGxkFKpowRwYy8LArzCiP6NJmKPT5bW1GnA==;cjlZX561EHXKRHkQ9kDa5w=="
 ---
 

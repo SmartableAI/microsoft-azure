@@ -1,14 +1,14 @@
 ---
 title: "Deploy batch inference pipelines with Azure Machine Learning"
 excerpt: "Machine learning models are often used to generate predictions from large numbers of observations in a batch process. To accomplish this, you can use Azure Machine Learning to publish a batch inference pipeline."
-webUrl: https://docs.microsoft.com/learn/modules/deploy-batch-inference-pipelines-with-azure-machine-learning/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/deploy-batch-inference-pipelines-with-azure-machine-learning/
 type: course
 price: Free
 length: PT44M
 ratings:
   count: 189
   average: 4.6137567
-heat: 50
+heat: 56
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     height: 320
     isCached: true
 
-secured: "7VcXmvH7kS194bPc/YlifbRy6wmyT+cedeqOMmyKX5bBh1U3t1QdJrbEfnapkupHNz0bLIg1r3sYAsBGSNTvrr22ae73WbxMuHVovW1Rb7a9TtptJC4yryq68kri6xDkTmJZhoCbzyNVirXb0rV/TD1Qj36ENrJiXpYZ5qz572qWS2trgV8A9GkS5TaCWxCxvyvPn7Q9GL/LE3PiXLhyvjfzI6lOuQc+sigLT9h8xIu+R07hz/LwnaXOiFbU1Yqln7/sThxS+yvG9ltD56mrhek5PT55CQO/esxIRdei7vK/bcKG5XnyoVW+mAnkXcr+qNnVDT5Aq1/deOHhAB+4MzpAnHx1lG+VtlukZLTJaSAev5fftPt3LY96FW2rw8wd9uvAR6izlti3AX1R+gmxLed1AIWQ1xHwVNigQhs0ADg=;rrNcCfj6YSHnz9TsxfUGRg=="
+secured: "gsmsYfDfpAHAC6pqDT+xTDzbc3dy/FoPTNUdem8KDGS0oTFZkVNec3+mXpv1miUqhUzACAoGpr1o3/Jmjxzvq/en4rIgSllQSYk4OahGb2coyNJIurcZDY4G7J66VCvkv3v/fju8TdN4zrJYxk7lOV2cfBLQvdQso95lSKE3Qek7YPQO0JSc4kn6JS3gYD+V6Yi/dmxJEcqG/2mtEwsHyK7weIagG4pgsDo+e37hpydssSmBMVNAo7LztkUlqyJ1mpPr7HF9fmvMUz5wsvsO7NsL/M+WXoUq2RWW1l3vlRPiot31Yj6C+o6Dt0D+zgDmgbpzXbx/FQ0ZW1WlvzapENe2Tp6G5+cig5jg4P+doRceK3WaAgkaYSHb2Ls3sFCmaYuMHElLl40Wc8mrO7BzSw==;AzopFpXLYbMvxNZa/XJ/5A=="
 ---
 

@@ -1,14 +1,14 @@
 ---
 title: "Automate Azure Functions deployments with Azure Pipelines"
 excerpt: "Implement a CI/CD pipeline for Azure Functions."
-webUrl: https://docs.microsoft.com/learn/modules/deploy-azure-functions/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/deploy-azure-functions/
 type: course
 price: Free
 length: PT46M
 ratings:
   count: 300
   average: 4.68
-heat: 50
+heat: 60
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     height: 320
     isCached: true
 
-secured: "uQnyUtIH3N+81lAHMWUcC1Qddlb/k8LpzXViK1XMwrh4JMES6mQ3AxbyRrYtm3h+NiFkEvsk6m3msHkFyGTVsnGs7yVlnoDHkP9nA4iGsAxYgEu0teN3u6Fb2QRCSI0p4RlOpuAxQ2gSsEMISvbc8dXsIgPhAZCKHiBH0bnWkwJx4XPQELCNLp/gwL7QICXtmYBqWRUUgthgUJTJjA2C0r9c/qnlsTJ6sIJajvo3OopxSY7pHR4byK8TcYRSJGyeCCRDklGBOxCyT5OtcJSm+0xcNBMQBvZ2sPCMKNL8iDX+y7J+eVkZM4A23v8erwUbqHo2bou9MmUpQbdvZ4hNFUtdxShoy/vsg/lwh+5GC/grOKgleYvluFiAjvXHQgqsdHZwBn4rUVXJm8UISFgozpZGrX1j5DF5G30txRAG/d8=;/ovB7qpK2GotdYv45cL3Yg=="
+secured: "uE8bnuRRh5oMs9OrBjHG3TYg8661L9caI8UOzTAKB4Sqk3amURK89mPyAXDsjhbdy8i3GhqGWF7UPzARUXz281YEg82AQaM5qSmHrZGw6ZD1RV5faVwmAn4D635c9rN+TtBFwQdgYXIj4LC7X9UPE7RHWscT5tGPSBM6TRG+Kq6pjoN4iPYKOnB61tEZzo9hCXquTV1b8mYTsyT6kkmde6Z/XjWZ/OAKP0sNiMDMzaynnHsh8tvR+VkX9HbV+RbReIBuN6mJNmB8RU53yLHa/Q3fDYUpspEPum2pOkSXC+AuV9eRf8HQz+uQ2ZEx/uws3x1R6TCyfNysQWJcFB8ptfn/xaOJP+rSHgJtEhK/ilKFZ7YHfV3FD3TLMSByCyPRSDnqICr2K4PzJ81Xn77bog==;TDBD5MBlaSXVhIPx0gVXCw=="
 ---
 

@@ -1,14 +1,14 @@
 ---
 title: "Create a release pipeline in Azure Pipelines"
 excerpt: "Set up a continuous delivery (CD) pipeline that automates the process of deploying your application."
-webUrl: https://docs.microsoft.com/learn/modules/create-release-pipeline/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/create-release-pipeline/
 type: course
 price: Free
 length: PT1H4M
 ratings:
   count: 1005
   average: 4.674627
-heat: 50
+heat: 79
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     height: 400
     isCached: true
 
-secured: "fkrVu5aDsxsvRqK4aF7nbfbuu4u7yuQUc+OlGtJl5SkZ78IX+yoHVsYPb9G9+l6rzng2vfOU4/KUSwwBfegX76Hf/HvO/0ApKBYOcdZAxEnpFlmW4kRZpPSW6QGfA6H4nOm5lK7C31JydL9EKLHpqqaUwVocV7WToYdEB/zukwcRal/njibcruFjZlgrywZQHrnVE8awVsACDnpVovxs8eUbfb1IgZOo7nu8ROchDVFFZfPPTI6EUvaBbywYDSzmhgBolpsqd6QjvrAn+xR20KMb1vyRYTeaKOOMIWYfjykkZOjFrQ3bszrtgj24lWru9NfiZma5APYpJawLcnAZ7dtf10EkxL003KYNeoffGQJvF8BstFkUruhmKJOykyzScNDjzccSbVQSUA2oQ6FHB9FxgAFHPhchw/cnxvhFVgU=;NLLc6svhIhcoAtHopJICsQ=="
+secured: "Tx5cgTVm51zjfOdP3/++Zx/M740m0FkTLuDzuKaI92QsarX6v5AnL9YiXHZei6nmZtIZ7AnBhhnd/3bggUr6LEPbTe1Y6PNAsX3EAeWifx4JclNcaTZ1kd85n3iTpt6TIlhKvR0qwhvdXisLwBWxP/x883wz+clFjnA7NOWpY0zQrfUzmF85LdZj/ZjoNgFOVxX4VbKkt0SF4b/x4T35BQOyx09npO2nCG6RH+zPwX73rpSlnesyW8IV4/rfdDGn8nuepFQOCWxl7ukI/qzYrAKdSxdlJXKY10WgpdUIo0frVmQv2vFLgDf2L9X39mRb+R7C83PXMOv2WQNybZcKMlmMnVScLJBwzhc850CyDV5q0JeNGVusQuhHOX4DYbnEdwksUe0d5I9Fos3Cx5F7cA==;aYSAl4XpvY0L2R0xe8D0gA=="
 ---
 

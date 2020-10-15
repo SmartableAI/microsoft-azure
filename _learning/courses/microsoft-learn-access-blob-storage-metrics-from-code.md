@@ -1,14 +1,14 @@
 ---
 title: "Access Metrics from your Azure Blob Storage Containers Programmatically"
 excerpt: "Discover how to use Azure Monitor to gather performance metrics and then configure and access those metrics from .NET application code."
-webUrl: https://docs.microsoft.com/learn/modules/access-blob-storage-metrics-from-code/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/access-blob-storage-metrics-from-code/
 type: course
 price: Free
 length: PT42M
 ratings:
   count: 35
   average: 4.6571426
-heat: 50
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     height: 400
     isCached: true
 
-secured: "rKju/w8Mgj4HQfB5kWrZykKLpY4aqFi1wGRzzXBpWUDHx3t9uRctdAD5YdbHoDGb3brp8Io4t01UBCJrIK6chSQUhzA5pqjaPeOgcujDjx6vrvtq9sKHglZKOBj5FIXEuhewdcEqILCWUuEEWzvq4QCMm5VYBluHgwfyOs+FVIhCGHIkgqGEVODcxB40gYvAtmbkuTRv7PDCtcWQQ92SdUo4J3e9mq11sLPbcimRPEJDB2UmGWYc8C79yC9z7jnwfKbg9GE5g/wSfnzhUl4XyAVnmQ+Udb8dMw32+LY1doDmEN0WEExx5QOmyv+HFvnN9+JuzbhfvLTFAFayNYsQCDvrM1MSZbW/deVnn2EYh6PTMELAUEysJyu8qHVzbTR//h0gk5sKsswyOHI3NifiEcemJFUVgnb4h2fHlS/NG9U=;wkOtZryIUTvgqx3Gyi50hg=="
+secured: "/hepRdBOzvWFBcmE0V42x+Y3SDs4C83O/m9S1l+6fjodfNLxHBtMi3zSetrNpN9nhP93RYHOxNLi/BFZlg+ZvFelUfEzqw9/09yWtQTdXOV7FE4RfmASbuaEJly9YwYohZ9nuXmnRkSJz2itEDLCt6q0FDDgAIj03Nt9CW9Nh+5GU1zotd2uDnw07/vUvoyttY9YmzXZWveMH/f0ZYPBqv3e/1hWm6ah+2TZdRX1n8iAdd0IqREt0FY6056mImM/rGuOGWbupDy5U8RcPQLocHzJA1NARfcC5fBu84CYMUMYjsHPbjf5m58UKVvNLlYlvnVPnZRNLy7Ft0uCptV++teaiJyQh35+txMTSYfa7mBoD/gpzJFyIy/ZwrqhBgmjafZJWld07/NBfX76FJKGZQ==;qi2Hvrw7EJ4FEEYjjMTF3g=="
 ---
 

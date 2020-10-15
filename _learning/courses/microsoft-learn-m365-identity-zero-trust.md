@@ -1,14 +1,14 @@
 ---
 title: "Embrace Zero Trust with Azure Active Directory"
 excerpt: "Learn about the Zero Trust model and how to implement Zero Trust into your organization."
-webUrl: https://docs.microsoft.com/learn/modules/m365-identity-zero-trust/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/m365-identity-zero-trust/
 type: course
 price: Free
 length: PT35M
 ratings:
   count: 1863
   average: 4.819646
-heat: 60
+heat: 99
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     height: 324
     isCached: true
 
-secured: "DxE+7dSU4+xscwblmi4PZMjhSnZNuIrxPdakYKx/Dtr26UmWF8yQmsyry9uPnSEKpz8Nwpbwc75p6sVmshGw0QteUF6OzutxgBKepF32U54q0pk4ddpY+/OW2yQU0sjm6JrgNPnZ6WBTrQLi+wHp5BKsnK+mD/mnWTV8r+toWU1EHtKAcmMzCwb4vrJspjKi20GEap1ipoAXIJRQo+dtPIxNQin+PO7b4kbbdnRdqQn91ApqnSXJ5pB+v68NyMWEZsRDBQqEZ0OsIRisQyZ1U6O9+ouj8FtMVyplrYGXtjY+8OQZTB5AkLpwmUpUFkQOKH1j8oxnShyNsNRUmtqRPDVzkcWC0NuNQq5nWvKrFnY0NZfUbSSO5FwQnD7yJZCpTBEHdJoi3I+aax5E/RA8tcOEh+HBzwUOj+JKrNIXAqY=;oM+cA2WTMu1BU79t+qs3pg=="
+secured: "HmkgFr6H6l0Si96165CY5GeqYGZWQWi636+L6L9FkkgsrQIcKEKgFPzw52Czj9GDoOQ7SyqoA/5gtZ087eF3h9hNNTgrhu5h4pXBk1cQZ9t7UTsRNuMItU40BaameupSZ/zm9VOQ/Uv2C8mgs9chCv2D03A9qlkRlgYAnddVYZ2sf6zrv+uKj8s5Pa/l9fGzC8tj7umotRG5IDLxIpV8WokE7Axdn7GP0aw+RtV1yfYg+/VOGPTuJowgOkhxwYRqTuvc0PsfjVGpV9I0QvY4oN61v5J+fFOKsaFXee+RObFphZO8CAk6+DiUYkxfy5KFF5d3vqwHh7yNnbcrBZ80EMnO/TUovKbgWyK2m2P2sURdwIhEFJRwKKqMEqgBugVexR4DdcqnKWqH51Kmt24Apw==;AeshZ6550/C+jsR/FD6rUA=="
 ---
 

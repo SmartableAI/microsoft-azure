@@ -1,14 +1,14 @@
 ---
 title: "Design your migration to Azure"
 excerpt: "Minimize the time and resources required to migrate your on-premises environment to Azure. Assess your current systems with Azure Migrate, and migrate them with Azure Migrate and Azure Database Migration Service."
-webUrl: https://docs.microsoft.com/learn/modules/design-your-migration-to-azure/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/design-your-migration-to-azure/
 type: course
 price: Free
 length: PT44M
 ratings:
   count: 1525
   average: 4.6242623
-heat: 55
+heat: 91
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     height: 400
     isCached: true
 
-secured: "v0XmlViMOMmCjtIRjjhgouZaGWio6l+zTz51cnV6JdZTBxjxass7aU+NwOOEwQKriob7Z9GhlBOAckRo9DwixtdFeuuhUM5jJgvJb98o1QsidTZl3tAyYXugwxK1Q+BQwF2kTA7KcIry5Ag6zqeGenFTM3zyvKUSwmsm/sMuUPCh+E2DgOfq5pVSmgDFeIX06ZDPmQzkD2YhvVPIT953yTtcpTyAYP7r+enFYC6NOBaRZ+BfWmM+ky2c3Fme2mceH6NS0mxzN1rb9mpLsalf3mRUERmELbIDxf2mGFHwBnlZziKZCQ4nReWIm5EvmTFnJYD7TkAvK8Zzw0URfLzh6/uHmGqwnl0H5VY8IS9XxgPCYv5OUY1z+zD0qnud5FtWY1sGOcI3HCQ3n0+AmajsMeufTT9+zpWwCHcTWWIhiC8=;bh+erjTX0l+J1+Hocq2taw=="
+secured: "nE7D1f78EXyCU1pD/3iufvyfQwzLU14K5f2Ba2Rk8VvoMcU9g7t4LKphZqU2eoNunPndcN24DQyKhbEG/k8x+ue+NxIWpBcHYFc4GaxjtqKMb/PpqfDcAvVeuH+tErf6nmH0cse0Vai/ZJPzOUBIQKtmn8+M3axSJFxUfLVERiLg7DCfH/txiPkteFT6N6y+7qBcnWsd53XSolLjfbMCYje27D+4iKubPJy+ZfuxaJZWXj4L72rhVK+BdzhhidTRE3iEi8lJsfLHjblj5M4e1ktEoJf1vt5lpaoxLxV9uZB5xaDhIFim6JJE8gP1FJvD7ryCU4zVLRvUXr+OYNzaevj1qCAhT9pZ0NRUVW017O+DosX5OI//4EMWP80nGQPSz1KBU33bd+YBNPOfv/ISDw==;QDJWH38V9Arv7w9IHSyibQ=="
 ---
 

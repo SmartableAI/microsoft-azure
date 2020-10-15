@@ -1,14 +1,14 @@
 ---
 title: "Introduction to blockchain on Azure"
 excerpt: "Introduction to blockchain on Azure. See how blockchain allows business partners to trust each other's data without a central authority. You'll also learn a bit about how blockchain works. The goal is to help you decide if blockchain is a good choice for your scenario."
-webUrl: https://docs.microsoft.com/learn/modules/intro-to-blockchain/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/intro-to-blockchain/
 type: course
 price: Free
 length: PT34M
 ratings:
   count: 68
   average: 4.6617646
-heat: 50
+heat: 52
 
 provider:
   name: Microsoft Learn
@@ -25,6 +25,6 @@ topics:
   - Azure
   - Blockchain
 
-secured: "1jh2KvC/BQ1L5cBppp5/Yf3t/q/ABM4wkz5GQpEVyRC/CIBSiBprLVtGv2TayH4vkBb8BSSymhpKmUxq/oRifOlCgzV866+i3l0vDYRuwZfLJ2SgoNW98Pfj+WbbWh2nNiDzy3XA70IFql0y44SyTZXuKqg4ZYywE5oDqykh2GAi/xLJJuamJz58lr8tO6cxV8qAunn8hgfsjLh86WzHscFudXz3x8f1eWuBzQvctTIgGkXDdQrlxZtlRddwxIKflWXNee0fhZhkQyTllpdGdGvykOfGyZ/rMEg9n2q/PT2V1xRd6Ar59gZwFHLvBwHUfTZjZiioCXEYrvn7elvee9nkRVskUwJ5KmD2Dftue2FKi8qyqwM6Jn69IXUb6bYecT/3e2J7X2WsVCvHo+uYeoLD26ZtQNKGGKdSsTbXfDE=;h25D6iqbzJ7TqzWXzvfnuQ=="
+secured: "PDDeDXVOeky35PmFFkrwLlG2iq0UrepMcmHEt6ENwhvhxrjN2Yb9eOuH8HhYXZ0Ytqf4wvwinGtJzhwIAb+Wt5vVGn59mFF32bIY8SKXgco2oj+XMGQ8R9PSREXVHIDFQjFHVfcSi4rj/z4sMgrHmOdLMdcYO1APv0KvTcrEQoKd0XVqVgA9p8kN2FCCxzQOZT82VAXEIM+q9lLuFFBnkdFlGWPxLA+FM29icqPHStcmhaayUmTlB7DXfwBMY32rbIZQAzpPivtQ0ywjKl16QjEQ8r/DXQ+hQ7/eCkbJnIKeNCSgjvr43HiGrXvXUbSz4xbcXX9bm4kcht8kJjWhjKaYC+q2k4DX5bJebX5KW/nwz/mx2fOWHpLgHLyNViuh5Gc9nt9wSuNm4l5FhcWjhw==;Rh5vm2Z/uBb2Y7tCcbO34Q=="
 ---
 

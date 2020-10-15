@@ -1,14 +1,14 @@
 ---
 title: "Optimize your web applications by caching read-only data with Redis"
 excerpt: "Use Redis caching in Azure to reduce the load on databases. Apply different caching architectures to support larger loads in distributed and high-volume environments."
-webUrl: https://docs.microsoft.com/learn/modules/optimize-your-web-apps-with-redis/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/optimize-your-web-apps-with-redis/
 type: course
 price: Free
 length: PT55M
 ratings:
   count: 195
   average: 4.7128205
-heat: 50
+heat: 56
 
 provider:
   name: Microsoft Learn
@@ -24,6 +24,6 @@ levels:
 topics:
   - Azure
 
-secured: "qh/CuqxMx5qEmS+CY9WXOzzfrdNTBRI2NbklnPPw4aO+hgKVD3aS/mdRmkYMK7h2axy/zo/mBfstVG2EUQVwgWqs5Z3oD+FAgbtBjzaItTl/A6hjJlALAz3uUxKVPrkX8wR7hnHyrQ3KdzbHf/x3TtdyZQES3VSklZ6QHeTwp8iLdn8Ku6LkIsN7LbOFSz5l/iXBHWW5n13j/JiVTyrVLiEguKO0oa0Qo5eS+UleEQJXZVTAYMoXbViWJ/IuaMLNAEZrZC3q/OA27LO4lQk4fl9haB7Y1orrNcFWzdlxROzmGgBms/HPYNKBfzXHSy/rlF+Pf6RUY4HFagq7bdXa5reTCPi2IRbuN9GipIO95T9u06iaCSBVKtLAVNFGIHaiEoraKsygrvZLMK/inigoldDYwxlw/Ta8TdYqSQ2UAks=;BWXYvAGLJlE7S0ocraHx6w=="
+secured: "4h6nGNsSxWGhBDvVUV6bpx1IoqBmdPqy9jr0NQ6IC1LOFcpjHVmKTvRWqzfyFzwCEMTio1NOfChfAuHCrwL/cpiqAnIPEozokqlghqfgO85mOMnRN8dxv/CXnUbALs3CiUk2tkDIzBsJUzhfin0EWuJsVnU1rSKULtUziu5I1nWvvHdARkZWN1s/B7APjetbUud2xatD8sCh7WRJ56vsc/4ojCwZ70qMPiS2JdbbkPjuYPwh6fbQEVdaUb9ewMG/kwZ7/lXFfoYk8aOqlDYbR/JoB5d9ymJncx7aaLeseVC27J30hNjtiWNaAZ8dNZozoz8cwBy8Qhmv0VCSSp0VafDy2lJauZXv4Hb1jDE0ROHyg79b4Sxe/CUH30Ag49ZOK62YX+vQeUF3JUZKFbSNHg==;RlZHPqrgIZ6B5C8a3fQhdQ=="
 ---
 

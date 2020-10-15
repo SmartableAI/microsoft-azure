@@ -1,14 +1,14 @@
 ---
 title: "Create an app to run parallel compute jobs in Azure Batch"
 excerpt: "Learn to use the Azure Batch platform to write a .NET Core console app that performs parallel, large-scale, high-performance video transcoding."
-webUrl: https://docs.microsoft.com/learn/modules/create-an-app-to-run-parallel-compute-jobs-in-azure-batch/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/create-an-app-to-run-parallel-compute-jobs-in-azure-batch/
 type: course
 price: Free
 length: PT1H13M
 ratings:
   count: 104
   average: 4.548077
-heat: 50
+heat: 53
 
 provider:
   name: Microsoft Learn
@@ -30,6 +30,6 @@ images:
     height: 400
     isCached: true
 
-secured: "O3UTxh3BpuShnyZ4pwPF1j8uNHhswCNW1CDASW0Tmbz9KLp8w5F0yKivYXynHrdSqvmwSLt5wIVhSJXyu9KR3KtN+4GWHejX7IkwhRINoEYZARifnH+AQNstbRearAID1fPGvJbmyqwjk5WdPz3636kt3+Mm8KRtn6SoDmn9XFlCfMSt+CaOz6VVMzdoR1Yaq86zY0kKPq5ahSFw3qHsCwaLguAtMQYgVXc6SbmsaFoTEzWajMrpdkoZRO8VtL/+ONdZc+T6CGJTQ951Q9nsqscyv2Z/xap4BwNzdhxyEAz9C4OhdoX9YMBRxasoJTWOG7UpvORk3QwOd+SGSxr156+fWd3eHEZSGYnjCjpQoex8KpipXu45zyKUIZcbOCV1R3K/5iau7luntuccLD+FfSiWaB6uMzBa0Npp2kEDqSE=;D+0kdDzTmiAq7IGAhHgI+g=="
+secured: "BLXrJBskQ8xjO11mPW8l/9oVuH+XzsFWLhAyZk+/L8rQ7W2hsIhF06Fq9aDjXjiH12Fbj56qmMZ7NuZgD9XjmQ2G1EHjtEDIlFfmhaRsu5FVFw0GhUumOikH9pZXOvjJohejdN/T3SYYhBRlv7fb1GeuP+p2dEkcx3ZxBlu8OfwG5zS/ks4LlK2VIRmcSKi+Ua/4qOh0NtU+rJ6PllUnYolSDaPKqCJqNF02gsHap4ZL3ebwt7iJyLPQD7l39Vg9Q3AOiHxd18/UbanwqrsxXoKkjnQNMt2yt2LS6Bg3SfQlKXHklGFQ2lgZ4Da4Xge1A5oxvuC8TPpbTaRSDejEaDb1YbH4M20R+jWGJ86ty3fbLwuq2uOhXbnJpFGUsR1IE/7H8kidwncWRHkKTeVlug==;erUcnjR0FPQhNBR5ksoi4A=="
 ---
 

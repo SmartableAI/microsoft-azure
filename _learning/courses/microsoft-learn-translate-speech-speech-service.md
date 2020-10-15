@@ -1,14 +1,14 @@
 ---
 title: "Translate speech with the speech service"
 excerpt: "Perform speech translation tasks with the speech service to translate spoken text to different languages."
-webUrl: https://docs.microsoft.com/learn/modules/translate-speech-speech-service/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/translate-speech-speech-service/
 type: course
 price: Free
 length: PT18M
 ratings:
   count: 229
   average: 4.650655
-heat: 52
+heat: 57
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     height: 320
     isCached: true
 
-secured: "8F4/vY4vVUs02NTpOvk8QqMyfxrGF7N+aHZlnw3cQ4Fg1T0d6MfHhAjkKFxugIkZRLwPxwpQ84drbPauPDkioSZKwSBUbK8o9apqICSL5UFVB7gTr6H3APvqKJj79BIFI/DWgX/3PkmqG9+yBOwbfbjNSPyDMjR8ISa6J7ft7iTJTlLYxfW6zi+0PaEqA1YQcI5ozrn5q50v8bkwGnwv4DYbe47YbHSWgFUdrvSZOfux1O3tOQPRMXoN4j4EM6YQvI9Ke8bPcZ7G+ANb7i0zo9txCR6CDxaLVBJA1cy4oToaRWG+JHyRE5vi3YvzBVf/Hd4tQo32kBvHPrrNyy+/bz+lML66JsFLHYgQpfarw27ga36jL2LiLSTL3VZ34SBGZ3N62eq19gQVjcVDpKiaHHGGZqv3CU8YUDxME1+y4i8=;y914fe9ryHCVolt6sURDGA=="
+secured: "E7QWplBh+gBJK2iFEpQV/4zIXjxzoieJQm5lMQkl4f71XaGQ3p4C7e+o/uMwJJFB6QPqGt91rymLefx7PHhhePj0yzplNpbZlT+UIqw3SbQzQdZ0QELJFbIGAFXlSZdGjtmrZEsmSVmljbJvnIluyYk1eMGwkWTYyd642hpxO2miMBAZDKgqJEbzBsQ7fQ1GnxB9ABtFXc3n6d0GuLWIYZdaNPSHTxahs8uaQqipyo34wKehfalQ6s0HwRLwxoqKWsQush1JCFVViIx444RikenXlBCDZwgnWcT/RZAUMDwKdLBpSs15yriQOYIWC5D7PB7vVeAhMfSCfv4hahdDvV9oRR6FpM4TcEVoxmXN/lGFr/bhl70kbbiibS66X44IDLNubMQdLaZOm7qRuCQtKg==;vsSQQ0cSmTy4tLsZ/pUqTQ=="
 ---
 

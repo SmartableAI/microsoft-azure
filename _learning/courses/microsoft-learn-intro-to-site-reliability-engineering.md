@@ -1,14 +1,14 @@
 ---
 title: "Introduction to Site Reliability Engineering (SRE)"
 excerpt: "Learn about SRE, an engineering discipline that helps you sustainably achieve the appropriate level of reliability in your systems, services, and products."
-webUrl: https://docs.microsoft.com/learn/modules/intro-to-site-reliability-engineering/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/intro-to-site-reliability-engineering/
 type: course
 price: Free
 length: PT55M
 ratings:
   count: 547
   average: 4.7184644
-heat: 54
+heat: 67
 
 provider:
   name: Microsoft Learn
@@ -24,6 +24,6 @@ levels:
 topics:
   - Azure
 
-secured: "Jm4iNqJdx9t1kfLVJCkBLOGHQtabuyIL77TfHHRyqc20gXIOk0iujzVdmoHKEMQT1AfR9gNcsU8Du0IC3nFGUbJiY6De18Gn8r+QdSLUBz6VafU+hjlLGprZsJeHBq45Df6UAVn0gezpcKLnxFHbZ+Ibjf4WASX4v4pVAvf8O0BBaEFqCDktCN6O5/4ntDe3hx7qhY1VJd2a3RvJKiH4hLAPUD/3QdMim1Om+d3gdmRZ4UBN9uC7OalfoEhMYNvLp6Af1HxzpsxcGk5Ve6MCJh9n8eO9OeO4hWyRHC16AWFDkBpDgICeA8E+eGzhU1IgoV0+HM1kYM7wG5cBf8ZNUgExt+rACvIdOulWOUOFgnm+c/SHKXc44Kk8x/SNqlBZh4vQ2e0Dhtd0x/ozvmFF66WkzSA4QmV84FOi+FI8WTg=;c8hggr8bwVdyg9O+X9ZZOQ=="
+secured: "xb9xWMP77jEuzaxPYJqEPwWHTa8cjeWy/FoPYA/xnyHN9yrIbkxJwVEdsRMVybsIZPvqcVmCwfBdOfjXkKCpV7HvVJvYPwJM4NOaXQIMDTLSfhr8X7IGHIVrFILF4+TRsk3iPXDOJvxbb7409vXPcbI3mt5OhnqwHVE3qLQZQiiAtFhSuLxMccbMEyez4HVDDp3YwMdr0n/ioreLSCfAkLyiJCKv6R1h7q9RxX9g03y64LSkVuYnFg5nPlsxAVKmdjiZUQk5gdFUygTg7mStVN6nlk7ndlbfMraGdnYU3k3mL6Iin3xNgM8u6CzadnjDE4WgFHoheVWmzdUAo00ANhqbLE4pHB8x2NI7RU01aJ/cKjw4TGOr/XItseCLlqaPs+sXAtCB9yzUCOzpaNjWyg==;Hrd+tOO6ZliZ+EjdcZcUTA=="
 ---
 

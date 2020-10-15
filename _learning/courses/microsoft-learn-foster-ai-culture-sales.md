@@ -1,14 +1,14 @@
 ---
 title: "Discover how to foster an AI-ready culture in sales"
 excerpt: "Learn the necessary cultural changes for enterprise sales organizations to make AI transformation successful, and how they fit into a holistic AI strategy."
-webUrl: https://docs.microsoft.com/learn/modules/foster-ai-ready-culture-sales/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/foster-ai-ready-culture-sales/
 type: course
 price: Free
 length: PT38M
 ratings:
   count: 524
   average: 4.6984735
-heat: 50
+heat: 67
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     height: 400
     isCached: true
 
-secured: "5lheJnwsW/WYqRZNuyVX+W2oolsq4MPiUuwqfSbpopAv2wu2Vo1FZZXRS2bwHC2wOhCg13dH6pRxQdtfbwosAfSOhNGB7uFVAYj+AMA+A5N6eizajCsGPJr9Dt+ujVgyokY8lSmEV1LMVQXemU8KFEqEFDrqs5MZck62n0IUukwe6yjqpJjz5d6TyoMOGBYKnF4IBwTjcKq/Vgx2zJHoJZmyfCxr3bp7EWNhce6Q+Q1Wu95QX8JOTpkNSeO1OngLk3WTDOg4/iI/0aGtxdcZ4JpaDc7l60CWZ2kMRHdLZRgLYmbfRTWKvPO5AuTeNnMCIXMbmVzVIdzrXGmQhIZQlxUYnpCD4Jz2sgzP35pmSomIR2wdZ+NQ4+1C7LjRxoHgZKEAW8VxYKrKGL5QfdttAnIm8gkq7WlOMxJxNSQiOrA=;QY03i430ctDjxBMnSa3tzQ=="
+secured: "39e/PHguGO1P+zIH78GJ9NuIAdzQlxeHnKakZwXRwUNeAsSA192sQdV/wvIneGA4T6PewOHL5m+jht2mxDUYsurFfVxrlzf5Y0XaL2K6qz84DHaJpcqp9HTUEi4gouyHP0vkt4IkyL2JWTtsglXsKq5smXZT5weS9+8FydyfpsDbE0IpiuP91PduxJqmZ5CnIqUgiGqIy5BxnztEjCdJNjHLJKe3791oYY/pWzAJ/+ZFAmAjFGvuiFrm/H3yVeJr+16NqfQVFMCiQuDX+Sf5pCL6nYj5cbU6zu5vo4OqipULIvdQxsj+OfYKz/pZu240BJILo9WIu0QW/3q0jhPxRiOGVL2cV3Cp6EYOgxIY48QXnXgsK/sxVJO8Ss2Owdj9ZLHd5asYIjpje4uaPr6h0w==;qktlpTdeB8oSthk8sNq8DQ=="
 ---
 

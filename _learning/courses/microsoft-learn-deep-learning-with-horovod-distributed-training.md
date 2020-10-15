@@ -1,7 +1,7 @@
 ---
 title: "Deep learning with Horovod for distributed training"
 excerpt: "Deep learning with Horovod for distributed training"
-webUrl: https://docs.microsoft.com/learn/modules/deep-learning-with-horovod-distributed-training/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/deep-learning-with-horovod-distributed-training/
 type: course
 price: Free
 length: PT36M
@@ -32,6 +32,6 @@ images:
     height: 320
     isCached: true
 
-secured: "ofBYO4NN+7tRWSUB1fUaIlLlD+t0mjSusFSjiIuGdYajszrlGpCQe/F24/vhfPdRczBlohSZYNHyWrw3o40HBFhjSkGrV8mDkXhF+0/WXpw2/tfsdfE0DxJdUG5hNXrkajrNRmUFe6Vn0c99Rrk5K9tGgzL+AOIu0x0yU4lUig8eZI42xKVk0TKlfH3CZxzyb/jYXBlooaWqq5z/9dLvddpuDeEcRv3Uq0Uyp58Nkrnsv1pu/FptivAMAfN2wVHusAfvct/i+WsQtWHjxuE6JrtT1d2Oh0VVxUi9J3BV7aSGOnGAjrmuLcq8SieO8sdUBua8rwwDNtLlG9nF6YJ3qRerCCBpJfTLjSEETHFcRS0iwp/+K3lYogj1+n6GpU//TAQ27LD6jjhaHZavFz5cOf1skduW7S/stQg1Md8s9fQ=;tXI5HBiW6aQGjVgtrM1RBw=="
+secured: "PiBDu5O4Ma3BNhKxtLrqu0mvDdEbdRTvzVLCsOXGGKe7mzN0ydh1HlOf85yM16ZO++lXbGSK1t5J+IjB+1nPVI91cSyQhi07/fEyU4e+tHT7XBb9YfJ7DduxXMmWu8tYN2lWlZontP7DDvfbbU+JBwCkB0r/1BgdLBSgIM99ejnlsIwu/p8aC++2Rh3PKk0XtDGzhZHLZc1uYWdjj+XpSl//VD9JhQ65SXod3KTUa7urQTYoVzF4ueAa8VLFkCTKvVhsIu98TYZmH4dgiylwQSBh4W7gYhECHorllLNTmp/tuqXA2Iok4zfK4KPVbVyFvlacKh8sz35xf5Ahx/p0yqkShLZP2Hi9zOgxiyd/zfW6EvKK2EACOGb/p3F8a+zSfDZyw2hpVQ+eIg00LdBisw==;xFUpmb/upwNBoI1YvIHl3Q=="
 ---
 

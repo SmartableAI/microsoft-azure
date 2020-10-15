@@ -1,14 +1,14 @@
 ---
 title: "Cloud Concepts - Principles of cloud computing"
 excerpt: "Explore the core concepts and benefits of cloud computing as you learn how to choose a cloud deployment model customized for your organization."
-webUrl: https://docs.microsoft.com/learn/modules/principles-cloud-computing/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/principles-cloud-computing/
 type: course
 price: Free
 length: PT1H2M
 ratings:
-  count: 170716
-  average: 4.7726107
-heat: 142
+  count: 170725
+  average: 4.772605
+heat: 374
 
 provider:
   name: Microsoft Learn
@@ -25,6 +25,6 @@ topics:
   - Azure
   - Management Tools
 
-secured: "UMWKmVf1QO2be+wafC+ShHCfMMWkYlqtR99En4icT8XL/4DsV9MJJlFTYhIHzSiwdWUpYmr0wDVRQpTxbir+h1mJCwqerSCLYTb7jm+fsq/EIbi9L70+RXhd2PI+ZV8VsydLqG7G7y4DTMYZGIOaHkmkHhqD/Ffc9aDekezxnA0sfM293wnrE1H+KWmlpOGaKkImB8MLgyR/yHNaVddWu2HrxIXq1G+6HQM/Vpa23o1CVttQq5LcTba8Sijij1b7VLw5YkkBV75a7AawNPCU07HUhx+C8psqDhpj5nfdbJQreZQlbfBT+KxvD+TXXM3IRFtEXkPBMCmBckLQxD32GiuQstFegYy7LcCQjxIBqqjNbj1KnDjGxa4zt9P2Y0LbFNB7reHKcnyAWD9mUbY8bnm/3mjwx1M3Nfr9Mu6whAB47ar/Sv7QQ37c2OTZdYz3;vMmxBqWu1j1LPw2b9hdbfg=="
+secured: "nvZ8tmh69xZP8UtDABVL2veRy9UFqo6Blg3hnPGraTw8I0AdNUGpibTCgb4QfB12W1lml4q4I/WA/8p+ZDzEwIjRJC4mHYsxvB+9YaLrJyHJXhFPk2Eas6RMeSaZsrCYpgv21W1tC0Yp/AgEe93g2h+v36+4ggGFzUtTugDy7A8ZX/CxQFfRD0aaGivJGBrzxBgNe5iUHF2ZdvP4zT9OoL1sbEM2N9gnyvj+j8o9uJSvBgDldR534WJTS4RwPnfPSn4r44eYV+yL/yttPTRg97d7YLrGDbFdP9q1onVM2h48fPXnI1c3IeuJ3YEws9LqIyjiBWaLTMos/6Dae4B328gzCtG0Mwkjr3g01vb1MpkH4IpFVJikF5rP9ZbGYV54NN6oY6oX6WDOBgOAK6ZyRA==;TofNKjcdMVjSso6neFGNjA=="
 ---
 

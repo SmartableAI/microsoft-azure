@@ -1,14 +1,14 @@
 ---
 title: "Enterprise-scale architecture organizational design principles"
 excerpt: "Enterprise-scale architecture organizational design principles"
-webUrl: https://docs.microsoft.com/learn/modules/enterprise-scale-organization/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/enterprise-scale-organization/
 type: course
 price: Free
 length: PT34M
 ratings:
   count: 49
   average: 4.571429
-heat: 52
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -25,11 +25,11 @@ topics:
   - Azure
 
 images:
-  - url: https://docs.microsoft.com/learn/achievements/generic-badge-social.png
+  - url: https://docs.microsoft.com/learn/achievements/enterprise-scale-organizational-design-principles-social.png
     width: 640
     height: 320
     isCached: true
 
-secured: "03PQrlOoSZETXuzJ5IDk6II7anSZiETcFrfUcXamqRkUr1IHEpm4kW8xgwHjllSIXz/RBDrM4fCcns2vjiJh/w6kbg475J4cwJTBGQhXojDy5BJAQ7bUXQ6IUmioYmSzc4+8iriG9tDAQOh91chM02FL1Kik3oUE0p3uuoIeRiDwZj9K4kTpMxqedngc+Mx0XePAUFIiJPQXZ7f4CWwQ9/pAgwX3lgSCnaStglvIwYtky2Cm9fC9L+dG24ZrZYVcuRBL5LgjNNi4+qprPjnRkpFTmvoXBjEkTWovW1dDs7H9HCmQD/WlM7c70pUrjAWpAGQao/S7cKcFWX0VoGlVODQ6XcHU+TAwgUlUYiu7ef/LUEPS7PWdJXXhwU41q4xRlEpjSjSh7NHX6c7bzX6VIXX5JU0XgCVP49wohorC+Ag=;60CC5I1LljG7wqV+P1Rqcg=="
+secured: "bgWSTzNW3aed/miU4LKz+2AtjI9c8gg/ZTO0ZMBBIG+BTvRl7vkQ3d6HYWbEghDKSPZnT7AZBbUvdZAsza5omgWC6QAsvYIiIsoaWb/dLAqaDcAq64Zg5XRcJ4T5A1zoVJvCdSa2qYX85esXyTw7/NRSPawbt5dprdC4THGDqN4aTClt7I8MHR3AreT892GtgR1Lt6TIH3lC0FizDwXkd8pj48sLzDlGTGAKEKny8oHADgNustI03CR3eEecs5FDBMomYuvy0xhJ18Ieh+3A7qYp79UEKZ1ShPFXgpdL/hfdBi8bhAMZEFqKk7Bi5usV0z9JU4texw/KIUMWRhB4o+fsaUDRgurYPigprwcDitTzhk8vyP71TOClbn5aNK4QgWOWD8a0K69VmS/4fKHHNQ==;8hFwFt4QGmMTKx7huRRacA=="
 ---
 

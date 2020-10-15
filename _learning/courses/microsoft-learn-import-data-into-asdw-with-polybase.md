@@ -1,14 +1,14 @@
 ---
 title: "Import data into Azure Synapse Analytics by using PolyBase"
 excerpt: "Load petabytes of data into an Azure Synapse Analytics database in minutes by using PolyBase"
-webUrl: https://docs.microsoft.com/learn/modules/import-data-into-asdw-with-polybase/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/import-data-into-asdw-with-polybase/
 type: course
 price: Free
 length: PT1H6M
 ratings:
   count: 2065
   average: 4.5617433
-heat: 52
+heat: 100
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     height: 400
     isCached: true
 
-secured: "WUk+MO1q5gha2MyWa8lpywOjOT5e2kX5bnNbE8G9qhhPeILC4NQe98jdWlqbPNkbf6IEpFgWyDvBO1bMQRbcGeih1s8qA6/aOzko6IOdLZrNqUe1xocZ8G++HohtVVEbhJcUQRz+0ArQAxL1WwJwNJtslYZQlx2M18Q541i5uWNNd91KtiBq2eLvvAmGLG5ztIHWYUsh5ngNgSuKM3nfw8TdFxB5b+UgHMOOxUSxq4AEp1MARVsISwCSWgnQxdWJ7qhdFsG1Ne9lJTIR9PzJ1e6FB8eUcnWIuwZEeLVQNJblxxLfG5s5fR4F8MAbNc7ilC6RDj2rSQVjl6FsIZCHbatLE6432o3K6SDQlvEzXl2c32v1nHlnlS5MSGp9hD1C3kjvQW2iQhFMbKhwH3Kg/SkiUAnhz+pEuG6+85nlhio=;rpje8L8ndUVGFfYPT6bKcQ=="
+secured: "VXUcoYcTxa8ej+Q6bn0Equssc4wJsu+9NMlCKtuQx7pvNtKrd5rb6wUzw/ohuf9PiifpivX9yIYF5BNQr04h31EvPwHHBVDApZS8uLi6OIONWuZhmYgGaavxvHg9p7m2tam9B3m0C9o1/yEdgUn/NWz2dm0I9+9s/bxUYxhYN0PiD3TTUTgNFBsOBQ0lnJPY+Vsp+PF5pAElqWBKIZyE0UOASzqKb/MkD2RneZN7jJ6ZRyi9PhVqqeFMtLNItTeRtchON6TAFpJ/vLUylnn6w4537DP3FUIW6DUsHeOiXgdEMIpQr+3Pw8orVw8YIN9TooC8sKCzz3BX+ZyYUCryECTT9V8R5g9Dn7yXC6adC3OPgI9Fivq2fpZu1qW9CeQG4WmtPhVXgY9iSpzrRDsIrA==;QRByUwEX492kUrlrHtssWw=="
 ---
 

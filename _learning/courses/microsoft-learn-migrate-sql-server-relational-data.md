@@ -1,14 +1,14 @@
 ---
 title: "Migrate your relational data stored in SQL Server to Azure SQL Database"
 excerpt: "Plan and implement the migration of relational data from SQL Server to Azure SQL Database. Select the appropriate migration strategy for your database, and then use Data Migration Assistant to do the assessment and the migration."
-webUrl: https://docs.microsoft.com/learn/modules/migrate-sql-server-relational-data/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/migrate-sql-server-relational-data/
 type: course
 price: Free
 length: PT1H24M
 ratings:
   count: 852
   average: 4.388498
-heat: 54
+heat: 74
 
 provider:
   name: Microsoft Learn
@@ -25,6 +25,6 @@ topics:
   - Azure
   - Databases
 
-secured: "u+Vjn7X6ZHcPyvyjv85/ge3k5pf22PryaUR44ZkxGs2aHXUwZUCrH9xLnhw2l1yOmdOePpUJ01mssOWXhieqM+1i+GBJ5+uLY+UvZhlqQcs8VFt8SFdjsdbMvUxuEJztP8m4nEuoMMN9ZuentGBlRf5xPGn47FgXNkFc9Votfm9EzOiWzccnw6DRcpbmQT9RbNm9TYypBOeLQ511GxxBYW8EAlsrFGmLrRkfqMdyBlTq7hGKp70DxqSVKC7O4YwvjOSpyGqqX+ppFmaBHPcEMNA25bJdzPR/RVmKBHzVfNTHyz3cDWeRfZmChqcv5Y/6YRfIlQHN9p5HcvJj2Qg+L4ILZeXAqv91aHXWVXVzq7t+aNHy6njB94o2G8zusAlSSGmWRaXkTwUqdzfeuAnvuFB6/ulihc25YZYivQlRs94=;UFMfTRPME/BZl0118Fq5Iw=="
+secured: "TJpBD7pjEnLWJsU9N4tIUy0R6qUj9N8OC35FX86Du/E6zYPZ7hGQEFEWFiyAQhLoKq+wA3YIES5N9mAfC/ZDk8N6klAV4VogYvy4FKhTxztAFTg8uiwGSEsTiwROZGaXrVLwf8heRPfOGFyF8+Fh1ffCuDuKd3NfNZezPsq1Vet0OK3i/3or3Is0ORMDTLXdLpKoiK7VMaaJnJu9Rqgj9Db916mFa4LWP0GPBM6QjluOipyYENqqb3XqBjYRCYP7gtwwRyPteIEn7EH7YZNfQ1ENdFkf1UbZz/79GY7pAqWAowjZLZHe+shx4YRzSd0dFNqejfhKScpXLf3Ch/xOL5dMdDbN3VdKaRy2Kp887nzOEGDENFkZ4ktk985Lkqnwr8OXGHHuBbQuNWMzAV7B3Q==;El7W2pn2ao0LbcTc7n5oWA=="
 ---
 

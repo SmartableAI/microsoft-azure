@@ -1,14 +1,14 @@
 ---
 title: "Insert and query data in your Azure Cosmos DB database"
-excerpt: "Discover the Azure Cosmos DB Data Explorer tool that enables you to add or modify data and to create and run stored procedures."
-webUrl: https://docs.microsoft.com/learn/modules/access-data-with-cosmos-db-and-sql-api/
+excerpt: "Discover the Azure Cosmos DB Data Explorer tool that enables you to add or modify data. Create stored procedures in JavaScript."
+webUrl: https://docs.microsoft.com/en-us/learn/modules/access-data-with-cosmos-db-and-sql-api/
 type: course
 price: Free
 length: PT58M
 ratings:
   count: 2553
   average: 4.642773
-heat: 55
+heat: 109
 
 provider:
   name: Microsoft Learn
@@ -26,6 +26,6 @@ topics:
   - Databases
   - Management Tools
 
-secured: "EH8h8ngunmtTFr9CDoxm0FNd53xXnH64Qw5UuJPGaNH2P+n3+E2HSxI2bKxIddebIkn0AMFvwsULqX/q0sjVeQI/I8IwarkB0GgKWL6PD23F3DHT2W75ckn258OeK/3PagQBVnIxt0L7HcKZ5fGQS+rYVcUu1dY9H69u7bfGPwiDVaojtPGD76Ud/6HzJhwHZ28ZozMbyHiS3nSSHciGKmpZNH0FH6Iskavjg2MKxHZkflnl9g9E1++c8b8vdIKcBKok76XfyDoYLwJwr/Ip6VnUnEQtUBfKHUGXUBrsjXU/EaToJPqve64MFPtgyE3XNLCENpz+SiEXrGBAJVgZs9fhs+1YNA1WbfTXI/i40dga8LQ2vN1SwtxaOsGq+AMFokrznW/P6ST0P9Z8sVAp9rwSfVK3u9gAOkxx98c2/CM=;EPy7ehERInFEt3fCu48tkw=="
+secured: "uNapF7tSNHl2iaNw6biMzD+TrcB0EF7YGrQq1aMo0kgH1FUCfBdTm4Ct2lY9CeBHkFZI/24LwNaYgX63UT42XTZ8soZGj7hDrgTSVxoDcTDqlDnv+zMfczZ6J5Pv1WGJ5PkSbA1RJNcc4yj0XV4CvbgPu7Ws8vG7wU9kgqf3H5IyNZ9hUoFNkJyFRL9+t3a8jGn8tTRJFUcSp1+Xju3cmKTBnXG3GOWEV2RRR1Sl5Du3TF+ZEHjjLwHMVrJBOkYL+dTTB/ZP7GbY3mfzLEDKbWx4rf5i0QrTYco/6tqP2U+iUu1x1Y0bpAUshM0nQu2plnsLZ7w5WDqHJAHePLlikQ5qhPW6spag6ezkoWCowlbRzgk0M5iY5Nr2J0RZJYvWBjrBlA8lwbJzTVwoZ5tQTQ==;SjXLCgr2eCtMsWE0g36WFg=="
 ---
 
