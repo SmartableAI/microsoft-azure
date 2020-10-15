@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2020/09/22/microsoft-launches-azure-orbital-t
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/09/22/microsoft-launches-azure-orbital-to-connect-satellites-to-its-cloud/amp/"
 type: article
 quality: 114
-heat: 2534
+heat: 2554
 published: true
 
 provider:
@@ -1449,6 +1449,20 @@ related:
       - url: "https://www.itwire.com/media/k2/items/cache/a6d3ea62ee421e5fc717dccf4b518a58_M.jpg"
         width: 375
         height: 375
+        isCached: true
+  - title: "Dicker Data launches Microsoft Cloud division"
+    excerpt: "Dicker Data has launched a dedicated Microsoft Cloud business unit to drive greater revenue from the software giant’s offerings. The new unit is led by Sarah Loiterton who has worked in the Dicker Data Microsoft and Citrix sales teams for the past four and a half years."
+    publishedDateTime: 2020-10-15T01:06:00Z
+    webUrl: "https://www.crn.com.au/news/dicker-data-launches-microsoft-cloud-division-554697"
+    type: article
+    provider:
+      name: CRN Australia
+      domain: crn.com.au
+    quality: 22
+    images:
+      - url: "https://i.nextmedia.com.au/News/CRN_14_dickerwarehouse2.jpg"
+        width: 1400
+        height: 900
         isCached: true
   - title: "Digital Transformation: Qatar Financial Center Regulatory Authority to Migrate Online Services to Microsoft Cloud"
     excerpt: "The Qatar Financial Center Regulatory Authority (QFCRA) recently revealed that it will be migrating its online services to the Microsoft Cloud in order to move forward with its digital transformation strategy."

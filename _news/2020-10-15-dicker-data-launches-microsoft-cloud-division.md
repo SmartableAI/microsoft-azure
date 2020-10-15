@@ -1,21 +1,27 @@
 ---
 category: news
-title: "3Cloud Acquires Microsoft Azure Partner"
-excerpt: "Microsoft Azure cloud partner 3Cloud, backed by private equity firm Gryphon Investors, acquires Pragmatic Works' consulting arm. Creates largest U.S. Azure partner, buyer claims."
-publishedDateTime: 2020-09-15T21:33:00Z
-originalUrl: "https://www.channele2e.com/investors/private-equity/3cloud-buys-microsoft-azure-cloud-partner/"
-webUrl: "https://www.channele2e.com/investors/private-equity/3cloud-buys-microsoft-azure-cloud-partner/"
+title: "Dicker Data launches Microsoft Cloud division"
+excerpt: "Dicker Data has launched a dedicated Microsoft Cloud business unit to drive greater revenue from the software giant’s offerings. The new unit is led by Sarah Loiterton who has worked in the Dicker Data Microsoft and Citrix sales teams for the past four and a half years."
+publishedDateTime: 2020-10-15T01:06:00Z
+originalUrl: "https://www.crn.com.au/news/dicker-data-launches-microsoft-cloud-division-554697"
+webUrl: "https://www.crn.com.au/news/dicker-data-launches-microsoft-cloud-division-554697"
 type: article
-quality: 17
+quality: 22
 heat: -1
 published: false
 
 provider:
-  name: ChannelE2E
-  domain: channele2e.com
+  name: CRN Australia
+  domain: crn.com.au
 
 topics:
   - Azure
+
+images:
+  - url: "https://i.nextmedia.com.au/News/CRN_14_dickerwarehouse2.jpg"
+    width: 1400
+    height: 900
+    isCached: true
 
 related:
   - title: "Microsoft launches Azure Orbital to connect satellites to its cloud"
@@ -1453,20 +1459,6 @@ related:
         width: 375
         height: 375
         isCached: true
-  - title: "Dicker Data launches Microsoft Cloud division"
-    excerpt: "Dicker Data has launched a dedicated Microsoft Cloud business unit to drive greater revenue from the software giant’s offerings. The new unit is led by Sarah Loiterton who has worked in the Dicker Data Microsoft and Citrix sales teams for the past four and a half years."
-    publishedDateTime: 2020-10-15T01:06:00Z
-    webUrl: "https://www.crn.com.au/news/dicker-data-launches-microsoft-cloud-division-554697"
-    type: article
-    provider:
-      name: CRN Australia
-      domain: crn.com.au
-    quality: 22
-    images:
-      - url: "https://i.nextmedia.com.au/News/CRN_14_dickerwarehouse2.jpg"
-        width: 1400
-        height: 900
-        isCached: true
   - title: "Digital Transformation: Qatar Financial Center Regulatory Authority to Migrate Online Services to Microsoft Cloud"
     excerpt: "The Qatar Financial Center Regulatory Authority (QFCRA) recently revealed that it will be migrating its online services to the Microsoft Cloud in order to move forward with its digital transformation strategy."
     publishedDateTime: 2020-09-19T00:43:00Z
@@ -1528,6 +1520,15 @@ related:
     provider:
       name: Sify.com
       domain: sify.com
+    quality: 17
+  - title: "3Cloud Acquires Microsoft Azure Partner"
+    excerpt: "Microsoft Azure cloud partner 3Cloud, backed by private equity firm Gryphon Investors, acquires Pragmatic Works' consulting arm. Creates largest U.S. Azure partner, buyer claims."
+    publishedDateTime: 2020-09-15T21:33:00Z
+    webUrl: "https://www.channele2e.com/investors/private-equity/3cloud-buys-microsoft-azure-cloud-partner/"
+    type: article
+    provider:
+      name: ChannelE2E
+      domain: channele2e.com
     quality: 17
   - title: "Valimail Tools Now Offered Through Microsoft Azure Marketplace"
     excerpt: "Valimail had already provided email authentication and sender identity solutions to Microsoft 365 customers, states Steve Mock, vice president of business development for Valimail. The Azure cloud platform will provide Valimail customers with streamlined deployment and management,"
@@ -1652,6 +1653,6 @@ related:
         height: 450
         isCached: true
 
-secured: "NGYfx7sOQaTpDJiCyR2E48XyntzOetiBBqkWdzsuRNh5Q4n8LQWx3pU5kK1Vz0TX1IFgJfzoTAP8Xn0WD0DYRYRL/vkYVXg78kqfk7nWVAvNyiNP21XvdXiXDPZBrs9Yqj6OnifbfxYCxqE7mRiCP4EinDhPaoMbxi0gZUMPCkvuTcTRvjVI5x49pqCxxd+mIflvZeznh2/LXBciWcmbj2fdfMdqvzLnPFuTxIaEmJ5WQyB+rz30ea+xCE0oHU9rS+7egyZ4fCe7Blv1gNFs9zucvDr78k6KxKIOxzOvyrNi+qxYV/ZFNXBndy+otgx/qnyv7gDvOmiYp5c+FeVhtNzao1XmucsaKfgQ7f5fdDw=;BpIxzV69ZPeR5NHY6RpmAg=="
+secured: "MQPnlkkykBBxGbA1MbzK3B05kfDkt+2QzRqKISIJ7SN8tLg0MIMqYEtbFqxzwzyPgPBew8bBKfokeAoJzR0eycvm8Wfvjz6GvSmuI3CzuL6vqdbTMwsEtWl12QweGfRQzWN8p7guVZVtETR9v7uc0BKjKqNi0CMySjvSuiH5Gtfiz2eYgm/yvxxMPxV3r0myACtL3tnAyI7wpmYEMSDSoSksWj1nEmHQNJ2i1ZJ9iqvKQvKJZE0poTpGzNXiHu65evuFpzBuljw4LeM82jldlZ+G9lfFcfWNTtNVaD/szFqY4NqTH3JBlpYZF50N75yuy+AV22J9UCxuadp+eIqXNg7HsmOfyMR6a7A5hbD7rEE=;VEcnopXdOdQglFLOMI2nOQ=="
 ---
 

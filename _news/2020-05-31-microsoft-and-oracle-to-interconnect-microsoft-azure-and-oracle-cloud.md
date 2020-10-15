@@ -1447,6 +1447,20 @@ related:
         width: 375
         height: 375
         isCached: true
+  - title: "Dicker Data launches Microsoft Cloud division"
+    excerpt: "Dicker Data has launched a dedicated Microsoft Cloud business unit to drive greater revenue from the software giant’s offerings. The new unit is led by Sarah Loiterton who has worked in the Dicker Data Microsoft and Citrix sales teams for the past four and a half years."
+    publishedDateTime: 2020-10-15T01:06:00Z
+    webUrl: "https://www.crn.com.au/news/dicker-data-launches-microsoft-cloud-division-554697"
+    type: article
+    provider:
+      name: CRN Australia
+      domain: crn.com.au
+    quality: 22
+    images:
+      - url: "https://i.nextmedia.com.au/News/CRN_14_dickerwarehouse2.jpg"
+        width: 1400
+        height: 900
+        isCached: true
   - title: "Digital Transformation: Qatar Financial Center Regulatory Authority to Migrate Online Services to Microsoft Cloud"
     excerpt: "The Qatar Financial Center Regulatory Authority (QFCRA) recently revealed that it will be migrating its online services to the Microsoft Cloud in order to move forward with its digital transformation strategy."
     publishedDateTime: 2020-09-19T00:43:00Z
