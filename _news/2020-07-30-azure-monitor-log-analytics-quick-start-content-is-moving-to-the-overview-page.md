@@ -119,6 +119,15 @@ related:
         width: 1200
         height: 627
         isCached: true
+  - title: "AMD EPYC™ Processors Offer 30 Percent Better Performance on Data Analytics Workloads to Microsoft Azure Data Explorer Users"
+    excerpt: "Azure Data Exploreris now using AMD EPYC processor based virtual machines from Azure— SANTA CLARA, Calif., Oct. 15, 2020 (GLOBE NEWSWIRE) -- AMD (NASDAQ: AMD) today announce"
+    publishedDateTime: 2020-10-15T14:33:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/amd-epyc-processors-offer-30-percent-better-performance-on-data-analytics-workloads-to-microsoft-azure-data-explorer-users-1029684163"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 48
   - title: "Azure Analytics Data Bricks Meters"
     excerpt: "Effective September 1, 2020 Azure Analytics Data Bricks Meters will have a name change."
     publishedDateTime: 2020-07-30T17:00:10Z

@@ -107,6 +107,15 @@ related:
         width: 1200
         height: 627
         isCached: true
+  - title: "AMD EPYC™ Processors Offer 30 Percent Better Performance on Data Analytics Workloads to Microsoft Azure Data Explorer Users"
+    excerpt: "Azure Data Exploreris now using AMD EPYC processor based virtual machines from Azure— SANTA CLARA, Calif., Oct. 15, 2020 (GLOBE NEWSWIRE) -- AMD (NASDAQ: AMD) today announce"
+    publishedDateTime: 2020-10-15T14:33:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/amd-epyc-processors-offer-30-percent-better-performance-on-data-analytics-workloads-to-microsoft-azure-data-explorer-users-1029684163"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 48
   - title: "Azure Monitor Log Analytics Quick Start content is moving to the Overview page"
     excerpt: "In order to simplify and streamline Azure Monitor Logs, we're moving all links and content from the Quick Start page to the Overview page. The Quick Start page will be removed in August 2020."
     publishedDateTime: 2020-07-30T16:00:01Z

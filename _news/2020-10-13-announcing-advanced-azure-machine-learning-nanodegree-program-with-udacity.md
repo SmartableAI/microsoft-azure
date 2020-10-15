@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/announcing-advanced-azure-machine
 webUrl: "https://azure.microsoft.com/blog/announcing-advanced-azure-machine-learning-nanodegree-program-with-udacity/"
 type: article
 quality: 82
-heat: 82
+heat: 83
 published: true
 
 provider:

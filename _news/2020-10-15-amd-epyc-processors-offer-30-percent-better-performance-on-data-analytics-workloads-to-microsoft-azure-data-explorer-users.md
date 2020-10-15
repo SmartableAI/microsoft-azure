@@ -1,24 +1,26 @@
 ---
 category: news
-title: "Azure Analytics Data Bricks Meters"
-excerpt: "Effective September 1, 2020 Azure Analytics Data Bricks Meters will have a name change."
-publishedDateTime: 2020-07-30T17:00:10Z
-webUrl: "https://azure.microsoft.com/en-us/updates/azure-analytics-data-bricks-meters/"
+title: "AMD EPYC™ Processors Offer 30 Percent Better Performance on Data Analytics Workloads to Microsoft Azure Data Explorer Users"
+excerpt: "Azure Data Exploreris now using AMD EPYC processor based virtual machines from Azure— SANTA CLARA, Calif., Oct. 15, 2020 (GLOBE NEWSWIRE) -- AMD (NASDAQ: AMD) today announce"
+publishedDateTime: 2020-10-15T14:33:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/amd-epyc-processors-offer-30-percent-better-performance-on-data-analytics-workloads-to-microsoft-azure-data-explorer-users-1029684163"
+webUrl: "https://markets.businessinsider.com/news/stocks/amd-epyc-processors-offer-30-percent-better-performance-on-data-analytics-workloads-to-microsoft-azure-data-explorer-users-1029684163"
 type: article
-quality: 17
+quality: 48
 heat: -1
 published: false
 
 provider:
-  name: Microsoft
-  domain: microsoft.com
+  name: Business Insider
+  domain: businessinsider.com
   images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg"
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/businessinsider.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Azure
+  - Analytics
 
 related:
   - title: "Azure Monitor Log Analytics data export is in public preview"
@@ -113,15 +115,6 @@ related:
         width: 1200
         height: 627
         isCached: true
-  - title: "AMD EPYC™ Processors Offer 30 Percent Better Performance on Data Analytics Workloads to Microsoft Azure Data Explorer Users"
-    excerpt: "Azure Data Exploreris now using AMD EPYC processor based virtual machines from Azure— SANTA CLARA, Calif., Oct. 15, 2020 (GLOBE NEWSWIRE) -- AMD (NASDAQ: AMD) today announce"
-    publishedDateTime: 2020-10-15T14:33:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/amd-epyc-processors-offer-30-percent-better-performance-on-data-analytics-workloads-to-microsoft-azure-data-explorer-users-1029684163"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 48
   - title: "Azure Monitor Log Analytics Quick Start content is moving to the Overview page"
     excerpt: "In order to simplify and streamline Azure Monitor Logs, we're moving all links and content from the Quick Start page to the Overview page. The Quick Start page will be removed in August 2020."
     publishedDateTime: 2020-07-30T16:00:01Z
@@ -136,6 +129,15 @@ related:
         width: 791
         height: 371
         isCached: true
+  - title: "Azure Analytics Data Bricks Meters"
+    excerpt: "Effective September 1, 2020 Azure Analytics Data Bricks Meters will have a name change."
+    publishedDateTime: 2020-07-30T17:00:10Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-analytics-data-bricks-meters/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 17
   - title: "Live Video Analytics now in public preview"
     excerpt: "Live Video Analytics is a platform to capture, record, and analyze live video and publish the results (video and/or video analytics), enabling intelligent video applications."
     publishedDateTime: 2020-06-11T20:00:11Z
@@ -155,6 +157,6 @@ related:
       domain: microsoft.com
     quality: 2
 
-secured: "olYdTPXHO6qMxIS/cQzeSU+kSoFTUpbm/kFTZN328cMVIthysNdQyaiSC3aeVUTFPgRNHmoleIiIAJc+awh1S+mF7XuKLgDzPljhlAfukD0Zs1TEayyAsh0B8g9R7k04LEi7kD2NhmwOabUnAZks473JL7gc4HpVLNuanopQCXCRsNguklvoGySPX+eWfouJzqTGqifRwpgozolqEHgrL4IBr2jvhgGAgZOnHVNgCKsq7Bzkp1Yg8rQTuNnnQXoOqquPlt1ynQUXpXyB97kUKM7aCYPDWTV7MTUaDS8OwdLbiaOuPTinQPsNDc6Au7hU2BSZJ+NRKYW54W1jNKExBg==;o02irvEDAGZbUrEgs6mNyQ=="
+secured: "0UCYANzyJ6Iwe6bNGnrExhzrb1f5+thMkMpQipL7IEAuTIPm2r8jq0ymb7pJRU0+suSJQ0HI9+5y9ERti/R0AzQFBKBoJ4vx/nmxLx09vwmAYxciS3uKUfZlVW8IIJ/lT3KwQ0iRIvFhVz5vXP+aSJI9REODraNf/K0SqaTlj13c7CdPNXsbUg93rbdgLZaEznEs4wY5MpsdGWS0DtIa//dqfTkzhzxd1LCfQQg+jIoa1ByJjHAno5x9UUaj1igpC2Q/vSLlCPqKCAhGHgcWGHaiYk+1gQ9i56JXaKzlzGjpgDebA2t/lndCiiqSqce7N8Iz62iWuWucYWzpZZazdYSAheBKvsONS6Hw0eQQJmM=;nAKTad3ibsta+S1XzX/K5Q=="
 ---
 
