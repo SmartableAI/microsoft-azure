@@ -4,6 +4,48 @@
   "page": 19,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-extract-insights-from-videos-with-video-indexer-service.md",
+      "title": "Extract insights from videos with the Video Indexer service",
+      "excerpt": "Learn how to use the Video Indexer API to upload, index, retrieve insights, and search for content in video files.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-extract-insights-from-videos-with-video-indexer-service/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/extract-insights-from-videos-with-video-indexer-service/",
+      "length": "PT27M",
+      "ratings": {
+        "count": 3,
+        "average": 4.3333335
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "AI"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-github-actions-ci.md",
       "title": "Build continuous integration (CI) workflows by using GitHub Actions",
       "excerpt": "Learn how to create workflows that enable you to use Continuous Integration (CI) for your projects.",
@@ -53,8 +95,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/host-build-agent/",
       "length": "PT59M",
       "ratings": {
-        "count": 1748,
-        "average": 4.707666
+        "count": 1749,
+        "average": 4.707833
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -395,8 +437,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/intro-to-azure-sentinel/",
       "length": "PT29M",
       "ratings": {
-        "count": 48,
-        "average": 4.8333335
+        "count": 49,
+        "average": 4.836735
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -429,8 +471,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/introduction-azure-sap-workloads/",
       "length": "PT50M",
       "ratings": {
-        "count": 403,
-        "average": 4.808933
+        "count": 404,
+        "average": 4.809406
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -511,8 +553,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/learn-data-science-method/",
       "length": "PT34M",
       "ratings": {
-        "count": 302,
-        "average": 4.7251654
+        "count": 303,
+        "average": 4.726073
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -552,8 +594,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/m365-threat-safeguard/",
       "length": "PT1H2M",
       "ratings": {
-        "count": 1489,
-        "average": 4.830759
+        "count": 1490,
+        "average": 4.8308725
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -593,8 +635,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/maintain-secure-repository-github/",
       "length": "PT1H9M",
       "ratings": {
-        "count": 131,
-        "average": 4.6412215
+        "count": 132,
+        "average": 4.6439395
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1143,8 +1185,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/secure-access-azure-identity-services/",
       "length": "PT17M",
       "ratings": {
-        "count": 50,
-        "average": 4.68
+        "count": 51,
+        "average": 4.6666665
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1185,8 +1227,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/cmu-secure-cloud-resources/",
       "length": "PT40M",
       "ratings": {
-        "count": 206,
-        "average": 4.6601944
+        "count": 207,
+        "average": 4.6618357
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1216,49 +1258,6 @@
       "price": "Free",
       "topics": [
         "Azure"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-secure-cognitive-services.md",
-      "title": "Secure Cognitive Services",
-      "excerpt": "Learn how to secure Cognitive Services to prevent data loss and privacy violations for user data that may be a part of the solution.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-secure-cognitive-services/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/secure-cognitive-services/",
-      "length": "PT37M",
-      "ratings": {
-        "count": 13,
-        "average": 4.6153846
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Advanced"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/secure-cognitive-services-social.png",
-          "width": 643,
-          "height": 321,
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Identity",
-        "AI"
       ]
     }
   ],
