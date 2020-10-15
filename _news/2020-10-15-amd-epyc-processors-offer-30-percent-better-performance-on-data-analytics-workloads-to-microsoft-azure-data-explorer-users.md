@@ -1,22 +1,18 @@
 ---
 category: news
 title: "AMD EPYC™ Processors Offer 30 Percent Better Performance on Data Analytics Workloads to Microsoft Azure Data Explorer Users"
-excerpt: "Azure Data Exploreris now using AMD EPYC processor based virtual machines from Azure— SANTA CLARA, Calif., Oct. 15, 2020 (GLOBE NEWSWIRE) -- AMD (NASDAQ: AMD) today announce"
-publishedDateTime: 2020-10-15T14:33:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/amd-epyc-processors-offer-30-percent-better-performance-on-data-analytics-workloads-to-microsoft-azure-data-explorer-users-1029684163"
-webUrl: "https://markets.businessinsider.com/news/stocks/amd-epyc-processors-offer-30-percent-better-performance-on-data-analytics-workloads-to-microsoft-azure-data-explorer-users-1029684163"
+excerpt: "AMD today announced Azure Data Explorer, a Platform as a Service solution optimized for data exploration and near real-time analytics, will now offer customers access to Microsoft Azure Virtual Machines featuring AMD EPYC™ processors."
+publishedDateTime: 2020-10-15T14:00:00Z
+originalUrl: "https://www.nasdaq.com/press-release/amd-epyctm-processors-offer-30-percent-better-performance-on-data-analytics-workloads"
+webUrl: "https://www.nasdaq.com/press-release/amd-epyctm-processors-offer-30-percent-better-performance-on-data-analytics-workloads"
 type: article
 quality: 48
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - Azure
@@ -157,6 +153,6 @@ related:
       domain: microsoft.com
     quality: 2
 
-secured: "0UCYANzyJ6Iwe6bNGnrExhzrb1f5+thMkMpQipL7IEAuTIPm2r8jq0ymb7pJRU0+suSJQ0HI9+5y9ERti/R0AzQFBKBoJ4vx/nmxLx09vwmAYxciS3uKUfZlVW8IIJ/lT3KwQ0iRIvFhVz5vXP+aSJI9REODraNf/K0SqaTlj13c7CdPNXsbUg93rbdgLZaEznEs4wY5MpsdGWS0DtIa//dqfTkzhzxd1LCfQQg+jIoa1ByJjHAno5x9UUaj1igpC2Q/vSLlCPqKCAhGHgcWGHaiYk+1gQ9i56JXaKzlzGjpgDebA2t/lndCiiqSqce7N8Iz62iWuWucYWzpZZazdYSAheBKvsONS6Hw0eQQJmM=;nAKTad3ibsta+S1XzX/K5Q=="
+secured: "6/9ZzKrH4AlluCHJCInXzBozDRwpvgfMwHvl/SeyHm16DmBzAPUHYVCQsgSbM1KoaOvCyEGllnhG5FUh9MgLJFpoRgdt4uP8GONxVUEC9Om0AObgm1FZhi4nzkU3OgEHTt1gO7iDHBEYdaCrz3HA3lWmMolb8FavyYjOavAdlatsrv3oLTvrleWaRZNEqnr3T5dUY87CQyFJ3itY/JWLKxiPjjA09uEms/aXzWuwxqZD45GfbDmlcf6fS257XYxNFO3RO1PeRJxlPhgfYCWKPqNuQtO1sRfxF2+ANSTaNygnuk3NH3Ma04RPz/1c8x/fwUGZacmtUE0v6yXZqQpxLTelRNnMBMbpmDhImLgzkZI=;7N122utdNrvMu7/Lm5LJFA=="
 ---
 
