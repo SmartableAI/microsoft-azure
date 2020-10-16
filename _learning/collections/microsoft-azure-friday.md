@@ -2,7 +2,7 @@
 title: "Azure Friday"
 excerpt: "Join Scott Hanselman, Donovan Brown, and Lara Rubbelke as they host the engineers who build & use Azure, demo it, answer questions, and share insights."
 type: collection
-heat: 64
+heat: 134
 
 provider:
   name: Microsoft
@@ -13,6 +13,7 @@ provider:
       height: 50
 
 items:
+  - videos/microsoft-bring-compute-storage-and-intelligence-to-the-edge-with-azure-stack-edge-azure-friday
   - videos/microsoft-using-azure-container-registry-for-building-and-deploying-net-core-apps-azure-friday
   - videos/microsoft-azure-load-balancer-insights-using-azure-monitor-for-networks-azure-friday
   - videos/microsoft-azure-container-instances-aci-under-the-hood-azure-friday
@@ -295,7 +296,7 @@ topics:
   - Azure
 
 images:
-  - url: https://i.ytimg.com/vi/VcZH6AWhUGk/maxresdefault.jpg
+  - url: https://i.ytimg.com/vi/RHec5lNuYqQ/maxresdefault.jpg
     width: 1280
     height: 720
     isCached: true

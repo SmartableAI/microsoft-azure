@@ -11,8 +11,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-compute/",
       "length": "PT38M",
       "ratings": {
-        "count": 64092,
-        "average": 4.7105412
+        "count": 64093,
+        "average": 4.7105455
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -247,8 +247,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/prepare-your-dev-environment-for-azure-development/",
           "length": "PT28M",
           "ratings": {
-            "count": 4855,
-            "average": 4.694336
+            "count": 4857,
+            "average": 4.694256
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -490,7 +490,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 126,
+          "heat": 127,
           "type": "course",
           "price": "Free",
           "topics": [
@@ -549,8 +549,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/host-domain-azure-dns/",
           "length": "PT43M",
           "ratings": {
-            "count": 2624,
-            "average": 4.828506
+            "count": 2626,
+            "average": 4.8286366
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -591,8 +591,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/integrate-vnets-with-vnet-peering/",
           "length": "PT42M",
           "ratings": {
-            "count": 2654,
-            "average": 4.722683
+            "count": 2655,
+            "average": 4.7227874
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -646,16 +646,18 @@
       ]
     },
     {
-      "path": "_learning/videos/microsoft-getting-started-with-azure-static-web-apps-azure-tips-and-tricks.md",
-      "title": "Getting started with Azure Static Web Apps | Azure Tips and Tricks",
-      "excerpt": "In this video, you'll learn how to get started with Azure Static Web Apps.   For more tips and tricks, visit: https://aka.ms/azuretipsandtricks   Get started with 12 months of free services and $200 USD in credit. Create your free account today with Microsoft Azure: https://azure.com/free   Azure Documentation",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-getting-started-with-azure-static-web-apps-azure-tips-and-tricks/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-getting-started-with-azure-static-web-apps-azure-tips-and-tricks/",
-      "originalUrl": "https://youtube.com/watch?v=9E4iL0imDHk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/9E4iL0imDHk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT2M41S",
+      "path": "_learning/courses/microsoft-learn-deploy-run-container-app-service.md",
+      "title": "Deploy and run a containerized web app with Azure App Service",
+      "excerpt": "Discover how to create a Docker image and store it in the Azure Container Registry, then use Azure App Service to deploy a web application based on the image.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-deploy-run-container-app-service/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-run-container-app-service/",
+      "length": "PT46M",
+      "ratings": {
+        "count": 3912,
+        "average": 4.624489
+      },
       "provider": {
-        "name": "Microsoft",
+        "name": "Microsoft Learn",
         "domain": "microsoft.com",
         "images": [
           {
@@ -666,21 +668,25 @@
           }
         ]
       },
-      "publishedDateTime": "2020-08-11T09:56:00-07:00",
+      "levels": [
+        "Beginner"
+      ],
       "heat": 130,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/9E4iL0imDHk/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
+          "url": "https://docs.microsoft.com/learn/achievements/deploy-run-container-app-service-social.png",
+          "width": 800,
+          "height": 400,
           "isCached": true
         }
       ],
-      "type": "video",
+      "type": "course",
       "price": "Free",
       "topics": [
         "Azure",
-        "Web"
+        "Compute",
+        "Web",
+        "Containers"
       ]
     },
     {
@@ -716,8 +722,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-security/",
           "length": "PT1H2M",
           "ratings": {
-            "count": 2376,
-            "average": 4.7112794
+            "count": 2377,
+            "average": 4.711401
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -759,8 +765,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/top-5-security-items-to-consider/",
           "length": "PT45M",
           "ratings": {
-            "count": 6318,
-            "average": 4.6487813
+            "count": 6320,
+            "average": 4.6488924
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -777,7 +783,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 154,
+          "heat": 155,
           "type": "course",
           "price": "Free",
           "topics": [
@@ -793,8 +799,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-security-baselines/",
           "length": "PT60M",
           "ratings": {
-            "count": 2308,
-            "average": 4.639948
+            "count": 2310,
+            "average": 4.6402597
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -886,50 +892,6 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-deploy-run-container-app-service.md",
-      "title": "Deploy and run a containerized web app with Azure App Service",
-      "excerpt": "Discover how to create a Docker image and store it in the Azure Container Registry, then use Azure App Service to deploy a web application based on the image.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-deploy-run-container-app-service/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-run-container-app-service/",
-      "length": "PT46M",
-      "ratings": {
-        "count": 3912,
-        "average": 4.624489
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 129,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/deploy-run-container-app-service-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Compute",
-        "Web",
-        "Containers"
-      ]
-    },
-    {
       "path": "_learning/collections/microsoft-learn-manage-security-operations-in-azure.md",
       "title": "Manage security operations in Azure",
       "excerpt": "Learn how to configure security policies and manage security alerts with the tools and services in Azure.",
@@ -961,8 +923,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-security-in-azure/",
           "length": "PT1H16M",
           "ratings": {
-            "count": 45300,
-            "average": 4.7048345
+            "count": 45302,
+            "average": 4.7048035
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -996,8 +958,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-security-baselines/",
           "length": "PT60M",
           "ratings": {
-            "count": 2308,
-            "average": 4.639948
+            "count": 2310,
+            "average": 4.6402597
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1167,8 +1129,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-ad/",
           "length": "PT27M",
           "ratings": {
-            "count": 1687,
-            "average": 4.681091
+            "count": 1688,
+            "average": 4.6812797
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1398,7 +1360,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 91,
+          "heat": 92,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/design-your-migration-to-azure-social.png",
@@ -1545,7 +1507,7 @@
         }
       ],
       "size": 9,
-      "heat": 109,
+      "heat": 110,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/design-your-migration-to-azure-social.png",
@@ -1639,8 +1601,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/control-and-organize-with-azure-resource-manager/",
           "length": "PT46M",
           "ratings": {
-            "count": 38809,
-            "average": 4.7135715
+            "count": 38812,
+            "average": 4.713516
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2056,8 +2018,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-cost-optimization/",
           "length": "PT51M",
           "ratings": {
-            "count": 1018,
-            "average": 4.706287
+            "count": 1019,
+            "average": 4.706575
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2448,8 +2410,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/migrate-sql-server-relational-data/",
           "length": "PT1H24M",
           "ratings": {
-            "count": 853,
-            "average": 4.3892145
+            "count": 854,
+            "average": 4.38993
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2784,8 +2746,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/",
           "length": "PT36M",
           "ratings": {
-            "count": 611,
-            "average": 4.764321
+            "count": 616,
+            "average": 4.762987
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3149,6 +3111,41 @@
       "topics": [
         "Azure",
         "AI",
+        "Web"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-azure-spring-cloud-workshop.md",
+      "title": "Azure Spring Cloud workshop",
+      "excerpt": "In this workshop, you'll go through tasks to deploy Spring Boot microservices to Azure Spring Cloud (ASC).",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-azure-spring-cloud-workshop/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-spring-cloud-workshop/",
+      "length": "PT1H24M",
+      "ratings": {
+        "count": 167,
+        "average": 4.263473
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 55,
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Compute",
         "Web"
       ]
     }
