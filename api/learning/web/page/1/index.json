@@ -11,8 +11,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-compute/",
       "length": "PT38M",
       "ratings": {
-        "count": 64075,
-        "average": 4.710558
+        "count": 64078,
+        "average": 4.7105403
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -29,7 +29,7 @@
       "levels": [
         "Beginner"
       ],
-      "heat": 304,
+      "heat": 305,
       "type": "course",
       "price": "Free",
       "topics": [
@@ -194,7 +194,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 142,
+          "heat": 143,
           "type": "course",
           "price": "Free",
           "topics": [
@@ -206,7 +206,7 @@
         }
       ],
       "size": 8,
-      "heat": 170,
+      "heat": 171,
       "type": "collection",
       "price": "Free",
       "topics": [
@@ -299,7 +299,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 142,
+          "heat": 143,
           "type": "course",
           "price": "Free",
           "topics": [
@@ -431,7 +431,7 @@
       "levels": [
         "Beginner"
       ],
-      "heat": 142,
+      "heat": 143,
       "type": "course",
       "price": "Free",
       "topics": [
@@ -646,6 +646,82 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-create-web-app-with-refreshable-models.md",
+      "title": "Build a Web App with Refreshable Machine Learning Models",
+      "excerpt": "Build a web app powered by machine learning models trained using Custom Vision AI service, and learn how to refresh them with GitHub Actions.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-create-web-app-with-refreshable-models/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-web-app-with-refreshable-models/",
+      "length": "PT1H22M",
+      "ratings": {
+        "count": 22,
+        "average": 4.1363635
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 130,
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "AI",
+        "Web",
+        "Compute",
+        "Containers",
+        "Mobile"
+      ]
+    },
+    {
+      "path": "_learning/videos/microsoft-learn-how-to-get-started-with-azure-static-web-apps-azure-tips-and-tricks.md",
+      "title": "Learn how to get started with Azure Static Web Apps | Azure Tips and Tricks",
+      "excerpt": "In this video, learn how to accelerate your app development with a static front end and dynamic back end powered by serverless APIs. Experience high productivity with tailored local development, GitHub native workflows to build and deploy your app, and unified hosting and management in the cloud.   For",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-learn-how-to-get-started-with-azure-static-web-apps-azure-tips-and-tricks/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-learn-how-to-get-started-with-azure-static-web-apps-azure-tips-and-tricks/",
+      "originalUrl": "https://youtube.com/watch?v=OFcyWMg3jjg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/OFcyWMg3jjg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M18S",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-07-31T17:03:32-07:00",
+      "heat": 130,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/OFcyWMg3jjg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Web"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-deploy-run-container-app-service.md",
       "title": "Deploy and run a containerized web app with Azure App Service",
       "excerpt": "Discover how to create a Docker image and store it in the Azure Container Registry, then use Azure App Service to deploy a web application based on the image.",
@@ -765,8 +841,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/top-5-security-items-to-consider/",
           "length": "PT45M",
           "ratings": {
-            "count": 6313,
-            "average": 4.648978
+            "count": 6314,
+            "average": 4.6488757
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -799,8 +875,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-security-baselines/",
           "length": "PT60M",
           "ratings": {
-            "count": 2303,
-            "average": 4.6391664
+            "count": 2304,
+            "average": 4.6393228
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -923,8 +999,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-security-in-azure/",
           "length": "PT1H16M",
           "ratings": {
-            "count": 45281,
-            "average": 4.7048874
+            "count": 45282,
+            "average": 4.7048936
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -958,8 +1034,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-security-baselines/",
           "length": "PT60M",
           "ratings": {
-            "count": 2303,
-            "average": 4.6391664
+            "count": 2304,
+            "average": 4.6393228
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1129,8 +1205,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-ad/",
           "length": "PT27M",
           "ratings": {
-            "count": 1677,
-            "average": 4.680978
+            "count": 1678,
+            "average": 4.681168
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1147,7 +1223,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 94,
+          "heat": 95,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/intro-to-azure-ad-social.png",
@@ -1171,8 +1247,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-users-and-groups-in-azure-active-directory/",
           "length": "PT41M",
           "ratings": {
-            "count": 2813,
-            "average": 4.704586
+            "count": 2816,
+            "average": 4.7049007
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1486,7 +1562,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 135,
+          "heat": 136,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/protect-virtual-machines-with-azure-backup-social.png",
@@ -1559,8 +1635,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/capture-application-logs-app-service/",
           "length": "PT55M",
           "ratings": {
-            "count": 1243,
-            "average": 4.624296
+            "count": 1245,
+            "average": 4.6248994
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1601,8 +1677,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/control-and-organize-with-azure-resource-manager/",
           "length": "PT46M",
           "ratings": {
-            "count": 38794,
-            "average": 4.713564
+            "count": 38797,
+            "average": 4.7135863
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1977,8 +2053,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-introduction/",
           "length": "PT1H4M",
           "ratings": {
-            "count": 999,
-            "average": 4.735736
+            "count": 1000,
+            "average": 4.736
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2256,8 +2332,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-serverless-api-with-functions-api-management/",
       "length": "PT41M",
       "ratings": {
-        "count": 1180,
-        "average": 4.6110168
+        "count": 1181,
+        "average": 4.6113462
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2746,8 +2822,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/",
           "length": "PT36M",
           "ratings": {
-            "count": 588,
-            "average": 4.7636056
+            "count": 590,
+            "average": 4.762712
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2787,8 +2863,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
           "length": "PT39M",
           "ratings": {
-            "count": 113,
-            "average": 4.6902657
+            "count": 114,
+            "average": 4.6842103
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3063,84 +3139,6 @@
           "isCached": true
         }
       ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Compute",
-        "Web"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-azure-introduction-to-azure-search.md",
-      "title": "Introduction to Azure Cognitive Search",
-      "excerpt": "Explore Azure Cognitive Search to discover how to create an index, import data, and query the index for better search results.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-azure-introduction-to-azure-search/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-search/",
-      "length": "PT53M",
-      "ratings": {
-        "count": 167,
-        "average": 4.6227546
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 55,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/azure-introduction-to-azure-search-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "AI",
-        "Web"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-azure-spring-cloud-workshop.md",
-      "title": "Azure Spring Cloud workshop",
-      "excerpt": "In this workshop, you'll go through tasks to deploy Spring Boot microservices to Azure Spring Cloud (ASC).",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-azure-spring-cloud-workshop/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-spring-cloud-workshop/",
-      "length": "PT1H24M",
-      "ratings": {
-        "count": 167,
-        "average": 4.263473
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 55,
       "type": "course",
       "price": "Free",
       "topics": [
