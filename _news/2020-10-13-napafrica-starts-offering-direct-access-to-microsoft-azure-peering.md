@@ -46,6 +46,20 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "AMD EPYC Processors Power Microsoft Azure Data Explorer, Offers Users 30 Percent Better Performance"
+    excerpt: "AMD today announced Azure Data Explorer, a Platform as a Service (PaaS) solution optimized for data exploration and"
+    publishedDateTime: 2020-10-15T00:00:00Z
+    webUrl: "https://www.hpcwire.com/off-the-wire/amd epyc processors-power-microsoft-azure-data-explorer-offers-users-30-percent-better-performance/"
+    type: article
+    provider:
+      name: HPCwire
+      domain: hpcwire.com
+    quality: 23
+    images:
+      - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/04/wind-farm-sf-op_750x-405x228.jpg"
+        width: 405
+        height: 228
+        isCached: true
   - title: "Comarch offers BSS/OSS products deployed on Microsoft Azure"
     excerpt: "This means the products can be deployed on Microsoft Azure. The platform is already being implemented for a Polish Tier 1 operator. Comarch is going to deploy full-stack BSS and OSS, which include various customer portals, CRM, B2C and B2B Ordering and ..."
     publishedDateTime: 2020-10-14T09:15:00Z

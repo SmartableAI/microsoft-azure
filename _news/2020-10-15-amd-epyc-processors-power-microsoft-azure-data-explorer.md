@@ -38,6 +38,20 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "AMD EPYC Processors Power Microsoft Azure Data Explorer, Offers Users 30 Percent Better Performance"
+    excerpt: "AMD today announced Azure Data Explorer, a Platform as a Service (PaaS) solution optimized for data exploration and"
+    publishedDateTime: 2020-10-15T00:00:00Z
+    webUrl: "https://www.hpcwire.com/off-the-wire/amd epyc processors-power-microsoft-azure-data-explorer-offers-users-30-percent-better-performance/"
+    type: article
+    provider:
+      name: HPCwire
+      domain: hpcwire.com
+    quality: 23
+    images:
+      - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/04/wind-farm-sf-op_750x-405x228.jpg"
+        width: 405
+        height: 228
+        isCached: true
   - title: "NAPAfrica starts offering direct access to Microsoft Azure peering"
     excerpt: "Internet exchange point NAPAfrica said that its members can now have direct access to the Microsoft Azure Peering Service and benefit from an SLA-backed connection to Microsoft. This enhances customer connectivity to Microsoft cloud services such as Office 365,"
     publishedDateTime: 2020-10-13T09:40:00Z

@@ -1,26 +1,26 @@
 ---
 category: news
-title: "Tisane Labs' Solutions on Microsoft Azure Add Wikidata Extraction Feature"
-excerpt: "Tisane Labs, a supplier of text analytics AI solutions, today announced a new feature in Tisane API, already available on Microsoft"
-publishedDateTime: 2020-10-13T17:31:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/tisane-labs-solutions-on-microsoft-azure-add-wikidata-extraction-feature-301151377.html"
-webUrl: "https://www.prnewswire.com/news-releases/tisane-labs-solutions-on-microsoft-azure-add-wikidata-extraction-feature-301151377.html"
+title: "AMD EPYC Processors Power Microsoft Azure Data Explorer, Offers Users 30 Percent Better Performance"
+excerpt: "AMD today announced Azure Data Explorer, a Platform as a Service (PaaS) solution optimized for data exploration and"
+publishedDateTime: 2020-10-15T00:00:00Z
+originalUrl: "https://www.hpcwire.com/off-the-wire/amd epyc processors-power-microsoft-azure-data-explorer-offers-users-30-percent-better-performance/"
+webUrl: "https://www.hpcwire.com/off-the-wire/amd epyc processors-power-microsoft-azure-data-explorer-offers-users-30-percent-better-performance/"
 type: article
-quality: 36
+quality: 23
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: HPCwire
+  domain: hpcwire.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-    width: 600
-    height: 315
+  - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/04/wind-farm-sf-op_750x-405x228.jpg"
+    width: 405
+    height: 228
     isCached: true
 
 related:
@@ -38,19 +38,19 @@ related:
         width: 300
         height: 250
         isCached: true
-  - title: "AMD EPYC Processors Power Microsoft Azure Data Explorer, Offers Users 30 Percent Better Performance"
-    excerpt: "AMD today announced Azure Data Explorer, a Platform as a Service (PaaS) solution optimized for data exploration and"
-    publishedDateTime: 2020-10-15T00:00:00Z
-    webUrl: "https://www.hpcwire.com/off-the-wire/amd epyc processors-power-microsoft-azure-data-explorer-offers-users-30-percent-better-performance/"
+  - title: "Tisane Labs' Solutions on Microsoft Azure Add Wikidata Extraction Feature"
+    excerpt: "Tisane Labs, a supplier of text analytics AI solutions, today announced a new feature in Tisane API, already available on Microsoft"
+    publishedDateTime: 2020-10-13T17:31:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/tisane-labs-solutions-on-microsoft-azure-add-wikidata-extraction-feature-301151377.html"
     type: article
     provider:
-      name: HPCwire
-      domain: hpcwire.com
-    quality: 23
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 36
     images:
-      - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/04/wind-farm-sf-op_750x-405x228.jpg"
-        width: 405
-        height: 228
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
         isCached: true
   - title: "NAPAfrica starts offering direct access to Microsoft Azure peering"
     excerpt: "Internet exchange point NAPAfrica said that its members can now have direct access to the Microsoft Azure Peering Service and benefit from an SLA-backed connection to Microsoft. This enhances customer connectivity to Microsoft cloud services such as Office 365,"
@@ -71,6 +71,6 @@ related:
       domain: telecompaper.com
     quality: 17
 
-secured: "C+AKVP9suJjJogXY5DW2jtqZsc116crb2/J2pFaFtg/SHfmJFZusf37P7JtkYITbaS+PztrlAKz9vd1tOwebTzWtdsWM6911ehGYEZyVK5FfZTubQCTbOnng0RdBFhSAJesZk4kE703yemyFnKf6lJlsqEkLkBHm9XZ/fD+HI39Jbcc710LEAblPJ5GfmiJ9pL9YuViyFIEkEOxv+xXoXLCZ4J1CFQOBrf8bq9Q4cKdSV7d8ZYST/Vu45ReZo4/CbJc0K1uvKyLsrjaiHuw0eIfnJID9Ouh2SZl64miMWkkWxIP0+AH6jo72Dvo4nmeEeYvvc8xutZWXeTvVQBbyytDZ+p1NGfCJp2z0wom6mjY=;m7jtkfJEUEZdOAkfGqORKw=="
+secured: "0tXbuG9pboaCTNiSmfBxB5XTfQacQkS3XA7UUF1P85AcrI38t4w0Yhq2PF7w4hgvBw3F2E2ccQLPq+C1CoLUa+4WxLHH3kJdvFH+mfKAIaGUhNxxo+yhbX08ja0lQR7wQgiBLmigQM0et1UHVHye8nZgbQuhtXRL9ccDQFPV8Vgs9/eJmTwwrK14RKW9x0zkjTtPWRQrBqyx2fARCLpVAtLlcbfue0qC7OSZt/iuP2TpGIgZFMPyxZph+Qos7InW6A0OOrSPVWj0YMWCT1x9uPyYgZfdYf+5vFGxSXzXJdBB1/N1rqIYrcfKMPe3gfBHT2yDDPZBaoLlMhmsIm960T8CE+fzxs7CojZuuV3FWiY=;ZeXQJJFr3iFDeAJwTlryEQ=="
 ---
 
