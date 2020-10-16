@@ -8,7 +8,7 @@ length: PT35M
 ratings:
   count: 169
   average: 4.6272187
-heat: 55
+heat: 56
 
 provider:
   name: Microsoft Learn
