@@ -4,7 +4,7 @@ excerpt: "Are you interested in learning about the cloud in an easy to understan
 type: collection
 price: Free
 length: PT4H57M
-heat: 163
+heat: 164
 
 provider:
   name: Microsoft Learn
