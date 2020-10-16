@@ -1,26 +1,24 @@
 ---
 category: news
-title: "HashiCorp Announces General Availability of HashiCorp Consul Service on Microsoft Azure in Collaboration with Microsoft"
-excerpt: "HashiCorp®, the leader in multi-cloud infrastructure automation software, today announced the general availability of HashiCorp Consul Service (HCS) on Microsoft Azure. HashiCorp Consul® is a multi-cloud service networking platform to automate network configurations,"
-publishedDateTime: 2020-07-23T15:59:00Z
-webUrl: "https://apnews.com/08471f0ba40d59f2ab2b0a1c363722b5"
+title: "Microsoft releases Azure Defender for IoT in public preview"
+excerpt: "Microsoft announced today that Azure Defender for IoT, its agentless security solution for networked IoT and Operational Technology (OT) devices, has entered public preview."
+publishedDateTime: 2020-10-16T17:01:00Z
+originalUrl: "https://www.bleepingcomputer.com/news/security/microsoft-releases-azure-defender-for-iot-in-public-preview/"
+webUrl: "https://www.bleepingcomputer.com/news/security/microsoft-releases-azure-defender-for-iot-in-public-preview/"
+ampWebUrl: "https://www.bleepingcomputer.com/news/security/microsoft-releases-azure-defender-for-iot-in-public-preview/amp/"
+cdnAmpWebUrl: "https://www-bleepingcomputer-com.cdn.ampproject.org/c/s/www.bleepingcomputer.com/news/security/microsoft-releases-azure-defender-for-iot-in-public-preview/amp/"
 type: article
-quality: 13
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Bleeping Computer
+  domain: bleepingcomputer.com
 
 topics:
   - Azure
-
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
+  - IoT
 
 related:
   - title: "Microsoft Azure IoT Connector for FHIR now in preview"
@@ -323,17 +321,6 @@ related:
         width: 500
         height: 272
         isCached: true
-  - title: "Microsoft releases Azure Defender for IoT in public preview"
-    excerpt: "Microsoft announced today that Azure Defender for IoT, its agentless security solution for networked IoT and Operational Technology (OT) devices, has entered public preview."
-    publishedDateTime: 2020-10-16T17:01:00Z
-    webUrl: "https://www.bleepingcomputer.com/news/security/microsoft-releases-azure-defender-for-iot-in-public-preview/"
-    ampWebUrl: "https://www.bleepingcomputer.com/news/security/microsoft-releases-azure-defender-for-iot-in-public-preview/amp/"
-    cdnAmpWebUrl: "https://www-bleepingcomputer-com.cdn.ampproject.org/c/s/www.bleepingcomputer.com/news/security/microsoft-releases-azure-defender-for-iot-in-public-preview/amp/"
-    type: article
-    provider:
-      name: Bleeping Computer
-      domain: bleepingcomputer.com
-    quality: 54
   - title: "Verizon Business to accelerate IoT solution creation and deployment with Microsoft Azure"
     excerpt: "... to-end IoT solutions Verizon’s ThingSpace IoT platform and 5G/LTE network connectivity have been integrated with Microsoft Azure IoT Central to accelerate time-to-market and save significant costs for IoT solutions Cognizant is the first company to ..."
     publishedDateTime: 2020-07-23T13:54:00Z
@@ -793,6 +780,20 @@ related:
       name: Business Wire
       domain: businesswire.com
     quality: 13
+  - title: "HashiCorp Announces General Availability of HashiCorp Consul Service on Microsoft Azure in Collaboration with Microsoft"
+    excerpt: "HashiCorp®, the leader in multi-cloud infrastructure automation software, today announced the general availability of HashiCorp Consul Service (HCS) on Microsoft Azure. HashiCorp Consul® is a multi-cloud service networking platform to automate network configurations,"
+    publishedDateTime: 2020-07-23T15:59:00Z
+    webUrl: "https://apnews.com/08471f0ba40d59f2ab2b0a1c363722b5"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 13
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Trend Micro Announces Cloud Solution to Strengthen Misconfiguration Protection for Microsoft Azure"
     excerpt: "PRNewswire/ -- Trend Micro Incorporated ( TYO: 4704; TSE: 4704), a global leader in cloud security, today announced its Trend Micro Cloud One™ – Conformity offering is now available to Azure customers,"
     publishedDateTime: 2020-07-22T12:00:00Z
@@ -832,6 +833,6 @@ related:
       domain: microsoft.com
     quality: 2
 
-secured: "oNPCpcwWrxD3pyhUHE+2x1bW/D2jBbm4oVBzQyjFppyoTK95tNT6PI+cPuT9FQLljUfqxicuBU21AI+7BksC0W4w7cnq/6B8YCwQmzKXmge47a8I2FRvXexhJNZp92WH0MMS8Hqu55lYXPcFOr4h0aFlIXFxNsZYAcuppMAcN5BVe2idBhX8Um6DIx8DhWxrwG/ueRHyHz1QScpaYLZCb7J7qquWmzT4eiyd8dT6aSkUzPW0YKYVYjUoFy6xOxtacDdbiE9ZWWU7otQFy8rWM967O8805MP0aBBORzfb3QG4f9mYUIYkE+J/LNP+9TVGeEfyEi8zZQFn4A6jqVs4jQ==;FNkM8H8RN6TysmiN9gxEJA=="
+secured: "hXFsVSenSfk1SyRG2lRI2q4zEiEj8lyVHbBi3o5VlXiqONZ/ewSPEmulmgmqN40+NnzrOGdifKDibUtyGTEuAX4tgqu4zXGr78KFy94uj6fv8lbX35f3S9nNwjk5WZaTrmlB1ZhiCySGLlg5TJkpuIpqMGBHcLPUtCbD6VsgS2E+V0w1ny3l2nMNDSjuCgkK34x+DlyscoLbKq0Yy96YgrKC8RfrefPVLcRbdp3H0dZ15GuFIDa980Cu7Gyng/qrZbNBFJKL2Vtp55TTCuF3rJx93DR/mFPFu7UvLlZ27/cIZohfWqqPekiRP3u0VHYOiMr1h+LcKIP9dyuFT6lAy7sLgP7VXOmfDecd4B3jVczmXSxHuL71kptrKI6rcQEQB1JeKnzznRhXNBpBLSu7HRMkdxosMR+ahqfCTVSqCwccuuwcsi6rrWmBopEVd0781ClxQgN7SI1ugLOh/rOZt/ls8eKoZSAcH50w+xzb0+dnJ1dOwGKBmJmSVWJfhCkaRqZZnbWGhFpKwL087+2uYQ==;zbJxLfddUTqMVxY3Jw/0gw=="
 ---
 

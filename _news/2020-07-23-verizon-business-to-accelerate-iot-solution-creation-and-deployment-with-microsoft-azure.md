@@ -317,6 +317,17 @@ related:
         width: 500
         height: 272
         isCached: true
+  - title: "Microsoft releases Azure Defender for IoT in public preview"
+    excerpt: "Microsoft announced today that Azure Defender for IoT, its agentless security solution for networked IoT and Operational Technology (OT) devices, has entered public preview."
+    publishedDateTime: 2020-10-16T17:01:00Z
+    webUrl: "https://www.bleepingcomputer.com/news/security/microsoft-releases-azure-defender-for-iot-in-public-preview/"
+    ampWebUrl: "https://www.bleepingcomputer.com/news/security/microsoft-releases-azure-defender-for-iot-in-public-preview/amp/"
+    cdnAmpWebUrl: "https://www-bleepingcomputer-com.cdn.ampproject.org/c/s/www.bleepingcomputer.com/news/security/microsoft-releases-azure-defender-for-iot-in-public-preview/amp/"
+    type: article
+    provider:
+      name: Bleeping Computer
+      domain: bleepingcomputer.com
+    quality: 54
   - title: "InfluxDB Cloud Extends to Microsoft Azure Cloud — Now Available on All Major Cloud Platforms"
     excerpt: "InfluxData looks to accelerate IoT application development with PTC through strategi"
     publishedDateTime: 2020-07-22T13:04:00Z
