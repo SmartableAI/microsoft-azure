@@ -1,11 +1,12 @@
 ---
 category: news
-title: "Enable remote work faster with new Windows Virtual Desktop capabilities"
-excerpt: "In the past few months, there has been a dramatic and rapid shift in the speed at which organizations of all sizes have enabled remote work amidst the global health crisis. Companies examining priorities and shifting resources with agility can help their employees stay connected from new locations and"
-publishedDateTime: 2020-05-01T10:00:20Z
-webUrl: "https://azure.microsoft.com/blog/enable-remote-work-faster-with-new-windows-virtual-desktop-capabilities/"
+title: "Windows Virtual Desktop is now generally available in the Azure Government cloud"
+excerpt: "Simplify and secure your virtualization infrastructure, in the cloud, with Windows Virtual Desktop."
+publishedDateTime: 2020-10-16T15:50:14Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/windows-virtual-desktop-is-now-generally-available-in-the-azure-government-cloud/"
+webUrl: "https://azure.microsoft.com/en-us/updates/windows-virtual-desktop-is-now-generally-available-in-the-azure-government-cloud/"
 type: article
-quality: 2
+quality: 62
 heat: -1
 published: false
 
@@ -35,15 +36,6 @@ related:
         width: 1024
         height: 641
         isCached: true
-  - title: "Windows Virtual Desktop is now generally available in the Azure Government cloud"
-    excerpt: "Simplify and secure your virtualization infrastructure, in the cloud, with Windows Virtual Desktop."
-    publishedDateTime: 2020-10-16T15:50:14Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/windows-virtual-desktop-is-now-generally-available-in-the-azure-government-cloud/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 62
   - title: "Windows Virtual Desktop Gets Azure Portal and Teams Client Support"
     excerpt: "The Windows Virtual Desktop (WVD) service now has Azure Portal integration, plus Audio/Video (A/V) Redirect support for Microsoft Teams client sessions, Microsoft announced on Monday."
     publishedDateTime: 2020-07-28T23:20:00Z
@@ -99,7 +91,16 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 12
+  - title: "Enable remote work faster with new Windows Virtual Desktop capabilities"
+    excerpt: "In the past few months, there has been a dramatic and rapid shift in the speed at which organizations of all sizes have enabled remote work amidst the global health crisis. Companies examining priorities and shifting resources with agility can help their employees stay connected from new locations and"
+    publishedDateTime: 2020-05-01T10:00:20Z
+    webUrl: "https://azure.microsoft.com/blog/enable-remote-work-faster-with-new-windows-virtual-desktop-capabilities/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 2
 
-secured: "GGdRMt/S3MdaIYEHgpJ0AW+rRShMq+mJXONcbb7aLteueXZKA/+8ox+xfLmpLJAnjbNFPT1lijcmslwVPIegp5rJ65nkcSDPtDH3g8bUgRIFnfKWDbgj8kkpGyCtgc3r1LQeAE9gtynVBw0YEqLDXIt02h4xFIx0ln8FEABSncwFL8izAcHRvjup6pmBXyEHDacWp1kgYUrieYx/esd6j6iDrzdUAR30vQ9JEsNd1biQUuL3FSIG5GjO6Gz4/o47gPB6YuezIkfz/72LiYNZIw7EOpaRmPKzohBkzuzHkaCthXiaQbdi5JzsE9+tVx7iWNRbcUN0o4y+WVAxHl2XSg==;XVZWlh65E03L4CgfJbbJIg=="
+secured: "i4Zj2qxHh7/F+s1PhlLoOuk7idQkNElkhVrYFRu5zoWLK1xQChrZ2wwtKVgN7hA3zyOBxmUGnLJ59G4OyTuQTu3lhs1xslY2QuQo5QnzU121UsS7SbGMX65DghBHv8uEcaownfps910JeV2hyJaNcPjBECavtslA6RWemxC/t6YCYB95JKXr88gi/NYT/MsL6hO6HST6Cg5Y+aysvpgalHc7PwWY+g2Teyw1EN9lv0xqATk3utCzBc7tG8nziNkufqZa3Ybe0GXgv3pvUqBpxs7oFzM/zWCEoOTqB7FgvDRIvua6pn5OImPByKCqDttXXpWEkIDFBlS7WK52qXeAusUngnkn3i80C3or28jxLzQ=;21uRpp2oItDNHxz/iOYl5g=="
 ---
 

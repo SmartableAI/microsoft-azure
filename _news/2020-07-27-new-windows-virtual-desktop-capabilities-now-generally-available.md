@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/new-windows-virtual-desktop-capab
 webUrl: "https://azure.microsoft.com/blog/new-windows-virtual-desktop-capabilities-now-generally-available/"
 type: article
 quality: 72
-heat: 192
+heat: 212
 published: true
 
 provider:
@@ -28,6 +28,15 @@ images:
     isCached: true
 
 related:
+  - title: "Windows Virtual Desktop is now generally available in the Azure Government cloud"
+    excerpt: "Simplify and secure your virtualization infrastructure, in the cloud, with Windows Virtual Desktop."
+    publishedDateTime: 2020-10-16T15:50:14Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/windows-virtual-desktop-is-now-generally-available-in-the-azure-government-cloud/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 62
   - title: "Windows Virtual Desktop Gets Azure Portal and Teams Client Support"
     excerpt: "The Windows Virtual Desktop (WVD) service now has Azure Portal integration, plus Audio/Video (A/V) Redirect support for Microsoft Teams client sessions, Microsoft announced on Monday."
     publishedDateTime: 2020-07-28T23:20:00Z

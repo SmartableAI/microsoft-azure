@@ -37,6 +37,15 @@ related:
         width: 1024
         height: 641
         isCached: true
+  - title: "Windows Virtual Desktop is now generally available in the Azure Government cloud"
+    excerpt: "Simplify and secure your virtualization infrastructure, in the cloud, with Windows Virtual Desktop."
+    publishedDateTime: 2020-10-16T15:50:14Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/windows-virtual-desktop-is-now-generally-available-in-the-azure-government-cloud/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 62
   - title: "Azure Archive expanded capabilities now generally available"
     excerpt: ""
     publishedDateTime: 2020-04-23T16:00:13Z
