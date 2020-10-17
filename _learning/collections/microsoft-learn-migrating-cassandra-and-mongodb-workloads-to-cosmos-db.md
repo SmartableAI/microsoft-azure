@@ -4,7 +4,7 @@ excerpt: "The focus of this learning path is to migrate MongoDB and Cassandra da
 type: collection
 price: Free
 length: PT1H13M
-heat: 51
+heat: 52
 
 provider:
   name: Microsoft Learn
