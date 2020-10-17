@@ -46,6 +46,20 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "CDW Recognized as Microsoft Azure Expert Managed Service Provider to Meet Evolving Customer Needs"
+    excerpt: "This recent recognition demonstrates CDW’s commitment to providing customers with best-in-class design, orchestration, and managed services on Azure with a focus on future succe"
+    publishedDateTime: 2020-10-09T12:30:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-products-and-services-cloud-computing-a0220a2923184a56ae2395c672ca0e92"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 24
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "AMD EPYC Processors Power Microsoft Azure Data Explorer, Offers Users 30 Percent Better Performance"
     excerpt: "AMD today announced Azure Data Explorer, a Platform as a Service (PaaS) solution optimized for data exploration and"
     publishedDateTime: 2020-10-15T00:00:00Z
