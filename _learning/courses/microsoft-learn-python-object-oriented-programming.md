@@ -8,7 +8,7 @@ length: PT51M
 ratings:
   count: 740
   average: 4.664865
-heat: 74
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -24,6 +24,6 @@ levels:
 topics:
   - Azure
 
-secured: "FJMmCopMVNpLyXif2zQfn1T0J7vR8Diy92jYRu25dnNTd126aHv2SZ7hoB8C8ChyVZb5DE6X2/I84fpDzPuvpBJ6RC7HuvX9HwA+fhrdbd+vfsCvo9qMXm8nVcPvoxBVLKJSs4MzaFOJBfT8K56wTvHLBvKMEjXFG2cnU5nitT6gZN7CDOXIpnQXbKdDfM1igDyF76VU45SGxkmaKkYu+lq1/mcaYlvzwruGdCR4OTwql5rFqcnVNf1KUAmpXkzE8Q6F1OxDu/LCRYIKOnXCGodAHtgP7U1sWLcD+a0UVox3DCHIkcwiNkKxGgwBcRKoQBXZFyd6Ud7c2ekt95+J2xXmDb5Pd109mvQLohCMqVHrgoapPWlarsI2NnqFi5hSGSDiroyaENQDfbGm3cS79A==;hXbIm1v+es6LzXrKhU/wXA=="
+secured: "gXPLUG7cghONYErnt+KXSgGGgM8HW6mNybaBYdlSmUYvPIhxtgfl8i5nzCVGHn4+rnsXxPNSoKcSwO6GvDxwCbh5taMDfOP+heA2jXGoYIZYdOYM3nl6iwobH3lvy1zMEZcyPcWVYvQ9oBxl+dFe5e+sEGOObON6OCgD2Ql5GX/kuf790fRrGA22vlQrxwX+kIMWrKcz+hX4EL3orZ2aJiPD5engWrl76LYOx6VnKgXbSThHCFtDvQOzds0tEMRxLEXItsXZm/FzZG+WHsZYL4mDYAE9ZNM3FS3uuRn9cOPl4yYdYJVTe+40OM6TGw8ybRT/9fonPQMEt00VFv1n+x7o57z4t5XYiMiFrElipkLh9ziFk2ohh6z9/3WrwEfHxscd1JvR0w3DfAUpPdSEl1owy/z6O1wxmUf5eXziMBg=;6WHq5A6zbxSg07XtEMoSVA=="
 ---
 
