@@ -4,7 +4,7 @@ excerpt: "Learn how to use Azure Machine Learning to create and publish machine 
 type: collection
 price: Free
 length: PT3H29M
-heat: 75
+heat: 69
 
 provider:
   name: Microsoft Learn
