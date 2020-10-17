@@ -35,8 +35,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-azure-service-to-integrate-and-automate-business-processes/",
           "length": "PT44M",
           "ratings": {
-            "count": 10463,
-            "average": 4.574787
+            "count": 10466,
+            "average": 4.5745273
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -53,7 +53,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 184,
+          "heat": 185,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/choose-azure-service-to-integrate-and-automate-business-processes-social.png",
@@ -77,8 +77,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-serverless-logic-with-azure-functions/",
           "length": "PT36M",
           "ratings": {
-            "count": 6636,
-            "average": 4.6589813
+            "count": 6638,
+            "average": 4.6589336
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -114,8 +114,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/execute-azure-function-with-triggers/",
           "length": "PT1H23M",
           "ratings": {
-            "count": 3462,
-            "average": 4.7013288
+            "count": 3464,
+            "average": 4.7015014
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -132,7 +132,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 125,
+          "heat": 126,
           "content": "\r\n",
           "type": "course",
           "price": "Free",
@@ -151,8 +151,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/chain-azure-functions-data-using-bindings/",
           "length": "PT1H10M",
           "ratings": {
-            "count": 2791,
-            "average": 4.572913
+            "count": 2792,
+            "average": 4.5727077
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -236,8 +236,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-security-in-azure/",
           "length": "PT1H16M",
           "ratings": {
-            "count": 45311,
-            "average": 4.704818
+            "count": 45313,
+            "average": 4.7048306
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -308,8 +308,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-and-isolate-with-nsg-and-service-endpoints/",
           "length": "PT43M",
           "ratings": {
-            "count": 6618,
-            "average": 4.6544275
+            "count": 6620,
+            "average": 4.654381
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -416,8 +416,43 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-subscription-access-azure-rbac/",
       "length": "PT21M",
       "ratings": {
+        "count": 10765,
+        "average": 4.7637715
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 189,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Identity"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-choose-storage-approach-in-azure.md",
+      "title": "Choose a data storage approach in Azure",
+      "excerpt": "Learn how using Azure Storage, Azure SQL Database, and Azure Cosmos DB - or a combination of them - for your business scenario is the best way to get the most performant solution.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-choose-storage-approach-in-azure/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-storage-approach-in-azure/",
+      "length": "PT30M",
+      "ratings": {
         "count": 10764,
-        "average": 4.7638426
+        "average": 4.665273
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -435,41 +470,6 @@
         "Beginner"
       ],
       "heat": 188,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Identity"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-choose-storage-approach-in-azure.md",
-      "title": "Choose a data storage approach in Azure",
-      "excerpt": "Learn how using Azure Storage, Azure SQL Database, and Azure Cosmos DB - or a combination of them - for your business scenario is the best way to get the most performant solution.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-choose-storage-approach-in-azure/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-storage-approach-in-azure/",
-      "length": "PT30M",
-      "ratings": {
-        "count": 10763,
-        "average": 4.665242
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 187,
       "content": "\r\n",
       "type": "course",
       "price": "Free",
@@ -510,8 +510,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-storage-approach-in-azure/",
           "length": "PT30M",
           "ratings": {
-            "count": 10763,
-            "average": 4.665242
+            "count": 10764,
+            "average": 4.665273
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -528,7 +528,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 187,
+          "heat": 188,
           "content": "\r\n",
           "type": "course",
           "price": "Free",
@@ -546,8 +546,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-azure-storage-account/",
           "length": "PT30M",
           "ratings": {
-            "count": 6140,
-            "average": 4.753746
+            "count": 6141,
+            "average": 4.753623
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -564,7 +564,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 155,
+          "heat": 156,
           "content": "\r\n",
           "type": "course",
           "price": "Free",
@@ -600,7 +600,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 92,
+          "heat": 93,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/upload-download-and-manage-data-with-azure-storage-explorer-social.png",
@@ -626,8 +626,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/connect-an-app-to-azure-storage/",
           "length": "PT1H15M",
           "ratings": {
-            "count": 4951,
-            "average": 4.6311855
+            "count": 4952,
+            "average": 4.63126
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -644,7 +644,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 142,
+          "heat": 143,
           "content": "\r\n",
           "type": "course",
           "price": "Free",
@@ -656,7 +656,7 @@
         }
       ],
       "size": 9,
-      "heat": 186,
+      "heat": 187,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/upload-download-and-manage-data-with-azure-storage-explorer-social.png",
@@ -704,8 +704,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-azure-storage-account/",
           "length": "PT30M",
           "ratings": {
-            "count": 6140,
-            "average": 4.753746
+            "count": 6141,
+            "average": 4.753623
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -722,7 +722,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 155,
+          "heat": 156,
           "content": "\r\n",
           "type": "course",
           "price": "Free",
@@ -784,8 +784,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/provide-disaster-recovery-replicate-storage-data/",
           "length": "PT46M",
           "ratings": {
-            "count": 42,
-            "average": 4.642857
+            "count": 43,
+            "average": 4.6511626
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -845,7 +845,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 167,
+          "heat": 168,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/data-ai/secure-azure-storage-account-badge-social.png",
@@ -864,7 +864,7 @@
         }
       ],
       "size": 9,
-      "heat": 186,
+      "heat": 187,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/choose-the-right-disk-storage-for-vm-workload-social.png",
@@ -914,8 +914,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-azure-storage-account/",
           "length": "PT30M",
           "ratings": {
-            "count": 6140,
-            "average": 4.753746
+            "count": 6141,
+            "average": 4.753623
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -932,7 +932,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 155,
+          "heat": 156,
           "content": "\r\n",
           "type": "course",
           "price": "Free",
@@ -994,8 +994,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/provide-disaster-recovery-replicate-storage-data/",
           "length": "PT46M",
           "ratings": {
-            "count": 42,
-            "average": 4.642857
+            "count": 43,
+            "average": 4.6511626
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1055,7 +1055,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 167,
+          "heat": 168,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/data-ai/secure-azure-storage-account-badge-social.png",
@@ -1074,7 +1074,7 @@
         }
       ],
       "size": 10,
-      "heat": 186,
+      "heat": 187,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/choose-the-right-disk-storage-for-vm-workload-social.png",
@@ -1101,8 +1101,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-azure-service-to-integrate-and-automate-business-processes/",
       "length": "PT44M",
       "ratings": {
-        "count": 10463,
-        "average": 4.574787
+        "count": 10466,
+        "average": 4.5745273
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1119,7 +1119,7 @@
       "levels": [
         "Beginner"
       ],
-      "heat": 184,
+      "heat": 185,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/choose-azure-service-to-integrate-and-automate-business-processes-social.png",
@@ -1295,8 +1295,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-iot-devices/",
           "length": "PT44M",
           "ratings": {
-            "count": 933,
-            "average": 4.676313
+            "count": 934,
+            "average": 4.6766596
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1376,8 +1376,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/align-requirements-in-azure/",
           "length": "PT35M",
           "ratings": {
-            "count": 5816,
-            "average": 4.7377925
+            "count": 5817,
+            "average": 4.7378373
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1445,8 +1445,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/automate-azure-tasks-with-powershell/",
           "length": "PT1H11M",
           "ratings": {
-            "count": 4974,
-            "average": 4.7096906
+            "count": 4976,
+            "average": 4.709807
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1479,8 +1479,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/predict-costs-and-optimize-spending/",
           "length": "PT1H14M",
           "ratings": {
-            "count": 40688,
-            "average": 4.7158375
+            "count": 40689,
+            "average": 4.7157955
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1608,7 +1608,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 115,
+          "heat": 116,
           "content": "\r\n",
           "type": "course",
           "price": "Free",
@@ -1642,7 +1642,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 153,
+          "heat": 154,
           "content": "\r\n",
           "type": "course",
           "price": "Free",
@@ -1660,8 +1660,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-and-store-container-images/",
           "length": "PT49M",
           "ratings": {
-            "count": 2356,
-            "average": 4.6095076
+            "count": 2357,
+            "average": 4.6096735
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1695,8 +1695,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/host-a-web-app-with-azure-app-service/",
           "length": "PT58M",
           "ratings": {
-            "count": 5177,
-            "average": 4.604404
+            "count": 5178,
+            "average": 4.6044803
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1890,8 +1890,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-and-isolate-with-nsg-and-service-endpoints/",
           "length": "PT43M",
           "ratings": {
-            "count": 6618,
-            "average": 4.6544275
+            "count": 6620,
+            "average": 4.654381
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1934,8 +1934,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/integrate-vnets-with-vnet-peering/",
           "length": "PT42M",
           "ratings": {
-            "count": 2658,
-            "average": 4.722724
+            "count": 2659,
+            "average": 4.722828
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2054,8 +2054,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/host-a-web-app-with-azure-app-service/",
           "length": "PT58M",
           "ratings": {
-            "count": 5177,
-            "average": 4.604404
+            "count": 5178,
+            "average": 4.6044803
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2477,7 +2477,7 @@
       "levels": [
         "Beginner"
       ],
-      "heat": 167,
+      "heat": 168,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/data-ai/secure-azure-storage-account-badge-social.png",
@@ -2753,8 +2753,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-devops/",
       "length": "PT25M",
       "ratings": {
-        "count": 7002,
-        "average": 4.7222223
+        "count": 7003,
+        "average": 4.722262
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2788,8 +2788,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/assess-your-development-process/",
       "length": "PT19M",
       "ratings": {
-        "count": 6788,
-        "average": 4.7063937
+        "count": 6789,
+        "average": 4.706437
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2830,8 +2830,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-serverless-logic-with-azure-functions/",
       "length": "PT36M",
       "ratings": {
-        "count": 6636,
-        "average": 4.6589813
+        "count": 6638,
+        "average": 4.6589336
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2867,8 +2867,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-and-isolate-with-nsg-and-service-endpoints/",
       "length": "PT43M",
       "ratings": {
-        "count": 6618,
-        "average": 4.6544275
+        "count": 6620,
+        "average": 4.654381
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2901,6 +2901,42 @@
         "Azure",
         "Networking",
         "Security"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-create-azure-storage-account.md",
+      "title": "Create an Azure Storage account",
+      "excerpt": "Discover ways to use an Azure Storage account to manage your data for billing, access, and storage location of your blobs, files, queues, and tables.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-create-azure-storage-account/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-azure-storage-account/",
+      "length": "PT30M",
+      "ratings": {
+        "count": 6141,
+        "average": 4.753623
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 156,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Storage",
+        "Management Tools"
       ]
     },
     {
@@ -2939,15 +2975,15 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-create-azure-storage-account.md",
-      "title": "Create an Azure Storage account",
-      "excerpt": "Discover ways to use an Azure Storage account to manage your data for billing, access, and storage location of your blobs, files, queues, and tables.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-create-azure-storage-account/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-azure-storage-account/",
-      "length": "PT30M",
+      "path": "_learning/courses/microsoft-learn-run-docker-containers-aci.md",
+      "title": "Run Docker containers with Azure Container Instances",
+      "excerpt": "Learn how to run and troubleshoot containerized apps using Docker containers with Azure Container Instances.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-run-docker-containers-aci/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/run-docker-with-azure-container-instances/",
+      "length": "PT48M",
       "ratings": {
-        "count": 6140,
-        "average": 4.753746
+        "count": 5948,
+        "average": 4.7155347
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2962,16 +2998,16 @@
         ]
       },
       "levels": [
-        "Beginner"
+        "Intermediate"
       ],
-      "heat": 155,
+      "heat": 154,
       "content": "\r\n",
       "type": "course",
       "price": "Free",
       "topics": [
         "Azure",
-        "Storage",
-        "Management Tools"
+        "Containers",
+        "Databases"
       ]
     },
     {
@@ -3008,42 +3044,6 @@
         "Azure",
         "Compute",
         "Management Tools"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-run-docker-containers-aci.md",
-      "title": "Run Docker containers with Azure Container Instances",
-      "excerpt": "Learn how to run and troubleshoot containerized apps using Docker containers with Azure Container Instances.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-run-docker-containers-aci/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/run-docker-with-azure-container-instances/",
-      "length": "PT48M",
-      "ratings": {
-        "count": 5948,
-        "average": 4.7155347
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 153,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Containers",
-        "Databases"
       ]
     },
     {
