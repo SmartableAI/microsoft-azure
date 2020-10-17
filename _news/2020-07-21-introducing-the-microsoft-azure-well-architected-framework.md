@@ -314,17 +314,6 @@ related:
         width: 500
         height: 272
         isCached: true
-  - title: "Microsoft releases Azure Defender for IoT in public preview"
-    excerpt: "Microsoft announced today that Azure Defender for IoT, its agentless security solution for networked IoT and Operational Technology (OT) devices, has entered public preview."
-    publishedDateTime: 2020-10-16T17:01:00Z
-    webUrl: "https://www.bleepingcomputer.com/news/security/microsoft-releases-azure-defender-for-iot-in-public-preview/"
-    ampWebUrl: "https://www.bleepingcomputer.com/news/security/microsoft-releases-azure-defender-for-iot-in-public-preview/amp/"
-    cdnAmpWebUrl: "https://www-bleepingcomputer-com.cdn.ampproject.org/c/s/www.bleepingcomputer.com/news/security/microsoft-releases-azure-defender-for-iot-in-public-preview/amp/"
-    type: article
-    provider:
-      name: Bleeping Computer
-      domain: bleepingcomputer.com
-    quality: 54
   - title: "Verizon Business to accelerate IoT solution creation and deployment with Microsoft Azure"
     excerpt: "... to-end IoT solutions Verizon’s ThingSpace IoT platform and 5G/LTE network connectivity have been integrated with Microsoft Azure IoT Central to accelerate time-to-market and save significant costs for IoT solutions Cognizant is the first company to ..."
     publishedDateTime: 2020-07-23T13:54:00Z

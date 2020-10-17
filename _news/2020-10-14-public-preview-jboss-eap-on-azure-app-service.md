@@ -86,15 +86,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
-  - title: "Public preview: Service Fabric managed clusters"
-    excerpt: "Service Fabric managed clusters reduce complexity and issues associated with managing a cluster made up of multiple resources."
-    publishedDateTime: 2020-10-14T16:00:14Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-service-fabric-managed-clusters/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 52
 
 secured: "TMLUn/0ZHUOhIvX0QtYwJgOCLmGMcprw20kQu5oHacOw//7JUhCvnvs1AbOBCxg1iGUtG+g8zIYpxx3YCk3PUobeLh6+mLJ5YqmfL+MwCf00vQ3qIP+n/9ImKhApGOv6g0rGyY3GvL9bP7J/jz8/SRxXBECGGI9haJxq3E0Z8B6S8+PyP0a/UUrYAV3R/P/GP56WEWbUj4A/avUitc17JcduEiaw8j9OnhNRYud4eX4t8rp4HCYB0Ha4xAHloj/O4Ijho9deGJN4i2+o5VXKaW3D3z0wmsEA8t0WJoyQDtC6pcPAeYYSYTkcACNv2g2AZcqo7SEBwoQsX52K+2pxIwO/HD9IkU6FtzIqSRCdhZE=;2gjCdyTNH/qV7pWTLuqgDw=="
 ---
