@@ -4,7 +4,7 @@ excerpt: "In this learning path, discover Azure Stream Analytics streaming data,
 type: collection
 price: Free
 length: PT1H14M
-heat: 86
+heat: 87
 
 provider:
   name: Microsoft Learn

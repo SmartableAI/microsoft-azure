@@ -4,7 +4,7 @@ excerpt: "Learn to develop an AI strategy to create business value in healthcare
 type: collection
 price: Free
 length: PT9H31M
-heat: 94
+heat: 96
 
 provider:
   name: Microsoft Learn
