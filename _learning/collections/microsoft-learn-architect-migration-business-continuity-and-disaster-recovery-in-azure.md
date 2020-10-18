@@ -4,7 +4,7 @@ excerpt: "Learn how to migrate resources to Azure, how to provide site recovery 
 type: collection
 price: Free
 length: PT6H36M
-heat: 62
+heat: 61
 
 provider:
   name: Microsoft Learn
