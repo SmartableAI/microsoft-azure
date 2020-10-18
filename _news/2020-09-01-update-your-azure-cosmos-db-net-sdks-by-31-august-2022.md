@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/update-your-azure-cosmos
 webUrl: "https://azure.microsoft.com/en-us/updates/update-your-azure-cosmos-db-net-sdks-by-31-august-2022/"
 type: article
 quality: 84
-heat: 144
+heat: 145
 published: true
 
 provider:
