@@ -8,7 +8,7 @@ ampWebUrl: "https://www.pcmag.com/news/microsoft-updates-windows-azure-tools-wit
 cdnAmpWebUrl: "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/microsoft-updates-windows-azure-tools-with-an-eye-on-the-future?amp=true"
 type: article
 quality: 97
-heat: 2757
+heat: 2737
 published: true
 
 provider:
@@ -1307,20 +1307,6 @@ related:
     images:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
-        height: 450
-        isCached: true
-  - title: "Microsoft Improves Windows Patch and Azure Service Communications"
-    excerpt: "This notion was explained in a June Microsoft announcement as \"infusing AI into our cloud platform and DevOps process, becoming AIOps.\" Apparently, the AIOps term derives from analyst and ..."
-    publishedDateTime: 2020-08-19T01:09:00Z
-    webUrl: "https://redmondmag.com/articles/2020/08/18/windows-patch-azure-service-communications.aspx"
-    type: article
-    provider:
-      name: Redmond Magazine
-      domain: redmondmag.com
-    quality: 37
-    images:
-      - url: "https://redmondmag.com/-/media/ECG/VirtualizationReview/Images/IntroImages2016/0716vrm_Take5.jpg"
-        width: 647
         height: 450
         isCached: true
   - title: "Microsoft Updates Windows Terminal and Azure CLI Tools"

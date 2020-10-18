@@ -7,8 +7,8 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/microsoft-plans-to-estab
 webUrl: "https://azure.microsoft.com/en-us/updates/microsoft-plans-to-establish-new-cloud-datacenter-region-in-greece/"
 type: article
 quality: 52
-heat: 72
-published: true
+heat: 52
+published: false
 
 provider:
   name: Microsoft
@@ -20,22 +20,6 @@ provider:
 
 topics:
   - Azure
-
-related:
-  - title: "Microsoft Plans Azure Cloud Expansions in Iowa, Virginia and Phoenix"
-    excerpt: "Microsoft continues to expand its global data center infrastructure, buying land to add massive amounts of server capacity in key North American cloud hubs in Iowa, Northern Virginia and Phoenix."
-    publishedDateTime: 2020-10-12T16:02:00Z
-    webUrl: "https://datacenterfrontier.com/microsoft-plans-azure-cloud-expansions-in-iowa-virginia-and-phoenix/"
-    type: article
-    provider:
-      name: datacenterfrontier.com
-      domain: datacenterfrontier.com
-    quality: 37
-    images:
-      - url: "https://datacenterfrontier.com/wp-content/uploads/2020/03/azure-datacenter-web.jpg"
-        width: 740
-        height: 464
-        isCached: true
 
 secured: "sjj85c9sHq+Oe5Oc1+DGvC+X0yLyUBbhfPcEhTWG7h+/HB93sHcMxBPzsLEvCzlPN0QsUkbMEur9m5zvbcMJsvpuIFe0YVqycIvGZM+SJQCl+Hqg82Qejcz5AyCJTEI2cGPRejV9nXyGm6MmftInA7XI6UDB3yb6rMTdZ3YYoYnImGwALvrcdaZXuyHO+eKgF1ueUR990R4CBT70euWBTb6Oau0/P0z2ygkOLYMrbOVOLs6uemlX9KS6OyOGNztiRjO14228lcoGSeMSzhEg27zh82TOncquBJNekPg6Bvyw1GJzA90A3XO29HZjJ7bZHC8u2fIMjNSGinqFzvqsd1BKg8UH4pyjlxQF8+M384w=;zoi+X5lyE82YkB0TGFWnoQ=="
 ---

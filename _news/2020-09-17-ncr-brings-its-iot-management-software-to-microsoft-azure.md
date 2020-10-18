@@ -225,22 +225,6 @@ related:
         width: 1200
         height: 740
         isCached: true
-  - title: "Microsoft unveils updates across Azure Cognitive Services and Azure Machine Learning"
-    excerpt: "Microsoft rolled out updates across its AI and machine learning cloud portfolio during its Ignite 2020 virtual conference."
-    publishedDateTime: 2020-09-22T16:00:00Z
-    webUrl: "https://venturebeat.com/2020/09/22/microsoft-unveils-updates-across-azure-cognitive-services-and-azure-machine-learning/"
-    ampWebUrl: "https://venturebeat.com/2020/09/22/microsoft-unveils-updates-across-azure-cognitive-services-and-azure-machine-learning/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/22/microsoft-unveils-updates-across-azure-cognitive-services-and-azure-machine-learning/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 90
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2019/11/microsoft-1-e1580261336710.jpg?w=1200&#038;strip=all"
-        width: 1200
-        height: 573
-        isCached: true
   - title: "Introducing Azure Orbital: Process satellite data at cloud-scale"
     excerpt: "Data collected from space to observe Earth is instrumental in helping address global challenges such as climate change and furthering of scientific discovery and innovation."
     publishedDateTime: 2020-09-22T08:00:20Z
@@ -319,22 +303,6 @@ related:
         width: 760
         height: 506
         isCached: true
-  - title: "Microsoft cloud issues continue with more global outages"
-    excerpt: "Microsoft’s cloud computing services are continuing to experience issues after outages resurfaced this week. A serious Azure Active Directory authentication issue emerged last week, followed by an Exchange/Outlook problem that affected Office 365 customers in Europe and India."
-    publishedDateTime: 2020-10-08T11:00:00Z
-    webUrl: "https://www.techradar.com/news/microsoft-cloud-issues-continue-with-more-global-outages"
-    ampWebUrl: "https://www.techradar.com/amp/news/microsoft-cloud-issues-continue-with-more-global-outages"
-    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/microsoft-cloud-issues-continue-with-more-global-outages"
-    type: article
-    provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 82
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/bXy3nBdbNkadCFnRDiEgT4-1200-80.jpg"
-        width: 970
-        height: 546
-        isCached: true
   - title: "GOOGLE CLOUD PLATFORM VS. MICROSOFT AZURE"
     excerpt: "We've compiled the ultimate GCP vs. Azure guide that takes a deep dive into the 10 key ways that the two cloud providers differ. Download the guide for stats, head-to-head comparisons, and customer perspectives that reveal which provider is leading the public cloud race."
     publishedDateTime: 2020-04-16T18:20:00Z
@@ -348,20 +316,6 @@ related:
       - url: "https://idge.staticworld.net/ifw/IFW_logo_social_300x300.png"
         width: 300
         height: 300
-        isCached: true
-  - title: "Microsoft announces Azure Service Fabric"
-    excerpt: "Microsoft has announced Azure Service Fabric, a new cloud platform for developers and ISVs to build scalable cloud services. According to a blog post from Microsoft Azure CTO Mark Russinovich ..."
-    publishedDateTime: 2020-04-20T00:00:00Z
-    webUrl: "https://sdtimes.com/azure/microsoft-announces-azure-service-fabric/"
-    type: article
-    provider:
-      name: SD Times
-      domain: sdtimes.com
-    quality: 77
-    images:
-      - url: "https://sdtimes.com/wp-content/uploads/2015/04/0420.sdt-azure-service-fabric.png"
-        width: 1024
-        height: 576
         isCached: true
   - title: "Migrating to Microsoft Azure"
     excerpt: "One of the first things cloud architect Bill Zack did after moving from Connecticut to Nashville in 2013 was to form a Microsoft Azure User Group. Launched with just four initial members ..."
@@ -1416,48 +1370,6 @@ related:
       - url: "https://www.crn.com/resources/025f-0fe383d9c3a4-64f39284f64b-1000/cloud_pic.png.png"
         width: 366
         height: 488
-        isCached: true
-  - title: "Dicker Data launches Microsoft Cloud unit"
-    excerpt: "Dicker Data has launched a new Microsoft Cloud business unit under the leadership of Sarah Loiterton as general manager."
-    publishedDateTime: 2020-10-14T05:35:00Z
-    webUrl: "https://www.arnnet.com.au/article/683708/dicker-data-launches-microsoft-cloud-unit/"
-    type: article
-    provider:
-      name: ARN
-      domain: arnnet.com.au
-    quality: 22
-    images:
-      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/800x800/dimg/sarah_loiterton_1.jpg"
-        width: 797
-        height: 550
-        isCached: true
-  - title: "Dicker Data launches new Microsoft Cloud business unit"
-    excerpt: "ASX-listed IT hardware, software and cloud distributor, Dicker Data has launched a new Microsoft Cloud business unit in a move the company says deepens its relationship with the global tech giant. Dicker Data (ASX:DDR) says the new unit will led by Sarah Loiterton as general manager and as part of"
-    publishedDateTime: 2020-10-14T04:50:00Z
-    webUrl: "https://www.itwire.com/resellers/dicker-data-launches-new-microsoft-cloud-business-unit.html"
-    type: article
-    provider:
-      name: ITWire
-      domain: itwire.com
-    quality: 22
-    images:
-      - url: "https://www.itwire.com/media/k2/items/cache/a6d3ea62ee421e5fc717dccf4b518a58_M.jpg"
-        width: 375
-        height: 375
-        isCached: true
-  - title: "Dicker Data launches Microsoft Cloud division"
-    excerpt: "Dicker Data has launched a dedicated Microsoft Cloud business unit to drive greater revenue from the software giant’s offerings. The new unit is led by Sarah Loiterton who has worked in the Dicker Data Microsoft and Citrix sales teams for the past four and a half years."
-    publishedDateTime: 2020-10-15T01:06:00Z
-    webUrl: "https://www.crn.com.au/news/dicker-data-launches-microsoft-cloud-division-554697"
-    type: article
-    provider:
-      name: CRN Australia
-      domain: crn.com.au
-    quality: 22
-    images:
-      - url: "https://i.nextmedia.com.au/News/CRN_14_dickerwarehouse2.jpg"
-        width: 1400
-        height: 900
         isCached: true
   - title: "Digital Transformation: Qatar Financial Center Regulatory Authority to Migrate Online Services to Microsoft Cloud"
     excerpt: "The Qatar Financial Center Regulatory Authority (QFCRA) recently revealed that it will be migrating its online services to the Microsoft Cloud in order to move forward with its digital transformation strategy."

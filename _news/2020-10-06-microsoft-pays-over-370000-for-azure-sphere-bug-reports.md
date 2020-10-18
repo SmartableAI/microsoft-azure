@@ -63,17 +63,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 66
-  - title: "Microsoft cloud services outages continue into week two"
-    excerpt: "Microsoft's cloud services problems are continuing this week with more Azure and Microsoft 365 services issues for some customers. Here's what's happened and why."
-    publishedDateTime: 2020-10-07T21:19:00Z
-    webUrl: "https://www.zdnet.com/index.php/category/2184/index.php/article/microsoft-cloud-services-outages-continue-into-week-two/"
-    ampWebUrl: "https://www.zdnet.com/index.php/category/2184/index.php/google-amp/article/microsoft-cloud-services-outages-continue-into-week-two/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2184/index.php/google-amp/article/microsoft-cloud-services-outages-continue-into-week-two/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 62
   - title: "Microsoft partners expand the range of mission-critical applications you can run on Azure"
     excerpt: "In the past few years, IT organizations have been realizing compelling benefits when they transitioned their business-critical applications to the cloud, enabling them to address the top challenges they face with running the same applications on premises."
     publishedDateTime: 2020-10-06T08:00:01Z
@@ -110,54 +99,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 57
-  - title: "Researchers Find Vulnerabilities in Microsoft Azure Cloud Service"
-    excerpt: "Now according to the latest research, two security flaws in Microsoft's Azure App Services could have enabled a bad actor to carry out server-side request forgery (SSRF) attacks or execute arbitrary code and take over the administration server."
-    publishedDateTime: 2020-10-08T13:26:00Z
-    webUrl: "https://thehackernews.com/2020/10/microsoft-azure-vulnerability.html"
-    ampWebUrl: "https://thehackernews.com/2020/10/microsoft-azure-vulnerability.html?amp=1"
-    cdnAmpWebUrl: "https://thehackernews-com.cdn.ampproject.org/c/s/thehackernews.com/2020/10/microsoft-azure-vulnerability.html?amp=1"
-    type: article
-    provider:
-      name: The Hacker News
-      domain: thehackernews.com
-    quality: 57
-    images:
-      - url: "https://thehackernews.com/images/-eFgZSEAAMao/X38Suv_dbWI/AAAAAAAAA2w/q2hCefQPJhAMhdORNgkvmAUf_uj6W4r9QCLcBGAsYHQ/s0/microsoft-azure-cloud.jpg"
-        width: 728
-        height: 380
-        isCached: true
-  - title: "Microsoft Cloud Services Affected In Worldwide Outage: What Is The Cause?"
-    excerpt: "The outage started at 2.48 p.m. ET Wednesday Users worldwide faced accessibility issues Most services are back online and issues have been resolved Microsoft users across the world suffered another outage for four hours from 2 p.m. ET Wednesday ..."
-    publishedDateTime: 2020-10-08T07:31:00Z
-    webUrl: "https://www.ibtimes.com/microsoft-cloud-services-affected-worldwide-outage-what-cause-3058653"
-    ampWebUrl: "https://www.ibtimes.com/microsoft-cloud-services-affected-worldwide-outage-what-cause-3058653?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/microsoft-cloud-services-affected-worldwide-outage-what-cause-3058653?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 41
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/09/02/microsoft-has-unveiled-software-that-can-spot-deepfake.jpg"
-        width: 1024
-        height: 520
-        isCached: true
-  - title: "Microsoft Cloud Services Like Outlook and Teams Continue to Face Outages"
-    excerpt: "Microsoft Cloud services have suffered several windows of downtime in recent weeks, with the latest affecting Office 365."
-    publishedDateTime: 2020-10-08T13:40:00Z
-    webUrl: "https://winbuzzer.com/2020/10/08/microsoft-cloud-services-like-outlook-and-teams-continue-to-face-outages-xcxwbn/"
-    ampWebUrl: "https://winbuzzer.com/2020/10/08/microsoft-cloud-services-like-outlook-and-teams-continue-to-face-outages-xcxwbn/?amp"
-    cdnAmpWebUrl: "https://winbuzzer-com.cdn.ampproject.org/c/s/winbuzzer.com/2020/10/08/microsoft-cloud-services-like-outlook-and-teams-continue-to-face-outages-xcxwbn/?amp"
-    type: article
-    provider:
-      name: winbuzzer.com
-      domain: winbuzzer.com
-    quality: 41
-    images:
-      - url: "https://winbuzzer.com/wp-content/uploads/2016/09/Microsoft-Cloud-Scott-Guthrie-Keynote.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Microsoft To Build New Azure Cloud Data Centers In Greece"
     excerpt: "Microsoft plans to spend up to $1 billion to build three data centers for its first Azure cloud region in Greece and provide digital technology training to up to 100,000 people there by 2025"
     publishedDateTime: 2020-10-05T17:36:00Z
@@ -186,34 +127,6 @@ related:
         width: 1200
         height: 627
         isCached: true
-  - title: "DataWeave Now Available in the Microsoft Azure Marketplace"
-    excerpt: "DataWeave, a digital commerce analytics platform, today announced the availability of DataWeave competitive intelligence as a service in"
-    publishedDateTime: 2020-10-08T16:30:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/dataweave-now-available-in-the-microsoft-azure-marketplace-301148597.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 37
-    images:
-      - url: "https://mma.prnewswire.com/media/486774/DataWeave_Logo.jpg?p=facebook"
-        width: 2000
-        height: 1046
-        isCached: true
-  - title: "DataWeave Now Available in the Microsoft Azure Marketplace"
-    excerpt: "DataWeave, a digital commerce analytics platform, today announced the availability of DataWeave competitive intelligence as a service in the Microsoft Azure Marketplace, an"
-    publishedDateTime: 2020-10-08T17:01:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/dataweave-now-available-in-the-microsoft-azure-marketplace/article_351680aa-0a5c-5de1-9a43-21eae695da25.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 37
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/f/da/fda7e0f8-cd73-50b4-8827-bd7dd9f33b88/5f7f45dfc0db4.image.jpg?resize=400%2C400"
-        width: 400
-        height: 400
-        isCached: true
   - title: "Komprise is also selected as a co-sell ready partner for Microsoft Azure"
     excerpt: "PRNewswire/ -- Komprise, the leader in analytics-driven data management, today announced new capabilities for its Intelligent Data Management solution in Microsoft Azure. Customers can"
     publishedDateTime: 2020-10-06T14:32:00Z
@@ -241,20 +154,6 @@ related:
       - url: "https://img.gulf-times.com/Content/Upload/Slider/2201825205426929928844.jpg"
         width: 620
         height: 355
-        isCached: true
-  - title: "Webinar: Transforming Business Models with System Soft Technologies and Microsoft Azure"
-    excerpt: "(GLOBE NEWSWIRE) -- System Soft Technologies (SSTech), a leader in enterprise IT services, solutions and products, today announced the company is making available its recent webinar about how organizations are using Microsoft Azure Cloud Services to enhance their business operations and spur growth during these uncertain economic times."
-    publishedDateTime: 2020-10-07T16:00:00Z
-    webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-corporate-news-north-america-products-and-services-abd7775219a08f49fc7dd2b81b837978"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 29
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
         isCached: true
   - title: "Qatar- Ooredoo enables digital transformation with connectivity solution to Microsoft Azure"
     excerpt: "Ooredoo has announced the launch of Ooredoo Cloud Connect to Microsoft Azure to provide Qatar's organisations with secure, reliable, and affordable cloud connectivity services to drive digital transformation."
@@ -335,20 +234,6 @@ related:
       name: MediaPost
       domain: mediapost.com
     quality: 17
-  - title: "Dicom Systems Launches Enterprise Imaging Platform in the Microsoft Azure Marketplace, Deploys to a Leading National IDN"
-    excerpt: "Dicom Systems, a healthcare IT software company, today announced the availability of Unifier enterprise imaging platform for medical"
-    publishedDateTime: 2020-10-07T13:43:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/dicom-systems-launches-enterprise-imaging-platform-in-the-microsoft-azure-marketplace-deploys-to-a-leading-national-idn-301147741.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 12
-    images:
-      - url: "https://mma.prnewswire.com/media/1308768/DMWL_com_main_artwork.jpg?p=facebook"
-        width: 600
-        height: 314
-        isCached: true
   - title: "Braze Reveals Multi-Cloud Support with Microsoft Azure to Help Brands Build Resilience into Customer Engagement Strategies"
     excerpt: "Braze, the comprehensive customer engagement platform, today announced several product and partnership updates that enable brands to"
     publishedDateTime: 2020-10-06T14:00:00Z

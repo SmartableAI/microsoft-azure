@@ -52,15 +52,6 @@ related:
         width: 737
         height: 768
         isCached: true
-  - title: "Starburst Enterprise for Presto Now Available in The Microsoft Azure Marketplace"
-    excerpt: "Starburst today announced the availability of Starburst Enterprise for Presto in the Microsoft Azure Marketplace."
-    publishedDateTime: 2020-10-14T20:09:00Z
-    webUrl: "https://www.businesswire.com/news/home/20201013005348/en/Starburst-Enterprise-for-Presto-Now-Available-in-The-Microsoft-Azure-Marketplace"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 12
 
 secured: "4lhZE0hzhZChYuE0vfbe8iH9bJ4a57HbQEuxfaiAojvXKCRMGdqirSVnwrgeM6OHiinfx7Tasuvb6v//BTk2mUfwdcqZ6pvu9/wktFJ5z/MtkaSrjTvy/VeNDRJqE7Wbyy46555r5meOdnVdI/wzBJIgA9Ns1y/LNuaRgQXDwohQ21ChuKMLTcC18izHI/5N8IQxBdoweeYWhpsQvdofjGznfFnTUJLpVop5nClBOG3SOhBfU9ZfGxaeA646x/A50+k/AQ66ChJY/4rafX51VM7JYGTgBS2JRp3Wa64Rqu3ofKBdrSuoDGTGS7Wil2UDJdFCtgLBPrAzScP+HNpAHXGGz8cjkeltlUVFpn+Ft/s=;Q9A073YXPKO4Zk8/CKTJBQ=="
 ---

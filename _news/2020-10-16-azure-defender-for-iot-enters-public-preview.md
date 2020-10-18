@@ -3,13 +3,13 @@ category: news
 title: "Azure Defender for IoT enters public preview"
 excerpt: "Azure Defender for IoT can help companies keep track of IoT/OT networks without having to install anything on their smart devices and industrial equipment."
 publishedDateTime: 2020-10-16T12:38:00Z
-originalUrl: "https://www.zdnet.com/index.php/category/2184/index.php/article/azure-defender-for-iot-enters-public-preview/"
-webUrl: "https://www.zdnet.com/index.php/category/2184/index.php/article/azure-defender-for-iot-enters-public-preview/"
-ampWebUrl: "https://www.zdnet.com/index.php/category/2184/index.php/google-amp/article/azure-defender-for-iot-enters-public-preview/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2184/index.php/google-amp/article/azure-defender-for-iot-enters-public-preview/"
+originalUrl: "https://www.zdnet.com/article/azure-defender-for-iot-enters-public-preview/"
+webUrl: "https://www.zdnet.com/article/azure-defender-for-iot-enters-public-preview/"
+ampWebUrl: "https://www.zdnet.com/google-amp/article/azure-defender-for-iot-enters-public-preview/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/azure-defender-for-iot-enters-public-preview/"
 type: article
 quality: 114
-heat: 154
+heat: 134
 published: true
 
 provider:
@@ -31,17 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft releases Azure Defender for IoT in public preview"
-    excerpt: "Microsoft announced today that Azure Defender for IoT, its agentless security solution for networked IoT and Operational Technology (OT) devices, has entered public preview."
-    publishedDateTime: 2020-10-16T17:01:00Z
-    webUrl: "https://www.bleepingcomputer.com/news/security/microsoft-releases-azure-defender-for-iot-in-public-preview/"
-    ampWebUrl: "https://www.bleepingcomputer.com/news/security/microsoft-releases-azure-defender-for-iot-in-public-preview/amp/"
-    cdnAmpWebUrl: "https://www-bleepingcomputer-com.cdn.ampproject.org/c/s/www.bleepingcomputer.com/news/security/microsoft-releases-azure-defender-for-iot-in-public-preview/amp/"
-    type: article
-    provider:
-      name: Bleeping Computer
-      domain: bleepingcomputer.com
-    quality: 54
   - title: "Public preview: Service Fabric managed clusters"
     excerpt: "Service Fabric managed clusters reduce complexity and issues associated with managing a cluster made up of multiple resources."
     publishedDateTime: 2020-10-14T16:00:14Z
@@ -52,6 +41,6 @@ related:
       domain: microsoft.com
     quality: 52
 
-secured: "guSbgv9m5zD0/xsrdi9+7s9CTI8OeCEv1VYQSs20XXAyoeImkKFt6eyllMAZGouOzUZWqRrnARJAHvmAskucKjYyn3T6Rs12RMptReo7vEugFFe8YZ8R40o8gIYVHx2E7I2CaavzVplT9Z70b5ozth7rkctv1mersanzJulTpGY98wGZdh2k5yz429BrDugHAm8lT6hO/7lY+x5cmojDesqcqiP1EqulJZhTejvLz6wRpLJgmd42PjnAKAF3obB8X+Zbjp0/BWU6boRmWzOzH70Zxnq7l5otArd2r1VA5kf9lPTzT+a8BES7L4Yy9gREGLWFGUA22IBqN6JzbT7b1aaQYi2xNd7n88SEVClSWBm1Hr1rHpvluq5nx1a8QbTMTyyK4Ad+NPMM/zAwkKge4s2ufAPcA1zPnj323PmFaJFA+CXRc77CoZL4EbiMfZUUl3xf4LU/1HpzjvG4Ib6yyRmj9QRxK+8HHRmpZJ1M4G6kODRwUrVRKgGhHjep6SScVjKj3D/9GnQ9m+YAsz/0ZQ==;ThxHwmX/xhzhq5sSdH3ovA=="
+secured: "z/QIUUsYqIyPMU/ECTt8waLIEYiIl3M5LSJHqWkW7HOMc9R3i6/gHfKYqdsOzEIedm8pSf8RTzyVJ5ktKJ/oNdymMB/0zgJG3hCEDByrJmOicngNe4PVzl0XRrk9oFXSYJssb4R+mb8Z+1xMTmkWLRnLwhL8BnYGULtZuIcXINcdPA62AjMZXGRZJolvs6k6m0VodskkTixWBLX8N4KmiCvQuYiXOm8/kdoqkqsrOFG8/ls/84L/Fr3pS6Ylk57qn+r8Pvs7yB5OkDGL60oRdsxK0pLfhGhq6aiRgEUrOXQGkbxTgP8mxbGUem7yYlHLHVNx8wlbxZJOyBP//NTC3DGS0UhrlK5oze2t5KaTqoU=;YkORYRe5eKTsIh+c1J7PvQ=="
 ---
 

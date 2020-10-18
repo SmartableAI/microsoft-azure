@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/microsoft-is-a-leader-in-the-2020
 webUrl: "https://azure.microsoft.com/blog/microsoft-is-a-leader-in-the-2020-gartner-magic-quadrant-for-full-life-cycle-api-management/"
 type: article
 quality: 81
-heat: 141
+heat: 121
 published: true
 
 provider:
@@ -44,15 +44,6 @@ related:
         width: 737
         height: 768
         isCached: true
-  - title: "Starburst Enterprise for Presto Now Available in The Microsoft Azure Marketplace"
-    excerpt: "Starburst today announced the availability of Starburst Enterprise for Presto in the Microsoft Azure Marketplace."
-    publishedDateTime: 2020-10-14T20:09:00Z
-    webUrl: "https://www.businesswire.com/news/home/20201013005348/en/Starburst-Enterprise-for-Presto-Now-Available-in-The-Microsoft-Azure-Marketplace"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 12
   - title: "Komprise addresses demand for file data management in the cloud with new capabilities for Microsoft Azure Files and Azure NetApp Files"
     excerpt: "PRNewswire/ -- Komprise, the leader in analytics-driven data management, today announced new capabilities for its Komprise Intelligent Data"
     publishedDateTime: 2020-10-06T13:00:00Z

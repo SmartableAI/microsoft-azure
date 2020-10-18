@@ -1321,20 +1321,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Microsoft Improves Windows Patch and Azure Service Communications"
-    excerpt: "This notion was explained in a June Microsoft announcement as \"infusing AI into our cloud platform and DevOps process, becoming AIOps.\" Apparently, the AIOps term derives from analyst and ..."
-    publishedDateTime: 2020-08-19T01:09:00Z
-    webUrl: "https://redmondmag.com/articles/2020/08/18/windows-patch-azure-service-communications.aspx"
-    type: article
-    provider:
-      name: Redmond Magazine
-      domain: redmondmag.com
-    quality: 37
-    images:
-      - url: "https://redmondmag.com/-/media/ECG/VirtualizationReview/Images/IntroImages2016/0716vrm_Take5.jpg"
-        width: 647
-        height: 450
-        isCached: true
   - title: "Microsoft Updates Windows Terminal and Azure CLI Tools"
     excerpt: "New Windows Terminal and Azure CLI (command line interface) updates were released this week. Microsoft delivered a new Windows Terminal 1.2 (stable version), and it rolled out a preview of Windows Terminal 1."
     publishedDateTime: 2020-08-27T16:27:00Z

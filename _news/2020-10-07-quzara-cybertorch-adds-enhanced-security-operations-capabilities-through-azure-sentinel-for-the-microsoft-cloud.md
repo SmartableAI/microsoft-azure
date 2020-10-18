@@ -9,7 +9,7 @@ ampWebUrl: "https://markets.businessinsider.com/amp/news/quzara-cybertorch-adds-
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/quzara-cybertorch-adds-enhanced-security-operations-capabilities-through-azure-sentinel-for-the-microsoft-cloud-1029652288"
 type: article
 quality: 73
-heat: 173
+heat: 93
 published: true
 
 provider:
@@ -25,54 +25,6 @@ topics:
   - Security
 
 related:
-  - title: "Saviynt integrates with Microsoft Azure AD to provide identity-centric, zero trust security service"
-    excerpt: "Saviynt expands integration with Microsoft Azure AD to provide additional advanced governance scenarios for enterprise customers."
-    publishedDateTime: 2020-10-14T23:38:00Z
-    webUrl: "https://www.helpnetsecurity.com/2020/10/15/saviynt-microsoft-azure/"
-    type: article
-    provider:
-      name: Help Net Security
-      domain: helpnetsecurity.com
-    quality: 57
-    images:
-      - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/10/14145709/helpnetsecurity.jpg"
-        width: 1200
-        height: 627
-        isCached: true
-  - title: "Saviynt Integrates Microsoft Azure Active Directory to Provide Advanced Identity Governance for Enterprise Customers"
-    excerpt: "LOS ANGELES-- ( BUSINESS WIRE )-- Saviynt, a leading cloud-built identity governance platform, today announced new and expanded integration with Microsoft Azure Active Directory (Azure AD) to provide additional advanced governance scenarios for enterprise customers."
-    publishedDateTime: 2020-10-14T11:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20201014005187/en/"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 46
-    images:
-      - url: "https://mms.businesswire.com/media/20201014005187/en/820722/23/saviynt_logo.jpg"
-        width: 1200
-        height: 627
-        isCached: true
-  - title: "CDW recognized as Microsoft Azure expert service provider"
-    excerpt: "CDW Corp., a leading computer solutions and services provider, has been recognized as a Microsoft Azure Expert Managed Service Provider, joining some of Microsoft's most recognized and capable global solutions partners."
-    publishedDateTime: 2020-10-09T18:58:00Z
-    webUrl: "https://www.dailyherald.com/business/20201009/cdw-recognized-as-microsoft-azure-expert-service-provider"
-    ampWebUrl: "https://www.dailyherald.com/amp-article/20201009/business/201009222/"
-    cdnAmpWebUrl: "https://www-dailyherald-com.cdn.ampproject.org/c/s/www.dailyherald.com/amp-article/20201009/business/201009222/"
-    type: article
-    provider:
-      name: Daily Herald
-      domain: dailyherald.com
-    quality: 37
-  - title: "Tamr Announces the Only Cloud-Native Data Mastering Solutions for Google Cloud Platform, AWS, and Microsoft Azure"
-    excerpt: "PRNewswire/ -- Tamr, Inc., a cloud-native data mastering platform used by some of the world's largest enterprises"
-    publishedDateTime: 2020-10-07T13:35:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/tamr-announces-the-only-cloud-native-data-mastering-solutions-for-google-cloud-platform-aws-and-microsoft-azure-1029657406"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 36
   - title: "Scality Announces 1 Terabit Per Second Performance for Scale-Out File System in Microsoft Azure Public Cloud"
     excerpt: "Scality, a leader in software solutions for distributed file and object storage, today announced the technical preview of its high-performance scale-out file system (SOFS) in Microsoft Azure. Scality SOFS running in Azure delivers linear scaling performance for read- and write-intensive workloads."
     publishedDateTime: 2020-10-06T02:26:00Z

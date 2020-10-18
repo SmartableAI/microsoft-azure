@@ -1319,20 +1319,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Microsoft Improves Windows Patch and Azure Service Communications"
-    excerpt: "This notion was explained in a June Microsoft announcement as \"infusing AI into our cloud platform and DevOps process, becoming AIOps.\" Apparently, the AIOps term derives from analyst and ..."
-    publishedDateTime: 2020-08-19T01:09:00Z
-    webUrl: "https://redmondmag.com/articles/2020/08/18/windows-patch-azure-service-communications.aspx"
-    type: article
-    provider:
-      name: Redmond Magazine
-      domain: redmondmag.com
-    quality: 37
-    images:
-      - url: "https://redmondmag.com/-/media/ECG/VirtualizationReview/Images/IntroImages2016/0716vrm_Take5.jpg"
-        width: 647
-        height: 450
-        isCached: true
   - title: "Microsoft's Finds Place For Yammer, Video Conferencing Market Heats Up & More News"
     excerpt: "When Microsoft introduced Teams in March 2017, creating another communication tool at the heart of Office 365 running in tandem with Yammer, it really put a question mark over the role and purpose of the app."
     publishedDateTime: 2020-05-15T13:01:00Z

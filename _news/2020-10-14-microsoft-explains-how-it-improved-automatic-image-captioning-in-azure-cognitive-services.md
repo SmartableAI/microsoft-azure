@@ -1,45 +1,36 @@
 ---
 category: news
-title: "CDW Recognized as Microsoft Azure Expert Managed Service Provider to Meet Evolving Customer Needs"
-excerpt: "This recent recognition demonstrates CDW’s commitment to providing customers with best-in-class design, orchestration, and managed services on Azure with a focus on future succe"
-publishedDateTime: 2020-10-09T12:30:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-products-and-services-cloud-computing-a0220a2923184a56ae2395c672ca0e92"
-webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-products-and-services-cloud-computing-a0220a2923184a56ae2395c672ca0e92"
+title: "Microsoft explains how it improved automatic image captioning in Azure Cognitive Services"
+excerpt: "Microsoft says it developed a new AI and machine learning technique that vastly improves the accuracy of automatic image captions."
+publishedDateTime: 2020-10-14T16:00:00Z
+originalUrl: "https://venturebeat.com/2020/10/14/microsoft-explains-how-it-improved-automatic-image-captioning-in-azure-cognitive-services/"
+webUrl: "https://venturebeat.com/2020/10/14/microsoft-explains-how-it-improved-automatic-image-captioning-in-azure-cognitive-services/"
+ampWebUrl: "https://venturebeat.com/2020/10/14/microsoft-explains-how-it-improved-automatic-image-captioning-in-azure-cognitive-services/amp/"
+cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/14/microsoft-explains-how-it-improved-automatic-image-captioning-in-azure-cognitive-services/amp/"
 type: article
-quality: 24
-heat: -1
-published: false
+quality: 120
+heat: 740
+published: true
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: VentureBeat
+  domain: venturebeat.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/venturebeat.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
+  - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://venturebeat.com/wp-content/uploads/2019/11/microsoft-1-e1580261336710.jpg?w=1200&#038;strip=all"
+    width: 1200
+    height: 573
     isCached: true
 
 related:
-  - title: "Microsoft explains how it improved automatic image captioning in Azure Cognitive Services"
-    excerpt: "Microsoft says it developed a new AI and machine learning technique that vastly improves the accuracy of automatic image captions."
-    publishedDateTime: 2020-10-14T16:00:00Z
-    webUrl: "https://venturebeat.com/2020/10/14/microsoft-explains-how-it-improved-automatic-image-captioning-in-azure-cognitive-services/"
-    ampWebUrl: "https://venturebeat.com/2020/10/14/microsoft-explains-how-it-improved-automatic-image-captioning-in-azure-cognitive-services/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/14/microsoft-explains-how-it-improved-automatic-image-captioning-in-azure-cognitive-services/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 120
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2019/11/microsoft-1-e1580261336710.jpg?w=1200&#038;strip=all"
-        width: 1200
-        height: 573
-        isCached: true
   - title: "Microsoft unveils updates across Azure Cognitive Services and Azure Machine Learning"
     excerpt: "Microsoft rolled out updates across its AI and machine learning cloud portfolio during its Ignite 2020 virtual conference."
     publishedDateTime: 2020-09-22T16:00:00Z
@@ -355,6 +346,20 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "CDW Recognized as Microsoft Azure Expert Managed Service Provider to Meet Evolving Customer Needs"
+    excerpt: "This recent recognition demonstrates CDW’s commitment to providing customers with best-in-class design, orchestration, and managed services on Azure with a focus on future succe"
+    publishedDateTime: 2020-10-09T12:30:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-products-and-services-cloud-computing-a0220a2923184a56ae2395c672ca0e92"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 24
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Dicker Data launches Microsoft Cloud unit"
     excerpt: "Dicker Data has launched a new Microsoft Cloud business unit under the leadership of Sarah Loiterton as general manager."
     publishedDateTime: 2020-10-14T05:35:00Z
@@ -439,6 +444,6 @@ related:
       domain: businesswire.com
     quality: 12
 
-secured: "D7vTYCIB5blezvlRNvGI0ljNZ3AGrWNw/6RlxSViS2AyX2tDwyZ+uhqOYzZ7r7mB4eWmsKEJqRDd1KDm9h3CixfZORs6LCDZPYV2HyeWVbwT2AanphFh3O4/dqzdmpzw/BD++fz4nbPOON09Aqbac8lqW6033yoZ5z/DKbQlNqAKc+7ech816XgSxChAK8nhOaTVpHrTWcO8VrSuXCgLmBE0fKhAesuX7CzAaEDAF5A1J7fi94HeOFYLP/vO5pGRxy54iyYbdhVQe1Bk7S1RuLq+fWyyJV032fdOA8daaLPuR+YfrYCpA8Ux/IFOVZ1Q/r9AWslglN62U6qrdJHZF8s1QRqWeVzut3qj09I3A0E=;e6bZSg2TMiJvTbARDsusUA=="
+secured: "hNQ4ni1P+HUXcVJD0h1fgIF86CIo6SP6/p8fS7pwd/PxLf5/2lv5XvqWxwQ5G8KHn6UayZNihPeoQ2l+vSEd32UbJVhbDQFLamo4+G7wWKSBVb89jhT2wxDCwrto/7n3JyUCSA65JkYtUz73AODfHayKqcxKC15YFFGpHNihVdqmB4RVWClUyytEvI1zwLk97fgoLyeon3SF+FOFjV8Sj8MNZCWsUFS+CtTlhEIfGRODKbcdZowsZlUC+oKImDWj0pqif3lnv14q1NSoQ9u56uWFVOkSz+wv54sqIAF8fn5m4gjcvEDtMSTO7EEtt559dKRAM39sOltE3b0Y9RAI7y1znU4BeKvC6L2jp3nSEig=;tFAqfquqY2XZyW1BUkgM+Q=="
 ---
 
