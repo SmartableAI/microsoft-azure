@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT9M57S
 publishedDateTime: 2018-08-14T21:02:24Z
-heat: 52
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/LTsvOPB4k9I\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "XD67xt3x1P6m9ull8uLFOErkuvXUKSWo5IM7hKKJhjGcbTeYT+FhgelNudGlN/WDE1XJxBVTcPxRq4Ox+bH6XQ5d3MM7nglmpSCJMZDj+Awi1l04tdwDBtvWNYx6MOmoYQS0hL0YYKB5vJRT6uA7VxpT73rQg3gkL1sXiTJds4StTr4CxfLY69O2QgGJXfXzoZV88Ffiv+9302CFEB4IeJry9k+YRP6MudQgfK7vMOiyljZDIe8/JbXISWHE6lLrIDok2vfyo7LrQOivTz9+tf3rZdkyKZmIVUIWofIv6TsXnpgnn47O5nPdNoMgProA63F9NXlRwBRueXsizUao2Rn7imnjWQb+VaQ6kOux5MNoayZBbbPDVOdKnRUcfNYfQPWjThzWm1i4WpZobRsdckSNmIJhvmIDEgbkTTVELqI=;Gy7Jxk1t/smmAiPGtJU88w=="
+secured: "nFTik+6IyfM6uFL2Buuwa9OC8woJOTl9griy7IaYC1U1Jdw9LIannTnl7Ye2gPzqIraDZtAj2RnosRu9Va4wtBGtWIi4ZC0vtQJhD7V4BEFrZETbsLUSBTHqKWno3mdqAb5iVi3fl7LTAWubpImmhLsK6NXwtx48syBrBmJwNkEsfXbcbHqa/4qae3VksA/R8Dvl0H3XKJSYTSq4gshfTXqQ8UOgr9FsgsKB1NWSEYPvgaFUhnCkDPTeMfE9k5N0ktm1z7Wm0gIGh3ClqVK6ie6fGPWtQFNlx2ddNhIIXArMAQr6DvxFaxrNFChj5GYYfgVv9gylyP7s18fuWpyqzmCR80sLmdUYbg/zQqZf7NgVRFk3jFf6Jz1H2qjOx1NkDps/FZY2PLU5/aTy+0TButbJfghdtnC0JYxI6cCjuQw=;5WqlKKW2sNG34LYnUtBbNw=="
 ---
 
