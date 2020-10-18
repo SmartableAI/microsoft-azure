@@ -4,47 +4,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-intro-to-compute.md",
-      "title": "Core Cloud Services - Azure compute options",
-      "excerpt": "Explore essential Azure concepts to find out how virtual machines, containers, and apps combined with serverless computing services can fortify your business.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-to-compute/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-compute/",
-      "length": "PT38M",
-      "ratings": {
-        "count": 64128,
-        "average": 4.710579
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 150,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Compute",
-        "Web",
-        "Containers",
-        "Serverless",
-        "IoT",
-        "Blockchain",
-        "Integration"
-      ]
-    },
-    {
       "path": "_learning/collections/microsoft-learn-create-serverless-applications.md",
       "title": "Create serverless applications",
       "excerpt": "In this learning path, discover Azure Functions that create event-driven, compute-on-demand systems using server-side logic to build serverless architectures.",
@@ -76,8 +35,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-azure-service-to-integrate-and-automate-business-processes/",
           "length": "PT44M",
           "ratings": {
-            "count": 10480,
-            "average": 4.5747137
+            "count": 10484,
+            "average": 4.5747805
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -118,8 +77,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-serverless-logic-with-azure-functions/",
           "length": "PT36M",
           "ratings": {
-            "count": 6648,
-            "average": 4.6586943
+            "count": 6651,
+            "average": 4.6588483
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -155,8 +114,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/execute-azure-function-with-triggers/",
           "length": "PT1H23M",
           "ratings": {
-            "count": 3475,
-            "average": 4.701583
+            "count": 3476,
+            "average": 4.7016687
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -246,6 +205,47 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-intro-to-compute.md",
+      "title": "Core Cloud Services - Azure compute options",
+      "excerpt": "Explore essential Azure concepts to find out how virtual machines, containers, and apps combined with serverless computing services can fortify your business.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-to-compute/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-compute/",
+      "length": "PT38M",
+      "ratings": {
+        "count": 64129,
+        "average": 4.710583
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 70,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Compute",
+        "Web",
+        "Containers",
+        "Serverless",
+        "IoT",
+        "Blockchain",
+        "Integration"
+      ]
+    },
+    {
       "path": "_learning/collections/microsoft-learn-az-400-develop-an-instrumentation-strategy.md",
       "title": "AZ-400: Develop an instrumentation strategy",
       "excerpt": "Develop an effective instrumentation strategy through logging, telemetry, and monitoring and prepare for Exam AZ-400: Designing and Implementing Microsoft DevOps Solutions.",
@@ -276,8 +276,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/capture-application-logs-app-service/",
           "length": "PT55M",
           "ratings": {
-            "count": 1252,
-            "average": 4.6246004
+            "count": 1253,
+            "average": 4.624102
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -319,8 +319,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/control-and-organize-with-azure-resource-manager/",
           "length": "PT46M",
           "ratings": {
-            "count": 38855,
-            "average": 4.713602
+            "count": 38857,
+            "average": 4.7135906
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -485,8 +485,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/",
           "length": "PT36M",
           "ratings": {
-            "count": 635,
-            "average": 4.768504
+            "count": 638,
+            "average": 4.7695923
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -527,8 +527,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-machine-learning-fundamentals/",
           "length": "PT23M",
           "ratings": {
-            "count": 73,
-            "average": 4.6849313
+            "count": 74,
+            "average": 4.689189
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -570,8 +570,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-devops-devtest-labs/",
           "length": "PT21M",
           "ratings": {
-            "count": 53,
-            "average": 4.735849
+            "count": 54,
+            "average": 4.740741
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -613,8 +613,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/monitoring-fundamentals/",
           "length": "PT22M",
           "ratings": {
-            "count": 54,
-            "average": 4.7222223
+            "count": 55,
+            "average": 4.7272725
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -706,8 +706,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-serverless-logic-with-azure-functions/",
           "length": "PT36M",
           "ratings": {
-            "count": 6648,
-            "average": 4.6586943
+            "count": 6651,
+            "average": 4.6588483
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -908,8 +908,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/",
           "length": "PT36M",
           "ratings": {
-            "count": 635,
-            "average": 4.768504
+            "count": 638,
+            "average": 4.7695923
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -950,8 +950,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/fundamental-azure-concepts/",
           "length": "PT24M",
           "ratings": {
-            "count": 262,
-            "average": 4.7824426
+            "count": 263,
+            "average": 4.771863
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -994,8 +994,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-architecture-fundamentals/",
           "length": "PT34M",
           "ratings": {
-            "count": 185,
-            "average": 4.8486485
+            "count": 186,
+            "average": 4.8494625
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1058,8 +1058,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/fundamental-azure-concepts/",
       "length": "PT24M",
       "ratings": {
-        "count": 262,
-        "average": 4.7824426
+        "count": 263,
+        "average": 4.771863
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1102,8 +1102,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-serverless-logic-with-azure-functions/",
       "length": "PT36M",
       "ratings": {
-        "count": 6648,
-        "average": 4.6586943
+        "count": 6651,
+        "average": 4.6588483
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1139,8 +1139,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/execute-azure-function-with-triggers/",
       "length": "PT1H23M",
       "ratings": {
-        "count": 3475,
-        "average": 4.701583
+        "count": 3476,
+        "average": 4.7016687
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1297,8 +1297,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/develop-test-deploy-azure-functions-with-core-tools/",
       "length": "PT20M",
       "ratings": {
-        "count": 1787,
-        "average": 4.7073307
+        "count": 1788,
+        "average": 4.7074943
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1972,8 +1972,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/classify-user-feedback-with-the-text-analytics-api/",
       "length": "PT48M",
       "ratings": {
-        "count": 1462,
-        "average": 4.625171
+        "count": 1463,
+        "average": 4.6254272
       },
       "provider": {
         "name": "Microsoft Learn",
