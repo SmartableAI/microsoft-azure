@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/azure-defender-for-iot-ente
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/azure-defender-for-iot-enters-public-preview/"
 type: article
 quality: 114
-heat: 134
+heat: 135
 published: true
 
 provider:
