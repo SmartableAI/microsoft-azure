@@ -4,53 +4,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_people/mark-russinovich.md",
-      "title": "Mark Russinovich",
-      "excerpt": "CTO of Microsoft Azure, author of novels Rogue Code, Zero Day and Trojan Horse, Windows Internals, Sysinternals utilities.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/people/mark-russinovich/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/people/mark-russinovich/",
-      "type": "profile",
-      "name": "Mark Russinovich",
-      "bio": "CTO of Microsoft Azure, author of novels Rogue Code, Zero Day and Trojan Horse, Windows Internals, Sysinternals utilities.",
-      "location": "Seattle, WA",
-      "website": "https://t.co/BJ4Ib1CWli",
-      "twitter": {
-        "username": "markrussinovich",
-        "url": "https://twitter.com/markrussinovich",
-        "followers": 103185
-      },
-      "linkedin": {
-        "url": "https://www.linkedin.com/in/markrussinovich/"
-      },
-      "affiliation": {
-        "path": "",
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "Azure"
-      ],
-      "heat": 175,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1268228333700968448/8t_oP37O_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Mark Russinovich",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
       "path": "_people/scott-guthrie.md",
       "title": "Scott Guthrie",
       "excerpt": "Executive Vice President Microsoft Cloud+AI",
@@ -64,7 +17,7 @@
       "twitter": {
         "username": "scottgu",
         "url": "https://twitter.com/scottgu",
-        "followers": 158885
+        "followers": 158888
       },
       "linkedin": {
         "url": "https://www.linkedin.com/in/guthriescott/"
@@ -85,7 +38,7 @@
       "topics": [
         "Azure"
       ],
-      "heat": 89,
+      "heat": 151,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/565139568/redshirt_400x400.jpg",
@@ -98,22 +51,23 @@
       "content": "\r\n"
     },
     {
-      "path": "_people/jason-zander.md",
-      "title": "Jason Zander",
-      "excerpt": "Executive Vice President Microsoft Azure, avid programmer, huge Seahawks fan. Go Hawks!",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/people/jason-zander/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/people/jason-zander/",
+      "path": "_people/mark-russinovich.md",
+      "title": "Mark Russinovich",
+      "excerpt": "CTO of Microsoft Azure, author of novels Rogue Code, Zero Day and Trojan Horse, Windows Internals, Sysinternals utilities.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/people/mark-russinovich/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/people/mark-russinovich/",
       "type": "profile",
-      "name": "Jason Zander",
-      "bio": "Executive Vice President Microsoft Azure, avid programmer, huge Seahawks fan. Go Hawks!",
-      "location": "Redmond, WA",
+      "name": "Mark Russinovich",
+      "bio": "CTO of Microsoft Azure, author of novels Rogue Code, Zero Day and Trojan Horse, Windows Internals, Sysinternals utilities.",
+      "location": "Seattle, WA",
+      "website": "https://t.co/BJ4Ib1CWli",
       "twitter": {
-        "username": "jlzander",
-        "url": "https://twitter.com/jlzander",
-        "followers": 7349
+        "username": "markrussinovich",
+        "url": "https://twitter.com/markrussinovich",
+        "followers": 103187
       },
       "linkedin": {
-        "url": "https://www.linkedin.com/in/jason-zander-62780637/"
+        "url": "https://www.linkedin.com/in/markrussinovich/"
       },
       "affiliation": {
         "path": "",
@@ -131,13 +85,60 @@
       "topics": [
         "Azure"
       ],
-      "heat": 83,
+      "heat": 96,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/999040172929892353/K1tmz3d4_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/1268228333700968448/8t_oP37O_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "Jason Zander",
+          "title": "Mark Russinovich",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_people/sam-george.md",
+      "title": "Sam George",
+      "excerpt": "Father, Husband, Ferry rider, Road cyclist, Woodworker & CVP of Azure IoT",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/people/sam-george/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/people/sam-george/",
+      "type": "profile",
+      "name": "Sam George",
+      "bio": "Father, Husband, Ferry rider, Road cyclist, Woodworker & CVP of Azure IoT",
+      "location": "Redmond, WA",
+      "twitter": {
+        "username": "samjgeorge",
+        "url": "https://twitter.com/samjgeorge",
+        "followers": 2703
+      },
+      "linkedin": {
+        "url": "https://www.linkedin.com/in/samjgeorge/"
+      },
+      "affiliation": {
+        "path": "",
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Azure",
+        "IoT"
+      ],
+      "heat": 57,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1180714123090247680/eegwGxig_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Sam George",
           "isCached": true
         }
       ],
@@ -192,22 +193,22 @@
       "content": "\r\n"
     },
     {
-      "path": "_people/sam-george.md",
-      "title": "Sam George",
-      "excerpt": "Father, Husband, Ferry rider, Road cyclist, Woodworker & CVP of Azure IoT",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/people/sam-george/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/people/sam-george/",
+      "path": "_people/jason-zander.md",
+      "title": "Jason Zander",
+      "excerpt": "Executive Vice President Microsoft Azure, avid programmer, huge Seahawks fan. Go Hawks!",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/people/jason-zander/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/people/jason-zander/",
       "type": "profile",
-      "name": "Sam George",
-      "bio": "Father, Husband, Ferry rider, Road cyclist, Woodworker & CVP of Azure IoT",
+      "name": "Jason Zander",
+      "bio": "Executive Vice President Microsoft Azure, avid programmer, huge Seahawks fan. Go Hawks!",
       "location": "Redmond, WA",
       "twitter": {
-        "username": "samjgeorge",
-        "url": "https://twitter.com/samjgeorge",
-        "followers": 2703
+        "username": "jlzander",
+        "url": "https://twitter.com/jlzander",
+        "followers": 7348
       },
       "linkedin": {
-        "url": "https://www.linkedin.com/in/samjgeorge/"
+        "url": "https://www.linkedin.com/in/jason-zander-62780637/"
       },
       "affiliation": {
         "path": "",
@@ -223,16 +224,15 @@
         ]
       },
       "topics": [
-        "Azure",
-        "IoT"
+        "Azure"
       ],
-      "heat": 50,
+      "heat": 20,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1180714123090247680/eegwGxig_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/999040172929892353/K1tmz3d4_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "Sam George",
+          "title": "Jason Zander",
           "isCached": true
         }
       ],
