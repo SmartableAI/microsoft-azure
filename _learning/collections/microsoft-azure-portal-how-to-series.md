@@ -2,7 +2,7 @@
 title: "Azure Portal “How To” Series"
 excerpt: "Welcome to our weekly series that highlights specific aspects of the Azure portal so you can be more efficient and productive while deploying your cloud workloads from the portal."
 type: collection
-heat: 60
+heat: 61
 
 provider:
   name: Microsoft
@@ -54,7 +54,6 @@ items:
   - videos/microsoft-how-to-create-an-azure-kubernetes-service-cluster-in-the-azure-portal-azure-portal-series
   - videos/microsoft-how-to-manage-virtual-machine-connectivity-with-the-azure-portal-azure-portal-series
   - videos/microsoft-how-to-create-share-and-use-azure-portal-dashboards-azure-portal-series
-  - videos/microsoft-how-to-configure-a-new-virtual-machine-with-the-azure-portal-azure-portal-series
   - videos/microsoft-how-to-manage-virtual-machines-on-the-go-via-the-azure-mobile-app-azure-portal-series
   - videos/microsoft-how-to-manage-multiple-accounts-directories-and-subscriptions-in-azure-azure-portal-series
 
