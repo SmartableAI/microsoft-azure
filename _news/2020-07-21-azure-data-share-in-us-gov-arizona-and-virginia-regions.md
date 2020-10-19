@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-21T16:02:18Z
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-data-share-in-us-gov-arizona-and-virginia-regions/"
 type: article
 quality: 17
-heat: 17
+heat: 37
 published: false
 
 provider:
