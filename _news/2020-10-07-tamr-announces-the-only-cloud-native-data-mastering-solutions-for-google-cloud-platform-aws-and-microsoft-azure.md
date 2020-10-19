@@ -455,6 +455,15 @@ related:
       name: Business Wire
       domain: businesswire.com
     quality: 12
+  - title: "Microsoft price target raised at Jefferies ahead of FQ1 earnings, expecting continued Azure strength"
+    excerpt: "Ahead of the fiscal Q1 results, Jefferies raises its (NASDAQ:MSFT) price target from $240 to $260.Analyst Brent Thill calls \"one of the best pillars in software, with a durable financial model featuring near double-digit rev growth."
+    publishedDateTime: 2020-10-19T13:11:00Z
+    webUrl: "https://seekingalpha.com/news/3623215-microsoft-price-target-raised-jefferies-ahead-of-fq1-earnings-expecting-continued-azure"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 2
 
 secured: "cXHB7MsgVr0I8QZsiKFrbervhwJdvLC7t2KJ4Pn54TaXkvWiLeFZrNOsjZjtMnyIg9SPBYxMXDVJg+6Za+lNkj/omYNIzY6sI7ieewwFgRKadJkbYQg4YDwfwRTGgx6awZYXmj3jwgGNbcemr/vOKW1zslSs9AsRXsYrkuE+Usixind9VA4369v1+rUS5KmQZncT6IIJyAkmg6T3zyqzfgdWKR9dyURz/ViQPmoXArYwubSu1PgwLYkxScyGnHriSkcofKjF91+SADkJ6tCC4/uXYKLkDdxBefplNhSp/ttaAr7DYqakGtvg0Qt4N5wtULneU696h9+ZAzssiNHi9Z+OngXWBtNbx7IDbdAwYj0=;1E1LSAp6oLAFdJHIN4pevA=="
 ---

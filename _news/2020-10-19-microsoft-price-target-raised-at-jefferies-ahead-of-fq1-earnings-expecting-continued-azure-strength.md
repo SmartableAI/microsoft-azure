@@ -1,24 +1,18 @@
 ---
 category: news
-title: "Microsoft cloud services outages continue into week two"
-excerpt: "Microsoft's cloud services problems are continuing this week with more Azure and Microsoft 365 services issues for some customers. Here's what's happened and why."
-publishedDateTime: 2020-10-07T21:19:00Z
-originalUrl: "https://www.zdnet.com/index.php/category/2184/index.php/article/microsoft-cloud-services-outages-continue-into-week-two/"
-webUrl: "https://www.zdnet.com/index.php/category/2184/index.php/article/microsoft-cloud-services-outages-continue-into-week-two/"
-ampWebUrl: "https://www.zdnet.com/index.php/category/2184/index.php/google-amp/article/microsoft-cloud-services-outages-continue-into-week-two/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2184/index.php/google-amp/article/microsoft-cloud-services-outages-continue-into-week-two/"
+title: "Microsoft price target raised at Jefferies ahead of FQ1 earnings, expecting continued Azure strength"
+excerpt: "Ahead of the fiscal Q1 results, Jefferies raises its (NASDAQ:MSFT) price target from $240 to $260.Analyst Brent Thill calls \"one of the best pillars in software, with a durable financial model featuring near double-digit rev growth."
+publishedDateTime: 2020-10-19T13:11:00Z
+originalUrl: "https://seekingalpha.com/news/3623215-microsoft-price-target-raised-jefferies-ahead-of-fq1-earnings-expecting-continued-azure"
+webUrl: "https://seekingalpha.com/news/3623215-microsoft-price-target-raised-jefferies-ahead-of-fq1-earnings-expecting-continued-azure"
 type: article
-quality: 62
+quality: 2
 heat: -1
 published: false
 
 provider:
-  name: ZDNet
-  domain: zdnet.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/zdnet.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Seeking Alpha
+  domain: seekingalpha.com
 
 topics:
   - Azure
@@ -95,6 +89,17 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Microsoft cloud services outages continue into week two"
+    excerpt: "Microsoft's cloud services problems are continuing this week with more Azure and Microsoft 365 services issues for some customers. Here's what's happened and why."
+    publishedDateTime: 2020-10-07T21:19:00Z
+    webUrl: "https://www.zdnet.com/index.php/category/2184/index.php/article/microsoft-cloud-services-outages-continue-into-week-two/"
+    ampWebUrl: "https://www.zdnet.com/index.php/category/2184/index.php/google-amp/article/microsoft-cloud-services-outages-continue-into-week-two/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2184/index.php/google-amp/article/microsoft-cloud-services-outages-continue-into-week-two/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 62
   - title: "Researchers Find Vulnerabilities in Microsoft Azure Cloud Service"
     excerpt: "Now according to the latest research, two security flaws in Microsoft's Azure App Services could have enabled a bad actor to carry out server-side request forgery (SSRF) attacks or execute arbitrary code and take over the administration server."
     publishedDateTime: 2020-10-08T13:26:00Z
@@ -455,16 +460,7 @@ related:
       name: Business Wire
       domain: businesswire.com
     quality: 12
-  - title: "Microsoft price target raised at Jefferies ahead of FQ1 earnings, expecting continued Azure strength"
-    excerpt: "Ahead of the fiscal Q1 results, Jefferies raises its (NASDAQ:MSFT) price target from $240 to $260.Analyst Brent Thill calls \"one of the best pillars in software, with a durable financial model featuring near double-digit rev growth."
-    publishedDateTime: 2020-10-19T13:11:00Z
-    webUrl: "https://seekingalpha.com/news/3623215-microsoft-price-target-raised-jefferies-ahead-of-fq1-earnings-expecting-continued-azure"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 2
 
-secured: "HpBNuqhzf29MiG45HqYF30GKTFxKTinV2vNMLOLGZpoYxcsUqhznEV+KJat0kP302KWzxekZLaMW8Bp+bHN53XBD99X6d/kZ/0stXLbKzg+oWZYBhblzncmn/t3tSkMPt87QzueALG0Q9oLTW2yUxTlAaB23L0RKxqndUsjwRZkmWIqg+y9YFApMvcPIm0YZ6e1JUMGY5OhDiUt2+uYCqxt4dRJ4c6aGeVMYdqbzP41tdjItDwRAEt9YhTFdXphzT1wAKpjE1Nitph2HuL+fFuXvbqGIAcqDo2vYBpwTHJcIlBkkvm/InYS1uJo5ttcWyF8x/sBumypP90kMbVWNrX5B5S1NJiz//x75ZUxaHNB6LzSlpixz35iRPN8crKyVXFfpo8t/O7kL227Xsdb3Y4cRTPXXIFviUBCbVa5CM4Hpdr2JOmVvu/EEGO3wfvbcxvi+cU8SG+ggoOQgqxdaIuiUm1c0y4x/ln+vriJiHQp4xCCQkx1lWPrDjc/viQsXctxzpS/0q8SqLd+S/0MIyA==;r6MYl8vXIx/Y8SjVxsZpyQ=="
+secured: "JG+O8JkiXl6ORVjrzcB7qT010cNNNJrkdPZwya4Aq3qTfEkDXsWsZ/o358oCBM1v+NcJ0kuNuvzS9hkhC4wO1xtWAY59YWDDJQdqTI3m1d17uwPWrQvKVm25wxr7ikG0SkWS4/a0qmaHnKbgp2JmZ1rXqilSKTyxV8JAhcKxVCSAM/jTtISVi7awdViK14Ig4TdlqtRpBugnh4eEE9rxgDrJXA2Rp7EoQmaBt1QGs1Lf4nAYtEMJt9psUf2vYUUx5b4boMYmkmGCYHETSlOkZaIkfoEDuU0NSTTEj38bYqihGvJo7w5qQYWBg9upjkjNZuPJnpv4ImM6O+05PUAPk2+WTV+r8QGOoprBkzG/41Y=;aopfw0ugqxUqQ8agNmwbhg=="
 ---
 

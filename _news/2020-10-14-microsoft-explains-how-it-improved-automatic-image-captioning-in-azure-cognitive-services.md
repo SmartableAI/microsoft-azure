@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/10/14/microsoft-explains-how-it-improve
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/14/microsoft-explains-how-it-improved-automatic-image-captioning-in-azure-cognitive-services/amp/"
 type: article
 quality: 120
-heat: 760
+heat: 780
 published: true
 
 provider:
@@ -457,6 +457,15 @@ related:
       name: Business Wire
       domain: businesswire.com
     quality: 12
+  - title: "Microsoft price target raised at Jefferies ahead of FQ1 earnings, expecting continued Azure strength"
+    excerpt: "Ahead of the fiscal Q1 results, Jefferies raises its (NASDAQ:MSFT) price target from $240 to $260.Analyst Brent Thill calls \"one of the best pillars in software, with a durable financial model featuring near double-digit rev growth."
+    publishedDateTime: 2020-10-19T13:11:00Z
+    webUrl: "https://seekingalpha.com/news/3623215-microsoft-price-target-raised-jefferies-ahead-of-fq1-earnings-expecting-continued-azure"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 2
 
 secured: "hNQ4ni1P+HUXcVJD0h1fgIF86CIo6SP6/p8fS7pwd/PxLf5/2lv5XvqWxwQ5G8KHn6UayZNihPeoQ2l+vSEd32UbJVhbDQFLamo4+G7wWKSBVb89jhT2wxDCwrto/7n3JyUCSA65JkYtUz73AODfHayKqcxKC15YFFGpHNihVdqmB4RVWClUyytEvI1zwLk97fgoLyeon3SF+FOFjV8Sj8MNZCWsUFS+CtTlhEIfGRODKbcdZowsZlUC+oKImDWj0pqif3lnv14q1NSoQ9u56uWFVOkSz+wv54sqIAF8fn5m4gjcvEDtMSTO7EEtt559dKRAM39sOltE3b0Y9RAI7y1znU4BeKvC6L2jp3nSEig=;tFAqfquqY2XZyW1BUkgM+Q=="
 ---
