@@ -4,7 +4,7 @@ excerpt: "Azure Data Fundamentals: Explore non-relational data in Azure"
 type: collection
 price: Free
 length: PT2H37M
-heat: 52
+heat: 53
 
 provider:
   name: Microsoft Learn

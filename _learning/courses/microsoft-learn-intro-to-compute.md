@@ -6,9 +6,9 @@ type: course
 price: Free
 length: PT38M
 ratings:
-  count: 64133
-  average: 4.7106013
-heat: 70
+  count: 64136
+  average: 4.7105994
+heat: 68
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ topics:
   - Blockchain
   - Integration
 
-secured: "TJx81Jo1hP/i1r/ZepNP+PdL7qAS2/AKLdO/swTmAazm7skUd8xJQ2advytvUaFtE0h7X6cEX1iE84Z9TgbZOiYztaPnZvTExXIqKW/TDy78CRyTPefJxmihoK3xlXWEoaLepup8F7duG6EL5vgGmduof5VEnde6hUTUO0E6yAlBp5GG7dkr6XhrNTCf4mGCcCAT3Iha3FrhFOS8/Gn9eC4ej5eOFa1NyBd97TrtjCwWw7p76V/RIOeeBakHD5iaiaoLCdSCp6qsPT5KIycIUEdUCOPVLFKMASQeaFV/ns6hzeJX2Cma6iHz3Xer/nEqLR3+wjprWpRZ+FrAxlm5+SxfeCdprDnCb4FfYTF7oViz97bcT4iu6+jqTK9Vbx9c1rqgvrfmygywEe9e/OcugzPP8qeF9Qwa3O5D2G5iR7p3EcmBGoV2UoGwONOAFx1n;EVfho37BlhVZNpwL7T8hKg=="
+secured: "RgnNE5kwKb73Do85+Ugn8pToylQRcHWXjOn9wUkd+cd8gUIz1VfuXkDzrfq7I311wwiD+aNAunCe7u50bqAZhrm8j2HkHBwkqIluuvQQIRIyMN5V54J7PAUSSph7j8jRhxKhWjQTdMu+2mPedPlgZuZYHgeqzPWLOJjofRnz5HgJA4U1M1ehFWzsifdSeX29K3eKaBlTLczwIf/OpzHnp9xZT/MiN1tjs8XJt2Og9mnLu9R3I3Rq7rnnKMOuiDNl5mDeN3HnWuVxB0UafEuAO5Cf47OdrpBur2KPt6KSjTX2z8crhpNORZQtjQUs1OH7zWlXhWoUMDZxWtZjTCxyPzh0h8cDSdOhX/oR2Ltt3ugvM7uj+pnrnXF8e0lPWeaqn/XNHmIx0k3CIlMVlvqTXFUazYoL1QnHA+IMJrPY6xnu0EAneFwaJzGNirBOSWaN;zItRKyjoOBXVHegMSgPDYQ=="
 ---
 
