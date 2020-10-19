@@ -341,6 +341,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 36
+  - title: "Starburst Enterprise for Presto Now Available in The Microsoft Azure Marketplace"
+    excerpt: "Starburst today announced the availability of Starburst Enterprise for Presto in the Microsoft Azure Marketplace, an online store that provides applications and services for use on Microsoft Azure. Starburst customers can now take advantage of the productive and trusted Azure cloud platform,"
+    publishedDateTime: 2020-10-13T15:00:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/e6dadaa0cc714fdd8db3ade2f6e78a8a"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 32
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "CDW Recognized as Microsoft Azure Expert Managed Service Provider to Meet Evolving Customer Needs"
     excerpt: "This recent recognition demonstrates CDW’s commitment to providing customers with best-in-class design, orchestration, and managed services on Azure with a focus on future succe"
     publishedDateTime: 2020-10-09T12:30:00Z
