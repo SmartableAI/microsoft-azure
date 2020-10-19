@@ -1,21 +1,27 @@
 ---
 category: news
 title: "EPAM Has Earned the Modernization of Web Applications in Microsoft Azure Advanced Specialization"
-excerpt: "PRNewswire/ -- (NYSE: EPAM), a leading global provider of digital platform engineering and software development services, today announced it has earned the"
+excerpt: "PRNewswire/ -- EPAM Systems, Inc. (NYSE: EPAM), a leading global provider of digital platform engineering and software development services, today"
 publishedDateTime: 2020-10-19T14:00:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/epam-has-earned-the-modernization-of-web-applications-in-microsoft-azure-advanced-specialization/article_01ba3404-826b-5562-83f2-124287b159ae.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/epam-has-earned-the-modernization-of-web-applications-in-microsoft-azure-advanced-specialization/article_01ba3404-826b-5562-83f2-124287b159ae.html"
+originalUrl: "https://www.prnewswire.com/news-releases/epam-has-earned-the-modernization-of-web-applications-in-microsoft-azure-advanced-specialization-301154325.html"
+webUrl: "https://www.prnewswire.com/news-releases/epam-has-earned-the-modernization-of-web-applications-in-microsoft-azure-advanced-specialization-301154325.html"
 type: article
-quality: 4
+quality: 24
 heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Azure
+
+images:
+  - url: "https://mma.prnewswire.com/media/722474/EPAM_Logo.jpg?p=facebook"
+    width: 2456
+    height: 1287
+    isCached: true
 
 related:
   - title: "Microsoft explains how it improved automatic image captioning in Azure Cognitive Services"
@@ -484,6 +490,6 @@ related:
       domain: seekingalpha.com
     quality: 2
 
-secured: "itmu8cfozVUCqCzmOU1/+Hu++pylBA2Fx+lzs3ccZNwFaPRiwyBbhfdBqikGtGjNzesiYPOVIY9LVMp7lFxXARTvVqmav63kSb8vKGr8gZ6QcIzb5f2sVSb3FuxMYYMouP/U1Lsm0p4TWbLhqo0lbGRA3cnTb3QLWQ/S+WVeoy9BvYKmZgUVAWmmqkD1fwVYQZoLArhQw/9gxcWAcK65NvsMx86GNNpd6W5VEuHL+hE6ys07tVE4ZetqnJUp7TikdjELsaXaIibejV4hQwN/M1gnUgqv6UeLoyKbFVBqO9K4YD2ApQtA7pz0bxqwjEI4RUcvhQgKC02sYSrNC/C0EHUHRUdhFnssJr8paFGrvejM1L1lBComGeI5I6E0VqTRwN5KUgXyNd0HBfcecLm4t6fPGKT6TcUp3uiDeAXwBrDhcMGT0JlhPzrFAtC5jJxx8t43NP5kiyhfO/1VgNYdbNiCcshXpzRK89VJxlhrJa31dWmRNI49yitXWAn5p//QSbBmMJRLR/77d490bZpBYQ==;ihI0Xp8VEpDtkTseUrDGdw=="
+secured: "Nym6i1FIhOQkercZ/duvVW7fK6M0bA1iBqotYNNTZVITytkIUU3BkH3SMToaO5/bnhFukMbKj2m18K+1+8HpAnAm25bMrLurfNqihB8rayGRiKL8jGbKvvhdfDtGdPBW3mFFPqScnmG0vfrhcPyRdxAwLIaB/lT7SnZrbFqUXowLIq9SxBfplQZQW1FrKUrnrU9Bq6jIpGiqZD9lC9REXiLP47tDDE0Y1muaoMiUQjCSMnAsuWfn02SJtVSvzJ1Ck8m+DW2mrj1PaXPI5+SgtPTvm6iio7Q/BskmyZV3ut0MEPEEm8NDpV8qhZTexfk8I4FmNZnqPpyOEAgrLho+C/Q0Gp/59BhwZYyi09Lw6iE=;2FnLEJa8Di2/lHk0A8b9mA=="
 ---
 

@@ -383,6 +383,20 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "EPAM Has Earned the Modernization of Web Applications in Microsoft Azure Advanced Specialization"
+    excerpt: "PRNewswire/ -- EPAM Systems, Inc. (NYSE: EPAM), a leading global provider of digital platform engineering and software development services, today"
+    publishedDateTime: 2020-10-19T14:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/epam-has-earned-the-modernization-of-web-applications-in-microsoft-azure-advanced-specialization-301154325.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 24
+    images:
+      - url: "https://mma.prnewswire.com/media/722474/EPAM_Logo.jpg?p=facebook"
+        width: 2456
+        height: 1287
+        isCached: true
   - title: "Dicker Data launches Microsoft Cloud unit"
     excerpt: "Dicker Data has launched a new Microsoft Cloud business unit under the leadership of Sarah Loiterton as general manager."
     publishedDateTime: 2020-10-14T05:35:00Z
@@ -466,15 +480,6 @@ related:
       name: Business Wire
       domain: businesswire.com
     quality: 12
-  - title: "EPAM Has Earned the Modernization of Web Applications in Microsoft Azure Advanced Specialization"
-    excerpt: "PRNewswire/ -- (NYSE: EPAM), a leading global provider of digital platform engineering and software development services, today announced it has earned the"
-    publishedDateTime: 2020-10-19T14:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/epam-has-earned-the-modernization-of-web-applications-in-microsoft-azure-advanced-specialization/article_01ba3404-826b-5562-83f2-124287b159ae.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 4
   - title: "Microsoft price target raised at Jefferies ahead of FQ1 earnings, expecting continued Azure strength"
     excerpt: "Ahead of the fiscal Q1 results, Jefferies raises its (NASDAQ:MSFT) price target from $240 to $260.Analyst Brent Thill calls \"one of the best pillars in software, with a durable financial model featuring near double-digit rev growth."
     publishedDateTime: 2020-10-19T13:11:00Z
@@ -485,6 +490,6 @@ related:
       domain: seekingalpha.com
     quality: 2
 
-secured: "8APPryXh5Y1BD2qvMQYyUbRepfGC0zHzX0147eIs5rsFMnoVWV6rW62XMmc39Q4aD+venaF7mlT+Rnq4eZW2vj+XSvvQQx5uNBPWW+HOF6v3e8MryNvcvVFc1N0isWy2B6xN1tDgS/9C9aR6HgMgvGNBKo37l/K1pb8f0nEwc0r7y4HqDZultqHITxW1VkLgJWw2MPWvZ4n4p9hAZrSw7Zj0kxuIGUWM4zAqEEOFTckyQXB27QL+JBLkdP0WU2ttxXeb6njPE/3re2GxONhelVdAtPXdiprG6kuw8Feb1whoEHho/EBpwaHER6/V/0RdLAnEuTk3uHgmsrmgOV8N/RWwOwtRSDCP6CF4WqvSSRI=;SuvJCxY1OSHsNjN7cR9spw=="
+secured: "ul+B1Xk6qcnGPPxIagncp9/B0FOrWQE5qq3RlPqkLVwfhFhCHUv3zJM5Qp8JMi371qCZGYbppoA3UWq1hXlSlrE7OGx09YWCuMK3E6XYb27XYWXPezYCJT/1KsG9FFGBACYb3ngyFqbrBkyx/Cxqff6fCF4hfUdSODdQfGHIvM39sLD2kpGM85lu4/hw5bK51OHr3a6oDxSr2i43tORiLCCfPHV4p/+GDxlAsHrnpJWEfDz3wequqi+IC3Jt3BYgqrH1MPJfr1merjK/AEeyg9xNxUvXIGC7yO81/UETQn3qY9JuALo+UZSaG2LHDPFQhjhtmuqs6v/ktWUD9Ciw1daMfr+GgBXlqMbd1U04VjzKGJkBfW0KaVZi70/SpxoewY86acq6oqd6Ftn2bq/w71d3t09+jDly2RHCg9UQO+AemRg8i81ED6zH19wDyMtlqu1SKws/r06COH1Xbz4VqiPT64E27ofz5euAfAUXIyw7bsFLOzXxo0eFCNNEBfonQ2q8HDtd7d+R7XUHtc019Q==;ET2ISzqDRKPXZAnIDTxA9w=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/azure-devtest-labs-encry
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-devtest-labs-encrypt-os-disks-in-your-lab/"
 type: article
 quality: 84
-heat: 124
+heat: 104
 published: true
 
 provider:
@@ -27,15 +27,6 @@ related:
     excerpt: "Isolate environments from unwanted traffic with Azure DevTest Labs."
     publishedDateTime: 2020-10-14T16:00:17Z
     webUrl: "https://azure.microsoft.com/en-us/updates/azure-devtest-labs-create-a-network-isolated-lab/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 84
-  - title: "Azure DevTest Labs now available in more regions"
-    excerpt: "Explore Azure DevTest Labs in UAE North, Germany West Central and Norway East regions."
-    publishedDateTime: 2020-10-14T16:00:17Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-devtest-labs-now-available-in-more-regions/"
     type: article
     provider:
       name: Microsoft

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.androidauthority.com/aws-vs-azure-vs-google-cloud-115941
 cdnAmpWebUrl: "https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/aws-vs-azure-vs-google-cloud-1159412/amp/"
 type: article
 quality: 93
-heat: 93
+heat: 94
 published: true
 
 provider:

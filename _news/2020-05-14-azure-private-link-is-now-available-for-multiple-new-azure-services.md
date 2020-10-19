@@ -30,15 +30,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 17
-  - title: "Private Link is now available on Event Grid"
+  - title: "New Azure IoT Central features are now available"
     excerpt: ""
-    publishedDateTime: 2020-05-13T16:00:54Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/private-link-is-now-available-on-event-grid/"
+    publishedDateTime: 2020-05-19T16:05:41Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/new-azure-iot-central-features-are-now-available/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 2
+    quality: 17
 
 secured: "wsHBGmow0cPyT+B95gVkE4RiHjf7OkH0jJObJooXEvv+Kzgw53NsHJkQvC4lm975o3QyMc5e/sEg5hrLb3GTRq8HbnbVaCCT0cnb4rhrMJxDBHYUvF5lhSB/jqLF0+T1fDNUkZI5CY32S0LuuNRcgeqHJ8mvt4quUzAdH1e1PXXWqgEThlC4XgErj9EBsvghJPdTe+KApDiA3Upo7wMR5iDDF3z4wRT6RbTibo9KjBjGox+hiiF1lBpuEpzGOhCopaG6GLwNOatTLEVAJohOXWS7fWxh1ErC/7T1KwCtXwZ25Zadfxe4GHmhw8cpfJtzwQ8pjLyqiAdUnDbZ1ppo2g==;SGlVPr+KTrkukd7aRzg2/w=="
 ---

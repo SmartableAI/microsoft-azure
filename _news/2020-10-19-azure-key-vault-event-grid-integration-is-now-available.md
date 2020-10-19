@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Azure IoT Edge 1.0.10 release is now available "
-excerpt: "The Azure IoT Edge 1.0.10 release is available with support for diagnostic metrics, message priorities, module startup order, and arrays in twins. "
-publishedDateTime: 2020-10-13T19:17:08Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/iot-edge1-0-10/"
-webUrl: "https://azure.microsoft.com/en-us/updates/iot-edge1-0-10/"
+title: "Azure Key Vault Event Grid integration is now available"
+excerpt: "Azure Key Vault is now an events publisher with Azure Event Grid, enabling developers to subscribe to events about keys, certificates, and secrets changes."
+publishedDateTime: 2020-10-19T16:00:11Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/azure-key-vault-event-grid-integration-is-now-available/"
+webUrl: "https://azure.microsoft.com/en-us/updates/azure-key-vault-event-grid-integration-is-now-available/"
 type: article
-quality: 84
-heat: -1
-published: false
+quality: 116
+heat: 216
+published: true
 
 provider:
   name: Microsoft
@@ -20,18 +20,19 @@ provider:
 
 topics:
   - Azure
-  - IoT
+  - Security
+  - Integration
 
 related:
-  - title: "Azure Key Vault Event Grid integration is now available"
-    excerpt: "Azure Key Vault is now an events publisher with Azure Event Grid, enabling developers to subscribe to events about keys, certificates, and secrets changes."
-    publishedDateTime: 2020-10-19T16:00:11Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-key-vault-event-grid-integration-is-now-available/"
+  - title: "Azure IoT Edge 1.0.10 release is now available "
+    excerpt: "The Azure IoT Edge 1.0.10 release is available with support for diagnostic metrics, message priorities, module startup order, and arrays in twins. "
+    publishedDateTime: 2020-10-13T19:17:08Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/iot-edge1-0-10/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 116
+    quality: 84
   - title: "Azure DevTest Labs now available in more regions"
     excerpt: "Explore Azure DevTest Labs in UAE North, Germany West Central and Norway East regions."
     publishedDateTime: 2020-10-14T16:00:17Z
@@ -69,6 +70,6 @@ related:
       domain: microsoft.com
     quality: 2
 
-secured: "f5WOSxKOnWWoeaFvSFe7T7yCqVby2wAsdouCKuDKv81HLepHGRpeGiuUR7iQ/s9prAgLqPnpFq25aZXnvqouPHTGSKoYhecjsb4vT2l7EKdxIKZSL5B45tQ78M002BbKcj1s3qgInaMun/tTDhk2m1GDqlgzFWbzPfWKTozmBb1qYORIR7y552CPecpSRTUOPjcCRcG0KXroE4CksObhJD7p1A168EqbkWo5obG3bbuOmD+RfyLiF2Pqo/5hQhJs/MyOo1zvys7oid+ixzlel5J67CJ0FGDeq9mVDyAzA5rWERr2pntQy1MleCgOvM/YZasM6kzdJPgEaN3EvBFDA8NcmdRLDMjnWHfU+I63+Us=;hhx0gqcdKq8ck6STMVli1A=="
+secured: "FTPIy1oSnJfUwvlHW6L3bSfFLIy5e2NdDLWW7JlOu/5blUDds65ctjiFIqwRgPIELcHOvpiVD84LphZjGIeJXHsjAl2ED5m3GC46Tot80MNR2ckFoiAYnEGRo9fSHNU71P/bHGpnDlxY03iD353RsyKezT1oHaYkoSG/JGYO31K5htDxDWnDbk4OEjwiWmUfxDewH+/rIH0jw9O8RbnL0HvXBCBZd0IkBV0YF2iQ8eYaIyBsoKbArFT49p3Pim09LT8PR/qDQDmTSVgkXV+3xcEzVlnpybn4JHBkKcwolSI3mpVSe3Af9XGOoI0XwZ4RLBAei3cdVm38tDi7xa56SBqgddpKH9pbeNhQYhquqGc=;Bdo11EnhHoyNCiF1Yer8Nw=="
 ---
 

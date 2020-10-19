@@ -391,6 +391,20 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "EPAM Has Earned the Modernization of Web Applications in Microsoft Azure Advanced Specialization"
+    excerpt: "PRNewswire/ -- EPAM Systems, Inc. (NYSE: EPAM), a leading global provider of digital platform engineering and software development services, today"
+    publishedDateTime: 2020-10-19T14:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/epam-has-earned-the-modernization-of-web-applications-in-microsoft-azure-advanced-specialization-301154325.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 24
+    images:
+      - url: "https://mma.prnewswire.com/media/722474/EPAM_Logo.jpg?p=facebook"
+        width: 2456
+        height: 1287
+        isCached: true
   - title: "Dicker Data launches Microsoft Cloud unit"
     excerpt: "Dicker Data has launched a new Microsoft Cloud business unit under the leadership of Sarah Loiterton as general manager."
     publishedDateTime: 2020-10-14T05:35:00Z
@@ -474,15 +488,6 @@ related:
       name: Business Wire
       domain: businesswire.com
     quality: 12
-  - title: "EPAM Has Earned the Modernization of Web Applications in Microsoft Azure Advanced Specialization"
-    excerpt: "PRNewswire/ -- (NYSE: EPAM), a leading global provider of digital platform engineering and software development services, today announced it has earned the"
-    publishedDateTime: 2020-10-19T14:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/epam-has-earned-the-modernization-of-web-applications-in-microsoft-azure-advanced-specialization/article_01ba3404-826b-5562-83f2-124287b159ae.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 4
 
 secured: "JG+O8JkiXl6ORVjrzcB7qT010cNNNJrkdPZwya4Aq3qTfEkDXsWsZ/o358oCBM1v+NcJ0kuNuvzS9hkhC4wO1xtWAY59YWDDJQdqTI3m1d17uwPWrQvKVm25wxr7ikG0SkWS4/a0qmaHnKbgp2JmZ1rXqilSKTyxV8JAhcKxVCSAM/jTtISVi7awdViK14Ig4TdlqtRpBugnh4eEE9rxgDrJXA2Rp7EoQmaBt1QGs1Lf4nAYtEMJt9psUf2vYUUx5b4boMYmkmGCYHETSlOkZaIkfoEDuU0NSTTEj38bYqihGvJo7w5qQYWBg9upjkjNZuPJnpv4ImM6O+05PUAPk2+WTV+r8QGOoprBkzG/41Y=;aopfw0ugqxUqQ8agNmwbhg=="
 ---

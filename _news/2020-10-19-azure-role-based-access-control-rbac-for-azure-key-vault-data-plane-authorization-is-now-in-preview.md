@@ -1,12 +1,12 @@
 ---
 category: news
-title: "Azure IoT Edge 1.0.10 release is now available "
-excerpt: "The Azure IoT Edge 1.0.10 release is available with support for diagnostic metrics, message priorities, module startup order, and arrays in twins. "
-publishedDateTime: 2020-10-13T19:17:08Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/iot-edge1-0-10/"
-webUrl: "https://azure.microsoft.com/en-us/updates/iot-edge1-0-10/"
+title: "Azure role-based access control (RBAC) for Azure Key Vault data plane authorization is now in preview"
+excerpt: "Achieve unified management and access control across Azure resources, Azure Key Vault and keys, certificates, and secrets."
+publishedDateTime: 2020-10-19T16:00:01Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/azure-rolebased-access-control-rbac-for-azure-key-vault-data-plane-authorization-is-now-in-preview/"
+webUrl: "https://azure.microsoft.com/en-us/updates/azure-rolebased-access-control-rbac-for-azure-key-vault-data-plane-authorization-is-now-in-preview/"
 type: article
-quality: 84
+quality: 69
 heat: -1
 published: false
 
@@ -20,7 +20,7 @@ provider:
 
 topics:
   - Azure
-  - IoT
+  - Security
 
 related:
   - title: "Azure Key Vault Event Grid integration is now available"
@@ -32,6 +32,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 116
+  - title: "Azure IoT Edge 1.0.10 release is now available "
+    excerpt: "The Azure IoT Edge 1.0.10 release is available with support for diagnostic metrics, message priorities, module startup order, and arrays in twins. "
+    publishedDateTime: 2020-10-13T19:17:08Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/iot-edge1-0-10/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
   - title: "Azure DevTest Labs now available in more regions"
     excerpt: "Explore Azure DevTest Labs in UAE North, Germany West Central and Norway East regions."
     publishedDateTime: 2020-10-14T16:00:17Z
@@ -41,15 +50,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 84
-  - title: "Azure role-based access control (RBAC) for Azure Key Vault data plane authorization is now in preview"
-    excerpt: "Achieve unified management and access control across Azure resources, Azure Key Vault and keys, certificates, and secrets."
-    publishedDateTime: 2020-10-19T16:00:01Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-rolebased-access-control-rbac-for-azure-key-vault-data-plane-authorization-is-now-in-preview/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 69
   - title: "Azure Sphere update 20.10 is now available for compatibility testing"
     excerpt: "The Azure Sphere OS update 20.10 is now available for evaluation via the Retail Eval feed. The 20.10 evaluation release includes an OS update as well as a special evaluation version of the SDK for use during this period. T"
     publishedDateTime: 2020-10-14T18:25:51Z
@@ -69,6 +69,6 @@ related:
       domain: microsoft.com
     quality: 2
 
-secured: "f5WOSxKOnWWoeaFvSFe7T7yCqVby2wAsdouCKuDKv81HLepHGRpeGiuUR7iQ/s9prAgLqPnpFq25aZXnvqouPHTGSKoYhecjsb4vT2l7EKdxIKZSL5B45tQ78M002BbKcj1s3qgInaMun/tTDhk2m1GDqlgzFWbzPfWKTozmBb1qYORIR7y552CPecpSRTUOPjcCRcG0KXroE4CksObhJD7p1A168EqbkWo5obG3bbuOmD+RfyLiF2Pqo/5hQhJs/MyOo1zvys7oid+ixzlel5J67CJ0FGDeq9mVDyAzA5rWERr2pntQy1MleCgOvM/YZasM6kzdJPgEaN3EvBFDA8NcmdRLDMjnWHfU+I63+Us=;hhx0gqcdKq8ck6STMVli1A=="
+secured: "AwZQBWxxYi6FTJ8sQGkZkvYr61YAK1kiZCXmofWi0ImdudCGCk32QRe0Zt7knHGycgMEc7Eh1wpPDxrLqZbx4SmCNC5ZSIZNOGzlJh/WYaZNI46wDKkcmP+gVBq3YVx5Xg8un57jxlGw9sXWmTPNDZmTCNyLW2oj1khQAB6T5nCufcpWkyHXUi7UYN6RiJ95T5sdUsXRvKHkqkZWjz7F2jYnWrgw7aiIoY9MjKVqTFcvGARBCmT5A9JnxZSg9G5wrUOWC/OE9QybsuVzomHEAsfP9iInPGCeqmAz4IGoVeMAyLJjt+0hMdOqc3u9JHdu9KJZof6iPHfzbrE5l3q4/DOn8I5IDnuSEG5e7Shibck=;qjc20x10t/6hz25X41ozXQ=="
 ---
 
