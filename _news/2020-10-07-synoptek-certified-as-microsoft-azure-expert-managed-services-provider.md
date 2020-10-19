@@ -128,6 +128,20 @@ related:
         width: 549
         height: 309
         isCached: true
+  - title: "Synoptek Certified as Microsoft Azure Expert Managed Services Provider"
+    excerpt: "Synoptek, a leading business and technology consulting firm, announced it has become certified as a Microsoft Azure Expert Managed Service Provider (MSP). Microsoft has only recognized 62 partners globally that meet the standards to be an Azure Expert MSP."
+    publishedDateTime: 2020-10-06T15:38:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-products-and-services-cloud-computing-4aecd11dd14e4c5eb0e125d15d0a4dce"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 37
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Komprise is also selected as a co-sell ready partner for Microsoft Azure"
     excerpt: "PRNewswire/ -- Komprise, the leader in analytics-driven data management, today announced new capabilities for its Intelligent Data Management solution in Microsoft Azure. Customers can"
     publishedDateTime: 2020-10-06T14:32:00Z

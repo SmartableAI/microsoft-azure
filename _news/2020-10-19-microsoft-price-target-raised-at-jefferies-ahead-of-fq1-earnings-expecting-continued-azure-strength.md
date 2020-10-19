@@ -326,6 +326,20 @@ related:
         width: 300
         height: 250
         isCached: true
+  - title: "Microsoft Azure Will Propel The Company's Earnings And Stock"
+    excerpt: "Microsoft’s Azure is growing at extraordinary rates with YoY growth rates of approximately 50%-60%. The Total Addressable Market (TAM) is thought to be ~$3.7T (by high-ranking insiders) where so far only about 3% has been addressed by players."
+    publishedDateTime: 2020-10-19T15:33:00Z
+    webUrl: "https://seekingalpha.com/article/4379748-microsoft-azure-will-propel-companys-earnings-and-stock"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 37
+    images:
+      - url: "https://static.seekingalpha.com/uploads/2020/10/3948_16027789274805_rId4.png"
+        width: 1280
+        height: 800
+        isCached: true
   - title: "Tamr Announces the Only Cloud-Native Data Mastering Solutions for Google Cloud Platform, AWS, and Microsoft Azure"
     excerpt: "PRNewswire/ -- Tamr, Inc., a cloud-native data mastering platform used by some of the world's largest enterprises"
     publishedDateTime: 2020-10-07T13:35:00Z
@@ -460,6 +474,15 @@ related:
       name: Business Wire
       domain: businesswire.com
     quality: 12
+  - title: "EPAM Has Earned the Modernization of Web Applications in Microsoft Azure Advanced Specialization"
+    excerpt: "PRNewswire/ -- (NYSE: EPAM), a leading global provider of digital platform engineering and software development services, today announced it has earned the"
+    publishedDateTime: 2020-10-19T14:00:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/epam-has-earned-the-modernization-of-web-applications-in-microsoft-azure-advanced-specialization/article_01ba3404-826b-5562-83f2-124287b159ae.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 4
 
 secured: "JG+O8JkiXl6ORVjrzcB7qT010cNNNJrkdPZwya4Aq3qTfEkDXsWsZ/o358oCBM1v+NcJ0kuNuvzS9hkhC4wO1xtWAY59YWDDJQdqTI3m1d17uwPWrQvKVm25wxr7ikG0SkWS4/a0qmaHnKbgp2JmZ1rXqilSKTyxV8JAhcKxVCSAM/jTtISVi7awdViK14Ig4TdlqtRpBugnh4eEE9rxgDrJXA2Rp7EoQmaBt1QGs1Lf4nAYtEMJt9psUf2vYUUx5b4boMYmkmGCYHETSlOkZaIkfoEDuU0NSTTEj38bYqihGvJo7w5qQYWBg9upjkjNZuPJnpv4ImM6O+05PUAPk2+WTV+r8QGOoprBkzG/41Y=;aopfw0ugqxUqQ8agNmwbhg=="
 ---

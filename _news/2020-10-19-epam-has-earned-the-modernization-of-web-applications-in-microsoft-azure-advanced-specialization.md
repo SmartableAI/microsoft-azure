@@ -1,27 +1,21 @@
 ---
 category: news
-title: "CDW Recognized as Microsoft Azure Expert Managed Service Provider to Meet Evolving Customer Needs"
-excerpt: "This recent recognition demonstrates CDW’s commitment to providing customers with best-in-class design, orchestration, and managed services on Azure with a focus on future succe"
-publishedDateTime: 2020-10-09T12:30:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-products-and-services-cloud-computing-a0220a2923184a56ae2395c672ca0e92"
-webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-products-and-services-cloud-computing-a0220a2923184a56ae2395c672ca0e92"
+title: "EPAM Has Earned the Modernization of Web Applications in Microsoft Azure Advanced Specialization"
+excerpt: "PRNewswire/ -- (NYSE: EPAM), a leading global provider of digital platform engineering and software development services, today announced it has earned the"
+publishedDateTime: 2020-10-19T14:00:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/epam-has-earned-the-modernization-of-web-applications-in-microsoft-azure-advanced-specialization/article_01ba3404-826b-5562-83f2-124287b159ae.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/epam-has-earned-the-modernization-of-web-applications-in-microsoft-azure-advanced-specialization/article_01ba3404-826b-5562-83f2-124287b159ae.html"
 type: article
-quality: 24
+quality: 4
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - Azure
-
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
 
 related:
   - title: "Microsoft explains how it improved automatic image captioning in Azure Cognitive Services"
@@ -383,6 +377,20 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "CDW Recognized as Microsoft Azure Expert Managed Service Provider to Meet Evolving Customer Needs"
+    excerpt: "This recent recognition demonstrates CDW’s commitment to providing customers with best-in-class design, orchestration, and managed services on Azure with a focus on future succe"
+    publishedDateTime: 2020-10-09T12:30:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-products-and-services-cloud-computing-a0220a2923184a56ae2395c672ca0e92"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 24
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Dicker Data launches Microsoft Cloud unit"
     excerpt: "Dicker Data has launched a new Microsoft Cloud business unit under the leadership of Sarah Loiterton as general manager."
     publishedDateTime: 2020-10-14T05:35:00Z
@@ -466,15 +474,6 @@ related:
       name: Business Wire
       domain: businesswire.com
     quality: 12
-  - title: "EPAM Has Earned the Modernization of Web Applications in Microsoft Azure Advanced Specialization"
-    excerpt: "PRNewswire/ -- (NYSE: EPAM), a leading global provider of digital platform engineering and software development services, today announced it has earned the"
-    publishedDateTime: 2020-10-19T14:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/epam-has-earned-the-modernization-of-web-applications-in-microsoft-azure-advanced-specialization/article_01ba3404-826b-5562-83f2-124287b159ae.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 4
   - title: "Microsoft price target raised at Jefferies ahead of FQ1 earnings, expecting continued Azure strength"
     excerpt: "Ahead of the fiscal Q1 results, Jefferies raises its (NASDAQ:MSFT) price target from $240 to $260.Analyst Brent Thill calls \"one of the best pillars in software, with a durable financial model featuring near double-digit rev growth."
     publishedDateTime: 2020-10-19T13:11:00Z
@@ -485,6 +484,6 @@ related:
       domain: seekingalpha.com
     quality: 2
 
-secured: "D7vTYCIB5blezvlRNvGI0ljNZ3AGrWNw/6RlxSViS2AyX2tDwyZ+uhqOYzZ7r7mB4eWmsKEJqRDd1KDm9h3CixfZORs6LCDZPYV2HyeWVbwT2AanphFh3O4/dqzdmpzw/BD++fz4nbPOON09Aqbac8lqW6033yoZ5z/DKbQlNqAKc+7ech816XgSxChAK8nhOaTVpHrTWcO8VrSuXCgLmBE0fKhAesuX7CzAaEDAF5A1J7fi94HeOFYLP/vO5pGRxy54iyYbdhVQe1Bk7S1RuLq+fWyyJV032fdOA8daaLPuR+YfrYCpA8Ux/IFOVZ1Q/r9AWslglN62U6qrdJHZF8s1QRqWeVzut3qj09I3A0E=;e6bZSg2TMiJvTbARDsusUA=="
+secured: "itmu8cfozVUCqCzmOU1/+Hu++pylBA2Fx+lzs3ccZNwFaPRiwyBbhfdBqikGtGjNzesiYPOVIY9LVMp7lFxXARTvVqmav63kSb8vKGr8gZ6QcIzb5f2sVSb3FuxMYYMouP/U1Lsm0p4TWbLhqo0lbGRA3cnTb3QLWQ/S+WVeoy9BvYKmZgUVAWmmqkD1fwVYQZoLArhQw/9gxcWAcK65NvsMx86GNNpd6W5VEuHL+hE6ys07tVE4ZetqnJUp7TikdjELsaXaIibejV4hQwN/M1gnUgqv6UeLoyKbFVBqO9K4YD2ApQtA7pz0bxqwjEI4RUcvhQgKC02sYSrNC/C0EHUHRUdhFnssJr8paFGrvejM1L1lBComGeI5I6E0VqTRwN5KUgXyNd0HBfcecLm4t6fPGKT6TcUp3uiDeAXwBrDhcMGT0JlhPzrFAtC5jJxx8t43NP5kiyhfO/1VgNYdbNiCcshXpzRK89VJxlhrJa31dWmRNI49yitXWAn5p//QSbBmMJRLR/77d490bZpBYQ==;ihI0Xp8VEpDtkTseUrDGdw=="
 ---
 

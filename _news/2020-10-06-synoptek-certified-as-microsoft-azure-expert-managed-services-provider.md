@@ -1,28 +1,26 @@
 ---
 category: news
-title: "Microsoft Expands Azure Cloud Reach with Major Investment in Greece"
-excerpt: "Microsoft says Azure cloud data centers will be built in Greece, helping to boost the country’s economy in coming years."
-publishedDateTime: 2020-10-05T14:10:00Z
-originalUrl: "https://winbuzzer.com/2020/10/05/microsoft-expands-azure-cloud-reach-with-major-investment-in-greece-xcxwbn/"
-webUrl: "https://winbuzzer.com/2020/10/05/microsoft-expands-azure-cloud-reach-with-major-investment-in-greece-xcxwbn/"
-ampWebUrl: "https://winbuzzer.com/2020/10/05/microsoft-expands-azure-cloud-reach-with-major-investment-in-greece-xcxwbn/?amp"
-cdnAmpWebUrl: "https://winbuzzer-com.cdn.ampproject.org/c/s/winbuzzer.com/2020/10/05/microsoft-expands-azure-cloud-reach-with-major-investment-in-greece-xcxwbn/?amp"
+title: "Synoptek Certified as Microsoft Azure Expert Managed Services Provider"
+excerpt: "Synoptek, a leading business and technology consulting firm, announced it has become certified as a Microsoft Azure Expert Managed Service Provider (MSP). Microsoft has only recognized 62 partners globally that meet the standards to be an Azure Expert MSP."
+publishedDateTime: 2020-10-06T15:38:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-products-and-services-cloud-computing-4aecd11dd14e4c5eb0e125d15d0a4dce"
+webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-products-and-services-cloud-computing-4aecd11dd14e4c5eb0e125d15d0a4dce"
 type: article
-quality: 57
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: winbuzzer.com
-  domain: winbuzzer.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://winbuzzer.com/wp-content/uploads/2020/10/Microsoft-Cloud-Greece-Azure-Microsoft.jpg"
-    width: 960
-    height: 640
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -78,6 +76,22 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 58
+  - title: "Microsoft Expands Azure Cloud Reach with Major Investment in Greece"
+    excerpt: "Microsoft says Azure cloud data centers will be built in Greece, helping to boost the country’s economy in coming years."
+    publishedDateTime: 2020-10-05T14:10:00Z
+    webUrl: "https://winbuzzer.com/2020/10/05/microsoft-expands-azure-cloud-reach-with-major-investment-in-greece-xcxwbn/"
+    ampWebUrl: "https://winbuzzer.com/2020/10/05/microsoft-expands-azure-cloud-reach-with-major-investment-in-greece-xcxwbn/?amp"
+    cdnAmpWebUrl: "https://winbuzzer-com.cdn.ampproject.org/c/s/winbuzzer.com/2020/10/05/microsoft-expands-azure-cloud-reach-with-major-investment-in-greece-xcxwbn/?amp"
+    type: article
+    provider:
+      name: winbuzzer.com
+      domain: winbuzzer.com
+    quality: 57
+    images:
+      - url: "https://winbuzzer.com/wp-content/uploads/2020/10/Microsoft-Cloud-Greece-Azure-Microsoft.jpg"
+        width: 960
+        height: 640
+        isCached: true
   - title: "Microsoft cloud outages continue as Office and Outlook customers report problems"
     excerpt: "Microsoft's cloud services problems are continuing this week with more Azure and Microsoft 365 services issues for some customers. Here's what's happened and why."
     publishedDateTime: 2020-10-08T13:57:00Z
@@ -113,20 +127,6 @@ related:
       - url: "https://www.crn.com/resources/0261-107e1bc258dd-899507ddf083-1000/shot_of_corridor_in_working_data_center_full_of_rack_servers_and_supercomputers_with_cloud_storage_advantages_icon_visualization..jpeg"
         width: 549
         height: 309
-        isCached: true
-  - title: "Synoptek Certified as Microsoft Azure Expert Managed Services Provider"
-    excerpt: "Synoptek, a leading business and technology consulting firm, announced it has become certified as a Microsoft Azure Expert Managed Service Provider (MSP). Microsoft has only recognized 62 partners globally that meet the standards to be an Azure Expert MSP."
-    publishedDateTime: 2020-10-06T15:38:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-products-and-services-cloud-computing-4aecd11dd14e4c5eb0e125d15d0a4dce"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 37
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
         isCached: true
   - title: "Synoptek Certified as Microsoft Azure Expert Managed Services Provider"
     excerpt: "Synoptek, a leading business and technology consulting firm, announced it has become certified as a Microsoft Azure Expert Managed Service Provider (M"
@@ -273,6 +273,6 @@ related:
       domain: helpnetsecurity.com
     quality: 1
 
-secured: "7uM7yJAqRQCGt+fjFD1BM0Kfo/FfBP4rTQgBttyltnZrXCJJ7ZeHEA1/epTCIXToKs+sGVx3ZDaRikS+GWcS2z96EsYKjv2CaBfk4V7bZN4Oc/8fo2kS+lHU19wvMCTDxQkqxajPI4Mfj1SSKL6WQwIN5tsDAGuejZ9pM9eQtu83ik4M/ik9zx3WYNckTQvCD9G9hIEJse3gXOJ63vpwxEfktnoLGsKbEmEV0SAwUlwliGovHKrtIyOwtKpsJ2s7Dt283YeiWzFBrvQ1RD5PcjFSpiEN+EFFMiuACSxjKJsKEsYWJrGH0Y//6jMqactVQxCpnv5ahwcZx6qeZIhfOsaZQvvRMWKeyO+io+vs4cDu+J3RaZ9v5oGi+rAt6W6fhJQNwHDzd7eP8cOF4w7g7kVoAnpuq+O7yOtJlY/XBFtMTMI8fj/ACqLU6KbXJs5J9wYX92HgyTzczIByXUk2NV1wB6K0k+le9K5S/hA1iIwwe5vQ3VpuZaXbdLH3spXTu4N62Rc2G/f20stUHimehw==;EfZxNYmem1Cm97FU9p3btQ=="
+secured: "nfDEb8ZcaDP7HYxB3Yk7YN1jKDXmlF2BORk7yQ4e+zzue9jI/9zN8769u7uCrXwcgwWToAP5Ilaj4CCtLIYDdzdUHpGPCW1sJCN0D/bwGSjfZn6FmhGKFQY4GGha2DHJtaJLgtxIg5UVtePw7NfEVnr11WvDuay0YPjkii0WodIKlJW+5aouTDgJUEw8sgPsp/Y+QqU58vp3wZcGzmpiNcj2Z+eTx+Ctya4TcQglNvb02zd1iphHSE6SgL7AXNeQLN8mfB3uPyn4qlOoA+v3n2tDSTX+H3N7bUJNgIuh0esbuetgf2Z5+G6OOE8kwztQp0AjNiq+KjYLwD10W4sZW/6UJ0Zs9xaGpyyXgGud6KM=;LzTa4fsYizmS0I6e4JGLEQ=="
 ---
 

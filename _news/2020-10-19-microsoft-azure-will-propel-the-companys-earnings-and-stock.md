@@ -1,26 +1,26 @@
 ---
 category: news
-title: "CDW Recognized as Microsoft Azure Expert Managed Service Provider to Meet Evolving Customer Needs"
-excerpt: "This recent recognition demonstrates CDW’s commitment to providing customers with best-in-class design, orchestration, and managed services on Azure with a focus on future succe"
-publishedDateTime: 2020-10-09T12:30:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-products-and-services-cloud-computing-a0220a2923184a56ae2395c672ca0e92"
-webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-products-and-services-cloud-computing-a0220a2923184a56ae2395c672ca0e92"
+title: "Microsoft Azure Will Propel The Company's Earnings And Stock"
+excerpt: "Microsoft’s Azure is growing at extraordinary rates with YoY growth rates of approximately 50%-60%. The Total Addressable Market (TAM) is thought to be ~$3.7T (by high-ranking insiders) where so far only about 3% has been addressed by players."
+publishedDateTime: 2020-10-19T15:33:00Z
+originalUrl: "https://seekingalpha.com/article/4379748-microsoft-azure-will-propel-companys-earnings-and-stock"
+webUrl: "https://seekingalpha.com/article/4379748-microsoft-azure-will-propel-companys-earnings-and-stock"
 type: article
-quality: 24
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Seeking Alpha
+  domain: seekingalpha.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://static.seekingalpha.com/uploads/2020/10/3948_16027789274805_rId4.png"
+    width: 1280
+    height: 800
     isCached: true
 
 related:
@@ -332,20 +332,6 @@ related:
         width: 300
         height: 250
         isCached: true
-  - title: "Microsoft Azure Will Propel The Company's Earnings And Stock"
-    excerpt: "Microsoft’s Azure is growing at extraordinary rates with YoY growth rates of approximately 50%-60%. The Total Addressable Market (TAM) is thought to be ~$3.7T (by high-ranking insiders) where so far only about 3% has been addressed by players."
-    publishedDateTime: 2020-10-19T15:33:00Z
-    webUrl: "https://seekingalpha.com/article/4379748-microsoft-azure-will-propel-companys-earnings-and-stock"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 37
-    images:
-      - url: "https://static.seekingalpha.com/uploads/2020/10/3948_16027789274805_rId4.png"
-        width: 1280
-        height: 800
-        isCached: true
   - title: "Tamr Announces the Only Cloud-Native Data Mastering Solutions for Google Cloud Platform, AWS, and Microsoft Azure"
     excerpt: "PRNewswire/ -- Tamr, Inc., a cloud-native data mastering platform used by some of the world's largest enterprises"
     publishedDateTime: 2020-10-07T13:35:00Z
@@ -378,6 +364,20 @@ related:
       name: Associated Press
       domain: apnews.com
     quality: 29
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "CDW Recognized as Microsoft Azure Expert Managed Service Provider to Meet Evolving Customer Needs"
+    excerpt: "This recent recognition demonstrates CDW’s commitment to providing customers with best-in-class design, orchestration, and managed services on Azure with a focus on future succe"
+    publishedDateTime: 2020-10-09T12:30:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-products-and-services-cloud-computing-a0220a2923184a56ae2395c672ca0e92"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 24
     images:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
@@ -485,6 +485,6 @@ related:
       domain: seekingalpha.com
     quality: 2
 
-secured: "D7vTYCIB5blezvlRNvGI0ljNZ3AGrWNw/6RlxSViS2AyX2tDwyZ+uhqOYzZ7r7mB4eWmsKEJqRDd1KDm9h3CixfZORs6LCDZPYV2HyeWVbwT2AanphFh3O4/dqzdmpzw/BD++fz4nbPOON09Aqbac8lqW6033yoZ5z/DKbQlNqAKc+7ech816XgSxChAK8nhOaTVpHrTWcO8VrSuXCgLmBE0fKhAesuX7CzAaEDAF5A1J7fi94HeOFYLP/vO5pGRxy54iyYbdhVQe1Bk7S1RuLq+fWyyJV032fdOA8daaLPuR+YfrYCpA8Ux/IFOVZ1Q/r9AWslglN62U6qrdJHZF8s1QRqWeVzut3qj09I3A0E=;e6bZSg2TMiJvTbARDsusUA=="
+secured: "8APPryXh5Y1BD2qvMQYyUbRepfGC0zHzX0147eIs5rsFMnoVWV6rW62XMmc39Q4aD+venaF7mlT+Rnq4eZW2vj+XSvvQQx5uNBPWW+HOF6v3e8MryNvcvVFc1N0isWy2B6xN1tDgS/9C9aR6HgMgvGNBKo37l/K1pb8f0nEwc0r7y4HqDZultqHITxW1VkLgJWw2MPWvZ4n4p9hAZrSw7Zj0kxuIGUWM4zAqEEOFTckyQXB27QL+JBLkdP0WU2ttxXeb6njPE/3re2GxONhelVdAtPXdiprG6kuw8Feb1whoEHho/EBpwaHER6/V/0RdLAnEuTk3uHgmsrmgOV8N/RWwOwtRSDCP6CF4WqvSSRI=;SuvJCxY1OSHsNjN7cR9spw=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/microsofts-azure-ad-authent
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsofts-azure-ad-authentication-outage-what-went-wrong/"
 type: article
 quality: 97
-heat: 457
+heat: 477
 published: true
 
 provider:
@@ -117,6 +117,20 @@ related:
       - url: "https://www.crn.com/resources/0261-107e1bc258dd-899507ddf083-1000/shot_of_corridor_in_working_data_center_full_of_rack_servers_and_supercomputers_with_cloud_storage_advantages_icon_visualization..jpeg"
         width: 549
         height: 309
+        isCached: true
+  - title: "Synoptek Certified as Microsoft Azure Expert Managed Services Provider"
+    excerpt: "Synoptek, a leading business and technology consulting firm, announced it has become certified as a Microsoft Azure Expert Managed Service Provider (MSP). Microsoft has only recognized 62 partners globally that meet the standards to be an Azure Expert MSP."
+    publishedDateTime: 2020-10-06T15:38:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-products-and-services-cloud-computing-4aecd11dd14e4c5eb0e125d15d0a4dce"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 37
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
   - title: "Synoptek Certified as Microsoft Azure Expert Managed Services Provider"
     excerpt: "Synoptek, a leading business and technology consulting firm, announced it has become certified as a Microsoft Azure Expert Managed Service Provider (M"

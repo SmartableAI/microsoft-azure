@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/10/14/microsoft-explains-how-it-improve
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/14/microsoft-explains-how-it-improved-automatic-image-captioning-in-azure-cognitive-services/amp/"
 type: article
 quality: 120
-heat: 780
+heat: 820
 published: true
 
 provider:
@@ -323,6 +323,20 @@ related:
         width: 300
         height: 250
         isCached: true
+  - title: "Microsoft Azure Will Propel The Company's Earnings And Stock"
+    excerpt: "Microsoft’s Azure is growing at extraordinary rates with YoY growth rates of approximately 50%-60%. The Total Addressable Market (TAM) is thought to be ~$3.7T (by high-ranking insiders) where so far only about 3% has been addressed by players."
+    publishedDateTime: 2020-10-19T15:33:00Z
+    webUrl: "https://seekingalpha.com/article/4379748-microsoft-azure-will-propel-companys-earnings-and-stock"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 37
+    images:
+      - url: "https://static.seekingalpha.com/uploads/2020/10/3948_16027789274805_rId4.png"
+        width: 1280
+        height: 800
+        isCached: true
   - title: "Tamr Announces the Only Cloud-Native Data Mastering Solutions for Google Cloud Platform, AWS, and Microsoft Azure"
     excerpt: "PRNewswire/ -- Tamr, Inc., a cloud-native data mastering platform used by some of the world's largest enterprises"
     publishedDateTime: 2020-10-07T13:35:00Z
@@ -457,6 +471,15 @@ related:
       name: Business Wire
       domain: businesswire.com
     quality: 12
+  - title: "EPAM Has Earned the Modernization of Web Applications in Microsoft Azure Advanced Specialization"
+    excerpt: "PRNewswire/ -- (NYSE: EPAM), a leading global provider of digital platform engineering and software development services, today announced it has earned the"
+    publishedDateTime: 2020-10-19T14:00:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/epam-has-earned-the-modernization-of-web-applications-in-microsoft-azure-advanced-specialization/article_01ba3404-826b-5562-83f2-124287b159ae.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 4
   - title: "Microsoft price target raised at Jefferies ahead of FQ1 earnings, expecting continued Azure strength"
     excerpt: "Ahead of the fiscal Q1 results, Jefferies raises its (NASDAQ:MSFT) price target from $240 to $260.Analyst Brent Thill calls \"one of the best pillars in software, with a durable financial model featuring near double-digit rev growth."
     publishedDateTime: 2020-10-19T13:11:00Z
@@ -467,6 +490,6 @@ related:
       domain: seekingalpha.com
     quality: 2
 
-secured: "hNQ4ni1P+HUXcVJD0h1fgIF86CIo6SP6/p8fS7pwd/PxLf5/2lv5XvqWxwQ5G8KHn6UayZNihPeoQ2l+vSEd32UbJVhbDQFLamo4+G7wWKSBVb89jhT2wxDCwrto/7n3JyUCSA65JkYtUz73AODfHayKqcxKC15YFFGpHNihVdqmB4RVWClUyytEvI1zwLk97fgoLyeon3SF+FOFjV8Sj8MNZCWsUFS+CtTlhEIfGRODKbcdZowsZlUC+oKImDWj0pqif3lnv14q1NSoQ9u56uWFVOkSz+wv54sqIAF8fn5m4gjcvEDtMSTO7EEtt559dKRAM39sOltE3b0Y9RAI7y1znU4BeKvC6L2jp3nSEig=;tFAqfquqY2XZyW1BUkgM+Q=="
+secured: "Oeayu1BVeNAcjPO8ESWeaiQ+H4ESvRDdde/CtJozBuONFOMDwF7J5qGC4L0DN0AlyRq98dwW15pvEfZQwjcNmPVgAIHTwhKmub/L8Wld2vBiTC0xu0ZNtACKg7OErhUm1vOKh+d2OCyVsfqZsRNHU8Dwe4/Wnj41eRUT/nAfklNfev6x90HDY2axQ2BJ18L+pXuMwRxSQU5LH0hPoOo7DqcVRnqjTVouXjtfrClf4+MLIPiBrDqovjFV9pPVvJUdFEcGHf0w01CbN5kSD0Kq0nO+m9qcrXHSXdmhIUMf7xrrn5hMf8w0yk3k/BjiUqf/+YIRnFetbRWBQu/8Wnd5T92yOgkfEb/IKLEQgiC3MqYvFkBQbjLVTpq3VlV2HIWqRcWt+ZaHCOPyQLL4Jdk/VFh5TH3W9f7nhn/jrmhgzCgoR9spmVeyFTUaA/vIJDhvYMwaZDwPEHu1Bc7p9m8Ue357ycCJPeqQK+VUh+SFcsMLJK3xq858/DoJN1BTWU/ZBdAK0Kt5eufKzsERq30MAQ==;yR/QsQ8YX9CG5Og7JhhcHg=="
 ---
 
