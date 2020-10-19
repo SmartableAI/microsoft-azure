@@ -4,6 +4,49 @@
   "page": 12,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-unsupervised-learning.md",
+      "title": "Use unsupervised learning to analyze unlabeled data",
+      "excerpt": "Use unsupervised learning methods to predict groupings in data. Use variations of k-means clustering and spectral clustering to analyze and visualize difficult data sets.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-unsupervised-learning/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-unsupervised-learning/",
+      "length": "27 mins",
+      "ratings": {
+        "count": 249,
+        "average": 4.6787148
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/introduction-to-unsupervised-learning-social.png",
+          "width": 800,
+          "height": 400,
+          "title": "Use unsupervised learning to analyze unlabeled data",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-upload-download-and-manage-data-with-azure-storage-explorer.md",
       "title": "Upload, download, and manage data with Azure Storage Explorer",
       "excerpt": "Azure Storage Explorer allows you to quickly view all the storage services under your account. You can browse through, read, and edit data stored in those services through a user-friendly graphical interface.",
@@ -504,6 +547,44 @@
       "topics": [
         "Azure",
         "AI"
+      ]
+    },
+    {
+      "path": "_learning/videos/microsoft-enabling-secure-remote-work-using-windows-virtual-desktop-azure-friday.md",
+      "title": "Enabling secure remote work using Windows Virtual Desktop | Azure Friday",
+      "excerpt": "Windows Virtual Desktop (WVD) is a comprehensive desktop and app virtualization service running in Azure to enable secure remote work. Christiaan Brinkhoff joins Scott Hanselman to show how WVD is different from other desktop virtualization technologies, as well as how easy it is to implement and maintain.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-enabling-secure-remote-work-using-windows-virtual-desktop-azure-friday/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-enabling-secure-remote-work-using-windows-virtual-desktop-azure-friday/",
+      "originalUrl": "https://youtube.com/watch?v=dL1LpGpGRIo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/dL1LpGpGRIo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT24M52S",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-07-24T08:59:12-07:00",
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/dL1LpGpGRIo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Azure"
       ]
     },
     {
@@ -1079,83 +1160,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/pHuRj9ty9cI/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_learning/videos/microsoft-how-to-use-the-azure-activity-log-azure-portal-series.md",
-      "title": "How to use the Azure Activity Log | Azure Portal Series",
-      "excerpt": "The Azure Activity Log informs you of the who, the what and the when for operations in your Azure resources. In this video of the Azure Portal “How To” Series, learn what activity logs are in the Azure Portal, how to access it, and how to make use of them.   Try out these features in the Azure portal:",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-how-to-use-the-azure-activity-log-azure-portal-series/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-how-to-use-the-azure-activity-log-azure-portal-series/",
-      "originalUrl": "https://youtube.com/watch?v=ACVpH6C_NL8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ACVpH6C_NL8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT4M9S",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2019-04-03T10:04:36-07:00",
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/ACVpH6C_NL8/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Management tools"
-      ]
-    },
-    {
-      "path": "_learning/videos/microsoft-learn-all-about-distributed-application-runtime-dapr-part-1-azure-friday.md",
-      "title": "Learn all about Distributed Application Runtime (Dapr), Part 1 | Azure Friday",
-      "excerpt": "Aman Bhardwaj and Yaron Schneider join Scott Hanselman to talk about the core concepts of Distributed Application Runtime (Dapr). Dapr is a portable, event-driven runtime that makes it easy for developers to build resilient, microservice stateless and stateful applications that run on the cloud and edge",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-learn-all-about-distributed-application-runtime-dapr-part-1-azure-friday/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-learn-all-about-distributed-application-runtime-dapr-part-1-azure-friday/",
-      "originalUrl": "https://youtube.com/watch?v=mPVnu4W0xzQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/mPVnu4W0xzQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT10M38S",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2019-10-23T09:43:17-07:00",
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/mPVnu4W0xzQ/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
