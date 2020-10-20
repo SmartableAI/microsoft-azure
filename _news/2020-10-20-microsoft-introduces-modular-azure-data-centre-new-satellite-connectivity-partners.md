@@ -1,27 +1,21 @@
 ---
 category: news
-title: "DataWeave Now Available in the Microsoft Azure Marketplace"
-excerpt: "DataWeave, a digital commerce analytics platform, today announced the availability of DataWeave competitive intelligence as a service in"
-publishedDateTime: 2020-10-08T16:30:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/dataweave-now-available-in-the-microsoft-azure-marketplace-301148597.html"
-webUrl: "https://www.prnewswire.com/news-releases/dataweave-now-available-in-the-microsoft-azure-marketplace-301148597.html"
+title: "Microsoft introduces modular Azure data centre, new satellite connectivity partners"
+excerpt: "Microsoft announced a partnership with SpaceX's Starlink venture to provide satellite broadband for remote areas with a modular Azure data centre. It's also extending its partnership with SES to offer connectivity between data centres and edge devices over ..."
+publishedDateTime: 2020-10-20T14:34:00Z
+originalUrl: "https://www.telecompaper.com/news/microsoft-introduces-modular-azure-data-centre-new-satellite-connectivity-partners--1358518"
+webUrl: "https://www.telecompaper.com/news/microsoft-introduces-modular-azure-data-centre-new-satellite-connectivity-partners--1358518"
 type: article
-quality: 37
+quality: 11
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Telecompaper
+  domain: telecompaper.com
 
 topics:
   - Azure
-
-images:
-  - url: "https://mma.prnewswire.com/media/486774/DataWeave_Logo.jpg?p=facebook"
-    width: 2000
-    height: 1046
-    isCached: true
 
 related:
   - title: "Microsoft explains how it improved automatic image captioning in Azure Cognitive Services"
@@ -340,6 +334,20 @@ related:
         width: 647
         height: 450
         isCached: true
+  - title: "DataWeave Now Available in the Microsoft Azure Marketplace"
+    excerpt: "DataWeave, a digital commerce analytics platform, today announced the availability of DataWeave competitive intelligence as a service in"
+    publishedDateTime: 2020-10-08T16:30:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/dataweave-now-available-in-the-microsoft-azure-marketplace-301148597.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 37
+    images:
+      - url: "https://mma.prnewswire.com/media/486774/DataWeave_Logo.jpg?p=facebook"
+        width: 2000
+        height: 1046
+        isCached: true
   - title: "Microsoft Azure Flaws Open Admin Servers to Takeover"
     excerpt: "Two flaws in Microsoft's cloud-based Azure App Services could have allowed server-side forgery request (SSFR) and remote code-execution attacks."
     publishedDateTime: 2020-10-08T15:40:00Z
@@ -594,15 +602,6 @@ related:
       name: Business Wire
       domain: businesswire.com
     quality: 12
-  - title: "Microsoft introduces modular Azure data centre, new satellite connectivity partners"
-    excerpt: "Microsoft announced a partnership with SpaceX's Starlink venture to provide satellite broadband for remote areas with a modular Azure data centre. It's also extending its partnership with SES to offer connectivity between data centres and edge devices over ..."
-    publishedDateTime: 2020-10-20T14:34:00Z
-    webUrl: "https://www.telecompaper.com/news/microsoft-introduces-modular-azure-data-centre-new-satellite-connectivity-partners--1358518"
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 11
   - title: "Microsoft price target raised at Jefferies ahead of FQ1 earnings, expecting continued Azure strength"
     excerpt: "Ahead of the fiscal Q1 results, Jefferies raises its (NASDAQ:MSFT) price target from $240 to $260.Analyst Brent Thill calls \"one of the best pillars in software, with a durable financial model featuring near double-digit rev growth."
     publishedDateTime: 2020-10-19T13:11:00Z
@@ -613,6 +612,6 @@ related:
       domain: seekingalpha.com
     quality: 2
 
-secured: "VJFIz0Gt3cKjAj1gftLllY2SRjLSKG4ketfhhZkGC+9mJcsUgvIFU/dN32ReNQMduYt5iT0/SVGqS/SG/BtBiP/gcDu+IlPibYp4bsPd8Dp9Vwqa2zpPhKd1Nqq0cHuMYrIhEO7m2UwLbFbRbDQF/qHS8omcXlhuoqMUhKjDCULAuyjsl+rQWlcr4+JoAIkrKrFt7FjUAlBE1XFDtuF0gcy0ggTRS6zy+8hXHn8UMuxg6n/1xM9gxOfIvm8hPDqTi0Bh2iEiALTAb09711BIo6BtEHh0ejutPUT7ZzS0lYldaL/hvIZEkgQd8gwcMP+p5ddWq7Wf9M3Q8Xr0FiHmFJbsc12LIutngPwhr4oSycI=;GlL0gERr7/7yx8qgPZ17/w=="
+secured: "IyqYDv/9l/ogChOVkUXzCmByteJE+cezj8xesMnPVcWBjvFzF2GO+mC1ZMwzF9y8PUo/8swOrJRovHErkqC8d4AYJpKmqORvZ97jd22mOCW03SOSEfSCtZtlCnmfjoiT3OwAPNhFQl5v3ahXpTD7GoEP4JZqZ+K56Z4CNZRcutt/3uoy8o7jyFTEAAF+jYc1iE5sRGKwZjIQJeMKBoWm1hQy+CeYgVEGRK19X11Aa7fcHuwkrRKL/PBq3vey74AdlZD3/3Q0hV0XX3FzKtofQalo/U2tjDRKkLaBCaBzMI02oHwjbdoo6HxoI8Tl3jVBgH9lpLPBRS6mQkN9Bm4JDrgW6Mg7ADbL1+AkUfQ7wQs=;k9vObFQ+Ztb1XVMYnAkR3A=="
 ---
 

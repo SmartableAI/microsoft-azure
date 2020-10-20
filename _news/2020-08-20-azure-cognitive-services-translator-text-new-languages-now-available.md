@@ -31,6 +31,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 98
+  - title: "Azure Cognitive Services Translator — Canadian French language text translation now available"
+    excerpt: "Use Translator to add Canadian French translation to your apps, products, and workflows."
+    publishedDateTime: 2020-10-20T15:15:16Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-cognitive-services-translator-canadian-french-language-text-translation-now-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 88
 
 secured: "FRh4P9CmNGavsoKQMLn69SNjTGs1ofbaV9DLl6O/+Mu/C8hMHNkrZgvElmiuGe1N8YHlbuKx/gbRf2YzHfbL/eTvLrKjwRxi/YyskqByDYgVrKQhikshfyKSsWs2ZPm7DNKx6/barXIznLftUa9st/py8ZzbK0RfqUZ/MWUQRdkB4iGePJ43DWBvrk1glg6Qnrl640VBwbt+rWjnXtFN6FcV0z3O5dTdHJ0NkslOFX+lFyCEUC5rb8VFbdVZ6X4XkYsc65+VyBoQ4D5fE/bpwFdyAZTtOybglDzAQu2p1/WIo7DCUBwRfk1bSyCFf6gCE7XZtadGmhGdllgDJblIVA==;WEQLEYVJgnAeEKYMxzcuCg=="
 ---

@@ -1,27 +1,23 @@
 ---
 category: news
-title: "DataWeave Now Available in the Microsoft Azure Marketplace"
-excerpt: "DataWeave, a digital commerce analytics platform, today announced the availability of DataWeave competitive intelligence as a service in"
-publishedDateTime: 2020-10-08T16:30:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/dataweave-now-available-in-the-microsoft-azure-marketplace-301148597.html"
-webUrl: "https://www.prnewswire.com/news-releases/dataweave-now-available-in-the-microsoft-azure-marketplace-301148597.html"
+title: "Microsoft cloud computing looks to the stars"
+excerpt: "SAN FRANCISCO — Microsoft on Tuesday said its Azure cloud computing service is taking to outer space, and will deliver datacenter power to remote spots on Earth in the process. The US technology titan announced partnerships with satellite operators ..."
+publishedDateTime: 2020-10-20T15:48:00Z
+originalUrl: "https://www.gmanetwork.com/news/scitech/technology/760746/microsoft-cloud-computing-looks-to-the-stars/story/"
+webUrl: "https://www.gmanetwork.com/news/scitech/technology/760746/microsoft-cloud-computing-looks-to-the-stars/story/"
+ampWebUrl: "https://www.gmanetwork.com/news/scitech/technology/760746/microsoft-cloud-computing-looks-to-the-stars/story/?amp"
+cdnAmpWebUrl: "https://www-gmanetwork-com.cdn.ampproject.org/c/s/www.gmanetwork.com/news/scitech/technology/760746/microsoft-cloud-computing-looks-to-the-stars/story/?amp"
 type: article
-quality: 37
+quality: 22
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: GMA Network
+  domain: gmanetwork.com
 
 topics:
   - Azure
-
-images:
-  - url: "https://mma.prnewswire.com/media/486774/DataWeave_Logo.jpg?p=facebook"
-    width: 2000
-    height: 1046
-    isCached: true
 
 related:
   - title: "Microsoft explains how it improved automatic image captioning in Azure Cognitive Services"
@@ -340,6 +336,20 @@ related:
         width: 647
         height: 450
         isCached: true
+  - title: "DataWeave Now Available in the Microsoft Azure Marketplace"
+    excerpt: "DataWeave, a digital commerce analytics platform, today announced the availability of DataWeave competitive intelligence as a service in"
+    publishedDateTime: 2020-10-08T16:30:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/dataweave-now-available-in-the-microsoft-azure-marketplace-301148597.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 37
+    images:
+      - url: "https://mma.prnewswire.com/media/486774/DataWeave_Logo.jpg?p=facebook"
+        width: 2000
+        height: 1046
+        isCached: true
   - title: "Microsoft Azure Flaws Open Admin Servers to Takeover"
     excerpt: "Two flaws in Microsoft's cloud-based Azure App Services could have allowed server-side forgery request (SSFR) and remote code-execution attacks."
     publishedDateTime: 2020-10-08T15:40:00Z
@@ -542,17 +552,6 @@ related:
         width: 1400
         height: 900
         isCached: true
-  - title: "Microsoft cloud computing looks to the stars"
-    excerpt: "SAN FRANCISCO — Microsoft on Tuesday said its Azure cloud computing service is taking to outer space, and will deliver datacenter power to remote spots on Earth in the process. The US technology titan announced partnerships with satellite operators ..."
-    publishedDateTime: 2020-10-20T15:48:00Z
-    webUrl: "https://www.gmanetwork.com/news/scitech/technology/760746/microsoft-cloud-computing-looks-to-the-stars/story/"
-    ampWebUrl: "https://www.gmanetwork.com/news/scitech/technology/760746/microsoft-cloud-computing-looks-to-the-stars/story/?amp"
-    cdnAmpWebUrl: "https://www-gmanetwork-com.cdn.ampproject.org/c/s/www.gmanetwork.com/news/scitech/technology/760746/microsoft-cloud-computing-looks-to-the-stars/story/?amp"
-    type: article
-    provider:
-      name: GMA Network
-      domain: gmanetwork.com
-    quality: 22
   - title: "NAPAfrica starts offering direct access to Microsoft Azure peering"
     excerpt: "Internet exchange point NAPAfrica said that its members can now have direct access to the Microsoft Azure Peering Service and benefit from an SLA-backed connection to Microsoft. This enhances customer connectivity to Microsoft cloud services such as Office 365,"
     publishedDateTime: 2020-10-13T09:40:00Z
@@ -613,6 +612,6 @@ related:
       domain: seekingalpha.com
     quality: 2
 
-secured: "VJFIz0Gt3cKjAj1gftLllY2SRjLSKG4ketfhhZkGC+9mJcsUgvIFU/dN32ReNQMduYt5iT0/SVGqS/SG/BtBiP/gcDu+IlPibYp4bsPd8Dp9Vwqa2zpPhKd1Nqq0cHuMYrIhEO7m2UwLbFbRbDQF/qHS8omcXlhuoqMUhKjDCULAuyjsl+rQWlcr4+JoAIkrKrFt7FjUAlBE1XFDtuF0gcy0ggTRS6zy+8hXHn8UMuxg6n/1xM9gxOfIvm8hPDqTi0Bh2iEiALTAb09711BIo6BtEHh0ejutPUT7ZzS0lYldaL/hvIZEkgQd8gwcMP+p5ddWq7Wf9M3Q8Xr0FiHmFJbsc12LIutngPwhr4oSycI=;GlL0gERr7/7yx8qgPZ17/w=="
+secured: "KAaW235RdZ4SzQrMqVrOxStFv1iMWWtwixgkKsPF+OlCWfr/pmQYnGHvs+qwPrAwAL0JW+CqkdrCmvJnQT88pTEMQKLndRNTU9y0cun5iQ3C1WLjDz3tOh7KP58OavrOWXsjFZN9IP/gc8oXZMhIBWLV9+ecphKIgSYyekpANowuWtmcyeqsgRHxmzSnqHA5SaeRJX8tHub2d34ShMcnV4XDg1oFfhVc/tqIfQpyOsjR2wBGPHJ5/1kzkyf27QjnavrVmvX7wGrXblZnDzzKexzN+eO24qlL3RdClUgWMoWsan1go93JijEuEmYaov1c3BtnRnqVzpXpKFpC+YdnJOAbaLm+WnPOhLPhGftNOP0CvAuCteKR01MojaprsRrhoPkITYeXksRWhEWUkwEzJ0Nc1DXAJXZUd496PSgHNPsl6ypUUUAHqGp5QKnqC5C0XAFei69DONR+XhcoCKLunQ3xAwtS3NYiq68jG4gvuHvLyp1XS1iMMgeXWWbwxnkoGbTivsvMPrx/dl2u4f5p7A==;cKfkr2h4GM0gSIJbCN31Cg=="
 ---
 

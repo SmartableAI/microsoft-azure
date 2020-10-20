@@ -1,26 +1,32 @@
 ---
 category: news
-title: "DataWeave Now Available in the Microsoft Azure Marketplace"
-excerpt: "DataWeave, a digital commerce analytics platform, today announced the availability of DataWeave competitive intelligence as a service in"
-publishedDateTime: 2020-10-08T16:30:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/dataweave-now-available-in-the-microsoft-azure-marketplace-301148597.html"
-webUrl: "https://www.prnewswire.com/news-releases/dataweave-now-available-in-the-microsoft-azure-marketplace-301148597.html"
+title: "How to create a Windows Virtual Desktop in Microsoft Azure"
+excerpt: "Creating a Windows Virtual Desktop using the Azure Portal requires a number of steps, some of which are less than intuitive. This tutorial shows you how to navigate the various configuration screens. In an era when millions of employees in the global ..."
+publishedDateTime: 2020-10-20T14:29:00Z
+originalUrl: "https://www.techrepublic.com/article/how-to-create-a-windows-virtual-desktop-in-microsoft-azure/"
+webUrl: "https://www.techrepublic.com/article/how-to-create-a-windows-virtual-desktop-in-microsoft-azure/"
+ampWebUrl: "https://www.techrepublic.com/google-amp/article/how-to-create-a-windows-virtual-desktop-in-microsoft-azure/"
+cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-to-create-a-windows-virtual-desktop-in-microsoft-azure/"
 type: article
-quality: 37
+quality: 97
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: TechRepublic
+  domain: techrepublic.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/techrepublic.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
 
 images:
-  - url: "https://mma.prnewswire.com/media/486774/DataWeave_Logo.jpg?p=facebook"
-    width: 2000
-    height: 1046
+  - url: "https://tr3.cbsistatic.com/hub/i/r/2018/09/03/f75f535c-2c95-4132-8829-f6a2ed4508c7/resize/1200x/d9dcd7360c3ae2e2a9fc14ee851cb950/azure-logo.jpg"
+    width: 1200
+    height: 675
     isCached: true
 
 related:
@@ -39,22 +45,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2019/11/microsoft-1-e1580261336710.jpg?w=1200&#038;strip=all"
         width: 1200
         height: 573
-        isCached: true
-  - title: "How to create a Windows Virtual Desktop in Microsoft Azure"
-    excerpt: "Creating a Windows Virtual Desktop using the Azure Portal requires a number of steps, some of which are less than intuitive. This tutorial shows you how to navigate the various configuration screens. In an era when millions of employees in the global ..."
-    publishedDateTime: 2020-10-20T14:29:00Z
-    webUrl: "https://www.techrepublic.com/article/how-to-create-a-windows-virtual-desktop-in-microsoft-azure/"
-    ampWebUrl: "https://www.techrepublic.com/google-amp/article/how-to-create-a-windows-virtual-desktop-in-microsoft-azure/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-to-create-a-windows-virtual-desktop-in-microsoft-azure/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 97
-    images:
-      - url: "https://tr3.cbsistatic.com/hub/i/r/2018/09/03/f75f535c-2c95-4132-8829-f6a2ed4508c7/resize/1200x/d9dcd7360c3ae2e2a9fc14ee851cb950/azure-logo.jpg"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Microsoft launches Azure Space initiative; partners with SpaceX"
     excerpt: "Microsoft is using its 'Amazon is your competitor' playbook to try to win over more satellite partners and customers. It's also launching a new Azure in a shipping container offering called Azure Modular Datacenter."
@@ -340,6 +330,20 @@ related:
         width: 647
         height: 450
         isCached: true
+  - title: "DataWeave Now Available in the Microsoft Azure Marketplace"
+    excerpt: "DataWeave, a digital commerce analytics platform, today announced the availability of DataWeave competitive intelligence as a service in"
+    publishedDateTime: 2020-10-08T16:30:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/dataweave-now-available-in-the-microsoft-azure-marketplace-301148597.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 37
+    images:
+      - url: "https://mma.prnewswire.com/media/486774/DataWeave_Logo.jpg?p=facebook"
+        width: 2000
+        height: 1046
+        isCached: true
   - title: "Microsoft Azure Flaws Open Admin Servers to Takeover"
     excerpt: "Two flaws in Microsoft's cloud-based Azure App Services could have allowed server-side forgery request (SSFR) and remote code-execution attacks."
     publishedDateTime: 2020-10-08T15:40:00Z
@@ -613,6 +617,6 @@ related:
       domain: seekingalpha.com
     quality: 2
 
-secured: "VJFIz0Gt3cKjAj1gftLllY2SRjLSKG4ketfhhZkGC+9mJcsUgvIFU/dN32ReNQMduYt5iT0/SVGqS/SG/BtBiP/gcDu+IlPibYp4bsPd8Dp9Vwqa2zpPhKd1Nqq0cHuMYrIhEO7m2UwLbFbRbDQF/qHS8omcXlhuoqMUhKjDCULAuyjsl+rQWlcr4+JoAIkrKrFt7FjUAlBE1XFDtuF0gcy0ggTRS6zy+8hXHn8UMuxg6n/1xM9gxOfIvm8hPDqTi0Bh2iEiALTAb09711BIo6BtEHh0ejutPUT7ZzS0lYldaL/hvIZEkgQd8gwcMP+p5ddWq7Wf9M3Q8Xr0FiHmFJbsc12LIutngPwhr4oSycI=;GlL0gERr7/7yx8qgPZ17/w=="
+secured: "g36q+oyPUsV7JKBJmkbx2RwY8lpdfNCqA2h5vdIWkDzEJLMK9rxbJwhLvCqb15AeZOX+I4Jc/kGrae5h1iT4EYD7yN7xNs3W1oD4TKdjpbSmuW22qS9zbBOL651FFqPF681u3D0f+PII/emqRXEpFRUNReD3W1PZVzTZU/0LlcCXn2m8Xv5Ddl7gTw5eAaWtlth7c7QDgMQakPW4D7sFn1XdjUU855au8k3d1B0jKM+nSUCjeJct2UFzcpN0Y9P1DmAk5lYzWR0+1AYHeis5UC1T7nxT5i8We6PwVMvmWKsKXOoYVZq/t9HGfP8cZ/7+3h4cfhsQQWBtttrsKBok0wCJ6MvRsTxiHAb99u60fWI=;1eNKE5xA+HP/tz9ac1QtkQ=="
 ---
 

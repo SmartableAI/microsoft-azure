@@ -1,26 +1,28 @@
 ---
 category: news
-title: "DataWeave Now Available in the Microsoft Azure Marketplace"
-excerpt: "DataWeave, a digital commerce analytics platform, today announced the availability of DataWeave competitive intelligence as a service in"
-publishedDateTime: 2020-10-08T16:30:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/dataweave-now-available-in-the-microsoft-azure-marketplace-301148597.html"
-webUrl: "https://www.prnewswire.com/news-releases/dataweave-now-available-in-the-microsoft-azure-marketplace-301148597.html"
+title: "SpaceX to Use Microsoft Azure for Satellite Cloud Computing"
+excerpt: "Get Report shares were rising following a report that the company was partnering with SpaceX, Elon Musk's low-orbit space company, to provide cloud-computing power.  Microsoft will offer cloud-computing services for space customers using SpaceX's low-orbit spacecraft,"
+publishedDateTime: 2020-10-20T14:27:00Z
+originalUrl: "https://www.thestreet.com/investing/spacex-partners-with-microsoft-for-cloud-computing"
+webUrl: "https://www.thestreet.com/investing/spacex-partners-with-microsoft-for-cloud-computing"
+ampWebUrl: "https://www.thestreet.com/.amp/investing/spacex-partners-with-microsoft-for-cloud-computing"
+cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/spacex-partners-with-microsoft-for-cloud-computing"
 type: article
-quality: 37
+quality: 57
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: TheStreet.com
+  domain: thestreet.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://mma.prnewswire.com/media/486774/DataWeave_Logo.jpg?p=facebook"
-    width: 2000
-    height: 1046
+  - url: "https://content.jwplatform.com/thumbs/6qJUUjr0-720.jpg"
+    width: 720
+    height: 406
     isCached: true
 
 related:
@@ -214,22 +216,6 @@ related:
         width: 1200
         height: 627
         isCached: true
-  - title: "SpaceX to Use Microsoft Azure for Satellite Cloud Computing"
-    excerpt: "Get Report shares were rising following a report that the company was partnering with SpaceX, Elon Musk's low-orbit space company, to provide cloud-computing power.  Microsoft will offer cloud-computing services for space customers using SpaceX's low-orbit spacecraft,"
-    publishedDateTime: 2020-10-20T14:27:00Z
-    webUrl: "https://www.thestreet.com/investing/spacex-partners-with-microsoft-for-cloud-computing"
-    ampWebUrl: "https://www.thestreet.com/.amp/investing/spacex-partners-with-microsoft-for-cloud-computing"
-    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/spacex-partners-with-microsoft-for-cloud-computing"
-    type: article
-    provider:
-      name: TheStreet.com
-      domain: thestreet.com
-    quality: 57
-    images:
-      - url: "https://content.jwplatform.com/thumbs/6qJUUjr0-720.jpg"
-        width: 720
-        height: 406
-        isCached: true
   - title: "Veea Joins Microsoft Azure Certified for IoT"
     excerpt: "Veea announced it has joined Microsoft Azure Certified for Internet of Things (IoT), assuring hardware and software has been pre-tested and verified to work with Microsoft Azure IoT services."
     publishedDateTime: 2020-10-07T18:44:00Z
@@ -339,6 +325,20 @@ related:
       - url: "https://redmondmag.com/-/media/ECG/VirtualizationReview/Images/IntroImages2016/0716vrm_Take5.jpg"
         width: 647
         height: 450
+        isCached: true
+  - title: "DataWeave Now Available in the Microsoft Azure Marketplace"
+    excerpt: "DataWeave, a digital commerce analytics platform, today announced the availability of DataWeave competitive intelligence as a service in"
+    publishedDateTime: 2020-10-08T16:30:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/dataweave-now-available-in-the-microsoft-azure-marketplace-301148597.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 37
+    images:
+      - url: "https://mma.prnewswire.com/media/486774/DataWeave_Logo.jpg?p=facebook"
+        width: 2000
+        height: 1046
         isCached: true
   - title: "Microsoft Azure Flaws Open Admin Servers to Takeover"
     excerpt: "Two flaws in Microsoft's cloud-based Azure App Services could have allowed server-side forgery request (SSFR) and remote code-execution attacks."
@@ -613,6 +613,6 @@ related:
       domain: seekingalpha.com
     quality: 2
 
-secured: "VJFIz0Gt3cKjAj1gftLllY2SRjLSKG4ketfhhZkGC+9mJcsUgvIFU/dN32ReNQMduYt5iT0/SVGqS/SG/BtBiP/gcDu+IlPibYp4bsPd8Dp9Vwqa2zpPhKd1Nqq0cHuMYrIhEO7m2UwLbFbRbDQF/qHS8omcXlhuoqMUhKjDCULAuyjsl+rQWlcr4+JoAIkrKrFt7FjUAlBE1XFDtuF0gcy0ggTRS6zy+8hXHn8UMuxg6n/1xM9gxOfIvm8hPDqTi0Bh2iEiALTAb09711BIo6BtEHh0ejutPUT7ZzS0lYldaL/hvIZEkgQd8gwcMP+p5ddWq7Wf9M3Q8Xr0FiHmFJbsc12LIutngPwhr4oSycI=;GlL0gERr7/7yx8qgPZ17/w=="
+secured: "0hNi/JfFT0HNt9yHCQfTH2nmJyYJ0bjh9Nh+U++KLf8TLFEMPCS/xE39Xz/AAXsDJL7ccbaIh3cFRMZofvqOqU3d4dL13vLamkAFsOLWVe2HbSZ1st/BTLMu8mcgrh6axy6f6DzyQLMEPHBqrXdrxm8hjroyD+X8rWfaQRrIqL1fevhHeao3qcGw1MlTRg/56ZPjrlyW1xMbJZxpkg4vbAYSTk8H3a/grV0/YyOSDjwbAs9UtKbmBWTfmmRdBeiwkKWHcuXVanYRNWWjrlo+zotWOU/ebwQwyJnIEl4tNHXxKBb1Rk66pCPeKR3QQ6VzqNpFFa6NKMBTtZahGqIgMf0PH4pztUWTMVFatZuWtII=;Y+hy9iMbc1D+95LRoi3PSw=="
 ---
 

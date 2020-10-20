@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/azure-cognitive-services
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-cognitive-services-translator-text-assamese-language-now-available/"
 type: article
 quality: 98
-heat: 118
+heat: 138
 published: true
 
 provider:
@@ -23,6 +23,15 @@ topics:
   - AI
 
 related:
+  - title: "Azure Cognitive Services Translator — Canadian French language text translation now available"
+    excerpt: "Use Translator to add Canadian French translation to your apps, products, and workflows."
+    publishedDateTime: 2020-10-20T15:15:16Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-cognitive-services-translator-canadian-french-language-text-translation-now-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 88
   - title: "Azure Cognitive Services Translator Text— New languages now available"
     excerpt: "Translator Text now supports the Odia, Dari, Pashto, Central Kurdish and Northern Kurdish languages."
     publishedDateTime: 2020-08-20T16:00:05Z

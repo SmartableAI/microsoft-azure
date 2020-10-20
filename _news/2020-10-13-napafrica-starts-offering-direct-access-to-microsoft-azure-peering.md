@@ -34,6 +34,22 @@ related:
         width: 1200
         height: 573
         isCached: true
+  - title: "How to create a Windows Virtual Desktop in Microsoft Azure"
+    excerpt: "Creating a Windows Virtual Desktop using the Azure Portal requires a number of steps, some of which are less than intuitive. This tutorial shows you how to navigate the various configuration screens. In an era when millions of employees in the global ..."
+    publishedDateTime: 2020-10-20T14:29:00Z
+    webUrl: "https://www.techrepublic.com/article/how-to-create-a-windows-virtual-desktop-in-microsoft-azure/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/article/how-to-create-a-windows-virtual-desktop-in-microsoft-azure/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-to-create-a-windows-virtual-desktop-in-microsoft-azure/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 97
+    images:
+      - url: "https://tr3.cbsistatic.com/hub/i/r/2018/09/03/f75f535c-2c95-4132-8829-f6a2ed4508c7/resize/1200x/d9dcd7360c3ae2e2a9fc14ee851cb950/azure-logo.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Microsoft launches Azure Space initiative; partners with SpaceX"
     excerpt: "Microsoft is using its 'Amazon is your competitor' playbook to try to win over more satellite partners and customers. It's also launching a new Azure in a shipping container offering called Azure Modular Datacenter."
     publishedDateTime: 2020-10-20T13:01:00Z
@@ -191,6 +207,22 @@ related:
       - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/10/14145709/helpnetsecurity.jpg"
         width: 1200
         height: 627
+        isCached: true
+  - title: "SpaceX to Use Microsoft Azure for Satellite Cloud Computing"
+    excerpt: "Get Report shares were rising following a report that the company was partnering with SpaceX, Elon Musk's low-orbit space company, to provide cloud-computing power.  Microsoft will offer cloud-computing services for space customers using SpaceX's low-orbit spacecraft,"
+    publishedDateTime: 2020-10-20T14:27:00Z
+    webUrl: "https://www.thestreet.com/investing/spacex-partners-with-microsoft-for-cloud-computing"
+    ampWebUrl: "https://www.thestreet.com/.amp/investing/spacex-partners-with-microsoft-for-cloud-computing"
+    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/spacex-partners-with-microsoft-for-cloud-computing"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 57
+    images:
+      - url: "https://content.jwplatform.com/thumbs/6qJUUjr0-720.jpg"
+        width: 720
+        height: 406
         isCached: true
   - title: "Veea Joins Microsoft Azure Certified for IoT"
     excerpt: "Veea announced it has joined Microsoft Azure Certified for Internet of Things (IoT), assuring hardware and software has been pre-tested and verified to work with Microsoft Azure IoT services."
@@ -411,6 +443,20 @@ related:
         width: 1280
         height: 800
         isCached: true
+  - title: "Modular Data Centers to Link to Microsoft Azure Cloud Via Satellite"
+    excerpt: "Satellite connectivity to Microsoft Azure could open up the amount of locations for deploying modular data centers, which are self-sufficient computing facilities packed inside shipping container-like enclosures that can be plopped anywhere a big cloud customer may need computing infrastructure."
+    publishedDateTime: 2020-10-20T14:03:00Z
+    webUrl: "https://www.datacenterknowledge.com/microsoft/modular-data-centers-link-microsoft-azure-cloud-satellite"
+    type: article
+    provider:
+      name: Data Center Knowledge
+      domain: datacenterknowledge.com
+    quality: 37
+    images:
+      - url: "https://www.datacenterknowledge.com/sites/datacenterknowledge.com/files/ThalesAlenia%20SES-17%20satellite%20model%202019%20getty.jpg"
+        width: 1024
+        height: 685
+        isCached: true
   - title: "Tamr Announces the Only Cloud-Native Data Mastering Solutions for Google Cloud Platform, AWS, and Microsoft Azure"
     excerpt: "PRNewswire/ -- Tamr, Inc., a cloud-native data mastering platform used by some of the world's largest enterprises"
     publishedDateTime: 2020-10-07T13:35:00Z
@@ -504,6 +550,17 @@ related:
         width: 1400
         height: 900
         isCached: true
+  - title: "Microsoft cloud computing looks to the stars"
+    excerpt: "SAN FRANCISCO — Microsoft on Tuesday said its Azure cloud computing service is taking to outer space, and will deliver datacenter power to remote spots on Earth in the process. The US technology titan announced partnerships with satellite operators ..."
+    publishedDateTime: 2020-10-20T15:48:00Z
+    webUrl: "https://www.gmanetwork.com/news/scitech/technology/760746/microsoft-cloud-computing-looks-to-the-stars/story/"
+    ampWebUrl: "https://www.gmanetwork.com/news/scitech/technology/760746/microsoft-cloud-computing-looks-to-the-stars/story/?amp"
+    cdnAmpWebUrl: "https://www-gmanetwork-com.cdn.ampproject.org/c/s/www.gmanetwork.com/news/scitech/technology/760746/microsoft-cloud-computing-looks-to-the-stars/story/?amp"
+    type: article
+    provider:
+      name: GMA Network
+      domain: gmanetwork.com
+    quality: 22
   - title: "Comarch offers BSS/OSS products deployed on Microsoft Azure"
     excerpt: "This means the products can be deployed on Microsoft Azure. The platform is already being implemented for a Polish Tier 1 operator. Comarch is going to deploy full-stack BSS and OSS, which include various customer portals, CRM, B2C and B2B Ordering and ..."
     publishedDateTime: 2020-10-14T09:15:00Z
@@ -536,6 +593,15 @@ related:
       name: Business Wire
       domain: businesswire.com
     quality: 12
+  - title: "Microsoft introduces modular Azure data centre, new satellite connectivity partners"
+    excerpt: "Microsoft announced a partnership with SpaceX's Starlink venture to provide satellite broadband for remote areas with a modular Azure data centre. It's also extending its partnership with SES to offer connectivity between data centres and edge devices over ..."
+    publishedDateTime: 2020-10-20T14:34:00Z
+    webUrl: "https://www.telecompaper.com/news/microsoft-introduces-modular-azure-data-centre-new-satellite-connectivity-partners--1358518"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 11
   - title: "Microsoft price target raised at Jefferies ahead of FQ1 earnings, expecting continued Azure strength"
     excerpt: "Ahead of the fiscal Q1 results, Jefferies raises its (NASDAQ:MSFT) price target from $240 to $260.Analyst Brent Thill calls \"one of the best pillars in software, with a durable financial model featuring near double-digit rev growth."
     publishedDateTime: 2020-10-19T13:11:00Z

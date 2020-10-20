@@ -1,26 +1,26 @@
 ---
 category: news
-title: "DataWeave Now Available in the Microsoft Azure Marketplace"
-excerpt: "DataWeave, a digital commerce analytics platform, today announced the availability of DataWeave competitive intelligence as a service in"
-publishedDateTime: 2020-10-08T16:30:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/dataweave-now-available-in-the-microsoft-azure-marketplace-301148597.html"
-webUrl: "https://www.prnewswire.com/news-releases/dataweave-now-available-in-the-microsoft-azure-marketplace-301148597.html"
+title: "Modular Data Centers to Link to Microsoft Azure Cloud Via Satellite"
+excerpt: "Satellite connectivity to Microsoft Azure could open up the amount of locations for deploying modular data centers, which are self-sufficient computing facilities packed inside shipping container-like enclosures that can be plopped anywhere a big cloud customer may need computing infrastructure."
+publishedDateTime: 2020-10-20T14:03:00Z
+originalUrl: "https://www.datacenterknowledge.com/microsoft/modular-data-centers-link-microsoft-azure-cloud-satellite"
+webUrl: "https://www.datacenterknowledge.com/microsoft/modular-data-centers-link-microsoft-azure-cloud-satellite"
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Data Center Knowledge
+  domain: datacenterknowledge.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://mma.prnewswire.com/media/486774/DataWeave_Logo.jpg?p=facebook"
-    width: 2000
-    height: 1046
+  - url: "https://www.datacenterknowledge.com/sites/datacenterknowledge.com/files/ThalesAlenia%20SES-17%20satellite%20model%202019%20getty.jpg"
+    width: 1024
+    height: 685
     isCached: true
 
 related:
@@ -340,6 +340,20 @@ related:
         width: 647
         height: 450
         isCached: true
+  - title: "DataWeave Now Available in the Microsoft Azure Marketplace"
+    excerpt: "DataWeave, a digital commerce analytics platform, today announced the availability of DataWeave competitive intelligence as a service in"
+    publishedDateTime: 2020-10-08T16:30:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/dataweave-now-available-in-the-microsoft-azure-marketplace-301148597.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 37
+    images:
+      - url: "https://mma.prnewswire.com/media/486774/DataWeave_Logo.jpg?p=facebook"
+        width: 2000
+        height: 1046
+        isCached: true
   - title: "Microsoft Azure Flaws Open Admin Servers to Takeover"
     excerpt: "Two flaws in Microsoft's cloud-based Azure App Services could have allowed server-side forgery request (SSFR) and remote code-execution attacks."
     publishedDateTime: 2020-10-08T15:40:00Z
@@ -434,20 +448,6 @@ related:
       - url: "https://static.seekingalpha.com/uploads/2020/10/3948_16027789274805_rId4.png"
         width: 1280
         height: 800
-        isCached: true
-  - title: "Modular Data Centers to Link to Microsoft Azure Cloud Via Satellite"
-    excerpt: "Satellite connectivity to Microsoft Azure could open up the amount of locations for deploying modular data centers, which are self-sufficient computing facilities packed inside shipping container-like enclosures that can be plopped anywhere a big cloud customer may need computing infrastructure."
-    publishedDateTime: 2020-10-20T14:03:00Z
-    webUrl: "https://www.datacenterknowledge.com/microsoft/modular-data-centers-link-microsoft-azure-cloud-satellite"
-    type: article
-    provider:
-      name: Data Center Knowledge
-      domain: datacenterknowledge.com
-    quality: 37
-    images:
-      - url: "https://www.datacenterknowledge.com/sites/datacenterknowledge.com/files/ThalesAlenia%20SES-17%20satellite%20model%202019%20getty.jpg"
-        width: 1024
-        height: 685
         isCached: true
   - title: "Tamr Announces the Only Cloud-Native Data Mastering Solutions for Google Cloud Platform, AWS, and Microsoft Azure"
     excerpt: "PRNewswire/ -- Tamr, Inc., a cloud-native data mastering platform used by some of the world's largest enterprises"
@@ -613,6 +613,6 @@ related:
       domain: seekingalpha.com
     quality: 2
 
-secured: "VJFIz0Gt3cKjAj1gftLllY2SRjLSKG4ketfhhZkGC+9mJcsUgvIFU/dN32ReNQMduYt5iT0/SVGqS/SG/BtBiP/gcDu+IlPibYp4bsPd8Dp9Vwqa2zpPhKd1Nqq0cHuMYrIhEO7m2UwLbFbRbDQF/qHS8omcXlhuoqMUhKjDCULAuyjsl+rQWlcr4+JoAIkrKrFt7FjUAlBE1XFDtuF0gcy0ggTRS6zy+8hXHn8UMuxg6n/1xM9gxOfIvm8hPDqTi0Bh2iEiALTAb09711BIo6BtEHh0ejutPUT7ZzS0lYldaL/hvIZEkgQd8gwcMP+p5ddWq7Wf9M3Q8Xr0FiHmFJbsc12LIutngPwhr4oSycI=;GlL0gERr7/7yx8qgPZ17/w=="
+secured: "Q/cyRrAhQ822dRiK2JRlq/zgBW/S4HyTKObmJvgRUEdlPwBqpjcpj8R7aan97DEgyQkUzvN7n9RrpOsxUBlkdYetzen7r+mbXkHE6Ou5TN+RzxlYTEcli/GnGHB8p6IccSPXa4nyuyZKsoSNmJNwRl9HAF8V7nY5FFLw5FBdIrP6aWdUwqcSsxhrfxPGZdBd+HwLlDxxRlu/0IybVOkRZzbhM822oDM+nQqnUu9jgkKPsRnSsXHzT8mgKfj0a9P+jKe9OXf27gIdNK25MHNc1hR1uT2KkErp6hTBM8XLJ3Fjk56+hLDF6QeG2iGEyE4ex0a6YDtQ8QL4P1aveB3m50ErGfQhMzO1Nazk6Tfshhw=;RdRx1r81Mgkr4sGhHTbEHQ=="
 ---
 
