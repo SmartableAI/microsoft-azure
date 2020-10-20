@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Dicker Data launches new Microsoft Cloud business unit"
-excerpt: "ASX-listed IT hardware, software and cloud distributor, Dicker Data has launched a new Microsoft Cloud business unit in a move the company says deepens its relationship with the global tech giant. Dicker Data (ASX:DDR) says the new unit will led by Sarah Loiterton as general manager and as part of"
-publishedDateTime: 2020-10-14T04:50:00Z
-originalUrl: "https://www.itwire.com/resellers/dicker-data-launches-new-microsoft-cloud-business-unit.html"
-webUrl: "https://www.itwire.com/resellers/dicker-data-launches-new-microsoft-cloud-business-unit.html"
+title: "CES 2021 to be powered by the Microsoft cloud: Teams, Azure, and more"
+excerpt: "The CTA announced CES 2021 would be powered by Microsoft's Teams collaboration environment, the Azure cloud computing service, and the Microsoft Power Platform."
+publishedDateTime: 2020-10-19T18:05:00Z
+originalUrl: "https://www.digitaltrends.com/news/ces-2021-microsoft-teams-azure-power-platform/"
+webUrl: "https://www.digitaltrends.com/news/ces-2021-microsoft-teams-azure-power-platform/"
+ampWebUrl: "https://www.digitaltrends.com/news/ces-2021-microsoft-teams-azure-power-platform/?amp"
+cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/ces-2021-microsoft-teams-azure-power-platform/?amp"
 type: article
-quality: 22
+quality: 77
 heat: -1
 published: false
 
 provider:
-  name: ITWire
-  domain: itwire.com
+  name: Digital Trends
+  domain: digitaltrends.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/digitaltrends.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
-
-images:
-  - url: "https://www.itwire.com/media/k2/items/cache/a6d3ea62ee421e5fc717dccf4b518a58_M.jpg"
-    width: 375
-    height: 375
-    isCached: true
 
 related:
   - title: "Microsoft explains how it improved automatic image captioning in Azure Cognitive Services"
@@ -189,17 +189,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "CES 2021 to be powered by the Microsoft cloud: Teams, Azure, and more"
-    excerpt: "The CTA announced CES 2021 would be powered by Microsoft's Teams collaboration environment, the Azure cloud computing service, and the Microsoft Power Platform."
-    publishedDateTime: 2020-10-19T18:05:00Z
-    webUrl: "https://www.digitaltrends.com/news/ces-2021-microsoft-teams-azure-power-platform/"
-    ampWebUrl: "https://www.digitaltrends.com/news/ces-2021-microsoft-teams-azure-power-platform/?amp"
-    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/ces-2021-microsoft-teams-azure-power-platform/?amp"
-    type: article
-    provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 77
   - title: "Microsoft cloud services outages continue into week two"
     excerpt: "Microsoft's cloud services problems are continuing this week with more Azure and Microsoft 365 services issues for some customers. Here's what's happened and why."
     publishedDateTime: 2020-10-07T21:19:00Z
@@ -569,6 +558,20 @@ related:
         width: 797
         height: 550
         isCached: true
+  - title: "Dicker Data launches new Microsoft Cloud business unit"
+    excerpt: "ASX-listed IT hardware, software and cloud distributor, Dicker Data has launched a new Microsoft Cloud business unit in a move the company says deepens its relationship with the global tech giant. Dicker Data (ASX:DDR) says the new unit will led by Sarah Loiterton as general manager and as part of"
+    publishedDateTime: 2020-10-14T04:50:00Z
+    webUrl: "https://www.itwire.com/resellers/dicker-data-launches-new-microsoft-cloud-business-unit.html"
+    type: article
+    provider:
+      name: ITWire
+      domain: itwire.com
+    quality: 22
+    images:
+      - url: "https://www.itwire.com/media/k2/items/cache/a6d3ea62ee421e5fc717dccf4b518a58_M.jpg"
+        width: 375
+        height: 375
+        isCached: true
   - title: "Dicker Data launches Microsoft Cloud division"
     excerpt: "Dicker Data has launched a dedicated Microsoft Cloud business unit to drive greater revenue from the software giant’s offerings. The new unit is led by Sarah Loiterton who has worked in the Dicker Data Microsoft and Citrix sales teams for the past four and a half years."
     publishedDateTime: 2020-10-15T01:06:00Z
@@ -654,6 +657,6 @@ related:
       domain: seekingalpha.com
     quality: 2
 
-secured: "GD19rMC5OmZeTp6Ayw8EpfJHu29hnyhQrYMUPSCAfNFyaPcVrTQqEMRaFRfYLRP6b+OE8DCz+9/I0zvW5pNdpJndUkKdgk6QTslO7tlfkiihLGsKn2vb5AG9bEzrwe8XHPM0pFMtUEeKKGY7taTQsbdwz3OISPS7Pz516WzvInvn5C0+2ZsZuQHCjBi4Q+CsNVJuBcIQX4qZNBDMAhvPxF4idGvgz7qjjOt0/AaWsJs8Ni5453B0FFT/vS6Ux6GaPACHsTLHovsCbXw3BuQlrNR/nKPps5xOyXtpC7GkY60YmkjnZP+Bws+uRCFovbm2Jnc5uVLXGu4vXgGDisOgM237c/JByiZ5zHEpuYrogZk=;Fb8FG9nt1XDzNS7g5xWb6g=="
+secured: "o/QN9xYSP8i2i6g6+KbLcr+NVIdvYWQDOjoYzFDc35CWR2orSqLwCPoKWzLiF4Wgs+ia4ynjxFVlRYwJ1MUI+j66zAFxNlG+iGv4FnPZUcXM8+H0OLfNCEQjgUxuKom1jfl4shw+qCF/9jVYvOJWRWESp4eJdjmGZ6RyQkKKJOIV+8LdpZD/7JYecKX9RuQUrtsSlU7U7hMnvxgzDyNRDui4al8eBAYRwz5HucalO0nKRzslbEuBUaGKEtuzZ+jrhAift3xOIIhnpYNSp9VSK+4LCYOr374Yz2Na3ElBlYq6OtxhKMsNRI5Mpjo2LsEuE46AI7DnYZByD7PVplIjVhDh5/0bz1W9bgjoZzwp0nZBs2w6KiskYiXaQY2VV6owgcVTPrqTRBzdAq8PstkIIj8eXIwvmI8PqD5cM+yaSUnF2YSx/Smdck/yDetyh8bbEG4qM66M3m9Juewz4gEpQRCM1QssESD1hYTNZsrO7psOzNgd6hY0SPZKEu5ecFKCyTorURVrQWjdDzaeHZSR/Q==;i6rn1YCcfjls6brOmI4SyQ=="
 ---
 

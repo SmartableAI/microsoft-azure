@@ -46,6 +46,22 @@ related:
         width: 1200
         height: 573
         isCached: true
+  - title: "Microsoft Azure announces its first region in Austria"
+    excerpt: "Microsoft today announced its plans to launch a new data center region in Austria, its first in the country. With nearby Azure regions in Switzerland, Germany, France and a planned new region in northern Italy,"
+    publishedDateTime: 2020-10-20T16:52:00Z
+    webUrl: "https://techcrunch.com/2020/10/20/microsoft-azure-announces-its-first-region-in-austria/"
+    ampWebUrl: "https://techcrunch.com/2020/10/20/microsoft-azure-announces-its-first-region-in-austria/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/10/20/microsoft-azure-announces-its-first-region-in-austria/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 97
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2020/10/GettyImages-1069481166.jpg?w=1024"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Microsoft launches Azure Space initiative; partners with SpaceX"
     excerpt: "Microsoft is using its 'Amazon is your competitor' playbook to try to win over more satellite partners and customers. It's also launching a new Azure in a shipping container offering called Azure Modular Datacenter."
     publishedDateTime: 2020-10-20T13:01:00Z
@@ -163,6 +179,17 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "CES 2021 to be powered by the Microsoft cloud: Teams, Azure, and more"
+    excerpt: "The CTA announced CES 2021 would be powered by Microsoft's Teams collaboration environment, the Azure cloud computing service, and the Microsoft Power Platform."
+    publishedDateTime: 2020-10-19T18:05:00Z
+    webUrl: "https://www.digitaltrends.com/news/ces-2021-microsoft-teams-azure-power-platform/"
+    ampWebUrl: "https://www.digitaltrends.com/news/ces-2021-microsoft-teams-azure-power-platform/?amp"
+    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/ces-2021-microsoft-teams-azure-power-platform/?amp"
+    type: article
+    provider:
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 77
   - title: "Microsoft cloud services outages continue into week two"
     excerpt: "Microsoft's cloud services problems are continuing this week with more Azure and Microsoft 365 services issues for some customers. Here's what's happened and why."
     publishedDateTime: 2020-10-07T21:19:00Z
@@ -476,6 +503,20 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Microsoft develops modular Azure data center, with optional satellite connectivity"
+    excerpt: "Microsoft has developed a modular container-sized data center to bring the cloud to remote areas. The Azure Modular Datacenter can be optionally connected to satellite communications when terrestrial connectivity is not available."
+    publishedDateTime: 2020-10-20T16:58:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/microsoft-develops-modular-azure-data-center-optional-satellite-connectivity/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 31
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/MicrosoftAzureModularDataCenter.2e16d0ba.fill-1200x630.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Webinar: Transforming Business Models with System Soft Technologies and Microsoft Azure"
     excerpt: "(GLOBE NEWSWIRE) -- System Soft Technologies (SSTech), a leader in enterprise IT services, solutions and products, today announced the company is making available its recent webinar about how organizations are using Microsoft Azure Cloud Services to enhance their business operations and spur growth during these uncertain economic times."
     publishedDateTime: 2020-10-07T16:00:00Z
@@ -617,6 +658,6 @@ related:
       domain: seekingalpha.com
     quality: 2
 
-secured: "g36q+oyPUsV7JKBJmkbx2RwY8lpdfNCqA2h5vdIWkDzEJLMK9rxbJwhLvCqb15AeZOX+I4Jc/kGrae5h1iT4EYD7yN7xNs3W1oD4TKdjpbSmuW22qS9zbBOL651FFqPF681u3D0f+PII/emqRXEpFRUNReD3W1PZVzTZU/0LlcCXn2m8Xv5Ddl7gTw5eAaWtlth7c7QDgMQakPW4D7sFn1XdjUU855au8k3d1B0jKM+nSUCjeJct2UFzcpN0Y9P1DmAk5lYzWR0+1AYHeis5UC1T7nxT5i8We6PwVMvmWKsKXOoYVZq/t9HGfP8cZ/7+3h4cfhsQQWBtttrsKBok0wCJ6MvRsTxiHAb99u60fWI=;1eNKE5xA+HP/tz9ac1QtkQ=="
+secured: "vARIdjCDaf/5kB8qRnmT3bCq3vgpEb1YTP37h19wxhRP7Bd1Mh3limogfcANDw7sFtbcP9t25QpC2DWjKnMU9reig7SRvqbK2MH2NRFT5Toj3pDQnrqN39lnTW+SkHJDw+Ts1aCdNEEbCLTNRVAWgBfjyF9cXJHk53IpRvOqQF6RJz6vc4L4YRId1XdGrSih7wj2VnU0/WNaCpxlW33UcgqoqkfT0pAiFZqwNyhk0qpBwQV4myY9TD0C7sPq7LZ6lHX2IhTeKwAiWnSa8kWhRE/5A7NW4nw/3b5Rf7QXGDMGGVTUqi1yRq0fqoUgprjLzivYGZ59ZlLggZraUk35rPueMGjvOmrmnPoyupRU5eb3rXfvYCbS0XW3jySquVyDAfhv0Yp3/25c3VP3ruEWwBid5objjXf/WXt93FCuSWU1Brty1LVaHnb6DByH9R40kAp5zhVVnltOUPA14JFbSIb2uejM1LZ2HQuk1X7oC8kSqx0OyCocFTnhzswAcv3JLkBybZUGfAu+EhMRLedHAw==;7/EuSYmxGHlbtCrb3tTZ/g=="
 ---
 

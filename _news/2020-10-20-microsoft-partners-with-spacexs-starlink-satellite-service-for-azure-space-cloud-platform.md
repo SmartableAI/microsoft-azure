@@ -9,7 +9,7 @@ ampWebUrl: "https://www.geekwire.com/2020/microsoft-partners-spacexs-starlink-sa
 cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/microsoft-partners-spacexs-starlink-satellite-service-azure-space-cloud-platform/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 127
 published: true
 
 provider:
@@ -45,6 +45,20 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2020/10/AzureSpace_3D2.png?w=1024"
         width: 1024
         height: 576
+        isCached: true
+  - title: "Microsoft partners with SpaceX to launch Azure Space—Here's what to know about the initiative"
+    excerpt: "Tom Keane, Microsoft Corporate vice president in charge of Azure Global, joins 'Squawk Alley' to discuss the company's partnership with SpaceX to bring worldwide satellite connectivity to cloud services."
+    publishedDateTime: 2020-10-20T16:50:00Z
+    webUrl: "https://www.cnbc.com/video/2020/10/20/microsoft-partners-with-spacex-to-launch-azure-spaceaheres-what-to-know-about-the-initiative.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 66
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106752600-16032092311603209228-12020288844-1080pnbcnews.jpg?v=1603209231"
+        width: 1920
+        height: 1080
         isCached: true
 
 secured: "s3m6+/hEd5wLH6FVP8pyvB49AfWN/Q9Am74yFrD4T8v+Y/XrUhSlIjfvxCS4y+wqxGewtCfeHsLptWypCQEmNjWEkTap7+JBOAMOfc86ksDqbqsNjVDzyVR6freDJRgQWRa/nHHFYfo5nzh+BtFelJ4jo2kL6u5JaBJkjGI91Ht5W+iTCuuE6FmmwdCL28T7mhr9faXvkEy29D4ATb31i20Kyg05ngk75zV4rGlqSsInd6wqu5KAbZ6dXIY1v1+ztz0n7XwLkjIJhDmGjVSCHDK2qQSpX+sjzpceN3YJ3eu7AS6wxGSCxBjMs0rG7KaSGOyzX9osGtrlk/I4JS3fq8vl4vI6brEd5yOhiDXeTX4+vJMLBsgYqFIhjdE8IiDUbFFQmFNrBnw2rO+vElaXBNB/E1EmoNRK059dAfur2crITuX8G0yYXNKrutPuwDvkJjRLYjffT8MidXX9BIxQ2Pyu9Zm+kpAPoMnZRU6G3KU1nqhTZxnTGZpIZerC3qSiWhmtealz10Lv9LcHOsKoxg==;mMyQ1H/82MFKM8l9tHzb6g=="

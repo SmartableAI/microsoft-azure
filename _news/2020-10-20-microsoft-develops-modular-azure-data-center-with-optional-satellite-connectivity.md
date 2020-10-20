@@ -1,26 +1,26 @@
 ---
 category: news
-title: "Dicker Data launches new Microsoft Cloud business unit"
-excerpt: "ASX-listed IT hardware, software and cloud distributor, Dicker Data has launched a new Microsoft Cloud business unit in a move the company says deepens its relationship with the global tech giant. Dicker Data (ASX:DDR) says the new unit will led by Sarah Loiterton as general manager and as part of"
-publishedDateTime: 2020-10-14T04:50:00Z
-originalUrl: "https://www.itwire.com/resellers/dicker-data-launches-new-microsoft-cloud-business-unit.html"
-webUrl: "https://www.itwire.com/resellers/dicker-data-launches-new-microsoft-cloud-business-unit.html"
+title: "Microsoft develops modular Azure data center, with optional satellite connectivity"
+excerpt: "Microsoft has developed a modular container-sized data center to bring the cloud to remote areas. The Azure Modular Datacenter can be optionally connected to satellite communications when terrestrial connectivity is not available."
+publishedDateTime: 2020-10-20T16:58:00Z
+originalUrl: "https://www.datacenterdynamics.com/en/news/microsoft-develops-modular-azure-data-center-optional-satellite-connectivity/"
+webUrl: "https://www.datacenterdynamics.com/en/news/microsoft-develops-modular-azure-data-center-optional-satellite-connectivity/"
 type: article
-quality: 22
+quality: 31
 heat: -1
 published: false
 
 provider:
-  name: ITWire
-  domain: itwire.com
+  name: Datacenter Dynamics
+  domain: datacenterdynamics.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://www.itwire.com/media/k2/items/cache/a6d3ea62ee421e5fc717dccf4b518a58_M.jpg"
-    width: 375
-    height: 375
+  - url: "https://media.datacenterdynamics.com/media/images/MicrosoftAzureModularDataCenter.2e16d0ba.fill-1200x630.png"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -513,20 +513,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Microsoft develops modular Azure data center, with optional satellite connectivity"
-    excerpt: "Microsoft has developed a modular container-sized data center to bring the cloud to remote areas. The Azure Modular Datacenter can be optionally connected to satellite communications when terrestrial connectivity is not available."
-    publishedDateTime: 2020-10-20T16:58:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/microsoft-develops-modular-azure-data-center-optional-satellite-connectivity/"
-    type: article
-    provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 31
-    images:
-      - url: "https://media.datacenterdynamics.com/media/images/MicrosoftAzureModularDataCenter.2e16d0ba.fill-1200x630.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Webinar: Transforming Business Models with System Soft Technologies and Microsoft Azure"
     excerpt: "(GLOBE NEWSWIRE) -- System Soft Technologies (SSTech), a leader in enterprise IT services, solutions and products, today announced the company is making available its recent webinar about how organizations are using Microsoft Azure Cloud Services to enhance their business operations and spur growth during these uncertain economic times."
     publishedDateTime: 2020-10-07T16:00:00Z
@@ -568,6 +554,20 @@ related:
       - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/800x800/dimg/sarah_loiterton_1.jpg"
         width: 797
         height: 550
+        isCached: true
+  - title: "Dicker Data launches new Microsoft Cloud business unit"
+    excerpt: "ASX-listed IT hardware, software and cloud distributor, Dicker Data has launched a new Microsoft Cloud business unit in a move the company says deepens its relationship with the global tech giant. Dicker Data (ASX:DDR) says the new unit will led by Sarah Loiterton as general manager and as part of"
+    publishedDateTime: 2020-10-14T04:50:00Z
+    webUrl: "https://www.itwire.com/resellers/dicker-data-launches-new-microsoft-cloud-business-unit.html"
+    type: article
+    provider:
+      name: ITWire
+      domain: itwire.com
+    quality: 22
+    images:
+      - url: "https://www.itwire.com/media/k2/items/cache/a6d3ea62ee421e5fc717dccf4b518a58_M.jpg"
+        width: 375
+        height: 375
         isCached: true
   - title: "Dicker Data launches Microsoft Cloud division"
     excerpt: "Dicker Data has launched a dedicated Microsoft Cloud business unit to drive greater revenue from the software giant’s offerings. The new unit is led by Sarah Loiterton who has worked in the Dicker Data Microsoft and Citrix sales teams for the past four and a half years."
@@ -654,6 +654,6 @@ related:
       domain: seekingalpha.com
     quality: 2
 
-secured: "GD19rMC5OmZeTp6Ayw8EpfJHu29hnyhQrYMUPSCAfNFyaPcVrTQqEMRaFRfYLRP6b+OE8DCz+9/I0zvW5pNdpJndUkKdgk6QTslO7tlfkiihLGsKn2vb5AG9bEzrwe8XHPM0pFMtUEeKKGY7taTQsbdwz3OISPS7Pz516WzvInvn5C0+2ZsZuQHCjBi4Q+CsNVJuBcIQX4qZNBDMAhvPxF4idGvgz7qjjOt0/AaWsJs8Ni5453B0FFT/vS6Ux6GaPACHsTLHovsCbXw3BuQlrNR/nKPps5xOyXtpC7GkY60YmkjnZP+Bws+uRCFovbm2Jnc5uVLXGu4vXgGDisOgM237c/JByiZ5zHEpuYrogZk=;Fb8FG9nt1XDzNS7g5xWb6g=="
+secured: "btYIlf4FDFOuEbnLmj/qpqWwWbZT0fr22U6RVSC7QcOi2/5CSGhrCycjcN8lR/6kGPedRNRXuaAN7cVWSyvnxJX8TNmM79Y/EWlfRm6+UTSB5tl+wRR7u/olyazKm4imXVysBJIsri8AUIX9oyPU7//6CUMZxkqlHbjc/eb3MzR6hJsdwfr0hvXpedhejZtN9pLksa1Xss2T/mm6XD8G5dsgagDePzgNkfmk2GO3HgryuEqgMbYT9gQVUIDrpB4VDtkthTWr59KW5Ln9NuyINm0ViFS12ax0PJt/zLwsmyHoH8rysdioAzeJtXFjYpLiGw3fpfr7nUnlSlI98843dosDEJacA77BQR2XGx3WmOk=;Zo86V7kWd59sPmfY3/4Msw=="
 ---
 

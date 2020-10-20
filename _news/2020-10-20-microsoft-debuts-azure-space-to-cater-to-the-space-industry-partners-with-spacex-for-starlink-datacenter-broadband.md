@@ -46,6 +46,20 @@ related:
         width: 630
         height: 479
         isCached: true
+  - title: "Microsoft partners with SpaceX to launch Azure Space—Here's what to know about the initiative"
+    excerpt: "Tom Keane, Microsoft Corporate vice president in charge of Azure Global, joins 'Squawk Alley' to discuss the company's partnership with SpaceX to bring worldwide satellite connectivity to cloud services."
+    publishedDateTime: 2020-10-20T16:50:00Z
+    webUrl: "https://www.cnbc.com/video/2020/10/20/microsoft-partners-with-spacex-to-launch-azure-spaceaheres-what-to-know-about-the-initiative.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 66
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106752600-16032092311603209228-12020288844-1080pnbcnews.jpg?v=1603209231"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "Zg+ZU76wx0LhmglgyMYTkQiuDi+W+sqFhhugno40kOJwVe4+lJZSUgDr7zqTAPFiksXkkNRKTZUcle74GrWyU7mSaJy5pfmh/zEl/cFsJOdmWtMG2zmfjtqmyWvxMzNgDX6+2joMUojmGmqRVSPqeljbrZV2D13Fy6Gjj3abg6MyPtThrjTJfktslNRqQi+QHJk8dVe2SnG70B4mcO7GZZ73zZnLWZ5c4g0fUlkGr1aFGGoUs3FPQ7WmAkgBcAMls0jSsilLW8cCZQ24q7Toj6K/Pe+FKhBDf9DUWJdcrkv96868BpsgiIcbvV+5eCycqcgzKVfxJeRjSzDb8FtVzaCu7iSTvDBPPgfEg5O5ojCb4eRYycvRkZzPdDXz3lYPm+xrUuJEWRe+h7RQ6vDWH0EqL2fqHk+Bx+teIQWdEJqInfn3NtLMJiYhrAPsqGizZ18MFf+CVL/ZwQI7v+MWT6ImVdV57UcWzpNyjOAyUiX0TNO+5GOEy+e1z8Iv0udp4tmKzaaf0SJxwUgrNNMqDw==;6VeZtHJ9SiDmMIVhW+wpvQ=="
 ---

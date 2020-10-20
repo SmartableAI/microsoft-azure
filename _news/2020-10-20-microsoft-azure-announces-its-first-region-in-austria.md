@@ -1,26 +1,32 @@
 ---
 category: news
-title: "Dicker Data launches new Microsoft Cloud business unit"
-excerpt: "ASX-listed IT hardware, software and cloud distributor, Dicker Data has launched a new Microsoft Cloud business unit in a move the company says deepens its relationship with the global tech giant. Dicker Data (ASX:DDR) says the new unit will led by Sarah Loiterton as general manager and as part of"
-publishedDateTime: 2020-10-14T04:50:00Z
-originalUrl: "https://www.itwire.com/resellers/dicker-data-launches-new-microsoft-cloud-business-unit.html"
-webUrl: "https://www.itwire.com/resellers/dicker-data-launches-new-microsoft-cloud-business-unit.html"
+title: "Microsoft Azure announces its first region in Austria"
+excerpt: "Microsoft today announced its plans to launch a new data center region in Austria, its first in the country. With nearby Azure regions in Switzerland, Germany, France and a planned new region in northern Italy,"
+publishedDateTime: 2020-10-20T16:52:00Z
+originalUrl: "https://techcrunch.com/2020/10/20/microsoft-azure-announces-its-first-region-in-austria/"
+webUrl: "https://techcrunch.com/2020/10/20/microsoft-azure-announces-its-first-region-in-austria/"
+ampWebUrl: "https://techcrunch.com/2020/10/20/microsoft-azure-announces-its-first-region-in-austria/amp/"
+cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/10/20/microsoft-azure-announces-its-first-region-in-austria/amp/"
 type: article
-quality: 22
+quality: 97
 heat: -1
 published: false
 
 provider:
-  name: ITWire
-  domain: itwire.com
+  name: TechCrunch
+  domain: techcrunch.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/techcrunch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
 
 images:
-  - url: "https://www.itwire.com/media/k2/items/cache/a6d3ea62ee421e5fc717dccf4b518a58_M.jpg"
-    width: 375
-    height: 375
+  - url: "https://techcrunch.com/wp-content/uploads/2020/10/GettyImages-1069481166.jpg?w=1024"
+    width: 1024
+    height: 683
     isCached: true
 
 related:
@@ -55,22 +61,6 @@ related:
       - url: "https://tr3.cbsistatic.com/hub/i/r/2018/09/03/f75f535c-2c95-4132-8829-f6a2ed4508c7/resize/1200x/d9dcd7360c3ae2e2a9fc14ee851cb950/azure-logo.jpg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Microsoft Azure announces its first region in Austria"
-    excerpt: "Microsoft today announced its plans to launch a new data center region in Austria, its first in the country. With nearby Azure regions in Switzerland, Germany, France and a planned new region in northern Italy,"
-    publishedDateTime: 2020-10-20T16:52:00Z
-    webUrl: "https://techcrunch.com/2020/10/20/microsoft-azure-announces-its-first-region-in-austria/"
-    ampWebUrl: "https://techcrunch.com/2020/10/20/microsoft-azure-announces-its-first-region-in-austria/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/10/20/microsoft-azure-announces-its-first-region-in-austria/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 97
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/10/GettyImages-1069481166.jpg?w=1024"
-        width: 1024
-        height: 683
         isCached: true
   - title: "Microsoft launches Azure Space initiative; partners with SpaceX"
     excerpt: "Microsoft is using its 'Amazon is your competitor' playbook to try to win over more satellite partners and customers. It's also launching a new Azure in a shipping container offering called Azure Modular Datacenter."
@@ -569,6 +559,20 @@ related:
         width: 797
         height: 550
         isCached: true
+  - title: "Dicker Data launches new Microsoft Cloud business unit"
+    excerpt: "ASX-listed IT hardware, software and cloud distributor, Dicker Data has launched a new Microsoft Cloud business unit in a move the company says deepens its relationship with the global tech giant. Dicker Data (ASX:DDR) says the new unit will led by Sarah Loiterton as general manager and as part of"
+    publishedDateTime: 2020-10-14T04:50:00Z
+    webUrl: "https://www.itwire.com/resellers/dicker-data-launches-new-microsoft-cloud-business-unit.html"
+    type: article
+    provider:
+      name: ITWire
+      domain: itwire.com
+    quality: 22
+    images:
+      - url: "https://www.itwire.com/media/k2/items/cache/a6d3ea62ee421e5fc717dccf4b518a58_M.jpg"
+        width: 375
+        height: 375
+        isCached: true
   - title: "Dicker Data launches Microsoft Cloud division"
     excerpt: "Dicker Data has launched a dedicated Microsoft Cloud business unit to drive greater revenue from the software giant’s offerings. The new unit is led by Sarah Loiterton who has worked in the Dicker Data Microsoft and Citrix sales teams for the past four and a half years."
     publishedDateTime: 2020-10-15T01:06:00Z
@@ -654,6 +658,6 @@ related:
       domain: seekingalpha.com
     quality: 2
 
-secured: "GD19rMC5OmZeTp6Ayw8EpfJHu29hnyhQrYMUPSCAfNFyaPcVrTQqEMRaFRfYLRP6b+OE8DCz+9/I0zvW5pNdpJndUkKdgk6QTslO7tlfkiihLGsKn2vb5AG9bEzrwe8XHPM0pFMtUEeKKGY7taTQsbdwz3OISPS7Pz516WzvInvn5C0+2ZsZuQHCjBi4Q+CsNVJuBcIQX4qZNBDMAhvPxF4idGvgz7qjjOt0/AaWsJs8Ni5453B0FFT/vS6Ux6GaPACHsTLHovsCbXw3BuQlrNR/nKPps5xOyXtpC7GkY60YmkjnZP+Bws+uRCFovbm2Jnc5uVLXGu4vXgGDisOgM237c/JByiZ5zHEpuYrogZk=;Fb8FG9nt1XDzNS7g5xWb6g=="
+secured: "bT8fXZsS91+aYCzOe9SF7gvRdZ6xNPg3Ihpd1yLmO2qt6oPTG2ZTCbwUJB/wR3kZT0oVaKjSTOy59nqCIr0Z7OtmFATtvBXwPFdN3+XrLI7YLBRVJp26BgHz+55v76c210rpb5NBgHVh0w5h2Z+LLE1EjtwNeleUX5IiL4iqD5LXUEmeuuUYAXoboPlkmldc+PvX9tw27qZDfT7uIDuqJWoSyW0XNrkbwkydIRUJgUs8ejFD2g/Ro3jQxgEvxIJnW+fvJ+FLE1gSd7MXmTEY3MTx4ca6M25kEj6/6vlWm26U6zLIYBkyLbR9OP3iw2VJRjVRl/3gQ9H0c8w1Gs+KbD2EiGwYNWUbqfCX1Y/NFro=;WmqxU06GfgsIWZr+mDbxeA=="
 ---
 
