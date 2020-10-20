@@ -8,7 +8,7 @@ ampWebUrl: "https://breakingdefense.com/2020/05/joint-ai-center-turns-to-air-for
 cdnAmpWebUrl: "https://breakingdefense-com.cdn.ampproject.org/c/s/breakingdefense.com/2020/05/joint-ai-center-turns-to-air-force-cloudone-as-jedi-stalls/amp/"
 type: article
 quality: 42
-heat: 62
+heat: 42
 published: false
 
 provider:

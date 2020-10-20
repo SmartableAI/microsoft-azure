@@ -8,6 +8,9 @@ webUrl: "https://www.business2community.com/cybersecurity/has-azure-chargeback-i
 ampWebUrl: "https://www.business2community.com/cybersecurity/has-azure-chargeback-improved-with-the-new-cost-allocation-capabilities-02355205/amp"
 cdnAmpWebUrl: "https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/cybersecurity/has-azure-chargeback-improved-with-the-new-cost-allocation-capabilities-02355205/amp"
 type: article
+quality: 56
+heat: 56
+published: false
 
 provider:
   name: Business 2 Community

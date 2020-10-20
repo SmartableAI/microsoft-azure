@@ -193,6 +193,15 @@ related:
         width: 600
         height: 339
         isCached: true
+  - title: "EPAM Has Earned the Modernization of Web Applications in Microsoft Azure Advanced Specialization"
+    excerpt: "EPAM Systems, Inc., a leading global provider of digital platform engineering and software development services, today announced it has earned the Modernization of Web Applications in Microsoft Azure advanced specialization,"
+    publishedDateTime: 2020-10-19T15:00:00Z
+    webUrl: "https://www.nasdaq.com/press-release/epam-has-earned-the-modernization-of-web-applications-in-microsoft-azure-advanced"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 44
   - title: "Microsoft Cloud Services Like Outlook and Teams Continue to Face Outages"
     excerpt: "Microsoft Cloud services have suffered several windows of downtime in recent weeks, with the latest affecting Office 365."
     publishedDateTime: 2020-10-08T13:40:00Z
@@ -382,20 +391,6 @@ related:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
-        isCached: true
-  - title: "EPAM Has Earned the Modernization of Web Applications in Microsoft Azure Advanced Specialization"
-    excerpt: "PRNewswire/ -- EPAM Systems, Inc. (NYSE: EPAM), a leading global provider of digital platform engineering and software development services, today"
-    publishedDateTime: 2020-10-19T14:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/epam-has-earned-the-modernization-of-web-applications-in-microsoft-azure-advanced-specialization-301154325.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 24
-    images:
-      - url: "https://mma.prnewswire.com/media/722474/EPAM_Logo.jpg?p=facebook"
-        width: 2456
-        height: 1287
         isCached: true
   - title: "Dicker Data launches Microsoft Cloud unit"
     excerpt: "Dicker Data has launched a new Microsoft Cloud business unit under the leadership of Sarah Loiterton as general manager."
