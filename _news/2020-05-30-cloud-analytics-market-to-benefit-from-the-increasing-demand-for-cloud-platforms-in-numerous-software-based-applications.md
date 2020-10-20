@@ -6,7 +6,7 @@ publishedDateTime: 2020-05-30T14:08:00Z
 webUrl: "https://www.marketwatch.com/press-release/cloud-analytics-market-to-benefit-from-the-increasing-demand-for-cloud-platforms-in-numerous-software-based-applications-2020-05-30"
 type: article
 quality: 37
-heat: 37
+heat: 57
 published: false
 
 provider:

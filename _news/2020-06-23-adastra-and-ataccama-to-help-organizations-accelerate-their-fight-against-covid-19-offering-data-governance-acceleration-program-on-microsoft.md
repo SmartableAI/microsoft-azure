@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-23T11:30:00Z
 webUrl: "https://www.finanzen.net/nachricht/aktien/adastra-and-ataccama-to-help-organizations-accelerate-their-fight-against-covid-19-offering-data-governance-acceleration-program-on-microsoft-azure-9000012"
 type: article
 quality: 0
-heat: 0
+heat: 20
 published: false
 
 provider:
