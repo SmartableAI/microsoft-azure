@@ -6,7 +6,7 @@ publishedDateTime: 2020-05-14T12:08:00Z
 webUrl: "https://sdtimes.com/matillion-launches-matillion-etl-for-azure-synapse-empowering-users-with-data-transformation-capabilities-for-rapid-access-to-insights/"
 type: article
 quality: 45
-heat: 65
+heat: 45
 published: false
 
 provider:

@@ -60,6 +60,38 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Microsoft and SpaceX partner to use Azure with Starlink satellite"
+    excerpt: "We’ve seen Microsoft look to expand its services out into space, as the company recently announced Azure Orbital, a service that connects satellites via cloud. On the other hand, SpaceX has been using its Starlink satellites to offer internet around the globe."
+    publishedDateTime: 2020-10-20T19:10:00Z
+    webUrl: "https://www.shacknews.com/article/121031/microsoft-and-spacex-partner-to-use-azure-with-starlink-satellite"
+    ampWebUrl: "https://www.shacknews.com/article/121031/microsoft-and-spacex-partner-to-use-azure-with-starlink-satellite?amphtml=1"
+    cdnAmpWebUrl: "https://www-shacknews-com.cdn.ampproject.org/c/s/www.shacknews.com/article/121031/microsoft-and-spacex-partner-to-use-azure-with-starlink-satellite?amphtml=1"
+    type: article
+    provider:
+      name: Shacknews
+      domain: shacknews.com
+    quality: 57
+    images:
+      - url: "https://d1lss44hh2trtw.cloudfront.net/assets/article/2020/10/20/spacex-satellite_feature.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Microsoft Announces Azure Space And Partnership With SpaceX Starlink"
+    excerpt: "With Microsoft and SpaceX working together, Azure could become “the platform and ecosystem of choice for the mission needs of the space community.”"
+    publishedDateTime: 2020-10-20T19:22:00Z
+    webUrl: "https://hothardware.com/news/microsoft-azure-and-starlink-partnership"
+    ampWebUrl: "https://amp.hothardware.com/news/microsoft-azure-and-starlink-partnership"
+    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/microsoft-azure-and-starlink-partnership"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 57
+    images:
+      - url: "https://images.hothardware.com/contentimages/newsitem/53184/content/spacex-rocket.jpg"
+        width: 708
+        height: 472
+        isCached: true
 
 secured: "tqVIp5vChuTM+HsAJUg4yA+9cq7uN+rkW1tHMrIREDYouzIUkwaXLZ0CAE9gjnxN48Nh1zDcRI2pUzlpTdMIH5cd3jqPu5koCIRbpRRG6W4lT8BLp6s2uWlMcYrBCvDwXaAA8lA993Xvd8k1pin+pSi+8gN0Vb98dXlGRWj186z7D9RgEaHYo8y6M7OsZEuCCX1fQkhfevSJiZd26L/DautwhF7Id4Qyxg7joJyuzlfbe6E4roasKUNZpbHTHxqBFRmqdqtKKnKoBL0LaWO7nUOUUOBmaUazdF1C2wD/hwYL4jRtTufRib/cA7+iOTQtPGsr2KOFgc5CQlv+S+r1ih+wg48brsWtU35NXtVTdlM=;Ba3zRm1ol5TO/cKe5w8RFQ=="
 ---

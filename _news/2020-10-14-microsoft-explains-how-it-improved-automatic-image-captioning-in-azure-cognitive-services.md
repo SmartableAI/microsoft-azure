@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/10/14/microsoft-explains-how-it-improve
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/14/microsoft-explains-how-it-improved-automatic-image-captioning-in-azure-cognitive-services/amp/"
 type: article
 quality: 120
-heat: 1060
+heat: 1080
 published: true
 
 provider:
@@ -480,6 +480,20 @@ related:
       - url: "https://www.datacenterknowledge.com/sites/datacenterknowledge.com/files/ThalesAlenia%20SES-17%20satellite%20model%202019%20getty.jpg"
         width: 1024
         height: 685
+        isCached: true
+  - title: "Microsoft launches Azure Space to power satellite projects"
+    excerpt: "Microsoft Corp. today debuted Azure Space, a new portfolio of cloud products that will address use cases such as simulating satellite constellations and providing internet connectivity to edge devices."
+    publishedDateTime: 2020-10-20T21:48:00Z
+    webUrl: "https://siliconangle.com/2020/10/20/microsoft-launches-azure-space-power-space-projects/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 37
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/10/Space_3-1000x563.jpg"
+        width: 1000
+        height: 563
         isCached: true
   - title: "Tamr Announces the Only Cloud-Native Data Mastering Solutions for Google Cloud Platform, AWS, and Microsoft Azure"
     excerpt: "PRNewswire/ -- Tamr, Inc., a cloud-native data mastering platform used by some of the world's largest enterprises"

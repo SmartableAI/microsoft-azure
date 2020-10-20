@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-29T16:00:28Z
 webUrl: "https://azure.microsoft.com/en-us/updates/iot-plug-and-play-public-preview-new-features/"
 type: article
 quality: 2
-heat: 22
+heat: 2
 published: false
 
 provider:

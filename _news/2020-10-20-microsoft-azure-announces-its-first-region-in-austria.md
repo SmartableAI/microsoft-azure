@@ -480,6 +480,20 @@ related:
         width: 1024
         height: 685
         isCached: true
+  - title: "Microsoft launches Azure Space to power satellite projects"
+    excerpt: "Microsoft Corp. today debuted Azure Space, a new portfolio of cloud products that will address use cases such as simulating satellite constellations and providing internet connectivity to edge devices."
+    publishedDateTime: 2020-10-20T21:48:00Z
+    webUrl: "https://siliconangle.com/2020/10/20/microsoft-launches-azure-space-power-space-projects/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 37
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/10/Space_3-1000x563.jpg"
+        width: 1000
+        height: 563
+        isCached: true
   - title: "Tamr Announces the Only Cloud-Native Data Mastering Solutions for Google Cloud Platform, AWS, and Microsoft Azure"
     excerpt: "PRNewswire/ -- Tamr, Inc., a cloud-native data mastering platform used by some of the world's largest enterprises"
     publishedDateTime: 2020-10-07T13:35:00Z
@@ -658,6 +672,6 @@ related:
       domain: seekingalpha.com
     quality: 2
 
-secured: "bT8fXZsS91+aYCzOe9SF7gvRdZ6xNPg3Ihpd1yLmO2qt6oPTG2ZTCbwUJB/wR3kZT0oVaKjSTOy59nqCIr0Z7OtmFATtvBXwPFdN3+XrLI7YLBRVJp26BgHz+55v76c210rpb5NBgHVh0w5h2Z+LLE1EjtwNeleUX5IiL4iqD5LXUEmeuuUYAXoboPlkmldc+PvX9tw27qZDfT7uIDuqJWoSyW0XNrkbwkydIRUJgUs8ejFD2g/Ro3jQxgEvxIJnW+fvJ+FLE1gSd7MXmTEY3MTx4ca6M25kEj6/6vlWm26U6zLIYBkyLbR9OP3iw2VJRjVRl/3gQ9H0c8w1Gs+KbD2EiGwYNWUbqfCX1Y/NFro=;WmqxU06GfgsIWZr+mDbxeA=="
+secured: "Ox6pH9LxSa/vPIXg7Lre1FDF8+WQ96HD03D7txHxP33htHAz85gP0wFhwjwJ9wHudEMrqzE2gehAjL9rRcaHCPqGfgY+aq/bIdnitGrSosYhpisbpG+wvQnVsyYYyT6tMczO5+swdRdXr6XELvrUyAVwoyY6vn9dKiaf1fn4dhSQTWpnejzHElzOp8A7OZprGPobx1cNpLg/HhoGCz3QiDq/UlRw/hPqbQAbLJzNNjNOqH2m3XeFHvfJV9YO0CTVGX/izY38qbvHmmx17/Rk5cLguplCAq0aCom4uEAXcdqN5KXFoW0Shm372U6brlrNzRQtgNj+rbIk/+gXkxEOjXMtjlGIm3GuXw/KyIV3HUBZvaMgPcqOKELHT6Fxj2G8ezcRs8uNdh3NMrNl5G4wzfqU8Iz8tRGJW3MoJRXZLcTMT8Vz8uIorC08j+w++8bgKTVi1HHM9kCB/4Rt3nQlqXmv/96eJxlJ5SJ+ktj7J806FOrXnjpVaZMOll34Bqamnuq1n33PtIWA7bQQwjGV+A==;2CrHMD4FM2sw0fF0ffwq8A=="
 ---
 

@@ -486,6 +486,20 @@ related:
         width: 1024
         height: 685
         isCached: true
+  - title: "Microsoft launches Azure Space to power satellite projects"
+    excerpt: "Microsoft Corp. today debuted Azure Space, a new portfolio of cloud products that will address use cases such as simulating satellite constellations and providing internet connectivity to edge devices."
+    publishedDateTime: 2020-10-20T21:48:00Z
+    webUrl: "https://siliconangle.com/2020/10/20/microsoft-launches-azure-space-power-space-projects/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 37
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/10/Space_3-1000x563.jpg"
+        width: 1000
+        height: 563
+        isCached: true
   - title: "Tamr Announces the Only Cloud-Native Data Mastering Solutions for Google Cloud Platform, AWS, and Microsoft Azure"
     excerpt: "PRNewswire/ -- Tamr, Inc., a cloud-native data mastering platform used by some of the world's largest enterprises"
     publishedDateTime: 2020-10-07T13:35:00Z

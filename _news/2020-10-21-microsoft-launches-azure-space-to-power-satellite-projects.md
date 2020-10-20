@@ -1,25 +1,27 @@
 ---
 category: news
-title: "Tamr Announces the Only Cloud-Native Data Mastering Solutions for Google Cloud Platform, AWS, and Microsoft Azure"
-excerpt: "PRNewswire/ -- Tamr, Inc., a cloud-native data mastering platform used by some of the world's largest enterprises"
-publishedDateTime: 2020-10-07T13:35:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/tamr-announces-the-only-cloud-native-data-mastering-solutions-for-google-cloud-platform-aws-and-microsoft-azure-1029657406"
-webUrl: "https://markets.businessinsider.com/news/stocks/tamr-announces-the-only-cloud-native-data-mastering-solutions-for-google-cloud-platform-aws-and-microsoft-azure-1029657406"
+title: "Microsoft launches Azure Space to power satellite projects"
+excerpt: "Microsoft Corp. today debuted Azure Space, a new portfolio of cloud products that will address use cases such as simulating satellite constellations and providing internet connectivity to edge devices."
+publishedDateTime: 2020-10-20T21:48:00Z
+originalUrl: "https://siliconangle.com/2020/10/20/microsoft-launches-azure-space-power-space-projects/"
+webUrl: "https://siliconangle.com/2020/10/20/microsoft-launches-azure-space-power-space-projects/"
 type: article
-quality: 36
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: SiliconANGLE
+  domain: siliconangle.com
 
 topics:
   - Azure
+
+images:
+  - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/10/Space_3-1000x563.jpg"
+    width: 1000
+    height: 563
+    isCached: true
 
 related:
   - title: "Microsoft explains how it improved automatic image captioning in Azure Cognitive Services"
@@ -488,20 +490,15 @@ related:
         width: 1024
         height: 685
         isCached: true
-  - title: "Microsoft launches Azure Space to power satellite projects"
-    excerpt: "Microsoft Corp. today debuted Azure Space, a new portfolio of cloud products that will address use cases such as simulating satellite constellations and providing internet connectivity to edge devices."
-    publishedDateTime: 2020-10-20T21:48:00Z
-    webUrl: "https://siliconangle.com/2020/10/20/microsoft-launches-azure-space-power-space-projects/"
+  - title: "Tamr Announces the Only Cloud-Native Data Mastering Solutions for Google Cloud Platform, AWS, and Microsoft Azure"
+    excerpt: "PRNewswire/ -- Tamr, Inc., a cloud-native data mastering platform used by some of the world's largest enterprises"
+    publishedDateTime: 2020-10-07T13:35:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/tamr-announces-the-only-cloud-native-data-mastering-solutions-for-google-cloud-platform-aws-and-microsoft-azure-1029657406"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 37
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/10/Space_3-1000x563.jpg"
-        width: 1000
-        height: 563
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 36
   - title: "Starburst Enterprise for Presto Now Available in The Microsoft Azure Marketplace"
     excerpt: "Starburst today announced the availability of Starburst Enterprise for Presto in the Microsoft Azure Marketplace, an online store that provides applications and services for use on Microsoft Azure. Starburst customers can now take advantage of the productive and trusted Azure cloud platform,"
     publishedDateTime: 2020-10-13T15:00:00Z
@@ -671,6 +668,6 @@ related:
       domain: seekingalpha.com
     quality: 2
 
-secured: "cXHB7MsgVr0I8QZsiKFrbervhwJdvLC7t2KJ4Pn54TaXkvWiLeFZrNOsjZjtMnyIg9SPBYxMXDVJg+6Za+lNkj/omYNIzY6sI7ieewwFgRKadJkbYQg4YDwfwRTGgx6awZYXmj3jwgGNbcemr/vOKW1zslSs9AsRXsYrkuE+Usixind9VA4369v1+rUS5KmQZncT6IIJyAkmg6T3zyqzfgdWKR9dyURz/ViQPmoXArYwubSu1PgwLYkxScyGnHriSkcofKjF91+SADkJ6tCC4/uXYKLkDdxBefplNhSp/ttaAr7DYqakGtvg0Qt4N5wtULneU696h9+ZAzssiNHi9Z+OngXWBtNbx7IDbdAwYj0=;1E1LSAp6oLAFdJHIN4pevA=="
+secured: "wScL47hBE7D1hiEi/qh05NCP8lR3thVpCc1A+42peZnhJ+UZfELzO+AJWGKCIXUpxTCz0j3iUJcv+qrFHeoped685CniErOV6LbPVQAjb0TwF3jhK2O+PY4oYXZnwTzGoLQ3Abe457EgX04vyUZFKAeox/pB5AU96ULmmzo/b7/jzQqYVwkT/oOthgyoelFjG9d/CeziDsTRPsHC1jdxLjA3wPBI+FzHof8gS29rlud2q6+iL3xIUBhoFidv3GiD/pOXO4n9MAJ75v67OJ5D3ZizDMyxTne9ImlVns7WTcoVf2cUYlPXIbNmc8I9IU9QxSwvdWgs19/wrIgAtuJzkkgH7fWID35EMUzWdRau8Vs=;QGQNUQi0TypFNOCQ6Cfz5g=="
 ---
 
