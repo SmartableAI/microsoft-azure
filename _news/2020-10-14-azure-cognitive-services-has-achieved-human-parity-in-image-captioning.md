@@ -39,6 +39,54 @@ related:
         width: 1200
         height: 573
         isCached: true
+  - title: "Microsoft launches Azure Space initiative; partners with SpaceX"
+    excerpt: "Microsoft is using its 'Amazon is your competitor' playbook to try to win over more satellite partners and customers. It's also launching a new Azure in a shipping container offering called Azure Modular Datacenter."
+    publishedDateTime: 2020-10-20T13:01:00Z
+    webUrl: "https://www.zdnet.com/article/microsoft-launches-azure-space-initiative-partners-with-spacex/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-launches-azure-space-initiative-partners-with-spacex/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-launches-azure-space-initiative-partners-with-spacex/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 97
+    images:
+      - url: "https://zdnet3.cbsistatic.com/hub/i/2020/10/19/d2944b64-469c-4021-bdfa-50348dd6931f/azurespace.jpg"
+        width: 798
+        height: 482
+        isCached: true
+  - title: "Microsoft Pushes Azure Cloud Services Into New Frontier: Space"
+    excerpt: "Microsoft Corp. is focusing on space as a new industry for its Azure cloud-computing services, and the software giant is teaming up with companies like Elon Musk’s SpaceX to use satellites to bring broadband internet connectivity to remote areas on earth."
+    publishedDateTime: 2020-10-20T13:15:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2020-10-20/microsoft-pushes-azure-cloud-services-into-new-frontier-space"
+    ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-10-20/microsoft-pushes-azure-cloud-services-into-new-frontier-space"
+    cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-10-20/microsoft-pushes-azure-cloud-services-into-new-frontier-space"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 97
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iecDWfMqF6Fo/v0/360x-1.jpg"
+        width: 360
+        height: 240
+        isCached: true
+  - title: "Microsoft takes Azure cloud computing into outer space"
+    excerpt: "Microsoft has announced the next step in its mission to challenge Amazon and bring its cloud computing prowess to the burgeoning space race. Dubbed Azure Space, Microsoft is going all in to make ..."
+    publishedDateTime: 2020-10-20T13:07:00Z
+    webUrl: "https://venturebeat.com/2020/10/20/microsoft-takes-azure-cloud-computing-into-outer-space/"
+    ampWebUrl: "https://venturebeat.com/2020/10/20/microsoft-takes-azure-cloud-computing-into-outer-space/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/20/microsoft-takes-azure-cloud-computing-into-outer-space/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 97
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/10/AzureSpace_Still_02.png?w=1200&#038;strip=all"
+        width: 1200
+        height: 609
+        isCached: true
   - title: "Microsoft unveils updates across Azure Cognitive Services and Azure Machine Learning"
     excerpt: "Microsoft rolled out updates across its AI and machine learning cloud portfolio during its Ignite 2020 virtual conference."
     publishedDateTime: 2020-09-22T16:00:00Z
@@ -54,6 +102,20 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2019/11/microsoft-1-e1580261336710.jpg?w=1200&#038;strip=all"
         width: 1200
         height: 573
+        isCached: true
+  - title: "Introducing the Microsoft Azure Modular Datacenter"
+    excerpt: "The Microsoft Azure Modular Datacenter (MDC) is designed to support datacenter scale scenarios for humanitarian aid, disaster response, and other needs for high-intensity, secure cloud computing in challenging environments."
+    publishedDateTime: 2020-10-20T06:00:20Z
+    webUrl: "https://azure.microsoft.com/blog/introducing-the-microsoft-azure-modular-datacenter/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 89
+    images:
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/086ab745-514d-4a12-b1eb-c342c869208e.jpg"
+        width: 1432
+        height: 805
         isCached: true
   - title: "Microsoft cloud issues continue with more global outages"
     excerpt: "Microsoft’s cloud computing services are continuing to experience issues after outages resurfaced this week. A serious Azure Active Directory authentication issue emerged last week, followed by an Exchange/Outlook problem that affected Office 365 customers in Europe and India."

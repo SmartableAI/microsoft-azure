@@ -1,26 +1,32 @@
 ---
 category: news
-title: "Microsoft Azure Flaws Open Admin Servers to Takeover"
-excerpt: "Two flaws in Microsoft's cloud-based Azure App Services could have allowed server-side forgery request (SSFR) and remote code-execution attacks."
-publishedDateTime: 2020-10-08T15:40:00Z
-originalUrl: "https://threatpost.com/microsoft-azure-flaws-servers-takeover/159965/"
-webUrl: "https://threatpost.com/microsoft-azure-flaws-servers-takeover/159965/"
+title: "Microsoft takes Azure cloud computing into outer space"
+excerpt: "Microsoft has announced the next step in its mission to challenge Amazon and bring its cloud computing prowess to the burgeoning space race. Dubbed Azure Space, Microsoft is going all in to make ..."
+publishedDateTime: 2020-10-20T13:07:00Z
+originalUrl: "https://venturebeat.com/2020/10/20/microsoft-takes-azure-cloud-computing-into-outer-space/"
+webUrl: "https://venturebeat.com/2020/10/20/microsoft-takes-azure-cloud-computing-into-outer-space/"
+ampWebUrl: "https://venturebeat.com/2020/10/20/microsoft-takes-azure-cloud-computing-into-outer-space/amp/"
+cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/20/microsoft-takes-azure-cloud-computing-into-outer-space/amp/"
 type: article
-quality: 37
+quality: 97
 heat: -1
 published: false
 
 provider:
-  name: Threat Post
-  domain: threatpost.com
+  name: VentureBeat
+  domain: venturebeat.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/venturebeat.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
 
 images:
-  - url: "https://media.threatpost.com/wp-content/uploads/sites/103/2020/09/15073634/Microsoft-Office.jpg"
-    width: 750
-    height: 402
+  - url: "https://venturebeat.com/wp-content/uploads/2020/10/AzureSpace_Still_02.png?w=1200&#038;strip=all"
+    width: 1200
+    height: 609
     isCached: true
 
 related:
@@ -71,22 +77,6 @@ related:
       - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iecDWfMqF6Fo/v0/360x-1.jpg"
         width: 360
         height: 240
-        isCached: true
-  - title: "Microsoft takes Azure cloud computing into outer space"
-    excerpt: "Microsoft has announced the next step in its mission to challenge Amazon and bring its cloud computing prowess to the burgeoning space race. Dubbed Azure Space, Microsoft is going all in to make ..."
-    publishedDateTime: 2020-10-20T13:07:00Z
-    webUrl: "https://venturebeat.com/2020/10/20/microsoft-takes-azure-cloud-computing-into-outer-space/"
-    ampWebUrl: "https://venturebeat.com/2020/10/20/microsoft-takes-azure-cloud-computing-into-outer-space/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/20/microsoft-takes-azure-cloud-computing-into-outer-space/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 97
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/10/AzureSpace_Still_02.png?w=1200&#038;strip=all"
-        width: 1200
-        height: 609
         isCached: true
   - title: "Microsoft unveils updates across Azure Cognitive Services and Azure Machine Learning"
     excerpt: "Microsoft rolled out updates across its AI and machine learning cloud portfolio during its Ignite 2020 virtual conference."
@@ -322,6 +312,20 @@ related:
         width: 2000
         height: 1046
         isCached: true
+  - title: "Microsoft Azure Flaws Open Admin Servers to Takeover"
+    excerpt: "Two flaws in Microsoft's cloud-based Azure App Services could have allowed server-side forgery request (SSFR) and remote code-execution attacks."
+    publishedDateTime: 2020-10-08T15:40:00Z
+    webUrl: "https://threatpost.com/microsoft-azure-flaws-servers-takeover/159965/"
+    type: article
+    provider:
+      name: Threat Post
+      domain: threatpost.com
+    quality: 37
+    images:
+      - url: "https://media.threatpost.com/wp-content/uploads/sites/103/2020/09/15073634/Microsoft-Office.jpg"
+        width: 750
+        height: 402
+        isCached: true
   - title: "DataWeave Now Available in the Microsoft Azure Marketplace"
     excerpt: "DataWeave, a digital commerce analytics platform, today announced the availability of DataWeave competitive intelligence as a service in the Microsoft Azure Marketplace, an"
     publishedDateTime: 2020-10-08T17:01:00Z
@@ -547,6 +551,6 @@ related:
       domain: seekingalpha.com
     quality: 2
 
-secured: "vLa7+J3V+6pM942BQSqL75y18RDW7dHb0ztZHzMb6VDlSImUD0XuwmPx/Lmbj3aUx7nLJ3YGnYvWW9XH6Qr1ssi2KRCsEEYg7KIcxgI1JBDix9hY3tmkFhIANlrXQHxY+e7AULkyYed51MszKbOn3Jvz2N9Efu7ZVX1mla95Y9F3z6bVvwXYYZCeGJG8ec4EMwcPsQ8kLInHcztx4r/5axyhk9FqxMzT4sV1T0CrzU7UbwsZiaYcB1BNOybM/GaoMfUiRJgyaMeO5xraocbUjJE8WmzyTlcZd/Rsz2mL8tx+t3+vhpoRteiPQwRW2c6PhVHe3vxlXTVanPmiSXWPNFt/uFL7ZmA/KpqYkw5e+/7XFKTwdXbHFaSptDTIz0vTdl8XQTnaTlN10lS1YoB1khqK5RHbOX7+L16yq7z7FqubHOqdwCjpXvbRuUN10V8rXQpZwiPziDydJpDOCf9ua3RAnMyOgg4w80nFyFwpOysSAf6dITWYMc6fx4NyTzNG4jm+pZPZncsiyCjualECDw==;QLLHIWob/BGrXwo3C6Sx+g=="
+secured: "4lh6En8rzw8HEhAM3Tk3tTUZe3DfDIOJjyqaKDMXmpAYFBNS0hiJ65mmhCLAOXkf5XKu8EFjvqvWTxlIqjXWYaEmR4PRGyvdQC4m9ytd++MO09qBq9cop8yMGBxqwukNuH3yFqWG33B9tFo23yWpK1iFE3/VxOqcZ7a3h1SLg9VqQm2NCB0Yi2AYKZ3Mt48dlo/P2FbTca3FdkxZ+RZDkvJB+rnl4YCx3qkNJR39+Oux99JArOSULdMCkKVwqrP8npmjgnbieTW8ruL/Fej4iFaF4zIocMUnSUEZbAAiBASQ6HBNTrN5XCp13aQlcHAOyhu3bpVyOHjTzkr0sYx8+enEmZ0Ozxf+uSf2eih3yTM=;ETpgD4EBj9XuEUCyj05ngA=="
 ---
 

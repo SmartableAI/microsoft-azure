@@ -1,26 +1,31 @@
 ---
 category: news
-title: "Microsoft Azure Flaws Open Admin Servers to Takeover"
-excerpt: "Two flaws in Microsoft's cloud-based Azure App Services could have allowed server-side forgery request (SSFR) and remote code-execution attacks."
-publishedDateTime: 2020-10-08T15:40:00Z
-originalUrl: "https://threatpost.com/microsoft-azure-flaws-servers-takeover/159965/"
-webUrl: "https://threatpost.com/microsoft-azure-flaws-servers-takeover/159965/"
+title: "Introducing the Microsoft Azure Modular Datacenter"
+excerpt: "The Microsoft Azure Modular Datacenter (MDC) is designed to support datacenter scale scenarios for humanitarian aid, disaster response, and other needs for high-intensity, secure cloud computing in challenging environments."
+publishedDateTime: 2020-10-20T06:00:20Z
+originalUrl: "https://azure.microsoft.com/blog/introducing-the-microsoft-azure-modular-datacenter/"
+webUrl: "https://azure.microsoft.com/blog/introducing-the-microsoft-azure-modular-datacenter/"
 type: article
-quality: 37
+quality: 89
 heat: -1
 published: false
 
 provider:
-  name: Threat Post
-  domain: threatpost.com
+  name: Microsoft
+  domain: microsoft.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
+  - Analytics
 
 images:
-  - url: "https://media.threatpost.com/wp-content/uploads/sites/103/2020/09/15073634/Microsoft-Office.jpg"
-    width: 750
-    height: 402
+  - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/086ab745-514d-4a12-b1eb-c342c869208e.jpg"
+    width: 1432
+    height: 805
     isCached: true
 
 related:
@@ -103,20 +108,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2019/11/microsoft-1-e1580261336710.jpg?w=1200&#038;strip=all"
         width: 1200
         height: 573
-        isCached: true
-  - title: "Introducing the Microsoft Azure Modular Datacenter"
-    excerpt: "The Microsoft Azure Modular Datacenter (MDC) is designed to support datacenter scale scenarios for humanitarian aid, disaster response, and other needs for high-intensity, secure cloud computing in challenging environments."
-    publishedDateTime: 2020-10-20T06:00:20Z
-    webUrl: "https://azure.microsoft.com/blog/introducing-the-microsoft-azure-modular-datacenter/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 89
-    images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/086ab745-514d-4a12-b1eb-c342c869208e.jpg"
-        width: 1432
-        height: 805
         isCached: true
   - title: "Azure Cognitive Services has achieved human parity in image captioning"
     excerpt: "Computer Vision, part of Azure Cognitive Services, now offers an updated image captioning capability that has achieved human parity based on the Novel Object Captioning at Scale (NOCAPS) benchmark. "
@@ -321,6 +312,20 @@ related:
       - url: "https://mma.prnewswire.com/media/486774/DataWeave_Logo.jpg?p=facebook"
         width: 2000
         height: 1046
+        isCached: true
+  - title: "Microsoft Azure Flaws Open Admin Servers to Takeover"
+    excerpt: "Two flaws in Microsoft's cloud-based Azure App Services could have allowed server-side forgery request (SSFR) and remote code-execution attacks."
+    publishedDateTime: 2020-10-08T15:40:00Z
+    webUrl: "https://threatpost.com/microsoft-azure-flaws-servers-takeover/159965/"
+    type: article
+    provider:
+      name: Threat Post
+      domain: threatpost.com
+    quality: 37
+    images:
+      - url: "https://media.threatpost.com/wp-content/uploads/sites/103/2020/09/15073634/Microsoft-Office.jpg"
+        width: 750
+        height: 402
         isCached: true
   - title: "DataWeave Now Available in the Microsoft Azure Marketplace"
     excerpt: "DataWeave, a digital commerce analytics platform, today announced the availability of DataWeave competitive intelligence as a service in the Microsoft Azure Marketplace, an"
@@ -547,6 +552,6 @@ related:
       domain: seekingalpha.com
     quality: 2
 
-secured: "vLa7+J3V+6pM942BQSqL75y18RDW7dHb0ztZHzMb6VDlSImUD0XuwmPx/Lmbj3aUx7nLJ3YGnYvWW9XH6Qr1ssi2KRCsEEYg7KIcxgI1JBDix9hY3tmkFhIANlrXQHxY+e7AULkyYed51MszKbOn3Jvz2N9Efu7ZVX1mla95Y9F3z6bVvwXYYZCeGJG8ec4EMwcPsQ8kLInHcztx4r/5axyhk9FqxMzT4sV1T0CrzU7UbwsZiaYcB1BNOybM/GaoMfUiRJgyaMeO5xraocbUjJE8WmzyTlcZd/Rsz2mL8tx+t3+vhpoRteiPQwRW2c6PhVHe3vxlXTVanPmiSXWPNFt/uFL7ZmA/KpqYkw5e+/7XFKTwdXbHFaSptDTIz0vTdl8XQTnaTlN10lS1YoB1khqK5RHbOX7+L16yq7z7FqubHOqdwCjpXvbRuUN10V8rXQpZwiPziDydJpDOCf9ua3RAnMyOgg4w80nFyFwpOysSAf6dITWYMc6fx4NyTzNG4jm+pZPZncsiyCjualECDw==;QLLHIWob/BGrXwo3C6Sx+g=="
+secured: "W5eLnKobUv8rO/VgOe/jmpVSX0EAvaOGgGYFczohuQVRi6yR/XFmQfZfw2+NvQSaxkQ0BN4Kpj0dLU9mOZX9LzfdE3sFZrDcfW05CG7dfsTn+LP3orMzytNCBrYdN2HhGe7QmcKLlRCBV8oUAxNAzJgHcPV1UiU9f7ySyyJ+GueQM+cvwtObnYg8BR9lvjokRKPYY9VzdMjCpyAxoX9u8RbUvV5TqGugarxAbuMHoIPt4j6T5lR/3l4EiQENpaMDj2Z2KsUhUzBo94y+KG9N7G4RRMa1rNP2C5t+9hZoXDzXg/9mpa6W6IwXQb7fgw2HZUgijNwssrxryoMf2xlCt0UzH65Z9PzdJZY4mZcLkMQ=;Jy31BnqqJrvU7fkC7CWq7g=="
 ---
 

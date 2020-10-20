@@ -1,26 +1,32 @@
 ---
 category: news
-title: "Microsoft Azure Flaws Open Admin Servers to Takeover"
-excerpt: "Two flaws in Microsoft's cloud-based Azure App Services could have allowed server-side forgery request (SSFR) and remote code-execution attacks."
-publishedDateTime: 2020-10-08T15:40:00Z
-originalUrl: "https://threatpost.com/microsoft-azure-flaws-servers-takeover/159965/"
-webUrl: "https://threatpost.com/microsoft-azure-flaws-servers-takeover/159965/"
+title: "Microsoft launches Azure Space initiative; partners with SpaceX"
+excerpt: "Microsoft is using its 'Amazon is your competitor' playbook to try to win over more satellite partners and customers. It's also launching a new Azure in a shipping container offering called Azure Modular Datacenter."
+publishedDateTime: 2020-10-20T13:01:00Z
+originalUrl: "https://www.zdnet.com/article/microsoft-launches-azure-space-initiative-partners-with-spacex/"
+webUrl: "https://www.zdnet.com/article/microsoft-launches-azure-space-initiative-partners-with-spacex/"
+ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-launches-azure-space-initiative-partners-with-spacex/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-launches-azure-space-initiative-partners-with-spacex/"
 type: article
-quality: 37
+quality: 97
 heat: -1
 published: false
 
 provider:
-  name: Threat Post
-  domain: threatpost.com
+  name: ZDNet
+  domain: zdnet.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/zdnet.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
 
 images:
-  - url: "https://media.threatpost.com/wp-content/uploads/sites/103/2020/09/15073634/Microsoft-Office.jpg"
-    width: 750
-    height: 402
+  - url: "https://zdnet3.cbsistatic.com/hub/i/2020/10/19/d2944b64-469c-4021-bdfa-50348dd6931f/azurespace.jpg"
+    width: 798
+    height: 482
     isCached: true
 
 related:
@@ -39,22 +45,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2019/11/microsoft-1-e1580261336710.jpg?w=1200&#038;strip=all"
         width: 1200
         height: 573
-        isCached: true
-  - title: "Microsoft launches Azure Space initiative; partners with SpaceX"
-    excerpt: "Microsoft is using its 'Amazon is your competitor' playbook to try to win over more satellite partners and customers. It's also launching a new Azure in a shipping container offering called Azure Modular Datacenter."
-    publishedDateTime: 2020-10-20T13:01:00Z
-    webUrl: "https://www.zdnet.com/article/microsoft-launches-azure-space-initiative-partners-with-spacex/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-launches-azure-space-initiative-partners-with-spacex/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-launches-azure-space-initiative-partners-with-spacex/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 97
-    images:
-      - url: "https://zdnet3.cbsistatic.com/hub/i/2020/10/19/d2944b64-469c-4021-bdfa-50348dd6931f/azurespace.jpg"
-        width: 798
-        height: 482
         isCached: true
   - title: "Microsoft Pushes Azure Cloud Services Into New Frontier: Space"
     excerpt: "Microsoft Corp. is focusing on space as a new industry for its Azure cloud-computing services, and the software giant is teaming up with companies like Elon Musk’s SpaceX to use satellites to bring broadband internet connectivity to remote areas on earth."
@@ -322,6 +312,20 @@ related:
         width: 2000
         height: 1046
         isCached: true
+  - title: "Microsoft Azure Flaws Open Admin Servers to Takeover"
+    excerpt: "Two flaws in Microsoft's cloud-based Azure App Services could have allowed server-side forgery request (SSFR) and remote code-execution attacks."
+    publishedDateTime: 2020-10-08T15:40:00Z
+    webUrl: "https://threatpost.com/microsoft-azure-flaws-servers-takeover/159965/"
+    type: article
+    provider:
+      name: Threat Post
+      domain: threatpost.com
+    quality: 37
+    images:
+      - url: "https://media.threatpost.com/wp-content/uploads/sites/103/2020/09/15073634/Microsoft-Office.jpg"
+        width: 750
+        height: 402
+        isCached: true
   - title: "DataWeave Now Available in the Microsoft Azure Marketplace"
     excerpt: "DataWeave, a digital commerce analytics platform, today announced the availability of DataWeave competitive intelligence as a service in the Microsoft Azure Marketplace, an"
     publishedDateTime: 2020-10-08T17:01:00Z
@@ -547,6 +551,6 @@ related:
       domain: seekingalpha.com
     quality: 2
 
-secured: "vLa7+J3V+6pM942BQSqL75y18RDW7dHb0ztZHzMb6VDlSImUD0XuwmPx/Lmbj3aUx7nLJ3YGnYvWW9XH6Qr1ssi2KRCsEEYg7KIcxgI1JBDix9hY3tmkFhIANlrXQHxY+e7AULkyYed51MszKbOn3Jvz2N9Efu7ZVX1mla95Y9F3z6bVvwXYYZCeGJG8ec4EMwcPsQ8kLInHcztx4r/5axyhk9FqxMzT4sV1T0CrzU7UbwsZiaYcB1BNOybM/GaoMfUiRJgyaMeO5xraocbUjJE8WmzyTlcZd/Rsz2mL8tx+t3+vhpoRteiPQwRW2c6PhVHe3vxlXTVanPmiSXWPNFt/uFL7ZmA/KpqYkw5e+/7XFKTwdXbHFaSptDTIz0vTdl8XQTnaTlN10lS1YoB1khqK5RHbOX7+L16yq7z7FqubHOqdwCjpXvbRuUN10V8rXQpZwiPziDydJpDOCf9ua3RAnMyOgg4w80nFyFwpOysSAf6dITWYMc6fx4NyTzNG4jm+pZPZncsiyCjualECDw==;QLLHIWob/BGrXwo3C6Sx+g=="
+secured: "3aBYS+42eRkt3vLGJGFidZH66Ux53Z3RBwSRG0RZ/jo0kVfHd4SB6cPsGfQNis4nTF3wvDw5Gh6NZTR78qUdZrkCOxQssdRWZtRmWlhdQuJIr2T+QUhXmzyUf1x5t4gx3dk2fSbPXkFPhhhf7wm3ZIaAplCDrN5Vyfmq9mqRbHDsO0wMc47RgfMknp02AvXukhg2VCAhvEe3YiVns7UM+NHOQG7n1OoeqPcrdvAkwHCNTsmJ4EysfPaJUDchk34i18maoOgBedgp8I3FT+MOIzeScOoGrJsZpRsi53eo7LVvwciCjTcAdUOwKZtlihfHiwPpBBaH8Zrhiw4+e5tfXCJG1f97U2OijgkoRIuS8I8=;a1dJVC8s+LckQEsdShwWKA=="
 ---
 
