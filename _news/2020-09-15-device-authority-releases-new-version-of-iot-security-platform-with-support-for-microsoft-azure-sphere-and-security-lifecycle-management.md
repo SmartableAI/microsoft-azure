@@ -33,6 +33,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 99
+  - title: "Azure Blob storage lifecycle management now supports blob versions management  "
+    excerpt: "You can now use Azure Blob storage lifecycle management to automatically transition old blob versions to a cooler storage tier (hot to cool, hot to archive, or cool to archive) or delete old blob versions to optimize for cost."
+    publishedDateTime: 2020-10-21T15:00:31Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-blob-storage-lifecycle-management-now-supports-blob-versions-management/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 95
   - title: "Azure Blob access time tracking and access time-based lifecycle management preview "
     excerpt: "The preview is available in France Central, Canada East, and Canada Central regions."
     publishedDateTime: 2020-09-17T21:00:12Z

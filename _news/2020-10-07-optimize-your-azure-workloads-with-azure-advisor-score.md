@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/optimize-your-azure-workloads-wit
 webUrl: "https://azure.microsoft.com/blog/optimize-your-azure-workloads-with-azure-advisor-score/"
 type: article
 quality: 87
-heat: 107
+heat: 108
 published: true
 
 provider:
