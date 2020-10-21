@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/azure-migrate-now-lets-y
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-migrate-now-lets-you-migrate-servers-to-availability-zones/"
 type: article
 quality: 84
-heat: 105
+heat: 104
 published: true
 
 provider:
