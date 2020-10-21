@@ -1,12 +1,12 @@
 ---
 category: news
-title: "Public preview: Service Fabric managed clusters"
-excerpt: "Service Fabric managed clusters reduce complexity and issues associated with managing a cluster made up of multiple resources."
-publishedDateTime: 2020-10-14T16:00:14Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/public-preview-service-fabric-managed-clusters/"
-webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-service-fabric-managed-clusters/"
+title: "Multiple new features for Azure VPN Gateway in public preview"
+excerpt: "Take advantage of multiple new enhancements and features that are now available in Azure VPN Gateway."
+publishedDateTime: 2020-10-21T19:49:14Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/multiple-new-features-for-vpn-gateway-in-public-preview/"
+webUrl: "https://azure.microsoft.com/en-us/updates/multiple-new-features-for-vpn-gateway-in-public-preview/"
 type: article
-quality: 52
+quality: 84
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - Azure
+  - Networking
 
 related:
   - title: "Azure Defender for IoT enters public preview"
@@ -38,16 +39,16 @@ related:
         width: 999
         height: 468
         isCached: true
-  - title: "Multiple new features for Azure VPN Gateway in public preview"
-    excerpt: "Take advantage of multiple new enhancements and features that are now available in Azure VPN Gateway."
-    publishedDateTime: 2020-10-21T19:49:14Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/multiple-new-features-for-vpn-gateway-in-public-preview/"
+  - title: "Public preview: Service Fabric managed clusters"
+    excerpt: "Service Fabric managed clusters reduce complexity and issues associated with managing a cluster made up of multiple resources."
+    publishedDateTime: 2020-10-14T16:00:14Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-service-fabric-managed-clusters/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 84
+    quality: 52
 
-secured: "emTUSegS7ky0eVOSqNx4SKlk+4JFa5iONkjRbHypEbxbZ2osKKaRyy68oZMAFxSG2jYYuxsErwaCK18hOnZAU6wTtOhcWKvr7yqasIN8MlTFIQ0FjWxJJIrAI3UEFsvhH+hzcxAlNSoRhJjXvYb8H/LH4AQpZ43DQ3hyXtJPgWtc3r1fjDkdapKEKncMJxbvx2N1PlOy0Eg1Z1A3fb/YEItsX85dSjif/XD3I+AcGNejGVQ0MEUfsG51wf4vp6qBKGftOz8B8nNT7UnV+kzYXNwxlySWu7f9JVrqTHjoltfUnkQ/ZouNoJa5xDWmaOOJw5br5HnAeTbMNW6aVAlRVcIDqZnR9pu0y9oQwkC7cRg=;AbyKGnbZYJfY2/c5/m5dKw=="
+secured: "I2YQSyCXl50gCQFT/IwkU603Z+abpEumrbmTaEKjn05oLBMjsCqwC4B6rxGa4gqJ1Id+96wPRrG71ydtBMdiM5km/Os+5AieQY2DpWUZMcJwTd9DIanGUZyldSa/1ob7MWKn/uG5wHTOVi8ohGP9858mM73P9k9FDgmRqESUO7ghsCHQWrg+ZR4j/hM9Mqr0SoOLtuioNx8JN4NW+MAtij75qPAQfHQgOU4XoanmbvztzaSVgVtzPreykBM8VnjJFWPyhcO8lByjz2SRjTxebZdCCnQuyNFzxUd0l4It3Su0P5xsXqVvJSZfgvCd0zYb7dB/qM4bGOYh9kijXAeUu8/CirqpIQnTeAd3APnF+KU=;r5BmoztWiwEvR6nwY4WrRA=="
 ---
 

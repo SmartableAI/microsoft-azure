@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/azure-defender-for-iot-ente
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/azure-defender-for-iot-enters-public-preview/"
 type: article
 quality: 114
-heat: 134
+heat: 154
 published: true
 
 provider:
@@ -31,6 +31,15 @@ images:
     isCached: true
 
 related:
+  - title: "Multiple new features for Azure VPN Gateway in public preview"
+    excerpt: "Take advantage of multiple new enhancements and features that are now available in Azure VPN Gateway."
+    publishedDateTime: 2020-10-21T19:49:14Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/multiple-new-features-for-vpn-gateway-in-public-preview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
   - title: "Public preview: Service Fabric managed clusters"
     excerpt: "Service Fabric managed clusters reduce complexity and issues associated with managing a cluster made up of multiple resources."
     publishedDateTime: 2020-10-14T16:00:14Z

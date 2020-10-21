@@ -1,11 +1,12 @@
 ---
 category: news
-title: "Azure App Service—.NET Core 3.1 is now generally available"
-excerpt: ""
-publishedDateTime: 2020-04-23T16:00:29Z
-webUrl: "https://azure.microsoft.com/en-us/updates/azure-app-service-net-core-31-ga-on-app-service/"
+title: "Increased functionalities to 1-click on Azure Data Explorer is now generally available"
+excerpt: "1-click capabilities for intuitive semi-automatic table and ingestion experiences in Azure Data Explorer is generally available."
+publishedDateTime: 2020-10-21T21:37:32Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/azure-data-explorer-1click-is-now-in-general-availability/"
+webUrl: "https://azure.microsoft.com/en-us/updates/azure-data-explorer-1click-is-now-in-general-availability/"
 type: article
-quality: 17
+quality: 59
 heat: -1
 published: false
 
@@ -30,15 +31,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 69
-  - title: "Increased functionalities to 1-click on Azure Data Explorer is now generally available"
-    excerpt: "1-click capabilities for intuitive semi-automatic table and ingestion experiences in Azure Data Explorer is generally available."
-    publishedDateTime: 2020-10-21T21:37:32Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-data-explorer-1click-is-now-in-general-availability/"
+  - title: "Azure App Service—.NET Core 3.1 is now generally available"
+    excerpt: ""
+    publishedDateTime: 2020-04-23T16:00:29Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-app-service-net-core-31-ga-on-app-service/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 59
+    quality: 17
   - title: "Private endpoints for Azure File Sync are now generally available"
     excerpt: "Starting with Azure File Sync agent 10.1, Azure File Sync supports private endpoints in all public and Azure US Government cloud regions where Azure File Sync is available."
     publishedDateTime: 2020-07-09T21:00:12Z
@@ -49,6 +50,6 @@ related:
       domain: microsoft.com
     quality: 17
 
-secured: "NR/Vhe2UWV5FTwVOL5PQtpdn4eogP6RWfUFkFgV7vQc0LPiUZUrMx9GFo/pqPijmzAVJ75SlQ4nipChJfuCMCOE/wTpx0xiRqxsVR+BUUpP5EPyLWJyBiKAN56ETUyGQoe7c5WWpdSAFNpptgf4+tm3Ctz+vOjEKZxu3bMqodhlx8513rww5uDmZ19z5EwExOWZ14K5q6SpVq1SyNxnwJiT6/gvSUbPM8zdRAZ7xa25zUHYHh7j3Zb3x95g+g4+u3uaeTc/9nvKcGGUNhWAxh5AJgczEB4W73EYFiNIAg96Af3Ay+TrbXLzuLW+HvGDjU61jxncDxhpgSmyLZUKuaA==;RgQMEwGUJ059BALBLiGGAA=="
+secured: "7AH8uHI1nMV9HZW4pY5gmViPdEtt5YNLYwEQJKjHMknjK93TeqNC4kWkdplij48E3kYGuLiR/VKcvZnmLBqU6jc1i2VyRFYl5EACkaOVTficXvpkyk8S/VTpWcXSXVmFBn0+ASCBLav4mW9NrX+VzTRPK+WhOwjU/BXbTrAPLqL4D5ZmojtULHxbzJNyQsl932mrOeUHpkbIIT07+K3iTF4u0xPxyuEtyPfarhKUybTgs5lYbUeANGDpTmKPh3005kv46OMzgDyJZg7iPWiAqSMusNq2xgwUrHlRbfB1OuZvBgxMsZDWorkupZv7fWzg7+vAxSYZBkepnrjVfRLU7zIjLPNIBbP58Yaim13iu24=;OiYstHfdZwTphgDB5KN5Vg=="
 ---
 
