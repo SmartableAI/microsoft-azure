@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-26T08:57:00Z
 webUrl: "https://www.finextra.com/pressarticle/83073/bny-mellon-to-build-esg-data-analytics-on-microsoft-azure"
 type: article
 quality: 37
-heat: 37
+heat: 57
 published: false
 
 provider:
