@@ -9,7 +9,7 @@ ampWebUrl: "https://www.geekwire.com/2020/microsoft-partners-spacexs-starlink-sa
 cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/microsoft-partners-spacexs-starlink-satellite-service-azure-space-cloud-platform/amp/"
 type: article
 quality: 87
-heat: 167
+heat: 207
 published: true
 
 provider:
@@ -91,6 +91,36 @@ related:
       - url: "https://images.hothardware.com/contentimages/newsitem/53184/content/spacex-rocket.jpg"
         width: 708
         height: 472
+        isCached: true
+  - title: "Microsoft’s Azure To Be Connected To SpaceX’s Starlink Satellite Internet"
+    excerpt: "SpaceX launched 60 Starlink satellites on Sunday Microsoft launched Azure Orbital, to connect cloud services to satellites Jeff Bezos' cloud services already offer similar services Microsoft Azure’s cloud services will now be connected directly to SpaceX ..."
+    publishedDateTime: 2020-10-21T11:31:00Z
+    webUrl: "https://www.ibtimes.com/microsofts-azure-be-connected-spacexs-starlink-satellite-internet-3066016"
+    ampWebUrl: "https://www.ibtimes.com/microsofts-azure-be-connected-spacexs-starlink-satellite-internet-3066016?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/microsofts-azure-be-connected-spacexs-starlink-satellite-internet-3066016?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 56
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/04/19/starlink-iss.jpg"
+        width: 640
+        height: 427
+        isCached: true
+  - title: "Microsoft Azure Space teams up with SpaceX's Starlink and SES's O3b"
+    excerpt: "Microsoft is expanding its off-planetary ambitions with the launch of a new business division, Azure Space. As part of the new initiative, Microsoft will partner with SpaceX's Starlink Internet service,"
+    publishedDateTime: 2020-10-21T11:34:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/microsoft-azure-space-teams-spacexs-starlink-and-sess-o3b/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 37
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/SpaceXlaunch.2e16d0ba.fill-1200x630.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "s3m6+/hEd5wLH6FVP8pyvB49AfWN/Q9Am74yFrD4T8v+Y/XrUhSlIjfvxCS4y+wqxGewtCfeHsLptWypCQEmNjWEkTap7+JBOAMOfc86ksDqbqsNjVDzyVR6freDJRgQWRa/nHHFYfo5nzh+BtFelJ4jo2kL6u5JaBJkjGI91Ht5W+iTCuuE6FmmwdCL28T7mhr9faXvkEy29D4ATb31i20Kyg05ngk75zV4rGlqSsInd6wqu5KAbZ6dXIY1v1+ztz0n7XwLkjIJhDmGjVSCHDK2qQSpX+sjzpceN3YJ3eu7AS6wxGSCxBjMs0rG7KaSGOyzX9osGtrlk/I4JS3fq8vl4vI6brEd5yOhiDXeTX4+vJMLBsgYqFIhjdE8IiDUbFFQmFNrBnw2rO+vElaXBNB/E1EmoNRK059dAfur2crITuX8G0yYXNKrutPuwDvkJjRLYjffT8MidXX9BIxQ2Pyu9Zm+kpAPoMnZRU6G3KU1nqhTZxnTGZpIZerC3qSiWhmtealz10Lv9LcHOsKoxg==;mMyQ1H/82MFKM8l9tHzb6g=="

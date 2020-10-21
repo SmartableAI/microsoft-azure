@@ -281,6 +281,22 @@ related:
       name: Bleeping Computer
       domain: bleepingcomputer.com
     quality: 54
+  - title: "Hashtag Trending – Google VS the US; Hacking for charity; Microsoft Azure, but in space!"
+    excerpt: "Google is accused of abusing monopoly powers by the U.S. government, hackers are using cyber crime for good, and Microsoft debuts Azure"
+    publishedDateTime: 2020-10-21T09:04:00Z
+    webUrl: "https://www.itbusiness.ca/news/hashtag-trending-google-vs-the-us-hacking-for-charity-microsoft-azure-but-in-space/116377"
+    ampWebUrl: "https://www.itbusiness.ca/news/hashtag-trending-google-vs-the-us-hacking-for-charity-microsoft-azure-but-in-space/116377?amp=1"
+    cdnAmpWebUrl: "https://www-itbusiness-ca.cdn.ampproject.org/c/s/www.itbusiness.ca/news/hashtag-trending-google-vs-the-us-hacking-for-charity-microsoft-azure-but-in-space/116377?amp=1"
+    type: article
+    provider:
+      name: IT Business
+      domain: itbusiness.ca
+    quality: 48
+    images:
+      - url: "https://i.itbusiness.ca/wp-content/uploads/2018/01/ht_banner-hashtag-trending-620x250.jpg"
+        width: 620
+        height: 250
+        isCached: true
   - title: "Saviynt Integrates Microsoft Azure Active Directory to Provide Advanced Identity Governance for Enterprise Customers"
     excerpt: "LOS ANGELES-- ( BUSINESS WIRE )-- Saviynt, a leading cloud-built identity governance platform, today announced new and expanded integration with Microsoft Azure Active Directory (Azure AD) to provide additional advanced governance scenarios for enterprise customers."
     publishedDateTime: 2020-10-14T11:00:00Z
@@ -475,6 +491,20 @@ related:
         width: 1024
         height: 685
         isCached: true
+  - title: "Microsoft Launches Azure Space to Expand Connectivity; Tom Keane Quoted"
+    excerpt: "Microsoft has launched Azure Space to store space-based data, as well as enable ground-based consumers to expand connectivity. Azure Space will link Azure’s existing cloud platform with new data centers and a network of privately owned satellites to provide high-speed internet across the globe."
+    publishedDateTime: 2020-10-21T11:02:00Z
+    webUrl: "https://www.govconwire.com/2020/10/microsoft-launches-azure-space-to-expand-connectivity-tom-keane-quoted/"
+    type: article
+    provider:
+      name: GovCon Wire
+      domain: govconwire.com
+    quality: 37
+    images:
+      - url: "https://govconwire-media.s3.amazonaws.com/2020/10/21/b3/80/60/db/45/d1/7c/54/a0If300000NAy8eEAD-azure-space.jpeg"
+        width: 272
+        height: 270
+        isCached: true
   - title: "Microsoft launches Azure Space to power satellite projects"
     excerpt: "Microsoft Corp. today debuted Azure Space, a new portfolio of cloud products that will address use cases such as simulating satellite constellations and providing internet connectivity to edge devices."
     publishedDateTime: 2020-10-20T21:48:00Z
@@ -488,6 +518,31 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/10/Space_3-1000x563.jpg"
         width: 1000
         height: 563
+        isCached: true
+  - title: "Microsoft pushes Azure cloud services into new frontier: space"
+    excerpt: "A Microsoft partnership with SpaceX's Starlink network of low-orbit satellites will be used to power a new line of modular cloud-data centers."
+    publishedDateTime: 2020-10-21T11:20:00Z
+    webUrl: "https://www.seattletimes.com/business/microsoft/microsoft-pushes-azure-cloud-services-into-new-frontier-space/"
+    ampWebUrl: "https://www.seattletimes.com/business/microsoft/microsoft-pushes-azure-cloud-services-into-new-frontier-space/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/microsoft/microsoft-pushes-azure-cloud-services-into-new-frontier-space/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 37
+  - title: "Microsoft to build Azure Cloud region in Vienna, Austria"
+    excerpt: "Microsoft is establishing its first cloud data center region in Vienna, Austria. Microsoft hopes to generate up to $2.1bn in revenue from its presence in Austria over the next four years. Microsoft President Brad Smith announced the news at the Austrian Federal Chancellery alongside Austrian Chancellor Sebastian Kurz,"
+    publishedDateTime: 2020-10-21T12:52:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/microsoft-build-azure-cloud-region-vienna-austria/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 37
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/Microsoft_announcement_austria.2e16d0ba.fill-1200x630.jpg"
+        width: 960
+        height: 504
         isCached: true
   - title: "Tamr Announces the Only Cloud-Native Data Mastering Solutions for Google Cloud Platform, AWS, and Microsoft Azure"
     excerpt: "PRNewswire/ -- Tamr, Inc., a cloud-native data mastering platform used by some of the world's largest enterprises"

@@ -1,25 +1,27 @@
 ---
 category: news
-title: "Tamr Announces the Only Cloud-Native Data Mastering Solutions for Google Cloud Platform, AWS, and Microsoft Azure"
-excerpt: "PRNewswire/ -- Tamr, Inc., a cloud-native data mastering platform used by some of the world's largest enterprises"
-publishedDateTime: 2020-10-07T13:35:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/tamr-announces-the-only-cloud-native-data-mastering-solutions-for-google-cloud-platform-aws-and-microsoft-azure-1029657406"
-webUrl: "https://markets.businessinsider.com/news/stocks/tamr-announces-the-only-cloud-native-data-mastering-solutions-for-google-cloud-platform-aws-and-microsoft-azure-1029657406"
+title: "Microsoft to build Azure Cloud region in Vienna, Austria"
+excerpt: "Microsoft is establishing its first cloud data center region in Vienna, Austria. Microsoft hopes to generate up to $2.1bn in revenue from its presence in Austria over the next four years. Microsoft President Brad Smith announced the news at the Austrian Federal Chancellery alongside Austrian Chancellor Sebastian Kurz,"
+publishedDateTime: 2020-10-21T12:52:00Z
+originalUrl: "https://www.datacenterdynamics.com/en/news/microsoft-build-azure-cloud-region-vienna-austria/"
+webUrl: "https://www.datacenterdynamics.com/en/news/microsoft-build-azure-cloud-region-vienna-austria/"
 type: article
-quality: 36
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Datacenter Dynamics
+  domain: datacenterdynamics.com
 
 topics:
   - Azure
+
+images:
+  - url: "https://media.datacenterdynamics.com/media/images/Microsoft_announcement_austria.2e16d0ba.fill-1200x630.jpg"
+    width: 960
+    height: 504
+    isCached: true
 
 related:
   - title: "Microsoft explains how it improved automatic image captioning in Azure Cognitive Services"
@@ -543,20 +545,15 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 37
-  - title: "Microsoft to build Azure Cloud region in Vienna, Austria"
-    excerpt: "Microsoft is establishing its first cloud data center region in Vienna, Austria. Microsoft hopes to generate up to $2.1bn in revenue from its presence in Austria over the next four years. Microsoft President Brad Smith announced the news at the Austrian Federal Chancellery alongside Austrian Chancellor Sebastian Kurz,"
-    publishedDateTime: 2020-10-21T12:52:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/microsoft-build-azure-cloud-region-vienna-austria/"
+  - title: "Tamr Announces the Only Cloud-Native Data Mastering Solutions for Google Cloud Platform, AWS, and Microsoft Azure"
+    excerpt: "PRNewswire/ -- Tamr, Inc., a cloud-native data mastering platform used by some of the world's largest enterprises"
+    publishedDateTime: 2020-10-07T13:35:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/tamr-announces-the-only-cloud-native-data-mastering-solutions-for-google-cloud-platform-aws-and-microsoft-azure-1029657406"
     type: article
     provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 37
-    images:
-      - url: "https://media.datacenterdynamics.com/media/images/Microsoft_announcement_austria.2e16d0ba.fill-1200x630.jpg"
-        width: 960
-        height: 504
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 36
   - title: "Starburst Enterprise for Presto Now Available in The Microsoft Azure Marketplace"
     excerpt: "Starburst today announced the availability of Starburst Enterprise for Presto in the Microsoft Azure Marketplace, an online store that provides applications and services for use on Microsoft Azure. Starburst customers can now take advantage of the productive and trusted Azure cloud platform,"
     publishedDateTime: 2020-10-13T15:00:00Z
@@ -726,6 +723,6 @@ related:
       domain: seekingalpha.com
     quality: 2
 
-secured: "cXHB7MsgVr0I8QZsiKFrbervhwJdvLC7t2KJ4Pn54TaXkvWiLeFZrNOsjZjtMnyIg9SPBYxMXDVJg+6Za+lNkj/omYNIzY6sI7ieewwFgRKadJkbYQg4YDwfwRTGgx6awZYXmj3jwgGNbcemr/vOKW1zslSs9AsRXsYrkuE+Usixind9VA4369v1+rUS5KmQZncT6IIJyAkmg6T3zyqzfgdWKR9dyURz/ViQPmoXArYwubSu1PgwLYkxScyGnHriSkcofKjF91+SADkJ6tCC4/uXYKLkDdxBefplNhSp/ttaAr7DYqakGtvg0Qt4N5wtULneU696h9+ZAzssiNHi9Z+OngXWBtNbx7IDbdAwYj0=;1E1LSAp6oLAFdJHIN4pevA=="
+secured: "4iEPtOAmFC4E05GPsfq227dgO/4Dk6SV/Z+YtwgSGE5GXtGsIZQbFruan/60jrvHRajtuE+2seAod4PcUUC7220UUblNWzfst4eNZZBf1U7UR/avVKa8j5p2E9awsyFcXCsLgJ7iIT6J4rr2RbimeJUw0LD021KxCeDdpGJQMcjInJAWkDJk/BxJrXocLda8KBNiN6QL4e8fmKQc1V0dZRzPKdrQOYq36F2rhze9RZ5Y56gheqfP8vREQU+9shlhrWv/Zt+LHQorPd5mS/Rh8RndVuFVTuaiXgvpGpVRnNNhihj5sYSkrjs3PI1fEgyo6PgCZcdndRJq8IXeNXFwsDNAvoc+tjyAMq4BisqznOM=;d5mZ+E3DC1xpi1Q9oE37PA=="
 ---
 

@@ -88,6 +88,36 @@ related:
         width: 708
         height: 472
         isCached: true
+  - title: "Microsoft’s Azure To Be Connected To SpaceX’s Starlink Satellite Internet"
+    excerpt: "SpaceX launched 60 Starlink satellites on Sunday Microsoft launched Azure Orbital, to connect cloud services to satellites Jeff Bezos' cloud services already offer similar services Microsoft Azure’s cloud services will now be connected directly to SpaceX ..."
+    publishedDateTime: 2020-10-21T11:31:00Z
+    webUrl: "https://www.ibtimes.com/microsofts-azure-be-connected-spacexs-starlink-satellite-internet-3066016"
+    ampWebUrl: "https://www.ibtimes.com/microsofts-azure-be-connected-spacexs-starlink-satellite-internet-3066016?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/microsofts-azure-be-connected-spacexs-starlink-satellite-internet-3066016?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 56
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/04/19/starlink-iss.jpg"
+        width: 640
+        height: 427
+        isCached: true
+  - title: "Microsoft Azure Space teams up with SpaceX's Starlink and SES's O3b"
+    excerpt: "Microsoft is expanding its off-planetary ambitions with the launch of a new business division, Azure Space. As part of the new initiative, Microsoft will partner with SpaceX's Starlink Internet service,"
+    publishedDateTime: 2020-10-21T11:34:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/microsoft-azure-space-teams-spacexs-starlink-and-sess-o3b/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 37
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/SpaceXlaunch.2e16d0ba.fill-1200x630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "IRPgnGMHoMxkHI2oQ3PRK9AKOsTJvVA/fPzDmFVO2yHavAlo8mcIr2hTzmVPaZtf0I9agCHEHqUuYLfdRqwR69dOqmz3fBQoS/mKEr1594ET3vpTl4/SORNuzjOgZh8uDDT8eLl2KZIlCBm4dAaoThWfe3QMANEd+pjeeGI5OkSh/xa4c4LzfxEIKXdkLUNsamio++ULji/SQJJXVCAjfwFLR+oxjN77+6Wc2A7s/7O3MRXJzz6Z6UKeMN81EOyoN4T7S1M/dJJ/DbfqVBRaevfrriTe97PCmpEq+AwyPWLiNxiLG3KmT+Z/UlImdfV0ivNVcfluiOV9JVCB0AYmCqWpbKWFjzdJHAkMU4TKBguabNJ03j/5fdI/3T8fgbhWGTAEuVX7Gk48QA1fypi8NCG9GrRQ01w/mpsDaoO85L2AnwUkq6LCpxIW+vekVHWxII5uPWHNz1b7FphTiz9z/h5YDDX0jGsI9rSnDguEadWsKHEkOH/HCoMErH8wBkbXqXUkbvgVk7Osr7NwBbIQUA==;xAKC4owraJ4SjW1Zj7YXYQ=="
 ---

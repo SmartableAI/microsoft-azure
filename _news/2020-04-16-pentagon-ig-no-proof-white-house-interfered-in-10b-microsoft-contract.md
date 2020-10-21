@@ -8,7 +8,7 @@ ampWebUrl: "https://www.upi.com/amp/Top_News/US/2020/04/15/Pentagon-IG-No-proof-
 cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2020/04/15/Pentagon-IG-No-proof-White-House-interfered-in-10B-Microsoft-contract/2041586970851/"
 type: article
 quality: 42
-heat: 62
+heat: 42
 published: false
 
 provider:
