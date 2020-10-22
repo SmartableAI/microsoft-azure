@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Microsoft and Honeywell collaborate on Azure and Dynamics 365"
+    excerpt: "The manufacturing multinational will be bringing domain-specific applications built on Microsoft's cloud platform to market. More ways to innovate the industrial workplace will also be explored."
+    publishedDateTime: 2020-10-22T19:16:00Z
+    webUrl: "https://www.neowin.net/news/microsoft-and-honeywell-collaborate-on-azure-and-dynamics-365"
+    ampWebUrl: "https://www.neowin.net/amp/microsoft-and-honeywell-collaborate-on-azure-and-dynamics-365/"
+    cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-and-honeywell-collaborate-on-azure-and-dynamics-365/"
+    type: article
+    provider:
+      name: Neowin
+      domain: neowin.net
+    quality: 97
+    images:
+      - url: "https://cdn.neow.in/news/images/uploaded/2020/10/1603393938_microsoft_honeywell_logo_story.jpg"
+        width: 760
+        height: 428
+        isCached: true
   - title: "Honeywell, Microsoft partner on industrial apps, Dynamics, Azure integration"
     excerpt: "The two companies will combine that artificial intelligence in Honeywell Forge performance management software with Microsoft Dynamics Field Service."
     publishedDateTime: 2020-10-22T16:00:00Z
@@ -37,22 +53,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 91
-  - title: "Microsoft partners with SpaceX to connect Azure cloud to Musk's Starlink satellite internet"
-    excerpt: "Microsoft is partnering with SpaceX to connect the tech giant's Azure cloud computing network to the growing Starlink satellite internet."
-    publishedDateTime: 2020-10-20T21:14:00Z
-    webUrl: "https://www.cnbc.com/2020/10/20/microsoft-expands-its-space-business-pairing-its-azure-cloud-with-spacexs-starlink-internet.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2020/10/20/microsoft-expands-its-space-business-pairing-its-azure-cloud-with-spacexs-starlink-internet.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/10/20/microsoft-expands-its-space-business-pairing-its-azure-cloud-with-spacexs-starlink-internet.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 87
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106689529-1599138903852-starlink_satellites_screenshot.png?v=1599138942"
-        width: 1494
-        height: 889
-        isCached: true
   - title: "Microsoft’s Azure To Be Connected To SpaceX’s Starlink Satellite Internet"
     excerpt: "SpaceX launched 60 Starlink satellites on Sunday Microsoft launched Azure Orbital, to connect cloud services to satellites Jeff Bezos' cloud services already offer similar services Microsoft Azure’s cloud services will now be connected directly to SpaceX ..."
     publishedDateTime: 2020-10-21T11:31:00Z
@@ -69,15 +69,6 @@ related:
         width: 640
         height: 427
         isCached: true
-  - title: "Microsoft plans to establish new cloud datacenter region in Austria"
-    excerpt: "The new region is anticipated to include Microsoft Azure, with Microsoft 365, Dynamics 365 and Power Platform to follow."
-    publishedDateTime: 2020-10-21T19:19:56Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/microsoft-plans-to-establish-new-cloud-datacenter-region-in-austria/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 52
   - title: "Microsoft Adds Modular Datacenter to Azure Space Efforts"
     excerpt: "Microsoft this week introduced the Microsoft Azure Modular Datacenter as part of its overall Azure Space effort."
     publishedDateTime: 2020-10-22T00:51:00Z

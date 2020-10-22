@@ -1,45 +1,35 @@
 ---
 category: news
-title: "Microsoft Adds Modular Datacenter to Azure Space Efforts"
-excerpt: "Microsoft this week introduced the Microsoft Azure Modular Datacenter as part of its overall Azure Space effort."
-publishedDateTime: 2020-10-22T00:51:00Z
-originalUrl: "https://redmondmag.com/articles/2020/10/21/azure-modular-datacenter.aspx"
-webUrl: "https://redmondmag.com/articles/2020/10/21/azure-modular-datacenter.aspx"
+title: "Microsoft and Honeywell collaborate on Azure and Dynamics 365"
+excerpt: "The manufacturing multinational will be bringing domain-specific applications built on Microsoft's cloud platform to market. More ways to innovate the industrial workplace will also be explored."
+publishedDateTime: 2020-10-22T19:16:00Z
+originalUrl: "https://www.neowin.net/news/microsoft-and-honeywell-collaborate-on-azure-and-dynamics-365"
+webUrl: "https://www.neowin.net/news/microsoft-and-honeywell-collaborate-on-azure-and-dynamics-365"
+ampWebUrl: "https://www.neowin.net/amp/microsoft-and-honeywell-collaborate-on-azure-and-dynamics-365/"
+cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-and-honeywell-collaborate-on-azure-and-dynamics-365/"
 type: article
-quality: 37
-heat: -1
-published: false
+quality: 97
+heat: 177
+published: true
 
 provider:
-  name: Redmond Magazine
-  domain: redmondmag.com
+  name: Neowin
+  domain: neowin.net
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/neowin.net-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
 
 images:
-  - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/IntroImagesBigSmall/AzureModularBig.jpg"
-    width: 1665
-    height: 1158
+  - url: "https://cdn.neow.in/news/images/uploaded/2020/10/1603393938_microsoft_honeywell_logo_story.jpg"
+    width: 760
+    height: 428
     isCached: true
 
 related:
-  - title: "Microsoft and Honeywell collaborate on Azure and Dynamics 365"
-    excerpt: "The manufacturing multinational will be bringing domain-specific applications built on Microsoft's cloud platform to market. More ways to innovate the industrial workplace will also be explored."
-    publishedDateTime: 2020-10-22T19:16:00Z
-    webUrl: "https://www.neowin.net/news/microsoft-and-honeywell-collaborate-on-azure-and-dynamics-365"
-    ampWebUrl: "https://www.neowin.net/amp/microsoft-and-honeywell-collaborate-on-azure-and-dynamics-365/"
-    cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-and-honeywell-collaborate-on-azure-and-dynamics-365/"
-    type: article
-    provider:
-      name: Neowin
-      domain: neowin.net
-    quality: 97
-    images:
-      - url: "https://cdn.neow.in/news/images/uploaded/2020/10/1603393938_microsoft_honeywell_logo_story.jpg"
-        width: 760
-        height: 428
-        isCached: true
   - title: "Honeywell, Microsoft partner on industrial apps, Dynamics, Azure integration"
     excerpt: "The two companies will combine that artificial intelligence in Honeywell Forge performance management software with Microsoft Dynamics Field Service."
     publishedDateTime: 2020-10-22T16:00:00Z
@@ -83,7 +73,21 @@ related:
         width: 640
         height: 427
         isCached: true
+  - title: "Microsoft Adds Modular Datacenter to Azure Space Efforts"
+    excerpt: "Microsoft this week introduced the Microsoft Azure Modular Datacenter as part of its overall Azure Space effort."
+    publishedDateTime: 2020-10-22T00:51:00Z
+    webUrl: "https://redmondmag.com/articles/2020/10/21/azure-modular-datacenter.aspx"
+    type: article
+    provider:
+      name: Redmond Magazine
+      domain: redmondmag.com
+    quality: 37
+    images:
+      - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/IntroImagesBigSmall/AzureModularBig.jpg"
+        width: 1665
+        height: 1158
+        isCached: true
 
-secured: "I3evPkQOAFwrZ9nUoX1ZwnuA0cUUwyWAuYb88frFwYHrkraEKG1qy8utxW7VbaDHXOltRHxLHrPKMWyBM66veZEc6JQ2F0oZYBoDCfEiBdQllZ5aQKuT1iAswC9lI4/vW/IcId3H4k46VQrO7miF0c3xEIL7+pUuDggHQbC4tJ4m/MSCQ+exePBoZMCragLiXg9bN0h2iLYtXJZUxhA4UPrksasIniiK8SQKiZCau54r5HKFY7xZSWclBlf6E51UHisfYSKkwLs/l2r6EUArpTPIhhKHbqkUzZVGb7ssb7UH8FmdR+poi4v75MxNFAhjV0lmLgUe13flp75bvsHsKalo1q/UoYhrlB9GqsBfdUkH1u4QUrFjAN3ki0ynwuzkf53BQ3FKVTvuF2jv/QTLqMdzzlIkMtFNykUrSMITUmMJcjuyUksDkjm4QUlgrZTid2gR0DsbKyJevkguLg+lwwUOLxT0RofKOMqRB76Py7OCeS2mqngFMMjUSwILGhKKfAhcNzkrkPfT1XWkUxK+4w==;Lw0ia1TUTS6279eM3Ra4uw=="
+secured: "2DwlwyhED38WicEHqy2bwalCGLct3a4/jOOXaFtoObBvhNCRV08R0d+4lF+vUDSYSdsVRGG6j+z1QBGhujThyxg5mRPz/og8d3qjcXZ0/nXpuUQh15nVEySxvF53akLYGmLr7llS9BNnY8Q+mt/76C3o7vaJbK8vDocnKpjuWgPqJAEh04rOrzCNp+by14qqC64wFG/IPI79fV0ivzz9S900+kKmmoIaOpAnl2XELrbqnXUS/uYexRoLaZQbsTx6IC89NOsFcE+5R/tRs1YiuRR7xsX1n504lTBuSvF08EBBGyz3T5uRkrvq2wMZjltjxpVhghPognc/v48wQ1w23UWCsRWy/NWpjL24EF6zbXI=;q6mXwn1H9v26LWXML9FA5A=="
 ---
 
