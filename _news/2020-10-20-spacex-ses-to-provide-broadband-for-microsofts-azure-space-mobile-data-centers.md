@@ -1,26 +1,27 @@
 ---
 category: news
-title: "Microsoft Launches Azure Space to Expand Connectivity; Tom Keane Quoted"
-excerpt: "Microsoft has launched Azure Space to store space-based data, as well as enable ground-based consumers to expand connectivity. Azure Space will link Azure’s existing cloud platform with new data centers and a network of privately owned satellites to provide high-speed internet across the globe."
-publishedDateTime: 2020-10-21T11:02:00Z
-originalUrl: "https://www.govconwire.com/2020/10/microsoft-launches-azure-space-to-expand-connectivity-tom-keane-quoted/"
-webUrl: "https://www.govconwire.com/2020/10/microsoft-launches-azure-space-to-expand-connectivity-tom-keane-quoted/"
+title: "SpaceX, SES to provide broadband for Microsoft’s Azure Space mobile data centers"
+excerpt: "Microsoft will offer mobile cloud computing data centers that can be deployed anywhere in the world and connect to SpaceX’s Starlink and SES’ O3B internet satellites."
+publishedDateTime: 2020-10-20T00:00:00Z
+originalUrl: "https://spacenews.com/spacex-ses-to-provide-broadband-for-microsofts-azure-space-mobile-data-centers\u2028/"
+webUrl: "https://spacenews.com/spacex-ses-to-provide-broadband-for-microsofts-azure-space-mobile-data-centers\u2028/"
 type: article
-quality: 37
+quality: 49
 heat: -1
 published: false
 
 provider:
-  name: GovCon Wire
-  domain: govconwire.com
+  name: SpaceNews
+  domain: spacenews.com
 
 topics:
   - Azure
+  - Mobile
 
 images:
-  - url: "https://govconwire-media.s3.amazonaws.com/2020/10/21/b3/80/60/db/45/d1/7c/54/a0If300000NAy8eEAD-azure-space.jpeg"
-    width: 272
-    height: 270
+  - url: "https://spacenews.com/wp-content/uploads/2020/10/Microsoft_Azure_SatelliteDiagram_Updated_10.15.20-scaled.jpg"
+    width: 2560
+    height: 1440
     isCached: true
 
 related:
@@ -282,20 +283,6 @@ related:
       name: Bleeping Computer
       domain: bleepingcomputer.com
     quality: 54
-  - title: "SpaceX, SES to provide broadband for Microsoft’s Azure Space mobile data centers"
-    excerpt: "Microsoft will offer mobile cloud computing data centers that can be deployed anywhere in the world and connect to SpaceX’s Starlink and SES’ O3B internet satellites."
-    publishedDateTime: 2020-10-20T00:00:00Z
-    webUrl: "https://spacenews.com/spacex-ses-to-provide-broadband-for-microsofts-azure-space-mobile-data-centers\u2028/"
-    type: article
-    provider:
-      name: SpaceNews
-      domain: spacenews.com
-    quality: 49
-    images:
-      - url: "https://spacenews.com/wp-content/uploads/2020/10/Microsoft_Azure_SatelliteDiagram_Updated_10.15.20-scaled.jpg"
-        width: 2560
-        height: 1440
-        isCached: true
   - title: "Hashtag Trending – Google VS the US; Hacking for charity; Microsoft Azure, but in space!"
     excerpt: "Google is accused of abusing monopoly powers by the U.S. government, hackers are using cyber crime for good, and Microsoft debuts Azure"
     publishedDateTime: 2020-10-21T09:04:00Z
@@ -510,6 +497,20 @@ related:
       - url: "https://www.datacenterknowledge.com/sites/datacenterknowledge.com/files/ThalesAlenia%20SES-17%20satellite%20model%202019%20getty.jpg"
         width: 1024
         height: 685
+        isCached: true
+  - title: "Microsoft Launches Azure Space to Expand Connectivity; Tom Keane Quoted"
+    excerpt: "Microsoft has launched Azure Space to store space-based data, as well as enable ground-based consumers to expand connectivity. Azure Space will link Azure’s existing cloud platform with new data centers and a network of privately owned satellites to provide high-speed internet across the globe."
+    publishedDateTime: 2020-10-21T11:02:00Z
+    webUrl: "https://www.govconwire.com/2020/10/microsoft-launches-azure-space-to-expand-connectivity-tom-keane-quoted/"
+    type: article
+    provider:
+      name: GovCon Wire
+      domain: govconwire.com
+    quality: 37
+    images:
+      - url: "https://govconwire-media.s3.amazonaws.com/2020/10/21/b3/80/60/db/45/d1/7c/54/a0If300000NAy8eEAD-azure-space.jpeg"
+        width: 272
+        height: 270
         isCached: true
   - title: "Microsoft launches Azure Space to power satellite projects"
     excerpt: "Microsoft Corp. today debuted Azure Space, a new portfolio of cloud products that will address use cases such as simulating satellite constellations and providing internet connectivity to edge devices."
@@ -742,6 +743,6 @@ related:
       domain: seekingalpha.com
     quality: 2
 
-secured: "zZYVe21QyVCB+xbx5uYsILgm9LdX1er8Fl0QLOHkJbrSc8d5JenB2imv8g0EIjA7cZ/7wZ+qL5srMvvKOG5XqLUyzfAie/IqfUG0K2qK8AACLYnLXTRK59f9AnngtagCMSR3bjNt2BWFNButnSOfMTxs7LVB84ab/G2h2yn7AWiAXEenpCpDFH9hxpT+YqWq8/n5eWM6QcS8+yYrSI47X2Dxv5ch+c2KjC6cJIfZ/9lSglX4me3sXHqJSgAMZHQbTGCLjA5Ae3EGL/DdrG/eW4+O13+TFWyokhz7FjDbdpNOfybP3hSubH2UlMwGePG7yBtTBu6BXzX20yOq5d/j8rvDX4X0cZmZpM+jESfP+aajAG2blgA+rDjBqtG7cJfVULB3Sax6boxF8sqtyIlkwyjXbaV7ivSSE9wwAn0QQyqv7rhIboGFlvIoFrkD4GB7wtC6cFOKPkBv+4uurr4vByWV7Wg0K7Fjc99tyxG9nvJc6nvFqFaYZAVDZOApuolRJ1tpDbA1tIQsXapM64CK0w==;sres08UpHLcPV5k87JNrCA=="
+secured: "KsA4JiLo/ETMwLwKRaIQVroOQL+CiZZjI9B1/XeOcqDONlynxKmNS3Hp9euDbeM3ilTqR1Fn9nA7ULkS6AQV7zw04IZmZc/8ooDdLLZME4cPiV2ZSrnSGIV3FP3NZVzuON3/gDPV4EfwC51xyfpZui54W550+buETYWRSrmC2Z33k6IWObq56Ks2hXK3BETso2T1Z7L5lL1B9EU3I/AY6NJTE5CsRovxSciNTlL8kyZYN7lxM28Bf6jJrFjyEQvtxLbwtjfdZ5OTtJZKG8usQWysxe3wikF21rKWZhAZGhQRajafxIFWlC/+l0WN6bZQ7YNnoNe3CSj/55+e9lHIrA6gq2xun4QF2fpR/D4pv7A=;9tmdJJhv4wVXsl2zSToOJQ=="
 ---
 

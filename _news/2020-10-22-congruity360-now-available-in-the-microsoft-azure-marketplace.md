@@ -1,28 +1,26 @@
 ---
 category: news
-title: "Microsoft’s Azure To Be Connected To SpaceX’s Starlink Satellite Internet"
-excerpt: "SpaceX launched 60 Starlink satellites on Sunday Microsoft launched Azure Orbital, to connect cloud services to satellites Jeff Bezos' cloud services already offer similar services Microsoft Azure’s cloud services will now be connected directly to SpaceX ..."
-publishedDateTime: 2020-10-21T11:31:00Z
-originalUrl: "https://www.ibtimes.com/microsofts-azure-be-connected-spacexs-starlink-satellite-internet-3066016"
-webUrl: "https://www.ibtimes.com/microsofts-azure-be-connected-spacexs-starlink-satellite-internet-3066016"
-ampWebUrl: "https://www.ibtimes.com/microsofts-azure-be-connected-spacexs-starlink-satellite-internet-3066016?amp=1"
-cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/microsofts-azure-be-connected-spacexs-starlink-satellite-internet-3066016?amp=1"
+title: "Congruity360 Now Available in the Microsoft Azure Marketplace"
+excerpt: "Congruity360, data governance and storage leader, today announced the availability of Classify360 in the Microsoft Azure Marketplace, an"
+publishedDateTime: 2020-10-22T13:00:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/congruity360-now-available-in-the-microsoft-azure-marketplace-301157361.html"
+webUrl: "https://www.prnewswire.com/news-releases/congruity360-now-available-in-the-microsoft-azure-marketplace-301157361.html"
 type: article
-quality: 56
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: International Business Times
-  domain: ibtimes.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/04/19/starlink-iss.jpg"
-    width: 640
-    height: 427
+  - url: "https://mma.prnewswire.com/media/522775/Congruity360_Logo.jpg?p=facebook"
+    width: 2695
+    height: 1414
     isCached: true
 
 related:
@@ -69,6 +67,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Microsoft’s Azure To Be Connected To SpaceX’s Starlink Satellite Internet"
+    excerpt: "SpaceX launched 60 Starlink satellites on Sunday Microsoft launched Azure Orbital, to connect cloud services to satellites Jeff Bezos' cloud services already offer similar services Microsoft Azure’s cloud services will now be connected directly to SpaceX ..."
+    publishedDateTime: 2020-10-21T11:31:00Z
+    webUrl: "https://www.ibtimes.com/microsofts-azure-be-connected-spacexs-starlink-satellite-internet-3066016"
+    ampWebUrl: "https://www.ibtimes.com/microsofts-azure-be-connected-spacexs-starlink-satellite-internet-3066016?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/microsofts-azure-be-connected-spacexs-starlink-satellite-internet-3066016?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 56
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/04/19/starlink-iss.jpg"
+        width: 640
+        height: 427
+        isCached: true
   - title: "Rigado Announces Safe Workplace Monitoring Solutions for Microsoft Azure IoT"
     excerpt: "New devices and displays enable plug and play data collection and automation for Microsoft Azure IoT, helping companies quickly create safer commercial spaces. PORTLAND, Ore."
     publishedDateTime: 2020-10-22T14:00:00Z
@@ -80,20 +94,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 51
-  - title: "Congruity360 Now Available in the Microsoft Azure Marketplace"
-    excerpt: "Congruity360, data governance and storage leader, today announced the availability of Classify360 in the Microsoft Azure Marketplace, an"
-    publishedDateTime: 2020-10-22T13:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/congruity360-now-available-in-the-microsoft-azure-marketplace-301157361.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 37
-    images:
-      - url: "https://mma.prnewswire.com/media/522775/Congruity360_Logo.jpg?p=facebook"
-        width: 2695
-        height: 1414
-        isCached: true
   - title: "Microsoft Adds Modular Datacenter to Azure Space Efforts"
     excerpt: "Microsoft this week introduced the Microsoft Azure Modular Datacenter as part of its overall Azure Space effort."
     publishedDateTime: 2020-10-22T00:51:00Z
@@ -109,6 +109,6 @@ related:
         height: 1158
         isCached: true
 
-secured: "TPu/Shc1Tvj6aZ6MvBfLwFasGVjYqVKaNVhlIh8xYwYQtZ9AGy7rWDsY896KgJM+rCNUvOs9wHydIdllQoDY6BCvuNkfrxdH7uFMjhwuP+WdFNGD07SlpoWCkYR0Jddx8Bg13jqveKv1rk3swS70YFJEkVIBgyYozUFUbQJp7DnqcLqGgU+BV/sKNHOj61Zt/mqUq2ltusIV0wFhVye7DZWpOi/Ek/RIsx87sFAbBoFlZlfOjh3i28PWmHczwEJKGLszrr/FiSEutBYgUGIE3Js2c8nBvqHthJ9x5qdoHPOBfaUbI2iMtVBuDY+AXYZLGk+63dwDSmCFMIbpv0+AwIx7HHLVcVULzODq38e+RE+9R327sxrd4ZoJlPP2ws/mcwd1H1F2nCh7JcASI0PGDXNEWDHO5cTtTIPj113JZ3XRS2I+6L1B2VFo9YXNfRCQJUXwrdjErvG3GXcXPzZ60T8HZXJVa+9uBQbbr7fPdq8zV9mODqN38vvVq3b60JfVWa2wnQfMLr2kBOKT3ByJbw==;wjGqjdI6x+oiVZvlREENmA=="
+secured: "Hx/tHGyz8weEcXw1K9Pktvks3SG/Ld7ctlgPGI0p8eB+HeBn9XoJNJ5Zd3/hjoJBxHV35YCgbxeOMEQXQh11AKnZY6ZNF/HxAOatAedB+O+Z33J/yk4BJScCWKm+3SA2B/U7bPpc6ndmVinlnsHeZHQeVINB9GiSCkaCI9EgxRzH70IIPJSorKaAw9ozZlsU3+FFrO9JhruTbH4ZsSWMBehgtsu3qZRz1CC+ORokb9LmYBOSzqKN4zLFI0e8AmUxTFBUqIb1fLfgMcPYGpHvAoAVYnjDgM7Blxoa3ToRqldH5Y6XiTcCMTgf2V9A4rcaqg9OUts4CaZ589o5pyJMOciV/gI0YGUSwydL0LyuvnI=;7HYx8eMVWBOKBZ9NJQui+A=="
 ---
 

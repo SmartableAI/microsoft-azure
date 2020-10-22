@@ -106,6 +106,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Microsoft's Azure Space Program Gets 'Modular' Datacenters"
+    excerpt: "Microsoft recently unveiled its new Azure Modular Datacenters, boxcar-like structures that can deliver compute and storage capabilities anywhere on earth, even \"extreme\" environments. The new ..."
+    publishedDateTime: 2020-10-21T00:00:00Z
+    webUrl: "https://rcpmag.com/articles/2020/10/21/microsoft-azure-space-modular-datacenters.aspx"
+    type: article
+    provider:
+      name: Redmond Channel Partner
+      domain: rcpmag.com
+    quality: 37
+    images:
+      - url: "https://rcpmag.com/-/media/ECG/rcpmag/Images/2020/10/1021rcp_azurespace.jpg"
+        width: 647
+        height: 450
+        isCached: true
 
 secured: "tqVIp5vChuTM+HsAJUg4yA+9cq7uN+rkW1tHMrIREDYouzIUkwaXLZ0CAE9gjnxN48Nh1zDcRI2pUzlpTdMIH5cd3jqPu5koCIRbpRRG6W4lT8BLp6s2uWlMcYrBCvDwXaAA8lA993Xvd8k1pin+pSi+8gN0Vb98dXlGRWj186z7D9RgEaHYo8y6M7OsZEuCCX1fQkhfevSJiZd26L/DautwhF7Id4Qyxg7joJyuzlfbe6E4roasKUNZpbHTHxqBFRmqdqtKKnKoBL0LaWO7nUOUUOBmaUazdF1C2wD/hwYL4jRtTufRib/cA7+iOTQtPGsr2KOFgc5CQlv+S+r1ih+wg48brsWtU35NXtVTdlM=;Ba3zRm1ol5TO/cKe5w8RFQ=="
 ---

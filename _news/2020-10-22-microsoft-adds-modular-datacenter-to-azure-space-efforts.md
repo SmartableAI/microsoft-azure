@@ -83,6 +83,31 @@ related:
         width: 640
         height: 427
         isCached: true
+  - title: "Rigado Announces Safe Workplace Monitoring Solutions for Microsoft Azure IoT"
+    excerpt: "New devices and displays enable plug and play data collection and automation for Microsoft Azure IoT, helping companies quickly create safer commercial spaces. PORTLAND, Ore."
+    publishedDateTime: 2020-10-22T14:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/10/p18016063/rigado-announces-safe-workplace-monitoring-solutions-for-microsoft-azure-iot"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/18016063"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18016063"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 51
+  - title: "Congruity360 Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Congruity360, data governance and storage leader, today announced the availability of Classify360 in the Microsoft Azure Marketplace, an"
+    publishedDateTime: 2020-10-22T13:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/congruity360-now-available-in-the-microsoft-azure-marketplace-301157361.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 37
+    images:
+      - url: "https://mma.prnewswire.com/media/522775/Congruity360_Logo.jpg?p=facebook"
+        width: 2695
+        height: 1414
+        isCached: true
 
 secured: "I3evPkQOAFwrZ9nUoX1ZwnuA0cUUwyWAuYb88frFwYHrkraEKG1qy8utxW7VbaDHXOltRHxLHrPKMWyBM66veZEc6JQ2F0oZYBoDCfEiBdQllZ5aQKuT1iAswC9lI4/vW/IcId3H4k46VQrO7miF0c3xEIL7+pUuDggHQbC4tJ4m/MSCQ+exePBoZMCragLiXg9bN0h2iLYtXJZUxhA4UPrksasIniiK8SQKiZCau54r5HKFY7xZSWclBlf6E51UHisfYSKkwLs/l2r6EUArpTPIhhKHbqkUzZVGb7ssb7UH8FmdR+poi4v75MxNFAhjV0lmLgUe13flp75bvsHsKalo1q/UoYhrlB9GqsBfdUkH1u4QUrFjAN3ki0ynwuzkf53BQ3FKVTvuF2jv/QTLqMdzzlIkMtFNykUrSMITUmMJcjuyUksDkjm4QUlgrZTid2gR0DsbKyJevkguLg+lwwUOLxT0RofKOMqRB76Py7OCeS2mqngFMMjUSwILGhKKfAhcNzkrkPfT1XWkUxK+4w==;Lw0ia1TUTS6279eM3Ra4uw=="
 ---

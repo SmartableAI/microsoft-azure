@@ -1,21 +1,27 @@
 ---
 category: news
 title: "EPAM Has Earned the Modernization of Web Applications in Microsoft Azure Advanced Specialization"
-excerpt: "EPAM Systems, Inc., a leading global provider of digital platform engineering and software development services, today announced it has earned the Modernization of Web Applications in Microsoft Azure advanced specialization,"
-publishedDateTime: 2020-10-19T15:00:00Z
-originalUrl: "https://www.nasdaq.com/press-release/epam-has-earned-the-modernization-of-web-applications-in-microsoft-azure-advanced"
-webUrl: "https://www.nasdaq.com/press-release/epam-has-earned-the-modernization-of-web-applications-in-microsoft-azure-advanced"
+excerpt: "PRNewswire/ -- EPAM Systems, Inc. (NYSE: EPAM), a leading global provider of digital platform engineering and software development services, today"
+publishedDateTime: 2020-10-19T14:00:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/epam-has-earned-the-modernization-of-web-applications-in-microsoft-azure-advanced-specialization-301154325.html"
+webUrl: "https://www.prnewswire.com/news-releases/epam-has-earned-the-modernization-of-web-applications-in-microsoft-azure-advanced-specialization-301154325.html"
 type: article
-quality: 44
+quality: 24
 heat: -1
 published: false
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Azure
+
+images:
+  - url: "https://mma.prnewswire.com/media/722474/EPAM_Logo.jpg?p=facebook"
+    width: 2456
+    height: 1287
+    isCached: true
 
 related:
   - title: "Microsoft explains how it improved automatic image captioning in Azure Cognitive Services"
@@ -276,6 +282,20 @@ related:
       name: Bleeping Computer
       domain: bleepingcomputer.com
     quality: 54
+  - title: "SpaceX, SES to provide broadband for Microsoft’s Azure Space mobile data centers"
+    excerpt: "Microsoft will offer mobile cloud computing data centers that can be deployed anywhere in the world and connect to SpaceX’s Starlink and SES’ O3B internet satellites."
+    publishedDateTime: 2020-10-20T00:00:00Z
+    webUrl: "https://spacenews.com/spacex-ses-to-provide-broadband-for-microsofts-azure-space-mobile-data-centers\u2028/"
+    type: article
+    provider:
+      name: SpaceNews
+      domain: spacenews.com
+    quality: 49
+    images:
+      - url: "https://spacenews.com/wp-content/uploads/2020/10/Microsoft_Azure_SatelliteDiagram_Updated_10.15.20-scaled.jpg"
+        width: 2560
+        height: 1440
+        isCached: true
   - title: "Hashtag Trending – Google VS the US; Hacking for charity; Microsoft Azure, but in space!"
     excerpt: "Google is accused of abusing monopoly powers by the U.S. government, hackers are using cyber crime for good, and Microsoft debuts Azure"
     publishedDateTime: 2020-10-21T09:04:00Z
@@ -722,6 +742,6 @@ related:
       domain: seekingalpha.com
     quality: 2
 
-secured: "Bw12067p5XoLkDC0aWhV9fC/Lruf7yt/lNbIyHYHuKFLhPYWgU64iGe6br1BU/wgV2Ggna5CO06s+bfjhuabGBWDtmF2xZ5FOe1WdBTZuQVFGk/LsBiaeW1IR8AcyRURzpIz8CmFidxPY4nLrpCL6a6wW3gbFLJH6neq839DL7d94zTYf85oWMcKHIVzjxMchHLwWa/b0b5edFtuOKnF5s0wHzLxS5lr+8ZoUyhUsDdPTJUTDdNLbO2vLDB3+lkoGvTnH8xn4LKsF+kiVV8AaKJ9cOnkHksUEv7bzRQZ/H7RxSI3d3u/DYAY22WWgmr+wmyS5a0uhTB6IrQ5MpWkZiqc7fW60qXp6CJ5o8TadEk=;aqU88wzbCoovveyUizT+lg=="
+secured: "XdJQWbDLdj/aLUaC22Jj63j6n5mXM4Ov7TU1lB/ivZHL8hPiaYl8nCZSTh5jToSvJrNUMQSKKEdt4MTvRfnf5qwCGXqHXPinir7KhvI2eJbYGSzWt+qLGd3L9g97lMX6J7SBmbQZ4p8ZxFtWzr2F57nDc8SUrOJnJw+FYAgFwdShk6Sijw331uaWVlVpNau9CKsa9dHD0lFhUhhFjLWmBbiJ3IaiB2n7oVk/3+G4waXQ6Gc3ZurKaCfIqcgul0dZLT/K9tHJhqyR5RfbZQ6n9BnvCfEfU3JrqzuPfEDz2goXdzNEgMn7EKgqNSXsmio7F2+Zdyau7BNgr9re+YmHenQFhLsNjCihskI2uMW2I2c=;RQDmrjctJVeYzHS1B2hxQw=="
 ---
 

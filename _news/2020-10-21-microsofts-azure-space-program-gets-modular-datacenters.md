@@ -1,28 +1,26 @@
 ---
 category: news
-title: "Microsoft Announces Azure Space And Partnership With SpaceX Starlink"
-excerpt: "With Microsoft and SpaceX working together, Azure could become “the platform and ecosystem of choice for the mission needs of the space community.”"
-publishedDateTime: 2020-10-20T19:22:00Z
-originalUrl: "https://hothardware.com/news/microsoft-azure-and-starlink-partnership"
-webUrl: "https://hothardware.com/news/microsoft-azure-and-starlink-partnership"
-ampWebUrl: "https://amp.hothardware.com/news/microsoft-azure-and-starlink-partnership"
-cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/microsoft-azure-and-starlink-partnership"
+title: "Microsoft's Azure Space Program Gets 'Modular' Datacenters"
+excerpt: "Microsoft recently unveiled its new Azure Modular Datacenters, boxcar-like structures that can deliver compute and storage capabilities anywhere on earth, even \"extreme\" environments. The new ..."
+publishedDateTime: 2020-10-21T00:00:00Z
+originalUrl: "https://rcpmag.com/articles/2020/10/21/microsoft-azure-space-modular-datacenters.aspx"
+webUrl: "https://rcpmag.com/articles/2020/10/21/microsoft-azure-space-modular-datacenters.aspx"
 type: article
-quality: 57
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: HotHardware
-  domain: hothardware.com
+  name: Redmond Channel Partner
+  domain: rcpmag.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://images.hothardware.com/contentimages/newsitem/53184/content/spacex-rocket.jpg"
-    width: 708
-    height: 472
+  - url: "https://rcpmag.com/-/media/ECG/rcpmag/Images/2020/10/1021rcp_azurespace.jpg"
+    width: 647
+    height: 450
     isCached: true
 
 related:
@@ -88,6 +86,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Microsoft Announces Azure Space And Partnership With SpaceX Starlink"
+    excerpt: "With Microsoft and SpaceX working together, Azure could become “the platform and ecosystem of choice for the mission needs of the space community.”"
+    publishedDateTime: 2020-10-20T19:22:00Z
+    webUrl: "https://hothardware.com/news/microsoft-azure-and-starlink-partnership"
+    ampWebUrl: "https://amp.hothardware.com/news/microsoft-azure-and-starlink-partnership"
+    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/microsoft-azure-and-starlink-partnership"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 57
+    images:
+      - url: "https://images.hothardware.com/contentimages/newsitem/53184/content/spacex-rocket.jpg"
+        width: 708
+        height: 472
+        isCached: true
   - title: "Microsoft Azure Space teams up with SpaceX's Starlink and SES's O3b"
     excerpt: "Microsoft is expanding its off-planetary ambitions with the launch of a new business division, Azure Space. As part of the new initiative, Microsoft will partner with SpaceX's Starlink Internet service,"
     publishedDateTime: 2020-10-21T11:34:00Z
@@ -102,21 +116,7 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Microsoft's Azure Space Program Gets 'Modular' Datacenters"
-    excerpt: "Microsoft recently unveiled its new Azure Modular Datacenters, boxcar-like structures that can deliver compute and storage capabilities anywhere on earth, even \"extreme\" environments. The new ..."
-    publishedDateTime: 2020-10-21T00:00:00Z
-    webUrl: "https://rcpmag.com/articles/2020/10/21/microsoft-azure-space-modular-datacenters.aspx"
-    type: article
-    provider:
-      name: Redmond Channel Partner
-      domain: rcpmag.com
-    quality: 37
-    images:
-      - url: "https://rcpmag.com/-/media/ECG/rcpmag/Images/2020/10/1021rcp_azurespace.jpg"
-        width: 647
-        height: 450
-        isCached: true
 
-secured: "D365p2uS3vgB3xDHTZLw+J9v3neOROho+4aLZ053Se3+IVLj5L2u9G8GzwAa00IP3jG6jFRsYm3iUKHemZTyiLGnJ/fG6Fb/SEcEOQ8xR5nXzsVmMwgiDHDZnSHUCGSivJa7I0bKV4EbImikDt0nbU6gBNX8GD/VIcGwGlCDdV4K1LCPXb8zdFp3nwwubU3irhzA4wbNDtY81u6HA8Ir2iXd7E0ZpUc25xZvGVsGyej4v+u1QQk2gxjS9gO+F87Zl3df7ho7yCRTszHo3jnDysrbqBq6uXf8rcET7W+nrpf/MiX5RpF3/KQmCN1kUIazR53kwaepAkosGyx/WjkvleiFv8aIiqONgiILlGr4tclAGhpy8T0sC/N/crUHE15+lERCny4sh+KOarPImisrUOhk6+IP1GRUe2xfGv8TGiaAoeCSaYWlKzSrskJndn7qMEaw1Wtxz4ohaaoAiAn4fo0uCQ+ZWiu/tmjrluKc6IOLLaPSMxmYcRj2JtK6+jdWyCT2SRbREZXrPtuZJ3YzdA==;JylQQE0A0HJodF+uM+vZog=="
+secured: "YcQIaJMw0xJ6OuXd6TS12vLN7K+cF21vnNSgOVuvylyeVPddQWw1GdcW0hNdUL0zGMcXRP75wPX8212ewGAK7XVaCJzf4SCjSBm1YaILdg7Ah76n8qc2IdTbLACsDg/3bmXfT/slOFD/4dBiQYHXWMbYGqb5tUN2ksljK7SdQ1AqQcwZwtiupwqUpPl3OwWz3ex505nXYBwXyzJhbk5eDrFHy23NyQni0MgweFc2iFmmiz59CUr0dafL6G1iYSRAS6tNR6jnBmOmzO9cRd/2FlbLLLk7KgoG4fSzjDJJoQCUHNW/AESNTu2hkBcjLKA7kJNwSBWJXzRrlNISZcd+RaasmDkx16ldevznmJBIuqA=;zRzfj3B3tdV5yiAibwB5lw=="
 ---
 

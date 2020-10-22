@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/10/14/microsoft-explains-how-it-improve
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/14/microsoft-explains-how-it-improved-automatic-image-captioning-in-azure-cognitive-services/amp/"
 type: article
 quality: 120
-heat: 1160
+heat: 1180
 published: true
 
 provider:
@@ -273,6 +273,20 @@ related:
       name: Bleeping Computer
       domain: bleepingcomputer.com
     quality: 54
+  - title: "SpaceX, SES to provide broadband for Microsoft’s Azure Space mobile data centers"
+    excerpt: "Microsoft will offer mobile cloud computing data centers that can be deployed anywhere in the world and connect to SpaceX’s Starlink and SES’ O3B internet satellites."
+    publishedDateTime: 2020-10-20T00:00:00Z
+    webUrl: "https://spacenews.com/spacex-ses-to-provide-broadband-for-microsofts-azure-space-mobile-data-centers\u2028/"
+    type: article
+    provider:
+      name: SpaceNews
+      domain: spacenews.com
+    quality: 49
+    images:
+      - url: "https://spacenews.com/wp-content/uploads/2020/10/Microsoft_Azure_SatelliteDiagram_Updated_10.15.20-scaled.jpg"
+        width: 2560
+        height: 1440
+        isCached: true
   - title: "Hashtag Trending – Google VS the US; Hacking for charity; Microsoft Azure, but in space!"
     excerpt: "Google is accused of abusing monopoly powers by the U.S. government, hackers are using cyber crime for good, and Microsoft debuts Azure"
     publishedDateTime: 2020-10-21T09:04:00Z
@@ -319,15 +333,6 @@ related:
         width: 600
         height: 339
         isCached: true
-  - title: "EPAM Has Earned the Modernization of Web Applications in Microsoft Azure Advanced Specialization"
-    excerpt: "EPAM Systems, Inc., a leading global provider of digital platform engineering and software development services, today announced it has earned the Modernization of Web Applications in Microsoft Azure advanced specialization,"
-    publishedDateTime: 2020-10-19T15:00:00Z
-    webUrl: "https://www.nasdaq.com/press-release/epam-has-earned-the-modernization-of-web-applications-in-microsoft-azure-advanced"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 44
   - title: "Microsoft Cloud Services Affected In Worldwide Outage: What Is The Cause?"
     excerpt: "The outage started at 2.48 p.m. ET Wednesday Users worldwide faced accessibility issues Most services are back online and issues have been resolved Microsoft users across the world suffered another outage for four hours from 2 p.m. ET Wednesday ..."
     publishedDateTime: 2020-10-08T07:31:00Z
@@ -614,6 +619,20 @@ related:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
+        isCached: true
+  - title: "EPAM Has Earned the Modernization of Web Applications in Microsoft Azure Advanced Specialization"
+    excerpt: "PRNewswire/ -- EPAM Systems, Inc. (NYSE: EPAM), a leading global provider of digital platform engineering and software development services, today"
+    publishedDateTime: 2020-10-19T14:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/epam-has-earned-the-modernization-of-web-applications-in-microsoft-azure-advanced-specialization-301154325.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 24
+    images:
+      - url: "https://mma.prnewswire.com/media/722474/EPAM_Logo.jpg?p=facebook"
+        width: 2456
+        height: 1287
         isCached: true
   - title: "Dicker Data launches Microsoft Cloud unit"
     excerpt: "Dicker Data has launched a new Microsoft Cloud business unit under the leadership of Sarah Loiterton as general manager."

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.neowin.net/amp/microsoft-and-honeywell-collaborate-on-az
 cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-and-honeywell-collaborate-on-azure-and-dynamics-365/"
 type: article
 quality: 97
-heat: 177
+heat: 217
 published: true
 
 provider:
@@ -73,6 +73,31 @@ related:
         width: 640
         height: 427
         isCached: true
+  - title: "Rigado Announces Safe Workplace Monitoring Solutions for Microsoft Azure IoT"
+    excerpt: "New devices and displays enable plug and play data collection and automation for Microsoft Azure IoT, helping companies quickly create safer commercial spaces. PORTLAND, Ore."
+    publishedDateTime: 2020-10-22T14:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/10/p18016063/rigado-announces-safe-workplace-monitoring-solutions-for-microsoft-azure-iot"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/18016063"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18016063"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 51
+  - title: "Congruity360 Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Congruity360, data governance and storage leader, today announced the availability of Classify360 in the Microsoft Azure Marketplace, an"
+    publishedDateTime: 2020-10-22T13:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/congruity360-now-available-in-the-microsoft-azure-marketplace-301157361.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 37
+    images:
+      - url: "https://mma.prnewswire.com/media/522775/Congruity360_Logo.jpg?p=facebook"
+        width: 2695
+        height: 1414
+        isCached: true
   - title: "Microsoft Adds Modular Datacenter to Azure Space Efforts"
     excerpt: "Microsoft this week introduced the Microsoft Azure Modular Datacenter as part of its overall Azure Space effort."
     publishedDateTime: 2020-10-22T00:51:00Z
@@ -88,6 +113,6 @@ related:
         height: 1158
         isCached: true
 
-secured: "Mzdbhvs6eKYLIez2X2uuOGRGboZ4wvk+doU47SAiYUSjxbuLZ46Ie/o1XcOJEd2w4jheBaIq3x++5JWbshpj9CLWg9N5D3AllC1SRAvpvxmkBt51Dcvu+S55cp2iszg+14O3aSZRVTA+N53USn2WuMb+ioY4eK6c05dKtfJat2uhk75f/fZki4f7AglzcAa+r1a6Q0EvDFLHMOFiDuFS16EXuVdk75IJdcnjgCSgxAcLlhgThgCeSKfn+zbJdPiOf+mzKi/N1KRHetPMNnPVEh1jXmZfTZNsYmbMuzk+E4asB/Wt6hsCu9LrL0PugUeY8d7lMwnGlZyafcbvcHoCdNAWPNM0gL6T4iPG/GP3zjQ=;l1U/Q5wpbj7nrrT+9QvkjQ=="
+secured: "RGxS1Juft0SeWT64Zj4Ek8G9mQlKjfWwclIR82zbZRFaOlhBf6kkJq1UignGISkerk9qI2Crjp1VP1P8ZqltL4RxTevWXFTg/lx+Y+4Ik6vlxn/V5a8fg9B79MOFGfRHF3uy9GErLPjloIK85UfrQYoiEEUCtaRt0jLADCwpCwqib9kBFtDjDOiewMmtW5f5LJ53Ai6d44dIE1FQ6KmRy3WiDcYr1I50kkhUh+jiepIp24G5+Ae5MIq5mzdYxuhMs3KF7oA1rQcIHb74OWCboyKGFVbplgb/yRHNUxni4nSJYYnWox+VA3bQQDX3Wl22yhiuRMaigQkAXNi1SzFAkIQr1SMQVLc0DdYz6/o/IhQQ9Mwu5yYMh27DelBG1eqdSLI+zjirKX8HgdD1SRjAGBZgPyqiCOBhKvNkhYICWeDfHrm1GvpeycZNEKAOghfPUXuEGsNurZw0JvGKzVTCzmnj3vEDX/woTsdkB1viPMxMJ6YBvLVdU93VSgk/dDja+zoyDcDnalRFkb2xcS3BRA==;9ktKeQMDMmHu+dA1stmWIw=="
 ---
 

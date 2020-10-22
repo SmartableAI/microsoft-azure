@@ -9,7 +9,7 @@ ampWebUrl: "https://www.geekwire.com/2020/microsoft-partners-spacexs-starlink-sa
 cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/microsoft-partners-spacexs-starlink-satellite-service-azure-space-cloud-platform/amp/"
 type: article
 quality: 87
-heat: 188
+heat: 208
 published: true
 
 provider:
@@ -105,6 +105,20 @@ related:
       - url: "https://media.datacenterdynamics.com/media/images/SpaceXlaunch.2e16d0ba.fill-1200x630.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Microsoft's Azure Space Program Gets 'Modular' Datacenters"
+    excerpt: "Microsoft recently unveiled its new Azure Modular Datacenters, boxcar-like structures that can deliver compute and storage capabilities anywhere on earth, even \"extreme\" environments. The new ..."
+    publishedDateTime: 2020-10-21T00:00:00Z
+    webUrl: "https://rcpmag.com/articles/2020/10/21/microsoft-azure-space-modular-datacenters.aspx"
+    type: article
+    provider:
+      name: Redmond Channel Partner
+      domain: rcpmag.com
+    quality: 37
+    images:
+      - url: "https://rcpmag.com/-/media/ECG/rcpmag/Images/2020/10/1021rcp_azurespace.jpg"
+        width: 647
+        height: 450
         isCached: true
 
 secured: "s3m6+/hEd5wLH6FVP8pyvB49AfWN/Q9Am74yFrD4T8v+Y/XrUhSlIjfvxCS4y+wqxGewtCfeHsLptWypCQEmNjWEkTap7+JBOAMOfc86ksDqbqsNjVDzyVR6freDJRgQWRa/nHHFYfo5nzh+BtFelJ4jo2kL6u5JaBJkjGI91Ht5W+iTCuuE6FmmwdCL28T7mhr9faXvkEy29D4ATb31i20Kyg05ngk75zV4rGlqSsInd6wqu5KAbZ6dXIY1v1+ztz0n7XwLkjIJhDmGjVSCHDK2qQSpX+sjzpceN3YJ3eu7AS6wxGSCxBjMs0rG7KaSGOyzX9osGtrlk/I4JS3fq8vl4vI6brEd5yOhiDXeTX4+vJMLBsgYqFIhjdE8IiDUbFFQmFNrBnw2rO+vElaXBNB/E1EmoNRK059dAfur2crITuX8G0yYXNKrutPuwDvkJjRLYjffT8MidXX9BIxQ2Pyu9Zm+kpAPoMnZRU6G3KU1nqhTZxnTGZpIZerC3qSiWhmtealz10Lv9LcHOsKoxg==;mMyQ1H/82MFKM8l9tHzb6g=="

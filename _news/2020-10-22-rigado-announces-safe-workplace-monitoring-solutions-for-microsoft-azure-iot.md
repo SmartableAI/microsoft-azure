@@ -1,29 +1,24 @@
 ---
 category: news
-title: "Microsoft’s Azure To Be Connected To SpaceX’s Starlink Satellite Internet"
-excerpt: "SpaceX launched 60 Starlink satellites on Sunday Microsoft launched Azure Orbital, to connect cloud services to satellites Jeff Bezos' cloud services already offer similar services Microsoft Azure’s cloud services will now be connected directly to SpaceX ..."
-publishedDateTime: 2020-10-21T11:31:00Z
-originalUrl: "https://www.ibtimes.com/microsofts-azure-be-connected-spacexs-starlink-satellite-internet-3066016"
-webUrl: "https://www.ibtimes.com/microsofts-azure-be-connected-spacexs-starlink-satellite-internet-3066016"
-ampWebUrl: "https://www.ibtimes.com/microsofts-azure-be-connected-spacexs-starlink-satellite-internet-3066016?amp=1"
-cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/microsofts-azure-be-connected-spacexs-starlink-satellite-internet-3066016?amp=1"
+title: "Rigado Announces Safe Workplace Monitoring Solutions for Microsoft Azure IoT"
+excerpt: "New devices and displays enable plug and play data collection and automation for Microsoft Azure IoT, helping companies quickly create safer commercial spaces. PORTLAND, Ore."
+publishedDateTime: 2020-10-22T14:00:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/20/10/p18016063/rigado-announces-safe-workplace-monitoring-solutions-for-microsoft-azure-iot"
+webUrl: "https://www.benzinga.com/pressreleases/20/10/p18016063/rigado-announces-safe-workplace-monitoring-solutions-for-microsoft-azure-iot"
+ampWebUrl: "https://amp.benzinga.com/amp/content/18016063"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18016063"
 type: article
-quality: 56
+quality: 51
 heat: -1
 published: false
 
 provider:
-  name: International Business Times
-  domain: ibtimes.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Azure
-
-images:
-  - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/04/19/starlink-iss.jpg"
-    width: 640
-    height: 427
-    isCached: true
+  - IoT
 
 related:
   - title: "Microsoft and Honeywell collaborate on Azure and Dynamics 365"
@@ -69,17 +64,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Rigado Announces Safe Workplace Monitoring Solutions for Microsoft Azure IoT"
-    excerpt: "New devices and displays enable plug and play data collection and automation for Microsoft Azure IoT, helping companies quickly create safer commercial spaces. PORTLAND, Ore."
-    publishedDateTime: 2020-10-22T14:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/10/p18016063/rigado-announces-safe-workplace-monitoring-solutions-for-microsoft-azure-iot"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/18016063"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18016063"
+  - title: "Microsoft’s Azure To Be Connected To SpaceX’s Starlink Satellite Internet"
+    excerpt: "SpaceX launched 60 Starlink satellites on Sunday Microsoft launched Azure Orbital, to connect cloud services to satellites Jeff Bezos' cloud services already offer similar services Microsoft Azure’s cloud services will now be connected directly to SpaceX ..."
+    publishedDateTime: 2020-10-21T11:31:00Z
+    webUrl: "https://www.ibtimes.com/microsofts-azure-be-connected-spacexs-starlink-satellite-internet-3066016"
+    ampWebUrl: "https://www.ibtimes.com/microsofts-azure-be-connected-spacexs-starlink-satellite-internet-3066016?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/microsofts-azure-be-connected-spacexs-starlink-satellite-internet-3066016?amp=1"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 51
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 56
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/04/19/starlink-iss.jpg"
+        width: 640
+        height: 427
+        isCached: true
   - title: "Congruity360 Now Available in the Microsoft Azure Marketplace"
     excerpt: "Congruity360, data governance and storage leader, today announced the availability of Classify360 in the Microsoft Azure Marketplace, an"
     publishedDateTime: 2020-10-22T13:00:00Z
@@ -109,6 +109,6 @@ related:
         height: 1158
         isCached: true
 
-secured: "TPu/Shc1Tvj6aZ6MvBfLwFasGVjYqVKaNVhlIh8xYwYQtZ9AGy7rWDsY896KgJM+rCNUvOs9wHydIdllQoDY6BCvuNkfrxdH7uFMjhwuP+WdFNGD07SlpoWCkYR0Jddx8Bg13jqveKv1rk3swS70YFJEkVIBgyYozUFUbQJp7DnqcLqGgU+BV/sKNHOj61Zt/mqUq2ltusIV0wFhVye7DZWpOi/Ek/RIsx87sFAbBoFlZlfOjh3i28PWmHczwEJKGLszrr/FiSEutBYgUGIE3Js2c8nBvqHthJ9x5qdoHPOBfaUbI2iMtVBuDY+AXYZLGk+63dwDSmCFMIbpv0+AwIx7HHLVcVULzODq38e+RE+9R327sxrd4ZoJlPP2ws/mcwd1H1F2nCh7JcASI0PGDXNEWDHO5cTtTIPj113JZ3XRS2I+6L1B2VFo9YXNfRCQJUXwrdjErvG3GXcXPzZ60T8HZXJVa+9uBQbbr7fPdq8zV9mODqN38vvVq3b60JfVWa2wnQfMLr2kBOKT3ByJbw==;wjGqjdI6x+oiVZvlREENmA=="
+secured: "tfT5lqzG+w05zqqhQ70J8Ka38+ZFIqJLu/xbzTs1hfIeLQS3EJ2JxiI+qjSOHFjaWKiScZh9AvhrgrxnIl7aoqUgxv3fcw+JFkzENFEglg5yMQ4Lrr1U4Ia0InaTJkv5I5qi4TL9ps1w5tqc2RGSTbfhb6GYh/WObfvXsNSAUf5dc7wR/00AlxAC63nIsY/YaoflPTLfESdzECH/CyguDlEiMoITZQ0SBHh+HXnW4a05UvtcMEVML3EJk64NdUObS7+1UKon1bUlC8hTfqCThkEVLEU9oT3eA4AYxY80GcKKguq8WRWnm4wd3VOtyieoAFclC7gnTfhlOq0d50wYB1RyuKIc0XngzQhVvrsRWYg=;ZNe1q2K9b8umf5FhPLj0dA=="
 ---
 
