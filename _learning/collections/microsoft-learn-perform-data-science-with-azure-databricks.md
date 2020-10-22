@@ -4,7 +4,7 @@ excerpt: "Perform data science with Azure Databricks"
 type: collection
 price: Free
 length: PT8H25M
-heat: 62
+heat: 61
 
 provider:
   name: Microsoft Learn

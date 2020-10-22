@@ -6,8 +6,8 @@ type: course
 price: Free
 length: PT31M
 ratings:
-  count: 121
-  average: 4.644628
+  count: 122
+  average: 4.647541
 heat: 50
 
 provider:
@@ -30,6 +30,6 @@ images:
     height: 400
     isCached: true
 
-secured: "H2eo2qaDO6YQz5X0wU+mwhEKRP0bQ+cxma+NOr0KUazg37RUrYPsfmIvGKF64KwVg5LH9YZsSxBZ2ZOqkcX99O8xB4PuoG4BCSBTUMYj2VTQlp2dCTSQrhmhIulyc3WTUYWcq14A7sHqzuVk4PNFWLwlMAecYh+AjsuT1hPdGO+UTace8/JSm0r1Bxwapit0Zzey2/bbMOUe3ntsJYOf33HbvDYzRB5KUY+N0h8JBCPd49OSB1R/t+E2OybC8mqpAdSBFHPWsDXreY5pi/KkWLIY/ujZSDtE4xBECdEPWSr/XqS/acOkzkkJQKbon/uNUI8U6ZkoH206cqyWu3Kg9SkPR+CA1OTmvJMpfFE3a08k2+vspUfFNIZb0MgrNqeb/BjpfJyTJjYZjtBZ5G/sh9HxCSskHbdmmBnX8BuSGus=;7RgOopqCXUH72xzSkApPXg=="
+secured: "3TRz7poElNsdSCdl857Jg+l1VW/4CF3jSc5lX8caVStlVTScHnHdufSD2ZubFkyGjBXuF9hBzhpjSK6yghjv9WsD2jWE2Ip6bgd0RYfeSuATg9DcC/GZiKJop1sSBkcM/GM850Un+eAAzf4hZ6QF755MGBNcZqTRB9Y6jOBOSJPtUW7Hi01lhDti6x1OFydJjzC69Uu3Ejm/grvO1HUdf3uLjEHZRi8szapVK31UyZ9qHtRHC4ru/z3Nz5Hj/3BmimveKsxx6Q+v0ShUWQyVUMbGbLDE8M08KcGEVHpUWNV/HWG/A5+X5zOt2dte9tlrmi/Hhl5LrN4BQMNdsKR3yt4uE5WV6iWu+If+ASXmuc7aAPysdYlXLaSI7NzZ2wl8FJ/Avz+nZqQwjM1TK3XTlv0rxBy14AbwxFRGPmLKdVo=;SlXOi5HfErW0Ggr1xcB8Ig=="
 ---
 

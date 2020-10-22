@@ -8,7 +8,7 @@ length: PT46M
 ratings:
   count: 1522
   average: 4.594612
-heat: 55
+heat: 53
 
 provider:
   name: Microsoft Learn
@@ -27,6 +27,6 @@ topics:
   - Compute
   - Web
 
-secured: "M4IZGYnuIGm3rEat96N5vNI2BJixiwbrHXf4WajGh3D3akMKgQjSdmEay/09u6ERh3lkdpxZ7ZomT0QGByQGVCA9PVjKrymQPwir+KWg8Nw7eiuBJwXXwOs+73wFiqyAzpyz8joZhztC8/fjzsW/0ZWXr1d3sw/bfFrEyprka6zuHbQPxtof6jqXcPmyxGRKIy+cBQ5mB7g1kkbgSPPq9F8GH1Bn5B1z3g3wY06HDDIYW40RrOTWrg6XLE+3z6thWaTBGx7S0DD6+DQEKSyAzpTDcweXmSpj93fELpBVrLxDFRh8qcs23pvWSU0dD+fjqJ64xJ2dWJdgVWbbci2FEEK91qTxMNmXcOaBPZkd7Dt8JXkIT4gCeuK25UyQ+hDMXue28zsQoyWFrYZAiwslUylmrOGIBj5n8DLKpDREjRs=;0COspnzL8oJ6FTprNB2qpg=="
+secured: "C6nheDOXda2NW9ShP7u2zxB09vY03QQ4+x89U4TbpU9k2fNTyI2p1TiEYDDejxC6kBvsoyXJYRrnnNu72eWDTvQqkZF2A8Z/B1+5egy5uMn+d5QdheXjoDourMXACVE/a0UkU0NEeLpBPoFZOJ94GxlY4jxBa7Yv7ywcx0D8OmNfGBqb7uoHF4edPKfysgHbXDjuxgvUTKpAs/Na4iZGYnBS9z+SgQh/INFgJpspdHq6utQEJunW+R1dXuS3SS7bT5ZfxDFg81zvq7AiNqo7S9uiNx4+zdi/GScFN54EMU2hfR0p/t4X2yh00f0g7O9w9TTmDF9ex891Oi7ayK9lrqTdPuiuMQFj8sVQQuTeYY8mg2MyVA4po16KyAXb/fiGFcK0/4veSho2zcOuuRabyM8G3Ut1Qo4CDpWwUzbKtEE=;+ovIdeIeh3bZSEpy0nAuuw=="
 ---
 
