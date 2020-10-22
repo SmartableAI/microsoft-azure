@@ -8,7 +8,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/new-tool-detects-shadow-adm
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/new-tool-detects-shadow-admin-accounts-in-aws-and-azure-environments/"
 type: article
 quality: 97
-heat: 97
+heat: 98
 published: true
 
 provider:
