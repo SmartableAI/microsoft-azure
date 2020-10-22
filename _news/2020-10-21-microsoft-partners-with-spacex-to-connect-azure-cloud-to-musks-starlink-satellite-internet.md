@@ -1,26 +1,32 @@
 ---
 category: news
-title: "Microsoft Azure Space teams up with SpaceX's Starlink and SES's O3b"
-excerpt: "Microsoft is expanding its off-planetary ambitions with the launch of a new business division, Azure Space. As part of the new initiative, Microsoft will partner with SpaceX's Starlink Internet service,"
-publishedDateTime: 2020-10-21T11:34:00Z
-originalUrl: "https://www.datacenterdynamics.com/en/news/microsoft-azure-space-teams-spacexs-starlink-and-sess-o3b/"
-webUrl: "https://www.datacenterdynamics.com/en/news/microsoft-azure-space-teams-spacexs-starlink-and-sess-o3b/"
+title: "Microsoft partners with SpaceX to connect Azure cloud to Musk's Starlink satellite internet"
+excerpt: "Microsoft is partnering with SpaceX to connect the tech giant's Azure cloud computing network to the growing Starlink satellite internet."
+publishedDateTime: 2020-10-20T21:14:00Z
+originalUrl: "https://www.cnbc.com/2020/10/20/microsoft-expands-its-space-business-pairing-its-azure-cloud-with-spacexs-starlink-internet.html"
+webUrl: "https://www.cnbc.com/2020/10/20/microsoft-expands-its-space-business-pairing-its-azure-cloud-with-spacexs-starlink-internet.html"
+ampWebUrl: "https://www.cnbc.com/amp/2020/10/20/microsoft-expands-its-space-business-pairing-its-azure-cloud-with-spacexs-starlink-internet.html"
+cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/10/20/microsoft-expands-its-space-business-pairing-its-azure-cloud-with-spacexs-starlink-internet.html"
 type: article
-quality: 37
+quality: 87
 heat: -1
 published: false
 
 provider:
-  name: Datacenter Dynamics
-  domain: datacenterdynamics.com
+  name: CNBC
+  domain: cnbc.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/cnbc.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
 
 images:
-  - url: "https://media.datacenterdynamics.com/media/images/SpaceXlaunch.2e16d0ba.fill-1200x630.jpg"
-    width: 1200
-    height: 630
+  - url: "https://image.cnbcfm.com/api/v1/image/106689529-1599138903852-starlink_satellites_screenshot.png?v=1599138942"
+    width: 1494
+    height: 889
     isCached: true
 
 related:
@@ -39,22 +45,6 @@ related:
       - url: "https://cdn.geekwire.com/wp-content/uploads/2020/10/201020-azurespace-630x479.png"
         width: 630
         height: 479
-        isCached: true
-  - title: "Microsoft partners with SpaceX to connect Azure cloud to Musk's Starlink satellite internet"
-    excerpt: "Microsoft is partnering with SpaceX to connect the tech giant's Azure cloud computing network to the growing Starlink satellite internet."
-    publishedDateTime: 2020-10-20T21:14:00Z
-    webUrl: "https://www.cnbc.com/2020/10/20/microsoft-expands-its-space-business-pairing-its-azure-cloud-with-spacexs-starlink-internet.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2020/10/20/microsoft-expands-its-space-business-pairing-its-azure-cloud-with-spacexs-starlink-internet.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/10/20/microsoft-expands-its-space-business-pairing-its-azure-cloud-with-spacexs-starlink-internet.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 87
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106689529-1599138903852-starlink_satellites_screenshot.png?v=1599138942"
-        width: 1494
-        height: 889
         isCached: true
   - title: "Microsoft debuts Azure Space to cater to the space industry, partners with SpaceX for Starlink datacenter broadband"
     excerpt: "Microsoft is taking its Azure cloud computing platform to the final frontier – space. It now has a dedicated business unit called Azure Space for that purpose, made up of industry heavyweights and engineers who are focused on space-sector services including simulation of space missions,"
@@ -134,6 +124,20 @@ related:
         width: 640
         height: 427
         isCached: true
+  - title: "Microsoft Azure Space teams up with SpaceX's Starlink and SES's O3b"
+    excerpt: "Microsoft is expanding its off-planetary ambitions with the launch of a new business division, Azure Space. As part of the new initiative, Microsoft will partner with SpaceX's Starlink Internet service,"
+    publishedDateTime: 2020-10-21T11:34:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/microsoft-azure-space-teams-spacexs-starlink-and-sess-o3b/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 37
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/SpaceXlaunch.2e16d0ba.fill-1200x630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Microsoft Adds Modular Datacenter to Azure Space Efforts"
     excerpt: "Microsoft this week introduced the Microsoft Azure Modular Datacenter as part of its overall Azure Space effort."
     publishedDateTime: 2020-10-22T00:51:00Z
@@ -149,6 +153,6 @@ related:
         height: 1158
         isCached: true
 
-secured: "tCj3kg49MH1kZi1+9csJQKrqm9yWCfeRXlHP517r5nAbzqeXF3YR8pzoSjrbgSQIr8gMLMhUNjHSBZegapdn1Ma4QKwejk+4sNvrh4zTU2ZOXrbt+iKYufGrOwqtLSplRQBOIZFxYe2w4WFOp3LKk/WLcPuRJP44EpTVQn0iB2Gh//8el0a22UjLqq8DFq1L4jtGsNL76lfdgN+xm9X1ezeOQadSbr53NO0zJXncprhw2OLtbM/zr7BBeZvnkm5+oAJwVK1LgLQcxe/ufIZFqL+FL62GhrvQZbUrHK7HA1YUcQDt0EI1YYae+cpBa+zr1s3VyfuuCMSPcaB5XK5r3GYWhsHtvr5i1AAOn3br5Jic1ZD5qwdJZBxpsM6ae1ji3v95slbYC3QpQnaqDkq/mjVI/x9rgCdiP+bujHIdbxKnHCD4QydEkIQdCo8I4s7CwSvf0K777Q6alnO/oPDdP9FY7HyxcQpEqFzqRiR0pLv1bLmwlPPdGtszAbPnKzYvC9q9GOHlpMwPudD/O8O64w==;N/Ei0AENWTm3/q+JCeb8wg=="
+secured: "2c4DL669x2uiL6fE2jtZaldesi6/Y00vlnxLH+x/d2sqUbzY5Gx400M17etp1aYaHuHJGkoqMXyL0wZM9a336U9LHZMnH2j4C2fPRWNgpkvAPK9pSftwpkoY0gTJAOYCpxo6AQb+u4lvupkggfrCzn28BFNZuYcfCuLJuWJJYfcAud4CPB+TWGv0BdyZa4RktF7xKxLXVd5jrheSqTJTvHh58jvOIh4BmwHhCaUqrSYf/sL161ATEm6F4EX5vVzNU5PsvRiIUiWW/wjzZM/P+qeQAcTSgNrqoUDyMxwMfuEpf1zTL6QCIvA63acXoB32GmS+t8VJiqoAQMpw4LLsc28qs7HB4pOeLhepwcwjXJs=;/TD7RarvSn3G/C8AaTOIbg=="
 ---
 

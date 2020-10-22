@@ -46,6 +46,22 @@ related:
         width: 630
         height: 479
         isCached: true
+  - title: "Microsoft partners with SpaceX to connect Azure cloud to Musk's Starlink satellite internet"
+    excerpt: "Microsoft is partnering with SpaceX to connect the tech giant's Azure cloud computing network to the growing Starlink satellite internet."
+    publishedDateTime: 2020-10-20T21:14:00Z
+    webUrl: "https://www.cnbc.com/2020/10/20/microsoft-expands-its-space-business-pairing-its-azure-cloud-with-spacexs-starlink-internet.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2020/10/20/microsoft-expands-its-space-business-pairing-its-azure-cloud-with-spacexs-starlink-internet.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/10/20/microsoft-expands-its-space-business-pairing-its-azure-cloud-with-spacexs-starlink-internet.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 87
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106689529-1599138903852-starlink_satellites_screenshot.png?v=1599138942"
+        width: 1494
+        height: 889
+        isCached: true
   - title: "Microsoft partners with SpaceX to launch Azure Space—Here's what to know about the initiative"
     excerpt: "Tom Keane, Microsoft Corporate vice president in charge of Azure Global, joins 'Squawk Alley' to discuss the company's partnership with SpaceX to bring worldwide satellite connectivity to cloud services."
     publishedDateTime: 2020-10-20T16:50:00Z
@@ -121,6 +137,20 @@ related:
       - url: "https://media.datacenterdynamics.com/media/images/SpaceXlaunch.2e16d0ba.fill-1200x630.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Microsoft Adds Modular Datacenter to Azure Space Efforts"
+    excerpt: "Microsoft this week introduced the Microsoft Azure Modular Datacenter as part of its overall Azure Space effort."
+    publishedDateTime: 2020-10-22T00:51:00Z
+    webUrl: "https://redmondmag.com/articles/2020/10/21/azure-modular-datacenter.aspx"
+    type: article
+    provider:
+      name: Redmond Magazine
+      domain: redmondmag.com
+    quality: 37
+    images:
+      - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/IntroImagesBigSmall/AzureModularBig.jpg"
+        width: 1665
+        height: 1158
         isCached: true
 
 secured: "Zg+ZU76wx0LhmglgyMYTkQiuDi+W+sqFhhugno40kOJwVe4+lJZSUgDr7zqTAPFiksXkkNRKTZUcle74GrWyU7mSaJy5pfmh/zEl/cFsJOdmWtMG2zmfjtqmyWvxMzNgDX6+2joMUojmGmqRVSPqeljbrZV2D13Fy6Gjj3abg6MyPtThrjTJfktslNRqQi+QHJk8dVe2SnG70B4mcO7GZZ73zZnLWZ5c4g0fUlkGr1aFGGoUs3FPQ7WmAkgBcAMls0jSsilLW8cCZQ24q7Toj6K/Pe+FKhBDf9DUWJdcrkv96868BpsgiIcbvV+5eCycqcgzKVfxJeRjSzDb8FtVzaCu7iSTvDBPPgfEg5O5ojCb4eRYycvRkZzPdDXz3lYPm+xrUuJEWRe+h7RQ6vDWH0EqL2fqHk+Bx+teIQWdEJqInfn3NtLMJiYhrAPsqGizZ18MFf+CVL/ZwQI7v+MWT6ImVdV57UcWzpNyjOAyUiX0TNO+5GOEy+e1z8Iv0udp4tmKzaaf0SJxwUgrNNMqDw==;6VeZtHJ9SiDmMIVhW+wpvQ=="

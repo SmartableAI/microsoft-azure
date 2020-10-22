@@ -1,26 +1,26 @@
 ---
 category: news
-title: "Microsoft Azure Space teams up with SpaceX's Starlink and SES's O3b"
-excerpt: "Microsoft is expanding its off-planetary ambitions with the launch of a new business division, Azure Space. As part of the new initiative, Microsoft will partner with SpaceX's Starlink Internet service,"
-publishedDateTime: 2020-10-21T11:34:00Z
-originalUrl: "https://www.datacenterdynamics.com/en/news/microsoft-azure-space-teams-spacexs-starlink-and-sess-o3b/"
-webUrl: "https://www.datacenterdynamics.com/en/news/microsoft-azure-space-teams-spacexs-starlink-and-sess-o3b/"
+title: "Microsoft Adds Modular Datacenter to Azure Space Efforts"
+excerpt: "Microsoft this week introduced the Microsoft Azure Modular Datacenter as part of its overall Azure Space effort."
+publishedDateTime: 2020-10-22T00:51:00Z
+originalUrl: "https://redmondmag.com/articles/2020/10/21/azure-modular-datacenter.aspx"
+webUrl: "https://redmondmag.com/articles/2020/10/21/azure-modular-datacenter.aspx"
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Datacenter Dynamics
-  domain: datacenterdynamics.com
+  name: Redmond Magazine
+  domain: redmondmag.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://media.datacenterdynamics.com/media/images/SpaceXlaunch.2e16d0ba.fill-1200x630.jpg"
-    width: 1200
-    height: 630
+  - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/IntroImagesBigSmall/AzureModularBig.jpg"
+    width: 1665
+    height: 1158
     isCached: true
 
 related:
@@ -134,21 +134,21 @@ related:
         width: 640
         height: 427
         isCached: true
-  - title: "Microsoft Adds Modular Datacenter to Azure Space Efforts"
-    excerpt: "Microsoft this week introduced the Microsoft Azure Modular Datacenter as part of its overall Azure Space effort."
-    publishedDateTime: 2020-10-22T00:51:00Z
-    webUrl: "https://redmondmag.com/articles/2020/10/21/azure-modular-datacenter.aspx"
+  - title: "Microsoft Azure Space teams up with SpaceX's Starlink and SES's O3b"
+    excerpt: "Microsoft is expanding its off-planetary ambitions with the launch of a new business division, Azure Space. As part of the new initiative, Microsoft will partner with SpaceX's Starlink Internet service,"
+    publishedDateTime: 2020-10-21T11:34:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/microsoft-azure-space-teams-spacexs-starlink-and-sess-o3b/"
     type: article
     provider:
-      name: Redmond Magazine
-      domain: redmondmag.com
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
     quality: 37
     images:
-      - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/IntroImagesBigSmall/AzureModularBig.jpg"
-        width: 1665
-        height: 1158
+      - url: "https://media.datacenterdynamics.com/media/images/SpaceXlaunch.2e16d0ba.fill-1200x630.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
-secured: "tCj3kg49MH1kZi1+9csJQKrqm9yWCfeRXlHP517r5nAbzqeXF3YR8pzoSjrbgSQIr8gMLMhUNjHSBZegapdn1Ma4QKwejk+4sNvrh4zTU2ZOXrbt+iKYufGrOwqtLSplRQBOIZFxYe2w4WFOp3LKk/WLcPuRJP44EpTVQn0iB2Gh//8el0a22UjLqq8DFq1L4jtGsNL76lfdgN+xm9X1ezeOQadSbr53NO0zJXncprhw2OLtbM/zr7BBeZvnkm5+oAJwVK1LgLQcxe/ufIZFqL+FL62GhrvQZbUrHK7HA1YUcQDt0EI1YYae+cpBa+zr1s3VyfuuCMSPcaB5XK5r3GYWhsHtvr5i1AAOn3br5Jic1ZD5qwdJZBxpsM6ae1ji3v95slbYC3QpQnaqDkq/mjVI/x9rgCdiP+bujHIdbxKnHCD4QydEkIQdCo8I4s7CwSvf0K777Q6alnO/oPDdP9FY7HyxcQpEqFzqRiR0pLv1bLmwlPPdGtszAbPnKzYvC9q9GOHlpMwPudD/O8O64w==;N/Ei0AENWTm3/q+JCeb8wg=="
+secured: "69NMfA7damCU7fcolDvh4nNwO7t3ES/sWC8zMjFRt8SrNGzJdOUrUSCFgoAO/1eZBR9RUBRR/bBWRrmwG6yIi3AdERHbf9Tlt3ZCQdRK8FOhQNFV8Lt7DIXLstKnh7Wz+l/GYSkgnQ5XgwYFlCt32Gu4MWnRaseoumlXq5AbEXRNTQGQua3l4pkkpSV4SOSyPVGpm2fpvOtL5kEyvvWn6wIbPI/PiIEjHoB2Lrd9d0FuhJLOkP8DYn7fxtf4CDiM2yFUWE8WZRRuGK7d29A9QLeGRI+pHTF+RTZ/Tu2Z/lVW67HTgnb2r+AFmHKrAYFgmRD4FfB6rXNuMI07rZURaHuga4zrZNv7nThCxYaQvug=;b34c94t5ZJcwWQQj8lXgIw=="
 ---
 
