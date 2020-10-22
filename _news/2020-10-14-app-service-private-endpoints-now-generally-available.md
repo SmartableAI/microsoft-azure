@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/app-service-private-endp
 webUrl: "https://azure.microsoft.com/en-us/updates/app-service-private-endpoints-ga/"
 type: article
 quality: 69
-heat: 130
+heat: 129
 published: true
 
 provider:

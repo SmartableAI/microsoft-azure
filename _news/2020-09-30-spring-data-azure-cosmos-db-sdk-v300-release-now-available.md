@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/spring-data-azure-cosmos
 webUrl: "https://azure.microsoft.com/en-us/updates/spring-data-azure-cosmos-db-sdk-v300-release-now-available/"
 type: article
 quality: 101
-heat: 102
+heat: 101
 published: true
 
 provider:
