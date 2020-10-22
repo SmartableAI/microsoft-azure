@@ -1,47 +1,49 @@
 ---
 category: news
-title: "Azure Synapse Analytics: A progress report"
-excerpt: "Azure Synapse Analytics is now nine months old. Time to review new GA and public preview features, and a new partnership too."
-publishedDateTime: 2020-07-24T13:00:00Z
-webUrl: "https://www.zdnet.com/article/azure-synapse-analytics-a-progress-report/"
-ampWebUrl: "https://www.zdnet.com/google-amp/article/azure-synapse-analytics-a-progress-report/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/azure-synapse-analytics-a-progress-report/"
+title: "Quickly get started with samples in Azure Synapse Analytics"
+excerpt: "To further accelerate time to insight in Azure Synapse Analytics, we are introducing the Knowledge center to simplify access to pre-loaded sample data and to streamline the getting started process for data professionals."
+publishedDateTime: 2020-10-22T10:00:10Z
+originalUrl: "https://azure.microsoft.com/blog/quickly-get-started-with-samples-in-azure-synapse-analytics/"
+webUrl: "https://azure.microsoft.com/blog/quickly-get-started-with-samples-in-azure-synapse-analytics/"
 type: article
-quality: 97
-heat: -1
-published: false
+quality: 119
+heat: 299
+published: true
 
 provider:
-  name: ZDNet
-  domain: zdnet.com
+  name: Microsoft
+  domain: microsoft.com
   images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/zdnet.com-50x50.jpg"
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Azure
+  - Analytics
 
 images:
-  - url: "https://zdnet2.cbsistatic.com/hub/i/2020/07/23/c117195f-c0bc-4118-9393-07fda8f3cd08/synapse-workspace-wide.png"
-    width: 1920
-    height: 1080
+  - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/cae05d0a-59d2-4e01-b1f2-1c173af75026.png"
+    width: 2000
+    height: 1181
     isCached: true
 
 related:
-  - title: "Quickly get started with samples in Azure Synapse Analytics"
-    excerpt: "To further accelerate time to insight in Azure Synapse Analytics, we are introducing the Knowledge center to simplify access to pre-loaded sample data and to streamline the getting started process for data professionals."
-    publishedDateTime: 2020-10-22T10:00:10Z
-    webUrl: "https://azure.microsoft.com/blog/quickly-get-started-with-samples-in-azure-synapse-analytics/"
+  - title: "Azure Synapse Analytics: A progress report"
+    excerpt: "Azure Synapse Analytics is now nine months old. Time to review new GA and public preview features, and a new partnership too."
+    publishedDateTime: 2020-07-24T13:00:00Z
+    webUrl: "https://www.zdnet.com/article/azure-synapse-analytics-a-progress-report/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/azure-synapse-analytics-a-progress-report/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/azure-synapse-analytics-a-progress-report/"
     type: article
     provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 119
+      name: ZDNet
+      domain: zdnet.com
+    quality: 97
     images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/cae05d0a-59d2-4e01-b1f2-1c173af75026.png"
-        width: 2000
-        height: 1181
+      - url: "https://zdnet2.cbsistatic.com/hub/i/2020/07/23/c117195f-c0bc-4118-9393-07fda8f3cd08/synapse-workspace-wide.png"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Simply unmatched, truly limitless: Announcing Azure Synapse Analytics"
     excerpt: "Today, businesses are forced to maintain two types of analytical systems, data warehouses and data lakes. Data warehouses provide critical insights on business health. Data lakes can uncover important signals on customers, products, employees, and processes. Both are critical, yet operate independently"
@@ -141,6 +143,6 @@ related:
       domain: microsoft.com
     quality: 17
 
-secured: "J34doIUTeBf7yC/yeA2VfRd0T9kCYvo2UUXaffYH/9z/wt9IXJ8P2PW1vqspmY6ITNWGEP6QEJoyStCK0NnQXmNOyCX1PJ+jiETtrxZ+ismd/eDZwBbfeO+ahOPKnTUCWTKAg3wgWnvbeurkU1VB3vF8utk52OLnscqIlhPe1d4fYam5+tynaPWb6A1NQNnq21OWzIxi8NM3dBonKc4UHTwC6SUZRR51gsydLzHz2B6HG6gpe9z+sURlo2McmfdnERgcH1lcbXg3kZTSV9CSXffYg81PTPln32i3P+F8aTevjXg5OTuxnYKKF/2pPgooex4lCN5jyqOjSe26YLDmjuTxJElovLZRJUBro9OxFojq06ZPRdWxphRMtbLlnm289I59/D8qYgwNVprAvWGnU/1P3QZzj0MuEfHPId9573EZLoK0isZqbuyvWWC1QYV3cSh/Nzhfrf3flxl3Y1Jg43ZK/XJO85E8HxweC3n3KlBxW2Cqt65fbxBMXmtjq/+ol3GaU2huERDM73ZO1zObyQ==;1C1dxyffdZecGpoZ5m0mlA=="
+secured: "AB8cKNLOWIE61T2YipAc5ovfDkEwqnU/qiilhlpnUunPqROvz4YZyn2KQkwFJySY9SBYOvmDks6DQ0tdfIMZwZK0xmA1EktTbhS3mpdw2vLZis4K3HvIrSW0IbAgRhb8WZNZdX2Q3oG8ENmZbUsQn8WPEk0iGftSp91xwPk8S1I5oBfx/MJBqxX6cW8doQeNuW/gbTsEb/O6mOMGXkrRVIqUPMBl2Awtkj/klqvKrDk3dA2HK8YvhOqSu2UKVPIotn2JuheC2iP3sgYdP4y7RGvBbMA614TcU/gDdHTP2qJkCBf2JM9QtWqJ5VtACTe+9vOJgCaw+/bmEUT0G4iN/o175va6WruX8bSTjcbAu+U=;E4hxItjDyuX0OpyM1TE7EQ=="
 ---
 

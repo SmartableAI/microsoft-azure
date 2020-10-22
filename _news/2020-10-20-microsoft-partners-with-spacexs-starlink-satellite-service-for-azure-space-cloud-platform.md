@@ -9,7 +9,7 @@ ampWebUrl: "https://www.geekwire.com/2020/microsoft-partners-spacexs-starlink-sa
 cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/microsoft-partners-spacexs-starlink-satellite-service-azure-space-cloud-platform/amp/"
 type: article
 quality: 87
-heat: 248
+heat: 168
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft partners with SpaceX to connect Azure cloud to Musk's Starlink satellite internet"
-    excerpt: "Microsoft is partnering with SpaceX to connect the tech giant's Azure cloud computing network to the growing Starlink satellite internet."
-    publishedDateTime: 2020-10-20T21:14:00Z
-    webUrl: "https://www.cnbc.com/2020/10/20/microsoft-expands-its-space-business-pairing-its-azure-cloud-with-spacexs-starlink-internet.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2020/10/20/microsoft-expands-its-space-business-pairing-its-azure-cloud-with-spacexs-starlink-internet.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/10/20/microsoft-expands-its-space-business-pairing-its-azure-cloud-with-spacexs-starlink-internet.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 87
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106689529-1599138903852-starlink_satellites_screenshot.png?v=1599138942"
-        width: 1494
-        height: 889
-        isCached: true
   - title: "Microsoft debuts Azure Space to cater to the space industry, partners with SpaceX for Starlink datacenter broadband"
     excerpt: "Microsoft is taking its Azure cloud computing platform to the final frontier – space. It now has a dedicated business unit called Azure Space for that purpose, made up of industry heavyweights and engineers who are focused on space-sector services including simulation of space missions,"
     publishedDateTime: 2020-10-20T13:13:00Z
@@ -76,22 +60,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Microsoft and SpaceX partner to use Azure with Starlink satellite"
-    excerpt: "We’ve seen Microsoft look to expand its services out into space, as the company recently announced Azure Orbital, a service that connects satellites via cloud. On the other hand, SpaceX has been using its Starlink satellites to offer internet around the globe."
-    publishedDateTime: 2020-10-20T19:10:00Z
-    webUrl: "https://www.shacknews.com/article/121031/microsoft-and-spacex-partner-to-use-azure-with-starlink-satellite"
-    ampWebUrl: "https://www.shacknews.com/article/121031/microsoft-and-spacex-partner-to-use-azure-with-starlink-satellite?amphtml=1"
-    cdnAmpWebUrl: "https://www-shacknews-com.cdn.ampproject.org/c/s/www.shacknews.com/article/121031/microsoft-and-spacex-partner-to-use-azure-with-starlink-satellite?amphtml=1"
-    type: article
-    provider:
-      name: Shacknews
-      domain: shacknews.com
-    quality: 57
-    images:
-      - url: "https://d1lss44hh2trtw.cloudfront.net/assets/article/2020/10/20/spacex-satellite_feature.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Microsoft Announces Azure Space And Partnership With SpaceX Starlink"
     excerpt: "With Microsoft and SpaceX working together, Azure could become “the platform and ecosystem of choice for the mission needs of the space community.”"
     publishedDateTime: 2020-10-20T19:22:00Z
@@ -108,22 +76,6 @@ related:
         width: 708
         height: 472
         isCached: true
-  - title: "Microsoft’s Azure To Be Connected To SpaceX’s Starlink Satellite Internet"
-    excerpt: "SpaceX launched 60 Starlink satellites on Sunday Microsoft launched Azure Orbital, to connect cloud services to satellites Jeff Bezos' cloud services already offer similar services Microsoft Azure’s cloud services will now be connected directly to SpaceX ..."
-    publishedDateTime: 2020-10-21T11:31:00Z
-    webUrl: "https://www.ibtimes.com/microsofts-azure-be-connected-spacexs-starlink-satellite-internet-3066016"
-    ampWebUrl: "https://www.ibtimes.com/microsofts-azure-be-connected-spacexs-starlink-satellite-internet-3066016?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/microsofts-azure-be-connected-spacexs-starlink-satellite-internet-3066016?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 56
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/04/19/starlink-iss.jpg"
-        width: 640
-        height: 427
-        isCached: true
   - title: "Microsoft Azure Space teams up with SpaceX's Starlink and SES's O3b"
     excerpt: "Microsoft is expanding its off-planetary ambitions with the launch of a new business division, Azure Space. As part of the new initiative, Microsoft will partner with SpaceX's Starlink Internet service,"
     publishedDateTime: 2020-10-21T11:34:00Z
@@ -137,20 +89,6 @@ related:
       - url: "https://media.datacenterdynamics.com/media/images/SpaceXlaunch.2e16d0ba.fill-1200x630.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Microsoft Adds Modular Datacenter to Azure Space Efforts"
-    excerpt: "Microsoft this week introduced the Microsoft Azure Modular Datacenter as part of its overall Azure Space effort."
-    publishedDateTime: 2020-10-22T00:51:00Z
-    webUrl: "https://redmondmag.com/articles/2020/10/21/azure-modular-datacenter.aspx"
-    type: article
-    provider:
-      name: Redmond Magazine
-      domain: redmondmag.com
-    quality: 37
-    images:
-      - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/IntroImagesBigSmall/AzureModularBig.jpg"
-        width: 1665
-        height: 1158
         isCached: true
 
 secured: "s3m6+/hEd5wLH6FVP8pyvB49AfWN/Q9Am74yFrD4T8v+Y/XrUhSlIjfvxCS4y+wqxGewtCfeHsLptWypCQEmNjWEkTap7+JBOAMOfc86ksDqbqsNjVDzyVR6freDJRgQWRa/nHHFYfo5nzh+BtFelJ4jo2kL6u5JaBJkjGI91Ht5W+iTCuuE6FmmwdCL28T7mhr9faXvkEy29D4ATb31i20Kyg05ngk75zV4rGlqSsInd6wqu5KAbZ6dXIY1v1+ztz0n7XwLkjIJhDmGjVSCHDK2qQSpX+sjzpceN3YJ3eu7AS6wxGSCxBjMs0rG7KaSGOyzX9osGtrlk/I4JS3fq8vl4vI6brEd5yOhiDXeTX4+vJMLBsgYqFIhjdE8IiDUbFFQmFNrBnw2rO+vElaXBNB/E1EmoNRK059dAfur2crITuX8G0yYXNKrutPuwDvkJjRLYjffT8MidXX9BIxQ2Pyu9Zm+kpAPoMnZRU6G3KU1nqhTZxnTGZpIZerC3qSiWhmtealz10Lv9LcHOsKoxg==;mMyQ1H/82MFKM8l9tHzb6g=="

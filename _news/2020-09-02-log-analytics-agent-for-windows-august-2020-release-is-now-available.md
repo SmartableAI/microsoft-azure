@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/log-analytics-agent-for-
 webUrl: "https://azure.microsoft.com/en-us/updates/log-analytics-agent-for-windows-august-2020-release-is-now-available/"
 type: article
 quality: 69
-heat: 129
+heat: 109
 published: true
 
 provider:
@@ -23,15 +23,6 @@ topics:
   - Analytics
 
 related:
-  - title: "Stream Analytics now can be run on Azure Stack Hub"
-    excerpt: "Azure Stream Analytics is now available on Azure Stack Hub via IoT Edge Runtime. "
-    publishedDateTime: 2020-08-28T16:04:07Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/asaonstack/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 67
   - title: "Azure Text Analytics v3 is now generally available"
     excerpt: ""
     publishedDateTime: 2020-05-29T21:00:32Z

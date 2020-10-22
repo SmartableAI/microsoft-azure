@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-27T16:00:02Z
 webUrl: "https://azure.microsoft.com/en-us/updates/saved-searches-functionality-is-moving-to-query-explorer/"
 type: article
 quality: 34
-heat: -1
+heat: 34
 published: false
 
 provider:
@@ -27,77 +27,19 @@ images:
     isCached: true
 
 related:
-  - title: "Azure Synapse Analytics: A progress report"
-    excerpt: "Azure Synapse Analytics is now nine months old. Time to review new GA and public preview features, and a new partnership too."
-    publishedDateTime: 2020-07-24T13:00:00Z
-    webUrl: "https://www.zdnet.com/article/azure-synapse-analytics-a-progress-report/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/azure-synapse-analytics-a-progress-report/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/azure-synapse-analytics-a-progress-report/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 97
-    images:
-      - url: "https://zdnet2.cbsistatic.com/hub/i/2020/07/23/c117195f-c0bc-4118-9393-07fda8f3cd08/synapse-workspace-wide.png"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Simply unmatched, truly limitless: Announcing Azure Synapse Analytics"
-    excerpt: "Today, businesses are forced to maintain two types of analytical systems, data warehouses and data lakes. Data warehouses provide critical insights on business health. Data lakes can uncover important signals on customers, products, employees, and processes. Both are critical, yet operate independently"
-    publishedDateTime: 2019-11-04T06:00:41Z
-    webUrl: "https://azure.microsoft.com/blog/simply-unmatched-truly-limitless-announcing-azure-synapse-analytics/"
+  - title: "Log Analytics New Query Experience - Example Queries"
+    excerpt: ""
+    publishedDateTime: 2020-05-26T20:00:06Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/log-analytics-new-query-experience-example-queries/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 69
+    quality: 22
     images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/ee753f4b-675a-405f-98b2-01d4a85034ca.png"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "Azure SQL Data Warehouse is now Azure Synapse Analytics"
-    excerpt: "On November fourth, we announced Azure Synapse Analytics, the next evolution of Azure SQL Data Warehouse. Azure Synapse is a limitless analytics service that brings together enterprise data warehousing and Big Data analytics. It gives you the freedom to query data on your terms, using either serverless"
-    publishedDateTime: 2019-11-07T10:00:11Z
-    webUrl: "https://azure.microsoft.com/blog/azure-sql-data-warehouse-is-now-azure-synapse-analytics/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 69
-    images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/4f907102-6934-45ea-9eb4-acdfec680961.png"
-        width: 1000
-        height: 562
-        isCached: true
-  - title: "Azure Analytics: Clarity in an instant"
-    excerpt: "What 2020 is teaching us is that the world can change in an instant. In the span of a few months, we have witnessed massive disruptions across every industry around the globe. Factories are idle, hotels are empty, and the transportation backbone that connects us all is quiet. Navigating these unprecedented"
-    publishedDateTime: 2020-05-19T08:00:13Z
-    webUrl: "https://azure.microsoft.com/blog/azure-analytics-clarity-in-an-instant/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 37
-    images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/849b9325-2b7b-4f90-9aee-4ff7f5e66354.gif"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "Azure Synapse Analytics: Insights for all"
-    excerpt: "In November we announced Azure Synapse Analytics—a limitless analytics service that brings together enterprise data warehousing and big data analytics. Despite the massive disruptions occurring throughout industries in recent months, we continue to see a high level of excitement and enthusiasm for joining"
-    publishedDateTime: 2020-05-21T08:30:41Z
-    webUrl: "https://azure.microsoft.com/blog/azure-synapse-analytics-insights-for-all/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 37
-    images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/19cd7b32-501a-4032-8fa8-ed2bd9a28d03.gif"
-        width: 1600
-        height: 900
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/50a5d557-e0aa-4ca9-8bd6-b04d1d84c64b.png"
+        width: 1160
+        height: 557
         isCached: true
 
 secured: "L0U8qUAfhhohEl0+9fNF0EqLjYm1OfwUk1wKy7JLIUlk5KkB8ijH9gxpFh/wHegFgiEAkNbLNeuewtvzHK++knRSk5NAXjqHf+kD4/6He4UBlABtDyCU/uDkQIDYTbza6QV6Gxgax689JnGQzHDXQnf2hAA4H51ttmNc1QLPp1ARvfVpMedRKxG7LoXIhKDrfi92ZWAOs5O3KXybvag6CbJ0SwuraglzouYs148ubS/tIxsKb4hagqf02bbhfzldeCfqN1MuaFnusnCW7lSq41O87LVPfI0UUOH8sCnmOF8rSTOHx+yDdqv+rEhohIMb8cKSd9Zm0uJ1Z4gc4nj84Q==;qhg/gMXhxbPlTschj/rETA=="

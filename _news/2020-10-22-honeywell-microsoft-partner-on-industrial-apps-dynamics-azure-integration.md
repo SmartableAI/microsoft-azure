@@ -1,38 +1,30 @@
 ---
 category: news
-title: "Microsoft plans to establish new cloud datacenter region in Austria"
-excerpt: "The new region is anticipated to include Microsoft Azure, with Microsoft 365, Dynamics 365 and Power Platform to follow."
-publishedDateTime: 2020-10-21T19:19:56Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/microsoft-plans-to-establish-new-cloud-datacenter-region-in-austria/"
-webUrl: "https://azure.microsoft.com/en-us/updates/microsoft-plans-to-establish-new-cloud-datacenter-region-in-austria/"
+title: "Honeywell, Microsoft partner on industrial apps, Dynamics, Azure integration"
+excerpt: "The two companies will combine that artificial intelligence in Honeywell Forge performance management software with Microsoft Dynamics Field Service."
+publishedDateTime: 2020-10-22T16:00:00Z
+originalUrl: "https://www.zdnet.com/article/honeywell-microsoft-partner-on-industrial-apps-dynamics-azure-integration/"
+webUrl: "https://www.zdnet.com/article/honeywell-microsoft-partner-on-industrial-apps-dynamics-azure-integration/"
+ampWebUrl: "https://www.zdnet.com/google-amp/article/honeywell-microsoft-partner-on-industrial-apps-dynamics-azure-integration/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/honeywell-microsoft-partner-on-industrial-apps-dynamics-azure-integration/"
 type: article
-quality: 52
-heat: -1
-published: false
+quality: 91
+heat: 191
+published: true
 
 provider:
-  name: Microsoft
-  domain: microsoft.com
+  name: ZDNet
+  domain: zdnet.com
   images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg"
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/zdnet.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Azure
+  - Integration
 
 related:
-  - title: "Honeywell, Microsoft partner on industrial apps, Dynamics, Azure integration"
-    excerpt: "The two companies will combine that artificial intelligence in Honeywell Forge performance management software with Microsoft Dynamics Field Service."
-    publishedDateTime: 2020-10-22T16:00:00Z
-    webUrl: "https://www.zdnet.com/article/honeywell-microsoft-partner-on-industrial-apps-dynamics-azure-integration/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/honeywell-microsoft-partner-on-industrial-apps-dynamics-azure-integration/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/honeywell-microsoft-partner-on-industrial-apps-dynamics-azure-integration/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 91
   - title: "Microsoft partners with SpaceX to connect Azure cloud to Musk's Starlink satellite internet"
     excerpt: "Microsoft is partnering with SpaceX to connect the tech giant's Azure cloud computing network to the growing Starlink satellite internet."
     publishedDateTime: 2020-10-20T21:14:00Z
@@ -81,6 +73,15 @@ related:
         width: 640
         height: 427
         isCached: true
+  - title: "Microsoft plans to establish new cloud datacenter region in Austria"
+    excerpt: "The new region is anticipated to include Microsoft Azure, with Microsoft 365, Dynamics 365 and Power Platform to follow."
+    publishedDateTime: 2020-10-21T19:19:56Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/microsoft-plans-to-establish-new-cloud-datacenter-region-in-austria/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 52
   - title: "Microsoft Adds Modular Datacenter to Azure Space Efforts"
     excerpt: "Microsoft this week introduced the Microsoft Azure Modular Datacenter as part of its overall Azure Space effort."
     publishedDateTime: 2020-10-22T00:51:00Z
@@ -96,6 +97,6 @@ related:
         height: 1158
         isCached: true
 
-secured: "IJzbrAa8TP4E7v5FF+Jzp13z5nFfnDWbYH98FlPqzOll49vMx304Qkqoc1ZiuJMaOaut/2hc3XUu0tIkK8h4joL4HN3y+WotOokSLx+LZd7Gzkw3dxWsIsFVa976I6/OKToQBAQS8cw2hA1q7dJPxr2wZfqR+GkbhTE/cDGXviHj+NlyTrKvp5q1X5ITyybaevipw25hfO1D4FKHL5Yg45aZ0h1SsYxxL8O9eRQmQfqP+qkCEEJs84ZjBt4NDiBUEX/0fFavSum62ELBHUPeY4vwbwaHbWbPhqlvhNGjH0R8/K/P4M8ZCvHUMLEJd/Mfim1XgVDINusJvLQiFAlNiE+gdM9jQWFecZOO6GrPdfc=;7deE5d70nVrro5thXwYg1Q=="
+secured: "OyDdCrWV3oX4eC8hMxASH8SwgPvYnzzqmFUiVPcmUyKZXYtgEn+LAW6Fzcz10kG9HiEmjnW3YZPATFbsl+Gt7NeHiLKJxHfF/W61XR22SzxsvxX8/jRLXpI10+zX5dzdyJPptfhRcVBuGbjq7OOO/SqMpMo5QQxzPwNUiqbdbHXOhtovlkomDKeut+1WkxhuFZNbT7ARg26W5/qgO6MUeFkdxhVqWmSMuBo5gXkeX7pBAEkqqloPpCjz5j1f80ZOCE182qDXE9AdJEpbrwMCVwSzV96B4j4RHMnzbhVsBF4knOOJ0R5ytT78/vW17QxlZyEzA/N0KehT/HH3AJpcGRGO8JMwNSa7npEl8Lu4u0rl6aEVrKPIvnYkGAATkXa1VAuQ2+8vgliJCPAar7VTXTu3YbpqvEH+SefTtOdfBro27Sr8HNxmU/4LMxOdA34qdOMDUFei2rRLkgo+Fe3LGIBqNQ8280E79chRbxBlHt+7hdI0IJRBLPvE1TB2faI/Bgys+bFEhc6iayNBHDMY0A==;19gTa3JlDbrlAtCFYxfEqQ=="
 ---
 

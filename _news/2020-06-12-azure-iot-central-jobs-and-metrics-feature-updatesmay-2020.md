@@ -35,29 +35,6 @@ related:
         width: 827
         height: 552
         isCached: true
-  - title: "Azure API Management update—July 2020"
-    excerpt: "A regular Azure API Management service update was started on July 8, 2020. It includes new features, bug fixes, and improvements."
-    publishedDateTime: 2020-07-16T00:00:31Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-api-management-update-july-2020/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 37
-    images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/22268971-76ec-40e1-9ca2-890b6850038e.png"
-        width: 1211
-        height: 752
-        isCached: true
-  - title: "Azure API Management updates—June 2020"
-    excerpt: "A regular Azure API Management service update was started on June 10, 2020, and included new features, bug fixes, and changes, along with other improvements."
-    publishedDateTime: 2020-06-11T17:00:01Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-api-management-update-june-2020/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 17
 
 secured: "PPHgB4ci7SpPgA8MlQ8kUlo/sub02aDyi72o5iuQBuAx/T4E207Jws7+5AVZ5q+Na4XPRqP6UohW1FTI5cuqm+mL90hhRq8hedvHE512cRzaV0S1Dj8EfV4nZX7u8sEW/Ld4BDy9WwwO1cu9q/I/GRnGGayiaUrEM/LHpTjy0bS/3lfUPka8msHqHfCOBJUiFiByXhsa9wvZ4PpginsVDYWMKlRRMXmMex9YjKzhApOpq3ciDmsoSABnmbH4ZEP/6SmBu5tpRRmAE7DZZ20q/GC/ibDzA0KZXKbkLlaGMmzRws4zLTDO2eejH4KZ4jTHuOOatPjzSCCWCyqzTBQpkw==;89TbRgH8hoYokBdHz747wg=="
 ---

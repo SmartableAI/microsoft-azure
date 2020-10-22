@@ -27,33 +27,28 @@ images:
     isCached: true
 
 related:
-  - title: "Azure IoT Central UI and documentation updates—June 2020"
-    excerpt: "June 2020 UI and documentation updates for Azure IoT Central are now available."
-    publishedDateTime: 2020-07-15T19:00:30Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-iot-central-ui-documenation-updates-june-2020/"
+  - title: "Azure API Management updates- October 2020"
+    excerpt: "Regular Azure API Management service updates including new features, bug fixes, changes and other improvements."
+    publishedDateTime: 2020-10-22T16:00:15Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-api-management-updates-october-2020/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 37
-    images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/60860f53-51d9-40bc-b1a9-889af6a986f9.png"
-        width: 827
-        height: 552
-        isCached: true
+    quality: 84
+  - title: "Azure Site Recovery update rollup 51 - October 2020"
+    excerpt: "The latest Azure Site Recovery update provides provides fixes, updated Linux support for the Mobility service, and download links for Site Recovery components."
+    publishedDateTime: 2020-10-22T17:00:10Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/site-recovery-update-rollup-51-october-2020/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
   - title: "Azure API Management updates—June 2020"
     excerpt: "A regular Azure API Management service update was started on June 10, 2020, and included new features, bug fixes, and changes, along with other improvements."
     publishedDateTime: 2020-06-11T17:00:01Z
     webUrl: "https://azure.microsoft.com/en-us/updates/azure-api-management-update-june-2020/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 17
-  - title: "Azure IoT Central jobs and metrics feature updates—May 2020"
-    excerpt: "May 2020 jobs and metrics feature updates for Azure IoT Central are now available."
-    publishedDateTime: 2020-06-12T20:00:10Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-iot-central-jobs-and-metrics-feature-updates-may-2020/"
     type: article
     provider:
       name: Microsoft

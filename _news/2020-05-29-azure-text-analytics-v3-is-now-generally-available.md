@@ -30,15 +30,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 69
-  - title: "Stream Analytics now can be run on Azure Stack Hub"
-    excerpt: "Azure Stream Analytics is now available on Azure Stack Hub via IoT Edge Runtime. "
-    publishedDateTime: 2020-08-28T16:04:07Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/asaonstack/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 67
   - title: "Azure Log Analytics agent for Windows SHA-2 signing date has been extended"
     excerpt: ""
     publishedDateTime: 2020-05-11T17:00:02Z

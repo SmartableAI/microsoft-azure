@@ -29,6 +29,20 @@ images:
     title: "Simply unmatched, truly limitless: Announcing Azure Synapse Analytics"
 
 related:
+  - title: "Quickly get started with samples in Azure Synapse Analytics"
+    excerpt: "To further accelerate time to insight in Azure Synapse Analytics, we are introducing the Knowledge center to simplify access to pre-loaded sample data and to streamline the getting started process for data professionals."
+    publishedDateTime: 2020-10-22T10:00:10Z
+    webUrl: "https://azure.microsoft.com/blog/quickly-get-started-with-samples-in-azure-synapse-analytics/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 119
+    images:
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/cae05d0a-59d2-4e01-b1f2-1c173af75026.png"
+        width: 2000
+        height: 1181
+        isCached: true
   - title: "Azure Synapse Analytics: A progress report"
     excerpt: "Azure Synapse Analytics is now nine months old. Time to review new GA and public preview features, and a new partnership too."
     publishedDateTime: 2020-07-24T13:00:00Z
@@ -59,6 +73,38 @@ related:
         width: 1000
         height: 562
         isCached: true
+  - title: "Log Analytics Linux Agent for Fall 2020 now available"
+    excerpt: "A new release of the Linux Agent is now available with support fixes and a new troubleshooting tool."
+    publishedDateTime: 2020-10-22T16:00:11Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/log-analytics-agent-for-linux-fall-2020-now-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 69
+  - title: "Stream Analytics now can be run on Azure Stack Hub"
+    excerpt: "Azure Stream Analytics is now available on Azure Stack Hub via IoT Edge Runtime. "
+    publishedDateTime: 2020-08-28T16:04:07Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/asaonstack/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
+  - title: "Learn how to deliver insights faster with Azure Synapse Analytics"
+    excerpt: "Today, it’s even more critical to have a data-driven culture. Analytics and AI play a pivotal role in helping businesses make insights-driven decisions—decisions to transform supply chains, develop new ways to interact with customers, and evaluate new offerings.\r\n\r\nMany organizations are turning to cloud"
+    publishedDateTime: 2020-05-12T11:00:20Z
+    webUrl: "https://azure.microsoft.com/blog/learn-how-to-deliver-insights-faster-with-azure-synapse-analytics/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 37
+    images:
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/0adb1254-ac39-4dcf-8405-8a453b2ff566.png"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Azure Analytics: Clarity in an instant"
     excerpt: "What 2020 is teaching us is that the world can change in an instant. In the span of a few months, we have witnessed massive disruptions across every industry around the globe. Factories are idle, hotels are empty, and the transportation backbone that connects us all is quiet. Navigating these unprecedented"
     publishedDateTime: 2020-05-19T08:00:13Z
@@ -87,20 +133,15 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Azure Log Analytics saved searches functionality is moving to query explorer"
-    excerpt: "Azure Log Analytics saved searches functionality is now available in query explorer. "
-    publishedDateTime: 2020-07-27T16:00:02Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/saved-searches-functionality-is-moving-to-query-explorer/"
+  - title: "Azure Synapse Analytics meter ID changes effective as of July 1, 2020"
+    excerpt: ""
+    publishedDateTime: 2020-05-26T18:00:04Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-synapse-analytics-meter-id-changes/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 34
-    images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/5693d9d5-fd5f-4037-8747-aca13db4934b.png"
-        width: 925
-        height: 426
-        isCached: true
+    quality: 17
 
 secured: "pZbgbnV9Ob9q4wj8vU76PQly4eZPmLju+WmeJPkfSMF40sea1uw4QGrhaUP2Wajtlo8kZcbxDCfreUsDlllhNwV8RxcMQX/cpBepePdSnNvjGGhwUEYlA1t9c6gTudcakfADBVLvWTXushQsBUKZ3GG94u3bQ421A++7Mg7Pp9GmSbaYLYWeh6aqDJlVGA9TlBVG8baLbRvbOMbcG2tAmYym3U4vmfQ97KnPflsNAIXBey4jcribK9ToXjPywMf7uACR26WsmOj46EmGrd8tVMZT6dkvhnewiRYdApOZTNHReHeuUng9PwWNIgjpYySLgSsVwav5u2pP4nARVqG8yg==;fO6dvoYZpkYvK+CSyykvgw=="
 ---
