@@ -1,31 +1,32 @@
 ---
 category: news
-title: "Introducing the Microsoft Azure Modular Datacenter"
-excerpt: "The Microsoft Azure Modular Datacenter (MDC) is designed to support datacenter scale scenarios for humanitarian aid, disaster response, and other needs for high-intensity, secure cloud computing in challenging environments."
-publishedDateTime: 2020-10-20T06:00:20Z
-originalUrl: "https://azure.microsoft.com/blog/introducing-the-microsoft-azure-modular-datacenter/"
-webUrl: "https://azure.microsoft.com/blog/introducing-the-microsoft-azure-modular-datacenter/"
+title: "Microsoft Azure Partners With SpaceX to Offer Cloud Computing in Space"
+excerpt: "Microsoft ( NASDAQ:MSFT) announced today that it would partner with Elon Musk's SpaceX and others to bring cloud computing to the \"final frontier.\" The initiative, dubbed Azure Space, will use the services of a combined fleet of low-orbit spacecraft and traditional satellites to better connect the evolving space industry with the cloud."
+publishedDateTime: 2020-10-20T22:05:00Z
+originalUrl: "https://www.fool.com/investing/2020/10/20/microsoft-azure-partners-with-spacex-to-offer-clou/"
+webUrl: "https://www.fool.com/investing/2020/10/20/microsoft-azure-partners-with-spacex-to-offer-clou/"
+ampWebUrl: "https://www.fool.com/amp/investing/2020/10/20/microsoft-azure-partners-with-spacex-to-offer-clou/"
+cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/10/20/microsoft-azure-partners-with-spacex-to-offer-clou/"
 type: article
-quality: 89
+quality: 97
 heat: -1
 published: false
 
 provider:
-  name: Microsoft
-  domain: microsoft.com
+  name: The Motley Fool
+  domain: fool.com
   images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg"
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/fool.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Azure
-  - Analytics
 
 images:
-  - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/086ab745-514d-4a12-b1eb-c342c869208e.jpg"
-    width: 1432
-    height: 805
+  - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F595772%2Fsatellite-in-space-orbiting-the-earth.jpg&w=1200&op=resize"
+    width: 1200
+    height: 960
     isCached: true
 
 related:
@@ -125,22 +126,6 @@ related:
         width: 1200
         height: 609
         isCached: true
-  - title: "Microsoft Azure Partners With SpaceX to Offer Cloud Computing in Space"
-    excerpt: "Microsoft ( NASDAQ:MSFT) announced today that it would partner with Elon Musk's SpaceX and others to bring cloud computing to the \"final frontier.\" The initiative, dubbed Azure Space, will use the services of a combined fleet of low-orbit spacecraft and traditional satellites to better connect the evolving space industry with the cloud."
-    publishedDateTime: 2020-10-20T22:05:00Z
-    webUrl: "https://www.fool.com/investing/2020/10/20/microsoft-azure-partners-with-spacex-to-offer-clou/"
-    ampWebUrl: "https://www.fool.com/amp/investing/2020/10/20/microsoft-azure-partners-with-spacex-to-offer-clou/"
-    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/10/20/microsoft-azure-partners-with-spacex-to-offer-clou/"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 97
-    images:
-      - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F595772%2Fsatellite-in-space-orbiting-the-earth.jpg&w=1200&op=resize"
-        width: 1200
-        height: 960
-        isCached: true
   - title: "Microsoft unveils updates across Azure Cognitive Services and Azure Machine Learning"
     excerpt: "Microsoft rolled out updates across its AI and machine learning cloud portfolio during its Ignite 2020 virtual conference."
     publishedDateTime: 2020-09-22T16:00:00Z
@@ -156,6 +141,20 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2019/11/microsoft-1-e1580261336710.jpg?w=1200&#038;strip=all"
         width: 1200
         height: 573
+        isCached: true
+  - title: "Introducing the Microsoft Azure Modular Datacenter"
+    excerpt: "The Microsoft Azure Modular Datacenter (MDC) is designed to support datacenter scale scenarios for humanitarian aid, disaster response, and other needs for high-intensity, secure cloud computing in challenging environments."
+    publishedDateTime: 2020-10-20T06:00:20Z
+    webUrl: "https://azure.microsoft.com/blog/introducing-the-microsoft-azure-modular-datacenter/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 89
+    images:
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/086ab745-514d-4a12-b1eb-c342c869208e.jpg"
+        width: 1432
+        height: 805
         isCached: true
   - title: "Azure Cognitive Services has achieved human parity in image captioning"
     excerpt: "Computer Vision, part of Azure Cognitive Services, now offers an updated image captioning capability that has achieved human parity based on the Novel Object Captioning at Scale (NOCAPS) benchmark. "
@@ -763,6 +762,6 @@ related:
       domain: seekingalpha.com
     quality: 2
 
-secured: "W5eLnKobUv8rO/VgOe/jmpVSX0EAvaOGgGYFczohuQVRi6yR/XFmQfZfw2+NvQSaxkQ0BN4Kpj0dLU9mOZX9LzfdE3sFZrDcfW05CG7dfsTn+LP3orMzytNCBrYdN2HhGe7QmcKLlRCBV8oUAxNAzJgHcPV1UiU9f7ySyyJ+GueQM+cvwtObnYg8BR9lvjokRKPYY9VzdMjCpyAxoX9u8RbUvV5TqGugarxAbuMHoIPt4j6T5lR/3l4EiQENpaMDj2Z2KsUhUzBo94y+KG9N7G4RRMa1rNP2C5t+9hZoXDzXg/9mpa6W6IwXQb7fgw2HZUgijNwssrxryoMf2xlCt0UzH65Z9PzdJZY4mZcLkMQ=;Jy31BnqqJrvU7fkC7CWq7g=="
+secured: "t7GCiUdM+yFj+fL1bWrSs7t3n2rJ9Qz4A8oq1QnLCEcgFBhKVitprnJQClpREzkJSHv63ZmjoaJ9xPTQYqF0kd5F21ragDaGHK6phUB6EVDXo4EToknBWagW2qnXKTWZ9m1KGtwxXbXoedcgt+keSLyMbz9d86R6YnAEn7X3gL+jknjk7lodHCPjrQO0Kg4L1og6GcMqcv8DuGuxSmLINnjH6AvolrZZkS1nGVKNGbMFm/5LemYWZ7eEs6pPCIgWejyVDxbC/TN1upqBcp8qvPjhHJeyw/8obu3p1rfmglStzwoEgkys3HxbrcTv+0xniVxqzY9sk+g4IxbZpePpN1IOIoIkYoCWIoWJjM7/gsQ=;qMvNyiuQOjyF+gSbmmCQHQ=="
 ---
 

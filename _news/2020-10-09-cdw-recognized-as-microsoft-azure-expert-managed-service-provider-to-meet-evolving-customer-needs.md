@@ -120,6 +120,22 @@ related:
         width: 1200
         height: 609
         isCached: true
+  - title: "Microsoft Azure Partners With SpaceX to Offer Cloud Computing in Space"
+    excerpt: "Microsoft ( NASDAQ:MSFT) announced today that it would partner with Elon Musk's SpaceX and others to bring cloud computing to the \"final frontier.\" The initiative, dubbed Azure Space, will use the services of a combined fleet of low-orbit spacecraft and traditional satellites to better connect the evolving space industry with the cloud."
+    publishedDateTime: 2020-10-20T22:05:00Z
+    webUrl: "https://www.fool.com/investing/2020/10/20/microsoft-azure-partners-with-spacex-to-offer-clou/"
+    ampWebUrl: "https://www.fool.com/amp/investing/2020/10/20/microsoft-azure-partners-with-spacex-to-offer-clou/"
+    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/10/20/microsoft-azure-partners-with-spacex-to-offer-clou/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 97
+    images:
+      - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F595772%2Fsatellite-in-space-orbiting-the-earth.jpg&w=1200&op=resize"
+        width: 1200
+        height: 960
+        isCached: true
   - title: "Microsoft unveils updates across Azure Cognitive Services and Azure Machine Learning"
     excerpt: "Microsoft rolled out updates across its AI and machine learning cloud portfolio during its Ignite 2020 virtual conference."
     publishedDateTime: 2020-09-22T16:00:00Z
