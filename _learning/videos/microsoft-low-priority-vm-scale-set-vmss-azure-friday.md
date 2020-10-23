@@ -4,7 +4,7 @@ excerpt: "Ziv Rafalovich joins Scott Hanselman to show how to use low-priority V
 originalUrl: https://youtube.com/watch?v=dRujj2oQA_g
 type: video
 price: Free
-length: PT11M53S
+length: PT11M52S
 publishedDateTime: 2018-05-07T23:16:38Z
 heat: 50
 
@@ -27,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "bQ8q+yVzUh3XgJTFmUG4usDEnYB3eYZ7EZKvtFs4rJYFbJYUXFy+CYJtrh73HfOq8yddBSFiOZUM5WFWNkl7FlMhI0uVUhwjLuHBZckPlAWuDpPpSPZPTKQlH8NzkWd8E46zXbcDnHFiKdUfNOtI+eQktVoO7viZqS7R2hgZAXJx7uIl9Bg1yDrtlJL16S8NEv5tK5Y6N30Z4thqEx93kYEsJ5Ewi7cU8pupX/QaSpDVVUyd6SsTMD+4Edutu5xltKmqpVI5auscjlTnuEB7a1QTBxIbtd3qg2Y8hxqU1pkvfTz7YOBuTKQQV4KqWRZWITNGbsDAG2dOxZg/yVBo10SYqRNEFN45+H5VtzYcPwQLePXLRosGBbnbEPakU8d33hXbFDZEjnqgbkD5tKX69wq3FcUbbY3I5E1cM1CR+QA=;8DOUD1oOf1opfLr5KQISIQ=="
+secured: "BCehRiN6WfM+5u022O9kSkGseX8dTAhOFCE0LnMtPwRd2dOx0XdjvRpw2t0Coz7HgulyrKbgTN+ZNiliUG7w0EcT9f+z5VATJ9rwDpVy4qmk0dks1MzIhOg+VWfy4dzzuZufO/VR5ndGqZeLftrWJPnyivjMzVklMROXWAs8p4freGpsXRHjMp4PllNyTwYNBFFPaAAbgSbZzlOhNOec+kq3m9JIEyOto8nSjh2hK9nlceYHcj4rjkJUyZfiLPTlPNobcH+xIn49viaJLxBwU3KsDCXVqfNfUV7Uzp3v9zwQEig6AMshy0rFpin5fLrIQJdoHLjxfp3iZu3FGyyDUW13i/ylxvHzol8LXgLow4bo8zZn1TnAMskYeiMlolHRHeZeS7iQhE84VumDQYNALIw++4cM9PiNgXk4nE2Wj6Y=;iGoYY0qRXyQSxFQu6XLMhg=="
 ---
 
