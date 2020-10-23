@@ -4,6 +4,41 @@
   "page": 7,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-network-fundamentals-2.md",
+      "title": "Fundamentals of network security",
+      "excerpt": "Explore the fundamentals of computer networking security and monitoring.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-network-fundamentals-2/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/network-fundamentals-2/",
+      "length": "PT36M",
+      "ratings": {
+        "count": 2351,
+        "average": 4.699277
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 58,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Security"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-network-fundamentals.md",
       "title": "Fundamentals of computer networking",
       "excerpt": "You'll learn the fundamental principles of computer networking to prepare you for the Azure admin and developer learning paths.",
@@ -11,8 +46,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/network-fundamentals/",
       "length": "PT47M",
       "ratings": {
-        "count": 3306,
-        "average": 4.7005444
+        "count": 3308,
+        "average": 4.7004232
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -46,8 +81,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-virtual-machines-with-azure-backup/",
       "length": "PT35M",
       "ratings": {
-        "count": 4417,
-        "average": 4.7473397
+        "count": 4418,
+        "average": 4.7471704
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -294,8 +329,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-identity-overview/",
       "length": "PT15M",
       "ratings": {
-        "count": 4802,
-        "average": 4.7630153
+        "count": 4803,
+        "average": 4.763065
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -337,8 +372,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/store-app-data-with-azure-blob-storage/",
       "length": "PT50M",
       "ratings": {
-        "count": 2996,
-        "average": 4.5804405
+        "count": 2997,
+        "average": 4.580247
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -613,8 +648,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-costs-create-budgets-azure-cost-management/",
       "length": "PT40M",
       "ratings": {
-        "count": 995,
-        "average": 4.643216
+        "count": 997,
+        "average": 4.643932
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -656,8 +691,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-long-running-serverless-workflow-with-durable-functions/",
       "length": "PT46M",
       "ratings": {
-        "count": 2669,
-        "average": 4.4589734
+        "count": 2670,
+        "average": 4.459176
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -700,8 +735,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-security/",
       "length": "PT1H2M",
       "ratings": {
-        "count": 2426,
-        "average": 4.7122836
+        "count": 2427,
+        "average": 4.7124023
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -744,8 +779,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/capture-application-logs-app-service/",
       "length": "PT55M",
       "ratings": {
-        "count": 1281,
-        "average": 4.626854
+        "count": 1282,
+        "average": 4.6271453
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -861,8 +896,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/connect-on-premises-network-with-expressroute/",
       "length": "PT40M",
       "ratings": {
-        "count": 3422,
-        "average": 4.6697836
+        "count": 3424,
+        "average": 4.6699767
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -984,8 +1019,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/enable-digital-transformation/",
       "length": "PT32M",
       "ratings": {
-        "count": 8729,
-        "average": 4.6981325
+        "count": 8730,
+        "average": 4.698053
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1069,8 +1104,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/incident-response-with-alerting-on-azure/",
       "length": "PT53M",
       "ratings": {
-        "count": 1784,
-        "average": 4.641816
+        "count": 1785,
+        "average": 4.6414566
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1113,8 +1148,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-ad/",
       "length": "PT27M",
       "ratings": {
-        "count": 1729,
-        "average": 4.6813188
+        "count": 1730,
+        "average": 4.681503
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1178,49 +1213,6 @@
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/simplify-access-and-identity-provisioning-with-microsoft-365-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Identity"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-manage-device-identity-ad-join.md",
-      "title": "Manage device identity with Azure AD join and Enterprise State Roaming",
-      "excerpt": "Learn how to manage device identity by using Azure AD join and Enterprise State Roaming.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-manage-device-identity-ad-join/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-device-identity-ad-join/",
-      "length": "PT25M",
-      "ratings": {
-        "count": 1110,
-        "average": 4.5954957
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 56,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/manage-device-identity-ad-join-social.png",
           "width": 800,
           "height": 400,
           "isCached": true
