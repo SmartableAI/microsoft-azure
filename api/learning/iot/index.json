@@ -4,15 +4,15 @@
   "page": 1,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-intro-to-compute.md",
-      "title": "Core Cloud Services - Azure compute options",
-      "excerpt": "Explore essential Azure concepts to find out how virtual machines, containers, and apps combined with serverless computing services can fortify your business.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-to-compute/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-compute/",
-      "length": "PT38M",
+      "path": "_learning/courses/microsoft-learn-azure-intro-to-logic-apps.md",
+      "title": "Introduction to Azure Logic Apps",
+      "excerpt": "Learn how to evaluate Logic Apps as an automation choice for your organization using criteria for integration, performance, conditionals, and connectors.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-azure-intro-to-logic-apps/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-logic-apps/",
+      "length": "PT28M",
       "ratings": {
-        "count": 64281,
-        "average": 4.710832
+        "count": 1629,
+        "average": 4.712707
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -29,7 +29,52 @@
       "levels": [
         "Beginner"
       ],
-      "heat": 163,
+      "heat": 132,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/intro-to-logic-apps-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "IoT",
+        "Blockchain",
+        "Integration"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-intro-to-compute.md",
+      "title": "Core Cloud Services - Azure compute options",
+      "excerpt": "Explore essential Azure concepts to find out how virtual machines, containers, and apps combined with serverless computing services can fortify your business.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-to-compute/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-compute/",
+      "length": "PT38M",
+      "ratings": {
+        "count": 64283,
+        "average": 4.710841
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 83,
       "content": "\r\n",
       "type": "course",
       "price": "Free",
@@ -75,8 +120,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/capture-application-logs-app-service/",
           "length": "PT55M",
           "ratings": {
-            "count": 1280,
-            "average": 4.6265626
+            "count": 1281,
+            "average": 4.626854
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -118,8 +163,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/control-and-organize-with-azure-resource-manager/",
           "length": "PT46M",
           "ratings": {
-            "count": 39018,
-            "average": 4.7136707
+            "count": 39020,
+            "average": 4.7136855
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -284,8 +329,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-serverless-logic-with-azure-functions/",
           "length": "PT36M",
           "ratings": {
-            "count": 6700,
-            "average": 4.659552
+            "count": 6702,
+            "average": 4.6596537
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -404,8 +449,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/communicate-between-apps-with-azure-queue-storage/",
           "length": "PT56M",
           "ratings": {
-            "count": 1738,
-            "average": 4.5822783
+            "count": 1739,
+            "average": 4.5825186
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -486,8 +531,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/",
           "length": "PT36M",
           "ratings": {
-            "count": 789,
-            "average": 4.762991
+            "count": 794,
+            "average": 4.763224
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -750,8 +795,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-iot-strategy-and-solutions/",
           "length": "PT23M",
           "ratings": {
-            "count": 5823,
-            "average": 4.7357035
+            "count": 5824,
+            "average": 4.735749
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -836,8 +881,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-iot-devices/",
           "length": "PT44M",
           "ratings": {
-            "count": 941,
-            "average": 4.6780024
+            "count": 942,
+            "average": 4.678344
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -918,8 +963,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/tm-introduction-to-threat-modeling/",
           "length": "PT27M",
           "ratings": {
-            "count": 354,
-            "average": 4.745763
+            "count": 355,
+            "average": 4.743662
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -962,8 +1007,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/tm-create-a-threat-model-using-foundational-data-flow-diagram-elements/",
           "length": "PT42M",
           "ratings": {
-            "count": 233,
-            "average": 4.695279
+            "count": 234,
+            "average": 4.6923075
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1148,7 +1193,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 52,
+          "heat": 132,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/intro-to-logic-apps-social.png",
@@ -1395,8 +1440,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/implement-message-workflows-with-service-bus/",
           "length": "PT54M",
           "ratings": {
-            "count": 2117,
-            "average": 4.6513934
+            "count": 2118,
+            "average": 4.6496696
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1430,8 +1475,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/communicate-between-apps-with-azure-queue-storage/",
           "length": "PT56M",
           "ratings": {
-            "count": 1738,
-            "average": 4.5822783
+            "count": 1739,
+            "average": 4.5825186
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1623,8 +1668,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-iot-edge/",
           "length": "PT29M",
           "ratings": {
-            "count": 773,
-            "average": 4.641656
+            "count": 774,
+            "average": 4.6408267
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1756,8 +1801,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-your-first-iot-central-app/",
           "length": "PT1H22M",
           "ratings": {
-            "count": 600,
-            "average": 4.5833335
+            "count": 602,
+            "average": 4.5847178
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1977,8 +2022,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-iot-devices/",
           "length": "PT44M",
           "ratings": {
-            "count": 941,
-            "average": 4.6780024
+            "count": 942,
+            "average": 4.678344
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2377,8 +2422,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/tm-introduction-to-threat-modeling/",
       "length": "PT27M",
       "ratings": {
-        "count": 354,
-        "average": 4.745763
+        "count": 355,
+        "average": 4.743662
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2421,8 +2466,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-iot-strategy-and-solutions/",
       "length": "PT23M",
       "ratings": {
-        "count": 5823,
-        "average": 4.7357035
+        "count": 5824,
+        "average": 4.735749
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2464,8 +2509,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/iot-fundamentals/",
       "length": "PT25M",
       "ratings": {
-        "count": 74,
-        "average": 4.7702703
+        "count": 75,
+        "average": 4.76
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2507,8 +2552,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/tm-create-a-threat-model-using-foundational-data-flow-diagram-elements/",
       "length": "PT42M",
       "ratings": {
-        "count": 233,
-        "average": 4.695279
+        "count": 234,
+        "average": 4.6923075
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2629,51 +2674,6 @@
         "Azure",
         "IoT",
         "Security"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-azure-intro-to-logic-apps.md",
-      "title": "Introduction to Azure Logic Apps",
-      "excerpt": "Learn how to evaluate Logic Apps as an automation choice for your organization using criteria for integration, performance, conditionals, and connectors.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-azure-intro-to-logic-apps/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-logic-apps/",
-      "length": "PT28M",
-      "ratings": {
-        "count": 1629,
-        "average": 4.712707
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/intro-to-logic-apps-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "IoT",
-        "Blockchain",
-        "Integration"
       ]
     },
     {
@@ -2852,8 +2852,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-iot-devices/",
       "length": "PT44M",
       "ratings": {
-        "count": 941,
-        "average": 4.6780024
+        "count": 942,
+        "average": 4.678344
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2931,8 +2931,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/tm-use-a-framework-to-identify-threats-and-find-ways-to-reduce-or-eliminate-risk/",
       "length": "PT57M",
       "ratings": {
-        "count": 161,
-        "average": 4.695652
+        "count": 162,
+        "average": 4.6975307
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3000,8 +3000,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-iot-edge/",
           "length": "PT29M",
           "ratings": {
-            "count": 773,
-            "average": 4.641656
+            "count": 774,
+            "average": 4.6408267
           },
           "provider": {
             "name": "Microsoft Learn",

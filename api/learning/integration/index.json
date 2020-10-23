@@ -4,15 +4,15 @@
   "page": 1,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-intro-to-compute.md",
-      "title": "Core Cloud Services - Azure compute options",
-      "excerpt": "Explore essential Azure concepts to find out how virtual machines, containers, and apps combined with serverless computing services can fortify your business.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-to-compute/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-compute/",
-      "length": "PT38M",
+      "path": "_learning/courses/microsoft-learn-azure-intro-to-logic-apps.md",
+      "title": "Introduction to Azure Logic Apps",
+      "excerpt": "Learn how to evaluate Logic Apps as an automation choice for your organization using criteria for integration, performance, conditionals, and connectors.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-azure-intro-to-logic-apps/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-logic-apps/",
+      "length": "PT28M",
       "ratings": {
-        "count": 64281,
-        "average": 4.710832
+        "count": 1629,
+        "average": 4.712707
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -29,7 +29,52 @@
       "levels": [
         "Beginner"
       ],
-      "heat": 163,
+      "heat": 132,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/intro-to-logic-apps-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "IoT",
+        "Blockchain",
+        "Integration"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-intro-to-compute.md",
+      "title": "Core Cloud Services - Azure compute options",
+      "excerpt": "Explore essential Azure concepts to find out how virtual machines, containers, and apps combined with serverless computing services can fortify your business.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-to-compute/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-compute/",
+      "length": "PT38M",
+      "ratings": {
+        "count": 64283,
+        "average": 4.710841
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 83,
       "content": "\r\n",
       "type": "course",
       "price": "Free",
@@ -41,49 +86,6 @@
         "Serverless",
         "IoT",
         "Blockchain",
-        "Integration"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-github-actions-ci.md",
-      "title": "Build continuous integration (CI) workflows by using GitHub Actions",
-      "excerpt": "Learn how to create workflows that enable you to use Continuous Integration (CI) for your projects.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-github-actions-ci/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/github-actions-ci/",
-      "length": "PT55M",
-      "ratings": {
-        "count": 136,
-        "average": 4.6838236
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 130,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/github/github-actions-ci-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
         "Integration"
       ]
     },
@@ -118,8 +120,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-ad/",
           "length": "PT27M",
           "ratings": {
-            "count": 1727,
-            "average": 4.6809497
+            "count": 1729,
+            "average": 4.6813188
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -161,8 +163,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-users-and-groups-in-azure-active-directory/",
           "length": "PT41M",
           "ratings": {
-            "count": 2905,
-            "average": 4.7053356
+            "count": 2906,
+            "average": 4.705437
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -204,8 +206,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/authenticate-apps-with-managed-identities/",
           "length": "PT1H6M",
           "ratings": {
-            "count": 143,
-            "average": 4.5384617
+            "count": 144,
+            "average": 4.5416665
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -336,8 +338,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/capture-application-logs-app-service/",
           "length": "PT55M",
           "ratings": {
-            "count": 1280,
-            "average": 4.6265626
+            "count": 1281,
+            "average": 4.626854
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -379,8 +381,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/control-and-organize-with-azure-resource-manager/",
           "length": "PT46M",
           "ratings": {
-            "count": 39018,
-            "average": 4.7136707
+            "count": 39020,
+            "average": 4.7136855
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -547,8 +549,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-security/",
           "length": "PT1H2M",
           "ratings": {
-            "count": 2425,
-            "average": 4.712165
+            "count": 2426,
+            "average": 4.7122836
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -591,8 +593,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/top-5-security-items-to-consider/",
           "length": "PT45M",
           "ratings": {
-            "count": 6353,
-            "average": 4.6496143
+            "count": 6355,
+            "average": 4.6497245
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -626,8 +628,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-security-baselines/",
           "length": "PT60M",
           "ratings": {
-            "count": 2338,
-            "average": 4.641146
+            "count": 2340,
+            "average": 4.6410255
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -669,8 +671,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-secrets-with-azure-key-vault/",
           "length": "PT46M",
           "ratings": {
-            "count": 1525,
-            "average": 4.5940986
+            "count": 1526,
+            "average": 4.594364
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -752,8 +754,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-serverless-logic-with-azure-functions/",
           "length": "PT36M",
           "ratings": {
-            "count": 6700,
-            "average": 4.659552
+            "count": 6702,
+            "average": 4.6596537
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -872,8 +874,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/communicate-between-apps-with-azure-queue-storage/",
           "length": "PT56M",
           "ratings": {
-            "count": 1738,
-            "average": 4.5822783
+            "count": 1739,
+            "average": 4.5825186
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -954,8 +956,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/",
           "length": "PT36M",
           "ratings": {
-            "count": 789,
-            "average": 4.762991
+            "count": 794,
+            "average": 4.763224
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1218,8 +1220,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-iot-strategy-and-solutions/",
           "length": "PT23M",
           "ratings": {
-            "count": 5823,
-            "average": 4.7357035
+            "count": 5824,
+            "average": 4.735749
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1304,8 +1306,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-iot-devices/",
           "length": "PT44M",
           "ratings": {
-            "count": 941,
-            "average": 4.6780024
+            "count": 942,
+            "average": 4.678344
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1621,7 +1623,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 52,
+          "heat": 132,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/intro-to-logic-apps-social.png",
@@ -1868,8 +1870,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/implement-message-workflows-with-service-bus/",
           "length": "PT54M",
           "ratings": {
-            "count": 2117,
-            "average": 4.6513934
+            "count": 2118,
+            "average": 4.6496696
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1903,8 +1905,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/communicate-between-apps-with-azure-queue-storage/",
           "length": "PT56M",
           "ratings": {
-            "count": 1738,
-            "average": 4.5822783
+            "count": 1739,
+            "average": 4.5825186
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2011,8 +2013,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-security-in-azure/",
           "length": "PT1H16M",
           "ratings": {
-            "count": 45503,
-            "average": 4.7049866
+            "count": 45509,
+            "average": 4.7049813
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2047,8 +2049,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-security-baselines/",
           "length": "PT60M",
           "ratings": {
-            "count": 2338,
-            "average": 4.641146
+            "count": 2340,
+            "average": 4.6410255
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2090,8 +2092,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/identify-threats-with-azure-security-center/",
           "length": "PT43M",
           "ratings": {
-            "count": 809,
-            "average": 4.695921
+            "count": 810,
+            "average": 4.6950617
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2133,8 +2135,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/resolve-threats-with-azure-security-center/",
           "length": "PT44M",
           "ratings": {
-            "count": 1080,
-            "average": 4.584259
+            "count": 1081,
+            "average": 4.584644
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2222,8 +2224,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/publish-manage-apis-with-azure-api-management/",
           "length": "PT38M",
           "ratings": {
-            "count": 1174,
-            "average": 4.6660986
+            "count": 1175,
+            "average": 4.666383
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2266,8 +2268,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/improve-api-performance-with-apim-caching-policy/",
           "length": "PT47M",
           "ratings": {
-            "count": 694,
-            "average": 4.662824
+            "count": 696,
+            "average": 4.6623564
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2310,8 +2312,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-apis-on-api-management/",
           "length": "PT43M",
           "ratings": {
-            "count": 709,
-            "average": 4.7207336
+            "count": 710,
+            "average": 4.7211266
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2354,8 +2356,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/control-authentication-with-apim/",
           "length": "PT55M",
           "ratings": {
-            "count": 1609,
-            "average": 4.634556
+            "count": 1610,
+            "average": 4.634783
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2442,8 +2444,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-iot-devices/",
           "length": "PT44M",
           "ratings": {
-            "count": 941,
-            "average": 4.6780024
+            "count": 942,
+            "average": 4.678344
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2670,8 +2672,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-serverless-api-with-functions-api-management/",
       "length": "PT41M",
       "ratings": {
-        "count": 1211,
-        "average": 4.615194
+        "count": 1212,
+        "average": 4.6155114
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2828,8 +2830,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/control-authentication-with-apim/",
       "length": "PT55M",
       "ratings": {
-        "count": 1609,
-        "average": 4.634556
+        "count": 1610,
+        "average": 4.634783
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2904,51 +2906,6 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-azure-intro-to-logic-apps.md",
-      "title": "Introduction to Azure Logic Apps",
-      "excerpt": "Learn how to evaluate Logic Apps as an automation choice for your organization using criteria for integration, performance, conditionals, and connectors.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-azure-intro-to-logic-apps/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-logic-apps/",
-      "length": "PT28M",
-      "ratings": {
-        "count": 1629,
-        "average": 4.712707
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/intro-to-logic-apps-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "IoT",
-        "Blockchain",
-        "Integration"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-implement-message-workflows-with-service-bus.md",
       "title": "Implement message-based communication workflows with Azure Service Bus",
       "excerpt": "Discover how to write code in .NET applications using Azure Service Bus for communications that can handle high demand, low bandwidth, and hardware failures.",
@@ -2956,8 +2913,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/implement-message-workflows-with-service-bus/",
       "length": "PT54M",
       "ratings": {
-        "count": 2117,
-        "average": 4.6513934
+        "count": 2118,
+        "average": 4.6496696
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3259,6 +3216,45 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/PDOXI2E6zYA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Integration"
+      ]
+    },
+    {
+      "path": "_learning/videos/microsoft-how-to-publish-your-apis-with-the-new-developer-portal-in-azure-api-management-azure-friday.md",
+      "title": "How to publish your APIs with the new developer portal in Azure API Management | Azure Friday",
+      "excerpt": "The all-new API Management developer portal lets you effortlessly publish your APIs. It's customizable, lightweight, and intuitive. Mike Budzynski joins Scott Hanselman to show how to publish your APIs with the new developer portal in Azure API Management.  3:30 - Demo  Azure API Management resources",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-how-to-publish-your-apis-with-the-new-developer-portal-in-azure-api-management-azure-friday/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-how-to-publish-your-apis-with-the-new-developer-portal-in-azure-api-management-azure-friday/",
+      "originalUrl": "https://youtube.com/watch?v=9cmyh3J9Lvc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/9cmyh3J9Lvc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT13M10S",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-01-30T21:26:05-08:00",
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/9cmyh3J9Lvc/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true

@@ -4,6 +4,46 @@
   "page": 1,
   "value": [
     {
+      "path": "_learning/videos/microsoft-serverless-containers-with-azure-container-instances-aci-azure-friday.md",
+      "title": "Serverless containers with Azure Container Instances (ACI) | Azure Friday",
+      "excerpt": "In this episode, Azure CTO Mark Russinovich joins Scott Hanselman to show how you can use Azure Container Instances (ACI) to host a containerized application. Mark deploys an image processing container in three ways: as a standalone ACI container, as part of a Logic Apps workflow, and as the backend",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-serverless-containers-with-azure-container-instances-aci-azure-friday/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-serverless-containers-with-azure-container-instances-aci-azure-friday/",
+      "originalUrl": "https://youtube.com/watch?v=7G_oDLON7Us",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/7G_oDLON7Us\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT16M33S",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-09-03T14:26:47-07:00",
+      "heat": 133,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/7G_oDLON7Us/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Serverless",
+        "Containers"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-intro-to-compute.md",
       "title": "Core Cloud Services - Azure compute options",
       "excerpt": "Explore essential Azure concepts to find out how virtual machines, containers, and apps combined with serverless computing services can fortify your business.",
@@ -11,8 +51,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-compute/",
       "length": "PT38M",
       "ratings": {
-        "count": 64281,
-        "average": 4.710832
+        "count": 64283,
+        "average": 4.710841
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -29,7 +69,7 @@
       "levels": [
         "Beginner"
       ],
-      "heat": 163,
+      "heat": 83,
       "content": "\r\n",
       "type": "course",
       "price": "Free",
@@ -75,8 +115,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-governance/",
           "length": "PT46M",
           "ratings": {
-            "count": 39114,
-            "average": 4.6339417
+            "count": 39116,
+            "average": 4.633935
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -110,8 +150,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-virtual-machines/",
           "length": "PT1H7M",
           "ratings": {
-            "count": 14966,
-            "average": 4.6900973
+            "count": 14967,
+            "average": 4.6901183
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -254,8 +294,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-governance/",
           "length": "PT46M",
           "ratings": {
-            "count": 39114,
-            "average": 4.6339417
+            "count": 39116,
+            "average": 4.633935
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -289,8 +329,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-virtual-machines/",
           "length": "PT1H7M",
           "ratings": {
-            "count": 14966,
-            "average": 4.6900973
+            "count": 14967,
+            "average": 4.6901183
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -433,8 +473,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-linux-virtual-machine-in-azure/",
           "length": "PT1H26M",
           "ratings": {
-            "count": 8089,
-            "average": 4.686982
+            "count": 8090,
+            "average": 4.687021
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -469,8 +509,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-windows-virtual-machine-in-azure/",
           "length": "PT51M",
           "ratings": {
-            "count": 12943,
-            "average": 4.708955
+            "count": 12945,
+            "average": 4.7089996
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -512,8 +552,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-virtual-machines-with-azure-cli/",
           "length": "PT51M",
           "ratings": {
-            "count": 5940,
-            "average": 4.7011786
+            "count": 5941,
+            "average": 4.7012286
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -628,8 +668,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-linux-virtual-machine-in-azure/",
           "length": "PT1H26M",
           "ratings": {
-            "count": 8089,
-            "average": 4.686982
+            "count": 8090,
+            "average": 4.687021
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -664,8 +704,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-windows-virtual-machine-in-azure/",
           "length": "PT51M",
           "ratings": {
-            "count": 12943,
-            "average": 4.708955
+            "count": 12945,
+            "average": 4.7089996
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -707,8 +747,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-virtual-machines-with-azure-cli/",
           "length": "PT51M",
           "ratings": {
-            "count": 5940,
-            "average": 4.7011786
+            "count": 5941,
+            "average": 4.7012286
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -823,8 +863,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-docker-containers/",
           "length": "PT32M",
           "ratings": {
-            "count": 3170,
-            "average": 4.631861
+            "count": 3171,
+            "average": 4.631977
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -927,8 +967,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/run-docker-with-azure-container-instances/",
           "length": "PT48M",
           "ratings": {
-            "count": 5982,
-            "average": 4.7139754
+            "count": 5983,
+            "average": 4.714023
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1031,8 +1071,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/run-docker-with-azure-container-instances/",
           "length": "PT48M",
           "ratings": {
-            "count": 5982,
-            "average": 4.7139754
+            "count": 5983,
+            "average": 4.714023
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1102,8 +1142,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/host-a-web-app-with-azure-app-service/",
           "length": "PT58M",
           "ratings": {
-            "count": 5209,
-            "average": 4.6062584
+            "count": 5211,
+            "average": 4.6064095
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1175,8 +1215,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/capture-application-logs-app-service/",
           "length": "PT55M",
           "ratings": {
-            "count": 1280,
-            "average": 4.6265626
+            "count": 1281,
+            "average": 4.626854
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1218,8 +1258,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/control-and-organize-with-azure-resource-manager/",
           "length": "PT46M",
           "ratings": {
-            "count": 39018,
-            "average": 4.7136707
+            "count": 39020,
+            "average": 4.7136855
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1384,8 +1424,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/",
           "length": "PT36M",
           "ratings": {
-            "count": 789,
-            "average": 4.762991
+            "count": 794,
+            "average": 4.763224
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1472,8 +1512,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-compute-fundamentals/",
           "length": "PT52M",
           "ratings": {
-            "count": 109,
-            "average": 4.6788993
+            "count": 110,
+            "average": 4.672727
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1609,8 +1649,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-docker-containers/",
           "length": "PT32M",
           "ratings": {
-            "count": 3170,
-            "average": 4.631861
+            "count": 3171,
+            "average": 4.631977
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1932,8 +1972,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-iot-edge/",
           "length": "PT29M",
           "ratings": {
-            "count": 773,
-            "average": 4.641656
+            "count": 774,
+            "average": 4.6408267
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2041,8 +2081,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-docker-containers/",
       "length": "PT32M",
       "ratings": {
-        "count": 3170,
-        "average": 4.631861
+        "count": 3171,
+        "average": 4.631977
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2076,8 +2116,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/run-docker-with-azure-container-instances/",
       "length": "PT48M",
       "ratings": {
-        "count": 5982,
-        "average": 4.7139754
+        "count": 5983,
+        "average": 4.714023
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2112,8 +2152,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-compute-fundamentals/",
       "length": "PT52M",
       "ratings": {
-        "count": 109,
-        "average": 4.6788993
+        "count": 110,
+        "average": 4.672727
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2157,8 +2197,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-run-container-app-service/",
       "length": "PT46M",
       "ratings": {
-        "count": 3944,
-        "average": 4.6242394
+        "count": 3946,
+        "average": 4.6244297
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2273,46 +2313,6 @@
       "price": "Free",
       "topics": [
         "Azure",
-        "Containers"
-      ]
-    },
-    {
-      "path": "_learning/videos/microsoft-serverless-containers-with-azure-container-instances-aci-azure-friday.md",
-      "title": "Serverless containers with Azure Container Instances (ACI) | Azure Friday",
-      "excerpt": "In this episode, Azure CTO Mark Russinovich joins Scott Hanselman to show how you can use Azure Container Instances (ACI) to host a containerized application. Mark deploys an image processing container in three ways: as a standalone ACI container, as part of a Logic Apps workflow, and as the backend",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-serverless-containers-with-azure-container-instances-aci-azure-friday/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-serverless-containers-with-azure-container-instances-aci-azure-friday/",
-      "originalUrl": "https://youtube.com/watch?v=7G_oDLON7Us",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/7G_oDLON7Us\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT16M33S",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-09-03T14:26:47-07:00",
-      "heat": 53,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/7G_oDLON7Us/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Serverless",
         "Containers"
       ]
     },

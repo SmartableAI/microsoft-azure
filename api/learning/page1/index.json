@@ -4,47 +4,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-intro-to-compute.md",
-      "title": "Core Cloud Services - Azure compute options",
-      "excerpt": "Explore essential Azure concepts to find out how virtual machines, containers, and apps combined with serverless computing services can fortify your business.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-to-compute/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-compute/",
-      "length": "PT38M",
-      "ratings": {
-        "count": 64281,
-        "average": 4.710832
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 163,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Compute",
-        "Web",
-        "Containers",
-        "Serverless",
-        "IoT",
-        "Blockchain",
-        "Integration"
-      ]
-    },
-    {
       "path": "_learning/videos/microsoft-bring-compute-storage-and-intelligence-to-the-edge-with-azure-stack-edge-azure-friday.md",
       "title": "Bring compute, storage, and intelligence to the edge with Azure Stack Edge | Azure Friday",
       "excerpt": "Dipti Pai joins Scott Hanselman to show how to run containerized and VM workloads to get quick, actionable insights at the edge—where data is created—using purpose-built hardware-as-a-service with Azure Stack Edge.  0:00 – Overview 0:55 – What is Azure Stack Edge? 4:09 – Azure Stack Edge in the house",
@@ -123,6 +82,49 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-hub-and-spoke-network-architecture.md",
+      "title": "Centralize your core services by using hub and spoke Azure virtual network architecture",
+      "excerpt": "Design a network architecture in Azure that allows for growth and flexibility, secure isolation of critical resources, low administrative overhead, and communication with on-premises network resources.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-hub-and-spoke-network-architecture/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/hub-and-spoke-network-architecture/",
+      "length": "PT36M",
+      "ratings": {
+        "count": 1222,
+        "average": 4.655483
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 135,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/hub-and-spoke-network-architecture-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Networking"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-principles-cloud-computing.md",
       "title": "Cloud Concepts - Principles of cloud computing",
       "excerpt": "Explore the core concepts and benefits of cloud computing as you learn how to choose a cloud deployment model customized for your organization.",
@@ -130,8 +132,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/principles-cloud-computing/",
       "length": "PT1H2M",
       "ratings": {
-        "count": 171695,
-        "average": 4.772847
+        "count": 171704,
+        "average": 4.7728477
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -188,8 +190,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/principles-cloud-computing/",
           "length": "PT1H2M",
           "ratings": {
-            "count": 171695,
-            "average": 4.772847
+            "count": 171704,
+            "average": 4.7728477
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -223,8 +225,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-an-azure-account/",
           "length": "PT39M",
           "ratings": {
-            "count": 134913,
-            "average": 4.697783
+            "count": 134917,
+            "average": 4.697792
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -258,8 +260,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/welcome-to-azure/",
           "length": "PT36M",
           "ratings": {
-            "count": 67068,
-            "average": 4.80062
+            "count": 67070,
+            "average": 4.8006263
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -293,8 +295,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-azure-infrastructure/",
           "length": "PT45M",
           "ratings": {
-            "count": 68021,
-            "average": 4.714353
+            "count": 68023,
+            "average": 4.714361
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -333,18 +335,16 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-deploy-templates-command-line-github-actions.md",
-      "title": "Deploy modular and reusable ARM templates from the command line and by using GitHub Actions",
-      "excerpt": "Learn how to deploy Azure Resource Manager (ARM) templates by using Azure PowerShell, the Azure CLI, and from GitHub Actions.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-deploy-templates-command-line-github-actions/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-templates-command-line-github-actions/",
-      "length": "PT1H6M",
-      "ratings": {
-        "count": 1,
-        "average": 4.0
-      },
+      "path": "_learning/videos/microsoft-serverless-containers-with-azure-container-instances-aci-azure-friday.md",
+      "title": "Serverless containers with Azure Container Instances (ACI) | Azure Friday",
+      "excerpt": "In this episode, Azure CTO Mark Russinovich joins Scott Hanselman to show how you can use Azure Container Instances (ACI) to host a containerized application. Mark deploys an image processing container in three ways: as a standalone ACI container, as part of a Logic Apps workflow, and as the backend",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-serverless-containers-with-azure-container-instances-aci-azure-friday/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-serverless-containers-with-azure-container-instances-aci-azure-friday/",
+      "originalUrl": "https://youtube.com/watch?v=7G_oDLON7Us",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/7G_oDLON7Us\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT16M33S",
       "provider": {
-        "name": "Microsoft Learn",
+        "name": "Microsoft",
         "domain": "microsoft.com",
         "images": [
           {
@@ -355,35 +355,35 @@
           }
         ]
       },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 130,
+      "publishedDateTime": "2020-09-03T14:26:47-07:00",
+      "heat": 133,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/deploy-templates-command-line-github-actions-social.png",
-          "width": 640,
-          "height": 320,
+          "url": "https://i.ytimg.com/vi/7G_oDLON7Us/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
           "isCached": true
         }
       ],
       "content": "\r\n",
-      "type": "course",
+      "type": "video",
       "price": "Free",
       "topics": [
-        "Azure"
+        "Azure",
+        "Serverless",
+        "Containers"
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-github-actions-ci.md",
-      "title": "Build continuous integration (CI) workflows by using GitHub Actions",
-      "excerpt": "Learn how to create workflows that enable you to use Continuous Integration (CI) for your projects.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-github-actions-ci/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/github-actions-ci/",
-      "length": "PT55M",
+      "path": "_learning/courses/microsoft-learn-azure-intro-to-logic-apps.md",
+      "title": "Introduction to Azure Logic Apps",
+      "excerpt": "Learn how to evaluate Logic Apps as an automation choice for your organization using criteria for integration, performance, conditionals, and connectors.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-azure-intro-to-logic-apps/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-logic-apps/",
+      "length": "PT28M",
       "ratings": {
-        "count": 136,
-        "average": 4.6838236
+        "count": 1629,
+        "average": 4.712707
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -400,12 +400,12 @@
       "levels": [
         "Beginner"
       ],
-      "heat": 130,
+      "heat": 132,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/github/github-actions-ci-social.png",
-          "width": 640,
-          "height": 320,
+          "url": "https://docs.microsoft.com/learn/achievements/intro-to-logic-apps-social.png",
+          "width": 800,
+          "height": 400,
           "isCached": true
         }
       ],
@@ -414,6 +414,8 @@
       "price": "Free",
       "topics": [
         "Azure",
+        "IoT",
+        "Blockchain",
         "Integration"
       ]
     },
@@ -448,8 +450,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-ai-fundamentals/",
           "length": "PT27M",
           "ratings": {
-            "count": 3565,
-            "average": 4.72791
+            "count": 3567,
+            "average": 4.727502
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -510,8 +512,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-ai-fundamentals/",
       "length": "PT27M",
       "ratings": {
-        "count": 3565,
-        "average": 4.72791
+        "count": 3567,
+        "average": 4.727502
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -553,8 +555,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-an-azure-account/",
       "length": "PT39M",
       "ratings": {
-        "count": 134913,
-        "average": 4.697783
+        "count": 134917,
+        "average": 4.697792
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -803,8 +805,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-security-in-azure/",
           "length": "PT1H16M",
           "ratings": {
-            "count": 45503,
-            "average": 4.7049866
+            "count": 45509,
+            "average": 4.7049813
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -839,8 +841,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-governance/",
           "length": "PT46M",
           "ratings": {
-            "count": 39114,
-            "average": 4.6339417
+            "count": 39116,
+            "average": 4.633935
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -874,8 +876,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/control-and-organize-with-azure-resource-manager/",
           "length": "PT46M",
           "ratings": {
-            "count": 39018,
-            "average": 4.7136707
+            "count": 39020,
+            "average": 4.7136855
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -981,8 +983,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-security-in-azure/",
           "length": "PT1H16M",
           "ratings": {
-            "count": 45503,
-            "average": 4.7049866
+            "count": 45509,
+            "average": 4.7049813
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1017,8 +1019,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-an-azure-account/",
           "length": "PT39M",
           "ratings": {
-            "count": 134913,
-            "average": 4.697783
+            "count": 134917,
+            "average": 4.697792
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1095,8 +1097,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-users-and-groups-in-azure-active-directory/",
           "length": "PT41M",
           "ratings": {
-            "count": 2905,
-            "average": 4.7053356
+            "count": 2906,
+            "average": 4.705437
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1181,8 +1183,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/control-and-organize-with-azure-resource-manager/",
           "length": "PT46M",
           "ratings": {
-            "count": 39018,
-            "average": 4.7136707
+            "count": 39020,
+            "average": 4.7136855
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1216,8 +1218,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-governance/",
           "length": "PT46M",
           "ratings": {
-            "count": 39114,
-            "average": 4.6339417
+            "count": 39116,
+            "average": 4.633935
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1360,8 +1362,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-azure-infrastructure/",
       "length": "PT45M",
       "ratings": {
-        "count": 68021,
-        "average": 4.714353
+        "count": 68023,
+        "average": 4.714361
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1394,8 +1396,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/welcome-to-azure/",
       "length": "PT36M",
       "ratings": {
-        "count": 67068,
-        "average": 4.80062
+        "count": 67070,
+        "average": 4.8006263
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1429,8 +1431,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-governance/",
       "length": "PT46M",
       "ratings": {
-        "count": 39114,
-        "average": 4.6339417
+        "count": 39116,
+        "average": 4.633935
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1496,6 +1498,47 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-intro-to-compute.md",
+      "title": "Core Cloud Services - Azure compute options",
+      "excerpt": "Explore essential Azure concepts to find out how virtual machines, containers, and apps combined with serverless computing services can fortify your business.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-to-compute/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-compute/",
+      "length": "PT38M",
+      "ratings": {
+        "count": 64283,
+        "average": 4.710841
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 83,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Compute",
+        "Web",
+        "Containers",
+        "Serverless",
+        "IoT",
+        "Blockchain",
+        "Integration"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-tour-azure-portal-features.md",
       "title": "Core Cloud Services - Manage services with the Azure portal",
       "excerpt": "Get acquainted with the Azure cloud platform through the Azure portal, where you create and manage all of your Azure resources.",
@@ -1503,8 +1546,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/tour-azure-portal/",
       "length": "PT1H13M",
       "ratings": {
-        "count": 51196,
-        "average": 4.708708
+        "count": 51198,
+        "average": 4.7087193
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1539,8 +1582,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-subscription-access-azure-rbac/",
       "length": "PT21M",
       "ratings": {
-        "count": 10953,
-        "average": 4.7639003
+        "count": 10956,
+        "average": 4.763691
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1574,8 +1617,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/predict-costs-and-optimize-spending/",
       "length": "PT1H14M",
       "ratings": {
-        "count": 40875,
-        "average": 4.7159634
+        "count": 40879,
+        "average": 4.7159667
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1632,8 +1675,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-governance/",
           "length": "PT46M",
           "ratings": {
-            "count": 39114,
-            "average": 4.6339417
+            "count": 39116,
+            "average": 4.633935
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1667,8 +1710,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-virtual-machines/",
           "length": "PT1H7M",
           "ratings": {
-            "count": 14966,
-            "average": 4.6900973
+            "count": 14967,
+            "average": 4.6901183
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1811,8 +1854,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/principles-cloud-computing/",
           "length": "PT1H2M",
           "ratings": {
-            "count": 171695,
-            "average": 4.772847
+            "count": 171704,
+            "average": 4.7728477
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1888,8 +1931,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-virtual-machines/",
           "length": "PT1H7M",
           "ratings": {
-            "count": 14966,
-            "average": 4.6900973
+            "count": 14967,
+            "average": 4.6901183
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1923,8 +1966,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-linux-virtual-machine-in-azure/",
           "length": "PT1H26M",
           "ratings": {
-            "count": 8089,
-            "average": 4.686982
+            "count": 8090,
+            "average": 4.687021
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2000,8 +2043,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-governance/",
           "length": "PT46M",
           "ratings": {
-            "count": 39114,
-            "average": 4.6339417
+            "count": 39116,
+            "average": 4.633935
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2035,8 +2078,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-virtual-machines/",
           "length": "PT1H7M",
           "ratings": {
-            "count": 14966,
-            "average": 4.6900973
+            "count": 14967,
+            "average": 4.6901183
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2156,8 +2199,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-security-in-azure/",
       "length": "PT1H16M",
       "ratings": {
-        "count": 45503,
-        "average": 4.7049866
+        "count": 45509,
+        "average": 4.7049813
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2215,8 +2258,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-compute/",
           "length": "PT38M",
           "ratings": {
-            "count": 64281,
-            "average": 4.710832
+            "count": 64283,
+            "average": 4.710841
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2233,7 +2276,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 163,
+          "heat": 83,
           "content": "\r\n",
           "type": "course",
           "price": "Free",
@@ -2256,8 +2299,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-virtual-machines-with-azure-cli/",
           "length": "PT51M",
           "ratings": {
-            "count": 5940,
-            "average": 4.7011786
+            "count": 5941,
+            "average": 4.7012286
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2389,8 +2432,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/control-and-organize-with-azure-resource-manager/",
       "length": "PT46M",
       "ratings": {
-        "count": 39018,
-        "average": 4.7136707
+        "count": 39020,
+        "average": 4.7136855
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2424,8 +2467,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-networking/",
       "length": "PT28M",
       "ratings": {
-        "count": 43976,
-        "average": 4.765895
+        "count": 43979,
+        "average": 4.765911
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2459,8 +2502,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/",
       "length": "PT36M",
       "ratings": {
-        "count": 789,
-        "average": 4.762991
+        "count": 794,
+        "average": 4.763224
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2491,42 +2534,6 @@
       "price": "Free",
       "topics": [
         "Azure"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-intro-to-data-in-azure.md",
-      "title": "Core Cloud Services - Azure data storage options",
-      "excerpt": "In this module, we'll explore the benefits of Azure data storage services versus on-premises storage.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-to-data-in-azure/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-data-in-azure/",
-      "length": "PT25M",
-      "ratings": {
-        "count": 55594,
-        "average": 4.7345037
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 77,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Storage",
-        "Databases"
       ]
     }
   ],
