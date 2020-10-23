@@ -4,92 +4,6 @@
   "page": 30,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-intro-to-iot-edge.md",
-      "title": "Introduction to Azure IoT Edge",
-      "excerpt": "University of Oxford",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-to-iot-edge/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-iot-edge/",
-      "length": "PT29M",
-      "ratings": {
-        "count": 774,
-        "average": 4.6408267
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/student-evangelism/introduction-to-iot-edge-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "IoT"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-intro-to-iot-hub.md",
-      "title": "Introduction to Azure IoT Hub",
-      "excerpt": "University of Oxford",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-to-iot-hub/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-iot-hub/",
-      "length": "PT28M",
-      "ratings": {
-        "count": 1325,
-        "average": 4.653585
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/student-evangelism/introduction-to-iot-hub-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "IoT"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-intro-to-iot.md",
       "title": "Introduction to Azure IoT",
       "excerpt": "University of Oxford",
@@ -766,8 +680,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-azure-migrate-discover-assess/",
       "length": "PT29M",
       "ratings": {
-        "count": 51,
-        "average": 4.6862745
+        "count": 52,
+        "average": 4.6923075
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -856,8 +770,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-azure-migrate-replicate-virtual-servers/",
       "length": "PT28M",
       "ratings": {
-        "count": 60,
-        "average": 4.8166666
+        "count": 61,
+        "average": 4.819672
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1075,8 +989,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-changes-pull-requests-github/",
       "length": "PT49M",
       "ratings": {
-        "count": 121,
-        "average": 4.661157
+        "count": 122,
+        "average": 4.663934
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1280,6 +1194,92 @@
       "price": "Free",
       "topics": [
         "Azure"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-manage-iot-central-apps-with-rest-api.md",
+      "title": "Manage IoT Central applications with the REST API",
+      "excerpt": "In this module, you'll learn how to manage an IoT Central application programmatically using the REST API",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-manage-iot-central-apps-with-rest-api/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-iot-central-apps-with-rest-api/",
+      "length": "PT45M",
+      "ratings": {
+        "count": 118,
+        "average": 4.4491525
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/manage-iot-central-apps-with-rest-api-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "IoT"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-manage-language-understanding-intelligent-service-apps.md",
+      "title": "Manage your Language Understanding Intelligent Service (LUIS) Apps",
+      "excerpt": "Learn to manage LUIS apps through versioning, key management, handling data, and improving predictions.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-manage-language-understanding-intelligent-service-apps/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-language-understanding-intelligent-service-apps/",
+      "length": "PT24M",
+      "ratings": {
+        "count": 22,
+        "average": 4.7727275
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/manage-your-language-understanding-intelligent-service-luis-apps-social.png",
+          "width": 642,
+          "height": 321,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "AI"
       ]
     }
   ],

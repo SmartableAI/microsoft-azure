@@ -4,94 +4,6 @@
   "page": 29,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-implement-compliance-controls-for-sensitive-data.md",
-      "title": "Implement compliance controls for sensitive data",
-      "excerpt": "Explore data classification capabilities and degrees of confidentiality. Explore and configure advanced threat protection options, including SQL Injection.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-implement-compliance-controls-for-sensitive-data/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/implement-compliance-controls-sensitive-data/",
-      "length": "PT20M",
-      "ratings": {
-        "count": 837,
-        "average": 4.824373
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/implement-compliance-controls-for-sensitive-data-social.png",
-          "width": 643,
-          "height": 321,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Databases"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-implement-dns-for-windows-server-iaas-vms.md",
-      "title": "Implement DNS for Windows Server IaaS VMs",
-      "excerpt": "Implement DNS for Windows Server IaaS VMs",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-implement-dns-for-windows-server-iaas-vms/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/implement-dns-for-windows-server-iaas-virtual-machines/",
-      "length": "PT50M",
-      "ratings": {
-        "count": 24,
-        "average": 4.75
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/implement-dns-for-windows-server-iaas-vm-social.png",
-          "width": 642,
-          "height": 324,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Management Tools",
-        "Compute",
-        "Networking"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-implement-hybrid-backup-recovery-with-windows-server-iaas.md",
       "title": "Implement hybrid backup and recovery with Windows Server IaaS",
       "excerpt": "You'll learn about Azure Backup before learning to implement Recovery Vaults and Azure Backup Policies. You’ll learn to implement Windows IaaS VM recovery, perform backup and restore of on-premises workloads, and manage Azure VM backups.",
@@ -1210,8 +1122,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-containers/",
       "length": "PT57M",
       "ratings": {
-        "count": 2831,
-        "average": 4.6082654
+        "count": 2832,
+        "average": 4.608051
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1276,6 +1188,92 @@
       "price": "Free",
       "topics": [
         "Azure"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-intro-to-iot-edge.md",
+      "title": "Introduction to Azure IoT Edge",
+      "excerpt": "University of Oxford",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-to-iot-edge/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-iot-edge/",
+      "length": "PT29M",
+      "ratings": {
+        "count": 774,
+        "average": 4.6408267
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/student-evangelism/introduction-to-iot-edge-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "IoT"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-intro-to-iot-hub.md",
+      "title": "Introduction to Azure IoT Hub",
+      "excerpt": "University of Oxford",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-to-iot-hub/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-iot-hub/",
+      "length": "PT28M",
+      "ratings": {
+        "count": 1325,
+        "average": 4.653585
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/student-evangelism/introduction-to-iot-hub-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "IoT"
       ]
     }
   ],
