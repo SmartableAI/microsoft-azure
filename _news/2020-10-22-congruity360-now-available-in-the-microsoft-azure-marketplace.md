@@ -108,6 +108,20 @@ related:
         width: 1665
         height: 1158
         isCached: true
+  - title: "Verizon Inks Partnership to Integrate Microsoft Azure for Operators"
+    excerpt: "Verizon is expanding its onsite 5G edge wireless network offering with support for the new Microsoft Azure for Operators platform. The two companies this week said they will integrate Microsoft Azure for Operators with Verizon’s mobile edge computing ..."
+    publishedDateTime: 2020-10-23T00:24:00Z
+    webUrl: "https://www.channelpartnersonline.com/2020/10/22/verizon-inks-partnership-to-integrate-microsoft-azure-for-operators/"
+    type: article
+    provider:
+      name: Channel Partners
+      domain: channelpartnersonline.com
+    quality: 37
+    images:
+      - url: "https://www.channelpartnersonline.com/files/2020/10/Verizon-infrastructure-at-Ice-Mobility-distro-center-770x285.jpg"
+        width: 770
+        height: 285
+        isCached: true
 
 secured: "Hx/tHGyz8weEcXw1K9Pktvks3SG/Ld7ctlgPGI0p8eB+HeBn9XoJNJ5Zd3/hjoJBxHV35YCgbxeOMEQXQh11AKnZY6ZNF/HxAOatAedB+O+Z33J/yk4BJScCWKm+3SA2B/U7bPpc6ndmVinlnsHeZHQeVINB9GiSCkaCI9EgxRzH70IIPJSorKaAw9ozZlsU3+FFrO9JhruTbH4ZsSWMBehgtsu3qZRz1CC+ORokb9LmYBOSzqKN4zLFI0e8AmUxTFBUqIb1fLfgMcPYGpHvAoAVYnjDgM7Blxoa3ToRqldH5Y6XiTcCMTgf2V9A4rcaqg9OUts4CaZ589o5pyJMOciV/gI0YGUSwydL0LyuvnI=;7HYx8eMVWBOKBZ9NJQui+A=="
 ---

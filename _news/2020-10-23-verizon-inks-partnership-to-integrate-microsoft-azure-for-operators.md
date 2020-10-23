@@ -1,35 +1,45 @@
 ---
 category: news
-title: "Microsoft and Honeywell collaborate on Azure and Dynamics 365"
-excerpt: "The manufacturing multinational will be bringing domain-specific applications built on Microsoft's cloud platform to market. More ways to innovate the industrial workplace will also be explored."
-publishedDateTime: 2020-10-22T19:16:00Z
-originalUrl: "https://www.neowin.net/news/microsoft-and-honeywell-collaborate-on-azure-and-dynamics-365"
-webUrl: "https://www.neowin.net/news/microsoft-and-honeywell-collaborate-on-azure-and-dynamics-365"
-ampWebUrl: "https://www.neowin.net/amp/microsoft-and-honeywell-collaborate-on-azure-and-dynamics-365/"
-cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-and-honeywell-collaborate-on-azure-and-dynamics-365/"
+title: "Verizon Inks Partnership to Integrate Microsoft Azure for Operators"
+excerpt: "Verizon is expanding its onsite 5G edge wireless network offering with support for the new Microsoft Azure for Operators platform. The two companies this week said they will integrate Microsoft Azure for Operators with Verizon’s mobile edge computing ..."
+publishedDateTime: 2020-10-23T00:24:00Z
+originalUrl: "https://www.channelpartnersonline.com/2020/10/22/verizon-inks-partnership-to-integrate-microsoft-azure-for-operators/"
+webUrl: "https://www.channelpartnersonline.com/2020/10/22/verizon-inks-partnership-to-integrate-microsoft-azure-for-operators/"
 type: article
-quality: 97
-heat: 237
-published: true
+quality: 37
+heat: -1
+published: false
 
 provider:
-  name: Neowin
-  domain: neowin.net
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/neowin.net-50x50.jpg"
-      width: 50
-      height: 50
+  name: Channel Partners
+  domain: channelpartnersonline.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://cdn.neow.in/news/images/uploaded/2020/10/1603393938_microsoft_honeywell_logo_story.jpg"
-    width: 760
-    height: 428
+  - url: "https://www.channelpartnersonline.com/files/2020/10/Verizon-infrastructure-at-Ice-Mobility-distro-center-770x285.jpg"
+    width: 770
+    height: 285
     isCached: true
 
 related:
+  - title: "Microsoft and Honeywell collaborate on Azure and Dynamics 365"
+    excerpt: "The manufacturing multinational will be bringing domain-specific applications built on Microsoft's cloud platform to market. More ways to innovate the industrial workplace will also be explored."
+    publishedDateTime: 2020-10-22T19:16:00Z
+    webUrl: "https://www.neowin.net/news/microsoft-and-honeywell-collaborate-on-azure-and-dynamics-365"
+    ampWebUrl: "https://www.neowin.net/amp/microsoft-and-honeywell-collaborate-on-azure-and-dynamics-365/"
+    cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-and-honeywell-collaborate-on-azure-and-dynamics-365/"
+    type: article
+    provider:
+      name: Neowin
+      domain: neowin.net
+    quality: 97
+    images:
+      - url: "https://cdn.neow.in/news/images/uploaded/2020/10/1603393938_microsoft_honeywell_logo_story.jpg"
+        width: 760
+        height: 428
+        isCached: true
   - title: "Honeywell, Microsoft partner on industrial apps, Dynamics, Azure integration"
     excerpt: "The two companies will combine that artificial intelligence in Honeywell Forge performance management software with Microsoft Dynamics Field Service."
     publishedDateTime: 2020-10-22T16:00:00Z
@@ -112,21 +122,7 @@ related:
         width: 1665
         height: 1158
         isCached: true
-  - title: "Verizon Inks Partnership to Integrate Microsoft Azure for Operators"
-    excerpt: "Verizon is expanding its onsite 5G edge wireless network offering with support for the new Microsoft Azure for Operators platform. The two companies this week said they will integrate Microsoft Azure for Operators with Verizon’s mobile edge computing ..."
-    publishedDateTime: 2020-10-23T00:24:00Z
-    webUrl: "https://www.channelpartnersonline.com/2020/10/22/verizon-inks-partnership-to-integrate-microsoft-azure-for-operators/"
-    type: article
-    provider:
-      name: Channel Partners
-      domain: channelpartnersonline.com
-    quality: 37
-    images:
-      - url: "https://www.channelpartnersonline.com/files/2020/10/Verizon-infrastructure-at-Ice-Mobility-distro-center-770x285.jpg"
-        width: 770
-        height: 285
-        isCached: true
 
-secured: "RGxS1Juft0SeWT64Zj4Ek8G9mQlKjfWwclIR82zbZRFaOlhBf6kkJq1UignGISkerk9qI2Crjp1VP1P8ZqltL4RxTevWXFTg/lx+Y+4Ik6vlxn/V5a8fg9B79MOFGfRHF3uy9GErLPjloIK85UfrQYoiEEUCtaRt0jLADCwpCwqib9kBFtDjDOiewMmtW5f5LJ53Ai6d44dIE1FQ6KmRy3WiDcYr1I50kkhUh+jiepIp24G5+Ae5MIq5mzdYxuhMs3KF7oA1rQcIHb74OWCboyKGFVbplgb/yRHNUxni4nSJYYnWox+VA3bQQDX3Wl22yhiuRMaigQkAXNi1SzFAkIQr1SMQVLc0DdYz6/o/IhQQ9Mwu5yYMh27DelBG1eqdSLI+zjirKX8HgdD1SRjAGBZgPyqiCOBhKvNkhYICWeDfHrm1GvpeycZNEKAOghfPUXuEGsNurZw0JvGKzVTCzmnj3vEDX/woTsdkB1viPMxMJ6YBvLVdU93VSgk/dDja+zoyDcDnalRFkb2xcS3BRA==;9ktKeQMDMmHu+dA1stmWIw=="
+secured: "QhFi8mUZefez2giSMTTmJJw0k9WmxbElupIFOd18eo0L1mPbLXvCa1aXq7y/NPtTVMVTFJU745vMgTG2vpColBlHWq2+UW69Qb6xP7F6Axx5HaFd+dd5ECXeP+vn0FH/gNY5iTHmxZ7Kcekmt7dk/waXeEfY9nRYG0+huhp8YVsPzL7PRspLc5UytjG8K2d5L2db1d50VFN+USKqfgHNd6OXdxxejcTPFlhCdMxzcZ/kN9fm4hkXKz6YMnKwcSSSCquJOY8KAO+rzYRJuIxxhv/H5+wxsZTSZhSAYaFJ9BpFqFyMP3DqvMXrjGkUj0wWSkVNSURlWSKi2SLD2jOToOGUljVlq4oU45k6bwacjf8=;X6V0JqBMNQ+r2JJCgxFhtg=="
 ---
 
