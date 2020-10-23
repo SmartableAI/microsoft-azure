@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/streamlining-your-image-building-
 webUrl: "https://azure.microsoft.com/blog/streamlining-your-image-building-process-with-azure-image-builder/"
 type: article
 quality: 89
-heat: 89
+heat: 90
 published: true
 
 provider:
