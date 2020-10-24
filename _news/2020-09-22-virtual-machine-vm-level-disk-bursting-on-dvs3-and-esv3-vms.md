@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/virtual-machine-vm-level
 webUrl: "https://azure.microsoft.com/en-us/updates/virtual-machine-vm-level-disk-bursting-on-dvs3-and-esv3-vms/"
 type: article
 quality: 69
-heat: 90
+heat: 91
 published: true
 
 provider:
