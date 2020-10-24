@@ -6,7 +6,7 @@ publishedDateTime: 2020-04-27T12:00:29Z
 webUrl: "https://azure.microsoft.com/blog/dcsv2series-vm-now-generally-available-from-azure-confidential-computing/"
 type: article
 quality: 18
-heat: 58
+heat: 18
 published: false
 
 provider:
