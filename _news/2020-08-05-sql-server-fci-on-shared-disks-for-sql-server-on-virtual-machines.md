@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-05T16:00:04Z
 webUrl: "https://azure.microsoft.com/en-us/updates/sql-server-fci-on-shared-disks-for-sql-server-on-virtual-machines/"
 type: article
 quality: 2
-heat: 2
+heat: 22
 published: false
 
 provider:

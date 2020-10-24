@@ -6,7 +6,7 @@ publishedDateTime: 2020-04-26T08:32:00Z
 webUrl: "https://github.com/microsoft/azure-sdk-for-python"
 type: article
 quality: 17
-heat: 17
+heat: 37
 published: false
 
 provider:
