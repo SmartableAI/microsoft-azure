@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-01T16:00:11Z
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-database-for-mariadb-is-now-available-in-the-france-south-region/"
 type: article
 quality: 17
-heat: 17
+heat: 157
 published: false
 
 provider:
