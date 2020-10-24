@@ -640,18 +640,18 @@ related:
         height: 450
         isCached: true
   - title: "EPAM Has Earned the Modernization of Web Applications in Microsoft Azure Advanced Specialization"
-    excerpt: "PRNewswire/ -- EPAM Systems, Inc. (NYSE: EPAM), a leading global provider of digital platform engineering and software development services, today"
+    excerpt: "PRNewswire/ -- EPAM Systems, Inc. (NYSE: EPAM), a leading global provider of digital platform engineering and software development services, today announced it has earned the Modernization of Web Applications in Microsoft Azure advanced specialization,"
     publishedDateTime: 2020-10-19T14:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/epam-has-earned-the-modernization-of-web-applications-in-microsoft-azure-advanced-specialization-301154325.html"
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-web-applications-corporate-news-products-and-services-ec87eba0e83d4bb028164cafd0b47c72"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
+      name: Associated Press
+      domain: apnews.com
     quality: 24
     images:
-      - url: "https://mma.prnewswire.com/media/722474/EPAM_Logo.jpg?p=facebook"
-        width: 2456
-        height: 1287
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
   - title: "Dicker Data launches Microsoft Cloud unit"
     excerpt: "Dicker Data has launched a new Microsoft Cloud business unit under the leadership of Sarah Loiterton as general manager."

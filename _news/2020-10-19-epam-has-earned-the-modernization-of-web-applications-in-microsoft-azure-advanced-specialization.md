@@ -1,26 +1,26 @@
 ---
 category: news
 title: "EPAM Has Earned the Modernization of Web Applications in Microsoft Azure Advanced Specialization"
-excerpt: "PRNewswire/ -- EPAM Systems, Inc. (NYSE: EPAM), a leading global provider of digital platform engineering and software development services, today"
+excerpt: "PRNewswire/ -- EPAM Systems, Inc. (NYSE: EPAM), a leading global provider of digital platform engineering and software development services, today announced it has earned the Modernization of Web Applications in Microsoft Azure advanced specialization,"
 publishedDateTime: 2020-10-19T14:00:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/epam-has-earned-the-modernization-of-web-applications-in-microsoft-azure-advanced-specialization-301154325.html"
-webUrl: "https://www.prnewswire.com/news-releases/epam-has-earned-the-modernization-of-web-applications-in-microsoft-azure-advanced-specialization-301154325.html"
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-web-applications-corporate-news-products-and-services-ec87eba0e83d4bb028164cafd0b47c72"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-web-applications-corporate-news-products-and-services-ec87eba0e83d4bb028164cafd0b47c72"
 type: article
 quality: 24
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://mma.prnewswire.com/media/722474/EPAM_Logo.jpg?p=facebook"
-    width: 2456
-    height: 1287
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -758,6 +758,6 @@ related:
       domain: seekingalpha.com
     quality: 2
 
-secured: "XdJQWbDLdj/aLUaC22Jj63j6n5mXM4Ov7TU1lB/ivZHL8hPiaYl8nCZSTh5jToSvJrNUMQSKKEdt4MTvRfnf5qwCGXqHXPinir7KhvI2eJbYGSzWt+qLGd3L9g97lMX6J7SBmbQZ4p8ZxFtWzr2F57nDc8SUrOJnJw+FYAgFwdShk6Sijw331uaWVlVpNau9CKsa9dHD0lFhUhhFjLWmBbiJ3IaiB2n7oVk/3+G4waXQ6Gc3ZurKaCfIqcgul0dZLT/K9tHJhqyR5RfbZQ6n9BnvCfEfU3JrqzuPfEDz2goXdzNEgMn7EKgqNSXsmio7F2+Zdyau7BNgr9re+YmHenQFhLsNjCihskI2uMW2I2c=;RQDmrjctJVeYzHS1B2hxQw=="
+secured: "lOkQLLmnZJ/eNv6uqHx81gPAao9XPE4Ir4OQDHbNpCxgCkHsrfowcshOFAb9DC4NlOP75kXAQJCAPAhBdATC6/mBtqEa7w2s+uoBzEZoSITDqTxsoWLsS9lqRJfnFgDizpkHxSlCJMjibaPBTdsIHIlLe7SiW8qX+UOqSaGWkn+aKuLkTUB7bi/t0Ta6m7yhBEPprK3rO65r25Epku4hVti+YElydJoZui+bCJKK3ilrxWCmx/v5oIuSNWo+jwYtJkKizavqjZTqR2r+lWOnv6/qqFGPzx0xtC9t2QACyYADzdnowNSdabHNKPSu65dyzdJuxqscZsjr79PEtoj6pb1ChHs+szXP5wINczYURZs=;+s7+4vQaseAVGwa/m12O5A=="
 ---
 
