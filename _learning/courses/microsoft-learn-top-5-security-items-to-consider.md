@@ -8,7 +8,7 @@ length: PT45M
 ratings:
   count: 6360
   average: 4.65
-heat: 55
+heat: 58
 
 provider:
   name: Microsoft Learn
@@ -25,6 +25,6 @@ topics:
   - Azure
   - Security
 
-secured: "1YNeaJbv6xIZq7uUgKaB39ASJU9kXwJQLkcsotW7c/VIdaYDVoo7uV8fIQMhlssjlB2fCuHUSICNHmsYpgXF4nrNCxKCaJ6Zl123FGBiNI7+eyWEkk8/C3PfEZfFc45FDTHmGb1x/Vg2TnFdv9woOsf0k98BdycfAytHRAnBU8pHtbY0Rt5D8s6Fa2zsY3Ori9Q+ZwOVbh4IJuUb74hVQ5/VuFsF6MjMBwkf5G0tPH2s1QHsvG1tfJJ07ecfH3FGMvfMGyFX3DVrZkd2FRadr1HxuaQwMVPkXSXbUQ6vbiAZvMBIdOS+sN1efvEz7aUbffKUwXvIouWxlXe4L3GcYJVX+iTLt2aNPEJLcP+tI4sEHnjQ7fwMVxM+LlCP2FWU1DEMFzDSiBcrzwayTyojTsScx5w2F6UVjhsNBBdcVr0=;lAenS6cZAr2kU+L7GLh25g=="
+secured: "Ti4kEU50y2rS4cZCNQMZmCDOTlIvmF/yD0TlGRU+JwUTWwjOvFSg/aVFhZacIutiZU6ps4Npqf4MlGeHEx4Gzdehrk6WMZPosIY3MtZACkuqXM5PZlLb4fDPgrbe5CdlEgNvM5tVrtyxUYOOQgDVRzCC515Xrwxd8gmVCuYPGiKvlgOswpvSeAP4wggJx3ZX8EG02iYP7JV8W4lk1/JL4eLloRBi0qjxCnOkNQDSCG+tBdgSFUixqGpp5IKgadLFqSnZ2xuWQ5K2DEkrqgK8VHmHf6CalSHDWFhG5X1krTc9X6HhJVhgGZkY9O7IwFQzySARAm6eOjeJbx8gyeXr27hhYcUEiLBjYFe5t6j0kaaMMyXUX7bPPfwckQ5KdhoEpHz0pqx5+xC/JEbzx3zETFJILnN7ag08CBcuVsHgZ9c=;rIhvU9tHXwcopHo+WcwZow=="
 ---
 

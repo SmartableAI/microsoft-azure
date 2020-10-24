@@ -4,7 +4,7 @@ excerpt: "Learn how to manage storage in Azure and prepare for Exam AZ-104: Micr
 type: collection
 price: Free
 length: PT5H12M
-heat: 74
+heat: 69
 
 provider:
   name: Microsoft Learn
