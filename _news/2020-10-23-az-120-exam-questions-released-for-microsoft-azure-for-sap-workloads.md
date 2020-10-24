@@ -1,28 +1,28 @@
 ---
 category: news
-title: "Microsoft’s Azure To Be Connected To SpaceX’s Starlink Satellite Internet"
-excerpt: "SpaceX launched 60 Starlink satellites on Sunday Microsoft launched Azure Orbital, to connect cloud services to satellites Jeff Bezos' cloud services already offer similar services Microsoft Azure’s cloud services will now be connected directly to SpaceX ..."
-publishedDateTime: 2020-10-21T11:31:00Z
-originalUrl: "https://www.ibtimes.com/microsofts-azure-be-connected-spacexs-starlink-satellite-internet-3066016"
-webUrl: "https://www.ibtimes.com/microsofts-azure-be-connected-spacexs-starlink-satellite-internet-3066016"
-ampWebUrl: "https://www.ibtimes.com/microsofts-azure-be-connected-spacexs-starlink-satellite-internet-3066016?amp=1"
-cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/microsofts-azure-be-connected-spacexs-starlink-satellite-internet-3066016?amp=1"
+title: "AZ 120 Exam Questions Released for Microsoft Azure for SAP Workloads"
+excerpt: "Azure SAP workloads certification held incredibly great importance in today's world. It is a rapidly emerging and growing industry that had set its roots in every"
+publishedDateTime: 2020-10-22T22:45:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/20/10/ab18026610/az-120-exam-questions-released-for-microsoft-azure-for-sap-workloads"
+webUrl: "https://www.benzinga.com/pressreleases/20/10/ab18026610/az-120-exam-questions-released-for-microsoft-azure-for-sap-workloads"
+ampWebUrl: "https://amp.benzinga.com/amp/content/18026610"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18026610"
 type: article
-quality: 56
+quality: 57
 heat: -1
 published: false
 
 provider:
-  name: International Business Times
-  domain: ibtimes.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/04/19/starlink-iss.jpg"
-    width: 640
-    height: 427
+  - url: "https://www.abnewswire.com/uploads/1603396615.png"
+    width: 1280
+    height: 720
     isCached: true
 
 related:
@@ -69,21 +69,21 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "AZ 120 Exam Questions Released for Microsoft Azure for SAP Workloads"
-    excerpt: "Azure SAP workloads certification held incredibly great importance in today's world. It is a rapidly emerging and growing industry that had set its roots in every"
-    publishedDateTime: 2020-10-22T22:45:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/10/ab18026610/az-120-exam-questions-released-for-microsoft-azure-for-sap-workloads"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/18026610"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18026610"
+  - title: "Microsoft’s Azure To Be Connected To SpaceX’s Starlink Satellite Internet"
+    excerpt: "SpaceX launched 60 Starlink satellites on Sunday Microsoft launched Azure Orbital, to connect cloud services to satellites Jeff Bezos' cloud services already offer similar services Microsoft Azure’s cloud services will now be connected directly to SpaceX ..."
+    publishedDateTime: 2020-10-21T11:31:00Z
+    webUrl: "https://www.ibtimes.com/microsofts-azure-be-connected-spacexs-starlink-satellite-internet-3066016"
+    ampWebUrl: "https://www.ibtimes.com/microsofts-azure-be-connected-spacexs-starlink-satellite-internet-3066016?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/microsofts-azure-be-connected-spacexs-starlink-satellite-internet-3066016?amp=1"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 57
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 56
     images:
-      - url: "https://www.abnewswire.com/uploads/1603396615.png"
-        width: 1280
-        height: 720
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/04/19/starlink-iss.jpg"
+        width: 640
+        height: 427
         isCached: true
   - title: "Rigado Announces Safe Workplace Monitoring Solutions for Microsoft Azure IoT"
     excerpt: "New devices and displays enable plug and play data collection and automation for Microsoft Azure IoT, helping companies quickly create safer commercial spaces. PORTLAND, Ore."
@@ -139,6 +139,6 @@ related:
         height: 285
         isCached: true
 
-secured: "TPu/Shc1Tvj6aZ6MvBfLwFasGVjYqVKaNVhlIh8xYwYQtZ9AGy7rWDsY896KgJM+rCNUvOs9wHydIdllQoDY6BCvuNkfrxdH7uFMjhwuP+WdFNGD07SlpoWCkYR0Jddx8Bg13jqveKv1rk3swS70YFJEkVIBgyYozUFUbQJp7DnqcLqGgU+BV/sKNHOj61Zt/mqUq2ltusIV0wFhVye7DZWpOi/Ek/RIsx87sFAbBoFlZlfOjh3i28PWmHczwEJKGLszrr/FiSEutBYgUGIE3Js2c8nBvqHthJ9x5qdoHPOBfaUbI2iMtVBuDY+AXYZLGk+63dwDSmCFMIbpv0+AwIx7HHLVcVULzODq38e+RE+9R327sxrd4ZoJlPP2ws/mcwd1H1F2nCh7JcASI0PGDXNEWDHO5cTtTIPj113JZ3XRS2I+6L1B2VFo9YXNfRCQJUXwrdjErvG3GXcXPzZ60T8HZXJVa+9uBQbbr7fPdq8zV9mODqN38vvVq3b60JfVWa2wnQfMLr2kBOKT3ByJbw==;wjGqjdI6x+oiVZvlREENmA=="
+secured: "y0kZaWehIL5q2gk5eKuIqry112foG9+XgeQEnW/pkA8qCl3kD720aW3CYfhQ5zWI6LPFogW6lnmTLirbeATM+d6WVBV/gelBQm0MY2M0OVHZr5L8sjSd1lyuezMeBJ0aerEmgkDtogAyhvyeKwKCgihwPjeevktzDalhXr5Y2jehu9ztQ8p3UBm3ncUFjh9IaSK+TIKLRTacqdjCQL6FOT2YiDUBSEMv+2u/WE5NKs3bzq+z//8HAnZaTosFXNdlfeg7SO+0cglaTHH0gVLb31WA9a5H6yhk4mDmy2ggIX2HevV9zlYGxRLDdMym1vZfX16zqF2tVi5CM2ZWQbE3JmmKHpRztTXhz3sX70ZOCnw=;HxkLv/fZGc1IYVLB5cCfgg=="
 ---
 

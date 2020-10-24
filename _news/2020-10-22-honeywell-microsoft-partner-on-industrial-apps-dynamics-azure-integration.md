@@ -57,6 +57,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "AZ 120 Exam Questions Released for Microsoft Azure for SAP Workloads"
+    excerpt: "Azure SAP workloads certification held incredibly great importance in today's world. It is a rapidly emerging and growing industry that had set its roots in every"
+    publishedDateTime: 2020-10-22T22:45:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/10/ab18026610/az-120-exam-questions-released-for-microsoft-azure-for-sap-workloads"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/18026610"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18026610"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 57
+    images:
+      - url: "https://www.abnewswire.com/uploads/1603396615.png"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Microsoft’s Azure To Be Connected To SpaceX’s Starlink Satellite Internet"
     excerpt: "SpaceX launched 60 Starlink satellites on Sunday Microsoft launched Azure Orbital, to connect cloud services to satellites Jeff Bezos' cloud services already offer similar services Microsoft Azure’s cloud services will now be connected directly to SpaceX ..."
     publishedDateTime: 2020-10-21T11:31:00Z
