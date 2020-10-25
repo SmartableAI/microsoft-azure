@@ -4,48 +4,6 @@
   "page": 6,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-create-custom-roles-rbac.md",
-      "title": "Create custom roles for Azure resources with role-based access control (RBAC)",
-      "excerpt": "Learn how to create custom roles for Azure resources with role-based access control (RBAC).",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-create-custom-roles-rbac/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-custom-azure-roles-with-rbac/",
-      "length": "PT30M",
-      "ratings": {
-        "count": 2078,
-        "average": 4.709817
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 59,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/create-custom-azure-roles-with-rbac-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-evolving-world-of-data.md",
       "title": "Understand the evolving world of data",
       "excerpt": "Discover how data systems and roles are evolving and explore the differences between on-premises and cloud data solutions using sample business cases.",
@@ -53,8 +11,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/evolving-world-of-data/",
       "length": "PT28M",
       "ratings": {
-        "count": 4909,
-        "average": 4.680179
+        "count": 4910,
+        "average": 4.6802444
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -172,6 +130,45 @@
       ]
     },
     {
+      "path": "_learning/videos/microsoft-how-to-build-and-deploy-a-containerized-app-to-azure-kubernetes-service-aks-azure-friday.md",
+      "title": "How to build and deploy a containerized app to Azure Kubernetes Service (AKS) | Azure Friday",
+      "excerpt": "Jay Gordon (@jaydestro) joins Donovan Brown (@donovanbrown) to show how to build a containerized React application and deploy it to production with Azure Kubernetes Service. He'll also show how to configure an Azure Active Directory service principal to enable Role-Based Authentication, which enables",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-how-to-build-and-deploy-a-containerized-app-to-azure-kubernetes-service-aks-azure-friday/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-how-to-build-and-deploy-a-containerized-app-to-azure-kubernetes-service-aks-azure-friday/",
+      "originalUrl": "https://youtube.com/watch?v=E9YWmbUb9Ps",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/E9YWmbUb9Ps\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT12M11S",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-01-10T10:36:15-08:00",
+      "heat": 59,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/E9YWmbUb9Ps/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Containers"
+      ]
+    },
+    {
       "path": "_learning/videos/microsoft-how-to-get-started-with-azure-api-management-azure-tips-and-tricks.md",
       "title": "How to get started with Azure API Management | Azure Tips and Tricks",
       "excerpt": "In this edition of Azure Tips and Tricks, learn how to get started with Azure API Management, a service that helps protect and manage your APIs.   For more tips and tricks, visit: http://azuredev.tips     Get started with 12 months of free services and $200 USD in credit. Create your free account today",
@@ -256,8 +253,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-infrastructure-with-azure-monitor-logs/",
       "length": "PT36M",
       "ratings": {
-        "count": 5260,
-        "average": 4.73346
+        "count": 5261,
+        "average": 4.733511
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -871,8 +868,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/capture-application-logs-app-service/",
       "length": "PT55M",
       "ratings": {
-        "count": 1284,
-        "average": 4.627726
+        "count": 1286,
+        "average": 4.6251945
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -914,8 +911,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/connect-on-premises-network-with-vpn-gateway/",
       "length": "PT39M",
       "ratings": {
-        "count": 5127,
-        "average": 4.6030817
+        "count": 5128,
+        "average": 4.603159
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -957,8 +954,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-security-baselines/",
       "length": "PT60M",
       "ratings": {
-        "count": 2348,
-        "average": 4.641397
+        "count": 2349,
+        "average": 4.6415496
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1037,8 +1034,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/incident-response-with-alerting-on-azure/",
       "length": "PT53M",
       "ratings": {
-        "count": 1789,
-        "average": 4.6416993
+        "count": 1791,
+        "average": 4.639866
       },
       "provider": {
         "name": "Microsoft Learn",

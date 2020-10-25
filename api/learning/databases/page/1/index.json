@@ -82,49 +82,6 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-explore-performance-based-design.md",
-      "title": "Explore performance-based design",
-      "excerpt": "Evaluate possible changes to indexes. Determine the impact of changes to queries and indexes. Explore relevant Dynamic Management Objects.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-explore-performance-based-design/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-performance-based-design/",
-      "length": "PT50M",
-      "ratings": {
-        "count": 1381,
-        "average": 4.7798696
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 130,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/explore-performance-based-design-social.png",
-          "width": 642,
-          "height": 321,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Databases"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-intro-to-data-in-azure.md",
       "title": "Core Cloud Services - Azure data storage options",
       "excerpt": "In this module, we'll explore the benefits of Azure data storage services versus on-premises storage.",
@@ -132,8 +89,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-data-in-azure/",
       "length": "PT25M",
       "ratings": {
-        "count": 55622,
-        "average": 4.7345834
+        "count": 55623,
+        "average": 4.734588
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -192,8 +149,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-security-in-azure/",
           "length": "PT1H16M",
           "ratings": {
-            "count": 45533,
-            "average": 4.705093
+            "count": 45534,
+            "average": 4.7050996
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -638,8 +595,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-your-azure-virtual-machine-disks/",
           "length": "PT1H1M",
           "ratings": {
-            "count": 2620,
-            "average": 4.6599236
+            "count": 2621,
+            "average": 4.6600533
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -794,8 +751,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/",
           "length": "PT36M",
           "ratings": {
-            "count": 821,
-            "average": 4.7649207
+            "count": 822,
+            "average": 4.765207
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1241,8 +1198,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-data-in-azure/",
           "length": "PT25M",
           "ratings": {
-            "count": 55622,
-            "average": 4.7345834
+            "count": 55623,
+            "average": 4.734588
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2078,8 +2035,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-cosmos-db-for-scale/",
           "length": "PT35M",
           "ratings": {
-            "count": 3858,
-            "average": 4.6430793
+            "count": 3859,
+            "average": 4.642913
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2114,8 +2071,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-api-for-cosmos-db/",
           "length": "PT38M",
           "ratings": {
-            "count": 2120,
-            "average": 4.678302
+            "count": 2121,
+            "average": 4.677982
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2595,8 +2552,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-sql-secure-data/",
           "length": "PT1H24M",
           "ratings": {
-            "count": 101,
-            "average": 4.7722774
+            "count": 102,
+            "average": 4.77451
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3116,8 +3073,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-cosmos-db-for-scale/",
       "length": "PT35M",
       "ratings": {
-        "count": 3858,
-        "average": 4.6430793
+        "count": 3859,
+        "average": 4.642913
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3397,8 +3354,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-api-for-cosmos-db/",
       "length": "PT38M",
       "ratings": {
-        "count": 2120,
-        "average": 4.678302
+        "count": 2121,
+        "average": 4.677982
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3466,6 +3423,41 @@
         "Azure",
         "IoT",
         "Storage",
+        "Databases"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-migrate-sql-server-relational-data.md",
+      "title": "Migrate your relational data stored in SQL Server to Azure SQL Database",
+      "excerpt": "Plan and implement the migration of relational data from SQL Server to Azure SQL Database. Select the appropriate migration strategy for your database, and then use Data Migration Assistant to do the assessment and the migration.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-migrate-sql-server-relational-data/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/migrate-sql-server-relational-data/",
+      "length": "PT1H24M",
+      "ratings": {
+        "count": 878,
+        "average": 4.3952165
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 53,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
         "Databases"
       ]
     }

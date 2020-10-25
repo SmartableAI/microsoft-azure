@@ -4,6 +4,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-create-manage-cognitive-services.md",
+      "title": "Create and manage Cognitive Services",
+      "excerpt": "Azure Cognitive Services enable developers to easily add cognitive features into their applications. Learn how to configure and manage these services for your AI application needs.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-create-manage-cognitive-services/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-manage-cognitive-services/",
+      "length": "PT44M",
+      "ratings": {
+        "count": 8,
+        "average": 4.875
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 130,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/create-and-manage-cognitive-services-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "AI",
+        "Containers"
+      ]
+    },
+    {
       "path": "_learning/collections/microsoft-learn-az-104-prerequisites-for-azure-administrators.md",
       "title": "AZ-104: Prerequisites for Azure administrators",
       "excerpt": "Learn the basic concepts you'll need to know as an Azure administrator and prepare for Exam AZ-104: Microsoft Azure Administrator.",
@@ -69,8 +113,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-virtual-machines/",
           "length": "PT1H7M",
           "ratings": {
-            "count": 14977,
-            "average": 4.690125
+            "count": 14979,
+            "average": 4.690166
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -248,8 +292,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-virtual-machines/",
           "length": "PT1H7M",
           "ratings": {
-            "count": 14977,
-            "average": 4.690125
+            "count": 14979,
+            "average": 4.690166
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -469,8 +513,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-windows-virtual-machine-in-azure/",
           "length": "PT51M",
           "ratings": {
-            "count": 12959,
-            "average": 4.709314
+            "count": 12960,
+            "average": 4.7093363
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -548,8 +592,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/add-and-size-disks-in-azure-virtual-machines/",
           "length": "PT36M",
           "ratings": {
-            "count": 2275,
-            "average": 4.658022
+            "count": 2276,
+            "average": 4.658172
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -664,8 +708,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-windows-virtual-machine-in-azure/",
           "length": "PT51M",
           "ratings": {
-            "count": 12959,
-            "average": 4.709314
+            "count": 12960,
+            "average": 4.7093363
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -743,8 +787,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/add-and-size-disks-in-azure-virtual-machines/",
           "length": "PT36M",
           "ratings": {
-            "count": 2275,
-            "average": 4.658022
+            "count": 2276,
+            "average": 4.658172
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -823,8 +867,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/capture-application-logs-app-service/",
           "length": "PT55M",
           "ratings": {
-            "count": 1284,
-            "average": 4.627726
+            "count": 1286,
+            "average": 4.6251945
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -866,8 +910,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/control-and-organize-with-azure-resource-manager/",
           "length": "PT46M",
           "ratings": {
-            "count": 39036,
-            "average": 4.7137256
+            "count": 39039,
+            "average": 4.713748
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1032,8 +1076,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/",
           "length": "PT36M",
           "ratings": {
-            "count": 821,
-            "average": 4.7649207
+            "count": 822,
+            "average": 4.765207
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1466,8 +1510,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-kubernetes/",
           "length": "PT53M",
           "ratings": {
-            "count": 549,
-            "average": 4.6102004
+            "count": 550,
+            "average": 4.609091
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2016,7 +2060,7 @@
         ]
       },
       "publishedDateTime": "2020-01-10T10:36:15-08:00",
-      "heat": 61,
+      "heat": 59,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/E9YWmbUb9Ps/maxresdefault.jpg",
@@ -2288,46 +2332,6 @@
       ]
     },
     {
-      "path": "_learning/videos/microsoft-serverless-containers-with-azure-container-instances-aci-azure-friday.md",
-      "title": "Serverless containers with Azure Container Instances (ACI) | Azure Friday",
-      "excerpt": "In this episode, Azure CTO Mark Russinovich joins Scott Hanselman to show how you can use Azure Container Instances (ACI) to host a containerized application. Mark deploys an image processing container in three ways: as a standalone ACI container, as part of a Logic Apps workflow, and as the backend",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-serverless-containers-with-azure-container-instances-aci-azure-friday/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-serverless-containers-with-azure-container-instances-aci-azure-friday/",
-      "originalUrl": "https://youtube.com/watch?v=7G_oDLON7Us",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/7G_oDLON7Us\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT16M33S",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-09-03T14:26:47-07:00",
-      "heat": 53,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/7G_oDLON7Us/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Serverless",
-        "Containers"
-      ]
-    },
-    {
       "path": "_learning/videos/microsoft-how-to-create-an-azure-kubernetes-service-cluster-in-the-azure-portal-azure-portal-series.md",
       "title": "How to create an Azure Kubernetes Service cluster in the Azure Portal | Azure Portal Series",
       "excerpt": "The Azure Portal allows you to quickly get started with Kubernetes and containers. In this video of the Azure Portal “How To” Series, learn how to easily create an Azure Kubernetes Service cluster.   Try out these features in the Azure portal: https://ms.portal.azure.com/#home   Keep connected on Twitter:",
@@ -2485,14 +2489,14 @@
       ]
     },
     {
-      "path": "_learning/videos/microsoft-using-azure-container-registry-for-building-and-deploying-net-core-apps-azure-friday.md",
-      "title": "Using Azure Container Registry for building and deploying .NET Core Apps | Azure Friday",
-      "excerpt": "You probably know that Azure Container Registry enables you to store and manage container images securely, but did you know it can also be used as a part of your DevOps pipelines? Jeremy Likness shows Scott Hanselman how ACR can manage your images and even build them for you in the cloud.   0:00 – Overview",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-using-azure-container-registry-for-building-and-deploying-net-core-apps-azure-friday/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-using-azure-container-registry-for-building-and-deploying-net-core-apps-azure-friday/",
-      "originalUrl": "https://youtube.com/watch?v=VcZH6AWhUGk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/VcZH6AWhUGk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT14M50S",
+      "path": "_learning/videos/microsoft-serverless-containers-with-azure-container-instances-aci-azure-friday.md",
+      "title": "Serverless containers with Azure Container Instances (ACI) | Azure Friday",
+      "excerpt": "In this episode, Azure CTO Mark Russinovich joins Scott Hanselman to show how you can use Azure Container Instances (ACI) to host a containerized application. Mark deploys an image processing container in three ways: as a standalone ACI container, as part of a Logic Apps workflow, and as the backend",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-serverless-containers-with-azure-container-instances-aci-azure-friday/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-serverless-containers-with-azure-container-instances-aci-azure-friday/",
+      "originalUrl": "https://youtube.com/watch?v=7G_oDLON7Us",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/7G_oDLON7Us\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT16M33S",
       "provider": {
         "name": "Microsoft",
         "domain": "microsoft.com",
@@ -2505,11 +2509,11 @@
           }
         ]
       },
-      "publishedDateTime": "2020-10-09T15:20:08-07:00",
+      "publishedDateTime": "2020-09-03T14:26:47-07:00",
       "heat": 52,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/VcZH6AWhUGk/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/7G_oDLON7Us/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -2520,6 +2524,7 @@
       "price": "Free",
       "topics": [
         "Azure",
+        "Serverless",
         "Containers"
       ]
     },
@@ -2647,13 +2652,92 @@
       ]
     },
     {
-      "path": "_learning/videos/microsoft-how-to-deploy-nodejs-applications-from-vs-code-to-kubernetes-azure-friday.md",
-      "title": "How to deploy Node.js Applications from VS Code to Kubernetes | Azure Friday",
-      "excerpt": "In this video, Brendan Burns joins Donovan Brown to discuss how you can quickly and easily build a containerized Node.js app on Linux and deploy it to Azure Kubernetes Service using Visual Studio Code and the Visual Studio Code Kubernetes Extension.  For more information:  • Kubernetes Extension for",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-how-to-deploy-nodejs-applications-from-vs-code-to-kubernetes-azure-friday/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-how-to-deploy-nodejs-applications-from-vs-code-to-kubernetes-azure-friday/",
-      "originalUrl": "https://youtube.com/watch?v=tQvGIh4lolE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/tQvGIh4lolE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "path": "_learning/videos/microsoft-60-seconds-to-a-linkerd-service-mesh-on-aks-azure-friday.md",
+      "title": "60 seconds to a Linkerd service mesh on AKS | Azure Friday",
+      "excerpt": "See just how easy it is to deploy a service mesh to your AKS cluster. William Morgan, maintainer of the open source service mesh Linkerd, joins Scott Hanselman to demonstrate just how easy it is to deploy Linkerd. Together they explore how to debug a live microservices application using the service mesh,",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-60-seconds-to-a-linkerd-service-mesh-on-aks-azure-friday/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-60-seconds-to-a-linkerd-service-mesh-on-aks-azure-friday/",
+      "originalUrl": "https://youtube.com/watch?v=f8R3Y_geZwU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/f8R3Y_geZwU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT18M45S",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2019-06-11T12:22:40-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/f8R3Y_geZwU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Containers"
+      ]
+    },
+    {
+      "path": "_learning/videos/microsoft-deploy-your-web-app-in-windows-containers-on-azure-app-service-azure-friday.md",
+      "title": "Deploy your Web App in Windows Containers on Azure App Service | Azure Friday",
+      "excerpt": "Windows Container support is available in preview in Azure App Service. By deploying applications via Windows Containers in Azure App Service you can install your dependencies inside the container, call APIs currently blocked by the Azure App Service sandbox and use the power of containers to migrate",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-deploy-your-web-app-in-windows-containers-on-azure-app-service-azure-friday/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-deploy-your-web-app-in-windows-containers-on-azure-app-service-azure-friday/",
+      "originalUrl": "https://youtube.com/watch?v=Fe_AYBD5m0I",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Fe_AYBD5m0I\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT12M48S",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2019-07-10T08:31:31-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Fe_AYBD5m0I/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Compute",
+        "Containers"
+      ]
+    },
+    {
+      "path": "_learning/videos/microsoft-go-serverless-containers-with-kubernetes-and-virtual-nodes-azure-friday.md",
+      "title": "Go serverless: Containers with Kubernetes and virtual nodes | Azure Friday",
+      "excerpt": "Think serverless is just for functions? Think again! Brendan Burns joins Donovan Brown to look at how serverless containers can provide a cloud-native container experience without the worry of a server or operating system. They also look at how this integrates with the Azure Kubernetes Service (AKS).",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-go-serverless-containers-with-kubernetes-and-virtual-nodes-azure-friday/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-go-serverless-containers-with-kubernetes-and-virtual-nodes-azure-friday/",
+      "originalUrl": "https://youtube.com/watch?v=jGMaI7dKUgo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/jGMaI7dKUgo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
       "length": "PT8M40S",
       "provider": {
         "name": "Microsoft",
@@ -2667,50 +2751,11 @@
           }
         ]
       },
-      "publishedDateTime": "2018-07-16T11:53:24-07:00",
+      "publishedDateTime": "2020-03-20T17:29:01-07:00",
       "heat": 51,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/tQvGIh4lolE/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Containers"
-      ]
-    },
-    {
-      "path": "_learning/videos/microsoft-how-to-use-azure-functions-on-kubernetes-with-keda-part-1-of-2-azure-tips-and-tricks.md",
-      "title": "How to use Azure Functions on Kubernetes with KEDA: Part 1 of 2 | Azure Tips and Tricks",
-      "excerpt": "In this video, you'll learn how to use Azure Functions on Kubernetes with KEDA.  For more tips and tricks, visit: https://aka.ms/azuretipsandtricks Get started with 12 months of free services and $200 USD in credit. Create your free account today with Microsoft Azure: https://azure.com/free Azure Documentation",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-how-to-use-azure-functions-on-kubernetes-with-keda-part-1-of-2-azure-tips-and-tricks/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-how-to-use-azure-functions-on-kubernetes-with-keda-part-1-of-2-azure-tips-and-tricks/",
-      "originalUrl": "https://youtube.com/watch?v=wSv67WeNqdQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/wSv67WeNqdQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT4M1S",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-07-07T08:03:51-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/wSv67WeNqdQ/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/jGMaI7dKUgo/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -2723,46 +2768,6 @@
         "Azure",
         "Serverless",
         "Containers"
-      ]
-    },
-    {
-      "path": "_learning/videos/microsoft-how-to-use-prometheus-to-monitor-containers-in-azure-monitor-azure-friday.md",
-      "title": "How to use Prometheus to monitor containers in Azure Monitor | Azure Friday",
-      "excerpt": "Keiko Harada joins Scott Hanselman to show how to use Prometheus to monitor containers in Azure Monitor.  Prometheus is a popular open source metric monitoring solution and is a part of Cloud Native Compute Foundation.  Customers who like the extensive metrics which Prometheus provides on Kubernetes",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-how-to-use-prometheus-to-monitor-containers-in-azure-monitor-azure-friday/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-how-to-use-prometheus-to-monitor-containers-in-azure-monitor-azure-friday/",
-      "originalUrl": "https://youtube.com/watch?v=5ARJ6DzqTYE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/5ARJ6DzqTYE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT10M30S",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2019-11-14T15:31:28-08:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/5ARJ6DzqTYE/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Containers",
-        "DevOps"
       ]
     }
   ],
