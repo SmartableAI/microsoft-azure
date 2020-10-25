@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/achieve-higher-performance-and-co
 webUrl: "https://azure.microsoft.com/blog/achieve-higher-performance-and-cost-savings-on-azure-with-virtual-machine-bursting/"
 type: article
 quality: 102
-heat: 144
+heat: 142
 published: true
 
 provider:

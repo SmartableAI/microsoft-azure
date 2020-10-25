@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/cross-region-restore-crr-for-azur
 webUrl: "https://azure.microsoft.com/blog/cross-region-restore-crr-for-azure-virtual-machines-using-azure-backup/"
 type: article
 quality: 122
-heat: 163
+heat: 162
 published: true
 
 provider:
