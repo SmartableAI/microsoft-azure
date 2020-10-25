@@ -7,7 +7,7 @@ price: Free
 length: PT50M
 ratings:
   count: 2113
-  average: 4.7415996
+  average: 4.742073
 heat: 51
 
 provider:
