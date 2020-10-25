@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-29T21:52:47Z
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-iot-device-provisioning-service-vnet-ingress-support-is-now-available/"
 type: article
 quality: 15
-heat: 35
+heat: 15
 published: false
 
 provider:
