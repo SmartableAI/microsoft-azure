@@ -428,15 +428,6 @@ related:
         width: 2695
         height: 1414
         isCached: true
-  - title: "Microsoft Azure: The Winning Formula"
-    excerpt: "Microsoft's Azure platform registered a 59% revenue growth in the last quarter, fueling concerns of a slowdown and suggesting its losing ground to Amazon's AWS."
-    publishedDateTime: 2020-05-28T12:36:00Z
-    webUrl: "https://seekingalpha.com/article/4350303-microsoft-azure-winning-formula"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 17
   - title: "Microsoft Becoming NBA's Official AI Partner"
     excerpt: "Microsoft and NBA Digital -- co-managed by the NBA and Turner Sports -- will create a new, innovative direct-to-consumer platform on Microsoft Azure that will use machine learning and AI to deliver next-gen, personalized game broadcasts and other content, and integrate the NBA's various products and services. Microsoft will look to re-imagine ..."
     publishedDateTime: 2020-04-18T03:39:00Z

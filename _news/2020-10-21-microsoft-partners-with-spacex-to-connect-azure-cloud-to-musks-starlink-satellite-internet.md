@@ -30,96 +30,107 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft partners with SpaceX’s Starlink satellite service for Azure Space cloud platform"
-    excerpt: "Microsoft says it’s taking the next giant leap in cloud computing, in partnership with SpaceX and its Starlink broadband satellite constellation."
-    publishedDateTime: 2020-10-20T13:13:00Z
-    webUrl: "https://www.geekwire.com/2020/microsoft-partners-spacexs-starlink-satellite-service-azure-space-cloud-platform/"
-    ampWebUrl: "https://www.geekwire.com/2020/microsoft-partners-spacexs-starlink-satellite-service-azure-space-cloud-platform/amp/"
-    cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/microsoft-partners-spacexs-starlink-satellite-service-azure-space-cloud-platform/amp/"
+  - title: "Microsoft Azure: This new technology allows you to manage Kubernetes containers across the hybrid cloud"
+    excerpt: "Kubernetes applications can now exploit the cluster and virtualisation technologies that power Azure Stack HCI while still respecting local data. Microsoft is a firm believer in the idea of a hybrid cloud, one that spans everything from microcontrollers at ..."
+    publishedDateTime: 2020-10-26T12:52:00Z
+    webUrl: "https://www.techrepublic.com/article/microsoft-azure-this-new-technology-allows-you-to-manage-kubernetes-containers-across-the-hybrid-cloud/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/article/microsoft-azure-this-new-technology-allows-you-to-manage-kubernetes-containers-across-the-hybrid-cloud/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-azure-this-new-technology-allows-you-to-manage-kubernetes-containers-across-the-hybrid-cloud/"
     type: article
     provider:
-      name: GeekWire
-      domain: geekwire.com
-    quality: 87
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 113
     images:
-      - url: "https://cdn.geekwire.com/wp-content/uploads/2020/10/201020-azurespace-630x479.png"
-        width: 630
-        height: 479
+      - url: "https://tr1.cbsistatic.com/hub/i/r/2020/10/21/b3efc5c0-cb29-4978-996c-ee0369b1ddde/thumbnail/1200x675/29928a2a0d592f1e74b89a88e9dee284/oculus-quest2.jpg"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Microsoft debuts Azure Space to cater to the space industry, partners with SpaceX for Starlink datacenter broadband"
-    excerpt: "Microsoft is taking its Azure cloud computing platform to the final frontier – space. It now has a dedicated business unit called Azure Space for that purpose, made up of industry heavyweights and engineers who are focused on space-sector services including simulation of space missions,"
-    publishedDateTime: 2020-10-20T13:13:00Z
-    webUrl: "https://techcrunch.com/2020/10/20/microsoft-debuts-azure-space-to-cater-to-the-space-industry-partners-with-spacex-for-starlink-datacenter-broadband/"
-    ampWebUrl: "https://techcrunch.com/2020/10/20/microsoft-debuts-azure-space-to-cater-to-the-space-industry-partners-with-spacex-for-starlink-datacenter-broadband/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/10/20/microsoft-debuts-azure-space-to-cater-to-the-space-industry-partners-with-spacex-for-starlink-datacenter-broadband/amp/"
+  - title: "AZ 120 Exam Questions Released for Microsoft Azure for SAP Workloads"
+    excerpt: "Azure SAP workloads certification held incredibly great importance in today's world. It is a rapidly emerging and growing industry that had set its roots in every"
+    publishedDateTime: 2020-10-22T22:45:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/10/ab18026610/az-120-exam-questions-released-for-microsoft-azure-for-sap-workloads"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/18026610"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18026610"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 75
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/10/AzureSpace_3D2.png?w=1024"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "Microsoft partners with SpaceX to launch Azure Space—Here's what to know about the initiative"
-    excerpt: "Tom Keane, Microsoft Corporate vice president in charge of Azure Global, joins 'Squawk Alley' to discuss the company's partnership with SpaceX to bring worldwide satellite connectivity to cloud services."
-    publishedDateTime: 2020-10-20T16:50:00Z
-    webUrl: "https://www.cnbc.com/video/2020/10/20/microsoft-partners-with-spacex-to-launch-azure-spaceaheres-what-to-know-about-the-initiative.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 66
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106752600-16032092311603209228-12020288844-1080pnbcnews.jpg?v=1603209231"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Microsoft Announces Azure Space And Partnership With SpaceX Starlink"
-    excerpt: "With Microsoft and SpaceX working together, Azure could become “the platform and ecosystem of choice for the mission needs of the space community.”"
-    publishedDateTime: 2020-10-20T19:22:00Z
-    webUrl: "https://hothardware.com/news/microsoft-azure-and-starlink-partnership"
-    ampWebUrl: "https://amp.hothardware.com/news/microsoft-azure-and-starlink-partnership"
-    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/microsoft-azure-and-starlink-partnership"
-    type: article
-    provider:
-      name: HotHardware
-      domain: hothardware.com
+      name: Benzinga.com
+      domain: benzinga.com
     quality: 57
     images:
-      - url: "https://images.hothardware.com/contentimages/newsitem/53184/content/spacex-rocket.jpg"
-        width: 708
-        height: 472
+      - url: "https://www.abnewswire.com/uploads/1603396615.png"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Microsoft Azure Space teams up with SpaceX's Starlink and SES's O3b"
-    excerpt: "Microsoft is expanding its off-planetary ambitions with the launch of a new business division, Azure Space. As part of the new initiative, Microsoft will partner with SpaceX's Starlink Internet service,"
-    publishedDateTime: 2020-10-21T11:34:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/microsoft-azure-space-teams-spacexs-starlink-and-sess-o3b/"
+  - title: "Microsoft’s Azure To Be Connected To SpaceX’s Starlink Satellite Internet"
+    excerpt: "SpaceX launched 60 Starlink satellites on Sunday Microsoft launched Azure Orbital, to connect cloud services to satellites Jeff Bezos' cloud services already offer similar services Microsoft Azure’s cloud services will now be connected directly to SpaceX ..."
+    publishedDateTime: 2020-10-21T11:31:00Z
+    webUrl: "https://www.ibtimes.com/microsofts-azure-be-connected-spacexs-starlink-satellite-internet-3066016"
+    ampWebUrl: "https://www.ibtimes.com/microsofts-azure-be-connected-spacexs-starlink-satellite-internet-3066016?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/microsofts-azure-be-connected-spacexs-starlink-satellite-internet-3066016?amp=1"
     type: article
     provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 37
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 56
     images:
-      - url: "https://media.datacenterdynamics.com/media/images/SpaceXlaunch.2e16d0ba.fill-1200x630.jpg"
-        width: 1200
-        height: 630
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/04/19/starlink-iss.jpg"
+        width: 640
+        height: 427
         isCached: true
-  - title: "Microsoft's Azure Space Program Gets 'Modular' Datacenters"
-    excerpt: "Microsoft recently unveiled its new Azure Modular Datacenters, boxcar-like structures that can deliver compute and storage capabilities anywhere on earth, even \"extreme\" environments. The new ..."
-    publishedDateTime: 2020-10-21T00:00:00Z
-    webUrl: "https://rcpmag.com/articles/2020/10/21/microsoft-azure-space-modular-datacenters.aspx"
+  - title: "Congruity360 Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Congruity360, data governance and storage leader, today announced the availability of Classify360 in the Microsoft Azure Marketplace, an"
+    publishedDateTime: 2020-10-22T13:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/congruity360-now-available-in-the-microsoft-azure-marketplace-301157361.html"
     type: article
     provider:
-      name: Redmond Channel Partner
-      domain: rcpmag.com
+      name: PR Newswire
+      domain: prnewswire.com
     quality: 37
     images:
-      - url: "https://rcpmag.com/-/media/ECG/rcpmag/Images/2020/10/1021rcp_azurespace.jpg"
-        width: 647
-        height: 450
+      - url: "https://mma.prnewswire.com/media/522775/Congruity360_Logo.jpg?p=facebook"
+        width: 2695
+        height: 1414
         isCached: true
+  - title: "Verizon Inks Partnership to Integrate Microsoft Azure for Operators"
+    excerpt: "Verizon is expanding its onsite 5G edge wireless network offering with support for the new Microsoft Azure for Operators platform. The two companies this week said they will integrate Microsoft Azure for Operators with Verizon’s mobile edge computing ..."
+    publishedDateTime: 2020-10-23T00:24:00Z
+    webUrl: "https://www.channelpartnersonline.com/2020/10/22/verizon-inks-partnership-to-integrate-microsoft-azure-for-operators/"
+    type: article
+    provider:
+      name: Channel Partners
+      domain: channelpartnersonline.com
+    quality: 37
+    images:
+      - url: "https://www.channelpartnersonline.com/files/2020/10/Verizon-infrastructure-at-Ice-Mobility-distro-center-770x285.jpg"
+        width: 770
+        height: 285
+        isCached: true
+  - title: "SAP Solutions and Microsoft Azure Combine Efforts To Drive Forward Business Growth Across the Middle East and Africa"
+    excerpt: "... of SAP workloads in the UAE data centre region at the Middle East and Africa Edition of the SAP Solutions on Microsoft Azure Virtual Event. Microsoft announced the availability of SAP workloads in the UAE data centre region at the Middle East and ..."
+    publishedDateTime: 2020-10-26T09:47:00Z
+    webUrl: "https://www.albawaba.com/business/pr/sap-solutions-and-microsoft-azure-combine-efforts-drive-forward-business-growth-across"
+    ampWebUrl: "https://www.albawaba.com/amp/business/pr/sap-solutions-and-microsoft-azure-combine-efforts-drive-forward-business-growth-across"
+    cdnAmpWebUrl: "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/pr/sap-solutions-and-microsoft-azure-combine-efforts-drive-forward-business-growth-across"
+    type: article
+    provider:
+      name: Al Bawaba News
+      domain: albawaba.com
+    quality: 34
+    images:
+      - url: "https://www.albawaba.com/sites/default/files/styles/default/public/2020-10/Final%20Image%20-%20SAP%20MS.png?itok=hCQafSRC"
+        width: 960
+        height: 502
+        isCached: true
+  - title: "Microsoft Azure: The Winning Formula"
+    excerpt: "Microsoft's Azure platform registered a 59% revenue growth in the last quarter, fueling concerns of a slowdown and suggesting its losing ground to Amazon's AWS."
+    publishedDateTime: 2020-05-28T12:36:00Z
+    webUrl: "https://seekingalpha.com/article/4350303-microsoft-azure-winning-formula"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 17
 
 secured: "Za9D3Q8SgKPz2hVdkAfh0G8/ol0VX6jvYkaX73WzpK9Oq1rsUGTkc5q3JvvB7LvGiO6AogjPrPjQRe1DPQo4Xr++VhJM1Fu5PDJVgFcJJL/ZzaEcFCegvzsbsLLN0m47XrPvRwsX/aAbo3RwrYF6MH7m0Lj5qOLwmwXGDrnEikSV+tLerxJHrhAQ6MkD2A7Bg8BFv0ktYTDfhqehmxkBSo+PtOdTHcT4j97DFtWAl1H9I8nAzZ2dfbM9WXUU2JUbW4oNB6P2JZdhe+3LA10nrjTjftbKoeUXIf6W2CBXQBhMEHh3hzOWfIyaiX7/uhYEPK77wFsTHjnt6h1H+J7e54jnjNTcxAFtACT1W6H0sr91kN7FDGSCpcAvULsptu5ufHdmhMVTL9zF07DSC9bKA95ibjaOdWcvUtMdvNJOYXzSHQ+MZiYiW3m0q9d5zdPgA2fCDXNbEY+kUmculliT6+OxUg+soP8dzNiVwreZfy0IkiTBHoGPkeRuauEpsj/3cK5a/YenJNBTGFcKVmaJ1w==;9UbvUiqTyNeQvhRtzhsvDA=="
 ---

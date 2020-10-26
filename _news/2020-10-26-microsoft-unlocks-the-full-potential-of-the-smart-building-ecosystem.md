@@ -1,35 +1,50 @@
 ---
 category: news
-title: "Microsoft and Honeywell collaborate on Azure and Dynamics 365"
-excerpt: "The manufacturing multinational will be bringing domain-specific applications built on Microsoft's cloud platform to market. More ways to innovate the industrial workplace will also be explored."
-publishedDateTime: 2020-10-22T19:16:00Z
-originalUrl: "https://www.neowin.net/news/microsoft-and-honeywell-collaborate-on-azure-and-dynamics-365"
-webUrl: "https://www.neowin.net/news/microsoft-and-honeywell-collaborate-on-azure-and-dynamics-365"
-ampWebUrl: "https://www.neowin.net/amp/microsoft-and-honeywell-collaborate-on-azure-and-dynamics-365/"
-cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-and-honeywell-collaborate-on-azure-and-dynamics-365/"
+title: "Microsoft unlocks the full potential of the smart building ecosystem"
+excerpt: "It is impossible to understate the profound impact 2020 events have had on the real estate industry. Buildings of all kinds, from commercial offices to retail, hospitals, manufacturing plants, and more, remain in need of transformative solutions that will enable employees to return to work safely. In"
+publishedDateTime: 2020-10-26T06:00:00Z
+originalUrl: "https://azure.microsoft.com/blog/microsoft-unlocks-the-full-potential-of-the-smart-building-ecosystem/"
+webUrl: "https://azure.microsoft.com/blog/microsoft-unlocks-the-full-potential-of-the-smart-building-ecosystem/"
 type: article
-quality: 97
-heat: 220
-published: true
+quality: 74
+heat: -1
+published: false
 
 provider:
-  name: Neowin
-  domain: neowin.net
+  name: Microsoft
+  domain: microsoft.com
   images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/neowin.net-50x50.jpg"
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Azure
+  - IoT
 
 images:
-  - url: "https://cdn.neow.in/news/images/uploaded/2020/10/1603393938_microsoft_honeywell_logo_story.jpg"
-    width: 760
-    height: 428
+  - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/2ab0444a-0df7-4672-a9ea-74857e3070d6.png"
+    width: 1024
+    height: 463
     isCached: true
 
 related:
+  - title: "Microsoft and Honeywell collaborate on Azure and Dynamics 365"
+    excerpt: "The manufacturing multinational will be bringing domain-specific applications built on Microsoft's cloud platform to market. More ways to innovate the industrial workplace will also be explored."
+    publishedDateTime: 2020-10-22T19:16:00Z
+    webUrl: "https://www.neowin.net/news/microsoft-and-honeywell-collaborate-on-azure-and-dynamics-365"
+    ampWebUrl: "https://www.neowin.net/amp/microsoft-and-honeywell-collaborate-on-azure-and-dynamics-365/"
+    cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-and-honeywell-collaborate-on-azure-and-dynamics-365/"
+    type: article
+    provider:
+      name: Neowin
+      domain: neowin.net
+    quality: 97
+    images:
+      - url: "https://cdn.neow.in/news/images/uploaded/2020/10/1603393938_microsoft_honeywell_logo_story.jpg"
+        width: 760
+        height: 428
+        isCached: true
   - title: "Honeywell, Microsoft partner on industrial apps, Dynamics, Azure integration"
     excerpt: "The two companies will combine that artificial intelligence in Honeywell Forge performance management software with Microsoft Dynamics Field Service."
     publishedDateTime: 2020-10-22T16:00:00Z
@@ -41,20 +56,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 91
-  - title: "Microsoft unlocks the full potential of the smart building ecosystem"
-    excerpt: "It is impossible to understate the profound impact 2020 events have had on the real estate industry. Buildings of all kinds, from commercial offices to retail, hospitals, manufacturing plants, and more, remain in need of transformative solutions that will enable employees to return to work safely. In"
-    publishedDateTime: 2020-10-26T06:00:00Z
-    webUrl: "https://azure.microsoft.com/blog/microsoft-unlocks-the-full-potential-of-the-smart-building-ecosystem/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 74
-    images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/2ab0444a-0df7-4672-a9ea-74857e3070d6.png"
-        width: 1024
-        height: 463
-        isCached: true
   - title: "Microsoft and SpaceX partner to use Azure with Starlink satellite"
     excerpt: "We’ve seen Microsoft look to expand its services out into space, as the company recently announced Azure Orbital, a service that connects satellites via cloud. On the other hand, SpaceX has been using its Starlink satellites to offer internet around the globe."
     publishedDateTime: 2020-10-20T19:10:00Z
@@ -111,6 +112,6 @@ related:
         height: 396
         isCached: true
 
-secured: "RGxS1Juft0SeWT64Zj4Ek8G9mQlKjfWwclIR82zbZRFaOlhBf6kkJq1UignGISkerk9qI2Crjp1VP1P8ZqltL4RxTevWXFTg/lx+Y+4Ik6vlxn/V5a8fg9B79MOFGfRHF3uy9GErLPjloIK85UfrQYoiEEUCtaRt0jLADCwpCwqib9kBFtDjDOiewMmtW5f5LJ53Ai6d44dIE1FQ6KmRy3WiDcYr1I50kkhUh+jiepIp24G5+Ae5MIq5mzdYxuhMs3KF7oA1rQcIHb74OWCboyKGFVbplgb/yRHNUxni4nSJYYnWox+VA3bQQDX3Wl22yhiuRMaigQkAXNi1SzFAkIQr1SMQVLc0DdYz6/o/IhQQ9Mwu5yYMh27DelBG1eqdSLI+zjirKX8HgdD1SRjAGBZgPyqiCOBhKvNkhYICWeDfHrm1GvpeycZNEKAOghfPUXuEGsNurZw0JvGKzVTCzmnj3vEDX/woTsdkB1viPMxMJ6YBvLVdU93VSgk/dDja+zoyDcDnalRFkb2xcS3BRA==;9ktKeQMDMmHu+dA1stmWIw=="
+secured: "NUTy7Xns1unoe43nshy0lmdGraRPLxLgcbVIzbepcaNwDC3lhpdfsmor+3BzTldPHVxGy0q3+W0oPwM3jVyYKXibrZWy729icr4YeDV6EGQcKOZk56TTe9QyHFR/wcKOHB3W4/OfIUdnaJ0XWg8owdxsAUf2wZITl5ctZuJ088qhk9gda9+NQ2LTeiihVZsafOrmLDBp3tqV2+uZ/OaIIrWu31ustY1jaTmdjyobRW0Qf6s2yRnCmzktLy4MjmQ3B2iyc3n5Zp7O8S8t5P/qUKwx6ao+JaBYHwPQWG8R8Msym/Aj+0HuZ8xW0bGNopewejeVBCDRljLHo+tLLKE7PDpvB2qCFS02nL/ChabNVrM=;JPC2FQ6Xxaktm8+xiKktVg=="
 ---
 
