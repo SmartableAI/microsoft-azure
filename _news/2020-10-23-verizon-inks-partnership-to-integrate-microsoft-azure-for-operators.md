@@ -102,6 +102,17 @@ related:
         width: 2695
         height: 1414
         isCached: true
+  - title: "SAP Solutions and Microsoft Azure partner in UAE"
+    excerpt: "Microsoft has announced the availability of SAP workloads in the UAE data centre region at the Middle East and Africa Edition of the SAP Solutions on Microsoft Azure Virtual Event. The goal is to propel the cloud ecosystem in the region by empowering organizations to run their SAP workloads on Microsoft Azure."
+    publishedDateTime: 2020-10-26T15:26:00Z
+    webUrl: "https://www.zawya.com/mena/en/business/story/SAP_Solutions_and_Microsoft_Azure_partner_in_UAE-SNG_188180071/"
+    ampWebUrl: "https://www.zawya.com/mena/en/story/amp/SNG_188180071/"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/SNG_188180071/"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 37
   - title: "SAP Solutions and Microsoft Azure Combine Efforts To Drive Forward Business Growth Across the Middle East and Africa"
     excerpt: "... of SAP workloads in the UAE data centre region at the Middle East and Africa Edition of the SAP Solutions on Microsoft Azure Virtual Event. Microsoft announced the availability of SAP workloads in the UAE data centre region at the Middle East and ..."
     publishedDateTime: 2020-10-26T09:47:00Z

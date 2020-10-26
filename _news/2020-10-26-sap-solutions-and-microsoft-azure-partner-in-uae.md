@@ -1,17 +1,20 @@
 ---
 category: news
-title: "Microsoft Azure: The Winning Formula"
-excerpt: "Microsoft's Azure platform registered a 59% revenue growth in the last quarter, fueling concerns of a slowdown and suggesting its losing ground to Amazon's AWS."
-publishedDateTime: 2020-05-28T12:36:00Z
-webUrl: "https://seekingalpha.com/article/4350303-microsoft-azure-winning-formula"
+title: "SAP Solutions and Microsoft Azure partner in UAE"
+excerpt: "Microsoft has announced the availability of SAP workloads in the UAE data centre region at the Middle East and Africa Edition of the SAP Solutions on Microsoft Azure Virtual Event. The goal is to propel the cloud ecosystem in the region by empowering organizations to run their SAP workloads on Microsoft Azure."
+publishedDateTime: 2020-10-26T15:26:00Z
+originalUrl: "https://www.zawya.com/mena/en/business/story/SAP_Solutions_and_Microsoft_Azure_partner_in_UAE-SNG_188180071/"
+webUrl: "https://www.zawya.com/mena/en/business/story/SAP_Solutions_and_Microsoft_Azure_partner_in_UAE-SNG_188180071/"
+ampWebUrl: "https://www.zawya.com/mena/en/story/amp/SNG_188180071/"
+cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/SNG_188180071/"
 type: article
-quality: 17
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Seeking Alpha
-  domain: seekingalpha.com
+  name: Zawya
+  domain: zawya.com
 
 topics:
   - Azure
@@ -109,17 +112,6 @@ related:
         width: 770
         height: 285
         isCached: true
-  - title: "SAP Solutions and Microsoft Azure partner in UAE"
-    excerpt: "Microsoft has announced the availability of SAP workloads in the UAE data centre region at the Middle East and Africa Edition of the SAP Solutions on Microsoft Azure Virtual Event. The goal is to propel the cloud ecosystem in the region by empowering organizations to run their SAP workloads on Microsoft Azure."
-    publishedDateTime: 2020-10-26T15:26:00Z
-    webUrl: "https://www.zawya.com/mena/en/business/story/SAP_Solutions_and_Microsoft_Azure_partner_in_UAE-SNG_188180071/"
-    ampWebUrl: "https://www.zawya.com/mena/en/story/amp/SNG_188180071/"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/SNG_188180071/"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 37
   - title: "SAP Solutions and Microsoft Azure Combine Efforts To Drive Forward Business Growth Across the Middle East and Africa"
     excerpt: "... of SAP workloads in the UAE data centre region at the Middle East and Africa Edition of the SAP Solutions on Microsoft Azure Virtual Event. Microsoft announced the availability of SAP workloads in the UAE data centre region at the Middle East and ..."
     publishedDateTime: 2020-10-26T09:47:00Z
@@ -136,7 +128,16 @@ related:
         width: 960
         height: 502
         isCached: true
+  - title: "Microsoft Azure: The Winning Formula"
+    excerpt: "Microsoft's Azure platform registered a 59% revenue growth in the last quarter, fueling concerns of a slowdown and suggesting its losing ground to Amazon's AWS."
+    publishedDateTime: 2020-05-28T12:36:00Z
+    webUrl: "https://seekingalpha.com/article/4350303-microsoft-azure-winning-formula"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 17
 
-secured: "ju0224r1H9JrROaqHNEsxTsLadH9PomDP/pHikhkUrlCAyus3hAdojx4S50ToPJTAwKSCL5xoaAOZDmw/l5KszWCPWljPt2Ce521nPmCnBUhZ5uddEnV2BsxSRt+LKYcC++jSrtBr8MxbE0gmohMlA7IespYbwrtcWXp7msbH/fdpcsvB4B3oCh973TjyQciFDCfwCSjj05x2OGkQ1iBIyb6tjkuVbgPtrPQre+6RXsqA89E4YBMUYFNL74y/xL028hKo6E7xeyAWH0Wys/u2cGM0c5B4ar4qKUhNnMMU5iT1BaGOcF8DXeXF3CIBCBgRppSgIZuSv9muXplHAX0UpQCal9uJvsN8hjx3kiEsjeuwQlb+hk0/WuAkHHCaqIY27McjI6lMxaXaN6zxsGIksJnZA2+GN6L62ah6kKGcIZaTALWwvAsUoXhh3r8I78PpfsA2zx4nePob/dKGpnccF7bLE7Iq0KHDY5FsbLZUrU=;nuSdZAZi2MOc1F0duaYK+A=="
+secured: "AALLI8kgm4Quod9vyRXSbEne2ucoOlF2JRx5VZ3Jjc9so606Z8k9hXPdin+TsQx4V1R0NqtgCxYP7MWJsjnIxSZmGJzL/fCOBQwB76c/ZXhHwzJt3BUsf/2hGx3EUOcQhdJggCed7iuR2I7FRg8AP5YmkobwqaxLcFrkXmR+kOx9wIaGWdwo3SHX9RD2TIpCSA2HPUvryRBNXGbNy8gOqoQGlWifsjTXpHifPfdL4oi6U2kz2dUWfHOa8Sy0Nc5tH1bkyMeGsdRtKHTbxaHD1Cj8NVWXjuppVxGQrwgh5rZc83S9++taW8yTqllWKeGiLRb2YJu2M6D+PypwjNImo157gai+c/qI1GsQyLsSKaM=;x44lR3mrrpt6A/WpPkEBig=="
 ---
 

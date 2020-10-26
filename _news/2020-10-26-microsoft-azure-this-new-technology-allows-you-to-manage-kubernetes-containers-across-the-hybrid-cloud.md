@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/microsoft-azure-this
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-azure-this-new-technology-allows-you-to-manage-kubernetes-containers-across-the-hybrid-cloud/"
 type: article
 quality: 113
-heat: 253
+heat: 273
 published: true
 
 provider:
@@ -107,6 +107,17 @@ related:
         width: 770
         height: 285
         isCached: true
+  - title: "SAP Solutions and Microsoft Azure partner in UAE"
+    excerpt: "Microsoft has announced the availability of SAP workloads in the UAE data centre region at the Middle East and Africa Edition of the SAP Solutions on Microsoft Azure Virtual Event. The goal is to propel the cloud ecosystem in the region by empowering organizations to run their SAP workloads on Microsoft Azure."
+    publishedDateTime: 2020-10-26T15:26:00Z
+    webUrl: "https://www.zawya.com/mena/en/business/story/SAP_Solutions_and_Microsoft_Azure_partner_in_UAE-SNG_188180071/"
+    ampWebUrl: "https://www.zawya.com/mena/en/story/amp/SNG_188180071/"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/SNG_188180071/"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 37
   - title: "SAP Solutions and Microsoft Azure Combine Efforts To Drive Forward Business Growth Across the Middle East and Africa"
     excerpt: "... of SAP workloads in the UAE data centre region at the Middle East and Africa Edition of the SAP Solutions on Microsoft Azure Virtual Event. Microsoft announced the availability of SAP workloads in the UAE data centre region at the Middle East and ..."
     publishedDateTime: 2020-10-26T09:47:00Z
@@ -133,6 +144,6 @@ related:
       domain: seekingalpha.com
     quality: 17
 
-secured: "YjgCHvIn7jaJsXzrjHGd2BmGU4P/eTqXiUiohE+LlKvGBzTM1LHqKIkH4nd1+yrfaB4c1zU0+jSpWos63SdKByw6zjSdeVB4UpqNYoNsYzyT8SajwyZZnxVrbr5UCL03y+L1/gsUOjtsVKdbCfMthysARznYfGeUm9aavBfr7j0oIJPLnfwYy5vtjss82Mb14ziOpFDJb8g5Yrce0EB/ExwvEwjnNnX075DbtLTYZC2jmme3BU1bSya3kOzyA6Xj7aAGlRbMfrXU2JoX99hHwgQ5oTOrdySODhXS94TZtVyPo5d1uThIb+YpdBID/3v/pAUu4/fgvp6AnI70fK5zgpNtZgLyr/cjNBdfOXk+HzA=;pwxwNI1BOKsTObd4CzYeOA=="
+secured: "5o8PzURKKtXqzdVOplDJNLQFyEO2Vk3IWUqLTRmEyAOu8u53mWfQ4VJwcWAv/6/mLsSrGmcXwdm1oMCiunUzs7IqGSrQS5BZN3ANh1wI75IJtZneaUvnoQydWc0TheeU+QTeqtKiwuh40aNSg9C1sf9IizmBsb1SqQkWggsxieyEkoGk4DRtMrozAgFGL6oYpTI66axFgMZtfVqaAesfIzL/kLJvvdCQMtMChsHQY8AU7KzuH+vbRwuH89U42FIvEYWgDLC4zRoNTHEKfDKVfT+n97QKYCd1CQfTNO5A/+5CA0CkoIu4REshDPO1IPSuy3XfwoONfRFCKAyAERvFEsn8IiurZ2vK42AymxxSIyOGjoIB4qUGnU/yEY5FHQin7ae2qrR2iRVSpMrU+y+iePoPyykQBb0I+MXi8rCiyEDwD7NUOaLDzmM3ogpz1M8DduQaSWNDah++ADUAror6PR2MYYDoQySq6P2f0pBflJe7ZsaTEcj0fG9N8976rXQVIqWFw26sA2qGXf99hDmf6A==;L2TK2fCvw/xIzinaXidZFw=="
 ---
 
