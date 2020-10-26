@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Congruity360 Now Available in the Microsoft Azure Marketplace"
-excerpt: "Congruity360, data governance and storage leader, today announced the availability of Classify360 in the Microsoft Azure Marketplace, an"
+excerpt: "Congruity360, data governance and storage leader, today announced the availability of Classify360 in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure."
 publishedDateTime: 2020-10-22T13:00:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/congruity360-now-available-in-the-microsoft-azure-marketplace-301157361.html"
-webUrl: "https://www.prnewswire.com/news-releases/congruity360-now-available-in-the-microsoft-azure-marketplace-301157361.html"
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-computing-and-information-technology-web-services-internet-technology-217bea6f181fa4a1a075f5aa3e59252f"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-computing-and-information-technology-web-services-internet-technology-217bea6f181fa4a1a075f5aa3e59252f"
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://mma.prnewswire.com/media/522775/Congruity360_Logo.jpg?p=facebook"
-    width: 2695
-    height: 1414
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -139,6 +139,6 @@ related:
       domain: seekingalpha.com
     quality: 17
 
-secured: "Hx/tHGyz8weEcXw1K9Pktvks3SG/Ld7ctlgPGI0p8eB+HeBn9XoJNJ5Zd3/hjoJBxHV35YCgbxeOMEQXQh11AKnZY6ZNF/HxAOatAedB+O+Z33J/yk4BJScCWKm+3SA2B/U7bPpc6ndmVinlnsHeZHQeVINB9GiSCkaCI9EgxRzH70IIPJSorKaAw9ozZlsU3+FFrO9JhruTbH4ZsSWMBehgtsu3qZRz1CC+ORokb9LmYBOSzqKN4zLFI0e8AmUxTFBUqIb1fLfgMcPYGpHvAoAVYnjDgM7Blxoa3ToRqldH5Y6XiTcCMTgf2V9A4rcaqg9OUts4CaZ589o5pyJMOciV/gI0YGUSwydL0LyuvnI=;7HYx8eMVWBOKBZ9NJQui+A=="
+secured: "f04x9palepv2d54BOwMoBJOtO6swfPdZJ/F5qd/hvIpDyYaz9RQzBCt0rF+aef2nM492niPtSQsG6IgIs+JOEvsognoMuv8IzeEyf/QvloQK4C/WEI+PgK7jIDBlxPX8ffrG/bpjnpZmshb6uV6zh3VKWtbfWH6lrC9gRU1MBCZQd0hNKOXde2I2w1H1Gc/Jl/ohhwsg/W4Uby860VXiRvMHS3nkY4aRwbhR+mGVL9fXUvZ5m7H8R7KskZFTXJhIg2jOyIplgCRbeljuh4+Z0cRKkauGMac2C1BDW5+wRR5E33dV6zmGcyUO1ze61bJvvPce6CWg5gou2ZrAK4GmSHSku3eoy0xYPG82YbNR7YA=;/MCbsVrKM+6NnCc+062d0w=="
 ---
 
