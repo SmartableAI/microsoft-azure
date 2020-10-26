@@ -1,28 +1,26 @@
 ---
 category: news
-title: "Microsoft and SpaceX partner to use Azure with Starlink satellite"
-excerpt: "We’ve seen Microsoft look to expand its services out into space, as the company recently announced Azure Orbital, a service that connects satellites via cloud. On the other hand, SpaceX has been using its Starlink satellites to offer internet around the globe."
-publishedDateTime: 2020-10-20T19:10:00Z
-originalUrl: "https://www.shacknews.com/article/121031/microsoft-and-spacex-partner-to-use-azure-with-starlink-satellite"
-webUrl: "https://www.shacknews.com/article/121031/microsoft-and-spacex-partner-to-use-azure-with-starlink-satellite"
-ampWebUrl: "https://www.shacknews.com/article/121031/microsoft-and-spacex-partner-to-use-azure-with-starlink-satellite?amphtml=1"
-cdnAmpWebUrl: "https://www-shacknews-com.cdn.ampproject.org/c/s/www.shacknews.com/article/121031/microsoft-and-spacex-partner-to-use-azure-with-starlink-satellite?amphtml=1"
+title: "BCG and Microsoft Collaborate to Launch BCG's Catalyst Cloud Solution on Azure, a New Scalable and Extensible Data Platform for the Bionic Corporation"
+excerpt: "PRNewswire/ -- Boston Consulting Group (BCG) today announced the launch of the Catalyst Cloud data platform by BCG, powered by Microsoft Azure."
+publishedDateTime: 2020-10-26T04:01:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/bcg-and-microsoft-collaborate-to-launch-bcgs-catalyst-cloud-solution-on-azure-a-new-scalable-and-extensible-data-platform-for-the-bionic-corporation-301159150.html"
+webUrl: "https://www.prnewswire.com/news-releases/bcg-and-microsoft-collaborate-to-launch-bcgs-catalyst-cloud-solution-on-azure-a-new-scalable-and-extensible-data-platform-for-the-bionic-corporation-301159150.html"
 type: article
-quality: 57
+quality: 0
 heat: -1
 published: false
 
 provider:
-  name: Shacknews
-  domain: shacknews.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://d1lss44hh2trtw.cloudfront.net/assets/article/2020/10/20/spacex-satellite_feature.jpg"
-    width: 1920
-    height: 1080
+  - url: "https://mma.prnewswire.com/media/798393/Boston_Consulting_Group_Logo.jpg?p=facebook"
+    width: 756
+    height: 396
     isCached: true
 
 related:
@@ -53,6 +51,22 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 91
+  - title: "Microsoft and SpaceX partner to use Azure with Starlink satellite"
+    excerpt: "We’ve seen Microsoft look to expand its services out into space, as the company recently announced Azure Orbital, a service that connects satellites via cloud. On the other hand, SpaceX has been using its Starlink satellites to offer internet around the globe."
+    publishedDateTime: 2020-10-20T19:10:00Z
+    webUrl: "https://www.shacknews.com/article/121031/microsoft-and-spacex-partner-to-use-azure-with-starlink-satellite"
+    ampWebUrl: "https://www.shacknews.com/article/121031/microsoft-and-spacex-partner-to-use-azure-with-starlink-satellite?amphtml=1"
+    cdnAmpWebUrl: "https://www-shacknews-com.cdn.ampproject.org/c/s/www.shacknews.com/article/121031/microsoft-and-spacex-partner-to-use-azure-with-starlink-satellite?amphtml=1"
+    type: article
+    provider:
+      name: Shacknews
+      domain: shacknews.com
+    quality: 57
+    images:
+      - url: "https://d1lss44hh2trtw.cloudfront.net/assets/article/2020/10/20/spacex-satellite_feature.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "AZ 120 Exam Questions Released for Microsoft Azure for SAP Workloads"
     excerpt: "Azure SAP workloads certification held incredibly great importance in today's world. It is a rapidly emerging and growing industry that had set its roots in every"
     publishedDateTime: 2020-10-22T22:45:00Z
@@ -138,21 +152,7 @@ related:
         width: 770
         height: 285
         isCached: true
-  - title: "BCG and Microsoft Collaborate to Launch BCG's Catalyst Cloud Solution on Azure, a New Scalable and Extensible Data Platform for the Bionic Corporation"
-    excerpt: "PRNewswire/ -- Boston Consulting Group (BCG) today announced the launch of the Catalyst Cloud data platform by BCG, powered by Microsoft Azure."
-    publishedDateTime: 2020-10-26T04:01:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/bcg-and-microsoft-collaborate-to-launch-bcgs-catalyst-cloud-solution-on-azure-a-new-scalable-and-extensible-data-platform-for-the-bionic-corporation-301159150.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 0
-    images:
-      - url: "https://mma.prnewswire.com/media/798393/Boston_Consulting_Group_Logo.jpg?p=facebook"
-        width: 756
-        height: 396
-        isCached: true
 
-secured: "IRPgnGMHoMxkHI2oQ3PRK9AKOsTJvVA/fPzDmFVO2yHavAlo8mcIr2hTzmVPaZtf0I9agCHEHqUuYLfdRqwR69dOqmz3fBQoS/mKEr1594ET3vpTl4/SORNuzjOgZh8uDDT8eLl2KZIlCBm4dAaoThWfe3QMANEd+pjeeGI5OkSh/xa4c4LzfxEIKXdkLUNsamio++ULji/SQJJXVCAjfwFLR+oxjN77+6Wc2A7s/7O3MRXJzz6Z6UKeMN81EOyoN4T7S1M/dJJ/DbfqVBRaevfrriTe97PCmpEq+AwyPWLiNxiLG3KmT+Z/UlImdfV0ivNVcfluiOV9JVCB0AYmCqWpbKWFjzdJHAkMU4TKBguabNJ03j/5fdI/3T8fgbhWGTAEuVX7Gk48QA1fypi8NCG9GrRQ01w/mpsDaoO85L2AnwUkq6LCpxIW+vekVHWxII5uPWHNz1b7FphTiz9z/h5YDDX0jGsI9rSnDguEadWsKHEkOH/HCoMErH8wBkbXqXUkbvgVk7Osr7NwBbIQUA==;xAKC4owraJ4SjW1Zj7YXYQ=="
+secured: "TnKlns9jRPypa/TLJoitR085Q+dKioWtJUvUulBrFeZUMPmY74YTWSjPSEUv0jAJwl0XHqNZLn4RfzYjaHe3UWnRiRNsS2Ti07ZrX7GW+3lpbe23pDgq3mOx6vhp6uTPx8CAe5XReWphjbsBhQBRxyUsaU8sYk7K/WdzGzif+fK7YyNtBvZJlcSZNHgrd+12ZG06W+epjFnp4XvsTycSMxO/gH20lOPEC2GmZyyyZvQHA/XbQ8fvsRSCg/nBKll+EaN6WhRaBF23xvAaGymbuHKLbbWzvDKN0XBCLQoupRk6g0DWAzH0XBE9bgs8NJvcaXYPIVCwlLvP8NqGXAIwEKsUpPUQ6hyNTXSKC1ke3Ko=;wBi6JiYY+Lf+yNBdpU/V2Q=="
 ---
 
