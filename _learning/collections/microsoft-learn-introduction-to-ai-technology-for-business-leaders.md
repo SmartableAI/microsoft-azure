@@ -4,7 +4,7 @@ excerpt: "This learning path helps business leaders discover and describe the pr
 type: collection
 price: Free
 length: PT1H31M
-heat: 52
+heat: 51
 
 provider:
   name: Microsoft Learn

@@ -8,7 +8,7 @@ length: PT1H16M
 ratings:
   count: 45557
   average: 4.705073
-heat: 74
+heat: 68
 
 provider:
   name: Microsoft Learn
@@ -26,6 +26,6 @@ topics:
   - Identity
   - Security
 
-secured: "HCktuNmXCMu3e5JINoYF6D4SCORZGV6Gh4bO/25YDkKD8u2p5KvDmXW7hEhQ26DzJ9Pakrhg/6SbKxmfcsmDMJj9Fkyd/g2slc9SEWzEj0UIqip37CYJu6Z8bIW6q+8EJMQ6GtiBJWlbkDmQPOQ3Um5MUE1x5PgAilPySymLA20bfrR2GFtuMjHJevpwS/6cRB1ui4fV//y5NEFxuRn5Kue7srPX5PpXwzKuCmoNIhv7qA5YOqljViQQPwqwzGSjCeel1CHeBYoVJjeTPfZ/HntB+W/YPfUIPa3hmLmBcFbHIndj8mhUGbvvs1okSD2LSFne7P1W73q9YpOtFLcGCkX1NnSIr2R2+Lvw9h6FQjK6nrBl3qhw3Ue7E0iqolVQR6CaXPnRcSsl6oxLQU22Wm6WFecvGyWmpKGNwWfwCZB5u7febvvsGSIPY9DZd/Nn;1DomnY3Ai+GnvhAfL2TmXA=="
+secured: "6KRyaI9Rl2QmytFHSxD15a1IPB+bQsvHxNOMcYlXSrVL9wzT3mvKzr3HcGZxK6nTDPIRcOH+XzVtyvpdrsLTgW5N0Wwa3pL95B9hVpMCPxcY3aZu3xMeUBWIt5mI9hxDc1tiAXzO4AsJ4en3Ow/6ppB6+vKwcDZMul/gU/VrINKATyvfW4jURfVwzczArS4wm2AoIOR9UvDUYVDc52eYpEBclNkYRFzjsCKassXNHdq039PywTiBSJdI3/9lZUHU3dIsJ/Q8n3erA9ughvU/4xOzKmDivfrtHo7fQs1kbafAVPhysPBLzZQLlLsTKAY753mVhsl77U745r9BRojVzPlhB1if+8uSNlGgfi1lF1bukuybRBJvHBozXsnhieREOaWXrSCrxWWmLa21jHfJmxHttL0tFKr94BBHLoRRtCeLQfIf22eF43Rciwp6lZW0;sdlVJc+VdwJ0Yv0a3Sn8Pg=="
 ---
 

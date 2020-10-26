@@ -8,7 +8,7 @@ length: PT38M
 ratings:
   count: 1178
   average: 4.6663837
-heat: 53
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     height: 400
     isCached: true
 
-secured: "htIDSWbw8+g7Fm6WvOqADjyjJACN8/vNHvjMQbGRXbUg94rAJaGihKjgDGozwNCxff8HUoWr/a8zwXJSIFtBTw8XM+3xtDjriNdYQ6AY8mgxKg9JrR9RBqehFYkI81TuzQQ+lDvRtn/3CXS75xBPWNxN2WCvc6DaZLr/+DFFUhBMnTlzjjZRVf+RaDKnY291TVIovS2vzfOh4FnxkSWOK7NSUnKBPyetBqJ6xCzu3MytQWa5EO3G/hbvPCRzyQCvilH7mpOzfaGPFMs2ynhkQWOLlASnWLUfgXoHlH6T4ThBXY1pH1YgGGMtXG+ez44SZIijnBBcXlMyaH10c2IorHQhU2AZXjpX0liEPe/Qe06jADQBca+BQByyj5Ql88iYWfoSScxZejkhi6QxKl+EnSTwaAMfuHuWKh286Aijah8=;wgXKZ5tNJ6mB3n0twzoa0w=="
+secured: "vPlcOqRT1K3T00DWHBJnWjJvZ6Q7Oywc5aEI1rZVRZhrK1DaUHTs2Oz3DAt27lKsfRic/mfGcxC/0S1zJ+CxmtKpGitTTt8IWfblss0O/H4+7I62nMzLlwPHgV2xHlLzostuarztSXmJTMzLCFbBZVApbXDiZtELbQRydhl8Kk/nqlf349xGrVPNcrjk5wDr1otTHbOWh6++13xEFIi4UNArq4Xx1wfKBSz+/VKNSbZZf0AxNMxZFUBRKSz/8duimqqlRI/OOALVYflAtxKDbJCN8TmnvC6naVjnr0qoQfmlZRIPOQ6Ofc0ITEBfdMNn5nZVWBAD+ZHhl/AYB33ZKqOd9zddBfdlIQANU+CTO5JhiUYniZDEpkwhvQLXCZ9PEAEawl+TP66xgCsKihsuxTYoNc0sOYZQ/rqJKHRxTjM=;wXo6b3FgLlh7BYxc1MBbtQ=="
 ---
 
