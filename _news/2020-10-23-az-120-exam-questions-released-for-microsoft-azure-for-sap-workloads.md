@@ -138,6 +138,20 @@ related:
       name: Seeking Alpha
       domain: seekingalpha.com
     quality: 17
+  - title: "BDO Expands its Managed Detection and Response Capabilities to Support Microsoft Azure Sentinel Clients and Becomes a Microsoft Intelligent Security Association Member"
+    excerpt: "BDO USA, LLP, one of the nation’s leading accounting and advisory firms, is launching its managed detection and response (MDR) capabilities on Microso"
+    publishedDateTime: 2020-10-26T21:22:00Z
+    webUrl: "https://www.businesswire.com/news/home/20201026005033/en/"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 6
+    images:
+      - url: "https://mms.businesswire.com/media/20201026005033/en/832810/23/2018_Logo.jpg"
+        width: 1200
+        height: 627
+        isCached: true
 
 secured: "vglW32wY3+h2WeW889tbjE08elsuH/Vr3L/JErf690UI0NssSy+C/EvvQ7E7bNuBOK7AerHccTvewH6uf9dwOqSqR3fH+fct5FhhCOF+NQrJ0ipExbqubRCwWPmQi4XWDFtnKzmf7KA71fCwtZR08N55QYFc3HGuH88NUvXkPv33iqlsOTcaHnrFzeo853PjHRnzY0jTylPCp8mCsyup3K2bnN/BOktfW9vH23pdt+yhoSfHBS40tERRUOBjA7jG91BVeycB+z2xJh99yOS1kEGGfaQRQuj6tPkPrFMgofzO2VmdwPtKFlrobX3V1CmBTPPwCd6w5FYkgGfcFJiLQ0NT0ugRzuVbTaZyikcAgm9gjyaJVLeNT2zHKJz7ku+8pPbxJ1wvwSOHaYSyeN7qd9Gf7fHv0xafqBE8Eqn+ZmgL/QKpWU4yIyhS0V2/IlehjV5AHCo9R1smzVR/CZd3zKWSFZTxykA3aA5lbAdN28rzQfAFknpRUDfreiCACN7jeIKHVrzvLpfvA6a2N32zcA==;VNPMq6s9O7zB0jLFIMIeKw=="
 ---

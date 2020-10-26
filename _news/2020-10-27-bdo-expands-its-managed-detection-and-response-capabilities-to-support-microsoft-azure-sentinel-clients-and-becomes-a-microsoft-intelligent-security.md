@@ -1,28 +1,27 @@
 ---
 category: news
-title: "SAP Solutions and Microsoft Azure Combine Efforts To Drive Forward Business Growth Across the Middle East and Africa"
-excerpt: "... of SAP workloads in the UAE data centre region at the Middle East and Africa Edition of the SAP Solutions on Microsoft Azure Virtual Event. Microsoft announced the availability of SAP workloads in the UAE data centre region at the Middle East and ..."
-publishedDateTime: 2020-10-26T09:47:00Z
-originalUrl: "https://www.albawaba.com/business/pr/sap-solutions-and-microsoft-azure-combine-efforts-drive-forward-business-growth-across"
-webUrl: "https://www.albawaba.com/business/pr/sap-solutions-and-microsoft-azure-combine-efforts-drive-forward-business-growth-across"
-ampWebUrl: "https://www.albawaba.com/amp/business/pr/sap-solutions-and-microsoft-azure-combine-efforts-drive-forward-business-growth-across"
-cdnAmpWebUrl: "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/pr/sap-solutions-and-microsoft-azure-combine-efforts-drive-forward-business-growth-across"
+title: "BDO Expands its Managed Detection and Response Capabilities to Support Microsoft Azure Sentinel Clients and Becomes a Microsoft Intelligent Security Association Member"
+excerpt: "BDO USA, LLP, one of the nation’s leading accounting and advisory firms, is launching its managed detection and response (MDR) capabilities on Microso"
+publishedDateTime: 2020-10-26T21:22:00Z
+originalUrl: "https://www.businesswire.com/news/home/20201026005033/en/"
+webUrl: "https://www.businesswire.com/news/home/20201026005033/en/"
 type: article
-quality: 34
+quality: 6
 heat: -1
 published: false
 
 provider:
-  name: Al Bawaba News
-  domain: albawaba.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - Azure
+  - Security
 
 images:
-  - url: "https://www.albawaba.com/sites/default/files/styles/default/public/2020-10/Final%20Image%20-%20SAP%20MS.png?itok=hCQafSRC"
-    width: 960
-    height: 502
+  - url: "https://mms.businesswire.com/media/20201026005033/en/832810/23/2018_Logo.jpg"
+    width: 1200
+    height: 627
     isCached: true
 
 related:
@@ -129,6 +128,22 @@ related:
       name: Zawya
       domain: zawya.com
     quality: 37
+  - title: "SAP Solutions and Microsoft Azure Combine Efforts To Drive Forward Business Growth Across the Middle East and Africa"
+    excerpt: "... of SAP workloads in the UAE data centre region at the Middle East and Africa Edition of the SAP Solutions on Microsoft Azure Virtual Event. Microsoft announced the availability of SAP workloads in the UAE data centre region at the Middle East and ..."
+    publishedDateTime: 2020-10-26T09:47:00Z
+    webUrl: "https://www.albawaba.com/business/pr/sap-solutions-and-microsoft-azure-combine-efforts-drive-forward-business-growth-across"
+    ampWebUrl: "https://www.albawaba.com/amp/business/pr/sap-solutions-and-microsoft-azure-combine-efforts-drive-forward-business-growth-across"
+    cdnAmpWebUrl: "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/pr/sap-solutions-and-microsoft-azure-combine-efforts-drive-forward-business-growth-across"
+    type: article
+    provider:
+      name: Al Bawaba News
+      domain: albawaba.com
+    quality: 34
+    images:
+      - url: "https://www.albawaba.com/sites/default/files/styles/default/public/2020-10/Final%20Image%20-%20SAP%20MS.png?itok=hCQafSRC"
+        width: 960
+        height: 502
+        isCached: true
   - title: "Microsoft Azure: The Winning Formula"
     excerpt: "Microsoft's Azure platform registered a 59% revenue growth in the last quarter, fueling concerns of a slowdown and suggesting its losing ground to Amazon's AWS."
     publishedDateTime: 2020-05-28T12:36:00Z
@@ -138,21 +153,7 @@ related:
       name: Seeking Alpha
       domain: seekingalpha.com
     quality: 17
-  - title: "BDO Expands its Managed Detection and Response Capabilities to Support Microsoft Azure Sentinel Clients and Becomes a Microsoft Intelligent Security Association Member"
-    excerpt: "BDO USA, LLP, one of the nation’s leading accounting and advisory firms, is launching its managed detection and response (MDR) capabilities on Microso"
-    publishedDateTime: 2020-10-26T21:22:00Z
-    webUrl: "https://www.businesswire.com/news/home/20201026005033/en/"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 6
-    images:
-      - url: "https://mms.businesswire.com/media/20201026005033/en/832810/23/2018_Logo.jpg"
-        width: 1200
-        height: 627
-        isCached: true
 
-secured: "I2m7OY+2VtrjXv8GkeETUgEAUM00DJN+CLtBMxijsqvgihUE6qMHM+LSzdho5UhToEY4u7k4fEkV7GE6CQhceM8YVkwcFkiCir0FQPoI6e01xz025isggMMPAgvEiA15c3aH3o/xHYkcpdvngDTP7Q8DpHsAxeFJXBVk6I0A/qc1dg9koV2DoJAMPaE/GLwDpZqHbuS3shwG1KrTFVUubbV8lsCv0OAg0/P1an+tKo+yySUXCvyck72nUzenRQYK/7rviuUuANHpLFeXMyXJE9xd7kEdCgp97yxGepha6GSsfMIEGGjus32omMjRbBcUzDglO1/XbaPoiCGPmibHY/ri8Y+vDU/wD4V5/MkYZPg=;9dgjYnomlLHMtTSDdS5rcg=="
+secured: "ICMJd9takYxBUfgrzMncrMtdxyuDvdWmtYJZT9AV4+pVGautpeH67tGDJQhArN8olrd4rqKWdlN71gaExA/kmEUdVusSYJnMEKymMrthA5tzmw4MK9o7Xaml6FLUMKE35Gpxec3UgiwQdcM+N2MCFnLDzCgEt44syWBTNsMoU+ERaWnIAsaeKfFtXvsOHqBxjgOcbQ+b9fqEjZRH9SrP4EtyVyDoDZtyuYGqlESorKcIlt8HER/dL1zjLBk0Ytl/M3gd/7LkFbyTd6WPuCbOq/svp37qk/LpFQlqaarDnl4TdH6tC6WiSemcH99wCRQSksLGnQdHfavPyeLUv9tpaNWC56QhExBumzsgjHlGHKA=;l3fzhl9GBYlD0y+hJoyS4w=="
 ---
 
