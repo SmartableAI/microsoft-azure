@@ -138,6 +138,22 @@ related:
         width: 770
         height: 285
         isCached: true
+  - title: "SAP Solutions and Microsoft Azure Combine Efforts To Drive Forward Business Growth Across the Middle East and Africa"
+    excerpt: "... of SAP workloads in the UAE data centre region at the Middle East and Africa Edition of the SAP Solutions on Microsoft Azure Virtual Event. Microsoft announced the availability of SAP workloads in the UAE data centre region at the Middle East and ..."
+    publishedDateTime: 2020-10-26T09:47:00Z
+    webUrl: "https://www.albawaba.com/business/pr/sap-solutions-and-microsoft-azure-combine-efforts-drive-forward-business-growth-across"
+    ampWebUrl: "https://www.albawaba.com/amp/business/pr/sap-solutions-and-microsoft-azure-combine-efforts-drive-forward-business-growth-across"
+    cdnAmpWebUrl: "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/pr/sap-solutions-and-microsoft-azure-combine-efforts-drive-forward-business-growth-across"
+    type: article
+    provider:
+      name: Al Bawaba News
+      domain: albawaba.com
+    quality: 34
+    images:
+      - url: "https://www.albawaba.com/sites/default/files/styles/default/public/2020-10/Final%20Image%20-%20SAP%20MS.png?itok=hCQafSRC"
+        width: 960
+        height: 502
+        isCached: true
   - title: "BCG and Microsoft Collaborate to Launch BCG's Catalyst Cloud Solution on Azure, a New Scalable and Extensible Data Platform for the Bionic Corporation"
     excerpt: "PRNewswire/ -- Boston Consulting Group (BCG) today announced the launch of the Catalyst Cloud data platform by BCG, powered by Microsoft Azure."
     publishedDateTime: 2020-10-26T04:01:00Z

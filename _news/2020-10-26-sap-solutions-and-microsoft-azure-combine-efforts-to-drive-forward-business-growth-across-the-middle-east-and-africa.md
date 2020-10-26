@@ -1,26 +1,28 @@
 ---
 category: news
-title: "BCG and Microsoft Collaborate to Launch BCG's Catalyst Cloud Solution on Azure, a New Scalable and Extensible Data Platform for the Bionic Corporation"
-excerpt: "PRNewswire/ -- Boston Consulting Group (BCG) today announced the launch of the Catalyst Cloud data platform by BCG, powered by Microsoft Azure."
-publishedDateTime: 2020-10-26T04:01:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/bcg-and-microsoft-collaborate-to-launch-bcgs-catalyst-cloud-solution-on-azure-a-new-scalable-and-extensible-data-platform-for-the-bionic-corporation-301159150.html"
-webUrl: "https://www.prnewswire.com/news-releases/bcg-and-microsoft-collaborate-to-launch-bcgs-catalyst-cloud-solution-on-azure-a-new-scalable-and-extensible-data-platform-for-the-bionic-corporation-301159150.html"
+title: "SAP Solutions and Microsoft Azure Combine Efforts To Drive Forward Business Growth Across the Middle East and Africa"
+excerpt: "... of SAP workloads in the UAE data centre region at the Middle East and Africa Edition of the SAP Solutions on Microsoft Azure Virtual Event. Microsoft announced the availability of SAP workloads in the UAE data centre region at the Middle East and ..."
+publishedDateTime: 2020-10-26T09:47:00Z
+originalUrl: "https://www.albawaba.com/business/pr/sap-solutions-and-microsoft-azure-combine-efforts-drive-forward-business-growth-across"
+webUrl: "https://www.albawaba.com/business/pr/sap-solutions-and-microsoft-azure-combine-efforts-drive-forward-business-growth-across"
+ampWebUrl: "https://www.albawaba.com/amp/business/pr/sap-solutions-and-microsoft-azure-combine-efforts-drive-forward-business-growth-across"
+cdnAmpWebUrl: "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/pr/sap-solutions-and-microsoft-azure-combine-efforts-drive-forward-business-growth-across"
 type: article
-quality: 0
+quality: 34
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Al Bawaba News
+  domain: albawaba.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://mma.prnewswire.com/media/798393/Boston_Consulting_Group_Logo.jpg?p=facebook"
-    width: 756
-    height: 396
+  - url: "https://www.albawaba.com/sites/default/files/styles/default/public/2020-10/Final%20Image%20-%20SAP%20MS.png?itok=hCQafSRC"
+    width: 960
+    height: 502
     isCached: true
 
 related:
@@ -152,23 +154,21 @@ related:
         width: 770
         height: 285
         isCached: true
-  - title: "SAP Solutions and Microsoft Azure Combine Efforts To Drive Forward Business Growth Across the Middle East and Africa"
-    excerpt: "... of SAP workloads in the UAE data centre region at the Middle East and Africa Edition of the SAP Solutions on Microsoft Azure Virtual Event. Microsoft announced the availability of SAP workloads in the UAE data centre region at the Middle East and ..."
-    publishedDateTime: 2020-10-26T09:47:00Z
-    webUrl: "https://www.albawaba.com/business/pr/sap-solutions-and-microsoft-azure-combine-efforts-drive-forward-business-growth-across"
-    ampWebUrl: "https://www.albawaba.com/amp/business/pr/sap-solutions-and-microsoft-azure-combine-efforts-drive-forward-business-growth-across"
-    cdnAmpWebUrl: "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/pr/sap-solutions-and-microsoft-azure-combine-efforts-drive-forward-business-growth-across"
+  - title: "BCG and Microsoft Collaborate to Launch BCG's Catalyst Cloud Solution on Azure, a New Scalable and Extensible Data Platform for the Bionic Corporation"
+    excerpt: "PRNewswire/ -- Boston Consulting Group (BCG) today announced the launch of the Catalyst Cloud data platform by BCG, powered by Microsoft Azure."
+    publishedDateTime: 2020-10-26T04:01:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/bcg-and-microsoft-collaborate-to-launch-bcgs-catalyst-cloud-solution-on-azure-a-new-scalable-and-extensible-data-platform-for-the-bionic-corporation-301159150.html"
     type: article
     provider:
-      name: Al Bawaba News
-      domain: albawaba.com
-    quality: 34
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 0
     images:
-      - url: "https://www.albawaba.com/sites/default/files/styles/default/public/2020-10/Final%20Image%20-%20SAP%20MS.png?itok=hCQafSRC"
-        width: 960
-        height: 502
+      - url: "https://mma.prnewswire.com/media/798393/Boston_Consulting_Group_Logo.jpg?p=facebook"
+        width: 756
+        height: 396
         isCached: true
 
-secured: "TnKlns9jRPypa/TLJoitR085Q+dKioWtJUvUulBrFeZUMPmY74YTWSjPSEUv0jAJwl0XHqNZLn4RfzYjaHe3UWnRiRNsS2Ti07ZrX7GW+3lpbe23pDgq3mOx6vhp6uTPx8CAe5XReWphjbsBhQBRxyUsaU8sYk7K/WdzGzif+fK7YyNtBvZJlcSZNHgrd+12ZG06W+epjFnp4XvsTycSMxO/gH20lOPEC2GmZyyyZvQHA/XbQ8fvsRSCg/nBKll+EaN6WhRaBF23xvAaGymbuHKLbbWzvDKN0XBCLQoupRk6g0DWAzH0XBE9bgs8NJvcaXYPIVCwlLvP8NqGXAIwEKsUpPUQ6hyNTXSKC1ke3Ko=;wBi6JiYY+Lf+yNBdpU/V2Q=="
+secured: "I2m7OY+2VtrjXv8GkeETUgEAUM00DJN+CLtBMxijsqvgihUE6qMHM+LSzdho5UhToEY4u7k4fEkV7GE6CQhceM8YVkwcFkiCir0FQPoI6e01xz025isggMMPAgvEiA15c3aH3o/xHYkcpdvngDTP7Q8DpHsAxeFJXBVk6I0A/qc1dg9koV2DoJAMPaE/GLwDpZqHbuS3shwG1KrTFVUubbV8lsCv0OAg0/P1an+tKo+yySUXCvyck72nUzenRQYK/7rviuUuANHpLFeXMyXJE9xd7kEdCgp97yxGepha6GSsfMIEGGjus32omMjRbBcUzDglO1/XbaPoiCGPmibHY/ri8Y+vDU/wD4V5/MkYZPg=;9dgjYnomlLHMtTSDdS5rcg=="
 ---
 
