@@ -143,6 +143,20 @@ related:
         width: 960
         height: 502
         isCached: true
+  - title: "Microsoft Introduces Azure Space to Further Push the Boundaries of Cloud Computing"
+    excerpt: "Recently Microsoft launched its Azure Space initiative as a further push of cloud computing towards space. This initiative by the public cloud vendor consists of several products and partnerships to position Azure as a critical player in the space- and ..."
+    publishedDateTime: 2020-10-27T11:04:00Z
+    webUrl: "https://www.infoq.com/news/2020/10/microsoft-introduce-azure-space/"
+    type: article
+    provider:
+      name: InfoQ
+      domain: infoq.com
+    quality: 31
+    images:
+      - url: "https://res.infoq.com/news/2020/10/microsoft-introduce-azure-space/en/headerimage/croppted-MS+Azure+Space-1603626900569.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Microsoft Azure: The Winning Formula"
     excerpt: "Microsoft's Azure platform registered a 59% revenue growth in the last quarter, fueling concerns of a slowdown and suggesting its losing ground to Amazon's AWS."
     publishedDateTime: 2020-05-28T12:36:00Z

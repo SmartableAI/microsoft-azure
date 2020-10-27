@@ -1,32 +1,26 @@
 ---
 category: news
-title: "Microsoft partners with SpaceX to connect Azure cloud to Musk's Starlink satellite internet"
-excerpt: "Microsoft is partnering with SpaceX to connect the tech giant's Azure cloud computing network to the growing Starlink satellite internet."
-publishedDateTime: 2020-10-20T21:14:00Z
-originalUrl: "https://www.cnbc.com/2020/10/20/microsoft-expands-its-space-business-pairing-its-azure-cloud-with-spacexs-starlink-internet.html"
-webUrl: "https://www.cnbc.com/2020/10/20/microsoft-expands-its-space-business-pairing-its-azure-cloud-with-spacexs-starlink-internet.html"
-ampWebUrl: "https://www.cnbc.com/amp/2020/10/20/microsoft-expands-its-space-business-pairing-its-azure-cloud-with-spacexs-starlink-internet.html"
-cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/10/20/microsoft-expands-its-space-business-pairing-its-azure-cloud-with-spacexs-starlink-internet.html"
+title: "Microsoft Introduces Azure Space to Further Push the Boundaries of Cloud Computing"
+excerpt: "Recently Microsoft launched its Azure Space initiative as a further push of cloud computing towards space. This initiative by the public cloud vendor consists of several products and partnerships to position Azure as a critical player in the space- and ..."
+publishedDateTime: 2020-10-27T11:04:00Z
+originalUrl: "https://www.infoq.com/news/2020/10/microsoft-introduce-azure-space/"
+webUrl: "https://www.infoq.com/news/2020/10/microsoft-introduce-azure-space/"
 type: article
-quality: 87
+quality: 31
 heat: -1
 published: false
 
 provider:
-  name: CNBC
-  domain: cnbc.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/cnbc.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: InfoQ
+  domain: infoq.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://image.cnbcfm.com/api/v1/image/106689529-1599138903852-starlink_satellites_screenshot.png?v=1599138942"
-    width: 1494
-    height: 889
+  - url: "https://res.infoq.com/news/2020/10/microsoft-introduce-azure-space/en/headerimage/croppted-MS+Azure+Space-1603626900569.jpg"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -45,6 +39,22 @@ related:
       - url: "https://tr1.cbsistatic.com/hub/i/r/2020/10/21/b3efc5c0-cb29-4978-996c-ee0369b1ddde/thumbnail/1200x675/29928a2a0d592f1e74b89a88e9dee284/oculus-quest2.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Microsoft partners with SpaceX to connect Azure cloud to Musk's Starlink satellite internet"
+    excerpt: "Microsoft is partnering with SpaceX to connect the tech giant's Azure cloud computing network to the growing Starlink satellite internet."
+    publishedDateTime: 2020-10-20T21:14:00Z
+    webUrl: "https://www.cnbc.com/2020/10/20/microsoft-expands-its-space-business-pairing-its-azure-cloud-with-spacexs-starlink-internet.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2020/10/20/microsoft-expands-its-space-business-pairing-its-azure-cloud-with-spacexs-starlink-internet.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/10/20/microsoft-expands-its-space-business-pairing-its-azure-cloud-with-spacexs-starlink-internet.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 87
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106689529-1599138903852-starlink_satellites_screenshot.png?v=1599138942"
+        width: 1494
+        height: 889
         isCached: true
   - title: "AZ 120 Exam Questions Released for Microsoft Azure for SAP Workloads"
     excerpt: "Azure SAP workloads certification held incredibly great importance in today's world. It is a rapidly emerging and growing industry that had set its roots in every"
@@ -133,20 +143,6 @@ related:
         width: 960
         height: 502
         isCached: true
-  - title: "Microsoft Introduces Azure Space to Further Push the Boundaries of Cloud Computing"
-    excerpt: "Recently Microsoft launched its Azure Space initiative as a further push of cloud computing towards space. This initiative by the public cloud vendor consists of several products and partnerships to position Azure as a critical player in the space- and ..."
-    publishedDateTime: 2020-10-27T11:04:00Z
-    webUrl: "https://www.infoq.com/news/2020/10/microsoft-introduce-azure-space/"
-    type: article
-    provider:
-      name: InfoQ
-      domain: infoq.com
-    quality: 31
-    images:
-      - url: "https://res.infoq.com/news/2020/10/microsoft-introduce-azure-space/en/headerimage/croppted-MS+Azure+Space-1603626900569.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Unisys CloudForte® for Microsoft Azure: Ease Complex Cloud Adoption for Governments"
     excerpt: "Learn how Unisys and Microsoft improve and optimize government services in the cloud through their digital transformation partnership."
     publishedDateTime: 2020-10-27T00:40:00Z
@@ -185,6 +181,6 @@ related:
         height: 627
         isCached: true
 
-secured: "Za9D3Q8SgKPz2hVdkAfh0G8/ol0VX6jvYkaX73WzpK9Oq1rsUGTkc5q3JvvB7LvGiO6AogjPrPjQRe1DPQo4Xr++VhJM1Fu5PDJVgFcJJL/ZzaEcFCegvzsbsLLN0m47XrPvRwsX/aAbo3RwrYF6MH7m0Lj5qOLwmwXGDrnEikSV+tLerxJHrhAQ6MkD2A7Bg8BFv0ktYTDfhqehmxkBSo+PtOdTHcT4j97DFtWAl1H9I8nAzZ2dfbM9WXUU2JUbW4oNB6P2JZdhe+3LA10nrjTjftbKoeUXIf6W2CBXQBhMEHh3hzOWfIyaiX7/uhYEPK77wFsTHjnt6h1H+J7e54jnjNTcxAFtACT1W6H0sr91kN7FDGSCpcAvULsptu5ufHdmhMVTL9zF07DSC9bKA95ibjaOdWcvUtMdvNJOYXzSHQ+MZiYiW3m0q9d5zdPgA2fCDXNbEY+kUmculliT6+OxUg+soP8dzNiVwreZfy0IkiTBHoGPkeRuauEpsj/3cK5a/YenJNBTGFcKVmaJ1w==;9UbvUiqTyNeQvhRtzhsvDA=="
+secured: "i3dE2Nbv5fbyw9k28CmB3S9Su+kvd48iwK93NrMDiuPAV9T5cfEZShAvtmMkqba3K9tvsvsILCFpJdVpggmGum3R4sVXGAVOiD7ob6MC/Ha52l6owXIeebRVylQxbDzvjG7eamy4J5/P+WppSdOrj42ukqkiPxIVrYtJ/WVe/8jxVIdcArbKZDcdlld89WqKdraiaTKeHkC1zhCA1zmrP4BXpwUf/AmNYVA6/aEUMMiVd4iIfjEwUNtDNztomUOMtYrSeHf4sFyNrOPWVGL/M1ZrN9zgGDSTVECSsxZKxFApZItPBpPZ+QEDqDayN5/jkw0lIjAyOeZFQdxqDNsifzsjiD20dpbHs6RSspP5D38=;fYSuzZ/JrZGfHzX1kZNUog=="
 ---
 
