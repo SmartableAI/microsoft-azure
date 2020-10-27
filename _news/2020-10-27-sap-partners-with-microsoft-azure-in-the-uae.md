@@ -1,17 +1,18 @@
 ---
 category: news
-title: "Microsoft Azure: The Winning Formula"
-excerpt: "Microsoft's Azure platform registered a 59% revenue growth in the last quarter, fueling concerns of a slowdown and suggesting its losing ground to Amazon's AWS."
-publishedDateTime: 2020-05-28T12:36:00Z
-webUrl: "https://seekingalpha.com/article/4350303-microsoft-azure-winning-formula"
+title: "SAP partners with Microsoft Azure in the UAE"
+excerpt: "The statement was made at the Middle East and Africa Edition of the SAP Solutions on Microsoft Azure Virtual Event. The goal is to boost the cloud ecosystem in the region by empowering organizations to run their SAP workloads on Microsoft Azure."
+publishedDateTime: 2020-10-27T12:46:00Z
+originalUrl: "https://www.telecompaper.com/news/sap-partners-with-microsoft-azure-in-the-uae--1359243"
+webUrl: "https://www.telecompaper.com/news/sap-partners-with-microsoft-azure-in-the-uae--1359243"
 type: article
 quality: 17
 heat: -1
 published: false
 
 provider:
-  name: Seeking Alpha
-  domain: seekingalpha.com
+  name: Telecompaper
+  domain: telecompaper.com
 
 topics:
   - Azure
@@ -178,14 +179,14 @@ related:
         width: 296
         height: 220
         isCached: true
-  - title: "SAP partners with Microsoft Azure in the UAE"
-    excerpt: "The statement was made at the Middle East and Africa Edition of the SAP Solutions on Microsoft Azure Virtual Event. The goal is to boost the cloud ecosystem in the region by empowering organizations to run their SAP workloads on Microsoft Azure."
-    publishedDateTime: 2020-10-27T12:46:00Z
-    webUrl: "https://www.telecompaper.com/news/sap-partners-with-microsoft-azure-in-the-uae--1359243"
+  - title: "Microsoft Azure: The Winning Formula"
+    excerpt: "Microsoft's Azure platform registered a 59% revenue growth in the last quarter, fueling concerns of a slowdown and suggesting its losing ground to Amazon's AWS."
+    publishedDateTime: 2020-05-28T12:36:00Z
+    webUrl: "https://seekingalpha.com/article/4350303-microsoft-azure-winning-formula"
     type: article
     provider:
-      name: Telecompaper
-      domain: telecompaper.com
+      name: Seeking Alpha
+      domain: seekingalpha.com
     quality: 17
   - title: "BDO Expands its Managed Detection and Response Capabilities to Support Microsoft Azure Sentinel Clients and Becomes a Microsoft Intelligent Security Association Member"
     excerpt: "BDO USA, LLP, one of the nation’s leading accounting and advisory firms, is launching its managed detection and response (MDR) capabilities on Microso"
@@ -202,6 +203,6 @@ related:
         height: 627
         isCached: true
 
-secured: "ju0224r1H9JrROaqHNEsxTsLadH9PomDP/pHikhkUrlCAyus3hAdojx4S50ToPJTAwKSCL5xoaAOZDmw/l5KszWCPWljPt2Ce521nPmCnBUhZ5uddEnV2BsxSRt+LKYcC++jSrtBr8MxbE0gmohMlA7IespYbwrtcWXp7msbH/fdpcsvB4B3oCh973TjyQciFDCfwCSjj05x2OGkQ1iBIyb6tjkuVbgPtrPQre+6RXsqA89E4YBMUYFNL74y/xL028hKo6E7xeyAWH0Wys/u2cGM0c5B4ar4qKUhNnMMU5iT1BaGOcF8DXeXF3CIBCBgRppSgIZuSv9muXplHAX0UpQCal9uJvsN8hjx3kiEsjeuwQlb+hk0/WuAkHHCaqIY27McjI6lMxaXaN6zxsGIksJnZA2+GN6L62ah6kKGcIZaTALWwvAsUoXhh3r8I78PpfsA2zx4nePob/dKGpnccF7bLE7Iq0KHDY5FsbLZUrU=;nuSdZAZi2MOc1F0duaYK+A=="
+secured: "86CHXUM3kxQ/UjdQWyPmtJZ+WqALCiYfjaGDdIeuZ8V/SUl3qF2Dok7gQ+XkfMQOGtWcUjqxu909jgUmupxn0+ttOVxG4Ck+/ruq9m1BoIg/ph9tB7ygDJ4W4DwFLgXd5mNT+dVB8Ytot6xCSbQtJYdpQ85CxokgrbAmbGp/ED9IfS022I5Y1LDynOY8o7UlCHWhTKuNN2x+tri0m3niGqnjCCmsddlHhqfyjY218Fv6NgVykMk2ESDp2DWUOxJtQnb8OFVLkJ6SH7roCfCG1T4y91zgXM72+wxNUO6etquXlqH37cn1EXIRDBX9pSBqo91OrmTWjmTzV/4dw13pUmLGMU051sVyAMU7xNSZXwg=;fZRxMKhyMIeWaRbY7FhFDg=="
 ---
 

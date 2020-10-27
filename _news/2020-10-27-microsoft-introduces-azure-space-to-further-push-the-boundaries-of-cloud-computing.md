@@ -143,6 +143,20 @@ related:
         width: 960
         height: 502
         isCached: true
+  - title: "Qualys Extends Integration with Microsoft Azure Defender to On-Premises and Multi-Cloud with Microsoft Azure Arc"
+    excerpt: "\"Extending our collaboration uniquely allows us to deliver built-in security to Azure customers, so they can easily secure their hybrid cloud environments in one click.\" Microsoft announced the general availability of Azure Arc enabled servers and public ..."
+    publishedDateTime: 2020-10-27T13:04:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/qualys-extends-integration-with-microsoft-azure-defender-to-on-premises-and-multi-cloud-with-microsoft-azure-arc-301159984.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 33
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
+        isCached: true
   - title: "Unisys CloudForte® for Microsoft Azure: Ease Complex Cloud Adoption for Governments"
     excerpt: "Learn how Unisys and Microsoft improve and optimize government services in the cloud through their digital transformation partnership."
     publishedDateTime: 2020-10-27T00:40:00Z
@@ -166,6 +180,15 @@ related:
       name: Seeking Alpha
       domain: seekingalpha.com
     quality: 17
+  - title: "SAP partners with Microsoft Azure in the UAE"
+    excerpt: "The statement was made at the Middle East and Africa Edition of the SAP Solutions on Microsoft Azure Virtual Event. The goal is to boost the cloud ecosystem in the region by empowering organizations to run their SAP workloads on Microsoft Azure."
+    publishedDateTime: 2020-10-27T12:46:00Z
+    webUrl: "https://www.telecompaper.com/news/sap-partners-with-microsoft-azure-in-the-uae--1359243"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 17
   - title: "BDO Expands its Managed Detection and Response Capabilities to Support Microsoft Azure Sentinel Clients and Becomes a Microsoft Intelligent Security Association Member"
     excerpt: "BDO USA, LLP, one of the nation’s leading accounting and advisory firms, is launching its managed detection and response (MDR) capabilities on Microso"
     publishedDateTime: 2020-10-26T21:22:00Z
@@ -181,6 +204,6 @@ related:
         height: 627
         isCached: true
 
-secured: "i3dE2Nbv5fbyw9k28CmB3S9Su+kvd48iwK93NrMDiuPAV9T5cfEZShAvtmMkqba3K9tvsvsILCFpJdVpggmGum3R4sVXGAVOiD7ob6MC/Ha52l6owXIeebRVylQxbDzvjG7eamy4J5/P+WppSdOrj42ukqkiPxIVrYtJ/WVe/8jxVIdcArbKZDcdlld89WqKdraiaTKeHkC1zhCA1zmrP4BXpwUf/AmNYVA6/aEUMMiVd4iIfjEwUNtDNztomUOMtYrSeHf4sFyNrOPWVGL/M1ZrN9zgGDSTVECSsxZKxFApZItPBpPZ+QEDqDayN5/jkw0lIjAyOeZFQdxqDNsifzsjiD20dpbHs6RSspP5D38=;fYSuzZ/JrZGfHzX1kZNUog=="
+secured: "nXt+Xmk2xAIpJ6lT8V6Dl+yj9ywiVP27caZFIIlUMZsFbKH9DoKdAPMhLVExZ3sQNKUxljYp6JHM+A4rMCj0ZlHOAaHToLYO4LBZOycsleJF9g3Lul4lW9Bm6steQrsjGqBRyVDsa985gPa1SjBLRaxG9kVe9kMWRb4JvnPeZM3BKHcZiHz/8ZvtkjML578n+btchABzh51Eiq2bWx/gzRXbcjNMZbPLiX8qlK87Nm5Qj9rXjdzyYZeQc9RPnPFTgEJscaUl/IZT8oBuyMslW8PIJGHIZByV0MRvaKbcK79sLn1Uyv3QbH1sJJUtNQIug97E0mMnQ1fUVDyhL2gd9m65tICTzP6WUvaD/L3BD8EMlswqGhxns1+tstvSaz+zmUNfAAlTLlBgFPewB34hyen4gxJnwlLHyD683nJUKLni/SUJOfKT/Oo8lmoNs+pMHa3maQyfht2rBpgI99UOadpoi568g6ldNzTxR/hZQBfFdsA2JKAUuFRlh745t+2eBXdJudxwhDRkpMaX9ti8uA==;/g00x4hob1iwBMYI5k2k6Q=="
 ---
 

@@ -128,6 +128,20 @@ related:
         width: 960
         height: 502
         isCached: true
+  - title: "Qualys Extends Integration with Microsoft Azure Defender to On-Premises and Multi-Cloud with Microsoft Azure Arc"
+    excerpt: "\"Extending our collaboration uniquely allows us to deliver built-in security to Azure customers, so they can easily secure their hybrid cloud environments in one click.\" Microsoft announced the general availability of Azure Arc enabled servers and public ..."
+    publishedDateTime: 2020-10-27T13:04:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/qualys-extends-integration-with-microsoft-azure-defender-to-on-premises-and-multi-cloud-with-microsoft-azure-arc-301159984.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 33
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
+        isCached: true
   - title: "Microsoft Introduces Azure Space to Further Push the Boundaries of Cloud Computing"
     excerpt: "Recently Microsoft launched its Azure Space initiative as a further push of cloud computing towards space. This initiative by the public cloud vendor consists of several products and partnerships to position Azure as a critical player in the space- and ..."
     publishedDateTime: 2020-10-27T11:04:00Z
@@ -164,6 +178,15 @@ related:
     provider:
       name: Seeking Alpha
       domain: seekingalpha.com
+    quality: 17
+  - title: "SAP partners with Microsoft Azure in the UAE"
+    excerpt: "The statement was made at the Middle East and Africa Edition of the SAP Solutions on Microsoft Azure Virtual Event. The goal is to boost the cloud ecosystem in the region by empowering organizations to run their SAP workloads on Microsoft Azure."
+    publishedDateTime: 2020-10-27T12:46:00Z
+    webUrl: "https://www.telecompaper.com/news/sap-partners-with-microsoft-azure-in-the-uae--1359243"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
     quality: 17
   - title: "BDO Expands its Managed Detection and Response Capabilities to Support Microsoft Azure Sentinel Clients and Becomes a Microsoft Intelligent Security Association Member"
     excerpt: "BDO USA, LLP, one of the nation’s leading accounting and advisory firms, is launching its managed detection and response (MDR) capabilities on Microso"

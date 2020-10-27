@@ -1,20 +1,28 @@
 ---
 category: news
-title: "Microsoft Azure: The Winning Formula"
-excerpt: "Microsoft's Azure platform registered a 59% revenue growth in the last quarter, fueling concerns of a slowdown and suggesting its losing ground to Amazon's AWS."
-publishedDateTime: 2020-05-28T12:36:00Z
-webUrl: "https://seekingalpha.com/article/4350303-microsoft-azure-winning-formula"
+title: "Qualys Extends Integration with Microsoft Azure Defender to On-Premises and Multi-Cloud with Microsoft Azure Arc"
+excerpt: "\"Extending our collaboration uniquely allows us to deliver built-in security to Azure customers, so they can easily secure their hybrid cloud environments in one click.\" Microsoft announced the general availability of Azure Arc enabled servers and public ..."
+publishedDateTime: 2020-10-27T13:04:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/qualys-extends-integration-with-microsoft-azure-defender-to-on-premises-and-multi-cloud-with-microsoft-azure-arc-301159984.html"
+webUrl: "https://www.prnewswire.com/news-releases/qualys-extends-integration-with-microsoft-azure-defender-to-on-premises-and-multi-cloud-with-microsoft-azure-arc-301159984.html"
 type: article
-quality: 17
+quality: 33
 heat: -1
 published: false
 
 provider:
-  name: Seeking Alpha
-  domain: seekingalpha.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Azure
+  - Integration
+
+images:
+  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+    width: 600
+    height: 315
+    isCached: true
 
 related:
   - title: "Microsoft Azure: This new technology allows you to manage Kubernetes containers across the hybrid cloud"
@@ -136,20 +144,6 @@ related:
         width: 960
         height: 502
         isCached: true
-  - title: "Qualys Extends Integration with Microsoft Azure Defender to On-Premises and Multi-Cloud with Microsoft Azure Arc"
-    excerpt: "\"Extending our collaboration uniquely allows us to deliver built-in security to Azure customers, so they can easily secure their hybrid cloud environments in one click.\" Microsoft announced the general availability of Azure Arc enabled servers and public ..."
-    publishedDateTime: 2020-10-27T13:04:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/qualys-extends-integration-with-microsoft-azure-defender-to-on-premises-and-multi-cloud-with-microsoft-azure-arc-301159984.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 33
-    images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
-        isCached: true
   - title: "Microsoft Introduces Azure Space to Further Push the Boundaries of Cloud Computing"
     excerpt: "Recently Microsoft launched its Azure Space initiative as a further push of cloud computing towards space. This initiative by the public cloud vendor consists of several products and partnerships to position Azure as a critical player in the space- and ..."
     publishedDateTime: 2020-10-27T11:04:00Z
@@ -178,6 +172,15 @@ related:
         width: 296
         height: 220
         isCached: true
+  - title: "Microsoft Azure: The Winning Formula"
+    excerpt: "Microsoft's Azure platform registered a 59% revenue growth in the last quarter, fueling concerns of a slowdown and suggesting its losing ground to Amazon's AWS."
+    publishedDateTime: 2020-05-28T12:36:00Z
+    webUrl: "https://seekingalpha.com/article/4350303-microsoft-azure-winning-formula"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 17
   - title: "SAP partners with Microsoft Azure in the UAE"
     excerpt: "The statement was made at the Middle East and Africa Edition of the SAP Solutions on Microsoft Azure Virtual Event. The goal is to boost the cloud ecosystem in the region by empowering organizations to run their SAP workloads on Microsoft Azure."
     publishedDateTime: 2020-10-27T12:46:00Z
@@ -202,6 +205,6 @@ related:
         height: 627
         isCached: true
 
-secured: "ju0224r1H9JrROaqHNEsxTsLadH9PomDP/pHikhkUrlCAyus3hAdojx4S50ToPJTAwKSCL5xoaAOZDmw/l5KszWCPWljPt2Ce521nPmCnBUhZ5uddEnV2BsxSRt+LKYcC++jSrtBr8MxbE0gmohMlA7IespYbwrtcWXp7msbH/fdpcsvB4B3oCh973TjyQciFDCfwCSjj05x2OGkQ1iBIyb6tjkuVbgPtrPQre+6RXsqA89E4YBMUYFNL74y/xL028hKo6E7xeyAWH0Wys/u2cGM0c5B4ar4qKUhNnMMU5iT1BaGOcF8DXeXF3CIBCBgRppSgIZuSv9muXplHAX0UpQCal9uJvsN8hjx3kiEsjeuwQlb+hk0/WuAkHHCaqIY27McjI6lMxaXaN6zxsGIksJnZA2+GN6L62ah6kKGcIZaTALWwvAsUoXhh3r8I78PpfsA2zx4nePob/dKGpnccF7bLE7Iq0KHDY5FsbLZUrU=;nuSdZAZi2MOc1F0duaYK+A=="
+secured: "9KJOrpPmgLIqY6nyVam6Y3p6sfJv64vtfeeQNVMGvmwRQSuUYtnpQhx1n8T3UV2ARFFhF+Uqjbi7Dk1t5hRnPt4depu4g+8CmGffuvZk/hqoHurdVBhh38gnUk6Ha/sFLWA4AGbm/hEwVhrhhlN15DVsYqJswUOw838JbLKdqKkTZ8vqZlUZt06vARKONAlRsM8q8x3Rhz8nLTUnTyFhyvVFVNTXm6FIHUjbBkjb/oggk+5H26bvfGWta4rcy2RxH43emxkFQCd36hcgtafH98crWhIeS62KqBJtIbhMwtif1ORQypyXfHPmI9/AZMHJzPrA7RqryKdNqRzwdmMoJ5RMwgLE5HrsAVPGPh5bR/0=;gxTVmVGUDgfzct/dDABT8Q=="
 ---
 
