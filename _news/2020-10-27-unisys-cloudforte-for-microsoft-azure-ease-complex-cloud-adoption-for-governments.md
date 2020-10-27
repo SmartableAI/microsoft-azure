@@ -2,17 +2,17 @@
 category: news
 title: "Unisys CloudForte® for Microsoft Azure: Ease Complex Cloud Adoption for Governments"
 excerpt: "Learn how Unisys and Microsoft improve and optimize government services in the cloud through their digital transformation partnership."
-publishedDateTime: 2020-10-26T23:58:00Z
-originalUrl: "https://www.csoonline.com/resources/209784/unisys-cloudforte-for-microsoft-azure-ease-complex-cloud-adoption-for-governments"
-webUrl: "https://www.csoonline.com/resources/209784/unisys-cloudforte-for-microsoft-azure-ease-complex-cloud-adoption-for-governments"
+publishedDateTime: 2020-10-27T00:40:00Z
+originalUrl: "https://www.networkworld.com/resources/209784/unisys-cloudforte-for-microsoft-azure-ease-complex-cloud-adoption-for-governments"
+webUrl: "https://www.networkworld.com/resources/209784/unisys-cloudforte-for-microsoft-azure-ease-complex-cloud-adoption-for-governments"
 type: article
 quality: 31
 heat: -1
 published: false
 
 provider:
-  name: CSOonline
-  domain: csoonline.com
+  name: Network World
+  domain: networkworld.com
 
 topics:
   - Azure
@@ -167,6 +167,6 @@ related:
         height: 627
         isCached: true
 
-secured: "3sj3+CLALGlNOvfvpaBs5rZ30QMID06e76ML+B48Yz4lDzGwDcJmCoVFNcQ0SI9CCc+b6/RRaeSijxZrS05+PDrs5Nt7hXmKe8Ah9olpYcdV/yep34QNg+u5n4JhwPcc7fbO+CgeAAkD4cLG7/AqUusk9hBKtoYtGtjUWzV+RViebxaOn/wPVQYocGZkkK/+lPukmCMwOfpZuJuFo37GGw33wv/y8MUcGUWX4xwatQGh8bJDvJ54F+jDyIZYEDEGKOARfvg2Yp0GN62QrHReDYcwseFSf6cS5cLsYDnN/pTpLwcp7qcUYO3vXK8YOayKNMeEWl4vVp0SQC6BiM37YxSczxDIpvdwXNSXdvD3zuM=;2a3D4KYYKD75vUnGj4RoDg=="
+secured: "NKL46weAAIclOzoysDpoi96RQWQC32V0KIX7ncsThiYdWDQCmOQa/tyJ4pUuiCnypO21UZuUvRvM71Q3Vloqhy5p91r+lHH4BGgepZfmn9Phc0WlpNez08j+X2G5prd4sD4qnKoP8Uoe2UZbsYoFeTgniaHzYC4nZuAAb0x1Kb37UY075S/lp88uri6DUYe3XahGvpRg9fSv5wT7gVgPxWDjurPIlln6derKA0oC/DLEsw5KUezLntxmfAuCAMWBVbGgnZGvUBcBdctMhbb/wMGVhUjfJ9y9MshhZUw/3Dj5s9XZ5GrOyMOrQqOTuljuwu5wvObzY5ZIYm9Me8b2AdlC/yafWmeye68TrNOt1Rs=;NkV4PJr+3OnwqmmMFe6KRg=="
 ---
 
