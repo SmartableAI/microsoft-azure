@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/microsoft-azure-this
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-azure-this-new-technology-allows-you-to-manage-kubernetes-containers-across-the-hybrid-cloud/"
 type: article
 quality: 113
-heat: 293
+heat: 313
 published: true
 
 provider:
@@ -133,6 +133,20 @@ related:
       - url: "https://www.albawaba.com/sites/default/files/styles/default/public/2020-10/Final%20Image%20-%20SAP%20MS.png?itok=hCQafSRC"
         width: 960
         height: 502
+        isCached: true
+  - title: "Unisys CloudForte® for Microsoft Azure: Ease Complex Cloud Adoption for Governments"
+    excerpt: "Learn how Unisys and Microsoft improve and optimize government services in the cloud through their digital transformation partnership."
+    publishedDateTime: 2020-10-26T23:58:00Z
+    webUrl: "https://www.csoonline.com/resources/209784/unisys-cloudforte-for-microsoft-azure-ease-complex-cloud-adoption-for-governments"
+    type: article
+    provider:
+      name: CSOonline
+      domain: csoonline.com
+    quality: 31
+    images:
+      - url: "https://images.idgesg.net/images/idge/imported/imageapi/2020/10/15/21/logo202-100862409-medium.3x2.jpg"
+        width: 296
+        height: 220
         isCached: true
   - title: "Microsoft Azure: The Winning Formula"
     excerpt: "Microsoft's Azure platform registered a 59% revenue growth in the last quarter, fueling concerns of a slowdown and suggesting its losing ground to Amazon's AWS."

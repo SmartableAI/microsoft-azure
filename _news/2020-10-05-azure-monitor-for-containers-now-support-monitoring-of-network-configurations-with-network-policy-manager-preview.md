@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/npm-ci-azmon/"
 webUrl: "https://azure.microsoft.com/en-us/updates/npm-ci-azmon/"
 type: article
 quality: 99
-heat: 141
+heat: 139
 published: true
 
 provider:

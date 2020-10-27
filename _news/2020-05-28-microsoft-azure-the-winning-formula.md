@@ -136,6 +136,20 @@ related:
         width: 960
         height: 502
         isCached: true
+  - title: "Unisys CloudForte® for Microsoft Azure: Ease Complex Cloud Adoption for Governments"
+    excerpt: "Learn how Unisys and Microsoft improve and optimize government services in the cloud through their digital transformation partnership."
+    publishedDateTime: 2020-10-26T23:58:00Z
+    webUrl: "https://www.csoonline.com/resources/209784/unisys-cloudforte-for-microsoft-azure-ease-complex-cloud-adoption-for-governments"
+    type: article
+    provider:
+      name: CSOonline
+      domain: csoonline.com
+    quality: 31
+    images:
+      - url: "https://images.idgesg.net/images/idge/imported/imageapi/2020/10/15/21/logo202-100862409-medium.3x2.jpg"
+        width: 296
+        height: 220
+        isCached: true
   - title: "BDO Expands its Managed Detection and Response Capabilities to Support Microsoft Azure Sentinel Clients and Becomes a Microsoft Intelligent Security Association Member"
     excerpt: "BDO USA, LLP, one of the nation’s leading accounting and advisory firms, is launching its managed detection and response (MDR) capabilities on Microso"
     publishedDateTime: 2020-10-26T21:22:00Z

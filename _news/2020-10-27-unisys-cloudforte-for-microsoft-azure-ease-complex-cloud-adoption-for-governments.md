@@ -1,28 +1,26 @@
 ---
 category: news
-title: "AZ 120 Exam Questions Released for Microsoft Azure for SAP Workloads"
-excerpt: "Azure SAP workloads certification held incredibly great importance in today's world. It is a rapidly emerging and growing industry that had set its roots in every"
-publishedDateTime: 2020-10-22T22:45:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/20/10/ab18026610/az-120-exam-questions-released-for-microsoft-azure-for-sap-workloads"
-webUrl: "https://www.benzinga.com/pressreleases/20/10/ab18026610/az-120-exam-questions-released-for-microsoft-azure-for-sap-workloads"
-ampWebUrl: "https://amp.benzinga.com/amp/content/18026610"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18026610"
+title: "Unisys CloudForte® for Microsoft Azure: Ease Complex Cloud Adoption for Governments"
+excerpt: "Learn how Unisys and Microsoft improve and optimize government services in the cloud through their digital transformation partnership."
+publishedDateTime: 2020-10-26T23:58:00Z
+originalUrl: "https://www.csoonline.com/resources/209784/unisys-cloudforte-for-microsoft-azure-ease-complex-cloud-adoption-for-governments"
+webUrl: "https://www.csoonline.com/resources/209784/unisys-cloudforte-for-microsoft-azure-ease-complex-cloud-adoption-for-governments"
 type: article
-quality: 57
+quality: 31
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: CSOonline
+  domain: csoonline.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://www.abnewswire.com/uploads/1603396615.png"
-    width: 1280
-    height: 720
+  - url: "https://images.idgesg.net/images/idge/imported/imageapi/2020/10/15/21/logo202-100862409-medium.3x2.jpg"
+    width: 296
+    height: 220
     isCached: true
 
 related:
@@ -57,6 +55,22 @@ related:
       - url: "https://image.cnbcfm.com/api/v1/image/106689529-1599138903852-starlink_satellites_screenshot.png?v=1599138942"
         width: 1494
         height: 889
+        isCached: true
+  - title: "AZ 120 Exam Questions Released for Microsoft Azure for SAP Workloads"
+    excerpt: "Azure SAP workloads certification held incredibly great importance in today's world. It is a rapidly emerging and growing industry that had set its roots in every"
+    publishedDateTime: 2020-10-22T22:45:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/10/ab18026610/az-120-exam-questions-released-for-microsoft-azure-for-sap-workloads"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/18026610"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18026610"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 57
+    images:
+      - url: "https://www.abnewswire.com/uploads/1603396615.png"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Microsoft’s Azure To Be Connected To SpaceX’s Starlink Satellite Internet"
     excerpt: "SpaceX launched 60 Starlink satellites on Sunday Microsoft launched Azure Orbital, to connect cloud services to satellites Jeff Bezos' cloud services already offer similar services Microsoft Azure’s cloud services will now be connected directly to SpaceX ..."
@@ -129,20 +143,6 @@ related:
         width: 960
         height: 502
         isCached: true
-  - title: "Unisys CloudForte® for Microsoft Azure: Ease Complex Cloud Adoption for Governments"
-    excerpt: "Learn how Unisys and Microsoft improve and optimize government services in the cloud through their digital transformation partnership."
-    publishedDateTime: 2020-10-26T23:58:00Z
-    webUrl: "https://www.csoonline.com/resources/209784/unisys-cloudforte-for-microsoft-azure-ease-complex-cloud-adoption-for-governments"
-    type: article
-    provider:
-      name: CSOonline
-      domain: csoonline.com
-    quality: 31
-    images:
-      - url: "https://images.idgesg.net/images/idge/imported/imageapi/2020/10/15/21/logo202-100862409-medium.3x2.jpg"
-        width: 296
-        height: 220
-        isCached: true
   - title: "Microsoft Azure: The Winning Formula"
     excerpt: "Microsoft's Azure platform registered a 59% revenue growth in the last quarter, fueling concerns of a slowdown and suggesting its losing ground to Amazon's AWS."
     publishedDateTime: 2020-05-28T12:36:00Z
@@ -167,6 +167,6 @@ related:
         height: 627
         isCached: true
 
-secured: "vglW32wY3+h2WeW889tbjE08elsuH/Vr3L/JErf690UI0NssSy+C/EvvQ7E7bNuBOK7AerHccTvewH6uf9dwOqSqR3fH+fct5FhhCOF+NQrJ0ipExbqubRCwWPmQi4XWDFtnKzmf7KA71fCwtZR08N55QYFc3HGuH88NUvXkPv33iqlsOTcaHnrFzeo853PjHRnzY0jTylPCp8mCsyup3K2bnN/BOktfW9vH23pdt+yhoSfHBS40tERRUOBjA7jG91BVeycB+z2xJh99yOS1kEGGfaQRQuj6tPkPrFMgofzO2VmdwPtKFlrobX3V1CmBTPPwCd6w5FYkgGfcFJiLQ0NT0ugRzuVbTaZyikcAgm9gjyaJVLeNT2zHKJz7ku+8pPbxJ1wvwSOHaYSyeN7qd9Gf7fHv0xafqBE8Eqn+ZmgL/QKpWU4yIyhS0V2/IlehjV5AHCo9R1smzVR/CZd3zKWSFZTxykA3aA5lbAdN28rzQfAFknpRUDfreiCACN7jeIKHVrzvLpfvA6a2N32zcA==;VNPMq6s9O7zB0jLFIMIeKw=="
+secured: "3sj3+CLALGlNOvfvpaBs5rZ30QMID06e76ML+B48Yz4lDzGwDcJmCoVFNcQ0SI9CCc+b6/RRaeSijxZrS05+PDrs5Nt7hXmKe8Ah9olpYcdV/yep34QNg+u5n4JhwPcc7fbO+CgeAAkD4cLG7/AqUusk9hBKtoYtGtjUWzV+RViebxaOn/wPVQYocGZkkK/+lPukmCMwOfpZuJuFo37GGw33wv/y8MUcGUWX4xwatQGh8bJDvJ54F+jDyIZYEDEGKOARfvg2Yp0GN62QrHReDYcwseFSf6cS5cLsYDnN/pTpLwcp7qcUYO3vXK8YOayKNMeEWl4vVp0SQC6BiM37YxSczxDIpvdwXNSXdvD3zuM=;2a3D4KYYKD75vUnGj4RoDg=="
 ---
 
