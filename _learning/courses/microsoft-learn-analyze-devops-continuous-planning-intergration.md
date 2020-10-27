@@ -8,7 +8,7 @@ length: PT22M
 ratings:
   count: 1411
   average: 4.7051735
-heat: 51
+heat: 59
 
 provider:
   name: Microsoft Learn
@@ -26,6 +26,6 @@ topics:
   - DevOps
   - Integration
 
-secured: "YEjJNkO8hIciEBRqH0PB8TQtfYf0oqDzq7XEEtHjXetdq2pyHarDMEFVHhpO3yXRCp3t6J0Al0J7wLO6pQ5MK4KkQlvU9iSV9tZYonZ0s24bz+OcWLNPZwHHyr8nRlzIpw+ZHgs5mIfRStLVa7Ob+FqqCSX+c01ndICsgr8wcvz1jJMmwzzM8+tbLtxFZDB1ZruZ057s4slazoOcplMHAmF5gbVaYyHzBNgkbJriOd72uE+o99N3MrWLZhRrguuoC5velBY31bga+LuU5zY5wVjkeB0c5dRTcLdsE5OPmw+vSn2cNDDIPlz52djFTneXz/TjSSpnbdMk5w6BuPcV4IpiGCHSgwSPWXOVIFVW2ONWCO9gW7oRbeYhWTjclo+OhFs28VuQEnw2tmCe1tluZUF6OIqCazde97tnKMaN2bU=;2KIX9L2jmQj0dU2zr1ZUUQ=="
+secured: "9zMXUwJFSqVbf+3uhp6y2eRC+EXtRRIqf4Lm5E5Lxq9AiUTVG8q9w0+xkjjLKfPbpdLGJ2Vhi2ubDG97dwmBzv1a6CW8u7gGjxjkRU72G5c3fCblJrBgRPuzYoYbrpCF/78eqnWBYwu/4vF+FKnDVW4nGbwDc7zZbHi1LKLy9+Bepl4AA49SkvArS4wX4hmpet/6mud6Sjm64bWmi/mbUFDe75RsQXwUPbryoGn8fvb6hcHTUiswrpDl/nVqL7tWr1v+5r1aHgwuZWio4GTEj6fDH2OccDIBpNebS8ETGN/l+i0FCasM2uwZuK9UpsMJR7VtHupvi512IF2BZUFyC1qEK1uDJXWlJ75SAnxtwQEeDvKWeccLXYnQfd59ysVKtrJGF+XuFYDiJzVzyNis7fXb6XY+9Jwb3wwJTtSbaQA=;KrAqrKZzQaLvf91iBAEbNA=="
 ---
 
