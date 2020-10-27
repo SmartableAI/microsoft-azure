@@ -22,33 +22,15 @@ topics:
   - Azure
 
 related:
-  - title: "App Service Private Endpoints now generally available"
-    excerpt: "Secure your line of business applications with Private Endpoints"
-    publishedDateTime: 2020-10-14T16:00:17Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/app-service-private-endpoints-ga/"
+  - title: "Policy to control the minimum TLS version used with Azure Storage now generally available"
+    excerpt: "Secure Azure Storage HTTPS connection with minimum TLS version via policy control."
+    publishedDateTime: 2020-10-27T20:52:06Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/policy-to-control-the-minimum-tls-version-used-with-azure-storage-now-generally-available/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 69
-  - title: "Azure App Service—.NET Core 3.1 is now generally available"
-    excerpt: ""
-    publishedDateTime: 2020-04-23T16:00:29Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-app-service-net-core-31-ga-on-app-service/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 17
-  - title: "Private endpoints for Azure File Sync are now generally available"
-    excerpt: "Starting with Azure File Sync agent 10.1, Azure File Sync supports private endpoints in all public and Azure US Government cloud regions where Azure File Sync is available."
-    publishedDateTime: 2020-07-09T21:00:12Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/private-endpoints-for-azure-file-sync-are-now-generally-available/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 17
+    quality: 75
 
 secured: "7AH8uHI1nMV9HZW4pY5gmViPdEtt5YNLYwEQJKjHMknjK93TeqNC4kWkdplij48E3kYGuLiR/VKcvZnmLBqU6jc1i2VyRFYl5EACkaOVTficXvpkyk8S/VTpWcXSXVmFBn0+ASCBLav4mW9NrX+VzTRPK+WhOwjU/BXbTrAPLqL4D5ZmojtULHxbzJNyQsl932mrOeUHpkbIIT07+K3iTF4u0xPxyuEtyPfarhKUybTgs5lYbUeANGDpTmKPh3005kv46OMzgDyJZg7iPWiAqSMusNq2xgwUrHlRbfB1OuZvBgxMsZDWorkupZv7fWzg7+vAxSYZBkepnrjVfRLU7zIjLPNIBbP58Yaim13iu24=;OiYstHfdZwTphgDB5KN5Vg=="
 ---

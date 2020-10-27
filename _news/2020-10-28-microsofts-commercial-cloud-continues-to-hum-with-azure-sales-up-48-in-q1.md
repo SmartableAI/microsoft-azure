@@ -1,27 +1,32 @@
 ---
 category: news
-title: "BDO Expands its Managed Detection and Response Capabilities to Support Microsoft Azure Sentinel Clients and Becomes a Microsoft Intelligent Security Association Member"
-excerpt: "BDO USA, LLP, one of the nation’s leading accounting and advisory firms, is launching its managed detection and response (MDR) capabilities on Microso"
-publishedDateTime: 2020-10-26T21:22:00Z
-originalUrl: "https://www.businesswire.com/news/home/20201026005033/en/"
-webUrl: "https://www.businesswire.com/news/home/20201026005033/en/"
+title: "Microsoft's commercial cloud continues to hum with Azure sales up 48% in Q1"
+excerpt: "Microsoft's first quarter sales fell short of expectations, but earnings were well ahead. Commercial cloud revenue was $15.2 billion, up 31% from a year ago. Commercial cloud reve"
+publishedDateTime: 2020-10-27T20:27:00Z
+originalUrl: "https://www.zdnet.com/article/microsofts-commercial-cloud-continues-to-hum-with-azure-sales-up-48-in-q1/"
+webUrl: "https://www.zdnet.com/article/microsofts-commercial-cloud-continues-to-hum-with-azure-sales-up-48-in-q1/"
+ampWebUrl: "https://www.zdnet.com/google-amp/article/microsofts-commercial-cloud-continues-to-hum-with-azure-sales-up-48-in-q1/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsofts-commercial-cloud-continues-to-hum-with-azure-sales-up-48-in-q1/"
 type: article
-quality: 6
+quality: 95
 heat: -1
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: ZDNet
+  domain: zdnet.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/zdnet.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
-  - Security
 
 images:
-  - url: "https://mms.businesswire.com/media/20201026005033/en/832810/23/2018_Logo.jpg"
-    width: 1200
-    height: 627
+  - url: "https://zdnet3.cbsistatic.com/hub/i/2020/10/27/f2859367-767a-4846-80ad-7c79912555ab/msft-commercial-cloud-q1-2021.png"
+    width: 863
+    height: 491
     isCached: true
 
 related:
@@ -40,22 +45,6 @@ related:
       - url: "https://tr1.cbsistatic.com/hub/i/r/2020/10/21/b3efc5c0-cb29-4978-996c-ee0369b1ddde/thumbnail/1200x675/29928a2a0d592f1e74b89a88e9dee284/oculus-quest2.jpg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Microsoft's commercial cloud continues to hum with Azure sales up 48% in Q1"
-    excerpt: "Microsoft's first quarter sales fell short of expectations, but earnings were well ahead. Commercial cloud revenue was $15.2 billion, up 31% from a year ago. Commercial cloud reve"
-    publishedDateTime: 2020-10-27T20:27:00Z
-    webUrl: "https://www.zdnet.com/article/microsofts-commercial-cloud-continues-to-hum-with-azure-sales-up-48-in-q1/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsofts-commercial-cloud-continues-to-hum-with-azure-sales-up-48-in-q1/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsofts-commercial-cloud-continues-to-hum-with-azure-sales-up-48-in-q1/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 95
-    images:
-      - url: "https://zdnet3.cbsistatic.com/hub/i/2020/10/27/f2859367-767a-4846-80ad-7c79912555ab/msft-commercial-cloud-q1-2021.png"
-        width: 863
-        height: 491
         isCached: true
   - title: "Microsoft partners with SpaceX to connect Azure cloud to Musk's Starlink satellite internet"
     excerpt: "Microsoft is partnering with SpaceX to connect the tech giant's Azure cloud computing network to the growing Starlink satellite internet."
@@ -234,7 +223,21 @@ related:
       name: Telecompaper
       domain: telecompaper.com
     quality: 17
+  - title: "BDO Expands its Managed Detection and Response Capabilities to Support Microsoft Azure Sentinel Clients and Becomes a Microsoft Intelligent Security Association Member"
+    excerpt: "BDO USA, LLP, one of the nation’s leading accounting and advisory firms, is launching its managed detection and response (MDR) capabilities on Microso"
+    publishedDateTime: 2020-10-26T21:22:00Z
+    webUrl: "https://www.businesswire.com/news/home/20201026005033/en/"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 6
+    images:
+      - url: "https://mms.businesswire.com/media/20201026005033/en/832810/23/2018_Logo.jpg"
+        width: 1200
+        height: 627
+        isCached: true
 
-secured: "ICMJd9takYxBUfgrzMncrMtdxyuDvdWmtYJZT9AV4+pVGautpeH67tGDJQhArN8olrd4rqKWdlN71gaExA/kmEUdVusSYJnMEKymMrthA5tzmw4MK9o7Xaml6FLUMKE35Gpxec3UgiwQdcM+N2MCFnLDzCgEt44syWBTNsMoU+ERaWnIAsaeKfFtXvsOHqBxjgOcbQ+b9fqEjZRH9SrP4EtyVyDoDZtyuYGqlESorKcIlt8HER/dL1zjLBk0Ytl/M3gd/7LkFbyTd6WPuCbOq/svp37qk/LpFQlqaarDnl4TdH6tC6WiSemcH99wCRQSksLGnQdHfavPyeLUv9tpaNWC56QhExBumzsgjHlGHKA=;l3fzhl9GBYlD0y+hJoyS4w=="
+secured: "3FrFhgL+khLTY6OaRS6fZhlvrn3y2PSInbXnbQoZAZH20C6IyD5apPyVJQsQ6Ej41AhR5/h9DzkyoSe2bguEzWvsgz27xlQuTGjf+bXbRUxFwZsyQNuHCTMr7s6hpfQme7U7pGatnbmFxa5VndhJTbKm9SchO7O5LIKBcKoOWKgFlBaMF6g5rMVgrh50Ph+nqRk8JIh2oEuuy/CvDORWj3L7vXOW+eZd4Y/QoS3MfyGOBjuYb2P5geAarqcdeI8PCQHLLEJFvk9BmiwzwZj3BIYxH8JUrDnq54xfhv1T0dxodosxz340z4NSnlFLsUhqtSK2mwcxnwXxyxHRWjE7co3sO8Zr0tfTdRTT6XGOOY0=;spSCLrS388qJAqcBKPMc3A=="
 ---
 

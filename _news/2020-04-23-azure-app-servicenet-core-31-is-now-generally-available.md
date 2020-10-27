@@ -30,15 +30,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 69
-  - title: "Increased functionalities to 1-click on Azure Data Explorer is now generally available"
-    excerpt: "1-click capabilities for intuitive semi-automatic table and ingestion experiences in Azure Data Explorer is generally available."
-    publishedDateTime: 2020-10-21T21:37:32Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-data-explorer-1click-is-now-in-general-availability/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 59
   - title: "Private endpoints for Azure File Sync are now generally available"
     excerpt: "Starting with Azure File Sync agent 10.1, Azure File Sync supports private endpoints in all public and Azure US Government cloud regions where Azure File Sync is available."
     publishedDateTime: 2020-07-09T21:00:12Z

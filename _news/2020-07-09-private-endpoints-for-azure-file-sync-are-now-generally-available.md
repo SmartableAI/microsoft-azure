@@ -30,15 +30,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 69
-  - title: "Increased functionalities to 1-click on Azure Data Explorer is now generally available"
-    excerpt: "1-click capabilities for intuitive semi-automatic table and ingestion experiences in Azure Data Explorer is generally available."
-    publishedDateTime: 2020-10-21T21:37:32Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-data-explorer-1click-is-now-in-general-availability/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 59
   - title: "Azure App Service—.NET Core 3.1 is now generally available"
     excerpt: ""
     publishedDateTime: 2020-04-23T16:00:29Z
