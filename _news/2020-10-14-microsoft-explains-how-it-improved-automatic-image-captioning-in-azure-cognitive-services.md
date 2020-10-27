@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/10/14/microsoft-explains-how-it-improve
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/14/microsoft-explains-how-it-improved-automatic-image-captioning-in-azure-cognitive-services/amp/"
 type: article
 quality: 120
-heat: 1200
+heat: 1220
 published: true
 
 provider:
@@ -207,6 +207,22 @@ related:
       name: Digital Trends
       domain: digitaltrends.com
     quality: 77
+  - title: "Microsoft Azure Synapse Raises the Data Management Bar"
+    excerpt: "Microsoft's refinements to its Azure Synapse platform should prove handy for professionals with on-demand analysis needs. First some basics on what Azure Synapse is. Azure Synapse is an analytics ..."
+    publishedDateTime: 2020-10-09T00:00:00Z
+    webUrl: "https://www.cmswire.com/digital-marketing/microsoft-azure-synapse-raises-the-data-management-bar/"
+    ampWebUrl: "https://www.cmswire.com/digital-marketing/microsoft-azure-synapse-raises-the-data-management-bar/amp/"
+    cdnAmpWebUrl: "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/digital-marketing/microsoft-azure-synapse-raises-the-data-management-bar/amp/"
+    type: article
+    provider:
+      name: CMS Wire
+      domain: cmswire.com
+    quality: 74
+    images:
+      - url: "https://www.cmswire.com/-/media/882e9d6b9f3c4eb082dd739d9a12cceb.ashx?mw=1024"
+        width: 640
+        height: 480
+        isCached: true
   - title: "Microsoft cloud services outages continue into week two"
     excerpt: "Microsoft's cloud services problems are continuing this week with more Azure and Microsoft 365 services issues for some customers. Here's what's happened and why."
     publishedDateTime: 2020-10-07T21:19:00Z

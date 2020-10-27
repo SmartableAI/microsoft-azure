@@ -216,6 +216,22 @@ related:
       name: Digital Trends
       domain: digitaltrends.com
     quality: 77
+  - title: "Microsoft Azure Synapse Raises the Data Management Bar"
+    excerpt: "Microsoft's refinements to its Azure Synapse platform should prove handy for professionals with on-demand analysis needs. First some basics on what Azure Synapse is. Azure Synapse is an analytics ..."
+    publishedDateTime: 2020-10-09T00:00:00Z
+    webUrl: "https://www.cmswire.com/digital-marketing/microsoft-azure-synapse-raises-the-data-management-bar/"
+    ampWebUrl: "https://www.cmswire.com/digital-marketing/microsoft-azure-synapse-raises-the-data-management-bar/amp/"
+    cdnAmpWebUrl: "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/digital-marketing/microsoft-azure-synapse-raises-the-data-management-bar/amp/"
+    type: article
+    provider:
+      name: CMS Wire
+      domain: cmswire.com
+    quality: 74
+    images:
+      - url: "https://www.cmswire.com/-/media/882e9d6b9f3c4eb082dd739d9a12cceb.ashx?mw=1024"
+        width: 640
+        height: 480
+        isCached: true
   - title: "Researchers Find Vulnerabilities in Microsoft Azure Cloud Service"
     excerpt: "Now according to the latest research, two security flaws in Microsoft's Azure App Services could have enabled a bad actor to carry out server-side request forgery (SSRF) attacks or execute arbitrary code and take over the administration server."
     publishedDateTime: 2020-10-08T13:26:00Z

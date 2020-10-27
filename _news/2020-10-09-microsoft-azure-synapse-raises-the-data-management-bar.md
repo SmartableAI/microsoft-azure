@@ -1,21 +1,30 @@
 ---
 category: news
-title: "Starburst Enterprise for Presto Now Available in The Microsoft Azure Marketplace"
-excerpt: "Starburst today announced the availability of Starburst Enterprise for Presto in the Microsoft Azure Marketplace."
-publishedDateTime: 2020-10-14T20:09:00Z
-originalUrl: "https://www.businesswire.com/news/home/20201013005348/en/Starburst-Enterprise-for-Presto-Now-Available-in-The-Microsoft-Azure-Marketplace"
-webUrl: "https://www.businesswire.com/news/home/20201013005348/en/Starburst-Enterprise-for-Presto-Now-Available-in-The-Microsoft-Azure-Marketplace"
+title: "Microsoft Azure Synapse Raises the Data Management Bar"
+excerpt: "Microsoft's refinements to its Azure Synapse platform should prove handy for professionals with on-demand analysis needs. First some basics on what Azure Synapse is. Azure Synapse is an analytics ..."
+publishedDateTime: 2020-10-09T00:00:00Z
+originalUrl: "https://www.cmswire.com/digital-marketing/microsoft-azure-synapse-raises-the-data-management-bar/"
+webUrl: "https://www.cmswire.com/digital-marketing/microsoft-azure-synapse-raises-the-data-management-bar/"
+ampWebUrl: "https://www.cmswire.com/digital-marketing/microsoft-azure-synapse-raises-the-data-management-bar/amp/"
+cdnAmpWebUrl: "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/digital-marketing/microsoft-azure-synapse-raises-the-data-management-bar/amp/"
 type: article
-quality: 12
+quality: 74
 heat: -1
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: CMS Wire
+  domain: cmswire.com
 
 topics:
   - Azure
+  - Analytics
+
+images:
+  - url: "https://www.cmswire.com/-/media/882e9d6b9f3c4eb082dd739d9a12cceb.ashx?mw=1024"
+    width: 640
+    height: 480
+    isCached: true
 
 related:
   - title: "Microsoft explains how it improved automatic image captioning in Azure Cognitive Services"
@@ -210,22 +219,6 @@ related:
       name: Digital Trends
       domain: digitaltrends.com
     quality: 77
-  - title: "Microsoft Azure Synapse Raises the Data Management Bar"
-    excerpt: "Microsoft's refinements to its Azure Synapse platform should prove handy for professionals with on-demand analysis needs. First some basics on what Azure Synapse is. Azure Synapse is an analytics ..."
-    publishedDateTime: 2020-10-09T00:00:00Z
-    webUrl: "https://www.cmswire.com/digital-marketing/microsoft-azure-synapse-raises-the-data-management-bar/"
-    ampWebUrl: "https://www.cmswire.com/digital-marketing/microsoft-azure-synapse-raises-the-data-management-bar/amp/"
-    cdnAmpWebUrl: "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/digital-marketing/microsoft-azure-synapse-raises-the-data-management-bar/amp/"
-    type: article
-    provider:
-      name: CMS Wire
-      domain: cmswire.com
-    quality: 74
-    images:
-      - url: "https://www.cmswire.com/-/media/882e9d6b9f3c4eb082dd739d9a12cceb.ashx?mw=1024"
-        width: 640
-        height: 480
-        isCached: true
   - title: "Microsoft cloud services outages continue into week two"
     excerpt: "Microsoft's cloud services problems are continuing this week with more Azure and Microsoft 365 services issues for some customers. Here's what's happened and why."
     publishedDateTime: 2020-10-07T21:19:00Z
@@ -754,6 +747,15 @@ related:
         width: 600
         height: 314
         isCached: true
+  - title: "Starburst Enterprise for Presto Now Available in The Microsoft Azure Marketplace"
+    excerpt: "Starburst today announced the availability of Starburst Enterprise for Presto in the Microsoft Azure Marketplace."
+    publishedDateTime: 2020-10-14T20:09:00Z
+    webUrl: "https://www.businesswire.com/news/home/20201013005348/en/Starburst-Enterprise-for-Presto-Now-Available-in-The-Microsoft-Azure-Marketplace"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 12
   - title: "Microsoft introduces modular Azure data centre, new satellite connectivity partners"
     excerpt: "Microsoft announced a partnership with SpaceX's Starlink venture to provide satellite broadband for remote areas with a modular Azure data centre. It's also extending its partnership with SES to offer connectivity between data centres and edge devices over ..."
     publishedDateTime: 2020-10-20T14:34:00Z
@@ -773,6 +775,6 @@ related:
       domain: seekingalpha.com
     quality: 2
 
-secured: "tCVVjBpyn9ocZYw9iv2yxFO+BgA2k+BHWC5Z80q9F6A3QSx+3Sbwi/uni/1Wj69c4WDNQ9Ss1TM/hSIX+pILU2aCKFOynrOC1jk0FZx3pNgzSJ1m8kAuOUAxtRkr7ArKekFABsOybF0kqwBJNfo5F9V+MOnV8jYg2d/JdweceXSoleMAkCiRwlNScP3pQc0666+xirzzFzZMiJWJnDkxjj35A+lfwZsoEsFd0qMfViRn9qWx2EX9IgUFuOSFizeCBJ5k45SxIt9lTpU4kL2Mo7FhtdSxswLqYOfV2f3QrQ5Da7oaMSzCxLPVgkFde7IfjIjv/8zTlJ6Xix9GveJKyarXHlrPAnvS0F+mAp4kE9c=;ZM7i1dD0Oayw5CaY785EaQ=="
+secured: "Lk+cz3nAFoRFa57dpCSSaiytcbmzb/cOGHLUYy760lr8aLhbPTlWFMXw1GOldaI98Em44qmgR148eAzJwygli9SA8HgHRmvspubq3g5bfmMkuZWI2EeCXEEV9sgxQpfFxNvjDxdNiHNTxhDkLDjqXiU+YXq5HT8Vp++cfXIM0yS1HrAf8fKolvWnfZ4mB51FFRP1S5yjCpqKlteyOfber0F0xci5u11EN5IQAUPLWcAMouFBYh+6+4trJsX6aP58OAXYmsNSRZog8KhwnWRdZ7yLwDsUPCYbe4vnzWFagZza+u/LazxXhwJouJ4DQFxmbsjqgQQ9/eJvXahgIBsc3oB9O5DT6n8pAvJ+LuvX+CA=;hOomdU+bYTF0+gnTKiwzwQ=="
 ---
 
