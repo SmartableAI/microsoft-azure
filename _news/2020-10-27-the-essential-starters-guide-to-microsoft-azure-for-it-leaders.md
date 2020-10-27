@@ -1,28 +1,26 @@
 ---
 category: news
-title: "Microsoft’s Azure To Be Connected To SpaceX’s Starlink Satellite Internet"
-excerpt: "SpaceX launched 60 Starlink satellites on Sunday Microsoft launched Azure Orbital, to connect cloud services to satellites Jeff Bezos' cloud services already offer similar services Microsoft Azure’s cloud services will now be connected directly to SpaceX ..."
-publishedDateTime: 2020-10-21T11:31:00Z
-originalUrl: "https://www.ibtimes.com/microsofts-azure-be-connected-spacexs-starlink-satellite-internet-3066016"
-webUrl: "https://www.ibtimes.com/microsofts-azure-be-connected-spacexs-starlink-satellite-internet-3066016"
-ampWebUrl: "https://www.ibtimes.com/microsofts-azure-be-connected-spacexs-starlink-satellite-internet-3066016?amp=1"
-cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/microsofts-azure-be-connected-spacexs-starlink-satellite-internet-3066016?amp=1"
+title: "The Essential Starter’s Guide to Microsoft Azure for IT Leaders"
+excerpt: "Cloud consumption is on the rise as enterprise organizations and small-and-medium businesses alike shift larger portions of their IT spend toward cloud infrastructure and services like Microsoft Azure. However, Azure’s blend of services supports a wide ..."
+publishedDateTime: 2020-10-27T14:52:00Z
+originalUrl: "https://www.computerworld.com/resources/209761/the-essential-starter-s-guide-to-microsoft-azure-for-it-leaders"
+webUrl: "https://www.computerworld.com/resources/209761/the-essential-starter-s-guide-to-microsoft-azure-for-it-leaders"
 type: article
-quality: 56
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: International Business Times
-  domain: ibtimes.com
+  name: Computerworld
+  domain: computerworld.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/04/19/starlink-iss.jpg"
-    width: 640
-    height: 427
+  - url: "https://idge.staticworld.net/ctw/computerworld-logo300x300.png"
+    width: 300
+    height: 300
     isCached: true
 
 related:
@@ -74,6 +72,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Microsoft’s Azure To Be Connected To SpaceX’s Starlink Satellite Internet"
+    excerpt: "SpaceX launched 60 Starlink satellites on Sunday Microsoft launched Azure Orbital, to connect cloud services to satellites Jeff Bezos' cloud services already offer similar services Microsoft Azure’s cloud services will now be connected directly to SpaceX ..."
+    publishedDateTime: 2020-10-21T11:31:00Z
+    webUrl: "https://www.ibtimes.com/microsofts-azure-be-connected-spacexs-starlink-satellite-internet-3066016"
+    ampWebUrl: "https://www.ibtimes.com/microsofts-azure-be-connected-spacexs-starlink-satellite-internet-3066016?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/microsofts-azure-be-connected-spacexs-starlink-satellite-internet-3066016?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 56
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/04/19/starlink-iss.jpg"
+        width: 640
+        height: 427
+        isCached: true
   - title: "Congruity360 Now Available in the Microsoft Azure Marketplace"
     excerpt: "Congruity360, data governance and storage leader, today announced the availability of Classify360 in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure."
     publishedDateTime: 2020-10-22T13:00:00Z
@@ -113,20 +127,6 @@ related:
       name: Zawya
       domain: zawya.com
     quality: 37
-  - title: "The Essential Starter’s Guide to Microsoft Azure for IT Leaders"
-    excerpt: "Cloud consumption is on the rise as enterprise organizations and small-and-medium businesses alike shift larger portions of their IT spend toward cloud infrastructure and services like Microsoft Azure. However, Azure’s blend of services supports a wide ..."
-    publishedDateTime: 2020-10-27T14:52:00Z
-    webUrl: "https://www.computerworld.com/resources/209761/the-essential-starter-s-guide-to-microsoft-azure-for-it-leaders"
-    type: article
-    provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 37
-    images:
-      - url: "https://idge.staticworld.net/ctw/computerworld-logo300x300.png"
-        width: 300
-        height: 300
-        isCached: true
   - title: "SAP Solutions and Microsoft Azure Combine Efforts To Drive Forward Business Growth Across the Middle East and Africa"
     excerpt: "... of SAP workloads in the UAE data centre region at the Middle East and Africa Edition of the SAP Solutions on Microsoft Azure Virtual Event. Microsoft announced the availability of SAP workloads in the UAE data centre region at the Middle East and ..."
     publishedDateTime: 2020-10-26T09:47:00Z
@@ -218,6 +218,6 @@ related:
         height: 627
         isCached: true
 
-secured: "TPu/Shc1Tvj6aZ6MvBfLwFasGVjYqVKaNVhlIh8xYwYQtZ9AGy7rWDsY896KgJM+rCNUvOs9wHydIdllQoDY6BCvuNkfrxdH7uFMjhwuP+WdFNGD07SlpoWCkYR0Jddx8Bg13jqveKv1rk3swS70YFJEkVIBgyYozUFUbQJp7DnqcLqGgU+BV/sKNHOj61Zt/mqUq2ltusIV0wFhVye7DZWpOi/Ek/RIsx87sFAbBoFlZlfOjh3i28PWmHczwEJKGLszrr/FiSEutBYgUGIE3Js2c8nBvqHthJ9x5qdoHPOBfaUbI2iMtVBuDY+AXYZLGk+63dwDSmCFMIbpv0+AwIx7HHLVcVULzODq38e+RE+9R327sxrd4ZoJlPP2ws/mcwd1H1F2nCh7JcASI0PGDXNEWDHO5cTtTIPj113JZ3XRS2I+6L1B2VFo9YXNfRCQJUXwrdjErvG3GXcXPzZ60T8HZXJVa+9uBQbbr7fPdq8zV9mODqN38vvVq3b60JfVWa2wnQfMLr2kBOKT3ByJbw==;wjGqjdI6x+oiVZvlREENmA=="
+secured: "mtpDJVc8AHRnu5o1xvOR9Gl1VtZPUlOzKMpUNjc/lc7UItqBwEBK3v7jDm2DHibMduSN7r3NU1/gelw4HyB8NkiKzeNJjISO6zfDU3Fw05qgGmzzGjevJjwUoSDWZItFSV/HwgpYNEdzIjMWFCWfrczVl29zRrtXZv0Na5+qfjM/IixVz6j+1MPQebRJHxB4hNeB7jPwM0EUpvCTRivR3Z4cov6tISClAvtlLR2Xs04iFDHguiTeZFkxrO/GQi62mxsZ+qeGd52Kk3ajb70HpgPX8GGdwLwa4ZDLUHJo06o/Lh+l/MSK7afW3JC9khrwNwpodQHBMxNfnpMREOo+Sp8h5uMuIgrno9+VCMC7JIQ=;dBcdv9spL246YZv+sE8uXQ=="
 ---
 

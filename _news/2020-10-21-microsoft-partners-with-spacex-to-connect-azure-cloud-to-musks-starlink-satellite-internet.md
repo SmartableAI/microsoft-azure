@@ -117,6 +117,20 @@ related:
       name: Zawya
       domain: zawya.com
     quality: 37
+  - title: "The Essential Starter’s Guide to Microsoft Azure for IT Leaders"
+    excerpt: "Cloud consumption is on the rise as enterprise organizations and small-and-medium businesses alike shift larger portions of their IT spend toward cloud infrastructure and services like Microsoft Azure. However, Azure’s blend of services supports a wide ..."
+    publishedDateTime: 2020-10-27T14:52:00Z
+    webUrl: "https://www.computerworld.com/resources/209761/the-essential-starter-s-guide-to-microsoft-azure-for-it-leaders"
+    type: article
+    provider:
+      name: Computerworld
+      domain: computerworld.com
+    quality: 37
+    images:
+      - url: "https://idge.staticworld.net/ctw/computerworld-logo300x300.png"
+        width: 300
+        height: 300
+        isCached: true
   - title: "SAP Solutions and Microsoft Azure Combine Efforts To Drive Forward Business Growth Across the Middle East and Africa"
     excerpt: "... of SAP workloads in the UAE data centre region at the Middle East and Africa Edition of the SAP Solutions on Microsoft Azure Virtual Event. Microsoft announced the availability of SAP workloads in the UAE data centre region at the Middle East and ..."
     publishedDateTime: 2020-10-26T09:47:00Z
@@ -134,18 +148,18 @@ related:
         height: 502
         isCached: true
   - title: "Qualys Extends Integration with Microsoft Azure Defender to On-Premises and Multi-Cloud with Microsoft Azure Arc"
-    excerpt: "\"Extending our collaboration uniquely allows us to deliver built-in security to Azure customers, so they can easily secure their hybrid cloud environments in one click.\" Microsoft announced the general availability of Azure Arc enabled servers and public ..."
-    publishedDateTime: 2020-10-27T13:04:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/qualys-extends-integration-with-microsoft-azure-defender-to-on-premises-and-multi-cloud-with-microsoft-azure-arc-301159984.html"
+    excerpt: "(NASDAQ: QLYS), a pioneer and one of the leading providers of disruptive cloud-based IT, security and compliance solutions, today announced it is expanding its integration of Qualys Vulnerability Management to Microsoft Azure Arc,"
+    publishedDateTime: 2020-10-27T13:00:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-products-and-services-cloud-computing-bbd947b101f2c656a5632ed184eec1f9"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
+      name: Associated Press
+      domain: apnews.com
     quality: 33
     images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
   - title: "Microsoft Introduces Azure Space to Further Push the Boundaries of Cloud Computing"
     excerpt: "Recently Microsoft launched its Azure Space initiative as a further push of cloud computing towards space. This initiative by the public cloud vendor consists of several products and partnerships to position Azure as a critical player in the space- and ..."
