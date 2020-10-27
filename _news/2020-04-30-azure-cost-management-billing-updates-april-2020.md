@@ -7,8 +7,8 @@ originalUrl: "https://azure.microsoft.com/blog/azure-cost-management-billing-upd
 webUrl: "https://azure.microsoft.com/blog/azure-cost-management-billing-updates-april-2020/"
 type: article
 quality: 95
-heat: 235
-published: true
+heat: -1
+published: false
 
 provider:
   name: Microsoft
@@ -33,6 +33,20 @@ images:
     title: "Azure Cost Management + Billing updates – April 2020"
 
 related:
+  - title: "Azure Cost Management and Billing updates – October 2020"
+    excerpt: "Last month, we shared a lot of cost optimization tips and tricks. Continuing with that focus, October is all about helping you save money on Azure infrastructure as a service (IaaS), database, or storage offerings. You'll also read about creating subscriptions via Azure Resource Manager deployment templates,"
+    publishedDateTime: 2020-10-27T10:00:14Z
+    webUrl: "https://azure.microsoft.com/blog/azure-cost-management-billing-updates-october-2020/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 103
+    images:
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/bcb247c7-d8dd-4c00-a23d-fc83a68109b7.png"
+        width: 1024
+        height: 508
+        isCached: true
   - title: "Azure Cost Management + Billing updates – July 2020"
     excerpt: "July introduces new options to drill into your cost data, save on Azure VMs and Data Lake storage, as well as new videos for even more cost-saving tips and tricks. "
     publishedDateTime: 2020-07-29T10:00:28Z
@@ -47,6 +61,24 @@ related:
         width: 1385
         height: 831
         isCached: true
+  - title: "Azure API Management updates- October 2020"
+    excerpt: "Regular Azure API Management service updates including new features, bug fixes, changes and other improvements."
+    publishedDateTime: 2020-10-22T16:00:15Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-api-management-updates-october-2020/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
+  - title: "Azure Site Recovery update rollup 51 - October 2020"
+    excerpt: "The latest Azure Site Recovery update provides provides fixes, updated Linux support for the Mobility service, and download links for Site Recovery components."
+    publishedDateTime: 2020-10-22T17:00:10Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/site-recovery-update-rollup-51-october-2020/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
   - title: "Azure Cost Management + Billing updates – September 2020"
     excerpt: "While 2020 may be keeping you on your toes, September should help make your life a little bit easier with the general availability of AWS support in Azure Cost Management + Billing, allowing you to manage all your Azure and AWS costs in a single place; the preview of cost allocation, streamlining your"
     publishedDateTime: 2020-09-30T11:00:21Z
@@ -74,48 +106,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 69
-  - title: "Azure Cost Management + Billing updates – February 2020"
-    excerpt: "The theme this month is transparency. From rich Azure Hybrid Benefit and reservation reporting in a new Power BI app to a detailed breakdown of resource costs and clarity behind what \"not applicable\" means in the Azure portal, you won't want to miss this one!"
-    publishedDateTime: 2020-02-26T14:00:50Z
-    webUrl: "https://azure.microsoft.com/blog/azure-cost-management-billing-updates-february-2020/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 39
-    images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/d0e2a218-4fc3-4dd2-a7f0-49caf05f17ae.png"
-        width: 1583
-        height: 858
-        isCached: true
-  - title: "Azure API Management update—May 2020"
-    excerpt: ""
-    publishedDateTime: 2020-05-07T20:00:12Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-api-management-update-may-2020/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 37
-    images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/be59ad04-9d29-4851-89f0-285e7d1aea26.png"
-        width: 1367
-        height: 678
-        isCached: true
-  - title: "Everything You Need to Know About Azure Infrastructure – April 2020 Edition"
-    excerpt: "The pandemic has put more pressure, in different ways, than usual on some of us, made some of us redundant/furloughed, stretched resources thin in Microsoft Azure, and maybe even bumped up Microsoft’s FYQ3 results up,"
-    publishedDateTime: 2020-05-01T15:50:00Z
-    webUrl: "https://www.petri.com/everything-you-need-to-know-about-azure-infrastructure-april-2020-edition"
-    type: article
-    provider:
-      name: petri.com
-      domain: petri.com
-    quality: 35
-    images:
-      - url: "https://www.petri.com/wp-content/uploads/sites/3/2016/08/Microsoft-Azure-cloud-hero.png"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "1vFDRobE01Vskyp98j+Baeq/pMyGqgFq5nPuR9BPgpHg+YLuqXUuZ6QwPyEzGzoUIB3ri9v5E7JXrP0UY1d2uBDkEEILbyxpybT0pOQaWRvSALIHhPvIAHBNwgXcxt3yp9hwTFVND0rgCWIJ0aCbe3c7ziw9irTt8NB43FAbeRnvVTjb7+J1RowLXhAcVPzHIz5KZoKF1N9h7Bit4tQBd8mmuIJ1AAFKDhf1IGPjOcf6qcGc396eURrhlcbhRFcDXpcDzm8P7HLAUdZj3GsYBNcLEH62PTlbcoQk9YoW+zmYFUf731Uwn06APmvRPorqHhedyapU5dchvFFXOTKzVN6RAwrqpWqZUyVnjE1TsfU=;yBrEKZyZoUNSewEYdlKZqA=="
 ---

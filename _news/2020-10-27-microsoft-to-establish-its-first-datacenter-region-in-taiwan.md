@@ -1,10 +1,10 @@
 ---
 category: news
-title: "Microsoft plans to establish new cloud datacenter region in Austria"
+title: "Microsoft to establish its first datacenter region in Taiwan "
 excerpt: "The new region is anticipated to include Microsoft Azure, with Microsoft 365, Dynamics 365 and Power Platform to follow."
-publishedDateTime: 2020-10-21T19:19:56Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/microsoft-plans-to-establish-new-cloud-datacenter-region-in-austria/"
-webUrl: "https://azure.microsoft.com/en-us/updates/microsoft-plans-to-establish-new-cloud-datacenter-region-in-austria/"
+publishedDateTime: 2020-10-27T16:05:07Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/microsoft-to-establish-its-first-datacenter-region-in-taiwan-as-a-part-of-its-reimagine-taiwan-initiative/"
+webUrl: "https://azure.microsoft.com/en-us/updates/microsoft-to-establish-its-first-datacenter-region-in-taiwan-as-a-part-of-its-reimagine-taiwan-initiative/"
 type: article
 quality: 52
 heat: -1
@@ -31,10 +31,10 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 52
-  - title: "Microsoft to establish its first datacenter region in Taiwan "
+  - title: "Microsoft plans to establish new cloud datacenter region in Austria"
     excerpt: "The new region is anticipated to include Microsoft Azure, with Microsoft 365, Dynamics 365 and Power Platform to follow."
-    publishedDateTime: 2020-10-27T16:05:07Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/microsoft-to-establish-its-first-datacenter-region-in-taiwan-as-a-part-of-its-reimagine-taiwan-initiative/"
+    publishedDateTime: 2020-10-21T19:19:56Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/microsoft-plans-to-establish-new-cloud-datacenter-region-in-austria/"
     type: article
     provider:
       name: Microsoft
@@ -55,6 +55,6 @@ related:
         height: 427
         isCached: true
 
-secured: "IJzbrAa8TP4E7v5FF+Jzp13z5nFfnDWbYH98FlPqzOll49vMx304Qkqoc1ZiuJMaOaut/2hc3XUu0tIkK8h4joL4HN3y+WotOokSLx+LZd7Gzkw3dxWsIsFVa976I6/OKToQBAQS8cw2hA1q7dJPxr2wZfqR+GkbhTE/cDGXviHj+NlyTrKvp5q1X5ITyybaevipw25hfO1D4FKHL5Yg45aZ0h1SsYxxL8O9eRQmQfqP+qkCEEJs84ZjBt4NDiBUEX/0fFavSum62ELBHUPeY4vwbwaHbWbPhqlvhNGjH0R8/K/P4M8ZCvHUMLEJd/Mfim1XgVDINusJvLQiFAlNiE+gdM9jQWFecZOO6GrPdfc=;7deE5d70nVrro5thXwYg1Q=="
+secured: "1xIRYTc0hhQD5qX9lRBImWbQPwPD55dl4KVzrJJZgQf/fdcYjPTYGCcpH1tk3iQT02zwMBOIPwoi+Zp9w6AxAzsDq6pAsXjQJTiyMgRp3DDX0VjTgnA9SaIidpjrbSmmzJpCCL24/mTClnfV6b5wTY9Zou84TD1MURL+iI9JYbYNFzH0azO/9HyAuEAV/d+/l81Yq3pZp59FhS2q9YQ+fPXXhvmTi3zdkwK5v21k5/h3FYS9WOwo3tcXrLeBr5Y0W2e2zHjDhUWQ52PFQJ3mc4N9G5QhiwnShTarQ5cmn4pOa8MT0XneR32owWkoXXBcOMTwu3J+/zSuWJIqLWX+lB14vg51wW0e4zBKK48mBks=;bRPA76sPQ8Kr2QPAgCcDzQ=="
 ---
 

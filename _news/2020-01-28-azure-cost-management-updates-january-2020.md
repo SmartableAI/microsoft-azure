@@ -28,6 +28,22 @@ images:
     isCached: true
     title: "Azure Cost Management updates – January 2020"
 
+related:
+  - title: "Azure Cost Management + Billing updates – February 2020"
+    excerpt: "The theme this month is transparency. From rich Azure Hybrid Benefit and reservation reporting in a new Power BI app to a detailed breakdown of resource costs and clarity behind what \"not applicable\" means in the Azure portal, you won't want to miss this one!"
+    publishedDateTime: 2020-02-26T14:00:50Z
+    webUrl: "https://azure.microsoft.com/blog/azure-cost-management-billing-updates-february-2020/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 39
+    images:
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/d0e2a218-4fc3-4dd2-a7f0-49caf05f17ae.png"
+        width: 1583
+        height: 858
+        isCached: true
+
 secured: "4T/WakE4ikovwT07P6khvSbGMUMoNzALEzHFlSuxEkl7bF9PVVG6smJr5czk0FTO9zCb7mhH/lheiNIptEr9/g068o6JjALRJvzTE803W7hsX/qGgIh+P486Y8ElIg0avklmXjeAYjNVgZnbhc7R2W9JrR6O35mPWqD5hgbRmpTFrxnwu0D7g+HF7OA21ax5UHwnQebKsA0k1K4S2slM4oBZJwaJ+Bp4KiGQ+BgBvg2Z9vJfd6MRSMjf7imElN9Olonc8v2OGoqBfTTj7hxvWRoDEpXSm0A7RcTMqbp/pvT6k97Dfgm/89ZtS5VQwtVwRnyxgMbT6fZ0dOC4qc8ZzA==;b1L5sfO6eoId3ImUqjWzxw=="
 ---
 

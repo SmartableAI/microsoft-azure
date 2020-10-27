@@ -21,24 +21,20 @@ topics:
   - Azure
 
 related:
-  - title: "Azure API Management updates- October 2020"
-    excerpt: "Regular Azure API Management service updates including new features, bug fixes, changes and other improvements."
-    publishedDateTime: 2020-10-22T16:00:15Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-api-management-updates-october-2020/"
+  - title: "Azure API Management update—May 2020"
+    excerpt: ""
+    publishedDateTime: 2020-05-07T20:00:12Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-api-management-update-may-2020/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 84
-  - title: "Azure Site Recovery update rollup 51 - October 2020"
-    excerpt: "The latest Azure Site Recovery update provides provides fixes, updated Linux support for the Mobility service, and download links for Site Recovery components."
-    publishedDateTime: 2020-10-22T17:00:10Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/site-recovery-update-rollup-51-october-2020/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 84
+    quality: 37
+    images:
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/be59ad04-9d29-4851-89f0-285e7d1aea26.png"
+        width: 1367
+        height: 678
+        isCached: true
   - title: "Azure API Management update—July 2020"
     excerpt: "A regular Azure API Management service update was started on July 8, 2020. It includes new features, bug fixes, and improvements."
     publishedDateTime: 2020-07-16T00:00:31Z

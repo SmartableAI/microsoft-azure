@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Azure API Management updates- October 2020"
-excerpt: "Regular Azure API Management service updates including new features, bug fixes, changes and other improvements."
-publishedDateTime: 2020-10-22T16:00:15Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/azure-api-management-updates-october-2020/"
-webUrl: "https://azure.microsoft.com/en-us/updates/azure-api-management-updates-october-2020/"
+title: "Azure Cost Management and Billing updates – October 2020"
+excerpt: "Last month, we shared a lot of cost optimization tips and tricks. Continuing with that focus, October is all about helping you save money on Azure infrastructure as a service (IaaS), database, or storage offerings. You'll also read about creating subscriptions via Azure Resource Manager deployment templates,"
+publishedDateTime: 2020-10-27T10:00:14Z
+originalUrl: "https://azure.microsoft.com/blog/azure-cost-management-billing-updates-october-2020/"
+webUrl: "https://azure.microsoft.com/blog/azure-cost-management-billing-updates-october-2020/"
 type: article
-quality: 84
-heat: -1
-published: false
+quality: 103
+heat: 243
+published: true
 
 provider:
   name: Microsoft
@@ -20,23 +20,22 @@ provider:
 
 topics:
   - Azure
-  - Integration
+  - Storage
+  - Management tools
+  - Databases
+  - Compute
+  - Migration
+  - IoT
+  - Serverless
+  - AI
+
+images:
+  - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/bcb247c7-d8dd-4c00-a23d-fc83a68109b7.png"
+    width: 1024
+    height: 508
+    isCached: true
 
 related:
-  - title: "Azure Cost Management and Billing updates – October 2020"
-    excerpt: "Last month, we shared a lot of cost optimization tips and tricks. Continuing with that focus, October is all about helping you save money on Azure infrastructure as a service (IaaS), database, or storage offerings. You'll also read about creating subscriptions via Azure Resource Manager deployment templates,"
-    publishedDateTime: 2020-10-27T10:00:14Z
-    webUrl: "https://azure.microsoft.com/blog/azure-cost-management-billing-updates-october-2020/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 103
-    images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/bcb247c7-d8dd-4c00-a23d-fc83a68109b7.png"
-        width: 1024
-        height: 508
-        isCached: true
   - title: "Azure Cost Management + Billing updates – April 2020"
     excerpt: "Whether you're a new student, thriving startup, or the largest enterprise, you have financial constraints and you need to know what you're spending, where, and how to plan for the future. Nobody wants a surprise when it comes to the bill, and this is where Azure Cost Management + Billing comes in.\r\n\r\nWe're"
     publishedDateTime: 2020-04-30T11:00:08Z
@@ -65,6 +64,15 @@ related:
         width: 1385
         height: 831
         isCached: true
+  - title: "Azure API Management updates- October 2020"
+    excerpt: "Regular Azure API Management service updates including new features, bug fixes, changes and other improvements."
+    publishedDateTime: 2020-10-22T16:00:15Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-api-management-updates-october-2020/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
   - title: "Azure Site Recovery update rollup 51 - October 2020"
     excerpt: "The latest Azure Site Recovery update provides provides fixes, updated Linux support for the Mobility service, and download links for Site Recovery components."
     publishedDateTime: 2020-10-22T17:00:10Z
@@ -102,6 +110,6 @@ related:
       domain: microsoft.com
     quality: 69
 
-secured: "GAr1Pw5ey8Ber5nEfNmEzdwOdrZns6YrejonCOLZNO0wsZ4nfC8F2ySP6AZIbvCCT7ymBBBEzpxBpBwzcyiyTv9XAZWkAzq69d0Ku+6koPP84aJtSxTvAm7CL02hjDf3w4xr00XTUGFpX25p5J32tzCW5h0Pgd+BW2iPmzyO8l10LKygfVPLLxlbhdlQrHzL50lbyag++fTx0ph4+aKpCvCtYDjCGTyFv+5S1j0R60cjprxq6GQdiRWAIlkGVz5UDwpSgg/j5SW3nl0Lunnvimpu8CIfH0MJsPfFxh3EG/Sx1wrpE0PWcE/bMahNTx8RMpk9wbfK3K45w5OatIstuBVfcAEuNQaAIagSlcoP5uM=;BFSO67wrW30d8mDbCjhXug=="
+secured: "b0en0Iau3xj+UF9Th13bdeKQFDzC9jKbc0Q8X4Vv+a0HHSHRveg9h6EcMhtbN9Drl4w0qZomwlKSGJo0Dfd9o+oZL4d1HHzDFlf/UVRFylOmwcIBL/EOkkmctlc2xirPcm4P02A/gz6E/H70zGnH5XXsbfBHeFIgeCfqtBKvNPsAg3F1z5ILwcqRt4Xc1Y+BsKjJAi/xKORz64lJjQmnOQSpk7Lv+onGDX0KNuP4cO03uPTri+bxqzgZy35fpdrmdEuz2ZHk6f+Ry6IliCSOUi/fyEXNmdrhToKMNnYn9DjEqEDTKFa+Z+K4dd8CJ4ahyvj85tY3dzTqU1fQUlIRZ73lEFdo6fxTHtJqTjVbVAo=;upp4vtsd1yxw9C30WHHJiw=="
 ---
 
