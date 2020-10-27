@@ -2,7 +2,7 @@
 title: "Azure Tips and Tricks"
 excerpt: ""
 type: collection
-heat: 62
+heat: 104
 
 provider:
   name: Microsoft
@@ -13,6 +13,7 @@ provider:
       height: 50
 
 items:
+  - videos/microsoft-5-things-you-didnt-know-about-azure-cognitive-services-azure-tips-and-tricks
   - videos/microsoft-5-things-you-didnt-know-about-azure-sql-database-azure-tips-and-tricks
   - videos/microsoft-5-things-you-didnt-know-about-azure-app-service-azure-tips-and-tricks
   - videos/microsoft-how-to-secure-a-blazor-application-with-azure-active-directory-azure-tips-and-tricks
@@ -153,7 +154,7 @@ topics:
   - Azure
 
 images:
-  - url: https://i.ytimg.com/vi/AtQQHYAJRx8/maxresdefault.jpg
+  - url: https://i.ytimg.com/vi/4mwE_A6rOlo/maxresdefault.jpg
     width: 1280
     height: 720
     isCached: true
