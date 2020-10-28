@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/azure-cost-management-billing-upd
 webUrl: "https://azure.microsoft.com/blog/azure-cost-management-billing-updates-october-2020/"
 type: article
 quality: 103
-heat: 243
+heat: 263
 published: true
 
 provider:
@@ -91,6 +91,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 81
+  - title: "Legacy developer portal in Azure API Management will retire on 31 October 2023 "
+    excerpt: "Start using the new developer portal in Azure API Management."
+    publishedDateTime: 2020-10-28T00:00:19Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/legacy-developer-portal-in-azure-api-management-will-retire-on-31-october-2023/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 80
   - title: "Azure Cost Management + Billing updates – June 2020"
     excerpt: "Flexibility was the main theme for June, with more customizable budget notifications, a way to monitor your cost recommendations, and automated subscription creation for Azure Government. And of course, these are just a few highlights. Don't forget to check out new ways to save, a new video, and our"
     publishedDateTime: 2020-06-30T09:00:33Z

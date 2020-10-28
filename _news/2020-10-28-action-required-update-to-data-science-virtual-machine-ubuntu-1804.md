@@ -6,6 +6,9 @@ publishedDateTime: 2020-10-28T00:00:18Z
 originalUrl: "https://azure.microsoft.com/en-us/updates/action-required-update-to-data-science-virtual-machine-ubuntu-1804/"
 webUrl: "https://azure.microsoft.com/en-us/updates/action-required-update-to-data-science-virtual-machine-ubuntu-1804/"
 type: article
+quality: 69
+heat: 69
+published: false
 
 provider:
   name: Microsoft

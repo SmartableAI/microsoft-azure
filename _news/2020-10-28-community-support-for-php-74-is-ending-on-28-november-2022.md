@@ -6,6 +6,9 @@ publishedDateTime: 2020-10-28T00:00:19Z
 originalUrl: "https://azure.microsoft.com/en-us/updates/community-support-for-php-74-is-ending-on-28-november-2022/"
 webUrl: "https://azure.microsoft.com/en-us/updates/community-support-for-php-74-is-ending-on-28-november-2022/"
 type: article
+quality: 52
+heat: 52
+published: false
 
 provider:
   name: Microsoft

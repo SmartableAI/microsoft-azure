@@ -94,6 +94,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 81
+  - title: "Legacy developer portal in Azure API Management will retire on 31 October 2023 "
+    excerpt: "Start using the new developer portal in Azure API Management."
+    publishedDateTime: 2020-10-28T00:00:19Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/legacy-developer-portal-in-azure-api-management-will-retire-on-31-october-2023/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 80
   - title: "Azure Cost Management + Billing updates – March 2020"
     excerpt: "We're covering the spectrum this month from improvements to help you stay on top of all your pay-as-you-go (PAYG) invoices to 4 new ways to save money and a wealth of new, quick videos to help you learn how to manage and optimize your costs."
     publishedDateTime: 2020-03-25T11:00:12Z

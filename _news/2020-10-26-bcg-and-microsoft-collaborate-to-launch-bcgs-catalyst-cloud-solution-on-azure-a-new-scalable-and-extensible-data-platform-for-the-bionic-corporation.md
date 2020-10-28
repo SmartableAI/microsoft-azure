@@ -100,6 +100,20 @@ related:
         width: 1665
         height: 1158
         isCached: true
+  - title: "Touting Azure for Operators, Microsoft Joins SDN Standards Group"
+    excerpt: "As part of its Azure for Operators program, Microsoft this week joined a nonprofit standards association that focuses on software-defined networking (SDN) technologies used by enterprises and ..."
+    publishedDateTime: 2020-10-27T23:18:00Z
+    webUrl: "https://rcpmag.com/articles/2020/10/27/microsoft-joins-sdn-standards-group.aspx"
+    type: article
+    provider:
+      name: Redmond Channel Partner
+      domain: rcpmag.com
+    quality: 37
+    images:
+      - url: "https://rcpmag.com/-/media/ECG/VirtualizationReview/Images/introimages2014/GEN1PurpleandWhiteLightsCircles.jpg"
+        width: 647
+        height: 450
+        isCached: true
 
 secured: "YPT/Csm/056hCVUdJSKKOmLMD+MUbZPK+3LTipOlu1/m9bq0SEsdNGQKSWKbyKrDJ1R6VWjg6saQtgncYkKU4Bb9Tze5WH0KG+OI7fOmZ9IhpoWWDlxlhCJPiz5/gJK74sxILKJEgLiffyQH97drsy0o/tY2JZC066RdjzNiefWwMME+e1hN95goCtzr+antw7dpanf9T9XOEP2gjNHsESBntJ/Fy1a508V+xha/QGx6OQuwlyN9AUmiYd/KYR+eRLmXGzu557qIdE535nD3bRVgag5e8dv2yOZt4oBrBoBQeBHHkjFnKXOGXimQFEF14flN0G/qjqYy3ng71z9nBAQ8bqCP3atWhrgmrbk6uHXyIL64WO1sNRyDQRxxHIMDS5k+pay7dY9TRtf7nXZGaJ7jRbL8wPG4MPJb0ROIbN2+6P5VeO9szSMIYFNxRjrRgYuSl3FRvF0DS11TrVovg1vOdMuqxx3ROyC1HEPckVx6+K8RWsiO/KXgBQuimDIVJ2vc2k1nATCdJbvYPfvZZw==;QvqZ1spO03SHDZBf39y4wQ=="
 ---

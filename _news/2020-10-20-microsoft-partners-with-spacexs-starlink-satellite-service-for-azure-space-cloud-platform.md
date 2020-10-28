@@ -9,7 +9,7 @@ ampWebUrl: "https://www.geekwire.com/2020/microsoft-partners-spacexs-starlink-sa
 cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/microsoft-partners-spacexs-starlink-satellite-service-azure-space-cloud-platform/amp/"
 type: article
 quality: 87
-heat: 187
+heat: 207
 published: true
 
 provider:
@@ -103,6 +103,20 @@ related:
       - url: "https://rcpmag.com/-/media/ECG/rcpmag/Images/2020/10/1021rcp_azurespace.jpg"
         width: 647
         height: 450
+        isCached: true
+  - title: "AttackIQ integrates Security Optimization Platform with Microsoft Azure Sentinel cloud-native SIEM platform"
+    excerpt: "AttackIQ announced integration between Microsoft Azure Sentinel cloud-native SIEM platform and the AttackIQ Security Optimization Platform."
+    publishedDateTime: 2020-10-28T03:00:00Z
+    webUrl: "https://www.helpnetsecurity.com/2020/10/28/attackiq-microsoft-azure-sentinel/"
+    type: article
+    provider:
+      name: Help Net Security
+      domain: helpnetsecurity.com
+    quality: 36
+    images:
+      - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/10/14145709/helpnetsecurity.jpg"
+        width: 1200
+        height: 627
         isCached: true
 
 secured: "s3m6+/hEd5wLH6FVP8pyvB49AfWN/Q9Am74yFrD4T8v+Y/XrUhSlIjfvxCS4y+wqxGewtCfeHsLptWypCQEmNjWEkTap7+JBOAMOfc86ksDqbqsNjVDzyVR6freDJRgQWRa/nHHFYfo5nzh+BtFelJ4jo2kL6u5JaBJkjGI91Ht5W+iTCuuE6FmmwdCL28T7mhr9faXvkEy29D4ATb31i20Kyg05ngk75zV4rGlqSsInd6wqu5KAbZ6dXIY1v1+ztz0n7XwLkjIJhDmGjVSCHDK2qQSpX+sjzpceN3YJ3eu7AS6wxGSCxBjMs0rG7KaSGOyzX9osGtrlk/I4JS3fq8vl4vI6brEd5yOhiDXeTX4+vJMLBsgYqFIhjdE8IiDUbFFQmFNrBnw2rO+vElaXBNB/E1EmoNRK059dAfur2crITuX8G0yYXNKrutPuwDvkJjRLYjffT8MidXX9BIxQ2Pyu9Zm+kpAPoMnZRU6G3KU1nqhTZxnTGZpIZerC3qSiWhmtealz10Lv9LcHOsKoxg==;mMyQ1H/82MFKM8l9tHzb6g=="

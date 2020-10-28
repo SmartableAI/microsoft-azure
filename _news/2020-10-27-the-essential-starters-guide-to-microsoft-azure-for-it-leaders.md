@@ -43,9 +43,9 @@ related:
   - title: "Microsoft's commercial cloud continues to hum with Azure sales up 48% in Q1"
     excerpt: "Microsoft's first quarter sales fell short of expectations, but earnings were well ahead. Commercial cloud revenue was $15.2 billion, up 31% from a year ago. Commercial cloud reve"
     publishedDateTime: 2020-10-27T20:27:00Z
-    webUrl: "https://www.zdnet.com/article/microsofts-commercial-cloud-continues-to-hum-with-azure-sales-up-48-in-q1/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsofts-commercial-cloud-continues-to-hum-with-azure-sales-up-48-in-q1/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsofts-commercial-cloud-continues-to-hum-with-azure-sales-up-48-in-q1/"
+    webUrl: "https://www.zdnet.com/index.php/category/2381/index.php/article/microsofts-commercial-cloud-continues-to-hum-with-azure-sales-up-48-in-q1/"
+    ampWebUrl: "https://www.zdnet.com/index.php/category/2381/index.php/google-amp/article/microsofts-commercial-cloud-continues-to-hum-with-azure-sales-up-48-in-q1/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2381/index.php/google-amp/article/microsofts-commercial-cloud-continues-to-hum-with-azure-sales-up-48-in-q1/"
     type: article
     provider:
       name: ZDNet
@@ -143,6 +143,34 @@ related:
       name: Zawya
       domain: zawya.com
     quality: 37
+  - title: "Microsoft Azure to build a first cloud data center region in Taiwan"
+    excerpt: "Microsoft said the new cloud data center region will host its Azure cloud services along with Microsoft 365 when it opens, with Dynamics 365 and Power Platform services to be added later."
+    publishedDateTime: 2020-10-28T00:46:00Z
+    webUrl: "https://siliconangle.com/2020/10/27/microsoft-azure-build-first-cloud-data-center-region-taiwan/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 37
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/10/taiwan-3973014_1280.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Microsoft Joins MEF To Bolster Azure for Operators Services"
+    excerpt: "\"Microsoft's decision to join MEF aligns with key goals of our Microsoft Azure for Operators initiative to bring the power of the cloud to the network, unlock the potential of 5G, and drive down ..."
+    publishedDateTime: 2020-10-27T22:53:00Z
+    webUrl: "https://redmondmag.com/articles/2020/10/27/microsoft-joins-mef.aspx"
+    type: article
+    provider:
+      name: Redmond Magazine
+      domain: redmondmag.com
+    quality: 37
+    images:
+      - url: "https://redmondmag.com/-/media/ECG/visualstudiomagazine/Images/introimages/0513vsm_Gousset.jpg"
+        width: 647
+        height: 450
+        isCached: true
   - title: "SAP Solutions and Microsoft Azure Combine Efforts To Drive Forward Business Growth Across the Middle East and Africa"
     excerpt: "... of SAP workloads in the UAE data centre region at the Middle East and Africa Edition of the SAP Solutions on Microsoft Azure Virtual Event. Microsoft announced the availability of SAP workloads in the UAE data centre region at the Middle East and ..."
     publishedDateTime: 2020-10-26T09:47:00Z

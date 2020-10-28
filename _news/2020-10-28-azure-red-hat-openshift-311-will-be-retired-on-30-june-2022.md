@@ -6,6 +6,9 @@ publishedDateTime: 2020-10-28T00:00:19Z
 originalUrl: "https://azure.microsoft.com/en-us/updates/azure-red-hat-openshift-311-will-be-retired-on-30-june-2022/"
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-red-hat-openshift-311-will-be-retired-on-30-june-2022/"
 type: article
+quality: 67
+heat: 67
+published: false
 
 provider:
   name: Microsoft
