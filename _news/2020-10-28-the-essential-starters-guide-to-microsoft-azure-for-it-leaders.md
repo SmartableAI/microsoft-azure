@@ -1,26 +1,30 @@
 ---
 category: news
-title: "Microsoft Joins MEF To Bolster Azure for Operators Services"
-excerpt: "\"Microsoft's decision to join MEF aligns with key goals of our Microsoft Azure for Operators initiative to bring the power of the cloud to the network, unlock the potential of 5G, and drive down ..."
-publishedDateTime: 2020-10-27T22:53:00Z
-originalUrl: "https://redmondmag.com/articles/2020/10/27/microsoft-joins-mef.aspx"
-webUrl: "https://redmondmag.com/articles/2020/10/27/microsoft-joins-mef.aspx"
+title: "The Essential Starter’s Guide to Microsoft Azure for IT Leaders"
+excerpt: "Cloud consumption is on the rise as enterprise organizations and small-and-medium businesses alike shift larger portions of their IT spend toward cloud infrastructure and services like Microsoft Azure."
+publishedDateTime: 2020-10-28T06:31:00Z
+originalUrl: "https://www.infoworld.com/resources/209761/the-essential-starter-s-guide-to-microsoft-azure-for-it-leaders"
+webUrl: "https://www.infoworld.com/resources/209761/the-essential-starter-s-guide-to-microsoft-azure-for-it-leaders"
 type: article
-quality: 37
+quality: 77
 heat: -1
 published: false
 
 provider:
-  name: Redmond Magazine
-  domain: redmondmag.com
+  name: InfoWorld
+  domain: infoworld.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/infoworld.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
 
 images:
-  - url: "https://redmondmag.com/-/media/ECG/visualstudiomagazine/Images/introimages/0513vsm_Gousset.jpg"
-    width: 647
-    height: 450
+  - url: "https://idge.staticworld.net/ifw/IFW_logo_social_300x300.png"
+    width: 300
+    height: 300
     isCached: true
 
 related:
@@ -87,20 +91,6 @@ related:
       - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201028&t=2&i=1539063951&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9R05H"
         width: 816
         height: 545
-        isCached: true
-  - title: "The Essential Starter’s Guide to Microsoft Azure for IT Leaders"
-    excerpt: "Cloud consumption is on the rise as enterprise organizations and small-and-medium businesses alike shift larger portions of their IT spend toward cloud infrastructure and services like Microsoft Azure."
-    publishedDateTime: 2020-10-28T06:31:00Z
-    webUrl: "https://www.infoworld.com/resources/209761/the-essential-starter-s-guide-to-microsoft-azure-for-it-leaders"
-    type: article
-    provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 77
-    images:
-      - url: "https://idge.staticworld.net/ifw/IFW_logo_social_300x300.png"
-        width: 300
-        height: 300
         isCached: true
   - title: "AZ 120 Exam Questions Released for Microsoft Azure for SAP Workloads"
     excerpt: "Azure SAP workloads certification held incredibly great importance in today's world. It is a rapidly emerging and growing industry that had set its roots in every"
@@ -201,6 +191,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Microsoft Joins MEF To Bolster Azure for Operators Services"
+    excerpt: "\"Microsoft's decision to join MEF aligns with key goals of our Microsoft Azure for Operators initiative to bring the power of the cloud to the network, unlock the potential of 5G, and drive down ..."
+    publishedDateTime: 2020-10-27T22:53:00Z
+    webUrl: "https://redmondmag.com/articles/2020/10/27/microsoft-joins-mef.aspx"
+    type: article
+    provider:
+      name: Redmond Magazine
+      domain: redmondmag.com
+    quality: 37
+    images:
+      - url: "https://redmondmag.com/-/media/ECG/visualstudiomagazine/Images/introimages/0513vsm_Gousset.jpg"
+        width: 647
+        height: 450
+        isCached: true
   - title: "SAP Solutions and Microsoft Azure Combine Efforts To Drive Forward Business Growth Across the Middle East and Africa"
     excerpt: "... of SAP workloads in the UAE data centre region at the Middle East and Africa Edition of the SAP Solutions on Microsoft Azure Virtual Event. Microsoft announced the availability of SAP workloads in the UAE data centre region at the Middle East and ..."
     publishedDateTime: 2020-10-26T09:47:00Z
@@ -292,6 +296,6 @@ related:
         height: 627
         isCached: true
 
-secured: "WpvYAjKcPol4ZD097yW3jwcWatSCDDCpZ5UzFbq8mYOWNtC9vuOdjsZa6Jql+d/dqII2ABW5uCIk7EqeQ/uStRD11nk9Q8vxTAOvxSADkQksg02f/lYqaxJrMC7VX5kHHkvtzNqeKfoF08TuCwLK+vImR3J5zPHgxTM2/yDkadHScgiBwVMB1sUV3D5s9LzH4UovIPHPni/Pbj1D0+sv+8+duF/ZMZopnOm9jgQXNe7LCjcX9nymLacDiO9t2Lt4LnztZxv/M8E6hFA+/LAsJbhVxsJRYryucRlV5ix3iQgc0j7qut4klJECyhI/xOssEirKVz8O8x+IP6Z0IW37iCJ1kdPyrpRGaI0XfEeJgAs=;TMDgsYEZYg8L0YoGEC6OyQ=="
+secured: "lF/FkLWjU5s3a0PHV28CKtyqH5EKyS2l657ccuVqdfE+1Zd8wmCDRaxuhsoVCCjVV/hIsfDS2Tb0xUb0e4htWzY/CuMfuW6zYGsVOpSR0b/WRnGPVGLS7ze3E4x4s0Y4NkfTZDB7Ra8Cbf89jPT+j1qHUu6uUehQvHYQUPcW82f/oXPmdoqqpBR1peyyZAiMbRjCpjNT4LHT/2dfYmM2wQvoep/EWPav8niMHsLmQjDfOjoIMypY3SVpdxFYIotPwjtjPdZWhELlEN+J2eFT2n8q1X2/zt7d4CVlVzq5VsMnZOO5dQQsaYGLgjz7rB8cN4HNYBUtr62WSOYJwnCYkIoyVdotdx3RU9kBI/etLOk=;W4+NDBox4Nba4ZamYXcrxQ=="
 ---
 

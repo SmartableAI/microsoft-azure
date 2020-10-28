@@ -3,10 +3,10 @@ category: news
 title: "Microsoft's commercial cloud continues to hum with Azure sales up 48% in Q1"
 excerpt: "Microsoft's first quarter sales fell short of expectations, but earnings were well ahead. Commercial cloud revenue was $15.2 billion, up 31% from a year ago. Commercial cloud reve"
 publishedDateTime: 2020-10-27T20:27:00Z
-originalUrl: "https://www.zdnet.com/index.php/category/2381/index.php/article/microsofts-commercial-cloud-continues-to-hum-with-azure-sales-up-48-in-q1/"
-webUrl: "https://www.zdnet.com/index.php/category/2381/index.php/article/microsofts-commercial-cloud-continues-to-hum-with-azure-sales-up-48-in-q1/"
-ampWebUrl: "https://www.zdnet.com/index.php/category/2381/index.php/google-amp/article/microsofts-commercial-cloud-continues-to-hum-with-azure-sales-up-48-in-q1/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2381/index.php/google-amp/article/microsofts-commercial-cloud-continues-to-hum-with-azure-sales-up-48-in-q1/"
+originalUrl: "https://www.zdnet.com/article/microsofts-commercial-cloud-continues-to-hum-with-azure-sales-up-48-in-q1/"
+webUrl: "https://www.zdnet.com/article/microsofts-commercial-cloud-continues-to-hum-with-azure-sales-up-48-in-q1/"
+ampWebUrl: "https://www.zdnet.com/google-amp/article/microsofts-commercial-cloud-continues-to-hum-with-azure-sales-up-48-in-q1/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsofts-commercial-cloud-continues-to-hum-with-azure-sales-up-48-in-q1/"
 type: article
 quality: 95
 heat: -1
@@ -77,6 +77,20 @@ related:
       - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201028&t=2&i=1539063951&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9R05H"
         width: 816
         height: 545
+        isCached: true
+  - title: "The Essential Starter’s Guide to Microsoft Azure for IT Leaders"
+    excerpt: "Cloud consumption is on the rise as enterprise organizations and small-and-medium businesses alike shift larger portions of their IT spend toward cloud infrastructure and services like Microsoft Azure."
+    publishedDateTime: 2020-10-28T06:31:00Z
+    webUrl: "https://www.infoworld.com/resources/209761/the-essential-starter-s-guide-to-microsoft-azure-for-it-leaders"
+    type: article
+    provider:
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 77
+    images:
+      - url: "https://idge.staticworld.net/ifw/IFW_logo_social_300x300.png"
+        width: 300
+        height: 300
         isCached: true
   - title: "AZ 120 Exam Questions Released for Microsoft Azure for SAP Workloads"
     excerpt: "Azure SAP workloads certification held incredibly great importance in today's world. It is a rapidly emerging and growing industry that had set its roots in every"
@@ -282,6 +296,6 @@ related:
         height: 627
         isCached: true
 
-secured: "DofXuLgVvDv/B/qxjWZwFL8mCrhWTE7omFrrYcaHpRfkSp3HfxVZxlQT35lgXPbIgpHr7hfLwpsSNgZlT+eJbB7w/y7/yZGLYsjQLa5AtD3uKcDXIN6bIZhppjNhiwffPXPdoWgZPdI0A+GifEmwLeiIl6p9yqTM30BDO2p09qNxWW/v07jCC66E28LVd57pw39cVECKmKlYFdUFBAhCPRTj0jQivrWCale72sBljE8Hic5ljZBSY6+qDBnl2KN0YlXZcgLB88ClQO/EBhZcsGWOnintead2/zGEQdO1N+rSxMl7vTr2KpSIBMDEHOMA4Vp+kJgm87UMcbfkGOwHKZZVxJQqOI4doGJvq32GgmrYGxgZEP2nf05PF8q1wSNXN2t66Weq/uRRBNdTp9WO8VoJl/R7A7M/mm3Z0s71PGcEHCr7cnUFfL68ooHNtIOuuRukKuLMUCsyOdEjts09oUyOCjZi444uJNpym7VoHXe4ckAsMmXlSgLL+JxnDyRd6g4v4OaaXPvHxxd6wi64WA==;f+u8/TycDjxa4PPzQnFSEA=="
+secured: "u5E+hpU3XsZThPVqp6W6INFzz3brIoDZ32SeozcYP6OUTd4ULg1uewYUe1hjjnMhZVwRnbSQUyoyCqICT4DONEbOANezZfaQjGiDGcGFg8W20jVWKAn9YQ/xOhpDFOl2wRa8RILxseqxbiY/R8jyzzC3m+9hq/wA7OkYNz2MDorRhILV9jNPFVBm0nZWhA1vChMpsOFf/DQv/2YDVPbOn0DeHEeYWLdPt0b/blrCEXsXKrm95xbJu8n05KTa2gAysUPzriftRgmk7H3OHh1HX8DMH8MrU/zt5KaOwzF2+eKvvxp2976TTCTFB28Z4OIfCEH4rs0Wp8b83H9XvWQ65Z43FhCnWa+y6aTDEgvu66A=;kEQwdVW7BtMHDE9asICoIg=="
 ---
 

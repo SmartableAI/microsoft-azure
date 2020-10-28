@@ -37,9 +37,9 @@ related:
   - title: "Microsoft's commercial cloud continues to hum with Azure sales up 48% in Q1"
     excerpt: "Microsoft's first quarter sales fell short of expectations, but earnings were well ahead. Commercial cloud revenue was $15.2 billion, up 31% from a year ago. Commercial cloud reve"
     publishedDateTime: 2020-10-27T20:27:00Z
-    webUrl: "https://www.zdnet.com/index.php/category/2381/index.php/article/microsofts-commercial-cloud-continues-to-hum-with-azure-sales-up-48-in-q1/"
-    ampWebUrl: "https://www.zdnet.com/index.php/category/2381/index.php/google-amp/article/microsofts-commercial-cloud-continues-to-hum-with-azure-sales-up-48-in-q1/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2381/index.php/google-amp/article/microsofts-commercial-cloud-continues-to-hum-with-azure-sales-up-48-in-q1/"
+    webUrl: "https://www.zdnet.com/article/microsofts-commercial-cloud-continues-to-hum-with-azure-sales-up-48-in-q1/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsofts-commercial-cloud-continues-to-hum-with-azure-sales-up-48-in-q1/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsofts-commercial-cloud-continues-to-hum-with-azure-sales-up-48-in-q1/"
     type: article
     provider:
       name: ZDNet
@@ -81,6 +81,20 @@ related:
       - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201028&t=2&i=1539063951&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9R05H"
         width: 816
         height: 545
+        isCached: true
+  - title: "The Essential Starter’s Guide to Microsoft Azure for IT Leaders"
+    excerpt: "Cloud consumption is on the rise as enterprise organizations and small-and-medium businesses alike shift larger portions of their IT spend toward cloud infrastructure and services like Microsoft Azure."
+    publishedDateTime: 2020-10-28T06:31:00Z
+    webUrl: "https://www.infoworld.com/resources/209761/the-essential-starter-s-guide-to-microsoft-azure-for-it-leaders"
+    type: article
+    provider:
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 77
+    images:
+      - url: "https://idge.staticworld.net/ifw/IFW_logo_social_300x300.png"
+        width: 300
+        height: 300
         isCached: true
   - title: "AZ 120 Exam Questions Released for Microsoft Azure for SAP Workloads"
     excerpt: "Azure SAP workloads certification held incredibly great importance in today's world. It is a rapidly emerging and growing industry that had set its roots in every"
