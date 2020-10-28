@@ -41,6 +41,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 84
+  - title: "Java 11 support for Azure Functions is now generally available"
+    excerpt: "Developers can now build and publish Azure Functions Apps using Java 11."
+    publishedDateTime: 2020-10-26T16:00:01Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/java-11-support-for-azure-functions-is-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
   - title: "Azure role-based access control (RBAC) for Azure Key Vault data plane authorization is now in preview"
     excerpt: "Achieve unified management and access control across Azure resources, Azure Key Vault and keys, certificates, and secrets."
     publishedDateTime: 2020-10-19T16:00:01Z

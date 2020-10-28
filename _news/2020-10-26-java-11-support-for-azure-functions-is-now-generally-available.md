@@ -1,11 +1,12 @@
 ---
 category: news
-title: "Private Link is now available on Event Grid"
-excerpt: ""
-publishedDateTime: 2020-05-13T16:00:54Z
-webUrl: "https://azure.microsoft.com/en-us/updates/private-link-is-now-available-on-event-grid/"
+title: "Java 11 support for Azure Functions is now generally available"
+excerpt: "Developers can now build and publish Azure Functions Apps using Java 11."
+publishedDateTime: 2020-10-26T16:00:01Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/java-11-support-for-azure-functions-is-now-generally-available/"
+webUrl: "https://azure.microsoft.com/en-us/updates/java-11-support-for-azure-functions-is-now-generally-available/"
 type: article
-quality: 2
+quality: 84
 heat: -1
 published: false
 
@@ -19,6 +20,7 @@ provider:
 
 topics:
   - Azure
+  - Serverless
 
 related:
   - title: "Azure Key Vault Event Grid integration is now available"
@@ -48,15 +50,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 84
-  - title: "Java 11 support for Azure Functions is now generally available"
-    excerpt: "Developers can now build and publish Azure Functions Apps using Java 11."
-    publishedDateTime: 2020-10-26T16:00:01Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/java-11-support-for-azure-functions-is-now-generally-available/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 84
   - title: "Azure role-based access control (RBAC) for Azure Key Vault data plane authorization is now in preview"
     excerpt: "Achieve unified management and access control across Azure resources, Azure Key Vault and keys, certificates, and secrets."
     publishedDateTime: 2020-10-19T16:00:01Z
@@ -75,7 +68,16 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
+  - title: "Private Link is now available on Event Grid"
+    excerpt: ""
+    publishedDateTime: 2020-05-13T16:00:54Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/private-link-is-now-available-on-event-grid/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 2
 
-secured: "CVhnnU/xfOkoHjDSRf6oGTzgnqODtnCbBemH/C+2V+IoGN38lvJD6LfXyv1gDQdi6SNs57wIwHpqJpQ/i5SOBvtSYFZOmYuXt6+nsg3QLUP/0g5PgPf0VnPPmEz1kLq0qKpRb3099u8RvGE3n8TgGnTwlB3AHjvP/rN62Z3WSuzn7tTd9FSmYSUFx6wyvm4LyrauGrpFqu6FKne60kcfnBhgxLflt6F4ETGufx2H1FYE60Jya42g6I4odBHoUJJzSeUQOwlCCD15C0unrNBe+chsqDtVPynsvC9aPQ7loaA4BVLX8m0GNbuyNw73bO7l8uhtSNhPmT+XfZp+HIYKMw==;4w9U1GWzVwZkvyp605xTbQ=="
+secured: "XjVYZT5QGm9dGZpDk0+AavQ+bHCZA2tuSzvfxQGvha9UG4l9JfDGy1uWg5iav9Eu5A1o4kcpLfbik9JBteRVWpbqAYBFz9VdCPUKDJPgvmlXCQA+Droy21q6upDo7Z5FSMgKqj7nRCI4HRm/d36/MKMgf2nMOnplNfgFZby2Z0xFz65UPgCO7dEp0moDmKRS6BpEEebyo0Rrqu863dmwmPFS1YZkTxhW4CcBTdWkPweGdpbXGoQC44C16AYQE/JHK61LN9cmxkDNOcYAWwaiNzMYJurG83xAFGzZxY82XkTsuYK+fIavJ+mif8QS2sHmmMzdW0oKgJqKN2u+4iBU7KS3XOlQ8OxBPwxOM+dIM0s=;tNufO4tOn1E6vcBN823S2w=="
 ---
 

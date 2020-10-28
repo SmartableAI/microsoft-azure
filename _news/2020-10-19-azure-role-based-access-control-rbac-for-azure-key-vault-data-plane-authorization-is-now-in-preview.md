@@ -50,6 +50,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 84
+  - title: "Java 11 support for Azure Functions is now generally available"
+    excerpt: "Developers can now build and publish Azure Functions Apps using Java 11."
+    publishedDateTime: 2020-10-26T16:00:01Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/java-11-support-for-azure-functions-is-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
   - title: "Azure Sphere update 20.10 is now available for compatibility testing"
     excerpt: "The Azure Sphere OS update 20.10 is now available for evaluation via the Retail Eval feed. The 20.10 evaluation release includes an OS update as well as a special evaluation version of the SDK for use during this period. T"
     publishedDateTime: 2020-10-14T18:25:51Z
