@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/azure-cost-management-billing-upd
 webUrl: "https://azure.microsoft.com/blog/azure-cost-management-billing-updates-october-2020/"
 type: article
 quality: 103
-heat: 263
+heat: 283
 published: true
 
 provider:
@@ -95,6 +95,15 @@ related:
     excerpt: "Start using the new developer portal in Azure API Management."
     publishedDateTime: 2020-10-28T00:00:19Z
     webUrl: "https://azure.microsoft.com/en-us/updates/legacy-developer-portal-in-azure-api-management-will-retire-on-31-october-2023/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 80
+  - title: "We’re retiring Azure SQL DB Import-Export Direct Endpoints on 31 October 2023 "
+    excerpt: "Start using Azure Resource Manager REST APIs."
+    publishedDateTime: 2020-10-28T16:00:30Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/we-re-retiring-azure-sql-db-importexport-direct-endpoints-on-31-october-2023/"
     type: article
     provider:
       name: Microsoft

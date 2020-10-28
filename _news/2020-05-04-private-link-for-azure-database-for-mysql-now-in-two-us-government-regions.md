@@ -30,6 +30,24 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 99
+  - title: "Azure Database for PostgreSQL - Single Server now available in Brazil Southeast"
+    excerpt: "The preview support in the Brazil Southeast region provides additional flexibility in deploying solutions to help accelerate innovation. "
+    publishedDateTime: 2020-10-28T16:00:29Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/new-regions-for-postgresql-single-server-in-brazil-southeast/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 95
+  - title: "New region for MySQL - Single Server in Brazil Southeast"
+    excerpt: "Preview support of Azure Database for MySQL - Single Server is now available in the Brazil Southeast region, adding additional flexibility in deploying solutions to help accelerate innovation. "
+    publishedDateTime: 2020-10-28T16:18:37Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/new-regions-for-mysql-single-server-in-brazil-southeast/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 52
 
 secured: "l59AEng8vbDGEfNwBqq52PTZMZarDOns1MCcOLyJ0l1dnn/krVm8erVqKedJdYZLsiubZfaXFqzoIAndmlTyZzr5GCLWQm7oDq7DB9FGSJ+306ceNC/5pa9h/wxr7HmeME3GavbrSvAOTqkE4JU6nVCFwjtMyNiuwmW8hVGkBi2/0LLwTPkBMj1BzFfT5aUppX/5tb5ox7ocSJFgpSyq5aUz9hXwTD5gCOpHOvJUGU+eEnGhXGbu2gJtfzTMgE4bFVPnZc/rG2O4e6FB6z9TrwcIVDkhqqr5nLdzN33s1B+ltxJTJiQPWzFn49kdOeMq/5HykuJxiVHasb6NLsKE8A==;puGEmpEFfXrODk2UrC2pXQ=="
 ---

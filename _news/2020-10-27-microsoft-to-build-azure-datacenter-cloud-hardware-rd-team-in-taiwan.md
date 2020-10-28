@@ -24,33 +24,20 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft plans to establish new cloud datacenter region in Greece"
-    excerpt: "The new region is anticipated to include Microsoft Azure, with Microsoft 365, Dynamics 365 and Power Platform to follow."
-    publishedDateTime: 2020-10-05T17:29:42Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/microsoft-plans-to-establish-new-cloud-datacenter-region-in-greece/"
+  - title: "Microsoft Cloud for Healthcare: Unlocking the power of health data for better care"
+    excerpt: "As healthcare providers have faced unprecedented workloads (individually and institutionally) around the world, the pandemic response continues to cause seismic shifts in how, where, and when care is provided. Longer term, it has revealed the need for fundamental shifts across the care continuum."
+    publishedDateTime: 2020-10-28T10:00:28Z
+    webUrl: "https://azure.microsoft.com/blog/microsoft-cloud-for-healthcare-unlocking-the-power-of-health-data-for-better-care/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 52
-  - title: "Microsoft plans to establish new cloud datacenter region in Austria"
-    excerpt: "The new region is anticipated to include Microsoft Azure, with Microsoft 365, Dynamics 365 and Power Platform to follow."
-    publishedDateTime: 2020-10-21T19:19:56Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/microsoft-plans-to-establish-new-cloud-datacenter-region-in-austria/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 52
-  - title: "Microsoft to establish its first datacenter region in Taiwan "
-    excerpt: "The new region is anticipated to include Microsoft Azure, with Microsoft 365, Dynamics 365 and Power Platform to follow."
-    publishedDateTime: 2020-10-27T16:05:07Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/microsoft-to-establish-its-first-datacenter-region-in-taiwan-as-a-part-of-its-reimagine-taiwan-initiative/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 52
+    quality: 66
+    images:
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/808b9a14-e171-4392-a41d-03ee77bccdbd.jpeg"
+        width: 1440
+        height: 600
+        isCached: true
 
 secured: "DpkBsa51wwUK3Km/rJeUu+tZ+8Bgf3la9SF25ALGGRfPpMM7ftWLMJeN5nSyAGTSs0T5ITyZ18cEjmJPZKjOxtHZE9+hZWbh2nejnSVdNxbIOh+hadbqc/XyF4T/KSf4jRrMHE7nhbryBAd628QQKys6VSvb0889lq2gYyF/tEDsAylwcSi1lBFOq/FlN3jlH37x6rL3kozAdTVsTVlwWkSRgKJ2yPVg8JxWCDZ2wDJyqQGPx9HOJddynqd9ZUSro2ZvVQtCsU4C7BXyb1Zmsca+05vQRhBoYOMxCxItV3aYPQ/OiycKf6ME3VZTvv21sPjCvA+/oHWH9Kq0x6OBhxjcMk91XELOWBo76K8I5YgwRe9ffVgq+VfJQ/HZBdLZIm+7P0okKek9BEp1G+iEXE5Plo/HkRHhpPgE7u97OUxlnz/xnkKORwHwKJuLpzytAbGdMPN1IfYvNCI4MCENx6Kq5Khtt/+HAveheIqjefCdFWs93p38zc953rCFztmjhKhdmEpn8pgdHc/2XKFb0A==;cnFHuUGGSv5AcJcy9/6lqw=="
 ---

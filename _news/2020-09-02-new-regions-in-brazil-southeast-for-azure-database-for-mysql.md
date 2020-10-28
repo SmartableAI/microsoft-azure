@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/new-regions-in-brazil-so
 webUrl: "https://azure.microsoft.com/en-us/updates/new-regions-in-brazil-southeast-for-azure-database-for-mysql/"
 type: article
 quality: 99
-heat: 119
+heat: 159
 published: true
 
 provider:
@@ -23,6 +23,24 @@ topics:
   - Databases
 
 related:
+  - title: "Azure Database for PostgreSQL - Single Server now available in Brazil Southeast"
+    excerpt: "The preview support in the Brazil Southeast region provides additional flexibility in deploying solutions to help accelerate innovation. "
+    publishedDateTime: 2020-10-28T16:00:29Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/new-regions-for-postgresql-single-server-in-brazil-southeast/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 95
+  - title: "New region for MySQL - Single Server in Brazil Southeast"
+    excerpt: "Preview support of Azure Database for MySQL - Single Server is now available in the Brazil Southeast region, adding additional flexibility in deploying solutions to help accelerate innovation. "
+    publishedDateTime: 2020-10-28T16:18:37Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/new-regions-for-mysql-single-server-in-brazil-southeast/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 52
   - title: "Private Link for Azure Database for MySQL now in two US government regions"
     excerpt: ""
     publishedDateTime: 2020-05-04T18:00:17Z

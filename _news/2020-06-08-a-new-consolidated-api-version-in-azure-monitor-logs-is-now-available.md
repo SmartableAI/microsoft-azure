@@ -42,15 +42,6 @@ related:
         width: 651
         height: 768
         isCached: true
-  - title: "Azure Monitor for Containers support for Azure Arc is in preview"
-    excerpt: "Azure Monitor for Containers is now extending monitoring support for Kubernetes clusters hosted on Azure Arc. This support is currently in preview."
-    publishedDateTime: 2020-06-17T21:30:19Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azcoinarc/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 17
 
 secured: "UWl/zvTwuDJkUR3jnfjev/SheW3awbeXRJPLIQrkz/X1Swp0yEdU0hQj//DZwO207xPS/L1GEBZiMVpzHrU0JFll5E4WaM/7DuW3HUuiH5hso44okH428A21+tocIgw4lPlkUyBvwvx8JPhT4WQLgn0T5RJI0+YM7PDH3igk1MEh30p7nXgmnpTuTtin0sMetGYUip99q917Zyt2FCeoj1QEUD6GW4ROvEJhEjuQVgk2/ZtXD/Hc/TzjUjcIqtJOeWumQpsMws4Uo7hnx7nmOC/ZoQF3wSo7hjakE+X7thwG2nCCI8LdYf9/+cK+nge42u2OcbZomxrLORtwHzQ5KQ==;knkEd/FySgc76a2c5dJ7GQ=="
 ---

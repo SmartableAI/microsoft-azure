@@ -61,6 +61,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 84
+  - title: "Public Preview: Azure Log Analytics in Brazil Southeast and Norway East "
+    excerpt: "Brazil Southeast and Norway East are now in public preview for customers to start collecting telemetry and analyze their services for health and usage using Azure Log Analytics."
+    publishedDateTime: 2020-10-28T16:45:59Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-azure-log-analytics-in-brazil-south-east-and-norway-east/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 83
   - title: "Line numbers in Log Analytics query editor"
     excerpt: "Log Analytics query editor now show line numbers when composing a query"
     publishedDateTime: 2020-08-13T16:00:06Z

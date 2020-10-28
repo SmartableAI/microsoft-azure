@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/new-features-and-insights-in-azur
 webUrl: "https://azure.microsoft.com/blog/new-features-and-insights-in-azure-monitor/"
 type: article
 quality: 106
-heat: 146
+heat: 126
 published: true
 
 provider:
@@ -45,15 +45,6 @@ related:
         width: 640
         height: 386
         isCached: true
-  - title: "Azure Monitor for Containers support for Azure Arc is in preview"
-    excerpt: "Azure Monitor for Containers is now extending monitoring support for Kubernetes clusters hosted on Azure Arc. This support is currently in preview."
-    publishedDateTime: 2020-06-17T21:30:19Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azcoinarc/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 17
 
 secured: "/3wInhKY/QAFG83nb8YgxCMDKbhO0gIeBrZbdmgfyTlor4dH0yv3LoAk1mH+WqcYyupkwQ0on9Rn4aFEnr7NJ4yC9whsYLpCc3hBdT5VHSu0jXkaZe3TO9FywQ5G5kS40ReCSJ2sGxTYod+9JDmpreGp7hXbbg6zV9yLMXuYrOI4lUl1cWCLJ0MToqrgtvCNCJ/E+JBtTRh3DNA/F05xhpxBovIHqHul+K3vobGUgYI+5oR6QHrxw5K3a/LGYrYh/KLYnmPW8LGWmRdOGQ/7WtbgnLHSb/WLiErWDtZN2qci5rMETb4Hu/mrzGQAlBIH6nuK3aqQHcrJ9Ayt4tGcLy/gt7PF+dgPVnVTwiCvEGg=;t/S5Cdl5XxLI+tAzs7qpXw=="
 ---

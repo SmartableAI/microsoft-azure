@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-10T17:00:04Z
 webUrl: "https://azure.microsoft.com/en-us/updates/cloudshell-vnet/"
 type: article
 quality: 64
-heat: 104
+heat: 84
 published: true
 
 provider:
@@ -21,15 +21,6 @@ topics:
   - Azure
 
 related:
-  - title: "Public preview: Ephemeral OS disk support in AKS"
-    excerpt: "AKS now supports ephemeral OS disk for AKS agent nodes in public preview."
-    publishedDateTime: 2020-08-17T23:00:03Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-ephemeral-os-disk-support-in-aks/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 52
   - title: "Selective disks backup for Azure Virtual Machine is in public preview"
     excerpt: "Optimize your costs and enjoy faster backup and restore operations by selectively backing up a subset of the data disks in a VM."
     publishedDateTime: 2020-08-06T18:00:12Z

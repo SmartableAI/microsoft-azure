@@ -92,6 +92,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 81
+  - title: "We’re retiring Azure SQL DB Import-Export Direct Endpoints on 31 October 2023 "
+    excerpt: "Start using Azure Resource Manager REST APIs."
+    publishedDateTime: 2020-10-28T16:00:30Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/we-re-retiring-azure-sql-db-importexport-direct-endpoints-on-31-october-2023/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 80
   - title: "Azure Cost Management + Billing updates – June 2020"
     excerpt: "Flexibility was the main theme for June, with more customizable budget notifications, a way to monitor your cost recommendations, and automated subscription creation for Azure Government. And of course, these are just a few highlights. Don't forget to check out new ways to save, a new video, and our"
     publishedDateTime: 2020-06-30T09:00:33Z

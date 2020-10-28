@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Microsoft announces its first Azure data center region in Taiwan"
+    excerpt: "After announcing its latest data center region in Austria earlier this month and an expansion of its footprint in Brazil, Microsoft today unveiled its plans to open a new region in Taiwan. This new region will augment its existing presence in East Asia,"
+    publishedDateTime: 2020-10-28T17:03:00Z
+    webUrl: "https://techcrunch.com/2020/10/28/microsoft-announces-its-first-azure-data-center-region-in-taiwan/"
+    ampWebUrl: "https://techcrunch.com/2020/10/28/microsoft-announces-its-first-azure-data-center-region-in-taiwan/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/10/28/microsoft-announces-its-first-azure-data-center-region-in-taiwan/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 97
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2020/10/GettyImages-1152031669.jpg?w=1024"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Microsoft's commercial cloud continues to hum with Azure sales up 48% in Q1"
     excerpt: "Microsoft's first quarter sales fell short of expectations, but earnings were well ahead. Commercial cloud revenue was $15.2 billion, up 31% from a year ago. Commercial cloud reve"
     publishedDateTime: 2020-10-27T20:27:00Z
@@ -149,6 +165,26 @@ related:
         width: 640
         height: 427
         isCached: true
+  - title: "Microsoft Cloud for Healthcare is now generally available "
+    excerpt: "Microsoft Cloud for Healthcare will make it easier for healthcare organizations to remain agile and focus on what they do best—delivering better experiences, insights, and care."
+    publishedDateTime: 2020-10-28T17:00:28Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/microsoft-cloud-for-healthcare-is-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 52
+  - title: "Microsoft's first 'vertical cloud,' the Microsoft Cloud for Healthcare, is now generally available"
+    excerpt: "Microsoft's Cloud for Healthcare builds on Azure, Microsoft 365, Dynamics 365 and the Power Platform and is designed to deal with both structured and unstructured health data."
+    publishedDateTime: 2020-10-28T17:24:00Z
+    webUrl: "https://www.zdnet.com/article/microsofts-first-vertical-cloud-the-microsoft-cloud-for-healthcare-is-now-generally-available/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsofts-first-vertical-cloud-the-microsoft-cloud-for-healthcare-is-now-generally-available/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsofts-first-vertical-cloud-the-microsoft-cloud-for-healthcare-is-now-generally-available/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 48
   - title: "Congruity360 Now Available in the Microsoft Azure Marketplace"
     excerpt: "Congruity360, data governance and storage leader, today announced the availability of Classify360 in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure."
     publishedDateTime: 2020-10-22T13:00:00Z

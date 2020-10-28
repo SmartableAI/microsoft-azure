@@ -56,6 +56,15 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 91
+  - title: "Public preview: Auditing of Microsoft support operations in Azure SQL DB and Azure SQL MI"
+    excerpt: "The auditing of Microsoft support operations capability enables the audit of Microsoft support operations when accessing servers and/or databases during a support request to an audit logs destination. The use of this capability, along with auditing, enables more transparency into the workforce and allows"
+    publishedDateTime: 2020-10-28T16:00:29Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/auditing-of-microsoft-support-operations-in-azure-sql-db-and-azure-sql-mi/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 75
   - title: "Microsoft and SpaceX partner to use Azure with Starlink satellite"
     excerpt: "We’ve seen Microsoft look to expand its services out into space, as the company recently announced Azure Orbital, a service that connects satellites via cloud. On the other hand, SpaceX has been using its Starlink satellites to offer internet around the globe."
     publishedDateTime: 2020-10-20T19:10:00Z

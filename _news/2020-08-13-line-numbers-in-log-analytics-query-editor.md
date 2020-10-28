@@ -73,6 +73,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 84
+  - title: "Public Preview: Azure Log Analytics in Brazil Southeast and Norway East "
+    excerpt: "Brazil Southeast and Norway East are now in public preview for customers to start collecting telemetry and analyze their services for health and usage using Azure Log Analytics."
+    publishedDateTime: 2020-10-28T16:45:59Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-azure-log-analytics-in-brazil-south-east-and-norway-east/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 83
   - title: "Azure Monitor Logs – Log Analytics REST APIs general availability"
     excerpt: "Log Analytics control plane REST APIs are generally available under a new consolidated version 2020-08-01."
     publishedDateTime: 2020-08-27T17:00:14Z

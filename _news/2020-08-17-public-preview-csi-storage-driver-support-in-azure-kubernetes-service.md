@@ -6,8 +6,8 @@ publishedDateTime: 2020-08-17T23:02:45Z
 webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-csi-storage-driver-support-in-azure-kubernetes-service/"
 type: article
 quality: 67
-heat: -1
-published: false
+heat: 127
+published: true
 
 provider:
   name: Microsoft
@@ -21,15 +21,33 @@ topics:
   - Azure
 
 related:
-  - title: "General Availability: Azure Kubernetes Service node image upgrade "
-    excerpt: "Users can now initiate a targeted upgrade to agent nodes for a given node pool to pull the latest available node updates and patches without requiring a full cluster upgrade"
-    publishedDateTime: 2020-08-17T22:59:08Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azure-kubernetes-service-node-image-upgrade/"
+  - title: "Public preview: Ephemeral OS disk support in AKS"
+    excerpt: "AKS now supports ephemeral OS disk for AKS agent nodes in public preview."
+    publishedDateTime: 2020-08-17T23:00:03Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-ephemeral-os-disk-support-in-aks/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 67
+    quality: 52
+  - title: "Public Preview: Cognitive Services Form Recognizer v2.1"
+    excerpt: "Form Recognizer v2.1-preview.1 has been released. It includes support for new languages, checkbox/selection marks, and the submit multiple form types to a single model Id."
+    publishedDateTime: 2020-08-21T17:00:18Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/form-recognizer-v2-1/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 52
+  - title: "Kubernetes resource view is in public preview"
+    excerpt: "Kubernetes resource view allows developers to use point and click navigation to see live, in-depth details of their workloads."
+    publishedDateTime: 2020-08-05T16:00:01Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/kubernetes-resource-view-is-in-public-preview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 2
 
 secured: "2orLVsxynGOzL+pDdqfGZyr/PJknQkW7o29w20OzOFMW29Vs5Q+O6J4RlDvICfQBDQdA9EynnsVcoOE4FxZr7OP/XR1r88u7+oBmfSWJOdOKFvddjoSecoWfyZiXdn0viGOJjV1YCrdjrfxCOXZ3mVYbHSg2wijvw7HGRKbrxObM3PgdurMxdv02Iby9UNqcVUjCfvlZBTx4URwyVkuL5RvoGg/Bjv3lUnxHpOeKp0gfOxvV14dwDuj6pZlQkaE8sxn63TOfet6190PBwUXolpwZ2FmMWgGPsYdv1t1SMirmszEnCr4/9dU7XIpx0k/pFGeBICVe6UCm2Qr0YLe68XkDWNf/kSFWKKgW7p18CLo=;SC8va9r8TofzRJehS7mIoQ=="
 ---

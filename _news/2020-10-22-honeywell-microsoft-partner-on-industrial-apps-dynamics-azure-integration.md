@@ -41,6 +41,15 @@ related:
         width: 760
         height: 428
         isCached: true
+  - title: "Public preview: Auditing of Microsoft support operations in Azure SQL DB and Azure SQL MI"
+    excerpt: "The auditing of Microsoft support operations capability enables the audit of Microsoft support operations when accessing servers and/or databases during a support request to an audit logs destination. The use of this capability, along with auditing, enables more transparency into the workforce and allows"
+    publishedDateTime: 2020-10-28T16:00:29Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/auditing-of-microsoft-support-operations-in-azure-sql-db-and-azure-sql-mi/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 75
   - title: "Microsoft unlocks the full potential of the smart building ecosystem"
     excerpt: "It is impossible to understate the profound impact 2020 events have had on the real estate industry. Buildings of all kinds, from commercial offices to retail, hospitals, manufacturing plants, and more, remain in need of transformative solutions that will enable employees to return to work safely. In"
     publishedDateTime: 2020-10-26T06:00:00Z

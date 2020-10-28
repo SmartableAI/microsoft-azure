@@ -30,15 +30,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 64
-  - title: "Public preview: Ephemeral OS disk support in AKS"
-    excerpt: "AKS now supports ephemeral OS disk for AKS agent nodes in public preview."
-    publishedDateTime: 2020-08-17T23:00:03Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-ephemeral-os-disk-support-in-aks/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 52
 
 secured: "HZ97F21NYuC77NQIoHM2nJ+F3ozurrfN+7RDUjJgmsD1aVdJm3HbsL1DS7Ge0b8X4TM+o1QBzgc2S/1LetMpVVcKQLKNq0LPEh24Dsg3IYSQTR0EtfTvhUslGnS3tNbQhxa4kbnPgagu69PJ/Ur78/He/cROcMK5HjHrvA3Xb5jnstern+C5vwFsR0F/Q4rGkYneKzc6GEkvCBtPW0xmCcSsqfISSAK7Cl1v+ZnvXcRjTnq4iiU2ke5r7O4qSEzTLGuVMENLB15jL1KDefU+EhU3y07Ie1e2glusa5ACTlq0lf9iW30+Ut65xl/9YS423BCRJfBP1uIk8fdxXmbgHA==;vRPLvaKFEUlWW1uz+tYSqg=="
 ---
