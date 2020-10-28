@@ -108,6 +108,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Microsoft Shares Slip Lower Despite Azure-Driven Q1 Earnings Beat"
+    excerpt: "Cloud revenues continue to drive growth for tech giant Microsoft, which has seen a surge in companies shifting their business process online and consumers upping purchases of PCs and video game consoles during the coronavirus pandemic."
+    publishedDateTime: 2020-10-28T10:19:00Z
+    webUrl: "https://www.thestreet.com/investing/microsoft-shares-slip-despite-azure-driven-q1-earnings-beat"
+    ampWebUrl: "https://www.thestreet.com/.amp/investing/microsoft-shares-slip-despite-azure-driven-q1-earnings-beat"
+    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/microsoft-shares-slip-despite-azure-driven-q1-earnings-beat"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 57
+    images:
+      - url: "https://content.jwplatform.com/thumbs/d1jzoVNs-720.jpg"
+        width: 720
+        height: 406
+        isCached: true
   - title: "Microsoft’s Azure To Be Connected To SpaceX’s Starlink Satellite Internet"
     excerpt: "SpaceX launched 60 Starlink satellites on Sunday Microsoft launched Azure Orbital, to connect cloud services to satellites Jeff Bezos' cloud services already offer similar services Microsoft Azure’s cloud services will now be connected directly to SpaceX ..."
     publishedDateTime: 2020-10-21T11:31:00Z
@@ -296,6 +312,6 @@ related:
         height: 627
         isCached: true
 
-secured: "u5E+hpU3XsZThPVqp6W6INFzz3brIoDZ32SeozcYP6OUTd4ULg1uewYUe1hjjnMhZVwRnbSQUyoyCqICT4DONEbOANezZfaQjGiDGcGFg8W20jVWKAn9YQ/xOhpDFOl2wRa8RILxseqxbiY/R8jyzzC3m+9hq/wA7OkYNz2MDorRhILV9jNPFVBm0nZWhA1vChMpsOFf/DQv/2YDVPbOn0DeHEeYWLdPt0b/blrCEXsXKrm95xbJu8n05KTa2gAysUPzriftRgmk7H3OHh1HX8DMH8MrU/zt5KaOwzF2+eKvvxp2976TTCTFB28Z4OIfCEH4rs0Wp8b83H9XvWQ65Z43FhCnWa+y6aTDEgvu66A=;kEQwdVW7BtMHDE9asICoIg=="
+secured: "BIovRJXeencz26XlYV0x7yU6xCD9EvYyPCcXgySFU0C2rIppK7STn7oUs1CN0qfyPaNUWKXUjhXeITRYequYDLQhGQXPUGPt2C71SucoyFoqU+FS7bU2MSaeVuYVKABiUuaIggsdzu86yWdLK86qHbkwexLwDTF94i6UkPumgWjtEakkuoGaBk3bzjTHReAtnDeo0CO6ebfrYUqNPLcyZEvAHqvBcrHrS1q09dOWLN+fP6JnOnRx/xFPkudWXOscLwGqcpO0lbO6JQbPWGji9IlxmOvqBpYnEniYLxqGkQR05KvAyjOaOp1noqxPxJ2+jJzs9mZOQ9fDJIEMW9YOUVnmMAymVrZVx4zZjlNCH0cHi7iHBaGaVfgq01T/ET3qZ1i/Pg5nDutpamzifmoLsNh1nPBsQZh6HYRLkbJCxsF933YJFWlhVYg6bc+oVI2Y0JyeE5ijD51DhQAGgPZabW1/Ef24rsFwYJr7Nfbsg/g/tsFzXtmAejzVjWl5yzNmI8t4r2YoWqM64KI1pO5Rpg==;6pce768HDZUj9fH3teQx2g=="
 ---
 

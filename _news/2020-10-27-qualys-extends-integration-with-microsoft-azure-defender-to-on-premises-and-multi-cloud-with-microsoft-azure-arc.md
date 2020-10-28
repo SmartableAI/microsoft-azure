@@ -119,6 +119,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Microsoft Shares Slip Lower Despite Azure-Driven Q1 Earnings Beat"
+    excerpt: "Cloud revenues continue to drive growth for tech giant Microsoft, which has seen a surge in companies shifting their business process online and consumers upping purchases of PCs and video game consoles during the coronavirus pandemic."
+    publishedDateTime: 2020-10-28T10:19:00Z
+    webUrl: "https://www.thestreet.com/investing/microsoft-shares-slip-despite-azure-driven-q1-earnings-beat"
+    ampWebUrl: "https://www.thestreet.com/.amp/investing/microsoft-shares-slip-despite-azure-driven-q1-earnings-beat"
+    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/microsoft-shares-slip-despite-azure-driven-q1-earnings-beat"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 57
+    images:
+      - url: "https://content.jwplatform.com/thumbs/d1jzoVNs-720.jpg"
+        width: 720
+        height: 406
+        isCached: true
   - title: "Microsoft’s Azure To Be Connected To SpaceX’s Starlink Satellite Internet"
     excerpt: "SpaceX launched 60 Starlink satellites on Sunday Microsoft launched Azure Orbital, to connect cloud services to satellites Jeff Bezos' cloud services already offer similar services Microsoft Azure’s cloud services will now be connected directly to SpaceX ..."
     publishedDateTime: 2020-10-21T11:31:00Z

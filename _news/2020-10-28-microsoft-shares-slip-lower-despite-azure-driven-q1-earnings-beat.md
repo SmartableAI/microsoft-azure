@@ -1,21 +1,29 @@
 ---
 category: news
-title: "SAP partners with Microsoft Azure in the UAE"
-excerpt: "The statement was made at the Middle East and Africa Edition of the SAP Solutions on Microsoft Azure Virtual Event. The goal is to boost the cloud ecosystem in the region by empowering organizations to run their SAP workloads on Microsoft Azure."
-publishedDateTime: 2020-10-27T12:46:00Z
-originalUrl: "https://www.telecompaper.com/news/sap-partners-with-microsoft-azure-in-the-uae--1359243"
-webUrl: "https://www.telecompaper.com/news/sap-partners-with-microsoft-azure-in-the-uae--1359243"
+title: "Microsoft Shares Slip Lower Despite Azure-Driven Q1 Earnings Beat"
+excerpt: "Cloud revenues continue to drive growth for tech giant Microsoft, which has seen a surge in companies shifting their business process online and consumers upping purchases of PCs and video game consoles during the coronavirus pandemic."
+publishedDateTime: 2020-10-28T10:19:00Z
+originalUrl: "https://www.thestreet.com/investing/microsoft-shares-slip-despite-azure-driven-q1-earnings-beat"
+webUrl: "https://www.thestreet.com/investing/microsoft-shares-slip-despite-azure-driven-q1-earnings-beat"
+ampWebUrl: "https://www.thestreet.com/.amp/investing/microsoft-shares-slip-despite-azure-driven-q1-earnings-beat"
+cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/microsoft-shares-slip-despite-azure-driven-q1-earnings-beat"
 type: article
-quality: 17
+quality: 57
 heat: -1
 published: false
 
 provider:
-  name: Telecompaper
-  domain: telecompaper.com
+  name: TheStreet.com
+  domain: thestreet.com
 
 topics:
   - Azure
+
+images:
+  - url: "https://content.jwplatform.com/thumbs/d1jzoVNs-720.jpg"
+    width: 720
+    height: 406
+    isCached: true
 
 related:
   - title: "Microsoft Azure: This new technology allows you to manage Kubernetes containers across the hybrid cloud"
@@ -111,22 +119,6 @@ related:
       - url: "https://www.abnewswire.com/uploads/1603396615.png"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Microsoft Shares Slip Lower Despite Azure-Driven Q1 Earnings Beat"
-    excerpt: "Cloud revenues continue to drive growth for tech giant Microsoft, which has seen a surge in companies shifting their business process online and consumers upping purchases of PCs and video game consoles during the coronavirus pandemic."
-    publishedDateTime: 2020-10-28T10:19:00Z
-    webUrl: "https://www.thestreet.com/investing/microsoft-shares-slip-despite-azure-driven-q1-earnings-beat"
-    ampWebUrl: "https://www.thestreet.com/.amp/investing/microsoft-shares-slip-despite-azure-driven-q1-earnings-beat"
-    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/microsoft-shares-slip-despite-azure-driven-q1-earnings-beat"
-    type: article
-    provider:
-      name: TheStreet.com
-      domain: thestreet.com
-    quality: 57
-    images:
-      - url: "https://content.jwplatform.com/thumbs/d1jzoVNs-720.jpg"
-        width: 720
-        height: 406
         isCached: true
   - title: "Microsoft’s Azure To Be Connected To SpaceX’s Starlink Satellite Internet"
     excerpt: "SpaceX launched 60 Starlink satellites on Sunday Microsoft launched Azure Orbital, to connect cloud services to satellites Jeff Bezos' cloud services already offer similar services Microsoft Azure’s cloud services will now be connected directly to SpaceX ..."
@@ -292,6 +284,15 @@ related:
       name: Seeking Alpha
       domain: seekingalpha.com
     quality: 17
+  - title: "SAP partners with Microsoft Azure in the UAE"
+    excerpt: "The statement was made at the Middle East and Africa Edition of the SAP Solutions on Microsoft Azure Virtual Event. The goal is to boost the cloud ecosystem in the region by empowering organizations to run their SAP workloads on Microsoft Azure."
+    publishedDateTime: 2020-10-27T12:46:00Z
+    webUrl: "https://www.telecompaper.com/news/sap-partners-with-microsoft-azure-in-the-uae--1359243"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 17
   - title: "BDO Expands its Managed Detection and Response Capabilities to Support Microsoft Azure Sentinel Clients and Becomes a Microsoft Intelligent Security Association Member"
     excerpt: "BDO USA, LLP, one of the nation’s leading accounting and advisory firms, is launching its managed detection and response (MDR) capabilities on Microso"
     publishedDateTime: 2020-10-26T21:22:00Z
@@ -307,6 +308,6 @@ related:
         height: 627
         isCached: true
 
-secured: "86CHXUM3kxQ/UjdQWyPmtJZ+WqALCiYfjaGDdIeuZ8V/SUl3qF2Dok7gQ+XkfMQOGtWcUjqxu909jgUmupxn0+ttOVxG4Ck+/ruq9m1BoIg/ph9tB7ygDJ4W4DwFLgXd5mNT+dVB8Ytot6xCSbQtJYdpQ85CxokgrbAmbGp/ED9IfS022I5Y1LDynOY8o7UlCHWhTKuNN2x+tri0m3niGqnjCCmsddlHhqfyjY218Fv6NgVykMk2ESDp2DWUOxJtQnb8OFVLkJ6SH7roCfCG1T4y91zgXM72+wxNUO6etquXlqH37cn1EXIRDBX9pSBqo91OrmTWjmTzV/4dw13pUmLGMU051sVyAMU7xNSZXwg=;fZRxMKhyMIeWaRbY7FhFDg=="
+secured: "CCqD56c25U51uFvuMcHmrfJBY3NNhvbIA40EjBaof+AIIbeVVqA3ed7D4ElGdpOqO0x/21/8ASw9taNr9ZA31Vi8PXM1QG6mYoFA8ZuB8G0VmQaEBYZowONI6OQswBbyiv4qszXdabc6KGGPizOi25hy/Do6OedKdAi5NFlqc8mOzt3RxR1jXyuEtM22RB6ruXOP+mbsPdkd4UI9I+SCs6sQybZ0VNJ952oOjbymLLRSCmw67lk4bs0lE+/euxrhjMj7ppQoPVwpd3KxUzTEKWpNwScrkssHNoTXCEI2y1sl9uyzeQxu7WMAkaqLa9hnZ3cv+u479imG0K7neA6HTHGeFPFHKqd9UAzkYuDVBOE=;qPH5JFhnpe7ezcSzaF2SOA=="
 ---
 
