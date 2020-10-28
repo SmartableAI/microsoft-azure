@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/microsoft-azure-this
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-azure-this-new-technology-allows-you-to-manage-kubernetes-containers-across-the-hybrid-cloud/"
 type: article
 quality: 113
-heat: 453
+heat: 473
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://image.cnbcfm.com/api/v1/image/106689529-1599138903852-starlink_satellites_screenshot.png?v=1599138942"
         width: 1494
         height: 889
+        isCached: true
+  - title: "Microsoft cloud business gathers steam as pandemic boosts growth"
+    excerpt: "Microsoft Corp's <MSFT.O> cloud computing business slightly re-accelerated and its Teams messaging and collaboration software won new users, as a pandemic-driven shift to working from home and online learning drove quarterly results ahead of investor targets."
+    publishedDateTime: 2020-10-28T04:06:00Z
+    webUrl: "https://www.reuters.com/article/us-microsoft-results-idUKKBN27C2YV"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN27C2YV"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN27C2YV"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 82
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201028&t=2&i=1539063951&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9R05H"
+        width: 816
+        height: 545
         isCached: true
   - title: "AZ 120 Exam Questions Released for Microsoft Azure for SAP Workloads"
     excerpt: "Azure SAP workloads certification held incredibly great importance in today's world. It is a rapidly emerging and growing industry that had set its roots in every"

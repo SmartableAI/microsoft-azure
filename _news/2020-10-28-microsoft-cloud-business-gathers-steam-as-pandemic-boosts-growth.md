@@ -1,28 +1,32 @@
 ---
 category: news
-title: "SAP Solutions and Microsoft Azure Combine Efforts To Drive Forward Business Growth Across the Middle East and Africa"
-excerpt: "... of SAP workloads in the UAE data centre region at the Middle East and Africa Edition of the SAP Solutions on Microsoft Azure Virtual Event. Microsoft announced the availability of SAP workloads in the UAE data centre region at the Middle East and ..."
-publishedDateTime: 2020-10-26T09:47:00Z
-originalUrl: "https://www.albawaba.com/business/pr/sap-solutions-and-microsoft-azure-combine-efforts-drive-forward-business-growth-across"
-webUrl: "https://www.albawaba.com/business/pr/sap-solutions-and-microsoft-azure-combine-efforts-drive-forward-business-growth-across"
-ampWebUrl: "https://www.albawaba.com/amp/business/pr/sap-solutions-and-microsoft-azure-combine-efforts-drive-forward-business-growth-across"
-cdnAmpWebUrl: "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/pr/sap-solutions-and-microsoft-azure-combine-efforts-drive-forward-business-growth-across"
+title: "Microsoft cloud business gathers steam as pandemic boosts growth"
+excerpt: "Microsoft Corp's <MSFT.O> cloud computing business slightly re-accelerated and its Teams messaging and collaboration software won new users, as a pandemic-driven shift to working from home and online learning drove quarterly results ahead of investor targets."
+publishedDateTime: 2020-10-28T04:06:00Z
+originalUrl: "https://www.reuters.com/article/us-microsoft-results-idUKKBN27C2YV"
+webUrl: "https://www.reuters.com/article/us-microsoft-results-idUKKBN27C2YV"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN27C2YV"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN27C2YV"
 type: article
-quality: 34
+quality: 82
 heat: -1
 published: false
 
 provider:
-  name: Al Bawaba News
-  domain: albawaba.com
+  name: Reuters
+  domain: reuters.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/reuters.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
 
 images:
-  - url: "https://www.albawaba.com/sites/default/files/styles/default/public/2020-10/Final%20Image%20-%20SAP%20MS.png?itok=hCQafSRC"
-    width: 960
-    height: 502
+  - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201028&t=2&i=1539063951&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9R05H"
+    width: 816
+    height: 545
     isCached: true
 
 related:
@@ -73,22 +77,6 @@ related:
       - url: "https://image.cnbcfm.com/api/v1/image/106689529-1599138903852-starlink_satellites_screenshot.png?v=1599138942"
         width: 1494
         height: 889
-        isCached: true
-  - title: "Microsoft cloud business gathers steam as pandemic boosts growth"
-    excerpt: "Microsoft Corp's <MSFT.O> cloud computing business slightly re-accelerated and its Teams messaging and collaboration software won new users, as a pandemic-driven shift to working from home and online learning drove quarterly results ahead of investor targets."
-    publishedDateTime: 2020-10-28T04:06:00Z
-    webUrl: "https://www.reuters.com/article/us-microsoft-results-idUKKBN27C2YV"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN27C2YV"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN27C2YV"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 82
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201028&t=2&i=1539063951&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9R05H"
-        width: 816
-        height: 545
         isCached: true
   - title: "AZ 120 Exam Questions Released for Microsoft Azure for SAP Workloads"
     excerpt: "Azure SAP workloads certification held incredibly great importance in today's world. It is a rapidly emerging and growing industry that had set its roots in every"
@@ -203,6 +191,22 @@ related:
         width: 647
         height: 450
         isCached: true
+  - title: "SAP Solutions and Microsoft Azure Combine Efforts To Drive Forward Business Growth Across the Middle East and Africa"
+    excerpt: "... of SAP workloads in the UAE data centre region at the Middle East and Africa Edition of the SAP Solutions on Microsoft Azure Virtual Event. Microsoft announced the availability of SAP workloads in the UAE data centre region at the Middle East and ..."
+    publishedDateTime: 2020-10-26T09:47:00Z
+    webUrl: "https://www.albawaba.com/business/pr/sap-solutions-and-microsoft-azure-combine-efforts-drive-forward-business-growth-across"
+    ampWebUrl: "https://www.albawaba.com/amp/business/pr/sap-solutions-and-microsoft-azure-combine-efforts-drive-forward-business-growth-across"
+    cdnAmpWebUrl: "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/pr/sap-solutions-and-microsoft-azure-combine-efforts-drive-forward-business-growth-across"
+    type: article
+    provider:
+      name: Al Bawaba News
+      domain: albawaba.com
+    quality: 34
+    images:
+      - url: "https://www.albawaba.com/sites/default/files/styles/default/public/2020-10/Final%20Image%20-%20SAP%20MS.png?itok=hCQafSRC"
+        width: 960
+        height: 502
+        isCached: true
   - title: "Qualys Extends Integration with Microsoft Azure Defender to On-Premises and Multi-Cloud with Microsoft Azure Arc"
     excerpt: "(NASDAQ: QLYS), a pioneer and one of the leading providers of disruptive cloud-based IT, security and compliance solutions, today announced it is expanding its integration of Qualys Vulnerability Management to Microsoft Azure Arc,"
     publishedDateTime: 2020-10-27T13:00:00Z
@@ -278,6 +282,6 @@ related:
         height: 627
         isCached: true
 
-secured: "I2m7OY+2VtrjXv8GkeETUgEAUM00DJN+CLtBMxijsqvgihUE6qMHM+LSzdho5UhToEY4u7k4fEkV7GE6CQhceM8YVkwcFkiCir0FQPoI6e01xz025isggMMPAgvEiA15c3aH3o/xHYkcpdvngDTP7Q8DpHsAxeFJXBVk6I0A/qc1dg9koV2DoJAMPaE/GLwDpZqHbuS3shwG1KrTFVUubbV8lsCv0OAg0/P1an+tKo+yySUXCvyck72nUzenRQYK/7rviuUuANHpLFeXMyXJE9xd7kEdCgp97yxGepha6GSsfMIEGGjus32omMjRbBcUzDglO1/XbaPoiCGPmibHY/ri8Y+vDU/wD4V5/MkYZPg=;9dgjYnomlLHMtTSDdS5rcg=="
+secured: "U0jpOvE0GbeMCorQKkg2YjDMq/ixNrTzzZVeKzu67aJ2726yLj/DMFuGQsoizlMTxv/uNIsPsF+Kx0oMYnpij2+WWIP/AJhjlxbAtvdUPVQz1q/RWXlOxQQA7c+kpbtgv63+ql23tmhe7iyAq7uJD+5+njnnF8yMIX65+FU0Jt6RBdzSX37nw6A7X5ZNODiJsf+vraWbbsobS5MBQNhvT9pCbJ8S7NVOtoDVu71M3SUSyVW8n0E+LGj8sz1lxHMD45Sc9LI8U4B2wtyNXwljbmUqDuMkhLslv8kZoPxz11ZU0OIU/Mde1WDgE27f5SIW+7CY/mTwrcW0NsIAndIvIUalkB/DEY3w4sH+ZZ1+HzQ=;GsVUg7FS3h4qpSHt/EJf0w=="
 ---
 
