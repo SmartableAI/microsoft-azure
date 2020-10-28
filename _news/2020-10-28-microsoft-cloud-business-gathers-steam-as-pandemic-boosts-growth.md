@@ -1,14 +1,12 @@
 ---
 category: news
 title: "Microsoft cloud business gathers steam as pandemic boosts growth"
-excerpt: "Microsoft Corp's <MSFT.O> cloud computing business slightly re-accelerated and its Teams messaging and collaboration software won new users, as a pandemic-driven shift to working from home and online learning drove quarterly results ahead of investor targets."
-publishedDateTime: 2020-10-28T04:06:00Z
-originalUrl: "https://www.reuters.com/article/us-microsoft-results-idUKKBN27C2YV"
-webUrl: "https://www.reuters.com/article/us-microsoft-results-idUKKBN27C2YV"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN27C2YV"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN27C2YV"
+excerpt: "The Microsoft store is pictured in the Manhattan borough of New York City, New York, U.S., June 26, 2020. REUTERS/Carlo Allegri"
+publishedDateTime: 2020-10-28T11:41:00Z
+originalUrl: "https://www.reuters.com/news/picture/microsoft-cloud-business-gathers-steam-a-idUSKBN27C2YV"
+webUrl: "https://www.reuters.com/news/picture/microsoft-cloud-business-gathers-steam-a-idUSKBN27C2YV"
 type: article
-quality: 82
+quality: 62
 heat: -1
 published: false
 
@@ -24,9 +22,9 @@ topics:
   - Azure
 
 images:
-  - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201028&t=2&i=1539063951&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9R05H"
-    width: 816
-    height: 545
+  - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201027&t=2&i=1539032539&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXMPEG9Q1W3"
+    width: 810
+    height: 540
     isCached: true
 
 related:
@@ -312,6 +310,6 @@ related:
         height: 627
         isCached: true
 
-secured: "NU1vam0O3zNbmIg7a1kwrvARga5aFo3AnXWX8Yula6d3cWo4J0qmSrBHquQJ3mxa9cUsRxO6sIvDprOHYFumXlaiYka59RHzTXQAmQPSKk2PcnrorZKPOOnQYN85Ix2VMZoUmASOeomCM5Wb9dcDJ4pqtlTIX4nga9z45LhDrF7ct1iWgcXN/r1nbzH0aDErFwoJboY7T3WBRwJYD20pTLhwroHZLmgrNGAr0wGvpiW9a9RaDRl2zJCRJv2hdZfXx357aPD8xSw740h1bDjD6s5B6blJHRkozfjn24M/PV8+j/qZv0ti14+iyT7gPzvDYuGHdeJV6zaWbgTVDywY9Bl8yQn0/WcBB5pUVVl3CNDpg+bLbaSxOaGjLON/Y4nIIQv69xExyeCA42KAGuIn0+I34kL2bVVvtPNLxcaQFvUHVT2Yj+uF+1fQBbS53lODyO9fkTjOx25k+TrzjfI4Bippkaa7ebuzLzdNBw/DiaSo8IzjHESaxU3X+XAwej/KHrs2xfJUT3OBeDQ+NZVX2g==;qMRjFCRx3QYxTi/zAQnISw=="
+secured: "v02OL3IyvI3ypDhMPI6pgNw3Vkr2xvS4rDTu6JmIL+qmD/TCSXVK42w+YamlKs42bsv/+ta/xkO07BOnFyz08JRiX0Jbtgpv43ubDjkQ0kYSDOQvCVo+WmZ+4wv/5+LuhdJeEsFzcnfO24ELVPBCo/nL9VjHKnVcmt+tAE6zOjNsaoudkDAvv1UyVSC2vzkKMNnHG88G9Wwv6AKDf0nvTvQZhoUb3BKv38khYwATMf8Rgdh/BkdKkPIWgLWHJ4WRqPANS1bDsnOiOKfwhttX7X81E8YtRhNaknH47kezy3s7SEWpgi+kkc8Ni/PSN4J6gg5Etcw21A8Ij628WUOQpAppPlpEvB60mqfZc/w+GmU=;xfRYbvKN8E8Vo372U3WRPQ=="
 ---
 
