@@ -4,6 +4,41 @@
   "page": 20,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-foster-ai-culture-customer-service.md",
+      "title": "Discover how to foster an AI-ready culture in customer service",
+      "excerpt": "Learn the necessary cultural changes for enterprise customer service to make AI transformation successful, and how they fit into a holistic AI strategy.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-foster-ai-culture-customer-service/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/foster-ai-ready-culture-customer-service/",
+      "length": "PT38M",
+      "ratings": {
+        "count": 523,
+        "average": 4.7686424
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 51,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "AI"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-foster-ai-culture-finance.md",
       "title": "Discover how to foster an AI-ready culture in finance",
       "excerpt": "Learn the necessary cultural changes for enterprise finance organizations to make AI transformation successful, and how they fit into a holistic AI strategy.",
@@ -428,8 +463,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-iot/",
       "length": "PT31M",
       "ratings": {
-        "count": 460,
-        "average": 4.6891303
+        "count": 461,
+        "average": 4.6898046
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -811,8 +846,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/microsoft-cloud-adoption-framework-for-azure/",
       "length": "PT50M",
       "ratings": {
-        "count": 2116,
-        "average": 4.741966
+        "count": 2117,
+        "average": 4.742088
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -895,8 +930,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/migrate-repository-github/",
       "length": "PT43M",
       "ratings": {
-        "count": 166,
-        "average": 4.674699
+        "count": 167,
+        "average": 4.6766467
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1014,8 +1049,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/persist-data-ef-core/",
       "length": "PT1H4M",
       "ratings": {
-        "count": 959,
-        "average": 4.65902
+        "count": 960,
+        "average": 4.659375
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1187,8 +1222,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/publish-manage-apis-with-azure-api-management/",
       "length": "PT38M",
       "ratings": {
-        "count": 1184,
-        "average": 4.6672297
+        "count": 1185,
+        "average": 4.665823
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1221,48 +1256,6 @@
         "Azure",
         "Integration",
         "Web"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-qsharp-create-first-quantum-development-kit.md",
-      "title": "Create your first Q# program by using the Quantum Development Kit",
-      "excerpt": "Get started with Q# programming by building a quantum random number generator.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-qsharp-create-first-quantum-development-kit/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/qsharp-create-first-quantum-development-kit/",
-      "length": "PT48M",
-      "ratings": {
-        "count": 223,
-        "average": 4.7892375
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/quantum/qsharp-create-first-quantum-development-kit-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
       ]
     }
   ],

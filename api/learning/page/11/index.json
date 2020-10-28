@@ -4,6 +4,48 @@
   "page": 11,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-intro-to-nodejs.md",
+      "title": "Introduction to Node.js",
+      "excerpt": "Learn about Node.js: what it is, how it works, and when to use it. Create Node.js applications using JavaScript/TypeScript using Visual Studio Code.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-to-nodejs/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-nodejs/",
+      "length": "PT20M",
+      "ratings": {
+        "count": 485,
+        "average": 4.783505
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 54,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/intro-to-nodejs-social.png",
+          "width": 642,
+          "height": 321,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-keep-your-virtual-machines-updated.md",
       "title": "Keep your virtual machines updated",
       "excerpt": "Learn to use Azure Update Management to update virtual machines, verify agent connectivity, and use Azure Log Analytics in your cloud environment.",
@@ -47,8 +89,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-identity-provisioning/",
       "length": "PT46M",
       "ratings": {
-        "count": 2933,
-        "average": 4.7500854
+        "count": 2934,
+        "average": 4.75017
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -219,8 +261,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-apis-on-api-management/",
       "length": "PT43M",
       "ratings": {
-        "count": 718,
-        "average": 4.724234
+        "count": 719,
+        "average": 4.721836
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -350,8 +392,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/provision-azure-sql-db/",
       "length": "PT50M",
       "ratings": {
-        "count": 4777,
-        "average": 4.6529202
+        "count": 4779,
+        "average": 4.6528563
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -429,8 +471,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/recognize-synthesize-speech/",
       "length": "PT29M",
       "ratings": {
-        "count": 295,
-        "average": 4.833898
+        "count": 297,
+        "average": 4.8350167
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -969,8 +1011,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-non-relational-data-offerings-azure/",
           "length": "PT41M",
           "ratings": {
-            "count": 240,
-            "average": 4.8333335
+            "count": 241,
+            "average": 4.834025
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1053,8 +1095,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-non-relational-data-stores-azure/",
           "length": "PT54M",
           "ratings": {
-            "count": 229,
-            "average": 4.703057
+            "count": 230,
+            "average": 4.7043476
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1136,8 +1178,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/",
           "length": "PT36M",
           "ratings": {
-            "count": 921,
-            "average": 4.7643867
+            "count": 922,
+            "average": 4.7646422
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1411,8 +1453,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-devops-devtest-labs/",
       "length": "PT21M",
       "ratings": {
-        "count": 70,
-        "average": 4.757143
+        "count": 71,
+        "average": 4.746479
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1444,51 +1486,6 @@
       "topics": [
         "Azure",
         "DevOps"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-azure-intro-to-logic-apps.md",
-      "title": "Introduction to Azure Logic Apps",
-      "excerpt": "Learn how to evaluate Logic Apps as an automation choice for your organization using criteria for integration, performance, conditionals, and connectors.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-azure-intro-to-logic-apps/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-logic-apps/",
-      "length": "PT28M",
-      "ratings": {
-        "count": 1635,
-        "average": 4.71315
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 53,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/intro-to-logic-apps-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "IoT",
-        "Blockchain",
-        "Integration"
       ]
     }
   ],

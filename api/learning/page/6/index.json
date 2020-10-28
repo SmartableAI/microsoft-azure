@@ -4,6 +4,219 @@
   "page": 6,
   "value": [
     {
+      "path": "_learning/collections/microsoft-learn-deploy-and-manage-resources-in-azure-by-using-arm-templates.md",
+      "title": "Deploy and manage resources in Azure by using ARM templates",
+      "excerpt": "Learn how ARM templates enable you to manage both basic and complex infrastructure deployments on Azure.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-deploy-and-manage-resources-in-azure-by-using-arm-templates/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-deploy-and-manage-resources-in-azure-by-using-arm-templates/",
+      "length": "PT3H5M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-create-resource-manager-template-vs-code.md",
+          "title": "Deploy consistent infrastructure in Azure by using Azure Resource Manager (ARM) templates",
+          "excerpt": "Write Azure Resource Manager templates by using Visual Studio Code to deploy your infrastructure to Azure consistently and reliably.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-create-resource-manager-template-vs-code/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-azure-resource-manager-template-vs-code/",
+          "length": "PT43M",
+          "ratings": {
+            "count": 35,
+            "average": 4.6857142
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/create-azure-resource-manager-template-vs-code-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Management Tools"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-resource-manager-template-reuse.md",
+          "title": "Deploy to multiple Azure environments by using ARM templates",
+          "excerpt": "Manage multiple Azure environment deployments of your Azure Resource Manager templates by using functions, variables, tags, and parameter files.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-resource-manager-template-reuse/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/modify-azure-resource-manager-template-reuse/",
+          "length": "PT39M",
+          "ratings": {
+            "count": 13,
+            "average": 4.5384617
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/modify-azure-resource-manager-template-reuse-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Management Tools"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-arm-template-test.md",
+          "title": "Validate your deployments by using what-if and the ARM template test toolkit",
+          "excerpt": "Leverage the ARM template test toolkit and apply it on your Azure Resource Manager templates to ensure the templates follow good practices before deployment. Apply the what-if command to see the impact of a deployment before it's applied.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-arm-template-test/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/arm-template-test/",
+          "length": "PT37M",
+          "ratings": {
+            "count": 2,
+            "average": 5.0
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Management Tools"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-deploy-templates-command-line-github-actions.md",
+          "title": "Deploy modular and reusable ARM templates from the command line and by using GitHub Actions",
+          "excerpt": "Learn how to deploy Azure Resource Manager (ARM) templates by using Azure PowerShell, the Azure CLI, and from GitHub Actions.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-deploy-templates-command-line-github-actions/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-templates-command-line-github-actions/",
+          "length": "PT1H6M",
+          "ratings": {
+            "count": 1,
+            "average": 4.0
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/deploy-templates-command-line-github-actions-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure"
+          ]
+        }
+      ],
+      "size": 4,
+      "heat": 60,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/create-azure-resource-manager-template-vs-code-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Management Tools"
+      ]
+    },
+    {
       "path": "_learning/collections/microsoft-learn-develop-iot-solutions-with-azure-iot-central.md",
       "title": "Develop IoT solutions with Azure IoT Central",
       "excerpt": "Follow this learning path for a broad and compelling introduction to the fundamentals of building IoT solutions with Azure IoT.",
@@ -769,8 +982,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/identity-secure-custom-api/",
           "length": "PT1H23M",
           "ratings": {
-            "count": 75,
-            "average": 4.6666665
+            "count": 76,
+            "average": 4.6710525
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1735,8 +1948,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-performance-monitoring/",
           "length": "PT42M",
           "ratings": {
-            "count": 553,
-            "average": 4.830018
+            "count": 554,
+            "average": 4.82852
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1821,8 +2034,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-sql-server-resources-optimal-performance/",
           "length": "PT35M",
           "ratings": {
-            "count": 1385,
-            "average": 4.771119
+            "count": 1386,
+            "average": 4.769841
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1864,8 +2077,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-databases-performance/",
           "length": "PT24M",
           "ratings": {
-            "count": 527,
-            "average": 4.8159394
+            "count": 528,
+            "average": 4.8125
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2713,8 +2926,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-infrastructure-with-azure-monitor-logs/",
       "length": "PT36M",
       "ratings": {
-        "count": 5289,
-        "average": 4.733787
+        "count": 5290,
+        "average": 4.7336483
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2756,8 +2969,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/app-service-scale-up-scale-out/",
       "length": "PT46M",
       "ratings": {
-        "count": 2343,
-        "average": 4.557832
+        "count": 2344,
+        "average": 4.557594
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2799,8 +3012,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-azure-vm-templates/",
       "length": "PT37M",
       "ratings": {
-        "count": 8633,
-        "average": 4.664775
+        "count": 8634,
+        "average": 4.6648135
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3076,8 +3289,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-users-and-groups-in-azure-active-directory/",
       "length": "PT41M",
       "ratings": {
-        "count": 2935,
-        "average": 4.706303
+        "count": 2936,
+        "average": 4.706063
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3119,8 +3332,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-your-migration-to-azure/",
       "length": "PT44M",
       "ratings": {
-        "count": 1572,
-        "average": 4.6316795
+        "count": 1573,
+        "average": 4.6319137
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3162,8 +3375,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/host-a-web-app-with-azure-app-service/",
       "length": "PT58M",
       "ratings": {
-        "count": 5236,
-        "average": 4.6069517
+        "count": 5237,
+        "average": 4.607027
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3242,8 +3455,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-kubernetes-service/",
       "length": "PT25M",
       "ratings": {
-        "count": 3496,
-        "average": 4.61127
+        "count": 3497,
+        "average": 4.611381
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3361,50 +3574,6 @@
       "topics": [
         "Azure",
         "Networking",
-        "Security"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-tm-introduction-to-threat-modeling.md",
-      "title": "Introduction to threat modeling",
-      "excerpt": "Explore the four high-level steps of threat modeling.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-tm-introduction-to-threat-modeling/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/tm-introduction-to-threat-modeling/",
-      "length": "PT27M",
-      "ratings": {
-        "count": 389,
-        "average": 4.7455015
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 59,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/introduction-to-threat-modeling-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "IoT",
         "Security"
       ]
     }

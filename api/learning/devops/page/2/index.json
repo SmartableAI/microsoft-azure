@@ -4,6 +4,40 @@
   "page": 2,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-manage-delivery-plans.md",
+      "title": "Manage Agile software delivery plans across teams",
+      "excerpt": "Learn to optimize delivery efficiency by improving work plan visibility across teams.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-manage-delivery-plans/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-delivery-plans/",
+      "length": "PT33M",
+      "ratings": {
+        "count": 2217,
+        "average": 4.7235003
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 55,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "DevOps"
+      ]
+    },
+    {
       "path": "_learning/videos/microsoft-full-stack-end-to-end-monitoring-with-azure-monitor-azure-friday.md",
       "title": "Full-stack end-to-end monitoring with Azure Monitor | Azure Friday",
       "excerpt": "Rahul Bagaria joins Lara Rubbelke to discuss Azure Monitor, which now includes Log Analytics and Application Insights. Azure Monitor provides full stack monitoring tools for collecting and analyzing telemetry that allow you to maximize the performance and availability of your cloud and on-premises resources",
@@ -160,8 +194,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-devops-devtest-labs/",
       "length": "PT21M",
       "ratings": {
-        "count": 70,
-        "average": 4.757143
+        "count": 71,
+        "average": 4.746479
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -196,50 +230,6 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-azure-well-architected-cost-optimization.md",
-      "title": "Microsoft Azure Well-Architected Framework - Cost optimization",
-      "excerpt": "Learn how to use the cost optimization pillar of the Microsoft Azure Well-Architected Framework to design a cloud-based architecture that is efficient, eliminates waste, and gives you full visibility into where your money is spent on cloud resources.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-azure-well-architected-cost-optimization/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-cost-optimization/",
-      "length": "PT51M",
-      "ratings": {
-        "count": 1051,
-        "average": 4.7107515
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 53,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/azure-well-architected-cost-optimization-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Management Tools",
-        "DevOps"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-choose-an-agile-approach.md",
       "title": "Choose an Agile approach to software development",
       "excerpt": "Learn with the Space Game web team how to use Azure Boards to implement Agile software practices along with DevOps transparency and collaboration.",
@@ -247,8 +237,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-an-agile-approach/",
       "length": "PT40M",
       "ratings": {
-        "count": 5337,
-        "average": 4.744051
+        "count": 5338,
+        "average": 4.744099
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -289,8 +279,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-site-reliability/",
       "length": "PT35M",
       "ratings": {
-        "count": 308,
-        "average": 4.6655846
+        "count": 309,
+        "average": 4.6666665
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -522,8 +512,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-site-reliability/",
           "length": "PT35M",
           "ratings": {
-            "count": 308,
-            "average": 4.6655846
+            "count": 309,
+            "average": 4.6666665
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -633,8 +623,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-release-pipeline/",
       "length": "PT1H4M",
       "ratings": {
-        "count": 1022,
-        "average": 4.6771035
+        "count": 1023,
+        "average": 4.6764417
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1279,8 +1269,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/persist-data-ef-core/",
       "length": "PT1H4M",
       "ratings": {
-        "count": 959,
-        "average": 4.65902
+        "count": 960,
+        "average": 4.659375
       },
       "provider": {
         "name": "Microsoft Learn",
