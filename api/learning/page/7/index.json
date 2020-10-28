@@ -4,6 +4,50 @@
   "page": 7,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-tm-introduction-to-threat-modeling.md",
+      "title": "Introduction to threat modeling",
+      "excerpt": "Explore the four high-level steps of threat modeling.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-tm-introduction-to-threat-modeling/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/tm-introduction-to-threat-modeling/",
+      "length": "PT27M",
+      "ratings": {
+        "count": 389,
+        "average": 4.7455015
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 59,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/introduction-to-threat-modeling-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "IoT",
+        "Security"
+      ]
+    },
+    {
       "path": "_learning/videos/microsoft-how-to-choose-which-services-to-use-in-azure-azure-friday.md",
       "title": "How to choose which services to use in Azure | Azure Friday",
       "excerpt": "In this video, Azure MVP Barry Luijbregts chats with Scott Hanselman about how he goes about choosing the right services in Azure to run his applications and store his data.   For more information, see:  • Overview of Azure services https://aka.ms/azfr/435/01  • Pluralsight course: Microsoft Azure for",
@@ -42,44 +86,6 @@
       ]
     },
     {
-      "path": "_learning/videos/microsoft-is-azure-free-account-really-free-azure-tips-and-tricks.md",
-      "title": "Is Azure Free Account really free? | Azure Tips and Tricks",
-      "excerpt": "In this video of Azure Tips and Tricks, you'll learn how to use Microsoft Azure for free, for 12 months. \r  For more tips and tricks, visit: http://azuredev.tips  Get started with 12 months of free services and $200 USD in credit. Create your free account today with Microsoft Azure: http://azure.com/free",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-is-azure-free-account-really-free-azure-tips-and-tricks/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-is-azure-free-account-really-free-azure-tips-and-tricks/",
-      "originalUrl": "https://youtube.com/watch?v=0KEfaUfolVs",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/0KEfaUfolVs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT4M32S",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-01-21T08:27:40-08:00",
-      "heat": 59,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/0KEfaUfolVs/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-azure-database-fundamentals.md",
       "title": "Explore Azure database and analytics services",
       "excerpt": "Learn about the database services that are available on Microsoft Azure, such as Azure Cosmos DB, Azure SQL, Azure Database for MySQL, Azure Database for PostgreSQL, as well as big data and analytics.",
@@ -87,8 +93,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
       "length": "PT39M",
       "ratings": {
-        "count": 174,
-        "average": 4.6551723
+        "count": 175,
+        "average": 4.6571426
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -133,8 +139,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-app-with-scale-sets/",
       "length": "PT57M",
       "ratings": {
-        "count": 5796,
-        "average": 4.7217045
+        "count": 5797,
+        "average": 4.7217526
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -362,8 +368,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-ad/",
       "length": "PT27M",
       "ratings": {
-        "count": 1749,
-        "average": 4.682104
+        "count": 1750,
+        "average": 4.681714
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -528,8 +534,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/move-azure-resources-another-resource-group/",
       "length": "PT42M",
       "ratings": {
-        "count": 1960,
-        "average": 4.610204
+        "count": 1961,
+        "average": 4.610403
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -563,8 +569,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/principles-cloud-computing-dynamics-365-deployment/",
       "length": "PT45M",
       "ratings": {
-        "count": 2664,
-        "average": 4.716967
+        "count": 2665,
+        "average": 4.717073
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -605,8 +611,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-azure-storage-account/",
       "length": "PT45M",
       "ratings": {
-        "count": 7849,
-        "average": 4.6435213
+        "count": 7850,
+        "average": 4.643567
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -648,8 +654,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/tm-use-recommended-tools-to-create-a-data-flow-diagram/",
       "length": "PT18M",
       "ratings": {
-        "count": 191,
-        "average": 4.659686
+        "count": 193,
+        "average": 4.6632123
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -942,8 +948,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-concepts-of-data-analytics/",
       "length": "PT16M",
       "ratings": {
-        "count": 775,
-        "average": 4.806452
+        "count": 776,
+        "average": 4.806701
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1063,8 +1069,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-virtual-machines-with-azure-cli/",
       "length": "PT51M",
       "ratings": {
-        "count": 5972,
-        "average": 4.70144
+        "count": 5973,
+        "average": 4.70149
       },
       "provider": {
         "name": "Microsoft Learn",

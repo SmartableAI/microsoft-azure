@@ -214,6 +214,216 @@
       ]
     },
     {
+      "path": "_learning/collections/microsoft-learn-virtualization-sharing-cloud-resources.md",
+      "title": "Virtualization - Sharing cloud resources",
+      "excerpt": "Carnegie Mellon University's Cloud Developer course. Dive deeper into how the cloud works by understanding virtualization. How are computing power, memory, input and output, networking, and storage virtualized?",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-virtualization-sharing-cloud-resources/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-virtualization-sharing-cloud-resources/",
+      "length": "PT3H22M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner",
+        "Intermediate"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-cmu-share-cloud-resources.md",
+          "title": "Share cloud resources",
+          "excerpt": "Carnegie Mellon University's Cloud Developer course. Get an introduction to virtualization, one of the many technologies that power the cloud. Learn what virtualization is, its benefits, and how cloud resources are shared.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-cmu-share-cloud-resources/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/cmu-share-cloud-resources/",
+          "length": "PT54M",
+          "ratings": {
+            "count": 95,
+            "average": 4.610526
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 51,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/cmu-cloud-developer/share-cloud-resources-social.png",
+              "width": 1000,
+              "height": 500,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-cmu-virtualization.md",
+          "title": "Understand virtualization",
+          "excerpt": "Carnegie Mellon University's Cloud Developer course. Take a deep dive into virtualization by understanding its formal definition as well as the different types of virtual machines.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-cmu-virtualization/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/cmu-virtualization-developer/",
+          "length": "PT21M",
+          "ratings": {
+            "count": 69,
+            "average": 4.6086955
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 52,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/cmu-cloud-developer/understand-virtualization-social.png",
+              "width": 1000,
+              "height": 500,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-cmu-virtualize-computing-power.md",
+          "title": "Virtualize computing power",
+          "excerpt": "Carnegie Mellon University's Cloud Developer course. Learn about how computing power is virtualized using virtual CPUs. Covers different types of CPU virtualization.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-cmu-virtualize-computing-power/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/cmu-virtualize-computing-power/",
+          "length": "PT33M",
+          "ratings": {
+            "count": 50,
+            "average": 4.38
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/cmu-cloud-developer/virtualize-computing-power-social.png",
+              "width": 1000,
+              "height": 500,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-cmu-virtualize-memory.md",
+          "title": "Virtualize memory",
+          "excerpt": "Carnegie Mellon University's Cloud Developer course. Learn how memory is virtualized to support cloud resources. Covers different types of memory mapping and related issues.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-cmu-virtualize-memory/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/cmu-virtualize-memory/",
+          "length": "PT19M",
+          "ratings": {
+            "count": 46,
+            "average": 4.347826
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 130,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/cmu-cloud-developer/virtualize-memory-social.png",
+              "width": 1000,
+              "height": 500,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure"
+          ]
+        }
+      ],
+      "size": 6,
+      "heat": 62,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/cmu-cloud-developer/share-cloud-resources-social.png",
+          "width": 1000,
+          "height": 500,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
       "path": "_learning/collections/microsoft-learn-work-with-relational-data-in-azure.md",
       "title": "Work with relational data in Azure",
       "excerpt": "This learning path introduces you to Azure-supported SQL-based enterprise data solutions enabling you to store and retrieve your app's data in the cloud.",
@@ -262,7 +472,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 134,
+          "heat": 54,
           "content": "\r\n",
           "type": "course",
           "price": "Free",
@@ -494,8 +704,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-core-data-concepts/",
       "length": "PT25M",
       "ratings": {
-        "count": 1224,
-        "average": 4.832516
+        "count": 1225,
+        "average": 4.832653
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -536,8 +746,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-roles-responsibilities-world-of-data/",
       "length": "PT17M",
       "ratings": {
-        "count": 947,
-        "average": 4.8035903
+        "count": 948,
+        "average": 4.8027425
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -607,6 +817,44 @@
       "topics": [
         "Azure",
         "Integration"
+      ]
+    },
+    {
+      "path": "_learning/videos/microsoft-is-azure-free-account-really-free-azure-tips-and-tricks.md",
+      "title": "Is Azure Free Account really free? | Azure Tips and Tricks",
+      "excerpt": "In this video of Azure Tips and Tricks, you'll learn how to use Microsoft Azure for free, for 12 months. \r  For more tips and tricks, visit: http://azuredev.tips  Get started with 12 months of free services and $200 USD in credit. Create your free account today with Microsoft Azure: http://azure.com/free",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-is-azure-free-account-really-free-azure-tips-and-tricks/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-is-azure-free-account-really-free-azure-tips-and-tricks/",
+      "originalUrl": "https://youtube.com/watch?v=0KEfaUfolVs",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/0KEfaUfolVs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT4M32S",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-01-21T08:27:40-08:00",
+      "heat": 62,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/0KEfaUfolVs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Azure"
       ]
     },
     {
@@ -1056,8 +1304,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-github/",
           "length": "PT1H12M",
           "ratings": {
-            "count": 471,
-            "average": 4.7112527
+            "count": 472,
+            "average": 4.7118645
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1477,8 +1725,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-faq-chatbot-qna-maker-azure-bot-service/",
           "length": "PT29M",
           "ratings": {
-            "count": 1573,
-            "average": 4.665607
+            "count": 1574,
+            "average": 4.6658196
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2801,216 +3049,6 @@
       ]
     },
     {
-      "path": "_learning/collections/microsoft-learn-virtualization-sharing-cloud-resources.md",
-      "title": "Virtualization - Sharing cloud resources",
-      "excerpt": "Carnegie Mellon University's Cloud Developer course. Dive deeper into how the cloud works by understanding virtualization. How are computing power, memory, input and output, networking, and storage virtualized?",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-virtualization-sharing-cloud-resources/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-virtualization-sharing-cloud-resources/",
-      "length": "PT3H22M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner",
-        "Intermediate"
-      ],
-      "topItems": [
-        {
-          "path": "_learning/courses/microsoft-learn-cmu-share-cloud-resources.md",
-          "title": "Share cloud resources",
-          "excerpt": "Carnegie Mellon University's Cloud Developer course. Get an introduction to virtualization, one of the many technologies that power the cloud. Learn what virtualization is, its benefits, and how cloud resources are shared.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-cmu-share-cloud-resources/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/cmu-share-cloud-resources/",
-          "length": "PT54M",
-          "ratings": {
-            "count": 95,
-            "average": 4.610526
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 51,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/cmu-cloud-developer/share-cloud-resources-social.png",
-              "width": 1000,
-              "height": 500,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-cmu-virtualization.md",
-          "title": "Understand virtualization",
-          "excerpt": "Carnegie Mellon University's Cloud Developer course. Take a deep dive into virtualization by understanding its formal definition as well as the different types of virtual machines.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-cmu-virtualization/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/cmu-virtualization-developer/",
-          "length": "PT21M",
-          "ratings": {
-            "count": 69,
-            "average": 4.6086955
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 52,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/cmu-cloud-developer/understand-virtualization-social.png",
-              "width": 1000,
-              "height": 500,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-cmu-virtualize-computing-power.md",
-          "title": "Virtualize computing power",
-          "excerpt": "Carnegie Mellon University's Cloud Developer course. Learn about how computing power is virtualized using virtual CPUs. Covers different types of CPU virtualization.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-cmu-virtualize-computing-power/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/cmu-virtualize-computing-power/",
-          "length": "PT33M",
-          "ratings": {
-            "count": 50,
-            "average": 4.38
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/cmu-cloud-developer/virtualize-computing-power-social.png",
-              "width": 1000,
-              "height": 500,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-cmu-virtualize-memory.md",
-          "title": "Virtualize memory",
-          "excerpt": "Carnegie Mellon University's Cloud Developer course. Learn how memory is virtualized to support cloud resources. Covers different types of memory mapping and related issues.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-cmu-virtualize-memory/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/cmu-virtualize-memory/",
-          "length": "PT19M",
-          "ratings": {
-            "count": 46,
-            "average": 4.347826
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/cmu-cloud-developer/virtualize-memory-social.png",
-              "width": 1000,
-              "height": 500,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure"
-          ]
-        }
-      ],
-      "size": 6,
-      "heat": 61,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/cmu-cloud-developer/share-cloud-resources-social.png",
-          "width": 1000,
-          "height": 500,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
       "path": "_learning/collections/microsoft-learn-work-with-nosql-data-in-azure-cosmos-db.md",
       "title": "Work with NoSQL data in Azure Cosmos DB",
       "excerpt": "In this learning path, find out how to customize NoSQL data storage and distribution with the Azure portal, Cosmos DB extension, and Cosmos DB .NET Core SDK.",
@@ -3219,8 +3257,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/align-requirements-in-azure/",
       "length": "PT35M",
       "ratings": {
-        "count": 5921,
-        "average": 4.738558
+        "count": 5923,
+        "average": 4.738477
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3253,8 +3291,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-faq-chatbot-qna-maker-azure-bot-service/",
       "length": "PT29M",
       "ratings": {
-        "count": 1573,
-        "average": 4.665607
+        "count": 1574,
+        "average": 4.6658196
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3296,8 +3334,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/network-fundamentals/",
       "length": "PT47M",
       "ratings": {
-        "count": 3344,
-        "average": 4.701256
+        "count": 3346,
+        "average": 4.7011356
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3438,8 +3476,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/evolving-world-of-data/",
           "length": "PT28M",
           "ratings": {
-            "count": 4937,
-            "average": 4.681183
+            "count": 4939,
+            "average": 4.681312
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4228,228 +4266,6 @@
       "price": "Free",
       "topics": [
         "Azure"
-      ]
-    },
-    {
-      "path": "_learning/collections/microsoft-learn-deploy-and-configure-windows-server-iaas-virtual-machine.md",
-      "title": "Deploy and configure Windows Server IaaS Virtual Machine",
-      "excerpt": "In this learning path, you’ll learn how to deploy and configure Azure IaaS Virtual Machine workloads. After completing the learning path, you’ll know how to plan, deploy, and upgrade Windows Server Azure Virtual Machines.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-deploy-and-configure-windows-server-iaas-virtual-machine/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-deploy-and-configure-windows-server-iaas-virtual-machine/",
-      "length": "PT3H24M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "topItems": [
-        {
-          "path": "_learning/courses/microsoft-learn-plan-deploy-windows-server-iaas-vms.md",
-          "title": "Plan and deploy Windows Server IaaS Virtual Machines",
-          "excerpt": "You'll be able to describe Azure compute and storage in relation to Azure VMs, and deploy Azure VMs by using the Azure portal, Azure CLI, or templates.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-plan-deploy-windows-server-iaas-vms/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/plan-deploy-windows-server-iaas-virtual-machines/",
-          "length": "PT52M",
-          "ratings": {
-            "count": 9,
-            "average": 4.6666665
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Management Tools",
-            "Storage",
-            "Compute"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-customize-windows-server-iaas-vm-images.md",
-          "title": "Customize Windows Server IaaS Virtual Machine images",
-          "excerpt": "You'll be able to create new VMs from generalized images and use Azure Image Builder templates to create and manage images in Azure.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-customize-windows-server-iaas-vm-images/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/customize-windows-server-iaas-virtual-machine-images/",
-          "length": "PT50M",
-          "ratings": {
-            "count": 11,
-            "average": 4.7272725
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/customize-windows-server-iaas-vm-images-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Management Tools",
-            "Compute"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-automate-configuration-of-windows-server-iaas-vms.md",
-          "title": "Automate the configuration of Windows Server IaaS Virtual Machines",
-          "excerpt": "You'll be able to deploy Desired State Configuration (DSC) extensions, implement those extensions to remediate noncompliant servers, and use custom script extension.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-automate-configuration-of-windows-server-iaas-vms/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/automate-configuration-of-windows-server-iaas-virtual-machines/",
-          "length": "PT49M",
-          "ratings": {
-            "count": 9,
-            "average": 4.5555553
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/automate-the-configuration-of-windows-server-iaaa-vms-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Management Tools",
-            "Compute"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-upgrade-migrate-windows-server-iaas-virtual-machines.md",
-          "title": "Upgrade and migrate Windows Server IaaS virtual machines",
-          "excerpt": "Learn to migrate a workload running in Windows Server to an infrastructure as a service (IaaS) virtual machine (VM) and to Windows Server 2019 by using Windows Server migration tools or the Storage Migration Service.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-upgrade-migrate-windows-server-iaas-virtual-machines/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/upgrade-migrate-windows-server-iaas-virtual-machines/",
-          "length": "PT53M",
-          "ratings": {
-            "count": 8,
-            "average": 4.75
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Management Tools",
-            "Storage",
-            "Compute"
-          ]
-        }
-      ],
-      "size": 4,
-      "heat": 60,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Management Tools",
-        "Storage",
-        "Compute"
       ]
     }
   ],

@@ -4,50 +4,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-control-network-traffic-flow-with-routes.md",
-      "title": "Manage and control traffic flow in your Azure deployment with routes",
-      "excerpt": "Learn how to control Azure virtual network traffic by implementing custom routes.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-control-network-traffic-flow-with-routes/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/control-network-traffic-flow-with-routes/",
-      "length": "PT50M",
-      "ratings": {
-        "count": 1860,
-        "average": 4.6306453
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 55,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/control-network-traffic-flow-with-routes-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Compute",
-        "Networking"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-secure-your-azure-virtual-machine-disks.md",
       "title": "Secure your Azure virtual machine disks",
       "excerpt": "Explore the options for Azure disk encryption to encrypt OS and data disks on existing and new virtual machines.",
@@ -128,8 +84,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-a-web-app-with-mean-on-a-linux-vm/",
       "length": "PT42M",
       "ratings": {
-        "count": 1839,
-        "average": 4.5611744
+        "count": 1840,
+        "average": 4.561413
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -164,8 +120,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-the-right-disk-storage-for-vm-workload/",
       "length": "PT24M",
       "ratings": {
-        "count": 1750,
-        "average": 4.6725717
+        "count": 1751,
+        "average": 4.6721873
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -208,8 +164,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-hpc/",
       "length": "PT50M",
       "ratings": {
-        "count": 1013,
-        "average": 4.5765057
+        "count": 1014,
+        "average": 4.576923
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -449,6 +405,50 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-monitor-github-events-with-a-function-triggered-by-a-webhook.md",
+      "title": "Monitor GitHub events by using a webhook with Azure Functions",
+      "excerpt": "Discover the benefits of webhooks when you trigger an Azure function with a GitHub webhook and parse the payload for insights.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-monitor-github-events-with-a-function-triggered-by-a-webhook/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/monitor-github-events-with-a-function-triggered-by-a-webhook/",
+      "length": "PT53M",
+      "ratings": {
+        "count": 1715,
+        "average": 4.6233234
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/monitor-github-events-with-a-function-triggered-by-a-webhook-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Compute",
+        "Serverless"
+      ]
+    },
+    {
       "path": "_learning/videos/microsoft-how-to-use-deployment-slots-on-azure-app-service-azure-portal-series.md",
       "title": "How to use deployment slots on Azure App Service | Azure Portal Series",
       "excerpt": "In this video of the Azure Portal “How To” Series, you will learn how to set up staging environments in Azure App Service by using deployment slots.   Try out these features in the Azure portal: https://portal.azure.com    Keep connected on Twitter: https://twitter.com/AzurePortal      And make sure",
@@ -605,8 +605,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-azure-storage-account/",
           "length": "PT45M",
           "ratings": {
-            "count": 7849,
-            "average": 4.6435213
+            "count": 7850,
+            "average": 4.643567
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -792,8 +792,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/automatic-update-of-a-webapp-using-azure-functions-and-signalr/",
       "length": "PT55M",
       "ratings": {
-        "count": 1480,
-        "average": 4.2736487
+        "count": 1482,
+        "average": 4.273954
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1128,45 +1128,6 @@
       ]
     },
     {
-      "path": "_learning/videos/microsoft-azure-friday-azure-app-service-with-hybrid-connections-to-on-premises-resources.md",
-      "title": "Azure Friday | Azure App Service with Hybrid Connections to On-premises Resources",
-      "excerpt": "Christina Compy joins Scott Hanselman to talk about the recently relaunched App Service Hybrid Connections. This feature enables your apps in the App Service to reach resources on other networks. Those other networks can be in Azure, on-premises or networks in other cloud providers.   Azure App Service",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-azure-friday-azure-app-service-with-hybrid-connections-to-on-premises-resources/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-azure-friday-azure-app-service-with-hybrid-connections-to-on-premises-resources/",
-      "originalUrl": "https://youtube.com/watch?v=y_zAJZC_8Yk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/y_zAJZC_8Yk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT10M54S",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2017-10-10T13:58:05-07:00",
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/y_zAJZC_8Yk/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Compute"
-      ]
-    },
-    {
       "path": "_learning/videos/microsoft-how-to-add-and-secure-a-custom-domain-on-your-app-service-web-app-azure-portal-series.md",
       "title": "How to add and secure a custom domain on your App Service web app | Azure Portal Series",
       "excerpt": "In this video, learn about Azure best practices on how to add a custom domain to your web app and how to secure your custom domain with an App Service Managed Certificate.   Try out these features in the Azure portal: https://portal.azure.com   Keep connected on Twitter: https://twitter.com/AzurePortal",
@@ -1361,6 +1322,45 @@
         "Azure",
         "Compute",
         "Containers"
+      ]
+    },
+    {
+      "path": "_learning/videos/microsoft-azure-friday-azure-app-service-with-hybrid-connections-to-on-premises-resources.md",
+      "title": "Azure Friday | Azure App Service with Hybrid Connections to On-premises Resources",
+      "excerpt": "Christina Compy joins Scott Hanselman to talk about the recently relaunched App Service Hybrid Connections. This feature enables your apps in the App Service to reach resources on other networks. Those other networks can be in Azure, on-premises or networks in other cloud providers.   Azure App Service",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-azure-friday-azure-app-service-with-hybrid-connections-to-on-premises-resources/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-azure-friday-azure-app-service-with-hybrid-connections-to-on-premises-resources/",
+      "originalUrl": "https://youtube.com/watch?v=y_zAJZC_8Yk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/y_zAJZC_8Yk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT10M54S",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2017-10-10T13:58:05-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/y_zAJZC_8Yk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Compute"
       ]
     },
     {
