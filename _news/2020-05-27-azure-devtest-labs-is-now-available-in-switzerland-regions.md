@@ -21,6 +21,15 @@ topics:
   - Azure
 
 related:
+  - title: "Azure Databricks Now Available in Switzerland North"
+    excerpt: "Azure Databricks is now available in the Swiss Azure datacenters which marks another milestone on the way to digitize Switzerland"
+    publishedDateTime: 2020-10-28T20:52:09Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-databricks-now-available-in-switzerland-north/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
   - title: "Azure Media Services is now available in Switzerland and Germany"
     excerpt: ""
     publishedDateTime: 2020-05-20T16:00:28Z

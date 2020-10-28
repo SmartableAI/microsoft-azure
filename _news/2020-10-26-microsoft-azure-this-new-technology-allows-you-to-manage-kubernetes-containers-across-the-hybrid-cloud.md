@@ -79,6 +79,22 @@ related:
         width: 1494
         height: 889
         isCached: true
+  - title: "Microsoft cloud business gathers steam as pandemic boosts growth"
+    excerpt: "Microsoft Corp's <MSFT.O> cloud computing business slightly re-accelerated and its Teams messaging and collaboration software won new users, as a pandemic-driven shift to working from home and online learning drove quarterly results ahead of investor targets."
+    publishedDateTime: 2020-10-28T11:41:00Z
+    webUrl: "https://www.reuters.com/article/us-microsoft-results/microsoft-cloud-business-gathers-steam-as-pandemic-boosts-growth-idUSKBN27C2YV"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27C2Z1"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27C2Z1"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 82
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201027&t=2&i=1539032539&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9Q1W3"
+        width: 817
+        height: 545
+        isCached: true
   - title: "The Essential Starter’s Guide to Microsoft Azure for IT Leaders"
     excerpt: "Cloud consumption is on the rise as enterprise organizations and small-and-medium businesses alike shift larger portions of their IT spend toward cloud infrastructure and services like Microsoft Azure."
     publishedDateTime: 2020-10-28T06:31:00Z
@@ -92,20 +108,6 @@ related:
       - url: "https://idge.staticworld.net/ifw/IFW_logo_social_300x300.png"
         width: 300
         height: 300
-        isCached: true
-  - title: "Microsoft cloud business gathers steam as pandemic boosts growth"
-    excerpt: "The Microsoft store is pictured in the Manhattan borough of New York City, New York, U.S., June 26, 2020. REUTERS/Carlo Allegri"
-    publishedDateTime: 2020-10-28T11:41:00Z
-    webUrl: "https://www.reuters.com/news/picture/microsoft-cloud-business-gathers-steam-a-idUSKBN27C2YV"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 62
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201027&t=2&i=1539032539&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXMPEG9Q1W3"
-        width: 810
-        height: 540
         isCached: true
   - title: "AZ 120 Exam Questions Released for Microsoft Azure for SAP Workloads"
     excerpt: "Azure SAP workloads certification held incredibly great importance in today's world. It is a rapidly emerging and growing industry that had set its roots in every"
