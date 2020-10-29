@@ -178,9 +178,9 @@ related:
   - title: "Microsoft's first 'vertical cloud,' the Microsoft Cloud for Healthcare, is now generally available"
     excerpt: "Microsoft's Cloud for Healthcare builds on Azure, Microsoft 365, Dynamics 365 and the Power Platform and is designed to deal with both structured and unstructured health data."
     publishedDateTime: 2020-10-28T17:24:00Z
-    webUrl: "https://www.zdnet.com/index.php/category/2381/index.php/article/microsofts-first-vertical-cloud-the-microsoft-cloud-for-healthcare-is-now-generally-available/"
-    ampWebUrl: "https://www.zdnet.com/index.php/category/2381/index.php/google-amp/article/microsofts-first-vertical-cloud-the-microsoft-cloud-for-healthcare-is-now-generally-available/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2381/index.php/google-amp/article/microsofts-first-vertical-cloud-the-microsoft-cloud-for-healthcare-is-now-generally-available/"
+    webUrl: "https://www.zdnet.com/article/microsofts-first-vertical-cloud-the-microsoft-cloud-for-healthcare-is-now-generally-available/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsofts-first-vertical-cloud-the-microsoft-cloud-for-healthcare-is-now-generally-available/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsofts-first-vertical-cloud-the-microsoft-cloud-for-healthcare-is-now-generally-available/"
     type: article
     provider:
       name: ZDNet

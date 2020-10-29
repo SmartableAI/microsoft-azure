@@ -3,10 +3,10 @@ category: news
 title: "Microsoft's first 'vertical cloud,' the Microsoft Cloud for Healthcare, is now generally available"
 excerpt: "Microsoft's Cloud for Healthcare builds on Azure, Microsoft 365, Dynamics 365 and the Power Platform and is designed to deal with both structured and unstructured health data."
 publishedDateTime: 2020-10-28T17:24:00Z
-originalUrl: "https://www.zdnet.com/index.php/category/2381/index.php/article/microsofts-first-vertical-cloud-the-microsoft-cloud-for-healthcare-is-now-generally-available/"
-webUrl: "https://www.zdnet.com/index.php/category/2381/index.php/article/microsofts-first-vertical-cloud-the-microsoft-cloud-for-healthcare-is-now-generally-available/"
-ampWebUrl: "https://www.zdnet.com/index.php/category/2381/index.php/google-amp/article/microsofts-first-vertical-cloud-the-microsoft-cloud-for-healthcare-is-now-generally-available/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2381/index.php/google-amp/article/microsofts-first-vertical-cloud-the-microsoft-cloud-for-healthcare-is-now-generally-available/"
+originalUrl: "https://www.zdnet.com/article/microsofts-first-vertical-cloud-the-microsoft-cloud-for-healthcare-is-now-generally-available/"
+webUrl: "https://www.zdnet.com/article/microsofts-first-vertical-cloud-the-microsoft-cloud-for-healthcare-is-now-generally-available/"
+ampWebUrl: "https://www.zdnet.com/google-amp/article/microsofts-first-vertical-cloud-the-microsoft-cloud-for-healthcare-is-now-generally-available/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsofts-first-vertical-cloud-the-microsoft-cloud-for-healthcare-is-now-generally-available/"
 type: article
 quality: 48
 heat: -1
@@ -347,6 +347,6 @@ related:
         height: 627
         isCached: true
 
-secured: "oaRfn7oKwwSV679Neh+aGvHyMtg4Hd/gLMEMjsCPamLLeX1gOTC1VzEVpynv+YNnVIcf0AtLGEhdRNdOS9VXTHAYF2J5/DXrLZbeReI6UKOxt+Rnm3a+Is8Jy5+CAB4tNvvr2hHUJDfGSWDZcbuCNoe98322vQeX+x2NCCQcjzmz7Prp43w2vNXhRhEyiRhl7auHr0hAjXsnntIbxGdFi942GCHtMJj6eKkDyoF1BIEZk9xL6irS0hHPIqykNaBgQpAnYJM8S+bZOi01rPf5xivcSr22SeR261jFXZV49k93bp53GnklNWA0Dcg3OUEb1NsJHumXD4nuA3Dm6oswA/ZU8OJpjzfzucbcHrL/DBuXLgBAjBvAiPVBqILBoVm2Gr70ucMTJxQFEqSZuX5f82mWu7qgijZCD4xGBcvq51D82zNJyUWUqNOfClxHp/fgbFBBqiopKH8RYCC3+MLX73voAwYzo6eiL5ZQq0vcJdf/jMB8Mlmocqldd6s5EI+jfQPLgBCp05tkEpgJTkjn4g==;WbM03xH3UZo9FH6cuEjadA=="
+secured: "/2t6b4NO2I7KWc7vKs/henIlCLL1Cm0BVqIWq+sFZqMlsUB9vQS9rFPKO6BL1Sf0hbcKYbCJBnOu0EObkQPe/rn3EXp5/JGA7McKY7LUsK0udVkoTQi7eH/Kb0J7x730rSJnMJa8DtRnXC0wq0lHz4XwdlZBvj1l/6epBF/sob4P2mC+enrGipvpKG23IhwC0N8LDyFn2qUnsxDEoMjhDmwdxHKfWNq6h/QS8gU72hwPCVtRbVlAonbvf53mmNe9oM+Qb0xRP/cMx93Loaw/D69+3OQqhvN2kjX8SxCCPSrm2YXuhfGNejQR10IvBIDFRgQh74VsCNgOt5ThB3k2Ap4OUVLjluHobHwRmQvWHlOPPEYBo9/S4cJ5qMeHEcyADRU8NpEQ2/1liKaffSFzfrs5DWEJkMg+PX+Y24gh4vByJZaFCEVS+bP11yFanJVqnBl2XZ0BtqLMEa4AvQyhjapNaUPaUOzwKGj5uet2Ab+7wxKkuviwioklfJMN7+n6GoE0UQDxeMe4gb8dJrASsg==;Xr3KR8FyUQVXMW8Jbpc/2w=="
 ---
 
