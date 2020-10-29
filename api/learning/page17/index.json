@@ -4,49 +4,6 @@
   "page": 17,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-secure-aspnet-core-identity.md",
-      "title": "Secure an ASP.NET Core web app with the Identity framework",
-      "excerpt": "Add authentication and authorization to an ASP.NET Core web app using the Identity framework.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-secure-aspnet-core-identity/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-aspnet-core-identity/",
-      "length": "PT1H8M",
-      "ratings": {
-        "count": 816,
-        "average": 4.4632354
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/aspnetcore/secure-aspnet-core-identity-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Identity"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-serverless-fundamentals.md",
       "title": "Choose the best Azure serverless technology for your compute scenario",
       "excerpt": "Examine Azure's serverless technologies and choose the right service for your scenario.",
@@ -188,8 +145,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/transcribe-speech-input-text/",
       "length": "PT27M",
       "ratings": {
-        "count": 280,
-        "average": 4.696429
+        "count": 281,
+        "average": 4.69395
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -363,8 +320,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/upload-project-github/",
       "length": "PT43M",
       "ratings": {
-        "count": 164,
-        "average": 4.707317
+        "count": 165,
+        "average": 4.70303
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -710,6 +667,44 @@
       ]
     },
     {
+      "path": "_learning/videos/microsoft-azure-lighthouse-a-unified-control-plane-for-managing-azure-at-scale-azure-friday.md",
+      "title": "Azure Lighthouse: A unified control plane for managing Azure at scale | Azure Friday",
+      "excerpt": "Archana Balakrishnan joins Scott Hanselman to show how Azure Lighthouse can manage hundreds of customers, thousands of subscriptions, and millions of resources from a unified control plane. ↓ Click SHOW MORE for full notes and links below ↓  Azure Lighthouse helps deliver managed services with comprehensive",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-azure-lighthouse-a-unified-control-plane-for-managing-azure-at-scale-azure-friday/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-azure-lighthouse-a-unified-control-plane-for-managing-azure-at-scale-azure-friday/",
+      "originalUrl": "https://youtube.com/watch?v=x-Db_AFKCzM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/x-Db_AFKCzM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT16M",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-05-18T16:47:54-07:00",
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/x-Db_AFKCzM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
       "path": "_learning/videos/microsoft-azure-reserved-vm-instances-ris-azure-friday.md",
       "title": "Azure Reserved VM Instances (RIs) | Azure Friday",
       "excerpt": "Yashesvi Sharma joins Scott Hanselman to discuss how to significantly reduce costs up to 72 percent compared to pay-as-you-go prices with one-year or three-year terms on Windows and Linux virtual machines (VMs). When you combine the cost savings gained from Azure RIs with the added value of the Azure",
@@ -787,44 +782,6 @@
       ]
     },
     {
-      "path": "_learning/videos/microsoft-azurlshortener-an-open-source-budget-friendly-url-shortener-azure-friday.md",
-      "title": "AzUrlShortener: An open source, budget-friendly URL shortener | Azure Friday",
-      "excerpt": "AzUrlShortener is an open source, budget-friendly URL shortener you can deploy directly from GitHub with one click into your Azure subscription. In this episode, Frank Boucher joins Scott Hanselman to explain how to get it, why it's inexpensive, and explores the source code.  1:34 - Demo  FBoucher/AzUrlShortener",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-azurlshortener-an-open-source-budget-friendly-url-shortener-azure-friday/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-azurlshortener-an-open-source-budget-friendly-url-shortener-azure-friday/",
-      "originalUrl": "https://youtube.com/watch?v=iA9xXZyjZPo",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/iA9xXZyjZPo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT13M56S",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-05-11T21:24:48-07:00",
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/iA9xXZyjZPo/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
       "path": "_learning/videos/microsoft-continuous-integration-and-deployment-using-azure-data-factory-azure-friday.md",
       "title": "Continuous integration and deployment using Azure Data Factory | Azure Friday",
       "excerpt": "Gaurav Malhotra joins Scott Hanselman to discuss how you can follow industry-leading best practices to do continuous integration and deployment for your Extract Transform/Load (ETL) and Extract Load/Transform (ELT) workflows to multiple environments such as Dev, Test, Prod, and more.  For more information:",
@@ -861,6 +818,44 @@
       "topics": [
         "Azure",
         "Integration"
+      ]
+    },
+    {
+      "path": "_learning/videos/microsoft-enabling-secure-remote-work-using-windows-virtual-desktop-azure-friday.md",
+      "title": "Enabling secure remote work using Windows Virtual Desktop | Azure Friday",
+      "excerpt": "Windows Virtual Desktop (WVD) is a comprehensive desktop and app virtualization service running in Azure to enable secure remote work. Christiaan Brinkhoff joins Scott Hanselman to show how WVD is different from other desktop virtualization technologies, as well as how easy it is to implement and maintain.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-enabling-secure-remote-work-using-windows-virtual-desktop-azure-friday/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-enabling-secure-remote-work-using-windows-virtual-desktop-azure-friday/",
+      "originalUrl": "https://youtube.com/watch?v=dL1LpGpGRIo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/dL1LpGpGRIo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT24M52S",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-07-24T08:59:12-07:00",
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/dL1LpGpGRIo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Azure"
       ]
     },
     {
@@ -976,6 +971,45 @@
       "price": "Free",
       "topics": [
         "Azure"
+      ]
+    },
+    {
+      "path": "_learning/videos/microsoft-go-serverless-big-data-processing-with-azure-event-hubs-for-apache-kafka-azure-friday.md",
+      "title": "Go serverless: Big data processing with Azure Event Hubs for Apache Kafka | Azure Friday",
+      "excerpt": "Working with Apache Kafka and want to simplify management of your infrastructure? Lena Hall joins Scott Hanselman to show you can keep using Apache Kafka libraries for hundreds of projects, and try Azure Event Hubs behind the scenes to focus on code instead of maintaining infrastructure.  4:44 - Demo",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-go-serverless-big-data-processing-with-azure-event-hubs-for-apache-kafka-azure-friday/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-go-serverless-big-data-processing-with-azure-event-hubs-for-apache-kafka-azure-friday/",
+      "originalUrl": "https://youtube.com/watch?v=UE1WgB96_fc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/UE1WgB96_fc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT10M9S",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-03-30T14:28:06-07:00",
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/UE1WgB96_fc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Serverless"
       ]
     },
     {
@@ -1174,46 +1208,6 @@
         "Azure",
         "Management tools",
         "Storage"
-      ]
-    },
-    {
-      "path": "_learning/videos/microsoft-how-to-create-a-load-balancer-azure-portal-series.md",
-      "title": "How to create a load balancer | Azure Portal Series",
-      "excerpt": "In this video of the Azure Portal “How To” Series, you will learn how to configure load balancers and how to add virtual machines to them in the Azure Portal.   Try out these features in the Azure portal: https://ms.portal.azure.com/#home   Keep connected on Twitter: https://twitter.com/AzurePortal",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-how-to-create-a-load-balancer-azure-portal-series/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-how-to-create-a-load-balancer-azure-portal-series/",
-      "originalUrl": "https://youtube.com/watch?v=-VMPzVoo5Nk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-VMPzVoo5Nk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT4M48S",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2019-04-24T12:51:39-07:00",
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/-VMPzVoo5Nk/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Management tools",
-        "Networking"
       ]
     }
   ],
