@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/10/14/microsoft-explains-how-it-improve
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/14/microsoft-explains-how-it-improved-automatic-image-captioning-in-azure-cognitive-services/amp/"
 type: article
 quality: 120
-heat: 1220
+heat: 1240
 published: true
 
 provider:
@@ -719,6 +719,15 @@ related:
       name: GMA Network
       domain: gmanetwork.com
     quality: 22
+  - title: "Microsoft Azure PowerShell Scripts and Commands"
+    excerpt: "Microsoft has since extended the capabilities of PowerShell to automate a range of other tasks and systems, including Azure, Microsoft’s cloud computing service. Azure PowerShell is a robust command line tool that uses scripts and cmdlets to manage and ..."
+    publishedDateTime: 2020-10-09T05:00:00Z
+    webUrl: "https://www.serverwatch.com/guides/azure-powershell-scripts/"
+    type: article
+    provider:
+      name: Server Watch
+      domain: serverwatch.com
+    quality: 17
   - title: "NAPAfrica starts offering direct access to Microsoft Azure peering"
     excerpt: "Internet exchange point NAPAfrica said that its members can now have direct access to the Microsoft Azure Peering Service and benefit from an SLA-backed connection to Microsoft. This enhances customer connectivity to Microsoft cloud services such as Office 365,"
     publishedDateTime: 2020-10-13T09:40:00Z

@@ -722,6 +722,15 @@ related:
       name: GMA Network
       domain: gmanetwork.com
     quality: 22
+  - title: "Microsoft Azure PowerShell Scripts and Commands"
+    excerpt: "Microsoft has since extended the capabilities of PowerShell to automate a range of other tasks and systems, including Azure, Microsoft’s cloud computing service. Azure PowerShell is a robust command line tool that uses scripts and cmdlets to manage and ..."
+    publishedDateTime: 2020-10-09T05:00:00Z
+    webUrl: "https://www.serverwatch.com/guides/azure-powershell-scripts/"
+    type: article
+    provider:
+      name: Server Watch
+      domain: serverwatch.com
+    quality: 17
   - title: "Comarch offers BSS/OSS products deployed on Microsoft Azure"
     excerpt: "This means the products can be deployed on Microsoft Azure. The platform is already being implemented for a Polish Tier 1 operator. Comarch is going to deploy full-stack BSS and OSS, which include various customer portals, CRM, B2C and B2B Ordering and ..."
     publishedDateTime: 2020-10-14T09:15:00Z

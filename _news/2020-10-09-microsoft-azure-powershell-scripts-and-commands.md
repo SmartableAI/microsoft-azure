@@ -1,27 +1,21 @@
 ---
 category: news
-title: "CDW Recognized as Microsoft Azure Expert Managed Service Provider to Meet Evolving Customer Needs"
-excerpt: "This recent recognition demonstrates CDW’s commitment to providing customers with best-in-class design, orchestration, and managed services on Azure with a focus on future succe"
-publishedDateTime: 2020-10-09T12:30:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-products-and-services-cloud-computing-a0220a2923184a56ae2395c672ca0e92"
-webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-products-and-services-cloud-computing-a0220a2923184a56ae2395c672ca0e92"
+title: "Microsoft Azure PowerShell Scripts and Commands"
+excerpt: "Microsoft has since extended the capabilities of PowerShell to automate a range of other tasks and systems, including Azure, Microsoft’s cloud computing service. Azure PowerShell is a robust command line tool that uses scripts and cmdlets to manage and ..."
+publishedDateTime: 2020-10-09T05:00:00Z
+originalUrl: "https://www.serverwatch.com/guides/azure-powershell-scripts/"
+webUrl: "https://www.serverwatch.com/guides/azure-powershell-scripts/"
 type: article
-quality: 24
+quality: 17
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Server Watch
+  domain: serverwatch.com
 
 topics:
   - Azure
-
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
 
 related:
   - title: "Microsoft explains how it improved automatic image captioning in Azure Cognitive Services"
@@ -647,6 +641,20 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "CDW Recognized as Microsoft Azure Expert Managed Service Provider to Meet Evolving Customer Needs"
+    excerpt: "This recent recognition demonstrates CDW’s commitment to providing customers with best-in-class design, orchestration, and managed services on Azure with a focus on future succe"
+    publishedDateTime: 2020-10-09T12:30:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-products-and-services-cloud-computing-a0220a2923184a56ae2395c672ca0e92"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 24
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "EPAM Has Earned the Modernization of Web Applications in Microsoft Azure Advanced Specialization"
     excerpt: "PRNewswire/ -- EPAM Systems, Inc. (NYSE: EPAM), a leading global provider of digital platform engineering and software development services, today announced it has earned the Modernization of Web Applications in Microsoft Azure advanced specialization,"
     publishedDateTime: 2020-10-19T14:00:00Z
@@ -714,15 +722,6 @@ related:
       name: GMA Network
       domain: gmanetwork.com
     quality: 22
-  - title: "Microsoft Azure PowerShell Scripts and Commands"
-    excerpt: "Microsoft has since extended the capabilities of PowerShell to automate a range of other tasks and systems, including Azure, Microsoft’s cloud computing service. Azure PowerShell is a robust command line tool that uses scripts and cmdlets to manage and ..."
-    publishedDateTime: 2020-10-09T05:00:00Z
-    webUrl: "https://www.serverwatch.com/guides/azure-powershell-scripts/"
-    type: article
-    provider:
-      name: Server Watch
-      domain: serverwatch.com
-    quality: 17
   - title: "NAPAfrica starts offering direct access to Microsoft Azure peering"
     excerpt: "Internet exchange point NAPAfrica said that its members can now have direct access to the Microsoft Azure Peering Service and benefit from an SLA-backed connection to Microsoft. This enhances customer connectivity to Microsoft cloud services such as Office 365,"
     publishedDateTime: 2020-10-13T09:40:00Z
@@ -783,6 +782,6 @@ related:
       domain: seekingalpha.com
     quality: 2
 
-secured: "D7vTYCIB5blezvlRNvGI0ljNZ3AGrWNw/6RlxSViS2AyX2tDwyZ+uhqOYzZ7r7mB4eWmsKEJqRDd1KDm9h3CixfZORs6LCDZPYV2HyeWVbwT2AanphFh3O4/dqzdmpzw/BD++fz4nbPOON09Aqbac8lqW6033yoZ5z/DKbQlNqAKc+7ech816XgSxChAK8nhOaTVpHrTWcO8VrSuXCgLmBE0fKhAesuX7CzAaEDAF5A1J7fi94HeOFYLP/vO5pGRxy54iyYbdhVQe1Bk7S1RuLq+fWyyJV032fdOA8daaLPuR+YfrYCpA8Ux/IFOVZ1Q/r9AWslglN62U6qrdJHZF8s1QRqWeVzut3qj09I3A0E=;e6bZSg2TMiJvTbARDsusUA=="
+secured: "iVItNKtyIeHWXiO+y7a3ZN9woH+zxQiKifakPkm4IsOxE0RQRxJd/CrVqggDfwSsf+JnGGI6w1aMyf5dotpEueFJ1WCVZ3dbUadf66Z++K+skV3bgA/mLGxxa8tfLK5APsUxYhfEJv7/C8KvYarAG/xo6L9yUlw0trzNavVwRUrcmM9WGyc1X/3ExZtnfvn38BFJKapKFeo+FELzJ1hejch62YVILs60sZt13EcvRVF0tWn8c2O09tm5gbCaL11RJPvXioV/PP103qcyL/Uxg46t0Ty1JtiOe7Pt0dBysa5uMIAAmNvKA8b78EMO8PWKcYKxrB/LwRZHHuR3OW1h/PKkOkw+a9TyirF6p/GAWf0=;clI1YYJs4tys6QVLkuvPhg=="
 ---
 
