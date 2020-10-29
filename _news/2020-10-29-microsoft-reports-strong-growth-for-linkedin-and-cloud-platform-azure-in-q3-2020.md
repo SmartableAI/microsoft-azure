@@ -1,26 +1,31 @@
 ---
 category: news
-title: "Public preview: Auditing of Microsoft support operations in Azure SQL DB and Azure SQL MI"
-excerpt: "The auditing of Microsoft support operations capability enables the audit of Microsoft support operations when accessing servers and/or databases during a support request to an audit logs destination. The use of this capability, along with auditing, enables more transparency into the workforce and allows"
-publishedDateTime: 2020-10-28T16:00:29Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/auditing-of-microsoft-support-operations-in-azure-sql-db-and-azure-sql-mi/"
-webUrl: "https://azure.microsoft.com/en-us/updates/auditing-of-microsoft-support-operations-in-azure-sql-db-and-azure-sql-mi/"
+title: "Microsoft reports strong growth for LinkedIn and cloud platform Azure in Q3 2020"
+excerpt: "Microsoft reported strong Q3 2020 growth for LinkedIn and Azure, with the former seeing record engagement as people spent time searching for work."
+publishedDateTime: 2020-10-29T13:08:00Z
+originalUrl: "https://www.businessinsider.com/microsoft-shows-strong-growth-for-linkedin-azure-in-q3-2020-10"
+webUrl: "https://www.businessinsider.com/microsoft-shows-strong-growth-for-linkedin-azure-in-q3-2020-10"
 type: article
-quality: 75
+quality: 72
 heat: -1
 published: false
 
 provider:
-  name: Microsoft
-  domain: microsoft.com
+  name: Business Insider
+  domain: businessinsider.com
   images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg"
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/businessinsider.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Azure
-  - Databases
+
+images:
+  - url: "https://i.insider.com/5f9ab8a469331a0011bc5fc2?width=1200&format=jpeg"
+    width: 1200
+    height: 600
+    isCached: true
 
 related:
   - title: "Microsoft and Honeywell collaborate on Azure and Dynamics 365"
@@ -50,6 +55,15 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 91
+  - title: "Public preview: Auditing of Microsoft support operations in Azure SQL DB and Azure SQL MI"
+    excerpt: "The auditing of Microsoft support operations capability enables the audit of Microsoft support operations when accessing servers and/or databases during a support request to an audit logs destination. The use of this capability, along with auditing, enables more transparency into the workforce and allows"
+    publishedDateTime: 2020-10-28T16:00:29Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/auditing-of-microsoft-support-operations-in-azure-sql-db-and-azure-sql-mi/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 75
   - title: "Microsoft unlocks the full potential of the smart building ecosystem"
     excerpt: "It is impossible to understate the profound impact 2020 events have had on the real estate industry. Buildings of all kinds, from commercial offices to retail, hospitals, manufacturing plants, and more, remain in need of transformative solutions that will enable employees to return to work safely. In"
     publishedDateTime: 2020-10-26T06:00:00Z
@@ -63,20 +77,6 @@ related:
       - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/2ab0444a-0df7-4672-a9ea-74857e3070d6.png"
         width: 1024
         height: 463
-        isCached: true
-  - title: "Microsoft reports strong growth for LinkedIn and cloud platform Azure in Q3 2020"
-    excerpt: "Microsoft reported strong Q3 2020 growth for LinkedIn and Azure, with the former seeing record engagement as people spent time searching for work."
-    publishedDateTime: 2020-10-29T13:08:00Z
-    webUrl: "https://www.businessinsider.com/microsoft-shows-strong-growth-for-linkedin-azure-in-q3-2020-10"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 72
-    images:
-      - url: "https://i.insider.com/5f9ab8a469331a0011bc5fc2?width=1200&format=jpeg"
-        width: 1200
-        height: 600
         isCached: true
   - title: "Microsoft and SpaceX partner to use Azure with Starlink satellite"
     excerpt: "We’ve seen Microsoft look to expand its services out into space, as the company recently announced Azure Orbital, a service that connects satellites via cloud. On the other hand, SpaceX has been using its Starlink satellites to offer internet around the globe."
@@ -143,6 +143,6 @@ related:
       domain: wfmz.com
     quality: 0
 
-secured: "CAyzol/fs39pxGoHn55BE2PawX6Zt9/jqKlYUqYLVD6MwH8921mtCfgIAJOIh5pXfHBGOYa1cASeSMUQq7tOWZyUX6uJdwDdXb/JGrwlFckbmz3Lv2xYoeChieD2Zo9StwPK93Dlcb7lKVXX+CW6kCg4P4QQVb8qqj4ZWCfiB/bGc1GAdP7akpYmWpudo5mAcrDY95/8tjpx3USkDS/dRH6n3lPqFaPFw9CaCPwqWdyN8W5ik0HjYJ0qgl768ZyGIm4IHIrA9dQSNohp58DcHU+ZJaS9Kk+d3cxEF08cIzaG3vJl7gyNeDH3nhvD54j3avr6padOxx+elLEUxoqcVRB6oEM0PI/rRbXnsEZ2Fe4=;oVERS4DEtQrBng1NyRUP/A=="
+secured: "xw3wXV+amhmnj8VxXATnF0xgu28OnN0Vm84ZL9jJjilY2oMFhIyKgxaP/U+KwN0J6ISZtct9hroTKZC9TJg8ex6pM7malWhs11kcgmykq/WnXOuMfNRrD5WDMZI2jq6OIczDraQb+MTmd6LK0huwKmr+HZYy0IJbR8x3ensU2lR6BXNC2e02SvXS9VCx4ub/eTq8DOjXO71p1GwYHYw53jvGl1MYDzgfzGFYnVe8R6ohCKpfAc1fHNkWGQSI8qi97ZQrEylzxXaMastG44XmrgpvBFO2M+HLhVuHJZg5Ktstr8Zcr+YVPFBkyIQ7EWx/mlUl4PE8Z0IuzGVGRXDTXUoLLazcIZya1Es/SuEmnZA=;JgyMu5eUvrOmoVV7dX2Zvg=="
 ---
 

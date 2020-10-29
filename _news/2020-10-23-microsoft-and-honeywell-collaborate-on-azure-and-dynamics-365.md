@@ -9,7 +9,7 @@ ampWebUrl: "https://www.neowin.net/amp/microsoft-and-honeywell-collaborate-on-az
 cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-and-honeywell-collaborate-on-azure-and-dynamics-365/"
 type: article
 quality: 97
-heat: 257
+heat: 277
 published: true
 
 provider:
@@ -63,6 +63,20 @@ related:
       - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/2ab0444a-0df7-4672-a9ea-74857e3070d6.png"
         width: 1024
         height: 463
+        isCached: true
+  - title: "Microsoft reports strong growth for LinkedIn and cloud platform Azure in Q3 2020"
+    excerpt: "Microsoft reported strong Q3 2020 growth for LinkedIn and Azure, with the former seeing record engagement as people spent time searching for work."
+    publishedDateTime: 2020-10-29T13:08:00Z
+    webUrl: "https://www.businessinsider.com/microsoft-shows-strong-growth-for-linkedin-azure-in-q3-2020-10"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 72
+    images:
+      - url: "https://i.insider.com/5f9ab8a469331a0011bc5fc2?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Microsoft and SpaceX partner to use Azure with Starlink satellite"
     excerpt: "We’ve seen Microsoft look to expand its services out into space, as the company recently announced Azure Orbital, a service that connects satellites via cloud. On the other hand, SpaceX has been using its Starlink satellites to offer internet around the globe."

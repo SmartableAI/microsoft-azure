@@ -76,6 +76,20 @@ related:
         width: 1024
         height: 463
         isCached: true
+  - title: "Microsoft reports strong growth for LinkedIn and cloud platform Azure in Q3 2020"
+    excerpt: "Microsoft reported strong Q3 2020 growth for LinkedIn and Azure, with the former seeing record engagement as people spent time searching for work."
+    publishedDateTime: 2020-10-29T13:08:00Z
+    webUrl: "https://www.businessinsider.com/microsoft-shows-strong-growth-for-linkedin-azure-in-q3-2020-10"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 72
+    images:
+      - url: "https://i.insider.com/5f9ab8a469331a0011bc5fc2?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Rigado Announces Safe Workplace Monitoring Solutions for Microsoft Azure IoT"
     excerpt: "New devices and displays enable plug and play data collection and automation for Microsoft Azure IoT, helping companies quickly create safer commercial spaces. PORTLAND, Ore."
     publishedDateTime: 2020-10-22T14:00:00Z
