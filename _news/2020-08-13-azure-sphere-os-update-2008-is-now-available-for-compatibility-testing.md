@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-13T22:00:00Z
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-sphere-os-update-2008-is-now-available-for-compatibility-testing/"
 type: article
 quality: 67
-heat: 227
+heat: 247
 published: true
 
 provider:
@@ -25,6 +25,15 @@ related:
     excerpt: "The Azure Sphere 20.08 OS quality release is now available in the Retail feed. This update includes enhancements and bug fixes in the Azure Sphere OS including a security update that represents a critical update to the OS. "
     publishedDateTime: 2020-08-20T20:00:07Z
     webUrl: "https://azure.microsoft.com/en-us/updates/azure-sphere-os-version-2008-is-now-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
+  - title: "Azure Sphere 20.10 Update 1 is now available for compatibility testing"
+    excerpt: "Azure Sphere 20.10 Update 1 fixes some issues reported to us by customers using 20.10 Retail Eval for compatibility testing. The release of 20.10 Update 1 will not reset the retail evaluation period. "
+    publishedDateTime: 2020-10-28T22:32:15Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-sphere-2010-update-1-is-now-available-for-compatibility-testing/"
     type: article
     provider:
       name: Microsoft

@@ -40,6 +40,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
+  - title: "Azure Sphere 20.10 Update 1 is now available for compatibility testing"
+    excerpt: "Azure Sphere 20.10 Update 1 fixes some issues reported to us by customers using 20.10 Retail Eval for compatibility testing. The release of 20.10 Update 1 will not reset the retail evaluation period. "
+    publishedDateTime: 2020-10-28T22:32:15Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-sphere-2010-update-1-is-now-available-for-compatibility-testing/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
   - title: "Azure Sphere update 20.04 is now available"
     excerpt: ""
     publishedDateTime: 2020-05-05T17:00:14Z

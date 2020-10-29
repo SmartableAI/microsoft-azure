@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/keyvaultpolicy/"
 webUrl: "https://azure.microsoft.com/en-us/updates/keyvaultpolicy/"
 type: article
 quality: 83
-heat: 85
+heat: 83
 published: true
 
 provider:
