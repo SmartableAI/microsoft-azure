@@ -6,8 +6,8 @@ type: course
 price: Free
 length: PT1H34M
 ratings:
-  count: 3794
-  average: 4.555614
+  count: 3795
+  average: 4.5557313
 heat: 56
 
 provider:
@@ -26,6 +26,6 @@ topics:
   - Compute
   - Networking
 
-secured: "LfOgYakKtQYzFFzMUF6ZmT0hJOuiOL0Ogo91HS0/Q+n4jVq3yI+7bPg49pZpWUSN/ZYSqfuzIKrB49fPQMOP/cVfYtcS0H7DUXa3/Xm88xrc44oTnqaRge7BcL7eAuuOEQk3NADNMx7QTgCX/14IarNuHTdXQzWGDTYK4pPzt//BRerran8dPjTiKI/4gLC7eQu+bzK9RCMfXP1x8MzTGyVPAobvJf6v5IZj3KBJ6oj7vxqOxoHP097erPRcXMfNU+bOctxdoHVV8iBDGHcv7rfUCwTMVj1GPyG+A70+JwyXPo+x3VHl2dgpP6J4wbB4QuF3gpMOdUQqOTD4KnjEoq34gfQeralfE+wjuDgowABgJ8tq1eP57CxBEAV1FtXtSELkBVX2EkuUFXdXhZxV6Yrl7Kq2s+E+T6gjmmlTU4w=;TYm4KN3Ho05rxjmnDRTtwg=="
+secured: "Yh6UswfIPjTv/aXALQxA5tLFmtobiByj+UzSSrCy3wy3F+uEPZ9yKx0hYLW+BhfzhhUjTHaa2ogBgVPKsF3iH0VBhY40pAoIQA0Sr4sHKSBUzKDMP9Yt6VJvJqm31VUmplFOzx28YRmXjlNI4c2kafkFyyEm8szUn5QOlzcsZAQv8kKG8xMdTj0GDnfTSi9fupBHN6ql61QeErfU1YCleLYkawNGcpGSskk4Vk/XbJMngDtlKXgyaC/07aLlZEXI0HhjheSR1DjxWf31hUUWYkH23cY0w/x4ZGMTcanMpaGoMVw3UZc7b1lJecPPMq95Np7aesdtNFI6XYRn7GFVwXceh7ZA8mVa2RnWePqVDBlTnSEAA3+PTKvAgzSmkjBaXWm3is+MbP1izCJ1pnieGbRo9uO+njeTIPk7Oa5EynU=;5a6EORgn3Cj78tDdgVYMTg=="
 ---
 
