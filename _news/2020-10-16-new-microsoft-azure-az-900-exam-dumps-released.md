@@ -1,24 +1,29 @@
 ---
 category: news
-title: "Microsoft releases Azure Defender for IoT in public preview"
-excerpt: "Microsoft announced today that Azure Defender for IoT, its agentless security solution for networked IoT and Operational Technology (OT) devices, has entered public preview."
-publishedDateTime: 2020-10-16T17:01:00Z
-originalUrl: "https://www.bleepingcomputer.com/news/security/microsoft-releases-azure-defender-for-iot-in-public-preview/"
-webUrl: "https://www.bleepingcomputer.com/news/security/microsoft-releases-azure-defender-for-iot-in-public-preview/"
-ampWebUrl: "https://www.bleepingcomputer.com/news/security/microsoft-releases-azure-defender-for-iot-in-public-preview/amp/"
-cdnAmpWebUrl: "https://www-bleepingcomputer-com.cdn.ampproject.org/c/s/www.bleepingcomputer.com/news/security/microsoft-releases-azure-defender-for-iot-in-public-preview/amp/"
+title: "New Microsoft Azure AZ-900 Exam Dumps Released"
+excerpt: "We are announcing that the new Azure AZ-900 exam questions are released and available on DumpsSchool. Prepare exam with Microsoft AZ-900 dumps which will lead you to pass Azure Fundamentals exam ..."
+publishedDateTime: 2020-10-16T01:51:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/20/10/ab17931813/new-microsoft-azure-az-900-exam-dumps-released"
+webUrl: "https://www.benzinga.com/pressreleases/20/10/ab17931813/new-microsoft-azure-az-900-exam-dumps-released"
+ampWebUrl: "https://amp.benzinga.com/amp/content/17931813"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17931813"
 type: article
-quality: 54
+quality: 57
 heat: -1
 published: false
 
 provider:
-  name: Bleeping Computer
-  domain: bleepingcomputer.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Azure
-  - IoT
+
+images:
+  - url: "https://www.abnewswire.com/uploads/98ad4756956b0f96779bd03c4a9af7e0.jpg"
+    width: 600
+    height: 341
+    isCached: true
 
 related:
   - title: "Microsoft explains how it improved automatic image captioning in Azure Cognitive Services"
@@ -270,22 +275,6 @@ related:
         width: 1200
         height: 627
         isCached: true
-  - title: "New Microsoft Azure AZ-900 Exam Dumps Released"
-    excerpt: "We are announcing that the new Azure AZ-900 exam questions are released and available on DumpsSchool. Prepare exam with Microsoft AZ-900 dumps which will lead you to pass Azure Fundamentals exam ..."
-    publishedDateTime: 2020-10-16T01:51:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/10/ab17931813/new-microsoft-azure-az-900-exam-dumps-released"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/17931813"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17931813"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 57
-    images:
-      - url: "https://www.abnewswire.com/uploads/98ad4756956b0f96779bd03c4a9af7e0.jpg"
-        width: 600
-        height: 341
-        isCached: true
   - title: "SpaceX to Use Microsoft Azure for Satellite Cloud Computing"
     excerpt: "Get Report shares were rising following a report that the company was partnering with SpaceX, Elon Musk's low-orbit space company, to provide cloud-computing power.  Microsoft will offer cloud-computing services for space customers using SpaceX's low-orbit spacecraft,"
     publishedDateTime: 2020-10-20T14:27:00Z
@@ -316,6 +305,17 @@ related:
         width: 500
         height: 272
         isCached: true
+  - title: "Microsoft releases Azure Defender for IoT in public preview"
+    excerpt: "Microsoft announced today that Azure Defender for IoT, its agentless security solution for networked IoT and Operational Technology (OT) devices, has entered public preview."
+    publishedDateTime: 2020-10-16T17:01:00Z
+    webUrl: "https://www.bleepingcomputer.com/news/security/microsoft-releases-azure-defender-for-iot-in-public-preview/"
+    ampWebUrl: "https://www.bleepingcomputer.com/news/security/microsoft-releases-azure-defender-for-iot-in-public-preview/amp/"
+    cdnAmpWebUrl: "https://www-bleepingcomputer-com.cdn.ampproject.org/c/s/www.bleepingcomputer.com/news/security/microsoft-releases-azure-defender-for-iot-in-public-preview/amp/"
+    type: article
+    provider:
+      name: Bleeping Computer
+      domain: bleepingcomputer.com
+    quality: 54
   - title: "SpaceX, SES to provide broadband for Microsoft’s Azure Space mobile data centers"
     excerpt: "Microsoft will offer mobile cloud computing data centers that can be deployed anywhere in the world and connect to SpaceX’s Starlink and SES’ O3B internet satellites."
     publishedDateTime: 2020-10-20T00:00:00Z
@@ -799,6 +799,6 @@ related:
       domain: seekingalpha.com
     quality: 2
 
-secured: "hXFsVSenSfk1SyRG2lRI2q4zEiEj8lyVHbBi3o5VlXiqONZ/ewSPEmulmgmqN40+NnzrOGdifKDibUtyGTEuAX4tgqu4zXGr78KFy94uj6fv8lbX35f3S9nNwjk5WZaTrmlB1ZhiCySGLlg5TJkpuIpqMGBHcLPUtCbD6VsgS2E+V0w1ny3l2nMNDSjuCgkK34x+DlyscoLbKq0Yy96YgrKC8RfrefPVLcRbdp3H0dZ15GuFIDa980Cu7Gyng/qrZbNBFJKL2Vtp55TTCuF3rJx93DR/mFPFu7UvLlZ27/cIZohfWqqPekiRP3u0VHYOiMr1h+LcKIP9dyuFT6lAy7sLgP7VXOmfDecd4B3jVczmXSxHuL71kptrKI6rcQEQB1JeKnzznRhXNBpBLSu7HRMkdxosMR+ahqfCTVSqCwccuuwcsi6rrWmBopEVd0781ClxQgN7SI1ugLOh/rOZt/ls8eKoZSAcH50w+xzb0+dnJ1dOwGKBmJmSVWJfhCkaRqZZnbWGhFpKwL087+2uYQ==;zbJxLfddUTqMVxY3Jw/0gw=="
+secured: "c/h5G/UGNJDiv4RyRkkLoxBAHPyCEvUgHkbqM0cfr3XvBcnbFRU2Brw7SjS56EZ53KoZLBN3sV1jEWwVEm7p9BK59NSprJyxrYYpM3RJbhQLATJbyTe3wXcjmLN3JVLs6EQMj/E87Tqu+4Drj/miU8KZWXrFkcAXT4HOWGCTe7DG0b4gtKxK259gK3JO2J/Rhs0M6XJ7cKIL5X51z6VZ2wW45YR1PU/6VIUEFd/RJFW+Z0qGxuaYpqOShZ8Y3nVPhSOBOsG3nIyvjmfKCM1/2nqpw5+EalZ5Gsa0QZ6sRn3dgnALowKvSv9cBZ2k1h5ORJzPnD0dhDcn0CxDDT1QdlE57ePK8kIaNEeCMBr+P/M=;I0oV9ejsA3jbmJdIqNVZjQ=="
 ---
 

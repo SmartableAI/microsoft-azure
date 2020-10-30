@@ -275,6 +275,22 @@ related:
         width: 1200
         height: 627
         isCached: true
+  - title: "New Microsoft Azure AZ-900 Exam Dumps Released"
+    excerpt: "We are announcing that the new Azure AZ-900 exam questions are released and available on DumpsSchool. Prepare exam with Microsoft AZ-900 dumps which will lead you to pass Azure Fundamentals exam ..."
+    publishedDateTime: 2020-10-16T01:51:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/10/ab17931813/new-microsoft-azure-az-900-exam-dumps-released"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/17931813"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17931813"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 57
+    images:
+      - url: "https://www.abnewswire.com/uploads/98ad4756956b0f96779bd03c4a9af7e0.jpg"
+        width: 600
+        height: 341
+        isCached: true
   - title: "Veea Joins Microsoft Azure Certified for IoT"
     excerpt: "Veea announced it has joined Microsoft Azure Certified for Internet of Things (IoT), assuring hardware and software has been pre-tested and verified to work with Microsoft Azure IoT services."
     publishedDateTime: 2020-10-07T18:44:00Z

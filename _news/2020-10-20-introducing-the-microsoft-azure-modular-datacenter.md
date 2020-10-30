@@ -264,6 +264,22 @@ related:
         width: 1200
         height: 627
         isCached: true
+  - title: "New Microsoft Azure AZ-900 Exam Dumps Released"
+    excerpt: "We are announcing that the new Azure AZ-900 exam questions are released and available on DumpsSchool. Prepare exam with Microsoft AZ-900 dumps which will lead you to pass Azure Fundamentals exam ..."
+    publishedDateTime: 2020-10-16T01:51:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/10/ab17931813/new-microsoft-azure-az-900-exam-dumps-released"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/17931813"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17931813"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 57
+    images:
+      - url: "https://www.abnewswire.com/uploads/98ad4756956b0f96779bd03c4a9af7e0.jpg"
+        width: 600
+        height: 341
+        isCached: true
   - title: "SpaceX to Use Microsoft Azure for Satellite Cloud Computing"
     excerpt: "Get Report shares were rising following a report that the company was partnering with SpaceX, Elon Musk's low-orbit space company, to provide cloud-computing power.  Microsoft will offer cloud-computing services for space customers using SpaceX's low-orbit spacecraft,"
     publishedDateTime: 2020-10-20T14:27:00Z
