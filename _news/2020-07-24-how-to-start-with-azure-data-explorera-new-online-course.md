@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-24T23:00:33Z
 webUrl: "https://azure.microsoft.com/en-us/updates/learn-everything-you-need-to-know-about-azure-data-explorer/"
 type: article
 quality: 17
-heat: 17
+heat: 37
 published: false
 
 provider:
