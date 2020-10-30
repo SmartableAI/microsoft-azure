@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/azure-maps-creator-now-available-
 webUrl: "https://azure.microsoft.com/blog/azure-maps-creator-now-available-in-preview/"
 type: article
 quality: 93
-heat: 313
+heat: 333
 published: true
 
 provider:
@@ -32,6 +32,15 @@ images:
     title: "Azure Maps Creator now available in preview"
 
 related:
+  - title: "New Azure Batch capabilities available in preview"
+    excerpt: "A number of new security-related features are now available in preview."
+    publishedDateTime: 2020-10-30T18:00:23Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-batch-updates-preview-october2020/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
   - title: "Azure Monitor Logs IntelliSense improvements are now available"
     excerpt: ""
     publishedDateTime: 2020-05-26T16:00:03Z

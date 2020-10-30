@@ -1,26 +1,30 @@
 ---
 category: news
-title: "Announcing Azure Data Explorer data connector for Azure Synapse"
-excerpt: "You can now use Azure Synapse Workspace to access your data in Azure Data Explorer using Apache Spark pool"
-publishedDateTime: 2020-10-14T16:00:13Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/adx-synapse-connector/"
-webUrl: "https://azure.microsoft.com/en-us/updates/adx-synapse-connector/"
+title: "AMD EPYC™ Processors power Microsoft Azure Data Explorer, Offers Users 30 Percent Better Performance on Data Analytics Workloads"
+excerpt: "“The uplift in performance and efficiency capabilities provided by the AMD EPYC powered VMs on Microsoft Azure Data Explorer is another great proof point of the performance capabilities of our ..."
+publishedDateTime: 2020-10-18T07:55:00Z
+originalUrl: "https://www.albawaba.com/business/pr/amd-epyc™-processors-power-microsoft-azure-data-explorer-offers-users-30-percent-better"
+webUrl: "https://www.albawaba.com/business/pr/amd-epyc™-processors-power-microsoft-azure-data-explorer-offers-users-30-percent-better"
+ampWebUrl: "https://www.albawaba.com/amp/business/pr/amd-epyc%E2%84%A2-processors-power-microsoft-azure-data-explorer-offers-users-30-percent-better"
+cdnAmpWebUrl: "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/pr/amd-epyc%E2%84%A2-processors-power-microsoft-azure-data-explorer-offers-users-30-percent-better"
 type: article
-quality: 84
+quality: 45
 heat: -1
 published: false
 
 provider:
-  name: Microsoft
-  domain: microsoft.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Al Bawaba News
+  domain: albawaba.com
 
 topics:
   - Azure
   - Analytics
+
+images:
+  - url: "https://www.albawaba.com/sites/default/files/styles/default/public/im_new/areej/Microsoft.jpg?itok=IKXBQ5IS"
+    width: 600
+    height: 600
+    isCached: true
 
 related:
   - title: "Azure Monitor Log Analytics data export is in public preview"
@@ -60,6 +64,15 @@ related:
         width: 1907
         height: 1019
         isCached: true
+  - title: "Announcing Azure Data Explorer data connector for Azure Synapse"
+    excerpt: "You can now use Azure Synapse Workspace to access your data in Azure Data Explorer using Apache Spark pool"
+    publishedDateTime: 2020-10-14T16:00:13Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/adx-synapse-connector/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
   - title: "Public Preview: Azure Log Analytics in Brazil Southeast and Norway East "
     excerpt: "Brazil Southeast and Norway East are now in public preview for customers to start collecting telemetry and analyze their services for health and usage using Azure Log Analytics."
     publishedDateTime: 2020-10-28T16:45:59Z
@@ -124,22 +137,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 48
-  - title: "AMD EPYC™ Processors power Microsoft Azure Data Explorer, Offers Users 30 Percent Better Performance on Data Analytics Workloads"
-    excerpt: "“The uplift in performance and efficiency capabilities provided by the AMD EPYC powered VMs on Microsoft Azure Data Explorer is another great proof point of the performance capabilities of our ..."
-    publishedDateTime: 2020-10-18T07:55:00Z
-    webUrl: "https://www.albawaba.com/business/pr/amd-epyc™-processors-power-microsoft-azure-data-explorer-offers-users-30-percent-better"
-    ampWebUrl: "https://www.albawaba.com/amp/business/pr/amd-epyc%E2%84%A2-processors-power-microsoft-azure-data-explorer-offers-users-30-percent-better"
-    cdnAmpWebUrl: "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/pr/amd-epyc%E2%84%A2-processors-power-microsoft-azure-data-explorer-offers-users-30-percent-better"
-    type: article
-    provider:
-      name: Al Bawaba News
-      domain: albawaba.com
-    quality: 45
-    images:
-      - url: "https://www.albawaba.com/sites/default/files/styles/default/public/im_new/areej/Microsoft.jpg?itok=IKXBQ5IS"
-        width: 600
-        height: 600
-        isCached: true
   - title: "Azure Monitor Log Analytics Quick Start content is moving to the Overview page"
     excerpt: "In order to simplify and streamline Azure Monitor Logs, we're moving all links and content from the Quick Start page to the Overview page. The Quick Start page will be removed in August 2020."
     publishedDateTime: 2020-07-30T16:00:01Z
@@ -182,6 +179,6 @@ related:
       domain: microsoft.com
     quality: 2
 
-secured: "ssiTvv27xeGUdJ3ON9uNycIF2I2XRbK8ladIR3xUs2UBStRs3J/F+OM9MytxxNFfuEPld1M9KUdUi/wsQuLlfXAdLprvpaimge992cB/KG0r2DgQp10dP/V+7DPeAOpJLKAOfTYh8ZwEFr7K9zGB38daJZg6twtRTB6E4v5KmCCeHVLPYlD5ryk/dp/YSlfCf6rNeo1/SkbGpGn50qNvv+7N7t8hTZS/NL28HUtjJ32z+KXQr8B1xh44ZsH0h/trTnhMnbOSMtp1YgT1uWkH0He4ZDVu5Nyx9LqiT/4pO22EjVJJ40BZxAw0Wq3+pFixQVJYBjFOemAc2v2JIUBkdNZrhXMF8tQrXLE4vKMvsxY=;YnVwhS4nBleWzrq3S0FNfg=="
+secured: "AazPsBvY+nVH0z2sY0EN4NkPEjJEFPpludFB/7vihj2hM4uNdWSjLj3Wmt17ACUNcjug7LDT4+YKiW8wrDAxXt8Y22pvni+w86GnuYPIV//HIo8AxdX/Jzbs8b0BFwa+CaMNOMzqh5U1oUd7HQFVEWu9QDq/Rz+CJZG248dANOYwD2x/J0GmoEtDZQsrDQGHQPFLvP9aLV7eTI0BSaIKEtkn9cKSNk678zWGHmDLSjt14J7j20sYrthJb2TMmgu88YJkuMG6g/tEhVOA85rSjRg0hWcIIDAqsai5f2NEvNTTtNnowDDT6a50kJnYS+3bHyKM/OBqZwwA8hS0wI9nwsryMih3KUm/QOctFnR32Qo=;LLDL+kRGw1VD7+8FDAZzrg=="
 ---
 

@@ -526,6 +526,48 @@
       ]
     },
     {
+      "path": "_news/2020-10-26-new-vm-series-supported-by-azure-batch.md",
+      "title": "New VM series supported by Azure Batch",
+      "excerpt": "An expanded selection of VMs can be used with Azure Batch, providing access to newer Azure VM series.",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/en-us/updates/azure-batch-new-vm-series-october2020/",
+      "originalUrl": "https://azure.microsoft.com/en-us/updates/azure-batch-new-vm-series-october2020/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-26T11:00:02-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
       "path": "_news/2020-10-26-whitesource-launches-extension-for-microsoft-azure-devops-services.md",
       "title": "WhiteSource Launches Extension For Microsoft Azure DevOps Services",
       "excerpt": "WhiteSource, the leader in open source security and license compliance management software, announced today its new native integration",
@@ -1018,7 +1060,7 @@
       "originalUrl": "https://azure.microsoft.com/en-us/updates/azure-monitor-log-analytics-data-export-is-in-public-preview/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 381,
+      "heat": 401,
       "tags": null,
       "images": [
         {
@@ -1146,49 +1188,6 @@
       "topics": [
         "Azure",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-14-t-digest-extension-for-azure-database-for-postgresql-hyperscale-citus.md",
-      "title": "T-digest extension for Azure Database for PostgreSQL - Hyperscale (Citus)",
-      "excerpt": "Now in general availability, the algorithm used in the open source t-digest extension allows high performance percentile calculations on sizable distributed analytical workloads with improved accuracy.",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/en-us/updates/tdigest-extension-for-azure-database-for-postgresql-hyperscale-citus/",
-      "originalUrl": "https://azure.microsoft.com/en-us/updates/tdigest-extension-for-azure-database-for-postgresql-hyperscale-citus/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 138,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-14T09:00:16-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure",
-        "Databases"
       ]
     }
   ],

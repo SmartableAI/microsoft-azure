@@ -1,11 +1,12 @@
 ---
 category: news
-title: "Azure Text Analytics—Opinion mining is now available in preview"
-excerpt: ""
-publishedDateTime: 2020-05-30T16:00:19Z
-webUrl: "https://azure.microsoft.com/en-us/updates/opinion-mining-is-now-available-in-text-analytics-in-public-preview/"
+title: "New Azure Batch capabilities available in preview"
+excerpt: "A number of new security-related features are now available in preview."
+publishedDateTime: 2020-10-30T18:00:23Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/azure-batch-updates-preview-october2020/"
+webUrl: "https://azure.microsoft.com/en-us/updates/azure-batch-updates-preview-october2020/"
 type: article
-quality: 17
+quality: 67
 heat: -1
 published: false
 
@@ -35,15 +36,6 @@ related:
         width: 780
         height: 768
         isCached: true
-  - title: "New Azure Batch capabilities available in preview"
-    excerpt: "A number of new security-related features are now available in preview."
-    publishedDateTime: 2020-10-30T18:00:23Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-batch-updates-preview-october2020/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 67
   - title: "Azure Monitor Logs IntelliSense improvements are now available"
     excerpt: ""
     publishedDateTime: 2020-05-26T16:00:03Z
@@ -118,6 +110,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 17
+  - title: "Azure Text Analytics—Opinion mining is now available in preview"
+    excerpt: ""
+    publishedDateTime: 2020-05-30T16:00:19Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/opinion-mining-is-now-available-in-text-analytics-in-public-preview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 17
   - title: "The Azure Sphere OS 20.05 quality release is now available"
     excerpt: ""
     publishedDateTime: 2020-06-01T17:00:10Z
@@ -155,6 +156,6 @@ related:
       domain: microsoft.com
     quality: 15
 
-secured: "5hTszDaKz8en94rVsxvWO0nkvwmvj9SJmtFvao+gz6n577LIb31wrl/xGa211C+PSdOzBk/CccmlIEppgo2rqHqmKuHw6j62XHANRJGfx/xBlp4scnfXSYJXlC+dO/DMAlhGTt9k6XaxViInuYGBHbd0Q8unD+SFymkTbQP/Kn5ALDCWVEtQdX01/LDi1BhbTP0iL1DXPAQr8yuKsYlugnkCXuFndMjJJSZg44gx9iyHJF2q7tG45zH8rJ8DmYzXk5ETFc5AEcf0RaLRhnujKhihp0Qhz1J6UEY2XPnZZvACfJGqhn/EW0X5og44EoxRozAHPAjvjtTQ3QXdPeNC4A==;WA9gSTjN0A96iR06cd5Ezg=="
+secured: "uhUzVXeCrWiBrlkl2vL+whB4xEccNcXbQp1OkjUldqyZ9aV8zF9lvNYFsvf0ddaij9Qv+E6XYglwgkT6Dcjz9Di6WbF3HuSkFmOoXtQDiNu+Gqs2JMuoIOx52cHYn/kMjjOxP9Mlv0+sT07bBYyp6wCs80R9to0e6Okm24c3ZvTKXETDwsgVaU6Hy97UPblzwiCvxK0qL5OQC534omYb1mXFGVFBZrzOBVdF+iiMBr2I1kJPJWYQ/maCKoqkAuMMW+DaFhEzja3Nr7Ax/BeBfZ0Soi5DbDbChxpIhssSLFK7DTgWZfeDT43K6LRmXR/HJPSKFLK9G7OaeAw7yDD89R0Hs9BD1ATh/t0w8ttAxEc=;nE1AmZFJrtGepnDXQRfpKQ=="
 ---
 

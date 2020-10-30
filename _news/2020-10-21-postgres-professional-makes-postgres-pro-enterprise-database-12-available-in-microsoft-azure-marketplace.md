@@ -1,27 +1,26 @@
 ---
 category: news
-title: "Dicker Data launches Microsoft Cloud unit"
-excerpt: "Dicker Data has launched a new Microsoft Cloud business unit under the leadership of Sarah Loiterton as general manager."
-publishedDateTime: 2020-10-14T05:35:00Z
-originalUrl: "https://www.arnnet.com.au/article/683708/dicker-data-launches-microsoft-cloud-unit/"
-webUrl: "https://www.arnnet.com.au/article/683708/dicker-data-launches-microsoft-cloud-unit/"
+title: "Postgres Professional Makes Postgres Pro Enterprise Database 12 Available in Microsoft Azure Marketplace"
+excerpt: "© 2020 Insider Inc. and finanzen.net GmbH (Imprint). All rights reserved. Registration on or use of this site constitutes acceptance of our Terms of Service and ..."
+publishedDateTime: 2020-10-21T12:11:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/postgres-professional-makes-postgres-pro-enterprise-database-12-available-in-microsoft-azure-marketplace-1029704169"
+webUrl: "https://markets.businessinsider.com/news/stocks/postgres-professional-makes-postgres-pro-enterprise-database-12-available-in-microsoft-azure-marketplace-1029704169"
 type: article
-quality: 22
+quality: 57
 heat: -1
 published: false
 
 provider:
-  name: ARN
-  domain: arnnet.com.au
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
-
-images:
-  - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/800x800/dimg/sarah_loiterton_1.jpg"
-    width: 797
-    height: 550
-    isCached: true
+  - Databases
 
 related:
   - title: "Microsoft explains how it improved automatic image captioning in Azure Cognitive Services"
@@ -305,15 +304,6 @@ related:
         width: 720
         height: 406
         isCached: true
-  - title: "Postgres Professional Makes Postgres Pro Enterprise Database 12 Available in Microsoft Azure Marketplace"
-    excerpt: "© 2020 Insider Inc. and finanzen.net GmbH (Imprint). All rights reserved. Registration on or use of this site constitutes acceptance of our Terms of Service and ..."
-    publishedDateTime: 2020-10-21T12:11:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/postgres-professional-makes-postgres-pro-enterprise-database-12-available-in-microsoft-azure-marketplace-1029704169"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 57
   - title: "Veea Joins Microsoft Azure Certified for IoT"
     excerpt: "Veea announced it has joined Microsoft Azure Certified for Internet of Things (IoT), assuring hardware and software has been pre-tested and verified to work with Microsoft Azure IoT services."
     publishedDateTime: 2020-10-07T18:44:00Z
@@ -686,6 +676,20 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Dicker Data launches Microsoft Cloud unit"
+    excerpt: "Dicker Data has launched a new Microsoft Cloud business unit under the leadership of Sarah Loiterton as general manager."
+    publishedDateTime: 2020-10-14T05:35:00Z
+    webUrl: "https://www.arnnet.com.au/article/683708/dicker-data-launches-microsoft-cloud-unit/"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 22
+    images:
+      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/800x800/dimg/sarah_loiterton_1.jpg"
+        width: 797
+        height: 550
+        isCached: true
   - title: "Dicker Data launches new Microsoft Cloud business unit"
     excerpt: "ASX-listed IT hardware, software and cloud distributor, Dicker Data has launched a new Microsoft Cloud business unit in a move the company says deepens its relationship with the global tech giant. Dicker Data (ASX:DDR) says the new unit will led by Sarah Loiterton as general manager and as part of"
     publishedDateTime: 2020-10-14T04:50:00Z
@@ -803,6 +807,6 @@ related:
       domain: seekingalpha.com
     quality: 2
 
-secured: "iPanZIlCIFuCOswL7c7EkWLd3o2bvmwqEsTkVPor8jTfK9OnzE2M2hmF96F0bcU/dLLz0WBLJFyx9Tbr6ReV4kPKJhXrawW1ZUL+yXhWTgihCKSNXQsSWoX4OkpWuyoMDbPT9i/Zv2bPJqsYpN2sRhNISg4k8MGBOuuCPLRckX0QU7YJw0ruONNBnP+kY5+X1DjwBuegk1uk6dy/jK5MJEDQWYTdOFV202ugtzrAhmRwkO1w3hkS7lh5o0kKVltO/0LXVdUh9rAo7A747v47//c/KQha5JPf+3AL/+HQKHsiNi32TI6SC/2BmWE5BT7lsxjDsc0OJVbroF1q3jveD1nh1H5Mqg05xdxD5fk1+xur4RMO/XvvqJEiCrMZmVzf4Q85usbMPfbdpzJfX0tnbkoSMG5NPKqkfM8jlfFOJbJMARe2jNWuaJX50bE1abSPJv61Kz2DVL7pesG0ZwIoQU/PqCfCo65WaBXg5Kz33AfLT1TAydQ4EbjlSgDY7biOu2ssHmcOAnspw26Fs2coAQ==;ffKLYl2ASSLw+y4T8Iiycw=="
+secured: "kh374EidTzmwI1FE9C3Ejgmf0Oy8rfouuFoi6lDCnfRpAV8ztJElfw0LWmChZNCg8e2uPV86okPE5q0i/AWwTDuULEakZvABTIgc87awwhMXN/I3TF1daJI1LrdZMoTt0Si62jjobyfXw2O696RP5NvCndEFwRM+TuRYYAo89XhPGcoiMu1wwRgBDV96nbp7K3YCcPLDiOn2B0sqvtAcYObPmtdw1JRCtspGRdrnRHbIVHUSt7drUyljgGE6+zQQfPvsokFSwf+S+GYgFX1oSooLydXIHQ+QhsWgGdKAZE7524ONwZXbvFZmNQo2Y84Fe2ixBMfTd9zKPor2nlhwOpLQbcnawKx97MlzeQ76XSQ=;O+6SF0BZhJiz0pY3rd09EA=="
 ---
 

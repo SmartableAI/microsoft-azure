@@ -299,6 +299,15 @@ related:
         width: 720
         height: 406
         isCached: true
+  - title: "Postgres Professional Makes Postgres Pro Enterprise Database 12 Available in Microsoft Azure Marketplace"
+    excerpt: "© 2020 Insider Inc. and finanzen.net GmbH (Imprint). All rights reserved. Registration on or use of this site constitutes acceptance of our Terms of Service and ..."
+    publishedDateTime: 2020-10-21T12:11:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/postgres-professional-makes-postgres-pro-enterprise-database-12-available-in-microsoft-azure-marketplace-1029704169"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 57
   - title: "Veea Joins Microsoft Azure Certified for IoT"
     excerpt: "Veea announced it has joined Microsoft Azure Certified for Internet of Things (IoT), assuring hardware and software has been pre-tested and verified to work with Microsoft Azure IoT services."
     publishedDateTime: 2020-10-07T18:44:00Z
@@ -671,20 +680,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "EPAM Has Earned the Modernization of Web Applications in Microsoft Azure Advanced Specialization"
-    excerpt: "PRNewswire/ -- EPAM Systems, Inc. (NYSE: EPAM), a leading global provider of digital platform engineering and software development services, today announced it has earned the Modernization of Web Applications in Microsoft Azure advanced specialization,"
-    publishedDateTime: 2020-10-19T14:00:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-web-applications-corporate-news-products-and-services-ec87eba0e83d4bb028164cafd0b47c72"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 24
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Dicker Data launches Microsoft Cloud unit"
     excerpt: "Dicker Data has launched a new Microsoft Cloud business unit under the leadership of Sarah Loiterton as general manager."
     publishedDateTime: 2020-10-14T05:35:00Z
@@ -788,6 +783,15 @@ related:
       name: Telecompaper
       domain: telecompaper.com
     quality: 11
+  - title: "EPAM Has Earned the Modernization of Web Applications in Microsoft Azure Advanced Specialization"
+    excerpt: "Using the Microsoft Azure platform and leveraging our digital and cloud engineering expertise, we partner with our clients to help them seamlessly transition to the cloud, optimize their platforms ..."
+    publishedDateTime: 2020-10-19T14:34:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/epam-has-earned-the-modernization-of-web-applications-in-microsoft-azure-advanced-specialization/article_01ba3404-826b-5562-83f2-124287b159ae.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 4
   - title: "Microsoft price target raised at Jefferies ahead of FQ1 earnings, expecting continued Azure strength"
     excerpt: "Ahead of the fiscal Q1 results, Jefferies raises its (NASDAQ:MSFT) price target from $240 to $260.Analyst Brent Thill calls \"one of the best pillars in software, with a durable financial model featuring near double-digit rev growth."
     publishedDateTime: 2020-10-19T13:11:00Z

@@ -137,6 +137,22 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 48
+  - title: "AMD EPYC™ Processors power Microsoft Azure Data Explorer, Offers Users 30 Percent Better Performance on Data Analytics Workloads"
+    excerpt: "“The uplift in performance and efficiency capabilities provided by the AMD EPYC powered VMs on Microsoft Azure Data Explorer is another great proof point of the performance capabilities of our ..."
+    publishedDateTime: 2020-10-18T07:55:00Z
+    webUrl: "https://www.albawaba.com/business/pr/amd-epyc™-processors-power-microsoft-azure-data-explorer-offers-users-30-percent-better"
+    ampWebUrl: "https://www.albawaba.com/amp/business/pr/amd-epyc%E2%84%A2-processors-power-microsoft-azure-data-explorer-offers-users-30-percent-better"
+    cdnAmpWebUrl: "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/pr/amd-epyc%E2%84%A2-processors-power-microsoft-azure-data-explorer-offers-users-30-percent-better"
+    type: article
+    provider:
+      name: Al Bawaba News
+      domain: albawaba.com
+    quality: 45
+    images:
+      - url: "https://www.albawaba.com/sites/default/files/styles/default/public/im_new/areej/Microsoft.jpg?itok=IKXBQ5IS"
+        width: 600
+        height: 600
+        isCached: true
   - title: "Azure Analytics Data Bricks Meters"
     excerpt: "Effective September 1, 2020 Azure Analytics Data Bricks Meters will have a name change."
     publishedDateTime: 2020-07-30T17:00:10Z

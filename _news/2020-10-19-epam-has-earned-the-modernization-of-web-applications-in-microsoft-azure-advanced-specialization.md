@@ -1,27 +1,21 @@
 ---
 category: news
 title: "EPAM Has Earned the Modernization of Web Applications in Microsoft Azure Advanced Specialization"
-excerpt: "PRNewswire/ -- EPAM Systems, Inc. (NYSE: EPAM), a leading global provider of digital platform engineering and software development services, today announced it has earned the Modernization of Web Applications in Microsoft Azure advanced specialization,"
-publishedDateTime: 2020-10-19T14:00:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-web-applications-corporate-news-products-and-services-ec87eba0e83d4bb028164cafd0b47c72"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-web-applications-corporate-news-products-and-services-ec87eba0e83d4bb028164cafd0b47c72"
+excerpt: "Using the Microsoft Azure platform and leveraging our digital and cloud engineering expertise, we partner with our clients to help them seamlessly transition to the cloud, optimize their platforms ..."
+publishedDateTime: 2020-10-19T14:34:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/epam-has-earned-the-modernization-of-web-applications-in-microsoft-azure-advanced-specialization/article_01ba3404-826b-5562-83f2-124287b159ae.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/epam-has-earned-the-modernization-of-web-applications-in-microsoft-azure-advanced-specialization/article_01ba3404-826b-5562-83f2-124287b159ae.html"
 type: article
-quality: 24
+quality: 4
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - Azure
-
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
 
 related:
   - title: "Microsoft explains how it improved automatic image captioning in Azure Cognitive Services"
@@ -305,6 +299,15 @@ related:
         width: 720
         height: 406
         isCached: true
+  - title: "Postgres Professional Makes Postgres Pro Enterprise Database 12 Available in Microsoft Azure Marketplace"
+    excerpt: "© 2020 Insider Inc. and finanzen.net GmbH (Imprint). All rights reserved. Registration on or use of this site constitutes acceptance of our Terms of Service and ..."
+    publishedDateTime: 2020-10-21T12:11:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/postgres-professional-makes-postgres-pro-enterprise-database-12-available-in-microsoft-azure-marketplace-1029704169"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 57
   - title: "Veea Joins Microsoft Azure Certified for IoT"
     excerpt: "Veea announced it has joined Microsoft Azure Certified for Internet of Things (IoT), assuring hardware and software has been pre-tested and verified to work with Microsoft Azure IoT services."
     publishedDateTime: 2020-10-07T18:44:00Z
@@ -799,6 +802,6 @@ related:
       domain: seekingalpha.com
     quality: 2
 
-secured: "lOkQLLmnZJ/eNv6uqHx81gPAao9XPE4Ir4OQDHbNpCxgCkHsrfowcshOFAb9DC4NlOP75kXAQJCAPAhBdATC6/mBtqEa7w2s+uoBzEZoSITDqTxsoWLsS9lqRJfnFgDizpkHxSlCJMjibaPBTdsIHIlLe7SiW8qX+UOqSaGWkn+aKuLkTUB7bi/t0Ta6m7yhBEPprK3rO65r25Epku4hVti+YElydJoZui+bCJKK3ilrxWCmx/v5oIuSNWo+jwYtJkKizavqjZTqR2r+lWOnv6/qqFGPzx0xtC9t2QACyYADzdnowNSdabHNKPSu65dyzdJuxqscZsjr79PEtoj6pb1ChHs+szXP5wINczYURZs=;+s7+4vQaseAVGwa/m12O5A=="
+secured: "RAJByz+FRZcvwDrhSu1Vcl+nw0/qBXzrfuSw14yQRsrClJ1JRNTBJCU4VzLxzYg44/munjxq+xvbSAZAqpK3sD977ja09pls/Sev6Zr6yyHAag66HCu/5wlA3P+FbH8DqAw1MreocKTQWtQthIlBYZL+cZTHq7+P7DA4zjifsq5onsgI/v7rt/EKgpRNC/4TBBEJqHXXjP5XS8U1Rs6pGRnybZWzxAlvEIrILKkBMA4fObTvujuabEcquYdidpCQWfFAqhq60ljWrwzcORqfnZynZ0I49h1UssrmkW6W5GlOy086m97ZTf1pPdsacHe+UXlae/F5IyMOshSlj8jdm3JEje15B9alnVqMFt0IuWY=;m0rvuwlvHu9QkiK5zm+STg=="
 ---
 

@@ -42,6 +42,15 @@ related:
         width: 780
         height: 768
         isCached: true
+  - title: "New Azure Batch capabilities available in preview"
+    excerpt: "A number of new security-related features are now available in preview."
+    publishedDateTime: 2020-10-30T18:00:23Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-batch-updates-preview-october2020/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
   - title: "Azure Monitor Logs—New experience for agents is now available"
     excerpt: ""
     publishedDateTime: 2020-05-26T18:00:22Z
