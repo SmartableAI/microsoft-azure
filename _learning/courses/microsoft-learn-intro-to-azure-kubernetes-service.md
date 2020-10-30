@@ -6,8 +6,8 @@ type: course
 price: Free
 length: PT25M
 ratings:
-  count: 3510
-  average: 4.611681
+  count: 3511
+  average: 4.6117916
 heat: 58
 
 provider:
