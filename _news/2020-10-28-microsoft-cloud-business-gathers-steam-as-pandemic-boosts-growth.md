@@ -3,10 +3,10 @@ category: news
 title: "Microsoft cloud business gathers steam as pandemic boosts growth"
 excerpt: "Microsoft Corp's <MSFT.O> cloud computing business slightly re-accelerated and its Teams messaging and collaboration software won new users, as a pandemic-driven shift to working from home and online learning drove quarterly results ahead of investor targets."
 publishedDateTime: 2020-10-28T11:41:00Z
-originalUrl: "https://www.reuters.com/article/us-microsoft-results/microsoft-cloud-business-gathers-steam-as-pandemic-boosts-growth-idUSKBN27C2YV"
-webUrl: "https://www.reuters.com/article/us-microsoft-results/microsoft-cloud-business-gathers-steam-as-pandemic-boosts-growth-idUSKBN27C2YV"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27C2Z1"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27C2Z1"
+originalUrl: "https://www.reuters.com/article/us-microsoft-results-idUSKBN27C2YV"
+webUrl: "https://www.reuters.com/article/us-microsoft-results-idUSKBN27C2YV"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27C2YV"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27C2YV"
 type: article
 quality: 82
 heat: -1
@@ -103,6 +103,20 @@ related:
       name: InfoWorld
       domain: infoworld.com
     quality: 77
+    images:
+      - url: "https://idge.staticworld.net/ifw/IFW_logo_social_300x300.png"
+        width: 300
+        height: 300
+        isCached: true
+  - title: "Unisys CloudForte® for Microsoft Azure: Ease Complex Cloud Adoption for Governments"
+    excerpt: "Learn how Unisys and Microsoft improve and optimize government services in the cloud through their digital transformation partnership."
+    publishedDateTime: 2020-10-27T00:17:00Z
+    webUrl: "https://www.infoworld.com/resources/209784/unisys-cloudforte-for-microsoft-azure-ease-complex-cloud-adoption-for-governments"
+    type: article
+    provider:
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 71
     images:
       - url: "https://idge.staticworld.net/ifw/IFW_logo_social_300x300.png"
         width: 300
@@ -301,20 +315,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Unisys CloudForte® for Microsoft Azure: Ease Complex Cloud Adoption for Governments"
-    excerpt: "Learn how Unisys and Microsoft improve and optimize government services in the cloud through their digital transformation partnership."
-    publishedDateTime: 2020-10-27T00:40:00Z
-    webUrl: "https://www.networkworld.com/resources/209784/unisys-cloudforte-for-microsoft-azure-ease-complex-cloud-adoption-for-governments"
-    type: article
-    provider:
-      name: Network World
-      domain: networkworld.com
-    quality: 31
-    images:
-      - url: "https://images.idgesg.net/images/idge/imported/imageapi/2020/10/15/21/logo202-100862409-medium.3x2.jpg"
-        width: 296
-        height: 220
-        isCached: true
   - title: "Microsoft Azure: The Winning Formula"
     excerpt: "Microsoft's Azure platform registered a 59% revenue growth in the last quarter, fueling concerns of a slowdown and suggesting its losing ground to Amazon's AWS."
     publishedDateTime: 2020-05-28T12:36:00Z
@@ -348,6 +348,6 @@ related:
         height: 627
         isCached: true
 
-secured: "ReoSksQ9FSeVr/MiZ8E8Jo/F5eP8ynLeSl4AJR43Zf8+FKCDlYfvdPSzevV4sK5vhrO5KijIatQ0xR8vga01HjLAY2qBgVXXxKawQBJZCybGPw1oZB27g/jj5lEt0Z27UkaLt7+tYW3HZ5ClcH5voZH3A2b95gnbsQf5fQDE2hCMgiLKWboIAAM33IkzPheWYKQH6JmwpIiQnlvL1LzGwOzH0pd7Z37Ibwzp8cYk6dD7DowsncOvGQd5tF05i0hPG+f9gTb4YqvSkg2oN2xH/uCv9Esxs4H7VEXKjI6lEkmEmiHxcHco6g/FBIAb0+Z6oHCw+dhARo5tGcDZafY8NHoQawwEAI/Hyl7qdBCSZAehzKQwnXuMQDDjfSEjn3dAEpjWpffhz4N+Zmf7wHrAsksGV+rZG50kYGqM8IG+wlB8znel8sll7+VBeK1qw0ecm5EQ0rn/ngvNwGRHAEPFdbJIxJjz2vjPZOKaw+TOtP8avtnYlvx7ccOae9vkdZxq64ICOwQpD9e0FH6ihYQptA==;pnQXIP2sV4G1slsK3WYJdQ=="
+secured: "f7MlH5Aisml+xsIMrvPG/ma2bkdlz1clT4Cu5gliXg4MynnLT+0W5p1FLUP4Wk2a5RrJZPHbqPleAu3O3yOSkQJWMCdAutNGjajNTAIUevnRWVd3r8eZmBGMMHOg1j5NXon6YXp5xgzpgycWUNAXvAYWNx4B06v50Gr9Fwgj5LJ7KIKI7px3i56pz95nzzhvsOzALerWQ92wocHsm3DdZI5fRpTK+sCi7ShWwWjvTBPEL2YhXIi8ZQppbWo8t4fxsQBOKIkV9q3nmJnzC94U9BusdtiG6gJN4J7J/C5HQtBhCKQ1fYbbmzWOrBqGwaCsY4KmO8lsR3OyedybkEzzOg3Fv3CJ+s2BUN58OeIyx14=;PKtO0+l2d2KfHDA1nm1LuA=="
 ---
 

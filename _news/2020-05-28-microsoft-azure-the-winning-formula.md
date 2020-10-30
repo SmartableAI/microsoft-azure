@@ -84,9 +84,9 @@ related:
   - title: "Microsoft cloud business gathers steam as pandemic boosts growth"
     excerpt: "Microsoft Corp's <MSFT.O> cloud computing business slightly re-accelerated and its Teams messaging and collaboration software won new users, as a pandemic-driven shift to working from home and online learning drove quarterly results ahead of investor targets."
     publishedDateTime: 2020-10-28T11:41:00Z
-    webUrl: "https://www.reuters.com/article/us-microsoft-results/microsoft-cloud-business-gathers-steam-as-pandemic-boosts-growth-idUSKBN27C2YV"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27C2Z1"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27C2Z1"
+    webUrl: "https://www.reuters.com/article/us-microsoft-results-idUSKBN27C2YV"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27C2YV"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27C2YV"
     type: article
     provider:
       name: Reuters
@@ -106,6 +106,20 @@ related:
       name: InfoWorld
       domain: infoworld.com
     quality: 77
+    images:
+      - url: "https://idge.staticworld.net/ifw/IFW_logo_social_300x300.png"
+        width: 300
+        height: 300
+        isCached: true
+  - title: "Unisys CloudForte® for Microsoft Azure: Ease Complex Cloud Adoption for Governments"
+    excerpt: "Learn how Unisys and Microsoft improve and optimize government services in the cloud through their digital transformation partnership."
+    publishedDateTime: 2020-10-27T00:17:00Z
+    webUrl: "https://www.infoworld.com/resources/209784/unisys-cloudforte-for-microsoft-azure-ease-complex-cloud-adoption-for-governments"
+    type: article
+    provider:
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 71
     images:
       - url: "https://idge.staticworld.net/ifw/IFW_logo_social_300x300.png"
         width: 300
@@ -303,20 +317,6 @@ related:
       - url: "https://res.infoq.com/news/2020/10/microsoft-introduce-azure-space/en/headerimage/croppted-MS+Azure+Space-1603626900569.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Unisys CloudForte® for Microsoft Azure: Ease Complex Cloud Adoption for Governments"
-    excerpt: "Learn how Unisys and Microsoft improve and optimize government services in the cloud through their digital transformation partnership."
-    publishedDateTime: 2020-10-27T00:40:00Z
-    webUrl: "https://www.networkworld.com/resources/209784/unisys-cloudforte-for-microsoft-azure-ease-complex-cloud-adoption-for-governments"
-    type: article
-    provider:
-      name: Network World
-      domain: networkworld.com
-    quality: 31
-    images:
-      - url: "https://images.idgesg.net/images/idge/imported/imageapi/2020/10/15/21/logo202-100862409-medium.3x2.jpg"
-        width: 296
-        height: 220
         isCached: true
   - title: "SAP partners with Microsoft Azure in the UAE"
     excerpt: "The statement was made at the Middle East and Africa Edition of the SAP Solutions on Microsoft Azure Virtual Event. The goal is to boost the cloud ecosystem in the region by empowering organizations to run their SAP workloads on Microsoft Azure."

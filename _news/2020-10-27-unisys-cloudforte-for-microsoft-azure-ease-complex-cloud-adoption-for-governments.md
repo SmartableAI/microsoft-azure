@@ -2,25 +2,29 @@
 category: news
 title: "Unisys CloudForte® for Microsoft Azure: Ease Complex Cloud Adoption for Governments"
 excerpt: "Learn how Unisys and Microsoft improve and optimize government services in the cloud through their digital transformation partnership."
-publishedDateTime: 2020-10-27T00:40:00Z
-originalUrl: "https://www.networkworld.com/resources/209784/unisys-cloudforte-for-microsoft-azure-ease-complex-cloud-adoption-for-governments"
-webUrl: "https://www.networkworld.com/resources/209784/unisys-cloudforte-for-microsoft-azure-ease-complex-cloud-adoption-for-governments"
+publishedDateTime: 2020-10-27T00:17:00Z
+originalUrl: "https://www.infoworld.com/resources/209784/unisys-cloudforte-for-microsoft-azure-ease-complex-cloud-adoption-for-governments"
+webUrl: "https://www.infoworld.com/resources/209784/unisys-cloudforte-for-microsoft-azure-ease-complex-cloud-adoption-for-governments"
 type: article
-quality: 31
+quality: 71
 heat: -1
 published: false
 
 provider:
-  name: Network World
-  domain: networkworld.com
+  name: InfoWorld
+  domain: infoworld.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/infoworld.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
 
 images:
-  - url: "https://images.idgesg.net/images/idge/imported/imageapi/2020/10/15/21/logo202-100862409-medium.3x2.jpg"
-    width: 296
-    height: 220
+  - url: "https://idge.staticworld.net/ifw/IFW_logo_social_300x300.png"
+    width: 300
+    height: 300
     isCached: true
 
 related:
@@ -91,9 +95,9 @@ related:
   - title: "Microsoft cloud business gathers steam as pandemic boosts growth"
     excerpt: "Microsoft Corp's <MSFT.O> cloud computing business slightly re-accelerated and its Teams messaging and collaboration software won new users, as a pandemic-driven shift to working from home and online learning drove quarterly results ahead of investor targets."
     publishedDateTime: 2020-10-28T11:41:00Z
-    webUrl: "https://www.reuters.com/article/us-microsoft-results/microsoft-cloud-business-gathers-steam-as-pandemic-boosts-growth-idUSKBN27C2YV"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27C2Z1"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27C2Z1"
+    webUrl: "https://www.reuters.com/article/us-microsoft-results-idUSKBN27C2YV"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27C2YV"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27C2YV"
     type: article
     provider:
       name: Reuters
@@ -344,6 +348,6 @@ related:
         height: 627
         isCached: true
 
-secured: "Z35Q9EUX6wDRr990CqvOiEYQseuMYVcPQi+q7i7zTNljQw/7UC0dqYAQza9WPrGAjv2CKxsqc++l3BMlo7ly9/JdIezhQ/a4j8Rv62p5Jm63WrsE7UQdA0q7ZLWPAWKpKim881WY/KpJg/au1ASleg2M+5Axcz1UTnubjRAYaCXGJ68zRV5T2anB1dp3zkpZMbiAVTSjByB/kCJqzSmoceS/UpMIZl47OpXGTUKqA/nYJIBRe09pdBX8l1zIR8d62UTwpzeUY7PnrOfIJ0xw9BR6KUWCK0g2YnTm2UKl6DgtXjaqVoLQjFEdNp7MZFyEru5u3vFgxyBuKbaZJTF7joVmOR08zkDi8sCXQeP6ihW6CzGsAEX+PkQ1mPRwCrWYctruD3ZuSFHKawCyvVVZ5EmDncDKNJpUdD1vcCUGfRbWnYSXXk9fBwYCsCCd0g7fReeuYVOWLp6LiHtcrbx0kSip9pkpLTXktaaRDoGPAhrr+zKMunaObTKYjRTY4ilNJIiobooIqU/BiRSEyzPE2g==;4CrZ7j/q0jVQ9NAe/IQ1Ig=="
+secured: "e0LtlPrW6tv+y2MyjkbpeO62STW04b8lxfLasKTXBCou0ggoNVVj1pHSLHRPIgYMfenkvcwXElApO7v2N77H3lpCEhfu9yIz/czRSfqZQWQw8cf1e94xPeXU+nfpLSnIZFiXNQ9tnEVKBXUCuJ7wR7lk0+CbDLC9ATLEcdt8hIEexMB5bzVhWI8/R8BtU5RbUwglEHzPujOIg7TEvVpwGtW+Gzxi31QKiOqNXiep4sSNPEjjzKbMZ9EEyj3jJhJdvsbG6fRMdx3iLyZV+q/7uZPVStb1p4bW78+r0NBQfcW5r9led6MNicoUhu/l1MJ2LUqhj64LJ+WJhBuJGON+hcvO4ieVRaOlZWW34HNLfpU=;vYsi66x4ZETCzk5CLUdgbQ=="
 ---
 
