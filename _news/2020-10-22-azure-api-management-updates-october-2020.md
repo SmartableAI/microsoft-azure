@@ -119,6 +119,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 69
+  - title: "Bing Search APIs will transition from Azure Cognitive Services to Azure Marketplace on 31 October 2023 "
+    excerpt: "Continue to create new instances of Bing Search APIs under the Azure Marketplace. "
+    publishedDateTime: 2020-10-30T16:00:23Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/bing-search-apis-will-transition-from-azure-cognitive-services-to-azure-marketplace-on-31-october-2023/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 68
 
 secured: "GAr1Pw5ey8Ber5nEfNmEzdwOdrZns6YrejonCOLZNO0wsZ4nfC8F2ySP6AZIbvCCT7ymBBBEzpxBpBwzcyiyTv9XAZWkAzq69d0Ku+6koPP84aJtSxTvAm7CL02hjDf3w4xr00XTUGFpX25p5J32tzCW5h0Pgd+BW2iPmzyO8l10LKygfVPLLxlbhdlQrHzL50lbyag++fTx0ph4+aKpCvCtYDjCGTyFv+5S1j0R60cjprxq6GQdiRWAIlkGVz5UDwpSgg/j5SW3nl0Lunnvimpu8CIfH0MJsPfFxh3EG/Sx1wrpE0PWcE/bMahNTx8RMpk9wbfK3K45w5OatIstuBVfcAEuNQaAIagSlcoP5uM=;BFSO67wrW30d8mDbCjhXug=="
 ---

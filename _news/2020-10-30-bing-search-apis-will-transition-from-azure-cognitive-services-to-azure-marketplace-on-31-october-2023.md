@@ -1,12 +1,12 @@
 ---
 category: news
-title: "Azure Site Recovery update rollup 51 - October 2020"
-excerpt: "The latest Azure Site Recovery update provides provides fixes, updated Linux support for the Mobility service, and download links for Site Recovery components."
-publishedDateTime: 2020-10-22T17:00:10Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/site-recovery-update-rollup-51-october-2020/"
-webUrl: "https://azure.microsoft.com/en-us/updates/site-recovery-update-rollup-51-october-2020/"
+title: "Bing Search APIs will transition from Azure Cognitive Services to Azure Marketplace on 31 October 2023 "
+excerpt: "Continue to create new instances of Bing Search APIs under the Azure Marketplace. "
+publishedDateTime: 2020-10-30T16:00:23Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/bing-search-apis-will-transition-from-azure-cognitive-services-to-azure-marketplace-on-31-october-2023/"
+webUrl: "https://azure.microsoft.com/en-us/updates/bing-search-apis-will-transition-from-azure-cognitive-services-to-azure-marketplace-on-31-october-2023/"
 type: article
-quality: 84
+quality: 68
 heat: -1
 published: false
 
@@ -20,7 +20,7 @@ provider:
 
 topics:
   - Azure
-  - Migration
+  - AI
 
 related:
   - title: "Azure Cost Management and Billing updates – October 2020"
@@ -74,6 +74,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 84
+  - title: "Azure Site Recovery update rollup 51 - October 2020"
+    excerpt: "The latest Azure Site Recovery update provides provides fixes, updated Linux support for the Mobility service, and download links for Site Recovery components."
+    publishedDateTime: 2020-10-22T17:00:10Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/site-recovery-update-rollup-51-october-2020/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
   - title: "Azure Cost Management + Billing updates – September 2020"
     excerpt: "While 2020 may be keeping you on your toes, September should help make your life a little bit easier with the general availability of AWS support in Azure Cost Management + Billing, allowing you to manage all your Azure and AWS costs in a single place; the preview of cost allocation, streamlining your"
     publishedDateTime: 2020-09-30T11:00:21Z
@@ -119,16 +128,7 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 69
-  - title: "Bing Search APIs will transition from Azure Cognitive Services to Azure Marketplace on 31 October 2023 "
-    excerpt: "Continue to create new instances of Bing Search APIs under the Azure Marketplace. "
-    publishedDateTime: 2020-10-30T16:00:23Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/bing-search-apis-will-transition-from-azure-cognitive-services-to-azure-marketplace-on-31-october-2023/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 68
 
-secured: "jXJ6G24fv1wTsCBlrP8gV4J8Ap5TK2mCUGazadj0bOS0daHYBTWxn2PmbxEHIEfIeHaXcRJ58lM5caV21KKhvOXS7U2IOwuuY9cEjWd2XEnHfh1aKobioDxLwKfF1DvSRcuXAy+aO0Ab6rc0jm6ja11Rw55M5eEiBQWJQHC/cJRoo4F4rU2eDUQiiX732EfBtyESbqaYBRmp3HArF2xA4OBZmmJLo/jjaLfMf/aPs/keVkll8lLYlMYD1kN/f/r2fFilNGuC/qrLOpfcBq7Ev7DZfw7W33BLytOUbk69nu8iexZBtoZyOi8Z+D8m+BUesnR9EHyEdrwJB2UFG7GLUIFfCQt+ktQ2LJfOCMGIk/Y=;un1LUJ9dDnVmoV0e0GUGeQ=="
+secured: "vVjLWLc4j4ldAlPpfVErSbpfmR7lS6KW+xr4ayFS82nDkYsCCLyh6omLasDq2KyJfX3AfNvGo5qfUJUwyrCUab9qArV+arBbuhhqp7yoE7JcFoiSwiF0HHdSlday0z3wLtcrGs3bLQ7M8W1jA9OSo98MKwVyMGo6WR88C/qHuArC4BEC+oX6+03MQPMkameaEn4loP58Cb4QeY1I+L5KKPq35m+svjaJIl8ZS2GYXBzOgIbspRQNYsthpWRSo9iHh7304G6Rb9Kr7FgZJE1IdI20kn/1tx8rmkkVtUaZXpMqzavkgZ2mxGlTcQIn6YrlI0Fp9c7GQW0SSnDsWwYiKqFkXHE47jvSkAnp+ItrDpw=;iV4TXsEiNR39YLdqT8U56w=="
 ---
 

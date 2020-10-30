@@ -31,6 +31,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 75
+  - title: "Soft delete for Azure file shares is now generally available in all regions"
+    excerpt: "Soft delete protects Azure file shares from accidental deletion.  In January 2021, it will be enabled by default for all new storage accounts."
+    publishedDateTime: 2020-10-30T16:00:22Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/soft-delete-for-azure-file-shares-is-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 65
 
 secured: "7AH8uHI1nMV9HZW4pY5gmViPdEtt5YNLYwEQJKjHMknjK93TeqNC4kWkdplij48E3kYGuLiR/VKcvZnmLBqU6jc1i2VyRFYl5EACkaOVTficXvpkyk8S/VTpWcXSXVmFBn0+ASCBLav4mW9NrX+VzTRPK+WhOwjU/BXbTrAPLqL4D5ZmojtULHxbzJNyQsl932mrOeUHpkbIIT07+K3iTF4u0xPxyuEtyPfarhKUybTgs5lYbUeANGDpTmKPh3005kv46OMzgDyJZg7iPWiAqSMusNq2xgwUrHlRbfB1OuZvBgxMsZDWorkupZv7fWzg7+vAxSYZBkepnrjVfRLU7zIjLPNIBbP58Yaim13iu24=;OiYstHfdZwTphgDB5KN5Vg=="
 ---

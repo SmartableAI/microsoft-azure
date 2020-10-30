@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/azure-cost-management-billing-upd
 webUrl: "https://azure.microsoft.com/blog/azure-cost-management-billing-updates-october-2020/"
 type: article
 quality: 103
-heat: 285
+heat: 305
 published: true
 
 provider:
@@ -127,6 +127,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 69
+  - title: "Bing Search APIs will transition from Azure Cognitive Services to Azure Marketplace on 31 October 2023 "
+    excerpt: "Continue to create new instances of Bing Search APIs under the Azure Marketplace. "
+    publishedDateTime: 2020-10-30T16:00:23Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/bing-search-apis-will-transition-from-azure-cognitive-services-to-azure-marketplace-on-31-october-2023/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 68
 
 secured: "b0en0Iau3xj+UF9Th13bdeKQFDzC9jKbc0Q8X4Vv+a0HHSHRveg9h6EcMhtbN9Drl4w0qZomwlKSGJo0Dfd9o+oZL4d1HHzDFlf/UVRFylOmwcIBL/EOkkmctlc2xirPcm4P02A/gz6E/H70zGnH5XXsbfBHeFIgeCfqtBKvNPsAg3F1z5ILwcqRt4Xc1Y+BsKjJAi/xKORz64lJjQmnOQSpk7Lv+onGDX0KNuP4cO03uPTri+bxqzgZy35fpdrmdEuz2ZHk6f+Ry6IliCSOUi/fyEXNmdrhToKMNnYn9DjEqEDTKFa+Z+K4dd8CJ4ahyvj85tY3dzTqU1fQUlIRZ73lEFdo6fxTHtJqTjVbVAo=;upp4vtsd1yxw9C30WHHJiw=="
 ---
