@@ -1,25 +1,27 @@
 ---
 category: news
-title: "Microsoft Cloud for Healthcare is now generally available "
-excerpt: "Microsoft Cloud for Healthcare will make it easier for healthcare organizations to remain agile and focus on what they do best—delivering better experiences, insights, and care."
-publishedDateTime: 2020-10-28T17:00:28Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/microsoft-cloud-for-healthcare-is-now-generally-available/"
-webUrl: "https://azure.microsoft.com/en-us/updates/microsoft-cloud-for-healthcare-is-now-generally-available/"
+title: "Microsoft Azure to build its first cloud data center region in Taiwan"
+excerpt: "Microsoft Corp. said today it’s planning to expand into Taiwan with a new cloud data center region. It will also make a “significant investment” in the territory’s local talent, with the aim of developing the digital skills of more than 200,"
+publishedDateTime: 2020-10-27T20:43:00Z
+originalUrl: "https://siliconangle.com/2020/10/27/microsoft-azure-build-first-cloud-data-center-region-taiwan/"
+webUrl: "https://siliconangle.com/2020/10/27/microsoft-azure-build-first-cloud-data-center-region-taiwan/"
 type: article
-quality: 52
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Microsoft
-  domain: microsoft.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: SiliconANGLE
+  domain: siliconangle.com
 
 topics:
   - Azure
+
+images:
+  - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/10/taiwan-3973014_1280.jpg"
+    width: 1280
+    height: 720
+    isCached: true
 
 related:
   - title: "Microsoft Azure: This new technology allows you to manage Kubernetes containers across the hybrid cloud"
@@ -178,6 +180,15 @@ related:
         width: 640
         height: 427
         isCached: true
+  - title: "Microsoft Cloud for Healthcare is now generally available "
+    excerpt: "Microsoft Cloud for Healthcare will make it easier for healthcare organizations to remain agile and focus on what they do best—delivering better experiences, insights, and care."
+    publishedDateTime: 2020-10-28T17:00:28Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/microsoft-cloud-for-healthcare-is-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 52
   - title: "Microsoft's first 'vertical cloud,' the Microsoft Cloud for Healthcare, is now generally available"
     excerpt: "Microsoft's Cloud for Healthcare builds on Azure, Microsoft 365, Dynamics 365 and the Power Platform and is designed to deal with both structured and unstructured health data."
     publishedDateTime: 2020-10-28T17:24:00Z
@@ -245,20 +256,6 @@ related:
   - title: "Microsoft Azure to build a first cloud data center region in Taiwan"
     excerpt: "Microsoft said the new cloud data center region will host its Azure cloud services along with Microsoft 365 when it opens, with Dynamics 365 and Power Platform services to be added later."
     publishedDateTime: 2020-10-28T00:46:00Z
-    webUrl: "https://siliconangle.com/2020/10/27/microsoft-azure-build-first-cloud-data-center-region-taiwan/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 37
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/10/taiwan-3973014_1280.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Microsoft Azure to build its first cloud data center region in Taiwan"
-    excerpt: "Microsoft Corp. said today it’s planning to expand into Taiwan with a new cloud data center region. It will also make a “significant investment” in the territory’s local talent, with the aim of developing the digital skills of more than 200,"
-    publishedDateTime: 2020-10-27T20:43:00Z
     webUrl: "https://siliconangle.com/2020/10/27/microsoft-azure-build-first-cloud-data-center-region-taiwan/"
     type: article
     provider:
@@ -361,6 +358,6 @@ related:
         height: 627
         isCached: true
 
-secured: "COf9wkfI0676snVcq0iO5K24oW77Nh4d7CR3BOIbHfRIOyIsvONyh5jHtBuK42K4kVwa1KeLDLQz7RNATNPKQ2ouI7DK1FpMjn53ST4e9PuuEMe17S/OrMnECcCUvCmvOEu0Kb0bb4LEBz3C84NnzLR9EJTJIPs0wbINreDr0PNFVqyZ0n9eU370LxZl2mzXouFrvjCmdAIZ4YHjw908r86JOYsrgN/hZ92k04m2cucO7v6uXd0sBZ2/XezXjNd6k4bNYltXJiYR4pR2zvGN3g7blX4P0xwQHyJ+m5j89KCvwJDeMcwG6YJ9qRRPhjMn1DgYld87fNA73ww4YQifhBsTrQWR4R9gG20LY1qyfUo=;Btf+570gjnTjiIyp5MghDg=="
+secured: "Y/vBNi8KNT43nkOJZz1DWiUVgJnNrpJsvdAjTvSLuIoAEgeEtJK4pYNEF5vgN11JQcg4F/fJGAS1E0IiacdHMeljHmgZ6T511DT0tJukZBSJZXMKFBxX/VvJevWc92Omgee9yVpKApV/ak0YUJLG0TD3jkiqF7Ps1DiS/qaYmROJK0uw8lSa4kw2uOoM8zirbBRVQHt5ePVFVh/brZof1Dj0wjHz3IRJllECdkRxjX24CASwSLTCsOREp1N8h03EQDJfIFMa6pSUniCQ6hx+S0nBHdqw3tTSf/Mxw5gDetyTL8aYMj2rObNxKReqyBvzoY9VLs5OABwgNiC8jDaDpZXOX+Ono7lavwHkiAVtwbY=;RFgRtyNMkic+PVDEeihteQ=="
 ---
 

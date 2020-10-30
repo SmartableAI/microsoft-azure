@@ -253,6 +253,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Microsoft Azure to build its first cloud data center region in Taiwan"
+    excerpt: "Microsoft Corp. said today it’s planning to expand into Taiwan with a new cloud data center region. It will also make a “significant investment” in the territory’s local talent, with the aim of developing the digital skills of more than 200,"
+    publishedDateTime: 2020-10-27T20:43:00Z
+    webUrl: "https://siliconangle.com/2020/10/27/microsoft-azure-build-first-cloud-data-center-region-taiwan/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 37
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/10/taiwan-3973014_1280.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Microsoft Joins MEF To Bolster Azure for Operators Services"
     excerpt: "\"Microsoft's decision to join MEF aligns with key goals of our Microsoft Azure for Operators initiative to bring the power of the cloud to the network, unlock the potential of 5G, and drive down ..."
     publishedDateTime: 2020-10-27T22:53:00Z

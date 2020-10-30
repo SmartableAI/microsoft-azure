@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/microsoft-azure-this
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-azure-this-new-technology-allows-you-to-manage-kubernetes-containers-across-the-hybrid-cloud/"
 type: article
 quality: 113
-heat: 573
+heat: 593
 published: true
 
 provider:
@@ -247,6 +247,20 @@ related:
   - title: "Microsoft Azure to build a first cloud data center region in Taiwan"
     excerpt: "Microsoft said the new cloud data center region will host its Azure cloud services along with Microsoft 365 when it opens, with Dynamics 365 and Power Platform services to be added later."
     publishedDateTime: 2020-10-28T00:46:00Z
+    webUrl: "https://siliconangle.com/2020/10/27/microsoft-azure-build-first-cloud-data-center-region-taiwan/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 37
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/10/taiwan-3973014_1280.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Microsoft Azure to build its first cloud data center region in Taiwan"
+    excerpt: "Microsoft Corp. said today it’s planning to expand into Taiwan with a new cloud data center region. It will also make a “significant investment” in the territory’s local talent, with the aim of developing the digital skills of more than 200,"
+    publishedDateTime: 2020-10-27T20:43:00Z
     webUrl: "https://siliconangle.com/2020/10/27/microsoft-azure-build-first-cloud-data-center-region-taiwan/"
     type: article
     provider:
