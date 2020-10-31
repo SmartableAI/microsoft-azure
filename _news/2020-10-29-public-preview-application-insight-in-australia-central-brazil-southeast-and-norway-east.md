@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/public-preview-applicati
 webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-application-insight-in-australia-central/"
 type: article
 quality: 42
-heat: 62
+heat: 42
 published: false
 
 provider:

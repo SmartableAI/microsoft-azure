@@ -7,7 +7,7 @@ originalUrl: "https://www.prnewswire.com/news-releases/whitesource-launches-exte
 webUrl: "https://www.prnewswire.com/news-releases/whitesource-launches-extension-for-microsoft-azure-devops-services-301159459.html"
 type: article
 quality: 54
-heat: 94
+heat: 114
 published: true
 
 provider:
@@ -39,6 +39,15 @@ related:
         width: 1536
         height: 806
         isCached: true
+  - title: "Lindsay to Develop Sustainable and Profitable Solutions for Growers using Microsoft Azure"
+    excerpt: "Lindsay will utilize Microsoft Azure IoT Edge and Azure Machine Learning for edge-of-field computing, artificial intelligence and machine learning solutions. Collaboration will result in complete ..."
+    publishedDateTime: 2020-10-30T10:51:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/lindsay-to-develop-sustainable-and-profitable-solutions-for-growers-using-microsoft-azure-1029745663"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 48
   - title: "New AttackIQ Solution Integrates with Microsoft Azure Sentinel to Strengthen Cyber Threat Detection and Investigation for Security Customers"
     excerpt: "Building on its announcement of the Preactive Security Exchange (PSE) recently, AttackIQ Ⓡ today announced its integration between the Microsoft Azure Sentinel cloud-native security information and event manager (SIEM) platform and the AttackIQ Security Optimization Platform."
     publishedDateTime: 2020-10-27T12:00:00Z
