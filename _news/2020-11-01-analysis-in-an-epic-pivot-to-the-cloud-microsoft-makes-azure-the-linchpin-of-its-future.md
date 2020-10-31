@@ -339,6 +339,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Microsoft Cloud for Healthcare Reaches General Availability"
+    excerpt: "Six months after launching at Build 2020, the Microsoft Cloud for Healthcare vertical cloud solution is now generally available."
+    publishedDateTime: 2020-10-29T15:18:00Z
+    webUrl: "https://winbuzzer.com/2020/10/29/microsoft-cloud-for-healthcare-reaches-general-availability-xcxwbn/"
+    type: article
+    provider:
+      name: winbuzzer.com
+      domain: winbuzzer.com
+    quality: 22
+    images:
+      - url: "https://winbuzzer.com/wp-content/uploads/2020/03/microsoft-for-healthcare-official.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Microsoft Azure: The Winning Formula"
     excerpt: "Microsoft's Azure platform registered a 59% revenue growth in the last quarter, fueling concerns of a slowdown and suggesting its losing ground to Amazon's AWS."
     publishedDateTime: 2020-05-28T12:36:00Z
@@ -386,6 +400,6 @@ related:
         height: 627
         isCached: true
 
-secured: "G2QoNZ4GadZtg4A8Ded4UTp2b6mDTxwheMblR7LHruw4zp2DFJ2BiVQnGy5rfQHEVUm3q1EmVP4YccF3VX02VBVQFtPVz00PwXJjmFgSOrkvlHM+ukO7svkqGumuvCUq464Gh89lKacEbdj5q5Ya1Q1QWGdyOiMp9j5SmCS6Fi5sgCAkL37hNW//V9rUakqi1Ldtkdf89pBN4F98+9SlFdhACsXRI1Pl3UvlTPumm4GVvyPd4rbfwz4cII17Rq+UY87G5Rb6egQDQI/uM5nlblnLbBSmAQUNqtNgr67Oxpqvc4tdzaxNMud6/ud1nKSXAXtIpT7MuSC6ZDyVJTBcK6w9FQHy7u1yabSvFYUUJRk=;dx4ea5M+GLsrDYROVP/eEg=="
+secured: "GjzXW8nxnfZQ5I+42HA6pBDg05MMWi4XjZCfEbxKIipEUSaMeOnC7RKgv6HYcEUC+HZHoR85En64Tw99/c2lX+RnBp0Npaw2H11b4KIC2BGzzXjG2jsm7HzhgTFWgOYLZer7GfVKLfwSr0vufptoELBzndZAvtGNpK4xL8CzYaFVMhsFd5fl130sXBCVle7U3EnoUdGUcTDba2daO+2QE4Uwlmi675kPftlsIgj0CqOjdDjMtQSKGjJ4yGJIKbsJf9PqmgQqqsIsUwWUyEfcxMwsZikPhQ+P0RPVpnEpM6RaFww2zraF9I/fhBXzaFDef0GSjkL/lvDkD/v6kk8usphygQwrPgL/cE47/LncFhVEVeN22F50UnWuH5xpOC38WwHddQSaQOdccBq7xgeuWgx5zZrVbwTf9IydEdTrZ6M6lqRiEmj7aTLtEpLzKmCW6CJzZVvPxBYhZIt2B/7TizPXlnafFCQ7NRrq3iuzMSkdd97MzphL0CMyqpalstoLI9xaQYB/2vy7k/Xu6CHh7A==;uaT1bjC0yN2Wg+uRTwpx1A=="
 ---
 

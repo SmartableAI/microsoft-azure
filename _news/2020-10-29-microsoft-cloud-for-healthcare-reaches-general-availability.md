@@ -1,26 +1,24 @@
 ---
 category: news
-title: "AZ 120 Exam Questions Released for Microsoft Azure for SAP Workloads"
-excerpt: "Azure SAP workloads certification held incredibly great importance in today's world. It is a rapidly emerging and growing industry that had set its roots in every"
-publishedDateTime: 2020-10-22T22:45:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/20/10/ab18026610/az-120-exam-questions-released-for-microsoft-azure-for-sap-workloads"
-webUrl: "https://www.benzinga.com/pressreleases/20/10/ab18026610/az-120-exam-questions-released-for-microsoft-azure-for-sap-workloads"
-ampWebUrl: "https://amp.benzinga.com/amp/content/18026610"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18026610"
+title: "Microsoft Cloud for Healthcare Reaches General Availability"
+excerpt: "Six months after launching at Build 2020, the Microsoft Cloud for Healthcare vertical cloud solution is now generally available."
+publishedDateTime: 2020-10-29T15:18:00Z
+originalUrl: "https://winbuzzer.com/2020/10/29/microsoft-cloud-for-healthcare-reaches-general-availability-xcxwbn/"
+webUrl: "https://winbuzzer.com/2020/10/29/microsoft-cloud-for-healthcare-reaches-general-availability-xcxwbn/"
 type: article
-quality: 57
+quality: 22
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: winbuzzer.com
+  domain: winbuzzer.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://www.abnewswire.com/uploads/1603396615.png"
+  - url: "https://winbuzzer.com/wp-content/uploads/2020/03/microsoft-for-healthcare-official.jpg"
     width: 1280
     height: 720
     isCached: true
@@ -133,6 +131,22 @@ related:
       - url: "https://idge.staticworld.net/ifw/IFW_logo_social_300x300.png"
         width: 300
         height: 300
+        isCached: true
+  - title: "AZ 120 Exam Questions Released for Microsoft Azure for SAP Workloads"
+    excerpt: "Azure SAP workloads certification held incredibly great importance in today's world. It is a rapidly emerging and growing industry that had set its roots in every"
+    publishedDateTime: 2020-10-22T22:45:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/10/ab18026610/az-120-exam-questions-released-for-microsoft-azure-for-sap-workloads"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/18026610"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18026610"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 57
+    images:
+      - url: "https://www.abnewswire.com/uploads/1603396615.png"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Microsoft Shares Slip Lower Despite Azure-Driven Q1 Earnings Beat"
     excerpt: "Cloud revenues continue to drive growth for tech giant Microsoft, which has seen a surge in companies shifting their business process online and consumers upping purchases of PCs and video game consoles during the coronavirus pandemic."
@@ -339,20 +353,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Microsoft Cloud for Healthcare Reaches General Availability"
-    excerpt: "Six months after launching at Build 2020, the Microsoft Cloud for Healthcare vertical cloud solution is now generally available."
-    publishedDateTime: 2020-10-29T15:18:00Z
-    webUrl: "https://winbuzzer.com/2020/10/29/microsoft-cloud-for-healthcare-reaches-general-availability-xcxwbn/"
-    type: article
-    provider:
-      name: winbuzzer.com
-      domain: winbuzzer.com
-    quality: 22
-    images:
-      - url: "https://winbuzzer.com/wp-content/uploads/2020/03/microsoft-for-healthcare-official.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Microsoft Azure: The Winning Formula"
     excerpt: "Microsoft's Azure platform registered a 59% revenue growth in the last quarter, fueling concerns of a slowdown and suggesting its losing ground to Amazon's AWS."
     publishedDateTime: 2020-05-28T12:36:00Z
@@ -400,6 +400,6 @@ related:
         height: 627
         isCached: true
 
-secured: "vglW32wY3+h2WeW889tbjE08elsuH/Vr3L/JErf690UI0NssSy+C/EvvQ7E7bNuBOK7AerHccTvewH6uf9dwOqSqR3fH+fct5FhhCOF+NQrJ0ipExbqubRCwWPmQi4XWDFtnKzmf7KA71fCwtZR08N55QYFc3HGuH88NUvXkPv33iqlsOTcaHnrFzeo853PjHRnzY0jTylPCp8mCsyup3K2bnN/BOktfW9vH23pdt+yhoSfHBS40tERRUOBjA7jG91BVeycB+z2xJh99yOS1kEGGfaQRQuj6tPkPrFMgofzO2VmdwPtKFlrobX3V1CmBTPPwCd6w5FYkgGfcFJiLQ0NT0ugRzuVbTaZyikcAgm9gjyaJVLeNT2zHKJz7ku+8pPbxJ1wvwSOHaYSyeN7qd9Gf7fHv0xafqBE8Eqn+ZmgL/QKpWU4yIyhS0V2/IlehjV5AHCo9R1smzVR/CZd3zKWSFZTxykA3aA5lbAdN28rzQfAFknpRUDfreiCACN7jeIKHVrzvLpfvA6a2N32zcA==;VNPMq6s9O7zB0jLFIMIeKw=="
+secured: "80KnIvIRFJu6o5Kix0Uo6s7r07rcnzG5cZRCTSQ62YJ+RuWVBfqBUNKukAt8fLSA+vyAxca03DTSzarCuYPcHzIFJTMf9wrEUd9om0xb7NAt/CW5nUA6s53CxF7zz5V8lzUv3eLJ2adGHQfS3qEvV1xxNGOxn0XIU0Kj4jmUhOe2ygM1p2X2apWSfp6c50tpgLRh2xDK1Dun6NOTSMCfR8vZrIBQqQ9BJxPTuy8tIafsZtIIslI1ZCFB+srX4emGmvVTbiu2IJ+wiP2YVCGPcTv3XYKgiDmYMMr/3B74e/s/AhrA3hoO+Or72uvU81NE41JjuImUmkfNAgkcN18mulbU+24whwWYdG3lNsxyIVs=;X/UuXYWS5DmqBuE8SEIrNA=="
 ---
 

@@ -342,6 +342,20 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Microsoft Cloud for Healthcare Reaches General Availability"
+    excerpt: "Six months after launching at Build 2020, the Microsoft Cloud for Healthcare vertical cloud solution is now generally available."
+    publishedDateTime: 2020-10-29T15:18:00Z
+    webUrl: "https://winbuzzer.com/2020/10/29/microsoft-cloud-for-healthcare-reaches-general-availability-xcxwbn/"
+    type: article
+    provider:
+      name: winbuzzer.com
+      domain: winbuzzer.com
+    quality: 22
+    images:
+      - url: "https://winbuzzer.com/wp-content/uploads/2020/03/microsoft-for-healthcare-official.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Microsoft Azure: The Winning Formula"
     excerpt: "Microsoft's Azure platform registered a 59% revenue growth in the last quarter, fueling concerns of a slowdown and suggesting its losing ground to Amazon's AWS."
     publishedDateTime: 2020-05-28T12:36:00Z

@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Lindsay to Develop Sustainable and Profitable Solutions for Growers using Microsoft Azure"
-excerpt: "PRNewswire/ -- Lindsay Corporation (NYSE: LNN), a leading global manufacturer and distributor of irrigation and infrastructure equipment and technology, today announced the development of intelligent digital solutions using Microsoft Azure to enhance irrigation management,"
-publishedDateTime: 2020-10-30T10:45:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-transportation-equipment-manufacturing-corporate-news-environment-and-nature-734d597e03cb3667b0d8a9f1c5008832"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-transportation-equipment-manufacturing-corporate-news-environment-and-nature-734d597e03cb3667b0d8a9f1c5008832"
+excerpt: "Oct. 30, 2020 /PRNewswire/ -- Lindsay Corporation (NYSE: LNN), a leading global manufacturer and distributor of irrigation and infrastructure equipment and technology, today announced the development of intelligent digital solutions using Microsoft Azure ..."
+publishedDateTime: 2020-10-30T10:47:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/lindsay-to-develop-sustainable-and-profitable-solutions-for-growers-using-microsoft-azure-301163711.html"
+webUrl: "https://www.prnewswire.com/news-releases/lindsay-to-develop-sustainable-and-profitable-solutions-for-growers-using-microsoft-azure-301163711.html"
 type: article
 quality: 28
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+    width: 600
+    height: 315
     isCached: true
 
 related:
@@ -67,6 +67,6 @@ related:
         height: 450
         isCached: true
 
-secured: "S01URlrrbiou5pz2MOFv5SZ6zZbRD5iC5eoynwEmZi70RireCwKqgRoQnfZjOkpSXAkUxJl09/JAYjFxXtwRUP4jX0kDzrq/Oy/14z2MntEoDWnWNVKTxTGxRLP344ZaNSK6YV0+npfN7hqpW1O3Bho4d4f929RprwowQ8uqUkt3M/OZyTu+RrPipIYSmYeRAd86kxw83CB89SkfexmLtSKb5diEHXGkn7BLPxEJPHkmQ4CRkVq0XXQayQ7KwtmdfUdTpGbambwcvSD7aQeQGRMKuHIy8vlJOdy3J0fq32cOxuTMJRiCyY/91Ct2rRgzsPiCOH35GlR9EW6/CqFxDBN2JzLYgvsUztXTrZASeYQ=;aJDiVwpQ+m5F+7/1gUwsUg=="
+secured: "m/sk+6/wKE8J8V3kaYn1TQyI9b0GsIW808wd08aORaypzDX5onhZaYg9+bLB1841INw9gSkV3Hl60+9qEF4pqfDKif5AsczPApRtGfQA55viibMd1aGANjZ9FlxCY/8AoO+8n8++ilAj6Qz+ucOiZrYwIEOLRnk6BL3FhZfYUPcp4PFSFnWycAY18rvRaIVbQwDaPPFdif2oSNUJapnghST+TvKCUxqLMkJSWHoXxU2iDFYGADhVDCcC18VQNhmXx4NaNuqsbA682LtBPAY8jYa2h4RjgQOgR3or4fWI+0mOvqR3Yei0dEcomu2+gnTLiYip1ZTxlBcmvdsDcp1+S+fXCxAoboQGiSORDb9bXAI=;B1hS7oihuBqdlK5KfgYClw=="
 ---
 
