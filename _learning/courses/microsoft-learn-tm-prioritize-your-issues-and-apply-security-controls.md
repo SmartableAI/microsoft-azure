@@ -8,7 +8,7 @@ length: PT14M
 ratings:
   count: 204
   average: 4.7058825
-heat: 52
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     height: 320
     isCached: true
 
-secured: "71FLAYyeIlM+LX6CTnSV31Wm76GcfYKtGPvc+cLNpRGz4FUUzF3jljQG8LxWrQQ+DkEUzeLRCsqhWM0b5KPsbfrBx+XSpU5vmvxtN1iXBUuWurWLdee7+Wox1WcxWAV8kvuTswS8MZls0Y519eR/iwB/64qzEeE+HNYN+OWr+hmOxETN17LeiQzrNDllqe/2KqSzHCiSDZuwvgpYu1+GMOkz7WXykqLnmdNDnXnfsVsffHnvVN0Zpkemq327npV/pLHIO+OGvuzQY4SzE9cunuszZLx6y2mad2q1qWO1sOHPU/4rXxZXJsRZbIduOmoN7r1DKBzWhkEj6v2ePC/mrCj0qkA3++lmvfDZ0JlgcEFbtoNhTekdb1ErXu8uaZH9ke1xGaYLFrELJYXh3eDCODMlRS+RdEctGYpQpsgASVY=;7Gp5XfEAVUHfdDQPf/ShQA=="
+secured: "5gMKBQ6HFE9kCXMkNU1CDNMwKsMydR/PiCZGMEqcAT41IZpIf5nygOgJvBZY8NENmzzsT22J0JwLhthJTSDg4Lb6d2BFyLyccbtV/XufZ++hLD5a8SikWhWL5se5O/QVruFG9/V4rxAOIgoTakn3c1pXT8GeANW+AbidB/rSZ+ge0OvIcYHonwqVF58CF9Jw5XydX9KQ5U3bSx8pD+S/BayFKFTYKHsSHOTD+O0z6dVVmH1aqgYgGpg7YhsI+X2ZUe0JiYqIKYQJuN3KhcOm/o5LX6D8ZsKzCOrAZThKXLpOpAU7RSTr9qbic6RXnnMN4mXqeydXMS372GGHq9k87eTHmBw7CFrqJMc4IZWbayWodhGALtOcaekqH0khepnRPTzpMiJsp4cenaAxqclRmLG0pbXWO5nOTtgiekcB25g=;QwuXbJCE22LPChvV05ThyA=="
 ---
 

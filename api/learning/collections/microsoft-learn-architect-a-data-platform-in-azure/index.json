@@ -11,8 +11,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-data-in-azure/",
       "length": "PT25M",
       "ratings": {
-        "count": 55779,
-        "average": 4.734703
+        "count": 55780,
+        "average": 4.734708
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -29,7 +29,7 @@
       "levels": [
         "Beginner"
       ],
-      "heat": 72,
+      "heat": 73,
       "content": "\r\n",
       "type": "course",
       "price": "Free",
@@ -47,8 +47,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/provision-azure-sql-db/",
       "length": "PT50M",
       "ratings": {
-        "count": 4791,
-        "average": 4.6530995
+        "count": 4792,
+        "average": 4.653172
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -65,7 +65,7 @@
       "levels": [
         "Beginner"
       ],
-      "heat": 57,
+      "heat": 54,
       "content": "\r\n",
       "type": "course",
       "price": "Free",
@@ -127,8 +127,43 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/migrate-sql-server-relational-data/",
       "length": "PT1H24M",
       "ratings": {
-        "count": 893,
-        "average": 4.3975363
+        "count": 894,
+        "average": 4.3982105
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 51,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Databases"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-develop-app-that-queries-azure-sql.md",
+      "title": "Develop and configure an ASP.NET application that queries an Azure SQL database",
+      "excerpt": "Create an Azure SQL database to store data for an application, and create an ASP.NET application to query data from the database.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-develop-app-that-queries-azure-sql/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/develop-app-that-queries-azure-sql/",
+      "length": "PT50M",
+      "ratings": {
+        "count": 2593,
+        "average": 4.5306597
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -146,41 +181,6 @@
         "Beginner"
       ],
       "heat": 53,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Databases"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-develop-app-that-queries-azure-sql.md",
-      "title": "Develop and configure an ASP.NET application that queries an Azure SQL database",
-      "excerpt": "Create an Azure SQL database to store data for an application, and create an ASP.NET application to query data from the database.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-develop-app-that-queries-azure-sql/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/develop-app-that-queries-azure-sql/",
-      "length": "PT50M",
-      "ratings": {
-        "count": 2592,
-        "average": 4.5304785
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 52,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/develop-app-that-queries-azure-sql-social.png",
@@ -223,7 +223,7 @@
       "levels": [
         "Beginner"
       ],
-      "heat": 52,
+      "heat": 53,
       "content": "\r\n",
       "type": "course",
       "price": "Free",
@@ -241,8 +241,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/distribute-data-globally-with-cosmos-db/",
       "length": "PT31M",
       "ratings": {
-        "count": 1589,
-        "average": 4.604783
+        "count": 1590,
+        "average": 4.6044025
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -259,7 +259,7 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 50,
+      "heat": 52,
       "content": "\r\n",
       "type": "course",
       "price": "Free",
@@ -295,7 +295,7 @@
       "levels": [
         "Beginner"
       ],
-      "heat": 51,
+      "heat": 53,
       "content": "\r\n",
       "type": "course",
       "price": "Free",
@@ -331,7 +331,7 @@
       "levels": [
         "Beginner"
       ],
-      "heat": 55,
+      "heat": 53,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/data-ai/design-azure-sql-data-warehouse-badge-social.png",
@@ -356,8 +356,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/import-data-into-asdw-with-polybase/",
       "length": "PT1H6M",
       "ratings": {
-        "count": 2098,
-        "average": 4.560057
+        "count": 2099,
+        "average": 4.560267
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -374,7 +374,7 @@
       "levels": [
         "Beginner"
       ],
-      "heat": 52,
+      "heat": 53,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/data-ai/import-data-into-asdw-with-polybase-badge-social.png",

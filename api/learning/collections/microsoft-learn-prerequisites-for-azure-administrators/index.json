@@ -11,8 +11,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-governance/",
       "length": "PT46M",
       "ratings": {
-        "count": 39325,
-        "average": 4.6342783
+        "count": 39328,
+        "average": 4.6342807
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -29,7 +29,7 @@
       "levels": [
         "Beginner"
       ],
-      "heat": 81,
+      "heat": 75,
       "content": "\r\n",
       "type": "course",
       "price": "Free",
@@ -46,78 +46,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-virtual-machines/",
       "length": "PT1H7M",
       "ratings": {
-        "count": 15123,
-        "average": 4.690075
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 73,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Compute"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-network-fundamentals.md",
-      "title": "Fundamentals of computer networking",
-      "excerpt": "You'll learn the fundamental principles of computer networking to prepare you for the Azure admin and developer learning paths.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-network-fundamentals/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/network-fundamentals/",
-      "length": "PT47M",
-      "ratings": {
-        "count": 3381,
-        "average": 4.700976
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 64,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Networking"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-network-fundamentals-2.md",
-      "title": "Fundamentals of network security",
-      "excerpt": "Explore the fundamentals of computer networking security and monitoring.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-network-fundamentals-2/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/network-fundamentals-2/",
-      "length": "PT36M",
-      "ratings": {
-        "count": 2428,
-        "average": 4.699341
+        "count": 15125,
+        "average": 4.6900496
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -140,19 +70,19 @@
       "price": "Free",
       "topics": [
         "Azure",
-        "Security"
+        "Compute"
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-control-azure-services-with-cli.md",
-      "title": "Control Azure services with the CLI",
-      "excerpt": "Learn the steps to install the Azure CLI locally, create a website, and manage Azure resources using the CLI.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-control-azure-services-with-cli/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/control-azure-services-with-cli/",
-      "length": "PT34M",
+      "path": "_learning/courses/microsoft-learn-network-fundamentals.md",
+      "title": "Fundamentals of computer networking",
+      "excerpt": "You'll learn the fundamental principles of computer networking to prepare you for the Azure admin and developer learning paths.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-network-fundamentals/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/network-fundamentals/",
+      "length": "PT47M",
       "ratings": {
-        "count": 4410,
-        "average": 4.751247
+        "count": 3383,
+        "average": 4.701153
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -169,7 +99,77 @@
       "levels": [
         "Beginner"
       ],
-      "heat": 57,
+      "heat": 60,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Networking"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-network-fundamentals-2.md",
+      "title": "Fundamentals of network security",
+      "excerpt": "Explore the fundamentals of computer networking security and monitoring.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-network-fundamentals-2/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/network-fundamentals-2/",
+      "length": "PT36M",
+      "ratings": {
+        "count": 2430,
+        "average": 4.6995883
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 60,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Security"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-control-azure-services-with-cli.md",
+      "title": "Control Azure services with the CLI",
+      "excerpt": "Learn the steps to install the Azure CLI locally, create a website, and manage Azure resources using the CLI.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-control-azure-services-with-cli/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/control-azure-services-with-cli/",
+      "length": "PT34M",
+      "ratings": {
+        "count": 4411,
+        "average": 4.7513037
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 56,
       "content": "\r\n",
       "type": "course",
       "price": "Free",
@@ -238,7 +238,7 @@
       "levels": [
         "Beginner"
       ],
-      "heat": 56,
+      "heat": 55,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/intro-to-azure-ad-social.png",
@@ -263,8 +263,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-docker-containers/",
       "length": "PT32M",
       "ratings": {
-        "count": 3238,
-        "average": 4.634651
+        "count": 3242,
+        "average": 4.634485
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -281,7 +281,7 @@
       "levels": [
         "Beginner"
       ],
-      "heat": 64,
+      "heat": 59,
       "content": "\r\n",
       "type": "course",
       "price": "Free",
@@ -298,8 +298,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-storage-approach-in-azure/",
       "length": "PT30M",
       "ratings": {
-        "count": 11002,
-        "average": 4.665697
+        "count": 11003,
+        "average": 4.6657276
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -316,7 +316,7 @@
       "levels": [
         "Beginner"
       ],
-      "heat": 73,
+      "heat": 66,
       "content": "\r\n",
       "type": "course",
       "price": "Free",

@@ -8,7 +8,7 @@ length: PT51M
 ratings:
   count: 747
   average: 4.6666665
-heat: 50
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -24,6 +24,6 @@ levels:
 topics:
   - Azure
 
-secured: "shSrwyR3YLenEYRvzXx+0mq54RjL739FSNIe8kSmnWCHBIc3YCODpam66o/F0Q//YQEJCAYntm3LQ9SA+X5LKoEgLk8ymZz3XwyAQNH+yWhX/mQCbLdcsTGSlPDetIEj4xLdoryKQpFY4MxNDlcaduTQaTAgjuyONhoNAIVPjls4YYi2dn9eSugowlf+Yopi4XTFoINBAjH1JMARShsPOIr6NZBsjywiKLIgoQsv6b474wN0rvNoU7HWyJDJipfFFsjZJhl4DRnrs3+Ly1dkEyV3/iZSmt1rjdWmVQPh85qONCQ/2EdLZZ/tAUN/SsUwLZ4n6BIhlVHa5dGrmZoyfSKRF1DFNyq7dsKU7lVg9PU1CtkxAdcJJyNtTPxcGbhOTPY0GtlbUcKwYwewhuYiimyRcsZ/XplKRN+SU334sE8=;fsR2203ZVirtc0OtoJvpXQ=="
+secured: "PAdPkNrvbGHVxd/39wNo2PeF0dR6qPpQhfC1LyYnqwxPSkoD3gs1e8C/9BT6dIg7OZN+faWb9/rAwEVLDyDA87akkpWNttDghy6qL2xc0kfoQLNLSdlzLkB285zZS7A2CrE6yihyqc69+BUSQLyCL740vrE+AovUJz5BE5ai62SpPDpNnmilJE9nlCC8laC/wxSEum+P3U7k9VCqK/6o0/NQMyqNy/uN/9ERP6HKt8BPZiG8SWYBel5CryRJ0tSPXmnzbwWb16SnfbfPW4np4Ety26A88+HhIaCdC9eLJa5IPzKr93VAucCySk8QX4V7Ispd3yM5sBtsMzYx/lwRdt2+A20AVocno7osM4yYeBO4r8PHQ3E8yG7XLzQMrA560n3q+MQtpqSAug7k6R7oA3WsZqVo957ler5O0eloR48=;dDJtiYQX8YqC9Gjbc3bmWw=="
 ---
 

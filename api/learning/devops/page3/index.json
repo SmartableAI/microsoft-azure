@@ -4,6 +4,50 @@
   "page": 3,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-deploy-azure-functions.md",
+      "title": "Automate Azure Functions deployments with Azure Pipelines",
+      "excerpt": "Implement a CI/CD pipeline for Azure Functions.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-deploy-azure-functions/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-azure-functions/",
+      "length": "PT46M",
+      "ratings": {
+        "count": 303,
+        "average": 4.679868
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/azure-devops/deploy-azure-functions-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "DevOps",
+        "Serverless"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-deploy-docker.md",
       "title": "Automate Docker container deployments with Azure Pipelines",
       "excerpt": "Implement a CI/CD pipeline for Docker containers.",
@@ -87,50 +131,6 @@
       "topics": [
         "Azure",
         "DevOps"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-deploy-kubernetes.md",
-      "title": "Automate multi-container Kubernetes deployments with Azure Pipelines",
-      "excerpt": "Implement a CI/CD pipeline for multiple containers to Kubernetes.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-deploy-kubernetes/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-kubernetes/",
-      "length": "PT56M",
-      "ratings": {
-        "count": 290,
-        "average": 4.6793103
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/azure-devops/deploy-kubernetes-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "DevOps",
-        "Containers"
       ]
     },
     {
@@ -220,49 +220,6 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-host-build-agent.md",
-      "title": "Host your own build agent in Azure Pipelines",
-      "excerpt": "Work with guidance from the Space Game web team to set up your build agent running on-premises or on an Azure virtual machine running in the cloud.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-host-build-agent/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/host-build-agent/",
-      "length": "PT59M",
-      "ratings": {
-        "count": 1766,
-        "average": 4.707248
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/azure-devops/host-your-own-build-server-in-your-build-pipeline-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "DevOps",
-        "Azure"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-implement-change-tracking-file-integrity-monitoring-for-windows-iaas-vms.md",
       "title": "Implement change tracking and file integrity monitoring for Windows IaaS VMs",
       "excerpt": "Implement change tracking and file integrity monitoring for Windows IaaS VMs",
@@ -308,6 +265,51 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-implement-ci-cd-azure-devops.md",
+      "title": "Implement CI/CD with Azure DevOps",
+      "excerpt": "Implement CI/CD with Azure DevOps",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-implement-ci-cd-azure-devops/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/implement-ci-cd-azure-devops/",
+      "length": "PT28M",
+      "ratings": {
+        "count": 60,
+        "average": 4.6666665
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/implement-ci-cd-azure-devops-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Analytics",
+        "AI",
+        "DevOps"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-load-test-web-app-azure-devops.md",
       "title": "Load test Azure web apps by using Azure DevOps",
       "excerpt": "Discover Azure portal and Azure DevOps tools that help you quickly and efficiently define and scale up load tests for apps.",
@@ -349,6 +351,49 @@
         "Azure",
         "DevOps",
         "Web"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-manage-build-dependencies.md",
+      "title": "Manage build dependencies with Azure Artifacts",
+      "excerpt": "In this module, the Space Game web team guides you through creating a build pipeline that produces a package that can be used by multiple applications.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-manage-build-dependencies/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-build-dependencies/",
+      "length": "PT59M",
+      "ratings": {
+        "count": 1734,
+        "average": 4.6753173
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/azure-devops/manage-dependencies-in-your-build-pipeline-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "DevOps",
+        "Azure"
       ]
     },
     {
@@ -579,8 +624,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/provision-infrastructure-azure-pipelines/",
       "length": "PT2H2M",
       "ratings": {
-        "count": 383,
-        "average": 4.6657963
+        "count": 384,
+        "average": 4.6666665
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -603,48 +648,6 @@
       "price": "Free",
       "topics": [
         "Azure",
-        "DevOps"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-recommend-system-feedback-mechanisms.md",
-      "title": "Recommend and design system feedback mechanisms",
-      "excerpt": "Learn how surveys and application analytics create a feedback loop that helps you understand the voice of the customer.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-recommend-system-feedback-mechanisms/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/recommend-system-feedback-mechanisms/",
-      "length": "PT49M",
-      "ratings": {
-        "count": 243,
-        "average": 4.617284
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/azure-devops/recommend-system-feedback-mechanisms-social.png",
-          "width": 1000,
-          "height": 500,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
         "DevOps"
       ]
     },
@@ -735,15 +738,15 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-scan-open-source.md",
-      "title": "Scan open source components for vulnerabilities and license ratings in Azure Pipelines",
-      "excerpt": "Scan open-source components for security vulnerabilities and assess their license ratings when your application builds in Azure Pipelines.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-scan-open-source/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/scan-open-source/",
-      "length": "PT38M",
+      "path": "_learning/courses/microsoft-learn-troubleshoot-inbound-network-connectivity-azure-load-balancer.md",
+      "title": "Troubleshoot inbound network connectivity for Azure Load Balancer",
+      "excerpt": "Learn how to troubleshoot inbound network connectivity for Azure Load Balancer.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-troubleshoot-inbound-network-connectivity-azure-load-balancer/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/troubleshoot-inbound-connectivity-azure-load-balancer/",
+      "length": "PT1H38M",
       "ratings": {
-        "count": 1852,
-        "average": 4.7203026
+        "count": 346,
+        "average": 4.66763
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -758,12 +761,12 @@
         ]
       },
       "levels": [
-        "Intermediate"
+        "Beginner"
       ],
       "heat": 50,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/azure-devops/manage-security-and-compliance-in-your-build-pipeline-social.png",
+          "url": "https://docs.microsoft.com/learn/achievements/troubleshoot-inbound-connectivity-azure-load-balancer-social.png",
           "width": 800,
           "height": 400,
           "isCached": true
@@ -773,8 +776,10 @@
       "type": "course",
       "price": "Free",
       "topics": [
+        "Azure",
         "DevOps",
-        "Azure"
+        "Management Tools",
+        "Networking"
       ]
     },
     {

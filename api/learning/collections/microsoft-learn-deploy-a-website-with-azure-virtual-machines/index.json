@@ -11,79 +11,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-virtual-machines/",
       "length": "PT1H7M",
       "ratings": {
-        "count": 15123,
-        "average": 4.690075
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 73,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Compute"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-create-linux-vm-in-azure.md",
-      "title": "Create a Linux virtual machine in Azure",
-      "excerpt": "This module guides you through options for virtual machines in Azure, creating and connecting a Linux virtual machine, and configuring your network settings.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-create-linux-vm-in-azure/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-linux-virtual-machine-in-azure/",
-      "length": "PT1H26M",
-      "ratings": {
-        "count": 8162,
-        "average": 4.6878214
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 63,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Management Tools",
-        "Compute"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-create-a-windows-vm-in-azure.md",
-      "title": "Create a Windows virtual machine in Azure",
-      "excerpt": "Learn to create an Azure virtual machine in minutes that can be used like a local physical desktop or server.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-create-a-windows-vm-in-azure/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-windows-virtual-machine-in-azure/",
-      "length": "PT51M",
-      "ratings": {
-        "count": 13063,
-        "average": 4.709102
+        "count": 15125,
+        "average": 4.6900496
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -101,6 +30,77 @@
         "Beginner"
       ],
       "heat": 65,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Compute"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-create-linux-vm-in-azure.md",
+      "title": "Create a Linux virtual machine in Azure",
+      "excerpt": "This module guides you through options for virtual machines in Azure, creating and connecting a Linux virtual machine, and configuring your network settings.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-create-linux-vm-in-azure/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-linux-virtual-machine-in-azure/",
+      "length": "PT1H26M",
+      "ratings": {
+        "count": 8164,
+        "average": 4.687898
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 56,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Management Tools",
+        "Compute"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-create-a-windows-vm-in-azure.md",
+      "title": "Create a Windows virtual machine in Azure",
+      "excerpt": "Learn to create an Azure virtual machine in minutes that can be used like a local physical desktop or server.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-create-a-windows-vm-in-azure/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-windows-virtual-machine-in-azure/",
+      "length": "PT51M",
+      "ratings": {
+        "count": 13064,
+        "average": 4.709124
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 64,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/create-windows-virtual-machine-in-azure-social.png",
@@ -143,7 +143,7 @@
       "levels": [
         "Beginner"
       ],
-      "heat": 56,
+      "heat": 52,
       "content": "\r\n",
       "type": "course",
       "price": "Free",

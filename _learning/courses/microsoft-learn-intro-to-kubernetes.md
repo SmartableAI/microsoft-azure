@@ -6,9 +6,9 @@ type: course
 price: Free
 length: PT53M
 ratings:
-  count: 567
-  average: 4.6190476
-heat: 53
+  count: 570
+  average: 4.6210527
+heat: 55
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     height: 320
     isCached: true
 
-secured: "GUx6xtQTMIMMDbwMbYpdmzspsIgZ3CO/GWJ8OuoUvM9MRfoqV2k8yzGtRgcwEb69iIHGslEwdyavUwb4zXamyo0c+7XKTrJZMiSGr6w0ufrMeERcgkhDs8+1Yj57NoCfLx5PJkDESWLtqRbYpB+fHv6+AQq4Clw9tlN/nFENCHAjBVpE0f/N6a10GuHLKctombzL0dG2TIyoy7YDPqjlOPHmS0sszUHf9sDSIv1qvF8Igg1R9Q3xPE0CZRZxUUjvwlfUoUs6QSPyvj2JMBq4k0Qczm7IQWP6YJiZlIkD1WKPDPC1O0Clsn/ZctLyP2bNmafzZ6CJwacJYy4AEaS78wwfvl94hG1zyY9YT2W5m5ieWYIfMXB0xme6dtn+2Vj1yWewK0U8rNm25fewlPu+hbFX6hayyCp27gBFsm0QTCY=;SMcUjWj1JW6y0WzRuS+yPw=="
+secured: "5e7VrbR/EZZxgBJvYsQXhbHYad4xKfo811b1d5Ok9uNn4HbkwiNO4s0YsXvArVvb4I2P0WVmKnPd5V42l9UyqhTqjcyjnsOs2C1+Sybbol44R5OLF2pBSGWJnGQNZTZtDproRC7aDogU204HU/pqEs6N4y4jfR1P7CwH4rrYi2/sW8D3T/tTGGla2QNalHEwox1Q1nj4kpcFHmIlRNxSPihuE7w0Z9sz724KWKKsaKj8y1lNYXiKM9KJDCJ95gNVb1Vh47930ulbqythVyirwohluu08yzbx9p7EkZfwP8WM/GR2ormhER04SbDDWD+RXitnFlLJ4yY2qQaMpWmFUloEz1cNOX5W8poJtqKnOF03HAQSHcYxIbZ1uqwbvnYm4jvEldlyA0RV5itYu4c6lSTAmY7Eba3pif0XRekKLns=;yHhTWTJPcbGU78jGVmo+ug=="
 ---
 
