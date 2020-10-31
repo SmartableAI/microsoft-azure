@@ -4,7 +4,7 @@ excerpt: "Learn to develop an AI strategy to create value in government, includi
 type: collection
 price: Free
 length: PT9H42M
-heat: 61
+heat: 62
 
 provider:
   name: Microsoft Learn
