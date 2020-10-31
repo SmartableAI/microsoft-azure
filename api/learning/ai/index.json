@@ -43,15 +43,15 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-monitor-models-with-azure-machine-learning.md",
-      "title": "Monitor models with Azure Machine Learning",
-      "excerpt": "After a machine learning model has been deployed into production, it's important to understand how it is being used by capturing and viewing telemetry.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-monitor-models-with-azure-machine-learning/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/monitor-models-with-azure-machine-learning/",
-      "length": "PT39M",
+      "path": "_learning/courses/microsoft-learn-analyze-text-with-text-analytics-service.md",
+      "title": "Analyze text with the Text Analytics service",
+      "excerpt": "The Text Analytics service is a cloud-based service that provides advanced natural language processing over raw text for sentiment analysis, key phrase extraction, named entity recognition, and language detection.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-analyze-text-with-text-analytics-service/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-text-with-text-analytics-service/",
+      "length": "PT29M",
       "ratings": {
-        "count": 163,
-        "average": 4.7361965
+        "count": 333,
+        "average": 4.7897897
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -66,24 +66,16 @@
         ]
       },
       "levels": [
-        "Intermediate"
+        "Beginner"
       ],
-      "heat": 130,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/monitor-models-with-azure-machine-learning-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
+      "heat": 134,
       "content": "\r\n",
       "type": "course",
       "price": "Free",
       "topics": [
         "Azure",
-        "Management Tools",
-        "AI"
+        "AI",
+        "Analytics"
       ]
     },
     {
@@ -117,8 +109,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-ai-fundamentals/",
           "length": "PT27M",
           "ratings": {
-            "count": 3805,
-            "average": 4.73456
+            "count": 3806,
+            "average": 4.7346296
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -179,8 +171,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-ai-fundamentals/",
       "length": "PT27M",
       "ratings": {
-        "count": 3805,
-        "average": 4.73456
+        "count": 3806,
+        "average": 4.7346296
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -419,8 +411,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/",
           "length": "PT36M",
           "ratings": {
-            "count": 1013,
-            "average": 4.7611055
+            "count": 1017,
+            "average": 4.7620454
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -437,7 +429,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 81,
+          "heat": 161,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/intro-to-azure-fundamentals-social.png",
@@ -507,8 +499,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-compute-fundamentals/",
           "length": "PT52M",
           "ratings": {
-            "count": 138,
-            "average": 4.6449275
+            "count": 139,
+            "average": 4.647482
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -552,8 +544,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-storage-fundamentals/",
           "length": "PT27M",
           "ratings": {
-            "count": 113,
-            "average": 4.7345133
+            "count": 115,
+            "average": 4.7391305
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -644,8 +636,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/",
           "length": "PT36M",
           "ratings": {
-            "count": 1013,
-            "average": 4.7611055
+            "count": 1017,
+            "average": 4.7620454
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -662,7 +654,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 81,
+          "heat": 161,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/intro-to-azure-fundamentals-social.png",
@@ -686,8 +678,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-machine-learning-fundamentals/",
           "length": "PT23M",
           "ratings": {
-            "count": 110,
-            "average": 4.7363634
+            "count": 111,
+            "average": 4.7387385
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -729,8 +721,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-devops-devtest-labs/",
           "length": "PT21M",
           "ratings": {
-            "count": 78,
-            "average": 4.75641
+            "count": 79,
+            "average": 4.759494
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -772,8 +764,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/monitoring-fundamentals/",
           "length": "PT22M",
           "ratings": {
-            "count": 84,
-            "average": 4.7380953
+            "count": 85,
+            "average": 4.7411766
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1097,7 +1089,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 54,
+          "heat": 134,
           "content": "\r\n",
           "type": "course",
           "price": "Free",
@@ -3052,8 +3044,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-iot/",
           "length": "PT31M",
           "ratings": {
-            "count": 463,
-            "average": 4.688985
+            "count": 464,
+            "average": 4.6896553
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3095,8 +3087,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-iot-hub/",
           "length": "PT28M",
           "ratings": {
-            "count": 1341,
-            "average": 4.65399
+            "count": 1342,
+            "average": 4.6535025
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3270,8 +3262,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-machine-learning-service/",
           "length": "PT40M",
           "ratings": {
-            "count": 2230,
-            "average": 4.616592
+            "count": 2231,
+            "average": 4.6167636
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3314,8 +3306,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/train-local-model-with-azure-mls/",
           "length": "PT40M",
           "ratings": {
-            "count": 1483,
-            "average": 4.593392
+            "count": 1484,
+            "average": 4.592992
           },
           "provider": {
             "name": "Microsoft Learn",
