@@ -3,10 +3,10 @@ category: news
 title: "Microsoft cloud business gathers steam as pandemic boosts growth"
 excerpt: "Microsoft Corp's <MSFT.O> cloud computing business slightly re-accelerated and its Teams messaging and collaboration software won new users, as a pandemic-driven shift to working from home and online learning drove quarterly results ahead of investor targets."
 publishedDateTime: 2020-10-28T11:41:00Z
-originalUrl: "https://www.reuters.com/article/us-microsoft-results-idUSKBN27C2YV"
-webUrl: "https://www.reuters.com/article/us-microsoft-results-idUSKBN27C2YV"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27C2YV"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27C2YV"
+originalUrl: "https://www.reuters.com/article/us-microsoft-results/microsoft-cloud-business-gathers-steam-as-pandemic-boosts-growth-idUSKBN27C2YV"
+webUrl: "https://www.reuters.com/article/us-microsoft-results/microsoft-cloud-business-gathers-steam-as-pandemic-boosts-growth-idUSKBN27C2YV"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27C2Z1"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27C2Z1"
 type: article
 quality: 82
 heat: -1
@@ -362,6 +362,6 @@ related:
         height: 627
         isCached: true
 
-secured: "dv78b/7S0KimvpsQ6m46xEeRKCScDA5gWatT/BjDP9mdStNoU9v/8BhX8CPOb1h70tdw5HN2D9d/q7ahCNq9iBkHJiSXd4NLcSWWm10m8xrQ+cWUmYQNxPKTRLDlqt2IZgN85bebyLFu1y8LIqmRmiWxpd/PMjUd9fA8SydEQgDM81weFH4Nzay1UulQ6tvJoIQ0Mpst1byFA1rLVh0LtlKZkv7bxbSEIjXErraI6rvmrc1ss0oCBsPU9tg38yoL3XBugEaf/wcddiO94dhpnxLkabXExZd2je2u6sh/osq+H8yYiFSCmfaz/Hi7NX94i/ZwqczuiKG1Do6Jra5LW2cDSTeefqLD5QB9rjG2wExrUMfWBa5qMinpcrgsAlBSP3dpCI6px4FSk7YMO4KE7KbparmUkFK/6UGF60KKX2I3+e+8XFzhTh0Y7px8UIztX95yiGEd/DxZq7rQloGdG56plSzt6LI7ALeCeMQQ55nMkpZsG8++AehKM2vaLimvqU6VVzb6xZmGcdkev4O9fA==;YEPHZdGFeetgTbQOLEOyfw=="
+secured: "HQB5VB/37ch0yItRvi/UX9fvUkAAvKgIbDZK1NwGlPQQ0/Q7QBBS1HfC6Xm76F3nOIy16BboTEla5ruY3kdA/O3tTlD5RNl1fL/2b+jj9q7VMccyyCTvN71imKm2PZTACmb5lMII0RG9c1hKUn/jjCJ/s4HVciB70KuroDxv5Rwzdo67amneAu2Xg6iGtw8kR9qXVuWrFOYgcv5VDhCmqieGQ37UPd6pQV597oHKg6k/plpEtASX2owDltxp460QcjKcRhAwpQ0KZifnp0w2g5xlpeGm/py+WVXwH7jsF2tav/7omqZ7x0Qeypbhql/iYiPlo28YRMeKZmmd4wl+C8Aue5/wDEYfohOTnHAdHJ4=;2VORz2EBbZOIPcbUkwo1ow=="
 ---
 
