@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/azure-monitor-log-analyt
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-monitor-log-analytics-data-export-is-in-public-preview/"
 type: article
 quality: 121
-heat: 401
+heat: 402
 published: true
 
 provider:

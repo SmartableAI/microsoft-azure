@@ -1,25 +1,27 @@
 ---
 category: news
 title: "Lindsay to Develop Sustainable and Profitable Solutions for Growers using Microsoft Azure"
-excerpt: "Lindsay will utilize Microsoft Azure IoT Edge and Azure Machine Learning for edge-of-field computing, artificial intelligence and machine learning solutions. Collaboration will result in complete ..."
-publishedDateTime: 2020-10-30T10:51:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/lindsay-to-develop-sustainable-and-profitable-solutions-for-growers-using-microsoft-azure-1029745663"
-webUrl: "https://markets.businessinsider.com/news/stocks/lindsay-to-develop-sustainable-and-profitable-solutions-for-growers-using-microsoft-azure-1029745663"
+excerpt: "PRNewswire/ -- Lindsay Corporation (NYSE: LNN), a leading global manufacturer and distributor of irrigation and infrastructure equipment and technology, today announced the development of intelligent digital solutions using Microsoft Azure to enhance irrigation management,"
+publishedDateTime: 2020-10-30T10:45:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-transportation-equipment-manufacturing-corporate-news-environment-and-nature-734d597e03cb3667b0d8a9f1c5008832"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-transportation-equipment-manufacturing-corporate-news-environment-and-nature-734d597e03cb3667b0d8a9f1c5008832"
 type: article
-quality: 48
+quality: 28
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Azure
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "WhiteSource Launches Extension For Microsoft Azure DevOps Services"
@@ -65,6 +67,6 @@ related:
         height: 450
         isCached: true
 
-secured: "xGoGGMWTZUubz2alx6yfktjOUE+uuDT0fkRTJ0VXsL+e8p07m+qNiXz+2zjuD2wrFqFiQ31ZM5IuirkssAaNwbTB/sJ9ZxzKuUnwgBM+gl8SZ5Ttjg8XWEC+1eMIRORS84IvCtWUgkAIiqiIT+JjrVnNzD5t2UaRY4M48dQKojujRU6UGVsiX/JlMxaY+XsOAodwoFL6AhuuEKPt/8WZh0RW4DHVu/Wsw202jTsbrAjrZTYSw0qceqCntpOv3/A/2wx5HoBvojUxXi0lgaMmuoL11YklttcKz5kAqFaGjodRiOM59KIpofoFsNBLFQvcrtwSPl5lC4KYsE3+nTuMq5BgMNev+SGFZ8QtJMUgtQQ=;aiFoyEaQuaCu1mDaUfb/RA=="
+secured: "S01URlrrbiou5pz2MOFv5SZ6zZbRD5iC5eoynwEmZi70RireCwKqgRoQnfZjOkpSXAkUxJl09/JAYjFxXtwRUP4jX0kDzrq/Oy/14z2MntEoDWnWNVKTxTGxRLP344ZaNSK6YV0+npfN7hqpW1O3Bho4d4f929RprwowQ8uqUkt3M/OZyTu+RrPipIYSmYeRAd86kxw83CB89SkfexmLtSKb5diEHXGkn7BLPxEJPHkmQ4CRkVq0XXQayQ7KwtmdfUdTpGbambwcvSD7aQeQGRMKuHIy8vlJOdy3J0fq32cOxuTMJRiCyY/91Ct2rRgzsPiCOH35GlR9EW6/CqFxDBN2JzLYgvsUztXTrZASeYQ=;aJDiVwpQ+m5F+7/1gUwsUg=="
 ---
 

@@ -3,10 +3,10 @@ category: news
 title: "Microsoft cloud business gathers steam as pandemic boosts growth"
 excerpt: "Microsoft Corp's <MSFT.O> cloud computing business slightly re-accelerated and its Teams messaging and collaboration software won new users, as a pandemic-driven shift to working from home and online learning drove quarterly results ahead of investor targets."
 publishedDateTime: 2020-10-28T11:41:00Z
-originalUrl: "https://www.reuters.com/article/us-microsoft-results/microsoft-cloud-business-gathers-steam-as-pandemic-boosts-growth-idUSKBN27C2YV"
-webUrl: "https://www.reuters.com/article/us-microsoft-results/microsoft-cloud-business-gathers-steam-as-pandemic-boosts-growth-idUSKBN27C2YV"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27C2Z1"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27C2Z1"
+originalUrl: "https://www.reuters.com/article/us-microsoft-results-idUSKBN27C2YV"
+webUrl: "https://www.reuters.com/article/us-microsoft-results-idUSKBN27C2YV"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27C2YV"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27C2YV"
 type: article
 quality: 82
 heat: -1
@@ -362,6 +362,6 @@ related:
         height: 627
         isCached: true
 
-secured: "OONuIqDFWU5KbOpXzCT9/iM1VU3YwlSRZLFn+nz5KsjZttq6EqYDd3FInsyhicS+gp0NcRRiV390Orj9MSjhChz3TZS0aQpP0zTpqGszTiQq/qJph1+JXY/wMV/fVv9qG9pmXNHzZ1SntG2Ec+niAUxSa08pV4o6ab8ZP0wW7rsNvy+EcG+RJQzm+61PRvfKgZzKbxdyIhLCrZjduNSIcp04PUZ2754hWoleYte3Q12Xm8Os1o4tNR5fqRZ8Teio/7/wFfPG6qS9WivU59llsdfVPYpqksy/leYAqyd52CBgyMAJg+OyjyWPZzaS9Nl1DNiUa5OWMoroHMFLuc6JXwlrdlYQn3n6YNVxCDr5zS0=;XumtIlfRR19TFEMH9hxuGQ=="
+secured: "ws6KstUcZgMqSXlMWtYiTmxlUj69Ck069klWjHVXqXOmrx6I048HEjwUZGFXr2hHqJQmKwhnVIdSK9ROZ33micQHG/Wh7ZUEhv4g3Cc0SvwkPHyLmxnxisTtYoDmWE9qVrjcslTX7XP1TK0qnESGHVXxzAUZVqNWHcJAdSWkjQgwYMS22l1fiGTKKCWwsTP0F1hwvRtknezDY2dZ4j1dbaZSoVqnEGIRVFDEwSLsACCuST/R8pnKQZuSNcXE3LYsue7QW4UEyKb+i/S11K8wFwL56qLl5xl01yaISigLsM8rS0lohAXSjwYUh5Igxs+dO89xRXKW5hlUtD/TIT3H5ya3DSx/sbUNsfPtk0vZMuQ=;LUutuYGjOcdowvmMxgJEeQ=="
 ---
 

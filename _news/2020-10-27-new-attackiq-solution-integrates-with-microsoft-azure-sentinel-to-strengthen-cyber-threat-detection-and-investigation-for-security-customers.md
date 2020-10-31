@@ -54,14 +54,19 @@ related:
         height: 806
         isCached: true
   - title: "Lindsay to Develop Sustainable and Profitable Solutions for Growers using Microsoft Azure"
-    excerpt: "Lindsay will utilize Microsoft Azure IoT Edge and Azure Machine Learning for edge-of-field computing, artificial intelligence and machine learning solutions. Collaboration will result in complete ..."
-    publishedDateTime: 2020-10-30T10:51:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/lindsay-to-develop-sustainable-and-profitable-solutions-for-growers-using-microsoft-azure-1029745663"
+    excerpt: "PRNewswire/ -- Lindsay Corporation (NYSE: LNN), a leading global manufacturer and distributor of irrigation and infrastructure equipment and technology, today announced the development of intelligent digital solutions using Microsoft Azure to enhance irrigation management,"
+    publishedDateTime: 2020-10-30T10:45:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-transportation-equipment-manufacturing-corporate-news-environment-and-nature-734d597e03cb3667b0d8a9f1c5008832"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 48
+      name: Associated Press
+      domain: apnews.com
+    quality: 28
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "vLK4Uaj40uLmahu4w5QnIAjz8ftUo5X+kgL7lujWyP1EDgk0/SxOVFqxVk8MeJcpeRRIl+mRvNe/ejQsCEFMKhck0YE6zHBx+9hoi1FgOCNCxc9L93GhTLBOaDW0zuHNLCwMs7ktaCwXOa1S/yWvJ04BZtZlgLBT22f7u3qjDOk4UGehSbjEh2KWjCAgueFMZ+UQsl5d/cbj0H/Zpt/6/KdEBZODgLmfw6UVrI829hPLGQMTemkEDFUgKjomzIe/aq/QL3CpxcDIvHzLrhIwdx6+huReGeKvEpCoQ43aRLHyswJ0w3prBH+m7M5jaVwz0FnVjUZmME80nRUDd4eIcVV5yo1x7+iQq2BLWVxbxgo=;7SOlZRgOajOSw3xZYhUAvQ=="
 ---
