@@ -1,26 +1,26 @@
 ---
 category: news
-title: "Microsoft Azure to build its first cloud data center region in Taiwan"
-excerpt: "Microsoft Corp. said today it’s planning to expand into Taiwan with a new cloud data center region. It will also make a “significant investment” in the territory’s local talent, with the aim of developing the digital skills of more than 200,"
-publishedDateTime: 2020-10-27T20:43:00Z
-originalUrl: "https://siliconangle.com/2020/10/27/microsoft-azure-build-first-cloud-data-center-region-taiwan/"
-webUrl: "https://siliconangle.com/2020/10/27/microsoft-azure-build-first-cloud-data-center-region-taiwan/"
+title: "SAP Solutions and Microsoft Azure combine efforts to drive forward business growth across the Middle East and Africa"
+excerpt: "Microsoft announced the availability of SAP workloads in the UAE data centre region at the Middle East and Africa Edition of the SAP Solutions on Microsoft Azure Virtual Event. The goal is to propel the cloud ecosystem in the region by empowering organizations to run their SAP workloads on Microsoft Azure."
+publishedDateTime: 2020-10-31T18:38:00Z
+originalUrl: "https://menafn.com/1101047490/SAP-Solutions-and-Microsoft-Azure-combine-efforts-to-drive-forward-business-growth-across-the-Middle-East-and-Africa&source=29"
+webUrl: "https://menafn.com/1101047490/SAP-Solutions-and-Microsoft-Azure-combine-efforts-to-drive-forward-business-growth-across-the-Middle-East-and-Africa&source=29"
 type: article
-quality: 37
+quality: 14
 heat: -1
 published: false
 
 provider:
-  name: SiliconANGLE
-  domain: siliconangle.com
+  name: Middle East North Africa Financial Network
+  domain: menafn.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/10/taiwan-3973014_1280.jpg"
-    width: 1280
-    height: 720
+  - url: "https://menafn.com/updates/pr/2020-10/31/pr_2288_69ab30c5_image_story.jpg"
+    width: 1200
+    height: 628
     isCached: true
 
 related:
@@ -267,6 +267,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Microsoft Azure to build its first cloud data center region in Taiwan"
+    excerpt: "Microsoft Corp. said today it’s planning to expand into Taiwan with a new cloud data center region. It will also make a “significant investment” in the territory’s local talent, with the aim of developing the digital skills of more than 200,"
+    publishedDateTime: 2020-10-27T20:43:00Z
+    webUrl: "https://siliconangle.com/2020/10/27/microsoft-azure-build-first-cloud-data-center-region-taiwan/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 37
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/10/taiwan-3973014_1280.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Microsoft Joins MEF To Bolster Azure for Operators Services"
     excerpt: "\"Microsoft's decision to join MEF aligns with key goals of our Microsoft Azure for Operators initiative to bring the power of the cloud to the network, unlock the potential of 5G, and drive down ..."
     publishedDateTime: 2020-10-27T22:53:00Z
@@ -357,20 +371,6 @@ related:
       name: Telecompaper
       domain: telecompaper.com
     quality: 17
-  - title: "SAP Solutions and Microsoft Azure combine efforts to drive forward business growth across the Middle East and Africa"
-    excerpt: "Microsoft announced the availability of SAP workloads in the UAE data centre region at the Middle East and Africa Edition of the SAP Solutions on Microsoft Azure Virtual Event. The goal is to propel the cloud ecosystem in the region by empowering organizations to run their SAP workloads on Microsoft Azure."
-    publishedDateTime: 2020-10-31T18:38:00Z
-    webUrl: "https://menafn.com/1101047490/SAP-Solutions-and-Microsoft-Azure-combine-efforts-to-drive-forward-business-growth-across-the-Middle-East-and-Africa&source=29"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 14
-    images:
-      - url: "https://menafn.com/updates/pr/2020-10/31/pr_2288_69ab30c5_image_story.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "BDO Expands its Managed Detection and Response Capabilities to Support Microsoft Azure Sentinel Clients and Becomes a Microsoft Intelligent Security Association Member"
     excerpt: "BDO USA, LLP, one of the nation’s leading accounting and advisory firms, is launching its managed detection and response (MDR) capabilities on Microso"
     publishedDateTime: 2020-10-26T21:22:00Z
@@ -386,6 +386,6 @@ related:
         height: 627
         isCached: true
 
-secured: "ccWtMS79yH//5mQ0a1Tazxosi8WdhWSlq0qRbZuuemWkvj3sxNou+zlfEwyER+nNm+pfSERVZah718OhdUDD6OV8UEBUMhBxMJwCoJGnhU4wzMwoI+qzzBsivabUAqQ+2Xz41uJ1l84MjVGNuFa2FaJaEv5JUvpG4ljiJbPQRxumWF7g4fKYJqwPHyW9FLudn06eaXv3bhhV3MFZZ+2YngwZYH/Wq1x12onZZeThZbZYjrUrncATeYEQ9CZLvG9utLLu1FM5hdXmAWazjlP3R13IOq/qQhZ7hLctg/9zQRgZPIdzKF9tM6i/UkZdRp+PxagobChmKQ5pGQyeCUibVAEMcydEpvKNawdbSaPRFWL8rTpj0QGactHpmv0/bfmuSsyqRvvQZ4DJNURPoyECoLwxZJhFXpHPcJ0AOumdCfkBOLdfRvVGzDOABN9k+uJVkvGwlG6/lJW6QD9Y3XIfzZp3yrR9kmwth74dhITlKCRgiG+VADgXgY9gLoKm/xdOQCDtRyHY6Giw4kk3LAcmVA==;PwNe13zKQ+N9xmKsRy6mTw=="
+secured: "MYtB3sh/9PF9Aj/A+8jeIjArIBRK9VT2uXknZ4Gu8MTENASc1PmWQpoQ5v/4FWNEWYWLWDOitUgP7Dy+ZwBFapKubzp+12bBqivEX6QDEjQRzLGJo7FxA3BMePRtQxCo8IGN7Kkr6LYcg92vbarZGvvIk5hBLc7F2OQc/g/IwbTJOqFloGdjaScMJCf+3VxASx9lWeajS5BLV4fu/Ehq6MY90DghancXY0trLwsVADEZ/AQBIrj4i9NOauScrhOwANQrbjkCZM+/7tDfYpBjdGynBH9RhdkJIVfP9giKm3pCfNKWplFbkVdKQEF7KLaq4o3ljHkUlHqARGkWfZSn+7iBK+a72dww/3eyg/gXGGo=;/J6OLCVQpXf3myi4D9x9sw=="
 ---
 

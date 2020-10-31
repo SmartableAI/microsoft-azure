@@ -1,12 +1,12 @@
 ---
 category: news
-title: "Microsoft Azure to build its first cloud data center region in Taiwan"
-excerpt: "Microsoft Corp. said today it’s planning to expand into Taiwan with a new cloud data center region. It will also make a “significant investment” in the territory’s local talent, with the aim of developing the digital skills of more than 200,"
-publishedDateTime: 2020-10-27T20:43:00Z
-originalUrl: "https://siliconangle.com/2020/10/27/microsoft-azure-build-first-cloud-data-center-region-taiwan/"
-webUrl: "https://siliconangle.com/2020/10/27/microsoft-azure-build-first-cloud-data-center-region-taiwan/"
+title: "Analysis: In an epic pivot to the cloud, Microsoft makes Azure the linchpin of its future"
+excerpt: "Microsoft Corp.’s Azure cloud computing service is the linchpin of the tech giant’s innovation strategy. As we reported last week, we believe that in the next decade, changes in public policy will restrict the way in which big internet companies are able to appropriate user data."
+publishedDateTime: 2020-10-31T18:43:00Z
+originalUrl: "https://siliconangle.com/2020/10/31/analysis-epic-pivot-cloud-microsoft-makes-azure-linchpin-future/"
+webUrl: "https://siliconangle.com/2020/10/31/analysis-epic-pivot-cloud-microsoft-makes-azure-linchpin-future/"
 type: article
-quality: 37
+quality: 28
 heat: -1
 published: false
 
@@ -18,9 +18,9 @@ topics:
   - Azure
 
 images:
-  - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/10/taiwan-3973014_1280.jpg"
-    width: 1280
-    height: 720
+  - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/10/AdobeStock_321471082_Editorial_Use_Only-1024x576.jpg"
+    width: 1024
+    height: 576
     isCached: true
 
 related:
@@ -267,6 +267,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Microsoft Azure to build its first cloud data center region in Taiwan"
+    excerpt: "Microsoft Corp. said today it’s planning to expand into Taiwan with a new cloud data center region. It will also make a “significant investment” in the territory’s local talent, with the aim of developing the digital skills of more than 200,"
+    publishedDateTime: 2020-10-27T20:43:00Z
+    webUrl: "https://siliconangle.com/2020/10/27/microsoft-azure-build-first-cloud-data-center-region-taiwan/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 37
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/10/taiwan-3973014_1280.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Microsoft Joins MEF To Bolster Azure for Operators Services"
     excerpt: "\"Microsoft's decision to join MEF aligns with key goals of our Microsoft Azure for Operators initiative to bring the power of the cloud to the network, unlock the potential of 5G, and drive down ..."
     publishedDateTime: 2020-10-27T22:53:00Z
@@ -325,20 +339,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Analysis: In an epic pivot to the cloud, Microsoft makes Azure the linchpin of its future"
-    excerpt: "Microsoft Corp.’s Azure cloud computing service is the linchpin of the tech giant’s innovation strategy. As we reported last week, we believe that in the next decade, changes in public policy will restrict the way in which big internet companies are able to appropriate user data."
-    publishedDateTime: 2020-10-31T18:43:00Z
-    webUrl: "https://siliconangle.com/2020/10/31/analysis-epic-pivot-cloud-microsoft-makes-azure-linchpin-future/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 28
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/10/AdobeStock_321471082_Editorial_Use_Only-1024x576.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Microsoft Azure: The Winning Formula"
     excerpt: "Microsoft's Azure platform registered a 59% revenue growth in the last quarter, fueling concerns of a slowdown and suggesting its losing ground to Amazon's AWS."
     publishedDateTime: 2020-05-28T12:36:00Z
@@ -386,6 +386,6 @@ related:
         height: 627
         isCached: true
 
-secured: "ccWtMS79yH//5mQ0a1Tazxosi8WdhWSlq0qRbZuuemWkvj3sxNou+zlfEwyER+nNm+pfSERVZah718OhdUDD6OV8UEBUMhBxMJwCoJGnhU4wzMwoI+qzzBsivabUAqQ+2Xz41uJ1l84MjVGNuFa2FaJaEv5JUvpG4ljiJbPQRxumWF7g4fKYJqwPHyW9FLudn06eaXv3bhhV3MFZZ+2YngwZYH/Wq1x12onZZeThZbZYjrUrncATeYEQ9CZLvG9utLLu1FM5hdXmAWazjlP3R13IOq/qQhZ7hLctg/9zQRgZPIdzKF9tM6i/UkZdRp+PxagobChmKQ5pGQyeCUibVAEMcydEpvKNawdbSaPRFWL8rTpj0QGactHpmv0/bfmuSsyqRvvQZ4DJNURPoyECoLwxZJhFXpHPcJ0AOumdCfkBOLdfRvVGzDOABN9k+uJVkvGwlG6/lJW6QD9Y3XIfzZp3yrR9kmwth74dhITlKCRgiG+VADgXgY9gLoKm/xdOQCDtRyHY6Giw4kk3LAcmVA==;PwNe13zKQ+N9xmKsRy6mTw=="
+secured: "G2QoNZ4GadZtg4A8Ded4UTp2b6mDTxwheMblR7LHruw4zp2DFJ2BiVQnGy5rfQHEVUm3q1EmVP4YccF3VX02VBVQFtPVz00PwXJjmFgSOrkvlHM+ukO7svkqGumuvCUq464Gh89lKacEbdj5q5Ya1Q1QWGdyOiMp9j5SmCS6Fi5sgCAkL37hNW//V9rUakqi1Ldtkdf89pBN4F98+9SlFdhACsXRI1Pl3UvlTPumm4GVvyPd4rbfwz4cII17Rq+UY87G5Rb6egQDQI/uM5nlblnLbBSmAQUNqtNgr67Oxpqvc4tdzaxNMud6/ud1nKSXAXtIpT7MuSC6ZDyVJTBcK6w9FQHy7u1yabSvFYUUJRk=;dx4ea5M+GLsrDYROVP/eEg=="
 ---
 
