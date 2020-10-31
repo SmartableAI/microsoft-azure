@@ -3,10 +3,10 @@ category: news
 title: "Microsoft cloud business gathers steam as pandemic boosts growth"
 excerpt: "Microsoft Corp's <MSFT.O> cloud computing business slightly re-accelerated and its Teams messaging and collaboration software won new users, as a pandemic-driven shift to working from home and online learning drove quarterly results ahead of investor targets."
 publishedDateTime: 2020-10-28T11:41:00Z
-originalUrl: "https://www.reuters.com/article/us-microsoft-results-idUSKBN27C2YV"
-webUrl: "https://www.reuters.com/article/us-microsoft-results-idUSKBN27C2YV"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27C2YV"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27C2YV"
+originalUrl: "https://www.reuters.com/article/us-microsoft-results/microsoft-cloud-business-gathers-steam-as-pandemic-boosts-growth-idUSKBN27C2YV"
+webUrl: "https://www.reuters.com/article/us-microsoft-results/microsoft-cloud-business-gathers-steam-as-pandemic-boosts-growth-idUSKBN27C2YV"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27C2Z1"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27C2Z1"
 type: article
 quality: 82
 heat: -1
@@ -362,6 +362,6 @@ related:
         height: 627
         isCached: true
 
-secured: "hHy6XpmHBe8eYStNqMNsL8gjkr6jUHsHNAoipeJrx3DiVefbv8+XSKveqIzqSqFyTwYPo/nGB6cotLdHU23HblTr/YdIhzMPlTVXcku5F/AG54R2FddbRnc53oIhaxjuTJALnqersRcLqgFadeqWXDAUnuu8Swu5rze8H8r7zd93DDt+D25KJWLzjpt66PuxCpBeI+x65VAv+YFOeIVPM9Z7mNVvAJtkweupYh8b5kMVUqqSr10/IpUovqxw8ab8Tvv1mhVbq0LEBCw/C8NFes8brVdTC+Cu1escF+Vp/pZEuT5FtUcxgmVn+cXVW8E7SNEU8LyJecc/bj03QsPbmjvAsTBc7LXUSgTb8o8utWE=;Q71VFnyQdFHhlTM5++IjJQ=="
+secured: "ZEOzx+4Orewnmqv99Fce0NuxLb3x0JQQi6aGxTfxNacaeSb28aK6p85RQ1CJQOMhlEDM3ugymHsC+w392e2GggxnjEwPxKpjnekX5XTpL1MxOz9Qzv0Qwc77ZTZ3gIUmF90jEcEnMVAdNLB//2LQ5PxDRzk4iLZF/Q2PVk6vMnV+iaekbvPw+hQxDcf8774Clm6Pg7NgWUl2nGF67vrqcjz01evfYXiQ9Gj19EHQjhuBiUjTYSABClOuj3bSzo+PoYi4R49y7SUJ1akIvQa7e6qN4IF3kzFlKo54ShwXK2LHRXyTeHFgOMFd9LuN3fmRBaPxZbnWtKM5HHJgIhOQZ+2xtMGS5tWe+TvEMEMVBIY=;RfGKFmZYPyejiuike5JCNg=="
 ---
 
