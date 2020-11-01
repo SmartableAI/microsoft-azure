@@ -49,6 +49,22 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "This Microsoft Azure training is just $30 today"
+    excerpt: "Save hundreds on six eBooks and over 15 hours of video instruction that make it easy to learn Azure on your schedule. Microsoft Azure is a leading cloud computing platform in today's business world, and it looks like it might even become the cloud solution ..."
+    publishedDateTime: 2020-11-01T18:56:00Z
+    webUrl: "https://www.engadget.com/microsoft-azure-training-185539651.html"
+    ampWebUrl: "https://www.engadget.com/amp/microsoft-azure-training-185539651.html"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/microsoft-azure-training-185539651.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 97
+    images:
+      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-10%2F47c223f0-1a30-11eb-bfcc-397b6cf949f5&client=amp-blogside-v2&signature=6bd3014097453f6d1cd13d03fdfc05b682bb5fe2"
+        width: 600
+        height: 350
+        isCached: true
   - title: "Microsoft's commercial cloud continues to hum with Azure sales up 48% in Q1"
     excerpt: "Microsoft's first quarter sales fell short of expectations, but earnings were well ahead. Commercial cloud revenue was $15.2 billion, up 31% from a year ago. Commercial cloud reve"
     publishedDateTime: 2020-10-27T20:27:00Z

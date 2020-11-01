@@ -1,20 +1,22 @@
 ---
 category: news
-title: "The Essential Starter’s Guide to Microsoft Azure for IT Leaders"
-excerpt: "Cloud consumption is on the rise as enterprise organizations and small-and-medium businesses alike shift larger portions of their IT spend toward cloud infrastructure and services like Microsoft Azure."
-publishedDateTime: 2020-10-28T06:31:00Z
-originalUrl: "https://www.infoworld.com/resources/209761/the-essential-starter-s-guide-to-microsoft-azure-for-it-leaders"
-webUrl: "https://www.infoworld.com/resources/209761/the-essential-starter-s-guide-to-microsoft-azure-for-it-leaders"
+title: "This Microsoft Azure training is just $30 today"
+excerpt: "Save hundreds on six eBooks and over 15 hours of video instruction that make it easy to learn Azure on your schedule. Microsoft Azure is a leading cloud computing platform in today's business world, and it looks like it might even become the cloud solution ..."
+publishedDateTime: 2020-11-01T18:56:00Z
+originalUrl: "https://www.engadget.com/microsoft-azure-training-185539651.html"
+webUrl: "https://www.engadget.com/microsoft-azure-training-185539651.html"
+ampWebUrl: "https://www.engadget.com/amp/microsoft-azure-training-185539651.html"
+cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/microsoft-azure-training-185539651.html"
 type: article
-quality: 77
+quality: 97
 heat: -1
 published: false
 
 provider:
-  name: InfoWorld
-  domain: infoworld.com
+  name: Engadget
+  domain: engadget.com
   images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/infoworld.com-50x50.jpg"
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/engadget.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -22,9 +24,9 @@ topics:
   - Azure
 
 images:
-  - url: "https://idge.staticworld.net/ifw/IFW_logo_social_300x300.png"
-    width: 300
-    height: 300
+  - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-10%2F47c223f0-1a30-11eb-bfcc-397b6cf949f5&client=amp-blogside-v2&signature=6bd3014097453f6d1cd13d03fdfc05b682bb5fe2"
+    width: 600
+    height: 350
     isCached: true
 
 related:
@@ -59,22 +61,6 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2020/10/GettyImages-1152031669.jpg?w=1024"
         width: 1024
         height: 682
-        isCached: true
-  - title: "This Microsoft Azure training is just $30 today"
-    excerpt: "Save hundreds on six eBooks and over 15 hours of video instruction that make it easy to learn Azure on your schedule. Microsoft Azure is a leading cloud computing platform in today's business world, and it looks like it might even become the cloud solution ..."
-    publishedDateTime: 2020-11-01T18:56:00Z
-    webUrl: "https://www.engadget.com/microsoft-azure-training-185539651.html"
-    ampWebUrl: "https://www.engadget.com/amp/microsoft-azure-training-185539651.html"
-    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/microsoft-azure-training-185539651.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 97
-    images:
-      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-10%2F47c223f0-1a30-11eb-bfcc-397b6cf949f5&client=amp-blogside-v2&signature=6bd3014097453f6d1cd13d03fdfc05b682bb5fe2"
-        width: 600
-        height: 350
         isCached: true
   - title: "Microsoft's commercial cloud continues to hum with Azure sales up 48% in Q1"
     excerpt: "Microsoft's first quarter sales fell short of expectations, but earnings were well ahead. Commercial cloud revenue was $15.2 billion, up 31% from a year ago. Commercial cloud reve"
@@ -123,6 +109,20 @@ related:
       - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201027&t=2&i=1539032539&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9Q1W3"
         width: 817
         height: 545
+        isCached: true
+  - title: "The Essential Starter’s Guide to Microsoft Azure for IT Leaders"
+    excerpt: "Cloud consumption is on the rise as enterprise organizations and small-and-medium businesses alike shift larger portions of their IT spend toward cloud infrastructure and services like Microsoft Azure."
+    publishedDateTime: 2020-10-28T06:31:00Z
+    webUrl: "https://www.infoworld.com/resources/209761/the-essential-starter-s-guide-to-microsoft-azure-for-it-leaders"
+    type: article
+    provider:
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 77
+    images:
+      - url: "https://idge.staticworld.net/ifw/IFW_logo_social_300x300.png"
+        width: 300
+        height: 300
         isCached: true
   - title: "Unisys CloudForte® for Microsoft Azure: Ease Complex Cloud Adoption for Governments"
     excerpt: "Learn how Unisys and Microsoft improve and optimize government services in the cloud through their digital transformation partnership."
@@ -420,6 +420,6 @@ related:
         height: 627
         isCached: true
 
-secured: "lF/FkLWjU5s3a0PHV28CKtyqH5EKyS2l657ccuVqdfE+1Zd8wmCDRaxuhsoVCCjVV/hIsfDS2Tb0xUb0e4htWzY/CuMfuW6zYGsVOpSR0b/WRnGPVGLS7ze3E4x4s0Y4NkfTZDB7Ra8Cbf89jPT+j1qHUu6uUehQvHYQUPcW82f/oXPmdoqqpBR1peyyZAiMbRjCpjNT4LHT/2dfYmM2wQvoep/EWPav8niMHsLmQjDfOjoIMypY3SVpdxFYIotPwjtjPdZWhELlEN+J2eFT2n8q1X2/zt7d4CVlVzq5VsMnZOO5dQQsaYGLgjz7rB8cN4HNYBUtr62WSOYJwnCYkIoyVdotdx3RU9kBI/etLOk=;W4+NDBox4Nba4ZamYXcrxQ=="
+secured: "lQ3p7Z7p6+upQuSIXQu4qPK17FjBlfm6SiPsbaUZUAZOUNhktH6V4NwANJSLmYGdVkgrwVACfv80aeJrwEC60H7c5lRIlhkw4IboicltNOJB2oiFJw2jLxN7cUe1CcGR9Rib+CeDdYAqy9F7uSsX9xxOQrRj0drfGFXJIOe5EaGkiKNoWW2nzHDr0HkE8nbeu9P15IiOQAsx9/4l1Dgbp8q4FhFIVd6JVp7IrxnUj1sj0Ug0z7A+4fL8IQpu1uB4ZSDuuokeXuOkVVzq1UxqIeFLZxyYAilr82AB9MXT1scuhTExXzLWmYD3SzOXSFwGWMO8ofP9UvQkgjxZTWELxd/cqLPRLUYp/3LigoJiWSg=;XtPETBTQiYQUfuGH/AbfOg=="
 ---
 
