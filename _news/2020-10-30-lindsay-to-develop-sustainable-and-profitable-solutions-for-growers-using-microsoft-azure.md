@@ -66,6 +66,15 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "HYAS Joins the Microsoft Intelligent Security Association (MISA), Integrates HYAS Insight with Microsoft Azure Sentinel"
+    excerpt: "HYAS joins Microsoft Intelligent Security Alliance (MISA) and has integrated HYAS Insight threat intelligence solution with Microsoft Azure Sentinel."
+    publishedDateTime: 2020-10-28T12:45:00Z
+    webUrl: "https://www.businesswire.com/news/home/20201028005031/en/HYAS-Joins-the-Microsoft-Intelligent-Security-Association-MISA-Integrates-HYAS-Insight-with-Microsoft-Azure-Sentinel/?feedref=Zd8jjkgYuzBwDixoAdXmJgT1albrG1Eq4mAeVP39210hJvfF05B5fk8fgV08Rp7eevRMp3sIgu8q3wq1OF24lT93qbEzrwa15HGbLqMObxYB6IekXemGUNFauMeV8-aC2uKCrP6Vchv2JCmX-IB07A=="
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 10
 
 secured: "m/sk+6/wKE8J8V3kaYn1TQyI9b0GsIW808wd08aORaypzDX5onhZaYg9+bLB1841INw9gSkV3Hl60+9qEF4pqfDKif5AsczPApRtGfQA55viibMd1aGANjZ9FlxCY/8AoO+8n8++ilAj6Qz+ucOiZrYwIEOLRnk6BL3FhZfYUPcp4PFSFnWycAY18rvRaIVbQwDaPPFdif2oSNUJapnghST+TvKCUxqLMkJSWHoXxU2iDFYGADhVDCcC18VQNhmXx4NaNuqsbA682LtBPAY8jYa2h4RjgQOgR3or4fWI+0mOvqR3Yei0dEcomu2+gnTLiYip1ZTxlBcmvdsDcp1+S+fXCxAoboQGiSORDb9bXAI=;B1hS7oihuBqdlK5KfgYClw=="
 ---
