@@ -30,15 +30,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
-  - title: "Azure Automation is now available in Switzerland North region"
-    excerpt: "Create, monitor, deploy, and maintain resources in your Azure, on-premises, and third-party hybrid cloud environments using highly scalable and reliable process automation and state configuration engines.\n"
-    publishedDateTime: 2020-10-29T16:00:09Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-automation-in-switzerland-north-region/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 67
   - title: "Azure Media Services is now available in Switzerland and Germany"
     excerpt: ""
     publishedDateTime: 2020-05-20T16:00:28Z

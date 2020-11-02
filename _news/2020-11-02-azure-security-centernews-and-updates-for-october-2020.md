@@ -1,12 +1,12 @@
 ---
 category: news
-title: "Azure API Management updates- October 2020"
-excerpt: "Regular Azure API Management service updates including new features, bug fixes, changes and other improvements."
-publishedDateTime: 2020-10-22T16:00:15Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/azure-api-management-updates-october-2020/"
-webUrl: "https://azure.microsoft.com/en-us/updates/azure-api-management-updates-october-2020/"
+title: "Azure Security Center—News and updates for October 2020"
+excerpt: "New enhancements and updates made to Azure Security Center in October 2020."
+publishedDateTime: 2020-11-02T17:00:02Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/asc-october2020/"
+webUrl: "https://azure.microsoft.com/en-us/updates/asc-october2020/"
 type: article
-quality: 84
+quality: 99
 heat: -1
 published: false
 
@@ -20,7 +20,7 @@ provider:
 
 topics:
   - Azure
-  - Integration
+  - Security
 
 related:
   - title: "Azure Cost Management and Billing updates – October 2020"
@@ -37,15 +37,6 @@ related:
         width: 1024
         height: 508
         isCached: true
-  - title: "Azure Security Center—News and updates for October 2020"
-    excerpt: "New enhancements and updates made to Azure Security Center in October 2020."
-    publishedDateTime: 2020-11-02T17:00:02Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/asc-october2020/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 99
   - title: "Azure Cost Management + Billing updates – April 2020"
     excerpt: "Whether you're a new student, thriving startup, or the largest enterprise, you have financial constraints and you need to know what you're spending, where, and how to plan for the future. Nobody wants a surprise when it comes to the bill, and this is where Azure Cost Management + Billing comes in.\r\n\r\nWe're"
     publishedDateTime: 2020-04-30T11:00:08Z
@@ -74,6 +65,15 @@ related:
         width: 1385
         height: 831
         isCached: true
+  - title: "Azure API Management updates- October 2020"
+    excerpt: "Regular Azure API Management service updates including new features, bug fixes, changes and other improvements."
+    publishedDateTime: 2020-10-22T16:00:15Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-api-management-updates-october-2020/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
   - title: "Azure Site Recovery update rollup 51 - October 2020"
     excerpt: "The latest Azure Site Recovery update provides provides fixes, updated Linux support for the Mobility service, and download links for Site Recovery components."
     publishedDateTime: 2020-10-22T17:00:10Z
@@ -138,6 +138,6 @@ related:
       domain: microsoft.com
     quality: 68
 
-secured: "GAr1Pw5ey8Ber5nEfNmEzdwOdrZns6YrejonCOLZNO0wsZ4nfC8F2ySP6AZIbvCCT7ymBBBEzpxBpBwzcyiyTv9XAZWkAzq69d0Ku+6koPP84aJtSxTvAm7CL02hjDf3w4xr00XTUGFpX25p5J32tzCW5h0Pgd+BW2iPmzyO8l10LKygfVPLLxlbhdlQrHzL50lbyag++fTx0ph4+aKpCvCtYDjCGTyFv+5S1j0R60cjprxq6GQdiRWAIlkGVz5UDwpSgg/j5SW3nl0Lunnvimpu8CIfH0MJsPfFxh3EG/Sx1wrpE0PWcE/bMahNTx8RMpk9wbfK3K45w5OatIstuBVfcAEuNQaAIagSlcoP5uM=;BFSO67wrW30d8mDbCjhXug=="
+secured: "ZZYt6Dlaq3embuwqSTMPUqzheqyX3W5cnH4NeJSvE89JF1hcko6XPM7H6on1uJ6k2HthS2p7hP/Q39+lg7sWvPJMg5prLYeItbEqXA7VHskPw+7Koq1DwJ2j9jCghy/ZB2grU+GHTbAMFaq/uFvYQIiHS8vKZAZ2evU7LthRxfMKOxeAeanALYpvfEgwBc90t8m00rE+7+16uaCk3ZGv0Bjy3BkVsJmNnwehOzo/FIQTNqH4anaja0YBdkOk7++B2gFRZWjEfGliYdQkaVG7wHIXzhY6JvP+UbWe/M8Am2dG8WivClb/b1t0XMniwFZGwEnlE3/ov/l8wpLKD0l58P/EMkEU+1U+6TrxT2SG8VE=;JjoUKhKaxTnxNyUWunU+Jg=="
 ---
 

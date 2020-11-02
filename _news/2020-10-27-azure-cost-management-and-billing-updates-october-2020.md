@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/azure-cost-management-billing-upd
 webUrl: "https://azure.microsoft.com/blog/azure-cost-management-billing-updates-october-2020/"
 type: article
 quality: 103
-heat: 303
+heat: 323
 published: true
 
 provider:
@@ -36,6 +36,15 @@ images:
     isCached: true
 
 related:
+  - title: "Azure Security Center—News and updates for October 2020"
+    excerpt: "New enhancements and updates made to Azure Security Center in October 2020."
+    publishedDateTime: 2020-11-02T17:00:02Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/asc-october2020/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 99
   - title: "Azure Cost Management + Billing updates – April 2020"
     excerpt: "Whether you're a new student, thriving startup, or the largest enterprise, you have financial constraints and you need to know what you're spending, where, and how to plan for the future. Nobody wants a surprise when it comes to the bill, and this is where Azure Cost Management + Billing comes in.\r\n\r\nWe're"
     publishedDateTime: 2020-04-30T11:00:08Z

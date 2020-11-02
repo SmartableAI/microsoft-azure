@@ -47,6 +47,15 @@ related:
         width: 1024
         height: 508
         isCached: true
+  - title: "Azure Security Center—News and updates for October 2020"
+    excerpt: "New enhancements and updates made to Azure Security Center in October 2020."
+    publishedDateTime: 2020-11-02T17:00:02Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/asc-october2020/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 99
   - title: "Azure Cost Management + Billing updates – July 2020"
     excerpt: "July introduces new options to drill into your cost data, save on Azure VMs and Data Lake storage, as well as new videos for even more cost-saving tips and tricks. "
     publishedDateTime: 2020-07-29T10:00:28Z

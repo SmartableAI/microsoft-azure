@@ -50,20 +50,6 @@ related:
         width: 1536
         height: 806
         isCached: true
-  - title: "New AttackIQ Solution Integrates with Microsoft Azure Sentinel to Strengthen Cyber Threat Detection and Investigation for Security Customers"
-    excerpt: "Building on its announcement of the Preactive Security Exchange (PSE) recently, AttackIQ Ⓡ today announced its integration between the Microsoft Azure Sentinel cloud-native security information and event manager (SIEM) platform and the AttackIQ Security Optimization Platform."
-    publishedDateTime: 2020-10-27T12:00:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-cybercrime-crime-4bbfcfa0841b4eccb3358b52cb46a4e0"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 19
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "HYAS Joins the Microsoft Intelligent Security Association (MISA), Integrates HYAS Insight with Microsoft Azure Sentinel"
     excerpt: "HYAS joins Microsoft Intelligent Security Alliance (MISA) and has integrated HYAS Insight threat intelligence solution with Microsoft Azure Sentinel."
     publishedDateTime: 2020-10-28T12:45:00Z

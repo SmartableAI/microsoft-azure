@@ -1,12 +1,12 @@
 ---
 category: news
-title: "Azure Automation is now available in Switzerland North region"
-excerpt: "Create, monitor, deploy, and maintain resources in your Azure, on-premises, and third-party hybrid cloud environments using highly scalable and reliable process automation and state configuration engines.\n"
-publishedDateTime: 2020-10-29T16:00:09Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/azure-automation-in-switzerland-north-region/"
-webUrl: "https://azure.microsoft.com/en-us/updates/azure-automation-in-switzerland-north-region/"
+title: "PowerShell support for Server Migration with Azure Migrate is now generally available"
+excerpt: "Automate migration of VMware virtual machines to Azure using Azure Migrate and Azure PowerShell "
+publishedDateTime: 2020-11-02T17:00:02Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/powershell-support-for-server-migration-with-azure-migrate/"
+webUrl: "https://azure.microsoft.com/en-us/updates/powershell-support-for-server-migration-with-azure-migrate/"
 type: article
-quality: 67
+quality: 92
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - Azure
+  - Migration
 
 related:
   - title: "At-scale migration automation support with Azure Migrate and Azure PowerShell"
@@ -31,15 +32,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 96
-  - title: "PowerShell support for Server Migration with Azure Migrate is now generally available"
-    excerpt: "Automate migration of VMware virtual machines to Azure using Azure Migrate and Azure PowerShell "
-    publishedDateTime: 2020-11-02T17:00:02Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/powershell-support-for-server-migration-with-azure-migrate/"
+  - title: "Azure Automation is now available in Switzerland North region"
+    excerpt: "Create, monitor, deploy, and maintain resources in your Azure, on-premises, and third-party hybrid cloud environments using highly scalable and reliable process automation and state configuration engines.\n"
+    publishedDateTime: 2020-10-29T16:00:09Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-automation-in-switzerland-north-region/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 92
+    quality: 67
   - title: "New AttackIQ Solution Integrates with Microsoft Azure Sentinel to Strengthen Cyber Threat Detection and Investigation for Security Customers"
     excerpt: "Building on its announcement of the Preactive Security Exchange (PSE) recently, AttackIQ Ⓡ today announced its integration between the Microsoft Azure Sentinel cloud-native security information and event manager (SIEM) platform and the AttackIQ Security Optimization Platform."
     publishedDateTime: 2020-10-27T12:00:00Z
@@ -55,6 +56,6 @@ related:
         height: 450
         isCached: true
 
-secured: "X/8112P2WTTlPgqXHNU3mqhBLt7n2T98mFKUaIZFu32iifsZhClq6ozlSg9W7/902H7Xdrfhhfk2kv4qiSHUvPrBsTFBz4A66sgdXx0spFEJ9KrssHrX0nLTlM0A1NBLP+JKTyQoaaasLEgJB1d0XN1MNwDjj4b8IxawS3oxcwbcWbF9w7szJAuDTe8mDU0RW1D02eJt0t7T3Zrjg2RxMJTxEXWmhrSrSTCxPCnEqx+2HFb5tZOAJN0Bu66e5gufTkbLaIE7lyjteBYIB9553WhVI8IEtOSbggaHcCuACAkUGpO6fcaj8MJ4dO7jkEIbnbMDAabBKnw8q8ixs7pMoaQjQestJXgG2j90hNoOvn0=;8td/GU3zebz1a76jDDEVag=="
+secured: "EGPgMyfpQn/1yAjRft4kiJjgXIkyEus0Dp7PL6/jmAM0CeZA/FBQZrrNQHYPdaLwjX3oLeeUkEMrue9W81qXjF1Zs/wPna1OtDuPtf6BURSGd3vZ/VeIpbQb2bSPIVp6LMd/1fQwWPpJ5AcQURO2yozEzD7R2B77cRDJPcOZesJVEzglv8vnrfHHHF8sKZRxBZksrFfXtgfL6CLSXHT55FS/6d9hhdSiWyjXtzzK9pz+qRSGYtDcquLH834stg5FxsoPETDrf/BRjP3TbM53zB32AX8NftLtKjgg01jCeEy0C0PbwWdS24JIz2pxgqRXIAcBA7MQ6riy3xN1C0K9HC3fZf+zyvlfCHjKDTUykG0=;0Gwn0aph3m/hbzgUsnDUBg=="
 ---
 
