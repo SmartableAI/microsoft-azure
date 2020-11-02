@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/generate-a-new-function-
 webUrl: "https://azure.microsoft.com/en-us/updates/generate-a-new-function-app-from-an-openapi-specification/"
 type: article
 quality: 72
-heat: 73
+heat: 72
 published: true
 
 provider:

@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/enabling-resilient-devops-practic
 webUrl: "https://azure.microsoft.com/blog/enabling-resilient-devops-practices-with-code-to-cloud-automation/"
 type: article
 quality: 89
-heat: 90
+heat: 89
 published: true
 
 provider:

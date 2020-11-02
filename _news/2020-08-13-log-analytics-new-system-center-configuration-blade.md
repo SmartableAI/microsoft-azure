@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-13T16:00:06Z
 webUrl: "https://azure.microsoft.com/en-us/updates/log-analytics-new-system-center-configuration-blade/"
 type: article
 quality: 72
-heat: 93
+heat: 92
 published: true
 
 provider:

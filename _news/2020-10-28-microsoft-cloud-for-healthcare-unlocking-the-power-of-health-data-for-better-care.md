@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/microsoft-cloud-for-healthcare-un
 webUrl: "https://azure.microsoft.com/blog/microsoft-cloud-for-healthcare-unlocking-the-power-of-health-data-for-better-care/"
 type: article
 quality: 66
-heat: 87
+heat: 86
 published: true
 
 provider:

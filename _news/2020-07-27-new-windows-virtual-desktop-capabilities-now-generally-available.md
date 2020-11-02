@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/new-windows-virtual-desktop-capab
 webUrl: "https://azure.microsoft.com/blog/new-windows-virtual-desktop-capabilities-now-generally-available/"
 type: article
 quality: 72
-heat: 213
+heat: 212
 published: true
 
 provider:
