@@ -48,16 +48,14 @@ related:
         height: 806
         isCached: true
   - title: "Lindsay to Develop Sustainable and Profitable Solutions for Growers using Microsoft Azure"
-    excerpt: "PRNewswire/ -- Lindsay Corporation (NYSE:LNN), a leading global manufacturer and distributor of irrigation and infrastructure equipment and"
-    publishedDateTime: 2020-10-30T10:45:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/10/n18138551/lindsay-to-develop-sustainable-and-profitable-solutions-for-growers-using-microsoft-azure"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/18138551"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18138551"
+    excerpt: "PRNewswire/ -- Lindsay Corporation (NYSE: LNN), a leading global manufacturer and distributor of irrigation and infrastructure equipment and technology, today announced the development of intelligent digital solutions using Microsoft Azure to enhance irrigation management,"
+    publishedDateTime: 2020-10-30T10:51:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/lindsay-to-develop-sustainable-and-profitable-solutions-for-growers-using-microsoft-azure-1029745663"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 28
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 48
   - title: "New AttackIQ Solution Integrates with Microsoft Azure Sentinel to Strengthen Cyber Threat Detection and Investigation for Security Customers"
     excerpt: "Building on its announcement of the Preactive Security Exchange (PSE) recently, AttackIQ Ⓡ today announced its integration between the Microsoft Azure Sentinel cloud-native security information and event manager (SIEM) platform and the AttackIQ Security Optimization Platform."
     publishedDateTime: 2020-10-27T12:00:00Z
