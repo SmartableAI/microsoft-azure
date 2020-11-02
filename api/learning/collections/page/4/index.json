@@ -632,8 +632,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-images-computer-vision/",
           "length": "PT28M",
           "ratings": {
-            "count": 383,
-            "average": 4.762402
+            "count": 384,
+            "average": 4.763021
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3751,8 +3751,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/classify-user-feedback-with-the-text-analytics-api/",
           "length": "PT48M",
           "ratings": {
-            "count": 1487,
-            "average": 4.6274376
+            "count": 1488,
+            "average": 4.627016
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4088,8 +4088,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/tm-create-a-threat-model-using-foundational-data-flow-diagram-elements/",
           "length": "PT42M",
           "ratings": {
-            "count": 265,
-            "average": 4.716981
+            "count": 266,
+            "average": 4.718045
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4869,8 +4869,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/survey-the-azure-data-platform/",
           "length": "PT58M",
           "ratings": {
-            "count": 4540,
-            "average": 4.6903086
+            "count": 4541,
+            "average": 4.6903768
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5128,8 +5128,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/migrate-sql-server-relational-data/",
           "length": "PT1H24M",
           "ratings": {
-            "count": 905,
-            "average": 4.39337
+            "count": 906,
+            "average": 4.3940396
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5419,8 +5419,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-non-relational-data-stores-azure/",
           "length": "PT54M",
           "ratings": {
-            "count": 239,
-            "average": 4.711297
+            "count": 240,
+            "average": 4.7125
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5502,8 +5502,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/",
           "length": "PT36M",
           "ratings": {
-            "count": 1074,
-            "average": 4.7569833
+            "count": 1080,
+            "average": 4.7564816
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5544,8 +5544,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/plan-manage-azure-costs/",
           "length": "PT43M",
           "ratings": {
-            "count": 72,
-            "average": 4.8333335
+            "count": 73,
+            "average": 4.8356166
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5639,12 +5639,12 @@
       ]
     },
     {
-      "path": "_learning/collections/microsoft-learn-plan-and-implement-data-platform-resources.md",
-      "title": "Plan and implement data platform resources",
-      "excerpt": "Deploy data platform resources in Azure for SQL Server and Open Source databases. Explore options for upgrade and migration.  Calculate resource requirements and create templates.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-plan-and-implement-data-platform-resources/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-plan-and-implement-data-platform-resources/",
-      "length": "PT2H11M",
+      "path": "_learning/collections/microsoft-learn-manage-cloud-resources.md",
+      "title": "Manage cloud resources",
+      "excerpt": "The second learning path in a course on Cloud Administration from Carnegie Mellon University. Learn more about how the cloud works by exploring its underlying technology of virtualization, how to take advantage of the cloud for scale, and how to automate cloud resource management.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-manage-cloud-resources/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-manage-cloud-resources/",
+      "length": "PT2H31M",
       "provider": {
         "name": "Microsoft Learn",
         "domain": "microsoft.com",
@@ -5658,19 +5658,19 @@
         ]
       },
       "levels": [
-        "Intermediate"
+        "Beginner"
       ],
       "topItems": [
         {
-          "path": "_learning/courses/microsoft-learn-deploy-sql-server-virtual-machine.md",
-          "title": "Deploy SQL Server in a virtual machine",
-          "excerpt": "Configure virtual machine sizing, storage, and networking options to ensure adequate performance for your database workloads. Choose and configure appropriate high availability options. Investigate options for migrating existing workloads.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-deploy-sql-server-virtual-machine/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-sql-server-virtual-machine/",
-          "length": "PT60M",
+          "path": "_learning/courses/microsoft-learn-cmu-virtualization.md",
+          "title": "Understand virtualization",
+          "excerpt": "Carnegie Mellon University's Cloud Developer course. Take a deep dive into virtualization by understanding its formal definition as well as the different types of virtual machines.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-cmu-virtualization/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/cmu-virtualization-developer/",
+          "length": "PT21M",
           "ratings": {
-            "count": 2715,
-            "average": 4.7834253
+            "count": 69,
+            "average": 4.6086955
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5685,14 +5685,14 @@
             ]
           },
           "levels": [
-            "Intermediate"
+            "Beginner"
           ],
           "heat": 52,
           "images": [
             {
-              "url": "https://docs.microsoft.com/learn/achievements/deploy-sql-server-in-a-virtual-machine-social.png",
-              "width": 640,
-              "height": 320,
+              "url": "https://docs.microsoft.com/learn/achievements/cmu-cloud-developer/understand-virtualization-social.png",
+              "width": 1000,
+              "height": 500,
               "isCached": true
             }
           ],
@@ -5700,21 +5700,19 @@
           "type": "course",
           "price": "Free",
           "topics": [
-            "Azure",
-            "Databases",
-            "Compute"
+            "Azure"
           ]
         },
         {
-          "path": "_learning/courses/microsoft-learn-deploy-azure-sql-database.md",
-          "title": "Deploy Azure SQL Database",
-          "excerpt": "Provision and deploy Azure SQL Database and SQL Server Managed Instances. Select the appropriate options when performing a migration to the SQL PaaS platform.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-deploy-azure-sql-database/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-azure-sql-database/",
-          "length": "PT48M",
+          "path": "_learning/courses/microsoft-learn-cmu-cloud-elasticity.md",
+          "title": "Scale your cloud resources with elasticity",
+          "excerpt": "Cloud Admin course from Dr. Majd Sakr at Carnegie Mellon University. Discover what cloud elasticity means and different ways to scale your cloud resources.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-cmu-cloud-elasticity/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/cmu-cloud-elasticity/",
+          "length": "PT46M",
           "ratings": {
-            "count": 2042,
-            "average": 4.7987266
+            "count": 170,
+            "average": 4.5941176
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5729,14 +5727,14 @@
             ]
           },
           "levels": [
-            "Intermediate"
+            "Beginner"
           ],
-          "heat": 52,
+          "heat": 130,
           "images": [
             {
-              "url": "https://docs.microsoft.com/learn/achievements/deploy-azure-sql-database-social.png",
-              "width": 640,
-              "height": 320,
+              "url": "https://docs.microsoft.com/learn/achievements/cmu-cloud-admin/cmu-cloud-elasticity-social.png",
+              "width": 800,
+              "height": 400,
               "isCached": true
             }
           ],
@@ -5744,20 +5742,19 @@
           "type": "course",
           "price": "Free",
           "topics": [
-            "Azure",
-            "Databases"
+            "Azure"
           ]
         },
         {
-          "path": "_learning/courses/microsoft-learn-deploy-mariadb-mysql-postgresql-azure.md",
-          "title": "Deploy MariaDB, MySQL, and PostgreSQL on Azure",
-          "excerpt": "Compare Open Source Azure Database offerings with Azure SQL Server offerings. Configure an Open Source database and configure high availability and security options.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-deploy-mariadb-mysql-postgresql-azure/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-mariadb-mysql-postgresql-azure/",
-          "length": "PT23M",
+          "path": "_learning/courses/microsoft-learn-cmu-orchestration.md",
+          "title": "Automate cloud resource management",
+          "excerpt": "Cloud Admin course from Dr. Majd Sakr at Carnegie Mellon University. Learn about how to automate cloud resource management with scripts and infrastructure-as-code tools like Terraform.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-cmu-orchestration/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/cmu-orchestration/",
+          "length": "PT55M",
           "ratings": {
-            "count": 2362,
-            "average": 4.780271
+            "count": 90,
+            "average": 4.6444445
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5772,14 +5769,14 @@
             ]
           },
           "levels": [
-            "Intermediate"
+            "Beginner"
           ],
-          "heat": 52,
+          "heat": 50,
           "images": [
             {
-              "url": "https://docs.microsoft.com/learn/achievements/deploy-mariadb-mysql-and-postgresql-on-azure-social.png",
-              "width": 640,
-              "height": 320,
+              "url": "https://docs.microsoft.com/learn/achievements/cmu-cloud-admin/cmu-orchestration-social.png",
+              "width": 800,
+              "height": 400,
               "isCached": true
             }
           ],
@@ -5787,8 +5784,7 @@
           "type": "course",
           "price": "Free",
           "topics": [
-            "Azure",
-            "Databases"
+            "Azure"
           ]
         }
       ],
@@ -5796,9 +5792,9 @@
       "heat": 52,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/deploy-sql-server-in-a-virtual-machine-social.png",
-          "width": 640,
-          "height": 320,
+          "url": "https://docs.microsoft.com/learn/achievements/cmu-cloud-developer/understand-virtualization-social.png",
+          "width": 1000,
+          "height": 500,
           "isCached": true
         }
       ],
@@ -5806,8 +5802,7 @@
       "type": "collection",
       "price": "Free",
       "topics": [
-        "Azure",
-        "Databases"
+        "Azure"
       ]
     }
   ],
