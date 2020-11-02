@@ -198,6 +198,22 @@ related:
         width: 640
         height: 427
         isCached: true
+  - title: "Microsoft to Expand Azure Kinect’s Computer Vision Tech to Commercial Market"
+    excerpt: "The technology behind Microsoft’s enterprise-focused computer vision camera, the Azure Kinect developer kit, will soon find its way into commercial products. Microsoft is collaborating with two companies,"
+    publishedDateTime: 2020-11-02T13:26:00Z
+    webUrl: "https://www.roadtovr.com/microsoft-azure-kinect-commercial/"
+    ampWebUrl: "https://www.roadtovr.com/microsoft-azure-kinect-commercial/amp/"
+    cdnAmpWebUrl: "https://www-roadtovr-com.cdn.ampproject.org/c/s/www.roadtovr.com/microsoft-azure-kinect-commercial/amp/"
+    type: article
+    provider:
+      name: Road to VR
+      domain: roadtovr.com
+    quality: 54
+    images:
+      - url: "https://roadtovrlive-5ea0.kxcdn.com/wp-content/uploads/2020/11/azure-kinect.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Microsoft Cloud for Healthcare is now generally available "
     excerpt: "Microsoft Cloud for Healthcare will make it easier for healthcare organizations to remain agile and focus on what they do best—delivering better experiences, insights, and care."
     publishedDateTime: 2020-10-28T17:00:28Z

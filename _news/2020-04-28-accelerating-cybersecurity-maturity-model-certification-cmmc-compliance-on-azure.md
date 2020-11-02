@@ -6,7 +6,7 @@ publishedDateTime: 2020-04-28T10:00:41Z
 webUrl: "https://azure.microsoft.com/blog/accelerating-cybersecurity-maturity-model-certification-cmmc-compliance-on-azure/"
 type: article
 quality: 28
-heat: 48
+heat: 28
 published: false
 
 provider:
