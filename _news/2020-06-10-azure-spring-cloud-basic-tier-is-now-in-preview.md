@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-10T16:00:21Z
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-spring-cloud-basic-tier-is-now-in-preview/"
 type: article
 quality: 17
-heat: 17
+heat: 57
 published: false
 
 provider:
