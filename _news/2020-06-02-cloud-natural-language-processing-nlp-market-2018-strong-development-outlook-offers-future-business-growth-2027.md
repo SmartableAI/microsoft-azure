@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-02T14:37:00Z
 webUrl: "https://www.marketwatch.com/press-release/cloud-natural-language-processing-nlp-market-2018-strong-development-outlook-offers-future-business-growth-2027-2020-06-02"
 type: article
 quality: 40
-heat: 40
+heat: 60
 published: false
 
 provider:

@@ -6,7 +6,7 @@ publishedDateTime: 2020-04-29T05:20:00Z
 webUrl: "https://docs.microsoft.com/en-us/azure/hdinsight/troubleshoot-oozie"
 type: article
 quality: 37
-heat: 37
+heat: 57
 published: false
 
 provider:
