@@ -4,49 +4,6 @@
   "page": 13,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-automatically-provision-iot-devices-securely-and-at-scale-with-dps.md",
-      "title": "Automatically provision IoT devices securely and at scale with the Device Provisioning Service",
-      "excerpt": "The focus of this module is on creating a Device Provisioning Service (DPS) to securely handle multiple remote devices. First, you create an IoT Hub, and add the DPS service. Next, an X.509 root certificate, and multiple leaf certificates, are created to handle security. Code for a simulated device is provided. You then link all the pieces together, and verify that your DPS resource works. After completing the module, you should have a good understanding of how to provision Azure IoT devices at scale.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-automatically-provision-iot-devices-securely-and-at-scale-with-dps/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/securely-provision-iot-devices-at-scale-with-device-provisioning-service/",
-      "length": "PT57M",
-      "ratings": {
-        "count": 220,
-        "average": 4.6
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/iot/automatically-provision-iot-devices-securely-at-scale-with-dps-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "IoT"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-azure-ai-strategy.md",
       "title": "Microsoft Azure Artificial Intelligence (AI) strategy and solutions",
       "excerpt": "This module provides an overview of Azure AI and demonstrates how Microsoft tools, services, and infrastructure can help make AI real for your organization, whether you want to unlock insights from your latent data with knowledge mining, develop your own AI models with machine learning, or build immersive apps using AI.",
@@ -97,8 +54,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-and-store-container-images/",
       "length": "PT49M",
       "ratings": {
-        "count": 2378,
-        "average": 4.61312
+        "count": 2379,
+        "average": 4.6132827
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -475,8 +432,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-reliability/",
       "length": "PT59M",
       "ratings": {
-        "count": 547,
-        "average": 4.6965265
+        "count": 548,
+        "average": 4.69708
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -654,8 +611,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-blazor-webassembly-visual-studio-code/",
       "length": "PT45M",
       "ratings": {
-        "count": 1213,
-        "average": 4.6974444
+        "count": 1214,
+        "average": 4.6976933
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -983,8 +940,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-cosmos-db-app-with-vscode/",
       "length": "PT54M",
       "ratings": {
-        "count": 1470,
-        "average": 4.4761906
+        "count": 1471,
+        "average": 4.476547
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1266,6 +1223,49 @@
       "topics": [
         "Azure",
         "AI"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-deploy-prebuilt-module-edge-device.md",
+      "title": "Deploy a pre-built module to the Edge device",
+      "excerpt": "University of Oxford",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-deploy-prebuilt-module-edge-device/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-prebuilt-module-edge-device/",
+      "length": "PT56M",
+      "ratings": {
+        "count": 382,
+        "average": 4.4685864
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/student-evangelism/deploy-pre-built-module-iot-edge-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "IoT"
       ]
     }
   ],

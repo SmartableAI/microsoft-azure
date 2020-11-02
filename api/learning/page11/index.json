@@ -4,50 +4,6 @@
   "page": 11,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-secure-and-isolate-with-nsg-and-service-endpoints.md",
-      "title": "Secure and isolate access to Azure resources by using network security groups and service endpoints",
-      "excerpt": "Find out how Azure network security groups and service endpoints help you secure your virtual machines and Azure services from unauthorized network access.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-secure-and-isolate-with-nsg-and-service-endpoints/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-and-isolate-with-nsg-and-service-endpoints/",
-      "length": "PT43M",
-      "ratings": {
-        "count": 6710,
-        "average": 4.6545453
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/secure-and-isolate-with-nsg-and-service-endpoints-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Networking",
-        "Security"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-secure-vms-with-security-center.md",
       "title": "Protect your servers and VMs from brute-force and malware attacks with Azure Security Center",
       "excerpt": "Stop hackers from getting into your Windows and Linux servers. In this module, you’ll discover how to protect VMs and servers with Azure Security Center",
@@ -214,8 +170,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/store-and-share-with-azure-files/",
       "length": "PT51M",
       "ratings": {
-        "count": 1332,
-        "average": 4.615616
+        "count": 1333,
+        "average": 4.615154
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1193,6 +1149,44 @@
       "topics": [
         "Azure",
         "Management tools"
+      ]
+    },
+    {
+      "path": "_learning/videos/microsoft-how-to-generate-ssh-public-key-to-log-into-linux-vm-azure-tips-and-tricks.md",
+      "title": "How to generate SSH public key to log into Linux VM | Azure Tips and Tricks",
+      "excerpt": "In this edition of Azure Tips and Tricks, you'll learn how to generate SSH public keys to log into a Linux VM with Cloud Shell and BASH on Windows 10. Watch how you can automatically log into a VM without having to put in a password if you SSH into the server.  For more tips and tricks, visit: http://azuredev.tips/",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-how-to-generate-ssh-public-key-to-log-into-linux-vm-azure-tips-and-tricks/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-how-to-generate-ssh-public-key-to-log-into-linux-vm-azure-tips-and-tricks/",
+      "originalUrl": "https://youtube.com/watch?v=16bUZ43CGxs",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/16bUZ43CGxs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1M52S",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2018-08-30T08:51:09-07:00",
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/16bUZ43CGxs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Azure"
       ]
     }
   ],

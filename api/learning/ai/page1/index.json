@@ -43,92 +43,6 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-responsible-ai-guiding-principles.md",
-      "title": "Identify guiding principles for responsible AI",
-      "excerpt": "Explore six principles to guide AI development and use - fairness, reliability and safety, privacy and security, inclusiveness, transparency, and accountability",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-responsible-ai-guiding-principles/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/responsible-ai-principles/",
-      "length": "PT56M",
-      "ratings": {
-        "count": 805,
-        "average": 4.700621
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 131,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/responsible-ai-principles-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "AI"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-detect-analyze-faces.md",
-      "title": "Detect and analyze faces with the Face service",
-      "excerpt": "Face detection, analysis, and recognition is an important capability for artificial intelligence (AI) solutions. The Face cognitive service in Azure makes it easy integrate these capabilities into your applications.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-detect-analyze-faces/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/detect-analyze-faces/",
-      "length": "PT24M",
-      "ratings": {
-        "count": 295,
-        "average": 4.684746
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 130,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/detect-analyze-faces-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "AI"
-      ]
-    },
-    {
       "path": "_learning/collections/microsoft-learn-create-no-code-predictive-models-with-azure-machine-learning.md",
       "title": "Create no-code predictive models with Azure Machine Learning",
       "excerpt": "Learn how to use Azure Machine Learning to create and publish machine learning models without writing code.",
@@ -333,8 +247,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/",
           "length": "PT36M",
           "ratings": {
-            "count": 1068,
-            "average": 4.756554
+            "count": 1071,
+            "average": 4.7563024
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -375,8 +289,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
           "length": "PT39M",
           "ratings": {
-            "count": 197,
-            "average": 4.6700506
+            "count": 198,
+            "average": 4.671717
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -558,8 +472,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-ai-fundamentals/",
           "length": "PT27M",
           "ratings": {
-            "count": 3839,
-            "average": 4.7348266
+            "count": 3840,
+            "average": 4.7348957
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -620,8 +534,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-ai-fundamentals/",
       "length": "PT27M",
       "ratings": {
-        "count": 3839,
-        "average": 4.7348266
+        "count": 3840,
+        "average": 4.7348957
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -686,8 +600,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/",
           "length": "PT36M",
           "ratings": {
-            "count": 1068,
-            "average": 4.756554
+            "count": 1071,
+            "average": 4.7563024
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3169,8 +3083,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/foster-ai-ready-culture-marketing/",
           "length": "PT38M",
           "ratings": {
-            "count": 640,
-            "average": 4.784375
+            "count": 641,
+            "average": 4.7847114
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3663,7 +3577,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 130,
+          "heat": 50,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/detect-analyze-faces-social.png",
@@ -4513,6 +4427,138 @@
       "price": "Free",
       "topics": [
         "Azure",
+        "AI"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-azure-database-fundamentals.md",
+      "title": "Explore Azure database and analytics services",
+      "excerpt": "Learn about the database services that are available on Microsoft Azure, such as Azure Cosmos DB, Azure SQL, Azure Database for MySQL, Azure Database for PostgreSQL, as well as big data and analytics.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-azure-database-fundamentals/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
+      "length": "PT39M",
+      "ratings": {
+        "count": 198,
+        "average": 4.671717
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 55,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/azure-database-fundamentals-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Databases",
+        "Analytics",
+        "AI",
+        "Storage"
+      ]
+    },
+    {
+      "path": "_learning/collections/microsoft-learn-create-intelligent-bots-with-the-azure-bot-service.md",
+      "title": "Create Intelligent Bots with the Azure Bot Service",
+      "excerpt": "In this learning path, find out how to build a chat bot to interact with customers using text, graphics, or speech with extras from QnA Maker and LUIS.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-create-intelligent-bots-with-the-azure-bot-service/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-create-intelligent-bots-with-the-azure-bot-service/",
+      "length": "PT29M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-build-faq-chatbot-qna-maker-azure-bot-service.md",
+          "title": "Build a bot with QnA Maker and Azure Bot Service",
+          "excerpt": "Learn how to create a bot that answers frequently asked questions.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-build-faq-chatbot-qna-maker-azure-bot-service/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-faq-chatbot-qna-maker-azure-bot-service/",
+          "length": "PT29M",
+          "ratings": {
+            "count": 1608,
+            "average": 4.669776
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 54,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/build-faq-chatbot-qna-maker-azure-bot-service-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "AI"
+          ]
+        }
+      ],
+      "size": 1,
+      "heat": 54,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/build-faq-chatbot-qna-maker-azure-bot-service-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Management Tools",
         "AI"
       ]
     }
