@@ -4,50 +4,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-improve-api-performance-with-apim-caching-policy.md",
-      "title": "Improve the performance of an API by adding a caching policy in Azure API Management",
-      "excerpt": "Learn how to use Azure API Management to change an API without rewriting code to enable you to apply a caching policy to a GET operation for quicker response.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-improve-api-performance-with-apim-caching-policy/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/improve-api-performance-with-apim-caching-policy/",
-      "length": "PT47M",
-      "ratings": {
-        "count": 708,
-        "average": 4.665254
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 132,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/improve-api-performance-with-apim-caching-policy-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Integration",
-        "Web"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-intro-to-compute.md",
       "title": "Core Cloud Services - Azure compute options",
       "excerpt": "Explore essential Azure concepts to find out how virtual machines, containers, and apps combined with serverless computing services can fortify your business.",
@@ -55,8 +11,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-compute/",
       "length": "PT38M",
       "ratings": {
-        "count": 64536,
-        "average": 4.7112465
+        "count": 64537,
+        "average": 4.711251
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -86,225 +42,6 @@
         "IoT",
         "Blockchain",
         "Integration"
-      ]
-    },
-    {
-      "path": "_learning/collections/microsoft-learn-architect-api-integration-in-azure.md",
-      "title": "Architect API integration in Azure",
-      "excerpt": "Learn how to architect API integration in Azure, and provide secure, scalable API access for your applications.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-architect-api-integration-in-azure/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-architect-api-integration-in-azure/",
-      "length": "PT3H44M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "topItems": [
-        {
-          "path": "_learning/courses/microsoft-learn-publish-manage-apis-with-azure-api-management.md",
-          "title": "Publish and manage your APIs with Azure API Management",
-          "excerpt": "Learn about using an Azure API gateway to share APIs with partners, and how to use subscription keys to control access to your APIs.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-publish-manage-apis-with-azure-api-management/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/publish-manage-apis-with-azure-api-management/",
-          "length": "PT38M",
-          "ratings": {
-            "count": 1194,
-            "average": 4.6675043
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 51,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/publish-manage-apis-with-azure-api-management-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Integration",
-            "Web"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-improve-api-performance-with-apim-caching-policy.md",
-          "title": "Improve the performance of an API by adding a caching policy in Azure API Management",
-          "excerpt": "Learn how to use Azure API Management to change an API without rewriting code to enable you to apply a caching policy to a GET operation for quicker response.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-improve-api-performance-with-apim-caching-policy/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/improve-api-performance-with-apim-caching-policy/",
-          "length": "PT47M",
-          "ratings": {
-            "count": 708,
-            "average": 4.665254
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 132,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/improve-api-performance-with-apim-caching-policy-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Integration",
-            "Web"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-protect-apis-on-api-management.md",
-          "title": "Protect your APIs on Azure API Management",
-          "excerpt": "Protect your back-end APIs from information exposure and implement throttling to prevent resource exhaustion with policies in Azure API Management.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-protect-apis-on-api-management/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-apis-on-api-management/",
-          "length": "PT43M",
-          "ratings": {
-            "count": 728,
-            "average": 4.7239013
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 54,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/protect-apis-on-api-management-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Integration",
-            "Web"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-control-authentication-with-apim.md",
-          "title": "Control authentication for your APIs with Azure API Management",
-          "excerpt": "Discover how to protect your APIs from unauthorized use with API keys and client certificate authentication.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-control-authentication-with-apim/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/control-authentication-with-apim/",
-          "length": "PT55M",
-          "ratings": {
-            "count": 1639,
-            "average": 4.6375837
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 52,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/control-authentication-with-apim-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Integration",
-            "Web"
-          ]
-        }
-      ],
-      "size": 5,
-      "heat": 64,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/publish-manage-apis-with-azure-api-management-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Integration",
-        "Web"
       ]
     },
     {
@@ -338,8 +75,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/",
           "length": "PT36M",
           "ratings": {
-            "count": 1119,
-            "average": 4.756926
+            "count": 1122,
+            "average": 4.7566843
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -597,8 +334,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/implement-message-workflows-with-service-bus/",
           "length": "PT54M",
           "ratings": {
-            "count": 2159,
-            "average": 4.652154
+            "count": 2160,
+            "average": 4.6523147
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -740,8 +477,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/enable-digital-transformation/",
           "length": "PT32M",
           "ratings": {
-            "count": 8776,
-            "average": 4.69804
+            "count": 8777,
+            "average": 4.6980743
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -916,6 +653,225 @@
         "Storage",
         "Databases",
         "Integration"
+      ]
+    },
+    {
+      "path": "_learning/collections/microsoft-learn-architect-api-integration-in-azure.md",
+      "title": "Architect API integration in Azure",
+      "excerpt": "Learn how to architect API integration in Azure, and provide secure, scalable API access for your applications.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-architect-api-integration-in-azure/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-architect-api-integration-in-azure/",
+      "length": "PT3H44M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-publish-manage-apis-with-azure-api-management.md",
+          "title": "Publish and manage your APIs with Azure API Management",
+          "excerpt": "Learn about using an Azure API gateway to share APIs with partners, and how to use subscription keys to control access to your APIs.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-publish-manage-apis-with-azure-api-management/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/publish-manage-apis-with-azure-api-management/",
+          "length": "PT38M",
+          "ratings": {
+            "count": 1194,
+            "average": 4.6675043
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 51,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/publish-manage-apis-with-azure-api-management-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Integration",
+            "Web"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-improve-api-performance-with-apim-caching-policy.md",
+          "title": "Improve the performance of an API by adding a caching policy in Azure API Management",
+          "excerpt": "Learn how to use Azure API Management to change an API without rewriting code to enable you to apply a caching policy to a GET operation for quicker response.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-improve-api-performance-with-apim-caching-policy/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/improve-api-performance-with-apim-caching-policy/",
+          "length": "PT47M",
+          "ratings": {
+            "count": 708,
+            "average": 4.665254
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 52,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/improve-api-performance-with-apim-caching-policy-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Integration",
+            "Web"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-protect-apis-on-api-management.md",
+          "title": "Protect your APIs on Azure API Management",
+          "excerpt": "Protect your back-end APIs from information exposure and implement throttling to prevent resource exhaustion with policies in Azure API Management.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-protect-apis-on-api-management/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-apis-on-api-management/",
+          "length": "PT43M",
+          "ratings": {
+            "count": 728,
+            "average": 4.7239013
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 54,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/protect-apis-on-api-management-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Integration",
+            "Web"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-control-authentication-with-apim.md",
+          "title": "Control authentication for your APIs with Azure API Management",
+          "excerpt": "Discover how to protect your APIs from unauthorized use with API keys and client certificate authentication.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-control-authentication-with-apim/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/control-authentication-with-apim/",
+          "length": "PT55M",
+          "ratings": {
+            "count": 1639,
+            "average": 4.6375837
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 52,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/control-authentication-with-apim-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Integration",
+            "Web"
+          ]
+        }
+      ],
+      "size": 5,
+      "heat": 62,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/publish-manage-apis-with-azure-api-management-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Integration",
+        "Web"
       ]
     },
     {
@@ -1151,8 +1107,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-ad/",
           "length": "PT27M",
           "ratings": {
-            "count": 1779,
-            "average": 4.6818438
+            "count": 1781,
+            "average": 4.682201
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1412,8 +1368,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/control-and-organize-with-azure-resource-manager/",
           "length": "PT46M",
           "ratings": {
-            "count": 39277,
-            "average": 4.7141585
+            "count": 39278,
+            "average": 4.7141657
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1580,8 +1536,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-security/",
           "length": "PT1H2M",
           "ratings": {
-            "count": 2503,
-            "average": 4.714742
+            "count": 2504,
+            "average": 4.714856
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1624,8 +1580,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/top-5-security-items-to-consider/",
           "length": "PT45M",
           "ratings": {
-            "count": 6424,
-            "average": 4.6508408
+            "count": 6426,
+            "average": 4.6509495
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1786,8 +1742,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-security-in-azure/",
           "length": "PT1H16M",
           "ratings": {
-            "count": 45774,
-            "average": 4.705182
+            "count": 45779,
+            "average": 4.7051706
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2707,8 +2663,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/implement-message-workflows-with-service-bus/",
       "length": "PT54M",
       "ratings": {
-        "count": 2159,
-        "average": 4.652154
+        "count": 2160,
+        "average": 4.6523147
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2742,8 +2698,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-serverless-api-with-functions-api-management/",
       "length": "PT41M",
       "ratings": {
-        "count": 1254,
-        "average": 4.6196175
+        "count": 1255,
+        "average": 4.6199203
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2893,6 +2849,50 @@
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/control-authentication-with-apim-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Integration",
+        "Web"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-improve-api-performance-with-apim-caching-policy.md",
+      "title": "Improve the performance of an API by adding a caching policy in Azure API Management",
+      "excerpt": "Learn how to use Azure API Management to change an API without rewriting code to enable you to apply a caching policy to a GET operation for quicker response.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-improve-api-performance-with-apim-caching-policy/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/improve-api-performance-with-apim-caching-policy/",
+      "length": "PT47M",
+      "ratings": {
+        "count": 708,
+        "average": 4.665254
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/improve-api-performance-with-apim-caching-policy-social.png",
           "width": 800,
           "height": 400,
           "isCached": true

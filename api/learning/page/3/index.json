@@ -4,12 +4,12 @@
   "page": 3,
   "value": [
     {
-      "path": "_learning/collections/microsoft-learn-migrate-application-workloads-and-data-to-azure.md",
-      "title": "Migrate application workloads and data to Azure",
-      "excerpt": "Migrate application workloads and data to Azure",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-migrate-application-workloads-and-data-to-azure/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-migrate-application-workloads-and-data-to-azure/",
-      "length": "PT3H14M",
+      "path": "_learning/collections/microsoft-learn-work-with-nosql-data-in-azure-cosmos-db.md",
+      "title": "Work with NoSQL data in Azure Cosmos DB",
+      "excerpt": "In this learning path, find out how to customize NoSQL data storage and distribution with the Azure portal, Cosmos DB extension, and Cosmos DB .NET Core SDK.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-work-with-nosql-data-in-azure-cosmos-db/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-work-with-nosql-data-in-azure-cosmos-db/",
+      "length": "PT6H3M",
       "provider": {
         "name": "Microsoft Learn",
         "domain": "microsoft.com",
@@ -23,147 +23,19 @@
         ]
       },
       "levels": [
-        "Intermediate"
+        "Beginner"
       ],
       "topItems": [
         {
-          "path": "_learning/courses/microsoft-learn-design-your-migration-to-azure.md",
-          "title": "Design your migration to Azure",
-          "excerpt": "Minimize the time and resources required to migrate your on-premises environment to Azure. Assess your current systems with Azure Migrate, and migrate them with Azure Migrate and Azure Database Migration Service.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-design-your-migration-to-azure/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-your-migration-to-azure/",
-          "length": "PT44M",
-          "ratings": {
-            "count": 1596,
-            "average": 4.629699
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 54,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/design-your-migration-to-azure-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Migration"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-prepare-onpremises-workloads-migration-azure.md",
-          "title": "Prepare on-premises workloads for migration to Azure",
-          "excerpt": "Prepare on-premises workloads for migration to Azure",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-prepare-onpremises-workloads-migration-azure/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/prepare-onpremises-workloads-migration-azure/",
+          "path": "_learning/courses/microsoft-learn-create-cosmos-db-for-scale.md",
+          "title": "Create an Azure Cosmos DB database built to scale",
+          "excerpt": "Learn how to create an Azure Cosmos DB account, database, and container built to scale as your application grows.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-create-cosmos-db-for-scale/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-cosmos-db-for-scale/",
           "length": "PT35M",
           "ratings": {
-            "count": 139,
-            "average": 4.676259
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 51,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/prepare-on-premises-workloads-for-migration-to-azure-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Migration"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-migrate-onpremises-workloads-azure.md",
-          "title": "Migrate on-premises workloads to Azure",
-          "excerpt": "Migrate on-premises workloads to Azure",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-migrate-onpremises-workloads-azure/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/migrate-on-premises-workloads-azure/",
-          "length": "PT31M",
-          "ratings": {
-            "count": 124,
-            "average": 4.637097
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/migrate-onpremises-workloads-azure-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-migrate-sql-server-relational-data.md",
-          "title": "Migrate your relational data stored in SQL Server to Azure SQL Database",
-          "excerpt": "Plan and implement the migration of relational data from SQL Server to Azure SQL Database. Select the appropriate migration strategy for your database, and then use Data Migration Assistant to do the assessment and the migration.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-migrate-sql-server-relational-data/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/migrate-sql-server-relational-data/",
-          "length": "PT1H24M",
-          "ratings": {
-            "count": 910,
-            "average": 4.3956046
+            "count": 3882,
+            "average": 4.643225
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -186,15 +58,138 @@
           "price": "Free",
           "topics": [
             "Azure",
+            "Management Tools",
+            "Databases"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-choose-the-appropriate-api-for-cosmos-db-storage.md",
+          "title": "Choose the appropriate API for Azure Cosmos DB",
+          "excerpt": "Compare the different APIs that are available in Azure Cosmos DB, highlighting and contrasting the different scenarios that would make them a good choice for a company.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-choose-the-appropriate-api-for-cosmos-db-storage/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-api-for-cosmos-db/",
+          "length": "PT38M",
+          "ratings": {
+            "count": 2144,
+            "average": 4.676306
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 51,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/choose-the-appropriate-api-for-cosmos-db-storage-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Databases"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-access-data-with-cosmos-db-and-sql-api.md",
+          "title": "Insert and query data in your Azure Cosmos DB database",
+          "excerpt": "Discover the Azure Cosmos DB Data Explorer tool that enables you to add or modify data. Create stored procedures in JavaScript.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-access-data-with-cosmos-db-and-sql-api/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/access-data-with-cosmos-db-and-sql-api/",
+          "length": "PT58M",
+          "ratings": {
+            "count": 2584,
+            "average": 4.643963
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 132,
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Databases",
+            "Management Tools"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-store-access-data-cosmos-graph-api.md",
+          "title": "Store and access graph data in Azure Cosmos DB with the Graph API",
+          "excerpt": "Find out about creating an application with Azure Cosmos DB as a graph database, then retrieve, manipulate, and visualize graph data using Data Explorer.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-store-access-data-cosmos-graph-api/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/store-access-data-cosmos-graph-api/",
+          "length": "PT42M",
+          "ratings": {
+            "count": 1470,
+            "average": 4.6476192
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/store-and-access-data-with-cosmos-db-and-the-graph-api-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
             "Databases"
           ]
         }
       ],
-      "size": 4,
+      "size": 8,
       "heat": 64,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/design-your-migration-to-azure-social.png",
+          "url": "https://docs.microsoft.com/learn/achievements/choose-the-appropriate-api-for-cosmos-db-storage-social.png",
           "width": 800,
           "height": 400,
           "isCached": true
@@ -205,7 +200,8 @@
       "price": "Free",
       "topics": [
         "Azure",
-        "Databases"
+        "Databases",
+        "Management Tools"
       ]
     },
     {
@@ -433,8 +429,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-docker-containers/",
           "length": "PT32M",
           "ratings": {
-            "count": 3255,
-            "average": 4.634716
+            "count": 3256,
+            "average": 4.634828
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -502,8 +498,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-and-store-container-images/",
           "length": "PT49M",
           "ratings": {
-            "count": 2379,
-            "average": 4.6132827
+            "count": 2380,
+            "average": 4.6134453
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -895,8 +891,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-and-store-container-images/",
           "length": "PT49M",
           "ratings": {
-            "count": 2379,
-            "average": 4.6132827
+            "count": 2380,
+            "average": 4.6134453
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1003,8 +999,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/connect-on-premises-network-with-vpn-gateway/",
           "length": "PT39M",
           "ratings": {
-            "count": 5211,
-            "average": 4.604107
+            "count": 5212,
+            "average": 4.6039906
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1046,8 +1042,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/connect-on-premises-network-with-expressroute/",
           "length": "PT40M",
           "ratings": {
-            "count": 3494,
-            "average": 4.6722956
+            "count": 3495,
+            "average": 4.672389
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1133,8 +1129,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/integrate-vnets-with-vnet-peering/",
           "length": "PT42M",
           "ratings": {
-            "count": 2755,
-            "average": 4.7255898
+            "count": 2756,
+            "average": 4.7256894
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1218,8 +1214,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/",
           "length": "PT36M",
           "ratings": {
-            "count": 1119,
-            "average": 4.756926
+            "count": 1122,
+            "average": 4.7566843
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1260,8 +1256,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/fundamental-azure-concepts/",
           "length": "PT24M",
           "ratings": {
-            "count": 473,
-            "average": 4.7758985
+            "count": 474,
+            "average": 4.7763715
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1657,8 +1653,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/implement-message-workflows-with-service-bus/",
           "length": "PT54M",
           "ratings": {
-            "count": 2159,
-            "average": 4.652154
+            "count": 2160,
+            "average": 4.6523147
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1843,8 +1839,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/predict-costs-and-optimize-spending/",
           "length": "PT1H14M",
           "ratings": {
-            "count": 41119,
-            "average": 4.7162867
+            "count": 41121,
+            "average": 4.7163005
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2083,8 +2079,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-an-agile-approach/",
           "length": "PT40M",
           "ratings": {
-            "count": 5353,
-            "average": 4.7440686
+            "count": 5354,
+            "average": 4.744117
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2201,8 +2197,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/enable-digital-transformation/",
           "length": "PT32M",
           "ratings": {
-            "count": 8776,
-            "average": 4.69804
+            "count": 8777,
+            "average": 4.6980743
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2430,8 +2426,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/fundamental-azure-concepts/",
       "length": "PT24M",
       "ratings": {
-        "count": 473,
-        "average": 4.7758985
+        "count": 474,
+        "average": 4.7763715
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2474,8 +2470,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-subscription-access-azure-rbac/",
       "length": "PT21M",
       "ratings": {
-        "count": 11168,
-        "average": 4.762536
+        "count": 11169,
+        "average": 4.762557
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2534,6 +2530,225 @@
       "topics": [
         "Azure",
         "AI"
+      ]
+    },
+    {
+      "path": "_learning/collections/microsoft-learn-architect-api-integration-in-azure.md",
+      "title": "Architect API integration in Azure",
+      "excerpt": "Learn how to architect API integration in Azure, and provide secure, scalable API access for your applications.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-architect-api-integration-in-azure/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-architect-api-integration-in-azure/",
+      "length": "PT3H44M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-publish-manage-apis-with-azure-api-management.md",
+          "title": "Publish and manage your APIs with Azure API Management",
+          "excerpt": "Learn about using an Azure API gateway to share APIs with partners, and how to use subscription keys to control access to your APIs.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-publish-manage-apis-with-azure-api-management/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/publish-manage-apis-with-azure-api-management/",
+          "length": "PT38M",
+          "ratings": {
+            "count": 1194,
+            "average": 4.6675043
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 51,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/publish-manage-apis-with-azure-api-management-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Integration",
+            "Web"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-improve-api-performance-with-apim-caching-policy.md",
+          "title": "Improve the performance of an API by adding a caching policy in Azure API Management",
+          "excerpt": "Learn how to use Azure API Management to change an API without rewriting code to enable you to apply a caching policy to a GET operation for quicker response.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-improve-api-performance-with-apim-caching-policy/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/improve-api-performance-with-apim-caching-policy/",
+          "length": "PT47M",
+          "ratings": {
+            "count": 708,
+            "average": 4.665254
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 52,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/improve-api-performance-with-apim-caching-policy-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Integration",
+            "Web"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-protect-apis-on-api-management.md",
+          "title": "Protect your APIs on Azure API Management",
+          "excerpt": "Protect your back-end APIs from information exposure and implement throttling to prevent resource exhaustion with policies in Azure API Management.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-protect-apis-on-api-management/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-apis-on-api-management/",
+          "length": "PT43M",
+          "ratings": {
+            "count": 728,
+            "average": 4.7239013
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 54,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/protect-apis-on-api-management-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Integration",
+            "Web"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-control-authentication-with-apim.md",
+          "title": "Control authentication for your APIs with Azure API Management",
+          "excerpt": "Discover how to protect your APIs from unauthorized use with API keys and client certificate authentication.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-control-authentication-with-apim/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/control-authentication-with-apim/",
+          "length": "PT55M",
+          "ratings": {
+            "count": 1639,
+            "average": 4.6375837
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 52,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/control-authentication-with-apim-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Integration",
+            "Web"
+          ]
+        }
+      ],
+      "size": 5,
+      "heat": 62,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/publish-manage-apis-with-azure-api-management-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Integration",
+        "Web"
       ]
     },
     {
@@ -2886,8 +3101,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-azure-resources-with-rbac/",
           "length": "PT37M",
           "ratings": {
-            "count": 5217,
-            "average": 4.6557407
+            "count": 5218,
+            "average": 4.655807
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3090,8 +3305,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/integrate-vnets-with-vnet-peering/",
           "length": "PT42M",
           "ratings": {
-            "count": 2755,
-            "average": 4.7255898
+            "count": 2756,
+            "average": 4.7256894
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3397,8 +3612,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-ad/",
           "length": "PT27M",
           "ratings": {
-            "count": 1779,
-            "average": 4.6818438
+            "count": 1781,
+            "average": 4.682201
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3658,8 +3873,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/control-and-organize-with-azure-resource-manager/",
           "length": "PT46M",
           "ratings": {
-            "count": 39277,
-            "average": 4.7141585
+            "count": 39278,
+            "average": 4.7141657
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4146,8 +4361,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/integrate-vnets-with-vnet-peering/",
           "length": "PT42M",
           "ratings": {
-            "count": 2755,
-            "average": 4.7255898
+            "count": 2756,
+            "average": 4.7256894
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4233,8 +4448,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/prepare-your-dev-environment-for-azure-development/",
           "length": "PT28M",
           "ratings": {
-            "count": 4902,
-            "average": 4.6946144
+            "count": 4903,
+            "average": 4.694677
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4428,8 +4643,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-security-in-azure/",
           "length": "PT1H16M",
           "ratings": {
-            "count": 45774,
-            "average": 4.705182
+            "count": 45779,
+            "average": 4.7051706
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4895,8 +5110,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-identity-provisioning/",
           "length": "PT46M",
           "ratings": {
-            "count": 2947,
-            "average": 4.7516117
+            "count": 2948,
+            "average": 4.751696
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5068,8 +5283,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-security/",
           "length": "PT1H2M",
           "ratings": {
-            "count": 2503,
-            "average": 4.714742
+            "count": 2504,
+            "average": 4.714856
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5112,8 +5327,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/top-5-security-items-to-consider/",
           "length": "PT45M",
           "ratings": {
-            "count": 6424,
-            "average": 4.6508408
+            "count": 6426,
+            "average": 4.6509495
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5240,207 +5455,6 @@
         "Identity",
         "Integration",
         "Web"
-      ]
-    },
-    {
-      "path": "_learning/collections/microsoft-learn-work-with-nosql-data-in-azure-cosmos-db.md",
-      "title": "Work with NoSQL data in Azure Cosmos DB",
-      "excerpt": "In this learning path, find out how to customize NoSQL data storage and distribution with the Azure portal, Cosmos DB extension, and Cosmos DB .NET Core SDK.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-work-with-nosql-data-in-azure-cosmos-db/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-work-with-nosql-data-in-azure-cosmos-db/",
-      "length": "PT6H3M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "topItems": [
-        {
-          "path": "_learning/courses/microsoft-learn-create-cosmos-db-for-scale.md",
-          "title": "Create an Azure Cosmos DB database built to scale",
-          "excerpt": "Learn how to create an Azure Cosmos DB account, database, and container built to scale as your application grows.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-create-cosmos-db-for-scale/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-cosmos-db-for-scale/",
-          "length": "PT35M",
-          "ratings": {
-            "count": 3882,
-            "average": 4.643225
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 54,
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Management Tools",
-            "Databases"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-choose-the-appropriate-api-for-cosmos-db-storage.md",
-          "title": "Choose the appropriate API for Azure Cosmos DB",
-          "excerpt": "Compare the different APIs that are available in Azure Cosmos DB, highlighting and contrasting the different scenarios that would make them a good choice for a company.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-choose-the-appropriate-api-for-cosmos-db-storage/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-api-for-cosmos-db/",
-          "length": "PT38M",
-          "ratings": {
-            "count": 2144,
-            "average": 4.676306
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 51,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/choose-the-appropriate-api-for-cosmos-db-storage-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Databases"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-access-data-with-cosmos-db-and-sql-api.md",
-          "title": "Insert and query data in your Azure Cosmos DB database",
-          "excerpt": "Discover the Azure Cosmos DB Data Explorer tool that enables you to add or modify data. Create stored procedures in JavaScript.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-access-data-with-cosmos-db-and-sql-api/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/access-data-with-cosmos-db-and-sql-api/",
-          "length": "PT58M",
-          "ratings": {
-            "count": 2583,
-            "average": 4.6442122
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 52,
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Databases",
-            "Management Tools"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-store-access-data-cosmos-graph-api.md",
-          "title": "Store and access graph data in Azure Cosmos DB with the Graph API",
-          "excerpt": "Find out about creating an application with Azure Cosmos DB as a graph database, then retrieve, manipulate, and visualize graph data using Data Explorer.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-store-access-data-cosmos-graph-api/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/store-access-data-cosmos-graph-api/",
-          "length": "PT42M",
-          "ratings": {
-            "count": 1470,
-            "average": 4.6476192
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/store-and-access-data-with-cosmos-db-and-the-graph-api-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Databases"
-          ]
-        }
-      ],
-      "size": 8,
-      "heat": 62,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/choose-the-appropriate-api-for-cosmos-db-storage-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Databases",
-        "Management Tools"
       ]
     }
   ],
