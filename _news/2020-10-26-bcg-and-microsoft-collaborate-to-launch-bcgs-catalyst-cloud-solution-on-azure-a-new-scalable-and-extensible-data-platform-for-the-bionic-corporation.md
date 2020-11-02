@@ -137,6 +137,20 @@ related:
         width: 647
         height: 450
         isCached: true
+  - title: "The Migros community relies on Microsoft Azure for its „Journey to the Cloud“"
+    excerpt: "In addition to Microsoft 365, the Swiss retail company will use Azure Services from the Microsoft Cloud in Switzerland in the future, thus accelerating the already advanced digitisation of the entire group of companies. Patrick Mosberger, Head of IT ..."
+    publishedDateTime: 2020-10-18T11:02:00Z
+    webUrl: "https://news.microsoft.com/de-ch/2020/10/18/the-migros-community-relies-on-microsoft-azure-for-its-journey-to-the-cloud/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 34
+    images:
+      - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/418/2020/10/mgb-hochhaus_w915_h515-768x432.jpg"
+        width: 768
+        height: 432
+        isCached: true
 
 secured: "YPT/Csm/056hCVUdJSKKOmLMD+MUbZPK+3LTipOlu1/m9bq0SEsdNGQKSWKbyKrDJ1R6VWjg6saQtgncYkKU4Bb9Tze5WH0KG+OI7fOmZ9IhpoWWDlxlhCJPiz5/gJK74sxILKJEgLiffyQH97drsy0o/tY2JZC066RdjzNiefWwMME+e1hN95goCtzr+antw7dpanf9T9XOEP2gjNHsESBntJ/Fy1a508V+xha/QGx6OQuwlyN9AUmiYd/KYR+eRLmXGzu557qIdE535nD3bRVgag5e8dv2yOZt4oBrBoBQeBHHkjFnKXOGXimQFEF14flN0G/qjqYy3ng71z9nBAQ8bqCP3atWhrgmrbk6uHXyIL64WO1sNRyDQRxxHIMDS5k+pay7dY9TRtf7nXZGaJ7jRbL8wPG4MPJb0ROIbN2+6P5VeO9szSMIYFNxRjrRgYuSl3FRvF0DS11TrVovg1vOdMuqxx3ROyC1HEPckVx6+K8RWsiO/KXgBQuimDIVJ2vc2k1nATCdJbvYPfvZZw==;QvqZ1spO03SHDZBf39y4wQ=="
 ---

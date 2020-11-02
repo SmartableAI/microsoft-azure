@@ -111,9 +111,9 @@ related:
   - title: "Microsoft cloud business gathers steam as pandemic boosts growth"
     excerpt: "Microsoft Corp's <MSFT.O> cloud computing business slightly re-accelerated and its Teams messaging and collaboration software won new users, as a pandemic-driven shift to working from home and online learning drove quarterly results ahead of investor targets."
     publishedDateTime: 2020-10-28T11:41:00Z
-    webUrl: "https://www.reuters.com/article/us-microsoft-results/microsoft-cloud-business-gathers-steam-as-pandemic-boosts-growth-idUSKBN27C2YV"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27C2Z1"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27C2Z1"
+    webUrl: "https://www.reuters.com/article/us-microsoft-results-idUSKBN27C2YV"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27C2YV"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27C2YV"
     type: article
     provider:
       name: Reuters

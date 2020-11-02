@@ -129,6 +129,20 @@ related:
         width: 647
         height: 450
         isCached: true
+  - title: "The Migros community relies on Microsoft Azure for its „Journey to the Cloud“"
+    excerpt: "In addition to Microsoft 365, the Swiss retail company will use Azure Services from the Microsoft Cloud in Switzerland in the future, thus accelerating the already advanced digitisation of the entire group of companies. Patrick Mosberger, Head of IT ..."
+    publishedDateTime: 2020-10-18T11:02:00Z
+    webUrl: "https://news.microsoft.com/de-ch/2020/10/18/the-migros-community-relies-on-microsoft-azure-for-its-journey-to-the-cloud/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 34
+    images:
+      - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/418/2020/10/mgb-hochhaus_w915_h515-768x432.jpg"
+        width: 768
+        height: 432
+        isCached: true
   - title: "BCG and Microsoft Collaborate to Launch BCG's Catalyst Cloud Solution on Azure, a New Scalable and Extensible Data Platform for the Bionic Corporation"
     excerpt: "PRNewswire/ -- Boston Consulting Group (BCG) today announced the launch of the Catalyst Cloud data platform by BCG, powered by Microsoft Azure. This SaaS-based, scalable offering"
     publishedDateTime: 2020-10-26T04:11:00Z

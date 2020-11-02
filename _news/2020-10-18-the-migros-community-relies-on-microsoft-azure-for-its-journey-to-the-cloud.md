@@ -1,22 +1,20 @@
 ---
 category: news
-title: "Microsoft and Honeywell collaborate on Azure and Dynamics 365"
-excerpt: "The manufacturing multinational will be bringing domain-specific applications built on Microsoft's cloud platform to market. More ways to innovate the industrial workplace will also be explored."
-publishedDateTime: 2020-10-22T19:16:00Z
-originalUrl: "https://www.neowin.net/news/microsoft-and-honeywell-collaborate-on-azure-and-dynamics-365"
-webUrl: "https://www.neowin.net/news/microsoft-and-honeywell-collaborate-on-azure-and-dynamics-365"
-ampWebUrl: "https://www.neowin.net/amp/microsoft-and-honeywell-collaborate-on-azure-and-dynamics-365/"
-cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-and-honeywell-collaborate-on-azure-and-dynamics-365/"
+title: "The Migros community relies on Microsoft Azure for its „Journey to the Cloud“"
+excerpt: "In addition to Microsoft 365, the Swiss retail company will use Azure Services from the Microsoft Cloud in Switzerland in the future, thus accelerating the already advanced digitisation of the entire group of companies. Patrick Mosberger, Head of IT ..."
+publishedDateTime: 2020-10-18T11:02:00Z
+originalUrl: "https://news.microsoft.com/de-ch/2020/10/18/the-migros-community-relies-on-microsoft-azure-for-its-journey-to-the-cloud/"
+webUrl: "https://news.microsoft.com/de-ch/2020/10/18/the-migros-community-relies-on-microsoft-azure-for-its-journey-to-the-cloud/"
 type: article
-quality: 97
-heat: 297
-published: true
+quality: 34
+heat: -1
+published: false
 
 provider:
-  name: Neowin
-  domain: neowin.net
+  name: Microsoft
+  domain: microsoft.com
   images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/neowin.net-50x50.jpg"
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -24,12 +22,28 @@ topics:
   - Azure
 
 images:
-  - url: "https://cdn.neow.in/news/images/uploaded/2020/10/1603393938_microsoft_honeywell_logo_story.jpg"
-    width: 760
-    height: 428
+  - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/418/2020/10/mgb-hochhaus_w915_h515-768x432.jpg"
+    width: 768
+    height: 432
     isCached: true
 
 related:
+  - title: "Microsoft and Honeywell collaborate on Azure and Dynamics 365"
+    excerpt: "The manufacturing multinational will be bringing domain-specific applications built on Microsoft's cloud platform to market. More ways to innovate the industrial workplace will also be explored."
+    publishedDateTime: 2020-10-22T19:16:00Z
+    webUrl: "https://www.neowin.net/news/microsoft-and-honeywell-collaborate-on-azure-and-dynamics-365"
+    ampWebUrl: "https://www.neowin.net/amp/microsoft-and-honeywell-collaborate-on-azure-and-dynamics-365/"
+    cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-and-honeywell-collaborate-on-azure-and-dynamics-365/"
+    type: article
+    provider:
+      name: Neowin
+      domain: neowin.net
+    quality: 97
+    images:
+      - url: "https://cdn.neow.in/news/images/uploaded/2020/10/1603393938_microsoft_honeywell_logo_story.jpg"
+        width: 760
+        height: 428
+        isCached: true
   - title: "Honeywell, Microsoft partner on industrial apps, Dynamics, Azure integration"
     excerpt: "The two companies will combine that artificial intelligence in Honeywell Forge performance management software with Microsoft Dynamics Field Service."
     publishedDateTime: 2020-10-22T16:00:00Z
@@ -133,20 +147,6 @@ related:
         width: 647
         height: 450
         isCached: true
-  - title: "The Migros community relies on Microsoft Azure for its „Journey to the Cloud“"
-    excerpt: "In addition to Microsoft 365, the Swiss retail company will use Azure Services from the Microsoft Cloud in Switzerland in the future, thus accelerating the already advanced digitisation of the entire group of companies. Patrick Mosberger, Head of IT ..."
-    publishedDateTime: 2020-10-18T11:02:00Z
-    webUrl: "https://news.microsoft.com/de-ch/2020/10/18/the-migros-community-relies-on-microsoft-azure-for-its-journey-to-the-cloud/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 34
-    images:
-      - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/418/2020/10/mgb-hochhaus_w915_h515-768x432.jpg"
-        width: 768
-        height: 432
-        isCached: true
   - title: "BCG and Microsoft Collaborate to Launch BCG's Catalyst Cloud Solution on Azure, a New Scalable and Extensible Data Platform for the Bionic Corporation"
     excerpt: "PRNewswire/ -- Boston Consulting Group (BCG) today announced the launch of the Catalyst Cloud data platform by BCG, powered by Microsoft Azure. This SaaS-based, scalable offering"
     publishedDateTime: 2020-10-26T04:11:00Z
@@ -157,6 +157,6 @@ related:
       domain: wfmz.com
     quality: 0
 
-secured: "RGxS1Juft0SeWT64Zj4Ek8G9mQlKjfWwclIR82zbZRFaOlhBf6kkJq1UignGISkerk9qI2Crjp1VP1P8ZqltL4RxTevWXFTg/lx+Y+4Ik6vlxn/V5a8fg9B79MOFGfRHF3uy9GErLPjloIK85UfrQYoiEEUCtaRt0jLADCwpCwqib9kBFtDjDOiewMmtW5f5LJ53Ai6d44dIE1FQ6KmRy3WiDcYr1I50kkhUh+jiepIp24G5+Ae5MIq5mzdYxuhMs3KF7oA1rQcIHb74OWCboyKGFVbplgb/yRHNUxni4nSJYYnWox+VA3bQQDX3Wl22yhiuRMaigQkAXNi1SzFAkIQr1SMQVLc0DdYz6/o/IhQQ9Mwu5yYMh27DelBG1eqdSLI+zjirKX8HgdD1SRjAGBZgPyqiCOBhKvNkhYICWeDfHrm1GvpeycZNEKAOghfPUXuEGsNurZw0JvGKzVTCzmnj3vEDX/woTsdkB1viPMxMJ6YBvLVdU93VSgk/dDja+zoyDcDnalRFkb2xcS3BRA==;9ktKeQMDMmHu+dA1stmWIw=="
+secured: "kGizyYMj+O/LyisTyYkBNhl1H02LRZTuxzfAytPh1PH7qn+GSA4+R1OdE3e9D8Da0YkThTVhKQaw6WZOiMz6bBfLcSWOa5FPDxugfAlUOTnRFlw7xQxMRUWGlBsDEQbUPDGK0lmHIAnVAlizfkE2iRsQpOlwfO+lAesY+vnvmO5cU1OC3/8Xhrdoj2kenqG0R68e6hmUsHdX2+GUA5GTpWoBEUV3CTjRENmZZB64QFytnaH1bRpI4G1u3CtCuUE3Kd8b2Bml2/10/vOFByk9vxSPZA64IIr5O6kieOu3s7HX/PecKRAkjeXDQ4O6h+7BGqbvKyLdchDOKzhzPZEVA0raGi6Znd2uWLfwhfhv53s=;JZTNh7cwCPNFoJ/SEcLHKA=="
 ---
 
