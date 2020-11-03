@@ -44,6 +44,17 @@ related:
         width: 624
         height: 638
         isCached: true
+  - title: "QuEST Global launches Center of Excellence for Microsoft Azure to develop innovative solutions for customers"
+    excerpt: "QuEST Global, a global product engineering and lifecycle services company, today announced it has signed an agreement with Microsoft to launch a dedicated Center for Excellence (CoE) for Microsoft Azure."
+    publishedDateTime: 2020-11-03T12:23:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/quest-global-launches-center-of-excellence-for-microsoft-azure-to-develop-innovative-solutions-for-customers-1029758272"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/quest-global-launches-center-of-excellence-for-microsoft-azure-to-develop-innovative-solutions-for-customers-1029758272"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/quest-global-launches-center-of-excellence-for-microsoft-azure-to-develop-innovative-solutions-for-customers-1029758272"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 58
   - title: "DH2i's DxOdyssey for IoT Now Available in the Microsoft Azure Marketplace"
     excerpt: "Oct. 28, 2020 /PRNewswire/ -- DH2i®, a leading provider of multi-platform Software Defined Perimeter (SDP) and Smart Availability software, today announced the availability of DxOdyssey for IoT in the Microsoft Azure Marketplace, an online store ..."
     publishedDateTime: 2020-10-28T13:16:00Z
@@ -118,20 +129,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "QuEST Global launches Center of Excellence for Microsoft Azure to develop innovative solutions for customers"
-    excerpt: "QuEST Global, a global product engineering and lifecycle services company, today announced it has signed an agreement with Microsoft to"
-    publishedDateTime: 2020-11-03T11:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/quest-global-launches-center-of-excellence-for-microsoft-azure-to-develop-innovative-solutions-for-customers-301164875.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 18
-    images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
-        isCached: true
   - title: "Around 15,000 servers needed for new Microsoft Azure datacenter in Taiwan"
     excerpt: "An estimated 15,000 servers will be needed to support Microsoft's new Azure datacenter that will be unveiled in Taiwan by the end of 2021 at the earliest, according to industry sources."
     publishedDateTime: 2020-11-03T06:29:00Z
@@ -151,6 +148,6 @@ related:
       domain: businesswire.com
     quality: 10
 
-secured: "lU7gkHve3j+/d2jQA2CFHoL6eU99HoqgrO+/rrwgNN4kptvuM4RC/CcCcdvGGyEIXLk2ZIVfwfnUgatLU93Ai+C9DLUHz43fQdGfyetcMcgR6IS/L2e98xiyeDhTFdSDBuZhogFMkcww6oqBKZ1fJ5FIHAzavfvTApF/junH2M96nkYnf0Plrt+00Ls3haqLeySmLSqDDCWwd/abTp/RuG58p+mq8+5aR1X6RaDIDYCAIFqKYRg4LfJnnWM8jj1VxN9fNy9M4VMCrGz2sgynYOdk4CmPnBYtkPemja4iGAgCy3JhgstqD798mQ9Ch5vDEhYSwyBORXzlUR/HVb7HKb8L4fvhNtLVEb7qXKiUs1c=;lMU+ld6A9DEkrofagmfuMA=="
+secured: "mTxBSvzoREwUoJf3RH0lsBqgtzjOBgdbmMPnyLw5YjBz3M4dgnd6rESL4Cogibuf0/8N26Kh4izhyjbP1CywC3dilrJRc+cpxMhl9ZkFOX0aQQFN8RykLdowR/aUTEUDZhhqL2LN4smAoURRcFm+UoLvFNtQD/do9NC2KVeDmCdxCFJGUG1xOCoEsJtbEdbaLB3CWI4kWVM6fHEGD1saz/K0TBiqeG2roS1ro2K0CoGysYFN3CFHMYCx33HF32z09EtmYPqAe2RjZAhuG052MNfX1pgsnpgRrg8/TqALmgLfrBiS+wwlRP/Im5Yh/gM8A6Nb+gAsFBrDCbMEd+o/yPTjjDZnFMHXqZB6OVIhBCHIwpR4fmOY6TfGH2b2FdVZUNDyLZei61kOzq5lLM7O5ijQg9p6xz9YQBMbbfeBZ215H0H7ppFaOzJzRiIVRGisGpio5ch+82f2/QQ21srrL0cWgHZa7/rNypP8q7sgHTLObLg/PmykFjzZUs9Wg778B1FxCiZ5fQofQGs2mQHGFQ==;1MM1llvZ/sPU2q0kfrOfyg=="
 ---
 
