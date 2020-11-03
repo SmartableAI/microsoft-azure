@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/azure-dns-introducing-au
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-dns-introducing-automatic-child-zone-delegation/"
 type: article
 quality: 104
-heat: 104
+heat: 105
 published: true
 
 provider:
