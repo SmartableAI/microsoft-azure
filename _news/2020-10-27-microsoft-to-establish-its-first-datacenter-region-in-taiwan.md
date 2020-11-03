@@ -40,6 +40,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 52
+  - title: "Around 15,000 servers needed for new Microsoft Azure datacenter in Taiwan"
+    excerpt: "An estimated 15,000 servers will be needed to support Microsoft's new Azure datacenter that will be unveiled in Taiwan by the end of 2021 at the earliest, according to industry sources."
+    publishedDateTime: 2020-11-03T06:29:00Z
+    webUrl: "https://www.digitimes.com/news/a20201103PD203.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 16
 
 secured: "1xIRYTc0hhQD5qX9lRBImWbQPwPD55dl4KVzrJJZgQf/fdcYjPTYGCcpH1tk3iQT02zwMBOIPwoi+Zp9w6AxAzsDq6pAsXjQJTiyMgRp3DDX0VjTgnA9SaIidpjrbSmmzJpCCL24/mTClnfV6b5wTY9Zou84TD1MURL+iI9JYbYNFzH0azO/9HyAuEAV/d+/l81Yq3pZp59FhS2q9YQ+fPXXhvmTi3zdkwK5v21k5/h3FYS9WOwo3tcXrLeBr5Y0W2e2zHjDhUWQ52PFQJ3mc4N9G5QhiwnShTarQ5cmn4pOa8MT0XneR32owWkoXXBcOMTwu3J+/zSuWJIqLWX+lB14vg51wW0e4zBKK48mBks=;bRPA76sPQ8Kr2QPAgCcDzQ=="
 ---
