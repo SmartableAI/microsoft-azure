@@ -4,49 +4,6 @@
   "page": 16,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-explore-data-storage-processing-azure.md",
-      "title": "Explore data storage and processing in Azure",
-      "excerpt": "Explore data storage and processing in Azure",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-explore-data-storage-processing-azure/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-data-storage-processing-azure/",
-      "length": "PT24M",
-      "ratings": {
-        "count": 295,
-        "average": 4.6508474
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/explore-data-storage-processing-azure-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Storage"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-explore-provision-deploy-non-relational-data-services-azure.md",
       "title": "Explore provisioning and deploying non-relational data services in Azure",
       "excerpt": "Explore provisioning and deploying non-relational data services in Azure",
@@ -348,8 +305,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/identify-threats-with-azure-security-center/",
       "length": "PT43M",
       "ratings": {
-        "count": 829,
-        "average": 4.6924005
+        "count": 830,
+        "average": 4.692771
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -600,8 +557,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-iot/",
       "length": "PT31M",
       "ratings": {
-        "count": 466,
-        "average": 4.6888413
+        "count": 467,
+        "average": 4.687366
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -808,8 +765,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-github/",
       "length": "PT1H12M",
       "ratings": {
-        "count": 494,
-        "average": 4.7105265
+        "count": 495,
+        "average": 4.711111
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -893,8 +850,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-identity-cultural-shift/",
       "length": "PT31M",
       "ratings": {
-        "count": 1986,
-        "average": 4.772407
+        "count": 1987,
+        "average": 4.7725215
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -936,8 +893,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-identity-provisioning/",
       "length": "PT46M",
       "ratings": {
-        "count": 2951,
-        "average": 4.75161
+        "count": 2952,
+        "average": 4.7516937
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1262,6 +1219,49 @@
       "topics": [
         "Azure",
         "IoT"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-management-fundamentals.md",
+      "title": "Choose the best tools for managing and configuring your Azure environment",
+      "excerpt": "Explore the Azure management, administration, and reporting tools, and choose the ones that best meet your organization's needs.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-management-fundamentals/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/management-fundamentals/",
+      "length": "PT27M",
+      "ratings": {
+        "count": 79,
+        "average": 4.772152
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Management Tools"
       ]
     }
   ],
