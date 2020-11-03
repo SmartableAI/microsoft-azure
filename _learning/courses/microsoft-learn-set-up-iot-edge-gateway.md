@@ -8,7 +8,7 @@ length: PT1H40M
 ratings:
   count: 182
   average: 4.532967
-heat: 51
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     height: 400
     isCached: true
 
-secured: "Vl6Klb5QsUytVazm5Vr3NhdVRavVCGzyIPLvJjk55CkEB4Cc09J4FA5AQKT+7sRMJNoEw182FEDFAkIKEvv/XshKgDTNaPKl9Q6t1eYonYjeW5dyIhPIUFBRxSPmwKCEkpyW8IY/FbxPEGq9O3fghV6Ip5QMANPEOc6tn8YMScwmrvefviDsGnqEuRgQflrfaioP8X6wDPGC6whi2N/8her/ttURI7lk1nAb8nZjfMJEsid8Lr0FE0uPZWfOVEznL20mJquAIobtw7i8RQHVGArIbVR+0mTk91TrQbe+KHlM6coHslr2m16X3MYKFCudvShH5KFGoH8VNkSXHMAvbCfcgo4/bMWWnrLEpHU1HWDYVVU0UaD9s0oLKe4SrMaJye74xNK5rvevqCPkMWHz1D8iMCJbo5PyMDeIqPtZRUc=;xLcoshfR/r1DkS69+O9lNA=="
+secured: "kZN5g/p/sL3BQjkvJOYcvk6bPHACGlmJvWnCb9nNIZJlde/Bf8+uPTuMplsZ110trARHJA9W/BmG+ReiKDs1fJT+NBS5/kvSoDdi2q2AlsIafuEeUDeLCTqZWGqwjg2QWCKP6CKdKRKswGJ8Z6iYOLb/mfm09y72IA3rvGhFDRuJSde9/sav2xJQCuyHj9HtS3U/ghmPc+acctes6XtUlNpX67tdcjUMU2+lRmqpekds4KomRPRhnjTcKQcyVymLCI0e5ck8GgSpOfqdN9olIjFFw6WzcX3V2X1vrKYe+wU/39NYGp4E7Idtq+y90nYsYvE3i2FqOWuEKWBzHG68LpafTy+0Mwp2CP/621FvKeAYZYTMQH6z1gU1e2dvigO+n8CpONr10FYRI+eV7C0pp23FK/0xiVmDTBkfA39UW7s=;sj6VYsISbbJJHcTLPtCRFA=="
 ---
 
