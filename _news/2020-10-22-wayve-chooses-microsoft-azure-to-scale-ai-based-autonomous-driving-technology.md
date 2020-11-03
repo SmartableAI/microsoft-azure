@@ -1,32 +1,31 @@
 ---
 category: news
-title: "This Microsoft Azure training is just $30 today"
-excerpt: "Save hundreds on six eBooks and over 15 hours of video instruction that make it easy to learn Azure on your schedule. Microsoft Azure is a leading cloud computing platform in today's business world, and it looks like it might even become the cloud solution ..."
-publishedDateTime: 2020-11-01T18:56:00Z
-originalUrl: "https://www.engadget.com/microsoft-azure-training-185539651.html"
-webUrl: "https://www.engadget.com/microsoft-azure-training-185539651.html"
-ampWebUrl: "https://www.engadget.com/amp/microsoft-azure-training-185539651.html"
-cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/microsoft-azure-training-185539651.html"
+title: "Wayve chooses Microsoft Azure to scale AI-based autonomous driving technology"
+excerpt: "Wayve, the London-based company that’s developing artificial intelligence software for self-driving cars, has signed a deal with Microsoft to use Azure. The UK business, which is at the cutting-edge of autonomous development and is seeing strong growth ..."
+publishedDateTime: 2020-10-22T08:49:00Z
+originalUrl: "https://news.microsoft.com/en-gb/2020/10/22/wayve-chooses-microsoft-azure-to-scale-ai-based-autonomous-driving-technology/"
+webUrl: "https://news.microsoft.com/en-gb/2020/10/22/wayve-chooses-microsoft-azure-to-scale-ai-based-autonomous-driving-technology/"
 type: article
-quality: 97
+quality: 51
 heat: -1
 published: false
 
 provider:
-  name: Engadget
-  domain: engadget.com
+  name: Microsoft
+  domain: microsoft.com
   images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/engadget.com-50x50.jpg"
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Azure
+  - AI
 
 images:
-  - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-10%2F47c223f0-1a30-11eb-bfcc-397b6cf949f5&client=amp-blogside-v2&signature=6bd3014097453f6d1cd13d03fdfc05b682bb5fe2"
-    width: 600
-    height: 350
+  - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/68/2020/10/Wayve-Computer-Vision-1600x747.jpg"
+    width: 1600
+    height: 747
     isCached: true
 
 related:
@@ -61,6 +60,22 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2020/10/GettyImages-1152031669.jpg?w=1024"
         width: 1024
         height: 682
+        isCached: true
+  - title: "This Microsoft Azure training is just $30 today"
+    excerpt: "Save hundreds on six eBooks and over 15 hours of video instruction that make it easy to learn Azure on your schedule. Microsoft Azure is a leading cloud computing platform in today's business world, and it looks like it might even become the cloud solution ..."
+    publishedDateTime: 2020-11-01T18:56:00Z
+    webUrl: "https://www.engadget.com/microsoft-azure-training-185539651.html"
+    ampWebUrl: "https://www.engadget.com/amp/microsoft-azure-training-185539651.html"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/microsoft-azure-training-185539651.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 97
+    images:
+      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-10%2F47c223f0-1a30-11eb-bfcc-397b6cf949f5&client=amp-blogside-v2&signature=6bd3014097453f6d1cd13d03fdfc05b682bb5fe2"
+        width: 600
+        height: 350
         isCached: true
   - title: "Microsoft's commercial cloud continues to hum with Azure sales up 48% in Q1"
     excerpt: "Microsoft's first quarter sales fell short of expectations, but earnings were well ahead. Commercial cloud revenue was $15.2 billion, up 31% from a year ago. Commercial cloud reve"
@@ -211,20 +226,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 52
-  - title: "Wayve chooses Microsoft Azure to scale AI-based autonomous driving technology"
-    excerpt: "Wayve, the London-based company that’s developing artificial intelligence software for self-driving cars, has signed a deal with Microsoft to use Azure. The UK business, which is at the cutting-edge of autonomous development and is seeing strong growth ..."
-    publishedDateTime: 2020-10-22T08:49:00Z
-    webUrl: "https://news.microsoft.com/en-gb/2020/10/22/wayve-chooses-microsoft-azure-to-scale-ai-based-autonomous-driving-technology/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 51
-    images:
-      - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/68/2020/10/Wayve-Computer-Vision-1600x747.jpg"
-        width: 1600
-        height: 747
-        isCached: true
   - title: "Microsoft's first 'vertical cloud,' the Microsoft Cloud for Healthcare, is now generally available"
     excerpt: "Microsoft's Cloud for Healthcare builds on Azure, Microsoft 365, Dynamics 365 and the Power Platform and is designed to deal with both structured and unstructured health data."
     publishedDateTime: 2020-10-28T17:24:00Z
@@ -450,6 +451,6 @@ related:
         height: 627
         isCached: true
 
-secured: "9fJoQbQyMe97gUTj4/r8RsIwzmQRhRiBBRnvRLt5epZivkzlgTi30RwgXW5U/TILtmOHuhtkNhmpAeF12Zve83j5W9Dk/NA7XvlGf+35yFWcLSeWBTtTWmCRo0iEzgJGUFfmqw5p1CJ2XmnKP5SE5HCDkvsedi5q55QqzXzEyVeRESDpkNjtewPRPoKRbU/dfu9tiTs/S7HvVpVz5/1ZmQiM/0qxdqO4UvxqiHXe4yKD+6SpZ+EK1qbRUuTtkjCrXyCiNxrtdiTNxAfv1P4olKNBDUK37wG+TMtycaX15s/Ka48ue8Xc0EYFYkOvg5UbyNF5AH8Xljw4bjbK6fHzEbNDdaLmK5e8QMe3Agtdq1ad+Zjm7mRBvBVbWO3W5Px5kfDR0wWUau7kN4V2PCy1PH7ZxDH0+DtXkm3lzNf6KQqq9jK6Jypf0qxqN2Tmgg7orAoAp2Bro700OyDaddGaVGiV0EwhnVeeQTfXxND/eTUhyc1+12DqYRikKWpAdd0ojjtptRQ5XjWXSk30qwBHog==;D5ZT9EuLajQ5ZYlDY793UQ=="
+secured: "oocJF7YdUG9C7g22r4ux/OXYlDAyOcuBeWbMWbqX8jKCgUwakyhg4+7EDl9TruGrQ8USBqvV55bQ+HcLWmWUN7/vFoKiRr2yjM8EB1azKxC/VD0NYKhq5nnlwboZ+cxxcX5MxSkAWXV5dPySxW+kMpfnPYlhMSTUMlx6/Gw+cjFa9vAxw1b2j+lT+rCpTa+IolCdhFGqWkQxY2mke0qALxzxkUbGru6zYY/+85He53Fm+vEw2wRokew+A3xnA01wOXu7HAgeE7TKv5P4o2AEimURlS1YdWu2h8jTw69NM2G5/hgOgogdgwf3lrWTl6Dz8coH6ABBN4B8oIScCiMlcFxveVpSkMETxntL98liYR8=;bASPy2d5g/tcj6naP/CE3w=="
 ---
 

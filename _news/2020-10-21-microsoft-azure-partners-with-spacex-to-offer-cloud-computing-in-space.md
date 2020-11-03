@@ -1,33 +1,23 @@
 ---
 category: news
 title: "Microsoft Azure Partners With SpaceX to Offer Cloud Computing in Space"
-excerpt: "Microsoft ( NASDAQ:MSFT) announced today that it would partner with Elon Musk's SpaceX and others to bring cloud computing to the \"final frontier.\" The initiative, dubbed Azure Space, will use the services of a combined fleet of low-orbit spacecraft and traditional satellites to better connect the evolving space industry with the cloud."
-publishedDateTime: 2020-10-20T22:05:00Z
-originalUrl: "https://www.fool.com/investing/2020/10/20/microsoft-azure-partners-with-spacex-to-offer-clou/"
-webUrl: "https://www.fool.com/investing/2020/10/20/microsoft-azure-partners-with-spacex-to-offer-clou/"
-ampWebUrl: "https://www.fool.com/amp/investing/2020/10/20/microsoft-azure-partners-with-spacex-to-offer-clou/"
-cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/10/20/microsoft-azure-partners-with-spacex-to-offer-clou/"
+excerpt: "Microsoft (NASDAQ: MSFT) announced today that it would partner with Elon Musk's SpaceX and others to bring cloud computing to the \"final frontier.\" The initiative, dubbed Azure Space, will use the ..."
+publishedDateTime: 2020-10-20T18:19:00Z
+originalUrl: "https://www.nasdaq.com/articles/microsoft-azure-partners-with-spacex-to-offer-cloud-computing-in-space-2020-10-20"
+webUrl: "https://www.nasdaq.com/articles/microsoft-azure-partners-with-spacex-to-offer-cloud-computing-in-space-2020-10-20"
+ampWebUrl: "https://www.nasdaq.com/articles/microsoft-azure-partners-with-spacex-to-offer-cloud-computing-in-space-2020-10-20?amp"
+cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/microsoft-azure-partners-with-spacex-to-offer-cloud-computing-in-space-2020-10-20?amp"
 type: article
-quality: 97
+quality: 77
 heat: -1
 published: false
 
 provider:
-  name: The Motley Fool
-  domain: fool.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/fool.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - Azure
-
-images:
-  - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F595772%2Fsatellite-in-space-orbiting-the-earth.jpg&w=1200&op=resize"
-    width: 1200
-    height: 960
-    isCached: true
 
 related:
   - title: "Microsoft explains how it improved automatic image captioning in Azure Cognitive Services"
@@ -344,18 +334,18 @@ related:
         height: 1440
         isCached: true
   - title: "Hashtag Trending – Google VS the US; Hacking for charity; Microsoft Azure, but in space!"
-    excerpt: "Google is accused of abusing monopoly powers by the U.S. government, hackers are using cyber crime for good, and Microsoft debuts Azure"
-    publishedDateTime: 2020-10-21T09:04:00Z
-    webUrl: "https://www.itbusiness.ca/news/hashtag-trending-google-vs-the-us-hacking-for-charity-microsoft-azure-but-in-space/116377"
-    ampWebUrl: "https://www.itbusiness.ca/news/hashtag-trending-google-vs-the-us-hacking-for-charity-microsoft-azure-but-in-space/116377?amp=1"
-    cdnAmpWebUrl: "https://www-itbusiness-ca.cdn.ampproject.org/c/s/www.itbusiness.ca/news/hashtag-trending-google-vs-the-us-hacking-for-charity-microsoft-azure-but-in-space/116377?amp=1"
+    excerpt: "Google is accused of abusing monopoly powers by the U.S. government, hackers are using cyber crime for good, and Microsoft debuts Azure – in spaaace. It’s all the tech news that’s popular ..."
+    publishedDateTime: 2020-10-21T09:02:00Z
+    webUrl: "https://www.itworldcanada.com/article/hashtag-trending-google-vs-the-us-hacking-for-charity-microsoft-azure-but-in-space/437314"
+    ampWebUrl: "https://www.itworldcanada.com/article/hashtag-trending-google-vs-the-us-hacking-for-charity-microsoft-azure-but-in-space/437314?amp=1"
+    cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/hashtag-trending-google-vs-the-us-hacking-for-charity-microsoft-azure-but-in-space/437314?amp=1"
     type: article
     provider:
-      name: IT Business
-      domain: itbusiness.ca
+      name: IT World Canada
+      domain: itworldcanada.com
     quality: 48
     images:
-      - url: "https://i.itbusiness.ca/wp-content/uploads/2018/01/ht_banner-hashtag-trending-620x250.jpg"
+      - url: "https://i.itworldcanada.com/wp-content/uploads/2017/07/ht_3000X1668-e1501855285944-620x250.jpg"
         width: 620
         height: 250
         isCached: true
@@ -807,6 +797,6 @@ related:
       domain: seekingalpha.com
     quality: 2
 
-secured: "AKAGSQ3TXuCxIFapT3XjwgFMCp2aCcBbgsQ65mJhYsJiZRBKvjFB+AmIYwlOAr4rm2758kua+RpG0FC5M07JhIIy2EUZ3EkqyDk+iNGU/jOo0oaNSLFyj2y9n2o0gWTSv6e3QVPwzUkCzIbxCuBFdIy6J1OwZAvN3UQXOrDfsrKIjwwiZaDjr9jH4bC5HCqWY1fbxI/SoJxmr4yH7ty/DGOaG3VuLUliO0gd2f/f+w7DewnVBHeJUlHKjmTKsThlazLPY3Unq+Ldwx37Qa4DXOFF96OYTe7nQNK2EiLEtNLBr7SrL0jD/CHirUa60Tz9FYHsFPyTARgS6ezCZU9dRXzq+0oaOUoptopH5Ic03tzkr0sygFV8OG6NXJhaabmPeK9e4QeVLfr+33sqF09qSNnfe4PI1X2/dhfFFsEaZkysa3M7kPUUilKVWPPJJs1VadpNjspL28bgLMSdXpa8HugRVj+1RVk8CMcixPaDawDHzuKo1M9Ouy1OOStmkJsVkA6BAJagVSwgVKGql5pRLA==;Epim74GNKL1RlHlonayQ3Q=="
+secured: "vMxxFZLegTzabjlvD0bnAL6A2Zt+miUjnw5edtjHszFlGkIwVkKooQnEXJMZ0FGHEwVqbQ2h7O4k5BxIL+JuD33J/pwbmAeCfSrb9BobS/hjoAn3Tb+CZd/uyYoksv/VXKtCPH5DhLJcaezAj5ZAIBHXCbOfia0uxzLJglkYKTw1POpQ4eMBqAnn+/otAkrg9wb6ZSFiq2PsjvEfs9XoxMswSlvKdQWobyqLX9QFShqUUbAGMw4zUsOyMheuyLhRqcdga4uNunnKSDlsZKTYkpq2N76SAJ0MHPHZffOcbD+J0EYpNZfkM8pzEw+atJ8VFwjgZazJ7lwGiFZPpuXQDmk7sgZgh0bYoHbycCKcFRA=;Cb+yw8KeUm5JsbBuRiJ5WQ=="
 ---
 

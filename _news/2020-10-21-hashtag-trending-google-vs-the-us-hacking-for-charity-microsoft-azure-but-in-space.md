@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Hashtag Trending – Google VS the US; Hacking for charity; Microsoft Azure, but in space!"
-excerpt: "Google is accused of abusing monopoly powers by the U.S. government, hackers are using cyber crime for good, and Microsoft debuts Azure"
-publishedDateTime: 2020-10-21T09:04:00Z
-originalUrl: "https://www.itbusiness.ca/news/hashtag-trending-google-vs-the-us-hacking-for-charity-microsoft-azure-but-in-space/116377"
-webUrl: "https://www.itbusiness.ca/news/hashtag-trending-google-vs-the-us-hacking-for-charity-microsoft-azure-but-in-space/116377"
-ampWebUrl: "https://www.itbusiness.ca/news/hashtag-trending-google-vs-the-us-hacking-for-charity-microsoft-azure-but-in-space/116377?amp=1"
-cdnAmpWebUrl: "https://www-itbusiness-ca.cdn.ampproject.org/c/s/www.itbusiness.ca/news/hashtag-trending-google-vs-the-us-hacking-for-charity-microsoft-azure-but-in-space/116377?amp=1"
+excerpt: "Google is accused of abusing monopoly powers by the U.S. government, hackers are using cyber crime for good, and Microsoft debuts Azure – in spaaace. It’s all the tech news that’s popular ..."
+publishedDateTime: 2020-10-21T09:02:00Z
+originalUrl: "https://www.itworldcanada.com/article/hashtag-trending-google-vs-the-us-hacking-for-charity-microsoft-azure-but-in-space/437314"
+webUrl: "https://www.itworldcanada.com/article/hashtag-trending-google-vs-the-us-hacking-for-charity-microsoft-azure-but-in-space/437314"
+ampWebUrl: "https://www.itworldcanada.com/article/hashtag-trending-google-vs-the-us-hacking-for-charity-microsoft-azure-but-in-space/437314?amp=1"
+cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/hashtag-trending-google-vs-the-us-hacking-for-charity-microsoft-azure-but-in-space/437314?amp=1"
 type: article
 quality: 48
 heat: -1
 published: false
 
 provider:
-  name: IT Business
-  domain: itbusiness.ca
+  name: IT World Canada
+  domain: itworldcanada.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://i.itbusiness.ca/wp-content/uploads/2018/01/ht_banner-hashtag-trending-620x250.jpg"
+  - url: "https://i.itworldcanada.com/wp-content/uploads/2017/07/ht_3000X1668-e1501855285944-620x250.jpg"
     width: 620
     height: 250
     isCached: true
@@ -122,22 +122,6 @@ related:
         width: 1200
         height: 609
         isCached: true
-  - title: "Microsoft Azure Partners With SpaceX to Offer Cloud Computing in Space"
-    excerpt: "Microsoft ( NASDAQ:MSFT) announced today that it would partner with Elon Musk's SpaceX and others to bring cloud computing to the \"final frontier.\" The initiative, dubbed Azure Space, will use the services of a combined fleet of low-orbit spacecraft and traditional satellites to better connect the evolving space industry with the cloud."
-    publishedDateTime: 2020-10-20T22:05:00Z
-    webUrl: "https://www.fool.com/investing/2020/10/20/microsoft-azure-partners-with-spacex-to-offer-clou/"
-    ampWebUrl: "https://www.fool.com/amp/investing/2020/10/20/microsoft-azure-partners-with-spacex-to-offer-clou/"
-    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/10/20/microsoft-azure-partners-with-spacex-to-offer-clou/"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 97
-    images:
-      - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F595772%2Fsatellite-in-space-orbiting-the-earth.jpg&w=1200&op=resize"
-        width: 1200
-        height: 960
-        isCached: true
   - title: "Microsoft unveils updates across Azure Cognitive Services and Azure Machine Learning"
     excerpt: "Microsoft rolled out updates across its AI and machine learning cloud portfolio during its Ignite 2020 virtual conference."
     publishedDateTime: 2020-09-22T16:00:00Z
@@ -217,6 +201,17 @@ related:
     provider:
       name: Digital Trends
       domain: digitaltrends.com
+    quality: 77
+  - title: "Microsoft Azure Partners With SpaceX to Offer Cloud Computing in Space"
+    excerpt: "Microsoft (NASDAQ: MSFT) announced today that it would partner with Elon Musk's SpaceX and others to bring cloud computing to the \"final frontier.\" The initiative, dubbed Azure Space, will use the ..."
+    publishedDateTime: 2020-10-20T18:19:00Z
+    webUrl: "https://www.nasdaq.com/articles/microsoft-azure-partners-with-spacex-to-offer-cloud-computing-in-space-2020-10-20"
+    ampWebUrl: "https://www.nasdaq.com/articles/microsoft-azure-partners-with-spacex-to-offer-cloud-computing-in-space-2020-10-20?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/microsoft-azure-partners-with-spacex-to-offer-cloud-computing-in-space-2020-10-20?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
     quality: 77
   - title: "Microsoft Azure Synapse Raises the Data Management Bar"
     excerpt: "Microsoft's refinements to its Azure Synapse platform should prove handy for professionals with on-demand analysis needs. First some basics on what Azure Synapse is. Azure Synapse is an analytics ..."
@@ -803,6 +798,6 @@ related:
       domain: seekingalpha.com
     quality: 2
 
-secured: "4NH9yDD9y5XOGBRSxLDd9muI23Np6z5OAp26/4MveZL4wrVEqmmuoBxcVlQcevq5TKNvFl0JZv/yBsy8fVAN5n6vngW6Q6t3hWkyvygv1QzxeqjkcHHeUu6CzrWaVE73kBSj0qTbBR4Jjd4A62LBnUxFu8gs37uauyMpdzU9yjZvHeFraO5X3q6EE2vHegTFFBcCIspdHcJBvBEY3VKnebYeKr2nDuPAwyM6dZpnoLWi9TraeW+Z4Y6B+yXYo+/RdqRorcDPQhFZUbpV/xk1rCWUgZl9MuGRmjzDhluob7xELiyc7j0YtBqufvapDfuzVRQxu6I8cN4kaZ5fH/Eza3ifteh5mBbnEPTXoLojJcs=;aKtHxLId7RxocS2YKQnW3w=="
+secured: "nx8PT3RL6KAJ45uuuRxI4lzX6MMJpK2XgDLbCzjY5XaMWzHVl5iBRotyGrgU2ld9rOO1ZFU7AwBdXDoNgS2dCy5fG+urA39q7qKi7JOQvchA5cxt86dp/OvRT5HSiEPLAYmduVsOnTG1ldPVGdAxTbNZsgOp1FxN4kZaNsuzxG4WCOw2AckgfXgyMsIwxkdPSyvwYU77zdrmb6m04f/9BuEKUhAWok/64BTFgp8hG2++ozV3RRr39qywxzVBX1yKs2zaSmkkVbDPqa46wQOvHfXZLTwVDyALXjd0FUd1Ffwal8h5jF5QT/a5AWLKvhQ4XHUANHhtH82YiQgdPGGXnWPieRcfnK40Lpira+DrF5M=;FAtKbJ0rrCEb6kSwYNXEag=="
 ---
 
