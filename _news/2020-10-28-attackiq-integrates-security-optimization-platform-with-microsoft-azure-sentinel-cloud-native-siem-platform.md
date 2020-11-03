@@ -25,96 +25,128 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft partners with SpaceX’s Starlink satellite service for Azure Space cloud platform"
-    excerpt: "Microsoft says it’s taking the next giant leap in cloud computing, in partnership with SpaceX and its Starlink broadband satellite constellation."
-    publishedDateTime: 2020-10-20T13:13:00Z
-    webUrl: "https://www.geekwire.com/2020/microsoft-partners-spacexs-starlink-satellite-service-azure-space-cloud-platform/"
-    ampWebUrl: "https://www.geekwire.com/2020/microsoft-partners-spacexs-starlink-satellite-service-azure-space-cloud-platform/amp/"
-    cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/microsoft-partners-spacexs-starlink-satellite-service-azure-space-cloud-platform/amp/"
+  - title: "It's Past Time for Microsoft to Disclose Azure Details"
+    excerpt: "It's been over five years since Amazon.com (NASDAQ:AMZN) started disclosing detailed results for Amazon Web Services (AWS). The cloud infrastructure business was simply becoming too important to the company's overall results,"
+    publishedDateTime: 2020-11-03T15:03:00Z
+    webUrl: "https://www.fool.com/investing/2020/11/03/its-past-time-for-microsoft-to-disclose-azure-deta/"
+    ampWebUrl: "https://www.fool.com/amp/investing/2020/11/03/its-past-time-for-microsoft-to-disclose-azure-deta/"
+    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/11/03/its-past-time-for-microsoft-to-disclose-azure-deta/"
     type: article
     provider:
-      name: GeekWire
-      domain: geekwire.com
-    quality: 87
+      name: The Motley Fool
+      domain: fool.com
+    quality: 97
     images:
-      - url: "https://cdn.geekwire.com/wp-content/uploads/2020/10/201020-azurespace-630x479.png"
-        width: 630
-        height: 479
-        isCached: true
-  - title: "Microsoft debuts Azure Space to cater to the space industry, partners with SpaceX for Starlink datacenter broadband"
-    excerpt: "Microsoft is taking its Azure cloud computing platform to the final frontier – space. It now has a dedicated business unit called Azure Space for that purpose, made up of industry heavyweights and engineers who are focused on space-sector services including simulation of space missions,"
-    publishedDateTime: 2020-10-20T13:13:00Z
-    webUrl: "https://techcrunch.com/2020/10/20/microsoft-debuts-azure-space-to-cater-to-the-space-industry-partners-with-spacex-for-starlink-datacenter-broadband/"
-    ampWebUrl: "https://techcrunch.com/2020/10/20/microsoft-debuts-azure-space-to-cater-to-the-space-industry-partners-with-spacex-for-starlink-datacenter-broadband/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/10/20/microsoft-debuts-azure-space-to-cater-to-the-space-industry-partners-with-spacex-for-starlink-datacenter-broadband/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 75
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/10/AzureSpace_3D2.png?w=1024"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "Microsoft partners with SpaceX to launch Azure Space—Here's what to know about the initiative"
-    excerpt: "Tom Keane, Microsoft Corporate vice president in charge of Azure Global, joins 'Squawk Alley' to discuss the company's partnership with SpaceX to bring worldwide satellite connectivity to cloud services."
-    publishedDateTime: 2020-10-20T16:50:00Z
-    webUrl: "https://www.cnbc.com/video/2020/10/20/microsoft-partners-with-spacex-to-launch-azure-spaceaheres-what-to-know-about-the-initiative.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 66
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106752600-16032092311603209228-12020288844-1080pnbcnews.jpg?v=1603209231"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Microsoft Announces Azure Space And Partnership With SpaceX Starlink"
-    excerpt: "With Microsoft and SpaceX working together, Azure could become “the platform and ecosystem of choice for the mission needs of the space community.”"
-    publishedDateTime: 2020-10-20T19:22:00Z
-    webUrl: "https://hothardware.com/news/microsoft-azure-and-starlink-partnership"
-    ampWebUrl: "https://amp.hothardware.com/news/microsoft-azure-and-starlink-partnership"
-    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/microsoft-azure-and-starlink-partnership"
-    type: article
-    provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 57
-    images:
-      - url: "https://images.hothardware.com/contentimages/newsitem/53184/content/spacex-rocket.jpg"
-        width: 708
-        height: 472
-        isCached: true
-  - title: "Microsoft Azure Space teams up with SpaceX's Starlink and SES's O3b"
-    excerpt: "Microsoft is expanding its off-planetary ambitions with the launch of a new business division, Azure Space. As part of the new initiative, Microsoft will partner with SpaceX's Starlink Internet service,"
-    publishedDateTime: 2020-10-21T11:34:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/microsoft-azure-space-teams-spacexs-starlink-and-sess-o3b/"
-    type: article
-    provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 37
-    images:
-      - url: "https://media.datacenterdynamics.com/media/images/SpaceXlaunch.2e16d0ba.fill-1200x630.jpg"
+      - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F598227%2Fdata-center.jpeg&w=1200&op=resize"
         width: 1200
-        height: 630
+        height: 799
         isCached: true
-  - title: "Microsoft's Azure Space Program Gets 'Modular' Datacenters"
-    excerpt: "Microsoft recently unveiled its new Azure Modular Datacenters, boxcar-like structures that can deliver compute and storage capabilities anywhere on earth, even \"extreme\" environments. The new ..."
-    publishedDateTime: 2020-10-21T00:00:00Z
-    webUrl: "https://rcpmag.com/articles/2020/10/21/microsoft-azure-space-modular-datacenters.aspx"
+  - title: "Microsoft named a Leader in the Gartner 2020 Magic Quadrant for Industrial IoT Platforms"
+    excerpt: "Embracing digital transformation in Industrial IoT requires companies to rethink and shift business models and operations. Doing so, however, has become more difficult in the past six months due to production slowdowns, restrictions on employee movement with social distancing, and rapidly shifting market"
+    publishedDateTime: 2020-10-29T08:00:09Z
+    webUrl: "https://azure.microsoft.com/blog/microsoft-named-a-leader-in-gartner-s-2020-magic-quadrant-for-industrial-iot-platforms/"
     type: article
     provider:
-      name: Redmond Channel Partner
-      domain: rcpmag.com
+      name: Microsoft
+      domain: microsoft.com
+    quality: 80
+    images:
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/c87156e3-af18-49b3-93e6-799c89df2138.png"
+        width: 624
+        height: 638
+        isCached: true
+  - title: "DH2i's DxOdyssey for IoT Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Oct. 28, 2020 /PRNewswire/ -- DH2i®, a leading provider of multi-platform Software Defined Perimeter (SDP) and Smart Availability software, today announced the availability of DxOdyssey for IoT in the Microsoft Azure Marketplace, an online store ..."
+    publishedDateTime: 2020-10-28T13:16:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/dh2is-dxodyssey-for-iot-now-available-in-the-microsoft-azure-marketplace-301161442.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 53
+    images:
+      - url: "https://mma.prnewswire.com/media/324010/dh2i_logo.jpg?p=facebook"
+        width: 1400
+        height: 732
+        isCached: true
+  - title: "Microsoft to establish its first datacenter region in Taiwan "
+    excerpt: "The new region is anticipated to include Microsoft Azure, with Microsoft 365, Dynamics 365 and Power Platform to follow."
+    publishedDateTime: 2020-10-27T16:05:07Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/microsoft-to-establish-its-first-datacenter-region-in-taiwan-as-a-part-of-its-reimagine-taiwan-initiative/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 52
+  - title: "Lindsay to Develop Sustainable and Profitable Solutions for Growers using Microsoft Azure"
+    excerpt: "PRNewswire/ -- Lindsay Corporation (NYSE: LNN), a leading global manufacturer and distributor of irrigation and infrastructure equipment and technology, today announced the development of intelligent digital solutions using Microsoft Azure to enhance irrigation management,"
+    publishedDateTime: 2020-10-30T10:51:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/lindsay-to-develop-sustainable-and-profitable-solutions-for-growers-using-microsoft-azure-1029745663"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 48
+  - title: "Microsoft to build Azure datacenter, cloud hardware R&D team in Taiwan"
+    excerpt: "Microsoft has announced plans to build a data center in Taiwan and grow a local team dedicated to the development of Azure cloud hardware and infrastructure, which is expected to accelerate the clustering of a datacenter server supply chain in the co..."
+    publishedDateTime: 2020-10-27T08:41:00Z
+    webUrl: "https://www.digitimes.com/news/a20201027PD207.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
     quality: 37
     images:
-      - url: "https://rcpmag.com/-/media/ECG/rcpmag/Images/2020/10/1021rcp_azurespace.jpg"
-        width: 647
+      - url: "https://www.digitimes.com/newsshow/20201027PD207_files/2_b.jpg"
+        width: 640
+        height: 427
+        isCached: true
+  - title: "New AttackIQ Solution Integrates with Microsoft Azure Sentinel to Strengthen Cyber Threat Detection and Investigation for Security Customers"
+    excerpt: "Building on its announcement of the Preactive Security Exchange (PSE) recently, AttackIQ Ⓡ today announced its integration between the Microsoft Azure Sentinel cloud-native security information and event manager (SIEM) platform and the AttackIQ Security Optimization Platform."
+    publishedDateTime: 2020-10-27T12:00:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-cybercrime-crime-4bbfcfa0841b4eccb3358b52cb46a4e0"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 19
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
         height: 450
         isCached: true
+  - title: "QuEST Global launches Center of Excellence for Microsoft Azure to develop innovative solutions for customers"
+    excerpt: "QuEST Global, a global product engineering and lifecycle services company, today announced it has signed an agreement with Microsoft to"
+    publishedDateTime: 2020-11-03T11:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/quest-global-launches-center-of-excellence-for-microsoft-azure-to-develop-innovative-solutions-for-customers-301164875.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 18
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
+        isCached: true
+  - title: "Around 15,000 servers needed for new Microsoft Azure datacenter in Taiwan"
+    excerpt: "An estimated 15,000 servers will be needed to support Microsoft's new Azure datacenter that will be unveiled in Taiwan by the end of 2021 at the earliest, according to industry sources."
+    publishedDateTime: 2020-11-03T06:29:00Z
+    webUrl: "https://www.digitimes.com/news/a20201103PD203.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 16
+  - title: "HYAS Joins the Microsoft Intelligent Security Association (MISA), Integrates HYAS Insight with Microsoft Azure Sentinel"
+    excerpt: "HYAS joins Microsoft Intelligent Security Alliance (MISA) and has integrated HYAS Insight threat intelligence solution with Microsoft Azure Sentinel."
+    publishedDateTime: 2020-10-28T12:45:00Z
+    webUrl: "https://www.businesswire.com/news/home/20201028005031/en/HYAS-Joins-the-Microsoft-Intelligent-Security-Association-MISA-Integrates-HYAS-Insight-with-Microsoft-Azure-Sentinel/?feedref=Zd8jjkgYuzBwDixoAdXmJgT1albrG1Eq4mAeVP39210hJvfF05B5fk8fgV08Rp7eevRMp3sIgu8q3wq1OF24lT93qbEzrwa15HGbLqMObxYB6IekXemGUNFauMeV8-aC2uKCrP6Vchv2JCmX-IB07A=="
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 10
 
 secured: "pie4UCgJ2WitCZcyXHQgi3N1qcqsgjcsbC2Zf2N6CviUyUIadQkb0qK3nz8uUJ/GRLRaFdst40xsDa0aY5JR7LQPjZA25XJaouP0sQfvWQpBnNF+nnqQEoy7Q5OuC2yQ1o9W/j0oXeAsNxl7oZci3usik7WeNEvqiFQqwzvZ+SVdaqnTPRLMm/WC4FWEN3xt5uVlykklGyoQsdQ9QNsz4+NiqYUV65TISKYALNZJx/7oVlfZ3Ywr7BuhUqtuawkQGWpJQ7qhv6UJ7WexLeVm5Izdb4a3gIl+Fvbd6kr2vzuhI4ccOtVAnLpqndLsqs7+gTvKtT/nRKJzxFYrAw6b/T2KJ5Lpoh8Vka6+cM+X0EzeopvWBRvBF7XssZSHcti08dlBb6/Xu0gUmD5EvbMO+nABMzyG789aXwMchrCjOG0bqasz3FWjXgIiiVuFtzJRI9hiQtiFK1ce0GWFk3KzxObNmk0aGXg1aYmmDsF5z0Ek7r793+pvVpAXcRat27y/82kHJ+OrFQ8jCahmFxOAsg==;xZY3eu/Q5kg8dSHevt3J1g=="
 ---

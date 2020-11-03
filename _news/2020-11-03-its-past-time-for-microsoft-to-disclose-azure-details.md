@@ -1,45 +1,35 @@
 ---
 category: news
-title: "Microsoft to build Azure datacenter, cloud hardware R&D team in Taiwan"
-excerpt: "Microsoft has announced plans to build a data center in Taiwan and grow a local team dedicated to the development of Azure cloud hardware and infrastructure, which is expected to accelerate the clustering of a datacenter server supply chain in the co..."
-publishedDateTime: 2020-10-27T08:41:00Z
-originalUrl: "https://www.digitimes.com/news/a20201027PD207.html"
-webUrl: "https://www.digitimes.com/news/a20201027PD207.html"
+title: "It's Past Time for Microsoft to Disclose Azure Details"
+excerpt: "It's been over five years since Amazon.com (NASDAQ:AMZN) started disclosing detailed results for Amazon Web Services (AWS). The cloud infrastructure business was simply becoming too important to the company's overall results,"
+publishedDateTime: 2020-11-03T15:03:00Z
+originalUrl: "https://www.fool.com/investing/2020/11/03/its-past-time-for-microsoft-to-disclose-azure-deta/"
+webUrl: "https://www.fool.com/investing/2020/11/03/its-past-time-for-microsoft-to-disclose-azure-deta/"
+ampWebUrl: "https://www.fool.com/amp/investing/2020/11/03/its-past-time-for-microsoft-to-disclose-azure-deta/"
+cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/11/03/its-past-time-for-microsoft-to-disclose-azure-deta/"
 type: article
-quality: 37
-heat: -1
-published: false
+quality: 97
+heat: 297
+published: true
 
 provider:
-  name: Digi Times
-  domain: digitimes.com
+  name: The Motley Fool
+  domain: fool.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/fool.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
 
 images:
-  - url: "https://www.digitimes.com/newsshow/20201027PD207_files/2_b.jpg"
-    width: 640
-    height: 427
+  - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F598227%2Fdata-center.jpeg&w=1200&op=resize"
+    width: 1200
+    height: 799
     isCached: true
 
 related:
-  - title: "It's Past Time for Microsoft to Disclose Azure Details"
-    excerpt: "It's been over five years since Amazon.com (NASDAQ:AMZN) started disclosing detailed results for Amazon Web Services (AWS). The cloud infrastructure business was simply becoming too important to the company's overall results,"
-    publishedDateTime: 2020-11-03T15:03:00Z
-    webUrl: "https://www.fool.com/investing/2020/11/03/its-past-time-for-microsoft-to-disclose-azure-deta/"
-    ampWebUrl: "https://www.fool.com/amp/investing/2020/11/03/its-past-time-for-microsoft-to-disclose-azure-deta/"
-    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/11/03/its-past-time-for-microsoft-to-disclose-azure-deta/"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 97
-    images:
-      - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F598227%2Fdata-center.jpeg&w=1200&op=resize"
-        width: 1200
-        height: 799
-        isCached: true
   - title: "Microsoft named a Leader in the Gartner 2020 Magic Quadrant for Industrial IoT Platforms"
     excerpt: "Embracing digital transformation in Industrial IoT requires companies to rethink and shift business models and operations. Doing so, however, has become more difficult in the past six months due to production slowdowns, restrictions on employee movement with social distancing, and rapidly shifting market"
     publishedDateTime: 2020-10-29T08:00:09Z
@@ -86,6 +76,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 48
+  - title: "Microsoft to build Azure datacenter, cloud hardware R&D team in Taiwan"
+    excerpt: "Microsoft has announced plans to build a data center in Taiwan and grow a local team dedicated to the development of Azure cloud hardware and infrastructure, which is expected to accelerate the clustering of a datacenter server supply chain in the co..."
+    publishedDateTime: 2020-10-27T08:41:00Z
+    webUrl: "https://www.digitimes.com/news/a20201027PD207.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 37
+    images:
+      - url: "https://www.digitimes.com/newsshow/20201027PD207_files/2_b.jpg"
+        width: 640
+        height: 427
+        isCached: true
   - title: "AttackIQ integrates Security Optimization Platform with Microsoft Azure Sentinel cloud-native SIEM platform"
     excerpt: "AttackIQ announced integration between Microsoft Azure Sentinel cloud-native SIEM platform and the AttackIQ Security Optimization Platform."
     publishedDateTime: 2020-10-28T03:00:00Z
@@ -147,6 +151,6 @@ related:
       domain: businesswire.com
     quality: 10
 
-secured: "DpkBsa51wwUK3Km/rJeUu+tZ+8Bgf3la9SF25ALGGRfPpMM7ftWLMJeN5nSyAGTSs0T5ITyZ18cEjmJPZKjOxtHZE9+hZWbh2nejnSVdNxbIOh+hadbqc/XyF4T/KSf4jRrMHE7nhbryBAd628QQKys6VSvb0889lq2gYyF/tEDsAylwcSi1lBFOq/FlN3jlH37x6rL3kozAdTVsTVlwWkSRgKJ2yPVg8JxWCDZ2wDJyqQGPx9HOJddynqd9ZUSro2ZvVQtCsU4C7BXyb1Zmsca+05vQRhBoYOMxCxItV3aYPQ/OiycKf6ME3VZTvv21sPjCvA+/oHWH9Kq0x6OBhxjcMk91XELOWBo76K8I5YgwRe9ffVgq+VfJQ/HZBdLZIm+7P0okKek9BEp1G+iEXE5Plo/HkRHhpPgE7u97OUxlnz/xnkKORwHwKJuLpzytAbGdMPN1IfYvNCI4MCENx6Kq5Khtt/+HAveheIqjefCdFWs93p38zc953rCFztmjhKhdmEpn8pgdHc/2XKFb0A==;cnFHuUGGSv5AcJcy9/6lqw=="
+secured: "9UA7PrHirxoC/Xd9RTF8zt/uosJ5o+3xUKBYb9ZuWOO7diWnjpDz92mfCNyIVGkcKOX+T8i6Bva6usl2oqQoJ8zpdhs0pSFKwA1gXMzftQ43GdxsnXv+5EKkZblfxyyu2RNRQ4cQqXVBzI7YdFEQ7ILghlhzZ+3TckICWRvud4Dz2yUKnC4SpOTnNJBkNHKdwHfuyYH5gp4Gw/wGNJV5813VNdU8WaN1+Zm0I1hK+H8DdcP0IJVnXABmqBhCC4ztnVLiqEH3cqla93ObQv7BP1Vf/acelWx82F1FQ8TljwmJnpODb0yPm+kXNDLpQhBYDVMwYJUeSufj73jVZt/4pj5BLkvaPLk7rqzfZ3nCvvI=;d8WrnhrgHZJGxKL+Wvb7dg=="
 ---
 

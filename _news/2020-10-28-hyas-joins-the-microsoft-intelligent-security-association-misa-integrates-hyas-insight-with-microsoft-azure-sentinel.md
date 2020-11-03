@@ -19,34 +19,59 @@ topics:
   - Security
 
 related:
-  - title: "WhiteSource Launches Extension For Microsoft Azure DevOps Services"
-    excerpt: "WhiteSource, the leader in open source security and license compliance management software, announced today its new native integration"
-    publishedDateTime: 2020-10-26T13:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/whitesource-launches-extension-for-microsoft-azure-devops-services-301159459.html"
+  - title: "It's Past Time for Microsoft to Disclose Azure Details"
+    excerpt: "It's been over five years since Amazon.com (NASDAQ:AMZN) started disclosing detailed results for Amazon Web Services (AWS). The cloud infrastructure business was simply becoming too important to the company's overall results,"
+    publishedDateTime: 2020-11-03T15:03:00Z
+    webUrl: "https://www.fool.com/investing/2020/11/03/its-past-time-for-microsoft-to-disclose-azure-deta/"
+    ampWebUrl: "https://www.fool.com/amp/investing/2020/11/03/its-past-time-for-microsoft-to-disclose-azure-deta/"
+    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/11/03/its-past-time-for-microsoft-to-disclose-azure-deta/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 97
+    images:
+      - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F598227%2Fdata-center.jpeg&w=1200&op=resize"
+        width: 1200
+        height: 799
+        isCached: true
+  - title: "Microsoft named a Leader in the Gartner 2020 Magic Quadrant for Industrial IoT Platforms"
+    excerpt: "Embracing digital transformation in Industrial IoT requires companies to rethink and shift business models and operations. Doing so, however, has become more difficult in the past six months due to production slowdowns, restrictions on employee movement with social distancing, and rapidly shifting market"
+    publishedDateTime: 2020-10-29T08:00:09Z
+    webUrl: "https://azure.microsoft.com/blog/microsoft-named-a-leader-in-gartner-s-2020-magic-quadrant-for-industrial-iot-platforms/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 80
+    images:
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/c87156e3-af18-49b3-93e6-799c89df2138.png"
+        width: 624
+        height: 638
+        isCached: true
+  - title: "DH2i's DxOdyssey for IoT Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Oct. 28, 2020 /PRNewswire/ -- DH2i®, a leading provider of multi-platform Software Defined Perimeter (SDP) and Smart Availability software, today announced the availability of DxOdyssey for IoT in the Microsoft Azure Marketplace, an online store ..."
+    publishedDateTime: 2020-10-28T13:16:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/dh2is-dxodyssey-for-iot-now-available-in-the-microsoft-azure-marketplace-301161442.html"
     type: article
     provider:
       name: PR Newswire
       domain: prnewswire.com
-    quality: 54
+    quality: 53
     images:
-      - url: "https://mma.prnewswire.com/media/1028570/Whitesource_Logo.jpg?p=facebook"
-        width: 1536
-        height: 806
+      - url: "https://mma.prnewswire.com/media/324010/dh2i_logo.jpg?p=facebook"
+        width: 1400
+        height: 732
         isCached: true
-  - title: "WhiteSource Launches Extension For Microsoft Azure DevOps Services"
-    excerpt: "WhiteSource, the leader in open source security and license compliance management software, announced today its new native integration"
-    publishedDateTime: 2020-10-26T19:00:00Z
-    webUrl: "https://www.prnewswire.com/il/news-releases/whitesource-launches-extension-for-microsoft-azure-devops-services-301159459.html"
+  - title: "Microsoft to establish its first datacenter region in Taiwan "
+    excerpt: "The new region is anticipated to include Microsoft Azure, with Microsoft 365, Dynamics 365 and Power Platform to follow."
+    publishedDateTime: 2020-10-27T16:05:07Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/microsoft-to-establish-its-first-datacenter-region-in-taiwan-as-a-part-of-its-reimagine-taiwan-initiative/"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 54
-    images:
-      - url: "https://mma.prnewswire.com/media/1028570/Whitesource_Logo.jpg?p=facebook"
-        width: 1536
-        height: 806
-        isCached: true
+      name: Microsoft
+      domain: microsoft.com
+    quality: 52
   - title: "Lindsay to Develop Sustainable and Profitable Solutions for Growers using Microsoft Azure"
     excerpt: "PRNewswire/ -- Lindsay Corporation (NYSE: LNN), a leading global manufacturer and distributor of irrigation and infrastructure equipment and technology, today announced the development of intelligent digital solutions using Microsoft Azure to enhance irrigation management,"
     publishedDateTime: 2020-10-30T10:51:00Z
@@ -56,6 +81,71 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 48
+  - title: "Microsoft to build Azure datacenter, cloud hardware R&D team in Taiwan"
+    excerpt: "Microsoft has announced plans to build a data center in Taiwan and grow a local team dedicated to the development of Azure cloud hardware and infrastructure, which is expected to accelerate the clustering of a datacenter server supply chain in the co..."
+    publishedDateTime: 2020-10-27T08:41:00Z
+    webUrl: "https://www.digitimes.com/news/a20201027PD207.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 37
+    images:
+      - url: "https://www.digitimes.com/newsshow/20201027PD207_files/2_b.jpg"
+        width: 640
+        height: 427
+        isCached: true
+  - title: "AttackIQ integrates Security Optimization Platform with Microsoft Azure Sentinel cloud-native SIEM platform"
+    excerpt: "AttackIQ announced integration between Microsoft Azure Sentinel cloud-native SIEM platform and the AttackIQ Security Optimization Platform."
+    publishedDateTime: 2020-10-28T03:00:00Z
+    webUrl: "https://www.helpnetsecurity.com/2020/10/28/attackiq-microsoft-azure-sentinel/"
+    type: article
+    provider:
+      name: Help Net Security
+      domain: helpnetsecurity.com
+    quality: 36
+    images:
+      - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/10/14145709/helpnetsecurity.jpg"
+        width: 1200
+        height: 627
+        isCached: true
+  - title: "New AttackIQ Solution Integrates with Microsoft Azure Sentinel to Strengthen Cyber Threat Detection and Investigation for Security Customers"
+    excerpt: "Building on its announcement of the Preactive Security Exchange (PSE) recently, AttackIQ Ⓡ today announced its integration between the Microsoft Azure Sentinel cloud-native security information and event manager (SIEM) platform and the AttackIQ Security Optimization Platform."
+    publishedDateTime: 2020-10-27T12:00:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-cybercrime-crime-4bbfcfa0841b4eccb3358b52cb46a4e0"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 19
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "QuEST Global launches Center of Excellence for Microsoft Azure to develop innovative solutions for customers"
+    excerpt: "QuEST Global, a global product engineering and lifecycle services company, today announced it has signed an agreement with Microsoft to"
+    publishedDateTime: 2020-11-03T11:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/quest-global-launches-center-of-excellence-for-microsoft-azure-to-develop-innovative-solutions-for-customers-301164875.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 18
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
+        isCached: true
+  - title: "Around 15,000 servers needed for new Microsoft Azure datacenter in Taiwan"
+    excerpt: "An estimated 15,000 servers will be needed to support Microsoft's new Azure datacenter that will be unveiled in Taiwan by the end of 2021 at the earliest, according to industry sources."
+    publishedDateTime: 2020-11-03T06:29:00Z
+    webUrl: "https://www.digitimes.com/news/a20201103PD203.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 16
 
 secured: "8grjT5JDdN9Jg5PNmvNFne2/oG321HmJtOCnaBw7cZYQU6cPGmbND5uxhH7U5o6lujKJxt/lSl+Pq1bWbqbsP1rSUEBSyIozsqyuaKkT6X0U0DHnoqTyEuVTFYy8+eSRHn1iwdQOWPxbpP5nD/LOib5iyMcO8cXu2zBbDf8aVFQ4kD+0Gudi7dK1mTkKJ22ijWTn7O2oZ5IsNjtYckGFS5PCg1o53faOjCcsazgUKISSjIu0ZTMrrjoHJFz0Yxp0zVunjqDco6ya8bXMev9QgTN/TwYtJHzo10lN5zhPG/y2jjcniqv/uY0XP6YHmGLWjBrWTusZ3vHOYiC3bkFZmCcxoGtF5Gi5A1ZRbNDHrB0=;IIGusR/zaZU5E8OlCgmD7A=="
 ---

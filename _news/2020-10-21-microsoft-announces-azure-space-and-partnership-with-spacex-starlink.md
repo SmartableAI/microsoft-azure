@@ -100,20 +100,6 @@ related:
         width: 647
         height: 450
         isCached: true
-  - title: "AttackIQ integrates Security Optimization Platform with Microsoft Azure Sentinel cloud-native SIEM platform"
-    excerpt: "AttackIQ announced integration between Microsoft Azure Sentinel cloud-native SIEM platform and the AttackIQ Security Optimization Platform."
-    publishedDateTime: 2020-10-28T03:00:00Z
-    webUrl: "https://www.helpnetsecurity.com/2020/10/28/attackiq-microsoft-azure-sentinel/"
-    type: article
-    provider:
-      name: Help Net Security
-      domain: helpnetsecurity.com
-    quality: 36
-    images:
-      - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/10/14145709/helpnetsecurity.jpg"
-        width: 1200
-        height: 627
-        isCached: true
 
 secured: "D365p2uS3vgB3xDHTZLw+J9v3neOROho+4aLZ053Se3+IVLj5L2u9G8GzwAa00IP3jG6jFRsYm3iUKHemZTyiLGnJ/fG6Fb/SEcEOQ8xR5nXzsVmMwgiDHDZnSHUCGSivJa7I0bKV4EbImikDt0nbU6gBNX8GD/VIcGwGlCDdV4K1LCPXb8zdFp3nwwubU3irhzA4wbNDtY81u6HA8Ir2iXd7E0ZpUc25xZvGVsGyej4v+u1QQk2gxjS9gO+F87Zl3df7ho7yCRTszHo3jnDysrbqBq6uXf8rcET7W+nrpf/MiX5RpF3/KQmCN1kUIazR53kwaepAkosGyx/WjkvleiFv8aIiqONgiILlGr4tclAGhpy8T0sC/N/crUHE15+lERCny4sh+KOarPImisrUOhk6+IP1GRUe2xfGv8TGiaAoeCSaYWlKzSrskJndn7qMEaw1Wtxz4ohaaoAiAn4fo0uCQ+ZWiu/tmjrluKc6IOLLaPSMxmYcRj2JtK6+jdWyCT2SRbREZXrPtuZJ3YzdA==;JylQQE0A0HJodF+uM+vZog=="
 ---

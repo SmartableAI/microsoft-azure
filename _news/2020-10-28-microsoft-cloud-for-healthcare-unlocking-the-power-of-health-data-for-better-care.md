@@ -7,8 +7,8 @@ originalUrl: "https://azure.microsoft.com/blog/microsoft-cloud-for-healthcare-un
 webUrl: "https://azure.microsoft.com/blog/microsoft-cloud-for-healthcare-unlocking-the-power-of-health-data-for-better-care/"
 type: article
 quality: 66
-heat: 86
-published: true
+heat: 66
+published: false
 
 provider:
   name: Microsoft
@@ -26,22 +26,6 @@ images:
     width: 1440
     height: 600
     isCached: true
-
-related:
-  - title: "Microsoft to build Azure datacenter, cloud hardware R&D team in Taiwan"
-    excerpt: "Microsoft has announced plans to build a data center in Taiwan and grow a local team dedicated to the development of Azure cloud hardware and infrastructure, which is expected to accelerate the clustering of a datacenter server supply chain in the co..."
-    publishedDateTime: 2020-10-27T08:41:00Z
-    webUrl: "https://www.digitimes.com/news/a20201027PD207.html"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 37
-    images:
-      - url: "https://www.digitimes.com/newsshow/20201027PD207_files/2_b.jpg"
-        width: 640
-        height: 427
-        isCached: true
 
 secured: "kQuY2nJIZ3CVpRkZdmVOxjrd9JgaGABzljo4tgSeF2uS3yaTI8aHR3+KvNlqp8ohd6vDz9XRzwHXwPJ8n01drtxBRugseR/9Ve/xTxRPXJ7LCuORXh2n7KtmbojgZkYuM9AS+hb4DNmIPILXXv3553Cx7ylA5+XYbW3I9XqoaIQPTi6Udt8IX2X+a4Bo6ZaFTbVIlY2vSLI1Z8L5O685EV0yBX8cbc3hIg7jkXXY1Ga6S+N94m+7iFjuPVQUjmMY9/1mZ/NoxHn6IMbzhvMO9VTQMeV1T3HiuWSzHwepNa1bJFQFU5zd/9aZZl771s3bzmk0fGm4dBGO3HieSFIiwBik+XVgCNP4wI57yRUWC+0=;e1wesZ6Un+UDpajsuBTrQw=="
 ---

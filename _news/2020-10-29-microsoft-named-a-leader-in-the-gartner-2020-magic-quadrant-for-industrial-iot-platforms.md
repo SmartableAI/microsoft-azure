@@ -29,48 +29,128 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft is a Leader in the 2020 Gartner Magic Quadrant for Full Life Cycle API Management"
-    excerpt: "We are excited to share that Microsoft has been named a Leader in the Gartner Magic Quadrant for Full Life Cycle API Management 2020 based on the ability to execute and completeness of vision. Our placement is a testament to our continued innovation in enterprise API management capabilities and broad"
-    publishedDateTime: 2020-10-08T09:00:28Z
-    webUrl: "https://azure.microsoft.com/blog/microsoft-is-a-leader-in-the-2020-gartner-magic-quadrant-for-full-life-cycle-api-management/"
+  - title: "It's Past Time for Microsoft to Disclose Azure Details"
+    excerpt: "It's been over five years since Amazon.com (NASDAQ:AMZN) started disclosing detailed results for Amazon Web Services (AWS). The cloud infrastructure business was simply becoming too important to the company's overall results,"
+    publishedDateTime: 2020-11-03T15:03:00Z
+    webUrl: "https://www.fool.com/investing/2020/11/03/its-past-time-for-microsoft-to-disclose-azure-deta/"
+    ampWebUrl: "https://www.fool.com/amp/investing/2020/11/03/its-past-time-for-microsoft-to-disclose-azure-deta/"
+    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/11/03/its-past-time-for-microsoft-to-disclose-azure-deta/"
     type: article
     provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 81
+      name: The Motley Fool
+      domain: fool.com
+    quality: 97
     images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/1f677c33-38c9-4a44-beaf-a147e625b476.jpg"
-        width: 708
-        height: 768
+      - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F598227%2Fdata-center.jpeg&w=1200&op=resize"
+        width: 1200
+        height: 799
         isCached: true
-  - title: "Microsoft named a leader in Gartner’s Magic Quadrant for Enterprise Integration Platform as a Service"
-    excerpt: "We are excited to share that Gartner has positioned Microsoft as a Leader in the 2020 enterprise integration platform as a service (EiPaaS) Magic Quadrant, based on our ability to execute and completeness of vision. Microsoft has now remained an EiPaaS MQ leader for the past three years."
-    publishedDateTime: 2020-09-30T08:00:19Z
-    webUrl: "https://azure.microsoft.com/blog/microsoft-named-a-leader-in-gartners-magic-quadrant-for-enterprise-integration-platform-as-a-service/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 78
-    images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/2059e880-8170-4a2e-9a89-59d77305b60a.png"
-        width: 737
-        height: 768
-        isCached: true
-  - title: "Komprise addresses demand for file data management in the cloud with new capabilities for Microsoft Azure Files and Azure NetApp Files"
-    excerpt: "PRNewswire/ -- Komprise, the leader in analytics-driven data management, today announced new capabilities for its Komprise Intelligent Data"
-    publishedDateTime: 2020-10-06T13:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/komprise-addresses-demand-for-file-data-management-in-the-cloud-with-new-capabilities-for-microsoft-azure-files-and-azure-netapp-files-301146567.html"
+  - title: "DH2i's DxOdyssey for IoT Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Oct. 28, 2020 /PRNewswire/ -- DH2i®, a leading provider of multi-platform Software Defined Perimeter (SDP) and Smart Availability software, today announced the availability of DxOdyssey for IoT in the Microsoft Azure Marketplace, an online store ..."
+    publishedDateTime: 2020-10-28T13:16:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/dh2is-dxodyssey-for-iot-now-available-in-the-microsoft-azure-marketplace-301161442.html"
     type: article
     provider:
       name: PR Newswire
       domain: prnewswire.com
-    quality: 5
+    quality: 53
+    images:
+      - url: "https://mma.prnewswire.com/media/324010/dh2i_logo.jpg?p=facebook"
+        width: 1400
+        height: 732
+        isCached: true
+  - title: "Microsoft to establish its first datacenter region in Taiwan "
+    excerpt: "The new region is anticipated to include Microsoft Azure, with Microsoft 365, Dynamics 365 and Power Platform to follow."
+    publishedDateTime: 2020-10-27T16:05:07Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/microsoft-to-establish-its-first-datacenter-region-in-taiwan-as-a-part-of-its-reimagine-taiwan-initiative/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 52
+  - title: "Lindsay to Develop Sustainable and Profitable Solutions for Growers using Microsoft Azure"
+    excerpt: "PRNewswire/ -- Lindsay Corporation (NYSE: LNN), a leading global manufacturer and distributor of irrigation and infrastructure equipment and technology, today announced the development of intelligent digital solutions using Microsoft Azure to enhance irrigation management,"
+    publishedDateTime: 2020-10-30T10:51:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/lindsay-to-develop-sustainable-and-profitable-solutions-for-growers-using-microsoft-azure-1029745663"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 48
+  - title: "Microsoft to build Azure datacenter, cloud hardware R&D team in Taiwan"
+    excerpt: "Microsoft has announced plans to build a data center in Taiwan and grow a local team dedicated to the development of Azure cloud hardware and infrastructure, which is expected to accelerate the clustering of a datacenter server supply chain in the co..."
+    publishedDateTime: 2020-10-27T08:41:00Z
+    webUrl: "https://www.digitimes.com/news/a20201027PD207.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 37
+    images:
+      - url: "https://www.digitimes.com/newsshow/20201027PD207_files/2_b.jpg"
+        width: 640
+        height: 427
+        isCached: true
+  - title: "AttackIQ integrates Security Optimization Platform with Microsoft Azure Sentinel cloud-native SIEM platform"
+    excerpt: "AttackIQ announced integration between Microsoft Azure Sentinel cloud-native SIEM platform and the AttackIQ Security Optimization Platform."
+    publishedDateTime: 2020-10-28T03:00:00Z
+    webUrl: "https://www.helpnetsecurity.com/2020/10/28/attackiq-microsoft-azure-sentinel/"
+    type: article
+    provider:
+      name: Help Net Security
+      domain: helpnetsecurity.com
+    quality: 36
+    images:
+      - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/10/14145709/helpnetsecurity.jpg"
+        width: 1200
+        height: 627
+        isCached: true
+  - title: "New AttackIQ Solution Integrates with Microsoft Azure Sentinel to Strengthen Cyber Threat Detection and Investigation for Security Customers"
+    excerpt: "Building on its announcement of the Preactive Security Exchange (PSE) recently, AttackIQ Ⓡ today announced its integration between the Microsoft Azure Sentinel cloud-native security information and event manager (SIEM) platform and the AttackIQ Security Optimization Platform."
+    publishedDateTime: 2020-10-27T12:00:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-cybercrime-crime-4bbfcfa0841b4eccb3358b52cb46a4e0"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 19
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "QuEST Global launches Center of Excellence for Microsoft Azure to develop innovative solutions for customers"
+    excerpt: "QuEST Global, a global product engineering and lifecycle services company, today announced it has signed an agreement with Microsoft to"
+    publishedDateTime: 2020-11-03T11:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/quest-global-launches-center-of-excellence-for-microsoft-azure-to-develop-innovative-solutions-for-customers-301164875.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 18
     images:
       - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
         width: 600
         height: 315
         isCached: true
+  - title: "Around 15,000 servers needed for new Microsoft Azure datacenter in Taiwan"
+    excerpt: "An estimated 15,000 servers will be needed to support Microsoft's new Azure datacenter that will be unveiled in Taiwan by the end of 2021 at the earliest, according to industry sources."
+    publishedDateTime: 2020-11-03T06:29:00Z
+    webUrl: "https://www.digitimes.com/news/a20201103PD203.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 16
+  - title: "HYAS Joins the Microsoft Intelligent Security Association (MISA), Integrates HYAS Insight with Microsoft Azure Sentinel"
+    excerpt: "HYAS joins Microsoft Intelligent Security Alliance (MISA) and has integrated HYAS Insight threat intelligence solution with Microsoft Azure Sentinel."
+    publishedDateTime: 2020-10-28T12:45:00Z
+    webUrl: "https://www.businesswire.com/news/home/20201028005031/en/HYAS-Joins-the-Microsoft-Intelligent-Security-Association-MISA-Integrates-HYAS-Insight-with-Microsoft-Azure-Sentinel/?feedref=Zd8jjkgYuzBwDixoAdXmJgT1albrG1Eq4mAeVP39210hJvfF05B5fk8fgV08Rp7eevRMp3sIgu8q3wq1OF24lT93qbEzrwa15HGbLqMObxYB6IekXemGUNFauMeV8-aC2uKCrP6Vchv2JCmX-IB07A=="
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 10
 
 secured: "zDjA211pyekvOJixCEZRV9fmmQ29DyOtM5gQjk9cCYdqPtlt0BZkdwGTScICMw6UYC0vlxv5kHqWO2bJiMvYnXofHRwNu0DJfxsG9j/IEBtd5ke0546IxvLzfa1M0vhOSxQ7gAEfWkhycM5xxvyoH31LU6tmRSRz3+ThZsbqpXeqKkNqVqf9pS3j6wZDfOWcsza6Y0ZQF0Bpsqt0T16UKj8S+Bn46Dfl+q+7YIZNghQfSP1gWmuOq++QHZDgqrQ5mfsXuyvtm2ninNp0ilIjmMHTiou67dxI18okz1+tAWtniTPmzLV27ohYgmFg6HvbfzfqSp2ecpKqeV6Rtor6BVAxMkgCMJrWlSYFCFCGgsw=;679c0Y0uHbDND3zSAxiAqw=="
 ---
