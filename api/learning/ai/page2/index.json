@@ -4,91 +4,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-azure-database-fundamentals.md",
-      "title": "Explore Azure database and analytics services",
-      "excerpt": "Learn about the database services that are available on Microsoft Azure, such as Azure Cosmos DB, Azure SQL, Azure Database for MySQL, Azure Database for PostgreSQL, as well as big data and analytics.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-azure-database-fundamentals/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
-      "length": "PT39M",
-      "ratings": {
-        "count": 209,
-        "average": 4.674641
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 55,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/azure-database-fundamentals-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Databases",
-        "Analytics",
-        "AI",
-        "Storage"
-      ]
-    },
-    {
-      "path": "_learning/videos/microsoft-cognitive-search-azure-search-with-ai-azure-friday.md",
-      "title": "Cognitive Search - Azure Search with AI | Azure Friday",
-      "excerpt": "Jacob Jedryszek joins Scott Hanselman to talk about about using Cognitive Services with Azure Search with your mobile and web apps. Skip hiring search experts who know what an inverted index is. Don't worry about distributed systems expertise to scale your service to handle large amount of data. And",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-cognitive-search-azure-search-with-ai-azure-friday/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-cognitive-search-azure-search-with-ai-azure-friday/",
-      "originalUrl": "https://youtube.com/watch?v=6kw8SHwxp9c",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6kw8SHwxp9c\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT14M24S",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2019-09-05T22:02:39-07:00",
-      "heat": 55,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/6kw8SHwxp9c/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "AI"
-      ]
-    },
-    {
       "path": "_learning/collections/microsoft-learn-create-intelligent-bots-with-the-azure-bot-service.md",
       "title": "Create Intelligent Bots with the Azure Bot Service",
       "excerpt": "In this learning path, find out how to build a chat bot to interact with customers using text, graphics, or speech with extras from QnA Maker and LUIS.",
@@ -119,8 +34,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-faq-chatbot-qna-maker-azure-bot-service/",
           "length": "PT29M",
           "ratings": {
-            "count": 1621,
-            "average": 4.6699567
+            "count": 1622,
+            "average": 4.6701603
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -182,8 +97,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-faq-chatbot-qna-maker-azure-bot-service/",
       "length": "PT29M",
       "ratings": {
-        "count": 1621,
-        "average": 4.6699567
+        "count": 1622,
+        "average": 4.6701603
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1242,6 +1157,49 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-ai-strategy-in-education.md",
+      "title": "Define an AI strategy to create value in education",
+      "excerpt": "Explore the strategic components, special factors, and use cases of an AI strategy in education that creates value, with INSEAD and Microsoft.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-ai-strategy-in-education/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-strategy-in-education/",
+      "length": "PT51M",
+      "ratings": {
+        "count": 559,
+        "average": 4.7567086
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/ai-strategy-in-education-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "AI"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-ai-strategy-in-financial-services.md",
       "title": "Define an AI strategy to create business value in financial services",
       "excerpt": "Explore the strategic components, use cases, and special factors of an AI strategy in financial services that creates business value, with INSEAD and Microsoft.",
@@ -1801,6 +1759,49 @@
       "topics": [
         "Azure",
         "Management Tools",
+        "AI"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-foster-ai-culture-finance.md",
+      "title": "Discover how to foster an AI-ready culture in finance",
+      "excerpt": "Learn the necessary cultural changes for enterprise finance organizations to make AI transformation successful, and how they fit into a holistic AI strategy.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-foster-ai-culture-finance/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/foster-ai-ready-culture-finance/",
+      "length": "PT39M",
+      "ratings": {
+        "count": 681,
+        "average": 4.8061676
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/foster-ai-ready-culture-finance-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
         "AI"
       ]
     }

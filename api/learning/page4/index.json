@@ -4,12 +4,12 @@
   "page": 4,
   "value": [
     {
-      "path": "_learning/collections/microsoft-learn-secure-your-cloud-applications-in-azure.md",
-      "title": "Secure your cloud applications in Azure",
-      "excerpt": "Learn how to secure your Azure apps and associated data with encryption, certificates, and policy.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-secure-your-cloud-applications-in-azure/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-secure-your-cloud-applications-in-azure/",
-      "length": "PT5H36M",
+      "path": "_learning/collections/microsoft-learn-ai-business-school-for-education.md",
+      "title": "AI business school for education",
+      "excerpt": "Learn to develop an AI strategy to create value in government, including artificial intelligence and machine learning technologies, culture, and responsible AI.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-ai-business-school-for-education/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-ai-business-school-for-education/",
+      "length": "PT9H42M",
       "provider": {
         "name": "Microsoft Learn",
         "domain": "microsoft.com",
@@ -24,64 +24,19 @@
       },
       "levels": [
         "Beginner",
-        "Intermediate",
-        "Advanced"
+        "Intermediate"
       ],
       "topItems": [
         {
-          "path": "_learning/courses/microsoft-learn-azure-well-architected-security.md",
-          "title": "Microsoft Azure Well-Architected Framework - Security",
-          "excerpt": "Discover the tools that Azure provides to help you design a secure environment throughout your infrastructure, data, network, and applications.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-azure-well-architected-security/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-security/",
-          "length": "PT1H2M",
+          "path": "_learning/courses/microsoft-learn-ai-strategy-to-create-business-value.md",
+          "title": "Define an AI strategy to create business value",
+          "excerpt": "Explore the strategic components, use cases, and special factors of an enterprise AI strategy that creates real business value, with INSEAD and Microsoft.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-ai-strategy-to-create-business-value/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-strategy-to-create-business-value/",
+          "length": "PT1H10M",
           "ratings": {
-            "count": 2504,
-            "average": 4.714856
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 55,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/azure-well-architected-security-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Identity",
-            "Security"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-top-5-security-items-to-consider.md",
-          "title": "Top 5 security items to consider before pushing to production",
-          "excerpt": "Learn about the Site Reliability Engineering approach to the challenge of assuring reliability and gain a better understanding of why it matters.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-top-5-security-items-to-consider/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/top-5-security-items-to-consider/",
-          "length": "PT45M",
-          "ratings": {
-            "count": 6427,
-            "average": 4.6510034
+            "count": 2402,
+            "average": 4.6981683
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -99,44 +54,9 @@
             "Intermediate"
           ],
           "heat": 52,
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Security"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-create-security-baselines.md",
-          "title": "Create security baselines",
-          "excerpt": "Create security baselines",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-create-security-baselines/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-security-baselines/",
-          "length": "PT60M",
-          "ratings": {
-            "count": 2381,
-            "average": 4.640487
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 50,
           "images": [
             {
-              "url": "https://docs.microsoft.com/learn/achievements/create-security-baselines-social.png",
+              "url": "https://docs.microsoft.com/learn/achievements/ai-strategy-to-create-business-value-social.png",
               "width": 800,
               "height": 400,
               "isCached": true
@@ -147,19 +67,19 @@
           "price": "Free",
           "topics": [
             "Azure",
-            "Security"
+            "AI"
           ]
         },
         {
-          "path": "_learning/courses/microsoft-learn-manage-secrets-with-azure-key-vault.md",
-          "title": "Manage secrets in your server apps with Azure Key Vault",
-          "excerpt": "Learn how to create an Azure Key Vault to store secret values and how to enable secure access to the vault.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-manage-secrets-with-azure-key-vault/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-secrets-with-azure-key-vault/",
-          "length": "PT46M",
+          "path": "_learning/courses/microsoft-learn-ai-strategy-in-education.md",
+          "title": "Define an AI strategy to create value in education",
+          "excerpt": "Explore the strategic components, special factors, and use cases of an AI strategy in education that creates value, with INSEAD and Microsoft.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-ai-strategy-in-education/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-strategy-in-education/",
+          "length": "PT51M",
           "ratings": {
-            "count": 1548,
-            "average": 4.5956073
+            "count": 559,
+            "average": 4.7567086
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -174,131 +94,12 @@
             ]
           },
           "levels": [
-            "Beginner"
-          ],
-          "heat": 51,
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Security",
-            "Compute",
-            "Web"
-          ]
-        }
-      ],
-      "size": 6,
-      "heat": 62,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/azure-well-architected-security-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Management Tools",
-        "Security",
-        "Identity",
-        "Integration",
-        "Web"
-      ]
-    },
-    {
-      "path": "_learning/collections/microsoft-learn-work-with-nosql-data-in-azure-cosmos-db.md",
-      "title": "Work with NoSQL data in Azure Cosmos DB",
-      "excerpt": "In this learning path, find out how to customize NoSQL data storage and distribution with the Azure portal, Cosmos DB extension, and Cosmos DB .NET Core SDK.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-work-with-nosql-data-in-azure-cosmos-db/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-work-with-nosql-data-in-azure-cosmos-db/",
-      "length": "PT6H3M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "topItems": [
-        {
-          "path": "_learning/courses/microsoft-learn-create-cosmos-db-for-scale.md",
-          "title": "Create an Azure Cosmos DB database built to scale",
-          "excerpt": "Learn how to create an Azure Cosmos DB account, database, and container built to scale as your application grows.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-create-cosmos-db-for-scale/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-cosmos-db-for-scale/",
-          "length": "PT35M",
-          "ratings": {
-            "count": 3883,
-            "average": 4.643317
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 54,
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Management Tools",
-            "Databases"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-choose-the-appropriate-api-for-cosmos-db-storage.md",
-          "title": "Choose the appropriate API for Azure Cosmos DB",
-          "excerpt": "Compare the different APIs that are available in Azure Cosmos DB, highlighting and contrasting the different scenarios that would make them a good choice for a company.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-choose-the-appropriate-api-for-cosmos-db-storage/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-api-for-cosmos-db/",
-          "length": "PT38M",
-          "ratings": {
-            "count": 2145,
-            "average": 4.676457
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
+            "Intermediate"
           ],
           "heat": 51,
           "images": [
             {
-              "url": "https://docs.microsoft.com/learn/achievements/choose-the-appropriate-api-for-cosmos-db-storage-social.png",
+              "url": "https://docs.microsoft.com/learn/achievements/ai-strategy-in-education-social.png",
               "width": 800,
               "height": 400,
               "isCached": true
@@ -309,19 +110,19 @@
           "price": "Free",
           "topics": [
             "Azure",
-            "Databases"
+            "AI"
           ]
         },
         {
-          "path": "_learning/courses/microsoft-learn-access-data-with-cosmos-db-and-sql-api.md",
-          "title": "Insert and query data in your Azure Cosmos DB database",
-          "excerpt": "Discover the Azure Cosmos DB Data Explorer tool that enables you to add or modify data. Create stored procedures in JavaScript.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-access-data-with-cosmos-db-and-sql-api/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/access-data-with-cosmos-db-and-sql-api/",
-          "length": "PT58M",
+          "path": "_learning/courses/microsoft-learn-build-an-ai-ready-culture.md",
+          "title": "Understand the importance of building an AI-ready culture",
+          "excerpt": "Understand the key elements that make a culture AI-ready and a framework to drive the change needed in your organization for a successful AI strategy.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-build-an-ai-ready-culture/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-an-ai-ready-culture/",
+          "length": "PT49M",
           "ratings": {
-            "count": 2584,
-            "average": 4.643963
+            "count": 984,
+            "average": 4.74187
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -336,48 +137,12 @@
             ]
           },
           "levels": [
-            "Beginner"
+            "Intermediate"
           ],
-          "heat": 52,
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Databases",
-            "Management Tools"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-store-access-data-cosmos-graph-api.md",
-          "title": "Store and access graph data in Azure Cosmos DB with the Graph API",
-          "excerpt": "Find out about creating an application with Azure Cosmos DB as a graph database, then retrieve, manipulate, and visualize graph data using Data Explorer.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-store-access-data-cosmos-graph-api/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/store-access-data-cosmos-graph-api/",
-          "length": "PT42M",
-          "ratings": {
-            "count": 1470,
-            "average": 4.6476192
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 50,
+          "heat": 51,
           "images": [
             {
-              "url": "https://docs.microsoft.com/learn/achievements/store-and-access-data-with-cosmos-db-and-the-graph-api-social.png",
+              "url": "https://docs.microsoft.com/learn/achievements/build-an-ai-ready-culture-social.png",
               "width": 800,
               "height": 400,
               "isCached": true
@@ -388,15 +153,58 @@
           "price": "Free",
           "topics": [
             "Azure",
-            "Databases"
+            "AI"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-foster-ai-culture-finance.md",
+          "title": "Discover how to foster an AI-ready culture in finance",
+          "excerpt": "Learn the necessary cultural changes for enterprise finance organizations to make AI transformation successful, and how they fit into a holistic AI strategy.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-foster-ai-culture-finance/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/foster-ai-ready-culture-finance/",
+          "length": "PT39M",
+          "ratings": {
+            "count": 681,
+            "average": 4.8061676
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 51,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/foster-ai-ready-culture-finance-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "AI"
           ]
         }
       ],
-      "size": 8,
-      "heat": 62,
+      "size": 12,
+      "heat": 61,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/choose-the-appropriate-api-for-cosmos-db-storage-social.png",
+          "url": "https://docs.microsoft.com/learn/achievements/ai-strategy-to-create-business-value-social.png",
           "width": 800,
           "height": 400,
           "isCached": true
@@ -407,8 +215,7 @@
       "price": "Free",
       "topics": [
         "Azure",
-        "Databases",
-        "Management Tools"
+        "AI"
       ]
     },
     {
@@ -1728,8 +1535,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-site-reliability-engineering/",
           "length": "PT55M",
           "ratings": {
-            "count": 570,
-            "average": 4.722807
+            "count": 571,
+            "average": 4.721541
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1806,8 +1613,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/capture-application-logs-app-service/",
           "length": "PT55M",
           "ratings": {
-            "count": 1330,
-            "average": 4.6263156
+            "count": 1331,
+            "average": 4.6265965
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1936,8 +1743,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/",
           "length": "PT36M",
           "ratings": {
-            "count": 1142,
-            "average": 4.758319
+            "count": 1152,
+            "average": 4.7578125
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1978,8 +1785,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-access-azure-identity-services/",
           "length": "PT17M",
           "ratings": {
-            "count": 84,
-            "average": 4.7380953
+            "count": 85,
+            "average": 4.7411766
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2278,8 +2085,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-sql-performance/",
           "length": "PT1H24M",
           "ratings": {
-            "count": 80,
-            "average": 4.8125
+            "count": 81,
+            "average": 4.814815
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2665,8 +2472,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/read-write-data-azure-databricks/",
           "length": "PT60M",
           "ratings": {
-            "count": 226,
-            "average": 4.561947
+            "count": 227,
+            "average": 4.5638766
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2762,6 +2569,220 @@
       "topics": [
         "Azure",
         "Analytics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_learning/collections/microsoft-learn-define-an-ai-strategy-to-create-business-value-across-industries.md",
+      "title": "Define an AI strategy to create business value across industries",
+      "excerpt": "Learn to develop an enterprise AI strategy to create business value in manufacturing, healthcare, financial services, retail, education, and Government.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-define-an-ai-strategy-to-create-business-value-across-industries/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-define-an-ai-strategy-to-create-business-value-across-industries/",
+      "length": "PT5H34M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-ai-strategy-to-create-business-value.md",
+          "title": "Define an AI strategy to create business value",
+          "excerpt": "Explore the strategic components, use cases, and special factors of an enterprise AI strategy that creates real business value, with INSEAD and Microsoft.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-ai-strategy-to-create-business-value/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-strategy-to-create-business-value/",
+          "length": "PT1H10M",
+          "ratings": {
+            "count": 2402,
+            "average": 4.6981683
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 52,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/ai-strategy-to-create-business-value-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "AI"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-ai-strategy-in-financial-services.md",
+          "title": "Define an AI strategy to create business value in financial services",
+          "excerpt": "Explore the strategic components, use cases, and special factors of an AI strategy in financial services that creates business value, with INSEAD and Microsoft.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-ai-strategy-in-financial-services/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-strategy-in-financial-services/",
+          "length": "PT45M",
+          "ratings": {
+            "count": 863,
+            "average": 4.734647
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 51,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/ai-strategy-in-financial-services-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "AI"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-ai-strategy-in-government.md",
+          "title": "Define an AI strategy to create value in government",
+          "excerpt": "Explore the strategic components, special factors, and use cases of an AI strategy in Government that creates value, with INSEAD and Microsoft.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-ai-strategy-in-government/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-strategy-in-government/",
+          "length": "PT47M",
+          "ratings": {
+            "count": 610,
+            "average": 4.731148
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/ai-strategy-in-government-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "AI"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-ai-strategy-in-education.md",
+          "title": "Define an AI strategy to create value in education",
+          "excerpt": "Explore the strategic components, special factors, and use cases of an AI strategy in education that creates value, with INSEAD and Microsoft.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-ai-strategy-in-education/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-strategy-in-education/",
+          "length": "PT51M",
+          "ratings": {
+            "count": 559,
+            "average": 4.7567086
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 51,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/ai-strategy-in-education-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "AI"
+          ]
+        }
+      ],
+      "size": 7,
+      "heat": 61,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/ai-strategy-to-create-business-value-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure",
         "AI"
       ]
     },
@@ -3444,8 +3465,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-security-in-azure/",
           "length": "PT1H16M",
           "ratings": {
-            "count": 45787,
-            "average": 4.705222
+            "count": 45788,
+            "average": 4.7052283
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3743,8 +3764,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/read-write-data-azure-databricks/",
           "length": "PT60M",
           "ratings": {
-            "count": 226,
-            "average": 4.561947
+            "count": 227,
+            "average": 4.5638766
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3874,8 +3895,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-azure-sap-workloads/",
           "length": "PT50M",
           "ratings": {
-            "count": 433,
-            "average": 4.8083143
+            "count": 434,
+            "average": 4.808756
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3916,8 +3937,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-sap-certified-offerings/",
           "length": "PT43M",
           "ratings": {
-            "count": 357,
-            "average": 4.789916
+            "count": 358,
+            "average": 4.790503
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4533,8 +4554,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-a-build-pipeline/",
           "length": "PT1H20M",
           "ratings": {
-            "count": 4877,
-            "average": 4.7434897
+            "count": 4878,
+            "average": 4.7435427
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4619,8 +4640,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-build-dependencies/",
           "length": "PT59M",
           "ratings": {
-            "count": 1737,
-            "average": 4.675878
+            "count": 1738,
+            "average": 4.6760645
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4959,8 +4980,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-a-build-pipeline/",
           "length": "PT1H20M",
           "ratings": {
-            "count": 4877,
-            "average": 4.7434897
+            "count": 4878,
+            "average": 4.7435427
           },
           "provider": {
             "name": "Microsoft Learn",

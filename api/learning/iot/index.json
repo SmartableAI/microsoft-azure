@@ -4,6 +4,41 @@
   "page": 1,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-register-and-manage-customer-devices-with-connected-field-service.md",
+      "title": "Register and manage devices with Connected Field Service for Dynamics 365 and Azure IoT",
+      "excerpt": "Register and Manage Customer Devices with Connected Field Service.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-register-and-manage-customer-devices-with-connected-field-service/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/register-and-manage-customer-devices-with-connected-field-service/",
+      "length": "PT1H26M",
+      "ratings": {
+        "count": 55,
+        "average": 4.690909
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 130,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "IoT"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-intro-to-compute.md",
       "title": "Core Cloud Services - Azure compute options",
       "excerpt": "Explore essential Azure concepts to find out how virtual machines, containers, and apps combined with serverless computing services can fortify your business.",
@@ -11,8 +46,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-compute/",
       "length": "PT38M",
       "ratings": {
-        "count": 64544,
-        "average": 4.7112355
+        "count": 64548,
+        "average": 4.7111917
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -75,8 +110,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/",
           "length": "PT36M",
           "ratings": {
-            "count": 1142,
-            "average": 4.758319
+            "count": 1152,
+            "average": 4.7578125
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -160,8 +195,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-devops-devtest-labs/",
           "length": "PT21M",
           "ratings": {
-            "count": 88,
-            "average": 4.75
+            "count": 90,
+            "average": 4.733333
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1106,8 +1141,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/capture-application-logs-app-service/",
           "length": "PT55M",
           "ratings": {
-            "count": 1330,
-            "average": 4.6263156
+            "count": 1331,
+            "average": 4.6265965
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2102,8 +2137,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/tm-approach-your-data-flow-diagram-with-the-right-threat-model-focus/",
           "length": "PT8M",
           "ratings": {
-            "count": 244,
-            "average": 4.741803
+            "count": 245,
+            "average": 4.7387757
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2277,7 +2312,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 50,
+          "heat": 130,
           "content": "\r\n",
           "type": "course",
           "price": "Free",
@@ -2426,8 +2461,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/iot-fundamentals/",
       "length": "PT25M",
       "ratings": {
-        "count": 96,
-        "average": 4.7604165
+        "count": 97,
+        "average": 4.7628865
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3160,49 +3195,6 @@
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/iot/manage-your-azure-iot-hub-with-metrics-alerts-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "IoT"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-remotely-monitor-and-control-devices-with-azure-iot-hub.md",
-      "title": "Remotely monitor and control devices with Azure IoT Hub",
-      "excerpt": "Create an IoT Hub device app, and a back-end service app. As a scenario, we use the monitoring, and controlling, of the temperature and humidity of a cheese cave.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-remotely-monitor-and-control-devices-with-azure-iot-hub/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/remotely-monitor-devices-with-azure-iot-hub/",
-      "length": "PT56M",
-      "ratings": {
-        "count": 228,
-        "average": 4.6666665
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/iot/remotely-monitor-and-control-devices-with-azure-iot-hub-social.png",
           "width": 800,
           "height": 400,
           "isCached": true

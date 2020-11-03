@@ -4,49 +4,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-foster-ai-culture-finance.md",
-      "title": "Discover how to foster an AI-ready culture in finance",
-      "excerpt": "Learn the necessary cultural changes for enterprise finance organizations to make AI transformation successful, and how they fit into a holistic AI strategy.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-foster-ai-culture-finance/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/foster-ai-ready-culture-finance/",
-      "length": "PT39M",
-      "ratings": {
-        "count": 681,
-        "average": 4.8061676
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/foster-ai-ready-culture-finance-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "AI"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-integrate-azure-databricks-other-azure-services.md",
       "title": "Integrate Azure Databricks with other Azure services",
       "excerpt": "Integrate Azure Databricks with other Azure services",
@@ -1556,8 +1513,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-images-computer-vision/",
       "length": "PT28M",
       "ratings": {
-        "count": 386,
-        "average": 4.764249
+        "count": 387,
+        "average": 4.764858
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1599,8 +1556,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-text-with-text-analytics-service/",
       "length": "PT29M",
       "ratings": {
-        "count": 335,
-        "average": 4.7910447
+        "count": 336,
+        "average": 4.7916665
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1790,6 +1747,49 @@
           "url": "https://docs.microsoft.com/learn/achievements/student-evangelism/build-ml-model-with-azure-stream-analytics-badge-social.png",
           "width": 800,
           "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "AI"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-classify-images-custom-vision.md",
+      "title": "Classify images with the Custom Vision service",
+      "excerpt": "Image classification is a common workload in artificial intelligence (AI) applications. It harnesses the predictive power of machine learning to enable AI systems to identify real-world items based on images.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-classify-images-custom-vision/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/classify-images-custom-vision/",
+      "length": "PT34M",
+      "ratings": {
+        "count": 341,
+        "average": 4.7507334
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/classify-images-custom-vision-social.png",
+          "width": 640,
+          "height": 320,
           "isCached": true
         }
       ],
