@@ -1,26 +1,28 @@
 ---
 category: news
-title: "Verizon Inks Partnership to Integrate Microsoft Azure for Operators"
-excerpt: "Verizon is expanding its onsite 5G edge wireless network offering with support for the new Microsoft Azure for Operators platform. The two companies this week said they will integrate Microsoft Azure for Operators with Verizon’s mobile edge computing ..."
-publishedDateTime: 2020-10-23T00:24:00Z
-originalUrl: "https://www.channelpartnersonline.com/2020/10/22/verizon-inks-partnership-to-integrate-microsoft-azure-for-operators/"
-webUrl: "https://www.channelpartnersonline.com/2020/10/22/verizon-inks-partnership-to-integrate-microsoft-azure-for-operators/"
+title: "Exabeam Extends Security Management Platform with AWS, Google Cloud Platform and Microsoft Azure Cloud Storage Monitoring"
+excerpt: "By ingesting audit data from Amazon Simple Storage Services (Amazon S3), Microsoft Azure Blobs and Google Cloud Platform Cloud Storage buckets, Exabeam can distinguish malicious activity from ..."
+publishedDateTime: 2020-10-29T14:16:00Z
+originalUrl: "https://www.oaoa.com/news/business/exabeam-extends-security-management-platform-with-aws-google-cloud-platform-and-microsoft-azure-cloud-storage/article_df685cae-fb58-5bc8-b562-0737c397017a.html"
+webUrl: "https://www.oaoa.com/news/business/exabeam-extends-security-management-platform-with-aws-google-cloud-platform-and-microsoft-azure-cloud-storage/article_df685cae-fb58-5bc8-b562-0737c397017a.html"
 type: article
-quality: 37
+quality: 46
 heat: -1
 published: false
 
 provider:
-  name: Channel Partners
-  domain: channelpartnersonline.com
+  name: Odessa American
+  domain: oaoa.com
 
 topics:
   - Azure
+  - Storage
+  - Security
 
 images:
-  - url: "https://www.channelpartnersonline.com/files/2020/10/Verizon-infrastructure-at-Ice-Mobility-distro-center-770x285.jpg"
-    width: 770
-    height: 285
+  - url: "https://www.valleymorningstar.com/wp-content/uploads/sites/63/2020/07/GET-IT-NOW-BUTTON.png"
+    width: 576
+    height: 288
     isCached: true
 
 related:
@@ -260,20 +262,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 48
-  - title: "Exabeam Extends Security Management Platform with AWS, Google Cloud Platform and Microsoft Azure Cloud Storage Monitoring"
-    excerpt: "By ingesting audit data from Amazon Simple Storage Services (Amazon S3), Microsoft Azure Blobs and Google Cloud Platform Cloud Storage buckets, Exabeam can distinguish malicious activity from ..."
-    publishedDateTime: 2020-10-29T14:16:00Z
-    webUrl: "https://www.oaoa.com/news/business/exabeam-extends-security-management-platform-with-aws-google-cloud-platform-and-microsoft-azure-cloud-storage/article_df685cae-fb58-5bc8-b562-0737c397017a.html"
-    type: article
-    provider:
-      name: Odessa American
-      domain: oaoa.com
-    quality: 46
-    images:
-      - url: "https://www.valleymorningstar.com/wp-content/uploads/sites/63/2020/07/GET-IT-NOW-BUTTON.png"
-        width: 576
-        height: 288
-        isCached: true
   - title: "Congruity360 Now Available in the Microsoft Azure Marketplace"
     excerpt: "Congruity360, data governance and storage leader, today announced the availability of Classify360 in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure."
     publishedDateTime: 2020-10-22T13:00:00Z
@@ -287,6 +275,20 @@ related:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
+        isCached: true
+  - title: "Verizon Inks Partnership to Integrate Microsoft Azure for Operators"
+    excerpt: "Verizon is expanding its onsite 5G edge wireless network offering with support for the new Microsoft Azure for Operators platform. The two companies this week said they will integrate Microsoft Azure for Operators with Verizon’s mobile edge computing ..."
+    publishedDateTime: 2020-10-23T00:24:00Z
+    webUrl: "https://www.channelpartnersonline.com/2020/10/22/verizon-inks-partnership-to-integrate-microsoft-azure-for-operators/"
+    type: article
+    provider:
+      name: Channel Partners
+      domain: channelpartnersonline.com
+    quality: 37
+    images:
+      - url: "https://www.channelpartnersonline.com/files/2020/10/Verizon-infrastructure-at-Ice-Mobility-distro-center-770x285.jpg"
+        width: 770
+        height: 285
         isCached: true
   - title: "SAP Solutions and Microsoft Azure partner in UAE"
     excerpt: "Microsoft has announced the availability of SAP workloads in the UAE data centre region at the Middle East and Africa Edition of the SAP Solutions on Microsoft Azure Virtual Event. The goal is to propel the cloud ecosystem in the region by empowering organizations to run their SAP workloads on Microsoft Azure."
@@ -488,6 +490,6 @@ related:
         height: 627
         isCached: true
 
-secured: "QuFjNrztEQUH+ufQyninaVlQbFum5nhgxC06eSQEQghNudyKs9MLH+oLKEBnmhaaeIeS2WS501YMCfjRZdEWwJxYfo0AMs79a2VyzhbR1E8sj9dx0BRMC0r6B5ROn5dN9rigCDpc69OvXHt/HHwaKjW6YXV1Qlqiu314d2OVPOZHDXjdCVo3K4kdSTslrjiZxSC3CgMNVgF27whh0YRAXIbubAkpCA6BGqidsqiXQzEDBcEUKDzlkZjwvQ8v7qXjT/NCIPcBUf73VbXYKvsTxSEpBsHFPYsUVO9msR22wDNqpqSwisA5lq/Us+l/IQcSQh8icb0LqMK1f9kJMo3DV/c+FLqj+jTefuNH4goO31zbFt2yOBHN76Aw9k4dC2PvwB+W9Tf1KJJuQm69G8j62d8WdhwRcDtRfinbHDdpgbcXdVz7TvqKVCrMOeI7wgWVfPZ/2CUVE+YR8wfTg0rvOmz9k+tXlo/9750KobTDPSReRBhgB2AZM40EapQ0doPpQKK2y3U23Raob9VkQPz93w==;YjZvcQsw2cWJ/l5qTYJELw=="
+secured: "a2tWnOLkaXjHDJIYw1YtOYkplfw4QPwO5SLHHchb0QkMv8tjBGJin8bhIdQGXACsk4qAaVCYdP3VmzP2OHfaFTpQzF3urGna2+B/PgL95mpbg3T80bKbeWQYbyzCIiVgEh3b2z8alga4vrCYVJ/mI5m+TB53F9kJVr+yISeK4Ne6QrI7p+WLhpQSTwKRooxZ4y3hfJIiIiqQz/KylYgDLh4kq6AM8KoExI7Nq8fsFs6zfSMH5SJeXIxg7bDrB/6sDq3Ue3y+ssyNITX0Ysqgu1GajN16EgZm4uil6jDUNZFIwm6ZyEqbMgJWwSV/S5lrNxszy5uKn4VHxa8tr8st/3icgvKi5a5BzhqdbRJUWjg=;XS9FERBKZiw+jjUgIbP5Fg=="
 ---
 

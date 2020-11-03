@@ -221,6 +221,20 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 52
+  - title: "HoriZone RA brings IoT sensor data securely into the Microsoft Azure cloud"
+    excerpt: "connected to Avnet´s IoTConnect Cloud Platform based on Microsoft Azure cloud. The multi-sensor solution is highly scalable, providing a seamless path from proof-of-concept to project through to deployment, including all the required building blocks."
+    publishedDateTime: 2020-10-30T05:43:00Z
+    webUrl: "https://www.newelectronics.co.uk/electronics-news/horizone-ra-brings-iot-sensor-data-securely-into-the-microsoft-azure-cloud/231719/"
+    type: article
+    provider:
+      name: New Electronics
+      domain: newelectronics.co.uk
+    quality: 52
+    images:
+      - url: "https://www.newelectronics.co.uk/article-images/231719/avnet.jpg?width=375&height=250&scale=canvas"
+        width: 375
+        height: 250
+        isCached: true
   - title: "Wayve chooses Microsoft Azure to scale AI-based autonomous driving technology"
     excerpt: "Wayve, the London-based company that’s developing artificial intelligence software for self-driving cars, has signed a deal with Microsoft to use Azure. The UK business, which is at the cutting-edge of autonomous development and is seeing strong growth ..."
     publishedDateTime: 2020-10-22T08:49:00Z
@@ -234,6 +248,20 @@ related:
       - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/68/2020/10/Wayve-Computer-Vision-1600x747.jpg"
         width: 1600
         height: 747
+        isCached: true
+  - title: "Exabeam Extends Security Management Platform with AWS, Google Cloud Platform and Microsoft Azure Cloud Storage Monitoring"
+    excerpt: "By ingesting audit data from Amazon Simple Storage Services (Amazon S3), Microsoft Azure Blobs and Google Cloud Platform Cloud Storage buckets, Exabeam can distinguish malicious activity from ..."
+    publishedDateTime: 2020-10-29T14:16:00Z
+    webUrl: "https://www.oaoa.com/news/business/exabeam-extends-security-management-platform-with-aws-google-cloud-platform-and-microsoft-azure-cloud-storage/article_df685cae-fb58-5bc8-b562-0737c397017a.html"
+    type: article
+    provider:
+      name: Odessa American
+      domain: oaoa.com
+    quality: 46
+    images:
+      - url: "https://www.valleymorningstar.com/wp-content/uploads/sites/63/2020/07/GET-IT-NOW-BUTTON.png"
+        width: 576
+        height: 288
         isCached: true
   - title: "Congruity360 Now Available in the Microsoft Azure Marketplace"
     excerpt: "Congruity360, data governance and storage leader, today announced the availability of Classify360 in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure."
@@ -401,6 +429,20 @@ related:
       - url: "https://winbuzzer.com/wp-content/uploads/2020/03/microsoft-for-healthcare-official.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Panasonic Expands Cloud Capabilities for Public Safety Professionals with Microsoft Azure Government Cloud"
+    excerpt: "Microsoft Azure Government cloud provides platform services for IDguard – Panasonic’s web-based identity redaction solution. This announcement further builds on the strategic relationship ..."
+    publishedDateTime: 2020-10-23T14:52:00Z
+    webUrl: "https://www.thedailytimes.com/business/panasonic-expands-cloud-capabilities-for-public-safety-professionals-with-microsoft-azure-government-cloud/article_829870a5-2185-5b5a-91fc-111ad2097567.html"
+    type: article
+    provider:
+      name: thedailytimes.com
+      domain: thedailytimes.com
+    quality: 19
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/thedailytimes.com/content/tncms/custom/image/4c01e2ce-7067-11e6-87cd-0725ce0cc960.jpg?resize=600%2C600"
+        width: 600
+        height: 600
         isCached: true
   - title: "Microsoft Azure: The Winning Formula"
     excerpt: "Microsoft's Azure platform registered a 59% revenue growth in the last quarter, fueling concerns of a slowdown and suggesting its losing ground to Amazon's AWS."

@@ -1,26 +1,26 @@
 ---
 category: news
-title: "Verizon Inks Partnership to Integrate Microsoft Azure for Operators"
-excerpt: "Verizon is expanding its onsite 5G edge wireless network offering with support for the new Microsoft Azure for Operators platform. The two companies this week said they will integrate Microsoft Azure for Operators with Verizon’s mobile edge computing ..."
-publishedDateTime: 2020-10-23T00:24:00Z
-originalUrl: "https://www.channelpartnersonline.com/2020/10/22/verizon-inks-partnership-to-integrate-microsoft-azure-for-operators/"
-webUrl: "https://www.channelpartnersonline.com/2020/10/22/verizon-inks-partnership-to-integrate-microsoft-azure-for-operators/"
+title: "Panasonic Expands Cloud Capabilities for Public Safety Professionals with Microsoft Azure Government Cloud"
+excerpt: "Microsoft Azure Government cloud provides platform services for IDguard – Panasonic’s web-based identity redaction solution. This announcement further builds on the strategic relationship ..."
+publishedDateTime: 2020-10-23T14:52:00Z
+originalUrl: "https://www.thedailytimes.com/business/panasonic-expands-cloud-capabilities-for-public-safety-professionals-with-microsoft-azure-government-cloud/article_829870a5-2185-5b5a-91fc-111ad2097567.html"
+webUrl: "https://www.thedailytimes.com/business/panasonic-expands-cloud-capabilities-for-public-safety-professionals-with-microsoft-azure-government-cloud/article_829870a5-2185-5b5a-91fc-111ad2097567.html"
 type: article
-quality: 37
+quality: 19
 heat: -1
 published: false
 
 provider:
-  name: Channel Partners
-  domain: channelpartnersonline.com
+  name: thedailytimes.com
+  domain: thedailytimes.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://www.channelpartnersonline.com/files/2020/10/Verizon-infrastructure-at-Ice-Mobility-distro-center-770x285.jpg"
-    width: 770
-    height: 285
+  - url: "https://bloximages.chicago2.vip.townnews.com/thedailytimes.com/content/tncms/custom/image/4c01e2ce-7067-11e6-87cd-0725ce0cc960.jpg?resize=600%2C600"
+    width: 600
+    height: 600
     isCached: true
 
 related:
@@ -288,6 +288,20 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Verizon Inks Partnership to Integrate Microsoft Azure for Operators"
+    excerpt: "Verizon is expanding its onsite 5G edge wireless network offering with support for the new Microsoft Azure for Operators platform. The two companies this week said they will integrate Microsoft Azure for Operators with Verizon’s mobile edge computing ..."
+    publishedDateTime: 2020-10-23T00:24:00Z
+    webUrl: "https://www.channelpartnersonline.com/2020/10/22/verizon-inks-partnership-to-integrate-microsoft-azure-for-operators/"
+    type: article
+    provider:
+      name: Channel Partners
+      domain: channelpartnersonline.com
+    quality: 37
+    images:
+      - url: "https://www.channelpartnersonline.com/files/2020/10/Verizon-infrastructure-at-Ice-Mobility-distro-center-770x285.jpg"
+        width: 770
+        height: 285
+        isCached: true
   - title: "SAP Solutions and Microsoft Azure partner in UAE"
     excerpt: "Microsoft has announced the availability of SAP workloads in the UAE data centre region at the Middle East and Africa Edition of the SAP Solutions on Microsoft Azure Virtual Event. The goal is to propel the cloud ecosystem in the region by empowering organizations to run their SAP workloads on Microsoft Azure."
     publishedDateTime: 2020-10-26T15:26:00Z
@@ -427,20 +441,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Panasonic Expands Cloud Capabilities for Public Safety Professionals with Microsoft Azure Government Cloud"
-    excerpt: "Microsoft Azure Government cloud provides platform services for IDguard – Panasonic’s web-based identity redaction solution. This announcement further builds on the strategic relationship ..."
-    publishedDateTime: 2020-10-23T14:52:00Z
-    webUrl: "https://www.thedailytimes.com/business/panasonic-expands-cloud-capabilities-for-public-safety-professionals-with-microsoft-azure-government-cloud/article_829870a5-2185-5b5a-91fc-111ad2097567.html"
-    type: article
-    provider:
-      name: thedailytimes.com
-      domain: thedailytimes.com
-    quality: 19
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/thedailytimes.com/content/tncms/custom/image/4c01e2ce-7067-11e6-87cd-0725ce0cc960.jpg?resize=600%2C600"
-        width: 600
-        height: 600
-        isCached: true
   - title: "Microsoft Azure: The Winning Formula"
     excerpt: "Microsoft's Azure platform registered a 59% revenue growth in the last quarter, fueling concerns of a slowdown and suggesting its losing ground to Amazon's AWS."
     publishedDateTime: 2020-05-28T12:36:00Z
@@ -488,6 +488,6 @@ related:
         height: 627
         isCached: true
 
-secured: "QuFjNrztEQUH+ufQyninaVlQbFum5nhgxC06eSQEQghNudyKs9MLH+oLKEBnmhaaeIeS2WS501YMCfjRZdEWwJxYfo0AMs79a2VyzhbR1E8sj9dx0BRMC0r6B5ROn5dN9rigCDpc69OvXHt/HHwaKjW6YXV1Qlqiu314d2OVPOZHDXjdCVo3K4kdSTslrjiZxSC3CgMNVgF27whh0YRAXIbubAkpCA6BGqidsqiXQzEDBcEUKDzlkZjwvQ8v7qXjT/NCIPcBUf73VbXYKvsTxSEpBsHFPYsUVO9msR22wDNqpqSwisA5lq/Us+l/IQcSQh8icb0LqMK1f9kJMo3DV/c+FLqj+jTefuNH4goO31zbFt2yOBHN76Aw9k4dC2PvwB+W9Tf1KJJuQm69G8j62d8WdhwRcDtRfinbHDdpgbcXdVz7TvqKVCrMOeI7wgWVfPZ/2CUVE+YR8wfTg0rvOmz9k+tXlo/9750KobTDPSReRBhgB2AZM40EapQ0doPpQKK2y3U23Raob9VkQPz93w==;YjZvcQsw2cWJ/l5qTYJELw=="
+secured: "yzuYOIcYqVb9iLmeyI2fJg3Xq4Q9actnd0E47Jimss9t2RLL3MRQOTkQNF8YEHJ5N2srYchQtYBSxCx7dMa524TbMOb2KZTn9pegG/ee7lyIp13CJbb2SmsQdhBzZc9XB7cn/+3CBMJAI3lPRhTeNXna5FLH6L07EI+mpKR/1D0A8iX7UZl5R7FcYF9YdUWG5HiMr8kumuoXpsk5JZAK0KKCg8u7ya8faumQVItYXd53qLm7ng5NfYQhtsKo2WI94dz4gttvbE9ngM/lKVVE2Tc2wwjLjepcpdVa5bTz73a8elm404gJP4J/Ll6JOB4ebL2hdKXOxUV/TxKprT934BMKlhhnc7iswwBV4ldxhBQ=;Z0xc9kGuMvxTyGGD6Y5d1A=="
 ---
 

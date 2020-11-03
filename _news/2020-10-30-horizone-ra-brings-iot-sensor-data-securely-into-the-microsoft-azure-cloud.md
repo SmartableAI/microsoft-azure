@@ -1,26 +1,27 @@
 ---
 category: news
-title: "Verizon Inks Partnership to Integrate Microsoft Azure for Operators"
-excerpt: "Verizon is expanding its onsite 5G edge wireless network offering with support for the new Microsoft Azure for Operators platform. The two companies this week said they will integrate Microsoft Azure for Operators with Verizon’s mobile edge computing ..."
-publishedDateTime: 2020-10-23T00:24:00Z
-originalUrl: "https://www.channelpartnersonline.com/2020/10/22/verizon-inks-partnership-to-integrate-microsoft-azure-for-operators/"
-webUrl: "https://www.channelpartnersonline.com/2020/10/22/verizon-inks-partnership-to-integrate-microsoft-azure-for-operators/"
+title: "HoriZone RA brings IoT sensor data securely into the Microsoft Azure cloud"
+excerpt: "connected to Avnet´s IoTConnect Cloud Platform based on Microsoft Azure cloud. The multi-sensor solution is highly scalable, providing a seamless path from proof-of-concept to project through to deployment, including all the required building blocks."
+publishedDateTime: 2020-10-30T05:43:00Z
+originalUrl: "https://www.newelectronics.co.uk/electronics-news/horizone-ra-brings-iot-sensor-data-securely-into-the-microsoft-azure-cloud/231719/"
+webUrl: "https://www.newelectronics.co.uk/electronics-news/horizone-ra-brings-iot-sensor-data-securely-into-the-microsoft-azure-cloud/231719/"
 type: article
-quality: 37
+quality: 52
 heat: -1
 published: false
 
 provider:
-  name: Channel Partners
-  domain: channelpartnersonline.com
+  name: New Electronics
+  domain: newelectronics.co.uk
 
 topics:
   - Azure
+  - IoT
 
 images:
-  - url: "https://www.channelpartnersonline.com/files/2020/10/Verizon-infrastructure-at-Ice-Mobility-distro-center-770x285.jpg"
-    width: 770
-    height: 285
+  - url: "https://www.newelectronics.co.uk/article-images/231719/avnet.jpg?width=375&height=250&scale=canvas"
+    width: 375
+    height: 250
     isCached: true
 
 related:
@@ -221,20 +222,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 52
-  - title: "HoriZone RA brings IoT sensor data securely into the Microsoft Azure cloud"
-    excerpt: "connected to Avnet´s IoTConnect Cloud Platform based on Microsoft Azure cloud. The multi-sensor solution is highly scalable, providing a seamless path from proof-of-concept to project through to deployment, including all the required building blocks."
-    publishedDateTime: 2020-10-30T05:43:00Z
-    webUrl: "https://www.newelectronics.co.uk/electronics-news/horizone-ra-brings-iot-sensor-data-securely-into-the-microsoft-azure-cloud/231719/"
-    type: article
-    provider:
-      name: New Electronics
-      domain: newelectronics.co.uk
-    quality: 52
-    images:
-      - url: "https://www.newelectronics.co.uk/article-images/231719/avnet.jpg?width=375&height=250&scale=canvas"
-        width: 375
-        height: 250
-        isCached: true
   - title: "Wayve chooses Microsoft Azure to scale AI-based autonomous driving technology"
     excerpt: "Wayve, the London-based company that’s developing artificial intelligence software for self-driving cars, has signed a deal with Microsoft to use Azure. The UK business, which is at the cutting-edge of autonomous development and is seeing strong growth ..."
     publishedDateTime: 2020-10-22T08:49:00Z
@@ -287,6 +274,20 @@ related:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
+        isCached: true
+  - title: "Verizon Inks Partnership to Integrate Microsoft Azure for Operators"
+    excerpt: "Verizon is expanding its onsite 5G edge wireless network offering with support for the new Microsoft Azure for Operators platform. The two companies this week said they will integrate Microsoft Azure for Operators with Verizon’s mobile edge computing ..."
+    publishedDateTime: 2020-10-23T00:24:00Z
+    webUrl: "https://www.channelpartnersonline.com/2020/10/22/verizon-inks-partnership-to-integrate-microsoft-azure-for-operators/"
+    type: article
+    provider:
+      name: Channel Partners
+      domain: channelpartnersonline.com
+    quality: 37
+    images:
+      - url: "https://www.channelpartnersonline.com/files/2020/10/Verizon-infrastructure-at-Ice-Mobility-distro-center-770x285.jpg"
+        width: 770
+        height: 285
         isCached: true
   - title: "SAP Solutions and Microsoft Azure partner in UAE"
     excerpt: "Microsoft has announced the availability of SAP workloads in the UAE data centre region at the Middle East and Africa Edition of the SAP Solutions on Microsoft Azure Virtual Event. The goal is to propel the cloud ecosystem in the region by empowering organizations to run their SAP workloads on Microsoft Azure."
@@ -488,6 +489,6 @@ related:
         height: 627
         isCached: true
 
-secured: "QuFjNrztEQUH+ufQyninaVlQbFum5nhgxC06eSQEQghNudyKs9MLH+oLKEBnmhaaeIeS2WS501YMCfjRZdEWwJxYfo0AMs79a2VyzhbR1E8sj9dx0BRMC0r6B5ROn5dN9rigCDpc69OvXHt/HHwaKjW6YXV1Qlqiu314d2OVPOZHDXjdCVo3K4kdSTslrjiZxSC3CgMNVgF27whh0YRAXIbubAkpCA6BGqidsqiXQzEDBcEUKDzlkZjwvQ8v7qXjT/NCIPcBUf73VbXYKvsTxSEpBsHFPYsUVO9msR22wDNqpqSwisA5lq/Us+l/IQcSQh8icb0LqMK1f9kJMo3DV/c+FLqj+jTefuNH4goO31zbFt2yOBHN76Aw9k4dC2PvwB+W9Tf1KJJuQm69G8j62d8WdhwRcDtRfinbHDdpgbcXdVz7TvqKVCrMOeI7wgWVfPZ/2CUVE+YR8wfTg0rvOmz9k+tXlo/9750KobTDPSReRBhgB2AZM40EapQ0doPpQKK2y3U23Raob9VkQPz93w==;YjZvcQsw2cWJ/l5qTYJELw=="
+secured: "k+PMmp76RqEQp35eGp3SJ566GCGO2LLVR3rJe6g7/Kq09EpwQlx1o7lt9/8WqvonfFek6iv8kV1TFBlJJEsW6gDGSo0wtOfCYh3rD7sljywo2zYx8yOTQPWhKnFd24zfpMm8n9g6Csv2liY6194gAk+o44rKpR/XauA60SQ5QtGk1qcHppaeAlPFekV4jsLConvMtPB0TB2I7BbJxxcYlHo7656fkYCroRHjCOtJ/tNP+RWUeP10oyX2cLsD5y5b9/rTrbef/4moxbZhVMrL5dc6p9swDZjK9nFYNDtejUKyknmLG0WZYoC1E3h/VSD9eADZ8ssJMaHeFQArWkmr+iO5ua2N0nEs0qNys2jRUcQ=;Zp8sf1FzJiUedq8plf+j7A=="
 ---
 
