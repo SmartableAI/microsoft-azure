@@ -1387,6 +1387,20 @@ related:
         width: 366
         height: 488
         isCached: true
+  - title: "Microsoft launches Microsoft Cloud for Healthcare"
+    excerpt: "Microsoft has launched Microsoft Cloud for Healthcare, an offering that provides healthcare organizations with digital tools for improved interoperability and data analysis. The offering was announced Oct."
+    publishedDateTime: 2020-11-04T14:59:00Z
+    webUrl: "https://www.beckershospitalreview.com/digital-transformation/microsoft-launches-microsoft-cloud-for-healthcare.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 22
+    images:
+      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-mobile-logo.png"
+        width: 460
+        height: 460
+        isCached: true
   - title: "Scality Announces 1 Terabit Per Second Performance for Scale-Out File System in Microsoft Azure Public Cloud"
     excerpt: "Scality, a leader in software solutions for distributed file and object storage, today announced the technical preview of its"
     publishedDateTime: 2020-09-29T13:00:00Z

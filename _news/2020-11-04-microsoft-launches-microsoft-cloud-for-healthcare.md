@@ -1,36 +1,45 @@
 ---
 category: news
-title: "Microsoft launches Azure Orbital to connect satellites to its cloud"
-excerpt: "Ignite conference, Microsoft today announced the launch of Azure Orbital, a new service that is meant to give satellite operators a complete platform to communicate with their satellites and process data from them — including the ground stations to receive those signals."
-publishedDateTime: 2020-09-24T05:26:00Z
-originalUrl: "https://techcrunch.com/2020/09/22/microsoft-launches-azure-orbital-to-connect-satellites-to-its-cloud/"
-webUrl: "https://techcrunch.com/2020/09/22/microsoft-launches-azure-orbital-to-connect-satellites-to-its-cloud/"
-ampWebUrl: "https://techcrunch.com/2020/09/22/microsoft-launches-azure-orbital-to-connect-satellites-to-its-cloud/amp/"
-cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/09/22/microsoft-launches-azure-orbital-to-connect-satellites-to-its-cloud/amp/"
+title: "Microsoft launches Microsoft Cloud for Healthcare"
+excerpt: "Microsoft has launched Microsoft Cloud for Healthcare, an offering that provides healthcare organizations with digital tools for improved interoperability and data analysis. The offering was announced Oct."
+publishedDateTime: 2020-11-04T14:59:00Z
+originalUrl: "https://www.beckershospitalreview.com/digital-transformation/microsoft-launches-microsoft-cloud-for-healthcare.html"
+webUrl: "https://www.beckershospitalreview.com/digital-transformation/microsoft-launches-microsoft-cloud-for-healthcare.html"
 type: article
-quality: 114
-heat: 2454
-published: true
+quality: 22
+heat: -1
+published: false
 
 provider:
-  name: TechCrunch
-  domain: techcrunch.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/techcrunch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Becker's Hospital Review
+  domain: beckershospitalreview.com
 
 topics:
   - Azure
-  - Networking
 
 images:
-  - url: "https://techcrunch.com/wp-content/uploads/2020/09/GettyImages-687795300.jpg?w=1024"
-    width: 1024
-    height: 683
+  - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-mobile-logo.png"
+    width: 460
+    height: 460
     isCached: true
 
 related:
+  - title: "Microsoft launches Azure Orbital to connect satellites to its cloud"
+    excerpt: "Ignite conference, Microsoft today announced the launch of Azure Orbital, a new service that is meant to give satellite operators a complete platform to communicate with their satellites and process data from them — including the ground stations to receive those signals."
+    publishedDateTime: 2020-09-24T05:26:00Z
+    webUrl: "https://techcrunch.com/2020/09/22/microsoft-launches-azure-orbital-to-connect-satellites-to-its-cloud/"
+    ampWebUrl: "https://techcrunch.com/2020/09/22/microsoft-launches-azure-orbital-to-connect-satellites-to-its-cloud/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/09/22/microsoft-launches-azure-orbital-to-connect-satellites-to-its-cloud/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 114
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2020/09/GettyImages-687795300.jpg?w=1024"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Azure Orbital launches Microsoft into a cloud computing space race with Amazon"
     excerpt: "The world’s largest and most northerly commercial satellite ground station, KSAT’s Svalbard Station in Norway’s Arctic archipelago, will be part of Microsoft’s Azure Orbital network. (KSAT Photo) Call it the Clash of the Cloud Titans: Today ..."
     publishedDateTime: 2020-09-22T15:02:00Z
@@ -1376,20 +1385,6 @@ related:
         width: 366
         height: 488
         isCached: true
-  - title: "Microsoft launches Microsoft Cloud for Healthcare"
-    excerpt: "Microsoft has launched Microsoft Cloud for Healthcare, an offering that provides healthcare organizations with digital tools for improved interoperability and data analysis. The offering was announced Oct."
-    publishedDateTime: 2020-11-04T14:59:00Z
-    webUrl: "https://www.beckershospitalreview.com/digital-transformation/microsoft-launches-microsoft-cloud-for-healthcare.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 22
-    images:
-      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-mobile-logo.png"
-        width: 460
-        height: 460
-        isCached: true
   - title: "Digital Transformation: Qatar Financial Center Regulatory Authority to Migrate Online Services to Microsoft Cloud"
     excerpt: "The Qatar Financial Center Regulatory Authority (QFCRA) recently revealed that it will be migrating its online services to the Microsoft Cloud in order to move forward with its digital transformation strategy."
     publishedDateTime: 2020-09-19T00:43:00Z
@@ -1584,6 +1579,6 @@ related:
         height: 450
         isCached: true
 
-secured: "mSZzUUwC7V/L8ANtRNBxiAWt65Qsr1uExw1VugCUCJoJgHbR/gHU+DROC4QPpaiFtXUlZvOTcKPefXbA0dklHbn+NtTOWBdUI2Sw/TDupdNTt1IvsscGzrNbcAYdij9TidzTbZcd44Zk74PGHe5PN7hXh+2AamfN3SJm/5GbpWu2rfJ2xPT+DzQgMy/PITLQMsROE1BFUMcTC2NG7+HHRRb7Az2DIHppJbXncTiI1E7mPTJSqmdUls/4AglEBZYsXsgIw9nrgZwjF+d3QoPdSt9ST5zNbdhzt5n3XxEvEzmxv1T2W/lDOsVSft8KmJXMyc8MeBvISw9InIzojCiF+HZz9yYj3qCzOKUSfqbGV7E7+WqGS8YqjcGF+TKSymm1NDjQZtOqlRCp3C6QkbiH8nBuS7f47g8wdN/YlC+ehVVaLwXHb963FpMMhekn8/kz0KGmGPorGtYVe0iy1zJkNDfOx7ohfjrS36usEZ+/zCpFxl8COSeNz7soBHKlXZ5dgL7qFRDS6wlA52vKhAL62g==;Q5vV2tlnTuuzpz1o0NWoQA=="
+secured: "90/ngU2mRA5iD4vqstPaaeyjasWwvNfy7cI6BIKc8toFh7YrxELaD43KWg7HLPi+jgOxBjA8lUBRa/vlww5UuyBUqMiwIIzi8+zd2Rdlc6XL6uQ/X7QiCnit2/Og+irS4LA+rihPwS9PgtFUFIU/oyXdlG2cYOG/Yzbb1CL/YQAqb4qi567wFvts5CWSX/SyEMM4dEvS7OFCaU617yfcdMgcNQl0EjhBDRNrTVXsOs6wRK2dn9YlbbbaiYTNMaY1f0pL5971s7XxAwYfSlTKm2cyELFkkT41vt5RIrj7gFPkY9bOkHGYJOEvHCiJBLLewl2rJLugSNaIfn9c+y5fimUUPABVIeu7oNhuZ99/G5k=;Ho05xFFXzDYn0jA3vQI4iQ=="
 ---
 

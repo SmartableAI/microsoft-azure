@@ -1385,6 +1385,20 @@ related:
         width: 366
         height: 488
         isCached: true
+  - title: "Microsoft launches Microsoft Cloud for Healthcare"
+    excerpt: "Microsoft has launched Microsoft Cloud for Healthcare, an offering that provides healthcare organizations with digital tools for improved interoperability and data analysis. The offering was announced Oct."
+    publishedDateTime: 2020-11-04T14:59:00Z
+    webUrl: "https://www.beckershospitalreview.com/digital-transformation/microsoft-launches-microsoft-cloud-for-healthcare.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 22
+    images:
+      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-mobile-logo.png"
+        width: 460
+        height: 460
+        isCached: true
   - title: "Digital Transformation: Qatar Financial Center Regulatory Authority to Migrate Online Services to Microsoft Cloud"
     excerpt: "The Qatar Financial Center Regulatory Authority (QFCRA) recently revealed that it will be migrating its online services to the Microsoft Cloud in order to move forward with its digital transformation strategy."
     publishedDateTime: 2020-09-19T00:43:00Z

@@ -1,27 +1,27 @@
 ---
 category: news
 title: "QuEST Global launches Center of Excellence for Microsoft Azure to develop innovative solutions for customers"
-excerpt: "QuEST Global, a global product engineering and lifecycle services company, today announced it has signed an agreement with Microsoft to launch a dedicated Center for Excellence (CoE) for Microsoft Azure."
-publishedDateTime: 2020-11-03T12:23:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/quest-global-launches-center-of-excellence-for-microsoft-azure-to-develop-innovative-solutions-for-customers-1029758272"
-webUrl: "https://markets.businessinsider.com/news/stocks/quest-global-launches-center-of-excellence-for-microsoft-azure-to-develop-innovative-solutions-for-customers-1029758272"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/quest-global-launches-center-of-excellence-for-microsoft-azure-to-develop-innovative-solutions-for-customers-1029758272"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/quest-global-launches-center-of-excellence-for-microsoft-azure-to-develop-innovative-solutions-for-customers-1029758272"
+excerpt: "QuEST Global, a global product engineering and lifecycle services company, today announced it has signed an agreement with Microsoft to"
+publishedDateTime: 2020-11-03T11:00:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/quest-global-launches-center-of-excellence-for-microsoft-azure-to-develop-innovative-solutions-for-customers-301164875.html"
+webUrl: "https://www.prnewswire.com/news-releases/quest-global-launches-center-of-excellence-for-microsoft-azure-to-develop-innovative-solutions-for-customers-301164875.html"
 type: article
-quality: 58
+quality: 18
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Azure
+
+images:
+  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+    width: 600
+    height: 315
+    isCached: true
 
 related:
   - title: "It's Past Time for Microsoft to Disclose Azure Details"
@@ -147,6 +147,6 @@ related:
       domain: businesswire.com
     quality: 10
 
-secured: "/ZzIDpsUns65EYQ8qoHro1kMkzfKTFCAKBvb8hnmoij3F5PeBbRM+2IByqNY5Xmm0ipfRrwQUN/sm7monqHrkIzG83j3b8zT2F5hgbmGdFAVyx3G8I/lwJ3k3X4GFhlWlhCbYn5Lr0006iQyv1zMx2LmXRHKBSUs4W42hG+ely8pJaSX//UkaxhwpxRjwx5jGbSQZ/fAsKpUObbNHmQc08chAEqnFLsCmKQ3gftroPJEpCmoBzvBTSCCK16Mu3VqE1h/PARpD2VDoiRfjH5UrgjdyYiK6eq19OqS6Yo/LBGMrXECGT1by09GxHZ8AccfgSuGO1oVj/QdM2ANex8AxL1G7J+5I5fy6DCUiQyu4ZE=;sjmLKW71pS+uKdwjkuGgWw=="
+secured: "4rzvp/Y1XSumnTrFhWZccq+pFm5Vo2Z+CtWG6JgFQFSKqgSuYJpwr28TOCcae3KlDWAuGBaY4tnelV9dx0Q8Wwfs+imkQYtL2KrjSgo656YMN/AcjaAUbpQeCR2HFtVQ97doXRz9C0mT30ad+LRlrDDsGoOxVARq/lDzpniTmSQyflBjcvz5COKU/AWwrXWup27o3t94dGLUOnkBFXwp2iWsWGha4MZz0xlIZg3248TumctENf3nZSVyO44uWQkbcNvfSpRMb2KurNtcuijis36wOzszxAF/OADNNEKek2ByXlvM3YOJkCzA4gKc7/pvNQv5OnTpbUBZhb4RN9VX4VkuwcA80S2avbNjNUHpHxM=;HpqHZPsN245eGIeLD0MprQ=="
 ---
 
