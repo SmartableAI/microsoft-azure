@@ -43,6 +43,46 @@
       ]
     },
     {
+      "path": "_learning/videos/microsoft-serverless-containers-with-azure-container-instances-aci-azure-friday.md",
+      "title": "Serverless containers with Azure Container Instances (ACI) | Azure Friday",
+      "excerpt": "In this episode, Azure CTO Mark Russinovich joins Scott Hanselman to show how you can use Azure Container Instances (ACI) to host a containerized application. Mark deploys an image processing container in three ways: as a standalone ACI container, as part of a Logic Apps workflow, and as the backend",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-serverless-containers-with-azure-container-instances-aci-azure-friday/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-serverless-containers-with-azure-container-instances-aci-azure-friday/",
+      "originalUrl": "https://youtube.com/watch?v=7G_oDLON7Us",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/7G_oDLON7Us\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT16M33S",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-09-03T14:26:47-07:00",
+      "heat": 133,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/7G_oDLON7Us/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Serverless",
+        "Containers"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-principles-cloud-computing.md",
       "title": "Cloud Concepts - Principles of cloud computing",
       "excerpt": "Explore the core concepts and benefits of cloud computing as you learn how to choose a cloud deployment model customized for your organization.",
@@ -50,8 +90,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/principles-cloud-computing/",
       "length": "PT1H2M",
       "ratings": {
-        "count": 172988,
-        "average": 4.7731924
+        "count": 172995,
+        "average": 4.7732015
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -78,15 +118,15 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-perform-machine-learning-with-azure-databricks.md",
-      "title": "Perform machine learning with Azure Databricks",
-      "excerpt": "Perform machine learning with Azure Databricks",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-perform-machine-learning-with-azure-databricks/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/perform-machine-learning-with-azure-databricks/",
-      "length": "PT59M",
+      "path": "_learning/courses/microsoft-learn-migrate-premises-windows-server-instances-to-azure-iaas-vms.md",
+      "title": "Migrate on-premises Windows Server instances to Azure IaaS virtual machines",
+      "excerpt": "You'll be able to plan a migration and select appropriate server migration tools. You will also learn how to use Azure Migrate, how to assess physical servers, and how to migrate those servers.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-migrate-premises-windows-server-instances-to-azure-iaas-vms/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/migrate-premises-windows-server-instances-azure-iaas-virtual-machines/",
+      "length": "PT41M",
       "ratings": {
-        "count": 21,
-        "average": 4.8095236
+        "count": 15,
+        "average": 4.6666665
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -106,9 +146,9 @@
       "heat": 130,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/perform-machine-learning-with-azure-databricks-social.png",
-          "width": 640,
-          "height": 320,
+          "url": "https://docs.microsoft.com/learn/achievements/migrate-on-premises-windows-server-instances-to-azure-iaas-vms-social.png",
+          "width": 642,
+          "height": 321,
           "isCached": true
         }
       ],
@@ -117,20 +157,20 @@
       "price": "Free",
       "topics": [
         "Azure",
-        "Analytics",
-        "AI"
+        "Management Tools",
+        "Compute"
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-shift-express-api-azure-functions.md",
-      "title": "Refactor Node.js and Express APIs to Serverless APIs with Azure Functions",
-      "excerpt": "Refactor Node.js and Express APIs from a server-based architecture to serverless APIs with Azure Functions. Create a new Azure Functions application with TypeScript/JavaScript using Visual Studio Code.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-shift-express-api-azure-functions/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/shift-nodejs-express-apis-serverless/",
-      "length": "PT43M",
+      "path": "_learning/courses/microsoft-learn-tm-prioritize-your-issues-and-apply-security-controls.md",
+      "title": "Prioritize your issues and apply security controls",
+      "excerpt": "Threat modeling provides you with a list of threats and ways to reduce or eliminate risk, but it doesn't prioritize them for you. Also, there are no layered security control recommendations based on their type and function.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-tm-prioritize-your-issues-and-apply-security-controls/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/tm-prioritize-your-issues-and-apply-security-controls/",
+      "length": "PT14M",
       "ratings": {
-        "count": 65,
-        "average": 4.723077
+        "count": 206,
+        "average": 4.7038836
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -148,51 +188,21 @@
         "Beginner"
       ],
       "heat": 130,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/prioritize-your-issues-and-apply-security-controls-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "course",
       "price": "Free",
       "topics": [
         "Azure",
-        "Compute",
-        "Serverless"
-      ]
-    },
-    {
-      "path": "_learning/videos/microsoft-how-to-add-azure-feature-flags-to-angular-projects-azure-tips-and-tricks.md",
-      "title": "How to add Azure feature flags to Angular projects | Azure Tips and Tricks",
-      "excerpt": "In this edition of Azure Tips and Tricks, learn how to add Azure feature flags to Angular projects to show and hide features without redeploying your applications.   For more tips and tricks, visit: https://aka.ms/azuretipsandtricks   Get started with 12 months of free services and $200 USD in credit.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-how-to-add-azure-feature-flags-to-angular-projects-azure-tips-and-tricks/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-how-to-add-azure-feature-flags-to-angular-projects-azure-tips-and-tricks/",
-      "originalUrl": "https://youtube.com/watch?v=1d-rpBYf2QI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/1d-rpBYf2QI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT3M54S",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-09-29T08:02:37-07:00",
-      "heat": 130,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/1d-rpBYf2QI/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Azure"
+        "IoT",
+        "Security"
       ]
     },
     {
@@ -255,8 +265,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/principles-cloud-computing/",
           "length": "PT1H2M",
           "ratings": {
-            "count": 172988,
-            "average": 4.7731924
+            "count": 172995,
+            "average": 4.7732015
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -290,8 +300,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-an-azure-account/",
           "length": "PT39M",
           "ratings": {
-            "count": 135565,
-            "average": 4.6983957
+            "count": 135567,
+            "average": 4.698393
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -325,8 +335,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/welcome-to-azure/",
           "length": "PT36M",
           "ratings": {
-            "count": 67450,
-            "average": 4.8007116
+            "count": 67452,
+            "average": 4.8007174
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -360,8 +370,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-azure-infrastructure/",
           "length": "PT45M",
           "ratings": {
-            "count": 68411,
-            "average": 4.714812
+            "count": 68414,
+            "average": 4.71481
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -479,7 +489,7 @@
             ]
           },
           "publishedDateTime": "2020-10-23T11:57:54-07:00",
-          "heat": 93,
+          "heat": 86,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/FFgS_k_Muk8/maxresdefault.jpg",
@@ -576,7 +586,7 @@
         }
       ],
       "size": 280,
-      "heat": 111,
+      "heat": 103,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/oFlKRdr0MLE/maxresdefault.jpg",
@@ -599,8 +609,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/",
       "length": "PT36M",
       "ratings": {
-        "count": 1205,
-        "average": 4.7502074
+        "count": 1208,
+        "average": 4.750828
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -641,8 +651,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-an-azure-account/",
       "length": "PT39M",
       "ratings": {
-        "count": 135565,
-        "average": 4.6983957
+        "count": 135567,
+        "average": 4.698393
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -666,45 +676,6 @@
       "topics": [
         "Azure",
         "Management Tools"
-      ]
-    },
-    {
-      "path": "_learning/videos/microsoft-using-entity-framework-core-with-azure-sql-db-and-azure-cosmos-db-azure-friday.md",
-      "title": "Using Entity Framework Core with Azure SQL DB and Azure Cosmos DB | Azure Friday",
-      "excerpt": "Jeremy Likness shows Scott Hanselman how to use Entity Framework (EF) Core with Azure SQL DB and Azure Cosmos DB. EF Core is a lightweight, extensible, open source, and cross-platform version of the popular Entity Framework data access technology.  0:00 – Overview 1:43 – Using Entity Framework Core with",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-using-entity-framework-core-with-azure-sql-db-and-azure-cosmos-db-azure-friday/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-using-entity-framework-core-with-azure-sql-db-and-azure-cosmos-db-azure-friday/",
-      "originalUrl": "https://youtube.com/watch?v=FFgS_k_Muk8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/FFgS_k_Muk8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT23M58S",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-10-23T11:57:54-07:00",
-      "heat": 93,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/FFgS_k_Muk8/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Databases"
       ]
     },
     {
@@ -773,8 +744,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-governance/",
           "length": "PT46M",
           "ratings": {
-            "count": 39426,
-            "average": 4.6342006
+            "count": 39428,
+            "average": 4.634219
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -977,8 +948,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-governance/",
           "length": "PT46M",
           "ratings": {
-            "count": 39426,
-            "average": 4.6342006
+            "count": 39428,
+            "average": 4.634219
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1095,8 +1066,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-azure-infrastructure/",
       "length": "PT45M",
       "ratings": {
-        "count": 68411,
-        "average": 4.714812
+        "count": 68414,
+        "average": 4.71481
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1189,8 +1160,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-an-azure-account/",
           "length": "PT39M",
           "ratings": {
-            "count": 135565,
-            "average": 4.6983957
+            "count": 135567,
+            "average": 4.698393
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1224,8 +1195,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-users-and-groups-in-aad/",
           "length": "PT50M",
           "ratings": {
-            "count": 3338,
-            "average": 4.6851406
+            "count": 3340,
+            "average": 4.6853294
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1323,6 +1294,45 @@
       ]
     },
     {
+      "path": "_learning/videos/microsoft-using-entity-framework-core-with-azure-sql-db-and-azure-cosmos-db-azure-friday.md",
+      "title": "Using Entity Framework Core with Azure SQL DB and Azure Cosmos DB | Azure Friday",
+      "excerpt": "Jeremy Likness shows Scott Hanselman how to use Entity Framework (EF) Core with Azure SQL DB and Azure Cosmos DB. EF Core is a lightweight, extensible, open source, and cross-platform version of the popular Entity Framework data access technology.  0:00 – Overview 1:43 – Using Entity Framework Core with",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-using-entity-framework-core-with-azure-sql-db-and-azure-cosmos-db-azure-friday/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-using-entity-framework-core-with-azure-sql-db-and-azure-cosmos-db-azure-friday/",
+      "originalUrl": "https://youtube.com/watch?v=FFgS_k_Muk8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/FFgS_k_Muk8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT23M58S",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-10-23T11:57:54-07:00",
+      "heat": 86,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/FFgS_k_Muk8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Databases"
+      ]
+    },
+    {
       "path": "_learning/collections/microsoft-learn-az-104-prerequisites-for-azure-administrators.md",
       "title": "AZ-104: Prerequisites for Azure administrators",
       "excerpt": "Learn the basic concepts you'll need to know as an Azure administrator and prepare for Exam AZ-104: Microsoft Azure Administrator.",
@@ -1353,8 +1363,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-governance/",
           "length": "PT46M",
           "ratings": {
-            "count": 39426,
-            "average": 4.6342006
+            "count": 39428,
+            "average": 4.634219
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1388,8 +1398,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-virtual-machines/",
           "length": "PT1H7M",
           "ratings": {
-            "count": 15197,
-            "average": 4.6904655
+            "count": 15198,
+            "average": 4.6904197
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1458,8 +1468,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/network-fundamentals-2/",
           "length": "PT36M",
           "ratings": {
-            "count": 2461,
-            "average": 4.6997156
+            "count": 2463,
+            "average": 4.698335
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1532,8 +1542,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/principles-cloud-computing/",
           "length": "PT1H2M",
           "ratings": {
-            "count": 172988,
-            "average": 4.7731924
+            "count": 172995,
+            "average": 4.7732015
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1609,8 +1619,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-virtual-machines/",
           "length": "PT1H7M",
           "ratings": {
-            "count": 15197,
-            "average": 4.6904655
+            "count": 15198,
+            "average": 4.6904197
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1644,8 +1654,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-linux-virtual-machine-in-azure/",
           "length": "PT1H26M",
           "ratings": {
-            "count": 8202,
-            "average": 4.688369
+            "count": 8203,
+            "average": 4.688285
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1721,8 +1731,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-governance/",
           "length": "PT46M",
           "ratings": {
-            "count": 39426,
-            "average": 4.6342006
+            "count": 39428,
+            "average": 4.634219
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1756,8 +1766,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-virtual-machines/",
           "length": "PT1H7M",
           "ratings": {
-            "count": 15197,
-            "average": 4.6904655
+            "count": 15198,
+            "average": 4.6904197
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1826,8 +1836,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/network-fundamentals-2/",
           "length": "PT36M",
           "ratings": {
-            "count": 2461,
-            "average": 4.6997156
+            "count": 2463,
+            "average": 4.698335
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1877,8 +1887,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/welcome-to-azure/",
       "length": "PT36M",
       "ratings": {
-        "count": 67450,
-        "average": 4.8007116
+        "count": 67452,
+        "average": 4.8007174
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1951,8 +1961,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/tour-azure-portal/",
       "length": "PT1H13M",
       "ratings": {
-        "count": 51520,
-        "average": 4.709045
+        "count": 51522,
+        "average": 4.7090564
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1987,8 +1997,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-governance/",
       "length": "PT46M",
       "ratings": {
-        "count": 39426,
-        "average": 4.6342006
+        "count": 39428,
+        "average": 4.634219
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2045,8 +2055,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-virtual-machines/",
           "length": "PT1H7M",
           "ratings": {
-            "count": 15197,
-            "average": 4.6904655
+            "count": 15198,
+            "average": 4.6904197
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2080,8 +2090,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-linux-virtual-machine-in-azure/",
           "length": "PT1H26M",
           "ratings": {
-            "count": 8202,
-            "average": 4.688369
+            "count": 8203,
+            "average": 4.688285
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2240,8 +2250,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-virtual-machines/",
           "length": "PT1H7M",
           "ratings": {
-            "count": 15197,
-            "average": 4.6904655
+            "count": 15198,
+            "average": 4.6904197
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2275,8 +2285,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-linux-virtual-machine-in-azure/",
           "length": "PT1H26M",
           "ratings": {
-            "count": 8202,
-            "average": 4.688369
+            "count": 8203,
+            "average": 4.688285
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2410,8 +2420,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-compute/",
       "length": "PT38M",
       "ratings": {
-        "count": 64568,
-        "average": 4.7111883
+        "count": 64571,
+        "average": 4.7112017
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2474,8 +2484,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-ai-fundamentals/",
           "length": "PT27M",
           "ratings": {
-            "count": 3891,
-            "average": 4.7358007
+            "count": 3894,
+            "average": 4.7357473
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2536,8 +2546,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-ai-fundamentals/",
       "length": "PT27M",
       "ratings": {
-        "count": 3891,
-        "average": 4.7358007
+        "count": 3894,
+        "average": 4.7357473
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2680,8 +2690,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-users-and-groups-in-aad/",
           "length": "PT50M",
           "ratings": {
-            "count": 3338,
-            "average": 4.6851406
+            "count": 3340,
+            "average": 4.6853294
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2723,8 +2733,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/allow-users-reset-their-password/",
           "length": "PT31M",
           "ratings": {
-            "count": 1865,
-            "average": 4.702949
+            "count": 1866,
+            "average": 4.7031083
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2887,8 +2897,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-users-and-groups-in-aad/",
           "length": "PT50M",
           "ratings": {
-            "count": 3338,
-            "average": 4.6851406
+            "count": 3340,
+            "average": 4.6853294
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2930,8 +2940,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/allow-users-reset-their-password/",
           "length": "PT31M",
           "ratings": {
-            "count": 1865,
-            "average": 4.702949
+            "count": 1866,
+            "average": 4.7031083
           },
           "provider": {
             "name": "Microsoft Learn",

@@ -4,50 +4,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-perform-machine-learning-with-azure-databricks.md",
-      "title": "Perform machine learning with Azure Databricks",
-      "excerpt": "Perform machine learning with Azure Databricks",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-perform-machine-learning-with-azure-databricks/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/perform-machine-learning-with-azure-databricks/",
-      "length": "PT59M",
-      "ratings": {
-        "count": 21,
-        "average": 4.8095236
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 130,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/perform-machine-learning-with-azure-databricks-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Analytics",
-        "AI"
-      ]
-    },
-    {
       "path": "_learning/videos/microsoft-5-things-you-didnt-know-about-azure-cognitive-services-azure-tips-and-tricks.md",
       "title": "5 Things you didn't know about Azure Cognitive Services | Azure Tips and Tricks",
       "excerpt": "In this edition of Azure Tips and Tricks, you will learn about 5 things you didn't know about Azure Cognitive Services.   For more tips and tricks, visit: https://aka.ms/azuretipsandtricks   Get started with 12 months of free services and $200 USD in credit. Create your free account today with Microsoft",
@@ -117,8 +73,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-ai-fundamentals/",
           "length": "PT27M",
           "ratings": {
-            "count": 3891,
-            "average": 4.7358007
+            "count": 3894,
+            "average": 4.7357473
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -179,8 +135,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-ai-fundamentals/",
       "length": "PT27M",
       "ratings": {
-        "count": 3891,
-        "average": 4.7358007
+        "count": 3894,
+        "average": 4.7357473
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -245,8 +201,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/",
           "length": "PT36M",
           "ratings": {
-            "count": 1205,
-            "average": 4.7502074
+            "count": 1208,
+            "average": 4.750828
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -287,8 +243,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
           "length": "PT39M",
           "ratings": {
-            "count": 220,
-            "average": 4.65
+            "count": 221,
+            "average": 4.6515837
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -333,8 +289,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-compute-fundamentals/",
           "length": "PT52M",
           "ratings": {
-            "count": 159,
-            "average": 4.672956
+            "count": 160,
+            "average": 4.675
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -644,8 +600,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/",
           "length": "PT36M",
           "ratings": {
-            "count": 1205,
-            "average": 4.7502074
+            "count": 1208,
+            "average": 4.750828
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3295,8 +3251,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-iot-hub/",
           "length": "PT28M",
           "ratings": {
-            "count": 1350,
-            "average": 4.6503706
+            "count": 1351,
+            "average": 4.649889
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4315,8 +4271,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/classify-user-feedback-with-the-text-analytics-api/",
           "length": "PT48M",
           "ratings": {
-            "count": 1489,
-            "average": 4.6272664
+            "count": 1490,
+            "average": 4.6275167
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4375,8 +4331,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
       "length": "PT39M",
       "ratings": {
-        "count": 220,
-        "average": 4.65
+        "count": 221,
+        "average": 4.6515837
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -4559,6 +4515,50 @@
           "width": 800,
           "height": 400,
           "title": "Predict categories with machine learning classification",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "AI"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-introduction-to-regression.md",
+      "title": "Predict numeric values with regression",
+      "excerpt": "Use machine learning regression models to predict numeric values. Build multiple variations of linear regression models to estimate things like internet traffic.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-introduction-to-regression/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-regression/",
+      "length": "56 mins",
+      "ratings": {
+        "count": 606,
+        "average": 4.6254125
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 58,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/introduction-to-regression-social.png",
+          "width": 800,
+          "height": 400,
+          "title": "Predict numeric values with regression",
           "isCached": true
         }
       ],
