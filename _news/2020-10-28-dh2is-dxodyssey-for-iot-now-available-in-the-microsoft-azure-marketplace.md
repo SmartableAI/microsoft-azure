@@ -55,6 +55,17 @@ related:
         width: 624
         height: 638
         isCached: true
+  - title: "QuEST Global launches Center of Excellence for Microsoft Azure to develop innovative solutions for customers"
+    excerpt: "QuEST Global, a global product engineering and lifecycle services company, today announced it has signed an agreement with Microsoft to launch a dedicated Center for Excellence (CoE) for Microsoft Azure."
+    publishedDateTime: 2020-11-03T12:23:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/quest-global-launches-center-of-excellence-for-microsoft-azure-to-develop-innovative-solutions-for-customers-1029758272"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/quest-global-launches-center-of-excellence-for-microsoft-azure-to-develop-innovative-solutions-for-customers-1029758272"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/quest-global-launches-center-of-excellence-for-microsoft-azure-to-develop-innovative-solutions-for-customers-1029758272"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 58
   - title: "Microsoft to establish its first datacenter region in Taiwan "
     excerpt: "The new region is anticipated to include Microsoft Azure, with Microsoft 365, Dynamics 365 and Power Platform to follow."
     publishedDateTime: 2020-10-27T16:05:07Z
@@ -114,20 +125,6 @@ related:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
-        isCached: true
-  - title: "QuEST Global launches Center of Excellence for Microsoft Azure to develop innovative solutions for customers"
-    excerpt: "QuEST Global, a global product engineering and lifecycle services company, today announced it has signed an agreement with Microsoft to"
-    publishedDateTime: 2020-11-03T11:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/quest-global-launches-center-of-excellence-for-microsoft-azure-to-develop-innovative-solutions-for-customers-301164875.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 18
-    images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
         isCached: true
   - title: "Around 15,000 servers needed for new Microsoft Azure datacenter in Taiwan"
     excerpt: "An estimated 15,000 servers will be needed to support Microsoft's new Azure datacenter that will be unveiled in Taiwan by the end of 2021 at the earliest, according to industry sources."
