@@ -1,22 +1,27 @@
 ---
 category: news
-title: "HYAS Joins the Microsoft Intelligent Security Association (MISA), Integrates HYAS Insight with Microsoft Azure Sentinel"
-excerpt: "HYAS joins Microsoft Intelligent Security Alliance (MISA) and has integrated HYAS Insight threat intelligence solution with Microsoft Azure Sentinel."
-publishedDateTime: 2020-10-28T12:45:00Z
-originalUrl: "https://www.businesswire.com/news/home/20201028005031/en/HYAS-Joins-the-Microsoft-Intelligent-Security-Association-MISA-Integrates-HYAS-Insight-with-Microsoft-Azure-Sentinel/?feedref=Zd8jjkgYuzBwDixoAdXmJgT1albrG1Eq4mAeVP39210hJvfF05B5fk8fgV08Rp7eevRMp3sIgu8q3wq1OF24lT93qbEzrwa15HGbLqMObxYB6IekXemGUNFauMeV8-aC2uKCrP6Vchv2JCmX-IB07A=="
-webUrl: "https://www.businesswire.com/news/home/20201028005031/en/HYAS-Joins-the-Microsoft-Intelligent-Security-Association-MISA-Integrates-HYAS-Insight-with-Microsoft-Azure-Sentinel/?feedref=Zd8jjkgYuzBwDixoAdXmJgT1albrG1Eq4mAeVP39210hJvfF05B5fk8fgV08Rp7eevRMp3sIgu8q3wq1OF24lT93qbEzrwa15HGbLqMObxYB6IekXemGUNFauMeV8-aC2uKCrP6Vchv2JCmX-IB07A=="
+title: "Innovaccer's Member Engagement Solution is Now Available on Microsoft Azure to Assist Payers Accelerate Their Digital Transformation Journey"
+excerpt: "Innovaccer, Inc., a leading healthcare technology company, recently announced that their member engagement solution is now available on Microsoft Azure. The solution enables healthcare payers to offer efficient care navigation,"
+publishedDateTime: 2020-11-04T22:03:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/innovaccer-s-member-engagement-solution-is-now-available-on-microsoft-azure-to-assist-payers-accelerate-their-digital-transformation-journey-1029767297"
+webUrl: "https://markets.businessinsider.com/news/stocks/innovaccer-s-member-engagement-solution-is-now-available-on-microsoft-azure-to-assist-payers-accelerate-their-digital-transformation-journey-1029767297"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/innovaccer-s-member-engagement-solution-is-now-available-on-microsoft-azure-to-assist-payers-accelerate-their-digital-transformation-journey-1029767297"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/innovaccer-s-member-engagement-solution-is-now-available-on-microsoft-azure-to-assist-payers-accelerate-their-digital-transformation-journey-1029767297"
 type: article
-quality: 10
+quality: 42
 heat: -1
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
-  - Security
 
 related:
   - title: "It's Past Time for Microsoft to Disclose Azure Details"
@@ -81,17 +86,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 48
-  - title: "Innovaccer's Member Engagement Solution is Now Available on Microsoft Azure to Assist Payers Accelerate Their Digital Transformation Journey"
-    excerpt: "Innovaccer, Inc., a leading healthcare technology company, recently announced that their member engagement solution is now available on Microsoft Azure. The solution enables healthcare payers to offer efficient care navigation,"
-    publishedDateTime: 2020-11-04T22:03:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/innovaccer-s-member-engagement-solution-is-now-available-on-microsoft-azure-to-assist-payers-accelerate-their-digital-transformation-journey-1029767297"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/innovaccer-s-member-engagement-solution-is-now-available-on-microsoft-azure-to-assist-payers-accelerate-their-digital-transformation-journey-1029767297"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/innovaccer-s-member-engagement-solution-is-now-available-on-microsoft-azure-to-assist-payers-accelerate-their-digital-transformation-journey-1029767297"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 42
   - title: "Microsoft to build Azure datacenter, cloud hardware R&D team in Taiwan"
     excerpt: "Microsoft has announced plans to build a data center in Taiwan and grow a local team dedicated to the development of Azure cloud hardware and infrastructure, which is expected to accelerate the clustering of a datacenter server supply chain in the co..."
     publishedDateTime: 2020-10-27T08:41:00Z
@@ -157,7 +151,16 @@ related:
       name: Digi Times
       domain: digitimes.com
     quality: 16
+  - title: "HYAS Joins the Microsoft Intelligent Security Association (MISA), Integrates HYAS Insight with Microsoft Azure Sentinel"
+    excerpt: "HYAS joins Microsoft Intelligent Security Alliance (MISA) and has integrated HYAS Insight threat intelligence solution with Microsoft Azure Sentinel."
+    publishedDateTime: 2020-10-28T12:45:00Z
+    webUrl: "https://www.businesswire.com/news/home/20201028005031/en/HYAS-Joins-the-Microsoft-Intelligent-Security-Association-MISA-Integrates-HYAS-Insight-with-Microsoft-Azure-Sentinel/?feedref=Zd8jjkgYuzBwDixoAdXmJgT1albrG1Eq4mAeVP39210hJvfF05B5fk8fgV08Rp7eevRMp3sIgu8q3wq1OF24lT93qbEzrwa15HGbLqMObxYB6IekXemGUNFauMeV8-aC2uKCrP6Vchv2JCmX-IB07A=="
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 10
 
-secured: "8grjT5JDdN9Jg5PNmvNFne2/oG321HmJtOCnaBw7cZYQU6cPGmbND5uxhH7U5o6lujKJxt/lSl+Pq1bWbqbsP1rSUEBSyIozsqyuaKkT6X0U0DHnoqTyEuVTFYy8+eSRHn1iwdQOWPxbpP5nD/LOib5iyMcO8cXu2zBbDf8aVFQ4kD+0Gudi7dK1mTkKJ22ijWTn7O2oZ5IsNjtYckGFS5PCg1o53faOjCcsazgUKISSjIu0ZTMrrjoHJFz0Yxp0zVunjqDco6ya8bXMev9QgTN/TwYtJHzo10lN5zhPG/y2jjcniqv/uY0XP6YHmGLWjBrWTusZ3vHOYiC3bkFZmCcxoGtF5Gi5A1ZRbNDHrB0=;IIGusR/zaZU5E8OlCgmD7A=="
+secured: "TPILlMnB/7P5qzQij+YGXEYeXLH3rRyt+86u2XsnZVyKNWo2GMFbD1Sb918uKvH4YlY4tHMyknYLsb6WPWyXnz7LtamOde9fgCnqf6sMcdChcx7CxbGiG5cZ/vyaEuIecedKl+UUMM1hjfN6NoAVQABlBglN6h9ScqEbXuhfb4NR2UgJOdVi5OhF2+I1sWR0qfCYFl35gb3fFr0Qb5SiakX7/IalwmGq3P0r5U/Aigi6Zbee64wY7yRbFD44QRA8DO51girIskbqGR566WcDDKQvcoQpcjCSIwsDYP7q/ZpM5buG6EZlu9qsyYWO04P+uGVqDylkSLSDi3Z2XpU8CNa4FQKF+Pkz96qsBCDg4bw=;9R5zOXQ/kHSDuHwY4L99Mg=="
 ---
 

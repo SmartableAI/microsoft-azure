@@ -86,6 +86,17 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 48
+  - title: "Innovaccer's Member Engagement Solution is Now Available on Microsoft Azure to Assist Payers Accelerate Their Digital Transformation Journey"
+    excerpt: "Innovaccer, Inc., a leading healthcare technology company, recently announced that their member engagement solution is now available on Microsoft Azure. The solution enables healthcare payers to offer efficient care navigation,"
+    publishedDateTime: 2020-11-04T22:03:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/innovaccer-s-member-engagement-solution-is-now-available-on-microsoft-azure-to-assist-payers-accelerate-their-digital-transformation-journey-1029767297"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/innovaccer-s-member-engagement-solution-is-now-available-on-microsoft-azure-to-assist-payers-accelerate-their-digital-transformation-journey-1029767297"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/innovaccer-s-member-engagement-solution-is-now-available-on-microsoft-azure-to-assist-payers-accelerate-their-digital-transformation-journey-1029767297"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 42
   - title: "AttackIQ integrates Security Optimization Platform with Microsoft Azure Sentinel cloud-native SIEM platform"
     excerpt: "AttackIQ announced integration between Microsoft Azure Sentinel cloud-native SIEM platform and the AttackIQ Security Optimization Platform."
     publishedDateTime: 2020-10-28T03:00:00Z

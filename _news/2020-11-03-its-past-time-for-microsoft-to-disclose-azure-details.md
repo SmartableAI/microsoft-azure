@@ -9,7 +9,7 @@ ampWebUrl: "https://www.fool.com/amp/investing/2020/11/03/its-past-time-for-micr
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/11/03/its-past-time-for-microsoft-to-disclose-azure-deta/"
 type: article
 quality: 97
-heat: 297
+heat: 317
 published: true
 
 provider:
@@ -76,6 +76,17 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 48
+  - title: "Innovaccer's Member Engagement Solution is Now Available on Microsoft Azure to Assist Payers Accelerate Their Digital Transformation Journey"
+    excerpt: "Innovaccer, Inc., a leading healthcare technology company, recently announced that their member engagement solution is now available on Microsoft Azure. The solution enables healthcare payers to offer efficient care navigation,"
+    publishedDateTime: 2020-11-04T22:03:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/innovaccer-s-member-engagement-solution-is-now-available-on-microsoft-azure-to-assist-payers-accelerate-their-digital-transformation-journey-1029767297"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/innovaccer-s-member-engagement-solution-is-now-available-on-microsoft-azure-to-assist-payers-accelerate-their-digital-transformation-journey-1029767297"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/innovaccer-s-member-engagement-solution-is-now-available-on-microsoft-azure-to-assist-payers-accelerate-their-digital-transformation-journey-1029767297"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 42
   - title: "Microsoft to build Azure datacenter, cloud hardware R&D team in Taiwan"
     excerpt: "Microsoft has announced plans to build a data center in Taiwan and grow a local team dedicated to the development of Azure cloud hardware and infrastructure, which is expected to accelerate the clustering of a datacenter server supply chain in the co..."
     publishedDateTime: 2020-10-27T08:41:00Z

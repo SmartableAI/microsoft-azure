@@ -86,6 +86,17 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 48
+  - title: "Innovaccer's Member Engagement Solution is Now Available on Microsoft Azure to Assist Payers Accelerate Their Digital Transformation Journey"
+    excerpt: "Innovaccer, Inc., a leading healthcare technology company, recently announced that their member engagement solution is now available on Microsoft Azure. The solution enables healthcare payers to offer efficient care navigation,"
+    publishedDateTime: 2020-11-04T22:03:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/innovaccer-s-member-engagement-solution-is-now-available-on-microsoft-azure-to-assist-payers-accelerate-their-digital-transformation-journey-1029767297"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/innovaccer-s-member-engagement-solution-is-now-available-on-microsoft-azure-to-assist-payers-accelerate-their-digital-transformation-journey-1029767297"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/innovaccer-s-member-engagement-solution-is-now-available-on-microsoft-azure-to-assist-payers-accelerate-their-digital-transformation-journey-1029767297"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 42
   - title: "Microsoft to build Azure datacenter, cloud hardware R&D team in Taiwan"
     excerpt: "Microsoft has announced plans to build a data center in Taiwan and grow a local team dedicated to the development of Azure cloud hardware and infrastructure, which is expected to accelerate the clustering of a datacenter server supply chain in the co..."
     publishedDateTime: 2020-10-27T08:41:00Z
@@ -147,6 +158,6 @@ related:
       domain: businesswire.com
     quality: 10
 
-secured: "F4ceV+zGOmSGnt6HIFVBIHsB9ZwGHlX7aTI2i66sgejxPY18LmCu4O6b6obLfus+2WhAGZ/mzoaV/rorwJxpCWsxKV/jf0VVpYnLexhPQorNWxHA1dWrH9kvLL3CeCvK0ezoa4ZtMT5z8bdjIb5z50O7CyFoW6AZa76jcj2pEK/SiXLuonS+Tm0fXeoBFBl1qnvvnSlY45r61/M0BH9ytQPXeJWSKy0yMBgNdXUh9lNnZHbMk7glUiBRLvGb+Ox4Fq+Y/IZrlVXuALRE8eo6BAY1dlyqQ9NGK1HyeCEIp0nKcBb+DFuoXyKoUarqwS60atmQC7Zh3VvOSRxQY3G0CNhEUPDEhIA8WklKNJKvbmM=;Tqgz4fjUxlrm84xMuPnF9g=="
+secured: "3Q21A+75fHqvu2x3v5DpkhoAhnAusWr8opsvF1g+U6Tiuq/2PUt1JpVEU2r6KeomeSnjDiaTfd79pNfgOdJSOuHHop5VKhsZgduoGbf+ZZry5xkzxYBPRJdNecp++XwrkuoU/jQ296+0J1n2B0qAEBW24khSyPX607uZE13EQCx71A5IyDago0EJZfZtGZKWrGpQdG6virFqLoMDSKtbqJPkUKFeAoFe2eEqWMSvpFbcq8eOGMJXIYdkv5OK0+MaSj0te0Nn5fhyxnjmvenulu0toIv0fQV7hX5QIQ507jC5fxv4HK1Q+FuDpQYuZRNCx2r9swLgGnAwdn8pVQGdtt+v0nDvsf4EUhrKnWWWfNw=;e3s9YWFnX/KUcI/pkDYLoQ=="
 ---
 
