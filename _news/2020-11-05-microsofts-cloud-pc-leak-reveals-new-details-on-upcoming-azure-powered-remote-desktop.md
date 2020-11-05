@@ -3,10 +3,10 @@ category: news
 title: "Microsoft's Cloud PC: Leak reveals new details on upcoming Azure-powered remote desktop"
 excerpt: "Microsoft's forthcoming Cloud PC remote Windows experience for Windows 10, macOS, iOS and Android takes shape."
 publishedDateTime: 2020-11-05T11:23:00Z
-originalUrl: "https://www.zdnet.com/index.php/category/2184/index.php/article/microsofts-cloud-pc-leak-reveals-new-details-on-upcoming-azure-powered-remote-desktop/"
-webUrl: "https://www.zdnet.com/index.php/category/2184/index.php/article/microsofts-cloud-pc-leak-reveals-new-details-on-upcoming-azure-powered-remote-desktop/"
-ampWebUrl: "https://www.zdnet.com/index.php/category/2184/index.php/google-amp/article/microsofts-cloud-pc-leak-reveals-new-details-on-upcoming-azure-powered-remote-desktop/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2184/index.php/google-amp/article/microsofts-cloud-pc-leak-reveals-new-details-on-upcoming-azure-powered-remote-desktop/"
+originalUrl: "https://www.zdnet.com/article/microsofts-cloud-pc-leak-reveals-new-details-on-upcoming-azure-powered-remote-desktop/"
+webUrl: "https://www.zdnet.com/article/microsofts-cloud-pc-leak-reveals-new-details-on-upcoming-azure-powered-remote-desktop/"
+ampWebUrl: "https://www.zdnet.com/google-amp/article/microsofts-cloud-pc-leak-reveals-new-details-on-upcoming-azure-powered-remote-desktop/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsofts-cloud-pc-leak-reveals-new-details-on-upcoming-azure-powered-remote-desktop/"
 type: article
 quality: 69
 heat: -1
@@ -214,6 +214,6 @@ related:
         height: 293
         isCached: true
 
-secured: "nYHK3Xsjbjjo5SGKHak+0JteqdMnNAOqtZl3Zq3OJd0Z2QT3PyA1Bm283tlIf3/3Yo8TECSsnYwVBriq7HhsJK0rGVQHS+4INh3LRfyqMDVtFSpm7daVjEk3QJ3Zdcbs7LL0SR09jcUjm9QdOjwOEjWkZzQE/gU5fArCo9ukqIAEI6V0tRPDQAopiKXrMvC0AGIq/SY5dnuVdrBvFpWQ0CJADjx+uL3yzs4M4DZWnl4Jz7RpojgdzISaZBNozNSTejTXdeLUcsBMTSjsZvtge3QoirDCmR6JmXcL/PZ50VzH+aTtiHgMghA01AClvLUmgMlrzTC+2UpQEbZBR1DQc9P3Byt3vvT9BKlq70Q8+TkgEulN5REc5OFLdl/8iQT2lz0vCYXfDVmhk0/L2OIYUsrwFkJ5UuGt6NorlenRkdoSMnNJcOF/5biIlUx/ll0JW2o1R76/3MILpF+2MSt84axbePtILr/1mps57oqWWVGVA67WrMxDzOEZ9ihLGHqskBszlGYEgEbVG0uu96KsEw==;UVZFMZS7EuFfagaRNM7PPA=="
+secured: "j3zoH169AeQnKiY475+lJBVlnA/EFq3lXUfMeTuFY5vkElRWC/j2+2pJy2PN9hGBhMJzJKM1hZPgrz/5y3HsG4dsgrPUr9y+SumWO94p/emT2KZnUoRlmKLy+yOZYuGAoB6697TYnKcDotcH/9Fw+aa+LYaTOY8JFKv9+S5GwcEY3k44waJLYqJP9O2QrIifgmArbVEjNJBHLbmTd6T6+4G0zka7e1zauTd/pu/anqJQ/XgMQGy9TxrkOLjsMp6T4gYDUI6Bk1QJY6AfW9FWygEl7sqe+ZfzLf3wCUCMZKN2U5K3BXgv3rZ4cwUszfWFyrbhn26FlpqT30Ieh95GCnbF3cNmqG7U51Xu1awLWoztk/LoGYrZcjkU0WM1+Nkmxu59CMVa11bTSdqq2O22I8dwwzqVJRgjnJmUfgcdOYIiBeXFNHUC/023Ej9zRL7mbiNoQk+7aLOUQP5z1OTXYaqnqulDkIFV1skH009/if8uw8KnPqg4yN4m2vnfjcaG/cszdQnX48Byn+Wk3ERmJQ==;6lpwDzt1lxCbCIsngKeFcA=="
 ---
 
