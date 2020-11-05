@@ -87,6 +87,22 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 48
+  - title: "Microsoft Cloud PC details leaked before its 2021 release"
+    excerpt: "Microsoft Cloud PC is yet to be released somewhere in Spring 2021, but a series of previously unknown details about it have recently surfaced."
+    publishedDateTime: 2020-11-05T08:52:00Z
+    webUrl: "https://windowsreport.com/microsoft-cloud-pc-leaked/"
+    ampWebUrl: "https://windowsreport.com/microsoft-cloud-pc-leaked/?amp"
+    cdnAmpWebUrl: "https://windowsreport-com.cdn.ampproject.org/c/s/windowsreport.com/microsoft-cloud-pc-leaked/?amp"
+    type: article
+    provider:
+      name: Windows
+      domain: windowsreport.com
+    quality: 42
+    images:
+      - url: "https://cdn.windowsreport.com/wp-content/uploads/2020/11/Microsoft-Cloud-PC.jpg"
+        width: 1920
+        height: 1280
+        isCached: true
   - title: "Microsoft to build Azure datacenter, cloud hardware R&D team in Taiwan"
     excerpt: "Microsoft has announced plans to build a data center in Taiwan and grow a local team dedicated to the development of Azure cloud hardware and infrastructure, which is expected to accelerate the clustering of a datacenter server supply chain in the co..."
     publishedDateTime: 2020-10-27T08:41:00Z

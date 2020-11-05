@@ -1,26 +1,28 @@
 ---
 category: news
-title: "Microsoft to build Azure datacenter, cloud hardware R&D team in Taiwan"
-excerpt: "Microsoft has announced plans to build a data center in Taiwan and grow a local team dedicated to the development of Azure cloud hardware and infrastructure, which is expected to accelerate the clustering of a datacenter server supply chain in the co..."
-publishedDateTime: 2020-10-27T08:41:00Z
-originalUrl: "https://www.digitimes.com/news/a20201027PD207.html"
-webUrl: "https://www.digitimes.com/news/a20201027PD207.html"
+title: "Microsoft Cloud PC details leaked before its 2021 release"
+excerpt: "Microsoft Cloud PC is yet to be released somewhere in Spring 2021, but a series of previously unknown details about it have recently surfaced."
+publishedDateTime: 2020-11-05T08:52:00Z
+originalUrl: "https://windowsreport.com/microsoft-cloud-pc-leaked/"
+webUrl: "https://windowsreport.com/microsoft-cloud-pc-leaked/"
+ampWebUrl: "https://windowsreport.com/microsoft-cloud-pc-leaked/?amp"
+cdnAmpWebUrl: "https://windowsreport-com.cdn.ampproject.org/c/s/windowsreport.com/microsoft-cloud-pc-leaked/?amp"
 type: article
-quality: 37
+quality: 42
 heat: -1
 published: false
 
 provider:
-  name: Digi Times
-  domain: digitimes.com
+  name: Windows
+  domain: windowsreport.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://www.digitimes.com/newsshow/20201027PD207_files/2_b.jpg"
-    width: 640
-    height: 427
+  - url: "https://cdn.windowsreport.com/wp-content/uploads/2020/11/Microsoft-Cloud-PC.jpg"
+    width: 1920
+    height: 1280
     isCached: true
 
 related:
@@ -86,21 +88,19 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 48
-  - title: "Microsoft Cloud PC details leaked before its 2021 release"
-    excerpt: "Microsoft Cloud PC is yet to be released somewhere in Spring 2021, but a series of previously unknown details about it have recently surfaced."
-    publishedDateTime: 2020-11-05T08:52:00Z
-    webUrl: "https://windowsreport.com/microsoft-cloud-pc-leaked/"
-    ampWebUrl: "https://windowsreport.com/microsoft-cloud-pc-leaked/?amp"
-    cdnAmpWebUrl: "https://windowsreport-com.cdn.ampproject.org/c/s/windowsreport.com/microsoft-cloud-pc-leaked/?amp"
+  - title: "Microsoft to build Azure datacenter, cloud hardware R&D team in Taiwan"
+    excerpt: "Microsoft has announced plans to build a data center in Taiwan and grow a local team dedicated to the development of Azure cloud hardware and infrastructure, which is expected to accelerate the clustering of a datacenter server supply chain in the co..."
+    publishedDateTime: 2020-10-27T08:41:00Z
+    webUrl: "https://www.digitimes.com/news/a20201027PD207.html"
     type: article
     provider:
-      name: Windows
-      domain: windowsreport.com
-    quality: 42
+      name: Digi Times
+      domain: digitimes.com
+    quality: 37
     images:
-      - url: "https://cdn.windowsreport.com/wp-content/uploads/2020/11/Microsoft-Cloud-PC.jpg"
-        width: 1920
-        height: 1280
+      - url: "https://www.digitimes.com/newsshow/20201027PD207_files/2_b.jpg"
+        width: 640
+        height: 427
         isCached: true
   - title: "AttackIQ integrates Security Optimization Platform with Microsoft Azure Sentinel cloud-native SIEM platform"
     excerpt: "AttackIQ announced integration between Microsoft Azure Sentinel cloud-native SIEM platform and the AttackIQ Security Optimization Platform."
@@ -177,6 +177,6 @@ related:
         height: 293
         isCached: true
 
-secured: "DpkBsa51wwUK3Km/rJeUu+tZ+8Bgf3la9SF25ALGGRfPpMM7ftWLMJeN5nSyAGTSs0T5ITyZ18cEjmJPZKjOxtHZE9+hZWbh2nejnSVdNxbIOh+hadbqc/XyF4T/KSf4jRrMHE7nhbryBAd628QQKys6VSvb0889lq2gYyF/tEDsAylwcSi1lBFOq/FlN3jlH37x6rL3kozAdTVsTVlwWkSRgKJ2yPVg8JxWCDZ2wDJyqQGPx9HOJddynqd9ZUSro2ZvVQtCsU4C7BXyb1Zmsca+05vQRhBoYOMxCxItV3aYPQ/OiycKf6ME3VZTvv21sPjCvA+/oHWH9Kq0x6OBhxjcMk91XELOWBo76K8I5YgwRe9ffVgq+VfJQ/HZBdLZIm+7P0okKek9BEp1G+iEXE5Plo/HkRHhpPgE7u97OUxlnz/xnkKORwHwKJuLpzytAbGdMPN1IfYvNCI4MCENx6Kq5Khtt/+HAveheIqjefCdFWs93p38zc953rCFztmjhKhdmEpn8pgdHc/2XKFb0A==;cnFHuUGGSv5AcJcy9/6lqw=="
+secured: "ESGlnYBXquzOBToDY1EjY24BT14Gbhz82CnYB5MDju3wSTDTrIGNWcEu1eq4JH19xj2hWWjAvEDxXqXXpyuNL/pKXGOgPjuzr6NjUmMYPLxSnKMscLXxkOpNB7v9sTECgQBqLp+3RhatSbgWwHNmSNd8lQ8aX4YiF7+jPeXHXlmqc8vPGy+0eeQdcN6UbbCGAMiRt909q+M/3CA+CcWXy+HVJDO6haA1FxjgCSTaq4o3i3ooHA7JicxR+6q5H5UMb9EW5ExxjFkdc61xRQWYk35R3rq2AbvryXgng0iTWhM6YDZ8iey6BqoQ4RYtswgoGbL7FAjcYsAkd6GKUYY94pJj8cTDEqOGdGhPhwW+ywI=;6FqY4kKOA3EDnMVRDcIjPA=="
 ---
 
