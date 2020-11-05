@@ -1,27 +1,21 @@
 ---
 category: news
-title: "QuEST Global launches Center of Excellence for Microsoft Azure to develop innovative solutions for customers"
-excerpt: "QuEST Global, a global product engineering and lifecycle services company, today announced it has signed an agreement with Microsoft to"
-publishedDateTime: 2020-11-03T11:00:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/quest-global-launches-center-of-excellence-for-microsoft-azure-to-develop-innovative-solutions-for-customers-301164875.html"
-webUrl: "https://www.prnewswire.com/news-releases/quest-global-launches-center-of-excellence-for-microsoft-azure-to-develop-innovative-solutions-for-customers-301164875.html"
+title: "Self-driving car start-up Wayve deploys Microsoft Azure cloud technology"
+excerpt: "Cambridge, UK-based Wayve, developer of AI software for self-driving cars, has signed a contract with Microsoft for use of the Azure cloud"
+publishedDateTime: 2020-11-05T13:07:00Z
+originalUrl: "https://www.telecompaper.com/news/self-driving-car-start-up-wayve-deploys-microsoft-azure-cloud-technology--1360668"
+webUrl: "https://www.telecompaper.com/news/self-driving-car-start-up-wayve-deploys-microsoft-azure-cloud-technology--1360668"
 type: article
-quality: 18
+quality: 16
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Telecompaper
+  domain: telecompaper.com
 
 topics:
   - Azure
-
-images:
-  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-    width: 600
-    height: 315
-    isCached: true
 
 related:
   - title: "It's Past Time for Microsoft to Disclose Azure Details"
@@ -169,6 +163,20 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "QuEST Global launches Center of Excellence for Microsoft Azure to develop innovative solutions for customers"
+    excerpt: "QuEST Global, a global product engineering and lifecycle services company, today announced it has signed an agreement with Microsoft to"
+    publishedDateTime: 2020-11-03T11:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/quest-global-launches-center-of-excellence-for-microsoft-azure-to-develop-innovative-solutions-for-customers-301164875.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 18
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
+        isCached: true
   - title: "Around 15,000 servers needed for new Microsoft Azure datacenter in Taiwan"
     excerpt: "An estimated 15,000 servers will be needed to support Microsoft's new Azure datacenter that will be unveiled in Taiwan by the end of 2021 at the earliest, according to industry sources."
     publishedDateTime: 2020-11-03T06:29:00Z
@@ -177,15 +185,6 @@ related:
     provider:
       name: Digi Times
       domain: digitimes.com
-    quality: 16
-  - title: "Self-driving car start-up Wayve deploys Microsoft Azure cloud technology"
-    excerpt: "Cambridge, UK-based Wayve, developer of AI software for self-driving cars, has signed a contract with Microsoft for use of the Azure cloud"
-    publishedDateTime: 2020-11-05T13:07:00Z
-    webUrl: "https://www.telecompaper.com/news/self-driving-car-start-up-wayve-deploys-microsoft-azure-cloud-technology--1360668"
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
     quality: 16
   - title: "HYAS Joins the Microsoft Intelligent Security Association (MISA), Integrates HYAS Insight with Microsoft Azure Sentinel"
     excerpt: "HYAS joins Microsoft Intelligent Security Alliance (MISA) and has integrated HYAS Insight threat intelligence solution with Microsoft Azure Sentinel."
@@ -211,6 +210,6 @@ related:
         height: 293
         isCached: true
 
-secured: "FUMQtfbI8RXaTIkQtKGiFNKjW8R/sVydLz6rvt7PwWL23baSiE1pKT5DaGXgKQvnKgwh2IIlKyRh3mZvWIE16Q1t/mw9TI+0mcCd9IV89fcjs33fDxPL8NsrmOCSjQkPT4QKohqD57GvK2uRRRdDEMLMfYQQfcma04w/6yGiiWGzKeA6/MabXhabyDySnZkH6A63U9q+ey5j2gK3dPLN4xYQXxKjLzno48qMe0Nl5Q43iPBXbn9cNnHkZ+l1aQWWbwakJJpRgqgirAXuMJm01qkN7w5yOM3zZIkFEE5s6kzOQd+TDI8QSROD+7gSZxa7qO6xPjMep1geDra0eKByhx1A0gcdXMt7cnUOOd3Q5LU=;bm8tIJ7SP4hmUBanYw9J/w=="
+secured: "GnCiQcXMWPefD1tZiSF0DeCDceY+bu3b4eXhl5BfWjkzUtfr/Y5ZmIiOo40RnzB0AntXyaUQzCJYz7+HUC7aEWceENYzQ+V15KvVByjXs8reKUV+PtxWoiYKwzFu90bDtFosZ7W/rHjPVfeXnJcbm5sa742tMiFkVcPqblVnEIsL45LCiJGi8ClMj5SKWy0YIfxZPmKzb7xNJVesjh6KcM1fSo/QW5POHZmd5U0rQQF6AkHAH2AcpP7stJ8iGr8ppz+W9URtgPNEXLpelqLsORxzUjD/qtgebBWZyRXxEHXT82Cc3NbRSuycJFDkLh3HyMIRFHQYHj55MszsNwybd8BgmzCL6S64qsQk5iv1sE8=;uS4RT5Bg2YPQdHZBJ64fVQ=="
 ---
 

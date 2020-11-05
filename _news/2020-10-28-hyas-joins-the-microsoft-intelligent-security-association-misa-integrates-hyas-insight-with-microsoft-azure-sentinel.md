@@ -52,9 +52,9 @@ related:
   - title: "Microsoft's Cloud PC: Leak reveals new details on upcoming Azure-powered remote desktop"
     excerpt: "Microsoft's forthcoming Cloud PC remote Windows experience for Windows 10, macOS, iOS and Android takes shape."
     publishedDateTime: 2020-11-05T11:23:00Z
-    webUrl: "https://www.zdnet.com/article/microsofts-cloud-pc-leak-reveals-new-details-on-upcoming-azure-powered-remote-desktop/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsofts-cloud-pc-leak-reveals-new-details-on-upcoming-azure-powered-remote-desktop/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsofts-cloud-pc-leak-reveals-new-details-on-upcoming-azure-powered-remote-desktop/"
+    webUrl: "https://www.zdnet.com/index.php/category/2184/index.php/article/microsofts-cloud-pc-leak-reveals-new-details-on-upcoming-azure-powered-remote-desktop/"
+    ampWebUrl: "https://www.zdnet.com/index.php/category/2184/index.php/google-amp/article/microsofts-cloud-pc-leak-reveals-new-details-on-upcoming-azure-powered-remote-desktop/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2184/index.php/google-amp/article/microsofts-cloud-pc-leak-reveals-new-details-on-upcoming-azure-powered-remote-desktop/"
     type: article
     provider:
       name: ZDNet
@@ -186,6 +186,15 @@ related:
     provider:
       name: Digi Times
       domain: digitimes.com
+    quality: 16
+  - title: "Self-driving car start-up Wayve deploys Microsoft Azure cloud technology"
+    excerpt: "Cambridge, UK-based Wayve, developer of AI software for self-driving cars, has signed a contract with Microsoft for use of the Azure cloud"
+    publishedDateTime: 2020-11-05T13:07:00Z
+    webUrl: "https://www.telecompaper.com/news/self-driving-car-start-up-wayve-deploys-microsoft-azure-cloud-technology--1360668"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
     quality: 16
   - title: "Innovaccer's Member Engagement Solution is Now Available on Microsoft Azure to Assist Payers Accelerate Their Digital Transformation Journey"
     excerpt: "Inc., a leading healthcare technology company, recently announced that their member engagement solution is now available on Microsoft Azure. The solution enables"

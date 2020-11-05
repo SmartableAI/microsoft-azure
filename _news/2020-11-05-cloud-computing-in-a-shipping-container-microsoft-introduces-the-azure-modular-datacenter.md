@@ -57,9 +57,9 @@ related:
   - title: "Microsoft's Cloud PC: Leak reveals new details on upcoming Azure-powered remote desktop"
     excerpt: "Microsoft's forthcoming Cloud PC remote Windows experience for Windows 10, macOS, iOS and Android takes shape."
     publishedDateTime: 2020-11-05T11:23:00Z
-    webUrl: "https://www.zdnet.com/article/microsofts-cloud-pc-leak-reveals-new-details-on-upcoming-azure-powered-remote-desktop/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsofts-cloud-pc-leak-reveals-new-details-on-upcoming-azure-powered-remote-desktop/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsofts-cloud-pc-leak-reveals-new-details-on-upcoming-azure-powered-remote-desktop/"
+    webUrl: "https://www.zdnet.com/index.php/category/2184/index.php/article/microsofts-cloud-pc-leak-reveals-new-details-on-upcoming-azure-powered-remote-desktop/"
+    ampWebUrl: "https://www.zdnet.com/index.php/category/2184/index.php/google-amp/article/microsofts-cloud-pc-leak-reveals-new-details-on-upcoming-azure-powered-remote-desktop/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2184/index.php/google-amp/article/microsofts-cloud-pc-leak-reveals-new-details-on-upcoming-azure-powered-remote-desktop/"
     type: article
     provider:
       name: ZDNet
@@ -178,6 +178,15 @@ related:
       name: Digi Times
       domain: digitimes.com
     quality: 16
+  - title: "Self-driving car start-up Wayve deploys Microsoft Azure cloud technology"
+    excerpt: "Cambridge, UK-based Wayve, developer of AI software for self-driving cars, has signed a contract with Microsoft for use of the Azure cloud"
+    publishedDateTime: 2020-11-05T13:07:00Z
+    webUrl: "https://www.telecompaper.com/news/self-driving-car-start-up-wayve-deploys-microsoft-azure-cloud-technology--1360668"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 16
   - title: "HYAS Joins the Microsoft Intelligent Security Association (MISA), Integrates HYAS Insight with Microsoft Azure Sentinel"
     excerpt: "HYAS joins Microsoft Intelligent Security Alliance (MISA) and has integrated HYAS Insight threat intelligence solution with Microsoft Azure Sentinel."
     publishedDateTime: 2020-10-28T12:45:00Z
@@ -202,6 +211,6 @@ related:
         height: 293
         isCached: true
 
-secured: "gLOnJ95yGyhQRtilvpuRKlEmQrKR16Ypp5I9j0e0zZN3178b708ARM7+JCF52lX+qgfCRt5L4paL8Qh9NIZRCEX7DGCaAJ8UPHf1QS2MwAEguKfnTuas9w5HIiFfDGGf0BYD2zoED3tyh1RLeOCuCij5I4pievCVwZq3Ojp0UYctDcZ2onv/Y3FMTSwqkKvnJ2r0qT6eiQlKgVREbqN//gocQgWYXLIt+8mH4exIs1rhK6E2VIPGWLTdukt6R9oVGjxXl8lCILBu3OHqh2Jupd0U6VecTxqRCo9BwjpW9wYBeb+zrbCYbdp7I8UnxERKxN4OV8wWnNOvrSd15S7Mk1U6U5eg2MjBmfx1jvxw3q4=;TkJmONfpujWJEa4RIr/fVQ=="
+secured: "vxvuCYmquHv4rLJjqROS93S81fTtHyCnUOld4fiAJF1CmGFfFldtdTgnLtOs1bVFsqq41KPisp9OuBzUAzJ3m3/9/MqakKAHBB3jANccmhh7XLQZ3rwxR/KGmLUrTjaUEjG1qp1v1ZQLftgIt7+gSCTJ156t0ZfFH3rFteLhsSjK3ertGHGMx3q0dPk5ubMAzKRCmpvFjN/+GemMrGgIqFjGMxlESsENADKGScOqwi+QGWQOA2wuxkdSFStqTE55yMnJzMx6tehIvBRJ8Lip5yyDwuqhZRMvGqAd1DQae2b4UrlAca723k+1uNH1WxZZ/ljoOk38F6ATBAD/iKUQISB/vgL/BSg1lAJU5c9zUl31a727nRhF7ol8Ag7QqpjTS00hrr329R8Eyoek8YzDt1K0BHkdB7Jxwz4WnUwlgNaLSjwsFATOw5vctrggo2KR30KKWj06hXaUGWrUIiGr2kXBfFhQocA6ZoiRbOYyk6BTqNxOHfVK4zBlXVcHUJpbuc015ISDLC/bYgVW0dbkrQ==;R6kaWiYEsfTIKgVS/7LGJw=="
 ---
 
