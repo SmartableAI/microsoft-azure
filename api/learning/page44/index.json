@@ -4,85 +4,6 @@
   "page": 44,
   "value": [
     {
-      "path": "_learning/videos/microsoft-multiple-node-pools-in-azure-kubernetes-service-aks-azure-friday.md",
-      "title": "Multiple node pools in Azure Kubernetes Service (AKS) | Azure Friday",
-      "excerpt": "Saurya Das joins Scott Hanselman to show how multiple node pools for Azure Kubernetes Service (AKS) enable you to use different virtual machine sizes in a node pool supporting a variety of workloads in a single AKS cluster. For example, an e-commerce website can have a node pool for a billing service",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-multiple-node-pools-in-azure-kubernetes-service-aks-azure-friday/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-multiple-node-pools-in-azure-kubernetes-service-aks-azure-friday/",
-      "originalUrl": "https://youtube.com/watch?v=XHrlCJDDjS4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/XHrlCJDDjS4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M5S",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2019-09-05T22:25:17-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/XHrlCJDDjS4/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Containers"
-      ]
-    },
-    {
-      "path": "_learning/videos/microsoft-opendev-102017-logging-security-and-analytics-on-azure-with-the-elastic-stack.md",
-      "title": "OpenDev 10.2017 | Logging, security, and analytics on Azure with the Elastic Stack",
-      "excerpt": "Christoph Wurm, Principal Solutions Architect at Elastic, speaks at the 2nd edition of Azure OpenDev, a live community-focused series of technical demonstrations centered around building open source solutions on Azure. This episode features DevOps, which increases business agility by delivering business",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-opendev-102017-logging-security-and-analytics-on-azure-with-the-elastic-stack/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-opendev-102017-logging-security-and-analytics-on-azure-with-the-elastic-stack/",
-      "originalUrl": "https://youtube.com/watch?v=tOqWX9JWEYc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/tOqWX9JWEYc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT41M30S",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2019-06-06T11:47:52-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/tOqWX9JWEYc/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Security",
-        "Analytics"
-      ]
-    },
-    {
       "path": "_learning/videos/microsoft-overview-of-azure-blockchain-azure-friday-at-build-2018.md",
       "title": "Overview of Azure Blockchain | Azure Friday at Build 2018",
       "excerpt": "Azure Friday visited various Microsoft booths in the Expo Hall at Build 2018 to learn what's new. In this episode, Scott Hanselman gets an update on Azure Blockchain from Brenda Lee.  For more information, see:  • Azure Blockchain (docs) https://aka.ms/azfr/416/01  • Azure Blockchain Workbench https://aka.ms/azfr/416/02",
@@ -223,6 +144,44 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/TamjamO7-I8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
+      "path": "_learning/videos/microsoft-overview-of-service-fabric-azure-friday-at-build-2018.md",
+      "title": "Overview of Service Fabric | Azure Friday at Build 2018",
+      "excerpt": "Azure Friday visited various Microsoft booths in the Expo Hall at Build 2018 to learn what's new. In this episode, Scott Hanselman gets an update on Azure Service Fabric from Matthew Snider.  For more information, see:  • Azure Service Fabric https://aka.ms/azfr/421/01  • Service Fabric Mesh preview",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-overview-of-service-fabric-azure-friday-at-build-2018/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-overview-of-service-fabric-azure-friday-at-build-2018/",
+      "originalUrl": "https://youtube.com/watch?v=qVzqi7VyzI8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/qVzqi7VyzI8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M24S",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2018-07-16T08:51:11-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/qVzqi7VyzI8/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -1151,6 +1110,44 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/KxKZW3VAcU4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
+      "path": "_learning/videos/microsoft-troubleshoot-resource-property-changes-using-change-history-in-azure-policy-azure-friday.md",
+      "title": "Troubleshoot resource property changes using Change History in Azure Policy | Azure Friday",
+      "excerpt": "Jenny Hunter joins Donovan to showcase a new integration inside Azure Policy that enables you to see recent changes to the properties for non-compliant Azure resources. Public preview of the Resource Change History API is also now available. [00:40] Demo Start   Determine causes of non-compliance: Change",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-troubleshoot-resource-property-changes-using-change-history-in-azure-policy-azure-friday/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-troubleshoot-resource-property-changes-using-change-history-in-azure-policy-azure-friday/",
+      "originalUrl": "https://youtube.com/watch?v=48uiUq0XP98",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/48uiUq0XP98\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT4M52S",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2019-07-10T08:30:27-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/48uiUq0XP98/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
