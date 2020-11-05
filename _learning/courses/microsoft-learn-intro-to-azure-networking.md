@@ -6,9 +6,9 @@ type: course
 price: Free
 length: PT28M
 ratings:
-  count: 44274
-  average: 4.7664995
-heat: 74
+  count: 44278
+  average: 4.766498
+heat: 80
 
 provider:
   name: Microsoft Learn
@@ -25,6 +25,6 @@ topics:
   - Azure
   - Networking
 
-secured: "agj/cqlh6diCGe1085Fn4vGdKX9lIWcuCwS+8gDGWKsnHas/GtwYOyjrhWgZqqAUjMh3DDd4nM2fo+jDYAZqhJxyN9lnm1FIXLTnCsS1uSiA1/qBt2YWFs2esR68YxccdUeicwvGEIpvSj/JYTbcXgHR2nhevZtwEZroadMOWr6MlEsHa9B7MRy9UvbQmkqruZENR+FhmsWxx8AKluy8Z2Kp0aCMvdGOOTO6WXYxx+1b2VRFMjHeE7o96PrESbZ4NdLtj4ecTuDeOnAD0a4uIje1xUrBz7tFS+5Ri8SfIk8FJIAdtH8Ms3vL2h4spwhxn+LTXplgzaSxgoxY9a0tkojxReCS9f0KNCK20l7Ph/ID1mNsSuoBcUC3cLeFZ2w8q9+Fy/KIJTii0L5bZjRHYHWy5k5FlHlJvWuJxmEnrXHYy7RaDsl2IrNoHzjVDXWn;YDsNbtt8FEKOXlY1QmGqdA=="
+secured: "FqGk524qsKn5v8ely0ePf0VnHyZwYO/mx/3tTHUusJ5dnyoBNXBKFiCbtEO6kQojKD/v7gPpTQl5+kNzWgyd/anDAzvbfyXfe56kmFhHs/sSf/FhPz6omEA5HhOHKPFFIGUMeLmUk7/Zrr/6HSaDTTMgCpVZyhkeC8zFBVgab2GDgYB3laWAyl7Xm+ZOoojmx1Q2pCcVx63Ptwa7y+jQJ394WJoJHZ0R0TlbUtGSg6DHMwf0eVFDz6RQ0/S6BIflY4YSOk4DFACgdhbVDb3ijPSz3Vang4N1BouByvhbNK4Eou4dH9ZGSq095iFu4QBwOXb9+NN4xcLeRNYVGnsyfu04/N7wXrHaWy794WsewwxiPj+5YNaUz3obiRlgSVVikrpZ6Uy+A+9be0JMxeocMatcMmMDi7HcyrVuqrWffS4eLqwBQSzpxoN3iSamvhm/;ZGXfaqsqLizl8CBTl9vqSg=="
 ---
 

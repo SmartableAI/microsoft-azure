@@ -6,8 +6,8 @@ type: course
 price: Free
 length: PT56M
 ratings:
-  count: 228
-  average: 4.6666665
+  count: 229
+  average: 4.6681223
 heat: 50
 
 provider:
@@ -31,6 +31,6 @@ images:
     height: 400
     isCached: true
 
-secured: "mivSiac77iokb71+YwXhuF0SCd/vmkOXVKgbnPabdBaY0Edy3SlK2mbzmYzRV5bHHtoEiv0TGNdmVZuEYJJaBPfp7RTQz7Cou5bB6aiRv89VfYpbsK6fD/mJhKqzvJK0UF1ceAJk0GRieVLirlZPE57GsLOzOnMMkEDy+nBNBUva354tqyO0kKoQ9d+3q52BS68YoiwItiOYlioJXiICcBvGGWKG+BAHtqifSKvVMmPslxM0kXxoD+XokGSjIOn3amc29ShrVtnge+20CaXhPlK/CXOCzr4vWZq8NFi4EwAoCvZ5zz0cuKpGoZ13j1rWUD9HONgvDzUzmbo2D+lzANe5qR4EjMIbkB04Hj3cUwmu2/nK95IzLDizx7HbgBYlKDUCjzeAHrO+MApVx0bcpKRKuPle6CNF1w2jjVeo6/s=;MGdmqpwj0cTW885Yc9TZGg=="
+secured: "9/Jwq5vt1fd4lJeVlBS8X0P+WOc3B8ofi5H9tIaTp9iY5IVb/S09+EmSGeV1agesHqe8JeJKqGkV8yFO4DpsNdFfE0GuSb8Z543uar69RVuLdOIVLSakSa//zSU8cya7ossu1/Mw9u0S5mozF/TV+Wi2PS9mjmpp/pX2v8t+q7dzhpMTKDyEKkm/WXD1YtZwjtuDKc4XAk44CAxXNHjRPfb5NX+b0nFbUY0SJ7VC4xub4lbhaRkJpPkcoZEWJDmd03V5V6ARdwvLvecu3LYoEoquNDeXEK6eLvTmEfT7FaW3dljSOhabAJvVpZ4ah3hmdcfXIqTb8JFZulsUsa/XlNVYwM2H7Rk0GgL6G5be4jqFNFWTi6xCPD1W+s1qRKtrFEB4B8rCXVQLs+vKS1h2RQJN5Cz2BwJ48r5yNE23jGg=;iuGrRokC+JymqTRKrsNyMw=="
 ---
 
