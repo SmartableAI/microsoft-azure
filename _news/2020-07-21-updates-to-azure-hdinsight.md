@@ -30,6 +30,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 84
+  - title: "Azure HDInsight now supports Private Link in preview"
+    excerpt: "Azure HDInsight private link integration allows you to create VNET injected clusters with no public IP and access them using your own private endpoints."
+    publishedDateTime: 2020-11-05T17:00:16Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-hdinsight-now-supports-private-link-in-preview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
 
 secured: "DtTXViES46KhH96siS/oaQfUfRHVLvNOpDuyUVJHUFmwgidKJZczOR/DbUeMGmsYRGOsQRAQpxYjwQWMOSTIDj/ns3hx4KHgr2d8VujumNqB7t5WEOns77XcGJJRNYw4DEBhbxen3RfZaPqTZ548/W0enj2Fg6+ITSOPFqqE6hBoFAzyjn3Byps2h8YUDdpC1qZPK3TQ39B7M29ZqkMDgGCNtSv/dVQPOhp8e83g+hbTNe+QOVqqAztdfVRbQ+UD1vJG4N2iL53wjxVnIEbG1MWy0wi9U7jbzRF9CXNxM5EkEqYbwiH8Ciw5UQlDWEL6BS5LwBJYO1gSPutvP2IYig==;6WxkwYeQIDDpdkdoKH/Bkw=="
 ---

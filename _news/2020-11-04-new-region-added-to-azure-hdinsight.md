@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/azure-hdinsight-is-now-a
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-hdinsight-is-now-available-in-the-uae-central/"
 type: article
 quality: 84
-heat: 105
+heat: 125
 published: true
 
 provider:
@@ -23,6 +23,15 @@ topics:
   - Analytics
 
 related:
+  - title: "Azure HDInsight now supports Private Link in preview"
+    excerpt: "Azure HDInsight private link integration allows you to create VNET injected clusters with no public IP and access them using your own private endpoints."
+    publishedDateTime: 2020-11-05T17:00:16Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-hdinsight-now-supports-private-link-in-preview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
   - title: "Updates to Azure HDInsight"
     excerpt: "HDInsight now fully supports distributions of Apache analytics projects in-house. Plus, in the coming months, we’re launching the next generation of HDInsight with new and improved features."
     publishedDateTime: 2020-07-21T16:02:26Z

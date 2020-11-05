@@ -1,27 +1,23 @@
 ---
 category: news
-title: "Innovaccer's Member Engagement Solution is Now Available on Microsoft Azure to Assist Payers Accelerate Their Digital Transformation Journey"
-excerpt: "Inc., a leading healthcare technology company, recently announced that their member engagement solution is now available on Microsoft Azure. The solution enables"
-publishedDateTime: 2020-11-04T23:06:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/innovaccers-member-engagement-solution-is-now-available-on-microsoft-azure-to-assist-payers-accelerate-their/article_9501b847-092e-5f93-b914-c0b84926deda.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/innovaccers-member-engagement-solution-is-now-available-on-microsoft-azure-to-assist-payers-accelerate-their/article_9501b847-092e-5f93-b914-c0b84926deda.html"
+title: "Microsoft Cloud for Healthcare: A Critical Resource for an Infected World"
+excerpt: "Microsoft updated us on their Microsoft Cloud for Healthcare offering (you can find the briefing online). I found it somewhat interesting that if we can make complicated healthcare efforts in the cloud while complying with very rigid security laws,"
+publishedDateTime: 2020-11-05T18:28:00Z
+originalUrl: "https://www.itbusinessedge.com/blogs/unfiltered-opinion/microsoft-cloud-for-healthcare.html"
+webUrl: "https://www.itbusinessedge.com/blogs/unfiltered-opinion/microsoft-cloud-for-healthcare.html"
+ampWebUrl: "https://www.itbusinessedge.com/amp/blogs/unfiltered-opinion/microsoft-cloud-for-healthcare.html"
+cdnAmpWebUrl: "https://www-itbusinessedge-com.cdn.ampproject.org/c/s/www.itbusinessedge.com/amp/blogs/unfiltered-opinion/microsoft-cloud-for-healthcare.html"
 type: article
-quality: 2
+quality: 21
 heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: IT Business Edge
+  domain: itbusinessedge.com
 
 topics:
   - Azure
-
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/0/5e/05ee89ea-2eac-51e4-86fe-a186902e6de3/5fa3306b000dd.image.jpg?resize=400%2C293"
-    width: 400
-    height: 293
-    isCached: true
 
 related:
   - title: "It's Past Time for Microsoft to Disclose Azure Details"
@@ -155,17 +151,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Microsoft Cloud for Healthcare: A Critical Resource for an Infected World"
-    excerpt: "Microsoft updated us on their Microsoft Cloud for Healthcare offering (you can find the briefing online). I found it somewhat interesting that if we can make complicated healthcare efforts in the cloud while complying with very rigid security laws,"
-    publishedDateTime: 2020-11-05T18:28:00Z
-    webUrl: "https://www.itbusinessedge.com/blogs/unfiltered-opinion/microsoft-cloud-for-healthcare.html"
-    ampWebUrl: "https://www.itbusinessedge.com/amp/blogs/unfiltered-opinion/microsoft-cloud-for-healthcare.html"
-    cdnAmpWebUrl: "https://www-itbusinessedge-com.cdn.ampproject.org/c/s/www.itbusinessedge.com/amp/blogs/unfiltered-opinion/microsoft-cloud-for-healthcare.html"
-    type: article
-    provider:
-      name: IT Business Edge
-      domain: itbusinessedge.com
-    quality: 21
   - title: "New AttackIQ Solution Integrates with Microsoft Azure Sentinel to Strengthen Cyber Threat Detection and Investigation for Security Customers"
     excerpt: "Building on its announcement of the Preactive Security Exchange (PSE) recently, AttackIQ Ⓡ today announced its integration between the Microsoft Azure Sentinel cloud-native security information and event manager (SIEM) platform and the AttackIQ Security Optimization Platform."
     publishedDateTime: 2020-10-27T12:00:00Z
@@ -221,7 +206,21 @@ related:
       name: Business Wire
       domain: businesswire.com
     quality: 10
+  - title: "Innovaccer's Member Engagement Solution is Now Available on Microsoft Azure to Assist Payers Accelerate Their Digital Transformation Journey"
+    excerpt: "Inc., a leading healthcare technology company, recently announced that their member engagement solution is now available on Microsoft Azure. The solution enables"
+    publishedDateTime: 2020-11-04T23:06:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/innovaccers-member-engagement-solution-is-now-available-on-microsoft-azure-to-assist-payers-accelerate-their/article_9501b847-092e-5f93-b914-c0b84926deda.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 2
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/0/5e/05ee89ea-2eac-51e4-86fe-a186902e6de3/5fa3306b000dd.image.jpg?resize=400%2C293"
+        width: 400
+        height: 293
+        isCached: true
 
-secured: "YCA9BZlQnWBnwiwReoapZlQ9RZ4uYn5xlvOwnIt2SaCeh7EYcnlOXdj2ZhUZBeWGByhemXtTGnLbfu47snJ0Mdccvp8GQY2P6XXj6DLi0StpefCovCqAIG4EllR3PpF/cKpvzmPCaEK3+YHFbuEZNIuzkpoKVghGgGgS2lNhpsExYRQkFux85rofA+x8IPLdIG2S0zH7zlVfmDYpeVhb+0NvDMOuTIrrsuWsgNQQ2VAumjcFzd0fgRZtVAi6QPcVcNf7sohHBQ62KtjjUzFdyFWmRbYHielAO3EpeVCb+yw8Q73jL8mOvYHjG+vT8y0qg0KlogGwEuqnC9a3a5PRysEsaAeYKmIih14qORRrjEHhbIfkIZ/IEOqcT1uj+MT/RGTXZ0FHHxdoneOUhtMRDOLGQDWG1pX24xXbPOsCiF6YPbHxwdHkwuKv8D6Cs8AuBkIaRpB/A2vsr4iaikzIbNdSm+PfpCgn/ofcQ7LmLktJlPB5sVPVxZNAEyY+cKa9uwCR9RBYT/M37mRARbjN7g==;rxtkEqKYfBUzqgyxg/+wTA=="
+secured: "QoENiCLJmiXTgTk/n8lcQBmU7DYQMIn68fbmiPJ6+9xKUz5ipea2kUM47JczPMct1nccTDI/uGhRJRmEnqAu/wIHm/SIcXa98cImUzDuNPUiVUg70UuZpiWX4I8OmLcFYlqf+fQaNxbUvsKmvGuqSqCivEo072GsWqUF7qixeLXM6H9thtoJIYXqj1ASGsPcZEcpA27OfF/C70EDnpz1bgIVmjXTOv9ysBuFmJQZaxl6pXCnyl+DTn3aUCpSqRuPu8/e16IBqGkWR95Gq9RKFI1VSD3MSoVOGuCRvI+thvcaXJPl1ai28leHOmTMZnd/e0PtZCETcthavLDp2cLD17pWzrPDfmfmluZT9dJKbNQ=;+oaN819MqM8ueFJOmfWSNw=="
 ---
 

@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Congruity360 Now Available in the Microsoft Azure Marketplace"
-excerpt: "Congruity360, data governance and storage leader, today announced the availability of Classify360 in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure."
+excerpt: "NORWELL, Mass., Oct. 22, 2020 /PRNewswire/ -- Congruity360, data governance and storage leader, today announced the availability of Classify360 in the Microsoft Azure Marketplace, an online ..."
 publishedDateTime: 2020-10-22T13:00:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-computing-and-information-technology-web-services-internet-technology-217bea6f181fa4a1a075f5aa3e59252f"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-computing-and-information-technology-web-services-internet-technology-217bea6f181fa4a1a075f5aa3e59252f"
+originalUrl: "https://www.prnewswire.com/news-releases/congruity360-now-available-in-the-microsoft-azure-marketplace-301157361.html"
+webUrl: "https://www.prnewswire.com/news-releases/congruity360-now-available-in-the-microsoft-azure-marketplace-301157361.html"
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://mma.prnewswire.com/media/522775/Congruity360_Logo.jpg?p=facebook"
+    width: 2695
+    height: 1414
     isCached: true
 
 related:
@@ -502,6 +502,6 @@ related:
         height: 627
         isCached: true
 
-secured: "f04x9palepv2d54BOwMoBJOtO6swfPdZJ/F5qd/hvIpDyYaz9RQzBCt0rF+aef2nM492niPtSQsG6IgIs+JOEvsognoMuv8IzeEyf/QvloQK4C/WEI+PgK7jIDBlxPX8ffrG/bpjnpZmshb6uV6zh3VKWtbfWH6lrC9gRU1MBCZQd0hNKOXde2I2w1H1Gc/Jl/ohhwsg/W4Uby860VXiRvMHS3nkY4aRwbhR+mGVL9fXUvZ5m7H8R7KskZFTXJhIg2jOyIplgCRbeljuh4+Z0cRKkauGMac2C1BDW5+wRR5E33dV6zmGcyUO1ze61bJvvPce6CWg5gou2ZrAK4GmSHSku3eoy0xYPG82YbNR7YA=;/MCbsVrKM+6NnCc+062d0w=="
+secured: "kQmMJ0Gx/f66ob6ljB8SJ8l54rLY2LAm3U7l5w0cnJ7HtzoZO6f/RgQ8wy7r38UnHvmlBnUYKJdbo6lCRrFYerrkghpd+KFiGQ9NSkXbh43kSaWk1SSpC32AhlDpcW4xdyCxL+N+zJ63fYwCBtsfUWerxrxLn/DCNo4ws48nJji/L2jml8OO+9rMQgOUEH0kpYrvpbZ2OxNl0QB1mp/r9U/1QVjNhz+uWMErXWahH/fu6GSbqbaOTlpfjFMn+NSr6uvsSwV2MT9HGawhWEtg7IyOXHYp+/wQ4lwjz0iVr0rAlIFe69uk4bHbJPB2oEQvj6imhxmPIUcQPil+MvmRHmoxnu923CsMRjxf1K1Mqxk=;S6eSOrlil38g+XLxB1yjcw=="
 ---
 
