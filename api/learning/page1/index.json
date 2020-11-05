@@ -50,8 +50,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/principles-cloud-computing/",
       "length": "PT1H2M",
       "ratings": {
-        "count": 173126,
-        "average": 4.7732
+        "count": 173137,
+        "average": 4.773203
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -78,15 +78,15 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-introduction-lambda-architecture-iot-solutions.md",
-      "title": "Introduction to implementing lambda architecture for IoT solutions",
-      "excerpt": "An overview of the concepts and resources behind storage technologies used in IoT applications on Azure. After completing the module, you can determine when to use Blob storage, Data Lake storage, Azure Cosmos DB, and Time Series Insights.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-introduction-lambda-architecture-iot-solutions/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-lambda-architecture-iot-solutions/",
-      "length": "PT28M",
+      "path": "_learning/courses/microsoft-learn-manage-site-reliability.md",
+      "title": "Manage site reliability",
+      "excerpt": "Learn how to manage site reliability.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-manage-site-reliability/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-site-reliability/",
+      "length": "PT35M",
       "ratings": {
-        "count": 398,
-        "average": 4.603015
+        "count": 318,
+        "average": 4.6635222
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -101,29 +101,34 @@
         ]
       },
       "levels": [
-        "Beginner"
+        "Intermediate"
       ],
-      "heat": 130,
+      "heat": 131,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/azure-devops/manage-site-reliability-social.png",
+          "width": 1000,
+          "height": 500,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "course",
       "price": "Free",
       "topics": [
-        "Azure",
-        "IoT",
-        "Storage",
-        "Databases"
+        "DevOps"
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-train-local-model-with-azure-mls.md",
-      "title": "Train a machine learning model with Azure Machine Learning",
-      "excerpt": "Learn how to use Azure Machine Learning to train a model and register it in a workspace.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-train-local-model-with-azure-mls/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/train-local-model-with-azure-mls/",
-      "length": "PT40M",
+      "path": "_learning/courses/microsoft-learn-ai-strategy-in-financial-services.md",
+      "title": "Define an AI strategy to create business value in financial services",
+      "excerpt": "Explore the strategic components, use cases, and special factors of an AI strategy in financial services that creates business value, with INSEAD and Microsoft.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-ai-strategy-in-financial-services/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-strategy-in-financial-services/",
+      "length": "PT45M",
       "ratings": {
-        "count": 1492,
-        "average": 4.5931635
+        "count": 863,
+        "average": 4.734647
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -138,12 +143,12 @@
         ]
       },
       "levels": [
-        "Beginner"
+        "Intermediate"
       ],
       "heat": 130,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/train-local-model-with-azure-mls-badge-social.png",
+          "url": "https://docs.microsoft.com/learn/achievements/ai-strategy-in-financial-services-social.png",
           "width": 800,
           "height": 400,
           "isCached": true
@@ -158,14 +163,14 @@
       ]
     },
     {
-      "path": "_learning/videos/microsoft-improvements-to-the-linux-virtual-machine-experience-azure-portal-series.md",
-      "title": "Improvements to the Linux Virtual Machine experience | Azure Portal Series",
-      "excerpt": "In this episode of the #Azure Portal \"How To\" Series, learn more about the improvements to the Linux Virtual Machine (VM) experience such as automatic SSH key generation, a new and improved landing page, and a new seamless connect experience.   Try out these features in the Azure portal: https://portal.azure.com",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-improvements-to-the-linux-virtual-machine-experience-azure-portal-series/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-improvements-to-the-linux-virtual-machine-experience-azure-portal-series/",
-      "originalUrl": "https://youtube.com/watch?v=obg6Fq2T898",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/obg6Fq2T898\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT3M7S",
+      "path": "_learning/videos/microsoft-blazor-and-azure-functions-for-serverless-websites-azure-tips-and-tricks.md",
+      "title": "Blazor and Azure Functions for Serverless Websites | Azure Tips and Tricks",
+      "excerpt": "In this video, you'll learn about Blazor and Azure Functions for Serverless Websites.   For more tips and tricks, visit: https://aka.ms/azuretipsandtricks   Get started with 12 months of free services and $200 USD in credit. Create your free account today with Microsoft Azure: https://azure.com/free",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-blazor-and-azure-functions-for-serverless-websites-azure-tips-and-tricks/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-blazor-and-azure-functions-for-serverless-websites-azure-tips-and-tricks/",
+      "originalUrl": "https://youtube.com/watch?v=QeSNtE4HnZY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/QeSNtE4HnZY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT4M36S",
       "provider": {
         "name": "Microsoft",
         "domain": "microsoft.com",
@@ -178,11 +183,11 @@
           }
         ]
       },
-      "publishedDateTime": "2020-08-26T10:57:05-07:00",
+      "publishedDateTime": "2020-09-08T08:32:31-07:00",
       "heat": 130,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/obg6Fq2T898/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/QeSNtE4HnZY/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -193,8 +198,7 @@
       "price": "Free",
       "topics": [
         "Azure",
-        "Management tools",
-        "Compute"
+        "Serverless"
       ]
     },
     {
@@ -257,8 +261,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/principles-cloud-computing/",
           "length": "PT1H2M",
           "ratings": {
-            "count": 173126,
-            "average": 4.7732
+            "count": 173137,
+            "average": 4.773203
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -292,8 +296,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-an-azure-account/",
           "length": "PT39M",
           "ratings": {
-            "count": 135638,
-            "average": 4.698462
+            "count": 135645,
+            "average": 4.698463
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -327,8 +331,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/welcome-to-azure/",
           "length": "PT36M",
           "ratings": {
-            "count": 67482,
-            "average": 4.8007174
+            "count": 67485,
+            "average": 4.800726
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -362,8 +366,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-azure-infrastructure/",
           "length": "PT45M",
           "ratings": {
-            "count": 68442,
-            "average": 4.7148533
+            "count": 68444,
+            "average": 4.714862
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -409,8 +413,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/",
       "length": "PT36M",
       "ratings": {
-        "count": 1261,
-        "average": 4.7525773
+        "count": 1264,
+        "average": 4.751582
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -643,8 +647,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-an-azure-account/",
       "length": "PT39M",
       "ratings": {
-        "count": 135638,
-        "average": 4.698462
+        "count": 135645,
+        "average": 4.698463
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -701,8 +705,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/control-and-organize-with-azure-resource-manager/",
           "length": "PT46M",
           "ratings": {
-            "count": 39327,
-            "average": 4.714344
+            "count": 39328,
+            "average": 4.714351
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -736,8 +740,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-governance/",
           "length": "PT46M",
           "ratings": {
-            "count": 39458,
-            "average": 4.634092
+            "count": 39459,
+            "average": 4.6341014
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -904,8 +908,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-security-in-azure/",
           "length": "PT1H16M",
           "ratings": {
-            "count": 45833,
-            "average": 4.7052126
+            "count": 45834,
+            "average": 4.705219
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -940,8 +944,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-governance/",
           "length": "PT46M",
           "ratings": {
-            "count": 39458,
-            "average": 4.634092
+            "count": 39459,
+            "average": 4.6341014
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -975,8 +979,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/control-and-organize-with-azure-resource-manager/",
           "length": "PT46M",
           "ratings": {
-            "count": 39327,
-            "average": 4.714344
+            "count": 39328,
+            "average": 4.714351
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1058,8 +1062,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-azure-infrastructure/",
       "length": "PT45M",
       "ratings": {
-        "count": 68442,
-        "average": 4.7148533
+        "count": 68444,
+        "average": 4.714862
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1116,8 +1120,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-security-in-azure/",
           "length": "PT1H16M",
           "ratings": {
-            "count": 45833,
-            "average": 4.7052126
+            "count": 45834,
+            "average": 4.705219
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1152,8 +1156,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-an-azure-account/",
           "length": "PT39M",
           "ratings": {
-            "count": 135638,
-            "average": 4.698462
+            "count": 135645,
+            "average": 4.698463
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1316,8 +1320,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-governance/",
           "length": "PT46M",
           "ratings": {
-            "count": 39458,
-            "average": 4.634092
+            "count": 39459,
+            "average": 4.6341014
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1351,8 +1355,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-virtual-machines/",
           "length": "PT1H7M",
           "ratings": {
-            "count": 15218,
-            "average": 4.6906295
+            "count": 15222,
+            "average": 4.690711
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1421,8 +1425,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/network-fundamentals-2/",
           "length": "PT36M",
           "ratings": {
-            "count": 2469,
-            "average": 4.6978536
+            "count": 2470,
+            "average": 4.697166
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1495,8 +1499,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/principles-cloud-computing/",
           "length": "PT1H2M",
           "ratings": {
-            "count": 173126,
-            "average": 4.7732
+            "count": 173137,
+            "average": 4.773203
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1572,8 +1576,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-virtual-machines/",
           "length": "PT1H7M",
           "ratings": {
-            "count": 15218,
-            "average": 4.6906295
+            "count": 15222,
+            "average": 4.690711
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1607,8 +1611,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-linux-virtual-machine-in-azure/",
           "length": "PT1H26M",
           "ratings": {
-            "count": 8208,
-            "average": 4.688353
+            "count": 8209,
+            "average": 4.6883907
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1684,8 +1688,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-governance/",
           "length": "PT46M",
           "ratings": {
-            "count": 39458,
-            "average": 4.634092
+            "count": 39459,
+            "average": 4.6341014
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1719,8 +1723,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-virtual-machines/",
           "length": "PT1H7M",
           "ratings": {
-            "count": 15218,
-            "average": 4.6906295
+            "count": 15222,
+            "average": 4.690711
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1789,8 +1793,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/network-fundamentals-2/",
           "length": "PT36M",
           "ratings": {
-            "count": 2469,
-            "average": 4.6978536
+            "count": 2470,
+            "average": 4.697166
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1840,8 +1844,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/welcome-to-azure/",
       "length": "PT36M",
       "ratings": {
-        "count": 67482,
-        "average": 4.8007174
+        "count": 67485,
+        "average": 4.800726
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1989,8 +1993,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-governance/",
       "length": "PT46M",
       "ratings": {
-        "count": 39458,
-        "average": 4.634092
+        "count": 39459,
+        "average": 4.6341014
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2047,8 +2051,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-virtual-machines/",
           "length": "PT1H7M",
           "ratings": {
-            "count": 15218,
-            "average": 4.6906295
+            "count": 15222,
+            "average": 4.690711
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2082,8 +2086,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-linux-virtual-machine-in-azure/",
           "length": "PT1H26M",
           "ratings": {
-            "count": 8208,
-            "average": 4.688353
+            "count": 8209,
+            "average": 4.6883907
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2118,8 +2122,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-windows-virtual-machine-in-azure/",
           "length": "PT51M",
           "ratings": {
-            "count": 13123,
-            "average": 4.70906
+            "count": 13124,
+            "average": 4.7090826
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2242,8 +2246,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-virtual-machines/",
           "length": "PT1H7M",
           "ratings": {
-            "count": 15218,
-            "average": 4.6906295
+            "count": 15222,
+            "average": 4.690711
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2277,8 +2281,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-linux-virtual-machine-in-azure/",
           "length": "PT1H26M",
           "ratings": {
-            "count": 8208,
-            "average": 4.688353
+            "count": 8209,
+            "average": 4.6883907
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2313,8 +2317,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-windows-virtual-machine-in-azure/",
           "length": "PT51M",
           "ratings": {
-            "count": 13123,
-            "average": 4.70906
+            "count": 13124,
+            "average": 4.7090826
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2476,8 +2480,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-ai-fundamentals/",
           "length": "PT27M",
           "ratings": {
-            "count": 3921,
-            "average": 4.7342515
+            "count": 3924,
+            "average": 4.733945
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2538,8 +2542,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-ai-fundamentals/",
       "length": "PT27M",
       "ratings": {
-        "count": 3921,
-        "average": 4.7342515
+        "count": 3924,
+        "average": 4.733945
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2581,8 +2585,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/control-and-organize-with-azure-resource-manager/",
       "length": "PT46M",
       "ratings": {
-        "count": 39327,
-        "average": 4.714344
+        "count": 39328,
+        "average": 4.714351
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2768,8 +2772,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-subscription-access-azure-rbac/",
           "length": "PT21M",
           "ratings": {
-            "count": 11205,
-            "average": 4.7626953
+            "count": 11206,
+            "average": 4.7627163
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2975,8 +2979,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-subscription-access-azure-rbac/",
           "length": "PT21M",
           "ratings": {
-            "count": 11205,
-            "average": 4.7626953
+            "count": 11206,
+            "average": 4.7627163
           },
           "provider": {
             "name": "Microsoft Learn",
