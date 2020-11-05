@@ -4,7 +4,7 @@ excerpt: "Azure Friday visited various Microsoft booths in the Expo Hall at Buil
 originalUrl: https://youtube.com/watch?v=5GKnnMSFczY
 type: video
 price: Free
-length: PT6M16S
+length: PT6M15S
 publishedDateTime: 2018-07-16T15:53:42Z
 heat: 50
 
@@ -27,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "ihVkibU+e34PBJ+JF0VpvQmcSLEX+TePl5is+gsJXpHGATaZN78OX6NAwNeqUXYqT8Ppmb4BPj4g2ehnDWT/NOHnJy+ND6fs71hXrVDyQNl0JNhQCYH6sDAmigJM/I8YPH0SVyLXPaTPM2id9lGETfdc3ZwayK33Y0Za+DKNJOf+2mYQfw8MwGZdSkDS8QFGS/KbCguixvLrlHcjI9tZznGGTGqaUuGKIn16P/rniVOarsvsV9KpHllpGj8NPsDyMyiEzxdH78RJSncuC8s4vqdutWkBtIoO5Z2cWz7WEVXOW7s5RUGST+XmE9nfLbaDmacRJrBK2pqmqOt5b96VaysBXtmCh2tonG6zad2hOnp1IqR8W5IguyIAHvZdev5JhRSXZ86zTkJ6fK4+zclEtFwhcjtOFtp5EoalNk8hSDc=;5ncRxPXbyAjBIS8DN9RPug=="
+secured: "HQD68EDzw1pooPSwvqKQvnIyWI8+iVi/IOU6BfCkArSZ5WyNldFebuJ19OBhjO3R7epaipmfzQR/5u2IE8Q4+ycsX7jh3ETGNiEYtANqP4kT6KyYJ2QIh1dPmy7e4tgJwN5pXJQi3hWV+dtJaL5Twv+kdojju5j47Wv20ECIO37UwJTvkNLyNjf2t1kva11Y/8sLSIq7h6wllX8chcveNMiS4jzLDHHTjfxtv7n/shVPjGzc31lnAnGEs/cLF1Y3JLtj5lFUG+VBCO1dvRDG0bFO2P2A9U88yOGVyZcDnoAbCjyzquKDosv0CF+uWxg6dHMGK0GfQNmJP+Cx7R3b95JwYiHPFdstDqZUzf5ocllMWuOsyUE54oPkdivnPZsjfJMssHqRuL7RpBc+vpOtall2zu5ro4kbQ/c7leXrqrk=;xiDxAlKkIzIUdrQgCrOiNQ=="
 ---
 
