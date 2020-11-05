@@ -1,25 +1,27 @@
 ---
 category: news
-title: "Lindsay to Develop Sustainable and Profitable Solutions for Growers using Microsoft Azure"
-excerpt: "PRNewswire/ -- Lindsay Corporation (NYSE: LNN), a leading global manufacturer and distributor of irrigation and infrastructure equipment and technology, today announced the development of intelligent digital solutions using Microsoft Azure to enhance irrigation management,"
-publishedDateTime: 2020-10-30T10:51:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/lindsay-to-develop-sustainable-and-profitable-solutions-for-growers-using-microsoft-azure-1029745663"
-webUrl: "https://markets.businessinsider.com/news/stocks/lindsay-to-develop-sustainable-and-profitable-solutions-for-growers-using-microsoft-azure-1029745663"
+title: "Nuventive Improvement Platform Now Available in the Microsoft Azure Marketplace"
+excerpt: "Planning and improvement software company Nuventive today announced the availability of the Nuventive Improvement Platform in the Microsoft Azure Marketplace, an online store providing"
+publishedDateTime: 2020-11-05T21:30:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_pennsylvania/nuventive-improvement-platform-now-available-in-the-microsoft-azure-marketplace/article_7dd1de7d-4cae-5586-a919-39f650cfcc04.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_pennsylvania/nuventive-improvement-platform-now-available-in-the-microsoft-azure-marketplace/article_7dd1de7d-4cae-5586-a919-39f650cfcc04.html"
 type: article
-quality: 48
+quality: 33
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - Azure
+
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/f/02/f0268ddb-9a17-5a89-8822-8d022cceeb85/5fa4702e11e0a.image.jpg?resize=400%2C241"
+    width: 400
+    height: 241
+    isCached: true
 
 related:
   - title: "It's Past Time for Microsoft to Disclose Azure Details"
@@ -86,6 +88,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 52
+  - title: "Lindsay to Develop Sustainable and Profitable Solutions for Growers using Microsoft Azure"
+    excerpt: "PRNewswire/ -- Lindsay Corporation (NYSE: LNN), a leading global manufacturer and distributor of irrigation and infrastructure equipment and technology, today announced the development of intelligent digital solutions using Microsoft Azure to enhance irrigation management,"
+    publishedDateTime: 2020-10-30T10:51:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/lindsay-to-develop-sustainable-and-profitable-solutions-for-growers-using-microsoft-azure-1029745663"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 48
   - title: "Microsoft Cloud PC details leaked before its 2021 release"
     excerpt: "Microsoft Cloud PC is yet to be released somewhere in Spring 2021, but a series of previously unknown details about it have recently surfaced."
     publishedDateTime: 2020-11-05T08:52:00Z
@@ -129,20 +140,6 @@ related:
       - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/10/14145709/helpnetsecurity.jpg"
         width: 1200
         height: 627
-        isCached: true
-  - title: "Nuventive Improvement Platform Now Available in the Microsoft Azure Marketplace"
-    excerpt: "Planning and improvement software company Nuventive today announced the availability of the Nuventive Improvement Platform in the Microsoft Azure Marketplace, an online store providing"
-    publishedDateTime: 2020-11-05T21:30:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_pennsylvania/nuventive-improvement-platform-now-available-in-the-microsoft-azure-marketplace/article_7dd1de7d-4cae-5586-a919-39f650cfcc04.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 33
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/f/02/f0268ddb-9a17-5a89-8822-8d022cceeb85/5fa4702e11e0a.image.jpg?resize=400%2C241"
-        width: 400
-        height: 241
         isCached: true
   - title: "Cloud Computing in a Shipping Container: Microsoft Introduces the Azure Modular Datacenter"
     excerpt: "Microsoft recently announced a new Azure in a shipping container service called Azure Modular Datacenter. The new offer provides an option for setting up an Azure datacenter in hybrid or challenging environments where cloud computing previously would not have been possible."
@@ -239,6 +236,6 @@ related:
         height: 293
         isCached: true
 
-secured: "AzpztX7cgvXbtzOBr5Fnaa2OOqiOsL+EptPRJkwhe83M2AID0yvt4Ds+tIQd3kYI2983Rj3RIJUN7P+dzfMyhBMfhJQKKoRsEPOIiGU1vsL5D3p4pDl4JmEPtQb/w3/3ivWNq1kd+ZfVHMy4B9v5tIqCuYxSalvfMQv6IZ7PCYUvDsn9PBn6jqIhPb1huLAKN0XMoeNdnWz8yxxhqpC4oQUOR0j7iB6hjeRpNu6BKXUk5ir1LCU/Hb1gdJYQeMUAeXFP8ZRea86fs7LIciK5mv4FQXc9i4RnKaKus55Rt5jr5CZbtRfchnRH1Yq26l+zucngrdIXO3RzAxnqmbq1fo6SE3xwnPe+YuHXCfQ92OE=;7Ytm+tl0WS/7n3BwU3ffJA=="
+secured: "muA8dNrym3c57wp0bsdEV9xcgkHyay8ZlV2LBnT7iehaEGppgcmSBZdghn1zfTXPpCXHZrymmQNBMZg/F6IWtevFxmzFy84dvwiKQTNYKjtspVjqJEE53X35SREh7KyQFYpLQcLF39gg8Km0DSqxKoVoAbFXxexePx9EloDMqI6guG17wLbVBKGUi8+GUkI+Z/WLca2W433YrRgaizZyhmGPswzhVatJXfZCerU9tRjIfKdiJqM0WD/n2nJPFDH3sFcA/stlQkSKXQLghpXtM8C4fsE3Y8k8pMqPfzjCiwLNs4nwIsG3rI4g8KeskexFr8Ff/KXCeBaVQxHMK/EaPFxlMmY/ALolr82GTkC6iBA=;VaKsidcebHIJ5dKc8Bm1FA=="
 ---
 

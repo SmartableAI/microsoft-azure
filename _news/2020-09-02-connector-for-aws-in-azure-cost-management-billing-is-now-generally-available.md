@@ -64,6 +64,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 84
+  - title: "Azure Monitor Application Insights Java 3.0 is now generally available"
+    excerpt: "Now you can monitor your Java apps without a single change of code - the Application Java agent can be enabled through just a couple of configuration changes, and will monitor Java applications in any environment."
+    publishedDateTime: 2020-11-05T22:00:05Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/java-agent-application-insights-ga/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
   - title: "Query Acceleration for Azure Data Lake Storage is now generally available"
     excerpt: "Query Acceleration for Azure Data Lake Storage is now generally available in all Azure regions."
     publishedDateTime: 2020-09-10T18:00:21Z

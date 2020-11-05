@@ -141,6 +141,20 @@ related:
         width: 1200
         height: 627
         isCached: true
+  - title: "Nuventive Improvement Platform Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Planning and improvement software company Nuventive today announced the availability of the Nuventive Improvement Platform in the Microsoft Azure Marketplace, an online store providing"
+    publishedDateTime: 2020-11-05T21:30:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_pennsylvania/nuventive-improvement-platform-now-available-in-the-microsoft-azure-marketplace/article_7dd1de7d-4cae-5586-a919-39f650cfcc04.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 33
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/f/02/f0268ddb-9a17-5a89-8822-8d022cceeb85/5fa4702e11e0a.image.jpg?resize=400%2C241"
+        width: 400
+        height: 241
+        isCached: true
   - title: "Cloud Computing in a Shipping Container: Microsoft Introduces the Azure Modular Datacenter"
     excerpt: "Microsoft recently announced a new Azure in a shipping container service called Azure Modular Datacenter. The new offer provides an option for setting up an Azure datacenter in hybrid or challenging environments where cloud computing previously would not have been possible."
     publishedDateTime: 2020-11-05T12:10:00Z
@@ -222,6 +236,6 @@ related:
         height: 293
         isCached: true
 
-secured: "mjZN1ZTlridrJbv9HFHH2EhgDCKvAbIWMsyXzSd5nfAKJ6DBsx4NGekIqRJZThaVSUcmJ9huuNm8ZE/n0PhppZ8nbbtqkJSpc/gJlrZPjrp1rcNOQl8bhVs/XgE7Dzi/8BV5Q3AQvc8KwPpTBXqde2hJ9/wPoo0iaXoTobADj52iA7CubniYDdnuW7IkJ7+Igcw+bUKMWvb2wK55M5vHH7+QzHhakiU7icpI3IV8wGbAsoyx6MYPkG8uiYJE0T1gU5wH6BM8bm3Hf1JdcMmLg+5wjPNsxowjQBuKr92+F6toAn416IUs51WeyTdoIUY9IJ+UYioGZwV3hg5tUs8XF6rKaMp6MzKlb8FCFfHzVPM=;NW+2D6fNX4uIjigEjXxc9A=="
+secured: "30myfSXVICG2tFny/i/Fu7DlslJ5petLdlvD+5oLotzBG7Bpj/L/6ousZBGEfjEkD+Wk9SraLbvSxies1d3y0Q0P2CSpl4MwqA8b5aACQa8ioWGPB40nIJhNZy+GVqK8YAZrREhp3IvurJM/3UT/y+sVwm8+zN6vGJswCQKizRkVqGFx2gfo4QW44m+CRhXSGoNr9h87wJidb8TXVR3by17KNDnLoHgTNqwIpN8zdWQLbEJHaEPuSFXiGlRDkiNIg2lpEVu810boYoRXKAwiRHxBQQbxN8TdcVuqOQCwIXj85SE36BAF5RbRs9fcM1YuerlxNjUjcBbrQb/Dtxy5rLA3281YdKCIFb5RWrJT1I0=;VYzRrN9zXReaFz1MVZbUOA=="
 ---
 

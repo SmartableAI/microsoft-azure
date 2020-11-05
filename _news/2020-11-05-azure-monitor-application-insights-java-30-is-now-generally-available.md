@@ -1,11 +1,12 @@
 ---
 category: news
-title: "Object replication public preview for Azure Blob storage"
-excerpt: ""
-publishedDateTime: 2020-05-21T15:44:37Z
-webUrl: "https://azure.microsoft.com/en-us/updates/azure-storage-object-replication-public-preview/"
+title: "Azure Monitor Application Insights Java 3.0 is now generally available"
+excerpt: "Now you can monitor your Java apps without a single change of code - the Application Java agent can be enabled through just a couple of configuration changes, and will monitor Java applications in any environment."
+publishedDateTime: 2020-11-05T22:00:05Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/java-agent-application-insights-ga/"
+webUrl: "https://azure.microsoft.com/en-us/updates/java-agent-application-insights-ga/"
 type: article
-quality: 17
+quality: 84
 heat: -1
 published: false
 
@@ -19,6 +20,7 @@ provider:
 
 topics:
   - Azure
+  - DevOps
 
 related:
   - title: "Azure Blob storage object replication is now generally available"
@@ -52,15 +54,6 @@ related:
     excerpt: "Azure storage strives to protect your business critial data from any accident or attack. We are excited to announce the general availability of  Azure Blob versioning. "
     publishedDateTime: 2020-08-31T20:00:37Z
     webUrl: "https://azure.microsoft.com/en-us/updates/azure-blob-versioning-is-now-general-available/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 84
-  - title: "Azure Monitor Application Insights Java 3.0 is now generally available"
-    excerpt: "Now you can monitor your Java apps without a single change of code - the Application Java agent can be enabled through just a couple of configuration changes, and will monitor Java applications in any environment."
-    publishedDateTime: 2020-11-05T22:00:05Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/java-agent-application-insights-ga/"
     type: article
     provider:
       name: Microsoft
@@ -148,6 +141,15 @@ related:
         width: 1024
         height: 367
         isCached: true
+  - title: "Object replication public preview for Azure Blob storage"
+    excerpt: ""
+    publishedDateTime: 2020-05-21T15:44:37Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-storage-object-replication-public-preview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 17
   - title: "Azure geo-zone-redundant storage is now generally available"
     excerpt: "Geo-zone-redundant storage (GZRS) and read-access geo-zone-redundant storage (RA-GZRS) are now generally available, offering intra-regional and inter-regional high availability and disaster protection for your applications."
     publishedDateTime: 2020-06-17T20:00:18Z
@@ -185,6 +187,6 @@ related:
       domain: microsoft.com
     quality: 16
 
-secured: "N3a1Bm3sQgEkoj3i+O7rKerRoU68aEjNl/+3b5r5lALk+TJpHSz1QDqrBhH/ApQ/2FtpE4qqhRBMnOddsN/yQyhC6VyMRBZE6eaUggmI7fBcJUML8S5FHRG/gwPnlknUvTltaphy6uP8InElSBVgct0R4U+yCC+s9fRqNTfZXwtL2UJfJSUgkRjoQq+zk6e1l3WQqB7+hzsCsv42bGum+LOgLcKK5re9yY2nFzIMkNRKI+D+F4upQ+efn7mDMAEjecxhdrS8lRKcSFFakXRpjZM37T4CA6btdcRkuSWBMhl/1nIkzCiaZI774LkFly99Lb+yg4ua34SK9RszQF7yMQ==;glwxCekyuc8Mg5AHD5KlBQ=="
+secured: "h0FaB9CmsTYTF+t2My7qwH3CI7Dx7c/zFscC178P7HZbSim/0cRVtij/bHoKJbH2tf2S+Aj85VJ5kIfSepiKh3tkpIoal2PTWoQhtZDXKlg/sSUZ/sLJquuLMfl0dkwy9ajSr/RW64vJSKSpv3v+LdgeG7iWUrHPdSEnJjNhKAtrwjjXL7EN2jc6D3JflIlgtW6BDu5Vd5q/YohMNQtoN7/ZuVcEg8tqMXx8n8NNobMuJtJYglrs/bgksaxKQtY4wN9Gny/ODwuzj5bgiYRq9S5OvkNanGO/NWkr3q6RMqP1ceGeOuE2rjfjw9QIN9UFUymuQMAVPUbm575A5KM9o8c+EUbHT49RdI3q2rXQpP0=;O3nzJFoyf0EXxudiSX9O0g=="
 ---
 
