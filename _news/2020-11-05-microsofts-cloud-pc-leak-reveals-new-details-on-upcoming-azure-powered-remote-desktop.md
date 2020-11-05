@@ -1,22 +1,27 @@
 ---
 category: news
-title: "HYAS Joins the Microsoft Intelligent Security Association (MISA), Integrates HYAS Insight with Microsoft Azure Sentinel"
-excerpt: "HYAS joins Microsoft Intelligent Security Alliance (MISA) and has integrated HYAS Insight threat intelligence solution with Microsoft Azure Sentinel."
-publishedDateTime: 2020-10-28T12:45:00Z
-originalUrl: "https://www.businesswire.com/news/home/20201028005031/en/HYAS-Joins-the-Microsoft-Intelligent-Security-Association-MISA-Integrates-HYAS-Insight-with-Microsoft-Azure-Sentinel/?feedref=Zd8jjkgYuzBwDixoAdXmJgT1albrG1Eq4mAeVP39210hJvfF05B5fk8fgV08Rp7eevRMp3sIgu8q3wq1OF24lT93qbEzrwa15HGbLqMObxYB6IekXemGUNFauMeV8-aC2uKCrP6Vchv2JCmX-IB07A=="
-webUrl: "https://www.businesswire.com/news/home/20201028005031/en/HYAS-Joins-the-Microsoft-Intelligent-Security-Association-MISA-Integrates-HYAS-Insight-with-Microsoft-Azure-Sentinel/?feedref=Zd8jjkgYuzBwDixoAdXmJgT1albrG1Eq4mAeVP39210hJvfF05B5fk8fgV08Rp7eevRMp3sIgu8q3wq1OF24lT93qbEzrwa15HGbLqMObxYB6IekXemGUNFauMeV8-aC2uKCrP6Vchv2JCmX-IB07A=="
+title: "Microsoft's Cloud PC: Leak reveals new details on upcoming Azure-powered remote desktop"
+excerpt: "Microsoft's forthcoming Cloud PC remote Windows experience for Windows 10, macOS, iOS and Android takes shape."
+publishedDateTime: 2020-11-05T11:23:00Z
+originalUrl: "https://www.zdnet.com/article/microsofts-cloud-pc-leak-reveals-new-details-on-upcoming-azure-powered-remote-desktop/"
+webUrl: "https://www.zdnet.com/article/microsofts-cloud-pc-leak-reveals-new-details-on-upcoming-azure-powered-remote-desktop/"
+ampWebUrl: "https://www.zdnet.com/google-amp/article/microsofts-cloud-pc-leak-reveals-new-details-on-upcoming-azure-powered-remote-desktop/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsofts-cloud-pc-leak-reveals-new-details-on-upcoming-azure-powered-remote-desktop/"
 type: article
-quality: 10
+quality: 69
 heat: -1
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: ZDNet
+  domain: zdnet.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/zdnet.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
-  - Security
 
 related:
   - title: "It's Past Time for Microsoft to Disclose Azure Details"
@@ -49,17 +54,6 @@ related:
         width: 624
         height: 638
         isCached: true
-  - title: "Microsoft's Cloud PC: Leak reveals new details on upcoming Azure-powered remote desktop"
-    excerpt: "Microsoft's forthcoming Cloud PC remote Windows experience for Windows 10, macOS, iOS and Android takes shape."
-    publishedDateTime: 2020-11-05T11:23:00Z
-    webUrl: "https://www.zdnet.com/article/microsofts-cloud-pc-leak-reveals-new-details-on-upcoming-azure-powered-remote-desktop/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsofts-cloud-pc-leak-reveals-new-details-on-upcoming-azure-powered-remote-desktop/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsofts-cloud-pc-leak-reveals-new-details-on-upcoming-azure-powered-remote-desktop/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 69
   - title: "DH2i's DxOdyssey for IoT Now Available in the Microsoft Azure Marketplace"
     excerpt: "Oct. 28, 2020 /PRNewswire/ -- DH2i®, a leading provider of multi-platform Software Defined Perimeter (SDP) and Smart Availability software, today announced the availability of DxOdyssey for IoT in the Microsoft Azure Marketplace, an online store ..."
     publishedDateTime: 2020-10-28T13:16:00Z
@@ -187,6 +181,15 @@ related:
       name: Digi Times
       domain: digitimes.com
     quality: 16
+  - title: "HYAS Joins the Microsoft Intelligent Security Association (MISA), Integrates HYAS Insight with Microsoft Azure Sentinel"
+    excerpt: "HYAS joins Microsoft Intelligent Security Alliance (MISA) and has integrated HYAS Insight threat intelligence solution with Microsoft Azure Sentinel."
+    publishedDateTime: 2020-10-28T12:45:00Z
+    webUrl: "https://www.businesswire.com/news/home/20201028005031/en/HYAS-Joins-the-Microsoft-Intelligent-Security-Association-MISA-Integrates-HYAS-Insight-with-Microsoft-Azure-Sentinel/?feedref=Zd8jjkgYuzBwDixoAdXmJgT1albrG1Eq4mAeVP39210hJvfF05B5fk8fgV08Rp7eevRMp3sIgu8q3wq1OF24lT93qbEzrwa15HGbLqMObxYB6IekXemGUNFauMeV8-aC2uKCrP6Vchv2JCmX-IB07A=="
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 10
   - title: "Innovaccer's Member Engagement Solution is Now Available on Microsoft Azure to Assist Payers Accelerate Their Digital Transformation Journey"
     excerpt: "Inc., a leading healthcare technology company, recently announced that their member engagement solution is now available on Microsoft Azure. The solution enables"
     publishedDateTime: 2020-11-04T23:06:00Z
@@ -202,6 +205,6 @@ related:
         height: 293
         isCached: true
 
-secured: "8grjT5JDdN9Jg5PNmvNFne2/oG321HmJtOCnaBw7cZYQU6cPGmbND5uxhH7U5o6lujKJxt/lSl+Pq1bWbqbsP1rSUEBSyIozsqyuaKkT6X0U0DHnoqTyEuVTFYy8+eSRHn1iwdQOWPxbpP5nD/LOib5iyMcO8cXu2zBbDf8aVFQ4kD+0Gudi7dK1mTkKJ22ijWTn7O2oZ5IsNjtYckGFS5PCg1o53faOjCcsazgUKISSjIu0ZTMrrjoHJFz0Yxp0zVunjqDco6ya8bXMev9QgTN/TwYtJHzo10lN5zhPG/y2jjcniqv/uY0XP6YHmGLWjBrWTusZ3vHOYiC3bkFZmCcxoGtF5Gi5A1ZRbNDHrB0=;IIGusR/zaZU5E8OlCgmD7A=="
+secured: "pVkk21FuYL1Ol3XHwYx7N0ra7D/M76r05yUIGt+v2AinYF0oTMY/jfid2VMu+zB6Y1kyJDRMlCITfJmAcIxJJITiLNb6C6MyRdnRcuuP+1Yxc1KqEyIF2IAgit9/9wX/XyVkLeHfpugUciickdPGEzpiZrIMy0cet/s4gtgLz1CX6+fmz2hLhFnREudLSN7Y7KZ73l/1Ia2iXmjBRWGJ4zuH4W+iLxq9QTwqcclfD0LP/buSEgi5inowqeiNJipljUrxLKY5Mo48mK3sdmeDIlmKEhdn0gxVQo6v4m2JpM1XWVn/UKBiNkXX9xApkGhDGAs5L6bUfa7SQbHo0BZNJbuYukKv0hMmiuBVKDl22cKBKQ5sw87ta6R+nz7KZ+TLkCWSjW5V0l4x0WF3nwSNzTmsL+IrUUnGOIMtTbFiW0k4w1lC9uD3ltgeDGqhH6ULK0pm4fQUUWm2EDNbg7twKW9h5GbS5yx0of6gzDJRfvgymSNIjRsjiafb558Xa345WQM5sGrwiAT1OF6BjpRQ2Q==;xvF2JuKv5hByk2vJsZYFqQ=="
 ---
 

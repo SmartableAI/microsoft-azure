@@ -56,6 +56,17 @@ related:
         width: 624
         height: 638
         isCached: true
+  - title: "Microsoft's Cloud PC: Leak reveals new details on upcoming Azure-powered remote desktop"
+    excerpt: "Microsoft's forthcoming Cloud PC remote Windows experience for Windows 10, macOS, iOS and Android takes shape."
+    publishedDateTime: 2020-11-05T11:23:00Z
+    webUrl: "https://www.zdnet.com/article/microsofts-cloud-pc-leak-reveals-new-details-on-upcoming-azure-powered-remote-desktop/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsofts-cloud-pc-leak-reveals-new-details-on-upcoming-azure-powered-remote-desktop/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsofts-cloud-pc-leak-reveals-new-details-on-upcoming-azure-powered-remote-desktop/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 69
   - title: "DH2i's DxOdyssey for IoT Now Available in the Microsoft Azure Marketplace"
     excerpt: "Oct. 28, 2020 /PRNewswire/ -- DH2i®, a leading provider of multi-platform Software Defined Perimeter (SDP) and Smart Availability software, today announced the availability of DxOdyssey for IoT in the Microsoft Azure Marketplace, an online store ..."
     publishedDateTime: 2020-10-28T13:16:00Z
@@ -115,6 +126,20 @@ related:
       - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/10/14145709/helpnetsecurity.jpg"
         width: 1200
         height: 627
+        isCached: true
+  - title: "Cloud Computing in a Shipping Container: Microsoft Introduces the Azure Modular Datacenter"
+    excerpt: "Microsoft recently announced a new Azure in a shipping container service called Azure Modular Datacenter. The new offer provides an option for setting up an Azure datacenter in hybrid or challenging environments where cloud computing previously would not have been possible."
+    publishedDateTime: 2020-11-05T12:10:00Z
+    webUrl: "https://www.infoq.com/news/2020/11/azure-modular-datacenter/"
+    type: article
+    provider:
+      name: InfoQ
+      domain: infoq.com
+    quality: 27
+    images:
+      - url: "https://res.infoq.com/news/2020/11/azure-modular-datacenter/en/headerimage/croppted-kristin-hillery-YId0l2vqc6E-unsplash-1603728187946.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "New AttackIQ Solution Integrates with Microsoft Azure Sentinel to Strengthen Cyber Threat Detection and Investigation for Security Customers"
     excerpt: "Building on its announcement of the Preactive Security Exchange (PSE) recently, AttackIQ Ⓡ today announced its integration between the Microsoft Azure Sentinel cloud-native security information and event manager (SIEM) platform and the AttackIQ Security Optimization Platform."
@@ -177,6 +202,6 @@ related:
         height: 293
         isCached: true
 
-secured: "ESGlnYBXquzOBToDY1EjY24BT14Gbhz82CnYB5MDju3wSTDTrIGNWcEu1eq4JH19xj2hWWjAvEDxXqXXpyuNL/pKXGOgPjuzr6NjUmMYPLxSnKMscLXxkOpNB7v9sTECgQBqLp+3RhatSbgWwHNmSNd8lQ8aX4YiF7+jPeXHXlmqc8vPGy+0eeQdcN6UbbCGAMiRt909q+M/3CA+CcWXy+HVJDO6haA1FxjgCSTaq4o3i3ooHA7JicxR+6q5H5UMb9EW5ExxjFkdc61xRQWYk35R3rq2AbvryXgng0iTWhM6YDZ8iey6BqoQ4RYtswgoGbL7FAjcYsAkd6GKUYY94pJj8cTDEqOGdGhPhwW+ywI=;6FqY4kKOA3EDnMVRDcIjPA=="
+secured: "unsHNiOrCdBaysI4U37yK2k+/9QXJkJMrWh8P7UFCIOpjm8sPSBcmxy/kbIcGVHBeX0YIBDknLjCuCNEABdmr9HczfCg+jmWyhAOWhQGAtl02BPUhLoQ7KlQtEDA4MXj/zGVWawS5CW4Wa2NB85rp0UVuTe0KGcEF9z5k4+3iCeKr420E5TLL4C970p4XlS8oMDdQrBqjd6OkzM7WsC18AwWDNGtqBYubP7e4X/vfbsAIDltYxxsBhc3AsrV/9OVnGV1yGw+wY/m8oDmMxb8SuydbUd3OiIlG+kMy958ef5igx3gjr8mH8bO7bZH/70wzSU0SQygo8GMldpB4VBdy7Z5tQjvyIjmXmjj2tMc08r8jB1hyBYd2+tUMDBwWGBzKu/MBbfsxkkeXSEUpfNHFW1PEZ79gh51vJvaoRSCNXh+vzWqdNPrjM3YgXURVmOnSVGroZWk+VSuNElv8PuSSA2yWN3J9a7FQnEPU96kMZBjdJHHbp+cWhm4kJ1anxEthblKGDnUpkLeT5JOVLxZPQ==;z2/LDAMtsPQbtLPEHxJGZg=="
 ---
 

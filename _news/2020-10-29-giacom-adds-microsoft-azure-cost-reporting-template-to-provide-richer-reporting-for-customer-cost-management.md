@@ -1,32 +1,26 @@
 ---
 category: news
-title: "Microsoft partners with SpaceX to connect Azure cloud to Musk's Starlink satellite internet"
-excerpt: "Microsoft is partnering with SpaceX to connect the tech giant's Azure cloud computing network to the growing Starlink satellite internet."
-publishedDateTime: 2020-10-20T21:14:00Z
-originalUrl: "https://www.cnbc.com/2020/10/20/microsoft-expands-its-space-business-pairing-its-azure-cloud-with-spacexs-starlink-internet.html"
-webUrl: "https://www.cnbc.com/2020/10/20/microsoft-expands-its-space-business-pairing-its-azure-cloud-with-spacexs-starlink-internet.html"
-ampWebUrl: "https://www.cnbc.com/amp/2020/10/20/microsoft-expands-its-space-business-pairing-its-azure-cloud-with-spacexs-starlink-internet.html"
-cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/10/20/microsoft-expands-its-space-business-pairing-its-azure-cloud-with-spacexs-starlink-internet.html"
+title: "Giacom adds Microsoft Azure cost reporting template to provide richer reporting for customer cost management"
+excerpt: "Giacom’s latest feature addition to its portfolio is the Microsoft Azure Cost Reporting Template. This solution lets Giacom’s partners manage and track cost reporting with the addition of the Azure Cost Reporting Template. This is being descibed as a s ..."
+publishedDateTime: 2020-10-29T15:17:00Z
+originalUrl: "https://www.pcr-online.biz/2020/10/29/giacom-adds-microsoft-azure-cost-reporting-template-to-provide-richer-reporting-for-customer-cost-management/"
+webUrl: "https://www.pcr-online.biz/2020/10/29/giacom-adds-microsoft-azure-cost-reporting-template-to-provide-richer-reporting-for-customer-cost-management/"
 type: article
-quality: 87
+quality: 18
 heat: -1
 published: false
 
 provider:
-  name: CNBC
-  domain: cnbc.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/cnbc.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PCR
+  domain: pcr-online.biz
 
 topics:
   - Azure
 
 images:
-  - url: "https://image.cnbcfm.com/api/v1/image/106689529-1599138903852-starlink_satellites_screenshot.png?v=1599138942"
-    width: 1494
-    height: 889
+  - url: "https://www.pcr-online.biz/wp-content/uploads/Lenovo-1-660x330.jpg"
+    width: 660
+    height: 330
     isCached: true
 
 related:
@@ -93,6 +87,22 @@ related:
       - url: "https://zdnet3.cbsistatic.com/hub/i/2020/10/27/f2859367-767a-4846-80ad-7c79912555ab/msft-commercial-cloud-q1-2021.png"
         width: 863
         height: 491
+        isCached: true
+  - title: "Microsoft partners with SpaceX to connect Azure cloud to Musk's Starlink satellite internet"
+    excerpt: "Microsoft is partnering with SpaceX to connect the tech giant's Azure cloud computing network to the growing Starlink satellite internet."
+    publishedDateTime: 2020-10-20T21:14:00Z
+    webUrl: "https://www.cnbc.com/2020/10/20/microsoft-expands-its-space-business-pairing-its-azure-cloud-with-spacexs-starlink-internet.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2020/10/20/microsoft-expands-its-space-business-pairing-its-azure-cloud-with-spacexs-starlink-internet.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/10/20/microsoft-expands-its-space-business-pairing-its-azure-cloud-with-spacexs-starlink-internet.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 87
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106689529-1599138903852-starlink_satellites_screenshot.png?v=1599138942"
+        width: 1494
+        height: 889
         isCached: true
   - title: "Microsoft cloud business gathers steam as pandemic boosts growth"
     excerpt: "Microsoft Corp's <MSFT.O> cloud computing business slightly re-accelerated and its Teams messaging and collaboration software won new users, as a pandemic-driven shift to working from home and online learning drove quarterly results ahead of investor targets."
@@ -445,20 +455,6 @@ related:
         width: 600
         height: 600
         isCached: true
-  - title: "Giacom adds Microsoft Azure cost reporting template to provide richer reporting for customer cost management"
-    excerpt: "Giacom’s latest feature addition to its portfolio is the Microsoft Azure Cost Reporting Template. This solution lets Giacom’s partners manage and track cost reporting with the addition of the Azure Cost Reporting Template. This is being descibed as a s ..."
-    publishedDateTime: 2020-10-29T15:17:00Z
-    webUrl: "https://www.pcr-online.biz/2020/10/29/giacom-adds-microsoft-azure-cost-reporting-template-to-provide-richer-reporting-for-customer-cost-management/"
-    type: article
-    provider:
-      name: PCR
-      domain: pcr-online.biz
-    quality: 18
-    images:
-      - url: "https://www.pcr-online.biz/wp-content/uploads/Lenovo-1-660x330.jpg"
-        width: 660
-        height: 330
-        isCached: true
   - title: "Microsoft Azure: The Winning Formula"
     excerpt: "Microsoft's Azure platform registered a 59% revenue growth in the last quarter, fueling concerns of a slowdown and suggesting its losing ground to Amazon's AWS."
     publishedDateTime: 2020-05-28T12:36:00Z
@@ -506,6 +502,6 @@ related:
         height: 627
         isCached: true
 
-secured: "Za9D3Q8SgKPz2hVdkAfh0G8/ol0VX6jvYkaX73WzpK9Oq1rsUGTkc5q3JvvB7LvGiO6AogjPrPjQRe1DPQo4Xr++VhJM1Fu5PDJVgFcJJL/ZzaEcFCegvzsbsLLN0m47XrPvRwsX/aAbo3RwrYF6MH7m0Lj5qOLwmwXGDrnEikSV+tLerxJHrhAQ6MkD2A7Bg8BFv0ktYTDfhqehmxkBSo+PtOdTHcT4j97DFtWAl1H9I8nAzZ2dfbM9WXUU2JUbW4oNB6P2JZdhe+3LA10nrjTjftbKoeUXIf6W2CBXQBhMEHh3hzOWfIyaiX7/uhYEPK77wFsTHjnt6h1H+J7e54jnjNTcxAFtACT1W6H0sr91kN7FDGSCpcAvULsptu5ufHdmhMVTL9zF07DSC9bKA95ibjaOdWcvUtMdvNJOYXzSHQ+MZiYiW3m0q9d5zdPgA2fCDXNbEY+kUmculliT6+OxUg+soP8dzNiVwreZfy0IkiTBHoGPkeRuauEpsj/3cK5a/YenJNBTGFcKVmaJ1w==;9UbvUiqTyNeQvhRtzhsvDA=="
+secured: "WHdk0H7tjJHs4yvmOxDfqt1BgKdKaXUKpxprATy+raxV6b794VA006BMOc9DouFyln/vZ+LG11xLDzmPMbYqwr8yJwh/eesiPcpfvxPqr7aTxs1HcnLPzGL5W6ymrH6/x6EIwmz6/zVQNbxsTaja26jz5rUMuq5nBt02fnsMEakjgMoK8bUuSR9/C9ZI+RLQyeI+sv6uKH7RBBF6faR2T+fdEdwGPafo71jIBQZt/ZcOTzU6DxUAotiXH867sR3KTc06bC9NN0gdRNbKsSuviqSl7YJJj1M6XvmTRweupi7PTzQnMaJGCAvHZ8uC+VDle3XfAm2kGQ+MWU4caVU3x/YVS/diY1SVhRgXjSK0xYQ=;JYPeHspWVZKJxNMUwWkdag=="
 ---
 

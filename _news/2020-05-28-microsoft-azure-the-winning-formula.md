@@ -448,6 +448,20 @@ related:
         width: 600
         height: 600
         isCached: true
+  - title: "Giacom adds Microsoft Azure cost reporting template to provide richer reporting for customer cost management"
+    excerpt: "Giacom’s latest feature addition to its portfolio is the Microsoft Azure Cost Reporting Template. This solution lets Giacom’s partners manage and track cost reporting with the addition of the Azure Cost Reporting Template. This is being descibed as a s ..."
+    publishedDateTime: 2020-10-29T15:17:00Z
+    webUrl: "https://www.pcr-online.biz/2020/10/29/giacom-adds-microsoft-azure-cost-reporting-template-to-provide-richer-reporting-for-customer-cost-management/"
+    type: article
+    provider:
+      name: PCR
+      domain: pcr-online.biz
+    quality: 18
+    images:
+      - url: "https://www.pcr-online.biz/wp-content/uploads/Lenovo-1-660x330.jpg"
+        width: 660
+        height: 330
+        isCached: true
   - title: "SAP partners with Microsoft Azure in the UAE"
     excerpt: "The statement was made at the Middle East and Africa Edition of the SAP Solutions on Microsoft Azure Virtual Event. The goal is to boost the cloud ecosystem in the region by empowering organizations to run their SAP workloads on Microsoft Azure."
     publishedDateTime: 2020-10-27T12:46:00Z

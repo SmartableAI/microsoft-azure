@@ -442,6 +442,20 @@ related:
         width: 600
         height: 600
         isCached: true
+  - title: "Giacom adds Microsoft Azure cost reporting template to provide richer reporting for customer cost management"
+    excerpt: "Giacom’s latest feature addition to its portfolio is the Microsoft Azure Cost Reporting Template. This solution lets Giacom’s partners manage and track cost reporting with the addition of the Azure Cost Reporting Template. This is being descibed as a s ..."
+    publishedDateTime: 2020-10-29T15:17:00Z
+    webUrl: "https://www.pcr-online.biz/2020/10/29/giacom-adds-microsoft-azure-cost-reporting-template-to-provide-richer-reporting-for-customer-cost-management/"
+    type: article
+    provider:
+      name: PCR
+      domain: pcr-online.biz
+    quality: 18
+    images:
+      - url: "https://www.pcr-online.biz/wp-content/uploads/Lenovo-1-660x330.jpg"
+        width: 660
+        height: 330
+        isCached: true
   - title: "Microsoft Azure: The Winning Formula"
     excerpt: "Microsoft's Azure platform registered a 59% revenue growth in the last quarter, fueling concerns of a slowdown and suggesting its losing ground to Amazon's AWS."
     publishedDateTime: 2020-05-28T12:36:00Z
