@@ -4,42 +4,6 @@
   "page": 28,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-develop-azure-functions-app-with-maven-plugin.md",
-      "title": "Develop an App using the Maven Plugin for Azure Functions",
-      "excerpt": "Use the Maven Plugin for Azure Functions to create a cloud-based function that is triggered when certain values are passed in the HTTP request, and outputs a log entry to track the activity.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-develop-azure-functions-app-with-maven-plugin/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/develop-azure-functions-app-with-maven-plugin/",
-      "length": "PT44M",
-      "ratings": {
-        "count": 8,
-        "average": 4.625
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Compute",
-        "Serverless"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-develop-secure-iot-solutions-for-azure-sphere-iot-hub.md",
       "title": "Develop secure IoT Solutions for Azure Sphere with IoT Hub",
       "excerpt": "University of Oxford",
@@ -770,8 +734,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-provision-deploy-relational-database-offerings-azure/",
       "length": "PT38M",
       "ratings": {
-        "count": 297,
-        "average": 4.818182
+        "count": 298,
+        "average": 4.818792
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1259,6 +1223,49 @@
       "price": "Free",
       "topics": [
         "Azure"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-ha-application-storage-with-grs.md",
+      "title": "Make your application storage highly available with read-access geo-redundant storage",
+      "excerpt": "In this module, you learn how to make your application storage highly available by ensuring that you can fail over resources if there's an Azure region failure.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-ha-application-storage-with-grs/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ha-application-storage-with-grs/",
+      "length": "PT34M",
+      "ratings": {
+        "count": 1331,
+        "average": 4.484598
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/ha-application-storage-with-grs-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Storage"
       ]
     }
   ],

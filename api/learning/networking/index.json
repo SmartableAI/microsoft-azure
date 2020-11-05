@@ -4,6 +4,51 @@
   "page": 1,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-implement-dns-for-windows-server-iaas-vms.md",
+      "title": "Implement DNS for Windows Server IaaS VMs",
+      "excerpt": "Implement DNS for Windows Server IaaS VMs",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-implement-dns-for-windows-server-iaas-vms/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/implement-dns-for-windows-server-iaas-virtual-machines/",
+      "length": "PT50M",
+      "ratings": {
+        "count": 26,
+        "average": 4.730769
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 130,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/implement-dns-for-windows-server-iaas-vm-social.png",
+          "width": 642,
+          "height": 324,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Management Tools",
+        "Compute",
+        "Networking"
+      ]
+    },
+    {
       "path": "_learning/collections/microsoft-learn-az-104-prerequisites-for-azure-administrators.md",
       "title": "AZ-104: Prerequisites for Azure administrators",
       "excerpt": "Learn the basic concepts you'll need to know as an Azure administrator and prepare for Exam AZ-104: Microsoft Azure Administrator.",
@@ -69,8 +114,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-virtual-machines/",
           "length": "PT1H7M",
           "ratings": {
-            "count": 15226,
-            "average": 4.6905293
+            "count": 15228,
+            "average": 4.6905046
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -139,8 +184,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/network-fundamentals-2/",
           "length": "PT36M",
           "ratings": {
-            "count": 2473,
-            "average": 4.697129
+            "count": 2475,
+            "average": 4.697374
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -248,8 +293,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-virtual-machines/",
           "length": "PT1H7M",
           "ratings": {
-            "count": 15226,
-            "average": 4.6905293
+            "count": 15228,
+            "average": 4.6905046
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -318,8 +363,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/network-fundamentals-2/",
           "length": "PT36M",
           "ratings": {
-            "count": 2473,
-            "average": 4.697129
+            "count": 2475,
+            "average": 4.697374
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -369,8 +414,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-networking/",
       "length": "PT28M",
       "ratings": {
-        "count": 44270,
-        "average": 4.7664785
+        "count": 44274,
+        "average": 4.7664995
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -642,8 +687,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/",
           "length": "PT36M",
           "ratings": {
-            "count": 1275,
-            "average": 4.7521567
+            "count": 1280,
+            "average": 4.7523437
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -684,8 +729,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
           "length": "PT39M",
           "ratings": {
-            "count": 237,
-            "average": 4.6540084
+            "count": 239,
+            "average": 4.6527195
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -730,8 +775,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-compute-fundamentals/",
           "length": "PT52M",
           "ratings": {
-            "count": 173,
-            "average": 4.6936417
+            "count": 174,
+            "average": 4.695402
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -868,8 +913,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-security-in-azure/",
           "length": "PT1H16M",
           "ratings": {
-            "count": 45837,
-            "average": 4.7052383
+            "count": 45841,
+            "average": 4.7052636
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1188,8 +1233,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-azure-resources-with-rbac/",
           "length": "PT37M",
           "ratings": {
-            "count": 5233,
-            "average": 4.6567936
+            "count": 5234,
+            "average": 4.656859
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1237,41 +1282,6 @@
         "Networking",
         "Security",
         "Databases"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-network-fundamentals.md",
-      "title": "Fundamentals of computer networking",
-      "excerpt": "You'll learn the fundamental principles of computer networking to prepare you for the Azure admin and developer learning paths.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-network-fundamentals/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/network-fundamentals/",
-      "length": "PT47M",
-      "ratings": {
-        "count": 3444,
-        "average": 4.702381
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 67,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Networking"
       ]
     },
     {
@@ -1444,7 +1454,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 51,
+          "heat": 131,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/azure-devops/manage-site-reliability-social.png",
@@ -1462,7 +1472,7 @@
         }
       ],
       "size": 8,
-      "heat": 64,
+      "heat": 67,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/incident-response-with-alerting-on-azure-social.png",
@@ -1480,6 +1490,41 @@
         "Management Tools",
         "Networking",
         "Compute"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-network-fundamentals.md",
+      "title": "Fundamentals of computer networking",
+      "excerpt": "You'll learn the fundamental principles of computer networking to prepare you for the Azure admin and developer learning paths.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-network-fundamentals/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/network-fundamentals/",
+      "length": "PT47M",
+      "ratings": {
+        "count": 3444,
+        "average": 4.702381
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 67,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Networking"
       ]
     },
     {
@@ -2493,8 +2538,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/improve-app-scalability-resiliency-with-load-balancer/",
       "length": "PT47M",
       "ratings": {
-        "count": 2147,
-        "average": 4.7200747
+        "count": 2149,
+        "average": 4.720335
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2861,50 +2906,6 @@
         "Azure",
         "DevOps",
         "Management Tools",
-        "Networking"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-control-network-traffic-flow-with-routes.md",
-      "title": "Manage and control traffic flow in your Azure deployment with routes",
-      "excerpt": "Learn how to control Azure virtual network traffic by implementing custom routes.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-control-network-traffic-flow-with-routes/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/control-network-traffic-flow-with-routes/",
-      "length": "PT50M",
-      "ratings": {
-        "count": 1890,
-        "average": 4.633333
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/control-network-traffic-flow-with-routes-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Compute",
         "Networking"
       ]
     }
