@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/azure-backup-price-and-m
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-backup-price-and-meter-id-change/"
 type: article
 quality: 77
-heat: 78
+heat: 77
 published: true
 
 provider:

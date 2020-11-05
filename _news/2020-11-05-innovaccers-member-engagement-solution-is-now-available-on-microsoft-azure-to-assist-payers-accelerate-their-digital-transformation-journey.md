@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Innovaccer's Member Engagement Solution is Now Available on Microsoft Azure to Assist Payers Accelerate Their Digital Transformation Journey"
-excerpt: "Innovaccer, Inc., a leading healthcare technology company, recently announced that their member engagement solution is now available on Microsoft Azure. The solution enables healthcare payers to offer efficient care navigation,"
-publishedDateTime: 2020-11-04T22:03:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/innovaccer-s-member-engagement-solution-is-now-available-on-microsoft-azure-to-assist-payers-accelerate-their-digital-transformation-journey-1029767297"
-webUrl: "https://markets.businessinsider.com/news/stocks/innovaccer-s-member-engagement-solution-is-now-available-on-microsoft-azure-to-assist-payers-accelerate-their-digital-transformation-journey-1029767297"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/innovaccer-s-member-engagement-solution-is-now-available-on-microsoft-azure-to-assist-payers-accelerate-their-digital-transformation-journey-1029767297"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/innovaccer-s-member-engagement-solution-is-now-available-on-microsoft-azure-to-assist-payers-accelerate-their-digital-transformation-journey-1029767297"
+excerpt: "Inc., a leading healthcare technology company, recently announced that their member engagement solution is now available on Microsoft Azure. The solution enables"
+publishedDateTime: 2020-11-04T23:06:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/innovaccers-member-engagement-solution-is-now-available-on-microsoft-azure-to-assist-payers-accelerate-their/article_9501b847-092e-5f93-b914-c0b84926deda.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/innovaccers-member-engagement-solution-is-now-available-on-microsoft-azure-to-assist-payers-accelerate-their/article_9501b847-092e-5f93-b914-c0b84926deda.html"
 type: article
-quality: 42
+quality: 2
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - Azure
+
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/0/5e/05ee89ea-2eac-51e4-86fe-a186902e6de3/5fa3306b000dd.image.jpg?resize=400%2C293"
+    width: 400
+    height: 293
+    isCached: true
 
 related:
   - title: "It's Past Time for Microsoft to Disclose Azure Details"
@@ -161,6 +161,6 @@ related:
       domain: businesswire.com
     quality: 10
 
-secured: "TPILlMnB/7P5qzQij+YGXEYeXLH3rRyt+86u2XsnZVyKNWo2GMFbD1Sb918uKvH4YlY4tHMyknYLsb6WPWyXnz7LtamOde9fgCnqf6sMcdChcx7CxbGiG5cZ/vyaEuIecedKl+UUMM1hjfN6NoAVQABlBglN6h9ScqEbXuhfb4NR2UgJOdVi5OhF2+I1sWR0qfCYFl35gb3fFr0Qb5SiakX7/IalwmGq3P0r5U/Aigi6Zbee64wY7yRbFD44QRA8DO51girIskbqGR566WcDDKQvcoQpcjCSIwsDYP7q/ZpM5buG6EZlu9qsyYWO04P+uGVqDylkSLSDi3Z2XpU8CNa4FQKF+Pkz96qsBCDg4bw=;9R5zOXQ/kHSDuHwY4L99Mg=="
+secured: "wVspVJywUGtDE12MB9uRcbDob4YaRBXU/4hfO1juCNVmAIrAJmesDRg099XJ4fAoOxUd8biqcKY4J68jK6p870P6G2P9ruW8zuS/LraP9IRhJ+dJGoFHXbEJ7iRly/dS30NhScAJF9E94Rv5BqIxZCut24rzaS9+d3jmJsJbdIgF3E08g78yaEvA2KXz+yh94PXr0N+EiDrEtLTiwUimDUCRCSldY+aSlV0XthAQzOwWM4ZdRnfpzApCkGEyRAXvdscBQs2JklaMqvw/lmZ9PsD94Lu66d/RE8MkKDyCjpORX1Wodsktzxu6OAv0VwPv51HffRWGYJ4DmlegNzwhi/wHEUyrGbblS2pN7oR99Z4=;4u6on6daoRXzpuyR6s132w=="
 ---
 

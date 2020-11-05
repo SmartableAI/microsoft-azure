@@ -76,17 +76,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 48
-  - title: "Innovaccer's Member Engagement Solution is Now Available on Microsoft Azure to Assist Payers Accelerate Their Digital Transformation Journey"
-    excerpt: "Innovaccer, Inc., a leading healthcare technology company, recently announced that their member engagement solution is now available on Microsoft Azure. The solution enables healthcare payers to offer efficient care navigation,"
-    publishedDateTime: 2020-11-04T22:03:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/innovaccer-s-member-engagement-solution-is-now-available-on-microsoft-azure-to-assist-payers-accelerate-their-digital-transformation-journey-1029767297"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/innovaccer-s-member-engagement-solution-is-now-available-on-microsoft-azure-to-assist-payers-accelerate-their-digital-transformation-journey-1029767297"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/innovaccer-s-member-engagement-solution-is-now-available-on-microsoft-azure-to-assist-payers-accelerate-their-digital-transformation-journey-1029767297"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 42
   - title: "Microsoft to build Azure datacenter, cloud hardware R&D team in Taiwan"
     excerpt: "Microsoft has announced plans to build a data center in Taiwan and grow a local team dedicated to the development of Azure cloud hardware and infrastructure, which is expected to accelerate the clustering of a datacenter server supply chain in the co..."
     publishedDateTime: 2020-10-27T08:41:00Z
@@ -161,6 +150,20 @@ related:
       name: Business Wire
       domain: businesswire.com
     quality: 10
+  - title: "Innovaccer's Member Engagement Solution is Now Available on Microsoft Azure to Assist Payers Accelerate Their Digital Transformation Journey"
+    excerpt: "Inc., a leading healthcare technology company, recently announced that their member engagement solution is now available on Microsoft Azure. The solution enables"
+    publishedDateTime: 2020-11-04T23:06:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/innovaccers-member-engagement-solution-is-now-available-on-microsoft-azure-to-assist-payers-accelerate-their/article_9501b847-092e-5f93-b914-c0b84926deda.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 2
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/0/5e/05ee89ea-2eac-51e4-86fe-a186902e6de3/5fa3306b000dd.image.jpg?resize=400%2C293"
+        width: 400
+        height: 293
+        isCached: true
 
 secured: "mTxBSvzoREwUoJf3RH0lsBqgtzjOBgdbmMPnyLw5YjBz3M4dgnd6rESL4Cogibuf0/8N26Kh4izhyjbP1CywC3dilrJRc+cpxMhl9ZkFOX0aQQFN8RykLdowR/aUTEUDZhhqL2LN4smAoURRcFm+UoLvFNtQD/do9NC2KVeDmCdxCFJGUG1xOCoEsJtbEdbaLB3CWI4kWVM6fHEGD1saz/K0TBiqeG2roS1ro2K0CoGysYFN3CFHMYCx33HF32z09EtmYPqAe2RjZAhuG052MNfX1pgsnpgRrg8/TqALmgLfrBiS+wwlRP/Im5Yh/gM8A6Nb+gAsFBrDCbMEd+o/yPTjjDZnFMHXqZB6OVIhBCHIwpR4fmOY6TfGH2b2FdVZUNDyLZei61kOzq5lLM7O5ijQg9p6xz9YQBMbbfeBZ215H0H7ppFaOzJzRiIVRGisGpio5ch+82f2/QQ21srrL0cWgHZa7/rNypP8q7sgHTLObLg/PmykFjzZUs9Wg778B1FxCiZ5fQofQGs2mQHGFQ==;1MM1llvZ/sPU2q0kfrOfyg=="
 ---
