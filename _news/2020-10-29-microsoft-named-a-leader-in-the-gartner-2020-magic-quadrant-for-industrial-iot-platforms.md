@@ -104,6 +104,22 @@ related:
         width: 1920
         height: 1280
         isCached: true
+  - title: "Redwill, Westcon-Comstor streamline delivery of Microsoft Cloud solutions"
+    excerpt: "With the current demand for digital procurement, SaaS, collaboration tools and cloud-based solutions, driven in large part by the work from home demands of employees resulting from the pandemic, both Redwill and Westcon-Comstor are working together to leverage the distributor’s digital procurement and digital customer fulfilment platforms to simplify customer and end-user access to Microsoft's cloud-based solutions."
+    publishedDateTime: 2020-11-06T06:55:00Z
+    webUrl: "https://www.itweb.co.za/content/Pero3qZxdAy7Qb6m"
+    ampWebUrl: "https://amp.itweb.co.za/content/Pero3qZxdAy7Qb6m"
+    cdnAmpWebUrl: "https://amp-itweb-co-za.cdn.ampproject.org/c/s/amp.itweb.co.za/content/Pero3qZxdAy7Qb6m"
+    type: article
+    provider:
+      name: ITWeb
+      domain: itweb.co.za
+    quality: 41
+    images:
+      - url: "https://lh3.googleusercontent.com/l9b0MFOafZIPxj2HlQrwHkSlCn-Zz8eelgxlVW9UgzXaCLo-L2hOtnR4pKCzBn2JcYvkNZXI3cam6DEarorvelM=w400-h319-c"
+        width: 400
+        height: 319
+        isCached: true
   - title: "Microsoft to build Azure datacenter, cloud hardware R&D team in Taiwan"
     excerpt: "Microsoft has announced plans to build a data center in Taiwan and grow a local team dedicated to the development of Azure cloud hardware and infrastructure, which is expected to accelerate the clustering of a datacenter server supply chain in the co..."
     publishedDateTime: 2020-10-27T08:41:00Z

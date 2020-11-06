@@ -1,27 +1,29 @@
 ---
 category: news
-title: "Microsoft's Cloud PC: Leak reveals new details on upcoming Azure-powered remote desktop"
-excerpt: "Microsoft's forthcoming Cloud PC remote Windows experience for Windows 10, macOS, iOS and Android takes shape."
-publishedDateTime: 2020-11-05T11:23:00Z
-originalUrl: "https://www.zdnet.com/article/microsofts-cloud-pc-leak-reveals-new-details-on-upcoming-azure-powered-remote-desktop/"
-webUrl: "https://www.zdnet.com/article/microsofts-cloud-pc-leak-reveals-new-details-on-upcoming-azure-powered-remote-desktop/"
-ampWebUrl: "https://www.zdnet.com/google-amp/article/microsofts-cloud-pc-leak-reveals-new-details-on-upcoming-azure-powered-remote-desktop/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsofts-cloud-pc-leak-reveals-new-details-on-upcoming-azure-powered-remote-desktop/"
+title: "Redwill, Westcon-Comstor streamline delivery of Microsoft Cloud solutions"
+excerpt: "With the current demand for digital procurement, SaaS, collaboration tools and cloud-based solutions, driven in large part by the work from home demands of employees resulting from the pandemic, both Redwill and Westcon-Comstor are working together to leverage the distributor’s digital procurement and digital customer fulfilment platforms to simplify customer and end-user access to Microsoft's cloud-based solutions."
+publishedDateTime: 2020-11-06T06:55:00Z
+originalUrl: "https://www.itweb.co.za/content/Pero3qZxdAy7Qb6m"
+webUrl: "https://www.itweb.co.za/content/Pero3qZxdAy7Qb6m"
+ampWebUrl: "https://amp.itweb.co.za/content/Pero3qZxdAy7Qb6m"
+cdnAmpWebUrl: "https://amp-itweb-co-za.cdn.ampproject.org/c/s/amp.itweb.co.za/content/Pero3qZxdAy7Qb6m"
 type: article
-quality: 69
+quality: 41
 heat: -1
 published: false
 
 provider:
-  name: ZDNet
-  domain: zdnet.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/zdnet.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: ITWeb
+  domain: itweb.co.za
 
 topics:
   - Azure
+
+images:
+  - url: "https://lh3.googleusercontent.com/l9b0MFOafZIPxj2HlQrwHkSlCn-Zz8eelgxlVW9UgzXaCLo-L2hOtnR4pKCzBn2JcYvkNZXI3cam6DEarorvelM=w400-h319-c"
+    width: 400
+    height: 319
+    isCached: true
 
 related:
   - title: "It's Past Time for Microsoft to Disclose Azure Details"
@@ -54,6 +56,17 @@ related:
         width: 624
         height: 638
         isCached: true
+  - title: "Microsoft's Cloud PC: Leak reveals new details on upcoming Azure-powered remote desktop"
+    excerpt: "Microsoft's forthcoming Cloud PC remote Windows experience for Windows 10, macOS, iOS and Android takes shape."
+    publishedDateTime: 2020-11-05T11:23:00Z
+    webUrl: "https://www.zdnet.com/article/microsofts-cloud-pc-leak-reveals-new-details-on-upcoming-azure-powered-remote-desktop/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsofts-cloud-pc-leak-reveals-new-details-on-upcoming-azure-powered-remote-desktop/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsofts-cloud-pc-leak-reveals-new-details-on-upcoming-azure-powered-remote-desktop/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 69
   - title: "DH2i's DxOdyssey for IoT Now Available in the Microsoft Azure Marketplace"
     excerpt: "Oct. 28, 2020 /PRNewswire/ -- DH2i®, a leading provider of multi-platform Software Defined Perimeter (SDP) and Smart Availability software, today announced the availability of DxOdyssey for IoT in the Microsoft Azure Marketplace, an online store ..."
     publishedDateTime: 2020-10-28T13:16:00Z
@@ -101,22 +114,6 @@ related:
       - url: "https://cdn.windowsreport.com/wp-content/uploads/2020/11/Microsoft-Cloud-PC.jpg"
         width: 1920
         height: 1280
-        isCached: true
-  - title: "Redwill, Westcon-Comstor streamline delivery of Microsoft Cloud solutions"
-    excerpt: "With the current demand for digital procurement, SaaS, collaboration tools and cloud-based solutions, driven in large part by the work from home demands of employees resulting from the pandemic, both Redwill and Westcon-Comstor are working together to leverage the distributor’s digital procurement and digital customer fulfilment platforms to simplify customer and end-user access to Microsoft's cloud-based solutions."
-    publishedDateTime: 2020-11-06T06:55:00Z
-    webUrl: "https://www.itweb.co.za/content/Pero3qZxdAy7Qb6m"
-    ampWebUrl: "https://amp.itweb.co.za/content/Pero3qZxdAy7Qb6m"
-    cdnAmpWebUrl: "https://amp-itweb-co-za.cdn.ampproject.org/c/s/amp.itweb.co.za/content/Pero3qZxdAy7Qb6m"
-    type: article
-    provider:
-      name: ITWeb
-      domain: itweb.co.za
-    quality: 41
-    images:
-      - url: "https://lh3.googleusercontent.com/l9b0MFOafZIPxj2HlQrwHkSlCn-Zz8eelgxlVW9UgzXaCLo-L2hOtnR4pKCzBn2JcYvkNZXI3cam6DEarorvelM=w400-h319-c"
-        width: 400
-        height: 319
         isCached: true
   - title: "Microsoft to build Azure datacenter, cloud hardware R&D team in Taiwan"
     excerpt: "Microsoft has announced plans to build a data center in Taiwan and grow a local team dedicated to the development of Azure cloud hardware and infrastructure, which is expected to accelerate the clustering of a datacenter server supply chain in the co..."
@@ -255,6 +252,6 @@ related:
         height: 293
         isCached: true
 
-secured: "j3zoH169AeQnKiY475+lJBVlnA/EFq3lXUfMeTuFY5vkElRWC/j2+2pJy2PN9hGBhMJzJKM1hZPgrz/5y3HsG4dsgrPUr9y+SumWO94p/emT2KZnUoRlmKLy+yOZYuGAoB6697TYnKcDotcH/9Fw+aa+LYaTOY8JFKv9+S5GwcEY3k44waJLYqJP9O2QrIifgmArbVEjNJBHLbmTd6T6+4G0zka7e1zauTd/pu/anqJQ/XgMQGy9TxrkOLjsMp6T4gYDUI6Bk1QJY6AfW9FWygEl7sqe+ZfzLf3wCUCMZKN2U5K3BXgv3rZ4cwUszfWFyrbhn26FlpqT30Ieh95GCnbF3cNmqG7U51Xu1awLWoztk/LoGYrZcjkU0WM1+Nkmxu59CMVa11bTSdqq2O22I8dwwzqVJRgjnJmUfgcdOYIiBeXFNHUC/023Ej9zRL7mbiNoQk+7aLOUQP5z1OTXYaqnqulDkIFV1skH009/if8uw8KnPqg4yN4m2vnfjcaG/cszdQnX48Byn+Wk3ERmJQ==;6lpwDzt1lxCbCIsngKeFcA=="
+secured: "yDlDpYcseMRwmywJ7keabdgxUWr6prK0tIu9c6HGYyoLEnseKCl9PuHedMI/ELMfftcDiIlm2fq/z9pRvDEYlkUaJ6N1DYNUlF/8SVuSHvJYQLFVcrp/eSxycslLqHwSopNjNnjpsHPBRas4cfYctIHkRZ+oQGr4N9QzzJtwzJo3HY8OFHV3clhRqqyAL+41ZOl7HwZN4O9hjrAigbiFap3s+pvMVgsi0DOfZFjxLi4ACxAo6YyJgV/G2dLjw5AoSWMVOBH0cwW+wSpjExLY8X7x+aNIodCP/NqEXaDPxYAv/l/idzyhqhpBC/H5EQTd1p/XzGN+Jhheu5XsXdc9U4sLOIRTQnmh6l1f8cONV14=;BgemU4x1qeAj5mwbnOn1mg=="
 ---
 
