@@ -3,12 +3,12 @@ category: news
 title: "Microsoft's Cloud PC: Leak reveals new details on upcoming Azure-powered remote desktop"
 excerpt: "Microsoft's forthcoming Cloud PC remote Windows experience for Windows 10, macOS, iOS and Android takes shape."
 publishedDateTime: 2020-11-05T11:23:00Z
-originalUrl: "https://www.zdnet.com/article/microsofts-cloud-pc-leak-reveals-new-details-on-upcoming-azure-powered-remote-desktop/"
-webUrl: "https://www.zdnet.com/article/microsofts-cloud-pc-leak-reveals-new-details-on-upcoming-azure-powered-remote-desktop/"
-ampWebUrl: "https://www.zdnet.com/google-amp/article/microsofts-cloud-pc-leak-reveals-new-details-on-upcoming-azure-powered-remote-desktop/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsofts-cloud-pc-leak-reveals-new-details-on-upcoming-azure-powered-remote-desktop/"
+originalUrl: "https://www.zdnet.com/index.php/category/2184/index.php/article/microsofts-cloud-pc-leak-reveals-new-details-on-upcoming-azure-powered-remote-desktop/"
+webUrl: "https://www.zdnet.com/index.php/category/2184/index.php/article/microsofts-cloud-pc-leak-reveals-new-details-on-upcoming-azure-powered-remote-desktop/"
+ampWebUrl: "https://www.zdnet.com/index.php/category/2184/index.php/google-amp/article/microsofts-cloud-pc-leak-reveals-new-details-on-upcoming-azure-powered-remote-desktop/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2184/index.php/google-amp/article/microsofts-cloud-pc-leak-reveals-new-details-on-upcoming-azure-powered-remote-desktop/"
 type: article
-quality: 69
+quality: 89
 heat: -1
 published: false
 
@@ -22,6 +22,12 @@ provider:
 
 topics:
   - Azure
+
+images:
+  - url: "https://zdnet4.cbsistatic.com/hub/i/r/2020/09/16/8ba15096-7e97-4c9d-9c92-fdfb3223d8cf/thumbnail/1200x675/230c7f7fa964a74175d8fc0ef350a100/microsoft-365-formerly-office-365-vs-g-s-5f4e5f4871c30002b05d39e4-1-sep-16-2020-15-40-44-poster.jpg"
+    width: 1200
+    height: 675
+    isCached: true
 
 related:
   - title: "It's Past Time for Microsoft to Disclose Azure Details"
@@ -255,6 +261,6 @@ related:
         height: 293
         isCached: true
 
-secured: "j3zoH169AeQnKiY475+lJBVlnA/EFq3lXUfMeTuFY5vkElRWC/j2+2pJy2PN9hGBhMJzJKM1hZPgrz/5y3HsG4dsgrPUr9y+SumWO94p/emT2KZnUoRlmKLy+yOZYuGAoB6697TYnKcDotcH/9Fw+aa+LYaTOY8JFKv9+S5GwcEY3k44waJLYqJP9O2QrIifgmArbVEjNJBHLbmTd6T6+4G0zka7e1zauTd/pu/anqJQ/XgMQGy9TxrkOLjsMp6T4gYDUI6Bk1QJY6AfW9FWygEl7sqe+ZfzLf3wCUCMZKN2U5K3BXgv3rZ4cwUszfWFyrbhn26FlpqT30Ieh95GCnbF3cNmqG7U51Xu1awLWoztk/LoGYrZcjkU0WM1+Nkmxu59CMVa11bTSdqq2O22I8dwwzqVJRgjnJmUfgcdOYIiBeXFNHUC/023Ej9zRL7mbiNoQk+7aLOUQP5z1OTXYaqnqulDkIFV1skH009/if8uw8KnPqg4yN4m2vnfjcaG/cszdQnX48Byn+Wk3ERmJQ==;6lpwDzt1lxCbCIsngKeFcA=="
+secured: "pwst1m4t5MIeLjplAEGl6anZ18EAPqj6K1CSxJR1w+mPaGnsOp1+/He342KxPcxATolUvY6M4eIou7gYe1HlqskR/9aMuH/TPviXmm6F1hv/UImQj9GZdVxG7qbhLofQtaSmpU99NDQqiBdwYLVKL19eaVR8t3riJN8FikyS9ArhL7WOv/Lu6G/ewQXR7rqTcUVL1BNq48s4o1P//1JYKsOgaEdOhCkC1vw/hTHxgysKhlCPOiqERGtApfAprLt0szpqkXcevHpqDQ5WtSEnXDLat9qqdxWWCv0EIBIveSuIZNilmCtnR60ZwYAw19GA0Rm9xUU3YDkdjFSsgasLpqGbZ+0sxlWFTc64U+7jUrE=;aV99OwfG5HW7eDLTYbPnxQ=="
 ---
 
