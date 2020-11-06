@@ -4,7 +4,7 @@ excerpt: "Windows Virtual Desktop on Microsoft Azure is a desktop and app virtua
 type: collection
 price: Free
 length: PT1H58M
-heat: 90
+heat: 91
 
 provider:
   name: Microsoft Learn
