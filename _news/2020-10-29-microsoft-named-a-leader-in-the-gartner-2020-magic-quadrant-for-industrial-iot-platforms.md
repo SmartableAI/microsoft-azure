@@ -139,6 +139,20 @@ related:
         width: 640
         height: 427
         isCached: true
+  - title: "More details leaks about Microsoft’s Azure-powered Cloud PC experience"
+    excerpt: "Earlier this year, we learned that Microsoft was working on a new virtualization service for enterprise customers named “Cloud PC.” The service will apparently be built on top of Microsoft’s"
+    publishedDateTime: 2020-11-05T17:27:00Z
+    webUrl: "https://www.onmsft.com/news/more-details-leaks-about-microsofts-azure-powered-cloud-pc-experience"
+    type: article
+    provider:
+      name: On MSFT
+      domain: onmsft.com
+    quality: 37
+    images:
+      - url: "https://www.onmsft.com/wp-content/uploads/2020/08/Build-2018-Cloud-sign-2.jpg"
+        width: 1024
+        height: 768
+        isCached: true
   - title: "AttackIQ integrates Security Optimization Platform with Microsoft Azure Sentinel cloud-native SIEM platform"
     excerpt: "AttackIQ announced integration between Microsoft Azure Sentinel cloud-native SIEM platform and the AttackIQ Security Optimization Platform."
     publishedDateTime: 2020-10-28T03:00:00Z

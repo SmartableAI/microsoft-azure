@@ -1,26 +1,26 @@
 ---
 category: news
-title: "Nuventive Improvement Platform Now Available in the Microsoft Azure Marketplace"
-excerpt: "Planning and improvement software company Nuventive today announced the availability of the Nuventive Improvement Platform in the"
-publishedDateTime: 2020-11-05T20:03:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/nuventive-improvement-platform-now-available-in-the-microsoft-azure-marketplace-301167528.html"
-webUrl: "https://www.prnewswire.com/news-releases/nuventive-improvement-platform-now-available-in-the-microsoft-azure-marketplace-301167528.html"
+title: "More details leaks about Microsoft’s Azure-powered Cloud PC experience"
+excerpt: "Earlier this year, we learned that Microsoft was working on a new virtualization service for enterprise customers named “Cloud PC.” The service will apparently be built on top of Microsoft’s"
+publishedDateTime: 2020-11-05T17:27:00Z
+originalUrl: "https://www.onmsft.com/news/more-details-leaks-about-microsofts-azure-powered-cloud-pc-experience"
+webUrl: "https://www.onmsft.com/news/more-details-leaks-about-microsofts-azure-powered-cloud-pc-experience"
 type: article
-quality: 33
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: On MSFT
+  domain: onmsft.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://mma.prnewswire.com/media/1327992/Nuventive_Improvement_Platform_Azure_Marketplace.jpg?p=facebook"
-    width: 974
-    height: 510
+  - url: "https://www.onmsft.com/wp-content/uploads/2020/08/Build-2018-Cloud-sign-2.jpg"
+    width: 1024
+    height: 768
     isCached: true
 
 related:
@@ -148,20 +148,6 @@ related:
         width: 640
         height: 427
         isCached: true
-  - title: "More details leaks about Microsoft’s Azure-powered Cloud PC experience"
-    excerpt: "Earlier this year, we learned that Microsoft was working on a new virtualization service for enterprise customers named “Cloud PC.” The service will apparently be built on top of Microsoft’s"
-    publishedDateTime: 2020-11-05T17:27:00Z
-    webUrl: "https://www.onmsft.com/news/more-details-leaks-about-microsofts-azure-powered-cloud-pc-experience"
-    type: article
-    provider:
-      name: On MSFT
-      domain: onmsft.com
-    quality: 37
-    images:
-      - url: "https://www.onmsft.com/wp-content/uploads/2020/08/Build-2018-Cloud-sign-2.jpg"
-        width: 1024
-        height: 768
-        isCached: true
   - title: "AttackIQ integrates Security Optimization Platform with Microsoft Azure Sentinel cloud-native SIEM platform"
     excerpt: "AttackIQ announced integration between Microsoft Azure Sentinel cloud-native SIEM platform and the AttackIQ Security Optimization Platform."
     publishedDateTime: 2020-10-28T03:00:00Z
@@ -175,6 +161,20 @@ related:
       - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/10/14145709/helpnetsecurity.jpg"
         width: 1200
         height: 627
+        isCached: true
+  - title: "Nuventive Improvement Platform Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Planning and improvement software company Nuventive today announced the availability of the Nuventive Improvement Platform in the"
+    publishedDateTime: 2020-11-05T20:03:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/nuventive-improvement-platform-now-available-in-the-microsoft-azure-marketplace-301167528.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 33
+    images:
+      - url: "https://mma.prnewswire.com/media/1327992/Nuventive_Improvement_Platform_Azure_Marketplace.jpg?p=facebook"
+        width: 974
+        height: 510
         isCached: true
   - title: "Cloud Computing in a Shipping Container: Microsoft Introduces the Azure Modular Datacenter"
     excerpt: "Microsoft recently announced a new Azure in a shipping container service called Azure Modular Datacenter. The new offer provides an option for setting up an Azure datacenter in hybrid or challenging environments where cloud computing previously would not have been possible."
@@ -271,6 +271,6 @@ related:
         height: 293
         isCached: true
 
-secured: "Tyrtr3MuzHgm7xmuU/5CZBSU6Ur8YhaVZXliuBil6H9agZXDlZkH0Ber5YtTHvZxm47hDtJ7GsF8UEu5ZxhvtK6ONil6IQORIRQRvsfl6PS3C803rNoYPJ/tONVSndI9N/UgVN66XSzcwVwfebXhrbyfin/Byeuqg9Ek8Qls0k7OlHBZJKqOdBzh4MnsYKCLcdAY6i4sV6bkkiGqyyPYUhOFcFhgBeClwnbCS0H2SD2ZHqT12U9+YS3IF1hofNePks9OVzc40hwxgh5/E/nuYr2YT5YrxsvKsz0sqNaJf4ql/MnnU1505L/FS3bIXFPg5/mODtttfoBUevttrxI2DQnqQNkAuYxCKtMZvExigss=;w7o3JEi5jQHTseXyQv0VyA=="
+secured: "sbbkwB3Y+mtc6vZUK/VTy4H+9qSaiBIQqQs6gOpG0zG47kdZo6aRFKKRbyrp1l+BSHZM67f3f9o8Y0eyo5nUFxIhP4PAVYNLFgmLjrOqAn5lHcmmCKwC2wn9EHWnGURpqIUWmWEjODVBhQ92UeupeN+6fRpEsW4Tnn1RG8iBZwLpRPbx+lrg+C3N4XrHYR8s99gu0piSBtoxUGsOx5crg5Cgtla2K/uOQuofyBWvxOKIvFPESfvUhXhChTQVngb7AP28dv/XnrPKBi/YBvEvqs9+1uwIIJZ3veWSQDkG+JJIw8QlTk54m96kOBJBKitvJfE43D7PIlOnx/y6eqiPdS5ac4P22xUkAifY0vLiwbQ=;fh4hUwVmz5kIgo8rco0wiw=="
 ---
 

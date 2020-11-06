@@ -149,6 +149,20 @@ related:
         width: 640
         height: 427
         isCached: true
+  - title: "More details leaks about Microsoft’s Azure-powered Cloud PC experience"
+    excerpt: "Earlier this year, we learned that Microsoft was working on a new virtualization service for enterprise customers named “Cloud PC.” The service will apparently be built on top of Microsoft’s"
+    publishedDateTime: 2020-11-05T17:27:00Z
+    webUrl: "https://www.onmsft.com/news/more-details-leaks-about-microsofts-azure-powered-cloud-pc-experience"
+    type: article
+    provider:
+      name: On MSFT
+      domain: onmsft.com
+    quality: 37
+    images:
+      - url: "https://www.onmsft.com/wp-content/uploads/2020/08/Build-2018-Cloud-sign-2.jpg"
+        width: 1024
+        height: 768
+        isCached: true
   - title: "Nuventive Improvement Platform Now Available in the Microsoft Azure Marketplace"
     excerpt: "Planning and improvement software company Nuventive today announced the availability of the Nuventive Improvement Platform in the"
     publishedDateTime: 2020-11-05T20:03:00Z
