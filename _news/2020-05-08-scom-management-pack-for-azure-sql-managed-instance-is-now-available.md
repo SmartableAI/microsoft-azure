@@ -6,7 +6,7 @@ publishedDateTime: 2020-05-08T16:00:09Z
 webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-of-scom-management-pack-for-sql-managed-instance-is-now-available/"
 type: article
 quality: 17
-heat: 17
+heat: 57
 published: false
 
 provider:
