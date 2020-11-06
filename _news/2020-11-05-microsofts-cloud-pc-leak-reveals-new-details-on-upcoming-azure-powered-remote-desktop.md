@@ -54,20 +54,6 @@ related:
         width: 624
         height: 638
         isCached: true
-  - title: "Nuventive Improvement Platform Now Available in the Microsoft Azure Marketplace"
-    excerpt: "Planning and improvement software company Nuventive today announced the availability of the Nuventive Improvement Platform in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure."
-    publishedDateTime: 2020-11-05T21:38:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/nuventive-improvement-platform-now-available-in-the-microsoft-azure-marketplace-1029772568"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 73
-    images:
-      - url: "https://mma.prnewswire.com/media/1327992/Nuventive_Improvement_Platform_Azure_Marketplace.jpg"
-        width: 400
-        height: 241
-        isCached: true
   - title: "DH2i's DxOdyssey for IoT Now Available in the Microsoft Azure Marketplace"
     excerpt: "Oct. 28, 2020 /PRNewswire/ -- DH2i®, a leading provider of multi-platform Software Defined Perimeter (SDP) and Smart Availability software, today announced the availability of DxOdyssey for IoT in the Microsoft Azure Marketplace, an online store ..."
     publishedDateTime: 2020-10-28T13:16:00Z
@@ -143,6 +129,20 @@ related:
       - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/10/14145709/helpnetsecurity.jpg"
         width: 1200
         height: 627
+        isCached: true
+  - title: "Nuventive Improvement Platform Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Planning and improvement software company Nuventive today announced the availability of the Nuventive Improvement Platform in the"
+    publishedDateTime: 2020-11-05T20:03:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/nuventive-improvement-platform-now-available-in-the-microsoft-azure-marketplace-301167528.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 33
+    images:
+      - url: "https://mma.prnewswire.com/media/1327992/Nuventive_Improvement_Platform_Azure_Marketplace.jpg?p=facebook"
+        width: 974
+        height: 510
         isCached: true
   - title: "Cloud Computing in a Shipping Container: Microsoft Introduces the Azure Modular Datacenter"
     excerpt: "Microsoft recently announced a new Azure in a shipping container service called Azure Modular Datacenter. The new offer provides an option for setting up an Azure datacenter in hybrid or challenging environments where cloud computing previously would not have been possible."

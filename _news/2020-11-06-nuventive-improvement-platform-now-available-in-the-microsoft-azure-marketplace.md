@@ -1,30 +1,26 @@
 ---
 category: news
 title: "Nuventive Improvement Platform Now Available in the Microsoft Azure Marketplace"
-excerpt: "Planning and improvement software company Nuventive today announced the availability of the Nuventive Improvement Platform in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure."
-publishedDateTime: 2020-11-05T21:38:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/nuventive-improvement-platform-now-available-in-the-microsoft-azure-marketplace-1029772568"
-webUrl: "https://markets.businessinsider.com/news/stocks/nuventive-improvement-platform-now-available-in-the-microsoft-azure-marketplace-1029772568"
+excerpt: "Planning and improvement software company Nuventive today announced the availability of the Nuventive Improvement Platform in the"
+publishedDateTime: 2020-11-05T20:03:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/nuventive-improvement-platform-now-available-in-the-microsoft-azure-marketplace-301167528.html"
+webUrl: "https://www.prnewswire.com/news-releases/nuventive-improvement-platform-now-available-in-the-microsoft-azure-marketplace-301167528.html"
 type: article
-quality: 73
+quality: 33
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://mma.prnewswire.com/media/1327992/Nuventive_Improvement_Platform_Azure_Marketplace.jpg"
-    width: 400
-    height: 241
+  - url: "https://mma.prnewswire.com/media/1327992/Nuventive_Improvement_Platform_Azure_Marketplace.jpg?p=facebook"
+    width: 974
+    height: 510
     isCached: true
 
 related:
@@ -240,6 +236,6 @@ related:
         height: 293
         isCached: true
 
-secured: "POeICOKja34aVgXOfrcnOYZrv7CBiLbYtfUB5SMO50CyCHd80lkCv9hQrSO0o6ktfB/ZxrM9JgV3oW45YsVIXD6I8SHUtXv7rMojmoz8iotfYq4FFAUMHtS7C+UbkFtjjtEIvyt6HYIUCXj8min/xQp0wQY2lO8qprZ4oKoAGvmtttUcjqslrMTA/rxKFZYtwV3oTSJvrLSeE1zYTIoeGsarUtM/ImQv/O+4uk/g+HfbqV1N0hk5JtOZKNHTAALrgqfeUZ/wxTAPo7tRXNZk0PIwhKEKkJiG221Vt8w3fsYDPN8fF+CiZQLCyO8GbudrwYYL/FjbJHdC9VEMlNHVPqke/fMq/v6qsEQxi2pAtD0=;jQp02cLhV/GbK2chaipBwg=="
+secured: "Tyrtr3MuzHgm7xmuU/5CZBSU6Ur8YhaVZXliuBil6H9agZXDlZkH0Ber5YtTHvZxm47hDtJ7GsF8UEu5ZxhvtK6ONil6IQORIRQRvsfl6PS3C803rNoYPJ/tONVSndI9N/UgVN66XSzcwVwfebXhrbyfin/Byeuqg9Ek8Qls0k7OlHBZJKqOdBzh4MnsYKCLcdAY6i4sV6bkkiGqyyPYUhOFcFhgBeClwnbCS0H2SD2ZHqT12U9+YS3IF1hofNePks9OVzc40hwxgh5/E/nuYr2YT5YrxsvKsz0sqNaJf4ql/MnnU1505L/FS3bIXFPg5/mODtttfoBUevttrxI2DQnqQNkAuYxCKtMZvExigss=;w7o3JEi5jQHTseXyQv0VyA=="
 ---
 
