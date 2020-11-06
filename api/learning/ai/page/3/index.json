@@ -4,50 +4,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-deep-learning.md",
-      "title": "Use deep learning models to make predictions about specialized data",
-      "excerpt": "Use convolutional neural networks and recurrent neural networks to analyze and predict images and text with TensorFlow and Keras.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-deep-learning/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-deep-learning/",
-      "length": "44 mins",
-      "ratings": {
-        "count": 252,
-        "average": 4.654762
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/introduction-to-deep-learning-social.png",
-          "width": 800,
-          "height": 400,
-          "title": "Use deep learning models to make predictions about specialized data",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "AI"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-describe-azure-databricks-delta-lake-architecture.md",
       "title": "Describe Azure Databricks Delta Lake architecture",
       "excerpt": "Describe Azure Databricks Delta Lake architecture",
@@ -55,8 +11,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-azure-databricks-delta-lake-architecture/",
       "length": "PT33M",
       "ratings": {
-        "count": 73,
-        "average": 4.589041
+        "count": 74,
+        "average": 4.5945945
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -99,8 +55,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-azure-databricks/",
       "length": "PT53M",
       "ratings": {
-        "count": 459,
-        "average": 4.5119824
+        "count": 460,
+        "average": 4.5130434
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -231,8 +187,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/detect-objects-images-custom-vision/",
       "length": "PT39M",
       "ratings": {
-        "count": 310,
-        "average": 4.7387094
+        "count": 311,
+        "average": 4.7395496
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -318,8 +274,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/implement-ci-cd-azure-devops/",
       "length": "PT28M",
       "ratings": {
-        "count": 63,
-        "average": 4.6825395
+        "count": 64,
+        "average": 4.6875
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -406,8 +362,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/process-streaming-data-azure-databricks-structured-streaming/",
       "length": "PT46M",
       "ratings": {
-        "count": 54,
-        "average": 4.4814816
+        "count": 55,
+        "average": 4.490909
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -665,8 +621,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/translate-text-with-translation-service/",
       "length": "PT29M",
       "ratings": {
-        "count": 272,
-        "average": 4.727941
+        "count": 273,
+        "average": 4.7289376
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -752,8 +708,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/work-dataframes-advanced-methods-azure-databricks/",
       "length": "PT42M",
       "ratings": {
-        "count": 96,
-        "average": 4.6354165
+        "count": 97,
+        "average": 4.6391754
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1611,8 +1567,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-strategy-in-education/",
       "length": "PT51M",
       "ratings": {
-        "count": 560,
-        "average": 4.757143
+        "count": 561,
+        "average": 4.755793
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1762,6 +1718,49 @@
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/ai-strategy-in-healthcare-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "AI"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-ai-strategy-in-manufacturing.md",
+      "title": "Define an AI strategy to create business value in manufacturing",
+      "excerpt": "Explore the strategic components, special factors, and use cases of an AI strategy in manufacturing that creates business value, with INSEAD and Microsoft.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-ai-strategy-in-manufacturing/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-strategy-in-manufacturing/",
+      "length": "PT41M",
+      "ratings": {
+        "count": 734,
+        "average": 4.7561307
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/ai-strategy-in-manufacturing-social.png",
           "width": 800,
           "height": 400,
           "isCached": true

@@ -4,7 +4,7 @@ excerpt: "Learn about blockchain and development on the Ethereum platform. Disco
 type: collection
 price: Free
 length: PT2H3M
-heat: 50
+heat: 60
 
 provider:
   name: Microsoft Learn
@@ -21,6 +21,7 @@ items:
   - courses/microsoft-learn-azure-intro-to-blockchain
   - courses/microsoft-learn-blockchain-learning-solidity
   - courses/microsoft-learn-blockchain-solidity-ethereum-smart-contracts
+  - courses/microsoft-learn-blockchain-tokens
 
 topics:
   - Azure

@@ -4,6 +4,306 @@
   "page": 14,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-intro-to-nodejs.md",
+      "title": "Introduction to Node.js",
+      "excerpt": "Learn about Node.js: what it is, how it works, and when to use it. Create Node.js applications using JavaScript/TypeScript using Visual Studio Code.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-to-nodejs/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-nodejs/",
+      "length": "PT20M",
+      "ratings": {
+        "count": 496,
+        "average": 4.782258
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/intro-to-nodejs-social.png",
+          "width": 642,
+          "height": 321,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-introduction-open-source-database-migration-azure.md",
+      "title": "Introduction to open-source database migration on Azure",
+      "excerpt": "&quot;Introduction to open-source database migration on Azure&quot;",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-introduction-open-source-database-migration-azure/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-open-source-database-migration-azure/",
+      "length": "PT50M",
+      "ratings": {
+        "count": 170,
+        "average": 4.747059
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/introduction-to-open-source-database-migration-on-azure-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Databases",
+        "Migration"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-introduction-to-azure-data-lake-storage.md",
+      "title": "Introduction to Azure Data Lake storage",
+      "excerpt": "Discover how Data Lake Storage provides a repository where you can upload and store unstructured data bringing new efficiencies to processing big data analytics.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-introduction-to-azure-data-lake-storage/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-azure-data-lake-storage/",
+      "length": "PT30M",
+      "ratings": {
+        "count": 1766,
+        "average": 4.6970553
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/data-ai/introduction-to-azure-data-lake-storage-badge-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Storage"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-introduction-to-github.md",
+      "title": "Introduction to GitHub",
+      "excerpt": "Learn to use key GitHub features, including issues, notifications, branches, commits, and pull requests.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-introduction-to-github/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-github/",
+      "length": "PT1H12M",
+      "ratings": {
+        "count": 505,
+        "average": 4.7168317
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/github/introduction-to-github-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-m365-identity-cultural-shift.md",
+      "title": "Enable identity protection in Azure Active Directory",
+      "excerpt": "Learn about Azure Active Directory (AD) Identity Protection and ways to optimize the end-user experience while benefiting security.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-m365-identity-cultural-shift/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-identity-cultural-shift/",
+      "length": "PT31M",
+      "ratings": {
+        "count": 1995,
+        "average": 4.7719297
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/use-microsoft-365-to-enable-a-cultural-shift-toward-secured-identities-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Identity"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-manage-build-dependencies.md",
+      "title": "Manage build dependencies with Azure Artifacts",
+      "excerpt": "In this module, the Space Game web team guides you through creating a build pipeline that produces a package that can be used by multiple applications.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-manage-build-dependencies/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-build-dependencies/",
+      "length": "PT59M",
+      "ratings": {
+        "count": 1741,
+        "average": 4.676623
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/azure-devops/manage-dependencies-in-your-build-pipeline-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "DevOps",
+        "Azure"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-management-fundamentals.md",
+      "title": "Choose the best tools for managing and configuring your Azure environment",
+      "excerpt": "Explore the Azure management, administration, and reporting tools, and choose the ones that best meet your organization's needs.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-management-fundamentals/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/management-fundamentals/",
+      "length": "PT27M",
+      "ratings": {
+        "count": 90,
+        "average": 4.7777777
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Management Tools"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-microsoft-cloud-adoption-framework-for-azure-v1-1.md",
       "title": "Microsoft Cloud Adoption Framework for Azure",
       "excerpt": "Learn how to use the Cloud Adoption Framework to develop best practices for cloud adoption in real-world scenarios.",
@@ -449,8 +749,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/query-relational-data/",
       "length": "PT40M",
       "ratings": {
-        "count": 372,
-        "average": 4.7392473
+        "count": 374,
+        "average": 4.737968
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -491,8 +791,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/read-write-data-azure-databricks/",
       "length": "PT60M",
       "ratings": {
-        "count": 231,
-        "average": 4.5584416
+        "count": 232,
+        "average": 4.5603447
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -535,8 +835,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/recognize-synthesize-speech/",
       "length": "PT29M",
       "ratings": {
-        "count": 312,
-        "average": 4.823718
+        "count": 313,
+        "average": 4.824281
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -665,8 +965,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/run-quality-tests-build-pipeline/",
       "length": "PT1H22M",
       "ratings": {
-        "count": 3071,
-        "average": 4.726799
+        "count": 3072,
+        "average": 4.726888
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -751,8 +1051,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-your-azure-sql-database/",
       "length": "PT1H7M",
       "ratings": {
-        "count": 4124,
-        "average": 4.5320077
+        "count": 4125,
+        "average": 4.532121
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -787,8 +1087,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-your-azure-virtual-machine-disks/",
       "length": "PT1H1M",
       "ratings": {
-        "count": 2667,
-        "average": 4.6599174
+        "count": 2669,
+        "average": 4.6601725
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -949,286 +1249,6 @@
         "DevOps",
         "Management Tools",
         "Networking"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-unsupervised-learning.md",
-      "title": "Use unsupervised learning to analyze unlabeled data",
-      "excerpt": "Use unsupervised learning methods to predict groupings in data. Use variations of k-means clustering and spectral clustering to analyze and visualize difficult data sets.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-unsupervised-learning/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-unsupervised-learning/",
-      "length": "27 mins",
-      "ratings": {
-        "count": 249,
-        "average": 4.6787148
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/introduction-to-unsupervised-learning-social.png",
-          "width": 800,
-          "height": 400,
-          "title": "Use unsupervised learning to analyze unlabeled data",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-upload-data-to-azure-data-lake-storage.md",
-      "title": "Upload data to Azure Data Lake Storage",
-      "excerpt": "Learn about creating an Azure Data Lake Storage account and uploading data to Data Lake Storage Gen 2 through the Azure Storage Explorer.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-upload-data-to-azure-data-lake-storage/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/upload-data-to-azure-data-lake-storage/",
-      "length": "PT50M",
-      "ratings": {
-        "count": 1665,
-        "average": 4.5987988
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/data-ai/upload-data-to-azure-data-lake-storage-badge-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Storage"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-use-compute-contexts-in-aml.md",
-      "title": "Work with Compute in Azure Machine Learning",
-      "excerpt": "Learn how to manage compute contexts for experiments in Azure Machine Learning.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-use-compute-contexts-in-aml/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/use-compute-contexts-in-aml/",
-      "length": "PT45M",
-      "ratings": {
-        "count": 600,
-        "average": 4.6283336
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 52,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "AI"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-work-dataframes-azure-databricks.md",
-      "title": "Work with DataFrames in Azure Databricks",
-      "excerpt": "Work with DataFrames in Azure Databricks",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-work-dataframes-azure-databricks/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/work-dataframes-azure-databricks/",
-      "length": "PT46M",
-      "ratings": {
-        "count": 168,
-        "average": 4.6666665
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/work-dataframes-azure-databricks-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Analytics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_learning/videos/microsoft-azure-ad-managed-service-identity-azure-friday.md",
-      "title": "Azure AD Managed Service Identity | Azure Friday",
-      "excerpt": "Arturo Lucatero joins Donovan Brown to discuss Azure AD Managed Service Identity, which can be used to authenticate to any service that supports Azure AD authentication. For more information, see: What is Managed Service Identity (MSI) for Azure resources? (docs): https://docs.microsoft.com/azure/active-directory/managed-service-identity/overview",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-azure-ad-managed-service-identity-azure-friday/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-azure-ad-managed-service-identity-azure-friday/",
-      "originalUrl": "https://youtube.com/watch?v=bBi1bll2928",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/bBi1bll2928\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT16M11S",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2018-08-14T14:03:31-07:00",
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/bBi1bll2928/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Identity"
-      ]
-    },
-    {
-      "path": "_learning/videos/microsoft-azure-automation-azure-friday.md",
-      "title": "Azure Automation | Azure Friday",
-      "excerpt": "Jenny Hunter joins Scott Hanselman to discuss Azure Automation, which has seen several new improvements including support for Python 2, the ability to run against local Linux machines, the ability to run against any Azure VM with no setup (Run Command), and native Azure alert integration. [03:27] Demo",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-azure-automation-azure-friday/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-azure-automation-azure-friday/",
-      "originalUrl": "https://youtube.com/watch?v=DgMJC9bWWrE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/DgMJC9bWWrE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT13M28S",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2019-02-27T16:54:04-08:00",
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/DgMJC9bWWrE/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_learning/videos/microsoft-azure-container-instances-aci-under-the-hood-azure-friday.md",
-      "title": "Azure Container Instances (ACI) under the hood | Azure Friday",
-      "excerpt": "Have you ever wondered what's going on under the hood for serverless offerings like Azure Container Instances? MacKenzie Olson shows Scott Hanselman the latest innovations in the infrastructure that powers ACI and a peek at the product roadmap, including a demo of the managed identity experience coming",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-azure-container-instances-aci-under-the-hood-azure-friday/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-azure-container-instances-aci-under-the-hood-azure-friday/",
-      "originalUrl": "https://youtube.com/watch?v=giQLmxMKAKE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/giQLmxMKAKE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT12M40S",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-09-25T13:19:24-07:00",
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/giQLmxMKAKE/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Azure"
       ]
     }
   ],
