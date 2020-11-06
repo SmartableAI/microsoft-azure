@@ -3,8 +3,8 @@ category: news
 title: "HYAS Joins the Microsoft Intelligent Security Association (MISA), Integrates HYAS Insight with Microsoft Azure Sentinel"
 excerpt: "HYAS joins Microsoft Intelligent Security Alliance (MISA) and has integrated HYAS Insight threat intelligence solution with Microsoft Azure Sentinel."
 publishedDateTime: 2020-10-28T12:45:00Z
-originalUrl: "https://www.businesswire.com/news/home/20201028005031/en/HYAS-Joins-the-Microsoft-Intelligent-Security-Association-MISA-Integrates-HYAS-Insight-with-Microsoft-Azure-Sentinel/?feedref=Zd8jjkgYuzBwDixoAdXmJgT1albrG1Eq4mAeVP39210hJvfF05B5fk8fgV08Rp7eevRMp3sIgu8q3wq1OF24lT93qbEzrwa15HGbLqMObxYB6IekXemGUNFauMeV8-aC2uKCrP6Vchv2JCmX-IB07A=="
-webUrl: "https://www.businesswire.com/news/home/20201028005031/en/HYAS-Joins-the-Microsoft-Intelligent-Security-Association-MISA-Integrates-HYAS-Insight-with-Microsoft-Azure-Sentinel/?feedref=Zd8jjkgYuzBwDixoAdXmJgT1albrG1Eq4mAeVP39210hJvfF05B5fk8fgV08Rp7eevRMp3sIgu8q3wq1OF24lT93qbEzrwa15HGbLqMObxYB6IekXemGUNFauMeV8-aC2uKCrP6Vchv2JCmX-IB07A=="
+originalUrl: "https://www.businesswire.com/news/home/20201028005031/en/HYAS-Joins-the-Microsoft-Intelligent-Security-Association-MISA-Integrates-HYAS-Insight-with-Microsoft-Azure-Sentinel"
+webUrl: "https://www.businesswire.com/news/home/20201028005031/en/HYAS-Joins-the-Microsoft-Intelligent-Security-Association-MISA-Integrates-HYAS-Insight-with-Microsoft-Azure-Sentinel"
 type: article
 quality: 10
 heat: -1
@@ -137,18 +137,18 @@ related:
         height: 627
         isCached: true
   - title: "Nuventive Improvement Platform Now Available in the Microsoft Azure Marketplace"
-    excerpt: "Planning and improvement software company Nuventive today announced the availability of the Nuventive Improvement Platform in the Microsoft Azure Marketplace, an online store providing"
-    publishedDateTime: 2020-11-05T21:30:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_pennsylvania/nuventive-improvement-platform-now-available-in-the-microsoft-azure-marketplace/article_7dd1de7d-4cae-5586-a919-39f650cfcc04.html"
+    excerpt: "Planning and improvement software company Nuventive today announced the availability of the Nuventive Improvement Platform in the"
+    publishedDateTime: 2020-11-05T20:03:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/nuventive-improvement-platform-now-available-in-the-microsoft-azure-marketplace-301167528.html"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
+      name: PR Newswire
+      domain: prnewswire.com
     quality: 33
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/f/02/f0268ddb-9a17-5a89-8822-8d022cceeb85/5fa4702e11e0a.image.jpg?resize=400%2C241"
-        width: 400
-        height: 241
+      - url: "https://mma.prnewswire.com/media/1327992/Nuventive_Improvement_Platform_Azure_Marketplace.jpg?p=facebook"
+        width: 974
+        height: 510
         isCached: true
   - title: "Cloud Computing in a Shipping Container: Microsoft Introduces the Azure Modular Datacenter"
     excerpt: "Microsoft recently announced a new Azure in a shipping container service called Azure Modular Datacenter. The new offer provides an option for setting up an Azure datacenter in hybrid or challenging environments where cloud computing previously would not have been possible."
@@ -236,6 +236,6 @@ related:
         height: 293
         isCached: true
 
-secured: "8grjT5JDdN9Jg5PNmvNFne2/oG321HmJtOCnaBw7cZYQU6cPGmbND5uxhH7U5o6lujKJxt/lSl+Pq1bWbqbsP1rSUEBSyIozsqyuaKkT6X0U0DHnoqTyEuVTFYy8+eSRHn1iwdQOWPxbpP5nD/LOib5iyMcO8cXu2zBbDf8aVFQ4kD+0Gudi7dK1mTkKJ22ijWTn7O2oZ5IsNjtYckGFS5PCg1o53faOjCcsazgUKISSjIu0ZTMrrjoHJFz0Yxp0zVunjqDco6ya8bXMev9QgTN/TwYtJHzo10lN5zhPG/y2jjcniqv/uY0XP6YHmGLWjBrWTusZ3vHOYiC3bkFZmCcxoGtF5Gi5A1ZRbNDHrB0=;IIGusR/zaZU5E8OlCgmD7A=="
+secured: "LvDe6d4H/3t0SBoVw84YMUtE5JV+JC5iChJce0LQE049bUJDOMnrf/DFD2vyKZTnOWpDsXbG2MP9zXFXTS1n+jJbFta3pB5/msNCnkp2l5OLxc4p9wK9uBGucrc8XL5DYrJywDJZfuqIElN+EJHBTgPztNvb5QKzx68SbaWiZIy2jl1KGEfWfx7CL9/qcEioDiAnOUADTg7H9z3ke8FrMSo30wNlEFzlu+y7FcC81z1Egy7bTI6w0fcNklgiWyes9A/g9yMIc5VhWVYliTdpcxoBU3jl8XHLCzBKFrPRZkZSD4PzKAdgdh5X8pHxuMBbgGA49NovQImRYEiXFgWoYWD+btGkbvzj2EvuiUJCCew=;sVAC+oGmZi6g2klKUpidNA=="
 ---
 
