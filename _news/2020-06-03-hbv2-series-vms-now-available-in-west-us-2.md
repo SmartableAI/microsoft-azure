@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-03T17:00:13Z
 webUrl: "https://azure.microsoft.com/en-us/updates/hbv2series-vms-now-available-in-west-us-2/"
 type: article
 quality: 2
-heat: 22
+heat: 2
 published: false
 
 provider:
