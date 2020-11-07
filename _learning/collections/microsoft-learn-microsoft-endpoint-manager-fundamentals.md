@@ -4,7 +4,7 @@ excerpt: "This learning path help you understand the fundamentals concepts invol
 type: collection
 price: Free
 length: PT2H57M
-heat: 60
+heat: 61
 
 provider:
   name: Microsoft Learn
