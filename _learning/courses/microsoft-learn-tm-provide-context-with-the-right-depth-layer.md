@@ -8,7 +8,7 @@ length: PT26M
 ratings:
   count: 218
   average: 4.7247705
-heat: 50
+heat: 52
 
 provider:
   name: Microsoft Learn
@@ -26,6 +26,6 @@ topics:
   - IoT
   - Security
 
-secured: "Sb2m49KT/BY5wTdJ6O6aQPuyXc8AJHoo3gQejJzNzSJywwxrAQmIAR2OC9J9mbo1WsNe2mPeGQVSbH1sNHprjSbiXBkYgtddu0PXoiKdBGX0JCmyMdpuXq1ry0KEEf9zfANszv9CPZsXWpDUGK3E0gvPWTQIx811yeLk6YJ0ChMfExim8igRrouotA/ilcASkG/IHa44tvNgqzUAi7dvdCqm+oPO1mAFzsMg8UrXULTzXRZOaOAE5lglDepcJ7YFlTOMFufY77/Qlf+tA/4w7ZxPNJXztG/jkDCfkquEBK7wAqJbvd9u3Ec5/o9NjHTTvXc0i+YfOejkRX0ZAhn2qxYzsd9kh9TTxpD5o2CfPzKBFHygNweyj6p+WFGh/2izbS4cuX7r53/zhgK7MRrnYoddqAsE5ZRmRJtuf3lVcRA=;erDqHePSbt5nFVivritQzw=="
+secured: "efEnXZntVu+roWl2ivYu7FLyqaCCvDINCWBaz1LwtESiVisouqkl+mKk7XmDmBTPzE4pW0UDvKOKM/Ub7/X4O6ChS6TKLyL8ZPCphCici7A4qGXtavxrnqeWCEQFz0xop1pqA07N3v0D5T/OINq3pzga9ZnjAoLL4yKcTRp+hGpFaoM3JRnQDgLNyG5GlbrHqZPtCfKrjIo1s1Sz5MHE98viq+hGhAix0tW/E356TORTy3u/mBPS0Q0yK6RxP/pAj/+DcosPBBHv5SvkJxGwSuAq5oUqyBFIrcEp7x7BmEG1RjZJtlxPTthx3tHfaHa5QSpjHOeHkiBgvt+TIokhjiIu78FzcYjJ6sKwQzxAbhz9zvoR4PiANFV7wNrTinVsGEjYzpLKZoL9EeqvmLHWw/cB50s5uLXJqlCEDNfVfnQ=;ZoTWnoSQURZpchFoVuFapg=="
 ---
 

@@ -8,7 +8,7 @@ length: PT24M
 ratings:
   count: 1784
   average: 4.6743274
-heat: 52
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     height: 400
     isCached: true
 
-secured: "tn0g6cpccKcUrGxBQKaJU782oaR3SyIBhkRWrQYcv3jdXcXR8iwUPDNhC6kaCsDKsgPXRzqVKd6893sOuSvdlxDl44qyO0JKRlAgVdIz7nFu25Pk70I/b29niJs8rtWbK7mohA0BYYMjbx2LMQ/0ZJgvlsGIrlxedWvxKUmn+ZijTCAb55Deu+dvjmrkwKaO2UoFAhUbcAOG5cFcHOg6dfbtv/PV/JpwXB5X6BKsrR86UdPvaJbUdTZjZrU+yhaQyCg4BZTjSb/6D5MLZZp3SeOPM2xfuvIXa0Bf/wnVBtsp31/1EJDj/AjMJTpa8eavBQg5EoHnvqf9JEsRRPcUpaTNmExfyjWN9xKQDj3n1qY7UMaX0BP6UxxIJDOzHhtBU0Eel3PjVSB4rZbsX6Wy9tjc5EJwqbUe4IPT3dAeQz0=;1aHHWup8K2oBNvoLlYyRVg=="
+secured: "Us1XbAKoEkmt/2NTToLoFFhPxbFjGQ2M8vEdx23HjsM/RAIspCzrWIkWDwrSsoRvy0XyMF5l2HJDY0riWccI7Plfc0IXkJnJnPYqwRoUmNoWKW4yXUJGiJ2a+21mBavajeDdJayCylxfAMmGi+rLPRi8ITxkR+WH+LSoXOyFS55w8fAd8kmmzFrSNcD/NPYd/Ut6ZIFGFo7Z7l+x44+g/+nQm16XIMb/2yk/Lih6kMBUFW3TZUCbDpvvYMr5NXKAq1ZRF3z1kVX61FuzX2MXkfilRQcCEiT6FmgzoDX0SMekIztVaR4tbamgxaLnyYKBHUisNSSp3e0hVWm1n5kx6EAAJt8VUiAfaZWfJEazJaRGyfrAzrr1kLXbZ9o8TjS+VmYBOv7g9BjkFZt3N4pYqyVNtM2LmFr60rh8sZnbhkc=;Sha+Ae5RcC/3Lfzlh9VYzg=="
 ---
 

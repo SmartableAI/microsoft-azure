@@ -8,7 +8,7 @@ length: PT23M
 ratings:
   count: 673
   average: 4.7488856
-heat: 51
+heat: 52
 
 provider:
   name: Microsoft Learn
@@ -30,6 +30,6 @@ images:
     height: 320
     isCached: true
 
-secured: "dBJG+Rs1/1uwFT95VnVGlrV88DSrp+vgShYOzGZlkDkA41o6aY7zTf98Bg6U98ygsd16oS0CszK9e/qJUakSkOUDqHJklhfG02RaW1lxop3BHM8mRU/xIE0tXQ8hPrYjzHleAzFdFe92cdYNGmbuvspU8+fIoAvYbhAtxp4jWxh3BDIkch++BI2WKPmNPI0QpHXn/A+JWZkULmBdX164F9KukDLMdioxWgRMOdd/pWISNaM/yJmqDFh6+f9qhgtcz9/S2I9qEAtvtZ8HJPzgb3CbTO/OtxjXVwsOzjgNWXaqFsZeSVQ4d8Ou7RoPOYNX5gostvVAYjwdazGoYfw2PSwSQS0Bx+Yf+V9BUuaT4+psSeZLEabpiqBV4xBqSvNIOP73oJPcvxFnLO55UWtyGaq0kRzK++AcpL2GUU7gK9A=;0sZh0x7uPU06jpiWpE6W7A=="
+secured: "1nCfTjjcC3zeWcwSFp3NZk8TI6hOsn07vMcrjpr3SUqt7kPwfdMM9XIaJnSX+8ZiFxNdwMBo+lZcFOKCL8KHZ+WYDQ6e+I5JIgmE2fFQV3VsigckQy1aWKbjQ5zrLtY4+33bjabl+CPbIGADos+UxTRuaGvwR2TiZvz9HfESAkC9deQXvYvBYiot6fFvcuUepYPXvZg9PKilJECBzLj+AKldcAZ9GYeZ+VENWGM2GH/HPTk1uChSew7NM4a+Qkzm4aTLyf3+sDtbsa6e1ecvlF7+MWjVkTV7EgH67DKGz8cc0QinvQDtqSdpIulKlIrz7EckBIZRpU+kPh4BFS+jTlT2HgYVMWNUgf1VyIIxpLjdXJ2XNzBzRsQo0O5v61VOdryVHQeYOuzlF/cv2ojbxja+HYtO2ZQ4yc2rgu4kAI0=;cCKR2N7JHAzpO52MBnnedA=="
 ---
 
