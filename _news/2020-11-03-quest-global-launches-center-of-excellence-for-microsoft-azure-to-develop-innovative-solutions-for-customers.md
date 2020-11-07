@@ -70,6 +70,22 @@ related:
         width: 624
         height: 638
         isCached: true
+  - title: "PUBG Mobile parent inks deal to host game on Microsoft Azure cloud"
+    excerpt: "Microsoft’s cloud service will host products “directly operated” by Krafton and its subsidiary companies, including PUBG Mobile, the popular battle royale mobile game which was banned by the Indian government two months ago."
+    publishedDateTime: 2020-11-07T08:53:00Z
+    webUrl: "https://www.livemint.com/news/india/pubg-mobile-parent-inks-deal-to-host-game-on-microsoft-azure-cloud-11604736455720.html"
+    ampWebUrl: "https://www.livemint.com/news/india/pubg-mobile-parent-inks-deal-to-host-game-on-microsoft-azure-cloud/amp-11604736455720.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/india/pubg-mobile-parent-inks-deal-to-host-game-on-microsoft-azure-cloud/amp-11604736455720.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 74
+    images:
+      - url: "https://images.livemint.com/img/2020/11/07/600x338/AFP_1HY6EA_1564125018144_1604737011910.jpg"
+        width: 600
+        height: 337
+        isCached: true
   - title: "DH2i's DxOdyssey for IoT Now Available in the Microsoft Azure Marketplace"
     excerpt: "Oct. 28, 2020 /PRNewswire/ -- DH2i®, a leading provider of multi-platform Software Defined Perimeter (SDP) and Smart Availability software, today announced the availability of DxOdyssey for IoT in the Microsoft Azure Marketplace, an online store ..."
     publishedDateTime: 2020-10-28T13:16:00Z
@@ -285,6 +301,6 @@ related:
         height: 293
         isCached: true
 
-secured: "z1a0x9ojZrHmeX8j4iKBgcXC56WlqHCfhUEGf58/2dU3tBwlOGw5Z03tHSNHweAGj4pjO0F08+pTuoMvuONqXUuUCKJajc6t1fxL2fRbfMC7pZawpGnP+NeJEr6gC4HgTdCoSxxctfsigfvjDXXnp8I3xIptSJbB1aFXppFNjgcInc6BNL7Ll6vBYqN8hQPQiS68au6THjYCK2M9jROgmwHWWvfaVK0cNxR+7/vqMkfZtgGLCaEEjIsK1H+tVIcIfeIz8zNKqawUnwgdV7UDjk4IBSuuZYdJ3+FcXk3DKC3XSjE6w0W284ncmkDSu0VLNhfoP5CxtUCmMU9lRF3mKjDbeKYC5CDErmvBDUMJOtU=;Mv2BKLo1fj60OyVsyO9d7A=="
+secured: "fIbEAYO95wNjmLbPe5kEMPw1+0m6i3/deY12RC2+hNj04grgXk3cQs4+h68Ww7cAcp7QcneziGNLLJyxQlwYHaSihQkDZ/9EMIyBivH6l3WfXOa6rYGeJB5sIM/aRVZxIoBBIP7Od6fWbXTdwzkY6JCWT67bXkdeo0ArZIxiHRVTH8sVY1TQSrFTIEB7boF29YUwMWuNtpsdwni8kPkxejsOgcv8eEEV3ZT03wWjgAKCRS3BOAGpbttt8v86hpXeQ1T4AURA2+oGk+97gPqId1GXG1waz+4JsNbwk7yeZoEmcV8s64m/ItEpkJRF+KCsmmbO4Eo//tWMl7yqFvttgDbWhTjjllsOvbJXgKCW1bc=;FUNDdE40M2JfLZ0S6r//MQ=="
 ---
 

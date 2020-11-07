@@ -71,6 +71,22 @@ related:
         width: 624
         height: 638
         isCached: true
+  - title: "PUBG Mobile parent inks deal to host game on Microsoft Azure cloud"
+    excerpt: "Microsoft’s cloud service will host products “directly operated” by Krafton and its subsidiary companies, including PUBG Mobile, the popular battle royale mobile game which was banned by the Indian government two months ago."
+    publishedDateTime: 2020-11-07T08:53:00Z
+    webUrl: "https://www.livemint.com/news/india/pubg-mobile-parent-inks-deal-to-host-game-on-microsoft-azure-cloud-11604736455720.html"
+    ampWebUrl: "https://www.livemint.com/news/india/pubg-mobile-parent-inks-deal-to-host-game-on-microsoft-azure-cloud/amp-11604736455720.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/india/pubg-mobile-parent-inks-deal-to-host-game-on-microsoft-azure-cloud/amp-11604736455720.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 74
+    images:
+      - url: "https://images.livemint.com/img/2020/11/07/600x338/AFP_1HY6EA_1564125018144_1604737011910.jpg"
+        width: 600
+        height: 337
+        isCached: true
   - title: "Microsoft to establish its first datacenter region in Taiwan "
     excerpt: "The new region is anticipated to include Microsoft Azure, with Microsoft 365, Dynamics 365 and Power Platform to follow."
     publishedDateTime: 2020-10-27T16:05:07Z

@@ -1,26 +1,29 @@
 ---
 category: news
-title: "Microsoft’s Azure cloud platform will be the brain for their future autonomous robots!"
-excerpt: "Azure is run by Artificial Intelligence that provides users with a customizable space to work, save, share, and connect through multi-functional, serverless software. Halawany’s robot renders for Microsoft Middle East,"
-publishedDateTime: 2020-11-07T01:45:00Z
-originalUrl: "https://www.yankodesign.com/2020/11/06/microsofts-azure-cloud-platform-will-be-the-brain-for-their-future-autonomous-robots/"
-webUrl: "https://www.yankodesign.com/2020/11/06/microsofts-azure-cloud-platform-will-be-the-brain-for-their-future-autonomous-robots/"
+title: "PUBG Mobile parent inks deal to host game on Microsoft Azure cloud"
+excerpt: "Microsoft’s cloud service will host products “directly operated” by Krafton and its subsidiary companies, including PUBG Mobile, the popular battle royale mobile game which was banned by the Indian government two months ago."
+publishedDateTime: 2020-11-07T08:53:00Z
+originalUrl: "https://www.livemint.com/news/india/pubg-mobile-parent-inks-deal-to-host-game-on-microsoft-azure-cloud-11604736455720.html"
+webUrl: "https://www.livemint.com/news/india/pubg-mobile-parent-inks-deal-to-host-game-on-microsoft-azure-cloud-11604736455720.html"
+ampWebUrl: "https://www.livemint.com/news/india/pubg-mobile-parent-inks-deal-to-host-game-on-microsoft-azure-cloud/amp-11604736455720.html"
+cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/india/pubg-mobile-parent-inks-deal-to-host-game-on-microsoft-azure-cloud/amp-11604736455720.html"
 type: article
-quality: 29
+quality: 74
 heat: -1
 published: false
 
 provider:
-  name: Yanko Design
-  domain: yankodesign.com
+  name: Mint
+  domain: livemint.com
 
 topics:
   - Azure
+  - Mobile
 
 images:
-  - url: "https://www.yankodesign.com/images/design_news/2020/10/worlds_most_secure_portable_SSD-510x314.jpg"
-    width: 510
-    height: 314
+  - url: "https://images.livemint.com/img/2020/11/07/600x338/AFP_1HY6EA_1564125018144_1604737011910.jpg"
+    width: 600
+    height: 337
     isCached: true
 
 related:
@@ -69,22 +72,6 @@ related:
       - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/c87156e3-af18-49b3-93e6-799c89df2138.png"
         width: 624
         height: 638
-        isCached: true
-  - title: "PUBG Mobile parent inks deal to host game on Microsoft Azure cloud"
-    excerpt: "Microsoft’s cloud service will host products “directly operated” by Krafton and its subsidiary companies, including PUBG Mobile, the popular battle royale mobile game which was banned by the Indian government two months ago."
-    publishedDateTime: 2020-11-07T08:53:00Z
-    webUrl: "https://www.livemint.com/news/india/pubg-mobile-parent-inks-deal-to-host-game-on-microsoft-azure-cloud-11604736455720.html"
-    ampWebUrl: "https://www.livemint.com/news/india/pubg-mobile-parent-inks-deal-to-host-game-on-microsoft-azure-cloud/amp-11604736455720.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/india/pubg-mobile-parent-inks-deal-to-host-game-on-microsoft-azure-cloud/amp-11604736455720.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 74
-    images:
-      - url: "https://images.livemint.com/img/2020/11/07/600x338/AFP_1HY6EA_1564125018144_1604737011910.jpg"
-        width: 600
-        height: 337
         isCached: true
   - title: "DH2i's DxOdyssey for IoT Now Available in the Microsoft Azure Marketplace"
     excerpt: "Oct. 28, 2020 /PRNewswire/ -- DH2i®, a leading provider of multi-platform Software Defined Perimeter (SDP) and Smart Availability software, today announced the availability of DxOdyssey for IoT in the Microsoft Azure Marketplace, an online store ..."
@@ -206,6 +193,20 @@ related:
         width: 974
         height: 510
         isCached: true
+  - title: "Microsoft’s Azure cloud platform will be the brain for their future autonomous robots!"
+    excerpt: "Azure is run by Artificial Intelligence that provides users with a customizable space to work, save, share, and connect through multi-functional, serverless software. Halawany’s robot renders for Microsoft Middle East,"
+    publishedDateTime: 2020-11-07T01:45:00Z
+    webUrl: "https://www.yankodesign.com/2020/11/06/microsofts-azure-cloud-platform-will-be-the-brain-for-their-future-autonomous-robots/"
+    type: article
+    provider:
+      name: Yanko Design
+      domain: yankodesign.com
+    quality: 29
+    images:
+      - url: "https://www.yankodesign.com/images/design_news/2020/10/worlds_most_secure_portable_SSD-510x314.jpg"
+        width: 510
+        height: 314
+        isCached: true
   - title: "Cloud Computing in a Shipping Container: Microsoft Introduces the Azure Modular Datacenter"
     excerpt: "Microsoft recently announced a new Azure in a shipping container service called Azure Modular Datacenter. The new offer provides an option for setting up an Azure datacenter in hybrid or challenging environments where cloud computing previously would not have been possible."
     publishedDateTime: 2020-11-05T12:10:00Z
@@ -301,6 +302,6 @@ related:
         height: 293
         isCached: true
 
-secured: "hChgAk0IpVJWLc/eKkiFlTRYMEKkCQMcKNCnSDvHNzNawdToE7he+VceGcumhUCR9xXhN9CyQpym9ZIe8UXO35XFmi7aGXwV3qVhdKu4M2VQnbt1ASOpw7Zpsb4mrZmfvA2xm1sOl1Uix41InhRIFN9bolNKxxI+R7aUDxLbp/hPqdJL8DuAqD04MKRWVXJ1elUOEVhcKORV/+bIcPxWb2XKv2gfPI7v1qQr4/T5O7wkqpW3QRMgrRep1LUueBExRAcL1Zy1B6AFOndUk/ncWRMnirY0vSwqngb+HdJ1aY5FExjS1JPTAr/HfufxzIWLnNddJmCJ18K5X/GcW4A+eVxpFvwEWTL4KDCPJ9BA+jc2ZKMwZAERznjlL4EaustJdcLwRlxcjGxNn81+W0BuW/3EedItgPBNLYKzFIMrfnOADFcJJwInILY6EQXOV5L11kW+J7gacjibjSDz5RB0Un5Mifi+2GY+JZaIlsFEOdH+kFbvxX2ZALNhnueXkGOAEB9bbRtu8zSNUS/GDwA4MQ==;bgqS264sXHE7GT0U9LAGiw=="
+secured: "+o9MSL0LqmNLVYzuOrDmLiCylA4xnvllWWjnDi95UDOQyLxTVrnoSpi0NQ6W9zr/ane8CV/LtVbzlBTmDE98HwdeCuO/mDcSTrEYz/JiBRFLjng6Bv/O+CITZdyqmN2rCf2b65DKK/GKbbl/EsIguvSQkw0tB912aH8tG1hSywwXRsCUN9AwtqcIIDY33/RAOp6LZi11MVSchIlx8cI7EKUl4/xIqGuJ4bwJaCvU/HEWsMTvd0fVFroD/WFO3JfrwhfASxl/4P+DgJjb9P+3cYHMk3opEasqOxjtsZbFRGY4hnHXSI8mzraAsUpUk/zQMrFDB2rihwEGtgMpdO9jk3vM6IbhxJbg/HngyHv32v0=;zHtSKAWwStRL8M36s56Gaw=="
 ---
 
