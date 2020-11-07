@@ -6,7 +6,7 @@ publishedDateTime: 2020-05-14T22:00:17Z
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-private-link-is-now-available-for-multiple-new-azure-services/"
 type: article
 quality: 17
-heat: 57
+heat: 17
 published: false
 
 provider:

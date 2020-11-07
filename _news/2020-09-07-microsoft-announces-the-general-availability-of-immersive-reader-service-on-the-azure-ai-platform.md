@@ -381,6 +381,20 @@ related:
         width: 1254
         height: 836
         isCached: true
+  - title: "PUBG is Coming to Microsoft Azure"
+    excerpt: "Microsoft and Krafton announced today that they are bringing PLAYERUNKNOWN’S BATTLEGROUNDS (PUBG) and PUBG Mobile to Azure."
+    publishedDateTime: 2020-11-07T15:22:00Z
+    webUrl: "https://www.thurrott.com/games/243664/pubg-is-coming-to-microsoft-azure"
+    type: article
+    provider:
+      name: Thurrott
+      domain: thurrott.com
+    quality: 37
+    images:
+      - url: "https://www.thurrott.com/wp-content/uploads/sites/2/2020/11/pubg.jpg"
+        width: 1066
+        height: 602
+        isCached: true
   - title: "How to use Microsoft 365 Universal Print"
     excerpt: "Microsoft is hoping to make it easier for organizations to give Azure Active Directory (AAD) joined and MDM-managed devices access to printers."
     publishedDateTime: 2020-05-04T12:01:00Z

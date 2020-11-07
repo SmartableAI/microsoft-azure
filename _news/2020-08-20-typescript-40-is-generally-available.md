@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/typescript-40-is-general
 webUrl: "https://azure.microsoft.com/en-us/updates/typescript-40-is-generally-available/"
 type: article
 quality: 52
-heat: 72
+heat: 73
 published: true
 
 provider:

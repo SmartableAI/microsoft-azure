@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-08T16:00:20Z
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-database-for-mysql-encryption-at-rest-byok-preview/"
 type: article
 quality: 3
-heat: 23
+heat: 3
 published: false
 
 provider:

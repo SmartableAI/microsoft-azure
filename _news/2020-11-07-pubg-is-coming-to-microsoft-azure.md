@@ -1,29 +1,26 @@
 ---
 category: news
-title: "Accelerating ATO in Microsoft Azure"
-excerpt: "While your cloud provider manages security OF the cloud, security IN the cloud is the responsibility of the customer. During this on-demand webinar, Microsoft Azure’s Chief Information Security Officer for High Security Clouds, Mr. Richard Scher ..."
-publishedDateTime: 2020-07-09T03:51:00Z
-webUrl: "https://www.infoworld.com/resources/205509/accelerating-ato-in-microsoft-azure"
+title: "PUBG is Coming to Microsoft Azure"
+excerpt: "Microsoft and Krafton announced today that they are bringing PLAYERUNKNOWN’S BATTLEGROUNDS (PUBG) and PUBG Mobile to Azure."
+publishedDateTime: 2020-11-07T15:22:00Z
+originalUrl: "https://www.thurrott.com/games/243664/pubg-is-coming-to-microsoft-azure"
+webUrl: "https://www.thurrott.com/games/243664/pubg-is-coming-to-microsoft-azure"
 type: article
-quality: 77
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: InfoWorld
-  domain: infoworld.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/infoworld.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Thurrott
+  domain: thurrott.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://idge.staticworld.net/ifw/IFW_logo_social_300x300.png"
-    width: 300
-    height: 300
+  - url: "https://www.thurrott.com/wp-content/uploads/sites/2/2020/11/pubg.jpg"
+    width: 1066
+    height: 602
     isCached: true
 
 related:
@@ -199,6 +196,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Accelerating ATO in Microsoft Azure"
+    excerpt: "While your cloud provider manages security OF the cloud, security IN the cloud is the responsibility of the customer. During this on-demand webinar, Microsoft Azure’s Chief Information Security Officer for High Security Clouds, Mr. Richard Scher ..."
+    publishedDateTime: 2020-07-09T03:51:00Z
+    webUrl: "https://www.infoworld.com/resources/205509/accelerating-ato-in-microsoft-azure"
+    type: article
+    provider:
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 77
+    images:
+      - url: "https://idge.staticworld.net/ifw/IFW_logo_social_300x300.png"
+        width: 300
+        height: 300
+        isCached: true
   - title: "Lenovo Teams With Microsoft Azure At The Edge"
     excerpt: "The new offerings are tied closely to Microsoft’s Azure software stack for enterprises operating in a hybrid cloud model, with a presence both on-premises and in the cloud. Microsoft actually pre-announced the new ThinkAgile MX1021 at its Ignite 2019 ..."
     publishedDateTime: 2020-03-31T15:36:00Z
@@ -370,20 +381,6 @@ related:
         width: 1254
         height: 836
         isCached: true
-  - title: "PUBG is Coming to Microsoft Azure"
-    excerpt: "Microsoft and Krafton announced today that they are bringing PLAYERUNKNOWN’S BATTLEGROUNDS (PUBG) and PUBG Mobile to Azure."
-    publishedDateTime: 2020-11-07T15:22:00Z
-    webUrl: "https://www.thurrott.com/games/243664/pubg-is-coming-to-microsoft-azure"
-    type: article
-    provider:
-      name: Thurrott
-      domain: thurrott.com
-    quality: 37
-    images:
-      - url: "https://www.thurrott.com/wp-content/uploads/sites/2/2020/11/pubg.jpg"
-        width: 1066
-        height: 602
-        isCached: true
   - title: "Microsoft Announces the General Availability of Immersive Reader Service on the Azure AI Platform"
     excerpt: "Immersive Reader, which is a part of the Cognitive Services suite within the Microsoft Azure AI Platform provides help for readers to read and comprehend text. In a recent blog, Microsoft announced the general availability of the service."
     publishedDateTime: 2020-09-07T11:19:00Z
@@ -459,6 +456,6 @@ related:
       domain: telecompaper.com
     quality: 2
 
-secured: "cd5dbOoZu6JSb8Bc395DiObWw/rPORIParBZGQLZy7Tv6mbIy2B978DiAkOdK/gZdA33mwW4zVynNrMUZGIuNODeCRlqhQMhe5YgVokf2VxDfoP4OzYqYYTTh5bUOY5VG5xnS5Ea8MRw6JOKhoAeb4nfec267Wdpayzc8PH7J2BaLP5wVqzMAHX1vhWl9GL7VgVHc3UMHncwlvQnOFvtnsal5m2SsGdRlnlB7k7MCSTGiGu+K05NjmfMnynLTuTZ8rbdwb7xzwiRJa719P/au6OKM48x21MHQ7SrX6uoBQHsnJRgchxVQ+Z5tFS6ezLa/rEz6HkTvTLJz61+CwhqwA==;RcQD0nvjxBw+TJ+HL/sfsg=="
+secured: "B/88zTDJMFQy2TjB4bW3alcM3iK84EHsR4DefXyZq4i6eIJFkag5jmpHqzkzrq8b5/aWUfX7NH6z2EjnA6ZVwrZsUC0twFVgNXSER6v9YzprZQQDLWj6XuT9rFyR76/zc9rK6o1b1a/qslSn186elXaah6KmuoeG+f+XKQbg90y7ZBQA8fb3lVHZewCKEB2V9VKyco7CaKY2MGdc8lKO3rn0ptC4wona0FGbQam0Paw1xmh0eL8uSAJYxbLTONso6LUBbx4E8TcrZygTPLHPpfKcBwOJOjc6IDeSshWTwJZZxNBvApC56jWPE1paU5jtWF+/HHWbxlPMW92o0Pec0SqpXkcrz5Q1f8iMA3BQCnY=;IOfqwU7IQwl5qZTn4aCcvA=="
 ---
 
