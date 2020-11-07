@@ -40,6 +40,22 @@ related:
         width: 1200
         height: 799
         isCached: true
+  - title: "KRAFTON partners with Microsoft to host its products including PUBG on Azure"
+    excerpt: "Korean video game giant KRAFTON has announced a partnership with Microsoft that will allow the company to use Azure cloud services to host its products including the popular Battle Royale game PUBG."
+    publishedDateTime: 2020-11-07T12:10:00Z
+    webUrl: "https://www.neowin.net/news/krafton-partners-with-microsoft-to-host-its-products-including-pubg-on-azure"
+    ampWebUrl: "https://www.neowin.net/amp/krafton-partners-with-microsoft-to-host-its-products-including-pubg-on-azure/"
+    cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/krafton-partners-with-microsoft-to-host-its-products-including-pubg-on-azure/"
+    type: article
+    provider:
+      name: Neowin
+      domain: neowin.net
+    quality: 94
+    images:
+      - url: "https://cdn.neow.in/news/images/uploaded/2020/08/1598292310_pubgmoile_story.jpg"
+        width: 760
+        height: 428
+        isCached: true
   - title: "Microsoft's Cloud PC: Leak reveals new details on upcoming Azure-powered remote desktop"
     excerpt: "Microsoft's forthcoming Cloud PC remote Windows experience for Windows 10, macOS, iOS and Android takes shape."
     publishedDateTime: 2020-11-05T11:23:00Z
@@ -301,6 +317,6 @@ related:
         height: 293
         isCached: true
 
-secured: "tdxSv+5QYifiNYdaZQ7NfxAOf2HTe/97QGhuITZ+IYRfB0ffwBTtQVEfjorbxqUQvPnqvLvEpM9OqGuttihqW+yycwIugc2BF0Src/MCgmPcVtMgMbRRkMWCzMHQJG5+QsFBnYQc8Lxm4AHsyAlUXGXqZjNFDl0bccrpwgwJLGoruPypiNHCsBlJd1pGpvtc4DJROl5VplzW+NW6WBBmdDCVbYBjeGfMxZHHOfoGlAOIpV3bPxJEs2gu8BQuWUq3t7ayt9b4p3HYaSupl+duGIwjgGOiFEscmQI2bwbFHrgsv06z75AECT9rRLu8DaqTe502H44Hbu0xz3inqrvS4XfiLN2+rVMzvcKw/3271IA=;nJE16YOQ7E0o+V518lCSWA=="
+secured: "xR7eZez2FnzPbFF2O1c/PdCrNjiR5OaNyKhZupXIEfDJ5JsUTgPHrC1JQLtMF+HW4jEtarRtXa8rP49e9LbUjW/WSCzYU6STi8o+tRhpCQS4RN6qqUPlM6T8KB0X6zINuBBgv0JYS3dQuivnRadXA41GQYbgV1ucxeJwfp5drtp8M8/bNIv0j23ZiKWMhwuCMAyySXAbgZoHSXUDycPUCCJtZPBUe++1rsNCjGHxPLgBqjejMdRd0Uqh0Fw1JTePV7p1YNDFkfuhsyHUaE783cSUm1SpPtZ1FfW1hzWMx+FGLiAXFCGtZYC23mXh3JgRe5rDQNxbXDRr5uW5LgyFOapFI5jPmPsPWKnH2kYa65c=;3/QsUGuNpZtmkuKgaa9Y1A=="
 ---
 

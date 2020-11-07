@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Microsoft's Cloud PC: Leak reveals new details on upcoming Azure-powered remote desktop"
-excerpt: "Microsoft's forthcoming Cloud PC remote Windows experience for Windows 10, macOS, iOS and Android takes shape."
-publishedDateTime: 2020-11-05T11:23:00Z
-originalUrl: "https://www.zdnet.com/article/microsofts-cloud-pc-leak-reveals-new-details-on-upcoming-azure-powered-remote-desktop/"
-webUrl: "https://www.zdnet.com/article/microsofts-cloud-pc-leak-reveals-new-details-on-upcoming-azure-powered-remote-desktop/"
-ampWebUrl: "https://www.zdnet.com/google-amp/article/microsofts-cloud-pc-leak-reveals-new-details-on-upcoming-azure-powered-remote-desktop/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsofts-cloud-pc-leak-reveals-new-details-on-upcoming-azure-powered-remote-desktop/"
+title: "KRAFTON partners with Microsoft to host its products including PUBG on Azure"
+excerpt: "Korean video game giant KRAFTON has announced a partnership with Microsoft that will allow the company to use Azure cloud services to host its products including the popular Battle Royale game PUBG."
+publishedDateTime: 2020-11-07T12:10:00Z
+originalUrl: "https://www.neowin.net/news/krafton-partners-with-microsoft-to-host-its-products-including-pubg-on-azure"
+webUrl: "https://www.neowin.net/news/krafton-partners-with-microsoft-to-host-its-products-including-pubg-on-azure"
+ampWebUrl: "https://www.neowin.net/amp/krafton-partners-with-microsoft-to-host-its-products-including-pubg-on-azure/"
+cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/krafton-partners-with-microsoft-to-host-its-products-including-pubg-on-azure/"
 type: article
-quality: 89
+quality: 94
 heat: -1
 published: false
 
 provider:
-  name: ZDNet
-  domain: zdnet.com
+  name: Neowin
+  domain: neowin.net
   images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/zdnet.com-50x50.jpg"
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/neowin.net-50x50.jpg"
       width: 50
       height: 50
 
@@ -24,9 +24,9 @@ topics:
   - Azure
 
 images:
-  - url: "https://zdnet4.cbsistatic.com/hub/i/r/2020/09/16/8ba15096-7e97-4c9d-9c92-fdfb3223d8cf/thumbnail/1200x675/230c7f7fa964a74175d8fc0ef350a100/microsoft-365-formerly-office-365-vs-g-s-5f4e5f4871c30002b05d39e4-1-sep-16-2020-15-40-44-poster.jpg"
-    width: 1200
-    height: 675
+  - url: "https://cdn.neow.in/news/images/uploaded/2020/08/1598292310_pubgmoile_story.jpg"
+    width: 760
+    height: 428
     isCached: true
 
 related:
@@ -46,21 +46,21 @@ related:
         width: 1200
         height: 799
         isCached: true
-  - title: "KRAFTON partners with Microsoft to host its products including PUBG on Azure"
-    excerpt: "Korean video game giant KRAFTON has announced a partnership with Microsoft that will allow the company to use Azure cloud services to host its products including the popular Battle Royale game PUBG."
-    publishedDateTime: 2020-11-07T12:10:00Z
-    webUrl: "https://www.neowin.net/news/krafton-partners-with-microsoft-to-host-its-products-including-pubg-on-azure"
-    ampWebUrl: "https://www.neowin.net/amp/krafton-partners-with-microsoft-to-host-its-products-including-pubg-on-azure/"
-    cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/krafton-partners-with-microsoft-to-host-its-products-including-pubg-on-azure/"
+  - title: "Microsoft's Cloud PC: Leak reveals new details on upcoming Azure-powered remote desktop"
+    excerpt: "Microsoft's forthcoming Cloud PC remote Windows experience for Windows 10, macOS, iOS and Android takes shape."
+    publishedDateTime: 2020-11-05T11:23:00Z
+    webUrl: "https://www.zdnet.com/article/microsofts-cloud-pc-leak-reveals-new-details-on-upcoming-azure-powered-remote-desktop/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsofts-cloud-pc-leak-reveals-new-details-on-upcoming-azure-powered-remote-desktop/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsofts-cloud-pc-leak-reveals-new-details-on-upcoming-azure-powered-remote-desktop/"
     type: article
     provider:
-      name: Neowin
-      domain: neowin.net
-    quality: 94
+      name: ZDNet
+      domain: zdnet.com
+    quality: 89
     images:
-      - url: "https://cdn.neow.in/news/images/uploaded/2020/08/1598292310_pubgmoile_story.jpg"
-        width: 760
-        height: 428
+      - url: "https://zdnet4.cbsistatic.com/hub/i/r/2020/09/16/8ba15096-7e97-4c9d-9c92-fdfb3223d8cf/thumbnail/1200x675/230c7f7fa964a74175d8fc0ef350a100/microsoft-365-formerly-office-365-vs-g-s-5f4e5f4871c30002b05d39e4-1-sep-16-2020-15-40-44-poster.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Microsoft named a Leader in the Gartner 2020 Magic Quadrant for Industrial IoT Platforms"
     excerpt: "Embracing digital transformation in Industrial IoT requires companies to rethink and shift business models and operations. Doing so, however, has become more difficult in the past six months due to production slowdowns, restrictions on employee movement with social distancing, and rapidly shifting market"
@@ -321,6 +321,6 @@ related:
         height: 293
         isCached: true
 
-secured: "NtiXv0l9BpjEip7KjBJ47ZDMx2/6fYWpCrJ06ZbkEzL6yvw5W/tV1zHre+tLXzueCFfxZwLreaqUAeVVNjqqItzJAj6zM24JKw0AzQM8AAkcgGc/I7S9TiOZjv2XTEPQY12c5PZvf5vmiJM7ELDB1yraGRMZ01yms2g+A29AcrXaLoq/q9cqsUCtvkSdsX+FheueSt2CUS6SGKYUpJr+1yeJBUoeZTqDdCiqR6hed5PwoOQ64vpPtDZIepV9NadzitMTxinn3HZ8Ma8FC6n9BXhHU2lZC+5/t8qaZPf773Jdl4H2gOqifPXJT6Za0MCRTUu9vOYUyuif4ttOXO0fnfBw4ReykCbdLSSASuLpY/0nHvYwd7a8wvbgc3WVCA8OgHzMEuhDB7v9/7i3TicVmfAfxyi3BuYDfc/3azrNfO0Ax8w3qURU24bHknfbuUeWUQhVmic+AS4bvQxDwwRIeC/rXrKZuYA4rODladNmaZ+pSfR+xEmJ1+1uVfZruKJFhRf/v19KQ+x1UKAWte6vgw==;14UMVpxytGD8f3fccJ1Puw=="
+secured: "9BALffG2cS3KUwyASsNFWS3crpf+E+gAmMB0isU6wcbew0qByjXRw2duNtrwVBaC19MODwD69bUdzoALOAFvhjop8Q5QEzEMDGGMp7PTEiDQid0bizWaydlO9CMyjUi5NXU8fJRLnuD2e95vrZafz+3YR5K7JvvSIr39/pbqPdty1+/38AsqNjiEZQhUi+p5scTJBP8faEbHuXRsfHLg1pqIohGTeYOFfy+8pPEV7GfmYi99PBTOnm3DJb5/Xay9vZPaf+CSfNDC+VJlgQCnrKa8rdoMUfuakniim0cSOmINPMj717ptBvn+/LEMuACtZvWCN+AaalAW7XUdCylRF+KUdUkfNrDXsCVKoTqOr/E=;4JHrB7MPRWPwPnIX6ZAbuQ=="
 ---
 
