@@ -6,9 +6,9 @@ type: course
 price: Free
 length: PT36M
 ratings:
-  count: 2503
-  average: 4.6979623
-heat: 60
+  count: 2504
+  average: 4.698083
+heat: 57
 
 provider:
   name: Microsoft Learn
@@ -25,6 +25,6 @@ topics:
   - Azure
   - Security
 
-secured: "ng/42g+XvqLIbVL3QXwp1f58EEHq2cfM7g1iKhmlW1nxL/Y6XjAvPdhr+cTZqMMG7DTqwLnEBjYlAO2m6RH7T9hdGHxcL+EG2f5O9IlaZy55sLhGmR8IbSoqBdWjs3wu731odDDSG+QEbWK76nfjFtC3luXzPNs/M/sTcaH5wiX27itOS5i4a4bAW+XvLgziR7AkvYESss9Czs8Oehv1KG8Ccftdtkjn1YqUysQORlBWGDZGjLQy9kzI7b4PQUkWaNlGmZqZ0S2R/vEEOckEXfxu3mElKe0/u/eZuOslzsUab4h3wKUCqAMXgJs+/sxWvkXWP6sLOrat3Ub7c8oECLR38E2qbhdKswe5rGvLpB/xtWXb90rIPrhsjiv9ofBewAvKJ+zD3alcOdJRdMmK7pmsa/AzgItX4K05/vhtNQw=;bIFN6AFtBHtj8Y+/Nvik0g=="
+secured: "muXqnxQyxlF/Ym/iZ0mvi0y6a20JljVSrmjGHGpkRmUy8hcM5flk+e1p283bZbkm/UJlaV/Urz2U9e91E2MJaQNtt3+inEjzgOxeHZYuQmE+oUFTgNj9mp5gOn+uRK3kMFiENpgcPlOZMlA2kc2bBelCs2RgldzhC3NJm/Xl9Fa853JTVad0C7P3MVkNcqlOJWbrCVusEg1BepTlJA1uTcFi0fLAA8JVVjLDmuF8aaE2HTJvUcev+j4frt+x8cYPVUWM40yAnIKoUkEaJ3a22FiXh2v7ryhGVPKX3xMy1f7E6UB3mdgHORu0gCtRrfbgCibdowi3s28FDD5Uv3aYERtYeeETbbtAUUNXusmvexDrhVVhAQYKQBK0RO8H7xCNReom9YOJm1bOVZ06d9wxLN8Ta2a20ettxukQnstdvEM=;LVHQJIubklWVrLzjV0Shfg=="
 ---
 

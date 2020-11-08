@@ -6,9 +6,9 @@ type: course
 price: Free
 length: PT22M
 ratings:
-  count: 1495
-  average: 4.7110367
-heat: 60
+  count: 1496
+  average: 4.71123
+heat: 55
 
 provider:
   name: Microsoft Learn
@@ -26,6 +26,6 @@ topics:
   - DevOps
   - Integration
 
-secured: "d8jsKuHieYV/2ekyLtPTUG1IPXkMg2W3P4cM5O1jb7ZPyBmlIzdzU0TnQyskCwbkb24T/VYQQUUZiYYUyWF+psuagdHKpSx9ZXhE1ehmxhkqdOaD8UBIZAugptHXHsa5gxmP7hdPZ+fQCg0Jn1EQzqNUCA0F0POS5p7RYcqBlknRxKh2IIzsuOEiJIDdWjwc9+0PEy66/nGunUh2d2RR9Sd3YKClDwZrAv1WgS12o0tQ8IsNwSPMPuzfwwP6rxdUlqtP2AssyCYSgqW6+gB6eqlq4mKN/qEB5mDB7n1mw6UUyeyaxRfzWvAxfC5W6yqq5STOsi0+zIY9qlP7nxgJfQKRgbgdH5wkxTsC8PiZKorksw4bj6IzmoNRkPynHneEsfpOzqfurxsDFfq+iSUBGYFVMl0XxjxdCLvoWjPAIaA=;d95azFzRMnzsYzqSQxLZHg=="
+secured: "7dCG/2KZWYBZ4R4rkCN8g4if1ulDiRmfjX0MW8LnZ5jftK+JoScU8aOKnHFkbtt5EQDXbVKF0nllKkwzRjfghWl59uxhx+SttiHeScz3jTVy4k9pLppNv0FPzbSigi6lIOHqUYnjMgboPvQoU1X1NKJ4/mcfV36g2cjkx64l1o0WhcG3gx26crvkT8ATNw1VUe6ci7VMEVlR8TeaIHDxzFSzeApyDL6xYPVWWIPQV5INqlAC4FI+xlvGFhHat8FWcPoTrN8lNvfY+h6ze3k8cqUd8n3Ug1w0DdElBLYKBLK/rDsbGN5nK3OnvBoi20QBtkzNWQsogPAaN2LG6QVx3GOOe5j/0QlJxLyaC3eJ655qaG7AAsHVtRlmgYVa3F99rGR3hs/ksQdufP2DvpEFtQ8PsyGPzDx9u4WQlvsltIg=;dXRvx5prNeMs46lW/0i8iQ=="
 ---
 
