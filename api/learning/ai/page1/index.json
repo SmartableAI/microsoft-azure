@@ -4,15 +4,15 @@
   "page": 1,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-work-with-data-in-aml.md",
-      "title": "Work with Data in Azure Machine Learning",
-      "excerpt": "Learn how to work with datastores and datasets in Azure Machine Learning.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-work-with-data-in-aml/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/work-with-data-in-aml/",
-      "length": "PT45M",
+      "path": "_learning/courses/microsoft-learn-create-clustering-model-azure-machine-learning-designer.md",
+      "title": "Create a Clustering Model with Azure Machine Learning designer",
+      "excerpt": "Clustering is an unsupervised machine learning technique used to group similar entities based on their features. Learn how to create clustering models using Azure Machine Learning designer.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-create-clustering-model-azure-machine-learning-designer/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-clustering-model-azure-machine-learning-designer/",
+      "length": "PT49M",
       "ratings": {
-        "count": 680,
-        "average": 4.65
+        "count": 209,
+        "average": 4.7177033
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -29,7 +29,7 @@
       "levels": [
         "Beginner"
       ],
-      "heat": 130,
+      "heat": 138,
       "content": "\r\n",
       "type": "course",
       "price": "Free",
@@ -75,231 +75,6 @@
       "topics": [
         "Azure",
         "AI"
-      ]
-    },
-    {
-      "path": "_learning/collections/microsoft-learn-azure-fundamentals-part-2-describe-core-azure-services.md",
-      "title": "Azure Fundamentals part 2: Describe core Azure services",
-      "excerpt": "This learning path provides you with an introduction to the basics of Azure's core services for compute, network, storage, and database.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-azure-fundamentals-part-2-describe-core-azure-services/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-azure-fundamentals-part-2-describe-core-azure-services/",
-      "length": "PT3H12M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "topItems": [
-        {
-          "path": "_learning/courses/microsoft-learn-intro-to-azure-fundamentals.md",
-          "title": "Introduction to Azure fundamentals",
-          "excerpt": "This module introduces you to the basics of Azure.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-to-azure-fundamentals/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/",
-          "length": "PT36M",
-          "ratings": {
-            "count": 1498,
-            "average": 4.757677
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 93,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/intro-to-azure-fundamentals-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-azure-database-fundamentals.md",
-          "title": "Explore Azure database and analytics services",
-          "excerpt": "Learn about the database services that are available on Microsoft Azure, such as Azure Cosmos DB, Azure SQL, Azure Database for MySQL, Azure Database for PostgreSQL, as well as big data and analytics.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-azure-database-fundamentals/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
-          "length": "PT39M",
-          "ratings": {
-            "count": 274,
-            "average": 4.678832
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 61,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/azure-database-fundamentals-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Databases",
-            "Analytics",
-            "AI",
-            "Storage"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-azure-compute-fundamentals.md",
-          "title": "Explore Azure compute services",
-          "excerpt": "Learn about the different services that are available in Azure Compute.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-azure-compute-fundamentals/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-compute-fundamentals/",
-          "length": "PT52M",
-          "ratings": {
-            "count": 206,
-            "average": 4.708738
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 59,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/azure-compute-fundamentals-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Compute",
-            "Web",
-            "Containers"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-azure-storage-fundamentals.md",
-          "title": "Explore Azure Storage services",
-          "excerpt": "Learn about the different storage options that are available in Azure Storage.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-azure-storage-fundamentals/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-storage-fundamentals/",
-          "length": "PT27M",
-          "ratings": {
-            "count": 165,
-            "average": 4.757576
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 58,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/azure-storage-fundamentals-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Storage"
-          ]
-        }
-      ],
-      "size": 5,
-      "heat": 73,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/intro-to-azure-fundamentals-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Compute",
-        "Web",
-        "Storage",
-        "Containers",
-        "Databases",
-        "Analytics",
-        "AI",
-        "Networking"
       ]
     },
     {
@@ -456,7 +231,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 58,
+          "heat": 138,
           "content": "\r\n",
           "type": "course",
           "price": "Free",
@@ -467,13 +242,238 @@
         }
       ],
       "size": 4,
-      "heat": 69,
+      "heat": 75,
       "content": "\r\n",
       "type": "collection",
       "price": "Free",
       "topics": [
         "Azure",
         "AI"
+      ]
+    },
+    {
+      "path": "_learning/collections/microsoft-learn-azure-fundamentals-part-2-describe-core-azure-services.md",
+      "title": "Azure Fundamentals part 2: Describe core Azure services",
+      "excerpt": "This learning path provides you with an introduction to the basics of Azure's core services for compute, network, storage, and database.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-azure-fundamentals-part-2-describe-core-azure-services/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-azure-fundamentals-part-2-describe-core-azure-services/",
+      "length": "PT3H12M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-intro-to-azure-fundamentals.md",
+          "title": "Introduction to Azure fundamentals",
+          "excerpt": "This module introduces you to the basics of Azure.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-to-azure-fundamentals/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/",
+          "length": "PT36M",
+          "ratings": {
+            "count": 1501,
+            "average": 4.757495
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 93,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/intro-to-azure-fundamentals-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-azure-database-fundamentals.md",
+          "title": "Explore Azure database and analytics services",
+          "excerpt": "Learn about the database services that are available on Microsoft Azure, such as Azure Cosmos DB, Azure SQL, Azure Database for MySQL, Azure Database for PostgreSQL, as well as big data and analytics.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-azure-database-fundamentals/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
+          "length": "PT39M",
+          "ratings": {
+            "count": 274,
+            "average": 4.678832
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 61,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/azure-database-fundamentals-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Databases",
+            "Analytics",
+            "AI",
+            "Storage"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-azure-compute-fundamentals.md",
+          "title": "Explore Azure compute services",
+          "excerpt": "Learn about the different services that are available in Azure Compute.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-azure-compute-fundamentals/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-compute-fundamentals/",
+          "length": "PT52M",
+          "ratings": {
+            "count": 207,
+            "average": 4.705314
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 59,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/azure-compute-fundamentals-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Compute",
+            "Web",
+            "Containers"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-azure-storage-fundamentals.md",
+          "title": "Explore Azure Storage services",
+          "excerpt": "Learn about the different storage options that are available in Azure Storage.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-azure-storage-fundamentals/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-storage-fundamentals/",
+          "length": "PT27M",
+          "ratings": {
+            "count": 166,
+            "average": 4.753012
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 58,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/azure-storage-fundamentals-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Storage"
+          ]
+        }
+      ],
+      "size": 5,
+      "heat": 73,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/intro-to-azure-fundamentals-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Compute",
+        "Web",
+        "Storage",
+        "Containers",
+        "Databases",
+        "Analytics",
+        "AI",
+        "Networking"
       ]
     },
     {
@@ -507,8 +507,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-ai-fundamentals/",
           "length": "PT27M",
           "ratings": {
-            "count": 4016,
-            "average": 4.7355576
+            "count": 4018,
+            "average": 4.7354407
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -569,8 +569,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-ai-fundamentals/",
       "length": "PT27M",
       "ratings": {
-        "count": 4016,
-        "average": 4.7355576
+        "count": 4018,
+        "average": 4.7354407
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -605,206 +605,6 @@
       ]
     },
     {
-      "path": "_learning/collections/microsoft-learn-build-ai-solutions-with-azure-machine-learning.md",
-      "title": "Build AI solutions with Azure Machine Learning",
-      "excerpt": "Azure Machine Learning is a cloud platform for training, deploying, managing, and monitoring machine learning models. Learn how to use the Azure Machine Learning Python SDK to create enterprise-ready machine learning solutions.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-build-ai-solutions-with-azure-machine-learning/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-build-ai-solutions-with-azure-machine-learning/",
-      "length": "PT9H13M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "topItems": [
-        {
-          "path": "_learning/courses/microsoft-learn-intro-to-azure-machine-learning-service.md",
-          "title": "Introduction to the Azure Machine Learning SDK",
-          "excerpt": "Azure Machine Learning provides a cloud-based platform for training, deploying, and managing machine learning models.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-to-azure-machine-learning-service/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-machine-learning-service/",
-          "length": "PT40M",
-          "ratings": {
-            "count": 2264,
-            "average": 4.617933
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 54,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/intro-to-azure-machine-learning-service-badge-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "AI",
-            "Developer tools"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-train-local-model-with-azure-mls.md",
-          "title": "Train a machine learning model with Azure Machine Learning",
-          "excerpt": "Learn how to use Azure Machine Learning to train a model and register it in a workspace.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-train-local-model-with-azure-mls/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/train-local-model-with-azure-mls/",
-          "length": "PT40M",
-          "ratings": {
-            "count": 1500,
-            "average": 4.594
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 52,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/train-local-model-with-azure-mls-badge-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "AI"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-work-with-data-in-aml.md",
-          "title": "Work with Data in Azure Machine Learning",
-          "excerpt": "Learn how to work with datastores and datasets in Azure Machine Learning.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-work-with-data-in-aml/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/work-with-data-in-aml/",
-          "length": "PT45M",
-          "ratings": {
-            "count": 680,
-            "average": 4.65
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 130,
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "AI"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-use-compute-contexts-in-aml.md",
-          "title": "Work with Compute in Azure Machine Learning",
-          "excerpt": "Learn how to manage compute contexts for experiments in Azure Machine Learning.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-use-compute-contexts-in-aml/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/use-compute-contexts-in-aml/",
-          "length": "PT45M",
-          "ratings": {
-            "count": 602,
-            "average": 4.629568
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 50,
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "AI"
-          ]
-        }
-      ],
-      "size": 12,
-      "heat": 64,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/intro-to-azure-machine-learning-service-badge-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Management Tools",
-        "AI"
-      ]
-    },
-    {
       "path": "_learning/collections/microsoft-learn-azure-fundamentals-part-3-describe-core-solutions-and-management-tools-on-azure.md",
       "title": "Azure Fundamentals part 3: Describe core solutions and management tools on Azure",
       "excerpt": "Learn how to choose the best services from Azure to build and manage cloud solutions.",
@@ -835,8 +635,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/",
           "length": "PT36M",
           "ratings": {
-            "count": 1498,
-            "average": 4.757677
+            "count": 1501,
+            "average": 4.757495
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1057,6 +857,206 @@
       "price": "Free",
       "topics": [
         "Azure",
+        "AI"
+      ]
+    },
+    {
+      "path": "_learning/collections/microsoft-learn-build-ai-solutions-with-azure-machine-learning.md",
+      "title": "Build AI solutions with Azure Machine Learning",
+      "excerpt": "Azure Machine Learning is a cloud platform for training, deploying, managing, and monitoring machine learning models. Learn how to use the Azure Machine Learning Python SDK to create enterprise-ready machine learning solutions.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-build-ai-solutions-with-azure-machine-learning/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-build-ai-solutions-with-azure-machine-learning/",
+      "length": "PT9H13M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-intro-to-azure-machine-learning-service.md",
+          "title": "Introduction to the Azure Machine Learning SDK",
+          "excerpt": "Azure Machine Learning provides a cloud-based platform for training, deploying, and managing machine learning models.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-to-azure-machine-learning-service/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-machine-learning-service/",
+          "length": "PT40M",
+          "ratings": {
+            "count": 2264,
+            "average": 4.617933
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 54,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/intro-to-azure-machine-learning-service-badge-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "AI",
+            "Developer tools"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-train-local-model-with-azure-mls.md",
+          "title": "Train a machine learning model with Azure Machine Learning",
+          "excerpt": "Learn how to use Azure Machine Learning to train a model and register it in a workspace.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-train-local-model-with-azure-mls/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/train-local-model-with-azure-mls/",
+          "length": "PT40M",
+          "ratings": {
+            "count": 1500,
+            "average": 4.594
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 52,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/train-local-model-with-azure-mls-badge-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "AI"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-work-with-data-in-aml.md",
+          "title": "Work with Data in Azure Machine Learning",
+          "excerpt": "Learn how to work with datastores and datasets in Azure Machine Learning.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-work-with-data-in-aml/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/work-with-data-in-aml/",
+          "length": "PT45M",
+          "ratings": {
+            "count": 680,
+            "average": 4.65
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 50,
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "AI"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-use-compute-contexts-in-aml.md",
+          "title": "Work with Compute in Azure Machine Learning",
+          "excerpt": "Learn how to manage compute contexts for experiments in Azure Machine Learning.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-use-compute-contexts-in-aml/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/use-compute-contexts-in-aml/",
+          "length": "PT45M",
+          "ratings": {
+            "count": 602,
+            "average": 4.629568
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 50,
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "AI"
+          ]
+        }
+      ],
+      "size": 12,
+      "heat": 62,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/intro-to-azure-machine-learning-service-badge-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Management Tools",
         "AI"
       ]
     },
@@ -3122,8 +3122,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-iot-hub/",
           "length": "PT28M",
           "ratings": {
-            "count": 1357,
-            "average": 4.6507
+            "count": 1359,
+            "average": 4.651214
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3165,8 +3165,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-iot-edge/",
           "length": "PT29M",
           "ratings": {
-            "count": 796,
-            "average": 4.643216
+            "count": 797,
+            "average": 4.643664
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3208,8 +3208,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-prebuilt-module-edge-device/",
           "length": "PT56M",
           "ratings": {
-            "count": 386,
-            "average": 4.471503
+            "count": 387,
+            "average": 4.4728684
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3979,8 +3979,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-computer-vision-service-to-classify-images/",
           "length": "PT32M",
           "ratings": {
-            "count": 1362,
-            "average": 4.648311
+            "count": 1363,
+            "average": 4.6478357
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4319,41 +4319,6 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-create-clustering-model-azure-machine-learning-designer.md",
-      "title": "Create a Clustering Model with Azure Machine Learning designer",
-      "excerpt": "Clustering is an unsupervised machine learning technique used to group similar entities based on their features. Learn how to create clustering models using Azure Machine Learning designer.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-create-clustering-model-azure-machine-learning-designer/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-clustering-model-azure-machine-learning-designer/",
-      "length": "PT49M",
-      "ratings": {
-        "count": 209,
-        "average": 4.7177033
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 58,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "AI"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-create-regression-model-azure-machine-learning-designer.md",
       "title": "Create a Regression Model with Azure Machine Learning designer",
       "excerpt": "Regression is a supervised machine learning technique used to predict numeric values. Learn how to create regression models using Azure Machine Learning designer.",
@@ -4508,6 +4473,92 @@
       "price": "Free",
       "topics": [
         "Azure",
+        "AI"
+      ]
+    },
+    {
+      "path": "_learning/collections/microsoft-learn-create-intelligent-bots-with-the-azure-bot-service.md",
+      "title": "Create Intelligent Bots with the Azure Bot Service",
+      "excerpt": "In this learning path, find out how to build a chat bot to interact with customers using text, graphics, or speech with extras from QnA Maker and LUIS.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-create-intelligent-bots-with-the-azure-bot-service/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-create-intelligent-bots-with-the-azure-bot-service/",
+      "length": "PT29M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-build-faq-chatbot-qna-maker-azure-bot-service.md",
+          "title": "Build a bot with QnA Maker and Azure Bot Service",
+          "excerpt": "Learn how to create a bot that answers frequently asked questions.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-build-faq-chatbot-qna-maker-azure-bot-service/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-faq-chatbot-qna-maker-azure-bot-service/",
+          "length": "PT29M",
+          "ratings": {
+            "count": 1654,
+            "average": 4.674728
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 55,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/build-faq-chatbot-qna-maker-azure-bot-service-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "AI"
+          ]
+        }
+      ],
+      "size": 1,
+      "heat": 55,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/build-faq-chatbot-qna-maker-azure-bot-service-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Management Tools",
         "AI"
       ]
     }
