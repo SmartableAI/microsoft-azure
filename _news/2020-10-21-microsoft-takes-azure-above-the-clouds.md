@@ -1,27 +1,23 @@
 ---
 category: news
-title: "Microsoft develops modular Azure data center, with optional satellite connectivity"
-excerpt: "Microsoft has developed a modular container-sized data center to bring the cloud to remote areas. The Azure Modular Datacenter can be optionally connected to satellite communications when terrestrial connectivity is not available."
-publishedDateTime: 2020-10-20T16:58:00Z
-originalUrl: "https://www.datacenterdynamics.com/en/news/microsoft-develops-modular-azure-data-center-optional-satellite-connectivity/"
-webUrl: "https://www.datacenterdynamics.com/en/news/microsoft-develops-modular-azure-data-center-optional-satellite-connectivity/"
+title: "Microsoft takes Azure above the clouds"
+excerpt: "Building on its Project Natick underwater datacentre research project, Microsoft is now heading above the atmosphere with Azure Space. In a blog post describing the company’s plans, Tom Keane ..."
+publishedDateTime: 2020-10-21T08:17:00Z
+originalUrl: "https://www.computerweekly.com/news/252490812/Microsoft-takes-Azure-above-the-clouds"
+webUrl: "https://www.computerweekly.com/news/252490812/Microsoft-takes-Azure-above-the-clouds"
+ampWebUrl: "https://www.computerweekly.com/news/252490812/Microsoft-takes-Azure-above-the-clouds?amp=1"
+cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252490812/Microsoft-takes-Azure-above-the-clouds?amp=1"
 type: article
-quality: 31
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Datacenter Dynamics
-  domain: datacenterdynamics.com
+  name: Computer Weekly
+  domain: computerweekly.com
 
 topics:
   - Azure
-
-images:
-  - url: "https://media.datacenterdynamics.com/media/images/MicrosoftAzureModularDataCenter.2e16d0ba.fill-1200x630.png"
-    width: 1200
-    height: 630
-    isCached: true
 
 related:
   - title: "Microsoft explains how it improved automatic image captioning in Azure Cognitive Services"
@@ -607,17 +603,6 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 37
-  - title: "Microsoft takes Azure above the clouds"
-    excerpt: "Building on its Project Natick underwater datacentre research project, Microsoft is now heading above the atmosphere with Azure Space. In a blog post describing the company’s plans, Tom Keane ..."
-    publishedDateTime: 2020-10-21T08:17:00Z
-    webUrl: "https://www.computerweekly.com/news/252490812/Microsoft-takes-Azure-above-the-clouds"
-    ampWebUrl: "https://www.computerweekly.com/news/252490812/Microsoft-takes-Azure-above-the-clouds?amp=1"
-    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252490812/Microsoft-takes-Azure-above-the-clouds?amp=1"
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 37
   - title: "Microsoft to build Azure Cloud region in Vienna, Austria"
     excerpt: "Microsoft is establishing its first cloud data center region in Vienna, Austria. Microsoft hopes to generate up to $2.1bn in revenue from its presence in Austria over the next four years. Microsoft President Brad Smith announced the news at the Austrian Federal Chancellery alongside Austrian Chancellor Sebastian Kurz,"
     publishedDateTime: 2020-10-21T12:52:00Z
@@ -654,6 +639,20 @@ related:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
+        isCached: true
+  - title: "Microsoft develops modular Azure data center, with optional satellite connectivity"
+    excerpt: "Microsoft has developed a modular container-sized data center to bring the cloud to remote areas. The Azure Modular Datacenter can be optionally connected to satellite communications when terrestrial connectivity is not available."
+    publishedDateTime: 2020-10-20T16:58:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/microsoft-develops-modular-azure-data-center-optional-satellite-connectivity/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 31
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/MicrosoftAzureModularDataCenter.2e16d0ba.fill-1200x630.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Webinar: Transforming Business Models with System Soft Technologies and Microsoft Azure"
     excerpt: "(GLOBE NEWSWIRE) -- System Soft Technologies (SSTech), a leader in enterprise IT services, solutions and products, today announced the company is making available its recent webinar about how organizations are using Microsoft Azure Cloud Services to enhance their business operations and spur growth during these uncertain economic times."
@@ -814,6 +813,6 @@ related:
       domain: seekingalpha.com
     quality: 2
 
-secured: "yuzTWzwoqGZbXZWU6cHnEbcj0+9vCq0eVMPTGkn1nU+7mQbwRVAmvnLwkUd3lWFEd74wHNL9rvYZQGFtwW0IYmKpAN0uq587ND4VH5OpYup9N9LpwvLQ9QkISW6+zVD6p4+W7Uanf8TyOyOBqF8bm+c/pbPC0JUtC8ukXhfOmvx8mMENCscN+ytxfQE6PqsLiVsTH9I6KzXAPKCvko7v/LehV+hMj1mS5sbDWO1fCivEt79b5O1I+7+ijcoPn5s/F1MbY3R+dOpAIjSBFHjWjJb/FDTfhjBEtrtdmX1U/a+OahZQ6ZFblF46TUWyi2/7AnYGtBm/Y3XSy3T/iujs6h8lgE/fKTPRBeqWiy//vZTvIOIZNWU7zY1tuE6afstr9WdR983KuNbbij4yktQdNHPdRB7TE8bo6Yq18SEJPiVTgo8aO4mgw86NpyYm3pwvqM/uPzyHDOcdjE1WTjmN6hdShZoN7Eerp4ZSue3hm9hr60D4mlcheNMPLBZoYDl8cNmWqaYa0RDT7LD8BgTJSw==;JuvyBfbnGKO6mX92UhNt3w=="
+secured: "kCS2+K003PlNJ2sN1sSK+z6jUKrDkZUdwVeZ0UsAtUJIfzrkPwsJ6tLxY0wulYY7XQI2a7vNDOzLKgTsDEhIg526Jcx1WBsk3uc9fCEAHeyI2FlgjNPPVBXANmIUXh9iMqOgAU9uHvqt8SsRZzuAu5tzHP19gRajO6vYJxPe0m1oVGGDvw5mYSqcQPFpa8O53usXBDO6+ORHpS6k/bdXpBTxZEhjXNf1Joj0NIS+Jn3Cu3bheag4jHWDlu6SofffV3TPPenH2VoDvIviucbSbFRbsE2by9jApvQtXF+UaIVmpf/jjfbHtGz6lzsFYFT6nIW6nuNos2UAI64Nt3phm/z4HtmtwBJDNjLylReEOpM=;+tghMaQZRtiXCOYEvtzEyg=="
 ---
 

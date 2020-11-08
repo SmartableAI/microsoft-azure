@@ -596,6 +596,17 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 37
+  - title: "Microsoft takes Azure above the clouds"
+    excerpt: "Building on its Project Natick underwater datacentre research project, Microsoft is now heading above the atmosphere with Azure Space. In a blog post describing the company’s plans, Tom Keane ..."
+    publishedDateTime: 2020-10-21T08:17:00Z
+    webUrl: "https://www.computerweekly.com/news/252490812/Microsoft-takes-Azure-above-the-clouds"
+    ampWebUrl: "https://www.computerweekly.com/news/252490812/Microsoft-takes-Azure-above-the-clouds?amp=1"
+    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252490812/Microsoft-takes-Azure-above-the-clouds?amp=1"
+    type: article
+    provider:
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 37
   - title: "Microsoft to build Azure Cloud region in Vienna, Austria"
     excerpt: "Microsoft is establishing its first cloud data center region in Vienna, Austria. Microsoft hopes to generate up to $2.1bn in revenue from its presence in Austria over the next four years. Microsoft President Brad Smith announced the news at the Austrian Federal Chancellery alongside Austrian Chancellor Sebastian Kurz,"
     publishedDateTime: 2020-10-21T12:52:00Z

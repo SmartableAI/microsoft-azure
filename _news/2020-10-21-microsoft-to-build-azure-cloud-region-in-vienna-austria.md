@@ -607,6 +607,17 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 37
+  - title: "Microsoft takes Azure above the clouds"
+    excerpt: "Building on its Project Natick underwater datacentre research project, Microsoft is now heading above the atmosphere with Azure Space. In a blog post describing the company’s plans, Tom Keane ..."
+    publishedDateTime: 2020-10-21T08:17:00Z
+    webUrl: "https://www.computerweekly.com/news/252490812/Microsoft-takes-Azure-above-the-clouds"
+    ampWebUrl: "https://www.computerweekly.com/news/252490812/Microsoft-takes-Azure-above-the-clouds?amp=1"
+    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252490812/Microsoft-takes-Azure-above-the-clouds?amp=1"
+    type: article
+    provider:
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 37
   - title: "Tamr Announces the Only Cloud-Native Data Mastering Solutions for Google Cloud Platform, AWS, and Microsoft Azure"
     excerpt: "PRNewswire/ -- Tamr, Inc., a cloud-native data mastering platform used by some of the world's largest enterprises"
     publishedDateTime: 2020-10-07T13:35:00Z
