@@ -6,7 +6,7 @@ publishedDateTime: 2020-04-17T21:02:00Z
 webUrl: "https://washingtontechnology.com/articles/2020/04/16/jedi-ig-reax-testimony.aspx"
 type: article
 quality: 22
-heat: 22
+heat: 82
 published: false
 
 provider:
