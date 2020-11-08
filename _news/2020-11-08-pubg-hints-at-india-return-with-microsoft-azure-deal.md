@@ -1,26 +1,28 @@
 ---
 category: news
-title: "Microsoft’s Azure cloud platform will be the brain for their future autonomous robots!"
-excerpt: "Azure is run by Artificial Intelligence that provides users with a customizable space to work, save, share, and connect through multi-functional, serverless software. Halawany’s robot renders for Microsoft Middle East,"
-publishedDateTime: 2020-11-07T01:45:00Z
-originalUrl: "https://www.yankodesign.com/2020/11/06/microsofts-azure-cloud-platform-will-be-the-brain-for-their-future-autonomous-robots/"
-webUrl: "https://www.yankodesign.com/2020/11/06/microsofts-azure-cloud-platform-will-be-the-brain-for-their-future-autonomous-robots/"
+title: "PUBG hints at India return with Microsoft Azure deal"
+excerpt: "Azure is Microsoft’s cloud computing service that allows game creators to build and run their games on a global scale."
+publishedDateTime: 2020-11-08T09:55:00Z
+originalUrl: "https://www.thehindu.com/sci-tech/technology/pubg-hints-at-india-return-with-microsoft-azure-deal/article33051804.ece"
+webUrl: "https://www.thehindu.com/sci-tech/technology/pubg-hints-at-india-return-with-microsoft-azure-deal/article33051804.ece"
+ampWebUrl: "https://www.thehindu.com/sci-tech/technology/pubg-hints-at-india-return-with-microsoft-azure-deal/article33051804.ece/amp/"
+cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/pubg-hints-at-india-return-with-microsoft-azure-deal/article33051804.ece/amp/"
 type: article
-quality: 29
+quality: 57
 heat: -1
 published: false
 
 provider:
-  name: Yanko Design
-  domain: yankodesign.com
+  name: The Hindu
+  domain: thehindu.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://www.yankodesign.com/images/design_news/2020/10/worlds_most_secure_portable_SSD-510x314.jpg"
-    width: 510
-    height: 314
+  - url: "https://www.thehindu.com/sci-tech/technology/lgkedg/article33051813.ece/ALTERNATES/LANDSCAPE_615/pubg-returnjpeg"
+    width: 615
+    height: 384
     isCached: true
 
 related:
@@ -101,22 +103,6 @@ related:
       - url: "https://images.livemint.com/img/2020/11/07/600x338/AFP_1HY6EA_1564125018144_1604737011910.jpg"
         width: 600
         height: 337
-        isCached: true
-  - title: "PUBG hints at India return with Microsoft Azure deal"
-    excerpt: "Azure is Microsoft’s cloud computing service that allows game creators to build and run their games on a global scale."
-    publishedDateTime: 2020-11-08T09:55:00Z
-    webUrl: "https://www.thehindu.com/sci-tech/technology/pubg-hints-at-india-return-with-microsoft-azure-deal/article33051804.ece"
-    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/pubg-hints-at-india-return-with-microsoft-azure-deal/article33051804.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/pubg-hints-at-india-return-with-microsoft-azure-deal/article33051804.ece/amp/"
-    type: article
-    provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 57
-    images:
-      - url: "https://www.thehindu.com/sci-tech/technology/lgkedg/article33051813.ece/ALTERNATES/LANDSCAPE_615/pubg-returnjpeg"
-        width: 615
-        height: 384
         isCached: true
   - title: "DH2i's DxOdyssey for IoT Now Available in the Microsoft Azure Marketplace"
     excerpt: "Oct. 28, 2020 /PRNewswire/ -- DH2i®, a leading provider of multi-platform Software Defined Perimeter (SDP) and Smart Availability software, today announced the availability of DxOdyssey for IoT in the Microsoft Azure Marketplace, an online store ..."
@@ -238,6 +224,20 @@ related:
         width: 974
         height: 510
         isCached: true
+  - title: "Microsoft’s Azure cloud platform will be the brain for their future autonomous robots!"
+    excerpt: "Azure is run by Artificial Intelligence that provides users with a customizable space to work, save, share, and connect through multi-functional, serverless software. Halawany’s robot renders for Microsoft Middle East,"
+    publishedDateTime: 2020-11-07T01:45:00Z
+    webUrl: "https://www.yankodesign.com/2020/11/06/microsofts-azure-cloud-platform-will-be-the-brain-for-their-future-autonomous-robots/"
+    type: article
+    provider:
+      name: Yanko Design
+      domain: yankodesign.com
+    quality: 29
+    images:
+      - url: "https://www.yankodesign.com/images/design_news/2020/10/worlds_most_secure_portable_SSD-510x314.jpg"
+        width: 510
+        height: 314
+        isCached: true
   - title: "Cloud Computing in a Shipping Container: Microsoft Introduces the Azure Modular Datacenter"
     excerpt: "Microsoft recently announced a new Azure in a shipping container service called Azure Modular Datacenter. The new offer provides an option for setting up an Azure datacenter in hybrid or challenging environments where cloud computing previously would not have been possible."
     publishedDateTime: 2020-11-05T12:10:00Z
@@ -333,6 +333,6 @@ related:
         height: 293
         isCached: true
 
-secured: "hChgAk0IpVJWLc/eKkiFlTRYMEKkCQMcKNCnSDvHNzNawdToE7he+VceGcumhUCR9xXhN9CyQpym9ZIe8UXO35XFmi7aGXwV3qVhdKu4M2VQnbt1ASOpw7Zpsb4mrZmfvA2xm1sOl1Uix41InhRIFN9bolNKxxI+R7aUDxLbp/hPqdJL8DuAqD04MKRWVXJ1elUOEVhcKORV/+bIcPxWb2XKv2gfPI7v1qQr4/T5O7wkqpW3QRMgrRep1LUueBExRAcL1Zy1B6AFOndUk/ncWRMnirY0vSwqngb+HdJ1aY5FExjS1JPTAr/HfufxzIWLnNddJmCJ18K5X/GcW4A+eVxpFvwEWTL4KDCPJ9BA+jc2ZKMwZAERznjlL4EaustJdcLwRlxcjGxNn81+W0BuW/3EedItgPBNLYKzFIMrfnOADFcJJwInILY6EQXOV5L11kW+J7gacjibjSDz5RB0Un5Mifi+2GY+JZaIlsFEOdH+kFbvxX2ZALNhnueXkGOAEB9bbRtu8zSNUS/GDwA4MQ==;bgqS264sXHE7GT0U9LAGiw=="
+secured: "KsI4V8GviFXQo4/3CIXCUWFZjRkO8aFT0FSKSROGHvfM+cYCwB+n0l87jDl5vKwqb2aGlozmld2K+qRDLmJ8wBsi16u0Qpl9ZUY/DrE+yRvRVSMFwPT2iOmkwNEAbj7IZELQfJKzadarjtQs1o2N7AGvabAKUShcafrkjYlH6sYm7SDUaq5BvfPGQfeAjHrbIUyLG/xqw+wAWaeQBJQIAA2zJEAc1xhgBvdqEPpZ5g/N54C2gKzS6YjHfET7V0igQCxuvBvZikKO4CoPHSYlFxKK9avAC1JbjjCdeXSx548Y2MWN2AKIaCpniUlD753oLd8TZ7MvEjRql9oql7W5v1h3lZ2vOUj1vNoBR2s97qA=;AQOXqnCwzJBsFjarjmoSXg=="
 ---
 

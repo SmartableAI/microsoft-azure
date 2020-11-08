@@ -103,6 +103,22 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "PUBG hints at India return with Microsoft Azure deal"
+    excerpt: "Azure is Microsoft’s cloud computing service that allows game creators to build and run their games on a global scale."
+    publishedDateTime: 2020-11-08T09:55:00Z
+    webUrl: "https://www.thehindu.com/sci-tech/technology/pubg-hints-at-india-return-with-microsoft-azure-deal/article33051804.ece"
+    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/pubg-hints-at-india-return-with-microsoft-azure-deal/article33051804.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/pubg-hints-at-india-return-with-microsoft-azure-deal/article33051804.ece/amp/"
+    type: article
+    provider:
+      name: The Hindu
+      domain: thehindu.com
+    quality: 57
+    images:
+      - url: "https://www.thehindu.com/sci-tech/technology/lgkedg/article33051813.ece/ALTERNATES/LANDSCAPE_615/pubg-returnjpeg"
+        width: 615
+        height: 384
+        isCached: true
   - title: "Microsoft to establish its first datacenter region in Taiwan "
     excerpt: "The new region is anticipated to include Microsoft Azure, with Microsoft 365, Dynamics 365 and Power Platform to follow."
     publishedDateTime: 2020-10-27T16:05:07Z

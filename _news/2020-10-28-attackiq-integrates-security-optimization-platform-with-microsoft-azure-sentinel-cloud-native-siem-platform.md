@@ -103,6 +103,22 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "PUBG hints at India return with Microsoft Azure deal"
+    excerpt: "Azure is Microsoft’s cloud computing service that allows game creators to build and run their games on a global scale."
+    publishedDateTime: 2020-11-08T09:55:00Z
+    webUrl: "https://www.thehindu.com/sci-tech/technology/pubg-hints-at-india-return-with-microsoft-azure-deal/article33051804.ece"
+    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/pubg-hints-at-india-return-with-microsoft-azure-deal/article33051804.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/pubg-hints-at-india-return-with-microsoft-azure-deal/article33051804.ece/amp/"
+    type: article
+    provider:
+      name: The Hindu
+      domain: thehindu.com
+    quality: 57
+    images:
+      - url: "https://www.thehindu.com/sci-tech/technology/lgkedg/article33051813.ece/ALTERNATES/LANDSCAPE_615/pubg-returnjpeg"
+        width: 615
+        height: 384
+        isCached: true
   - title: "DH2i's DxOdyssey for IoT Now Available in the Microsoft Azure Marketplace"
     excerpt: "Oct. 28, 2020 /PRNewswire/ -- DH2i®, a leading provider of multi-platform Software Defined Perimeter (SDP) and Smart Availability software, today announced the availability of DxOdyssey for IoT in the Microsoft Azure Marketplace, an online store ..."
     publishedDateTime: 2020-10-28T13:16:00Z
