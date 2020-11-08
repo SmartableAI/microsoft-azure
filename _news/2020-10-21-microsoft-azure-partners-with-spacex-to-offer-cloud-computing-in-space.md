@@ -1,23 +1,33 @@
 ---
 category: news
 title: "Microsoft Azure Partners With SpaceX to Offer Cloud Computing in Space"
-excerpt: "Microsoft (NASDAQ: MSFT) announced today that it would partner with Elon Musk's SpaceX and others to bring cloud computing to the \"final frontier.\" The initiative, dubbed Azure Space, will use the ..."
-publishedDateTime: 2020-10-20T18:19:00Z
-originalUrl: "https://www.nasdaq.com/articles/microsoft-azure-partners-with-spacex-to-offer-cloud-computing-in-space-2020-10-20"
-webUrl: "https://www.nasdaq.com/articles/microsoft-azure-partners-with-spacex-to-offer-cloud-computing-in-space-2020-10-20"
-ampWebUrl: "https://www.nasdaq.com/articles/microsoft-azure-partners-with-spacex-to-offer-cloud-computing-in-space-2020-10-20?amp"
-cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/microsoft-azure-partners-with-spacex-to-offer-cloud-computing-in-space-2020-10-20?amp"
+excerpt: "Follow @dannyvena Microsoft (NASDAQ:MSFT) announced today that it would partner with Elon Musk's SpaceX and others to bring cloud computing to the \"final frontier.\" The initiative, dubbed Azure ..."
+publishedDateTime: 2020-10-20T18:10:00Z
+originalUrl: "https://www.fool.com/investing/2020/10/20/microsoft-azure-partners-with-spacex-to-offer-clou/"
+webUrl: "https://www.fool.com/investing/2020/10/20/microsoft-azure-partners-with-spacex-to-offer-clou/"
+ampWebUrl: "https://www.fool.com/amp/investing/2020/10/20/microsoft-azure-partners-with-spacex-to-offer-clou/"
+cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/10/20/microsoft-azure-partners-with-spacex-to-offer-clou/"
 type: article
-quality: 77
+quality: 97
 heat: -1
 published: false
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: The Motley Fool
+  domain: fool.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/fool.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
+
+images:
+  - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F595772%2Fsatellite-in-space-orbiting-the-earth.jpg&w=1200&op=resize"
+    width: 1200
+    height: 960
+    isCached: true
 
 related:
   - title: "Microsoft explains how it improved automatic image captioning in Azure Cognitive Services"
@@ -797,6 +807,6 @@ related:
       domain: seekingalpha.com
     quality: 2
 
-secured: "vMxxFZLegTzabjlvD0bnAL6A2Zt+miUjnw5edtjHszFlGkIwVkKooQnEXJMZ0FGHEwVqbQ2h7O4k5BxIL+JuD33J/pwbmAeCfSrb9BobS/hjoAn3Tb+CZd/uyYoksv/VXKtCPH5DhLJcaezAj5ZAIBHXCbOfia0uxzLJglkYKTw1POpQ4eMBqAnn+/otAkrg9wb6ZSFiq2PsjvEfs9XoxMswSlvKdQWobyqLX9QFShqUUbAGMw4zUsOyMheuyLhRqcdga4uNunnKSDlsZKTYkpq2N76SAJ0MHPHZffOcbD+J0EYpNZfkM8pzEw+atJ8VFwjgZazJ7lwGiFZPpuXQDmk7sgZgh0bYoHbycCKcFRA=;Cb+yw8KeUm5JsbBuRiJ5WQ=="
+secured: "cx/wUfaOhB3OHpJYMm5yeOG/qsFzfI3sHoNaoVNTdawM8wO3dl1ItskuBRP5hQ1HCrmD78xBArhN9hUNw1erlhLWXWm29soJLkgo0Jkc2XZJnoqZIhn0gaUegohS7m6/T1xS15QjaVZozeCnZbhfigJoTvM4lGJtOJL/QAOYRG3AOVuHEywwh96NA1TFi2mYsusE47gq0o2RGGmqDNiGUT2tiwMb3UsyG7fNiBUoH7D/k/fq85qAHMYwgnisN/MpfkE74houKiV62OXJIXhOIgs0fa2R4yxGhXE1QtWcDYVfBYyjrHwv+boPzLuwda7jbYorSJeiMS+eSu8BWVPdrHCW9ve0nIubY23CFFZhzkk=;OvqXaq3BtuQS2C8ENul/hw=="
 ---
 
