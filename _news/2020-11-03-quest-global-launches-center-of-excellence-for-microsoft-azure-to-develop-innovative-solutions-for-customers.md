@@ -1,26 +1,26 @@
 ---
 category: news
 title: "QuEST Global launches Center of Excellence for Microsoft Azure to develop innovative solutions for customers"
-excerpt: "QuEST Global, a global product engineering and lifecycle services company, today announced it has signed an agreement with Microsoft to launch a dedicated Center for Excellence (CoE) for Microsoft Azure."
-publishedDateTime: 2020-11-03T12:00:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-pune-products-and-services-f8ffb465162d071f3e77db0782e3abf3"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-pune-products-and-services-f8ffb465162d071f3e77db0782e3abf3"
+excerpt: "They will be able to execute prototype and solution development rapidly, experience the latest Microsoft Azure innovations applied in real industry scenarios, engage in high tech workshops ..."
+publishedDateTime: 2020-11-03T12:45:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/quest-global-launches-center-of-excellence-for-microsoft-azure-to-develop-innovative-solutions-for-customers/article_322ca043-1499-55c5-b278-12ea071f0420.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/quest-global-launches-center-of-excellence-for-microsoft-azure-to-develop-innovative-solutions-for-customers/article_322ca043-1499-55c5-b278-12ea071f0420.html"
 type: article
 quality: 18
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+    width: 1280
+    height: 720
     isCached: true
 
 related:
@@ -317,6 +317,6 @@ related:
         height: 293
         isCached: true
 
-secured: "Mh3S4bMf9gCU2YysEyg9OnMXUk06PuE+XTFZbEG3rx9yc32MDCT3cGjWcXWW7v9G3988/WhVCgGblJrddFAHcOEHPbIHvcmdtjYhLrPs4Tu6SxplyW7pcscuySzW+/ef5okMonZAa/C/FrilHvVjW4jG/G3Kj3aXZLLu6PCkhd8f9M9KSdceghwFIEgG6KjBq2xcrrj4D/4Z4g+BCa7PoeHQ2avrol5nIDga+F0fclG9zdzWFkoTcM5web8GROp86FFHzkbeFye8DTAxPYOvjDxZoNeoIxAxqx6w5phmyzdTi+MdNP38ElM0ljVBCqBk7o4TFYSN18KgCEkEdRBp9hg2TlxnN4b8pibSCSQ9MFk=;3jO1www9rKzXfNfScGYoYQ=="
+secured: "xa8RdmM3hKy2+wjwiRuilELm0awY1B+/Dnrrb1H+rqQDyO5I2IBqrUrQiyZWQOW6pQqF0yfk4/1UhdIlDoFTajFdY8HjRbNvzhSuGavS6zevYos9w9PlzowZSNYbUm4UCV2WV9gW+qOhe1bbxyFTTVY7lQx6CW0l4SZ2zeMP/JZL4LpWybcMEaRMiS0SvIbiVodWT8gRKaOxs5b7bGQcmkOTqS6ZdjrqHW3LOwTq40Y5TBDao5yuXKhf5OPFDy5I2qvAkCJk9EtQ5Jh8F6pFl0xy5KG/ToQeMNCfPhtZ6BHyXGXD/1wbvJ7GpVPTuWi3Go1fNVQ5pGi4LQqOesmrWtjHfezV5fph9hN7JEk8IMc=;Ub9NfFGoyTQOdaydg7Y69w=="
 ---
 
