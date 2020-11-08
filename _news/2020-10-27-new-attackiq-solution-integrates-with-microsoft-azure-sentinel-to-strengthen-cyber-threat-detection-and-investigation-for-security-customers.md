@@ -279,18 +279,18 @@ related:
       domain: itbusinessedge.com
     quality: 21
   - title: "QuEST Global launches Center of Excellence for Microsoft Azure to develop innovative solutions for customers"
-    excerpt: "They will be able to execute prototype and solution development rapidly, experience the latest Microsoft Azure innovations applied in real industry scenarios, engage in high tech workshops ..."
-    publishedDateTime: 2020-11-03T12:45:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/quest-global-launches-center-of-excellence-for-microsoft-azure-to-develop-innovative-solutions-for-customers/article_322ca043-1499-55c5-b278-12ea071f0420.html"
+    excerpt: "QuEST Global, a global product engineering and lifecycle services company, today announced it has signed an agreement with Microsoft to launch a dedicated Center for Excellence (CoE) for Microsoft Azure."
+    publishedDateTime: 2020-11-03T12:00:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-pune-products-and-services-f8ffb465162d071f3e77db0782e3abf3"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
+      name: Associated Press
+      domain: apnews.com
     quality: 18
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-        width: 1280
-        height: 720
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
   - title: "Around 15,000 servers needed for new Microsoft Azure datacenter in Taiwan"
     excerpt: "An estimated 15,000 servers will be needed to support Microsoft's new Azure datacenter that will be unveiled in Taiwan by the end of 2021 at the earliest, according to industry sources."
