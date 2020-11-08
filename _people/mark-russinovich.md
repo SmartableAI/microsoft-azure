@@ -18,7 +18,7 @@ website: https://t.co/BJ4Ib1CWli
 twitter:
   username: markrussinovich
   url: https://twitter.com/markrussinovich
-  followers: 103288
+  followers: 103279
 
 linkedin:
   url: https://www.linkedin.com/in/markrussinovich/
