@@ -11,8 +11,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-azure-vm-templates/",
       "length": "PT37M",
       "ratings": {
-        "count": 8673,
-        "average": 4.663784
+        "count": 8674,
+        "average": 4.663823
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -93,8 +93,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-the-right-disk-storage-for-vm-workload/",
       "length": "PT24M",
       "ratings": {
-        "count": 1791,
-        "average": 4.6744833
+        "count": 1792,
+        "average": 4.674665
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -290,8 +290,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/add-and-size-disks-in-azure-virtual-machines/",
       "length": "PT36M",
       "ratings": {
-        "count": 2316,
-        "average": 4.658031
+        "count": 2317,
+        "average": 4.658179
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -326,8 +326,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-long-running-serverless-workflow-with-durable-functions/",
       "length": "PT46M",
       "ratings": {
-        "count": 2726,
-        "average": 4.462216
+        "count": 2727,
+        "average": 4.462413
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -444,8 +444,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-app-with-scale-sets/",
       "length": "PT57M",
       "ratings": {
-        "count": 5838,
-        "average": 4.7218227
+        "count": 5839,
+        "average": 4.72187
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -480,50 +480,6 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-deploy-sql-server-virtual-machine.md",
-      "title": "Deploy SQL Server in a virtual machine",
-      "excerpt": "Configure virtual machine sizing, storage, and networking options to ensure adequate performance for your database workloads. Choose and configure appropriate high availability options. Investigate options for migrating existing workloads.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-deploy-sql-server-virtual-machine/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-sql-server-virtual-machine/",
-      "length": "PT60M",
-      "ratings": {
-        "count": 2722,
-        "average": 4.7832475
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/deploy-sql-server-in-a-virtual-machine-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Databases",
-        "Compute"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-keep-your-virtual-machines-updated.md",
       "title": "Keep your virtual machines updated",
       "excerpt": "Learn to use Azure Update Management to update virtual machines, verify agent connectivity, and use Azure Log Analytics in your cloud environment.",
@@ -531,8 +487,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/keep-your-virtual-machines-updated/",
       "length": "PT35M",
       "ratings": {
-        "count": 2861,
-        "average": 4.4959803
+        "count": 2862,
+        "average": 4.4961567
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -611,8 +567,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-your-azure-virtual-machine-disks/",
       "length": "PT1H1M",
       "ratings": {
-        "count": 2684,
-        "average": 4.660581
+        "count": 2685,
+        "average": 4.6607075
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1872,6 +1828,53 @@
         "Containers",
         "Mobile",
         "Management Tools"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-aspnet-session.md",
+      "title": "Improve session scalability in a .NET Framework ASP.NET web application by using Azure Cache for Redis",
+      "excerpt": "Learn how to use Azure Cache for Redis to store session data and improve the scalability of web applications.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-aspnet-session/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/aspnet-session/",
+      "length": "PT29M",
+      "ratings": {
+        "count": 9,
+        "average": 4.7777777
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/aspnet-session-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Web",
+        "Compute",
+        "Containers",
+        "Mobile",
+        "Databases"
       ]
     }
   ],
