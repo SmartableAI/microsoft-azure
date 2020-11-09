@@ -1,26 +1,29 @@
 ---
 category: news
-title: "QuEST Global launches Center of Excellence for Microsoft Azure to develop innovative solutions for customers"
-excerpt: "QuEST Global, a global product engineering and lifecycle services company, today announced it has signed an agreement with Microsoft to launch a dedicated Center for Excellence (CoE) for Microsoft Azure."
-publishedDateTime: 2020-11-03T12:00:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-pune-products-and-services-f8ffb465162d071f3e77db0782e3abf3"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-pune-products-and-services-f8ffb465162d071f3e77db0782e3abf3"
+title: "PUBG Mobile could return to India on Microsoft's Azure cloud services"
+excerpt: "With India's banning of various Chinese publishers in the country, PUBG Mobile has remained banned, but it could return to the country on Microsoft Azure's Cloud. As the political and military situation between India and China has remained intense ..."
+publishedDateTime: 2020-11-09T20:58:00Z
+originalUrl: "https://www.shacknews.com/article/121399/pubg-mobile-could-return-to-india-on-microsofts-azure-cloud-services"
+webUrl: "https://www.shacknews.com/article/121399/pubg-mobile-could-return-to-india-on-microsofts-azure-cloud-services"
+ampWebUrl: "https://www.shacknews.com/article/121399/pubg-mobile-could-return-to-india-on-microsofts-azure-cloud-services?amphtml=1"
+cdnAmpWebUrl: "https://www-shacknews-com.cdn.ampproject.org/c/s/www.shacknews.com/article/121399/pubg-mobile-could-return-to-india-on-microsofts-azure-cloud-services?amphtml=1"
 type: article
-quality: 18
+quality: 74
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Shacknews
+  domain: shacknews.com
 
 topics:
   - Azure
+  - Mobile
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://d1lss44hh2trtw.cloudfront.net/assets/article/2020/11/09/pubg-mobile-could-return-to-india-on-microsofts-azure-cloud-services_feature.jpg"
+    width: 1280
+    height: 720
     isCached: true
 
 related:
@@ -117,22 +120,6 @@ related:
       - url: "https://www.deccanherald.com/sites/dh/files/articleimages/2020/11/09/pubg-mobile-913317-1604911225.jpg"
         width: 1280
         height: 628
-        isCached: true
-  - title: "PUBG Mobile could return to India on Microsoft's Azure cloud services"
-    excerpt: "With India's banning of various Chinese publishers in the country, PUBG Mobile has remained banned, but it could return to the country on Microsoft Azure's Cloud. As the political and military situation between India and China has remained intense ..."
-    publishedDateTime: 2020-11-09T20:58:00Z
-    webUrl: "https://www.shacknews.com/article/121399/pubg-mobile-could-return-to-india-on-microsofts-azure-cloud-services"
-    ampWebUrl: "https://www.shacknews.com/article/121399/pubg-mobile-could-return-to-india-on-microsofts-azure-cloud-services?amphtml=1"
-    cdnAmpWebUrl: "https://www-shacknews-com.cdn.ampproject.org/c/s/www.shacknews.com/article/121399/pubg-mobile-could-return-to-india-on-microsofts-azure-cloud-services?amphtml=1"
-    type: article
-    provider:
-      name: Shacknews
-      domain: shacknews.com
-    quality: 74
-    images:
-      - url: "https://d1lss44hh2trtw.cloudfront.net/assets/article/2020/11/09/pubg-mobile-could-return-to-india-on-microsofts-azure-cloud-services_feature.jpg"
-        width: 1280
-        height: 720
         isCached: true
   - title: "PUBG Mobile Partners With Microsoft Azure Cloud Services; Comeback In India Likely"
     excerpt: "Krafton, a South Korean conglomerate will now be working with Microsoft Azure for all PUBG PC, Mobile, and Console platforms. The press release by the company notes that the collaboration aims to ensure privacy rights are respected."
@@ -339,6 +326,20 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "QuEST Global launches Center of Excellence for Microsoft Azure to develop innovative solutions for customers"
+    excerpt: "QuEST Global, a global product engineering and lifecycle services company, today announced it has signed an agreement with Microsoft to launch a dedicated Center for Excellence (CoE) for Microsoft Azure."
+    publishedDateTime: 2020-11-03T12:00:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-pune-products-and-services-f8ffb465162d071f3e77db0782e3abf3"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 18
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Around 15,000 servers needed for new Microsoft Azure datacenter in Taiwan"
     excerpt: "An estimated 15,000 servers will be needed to support Microsoft's new Azure datacenter that will be unveiled in Taiwan by the end of 2021 at the earliest, according to industry sources."
     publishedDateTime: 2020-11-03T06:29:00Z
@@ -381,6 +382,6 @@ related:
         height: 293
         isCached: true
 
-secured: "0BqQ6oqE3xbTca47wyCVvT388h/RpVZNv12jFIRj0YlEZVyoZFoJ0UMotF+yUb3EbCAK7AHaQpX16E4+SO+bQA0vlmQ4CTu2nLS4SkE1wjDWK4Z8VnO0wuy73cmWd7qQTCYctlJ8YU0TLxrNW/ixs6o3gTJ7qqM429qlUcyXIPqwbU/p6M098Qa6yRoGsy9ktQkCGOumVa20192QqWDksJ+Han3Wocz3303UsMkbciFxvRtaCd2zPelYpCpy/GjoZJN7UQ+IzsMdyX30mp3Om4s27utL1IKCNAr6xYVxx/asU2+jtr/z0NT9rGMhCc+M9N+wns4FX+PWt1uE7lV51Mbhv8UDXFP1L6z1e3eM0kw=;hzVQMyQYXZbAQXV2WOLKGg=="
+secured: "+ydsiRvwh+9BdodGWbBwFmVpWTrkfabtDc+wvODYw48ijRtNqNSoJ42uEn/Rf66OH+8VBScWSBqWbSGHLhi8aiXXA0Xhatifvip/tjyHMSWAcZNYm9tDTNEk1HI23ABHji6THWSQfIpSUl91hkQ8QSpRTpTHhCoyPHZ8r8XqPlg7WJ+omuKo599MenX7G6ECevlRU8Vrv25rhLMPKuQm8B47Pf0Fzd5bWJuEq9+nvhBCxc8/SE3mAlyZm7/dBG6zI9QmLLYqUBwXU35/32q9rYzOrnzH43/NwgBMuLaXnRVQw7qU3Tv58Hu+v5GVpkkP8rPb+PrVWI95Ji4CZkGWhx5hmZW7JPTS2nywdbJ0l/4=;m11zVGuH+W5DOuQmP+Fj0Q=="
 ---
 

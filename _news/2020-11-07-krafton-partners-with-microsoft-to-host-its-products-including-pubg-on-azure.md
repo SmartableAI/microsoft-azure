@@ -108,6 +108,22 @@ related:
         width: 1280
         height: 628
         isCached: true
+  - title: "PUBG Mobile could return to India on Microsoft's Azure cloud services"
+    excerpt: "With India's banning of various Chinese publishers in the country, PUBG Mobile has remained banned, but it could return to the country on Microsoft Azure's Cloud. As the political and military situation between India and China has remained intense ..."
+    publishedDateTime: 2020-11-09T20:58:00Z
+    webUrl: "https://www.shacknews.com/article/121399/pubg-mobile-could-return-to-india-on-microsofts-azure-cloud-services"
+    ampWebUrl: "https://www.shacknews.com/article/121399/pubg-mobile-could-return-to-india-on-microsofts-azure-cloud-services?amphtml=1"
+    cdnAmpWebUrl: "https://www-shacknews-com.cdn.ampproject.org/c/s/www.shacknews.com/article/121399/pubg-mobile-could-return-to-india-on-microsofts-azure-cloud-services?amphtml=1"
+    type: article
+    provider:
+      name: Shacknews
+      domain: shacknews.com
+    quality: 74
+    images:
+      - url: "https://d1lss44hh2trtw.cloudfront.net/assets/article/2020/11/09/pubg-mobile-could-return-to-india-on-microsofts-azure-cloud-services_feature.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "PUBG Mobile Partners With Microsoft Azure Cloud Services; Comeback In India Likely"
     excerpt: "Krafton, a South Korean conglomerate will now be working with Microsoft Azure for all PUBG PC, Mobile, and Console platforms. The press release by the company notes that the collaboration aims to ensure privacy rights are respected."
     publishedDateTime: 2020-11-09T09:29:00Z
