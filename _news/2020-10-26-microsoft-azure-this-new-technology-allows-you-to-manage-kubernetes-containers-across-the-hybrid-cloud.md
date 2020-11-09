@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/microsoft-azure-this
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-azure-this-new-technology-allows-you-to-manage-kubernetes-containers-across-the-hybrid-cloud/"
 type: article
 quality: 113
-heat: 793
+heat: 813
 published: true
 
 provider:
@@ -264,6 +264,22 @@ related:
       - url: "https://www.valleymorningstar.com/wp-content/uploads/sites/63/2020/07/GET-IT-NOW-BUTTON.png"
         width: 576
         height: 288
+        isCached: true
+  - title: "Microsoft teams up with SpaceX to launch Azure Space to bring cloud computing into the final frontier"
+    excerpt: "Microsoft has teamed up with SpaceX and SES to launch the tech giant's new cloud computing business for space Azure Space, Microsoft's cloud computing platform Azure, aims to offer mobile cloud ..."
+    publishedDateTime: 2020-10-21T11:28:00Z
+    webUrl: "https://www.space.com/microsoft-launches-azure-space-cloud-computing"
+    ampWebUrl: "https://www.space.com/amp/microsoft-launches-azure-space-cloud-computing"
+    cdnAmpWebUrl: "https://www-space-com.cdn.ampproject.org/c/s/www.space.com/amp/microsoft-launches-azure-space-cloud-computing"
+    type: article
+    provider:
+      name: Space.com
+      domain: space.com
+    quality: 42
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/a7CuabArsbSLoEURsCbF8j-1200-80.png"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Congruity360 Now Available in the Microsoft Azure Marketplace"
     excerpt: "NORWELL, Mass., Oct. 22, 2020 /PRNewswire/ -- Congruity360, data governance and storage leader, today announced the availability of Classify360 in the Microsoft Azure Marketplace, an online ..."

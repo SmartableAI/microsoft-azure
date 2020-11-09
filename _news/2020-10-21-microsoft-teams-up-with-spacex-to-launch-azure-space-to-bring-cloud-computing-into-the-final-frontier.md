@@ -1,27 +1,28 @@
 ---
 category: news
-title: "BDO Expands its Managed Detection and Response Capabilities to Support Microsoft Azure Sentinel Clients and Becomes a Microsoft Intelligent Security Association Member"
-excerpt: "BDO USA, LLP, one of the nation’s leading accounting and advisory firms, is launching its managed detection and response (MDR) capabilities on Microso"
-publishedDateTime: 2020-10-26T21:22:00Z
-originalUrl: "https://www.businesswire.com/news/home/20201026005033/en/"
-webUrl: "https://www.businesswire.com/news/home/20201026005033/en/"
+title: "Microsoft teams up with SpaceX to launch Azure Space to bring cloud computing into the final frontier"
+excerpt: "Microsoft has teamed up with SpaceX and SES to launch the tech giant's new cloud computing business for space Azure Space, Microsoft's cloud computing platform Azure, aims to offer mobile cloud ..."
+publishedDateTime: 2020-10-21T11:28:00Z
+originalUrl: "https://www.space.com/microsoft-launches-azure-space-cloud-computing"
+webUrl: "https://www.space.com/microsoft-launches-azure-space-cloud-computing"
+ampWebUrl: "https://www.space.com/amp/microsoft-launches-azure-space-cloud-computing"
+cdnAmpWebUrl: "https://www-space-com.cdn.ampproject.org/c/s/www.space.com/amp/microsoft-launches-azure-space-cloud-computing"
 type: article
-quality: 6
+quality: 42
 heat: -1
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Space.com
+  domain: space.com
 
 topics:
   - Azure
-  - Security
 
 images:
-  - url: "https://mms.businesswire.com/media/20201026005033/en/832810/23/2018_Logo.jpg"
+  - url: "https://cdn.mos.cms.futurecdn.net/a7CuabArsbSLoEURsCbF8j-1200-80.png"
     width: 1200
-    height: 627
+    height: 675
     isCached: true
 
 related:
@@ -275,22 +276,6 @@ related:
         width: 576
         height: 288
         isCached: true
-  - title: "Microsoft teams up with SpaceX to launch Azure Space to bring cloud computing into the final frontier"
-    excerpt: "Microsoft has teamed up with SpaceX and SES to launch the tech giant's new cloud computing business for space Azure Space, Microsoft's cloud computing platform Azure, aims to offer mobile cloud ..."
-    publishedDateTime: 2020-10-21T11:28:00Z
-    webUrl: "https://www.space.com/microsoft-launches-azure-space-cloud-computing"
-    ampWebUrl: "https://www.space.com/amp/microsoft-launches-azure-space-cloud-computing"
-    cdnAmpWebUrl: "https://www-space-com.cdn.ampproject.org/c/s/www.space.com/amp/microsoft-launches-azure-space-cloud-computing"
-    type: article
-    provider:
-      name: Space.com
-      domain: space.com
-    quality: 42
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/a7CuabArsbSLoEURsCbF8j-1200-80.png"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Congruity360 Now Available in the Microsoft Azure Marketplace"
     excerpt: "NORWELL, Mass., Oct. 22, 2020 /PRNewswire/ -- Congruity360, data governance and storage leader, today announced the availability of Classify360 in the Microsoft Azure Marketplace, an online ..."
     publishedDateTime: 2020-10-22T13:00:00Z
@@ -518,7 +503,21 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "BDO Expands its Managed Detection and Response Capabilities to Support Microsoft Azure Sentinel Clients and Becomes a Microsoft Intelligent Security Association Member"
+    excerpt: "BDO USA, LLP, one of the nation’s leading accounting and advisory firms, is launching its managed detection and response (MDR) capabilities on Microso"
+    publishedDateTime: 2020-10-26T21:22:00Z
+    webUrl: "https://www.businesswire.com/news/home/20201026005033/en/"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 6
+    images:
+      - url: "https://mms.businesswire.com/media/20201026005033/en/832810/23/2018_Logo.jpg"
+        width: 1200
+        height: 627
+        isCached: true
 
-secured: "ICMJd9takYxBUfgrzMncrMtdxyuDvdWmtYJZT9AV4+pVGautpeH67tGDJQhArN8olrd4rqKWdlN71gaExA/kmEUdVusSYJnMEKymMrthA5tzmw4MK9o7Xaml6FLUMKE35Gpxec3UgiwQdcM+N2MCFnLDzCgEt44syWBTNsMoU+ERaWnIAsaeKfFtXvsOHqBxjgOcbQ+b9fqEjZRH9SrP4EtyVyDoDZtyuYGqlESorKcIlt8HER/dL1zjLBk0Ytl/M3gd/7LkFbyTd6WPuCbOq/svp37qk/LpFQlqaarDnl4TdH6tC6WiSemcH99wCRQSksLGnQdHfavPyeLUv9tpaNWC56QhExBumzsgjHlGHKA=;l3fzhl9GBYlD0y+hJoyS4w=="
+secured: "M1z6znA3IqvrU0Zm+MdZQsieSOG5ee7Nkx2qoxext2HRutEvZ9NILoN6apf2YHe3XeD9m0c1aXkEjRQjTn7ruBsHeNw3nkKE+qsokyxwe2iavW12/CO0tGq2BuN2RqTFhNd0pDAVzgbmLQdEp2ZwlqQLKDwVlsZDOouUZZUYnhhS0zDjHIdubjreEUp/YRZoqC34yeWlENc70m5nttrbn9wE61myaBZPqwEcGcJ/fJA7aBIgSlu9r2bRTI8Hm57KQgbv+ZXrIdkbef8B8Aulwxjt3FCT5guUGHdtT0eO0RkPZ5lLC3b7ZuU9Dy5kz/UYXlE7stgCfBIb+Z2+FZM6DFmFXF9tC77Ovy5U6AF/ars=;LuKt17ro+sjgMoqnG3q9zA=="
 ---
 

@@ -274,6 +274,22 @@ related:
         width: 576
         height: 288
         isCached: true
+  - title: "Microsoft teams up with SpaceX to launch Azure Space to bring cloud computing into the final frontier"
+    excerpt: "Microsoft has teamed up with SpaceX and SES to launch the tech giant's new cloud computing business for space Azure Space, Microsoft's cloud computing platform Azure, aims to offer mobile cloud ..."
+    publishedDateTime: 2020-10-21T11:28:00Z
+    webUrl: "https://www.space.com/microsoft-launches-azure-space-cloud-computing"
+    ampWebUrl: "https://www.space.com/amp/microsoft-launches-azure-space-cloud-computing"
+    cdnAmpWebUrl: "https://www-space-com.cdn.ampproject.org/c/s/www.space.com/amp/microsoft-launches-azure-space-cloud-computing"
+    type: article
+    provider:
+      name: Space.com
+      domain: space.com
+    quality: 42
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/a7CuabArsbSLoEURsCbF8j-1200-80.png"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Verizon Inks Partnership to Integrate Microsoft Azure for Operators"
     excerpt: "Verizon is expanding its onsite 5G edge wireless network offering with support for the new Microsoft Azure for Operators platform. The two companies this week said they will integrate Microsoft Azure for Operators with Verizon’s mobile edge computing ..."
     publishedDateTime: 2020-10-23T00:24:00Z
