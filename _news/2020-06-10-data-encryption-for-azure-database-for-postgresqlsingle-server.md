@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-10T16:00:19Z
 webUrl: "https://azure.microsoft.com/en-us/updates/data-encryption-for-azure-database-for-postgresql-single-server/"
 type: article
 quality: 17
-heat: 17
+heat: 37
 published: false
 
 provider:

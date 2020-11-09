@@ -8,7 +8,7 @@ ampWebUrl: "https://www.windowscentral.com/microsoft-updates-azure-ai-platform-h
 cdnAmpWebUrl: "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/microsoft-updates-azure-ai-platform-help-build-next-generation-ai-applications?amp"
 type: article
 quality: 49
-heat: 49
+heat: 109
 published: false
 
 provider:

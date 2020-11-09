@@ -6,7 +6,7 @@ publishedDateTime: 2020-05-20T08:00:27Z
 webUrl: "https://azure.microsoft.com/blog/build-apps-of-any-size-or-scale-with-azure-cosmos-db/"
 type: article
 quality: 37
-heat: 37
+heat: 57
 published: false
 
 provider:

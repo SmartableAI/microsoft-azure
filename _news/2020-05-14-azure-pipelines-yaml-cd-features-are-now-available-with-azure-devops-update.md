@@ -6,7 +6,7 @@ publishedDateTime: 2020-05-14T22:00:08Z
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-pipelines-yaml-cd-features-are-now-available-with-azure-devops-update/"
 type: article
 quality: 15
-heat: 15
+heat: 35
 published: false
 
 provider:
