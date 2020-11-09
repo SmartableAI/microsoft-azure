@@ -18,7 +18,7 @@ website: https://t.co/Qi51LMiucG
 twitter:
   username: AlbertGreenberg
   url: https://twitter.com/AlbertGreenberg
-  followers: 326
+  followers: 327
 
 linkedin:
   url: https://www.linkedin.com/in/albert-greenberg-376a39/
