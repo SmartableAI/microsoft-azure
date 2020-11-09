@@ -6,7 +6,7 @@ publishedDateTime: 2020-05-27T16:00:04Z
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-serverside-encryption-with-customermanaged-keys-now-available-for-azure-ultra-disks/"
 type: article
 quality: 7
-heat: 27
+heat: 7
 published: false
 
 provider:

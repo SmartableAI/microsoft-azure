@@ -1,14 +1,14 @@
 ---
 category: news
-title: "New enhanced DNS features in Azure Firewall—now generally available"
-excerpt: "Custom DNS, DNS proxy, and FQDN filtering in network rules (for non-HTTP/S and non-MSSQL protocols) in Azure Firewall are now generally available. In this blog, we also share an example use-case on using DNS proxy with Private Link. Azure Firewall is a cloud-native firewall as a service (FWaaS) offering"
-publishedDateTime: 2020-11-09T08:00:09Z
-originalUrl: "https://azure.microsoft.com/blog/new-enhanced-dns-features-in-azure-firewall-now-generally-available/"
-webUrl: "https://azure.microsoft.com/blog/new-enhanced-dns-features-in-azure-firewall-now-generally-available/"
+title: "New Azure Firewall capabilities will be generally available in Q4 CY2020"
+excerpt: "Custom DNS, DNS Proxy with integrated Threat Intelligence, and FQDN filtering in network rules will be generally available."
+publishedDateTime: 2020-11-09T17:00:11Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/azure-firewall-new-ga-capabilities-in-q4-cy2020/"
+webUrl: "https://azure.microsoft.com/en-us/updates/azure-firewall-new-ga-capabilities-in-q4-cy2020/"
 type: article
-quality: 104
-heat: 184
-published: true
+quality: 66
+heat: -1
+published: false
 
 provider:
   name: Microsoft
@@ -20,15 +20,22 @@ provider:
 
 topics:
   - Azure
-  - Networking
-
-images:
-  - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/d944b156-02e4-4e7b-94d3-94e85d72d8c7.png"
-    width: 780
-    height: 439
-    isCached: true
 
 related:
+  - title: "New enhanced DNS features in Azure Firewall—now generally available"
+    excerpt: "Custom DNS, DNS proxy, and FQDN filtering in network rules (for non-HTTP/S and non-MSSQL protocols) in Azure Firewall are now generally available. In this blog, we also share an example use-case on using DNS proxy with Private Link. Azure Firewall is a cloud-native firewall as a service (FWaaS) offering"
+    publishedDateTime: 2020-11-09T08:00:09Z
+    webUrl: "https://azure.microsoft.com/blog/new-enhanced-dns-features-in-azure-firewall-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 104
+    images:
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/d944b156-02e4-4e7b-94d3-94e85d72d8c7.png"
+        width: 780
+        height: 439
+        isCached: true
   - title: "Azure Monitor Application Insights Java 3.0 is now generally available"
     excerpt: "Now you can monitor your Java apps without a single change of code - the Application Java agent can be enabled through just a couple of configuration changes, and will monitor Java applications in any environment."
     publishedDateTime: 2020-11-05T22:00:05Z
@@ -47,15 +54,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 84
-  - title: "New Azure Firewall capabilities will be generally available in Q4 CY2020"
-    excerpt: "Custom DNS, DNS Proxy with integrated Threat Intelligence, and FQDN filtering in network rules will be generally available."
-    publishedDateTime: 2020-11-09T17:00:11Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-firewall-new-ga-capabilities-in-q4-cy2020/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 66
   - title: "Azure Firewall Manager is now generally available"
     excerpt: "Azure Firewall Manager is now generally available, and includes Azure Firewall Policy, Azure Firewall in a Virtual WAN Hub (Secure Virtual Hub), and Hub Virtual Network."
     publishedDateTime: 2020-07-01T08:00:06Z
@@ -71,6 +69,6 @@ related:
         height: 367
         isCached: true
 
-secured: "KR26NWrB/PbwbWjSMjvSHIlHbyqco3OJHFQ6OJB6MII1hMNsMPPb8IECEVL5ktz9lvVFadEVHgdLgjIct9DpdrNkUhaq8J8FZvcscH5CVI2tL43NzGTMX1rVCA6s6IO7SV3PHUcizgotx+gY8n7Dhtjc1Vbig56bTrzjk1hk+YWydvNo6qowQU+EZHehimrCBqc1GJjfxSbS7IA4EGNNqCy2vYMUZpcKVp1shJZfINFaTwW5swTtaiQhCHqTfDYcyVmSSrW6Xr+BmW07UiwVz9mmZNqNUnEUsZwMGpqO5PWcFWSP0+yGX/C5o0dp5hNEK5z89IG0REsWKHY30DF/YJk0NATtcHlOMrStdmdZK14=;rdPcAVsQ3hUQRpH7BELiXA=="
+secured: "9P5nubhSJzOCuoSvgZTcLxNy0BTNhcaF4hIRWpBrP7VuFuso/VCvD/C2gt3DENBeJHExBa3AxiZv4h3rUGAnwY+Ac47PjSSgZpR+nsi3ku6KcoHcKjoIyh8TqykpptA4onjfT8IHYMyberRSvtD2ls424Ch9Ao4DfIy3f4KasVA1RD+RuBesQGcNSUZyP1S1uzIkoyfr8hRj/a27Ngw4NqJH7WgfzCyZMxeEnLPQ0SXC8oveTkl5I81YP88qIgDLlabdPTa+9LFEnAFDqh73pY8CwldBtBNuUItmEJ0zw9ScpF9r+RHY1J2R/+OffwdOGASQt3mUXR/sZly0s5GTBPO4o+1f+pTiGXQr68LPob4=;D98dPKqrCOBl721Ny8GeWg=="
 ---
 

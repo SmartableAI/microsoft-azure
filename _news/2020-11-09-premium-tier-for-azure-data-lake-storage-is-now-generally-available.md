@@ -1,11 +1,12 @@
 ---
 category: news
-title: "Azure Firewall Manager is now generally available"
-excerpt: "Azure Firewall Manager is now generally available, and includes Azure Firewall Policy, Azure Firewall in a Virtual WAN Hub (Secure Virtual Hub), and Hub Virtual Network."
-publishedDateTime: 2020-07-01T08:00:06Z
-webUrl: "https://azure.microsoft.com/blog/azure-firewall-manager-is-now-generally-available/"
+title: "Premium tier for Azure Data Lake Storage is now generally available "
+excerpt: "Premium tier is ideal for big data analytics applications and workloads that require low and consistent latency (fast access) or have a high number of transactions. "
+publishedDateTime: 2020-11-09T18:27:56Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/premium-tier-for-azure-data-lake-storage-is-now-available/"
+webUrl: "https://azure.microsoft.com/en-us/updates/premium-tier-for-azure-data-lake-storage-is-now-available/"
 type: article
-quality: 37
+quality: 84
 heat: -1
 published: false
 
@@ -19,12 +20,7 @@ provider:
 
 topics:
   - Azure
-
-images:
-  - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/48d05065-53c7-4758-8091-6b72d3df73d0.png"
-    width: 1024
-    height: 367
-    isCached: true
+  - Storage
 
 related:
   - title: "New enhanced DNS features in Azure Firewall—now generally available"
@@ -50,15 +46,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 84
-  - title: "Premium tier for Azure Data Lake Storage is now generally available "
-    excerpt: "Premium tier is ideal for big data analytics applications and workloads that require low and consistent latency (fast access) or have a high number of transactions. "
-    publishedDateTime: 2020-11-09T18:27:56Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/premium-tier-for-azure-data-lake-storage-is-now-available/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 84
   - title: "New Azure Firewall capabilities will be generally available in Q4 CY2020"
     excerpt: "Custom DNS, DNS Proxy with integrated Threat Intelligence, and FQDN filtering in network rules will be generally available."
     publishedDateTime: 2020-11-09T17:00:11Z
@@ -68,7 +55,21 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 66
+  - title: "Azure Firewall Manager is now generally available"
+    excerpt: "Azure Firewall Manager is now generally available, and includes Azure Firewall Policy, Azure Firewall in a Virtual WAN Hub (Secure Virtual Hub), and Hub Virtual Network."
+    publishedDateTime: 2020-07-01T08:00:06Z
+    webUrl: "https://azure.microsoft.com/blog/azure-firewall-manager-is-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 37
+    images:
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/48d05065-53c7-4758-8091-6b72d3df73d0.png"
+        width: 1024
+        height: 367
+        isCached: true
 
-secured: "kO2aQPzentqjh+UritFk8PJSoVJReOkInUZmmaBzzZQu6Q7ZrZQ2gEOZXJoJZmAB3R1aFWI//qKxpaXJf+pYc72KxcPn4/ZXeOTLK6s24Lr+0D21UIo6DCPYkmIJmkA1HtzDlkKqMBCEzQvasH3tQm9GludDjsHAJHag5kV5fq4x5OkbkZdbRRGHg2NOO4TFSZW35VZcz+9dF63krrEx8bdMVj+aEwTBOzAswF6/1kft8vsUIZ3h+YaQr0JlYUIz8vJZlw/b3QiTYrXJtzDUn+W0VqtZ8LlyCmws0vRoiBQceQl+P+cEFW2gT/KAW6WsvDQXGLhxxwF1eFnBfLLUeg==;JuBHu2xJxOoFor+WD0zgbg=="
+secured: "C4jZw8XIAclmhVydL6qO/PH/KBpanafif00WLKe7PS+04P3lT3r1+q51iHm2g4OCrWhHxlXUIGrCT+0cogzMk0w131HjJsHQ+KVPK2TxtQFUwajOssnfeKwNwfiLH6W1BCJmsGY2D7VhIk8HLLzQjyI35EArLfIiECTxxcfgcG5mPapHa0F/T4UfPCpLTWddRv8icz7mSLkEJqBCbyHPyV6XP1WzwLmp2lD1OdV6SjHLaz4PMyUnjI2vMvEIQ1ZGXylYpoMF1kJKe3rts13WwuTE8cAognucrc2as7Sj0mUn4dRrkJ4rtXELLqf3MYbfQjENyp0xnjyKnRI5FX3hlpFl6HW9BaYbRbQ+7J4B2NU=;92FG4Vn15OPacUUzholgfw=="
 ---
 

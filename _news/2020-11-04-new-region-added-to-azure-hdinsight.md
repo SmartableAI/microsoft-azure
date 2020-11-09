@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/azure-hdinsight-is-now-a
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-hdinsight-is-now-available-in-the-uae-central/"
 type: article
 quality: 84
-heat: 124
+heat: 144
 published: true
 
 provider:
@@ -27,6 +27,15 @@ related:
     excerpt: "Azure HDInsight private link integration allows you to create VNET injected clusters with no public IP and access them using your own private endpoints."
     publishedDateTime: 2020-11-05T17:00:16Z
     webUrl: "https://azure.microsoft.com/en-us/updates/azure-hdinsight-now-supports-private-link-in-preview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
+  - title: "Azure HDInsight ID Broker (HIB) is now generally available"
+    excerpt: "HDInsight ID Broker (HIB) provides modern OAuth authentication and enables federated users to login to cluster without syncing on-premise password hashes to the cloud."
+    publishedDateTime: 2020-11-09T17:00:09Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-hdinsight-id-broker-hib-is-now-generally-available/"
     type: article
     provider:
       name: Microsoft

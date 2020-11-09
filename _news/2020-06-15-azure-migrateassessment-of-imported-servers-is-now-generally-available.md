@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-15T17:00:02Z
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-migrate-assessment-of-imported-servers-is-now-ga/"
 type: article
 quality: 17
-heat: 37
+heat: 17
 published: false
 
 provider:

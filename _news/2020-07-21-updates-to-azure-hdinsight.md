@@ -39,6 +39,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 84
+  - title: "Azure HDInsight ID Broker (HIB) is now generally available"
+    excerpt: "HDInsight ID Broker (HIB) provides modern OAuth authentication and enables federated users to login to cluster without syncing on-premise password hashes to the cloud."
+    publishedDateTime: 2020-11-09T17:00:09Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-hdinsight-id-broker-hib-is-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
 
 secured: "DtTXViES46KhH96siS/oaQfUfRHVLvNOpDuyUVJHUFmwgidKJZczOR/DbUeMGmsYRGOsQRAQpxYjwQWMOSTIDj/ns3hx4KHgr2d8VujumNqB7t5WEOns77XcGJJRNYw4DEBhbxen3RfZaPqTZ548/W0enj2Fg6+ITSOPFqqE6hBoFAzyjn3Byps2h8YUDdpC1qZPK3TQ39B7M29ZqkMDgGCNtSv/dVQPOhp8e83g+hbTNe+QOVqqAztdfVRbQ+UD1vJG4N2iL53wjxVnIEbG1MWy0wi9U7jbzRF9CXNxM5EkEqYbwiH8Ciw5UQlDWEL6BS5LwBJYO1gSPutvP2IYig==;6WxkwYeQIDDpdkdoKH/Bkw=="
 ---

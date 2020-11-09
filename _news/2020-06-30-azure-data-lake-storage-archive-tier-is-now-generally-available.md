@@ -57,15 +57,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 84
-  - title: "Azure Monitor Application Insights Java 3.0 is now generally available"
-    excerpt: "Now you can monitor your Java apps without a single change of code - the Application Java agent can be enabled through just a couple of configuration changes, and will monitor Java applications in any environment."
-    publishedDateTime: 2020-11-05T22:00:05Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/java-agent-application-insights-ga/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 84
   - title: "Connector for AWS in Azure Cost Management + Billing is now generally available"
     excerpt: "The connector for AWS that helps you manage Azure and AWS costs from a single location is now generally available."
     publishedDateTime: 2020-09-02T08:00:01Z
@@ -134,20 +125,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 52
-  - title: "Azure Firewall Manager is now generally available"
-    excerpt: "Azure Firewall Manager is now generally available, and includes Azure Firewall Policy, Azure Firewall in a Virtual WAN Hub (Secure Virtual Hub), and Hub Virtual Network."
-    publishedDateTime: 2020-07-01T08:00:06Z
-    webUrl: "https://azure.microsoft.com/blog/azure-firewall-manager-is-now-generally-available/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 37
-    images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/48d05065-53c7-4758-8091-6b72d3df73d0.png"
-        width: 1024
-        height: 367
-        isCached: true
   - title: "Object replication public preview for Azure Blob storage"
     excerpt: ""
     publishedDateTime: 2020-05-21T15:44:37Z

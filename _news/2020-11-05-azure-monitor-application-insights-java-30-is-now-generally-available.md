@@ -23,110 +23,38 @@ topics:
   - DevOps
 
 related:
-  - title: "Azure Blob storage object replication is now generally available"
-    excerpt: "Object replication allows you to replicate your block blob data at the blob level from one storage account to another anywhere in the Azure. "
-    publishedDateTime: 2020-09-09T20:05:14Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-blob-storage-object-replication-is-now-generally-available/"
+  - title: "New enhanced DNS features in Azure Firewall—now generally available"
+    excerpt: "Custom DNS, DNS proxy, and FQDN filtering in network rules (for non-HTTP/S and non-MSSQL protocols) in Azure Firewall are now generally available. In this blog, we also share an example use-case on using DNS proxy with Private Link. Azure Firewall is a cloud-native firewall as a service (FWaaS) offering"
+    publishedDateTime: 2020-11-09T08:00:09Z
+    webUrl: "https://azure.microsoft.com/blog/new-enhanced-dns-features-in-azure-firewall-now-generally-available/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 99
-  - title: "Change feed support is now generally available for Azure Blob Storage"
-    excerpt: "Change feed support for Microsoft Azure Blob storage is now generally available."
-    publishedDateTime: 2020-09-09T20:04:54Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/change-feed-support-is-now-generally-available-for-azure-blob-storage/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 99
-  - title: "Azure Blob storage point-in-time restore now generally available"
-    excerpt: "Azure Blob storage point-in-time restore provides continuous data protection and restoration capabilities for block blob data. This extends protection features to provide an easy way to restore to a previous date/time"
-    publishedDateTime: 2020-09-23T23:21:14Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-blob-storage-pointintime-restore-now-generally-available/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 99
-  - title: "Azure Blob versioning is now general available "
-    excerpt: "Azure storage strives to protect your business critial data from any accident or attack. We are excited to announce the general availability of  Azure Blob versioning. "
-    publishedDateTime: 2020-08-31T20:00:37Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-blob-versioning-is-now-general-available/"
+    quality: 104
+    images:
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/d944b156-02e4-4e7b-94d3-94e85d72d8c7.png"
+        width: 780
+        height: 439
+        isCached: true
+  - title: "Premium tier for Azure Data Lake Storage is now generally available "
+    excerpt: "Premium tier is ideal for big data analytics applications and workloads that require low and consistent latency (fast access) or have a high number of transactions. "
+    publishedDateTime: 2020-11-09T18:27:56Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/premium-tier-for-azure-data-lake-storage-is-now-available/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
     quality: 84
-  - title: "Connector for AWS in Azure Cost Management + Billing is now generally available"
-    excerpt: "The connector for AWS that helps you manage Azure and AWS costs from a single location is now generally available."
-    publishedDateTime: 2020-09-02T08:00:01Z
-    webUrl: "https://azure.microsoft.com/blog/connector-for-aws-in-azure-cost-management-billing-is-now-generally-available/"
+  - title: "New Azure Firewall capabilities will be generally available in Q4 CY2020"
+    excerpt: "Custom DNS, DNS Proxy with integrated Threat Intelligence, and FQDN filtering in network rules will be generally available."
+    publishedDateTime: 2020-11-09T17:00:11Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-firewall-new-ga-capabilities-in-q4-cy2020/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 83
-    images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/8a7ddc8c-ab40-4eb0-8979-ec73c6098015.png"
-        width: 640
-        height: 364
-        isCached: true
-  - title: "Query Acceleration for Azure Data Lake Storage is now generally available"
-    excerpt: "Query Acceleration for Azure Data Lake Storage is now generally available in all Azure regions."
-    publishedDateTime: 2020-09-10T18:00:21Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/query-acceleration-generally-available/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 83
-  - title: "Azure Spring Cloud is now generally available"
-    excerpt: "Azure Spring Cloud is a fully managed service for Spring Boot apps that lets you focus on building the apps that run your business without the hassle of managing infrastructure"
-    publishedDateTime: 2020-09-02T16:00:04Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-spring-cloud-is-now-generally-available/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 67
-  - title: "Azure Private Link Service is now generally available in China "
-    excerpt: "Azure Private Link for customer owned services are now available in China Regions. "
-    publishedDateTime: 2020-09-14T17:10:45Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-private-link-service-is-now-generally-available-in-china/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 67
-  - title: "Azure Stack Edge Mini R is now generally available"
-    excerpt: "The new lineup of rugged edge devices are now generally available. Azure Stack Edge Mini R is a lightweight, portable, battery-operated device - small enough to fit into a backpack - designed for the harshest environments and disconnected scenarios. "
-    publishedDateTime: 2020-09-22T16:05:24Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-stack-edge-mini-r-is-now-generally-available/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 67
-  - title: "User-initiated failover for application fault resiliency in Azure SQL Managed Instance is now generally available"
-    excerpt: "Test the impact of automatic failover operations during planned or unplanned events before deployment to production by manually initiating automatic failover"
-    publishedDateTime: 2020-09-02T16:00:05Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/userinitiated-failover-for-application-fault-resiliency-in-azure-sql-managed-instance-is-now-generally-available/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 63
-  - title: "Durable Functions v2.3 is now available "
-    excerpt: "A new release of Durable Functions is out now. This release includes new functionality including long running timers, logging, and state management improvements."
-    publishedDateTime: 2020-09-02T16:00:04Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/durable-functions-v23-is-now-available/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 52
+    quality: 66
   - title: "Azure Firewall Manager is now generally available"
     excerpt: "Azure Firewall Manager is now generally available, and includes Azure Firewall Policy, Azure Firewall in a Virtual WAN Hub (Secure Virtual Hub), and Hub Virtual Network."
     publishedDateTime: 2020-07-01T08:00:06Z
@@ -141,51 +69,6 @@ related:
         width: 1024
         height: 367
         isCached: true
-  - title: "Object replication public preview for Azure Blob storage"
-    excerpt: ""
-    publishedDateTime: 2020-05-21T15:44:37Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-storage-object-replication-public-preview/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 17
-  - title: "Azure geo-zone-redundant storage is now generally available"
-    excerpt: "Geo-zone-redundant storage (GZRS) and read-access geo-zone-redundant storage (RA-GZRS) are now generally available, offering intra-regional and inter-regional high availability and disaster protection for your applications."
-    publishedDateTime: 2020-06-17T20:00:18Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/storage-gzrs-ga/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 17
-  - title: "Azure Data Lake Storage archive tier is now generally available"
-    excerpt: "The archive tier for Azure Data Lake Storage is now generally available. The archive tier provides an ultra-low cost tier for long term retention of data while keeping your data available for future analytics needs."
-    publishedDateTime: 2020-06-30T20:00:36Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/archive-tier-for-azure-data-lake-storage-now-generally-available/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 17
-  - title: "Azure VM Image Builder is now generally available"
-    excerpt: "Streamline your image building pipeline and integrate your DevOps application lifecycle with cloud native tools using VM Image Builder."
-    publishedDateTime: 2020-07-20T16:00:31Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-vm-image-builder-is-now-generally-available/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 17
-  - title: "Azure custom role creation in the Azure portal is now generally available"
-    excerpt: ""
-    publishedDateTime: 2020-05-01T16:00:17Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-custom-roles-portal/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 16
 
 secured: "h0FaB9CmsTYTF+t2My7qwH3CI7Dx7c/zFscC178P7HZbSim/0cRVtij/bHoKJbH2tf2S+Aj85VJ5kIfSepiKh3tkpIoal2PTWoQhtZDXKlg/sSUZ/sLJquuLMfl0dkwy9ajSr/RW64vJSKSpv3v+LdgeG7iWUrHPdSEnJjNhKAtrwjjXL7EN2jc6D3JflIlgtW6BDu5Vd5q/YohMNQtoN7/ZuVcEg8tqMXx8n8NNobMuJtJYglrs/bgksaxKQtY4wN9Gny/ODwuzj5bgiYRq9S5OvkNanGO/NWkr3q6RMqP1ceGeOuE2rjfjw9QIN9UFUymuQMAVPUbm575A5KM9o8c+EUbHT49RdI3q2rXQpP0=;O3nzJFoyf0EXxudiSX9O0g=="
 ---

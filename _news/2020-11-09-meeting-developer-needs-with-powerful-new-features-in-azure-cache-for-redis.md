@@ -6,6 +6,9 @@ publishedDateTime: 2020-11-09T09:00:09Z
 originalUrl: "https://azure.microsoft.com/blog/meeting-developer-needs-with-powerful-new-features-in-azure-cache-for-redis/"
 webUrl: "https://azure.microsoft.com/blog/meeting-developer-needs-with-powerful-new-features-in-azure-cache-for-redis/"
 type: article
+quality: 84
+heat: 84
+published: true
 
 provider:
   name: Microsoft
