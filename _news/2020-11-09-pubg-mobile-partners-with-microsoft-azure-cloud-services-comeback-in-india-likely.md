@@ -1,32 +1,29 @@
 ---
 category: news
-title: "KRAFTON partners with Microsoft to host its products including PUBG on Azure"
-excerpt: "Korean video game giant KRAFTON has announced a partnership with Microsoft that will allow the company to use Azure cloud services to host its products including the popular Battle Royale game PUBG."
-publishedDateTime: 2020-11-07T12:10:00Z
-originalUrl: "https://www.neowin.net/news/krafton-partners-with-microsoft-to-host-its-products-including-pubg-on-azure"
-webUrl: "https://www.neowin.net/news/krafton-partners-with-microsoft-to-host-its-products-including-pubg-on-azure"
-ampWebUrl: "https://www.neowin.net/amp/krafton-partners-with-microsoft-to-host-its-products-including-pubg-on-azure/"
-cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/krafton-partners-with-microsoft-to-host-its-products-including-pubg-on-azure/"
+title: "PUBG Mobile Partners With Microsoft Azure Cloud Services; Comeback In India Likely"
+excerpt: "Krafton, a South Korean conglomerate will now be working with Microsoft Azure for all PUBG PC, Mobile, and Console platforms. The press release by the company notes that the collaboration aims to ensure privacy rights are respected."
+publishedDateTime: 2020-11-09T09:29:00Z
+originalUrl: "https://www.gizbot.com/gaming/news/pubg-mobile-partners-with-microsoft-azure-cloud-services-comeback-in-india-likely-070914.html"
+webUrl: "https://www.gizbot.com/gaming/news/pubg-mobile-partners-with-microsoft-azure-cloud-services-comeback-in-india-likely-070914.html"
+ampWebUrl: "https://www.gizbot.com/amphtml/gaming/news/pubg-mobile-partners-with-microsoft-azure-cloud-services-comeback-in-india-likely-070914.html"
+cdnAmpWebUrl: "https://www-gizbot-com.cdn.ampproject.org/c/s/www.gizbot.com/amphtml/gaming/news/pubg-mobile-partners-with-microsoft-azure-cloud-services-comeback-in-india-likely-070914.html"
 type: article
-quality: 94
+quality: 68
 heat: -1
 published: false
 
 provider:
-  name: Neowin
-  domain: neowin.net
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/neowin.net-50x50.jpg"
-      width: 50
-      height: 50
+  name: GIZBOT
+  domain: gizbot.com
 
 topics:
   - Azure
+  - Mobile
 
 images:
-  - url: "https://cdn.neow.in/news/images/uploaded/2020/08/1598292310_pubgmoile_story.jpg"
-    width: 760
-    height: 428
+  - url: "https://www.gizbot.com/img/2020/11/pubg-mobile-partners-with-microsoft-azure-cloud-services-comeback-in-india-likely-1604913970.jpg"
+    width: 600
+    height: 337
     isCached: true
 
 related:
@@ -45,6 +42,22 @@ related:
       - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F598227%2Fdata-center.jpeg&w=1200&op=resize"
         width: 1200
         height: 799
+        isCached: true
+  - title: "KRAFTON partners with Microsoft to host its products including PUBG on Azure"
+    excerpt: "Korean video game giant KRAFTON has announced a partnership with Microsoft that will allow the company to use Azure cloud services to host its products including the popular Battle Royale game PUBG."
+    publishedDateTime: 2020-11-07T12:10:00Z
+    webUrl: "https://www.neowin.net/news/krafton-partners-with-microsoft-to-host-its-products-including-pubg-on-azure"
+    ampWebUrl: "https://www.neowin.net/amp/krafton-partners-with-microsoft-to-host-its-products-including-pubg-on-azure/"
+    cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/krafton-partners-with-microsoft-to-host-its-products-including-pubg-on-azure/"
+    type: article
+    provider:
+      name: Neowin
+      domain: neowin.net
+    quality: 94
+    images:
+      - url: "https://cdn.neow.in/news/images/uploaded/2020/08/1598292310_pubgmoile_story.jpg"
+        width: 760
+        height: 428
         isCached: true
   - title: "Microsoft's Cloud PC: Leak reveals new details on upcoming Azure-powered remote desktop"
     excerpt: "Microsoft's forthcoming Cloud PC remote Windows experience for Windows 10, macOS, iOS and Android takes shape."
@@ -107,22 +120,6 @@ related:
       - url: "https://www.deccanherald.com/sites/dh/files/articleimages/2020/11/09/pubg-mobile-913317-1604911225.jpg"
         width: 1280
         height: 628
-        isCached: true
-  - title: "PUBG Mobile Partners With Microsoft Azure Cloud Services; Comeback In India Likely"
-    excerpt: "Krafton, a South Korean conglomerate will now be working with Microsoft Azure for all PUBG PC, Mobile, and Console platforms. The press release by the company notes that the collaboration aims to ensure privacy rights are respected."
-    publishedDateTime: 2020-11-09T09:29:00Z
-    webUrl: "https://www.gizbot.com/gaming/news/pubg-mobile-partners-with-microsoft-azure-cloud-services-comeback-in-india-likely-070914.html"
-    ampWebUrl: "https://www.gizbot.com/amphtml/gaming/news/pubg-mobile-partners-with-microsoft-azure-cloud-services-comeback-in-india-likely-070914.html"
-    cdnAmpWebUrl: "https://www-gizbot-com.cdn.ampproject.org/c/s/www.gizbot.com/amphtml/gaming/news/pubg-mobile-partners-with-microsoft-azure-cloud-services-comeback-in-india-likely-070914.html"
-    type: article
-    provider:
-      name: GIZBOT
-      domain: gizbot.com
-    quality: 68
-    images:
-      - url: "https://www.gizbot.com/img/2020/11/pubg-mobile-partners-with-microsoft-azure-cloud-services-comeback-in-india-likely-1604913970.jpg"
-        width: 600
-        height: 337
         isCached: true
   - title: "PUBG hints at India return with Microsoft Azure deal"
     excerpt: "Azure is Microsoft’s cloud computing service that allows game creators to build and run their games on a global scale."
@@ -369,6 +366,6 @@ related:
         height: 293
         isCached: true
 
-secured: "Z09OhmE3FQC4XvMP0eFNt6oXEYgPrOmmo/mcGHyJIytpOTIq5dNwhW3grL1oYXVyNih4IAefv18srqQFI7JyBF8cIxIMPNDzg+XyEBeAynj2Ku0aOvuhRwvVFRe0Kv8p6IVMx3lxd2lSGB2ytC5MDGsb4ec9t8vHGHoCWOrbqP/WOyeEkFAtFFXO0TUZ3NWpPG35UZ/Dnc1/7ECtbTxCF8wus5cLhA8gNhoaidLpa7klPeRBzaavsfZ1AYkwqwlJSPjt5bc/FdxahpWZ4/9d0d3iOY1S08jMS09vVQGAueQbBmp2MAyWxWfcxZOvbY1KODM+dLlOMhIPYjejbdLfnLO84z7XF2A8qwiKGU2+8LMPpdttT10eSBSzyuHhtOzWsA320XML8LXOEis8i8qlM1uF0w8bOxWL+3hUwGeah6gGt//rRkJEDKTi1FOdeAbJYXHqA4sDn8/F5HOTLtDQTYw6td6643eaozC+Ejlpo1Y9sjiH/l0BGnizo3oRqh8cuho6VENkrPEF54pLEdRNQw==;3O8ejbgTgxsm8CJpTZ79Mw=="
+secured: "fzCbKIFfpbpKRhKzVRVhE1+r5b7ai6JBzo1CsB/w76OZ+YRy0dxFEyURGobPpZrhPNFQk2Bkm3D9/P8x6lo59q2EinTTL+fsbpgWs6VNC3dvqnutxgAYuaKYNwLZO5X3/SgwgLpznPlWvEkl25YpwkxzMS8cVv1ZFhirKTO9BOa8TuVV5wEdSKRBbH+4ZDpP0d7ByVDP10ME41YFUm4iU5QfnRMIlo4e9kFTkTAJ+ZT3KrVckdcrxTANiRTAtO/z7EbhSnLw9DOiB+dEHF5vqkgN0RTrKQYQjisGvZK188CM4NBv7iS82q65AIX0ZhGOPqWlOGq7AJlNMYaP7dtBslfwm9252fCOvDtxZbMegv4=;NQhtF7/TwJjTKx0d7iX0MQ=="
 ---
 

@@ -120,6 +120,22 @@ related:
         width: 1280
         height: 628
         isCached: true
+  - title: "PUBG Mobile Partners With Microsoft Azure Cloud Services; Comeback In India Likely"
+    excerpt: "Krafton, a South Korean conglomerate will now be working with Microsoft Azure for all PUBG PC, Mobile, and Console platforms. The press release by the company notes that the collaboration aims to ensure privacy rights are respected."
+    publishedDateTime: 2020-11-09T09:29:00Z
+    webUrl: "https://www.gizbot.com/gaming/news/pubg-mobile-partners-with-microsoft-azure-cloud-services-comeback-in-india-likely-070914.html"
+    ampWebUrl: "https://www.gizbot.com/amphtml/gaming/news/pubg-mobile-partners-with-microsoft-azure-cloud-services-comeback-in-india-likely-070914.html"
+    cdnAmpWebUrl: "https://www-gizbot-com.cdn.ampproject.org/c/s/www.gizbot.com/amphtml/gaming/news/pubg-mobile-partners-with-microsoft-azure-cloud-services-comeback-in-india-likely-070914.html"
+    type: article
+    provider:
+      name: GIZBOT
+      domain: gizbot.com
+    quality: 68
+    images:
+      - url: "https://www.gizbot.com/img/2020/11/pubg-mobile-partners-with-microsoft-azure-cloud-services-comeback-in-india-likely-1604913970.jpg"
+        width: 600
+        height: 337
+        isCached: true
   - title: "DH2i's DxOdyssey for IoT Now Available in the Microsoft Azure Marketplace"
     excerpt: "Oct. 28, 2020 /PRNewswire/ -- DH2i®, a leading provider of multi-platform Software Defined Perimeter (SDP) and Smart Availability software, today announced the availability of DxOdyssey for IoT in the Microsoft Azure Marketplace, an online store ..."
     publishedDateTime: 2020-10-28T13:16:00Z

@@ -129,6 +129,20 @@ related:
         width: 1665
         height: 1158
         isCached: true
+  - title: "Microsoft Azure Space uses SpaceX to take on Amazon"
+    excerpt: "Microsoft is extending its Azure cloud computing service, with Azure Space addressing the growing commercial opportunities around space connectivity. Back in July we reported that Amazon Web services were aiming for space business. It announced the ..."
+    publishedDateTime: 2020-10-22T08:12:00Z
+    webUrl: "https://www.electronicsweekly.com/news/microsoft-azure-space-uses-spacex-take-amazon-2020-10/"
+    type: article
+    provider:
+      name: Electronics Weekly
+      domain: electronicsweekly.com
+    quality: 37
+    images:
+      - url: "https://static.electronicsweekly.com/wp-content/uploads/2020/10/21164052/Microsoft-Azure-Space.jpg"
+        width: 1000
+        height: 563
+        isCached: true
   - title: "The Migros community relies on Microsoft Azure for its „Journey to the Cloud“"
     excerpt: "In addition to Microsoft 365, the Swiss retail company will use Azure Services from the Microsoft Cloud in Switzerland in the future, thus accelerating the already advanced digitisation of the entire group of companies. Patrick Mosberger, Head of IT ..."
     publishedDateTime: 2020-10-18T11:02:00Z

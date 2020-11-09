@@ -1,28 +1,27 @@
 ---
 category: news
-title: "Honeywell, Microsoft partner on industrial apps, Dynamics, Azure integration"
-excerpt: "The two companies will combine that artificial intelligence in Honeywell Forge performance management software with Microsoft Dynamics Field Service."
-publishedDateTime: 2020-10-22T16:00:00Z
-originalUrl: "https://www.zdnet.com/article/honeywell-microsoft-partner-on-industrial-apps-dynamics-azure-integration/"
-webUrl: "https://www.zdnet.com/article/honeywell-microsoft-partner-on-industrial-apps-dynamics-azure-integration/"
-ampWebUrl: "https://www.zdnet.com/google-amp/article/honeywell-microsoft-partner-on-industrial-apps-dynamics-azure-integration/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/honeywell-microsoft-partner-on-industrial-apps-dynamics-azure-integration/"
+title: "Microsoft Azure Space uses SpaceX to take on Amazon"
+excerpt: "Microsoft is extending its Azure cloud computing service, with Azure Space addressing the growing commercial opportunities around space connectivity. Back in July we reported that Amazon Web services were aiming for space business. It announced the ..."
+publishedDateTime: 2020-10-22T08:12:00Z
+originalUrl: "https://www.electronicsweekly.com/news/microsoft-azure-space-uses-spacex-take-amazon-2020-10/"
+webUrl: "https://www.electronicsweekly.com/news/microsoft-azure-space-uses-spacex-take-amazon-2020-10/"
 type: article
-quality: 91
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: ZDNet
-  domain: zdnet.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/zdnet.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Electronics Weekly
+  domain: electronicsweekly.com
 
 topics:
   - Azure
-  - Integration
+
+images:
+  - url: "https://static.electronicsweekly.com/wp-content/uploads/2020/10/21164052/Microsoft-Azure-Space.jpg"
+    width: 1000
+    height: 563
+    isCached: true
 
 related:
   - title: "Microsoft and Honeywell collaborate on Azure and Dynamics 365"
@@ -41,6 +40,17 @@ related:
         width: 760
         height: 428
         isCached: true
+  - title: "Honeywell, Microsoft partner on industrial apps, Dynamics, Azure integration"
+    excerpt: "The two companies will combine that artificial intelligence in Honeywell Forge performance management software with Microsoft Dynamics Field Service."
+    publishedDateTime: 2020-10-22T16:00:00Z
+    webUrl: "https://www.zdnet.com/article/honeywell-microsoft-partner-on-industrial-apps-dynamics-azure-integration/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/honeywell-microsoft-partner-on-industrial-apps-dynamics-azure-integration/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/honeywell-microsoft-partner-on-industrial-apps-dynamics-azure-integration/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 91
   - title: "Public preview: Auditing of Microsoft support operations in Azure SQL DB and Azure SQL MI"
     excerpt: "The auditing of Microsoft support operations capability enables the audit of Microsoft support operations when accessing servers and/or databases during a support request to an audit logs destination. The use of this capability, along with auditing, enables more transparency into the workforce and allows"
     publishedDateTime: 2020-10-28T16:00:29Z
@@ -119,20 +129,6 @@ related:
         width: 1665
         height: 1158
         isCached: true
-  - title: "Microsoft Azure Space uses SpaceX to take on Amazon"
-    excerpt: "Microsoft is extending its Azure cloud computing service, with Azure Space addressing the growing commercial opportunities around space connectivity. Back in July we reported that Amazon Web services were aiming for space business. It announced the ..."
-    publishedDateTime: 2020-10-22T08:12:00Z
-    webUrl: "https://www.electronicsweekly.com/news/microsoft-azure-space-uses-spacex-take-amazon-2020-10/"
-    type: article
-    provider:
-      name: Electronics Weekly
-      domain: electronicsweekly.com
-    quality: 37
-    images:
-      - url: "https://static.electronicsweekly.com/wp-content/uploads/2020/10/21164052/Microsoft-Azure-Space.jpg"
-        width: 1000
-        height: 563
-        isCached: true
   - title: "Touting Azure for Operators, Microsoft Joins SDN Standards Group"
     excerpt: "As part of its Azure for Operators program, Microsoft this week joined a nonprofit standards association that focuses on software-defined networking (SDN) technologies used by enterprises and ..."
     publishedDateTime: 2020-10-27T23:18:00Z
@@ -171,6 +167,6 @@ related:
       domain: wfmz.com
     quality: 0
 
-secured: "OyDdCrWV3oX4eC8hMxASH8SwgPvYnzzqmFUiVPcmUyKZXYtgEn+LAW6Fzcz10kG9HiEmjnW3YZPATFbsl+Gt7NeHiLKJxHfF/W61XR22SzxsvxX8/jRLXpI10+zX5dzdyJPptfhRcVBuGbjq7OOO/SqMpMo5QQxzPwNUiqbdbHXOhtovlkomDKeut+1WkxhuFZNbT7ARg26W5/qgO6MUeFkdxhVqWmSMuBo5gXkeX7pBAEkqqloPpCjz5j1f80ZOCE182qDXE9AdJEpbrwMCVwSzV96B4j4RHMnzbhVsBF4knOOJ0R5ytT78/vW17QxlZyEzA/N0KehT/HH3AJpcGRGO8JMwNSa7npEl8Lu4u0rl6aEVrKPIvnYkGAATkXa1VAuQ2+8vgliJCPAar7VTXTu3YbpqvEH+SefTtOdfBro27Sr8HNxmU/4LMxOdA34qdOMDUFei2rRLkgo+Fe3LGIBqNQ8280E79chRbxBlHt+7hdI0IJRBLPvE1TB2faI/Bgys+bFEhc6iayNBHDMY0A==;19gTa3JlDbrlAtCFYxfEqQ=="
+secured: "e8QIyyAYEQaFWR78jwvjYcXedD5Cvtr3vQs2swutUCHLmofa74DOGhVOuECGBCM3elVGn3ZDcTjMy52Ld/IEmfS8aSnmgRGJ5jzguKua2mN4/VlPROQaMIBj7DfOBUfkjBWnKTcoV6uN3i60W0LJ8VeZPMEY9Jcbz1lRbUlkH3VukLLi/kieTgm6OcJpJxAzvaYBfqczZGNEd+BnH/7YcRui6xC2u2E9bwPH/YjK11C0rtbt1yei9YOuVgsD36sJF9eLL/3iwzqCU39L8400Zw08su39ogRIeFaJ2rMxy/jjU1/qAG5HVRU9jV20hKIz/5B1MNxrue8Uw9DnFbGlB+n2/blvGnmDZgSyREpIj1I=;xzXETFfs0uFUDq3rEaCbYw=="
 ---
 

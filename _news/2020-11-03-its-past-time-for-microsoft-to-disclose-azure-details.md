@@ -9,7 +9,7 @@ ampWebUrl: "https://www.fool.com/amp/investing/2020/11/03/its-past-time-for-micr
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/11/03/its-past-time-for-microsoft-to-disclose-azure-deta/"
 type: article
 quality: 97
-heat: 577
+heat: 597
 published: true
 
 provider:
@@ -107,6 +107,22 @@ related:
       - url: "https://www.deccanherald.com/sites/dh/files/articleimages/2020/11/09/pubg-mobile-913317-1604911225.jpg"
         width: 1280
         height: 628
+        isCached: true
+  - title: "PUBG Mobile Partners With Microsoft Azure Cloud Services; Comeback In India Likely"
+    excerpt: "Krafton, a South Korean conglomerate will now be working with Microsoft Azure for all PUBG PC, Mobile, and Console platforms. The press release by the company notes that the collaboration aims to ensure privacy rights are respected."
+    publishedDateTime: 2020-11-09T09:29:00Z
+    webUrl: "https://www.gizbot.com/gaming/news/pubg-mobile-partners-with-microsoft-azure-cloud-services-comeback-in-india-likely-070914.html"
+    ampWebUrl: "https://www.gizbot.com/amphtml/gaming/news/pubg-mobile-partners-with-microsoft-azure-cloud-services-comeback-in-india-likely-070914.html"
+    cdnAmpWebUrl: "https://www-gizbot-com.cdn.ampproject.org/c/s/www.gizbot.com/amphtml/gaming/news/pubg-mobile-partners-with-microsoft-azure-cloud-services-comeback-in-india-likely-070914.html"
+    type: article
+    provider:
+      name: GIZBOT
+      domain: gizbot.com
+    quality: 68
+    images:
+      - url: "https://www.gizbot.com/img/2020/11/pubg-mobile-partners-with-microsoft-azure-cloud-services-comeback-in-india-likely-1604913970.jpg"
+        width: 600
+        height: 337
         isCached: true
   - title: "PUBG hints at India return with Microsoft Azure deal"
     excerpt: "Azure is Microsoft’s cloud computing service that allows game creators to build and run their games on a global scale."

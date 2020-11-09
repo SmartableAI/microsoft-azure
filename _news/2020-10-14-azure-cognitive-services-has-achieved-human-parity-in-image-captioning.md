@@ -165,6 +165,22 @@ related:
         width: 1432
         height: 805
         isCached: true
+  - title: "Microsoft Azure Modular Data Center looks to provide a connection anywhere in the world"
+    excerpt: "Microsoft has launched a portable, modular data center that should enable individuals to access cloud computing services from almost anywhere in the world. The Azure Modular Datacenter (MDC ..."
+    publishedDateTime: 2020-10-21T14:22:00Z
+    webUrl: "https://www.techradar.com/news/microsoft-azure-modular-data-center-looks-to-provide-a-connection-anywhere-in-the-world"
+    ampWebUrl: "https://www.techradar.com/amp/news/microsoft-azure-modular-data-center-looks-to-provide-a-connection-anywhere-in-the-world"
+    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/microsoft-azure-modular-data-center-looks-to-provide-a-connection-anywhere-in-the-world"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 89
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/h7j8bHWmHqixVHdTwRYHgR-1200-80.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Microsoft cloud issues continue with more global outages"
     excerpt: "Microsoft’s cloud computing services are continuing to experience issues after outages resurfaced this week. A serious Azure Active Directory authentication issue emerged last week, followed by an Exchange/Outlook problem that affected Office 365 customers in Europe and India."
     publishedDateTime: 2020-10-08T11:00:00Z

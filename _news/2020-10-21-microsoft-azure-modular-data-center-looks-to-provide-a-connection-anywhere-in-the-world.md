@@ -1,26 +1,32 @@
 ---
 category: news
-title: "Microsoft Azure Flaws Open Admin Servers to Takeover"
-excerpt: "Two flaws in Microsoft's cloud-based Azure App Services could have allowed server-side forgery request (SSFR) and remote code-execution attacks."
-publishedDateTime: 2020-10-08T15:40:00Z
-originalUrl: "https://threatpost.com/microsoft-azure-flaws-servers-takeover/159965/"
-webUrl: "https://threatpost.com/microsoft-azure-flaws-servers-takeover/159965/"
+title: "Microsoft Azure Modular Data Center looks to provide a connection anywhere in the world"
+excerpt: "Microsoft has launched a portable, modular data center that should enable individuals to access cloud computing services from almost anywhere in the world. The Azure Modular Datacenter (MDC ..."
+publishedDateTime: 2020-10-21T14:22:00Z
+originalUrl: "https://www.techradar.com/news/microsoft-azure-modular-data-center-looks-to-provide-a-connection-anywhere-in-the-world"
+webUrl: "https://www.techradar.com/news/microsoft-azure-modular-data-center-looks-to-provide-a-connection-anywhere-in-the-world"
+ampWebUrl: "https://www.techradar.com/amp/news/microsoft-azure-modular-data-center-looks-to-provide-a-connection-anywhere-in-the-world"
+cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/microsoft-azure-modular-data-center-looks-to-provide-a-connection-anywhere-in-the-world"
 type: article
-quality: 37
+quality: 89
 heat: -1
 published: false
 
 provider:
-  name: Threat Post
-  domain: threatpost.com
+  name: TechRadar
+  domain: techradar.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/techradar.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
 
 images:
-  - url: "https://media.threatpost.com/wp-content/uploads/sites/103/2020/09/15073634/Microsoft-Office.jpg"
-    width: 750
-    height: 402
+  - url: "https://cdn.mos.cms.futurecdn.net/h7j8bHWmHqixVHdTwRYHgR-1200-80.jpg"
+    width: 1024
+    height: 576
     isCached: true
 
 related:
@@ -165,22 +171,6 @@ related:
       - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/086ab745-514d-4a12-b1eb-c342c869208e.jpg"
         width: 1432
         height: 805
-        isCached: true
-  - title: "Microsoft Azure Modular Data Center looks to provide a connection anywhere in the world"
-    excerpt: "Microsoft has launched a portable, modular data center that should enable individuals to access cloud computing services from almost anywhere in the world. The Azure Modular Datacenter (MDC ..."
-    publishedDateTime: 2020-10-21T14:22:00Z
-    webUrl: "https://www.techradar.com/news/microsoft-azure-modular-data-center-looks-to-provide-a-connection-anywhere-in-the-world"
-    ampWebUrl: "https://www.techradar.com/amp/news/microsoft-azure-modular-data-center-looks-to-provide-a-connection-anywhere-in-the-world"
-    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/microsoft-azure-modular-data-center-looks-to-provide-a-connection-anywhere-in-the-world"
-    type: article
-    provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 89
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/h7j8bHWmHqixVHdTwRYHgR-1200-80.jpg"
-        width: 1024
-        height: 576
         isCached: true
   - title: "Azure Cognitive Services has achieved human parity in image captioning"
     excerpt: "Computer Vision, part of Azure Cognitive Services, now offers an updated image captioning capability that has achieved human parity based on the Novel Object Captioning at Scale (NOCAPS) benchmark. "
@@ -474,6 +464,20 @@ related:
       - url: "https://mma.prnewswire.com/media/486774/DataWeave_Logo.jpg?p=facebook"
         width: 2000
         height: 1046
+        isCached: true
+  - title: "Microsoft Azure Flaws Open Admin Servers to Takeover"
+    excerpt: "Two flaws in Microsoft's cloud-based Azure App Services could have allowed server-side forgery request (SSFR) and remote code-execution attacks."
+    publishedDateTime: 2020-10-08T15:40:00Z
+    webUrl: "https://threatpost.com/microsoft-azure-flaws-servers-takeover/159965/"
+    type: article
+    provider:
+      name: Threat Post
+      domain: threatpost.com
+    quality: 37
+    images:
+      - url: "https://media.threatpost.com/wp-content/uploads/sites/103/2020/09/15073634/Microsoft-Office.jpg"
+        width: 750
+        height: 402
         isCached: true
   - title: "DataWeave Now Available in the Microsoft Azure Marketplace"
     excerpt: "DataWeave, a digital commerce analytics platform, today announced the availability of DataWeave competitive intelligence as a service in the Microsoft Azure Marketplace, an"
@@ -830,6 +834,6 @@ related:
       domain: seekingalpha.com
     quality: 2
 
-secured: "vLa7+J3V+6pM942BQSqL75y18RDW7dHb0ztZHzMb6VDlSImUD0XuwmPx/Lmbj3aUx7nLJ3YGnYvWW9XH6Qr1ssi2KRCsEEYg7KIcxgI1JBDix9hY3tmkFhIANlrXQHxY+e7AULkyYed51MszKbOn3Jvz2N9Efu7ZVX1mla95Y9F3z6bVvwXYYZCeGJG8ec4EMwcPsQ8kLInHcztx4r/5axyhk9FqxMzT4sV1T0CrzU7UbwsZiaYcB1BNOybM/GaoMfUiRJgyaMeO5xraocbUjJE8WmzyTlcZd/Rsz2mL8tx+t3+vhpoRteiPQwRW2c6PhVHe3vxlXTVanPmiSXWPNFt/uFL7ZmA/KpqYkw5e+/7XFKTwdXbHFaSptDTIz0vTdl8XQTnaTlN10lS1YoB1khqK5RHbOX7+L16yq7z7FqubHOqdwCjpXvbRuUN10V8rXQpZwiPziDydJpDOCf9ua3RAnMyOgg4w80nFyFwpOysSAf6dITWYMc6fx4NyTzNG4jm+pZPZncsiyCjualECDw==;QLLHIWob/BGrXwo3C6Sx+g=="
+secured: "DtDRnHf5AYhVaB3OVhdwAVxPGH0sRj2IA0ZEow2ME+cPmhYAfS1RgJVEVRDhXqXzadBLb3V9uLZTiIrUxeMGpUufOnaLTB7VIXifd0qOa5QLj4ypnjp0XDbFsDqvQIhnzMIhSpADxMr3pa/75Ee+42dD7k49XrauGFHrJEBzTnBnNgD2L8+JJweNk/ZsDvdYz0b0vurPMDOuYYTw/SnCw8zxChetKLLHK4fUk+qAjTAfN2mWnpdu3FtL/3kD5ir1l/fxYClNgou2EvOCc1hyYkeO/wjI1RI5kAa1nBBe/5YqbILT9ZZmEXrpbMbbQ7hgvNm2FVa++Mk6IDhomgPQU/ysiiZKabB8re4WOTMO9yw=;uhJ298OtEodO4lMfZppZfw=="
 ---
 

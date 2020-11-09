@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/10/14/microsoft-explains-how-it-improve
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/14/microsoft-explains-how-it-improved-automatic-image-captioning-in-azure-cognitive-services/amp/"
 type: article
 quality: 120
-heat: 1300
+heat: 1320
 published: true
 
 provider:
@@ -156,6 +156,22 @@ related:
       - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/086ab745-514d-4a12-b1eb-c342c869208e.jpg"
         width: 1432
         height: 805
+        isCached: true
+  - title: "Microsoft Azure Modular Data Center looks to provide a connection anywhere in the world"
+    excerpt: "Microsoft has launched a portable, modular data center that should enable individuals to access cloud computing services from almost anywhere in the world. The Azure Modular Datacenter (MDC ..."
+    publishedDateTime: 2020-10-21T14:22:00Z
+    webUrl: "https://www.techradar.com/news/microsoft-azure-modular-data-center-looks-to-provide-a-connection-anywhere-in-the-world"
+    ampWebUrl: "https://www.techradar.com/amp/news/microsoft-azure-modular-data-center-looks-to-provide-a-connection-anywhere-in-the-world"
+    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/microsoft-azure-modular-data-center-looks-to-provide-a-connection-anywhere-in-the-world"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 89
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/h7j8bHWmHqixVHdTwRYHgR-1200-80.jpg"
+        width: 1024
+        height: 576
         isCached: true
   - title: "Azure Cognitive Services has achieved human parity in image captioning"
     excerpt: "Computer Vision, part of Azure Cognitive Services, now offers an updated image captioning capability that has achieved human parity based on the Novel Object Captioning at Scale (NOCAPS) benchmark. "
