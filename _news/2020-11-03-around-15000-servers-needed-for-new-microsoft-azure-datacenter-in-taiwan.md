@@ -96,6 +96,22 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "Krafton-Microsoft Azure deal hints at PUBG Mobile's return to India"
+    excerpt: "Krafton-Microsoft Azure deal will help in securing storage of personally identifiable information of its players and most importantly help the company adhere to local government's regulation."
+    publishedDateTime: 2020-11-09T08:45:00Z
+    webUrl: "https://www.deccanherald.com/specials/krafton-microsoft-azure-deal-hints-at-pubg-mobiles-return-to-india-913317.html"
+    ampWebUrl: "https://www.deccanherald.com/amp/specials/krafton-microsoft-azure-deal-hints-at-pubg-mobiles-return-to-india-913317.html"
+    cdnAmpWebUrl: "https://www-deccanherald-com.cdn.ampproject.org/c/s/www.deccanherald.com/amp/specials/krafton-microsoft-azure-deal-hints-at-pubg-mobiles-return-to-india-913317.html"
+    type: article
+    provider:
+      name: Deccan Herald
+      domain: deccanherald.com
+    quality: 74
+    images:
+      - url: "https://www.deccanherald.com/sites/dh/files/articleimages/2020/11/09/pubg-mobile-913317-1604911225.jpg"
+        width: 1280
+        height: 628
+        isCached: true
   - title: "PUBG hints at India return with Microsoft Azure deal"
     excerpt: "Azure is Microsoft’s cloud computing service that allows game creators to build and run their games on a global scale."
     publishedDateTime: 2020-11-08T09:55:00Z

@@ -1,31 +1,29 @@
 ---
 category: news
-title: "Microsoft named a Leader in the Gartner 2020 Magic Quadrant for Industrial IoT Platforms"
-excerpt: "Embracing digital transformation in Industrial IoT requires companies to rethink and shift business models and operations. Doing so, however, has become more difficult in the past six months due to production slowdowns, restrictions on employee movement with social distancing, and rapidly shifting market"
-publishedDateTime: 2020-10-29T08:00:09Z
-originalUrl: "https://azure.microsoft.com/blog/microsoft-named-a-leader-in-gartner-s-2020-magic-quadrant-for-industrial-iot-platforms/"
-webUrl: "https://azure.microsoft.com/blog/microsoft-named-a-leader-in-gartner-s-2020-magic-quadrant-for-industrial-iot-platforms/"
+title: "Krafton-Microsoft Azure deal hints at PUBG Mobile's return to India"
+excerpt: "Krafton-Microsoft Azure deal will help in securing storage of personally identifiable information of its players and most importantly help the company adhere to local government's regulation."
+publishedDateTime: 2020-11-09T08:45:00Z
+originalUrl: "https://www.deccanherald.com/specials/krafton-microsoft-azure-deal-hints-at-pubg-mobiles-return-to-india-913317.html"
+webUrl: "https://www.deccanherald.com/specials/krafton-microsoft-azure-deal-hints-at-pubg-mobiles-return-to-india-913317.html"
+ampWebUrl: "https://www.deccanherald.com/amp/specials/krafton-microsoft-azure-deal-hints-at-pubg-mobiles-return-to-india-913317.html"
+cdnAmpWebUrl: "https://www-deccanherald-com.cdn.ampproject.org/c/s/www.deccanherald.com/amp/specials/krafton-microsoft-azure-deal-hints-at-pubg-mobiles-return-to-india-913317.html"
 type: article
-quality: 80
+quality: 74
 heat: -1
 published: false
 
 provider:
-  name: Microsoft
-  domain: microsoft.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Deccan Herald
+  domain: deccanherald.com
 
 topics:
   - Azure
-  - IoT
+  - Mobile
 
 images:
-  - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/c87156e3-af18-49b3-93e6-799c89df2138.png"
-    width: 624
-    height: 638
+  - url: "https://www.deccanherald.com/sites/dh/files/articleimages/2020/11/09/pubg-mobile-913317-1604911225.jpg"
+    width: 1280
+    height: 628
     isCached: true
 
 related:
@@ -77,6 +75,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Microsoft named a Leader in the Gartner 2020 Magic Quadrant for Industrial IoT Platforms"
+    excerpt: "Embracing digital transformation in Industrial IoT requires companies to rethink and shift business models and operations. Doing so, however, has become more difficult in the past six months due to production slowdowns, restrictions on employee movement with social distancing, and rapidly shifting market"
+    publishedDateTime: 2020-10-29T08:00:09Z
+    webUrl: "https://azure.microsoft.com/blog/microsoft-named-a-leader-in-gartner-s-2020-magic-quadrant-for-industrial-iot-platforms/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 80
+    images:
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/c87156e3-af18-49b3-93e6-799c89df2138.png"
+        width: 624
+        height: 638
+        isCached: true
   - title: "PUBG Mobile parent inks deal to host game on Microsoft Azure cloud"
     excerpt: "Microsoft’s cloud service will host products “directly operated” by Krafton and its subsidiary companies, including PUBG Mobile, the popular battle royale mobile game which was banned by the Indian government two months ago."
     publishedDateTime: 2020-11-07T08:53:00Z
@@ -92,22 +104,6 @@ related:
       - url: "https://images.livemint.com/img/2020/11/07/600x338/AFP_1HY6EA_1564125018144_1604737011910.jpg"
         width: 600
         height: 337
-        isCached: true
-  - title: "Krafton-Microsoft Azure deal hints at PUBG Mobile's return to India"
-    excerpt: "Krafton-Microsoft Azure deal will help in securing storage of personally identifiable information of its players and most importantly help the company adhere to local government's regulation."
-    publishedDateTime: 2020-11-09T08:45:00Z
-    webUrl: "https://www.deccanherald.com/specials/krafton-microsoft-azure-deal-hints-at-pubg-mobiles-return-to-india-913317.html"
-    ampWebUrl: "https://www.deccanherald.com/amp/specials/krafton-microsoft-azure-deal-hints-at-pubg-mobiles-return-to-india-913317.html"
-    cdnAmpWebUrl: "https://www-deccanherald-com.cdn.ampproject.org/c/s/www.deccanherald.com/amp/specials/krafton-microsoft-azure-deal-hints-at-pubg-mobiles-return-to-india-913317.html"
-    type: article
-    provider:
-      name: Deccan Herald
-      domain: deccanherald.com
-    quality: 74
-    images:
-      - url: "https://www.deccanherald.com/sites/dh/files/articleimages/2020/11/09/pubg-mobile-913317-1604911225.jpg"
-        width: 1280
-        height: 628
         isCached: true
   - title: "PUBG hints at India return with Microsoft Azure deal"
     excerpt: "Azure is Microsoft’s cloud computing service that allows game creators to build and run their games on a global scale."
@@ -354,6 +350,6 @@ related:
         height: 293
         isCached: true
 
-secured: "zDjA211pyekvOJixCEZRV9fmmQ29DyOtM5gQjk9cCYdqPtlt0BZkdwGTScICMw6UYC0vlxv5kHqWO2bJiMvYnXofHRwNu0DJfxsG9j/IEBtd5ke0546IxvLzfa1M0vhOSxQ7gAEfWkhycM5xxvyoH31LU6tmRSRz3+ThZsbqpXeqKkNqVqf9pS3j6wZDfOWcsza6Y0ZQF0Bpsqt0T16UKj8S+Bn46Dfl+q+7YIZNghQfSP1gWmuOq++QHZDgqrQ5mfsXuyvtm2ninNp0ilIjmMHTiou67dxI18okz1+tAWtniTPmzLV27ohYgmFg6HvbfzfqSp2ecpKqeV6Rtor6BVAxMkgCMJrWlSYFCFCGgsw=;679c0Y0uHbDND3zSAxiAqw=="
+secured: "j2hyh9xG+FCC8y9HYUQPrcnRCQbjP3yJHMY1XQ8pyzDvqph2obDYqRoE02fVOUmdQPZwpLz2O2KSGEYyWENa2E+TjxgjMWekpxnYw3GRYM8vwflDcp9nKVpNNL121w9oembkoDBpslI+xgSF0B0NTI0NHahcUYNWywZ3nn9AEldSEw0QW4JoLlVsniX35EtOW+HD6fkroiQ6rQisb1b+EQ9JklV98QpUdsbbMwXGlUQmzhQcmUg4QqDc3YW4cDl2H1Qr0m5BnriuRRQce3UUNrXY5bSwYW/epQ04veGcRdbGbLgK5HMuyQRxHlZKACVX/ksbz6sti1fmXi1V6PKMDxUPu8w7jTVNnUNDMfXG3Dk=;lTT0BTVtqXeL81F9K5Z9sg=="
 ---
 
