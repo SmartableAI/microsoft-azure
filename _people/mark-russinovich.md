@@ -18,7 +18,7 @@ website: https://t.co/BJ4Ib1CWli
 twitter:
   username: markrussinovich
   url: https://twitter.com/markrussinovich
-  followers: 103231
+  followers: 103232
 
 linkedin:
   url: https://www.linkedin.com/in/markrussinovich/
@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Mark Russinovich"
 
-secured: "QckmUqhG2qmZ212FB7TYh2DDIVC/XuMIJhn4lDzFZPcU3vGG7MziXeILplgJ5hbcOx9xww6/nccsl5O0JoZ7gU1TQnbJR2sK1Go9E0O9D02GEvqsiSEIUydN4fkWZrCQcE5IvUSFvoxytt0kBz48L59ztK/C110kQSP06Lt83Y03oV/rgfyxW29tDU2iwVGzHsUnylyTrbotA8m2P8evot3YHW1lt/tQMo682PoTmG4J+TJfdT6tvTFhHyldyfu+RbkRVTLZ77VtGg9F8QcvaJHui8cEL531h+98cafBMd0+ijqrLlOw7t/fB4QekgIH9AmT8jtRMkE5WFF44ywiunfAz/5UzJGFrQDa6jnAdLu6rzCl0RLYDfIgS2DPZOrrhC0AuK7w6G2cmnc5BF2bQ1x5y03SPav+VLD/yQ3fbHI=;P5vZY6E030IwrOjLwqVDRw=="
+secured: "c/3rT1XY+06z+yr2ys8txVSTD1nabrW0GQRN5N+19BFDaqtUGQY8yPYSuwCjefaR3QAWNGUjwt9TZj3lSa6O+ygX09+AsJTXSDXAEDPUFsJ6IW/s9Sr/Dndq3nrUK3vnxx9O9Vn3ng7wAI69XvTiV1W7yK0QXFe6q1BK0K9YXf/FYmCgbCbacyeH67nQ/TZnHnAUkwShawe2oQEWMzqNCZ69W7ReY+TnPw5qgJ4HOKU2B0cIo/IAoLR9KfzNkzag9ZaFLUhy4YVF1+F95m96C8CXNeafEwPmJ8sCuy7pUBBA20FqSgYov6A8gvfLgZOuiU/TzqKwq9jDLzULeezyPSj3JxYc7KdvrLCI1HfZRYLC5LcLiPasEpUGuskHw77Ihq92x4rgnvgbcdA1hUNKuoZ3hgC2OSBRiYA52XciX5E=;+HuoLDmKivbXYMFAUXOrsQ=="
 ---
 
