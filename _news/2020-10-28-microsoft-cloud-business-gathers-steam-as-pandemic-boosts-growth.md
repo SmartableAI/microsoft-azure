@@ -1,12 +1,12 @@
 ---
 category: news
 title: "Microsoft cloud business gathers steam as pandemic boosts growth"
-excerpt: "Microsoft Corp's <MSFT.O> cloud computing business slightly re-accelerated and its Teams messaging and collaboration software won new users, as a pandemic-driven shift to working from home and online learning drove quarterly results ahead of investor targets."
-publishedDateTime: 2020-10-28T11:41:00Z
-originalUrl: "https://www.reuters.com/article/us-microsoft-results/microsoft-cloud-business-gathers-steam-as-pandemic-boosts-growth-idUSKBN27C2YV"
-webUrl: "https://www.reuters.com/article/us-microsoft-results/microsoft-cloud-business-gathers-steam-as-pandemic-boosts-growth-idUSKBN27C2YV"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27C2Z1"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27C2Z1"
+excerpt: "(Reuters) - Microsoft Corp's MSFT.O cloud computing business slightly re-accelerated and its Teams messaging and collaboration software won new users, as a pandemic-driven shift to working from ..."
+publishedDateTime: 2020-10-27T22:57:00Z
+originalUrl: "https://uk.reuters.com/article/us-microsoft-results/microsoft-cloud-business-gathers-steam-as-pandemic-boosts-growth-idUKKBN27C2YV"
+webUrl: "https://uk.reuters.com/article/us-microsoft-results/microsoft-cloud-business-gathers-steam-as-pandemic-boosts-growth-idUKKBN27C2YV"
+ampWebUrl: "https://uk.mobile.reuters.com/article/amp/idUKKBN27C2ZB"
+cdnAmpWebUrl: "https://uk-mobile-reuters-com.cdn.ampproject.org/c/s/uk.mobile.reuters.com/article/amp/idUKKBN27C2ZB"
 type: article
 quality: 82
 heat: -1
@@ -24,7 +24,7 @@ topics:
   - Azure
 
 images:
-  - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201027&t=2&i=1539032539&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9Q1W3"
+  - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201027&t=2&i=1539032545&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9Q1WB"
     width: 817
     height: 545
     isCached: true
@@ -531,6 +531,6 @@ related:
       domain: microsoft.com
     quality: 2
 
-secured: "mrJbi+rnfwi+Tl4dtB5xCXmtBFneHi2xh+MvqxRqHlAKlUp/y0y3vAfvkL64PDAcszCtBGMNw/KlrsHOgD6v+QAIbjjgacmanRdGSfeRxzAQTZVCTyrGPPO34e4qbCIOes70wvSi/fqpwDG+4Y2YuzB3rff23tWAypPx7SVwL3suHASZEJRssrXDYZFTPV7ppE9pnzxXJdNgarAko3scyehqUZ/wWh0DDeY7e8ZHSBA7nuEhMC9ogcpNDSu6tVmGYoTGlVjLGZUnUFi9yAsngZkUgPqgZm6XgNNV0CkjZcIW15QJ1kFmYMWHpT07celITWjjcQ3Xp8e+qu49v2NWFx76mtX+zQNMrfOOuPvt2yTxbvlYeldX8gJWiyVvEU7CgSfyxFTac1fSHWbL1qcQkWA0ZNmi6vdrVRv4AhkgSXsrQvYjNk7j1x6FsY7om6w3mQwipNdeVO7YoThx9atlI6/IJ7evmhltX5zyJuG0cdapnNQdwwWzyRhC4yMCmTR5XWMXjP+sfXv3jGafJ0dt1Q==;UfcZe2TpbdTxGY93iY25Ow=="
+secured: "9upZfTB+x3LBKZsxZA1kgyttqHFFEf/WsyV8jaOwmFAANBZIl13yL5/Gbm4t2hX7yiIrNA2cljQ/ubT9GX5+e1g1QmOCzhwl87qHfRCLBm/DW6wrHK0oETrWIOfYG6NeuWw8pEIXdjcglHNIC5whSw4CP/F4/ZOR/nJgcdtaEGh27wCiTOnp7y+BrCqtgmdLNPThUORa7trI/YamYOtwt9XyaYAZM737/zwtO5+R90tqTMiiAoyr54espaDDwVfT9RUInwpwP8FAr6lYptyrl1aS3KzWhxltU17QX0V7RyDm8hnwpavV/uy+VzWekEYd1mNCt+IjAmyoY0AvRM/GhEUeJfk57A9KFBSt9HI3eRo=;rxIVJIb0xHGpngu4z7o+TQ=="
 ---
 

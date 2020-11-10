@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/new-regions-in-brazil-so
 webUrl: "https://azure.microsoft.com/en-us/updates/new-regions-in-brazil-southeast-for-azure-database-for-mysql/"
 type: article
 quality: 99
-heat: 159
+heat: 179
 published: true
 
 provider:
@@ -32,6 +32,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 95
+  - title: "Azure Automation is now available in Brazil Southeast region"
+    excerpt: "Automate tasks across Azure & Non-Azure environment using Powershell and Python based scripts. "
+    publishedDateTime: 2020-11-10T22:13:51Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-automation-in-brazil-southeast-region/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
   - title: "New region for MySQL - Single Server in Brazil Southeast"
     excerpt: "Preview support of Azure Database for MySQL - Single Server is now available in the Brazil Southeast region, adding additional flexibility in deploying solutions to help accelerate innovation. "
     publishedDateTime: 2020-10-28T16:18:37Z

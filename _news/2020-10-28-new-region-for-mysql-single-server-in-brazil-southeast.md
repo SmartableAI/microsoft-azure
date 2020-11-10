@@ -40,6 +40,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 95
+  - title: "Azure Automation is now available in Brazil Southeast region"
+    excerpt: "Automate tasks across Azure & Non-Azure environment using Powershell and Python based scripts. "
+    publishedDateTime: 2020-11-10T22:13:51Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-automation-in-brazil-southeast-region/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
   - title: "Private Link for Azure Database for MySQL now in two US government regions"
     excerpt: ""
     publishedDateTime: 2020-05-04T18:00:17Z
