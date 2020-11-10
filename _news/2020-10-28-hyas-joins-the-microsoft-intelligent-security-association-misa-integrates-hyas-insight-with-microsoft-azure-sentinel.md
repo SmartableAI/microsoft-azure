@@ -81,6 +81,17 @@ related:
         width: 624
         height: 638
         isCached: true
+  - title: "OpenText brings Digital Investigation to the Cloud with Microsoft Azure"
+    excerpt: "OpenText™ EnCase solutions are now certified on Microsoft AzureWATERLOO, Ontario, Nov. 10, 2020 /CNW/ --  OpenText™ (NASDAQ: OTEX) (TSX: OTEX),"
+    publishedDateTime: 2020-11-10T16:23:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/opentext-brings-digital-investigation-to-the-cloud-with-microsoft-azure-1029787336"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/opentext-brings-digital-investigation-to-the-cloud-with-microsoft-azure-1029787336"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/opentext-brings-digital-investigation-to-the-cloud-with-microsoft-azure-1029787336"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 77
   - title: "PUBG Mobile parent inks deal to host game on Microsoft Azure cloud"
     excerpt: "Microsoft’s cloud service will host products “directly operated” by Krafton and its subsidiary companies, including PUBG Mobile, the popular battle royale mobile game which was banned by the Indian government two months ago."
     publishedDateTime: 2020-11-07T08:53:00Z
@@ -144,6 +155,22 @@ related:
       - url: "https://www.gizbot.com/img/2020/11/pubg-mobile-partners-with-microsoft-azure-cloud-services-comeback-in-india-likely-1604913970.jpg"
         width: 600
         height: 337
+        isCached: true
+  - title: "PUBG, PUBG Mobile will run on Microsoft Azure, plays on Xbox Series X, Xbox Series S day one"
+    excerpt: "PUBG, a popular battle royale game, is officially making the transition to Microsoft Azure on all platforms, including its mobile variant. PUBG works on Xbox Series X|S day one, with smoother framerates."
+    publishedDateTime: 2020-11-10T15:24:00Z
+    webUrl: "https://www.windowscentral.com/pubg-pubg-mobile-will-run-microsoft-azure-plays-xbox-series-x-xbox-series-s-day-one"
+    ampWebUrl: "https://www.windowscentral.com/pubg-pubg-mobile-will-run-microsoft-azure-plays-xbox-series-x-xbox-series-s-day-one?amp"
+    cdnAmpWebUrl: "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/pubg-pubg-mobile-will-run-microsoft-azure-plays-xbox-series-x-xbox-series-s-day-one?amp"
+    type: article
+    provider:
+      name: Windows Central
+      domain: windowscentral.com
+    quality: 63
+    images:
+      - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2018/05/pubg_0.jpg"
+        width: 800
+        height: 450
         isCached: true
   - title: "PUBG hints at India return with Microsoft Azure deal"
     excerpt: "Azure is Microsoft’s cloud computing service that allows game creators to build and run their games on a global scale."

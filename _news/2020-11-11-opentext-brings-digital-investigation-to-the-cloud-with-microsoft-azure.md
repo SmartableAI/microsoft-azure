@@ -1,28 +1,27 @@
 ---
 category: news
-title: "DH2i's DxOdyssey for IoT Now Available in the Microsoft Azure Marketplace"
-excerpt: "Oct. 28, 2020 /PRNewswire/ -- DH2i®, a leading provider of multi-platform Software Defined Perimeter (SDP) and Smart Availability software, today announced the availability of DxOdyssey for IoT in the Microsoft Azure Marketplace, an online store ..."
-publishedDateTime: 2020-10-28T13:16:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/dh2is-dxodyssey-for-iot-now-available-in-the-microsoft-azure-marketplace-301161442.html"
-webUrl: "https://www.prnewswire.com/news-releases/dh2is-dxodyssey-for-iot-now-available-in-the-microsoft-azure-marketplace-301161442.html"
+title: "OpenText brings Digital Investigation to the Cloud with Microsoft Azure"
+excerpt: "OpenText™ EnCase solutions are now certified on Microsoft AzureWATERLOO, Ontario, Nov. 10, 2020 /CNW/ --  OpenText™ (NASDAQ: OTEX) (TSX: OTEX),"
+publishedDateTime: 2020-11-10T16:23:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/opentext-brings-digital-investigation-to-the-cloud-with-microsoft-azure-1029787336"
+webUrl: "https://markets.businessinsider.com/news/stocks/opentext-brings-digital-investigation-to-the-cloud-with-microsoft-azure-1029787336"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/opentext-brings-digital-investigation-to-the-cloud-with-microsoft-azure-1029787336"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/opentext-brings-digital-investigation-to-the-cloud-with-microsoft-azure-1029787336"
 type: article
-quality: 53
+quality: 77
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
-  - IoT
-
-images:
-  - url: "https://mma.prnewswire.com/media/324010/dh2i_logo.jpg?p=facebook"
-    width: 1400
-    height: 732
-    isCached: true
 
 related:
   - title: "It's Past Time for Microsoft to Disclose Azure Details"
@@ -87,17 +86,6 @@ related:
         width: 624
         height: 638
         isCached: true
-  - title: "OpenText brings Digital Investigation to the Cloud with Microsoft Azure"
-    excerpt: "OpenText™ EnCase solutions are now certified on Microsoft AzureWATERLOO, Ontario, Nov. 10, 2020 /CNW/ --  OpenText™ (NASDAQ: OTEX) (TSX: OTEX),"
-    publishedDateTime: 2020-11-10T16:23:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/opentext-brings-digital-investigation-to-the-cloud-with-microsoft-azure-1029787336"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/opentext-brings-digital-investigation-to-the-cloud-with-microsoft-azure-1029787336"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/opentext-brings-digital-investigation-to-the-cloud-with-microsoft-azure-1029787336"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 77
   - title: "PUBG Mobile parent inks deal to host game on Microsoft Azure cloud"
     excerpt: "Microsoft’s cloud service will host products “directly operated” by Krafton and its subsidiary companies, including PUBG Mobile, the popular battle royale mobile game which was banned by the Indian government two months ago."
     publishedDateTime: 2020-11-07T08:53:00Z
@@ -193,6 +181,20 @@ related:
       - url: "https://www.thehindu.com/sci-tech/technology/lgkedg/article33051813.ece/ALTERNATES/LANDSCAPE_615/pubg-returnjpeg"
         width: 615
         height: 384
+        isCached: true
+  - title: "DH2i's DxOdyssey for IoT Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Oct. 28, 2020 /PRNewswire/ -- DH2i®, a leading provider of multi-platform Software Defined Perimeter (SDP) and Smart Availability software, today announced the availability of DxOdyssey for IoT in the Microsoft Azure Marketplace, an online store ..."
+    publishedDateTime: 2020-10-28T13:16:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/dh2is-dxodyssey-for-iot-now-available-in-the-microsoft-azure-marketplace-301161442.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 53
+    images:
+      - url: "https://mma.prnewswire.com/media/324010/dh2i_logo.jpg?p=facebook"
+        width: 1400
+        height: 732
         isCached: true
   - title: "Microsoft to establish its first datacenter region in Taiwan "
     excerpt: "The new region is anticipated to include Microsoft Azure, with Microsoft 365, Dynamics 365 and Power Platform to follow."
@@ -432,6 +434,6 @@ related:
         height: 293
         isCached: true
 
-secured: "udRAph8BwSYEF7aeafM0HacNCFeR4DK1jkv8+yj3+/UZm+XFYkGhL711aF2BlGyhiyAZK8vLvrS4Jn4URfdkDdUhsUw85jbZ0cxdo1UOfiVxAB5vuQQJFIowtKlO7DHMmmO1rkLLjuRvurUm0W0+hhXFZm/KUrEg+fOsbFl6oZc3QMeUELz9D+2av3heLjNbjKvAcDUsa0LpmaU40AsB/BG8QgWDSyxW+eW+OnOrHBoACiO9hDRC3ikhqIpqvSdaIebPpnb1d62w/pqMxd7mEdprdvRQKf7x6aUqpHdnjwFw+5dExC+4Z+a9HfrnVBIJYt9QfygCQx6jgbp+2jBWd2wFezOpy0LZreFAyJXkjug=;yU7uU2IflaHtPrP8NrZwGg=="
+secured: "+keTRPm9xGzrgQ8XgCPsleEIJafgiRtEyxRgMeep4uJy0cikigLsY/Jfh5LduWJa3kDTvH0pY79W9XdT97eR59mRBVzCuVqvTj2Hh0qAdpKyOIl3N8Gihw4jVrw/estYl3CWhgNZfj5BeD9e2O8UY29mds/vZDiGmVJD3Zqm3IxWQtcE42dFduASDFSsmla9lfAjucd3/NeDGobHcUU54kxvR2VPEniub8ZXgijBbJT9/9aiAvg9YgKd/V8ok54igLM8quDdh9o1Wq57PMQuSdQA011Eif2E/p1ngexzLrIv90OcKlp/XThZxpdgQnVnAgn5Rw84euF+fRvYVd+nSsvP+WZAifSzr6UQsVkWxp4=;rJnFKrnRak7ipj1Ol9OWvw=="
 ---
 

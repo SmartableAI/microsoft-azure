@@ -1,27 +1,29 @@
 ---
 category: news
-title: "DH2i's DxOdyssey for IoT Now Available in the Microsoft Azure Marketplace"
-excerpt: "Oct. 28, 2020 /PRNewswire/ -- DH2i®, a leading provider of multi-platform Software Defined Perimeter (SDP) and Smart Availability software, today announced the availability of DxOdyssey for IoT in the Microsoft Azure Marketplace, an online store ..."
-publishedDateTime: 2020-10-28T13:16:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/dh2is-dxodyssey-for-iot-now-available-in-the-microsoft-azure-marketplace-301161442.html"
-webUrl: "https://www.prnewswire.com/news-releases/dh2is-dxodyssey-for-iot-now-available-in-the-microsoft-azure-marketplace-301161442.html"
+title: "PUBG, PUBG Mobile will run on Microsoft Azure, plays on Xbox Series X, Xbox Series S day one"
+excerpt: "PUBG, a popular battle royale game, is officially making the transition to Microsoft Azure on all platforms, including its mobile variant. PUBG works on Xbox Series X|S day one, with smoother framerates."
+publishedDateTime: 2020-11-10T15:24:00Z
+originalUrl: "https://www.windowscentral.com/pubg-pubg-mobile-will-run-microsoft-azure-plays-xbox-series-x-xbox-series-s-day-one"
+webUrl: "https://www.windowscentral.com/pubg-pubg-mobile-will-run-microsoft-azure-plays-xbox-series-x-xbox-series-s-day-one"
+ampWebUrl: "https://www.windowscentral.com/pubg-pubg-mobile-will-run-microsoft-azure-plays-xbox-series-x-xbox-series-s-day-one?amp"
+cdnAmpWebUrl: "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/pubg-pubg-mobile-will-run-microsoft-azure-plays-xbox-series-x-xbox-series-s-day-one?amp"
 type: article
-quality: 53
+quality: 63
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Windows Central
+  domain: windowscentral.com
 
 topics:
   - Azure
-  - IoT
+  - Mobile
 
 images:
-  - url: "https://mma.prnewswire.com/media/324010/dh2i_logo.jpg?p=facebook"
-    width: 1400
-    height: 732
+  - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2018/05/pubg_0.jpg"
+    width: 800
+    height: 450
     isCached: true
 
 related:
@@ -162,22 +164,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "PUBG, PUBG Mobile will run on Microsoft Azure, plays on Xbox Series X, Xbox Series S day one"
-    excerpt: "PUBG, a popular battle royale game, is officially making the transition to Microsoft Azure on all platforms, including its mobile variant. PUBG works on Xbox Series X|S day one, with smoother framerates."
-    publishedDateTime: 2020-11-10T15:24:00Z
-    webUrl: "https://www.windowscentral.com/pubg-pubg-mobile-will-run-microsoft-azure-plays-xbox-series-x-xbox-series-s-day-one"
-    ampWebUrl: "https://www.windowscentral.com/pubg-pubg-mobile-will-run-microsoft-azure-plays-xbox-series-x-xbox-series-s-day-one?amp"
-    cdnAmpWebUrl: "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/pubg-pubg-mobile-will-run-microsoft-azure-plays-xbox-series-x-xbox-series-s-day-one?amp"
-    type: article
-    provider:
-      name: Windows Central
-      domain: windowscentral.com
-    quality: 63
-    images:
-      - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2018/05/pubg_0.jpg"
-        width: 800
-        height: 450
-        isCached: true
   - title: "PUBG hints at India return with Microsoft Azure deal"
     excerpt: "Azure is Microsoft’s cloud computing service that allows game creators to build and run their games on a global scale."
     publishedDateTime: 2020-11-08T09:55:00Z
@@ -193,6 +179,20 @@ related:
       - url: "https://www.thehindu.com/sci-tech/technology/lgkedg/article33051813.ece/ALTERNATES/LANDSCAPE_615/pubg-returnjpeg"
         width: 615
         height: 384
+        isCached: true
+  - title: "DH2i's DxOdyssey for IoT Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Oct. 28, 2020 /PRNewswire/ -- DH2i®, a leading provider of multi-platform Software Defined Perimeter (SDP) and Smart Availability software, today announced the availability of DxOdyssey for IoT in the Microsoft Azure Marketplace, an online store ..."
+    publishedDateTime: 2020-10-28T13:16:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/dh2is-dxodyssey-for-iot-now-available-in-the-microsoft-azure-marketplace-301161442.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 53
+    images:
+      - url: "https://mma.prnewswire.com/media/324010/dh2i_logo.jpg?p=facebook"
+        width: 1400
+        height: 732
         isCached: true
   - title: "Microsoft to establish its first datacenter region in Taiwan "
     excerpt: "The new region is anticipated to include Microsoft Azure, with Microsoft 365, Dynamics 365 and Power Platform to follow."
@@ -432,6 +432,6 @@ related:
         height: 293
         isCached: true
 
-secured: "udRAph8BwSYEF7aeafM0HacNCFeR4DK1jkv8+yj3+/UZm+XFYkGhL711aF2BlGyhiyAZK8vLvrS4Jn4URfdkDdUhsUw85jbZ0cxdo1UOfiVxAB5vuQQJFIowtKlO7DHMmmO1rkLLjuRvurUm0W0+hhXFZm/KUrEg+fOsbFl6oZc3QMeUELz9D+2av3heLjNbjKvAcDUsa0LpmaU40AsB/BG8QgWDSyxW+eW+OnOrHBoACiO9hDRC3ikhqIpqvSdaIebPpnb1d62w/pqMxd7mEdprdvRQKf7x6aUqpHdnjwFw+5dExC+4Z+a9HfrnVBIJYt9QfygCQx6jgbp+2jBWd2wFezOpy0LZreFAyJXkjug=;yU7uU2IflaHtPrP8NrZwGg=="
+secured: "lPTiS36GR5zspWUuhcLI81+Z6JftgOs7PDDglA5ehWLa4K/SJywLfarxHqFc0QXtzdsw59Gk+IHTF92J2s6R+98U19WRr1/vYOYIVuEn2kGiK9I+vlMS1G6iqcdEMEbcd82IuapQvEb55aFMsXt/fRmuoQDdIqgV+3hfcWJBFfyC1NZqINaD3gRKDIi+HKg3v5mF1vwjdIoxBfz61wHRl+XH9MnJYVaNF253qt5dAjTo40igDg4ARqJcVKaV9tfhh7YMy7SRlASw6xM2NWnBB75ujydAd+FcqzWzBJv25iYyAL++uH+p/iyhuWjxHeexiEaA3lzCqaBZ0mUwm2AYQw6D/g75yooE/DjH7CdCz/M=;pv62UuY+hA7ZDnLLcaFpmw=="
 ---
 
