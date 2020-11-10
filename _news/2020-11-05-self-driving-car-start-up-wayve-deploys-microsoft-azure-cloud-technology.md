@@ -261,6 +261,20 @@ related:
         width: 1024
         height: 768
         isCached: true
+  - title: "OpenText brings Digital Investigation to the Cloud with Microsoft Azure"
+    excerpt: "PRNewswire/ -- OpenText™ (NASDAQ: OTEX) (TSX: OTEX), today announced OpenText™ EnCase Forensic and OpenText™ EnCase Endpoint Investigator are now certified"
+    publishedDateTime: 2020-11-10T13:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/opentext-brings-digital-investigation-to-the-cloud-with-microsoft-azure-301169053.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 37
+    images:
+      - url: "https://mma.prnewswire.com/media/780816/Open_Text_Logo.jpg?p=facebook"
+        width: 803
+        height: 419
+        isCached: true
   - title: "AttackIQ integrates Security Optimization Platform with Microsoft Azure Sentinel cloud-native SIEM platform"
     excerpt: "AttackIQ announced integration between Microsoft Azure Sentinel cloud-native SIEM platform and the AttackIQ Security Optimization Platform."
     publishedDateTime: 2020-10-28T03:00:00Z

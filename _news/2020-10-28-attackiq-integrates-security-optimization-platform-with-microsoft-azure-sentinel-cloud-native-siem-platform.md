@@ -268,6 +268,20 @@ related:
         width: 1024
         height: 768
         isCached: true
+  - title: "OpenText brings Digital Investigation to the Cloud with Microsoft Azure"
+    excerpt: "PRNewswire/ -- OpenText™ (NASDAQ: OTEX) (TSX: OTEX), today announced OpenText™ EnCase Forensic and OpenText™ EnCase Endpoint Investigator are now certified"
+    publishedDateTime: 2020-11-10T13:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/opentext-brings-digital-investigation-to-the-cloud-with-microsoft-azure-301169053.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 37
+    images:
+      - url: "https://mma.prnewswire.com/media/780816/Open_Text_Logo.jpg?p=facebook"
+        width: 803
+        height: 419
+        isCached: true
   - title: "Nuventive Improvement Platform Now Available in the Microsoft Azure Marketplace"
     excerpt: "Planning and improvement software company Nuventive today announced the availability of the Nuventive Improvement Platform in the"
     publishedDateTime: 2020-11-05T20:03:00Z

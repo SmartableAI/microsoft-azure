@@ -1,12 +1,12 @@
 ---
 category: news
-title: "Nuventive Improvement Platform Now Available in the Microsoft Azure Marketplace"
-excerpt: "Planning and improvement software company Nuventive today announced the availability of the Nuventive Improvement Platform in the"
-publishedDateTime: 2020-11-05T20:03:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/nuventive-improvement-platform-now-available-in-the-microsoft-azure-marketplace-301167528.html"
-webUrl: "https://www.prnewswire.com/news-releases/nuventive-improvement-platform-now-available-in-the-microsoft-azure-marketplace-301167528.html"
+title: "OpenText brings Digital Investigation to the Cloud with Microsoft Azure"
+excerpt: "PRNewswire/ -- OpenText™ (NASDAQ: OTEX) (TSX: OTEX), today announced OpenText™ EnCase Forensic and OpenText™ EnCase Endpoint Investigator are now certified"
+publishedDateTime: 2020-11-10T13:00:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/opentext-brings-digital-investigation-to-the-cloud-with-microsoft-azure-301169053.html"
+webUrl: "https://www.prnewswire.com/news-releases/opentext-brings-digital-investigation-to-the-cloud-with-microsoft-azure-301169053.html"
 type: article
-quality: 33
+quality: 37
 heat: -1
 published: false
 
@@ -18,9 +18,9 @@ topics:
   - Azure
 
 images:
-  - url: "https://mma.prnewswire.com/media/1327992/Nuventive_Improvement_Platform_Azure_Marketplace.jpg?p=facebook"
-    width: 974
-    height: 510
+  - url: "https://mma.prnewswire.com/media/780816/Open_Text_Logo.jpg?p=facebook"
+    width: 803
+    height: 419
     isCached: true
 
 related:
@@ -267,20 +267,6 @@ related:
         width: 1024
         height: 768
         isCached: true
-  - title: "OpenText brings Digital Investigation to the Cloud with Microsoft Azure"
-    excerpt: "PRNewswire/ -- OpenText™ (NASDAQ: OTEX) (TSX: OTEX), today announced OpenText™ EnCase Forensic and OpenText™ EnCase Endpoint Investigator are now certified"
-    publishedDateTime: 2020-11-10T13:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/opentext-brings-digital-investigation-to-the-cloud-with-microsoft-azure-301169053.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 37
-    images:
-      - url: "https://mma.prnewswire.com/media/780816/Open_Text_Logo.jpg?p=facebook"
-        width: 803
-        height: 419
-        isCached: true
   - title: "AttackIQ integrates Security Optimization Platform with Microsoft Azure Sentinel cloud-native SIEM platform"
     excerpt: "AttackIQ announced integration between Microsoft Azure Sentinel cloud-native SIEM platform and the AttackIQ Security Optimization Platform."
     publishedDateTime: 2020-10-28T03:00:00Z
@@ -294,6 +280,20 @@ related:
       - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/10/14145709/helpnetsecurity.jpg"
         width: 1200
         height: 627
+        isCached: true
+  - title: "Nuventive Improvement Platform Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Planning and improvement software company Nuventive today announced the availability of the Nuventive Improvement Platform in the"
+    publishedDateTime: 2020-11-05T20:03:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/nuventive-improvement-platform-now-available-in-the-microsoft-azure-marketplace-301167528.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 33
+    images:
+      - url: "https://mma.prnewswire.com/media/1327992/Nuventive_Improvement_Platform_Azure_Marketplace.jpg?p=facebook"
+        width: 974
+        height: 510
         isCached: true
   - title: "Microsoft’s Azure cloud platform will be the brain for their future autonomous robots!"
     excerpt: "Azure is run by Artificial Intelligence that provides users with a customizable space to work, save, share, and connect through multi-functional, serverless software. Halawany’s robot renders for Microsoft Middle East,"
@@ -404,6 +404,6 @@ related:
         height: 293
         isCached: true
 
-secured: "Tyrtr3MuzHgm7xmuU/5CZBSU6Ur8YhaVZXliuBil6H9agZXDlZkH0Ber5YtTHvZxm47hDtJ7GsF8UEu5ZxhvtK6ONil6IQORIRQRvsfl6PS3C803rNoYPJ/tONVSndI9N/UgVN66XSzcwVwfebXhrbyfin/Byeuqg9Ek8Qls0k7OlHBZJKqOdBzh4MnsYKCLcdAY6i4sV6bkkiGqyyPYUhOFcFhgBeClwnbCS0H2SD2ZHqT12U9+YS3IF1hofNePks9OVzc40hwxgh5/E/nuYr2YT5YrxsvKsz0sqNaJf4ql/MnnU1505L/FS3bIXFPg5/mODtttfoBUevttrxI2DQnqQNkAuYxCKtMZvExigss=;w7o3JEi5jQHTseXyQv0VyA=="
+secured: "BjoTR5FNGuNpgCBNiJh0aWT+k0EA93NSd0255RB2RoBw3YFCkueInV/94XzqMq3F1JnJdsMUIg4zJGo+Fa07e9+V8SMJ5uWiclQTCcWbzS+ANiqdVCnpAKVWEJAumlJUcQio+egRQMp2fkckR/abvb2dco4davGV6W/A/PVo5m6WoFX3UC2rE5HSsrdbPkEEpKUFnyavIfQvbEOPuhLqDykWjSs8t93LGQV2W6KXl0X3YOnEnceRsLo3eYucdQ26Z67fsFJL82iVppwFlhUTx/gY+oIN+r6rq3uVVlISjJ5NXH71HxYNQrQ2GTgUlI4zp46K0HwZthdOIWkyxcbecGtMDvK/MDZhsbZ6UkSiTnk=;suHTVosVyG0PLjPE7CN7EA=="
 ---
 

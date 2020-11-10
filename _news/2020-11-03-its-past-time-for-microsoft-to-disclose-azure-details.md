@@ -9,7 +9,7 @@ ampWebUrl: "https://www.fool.com/amp/investing/2020/11/03/its-past-time-for-micr
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/11/03/its-past-time-for-microsoft-to-disclose-azure-deta/"
 type: article
 quality: 97
-heat: 637
+heat: 657
 published: true
 
 provider:
@@ -256,6 +256,20 @@ related:
       - url: "https://www.onmsft.com/wp-content/uploads/2020/08/Build-2018-Cloud-sign-2.jpg"
         width: 1024
         height: 768
+        isCached: true
+  - title: "OpenText brings Digital Investigation to the Cloud with Microsoft Azure"
+    excerpt: "PRNewswire/ -- OpenText™ (NASDAQ: OTEX) (TSX: OTEX), today announced OpenText™ EnCase Forensic and OpenText™ EnCase Endpoint Investigator are now certified"
+    publishedDateTime: 2020-11-10T13:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/opentext-brings-digital-investigation-to-the-cloud-with-microsoft-azure-301169053.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 37
+    images:
+      - url: "https://mma.prnewswire.com/media/780816/Open_Text_Logo.jpg?p=facebook"
+        width: 803
+        height: 419
         isCached: true
   - title: "AttackIQ integrates Security Optimization Platform with Microsoft Azure Sentinel cloud-native SIEM platform"
     excerpt: "AttackIQ announced integration between Microsoft Azure Sentinel cloud-native SIEM platform and the AttackIQ Security Optimization Platform."
