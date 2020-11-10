@@ -646,6 +646,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Redis Enterprise on Microsoft Azure Cache Now Available in Public Preview"
+    excerpt: "Today, Redis Labs announced the new fully integrated tiers of Redis Enterprise on Microsoft Azure Cache for Redis are available now in public preview. The new Redis Enterprise tiers bring advanced functionality to Azure Cache,"
+    publishedDateTime: 2020-11-09T17:00:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/f9c1950537534548852fafd49cf07d19"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 36
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Redis and Microsoft to deliver Redis Enterprise as integrated tiers of Azure Cache for Redis"
     excerpt: "Redis Labs announced a new strategic agreement with Microsoft to deliver Redis Enterprise as new, fully integrated tiers of Azure Cache for Redis."
     publishedDateTime: 2020-05-13T23:48:00Z

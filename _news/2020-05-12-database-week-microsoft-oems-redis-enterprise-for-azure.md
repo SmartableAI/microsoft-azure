@@ -8,7 +8,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/database-week-microsoft-oem
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/database-week-microsoft-oems-redis-enterprise-for-azure/"
 type: article
 quality: 97
-heat: 1197
+heat: 1217
 published: true
 
 provider:
@@ -633,6 +633,20 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Redis Enterprise on Microsoft Azure Cache Now Available in Public Preview"
+    excerpt: "Today, Redis Labs announced the new fully integrated tiers of Redis Enterprise on Microsoft Azure Cache for Redis are available now in public preview. The new Redis Enterprise tiers bring advanced functionality to Azure Cache,"
+    publishedDateTime: 2020-11-09T17:00:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/f9c1950537534548852fafd49cf07d19"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 36
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
   - title: "Report: Microsoft acquiring Microvision, a leader in ultra-miniature projection display"
     excerpt: "MicroVision is a leader in ultra-miniature sensing and projection solution based on the laser beam scanning methodology. MicroVision has a substantial portfolio of patents relating to laser beam scanning projection and sensing."

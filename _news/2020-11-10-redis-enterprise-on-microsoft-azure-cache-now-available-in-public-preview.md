@@ -1,33 +1,27 @@
 ---
 category: news
-title: "Microsoft to adapt its cloud software for healthcare industry"
-excerpt: "Microsoft Corp said on Tuesday it plans to roll out a version of its cloud-based software that will be modified to suit the needs of healthcare organizations."
-publishedDateTime: 2020-05-19T15:05:00Z
-webUrl: "https://www.reuters.com/article/us-microsoft-tech-idUSKBN22V27Z"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN22V27Z"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN22V27Z"
+title: "Redis Enterprise on Microsoft Azure Cache Now Available in Public Preview"
+excerpt: "Today, Redis Labs announced the new fully integrated tiers of Redis Enterprise on Microsoft Azure Cache for Redis are available now in public preview. The new Redis Enterprise tiers bring advanced functionality to Azure Cache,"
+publishedDateTime: 2020-11-09T17:00:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/f9c1950537534548852fafd49cf07d19"
+webUrl: "https://apnews.com/press-release/business-wire/f9c1950537534548852fafd49cf07d19"
 type: article
-quality: 82
+quality: 36
 heat: -1
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/reuters.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20200519&t=2&i=1519179146&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG4I1BJ"
-    width: 817
-    height: 545
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
-    title: "Microsoft to adapt its cloud software for healthcare industry"
 
 related:
   - title: "Database Week: Microsoft OEMs Redis Enterprise for Azure"
@@ -243,6 +237,22 @@ related:
       - url: "https://cnet3.cbsistatic.com/img/Dok6c43xRR9WyO7Gg_0AlGrbr6Q=/756x567/2020/04/14/de44da9c-e4e1-4477-b318-7b6e6923b653/gettyimages-1200013326.jpg"
         width: 756
         height: 567
+        isCached: true
+  - title: "Microsoft to adapt its cloud software for healthcare industry"
+    excerpt: "Microsoft Corp said on Tuesday it plans to roll out a version of its cloud-based software that will be modified to suit the needs of healthcare organizations."
+    publishedDateTime: 2020-05-19T15:05:00Z
+    webUrl: "https://www.reuters.com/article/us-microsoft-tech-idUSKBN22V27Z"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN22V27Z"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN22V27Z"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 82
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20200519&t=2&i=1519179146&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG4I1BJ"
+        width: 817
+        height: 545
         isCached: true
   - title: "Microsoft is building Industry Clouds for health care and other fields"
     excerpt: "Microsoft is building cloud solutions to address the unique needs of various fields. The first Industry Cloud is the Microsoft Cloud for Healthcare."
@@ -634,20 +644,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Redis Enterprise on Microsoft Azure Cache Now Available in Public Preview"
-    excerpt: "Today, Redis Labs announced the new fully integrated tiers of Redis Enterprise on Microsoft Azure Cache for Redis are available now in public preview. The new Redis Enterprise tiers bring advanced functionality to Azure Cache,"
-    publishedDateTime: 2020-11-09T17:00:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/f9c1950537534548852fafd49cf07d19"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 36
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Report: Microsoft acquiring Microvision, a leader in ultra-miniature projection display"
     excerpt: "MicroVision is a leader in ultra-miniature sensing and projection solution based on the laser beam scanning methodology. MicroVision has a substantial portfolio of patents relating to laser beam scanning projection and sensing."
     publishedDateTime: 2020-05-12T03:58:00Z
@@ -832,6 +828,6 @@ related:
       domain: microsoft.com
     quality: 0
 
-secured: "OijzV5Yl8no65PBlGSOMBo2acGnZo0ipFrj5xgrgSqizMWELgfIsg1ERHqpRjsLokEH2SSO6qoiJRUI4ZQFlM/cZfCEqnCkyEEyJ4WQIIaWh1OvJEk64gwYH/1ASEEyR9ZcVgEaPTgvpiVvkIW6erpf/S3SHAcPl4d6aL9187FvosgpOcNSJKZNvNagI8HiNNayFqEiolLy1gF7OxQWZQeZ52ZQOzSqZ18M6ahzFDLM7nY3l1C/Lt6D46bhU5p0P9ZL53f87PN8K6YacPa7l5iM0YLAkwqCGbdJg0bAdGPBdKwbuewMq31p1Q6N8Zsb80jJ2xiiB0gZvzGs4HVHlvBWECoAvlcUN55zCwMQpRVPcKrpu6p44ZG/qeIpUR2uzkcVHs9vTPMG0dnrDdbhb4L0PiPN3pW2jdfBuh38aD53iOKUQ52sh4OT/GlTdhOVhU3rFZKEJg0zkkCud7sk3IYAxa1VRDSYGQP1o4VhAMaE=;cfHTAHvzQ/Swo0wzRJ0gLw=="
+secured: "A92cMvchaX3q8sFwyVeB0sbEqELE/addkwbwRkYtj8bygsPOMza3Zm9iv5Wgg7pGNQ7jT6NZ0bCkdXH6inH0ZEv5pgFeRY0IiYgmK8FuqTWJ8rlwMKuLplneGqIQrhg+ni6qUHnNO8LhJNHPRyJ40cI8mzPx9pLrrCLAhdNC1AqdXK/ET/5TN8jq2HDA3Pf8s4cuoK0EUm7d4nVfdnQUypIRzuvGRM9fpOF89A3eWHage/mLrV02XL0sg75AKeT8naCk0gnB9w++7jtPkxnuo9IXLj8DMcrWPE4my1aZxipzdJ+UQOP7JJbDc/bCbq5Ki6GvMOYYsT037fYZcFoRzhM1xHLfbM7vd+1hu0cwnaM=;7NsV/kuEnZAQPeunvlTagw=="
 ---
 
