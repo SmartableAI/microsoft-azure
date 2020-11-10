@@ -517,6 +517,15 @@ related:
         width: 1200
         height: 627
         isCached: true
+  - title: "Microsoft cloud strength fuels first quarter results"
+    excerpt: "REDMOND, Wash. — October 27, 2020 — Microsoft Corp. today announced the following results for the quarter ended September 30, 2020, as compared to the corresponding period of last fiscal year: Revenue was $37.2 billion and increased 12% Operating ..."
+    publishedDateTime: 2020-10-27T00:00:00Z
+    webUrl: "https://news.microsoft.com/2020/10/27/microsoft-cloud-strength-fuels-first-quarter-results-2/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 2
 
 secured: "kQmMJ0Gx/f66ob6ljB8SJ8l54rLY2LAm3U7l5w0cnJ7HtzoZO6f/RgQ8wy7r38UnHvmlBnUYKJdbo6lCRrFYerrkghpd+KFiGQ9NSkXbh43kSaWk1SSpC32AhlDpcW4xdyCxL+N+zJ63fYwCBtsfUWerxrxLn/DCNo4ws48nJji/L2jml8OO+9rMQgOUEH0kpYrvpbZ2OxNl0QB1mp/r9U/1QVjNhz+uWMErXWahH/fu6GSbqbaOTlpfjFMn+NSr6uvsSwV2MT9HGawhWEtg7IyOXHYp+/wQ4lwjz0iVr0rAlIFe69uk4bHbJPB2oEQvj6imhxmPIUcQPil+MvmRHmoxnu923CsMRjxf1K1Mqxk=;S6eSOrlil38g+XLxB1yjcw=="
 ---

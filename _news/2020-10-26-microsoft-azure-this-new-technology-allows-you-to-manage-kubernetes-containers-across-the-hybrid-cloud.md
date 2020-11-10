@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/microsoft-azure-this
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-azure-this-new-technology-allows-you-to-manage-kubernetes-containers-across-the-hybrid-cloud/"
 type: article
 quality: 113
-heat: 813
+heat: 833
 published: true
 
 provider:
@@ -522,6 +522,15 @@ related:
         width: 1200
         height: 627
         isCached: true
+  - title: "Microsoft cloud strength fuels first quarter results"
+    excerpt: "REDMOND, Wash. — October 27, 2020 — Microsoft Corp. today announced the following results for the quarter ended September 30, 2020, as compared to the corresponding period of last fiscal year: Revenue was $37.2 billion and increased 12% Operating ..."
+    publishedDateTime: 2020-10-27T00:00:00Z
+    webUrl: "https://news.microsoft.com/2020/10/27/microsoft-cloud-strength-fuels-first-quarter-results-2/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 2
 
 secured: "5o8PzURKKtXqzdVOplDJNLQFyEO2Vk3IWUqLTRmEyAOu8u53mWfQ4VJwcWAv/6/mLsSrGmcXwdm1oMCiunUzs7IqGSrQS5BZN3ANh1wI75IJtZneaUvnoQydWc0TheeU+QTeqtKiwuh40aNSg9C1sf9IizmBsb1SqQkWggsxieyEkoGk4DRtMrozAgFGL6oYpTI66axFgMZtfVqaAesfIzL/kLJvvdCQMtMChsHQY8AU7KzuH+vbRwuH89U42FIvEYWgDLC4zRoNTHEKfDKVfT+n97QKYCd1CQfTNO5A/+5CA0CkoIu4REshDPO1IPSuy3XfwoONfRFCKAyAERvFEsn8IiurZ2vK42AymxxSIyOGjoIB4qUGnU/yEY5FHQin7ae2qrR2iRVSpMrU+y+iePoPyykQBb0I+MXi8rCiyEDwD7NUOaLDzmM3ogpz1M8DduQaSWNDah++ADUAror6PR2MYYDoQySq6P2f0pBflJe7ZsaTEcj0fG9N8976rXQVIqWFw26sA2qGXf99hDmf6A==;L2TK2fCvw/xIzinaXidZFw=="
 ---

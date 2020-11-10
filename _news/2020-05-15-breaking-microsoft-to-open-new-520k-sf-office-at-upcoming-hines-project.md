@@ -6,7 +6,7 @@ publishedDateTime: 2020-05-15T18:53:00Z
 webUrl: "https://www.bisnow.com/atlanta/news/office/breaking-microsoft-opening-major-client-facing-office-with-1500-new-jobs-in-midtown-104432"
 type: article
 quality: 21
-heat: 61
+heat: 21
 published: false
 
 provider:
