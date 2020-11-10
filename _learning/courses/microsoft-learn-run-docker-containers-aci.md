@@ -8,7 +8,7 @@ length: PT48M
 ratings:
   count: 6052
   average: 4.7136483
-heat: 51
+heat: 53
 
 provider:
   name: Microsoft Learn
@@ -26,6 +26,6 @@ topics:
   - Containers
   - Databases
 
-secured: "P1dm8OlQkxcM5QEgCUt+4Ls8OE2Pjim1+kS9rq2PpRLnUIC0kqF17zE6mSfygfOFRuKvgj7dFqG+12JCOdacTxum4iNl91wbIHN+NLe/YZkmpx+/XqhqvXGful1ujncwkogcKlfS0hwhCrD9uLKp4DlIIJdyP1BwSIvfyPfRte1Mv5KzsC55A4tnPeXLkI8ibN3zcjkH/Fz2gUXdDsjtkOyBNlAC0nW7BifkCKA78p4ZcLthaVmdN7tfohLviPAaAadTN4BXE0k1Z1z3lPvhEgkOZI7y48uoq/vfCefpSKK5jq3LQnoapBE5kj/nf3iB2iBuexzb6NcxgU4nKa++FBFvCr0j1tEDme/gbkfASOeWQ+vV56Uk1ecbpFvfwhqvnaOi78mCR8hR4sl3dTsA6p9IMyKocm3cAQJhEnGf3gI=;rx+t32w5s43PTPTDNOeb7g=="
+secured: "PnkLyp9EViucoMro1QWv0v4r2c+p87+4ZY/w3z8Ixy+gtVaijyH3G/oVzvRUxZ90jBHdrNkS6m7qoq2Xhd7q9aykIp+XUPMuflVZ/43SqOrI6XbEu/4/1P25xPR+tJRf9qIt4bvuVjTj+qh+GzcAS/IW225s17SB/5XdFPK2PYKcMxU9IrM9hl5VSxTdOGrFP+uJ1otT41dlFDTGPYrhtRBNm6RS9F/ufxdaMvJxuJeaL11l/m4fV4GcPuGyeMvSRjctYQR1d89rx4jsw+A+cAc8JSCLoS6uuDGKlCndW4XpxbjIAiMcahnHVViUDmU3WtAa/SPUZJJqay7BdBjLG0WeNcZMMEfPK1vlQbrgrvbZjfuHWkltUjiChTNSuORseTAmD/wqMUdSuNWhm95n1qD7vFTCP9fVKd2zdaSybzQ=;70O6seJeOnS6zeZrNpFZjA=="
 ---
 
