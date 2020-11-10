@@ -6,7 +6,7 @@ publishedDateTime: 2020-04-14T15:00:17Z
 webUrl: "https://azure.microsoft.com/en-us/updates/automatic-image-upgrade-for-custom-images-now-in-preview-for-azure-vmss/"
 type: article
 quality: 2
-heat: 2
+heat: 62
 published: false
 
 provider:

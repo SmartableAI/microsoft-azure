@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-15T00:00:18Z
 webUrl: "https://azure.microsoft.com/en-us/updates/notification-of-upcoming-changes-to-azure-time-series-insights-web-experience-url/"
 type: article
 quality: 12
-heat: 12
+heat: 32
 published: false
 
 provider:
