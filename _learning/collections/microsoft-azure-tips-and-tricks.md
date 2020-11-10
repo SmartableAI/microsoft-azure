@@ -2,7 +2,7 @@
 title: "Azure Tips and Tricks"
 excerpt: ""
 type: collection
-heat: 61
+heat: 63
 
 provider:
   name: Microsoft
@@ -13,6 +13,7 @@ provider:
       height: 50
 
 items:
+  - videos/microsoft-5-things-you-didnt-know-about-azure-kubernetes-service-azure-tips-and-tricks
   - videos/microsoft-5-things-you-didnt-know-about-azure-cognitive-services-azure-tips-and-tricks
   - videos/microsoft-5-things-you-didnt-know-about-azure-sql-database-azure-tips-and-tricks
   - videos/microsoft-5-things-you-didnt-know-about-azure-app-service-azure-tips-and-tricks
@@ -154,7 +155,7 @@ topics:
   - Azure
 
 images:
-  - url: https://i.ytimg.com/vi/4mwE_A6rOlo/maxresdefault.jpg
+  - url: https://i.ytimg.com/vi/Hb6VExxq-lw/maxresdefault.jpg
     width: 1280
     height: 720
     isCached: true
