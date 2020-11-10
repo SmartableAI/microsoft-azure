@@ -201,6 +201,15 @@ related:
         width: 1920
         height: 1280
         isCached: true
+  - title: "Taiwan will soon be a Microsoft cloud data centre region"
+    excerpt: "The new cloud data centre region would be its first in Taiwan and part of a global network of 66 cloud regions."
+    publishedDateTime: 2020-11-10T04:33:00Z
+    webUrl: "https://www.zdnet.com/video/microsoft-unveils-plans-for-first-taiwan-cloud-data-centre-region/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 42
   - title: "Redwill, Westcon-Comstor streamline delivery of Microsoft Cloud solutions"
     excerpt: "With the current demand for digital procurement, SaaS, collaboration tools and cloud-based solutions, driven in large part by the work from home demands of employees resulting from the pandemic, both Redwill and Westcon-Comstor are working together to leverage the distributor’s digital procurement and digital customer fulfilment platforms to simplify customer and end-user access to Microsoft's cloud-based solutions."
     publishedDateTime: 2020-11-06T06:55:00Z

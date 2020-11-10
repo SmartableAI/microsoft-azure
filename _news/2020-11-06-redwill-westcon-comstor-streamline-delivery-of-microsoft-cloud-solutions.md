@@ -216,6 +216,15 @@ related:
         width: 1920
         height: 1280
         isCached: true
+  - title: "Taiwan will soon be a Microsoft cloud data centre region"
+    excerpt: "The new cloud data centre region would be its first in Taiwan and part of a global network of 66 cloud regions."
+    publishedDateTime: 2020-11-10T04:33:00Z
+    webUrl: "https://www.zdnet.com/video/microsoft-unveils-plans-for-first-taiwan-cloud-data-centre-region/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 42
   - title: "Microsoft to build Azure datacenter, cloud hardware R&D team in Taiwan"
     excerpt: "Microsoft has announced plans to build a data center in Taiwan and grow a local team dedicated to the development of Azure cloud hardware and infrastructure, which is expected to accelerate the clustering of a datacenter server supply chain in the co..."
     publishedDateTime: 2020-10-27T08:41:00Z

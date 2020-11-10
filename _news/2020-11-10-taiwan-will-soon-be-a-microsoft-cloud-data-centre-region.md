@@ -1,20 +1,22 @@
 ---
 category: news
-title: "Microsoft Cloud for Healthcare: A Critical Resource for an Infected World"
-excerpt: "Microsoft updated us on their Microsoft Cloud for Healthcare offering (you can find the briefing online). I found it somewhat interesting that if we can make complicated healthcare efforts in the cloud while complying with very rigid security laws,"
-publishedDateTime: 2020-11-05T18:28:00Z
-originalUrl: "https://www.itbusinessedge.com/blogs/unfiltered-opinion/microsoft-cloud-for-healthcare.html"
-webUrl: "https://www.itbusinessedge.com/blogs/unfiltered-opinion/microsoft-cloud-for-healthcare.html"
-ampWebUrl: "https://www.itbusinessedge.com/amp/blogs/unfiltered-opinion/microsoft-cloud-for-healthcare.html"
-cdnAmpWebUrl: "https://www-itbusinessedge-com.cdn.ampproject.org/c/s/www.itbusinessedge.com/amp/blogs/unfiltered-opinion/microsoft-cloud-for-healthcare.html"
+title: "Taiwan will soon be a Microsoft cloud data centre region"
+excerpt: "The new cloud data centre region would be its first in Taiwan and part of a global network of 66 cloud regions."
+publishedDateTime: 2020-11-10T04:33:00Z
+originalUrl: "https://www.zdnet.com/video/microsoft-unveils-plans-for-first-taiwan-cloud-data-centre-region/"
+webUrl: "https://www.zdnet.com/video/microsoft-unveils-plans-for-first-taiwan-cloud-data-centre-region/"
 type: article
-quality: 21
+quality: 42
 heat: -1
 published: false
 
 provider:
-  name: IT Business Edge
-  domain: itbusinessedge.com
+  name: ZDNet
+  domain: zdnet.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/zdnet.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
@@ -210,15 +212,6 @@ related:
         width: 1920
         height: 1280
         isCached: true
-  - title: "Taiwan will soon be a Microsoft cloud data centre region"
-    excerpt: "The new cloud data centre region would be its first in Taiwan and part of a global network of 66 cloud regions."
-    publishedDateTime: 2020-11-10T04:33:00Z
-    webUrl: "https://www.zdnet.com/video/microsoft-unveils-plans-for-first-taiwan-cloud-data-centre-region/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 42
   - title: "Redwill, Westcon-Comstor streamline delivery of Microsoft Cloud solutions"
     excerpt: "With the current demand for digital procurement, SaaS, collaboration tools and cloud-based solutions, driven in large part by the work from home demands of employees resulting from the pandemic, both Redwill and Westcon-Comstor are working together to leverage the distributor’s digital procurement and digital customer fulfilment platforms to simplify customer and end-user access to Microsoft's cloud-based solutions."
     publishedDateTime: 2020-11-06T06:55:00Z
@@ -319,6 +312,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Microsoft Cloud for Healthcare: A Critical Resource for an Infected World"
+    excerpt: "Microsoft updated us on their Microsoft Cloud for Healthcare offering (you can find the briefing online). I found it somewhat interesting that if we can make complicated healthcare efforts in the cloud while complying with very rigid security laws,"
+    publishedDateTime: 2020-11-05T18:28:00Z
+    webUrl: "https://www.itbusinessedge.com/blogs/unfiltered-opinion/microsoft-cloud-for-healthcare.html"
+    ampWebUrl: "https://www.itbusinessedge.com/amp/blogs/unfiltered-opinion/microsoft-cloud-for-healthcare.html"
+    cdnAmpWebUrl: "https://www-itbusinessedge-com.cdn.ampproject.org/c/s/www.itbusinessedge.com/amp/blogs/unfiltered-opinion/microsoft-cloud-for-healthcare.html"
+    type: article
+    provider:
+      name: IT Business Edge
+      domain: itbusinessedge.com
+    quality: 21
   - title: "New AttackIQ Solution Integrates with Microsoft Azure Sentinel to Strengthen Cyber Threat Detection and Investigation for Security Customers"
     excerpt: "Building on its announcement of the Preactive Security Exchange (PSE) recently, AttackIQ Ⓡ today announced its integration between the Microsoft Azure Sentinel cloud-native security information and event manager (SIEM) platform and the AttackIQ Security Optimization Platform."
     publishedDateTime: 2020-10-27T12:00:00Z
@@ -389,6 +393,6 @@ related:
         height: 293
         isCached: true
 
-secured: "QoENiCLJmiXTgTk/n8lcQBmU7DYQMIn68fbmiPJ6+9xKUz5ipea2kUM47JczPMct1nccTDI/uGhRJRmEnqAu/wIHm/SIcXa98cImUzDuNPUiVUg70UuZpiWX4I8OmLcFYlqf+fQaNxbUvsKmvGuqSqCivEo072GsWqUF7qixeLXM6H9thtoJIYXqj1ASGsPcZEcpA27OfF/C70EDnpz1bgIVmjXTOv9ysBuFmJQZaxl6pXCnyl+DTn3aUCpSqRuPu8/e16IBqGkWR95Gq9RKFI1VSD3MSoVOGuCRvI+thvcaXJPl1ai28leHOmTMZnd/e0PtZCETcthavLDp2cLD17pWzrPDfmfmluZT9dJKbNQ=;+oaN819MqM8ueFJOmfWSNw=="
+secured: "eEYIjhJHE5VwJdCCGmHOzkm4feSZemeXyaSkr/QC1245gHdRhc0iYmXQKbDoAmyyEwfi9Q6XCx3CyWOw8maoXeWYQUl0mYG53yrml7gh2y+N3kMqpiaN2VmI73N0vuXSqgyKMSakLlD210S0YXnPXbkzlwxrj6W80AEMQiy+96lhtQCOT+KtDgTJSo/PwBMCIFOi2o6mzb84Qld60YXsEEvsYM/dVJqFtkN12BnDMafmmMGdLN1CXhXdYaBB2UgRapVBA8ndhpTuUJTD1cWgGy3jgyi4c2l7hIbKVZPZBHZ356pVzw8OHPJGbc3kUwqri0lhHD1ac+sDsjK3af+NLw4IvBKHOVHpBpyz+jIpnCF9hhZT9oVtjx3KQs47K7B8ZQ0UB4JfdUTJBMrfqFRSskVzuCuf6ZHn0yKVCSCj7SvtsLqbK+v3HmhfAV961dIsLn+qy2RT1h9hgOGNI7K6tKYg7Yr8QW13ayqHhcogF+ANsCn4sGKOzjrZFYrwD0fxRB3gSprNwg58mhfz/pnxtw==;6vW1rfGfcFOH76GNDU2YrQ=="
 ---
 
