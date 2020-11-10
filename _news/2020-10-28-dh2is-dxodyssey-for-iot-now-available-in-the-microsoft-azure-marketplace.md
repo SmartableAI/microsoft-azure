@@ -194,6 +194,15 @@ related:
         width: 615
         height: 384
         isCached: true
+  - title: "OpenText brings Digital Investigation to the Cloud with Microsoft Azure"
+    excerpt: "\"Industries, employees, and even criminals across the world are embracing new ways to work,\" said OpenText Chief Product Officer Muhi Majzoub. OpenText supports the investigators at the frontlines, finding the digital evidence needed to seek justice or respond to a cyberattack."
+    publishedDateTime: 2020-11-10T14:00:00Z
+    webUrl: "https://www.nasdaq.com/press-release/opentext-brings-digital-investigation-to-the-cloud-with-microsoft-azure-2020-11-10"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 57
   - title: "Microsoft to establish its first datacenter region in Taiwan "
     excerpt: "The new region is anticipated to include Microsoft Azure, with Microsoft 365, Dynamics 365 and Power Platform to follow."
     publishedDateTime: 2020-10-27T16:05:07Z
@@ -280,20 +289,6 @@ related:
       - url: "https://www.onmsft.com/wp-content/uploads/2020/08/Build-2018-Cloud-sign-2.jpg"
         width: 1024
         height: 768
-        isCached: true
-  - title: "OpenText brings Digital Investigation to the Cloud with Microsoft Azure"
-    excerpt: "PRNewswire/ -- OpenText™ (NASDAQ: OTEX) (TSX: OTEX), today announced OpenText™ EnCase Forensic and OpenText™ EnCase Endpoint Investigator are now certified"
-    publishedDateTime: 2020-11-10T13:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/opentext-brings-digital-investigation-to-the-cloud-with-microsoft-azure-301169053.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 37
-    images:
-      - url: "https://mma.prnewswire.com/media/780816/Open_Text_Logo.jpg?p=facebook"
-        width: 803
-        height: 419
         isCached: true
   - title: "AttackIQ integrates Security Optimization Platform with Microsoft Azure Sentinel cloud-native SIEM platform"
     excerpt: "AttackIQ announced integration between Microsoft Azure Sentinel cloud-native SIEM platform and the AttackIQ Security Optimization Platform."
