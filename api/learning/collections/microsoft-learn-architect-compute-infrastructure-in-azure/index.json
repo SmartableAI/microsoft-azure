@@ -4,15 +4,15 @@
   "page": 1,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-azure-compute-fundamentals.md",
-      "title": "Explore Azure compute services",
-      "excerpt": "Learn about the different services that are available in Azure Compute.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-azure-compute-fundamentals/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-compute-fundamentals/",
-      "length": "PT52M",
+      "path": "_learning/courses/microsoft-learn-intro-to-compute.md",
+      "title": "Core Cloud Services - Azure compute options",
+      "excerpt": "Explore essential Azure concepts to find out how virtual machines, containers, and apps combined with serverless computing services can fortify your business.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-to-compute/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-compute/",
+      "length": "PT38M",
       "ratings": {
-        "count": 246,
-        "average": 4.6910567
+        "count": 64758,
+        "average": 4.711279
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -29,15 +29,7 @@
       "levels": [
         "Beginner"
       ],
-      "heat": 64,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/azure-compute-fundamentals-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
+      "heat": 81,
       "content": "\r\n",
       "type": "course",
       "price": "Free",
@@ -45,7 +37,11 @@
         "Azure",
         "Compute",
         "Web",
-        "Containers"
+        "Containers",
+        "Serverless",
+        "IoT",
+        "Blockchain",
+        "Integration"
       ]
     },
     {
@@ -56,8 +52,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-virtual-machines-with-azure-cli/",
       "length": "PT51M",
       "ratings": {
-        "count": 6038,
-        "average": 4.701888
+        "count": 6039,
+        "average": 4.701937
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -256,8 +252,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-azure-service-to-integrate-and-automate-business-processes/",
       "length": "PT44M",
       "ratings": {
-        "count": 10791,
-        "average": 4.577333
+        "count": 10793,
+        "average": 4.577411
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -298,8 +294,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-hpc/",
       "length": "PT50M",
       "ratings": {
-        "count": 1034,
-        "average": 4.5793037
+        "count": 1035,
+        "average": 4.57971
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -341,8 +337,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/run-parallel-tasks-in-azure-batch-with-the-azure-cli/",
       "length": "PT45M",
       "ratings": {
-        "count": 1071,
-        "average": 4.589169
+        "count": 1072,
+        "average": 4.5895524
       },
       "provider": {
         "name": "Microsoft Learn",

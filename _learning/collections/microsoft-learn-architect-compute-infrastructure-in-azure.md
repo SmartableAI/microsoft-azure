@@ -18,7 +18,7 @@ levels:
   - Intermediate
 
 items:
-  - courses/microsoft-learn-azure-compute-fundamentals
+  - courses/microsoft-learn-intro-to-compute
   - courses/microsoft-learn-manage-vms-with-azure-cli
   - courses/microsoft-learn-choose-compute-provisioning
   - courses/microsoft-learn-build-azure-vm-templates
@@ -33,9 +33,9 @@ topics:
   - Compute
 
 images:
-  - url: https://docs.microsoft.com/learn/achievements/azure-compute-fundamentals-social.png
-    width: 640
-    height: 320
+  - url: https://docs.microsoft.com/learn/achievements/choose-compute-provisioning-social.png
+    width: 800
+    height: 400
     isCached: true
 
 secured: "SuYaV1BnJcY60tVPY+ATc1Cg6sW+8esmS274KWRcqmYChGh0ck75MHRaePqQi4hEgTYestZgLlykIGCBt20OLP8eZ0y9P6l1NboIPPJURim7rDhJvQfKGCQRPubXLHIivYE901sWvmnrN92lqOqGZdbtyNPB8A9khKMV3gLMMSGMHk2eX7VxMWomY1djzeE7Cdduac2OVRjghfxRnklr/L29YGDPrN3h7ecIT0mijUDat/Db2kODlcvseyZsMyGGsRU/X3CMX3BG+Nlm6D33xEm/7Lsb53mJUYXWAzgL+yyX2ugpW1JxJrSfL7AaGfvaxct1gD7a4lLAF+ZtnjhRmSWIxzqg0t7o1BxworH4W0w=;soAc9L69FYauxLhBkS9viA=="
