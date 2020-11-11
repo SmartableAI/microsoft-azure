@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-15T19:00:30Z
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-iot-central-ui-documenation-updates-june-2020/"
 type: article
 quality: 37
-heat: 37
+heat: 57
 published: false
 
 provider:

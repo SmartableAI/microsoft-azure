@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-24T23:43:55Z
 webUrl: "https://azure.microsoft.com/en-us/updates/sriov-availability-on-infinibandequipped-virtual-machines/"
 type: article
 quality: 2
-heat: 2
+heat: 22
 published: false
 
 provider:
