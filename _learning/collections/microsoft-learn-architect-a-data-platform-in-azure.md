@@ -18,7 +18,7 @@ levels:
   - Intermediate
 
 items:
-  - courses/microsoft-learn-intro-to-data-in-azure
+  - courses/microsoft-learn-azure-database-fundamentals
   - courses/microsoft-learn-provision-azure-sql-db
   - courses/microsoft-learn-azure-scale-azure-sql-dbs-elastic-pools
   - courses/microsoft-learn-migrate-sql-server-relational-data
@@ -35,9 +35,9 @@ topics:
   - Analytics
 
 images:
-  - url: https://docs.microsoft.com/learn/achievements/azure-scale-azure-sql-databases-elastic-pools-social.png
-    width: 800
-    height: 400
+  - url: https://docs.microsoft.com/learn/achievements/azure-database-fundamentals-social.png
+    width: 640
+    height: 320
     isCached: true
 
 secured: "0dhBOLqXlmlkaqB1jn3afeqLlP78mUG48Y6ZIa/5icvZUprsdFgpJiWcph4iAUd01hfnlJS/H6HVimckv1UyxDGhtkuah9hnyKdKHaQwXp7hFo05UDW6yci0dX7OKdwdkE9zYRZOpg2d2IRKmVjmtLj2Us+F3s4dn0DcvIprAAl3wk+TSrKMOxKAvHzAdxYaDhVkorlIybckr1aULc3v/QJLC4+6WFPLLyvVw6q2Ih9hsvzK7Jh5aK/cDPXoUyYxZkhgj1/5x/iFbfg9Fml8OBhhZ5Lsb0DGT7Gs8ycA0QIc90iEPZPP1oJ+OdIg6Zxb6k56gjyhpMoSuLlFNMSgbnKrhEj4xl7oChn+y5rRj0s=;fprTi2JyPyojI9BQ/bacRg=="
