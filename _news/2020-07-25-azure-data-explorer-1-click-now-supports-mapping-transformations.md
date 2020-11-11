@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-25T00:00:27Z
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-data-explorer-1click-is-now-supports-mapping-transformations/"
 type: article
 quality: 17
-heat: 37
+heat: 17
 published: false
 
 provider:
