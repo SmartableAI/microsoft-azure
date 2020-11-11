@@ -1,10 +1,10 @@
 ---
 category: news
-title: "SQL Server Analysis Services Virtual Machine images now available"
-excerpt: "SQL Server Analysis Services Virtual Machine images (in general availability) can help make your workloads more efficient, enable an easier onboarding experience, and helps viewing your different virtual machine workloads and managing them."
-publishedDateTime: 2020-11-10T18:00:05Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/sql-server-analysis-services-virtual-machine-images-now-available/"
-webUrl: "https://azure.microsoft.com/en-us/updates/sql-server-analysis-services-virtual-machine-images-now-available/"
+title: ".NET 5 now available in App Service"
+excerpt: "App Service support for .NET 5 applications is available across all public regions and scenarios on both Windows and Linux App Service plans. "
+publishedDateTime: 2020-11-11T17:00:03Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/net-5-now-available-in-app-service/"
+webUrl: "https://azure.microsoft.com/en-us/updates/net-5-now-available-in-app-service/"
 type: article
 quality: 69
 heat: -1
@@ -51,10 +51,10 @@ related:
         width: 941
         height: 777
         isCached: true
-  - title: ".NET 5 now available in App Service"
-    excerpt: "App Service support for .NET 5 applications is available across all public regions and scenarios on both Windows and Linux App Service plans. "
-    publishedDateTime: 2020-11-11T17:00:03Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/net-5-now-available-in-app-service/"
+  - title: "SQL Server Analysis Services Virtual Machine images now available"
+    excerpt: "SQL Server Analysis Services Virtual Machine images (in general availability) can help make your workloads more efficient, enable an easier onboarding experience, and helps viewing your different virtual machine workloads and managing them."
+    publishedDateTime: 2020-11-10T18:00:05Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/sql-server-analysis-services-virtual-machine-images-now-available/"
     type: article
     provider:
       name: Microsoft
@@ -79,6 +79,6 @@ related:
       domain: microsoft.com
     quality: 52
 
-secured: "9PoTsR6tIgKAmZIeJTGXMWX4f647KJAnfUphc0geXuWNP0L5Rw3ge+Q7MhlA40qELYF4zlVH3mb4iu4gvNg2j2/g+PWOLzXK+sYphobKwqOlkiK0B0aM9MnifEK5PEVEbCM0D6QDa3N2wR9Jh9as8Bh7xJNM2O3sNCYhTB4wWakrMagDUxqiX6hiJxct7TpkYo5+2RKbuhCwWAK/4bWBKe1kYqiSA+9V02M7QWs2Foc6KntB1RXLQ9Z4NeqVet9/ViYHQxEWoxPah8MSdJqIXz7JFapq9HY/vp8P9uUO5HtPSFdJVxT7+2979PKbbNyURIHfo9fdVwERDx216TIg8SJViIzJjy1wi0O/PZq+5TY=;CmbdmNHXjLNgskYD5YjkkQ=="
+secured: "+etonCQ/kPjTEmZsuD5tcPNQB94kD3UoTNhv4v7B8jDEo9Wwz1vuXNQXWdozF8nwZCkkvwAJ6RIAWNlYi71rhsTlUeSe81ihzRADqAGPEPjY4vTyK55EiuqvTntZHDpnyvZsUqFufVsAqHoW0hs+c//us+e46bchSHhKth51ojWSyIF2snkQbEkqjNfmCilfP/1MDtZOLSDvYNVNXMknCpYLGy94ChvlnkTgcIkVOsoWoQIaDHJI8e6JZg1a91Nfd3C0/H5ZXl8uthjdCGT8cZ7E5b2xIgf79aw617Kv4U8Dr/xrG5k0lRwwyXngHGGYTWoodPA2IEH1MskAKCGhaZ0EZjOo4MmTtr+POAP4q3I=;yb3A8o5uD2ewbUbXB3io6Q=="
 ---
 

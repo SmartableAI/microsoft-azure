@@ -75,6 +75,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 84
+  - title: "Redis 6.0 is now in preview for Azure Cache for Redis"
+    excerpt: "Redis 6.0 (preview) for Azure Cache for Redis brings several new features enhancing developer productivity including Redis Streams (new list data type), new commands, improved HyperLogLog performance, and more. "
+    publishedDateTime: 2020-11-11T17:00:02Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/redis-60-is-now-in-preview-for-azure-cache-for-redis/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
   - title: "Azure Private Link for Azure Cache for Redis now in preview"
     excerpt: "You can now use Azure Private Link to connect to an Azure Cache for Redis instance from your virtual network via a private endpoint, which is assigned a private IP address in a subnet within the virtual network."
     publishedDateTime: 2020-09-02T16:00:02Z

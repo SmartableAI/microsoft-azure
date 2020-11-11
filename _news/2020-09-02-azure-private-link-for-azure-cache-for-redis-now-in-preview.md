@@ -82,6 +82,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 84
+  - title: "Redis 6.0 is now in preview for Azure Cache for Redis"
+    excerpt: "Redis 6.0 (preview) for Azure Cache for Redis brings several new features enhancing developer productivity including Redis Streams (new list data type), new commands, improved HyperLogLog performance, and more. "
+    publishedDateTime: 2020-11-11T17:00:02Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/redis-60-is-now-in-preview-for-azure-cache-for-redis/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
   - title: "New Azure extensions for Visual Studio Code"
     excerpt: ""
     publishedDateTime: 2020-05-19T16:05:40Z

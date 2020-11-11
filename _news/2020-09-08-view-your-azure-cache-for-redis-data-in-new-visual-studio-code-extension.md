@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/view-your-azure-cache-for-redis-d
 webUrl: "https://azure.microsoft.com/blog/view-your-azure-cache-for-redis-data-in-new-visual-studio-code-extension/"
 type: article
 quality: 120
-heat: 261
+heat: 281
 published: true
 
 provider:
@@ -71,6 +71,15 @@ related:
     excerpt: "Increase reliability in the Azure Cache for Redis premium tier even further with up to four nodes for redundancy; a primary and three replicas that can be distributed across multiple availability zones. This setup protects you against a datacenter-level outage, increasing availability up to a 99.95 percent"
     publishedDateTime: 2020-10-14T16:00:15Z
     webUrl: "https://azure.microsoft.com/en-us/updates/zone-redundancy-in-preview-for-azure-cache-for-redis/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
+  - title: "Redis 6.0 is now in preview for Azure Cache for Redis"
+    excerpt: "Redis 6.0 (preview) for Azure Cache for Redis brings several new features enhancing developer productivity including Redis Streams (new list data type), new commands, improved HyperLogLog performance, and more. "
+    publishedDateTime: 2020-11-11T17:00:02Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/redis-60-is-now-in-preview-for-azure-cache-for-redis/"
     type: article
     provider:
       name: Microsoft

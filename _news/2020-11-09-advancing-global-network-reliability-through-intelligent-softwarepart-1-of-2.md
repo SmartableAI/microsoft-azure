@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/advancing-global-network-reliabil
 webUrl: "https://azure.microsoft.com/blog/advancing-global-network-reliability-through-intelligent-software-part-1-of-2/"
 type: article
 quality: 71
-heat: 71
+heat: 72
 published: true
 
 provider:

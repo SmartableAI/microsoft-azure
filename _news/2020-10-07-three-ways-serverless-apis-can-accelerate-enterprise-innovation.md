@@ -49,6 +49,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 112
+  - title: "Serverless offer for Azure Cosmos DB in preview on all APIs"
+    excerpt: "A new consumption-based offer that complements the existing range of provisioned throughput options is now in preview for all Azure Cosmos DB APIs."
+    publishedDateTime: 2020-11-11T17:00:01Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/serverless-offer-for-azure-cosmos-db-in-preview-on-all-apis/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 101
   - title: "Serverless offer for Azure Cosmos DB now in preview "
     excerpt: "A new consumption-based offer that requires no capacity management is now available"
     publishedDateTime: 2020-08-19T16:00:01Z

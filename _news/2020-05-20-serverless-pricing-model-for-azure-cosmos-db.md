@@ -39,6 +39,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 112
+  - title: "Serverless offer for Azure Cosmos DB in preview on all APIs"
+    excerpt: "A new consumption-based offer that complements the existing range of provisioned throughput options is now in preview for all Azure Cosmos DB APIs."
+    publishedDateTime: 2020-11-11T17:00:01Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/serverless-offer-for-azure-cosmos-db-in-preview-on-all-apis/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 101
   - title: "Three ways serverless APIs can accelerate enterprise innovation"
     excerpt: "With the wrong architecture, application programming interface (APIs) can be a bottleneck to not only your applications, but to your entire business. Bottlenecks such as downtime, low performance, or high application complexity, can result in exaggerated infrastructure and organizational costs as well"
     publishedDateTime: 2020-10-07T10:00:15Z
