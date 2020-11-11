@@ -1,31 +1,32 @@
 ---
 category: news
-title: "Microsoft named a Leader in the Gartner 2020 Magic Quadrant for Industrial IoT Platforms"
-excerpt: "Embracing digital transformation in Industrial IoT requires companies to rethink and shift business models and operations. Doing so, however, has become more difficult in the past six months due to production slowdowns, restrictions on employee movement with social distancing, and rapidly shifting market"
-publishedDateTime: 2020-10-29T08:00:09Z
-originalUrl: "https://azure.microsoft.com/blog/microsoft-named-a-leader-in-gartner-s-2020-magic-quadrant-for-industrial-iot-platforms/"
-webUrl: "https://azure.microsoft.com/blog/microsoft-named-a-leader-in-gartner-s-2020-magic-quadrant-for-industrial-iot-platforms/"
+title: "Microsoft announces Az Predictor to improve usability of Azure PowerShell"
+excerpt: "Microsoft has announced the preview availability of Az Predictor, a utility which serves as an \"intelligent command completion module\" for Azure PowerShell beginners and experts alike."
+publishedDateTime: 2020-11-11T04:50:00Z
+originalUrl: "https://www.neowin.net/news/microsoft-announces-az-predictor-to-improve-usability-of-azure-powershell"
+webUrl: "https://www.neowin.net/news/microsoft-announces-az-predictor-to-improve-usability-of-azure-powershell"
+ampWebUrl: "https://www.neowin.net/amp/microsoft-announces-az-predictor-to-improve-usability-of-azure-powershell/"
+cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-announces-az-predictor-to-improve-usability-of-azure-powershell/"
 type: article
-quality: 80
+quality: 96
 heat: -1
 published: false
 
 provider:
-  name: Microsoft
-  domain: microsoft.com
+  name: Neowin
+  domain: neowin.net
   images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg"
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/neowin.net-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Azure
-  - IoT
 
 images:
-  - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/c87156e3-af18-49b3-93e6-799c89df2138.png"
-    width: 624
-    height: 638
+  - url: "https://cdn.neow.in/news/images/uploaded/2020/11/1605077715_capture_story.jpg"
+    width: 760
+    height: 428
     isCached: true
 
 related:
@@ -44,22 +45,6 @@ related:
       - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F598227%2Fdata-center.jpeg&w=1200&op=resize"
         width: 1200
         height: 799
-        isCached: true
-  - title: "Microsoft announces Az Predictor to improve usability of Azure PowerShell"
-    excerpt: "Microsoft has announced the preview availability of Az Predictor, a utility which serves as an \"intelligent command completion module\" for Azure PowerShell beginners and experts alike."
-    publishedDateTime: 2020-11-11T04:50:00Z
-    webUrl: "https://www.neowin.net/news/microsoft-announces-az-predictor-to-improve-usability-of-azure-powershell"
-    ampWebUrl: "https://www.neowin.net/amp/microsoft-announces-az-predictor-to-improve-usability-of-azure-powershell/"
-    cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-announces-az-predictor-to-improve-usability-of-azure-powershell/"
-    type: article
-    provider:
-      name: Neowin
-      domain: neowin.net
-    quality: 96
-    images:
-      - url: "https://cdn.neow.in/news/images/uploaded/2020/11/1605077715_capture_story.jpg"
-        width: 760
-        height: 428
         isCached: true
   - title: "KRAFTON partners with Microsoft to host its products including PUBG on Azure"
     excerpt: "Korean video game giant KRAFTON has announced a partnership with Microsoft that will allow the company to use Azure cloud services to host its products including the popular Battle Royale game PUBG."
@@ -92,6 +77,20 @@ related:
       - url: "https://zdnet4.cbsistatic.com/hub/i/r/2020/09/16/8ba15096-7e97-4c9d-9c92-fdfb3223d8cf/thumbnail/1200x675/230c7f7fa964a74175d8fc0ef350a100/microsoft-365-formerly-office-365-vs-g-s-5f4e5f4871c30002b05d39e4-1-sep-16-2020-15-40-44-poster.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Microsoft named a Leader in the Gartner 2020 Magic Quadrant for Industrial IoT Platforms"
+    excerpt: "Embracing digital transformation in Industrial IoT requires companies to rethink and shift business models and operations. Doing so, however, has become more difficult in the past six months due to production slowdowns, restrictions on employee movement with social distancing, and rapidly shifting market"
+    publishedDateTime: 2020-10-29T08:00:09Z
+    webUrl: "https://azure.microsoft.com/blog/microsoft-named-a-leader-in-gartner-s-2020-magic-quadrant-for-industrial-iot-platforms/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 80
+    images:
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/c87156e3-af18-49b3-93e6-799c89df2138.png"
+        width: 624
+        height: 638
         isCached: true
   - title: "OpenText brings Digital Investigation to the Cloud with Microsoft Azure"
     excerpt: "OpenText™ EnCase solutions are now certified on Microsoft AzureWATERLOO, Ontario, Nov. 10, 2020 /CNW/ --  OpenText™ (NASDAQ: OTEX) (TSX: OTEX),"
@@ -463,6 +462,6 @@ related:
         height: 293
         isCached: true
 
-secured: "zDjA211pyekvOJixCEZRV9fmmQ29DyOtM5gQjk9cCYdqPtlt0BZkdwGTScICMw6UYC0vlxv5kHqWO2bJiMvYnXofHRwNu0DJfxsG9j/IEBtd5ke0546IxvLzfa1M0vhOSxQ7gAEfWkhycM5xxvyoH31LU6tmRSRz3+ThZsbqpXeqKkNqVqf9pS3j6wZDfOWcsza6Y0ZQF0Bpsqt0T16UKj8S+Bn46Dfl+q+7YIZNghQfSP1gWmuOq++QHZDgqrQ5mfsXuyvtm2ninNp0ilIjmMHTiou67dxI18okz1+tAWtniTPmzLV27ohYgmFg6HvbfzfqSp2ecpKqeV6Rtor6BVAxMkgCMJrWlSYFCFCGgsw=;679c0Y0uHbDND3zSAxiAqw=="
+secured: "x//rs4lnF+vIvtzvpgftu+lFwV+BmA68Sdt+s2Kh7QEPDQRvP9VeYb1ZpDUGqkyRGUNn8gw9QyS/w67pB2scWxbzFKj8qGC6uscjz4lFpU1RdRDYPNb9EKEp93t9piFMVDR9nrqXZeU7hBoCFrKEaPAvVJg785uMtDmDRtyeHFb7/uBNX0cdHvMqv/xw5zKicT7JOnfBT2lQCue6aaBff3eLi+ypc+k53CqpvGlsYiMxUHV8gGR4wkfBoEbQxQHNjdmRNkmHSzo5Aid7XETIIembq7ioSETcNMsLiX1HgqvRtCLnoGxuK9IJDk8KG/hRONtGBwU8Vvodw9p3OTY0Fih6r1biReQNCj7UGIPT0EU=;CwYStqqA54cMEH2nmlLU/Q=="
 ---
 

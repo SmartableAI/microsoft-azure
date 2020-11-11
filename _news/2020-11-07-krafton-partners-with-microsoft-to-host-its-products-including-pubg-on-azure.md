@@ -46,6 +46,22 @@ related:
         width: 1200
         height: 799
         isCached: true
+  - title: "Microsoft announces Az Predictor to improve usability of Azure PowerShell"
+    excerpt: "Microsoft has announced the preview availability of Az Predictor, a utility which serves as an \"intelligent command completion module\" for Azure PowerShell beginners and experts alike."
+    publishedDateTime: 2020-11-11T04:50:00Z
+    webUrl: "https://www.neowin.net/news/microsoft-announces-az-predictor-to-improve-usability-of-azure-powershell"
+    ampWebUrl: "https://www.neowin.net/amp/microsoft-announces-az-predictor-to-improve-usability-of-azure-powershell/"
+    cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-announces-az-predictor-to-improve-usability-of-azure-powershell/"
+    type: article
+    provider:
+      name: Neowin
+      domain: neowin.net
+    quality: 96
+    images:
+      - url: "https://cdn.neow.in/news/images/uploaded/2020/11/1605077715_capture_story.jpg"
+        width: 760
+        height: 428
+        isCached: true
   - title: "Microsoft's Cloud PC: Leak reveals new details on upcoming Azure-powered remote desktop"
     excerpt: "Microsoft's forthcoming Cloud PC remote Windows experience for Windows 10, macOS, iOS and Android takes shape."
     publishedDateTime: 2020-11-05T11:23:00Z
