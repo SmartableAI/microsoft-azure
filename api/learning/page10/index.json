@@ -4,6 +4,49 @@
   "page": 10,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-connect-on-premises-network-with-expressroute.md",
+      "title": "Connect your on-premises network to the Microsoft global network by using ExpressRoute",
+      "excerpt": "Connect your on-premises systems and users to Azure and Office 365 by using ExpressRoute for private, dedicated, and guaranteed throughput connectivity.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-connect-on-premises-network-with-expressroute/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/connect-on-premises-network-with-expressroute/",
+      "length": "PT40M",
+      "ratings": {
+        "count": 3536,
+        "average": 4.670249
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 54,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/connect-on-premises-network-with-expressroute-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Networking"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-control-network-traffic-flow-with-routes.md",
       "title": "Manage and control traffic flow in your Azure deployment with routes",
       "excerpt": "Learn how to control Azure virtual network traffic by implementing custom routes.",
@@ -11,8 +54,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/control-network-traffic-flow-with-routes/",
       "length": "PT50M",
       "ratings": {
-        "count": 1916,
-        "average": 4.632568
+        "count": 1917,
+        "average": 4.6327596
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -55,8 +98,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-run-container-app-service/",
       "length": "PT46M",
       "ratings": {
-        "count": 4034,
-        "average": 4.6264253
+        "count": 4035,
+        "average": 4.626518
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -187,8 +230,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/develop-test-deploy-azure-functions-with-visual-studio/",
       "length": "PT43M",
       "ratings": {
-        "count": 1919,
-        "average": 4.602397
+        "count": 1920,
+        "average": 4.6026044
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -998,8 +1041,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-non-relational-data-offerings-azure/",
           "length": "PT41M",
           "ratings": {
-            "count": 269,
-            "average": 4.828996
+            "count": 270,
+            "average": 4.8296294
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1477,49 +1520,6 @@
       "topics": [
         "Azure",
         "AI"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-analyze-review-sentiment-with-keras.md",
-      "title": "Analyze the sentiment of reviews with Keras",
-      "excerpt": "Keras is a high-level neural networks API, written in Python, that runs on top of other deep learning tools such as TensorFlow. This module uses Keras to build a neural network that scores text, such as user reviews for sentiment.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-analyze-review-sentiment-with-keras/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-review-sentiment-with-keras/",
-      "length": "35 mins",
-      "ratings": {
-        "count": 1440,
-        "average": 4.6840277
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 53,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/student-evangelism/analyze-review-sentiment-with-keras-badge-social.png",
-          "width": 800,
-          "height": 400,
-          "title": "Analyze the sentiment of reviews with Keras",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
       ]
     }
   ],
