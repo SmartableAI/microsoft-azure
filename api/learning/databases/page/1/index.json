@@ -4,6 +4,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-describe-performance-monitoring.md",
+      "title": "Describe performance monitoring",
+      "excerpt": "Compare Azure and on-premises tools for monitoring and measuring performance. Determine critical metrics. Understand the purpose of a baseline for comparative analysis.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-describe-performance-monitoring/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-performance-monitoring/",
+      "length": "PT42M",
+      "ratings": {
+        "count": 560,
+        "average": 4.8267856
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 130,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/describe-performance-monitoring-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Databases"
+      ]
+    },
+    {
       "path": "_learning/videos/microsoft-introducing-flexible-server-in-azure-database-for-postgresql-mysql-azure-friday.md",
       "title": "Introducing Flexible Server in Azure Database for PostgreSQL & MySQL | Azure Friday",
       "excerpt": "Sunil Kamath joins Scott Hanselman to discuss how you can run your MySQL or Postgres database as a managed database on Azure without giving up the control you want while taking advantage of the benefits of a PaaS offering.  0:00 – Overview 4:44 – Demo 8:54 – Customizing Flexible Server in the CLI 10:41",
@@ -73,8 +116,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/",
           "length": "PT36M",
           "ratings": {
-            "count": 2043,
-            "average": 4.7621145
+            "count": 2053,
+            "average": 4.7632732
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -206,8 +249,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-storage-fundamentals/",
           "length": "PT27M",
           "ratings": {
-            "count": 229,
-            "average": 4.7336245
+            "count": 230,
+            "average": 4.7347827
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -371,8 +414,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/top-5-security-items-to-consider/",
           "length": "PT45M",
           "ratings": {
-            "count": 6489,
-            "average": 4.6526427
+            "count": 6492,
+            "average": 4.6528034
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -620,8 +663,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-azure-service-to-integrate-and-automate-business-processes/",
           "length": "PT44M",
           "ratings": {
-            "count": 10805,
-            "average": 4.5775104
+            "count": 10806,
+            "average": 4.5775495
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -902,8 +945,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/scale-sql-databases-elastic-pools/",
           "length": "PT39M",
           "ratings": {
-            "count": 3513,
-            "average": 4.5804157
+            "count": 3514,
+            "average": 4.580535
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -946,8 +989,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/migrate-sql-server-relational-data/",
           "length": "PT1H24M",
           "ratings": {
-            "count": 952,
-            "average": 4.4054623
+            "count": 953,
+            "average": 4.406086
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1259,8 +1302,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/migrate-sql-server-relational-data/",
           "length": "PT1H24M",
           "ratings": {
-            "count": 952,
-            "average": 4.4054623
+            "count": 953,
+            "average": 4.406086
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1330,8 +1373,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/scale-sql-databases-elastic-pools/",
           "length": "PT39M",
           "ratings": {
-            "count": 3513,
-            "average": 4.5804157
+            "count": 3514,
+            "average": 4.580535
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1418,8 +1461,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/enable-digital-transformation/",
           "length": "PT32M",
           "ratings": {
-            "count": 8815,
-            "average": 4.6979012
+            "count": 8816,
+            "average": 4.6979356
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1627,8 +1670,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-introduction/",
           "length": "PT1H4M",
           "ratings": {
-            "count": 1099,
-            "average": 4.7352138
+            "count": 1100,
+            "average": 4.7354546
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1669,8 +1712,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-cost-optimization/",
           "length": "PT51M",
           "ratings": {
-            "count": 1092,
-            "average": 4.710623
+            "count": 1093,
+            "average": 4.7108874
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2419,8 +2462,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/migrate-sql-server-relational-data/",
           "length": "PT1H24M",
           "ratings": {
-            "count": 952,
-            "average": 4.4054623
+            "count": 953,
+            "average": 4.406086
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2496,8 +2539,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-cosmos-db-for-scale/",
           "length": "PT35M",
           "ratings": {
-            "count": 3905,
-            "average": 4.6448145
+            "count": 3907,
+            "average": 4.644996
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2575,8 +2618,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/access-data-with-cosmos-db-and-sql-api/",
           "length": "PT58M",
           "ratings": {
-            "count": 2602,
-            "average": 4.6441197
+            "count": 2603,
+            "average": 4.6442566
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2611,8 +2654,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/store-access-data-cosmos-graph-api/",
           "length": "PT42M",
           "ratings": {
-            "count": 1479,
-            "average": 4.6484113
+            "count": 1480,
+            "average": 4.6486487
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3073,8 +3116,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/migrate-sql-server-relational-data/",
           "length": "PT1H24M",
           "ratings": {
-            "count": 952,
-            "average": 4.4054623
+            "count": 953,
+            "average": 4.406086
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3129,8 +3172,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/migrate-sql-server-relational-data/",
       "length": "PT1H24M",
       "ratings": {
-        "count": 952,
-        "average": 4.4054623
+        "count": 953,
+        "average": 4.406086
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3164,8 +3207,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/scale-sql-databases-elastic-pools/",
       "length": "PT39M",
       "ratings": {
-        "count": 3513,
-        "average": 4.5804157
+        "count": 3514,
+        "average": 4.580535
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3246,8 +3289,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/develop-app-that-queries-azure-sql/",
       "length": "PT50M",
       "ratings": {
-        "count": 2623,
-        "average": 4.5348835
+        "count": 2624,
+        "average": 4.535061
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3460,42 +3503,6 @@
         "Compute",
         "Serverless",
         "Storage"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-create-azure-db-for-postgresql.md",
-      "title": "Create an Azure Database for PostgreSQL server",
-      "excerpt": "Learn how to create and deploy Azure Database for PostgreSQL for fully managed, enterprise-ready PostgreSQL database services.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-create-azure-db-for-postgresql/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-azure-db-for-postgresql-server/",
-      "length": "PT44M",
-      "ratings": {
-        "count": 1895,
-        "average": 4.6290236
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 53,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Management Tools",
-        "Databases"
       ]
     }
   ],
