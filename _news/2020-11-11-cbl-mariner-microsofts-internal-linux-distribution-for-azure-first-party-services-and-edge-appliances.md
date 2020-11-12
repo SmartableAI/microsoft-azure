@@ -3,13 +3,13 @@ category: news
 title: "CBL-Mariner: Microsoft's internal Linux distribution for Azure first-party services and edge appliances"
 excerpt: "The Linux Systems Group at Microsoft has developed a Linux distribution for internal use and made it available on GitHub."
 publishedDateTime: 2020-11-11T09:04:00Z
-originalUrl: "https://www.zdnet.com/article/cbl-mariner-microsofts-internal-linux-distribution-for-azure-first-party-services-and-edge-appliances/"
-webUrl: "https://www.zdnet.com/article/cbl-mariner-microsofts-internal-linux-distribution-for-azure-first-party-services-and-edge-appliances/"
-ampWebUrl: "https://www.zdnet.com/google-amp/article/cbl-mariner-microsofts-internal-linux-distribution-for-azure-first-party-services-and-edge-appliances/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/cbl-mariner-microsofts-internal-linux-distribution-for-azure-first-party-services-and-edge-appliances/"
+originalUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/article/cbl-mariner-microsofts-internal-linux-distribution-for-azure-first-party-services-and-edge-appliances/"
+webUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/article/cbl-mariner-microsofts-internal-linux-distribution-for-azure-first-party-services-and-edge-appliances/"
+ampWebUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/cbl-mariner-microsofts-internal-linux-distribution-for-azure-first-party-services-and-edge-appliances/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/cbl-mariner-microsofts-internal-linux-distribution-for-azure-first-party-services-and-edge-appliances/"
 type: article
 quality: 81
-heat: 81
+heat: 101
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     height: 477
     isCached: true
 
-secured: "HFkfYxJnE+X2Cmrt+VOx3/ZeA/AEiaETUMfW2/L+1Z0uKb3xRPkUBOvRTbS1JkTUiN7rDnbbF59kP6BbIha5pwKs0xhDtLBdfOMvMSLtmSKaCAidzzbPuLCRlbuKPNvuqsiK9iSwZTCMMasxqHt2/tqyf8g8XZY4NBCRz9SGm2rtjMfGtShBV+/A33nVtQLPkHIovMu/TyyhGisaKvUwcZ8wsiapp967Ebo0ogV+inwcc2aMPkH3uYDYA10SvRGIJWXEwHFmMpW1RJWy2McTa7+bsCRz8yoxlm4uREfz2WPYXWQvgO9OHQbdoRlH/UX6AJTCa4e28ZSXI2StD33j/OzPVMuXwTumm6TcE23TDaom7VBgzDG99sLLCoHK7ltEcvSgCNpVfdRqWgrmDuJIYKRUFTOGRzthSYab6P4B04tl7JwnBczn2qTmAljjynBg2j/DkVyTntm53oLRnlfSrs95rz3STpxrwg4T3OieYXCqBS+VtUystDZ08oL5E+arjELVDDM4nysG5PnY/yOBKA==;q0qLg5fewZAmd8vaULPfOg=="
+related:
+  - title: "Tech Mahindra recognized as a Microsoft Azure Expert Managed Service Provider"
+    excerpt: "This recognition signifies Tech Mahindra’s proven expertise as an Azure Expert MSP, including infrastructure and application migration."
+    publishedDateTime: 2020-11-12T06:58:00Z
+    webUrl: "https://www.indiainfoline.com/article/news-sector-information-technology/tech-mahindra-recognized-as-a-microsoft-azure-expert-managed-service-provider-120111200496_1.html"
+    ampWebUrl: "https://www.indiainfoline.com/article-amp/news-sector-information-technology/tech-mahindra-recognized-as-a-microsoft-azure-expert-managed-service-provider-120111200496_1.html"
+    cdnAmpWebUrl: "https://www-indiainfoline-com.cdn.ampproject.org/c/s/www.indiainfoline.com/article-amp/news-sector-information-technology/tech-mahindra-recognized-as-a-microsoft-azure-expert-managed-service-provider-120111200496_1.html"
+    type: article
+    provider:
+      name: India Infoline
+      domain: indiainfoline.com
+    quality: 54
+    images:
+      - url: "https://content.indiainfoline.com/_media/iifl/img/article/default/news.jpg"
+        width: 350
+        height: 233
+        isCached: true
+
+secured: "rc/w9zPo7bJeoMjpJkVSqWffaaRcc8AJb9G6vhaRB9T6BsKjuc4fAIkA7ri6khE2Ls3gAqLVdcqAEFV1cVxfTimPLLJ4c3098dpYTYNXCnDogcB4vhv/uhB0zKHB0XGe8KOnTSv3+3S9eT5y+45NQr4QLDc/fnBz75uN6MiNIP2OGPRqSCqLwgqZNQNJheHtNOpMCPvyM2n5XmyAxDATgaCdOFGOPn08pRGqeXN2xQwHGIw43kCy2q44SVqnMGYRCIvj2zQybEFkmBGqe8vHu+Q246UPrCGw2ITA8GUhC506hhxcBSqxVqbi92yAGcGCCFeN2pWwxYXvHjQOsyNIu2tlY9T3IZXNjak0H9KvE3Q=;vFkkg3RqLlAlkgq4jJflkQ=="
 ---
 
