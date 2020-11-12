@@ -6,8 +6,8 @@ type: course
 price: Free
 length: PT44M
 ratings:
-  count: 1723
-  average: 4.683691
+  count: 1725
+  average: 4.684058
 heat: 52
 
 provider:
@@ -26,6 +26,6 @@ topics:
   - Compute
   - Storage
 
-secured: "FyPt9sZWCFdL1w5tTwYXbUf6SKxNqDgmyXL7AfzuyfPCNhyXbTMkBi8QX45QPW5n7O62xdToJkt1ZEEIOW6HLd/x4ClCkohozHrYfXF6g+8GdAM5XNd2wTMYesvivI+l5yccDDBeAfgtUDY+7r3+yQV+TjWDO+1ZQG1IPAQWR77ijCq5lUCnMxMXazgPYgp7YE6HB6o/WUwUQloKAQkD2/Nvz0YjwjqZuV/tkGKdwjmiPK5lPZck17NyXNZJiZFTr+FVLaN7atrQrTx9eCMJ7GWZlkYbc2gZNQiFf4rAdoAltF9fXjndC9mALuWdIkJ/WZAXnqmf3TwPYpg+haM0+SB3mWgoVeK02pa2fftQGrCeclGEDbCBMYhG1oG6RP/S26LyUY2RQTAv4ORUeOC3NW1H0Uccn7UQmyVtcEXz8oU=;qO6DeqKp7vbbCxcy4bhdHQ=="
+secured: "BVNnZbJxhU850svQ49Qny98mQBJ4A1jaYMPUoWpIHSprYoqlkKgGeWYj0D8mHo7bwjlnLZuxagqZW5yYJMzqnGLRsJ2YGNVfrwBWCPO5lRBeXMu1fwkTrbmJlsNmXHQT0Q7DOjze8P/zwdISsCpfwGcKF3nBEgDQt1C8traLBZk+yEe8+ulIfsf96MbbMAM5WWCfVV/V+BDL4SZymYsMDsTi5OEY2uPG+PkETquj+mQMW+gPwgLqnLNQ/J2S/wjPYEbomej9JkrmrJVEqZ7hC/IuuO0f3FoydS6x4yZ2WIUuEnLktBfO5x4Ag4ND8eOdMQkHBCdpsbGjgaIwdQpVKZodfnf4/oQAwHRHMTSQVxMvtu0AuQBOY5g0sTrzdyBoBDuAFYiEBgzGw/hsAqJ71bl1+0rNqrcMI+a96NdV2hg=;FpT4i1YlI8CG5tk/KYKkAQ=="
 ---
 

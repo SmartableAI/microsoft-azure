@@ -25,6 +25,6 @@ topics:
   - Azure
   - IoT
 
-secured: "7R8B+Udjio4T8WCjZtEVwdRX3YWlFmvHl6//ufD3oyT5jDPAh3ypmTNQe0MoAlESkBLf35cCyujiuHMuIdMxmiBpOg/OjeAjIUt9GhLdEOwdE+K3/Q+BUZ5zLEns5pSzOwkpNXO0jyZMUsO/g78crJ9xYRzwr8AhofYj6F+wddZw6G7hj9yMbA2E1uQnlu+ILEwJoWehocakIPyYyqc7tQt6+ENkne7/OJpK/pALLWINlz/oaPdN5cfHdfcI4OwOW2CTmwzPcviDRb4p8vr3WbnLGtO7ewSGR8HwIqiAcbICnU5JsSXDQPekmBQtAZaP/0RZmZpjhytEHaFjKL1gQHhDjPJeumhqLHQyWDxEL33rs2hH4UTF45kMbpegQqyw7Ike8KyYz5SfU7LEVSEzYeGhw7x088mwMbCr2qaT/RA=;HnXVRlqedkm4o7WooPyjdw=="
+secured: "N+5YMQXGfAcFK8jjJ2dXIe+JTanuxQZnEskg2yMldTFDqEQegIhE+qN+oCmTXWg+BGEq2uY1Po2CbOyClB/5U9MoKryYYJELNTBipVoFenSFeYyf9GnrZnRRSlScuj/KhO7M5gWguamQpnj+Tl5k4U17tsjzvwxc9x+V2xLQq5tWa2ADjvk8iDqthE/TXloRDTFGc7KWqFUR/0LsTGoSCMtLjMnevJrKCoUsjZEeWJzQQLblkqYmsvmQYWI3PfQjg6l+r6B+BDpJdt6TN+FIe05y6uD/+IqsQ8+7FkG2ly1dzT7Y9vzeySGE++wnsqapdn0ZX4/OK+lmG9vbf8Mwd2sRtZeG8N+wN9VEKcsok4unc8+HpdGzpkR+XkQH2G4snmAF6gvp1YWmCVP++TMzAQqEzYe+TZ4es/XvINPnXzA=;9NaOFcRZ+TVecX8Qt83UAg=="
 ---
 
