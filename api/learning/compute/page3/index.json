@@ -4,42 +4,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-build-and-run-a-web-application-with-the-mean-stack-on-an-azure-linux-vm.md",
-      "title": "Build and run a web application with the MEAN stack on an Azure Linux virtual machine",
-      "excerpt": "Learn how to decide if the MEAN stack (MongoDB, Express.js, AngularJS, and Node.js) is a good choice for you and set up a MEAN-based web application on a new Azure Linux virtual machine.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-build-and-run-a-web-application-with-the-mean-stack-on-an-azure-linux-vm/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-a-web-app-with-mean-on-a-linux-vm/",
-      "length": "PT42M",
-      "ratings": {
-        "count": 1896,
-        "average": 4.561709
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 53,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Compute",
-        "Management Tools"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-deploy-vms-from-vhd-templates.md",
       "title": "Deploy Azure virtual machines from VHD templates",
       "excerpt": "Standardize and automate your virtual machine deployments to minimize manual configuration, variance, and error.",
@@ -306,8 +270,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/automatic-update-of-a-webapp-using-azure-functions-and-signalr/",
       "length": "PT55M",
       "ratings": {
-        "count": 1526,
-        "average": 4.2706423
+        "count": 1527,
+        "average": 4.269155
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -630,8 +594,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-secrets-with-azure-key-vault/",
       "length": "PT46M",
       "ratings": {
-        "count": 1566,
-        "average": 4.599617
+        "count": 1568,
+        "average": 4.6001277
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -975,8 +939,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-azure-data-lake-storage/",
           "length": "PT30M",
           "ratings": {
-            "count": 1777,
-            "average": 4.6989307
+            "count": 1778,
+            "average": 4.6991
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1018,8 +982,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/upload-data-to-azure-data-lake-storage/",
           "length": "PT50M",
           "ratings": {
-            "count": 1671,
-            "average": 4.6002393
+            "count": 1672,
+            "average": 4.6004786
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1217,8 +1181,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-spring-cloud-workshop/",
       "length": "PT1H24M",
       "ratings": {
-        "count": 220,
-        "average": 4.3
+        "count": 221,
+        "average": 4.3031673
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1253,8 +1217,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-serverless-api-with-functions-api-management/",
       "length": "PT41M",
       "ratings": {
-        "count": 1284,
-        "average": 4.623053
+        "count": 1286,
+        "average": 4.623639
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1372,6 +1336,50 @@
         "Compute",
         "Serverless",
         "Developer tools"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-publish-static-web-app-and-api.md",
+      "title": "Publish an Angular, React, Svelte, or Vue JavaScript app with Azure Static Web Apps",
+      "excerpt": "Publish an Angular, React, Svelte, or Vue JavaScript app with Azure Static Web Apps. Use Visual Studio Code to create and run the web app locally.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-publish-static-web-app-and-api/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/publish-app-service-static-web-app-api/",
+      "length": "PT22M",
+      "ratings": {
+        "count": 303,
+        "average": 4.759076
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Compute",
+        "Web"
       ]
     }
   ],
