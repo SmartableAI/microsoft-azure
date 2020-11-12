@@ -13,6 +13,7 @@ provider:
       height: 50
 
 items:
+  - videos/microsoft-how-to-build-azure-workbooks-using-logs-and-parameters-azure-portal-series
   - videos/microsoft-how-to-add-and-secure-a-custom-domain-on-your-app-service-web-app-azure-portal-series
   - videos/microsoft-how-to-create-and-manage-an-app-service-domain-azure-portal-series
   - videos/microsoft-improvements-to-the-linux-virtual-machine-experience-azure-portal-series
@@ -62,7 +63,7 @@ topics:
   - Management tools
 
 images:
-  - url: https://i.ytimg.com/vi/bXP6IvNYISw/maxresdefault.jpg
+  - url: https://i.ytimg.com/vi/EC7n1Oo6D-o/maxresdefault.jpg
     width: 1280
     height: 720
     isCached: true
