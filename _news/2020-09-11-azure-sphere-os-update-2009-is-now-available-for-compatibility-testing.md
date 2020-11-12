@@ -49,15 +49,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
-  - title: "Azure Sphere 20.10 update is now available"
-    excerpt: "Learn about what's new in the the 20.10 release, including new and updated features in the OS, SDK, and extensions for Visual Studio and Visual Studio Code. "
-    publishedDateTime: 2020-11-10T00:00:18Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-sphere-2010-update-is-now-available/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 67
   - title: "Azure Sphere update 20.04 is now available"
     excerpt: ""
     publishedDateTime: 2020-05-05T17:00:14Z

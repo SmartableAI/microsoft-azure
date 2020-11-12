@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/reduce-costs-with-new-memoryoptim
 webUrl: "https://azure.microsoft.com/blog/reduce-costs-with-new-memoryoptimized-azure-virtual-machines-certified-for-sap-hana/"
 type: article
 quality: 97
-heat: 97
+heat: 117
 published: true
 
 provider:
@@ -27,6 +27,17 @@ images:
     width: 1024
     height: 576
     isCached: true
+
+related:
+  - title: "New SAP HANA Certified Memory-Optimized Virtual Machines now available"
+    excerpt: "We are expanding our SAP HANA certifications, enabling you to run production SAP HANA workloads on the Edsv4 virtual machines sizes."
+    publishedDateTime: 2020-11-12T17:01:40Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/new-sap-hana-certified-memoryoptimized-virtual-machines-now-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 52
 
 secured: "qKObSc9vxdev8lEwf9fshZAbHNgVSD9LjDT8gqtZ3F+fP1xgx9BGgkRXJFppcW9rM9BxrBLya7qbe+f34lDzl30jwvkla5lTswohWVXS1opAorMUFmhnpbi0Fricw/YxWPckMJkyqpClA4aSRMfF9IKImMgPUDW0QYUrx9b71qAb9SpX2Wdrc8FGM2ThS7/fakdM1fMPdVzDx9wTpUZk5qnk93W8bOa3M/cJMcnlxgpcpi0FZE78OGlL7chPqZTk9x2f7/7kzXk08ji5v8sTfz2h35DcOCZ4w4yJFBaXJaWcDHhi+TcfZkOtsqeGkIelmW2niQjcaxGz7TSFrq2UsY+f5teZt/erKIm2TMj1nFg=;lQw32avn0EFNUeY3eL0KCw=="
 ---
