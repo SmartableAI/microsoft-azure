@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/optimize-your-azure-workloads-wit
 webUrl: "https://azure.microsoft.com/blog/optimize-your-azure-workloads-with-azure-advisor-score/"
 type: article
 quality: 87
-heat: 107
+heat: 127
 published: true
 
 provider:
@@ -28,6 +28,15 @@ images:
     isCached: true
 
 related:
+  - title: "How to optimize your Azure workload costs"
+    excerpt: "Managing IT costs is critical during this time of economic uncertainty. The global pandemic is challenging organizations across the globe to reinvent business strategies and make operations more effective and productive. "
+    publishedDateTime: 2020-11-12T12:00:14Z
+    webUrl: "https://azure.microsoft.com/blog/how-to-optimize-your-azure-workload-costs-2/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 69
   - title: "Learn how to manage and optimize your Azure costs with our guided learning modules"
     excerpt: "Stay up to date on your cost management needs with five new courses "
     publishedDateTime: 2020-10-01T16:00:50Z
