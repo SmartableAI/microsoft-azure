@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/view-your-azure-cache-for-redis-d
 webUrl: "https://azure.microsoft.com/blog/view-your-azure-cache-for-redis-data-in-new-visual-studio-code-extension/"
 type: article
 quality: 120
-heat: 281
+heat: 280
 published: true
 
 provider:

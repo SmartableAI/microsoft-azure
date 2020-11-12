@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/reduce-costs-with-new-memoryoptim
 webUrl: "https://azure.microsoft.com/blog/reduce-costs-with-new-memoryoptimized-azure-virtual-machines-certified-for-sap-hana/"
 type: article
 quality: 97
-heat: 99
+heat: 97
 published: true
 
 provider:
