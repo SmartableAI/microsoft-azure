@@ -18,11 +18,11 @@ levels:
   - Beginner
 
 items:
-  - courses/microsoft-learn-principles-cloud-computing
+  - courses/microsoft-learn-fundamental-azure-concepts
   - courses/microsoft-learn-intro-to-azure-linux
   - courses/microsoft-learn-introduction-to-azure-virtual-machines
   - courses/microsoft-learn-create-linux-vm-in-azure
-  - courses/microsoft-learn-control-and-organize-with-resource-manager
+  - courses/microsoft-learn-azure-architecture-fundamentals
   - courses/microsoft-learn-design-your-migration-to-azure
   - courses/microsoft-learn-introduction-open-source-database-migration-azure
   - courses/microsoft-learn-build-and-run-a-web-application-with-the-mean-stack-on-an-azure-linux-vm
@@ -36,7 +36,7 @@ topics:
   - Azure
 
 images:
-  - url: https://docs.microsoft.com/learn/achievements/intro-to-azure-linux-social.png
+  - url: https://docs.microsoft.com/learn/achievements/fundamental-azure-concepts-social.png
     width: 640
     height: 320
     isCached: true
