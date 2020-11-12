@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Accela Migrates Over 200 Data Center Customers to Microsoft Azure to Accelerate Digital Transformation"
-excerpt: "PRNewswire/ -- Accela®, a leading provider of cloud-based solutions for government, today announced it successfully completed over 200 customer"
-publishedDateTime: 2020-11-12T10:00:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/accela-migrates-over-200-data-center-customers-to-microsoft-azure-to-accelerate-digital-transformation-301171615.html"
-webUrl: "https://www.prnewswire.com/news-releases/accela-migrates-over-200-data-center-customers-to-microsoft-azure-to-accelerate-digital-transformation-301171615.html"
+excerpt: "Accela®, a leading provider of cloud-based solutions for government, today announced it successfully completed over 200 customer migrations from Accela's data center-hosted solution to its SaaS infrastructure powered by Microsoft Azure,"
+publishedDateTime: 2020-11-12T11:23:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/accela-migrates-over-200-data-center-customers-to-microsoft-azure-to-accelerate-digital-transformation-1029795489"
+webUrl: "https://markets.businessinsider.com/news/stocks/accela-migrates-over-200-data-center-customers-to-microsoft-azure-to-accelerate-digital-transformation-1029795489"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/accela-migrates-over-200-data-center-customers-to-microsoft-azure-to-accelerate-digital-transformation-1029795489"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/accela-migrates-over-200-data-center-customers-to-microsoft-azure-to-accelerate-digital-transformation-1029795489"
 type: article
-quality: 21
-heat: 21
-published: false
+quality: 61
+heat: 81
+published: true
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
-
-images:
-  - url: "https://mma.prnewswire.com/media/1008788/Accela_Logo.jpg?p=facebook"
-    width: 600
-    height: 315
-    isCached: true
 
 related:
   - title: "ANS migrates Fenwick IT systems to Microsoft Azure public cloud"
@@ -34,6 +34,6 @@ related:
       domain: telecompaper.com
     quality: 17
 
-secured: "xp1vYuZlSj0GxsJSeADxsPBh7SHUZrrU+US62OLnOzvTGDcyZ9H1Qk6WjQGRlRbh6pYNSIRa64Bp414RQ3oQFoID6vDEMFALDiiyskAr28ezf4+oktW51SJbWrPAevVj2+Hckr6FPIUXgnunF/Wrzk0/AgZHMADvlaS64V4CW9WuzG0N1srl8YfsQVysy1TcchoN//ZYsS7LDN4TYMfapLLSsmRBHcZaBG/yB6SYa436mMufkB/hlT6YKRaYHZqQAcdTkVDomw+zxrl2NzaGvGUMm0dtNMgEtig4AvAe7/7y32/ITw4X2ThlI2L96kbkweLk67igLUIPdnnqCHDhwJtcvGZhnQWBMXe9wkpPUs0=;dR3E0DJYmfTPndmocBqZnA=="
+secured: "JQvJ2uruJgSJOwpMdIO8KpkFHZvO+1D022Gu31UwZiin6gisnT1Urg5UGKvuvr6XHpXaev7pHzdH5SBBtIzRRqNCxjDhP/6P1oq37J4zMxWDBh+TE0eaXnOReX3ckU6pv8Ayayf5dDy0Nl/IxfUvefHmZWFMSSYaY/CMp/NS9MJdSLbztjJQqKHGU6k2tTiLgkVCu4O0xFmgx7zC5ueLceIZxVpLhmMo2Rxn9czi4PClC2Ul32p3/ypFcbnKufSt13SRRYPRmki4t2YfbmFbvpWfIsggDE7cMhnoUnoHUzJUJB8mDR02QdwK7FNk19P+AskwmRp3NZfqWdYSBpBXtKvuOmzPSgMiPvQbsS80kdQ=;d2oM+l5xU1x7jlSHZqZqxA=="
 ---
 
