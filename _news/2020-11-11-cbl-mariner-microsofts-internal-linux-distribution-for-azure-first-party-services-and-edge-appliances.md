@@ -3,10 +3,10 @@ category: news
 title: "CBL-Mariner: Microsoft's internal Linux distribution for Azure first-party services and edge appliances"
 excerpt: "The Linux Systems Group at Microsoft has developed a Linux distribution for internal use and made it available on GitHub."
 publishedDateTime: 2020-11-11T09:04:00Z
-originalUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/article/cbl-mariner-microsofts-internal-linux-distribution-for-azure-first-party-services-and-edge-appliances/"
-webUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/article/cbl-mariner-microsofts-internal-linux-distribution-for-azure-first-party-services-and-edge-appliances/"
-ampWebUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/cbl-mariner-microsofts-internal-linux-distribution-for-azure-first-party-services-and-edge-appliances/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/cbl-mariner-microsofts-internal-linux-distribution-for-azure-first-party-services-and-edge-appliances/"
+originalUrl: "https://www.zdnet.com/article/cbl-mariner-microsofts-internal-linux-distribution-for-azure-first-party-services-and-edge-appliances/"
+webUrl: "https://www.zdnet.com/article/cbl-mariner-microsofts-internal-linux-distribution-for-azure-first-party-services-and-edge-appliances/"
+ampWebUrl: "https://www.zdnet.com/google-amp/article/cbl-mariner-microsofts-internal-linux-distribution-for-azure-first-party-services-and-edge-appliances/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/cbl-mariner-microsofts-internal-linux-distribution-for-azure-first-party-services-and-edge-appliances/"
 type: article
 quality: 81
 heat: 101
@@ -47,6 +47,6 @@ related:
         height: 233
         isCached: true
 
-secured: "fDo7VtnuNaJFsKdhpWnV9piksH94fmTrbQM22AcJME/VFUHHI0/GfIqgPOsV4HPoZ/ZG2bqGCoose4ZkkSsc0GvXLIIpkAnGwePuKnq0osLSr5OYjpZUXjTjoifMCu8MeYALOx8tB/dnx1vl3gNLNRONVDAHCdfltBcFqIN0LWSYUTnIAnDL40fDkDXDWxM9mmM3UjB5Jy8QRVR8m7yvgR4KtmmE646kL31LnqwAV4Aa8Wr9LQVr/kuh/iEoBk0h1DE7rdC91FTaxQ4AgsyTSI8/5oQHo80jlkgQWYIqJE7e0Ds+SMRVPwuljcUNhOTPTzI9ph9WuI5wRekAf+MaZsSJOZGWUhjFh7fdISXaOwWn4kUFjiu17/tH+E0ci6GOSxDf73+J6GumptTJmeCQCaTZBnot6rQ4jRGNKzDrOxOyiv6baMvVu+UHqqJQ3qZnvqpKsODTZ0fx3HLjVyT1UAygyH0bdPzJgkPejmrY9bMUlErdxLVpMgbyNDS8sJ/yHnP+gXYGm37Tnr4Oy5JTww==;V8qSBdLdSIgPYIWdzVA2MQ=="
+secured: "CmkLbKQp9cjrZKLut3oLcFLLQdAEKTlk9YSWYYIlcKLZjTX+gGPdhMwksycpeRLWa8CYWx5OPsFv/+fDFrtCa9IOisAG1/VnGY4Xd7VmZZuMG4Dtrqx9HElSgMN6XeDuU5PkI5EBx+74LMRNuYEtAozUk/JUeki3MTP3Dup1ErAljA1YH1ZNJq7qGHhBBM1csTIvj4p7hNeoCpHyOPUc4tzWytWFOPnPY1IKiOKzOLDkVy5ESjkvdW302Bj/rCRPVsKfhZxlOpfIC/UVrE8ZLjCg3fJnVcd68NAVHOOduv4OOgp6cZIkyia4z3UzP1WPB3rorg4wndkVSZsmNstv/2+pYIDXfyW0J280xBNYE1w=;l9ZCg0OFWEtCjggpATDHWg=="
 ---
 
