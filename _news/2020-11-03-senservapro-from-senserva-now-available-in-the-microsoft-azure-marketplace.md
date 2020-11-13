@@ -7,7 +7,7 @@ originalUrl: "https://apnews.com/press-release/business-wire/technology-computer
 webUrl: "https://apnews.com/press-release/business-wire/technology-computer-and-data-security-computing-and-information-technology-5c20b698ea1b46ccb59ca08e0ae09ca4"
 type: article
 quality: 35
-heat: 35
+heat: 55
 published: false
 
 provider:

@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-05T16:00:03Z
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-cosmos-db-azure-cli-support-for-autoscale/"
 type: article
 quality: 17
-heat: 17
+heat: 37
 published: false
 
 provider:
