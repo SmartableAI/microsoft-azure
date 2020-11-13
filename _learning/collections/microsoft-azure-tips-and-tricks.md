@@ -2,7 +2,7 @@
 title: "Azure Tips and Tricks"
 excerpt: ""
 type: collection
-heat: 61
+heat: 156
 
 provider:
   name: Microsoft
@@ -13,6 +13,9 @@ provider:
       height: 50
 
 items:
+  - videos/microsoft-how-to-deploy-steeltoe-net-apps-to-azure-spring-cloud
+  - videos/microsoft-how-to-run-logic-apps-in-a-docker-container
+  - videos/microsoft-how-to-use-azure-container-registry-for-building-and-deploying-net-core-apps
   - videos/microsoft-5-things-you-didnt-know-about-azure-kubernetes-service-azure-tips-and-tricks
   - videos/microsoft-5-things-you-didnt-know-about-azure-cognitive-services-azure-tips-and-tricks
   - videos/microsoft-5-things-you-didnt-know-about-azure-sql-database-azure-tips-and-tricks
@@ -155,7 +158,7 @@ topics:
   - Azure
 
 images:
-  - url: https://i.ytimg.com/vi/Hb6VExxq-lw/maxresdefault.jpg
+  - url: https://i.ytimg.com/vi/_RGvAQXz4-Q/maxresdefault.jpg
     width: 1280
     height: 720
     isCached: true
