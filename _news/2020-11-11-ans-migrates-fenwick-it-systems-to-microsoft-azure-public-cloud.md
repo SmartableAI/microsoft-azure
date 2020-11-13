@@ -19,19 +19,16 @@ topics:
 
 related:
   - title: "Accela Migrates Over 200 Data Center Customers to Microsoft Azure to Accelerate Digital Transformation"
-    excerpt: "PRNewswire/ -- Accela®, a leading provider of cloud-based solutions for government, today announced it successfully completed over 200 customer"
-    publishedDateTime: 2020-11-12T10:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/accela-migrates-over-200-data-center-customers-to-microsoft-azure-to-accelerate-digital-transformation-301171615.html"
+    excerpt: "Accela®, a leading provider of cloud-based solutions for government, today announced it successfully completed over 200 customer migrations from Accela's data center-hosted solution to its SaaS infrastructure powered by Microsoft Azure,"
+    publishedDateTime: 2020-11-12T11:23:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/accela-migrates-over-200-data-center-customers-to-microsoft-azure-to-accelerate-digital-transformation-1029795489"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/accela-migrates-over-200-data-center-customers-to-microsoft-azure-to-accelerate-digital-transformation-1029795489"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/accela-migrates-over-200-data-center-customers-to-microsoft-azure-to-accelerate-digital-transformation-1029795489"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 21
-    images:
-      - url: "https://mma.prnewswire.com/media/1008788/Accela_Logo.jpg?p=facebook"
-        width: 600
-        height: 315
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 61
 
 secured: "tIqR2wahxZIZnfGJgfkpKPQ/89szqU47QRtY2+aXg3o7QwjZ4M/hChFayNKu0lzF4nFFi4plCtL0Q8RxTk+5880FjACO9xdkVFli0CLrtL+sxgwv2QgB7SKLpOjbZj5aLbbqAPMR4D7VV73r1K539KfhtkuUgR3xS0DbN+CVLUmG99DQ88U+GbPxikmtl4UNXnH/T03zrI4BudQVEpX+MlpV+eRQRQ9UwDDr3NwTx1LPZ2yAEbKFRjTErbXxilPmHdOb5nRTC8pVXwYrth7P/ow3dxl0ekrBN4NG/pi3U9hWThpr2/I45NyxTcTSD5XNzEU7JOCCwoT0KLaBSYAVaq2r6TGttm25bAranbqC8Jk=;3Apa/yiVGHox6Uk2lK3CTg=="
 ---
