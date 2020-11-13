@@ -9,7 +9,7 @@ ampWebUrl: "https://www.fool.com/amp/investing/2020/11/03/its-past-time-for-micr
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/11/03/its-past-time-for-microsoft-to-disclose-azure-deta/"
 type: article
 quality: 97
-heat: 738
+heat: 737
 published: true
 
 provider:

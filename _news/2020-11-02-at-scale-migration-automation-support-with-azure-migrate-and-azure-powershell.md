@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/atscale-migration-automation-supp
 webUrl: "https://azure.microsoft.com/blog/atscale-migration-automation-support-with-azure-migrate-and-azure-powershell/"
 type: article
 quality: 96
-heat: 137
+heat: 136
 published: true
 
 provider:
