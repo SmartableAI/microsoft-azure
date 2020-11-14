@@ -19,31 +19,31 @@ topics:
   - Azure
 
 related:
-  - title: "Blockchain Market Growing at a CAGR 67.3% | Key Player IBM, AWS, Microsoft, SAP, Intel"
-    excerpt: "Based on type, the hybrid blockchain type segment to grow at the highest CAGR from 2020 to 2025. A permissioned blockchain is a type of hybrid blockchain that shares many features"
-    publishedDateTime: 2020-06-03T00:40:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/06/ab16166093/blockchain-market-growing-at-a-cagr-67-3-key-player-ibm-aws-microsoft-sap-intel"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/16166093"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16166093"
+  - title: "Cloud-based Database Market Predictable to Booming Worldwide | Oracle, Amazon Web Services, Microsoft Azure, IBM"
+    excerpt: "Latest released the research study on Global Cloud based Database Market offers a detailed overview of the factors influencing the global business scope Cloud based Database Market research report shows the latest market insights current situation analysis with upcoming trends"
+    publishedDateTime: 2020-11-14T01:26:00Z
+    webUrl: "https://www.openpr.com/news/2187691/cloud-based-database-market-predictable-to-booming-worldwide"
+    ampWebUrl: "https://www.openpr.com/amp/2187691/cloud-based-database-market-predictable-to-booming-worldwide"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2187691/cloud-based-database-market-predictable-to-booming-worldwide"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 14
-  - title: "New InterWork Alliance that includes IBM and Microsoft aims to standardize distributed applications"
-    excerpt: "New InterWork Alliance that includes IBM and Microsoft aims to standardize distributed applications - SiliconANGLE"
-    publishedDateTime: 2020-06-03T03:11:00Z
-    webUrl: "https://siliconangle.com/2020/06/02/new-interwork-alliance-includes-ibm-microsoft-aims-standardize-distributed-applications/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 8
+      name: openpr.com
+      domain: openpr.com
+    quality: 53
     images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/06/interwork.png"
-        width: 960
-        height: 320
+      - url: "https://cdn.openpr.com/T/b/Tb14323207_g.jpg"
+        width: 800
+        height: 450
         isCached: true
+  - title: "ANS migrates Fenwick IT systems to Microsoft Azure public cloud"
+    excerpt: "UK digital and cloud services provider ANS Group has been selected by luxury department store Fenwick to migrate IT systems to the Microsoft Azure public"
+    publishedDateTime: 2020-11-11T14:48:00Z
+    webUrl: "https://www.telecompaper.com/news/ans-migrates-fenwick-it-systems-to-microsoft-azure-public-cloud--1361480"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 17
 
 secured: "gRbNwEqvhFTzwUyUqJwp6/LHRi0DA7ZRBl6mH0Z2ifNubNQUwMuW5nkYcBtSm6QmVR3ky+NOmeXkDt5zRadD0A5kkD/59viNBOBDjv/+qXtvuP3ifxttdAQQha6L9CA0hRf7fjHMjeX0iud6fbGc9jmoG3R/rJzxiukpoazZIo+1g9u+RmIrsfLyUfuxgqgPliUXEvcRJ8O8QW7xwIQkpBX6Hw+XTt9LUp/I0JEtmeNFQdiWN1s48HV31TzHuMdIeUyFQSh04kU0mu2WFtqU2tzol6ihUHW3Wf5muRx4Rm+Wpg7u1RhRxrkJrm00G/IG;Q231XzyrGaJ/YO/xPzVEYw=="
 ---
