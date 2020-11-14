@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-01T21:47:00Z
 webUrl: "https://docs.microsoft.com/en-us/learn/certifications/courses/40503"
 type: article
 quality: 22
-heat: 22
+heat: 42
 published: false
 
 provider:

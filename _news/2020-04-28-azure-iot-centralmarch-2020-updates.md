@@ -6,7 +6,7 @@ publishedDateTime: 2020-04-28T23:00:43Z
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-iot-central-march-2020-updates/"
 type: article
 quality: 17
-heat: 17
+heat: 77
 published: false
 
 provider:
