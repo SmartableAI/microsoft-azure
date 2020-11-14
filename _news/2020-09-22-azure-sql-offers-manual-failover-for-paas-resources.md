@@ -7,7 +7,7 @@ originalUrl: "https://www.sqlservercentral.com/blogs/azure-sql-offers-manual-fai
 webUrl: "https://www.sqlservercentral.com/blogs/azure-sql-offers-manual-failover-for-paas-resources-2"
 type: article
 quality: 37
-heat: 57
+heat: 37
 published: false
 
 provider:

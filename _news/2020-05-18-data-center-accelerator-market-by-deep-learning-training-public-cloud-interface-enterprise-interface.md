@@ -6,7 +6,7 @@ publishedDateTime: 2020-05-18T21:49:00Z
 webUrl: "https://www.marketwatch.com/press-release/data-center-accelerator-market-by-deep-learning-training-public-cloud-interface-enterprise-interface-2020-05-18"
 type: article
 quality: 46
-heat: 66
+heat: 46
 published: false
 
 provider:
