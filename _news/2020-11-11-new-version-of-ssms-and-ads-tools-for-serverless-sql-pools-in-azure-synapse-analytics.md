@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/azure-synapse-sql-server
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-synapse-sql-serverless-breaking-change-related-to-tooling-ssms-ads/"
 type: article
 quality: 109
-heat: 130
+heat: 129
 published: true
 
 provider:

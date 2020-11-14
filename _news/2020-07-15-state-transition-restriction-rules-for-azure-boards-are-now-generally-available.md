@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-15T18:00:28Z
 webUrl: "https://azure.microsoft.com/en-us/updates/state-transition-restriction-rules-for-azure-boards-are-now-generally-available/"
 type: article
 quality: 13
-heat: 33
+heat: 13
 published: false
 
 provider:

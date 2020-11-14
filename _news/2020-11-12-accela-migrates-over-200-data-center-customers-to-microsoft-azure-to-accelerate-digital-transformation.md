@@ -7,7 +7,7 @@ originalUrl: "https://www.prnewswire.com/news-releases/accela-migrates-over-200-
 webUrl: "https://www.prnewswire.com/news-releases/accela-migrates-over-200-data-center-customers-to-microsoft-azure-to-accelerate-digital-transformation-301171615.html"
 type: article
 quality: 21
-heat: 41
+heat: 21
 published: false
 
 provider:
