@@ -8,7 +8,7 @@ length: PT43M
 ratings:
   count: 979
   average: 4.668029
-heat: 53
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     height: 400
     isCached: true
 
-secured: "wqg5YOiMfYMaGDV6ljlq20FlIDk7d2OwsfLcCVMNaaIIL6b56qKwF+oEv9hBjrSIn0WRkp4tKqhEIl1yzK2JAwEsxcYKhv/ixjBxe9ifgKbUeLv1l5vsiib8teKixrtvK6iu2CP1QVDfe5NA4I0z9HtIYOYHscTJIzQrcddJB8eQZiMXWz1TA38QUC5qI/Cyfoaq8EVGhWCwTKpNlNgK85OOAvEZPVF5LuQffuJiz9CEJ4i5b7243rV68U3qrXmgwqNbsiWdXDpVgsTVrTuwczBfp8azO6IgIV+pMEq7FSNkYSUgQ4v5XPUNz1PS4gbUdIqJ/2u53a95a5KJm0oAnV3oObNRavukNh00FbYmZ6rnYqabfY1+gVCXlbydV1pCKhNn9gk7Mn+nlxsSk0UxL8hNDF1Yw7j44tcA+pIAZTQ=;rSK90TcoxNNbmXiw1yNxBA=="
+secured: "5gw3Fo6NPVtDCj+9lKBNBqKSKmPsugy912cjzZnIlDNk93ARab98oUBhT1bQC11G8ItERWSHzzdBdT1Qb/BqqX4TLj0UUM43a/z322M9vIZFJg0erHNMY33jWX+FwCtlnRKvvaxyJcEK/RgeKpx+w17U91sxeZTD+Avcw2Dq7yhYpVMOWwcXkHfP3BnVJIOrk9BA4I7/VQa0RlwjUnOyvcByZDJGZ9kqZAgaepMFtlRugPHJxDMkhB+k/Bt/kQbyXBPGXWVpbGiBdaGLSDHePp25/PY+rX0IPmsUtnGkRum8FOYRHiitkZOMrjXUJ/3dmSycOmcRMaSe19O/4k/EbtHKdHuQtgAKym5BCrjiasJL3YQ/C8D49JhJBK7/ANofJ4tBqzrkF0JgaZ9P8uNElYq1fH7w+N6i0Hdi/J7/nCE=;UYQZjHkQ5QnDlUJ+M+Ridg=="
 ---
 
