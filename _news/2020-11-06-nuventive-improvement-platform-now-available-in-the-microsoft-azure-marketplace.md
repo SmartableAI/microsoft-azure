@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Nuventive Improvement Platform Now Available in the Microsoft Azure Marketplace"
-excerpt: "Planning and improvement software company Nuventive today announced the availability of the Nuventive Improvement Platform in the"
-publishedDateTime: 2020-11-05T20:03:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/nuventive-improvement-platform-now-available-in-the-microsoft-azure-marketplace-301167528.html"
-webUrl: "https://www.prnewswire.com/news-releases/nuventive-improvement-platform-now-available-in-the-microsoft-azure-marketplace-301167528.html"
+excerpt: "The Nuventive Improvement Platform planning and improvement software now available in the Microsoft Azure Marketplace To help higher education institutions turn their plans into progress ..."
+publishedDateTime: 2020-11-05T21:27:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/nuventive-improvement-platform-now-available-in-the-microsoft-azure-marketplace-1029772568"
+webUrl: "https://markets.businessinsider.com/news/stocks/nuventive-improvement-platform-now-available-in-the-microsoft-azure-marketplace-1029772568"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/nuventive-improvement-platform-now-available-in-the-microsoft-azure-marketplace-1029772568"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/nuventive-improvement-platform-now-available-in-the-microsoft-azure-marketplace-1029772568"
 type: article
-quality: 33
+quality: 73
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
-
-images:
-  - url: "https://mma.prnewswire.com/media/1327992/Nuventive_Improvement_Platform_Azure_Marketplace.jpg?p=facebook"
-    width: 974
-    height: 510
-    isCached: true
 
 related:
   - title: "It's Past Time for Microsoft to Disclose Azure Details"
@@ -458,6 +458,6 @@ related:
         height: 293
         isCached: true
 
-secured: "Tyrtr3MuzHgm7xmuU/5CZBSU6Ur8YhaVZXliuBil6H9agZXDlZkH0Ber5YtTHvZxm47hDtJ7GsF8UEu5ZxhvtK6ONil6IQORIRQRvsfl6PS3C803rNoYPJ/tONVSndI9N/UgVN66XSzcwVwfebXhrbyfin/Byeuqg9Ek8Qls0k7OlHBZJKqOdBzh4MnsYKCLcdAY6i4sV6bkkiGqyyPYUhOFcFhgBeClwnbCS0H2SD2ZHqT12U9+YS3IF1hofNePks9OVzc40hwxgh5/E/nuYr2YT5YrxsvKsz0sqNaJf4ql/MnnU1505L/FS3bIXFPg5/mODtttfoBUevttrxI2DQnqQNkAuYxCKtMZvExigss=;w7o3JEi5jQHTseXyQv0VyA=="
+secured: "G0YJutBieGe/ui6XknemFOMDSHXRBTrhoDIbfbjn0l74QVrH6bY3Hbw6DVtUJEaRu6POA435C02+++i5wbMWOf/EiiJpY9KO3fH4L7eSvMJbaSABvxo1zUNkSPyzKOa4744AJNTbPh/fDY8qdL2ptdGYByGJEaP2mHr1yf3oDs98x6OZZqGydjcj4+HOetoRTUqsztine1j2BZ8yRoMyHYfoXfEN2GBngj5jcWa0CySsXhmYViVJlG/teGgcmztkAH+qjEfkppVm/aHxia8Qs20HZbJI05eKRFTJcu0nFpB+zC1SmDvxAZpeLu/XqPjrBA5uTXfYvS4NbNQIIzADzKH1Qmjlsjzq06JMbLAcDuw=;eSo6zER7Ta38h5GrNSBkzQ=="
 ---
 
