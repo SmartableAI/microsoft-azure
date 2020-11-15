@@ -311,6 +311,20 @@ related:
         width: 1280
         height: 853
         isCached: true
+  - title: "Microsoft Announces Zone Redundancy for Azure Cache for Redis in Preview"
+    excerpt: "Microsoft announced that Azure Cache for Redis would support multiple availability zones, expanding the availability and resiliency. The update to the service means customers can significantly enhance the availability of their Azure Cache for Redis instance."
+    publishedDateTime: 2020-11-14T15:06:00Z
+    webUrl: "https://www.infoq.com/news/2020/11/zone-redundancy-azure-cache/"
+    type: article
+    provider:
+      name: InfoQ
+      domain: infoq.com
+    quality: 53
+    images:
+      - url: "https://cdn.infoq.com/statics_s2_20201020-0324/styles/static/images/logo/logo-big.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Amazon and Microsoft Trade Insults Over High-Stakes JEDI Contract"
     excerpt: "Amazon filed a protest this week with the Pentagon requesting more clarity on the bidding process, and the two tech giants traded barbs about their respective claims."
     publishedDateTime: 2020-05-08T19:29:00Z

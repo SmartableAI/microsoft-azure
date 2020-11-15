@@ -302,6 +302,20 @@ related:
         width: 1280
         height: 853
         isCached: true
+  - title: "Microsoft Announces Zone Redundancy for Azure Cache for Redis in Preview"
+    excerpt: "Microsoft announced that Azure Cache for Redis would support multiple availability zones, expanding the availability and resiliency. The update to the service means customers can significantly enhance the availability of their Azure Cache for Redis instance."
+    publishedDateTime: 2020-11-14T15:06:00Z
+    webUrl: "https://www.infoq.com/news/2020/11/zone-redundancy-azure-cache/"
+    type: article
+    provider:
+      name: InfoQ
+      domain: infoq.com
+    quality: 53
+    images:
+      - url: "https://cdn.infoq.com/statics_s2_20201020-0324/styles/static/images/logo/logo-big.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Microsoft deepens partnership with Redis to improve capabilities of Azure Cache for Redis"
     excerpt: "Microsoft and Redis Labs today announced a major partnership to bring native integration between Redis Labs technology and Azure cloud. As part of this partnership, Redis Enterprise is now available as two new tiers of Azure Cache for Redis."
     publishedDateTime: 2020-05-12T15:29:00Z

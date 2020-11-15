@@ -1,33 +1,28 @@
 ---
 category: news
-title: "Microsoft releases more open-sourced cloud datacenter components, specs"
-excerpt: "Microsoft is continuing its work with the OCP on open-sourced hardware, software, algorithms and other building-block technologies for cloud datacenter infrastructure."
-publishedDateTime: 2020-05-12T16:15:00Z
-webUrl: "https://www.zdnet.com/article/microsoft-releases-more-open-sourced-cloud-datacenter-components-specs/"
-ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-releases-more-open-sourced-cloud-datacenter-components-specs/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-releases-more-open-sourced-cloud-datacenter-components-specs/"
+title: "Microsoft Announces Zone Redundancy for Azure Cache for Redis in Preview"
+excerpt: "Microsoft announced that Azure Cache for Redis would support multiple availability zones, expanding the availability and resiliency. The update to the service means customers can significantly enhance the availability of their Azure Cache for Redis instance."
+publishedDateTime: 2020-11-14T15:06:00Z
+originalUrl: "https://www.infoq.com/news/2020/11/zone-redundancy-azure-cache/"
+webUrl: "https://www.infoq.com/news/2020/11/zone-redundancy-azure-cache/"
 type: article
-quality: 82
+quality: 53
 heat: -1
 published: false
 
 provider:
-  name: ZDNet
-  domain: zdnet.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/zdnet.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: InfoQ
+  domain: infoq.com
 
 topics:
   - Azure
+  - Databases
 
 images:
-  - url: "https://zdnet3.cbsistatic.com/hub/i/2020/05/12/184993f6-d771-44c7-97eb-4e437bbb83f5/microsoftocp2020.jpg"
-    width: 811
-    height: 503
+  - url: "https://cdn.infoq.com/statics_s2_20201020-0324/styles/static/images/logo/logo-big.jpg"
+    width: 1200
+    height: 630
     isCached: true
-    title: "Microsoft releases more open-sourced cloud datacenter components, specs"
 
 related:
   - title: "Database Week: Microsoft OEMs Redis Enterprise for Azure"
@@ -112,6 +107,22 @@ related:
       - url: "https://cdn.mos.cms.futurecdn.net/utLgVZfGNmPcqfsQrX5XMh-1200-80.jpg"
         width: 970
         height: 545
+        isCached: true
+  - title: "Microsoft releases more open-sourced cloud datacenter components, specs"
+    excerpt: "Microsoft is continuing its work with the OCP on open-sourced hardware, software, algorithms and other building-block technologies for cloud datacenter infrastructure."
+    publishedDateTime: 2020-05-12T16:15:00Z
+    webUrl: "https://www.zdnet.com/article/microsoft-releases-more-open-sourced-cloud-datacenter-components-specs/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-releases-more-open-sourced-cloud-datacenter-components-specs/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-releases-more-open-sourced-cloud-datacenter-components-specs/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 82
+    images:
+      - url: "https://zdnet3.cbsistatic.com/hub/i/2020/05/12/184993f6-d771-44c7-97eb-4e437bbb83f5/microsoftocp2020.jpg"
+        width: 811
+        height: 503
         isCached: true
   - title: "Nokia to collaborate with Microsoft in data centre software"
     excerpt: "Finnish telecom equipment maker Nokia said on Tuesday it would collaborate with Microsoft  in the open source network operating system SONiC, which is used in the data centres of some of the largest cloud-service providers."
@@ -298,20 +309,6 @@ related:
       - url: "https://winbuzzer.com/wp-content/uploads/2016/04/Microsoft-Clouds-Pixels-Reuse.jpg"
         width: 1280
         height: 853
-        isCached: true
-  - title: "Microsoft Announces Zone Redundancy for Azure Cache for Redis in Preview"
-    excerpt: "Microsoft announced that Azure Cache for Redis would support multiple availability zones, expanding the availability and resiliency. The update to the service means customers can significantly enhance the availability of their Azure Cache for Redis instance."
-    publishedDateTime: 2020-11-14T15:06:00Z
-    webUrl: "https://www.infoq.com/news/2020/11/zone-redundancy-azure-cache/"
-    type: article
-    provider:
-      name: InfoQ
-      domain: infoq.com
-    quality: 53
-    images:
-      - url: "https://cdn.infoq.com/statics_s2_20201020-0324/styles/static/images/logo/logo-big.jpg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Microsoft deepens partnership with Redis to improve capabilities of Azure Cache for Redis"
     excerpt: "Microsoft and Redis Labs today announced a major partnership to bring native integration between Redis Labs technology and Azure cloud. As part of this partnership, Redis Enterprise is now available as two new tiers of Azure Cache for Redis."
@@ -846,6 +843,6 @@ related:
       domain: microsoft.com
     quality: 0
 
-secured: "MXx8uJ0j8Tvio1e/a/6x4BX6oc/MqqppCfBbLsrktdSI4zANElKUQXz6hXh0qJJP+ecU+xtMzG1tDoxG4IxlYB6hNnJS0V/p2xL8CAkHgbdJ0Fwqik3/bDRvKZQqVVmXP9E7X9z/U3Mrt5FeGTAYrljTT4wvXWF0dtveL3sdHLjyBw6zh4gTGz3e2kmf+l2XCQnEcyw7Van4z4LtDm2/mYXBVF3lRW/rIDKC7xCXsf0ak3HpwLnvsia+wpBzVjjsWH2cXkrYyK+EHKSYmQXWuqrUCLhIkYYgNIBMi5XeEH4OqcnE5iQlVFW69RreAHhFgQJEtcod5shthC+sPeO/yMo9E6KY83dh3nHVjrC1PCBbrY15r+bP12Tz7tqU/R9Nhn5FnFBdAkDPFhtjOeXuiJQJecuDNVuRF/+YxGTHr+aqFq5iNvgDsg24mvKTMArqhoVUd3k/P0iFAtz8VZoVOmd2uZMFyfzw8BcvM7K7vbs=;fRvHbvHiTcVjGOTV08i/Vg=="
+secured: "tmjBFUq2lo3qsWrmdB3rLF8EvJxCM5KX4kHXelzSa8L1jGlCrbMjPq3LwbWx1N3JG8NyAdEwpMRF7pCfpGYaD61lebd+UZ1HrsXfBH4eJF58LO9i0WbN79Y8db8mWSVVtwmb8pK2SD/Oy/5Xl0Ib3C4bKw2WrWfrms+mja3vNTHZ45VMVUpwiFJVMl7Iob2D3NbPBNqP/EdxIXkx83gNkagRl752dYOBa2SlktymWSM8+ddHZ4BQeLz9dFtYgm7aCPoFT1V+K6CKsxIOLhZKKVNdairQM1GTWeHij7M9+Q8l1bD6yerf481l5Wnb/PP9nEJKSD80qOYI/hkgi8O7hAReIDnyTUudnd9QPrtoQK0=;71lxRFQfk1b8E2vnPl/i5g=="
 ---
 
