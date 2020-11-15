@@ -6,8 +6,8 @@ type: course
 price: Free
 length: PT28M
 ratings:
-  count: 403
-  average: 4.6079407
+  count: 404
+  average: 4.6014853
 heat: 51
 
 provider:
@@ -27,6 +27,6 @@ topics:
   - Storage
   - Databases
 
-secured: "kN7sgCvz3t+LaVlQHFe0lzTC6+elHzv3nBGuNzc2p0AfMw8bRbqcLengVD1elZUmnWVSiPGiXC1t6cjrGbLvrApAot7mY3oKipIPws7n+7m+Zz/9nboJIavZy6HyN9dd0PBBqm/+81CRHdYR3f/2QHctssEMt1M5EKn/E0w5Mxox1vOe45Gt5jWFzuD1RRdhC7J9VPjC7UmFJLVmOaD/HZ4seggvGBBYjWWesPJb5zXJB1SjzEPQPcy84Ibk5D+85L6sILaZCeLLrWzgOkCr2BdHKYwONJSSctBsjrLLqoDV6lo1GEarPrSGhQncrU0ZQsDjK6QfkqGKQCYgzFnLiYzwcm1toftjAl7pfrRr0Z30dmcT3HTZSxIOJqeRBD/brQjJ53bkfysjVVLSHVzaVDX0jB38bmkqKitL6kT7kjI=;g4WJ8ryOhpoO0PRoj/DPTA=="
+secured: "ovQXxzG8oApLFa8rFx8NFFj07BwAh3FPL/ZHt+1RuPqQew2EbXftHL6FBAlqx0TLRwViv1/gpCAFjtWKkVW5FLR9WIPsOimkiJyp3iRNQbK8Id4dLPc+Ii3hFpYtBltjtRpQDMBfmuNpcqt3g2z018AmbejmFy4/o8ayNMpW5hnYuHbi/NYku3l+r6kF2SCAa7fDsR8K+o3en3boCaktwgoI20OrRbzZC0uPGtJ5rK3EdVCu17q3iO6A3844AKKsZqCyU+N/vhKiIQmeunHMf60Qib7U/4gKEELOVxOVHZItv5tdPPTTd97wiE04gOZPKBBXsWGszJs2vW5wznbr0iJ/jNkDnSwsh3vrMivSrP4PyDnbZWkgC9Jr34u9I3rJPm7BIVAY+5dCwe/gzbMrbHU1UIX27YaZGqXwypBKUxg=;Sr82F3IBxbwAjVrWuymrmg=="
 ---
 
