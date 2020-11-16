@@ -1,27 +1,28 @@
 ---
 category: news
-title: "Tencent takes aim at Microsoft and Amazon with expansion of cloud business in Japan"
-excerpt: "A division of Chinese internet services giant Tencent Holdings Ltd. will expand the scope of its cloud business in Japan by the end of this year, a senior executive said Tuesday. By utilizing its state-of-the-art technology in the automobile and electronics fields,"
-publishedDateTime: 2020-05-13T04:03:00Z
-webUrl: "https://www.japantimes.co.jp/news/2020/05/13/business/corporate-business/tencent-cloud-computing/"
+title: "How to improve security and visibility of Amazon Web Services, Microsoft Azure, and Google Cloud Platform"
+excerpt: "Computerworld covers a range of technology topics, with a focus on these core areas of IT: Windows, Mobile, Apple/enterprise, Office and productivity suites, collaboration, web browsers and blockchain,"
+publishedDateTime: 2020-11-15T21:00:00Z
+originalUrl: "https://www.computerworld.com/resources/210736/how-to-improve-security-and-visibility-of-amazon-web-services-microsoft-azure-and-google-cloud-platf"
+webUrl: "https://www.computerworld.com/resources/210736/how-to-improve-security-and-visibility-of-amazon-web-services-microsoft-azure-and-google-cloud-platf"
 type: article
-quality: 16
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: The Japan Times
-  domain: japantimes.co.jp
+  name: Computerworld
+  domain: computerworld.com
 
 topics:
   - Azure
+  - Security
 
 images:
-  - url: "https://cdn.japantimes.2xx.jp/wp-content/uploads/2020/05/np_file_11661.jpeg"
-    width: 594
-    height: 396
+  - url: "https://idge.staticworld.net/ctw/computerworld-logo300x300.png"
+    width: 300
+    height: 300
     isCached: true
-    title: "Tencent takes aim at Microsoft and Amazon with expansion of cloud business in Japan"
 
 related:
   - title: "Top cloud providers in 2020: AWS, Microsoft Azure, and Google Cloud, hybrid, SaaS players"
@@ -206,20 +207,6 @@ related:
       - url: "https://www.thenewsminute.com/sites/default/files/microsoft_750_7.jpg"
         width: 750
         height: 500
-        isCached: true
-  - title: "How to improve security and visibility of Amazon Web Services, Microsoft Azure, and Google Cloud Platform"
-    excerpt: "Computerworld covers a range of technology topics, with a focus on these core areas of IT: Windows, Mobile, Apple/enterprise, Office and productivity suites, collaboration, web browsers and blockchain,"
-    publishedDateTime: 2020-11-15T21:00:00Z
-    webUrl: "https://www.computerworld.com/resources/210736/how-to-improve-security-and-visibility-of-amazon-web-services-microsoft-azure-and-google-cloud-platf"
-    type: article
-    provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 37
-    images:
-      - url: "https://idge.staticworld.net/ctw/computerworld-logo300x300.png"
-        width: 300
-        height: 300
         isCached: true
   - title: "The COO of VMware says it's become 'the indispensable bridge' in the cloud: Amazon, Microsoft and Google 'have all embraced us'"
     excerpt: "VMware COO Sanjay Poonen says the alliances it forged with Amazon, Microsoft and Google has made it \"the indispensable bridge\" in the cloud."
@@ -408,6 +395,20 @@ related:
         width: 800
         height: 500
         isCached: true
+  - title: "Tencent takes aim at Microsoft and Amazon with expansion of cloud business in Japan"
+    excerpt: "A division of Chinese internet services giant Tencent Holdings Ltd. will expand the scope of its cloud business in Japan by the end of this year, a senior executive said Tuesday. By utilizing its state-of-the-art technology in the automobile and electronics fields,"
+    publishedDateTime: 2020-05-13T04:03:00Z
+    webUrl: "https://www.japantimes.co.jp/news/2020/05/13/business/corporate-business/tencent-cloud-computing/"
+    type: article
+    provider:
+      name: The Japan Times
+      domain: japantimes.co.jp
+    quality: 16
+    images:
+      - url: "https://cdn.japantimes.2xx.jp/wp-content/uploads/2020/05/np_file_11661.jpeg"
+        width: 594
+        height: 396
+        isCached: true
   - title: "AWS and Microsoft engage in heated public spat over $10bn cloud project"
     excerpt: "After Microsoft slammed Amazon's Cloud arm for challenging the US government's decision to award $10 billion Pentagon Cloud project to Satya Nadella-run enterprise, Amazon Web Services (AWS) has hit back,"
     publishedDateTime: 2020-05-09T10:58:00Z
@@ -418,6 +419,6 @@ related:
       domain: webindia123.com
     quality: 2
 
-secured: "lVjrT/33+ekYLZP2663734yCE0wwtSGtf6IFH8cYOB+DnashyuESKNXJwNCPLk11JpZJMzjDnbvHzQs/tQItJUNrVUGyz+9NgixsYUPzjCbSE3KpalCKfduZ2GpejFCev3dMRTI1dRUEtKTP3O+u5gEfUqvSi/5HlhcbeVZy55q51+NAQpBJ0mh8IECpeJbeD36YW7X3HgiMAtwcg86WXrcCj6F7a0eIwzBj8Z44gQf/ZUgjMZV76+7J0Pyx0moIQugBjZRH+eKC3exJKXss4k97uzniY4wBQlVYNDRHJdPf+3wW8qgXEJCHEkyC+ELIsDi2lSWcMGC9ScpH97Gid18oXRk1Ne3EWXPgXQpnh9MMc2QcpdSEhnfTmG2RXMiNyCfdcSi1OR5DMyuAloBqNkh9aUheaVxxonmVl42vdI89MD1kwpyyDgYzKUjcUeGOMpjlezxR+g0TohXlMfmhpRAZYYERhqVrt1jDo1y19IA=;eNcSLZc/gJrXdDu5/hJhQg=="
+secured: "OXe+FWwYwxaCpm6yE4hvOORa8do2kUPU0uLyHtJMOq0INPJXxOSHtwIyazq7HYuSkSLIH+hZkPCJl7suVTUBTscvWVfsn3wvmFmyeoD/Okc7+P9XM/AX7F3O8cK53UB2QfU83d06UQ7Qhj0Jc8h4HeYH0bTkbEli3AJFyHdNuzpIgsscGOgQ+Dcr73OWd5TOmOT7HkREZoyBAGoeBLtKWuCOvzMpXerZR+YU/govcQaFymI+ucgOAZ3pOpCWUnhTP+D1MCngGvJR4y0apmPeUZrejM0RSx2aPqZOLLmMpzVdgZ5rpBnG/BGJieVOBWAP7qzz0poZUjOOQUMpGtSN0CVtlGVqx/RyF4xKVvsyJA8=;QzkEAfQA1WLHJfkv5yjiAw=="
 ---
 

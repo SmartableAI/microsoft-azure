@@ -2,6 +2,50 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-09-22-machine-learning-on-azure-sql-managed-instance-in-preview.md",
+      "title": "Machine Learning on Azure SQL Managed Instance in preview",
+      "excerpt": "Machine Learning Services with support for R and Python languages now include preview support on Azure SQL Managed Instance. ",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/en-us/updates/machine-learning-on-azure-sql-managed-instance-in-preview/",
+      "originalUrl": "https://azure.microsoft.com/en-us/updates/machine-learning-on-azure-sql-managed-instance-in-preview/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 241,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-22T09:03:59-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure",
+        "AI",
+        "Databases"
+      ]
+    },
+    {
       "path": "_news/2020-09-22-configurable-backup-storage-redundancy-options-for-azure-sql-database-coming-soon.md",
       "title": "Configurable backup storage redundancy options for Azure SQL Database coming soon",
       "excerpt": "New Azure SQL Database backup storage options coming soon, including local and zone-redundant storage.  ",
@@ -1098,59 +1142,6 @@
       ],
       "topics": [
         "Azure"
-      ]
-    },
-    {
-      "path": "_news/2020-09-08-azure-monitor-for-containers-agent-ciprod08072020-update.md",
-      "title": "Azure Monitor for containers agent (ciprod08072020) update",
-      "excerpt": "Azure monitor for containers new agent (ciprod08072020) will support new features & fixes such as monitoring support of deployments & Horizontal Pod Autoscaler(HPAs), displaying correct node status & health(tab) access through limited preview program.",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/en-us/updates/ci-aug-update/",
-      "originalUrl": "https://azure.microsoft.com/en-us/updates/ci-aug-update/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/1f644ecd-b44f-4a18-b689-92551c059b62.jpg",
-          "width": 958,
-          "height": 386,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-08T11:00:02-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure",
-        "Containers",
-        "DevOps"
       ]
     }
   ],
