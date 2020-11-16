@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/bringing-ai-supercomputing-to-cus
 webUrl: "https://azure.microsoft.com/blog/bringing-ai-supercomputing-to-customers/"
 type: article
 quality: 71
-heat: 72
+heat: 71
 published: true
 
 provider:

@@ -6,7 +6,7 @@ publishedDateTime: 2020-05-12T15:29:00Z
 webUrl: "https://sdtimes.com/softwaredev/sd-times-news-digest-eslint-7-0-datastax-astra-now-available-and-redis-labs-and-microsoft-announce-partnership/"
 type: article
 quality: 41
-heat: 61
+heat: 41
 published: false
 
 provider:
