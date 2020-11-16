@@ -1,12 +1,12 @@
 ---
 category: news
-title: "Azure IoT Central new and updated features—August 2020"
-excerpt: "August updates include jobs improvements, a new file upload feature, a preview of the new data export feature, CLI updates, and documentation enhancements."
-publishedDateTime: 2020-09-14T19:00:14Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/azure-iot-central-feature-updates-august-2020/"
-webUrl: "https://azure.microsoft.com/en-us/updates/azure-iot-central-feature-updates-august-2020/"
+title: "Azure IoT Central new and updated features—October 2020"
+excerpt: "October updates job scheduling, enhanced IoT Edge support, dashboard improvements, and documentation updates."
+publishedDateTime: 2020-11-12T17:00:13Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/azure-iot-central-feature-upadates-october-2020/"
+webUrl: "https://azure.microsoft.com/en-us/updates/azure-iot-central-feature-upadates-october-2020/"
 type: article
-quality: 84
+quality: 104
 heat: -1
 published: false
 
@@ -21,6 +21,12 @@ provider:
 topics:
   - Azure
   - IoT
+
+images:
+  - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/31ce35b5-9932-4bfb-a27e-bccf91e6bb37.png"
+    width: 918
+    height: 650
+    isCached: true
 
 related:
   - title: "Azure IoT Central new and updated features—September 2020"
@@ -37,20 +43,15 @@ related:
         width: 626
         height: 223
         isCached: true
-  - title: "Azure IoT Central new and updated features—October 2020"
-    excerpt: "October updates job scheduling, enhanced IoT Edge support, dashboard improvements, and documentation updates."
-    publishedDateTime: 2020-11-12T17:00:13Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-iot-central-feature-upadates-october-2020/"
+  - title: "Azure IoT Central new and updated features—August 2020"
+    excerpt: "August updates include jobs improvements, a new file upload feature, a preview of the new data export feature, CLI updates, and documentation enhancements."
+    publishedDateTime: 2020-09-14T19:00:14Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-iot-central-feature-updates-august-2020/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 104
-    images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/31ce35b5-9932-4bfb-a27e-bccf91e6bb37.png"
-        width: 918
-        height: 650
-        isCached: true
+    quality: 84
   - title: "Azure portal September 2020 update"
     excerpt: "Updates include improvements to the ARM template deployment experience, a variety of updates for Azure Blob Storage, and more."
     publishedDateTime: 2020-10-01T18:31:28Z
@@ -79,6 +80,6 @@ related:
       domain: microsoft.com
     quality: 17
 
-secured: "1sBY8d3/SoyeKck7UX3sNsq8K1D4IftFKAV7J9rXOsJBO1BSVUixCcESIuS/nuU078MjoQMmSmEPrx4euVPXnE/bLL14vQCkKTy7C7hc8MKsIDeW5y28sv57J7Igqg2YICi3tROudZ8TvcE+UQHihjwkY+Ws/364koM4hs2AjtURxVHD92zy9iGbxQUfevEEGbJIty3PJLR0qEyF4XJ4yIxFK8pY3xWTM+H+kyziZPfTXYfvJso9KRi1xU86HRgqKyBZEoxsLyhoqq/aWF4z3ED8qpGqc3YS8VeXtipwQDSd1bqjTI+TILvvr5DYua5mh6pSnHXfqWjocSfauVj8E1Ne63cbkJ9QB+uU82SWfxo=;MhGDRFi8Kzhwc2Qt3WPObQ=="
+secured: "d6elb/AY8C93nQYt0h1erxmtD5mCa2K8PqxwfGcjDgPi+F6aG/OSrG6Pjvu8jSVb7E6+RQOC651yASdckAqoM+Xmkboe/Cb6O3girTk6C6FNk5W9QYvoMmk1GngFmOOdL4/0yg9snAEEdMJLop4dlZfe61mYpAHpgxQckFXabJGm1mdPI9vMfQEIfTgrXBCpwakU781l9XrWRiqSMt2Y/8GAKS+9CF8Yt7DCYfdD+NIKWdUrT6Lpu3NfsCnL1ppXtQI02pn3Nmy0MhEbSMGV4bmV3kwl6AuANJEqnAdHbpSaL3+hC4SSveUyNfmbMOgkvUyly5MEkeIYji8/wpksm8aSFuOgAHL5PqCrWd9E6cM=;2EwlFZU0po1XFUI55ApWHA=="
 ---
 
