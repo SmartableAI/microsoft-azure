@@ -2,6 +2,50 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-09-30-spring-data-azure-cosmos-db-sdk-v300-release-now-available.md",
+      "title": "Spring Data Azure Cosmos DB SDK v3.0.0 release now available",
+      "excerpt": "Now you can use the Spring Data framework with the Azure Cosmos DB Core (SQL) API. ",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/en-us/updates/spring-data-azure-cosmos-db-sdk-v300-release-now-available/",
+      "originalUrl": "https://azure.microsoft.com/en-us/updates/spring-data-azure-cosmos-db-sdk-v300-release-now-available/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-30T09:01:03-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure",
+        "Databases",
+        "Developer tools"
+      ]
+    },
+    {
       "path": "_news/2020-09-30-new-guided-ui-experience-to-deploy-machine-learning-models-in-azure-synapse-analytics-in-preview.md",
       "title": "New guided UI experience to deploy machine learning models in Azure Synapse Analytics (in preview)",
       "excerpt": "We are introducing a guided UI experience in the Synapse Studio that enables users to deploy machine learning models from the Azure Machine Learning model registry directly to Azure Synapse for inferencing. ",
@@ -1105,49 +1149,6 @@
         "Azure",
         "Compute",
         "Migration"
-      ]
-    },
-    {
-      "path": "_news/2020-09-22-virtual-machine-vm-level-disk-bursting-on-dvs3-and-esv3-vms.md",
-      "title": "Virtual Machine (VM) level Disk Bursting on Dvs3 and Esv3 VMs",
-      "excerpt": "Virtual Machine (VM) level Disk Bursting is now enabled on for our Dsv3 and Esv3 virtual machines, allowing customer s workloads to handle unforeseen disk traffic spikes smoothly without the need to overprovision their virtual machine.",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/en-us/updates/virtual-machine-vm-level-disk-bursting-on-dvs3-and-esv3-vms/",
-      "originalUrl": "https://azure.microsoft.com/en-us/updates/virtual-machine-vm-level-disk-bursting-on-dvs3-and-esv3-vms/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-22T09:04:59-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure",
-        "Compute"
       ]
     }
   ],

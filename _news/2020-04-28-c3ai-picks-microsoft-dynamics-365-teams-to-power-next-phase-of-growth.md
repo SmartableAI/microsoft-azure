@@ -388,6 +388,20 @@ related:
         width: 1066
         height: 602
         isCached: true
+  - title: "The Essential Starter’s Guide to Microsoft Azure for IT Leaders"
+    excerpt: "CIO.com delivers the latest tech news, analysis, how-to, blogs, and video for IT professionals. Covers apps, careers, cloud computing, data center, mobile, outsourcing, security, social media, hardware and software."
+    publishedDateTime: 2020-11-15T16:00:00Z
+    webUrl: "https://www.cio.com/resources/210752/the-essential-starter-s-guide-to-microsoft-azure-for-it-leaders"
+    type: article
+    provider:
+      name: CIO
+      domain: cio.com
+    quality: 37
+    images:
+      - url: "https://idge.staticworld.net/cio/CIO_logo_300x300.png"
+        width: 300
+        height: 300
+        isCached: true
   - title: "Microsoft Announces the General Availability of Immersive Reader Service on the Azure AI Platform"
     excerpt: "Immersive Reader, which is a part of the Cognitive Services suite within the Microsoft Azure AI Platform provides help for readers to read and comprehend text. In a recent blog, Microsoft announced the general availability of the service."
     publishedDateTime: 2020-09-07T11:19:00Z

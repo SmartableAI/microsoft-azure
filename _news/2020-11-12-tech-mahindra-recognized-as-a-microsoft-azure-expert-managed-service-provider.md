@@ -42,6 +42,22 @@ related:
         width: 739
         height: 477
         isCached: true
+  - title: "Microsoft Cloud Service Aims for Support of Space and Satellite Ventures"
+    excerpt: "Azure Space hopes to achieve fast, secure satellite networking anywhere in the world. Azure Space combines the power of cloud and space technology. (Image courtesy of Microsoft.) Microsoft has brought together a team of space industry veterans and experts to work together with its in-house product engineers to develop cloud capabilities suited for the needs of space."
+    publishedDateTime: 2020-11-16T20:16:00Z
+    webUrl: "https://www.engineering.com/DesignerEdge/DesignerEdgeArticles/ArticleID/20943/Microsoft-Cloud-Service-Aims-for-Support-of-Space-and-Satellite-Ventures.aspx"
+    ampWebUrl: "https://mobile.engineering.com/amp/20943.html"
+    cdnAmpWebUrl: "https://mobile-engineering-com.cdn.ampproject.org/c/s/mobile.engineering.com/amp/20943.html"
+    type: article
+    provider:
+      name: Engineering
+      domain: engineering.com
+    quality: 41
+    images:
+      - url: "https://www.engineering.com/portals/0/BlogFiles/Space_1.jpg"
+        width: 640
+        height: 360
+        isCached: true
 
 secured: "URoALP/A7lczH8MxNKADMXKznhyXRn5LDegARItaA5waAdOSjmg3aILza6U2ID6XgzjrRVFP/xXRnCQzm1yDJqvg0XM6FVHkdF1ldC9sHPJgQFQbPezKe0LHn0xOgpXlakdWeMYciojEkzbQ3OVv9lMA6Nh5IVf0lYRh/Vqq3INCRrYSyTj3X5+cu9I5TGkcWLKeholCkvlASgdD50/hIsJeaBXtyan2Vdt/XgzedOaXNpGZV/XdI6o30pcJj5utWll/U9Rv5teSrhTSSpiMqR8PXZIuPeVrvo0SliuHAInLhAOdxe8GR0MelSpGvgNwpRQW2G/Flt8S1+7jCtmwbruEZQUNU4Rnsjzr3/bljbY=;lJFrBCbR0DbAwL02Xj9neA=="
 ---

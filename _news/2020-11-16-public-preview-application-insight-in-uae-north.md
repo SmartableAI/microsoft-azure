@@ -1,12 +1,12 @@
 ---
 category: news
-title: "New recommendations from Azure Advisor are now available"
-excerpt: "Four new best practice recommendations will help you improve the reliability and performance of your Azure resources"
-publishedDateTime: 2020-11-11T17:00:00Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/new-recommendations-from-azure-advisor/"
-webUrl: "https://azure.microsoft.com/en-us/updates/new-recommendations-from-azure-advisor/"
+title: "Public preview: Application Insight in UAE North "
+excerpt: "UAE North is now in public preview for customers to start collecting telemetry and analyze their services for health using Application Insight. "
+publishedDateTime: 2020-11-16T19:09:09Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/public-preview-application-insight-in-uae-north/"
+webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-application-insight-in-uae-north/"
 type: article
-quality: 67
+quality: 52
 heat: -1
 published: false
 
@@ -40,16 +40,16 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
-  - title: "Public preview: Application Insight in UAE North "
-    excerpt: "UAE North is now in public preview for customers to start collecting telemetry and analyze their services for health using Application Insight. "
-    publishedDateTime: 2020-11-16T19:09:09Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-application-insight-in-uae-north/"
+  - title: "New recommendations from Azure Advisor are now available"
+    excerpt: "Four new best practice recommendations will help you improve the reliability and performance of your Azure resources"
+    publishedDateTime: 2020-11-11T17:00:00Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/new-recommendations-from-azure-advisor/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 52
+    quality: 67
 
-secured: "FL6GNpNiM0PRyawuFtgTxMK56oOPGUNjfLAwErKidmJvEInSpWzH6xxdofjVC0EYdINao/goHPLyXC3Il+uE81Jbj2i9nk53d9V9IKYP7y3GQITmgE2t47k/4lLvIdu0teo+bkrp+LhfXtpZO9k28NUUKKJ2cunyAzZzR1uDMC8G4fG3kffsRU14zHh7jfBehjCDh6DLynwZVGIbCg0IzLUnGv3kiLoGTWxvsrYuwvhtioYON0OyHJdfP8G6vtt5fXSG+tDZPOtccIy4y5+Z0dl0QSOiGl8kK7/gSeG/IkZPTUGuxgsHPbsqr1oM4XIDeOFBQktdhqCgouP4kpmG1N3XcYyLbB7uXOloDGjXhks=;3ur/y5VEJgwP3uBtFrSQ2g=="
+secured: "eKIYtysUHq9e3U9HqGZMn3c0Hy9jiUBjuMA1r3BJlP66pZ48goK0Qi95KtWQI1vWpg3weQp4GoGGNmz5XRWhUf+Sju+5vSDDEFqMawMSHsgccqVo/kAzqEgs26iLEAKzsu29KanSClZvDt0hybO6blT4+hL8lG4W7yaxlDQfu2FvTym8B4upF/BO/TcCsMRiHYJgceEwAcf/8WVHFDeFY6+kxBM+ckVNMUO06JV4rfz02QEsazv+KhuBtCW7MUY0ra/MoTcrrBEoKI8/snibcjQZ+ROX2Vjy5/x97cCadG1Y5/ciUVarU2PzVcSZ4Wdsl72YYxA4dofMmafMM2fPe4C9fc0TKbRsFbVNQm5po9E=;hOM3y+xvo7K/WOzYju+HpQ=="
 ---
 

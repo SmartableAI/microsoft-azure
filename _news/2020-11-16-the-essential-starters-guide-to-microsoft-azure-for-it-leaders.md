@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Microsoft Azure Stack HCI"
-excerpt: "Azure Stack HCI delivers unmatched performance, with a path to hybrid cloud. Learn more by downloading the white paper here. Azure Stack HCI delivers unmatched performance, with a path to hybrid ..."
-publishedDateTime: 2020-04-25T23:05:00Z
-webUrl: "https://www.crn.com/2020/04/24/microsoft-azure-stack-hci/4rB6NDMQd1Vug6GrJ7ZOU/index.html"
+title: "The Essential Starter’s Guide to Microsoft Azure for IT Leaders"
+excerpt: "CIO.com delivers the latest tech news, analysis, how-to, blogs, and video for IT professionals. Covers apps, careers, cloud computing, data center, mobile, outsourcing, security, social media, hardware and software."
+publishedDateTime: 2020-11-15T16:00:00Z
+originalUrl: "https://www.cio.com/resources/210752/the-essential-starter-s-guide-to-microsoft-azure-for-it-leaders"
+webUrl: "https://www.cio.com/resources/210752/the-essential-starter-s-guide-to-microsoft-azure-for-it-leaders"
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: CRN
-  domain: crn.com
+  name: CIO
+  domain: cio.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://www.crn.com/resources/025b-0eff6361f68a-29cd08758548-1000/1azurestackportfolio.jpg"
-    width: 515
-    height: 305
+  - url: "https://idge.staticworld.net/cio/CIO_logo_300x300.png"
+    width: 300
+    height: 300
     isCached: true
-    title: "Microsoft Azure Stack HCI"
 
 related:
   - title: "Extending the power of Azure AI to Microsoft 365 users"
@@ -269,6 +269,20 @@ related:
         width: 979
         height: 456
         isCached: true
+  - title: "Microsoft Azure Stack HCI"
+    excerpt: "Azure Stack HCI delivers unmatched performance, with a path to hybrid cloud. Learn more by downloading the white paper here. Azure Stack HCI delivers unmatched performance, with a path to hybrid ..."
+    publishedDateTime: 2020-04-25T23:05:00Z
+    webUrl: "https://www.crn.com/2020/04/24/microsoft-azure-stack-hci/4rB6NDMQd1Vug6GrJ7ZOU/index.html"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 37
+    images:
+      - url: "https://www.crn.com/resources/025b-0eff6361f68a-29cd08758548-1000/1azurestackportfolio.jpg"
+        width: 515
+        height: 305
+        isCached: true
   - title: "Extend and migrate on-premises site to Microsoft Azure"
     excerpt: "Learn about how to use the migration tool to programmatically create Azure virtual machines for Configuration Manager."
     publishedDateTime: 2020-04-27T21:28:00Z
@@ -381,20 +395,6 @@ related:
         width: 1066
         height: 602
         isCached: true
-  - title: "The Essential Starter’s Guide to Microsoft Azure for IT Leaders"
-    excerpt: "CIO.com delivers the latest tech news, analysis, how-to, blogs, and video for IT professionals. Covers apps, careers, cloud computing, data center, mobile, outsourcing, security, social media, hardware and software."
-    publishedDateTime: 2020-11-15T16:00:00Z
-    webUrl: "https://www.cio.com/resources/210752/the-essential-starter-s-guide-to-microsoft-azure-for-it-leaders"
-    type: article
-    provider:
-      name: CIO
-      domain: cio.com
-    quality: 37
-    images:
-      - url: "https://idge.staticworld.net/cio/CIO_logo_300x300.png"
-        width: 300
-        height: 300
-        isCached: true
   - title: "Microsoft Announces the General Availability of Immersive Reader Service on the Azure AI Platform"
     excerpt: "Immersive Reader, which is a part of the Cognitive Services suite within the Microsoft Azure AI Platform provides help for readers to read and comprehend text. In a recent blog, Microsoft announced the general availability of the service."
     publishedDateTime: 2020-09-07T11:19:00Z
@@ -470,6 +470,6 @@ related:
       domain: telecompaper.com
     quality: 2
 
-secured: "smaG3k1n7H7xfVZFGfqCNGMeVVs5ZSXaJyzsSC4yxERMKe8QscUY+7/IinCNjz4LsvtXnZLnoH6GY5Lc5cfKb/d51YXvfYZrH2po2rqSCUyIU4/8a7TirwAvUqP1misapHKKlgNIbQxwLlP4a8IeoaeL2iRMxOz6nk/h7vjqm1mj5FXRFyUkmKKERQLkK9AXMMLxPYmWOgZotLnRlxjmN0pzlpENibd8odL/tTqK/4CsYBXKkL5ceWSonLqe9oJobt+5G5iYfQ7j6XO8CsFfiI4HqxlcdV78jcUKF3hxg3cqS2ckuvFNFm+bSXDpT3Bu;vi5ZFD5o2A8kvbOUIGTBiQ=="
+secured: "+KyuMW3C5hrOaDImcbk0rLpvzQTOLtnekfGm0RheZHvW6XJIF7SnaW2/P4or7QO6IERQPM42dR1+XW68IKmoJXQW0hMApNd8E2qmegTHOWqJwIeVz6dvyUd+heBtA26tsEJRk6AuqUCBblQICOlcU2GZMPbRe3Cx47lS8oHAJSJWoFNgSxaxZGcP3bCm1t1V4xXL2+3X+s/9jvK3nSL8BDh4xeMidflLwlrHejX7ZwrZYlbLkHxXVKsQdspEuzrc4ND5pzv1UD7FyFOJCRWlbf7+j2gRN7eJXGDNQ/oIa0JIdGbGJSN5w2cHDLOv0qlxdJu0kdyHNl6dj4aJIRVTSG9esLaTYLM+D1cXUCRDMQ4=;D462QRtS970TWxJ3vkny3A=="
 ---
 
