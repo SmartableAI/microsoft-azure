@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azu
 webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azure-log-analytics-in-brazil-southeast-and-norway-east/"
 type: article
 quality: 80
-heat: 120
+heat: 140
 published: true
 
 provider:
@@ -32,6 +32,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 73
+  - title: "General availability: VPN over ExpressRoute private peering"
+    excerpt: "VPN over ExpressRoute allows customers to encrypt all traffic going over their ExpressRoute circuit. VPN over ExpressRoute, combined with site-to-site and point-to-site VPN provides end-to-end encryption between data centers, branch offices and remote users."
+    publishedDateTime: 2020-11-16T22:52:13Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-vpn-over-expressroute-private-peering/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 52
   - title: "General availability: Application Insight in Australia Central, Brazil Southeast, and Norway East"
     excerpt: "Application Insight, a part of Azure Monitor, is now generally available in Australia Central, Brazil Southeast, and Norway East regions for customers to collect telemetry and analyze their service health in production environments. "
     publishedDateTime: 2020-11-16T19:06:45Z

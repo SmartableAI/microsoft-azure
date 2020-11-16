@@ -1,12 +1,12 @@
 ---
 category: news
-title: "Public preview: Azure Log Analytics in Germany West Central, UAE North, and Switzerland West "
-excerpt: "Germany West Central, UAE North, and Switzerland West  are now in public preview for customers to start collecting telemetry and analyze their services for health and usage using Azure Log Analytics."
-publishedDateTime: 2020-11-16T19:07:42Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/public-preview-azure-log-analytics-in-germany-west-central-uae-north-and-switzerland-west/"
-webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-azure-log-analytics-in-germany-west-central-uae-north-and-switzerland-west/"
+title: "General availability: VPN over ExpressRoute private peering"
+excerpt: "VPN over ExpressRoute allows customers to encrypt all traffic going over their ExpressRoute circuit. VPN over ExpressRoute, combined with site-to-site and point-to-site VPN provides end-to-end encryption between data centers, branch offices and remote users."
+publishedDateTime: 2020-11-16T22:52:13Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/general-availability-vpn-over-expressroute-private-peering/"
+webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-vpn-over-expressroute-private-peering/"
 type: article
-quality: 73
+quality: 52
 heat: -1
 published: false
 
@@ -20,7 +20,6 @@ provider:
 
 topics:
   - Azure
-  - Analytics
 
 related:
   - title: "General availability: Azure Log Analytics in Brazil Southeast and Norway East "
@@ -32,15 +31,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 80
-  - title: "General availability: VPN over ExpressRoute private peering"
-    excerpt: "VPN over ExpressRoute allows customers to encrypt all traffic going over their ExpressRoute circuit. VPN over ExpressRoute, combined with site-to-site and point-to-site VPN provides end-to-end encryption between data centers, branch offices and remote users."
-    publishedDateTime: 2020-11-16T22:52:13Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-vpn-over-expressroute-private-peering/"
+  - title: "Public preview: Azure Log Analytics in Germany West Central, UAE North, and Switzerland West "
+    excerpt: "Germany West Central, UAE North, and Switzerland West  are now in public preview for customers to start collecting telemetry and analyze their services for health and usage using Azure Log Analytics."
+    publishedDateTime: 2020-11-16T19:07:42Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-azure-log-analytics-in-germany-west-central-uae-north-and-switzerland-west/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 52
+    quality: 73
   - title: "General availability: Application Insight in Australia Central, Brazil Southeast, and Norway East"
     excerpt: "Application Insight, a part of Azure Monitor, is now generally available in Australia Central, Brazil Southeast, and Norway East regions for customers to collect telemetry and analyze their service health in production environments. "
     publishedDateTime: 2020-11-16T19:06:45Z
@@ -51,6 +50,6 @@ related:
       domain: microsoft.com
     quality: 39
 
-secured: "tOK58aM5OvxxuxVOjQgZ3F+/5vOHb0DVMJlSWgxbCsWoZB3vjoHK7njoxF4ZRd4XmfVtaWVmV8M6ZDzqYzvZagqu1gWLbOM6sR8+8ogkRFReOXDTDd8E5MoCk+cPy8ury7wYH08t6ziDeaqWLb06csJpHUNRsWMnNP367C7Mt1befQuu5QOlthBuRd4c4Mx1rj4pUY9Y8Uul8tECYLtrIb7sK+hzpitqXSOiyK+yO+kEBhmrUHZrmjcfyiJsopYgnssDhoPckisjEmYyro081iq5Ru3fVPHUKQtwUZZBt8ad/j19UYL2qqdA8mQADQMGzuTKVcoYFYO8K9MxjLOUwgNjTJ78IdWx+L/wXQRAa3w=;MDTCWC/hQ1pBBgHf3i61UA=="
+secured: "Zmvur/JhENxRBApy33fkpM4MA2qIvrcCMy2TCpg40XJhYngZouo3s+aPaIrkkMo6pkG7/Dog6DP5dDZQZT1Mo3ot3U8B61h++K8TAf487WskPNT9+0/Lr40JW88LbGxsGywT0gW8twx5rxP4hgIzCFZeBh8nChU8yJh5sC+GOjmPC+QGpdgOELwfmQqQNTGxaj/KEgeP1NLy1QngrhB0OrKIcKhDfQVRmJVCbT9JnIzygr/fdEKVqtpcx9t7sdsny01WQm5gba6Mab3HqihGjGNHcRFIV9ztslNU9tfbBnxPGk9ljo/0lej7c0H40bQp825/81IVByx1ZnsU+FGJAyFrsLYChZMJweRWs71LWs4=;P2E2pVlvLzLNTYLCCk7r7g=="
 ---
 
