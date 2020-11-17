@@ -1,29 +1,25 @@
 ---
 category: news
 title: "How to improve security and visibility of Amazon Web Services, Microsoft Azure, and Google Cloud Platform"
-excerpt: "The secret to success starts with understanding the common platform risks inherent in cloud technologies and taking the appropriate steps within each to platform to mitigate these risks."
-publishedDateTime: 2020-11-15T16:00:00Z
-originalUrl: "https://www.infoworld.com/resources/210736/how-to-improve-security-and-visibility-of-amazon-web-services-microsoft-azure-and-google-cloud-platf"
-webUrl: "https://www.infoworld.com/resources/210736/how-to-improve-security-and-visibility-of-amazon-web-services-microsoft-azure-and-google-cloud-platf"
+excerpt: "Computerworld covers a range of technology topics, with a focus on these core areas of IT: Windows, Mobile, Apple/enterprise, Office and productivity suites, collaboration, web browsers and blockchain,"
+publishedDateTime: 2020-11-15T21:00:00Z
+originalUrl: "https://www.computerworld.com/resources/210736/how-to-improve-security-and-visibility-of-amazon-web-services-microsoft-azure-and-google-cloud-platf"
+webUrl: "https://www.computerworld.com/resources/210736/how-to-improve-security-and-visibility-of-amazon-web-services-microsoft-azure-and-google-cloud-platf"
 type: article
-quality: 77
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: InfoWorld
-  domain: infoworld.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/infoworld.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Computerworld
+  domain: computerworld.com
 
 topics:
   - Azure
   - Security
 
 images:
-  - url: "https://idge.staticworld.net/ifw/IFW_logo_social_300x300.png"
+  - url: "https://idge.staticworld.net/ctw/computerworld-logo300x300.png"
     width: 300
     height: 300
     isCached: true
@@ -423,6 +419,6 @@ related:
       domain: webindia123.com
     quality: 2
 
-secured: "B0IxLLY+EeeD+BMWa3NpDVqE6NalZO4Wp11rqoYveQ50LpBfxG2u5g1CdNPdXaa/BSLJMgz3wgOZxoFgr1BqHgdmePeQqGuAKrFhO6dgaKxDvb6E58Pz+ymej5tRrOxz4orx892ImOjpQR4WORj1Pyk+4gNvLaLsNfwcs2eSq0O/uLxMPUbwmr32gkkOF1ZEUsoqaiDSsE0IMDAA0YnzFtt6LjPdaGba0brc/YZNre7P8Wyjvavf8CfaciTh30zkD8P6t3GOgl3o1OymYaBp/MLvnOwgZrduSA2ThOayIRlowGyLmT4JLmEPpIuZyHFSQVYHRec4TpF1V/yonUWycLzRJ8cSd2YjFU+R7nUw/L0=;DZW5LND00WrVWAsg8+zc4A=="
+secured: "ZZ5MAEZ79npqpZZ8tYrzDaPxeHvCgc56dYWhYQeOBempkojqPWYIEOAvoRWJrbTvG6eCH8tzy1A/N1SqEdVlRSb9SW1hAAUmYNwr60Y0sHkjeKemSJbbvO4bRJiRZ1KPYQE+AE3dMVnNLBUSyDHnOAEnwmhOTwrrMzCZxbmCvUJ3fj+G10NOej2yPiaxga+onBKXAP6TKA7mRzZudhz4l6Ei/JlQQTxhI77cMBoHPKP/ZB40MMnrF/EN1qSzWQif2FCcMX6L3u6HN1A97GxWxGMvSaMrJdn19+SwKeI121Dq8Y+sqQ06gHz6SZ9cOihQkCHzPhndJoCF++7+WxRPs4ZBUwhqC2DtLkMXFxKvJ6k=;edpdX7UzbcU/UtSwiu3GJg=="
 ---
 
