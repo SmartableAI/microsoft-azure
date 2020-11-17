@@ -20,12 +20,13 @@ levels:
 items:
   - courses/microsoft-learn-configure-the-network-for-your-virtual-machines
   - courses/microsoft-learn-design-ip-addressing-for-azure
-  - courses/microsoft-learn-host-domain-azure-dns
   - courses/microsoft-learn-integrate-vnets-with-vnet-peering
+  - courses/microsoft-learn-secure-and-isolate-with-nsg-and-service-endpoints
+  - courses/microsoft-learn-connect-vm-with-azure-bastion
+  - courses/microsoft-learn-host-domain-azure-dns
   - courses/microsoft-learn-control-network-traffic-flow-with-routes
   - courses/microsoft-learn-connect-on-premises-network-with-vpn-gateway
   - courses/microsoft-learn-connect-on-premises-network-with-expressroute
-  - courses/microsoft-learn-secure-and-isolate-with-nsg-and-service-endpoints
   - courses/microsoft-learn-load-balance-web-traffic-with-application-gateway
   - courses/microsoft-learn-improve-app-scalability-resiliency-with-load-balancer
   - courses/microsoft-learn-troubleshoot-inbound-network-connectivity-azure-load-balancer
