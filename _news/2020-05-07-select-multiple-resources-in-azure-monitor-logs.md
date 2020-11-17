@@ -42,15 +42,6 @@ related:
         width: 1912
         height: 1080
         isCached: true
-  - title: "Azure Monitor Logs Agent for Linux May 2020 release now available"
-    excerpt: ""
-    publishedDateTime: 2020-05-12T21:00:24Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/log-analytics-agent-for-linux-may-2020-release-now-available/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 17
   - title: "Azure Monitor Logs is now available in the US Gov Arizona region"
     excerpt: ""
     publishedDateTime: 2020-05-13T17:00:52Z

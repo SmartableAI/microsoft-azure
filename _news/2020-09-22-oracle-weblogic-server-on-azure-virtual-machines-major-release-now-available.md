@@ -69,6 +69,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 69
+  - title: "Empowering developer velocity and efficiency with Kubernetes"
+    excerpt: "Welcome to KubeCon North America. It seems only yesterday that we were together in San Diego. Though we’re farther apart physically this year, the Kubernetes community continues to go strong."
+    publishedDateTime: 2020-11-17T09:00:19Z
+    webUrl: "https://azure.microsoft.com/blog/empowering-developer-velocity-and-efficiency-with-kubernetes/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 69
   - title: "Service Fabric release 7.2 is now available"
     excerpt: "This release brings new features, bug fixes, and performance enhancements."
     publishedDateTime: 2020-11-11T17:00:03Z

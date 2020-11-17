@@ -7,7 +7,7 @@ originalUrl: "https://www.prnewswire.com/news-releases/stradigi-ai-launches-the-
 webUrl: "https://www.prnewswire.com/news-releases/stradigi-ai-launches-the-kepler-ai-platform-powered-by-microsoft-azure-301173014.html"
 type: article
 quality: 54
-heat: 94
+heat: 114
 published: true
 
 provider:
@@ -47,6 +47,15 @@ related:
     provider:
       name: Telecompaper
       domain: telecompaper.com
+    quality: 17
+  - title: "OpenText Brings Digital Investigation to the Cloud with Microsoft Azure"
+    excerpt: "OpenText™ announced OpenText™ EnCase Forensic and OpenText™ EnCase Endpoint Investigator are now certified on Microsoft Azure. With OpenText Encase solutions in the cloud, law enforcement and corporate investigators can more easily collaborate,"
+    publishedDateTime: 2020-11-11T18:19:00Z
+    webUrl: "https://www.newswiretoday.com/news/174111/OpenText-Brings-Digital-Investigation-to-the-Cloud-with-Microsoft-Azure/"
+    type: article
+    provider:
+      name: Newswire Today
+      domain: newswiretoday.com
     quality: 17
 
 secured: "pfcqJqXNwaVLA8hhjOy8sZTCAJm9NZfB9JWyIt5YLIN3rbfrWVC/y7LQ3Djs8CO6i9vUMJNyFkCjx7nskMn/i3e9tFFJE2YG2FwS76NnRAB/XJ4dkltVRsBuufvhDUMjbxL7qEwYmvNWQqGObwIrEAJmGakR8qSK37Rf7U+5+z88jpID4+F1TkMFfvtTgIgVqSvdPGINJvMToEaknjgzTsc12e7WiZCSWOYIX7Z1ZlH4MOoZfpBirs8C5pKxpa8W8gk/JeX9vwb5FTSD59+EjMWZxjSJuYQH4R244tFSLXXDEW3RvsUxNkfGGFGt0NZy+w49XKWTZQj5awPH1TLNc5MU8XwVnjTSumxkPShHMkQ=;+Fai+h8ObrWN5IE/RWHtEg=="

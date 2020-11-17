@@ -39,15 +39,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 17
-  - title: "Azure App Service hybrid connections for Linux apps is now available"
-    excerpt: "The hybrid connections feature of Azure App Service, which enables access to resources in disparate networks, is now available in public regions."
-    publishedDateTime: 2020-06-11T16:00:15Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-app-service-hybrid-connections-for-linux-apps-is-now-available/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 17
 
 secured: "0KyyVAthT+UI/EBguv/mp5a30R1iJ9yvf8lJJWfKWHtD7N64x3rpbtSIn2769TOeg8XLcMp3qbbB6Me0jwRHm8Y0uWBr29yQM1gacjxT/ykSqrFzX5HhiClr0Aa1hGE2eO1UrjtzlM+pIZ3YWa0cZ4k3WFHPbInlpUcb5rxmAhjBKYO0tCwI+be4KZli+XN692/FxaA45Ra785vJMTfURFzeGrxqj3sDeNEkzLHABcw0VPQ2KBC3v651/wPrGkqgB0hPsxeAPFjJpOSCp1BLbw1Y42Gn4ieAfmfhkFK5tfqSZAj2hn+6f/DNEee0cuut7N0fDHwg2v6e/0XQ0eKAxw==;eGcCKMSFuf40ZP7Oaz9XMQ=="
 ---

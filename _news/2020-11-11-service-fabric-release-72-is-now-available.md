@@ -77,6 +77,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 69
+  - title: "Empowering developer velocity and efficiency with Kubernetes"
+    excerpt: "Welcome to KubeCon North America. It seems only yesterday that we were together in San Diego. Though we’re farther apart physically this year, the Kubernetes community continues to go strong."
+    publishedDateTime: 2020-11-17T09:00:19Z
+    webUrl: "https://azure.microsoft.com/blog/empowering-developer-velocity-and-efficiency-with-kubernetes/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 69
 
 secured: "YGuWKh8OPvYa7z9wvvwCDkMYCLMUlzoAFqDZ1kIivV/u87Lw7IJsnz/DtO5ssuwjtKJgJ9iEMeMMR9F++9mci1Bttaej+wX0k2R8u98018zesUNceazIvngnHuHF/Bj3tpsL2xdmDLbxSQ+h2GRPAASconsFYLfneIhM0VNfDTrWO2Kg4bQsm6mvQmeXDtkWz0Nw/bycn9OWQT/+uPe932c6rhL/NWkvP1UxTEB+zM3oWf3/dy4HwKTWGh3rk7ryBzvsxcqp67PpqiumRl7/BS0tw7vPqG6BPUf3Rq3C/qbXjhAcQaGzp8ONT0vMPQCciZlBfassv9OEouXucZj9tHUG/QrbbriBLz08h42STTM=;EB5gHYrhG1uuNQbDGCccHg=="
 ---

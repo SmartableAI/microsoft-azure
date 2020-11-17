@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/run-oracle-weblogic-serv
 webUrl: "https://azure.microsoft.com/en-us/updates/run-oracle-weblogic-server-on-azure-kubernetes-service/"
 type: article
 quality: 100
-heat: 200
+heat: 220
 published: true
 
 provider:
@@ -65,6 +65,15 @@ related:
     excerpt: "Migrate SQL Server Reporting Services workloads into Azure using pre-configured VM images to enable easier workload management, more efficient onboarding to the cloud, and leverage benefits by selecting preconfigured images."
     publishedDateTime: 2020-11-11T17:00:01Z
     webUrl: "https://azure.microsoft.com/en-us/updates/sql-server-reporting-services-virtual-machine-images-now-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 69
+  - title: "Empowering developer velocity and efficiency with Kubernetes"
+    excerpt: "Welcome to KubeCon North America. It seems only yesterday that we were together in San Diego. Though we’re farther apart physically this year, the Kubernetes community continues to go strong."
+    publishedDateTime: 2020-11-17T09:00:19Z
+    webUrl: "https://azure.microsoft.com/blog/empowering-developer-velocity-and-efficiency-with-kubernetes/"
     type: article
     provider:
       name: Microsoft

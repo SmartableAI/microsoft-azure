@@ -2,6 +2,94 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-10-14-zone-redundant-configuration-for-azure-sql-db-general-purpose-tier.md",
+      "title": "Zone redundant configuration for Azure SQL DB general purpose tier",
+      "excerpt": "Make your general purpose databases and elastic pools resilient to a much larger set of failures, including catastrophic datacenter outages, without any changes of the application logic by selecting zone redundancy.",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/en-us/updates/zone-redundant-configuration-for-azure-sql-db-general-purpose-tier/",
+      "originalUrl": "https://azure.microsoft.com/en-us/updates/zone-redundant-configuration-for-azure-sql-db-general-purpose-tier/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-14T09:00:14-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure",
+        "Databases"
+      ]
+    },
+    {
+      "path": "_news/2020-10-14-azure-synapse-link-for-azure-cosmos-db-sql-serverless-runtime-support-in-preview.md",
+      "title": "Azure Synapse Link for Azure Cosmos DB: SQL serverless runtime support in preview",
+      "excerpt": "Azure Synapse Link now offers preview support for querying Azure Cosmos DB data with Synapse SQL serverless.",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/en-us/updates/azure-synapse-link-for-azure-cosmos-db-sql-serverless-runtime-support-in-preview/",
+      "originalUrl": "https://azure.microsoft.com/en-us/updates/azure-synapse-link-for-azure-cosmos-db-sql-serverless-runtime-support-in-preview/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 213,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-14T09:00:13-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure",
+        "Serverless",
+        "Databases",
+        "Analytics"
+      ]
+    },
+    {
       "path": "_news/2020-10-14-microsoft-explains-how-it-improved-automatic-image-captioning-in-azure-cognitive-services.md",
       "title": "Microsoft explains how it improved automatic image captioning in Azure Cognitive Services",
       "excerpt": "Microsoft says it developed a new AI and machine learning technique that vastly improves the accuracy of automatic image captions.",
@@ -1102,92 +1190,6 @@
       "topics": [
         "Azure",
         "Storage"
-      ]
-    },
-    {
-      "path": "_news/2020-09-30-azure-devtest-labs-encrypt-os-disks-in-your-lab.md",
-      "title": "Azure DevTest Labs: Encrypt OS disks in your lab",
-      "excerpt": "Protect your labs data and data stored on managed disks while resting assured that you are hitting your organization's security and compliance benchmarks with Server-Side Encryption.",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/en-us/updates/azure-devtest-labs-encrypt-os-disks-in-your-lab/",
-      "originalUrl": "https://azure.microsoft.com/en-us/updates/azure-devtest-labs-encrypt-os-disks-in-your-lab/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-30T09:01:34-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure",
-        "DevOps"
-      ]
-    },
-    {
-      "path": "_news/2020-09-30-ga-data-factory-adds-orc-data-lake-file-format-support-for-adf-data-flows-and-synapse-data-flows.md",
-      "title": "GA: Data Factory adds ORC data lake file format support for ADF Data Flows and Synapse Data Flows",
-      "excerpt": "Azure Data Factory (ADF) is adding new connector support to enable Optimized  Row Columnar (ORC) format to data flows in ADF and Synapse Analytics in ADLS and Blob Store.",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/en-us/updates/ga-data-factory-adds-orc-data-lake-file-format-support-for-adf-data-flows-and-synapse-data-flows/",
-      "originalUrl": "https://azure.microsoft.com/en-us/updates/ga-data-factory-adds-orc-data-lake-file-format-support-for-adf-data-flows-and-synapse-data-flows/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-30T09:01:33-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure",
-        "Analytics"
       ]
     }
   ],

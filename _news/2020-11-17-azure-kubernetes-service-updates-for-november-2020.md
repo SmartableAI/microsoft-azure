@@ -1,11 +1,12 @@
 ---
 category: news
-title: "Azure Kubernetes Service upgrade improvements are now in preview"
-excerpt: "Two new AKS upgrade capabilities that will improve the granularity and efficiency of regular Kubernetes upgrade operations are now in preview."
-publishedDateTime: 2020-06-10T16:00:24Z
-webUrl: "https://azure.microsoft.com/en-us/updates/azure-kubernetes-service-upgrade-improvements-are-now-in-preview/"
+title: "Azure Kubernetes Service updates for November 2020"
+excerpt: "AKS updates in general availability include ephemeral OS disk support, AKS containerd support, maxSurge support, Kubernetes 1.19 support, and more."
+publishedDateTime: 2020-11-17T17:00:20Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/aks-updates-for-november-2020/"
+webUrl: "https://azure.microsoft.com/en-us/updates/aks-updates-for-november-2020/"
 type: article
-quality: 17
+quality: 84
 heat: -1
 published: false
 
@@ -19,6 +20,7 @@ provider:
 
 topics:
   - Azure
+  - Containers
 
 related:
   - title: "Monitoring Azure Arc enabled Kubernetes and servers"
@@ -53,15 +55,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 84
-  - title: "Azure Kubernetes Service updates for November 2020"
-    excerpt: "AKS updates in general availability include ephemeral OS disk support, AKS containerd support, maxSurge support, Kubernetes 1.19 support, and more."
-    publishedDateTime: 2020-11-17T17:00:20Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/aks-updates-for-november-2020/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 84
   - title: "Application Gateway Ingress Controller for Azure Kubernetes Service"
     excerpt: "Today we are excited to offer a new solution to bind Azure Kubernetes Service (AKS) and Application Gateway. The new solution provides an open source Application Gateway Ingress Controller (AGIC) for Kubernetes, which makes it possible for AKS customers to leverage Application Gateway to expose their"
     publishedDateTime: 2019-12-02T10:00:27Z
@@ -90,6 +83,15 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Azure Kubernetes Service upgrade improvements are now in preview"
+    excerpt: "Two new AKS upgrade capabilities that will improve the granularity and efficiency of regular Kubernetes upgrade operations are now in preview."
+    publishedDateTime: 2020-06-10T16:00:24Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-kubernetes-service-upgrade-improvements-are-now-in-preview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 17
   - title: "Announcing the general availability of Windows Server containers and private clusters for Azure Kubernetes Service"
     excerpt: "Today’s application environments are often heterogeneous, composed of both Windows and Linux applications. Using Kubernetes to host containers on both Windows Server and Linux not only saves costs but also reduces operational complexity. Many Azure customers have demonstrated this with their usage of"
     publishedDateTime: 2020-04-28T09:00:40Z
@@ -109,6 +111,6 @@ related:
       domain: morningstar.com
     quality: 0
 
-secured: "uRh9NnTP1WL8Rf4ILW/hFDDspURsb83atSEtycEFAp6S/KYr5yInmoqSeflsA30wX+cQFUupPiK/RI6rzq+PIMp/JvEq0MsGclfulLW0S3Bsgtf/qOZE426d3DyEWE+3Kun0W1oKqF01BjlCy7uiusZxfFCsM7GeyrEXFdodTXxLsRzw1+veb8r9jSr9Oktzis1fPRXq0KU+nw7lUDJ1P+rz8iHIrL6s1F2n+uWmwhJeMwpZlG/xpuJoVtf8LueWyWtoGeBr/5qcAZo185ihaVU0q35jj3DHSdnlG7Put8mU2qIvSf4mDDuq3Hd5az8KBtsHpMIvJaycctPzsdPG7w==;5W+/42hP8dCU8CFLLg1mXQ=="
+secured: "u2oNeDWVPAF1qCpysQ+c56gqmfOqXsxMz9/iSsLw415DF8Q2+GboAt3tEwah46dSoMRVmEewcBU9LaNW3Y2rHMnPB/hWyTNt92f7OOUes+Ueid7TrTv0+6lHa5WC+YWsETq6DyPhXhNNmfQEfi4WlEsGHWVJITygMyOW+Jx81hoWqcL9AMhpfWPyazMbSIhvKeRsZ/MvNdKqEOofNir+QnawsiNFjrQiZRyd1pedNEpESpweFMXe45TdW7Ym1hX2Kr/vhGg/CPkDb0/DXzHGQF864DmtwpKO1JACrz57biEtXCZOYD+H6cuQewS89KnjBBlhCJGp9Quu3EwDwOUxEhM70W5kejsd3XpIMYmrW3o=;6f3zW+VKAsLYKBZoOdFK1w=="
 ---
 

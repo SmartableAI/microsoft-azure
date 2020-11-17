@@ -54,6 +54,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 84
+  - title: "Azure Kubernetes Service updates for November 2020"
+    excerpt: "AKS updates in general availability include ephemeral OS disk support, AKS containerd support, maxSurge support, Kubernetes 1.19 support, and more."
+    publishedDateTime: 2020-11-17T17:00:20Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/aks-updates-for-november-2020/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
   - title: "Application Gateway Ingress Controller for Azure Kubernetes Service"
     excerpt: "Today we are excited to offer a new solution to bind Azure Kubernetes Service (AKS) and Application Gateway. The new solution provides an open source Application Gateway Ingress Controller (AGIC) for Kubernetes, which makes it possible for AKS customers to leverage Application Gateway to expose their"
     publishedDateTime: 2019-12-02T10:00:27Z

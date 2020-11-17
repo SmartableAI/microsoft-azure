@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/monitoring-azure-arc-enabled-kube
 webUrl: "https://azure.microsoft.com/blog/monitoring-azure-arc-enabled-kubernetes-and-servers/"
 type: article
 quality: 106
-heat: 246
+heat: 266
 published: true
 
 provider:
@@ -43,6 +43,15 @@ related:
     excerpt: "Learn how to configure recommended metric alerts for monitoring your Azure Arc enabled Kubernetes clusters."
     publishedDateTime: 2020-10-01T16:00:35Z
     webUrl: "https://azure.microsoft.com/en-us/updates/arck8smetricalerts/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
+  - title: "Azure Kubernetes Service updates for November 2020"
+    excerpt: "AKS updates in general availability include ephemeral OS disk support, AKS containerd support, maxSurge support, Kubernetes 1.19 support, and more."
+    publishedDateTime: 2020-11-17T17:00:20Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/aks-updates-for-november-2020/"
     type: article
     provider:
       name: Microsoft

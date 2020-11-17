@@ -61,6 +61,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 84
+  - title: "Azure Kubernetes Service updates for November 2020"
+    excerpt: "AKS updates in general availability include ephemeral OS disk support, AKS containerd support, maxSurge support, Kubernetes 1.19 support, and more."
+    publishedDateTime: 2020-11-17T17:00:20Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/aks-updates-for-november-2020/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
   - title: "Azure Arc enabled Kubernetes preview and new ecosystem partners"
     excerpt: "In November 2019, we announced the preview of Azure Arc, a set of technologies that unlocks new hybrid scenarios for customers by bringing Azure services and management to any infrastructure across datacenters, edge, and multi-cloud. Based on the feedback and excitement of all the customers in the private"
     publishedDateTime: 2020-05-20T08:30:28Z

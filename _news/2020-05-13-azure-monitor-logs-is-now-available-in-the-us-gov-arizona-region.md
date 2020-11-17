@@ -49,15 +49,6 @@ related:
         width: 1912
         height: 1080
         isCached: true
-  - title: "Azure Monitor Logs Agent for Linux May 2020 release now available"
-    excerpt: ""
-    publishedDateTime: 2020-05-12T21:00:24Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/log-analytics-agent-for-linux-may-2020-release-now-available/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 17
 
 secured: "sVhGur3rYZ+5AXxK9YkBMKfalnD7F5gyhPOrKwILaH5fa+19jJEeipeR20ERtu0CSguomOpfOaAhDPpfl5oPL7KYy/Me5HCBUBT9uZ+GQEz2klxoFmuZRS7CibSevsvhbqgziUj/YVex4SOgeEk+da9oMWtFQicJKPrr6NYvwyecszIpBs6/LXx/QGlvx5cdesGGsrFsY1Ck/b94tLwkN8hxm0TCM/ZKYtO9n9pooiC10/IICADr7tx4rIgwlspc3p/NFoHHf8LUNr/FgDEMEWTon856xzeMdb/xbEm4SmFLkxfTKonUxY06FGogKn8qfF9SKnuskDb94QYSC5yzGw==;7tCJ0xHtcn3EP3kqT5TzQw=="
 ---

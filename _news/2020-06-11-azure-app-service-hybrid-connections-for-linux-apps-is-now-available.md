@@ -21,33 +21,38 @@ topics:
   - Azure
 
 related:
-  - title: "Azure Policy support for Azure Cosmos DB is now available"
+  - title: "Azure Hybrid Benefit now generally available for Linux"
+    excerpt: "Coinciding with this week’s Kubecon and Open Azure Day virtual events, today we’re announcing the general availability of Azure Hybrid Benefit functionality for Linux customers, allowing you to bring both your on-premises Windows Server and SQL Server licenses, as well as Red Hat Enterprise Linux (RHEL)"
+    publishedDateTime: 2020-11-17T09:00:21Z
+    webUrl: "https://azure.microsoft.com/blog/azure-hybrid-benefit-now-generally-available-for-linux/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 87
+    images:
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/2f23f64c-ac36-4040-88ee-e45575fb94b4.png"
+        width: 724
+        height: 409
+        isCached: true
+  - title: "Azure Hybrid Benefit -- Linux Preview"
+    excerpt: "Azure Hybrid Benefit - Linux provides convenience and agility for customers who use Red Hat Enterprise Linux and SUSE Linux Enterprise Server with a valid subscription. Customers can use existing Linux subscriptions for easy cloud adoption without the need to reboot their production environment and enjoy"
+    publishedDateTime: 2020-09-22T16:00:00Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-hybrid-benefit-linux-preview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
+  - title: "Azure Monitor Logs Agent for Linux May 2020 release now available"
     excerpt: ""
-    publishedDateTime: 2020-06-10T16:00:15Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-policy-support-for-azure-cosmos-db-is-now-available/"
+    publishedDateTime: 2020-05-12T21:00:24Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/log-analytics-agent-for-linux-may-2020-release-now-available/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
     quality: 17
-  - title: "Windows Server containers in AKS is now available in Azure Government"
-    excerpt: "Windows Server containers in AKS is now available in Azure Government. "
-    publishedDateTime: 2020-06-10T16:00:25Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/windows-server-containers-in-aks-is-now-available-in-azure-government/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 17
-  - title: "Azure Cosmos DB Java SDK 4.0 for Core (SQL) API release now in general availability"
-    excerpt: ""
-    publishedDateTime: 2020-06-10T16:00:14Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-cosmos-db-java-sdk-40-for-core-sql-api-release-now-in-general-availability/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 11
 
 secured: "C8D+0Ocp/mY6wXG4KyfeLoOKwziNXAKxhT5Zwz/xzLwIvaIBjGE2Br8shZuqtkQEN5v6aARGS65eZUKqtzg60oEiB/dGy3wdelmrgqyIq9dRPAih5rQroJ5r9tL1VIE8fRLsc7eBMmBhL5K1np/jdQ2V3Vp1PWlopxNbh9RSYV+1fmD7zFQ8UwoWzOgyZmrwy3s9zfj866qJkuSWoCN75XQGaZLRhsOddPUerpXYFV25ySh2P+zEXVfEx6NqPg1x5OJBSvfoXLQ/F6wf2UMr4l0OmlXpPV5rjwrkLSf5IhqvpiyQOB63SrJ32Iryl3ovZTREQXgKjy1GjkAWCvHVwA==;slziN3GFd0lC9Bo18HZ0AQ=="
 ---

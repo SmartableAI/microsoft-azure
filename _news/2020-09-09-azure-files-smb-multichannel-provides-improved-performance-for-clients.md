@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/azure-files-smb-multichannel-prov
 webUrl: "https://azure.microsoft.com/blog/azure-files-smb-multichannel-provides-improved-performance-for-clients/"
 type: article
 quality: 91
-heat: 91
+heat: 111
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     width: 1024
     height: 507
     isCached: true
+
+related:
+  - title: "Boost your client performance with Azure Files SMB Multichannel"
+    excerpt: "Lower your deployment cost, while improving client performance with Server Message Block (SMB) Multichannel on premium tier."
+    publishedDateTime: 2020-11-17T10:00:15Z
+    webUrl: "https://azure.microsoft.com/blog/boost-your-client-performance-with-azure-files-smb-multichannel/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 91
+    images:
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/00689dfa-88ce-4cc1-9e1a-670cec879a64.png"
+        width: 1024
+        height: 507
+        isCached: true
 
 secured: "XaypCCVSj5FaG8liAZ9Fb8EgG7n87UT+e1BxFi4ylKrhdLoh+bHlqy166erxbwKmx3BU7x39bs2ovYCyKQuMAPTvQCUqGnbNTgZ05FxiWFon5MF1a7AHwARwFp8ydJDFv5zf2KfCAx1HiELfgCaw7EqEH6KOtR6ZxAYA6Ch9q5VZvfy08lGnqShtnbMaPA9xJp878ry0CzH+ARxsy58W2HGTNPlMOIPEaVC9NFyz18r8wdqOr/2+GZV11X5KADMP1DnThaX1SRtpfcepDxqXHOsPoGzv4qudjv3TqoOcAzunMAxJryg28OkhUQaAb9SiapPnggODXcahHvZgxT11T1MSkqrI+3RYl5dtzuMp4TI=;Zdd9b+lvv3FSXievAi64Ww=="
 ---

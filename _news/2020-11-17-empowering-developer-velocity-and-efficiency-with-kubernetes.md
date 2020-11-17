@@ -1,10 +1,10 @@
 ---
 category: news
-title: "SQL Server Reporting Services Virtual Machine images now available"
-excerpt: "Migrate SQL Server Reporting Services workloads into Azure using pre-configured VM images to enable easier workload management, more efficient onboarding to the cloud, and leverage benefits by selecting preconfigured images."
-publishedDateTime: 2020-11-11T17:00:01Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/sql-server-reporting-services-virtual-machine-images-now-available/"
-webUrl: "https://azure.microsoft.com/en-us/updates/sql-server-reporting-services-virtual-machine-images-now-available/"
+title: "Empowering developer velocity and efficiency with Kubernetes"
+excerpt: "Welcome to KubeCon North America. It seems only yesterday that we were together in San Diego. Though we’re farther apart physically this year, the Kubernetes community continues to go strong."
+publishedDateTime: 2020-11-17T09:00:19Z
+originalUrl: "https://azure.microsoft.com/blog/empowering-developer-velocity-and-efficiency-with-kubernetes/"
+webUrl: "https://azure.microsoft.com/blog/empowering-developer-velocity-and-efficiency-with-kubernetes/"
 type: article
 quality: 69
 heat: -1
@@ -20,7 +20,7 @@ provider:
 
 topics:
   - Azure
-  - Compute
+  - Containers
 
 related:
   - title: "Support for Oracle WebLogic Server on Azure Kubernetes Service is now available"
@@ -69,10 +69,10 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 69
-  - title: "Empowering developer velocity and efficiency with Kubernetes"
-    excerpt: "Welcome to KubeCon North America. It seems only yesterday that we were together in San Diego. Though we’re farther apart physically this year, the Kubernetes community continues to go strong."
-    publishedDateTime: 2020-11-17T09:00:19Z
-    webUrl: "https://azure.microsoft.com/blog/empowering-developer-velocity-and-efficiency-with-kubernetes/"
+  - title: "SQL Server Reporting Services Virtual Machine images now available"
+    excerpt: "Migrate SQL Server Reporting Services workloads into Azure using pre-configured VM images to enable easier workload management, more efficient onboarding to the cloud, and leverage benefits by selecting preconfigured images."
+    publishedDateTime: 2020-11-11T17:00:01Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/sql-server-reporting-services-virtual-machine-images-now-available/"
     type: article
     provider:
       name: Microsoft
@@ -88,6 +88,6 @@ related:
       domain: microsoft.com
     quality: 52
 
-secured: "EoIPRiVjib6V9qhZ01CL5bFYsy/9g1QKGqEk6RW+h0odwW4l0s0G01fxxUZQrcLFSIcALUUKnnZWUVwA0AqcGrd0hTqrZNxgURoxBBwl6jd2yKOKFZUKYGFzLrI7owU070PR3ETJZxAq80VlXQwWO/iHJVx74/loFHKePwRICKIO2AyGA4C11tKDUQXEKQNFOV8Ovxk8vo9RkavK0GQFKC9RZPnBpvPa3j6tFNEL2DZZlzlx2tl2vSzracIl6XUjFXxJmK1ftAKWFlcuMYXjdGerhfq3czeA50RtyhEyg4iG7L/CGAgFPYd3KhYmS+6b51z/ycMr3TJHtZYJ4fzYgkUodhWP/EA8BOtPq0gDbhw=;VAWsOf4ail6ETsWiUcaD1w=="
+secured: "+2+GnloUbUoENjCGntIvwNz2GPZ2Jg9Gz0OMxX1wKqW4OoQFNNFFk02G2hoyCv5LCJOq0zgdJbbTrw1DJcfMe6J5IB0ZQXMJCHnvv1BXGRD6wMl6vOk/DtZKIkPhKsUo4Fw/n+EQL+0Gz78zKrQXrEcaG94yCtFmfPdrD6nq2uWHf2r2x6qsdmXHooIBuGOuAoWCUbP3sHjRyKNkhj0f1HKO09O93YdVWuoFS3IFizAsq57fQmOwKEoex+clrFZzzDTcn/+nnvQjnB+dZU0IVy4OFNgoVVFN1YcIoWb+yMGT/syBm+OVYkCe66wOiXNTwOKOzOLoSDW3Avjv92R0SHqeJZmjIwcHJD5MVzKnxmY=;zInqdK2dR1o9JG4QhMkfHA=="
 ---
 
