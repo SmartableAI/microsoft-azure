@@ -94,6 +94,20 @@ related:
         width: 991
         height: 900
         isCached: true
+  - title: "How to improve security and visibility of Amazon Web Services, Microsoft Azure, and Google Cloud Platform"
+    excerpt: "The secret to success starts with understanding the common platform risks inherent in cloud technologies and taking the appropriate steps within each to platform to mitigate these risks."
+    publishedDateTime: 2020-11-15T16:00:00Z
+    webUrl: "https://www.infoworld.com/resources/210736/how-to-improve-security-and-visibility-of-amazon-web-services-microsoft-azure-and-google-cloud-platf"
+    type: article
+    provider:
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 77
+    images:
+      - url: "https://idge.staticworld.net/ifw/IFW_logo_social_300x300.png"
+        width: 300
+        height: 300
+        isCached: true
   - title: "Cloud lift: Amazon, Microsoft, Google, Apple and others find a common cushion in the crisis"
     excerpt: "Amazon CEO Jeff Bezos is advising the company’s shareholders to “take a seat” to prepare for the tech giant’s ambitious spending on COVID-19 initiatives, but if not for Amazon Web Services, they"
     publishedDateTime: 2020-05-04T15:29:00Z
@@ -196,20 +210,6 @@ related:
       - url: "https://www.thenewsminute.com/sites/default/files/microsoft_750_7.jpg"
         width: 750
         height: 500
-        isCached: true
-  - title: "How to improve security and visibility of Amazon Web Services, Microsoft Azure, and Google Cloud Platform"
-    excerpt: "Computerworld covers a range of technology topics, with a focus on these core areas of IT: Windows, Mobile, Apple/enterprise, Office and productivity suites, collaboration, web browsers and blockchain,"
-    publishedDateTime: 2020-11-15T21:00:00Z
-    webUrl: "https://www.computerworld.com/resources/210736/how-to-improve-security-and-visibility-of-amazon-web-services-microsoft-azure-and-google-cloud-platf"
-    type: article
-    provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 37
-    images:
-      - url: "https://idge.staticworld.net/ctw/computerworld-logo300x300.png"
-        width: 300
-        height: 300
         isCached: true
   - title: "The COO of VMware says it's become 'the indispensable bridge' in the cloud: Amazon, Microsoft and Google 'have all embraced us'"
     excerpt: "VMware COO Sanjay Poonen says the alliances it forged with Amazon, Microsoft and Google has made it \"the indispensable bridge\" in the cloud."
