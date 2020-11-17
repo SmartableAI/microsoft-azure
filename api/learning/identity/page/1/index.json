@@ -4,6 +4,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-create-users-and-groups-in-azure-active-directory.md",
+      "title": "Create Azure users and groups in Azure Active Directory",
+      "excerpt": "Learn how to create Azure users and groups in Azure Active Directory.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-create-users-and-groups-in-azure-active-directory/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-users-and-groups-in-azure-active-directory/",
+      "length": "PT41M",
+      "ratings": {
+        "count": 3143,
+        "average": 4.709195
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 141,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/create-users-and-groups-in-azure-active-directory-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Identity"
+      ]
+    },
+    {
       "path": "_learning/collections/microsoft-learn-manage-identity-and-access-in-azure-active-directory.md",
       "title": "Manage identity and access in Azure Active Directory",
       "excerpt": "Learn how to work with subscriptions, users, and groups by configuring Microsoft Azure Active Directory for workloads.",
@@ -71,8 +114,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-an-azure-account/",
           "length": "PT39M",
           "ratings": {
-            "count": 136603,
-            "average": 4.698938
+            "count": 136611,
+            "average": 4.6989336
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -149,8 +192,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-users-and-groups-in-azure-active-directory/",
           "length": "PT41M",
           "ratings": {
-            "count": 3141,
-            "average": 4.709328
+            "count": 3143,
+            "average": 4.709195
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -167,7 +210,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 61,
+          "heat": 141,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/create-users-and-groups-in-azure-active-directory-social.png",
@@ -186,7 +229,7 @@
         }
       ],
       "size": 9,
-      "heat": 93,
+      "heat": 132,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/manage-users-and-groups-in-aad-social.png",
@@ -270,8 +313,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-virtual-machines/",
           "length": "PT1H7M",
           "ratings": {
-            "count": 15491,
-            "average": 4.690982
+            "count": 15494,
+            "average": 4.690848
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -305,8 +348,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/network-fundamentals/",
           "length": "PT47M",
           "ratings": {
-            "count": 3608,
-            "average": 4.7042685
+            "count": 3610,
+            "average": 4.704155
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -340,8 +383,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/network-fundamentals-2/",
           "length": "PT36M",
           "ratings": {
-            "count": 2622,
-            "average": 4.6979403
+            "count": 2623,
+            "average": 4.6980557
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -449,8 +492,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-virtual-machines/",
           "length": "PT1H7M",
           "ratings": {
-            "count": 15491,
-            "average": 4.690982
+            "count": 15494,
+            "average": 4.690848
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -484,8 +527,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/network-fundamentals/",
           "length": "PT47M",
           "ratings": {
-            "count": 3608,
-            "average": 4.7042685
+            "count": 3610,
+            "average": 4.704155
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -519,8 +562,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/network-fundamentals-2/",
           "length": "PT36M",
           "ratings": {
-            "count": 2622,
-            "average": 4.6979403
+            "count": 2623,
+            "average": 4.6980557
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -593,8 +636,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/",
           "length": "PT36M",
           "ratings": {
-            "count": 3290,
-            "average": 4.774164
+            "count": 3320,
+            "average": 4.7756023
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -635,8 +678,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-access-azure-identity-services/",
           "length": "PT17M",
           "ratings": {
-            "count": 210,
-            "average": 4.7904763
+            "count": 211,
+            "average": 4.791469
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -721,8 +764,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/examine-privacy-compliance-data-protection-standards/",
           "length": "PT27M",
           "ratings": {
-            "count": 186,
-            "average": 4.806452
+            "count": 187,
+            "average": 4.802139
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -885,8 +928,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-users-and-groups-in-azure-active-directory/",
           "length": "PT41M",
           "ratings": {
-            "count": 3141,
-            "average": 4.709328
+            "count": 3143,
+            "average": 4.709195
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -903,7 +946,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 61,
+          "heat": 141,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/create-users-and-groups-in-azure-active-directory-social.png",
@@ -928,8 +971,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/authenticate-apps-with-managed-identities/",
           "length": "PT1H6M",
           "ratings": {
-            "count": 168,
-            "average": 4.571429
+            "count": 169,
+            "average": 4.5739646
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -970,8 +1013,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-and-manage-azure-key-vault/",
           "length": "PT29M",
           "ratings": {
-            "count": 1995,
-            "average": 4.610526
+            "count": 1996,
+            "average": 4.6107216
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1060,8 +1103,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-users-and-groups-in-azure-active-directory/",
           "length": "PT41M",
           "ratings": {
-            "count": 3141,
-            "average": 4.709328
+            "count": 3143,
+            "average": 4.709195
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1078,7 +1121,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 61,
+          "heat": 141,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/create-users-and-groups-in-azure-active-directory-social.png",
@@ -1189,8 +1232,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-subscription-access-azure-rbac/",
           "length": "PT21M",
           "ratings": {
-            "count": 11297,
-            "average": 4.762946
+            "count": 11299,
+            "average": 4.762988
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1267,8 +1310,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-users-and-groups-in-azure-active-directory/",
           "length": "PT41M",
           "ratings": {
-            "count": 3141,
-            "average": 4.709328
+            "count": 3143,
+            "average": 4.709195
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1285,7 +1328,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 61,
+          "heat": 141,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/create-users-and-groups-in-azure-active-directory-social.png",
@@ -1396,8 +1439,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-subscription-access-azure-rbac/",
           "length": "PT21M",
           "ratings": {
-            "count": 11297,
-            "average": 4.762946
+            "count": 11299,
+            "average": 4.762988
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1520,8 +1563,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/top-5-security-items-to-consider/",
           "length": "PT45M",
           "ratings": {
-            "count": 6523,
-            "average": 4.653687
+            "count": 6524,
+            "average": 4.65374
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1555,8 +1598,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-security-baselines/",
           "length": "PT60M",
           "ratings": {
-            "count": 2428,
-            "average": 4.642916
+            "count": 2429,
+            "average": 4.643063
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1658,8 +1701,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-access-azure-identity-services/",
       "length": "PT17M",
       "ratings": {
-        "count": 210,
-        "average": 4.7904763
+        "count": 211,
+        "average": 4.791469
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1761,8 +1804,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-security-baselines/",
           "length": "PT60M",
           "ratings": {
-            "count": 2428,
-            "average": 4.642916
+            "count": 2429,
+            "average": 4.643063
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2345,49 +2388,6 @@
         "Identity",
         "Compute",
         "Migration"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-create-users-and-groups-in-azure-active-directory.md",
-      "title": "Create Azure users and groups in Azure Active Directory",
-      "excerpt": "Learn how to create Azure users and groups in Azure Active Directory.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-create-users-and-groups-in-azure-active-directory/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-users-and-groups-in-azure-active-directory/",
-      "length": "PT41M",
-      "ratings": {
-        "count": 3141,
-        "average": 4.709328
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 61,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/create-users-and-groups-in-azure-active-directory-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Identity"
       ]
     },
     {
@@ -3200,8 +3200,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-subscription-access-azure-rbac/",
       "length": "PT21M",
       "ratings": {
-        "count": 11297,
-        "average": 4.762946
+        "count": 11299,
+        "average": 4.762988
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3322,8 +3322,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-app-with-oidc-and-azure-ad/",
       "length": "PT50M",
       "ratings": {
-        "count": 1556,
-        "average": 4.618252
+        "count": 1557,
+        "average": 4.618497
       },
       "provider": {
         "name": "Microsoft Learn",
