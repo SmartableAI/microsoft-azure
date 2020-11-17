@@ -35,15 +35,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "ANS migrates Fenwick IT systems to Microsoft Azure public cloud"
-    excerpt: "UK digital and cloud services provider ANS Group has been selected by luxury department store Fenwick to migrate IT systems to the Microsoft Azure public"
-    publishedDateTime: 2020-11-11T14:48:00Z
-    webUrl: "https://www.telecompaper.com/news/ans-migrates-fenwick-it-systems-to-microsoft-azure-public-cloud--1361480"
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 17
 
 secured: "gRbNwEqvhFTzwUyUqJwp6/LHRi0DA7ZRBl6mH0Z2ifNubNQUwMuW5nkYcBtSm6QmVR3ky+NOmeXkDt5zRadD0A5kkD/59viNBOBDjv/+qXtvuP3ifxttdAQQha6L9CA0hRf7fjHMjeX0iud6fbGc9jmoG3R/rJzxiukpoazZIo+1g9u+RmIrsfLyUfuxgqgPliUXEvcRJ8O8QW7xwIQkpBX6Hw+XTt9LUp/I0JEtmeNFQdiWN1s48HV31TzHuMdIeUyFQSh04kU0mu2WFtqU2tzol6ihUHW3Wf5muRx4Rm+Wpg7u1RhRxrkJrm00G/IG;Q231XzyrGaJ/YO/xPzVEYw=="
 ---
