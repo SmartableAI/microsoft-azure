@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/new-enhanced-dns-features-in-azur
 webUrl: "https://azure.microsoft.com/blog/new-enhanced-dns-features-in-azure-firewall-now-generally-available/"
 type: article
 quality: 104
-heat: 184
+heat: 185
 published: true
 
 provider:
