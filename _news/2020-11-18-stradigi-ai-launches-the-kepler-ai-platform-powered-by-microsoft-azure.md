@@ -1,12 +1,12 @@
 ---
 category: news
 title: "Stradigi AI Launches the Kepler™ AI Platform Powered by Microsoft Azure"
-excerpt: "Kepler Empowers Users Across All Departments to Quickly Deploy Projects with Same-Day Azure Marketplace ActivationMONTREAL, Nov. 17, 2020 /CNW"
+excerpt: "Kepler Empowers Users Across All Departments to Quickly Deploy Projects with Same-Day Azure Marketplace ActivationMONTREAL, Nov. 17, 2020"
 publishedDateTime: 2020-11-17T20:46:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/stradigi-ai-launches-the-kepler-ai-platform-powered-by-microsoft-azure-1029811527"
-webUrl: "https://markets.businessinsider.com/news/stocks/stradigi-ai-launches-the-kepler-ai-platform-powered-by-microsoft-azure-1029811527"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/stradigi-ai-launches-the-kepler-ai-platform-powered-by-microsoft-azure-1029811527"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/stradigi-ai-launches-the-kepler-ai-platform-powered-by-microsoft-azure-1029811527"
+originalUrl: "https://markets.businessinsider.com/news/stocks/stradigi-ai-launches-the-kepler-ai-platform-powered-by-microsoft-azure-1029811504"
+webUrl: "https://markets.businessinsider.com/news/stocks/stradigi-ai-launches-the-kepler-ai-platform-powered-by-microsoft-azure-1029811504"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/stradigi-ai-launches-the-kepler-ai-platform-powered-by-microsoft-azure-1029811504"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/stradigi-ai-launches-the-kepler-ai-platform-powered-by-microsoft-azure-1029811504"
 type: article
 quality: 94
 heat: 194
@@ -86,6 +86,6 @@ related:
       domain: newswiretoday.com
     quality: 17
 
-secured: "pFK9HYydLxuJpVxvTzBXW2MjMTVXvju8CgdUfcdCWKFnUA/61LsQKcbbEv8mwuz5T+H52GSfpBunMDVDYIGEJHCvzyG1p1id3xceM552Mj1tV/RVpW5C8nfgVnlzBqeE+SJVdwnwkHr3Ia1vWDFGD2c0WHsUBFG/hpN+Y1Z4TPFNs8bm73hc742mOjsLRWzpBYPe7eFRi+k/YcDpbMOObcdW8Oy8JAiQXIsa8bkjdRZ3087/PCMmLMPCVSm2FtCvUNBuTAjoaMZBHid+ozzLqkPoHA9FRcjNpNScag2LvLA4Zobvne+hpNbn6f/ynD24LdwuvzEcpmOfisP0g/5OQzHqyF3xzi/7Q3ecYzek92c=;pj97NbBryHukxmsqXBbZpA=="
+secured: "saGswFEe8UZdXw78P5o9ciMz0NJOt01fMkeUa0/htLv7go5HN0Dxuy9eev9JKPztT06jvrD/RecWhX33j18qS6FOadnr5+2N2Z+AFP3NnPnuhdNzDH0q3Wl+PZyMAwUh+jBkuqfW1FGdVk0mMhajdy6/+wlvuHzQuGDSl8WqKPKjqPl8oC0QXayHjqbvCZ0N5WhLY+I5OFhWpYiJrqdi4hUXJViR0e1+KCw85yEkgz3LbPAzSn3L6/PgxEEKXaDTw7GxFRHobooV/6PUeH8uK9eiXqXXDYIIL6Ehxdv1XmlrMtupdIvgtbYsTGQA84lfFnA4WRtLdWtM8YNmaI+2YTcFkCgpg1/MjSFiVaYYLCw=;CGCyA33+xGHGxMgpHpxBww=="
 ---
 

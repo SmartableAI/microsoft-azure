@@ -40,6 +40,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
+  - title: "SMB Multichannel preview is now available on Azure Files premium tier"
+    excerpt: "Lower your deployment cost and increase you Server Message Block (SMB) 3.x client’s performance with Azure Files SMB Multichannel. "
+    publishedDateTime: 2020-11-17T21:00:21Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/smb-multichannel-preview-is-now-available-on-azure-files-premium-tier/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
   - title: "Public preview: Application Insight in UAE North "
     excerpt: "UAE North is now in public preview for customers to start collecting telemetry and analyze their services for health using Application Insight. "
     publishedDateTime: 2020-11-16T19:09:09Z
