@@ -6,8 +6,8 @@ type: course
 price: Free
 length: PT29M
 ratings:
-  count: 364
-  average: 4.7994504
+  count: 365
+  average: 4.8
 heat: 51
 
 provider:
@@ -26,6 +26,6 @@ topics:
   - AI
   - Analytics
 
-secured: "5bbcO9YMHAWC4o+lsDw4raeqi8OyJPhqy8+nXCYN1vcE9lvPx5V+zpz2GdfFWDdK0X2E0czfC+NXHla6tukS/sG/wcvPkKkQZJteQu0/EV8oqaKzQf26kATyNrsF3PJ1U8rgN7X7dWyGhrHUZMO7RD1Ndie9rvELtQbu+1zhnbTfsSwvXJUy1z2HZrkqpQH9Wk4bHD9CiTJa4owt90zdOO96EW/GUbrMEdkFbvtoxz8YY1dIFTczIFU7kPwAhm+1M9zqNp64UyJrmkaBkoKNAt4qKhmcrvYymoRv1wh8HJSIBRQhUF2mEATLFWZM6udMgnpwxrN4vPRKBEXh6NdzGEzzsWzEBpJeTgWSrmf/VgEhy65abILVdurDjX6yfjvEpLjO3nM9nCoGM5+aWSzZNkUmmTfmktGygkAfe9jbDcs=;APWI9yHlLkgd13W3yvCImw=="
+secured: "h+bWYrHN49It/7jAy6jq4SeKqiT9FcGXGZaSaWKr+oMYkJKqNxz/f7YFVQQX3VPxSuoxM1xDe+55aBph1q8bBnYJzpO7coT53Uy3u+NzNhROoe8nGpsP6yqGYvHxzgsugrSRrsGZpHVRHd6lWP+AXJMe0mMUdEmY0KfDDWTiM3mq1HmC2Xmf1MjJGucsRVwgSXtHBWrEZl3D3xh1gQapb3saQqvNsjcZ4B8fWYncVo9YIORosgeIsE3ZX3USk5PtvraXyT04hHAHXoMUa1YFzBZ4uijVZDZA8+zWKaERwtLbOvhdGyAuJvdge4qNDRvTIkHxsUSL5tJmykI6nVZf8KIJ+ITFMFpqEVmARbNFW/8gge5+6MhUI1EfAs0XgH8VRzo3pwhAzCT7edJbkECgoA+QOsgyKvUGHz81wQ395fU=;Cmc9uWwp/rPJsE98RixB5Q=="
 ---
 

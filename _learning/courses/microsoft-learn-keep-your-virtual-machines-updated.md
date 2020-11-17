@@ -8,7 +8,7 @@ length: PT35M
 ratings:
   count: 2881
   average: 4.499132
-heat: 53
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -26,6 +26,6 @@ topics:
   - Compute
   - Management Tools
 
-secured: "LJpZEnEFCXeqXYtzbwvvRGGL1AMe08P+VkZ0KUP8GXt8HsjrhaEs2/yb+bqiJqNRGnncHYVLsToROSuloInnFpLcXsram7h1ZrhEIiVqbu7lzJj4OPgPNYxOzqvVMUp64py9320SbKsH3iYS91SuEzPivU4ZU+QUaTz/4S7abvxkrEE3EYM8/Ubd34djjnwa0cBp10HagKHTf1bBWiEPAr7iqe7nuDbuBHLEzgJQeaSMc5MFV5lw64tKOiSz6D9Ro8ykEhGHIqlS8gmj1BLEKQvZYUh++1XmsuKNiQBuwSTONFlQ5d9RhDXqWuBmriLJBZbC9Q8VCUsGL36/Sh4TRI2TY8lsUadB6pHKOeomMvPFZXQv+eCZbpPpvtBb8Mle5Hts386OFZVZUMaFKUTAUYeayvlw8f98cpsrOoUsubg=;ggkmwhAQ2SIaAVW/lBq8Yw=="
+secured: "y/L4aTsPKyAYm39SA5tuFVBeIbkceY8EMNBvbVkz1wYo4fOXIAZcw5+LTqjzbcajPjgKJSq4C+4j63zrkfEhf/2SjZwGgNrToxQ2JiY4YPymkRjWegVLe5FepqaonOvwbIG4e9j7YeShuowsErZrfCWQe28GXaJDztRnm5c51LUCYEC8Nv/D/DKoMbjwZWuDH50sjTFWewDbr2pNKCxlGMmKSSns3clVY2RIuCTlFyh7suNL/0omsyQzh8C8UzY5tQBDR+Jq5vcQOXh2MpyfyF2h0PkbS7sOcMImusrYZFGVT3q5hbBG141Jo/ovNAvUlIHxdWtcRwsdERU8tCcmhEbS6E1gUrYJmWB0LUQSV3CFSsL0oJYI5S9OhXDF7ZOEanUQ6O0CeUaOzNUHJDrcZTaJqtbfW2P9VAFBtBR7SpI=;K6awoWvMam8iy9Q60eZIYw=="
 ---
 
