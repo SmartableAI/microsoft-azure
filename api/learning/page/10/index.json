@@ -4,6 +4,49 @@
   "page": 10,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-azure-iot-strategy-and-solutions.md",
+      "title": "Microsoft Azure IoT strategy and solutions",
+      "excerpt": "This module provides an overview of Azure IoT, and describes Microsoft tools, services, and infrastructure. This knowledge can help bring IoT to life for your organization and customers.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-azure-iot-strategy-and-solutions/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-iot-strategy-and-solutions/",
+      "length": "PT23M",
+      "ratings": {
+        "count": 5898,
+        "average": 4.7355037
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/azure-iot-strategy-and-solutions-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "IoT"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-azure-sql-intro.md",
       "title": "Introduction to Azure SQL",
       "excerpt": "This module introduces Azure SQL. Learn about various deployment options and service tiers and what to use for your organization.",
@@ -54,8 +97,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-reliability/",
       "length": "PT59M",
       "ratings": {
-        "count": 600,
-        "average": 4.705
+        "count": 601,
+        "average": 4.702163
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -351,8 +394,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-and-manage-azure-key-vault/",
       "length": "PT29M",
       "ratings": {
-        "count": 1992,
-        "average": 4.610944
+        "count": 1994,
+        "average": 4.610331
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -394,8 +437,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-network-for-azure-virtual-machines/",
       "length": "PT1H34M",
       "ratings": {
-        "count": 3866,
-        "average": 4.557941
+        "count": 3868,
+        "average": 4.557911
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -430,8 +473,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/control-authentication-with-apim/",
       "length": "PT55M",
       "ratings": {
-        "count": 1691,
-        "average": 4.6422234
+        "count": 1692,
+        "average": 4.642435
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -603,8 +646,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/distribute-load-with-traffic-manager/",
       "length": "PT29M",
       "ratings": {
-        "count": 2226,
-        "average": 4.563342
+        "count": 2227,
+        "average": 4.5635386
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -730,8 +773,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-data-ingestion-azure/",
       "length": "PT23M",
       "ratings": {
-        "count": 360,
-        "average": 4.727778
+        "count": 361,
+        "average": 4.7229915
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -886,8 +929,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/integrate-vnets-with-vnet-peering/",
       "length": "PT42M",
       "ratings": {
-        "count": 2828,
-        "average": 4.725601
+        "count": 2829,
+        "average": 4.725698
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1100,8 +1143,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-subscription-access-azure-rbac/",
       "length": "PT21M",
       "ratings": {
-        "count": 11293,
-        "average": 4.7628617
+        "count": 11294,
+        "average": 4.7628827
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1135,8 +1178,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-virtual-machines-with-azure-cli/",
       "length": "PT51M",
       "ratings": {
-        "count": 6064,
-        "average": 4.7026715
+        "count": 6065,
+        "average": 4.7027206
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1196,49 +1239,6 @@
       "topics": [
         "Azure",
         "Databases"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-neural-networks.md",
-      "title": "Make predictions from complex data with neural networks",
-      "excerpt": "Use neural network models to make predictions. Change neural network structures to refine predictions using TensorFlow and Keras.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-neural-networks/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-neural-networks/",
-      "length": "38 mins",
-      "ratings": {
-        "count": 287,
-        "average": 4.383275
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 53,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/introduction-to-neural-networks-social.png",
-          "width": 800,
-          "height": 400,
-          "title": "Make predictions from complex data with neural networks",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
       ]
     }
   ],

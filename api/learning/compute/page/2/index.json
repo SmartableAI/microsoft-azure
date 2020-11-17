@@ -4,234 +4,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_learning/collections/microsoft-learn-build-great-solutions-with-the-microsoft-azure-well-architected-framework.md",
-      "title": "Build great solutions with the Microsoft Azure Well-Architected Framework",
-      "excerpt": "Learn how to design and build secure, scalable, high-performing solutions in Azure using the pillars of the Microsoft Azure Well-Architected Framework.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-build-great-solutions-with-the-microsoft-azure-well-architected-framework/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-build-great-solutions-with-the-microsoft-azure-well-architected-framework/",
-      "length": "PT5H38M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "topItems": [
-        {
-          "path": "_learning/courses/microsoft-learn-azure-well-architected-introduction.md",
-          "title": "Introduction to the Microsoft Azure Well-Architected Framework",
-          "excerpt": "Learn how using key principles throughout your cloud architecture can help you design and build a solid architectural foundation that you can continuously improve.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-azure-well-architected-introduction/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-introduction/",
-          "length": "PT1H4M",
-          "ratings": {
-            "count": 1117,
-            "average": 4.7350044
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 54,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/azure-well-architected-introduction-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-azure-well-architected-cost-optimization.md",
-          "title": "Microsoft Azure Well-Architected Framework - Cost optimization",
-          "excerpt": "Learn how to use the cost optimization pillar of the Microsoft Azure Well-Architected Framework to design a cloud-based architecture that is efficient, eliminates waste, and gives you full visibility into where your money is spent on cloud resources.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-azure-well-architected-cost-optimization/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-cost-optimization/",
-          "length": "PT51M",
-          "ratings": {
-            "count": 1100,
-            "average": 4.712727
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 51,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/azure-well-architected-cost-optimization-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Management Tools",
-            "DevOps"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-azure-well-architected-operational-excellence.md",
-          "title": "Microsoft Azure Well-Architected Framework - Operational excellence",
-          "excerpt": "Learn how to design an Azure architecture that uses modern practices and gives you full visibility into what's happening in your environment.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-azure-well-architected-operational-excellence/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-operational-excellence/",
-          "length": "PT54M",
-          "ratings": {
-            "count": 564,
-            "average": 4.70922
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 52,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/azure-well-architected-operational-excellence-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-azure-well-architected-performance-efficiency.md",
-          "title": "Microsoft Azure Well-Architected Framework - Performance efficiency",
-          "excerpt": "Learn how to adjust your capacity based on workload and how to optimize network performance, storage, and database performance.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-azure-well-architected-performance-efficiency/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-performance-efficiency/",
-          "length": "PT48M",
-          "ratings": {
-            "count": 519,
-            "average": 4.705202
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 52,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/azure-well-architected-performance-efficiency-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Networking",
-            "Web",
-            "Compute",
-            "Databases",
-            "Serverless",
-            "Containers",
-            "DevOps",
-            "Management Tools"
-          ]
-        }
-      ],
-      "size": 6,
-      "heat": 62,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/azure-well-architected-introduction-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Storage",
-        "Databases",
-        "Management Tools",
-        "DevOps",
-        "Networking",
-        "Web",
-        "Identity",
-        "Compute",
-        "Migration"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-create-a-windows-vm-in-azure.md",
       "title": "Create a Windows virtual machine in Azure",
       "excerpt": "Learn to create an Azure virtual machine in minutes that can be used like a local physical desktop or server.",
@@ -239,8 +11,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-windows-virtual-machine-in-azure/",
       "length": "PT51M",
       "ratings": {
-        "count": 13313,
-        "average": 4.7100577
+        "count": 13314,
+        "average": 4.7100797
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -507,8 +279,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-your-migration-to-azure/",
           "length": "PT44M",
           "ratings": {
-            "count": 1684,
-            "average": 4.6336102
+            "count": 1687,
+            "average": 4.6336694
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -593,8 +365,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-infrastructure-with-site-recovery/",
           "length": "PT59M",
           "ratings": {
-            "count": 926,
-            "average": 4.5410366
+            "count": 927,
+            "average": 4.5393744
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -636,8 +408,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-virtual-machines-with-azure-backup/",
           "length": "PT35M",
           "ratings": {
-            "count": 4489,
-            "average": 4.746937
+            "count": 4490,
+            "average": 4.7465477
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -729,8 +501,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-containers/",
           "length": "PT57M",
           "ratings": {
-            "count": 2887,
-            "average": 4.609629
+            "count": 2888,
+            "average": 4.6097646
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -763,8 +535,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/run-docker-with-azure-container-instances/",
           "length": "PT48M",
           "ratings": {
-            "count": 6075,
-            "average": 4.7134156
+            "count": 6076,
+            "average": 4.7132983
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1210,8 +982,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/implement-hybrid-identity-windows-server/",
           "length": "PT1H49M",
           "ratings": {
-            "count": 36,
-            "average": 4.5277777
+            "count": 37,
+            "average": 4.5405407
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2056,8 +1828,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/evolving-world-of-data/",
           "length": "PT28M",
           "ratings": {
-            "count": 5090,
-            "average": 4.6829076
+            "count": 5094,
+            "average": 4.6829605
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2141,8 +1913,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-engineering-processes/",
           "length": "PT25M",
           "ratings": {
-            "count": 4535,
-            "average": 4.706946
+            "count": 4536,
+            "average": 4.70679
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2204,8 +1976,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/execute-azure-function-with-triggers/",
       "length": "PT1H23M",
       "ratings": {
-        "count": 3643,
-        "average": 4.7054625
+        "count": 3644,
+        "average": 4.705269
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2241,8 +2013,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/serverless-fundamentals/",
       "length": "PT20M",
       "ratings": {
-        "count": 191,
-        "average": 4.811518
+        "count": 192,
+        "average": 4.8125
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2288,8 +2060,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-the-right-disk-storage-for-vm-workload/",
       "length": "PT24M",
       "ratings": {
-        "count": 1837,
-        "average": 4.6750135
+        "count": 1839,
+        "average": 4.675367
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2368,8 +2140,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-run-container-app-service/",
       "length": "PT46M",
       "ratings": {
-        "count": 4067,
-        "average": 4.627981
+        "count": 4068,
+        "average": 4.627581
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2453,8 +2225,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/app-service-scale-up-scale-out/",
       "length": "PT46M",
       "ratings": {
-        "count": 2426,
-        "average": 4.5610056
+        "count": 2427,
+        "average": 4.560363
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2702,8 +2474,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-reliability/",
       "length": "PT59M",
       "ratings": {
-        "count": 600,
-        "average": 4.705
+        "count": 601,
+        "average": 4.702163
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2914,8 +2686,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-network-for-azure-virtual-machines/",
       "length": "PT1H34M",
       "ratings": {
-        "count": 3866,
-        "average": 4.557941
+        "count": 3868,
+        "average": 4.557911
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3020,6 +2792,42 @@
       "topics": [
         "Azure",
         "Compute"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-manage-vms-with-azure-cli.md",
+      "title": "Manage virtual machines with the Azure CLI",
+      "excerpt": "Learn how to use the cross-platform Azure CLI to create, start, stop, and perform other management tasks related to virtual machines in Azure.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-manage-vms-with-azure-cli/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-virtual-machines-with-azure-cli/",
+      "length": "PT51M",
+      "ratings": {
+        "count": 6065,
+        "average": 4.7027206
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 53,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Compute",
+        "Management Tools"
       ]
     }
   ],
