@@ -1,34 +1,30 @@
 ---
 category: news
-title: "ANS migrates Fenwick IT systems to Microsoft Azure public cloud"
-excerpt: "UK digital and cloud services provider ANS Group has been selected by luxury department store Fenwick to migrate IT systems to the Microsoft Azure public"
-publishedDateTime: 2020-11-11T14:48:00Z
-originalUrl: "https://www.telecompaper.com/news/ans-migrates-fenwick-it-systems-to-microsoft-azure-public-cloud--1361480"
-webUrl: "https://www.telecompaper.com/news/ans-migrates-fenwick-it-systems-to-microsoft-azure-public-cloud--1361480"
+title: "Stradigi AI Launches the Kepler™ AI Platform Powered by Microsoft Azure"
+excerpt: "Kepler Empowers Users Across All Departments to Quickly Deploy Projects with Same-Day Azure Marketplace ActivationMONTREAL, Nov. 17, 2020 /CNW"
+publishedDateTime: 2020-11-17T20:46:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/stradigi-ai-launches-the-kepler-ai-platform-powered-by-microsoft-azure-1029811527"
+webUrl: "https://markets.businessinsider.com/news/stocks/stradigi-ai-launches-the-kepler-ai-platform-powered-by-microsoft-azure-1029811527"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/stradigi-ai-launches-the-kepler-ai-platform-powered-by-microsoft-azure-1029811527"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/stradigi-ai-launches-the-kepler-ai-platform-powered-by-microsoft-azure-1029811527"
 type: article
-quality: 17
-heat: -1
-published: false
+quality: 94
+heat: 194
+published: true
 
 provider:
-  name: Telecompaper
-  domain: telecompaper.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
+  - AI
 
 related:
-  - title: "Stradigi AI Launches the Kepler™ AI Platform Powered by Microsoft Azure"
-    excerpt: "Kepler Empowers Users Across All Departments to Quickly Deploy Projects with Same-Day Azure Marketplace ActivationMONTREAL, Nov. 17, 2020 /CNW"
-    publishedDateTime: 2020-11-17T20:46:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/stradigi-ai-launches-the-kepler-ai-platform-powered-by-microsoft-azure-1029811527"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/stradigi-ai-launches-the-kepler-ai-platform-powered-by-microsoft-azure-1029811527"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/stradigi-ai-launches-the-kepler-ai-platform-powered-by-microsoft-azure-1029811527"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 94
   - title: "Stradigi AI Launches the Kepler™ AI Platform Powered by Microsoft Azure"
     excerpt: "Stradigi AI, a North American Artificial Intelligence software company, is pleased to announce that its cloud-based Kepler Platform is"
     publishedDateTime: 2020-11-17T13:00:00Z
@@ -71,6 +67,15 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "ANS migrates Fenwick IT systems to Microsoft Azure public cloud"
+    excerpt: "UK digital and cloud services provider ANS Group has been selected by luxury department store Fenwick to migrate IT systems to the Microsoft Azure public"
+    publishedDateTime: 2020-11-11T14:48:00Z
+    webUrl: "https://www.telecompaper.com/news/ans-migrates-fenwick-it-systems-to-microsoft-azure-public-cloud--1361480"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 17
   - title: "OpenText Brings Digital Investigation to the Cloud with Microsoft Azure"
     excerpt: "OpenText™ announced OpenText™ EnCase Forensic and OpenText™ EnCase Endpoint Investigator are now certified on Microsoft Azure. With OpenText Encase solutions in the cloud, law enforcement and corporate investigators can more easily collaborate,"
     publishedDateTime: 2020-11-11T18:19:00Z
@@ -81,6 +86,6 @@ related:
       domain: newswiretoday.com
     quality: 17
 
-secured: "tIqR2wahxZIZnfGJgfkpKPQ/89szqU47QRtY2+aXg3o7QwjZ4M/hChFayNKu0lzF4nFFi4plCtL0Q8RxTk+5880FjACO9xdkVFli0CLrtL+sxgwv2QgB7SKLpOjbZj5aLbbqAPMR4D7VV73r1K539KfhtkuUgR3xS0DbN+CVLUmG99DQ88U+GbPxikmtl4UNXnH/T03zrI4BudQVEpX+MlpV+eRQRQ9UwDDr3NwTx1LPZ2yAEbKFRjTErbXxilPmHdOb5nRTC8pVXwYrth7P/ow3dxl0ekrBN4NG/pi3U9hWThpr2/I45NyxTcTSD5XNzEU7JOCCwoT0KLaBSYAVaq2r6TGttm25bAranbqC8Jk=;3Apa/yiVGHox6Uk2lK3CTg=="
+secured: "pFK9HYydLxuJpVxvTzBXW2MjMTVXvju8CgdUfcdCWKFnUA/61LsQKcbbEv8mwuz5T+H52GSfpBunMDVDYIGEJHCvzyG1p1id3xceM552Mj1tV/RVpW5C8nfgVnlzBqeE+SJVdwnwkHr3Ia1vWDFGD2c0WHsUBFG/hpN+Y1Z4TPFNs8bm73hc742mOjsLRWzpBYPe7eFRi+k/YcDpbMOObcdW8Oy8JAiQXIsa8bkjdRZ3087/PCMmLMPCVSm2FtCvUNBuTAjoaMZBHid+ozzLqkPoHA9FRcjNpNScag2LvLA4Zobvne+hpNbn6f/ynD24LdwuvzEcpmOfisP0g/5OQzHqyF3xzi/7Q3ecYzek92c=;pj97NbBryHukxmsqXBbZpA=="
 ---
 
