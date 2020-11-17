@@ -141,8 +141,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-azure-resources-with-rbac/",
           "length": "PT37M",
           "ratings": {
-            "count": 5333,
-            "average": 4.6579785
+            "count": 5334,
+            "average": 4.658043
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -178,42 +178,6 @@
       "topics": [
         "Azure",
         "Management Tools",
-        "Security"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-introduction-to-security.md",
-      "title": "Security, responsibility, and trust in Azure",
-      "excerpt": "Discuss the basic concepts for protecting your infrastructure and data when you work in the cloud. Understand what responsibilities are yours and what Azure takes care of for you.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-introduction-to-security/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-security-in-azure/",
-      "length": "PT1H16M",
-      "ratings": {
-        "count": 45991,
-        "average": 4.705464
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 78,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Identity",
         "Security"
       ]
     },
@@ -285,8 +249,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/top-5-security-items-to-consider/",
           "length": "PT45M",
           "ratings": {
-            "count": 6521,
-            "average": 4.6535807
+            "count": 6522,
+            "average": 4.653634
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -363,8 +327,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-azure-storage-account/",
           "length": "PT45M",
           "ratings": {
-            "count": 8024,
-            "average": 4.646062
+            "count": 8025,
+            "average": 4.645857
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -381,7 +345,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 60,
+          "heat": 140,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/data-ai/secure-azure-storage-account-badge-social.png",
@@ -400,7 +364,7 @@
         }
       ],
       "size": 7,
-      "heat": 72,
+      "heat": 93,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/configure-security-policies-to-manage-data-social.png",
@@ -418,6 +382,42 @@
         "Storage",
         "Databases",
         "Analytics"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-introduction-to-security.md",
+      "title": "Security, responsibility, and trust in Azure",
+      "excerpt": "Discuss the basic concepts for protecting your infrastructure and data when you work in the cloud. Understand what responsibilities are yours and what Azure takes care of for you.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-introduction-to-security/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-security-in-azure/",
+      "length": "PT1H16M",
+      "ratings": {
+        "count": 45991,
+        "average": 4.705464
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 78,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Identity",
+        "Security"
       ]
     },
     {
@@ -494,8 +494,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-users-and-groups-in-azure-active-directory/",
           "length": "PT41M",
           "ratings": {
-            "count": 3139,
-            "average": 4.709143
+            "count": 3140,
+            "average": 4.7092357
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -579,8 +579,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-and-manage-azure-key-vault/",
           "length": "PT29M",
           "ratings": {
-            "count": 1994,
-            "average": 4.610331
+            "count": 1995,
+            "average": 4.610526
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -669,8 +669,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/",
           "length": "PT36M",
           "ratings": {
-            "count": 3227,
-            "average": 4.7734737
+            "count": 3261,
+            "average": 4.7749157
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -711,8 +711,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-against-security-threats-azure/",
           "length": "PT23M",
           "ratings": {
-            "count": 276,
-            "average": 4.7572465
+            "count": 278,
+            "average": 4.7589927
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -754,8 +754,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-network-connectivity-azure/",
           "length": "PT32M",
           "ratings": {
-            "count": 289,
-            "average": 4.778547
+            "count": 292,
+            "average": 4.780822
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -815,8 +815,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-against-security-threats-azure/",
       "length": "PT23M",
       "ratings": {
-        "count": 276,
-        "average": 4.7572465
+        "count": 278,
+        "average": 4.7589927
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -882,8 +882,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-security/",
           "length": "PT1H2M",
           "ratings": {
-            "count": 2609,
-            "average": 4.7182827
+            "count": 2612,
+            "average": 4.7186065
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -926,8 +926,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-security-baselines/",
           "length": "PT60M",
           "ratings": {
-            "count": 2427,
-            "average": 4.642769
+            "count": 2428,
+            "average": 4.642916
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -969,8 +969,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-linux-virtual-machine-in-azure/",
           "length": "PT1H26M",
           "ratings": {
-            "count": 8316,
-            "average": 4.688913
+            "count": 8318,
+            "average": 4.6888676
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1005,8 +1005,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-windows-virtual-machine-in-azure/",
           "length": "PT51M",
           "ratings": {
-            "count": 13314,
-            "average": 4.7100797
+            "count": 13315,
+            "average": 4.7100263
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1094,8 +1094,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-security/",
           "length": "PT1H2M",
           "ratings": {
-            "count": 2609,
-            "average": 4.7182827
+            "count": 2612,
+            "average": 4.7186065
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1138,8 +1138,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/top-5-security-items-to-consider/",
           "length": "PT45M",
           "ratings": {
-            "count": 6521,
-            "average": 4.6535807
+            "count": 6522,
+            "average": 4.653634
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1173,8 +1173,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-security-baselines/",
           "length": "PT60M",
           "ratings": {
-            "count": 2427,
-            "average": 4.642769
+            "count": 2428,
+            "average": 4.642916
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1749,8 +1749,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-security-baselines/",
           "length": "PT60M",
           "ratings": {
-            "count": 2427,
-            "average": 4.642769
+            "count": 2428,
+            "average": 4.642916
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2041,8 +2041,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-azure-resources-with-rbac/",
           "length": "PT37M",
           "ratings": {
-            "count": 5333,
-            "average": 4.6579785
+            "count": 5334,
+            "average": 4.658043
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2756,8 +2756,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/top-5-security-items-to-consider/",
       "length": "PT45M",
       "ratings": {
-        "count": 6521,
-        "average": 4.6535807
+        "count": 6522,
+        "average": 4.653634
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2791,8 +2791,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-security/",
       "length": "PT1H2M",
       "ratings": {
-        "count": 2609,
-        "average": 4.7182827
+        "count": 2612,
+        "average": 4.7186065
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2835,8 +2835,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/network-fundamentals-2/",
       "length": "PT36M",
       "ratings": {
-        "count": 2618,
-        "average": 4.698243
+        "count": 2619,
+        "average": 4.697976
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2909,8 +2909,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-devops-continuous-security-operations/",
       "length": "PT22M",
       "ratings": {
-        "count": 753,
-        "average": 4.7011952
+        "count": 754,
+        "average": 4.7015915
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3073,8 +3073,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-and-manage-azure-key-vault/",
       "length": "PT29M",
       "ratings": {
-        "count": 1994,
-        "average": 4.610331
+        "count": 1995,
+        "average": 4.610526
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3116,8 +3116,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-security-baselines/",
       "length": "PT60M",
       "ratings": {
-        "count": 2427,
-        "average": 4.642769
+        "count": 2428,
+        "average": 4.642916
       },
       "provider": {
         "name": "Microsoft Learn",
