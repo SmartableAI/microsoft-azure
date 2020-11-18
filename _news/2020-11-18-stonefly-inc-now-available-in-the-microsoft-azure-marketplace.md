@@ -1,21 +1,29 @@
 ---
 category: news
 title: "StoneFly Inc. Now Available in the Microsoft Azure Marketplace"
-excerpt: "Microsoft Azure customers worldwide now gain access to StoneFly cloud storage to take advantage of the scalability, reliability, and agility of Azure to drive application development and shape business strategies."
-publishedDateTime: 2020-11-18T13:33:00Z
-originalUrl: "https://www.roboticstomorrow.com/content.php?post=15932"
-webUrl: "https://www.roboticstomorrow.com/content.php?post=15932"
+excerpt: "StoneFly Inc today announced the availability of StoneFly cloud storage in the Microsoft Azure Marketplace an online store providing applications and services for use on Azure StoneFly customers can now take advantage of the productive"
+publishedDateTime: 2020-11-18T15:52:00Z
+originalUrl: "https://www.openpr.com/news/2189778/stonefly-inc-now-available-in-the-microsoft-azure-marketplace"
+webUrl: "https://www.openpr.com/news/2189778/stonefly-inc-now-available-in-the-microsoft-azure-marketplace"
+ampWebUrl: "https://www.openpr.com/amp/2189778/stonefly-inc-now-available-in-the-microsoft-azure-marketplace"
+cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2189778/stonefly-inc-now-available-in-the-microsoft-azure-marketplace"
 type: article
-quality: 17
+quality: 57
 heat: -1
 published: false
 
 provider:
-  name: Robotics Tomorrow
-  domain: roboticstomorrow.com
+  name: openpr.com
+  domain: openpr.com
 
 topics:
   - Azure
+
+images:
+  - url: "https://cdn.openpr.com/T/b/Tb18457070_g.jpg"
+    width: 600
+    height: 400
+    isCached: true
 
 related:
   - title: "Stradigi AI Launches the Kepler™ AI Platform Powered by Microsoft Azure"
@@ -99,6 +107,6 @@ related:
       domain: telecompaper.com
     quality: 17
 
-secured: "OCzzRphhvOQHIiUiwO3uXp5y83gwWIjCrHPay2CWRJs/9zG6AwY2KpTD2vVFHuFtOwseqfSzYxHUPsMBH8trH6PV0p1yp9HUoVhQ5OQT9VnfRKHlG2nY+ClPhnWAIO4WUJ+F0AfCy9cjwhfjfg9/11O7PZF6yfqU+oIoby9HsZLBhKdOqW+O+ADFnSssXxVp4f7JA6WKf/b0AVgHhK8aYiA51TNKKHa5j30Zi1AjEGvJwNvu0luCx/JwTZRF0D+2+p1XNCBlj3tgRGnL3Hx4t4OqM53CucwiZCqRhIOjJxWMCc5+kyMw106XF9dTMEUi21WVHJTFekh6YFqjFQrT7BT7pEiCbo3BYW4JW9vDsDM=;xm8Tw8Sn64mvMMhvizvj0w=="
+secured: "+G6NkLsK32OxbM+z6IdbbKHyEFQwVRGMI8qLRwvH84vWR8jkQ0UMojDF6QbVEGkBufWYj9c7fSaPGhA5FLTMCcLSz7A0q4u1Y05iYKCuFaCEVvewan8nFdWNENT9dfi+1les64JI8FRdXsfghbEZzNygkmTea3Jr7gVzTYCq9z2/F0ECTpSxjoLQYfUuDO5axXKp1eKv5BfBKPu4YzcFTgwXmdxMadHBJltsTENEGuHG9jzoFqyiBGIySRj4BvjBioKdik9TQSRap0/Qie7OPRVHAaoPc4FK2dNKcvyG7nNV1Q7j7JxPrtHVaeABY17KO/yo+ell9hBdT4yM92c4spFKVGARtb/SRVyh5SC8kF8=;tV6w3kAehfHWzK4BWj9c4A=="
 ---
 

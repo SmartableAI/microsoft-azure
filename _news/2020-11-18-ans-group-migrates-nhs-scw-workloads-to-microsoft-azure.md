@@ -29,6 +29,22 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 94
+  - title: "StoneFly Inc. Now Available in the Microsoft Azure Marketplace"
+    excerpt: "StoneFly Inc today announced the availability of StoneFly cloud storage in the Microsoft Azure Marketplace an online store providing applications and services for use on Azure StoneFly customers can now take advantage of the productive"
+    publishedDateTime: 2020-11-18T15:52:00Z
+    webUrl: "https://www.openpr.com/news/2189778/stonefly-inc-now-available-in-the-microsoft-azure-marketplace"
+    ampWebUrl: "https://www.openpr.com/amp/2189778/stonefly-inc-now-available-in-the-microsoft-azure-marketplace"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2189778/stonefly-inc-now-available-in-the-microsoft-azure-marketplace"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 57
+    images:
+      - url: "https://cdn.openpr.com/T/b/Tb18457070_g.jpg"
+        width: 600
+        height: 400
+        isCached: true
   - title: "Stradigi AI Launches the Kepler™ AI Platform Powered by Microsoft Azure"
     excerpt: "Stradigi AI, a North American Artificial Intelligence software company, is pleased to announce that its cloud-based Kepler Platform is now offered on the Microsoft Azure Marketplace and optimized to run within Azure."
     publishedDateTime: 2020-11-17T14:27:00Z
@@ -88,15 +104,6 @@ related:
     provider:
       name: Newswire Today
       domain: newswiretoday.com
-    quality: 17
-  - title: "StoneFly Inc. Now Available in the Microsoft Azure Marketplace"
-    excerpt: "Microsoft Azure customers worldwide now gain access to StoneFly cloud storage to take advantage of the scalability, reliability, and agility of Azure to drive application development and shape business strategies."
-    publishedDateTime: 2020-11-18T13:33:00Z
-    webUrl: "https://www.roboticstomorrow.com/content.php?post=15932"
-    type: article
-    provider:
-      name: Robotics Tomorrow
-      domain: roboticstomorrow.com
     quality: 17
 
 secured: "GXLl4C564/jYDT9ZvpULhEofF1AWfgYu6D9KiDMM4BEeZuNZiRzYespqOyRpKw2Md+KnEBX6mcdFcb7houQmAHX2FjdaRR8KQIR7lJakVzYOTbJvzkDFUXhD+hfPLVXbeIxWQELyh1JR9tTabL0fhmhpkXivH3+oXnp+kGb0sL7m8bcc2ME4RwmGsKaTp2R1oaBt/RU8Dr1ef5h8lWv5xIin2wnGnJcM2t/qdVc7GgfQoXHBpZXk6pdz/wdg5xRUTH3quVZSB4S8oxtZDYqwewncyyn0hl79ebezKvWEVpK6vIjfmtDTuP/CR0f5xouAWahaOvcWUHgLoCIdwuZ1DuoftIGqXy3QVtBWiZTiUhg=;7repOqpowP8dhOY+5tlQyg=="

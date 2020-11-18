@@ -1,28 +1,28 @@
 ---
 category: news
 title: "DLT Solutions to Offer Microsoft Azure and Modern Workplace Solutions Through its U.S. Public Sector Partner Network"
-excerpt: "DLT Solutions, LLC., a wholly owned subsidiary of Tech Data and a premier government technology solutions aggregator, has partnered"
-publishedDateTime: 2020-11-18T13:30:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/dlt-solutions-to-offer-microsoft-azure-and-modern-workplace-solutions-through-its-us-public-sector-partner-network-301176043.html"
-webUrl: "https://www.prnewswire.com/news-releases/dlt-solutions-to-offer-microsoft-azure-and-modern-workplace-solutions-through-its-us-public-sector-partner-network-301176043.html"
+excerpt: "DLT Solutions, LLC., a wholly owned subsidiary of Tech Data and a premier government technology solutions aggregator, has partnered with Microsoft to bring to market Azure and Modern Workplace solutions to the U."
+publishedDateTime: 2020-11-18T14:50:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/dlt-solutions-to-offer-microsoft-azure-and-modern-workplace-solutions-through-its-u-s-public-sector-partner-network-1029816539"
+webUrl: "https://markets.businessinsider.com/news/stocks/dlt-solutions-to-offer-microsoft-azure-and-modern-workplace-solutions-through-its-u-s-public-sector-partner-network-1029816539"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/dlt-solutions-to-offer-microsoft-azure-and-modern-workplace-solutions-through-its-u-s-public-sector-partner-network-1029816539"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/dlt-solutions-to-offer-microsoft-azure-and-modern-workplace-solutions-through-its-u-s-public-sector-partner-network-1029816539"
 type: article
-quality: 14
-heat: 14
+quality: 54
+heat: 54
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
 
-images:
-  - url: "https://mma.prnewswire.com/media/782060/DLT_Logo.jpg?p=facebook"
-    width: 1267
-    height: 664
-    isCached: true
-
-secured: "+qTNZI9eG9QR68sfEh6C3CLHLbyG2aKP0OWlU/wYg+g4QFyM2DY672GdQbFvDqwCsL6jE8t5b04Hy9ik+dM9GNDIdwEmMo01Pa2bSJNOS2PKWgI8U6I7+/vi36cgglIGtz+6VL3VG2y+HcIX6i3prL2ZG2OEMyZtwCM8SqZn/y6QhLDpxnN/FR+cYfhwLLi8aC9Uaj+pCtfTQbYJSg1Rh3wsUYXfgIWVnQYkOBb1Gvpo35gO+wjQEun0CnebGf7SnhO9bcLL/eghqi3CF1jdhkfIa+tRMeQQI+NqGLLM7iEZFmkYM5eFTLTdJPeE28eYteMOWBZ2Ts5L/U3HcZYXycDM+Ar3iUcQMuZbHJFu1r4=;Ch2dCqJcTib/ViMAYqZrZA=="
+secured: "EmHVIt+rST1PyCK8+xLb7Dnbo38gtPeYX0gyoNjG273Rbla+cGQHQQUfFXCitllmLTAAAucoGBjZqa8saMaK/P/6ppWwI8g/Om1jopCw11l9ZIm0TrCqpO1gWUjQ/ByEjkl+vkES9JH7o0or6hajUC6GPNpZoYllmAef8zF3iH5fdt+J7G7+AVAhgnuAZWZkcC/r/63KBqzI8ej+V1GUCvn3JJXlZiotcnlvrZCM2wcsEMnijsFTSnqSmnTWCW6DUcNwBEDQx3IYq1Zxg3o79noTFFAzEWTICZ6dD7JwQUyGjEUtMH9Tzn5Tk+uqgUMUUt/ySk5B/nLe1q5vGZ8klV9q6w5X1bDSipvTVWH9AtU=;Zg8jPTKgzAcO7N1eVy3FDQ=="
 ---
 
