@@ -58,6 +58,36 @@ related:
         width: 640
         height: 360
         isCached: true
+  - title: "Microsoft Cloud Service Aims for Support of Space and Satellite Ventures"
+    excerpt: "Azure Space hopes to achieve fast, secure satellite networking anywhere in the world. Azure Space combines the power of cloud and space technology. (Image courtesy of Microsoft.) Microsoft has brought together a team of space industry veterans and experts to work together with its in-house product engineers to develop cloud capabilities suited for the needs of space."
+    publishedDateTime: 2020-11-18T10:28:00Z
+    webUrl: "https://www.engineering.com/DesignerEdge/DesignerEdgeArticles/ArticleID/20943/Clouds-in-SpaceMicrosoft-Brings-Cloud-Powered-Innovation-off-the-Planet.aspx"
+    ampWebUrl: "https://mobile.engineering.com/amp/20943.html"
+    cdnAmpWebUrl: "https://mobile-engineering-com.cdn.ampproject.org/c/s/mobile.engineering.com/amp/20943.html"
+    type: article
+    provider:
+      name: Engineering
+      domain: engineering.com
+    quality: 41
+    images:
+      - url: "https://www.engineering.com/portals/0/BlogFiles/Space_1.jpg"
+        width: 640
+        height: 360
+        isCached: true
+  - title: "UiPath RPA Now Available in Microsoft Azure Marketplace"
+    excerpt: "Enterprise Robotic Process Automation (RPA) software company, UiPath, today announced the availability of the UiPath Automation Platform on the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure."
+    publishedDateTime: 2020-11-11T17:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20201111005079/en/UiPath-RPA-Now-Available-in-Microsoft-Azure-Marketplace"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 37
+    images:
+      - url: "https://mms.businesswire.com/media/20201111005079/en/718791/23/new_uipath_logo_orange.jpg"
+        width: 1200
+        height: 627
+        isCached: true
 
 secured: "URoALP/A7lczH8MxNKADMXKznhyXRn5LDegARItaA5waAdOSjmg3aILza6U2ID6XgzjrRVFP/xXRnCQzm1yDJqvg0XM6FVHkdF1ldC9sHPJgQFQbPezKe0LHn0xOgpXlakdWeMYciojEkzbQ3OVv9lMA6Nh5IVf0lYRh/Vqq3INCRrYSyTj3X5+cu9I5TGkcWLKeholCkvlASgdD50/hIsJeaBXtyan2Vdt/XgzedOaXNpGZV/XdI6o30pcJj5utWll/U9Rv5teSrhTSSpiMqR8PXZIuPeVrvo0SliuHAInLhAOdxe8GR0MelSpGvgNwpRQW2G/Flt8S1+7jCtmwbruEZQUNU4Rnsjzr3/bljbY=;lJFrBCbR0DbAwL02Xj9neA=="
 ---

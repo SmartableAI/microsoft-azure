@@ -2,9 +2,9 @@
 category: news
 title: "Microsoft Cloud Service Aims for Support of Space and Satellite Ventures"
 excerpt: "Azure Space hopes to achieve fast, secure satellite networking anywhere in the world. Azure Space combines the power of cloud and space technology. (Image courtesy of Microsoft.) Microsoft has brought together a team of space industry veterans and experts to work together with its in-house product engineers to develop cloud capabilities suited for the needs of space."
-publishedDateTime: 2020-11-16T20:16:00Z
-originalUrl: "https://www.engineering.com/DesignerEdge/DesignerEdgeArticles/ArticleID/20943/Microsoft-Cloud-Service-Aims-for-Support-of-Space-and-Satellite-Ventures.aspx"
-webUrl: "https://www.engineering.com/DesignerEdge/DesignerEdgeArticles/ArticleID/20943/Microsoft-Cloud-Service-Aims-for-Support-of-Space-and-Satellite-Ventures.aspx"
+publishedDateTime: 2020-11-18T10:28:00Z
+originalUrl: "https://www.engineering.com/DesignerEdge/DesignerEdgeArticles/ArticleID/20943/Clouds-in-SpaceMicrosoft-Brings-Cloud-Powered-Innovation-off-the-Planet.aspx"
+webUrl: "https://www.engineering.com/DesignerEdge/DesignerEdgeArticles/ArticleID/20943/Clouds-in-SpaceMicrosoft-Brings-Cloud-Powered-Innovation-off-the-Planet.aspx"
 ampWebUrl: "https://mobile.engineering.com/amp/20943.html"
 cdnAmpWebUrl: "https://mobile-engineering-com.cdn.ampproject.org/c/s/mobile.engineering.com/amp/20943.html"
 type: article
@@ -60,8 +60,8 @@ related:
         isCached: true
   - title: "Microsoft Cloud Service Aims for Support of Space and Satellite Ventures"
     excerpt: "Azure Space hopes to achieve fast, secure satellite networking anywhere in the world. Azure Space combines the power of cloud and space technology. (Image courtesy of Microsoft.) Microsoft has brought together a team of space industry veterans and experts to work together with its in-house product engineers to develop cloud capabilities suited for the needs of space."
-    publishedDateTime: 2020-11-18T10:28:00Z
-    webUrl: "https://www.engineering.com/DesignerEdge/DesignerEdgeArticles/ArticleID/20943/Clouds-in-SpaceMicrosoft-Brings-Cloud-Powered-Innovation-off-the-Planet.aspx"
+    publishedDateTime: 2020-11-16T20:16:00Z
+    webUrl: "https://www.engineering.com/DesignerEdge/DesignerEdgeArticles/ArticleID/20943/Microsoft-Cloud-Service-Aims-for-Support-of-Space-and-Satellite-Ventures.aspx"
     ampWebUrl: "https://mobile.engineering.com/amp/20943.html"
     cdnAmpWebUrl: "https://mobile-engineering-com.cdn.ampproject.org/c/s/mobile.engineering.com/amp/20943.html"
     type: article
@@ -89,6 +89,6 @@ related:
         height: 627
         isCached: true
 
-secured: "uf60kViiIHHnhxZ+wWcezi/7ZE04o75R3sAFau7g2CTuNbpBeFZVriEDvyiRxiw7GOYdK2L2XvsLxhj/n++33h4MUV/d+TnMWUFUxP3r7bifankT/ujJub5wWVVEbA1eQR5k5AOUWETC46Kjs2CM87mhe2IaTiHHT1/ObFPxmGB4awuotPgNRGi4lEgqjgv6F9HmLxuYasI3Vm+vN3iEX/WCBqoyO4cwsF+2j/ZYVA1Zuuv0bO7uGRdxDjyspUZ9TFV/7uJrSOdH2PKJvWgs3kBE2XDSmGuX/jNoi1FSH1Lloss4L8B5zsSHr9SC2mIleW4GoPL+9GJbRTagOpRCGefFYU/aR4iINg9xs51liEORTq6EDJvOLEEqMdQdILr9v0FM3n0RcxEdNgUvzAuRXlXEyFxx33SAj01YI5/nZMez4uEIpV1UOi4VjwU8Rq6Ct27fh8ZUwd58NpNIFqp39+6sunz/tlS6Vg6hgvRKhd1Ct14BhMHVnr9q4ucEXscvm3S+9McYnNRBmAGB9Qz0hw==;g7mz5EFDyG3Ll53kJxLuIg=="
+secured: "bOnoZWYlH6wVw5j6mis8O+jHScjP2/zwoT8KqGDCf9GR5UNuYyUkNt0WxYtVygsM6F3UK7KSG92t4dxsFNJEzF5MO3XN4Z78BoyIGtNW+1rBF1rB1QnJBywZzpPTarNx4munVYrtqSvmfR9dlfL0WpIQfDHoQOeLMq5fWDv7MhP8aY6ykAvMmpEHuLgtJ35dg/1XkcVJsU+g6iarmYrE10e8HTJwqqZzUE8rxhnStOBBgREBrQRp3cISvW3iVDyf9ifQEImaEKor9lmAGJ1S/6S9k7eexxPZ+o8DKlIYgT/5wolYBBJZeq17Jjpclo/MLdHL0q0JNxvLunm8YR2AKkb0cCYH6ZHmnWIuW1QDbYzZ9DZEopZWX68DVN6RmPw9YuO/6MAw+3F6X+yYUTSqgVpbCAfK7Ezli4vvHnQFM0fZKy+3YfnuVVHbecN5RL6qF2nVXFcKtCU/HWMl+cBGy6mHCxjXP/yNKKN2q2dYGoUq5NWZi6EK8ZbToMoFiBo5uSmYgp9epQe8ik3jkBRQfQ==;ovJveDqLWrus5Rlp0HwrKA=="
 ---
 

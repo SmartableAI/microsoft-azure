@@ -1,28 +1,26 @@
 ---
 category: news
-title: "Microsoft Cloud Service Aims for Support of Space and Satellite Ventures"
-excerpt: "Azure Space hopes to achieve fast, secure satellite networking anywhere in the world. Azure Space combines the power of cloud and space technology. (Image courtesy of Microsoft.) Microsoft has brought together a team of space industry veterans and experts to work together with its in-house product engineers to develop cloud capabilities suited for the needs of space."
-publishedDateTime: 2020-11-16T20:16:00Z
-originalUrl: "https://www.engineering.com/DesignerEdge/DesignerEdgeArticles/ArticleID/20943/Microsoft-Cloud-Service-Aims-for-Support-of-Space-and-Satellite-Ventures.aspx"
-webUrl: "https://www.engineering.com/DesignerEdge/DesignerEdgeArticles/ArticleID/20943/Microsoft-Cloud-Service-Aims-for-Support-of-Space-and-Satellite-Ventures.aspx"
-ampWebUrl: "https://mobile.engineering.com/amp/20943.html"
-cdnAmpWebUrl: "https://mobile-engineering-com.cdn.ampproject.org/c/s/mobile.engineering.com/amp/20943.html"
+title: "UiPath RPA Now Available in Microsoft Azure Marketplace"
+excerpt: "Enterprise Robotic Process Automation (RPA) software company, UiPath, today announced the availability of the UiPath Automation Platform on the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure."
+publishedDateTime: 2020-11-11T17:00:00Z
+originalUrl: "https://www.businesswire.com/news/home/20201111005079/en/UiPath-RPA-Now-Available-in-Microsoft-Azure-Marketplace"
+webUrl: "https://www.businesswire.com/news/home/20201111005079/en/UiPath-RPA-Now-Available-in-Microsoft-Azure-Marketplace"
 type: article
-quality: 41
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Engineering
-  domain: engineering.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://www.engineering.com/portals/0/BlogFiles/Space_1.jpg"
-    width: 640
-    height: 360
+  - url: "https://mms.businesswire.com/media/20201111005079/en/718791/23/new_uipath_logo_orange.jpg"
+    width: 1200
+    height: 627
     isCached: true
 
 related:
@@ -60,6 +58,22 @@ related:
         isCached: true
   - title: "Microsoft Cloud Service Aims for Support of Space and Satellite Ventures"
     excerpt: "Azure Space hopes to achieve fast, secure satellite networking anywhere in the world. Azure Space combines the power of cloud and space technology. (Image courtesy of Microsoft.) Microsoft has brought together a team of space industry veterans and experts to work together with its in-house product engineers to develop cloud capabilities suited for the needs of space."
+    publishedDateTime: 2020-11-16T20:16:00Z
+    webUrl: "https://www.engineering.com/DesignerEdge/DesignerEdgeArticles/ArticleID/20943/Microsoft-Cloud-Service-Aims-for-Support-of-Space-and-Satellite-Ventures.aspx"
+    ampWebUrl: "https://mobile.engineering.com/amp/20943.html"
+    cdnAmpWebUrl: "https://mobile-engineering-com.cdn.ampproject.org/c/s/mobile.engineering.com/amp/20943.html"
+    type: article
+    provider:
+      name: Engineering
+      domain: engineering.com
+    quality: 41
+    images:
+      - url: "https://www.engineering.com/portals/0/BlogFiles/Space_1.jpg"
+        width: 640
+        height: 360
+        isCached: true
+  - title: "Microsoft Cloud Service Aims for Support of Space and Satellite Ventures"
+    excerpt: "Azure Space hopes to achieve fast, secure satellite networking anywhere in the world. Azure Space combines the power of cloud and space technology. (Image courtesy of Microsoft.) Microsoft has brought together a team of space industry veterans and experts to work together with its in-house product engineers to develop cloud capabilities suited for the needs of space."
     publishedDateTime: 2020-11-18T10:28:00Z
     webUrl: "https://www.engineering.com/DesignerEdge/DesignerEdgeArticles/ArticleID/20943/Clouds-in-SpaceMicrosoft-Brings-Cloud-Powered-Innovation-off-the-Planet.aspx"
     ampWebUrl: "https://mobile.engineering.com/amp/20943.html"
@@ -74,21 +88,7 @@ related:
         width: 640
         height: 360
         isCached: true
-  - title: "UiPath RPA Now Available in Microsoft Azure Marketplace"
-    excerpt: "Enterprise Robotic Process Automation (RPA) software company, UiPath, today announced the availability of the UiPath Automation Platform on the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure."
-    publishedDateTime: 2020-11-11T17:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20201111005079/en/UiPath-RPA-Now-Available-in-Microsoft-Azure-Marketplace"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 37
-    images:
-      - url: "https://mms.businesswire.com/media/20201111005079/en/718791/23/new_uipath_logo_orange.jpg"
-        width: 1200
-        height: 627
-        isCached: true
 
-secured: "uf60kViiIHHnhxZ+wWcezi/7ZE04o75R3sAFau7g2CTuNbpBeFZVriEDvyiRxiw7GOYdK2L2XvsLxhj/n++33h4MUV/d+TnMWUFUxP3r7bifankT/ujJub5wWVVEbA1eQR5k5AOUWETC46Kjs2CM87mhe2IaTiHHT1/ObFPxmGB4awuotPgNRGi4lEgqjgv6F9HmLxuYasI3Vm+vN3iEX/WCBqoyO4cwsF+2j/ZYVA1Zuuv0bO7uGRdxDjyspUZ9TFV/7uJrSOdH2PKJvWgs3kBE2XDSmGuX/jNoi1FSH1Lloss4L8B5zsSHr9SC2mIleW4GoPL+9GJbRTagOpRCGefFYU/aR4iINg9xs51liEORTq6EDJvOLEEqMdQdILr9v0FM3n0RcxEdNgUvzAuRXlXEyFxx33SAj01YI5/nZMez4uEIpV1UOi4VjwU8Rq6Ct27fh8ZUwd58NpNIFqp39+6sunz/tlS6Vg6hgvRKhd1Ct14BhMHVnr9q4ucEXscvm3S+9McYnNRBmAGB9Qz0hw==;g7mz5EFDyG3Ll53kJxLuIg=="
+secured: "slx2FGMS+67vSUqT0Riz+aFKOrrhqcQm8OMLU7AdPIpaX+OK4qJ00aQ1jU8rqC8HznY9QsVkrvXneSuuYDZa4nLoQxehJv3gt4IYu+ItV7B/J8K2I1eqrHuUqpF1tjUaJZWAdOg/rdFtIajF7+qIaG4+nc79ubDOelbT641Ee2odLg421UBwBVucVQJRbXLM7lYx4nc8WK63uupJTlc094CB3UVEj+vZj1wEOExhijQlMwxTXbziT3K+6Xcz6klBw5osVbhS0dYemXktwxmjvIBpv+jKo1IIRsWJ7Vlswx4SLUYGLW0i7b0oB+5ur8PkqE1j4zQG+EZLnh5vBNFCzrwkOeaH27LG8Lr2Ne033uA=;RhP/LsucJC1eR7NoWz85nA=="
 ---
 

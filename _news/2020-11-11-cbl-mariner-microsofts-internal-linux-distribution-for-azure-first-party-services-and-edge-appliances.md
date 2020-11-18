@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/cbl-mariner-microsofts-inte
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/cbl-mariner-microsofts-internal-linux-distribution-for-azure-first-party-services-and-edge-appliances/"
 type: article
 quality: 81
-heat: 121
+heat: 161
 published: true
 
 provider:
@@ -61,6 +61,36 @@ related:
       - url: "https://www.engineering.com/portals/0/BlogFiles/Space_1.jpg"
         width: 640
         height: 360
+        isCached: true
+  - title: "Microsoft Cloud Service Aims for Support of Space and Satellite Ventures"
+    excerpt: "Azure Space hopes to achieve fast, secure satellite networking anywhere in the world. Azure Space combines the power of cloud and space technology. (Image courtesy of Microsoft.) Microsoft has brought together a team of space industry veterans and experts to work together with its in-house product engineers to develop cloud capabilities suited for the needs of space."
+    publishedDateTime: 2020-11-18T10:28:00Z
+    webUrl: "https://www.engineering.com/DesignerEdge/DesignerEdgeArticles/ArticleID/20943/Clouds-in-SpaceMicrosoft-Brings-Cloud-Powered-Innovation-off-the-Planet.aspx"
+    ampWebUrl: "https://mobile.engineering.com/amp/20943.html"
+    cdnAmpWebUrl: "https://mobile-engineering-com.cdn.ampproject.org/c/s/mobile.engineering.com/amp/20943.html"
+    type: article
+    provider:
+      name: Engineering
+      domain: engineering.com
+    quality: 41
+    images:
+      - url: "https://www.engineering.com/portals/0/BlogFiles/Space_1.jpg"
+        width: 640
+        height: 360
+        isCached: true
+  - title: "UiPath RPA Now Available in Microsoft Azure Marketplace"
+    excerpt: "Enterprise Robotic Process Automation (RPA) software company, UiPath, today announced the availability of the UiPath Automation Platform on the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure."
+    publishedDateTime: 2020-11-11T17:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20201111005079/en/UiPath-RPA-Now-Available-in-Microsoft-Azure-Marketplace"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 37
+    images:
+      - url: "https://mms.businesswire.com/media/20201111005079/en/718791/23/new_uipath_logo_orange.jpg"
+        width: 1200
+        height: 627
         isCached: true
 
 secured: "oKUmGzGDxlwoilwQX/Z7VKTDA/E99AbjSlCM7lUB8sA2vBC1B7hTdS6YoepuEribDwnSCLua3ic5xtPb+Bl0+z/1ZX3Uj/Cj08OT+ril9SanWTwayeVncFA41pAFdBuGZ4wGOInhOwBNmiNpISNlus3vmr973nt8daphm4aVgBmK4w0osSnrViyX3/32mdGraRwOBf7my48g2TFEqu2D8/tN78WRNutyJDriAfUGzAgWyMPLXhsMN7PqZM4iEjqnyex4RWUGvqg2B6d1SpmqmOq1hVxHiyPL0AKdZ/rHvTKYnLTYxMY9P44uPqYDFv8nLA0D5EZcoCAgpkjh79uBdaS6xrC41sRtjd7qP41Ec9IpKu5QxrA9Upcbb0Qavplntc+MC1yFC3azC+Di6BkmOD1OhHQCr0iPlynfqMIpzMSEGqwrDKETyiceymwgQ5aYhgOVKr/fXsyfIpfT8uXDbMTHWJN29lDyo43ZBqe35FHAC0N4HnACYiPq8V0A2xaQgjcUrZ/4kLhEd0ZvC7FPSA==;LLSVQAKl+s3caHBVG8GvEA=="
