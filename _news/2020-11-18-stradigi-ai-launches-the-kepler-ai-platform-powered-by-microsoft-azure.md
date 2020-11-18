@@ -9,7 +9,7 @@ ampWebUrl: "https://markets.businessinsider.com/amp/news/stradigi-ai-launches-th
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/stradigi-ai-launches-the-kepler-ai-platform-powered-by-microsoft-azure-1029811504"
 type: article
 quality: 94
-heat: 214
+heat: 234
 published: true
 
 provider:
@@ -93,6 +93,15 @@ related:
     provider:
       name: Telecompaper
       domain: telecompaper.com
+    quality: 17
+  - title: "StoneFly Inc. Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Microsoft Azure customers worldwide now gain access to StoneFly cloud storage to take advantage of the scalability, reliability, and agility of Azure to drive application development and shape business strategies."
+    publishedDateTime: 2020-11-18T13:33:00Z
+    webUrl: "https://www.roboticstomorrow.com/content.php?post=15932"
+    type: article
+    provider:
+      name: Robotics Tomorrow
+      domain: roboticstomorrow.com
     quality: 17
 
 secured: "i4bn3v9Q1ch5eRhqu24GBzJ1juivr1xNILILMnJWup5Lmr4+wkFTpIyOE2EdNPb/w0Bd1/Lp6uS7EuDARLK29RDh5h9a1h5yNtQm3ppNLJ0zDfeBK04wRIthyebbYo8AIGfoX/7glSu78itmCdx7iLHUVL5HspgwKNN4Dy+Jy5rmHLjgx8Y8xcRKfEILv8JSLXvjtW8nOVZXYs9bJ16YvTJoh5puXai991Xl5MTlvQMI0NIzqBJkxa0CBHffaXGoPC7X0b/6tflbWrBxKkTNQAPhYsJ0wpvZpDnU8R/7VzVzTiXDqk1F2INRvuHpZ2Z0OE0YzYaBprMdMoPxpxKW/49XB1tcye3rSP9y0YPJhBQ=;PbLFYoJBkbxmNUGOWXHlxw=="

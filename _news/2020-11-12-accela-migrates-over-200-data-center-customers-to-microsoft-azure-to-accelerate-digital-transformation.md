@@ -90,6 +90,15 @@ related:
       name: Telecompaper
       domain: telecompaper.com
     quality: 17
+  - title: "StoneFly Inc. Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Microsoft Azure customers worldwide now gain access to StoneFly cloud storage to take advantage of the scalability, reliability, and agility of Azure to drive application development and shape business strategies."
+    publishedDateTime: 2020-11-18T13:33:00Z
+    webUrl: "https://www.roboticstomorrow.com/content.php?post=15932"
+    type: article
+    provider:
+      name: Robotics Tomorrow
+      domain: roboticstomorrow.com
+    quality: 17
 
 secured: "6KoELMpORoxvJrmfkW51VHhUC2zm47xMH9FlAFk6x3S4HbHUyNserR1AV+EL4ic353t+7Wdnutxa593jte8Ux9iSHix6TMM4O2BSSF9i9GgSyWwaGdSzERf6ZCkHEwItGQ9VdAT6mnKZpudugzeBXDXvaEI5v4bWBniVI5PrTHbPDXAl+dz8m+ueFHs5XrE1DJPvg4Uf4yA14kDSY7Rtj/vUOBaByDfFpP/ULvL1UIH5ryI8lHncCdqvhRzL2KsUZ63Jbp3ur+B0mrfySt4o7jltQDxd8YscJQEN+dcGQoaI4e16pe5y8oHdpG8LxUEnICgeivn9BgASMLZVKdovGt7Ywa3lrRIGJaT3e9FL4Yw=;4UGAAh0XrEZm1rlVisKz1g=="
 ---

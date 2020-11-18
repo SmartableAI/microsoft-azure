@@ -89,6 +89,15 @@ related:
       name: Newswire Today
       domain: newswiretoday.com
     quality: 17
+  - title: "StoneFly Inc. Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Microsoft Azure customers worldwide now gain access to StoneFly cloud storage to take advantage of the scalability, reliability, and agility of Azure to drive application development and shape business strategies."
+    publishedDateTime: 2020-11-18T13:33:00Z
+    webUrl: "https://www.roboticstomorrow.com/content.php?post=15932"
+    type: article
+    provider:
+      name: Robotics Tomorrow
+      domain: roboticstomorrow.com
+    quality: 17
 
 secured: "GXLl4C564/jYDT9ZvpULhEofF1AWfgYu6D9KiDMM4BEeZuNZiRzYespqOyRpKw2Md+KnEBX6mcdFcb7houQmAHX2FjdaRR8KQIR7lJakVzYOTbJvzkDFUXhD+hfPLVXbeIxWQELyh1JR9tTabL0fhmhpkXivH3+oXnp+kGb0sL7m8bcc2ME4RwmGsKaTp2R1oaBt/RU8Dr1ef5h8lWv5xIin2wnGnJcM2t/qdVc7GgfQoXHBpZXk6pdz/wdg5xRUTH3quVZSB4S8oxtZDYqwewncyyn0hl79ebezKvWEVpK6vIjfmtDTuP/CR0f5xouAWahaOvcWUHgLoCIdwuZ1DuoftIGqXy3QVtBWiZTiUhg=;7repOqpowP8dhOY+5tlQyg=="
 ---
