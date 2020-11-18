@@ -386,16 +386,16 @@ related:
         height: 602
         isCached: true
   - title: "The Essential Starter’s Guide to Microsoft Azure for IT Leaders"
-    excerpt: "CIO.com delivers the latest tech news, analysis, how-to, blogs, and video for IT professionals. Covers apps, careers, cloud computing, data center, mobile, outsourcing, security, social media, hardware and software."
+    excerpt: "Network news, trend analysis, product testing and the industry’s most important blogs, all collected at the most popular network watering hole on the Internet | Network World"
     publishedDateTime: 2020-11-15T16:00:00Z
-    webUrl: "https://www.cio.com/resources/210752/the-essential-starter-s-guide-to-microsoft-azure-for-it-leaders"
+    webUrl: "https://www.networkworld.com/resources/210752/the-essential-starter-s-guide-to-microsoft-azure-for-it-leaders"
     type: article
     provider:
-      name: CIO
-      domain: cio.com
+      name: Network World
+      domain: networkworld.com
     quality: 37
     images:
-      - url: "https://idge.staticworld.net/cio/CIO_logo_300x300.png"
+      - url: "https://idge.staticworld.net/nww/nww_logo_300x300.png"
         width: 300
         height: 300
         isCached: true

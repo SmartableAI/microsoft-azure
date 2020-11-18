@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Node.js 14 for Azure Functions is now available in public preview"
-excerpt: "Developers can now build and publish Azure Functions Apps using Node.js 14."
-publishedDateTime: 2020-11-12T17:00:13Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/nodejs-14-for-azure-functions-is-now-available-in-preview/"
-webUrl: "https://azure.microsoft.com/en-us/updates/nodejs-14-for-azure-functions-is-now-available-in-preview/"
+title: "Azure Firewall Premium is in public preview"
+excerpt: "Azure Firewall Premium provides next generation firewall capabilities that are required for highly sensitive and regulated environments."
+publishedDateTime: 2020-11-18T17:00:04Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/azure-firewall-premium-public-preview/"
+webUrl: "https://azure.microsoft.com/en-us/updates/azure-firewall-premium-public-preview/"
 type: article
-quality: 84
-heat: 184
-published: true
+quality: 67
+heat: -1
+published: false
 
 provider:
   name: Microsoft
@@ -20,9 +20,17 @@ provider:
 
 topics:
   - Azure
-  - Serverless
 
 related:
+  - title: "Node.js 14 for Azure Functions is now available in public preview"
+    excerpt: "Developers can now build and publish Azure Functions Apps using Node.js 14."
+    publishedDateTime: 2020-11-12T17:00:13Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/nodejs-14-for-azure-functions-is-now-available-in-preview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
   - title: "Azure Sphere 20.10 update is now available"
     excerpt: "Learn about what's new in the the 20.10 release, including new and updated features in the OS, SDK, and extensions for Visual Studio and Visual Studio Code. "
     publishedDateTime: 2020-11-10T00:00:18Z
@@ -50,15 +58,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
-  - title: "Azure Firewall Premium is in public preview"
-    excerpt: "Azure Firewall Premium provides next generation firewall capabilities that are required for highly sensitive and regulated environments."
-    publishedDateTime: 2020-11-18T17:00:04Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-firewall-premium-public-preview/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 67
   - title: "Public preview: Application Insight in UAE North "
     excerpt: "UAE North is now in public preview for customers to start collecting telemetry and analyze their services for health using Application Insight. "
     publishedDateTime: 2020-11-16T19:09:09Z
@@ -69,6 +68,6 @@ related:
       domain: microsoft.com
     quality: 52
 
-secured: "1OQY7up2MiFA6NVf7nZU2VWPZaxcGjP2IqEqwWycqxJApQaiDs+T5/A0LKVyfQNC9Q2IQegpVXb229qJAT4RFzmS0wn0sfs1bP4+Zg4KoCPKS82/KGLIDdbKofM21iid4lQVzK2RdKNOqLwgJm2tlZtDALgpauboI3tHi8no4JEXWdq3+4d+DKXiMXIUc/ixux62c28NM+qZZbKM+j/ryr35MbajBtrBnzJlu47ATAFw1aSXZHSjpap5Q+OZCO/Z6kvtoEa6st2yVfks9wCiCBvGLJnvU+U5/KV69KfpLywJCrvFI0X0abw4sfGkITTIuMsN/t995Sug30rGKQqBvwrO2wUx7W5X23epLRCs/Tc=;2iQoJwAQTNANEnh/rIeDnw=="
+secured: "TETDixdprRdWFDrWH/Dwhj0SUbmKf5uZfmaoSE0+Ug+ByZPKJy0J4ceMX/3f/0mGpFWjYFDPicCdqztw4lDtLDrAuUwvIqB65qQX99fFmwzx4kU0xKRICPYcJC66n6EmzZjVz01UDOj4VgQx6WYtpHbGDh25C4IaZspidsOosk9sCxbmZ8cSHo1a2ivXlfpZ2CrARgxvMzBA5EIlYDdQABeCfP/zS60Nc8acZ3ypkrxMxDJhLpGSHVc9FzQnLPgT2BovQM5wqCVFESqrEMsgFj+iidwrgfEAVzzLKfrAwqcfJTGUB1QywA+VsbAGj8XBlcYOaK636kSjX0Ye/RK7LzUzkvtwpLlO9awfGJWNDb0=;eFCj7IFgWXyBFL9FESB4YA=="
 ---
 

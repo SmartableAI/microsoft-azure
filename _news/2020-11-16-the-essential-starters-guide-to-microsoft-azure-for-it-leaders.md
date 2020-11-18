@@ -1,24 +1,24 @@
 ---
 category: news
 title: "The Essential Starter’s Guide to Microsoft Azure for IT Leaders"
-excerpt: "CIO.com delivers the latest tech news, analysis, how-to, blogs, and video for IT professionals. Covers apps, careers, cloud computing, data center, mobile, outsourcing, security, social media, hardware and software."
+excerpt: "Network news, trend analysis, product testing and the industry’s most important blogs, all collected at the most popular network watering hole on the Internet | Network World"
 publishedDateTime: 2020-11-15T16:00:00Z
-originalUrl: "https://www.cio.com/resources/210752/the-essential-starter-s-guide-to-microsoft-azure-for-it-leaders"
-webUrl: "https://www.cio.com/resources/210752/the-essential-starter-s-guide-to-microsoft-azure-for-it-leaders"
+originalUrl: "https://www.networkworld.com/resources/210752/the-essential-starter-s-guide-to-microsoft-azure-for-it-leaders"
+webUrl: "https://www.networkworld.com/resources/210752/the-essential-starter-s-guide-to-microsoft-azure-for-it-leaders"
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: CIO
-  domain: cio.com
+  name: Network World
+  domain: networkworld.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://idge.staticworld.net/cio/CIO_logo_300x300.png"
+  - url: "https://idge.staticworld.net/nww/nww_logo_300x300.png"
     width: 300
     height: 300
     isCached: true
@@ -470,6 +470,6 @@ related:
       domain: telecompaper.com
     quality: 2
 
-secured: "+KyuMW3C5hrOaDImcbk0rLpvzQTOLtnekfGm0RheZHvW6XJIF7SnaW2/P4or7QO6IERQPM42dR1+XW68IKmoJXQW0hMApNd8E2qmegTHOWqJwIeVz6dvyUd+heBtA26tsEJRk6AuqUCBblQICOlcU2GZMPbRe3Cx47lS8oHAJSJWoFNgSxaxZGcP3bCm1t1V4xXL2+3X+s/9jvK3nSL8BDh4xeMidflLwlrHejX7ZwrZYlbLkHxXVKsQdspEuzrc4ND5pzv1UD7FyFOJCRWlbf7+j2gRN7eJXGDNQ/oIa0JIdGbGJSN5w2cHDLOv0qlxdJu0kdyHNl6dj4aJIRVTSG9esLaTYLM+D1cXUCRDMQ4=;D462QRtS970TWxJ3vkny3A=="
+secured: "zhndydKPQcCPJ4ktLeWhXFQG7bwXo+lpjx5U3+XVPKXHjcGGdZhnqWG1lLZ8/AB648/ajcr0zMqdpoG+M4f/SVYCf12AFDL3KXBd2saiFVWVfjkyDYiCRWvi6tB/w67gq7KzlkS3Za96YjVf4CRhcviD8B5eZx9k6QTFEIQipfCvZj3XnurGcyXrCNwx6B16iGNEePvObDe5LEN92rzCc6tbOm+FBPxQO76zAV1cAkXg/p8ePYmnyCX+1AB0xWvQiUgVh8P/fw5GIuP4Q+WAiX8nOzIwf7D8eY0ggowGrc3tdS1503KR2SIabv6QPcyoNcaFhcNUEIpcQW7ApujekMLFz4rhLducJ2efTy7D8HU=;0Gvni0dqczkQzlB/xX6hwQ=="
 ---
 

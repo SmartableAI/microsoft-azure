@@ -58,6 +58,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
+  - title: "Azure Firewall Premium is in public preview"
+    excerpt: "Azure Firewall Premium provides next generation firewall capabilities that are required for highly sensitive and regulated environments."
+    publishedDateTime: 2020-11-18T17:00:04Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-firewall-premium-public-preview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
 
 secured: "eKIYtysUHq9e3U9HqGZMn3c0Hy9jiUBjuMA1r3BJlP66pZ48goK0Qi95KtWQI1vWpg3weQp4GoGGNmz5XRWhUf+Sju+5vSDDEFqMawMSHsgccqVo/kAzqEgs26iLEAKzsu29KanSClZvDt0hybO6blT4+hL8lG4W7yaxlDQfu2FvTym8B4upF/BO/TcCsMRiHYJgceEwAcf/8WVHFDeFY6+kxBM+ckVNMUO06JV4rfz02QEsazv+KhuBtCW7MUY0ra/MoTcrrBEoKI8/snibcjQZ+ROX2Vjy5/x97cCadG1Y5/ciUVarU2PzVcSZ4Wdsl72YYxA4dofMmafMM2fPe4C9fc0TKbRsFbVNQm5po9E=;hOM3y+xvo7K/WOzYju+HpQ=="
 ---
