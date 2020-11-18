@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Stradigi AI Launches the Kepler™ AI Platform Powered by Microsoft Azure"
-excerpt: "Stradigi AI, a North American Artificial Intelligence software company, is pleased to announce that its cloud-based Kepler Platform is"
-publishedDateTime: 2020-11-17T13:00:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/stradigi-ai-launches-the-kepler-ai-platform-powered-by-microsoft-azure-301173014.html"
-webUrl: "https://www.prnewswire.com/news-releases/stradigi-ai-launches-the-kepler-ai-platform-powered-by-microsoft-azure-301173014.html"
+excerpt: "Stradigi AI, a North American Artificial Intelligence software company, is pleased to announce that its cloud-based Kepler Platform is now offered on the Microsoft Azure Marketplace and optimized to run within Azure."
+publishedDateTime: 2020-11-17T14:27:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-science-software-industry-information-technology-71329170da3e15d19ec949e2e378712d"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-science-software-industry-information-technology-71329170da3e15d19ec949e2e378712d"
 type: article
 quality: 54
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Azure
   - AI
 
 images:
-  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-    width: 600
-    height: 315
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -83,6 +83,6 @@ related:
       domain: newswiretoday.com
     quality: 17
 
-secured: "W4z0yUrQkcHYA+UKnLeKvszWJ8Wwl/d7cgBj60Z1A2pZaPAELeFGj/RISrVIrTy20uvfSmd7AB1qLmjKaVgHiqdWZ+yqpZsmvHlZxHIy0im5QLfop8KuE7M7XDsoODL34QZ/Xa0FoHkSWBttVEfzFYzrFBS2MJZ69SeEY9JDZyd14vlVct78I+t1LBM40Ev0tSgvD4kYPy9tSokaIZ8Trgllu64GHfliv6ZdIOfLUxJqqBWzQ3uB0mn/xPg22HlocIW+Epd8nR8GvdN1IgY0KZwN5NuG9Tb8DwDGL4LScMk5Mq+Ddj2shLzWHK5XVJfu5pe+9gIHuky2TdI47e/igxRPkiQACM9h9d85xPIBU2c=;3Yr4m6R26FUSNKkJVXG8Mg=="
+secured: "DL5oKg7Hk//mQDdmS8yChQavOgU4N9wqo1RQ0HbQ13VV8brhcXCW9Vv0Fs1ZU2rSMDudfl379gRc/NvnnWPUOsk6xXHhUs24Oidt2qxhoO61ejx7hgryOwDbci2kO2PLmumdgpPe7JxlvH7almudeVYtETFP2X9ysPXdYb1Hd5Go+ZUsl3YEIVN0umeJHCc7vel23gvEGvsHJTD6+uv5V9sBqmFsuoDaV8WnISy/I9LeGmAwsajRhE+Q7e2EhtNx4wPRVBMJ468ZzHFS1qUGXsHi7x7Vt5nG/K51F40VqErstauv8KGy707SCwR0THGBhj6BYgb2L9aFlNiIbzuUoxGYIebUGkn1f+bQmLzcQZA=;Q0kM0v4InYHLnRgF3vnw0g=="
 ---
 
