@@ -9,7 +9,7 @@ ampWebUrl: "https://markets.businessinsider.com/amp/news/stradigi-ai-launches-th
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/stradigi-ai-launches-the-kepler-ai-platform-powered-by-microsoft-azure-1029811504"
 type: article
 quality: 94
-heat: 234
+heat: 254
 published: true
 
 provider:
@@ -25,6 +25,20 @@ topics:
   - AI
 
 related:
+  - title: "Facedrive’s TraceSCAN to Offer Global Contact-Tracing Services Powered by Microsoft Azure"
+    excerpt: "Business Wire TORONTO --  Facedrive Inc. (“Facedrive”) (TSXV: FD)"
+    publishedDateTime: 2020-11-19T13:06:00Z
+    webUrl: "https://www.bloomberg.com/press-releases/2020-11-19/facedrive-s-tracescan-to-offer-global-contact-tracing-services-powered-by-microsoft-azure"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 68
+    images:
+      - url: "https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "StoneFly Inc. Now Available in the Microsoft Azure Marketplace"
     excerpt: "StoneFly Inc today announced the availability of StoneFly cloud storage in the Microsoft Azure Marketplace an online store providing applications and services for use on Azure StoneFly customers can now take advantage of the productive"
     publishedDateTime: 2020-11-18T15:52:00Z

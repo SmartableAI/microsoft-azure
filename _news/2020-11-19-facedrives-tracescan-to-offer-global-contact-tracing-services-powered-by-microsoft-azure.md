@@ -1,21 +1,31 @@
 ---
 category: news
-title: "OpenText Brings Digital Investigation to the Cloud with Microsoft Azure"
-excerpt: "OpenText™ announced OpenText™ EnCase Forensic and OpenText™ EnCase Endpoint Investigator are now certified on Microsoft Azure. With OpenText Encase solutions in the cloud, law enforcement and corporate investigators can more easily collaborate,"
-publishedDateTime: 2020-11-11T18:19:00Z
-originalUrl: "https://www.newswiretoday.com/news/174111/OpenText-Brings-Digital-Investigation-to-the-Cloud-with-Microsoft-Azure/"
-webUrl: "https://www.newswiretoday.com/news/174111/OpenText-Brings-Digital-Investigation-to-the-Cloud-with-Microsoft-Azure/"
+title: "Facedrive’s TraceSCAN to Offer Global Contact-Tracing Services Powered by Microsoft Azure"
+excerpt: "Business Wire TORONTO --  Facedrive Inc. (“Facedrive”) (TSXV: FD)"
+publishedDateTime: 2020-11-19T13:06:00Z
+originalUrl: "https://www.bloomberg.com/press-releases/2020-11-19/facedrive-s-tracescan-to-offer-global-contact-tracing-services-powered-by-microsoft-azure"
+webUrl: "https://www.bloomberg.com/press-releases/2020-11-19/facedrive-s-tracescan-to-offer-global-contact-tracing-services-powered-by-microsoft-azure"
 type: article
-quality: 17
+quality: 68
 heat: -1
 published: false
 
 provider:
-  name: Newswire Today
-  domain: newswiretoday.com
+  name: Bloomberg
+  domain: bloomberg.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/bloomberg.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
+
+images:
+  - url: "https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg"
+    width: 1200
+    height: 630
+    isCached: true
 
 related:
   - title: "Stradigi AI Launches the Kepler™ AI Platform Powered by Microsoft Azure"
@@ -29,20 +39,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 94
-  - title: "Facedrive’s TraceSCAN to Offer Global Contact-Tracing Services Powered by Microsoft Azure"
-    excerpt: "Business Wire TORONTO --  Facedrive Inc. (“Facedrive”) (TSXV: FD)"
-    publishedDateTime: 2020-11-19T13:06:00Z
-    webUrl: "https://www.bloomberg.com/press-releases/2020-11-19/facedrive-s-tracescan-to-offer-global-contact-tracing-services-powered-by-microsoft-azure"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 68
-    images:
-      - url: "https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "StoneFly Inc. Now Available in the Microsoft Azure Marketplace"
     excerpt: "StoneFly Inc today announced the availability of StoneFly cloud storage in the Microsoft Azure Marketplace an online store providing applications and services for use on Azure StoneFly customers can now take advantage of the productive"
     publishedDateTime: 2020-11-18T15:52:00Z
@@ -110,6 +106,15 @@ related:
       name: Telecompaper
       domain: telecompaper.com
     quality: 17
+  - title: "OpenText Brings Digital Investigation to the Cloud with Microsoft Azure"
+    excerpt: "OpenText™ announced OpenText™ EnCase Forensic and OpenText™ EnCase Endpoint Investigator are now certified on Microsoft Azure. With OpenText Encase solutions in the cloud, law enforcement and corporate investigators can more easily collaborate,"
+    publishedDateTime: 2020-11-11T18:19:00Z
+    webUrl: "https://www.newswiretoday.com/news/174111/OpenText-Brings-Digital-Investigation-to-the-Cloud-with-Microsoft-Azure/"
+    type: article
+    provider:
+      name: Newswire Today
+      domain: newswiretoday.com
+    quality: 17
   - title: "ANS Group migrates NHS SCW workloads to Microsoft Azure"
     excerpt: "UK digital and cloud services provider ANS Group has been selected by NHS South, Central & West (SCW) to migrate their workloads to Microsoft"
     publishedDateTime: 2020-11-18T09:53:00Z
@@ -120,6 +125,6 @@ related:
       domain: telecompaper.com
     quality: 17
 
-secured: "NrtpKU4h+YexnxROIXrB6Vg582DB+ZBS2wOkYcdnqKBLwIJ8RkEfYBFIDWJCear7mmvshm1TxbEb7CgqVDRA3JhgAE1sAtryh1JSavv+hq+NatSd61ioQXiv15hwqUJbfDME+JRaElHXibrhaWDZ8f16tfefujXsWkII8NotRill7P4qjOq7aG75b4kR4WLwF0LD7ILdldTg3TTp1mg8bkYcTqj7BbtEh6aFeWVc2FNlw/KYfiArI5jPjsLFMOyD7Zg9V2/sFElUijpSuczQ1dhZYb2N6kltOLHDObLF7s2Hf0K2DHF7A9O6+vzI5APyyVF+ieNqJ/UfpkOc0rdOxfPHhALZzL9k/ttrSwr61JQcfVyceUnZ82gMCdngynlSMl1HNMXPtRC64IHLwBTcJNBLYNQ4imFTmdmhuf3rTBuhR9Vu8Zb4znkiRvVGygUyg6h8g35kfzb5i4ZaYB1GEtOBad4ugROlLfO1c4+JnPVk2nOKxmw0YV1LFmOiBUi46YzsYk5cc1PnmSqZO8jW4Q==;gfmrh2VYKgk4ofH5u7JbFw=="
+secured: "8+T2Xm6ALJoWbQI4R2ND6EBcW7CWdJVL2gOfhEJX3T+4/eLa3xWHKNx8HWcSooMKG6QTC/hBq0vhs+1GPCXZFjPtxzK9z98QWrZeTku2hOIbZwqhj9tVbZv9fcq/HGRUeyaujczL9Ah7X7h3udT5kvpNekL7hl0rcOfFRbBQKpNoORU+ds7RH2g3w1pp+XA4BGu2xeZgx/mySs0VfmXRuu5t8LlmmeEjwIOc/DW13zuehMwnBPL7yxnSPfhJD9rISEabrk2X++QFR6vwtupEoCEYj9AZlFdEXcTt0chAcKNupgSBXsp5gCTJvvsh+UevHut6V83rTOMbpItB01M9Q9WwjGNU2IoE0aKmn+NuQ+Q=;kgaPdhR3QySwNGHdhs4w7g=="
 ---
 
