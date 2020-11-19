@@ -76,6 +76,22 @@ related:
         width: 1260
         height: 709
         isCached: true
+  - title: "Everything you need to know about Microsoft Azure"
+    excerpt: "Azure is a cloud platform (infrastructure as a service) from Microsoft. Like other cloud platforms such as AWS from Amazon, and Google Cloud Platform, Microsoft Azure provides a wide range of ..."
+    publishedDateTime: 2020-11-09T15:10:00Z
+    webUrl: "https://www.androidauthority.com/introduction-to-microsoft-azure-1175557/"
+    ampWebUrl: "https://www.androidauthority.com/introduction-to-microsoft-azure-1175557/amp/"
+    cdnAmpWebUrl: "https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/introduction-to-microsoft-azure-1175557/amp/"
+    type: article
+    provider:
+      name: Android Authority
+      domain: androidauthority.com
+    quality: 97
+    images:
+      - url: "https://cdn57.androidauthority.net/wp-content/uploads/2019/06/Database-Server-920x470.jpg"
+        width: 920
+        height: 470
+        isCached: true
   - title: "Microsoft is expanding the Azure Stack Edge with NVIDIA GPU preview"
     excerpt: "We’re expanding the Microsoft Azure Stack Edge with NVIDIA T4 Tensor Core GPU preview during the GPU Technology Conference (GTC Digital). Azure Stack Edge is a cloud-managed appliance that brings Azure’s compute, storage, and machine learning capabilities to the edge for fast local analysis and insights."
     publishedDateTime: 2020-03-24T14:00:25Z

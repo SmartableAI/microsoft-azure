@@ -93,6 +93,22 @@ related:
         width: 1260
         height: 709
         isCached: true
+  - title: "Everything you need to know about Microsoft Azure"
+    excerpt: "Azure is a cloud platform (infrastructure as a service) from Microsoft. Like other cloud platforms such as AWS from Amazon, and Google Cloud Platform, Microsoft Azure provides a wide range of ..."
+    publishedDateTime: 2020-11-09T15:10:00Z
+    webUrl: "https://www.androidauthority.com/introduction-to-microsoft-azure-1175557/"
+    ampWebUrl: "https://www.androidauthority.com/introduction-to-microsoft-azure-1175557/amp/"
+    cdnAmpWebUrl: "https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/introduction-to-microsoft-azure-1175557/amp/"
+    type: article
+    provider:
+      name: Android Authority
+      domain: androidauthority.com
+    quality: 97
+    images:
+      - url: "https://cdn57.androidauthority.net/wp-content/uploads/2019/06/Database-Server-920x470.jpg"
+        width: 920
+        height: 470
+        isCached: true
   - title: "Microsoft partners with the industry to unlock new 5G scenarios with Azure Edge Zones"
     excerpt: "Cloud, edge computing, and IoT are making strides to transform whole industries and create opportunities that weren't possible just a few years ago. With the rise of 5G mobile connectivity, there are even more possibilities to deliver immersive, real-time experiences that have demanding, ultra-low latency,"
     publishedDateTime: 2020-03-31T08:00:10Z

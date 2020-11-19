@@ -1,21 +1,22 @@
 ---
 category: news
-title: "Sony to use Microsoft’s Azure AI technology in new smart camera sensors"
-excerpt: "Sony Semiconductor Solutions says it will embed Microsoft’s Azure AI technology into its new intelligent vision sensor for smart cameras under a partnership between the companies. Sony will also"
-publishedDateTime: 2020-05-18T21:05:00Z
-webUrl: "https://www.geekwire.com/2020/sony-use-microsofts-azure-ai-technology-new-smart-camera-sensors/"
-ampWebUrl: "https://www.geekwire.com/2020/sony-use-microsofts-azure-ai-technology-new-smart-camera-sensors/amp/"
-cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/sony-use-microsofts-azure-ai-technology-new-smart-camera-sensors/amp/"
+title: "Everything you need to know about Microsoft Azure"
+excerpt: "Azure is a cloud platform (infrastructure as a service) from Microsoft. Like other cloud platforms such as AWS from Amazon, and Google Cloud Platform, Microsoft Azure provides a wide range of ..."
+publishedDateTime: 2020-11-09T15:10:00Z
+originalUrl: "https://www.androidauthority.com/introduction-to-microsoft-azure-1175557/"
+webUrl: "https://www.androidauthority.com/introduction-to-microsoft-azure-1175557/"
+ampWebUrl: "https://www.androidauthority.com/introduction-to-microsoft-azure-1175557/amp/"
+cdnAmpWebUrl: "https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/introduction-to-microsoft-azure-1175557/amp/"
 type: article
 quality: 97
 heat: -1
 published: false
 
 provider:
-  name: GeekWire
-  domain: geekwire.com
+  name: Android Authority
+  domain: androidauthority.com
   images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/geekwire.com-50x50.jpg"
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/androidauthority.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -23,11 +24,10 @@ topics:
   - Azure
 
 images:
-  - url: "https://cdn.geekwire.com/wp-content/uploads/2020/05/sony-to-use-microsoft-azure-arti-1260x709.jpg"
-    width: 1260
-    height: 709
+  - url: "https://cdn57.androidauthority.net/wp-content/uploads/2019/06/Database-Server-920x470.jpg"
+    width: 920
+    height: 470
     isCached: true
-    title: "Sony to use Microsoft’s Azure AI technology in new smart camera sensors"
 
 related:
   - title: "Extending the power of Azure AI to Microsoft 365 users"
@@ -76,21 +76,21 @@ related:
         width: 2307
         height: 1334
         isCached: true
-  - title: "Everything you need to know about Microsoft Azure"
-    excerpt: "Azure is a cloud platform (infrastructure as a service) from Microsoft. Like other cloud platforms such as AWS from Amazon, and Google Cloud Platform, Microsoft Azure provides a wide range of ..."
-    publishedDateTime: 2020-11-09T15:10:00Z
-    webUrl: "https://www.androidauthority.com/introduction-to-microsoft-azure-1175557/"
-    ampWebUrl: "https://www.androidauthority.com/introduction-to-microsoft-azure-1175557/amp/"
-    cdnAmpWebUrl: "https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/introduction-to-microsoft-azure-1175557/amp/"
+  - title: "Sony to use Microsoft’s Azure AI technology in new smart camera sensors"
+    excerpt: "Sony Semiconductor Solutions says it will embed Microsoft’s Azure AI technology into its new intelligent vision sensor for smart cameras under a partnership between the companies. Sony will also"
+    publishedDateTime: 2020-05-18T21:05:00Z
+    webUrl: "https://www.geekwire.com/2020/sony-use-microsofts-azure-ai-technology-new-smart-camera-sensors/"
+    ampWebUrl: "https://www.geekwire.com/2020/sony-use-microsofts-azure-ai-technology-new-smart-camera-sensors/amp/"
+    cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/sony-use-microsofts-azure-ai-technology-new-smart-camera-sensors/amp/"
     type: article
     provider:
-      name: Android Authority
-      domain: androidauthority.com
+      name: GeekWire
+      domain: geekwire.com
     quality: 97
     images:
-      - url: "https://cdn57.androidauthority.net/wp-content/uploads/2019/06/Database-Server-920x470.jpg"
-        width: 920
-        height: 470
+      - url: "https://cdn.geekwire.com/wp-content/uploads/2020/05/sony-to-use-microsoft-azure-arti-1260x709.jpg"
+        width: 1260
+        height: 709
         isCached: true
   - title: "Microsoft is expanding the Azure Stack Edge with NVIDIA GPU preview"
     excerpt: "We’re expanding the Microsoft Azure Stack Edge with NVIDIA T4 Tensor Core GPU preview during the GPU Technology Conference (GTC Digital). Azure Stack Edge is a cloud-managed appliance that brings Azure’s compute, storage, and machine learning capabilities to the edge for fast local analysis and insights."
@@ -490,6 +490,6 @@ related:
       domain: telecompaper.com
     quality: 2
 
-secured: "pEtLhMH0bPI6rC4hCpmQia5tsNDWXJGsD5Pc7k7ChIuWXvLFTCGf/mR97+3xz/l6A71KgtdedRVYw5NPkwWkC0H4cXLhHqRZGE4PGOfm7JOntHriLsxH0bRzRv80xt/UT93A+qVacgl0KVwvcj5hDQuwuCPZMJNnhRu2Vvuli3xpQKcYYsH9evjwJ1Dwd/PrMHGyRQAUh0F0LCUm0JpGpOQ2q2+GAvUvt6mNtFotJKDlvaURZLTmTo/I5bQlJfHTcZ1eG2ilQCRNVSGhFlM5E2o1MHUjjBShD02NeSs5v5UtMGqZTH1c4sJSePSbjTTQzdZSO0H4X9R+8e4h541OrQN2ZSyipsSN7x20/rm8pVJS22DaBj5dCExiTeDGRGigQetHNkDHJrgPqz7GU9mk0LKu46bHjJncm+ExtWnjEIb1XzyFZyBePv9IGe2Y5FT9CWwj89Q6+MpJ91I1TS9vCsVus49ObZqldJO5r+vhNUQ=;UI5QjXMU1v1NORkGaf8Rog=="
+secured: "hVzSK2VsMqS3M45uyotuS/R7QsQ8P9QgU63esTCOKwbJqCTwivYMY8q0af3SSR9svbNldoptshPL9G26kYSWSJbydGzN/lbo4hFnyh4npyTflLskmSBJ/xTcShbtXAgMUSDAnsW4ZA/sgH5K1m1yTAPd78akFOSLI//dYhLCnKKMIOzgJlnULeM3cxCxHQhaCEufQgEnvic8xAF5sZ/8ILTLGYGLslDAOU/3DuwmfjfpdQubvI6dwqNuSiHkAnMXKmjftQwwmL7ALAT0bUYuyJUc8/7wzLZolwPgE27LaLnWIMNbgKC5Uu78/YzET4QzXXE8N8/1QKwLrWF0lKkQ6wTYqrb4NeiDxMqTrDLxAsc=;brfzzaZgWdjwS1Ti3qdcjg=="
 ---
 
