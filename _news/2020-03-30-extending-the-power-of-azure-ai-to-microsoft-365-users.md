@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/extending-the-power-of-azure-ai-t
 webUrl: "https://azure.microsoft.com/blog/extending-the-power-of-azure-ai-to-microsoft-365-users/"
 type: article
 quality: 104
-heat: 744
+heat: 764
 published: true
 
 provider:
@@ -458,6 +458,20 @@ related:
       - url: "https://www.thurrott.com/wp-content/uploads/sites/2/2020/04/edge.jpg"
         width: 1066
         height: 600
+        isCached: true
+  - title: "Blake Moret On CNBC: We Partnered With Microsoft To Marry Our Offerings With Microsoft's Azure Cloud Platform"
+    excerpt: "This headline-only article is meant to show you why a stock is moving, the most difficult aspect of stock trading. Every day we publish hundreds of headlines on any catalyst"
+    publishedDateTime: 2020-11-17T18:20:00Z
+    webUrl: "https://www.benzinga.com/news/20/11/18418923/blake-moret-on-cnbc-we-partnered-with-microsoft-to-marry-our-offerings-with-microsofts-azure-cloud-p"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 18
+    images:
+      - url: "https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/sites/all/themes/bz2/images/bz-icon.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "C3.ai selects Microsoft Dynamics 365 and Teams to power the next phase of growth"
     excerpt: "C3.ai, a leading innovator in enterprise AI software for accelerating digital transformation, announced plans to collaborate with"

@@ -467,6 +467,20 @@ related:
         width: 1066
         height: 600
         isCached: true
+  - title: "Blake Moret On CNBC: We Partnered With Microsoft To Marry Our Offerings With Microsoft's Azure Cloud Platform"
+    excerpt: "This headline-only article is meant to show you why a stock is moving, the most difficult aspect of stock trading. Every day we publish hundreds of headlines on any catalyst"
+    publishedDateTime: 2020-11-17T18:20:00Z
+    webUrl: "https://www.benzinga.com/news/20/11/18418923/blake-moret-on-cnbc-we-partnered-with-microsoft-to-marry-our-offerings-with-microsofts-azure-cloud-p"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 18
+    images:
+      - url: "https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/sites/all/themes/bz2/images/bz-icon.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Microsoft Becoming NBA's Official AI Partner"
     excerpt: "Microsoft and NBA Digital -- co-managed by the NBA and Turner Sports -- will create a new, innovative direct-to-consumer platform on Microsoft Azure that will use machine learning and AI to deliver next-gen, personalized game broadcasts and other content, and integrate the NBA's various products and services. Microsoft will look to re-imagine ..."
     publishedDateTime: 2020-04-18T03:39:00Z

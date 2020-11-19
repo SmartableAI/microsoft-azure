@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Microsoft Azure Sphere Security Overview"
-excerpt: "Microsoft, using its decades of experience in hardware, software, and cloud, with Azure Sphere, aims to provide security solutions for IoT devices. Another critical reason to be concerned about IoT data is its integration and management with numerous ..."
-publishedDateTime: 2020-04-01T18:33:00Z
-webUrl: "https://www.storagereview.com/review/microsoft-azure-sphere-security-overview"
+title: "Blake Moret On CNBC: We Partnered With Microsoft To Marry Our Offerings With Microsoft's Azure Cloud Platform"
+excerpt: "This headline-only article is meant to show you why a stock is moving, the most difficult aspect of stock trading. Every day we publish hundreds of headlines on any catalyst"
+publishedDateTime: 2020-11-17T18:20:00Z
+originalUrl: "https://www.benzinga.com/news/20/11/18418923/blake-moret-on-cnbc-we-partnered-with-microsoft-to-marry-our-offerings-with-microsofts-azure-cloud-p"
+webUrl: "https://www.benzinga.com/news/20/11/18418923/blake-moret-on-cnbc-we-partnered-with-microsoft-to-marry-our-offerings-with-microsofts-azure-cloud-p"
 type: article
-quality: 37
+quality: 18
 heat: -1
 published: false
 
 provider:
-  name: StorageReview
-  domain: storagereview.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://www.storagereview.com/wp-content/uploads/2020/04/StorageReview-Microsoft-Azure-Sphere.png"
-    width: 979
-    height: 456
+  - url: "https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/sites/all/themes/bz2/images/bz-icon.png"
+    width: 1200
+    height: 630
     isCached: true
-    title: "Microsoft Azure Sphere Security Overview"
 
 related:
   - title: "Extending the power of Azure AI to Microsoft 365 users"
@@ -271,6 +271,20 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 56
+  - title: "Microsoft Azure Sphere Security Overview"
+    excerpt: "Microsoft, using its decades of experience in hardware, software, and cloud, with Azure Sphere, aims to provide security solutions for IoT devices. Another critical reason to be concerned about IoT data is its integration and management with numerous ..."
+    publishedDateTime: 2020-04-01T18:33:00Z
+    webUrl: "https://www.storagereview.com/review/microsoft-azure-sphere-security-overview"
+    type: article
+    provider:
+      name: StorageReview
+      domain: storagereview.com
+    quality: 37
+    images:
+      - url: "https://www.storagereview.com/wp-content/uploads/2020/04/StorageReview-Microsoft-Azure-Sphere.png"
+        width: 979
+        height: 456
+        isCached: true
   - title: "Microsoft Azure Stack HCI"
     excerpt: "Azure Stack HCI delivers unmatched performance, with a path to hybrid cloud. Learn more by downloading the white paper here. Azure Stack HCI delivers unmatched performance, with a path to hybrid ..."
     publishedDateTime: 2020-04-25T23:05:00Z
@@ -453,20 +467,6 @@ related:
         width: 1066
         height: 600
         isCached: true
-  - title: "Blake Moret On CNBC: We Partnered With Microsoft To Marry Our Offerings With Microsoft's Azure Cloud Platform"
-    excerpt: "This headline-only article is meant to show you why a stock is moving, the most difficult aspect of stock trading. Every day we publish hundreds of headlines on any catalyst"
-    publishedDateTime: 2020-11-17T18:20:00Z
-    webUrl: "https://www.benzinga.com/news/20/11/18418923/blake-moret-on-cnbc-we-partnered-with-microsoft-to-marry-our-offerings-with-microsofts-azure-cloud-p"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 18
-    images:
-      - url: "https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/sites/all/themes/bz2/images/bz-icon.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "C3.ai selects Microsoft Dynamics 365 and Teams to power the next phase of growth"
     excerpt: "C3.ai, a leading innovator in enterprise AI software for accelerating digital transformation, announced plans to collaborate with"
     publishedDateTime: 2020-04-27T16:00:00Z
@@ -500,6 +500,6 @@ related:
       domain: telecompaper.com
     quality: 2
 
-secured: "MrztOyHYuFt5lLktkEfS3IblxGAEkyqVVqPhQnmFu3FXi1yC/nElgwcaQat/tjNEFcgSd/3HkrqhKlbsPJPk75exjHTsOktiGnEXf4kE5ilEcmTP5yPEaB31mKrTLwhPLAynnAxNG9QhWZiggqqE+zWfc0qa5j0JWX5/Mu1Yg2Cd3BDunK6BfghUjKhEBurbmPVLRztbww1n2RJm4eoAy+STcH2jkG4wsyst056mQHlBFphAChQScliUXBGJsxYwLk2IhFETNYJPrXLmwlucKrixJM8w+hJYiZW/QAUj7bREuvOvlsXbkQ9dFtXMyxq1;qpufj9hPmAs9WiiFNdoC2w=="
+secured: "P3UbwfjFU542cx4VtQ1YOuU1kw04rGcwqHBe8Cuuu/dhnfVCcLQGug567dvqs7tqgbCN1vB0867kWdYf+iW8LGGgWU8zuAgszqXdz7dQSVStis6OPoHZloe3/qXzUHf9hyxKd47kLQAG+Di7LqurKaR4T+BHAarrwaO/yRk4VrlexwKlzZvKkDsC/IVkdB08vNnMzekxF3U/4t7gCleDpM0JoKq00UD/HLKSyHCoefgknX09NlcVLLFw3Oe3OLZKgYgvNb3fbSLf8rtK34tjELwXEq9iNCcbjtwCj9U7Nwuf/h5r+3Zla7TqQCK22ApfS3A18CfKYf42L438v2ZD8H4uemIpsjypZYSuotZUMKs=;dQB3Mv0x78fQTJ4BxsjR+w=="
 ---
 
