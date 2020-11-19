@@ -1,12 +1,12 @@
 ---
 category: news
-title: "New recommendations from Azure Advisor are now available"
-excerpt: "Four new best practice recommendations will help you improve the reliability and performance of your Azure resources"
-publishedDateTime: 2020-11-11T17:00:00Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/new-recommendations-from-azure-advisor/"
-webUrl: "https://azure.microsoft.com/en-us/updates/new-recommendations-from-azure-advisor/"
+title: "Azure Monitor for Virtual Machines Guest Health is in public preview"
+excerpt: "Announcing the Public Preview of the Guest Health feature of Azure Monitor for Virtual Machines, that monitors the health of your virtual machines and fires an alert when any of the parameters being monitored are outside the acceptable range."
+publishedDateTime: 2020-11-19T17:00:45Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/azure-monitor-for-virtual-machines-guest-health-preview/"
+webUrl: "https://azure.microsoft.com/en-us/updates/azure-monitor-for-virtual-machines-guest-health-preview/"
 type: article
-quality: 67
+quality: 84
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - Azure
+  - DevOps
 
 related:
   - title: "Node.js 14 for Azure Functions is now available in public preview"
@@ -31,19 +32,19 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 84
-  - title: "Azure Monitor for Virtual Machines Guest Health is in public preview"
-    excerpt: "Announcing the Public Preview of the Guest Health feature of Azure Monitor for Virtual Machines, that monitors the health of your virtual machines and fires an alert when any of the parameters being monitored are outside the acceptable range."
-    publishedDateTime: 2020-11-19T17:00:45Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-monitor-for-virtual-machines-guest-health-preview/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 84
   - title: "Azure Sphere 20.10 update is now available"
     excerpt: "Learn about what's new in the the 20.10 release, including new and updated features in the OS, SDK, and extensions for Visual Studio and Visual Studio Code. "
     publishedDateTime: 2020-11-10T00:00:18Z
     webUrl: "https://azure.microsoft.com/en-us/updates/azure-sphere-2010-update-is-now-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
+  - title: "New recommendations from Azure Advisor are now available"
+    excerpt: "Four new best practice recommendations will help you improve the reliability and performance of your Azure resources"
+    publishedDateTime: 2020-11-11T17:00:00Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/new-recommendations-from-azure-advisor/"
     type: article
     provider:
       name: Microsoft
@@ -77,6 +78,6 @@ related:
       domain: microsoft.com
     quality: 52
 
-secured: "FL6GNpNiM0PRyawuFtgTxMK56oOPGUNjfLAwErKidmJvEInSpWzH6xxdofjVC0EYdINao/goHPLyXC3Il+uE81Jbj2i9nk53d9V9IKYP7y3GQITmgE2t47k/4lLvIdu0teo+bkrp+LhfXtpZO9k28NUUKKJ2cunyAzZzR1uDMC8G4fG3kffsRU14zHh7jfBehjCDh6DLynwZVGIbCg0IzLUnGv3kiLoGTWxvsrYuwvhtioYON0OyHJdfP8G6vtt5fXSG+tDZPOtccIy4y5+Z0dl0QSOiGl8kK7/gSeG/IkZPTUGuxgsHPbsqr1oM4XIDeOFBQktdhqCgouP4kpmG1N3XcYyLbB7uXOloDGjXhks=;3ur/y5VEJgwP3uBtFrSQ2g=="
+secured: "jjg2v/CsTpZsRr6ieLYOLaJ7LYWlKFMsfFGxhvuRm6h4pVHdp63m8pgvV7yRSxz+mFJedJJOxYbnNGdiH4xcQ6OZrKPS8oJhdXAGSTGQiG5AAwvloZmQzd6ilFd8xLB8RAFp6fMIwm2z9l6V189KWZkYd+9Gu5PY/oxVQ5mZIl4nO6Tr4U3mVCMAweyjK0qlTAVuckjlgPIO4N+zE8rugtuCf2U5CsHaTuGCZu6Xd/lPLSi2oE4+THkd8NBXFLs2iryp2Af48vmKQLPl+IV/YWjSiz2LhNCykkNPO7sTyZOnSPT7DFsJgUlcvmjLi6eYHXAf87qFw6hvjjbrRA8aDCAxBg3K8TfyyTFTeywxErI=;rS6C34hp/OSeCoMZW4D38w=="
 ---
 

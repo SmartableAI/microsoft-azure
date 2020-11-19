@@ -1,29 +1,26 @@
 ---
 category: news
-title: "UCSF, Fortanix, Intel, and Microsoft Azure Utilize Privacy-Preserving Analytics to Accelerate AI in Healthcare"
-excerpt: "UC San Francisco’s Center for Digital Health Innovation (CDHI), Fortanix, Intel, and Microsoft Azure today have formed a collaboration to establish a confidential computing platform with privacy-preserving analytics to accelerate the development and validation of clinical algorithms."
-publishedDateTime: 2020-10-07T19:00:00Z
-originalUrl: "https://www.businesswire.com/news/home/20201007005922/en/UCSF-Fortanix-Intel-and-Microsoft-Azure-Utilize-Privacy-Preserving-Analytics-to-Accelerate-AI-in-Healthcare/?feedref=JjAwJuNHiystnCoBq_hl-YChnX-dlxR7bnql9VXy9e5cS3CA0Bo2lHArOQl-PHrIrCOi9QzgjCezTS3Nw_X6kJUrpSBm-Hav1w-UkdSlG3k-cHwnfBrk8h_RXgEUlyPTLkaZDLiczsahzEklD3R10Q%3D%3D"
-webUrl: "https://www.businesswire.com/news/home/20201007005922/en/UCSF-Fortanix-Intel-and-Microsoft-Azure-Utilize-Privacy-Preserving-Analytics-to-Accelerate-AI-in-Healthcare/?feedref=JjAwJuNHiystnCoBq_hl-YChnX-dlxR7bnql9VXy9e5cS3CA0Bo2lHArOQl-PHrIrCOi9QzgjCezTS3Nw_X6kJUrpSBm-Hav1w-UkdSlG3k-cHwnfBrk8h_RXgEUlyPTLkaZDLiczsahzEklD3R10Q%3D%3D"
+title: "A new version of Text Analytics is now in public preview"
+excerpt: "Text Analytics new API version supports batch processing and healthcare scenarios."
+publishedDateTime: 2020-11-19T17:00:33Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/cognitive-services-2/"
+webUrl: "https://azure.microsoft.com/en-us/updates/cognitive-services-2/"
 type: article
-quality: 51
+quality: 69
 heat: -1
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Microsoft
+  domain: microsoft.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
-  - AI
   - Analytics
-
-images:
-  - url: "https://mms.businesswire.com/media/20201007005922/en/828476/23/UCSF_sig_navy_RGB.jpg"
-    width: 1200
-    height: 627
-    isCached: true
 
 related:
   - title: "Azure Monitor Log Analytics data export is in public preview"
@@ -95,15 +92,6 @@ related:
         width: 776
         height: 271
         isCached: true
-  - title: "A new version of Text Analytics is now in public preview"
-    excerpt: "Text Analytics new API version supports batch processing and healthcare scenarios."
-    publishedDateTime: 2020-11-19T17:00:33Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/cognitive-services-2/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 69
   - title: "Azure Monitor Logs – Log Analytics REST APIs general availability"
     excerpt: "Log Analytics control plane REST APIs are generally available under a new consolidated version 2020-08-01."
     publishedDateTime: 2020-08-27T17:00:14Z
@@ -122,6 +110,20 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 52
+  - title: "UCSF, Fortanix, Intel, and Microsoft Azure Utilize Privacy-Preserving Analytics to Accelerate AI in Healthcare"
+    excerpt: "UC San Francisco’s Center for Digital Health Innovation (CDHI), Fortanix, Intel, and Microsoft Azure today have formed a collaboration to establish a confidential computing platform with privacy-preserving analytics to accelerate the development and validation of clinical algorithms."
+    publishedDateTime: 2020-10-07T19:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20201007005922/en/UCSF-Fortanix-Intel-and-Microsoft-Azure-Utilize-Privacy-Preserving-Analytics-to-Accelerate-AI-in-Healthcare/?feedref=JjAwJuNHiystnCoBq_hl-YChnX-dlxR7bnql9VXy9e5cS3CA0Bo2lHArOQl-PHrIrCOi9QzgjCezTS3Nw_X6kJUrpSBm-Hav1w-UkdSlG3k-cHwnfBrk8h_RXgEUlyPTLkaZDLiczsahzEklD3R10Q%3D%3D"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 51
+    images:
+      - url: "https://mms.businesswire.com/media/20201007005922/en/828476/23/UCSF_sig_navy_RGB.jpg"
+        width: 1200
+        height: 627
+        isCached: true
   - title: "AMD EPYC™ Processors Offer 30 Percent Better Performance on Data Analytics Workloads to Microsoft Azure Data Explorer Users"
     excerpt: "AMD today announced Azure Data Explorer, a Platform as a Service solution optimized for data exploration and near real-time analytics, will now offer customers access to Microsoft Azure Virtual Machines featuring AMD EPYC™ processors."
     publishedDateTime: 2020-10-15T14:00:00Z
@@ -189,6 +191,6 @@ related:
       domain: microsoft.com
     quality: 2
 
-secured: "T3Nm3Ig9T7mEPyXXCyjgbP+if/0CprXO9cKwm7FP3Z4NREz8WEbWUGVrdSqAKbU6mYmFpCmV4j/RG0uAUooU+1BXKha64v8JxsaSNMprhn8QGTTQ1gSQaqKkCAK3IoZxW29YHOpjnXKxluzMtzN5NqiV5mFWcgH+ZHsrA236NQKvH5l0ZDiR3XQfdEh/ArleOX8TWz+NAQmsz2BsZuDK6j0ao4ZrJyGce449N8/s7T/GtiKtUux22e6OSWntrf6qHBuvfLU7ojdeE0PwAm2hxbdhSJJh91Muj1UIlen+os7c0ai3Sx2h/cxHoJ6YebWFrgPeB3KPcu2n6pTJoxX98Q5/byREDMW/OwDkdfWdvgo=;NRekfOr+J/o0eYkOYxcbHA=="
+secured: "m0Zbg7KIoH3JccbxCI/pNGZQFnB4BGGODFfmnrdpzL/07YAA0Cmep89Hyp514gBYNngTn6QWPVKMdVOQ9pD2YzEXY9511kTIWpKCvqazFAIrBR6eu0wGe1vuZDVG8orkLT09bGqnxlNNu/oDqYukiEYT9uqqTRnouGul2PtETmhvwex95Ax7050FI42EA9lkxuk/jxeTIat1l5fNwbvXgTMkwRLn8t55Xn2sHpIva0xGtMU95NMTboZnwjIov5OuscfZqCtuE9arr5OZD4iIMUFLcvU7S0QHFz36nYioOoU/T1IYkuEWK4IUDsJCwVFZ/DlRdeNHaiKl8OkvcXh9+pTHXviiS+cp2MzNzLHVF4c=;+VqF550JB8zyuMbtcIsqbw=="
 ---
 

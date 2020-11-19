@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/azure-monitor-log-analyt
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-monitor-log-analytics-data-export-is-in-public-preview/"
 type: article
 quality: 121
-heat: 401
+heat: 421
 published: true
 
 provider:
@@ -85,6 +85,15 @@ related:
         width: 776
         height: 271
         isCached: true
+  - title: "A new version of Text Analytics is now in public preview"
+    excerpt: "Text Analytics new API version supports batch processing and healthcare scenarios."
+    publishedDateTime: 2020-11-19T17:00:33Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/cognitive-services-2/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 69
   - title: "Azure Monitor Logs – Log Analytics REST APIs general availability"
     excerpt: "Log Analytics control plane REST APIs are generally available under a new consolidated version 2020-08-01."
     publishedDateTime: 2020-08-27T17:00:14Z

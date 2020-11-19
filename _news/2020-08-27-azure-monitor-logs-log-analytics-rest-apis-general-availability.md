@@ -91,6 +91,15 @@ related:
         width: 776
         height: 271
         isCached: true
+  - title: "A new version of Text Analytics is now in public preview"
+    excerpt: "Text Analytics new API version supports batch processing and healthcare scenarios."
+    publishedDateTime: 2020-11-19T17:00:33Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/cognitive-services-2/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 69
   - title: "Ingestion data isolation in Log Analytics"
     excerpt: "To provide you with additional service stability, we have added the ingestion volume rate limit to additional Log Analytics data sources including Diagnostic Settings, agents, and data collector API."
     publishedDateTime: 2020-08-26T16:00:01Z

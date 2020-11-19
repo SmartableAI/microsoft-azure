@@ -44,6 +44,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
+  - title: "Performance tiers for Premium SSDs is now generally available"
+    excerpt: "Achieve higher performance and cost savings on Azure Disk Storage with performance tiers. "
+    publishedDateTime: 2020-11-19T17:00:19Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/performance-tiers-for-premium-ssds-is-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 52
   - title: "Azure Monitor Logs Agent for Linux May 2020 release now available"
     excerpt: ""
     publishedDateTime: 2020-05-12T21:00:24Z

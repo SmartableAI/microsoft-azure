@@ -1,12 +1,12 @@
 ---
 category: news
-title: "Azure Hybrid Benefit -- Linux Preview"
-excerpt: "Azure Hybrid Benefit - Linux provides convenience and agility for customers who use Red Hat Enterprise Linux and SUSE Linux Enterprise Server with a valid subscription. Customers can use existing Linux subscriptions for easy cloud adoption without the need to reboot their production environment and enjoy"
-publishedDateTime: 2020-09-22T16:00:00Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/azure-hybrid-benefit-linux-preview/"
-webUrl: "https://azure.microsoft.com/en-us/updates/azure-hybrid-benefit-linux-preview/"
+title: "Performance tiers for Premium SSDs is now generally available"
+excerpt: "Achieve higher performance and cost savings on Azure Disk Storage with performance tiers. "
+publishedDateTime: 2020-11-19T17:00:19Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/performance-tiers-for-premium-ssds-is-now-generally-available/"
+webUrl: "https://azure.microsoft.com/en-us/updates/performance-tiers-for-premium-ssds-is-now-generally-available/"
 type: article
-quality: 67
+quality: 52
 heat: -1
 published: false
 
@@ -36,15 +36,15 @@ related:
         width: 724
         height: 409
         isCached: true
-  - title: "Performance tiers for Premium SSDs is now generally available"
-    excerpt: "Achieve higher performance and cost savings on Azure Disk Storage with performance tiers. "
-    publishedDateTime: 2020-11-19T17:00:19Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/performance-tiers-for-premium-ssds-is-now-generally-available/"
+  - title: "Azure Hybrid Benefit -- Linux Preview"
+    excerpt: "Azure Hybrid Benefit - Linux provides convenience and agility for customers who use Red Hat Enterprise Linux and SUSE Linux Enterprise Server with a valid subscription. Customers can use existing Linux subscriptions for easy cloud adoption without the need to reboot their production environment and enjoy"
+    publishedDateTime: 2020-09-22T16:00:00Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-hybrid-benefit-linux-preview/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 52
+    quality: 67
   - title: "Azure Monitor Logs Agent for Linux May 2020 release now available"
     excerpt: ""
     publishedDateTime: 2020-05-12T21:00:24Z
@@ -64,6 +64,6 @@ related:
       domain: microsoft.com
     quality: 17
 
-secured: "MfdHyzdmrkqdllhfrKUuFkZRi1tEjDQ6QrHrN6nfBIm9N8PTzV64zHZXwfC4gWMa2+dGajoXuK0nRfamPOwOOipr5V+TJynAtAtoNj4WL+u2nAztPJBLpTh74ffTlFo0PawuadKnT9/03HzCXFPIVPUn7ImTsV3OuW4hhOq5CSSR8UHJR6ZC1NM57MLA5S3n+L6ueqaAa4gTW6q9qdbjnD+ssdiX4hHA1QCsiSnVW5mb+O3oX4AWCfpTMDtE+304kYwn59mJteMlosBNwmCddg4btTINkHImHo4/d26x6YQt+2yImM61kHIAJj62tBF8LLKesxKq6TK2r1YWgXqgIk+AQ+TH6x+fkwxMTEG6Zj0=;C0UNrpPCuLWEJW2pWvHUEA=="
+secured: "mn9MFzBO5b0p6zFDDKJoFNy1X7/0Z1EVgRNOovL5cNFRfvKwY0Nc+IGFBUyIvXf3Z3LinQlbmRRAI4R8MQPoJ/JogiFDOh6Kie9qjPGyNWfZYzvA6F435ynMgxOYEL4vgkfS8j6n3QRaigmcU+79/BgnwgGyI7SvlsBglAVolOnqTxhTbfyUPKQM8Sfx8Cj6H1X1nahlQKCSYj/RICSsQnaRaIQHSEmcs1bYqJ7a79cG+Tb93IP3Xh42EoFB8Pfvp9MjWZOBVE6ehApWd9INvSQIXZjKhASfd5kFMPY9eyFOUCX8yhxQWvOAw/B9CFyZQCzUPojDRt+IZmykXCSwH9eCd28Gob8onUjksUZOZeg=;zGQ5yaAteHWaqyzUpLWtOQ=="
 ---
 

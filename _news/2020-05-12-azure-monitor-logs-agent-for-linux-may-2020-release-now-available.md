@@ -44,6 +44,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
+  - title: "Performance tiers for Premium SSDs is now generally available"
+    excerpt: "Achieve higher performance and cost savings on Azure Disk Storage with performance tiers. "
+    publishedDateTime: 2020-11-19T17:00:19Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/performance-tiers-for-premium-ssds-is-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 52
   - title: "Azure App Service hybrid connections for Linux apps is now available"
     excerpt: "The hybrid connections feature of Azure App Service, which enables access to resources in disparate networks, is now available in public regions."
     publishedDateTime: 2020-06-11T16:00:15Z
