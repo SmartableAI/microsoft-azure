@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Redis Enterprise on Microsoft Azure Cache Now Available in Public Preview"
-excerpt: "Today, Redis Labs announced the new fully integrated tiers of Redis Enterprise on Microsoft Azure Cache for Redis are available now in public preview. The new Redis Enterprise tiers bring advanced functionality to Azure Cache,"
-publishedDateTime: 2020-11-09T17:00:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/f9c1950537534548852fafd49cf07d19"
-webUrl: "https://apnews.com/press-release/business-wire/f9c1950537534548852fafd49cf07d19"
+excerpt: "MOUNTAIN VIEW, Calif.--(BUSINESS WIRE)--Today, Redis Labs announced the new fully integrated tiers of Redis Enterprise on Microsoft Azure Cache for Redis are available now in public preview."
+publishedDateTime: 2020-11-09T18:13:00Z
+originalUrl: "https://www.businesswire.com/news/home/20201109005360/en/Redis-Enterprise-on-Microsoft-Azure-Cache-Now-Available-in-Public-Preview"
+webUrl: "https://www.businesswire.com/news/home/20201109005360/en/Redis-Enterprise-on-Microsoft-Azure-Cache-Now-Available-in-Public-Preview"
 type: article
 quality: 36
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://mms.businesswire.com/media/20201109005360/en/752068/23/1_Redis-labs-logoRGB.jpg"
+    width: 1200
+    height: 627
     isCached: true
 
 related:
@@ -842,6 +842,6 @@ related:
       domain: microsoft.com
     quality: 0
 
-secured: "A92cMvchaX3q8sFwyVeB0sbEqELE/addkwbwRkYtj8bygsPOMza3Zm9iv5Wgg7pGNQ7jT6NZ0bCkdXH6inH0ZEv5pgFeRY0IiYgmK8FuqTWJ8rlwMKuLplneGqIQrhg+ni6qUHnNO8LhJNHPRyJ40cI8mzPx9pLrrCLAhdNC1AqdXK/ET/5TN8jq2HDA3Pf8s4cuoK0EUm7d4nVfdnQUypIRzuvGRM9fpOF89A3eWHage/mLrV02XL0sg75AKeT8naCk0gnB9w++7jtPkxnuo9IXLj8DMcrWPE4my1aZxipzdJ+UQOP7JJbDc/bCbq5Ki6GvMOYYsT037fYZcFoRzhM1xHLfbM7vd+1hu0cwnaM=;7NsV/kuEnZAQPeunvlTagw=="
+secured: "2qDNaXwquCZyVgmTLDBf4rgpiDRR4aHl54eeHCgrZJ/c8n0zZ71ssty9SMQVyyJXMSwCwIDI+4T85Kwu5of3FPAD1a5Xon73cp9oY0toa6vO7V9IvOlFjinONPcp0UlQwGqZEL2kZg5zULKhWZLC7nhKww41NRFqP2vndciu+EdV4niOZisl719PoNkHTveYifhnr7JzjcZr75QpB2v0T4Rv9FYQ2LA2NP+h+nzgo/OiR9PJHgLOxges1BW2DW0fRrSwR9mvVJq1Q50GjgH5HyaXwysMtHqt0WD92QAQAIfTnou2OapHcwM0AyHZQGjLaYcXp1vVaMmEkX3wJO4vSjMvbhud5zQ4G1LucwY6iHA=;ufy8ExT4wTH5pAKQODhlzw=="
 ---
 

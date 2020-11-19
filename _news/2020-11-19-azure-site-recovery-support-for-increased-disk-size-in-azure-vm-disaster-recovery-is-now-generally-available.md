@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Azure Hybrid Benefit now generally available for Linux"
-excerpt: "Coinciding with this week’s Kubecon and Open Azure Day virtual events, today we’re announcing the general availability of Azure Hybrid Benefit functionality for Linux customers, allowing you to bring both your on-premises Windows Server and SQL Server licenses, as well as Red Hat Enterprise Linux (RHEL)"
-publishedDateTime: 2020-11-17T09:00:21Z
-originalUrl: "https://azure.microsoft.com/blog/azure-hybrid-benefit-now-generally-available-for-linux/"
-webUrl: "https://azure.microsoft.com/blog/azure-hybrid-benefit-now-generally-available-for-linux/"
+title: "Azure Site Recovery - Support for increased disk size in Azure VM disaster recovery is now generally available"
+excerpt: "Protect Azure VMs with increased disk sizes."
+publishedDateTime: 2020-11-19T20:46:33Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/site-recovery-large-disk-support-azure-vm/"
+webUrl: "https://azure.microsoft.com/en-us/updates/site-recovery-large-disk-support-azure-vm/"
 type: article
-quality: 87
-heat: 190
-published: true
+quality: 64
+heat: -1
+published: false
 
 provider:
   name: Microsoft
@@ -20,14 +20,23 @@ provider:
 
 topics:
   - Azure
-
-images:
-  - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/2f23f64c-ac36-4040-88ee-e45575fb94b4.png"
-    width: 724
-    height: 409
-    isCached: true
+  - Migration
 
 related:
+  - title: "Azure Hybrid Benefit now generally available for Linux"
+    excerpt: "Coinciding with this week’s Kubecon and Open Azure Day virtual events, today we’re announcing the general availability of Azure Hybrid Benefit functionality for Linux customers, allowing you to bring both your on-premises Windows Server and SQL Server licenses, as well as Red Hat Enterprise Linux (RHEL)"
+    publishedDateTime: 2020-11-17T09:00:21Z
+    webUrl: "https://azure.microsoft.com/blog/azure-hybrid-benefit-now-generally-available-for-linux/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 87
+    images:
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/2f23f64c-ac36-4040-88ee-e45575fb94b4.png"
+        width: 724
+        height: 409
+        isCached: true
   - title: "Azure Hybrid Benefit -- Linux Preview"
     excerpt: "Azure Hybrid Benefit - Linux provides convenience and agility for customers who use Red Hat Enterprise Linux and SUSE Linux Enterprise Server with a valid subscription. Customers can use existing Linux subscriptions for easy cloud adoption without the need to reboot their production environment and enjoy"
     publishedDateTime: 2020-09-22T16:00:00Z
@@ -37,15 +46,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
-  - title: "Azure Site Recovery - Support for increased disk size in Azure VM disaster recovery is now generally available"
-    excerpt: "Protect Azure VMs with increased disk sizes."
-    publishedDateTime: 2020-11-19T20:46:33Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/site-recovery-large-disk-support-azure-vm/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 64
   - title: "Performance tiers for Premium SSDs is now generally available"
     excerpt: "Achieve higher performance and cost savings on Azure Disk Storage with performance tiers. "
     publishedDateTime: 2020-11-19T17:00:19Z
@@ -74,6 +74,6 @@ related:
       domain: microsoft.com
     quality: 17
 
-secured: "KL6Csr8WCn9eq/Wd7pqa7Hq1A1MR7rf/XoYm3RsAvEedmSwdSWLivcB3ZaWgq51dtP4aMpY2qalBhB7/ms18R/APdx0I51uf0xBnE1MdsO31Eq7AXU+NFDaaJphgrNwXDdbNYg1opLuWOmEQ5O15in+0W4nonS2XILpK5T6hUdOZQ68ui3DFbLkaUrpakMJcmIl+wMzeVCzeN8Ls/qFXj8RjAeKkGDIjvxhRR0DZO+XL9PmA3bnfI2OTLJ2ryCx3VMO2LfbA7H4pGjNZvrbQHnyGjBm/gE8WZ/El18VJwncK1i4s7TBuQhvSAjd49mfth2xsuAPG6YchJ/z+ASF+I33J1qhrCrNY1/x7eHIxcT8=;2DY+ToCk3kA3wki1vit8Jw=="
+secured: "swoZyDeddjCAXRSt/6FwbYDbWFOiBiwvvSoIqWLW+A8/I0tIODuMVgY5L1uu/NNXT/HKvNG5rQyjNHq12nlg2iiwcIb8zIdqAceqvk3W3ixBziYLwHDxXeoJFXxXnN6bycEbjA7Wbv4ONexXlxkN4ZnN08V9UnDeE4UkKO7vLhjMgEJRNr5b2qVbEKNQ+5EMDnOjoVp27O8ilunSvrZJlDKXdCKtHVDieWIFyCF/FzHJzJC0xnwACenJTqzjRnwE3SceZCSd+26MfygxehYTs+LM7DgKbkmDxMPMGz5KBQa1SYyoe6owE5mEGp8UQj6erifVzihCgOp87SUo6kgL7LXmQ/Oa3ZsVI1arpSzJN4g=;FZzic7rTNhAqbOvh60rXKQ=="
 ---
 

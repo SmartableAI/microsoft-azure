@@ -1,27 +1,31 @@
 ---
 category: news
-title: "Stradigi AI Launches the Kepler™ AI Platform Powered by Microsoft Azure"
-excerpt: "Stradigi AI, a North American Artificial Intelligence software company, is pleased to announce that its cloud-based Kepler Platform is now offered on the Microsoft Azure Marketplace and optimized to run within Azure."
-publishedDateTime: 2020-11-17T14:27:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-science-software-industry-information-technology-71329170da3e15d19ec949e2e378712d"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-science-software-industry-information-technology-71329170da3e15d19ec949e2e378712d"
+title: "How to improve security and visibility of Amazon Web Services, Microsoft Azure, and Google Cloud Platform"
+excerpt: "Cloud Platforms like Amazon Web Services, Microsoft Azure, and Google Cloud Platform have introduced a new level of flexibility and scalability for enterprises, but they have also introduced new ..."
+publishedDateTime: 2020-11-16T16:03:00Z
+originalUrl: "https://www.infoworld.com/resources/210736/how-to-improve-security-and-visibility-of-amazon-web-services-microsoft-azure-and-google-cloud-platf"
+webUrl: "https://www.infoworld.com/resources/210736/how-to-improve-security-and-visibility-of-amazon-web-services-microsoft-azure-and-google-cloud-platf"
 type: article
-quality: 54
+quality: 77
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: InfoWorld
+  domain: infoworld.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/infoworld.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
-  - AI
+  - Security
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://idge.staticworld.net/ifw/IFW_logo_social_300x300.png"
+    width: 300
+    height: 300
     isCached: true
 
 related:
@@ -36,20 +40,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 94
-  - title: "How to improve security and visibility of Amazon Web Services, Microsoft Azure, and Google Cloud Platform"
-    excerpt: "Cloud Platforms like Amazon Web Services, Microsoft Azure, and Google Cloud Platform have introduced a new level of flexibility and scalability for enterprises, but they have also introduced new ..."
-    publishedDateTime: 2020-11-16T16:03:00Z
-    webUrl: "https://www.infoworld.com/resources/210736/how-to-improve-security-and-visibility-of-amazon-web-services-microsoft-azure-and-google-cloud-platf"
-    type: article
-    provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 77
-    images:
-      - url: "https://idge.staticworld.net/ifw/IFW_logo_social_300x300.png"
-        width: 300
-        height: 300
-        isCached: true
   - title: "Facedrive’s TraceSCAN to Offer Global Contact-Tracing Services Powered by Microsoft Azure"
     excerpt: "Business Wire TORONTO --  Facedrive Inc. (“Facedrive”) (TSXV: FD)"
     publishedDateTime: 2020-11-19T13:06:00Z
@@ -79,6 +69,20 @@ related:
       - url: "https://cdn.openpr.com/T/b/Tb18457070_g.jpg"
         width: 600
         height: 400
+        isCached: true
+  - title: "Stradigi AI Launches the Kepler™ AI Platform Powered by Microsoft Azure"
+    excerpt: "Stradigi AI, a North American Artificial Intelligence software company, is pleased to announce that its cloud-based Kepler Platform is now offered on the Microsoft Azure Marketplace and optimized to run within Azure."
+    publishedDateTime: 2020-11-17T14:27:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-science-software-industry-information-technology-71329170da3e15d19ec949e2e378712d"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 54
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
   - title: "How to improve security and visibility of Amazon Web Services, Microsoft Azure, and Google Cloud Platform"
     excerpt: "Computerworld covers a range of technology topics, with a focus on these core areas of IT: Windows, Mobile, Apple/enterprise, Office and productivity suites, collaboration, web browsers and blockchain,"
@@ -136,6 +140,6 @@ related:
       domain: telecompaper.com
     quality: 17
 
-secured: "DL5oKg7Hk//mQDdmS8yChQavOgU4N9wqo1RQ0HbQ13VV8brhcXCW9Vv0Fs1ZU2rSMDudfl379gRc/NvnnWPUOsk6xXHhUs24Oidt2qxhoO61ejx7hgryOwDbci2kO2PLmumdgpPe7JxlvH7almudeVYtETFP2X9ysPXdYb1Hd5Go+ZUsl3YEIVN0umeJHCc7vel23gvEGvsHJTD6+uv5V9sBqmFsuoDaV8WnISy/I9LeGmAwsajRhE+Q7e2EhtNx4wPRVBMJ468ZzHFS1qUGXsHi7x7Vt5nG/K51F40VqErstauv8KGy707SCwR0THGBhj6BYgb2L9aFlNiIbzuUoxGYIebUGkn1f+bQmLzcQZA=;Q0kM0v4InYHLnRgF3vnw0g=="
+secured: "K7ARb1rilBgQou/ztvIPRJ5Y2Qa40DeuylfgyHFZgw8uNFRqZTXaAZUuA0bEmyWwyZ1nnCmGR05v36Ftv6LAtD+noaZ/3ypkaKso2aH22lNqfdIJS6j5NnHdNcjeSlXscakPzp6DnUPjNVdxXVNy8ko8Q47mOspnfliTMu++PGdukUX+vQ6tBnuthWoid+c07fkz5BmFVjnsUdZkADbWNK5Wxefw1UoxSzEr27nfBvIxbVX635NPbMWsQOwiAX0eS5LivzCz1+gmknr2/QWfPWsd7ozDKbp+T4Vog2L3kkqgjRDIkOnt570HJu3ALD5giUKNTWbf7sZryk35Mv7CJLZTn6/zyHHh5toVgLkBX3g=;iOqL8HK7/7k3NcYDkH6GLg=="
 ---
 

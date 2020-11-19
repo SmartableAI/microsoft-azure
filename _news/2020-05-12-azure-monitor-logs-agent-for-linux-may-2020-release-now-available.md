@@ -44,6 +44,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
+  - title: "Azure Site Recovery - Support for increased disk size in Azure VM disaster recovery is now generally available"
+    excerpt: "Protect Azure VMs with increased disk sizes."
+    publishedDateTime: 2020-11-19T20:46:33Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/site-recovery-large-disk-support-azure-vm/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 64
   - title: "Performance tiers for Premium SSDs is now generally available"
     excerpt: "Achieve higher performance and cost savings on Azure Disk Storage with performance tiers. "
     publishedDateTime: 2020-11-19T17:00:19Z

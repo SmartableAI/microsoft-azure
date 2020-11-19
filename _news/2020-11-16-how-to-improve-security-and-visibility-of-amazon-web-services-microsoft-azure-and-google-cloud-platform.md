@@ -36,6 +36,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 94
+  - title: "How to improve security and visibility of Amazon Web Services, Microsoft Azure, and Google Cloud Platform"
+    excerpt: "Cloud Platforms like Amazon Web Services, Microsoft Azure, and Google Cloud Platform have introduced a new level of flexibility and scalability for enterprises, but they have also introduced new ..."
+    publishedDateTime: 2020-11-16T16:03:00Z
+    webUrl: "https://www.infoworld.com/resources/210736/how-to-improve-security-and-visibility-of-amazon-web-services-microsoft-azure-and-google-cloud-platf"
+    type: article
+    provider:
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 77
+    images:
+      - url: "https://idge.staticworld.net/ifw/IFW_logo_social_300x300.png"
+        width: 300
+        height: 300
+        isCached: true
   - title: "Facedrive’s TraceSCAN to Offer Global Contact-Tracing Services Powered by Microsoft Azure"
     excerpt: "Business Wire TORONTO --  Facedrive Inc. (“Facedrive”) (TSXV: FD)"
     publishedDateTime: 2020-11-19T13:06:00Z
