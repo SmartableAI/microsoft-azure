@@ -6,6 +6,9 @@ publishedDateTime: 2020-11-20T17:00:09Z
 originalUrl: "https://azure.microsoft.com/en-us/updates/azure-data-factory-adds-cached-lookups-and-enhanced-zoom-design-to-data-flows/"
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-data-factory-adds-cached-lookups-and-enhanced-zoom-design-to-data-flows/"
 type: article
+quality: 64
+heat: 64
+published: false
 
 provider:
   name: Microsoft

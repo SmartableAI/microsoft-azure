@@ -29,16 +29,19 @@ images:
 
 related:
   - title: "AppDynamics Featured as an Application Performance Monitoring Partner in the Microsoft Cloud Adoption Framework for Azure"
-    excerpt: "Accelerate Their Cloud Adoption Journeys with AppDynamics in Azure Environments AppDynamics, a part of Cisco and the world's #1 APM solution and"
-    publishedDateTime: 2020-11-20T16:31:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/11/b18467371/appdynamics-featured-as-an-application-performance-monitoring-partner-in-the-microsoft-cloud-adopt"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/18467371"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18467371"
+    excerpt: "AppDynamics, a part of Cisco and the world’s #1 APM solution and full-stack, business-centric observability platform, today announced its listing on Microsoft’s Cloud Adoption Framework (CAF) for Azure customers."
+    publishedDateTime: 2020-11-20T17:43:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-products-and-services-lung-disease-ef8f6ef9ccc84b9fbffef39c53634b8e"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
+      name: Associated Press
+      domain: apnews.com
     quality: 12
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "aRfZPYFhhExqz0C2VmC3Kwb9AiV9YQICwomAHdUQHdk3KT7MG4F1JFXmk2GHwDaDHMy221L/qN4dmh/lkEpvUGu2iyguwM1SuOP9tnJlFNww5+omvN90/VdiRdEiCVcT12mUb4KepyOUbg/bwabrIr92lbNPSeGOuSDk8Uw+hkP0R7j42TYJP2YxGQhPNYg49ULobkf8VGmfxY6ilE8drzEud5AV6T29jAJ2ZF/yMSQlbajFubAVTnw+AvYnwatBApg5IDh/TsCSFWuqt//TuMJj9GoCa0i9CVIdp9PORnFu/2Zcv/xC/C6/quJeuuOW+z01riQcZogMMmkMshhpWWZh3NHpkNBYk71NmavCuPw3K+jAvbaOGs18oHUjTxPEMF/D7Skusq4OYz210qRgXfcMSsDQQXO+AG9x4wPAlIkFRa9DlMOCmVB/lpA+HUVMN0NfdaLb5CsoGnvjVNgR4cfgEbL99NQHY/DqksuDNE5fMrOqFthyHG46N33u85ynmi1qoipAwX6DFb1C/ZUVHQ==;M3pZ+eOfEP/v8udTEKbcdQ=="
 ---
