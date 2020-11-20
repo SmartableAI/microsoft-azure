@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/connecting-urban-environments-wit
 webUrl: "https://azure.microsoft.com/blog/connecting-urban-environments-with-iot-and-digital-twins/"
 type: article
 quality: 89
-heat: 90
+heat: 89
 published: true
 
 provider:
