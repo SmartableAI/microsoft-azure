@@ -40,6 +40,17 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 94
+  - title: "Hopsworks Feature Store Now Available for Microsoft Azure"
+    excerpt: "Logical Clocks, the data company behind the world’s first Enterprise Feature Store for Machine Learning, today announced full support for Microsoft Azure on its cloud managed data platform, Hopsworks."
+    publishedDateTime: 2020-11-17T12:20:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/hopsworks-feature-store-now-available-for-microsoft-azure-1029810276"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/Hopsworks-Feature-Store-Now-Available-for-Microsoft-Azure-1029810276"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/Hopsworks-Feature-Store-Now-Available-for-Microsoft-Azure-1029810276"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 77
   - title: "Facedrive’s TraceSCAN to Offer Global Contact-Tracing Services Powered by Microsoft Azure"
     excerpt: "Business Wire TORONTO --  Facedrive Inc. (“Facedrive”) (TSXV: FD)"
     publishedDateTime: 2020-11-19T13:06:00Z
@@ -138,6 +149,15 @@ related:
     provider:
       name: Telecompaper
       domain: telecompaper.com
+    quality: 17
+  - title: "StoneFly Inc. Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Microsoft Azure customers worldwide now gain access to StoneFly cloud storage to take advantage of the scalability, reliability, and agility of Azure to drive application development and shape business strategies."
+    publishedDateTime: 2020-11-20T08:03:00Z
+    webUrl: "https://www.pr.com/press-release/825650"
+    type: article
+    provider:
+      name: PR
+      domain: pr.com
     quality: 17
 
 secured: "K7ARb1rilBgQou/ztvIPRJ5Y2Qa40DeuylfgyHFZgw8uNFRqZTXaAZUuA0bEmyWwyZ1nnCmGR05v36Ftv6LAtD+noaZ/3ypkaKso2aH22lNqfdIJS6j5NnHdNcjeSlXscakPzp6DnUPjNVdxXVNy8ko8Q47mOspnfliTMu++PGdukUX+vQ6tBnuthWoid+c07fkz5BmFVjnsUdZkADbWNK5Wxefw1UoxSzEr27nfBvIxbVX635NPbMWsQOwiAX0eS5LivzCz1+gmknr2/QWfPWsd7ozDKbp+T4Vog2L3kkqgjRDIkOnt570HJu3ALD5giUKNTWbf7sZryk35Mv7CJLZTn6/zyHHh5toVgLkBX3g=;iOqL8HK7/7k3NcYDkH6GLg=="

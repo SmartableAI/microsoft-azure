@@ -1,33 +1,32 @@
 ---
 category: news
-title: "Microsoft partners with the industry to unlock new 5G scenarios with Azure Edge Zones"
-excerpt: "Cloud, edge computing, and IoT are making strides to transform whole industries and create opportunities that weren't possible just a few years ago. With the rise of 5G mobile connectivity, there are even more possibilities to deliver immersive, real-time experiences that have demanding, ultra-low latency,"
-publishedDateTime: 2020-03-31T08:00:10Z
-originalUrl: "https://azure.microsoft.com/blog/microsoft-partners-with-the-industry-to-unlock-new-5g-scenarios-with-azure-edge-zones/"
-webUrl: "https://azure.microsoft.com/blog/microsoft-partners-with-the-industry-to-unlock-new-5g-scenarios-with-azure-edge-zones/"
+title: "Red Box Delivers Cloud Configurable Voice Recording to Fuel AI on Microsoft Azure"
+excerpt: "Canada NewsWire LONDON and NEW YORK, Nov. 20, 2020 LONDON and NEW YORK, Nov. 20, 2020 /CNW/ -- Re"
+publishedDateTime: 2020-11-20T12:08:00Z
+originalUrl: "https://www.bloomberg.com/press-releases/2020-11-20/red-box-delivers-cloud-configurable-voice-recording-to-fuel-ai-on-microsoft-azure"
+webUrl: "https://www.bloomberg.com/press-releases/2020-11-20/red-box-delivers-cloud-configurable-voice-recording-to-fuel-ai-on-microsoft-azure"
 type: article
-quality: 82
+quality: 89
 heat: -1
 published: false
 
 provider:
-  name: Microsoft
-  domain: microsoft.com
+  name: Bloomberg
+  domain: bloomberg.com
   images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg"
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/bloomberg.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Azure
-  - Networking
+  - AI
 
 images:
-  - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/cddd85e8-8aa8-4290-b5d4-22f41eeb03eb.png"
-    width: 1023
-    height: 484
+  - url: "https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg"
+    width: 1200
+    height: 630
     isCached: true
-    title: "Microsoft partners with the industry to unlock new 5G scenarios with Azure Edge Zones"
 
 related:
   - title: "Extending the power of Azure AI to Microsoft 365 users"
@@ -122,19 +121,19 @@ related:
         width: 377
         height: 212
         isCached: true
-  - title: "Red Box Delivers Cloud Configurable Voice Recording to Fuel AI on Microsoft Azure"
-    excerpt: "Canada NewsWire LONDON and NEW YORK, Nov. 20, 2020 LONDON and NEW YORK, Nov. 20, 2020 /CNW/ -- Re"
-    publishedDateTime: 2020-11-20T12:08:00Z
-    webUrl: "https://www.bloomberg.com/press-releases/2020-11-20/red-box-delivers-cloud-configurable-voice-recording-to-fuel-ai-on-microsoft-azure"
+  - title: "Microsoft partners with the industry to unlock new 5G scenarios with Azure Edge Zones"
+    excerpt: "Cloud, edge computing, and IoT are making strides to transform whole industries and create opportunities that weren't possible just a few years ago. With the rise of 5G mobile connectivity, there are even more possibilities to deliver immersive, real-time experiences that have demanding, ultra-low latency,"
+    publishedDateTime: 2020-03-31T08:00:10Z
+    webUrl: "https://azure.microsoft.com/blog/microsoft-partners-with-the-industry-to-unlock-new-5g-scenarios-with-azure-edge-zones/"
     type: article
     provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 89
+      name: Microsoft
+      domain: microsoft.com
+    quality: 82
     images:
-      - url: "https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg"
-        width: 1200
-        height: 630
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/cddd85e8-8aa8-4290-b5d4-22f41eeb03eb.png"
+        width: 1023
+        height: 484
         isCached: true
   - title: "NBA and Microsoft plan personalized, AI-powered game streaming"
     excerpt: "To start, they’ll broadcast live and on-demand games via Microsoft Azure and add personalized real-time stats overlays. They’ll also explore new ways to share clips from historical video archives, reward viewers for participation and catch fans up on their favorite teams without having them search through all scores, headlines and highlights."
@@ -520,6 +519,6 @@ related:
       domain: telecompaper.com
     quality: 2
 
-secured: "mnB1BwYD0RAoQnQQKT6oqvPH69XQnFqQJL/MX9kYMo8HswUyffv0BgYaONw7AxlHYdr3h7s9wky1o61zNjZlJmqHXoGez6UJMzmvMRYLy/CgF/El3ZwFW5Al4Pynidzd9B70TSzRbmg6qHi03gyENKOcmK2BKmXnq/Pfmg8TyFGCsVgXFird2P/O/uYXINfldI6lz4aUzbNAVQb7FmkzC3KcxkidtLkgZPHOqZU/7aTlTEQeXhrO+IeIu0etov9uEK0M0SKKPQ9EFFbw0JS4eH3Bk2nWwDI/Z0zkKHmwtqoMN8zN4ehEKqdqNYs2phASzLYR6zKllhqeMCkFfQTo2tVdEOKf4RTDevBqhIpcoo8=;JmgvL3R3JCWQPpxzvpVifA=="
+secured: "9BH3RaIQ8yHvzvyQeExvC8cUAaM72kVnJJBtTa0T5PJE0puhxx/osJjtYZ9ml8Y3LBRLL58AVBTcZ+gsCZjFQd+8yyo872H7XnDVxBFSXawWDiOT/r79WjFV37KvdxXUY4ttKZYoAYCORBOl3Z4vzPIvGQd/x2htSw/Bnbxth5WHqrCyLAK63xQX9ZiWapo83G+KGLcbKLx7k2KcAXDeJFhdGtB/3f1F4EWK7u9CGzaYLcgPoyY3Hmbnn1eFH4TOL+SJSM3PUCK7z7NjFfywjSwvvBq2bbatggQ3qD71OZHsZ+IiKhGEyvndmjqou+pgsGDUGYJoCDVWV9QbRTe0sfMMey69rqpUIOTt25IKJ+Q=;7iND1m7Eg3YKeD+rP3KNtA=="
 ---
 

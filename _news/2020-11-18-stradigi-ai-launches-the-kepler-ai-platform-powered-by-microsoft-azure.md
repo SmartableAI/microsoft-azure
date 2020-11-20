@@ -9,7 +9,7 @@ ampWebUrl: "https://markets.businessinsider.com/amp/news/stradigi-ai-launches-th
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/stradigi-ai-launches-the-kepler-ai-platform-powered-by-microsoft-azure-1029811504"
 type: article
 quality: 94
-heat: 274
+heat: 314
 published: true
 
 provider:
@@ -25,6 +25,17 @@ topics:
   - AI
 
 related:
+  - title: "Hopsworks Feature Store Now Available for Microsoft Azure"
+    excerpt: "Logical Clocks, the data company behind the world’s first Enterprise Feature Store for Machine Learning, today announced full support for Microsoft Azure on its cloud managed data platform, Hopsworks."
+    publishedDateTime: 2020-11-17T12:20:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/hopsworks-feature-store-now-available-for-microsoft-azure-1029810276"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/Hopsworks-Feature-Store-Now-Available-for-Microsoft-Azure-1029810276"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/Hopsworks-Feature-Store-Now-Available-for-Microsoft-Azure-1029810276"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 77
   - title: "How to improve security and visibility of Amazon Web Services, Microsoft Azure, and Google Cloud Platform"
     excerpt: "Cloud Platforms like Amazon Web Services, Microsoft Azure, and Google Cloud Platform have introduced a new level of flexibility and scalability for enterprises, but they have also introduced new ..."
     publishedDateTime: 2020-11-16T16:03:00Z
@@ -137,6 +148,15 @@ related:
     provider:
       name: Telecompaper
       domain: telecompaper.com
+    quality: 17
+  - title: "StoneFly Inc. Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Microsoft Azure customers worldwide now gain access to StoneFly cloud storage to take advantage of the scalability, reliability, and agility of Azure to drive application development and shape business strategies."
+    publishedDateTime: 2020-11-20T08:03:00Z
+    webUrl: "https://www.pr.com/press-release/825650"
+    type: article
+    provider:
+      name: PR
+      domain: pr.com
     quality: 17
 
 secured: "i4bn3v9Q1ch5eRhqu24GBzJ1juivr1xNILILMnJWup5Lmr4+wkFTpIyOE2EdNPb/w0Bd1/Lp6uS7EuDARLK29RDh5h9a1h5yNtQm3ppNLJ0zDfeBK04wRIthyebbYo8AIGfoX/7glSu78itmCdx7iLHUVL5HspgwKNN4Dy+Jy5rmHLjgx8Y8xcRKfEILv8JSLXvjtW8nOVZXYs9bJ16YvTJoh5puXai991Xl5MTlvQMI0NIzqBJkxa0CBHffaXGoPC7X0b/6tflbWrBxKkTNQAPhYsJ0wpvZpDnU8R/7VzVzTiXDqk1F2INRvuHpZ2Z0OE0YzYaBprMdMoPxpxKW/49XB1tcye3rSP9y0YPJhBQ=;PbLFYoJBkbxmNUGOWXHlxw=="

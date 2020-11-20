@@ -109,6 +109,20 @@ related:
         width: 920
         height: 470
         isCached: true
+  - title: "Red Box Delivers Cloud Configurable Voice Recording to Fuel AI on Microsoft Azure"
+    excerpt: "Canada NewsWire LONDON and NEW YORK, Nov. 20, 2020 LONDON and NEW YORK, Nov. 20, 2020 /CNW/ -- Re"
+    publishedDateTime: 2020-11-20T12:08:00Z
+    webUrl: "https://www.bloomberg.com/press-releases/2020-11-20/red-box-delivers-cloud-configurable-voice-recording-to-fuel-ai-on-microsoft-azure"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 89
+    images:
+      - url: "https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Microsoft partners with the industry to unlock new 5G scenarios with Azure Edge Zones"
     excerpt: "Cloud, edge computing, and IoT are making strides to transform whole industries and create opportunities that weren't possible just a few years ago. With the rise of 5G mobile connectivity, there are even more possibilities to deliver immersive, real-time experiences that have demanding, ultra-low latency,"
     publishedDateTime: 2020-03-31T08:00:10Z

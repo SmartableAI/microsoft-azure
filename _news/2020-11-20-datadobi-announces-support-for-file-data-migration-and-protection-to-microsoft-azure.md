@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Datadobi Announces Support for File Data Migration and Protection to Microsoft Azure"
-excerpt: "Using Datadobi software, enterprises get the best of both worlds by allowing them the flexibility to keep their NAS file data either in their data center, in Azure, or both. And because Datadobi documents ‘chain of custody,"
-publishedDateTime: 2020-11-19T14:57:00Z
-originalUrl: "https://www.businesswire.com/news/home/20201119005097/en/Datadobi-Announces-Support-for-File-Data-Migration-and-Protection-to-Microsoft-Azure"
-webUrl: "https://www.businesswire.com/news/home/20201119005097/en/Datadobi-Announces-Support-for-File-Data-Migration-and-Protection-to-Microsoft-Azure"
+excerpt: "Datadobi, a global leader in unstructured data management software, has today announced support for file data migration to and protection on Microsoft Azure. Adding this new capability means enterprise customers have another option to migrate and protect their NAS file data to the cloud,"
+publishedDateTime: 2020-11-19T17:00:00Z
+originalUrl: "https://www.businesswire.com/news/home/20201119005097/en/"
+webUrl: "https://www.businesswire.com/news/home/20201119005097/en/"
 type: article
 quality: 47
 heat: -1
@@ -42,9 +42,9 @@ related:
         height: 450
         isCached: true
   - title: "Datadobi Announces Support for File Data Migration and Protection to Microsoft Azure"
-    excerpt: "Datadobi, a global leader in unstructured data management software, has today announced support for file data migration to and protection on Microsoft Azure. Adding this new capability means enterprise customers have another option to migrate and protect their NAS file data to the cloud,"
-    publishedDateTime: 2020-11-19T17:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20201119005097/en/"
+    excerpt: "Using Datadobi software, enterprises get the best of both worlds by allowing them the flexibility to keep their NAS file data either in their data center, in Azure, or both. And because Datadobi documents ‘chain of custody,"
+    publishedDateTime: 2020-11-19T14:57:00Z
+    webUrl: "https://www.businesswire.com/news/home/20201119005097/en/Datadobi-Announces-Support-for-File-Data-Migration-and-Protection-to-Microsoft-Azure"
     type: article
     provider:
       name: Business Wire
@@ -67,6 +67,6 @@ related:
       domain: openpr.com
     quality: 14
 
-secured: "ypoKRh016snDKaSN6MO3kMxp7L9UGjwSTLtbT/jOjN9mxUwSG4CRhOlDQqJJq5VREM1Ao6ldDG/JxYj9X5eIe7GWeMlNxtq8/kJUKNzQMRgNGJ5NA2f6KaKjmftVYfKjbgmp8p4tOdwfoTn3ujQQn5ro39vRkpo3vYbOOMGgImIkY6/pBnK7hA5/zn8Lrc/2Kddv7533IpzYwtM2OnPyGoe7W1jzRVPel6ogyUlnBLMMVgMEu5CDQTXMor/7k4wrBkUTz0WfpVIltvyEuS316tG+aUEwoj6YYwRPQbBub28/F2d3sLMuMlNwcv6YMOu4OR/A6vaZP7mERSX1caXMMoNJIvKlbSz8RlQqVUhx+pM=;cUmUFU3GOKOxO/cV6zz8Pg=="
+secured: "hZ2MlHTyd/67WjJDhGdH0mEX883QQvlX3LT6U62ie7OLElqHyzmuJJ0IopjMzX2qJ6U1CCUIyig3zF3L4iKixv+EzRqUeuiQFWD6O5HyDTYQ6wAc8LTTYzNBmLB4Y+VqzcXNxJkc7CuaKW35AHcxFcTqAPwTweHBKZFjhm6+T3Z6YP6vtweikEkHvVm8fXPxW3p4AYaSQ8Wf9SlYUikvltn8A1cRvcVBqupy52KJU6ZkWv4TxMH8Vq4dZKgjgt1nmU1hJ/cFEMwkpxUOMAIpiVP9vdOqgx+DLlM435pQG0Hr+3DU8+jthYTrpCcUGkVegdOQs+1TrWtSHsYUfE0Hd/oI4rEeTLEDG7Pdg040A8s=;WX3mS4pog7F9y8spHGPt2Q=="
 ---
 

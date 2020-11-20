@@ -29,6 +29,17 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 94
+  - title: "Hopsworks Feature Store Now Available for Microsoft Azure"
+    excerpt: "Logical Clocks, the data company behind the world’s first Enterprise Feature Store for Machine Learning, today announced full support for Microsoft Azure on its cloud managed data platform, Hopsworks."
+    publishedDateTime: 2020-11-17T12:20:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/hopsworks-feature-store-now-available-for-microsoft-azure-1029810276"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/Hopsworks-Feature-Store-Now-Available-for-Microsoft-Azure-1029810276"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/Hopsworks-Feature-Store-Now-Available-for-Microsoft-Azure-1029810276"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 77
   - title: "How to improve security and visibility of Amazon Web Services, Microsoft Azure, and Google Cloud Platform"
     excerpt: "Cloud Platforms like Amazon Web Services, Microsoft Azure, and Google Cloud Platform have introduced a new level of flexibility and scalability for enterprises, but they have also introduced new ..."
     publishedDateTime: 2020-11-16T16:03:00Z
@@ -132,6 +143,15 @@ related:
     provider:
       name: Telecompaper
       domain: telecompaper.com
+    quality: 17
+  - title: "StoneFly Inc. Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Microsoft Azure customers worldwide now gain access to StoneFly cloud storage to take advantage of the scalability, reliability, and agility of Azure to drive application development and shape business strategies."
+    publishedDateTime: 2020-11-20T08:03:00Z
+    webUrl: "https://www.pr.com/press-release/825650"
+    type: article
+    provider:
+      name: PR
+      domain: pr.com
     quality: 17
 
 secured: "NrtpKU4h+YexnxROIXrB6Vg582DB+ZBS2wOkYcdnqKBLwIJ8RkEfYBFIDWJCear7mmvshm1TxbEb7CgqVDRA3JhgAE1sAtryh1JSavv+hq+NatSd61ioQXiv15hwqUJbfDME+JRaElHXibrhaWDZ8f16tfefujXsWkII8NotRill7P4qjOq7aG75b4kR4WLwF0LD7ILdldTg3TTp1mg8bkYcTqj7BbtEh6aFeWVc2FNlw/KYfiArI5jPjsLFMOyD7Zg9V2/sFElUijpSuczQ1dhZYb2N6kltOLHDObLF7s2Hf0K2DHF7A9O6+vzI5APyyVF+ieNqJ/UfpkOc0rdOxfPHhALZzL9k/ttrSwr61JQcfVyceUnZ82gMCdngynlSMl1HNMXPtRC64IHLwBTcJNBLYNQ4imFTmdmhuf3rTBuhR9Vu8Zb4znkiRvVGygUyg6h8g35kfzb5i4ZaYB1GEtOBad4ugROlLfO1c4+JnPVk2nOKxmw0YV1LFmOiBUi46YzsYk5cc1PnmSqZO8jW4Q==;gfmrh2VYKgk4ofH5u7JbFw=="

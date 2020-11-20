@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/nodejs-14-for-azure-func
 webUrl: "https://azure.microsoft.com/en-us/updates/nodejs-14-for-azure-functions-is-now-available-in-preview/"
 type: article
 quality: 84
-heat: 204
+heat: 205
 published: true
 
 provider:
