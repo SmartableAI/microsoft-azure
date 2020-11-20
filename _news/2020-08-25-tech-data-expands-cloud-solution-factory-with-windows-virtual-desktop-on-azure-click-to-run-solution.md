@@ -7,7 +7,7 @@ originalUrl: "https://www.helpnetsecurity.com/2020/08/25/tech-data-windows-azure
 webUrl: "https://www.helpnetsecurity.com/2020/08/25/tech-data-windows-azure/"
 type: article
 quality: 22
-heat: 22
+heat: 42
 published: false
 
 provider:
