@@ -1,20 +1,28 @@
 ---
 category: news
-title: "Microsoft Becoming NBA's Official AI Partner"
-excerpt: "Microsoft and NBA Digital -- co-managed by the NBA and Turner Sports -- will create a new, innovative direct-to-consumer platform on Microsoft Azure that will use machine learning and AI to deliver next-gen, personalized game broadcasts and other content, and integrate the NBA's various products and services. Microsoft will look to re-imagine ..."
-publishedDateTime: 2020-04-18T03:39:00Z
-webUrl: "https://www.sportsbusinessdaily.com/SB-Blogs/Breaking-News/2020/04/NBA-Microsoft.aspx"
+title: "Red Box Delivers Cloud Configurable Voice Recording to Fuel AI on Microsoft Azure"
+excerpt: "Red Box, a leading platform for voice, today announces an extension of its relationship with Microsoft aligned to the launch of Conversa,"
+publishedDateTime: 2020-11-20T16:00:00Z
+originalUrl: "https://www.prnewswire.com/in/news-releases/red-box-delivers-cloud-configurable-voice-recording-to-fuel-ai-on-microsoft-azure-837380805.html"
+webUrl: "https://www.prnewswire.com/in/news-releases/red-box-delivers-cloud-configurable-voice-recording-to-fuel-ai-on-microsoft-azure-837380805.html"
 type: article
-quality: 2
+quality: 49
 heat: -1
 published: false
 
 provider:
-  name: SportsBusiness Daily
-  domain: sportsbusinessdaily.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Azure
+  - AI
+
+images:
+  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+    width: 600
+    height: 315
+    isCached: true
 
 related:
   - title: "Extending the power of Azure AI to Microsoft 365 users"
@@ -275,20 +283,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 49
-  - title: "Red Box Delivers Cloud Configurable Voice Recording to Fuel AI on Microsoft Azure"
-    excerpt: "Red Box, a leading platform for voice, today announces an extension of its relationship with Microsoft aligned to the launch of Conversa,"
-    publishedDateTime: 2020-11-20T16:00:00Z
-    webUrl: "https://www.prnewswire.com/in/news-releases/red-box-delivers-cloud-configurable-voice-recording-to-fuel-ai-on-microsoft-azure-837380805.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 49
-    images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
-        isCached: true
   - title: "Microsoft Azure Sphere Security Overview"
     excerpt: "Microsoft, using its decades of experience in hardware, software, and cloud, with Azure Sphere, aims to provide security solutions for IoT devices. Another critical reason to be concerned about IoT data is its integration and management with numerous ..."
     publishedDateTime: 2020-04-01T18:33:00Z
@@ -513,6 +507,15 @@ related:
         width: 2695
         height: 1414
         isCached: true
+  - title: "Microsoft Becoming NBA's Official AI Partner"
+    excerpt: "Microsoft and NBA Digital -- co-managed by the NBA and Turner Sports -- will create a new, innovative direct-to-consumer platform on Microsoft Azure that will use machine learning and AI to deliver next-gen, personalized game broadcasts and other content, and integrate the NBA's various products and services. Microsoft will look to re-imagine ..."
+    publishedDateTime: 2020-04-18T03:39:00Z
+    webUrl: "https://www.sportsbusinessdaily.com/SB-Blogs/Breaking-News/2020/04/NBA-Microsoft.aspx"
+    type: article
+    provider:
+      name: SportsBusiness Daily
+      domain: sportsbusinessdaily.com
+    quality: 2
   - title: "C3.ai picks Microsoft Dynamics 365, Teams to power next phase of growth"
     excerpt: "AI software provider C3.ai said it plans to enhance its customer experience and elevate sales performance using intelligent cloud technology from Microsoft. C3.ai adopted and deployed Dynamics 365 Sales and Microsoft Teams in less than two weeks to help streamline sales operations,"
     publishedDateTime: 2020-04-28T07:55:00Z
@@ -523,6 +526,6 @@ related:
       domain: telecompaper.com
     quality: 2
 
-secured: "eqo3qMkecWdaHW7XcRTr+dyUU9Ljp+JDyq9cwO7BHHcSebtQT1PpY8NhawFZF0LaNUADs8JvpkOXaCD5D19b5MKJ35FA5wvzRC9ig+3Uwm/J/jtVuNsgyQ/qZ5zqAW6GzHyFf1WvCmiibbGNOAVcZGnU9xCYpaO2kqrwyrIpVKfKYtr1IBEa4JIJShI4NJ2GcqZFmGlWwD9B643aYAsK0PIPuSln9ac+GV8bTAcqPQxsVTwedyu7dLg+DchRr/vQrGn2jL2NpuB0QGYIzKxPByIrQV8e6UlVEO9ouZ15lrml6z+FE11jWFYY1WfFCPFD;XbjrdCN8so/1/zNFAcSEyw=="
+secured: "v9/9IIO3Muu4CfttH0wei0CbLuNawFhx/fx97nrDA8nh5PXkEo7QndUEaPfO6Y0X39OVQR0r4b4rkRgV2iWvVRIBq0qTtG7kfHxsMueOSC5OuTQVJcZX7HBUfxAHMYJsPyRHN60soazdtBk3FuWxqRGIn8ah/7PyrHcIluoIDUGcLeUGVRz/0oJixYspWXT21q4iA3DllOgPeUHcz61Nc85kArnyGCRS7AgdLti/ZBd50sDCkRD7ZVUnW/alp0d8brSapWbI0oHR8LIEhxl08Q2o8g3+3YUMnLurWUbQRlQVT4WIxJ29qH//o7E9MZFV+me4DBjvS/osftnGz/NDZJMNAVeJ8fetSlUJjA3uoio=;8CB1owU0J095d2lEhWGNcA=="
 ---
 

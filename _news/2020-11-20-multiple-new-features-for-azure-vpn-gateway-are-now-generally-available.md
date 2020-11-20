@@ -1,12 +1,12 @@
 ---
 category: news
-title: "Azure Hybrid Benefit -- Linux Preview"
-excerpt: "Azure Hybrid Benefit - Linux provides convenience and agility for customers who use Red Hat Enterprise Linux and SUSE Linux Enterprise Server with a valid subscription. Customers can use existing Linux subscriptions for easy cloud adoption without the need to reboot their production environment and enjoy"
-publishedDateTime: 2020-09-22T16:00:00Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/azure-hybrid-benefit-linux-preview/"
-webUrl: "https://azure.microsoft.com/en-us/updates/azure-hybrid-benefit-linux-preview/"
+title: "Multiple new features for Azure VPN Gateway are now generally available"
+excerpt: "Take advantage of multiple new enhancements and features that are now generally available in Azure VPN Gateway."
+publishedDateTime: 2020-11-20T16:45:06Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/multiple-new-features-for-azure-vpn-gateway-are-now-generally-available/"
+webUrl: "https://azure.microsoft.com/en-us/updates/multiple-new-features-for-azure-vpn-gateway-are-now-generally-available/"
 type: article
-quality: 67
+quality: 84
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - Azure
+  - Networking
 
 related:
   - title: "Azure Hybrid Benefit now generally available for Linux"
@@ -36,15 +37,15 @@ related:
         width: 724
         height: 409
         isCached: true
-  - title: "Multiple new features for Azure VPN Gateway are now generally available"
-    excerpt: "Take advantage of multiple new enhancements and features that are now generally available in Azure VPN Gateway."
-    publishedDateTime: 2020-11-20T16:45:06Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/multiple-new-features-for-azure-vpn-gateway-are-now-generally-available/"
+  - title: "Azure Hybrid Benefit -- Linux Preview"
+    excerpt: "Azure Hybrid Benefit - Linux provides convenience and agility for customers who use Red Hat Enterprise Linux and SUSE Linux Enterprise Server with a valid subscription. Customers can use existing Linux subscriptions for easy cloud adoption without the need to reboot their production environment and enjoy"
+    publishedDateTime: 2020-09-22T16:00:00Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-hybrid-benefit-linux-preview/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 84
+    quality: 67
   - title: "Azure Shared Image Gallery--New features are now generally available"
     excerpt: "Shared Image Gallery introduces new features to copy image versions, use disks or VMs to create image versions, and export a managed from an image version."
     publishedDateTime: 2020-11-20T16:00:06Z
@@ -91,6 +92,6 @@ related:
       domain: microsoft.com
     quality: 17
 
-secured: "MfdHyzdmrkqdllhfrKUuFkZRi1tEjDQ6QrHrN6nfBIm9N8PTzV64zHZXwfC4gWMa2+dGajoXuK0nRfamPOwOOipr5V+TJynAtAtoNj4WL+u2nAztPJBLpTh74ffTlFo0PawuadKnT9/03HzCXFPIVPUn7ImTsV3OuW4hhOq5CSSR8UHJR6ZC1NM57MLA5S3n+L6ueqaAa4gTW6q9qdbjnD+ssdiX4hHA1QCsiSnVW5mb+O3oX4AWCfpTMDtE+304kYwn59mJteMlosBNwmCddg4btTINkHImHo4/d26x6YQt+2yImM61kHIAJj62tBF8LLKesxKq6TK2r1YWgXqgIk+AQ+TH6x+fkwxMTEG6Zj0=;C0UNrpPCuLWEJW2pWvHUEA=="
+secured: "/AxawLpqHRqWuLtTyC3IF+L3WHSs6kCR9twDCbQIowE1YjW8LKEZfBYPL1iooVHpHiZRztxuX9QgXWF6Po0/MYj1c2OXTC0urtH9WQJrbKO0+Y8X8bZWXMSKpCcbQr4vE6gBg0SMkDfGcnSX7QcZ2jhJSVAZ2El9dEzneytidV/Oc2rvQUkL0wolGOrP+sR7SLbIXglLRBKjvQy53A2cm/zQSc8DAnKMR03lwni23iW0Ia3uMzFYxDk4HGwAk/ED0pYZBV8hlR8TMHVay3AZkOues3bXfqXRyzIuwmwEMieeQu8N9kgecWN0jjGhNZRs+v5SAea0VPjYzbpwq2M2tI6ZjtsUCzG3tqH8RIXIb78=;n6IqPeH/GqZUsmtyMfsgQQ=="
 ---
 

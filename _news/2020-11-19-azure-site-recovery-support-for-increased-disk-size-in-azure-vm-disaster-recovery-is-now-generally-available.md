@@ -37,10 +37,28 @@ related:
         width: 724
         height: 409
         isCached: true
+  - title: "Multiple new features for Azure VPN Gateway are now generally available"
+    excerpt: "Take advantage of multiple new enhancements and features that are now generally available in Azure VPN Gateway."
+    publishedDateTime: 2020-11-20T16:45:06Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/multiple-new-features-for-azure-vpn-gateway-are-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
   - title: "Azure Hybrid Benefit -- Linux Preview"
     excerpt: "Azure Hybrid Benefit - Linux provides convenience and agility for customers who use Red Hat Enterprise Linux and SUSE Linux Enterprise Server with a valid subscription. Customers can use existing Linux subscriptions for easy cloud adoption without the need to reboot their production environment and enjoy"
     publishedDateTime: 2020-09-22T16:00:00Z
     webUrl: "https://azure.microsoft.com/en-us/updates/azure-hybrid-benefit-linux-preview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
+  - title: "Azure Shared Image Gallery--New features are now generally available"
+    excerpt: "Shared Image Gallery introduces new features to copy image versions, use disks or VMs to create image versions, and export a managed from an image version."
+    publishedDateTime: 2020-11-20T16:00:06Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/shared-image-gallery-nov2020-features/"
     type: article
     provider:
       name: Microsoft

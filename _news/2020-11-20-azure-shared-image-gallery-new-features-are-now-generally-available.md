@@ -1,10 +1,10 @@
 ---
 category: news
-title: "Azure Hybrid Benefit -- Linux Preview"
-excerpt: "Azure Hybrid Benefit - Linux provides convenience and agility for customers who use Red Hat Enterprise Linux and SUSE Linux Enterprise Server with a valid subscription. Customers can use existing Linux subscriptions for easy cloud adoption without the need to reboot their production environment and enjoy"
-publishedDateTime: 2020-09-22T16:00:00Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/azure-hybrid-benefit-linux-preview/"
-webUrl: "https://azure.microsoft.com/en-us/updates/azure-hybrid-benefit-linux-preview/"
+title: "Azure Shared Image Gallery--New features are now generally available"
+excerpt: "Shared Image Gallery introduces new features to copy image versions, use disks or VMs to create image versions, and export a managed from an image version."
+publishedDateTime: 2020-11-20T16:00:06Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/shared-image-gallery-nov2020-features/"
+webUrl: "https://azure.microsoft.com/en-us/updates/shared-image-gallery-nov2020-features/"
 type: article
 quality: 67
 heat: -1
@@ -45,10 +45,10 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 84
-  - title: "Azure Shared Image Gallery--New features are now generally available"
-    excerpt: "Shared Image Gallery introduces new features to copy image versions, use disks or VMs to create image versions, and export a managed from an image version."
-    publishedDateTime: 2020-11-20T16:00:06Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/shared-image-gallery-nov2020-features/"
+  - title: "Azure Hybrid Benefit -- Linux Preview"
+    excerpt: "Azure Hybrid Benefit - Linux provides convenience and agility for customers who use Red Hat Enterprise Linux and SUSE Linux Enterprise Server with a valid subscription. Customers can use existing Linux subscriptions for easy cloud adoption without the need to reboot their production environment and enjoy"
+    publishedDateTime: 2020-09-22T16:00:00Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-hybrid-benefit-linux-preview/"
     type: article
     provider:
       name: Microsoft
@@ -91,6 +91,6 @@ related:
       domain: microsoft.com
     quality: 17
 
-secured: "MfdHyzdmrkqdllhfrKUuFkZRi1tEjDQ6QrHrN6nfBIm9N8PTzV64zHZXwfC4gWMa2+dGajoXuK0nRfamPOwOOipr5V+TJynAtAtoNj4WL+u2nAztPJBLpTh74ffTlFo0PawuadKnT9/03HzCXFPIVPUn7ImTsV3OuW4hhOq5CSSR8UHJR6ZC1NM57MLA5S3n+L6ueqaAa4gTW6q9qdbjnD+ssdiX4hHA1QCsiSnVW5mb+O3oX4AWCfpTMDtE+304kYwn59mJteMlosBNwmCddg4btTINkHImHo4/d26x6YQt+2yImM61kHIAJj62tBF8LLKesxKq6TK2r1YWgXqgIk+AQ+TH6x+fkwxMTEG6Zj0=;C0UNrpPCuLWEJW2pWvHUEA=="
+secured: "nqgD1UwF5bXqlXxUU5lpRHzg099i1C95q8HBUS8937rA/8RB435ChNOwD9W29qdMJhZLykcvvROLpehXOVJ2SEHDyNbpotDjZXwWATjNWI21r4VFkhpzSgwYr1y1mO9Dsp3k2BpC0Fgy8U8Z2TOcZ4bu6KEONlDN18YGU1QIKOp3CxjMxWea5aWQbABcgutgKmLFG9bXki6nke/go4ey8HUpMMjUeDXSSnPQTEjct7NyKkLCNHEw6syL7nOxNGZP/rJH/xHK8OJBXmjdTmWTOJNyYvpg+51E4V7Zz/JawtRFAwMKmCUtR8Emba2slYzPUxcKlG9Qz2bVZTkoBoPqSEQEFMvMS7syk5nEsIAOLAU=;PGOiYauyB2YQlHesS2kQ+Q=="
 ---
 

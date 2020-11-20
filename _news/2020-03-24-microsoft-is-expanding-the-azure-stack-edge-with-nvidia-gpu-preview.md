@@ -109,20 +109,6 @@ related:
         width: 920
         height: 470
         isCached: true
-  - title: "Red Box Delivers Cloud Configurable Voice Recording to Fuel AI on Microsoft Azure"
-    excerpt: "Canada NewsWire LONDON and NEW YORK, Nov. 20, 2020 LONDON and NEW YORK, Nov. 20, 2020 /CNW/ -- Re"
-    publishedDateTime: 2020-11-20T12:08:00Z
-    webUrl: "https://www.bloomberg.com/press-releases/2020-11-20/red-box-delivers-cloud-configurable-voice-recording-to-fuel-ai-on-microsoft-azure"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 89
-    images:
-      - url: "https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Microsoft partners with the industry to unlock new 5G scenarios with Azure Edge Zones"
     excerpt: "Cloud, edge computing, and IoT are making strides to transform whole industries and create opportunities that weren't possible just a few years ago. With the rise of 5G mobile connectivity, there are even more possibilities to deliver immersive, real-time experiences that have demanding, ultra-low latency,"
     publishedDateTime: 2020-03-31T08:00:10Z
@@ -278,6 +264,31 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 56
+  - title: "Red Box Delivers Cloud Configurable Voice Recording to Fuel AI on Microsoft Azure"
+    excerpt: "Red Box, a leading platform for voice, today announces an extension of its relationship with Microsoft aligned to the launch"
+    publishedDateTime: 2020-11-20T14:49:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/11/n18462780/red-box-delivers-cloud-configurable-voice-recording-to-fuel-ai-on-microsoft-azure"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/18462780"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18462780"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 49
+  - title: "Red Box Delivers Cloud Configurable Voice Recording to Fuel AI on Microsoft Azure"
+    excerpt: "Red Box, a leading platform for voice, today announces an extension of its relationship with Microsoft aligned to the launch of Conversa,"
+    publishedDateTime: 2020-11-20T16:00:00Z
+    webUrl: "https://www.prnewswire.com/in/news-releases/red-box-delivers-cloud-configurable-voice-recording-to-fuel-ai-on-microsoft-azure-837380805.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 49
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
+        isCached: true
   - title: "Microsoft Azure Sphere Security Overview"
     excerpt: "Microsoft, using its decades of experience in hardware, software, and cloud, with Azure Sphere, aims to provide security solutions for IoT devices. Another critical reason to be concerned about IoT data is its integration and management with numerous ..."
     publishedDateTime: 2020-04-01T18:33:00Z
