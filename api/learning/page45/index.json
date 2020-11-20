@@ -4,121 +4,6 @@
   "page": 45,
   "value": [
     {
-      "path": "_learning/videos/microsoft-overview-of-designing-with-azure-maps-azure-friday.md",
-      "title": "Overview of designing with Azure Maps | Azure Friday",
-      "excerpt": "Azure Maps were designed with the cloud customer in mind. Learn about the cartography design process as well as the robust data behind the curtains.   For more information:  • Azure Maps (sample) https://aka.ms/azfr/413/01  • Azure Maps product page https://aka.ms/azfr/413/02  • Azure Maps pricing page",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-overview-of-designing-with-azure-maps-azure-friday/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-overview-of-designing-with-azure-maps-azure-friday/",
-      "originalUrl": "https://youtube.com/watch?v=TamjamO7-I8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/TamjamO7-I8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT10M33S",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2018-07-16T08:48:20-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/TamjamO7-I8/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_learning/videos/microsoft-overview-of-service-fabric-azure-friday-at-build-2018.md",
-      "title": "Overview of Service Fabric | Azure Friday at Build 2018",
-      "excerpt": "Azure Friday visited various Microsoft booths in the Expo Hall at Build 2018 to learn what's new. In this episode, Scott Hanselman gets an update on Azure Service Fabric from Matthew Snider.  For more information, see:  • Azure Service Fabric https://aka.ms/azfr/421/01  • Service Fabric Mesh preview",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-overview-of-service-fabric-azure-friday-at-build-2018/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-overview-of-service-fabric-azure-friday-at-build-2018/",
-      "originalUrl": "https://youtube.com/watch?v=qVzqi7VyzI8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/qVzqi7VyzI8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M24S",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2018-07-16T08:51:11-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/qVzqi7VyzI8/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_learning/videos/microsoft-powershell-in-azure-cloud-shell-ga-azure-friday.md",
-      "title": "PowerShell in Azure Cloud Shell GA | Azure Friday",
-      "excerpt": "Danny Maertens and Scott Hanselman discuss updates made to PowerShell in Azure Cloud Shell. Learn about PowerShell Core in Linux, new Azure VM remoting cmdlets, and integration with Exchange. [00:43]  Demo Start   Azure Cloud Shell documentation https://aka.ms/azfr/490/01  Quickstart for PowerShell in",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-powershell-in-azure-cloud-shell-ga-azure-friday/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-powershell-in-azure-cloud-shell-ga-azure-friday/",
-      "originalUrl": "https://youtube.com/watch?v=1LT4cjeP-28",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/1LT4cjeP-28\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT16M11S",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2019-02-27T16:56:43-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/1LT4cjeP-28/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Management tools"
-      ]
-    },
-    {
       "path": "_learning/videos/microsoft-preview-of-availability-zones-for-your-kubernetes-cluster-in-azure-azure-friday.md",
       "title": "Preview of Availability Zones for your Kubernetes cluster in Azure | Azure Friday",
       "excerpt": "Justin Luk joins Scott Hanselman to discuss AKS preview features and enabling new functionality like Virtual Machine Scale Set node pools and Availability Zones. Availability Zones (AZ) is a high availability offering from Azure that protects applications and data from datacenter failures. By using AZ",
@@ -344,6 +229,45 @@
       ]
     },
     {
+      "path": "_learning/videos/microsoft-quickly-build-data-integration-pipelines-using-templates-in-azure-data-factory-azure-friday.md",
+      "title": "Quickly build data integration pipelines using templates in Azure Data Factory | Azure Friday",
+      "excerpt": "Gaurav Malhotra joins Lara Rubbelke to show how to use predefined Azure Data Factory pipeline templates to get started quickly with Azure Data Factory thereby reducing the development time for building data integration projects. [00:58] Demo Start   #azure #azuredatafactory #bigdata  00:01:00 How to",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-quickly-build-data-integration-pipelines-using-templates-in-azure-data-factory-azure-friday/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-quickly-build-data-integration-pipelines-using-templates-in-azure-data-factory-azure-friday/",
+      "originalUrl": "https://youtube.com/watch?v=X4daOsPDux8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/X4daOsPDux8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT10M10S",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2019-02-27T17:00:24-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/X4daOsPDux8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Integration"
+      ]
+    },
+    {
       "path": "_learning/videos/microsoft-rerun-activities-inside-your-azure-data-factory-pipelines-azure-friday.md",
       "title": "Rerun activities inside your Azure Data Factory pipelines | Azure Friday",
       "excerpt": "Data integration is complex with many moving parts. It helps organizations to combine data and complex business processes in hybrid data environments. Failures are very common in data integration workflows. This can happen due to data not arriving on time, functional code issues in your pipelines, infrastructure",
@@ -494,45 +418,6 @@
       "price": "Free",
       "topics": [
         "Azure"
-      ]
-    },
-    {
-      "path": "_learning/videos/microsoft-secure-traffic-between-pods-using-network-policies-in-azure-kubernetes-service-aks-azure-friday.md",
-      "title": "Secure traffic between pods using network policies in Azure Kubernetes Service (AKS) | Azure Friday",
-      "excerpt": "Did you know that by default, all pods in a Kubernetes cluster will accept traffic from any source? Now, with network policies available out-of-the-box in Azure Kubernetes Service you can isolate pods, control egress & ingress traffic, and secure your workloads. Saurya Das is here to show us how it works.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-secure-traffic-between-pods-using-network-policies-in-azure-kubernetes-service-aks-azure-friday/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-secure-traffic-between-pods-using-network-policies-in-azure-kubernetes-service-aks-azure-friday/",
-      "originalUrl": "https://youtube.com/watch?v=131_TIa_ftI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/131_TIa_ftI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT10M24S",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2019-07-12T10:22:31-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/131_TIa_ftI/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Containers"
       ]
     },
     {
@@ -730,6 +615,45 @@
       "topics": [
         "Azure",
         "Analytics"
+      ]
+    },
+    {
+      "path": "_learning/videos/microsoft-testing-in-production-with-azure-app-service-azure-friday.md",
+      "title": "Testing in production with Azure App Service | Azure Friday",
+      "excerpt": "Byron Tardif joins Scott Hanselman to show how to leverage Azure App Service features to empower your DevOps to achieve sophisticated scenarios like testing in production using deployment slots with just a few clicks.  Azure App Service overview https://aka.ms/azfr/565/01  Set up staging environments",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-testing-in-production-with-azure-app-service-azure-friday/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-testing-in-production-with-azure-app-service-azure-friday/",
+      "originalUrl": "https://youtube.com/watch?v=MP8fXgxq6xo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/MP8fXgxq6xo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT14M36S",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2019-08-09T00:04:45-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/MP8fXgxq6xo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Compute"
       ]
     },
     {
@@ -961,44 +885,6 @@
       ]
     },
     {
-      "path": "_learning/videos/microsoft-troubleshoot-and-diagnose-azure-virtual-machines-with-serial-console-azure-friday.md",
-      "title": "Troubleshoot and diagnose Azure Virtual Machines with Serial Console | Azure Friday",
-      "excerpt": "Alfred Sin joins Donovan Brown to discuss the Azure Serial Console, which is now generally available in all public clouds. Serial console enables you to use an interactive shell in situations where you may be unable to SSH or RDP into your VM, which make it super-easy for troubleshooting and self-serve",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-troubleshoot-and-diagnose-azure-virtual-machines-with-serial-console-azure-friday/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-troubleshoot-and-diagnose-azure-virtual-machines-with-serial-console-azure-friday/",
-      "originalUrl": "https://youtube.com/watch?v=KxKZW3VAcU4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/KxKZW3VAcU4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT12M41S",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2019-02-27T16:56:05-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/KxKZW3VAcU4/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
       "path": "_learning/videos/microsoft-troubleshoot-resource-property-changes-using-change-history-in-azure-policy-azure-friday.md",
       "title": "Troubleshoot resource property changes using Change History in Azure Policy | Azure Friday",
       "excerpt": "Jenny Hunter joins Donovan to showcase a new integration inside Azure Policy that enables you to see recent changes to the properties for non-compliant Azure resources. Public preview of the Resource Change History API is also now available. [00:40] Demo Start   Determine causes of non-compliance: Change",
@@ -1139,6 +1025,122 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/brhxU_kt2HI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Containers"
+      ]
+    },
+    {
+      "path": "_learning/videos/microsoft-using-and-maintaining-a-kubernetes-cluster-in-azure-azure-friday.md",
+      "title": "Using and maintaining a Kubernetes cluster in Azure | Azure Friday",
+      "excerpt": "Brendan Burns (Partner Architect, at Microsoft & Kubernetes co-founder) returns to Azure Friday to chat with Scott Hanselman about using and maintaining a Kubernetes cluster in Azure Container Service (currently in Preview) using the Kubernetes command line tool (kubectl). Learn how to harness the public",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-using-and-maintaining-a-kubernetes-cluster-in-azure-azure-friday/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-using-and-maintaining-a-kubernetes-cluster-in-azure-azure-friday/",
+      "originalUrl": "https://youtube.com/watch?v=a-uTuwGrLu0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/a-uTuwGrLu0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT11M21S",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2017-07-31T12:49:24-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/a-uTuwGrLu0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Containers"
+      ]
+    },
+    {
+      "path": "_learning/videos/microsoft-using-api-server-authorized-ip-ranges-to-secure-your-cluster-azure-friday.md",
+      "title": "Using API server authorized IP ranges to secure your cluster | Azure Friday",
+      "excerpt": "In Kubernetes, the API server is the central way to interact and manage the cluster. To improve cluster security in Azure Kubernetes Server, Ruchika Gupta shows Scott Hanselman how you can restrict access to the API server to a limited set of IP address ranges.  2:23 - Demo  Secure access to the API",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-using-api-server-authorized-ip-ranges-to-secure-your-cluster-azure-friday/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-using-api-server-authorized-ip-ranges-to-secure-your-cluster-azure-friday/",
+      "originalUrl": "https://youtube.com/watch?v=zua4vmq7Kss",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/zua4vmq7Kss\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT13M50S",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-02-27T22:51:20-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/zua4vmq7Kss/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
+      "path": "_learning/videos/microsoft-using-hashicorp-consul-to-connect-kubernetes-clusters-on-azure-azure-friday.md",
+      "title": "Using HashiCorp Consul to connect Kubernetes clusters on Azure | Azure Friday",
+      "excerpt": "HashiCorp Consul is a distributed service mesh to connect, secure, and configure services across any runtime platform and public or private cloud. In this episode, Scott Hanselman is joined by HashiCorp's Geoffrey Grossenbach who uses Helm to install a Consul server to Azure Kubernetes Service (AKS)",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-using-hashicorp-consul-to-connect-kubernetes-clusters-on-azure-azure-friday/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-using-hashicorp-consul-to-connect-kubernetes-clusters-on-azure-azure-friday/",
+      "originalUrl": "https://youtube.com/watch?v=Y6mXqn1faFo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Y6mXqn1faFo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT12M5S",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2019-02-27T16:59:20-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Y6mXqn1faFo/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true

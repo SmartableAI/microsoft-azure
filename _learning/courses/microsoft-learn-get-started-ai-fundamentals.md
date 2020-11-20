@@ -6,8 +6,8 @@ type: course
 price: Free
 length: PT27M
 ratings:
-  count: 4290
-  average: 4.734965
+  count: 4291
+  average: 4.735027
 heat: 70
 
 provider:
@@ -31,6 +31,6 @@ images:
     height: 320
     isCached: true
 
-secured: "BKNdJto4Aa+rCwNPAAcdFd2h1DmjOjNu3y+6wjyG2RUigw9YzNFF/Di9F8o1txGINzbLdODWOIQ030HakVfdUIYdFSg+bPSABqD82NvCljr2kUgAt0fJp2+/9Nm4Bh8OUhfeZWuZ2XjC7nsLGVTUsamZj2m1QXX+Mog0veJrBo53xP0Ha6RVwYJhVhPd67fQwBpKai7KpzpEI26o37Yvb6jlDS6kKT/ukhqE7ftrZbLfbahqXW+8WCsa/sBjg756+pQYfcY2TgC5x67dnxaxxNQZSWlvvE8sA0W133gbX9pfZu0DXB+bGzrMBtTkTkRSYuUoEvdfjKinimrzOediVp1jGxShRwyXKElsf4+RHJHZcA8pVIAmCjqlb/ZPyzXbR+ownPYUkZY5tVI+FQc9iXi1OU9FJ/g+SzmwGn4Mr4k=;Ure4CAUyXrSLdArU56bx1A=="
+secured: "G5DrfTllS/RF+9L+1FVofuOlOeAfnrK7p1BHEIvubQ0IQlE8YksZFtFpFH0bhnpwII8K03B32vLE1mOZMVUBDzlfAzqhnoFIKhiWXcTi7++prHUVWs+NoKm/4xmo+Lx+Wf/6NGX+Wpc+ZSKKiy6owNiYUoZ7bWqKVM6Ryhp7BLwmKlX/pp98J8j6+XtHcYFIO2X5G5W7eDSljsPS8pL6T68FiCsQ6MJyYqtTm+W715nZxTBR8O3qm6Mgmi6YP6GCCmi98Pt3LhQER9ZXR508aZAl8xa0P63gE3vm5WujZa9E3jfclusNlCer4b8Svlnf1H8D5tmXTVdTv3UOEyxhIGTWLAZM2Wtg8+BiMxTJd9Z9Z8J57oNrMq8K7bapJSXUol1/+YyyGQDVG2uYcGdVkgG+6Nsq5+ywfM8lvMLCezQ=;ef/gtlumwGrgTc4r7hvptw=="
 ---
 
