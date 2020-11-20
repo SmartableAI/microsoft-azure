@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/use-azure-firewall-for-secure-and
 webUrl: "https://azure.microsoft.com/blog/use-azure-firewall-for-secure-and-cost-effective-windows-virtual-desktop-protection/"
 type: article
 quality: 85
-heat: 105
+heat: 106
 published: true
 
 provider:
