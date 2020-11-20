@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-28T11:00:34Z
 webUrl: "https://azure.microsoft.com/blog/azure-cost-management-updates-january-2020/"
 type: article
 quality: 39
-heat: 39
+heat: 59
 published: false
 
 provider:
