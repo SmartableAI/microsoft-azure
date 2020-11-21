@@ -9,7 +9,7 @@ ampWebUrl: "https://www.sportskeeda.com/amp/esports/how-microsoft-azure-will-pla
 cdnAmpWebUrl: "https://www-sportskeeda-com.cdn.ampproject.org/c/s/www.sportskeeda.com/amp/esports/how-microsoft-azure-will-play-crucial-role-pubg-mobile-s-india-comeback"
 type: article
 quality: 71
-heat: 71
+heat: 91
 published: true
 
 provider:
@@ -25,6 +25,22 @@ images:
     width: 800
     height: 450
     isCached: true
+
+related:
+  - title: "Nerdio Exec On How To Build A Successful Cloud Practice With Microsoft Azure"
+    excerpt: "Nerdio CRO Joseph Landes outlines why it’s worth it for MSPs to think about moving to the cloud with Microsoft Azure. Also, MSP partner Digital Defense Founder and CEO Richard Harber talks about the benefits of teaming with Nerdio as he builds his Azure business."
+    publishedDateTime: 2020-11-21T00:45:00Z
+    webUrl: "https://www.crn.com/news/nerdio-exec-on-how-to-build-a-successful-cloud-practice-with-microsoft-azure"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 34
+    images:
+      - url: "https://www.crn.com/resources/0263-10e71eed4369-254ea3487df4-1000/nerdio_cro_on_3_ways_msps_can_make_money_with_microsoft_azure.jpeg"
+        width: 1280
+        height: 717
+        isCached: true
 
 secured: "v42f+9w7yQvHaub/eee8SfNWl+N7P3d3wUNfLXnLd4Dxw+dnJ76qkSCKaCPykLuY4Yk09PsqR0KygHYlZLF2dV9Xpk+Bp60YZv9+vzwMoXSSo35Dy0p6h07TXG5FN8bk5CWBzUzDUFe3FKAZsNwas4ZpIGwZy7shmJQoEu+zpCbXoJ8aVLpjrC931Ih6eMlFcSgGKKHTxs7jeeKysbyc4LheZNlWF5Z4o0pMSST7CP3M7/vLmlvsUAGqMsObCbOlks4qX8UM/yoZaTHKZegd4ooQD//vdhPjJVa0WZjH5jc29h4Ywj3DDC4fLI0y1aksWNZbEWuM/f7HNyxXcpfowA4/xTSd9qZmdGeWH6WrZnE=;HkKwoIQF7X8Hdf7r51t2Lg=="
 ---

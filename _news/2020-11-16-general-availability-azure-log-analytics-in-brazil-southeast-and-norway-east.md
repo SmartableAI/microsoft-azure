@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azu
 webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azure-log-analytics-in-brazil-southeast-and-norway-east/"
 type: article
 quality: 80
-heat: 141
+heat: 140
 published: true
 
 provider:

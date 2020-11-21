@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/introducing-azure-load-balancer-i
 webUrl: "https://azure.microsoft.com/blog/introducing-azure-load-balancer-insights-using-azure-monitor-for-networks/"
 type: article
 quality: 122
-heat: 143
+heat: 142
 published: true
 
 provider:
