@@ -3,7 +3,7 @@ name: "Mark Russinovich"
 bio: "CTO of Microsoft Azure, author of novels Rogue Code, Zero Day and Trojan Horse, Windows Internals, Sysinternals utilities."
 location: Seattle, WA
 type: "profile"
-heat: 305
+heat: 303
 
 affiliation:
   name: Microsoft
@@ -18,7 +18,7 @@ website: https://t.co/BJ4Ib1CWli
 twitter:
   username: markrussinovich
   url: https://twitter.com/markrussinovich
-  followers: 104003
+  followers: 104010
 
 linkedin:
   url: https://www.linkedin.com/in/markrussinovich/
