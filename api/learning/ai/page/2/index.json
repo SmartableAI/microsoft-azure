@@ -4,15 +4,101 @@
   "page": 2,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-create-classification-model-with-azure-machine-learning-designer.md",
-      "title": "Create a classification model with Azure Machine Learning designer",
-      "excerpt": "Classification is a supervised machine learning technique used to predict categories or classes. Learn how to create classification models using Azure Machine Learning designer.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-create-classification-model-with-azure-machine-learning-designer/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-classification-model-azure-machine-learning-designer/",
-      "length": "PT60M",
+      "path": "_learning/collections/microsoft-learn-create-intelligent-bots-with-the-azure-bot-service.md",
+      "title": "Create Intelligent Bots with the Azure Bot Service",
+      "excerpt": "In this learning path, find out how to build a chat bot to interact with customers using text, graphics, or speech with extras from QnA Maker and LUIS.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-create-intelligent-bots-with-the-azure-bot-service/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-create-intelligent-bots-with-the-azure-bot-service/",
+      "length": "PT29M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-build-faq-chatbot-qna-maker-azure-bot-service.md",
+          "title": "Build a bot with QnA Maker and Azure Bot Service",
+          "excerpt": "Learn how to create a bot that answers frequently asked questions.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-build-faq-chatbot-qna-maker-azure-bot-service/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-faq-chatbot-qna-maker-azure-bot-service/",
+          "length": "PT29M",
+          "ratings": {
+            "count": 1720,
+            "average": 4.681977
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 57,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/build-faq-chatbot-qna-maker-azure-bot-service-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "AI"
+          ]
+        }
+      ],
+      "size": 1,
+      "heat": 57,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/build-faq-chatbot-qna-maker-azure-bot-service-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Management Tools",
+        "AI"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-build-faq-chatbot-qna-maker-azure-bot-service.md",
+      "title": "Build a bot with QnA Maker and Azure Bot Service",
+      "excerpt": "Learn how to create a bot that answers frequently asked questions.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-build-faq-chatbot-qna-maker-azure-bot-service/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-faq-chatbot-qna-maker-azure-bot-service/",
+      "length": "PT29M",
       "ratings": {
-        "count": 187,
-        "average": 4.7967916
+        "count": 1720,
+        "average": 4.681977
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -29,7 +115,15 @@
       "levels": [
         "Beginner"
       ],
-      "heat": 56,
+      "heat": 57,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/build-faq-chatbot-qna-maker-azure-bot-service-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "course",
       "price": "Free",
@@ -262,8 +356,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-azure-databricks/",
       "length": "PT53M",
       "ratings": {
-        "count": 486,
-        "average": 4.5061727
+        "count": 487,
+        "average": 4.507187
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -473,45 +567,6 @@
       ]
     },
     {
-      "path": "_learning/videos/microsoft-cognitive-search-azure-search-with-ai-azure-friday.md",
-      "title": "Cognitive Search - Azure Search with AI | Azure Friday",
-      "excerpt": "Jacob Jedryszek joins Scott Hanselman to talk about about using Cognitive Services with Azure Search with your mobile and web apps. Skip hiring search experts who know what an inverted index is. Don't worry about distributed systems expertise to scale your service to handle large amount of data. And",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-cognitive-search-azure-search-with-ai-azure-friday/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-cognitive-search-azure-search-with-ai-azure-friday/",
-      "originalUrl": "https://youtube.com/watch?v=6kw8SHwxp9c",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6kw8SHwxp9c\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT14M24S",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2019-09-05T22:02:39-07:00",
-      "heat": 53,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/6kw8SHwxp9c/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "AI"
-      ]
-    },
-    {
       "path": "_learning/collections/microsoft-learn-evaluate-text-with-azure-cognitive-language-services.md",
       "title": "Evaluate text with Azure Cognitive Language Services",
       "excerpt": "Learn how to use Cognitive Language Services to analyze text, determine intent, detect adult themes, and process natural language input",
@@ -586,8 +641,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-and-publish-a-luis-model/",
           "length": "PT54M",
           "ratings": {
-            "count": 1584,
-            "average": 4.6603537
+            "count": 1585,
+            "average": 4.6605678
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1493,14 +1548,14 @@
       ]
     },
     {
-      "path": "_learning/videos/microsoft-how-to-get-started-with-azure-machine-learning-service-azure-tips-and-tricks.md",
-      "title": "How to get started with Azure Machine Learning Service | Azure Tips and Tricks",
-      "excerpt": "In this edition of Azure Tips and Tricks, learn how to get started with the Azure Machine Learning Service and how you can use it from Visual Studio Code.   For more tips and tricks, visit: http://azuredev.tips  Get started with 12 months of free services and $200 USD in credit.  Create your free account",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-how-to-get-started-with-azure-machine-learning-service-azure-tips-and-tricks/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-how-to-get-started-with-azure-machine-learning-service-azure-tips-and-tricks/",
-      "originalUrl": "https://youtube.com/watch?v=8EGJP7RPe1A",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/8EGJP7RPe1A\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT4M5S",
+      "path": "_learning/videos/microsoft-cognitive-search-azure-search-with-ai-azure-friday.md",
+      "title": "Cognitive Search - Azure Search with AI | Azure Friday",
+      "excerpt": "Jacob Jedryszek joins Scott Hanselman to talk about about using Cognitive Services with Azure Search with your mobile and web apps. Skip hiring search experts who know what an inverted index is. Don't worry about distributed systems expertise to scale your service to handle large amount of data. And",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-cognitive-search-azure-search-with-ai-azure-friday/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-cognitive-search-azure-search-with-ai-azure-friday/",
+      "originalUrl": "https://youtube.com/watch?v=6kw8SHwxp9c",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6kw8SHwxp9c\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT14M24S",
       "provider": {
         "name": "Microsoft",
         "domain": "microsoft.com",
@@ -1513,11 +1568,11 @@
           }
         ]
       },
-      "publishedDateTime": "2019-06-11T09:02:52-07:00",
+      "publishedDateTime": "2019-09-05T22:02:39-07:00",
       "heat": 52,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/8EGJP7RPe1A/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/6kw8SHwxp9c/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -1562,8 +1617,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/responsible-ai-principles/",
           "length": "PT56M",
           "ratings": {
-            "count": 825,
-            "average": 4.6957574
+            "count": 826,
+            "average": 4.696126
           },
           "provider": {
             "name": "Microsoft Learn",

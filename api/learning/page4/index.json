@@ -4,198 +4,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_learning/collections/microsoft-azure-friday.md",
-      "title": "Azure Friday",
-      "excerpt": "Join Scott Hanselman, Donovan Brown, and Lara Rubbelke as they host the engineers who build & use Azure, demo it, answer questions, and share insights.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-azure-friday/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-azure-friday/",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topItems": [
-        {
-          "path": "_learning/videos/microsoft-introducing-flexible-server-in-azure-database-for-postgresql-mysql-azure-friday.md",
-          "title": "Introducing Flexible Server in Azure Database for PostgreSQL & MySQL | Azure Friday",
-          "excerpt": "Sunil Kamath joins Scott Hanselman to discuss how you can run your MySQL or Postgres database as a managed database on Azure without giving up the control you want while taking advantage of the benefits of a PaaS offering.  0:00 – Overview 4:44 – Demo 8:54 – Customizing Flexible Server in the CLI 10:41",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-introducing-flexible-server-in-azure-database-for-postgresql-mysql-azure-friday/index.json",
-          "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-introducing-flexible-server-in-azure-database-for-postgresql-mysql-azure-friday/",
-          "originalUrl": "https://youtube.com/watch?v=oFlKRdr0MLE",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/oFlKRdr0MLE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT22M11S",
-          "provider": {
-            "name": "Microsoft",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "publishedDateTime": "2020-10-30T08:49:31-07:00",
-          "heat": 57,
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/oFlKRdr0MLE/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "video",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Databases"
-          ]
-        },
-        {
-          "path": "_learning/videos/microsoft-using-entity-framework-core-with-azure-sql-db-and-azure-cosmos-db-azure-friday.md",
-          "title": "Using Entity Framework Core with Azure SQL DB and Azure Cosmos DB | Azure Friday",
-          "excerpt": "Jeremy Likness shows Scott Hanselman how to use Entity Framework (EF) Core with Azure SQL DB and Azure Cosmos DB. EF Core is a lightweight, extensible, open source, and cross-platform version of the popular Entity Framework data access technology.  0:00 – Overview 1:43 – Using Entity Framework Core with",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-using-entity-framework-core-with-azure-sql-db-and-azure-cosmos-db-azure-friday/index.json",
-          "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-using-entity-framework-core-with-azure-sql-db-and-azure-cosmos-db-azure-friday/",
-          "originalUrl": "https://youtube.com/watch?v=FFgS_k_Muk8",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/FFgS_k_Muk8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT23M58S",
-          "provider": {
-            "name": "Microsoft",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "publishedDateTime": "2020-10-23T11:57:54-07:00",
-          "heat": 54,
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/FFgS_k_Muk8/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "video",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Databases"
-          ]
-        },
-        {
-          "path": "_learning/videos/microsoft-bring-compute-storage-and-intelligence-to-the-edge-with-azure-stack-edge-azure-friday.md",
-          "title": "Bring compute, storage, and intelligence to the edge with Azure Stack Edge | Azure Friday",
-          "excerpt": "Dipti Pai joins Scott Hanselman to show how to run containerized and VM workloads to get quick, actionable insights at the edge—where data is created—using purpose-built hardware-as-a-service with Azure Stack Edge.  0:00 – Overview 0:55 – What is Azure Stack Edge? 4:09 – Azure Stack Edge in the house",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-bring-compute-storage-and-intelligence-to-the-edge-with-azure-stack-edge-azure-friday/index.json",
-          "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-bring-compute-storage-and-intelligence-to-the-edge-with-azure-stack-edge-azure-friday/",
-          "originalUrl": "https://youtube.com/watch?v=RHec5lNuYqQ",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/RHec5lNuYqQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT19M27S",
-          "provider": {
-            "name": "Microsoft",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "publishedDateTime": "2020-10-16T11:17:57-07:00",
-          "heat": 52,
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/RHec5lNuYqQ/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "video",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Storage"
-          ]
-        },
-        {
-          "path": "_learning/videos/microsoft-using-azure-container-registry-for-building-and-deploying-net-core-apps-azure-friday.md",
-          "title": "Using Azure Container Registry for building and deploying .NET Core Apps | Azure Friday",
-          "excerpt": "You probably know that Azure Container Registry enables you to store and manage container images securely, but did you know it can also be used as a part of your DevOps pipelines? Jeremy Likness shows Scott Hanselman how ACR can manage your images and even build them for you in the cloud.   0:00 – Overview",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-using-azure-container-registry-for-building-and-deploying-net-core-apps-azure-friday/index.json",
-          "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-using-azure-container-registry-for-building-and-deploying-net-core-apps-azure-friday/",
-          "originalUrl": "https://youtube.com/watch?v=VcZH6AWhUGk",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/VcZH6AWhUGk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT14M50S",
-          "provider": {
-            "name": "Microsoft",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "publishedDateTime": "2020-10-09T15:20:08-07:00",
-          "heat": 52,
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/VcZH6AWhUGk/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "video",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Containers"
-          ]
-        }
-      ],
-      "size": 280,
-      "heat": 64,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/oFlKRdr0MLE/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "collection",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
       "path": "_learning/collections/microsoft-learn-administer-containers-in-azure.md",
       "title": "Administer containers in Azure",
       "excerpt": "With this learning path, you'll create and manage your Azure Container Instances, and see how they can be used to provide elastic scale for Kubernetes.",
@@ -226,8 +34,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-docker-containers/",
           "length": "PT32M",
           "ratings": {
-            "count": 3414,
-            "average": 4.635032
+            "count": 3415,
+            "average": 4.633968
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -400,8 +208,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
           "length": "PT39M",
           "ratings": {
-            "count": 800,
-            "average": 4.71625
+            "count": 806,
+            "average": 4.7171216
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -446,8 +254,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/provision-azure-sql-db/",
           "length": "PT50M",
           "ratings": {
-            "count": 4874,
-            "average": 4.6549034
+            "count": 4875,
+            "average": 4.6549745
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -647,8 +455,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-your-azure-virtual-machine-disks/",
           "length": "PT1H1M",
           "ratings": {
-            "count": 2736,
-            "average": 4.6637425
+            "count": 2737,
+            "average": 4.6635003
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -739,7 +547,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 56,
+          "heat": 136,
           "content": "\r\n",
           "type": "course",
           "price": "Free",
@@ -1627,8 +1435,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-cloud-governance-strategy-azure/",
       "length": "PT48M",
       "ratings": {
-        "count": 219,
-        "average": 4.7214613
+        "count": 223,
+        "average": 4.7264576
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1706,6 +1514,198 @@
       ]
     },
     {
+      "path": "_learning/collections/microsoft-azure-friday.md",
+      "title": "Azure Friday",
+      "excerpt": "Join Scott Hanselman, Donovan Brown, and Lara Rubbelke as they host the engineers who build & use Azure, demo it, answer questions, and share insights.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-azure-friday/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-azure-friday/",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topItems": [
+        {
+          "path": "_learning/videos/microsoft-introducing-flexible-server-in-azure-database-for-postgresql-mysql-azure-friday.md",
+          "title": "Introducing Flexible Server in Azure Database for PostgreSQL & MySQL | Azure Friday",
+          "excerpt": "Sunil Kamath joins Scott Hanselman to discuss how you can run your MySQL or Postgres database as a managed database on Azure without giving up the control you want while taking advantage of the benefits of a PaaS offering.  0:00 – Overview 4:44 – Demo 8:54 – Customizing Flexible Server in the CLI 10:41",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-introducing-flexible-server-in-azure-database-for-postgresql-mysql-azure-friday/index.json",
+          "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-introducing-flexible-server-in-azure-database-for-postgresql-mysql-azure-friday/",
+          "originalUrl": "https://youtube.com/watch?v=oFlKRdr0MLE",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/oFlKRdr0MLE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT22M11S",
+          "provider": {
+            "name": "Microsoft",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "publishedDateTime": "2020-10-30T08:49:31-07:00",
+          "heat": 57,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/oFlKRdr0MLE/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Databases"
+          ]
+        },
+        {
+          "path": "_learning/videos/microsoft-using-entity-framework-core-with-azure-sql-db-and-azure-cosmos-db-azure-friday.md",
+          "title": "Using Entity Framework Core with Azure SQL DB and Azure Cosmos DB | Azure Friday",
+          "excerpt": "Jeremy Likness shows Scott Hanselman how to use Entity Framework (EF) Core with Azure SQL DB and Azure Cosmos DB. EF Core is a lightweight, extensible, open source, and cross-platform version of the popular Entity Framework data access technology.  0:00 – Overview 1:43 – Using Entity Framework Core with",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-using-entity-framework-core-with-azure-sql-db-and-azure-cosmos-db-azure-friday/index.json",
+          "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-using-entity-framework-core-with-azure-sql-db-and-azure-cosmos-db-azure-friday/",
+          "originalUrl": "https://youtube.com/watch?v=FFgS_k_Muk8",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/FFgS_k_Muk8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT23M58S",
+          "provider": {
+            "name": "Microsoft",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "publishedDateTime": "2020-10-23T11:57:54-07:00",
+          "heat": 53,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/FFgS_k_Muk8/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Databases"
+          ]
+        },
+        {
+          "path": "_learning/videos/microsoft-bring-compute-storage-and-intelligence-to-the-edge-with-azure-stack-edge-azure-friday.md",
+          "title": "Bring compute, storage, and intelligence to the edge with Azure Stack Edge | Azure Friday",
+          "excerpt": "Dipti Pai joins Scott Hanselman to show how to run containerized and VM workloads to get quick, actionable insights at the edge—where data is created—using purpose-built hardware-as-a-service with Azure Stack Edge.  0:00 – Overview 0:55 – What is Azure Stack Edge? 4:09 – Azure Stack Edge in the house",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-bring-compute-storage-and-intelligence-to-the-edge-with-azure-stack-edge-azure-friday/index.json",
+          "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-bring-compute-storage-and-intelligence-to-the-edge-with-azure-stack-edge-azure-friday/",
+          "originalUrl": "https://youtube.com/watch?v=RHec5lNuYqQ",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/RHec5lNuYqQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT19M27S",
+          "provider": {
+            "name": "Microsoft",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "publishedDateTime": "2020-10-16T11:17:57-07:00",
+          "heat": 51,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/RHec5lNuYqQ/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Storage"
+          ]
+        },
+        {
+          "path": "_learning/videos/microsoft-using-azure-container-registry-for-building-and-deploying-net-core-apps-azure-friday.md",
+          "title": "Using Azure Container Registry for building and deploying .NET Core Apps | Azure Friday",
+          "excerpt": "You probably know that Azure Container Registry enables you to store and manage container images securely, but did you know it can also be used as a part of your DevOps pipelines? Jeremy Likness shows Scott Hanselman how ACR can manage your images and even build them for you in the cloud.   0:00 – Overview",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-using-azure-container-registry-for-building-and-deploying-net-core-apps-azure-friday/index.json",
+          "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-using-azure-container-registry-for-building-and-deploying-net-core-apps-azure-friday/",
+          "originalUrl": "https://youtube.com/watch?v=VcZH6AWhUGk",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/VcZH6AWhUGk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT14M50S",
+          "provider": {
+            "name": "Microsoft",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "publishedDateTime": "2020-10-09T15:20:08-07:00",
+          "heat": 51,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/VcZH6AWhUGk/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Containers"
+          ]
+        }
+      ],
+      "size": 280,
+      "heat": 63,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/oFlKRdr0MLE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
       "path": "_learning/collections/microsoft-learn-architect-message-brokering-and-serverless-applications-in-azure.md",
       "title": "Architect message brokering and serverless applications in Azure",
       "excerpt": "Learn how to create reliable messaging for your applications, and how to take advantage of serverless application services in Azure.",
@@ -1736,8 +1736,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-serverless-logic-with-azure-functions/",
           "length": "PT36M",
           "ratings": {
-            "count": 6958,
-            "average": 4.6580915
+            "count": 6959,
+            "average": 4.6581407
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2537,8 +2537,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-azure-databricks/",
           "length": "PT53M",
           "ratings": {
-            "count": 486,
-            "average": 4.5061727
+            "count": 487,
+            "average": 4.507187
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2687,7 +2687,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 50,
+          "heat": 130,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/work-dataframes-azure-databricks-social.png",
@@ -3180,8 +3180,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-your-migration-to-azure/",
           "length": "PT44M",
           "ratings": {
-            "count": 1757,
-            "average": 4.639158
+            "count": 1758,
+            "average": 4.639363
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3385,8 +3385,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-azure-databricks/",
           "length": "PT53M",
           "ratings": {
-            "count": 486,
-            "average": 4.5061727
+            "count": 487,
+            "average": 4.507187
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3535,7 +3535,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 50,
+          "heat": 130,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/work-dataframes-azure-databricks-social.png",
@@ -3604,8 +3604,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/provision-azure-sql-db/",
           "length": "PT50M",
           "ratings": {
-            "count": 4874,
-            "average": 4.6549034
+            "count": 4875,
+            "average": 4.6549745
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3833,8 +3833,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-your-migration-to-azure/",
           "length": "PT44M",
           "ratings": {
-            "count": 1757,
-            "average": 4.639158
+            "count": 1758,
+            "average": 4.639363
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4894,8 +4894,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/enable-digital-transformation/",
           "length": "PT32M",
           "ratings": {
-            "count": 8859,
-            "average": 4.697144
+            "count": 8860,
+            "average": 4.6971784
           },
           "provider": {
             "name": "Microsoft Learn",

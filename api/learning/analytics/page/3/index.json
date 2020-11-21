@@ -4,6 +4,50 @@
   "page": 3,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-serve-data-from-azure-synapse-serverless-sql-pool.md",
+      "title": "Serve the data from Azure Synapse serverless SQL pool",
+      "excerpt": "Serve the data from Azure Synapse serverless SQL pool",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-serve-data-from-azure-synapse-serverless-sql-pool/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/serve-data-from-azure-synapse-serverless-sql-pool/",
+      "length": "PT21M",
+      "ratings": {
+        "count": 1,
+        "average": 5.0
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/serve-the-data-from-azure-synapse-serverless-sql-pool-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Analytics",
+        "Serverless"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-survey-components-of-azure-synapse-analytics.md",
       "title": "Survey the Components of Azure Synapse Analytics",
       "excerpt": "Survey the Components of Azure Synapse Analytics",
@@ -164,50 +208,6 @@
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/work-dataframes-advanced-methods-azure-databricks-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Analytics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-work-dataframes-azure-databricks.md",
-      "title": "Work with DataFrames in Azure Databricks",
-      "excerpt": "Work with DataFrames in Azure Databricks",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-work-dataframes-azure-databricks/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/work-dataframes-azure-databricks/",
-      "length": "PT46M",
-      "ratings": {
-        "count": 177,
-        "average": 4.6553674
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/work-dataframes-azure-databricks-social.png",
           "width": 640,
           "height": 320,
           "isCached": true
@@ -636,14 +636,14 @@
       ]
     },
     {
-      "path": "_learning/videos/microsoft-how-to-configure-vpn-integration-in-microsoft-advanced-threat-analytics.md",
-      "title": "How to configure VPN integration in Microsoft Advanced Threat Analytics",
-      "excerpt": "Microsoft Advanced Threat Analytics (ATA) helps members of Security Operation Centers gain a valuable insight into the security of their Active Directory environment. In this video we will discuss how to integrate VPN (virtual private network) connection events to Advanced Threat Analytics.   For more",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-how-to-configure-vpn-integration-in-microsoft-advanced-threat-analytics/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-how-to-configure-vpn-integration-in-microsoft-advanced-threat-analytics/",
-      "originalUrl": "https://youtube.com/watch?v=Er5UH18S3eU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Er5UH18S3eU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M37S",
+      "path": "_learning/videos/microsoft-monitor-data-factory-pipelines-using-azure-monitor-and-log-analytics-azure-friday.md",
+      "title": "Monitor Data Factory pipelines using Azure Monitor and Log Analytics | Azure Friday",
+      "excerpt": "NOTE  Throughout this episode there are multiple references to Operations Management Suite; however, this solution actually uses Azure Monitor and Log Analytics.  Gaurav Malhotra joins Scott Hanselman to discuss Azure Data Factory (ADF) integration with Azure Monitor, which enables you to route your",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-monitor-data-factory-pipelines-using-azure-monitor-and-log-analytics-azure-friday/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-monitor-data-factory-pipelines-using-azure-monitor-and-log-analytics-azure-friday/",
+      "originalUrl": "https://youtube.com/watch?v=B79cjl0BAfY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/B79cjl0BAfY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT7M17S",
       "provider": {
         "name": "Microsoft",
         "domain": "microsoft.com",
@@ -656,11 +656,11 @@
           }
         ]
       },
-      "publishedDateTime": "2018-04-13T15:34:41-07:00",
+      "publishedDateTime": "2019-02-27T16:53:15-08:00",
       "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/Er5UH18S3eU/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/B79cjl0BAfY/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -671,9 +671,8 @@
       "price": "Free",
       "topics": [
         "Azure",
-        "Security",
         "Analytics",
-        "Integration"
+        "DevOps"
       ]
     },
     {

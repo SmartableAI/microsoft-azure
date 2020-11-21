@@ -4,179 +4,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_learning/collections/microsoft-learn-implement-a-data-warehouse-with-azure-synapse-analytics.md",
-      "title": "Implement a Data Warehouse with Azure Synapse Analytics",
-      "excerpt": "Azure Synapse Analytics provides a relational big data store that can scale to Petabytes of data. In this learning path, you will learn how Azure Synapse Analytics can achieve this scale with its’ Massively Parallel Processing (MPP) architecture. Create a data warehouse in minutes and use familiar querying language to build reports. Load massive amounts of data in minutes, and ensure that your data warehouse is secure.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-implement-a-data-warehouse-with-azure-synapse-analytics/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-implement-a-data-warehouse-with-azure-synapse-analytics/",
-      "length": "PT2H53M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "topItems": [
-        {
-          "path": "_learning/courses/microsoft-learn-design-azure-sql-data-warehouse.md",
-          "title": "Design a data warehouse with Azure Synapse Analytics",
-          "excerpt": "Learn how to create a data warehouse in Azure Synapse Analytics in minutes to take advantage of massively parallel processing (MPP) and run complex queries at petabyte scale quickly",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-design-azure-sql-data-warehouse/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-azure-sql-data-warehouse/",
-          "length": "PT47M",
-          "ratings": {
-            "count": 2869,
-            "average": 4.58313
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 54,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/data-ai/design-azure-sql-data-warehouse-badge-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Analytics"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-query-azure-sql-data-warehouse.md",
-          "title": "Query data in Azure Synapse Analytics",
-          "excerpt": "Learn how to issue simple queries against Azure Synapse Analytics and how to visualize the data in both Excel and Power BI",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-query-azure-sql-data-warehouse/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/query-azure-sql-data-warehouse/",
-          "length": "PT60M",
-          "ratings": {
-            "count": 1491,
-            "average": 4.637827
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 54,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/data-ai/query-azure-sql-data-warehouse-badge-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Analytics"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-import-data-into-asdw-with-polybase.md",
-          "title": "Import data into Azure Synapse Analytics by using PolyBase",
-          "excerpt": "Load petabytes of data into an Azure Synapse Analytics database in minutes by using PolyBase",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-import-data-into-asdw-with-polybase/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/import-data-into-asdw-with-polybase/",
-          "length": "PT1H6M",
-          "ratings": {
-            "count": 2139,
-            "average": 4.560542
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 53,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/data-ai/import-data-into-asdw-with-polybase-badge-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Analytics"
-          ]
-        }
-      ],
-      "size": 3,
-      "heat": 54,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/data-ai/design-azure-sql-data-warehouse-badge-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Management Tools",
-        "Storage",
-        "Analytics"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-chain-azure-functions-data-using-input-output-bindings.md",
       "title": "Chain Azure Functions together using input and output bindings",
       "excerpt": "In this module, we'll learn how to integrate your Azure Function with various data sources by using bindings.",
@@ -184,8 +11,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/chain-azure-functions-data-using-bindings/",
       "length": "PT1H10M",
       "ratings": {
-        "count": 2919,
-        "average": 4.578623
+        "count": 2921,
+        "average": 4.5789113
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -352,8 +179,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-your-azure-virtual-machine-disks/",
       "length": "PT1H1M",
       "ratings": {
-        "count": 2736,
-        "average": 4.6637425
+        "count": 2737,
+        "average": 4.6635003
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -389,8 +216,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/store-and-share-with-azure-files/",
       "length": "PT51M",
       "ratings": {
-        "count": 1410,
-        "average": 4.6148934
+        "count": 1411,
+        "average": 4.6151667
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -425,45 +252,6 @@
       ]
     },
     {
-      "path": "_learning/videos/microsoft-how-to-host-a-static-website-with-azure-storage-azure-tips-and-tricks.md",
-      "title": "How to host a static website with Azure Storage | Azure Tips and Tricks",
-      "excerpt": "In this edition of Azure Tips and Tricks, learn how you can host a static website running in Azure Storage in a few steps.     For more tips and tricks, visit: http://azuredev.tips     Get started with 12 months of free services and $200 USD in credit. Create your free account today with Microsoft Azure:",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-how-to-host-a-static-website-with-azure-storage-azure-tips-and-tricks/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-how-to-host-a-static-website-with-azure-storage-azure-tips-and-tricks/",
-      "originalUrl": "https://youtube.com/watch?v=gYpNC_tdbQQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/gYpNC_tdbQQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT2M51S",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2019-04-02T08:44:54-07:00",
-      "heat": 54,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/gYpNC_tdbQQ/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Storage"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-upload-download-and-manage-data-with-azure-storage-explorer.md",
       "title": "Upload, download, and manage data with Azure Storage Explorer",
       "excerpt": "Azure Storage Explorer allows you to quickly view all the storage services under your account. You can browse through, read, and edit data stored in those services through a user-friendly graphical interface.",
@@ -471,8 +259,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/upload-download-and-manage-data-with-azure-storage-explorer/",
       "length": "PT37M",
       "ratings": {
-        "count": 1691,
-        "average": 4.6150208
+        "count": 1692,
+        "average": 4.615248
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -505,6 +293,85 @@
         "Azure",
         "Storage",
         "Databases"
+      ]
+    },
+    {
+      "path": "_learning/videos/microsoft-how-to-create-a-storage-account-and-upload-a-blob-azure-portal-series.md",
+      "title": "How to create a storage account and upload a blob | Azure Portal Series",
+      "excerpt": "UPDATED TO FULL SCREEN  The Azure Portal allows you to create and manage storage accounts and upload a blob. In this video of the Azure Portal “How To” Series, learn how to easily create a storage account, upload a blob, and manage the storage account within Storage Explorer (preview).     Try out these",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-how-to-create-a-storage-account-and-upload-a-blob-azure-portal-series/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-how-to-create-a-storage-account-and-upload-a-blob-azure-portal-series/",
+      "originalUrl": "https://youtube.com/watch?v=UJG6viKU_A8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/UJG6viKU_A8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M2S",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2019-08-14T15:16:00-07:00",
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/UJG6viKU_A8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Management tools",
+        "Storage"
+      ]
+    },
+    {
+      "path": "_learning/videos/microsoft-how-to-host-a-static-website-with-azure-storage-azure-tips-and-tricks.md",
+      "title": "How to host a static website with Azure Storage | Azure Tips and Tricks",
+      "excerpt": "In this edition of Azure Tips and Tricks, learn how you can host a static website running in Azure Storage in a few steps.     For more tips and tricks, visit: http://azuredev.tips     Get started with 12 months of free services and $200 USD in credit. Create your free account today with Microsoft Azure:",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-how-to-host-a-static-website-with-azure-storage-azure-tips-and-tricks/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-how-to-host-a-static-website-with-azure-storage-azure-tips-and-tricks/",
+      "originalUrl": "https://youtube.com/watch?v=gYpNC_tdbQQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/gYpNC_tdbQQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT2M51S",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2019-04-02T08:44:54-07:00",
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/gYpNC_tdbQQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Storage"
       ]
     },
     {
@@ -856,86 +723,6 @@
       ]
     },
     {
-      "path": "_learning/videos/microsoft-bring-compute-storage-and-intelligence-to-the-edge-with-azure-stack-edge-azure-friday.md",
-      "title": "Bring compute, storage, and intelligence to the edge with Azure Stack Edge | Azure Friday",
-      "excerpt": "Dipti Pai joins Scott Hanselman to show how to run containerized and VM workloads to get quick, actionable insights at the edge—where data is created—using purpose-built hardware-as-a-service with Azure Stack Edge.  0:00 – Overview 0:55 – What is Azure Stack Edge? 4:09 – Azure Stack Edge in the house",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-bring-compute-storage-and-intelligence-to-the-edge-with-azure-stack-edge-azure-friday/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-bring-compute-storage-and-intelligence-to-the-edge-with-azure-stack-edge-azure-friday/",
-      "originalUrl": "https://youtube.com/watch?v=RHec5lNuYqQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/RHec5lNuYqQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT19M27S",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-10-16T11:17:57-07:00",
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/RHec5lNuYqQ/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Storage"
-      ]
-    },
-    {
-      "path": "_learning/videos/microsoft-how-to-query-azure-storage-logs-in-azure-monitor-log-analytics-azure-tips-and-tricks.md",
-      "title": "How to query Azure Storage logs in Azure Monitor Log Analytics | Azure Tips and Tricks",
-      "excerpt": "In this edition of Azure Tips and Tricks, learn how to upload and analyze Azure Storage logs with Azure Monitor Log Analytics.   For more tips and tricks, visit: http://azuredev.tips     Get started with 12 months of free services and $200 USD in credit. Create your free account today with Microsoft",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-how-to-query-azure-storage-logs-in-azure-monitor-log-analytics-azure-tips-and-tricks/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-how-to-query-azure-storage-logs-in-azure-monitor-log-analytics-azure-tips-and-tricks/",
-      "originalUrl": "https://youtube.com/watch?v=I9fx5bFMYjQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/I9fx5bFMYjQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT3M55S",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2019-06-25T08:26:43-07:00",
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/I9fx5bFMYjQ/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Analytics",
-        "Storage",
-        "DevOps"
-      ]
-    },
-    {
       "path": "_learning/collections/microsoft-learn-large-scale-data-processing-with-azure-data-lake-storage-gen2.md",
       "title": "Large-Scale Data Processing with Azure Data Lake Storage Gen2",
       "excerpt": "With this learning path, you'll use Azure Data Lake Storage to process your Big Data efficiently and easily while also being protected by Azure’s host of security features.",
@@ -966,8 +753,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-azure-data-lake-storage/",
           "length": "PT30M",
           "ratings": {
-            "count": 1793,
-            "average": 4.70106
+            "count": 1794,
+            "average": 4.700669
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1309,8 +1096,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-azure-data-lake-storage/",
       "length": "PT30M",
       "ratings": {
-        "count": 1793,
-        "average": 4.70106
+        "count": 1794,
+        "average": 4.700669
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1352,8 +1139,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/monitor-diagnose-and-troubleshoot-azure-storage/",
       "length": "PT41M",
       "ratings": {
-        "count": 1258,
-        "average": 4.573927
+        "count": 1259,
+        "average": 4.5742655
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1470,14 +1257,14 @@
       ]
     },
     {
-      "path": "_learning/videos/microsoft-how-to-enable-and-use-soft-delete-in-a-storage-account-azure-portal-series.md",
-      "title": "How to enable and use soft delete in a storage account | Azure Portal Series",
-      "excerpt": "In this video of the Azure Portal “How To” Series, you will learn how to enable and use soft delete in an Azure storage account.   Try out these features in the Azure portal: https://portal.azure.com   Keep connected on Twitter: https://twitter.com/AzurePortal    And make sure to keep an eye on our Azure",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-how-to-enable-and-use-soft-delete-in-a-storage-account-azure-portal-series/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-how-to-enable-and-use-soft-delete-in-a-storage-account-azure-portal-series/",
-      "originalUrl": "https://youtube.com/watch?v=sHyvplezaMU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/sHyvplezaMU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT4M28S",
+      "path": "_learning/videos/microsoft-bring-compute-storage-and-intelligence-to-the-edge-with-azure-stack-edge-azure-friday.md",
+      "title": "Bring compute, storage, and intelligence to the edge with Azure Stack Edge | Azure Friday",
+      "excerpt": "Dipti Pai joins Scott Hanselman to show how to run containerized and VM workloads to get quick, actionable insights at the edge—where data is created—using purpose-built hardware-as-a-service with Azure Stack Edge.  0:00 – Overview 0:55 – What is Azure Stack Edge? 4:09 – Azure Stack Edge in the house",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-bring-compute-storage-and-intelligence-to-the-edge-with-azure-stack-edge-azure-friday/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-bring-compute-storage-and-intelligence-to-the-edge-with-azure-stack-edge-azure-friday/",
+      "originalUrl": "https://youtube.com/watch?v=RHec5lNuYqQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/RHec5lNuYqQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT19M27S",
       "provider": {
         "name": "Microsoft",
         "domain": "microsoft.com",
@@ -1490,11 +1277,11 @@
           }
         ]
       },
-      "publishedDateTime": "2019-05-15T09:00:27-07:00",
+      "publishedDateTime": "2020-10-16T11:17:57-07:00",
       "heat": 51,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/sHyvplezaMU/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/RHec5lNuYqQ/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -1505,8 +1292,48 @@
       "price": "Free",
       "topics": [
         "Azure",
-        "Management tools",
         "Storage"
+      ]
+    },
+    {
+      "path": "_learning/videos/microsoft-how-to-query-azure-storage-logs-in-azure-monitor-log-analytics-azure-tips-and-tricks.md",
+      "title": "How to query Azure Storage logs in Azure Monitor Log Analytics | Azure Tips and Tricks",
+      "excerpt": "In this edition of Azure Tips and Tricks, learn how to upload and analyze Azure Storage logs with Azure Monitor Log Analytics.   For more tips and tricks, visit: http://azuredev.tips     Get started with 12 months of free services and $200 USD in credit. Create your free account today with Microsoft",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-how-to-query-azure-storage-logs-in-azure-monitor-log-analytics-azure-tips-and-tricks/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-how-to-query-azure-storage-logs-in-azure-monitor-log-analytics-azure-tips-and-tricks/",
+      "originalUrl": "https://youtube.com/watch?v=I9fx5bFMYjQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/I9fx5bFMYjQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3M55S",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2019-06-25T08:26:43-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/I9fx5bFMYjQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Analytics",
+        "Storage",
+        "DevOps"
       ]
     },
     {
@@ -1725,6 +1552,145 @@
         "Integration",
         "Compute",
         "Containers"
+      ]
+    },
+    {
+      "path": "_learning/collections/microsoft-learn-cloud-storage.md",
+      "title": "Cloud storage",
+      "excerpt": "Carnegie Mellon University's Cloud Developer course. Gain a deep understanding of data and how it's stored on the cloud.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-cloud-storage/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-cloud-storage/",
+      "length": "PT5H12M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner",
+        "Intermediate"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-cloud-storage-overview.md",
+          "title": "Cloud storage overview",
+          "excerpt": "Carnegie Mellon University's Cloud Developer course. Learn all about data and get an overview of how it's stored, including local and distributed file systems, databases, and object storage.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-cloud-storage-overview/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/cmu-cloud-storage/",
+          "length": "PT2H43M",
+          "ratings": {
+            "count": 39,
+            "average": 4.8461537
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 50,
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Storage"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-case-study-distributed-file-systems.md",
+          "title": "Case studies: Distributed file systems",
+          "excerpt": "Carnegie Mellon University's Cloud Developer course. Discover how distributed file systems work, then learn about Hadoop and Ceph.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-case-study-distributed-file-systems/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/cmu-case-study-distributed-file-systems/",
+          "length": "PT1H7M",
+          "ratings": {
+            "count": 29,
+            "average": 4.793103
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 50,
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-case-study-nosql-databases-object-storage.md",
+          "title": "Case studies: NoSQL databases and cloud object storage",
+          "excerpt": "Carnegie Mellon University's Cloud Developer course. Learn about two more types of storage - NoSQL databases and object storage - with case studies from industry.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-case-study-nosql-databases-object-storage/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/cmu-case-study-nosql-databases/",
+          "length": "PT1H22M",
+          "ratings": {
+            "count": 31,
+            "average": 4.83871
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 50,
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Storage"
+          ]
+        }
+      ],
+      "size": 3,
+      "heat": 50,
+      "content": "\r\n",
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Storage"
       ]
     }
   ],

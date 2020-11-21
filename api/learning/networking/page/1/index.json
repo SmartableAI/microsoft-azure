@@ -4,49 +4,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-end-to-end-encryption-with-app-gateway.md",
-      "title": "Encrypt network traffic end to end with Azure Application Gateway",
-      "excerpt": "Secure the traffic from your users all the way to your web servers by enabling TLS encryption on Application Gateway.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-end-to-end-encryption-with-app-gateway/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/end-to-end-encryption-with-app-gateway/",
-      "length": "PT1H17M",
-      "ratings": {
-        "count": 817,
-        "average": 4.5716033
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 132,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/end-to-end-encryption-with-app-gateway-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Networking"
-      ]
-    },
-    {
       "path": "_learning/collections/microsoft-learn-azure-fundamentals-part-2-describe-core-azure-services.md",
       "title": "Azure Fundamentals part 2: Describe core Azure services",
       "excerpt": "This learning path provides you with an introduction to the basics of Azure's core services for compute, network, storage, and database.",
@@ -77,8 +34,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/",
           "length": "PT36M",
           "ratings": {
-            "count": 4160,
-            "average": 4.7754807
+            "count": 4177,
+            "average": 4.7747188
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -119,8 +76,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
           "length": "PT39M",
           "ratings": {
-            "count": 800,
-            "average": 4.71625
+            "count": 806,
+            "average": 4.7171216
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -165,8 +122,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-compute-fundamentals/",
           "length": "PT52M",
           "ratings": {
-            "count": 650,
-            "average": 4.743077
+            "count": 653,
+            "average": 4.742726
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -210,8 +167,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-storage-fundamentals/",
           "length": "PT27M",
           "ratings": {
-            "count": 509,
-            "average": 4.7603145
+            "count": 512,
+            "average": 4.7597656
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -272,210 +229,6 @@
       ]
     },
     {
-      "path": "_learning/collections/microsoft-learn-implement-network-security-in-azure.md",
-      "title": "Implement network security in Azure",
-      "excerpt": "Learn how to configure, protect, and isolate your networks in Azure.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-implement-network-security-in-azure/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-implement-network-security-in-azure/",
-      "length": "PT5H27M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner",
-        "Intermediate"
-      ],
-      "topItems": [
-        {
-          "path": "_learning/courses/microsoft-learn-introduction-to-security.md",
-          "title": "Security, responsibility, and trust in Azure",
-          "excerpt": "Discuss the basic concepts for protecting your infrastructure and data when you work in the cloud. Understand what responsibilities are yours and what Azure takes care of for you.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-introduction-to-security/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-security-in-azure/",
-          "length": "PT1H16M",
-          "ratings": {
-            "count": 45991,
-            "average": 4.705464
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 78,
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Identity",
-            "Security"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-configure-the-network-for-your-virtual-machines.md",
-          "title": "Configure the network for your virtual machines",
-          "excerpt": "Learn how to connect your local on-premises networks into Azure using virtual networks, VPN gateways, and Azure ExpressRoute.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-configure-the-network-for-your-virtual-machines/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-network-for-azure-virtual-machines/",
-          "length": "PT1H34M",
-          "ratings": {
-            "count": 3885,
-            "average": 4.5572715
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 55,
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Compute",
-            "Networking"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-secure-and-isolate-with-nsg-and-service-endpoints.md",
-          "title": "Secure and isolate access to Azure resources by using network security groups and service endpoints",
-          "excerpt": "Find out how Azure network security groups and service endpoints help you secure your virtual machines and Azure services from unauthorized network access.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-secure-and-isolate-with-nsg-and-service-endpoints/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-and-isolate-with-nsg-and-service-endpoints/",
-          "length": "PT43M",
-          "ratings": {
-            "count": 6807,
-            "average": 4.65227
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 55,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/secure-and-isolate-with-nsg-and-service-endpoints-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Networking",
-            "Security"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-end-to-end-encryption-with-app-gateway.md",
-          "title": "Encrypt network traffic end to end with Azure Application Gateway",
-          "excerpt": "Secure the traffic from your users all the way to your web servers by enabling TLS encryption on Application Gateway.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-end-to-end-encryption-with-app-gateway/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/end-to-end-encryption-with-app-gateway/",
-          "length": "PT1H17M",
-          "ratings": {
-            "count": 817,
-            "average": 4.5716033
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 132,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/end-to-end-encryption-with-app-gateway-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Networking"
-          ]
-        }
-      ],
-      "size": 5,
-      "heat": 93,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/secure-and-isolate-with-nsg-and-service-endpoints-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Management Tools",
-        "Networking",
-        "Security"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-azure-networking-fundamentals.md",
       "title": "Explore Azure networking services",
       "excerpt": "Learn about the core networking resources that are available in Azure, such as Virtual Networks, VPN Gateway, and ExpressRoute.",
@@ -483,8 +236,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-networking-fundamentals/",
       "length": "PT38M",
       "ratings": {
-        "count": 497,
-        "average": 4.674044
+        "count": 499,
+        "average": 4.6753507
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -584,8 +337,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-virtual-machines/",
           "length": "PT1H7M",
           "ratings": {
-            "count": 15554,
-            "average": 4.691012
+            "count": 15555,
+            "average": 4.691032
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -763,8 +516,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-virtual-machines/",
           "length": "PT1H7M",
           "ratings": {
-            "count": 15554,
-            "average": 4.691012
+            "count": 15555,
+            "average": 4.691032
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -884,8 +637,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-networking/",
       "length": "PT28M",
       "ratings": {
-        "count": 44649,
-        "average": 4.7661986
+        "count": 44651,
+        "average": 4.766209
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -942,8 +695,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/connect-on-premises-network-with-vpn-gateway/",
           "length": "PT39M",
           "ratings": {
-            "count": 5368,
-            "average": 4.6065574
+            "count": 5369,
+            "average": 4.6064444
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1546,6 +1299,210 @@
       ]
     },
     {
+      "path": "_learning/collections/microsoft-learn-implement-network-security-in-azure.md",
+      "title": "Implement network security in Azure",
+      "excerpt": "Learn how to configure, protect, and isolate your networks in Azure.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-implement-network-security-in-azure/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-implement-network-security-in-azure/",
+      "length": "PT5H27M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner",
+        "Intermediate"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-introduction-to-security.md",
+          "title": "Security, responsibility, and trust in Azure",
+          "excerpt": "Discuss the basic concepts for protecting your infrastructure and data when you work in the cloud. Understand what responsibilities are yours and what Azure takes care of for you.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-introduction-to-security/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-security-in-azure/",
+          "length": "PT1H16M",
+          "ratings": {
+            "count": 45991,
+            "average": 4.705464
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 78,
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Identity",
+            "Security"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-configure-the-network-for-your-virtual-machines.md",
+          "title": "Configure the network for your virtual machines",
+          "excerpt": "Learn how to connect your local on-premises networks into Azure using virtual networks, VPN gateways, and Azure ExpressRoute.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-configure-the-network-for-your-virtual-machines/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-network-for-azure-virtual-machines/",
+          "length": "PT1H34M",
+          "ratings": {
+            "count": 3885,
+            "average": 4.5572715
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 55,
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Compute",
+            "Networking"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-secure-and-isolate-with-nsg-and-service-endpoints.md",
+          "title": "Secure and isolate access to Azure resources by using network security groups and service endpoints",
+          "excerpt": "Find out how Azure network security groups and service endpoints help you secure your virtual machines and Azure services from unauthorized network access.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-secure-and-isolate-with-nsg-and-service-endpoints/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-and-isolate-with-nsg-and-service-endpoints/",
+          "length": "PT43M",
+          "ratings": {
+            "count": 6807,
+            "average": 4.65227
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 55,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/secure-and-isolate-with-nsg-and-service-endpoints-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Networking",
+            "Security"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-end-to-end-encryption-with-app-gateway.md",
+          "title": "Encrypt network traffic end to end with Azure Application Gateway",
+          "excerpt": "Secure the traffic from your users all the way to your web servers by enabling TLS encryption on Application Gateway.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-end-to-end-encryption-with-app-gateway/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/end-to-end-encryption-with-app-gateway/",
+          "length": "PT1H17M",
+          "ratings": {
+            "count": 817,
+            "average": 4.5716033
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 52,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/end-to-end-encryption-with-app-gateway-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Networking"
+          ]
+        }
+      ],
+      "size": 5,
+      "heat": 66,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/secure-and-isolate-with-nsg-and-service-endpoints-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Management Tools",
+        "Networking",
+        "Security"
+      ]
+    },
+    {
       "path": "_learning/collections/microsoft-learn-architect-secure-infrastructure-in-azure.md",
       "title": "Architect secure infrastructure in Azure",
       "excerpt": "Learn about the tools and services available on Azure to ensure your resources are secure.",
@@ -1619,8 +1576,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-your-azure-virtual-machine-disks/",
           "length": "PT1H1M",
           "ratings": {
-            "count": 2736,
-            "average": 4.6637425
+            "count": 2737,
+            "average": 4.6635003
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1711,7 +1668,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 56,
+          "heat": 136,
           "content": "\r\n",
           "type": "course",
           "price": "Free",
@@ -2302,8 +2259,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/connect-on-premises-network-with-vpn-gateway/",
       "length": "PT39M",
       "ratings": {
-        "count": 5368,
-        "average": 4.6065574
+        "count": 5369,
+        "average": 4.6064444
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2465,16 +2422,18 @@
       ]
     },
     {
-      "path": "_learning/videos/microsoft-how-to-defend-against-denial-of-service-attacks-with-azure-ddos-protection-azure-friday.md",
-      "title": "How to defend against denial of service attacks with Azure DDoS Protection | Azure Friday",
-      "excerpt": "Distributed denial of service (DDoS) attacks are rampant and it's not a question of if a business will be impacted but when. Anupam Vij shows Scott Hanselman how Azure DDoS Protection Standard can protect your applications against targeted DDoS attacks and why it is critical for every business running",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-how-to-defend-against-denial-of-service-attacks-with-azure-ddos-protection-azure-friday/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-how-to-defend-against-denial-of-service-attacks-with-azure-ddos-protection-azure-friday/",
-      "originalUrl": "https://youtube.com/watch?v=D0vR6YNRCww",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/D0vR6YNRCww\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT10M57S",
+      "path": "_learning/courses/microsoft-learn-end-to-end-encryption-with-app-gateway.md",
+      "title": "Encrypt network traffic end to end with Azure Application Gateway",
+      "excerpt": "Secure the traffic from your users all the way to your web servers by enabling TLS encryption on Application Gateway.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-end-to-end-encryption-with-app-gateway/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/end-to-end-encryption-with-app-gateway/",
+      "length": "PT1H17M",
+      "ratings": {
+        "count": 817,
+        "average": 4.5716033
+      },
       "provider": {
-        "name": "Microsoft",
+        "name": "Microsoft Learn",
         "domain": "microsoft.com",
         "images": [
           {
@@ -2485,23 +2444,24 @@
           }
         ]
       },
-      "publishedDateTime": "2019-10-31T23:58:56-07:00",
-      "heat": 53,
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 52,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/D0vR6YNRCww/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
+          "url": "https://docs.microsoft.com/learn/achievements/end-to-end-encryption-with-app-gateway-social.png",
+          "width": 800,
+          "height": 400,
           "isCached": true
         }
       ],
       "content": "\r\n",
-      "type": "video",
+      "type": "course",
       "price": "Free",
       "topics": [
         "Azure",
-        "Networking",
-        "Security"
+        "Networking"
       ]
     },
     {
@@ -2641,8 +2601,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/troubleshoot-azure-network-infrastructure/",
       "length": "PT37M",
       "ratings": {
-        "count": 2266,
-        "average": 4.5675197
+        "count": 2267,
+        "average": 4.5677104
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2894,6 +2854,49 @@
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/design-ip-addressing-for-azure-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Networking"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-distribute-load-with-traffic-manager.md",
+      "title": "Enhance your service availability and data locality by using Azure Traffic Manager",
+      "excerpt": "Discover how Azure Traffic Manager provides DNS load balancing for your application to improve the performance and availability of your application.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-distribute-load-with-traffic-manager/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/distribute-load-with-traffic-manager/",
+      "length": "PT29M",
+      "ratings": {
+        "count": 2238,
+        "average": 4.564343
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/distribute-load-with-traffic-manager-social.png",
           "width": 800,
           "height": 400,
           "isCached": true
