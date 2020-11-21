@@ -122,17 +122,6 @@ related:
         width: 377
         height: 212
         isCached: true
-  - title: "Red Box Delivers Cloud Configurable Voice Recording to Fuel AI on Microsoft Azure"
-    excerpt: "Red Box, a leading platform for voice, today announces an extension of its relationship with Microsoft aligned to the launch of Conversa, Red Box's enterprise voice platform. Red Box is already a Preferred Telephony Partner for conversation intelligence,"
-    publishedDateTime: 2020-11-20T11:00:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/red-box-delivers-cloud-configurable-voice-recording-to-fuel-ai-on-microsoft-azure-1029824644"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/red-box-delivers-cloud-configurable-voice-recording-to-fuel-ai-on-microsoft-azure-1029824644"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/red-box-delivers-cloud-configurable-voice-recording-to-fuel-ai-on-microsoft-azure-1029824644"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 89
   - title: "Microsoft partners with the industry to unlock new 5G scenarios with Azure Edge Zones"
     excerpt: "Cloud, edge computing, and IoT are making strides to transform whole industries and create opportunities that weren't possible just a few years ago. With the rise of 5G mobile connectivity, there are even more possibilities to deliver immersive, real-time experiences that have demanding, ultra-low latency,"
     publishedDateTime: 2020-03-31T08:00:10Z
@@ -272,6 +261,20 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 56
+  - title: "Red Box Delivers Cloud Configurable Voice Recording to Fuel AI on Microsoft Azure"
+    excerpt: "Red Box, a leading platform for voice, today announces an extension of its relationship with Microsoft aligned to the launch of Conversa,"
+    publishedDateTime: 2020-11-20T11:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/red-box-delivers-cloud-configurable-voice-recording-to-fuel-ai-on-microsoft-azure-301177753.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 49
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
+        isCached: true
   - title: "Red Box Delivers Cloud Configurable Voice Recording to Fuel AI on Microsoft Azure"
     excerpt: "Red Box, a leading platform for voice, today announces an extension of its relationship with Microsoft aligned to the launch of Conversa,"
     publishedDateTime: 2020-11-20T16:00:00Z

@@ -2,57 +2,6 @@
   "page": 12,
   "value": [
     {
-      "path": "_news/2020-05-12-opinion-new-workplace-realities-highlight-opportunity-for-cloud-based-apps-and-devices.md",
-      "title": "Opinion: New workplace realities highlight opportunity for cloud-based apps and devices",
-      "excerpt": "Some of the most obvious examples of these are cloud-based applications. While there’s certainly been strong adoption of consumer-based cloud services, such as Netflix, Spotify, and many others, the story hasn’t been quite as clear-cut in the business side",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/85197-opinion-new-workplace-realities-highlight-opportunity-cloud-based.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.techspot.com/images2/news/bigimage/2020/05/2020-05-12-image-17.jpg",
-          "width": 2700,
-          "height": 2051,
-          "title": "Opinion: New workplace realities highlight opportunity for cloud-based apps and devices",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techspot.com/amp/news/85197-opinion-new-workplace-realities-highlight-opportunity-cloud-based.html",
-      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/85197-opinion-new-workplace-realities-highlight-opportunity-cloud-based.html",
-      "publishedDateTime": "2020-05-12T08:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
       "path": "_news/2020-05-12-monitor-your-azure-workload-compliance-with-azure-security-benchmark.md",
       "title": "Monitor your Azure workload compliance with Azure Security Benchmark",
       "excerpt": "The Azure Security Benchmark v1 was released in January 2020 and is being used by organizations to manage their security and compliance policies for their Azure workloads. We are pleased to share that you can now track and monitor your compliance with the benchmark across your Azure environment in Azure",
@@ -1290,6 +1239,59 @@
       ],
       "topics": [
         "Azure"
+      ]
+    },
+    {
+      "path": "_news/2020-05-04-manage-and-find-data-with-blob-index-for-azure-storagenow-in-preview.md",
+      "title": "Manage and find data with Blob Index for Azure Storage—now in preview",
+      "excerpt": " \r\n\r\nBlob Index—a managed secondary index, allowing you to store multi-dimensional object attributes to describe your data objects for Azure Blob storage—is now available in preview. Built on top of blob storage, Blob Index offers consistent reliability, availability, and performance for all your workloads.",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/blog/manage-and-find-data-with-blob-index-for-azure-storage-now-in-preview/",
+      "originalUrl": "https://azure.microsoft.com/blog/manage-and-find-data-with-blob-index-for-azure-storage-now-in-preview/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 201,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/92cec444-9b04-4e3c-9250-2af9a918d97d.png",
+          "width": 1024,
+          "height": 644,
+          "title": "Manage and find data with Blob Index for Azure Storage—now in preview",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-04T03:00:03-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure",
+        "Storage",
+        "Management tools"
       ]
     }
   ],
