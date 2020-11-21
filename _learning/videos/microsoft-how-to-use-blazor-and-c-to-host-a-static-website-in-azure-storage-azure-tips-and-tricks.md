@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT3M50S
 publishedDateTime: 2019-09-03T15:04:39Z
-heat: 51
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/T6pepcxEudI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "Li5ikQPxtygjDJWkmW3IFYGPdeFn7Ho7r0a5K7Ju13yYYi7sOc5lIug9Gl54MAAKjt+hkzEcwicAWojig9rjTm+EdSaaR4Mfh92f5FvkSRkoRiSV2pNnzP2lPwoQis2K00kLwHxASFBq/DK9k1zieBEaVYfRJ+QEpFptv2Qc6Gr9SpyVfyuF3sXa+6PJuRTV2GsfQc/LCm5bKBjUjUYUQNKDXH6KFh0mFD0kVmuoRy1Lga/Fg9wGHjogsvHcSk5XXt7tTf2pFI2uJwTv8aNgNg+dEa/qO8xTCaSHShOkF2H2YWVUbsJH/ycHc/hgUwjGGABcmSqoGRrAHgxxKYZNw+BtILNGWB5P9BiiZ5EJDCcZL8egGTBqLaSO1V9OWa8cqu/oeKifvDXZeIR7W5Jqwi4D90lcMjQEgBno1egJO/g=;wAdMcR1QY5u+34FwaxOmVw=="
+secured: "EUcyORALIAsvDvzcxOCfdknK5s79kAGJgmESs8SFIFXydVbu6ssagQtNSrP+3Rmuvu0t2uaUTmy9UgnvN9fh9VBZOtAXoj0JgLlPHtp73cjUDjbPqAZf2hK0MQgEV4m/9mdd1Gd9DDJWK2jOlJ49fTiS8YOiwZcARj450dwRqqKh9IE/VYnpdqBVcADT+1hUQK77vfOjAWxnvdaU3GqlVYmJtes7i818gTrPBVK9Beo2Q2jtZroAteg5ryhA8jCLcOLlvVA+Guf9OMcLdkPSyNqcaK5FzStnBnqeQu2VkZXRZS0qhNuwkOlkqIjNqd5ziEvLagFSVLNH/aoZoNTvbkBEWQphyJyFYl6sbWGquOChX30upAi8W2YP3hb1H9uuYbaknX07sRVqhtf76+wAGfBMArsiE4LAZNE3kVPLy0I=;80mcgzN0dFWYixknioLLRQ=="
 ---
 
