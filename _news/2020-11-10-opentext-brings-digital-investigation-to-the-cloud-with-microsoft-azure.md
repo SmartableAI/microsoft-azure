@@ -1,27 +1,21 @@
 ---
 category: news
 title: "OpenText brings Digital Investigation to the Cloud with Microsoft Azure"
-excerpt: "WATERLOO, Ontario, Nov. 10, 2020 /CNW/ -- OpenText™ (NASDAQ: OTEX) (TSX: OTEX), today announced OpenText™ EnCase Forensic and OpenText™ EnCase Endpoint Investigator are now certified on ..."
-publishedDateTime: 2020-11-10T14:08:00Z
-originalUrl: "https://www.newswire.ca/news-releases/opentext-brings-digital-investigation-to-the-cloud-with-microsoft-azure-881609050.html"
-webUrl: "https://www.newswire.ca/news-releases/opentext-brings-digital-investigation-to-the-cloud-with-microsoft-azure-881609050.html"
+excerpt: "\"Industries, employees, and even criminals across the world are embracing new ways to work,\" said OpenText Chief Product Officer Muhi Majzoub. OpenText supports the investigators at the frontlines, finding the digital evidence needed to seek justice or respond to a cyberattack."
+publishedDateTime: 2020-11-10T14:00:00Z
+originalUrl: "https://www.nasdaq.com/press-release/opentext-brings-digital-investigation-to-the-cloud-with-microsoft-azure-2020-11-10"
+webUrl: "https://www.nasdaq.com/press-release/opentext-brings-digital-investigation-to-the-cloud-with-microsoft-azure-2020-11-10"
 type: article
-quality: 37
+quality: 57
 heat: -1
 published: false
 
 provider:
-  name: Newswire
-  domain: newswire.ca
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - Azure
-
-images:
-  - url: "https://mma.prnewswire.com/media/780816/Open_Text_Logo.jpg?p=facebook"
-    width: 803
-    height: 419
-    isCached: true
 
 related:
   - title: "It's Past Time for Microsoft to Disclose Azure Details"
@@ -460,6 +454,6 @@ related:
         height: 293
         isCached: true
 
-secured: "oENeZuGMluBVFUt8L2DjDqkTAQ6EkhrZjC5MHUP+mhA0vlcenjQs6Qe4W9cvSk4q5qZCmvu5q6YuMY9Usvsnk2/zrAEs+gcuYPDHfsgBypIXnn0Rjm7iyBVoPFU2fv5dkmox1VbazdlKovtFx5wBX1i1N0bMTFstbG6Tlh/75kRn+oZm1ZMDm9g/dshgroZdu2vpmZvw8z6CmTZ92nkLDNGgwd01cWNF9RWl8qemxz+Djh3h+68Ne802CgAukQ/nVSlenbM+x/5Q+LUwjnOjGoxXRFbSJMAAidgLLttpfvZbvWQYL6HG9Vp8S9reHK6p3hm1GWIdQb7wYdIJPbN7pJmQBiD8Q+ZTzZsYq0v8Y+s=;md9NXu/nNrcGUd5cBWYzrw=="
+secured: "FE/oPuXC9gHhb9n/jkscMTyaEV0Z+3yHcprS88XY5j24/+FM0h/FGnH2tr5pW9DfSCOJneK9GkFN9MyrivYH5/IOKRdi1M1w/fKLFhP+QE9mfpKLQu8YYtFFV2KWHH1EZkW2nOACmX52tmf2BU6LqWMuHJz5vTh747J+4Gu0Xwm+/8RLDS/A3tD5u56BkPrzKAucKuhdPhMYs5T+O9/uqVqRMSQPHtQlppNInanI+fSGBdF52lijugHEjsulxquEVRaOlk+/lrbDca/Z3geMRv9ajfaju5gvjPxRv3g3ScL5x8ZzHAn7nbBSwaFCgsqeEQ37PiiE4iSIa/i/g0IGYRWdDQY8l+ck/FUphGkTh0o=;I3VwfrQRvHowcKxK+7tKDA=="
 ---
 

@@ -8,7 +8,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/microsoft-cloud-app-
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-cloud-app-security-this-software-can-help-you-to-manage-shadow-it-and-boost-productivity/"
 type: article
 quality: 48
-heat: 108
+heat: 48
 published: false
 
 provider:
