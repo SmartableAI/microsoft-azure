@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/azure-machine-learning-u
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-machine-learning-updates-november-2020/"
 type: article
 quality: 84
-heat: 85
+heat: 84
 published: true
 
 provider:

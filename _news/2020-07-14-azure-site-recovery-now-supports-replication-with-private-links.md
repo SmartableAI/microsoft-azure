@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-14T17:00:14Z
 webUrl: "https://azure.microsoft.com/en-us/updates/site-recovery-now-supports-replication-with-private-links/"
 type: article
 quality: 17
-heat: 37
+heat: 17
 published: false
 
 provider:

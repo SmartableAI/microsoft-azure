@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-27T16:00:02Z
 webUrl: "https://azure.microsoft.com/en-us/updates/saved-searches-functionality-is-moving-to-query-explorer/"
 type: article
 quality: 34
-heat: 54
+heat: 34
 published: false
 
 provider:
