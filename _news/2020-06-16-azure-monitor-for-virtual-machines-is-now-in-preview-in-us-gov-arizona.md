@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-16T16:00:02Z
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-monitor-for-vms-is-now-in-preview-in-us-gov-arizona/"
 type: article
 quality: 17
-heat: 17
+heat: 37
 published: false
 
 provider:

@@ -8,7 +8,7 @@ ampWebUrl: "https://amp.benzinga.com/amp/content/16166093"
 cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16166093"
 type: article
 quality: 14
-heat: 14
+heat: 34
 published: false
 
 provider:

@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-10T16:00:15Z
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-policy-support-for-azure-cosmos-db-is-now-available/"
 type: article
 quality: 17
-heat: 17
+heat: 57
 published: false
 
 provider:
