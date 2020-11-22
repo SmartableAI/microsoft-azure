@@ -4,49 +4,6 @@
   "page": 8,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-describe-identity-access-management-capabilities-of-microsoft-365.md",
-      "title": "Describe the identity and access management capabilities of Microsoft 365",
-      "excerpt": "Describe the identity and access management capabilities of Microsoft 365",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-describe-identity-access-management-capabilities-of-microsoft-365/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-identity-access-management-capabilities-of-microsoft-365/",
-      "length": "PT29M",
-      "ratings": {
-        "count": 442,
-        "average": 4.7466063
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 54,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/describe-the-identity-and-access-management-capabilities-of-microsoft-365-social.png",
-          "width": 642,
-          "height": 324,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Identity"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-develop-test-deploy-azure-functions-core-tools.md",
       "title": "Develop, test, and publish Azure Functions by using Azure Functions Core Tools",
       "excerpt": "Find out how to develop an Azure Function in Visual Studio with a test framework to create, deploy, and test this scalable and secure service.",
@@ -354,8 +311,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/monitor-github-events-with-a-function-triggered-by-a-webhook/",
       "length": "PT53M",
       "ratings": {
-        "count": 1786,
-        "average": 4.6243
+        "count": 1787,
+        "average": 4.6245103
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -763,7 +720,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 53,
+          "heat": 133,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/explore-non-relational-data-stores-azure-social.png",
@@ -1086,8 +1043,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-infrastructure-with-azure-monitor-logs/",
       "length": "PT36M",
       "ratings": {
-        "count": 5422,
-        "average": 4.7318335
+        "count": 5423,
+        "average": 4.731514
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1172,8 +1129,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/automate-azure-tasks-with-powershell/",
       "length": "PT1H11M",
       "ratings": {
-        "count": 5270,
-        "average": 4.7134724
+        "count": 5273,
+        "average": 4.7136354
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1206,8 +1163,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/scale-sql-databases-elastic-pools/",
       "length": "PT39M",
       "ratings": {
-        "count": 3542,
-        "average": 4.580745
+        "count": 3543,
+        "average": 4.5808635
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1294,8 +1251,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/capture-application-logs-app-service/",
       "length": "PT55M",
       "ratings": {
-        "count": 1421,
-        "average": 4.6389866
+        "count": 1422,
+        "average": 4.6392407
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1453,8 +1410,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-custom-azure-roles-with-rbac/",
       "length": "PT30M",
       "ratings": {
-        "count": 2279,
-        "average": 4.710399
+        "count": 2280,
+        "average": 4.710088
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1485,6 +1442,43 @@
       "price": "Free",
       "topics": [
         "Azure"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-execute-azure-function-with-triggers.md",
+      "title": "Execute an Azure Function with triggers",
+      "excerpt": "This module demos some of the most common types of triggers for executing Azure Functions and how to configure them to execute your logic.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-execute-azure-function-with-triggers/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/execute-azure-function-with-triggers/",
+      "length": "PT1H23M",
+      "ratings": {
+        "count": 3674,
+        "average": 4.7060423
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 53,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Compute",
+        "Serverless",
+        "Management Tools"
       ]
     }
   ],
