@@ -8,7 +8,7 @@ length: PT46M
 ratings:
   count: 3007
   average: 4.7539077
-heat: 52
+heat: 53
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     height: 400
     isCached: true
 
-secured: "2YAtavv21I0gx+76ARdFo2M7Jd2+SSRe8CNB1FbhYJoP/JnnFLqS8FhRMpxFwcDC25HdPnN1UV6zIPXz9thS4AFjYY6bCwbZeJT5Bsd/y50j0PbYsl6ptD6naoefm56BP2xvBOZ302b4fuC/eWGr4oLASe2gfrT2+bksFd6SPvU6ADAykr/6KBfL5m1NKxOBJcZJX+Nz05MVyPfQd9AwyuwDPBLnNUA4UZ+lRoAMQIYKzhSOysfIxEynB+8JKeuyE0SUz2wV5FOAhKIZgD8jx/2SgiXN9SxVSiCLHqYZsRC7cDLFBfHH1yyzQHgepiNYity6Eh6wbpcIBGcqP11eEJ0RlVXK2AwHGZTy/BNoMs0RIpKQBNp6/3zms9zG8Ws+kv7Xaqm7IMkw9UHU272sB8uat1ZBuewssTrgcCLJugg=;8g9v3+nQh8s7Y5/OEoRvhw=="
+secured: "zW3Hf3wcRX3EyWjqUxxYQnRvo99oRD3qr36qC2Ds0a81d26H1otgSrLXot/3tR+1ikrnL/GI0aQZe9sX1PYHGMmJyXi/SO6QRnQnQBhQLcCWyaJ+Da1hdbfykgRG09g/6l0/sngcm6b99dLc2fLPTNSCw8+6T7uP2Q5WZ64z/HudloAnd/d5ZPzmPghw8kL//IuRTh0yBPJDr8uSFGFIxGDEzRzj9OsfYj0Hgm4jbP7EtoW5maU2csny/7dkljkmaJoe27C2wqoIiHg913l+3rsV6HzNAMfywzPlxQPYNbATU5uRcT3z4G8JDBLKk2gL85sWuHb8H5JFQ5neU0J7KMWF00qQTrCV+xS+7j63+QwYuUjVajGXO8D/luzhyNpyYfA7bDFhso6sxKwBf34w0bRTvjkCr/zw04wKjSlwh00=;FGkKJS7+gg2YFHQ4ioPxZQ=="
 ---
 

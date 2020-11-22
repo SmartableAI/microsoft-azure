@@ -8,7 +8,7 @@ length: PT35M
 ratings:
   count: 2897
   average: 4.4984465
-heat: 52
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -26,6 +26,6 @@ topics:
   - Compute
   - Management Tools
 
-secured: "/+jch3zN0dfaW355V400Avone4CLwhnY8Og6C7j8o3WNkcuT3DYX8pujc8P+K9aJjUd9UrsIkV+I3+zx3dcq0uMJ+xA2KMBS8kGWzlL3BdCKlxdupOZna42wDe+wkM/dw9SJeC6rQxEWn0h1WOS0yOoT3kEU6kcUP5hhw1LpYZ3mxQXL+YprXfqEdZQx9ZbzMESZplz0FjUR/TpvwMyoGKBcqE5DmGxJ8VXhqld7Fwnx6rgbye/DanaD5aRrlmlfEcIqSNjz5cuVMlHfMixZmpNKYDyhi/maVrBUUHmZ/j4g/p0pBqeVKuFNu3Xxyqa2fcKGHqhgwonZQdk38WzaF0Gdbw4/Wmdn3EowTPGiuAR35D/NAHKK+ILhHJx/IukWWEtJFVASy1Nd2OoQ01hZ2nFCSLcWdREBwNam2HeKmcg=;gn0//qipnnGj+yGYwAoHCg=="
+secured: "TFyU3DkCOEV8+dzt4MuVbc9IOfHv4eKw2XyOPNfNOw1mZMrEgSTdHCWUfr3Xshq0fsgmAboIU623L6v0DcmUFZa9PfCAqMvpgSDB1ZWbMYFdCNLf6zMFzmKU8PUPSdp+kbZsojrak+dyjDos+KUkCL6Emwh+5MbNemr8nxW28kz6pyzCueHDDR71cpIQFPsB2stBUJApR+npPrfI5jplkA0xd8IXjXF8r7vYd0SCKsrDZNSdWtbbjQteGtjYJRUP/6IuaXQCcWnq0hR5gEOwa6sW7mKFucyXyJXmDqN9rmCIqJ2NmX4W/yPIu5yFl7fD9wdLrOSQzqEfnZJv8hR8e7D/AcxQECx77qFKYq1/KHk4jMfx+VP7PcjJe/Jwtilh8DB7Qe4tFk1xq4zxv+DaLZgPD7zCvQc2I22lH4biRpg=;gZQCg4FpRXMH4dhHWqQ9OA=="
 ---
 

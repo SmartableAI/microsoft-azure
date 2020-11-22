@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT2M29S
 publishedDateTime: 2019-04-15T15:10:46Z
-heat: 51
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Kfrx0TpCgPc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "bQYEcTe035dmgPiIGgZjueMsR97jJEKEYKMkTI9bER/YTgxjWFJF+UyGxaegRyNGikeJvU2+uNSlnKplTaEXMmzvcO4HyzxlezG0BsrLXJ/jS4QPKq78h9nkSDQeo6uyhMFVUfjFBsGrqztqdCbpRDaZTJrOlJJJQp25OKhDvLiPRBYBmP7tSrrsKVgPYKzrkeJp9/aXtbgf5X+kjHZV08eBOySSHEhJ7nutA0DdFnAds1gVhtmvocV6GOuQ4IuQYTnzrZoMRU+fCrBuM093BQN/OmbEtFpXy0PcY5uejfKqVUQr1INh9NJwz1qOZ2SaIRwKMLt4RqEl8rbT/cg1mU8ZtRnyMShFf0JDGJkFB4nsOUAfqI1noF9gAxo5CXVAkEgd7ZFTenaAg1+UueSGuy2U0bZK1x9ElvXjUOl6n50=;6Toa06mHy74w77fdJcU3PA=="
+secured: "UKUrqu++FvK+big14erPZ1k+2kvKBAPyvUyXC+BXYbo/N+Kdb53iKgABJG9sZBUUzTsOi5s8QZeaWXLWS8UKktSfrE/tYjISS7PvlLrOSAWWwABBtW8tza07ZWGhjto7CgMNmZyPXDR6IpLXRfazBDSQ9fL1WQTkapbpob47lMS1EOWV+BMSOTTh5qDRUGJHtf7kc33orRJ9Kgrmg2JVzBemnxP9+E2fb5uryAfmR3Kxi5mXIXE7njEhUziYDJzaagfcIoEOyulSNLp39UYXbK6KHCQbwfsYwjPhsEDc6SQ34lYm7FLEn8EYqQ327aUuzAQE1wz7gOSUIENjvXkcire1qYvWcI/JM/JmfCOfz2U7APnJwX9KtCCjeYSkQG+QuN7CY3N1qVg54GoKAgtrMkoDl6ZslUyN4xlZHi26fM0=;HWLmA5OQW9Zl5OiPoRTk1g=="
 ---
 
