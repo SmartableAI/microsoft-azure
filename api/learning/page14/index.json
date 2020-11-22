@@ -4,6 +4,48 @@
   "page": 14,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-maintain-azure-sap-workloads.md",
+      "title": "Maintain Azure for SAP workloads",
+      "excerpt": "Maintain Azure for SAP workloads",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-maintain-azure-sap-workloads/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/maintain-azure-sap-workloads/",
+      "length": "PT48M",
+      "ratings": {
+        "count": 128,
+        "average": 4.7421875
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Advanced"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/maintain-azure-sap-workloads-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-maintain-secure-repository-github.md",
       "title": "Maintain a secure repository by using GitHub best practices",
       "excerpt": "Learn best practices for building, hosting, and maintaining a secure repository on GitHub.",
@@ -202,8 +244,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/monitor-data-drift-with-azure-machine-learning/",
       "length": "PT42M",
       "ratings": {
-        "count": 211,
-        "average": 4.729858
+        "count": 212,
+        "average": 4.731132
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -595,8 +637,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/run-non-functional-tests-azure-pipelines/",
       "length": "PT49M",
       "ratings": {
-        "count": 675,
-        "average": 4.6903706
+        "count": 676,
+        "average": 4.6908283
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -638,8 +680,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/sap-hana-azure-compute-network-storage/",
       "length": "PT52M",
       "ratings": {
-        "count": 341,
-        "average": 4.780059
+        "count": 342,
+        "average": 4.7807016
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -847,8 +889,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/transcribe-speech-input-text/",
       "length": "PT27M",
       "ratings": {
-        "count": 304,
-        "average": 4.694079
+        "count": 305,
+        "average": 4.695082
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1192,44 +1234,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/cQ9D-d6KkMY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_learning/videos/microsoft-an-overview-of-azure-data-explorer-adx-azure-friday.md",
-      "title": "An overview of Azure Data Explorer (ADX) | Azure Friday",
-      "excerpt": "Manoj Raheja joins Lara Rubbelke to demonstrate Azure Data Explorer (ADX) and provide an overview of the service from provisioning to querying. ADX is a fast, fully managed data analytics service for real-time analysis on large volumes of streaming data. It brings together a highly performant and scalable",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-an-overview-of-azure-data-explorer-adx-azure-friday/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-an-overview-of-azure-data-explorer-adx-azure-friday/",
-      "originalUrl": "https://youtube.com/watch?v=D_AJk2lAepw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/D_AJk2lAepw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT19M48S",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2019-02-27T17:00:01-08:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/D_AJk2lAepw/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
