@@ -1,21 +1,27 @@
 ---
 category: news
-title: "ANS Group migrates NHS SCW workloads to Microsoft Azure"
-excerpt: "UK digital and cloud services provider ANS Group has been selected by NHS South, Central & West (SCW) to migrate their workloads to Microsoft"
-publishedDateTime: 2020-11-18T09:53:00Z
-originalUrl: "https://www.telecompaper.com/news/ans-group-migrates-nhs-scw-workloads-to-microsoft-azure--1362359"
-webUrl: "https://www.telecompaper.com/news/ans-group-migrates-nhs-scw-workloads-to-microsoft-azure--1362359"
+title: "ACI Worldwide fraud management tech debuts on Microsoft Azure Marketplace"
+excerpt: "ACI Worldwide (NASDAQ: ACIW), a leading global provider of real-time digital payment and software solutions, today announced that its ACI Fraud Management solution is now available as a fully certified private offering via the Microsoft Azure Marketplace."
+publishedDateTime: 2020-11-23T11:29:00Z
+originalUrl: "https://www.finextra.com/pressarticle/85130/aci-worldwide-fraud-management-tech-debuts-on-microsoft-azure-marketplace"
+webUrl: "https://www.finextra.com/pressarticle/85130/aci-worldwide-fraud-management-tech-debuts-on-microsoft-azure-marketplace"
 type: article
-quality: 17
+quality: 36
 heat: -1
 published: false
 
 provider:
-  name: Telecompaper
-  domain: telecompaper.com
+  name: Finextra
+  domain: finextra.com
 
 topics:
   - Azure
+
+images:
+  - url: "https://www.finextra.com/about/finextra-logo-alt-16-9.jpg"
+    width: 480
+    height: 270
+    isCached: true
 
 related:
   - title: "Stradigi AI Launches the Kepler™ AI Platform Powered by Microsoft Azure"
@@ -112,20 +118,6 @@ related:
         width: 300
         height: 300
         isCached: true
-  - title: "ACI Worldwide fraud management tech debuts on Microsoft Azure Marketplace"
-    excerpt: "ACI Worldwide (NASDAQ: ACIW), a leading global provider of real-time digital payment and software solutions, today announced that its ACI Fraud Management solution is now available as a fully certified private offering via the Microsoft Azure Marketplace."
-    publishedDateTime: 2020-11-23T11:29:00Z
-    webUrl: "https://www.finextra.com/pressarticle/85130/aci-worldwide-fraud-management-tech-debuts-on-microsoft-azure-marketplace"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 36
-    images:
-      - url: "https://www.finextra.com/about/finextra-logo-alt-16-9.jpg"
-        width: 480
-        height: 270
-        isCached: true
   - title: "Accela Migrates Over 200 Data Center Customers to Microsoft Azure to Accelerate Digital Transformation"
     excerpt: "PRNewswire/ -- Accela®, a leading provider of cloud-based solutions for government, today announced it successfully completed over 200 customer"
     publishedDateTime: 2020-11-12T10:00:00Z
@@ -158,6 +150,15 @@ related:
       name: Newswire Today
       domain: newswiretoday.com
     quality: 17
+  - title: "ANS Group migrates NHS SCW workloads to Microsoft Azure"
+    excerpt: "UK digital and cloud services provider ANS Group has been selected by NHS South, Central & West (SCW) to migrate their workloads to Microsoft"
+    publishedDateTime: 2020-11-18T09:53:00Z
+    webUrl: "https://www.telecompaper.com/news/ans-group-migrates-nhs-scw-workloads-to-microsoft-azure--1362359"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 17
   - title: "StoneFly Inc. Now Available in the Microsoft Azure Marketplace"
     excerpt: "Microsoft Azure customers worldwide now gain access to StoneFly cloud storage to take advantage of the scalability, reliability, and agility of Azure to drive application development and shape business strategies."
     publishedDateTime: 2020-11-20T08:03:00Z
@@ -168,6 +169,6 @@ related:
       domain: pr.com
     quality: 17
 
-secured: "GXLl4C564/jYDT9ZvpULhEofF1AWfgYu6D9KiDMM4BEeZuNZiRzYespqOyRpKw2Md+KnEBX6mcdFcb7houQmAHX2FjdaRR8KQIR7lJakVzYOTbJvzkDFUXhD+hfPLVXbeIxWQELyh1JR9tTabL0fhmhpkXivH3+oXnp+kGb0sL7m8bcc2ME4RwmGsKaTp2R1oaBt/RU8Dr1ef5h8lWv5xIin2wnGnJcM2t/qdVc7GgfQoXHBpZXk6pdz/wdg5xRUTH3quVZSB4S8oxtZDYqwewncyyn0hl79ebezKvWEVpK6vIjfmtDTuP/CR0f5xouAWahaOvcWUHgLoCIdwuZ1DuoftIGqXy3QVtBWiZTiUhg=;7repOqpowP8dhOY+5tlQyg=="
+secured: "ojK+DWr/R+n0ECqSBZ9jtdteks3u3MPfHwQBwPcki2qej/CQZ7Sb2ctzjSs5D9N9XS8q2e8q3nyciwJZxzoLMwfQQjxqnY9neJ4GKtN3JnE8cg9ZwcbGarkgCEgemefCmmrbBrvH/WQL+VNAssz3Cys9IbHEaP4IJtEhzLF5Fja5D3/6Znlw4zTEyhX6w/THEHi9gptuj6XfAm9BQavwJsMx1J4GupBoDveqK2r7HPmK3kJ5KUOpFkEfxEHc4aBQlpWVJ0FKfEqCxocejkVXiflHBnYVcjjnUHDlbqaC4YBzFkixM25ZZUkMgTDVJnygRscg93sEI+33yzO/bcK33gXc/70bOZOZ3hlUYIWEXfs=;5KloDzLNiP3WrctWXbUUCQ=="
 ---
 
