@@ -6,6 +6,9 @@ publishedDateTime: 2020-11-23T09:00:21Z
 originalUrl: "https://azure.microsoft.com/blog/hybrid-and-multicloud-strategies-for-financial-services-organizations/"
 webUrl: "https://azure.microsoft.com/blog/hybrid-and-multicloud-strategies-for-financial-services-organizations/"
 type: article
+quality: 72
+heat: 72
+published: true
 
 provider:
   name: Microsoft
