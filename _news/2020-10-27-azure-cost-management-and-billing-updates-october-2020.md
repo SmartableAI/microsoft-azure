@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/azure-cost-management-billing-upd
 webUrl: "https://azure.microsoft.com/blog/azure-cost-management-billing-updates-october-2020/"
 type: article
 quality: 103
-heat: 327
+heat: 324
 published: true
 
 provider:

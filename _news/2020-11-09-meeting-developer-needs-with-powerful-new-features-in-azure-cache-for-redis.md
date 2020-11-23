@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/meeting-developer-needs-with-powe
 webUrl: "https://azure.microsoft.com/blog/meeting-developer-needs-with-powerful-new-features-in-azure-cache-for-redis/"
 type: article
 quality: 84
-heat: 85
+heat: 84
 published: true
 
 provider:

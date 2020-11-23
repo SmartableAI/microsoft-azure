@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/ctnov2020/"
 webUrl: "https://azure.microsoft.com/en-us/updates/ctnov2020/"
 type: article
 quality: 72
-heat: 73
+heat: 72
 published: true
 
 provider:
