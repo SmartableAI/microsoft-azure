@@ -30,60 +30,47 @@ images:
     title: "Announcing the general availability of Azure Monitor for virtual machines"
 
 related:
-  - title: "General availability of Azure Monitor for Key Vault and Azure Cache for Redis"
-    excerpt: "Azure Monitor for Key Vault and Azure Monitor for Azure Cache for Redis provide out of the box insights for these resources using platform telemetry."
-    publishedDateTime: 2020-09-22T16:05:16Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/ga-of-azure-monitor-for-key-vault-and-azure-cache-for-redis/"
+  - title: "Guest health feature in Azure Monitor for virtual machines"
+    excerpt: "We are announcing the preview of Azure Monitor for virtual machines guest health feature that monitors the health of your virtual machines and fires an alert when any parameter being monitored is outside the acceptable range. "
+    publishedDateTime: 2020-11-23T08:00:20Z
+    webUrl: "https://azure.microsoft.com/blog/guest-health-feature-in-azure-monitor-for-virtual-machines/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 115
-  - title: "Azure Cognitive Services general availability updates "
-    excerpt: "General availability updates in Azure Cognitive Services Decision, Speech, and containers categories. "
-    publishedDateTime: 2020-09-22T16:05:30Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-cognitive-services-general-availability-updates/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 99
-  - title: "Azure Private Link for Azure Cache for Redis now in preview"
-    excerpt: "You can now use Azure Private Link to connect to an Azure Cache for Redis instance from your virtual network via a private endpoint."
-    publishedDateTime: 2020-09-22T16:00:27Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-private-link-for-azure-cache-for-redis-now-in-preview-2/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 84
-  - title: "Redis Enterprise features on Azure Cache for Redis coming soon"
-    excerpt: "Two new tiers will be coming soon in preview for Azure Cache for Redis through a collaboration with Redis Labs: Enterprise and Enterprise Flash."
-    publishedDateTime: 2020-09-22T16:05:34Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/redis-enterprise-features-on-azure-cache-for-redis-coming-soon/"
+    quality: 121
+    images:
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/de286894-4cc1-4f92-b718-dbbf86d2ab0c.png"
+        width: 1024
+        height: 485
+        isCached: true
+  - title: "Azure Monitor for Virtual Machines Guest Health is in public preview"
+    excerpt: "Announcing the Public Preview of the Guest Health feature of Azure Monitor for Virtual Machines, that monitors the health of your virtual machines and fires an alert when any of the parameters being monitored are outside the acceptable range."
+    publishedDateTime: 2020-11-19T17:00:45Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-monitor-for-virtual-machines-guest-health-preview/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
     quality: 84
-  - title: "General Availability of the New Azure VMware Solution"
-    excerpt: "Microsoft announces general availability (GA) of the Azure VMware Solution service. The new Azure VMware Solutions is a first party Microsoft Azure Compute services that is directly operated, delivered, and supported by Microsoft. "
-    publishedDateTime: 2020-09-22T16:05:17Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-of-the-new-azure-vmware-solution/"
+  - title: "New Azure Spot Virtual Machines features "
+    excerpt: "You can now access the price history of Spot Virtual Machines and the eviction rate for the past 28 trailing days in the Azure portal."
+    publishedDateTime: 2020-10-07T16:00:14Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/new-azure-spot-virtual-machines-features/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
     quality: 67
-  - title: "General Availability: Application Insight in UK West"
-    excerpt: "Application Insight, a part of Azure Monitor,  is now generally available in the UK West region for customers to collect telemetry and analyze their service health in production environments. "
-    publishedDateTime: 2020-09-29T15:23:28Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-application-insight-in-uk-west/"
+  - title: "Azure Monitor for virtual machines is now generally available"
+    excerpt: ""
+    publishedDateTime: 2020-04-15T16:00:16Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-monitor-for-virtual-machines-is-now-generally-available/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 52
+    quality: 17
 
 secured: "5KFKWaC1B7s62sRd7Ga+0/1l5iQRmX5qG1W2y3PssIv29pJ74aXuNtTxIrwtMD4xt1cXhh8Vh+Aerg3ckbBtjb6Fy2C0hUdG/P80jC2BC0qdbOqYqM6Snivh6jV3MhAAOl4STUD7CP+BhgvZ+0rQJF/1W6Z8JlohW2RPiJYcifZFVODTCqrTGdvhcpCnBYGGlk/trCDZfrFM/6pNfQMbxDtdwBO4KNL6syxvGJD1QQlzC2ME1eAhHHRn194xJXWWuvgGsAnQfC5+BaZ3rAyIoZ2L9eEA7ig+mLGT2LWmeOo7yvf21tudbY1unZMnsh6ggOV/l/SNtWZU5ZApvuXZUw==;JRxLW7Kk8B67k1fHOLXm5w=="
 ---

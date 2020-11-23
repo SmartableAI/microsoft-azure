@@ -23,60 +23,52 @@ topics:
   - DevOps
 
 related:
-  - title: "Node.js 14 for Azure Functions is now available in public preview"
-    excerpt: "Developers can now build and publish Azure Functions Apps using Node.js 14."
-    publishedDateTime: 2020-11-12T17:00:13Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/nodejs-14-for-azure-functions-is-now-available-in-preview/"
+  - title: "Guest health feature in Azure Monitor for virtual machines"
+    excerpt: "We are announcing the preview of Azure Monitor for virtual machines guest health feature that monitors the health of your virtual machines and fires an alert when any parameter being monitored is outside the acceptable range. "
+    publishedDateTime: 2020-11-23T08:00:20Z
+    webUrl: "https://azure.microsoft.com/blog/guest-health-feature-in-azure-monitor-for-virtual-machines/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 84
-  - title: "Azure Sphere 20.10 update is now available"
-    excerpt: "Learn about what's new in the the 20.10 release, including new and updated features in the OS, SDK, and extensions for Visual Studio and Visual Studio Code. "
-    publishedDateTime: 2020-11-10T00:00:18Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-sphere-2010-update-is-now-available/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 67
-  - title: "New recommendations from Azure Advisor are now available"
-    excerpt: "Four new best practice recommendations will help you improve the reliability and performance of your Azure resources"
-    publishedDateTime: 2020-11-11T17:00:00Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/new-recommendations-from-azure-advisor/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 67
-  - title: "SMB Multichannel preview is now available on Azure Files premium tier"
-    excerpt: "Lower your deployment cost and increase you Server Message Block (SMB) 3.x client’s performance with Azure Files SMB Multichannel. "
-    publishedDateTime: 2020-11-17T21:00:21Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/smb-multichannel-preview-is-now-available-on-azure-files-premium-tier/"
+    quality: 121
+    images:
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/de286894-4cc1-4f92-b718-dbbf86d2ab0c.png"
+        width: 1024
+        height: 485
+        isCached: true
+  - title: "New Azure Spot Virtual Machines features "
+    excerpt: "You can now access the price history of Spot Virtual Machines and the eviction rate for the past 28 trailing days in the Azure portal."
+    publishedDateTime: 2020-10-07T16:00:14Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/new-azure-spot-virtual-machines-features/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
     quality: 67
-  - title: "Azure Firewall Premium is in public preview"
-    excerpt: "Azure Firewall Premium provides next generation firewall capabilities that are required for highly sensitive and regulated environments."
-    publishedDateTime: 2020-11-18T17:00:04Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-firewall-premium-public-preview/"
+  - title: "Announcing the general availability of Azure Monitor for virtual machines"
+    excerpt: "Today we're announcing the general availability of Azure Monitor for virtual machines (VMs), which provides an in-depth view of VM performance trends and dependencies. You can access Azure Monitor for VMs from the Azure VM resource blade to view details about a single VM, from the Azure Virtual Machine"
+    publishedDateTime: 2020-03-16T10:00:32Z
+    webUrl: "https://azure.microsoft.com/blog/announcing-the-general-availability-of-azure-monitor-for-virtual-machines/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 67
-  - title: "Public preview: Application Insight in UAE North "
-    excerpt: "UAE North is now in public preview for customers to start collecting telemetry and analyze their services for health using Application Insight. "
-    publishedDateTime: 2020-11-16T19:09:09Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-application-insight-in-uae-north/"
+    quality: 55
+    images:
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/8aaf8f84-054c-4681-82e8-58dd8d160940.png"
+        width: 1430
+        height: 953
+        isCached: true
+  - title: "Azure Monitor for virtual machines is now generally available"
+    excerpt: ""
+    publishedDateTime: 2020-04-15T16:00:16Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-monitor-for-virtual-machines-is-now-generally-available/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 52
+    quality: 17
 
 secured: "jjg2v/CsTpZsRr6ieLYOLaJ7LYWlKFMsfFGxhvuRm6h4pVHdp63m8pgvV7yRSxz+mFJedJJOxYbnNGdiH4xcQ6OZrKPS8oJhdXAGSTGQiG5AAwvloZmQzd6ilFd8xLB8RAFp6fMIwm2z9l6V189KWZkYd+9Gu5PY/oxVQ5mZIl4nO6Tr4U3mVCMAweyjK0qlTAVuckjlgPIO4N+zE8rugtuCf2U5CsHaTuGCZu6Xd/lPLSi2oE4+THkd8NBXFLs2iryp2Af48vmKQLPl+IV/YWjSiz2LhNCykkNPO7sTyZOnSPT7DFsJgUlcvmjLi6eYHXAf87qFw6hvjjbrRA8aDCAxBg3K8TfyyTFTeywxErI=;rS6C34hp/OSeCoMZW4D38w=="
 ---

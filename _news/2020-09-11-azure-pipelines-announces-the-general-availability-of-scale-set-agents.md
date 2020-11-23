@@ -69,15 +69,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 73
-  - title: "New Azure Spot Virtual Machines features "
-    excerpt: "You can now access the price history of Spot Virtual Machines and the eviction rate for the past 28 trailing days in the Azure portal."
-    publishedDateTime: 2020-10-07T16:00:14Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/new-azure-spot-virtual-machines-features/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 67
   - title: "Microsoft Announces the General Availability of Azure Spring Cloud"
     excerpt: "Microsoft and VMWare both announced the general availability of Azure Spring Cloud, a fully-managed service for Spring Boot apps. The service allows enterprises to deploy JARs or code to it, and the service automates the process of wiring the apps to the Spring service runtime."
     publishedDateTime: 2020-09-09T11:11:00Z

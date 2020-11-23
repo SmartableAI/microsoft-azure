@@ -31,15 +31,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 84
-  - title: "Azure Monitor for Virtual Machines Guest Health is in public preview"
-    excerpt: "Announcing the Public Preview of the Guest Health feature of Azure Monitor for Virtual Machines, that monitors the health of your virtual machines and fires an alert when any of the parameters being monitored are outside the acceptable range."
-    publishedDateTime: 2020-11-19T17:00:45Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-monitor-for-virtual-machines-guest-health-preview/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 84
   - title: "New recommendations from Azure Advisor are now available"
     excerpt: "Four new best practice recommendations will help you improve the reliability and performance of your Azure resources"
     publishedDateTime: 2020-11-11T17:00:00Z

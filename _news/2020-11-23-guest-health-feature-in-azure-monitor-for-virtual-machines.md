@@ -1,14 +1,14 @@
 ---
 category: news
-title: "New Azure Spot Virtual Machines features "
-excerpt: "You can now access the price history of Spot Virtual Machines and the eviction rate for the past 28 trailing days in the Azure portal."
-publishedDateTime: 2020-10-07T16:00:14Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/new-azure-spot-virtual-machines-features/"
-webUrl: "https://azure.microsoft.com/en-us/updates/new-azure-spot-virtual-machines-features/"
+title: "Guest health feature in Azure Monitor for virtual machines"
+excerpt: "We are announcing the preview of Azure Monitor for virtual machines guest health feature that monitors the health of your virtual machines and fires an alert when any parameter being monitored is outside the acceptable range. "
+publishedDateTime: 2020-11-23T08:00:20Z
+originalUrl: "https://azure.microsoft.com/blog/guest-health-feature-in-azure-monitor-for-virtual-machines/"
+webUrl: "https://azure.microsoft.com/blog/guest-health-feature-in-azure-monitor-for-virtual-machines/"
 type: article
-quality: 67
-heat: -1
-published: false
+quality: 121
+heat: 201
+published: true
 
 provider:
   name: Microsoft
@@ -20,22 +20,16 @@ provider:
 
 topics:
   - Azure
+  - DevOps
+  - Compute
+
+images:
+  - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/de286894-4cc1-4f92-b718-dbbf86d2ab0c.png"
+    width: 1024
+    height: 485
+    isCached: true
 
 related:
-  - title: "Guest health feature in Azure Monitor for virtual machines"
-    excerpt: "We are announcing the preview of Azure Monitor for virtual machines guest health feature that monitors the health of your virtual machines and fires an alert when any parameter being monitored is outside the acceptable range. "
-    publishedDateTime: 2020-11-23T08:00:20Z
-    webUrl: "https://azure.microsoft.com/blog/guest-health-feature-in-azure-monitor-for-virtual-machines/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 121
-    images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/de286894-4cc1-4f92-b718-dbbf86d2ab0c.png"
-        width: 1024
-        height: 485
-        isCached: true
   - title: "Azure Monitor for Virtual Machines Guest Health is in public preview"
     excerpt: "Announcing the Public Preview of the Guest Health feature of Azure Monitor for Virtual Machines, that monitors the health of your virtual machines and fires an alert when any of the parameters being monitored are outside the acceptable range."
     publishedDateTime: 2020-11-19T17:00:45Z
@@ -45,6 +39,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 84
+  - title: "New Azure Spot Virtual Machines features "
+    excerpt: "You can now access the price history of Spot Virtual Machines and the eviction rate for the past 28 trailing days in the Azure portal."
+    publishedDateTime: 2020-10-07T16:00:14Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/new-azure-spot-virtual-machines-features/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
   - title: "Announcing the general availability of Azure Monitor for virtual machines"
     excerpt: "Today we're announcing the general availability of Azure Monitor for virtual machines (VMs), which provides an in-depth view of VM performance trends and dependencies. You can access Azure Monitor for VMs from the Azure VM resource blade to view details about a single VM, from the Azure Virtual Machine"
     publishedDateTime: 2020-03-16T10:00:32Z
@@ -69,6 +72,6 @@ related:
       domain: microsoft.com
     quality: 17
 
-secured: "aJJ1CfrotwYcisLMxSag2euLIgSkdg/NxI3jWDVUtZU4sQoUbIaKuMqpetTPAcGm1smQkQgab4ApME09hCo2aIf9YIBPrThedN9coVpXXxChOvgxaYGb8MvMHTuzky6WAG9biWSEf7lIMxkiOdL4H6hN5kg6YWSvsjAp1/CRjLDeKmaxLY8ij9IQ0USpMeu1nuqnajKEqRzwo5mb3JGlTPBYdzgDEcCE/0lwFie+2Lg8j/3t6injJgBmHr0UMX/CMQmkP0biSKTofGGethZSAJzzorxWJjMUgHTLOk4efy9Ds6/UsvZRLWJzlOz5SvFyuv3MDQMwbCLVo/Yxsj8XeMLj/5fu+GvvDQswqX/S9LQ=;+XjyOkmCvd9T12ffBwkpXA=="
+secured: "IcP58rBSNU1bFl26FliMzzNDkUnYvOTfbrimjzGzAbv6+3BoF7cQgmgIkQpnozB+ZdXkbwRIaxCL8zivHrTbwc36nbAskkVBGqc7iu5KXTHWYnPBMzo9uOvJXuP1g9lrPonYXlCOWSMB84Jx4k72Xb90R6B45zekNKIvWWlouD3f0XEKXP/YWihN958Kj7VWg+lW3B0zIAlq8dyyQnuONCbiHYnqXFURmWmDyFRy1V1tlcbli4hM+GN4SLlYzZjLUoFbqGwojeNrNbojiijU2Fy9Gg1JJuPxsRU+29TNCz4i7QqfRkpZdDgyxk7zOxousLlAd105uvM8hAvfb3dLVy+oZ848jWqtHOZV5kgQgXc=;SPrs81A4jp/ruf7/XbSRqw=="
 ---
 

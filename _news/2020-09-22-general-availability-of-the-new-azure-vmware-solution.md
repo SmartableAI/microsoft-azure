@@ -58,20 +58,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 84
-  - title: "Announcing the general availability of Azure Monitor for virtual machines"
-    excerpt: "Today we're announcing the general availability of Azure Monitor for virtual machines (VMs), which provides an in-depth view of VM performance trends and dependencies. You can access Azure Monitor for VMs from the Azure VM resource blade to view details about a single VM, from the Azure Virtual Machine"
-    publishedDateTime: 2020-03-16T10:00:32Z
-    webUrl: "https://azure.microsoft.com/blog/announcing-the-general-availability-of-azure-monitor-for-virtual-machines/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 55
-    images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/8aaf8f84-054c-4681-82e8-58dd8d160940.png"
-        width: 1430
-        height: 953
-        isCached: true
   - title: "General Availability: Application Insight in UK West"
     excerpt: "Application Insight, a part of Azure Monitor,  is now generally available in the UK West region for customers to collect telemetry and analyze their service health in production environments. "
     publishedDateTime: 2020-09-29T15:23:28Z

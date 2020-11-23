@@ -79,15 +79,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 73
-  - title: "New Azure Spot Virtual Machines features "
-    excerpt: "You can now access the price history of Spot Virtual Machines and the eviction rate for the past 28 trailing days in the Azure portal."
-    publishedDateTime: 2020-10-07T16:00:14Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/new-azure-spot-virtual-machines-features/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 67
   - title: "Finxact Announces General Availability of its Core-as-a-Service on Microsoft Azure"
     excerpt: "Finxact is responding to growing market demand from its regional and super regional clients and prospects to support Azure. Finxact chose Microsoft based on its unique strength in accelerating ..."
     publishedDateTime: 2020-05-13T12:33:00Z
