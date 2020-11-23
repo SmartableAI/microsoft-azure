@@ -9,7 +9,7 @@ ampWebUrl: "https://www.sportskeeda.com/amp/esports/how-microsoft-azure-will-pla
 cdnAmpWebUrl: "https://www-sportskeeda-com.cdn.ampproject.org/c/s/www.sportskeeda.com/amp/esports/how-microsoft-azure-will-play-crucial-role-pubg-mobile-s-india-comeback"
 type: article
 quality: 71
-heat: 92
+heat: 112
 published: true
 
 provider:
@@ -41,6 +41,17 @@ related:
         width: 1280
         height: 717
         isCached: true
+  - title: "Cloud visibility, intelligence, and control from OpsCompass: Now available in the Microsoft Azure Marketplace"
+    excerpt: "Microsoft Azure customers worldwide now gain access to the Microsoft Cloud Adoption Framework-focused OpsCompass solution to take advantage of the scalability, reliability,"
+    publishedDateTime: 2020-11-23T14:55:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/11/p18488336/cloud-visibility-intelligence-and-control-from-opscompass-now-available-in-the-microsoft-azure-mar"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/18488336"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18488336"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 18
 
 secured: "v42f+9w7yQvHaub/eee8SfNWl+N7P3d3wUNfLXnLd4Dxw+dnJ76qkSCKaCPykLuY4Yk09PsqR0KygHYlZLF2dV9Xpk+Bp60YZv9+vzwMoXSSo35Dy0p6h07TXG5FN8bk5CWBzUzDUFe3FKAZsNwas4ZpIGwZy7shmJQoEu+zpCbXoJ8aVLpjrC931Ih6eMlFcSgGKKHTxs7jeeKysbyc4LheZNlWF5Z4o0pMSST7CP3M7/vLmlvsUAGqMsObCbOlks4qX8UM/yoZaTHKZegd4ooQD//vdhPjJVa0WZjH5jc29h4Ywj3DDC4fLI0y1aksWNZbEWuM/f7HNyxXcpfowA4/xTSd9qZmdGeWH6WrZnE=;HkKwoIQF7X8Hdf7r51t2Lg=="
 ---

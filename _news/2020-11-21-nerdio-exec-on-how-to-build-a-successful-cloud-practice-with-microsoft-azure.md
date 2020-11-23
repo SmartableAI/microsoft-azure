@@ -40,6 +40,17 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Cloud visibility, intelligence, and control from OpsCompass: Now available in the Microsoft Azure Marketplace"
+    excerpt: "Microsoft Azure customers worldwide now gain access to the Microsoft Cloud Adoption Framework-focused OpsCompass solution to take advantage of the scalability, reliability,"
+    publishedDateTime: 2020-11-23T14:55:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/11/p18488336/cloud-visibility-intelligence-and-control-from-opscompass-now-available-in-the-microsoft-azure-mar"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/18488336"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18488336"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 18
 
 secured: "X7LMAktKftYJWcXnlXzC8DlWmk5yi958/npZZXu6qHTrMmXXNXr5WfqV2mtshcpG5SBw3/iuXBxaGoVCr7d1la1Unxj1U5d54ueyyPOaWmup6fkV9nj92W5xLm0HBVBg1SpjV+sORxfWFMfUm1LfA9Q24uLpxjI71k09Bu3RHtiNGm0RhLn51R9LxbkEoxM962jWXs3RvWBbetEdOx03n40VcQlJeUabSbWbzpgqCHuw3VugJDD/cy6yd+Y/ijty8lD6q3v52rsGdJvcYHvTgGsYVLoSfxGWTUBF5MUulKYVcYdvoY0F07pHMGhhtmnI/HwLjTYtTJKJlC9u2/reEX3DXQ+O/VYsliICkETdoMhg6NibLnnll9ArZG9DoBG2WqLpanr6FMbjswl7lh5fKk0pvV9oGzwMuZttAntaPfaoVhUcvLYwkqkU+MrRXNFWKZ8XsS2rfcLxinUVzkZeSQLLHycD330DDao5sNJrfkvLb37KrprYEg28YF6ry96xwSdjTCn1j/iUHQramqSWkw==;fcM5nDjRjsPOGgtC8xOcRQ=="
 ---

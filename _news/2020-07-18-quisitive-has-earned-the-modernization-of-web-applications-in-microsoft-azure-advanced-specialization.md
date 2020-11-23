@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-18T19:19:00Z
 webUrl: "https://www.marketwatch.com/press-release/quisitive-has-earned-the-modernization-of-web-applications-in-microsoft-azure-advanced-specialization-2020-07-14"
 type: article
 quality: 62
-heat: 162
+heat: 182
 published: true
 
 provider:
@@ -65,6 +65,20 @@ related:
       - url: "http://mma.prnewswire.com/media/1213735/IFI_Techsolutions_Finalist_Microsoft_Partner_Award.jpg?p=facebook"
         width: 2560
         height: 1340
+        isCached: true
+  - title: "Quisitive Joins the Microsoft Cloud Native Accelerate Program"
+    excerpt: "PRNewswire/ -- Quisitive Technology Solutions Inc. (\"Quisitive\" or the \"Company\") (TSXV: QUIS), a premier Microsoft Solutions Provider, joins"
+    publishedDateTime: 2020-11-23T12:52:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/quisitive-joins-the-microsoft-cloud-native-accelerate-program-301178891.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 22
+    images:
+      - url: "https://mma.prnewswire.com/media/779354/Quisitive_Logo.jpg?p=facebook"
+        width: 797
+        height: 417
         isCached: true
   - title: "Ukrainian Azure Expert MSP Partner strengthens its Azure skills with achieved two Microsoft Advanced Specializations"
     excerpt: "Cloud Services has earned the Modernization of Web Applications in Microsoft Azure advanced specialization, and Windows Server and SQL Server Migration to Microsoft Azure advanced specialization, a validation of a solution partner’s in-depth knowledge ..."

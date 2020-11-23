@@ -62,6 +62,20 @@ related:
         width: 2560
         height: 1340
         isCached: true
+  - title: "Quisitive Joins the Microsoft Cloud Native Accelerate Program"
+    excerpt: "PRNewswire/ -- Quisitive Technology Solutions Inc. (\"Quisitive\" or the \"Company\") (TSXV: QUIS), a premier Microsoft Solutions Provider, joins"
+    publishedDateTime: 2020-11-23T12:52:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/quisitive-joins-the-microsoft-cloud-native-accelerate-program-301178891.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 22
+    images:
+      - url: "https://mma.prnewswire.com/media/779354/Quisitive_Logo.jpg?p=facebook"
+        width: 797
+        height: 417
+        isCached: true
   - title: "Ukrainian Azure Expert MSP Partner strengthens its Azure skills with achieved two Microsoft Advanced Specializations"
     excerpt: "Cloud Services has earned the Modernization of Web Applications in Microsoft Azure advanced specialization, and Windows Server and SQL Server Migration to Microsoft Azure advanced specialization, a validation of a solution partner’s in-depth knowledge ..."
     publishedDateTime: 2020-07-24T10:12:00Z

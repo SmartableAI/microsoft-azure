@@ -1,11 +1,12 @@
 ---
 category: news
-title: "IFI Techsolutions Recognized as a Finalist of OSS on Azure 2020 Microsoft Partner of the Year"
-excerpt: "IFI Techsolutions today announced it has been named a finalist of OSS on Azure 2020 Microsoft Partner of the Year Award. The company"
-publishedDateTime: 2020-07-13T19:30:00Z
-webUrl: "https://www.prnewswire.com/news-releases/ifi-techsolutions-recognized-as-a-finalist-of-oss-on-azure-2020-microsoft-partner-of-the-year-301092416.html"
+title: "Quisitive Joins the Microsoft Cloud Native Accelerate Program"
+excerpt: "PRNewswire/ -- Quisitive Technology Solutions Inc. (\"Quisitive\" or the \"Company\") (TSXV: QUIS), a premier Microsoft Solutions Provider, joins"
+publishedDateTime: 2020-11-23T12:52:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/quisitive-joins-the-microsoft-cloud-native-accelerate-program-301178891.html"
+webUrl: "https://www.prnewswire.com/news-releases/quisitive-joins-the-microsoft-cloud-native-accelerate-program-301178891.html"
 type: article
-quality: 26
+quality: 22
 heat: -1
 published: false
 
@@ -17,9 +18,9 @@ topics:
   - Azure
 
 images:
-  - url: "https://mma.prnewswire.com/media/1213735/IFI_Techsolutions_Finalist_Microsoft_Partner_Award.jpg?p=facebook"
-    width: 2560
-    height: 1340
+  - url: "https://mma.prnewswire.com/media/779354/Quisitive_Logo.jpg?p=facebook"
+    width: 797
+    height: 417
     isCached: true
 
 related:
@@ -49,6 +50,20 @@ related:
       domain: businessinsider.com
     quality: 53
   - title: "IFI Techsolutions Recognized as a Finalist of OSS on Azure 2020 Microsoft Partner of the Year"
+    excerpt: "IFI Techsolutions today announced it has been named a finalist of OSS on Azure 2020 Microsoft Partner of the Year Award. The company"
+    publishedDateTime: 2020-07-13T19:30:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/ifi-techsolutions-recognized-as-a-finalist-of-oss-on-azure-2020-microsoft-partner-of-the-year-301092416.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 26
+    images:
+      - url: "https://mma.prnewswire.com/media/1213735/IFI_Techsolutions_Finalist_Microsoft_Partner_Award.jpg?p=facebook"
+        width: 2560
+        height: 1340
+        isCached: true
+  - title: "IFI Techsolutions Recognized as a Finalist of OSS on Azure 2020 Microsoft Partner of the Year"
     excerpt: "MUMBAI, July 14, 2020 /PRNewswire/ -- IFI Techsolutions today announced it has been named a finalist of OSS on Azure 2020 Microsoft Partner of the Year Award. The company was honored among a global field of top Microsoft partners for demonstrating ..."
     publishedDateTime: 2020-07-14T04:50:00Z
     webUrl: "https://www.prnewswire.com/in/news-releases/ifi-techsolutions-recognized-as-a-finalist-of-oss-on-azure-2020-microsoft-partner-of-the-year-830017699.html"
@@ -61,20 +76,6 @@ related:
       - url: "http://mma.prnewswire.com/media/1213735/IFI_Techsolutions_Finalist_Microsoft_Partner_Award.jpg?p=facebook"
         width: 2560
         height: 1340
-        isCached: true
-  - title: "Quisitive Joins the Microsoft Cloud Native Accelerate Program"
-    excerpt: "PRNewswire/ -- Quisitive Technology Solutions Inc. (\"Quisitive\" or the \"Company\") (TSXV: QUIS), a premier Microsoft Solutions Provider, joins"
-    publishedDateTime: 2020-11-23T12:52:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/quisitive-joins-the-microsoft-cloud-native-accelerate-program-301178891.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 22
-    images:
-      - url: "https://mma.prnewswire.com/media/779354/Quisitive_Logo.jpg?p=facebook"
-        width: 797
-        height: 417
         isCached: true
   - title: "Ukrainian Azure Expert MSP Partner strengthens its Azure skills with achieved two Microsoft Advanced Specializations"
     excerpt: "Cloud Services has earned the Modernization of Web Applications in Microsoft Azure advanced specialization, and Windows Server and SQL Server Migration to Microsoft Azure advanced specialization, a validation of a solution partner’s in-depth knowledge ..."
@@ -102,6 +103,6 @@ related:
       domain: benzinga.com
     quality: 13
 
-secured: "Cu/M/Dhk288tlfqbml2IncDPzY8/AMOMjZQBmyAWKxpRlpbs7f0FgH+3ae6P3PTSewHP6diIQfAzmgBtGXWHm9IBSEP1OVuYX7H8l3FW1RY4tlEugk4wXYnMohEx0ucGCFA7IxndUGkPCkYaeTuBo2y8xglrMgaC30dIWKj4SK+HZcMnIXyYgDQtItdOxJmcsIOyoUjDk0KUXRsUUfaLAwUw3O12B/XcFXPp0NC81eI6RX5q8no1StBTNZYRK72JUUSfqwUBQi7zr6LIAAJUb0zXVbDBsPSapH+KQCRLTpnMQCyLo/5ruvvO4b+/u7xp6Z5Q098lNU+F45a3vXxq+yIByTQhe9BZcqBJg8wR72B1SZplvGYQjJQhKS3eA8TwGzJVh/mGgZ1FZimm98o0oCXC/P93srEMUx54uxPLT9DQ+AlFhANtcpt3qkleTwnH3Ux4W86F8aoiwg7QAmyBFxklnTcU6jXxtwnhDGcKPOjsGUKR8ib/spInXRat8/eRIN1HLW9kD0Pzi3RpQpVncA==;+V2oiWRoBZ5kTC1s1lM+7A=="
+secured: "KfdX+0XpiII+x2+UiITTELiuwDyoFkAnKfXu6b3k6+S+epHLBjXqSjcprTeICjqqj2yyJ2wqtJvggyh3Hn9F4s6+/0hpRr6deuXyNeGle1XxsKSnWr+K9g7LGWm9tW9m962auvhZY3V39bp4CAx9v+ejeYHF4h7d/BGtXg6Mjz9DFJ4/91YvN5ivVvzYtXmaVdTBtymPlFeJ5TnMBP+Q7o5bPXz8q+Y7dC+6Ihfjyxm1TYMXbZ/zZIx4Gq5zYCPL4SujhPJlTmSqD+KqsZtUY7xAmctGtqGyrkm4z9lDoFy+mHh8pFIRLZ5urv1PjXF24be027upgJY9hQg+pNBulYkIEzXlgdWiMs/8v2jE9m8=;YH+w35HV8xVEsdlzpIe1fQ=="
 ---
 
