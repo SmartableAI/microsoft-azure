@@ -4,49 +4,6 @@
   "page": 13,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-create-security-baselines.md",
-      "title": "Create security baselines",
-      "excerpt": "Create security baselines",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-create-security-baselines/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-security-baselines/",
-      "length": "PT60M",
-      "ratings": {
-        "count": 2444,
-        "average": 4.642799
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/create-security-baselines-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Security"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-cv-classify-bird-species.md",
       "title": "Classify endangered bird species with Custom Vision",
       "excerpt": "Learn how to use Azure Cognitive Services Custom Vision to build a machine learning model that identifies the species of a bird in an image, to help with gathering data.",
@@ -403,8 +360,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/enable-digital-transformation/",
       "length": "PT32M",
       "ratings": {
-        "count": 8863,
-        "average": 4.6970553
+        "count": 8864,
+        "average": 4.697089
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -654,8 +611,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/host-domain-azure-dns/",
       "length": "PT43M",
       "ratings": {
-        "count": 2697,
-        "average": 4.82462
+        "count": 2698,
+        "average": 4.824685
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -775,8 +732,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/improve-app-scalability-resiliency-with-load-balancer/",
       "length": "PT47M",
       "ratings": {
-        "count": 2207,
-        "average": 4.7190757
+        "count": 2208,
+        "average": 4.719203
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1117,8 +1074,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/keep-your-virtual-machines-updated/",
       "length": "PT35M",
       "ratings": {
-        "count": 2898,
-        "average": 4.4986196
+        "count": 2899,
+        "average": 4.4987926
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1263,6 +1220,48 @@
           "url": "https://docs.microsoft.com/learn/achievements/safeguard-your-environment-with-microsoft-azure-advanced-threat-protection-social.png",
           "width": 642,
           "height": 321,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-maintain-azure-sap-workloads.md",
+      "title": "Maintain Azure for SAP workloads",
+      "excerpt": "Maintain Azure for SAP workloads",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-maintain-azure-sap-workloads/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/maintain-azure-sap-workloads/",
+      "length": "PT48M",
+      "ratings": {
+        "count": 128,
+        "average": 4.7421875
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Advanced"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/maintain-azure-sap-workloads-social.png",
+          "width": 800,
+          "height": 400,
           "isCached": true
         }
       ],
