@@ -6,7 +6,7 @@ publishedDateTime: 2020-05-04T13:02:00Z
 webUrl: "https://www.datacenterdynamics.com/en/news/cloud-providers-see-aggressive-growth-amidst-covid-19-outbreak/"
 type: article
 quality: 22
-heat: 22
+heat: 62
 published: false
 
 provider:

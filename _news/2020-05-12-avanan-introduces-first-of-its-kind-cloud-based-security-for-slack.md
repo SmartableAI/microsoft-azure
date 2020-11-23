@@ -6,7 +6,7 @@ publishedDateTime: 2020-05-12T13:12:00Z
 webUrl: "https://markets.businessinsider.com/news/stocks/avanan-introduces-first-of-its-kind-cloud-based-security-for-slack-1029192263"
 type: article
 quality: 42
-heat: 42
+heat: 62
 published: false
 
 provider:
