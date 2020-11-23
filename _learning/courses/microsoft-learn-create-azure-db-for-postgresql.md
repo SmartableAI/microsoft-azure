@@ -6,8 +6,8 @@ type: course
 price: Free
 length: PT44M
 ratings:
-  count: 1914
-  average: 4.627482
+  count: 1915
+  average: 4.627676
 heat: 51
 
 provider:
@@ -25,6 +25,12 @@ topics:
   - Azure
   - Management Tools
   - Databases
+
+images:
+  - url: https://docs.microsoft.com/learn/achievements/intro-to-postgres-social.png
+    width: 640
+    height: 320
+    isCached: true
 
 secured: "RVeBqT4cIfSqBDfSv2KxRhb5QdeWZcST3an4W0I+YDaT+1cV4uXI1T3v+u3GmAzq1Ww1gjoPup3/2qmE0FZi/zuTjvb1wYejHfCfcYBxPU2xrdzFVsje+UYkyegPHVqSr6zPSTO88nb1tRqi61P0XcJ+aphYtNgAJyOkTQZy+A+eJ76cKAt0LrO7pW3BhfG5yNeTwTTZZ1NGSuNC8gBxLTo2ULagQRjSydmdNzWobehEkWDnNpapxWbFyw7PoDmZOQulErg45PpQ0YSoY+k8//Qjf8IwnlsYo0sKh4TWm63IJzVszmWYuSX22HhZUN2I6oZSwUg5LZG0dA1JtgUOJB2BbknWOqpcC03v2Qz/m0HQbDohQffJaOY/GmjPIFJ1wwh7HqSEzUFcPvjP2ykuPwrfDnhJWeezvvvFp8BeuUs=;2osCwg68D8VqfRQ1NrNXag=="
 ---

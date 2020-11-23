@@ -31,9 +31,9 @@ topics:
   - Management Tools
 
 images:
-  - url: https://docs.microsoft.com/learn/achievements/azure-scale-azure-sql-databases-elastic-pools-social.png
-    width: 800
-    height: 400
+  - url: https://docs.microsoft.com/learn/achievements/intro-to-postgres-social.png
+    width: 640
+    height: 320
     isCached: true
 
 secured: "VUzjqRFU4TRF9q6rEH+ng+/uxSiDcN191SVtOtw8WeGN3WE24NyMuiE1/gPL2Y3bKNe6DihvA1fylo7G57p6IyvuVrL6SIeSciMGx10neqi91biS1ZqGGcYl068XaCvA7uoJ0GUXBg3nOq5UxxWv+Uz8XmNFW1jtHw2vVxnNLt1pIlyWYZMBT6C7G1sz+UrvUA26UIova8lWuhi09Pt93HSAcXszZr88fC8mtbKJaci4RskS7suh4cfifjQ9TSdej+zXzfuhW8h95WpE7E7MZSEJvZ7aRZNyn5ieOSMUobsWxsmhkb4Sg7IWqtWNS3y9MuLPJrTA2BS0XZIaVAGiNhm++3IZlXey1rBFDEp1+6Q=;KkV14EWfhFvZ9dns5wdlDA=="
