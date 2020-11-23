@@ -6,7 +6,7 @@ publishedDateTime: 2020-05-07T23:40:00Z
 webUrl: "https://fcw.com/articles/2020/05/07/aws-dod-agency-protest-blog-wars.aspx"
 type: article
 quality: 22
-heat: 22
+heat: 102
 published: false
 
 provider:
