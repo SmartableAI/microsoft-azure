@@ -7,7 +7,7 @@ price: Free
 length: PT40M
 ratings:
   count: 1524
-  average: 4.593176
+  average: 4.593832
 heat: 50
 
 provider:
