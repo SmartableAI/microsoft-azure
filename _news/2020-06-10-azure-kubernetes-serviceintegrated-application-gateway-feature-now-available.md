@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-10T16:00:23Z
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-kubernetes-service-integrated-application-gateway-feature-now-available/"
 type: article
 quality: 14
-heat: 14
+heat: 34
 published: false
 
 provider:

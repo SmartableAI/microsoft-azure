@@ -80,6 +80,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 52
+  - title: "Unified Connection Monitor in Network Watcher is now generally available"
+    excerpt: "Connection monitor provides unified end-to-end connection monitoring capabilities for hybrid and Azure deployments. It brings together the best of Network Performance Monitor and Connection Monitor (classic)."
+    publishedDateTime: 2020-11-24T17:00:34Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/connection-monitor-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 51
   - title: "Azure App Service hybrid connections for Linux apps is now available"
     excerpt: "The hybrid connections feature of Azure App Service, which enables access to resources in disparate networks, is now available in public regions."
     publishedDateTime: 2020-06-11T16:00:15Z
