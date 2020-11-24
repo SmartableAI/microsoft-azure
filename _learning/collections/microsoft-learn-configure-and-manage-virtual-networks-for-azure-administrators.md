@@ -4,7 +4,7 @@ excerpt: "Learn how to configure and manage key Azure network capabilities."
 type: collection
 price: Free
 length: PT12H34M
-heat: 66
+heat: 68
 
 provider:
   name: Microsoft Learn
