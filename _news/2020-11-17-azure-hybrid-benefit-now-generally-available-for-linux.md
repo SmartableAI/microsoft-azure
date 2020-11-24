@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/azure-hybrid-benefit-now-generall
 webUrl: "https://azure.microsoft.com/blog/azure-hybrid-benefit-now-generally-available-for-linux/"
 type: article
 quality: 87
-heat: 227
+heat: 228
 published: true
 
 provider:
