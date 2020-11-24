@@ -122,17 +122,6 @@ related:
         width: 377
         height: 212
         isCached: true
-  - title: "Red Box Delivers Cloud Configurable Voice Recording to Fuel AI on Microsoft Azure"
-    excerpt: "It combines the power of Conversa audio processing in Microsoft Azure and Microsoft AI, with seamless support of both cloud and premise-based telephony aligned with frictionless zero touch ..."
-    publishedDateTime: 2020-11-20T12:09:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/red-box-delivers-cloud-configurable-voice-recording-to-fuel-ai-on-microsoft-azure-1029824618"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/red-box-delivers-cloud-configurable-voice-recording-to-fuel-ai-on-microsoft-azure-1029824618"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/red-box-delivers-cloud-configurable-voice-recording-to-fuel-ai-on-microsoft-azure-1029824618"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 89
   - title: "NBA and Microsoft plan personalized, AI-powered game streaming"
     excerpt: "To start, they’ll broadcast live and on-demand games via Microsoft Azure and add personalized real-time stats overlays. They’ll also explore new ways to share clips from historical video archives, reward viewers for participation and catch fans up on their favorite teams without having them search through all scores, headlines and highlights."
     publishedDateTime: 2020-04-16T19:38:00Z
@@ -228,6 +217,22 @@ related:
       - url: "https://idge.staticworld.net/ifw/IFW_logo_social_300x300.png"
         width: 300
         height: 300
+        isCached: true
+  - title: "Red Box Delivers Cloud Configurable Voice Recording to Fuel AI on Microsoft Azure"
+    excerpt: "It combines the power of Conversa audio processing in Microsoft Azure and Microsoft AI, with seamless support of both cloud and premise-based telephony aligned with frictionless zero touch ..."
+    publishedDateTime: 2020-11-20T13:39:00Z
+    webUrl: "https://www.asiaone.com/business/red-box-delivers-cloud-configurable-voice-recording-fuel-ai-microsoft-azure"
+    ampWebUrl: "https://www.asiaone.com/business/red-box-delivers-cloud-configurable-voice-recording-fuel-ai-microsoft-azure?amp"
+    cdnAmpWebUrl: "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/red-box-delivers-cloud-configurable-voice-recording-fuel-ai-microsoft-azure?amp"
+    type: article
+    provider:
+      name: Asia One
+      domain: asiaone.com
+    quality: 69
+    images:
+      - url: "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Nov2020/pr-newswire_500_4_1150.jpg?itok=ofPGFTnm"
+        width: 763
+        height: 509
         isCached: true
   - title: "Lenovo Teams With Microsoft Azure At The Edge"
     excerpt: "The new offerings are tied closely to Microsoft’s Azure software stack for enterprises operating in a hybrid cloud model, with a presence both on-premises and in the cloud. Microsoft actually pre-announced the new ThinkAgile MX1021 at its Ignite 2019 ..."

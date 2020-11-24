@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Microsoft Azure: A cheat sheet"
-excerpt: "This comprehensive guide about Microsoft Azure includes common use cases, technical limitations, and what to know before adopting the cloud computing platform. The rise of cloud computing provides businesses the ability to quickly provision computing ..."
-publishedDateTime: 2020-08-07T00:22:00Z
-originalUrl: "https://www.techrepublic.com/article/microsoft-azure-the-smart-persons-guide/"
-webUrl: "https://www.techrepublic.com/article/microsoft-azure-the-smart-persons-guide/"
-ampWebUrl: "https://www.techrepublic.com/google-amp/article/microsoft-azure-the-smart-persons-guide/"
-cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-azure-the-smart-persons-guide/"
+title: "Microsoft Azure inherits new VPN features"
+excerpt: "Microsoft Azure has announced that a host of new VPN features are now generally available to users of its VPN Gateway. The new additions will provide additional functionality for businesses that have been pushed into adopting remote working during the ..."
+publishedDateTime: 2020-11-24T21:34:00Z
+originalUrl: "https://www.techradar.com/sg/news/microsoft-azure-inherits-new-vpn-features"
+webUrl: "https://www.techradar.com/sg/news/microsoft-azure-inherits-new-vpn-features"
+ampWebUrl: "https://www.techradar.com/sg/amp/news/microsoft-azure-inherits-new-vpn-features"
+cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/sg/amp/news/microsoft-azure-inherits-new-vpn-features"
 type: article
 quality: 97
-heat: 877
-published: true
+heat: -1
+published: false
 
 provider:
-  name: TechRepublic
-  domain: techrepublic.com
+  name: TechRadar
+  domain: techradar.com
   images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/techrepublic.com-50x50.jpg"
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/techradar.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -24,12 +24,28 @@ topics:
   - Azure
 
 images:
-  - url: "https://tr1.cbsistatic.com/hub/i/r/2016/03/10/094493b1-358a-4ef7-92db-663e6b745668/resize/1200x/c51ec9da1ef26e61c5713906a2fe515f/microsoftazure.png"
+  - url: "https://cdn.mos.cms.futurecdn.net/GqD2mPLrmuKb3SVWpF3rCk-1200-80.jpg"
     width: 1200
-    height: 744
+    height: 674
     isCached: true
 
 related:
+  - title: "Microsoft Azure: A cheat sheet"
+    excerpt: "This comprehensive guide about Microsoft Azure includes common use cases, technical limitations, and what to know before adopting the cloud computing platform. The rise of cloud computing provides businesses the ability to quickly provision computing ..."
+    publishedDateTime: 2020-08-07T00:22:00Z
+    webUrl: "https://www.techrepublic.com/article/microsoft-azure-the-smart-persons-guide/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/article/microsoft-azure-the-smart-persons-guide/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-azure-the-smart-persons-guide/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 97
+    images:
+      - url: "https://tr1.cbsistatic.com/hub/i/r/2016/03/10/094493b1-358a-4ef7-92db-663e6b745668/resize/1200x/c51ec9da1ef26e61c5713906a2fe515f/microsoftazure.png"
+        width: 1200
+        height: 744
+        isCached: true
   - title: "Save 98% on this AWS and Microsoft Azure online training course"
     excerpt: "Amazon Web Services (AWS) and Microsoft Azure are currently the most popular cloud services on the market, and this Complete 2020 Cloud Certification Training bundle can teach you how to use these ..."
     publishedDateTime: 2020-08-08T06:20:00Z
@@ -52,22 +68,6 @@ related:
     webUrl: "https://www.techradar.com/news/microsoft-azure-inherits-new-vpn-features"
     ampWebUrl: "https://www.techradar.com/amp/news/microsoft-azure-inherits-new-vpn-features"
     cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/microsoft-azure-inherits-new-vpn-features"
-    type: article
-    provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 97
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/GqD2mPLrmuKb3SVWpF3rCk-1200-80.jpg"
-        width: 1200
-        height: 674
-        isCached: true
-  - title: "Microsoft Azure inherits new VPN features"
-    excerpt: "Microsoft Azure has announced that a host of new VPN features are now generally available to users of its VPN Gateway. The new additions will provide additional functionality for businesses that have been pushed into adopting remote working during the ..."
-    publishedDateTime: 2020-11-24T21:34:00Z
-    webUrl: "https://www.techradar.com/sg/news/microsoft-azure-inherits-new-vpn-features"
-    ampWebUrl: "https://www.techradar.com/sg/amp/news/microsoft-azure-inherits-new-vpn-features"
-    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/sg/amp/news/microsoft-azure-inherits-new-vpn-features"
     type: article
     provider:
       name: TechRadar
@@ -555,6 +555,6 @@ related:
       domain: bobsguide.com
     quality: 0
 
-secured: "/e2oN1KzDwDCiu6n/qAqpYzRM1ZAPJuu3Tw2t5/IfItliDIqjtf1WSVmWNooVwSiAEnMNj+6jZ7tvZlSVQWZCkTkxhu1ztwkYXTeH5idoKiwg1HFVgkIw9IvJd9gWReL35Yc6fGrBz2dTSdcphMiVfTLZtu0/isdu+Ep1e4JuLggczJe6P5y6AYtz0ASvdeAe3GACs5zv5v63OchdneQr2d2s2nsBEZf6nl6bAVEaYvF384gYCqxw2cMQlYn/+Rxd9piSei4ciaXhaFZr4dgEY9j4/NPSRZAoWbnVOh2ndfWh6pWTj9AXhylETHpaHQIrta5cgPCQf6aKWGt40AsWA==;SY4LgqnYDzxcIW9T/dq7Pg=="
+secured: "TTYhCrzdF0GxwS8NprLDYfay3pEd8bNebZbAPjULBxK8P2t7yrdakozQ4xu8qDWZNJAqYhFqkCNPdqx8zYTwrXdJVe8Kgc3UoPlnAl3+FrDpdQAx5sRnyTuGu/0QeDTIa+sK64/stYTXlkzP6kxR5OAB7vUOqLuqoQ0xZ+yadlwEyjlg23Mrd3E0+ei58g06dnc6ee3Q4+qA5eLYjpcJwFRzEVZTIoxB4MRd5HY+/rJ9lDUGuyJgPO0HWoHi1au/T0qIFkE/feFD7xqjW9Az4SCmIBMx56jztHxPI9LJxx+3XIY6Pt0A7tMmVDRb+9RoONUxIMsVnqEeq7Qi1VeyK7XhpLhsOO2TxLuaS4gXjSM=;PinTjPdTNEXETafGAiw+Gw=="
 ---
 
