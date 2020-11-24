@@ -4,7 +4,7 @@ excerpt: "This learning path helps you leverage the built-in Azure services for 
 type: collection
 price: Free
 length: PT5H38M
-heat: 66
+heat: 70
 
 provider:
   name: Microsoft Learn
