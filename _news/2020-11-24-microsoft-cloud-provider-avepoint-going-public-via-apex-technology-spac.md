@@ -25,6 +25,17 @@ images:
     height: 894
     isCached: true
 
+related:
+  - title: "Microsoft cloud partner AvePoint going public via merger with blank-check company Apex Technology"
+    excerpt: "MarketWatch Microsoft cloud partner AvePoint going public via merger with blank-check company Apex Technology . . Nov 23, 2020 2:57 PM UTC"
+    publishedDateTime: 2020-11-24T05:16:00Z
+    webUrl: "https://www.morningstar.com/news/marketwatch/20201123246/microsoft-cloud-partner-avepoint-going-public-via-merger-with-blank-check-company-apex-technology"
+    type: article
+    provider:
+      name: Morningstar, Inc.
+      domain: morningstar.com
+    quality: 0
+
 secured: "IATHiiSXsveiNCZ8pdKxtYbyI+SR1ekwrLfkxDVau6prmE3v9tG4w8pyiAZxbCrq3dGpGdF3cUwJqoGBcmkB7iFsvmERWyRMz5ly5puheW2k61xwHDqpbeQfreQXWo28N5+5xWhZDbrlde2tlDCMM6YWKLrjQxKyaG5k+PQWg5Iwri8G8cZTwzH58c582D18DAWjClud3dF7PUBINLkKNh0MWAd2ZC2jG8nbkGYpXmmLzPbi/X3oU/cfSCOvYBGxoWBxhQIclMzry0vKddVYYv36+BR04/supoZptlHWF7W6ib06SXZnoj8NMcZSgtV+cpbRy1zr1tqfQVRSRCx6kX/g2pGAZLgbrjxXvOWELVepeBJ9YsbiSFPOjC7DS5Pi4DdtkrtcN5TTU+A3lKXSpPts3KBU+j6RQtPirrTt6Du9kV9lN+MDBl5KRiFA6ZFOkP23c3QU74WFW0y+umZKK4R/iIeJUCdgFN3UlivNAiHzE2qpYixrSokUBus9I9OVXMLyKhYbc7of2uVr/sUxYQ==;b4swArzqAnwV8f9VuyO5Lg=="
 ---
 
