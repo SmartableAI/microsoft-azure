@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Red Box Delivers Cloud Configurable Voice Recording to Fuel AI on Microsoft Azure"
-excerpt: "It combines the power of Conversa audio processing in Microsoft Azure and Microsoft AI, with seamless support of both cloud and premise-based telephony aligned with frictionless zero touch ..."
-publishedDateTime: 2020-11-20T12:09:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/red-box-delivers-cloud-configurable-voice-recording-to-fuel-ai-on-microsoft-azure-1029824618"
-webUrl: "https://markets.businessinsider.com/news/stocks/red-box-delivers-cloud-configurable-voice-recording-to-fuel-ai-on-microsoft-azure-1029824618"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/red-box-delivers-cloud-configurable-voice-recording-to-fuel-ai-on-microsoft-azure-1029824618"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/red-box-delivers-cloud-configurable-voice-recording-to-fuel-ai-on-microsoft-azure-1029824618"
+excerpt: "Red Box, a leading platform for voice, today announces an extension of its relationship with Microsoft aligned to the launch of Conversa, Red Box’s enterprise voice platform. Red Box is already a Preferred Telephony Partner for conversation intelligence,"
+publishedDateTime: 2020-11-20T12:04:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/rich-stevenson-6b9e759a8496156988d869774f8fefdd"
+webUrl: "https://apnews.com/press-release/pr-newswire/rich-stevenson-6b9e759a8496156988d869774f8fefdd"
 type: article
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Azure
   - AI
 
-secured: "n0kVEgJzunCOq0stsugQA3OxamwXOuLZtkNDhK2dbaU7Y8fysjIAjRKNoO3BN2ogdi4c1hWaxrjkLNor4WPiVqJlxh64NzmfqsyP/potO82jZYv+4YMjXe0vZlB1SKyqpkIHm+Sfovf4VhdrPGoM/SWCA0dxpNflSAwjiAxnng0VOLF9nYu3a423Nc48gUQF05nRcEq00qzviHv34c9fRFWjGcB0bjik8IZlAjxLG9s2h2FWKG/nFRwJK9kSwVXixCDlc+aN/tJ6xHvr9+kjm7fsLI+Ua3OimFIPaBQy7q2xQtXlcs4pNuLG078gz/whtNhJRfob76f1qzRd/3atCpNO4Kk+VMIFylIMrBG/6ss=;mwdso65/ChiJcEwqPYHwoQ=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "mdgiOh1H65//wONQcOG6CQXIibMfAzqW5fRgJgsaddFESxwvo1gmyvQ3Cm1GKgEHXxTa0/eTrBS9kf0VRE6cx4QWHfg/iTsoZzqhtjdfuX/vmbsXUi4QEHYYE8EfWASekLnIaKTOFdWC7eC+RIvXVhIP74jPGaNkwTQEYbaY+SAjxy/5Y7CNcnuCf7QJmVYWnWzPNkw3iuEl3cWrvi7hApkgdJkZnduN96r5QIhjivZQS7QcdCYQ5cVBDr3x4RnOiKlezg3JWvc/0KYo+rksGEK0vVGXv+EFn0CErbfGlKoGHexmU56z9r+RGnbeqYJcvU2/tzlkQbFoh1Ikj0XO/qWdabfIH0Y/ebYzddO0xho=;DGmlDaWnUZhFimFI005vmA=="
 ---
 
