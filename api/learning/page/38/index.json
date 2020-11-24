@@ -4,45 +4,6 @@
   "page": 38,
   "value": [
     {
-      "path": "_learning/videos/microsoft-cloud-security-posture-management-cspm-with-azure-security-center-azure-friday.md",
-      "title": "Cloud Security Posture Management (CSPM) with Azure Security Center | Azure Friday",
-      "excerpt": "Azure Security Center enables you to strengthen your security posture. Yuri Diogenes joins Scott Hanselman to show how Security Center helps you identify and perform the hardening tasks recommended as security best practices and implement them across your machines, data services, and apps.  0:00 - Intro",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-cloud-security-posture-management-cspm-with-azure-security-center-azure-friday/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-cloud-security-posture-management-cspm-with-azure-security-center-azure-friday/",
-      "originalUrl": "https://youtube.com/watch?v=eIoWrBFFusY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/eIoWrBFFusY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT18M20S",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-06-11T15:30:15-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/eIoWrBFFusY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Security"
-      ]
-    },
-    {
       "path": "_learning/videos/microsoft-cloud-security-with-rob-polly.md",
       "title": "Cloud security with Rob Polly",
       "excerpt": "A ten-part miniseries recounting the Microsoft journey to the cloud—told by the pioneers who took us there. Microsoft cloud security expert Rob Polly outlines the challenges Microsoft faced during the transition to the cloud, and how the company addressed additional concerns related to privacy and geopolitical",
@@ -1161,6 +1122,46 @@
       "topics": [
         "Azure",
         "Serverless"
+      ]
+    },
+    {
+      "path": "_learning/videos/microsoft-go-serverless-serverless-operations-with-azure-devops-azure-friday.md",
+      "title": "Go serverless: Serverless operations with Azure DevOps | Azure Friday",
+      "excerpt": "Abel Wang joins Donovan Brown to show how to use Azure Pipelines to build and deploy apps for Azure Functions, App Service and even Kubernetes Clusters.  0:45 - Demo  Build and deploy Java to Azure Functions https://aka.ms/azfr/624/01  Deploy a Docker container app to Azure Kubernetes Service https://aka.ms/azfr/624/02",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-go-serverless-serverless-operations-with-azure-devops-azure-friday/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-go-serverless-serverless-operations-with-azure-devops-azure-friday/",
+      "originalUrl": "https://youtube.com/watch?v=JhXNjxe3sPY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/JhXNjxe3sPY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT15M7S",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-03-30T18:26:20-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/JhXNjxe3sPY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Serverless",
+        "DevOps"
       ]
     }
   ],
