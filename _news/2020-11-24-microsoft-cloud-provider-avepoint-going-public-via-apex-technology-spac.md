@@ -1,28 +1,26 @@
 ---
 category: news
 title: "Microsoft Cloud Provider AvePoint Going Public Via Apex Technology SPAC"
-excerpt: "Cloud partner AvePoint is set to go public with a SPAC deal announced Monday. The SPAC Deal: AvePoint will go public via"
-publishedDateTime: 2020-11-23T21:55:00Z
-originalUrl: "https://www.benzinga.com/m-a/20/11/18489999/microsoft-cloud-provider-avepoint-going-public-via-apex-technology-spac"
-webUrl: "https://www.benzinga.com/m-a/20/11/18489999/microsoft-cloud-provider-avepoint-going-public-via-apex-technology-spac"
-ampWebUrl: "https://amp.benzinga.com/amp/content/18489999"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18489999"
+excerpt: "Leading Microsoft cloud partner AvePoint is set to go public with a SPAC deal announced Monday. AvePoint will go public via Apex Technology Acquisition. The deal values the company at $2 billion. AvePoint co-founder and CEO Dr."
+publishedDateTime: 2020-11-23T17:43:00Z
+originalUrl: "https://www.cfo.com/the-cloud/2020/11/microsoft-cloud-provider-avepoint-going-public-via-apex-technology-spac/"
+webUrl: "https://www.cfo.com/the-cloud/2020/11/microsoft-cloud-provider-avepoint-going-public-via-apex-technology-spac/"
 type: article
-quality: 42
-heat: 42
+quality: 22
+heat: 22
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: CFO
+  domain: cfo.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://www.benzinga.com/files/images/story/2012/avepoint__logo.jpg"
-    width: 2347
-    height: 894
+  - url: "https://cdn.cfo.com/content/uploads/2019/10/Smart-Communications-Acquires-Intelledox.2115.jpg"
+    width: 830
+    height: 539
     isCached: true
 
 related:
@@ -36,6 +34,6 @@ related:
       domain: morningstar.com
     quality: 0
 
-secured: "IATHiiSXsveiNCZ8pdKxtYbyI+SR1ekwrLfkxDVau6prmE3v9tG4w8pyiAZxbCrq3dGpGdF3cUwJqoGBcmkB7iFsvmERWyRMz5ly5puheW2k61xwHDqpbeQfreQXWo28N5+5xWhZDbrlde2tlDCMM6YWKLrjQxKyaG5k+PQWg5Iwri8G8cZTwzH58c582D18DAWjClud3dF7PUBINLkKNh0MWAd2ZC2jG8nbkGYpXmmLzPbi/X3oU/cfSCOvYBGxoWBxhQIclMzry0vKddVYYv36+BR04/supoZptlHWF7W6ib06SXZnoj8NMcZSgtV+cpbRy1zr1tqfQVRSRCx6kX/g2pGAZLgbrjxXvOWELVepeBJ9YsbiSFPOjC7DS5Pi4DdtkrtcN5TTU+A3lKXSpPts3KBU+j6RQtPirrTt6Du9kV9lN+MDBl5KRiFA6ZFOkP23c3QU74WFW0y+umZKK4R/iIeJUCdgFN3UlivNAiHzE2qpYixrSokUBus9I9OVXMLyKhYbc7of2uVr/sUxYQ==;b4swArzqAnwV8f9VuyO5Lg=="
+secured: "wvRWupYC7BEJhZ5TK04x9OiZctn8Gs9UmCWPY5DB3owQQ6Y1t4m7ulpQ42VfpyinA8qdlJLluii/XLieT1/2S6oR0+LdHnItL/k6LHMR53Q4P9rYbhSYmSDHfQIV2/AzZ7rS5oxeNu8suVG6mcG6d8KwCTPhEqYQKvruM0Aayz59RhUBcCTtKM4F9XG0LlFvtUEqK5PQKDgE6/dghi7tdjSgwI0rDxqXWqNPoAVRu2cPi+c0WtRgYKw/sWroKaUL+4EnHRtXzsTntjoaZafCKoqxblZqnSjt8zyzPdmkbd1em6OTXmgRTTIjZq3g50AZt9JgIHEnmWf5fSqqWUWb0MJpGbzt9KePVU90lqBNAco=;nKpj7g7Mp0qjMqWXOvU2zg=="
 ---
 
