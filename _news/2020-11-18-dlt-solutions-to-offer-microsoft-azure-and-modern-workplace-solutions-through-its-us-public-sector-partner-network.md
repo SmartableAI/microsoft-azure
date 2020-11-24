@@ -9,7 +9,7 @@ ampWebUrl: "https://markets.businessinsider.com/amp/news/dlt-solutions-to-offer-
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/dlt-solutions-to-offer-microsoft-azure-and-modern-workplace-solutions-through-its-u-s-public-sector-partner-network-1029816539"
 type: article
 quality: 54
-heat: 94
+heat: 114
 published: true
 
 provider:
@@ -51,6 +51,20 @@ related:
       - url: "https://mms.businesswire.com/media/20201119005097/en/771234/23/datadobi-logo.jpg"
         width: 1200
         height: 627
+        isCached: true
+  - title: "Innovaccer's Patient Relationship Management Solution is Now Available on Microsoft Azure"
+    excerpt: "Innovaccer, Inc., a leading healthcare technology company, recently announced that its patient relationship management solution is"
+    publishedDateTime: 2020-11-24T18:01:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/innovaccers-patient-relationship-management-solution-is-now-available-on-microsoft-azure-301179976.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 28
+    images:
+      - url: "https://mma.prnewswire.com/media/1341834/bdecff853a4c4a802833fd9615b3.jpg?p=facebook"
+        width: 1134
+        height: 595
         isCached: true
 
 secured: "V+UCoAfCQ/l37PlubcdapHHppMRIxCT5OKYo1X9gR6WLdW3WlVUH8wYqTskrJkEyj8UCffxtoT0ZkofiYHnwW78qyf0t/q2M7reLl1foQ3PZvjrZcL601iLQFy6NzmpUeP7sZ6rv5Ixm3jZYsJPL2VcpUJw0zJ7qVs0Qi+2gBNslNd1hxvbkwYjehXL3q8pFy+o3ecLcdPzH0i2TXuq4/y6kFq77OIU0B4HDCGDLbn/dPebmXWw5AHPoJ8bALZ5zblsXgY3vLrQzIkwRY9QtDowgmJl+NRhB3UjyoB6KUraYRus7N3aNJ6KZqabWBaUDWbicneMR1Qt/g3sgybaP+rSXg0qhkT7m6XXZDTmgSU0=;i6wBQDSdExAL486UMSDcgA=="

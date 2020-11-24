@@ -7,7 +7,8 @@ originalUrl: "https://www.microsoft.com/security/blog/2020/11/24/microsoft-azure
 webUrl: "https://www.microsoft.com/security/blog/2020/11/24/microsoft-azure-active-directory-again-a-leader-in-gartner-magic-quadrant-for-access-management/"
 type: article
 quality: 41
-heat: 41
+heat: -1
+published: false
 
 provider:
   name: Microsoft
@@ -27,6 +28,50 @@ images:
     height: 1080
     isCached: true
 
-secured: "/GdTLdhw6VAhUW/WXTNl8EhwoQ5/q/VF3pvx/NSQ0HE9v4JYDTVK0joqmVTBUMwqr16jMTPKz4fCl25+XL5s2znhQiNZ/W0uQ5PzMIPcza3Vr3DfZafxst1tG1DtfezEKbMim2tqtqPWIbB/V+PhWPMEQi/gmSwagumD2UOlceHoY1qzo2TxdOj14jXrIaCiQ+KrFsUTvqNbV06MWwxyKYpuHeXd1heEpBXQSnq61ira+VoXbbyF5PbzQkJoOEJHmHldEZRL5CNA455p3Ku7jl3JL+dAFaviR6gPqgEuGY2U45BYjI592HSnJhXgknJJeX9pTOF6HQElVSOonRvyIQ1F2+gQhYnzkYXG5R4ah+Q=;kz1/+CRAl7Evk8I4018/3w=="
+related:
+  - title: "Microsoft is a Leader in the 2020 Gartner Magic Quadrant for Full Life Cycle API Management"
+    excerpt: "We are excited to share that Microsoft has been named a Leader in the Gartner Magic Quadrant for Full Life Cycle API Management 2020 based on the ability to execute and completeness of vision. Our placement is a testament to our continued innovation in enterprise API management capabilities and broad"
+    publishedDateTime: 2020-10-08T09:00:28Z
+    webUrl: "https://azure.microsoft.com/blog/microsoft-is-a-leader-in-the-2020-gartner-magic-quadrant-for-full-life-cycle-api-management/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 81
+    images:
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/1f677c33-38c9-4a44-beaf-a147e625b476.jpg"
+        width: 708
+        height: 768
+        isCached: true
+  - title: "Microsoft named a leader in Gartner’s Magic Quadrant for Enterprise Integration Platform as a Service"
+    excerpt: "We are excited to share that Gartner has positioned Microsoft as a Leader in the 2020 enterprise integration platform as a service (EiPaaS) Magic Quadrant, based on our ability to execute and completeness of vision. Microsoft has now remained an EiPaaS MQ leader for the past three years."
+    publishedDateTime: 2020-09-30T08:00:19Z
+    webUrl: "https://azure.microsoft.com/blog/microsoft-named-a-leader-in-gartners-magic-quadrant-for-enterprise-integration-platform-as-a-service/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 78
+    images:
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/2059e880-8170-4a2e-9a89-59d77305b60a.png"
+        width: 737
+        height: 768
+        isCached: true
+  - title: "Komprise addresses demand for file data management in the cloud with new capabilities for Microsoft Azure Files and Azure NetApp Files"
+    excerpt: "PRNewswire/ -- Komprise, the leader in analytics-driven data management, today announced new capabilities for its Komprise Intelligent Data"
+    publishedDateTime: 2020-10-06T13:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/komprise-addresses-demand-for-file-data-management-in-the-cloud-with-new-capabilities-for-microsoft-azure-files-and-azure-netapp-files-301146567.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 5
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
+        isCached: true
+
+secured: "Ga1mUOPYHJmEIrVGV6w0GOMmsepedscA/fmITRtk0dUS2Jby51woItz7Cd/3MKGA3ghVdnuuaDYp9wFQCSeE/eZN8Y5maQOrqYwWCwlNPBpdAaiFDpPXMSBnAKs080uk+jq60ZmeyqyWGbrLsUdGPBIHX7dzvK824xSjJgNz84SvGpgXvSE9xuYClKexA8ftCgJoFqLwVhJ7wF/SITkkm6GJ70cgCdzM1j/Q65DyDxOQSfU28SkCmwx6qVsK/RrzTF4Ar5D1kLybX7+XlNyMrpJu0XqdPcdqRgI5w6ZIpkz212xwYW/njwr1bixcr48Fye3tqfo9u+UWWzdBrJwFFoZ+I1GAQbghY+w0Vg5N6jeHVR1kKAfsXp0nCe2zo6Nh/5qVe89R9PQOYSrgF7NEO2JSY4yGUzSlg+xsB10R/7w0vPC1jMKs5MaaME9E0rHTcm7GZ2LBg2k0NiVBqixD3Pr71wJp+Ga46zx5/OodHEq6fSq6xATO4+61KxKz6rYmzu5YoDoPW7L/aJrWKC032w==;wKwpUeWj4dgG7J+C12YJ+Q=="
 ---
 

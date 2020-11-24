@@ -52,6 +52,20 @@ related:
         width: 737
         height: 768
         isCached: true
+  - title: "Microsoft Azure Active Directory again a “Leader” in Gartner Magic Quadrant for Access Management"
+    excerpt: "I’m proud to announce that for the fourth year in a row, Microsoft Azure Active Directory (Azure AD) has been recognized as a “Leader” in Gartner Magic Quadrant for Access Management, Worldwide. Earlier this year,"
+    publishedDateTime: 2020-11-24T18:08:00Z
+    webUrl: "https://www.microsoft.com/security/blog/2020/11/24/microsoft-azure-active-directory-again-a-leader-in-gartner-magic-quadrant-for-access-management/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 41
+    images:
+      - url: "https://www.microsoft.com/security/blog/wp-content/uploads/2020/11/MSSecurity_20201109_GartnerMQ_AccessManagement_r2t2.png"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "4lhZE0hzhZChYuE0vfbe8iH9bJ4a57HbQEuxfaiAojvXKCRMGdqirSVnwrgeM6OHiinfx7Tasuvb6v//BTk2mUfwdcqZ6pvu9/wktFJ5z/MtkaSrjTvy/VeNDRJqE7Wbyy46555r5meOdnVdI/wzBJIgA9Ns1y/LNuaRgQXDwohQ21ChuKMLTcC18izHI/5N8IQxBdoweeYWhpsQvdofjGznfFnTUJLpVop5nClBOG3SOhBfU9ZfGxaeA646x/A50+k/AQ66ChJY/4rafX51VM7JYGTgBS2JRp3Wa64Rqu3ofKBdrSuoDGTGS7Wil2UDJdFCtgLBPrAzScP+HNpAHXGGz8cjkeltlUVFpn+Ft/s=;Q9A073YXPKO4Zk8/CKTJBQ=="
 ---

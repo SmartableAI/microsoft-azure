@@ -50,6 +50,20 @@ related:
         width: 1200
         height: 627
         isCached: true
+  - title: "Innovaccer's Patient Relationship Management Solution is Now Available on Microsoft Azure"
+    excerpt: "Innovaccer, Inc., a leading healthcare technology company, recently announced that its patient relationship management solution is"
+    publishedDateTime: 2020-11-24T18:01:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/innovaccers-patient-relationship-management-solution-is-now-available-on-microsoft-azure-301179976.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 28
+    images:
+      - url: "https://mma.prnewswire.com/media/1341834/bdecff853a4c4a802833fd9615b3.jpg?p=facebook"
+        width: 1134
+        height: 595
+        isCached: true
 
 secured: "ypoKRh016snDKaSN6MO3kMxp7L9UGjwSTLtbT/jOjN9mxUwSG4CRhOlDQqJJq5VREM1Ao6ldDG/JxYj9X5eIe7GWeMlNxtq8/kJUKNzQMRgNGJ5NA2f6KaKjmftVYfKjbgmp8p4tOdwfoTn3ujQQn5ro39vRkpo3vYbOOMGgImIkY6/pBnK7hA5/zn8Lrc/2Kddv7533IpzYwtM2OnPyGoe7W1jzRVPel6ogyUlnBLMMVgMEu5CDQTXMor/7k4wrBkUTz0WfpVIltvyEuS316tG+aUEwoj6YYwRPQbBub28/F2d3sLMuMlNwcv6YMOu4OR/A6vaZP7mERSX1caXMMoNJIvKlbSz8RlQqVUhx+pM=;cUmUFU3GOKOxO/cV6zz8Pg=="
 ---

@@ -1,27 +1,26 @@
 ---
 category: news
-title: "Datadobi Announces Support for File Data Migration and Protection to Microsoft Azure"
-excerpt: "Datadobi, a global leader in unstructured data management software, has today announced support for file data migration to and protection on Microsoft Azure. Adding this new capability means enterprise customers have another option to migrate and protect their NAS file data to the cloud,"
-publishedDateTime: 2020-11-19T17:00:00Z
-originalUrl: "https://www.businesswire.com/news/home/20201119005097/en/"
-webUrl: "https://www.businesswire.com/news/home/20201119005097/en/"
+title: "Innovaccer's Patient Relationship Management Solution is Now Available on Microsoft Azure"
+excerpt: "Innovaccer, Inc., a leading healthcare technology company, recently announced that its patient relationship management solution is"
+publishedDateTime: 2020-11-24T18:01:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/innovaccers-patient-relationship-management-solution-is-now-available-on-microsoft-azure-301179976.html"
+webUrl: "https://www.prnewswire.com/news-releases/innovaccers-patient-relationship-management-solution-is-now-available-on-microsoft-azure-301179976.html"
 type: article
-quality: 47
+quality: 28
 heat: -1
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Azure
-  - Migration
 
 images:
-  - url: "https://mms.businesswire.com/media/20201119005097/en/771234/23/datadobi-logo.jpg"
-    width: 1200
-    height: 627
+  - url: "https://mma.prnewswire.com/media/1341834/bdecff853a4c4a802833fd9615b3.jpg?p=facebook"
+    width: 1134
+    height: 595
     isCached: true
 
 related:
@@ -50,21 +49,21 @@ related:
         width: 1200
         height: 627
         isCached: true
-  - title: "Innovaccer's Patient Relationship Management Solution is Now Available on Microsoft Azure"
-    excerpt: "Innovaccer, Inc., a leading healthcare technology company, recently announced that its patient relationship management solution is"
-    publishedDateTime: 2020-11-24T18:01:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/innovaccers-patient-relationship-management-solution-is-now-available-on-microsoft-azure-301179976.html"
+  - title: "Datadobi Announces Support for File Data Migration and Protection to Microsoft Azure"
+    excerpt: "Datadobi, a global leader in unstructured data management software, has today announced support for file data migration to and protection on Microsoft Azure. Adding this new capability means enterprise customers have another option to migrate and protect their NAS file data to the cloud,"
+    publishedDateTime: 2020-11-19T17:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20201119005097/en/"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 28
+      name: Business Wire
+      domain: businesswire.com
+    quality: 47
     images:
-      - url: "https://mma.prnewswire.com/media/1341834/bdecff853a4c4a802833fd9615b3.jpg?p=facebook"
-        width: 1134
-        height: 595
+      - url: "https://mms.businesswire.com/media/20201119005097/en/771234/23/datadobi-logo.jpg"
+        width: 1200
+        height: 627
         isCached: true
 
-secured: "hZ2MlHTyd/67WjJDhGdH0mEX883QQvlX3LT6U62ie7OLElqHyzmuJJ0IopjMzX2qJ6U1CCUIyig3zF3L4iKixv+EzRqUeuiQFWD6O5HyDTYQ6wAc8LTTYzNBmLB4Y+VqzcXNxJkc7CuaKW35AHcxFcTqAPwTweHBKZFjhm6+T3Z6YP6vtweikEkHvVm8fXPxW3p4AYaSQ8Wf9SlYUikvltn8A1cRvcVBqupy52KJU6ZkWv4TxMH8Vq4dZKgjgt1nmU1hJ/cFEMwkpxUOMAIpiVP9vdOqgx+DLlM435pQG0Hr+3DU8+jthYTrpCcUGkVegdOQs+1TrWtSHsYUfE0Hd/oI4rEeTLEDG7Pdg040A8s=;WX3mS4pog7F9y8spHGPt2Q=="
+secured: "u3Qfr3VuSAqzynqbY63s0Kzeobg70iR+0ljgr44pUAscmxd6sfFR1SigTnq+Tus52boVykME1iXkE6FYgYp741gxiwwgxgjQLaPC/QzNLu+AIqTpBNPMoMmIWi+pZxx7IvKAV3zK2lDKl20no/X8hEhbEI2F9DD30g1Sp5a6R9ypxmrG1TLgvzvDRdEsjShhzjYHmyp9kwqNb0Ntw0/6saQ97+4ADGZc7yGNZ96X0t5Hrs50jk7Icm/UR5LoM0FqT4/ByN26JROfUvSZ5XA4/N5KFp0jXBW0jaPgsPCTz0TsgC2rjVOB8b8Hjet8AePYzk9dJYEMCDJmSuyBmVeD34w2VF6S6YMXBF7cNaFyYbA=;AB3LxHoq0TIa+EcJN3SQrg=="
 ---
 

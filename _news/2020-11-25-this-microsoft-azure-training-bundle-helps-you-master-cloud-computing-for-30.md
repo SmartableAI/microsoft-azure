@@ -9,7 +9,8 @@ ampWebUrl: "https://www.windowscentral.com/microsoft-azure-training-bundle-helps
 cdnAmpWebUrl: "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/microsoft-azure-training-bundle-helps-you-master-cloud-computing-30?amp"
 type: article
 quality: 54
-heat: 54
+heat: -1
+published: false
 
 provider:
   name: Windows Central
@@ -23,6 +24,38 @@ images:
     width: 800
     height: 533
     isCached: true
+
+related:
+  - title: "Adaptive Biotechnologies Leverages Microsoft Azure In Search For COVID-19 Answers"
+    excerpt: "Adaptive Biotechnologies is working with Microsoft and using Azure Cloud to conduct research into the relationship of T cells to effectively fighting the COVID-19 pandemic."
+    publishedDateTime: 2020-11-19T19:35:00Z
+    webUrl: "https://www.forbes.com/sites/tonybradley/2020/11/19/adaptive-biotechnologies-leverages-microsoft-azure-in-search-for-covid-19-answers/"
+    ampWebUrl: "https://www.forbes.com/sites/tonybradley/2020/11/19/adaptive-biotechnologies-leverages-microsoft-azure-in-search-for-covid-19-answers/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tonybradley/2020/11/19/adaptive-biotechnologies-leverages-microsoft-azure-in-search-for-covid-19-answers/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 92
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fb6c87ffb80008a1cb4cd7c%2F0x0.jpg"
+        width: 1200
+        height: 900
+        isCached: true
+  - title: "Datadobi Provides Data Migration Support for Microsoft Azure"
+    excerpt: "Datadobi, a global provider of unstructured data management software, is offering support for file data migration to and protection on Microsoft Azure, enabling enterprise customers to migrate and protect their NAS file data in the cloud."
+    publishedDateTime: 2020-11-24T14:42:00Z
+    webUrl: "https://www.dbta.com/Editorial/News-Flashes/Datadobi-Provides-Data-Migration-Support-for-Microsoft-Azure-144049.aspx"
+    type: article
+    provider:
+      name: dbta.com
+      domain: dbta.com
+    quality: 54
+    images:
+      - url: "https://www.dbta.com/images/social-logo-2019.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "fgOKBqOOgnljWUswlggekZWzQ98C0FYqEM/6uWvLxbs32YeQM9rZQzyU4f4ODongYbBrBub2G1ZtmOomsKB7nPqGiRLYVk3uO+saFU5UNXsWEXfKaVm8gG5tjOoiFm0BR34b6mCg54bWto7jh0QMxcfxin/KKknLDJGkJ/zdpj15ss4uMF/bkTygBHkzh+I0IFPrdSb6+/1HIBvJUJmSKus2u3P9NwxZOvuvfWwyenC3WBputnxiUEPsphWt4QXAvodLJpNRSzE9mpNL6BzoyqCFjnoLJPsHP8gXSj0To3AyQPdQvfElUr9JTFRDb6qHqiVx3Ob6VQUDGIvJjtMdbIWWNncYzYdf00ZZwVGVuRM=;HIuG4Fzc/bvuzwFBzn5zNQ=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/azure-hybrid-benefit-now-generall
 webUrl: "https://azure.microsoft.com/blog/azure-hybrid-benefit-now-generally-available-for-linux/"
 type: article
 quality: 87
-heat: 228
+heat: 248
 published: true
 
 provider:
@@ -73,6 +73,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 52
+  - title: "Unified Connection Monitor in Network Watcher is now generally available"
+    excerpt: "Connection monitor provides unified end-to-end connection monitoring capabilities for hybrid and Azure deployments. It brings together the best of Network Performance Monitor and Connection Monitor (classic)."
+    publishedDateTime: 2020-11-24T17:00:34Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/connection-monitor-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 51
   - title: "Azure Monitor Logs Agent for Linux May 2020 release now available"
     excerpt: ""
     publishedDateTime: 2020-05-12T21:00:24Z

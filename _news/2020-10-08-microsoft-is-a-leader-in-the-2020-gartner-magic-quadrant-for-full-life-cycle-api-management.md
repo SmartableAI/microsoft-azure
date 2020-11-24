@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/microsoft-is-a-leader-in-the-2020
 webUrl: "https://azure.microsoft.com/blog/microsoft-is-a-leader-in-the-2020-gartner-magic-quadrant-for-full-life-cycle-api-management/"
 type: article
 quality: 81
-heat: 121
+heat: 141
 published: true
 
 provider:
@@ -43,6 +43,20 @@ related:
       - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/2059e880-8170-4a2e-9a89-59d77305b60a.png"
         width: 737
         height: 768
+        isCached: true
+  - title: "Microsoft Azure Active Directory again a “Leader” in Gartner Magic Quadrant for Access Management"
+    excerpt: "I’m proud to announce that for the fourth year in a row, Microsoft Azure Active Directory (Azure AD) has been recognized as a “Leader” in Gartner Magic Quadrant for Access Management, Worldwide. Earlier this year,"
+    publishedDateTime: 2020-11-24T18:08:00Z
+    webUrl: "https://www.microsoft.com/security/blog/2020/11/24/microsoft-azure-active-directory-again-a-leader-in-gartner-magic-quadrant-for-access-management/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 41
+    images:
+      - url: "https://www.microsoft.com/security/blog/wp-content/uploads/2020/11/MSSecurity_20201109_GartnerMQ_AccessManagement_r2t2.png"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Komprise addresses demand for file data management in the cloud with new capabilities for Microsoft Azure Files and Azure NetApp Files"
     excerpt: "PRNewswire/ -- Komprise, the leader in analytics-driven data management, today announced new capabilities for its Komprise Intelligent Data"

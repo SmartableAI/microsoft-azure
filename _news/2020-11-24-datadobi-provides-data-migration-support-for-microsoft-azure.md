@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "This Microsoft Azure training bundle helps you master cloud computing for $30"
+    excerpt: "With so many businesses setting up online, cloud computing skills have never been so in demand. The Complete Microsoft Azure eBook & Video Course Bundle helps you master one of the most popular platforms,"
+    publishedDateTime: 2020-11-24T17:00:00Z
+    webUrl: "https://www.windowscentral.com/microsoft-azure-training-bundle-helps-you-master-cloud-computing-30"
+    ampWebUrl: "https://www.windowscentral.com/microsoft-azure-training-bundle-helps-you-master-cloud-computing-30?amp"
+    cdnAmpWebUrl: "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/microsoft-azure-training-bundle-helps-you-master-cloud-computing-30?amp"
+    type: article
+    provider:
+      name: Windows Central
+      domain: windowscentral.com
+    quality: 54
+    images:
+      - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2020/07/sale_29760_article_image-3enn.jpg"
+        width: 800
+        height: 533
+        isCached: true
 
 secured: "ZVqbA4ci115tb1+PIozV/FI8MDtmNOcYf/5/l0lE9/LNz1KhpYpQOAOhiSbzVMDugiS+oS8ELfVorSUTL5yQJrfY98NdV6OuH1V2YhMQEZG7o+3H4OYKXAwcUYtG2dKwXAt6MCUATjjtYQh+rYIH4NcWa2sla1eh7ur/lq0Ossv35j/HhdkHqCR5+kvFvE5rR/nndmyWjMGTOW4I/i50rIUqmWVh4v5w9EqEoLTEfG3JE6otBPlWbZPHCJmZ1qlCTbL+9QzJH/lyVCdvzApjwHJomyKMP2EFadmixYEzrhgA0EsNs2Xgzrnv+wEbLODZ/gTxj9nMC3UlQvvcqvWGrQNX+0sCvQ9LnmBBRZ/ClIM=;DfREw7V8jUBS+xQor4DSjg=="
 ---
