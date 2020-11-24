@@ -21,6 +21,7 @@ items:
   - courses/microsoft-learn-design-monitoring-strategy-on-azure
   - courses/microsoft-learn-monitor-azure-vm-using-diagnostic-data
   - courses/microsoft-learn-analyze-infrastructure-with-azure-monitor-logs
+  - courses/microsoft-learn-monitor-vm-performance-using-azure-monitor-for-vms
   - courses/microsoft-learn-incident-response-with-alerting-on-azure
   - courses/microsoft-learn-capture-page-load-times-application-insights
   - courses/microsoft-learn-protect-virtual-machines-with-azure-backup

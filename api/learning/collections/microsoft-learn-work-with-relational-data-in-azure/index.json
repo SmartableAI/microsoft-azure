@@ -11,8 +11,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/provision-azure-sql-db/",
       "length": "PT50M",
       "ratings": {
-        "count": 4887,
-        "average": 4.6552076
+        "count": 4888,
+        "average": 4.655278
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -76,14 +76,14 @@
     },
     {
       "path": "_learning/courses/microsoft-learn-create-azure-db-for-postgresql.md",
-      "title": "Create an Azure Database for PostgreSQL server",
-      "excerpt": "Learn how to create and deploy Azure Database for PostgreSQL for fully managed, enterprise-ready PostgreSQL database services.",
+      "title": "Introduction to Azure Database for PostgreSQL",
+      "excerpt": "This module is a no-code introduction to PostgreSQL on Azure, including an explanation of particular problems that using Azure Database for PostgreSQL can solve. At a high level, we show how the components fit together and identify situations where you should use Azure Database for PostgreSQL.",
       "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-create-azure-db-for-postgresql/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-azure-db-for-postgresql-server/",
-      "length": "PT44M",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-postgres/",
+      "length": "PT20M",
       "ratings": {
-        "count": 1915,
-        "average": 4.627676
+        "count": 1916,
+        "average": 4.6278706
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -100,7 +100,7 @@
       "levels": [
         "Beginner"
       ],
-      "heat": 51,
+      "heat": 98,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/intro-to-postgres-social.png",
@@ -114,7 +114,7 @@
       "price": "Free",
       "topics": [
         "Azure",
-        "Management Tools",
+        "Compute",
         "Databases"
       ]
     },
