@@ -9,7 +9,7 @@ ampWebUrl: "https://markets.businessinsider.com/amp/news/stradigi-ai-launches-th
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/stradigi-ai-launches-the-kepler-ai-platform-powered-by-microsoft-azure-1029811504"
 type: article
 quality: 94
-heat: 334
+heat: 354
 published: true
 
 provider:
@@ -133,6 +133,20 @@ related:
     quality: 21
     images:
       - url: "https://mma.prnewswire.com/media/1008788/Accela_Logo.jpg?p=facebook"
+        width: 600
+        height: 315
+        isCached: true
+  - title: "Coding Dojo Chosen by Microsoft as a Microsoft Azure Training Partner for Global Digital Skills Initiative"
+    excerpt: "Coding Dojo, a leading technology education company, announces today it is working with Microsoft to proliferate Microsoft Azure"
+    publishedDateTime: 2020-11-24T13:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/coding-dojo-chosen-by-microsoft-as-a-microsoft-azure-training-partner-for-global-digital-skills-initiative-301179437.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 19
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
         width: 600
         height: 315
         isCached: true

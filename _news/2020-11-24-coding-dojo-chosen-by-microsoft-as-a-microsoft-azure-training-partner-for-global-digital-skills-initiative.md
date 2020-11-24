@@ -1,21 +1,27 @@
 ---
 category: news
-title: "StoneFly Inc. Now Available in the Microsoft Azure Marketplace"
-excerpt: "Microsoft Azure customers worldwide now gain access to StoneFly cloud storage to take advantage of the scalability, reliability, and agility of Azure to drive application development and shape business strategies."
-publishedDateTime: 2020-11-20T08:03:00Z
-originalUrl: "https://www.pr.com/press-release/825650"
-webUrl: "https://www.pr.com/press-release/825650"
+title: "Coding Dojo Chosen by Microsoft as a Microsoft Azure Training Partner for Global Digital Skills Initiative"
+excerpt: "Coding Dojo, a leading technology education company, announces today it is working with Microsoft to proliferate Microsoft Azure"
+publishedDateTime: 2020-11-24T13:00:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/coding-dojo-chosen-by-microsoft-as-a-microsoft-azure-training-partner-for-global-digital-skills-initiative-301179437.html"
+webUrl: "https://www.prnewswire.com/news-releases/coding-dojo-chosen-by-microsoft-as-a-microsoft-azure-training-partner-for-global-digital-skills-initiative-301179437.html"
 type: article
-quality: 17
+quality: 19
 heat: -1
 published: false
 
 provider:
-  name: PR
-  domain: pr.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Azure
+
+images:
+  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+    width: 600
+    height: 315
+    isCached: true
 
 related:
   - title: "Stradigi AI Launches the Kepler™ AI Platform Powered by Microsoft Azure"
@@ -140,20 +146,6 @@ related:
         width: 600
         height: 315
         isCached: true
-  - title: "Coding Dojo Chosen by Microsoft as a Microsoft Azure Training Partner for Global Digital Skills Initiative"
-    excerpt: "Coding Dojo, a leading technology education company, announces today it is working with Microsoft to proliferate Microsoft Azure"
-    publishedDateTime: 2020-11-24T13:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/coding-dojo-chosen-by-microsoft-as-a-microsoft-azure-training-partner-for-global-digital-skills-initiative-301179437.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 19
-    images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
-        isCached: true
   - title: "ANS migrates Fenwick IT systems to Microsoft Azure public cloud"
     excerpt: "UK digital and cloud services provider ANS Group has been selected by luxury department store Fenwick to migrate IT systems to the Microsoft Azure public"
     publishedDateTime: 2020-11-11T14:48:00Z
@@ -181,7 +173,16 @@ related:
       name: Telecompaper
       domain: telecompaper.com
     quality: 17
+  - title: "StoneFly Inc. Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Microsoft Azure customers worldwide now gain access to StoneFly cloud storage to take advantage of the scalability, reliability, and agility of Azure to drive application development and shape business strategies."
+    publishedDateTime: 2020-11-20T08:03:00Z
+    webUrl: "https://www.pr.com/press-release/825650"
+    type: article
+    provider:
+      name: PR
+      domain: pr.com
+    quality: 17
 
-secured: "5kAtzbCTOdfdDSBGTV/GLONnP7dOJ26bA24Nxv1DbVLu0oux+E4xp2qLSv5CItqkHx58F7VWvS+sKN1LOXyuuGG+yk6lCEm8tx5U0ySRTXgmQ3GgX0fVaYHWVQ7F/vY/woOPGVQT34HVkEdds4Y67u5PZYQ01CIH5RbaNtY9navDDGdOkR0l8/dY3QkHCc8+gu6jZEL114hIl9BMCs4HlsWN/fsIW/xYVd33hEcYyrovi1ANobNlSNPYz7LZBSRRyz5TtdaeuDnCTYcxdJJ1g0jIMcx9ERMb1Z4amKnM+NpWPLJMk+lnLe4w28xvaU3mEedAoMW9mFx4E+bbUtzkmo2g1frrrOe/Hu+judBOji8=;8T6clKl+KiGKaR0DNNfTtQ=="
+secured: "yofiaITKIytZ+FfBNR9ua+fXgB0pxb0WIp3DKgQDQkl3MkUcdEFaNE8Xnp1FmCeBOsYhuxKqZP5YKP3YUFqFqRk0u9Jirolaoe7cfAWD4F1vtJVLHKmPys4Jid7Vm9X392yADlQGbbMQIPGAE7Za9G/DD84ZdCm3yvC7kSdIDA8eEeO9EVrCKwvop6QgPpksaI546rNFykHDAEYS1whDSsVNMPeOxoCwAeGOlYEF3v3dVpJqmzY6sYX2OeNYM2HCG0na4akSN26WUoGbkFWjuP3/j2KVdR+bmY1VbGhfwleKg50//Lhf24ikbQjNcgcFB/sUWthHzmWK4vwLJzR7AXTyMwVtbWEdVMO2T115MxE=;BwuiGHzCuVg7WuUOLIumDw=="
 ---
 

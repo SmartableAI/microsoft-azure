@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 744
         isCached: true
+  - title: "Microsoft Azure inherits new VPN features"
+    excerpt: "Microsoft Azure has announced that a host of new VPN features are now generally available to users of its VPN Gateway. The new additions will provide additional functionality for businesses that have been pushed into adopting remote working during the coronavirus pandemic."
+    publishedDateTime: 2020-11-24T14:10:00Z
+    webUrl: "https://www.techradar.com/news/microsoft-azure-inherits-new-vpn-features"
+    ampWebUrl: "https://www.techradar.com/amp/news/microsoft-azure-inherits-new-vpn-features"
+    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/microsoft-azure-inherits-new-vpn-features"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 97
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/GqD2mPLrmuKb3SVWpF3rCk-1200-80.jpg"
+        width: 1200
+        height: 674
+        isCached: true
   - title: "Microsoft readies its AWS Outposts hybrid competitor: Azure Stack 'Fiji'"
     excerpt: "Microsoft is working on a new member of the Azure Stack family, which will provide Azure hardware managed via the Azure public cloud, for customers to install in their own datacenters."
     publishedDateTime: 2020-08-07T13:10:00Z

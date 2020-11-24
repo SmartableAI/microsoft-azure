@@ -140,6 +140,20 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "Coding Dojo Chosen by Microsoft as a Microsoft Azure Training Partner for Global Digital Skills Initiative"
+    excerpt: "Coding Dojo, a leading technology education company, announces today it is working with Microsoft to proliferate Microsoft Azure"
+    publishedDateTime: 2020-11-24T13:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/coding-dojo-chosen-by-microsoft-as-a-microsoft-azure-training-partner-for-global-digital-skills-initiative-301179437.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 19
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
+        isCached: true
   - title: "OpenText Brings Digital Investigation to the Cloud with Microsoft Azure"
     excerpt: "OpenText™ announced OpenText™ EnCase Forensic and OpenText™ EnCase Endpoint Investigator are now certified on Microsoft Azure. With OpenText Encase solutions in the cloud, law enforcement and corporate investigators can more easily collaborate,"
     publishedDateTime: 2020-11-11T18:19:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/microsoft-azure-the-
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-azure-the-smart-persons-guide/"
 type: article
 quality: 97
-heat: 837
+heat: 857
 published: true
 
 provider:
@@ -45,6 +45,22 @@ related:
       - url: "https://mondrian.mashable.com/2020%252F08%252F08%252F45%252F03d3beecd37447d68430a283b419a811.8788c.jpg%252F1200x630.jpg?signature=FJFBs3rLvmztuasZ4mEpKtYfwGM="
         width: 1200
         height: 630
+        isCached: true
+  - title: "Microsoft Azure inherits new VPN features"
+    excerpt: "Microsoft Azure has announced that a host of new VPN features are now generally available to users of its VPN Gateway. The new additions will provide additional functionality for businesses that have been pushed into adopting remote working during the coronavirus pandemic."
+    publishedDateTime: 2020-11-24T14:10:00Z
+    webUrl: "https://www.techradar.com/news/microsoft-azure-inherits-new-vpn-features"
+    ampWebUrl: "https://www.techradar.com/amp/news/microsoft-azure-inherits-new-vpn-features"
+    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/microsoft-azure-inherits-new-vpn-features"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 97
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/GqD2mPLrmuKb3SVWpF3rCk-1200-80.jpg"
+        width: 1200
+        height: 674
         isCached: true
   - title: "Microsoft readies its AWS Outposts hybrid competitor: Azure Stack 'Fiji'"
     excerpt: "Microsoft is working on a new member of the Azure Stack family, which will provide Azure hardware managed via the Azure public cloud, for customers to install in their own datacenters."

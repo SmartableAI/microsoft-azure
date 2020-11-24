@@ -1,28 +1,28 @@
 ---
 category: news
 title: "Red Box Delivers Cloud Configurable Voice Recording to Fuel AI on Microsoft Azure"
-excerpt: "Red Box, a leading platform for voice, today announces an extension of its relationship with Microsoft aligned to the launch of Conversa, Red Box’s enterprise voice platform. Red Box is already a Preferred Telephony Partner for conversation intelligence,"
-publishedDateTime: 2020-11-20T12:04:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/rich-stevenson-6b9e759a8496156988d869774f8fefdd"
-webUrl: "https://apnews.com/press-release/pr-newswire/rich-stevenson-6b9e759a8496156988d869774f8fefdd"
+excerpt: "It combines the power of Conversa audio processing in Microsoft Azure and Microsoft AI, with seamless support of both cloud and premise-based telephony aligned with frictionless zero touch ..."
+publishedDateTime: 2020-11-20T12:09:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/red-box-delivers-cloud-configurable-voice-recording-to-fuel-ai-on-microsoft-azure-1029824618"
+webUrl: "https://markets.businessinsider.com/news/stocks/red-box-delivers-cloud-configurable-voice-recording-to-fuel-ai-on-microsoft-azure-1029824618"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/red-box-delivers-cloud-configurable-voice-recording-to-fuel-ai-on-microsoft-azure-1029824618"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/red-box-delivers-cloud-configurable-voice-recording-to-fuel-ai-on-microsoft-azure-1029824618"
 type: article
-quality: 49
+quality: 89
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
   - AI
-
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
 
 related:
   - title: "Extending the power of Azure AI to Microsoft 365 users"
@@ -529,6 +529,6 @@ related:
       domain: telecompaper.com
     quality: 2
 
-secured: "HCtVNvNuIZCA4rIn24QoBGza4ZN3oJ2YUQwwcpaMSFRmDfzIBbnOm/tg0M8MPCk+zk/HTd3q3cIubWKvHXKe/LhtfqQ5wj4MBJrK1/mdJp0Iipg03/jg2NvBMdIGxbwYdfhEqjOJThrprv26CGI92YCxDUa/E91ple6jJzgteM5Vd/ife0hGiNqz7QC+QvY+2x+Y8nlWVzhUVurdXeMVRmDvLOWXxvFch2MbPh1eljSUMsNe0V1nQMBvTsKMfCbfiYC/FHx50HbitBWiiG0HSM09hjsvGmOrgDYRcP0m490faNP9rCHt4Ypy5jrCGbCkfjHIER9jZ0caCUC6g1nDh7hGr1K83W9fQxoD2kPfGBA=;q4cj7QrEwjnL5u8pyqt1kA=="
+secured: "1R6z0+L2rXmmUn8fgbDu3S1GLdUSMtsYd3SwYs+v76TZuQMZjIASoQ5H6ixidJ+6F7z9mv1zPqGzmmRREh7vibXA12T3teRJXRP0ZwDMDaYahQP0U611dZRTioHluvztyx4kCR3Uxosv4d9mRdE+j6nu3192sWhf/NR30iE+UhzjUipiSFLlUPr5UesUQFyYz9ggTwyMU50N57Tn2cN+scBT6E7Tvm90y2Q/XqIWjgqMGXw/nRE4FvTh++7zi3/oCmTizWICHkD7yofLwVC7Rq6XM6nKIj2OkPzc8YiUhXjSuEjcSnIp448+su7kHodjZVeHHsC1yUWsRSHeenlXpJz1efKVQzejOSz4OCvUwLs=;HOnXpYSbSpdLOcG8rrv+4w=="
 ---
 

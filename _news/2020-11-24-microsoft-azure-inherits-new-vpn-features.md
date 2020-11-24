@@ -1,25 +1,32 @@
 ---
 category: news
-title: "Reminder: Save 95% on the Complete Microsoft Azure eBook & Video Course Bundle"
-excerpt: "Just a quick reminder for our readers about the awesome deal on the Complete Microsoft Azure eBook & Video Course Bundle in the Geeky Gadgets Deals store. The Complete Microsoft Azure eBook ..."
-publishedDateTime: 2020-08-05T07:01:00Z
-webUrl: "https://www.geeky-gadgets.com/reminder-save-95-on-the-complete-microsoft-azure-ebook-video-course-bundle-05-08-2020/"
+title: "Microsoft Azure inherits new VPN features"
+excerpt: "Microsoft Azure has announced that a host of new VPN features are now generally available to users of its VPN Gateway. The new additions will provide additional functionality for businesses that have been pushed into adopting remote working during the coronavirus pandemic."
+publishedDateTime: 2020-11-24T14:10:00Z
+originalUrl: "https://www.techradar.com/news/microsoft-azure-inherits-new-vpn-features"
+webUrl: "https://www.techradar.com/news/microsoft-azure-inherits-new-vpn-features"
+ampWebUrl: "https://www.techradar.com/amp/news/microsoft-azure-inherits-new-vpn-features"
+cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/microsoft-azure-inherits-new-vpn-features"
 type: article
-quality: 33
+quality: 97
 heat: -1
 published: false
 
 provider:
-  name: Geeky Gadgets
-  domain: geeky-gadgets.com
+  name: TechRadar
+  domain: techradar.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/techradar.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
 
 images:
-  - url: "https://www.geeky-gadgets.com/wp-content/uploads/2020/07/Complete-Microsoft-Azure-eBook-Video-Course-Bundle-1.jpg"
-    width: 700
-    height: 526
+  - url: "https://cdn.mos.cms.futurecdn.net/GqD2mPLrmuKb3SVWpF3rCk-1200-80.jpg"
+    width: 1200
+    height: 674
     isCached: true
 
 related:
@@ -54,22 +61,6 @@ related:
       - url: "https://mondrian.mashable.com/2020%252F08%252F08%252F45%252F03d3beecd37447d68430a283b419a811.8788c.jpg%252F1200x630.jpg?signature=FJFBs3rLvmztuasZ4mEpKtYfwGM="
         width: 1200
         height: 630
-        isCached: true
-  - title: "Microsoft Azure inherits new VPN features"
-    excerpt: "Microsoft Azure has announced that a host of new VPN features are now generally available to users of its VPN Gateway. The new additions will provide additional functionality for businesses that have been pushed into adopting remote working during the coronavirus pandemic."
-    publishedDateTime: 2020-11-24T14:10:00Z
-    webUrl: "https://www.techradar.com/news/microsoft-azure-inherits-new-vpn-features"
-    ampWebUrl: "https://www.techradar.com/amp/news/microsoft-azure-inherits-new-vpn-features"
-    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/microsoft-azure-inherits-new-vpn-features"
-    type: article
-    provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 97
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/GqD2mPLrmuKb3SVWpF3rCk-1200-80.jpg"
-        width: 1200
-        height: 674
         isCached: true
   - title: "Microsoft readies its AWS Outposts hybrid competitor: Azure Stack 'Fiji'"
     excerpt: "Microsoft is working on a new member of the Azure Stack family, which will provide Azure hardware managed via the Azure public cloud, for customers to install in their own datacenters."
@@ -342,6 +333,20 @@ related:
         isCached: true
   - title: "Reminder: Save 95% on the Complete Microsoft Azure eBook & Video Course Bundle"
     excerpt: "Just a quick reminder for our readers about the awesome deal on the Complete Microsoft Azure eBook & Video Course Bundle in the Geeky Gadgets Deals store. The Complete Microsoft Azure eBook ..."
+    publishedDateTime: 2020-08-05T07:01:00Z
+    webUrl: "https://www.geeky-gadgets.com/reminder-save-95-on-the-complete-microsoft-azure-ebook-video-course-bundle-05-08-2020/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 33
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2020/07/Complete-Microsoft-Azure-eBook-Video-Course-Bundle-1.jpg"
+        width: 700
+        height: 526
+        isCached: true
+  - title: "Reminder: Save 95% on the Complete Microsoft Azure eBook & Video Course Bundle"
+    excerpt: "Just a quick reminder for our readers about the awesome deal on the Complete Microsoft Azure eBook & Video Course Bundle in the Geeky Gadgets Deals store. The Complete Microsoft Azure eBook ..."
     publishedDateTime: 2020-08-10T09:02:00Z
     webUrl: "https://www.geeky-gadgets.com/reminder-save-95-on-the-complete-microsoft-azure-ebook-video-course-bundle-10-08-2020/"
     type: article
@@ -534,6 +539,6 @@ related:
       domain: bobsguide.com
     quality: 0
 
-secured: "gLCec2MFPCNMYntpndtAJQRgQeZnqcHG1DYQMB0kXDf9y1CVVha+stx+yS5ljvgDY6AbZh0ViQsXY4NwgrkujxAr716jIZ3udCCy1rD+EY/epUmpMwy8/IzrtVeeUb5lk1/5GoYPqrCqnpHEaOSg2phjVfIcriv6sOFX4aCetfPiS34HMmDR4V/f0z6L4/vJ4k99d/2DlFFWvC8R7Hnf4fzWzqP4+jpE9vFOxYjKlPqkWO0jOG7hwy9eMa2mzKejsLYL7ut3liQ0ddyqjUzvjua53IADHZOo/dp0GBjhy057lSkUHMI+DdRcpRGDSRXLyI0I08RF7D9GqBYqStA3sA==;2BQczFvemMdz9YuWfgoSwg=="
+secured: "xV5huMPX5WVN6Xu45Lf9M4lLjfG+8fSVCckmWzzHPupfYbQI1rHt3TAJk6p/xgMad44wPK8wLDBXJ+STy14PnCmtWIBbBi0eJGh8S24gfVRG1wSkygQ6HpJlbAym5QG98gI8ugeS25+2PN3XQftfiZIfzIP+OtK3HmDvKYd3GAG3R3q0OfykumUhxwmcloVz39vrIpQgzRDqhzHUcO+4qxS21IAZ5NyaZZisJyF/pwDB0k4t0Afr5F4RlSCWBVBYOmZGEH8HhHX12NHN8bnzFmZZJ3JSMEAIoFYKvsyandWPMe0gQFjAFXk/9weeG832O+C1hBekdonoohoIR/aBqX+z7B1gMlX0V55qVu/zSD4=;lSeS3Ir/txnPmWEGAUt/KA=="
 ---
 
