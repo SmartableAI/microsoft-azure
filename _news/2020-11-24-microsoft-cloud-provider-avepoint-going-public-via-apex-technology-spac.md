@@ -8,6 +8,9 @@ webUrl: "https://www.benzinga.com/m-a/20/11/18489999/microsoft-cloud-provider-av
 ampWebUrl: "https://amp.benzinga.com/amp/content/18489999"
 cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18489999"
 type: article
+quality: 42
+heat: 42
+published: false
 
 provider:
   name: Benzinga.com
