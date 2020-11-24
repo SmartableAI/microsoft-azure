@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/guest-health-feature-in-azure-mon
 webUrl: "https://azure.microsoft.com/blog/guest-health-feature-in-azure-monitor-for-virtual-machines/"
 type: article
 quality: 121
-heat: 202
+heat: 203
 published: true
 
 provider:
