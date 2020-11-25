@@ -35,6 +35,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 68
+  - title: "Azure Databricks Achieves FedRAMP High Authorization on Microsoft Azure Government"
+    excerpt: "With this certification, customers can now use Azure Databricks to process the U.S. government’s most sensitive, unclassified data in cloud computing environments, including data that involves the protection of life and financial assets. "
+    publishedDateTime: 2020-11-25T17:00:11Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-databricks-achieves-fedramp-high-authorization-on-microsoft-azure-government-mag/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 61
   - title: "DLT Solutions to Offer Microsoft Azure and Modern Workplace Solutions Through its U.S. Public Sector Partner Network"
     excerpt: "DLT Solutions, LLC., a wholly owned subsidiary of Tech Data and a premier government technology solutions aggregator, has partnered with Microsoft to bring to market Azure and Modern Workplace solutions to the U."
     publishedDateTime: 2020-11-18T14:50:00Z
@@ -74,15 +83,34 @@ related:
         width: 1200
         height: 627
         isCached: true
-  - title: "AppDynamics Featured as an Application Performance Monitoring Partner in the Microsoft Cloud Adoption Framework for Azure"
-    excerpt: "AppDynamics, a part of Cisco and the world’ s #1 APM solution and full-stack, business-centric observability platform, today announced its listing on Microsoft’ s Cloud Adoption Framework for Azure customers."
-    publishedDateTime: 2020-11-20T16:00:00Z
-    webUrl: "https://www.nasdaq.com/press-release/appdynamics-featured-as-an-application-performance-monitoring-partner-in-the"
+  - title: "Azure Databricks Achieves FedRAMP High Authorization on Microsoft Azure Government (MAG)"
+    excerpt: "Databricks, the Data and AI Company, today announced that Microsoft Azure Databricks has received a Federal Risk and Authorization"
+    publishedDateTime: 2020-11-25T17:15:00Z
+    webUrl: "https://www.prnewswire.com/in/news-releases/azure-databricks-achieves-fedramp-high-authorization-on-microsoft-azure-government-mag--871630832.html"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 32
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 28
+    images:
+      - url: "https://mma.prnewswire.com/media/1160675/Databricks_Logo.jpg?p=facebook"
+        width: 1094
+        height: 576
+        isCached: true
+  - title: "AppDynamics Featured as an Application Performance Monitoring Partner in the Microsoft Cloud Adoption Framework for Azure"
+    excerpt: "AppDynamics, a part of Cisco and the world’s #1 APM solution and full-stack, business-centric observability platform, today announced its listing on Microsoft’s Cloud Adoption Framework (CAF) for Azure customers."
+    publishedDateTime: 2020-11-20T17:43:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-products-and-services-lung-disease-ef8f6ef9ccc84b9fbffef39c53634b8e"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 12
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "ZRW071PUPFK9nitOYoIv0LPxqEW3yHaQnjRXq1J1dyfH4FGfRNSO0VRvsRbOl0Ozn07szzwG72av7xcU3hBvuIY2O0t9gfQfSbUkksChS7+gMyNeWjdevFsJNMQivO/6ikX/USUtnO84xbk5eGChTanez7S1N9Zbg2ytt2/dpwMelARE1tz4H0UpcTTJynzrZ2KxQtVk94h8DWAmDvXWOLBj4X7P0Ojmf57diNhQpkDy1Ty3FeIGObeTmBeFSITOso0H+HLC36OFvzrzEwe26HKQ8m72tdqJA76LIuxvmr6eX8E1EfzPseXjZMzxW1i0fa6wehrgoxPiyebkZ4IQOMcqoBztT7CmQLacsV7oSuY=;kbSeI47ufrA14J/ThcAenA=="
 ---

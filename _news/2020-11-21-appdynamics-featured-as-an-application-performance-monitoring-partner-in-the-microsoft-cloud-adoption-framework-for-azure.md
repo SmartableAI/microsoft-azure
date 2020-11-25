@@ -1,21 +1,27 @@
 ---
 category: news
 title: "AppDynamics Featured as an Application Performance Monitoring Partner in the Microsoft Cloud Adoption Framework for Azure"
-excerpt: "AppDynamics, a part of Cisco and the world’ s #1 APM solution and full-stack, business-centric observability platform, today announced its listing on Microsoft’ s Cloud Adoption Framework for Azure customers."
-publishedDateTime: 2020-11-20T16:00:00Z
-originalUrl: "https://www.nasdaq.com/press-release/appdynamics-featured-as-an-application-performance-monitoring-partner-in-the"
-webUrl: "https://www.nasdaq.com/press-release/appdynamics-featured-as-an-application-performance-monitoring-partner-in-the"
+excerpt: "AppDynamics, a part of Cisco and the world’s #1 APM solution and full-stack, business-centric observability platform, today announced its listing on Microsoft’s Cloud Adoption Framework (CAF) for Azure customers."
+publishedDateTime: 2020-11-20T17:43:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-products-and-services-lung-disease-ef8f6ef9ccc84b9fbffef39c53634b8e"
+webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-products-and-services-lung-disease-ef8f6ef9ccc84b9fbffef39c53634b8e"
 type: article
-quality: 32
+quality: 12
 heat: -1
 published: false
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Azure
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "Innovaccer's Patient Relationship Management Solution is Now Available on Microsoft Azure"
@@ -29,6 +35,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 68
+  - title: "Azure Databricks Achieves FedRAMP High Authorization on Microsoft Azure Government"
+    excerpt: "With this certification, customers can now use Azure Databricks to process the U.S. government’s most sensitive, unclassified data in cloud computing environments, including data that involves the protection of life and financial assets. "
+    publishedDateTime: 2020-11-25T17:00:11Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-databricks-achieves-fedramp-high-authorization-on-microsoft-azure-government-mag/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 61
   - title: "DLT Solutions to Offer Microsoft Azure and Modern Workplace Solutions Through its U.S. Public Sector Partner Network"
     excerpt: "DLT Solutions, LLC., a wholly owned subsidiary of Tech Data and a premier government technology solutions aggregator, has partnered with Microsoft to bring to market Azure and Modern Workplace solutions to the U."
     publishedDateTime: 2020-11-18T14:50:00Z
@@ -68,6 +83,20 @@ related:
         width: 1200
         height: 627
         isCached: true
+  - title: "Azure Databricks Achieves FedRAMP High Authorization on Microsoft Azure Government (MAG)"
+    excerpt: "Databricks, the Data and AI Company, today announced that Microsoft Azure Databricks has received a Federal Risk and Authorization"
+    publishedDateTime: 2020-11-25T17:15:00Z
+    webUrl: "https://www.prnewswire.com/in/news-releases/azure-databricks-achieves-fedramp-high-authorization-on-microsoft-azure-government-mag--871630832.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 28
+    images:
+      - url: "https://mma.prnewswire.com/media/1160675/Databricks_Logo.jpg?p=facebook"
+        width: 1094
+        height: 576
+        isCached: true
   - title: "Innovaccer's Data Activation Platform Now on Microsoft Cloud for Healthcare"
     excerpt: "Innovaccer, Inc., a leading healthcare technology company, recently announced that it is supporting Microsoft Cloud for Healthcare with"
     publishedDateTime: 2020-10-13T17:17:00Z
@@ -83,6 +112,6 @@ related:
         height: 314
         isCached: true
 
-secured: "Dr4/xbeHxAmWMOLHQTHBqP4e+pEvOrySt36leorFqC3wqEuXxVcahT1nfRviVov6/xK5kBsBNqLrM5MH3P/VeSF+V6nSvuj6FLx1p+lqekpU4oRbAkQme3Z6/pc9sM+Syfx0Z3SaiYOSVlA8R6zcM3+sf5GqaF8IvpJRZh9HonELBLQOV/FDS47vVtEBpxDe+2ZmjWLGocAyvmzUDZl4sJjLifmlIuGNz9mMPYK+io4kZz4qUVz1ElnuUwjfbnr8o/dt0n9zjsQx55+Tt3i24CNksbS5mE/BTW3xITB6gKWwpNqBlq98YqQSXocKcz3IBn3LjYPe4dUhymnY9OjDI0F5XF+FMLRUQw59+nVM8Dk=;oM3aUUUxTSsf1IubQKd3vw=="
+secured: "xsb/Q4M3OQp7ZwQMyALq5XEnCVNnKMJMtvoUJM/EkJiT0dphuLG2azSE+m1zeSjhUKvxotW7E6piu1cBG0DF0NahDu3ESAt/YMi9yUAXcyqIpcNwnDaLduOQw/9iAM9mVGGgc8+qu/iNQdmlQJOizcOScx0kiaIGXIT1qSMeM9K17put6E7d51kiPVdCd01cVHB/bwVoUrZqHoDNMvB44rUg3rXYmmBRC8FyIoLr/hGxFAfVzjnQXzYtLVnt5PYE8ktXWNC2xNNxCJT6jjK0a60zrxx5sp/FLwHQRcmDrGmELGPSMWYwSTKWNbWCk7lNf/BwMfAkqPVa51hjTFF9SCodOilHhiv45LpjC1MnFeM=;wB+Zla+KzhRCvjWw85UTGQ=="
 ---
 
