@@ -25,6 +25,17 @@ images:
     isCached: true
 
 related:
+  - title: "Innovaccer's Patient Relationship Management Solution is Now Available on Microsoft Azure"
+    excerpt: "Innovaccer, Inc., a leading healthcare technology company, recently announced that its patient relationship management solution is now available on Microsoft Azure. The solution streamlines communication between patients and their care teams."
+    publishedDateTime: 2020-11-24T18:01:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/innovaccer-s-patient-relationship-management-solution-is-now-available-on-microsoft-azure-1029835761"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/innovaccer-s-patient-relationship-management-solution-is-now-available-on-microsoft-azure-1029835761"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/innovaccer-s-patient-relationship-management-solution-is-now-available-on-microsoft-azure-1029835761"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 68
   - title: "DLT Solutions to Offer Microsoft Azure and Modern Workplace Solutions Through its U.S. Public Sector Partner Network"
     excerpt: "DLT Solutions, LLC., a wholly owned subsidiary of Tech Data and a premier government technology solutions aggregator, has partnered with Microsoft to bring to market Azure and Modern Workplace solutions to the U."
     publishedDateTime: 2020-11-18T14:50:00Z
@@ -50,19 +61,28 @@ related:
         width: 1200
         height: 627
         isCached: true
-  - title: "Innovaccer's Patient Relationship Management Solution is Now Available on Microsoft Azure"
-    excerpt: "Innovaccer, Inc., a leading healthcare technology company, recently announced that its patient relationship management solution is"
-    publishedDateTime: 2020-11-24T18:01:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/innovaccers-patient-relationship-management-solution-is-now-available-on-microsoft-azure-301179976.html"
+  - title: "AppDynamics Featured as an Application Performance Monitoring Partner in the Microsoft Cloud Adoption Framework for Azure"
+    excerpt: "AppDynamics, a part of Cisco and the world’ s #1 APM solution and full-stack, business-centric observability platform, today announced its listing on Microsoft’ s Cloud Adoption Framework for Azure customers."
+    publishedDateTime: 2020-11-20T16:00:00Z
+    webUrl: "https://www.nasdaq.com/press-release/appdynamics-featured-as-an-application-performance-monitoring-partner-in-the"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 32
+  - title: "Innovaccer's Data Activation Platform Now on Microsoft Cloud for Healthcare"
+    excerpt: "Innovaccer, Inc., a leading healthcare technology company, recently announced that it is supporting Microsoft Cloud for Healthcare with"
+    publishedDateTime: 2020-10-13T17:17:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/innovaccers-data-activation-platform-now-on-microsoft-cloud-for-healthcare-301151372.html"
     type: article
     provider:
       name: PR Newswire
       domain: prnewswire.com
-    quality: 28
+    quality: 20
     images:
-      - url: "https://mma.prnewswire.com/media/1341834/bdecff853a4c4a802833fd9615b3.jpg?p=facebook"
-        width: 1134
-        height: 595
+      - url: "https://mma.prnewswire.com/media/1311776/Innovaccer_Logo.jpg?p=facebook"
+        width: 600
+        height: 314
         isCached: true
 
 secured: "hZ2MlHTyd/67WjJDhGdH0mEX883QQvlX3LT6U62ie7OLElqHyzmuJJ0IopjMzX2qJ6U1CCUIyig3zF3L4iKixv+EzRqUeuiQFWD6O5HyDTYQ6wAc8LTTYzNBmLB4Y+VqzcXNxJkc7CuaKW35AHcxFcTqAPwTweHBKZFjhm6+T3Z6YP6vtweikEkHvVm8fXPxW3p4AYaSQ8Wf9SlYUikvltn8A1cRvcVBqupy52KJU6ZkWv4TxMH8Vq4dZKgjgt1nmU1hJ/cFEMwkpxUOMAIpiVP9vdOqgx+DLlM435pQG0Hr+3DU8+jthYTrpCcUGkVegdOQs+1TrWtSHsYUfE0Hd/oI4rEeTLEDG7Pdg040A8s=;WX3mS4pog7F9y8spHGPt2Q=="

@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Innovaccer's Patient Relationship Management Solution is Now Available on Microsoft Azure"
-excerpt: "Innovaccer, Inc., a leading healthcare technology company, recently announced that its patient relationship management solution is"
+excerpt: "Innovaccer, Inc., a leading healthcare technology company, recently announced that its patient relationship management solution is now available on Microsoft Azure. The solution streamlines communication between patients and their care teams."
 publishedDateTime: 2020-11-24T18:01:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/innovaccers-patient-relationship-management-solution-is-now-available-on-microsoft-azure-301179976.html"
-webUrl: "https://www.prnewswire.com/news-releases/innovaccers-patient-relationship-management-solution-is-now-available-on-microsoft-azure-301179976.html"
+originalUrl: "https://markets.businessinsider.com/news/stocks/innovaccer-s-patient-relationship-management-solution-is-now-available-on-microsoft-azure-1029835761"
+webUrl: "https://markets.businessinsider.com/news/stocks/innovaccer-s-patient-relationship-management-solution-is-now-available-on-microsoft-azure-1029835761"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/innovaccer-s-patient-relationship-management-solution-is-now-available-on-microsoft-azure-1029835761"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/innovaccer-s-patient-relationship-management-solution-is-now-available-on-microsoft-azure-1029835761"
 type: article
-quality: 28
-heat: -1
-published: false
+quality: 68
+heat: 168
+published: true
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
-
-images:
-  - url: "https://mma.prnewswire.com/media/1341834/bdecff853a4c4a802833fd9615b3.jpg?p=facebook"
-    width: 1134
-    height: 595
-    isCached: true
 
 related:
   - title: "DLT Solutions to Offer Microsoft Azure and Modern Workplace Solutions Through its U.S. Public Sector Partner Network"
@@ -63,7 +63,30 @@ related:
         width: 1200
         height: 627
         isCached: true
+  - title: "AppDynamics Featured as an Application Performance Monitoring Partner in the Microsoft Cloud Adoption Framework for Azure"
+    excerpt: "AppDynamics, a part of Cisco and the world’ s #1 APM solution and full-stack, business-centric observability platform, today announced its listing on Microsoft’ s Cloud Adoption Framework for Azure customers."
+    publishedDateTime: 2020-11-20T16:00:00Z
+    webUrl: "https://www.nasdaq.com/press-release/appdynamics-featured-as-an-application-performance-monitoring-partner-in-the"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 32
+  - title: "Innovaccer's Data Activation Platform Now on Microsoft Cloud for Healthcare"
+    excerpt: "Innovaccer, Inc., a leading healthcare technology company, recently announced that it is supporting Microsoft Cloud for Healthcare with"
+    publishedDateTime: 2020-10-13T17:17:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/innovaccers-data-activation-platform-now-on-microsoft-cloud-for-healthcare-301151372.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 20
+    images:
+      - url: "https://mma.prnewswire.com/media/1311776/Innovaccer_Logo.jpg?p=facebook"
+        width: 600
+        height: 314
+        isCached: true
 
-secured: "u3Qfr3VuSAqzynqbY63s0Kzeobg70iR+0ljgr44pUAscmxd6sfFR1SigTnq+Tus52boVykME1iXkE6FYgYp741gxiwwgxgjQLaPC/QzNLu+AIqTpBNPMoMmIWi+pZxx7IvKAV3zK2lDKl20no/X8hEhbEI2F9DD30g1Sp5a6R9ypxmrG1TLgvzvDRdEsjShhzjYHmyp9kwqNb0Ntw0/6saQ97+4ADGZc7yGNZ96X0t5Hrs50jk7Icm/UR5LoM0FqT4/ByN26JROfUvSZ5XA4/N5KFp0jXBW0jaPgsPCTz0TsgC2rjVOB8b8Hjet8AePYzk9dJYEMCDJmSuyBmVeD34w2VF6S6YMXBF7cNaFyYbA=;AB3LxHoq0TIa+EcJN3SQrg=="
+secured: "JyP4FTqPuc0PTeVmRefckY104tZHGomT6KZZKsvGCaOmId2OHhy8ZFmvJKc6oVMTG/4GATBCcNeBFihDu6v7P/kqLHWOrv7cJzoEPRjkGdAICbJd7DeJ0zJJIVkQXzC2J4+PKSZUUObP4z5s8ZYTBHkqT/VWpXs2oFrpG0zHQLCr1cjRASp+opwIsCwkl4rfbH3yTbAqB3WxmdSgsG9B09w/AL6Gvfn6HnTXx/qejFtHntO63zdKkxNhgtNCWQmOXRLKMaa41WQnfE8HaS4zQAg511uizooxrrsO4gxfWZwqCXWwrY8WoFqB34vW8aSlPtEeyOvZ8jwWX9LT9CwQimIdoM+0iI79DHQxSKBq4hY=;phyPl5k9RB05Q2exl1ldYw=="
 ---
 
