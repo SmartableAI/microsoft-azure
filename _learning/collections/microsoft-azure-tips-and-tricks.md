@@ -73,7 +73,6 @@ items:
   - videos/microsoft-how-to-set-up-an-azure-pipeline-with-node-js-azure-tips-and-tricks
   - videos/microsoft-how-to-deploy-your-web-app-in-windows-containers-on-azure-app-service-azure-tips-and-tricks
   - videos/microsoft-how-to-use-availability-zones-for-your-kubernetes-cluster-in-azure-azure-tips-and-tricks
-  - videos/microsoft-the-top-three-resources-for-developers-to-watch-at-microsoft-ignite-2019-azure-tips-and-tricks
   - videos/microsoft-how-to-get-started-with-github-actions-for-azure-azure-tips-and-tricks
   - videos/microsoft-how-to-assess-and-migrate-web-apps-to-azure-with-azure-migrate-azure-tips-and-tricks
   - videos/microsoft-use-azure-dev-spaces-to-collaborate-with-a-team-on-kubernetes-part-3-azure-tips-and-tricks
