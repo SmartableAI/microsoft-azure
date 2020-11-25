@@ -3,7 +3,7 @@ name: "Scott Guthrie"
 bio: "Executive Vice President Microsoft Cloud+AI"
 location: Redmond, WA
 type: "profile"
-heat: 104
+heat: 103
 
 affiliation:
   name: Microsoft
