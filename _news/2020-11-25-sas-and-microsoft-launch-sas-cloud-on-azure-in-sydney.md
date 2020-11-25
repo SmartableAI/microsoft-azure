@@ -2,23 +2,23 @@
 category: news
 title: "SAS and Microsoft launch SAS Cloud on Azure in Sydney"
 excerpt: "The Australian arms of analytics vendor SAS and Microsoft have come together to launch SAS Cloud on Azure in Sydney following strong demand in the local region. Developing on a global partnership between the two vendors, this sees SAS Cloud’s data ..."
-publishedDateTime: 2020-11-25T00:41:00Z
-originalUrl: "https://www.reseller.co.nz/article/684718/sas-microsoft-launch-sas-cloud-azure-sydney/"
-webUrl: "https://www.reseller.co.nz/article/684718/sas-microsoft-launch-sas-cloud-azure-sydney/"
+publishedDateTime: 2020-11-25T00:59:00Z
+originalUrl: "https://www.arnnet.com.au/article/684718/sas-and-microsoft-launch-sas-cloud-on-azure-in-sydney/"
+webUrl: "https://www.arnnet.com.au/article/684718/sas-and-microsoft-launch-sas-cloud-on-azure-in-sydney/"
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Reseller News
-  domain: reseller.co.nz
+  name: ARN
+  domain: arnnet.com.au
 
 topics:
   - Azure
 
 images:
-  - url: "https://d1abomko0vm8t1.cloudfront.net/article/images/800x800/dimg/lynette_clunies-ross.jpg"
+  - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/800x800/dimg/lynette_clunies-ross.jpg"
     width: 800
     height: 500
     isCached: true
@@ -669,6 +669,6 @@ related:
       domain: telecompaper.com
     quality: 0
 
-secured: "wy/X3HV2uKnkbKkUQbXcOlFY05qvSjxoDYF//4F6AV2PCI7dpCBNDAYvNj3zYQ7gWUERVf/gguVrJjGux1CeguhNoejJ3JgW+FL5oB/8dTlnS/YJrdKrcNtMF9Aq27lBayHmpvUkUZRQ9QMDESBApUpTUHzXnGuobhcCpK0IdhNuO+KP7BuPmHSnAJJUAhCuGOyZaeXDGjfwcvrchixjVbW2cz6UzKR5YUTmF4z50LyVI3Td9pD3xzbfnVyGoC2YSAKhigV2EQ8cTYxtrvFM6nNZkkbj5HHrRo52dGC75xTcltlWkeE13zoeBnKvPS4lCZACeM8VO3yUZxtZx9X53Sv9/cNSaKfhByuI2fjGHlc=;KY+IU8gfTgYl59zYOaQEsQ=="
+secured: "oHc8yZz2KSgL+aYY5FqaMpvwFq+YZ8wrNYWu014T9xOftp9T80kiymwiPTkyKpYQTgrzhnjEGZh4DI8NV4qGa+fpzxWkAXFiDo9aiZ0Pz5UpQ92loLb6pBP/d67xotCjaVUuw+5mD/vVRDbXgKZME/ULtbpoH00kt3U30v4qCv1jQKH8DwYeTZRmSlgPwlsonQ60Wr/KhmTHuDm1ccUfM5k1UE0iwkFpez3N/ZsvAZhGYuNwxnIk+HFRF1aoskVmJit8ugVnbMzKKJYbAiI8h2bgWIYs4OK088v93lBsa776PhoD8MbeUnwgA+tUgPoUxxFgrgog8LVZY6wknsDpwaC2hHjIaviAfWoUyF8/tpI=;XXVaXkEnD+Vj32hviTEbaA=="
 ---
 
