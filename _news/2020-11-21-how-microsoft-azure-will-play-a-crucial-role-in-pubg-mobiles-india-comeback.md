@@ -9,7 +9,7 @@ ampWebUrl: "https://www.sportskeeda.com/amp/esports/how-microsoft-azure-will-pla
 cdnAmpWebUrl: "https://www-sportskeeda-com.cdn.ampproject.org/c/s/www.sportskeeda.com/amp/esports/how-microsoft-azure-will-play-crucial-role-pubg-mobile-s-india-comeback"
 type: article
 quality: 71
-heat: 112
+heat: 111
 published: true
 
 provider:

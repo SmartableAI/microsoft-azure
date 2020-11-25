@@ -1,27 +1,27 @@
 ---
 category: news
-title: "InfiniteIO Announces Integration with Microsoft Azure to Reduce Cloud Latency and Storage Costs"
-excerpt: "Metadata management innovator InfiniteIO today announced new support for Microsoft Azure to dramatically reduce the cost of primary file storage and minimize cloud latency to help enterprises lower capital and operational expenses and increase application performance."
-publishedDateTime: 2020-06-16T07:20:00Z
-webUrl: "https://www.dailyrecordnews.com/ap_news/business/infiniteio-announces-integration-with-microsoft-azure-to-reduce-cloud-latency-and-storage-costs/article_71a8cb32-ed69-5f9a-8ecc-772948e664a8.html"
+title: "Microsoft, SAS in deal to provide SAS Cloud on Azure in Sydney"
+excerpt: "The Australian divisions of Microsoft and analytics provider SAS will provide SAS Cloud on Azure, making it the second SAS Azure tenant globally to serve Australia and the region. The deal was ..."
+publishedDateTime: 2020-11-24T23:52:00Z
+originalUrl: "https://itwire.com/cloud/microsoft,-sas-in-deal-to-provide-sas-cloud-on-azure-in-apac.html"
+webUrl: "https://itwire.com/cloud/microsoft,-sas-in-deal-to-provide-sas-cloud-on-azure-in-apac.html"
 type: article
-quality: 25
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Ellensburg Daily Record
-  domain: dailyrecordnews.com
+  name: ITWire
+  domain: itwire.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/dailyrecordnews.com/content/tncms/custom/image/0ef5f48e-94dc-11e7-8ed4-3365baf52acf.png"
-    width: 1200
-    height: 630
+  - url: "https://itwire.com/media/k2/items/cache/cdfd24e27a749177e566c868d8b6de7f_M.jpg"
+    width: 375
+    height: 319
     isCached: true
-    title: "InfiniteIO Announces Integration with Microsoft Azure to Reduce Cloud Latency and Storage Costs"
 
 related:
   - title: "Microsoft Azure becomes SAS’s preferred cloud platform"
@@ -405,20 +405,6 @@ related:
         width: 647
         height: 450
         isCached: true
-  - title: "Microsoft, SAS in deal to provide SAS Cloud on Azure in Sydney"
-    excerpt: "The Australian divisions of Microsoft and analytics provider SAS will provide SAS Cloud on Azure, making it the second SAS Azure tenant globally to serve Australia and the region. The deal was ..."
-    publishedDateTime: 2020-11-24T23:52:00Z
-    webUrl: "https://itwire.com/cloud/microsoft,-sas-in-deal-to-provide-sas-cloud-on-azure-in-apac.html"
-    type: article
-    provider:
-      name: ITWire
-      domain: itwire.com
-    quality: 37
-    images:
-      - url: "https://itwire.com/media/k2/items/cache/cdfd24e27a749177e566c868d8b6de7f_M.jpg"
-        width: 375
-        height: 319
-        isCached: true
   - title: "SAS and Microsoft launch SAS Cloud on Azure in Sydney"
     excerpt: "The Australian arms of analytics vendor SAS and Microsoft have come together to launch SAS Cloud on Azure in Sydney following strong demand in the local region. Developing on a global partnership between the two vendors, this sees SAS Cloud’s data ..."
     publishedDateTime: 2020-11-25T00:41:00Z
@@ -539,6 +525,20 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 27
+  - title: "InfiniteIO Announces Integration with Microsoft Azure to Reduce Cloud Latency and Storage Costs"
+    excerpt: "Metadata management innovator InfiniteIO today announced new support for Microsoft Azure to dramatically reduce the cost of primary file storage and minimize cloud latency to help enterprises lower capital and operational expenses and increase application performance."
+    publishedDateTime: 2020-06-16T07:20:00Z
+    webUrl: "https://www.dailyrecordnews.com/ap_news/business/infiniteio-announces-integration-with-microsoft-azure-to-reduce-cloud-latency-and-storage-costs/article_71a8cb32-ed69-5f9a-8ecc-772948e664a8.html"
+    type: article
+    provider:
+      name: Ellensburg Daily Record
+      domain: dailyrecordnews.com
+    quality: 25
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/dailyrecordnews.com/content/tncms/custom/image/0ef5f48e-94dc-11e7-8ed4-3365baf52acf.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Claro Enterprise Solutions Designated as a Microsoft Azure ExpressRoute Partner for Miami Peering Location"
     excerpt: "Claro Enterprise Solutions, a leading technology services company, today announced that it has been named a Microsoft Azure"
     publishedDateTime: 2020-06-16T13:00:00Z
@@ -669,6 +669,6 @@ related:
       domain: telecompaper.com
     quality: 0
 
-secured: "3FCfUfN8m4HuwESRqjkibW0pbYtJoV5xwhsFjmgKoHb9faW1K7Q8BG4bQU3idfhtU3fZVdi7Kkb2aVtLODJcd4E9qmNML4196EfElVEm3Iq9OUcFced5pJcjtDbl8aZxNyxXnkGxMy42pxyvTek7KVLUJucbNdsQ2XRrbzRjcMpP4GazEoTgCJusZlkUmKJ+NBAcx14UHWI+J2vdjVxMg+kW+tGQBxqcLBK1bxuq8uPizrb5OfaXSq7UssiyxKGwVm6H76q7xJQ+cje/qCM24GCXkrV3gtGATPfIBM4Co31S6h/iUQF+tOa6x2c/wbSe+NiKilURts2/+JFKHbK/1Q==;5BIGpdcNBczOUpsb8HCw0w=="
+secured: "oMGHRqSAx6fkxgCr7nTolXSGdTNrBWzQHDzOs3xMhEPnd7GKAXk9OpLl5wnW1LOXm7M5QIyuPdWWoh4hYe9f/X6B06l33xHFWUtDAfd/niCdF7JGTCdwZRqi/8cI6qIzXjAz2idQZ6yyPKujty13Re0dl+Nd7zfHKkJcQUlAvpPt/tFwbG7MB9Yx26/aIgT4BkCPbMEmJmTCNozQyA2VZuEjMZmUa0T5LyV1iiuS3y/WONlEdLafltrtu64F9LPDBbPCal4VuaNvFTTZ8Z7biuDyrMOF3n6l/HdHznE0jcHlICwHV7fIPCE1xee+SS33gIcIlOxiDlzmCtOdJiCuRcDEAp2mCxvIZqQtrLsuPK8=;h1U2SZ0d9tgJPBPLsLNypw=="
 ---
 

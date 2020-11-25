@@ -400,6 +400,48 @@ related:
         width: 647
         height: 450
         isCached: true
+  - title: "Microsoft, SAS in deal to provide SAS Cloud on Azure in Sydney"
+    excerpt: "The Australian divisions of Microsoft and analytics provider SAS will provide SAS Cloud on Azure, making it the second SAS Azure tenant globally to serve Australia and the region. The deal was ..."
+    publishedDateTime: 2020-11-24T23:52:00Z
+    webUrl: "https://itwire.com/cloud/microsoft,-sas-in-deal-to-provide-sas-cloud-on-azure-in-apac.html"
+    type: article
+    provider:
+      name: ITWire
+      domain: itwire.com
+    quality: 37
+    images:
+      - url: "https://itwire.com/media/k2/items/cache/cdfd24e27a749177e566c868d8b6de7f_M.jpg"
+        width: 375
+        height: 319
+        isCached: true
+  - title: "SAS and Microsoft launch SAS Cloud on Azure in Sydney"
+    excerpt: "The Australian arms of analytics vendor SAS and Microsoft have come together to launch SAS Cloud on Azure in Sydney following strong demand in the local region. Developing on a global partnership between the two vendors, this sees SAS Cloud’s data ..."
+    publishedDateTime: 2020-11-25T00:41:00Z
+    webUrl: "https://www.reseller.co.nz/article/684718/sas-microsoft-launch-sas-cloud-azure-sydney/"
+    type: article
+    provider:
+      name: Reseller News
+      domain: reseller.co.nz
+    quality: 37
+    images:
+      - url: "https://d1abomko0vm8t1.cloudfront.net/article/images/800x800/dimg/lynette_clunies-ross.jpg"
+        width: 800
+        height: 500
+        isCached: true
+  - title: "SAS, Microsoft launch SAS Cloud on Azure in Australia"
+    excerpt: "Australia is SAS’s second Azure tenant globally and the first outside of the US, as ANZ is one of most successful markets for SAS Cloud. In June 2020, SAS entered an “extensive technology and go-to-market strategic partnership” with Microsoft to make ..."
+    publishedDateTime: 2020-11-25T00:39:00Z
+    webUrl: "https://www.crn.com.au/news/sas-microsoft-launch-sas-cloud-on-azure-in-australia-558218"
+    type: article
+    provider:
+      name: CRN Australia
+      domain: crn.com.au
+    quality: 37
+    images:
+      - url: "https://i.nextmedia.com.au/News/crn-14_sas_microsoft_azure.png"
+        width: 985
+        height: 634
+        isCached: true
   - title: "Standard Chartered Bank taps Microsoft Azure to become a cloud-first bank"
     excerpt: "As technology reshapes the banking industry, Standard Chartered believes that a cloud-first strategy is critical to its ambition to make banking simpler"
     publishedDateTime: 2020-08-12T07:06:00Z
