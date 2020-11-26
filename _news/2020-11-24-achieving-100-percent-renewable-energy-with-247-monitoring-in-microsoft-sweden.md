@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/achieving-100-percent-renewable-e
 webUrl: "https://azure.microsoft.com/blog/achieving-100-percent-renewable-energy-with-247-monitoring-in-microsoft-sweden/"
 type: article
 quality: 72
-heat: 112
+heat: 132
 published: true
 
 provider:
@@ -53,6 +53,15 @@ related:
         width: 960
         height: 638
         isCached: true
+  - title: "AMS-IX adds Microsoft Azure Peering Service to cloud portfolio"
+    excerpt: "The Amsterdam Internet Exchange (AMS-IX) has added Microsoft Azure Peering Service to its cloud portfolio. This means that companies and organisations connected to the exchange will be able get ..."
+    publishedDateTime: 2020-11-25T12:49:00Z
+    webUrl: "https://www.telecompaper.com/news/ams-ix-adds-microsoft-azure-peering-service-to-cloud-portfolio--1363321"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 17
 
 secured: "FJRGlFU7l0ELeEfSL26RLWrww0zQ/kQeo1h7IQULNIUrhsCCjnHAdrKy08CkIOsBHOCQ0rKSI1wQf8Ju7s1powEQgu89LckgqqtkwJM2Mmy9kxbr4f2zyQWoBEC+5tkLOa4clwLINGa/ymZ+MA1/RcAeEXk5a5gxy1MAUpqtPZS4VpUH6zFoa1jfB71c6hJC6LIIw083/eCo4Uy1jpz+bE2IcdMAL/vcmfM1y2P75RQ952V+dGbZzZv3+k2JhayuMbnnq6xwa9cJkO4faXVXQbLDEx8gUINnMKJ2VCxAIf4637Dd7IFdl9kWmbiHTyU6oeQ/pkEMSfAhGSDL6FpWolXyhe/k/yArNs4T1KKKhj8=;Ux3G9HNzFqr+4frK20A53A=="
 ---

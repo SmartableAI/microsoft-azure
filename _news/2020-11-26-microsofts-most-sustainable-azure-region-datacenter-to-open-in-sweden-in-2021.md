@@ -47,6 +47,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 52
+  - title: "AMS-IX adds Microsoft Azure Peering Service to cloud portfolio"
+    excerpt: "The Amsterdam Internet Exchange (AMS-IX) has added Microsoft Azure Peering Service to its cloud portfolio. This means that companies and organisations connected to the exchange will be able get ..."
+    publishedDateTime: 2020-11-25T12:49:00Z
+    webUrl: "https://www.telecompaper.com/news/ams-ix-adds-microsoft-azure-peering-service-to-cloud-portfolio--1363321"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 17
 
 secured: "VJNNGJyCJqHDVyoygLYs8NwhgDuHLXYRF6ovsz5i2EKcCZSQx9thvfookGWy+C6QjG6uzYMCIhrCxBikLwD3YrDNottkDKu/RLSG5rjGZsagizq7rEflxrkKlk33xW/MZIxESnH9ipHznrZmM4axMMnC00S7a/XmKDIl03cSselUIPVp6BtNDRxbk4/5YoSJziyrnljYwElg61PlxLnV7gec5rBssEDX9tmjzm1IKPRuqcYuhZ+4oHdcPqhDVYBoARaW0KtHUeWmJekIiIT1C34bplfsa2nbvG7wCH0rBwVI38yKrUzm7oO5jSbUT1opT9MuZeU3AH1nUZKP8nAwgvFvCneARUiiGhq1sDhxqqs=;348PbH/6oKingFND+PZnXw=="
 ---
