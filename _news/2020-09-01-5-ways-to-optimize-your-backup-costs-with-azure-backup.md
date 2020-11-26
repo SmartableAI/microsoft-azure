@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/5-ways-to-optimize-your-backup-co
 webUrl: "https://azure.microsoft.com/blog/5-ways-to-optimize-your-backup-costs-with-azure-backup/"
 type: article
 quality: 86
-heat: 86
+heat: 88
 published: true
 
 provider:
