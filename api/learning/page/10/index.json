@@ -549,8 +549,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/add-custom-domain-name-azure-active-directory/",
       "length": "PT18M",
       "ratings": {
-        "count": 1033,
-        "average": 4.6902227
+        "count": 1036,
+        "average": 4.6901546
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -714,8 +714,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-long-running-serverless-workflow-with-durable-functions/",
       "length": "PT46M",
       "ratings": {
-        "count": 2782,
-        "average": 4.4662113
+        "count": 2783,
+        "average": 4.4656844
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -758,8 +758,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/capture-application-logs-app-service/",
       "length": "PT55M",
       "ratings": {
-        "count": 1434,
-        "average": 4.6380754
+        "count": 1435,
+        "average": 4.6383276
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -968,8 +968,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-azure-databricks/",
       "length": "PT53M",
       "ratings": {
-        "count": 496,
-        "average": 4.512097
+        "count": 498,
+        "average": 4.514056
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1012,8 +1012,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/detect-analyze-faces/",
       "length": "PT24M",
       "ratings": {
-        "count": 346,
-        "average": 4.716763
+        "count": 347,
+        "average": 4.7175794
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1055,8 +1055,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/detect-objects-images-custom-vision/",
       "length": "PT39M",
       "ratings": {
-        "count": 353,
-        "average": 4.736544
+        "count": 354,
+        "average": 4.734463
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1221,8 +1221,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-kubernetes-service/",
       "length": "PT25M",
       "ratings": {
-        "count": 3619,
-        "average": 4.6139817
+        "count": 3620,
+        "average": 4.6140885
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1264,8 +1264,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-linux/",
       "length": "PT16M",
       "ratings": {
-        "count": 976,
-        "average": 4.759221
+        "count": 977,
+        "average": 4.7594676
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1306,8 +1306,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-site-reliability-engineering/",
       "length": "PT55M",
       "ratings": {
-        "count": 605,
-        "average": 4.7289257
+        "count": 606,
+        "average": 4.729373
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1452,15 +1452,15 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-monitor-vm-performance-using-azure-monitor-for-vms.md",
-      "title": "Monitor performance of virtual machines by using Azure Monitor for VMs",
-      "excerpt": "Learn how to use Azure Monitor for VMs to monitor your organization's Azure virtual machines.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-monitor-vm-performance-using-azure-monitor-for-vms/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/monitor-performance-using-azure-monitor-for-vms/",
-      "length": "PT48M",
+      "path": "_learning/courses/microsoft-learn-neural-networks.md",
+      "title": "Make predictions from complex data with neural networks",
+      "excerpt": "Use neural network models to make predictions. Change neural network structures to refine predictions using TensorFlow and Keras.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-neural-networks/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-neural-networks/",
+      "length": "38 mins",
       "ratings": {
-        "count": 10,
-        "average": 4.5
+        "count": 287,
+        "average": 4.383275
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1480,9 +1480,10 @@
       "heat": 53,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/monitor-performance-using-azure-monitor-for-vms-social.png",
-          "width": 640,
-          "height": 320,
+          "url": "https://docs.microsoft.com/learn/achievements/introduction-to-neural-networks-social.png",
+          "width": 800,
+          "height": 400,
+          "title": "Make predictions from complex data with neural networks",
           "isCached": true
         }
       ],
@@ -1490,9 +1491,7 @@
       "type": "course",
       "price": "Free",
       "topics": [
-        "Azure",
-        "DevOps",
-        "Management Tools"
+        "Azure"
       ]
     }
   ],
