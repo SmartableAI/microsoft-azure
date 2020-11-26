@@ -4,9 +4,9 @@ excerpt: "Azure Maps is a portfolio of geospatial services that include service 
 originalUrl: https://youtube.com/watch?v=5fhTsTksHy4
 type: video
 price: Free
-length: PT9M8S
+length: PT9M7S
 publishedDateTime: 2018-07-16T15:49:11Z
-heat: 51
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/5fhTsTksHy4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -27,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "ivFcP8XizY/hU7jkhx16Dqfkw4fB6yxD075ak4HiqFoIDi2RuSeHRsj3icURv4yXMumOk+qM+DJCTF42I9VP59v0MWkUeJvW7PMRYAZRbGd17ca6GF64SQgBDQ4HdWznpRoNQTjfL1m7pqre77iYV0iemgiBX2H4HnLb0X6Z7/ECllzF4KM7mMlbQygvm85BM1OHBD2AEyP0DKzJYoTmKxxumVTBP0U+kDamHOmbgrR3Qz46FUP0eZEFwylliUG/0h4WxsvJpcoeCOg/QHjwk83jRJeLCZAt0fZHoybgY4Ie9Ud6+6xTPB9rMl8rfck+1WPtCV7D+Ev9WHccLS0IAZO2IdzGBz0Q6TsczYVD+aN+9bpjcmTjAR19xfoLd88kCWQb2D0y9uiOTaONdZ9tcNNCoTFPs66NkO5xz17umM8=;V9SLUE1Zxhcvamz4pMWnEg=="
+secured: "IQPYzbXAC8hPXrTMJCVA5jSiZnmb7P9c5wuJghEQz+2aQHw0XyCpcfj0g3ijT22QoE051vqC0xIrEshtaNcegjJr/LDp3MdihzOad1FlkaXS5woYwJedRoXXXiGgdlsWE0Buo0PvZFPSWVlgxsUc8vI1shjdV+S/Fq+gTZLGsi9KsBMQ3AvOr2QNuPbzfo5+mbO9w3Jmf3B8IYR6UOKNV1EXkICwImuVmBfIDn9CbxTqdumnyGJR/kcNkOPIr7NZviWMFcV8p2UyNSbwX6MMAuIZ1RrCiOj4Z8Jq80C/0Q39YnfEmMfL8xw1f0CxcKyQxVcHRQ1zChR/hRFtFOQzKXRKBkHPCUm87sR9uKyCdVC6PMztkV/ZsWnHsfd4Be9MKZROU6Sp6CQq1zdX6CAFoAqqVARIxPzm7QdTYxxsC2U=;6z/BWjdWg94rI6jBnyLvVg=="
 ---
 
