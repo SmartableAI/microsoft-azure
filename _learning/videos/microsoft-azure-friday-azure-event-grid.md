@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT12M8S
 publishedDateTime: 2017-08-16T20:07:41Z
-heat: 53
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/kFZwcRh-OAY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "2wSBYPAmodeuQO6ha1cYRGoEmpNYxwCEM94B1eR/5KFbB0T3xT+ph//mLRTemAxPhG34s9FDu5uAInfBDP2IRdwd78A34OCHTRw14/7Q1Fc1zRmFVeW3yaMa2h6up/i65x/34fkB0yjByusQPDt84pCgp5pxG6ZJDtwFl70NiLJXB4qUsCPFW/4guNsss1Vvv7M2Z0SOvJ+eFNZehf2+CyU/1AFjWprCxhjYd6ozXs9YFrY6fnsFRjj+ba5x4dF4LxMixjhctsYfJhLCqV9xVqjac1J6+1Z0mLcm8KB99dQHzWYc+2Zpt6NGRCqEwy4fuxNqRUrVgQDQkikpd9hCkpNoJ0hSmKzaODI7kbKH2RtZkZcg1rOqxS0iRgweJ/IwldAOkkaFrgKGilW2kgcVZ25qJpkhFmUKvz2MT3Y/vjg=;UxwJwnE4hgs+wnfxlOJpEw=="
+secured: "Naayal1AN7m78QXrYdf5Y6gJaG9jkeR4BmybvmV511xUH+wODMzuWqwLLiKwbHBHFuz8x4RuzCBUAWRu+eVadP21uj9P8HO1Q1LNKIu5GNuYFrn2TGJVQyIRJiG5F2LjgRFibjNCetPK7MuuXJlvpydyebDcL0v0Zxe1d3AlBBNnqRLbgssBAbXOr4i5X4Tqc+siVArucSK6lfjSkm+5/qxGg9lTefLM5ioKv7t92HBG1RbPYj9cr8ocEJQmaTIAhDdPBtFs9oYTJNZHqdrUASsz7eVnGkX01pSc8Hu9eGy0SCXPn30kFBIAbU07E45OH3mcTzcwf+zM1CJQiYRQTuGSl6S99kny7qXES++WaZUfh+/D09Wh43QXyhbTNt0Kk9evLaEYh+Pd6KVvTuUNCx+wG+A/FZMqwrkvnrYsTVI=;KKqqCczg1oOuBk1qBn8HAQ=="
 ---
 

@@ -6,9 +6,9 @@ type: course
 price: Free
 length: PT29M
 ratings:
-  count: 382
-  average: 4.8010473
-heat: 54
+  count: 386
+  average: 4.8031087
+heat: 53
 
 provider:
   name: Microsoft Learn
@@ -26,6 +26,6 @@ topics:
   - AI
   - Analytics
 
-secured: "iuDPFfyV0/lWhz3BpFmFo9W2v7G2rHs97UpqYjHV9jTBc44NvDUET0/1p2f+n40Zheijive2ucIfWVZcFsFeUIppac1h7TQANAzlaqO96fYmJn/UvVYIwGjcstLl+CZk6uooRIfa61q3xV0NKuhkdvesjNzgB2ErRg79AlfUYDsbuT0kRBtRsAunO2ZS1OOqzVeBKoaV2H8UI0zHcTKSQPJn8EQbgar409/u15csW8IFPz1vZKWNeMK2haMSZnuZbHFGvNSPNBe75dzbTZNPlyAf1wVHixRQg/bIkzxX4OE2jy9VeiHwVZ1b9Z0k1sxWBLqQG93NWAXo8bFjoOaxBPaL7EX1OXRw5FLvSfISssfs0MtO9rRyO6tRK45Ffsbhi+4uvjXRt9nROM877izA8PJdQPCVoCPQu6OulGswlVc=;5HmEdEKFUFmh7WZ3Mo+pzQ=="
+secured: "TyPpI72bk2ubJ7azCjpjL4pywZsGLolPKmLsPclzYb34Np4PLovyUvPIG+9Ic8xzLiFIkCKoqNKlIKK4PV9nQwzuBEN12bS8Fi8ACGHUD8ueUOqveWwdwOTyB32CNVSLEnvwqyKZ18bQcBWJMQBarFywZB2CKSUnMH5uzNPdJPIL9OD3TRJOxGvyETKEmjlSLhHrRmz6YPSNWfMoY/ZdyTAWBkL/he5Xa0ibO6l1VPmf7iA0YOjqUbSkECgISnjasX5Z4HiWNfYyPQwMZ/+v45nBXGRb7cdPhozuCrXfuXCEASKgTKDsr6epb3n/drAXQgAaehom8Wz1NJzQ6MGEH12tfKf/yExutGCkcuqDkdf9TZkqhiT+fhRqQ14v8J8G+02ziEyrfOix5w/vqawiKHCKAaK2lr1pTg2UEx3K/nY=;Yqh46AjoLBKyAOqIgaciLA=="
 ---
 

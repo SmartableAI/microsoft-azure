@@ -6,8 +6,8 @@ type: course
 price: Free
 length: PT54M
 ratings:
-  count: 2207
-  average: 4.651563
+  count: 2210
+  average: 4.652036
 heat: 51
 
 provider:
@@ -25,6 +25,6 @@ topics:
   - Azure
   - Integration
 
-secured: "tLMYbWW/yKGRxktbBTrcxy6RwNLGalv8iqEcKaXbiNbKMyeMjNiGKVGzVIsKgjOiqVzR4jQtE7yAAZhpT+rcLQS93flz4Zqz5tv1D5zwL44tady/GWTD8SiqDVY9sjm54kCqFFaDTyAIfFwsp9GbIxYzYTNfsm5+rA+VS2+3tZ1l70mPd7cnUmcWvyUKpqyjeAQXn5w+gwIyuaawfQtq1a7L9QC/4pBpfwLmMASz7nXrua+myU6r4dCeayIzg7Dz7EpdGHEi01KxPoqv7SpV7kljlVPjwAXrF3GpF7NDeniSFvPrXL8jKVB8eEl+71l6qNeYL7gHeJUSFE+j+gpBi6ku/4+QoMoTZHekckpZCVB0Ha4+ON6hMPQW32xtZ5N/2Cgxg+dNWm2tiKl+O0PKR9Z7qAqdyRqz4vWp/zo/SME=;cNfW9ByLy7Cq8i8sutlUrg=="
+secured: "Ael86k6czO0CHZB2F70QzJFhSSkhS9mtoGSIPywvNHIidT3fbpoe+TWCYoKeZbCloqckQU9w9hUPZfBDEncL4HMQZorGY7YpBSslRY7hopaGvF+mOP6omyMqcyGDn6SW1yBQ4YahhJRSin1odYSDlhTaLTWpZJiFOWk8CKnpWY8lsytKkrtPp0NP1jzcbVBL6uq/HP9IA1A/75JaxHuRxtTmKYiAdMuZdctZ9DjzhamEQDtekHJnQPDYrUZP0jjV5kq/hPgwEH8EAPWJ1tdBZqCjXVSUXpyQhSZY2L5gy8uE4DmM4Wm5QIp5ZqlY8EAi9l1m1PyT2KWt2W+LxFvXmFr65bFqwD5eSmGRQAzZ3NFJDqbrp7WSfeeAL/gB4LrDMOjMlYqU8/UsHnPZKTRDF/B1HhGsSgu3h46g/Hgvzf4=;K3B73NjGHYMgi49+SIyZKA=="
 ---
 
