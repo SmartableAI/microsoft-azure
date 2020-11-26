@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/achieving-100-percent-renewable-e
 webUrl: "https://azure.microsoft.com/blog/achieving-100-percent-renewable-energy-with-247-monitoring-in-microsoft-sweden/"
 type: article
 quality: 72
-heat: 92
+heat: 112
 published: true
 
 provider:
@@ -39,6 +39,20 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 52
+  - title: "Microsoft’s Most Sustainable Azure Region Datacenter to Open in Sweden in 2021"
+    excerpt: "A year after confirming Sweden will get a sustainable Azure Datacenter, Microsoft says the location will open in 2021."
+    publishedDateTime: 2020-11-26T13:48:00Z
+    webUrl: "https://winbuzzer.com/2020/11/25/microsoft-most-sustainable-azure-region-datacenter-to-open-in-sweden-in-2021-xcxwbn/"
+    type: article
+    provider:
+      name: winbuzzer.com
+      domain: winbuzzer.com
+    quality: 33
+    images:
+      - url: "https://winbuzzer.com/wp-content/uploads/2020/09/Satelitte-Cloud-Pixabay.jpg"
+        width: 960
+        height: 638
+        isCached: true
 
 secured: "FJRGlFU7l0ELeEfSL26RLWrww0zQ/kQeo1h7IQULNIUrhsCCjnHAdrKy08CkIOsBHOCQ0rKSI1wQf8Ju7s1powEQgu89LckgqqtkwJM2Mmy9kxbr4f2zyQWoBEC+5tkLOa4clwLINGa/ymZ+MA1/RcAeEXk5a5gxy1MAUpqtPZS4VpUH6zFoa1jfB71c6hJC6LIIw083/eCo4Uy1jpz+bE2IcdMAL/vcmfM1y2P75RQ952V+dGbZzZv3+k2JhayuMbnnq6xwa9cJkO4faXVXQbLDEx8gUINnMKJ2VCxAIf4637Dd7IFdl9kWmbiHTyU6oeQ/pkEMSfAhGSDL6FpWolXyhe/k/yArNs4T1KKKhj8=;Ux3G9HNzFqr+4frK20A53A=="
 ---

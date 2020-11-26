@@ -1,24 +1,21 @@
 ---
 category: news
-title: "PUBG Mobile India fans plead Microsoft Azure, PUBG Corporation on Twitter in hope of an official announcement"
-excerpt: "The fate of PUBG Mobile still hangs in the balance with no news yet of a confirmed release date so far. The game is set to include features and changes specific to the Indian version of the game. The rise of mobile gaming in India can be attributed to a single game: PUBG Mobile."
-publishedDateTime: 2020-11-26T08:23:00Z
-originalUrl: "https://www.sportskeeda.com/esports/pubg-mobile-india-fans-plead-microsoft-azure-pubg-corporation-twitter-hope-official-announcement"
-webUrl: "https://www.sportskeeda.com/esports/pubg-mobile-india-fans-plead-microsoft-azure-pubg-corporation-twitter-hope-official-announcement"
-ampWebUrl: "https://www.sportskeeda.com/amp/esports/pubg-mobile-india-fans-plead-microsoft-azure-pubg-corporation-twitter-hope-official-announcement"
-cdnAmpWebUrl: "https://www-sportskeeda-com.cdn.ampproject.org/c/s/www.sportskeeda.com/amp/esports/pubg-mobile-india-fans-plead-microsoft-azure-pubg-corporation-twitter-hope-official-announcement"
+title: "CMC Networks starts direct access to Microsoft Azure peering service"
+excerpt: "Global telecom carrier CMC Networks said it now provides direct access to the Microsoft Azure Peering Service, further increasing access to its range of cloud services. Clients will be able to benefit from a low latency and SLA-backed,"
+publishedDateTime: 2020-11-26T14:22:00Z
+originalUrl: "https://www.telecompaper.com/news/cmc-networks-starts-direct-access-to-microsoft-azure-peering-service--1363427"
+webUrl: "https://www.telecompaper.com/news/cmc-networks-starts-direct-access-to-microsoft-azure-peering-service--1363427"
 type: article
-quality: 35
+quality: 17
 heat: -1
 published: false
 
 provider:
-  name: Sportskeeda
-  domain: sportskeeda.com
+  name: Telecompaper
+  domain: telecompaper.com
 
 topics:
   - Azure
-  - Mobile
 
 related:
   - title: "How Microsoft Azure will play a crucial role in PUBG Mobile's India comeback"
@@ -37,6 +34,17 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "PUBG Mobile India fans plead Microsoft Azure, PUBG Corporation on Twitter in hope of an official announcement"
+    excerpt: "The fate of PUBG Mobile still hangs in the balance with no news yet of a confirmed release date so far. The game is set to include features and changes specific to the Indian version of the game. The rise of mobile gaming in India can be attributed to a single game: PUBG Mobile."
+    publishedDateTime: 2020-11-26T08:23:00Z
+    webUrl: "https://www.sportskeeda.com/esports/pubg-mobile-india-fans-plead-microsoft-azure-pubg-corporation-twitter-hope-official-announcement"
+    ampWebUrl: "https://www.sportskeeda.com/amp/esports/pubg-mobile-india-fans-plead-microsoft-azure-pubg-corporation-twitter-hope-official-announcement"
+    cdnAmpWebUrl: "https://www-sportskeeda-com.cdn.ampproject.org/c/s/www.sportskeeda.com/amp/esports/pubg-mobile-india-fans-plead-microsoft-azure-pubg-corporation-twitter-hope-official-announcement"
+    type: article
+    provider:
+      name: Sportskeeda
+      domain: sportskeeda.com
+    quality: 35
   - title: "Nerdio Exec On How To Build A Successful Cloud Practice With Microsoft Azure"
     excerpt: "Nerdio CRO Joseph Landes outlines why it’s worth it for MSPs to think about moving to the cloud with Microsoft Azure. Also, MSP partner Digital Defense Founder and CEO Richard Harber talks about the benefits of teaming with Nerdio as he builds his Azure business."
     publishedDateTime: 2020-11-21T00:45:00Z
@@ -62,16 +70,7 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 18
-  - title: "CMC Networks starts direct access to Microsoft Azure peering service"
-    excerpt: "Global telecom carrier CMC Networks said it now provides direct access to the Microsoft Azure Peering Service, further increasing access to its range of cloud services. Clients will be able to benefit from a low latency and SLA-backed,"
-    publishedDateTime: 2020-11-26T14:22:00Z
-    webUrl: "https://www.telecompaper.com/news/cmc-networks-starts-direct-access-to-microsoft-azure-peering-service--1363427"
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 17
 
-secured: "r8XkLzbo/QKaGL9a8Pdf6SmrG5MPFTVyJuz9wbYiPKTznvhEuw9I6bAnzHChcMeJUOVUWA9D1jt55JvTyNENMNMTaGG83BXPCRWzDY14exCKpD78cE9qZsDilVK93gVnVaIdKQXEx7icCFTh+l2IhvB38OWmIaNHJQgkDDPQmoEq7gBMZhn26I/4GeaB4DnapR8chj97Q71covXL0OktNYHLyhi/+3rDgnstVtGjLBg43XdRIOZhqI/4NzjoqB9VqqJq3HSuco8/x8OT13EUoWsq83W3PJfAL01nXVQh3m+zcAiZSaprHT3g+plbDKwGfHBp/1PhY3w4yaOcFj0SvJ5J9u2LoOlGLgjbFZcUa2M=;I2gUMxBJ3ieY2rLRJWXRKQ=="
+secured: "pzPftJCIiJRD7ZyFCH1eaNHiKZBVhEqnIrFJrCcHBa1xDaSG/27wxuNHVxunnhsJR7cLc2vMZdJIEn90JKPXiRzYy3ZTXYAkHh/rBiWS0mQspFqrVSo1i/q//7qFLuof8aUiZFx3hLGLHpBbMdWoj/2xqMYoF08p1KghXY4GseTZUw94Pdfar7o2e2RaJ16nsVLKzVyVaBNXqw241lpjuePLMoAuSOBZWClDhHceUeCVTgaK0v2BfEfNM5RvnsXTVTl/Fg9UkCsGemjAwk3WDYaxmb1Lz1unYEXTgebc+PpJyn6iGUbM7TO5TJXjycSfYrMDjvJcUv43E4YoMA9N1Js9glaUaZqgfSLJFiFVO64=;Yfr/P/U4xR2AHOs7XblLng=="
 ---
 

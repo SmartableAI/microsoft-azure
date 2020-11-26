@@ -9,7 +9,7 @@ ampWebUrl: "https://www.sportskeeda.com/amp/esports/how-microsoft-azure-will-pla
 cdnAmpWebUrl: "https://www-sportskeeda-com.cdn.ampproject.org/c/s/www.sportskeeda.com/amp/esports/how-microsoft-azure-will-play-crucial-role-pubg-mobile-s-india-comeback"
 type: article
 quality: 71
-heat: 131
+heat: 151
 published: true
 
 provider:
@@ -63,6 +63,15 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 18
+  - title: "CMC Networks starts direct access to Microsoft Azure peering service"
+    excerpt: "Global telecom carrier CMC Networks said it now provides direct access to the Microsoft Azure Peering Service, further increasing access to its range of cloud services. Clients will be able to benefit from a low latency and SLA-backed,"
+    publishedDateTime: 2020-11-26T14:22:00Z
+    webUrl: "https://www.telecompaper.com/news/cmc-networks-starts-direct-access-to-microsoft-azure-peering-service--1363427"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 17
 
 secured: "v42f+9w7yQvHaub/eee8SfNWl+N7P3d3wUNfLXnLd4Dxw+dnJ76qkSCKaCPykLuY4Yk09PsqR0KygHYlZLF2dV9Xpk+Bp60YZv9+vzwMoXSSo35Dy0p6h07TXG5FN8bk5CWBzUzDUFe3FKAZsNwas4ZpIGwZy7shmJQoEu+zpCbXoJ8aVLpjrC931Ih6eMlFcSgGKKHTxs7jeeKysbyc4LheZNlWF5Z4o0pMSST7CP3M7/vLmlvsUAGqMsObCbOlks4qX8UM/yoZaTHKZegd4ooQD//vdhPjJVa0WZjH5jc29h4Ywj3DDC4fLI0y1aksWNZbEWuM/f7HNyxXcpfowA4/xTSd9qZmdGeWH6WrZnE=;HkKwoIQF7X8Hdf7r51t2Lg=="
 ---

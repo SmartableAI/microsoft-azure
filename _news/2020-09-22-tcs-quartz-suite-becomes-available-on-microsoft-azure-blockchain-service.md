@@ -1091,6 +1091,20 @@ related:
         width: 502
         height: 355
         isCached: true
+  - title: "AMS-IX welcomes Microsoft Azure Peering to its cloud portfolio"
+    excerpt: "IX has added Microsoft Azure Peering Service to its Cloud portfolio. This means enterprises and other organisations connected to AMS-IX are set to benefit from “high-quality connectivity” to Microsoft cloud services,"
+    publishedDateTime: 2020-11-26T14:36:00Z
+    webUrl: "https://www.capacitymedia.com/articles/3827061/ams-ix-welcomes-microsoft-azure-peering-to-its-cloud-portfolio"
+    type: article
+    provider:
+      name: Capacity Media
+      domain: capacitymedia.com
+    quality: 37
+    images:
+      - url: "https://www.capacitymedia.com/Image/ServeImage?id=50143&w=780&h=442&cr=true"
+        width: 780
+        height: 442
+        isCached: true
   - title: "Microsoft Innovates Its Azure Multi-Cloud, Multi-Edge Hybrid Capabilities"
     excerpt: "During the recent Ignite virtual conference, Microsoft announced several updates for their Azure multi-cloud and edge hybrid offerings. These updates span from security innovations to new edge capabilities."
     publishedDateTime: 2020-10-04T14:09:00Z

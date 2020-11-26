@@ -36,6 +36,20 @@ related:
         width: 1024
         height: 512
         isCached: true
+  - title: "Microsoft’s Most Sustainable Azure Region Datacenter to Open in Sweden in 2021"
+    excerpt: "A year after confirming Sweden will get a sustainable Azure Datacenter, Microsoft says the location will open in 2021."
+    publishedDateTime: 2020-11-26T13:48:00Z
+    webUrl: "https://winbuzzer.com/2020/11/25/microsoft-most-sustainable-azure-region-datacenter-to-open-in-sweden-in-2021-xcxwbn/"
+    type: article
+    provider:
+      name: winbuzzer.com
+      domain: winbuzzer.com
+    quality: 33
+    images:
+      - url: "https://winbuzzer.com/wp-content/uploads/2020/09/Satelitte-Cloud-Pixabay.jpg"
+        width: 960
+        height: 638
+        isCached: true
 
 secured: "rcpPkET2twAZdBrcZwKRPrh253MlzporlBOnH+mwdrLwlTHndaXFPd7jESiZzZGJbV55kbwdr+ffInzL4esRVns2ErAC1zsMvgkYdV9QEO6BFw0kHPoz4BNkVyWbqhYvJMLb3Wr/S8w+Hyz/+BcUKsyCVHk5MniUkJV4GvytEAA2BwmRzBnFn2afXC1KkD8C5Raij1/J59skbc6wbfPmFNR8VTEmdB7BDtCurQTil5pNIpScqcBh6R3G86mZsFOdptbkfWJgyDyFBALDOYty0PjgYKHF4AZfO8YeLg1+LPKUgDSf8somWx5guVpEz23YY4CwWWF9ant7+BQOFie9kZwQmS09CFHZFnLjlTFqXsc=;q3xDxnMc6UfYe0ptPtJ/nw=="
 ---
