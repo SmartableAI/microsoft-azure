@@ -4,206 +4,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_learning/collections/microsoft-learn-build-ai-solutions-with-azure-machine-learning.md",
-      "title": "Build AI solutions with Azure Machine Learning",
-      "excerpt": "Azure Machine Learning is a cloud platform for training, deploying, managing, and monitoring machine learning models. Learn how to use the Azure Machine Learning Python SDK to create enterprise-ready machine learning solutions.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-build-ai-solutions-with-azure-machine-learning/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-build-ai-solutions-with-azure-machine-learning/",
-      "length": "PT9H13M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "topItems": [
-        {
-          "path": "_learning/courses/microsoft-learn-intro-to-azure-machine-learning-service.md",
-          "title": "Introduction to the Azure Machine Learning SDK",
-          "excerpt": "Azure Machine Learning provides a cloud-based platform for training, deploying, and managing machine learning models.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-to-azure-machine-learning-service/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-machine-learning-service/",
-          "length": "PT40M",
-          "ratings": {
-            "count": 2304,
-            "average": 4.6158853
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 52,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/intro-to-azure-machine-learning-service-badge-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "AI",
-            "Developer tools"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-train-local-model-with-azure-mls.md",
-          "title": "Train a machine learning model with Azure Machine Learning",
-          "excerpt": "Learn how to use Azure Machine Learning to train a model and register it in a workspace.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-train-local-model-with-azure-mls/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/train-local-model-with-azure-mls/",
-          "length": "PT40M",
-          "ratings": {
-            "count": 1525,
-            "average": 4.5940986
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 51,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/train-local-model-with-azure-mls-badge-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "AI"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-work-with-data-in-aml.md",
-          "title": "Work with Data in Azure Machine Learning",
-          "excerpt": "Learn how to work with datastores and datasets in Azure Machine Learning.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-work-with-data-in-aml/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/work-with-data-in-aml/",
-          "length": "PT45M",
-          "ratings": {
-            "count": 702,
-            "average": 4.636752
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 53,
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "AI"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-use-compute-contexts-in-aml.md",
-          "title": "Work with Compute in Azure Machine Learning",
-          "excerpt": "Learn how to manage compute contexts for experiments in Azure Machine Learning.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-use-compute-contexts-in-aml/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/use-compute-contexts-in-aml/",
-          "length": "PT45M",
-          "ratings": {
-            "count": 617,
-            "average": 4.63047
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 52,
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "AI"
-          ]
-        }
-      ],
-      "size": 12,
-      "heat": 62,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/intro-to-azure-machine-learning-service-badge-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Management Tools",
-        "AI"
-      ]
-    },
-    {
       "path": "_learning/collections/microsoft-learn-build-applications-with-azure-devops.md",
       "title": "Build applications with Azure DevOps",
       "excerpt": "In this learning path, find out how to collaborate with others to continuously build, test, and verify your applications using Azure Pipelines and GitHub.",
@@ -763,8 +563,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/read-write-data-azure-databricks/",
           "length": "PT60M",
           "ratings": {
-            "count": 250,
-            "average": 4.54
+            "count": 251,
+            "average": 4.5418324
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -807,8 +607,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/work-dataframes-azure-databricks/",
           "length": "PT46M",
           "ratings": {
-            "count": 179,
-            "average": 4.659218
+            "count": 180,
+            "average": 4.661111
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -894,8 +694,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-wvd-intro/",
           "length": "PT28M",
           "ratings": {
-            "count": 1165,
-            "average": 4.7785406
+            "count": 1166,
+            "average": 4.777873
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1509,8 +1309,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-monitoring-strategy-on-azure/",
           "length": "PT57M",
           "ratings": {
-            "count": 1571,
-            "average": 4.593889
+            "count": 1572,
+            "average": 4.5941477
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1597,8 +1397,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-infrastructure-with-azure-monitor-logs/",
           "length": "PT36M",
           "ratings": {
-            "count": 5430,
-            "average": 4.73186
+            "count": 5431,
+            "average": 4.7319093
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1818,8 +1618,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/read-write-data-azure-databricks/",
           "length": "PT60M",
           "ratings": {
-            "count": 250,
-            "average": 4.54
+            "count": 251,
+            "average": 4.5418324
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1862,8 +1662,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/work-dataframes-azure-databricks/",
           "length": "PT46M",
           "ratings": {
-            "count": 179,
-            "average": 4.659218
+            "count": 180,
+            "average": 4.661111
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1949,8 +1749,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-cosmos-db-for-scale/",
           "length": "PT35M",
           "ratings": {
-            "count": 3945,
-            "average": 4.646388
+            "count": 3946,
+            "average": 4.645717
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2160,7 +1960,7 @@
             ]
           },
           "publishedDateTime": "2020-11-12T11:39:01-08:00",
-          "heat": 84,
+          "heat": 54,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/EC7n1Oo6D-o/maxresdefault.jpg",
@@ -2605,8 +2405,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-strategy-in-financial-services/",
           "length": "PT45M",
           "ratings": {
-            "count": 869,
-            "average": 4.734177
+            "count": 870,
+            "average": 4.734483
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3465,8 +3265,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-strategy-in-retail/",
           "length": "PT40M",
           "ratings": {
-            "count": 668,
-            "average": 4.776946
+            "count": 669,
+            "average": 4.7772794
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5281,6 +5081,215 @@
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/enterprise-scale-introduction-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
+      "path": "_learning/collections/microsoft-learn-foundations-of-data-science.md",
+      "title": "Foundations of data science",
+      "excerpt": "Learn python programming and data science together with UC Berkeley's data 8: foundations of data science course",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-foundations-of-data-science/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-foundations-of-data-science/",
+      "length": "PT12H53M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-learn-data-science-method.md",
+          "title": "Learn the data science method",
+          "excerpt": "Learn about the history and motivation behind data science",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-learn-data-science-method/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/learn-data-science-method/",
+          "length": "PT34M",
+          "ratings": {
+            "count": 383,
+            "average": 4.7284594
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 53,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/student-evangelism/learn-data-science-method-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-introduction-python-using-datascience-library.md",
+          "title": "Introduction to Python using the datascience library",
+          "excerpt": "Learn about Python expressions, functions, basic data types(numbers, strings), and comparisons",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-introduction-python-using-datascience-library/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-python-using-datascience-library/",
+          "length": "PT1H28M",
+          "ratings": {
+            "count": 217,
+            "average": 4.645161
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/student-evangelism/introduction-python-using-datascience-library-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-create-manipulate-tables-using-datascience-library.md",
+          "title": "Create and manipulate tables using the datascience library",
+          "excerpt": "Learn the basics of table manipulation in the datascience library",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-create-manipulate-tables-using-datascience-library/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-manipulate-tables-using-datascience-library/",
+          "length": "PT1H32M",
+          "ratings": {
+            "count": 106,
+            "average": 4.716981
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 51,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/student-evangelism/create-manipulate-tables-using-datascience-library-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-design-plot-graphs-python.md",
+          "title": "Design and plot graphs in Python",
+          "excerpt": "Learn",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-design-plot-graphs-python/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-plot-graphs-python/",
+          "length": "PT52M",
+          "ratings": {
+            "count": 93,
+            "average": 4.655914
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 51,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/student-evangelism/design-plot-graphs-python-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure"
+          ]
+        }
+      ],
+      "size": 12,
+      "heat": 61,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/student-evangelism/learn-data-science-method-social.png",
           "width": 640,
           "height": 320,
           "isCached": true

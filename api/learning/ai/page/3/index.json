@@ -126,8 +126,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-batch-inference-pipelines-with-azure-machine-learning/",
       "length": "PT44M",
       "ratings": {
-        "count": 225,
-        "average": 4.613333
+        "count": 226,
+        "average": 4.615044
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -477,8 +477,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/read-write-data-azure-databricks/",
       "length": "PT60M",
       "ratings": {
-        "count": 250,
-        "average": 4.54
+        "count": 251,
+        "average": 4.5418324
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -565,8 +565,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/register-and-deploy-model-with-amls/",
       "length": "PT40M",
       "ratings": {
-        "count": 984,
-        "average": 4.60061
+        "count": 985,
+        "average": 4.601015
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -644,6 +644,49 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-synthesize-text-input-speech.md",
+      "title": "Synthesize Text Input to Speech",
+      "excerpt": "Learn how to synthesize text to speech using the Speech-to-Text service.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-synthesize-text-input-speech/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/synthesize-text-input-speech/",
+      "length": "PT18M",
+      "ratings": {
+        "count": 266,
+        "average": 4.575188
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/synthesize-text-input-speech-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "AI"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-train-local-model-with-azure-mls.md",
       "title": "Train a machine learning model with Azure Machine Learning",
       "excerpt": "Learn how to use Azure Machine Learning to train a model and register it in a workspace.",
@@ -651,8 +694,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/train-local-model-with-azure-mls/",
       "length": "PT40M",
       "ratings": {
-        "count": 1525,
-        "average": 4.5940986
+        "count": 1526,
+        "average": 4.593709
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1753,8 +1796,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/investigate-container-for-use-cognitive-services/",
           "length": "PT46M",
           "ratings": {
-            "count": 8,
-            "average": 4.75
+            "count": 9,
+            "average": 4.7777777
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1797,8 +1840,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-cognitive-services/",
           "length": "PT37M",
           "ratings": {
-            "count": 15,
-            "average": 4.6
+            "count": 16,
+            "average": 4.625
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2055,49 +2098,6 @@
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/ai-strategy-in-education-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "AI"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-ai-strategy-in-financial-services.md",
-      "title": "Define an AI strategy to create business value in financial services",
-      "excerpt": "Explore the strategic components, use cases, and special factors of an AI strategy in financial services that creates business value, with INSEAD and Microsoft.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-ai-strategy-in-financial-services/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-strategy-in-financial-services/",
-      "length": "PT45M",
-      "ratings": {
-        "count": 869,
-        "average": 4.734177
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/ai-strategy-in-financial-services-social.png",
           "width": 800,
           "height": 400,
           "isCached": true

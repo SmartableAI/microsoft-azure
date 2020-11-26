@@ -4,42 +4,6 @@
   "page": 16,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-azure-spring-cloud-workshop.md",
-      "title": "Azure Spring Cloud workshop",
-      "excerpt": "In this workshop, you'll go through tasks to deploy Spring Boot microservices to Azure Spring Cloud (ASC).",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-azure-spring-cloud-workshop/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-spring-cloud-workshop/",
-      "length": "PT1H24M",
-      "ratings": {
-        "count": 235,
-        "average": 4.3276596
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 51,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Compute",
-        "Web"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-azure-sql-case-studies.md",
       "title": "Putting it all together with Azure SQL",
       "excerpt": "Putting it all together with Azure SQL",
@@ -262,8 +226,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-a-web-app-with-mean-on-a-linux-vm/",
       "length": "PT42M",
       "ratings": {
-        "count": 1941,
-        "average": 4.5595055
+        "count": 1942,
+        "average": 4.5597324
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -875,8 +839,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-cosmos-db-for-scale/",
       "length": "PT35M",
       "ratings": {
-        "count": 3945,
-        "average": 4.646388
+        "count": 3946,
+        "average": 4.645717
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1119,8 +1083,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-batch-inference-pipelines-with-azure-machine-learning/",
       "length": "PT44M",
       "ratings": {
-        "count": 225,
-        "average": 4.613333
+        "count": 226,
+        "average": 4.615044
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1240,6 +1204,49 @@
       "topics": [
         "Azure",
         "Analytics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-design-bot-conversation-flow.md",
+      "title": "Design a bot conversation flow",
+      "excerpt": "Learn the principles of good bot design and implement conversational flows, knowledge bots, and how to hand-off interactions to a human.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-design-bot-conversation-flow/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-bot-conversation-flow/",
+      "length": "PT32M",
+      "ratings": {
+        "count": 18,
+        "average": 4.888889
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
         "AI"
       ]
     }

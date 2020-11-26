@@ -4,48 +4,6 @@
   "page": 6,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-choose-azure-service-to-integrate-and-automate-business-processes.md",
-      "title": "Choose the best Azure service to automate your business processes",
-      "excerpt": "In this module, we'll discuss how to choose the appropriate Azure service to integrate and automate business processes.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-choose-azure-service-to-integrate-and-automate-business-processes/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-azure-service-to-integrate-and-automate-business-processes/",
-      "length": "PT44M",
-      "ratings": {
-        "count": 10960,
-        "average": 4.5781937
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 61,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/choose-azure-service-to-integrate-and-automate-business-processes-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
       "path": "_learning/collections/microsoft-learn-architect-api-integration-in-azure.md",
       "title": "Architect API integration in Azure",
       "excerpt": "Learn how to architect API integration in Azure, and provide secure, scalable API access for your applications.",
@@ -1191,8 +1149,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-strategy-in-financial-services/",
           "length": "PT45M",
           "ratings": {
-            "count": 869,
-            "average": 4.734177
+            "count": 870,
+            "average": 4.734483
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1362,8 +1320,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/plan-deploy-windows-server-iaas-virtual-machines/",
           "length": "PT52M",
           "ratings": {
-            "count": 11,
-            "average": 4.7272725
+            "count": 12,
+            "average": 4.6666665
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4238,8 +4196,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-azure-migrate-replicate-virtual-servers/",
           "length": "PT28M",
           "ratings": {
-            "count": 68,
-            "average": 4.7941175
+            "count": 69,
+            "average": 4.7971015
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4975,8 +4933,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/identify-faces-with-computer-vision/",
           "length": "PT53M",
           "ratings": {
-            "count": 1424,
-            "average": 4.651685
+            "count": 1425,
+            "average": 4.65193
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -6202,6 +6160,180 @@
       "price": "Free",
       "topics": [
         "Azure"
+      ]
+    },
+    {
+      "path": "_learning/collections/microsoft-learn-working-with-connected-field-service-for-dynamics-365-and-azure-iot.md",
+      "title": "Working with Connected Field Service for Dynamics 365 and Azure IoT",
+      "excerpt": "This learning path introduces you to connected Field Service and Azure IoT. Included in this learning path is identifying exceptions, register and manage devices, remotely monitor and service equipment, and using IoT central with connected Field Service.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-working-with-connected-field-service-for-dynamics-365-and-azure-iot/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-working-with-connected-field-service-for-dynamics-365-and-azure-iot/",
+      "length": "PT6H13M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-get-started-with-connected-field-service.md",
+          "title": "Get started with Connected Field Service for Dynamics 365 and Azure IoT",
+          "excerpt": "This module will focus on the initial deployment of the Connected Field Service add-on for Dynamics 365 for Field Service.  The module will walk you through the installation and an understanding of the components installed as part of the out of the box template application.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-get-started-with-connected-field-service/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-connected-field-service/",
+          "length": "PT1H6M",
+          "ratings": {
+            "count": 83,
+            "average": 4.7108436
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 50,
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "IoT"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-remotely-monitor-and-service-customer-equipment.md",
+          "title": "Remotely monitor and service equipment with Connected Field Service for Dynamics 365 and Azure IoT",
+          "excerpt": "Configure IoT devices to remotely monitor customer equipment.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-remotely-monitor-and-service-customer-equipment/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/remotely-monitor-and-service-customer-equipment/",
+          "length": "PT1H10M",
+          "ratings": {
+            "count": 75,
+            "average": 4.693333
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 50,
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "IoT"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-register-and-manage-customer-devices-with-connected-field-service.md",
+          "title": "Register and manage devices with Connected Field Service for Dynamics 365 and Azure IoT",
+          "excerpt": "Register and Manage Customer Devices with Connected Field Service.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-register-and-manage-customer-devices-with-connected-field-service/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/register-and-manage-customer-devices-with-connected-field-service/",
+          "length": "PT1H26M",
+          "ratings": {
+            "count": 56,
+            "average": 4.696429
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 50,
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "IoT"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-using-iot-central-with-connected-field-service.md",
+          "title": "Using IoT Central with Connected Field Service for Dynamics 365",
+          "excerpt": "This module will focus on using IoT Central with Connected Field Service add-on for Dynamics 365 for Field Service.  The module will walk you through building an IoT Central application and escalating the alerts into Dynamics 365.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-using-iot-central-with-connected-field-service/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/using-iot-central-with-connected-field-service/",
+          "length": "PT58M",
+          "ratings": {
+            "count": 55,
+            "average": 4.6545453
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 50,
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "IoT"
+          ]
+        }
+      ],
+      "size": 5,
+      "heat": 60,
+      "content": "\r\n",
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "IoT"
       ]
     }
   ],

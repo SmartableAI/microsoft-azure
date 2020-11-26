@@ -4,453 +4,6 @@
   "page": 5,
   "value": [
     {
-      "path": "_learning/collections/microsoft-learn-build-great-solutions-with-the-microsoft-azure-well-architected-framework.md",
-      "title": "Build great solutions with the Microsoft Azure Well-Architected Framework",
-      "excerpt": "Learn how to design and build secure, scalable, high-performing solutions in Azure using the pillars of the Microsoft Azure Well-Architected Framework.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-build-great-solutions-with-the-microsoft-azure-well-architected-framework/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-build-great-solutions-with-the-microsoft-azure-well-architected-framework/",
-      "length": "PT5H38M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "topItems": [
-        {
-          "path": "_learning/courses/microsoft-learn-azure-well-architected-introduction.md",
-          "title": "Introduction to the Microsoft Azure Well-Architected Framework",
-          "excerpt": "Learn how using key principles throughout your cloud architecture can help you design and build a solid architectural foundation that you can continuously improve.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-azure-well-architected-introduction/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-introduction/",
-          "length": "PT1H4M",
-          "ratings": {
-            "count": 1141,
-            "average": 4.738826
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 54,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/azure-well-architected-introduction-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-azure-well-architected-cost-optimization.md",
-          "title": "Microsoft Azure Well-Architected Framework - Cost optimization",
-          "excerpt": "Learn how to use the cost optimization pillar of the Microsoft Azure Well-Architected Framework to design a cloud-based architecture that is efficient, eliminates waste, and gives you full visibility into where your money is spent on cloud resources.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-azure-well-architected-cost-optimization/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-cost-optimization/",
-          "length": "PT51M",
-          "ratings": {
-            "count": 1113,
-            "average": 4.714286
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 51,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/azure-well-architected-cost-optimization-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Management Tools",
-            "DevOps"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-azure-well-architected-operational-excellence.md",
-          "title": "Microsoft Azure Well-Architected Framework - Operational excellence",
-          "excerpt": "Learn how to design an Azure architecture that uses modern practices and gives you full visibility into what's happening in your environment.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-azure-well-architected-operational-excellence/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-operational-excellence/",
-          "length": "PT54M",
-          "ratings": {
-            "count": 574,
-            "average": 4.7038326
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 51,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/azure-well-architected-operational-excellence-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-azure-well-architected-performance-efficiency.md",
-          "title": "Microsoft Azure Well-Architected Framework - Performance efficiency",
-          "excerpt": "Learn how to adjust your capacity based on workload and how to optimize network performance, storage, and database performance.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-azure-well-architected-performance-efficiency/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-performance-efficiency/",
-          "length": "PT48M",
-          "ratings": {
-            "count": 533,
-            "average": 4.701689
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 52,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/azure-well-architected-performance-efficiency-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Networking",
-            "Web",
-            "Compute",
-            "Databases",
-            "Serverless",
-            "Containers",
-            "DevOps",
-            "Management Tools"
-          ]
-        }
-      ],
-      "size": 6,
-      "heat": 62,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/azure-well-architected-introduction-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Storage",
-        "Databases",
-        "Management Tools",
-        "DevOps",
-        "Networking",
-        "Web",
-        "Identity",
-        "Compute",
-        "Migration"
-      ]
-    },
-    {
-      "path": "_learning/collections/microsoft-learn-data-engineering-with-azure-databricks.md",
-      "title": "Data engineering with Azure Databricks",
-      "excerpt": "Data engineering with Azure Databricks",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-data-engineering-with-azure-databricks/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-data-engineering-with-azure-databricks/",
-      "length": "PT10H32M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "topItems": [
-        {
-          "path": "_learning/courses/microsoft-learn-describe-azure-databricks.md",
-          "title": "Describe Azure Databricks",
-          "excerpt": "Describe Azure Databricks",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-describe-azure-databricks/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-azure-databricks/",
-          "length": "PT53M",
-          "ratings": {
-            "count": 498,
-            "average": 4.514056
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 53,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/describe-azure-databricks-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Analytics",
-            "AI"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-spark-architecture-fundamentals.md",
-          "title": "Spark architecture fundamentals",
-          "excerpt": "Spark architecture fundamentals",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-spark-architecture-fundamentals/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/spark-architecture-fundamentals/",
-          "length": "PT33M",
-          "ratings": {
-            "count": 379,
-            "average": 4.622691
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 52,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/spark-architecture-fundamentals-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Analytics",
-            "AI"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-read-write-data-azure-databricks.md",
-          "title": "Read and write data in Azure Databricks",
-          "excerpt": "Read and write data in Azure Databricks",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-read-write-data-azure-databricks/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/read-write-data-azure-databricks/",
-          "length": "PT60M",
-          "ratings": {
-            "count": 250,
-            "average": 4.54
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 51,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/read-write-data-azure-databricks-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Analytics",
-            "AI"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-work-dataframes-azure-databricks.md",
-          "title": "Work with DataFrames in Azure Databricks",
-          "excerpt": "Work with DataFrames in Azure Databricks",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-work-dataframes-azure-databricks/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/work-dataframes-azure-databricks/",
-          "length": "PT46M",
-          "ratings": {
-            "count": 179,
-            "average": 4.659218
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/work-dataframes-azure-databricks-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Analytics",
-            "AI"
-          ]
-        }
-      ],
-      "size": 15,
-      "heat": 62,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/describe-azure-databricks-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Analytics",
-        "AI"
-      ]
-    },
-    {
       "path": "_learning/collections/microsoft-learn-deliver-remote-desktops-and-apps-from-azure-with-windows-virtual-desktop.md",
       "title": "Deliver remote desktops and apps from Azure with Windows Virtual Desktop",
       "excerpt": "Windows Virtual Desktop on Microsoft Azure is a desktop and app virtualization service that runs on the cloud. Windows Virtual Desktop works across devices – including Windows, Mac, iOS, and Android – with full-featured apps that you can use to access remote desktops and apps.",
@@ -481,8 +34,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-wvd-intro/",
           "length": "PT28M",
           "ratings": {
-            "count": 1165,
-            "average": 4.7785406
+            "count": 1166,
+            "average": 4.777873
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1096,8 +649,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-monitoring-strategy-on-azure/",
           "length": "PT57M",
           "ratings": {
-            "count": 1571,
-            "average": 4.593889
+            "count": 1572,
+            "average": 4.5941477
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1184,8 +737,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-infrastructure-with-azure-monitor-logs/",
           "length": "PT36M",
           "ratings": {
-            "count": 5430,
-            "average": 4.73186
+            "count": 5431,
+            "average": 4.7319093
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1405,8 +958,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/read-write-data-azure-databricks/",
           "length": "PT60M",
           "ratings": {
-            "count": 250,
-            "average": 4.54
+            "count": 251,
+            "average": 4.5418324
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1449,8 +1002,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/work-dataframes-azure-databricks/",
           "length": "PT46M",
           "ratings": {
-            "count": 179,
-            "average": 4.659218
+            "count": 180,
+            "average": 4.661111
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1536,8 +1089,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-cosmos-db-for-scale/",
           "length": "PT35M",
           "ratings": {
-            "count": 3945,
-            "average": 4.646388
+            "count": 3946,
+            "average": 4.645717
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1750,8 +1303,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-core-data-concepts/",
       "length": "PT25M",
       "ratings": {
-        "count": 1516,
-        "average": 4.8436675
+        "count": 1517,
+        "average": 4.8437705
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1864,7 +1417,7 @@
             ]
           },
           "publishedDateTime": "2020-11-12T11:39:01-08:00",
-          "heat": 84,
+          "heat": 54,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/EC7n1Oo6D-o/maxresdefault.jpg",
@@ -2309,8 +1862,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-strategy-in-financial-services/",
           "length": "PT45M",
           "ratings": {
-            "count": 869,
-            "average": 4.734177
+            "count": 870,
+            "average": 4.734483
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3169,8 +2722,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-strategy-in-retail/",
           "length": "PT40M",
           "ratings": {
-            "count": 668,
-            "average": 4.776946
+            "count": 669,
+            "average": 4.7772794
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4998,6 +4551,215 @@
       ]
     },
     {
+      "path": "_learning/collections/microsoft-learn-foundations-of-data-science.md",
+      "title": "Foundations of data science",
+      "excerpt": "Learn python programming and data science together with UC Berkeley's data 8: foundations of data science course",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-foundations-of-data-science/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-foundations-of-data-science/",
+      "length": "PT12H53M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-learn-data-science-method.md",
+          "title": "Learn the data science method",
+          "excerpt": "Learn about the history and motivation behind data science",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-learn-data-science-method/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/learn-data-science-method/",
+          "length": "PT34M",
+          "ratings": {
+            "count": 383,
+            "average": 4.7284594
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 53,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/student-evangelism/learn-data-science-method-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-introduction-python-using-datascience-library.md",
+          "title": "Introduction to Python using the datascience library",
+          "excerpt": "Learn about Python expressions, functions, basic data types(numbers, strings), and comparisons",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-introduction-python-using-datascience-library/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-python-using-datascience-library/",
+          "length": "PT1H28M",
+          "ratings": {
+            "count": 217,
+            "average": 4.645161
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/student-evangelism/introduction-python-using-datascience-library-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-create-manipulate-tables-using-datascience-library.md",
+          "title": "Create and manipulate tables using the datascience library",
+          "excerpt": "Learn the basics of table manipulation in the datascience library",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-create-manipulate-tables-using-datascience-library/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-manipulate-tables-using-datascience-library/",
+          "length": "PT1H32M",
+          "ratings": {
+            "count": 106,
+            "average": 4.716981
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 51,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/student-evangelism/create-manipulate-tables-using-datascience-library-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-design-plot-graphs-python.md",
+          "title": "Design and plot graphs in Python",
+          "excerpt": "Learn",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-design-plot-graphs-python/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-plot-graphs-python/",
+          "length": "PT52M",
+          "ratings": {
+            "count": 93,
+            "average": 4.655914
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 51,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/student-evangelism/design-plot-graphs-python-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure"
+          ]
+        }
+      ],
+      "size": 12,
+      "heat": 61,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/student-evangelism/learn-data-science-method-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
       "path": "_learning/collections/microsoft-learn-learn-the-business-value-of-microsoft-azure.md",
       "title": "Learn the business value of Microsoft Azure",
       "excerpt": "Are you interested in learning about the cloud in an easy to understand way? Or perhaps you are confused about where to begin with cloud technology? This learning path introduces you to digital transformation, what Azure is, and all the different ways it can meet your business needs.",
@@ -5639,8 +5401,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/characterize-devops-continous-collaboration-improvement/",
       "length": "PT17M",
       "ratings": {
-        "count": 1172,
-        "average": 4.6851535
+        "count": 1175,
+        "average": 4.6859574
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -5664,6 +5426,48 @@
       "topics": [
         "Azure",
         "DevOps"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-choose-azure-service-to-integrate-and-automate-business-processes.md",
+      "title": "Choose the best Azure service to automate your business processes",
+      "excerpt": "In this module, we'll discuss how to choose the appropriate Azure service to integrate and automate business processes.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-choose-azure-service-to-integrate-and-automate-business-processes/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-azure-service-to-integrate-and-automate-business-processes/",
+      "length": "PT44M",
+      "ratings": {
+        "count": 10961,
+        "average": 4.577867
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 61,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/choose-azure-service-to-integrate-and-automate-business-processes-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
       ]
     }
   ],
