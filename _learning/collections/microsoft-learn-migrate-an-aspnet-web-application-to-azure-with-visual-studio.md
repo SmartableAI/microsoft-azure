@@ -4,7 +4,7 @@ excerpt: "Migrate an ASP.NET web application to Azure with Visual Studio"
 type: collection
 price: Free
 length: PT1H17M
-heat: 52
+heat: 50
 
 provider:
   name: Microsoft Learn
