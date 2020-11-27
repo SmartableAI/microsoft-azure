@@ -100,17 +100,17 @@ related:
         isCached: true
   - title: "AppDynamics Featured as an Application Performance Monitoring Partner in the Microsoft Cloud Adoption Framework for Azure"
     excerpt: "AppDynamics, a part of Cisco and the world’s #1 APM solution and full-stack, business-centric observability platform, today announced its listing on Microsoft’s Cloud Adoption Framework (CAF) for Azure customers."
-    publishedDateTime: 2020-11-20T17:43:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-products-and-services-lung-disease-ef8f6ef9ccc84b9fbffef39c53634b8e"
+    publishedDateTime: 2020-11-20T20:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20201120005191/en/AppDynamics-Featured-as-an-Application-Performance-Monitoring-Partner-in-the-Microsoft-Cloud-Adoption-Framework-for-Azure"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
+      name: Business Wire
+      domain: businesswire.com
     quality: 12
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://mms.businesswire.com/media/20201120005191/en/840774/23/AppD_Cisco_LOGO_DEEPSPACE_%281%29.jpg"
+        width: 1200
+        height: 627
         isCached: true
 
 secured: "hZ2MlHTyd/67WjJDhGdH0mEX883QQvlX3LT6U62ie7OLElqHyzmuJJ0IopjMzX2qJ6U1CCUIyig3zF3L4iKixv+EzRqUeuiQFWD6O5HyDTYQ6wAc8LTTYzNBmLB4Y+VqzcXNxJkc7CuaKW35AHcxFcTqAPwTweHBKZFjhm6+T3Z6YP6vtweikEkHvVm8fXPxW3p4AYaSQ8Wf9SlYUikvltn8A1cRvcVBqupy52KJU6ZkWv4TxMH8Vq4dZKgjgt1nmU1hJ/cFEMwkpxUOMAIpiVP9vdOqgx+DLlM435pQG0Hr+3DU8+jthYTrpCcUGkVegdOQs+1TrWtSHsYUfE0Hd/oI4rEeTLEDG7Pdg040A8s=;WX3mS4pog7F9y8spHGPt2Q=="
