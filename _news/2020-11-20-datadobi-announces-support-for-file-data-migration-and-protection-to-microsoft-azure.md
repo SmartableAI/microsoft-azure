@@ -72,8 +72,8 @@ related:
         isCached: true
   - title: "Azure Databricks Achieves FedRAMP High Authorization on Microsoft Azure Government (MAG)"
     excerpt: "Databricks, the Data and AI Company, today announced that Microsoft Azure Databricks has received a Federal Risk and Authorization"
-    publishedDateTime: 2020-11-25T17:15:00Z
-    webUrl: "https://www.prnewswire.com/in/news-releases/azure-databricks-achieves-fedramp-high-authorization-on-microsoft-azure-government-mag--871630832.html"
+    publishedDateTime: 2020-11-25T16:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/azure-databricks-achieves-fedramp-high-authorization-on-microsoft-azure-government-mag-301180081.html"
     type: article
     provider:
       name: PR Newswire
