@@ -118,7 +118,7 @@ related:
   - title: "Canadian company launches conversational AI for interfacing with databases on Microsoft Azure"
     excerpt: "Microsoft Azure customers can use AutoQL to streamline access to data for everyone from executives to analysts and front-line workers"
     publishedDateTime: 2020-11-24T17:22:00Z
-    webUrl: "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=144056"
+    webUrl: "https://www.kmworld.com/Articles/News/News/Canadian-company-launches-conversational-AI-for-interfacing-with-databases-on-Microsoft-Azure-144056.aspx"
     type: article
     provider:
       name: KMWorld Magazine
@@ -219,6 +219,6 @@ related:
       domain: pr.com
     quality: 17
 
-secured: "cPBKH+IXoLyRj8che6/WhfqMCDBEoXd50DmUu4D3noM64qZz7H6EKB5Lop+xwoDc2RmjO9mGNWssLLGbIhNw9XpLQjksbeNDhS+HSeUKB2MI6m7FuXGhLCsaCrYeFOKP0Ux37u909kg9y+wX2+YtlIyd+oQyAi3rqLPlzSH79BMo7DGkaLm4DaXMWznndfn7K526n50P1nKk4SLuE4LR/on0ny5qrHLFszDR7qTqRgd9kjFFb3cn38kSfZ1DFexNNyy67bYw/GGq/SRdKI59oyNPUhoYm3KJOZvpFACXlWvsGpGTJEMzcMYAwyvA2VarON335xaS0mh5pD743y8/kudLb3Yc/dW58DJtT+mbUS0=;t8hcakMgzRJIE111w5A72w=="
+secured: "BT1AMILSOocjbJHpRWQwDpRx3N2WU9UbsiZp9w0u7zAMZNb7XquqZDZLCD8olNHSJAQcCHPMnTipGlqAPe/sbIS2WswL/GQr+aBoAXVqiMZQ2+y1DwsvF59MexYjSRdksR59kMdV4Xyq/wEjcrdSoUkFLJFpyyKEc6u8JxbIZE0//9nq6jeN4eDQ6mSkyEU7nyY0O+Ic505r9DArIkeOIat1bUjCIncQser5rsgMftEmB2KxXrBDKo4FicY6+B3u5YF59EfQzxRbFNeRu+beicUcf/5S5vPWA7AKGyYLifoKJ4R9n2a1ROhbVfrMHqk5R/8BsUVG3uzVkZ2uis8cDGG4kgquNV/todKnLz0hg/k=;X7jT1Wb3byEdBbzU7RlMOg=="
 ---
 
