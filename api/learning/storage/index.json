@@ -4,15 +4,15 @@
   "page": 1,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-plan-deploy-windows-server-iaas-vms.md",
-      "title": "Plan and deploy Windows Server IaaS Virtual Machines",
-      "excerpt": "You'll be able to describe Azure compute and storage in relation to Azure VMs, and deploy Azure VMs by using the Azure portal, Azure CLI, or templates.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-plan-deploy-windows-server-iaas-vms/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/plan-deploy-windows-server-iaas-virtual-machines/",
-      "length": "PT52M",
+      "path": "_learning/courses/microsoft-learn-support-concurrency-blob-storage.md",
+      "title": "Support concurrency in Blob storage apps with ETags and blob leases",
+      "excerpt": "In this module you will learn how to implement application code to manage concurrency in blob storage.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-support-concurrency-blob-storage/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/support-concurrency-blob-storage/",
+      "length": "PT50M",
       "ratings": {
-        "count": 12,
-        "average": 4.6666665
+        "count": 58,
+        "average": 4.7413793
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -27,14 +27,14 @@
         ]
       },
       "levels": [
-        "Intermediate"
+        "Beginner"
       ],
       "heat": 130,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
+          "url": "https://docs.microsoft.com/learn/achievements/support-concurrency-blob-storage-social.png",
+          "width": 800,
+          "height": 400,
           "isCached": true
         }
       ],
@@ -43,9 +43,7 @@
       "price": "Free",
       "topics": [
         "Azure",
-        "Management Tools",
-        "Storage",
-        "Compute"
+        "Storage"
       ]
     },
     {
@@ -79,8 +77,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/",
           "length": "PT36M",
           "ratings": {
-            "count": 5664,
-            "average": 4.7810736
+            "count": 5672,
+            "average": 4.781382
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -167,8 +165,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-compute-fundamentals/",
           "length": "PT52M",
           "ratings": {
-            "count": 952,
-            "average": 4.752101
+            "count": 953,
+            "average": 4.752361
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -212,8 +210,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-storage-fundamentals/",
           "length": "PT27M",
           "ratings": {
-            "count": 743,
-            "average": 4.7510095
+            "count": 745,
+            "average": 4.746309
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -339,8 +337,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-an-azure-account/",
           "length": "PT39M",
           "ratings": {
-            "count": 137327,
-            "average": 4.699331
+            "count": 137331,
+            "average": 4.699332
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -502,8 +500,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-storage-fundamentals/",
       "length": "PT27M",
       "ratings": {
-        "count": 743,
-        "average": 4.7510095
+        "count": 745,
+        "average": 4.746309
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -603,8 +601,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-virtual-machines/",
           "length": "PT1H7M",
           "ratings": {
-            "count": 15660,
-            "average": 4.6918263
+            "count": 15661,
+            "average": 4.691846
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -782,8 +780,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-virtual-machines/",
           "length": "PT1H7M",
           "ratings": {
-            "count": 15660,
-            "average": 4.6918263
+            "count": 15661,
+            "average": 4.691846
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -962,8 +960,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-virtual-machines/",
           "length": "PT1H7M",
           "ratings": {
-            "count": 15660,
-            "average": 4.6918263
+            "count": 15661,
+            "average": 4.691846
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1273,8 +1271,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/connect-an-app-to-azure-storage/",
           "length": "PT1H15M",
           "ratings": {
-            "count": 5185,
-            "average": 4.6333656
+            "count": 5186,
+            "average": 4.633436
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1423,8 +1421,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/connect-an-app-to-azure-storage/",
           "length": "PT1H15M",
           "ratings": {
-            "count": 5185,
-            "average": 4.6333656
+            "count": 5186,
+            "average": 4.633436
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1459,8 +1457,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-azure-storage-account/",
           "length": "PT45M",
           "ratings": {
-            "count": 8108,
-            "average": 4.645782
+            "count": 8109,
+            "average": 4.645826
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1668,8 +1666,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-azure-storage-account/",
           "length": "PT45M",
           "ratings": {
-            "count": 8108,
-            "average": 4.645782
+            "count": 8109,
+            "average": 4.645826
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1835,8 +1833,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/execute-azure-function-with-triggers/",
           "length": "PT1H23M",
           "ratings": {
-            "count": 3690,
-            "average": 4.706775
+            "count": 3691,
+            "average": 4.7065835
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2079,8 +2077,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-azure-storage-account/",
           "length": "PT45M",
           "ratings": {
-            "count": 8108,
-            "average": 4.645782
+            "count": 8109,
+            "average": 4.645826
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2281,8 +2279,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-azure-storage-account/",
           "length": "PT45M",
           "ratings": {
-            "count": 8108,
-            "average": 4.645782
+            "count": 8109,
+            "average": 4.645826
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2728,7 +2726,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 52,
+          "heat": 51,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/monitor-performance-using-azure-monitor-for-vms-social.png",
@@ -2949,7 +2947,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 52,
+          "heat": 51,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/monitor-performance-using-azure-monitor-for-vms-social.png",
@@ -3918,7 +3916,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 130,
+          "heat": 50,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
@@ -4572,8 +4570,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/connect-an-app-to-azure-storage/",
       "length": "PT1H15M",
       "ratings": {
-        "count": 5185,
-        "average": 4.6333656
+        "count": 5186,
+        "average": 4.633436
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -4608,8 +4606,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-azure-storage-account/",
       "length": "PT45M",
       "ratings": {
-        "count": 8108,
-        "average": 4.645782
+        "count": 8109,
+        "average": 4.645826
       },
       "provider": {
         "name": "Microsoft Learn",
