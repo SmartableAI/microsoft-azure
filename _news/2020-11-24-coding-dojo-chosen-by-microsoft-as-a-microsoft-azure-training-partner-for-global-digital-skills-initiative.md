@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Coding Dojo Chosen by Microsoft as a Microsoft Azure Training Partner for Global Digital Skills Initiative"
-excerpt: "Coding Dojo, a leading technology education company, announces today it is working with Microsoft to proliferate Microsoft Azure"
-publishedDateTime: 2020-11-24T13:00:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/coding-dojo-chosen-by-microsoft-as-a-microsoft-azure-training-partner-for-global-digital-skills-initiative-301179437.html"
-webUrl: "https://www.prnewswire.com/news-releases/coding-dojo-chosen-by-microsoft-as-a-microsoft-azure-training-partner-for-global-digital-skills-initiative-301179437.html"
+excerpt: "announces today it is working with Microsoft to proliferate Microsoft Azure certifications in the workforce. The collaboration will increase the amount of job-ready Azure developers by integrating ..."
+publishedDateTime: 2020-11-24T14:23:00Z
+originalUrl: "https://www.goskagit.com/news/state/coding-dojo-chosen-by-microsoft-as-a-microsoft-azure-training-partner-for-global-digital-skills/article_f4e126e8-72d9-5938-b634-bfc62e48a52e.html"
+webUrl: "https://www.goskagit.com/news/state/coding-dojo-chosen-by-microsoft-as-a-microsoft-azure-training-partner-for-global-digital-skills/article_f4e126e8-72d9-5938-b634-bfc62e48a52e.html"
 type: article
 quality: 19
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Skagit Valley Herald
+  domain: goskagit.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-    width: 600
-    height: 315
+  - url: "https://bloximages.chicago2.vip.townnews.com/goskagit.com/content/tncms/custom/image/e1586314-89a9-11e7-be8f-ef31f934c462.png"
+    width: 1024
+    height: 500
     isCached: true
 
 related:
@@ -219,6 +219,6 @@ related:
       domain: pr.com
     quality: 17
 
-secured: "1MkCSLFx7laiZ4jNigBea2ubBxPlMjY9TXdYzEphOBuD942otsCWvdvN/XZlQcAdgSbVRVzFCS9LBM76V6uXLygaOoe49VCI/A4JWy8DU/8T+vK+ZDScfDmwLPDo+Fu+ypcuSzGPLZQ7Dz9WFH2YvdyDYgYTe+rzQMrUJgBEH/MiMLGcTem2yI0VeJMegDZIqmIXDCph8e0C5ckoHCyTFs+VTfIwxuHXnTidfbdNRr9FSd2JMALUR/N97TwddnGfiXvRByQMDJ6dxK4imoiqfwPYSTONxnBIFznxkRj6jN0tWGimCoFgz+LIQAvBza3KLjr2ANuE34eLkmjOwJ00UbgYXnFHPhTBIPdTz4rw5oM=;xE8MRZKh99yOyMqm2D8DVw=="
+secured: "fhzppOkmBKmogShCoo9HJqaJiFKRTzlCR4eeHC8/2GU4DDHL3W1j1THyrBHGw5011yhBUf7qYpbc2HK2HjVyDNyB3TvY9JUxq36NenCeBH++1aN0DS8k2FSuyjVwu5yGMQJYG7K+CNkcUiclJH86rzR8Qsvpu7ICn13GXQLmD+yirWa7iRqXgVXj6TVds3RLPMv7BYNzQzIPwm6/8mA9ew9Xw4ry0i6Ww2+wUiCdmaEKUw+fNtbdf1rYIIAgZBvAnDf8J8goRAHNjo2pFMgvTo8HmnZK/7yo4V/hQ4d1rVg4sShOvuwinTwbDg6Ctw8II/eXfqd+m5LZRkldJ6s6vMCbA2B4+iU3+ChSWioqKfI=;AKXzF03+AY+KQGoa+bnlWg=="
 ---
 
