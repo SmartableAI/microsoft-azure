@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Quisitive Joins the Microsoft Cloud Native Accelerate Program"
-excerpt: "PRNewswire/ -- Quisitive Technology Solutions Inc. (“Quisitive” or the “Company”) (TSXV: QUIS), a premier Microsoft Solutions Provider, joins Microsoft’s latest Cloud Native Accelerate Program (“Program”),"
-publishedDateTime: 2020-11-23T14:00:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-software-industry-information-technology-cloud-computing-services-4b0902f11e9b6f6551f6718f21b70407"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-software-industry-information-technology-cloud-computing-services-4b0902f11e9b6f6551f6718f21b70407"
+excerpt: "PRNewswire/ -- Quisitive Technology Solutions Inc. (\"Quisitive\" or the \"Company\") (TSXV: QUIS), a premier Microsoft Solutions Provider, joins"
+publishedDateTime: 2020-11-23T12:52:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/quisitive-joins-the-microsoft-cloud-native-accelerate-program-301178891.html"
+webUrl: "https://www.prnewswire.com/news-releases/quisitive-joins-the-microsoft-cloud-native-accelerate-program-301178891.html"
 type: article
 quality: 22
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://mma.prnewswire.com/media/779354/Quisitive_Logo.jpg?p=facebook"
+    width: 797
+    height: 417
     isCached: true
 
 related:
@@ -103,6 +103,6 @@ related:
       domain: benzinga.com
     quality: 13
 
-secured: "5Cw9PKwBlTwIsmK6H+5ffpC6Q9hYL3hWb/ofLVSpkY0u1Zwk0VKA4qVmraUg6ZvQRu2ubUpWS/UagcrvfnSE+XW5XYg5sZmXWLHa1r95gMJn1Y7ScU+uWkEQ3hQQWl0P1PPdq+KrUFs9Ufy3E3wuQ/JZ3FSvVOV92D49lP66+QsXrcC31y+TkFPjaHQu9WPOXp0jcx04Z+HC79RON390LClyZ0tv1Em2oZQ3oxHQ0t//KlgpHtLClw3Maxc2xHADpaZs24Htrsi570OLJRP9ALyGAhrNlEzRyG5yMOjUNflHEzS+IcI3PxgcpI4jzWGC/LaZkvNmGwrtfg+8GMXVhS7X8yWWrB06b466fzFrBYw=;XpQTsIcwPshrXXmQzXEvLw=="
+secured: "rXpgGBpXjq0OB8PTjF/dZ+uRQbpGc+jDbgkBPttbBTtE3OK7dQgfLGjpjlU3PFqYLIwIW4eaRBFxxI0JminfPzY820k8qKR9m8qJL2IBiCpQ8DEaxQYEAB/D6NzzurqCGgRGvACcx2jQljNzWDf3blMscHqCZ6NmCmeqocmYj3mqkfphrpss/eRA/5wqiXxeOII6qYc7AYqzg/LwNImZhLoWDkOGMT0XYKVsJWuLTIzjqXVmt1QMthi+nQwjQqeeoYRkDyB/9JJgRG4QTM4WkuW6viOBm3WinyXVBuS9h5LJZSr2GbZIIJqh13N3FetGg1+2/8NPIqE3CtZ8ju+JJS3fEuHAx8u8rKuky1xydFA=;GE1FEuyHc/WP3FesX03mMg=="
 ---
 
