@@ -104,7 +104,7 @@ related:
   - title: "Canadian company launches conversational AI for interfacing with databases on Microsoft Azure"
     excerpt: "Microsoft Azure customers can use AutoQL to streamline access to data for everyone from executives to analysts and front-line workers"
     publishedDateTime: 2020-11-24T17:22:00Z
-    webUrl: "https://www.kmworld.com/Articles/News/News/Canadian-company-launches-conversational-AI-for-interfacing-with-databases-on-Microsoft-Azure-144056.aspx"
+    webUrl: "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=144056"
     type: article
     provider:
       name: KMWorld Magazine
@@ -169,18 +169,18 @@ related:
         height: 315
         isCached: true
   - title: "Coding Dojo Chosen by Microsoft as a Microsoft Azure Training Partner for Global Digital Skills Initiative"
-    excerpt: "announces today it is working with Microsoft to proliferate Microsoft Azure certifications in the workforce. The collaboration will increase the amount of job-ready Azure developers by integrating ..."
-    publishedDateTime: 2020-11-24T14:23:00Z
-    webUrl: "https://www.goskagit.com/news/state/coding-dojo-chosen-by-microsoft-as-a-microsoft-azure-training-partner-for-global-digital-skills/article_f4e126e8-72d9-5938-b634-bfc62e48a52e.html"
+    excerpt: "Coding Dojo, a leading technology education company, announces today it is working with Microsoft to proliferate Microsoft Azure"
+    publishedDateTime: 2020-11-24T13:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/coding-dojo-chosen-by-microsoft-as-a-microsoft-azure-training-partner-for-global-digital-skills-initiative-301179437.html"
     type: article
     provider:
-      name: Skagit Valley Herald
-      domain: goskagit.com
+      name: PR Newswire
+      domain: prnewswire.com
     quality: 19
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/goskagit.com/content/tncms/custom/image/e1586314-89a9-11e7-be8f-ef31f934c462.png"
-        width: 1024
-        height: 500
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
         isCached: true
   - title: "ANS migrates Fenwick IT systems to Microsoft Azure public cloud"
     excerpt: "UK digital and cloud services provider ANS Group has been selected by luxury department store Fenwick to migrate IT systems to the Microsoft Azure public"
