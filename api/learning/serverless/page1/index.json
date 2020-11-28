@@ -4,15 +4,15 @@
   "page": 1,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-serverless-fundamentals.md",
-      "title": "Choose the best Azure serverless technology for your compute scenario",
-      "excerpt": "Examine Azure's serverless technologies and choose the right service for your scenario.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-serverless-fundamentals/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/serverless-fundamentals/",
-      "length": "PT20M",
+      "path": "_learning/courses/microsoft-learn-develop-test-deploy-azure-functions-with-visual-studio.md",
+      "title": "Develop, test, and deploy an Azure Function with Visual Studio",
+      "excerpt": "Use Visual Studio together with a test framework to create, deploy, and test an Azure Function.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-develop-test-deploy-azure-functions-with-visual-studio/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/develop-test-deploy-azure-functions-with-visual-studio/",
+      "length": "PT43M",
       "ratings": {
-        "count": 391,
-        "average": 4.7851663
+        "count": 1977,
+        "average": 4.601416
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -29,12 +29,12 @@
       "levels": [
         "Beginner"
       ],
-      "heat": 150,
+      "heat": 134,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
+          "url": "https://docs.microsoft.com/learn/achievements/develop-test-deploy-azure-functions-with-visual-studio-social.png",
+          "width": 800,
+          "height": 400,
           "isCached": true
         }
       ],
@@ -45,9 +45,7 @@
         "Azure",
         "Compute",
         "Serverless",
-        "IoT",
-        "Blockchain",
-        "Integration"
+        "Developer tools"
       ]
     },
     {
@@ -81,8 +79,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/",
           "length": "PT36M",
           "ratings": {
-            "count": 5689,
-            "average": 4.781508
+            "count": 5703,
+            "average": 4.7815185
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -123,8 +121,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/fundamental-azure-concepts/",
           "length": "PT24M",
           "ratings": {
-            "count": 2767,
-            "average": 4.809541
+            "count": 2775,
+            "average": 4.809009
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -167,8 +165,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-architecture-fundamentals/",
           "length": "PT34M",
           "ratings": {
-            "count": 1509,
-            "average": 4.8204107
+            "count": 1514,
+            "average": 4.819683
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -231,8 +229,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/fundamental-azure-concepts/",
       "length": "PT24M",
       "ratings": {
-        "count": 2767,
-        "average": 4.809541
+        "count": 2775,
+        "average": 4.809009
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -298,8 +296,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/",
           "length": "PT36M",
           "ratings": {
-            "count": 5689,
-            "average": 4.781508
+            "count": 5703,
+            "average": 4.7815185
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -340,8 +338,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-machine-learning-fundamentals/",
           "length": "PT23M",
           "ratings": {
-            "count": 646,
-            "average": 4.7275543
+            "count": 647,
+            "average": 4.7279754
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -383,8 +381,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-devops-devtest-labs/",
           "length": "PT21M",
           "ratings": {
-            "count": 525,
-            "average": 4.714286
+            "count": 526,
+            "average": 4.712928
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -426,8 +424,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/monitoring-fundamentals/",
           "length": "PT22M",
           "ratings": {
-            "count": 477,
-            "average": 4.7274632
+            "count": 479,
+            "average": 4.7265134
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -563,6 +561,53 @@
         "Compute",
         "Web",
         "Containers",
+        "Serverless",
+        "IoT",
+        "Blockchain",
+        "Integration"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-serverless-fundamentals.md",
+      "title": "Choose the best Azure serverless technology for your compute scenario",
+      "excerpt": "Examine Azure's serverless technologies and choose the right service for your scenario.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-serverless-fundamentals/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/serverless-fundamentals/",
+      "length": "PT20M",
+      "ratings": {
+        "count": 393,
+        "average": 4.7837152
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 70,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Compute",
         "Serverless",
         "IoT",
         "Blockchain",
@@ -852,8 +897,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-serverless-logic-with-azure-functions/",
           "length": "PT36M",
           "ratings": {
-            "count": 7000,
-            "average": 4.657857
+            "count": 7001,
+            "average": 4.657906
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -926,8 +971,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/chain-azure-functions-data-using-bindings/",
           "length": "PT1H10M",
           "ratings": {
-            "count": 2950,
-            "average": 4.578983
+            "count": 2951,
+            "average": 4.579126
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1010,8 +1055,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-serverless-logic-with-azure-functions/",
           "length": "PT36M",
           "ratings": {
-            "count": 7000,
-            "average": 4.657857
+            "count": 7001,
+            "average": 4.657906
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1447,8 +1492,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-serverless-logic-with-azure-functions/",
       "length": "PT36M",
       "ratings": {
-        "count": 7000,
-        "average": 4.657857
+        "count": 7001,
+        "average": 4.657906
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1522,8 +1567,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/chain-azure-functions-data-using-bindings/",
       "length": "PT1H10M",
       "ratings": {
-        "count": 2950,
-        "average": 4.578983
+        "count": 2951,
+        "average": 4.579126
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1550,51 +1595,6 @@
         "Compute",
         "Serverless",
         "Storage"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-develop-test-deploy-azure-functions-with-visual-studio.md",
-      "title": "Develop, test, and deploy an Azure Function with Visual Studio",
-      "excerpt": "Use Visual Studio together with a test framework to create, deploy, and test an Azure Function.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-develop-test-deploy-azure-functions-with-visual-studio/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/develop-test-deploy-azure-functions-with-visual-studio/",
-      "length": "PT43M",
-      "ratings": {
-        "count": 1977,
-        "average": 4.601416
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 54,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/develop-test-deploy-azure-functions-with-visual-studio-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Compute",
-        "Serverless",
-        "Developer tools"
       ]
     },
     {
