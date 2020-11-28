@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/change-data-integration-
 webUrl: "https://azure.microsoft.com/en-us/updates/change-data-integration-in-azure-monitor-for-vms-is-now-in-public-preview/"
 type: article
 quality: 120
-heat: 421
+heat: 420
 published: true
 
 provider:

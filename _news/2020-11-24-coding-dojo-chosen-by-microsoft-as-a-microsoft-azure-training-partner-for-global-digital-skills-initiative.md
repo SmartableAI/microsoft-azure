@@ -157,6 +157,17 @@ related:
         width: 480
         height: 270
         isCached: true
+  - title: "2021 – The year to save costs and accelerate your business with Microsoft Azure"
+    excerpt: "When it comes to cloud services, Microsoft Azure is a market leader and a favourite among enterprises – and is available in South Africa through leading ICT solutions provider Axiz. As a ..."
+    publishedDateTime: 2020-11-17T05:17:00Z
+    webUrl: "https://businesstech.co.za/news/industry-news/448961/2021-the-year-to-save-costs-and-accelerate-your-business-with-microsoft-azure/"
+    ampWebUrl: "https://businesstech.co.za/news/industry-news/448961/2021-the-year-to-save-costs-and-accelerate-your-business-with-microsoft-azure/amp/"
+    cdnAmpWebUrl: "https://businesstech-co-za.cdn.ampproject.org/c/s/businesstech.co.za/news/industry-news/448961/2021-the-year-to-save-costs-and-accelerate-your-business-with-microsoft-azure/amp/"
+    type: article
+    provider:
+      name: businesstech.co.za
+      domain: businesstech.co.za
+    quality: 33
   - title: "Accela Migrates Over 200 Data Center Customers to Microsoft Azure to Accelerate Digital Transformation"
     excerpt: "PRNewswire/ -- Accela®, a leading provider of cloud-based solutions for government, today announced it successfully completed over 200 customer"
     publishedDateTime: 2020-11-12T10:00:00Z
@@ -208,6 +219,6 @@ related:
       domain: pr.com
     quality: 17
 
-secured: "yGczKhpXuOfM4Magv41e4OyKAEJQ+qHRpYJRh3G7oePG9wtaVXvxTwycp0RHq9I3kJ4XVGqlrVFmkhcr8T9SurCnuCsUAV286rmkTBgnJygzta5aOG0hNx0t4kfcw6nw6in2+cKNrfxS9Re3XW++n8xYnOJ/yz+1jbf7TJte1icJ9M61z0RzJiVS/UTZILXKtmurTBDu2+giaKNcmp8lzGLH5irRXtxrRL4s6Mp9NE4VZ8She/ezTA9ciwkvWxl4GRYSluvOtsT4+m+4exlsl8+QOcGAzhxoPWmE43AikSg7A/s6W8ubksk0rqt1UWuHOWoZZ9jhbF9rKWarBrvYV7288ROfHAsORBbiqdtaZxc=;7GadpRyrrb8h0Xd0ZsEIdg=="
+secured: "P7AnzhHb9EzzmdD8/CAslRLs6aQCj/PDVJueSAorAPR+HXGvQ1NRkJY67ZspKdCDQMI39Cz7cIA+djCH5d+fd9OhsIFe+XV92y0/hhSLI1vs4JaxgishHFjXazXAYYa80Xe7om2RwoYWbxVCzr6c3BQVMx8WdjzbIm9jX+N+W3OuqSXu+IBXQr8nhtGOOrUNR7Z/s/QwmWLC9M/NqiRnyQzM1oaHZnygtSg8oz4ieYu/hDXHOwR+dFMmnnGO4y1yBI+lLWESFkmxP8c8UKOFRG5fx/1nvgPCamRji+ThII+gaT3XPjhNRiXcrF/BOM2VsbCV/T13Pv4yi+bnRgOi6BZER5BTBHHMSvv1x91OMRg=;mLVNiye3SQtVKwdLMMO+Hw=="
 ---
 

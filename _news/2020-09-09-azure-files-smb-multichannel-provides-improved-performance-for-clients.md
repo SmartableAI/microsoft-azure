@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/azure-files-smb-multichannel-prov
 webUrl: "https://azure.microsoft.com/blog/azure-files-smb-multichannel-provides-improved-performance-for-clients/"
 type: article
 quality: 91
-heat: 112
+heat: 111
 published: true
 
 provider:
