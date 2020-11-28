@@ -2,25 +2,25 @@
 category: news
 title: "AppDynamics Featured as an Application Performance Monitoring Partner in the Microsoft Cloud Adoption Framework for Azure"
 excerpt: "AppDynamics, a part of Cisco and the world’s #1 APM solution and full-stack, business-centric observability platform, today announced its listing on Microsoft’s Cloud Adoption Framework (CAF) for Azure customers."
-publishedDateTime: 2020-11-20T20:00:00Z
-originalUrl: "https://www.businesswire.com/news/home/20201120005191/en/AppDynamics-Featured-as-an-Application-Performance-Monitoring-Partner-in-the-Microsoft-Cloud-Adoption-Framework-for-Azure"
-webUrl: "https://www.businesswire.com/news/home/20201120005191/en/AppDynamics-Featured-as-an-Application-Performance-Monitoring-Partner-in-the-Microsoft-Cloud-Adoption-Framework-for-Azure"
+publishedDateTime: 2020-11-20T17:43:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-products-and-services-lung-disease-ef8f6ef9ccc84b9fbffef39c53634b8e"
+webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-products-and-services-lung-disease-ef8f6ef9ccc84b9fbffef39c53634b8e"
 type: article
 quality: 12
 heat: -1
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://mms.businesswire.com/media/20201120005191/en/840774/23/AppD_Cisco_LOGO_DEEPSPACE_%281%29.jpg"
-    width: 1200
-    height: 627
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -112,6 +112,6 @@ related:
         height: 314
         isCached: true
 
-secured: "c2Rh5HBwEo1qtH3seqp7pjuNBBEyMTcnsPMj3Gbo7nGOJwZ7GVf+UaE9/4bZ28GYVJd+Xw7IIlmYOTeSYQRMoZ60Eb7lU4GJ76W7dTq79e1+Igbz5fQQeM/UQzCigJ4bhJ/Q9fenwwMZVYrEHz+umkImU3Q9L+p6a0lrPJOeuSJIfkqAAUXDlB9jtN1J6Z66lYKhq2zC4W9YC29tmh9AOaQ8adZkdDFSzDgJNApd6jG0igvfryCPPMU5ybLtfMh6p5ecUWjUO93Qv7/NmGPtX7uuymbLBzBbrSzLneuKdkllVgdnHEd/wcb5GfwOWZbs88Iuwwd7Q7kbPR7HvUJMORD3S2Dy6YR4+tDKLPMuxxU=;zzsk1YJUhNfO0hJYfvIMrA=="
+secured: "wBKtJRO1IeBlMtEvHKfvW2YrhJCisfcKJpZ7Cu3GrlsFGGYAZEw85Uyz9yU9W2ZydhnqMjkUNmv1d20kBDCJsWcvTA5NW0toZtiklypr7dqFIG3uclTCMxBfTozxkJopwFEc/vj0HBuhvPcnKNraQIELqrxBSGjzMFjEbXDKoBgzfQ0ep5sAXsbpMVuawrVHNNxBZQxzbPOmhCQD1bSwcOWLMxMqU/mKdpnea1EEYXOQHshIaRjY5bxbwbW22DNyphbu0rnMc9l6h9d1rPT5lgA9+Cr9gBTPscoa5Iq3SFwuSyav9bdz8YkZMafdagLy+/I3Mgdcv4Fi5u3bTkGni4BEhys2/pC4Ev5qLkO0QwU=;QngH98V4iWLM++zMdH6xCA=="
 ---
 
