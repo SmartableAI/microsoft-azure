@@ -16,7 +16,7 @@ affiliation:
 twitter:
   username: samjgeorge
   url: https://twitter.com/samjgeorge
-  followers: 2716
+  followers: 2717
 
 linkedin:
   url: https://www.linkedin.com/in/samjgeorge/
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Sam George"
 
-secured: "ULmo+urIeO45GWb+uHY0FRnZAaBdRbiHDZ2cK/f1s2apxxX/7/fqRuefrdRDg5EH7BGaT0N/V35UbHwiskkJ4uJnS2S901w8UrmdPWKf1+R6egeUND5h3CXuE4c03TRo7RUEDc0BHDA6CtsWOao6AWKtk1hgQZz/7EED2xIdnb7cocUGEwRpNN0xZe+zMKmqfHYXLT99x6QH03jkiR7YRPh/L0Prl7iJ+uFVSHIeYgxDoW3uQf17GmseNCAWcYpkhePrL1eKEhUESzRYH1t/KnrCjW9bWW083a2FD5uVhopzwt0WjAuHsdMBfpXq9KZVBnYFRbEgL1eWBuGRGsBqjMjyi4Dy1ioNvqQcvOgbBXFpcU6sXSknO+w2T9kwICFgTm289g4ZOo6RXp/e/w/Du3hDLYPYpvfEKvQhTQmRe9k=;JiLzkDAOxLFS/baTKXh2gA=="
+secured: "zKfBVSYwZQ2Fp88iKsM1ppktsn5f3Kcdv+KzxWgITSi33bj6m/k2g+vFiN56s/K620wIRhH9g2Vi1Bs/BHacUxqsNWRi5AmHqJ1PPlWZsh6BGzYxskSTyRLmKqk+oM4AHDfW99tgxErMhqzwj2xXu/LrpsghxcG9v2HrIc3pbVrClum7WQuWQIvU09OINzBL2XxOUJUSQkmMpLaF0ouK5Gsacw/fjTrCNiYx/GXUTPHlJP63/PABq7OBnkvwEpKpql3cFv0fDnwUqsu9VQRUrWSbW93sP+Nthn72sVEj0UB7mWSPCWoDy1x4v/+1FsTp9TP3lX5tKELV7KpIWU+JX7VrbqDdG6JA9FfVmnr4/DaQpApwXJh/GTWGtsMNsD4FbBlCO+6XrVzIImBJIZN2YW6tm2xVe7BYyj2hvs2yEDo=;r+YPERNZ3uCds8Evdd5eug=="
 ---
 
