@@ -1,22 +1,28 @@
 ---
 category: news
 title: "Red Box Delivers Cloud Configurable Voice Recording to Fuel AI on Microsoft Azure"
-excerpt: "It combines the power of Conversa audio processing in Microsoft Azure and Microsoft AI, with seamless support of both cloud and premise-based telephony aligned with frictionless zero touch ..."
-publishedDateTime: 2020-11-20T13:04:00Z
-originalUrl: "https://www.finanznachrichten.de/nachrichten-2020-11/51302890-red-box-delivers-cloud-configurable-voice-recording-to-fuel-ai-on-microsoft-azure-008.htm"
-webUrl: "https://www.finanznachrichten.de/nachrichten-2020-11/51302890-red-box-delivers-cloud-configurable-voice-recording-to-fuel-ai-on-microsoft-azure-008.htm"
+excerpt: "Red Box, a leading platform for voice, today announces an extension of its relationship with Microsoft aligned to the launch of Conversa, Red Box’s enterprise voice platform. Red Box is already a Preferred Telephony Partner for conversation intelligence,"
+publishedDateTime: 2020-11-20T12:04:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/rich-stevenson-6b9e759a8496156988d869774f8fefdd"
+webUrl: "https://apnews.com/press-release/pr-newswire/rich-stevenson-6b9e759a8496156988d869774f8fefdd"
 type: article
-quality: 29
+quality: 49
 heat: -1
 published: false
 
 provider:
-  name: Finanznachrichten
-  domain: finanznachrichten.de
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Azure
   - AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "Extending the power of Azure AI to Microsoft 365 users"
@@ -523,6 +529,6 @@ related:
       domain: telecompaper.com
     quality: 2
 
-secured: "n/NTuR1Gu0C2K5S/xNBcqlIzLzF6XqEGvXQ0ef0HNe9kZtXbRwzerYhMcUIiPqSonhR9BnH9R/nzC1Jr7CBmLBrnmApFuR6J+WqCCgQWfLL7gxMAZ3InjmoJrHfJCjxDFDVPK8LYmCMwxRfih8G1Ust5Yhsk1Kv+j7KrCXTOAf0YaDceJ1bEhZFM32CSnHOVJvjVJI3tmixQVOTdDVfiTZY2mtcrixETGWJtgXghjgqMbtsaJz1j7C/M9IwK8EeocDsfaNdVNRmb8Ej8LeCgurZ8rsuTr2QmDgH86RZ0gdyfmp+BHcZ9CIEw6p1al4v/hePmay4kunoYWEt2/5uOMxLDBUsmUDk1mBmP8KBZqSw=;+2sKZ8GFon+B3B5s9fRSkg=="
+secured: "46djE+0Mm790oebyTK5skWY6fcINepFhE0w4o5nv2hmyABbYe1basLVE1EhPKT64ykfUGsc2tcJwLteCML1qvPSDe08n/dXsS+bt8kJvZWfdGlOVr/ShWkzc9gHxMuk3piZVfsTQigQSe+RUKGqoFZYqEXIU4/VnLYjml3SHSpqWpEg2DwrajQxPxXz57GE33OlgxbJK+wPLJwccJXYvjCGwFy7D5yoZOzhw/ypZIRuKwaIbNgt3OwoEZeTLMUfypC3G261va+fNVnnbBuhQmOeJ8QibE89RXNrk8o4eavg3GfWkoTDPSuCqnHE2WNb6xptJDdKzUUGI7LvhReoNltQ31Pj7oXvDF8xEoMHtgEk=;ODqKwOhuIHEDrZcE4d7Fzw=="
 ---
 
