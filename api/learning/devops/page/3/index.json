@@ -4,6 +4,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-host-build-agent.md",
+      "title": "Host your own build agent in Azure Pipelines",
+      "excerpt": "Work with guidance from the Space Game web team to set up your build agent running on-premises or on an Azure virtual machine running in the cloud.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-host-build-agent/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/host-build-agent/",
+      "length": "PT59M",
+      "ratings": {
+        "count": 1795,
+        "average": 4.709749
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/azure-devops/host-your-own-build-server-in-your-build-pipeline-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "DevOps",
+        "Azure"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-implement-change-tracking-file-integrity-monitoring-for-windows-iaas-vms.md",
       "title": "Implement change tracking and file integrity monitoring for Windows IaaS VMs",
       "excerpt": "Implement change tracking and file integrity monitoring for Windows IaaS VMs",
@@ -46,51 +89,6 @@
         "Management Tools",
         "DevOps",
         "Compute"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-implement-ci-cd-azure-devops.md",
-      "title": "Implement CI/CD with Azure DevOps",
-      "excerpt": "Implement CI/CD with Azure DevOps",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-implement-ci-cd-azure-devops/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/implement-ci-cd-azure-devops/",
-      "length": "PT28M",
-      "ratings": {
-        "count": 77,
-        "average": 4.6883116
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/implement-ci-cd-azure-devops-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Analytics",
-        "AI",
-        "DevOps"
       ]
     },
     {
@@ -181,6 +179,50 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-manage-database-changes-in-azure-pipelines.md",
+      "title": "Manage database changes in Azure Pipelines",
+      "excerpt": "Use a release approval in Azure Pipelines to help coordinate database schema changes between developers and database administrators.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-manage-database-changes-in-azure-pipelines/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-database-changes-in-azure-pipelines/",
+      "length": "PT1H14M",
+      "ratings": {
+        "count": 641,
+        "average": 4.6427455
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/azure-devops/manage-database-changes-in-azure-pipelines-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "DevOps",
+        "Databases"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-manage-release-cadence.md",
       "title": "Manage release cadence in Azure Pipelines by using deployment patterns",
       "excerpt": "Choose and implement a deployment pattern that helps you smoothly roll out new application features to your users.",
@@ -220,6 +262,48 @@
       "price": "Free",
       "topics": [
         "Azure",
+        "DevOps"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-manage-site-reliability.md",
+      "title": "Manage site reliability",
+      "excerpt": "Learn how to manage site reliability.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-manage-site-reliability/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-site-reliability/",
+      "length": "PT35M",
+      "ratings": {
+        "count": 357,
+        "average": 4.67507
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/azure-devops/manage-site-reliability-social.png",
+          "width": 1000,
+          "height": 500,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
         "DevOps"
       ]
     },
@@ -483,58 +567,15 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-run-functional-tests-azure-pipelines.md",
-      "title": "Run functional tests in Azure Pipelines",
-      "excerpt": "Run Selenium UI tests, a form of functional testing, in Azure Pipelines.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-run-functional-tests-azure-pipelines/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/run-functional-tests-azure-pipelines/",
-      "length": "PT1H3M",
-      "ratings": {
-        "count": 696,
-        "average": 4.632184
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/azure-devops/run-functional-tests-azure-pipelines-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "DevOps"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-run-non-functional-tests-azure-pipelines.md",
-      "title": "Run nonfunctional tests in Azure Pipelines",
-      "excerpt": "Run automated load tests by using Apache JMeter, a form of nonfunctional testing, in Azure Pipelines.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-run-non-functional-tests-azure-pipelines/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/run-non-functional-tests-azure-pipelines/",
+      "path": "_learning/courses/microsoft-learn-recommend-system-feedback-mechanisms.md",
+      "title": "Recommend and design system feedback mechanisms",
+      "excerpt": "Learn how surveys and application analytics create a feedback loop that helps you understand the voice of the customer.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-recommend-system-feedback-mechanisms/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/recommend-system-feedback-mechanisms/",
       "length": "PT49M",
       "ratings": {
-        "count": 683,
-        "average": 4.692533
+        "count": 291,
+        "average": 4.6563573
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -554,9 +595,9 @@
       "heat": 50,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/azure-devops/run-non-functional-tests-azure-pipelines-social.png",
-          "width": 800,
-          "height": 400,
+          "url": "https://docs.microsoft.com/learn/achievements/azure-devops/recommend-system-feedback-mechanisms-social.png",
+          "width": 1000,
+          "height": 500,
           "isCached": true
         }
       ],
@@ -564,20 +605,19 @@
       "type": "course",
       "price": "Free",
       "topics": [
-        "Azure",
         "DevOps"
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-run-quality-tests-build-pipeline.md",
-      "title": "Run quality tests in your build pipeline by using Azure Pipelines",
-      "excerpt": "Find out about automated testing that proves your code to be maintainable, understandable, and functioning without repetitive manual testing.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-run-quality-tests-build-pipeline/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/run-quality-tests-build-pipeline/",
-      "length": "PT1H22M",
+      "path": "_learning/courses/microsoft-learn-route-system-feedback.md",
+      "title": "Route system feedback to development teams",
+      "excerpt": "Learn how continuous monitoring and dashboards give you insight into how customers use your software and where patterns of failure occur.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-route-system-feedback/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/route-system-feedback/",
+      "length": "PT22M",
       "ratings": {
-        "count": 3105,
-        "average": 4.7297907
+        "count": 356,
+        "average": 4.6207867
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -592,14 +632,14 @@
         ]
       },
       "levels": [
-        "Beginner"
+        "Intermediate"
       ],
       "heat": 50,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/azure-devops/run-quality-tests-when-your-application-builds-social.png",
-          "width": 800,
-          "height": 400,
+          "url": "https://docs.microsoft.com/learn/achievements/azure-devops/route-system-feedback-social.png",
+          "width": 1000,
+          "height": 500,
           "isCached": true
         }
       ],
@@ -607,8 +647,7 @@
       "type": "course",
       "price": "Free",
       "topics": [
-        "DevOps",
-        "Azure"
+        "DevOps"
       ]
     },
     {
@@ -655,16 +694,18 @@
       ]
     },
     {
-      "path": "_learning/videos/microsoft-azure-load-balancer-insights-using-azure-monitor-for-networks-azure-friday.md",
-      "title": "Azure Load Balancer insights using Azure Monitor for Networks | Azure Friday",
-      "excerpt": "Erich Robinson-Tillenburg joins Scott Hanselman to demo and explain health monitoring and configuration analysis for Azure Load Balancer using Azure Monitor for Networks, a central hub that provides access to health and connectivity monitoring for all your network resources.  0:00 – Overview 1:16 – Load",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-azure-load-balancer-insights-using-azure-monitor-for-networks-azure-friday/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-azure-load-balancer-insights-using-azure-monitor-for-networks-azure-friday/",
-      "originalUrl": "https://youtube.com/watch?v=qfzOTNKYTgU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/qfzOTNKYTgU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT15M15S",
+      "path": "_learning/courses/microsoft-learn-troubleshoot-inbound-network-connectivity-azure-load-balancer.md",
+      "title": "Troubleshoot inbound network connectivity for Azure Load Balancer",
+      "excerpt": "Learn how to troubleshoot inbound network connectivity for Azure Load Balancer.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-troubleshoot-inbound-network-connectivity-azure-load-balancer/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/troubleshoot-inbound-connectivity-azure-load-balancer/",
+      "length": "PT1H38M",
+      "ratings": {
+        "count": 410,
+        "average": 4.6634145
+      },
       "provider": {
-        "name": "Microsoft",
+        "name": "Microsoft Learn",
         "domain": "microsoft.com",
         "images": [
           {
@@ -675,62 +716,26 @@
           }
         ]
       },
-      "publishedDateTime": "2020-10-02T08:55:07-07:00",
+      "levels": [
+        "Beginner"
+      ],
       "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/qfzOTNKYTgU/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
+          "url": "https://docs.microsoft.com/learn/achievements/troubleshoot-inbound-connectivity-azure-load-balancer-social.png",
+          "width": 800,
+          "height": 400,
           "isCached": true
         }
       ],
       "content": "\r\n",
-      "type": "video",
+      "type": "course",
       "price": "Free",
       "topics": [
         "Azure",
-        "Networking",
-        "DevOps"
-      ]
-    },
-    {
-      "path": "_learning/videos/microsoft-azure-monitor-action-groups-azure-friday.md",
-      "title": "Azure Monitor action groups | Azure Friday",
-      "excerpt": "Azure Monitor action groups enable you to define a list of actions to execute when an alert is triggered. In this episode, we demonstrate how to configure a Service Health alert to use an action group. [00:50] Demo Start   Create and manage action groups in the Azure portal https://aka.ms/azfr/537/01",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-azure-monitor-action-groups-azure-friday/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-azure-monitor-action-groups-azure-friday/",
-      "originalUrl": "https://youtube.com/watch?v=FEUL0c08TEQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/FEUL0c08TEQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT9M",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2019-04-24T16:01:57-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/FEUL0c08TEQ/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "DevOps"
+        "DevOps",
+        "Management Tools",
+        "Networking"
       ]
     },
     {
@@ -1050,14 +1055,14 @@
       ]
     },
     {
-      "path": "_learning/videos/microsoft-how-to-query-azure-storage-logs-in-azure-monitor-log-analytics-azure-tips-and-tricks.md",
-      "title": "How to query Azure Storage logs in Azure Monitor Log Analytics | Azure Tips and Tricks",
-      "excerpt": "In this edition of Azure Tips and Tricks, learn how to upload and analyze Azure Storage logs with Azure Monitor Log Analytics.   For more tips and tricks, visit: http://azuredev.tips     Get started with 12 months of free services and $200 USD in credit. Create your free account today with Microsoft",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-how-to-query-azure-storage-logs-in-azure-monitor-log-analytics-azure-tips-and-tricks/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-how-to-query-azure-storage-logs-in-azure-monitor-log-analytics-azure-tips-and-tricks/",
-      "originalUrl": "https://youtube.com/watch?v=I9fx5bFMYjQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/I9fx5bFMYjQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT3M55S",
+      "path": "_learning/videos/microsoft-how-to-use-azure-monitor-application-insights-to-record-custom-events-azure-tips-and-tricks.md",
+      "title": "How to use Azure Monitor Application Insights to record custom events | Azure Tips and Tricks",
+      "excerpt": "In this edition of Azure Tips and Tricks, learn how to use Azure Monitor Application Insights to make your application logging smarter with Custom Event Tracking.   For more tips and tricks, visit: http://azuredev.tips     Get started with 12 months of free services and $200 USD in credit. Create your",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-how-to-use-azure-monitor-application-insights-to-record-custom-events-azure-tips-and-tricks/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-how-to-use-azure-monitor-application-insights-to-record-custom-events-azure-tips-and-tricks/",
+      "originalUrl": "https://youtube.com/watch?v=iTRILNstmFI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/iTRILNstmFI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3M56S",
       "provider": {
         "name": "Microsoft",
         "domain": "microsoft.com",
@@ -1070,11 +1075,11 @@
           }
         ]
       },
-      "publishedDateTime": "2019-06-25T08:26:43-07:00",
+      "publishedDateTime": "2019-03-19T08:12:44-07:00",
       "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/I9fx5bFMYjQ/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/iTRILNstmFI/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -1085,20 +1090,18 @@
       "price": "Free",
       "topics": [
         "Azure",
-        "Analytics",
-        "Storage",
         "DevOps"
       ]
     },
     {
-      "path": "_learning/videos/microsoft-how-to-use-prometheus-to-monitor-containers-in-azure-monitor-azure-friday.md",
-      "title": "How to use Prometheus to monitor containers in Azure Monitor | Azure Friday",
-      "excerpt": "Keiko Harada joins Scott Hanselman to show how to use Prometheus to monitor containers in Azure Monitor.  Prometheus is a popular open source metric monitoring solution and is a part of Cloud Native Compute Foundation.  Customers who like the extensive metrics which Prometheus provides on Kubernetes",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-how-to-use-prometheus-to-monitor-containers-in-azure-monitor-azure-friday/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-how-to-use-prometheus-to-monitor-containers-in-azure-monitor-azure-friday/",
-      "originalUrl": "https://youtube.com/watch?v=5ARJ6DzqTYE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/5ARJ6DzqTYE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT10M30S",
+      "path": "_learning/videos/microsoft-how-to-use-azure-monitor-workbooks-azure-portal-series.md",
+      "title": "How to use Azure Monitor workbooks | Azure Portal Series",
+      "excerpt": "In this video of the Azure Portal “How To” Series, Azure Program Managers Leon Welicki and Shikha Jain show us how workbooks provide a flexible canvas for data analysis and the creation of rich visual reports within the Azure portal. Learn how workbooks allow you to tap into multiple data sources from",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-how-to-use-azure-monitor-workbooks-azure-portal-series/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-how-to-use-azure-monitor-workbooks-azure-portal-series/",
+      "originalUrl": "https://youtube.com/watch?v=Z5xRyy3HB8U",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Z5xRyy3HB8U\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M45S",
       "provider": {
         "name": "Microsoft",
         "domain": "microsoft.com",
@@ -1111,11 +1114,11 @@
           }
         ]
       },
-      "publishedDateTime": "2019-11-14T15:31:28-08:00",
+      "publishedDateTime": "2020-03-11T08:05:44-07:00",
       "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/5ARJ6DzqTYE/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/Z5xRyy3HB8U/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -1126,7 +1129,7 @@
       "price": "Free",
       "topics": [
         "Azure",
-        "Containers",
+        "Management tools",
         "DevOps"
       ]
     },

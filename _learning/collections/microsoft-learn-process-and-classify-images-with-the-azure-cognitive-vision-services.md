@@ -4,7 +4,7 @@ excerpt: "Process and classify images with the Azure cognitive vision services"
 type: collection
 price: Free
 length: PT3H15M
-heat: 61
+heat: 60
 
 provider:
   name: Microsoft Learn

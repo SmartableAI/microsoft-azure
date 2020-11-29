@@ -4,280 +4,6 @@
   "page": 39,
   "value": [
     {
-      "path": "_learning/videos/microsoft-global-real-time-multi-user-apps-with-azure-cosmos-db-azure-friday.md",
-      "title": "Global real-time multi-user apps with Azure Cosmos DB | Azure Friday",
-      "excerpt": "Chris Anderson joins Donovan Brown to discuss how to use Azure Cosmos DB and other great Azure services to build a highly-scalable, real-time, collaborative application. You'll see techniques for using the Azure Cosmos DB change feed in both Azure Functions and SignalR applications. We also briefly touch",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-global-real-time-multi-user-apps-with-azure-cosmos-db-azure-friday/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-global-real-time-multi-user-apps-with-azure-cosmos-db-azure-friday/",
-      "originalUrl": "https://youtube.com/watch?v=PJfvezOtB5E",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/PJfvezOtB5E\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT18M27S",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2019-02-27T16:59:11-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/PJfvezOtB5E/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Databases"
-      ]
-    },
-    {
-      "path": "_learning/videos/microsoft-go-serverless-containers-with-kubernetes-and-virtual-nodes-azure-friday.md",
-      "title": "Go serverless: Containers with Kubernetes and virtual nodes | Azure Friday",
-      "excerpt": "Think serverless is just for functions? Think again! Brendan Burns joins Donovan Brown to look at how serverless containers can provide a cloud-native container experience without the worry of a server or operating system. They also look at how this integrates with the Azure Kubernetes Service (AKS).",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-go-serverless-containers-with-kubernetes-and-virtual-nodes-azure-friday/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-go-serverless-containers-with-kubernetes-and-virtual-nodes-azure-friday/",
-      "originalUrl": "https://youtube.com/watch?v=jGMaI7dKUgo",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/jGMaI7dKUgo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT8M40S",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-03-20T17:29:01-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/jGMaI7dKUgo/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Serverless",
-        "Containers"
-      ]
-    },
-    {
-      "path": "_learning/videos/microsoft-go-serverless-enterprise-integration-with-azure-logic-apps-azure-friday.md",
-      "title": "Go serverless: Enterprise integration with Azure Logic Apps | Azure Friday",
-      "excerpt": "Jeremy Likness joins Scott Hanselman to show how to build workflows and integrations from the cloud across third-party services and on-premises servers using Azure Logic Apps.  1:10 - Demo  Overview - What is Azure Logic Apps? https://aka.ms/azfr/621/01  Azure Logic Apps https://aka.ms/azfr/621/02  DEV50:",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-go-serverless-enterprise-integration-with-azure-logic-apps-azure-friday/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-go-serverless-enterprise-integration-with-azure-logic-apps-azure-friday/",
-      "originalUrl": "https://youtube.com/watch?v=2qwGl-f8gd4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/2qwGl-f8gd4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT12M59S",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-03-27T09:39:11-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/2qwGl-f8gd4/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Serverless",
-        "Integration"
-      ]
-    },
-    {
-      "path": "_learning/videos/microsoft-go-serverless-serverless-operations-with-azure-devops-azure-friday.md",
-      "title": "Go serverless: Serverless operations with Azure DevOps | Azure Friday",
-      "excerpt": "Abel Wang joins Donovan Brown to show how to use Azure Pipelines to build and deploy apps for Azure Functions, App Service and even Kubernetes Clusters.  0:45 - Demo  Build and deploy Java to Azure Functions https://aka.ms/azfr/624/01  Deploy a Docker container app to Azure Kubernetes Service https://aka.ms/azfr/624/02",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-go-serverless-serverless-operations-with-azure-devops-azure-friday/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-go-serverless-serverless-operations-with-azure-devops-azure-friday/",
-      "originalUrl": "https://youtube.com/watch?v=JhXNjxe3sPY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/JhXNjxe3sPY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT15M7S",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-03-30T18:26:20-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/JhXNjxe3sPY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Serverless",
-        "DevOps"
-      ]
-    },
-    {
-      "path": "_learning/videos/microsoft-hashicorp-vault-on-azure-azure-friday.md",
-      "title": "HashiCorp Vault on Azure | Azure Friday",
-      "excerpt": "Working with Microsoft, HashiCorp launched Vault with a number of features to make secret management easier to automate in Azure cloud. Yoko Hyakuna from HashiCorp joins Donovan Brown to show how Azure Key Vault can auto-unseal the HashiCorp Vault server, and then how HashiCorp Vault can dynamically",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-hashicorp-vault-on-azure-azure-friday/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-hashicorp-vault-on-azure-azure-friday/",
-      "originalUrl": "https://youtube.com/watch?v=RLWaWuHjUR4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/RLWaWuHjUR4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT13M28S",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2019-02-27T17:00:38-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/RLWaWuHjUR4/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_learning/videos/microsoft-hdinsight-fast-interactive-queries-with-hive-on-llap-azure-friday.md",
-      "title": "HDInsight: Fast Interactive Queries with Hive on LLAP | Azure Friday",
-      "excerpt": "Murali Krishnaprasad joins Lara Rubbelke to discuss Interactive Query (also called Hive LLAP, or Low Latency Analytical Processing, or Live Long and Process), which is an Azure HDInsight cluster type. Interactive Query supports in-memory caching, which makes Hive queries super-fast and interactive. See",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-hdinsight-fast-interactive-queries-with-hive-on-llap-azure-friday/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-hdinsight-fast-interactive-queries-with-hive-on-llap-azure-friday/",
-      "originalUrl": "https://youtube.com/watch?v=RbBuaiJ8qLM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/RbBuaiJ8qLM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT13M18S",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2018-08-14T14:01:57-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/RbBuaiJ8qLM/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Analytics"
-      ]
-    },
-    {
-      "path": "_learning/videos/microsoft-how-azure-app-configuration-helps-developers-roll-out-new-features-azure-friday.md",
-      "title": "How Azure App Configuration helps developers roll out new features | Azure Friday",
-      "excerpt": "Jimmy Campbell is back to show Scott Hanselman how to use App Configuration for feature management. Traditionally, shipping a new application feature requires a complete redeployment of the application itself, and testing a feature often requires multiple deployments of the application. Now you can use",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-how-azure-app-configuration-helps-developers-roll-out-new-features-azure-friday/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-how-azure-app-configuration-helps-developers-roll-out-new-features-azure-friday/",
-      "originalUrl": "https://youtube.com/watch?v=Bzm6BfDSpuk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Bzm6BfDSpuk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT20M45S",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-08-07T08:20:07-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Bzm6BfDSpuk/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
       "path": "_learning/videos/microsoft-how-can-i-deploy-a-resource-with-a-managed-identity-one-dev-question-arturo-lucatero.md",
       "title": "How can I deploy a resource with a managed identity? | One Dev Question: Arturo Lucatero",
       "excerpt": "In the One Dev Question series, Arturo Lucatero, a Senior Program Manager working on managed identities for Azure resources, explains how to deploy a resource that contains a managed identity.    For more information, visit: https://docs.microsoft.com/azure/active-directory/managed-identities-azure-resources/overview",
@@ -742,6 +468,44 @@
       ]
     },
     {
+      "path": "_learning/videos/microsoft-how-to-access-grub-on-ubuntu-azure-tips-and-tricks.md",
+      "title": "How to access GRUB on Ubuntu | Azure Tips and Tricks",
+      "excerpt": "In this edition of Azure Tips and Tricks, Alfred from the Azure Serial Console team will show you how to enable GRUB on your Ubuntu virtual machine. You will also learn how to use GRUB to enter single user mode.   For more tips and tricks, visit: http://azuredev.tips   Get started with 12 months of free",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-how-to-access-grub-on-ubuntu-azure-tips-and-tricks/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-how-to-access-grub-on-ubuntu-azure-tips-and-tricks/",
+      "originalUrl": "https://youtube.com/watch?v=kAAnneSMs2E",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/kAAnneSMs2E\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT2M31S",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2019-09-05T08:02:10-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/kAAnneSMs2E/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
       "path": "_learning/videos/microsoft-how-to-add-and-secure-a-custom-domain-on-your-app-service-web-app-azure-portal-series.md",
       "title": "How to add and secure a custom domain on your App Service web app | Azure Portal Series",
       "excerpt": "In this video, learn about Azure best practices on how to add a custom domain to your web app and how to secure your custom domain with an App Service Managed Certificate.   Try out these features in the Azure portal: https://portal.azure.com   Keep connected on Twitter: https://twitter.com/AzurePortal",
@@ -779,6 +543,45 @@
         "Azure",
         "Management tools",
         "Compute"
+      ]
+    },
+    {
+      "path": "_learning/videos/microsoft-how-to-add-azure-alerts-as-push-notifications-on-your-phone-azure-portal-series.md",
+      "title": "How to add Azure Alerts as push notifications on your phone | Azure Portal Series",
+      "excerpt": "The Azure mobile app allows you to receive Azure Alerts as push notifications on your mobile device. In this video of the Azure Portal “How To” Series, learn how you can setup Azure Alerts such as metric alerts, log analytics, Application Insights, and Activity Log from Azure Monitor on the Azure portal.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-how-to-add-azure-alerts-as-push-notifications-on-your-phone-azure-portal-series/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-how-to-add-azure-alerts-as-push-notifications-on-your-phone-azure-portal-series/",
+      "originalUrl": "https://youtube.com/watch?v=nqqVEISjSGE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/nqqVEISjSGE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT4M38S",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2019-03-28T12:08:38-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/nqqVEISjSGE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Management tools"
       ]
     },
     {
@@ -1053,6 +856,45 @@
       ]
     },
     {
+      "path": "_learning/videos/microsoft-how-to-build-and-deploy-your-first-app-with-azure-sdk-for-java-azure-tips-and-tricks.md",
+      "title": "How to build and deploy your first app with Azure SDK for Java | Azure Tips and Tricks",
+      "excerpt": "In this edition of Azure Tips and Tricks, learn how to easily create and run the Java application in Azure SDK.    For more tips and tricks, visit: http://azuredev.tips   Get started with 12 months of free services and $200 USD in credit. Create your free account today with Microsoft Azure: http://azure.com/free",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-how-to-build-and-deploy-your-first-app-with-azure-sdk-for-java-azure-tips-and-tricks/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-how-to-build-and-deploy-your-first-app-with-azure-sdk-for-java-azure-tips-and-tricks/",
+      "originalUrl": "https://youtube.com/watch?v=5tBRF46Qelc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/5tBRF46Qelc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3M54S",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2019-08-06T08:07:35-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/5tBRF46Qelc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Developer tools"
+      ]
+    },
+    {
       "path": "_learning/videos/microsoft-how-to-build-and-run-a-mean-based-application-in-azure-azure-tips-and-tricks.md",
       "title": "How to build and run a MEAN-based application in Azure | Azure Tips and Tricks",
       "excerpt": "In this edition of Azure Tips and Tricks, learn how to set up a MEAN-based web application on a new Azure Linux virtual machine.    For more tips and tricks, visit: http://azuredev.tips   Get started with 12 months of free services and $200 USD in credit. Create your free account today with Microsoft",
@@ -1166,6 +1008,163 @@
         "Azure",
         "Management tools",
         "Compute"
+      ]
+    },
+    {
+      "path": "_learning/videos/microsoft-how-to-clone-web-apps-using-azure-app-services-azure-tips-and-tricks.md",
+      "title": "How to clone web apps using Azure App Services | Azure Tips and Tricks",
+      "excerpt": "In this edition of Azure Tips and Tricks, you'll learn how to clone web apps using Azure App Services. If you have an existing application in Azure App Service that you want copied to another region, you can easily clone it by searching for \"clone\" instead of application instance.   For more tips and",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-how-to-clone-web-apps-using-azure-app-services-azure-tips-and-tricks/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-how-to-clone-web-apps-using-azure-app-services-azure-tips-and-tricks/",
+      "originalUrl": "https://youtube.com/watch?v=23kFf-GnJoc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/23kFf-GnJoc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1M20S",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2018-10-11T10:09:17-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/23kFf-GnJoc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Web"
+      ]
+    },
+    {
+      "path": "_learning/videos/microsoft-how-to-configure-a-backup-for-your-azure-app-service-azure-tips-and-tricks.md",
+      "title": "How to configure a backup for your Azure App Service | Azure Tips and Tricks",
+      "excerpt": "In this edition of Azure Tips and Tricks, you'll learn how to configure a backup for your Azure App Service and Database. Watch to learn how to download the backup, restore the backup, and override your existing application or select a new application as the target of your backup.   For more tips and",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-how-to-configure-a-backup-for-your-azure-app-service-azure-tips-and-tricks/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-how-to-configure-a-backup-for-your-azure-app-service-azure-tips-and-tricks/",
+      "originalUrl": "https://youtube.com/watch?v=uQXDkW1pCzs",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/uQXDkW1pCzs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1M20S",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2018-10-09T10:04:55-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/uQXDkW1pCzs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Compute"
+      ]
+    },
+    {
+      "path": "_learning/videos/microsoft-how-to-configure-a-new-virtual-machine-with-the-azure-portal-azure-portal-series.md",
+      "title": "How to configure a new virtual machine with the Azure Portal | Azure Portal Series",
+      "excerpt": "Microsoft Azure provides many virtual machine configuration options for any workload or application. In this video of the Azure Portal \"How To\" series, learn about some of the configuration options that are available when setting up a virtual machine in the Azure Portal.   Try out these features in the",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-how-to-configure-a-new-virtual-machine-with-the-azure-portal-azure-portal-series/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-how-to-configure-a-new-virtual-machine-with-the-azure-portal-azure-portal-series/",
+      "originalUrl": "https://youtube.com/watch?v=z5J5MQkbqvE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/z5J5MQkbqvE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT8M49S",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2019-02-20T08:12:50-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/z5J5MQkbqvE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Management tools",
+        "Compute"
+      ]
+    },
+    {
+      "path": "_learning/videos/microsoft-how-to-configure-advanced-threat-protection-in-azure-sql-database-azure-tips-and-tricks.md",
+      "title": "How to configure Advanced Threat Protection in Azure SQL Database | Azure Tips and Tricks",
+      "excerpt": "In this edition of Azure Tips and Tricks, you will learn how to configure Advanced Threat Protection in Azure SQL Database and how it protects your applications.    For more tips and tricks, visit: https://aka.ms/azuretipsandtricks   Get started with 12 months of free services and $200 USD in credit.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-how-to-configure-advanced-threat-protection-in-azure-sql-database-azure-tips-and-tricks/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-how-to-configure-advanced-threat-protection-in-azure-sql-database-azure-tips-and-tricks/",
+      "originalUrl": "https://youtube.com/watch?v=IODL8gwWJE4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/IODL8gwWJE4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1M59S",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-09-22T08:06:57-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/IODL8gwWJE4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Databases"
       ]
     }
   ],

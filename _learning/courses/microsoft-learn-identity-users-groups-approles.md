@@ -8,7 +8,7 @@ length: PT1H13M
 ratings:
   count: 93
   average: 4.72043
-heat: 50
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -25,6 +25,6 @@ topics:
   - Azure
   - Identity
 
-secured: "rskWIOQ1sNM50bbQ7Nrz77cIdYJj4J6V150DQ2dnIUNCe5Jgk1RqqQQwAPmwZiAFUrIyaMDq9Qn5VipPcqzcamnG/JmR5dD7hoDfZfuN3uwy0QRn2aOls9+OgDaZGZ5w33YIZdpUQ6TOSG+rXrjdr2oPWooYgmHUpC68X2+fD+o5cvJnwPAxlLfBk9gllXerwY/LPTyId/ZG5znUR5GK4sPMTm/Ht0eayOlc42tomDC6draY0u1B8dRRnm+xE4SU4YViRXTUdQgpjn5vBs6JhJkfRm6Y66riITw7xV7Q4LYJMDA0Q3iTxUoY8+GzCYkwm8o26AR58yYSfGJWely63vUJuKjQIZNOgq+5Z+R02Qyf9mCTtcYirmioCBe5mDr6FaiU+YXmKZ1QgOrum7XXT3j3g5dXRxJE1u6tFtDV3XI=;2GJh/StxKlkeh4WyqwK3Ow=="
+secured: "VCVvCh7SjDtKP7D/TKRiiRFB3V5u3JcCDcHZuwwYjIMHuDsE2J6oZrhjsXOmd/E4fZIZKAmcA/0mU+g9HrS+LW8lPqEh3AqjU5F63n3AJ3VgYWqP/6xD47rnaGTZskFk5D9K5wOig6S98rrozi8C5M/L47KwfNcw7nBGNz72svZ3CPci5INhYILdZlo2Pm9o6xaX8uakU3cB2IDSsFfWv9PtK9GpPX7SvQfUIZiYOVo+GTNBELzNGedqCj/QVqBHK30QF0SHXhs8gekKBkbo4QWz4BYGtptrPd9JSeOUrNPECmXP8HwjzsbBAPOUpUBWEVevSNuVufP9LYxxseWb1aueox1uZpMj1MDIU0GaM2pvsUopjyNIU25iQUNXKaD0ze0SSBibi7wnl8u7k7lJ8Eel7kHfIb/5e6ODyGD+f3Y=;1jOmoRYikayTZd8NzkUd2A=="
 ---
 

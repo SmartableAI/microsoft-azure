@@ -8,7 +8,7 @@ length: PT36M
 ratings:
   count: 7005
   average: 4.6579585
-heat: 55
+heat: 53
 
 provider:
   name: Microsoft Learn
@@ -27,6 +27,6 @@ topics:
   - Serverless
   - Management Tools
 
-secured: "cVdUwMQJYoWrlCbz44tLtQ0aIIqXRkaM5KMp2fBj/vAxzG9DjJiVQt5VC1KB2G3a3VYVlEdgoMNnImDwhetIdB5LZ9GO4mGBqQcdSVSeMApge6KTDMiZd2h3Z3i6MuYTEAve0MFArmsWvOyu85XWN2uXOKRWBW6rHseC3kV6k/vR0fs4cmHYNe/JdZuQ8xvFEylG3jmtb4tfS4081LckZOl1e7t8tQYpOnGLbUm5fosEvfJ3dxCNaFMqgK2GchUVXICArHsfeGolnZOnTJNqCRd0ewllvxLZ3h9wwaBsw0WBBZIUuMIcXjPWURo+HTRPVzJVnka9Pd9oY1pICLLMbwKZjFlVjOjBDTzpjdfCUb4cYiuIaudpOCIufVFXJ19V6H1ZDN3bJAbOq/fhGbya5nHWju7DKy0m8SUnFDZWXmY=;bh0gmt1n2XZDa4F3CulrVw=="
+secured: "+0uvJRO+fd0EaxC/mV86TEvboFx2g8C84eQ/G4uwtxoQUyLSdy0Y3FfYN5ZQ/wcbkP5XRWfXDsmox+jzfxemMXU/JDvTHd35jQLVkfDqdju8AQiPTq89/xtm8DShCHazDY1GHfZfGIzcb+j9qSKYj4svh523gaRTpUKhTLeX6N3czAbWByetvCcdEjOGs+rkj6n4i45o8/IvEDEizDItAXuVUQHKpa5zZjgUnsOXQlhP3w7BxSWumWRGuXM/O4fQldPAFzG2+Y4osvRB/OCOe4PIJj890yfbxarcRZpBaonnWFsXDdz40+eSCzSsxiAYV9f9TGQngFGxwXvkjDmCmorFu9dJyDTZPWfzF5rmt3YZ6criA3b4+wHyMrxqDeFnoTEjlZJXPKTM2Li36+L9FpVkkJBVqU/c3JONHKozK8Y=;sGsTfv4+ANjkcUSSGIPQnA=="
 ---
 
