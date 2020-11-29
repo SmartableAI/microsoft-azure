@@ -4,6 +4,55 @@
   "page": 13,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-azure-well-architected-reliability.md",
+      "title": "Microsoft Azure Well-Architected Framework - Reliability",
+      "excerpt": "Learn how to recover from infrastructure and service failure, loss of data, and disasters by incorporating reliability into your architecture.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-azure-well-architected-reliability/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-reliability/",
+      "length": "PT59M",
+      "ratings": {
+        "count": 617,
+        "average": 4.700162
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/azure-well-architected-reliability-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Storage",
+        "Databases",
+        "Management Tools",
+        "Migration",
+        "Networking",
+        "Compute",
+        "Web"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-build-azure-vm-templates.md",
       "title": "Build Azure Resource Manager templates",
       "excerpt": "Learn how Resource Manager templates express your deployments as code, enabling you to deploy faster and more reliably.",
@@ -219,8 +268,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/control-authentication-with-apim/",
       "length": "PT55M",
       "ratings": {
-        "count": 1720,
-        "average": 4.6447673
+        "count": 1721,
+        "average": 4.6449738
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -342,8 +391,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-custom-azure-roles-with-rbac/",
       "length": "PT30M",
       "ratings": {
-        "count": 2301,
-        "average": 4.710561
+        "count": 2302,
+        "average": 4.710252
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -384,8 +433,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-language-model-with-language-understanding/",
       "length": "PT39M",
       "ratings": {
-        "count": 371,
-        "average": 4.8436656
+        "count": 372,
+        "average": 4.844086
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -428,8 +477,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-linux-virtual-machine-in-azure/",
       "length": "PT1H26M",
       "ratings": {
-        "count": 8401,
-        "average": 4.6896796
+        "count": 8403,
+        "average": 4.689635
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -464,8 +513,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-multi-stage-pipeline/",
       "length": "PT1H13M",
       "ratings": {
-        "count": 874,
-        "average": 4.748284
+        "count": 875,
+        "average": 4.7485714
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -715,44 +764,6 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-design-a-geographically-distributed-application.md",
-      "title": "Design a geographically distributed application",
-      "excerpt": "Build an application that spans multiple geographic locations for high availability and resiliency.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-design-a-geographically-distributed-application/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-a-geographically-distributed-application/",
-      "length": "PT34M",
-      "ratings": {
-        "count": 625,
-        "average": 4.672
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Advanced"
-      ],
-      "heat": 51,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Networking",
-        "Web",
-        "Compute",
-        "Databases"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-design-a-hybrid-network-architecture.md",
       "title": "Design a hybrid network architecture on Azure",
       "excerpt": "You have a traditional on-premises infrastructure that you need to connect to resources in Azure. In this module, you learn how to select a connectivity method for your use cases that balances functionality, cost, and security.",
@@ -847,8 +858,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/distribute-data-globally-with-cosmos-db/",
       "length": "PT31M",
       "ratings": {
-        "count": 1629,
-        "average": 4.605893
+        "count": 1630,
+        "average": 4.606135
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -926,8 +937,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-non-relational-data-offerings-azure/",
       "length": "PT41M",
       "ratings": {
-        "count": 310,
-        "average": 4.8290324
+        "count": 311,
+        "average": 4.829582
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1010,8 +1021,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ha-application-storage-with-grs/",
       "length": "PT34M",
       "ratings": {
-        "count": 1370,
-        "average": 4.480292
+        "count": 1371,
+        "average": 4.480671
       },
       "provider": {
         "name": "Microsoft Learn",
