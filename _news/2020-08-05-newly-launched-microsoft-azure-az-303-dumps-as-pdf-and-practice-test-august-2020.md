@@ -58,11 +58,11 @@ related:
         height: 630
         isCached: true
   - title: "Microsoft Azure inherits new VPN features"
-    excerpt: "Microsoft Azure has announced that a host of new VPN features are now generally available to users of its VPN Gateway. The new additions will provide additional functionality for businesses that have been pushed into adopting remote working during the coronavirus pandemic."
-    publishedDateTime: 2020-11-24T14:10:00Z
-    webUrl: "https://www.techradar.com/news/microsoft-azure-inherits-new-vpn-features"
-    ampWebUrl: "https://www.techradar.com/amp/news/microsoft-azure-inherits-new-vpn-features"
-    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/microsoft-azure-inherits-new-vpn-features"
+    excerpt: "Microsoft Azure has announced that a host of new VPN features are now generally available to users of its VPN Gateway. The new additions will provide additional functionality for businesses that ..."
+    publishedDateTime: 2020-11-24T14:16:00Z
+    webUrl: "https://www.techradar.com/uk/news/microsoft-azure-inherits-new-vpn-features"
+    ampWebUrl: "https://www.techradar.com/uk/amp/news/microsoft-azure-inherits-new-vpn-features"
+    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/uk/amp/news/microsoft-azure-inherits-new-vpn-features"
     type: article
     provider:
       name: TechRadar

@@ -2,6 +2,109 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-09-24-run-your-core-applications-on-azure.md",
+      "title": "Run your core applications on Azure",
+      "excerpt": "This week at Microsoft Ignite, we discussed how a growing number of customers and independent software vendors (ISVs) are running their mission and business-critical applications on Azure.",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/blog/run-your-core-applications-on-azure/",
+      "originalUrl": "https://azure.microsoft.com/blog/run-your-core-applications-on-azure/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/70caf24a-0e34-48b0-9033-cf219905d9e9.png",
+          "width": 727,
+          "height": 329,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-24T01:00:25-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
+      "path": "_news/2020-09-24-microsoft-launches-azure-orbital-to-connect-satellites-to-its-cloud.md",
+      "title": "Microsoft launches Azure Orbital to connect satellites to its cloud",
+      "excerpt": "Ignite conference, Microsoft today announced the launch of Azure Orbital, a new service that is meant to give satellite operators a complete platform to communicate with their satellites and process data from them — including the ground stations to receive those signals.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/09/22/microsoft-launches-azure-orbital-to-connect-satellites-to-its-cloud/",
+      "originalUrl": "https://techcrunch.com/2020/09/22/microsoft-launches-azure-orbital-to-connect-satellites-to-its-cloud/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 2474,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/09/GettyImages-687795300.jpg?w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/09/22/microsoft-launches-azure-orbital-to-connect-satellites-to-its-cloud/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/09/22/microsoft-launches-azure-orbital-to-connect-satellites-to-its-cloud/amp/",
+      "publishedDateTime": "2020-09-23T22:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure",
+        "Networking"
+      ]
+    },
+    {
       "path": "_news/2020-09-22-accelerate-analytics-and-ai-workloads-with-photon-powered-delta-engine-on-azure-databricks.md",
       "title": "Accelerate analytics and AI workloads with Photon powered Delta Engine on Azure Databricks",
       "excerpt": "Photon powered Delta Engine is a 100% Apache Spark-compatible vectorized query engine designed to take advantage of modern CPU architecture for extremely fast parallel processing of data.",
@@ -1010,92 +1113,6 @@
       "topics": [
         "Azure",
         "Containers"
-      ]
-    },
-    {
-      "path": "_news/2020-09-22-build-powerful-and-responsible-ai-solutions-with-azure.md",
-      "title": "Build powerful and responsible AI solutions with Azure",
-      "excerpt": "As organizations assess safely reopening and continue navigating unexpected shifts in the world, getting insights to respond in an agile and conscientious manner is vital.",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/blog/build-powerful-and-responsible-ai-solutions-with-azure/",
-      "originalUrl": "https://azure.microsoft.com/blog/build-powerful-and-responsible-ai-solutions-with-azure/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-22T01:00:25-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-22-protect-multi-cloud-workloads-with-new-azure-security-innovations.md",
-      "title": "Protect multi-cloud workloads with new Azure security innovations",
-      "excerpt": "Today, we're pleased to announce a broad set of innovations to help you protect multi-cloud and Azure workloads.",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/blog/protect-multicloud-workloads-with-new-azure-security-innovations/",
-      "originalUrl": "https://azure.microsoft.com/blog/protect-multicloud-workloads-with-new-azure-security-innovations/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 144,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-22T01:00:04-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure",
-        "Security"
       ]
     }
   ],

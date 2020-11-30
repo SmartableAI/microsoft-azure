@@ -1,12 +1,12 @@
 ---
 category: news
 title: "Microsoft Azure inherits new VPN features"
-excerpt: "Microsoft Azure has announced that a host of new VPN features are now generally available to users of its VPN Gateway. The new additions will provide additional functionality for businesses that have been pushed into adopting remote working during the coronavirus pandemic."
-publishedDateTime: 2020-11-24T14:10:00Z
-originalUrl: "https://www.techradar.com/news/microsoft-azure-inherits-new-vpn-features"
-webUrl: "https://www.techradar.com/news/microsoft-azure-inherits-new-vpn-features"
-ampWebUrl: "https://www.techradar.com/amp/news/microsoft-azure-inherits-new-vpn-features"
-cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/microsoft-azure-inherits-new-vpn-features"
+excerpt: "Microsoft Azure has announced that a host of new VPN features are now generally available to users of its VPN Gateway. The new additions will provide additional functionality for businesses that ..."
+publishedDateTime: 2020-11-24T14:16:00Z
+originalUrl: "https://www.techradar.com/uk/news/microsoft-azure-inherits-new-vpn-features"
+webUrl: "https://www.techradar.com/uk/news/microsoft-azure-inherits-new-vpn-features"
+ampWebUrl: "https://www.techradar.com/uk/amp/news/microsoft-azure-inherits-new-vpn-features"
+cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/uk/amp/news/microsoft-azure-inherits-new-vpn-features"
 type: article
 quality: 97
 heat: -1
@@ -555,6 +555,6 @@ related:
       domain: bobsguide.com
     quality: 0
 
-secured: "IP+zu5vYhSfP9ygZvV7MJw5q0a5xT+mO7oksE0MhISMtS414Tw9fSAgIY96H4gSELIYq72FaQoOM7iFt/56o1niicbRg43Y8647775qPnGMl3FobOhYpm3FefDG2C3qiYImUS245z4EDydiz+3ACW7hWDuBrJROTC2SzACDvYy6HIaDuBmY9GxxgPlF+peuYoyh6bigU6HaXSbYcVhmw1SGyr2NjZpeqA7j9m0vuOd1wo3dRRmxI8b48X1pCBwCcgf7PxjUuJGr8A0aZW7a8PbOYHluueINb6p4GCj8YtU7YykQbErkuix6CJDO3XP0c+G7f1H6qcpXxtcbUH+ONgk6LaDqT4D8RZmrWSmX8mj82JiOrb1LJHhKPR6pkD9sa+qZSY1Xvd6gQGaVwSpUt5Iqzw68BfN2/0J+c3ltspvTtdyiU7vpgspPdeYyRSLu1Wyv4xX66G+yTIBVYDPLeFCF7KWiy9rW9z2212eKHAFy5FmMb5EouyXduSNIJTLsyTEbmmHWHNOJjUa/2Hrlu5w==;lC0SBRJB4tGQHfqLNT+AgQ=="
+secured: "VvKllF6XIxjDZ+IXuZ5phyZVwL7QfPcQdtwzV7d/vf/VvaiHDyOvhJ6VnV5XNm12DXWvIos+emYd1lSoXXc12Ct2aFM9414vcr6a1QGr4zPnudJ/kxtHFbRUg1e0HIw9SrXkoBdMuCOuAhb3ZB7PMSpQzxZgf8dEudO3iXrisk6URYbmMmqXDLE+YOCYu9jMH1Vcb4H2Z8WmyXDRecmjhNetaLQW+VPGFUR/fSsUEK8aZ1f1mI6l76KCBmg3BTTMkDXUPIVoQCUQcLaLdXTRZU5kqu5aqdp2RugKAvE+HcjwHW/FKOA7xWsNrm6S8Myqwy3zg3WGrIr4as6k7YZJU+F5Tj0Snsh6eYQPEs0RNUQ=;gCHvpd7DEZw1QmoQJuhYkg=="
 ---
 

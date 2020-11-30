@@ -69,20 +69,6 @@ related:
         width: 1200
         height: 627
         isCached: true
-  - title: "Datadobi Announces Support for File Data Migration and Protection to Microsoft Azure"
-    excerpt: "Datadobi, a global leader in unstructured data management software, has today announced support for file data migration to and protection on Microsoft Azure. Adding this new capability means enterprise customers have another option to migrate and protect their NAS file data to the cloud,"
-    publishedDateTime: 2020-11-19T17:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20201119005097/en/"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 47
-    images:
-      - url: "https://mms.businesswire.com/media/20201119005097/en/771234/23/datadobi-logo.jpg"
-        width: 1200
-        height: 627
-        isCached: true
   - title: "Innovaccer's Data Activation Platform Now on Microsoft Cloud for Healthcare"
     excerpt: "Innovaccer, Inc., a leading healthcare technology company, recently announced that it is supporting Microsoft Cloud for Healthcare with"
     publishedDateTime: 2020-10-13T17:17:00Z

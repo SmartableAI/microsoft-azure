@@ -1,26 +1,44 @@
 ---
 category: news
 title: "DLA Piper Launches New TOKO Security Tokenization Platform on Hedera Hashgraph, Hyperledger Fabric, and Microsoft Azure"
-excerpt: "Global law firm DLA Piper, in collaboration with Aldersgate DLS (Digital Ledger Solutions) has launched TOKO, a new security"
-publishedDateTime: 2020-11-24T14:23:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/20/11/n18510150/dla-piper-launches-new-toko-security-tokenization-platform-on-hedera-hashgraph-hyperledger-fabric-"
-webUrl: "https://www.benzinga.com/pressreleases/20/11/n18510150/dla-piper-launches-new-toko-security-tokenization-platform-on-hedera-hashgraph-hyperledger-fabric-"
-ampWebUrl: "https://amp.benzinga.com/amp/content/18510150"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18510150"
+excerpt: "The Fabric network will be deployed in the Microsoft Azure cloud environment, connecting to the Hedera public mainnet. \"Hyperledger Fabric is powering significant innovation in enterprise ..."
+publishedDateTime: 2020-11-24T14:21:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/dla-piper-launches-new-toko-security-tokenization-platform-on-hedera-hashgraph-hyperledger-fabric-and-microsoft-azure-1029834403"
+webUrl: "https://markets.businessinsider.com/news/stocks/dla-piper-launches-new-toko-security-tokenization-platform-on-hedera-hashgraph-hyperledger-fabric-and-microsoft-azure-1029834403"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/dla-piper-launches-new-toko-security-tokenization-platform-on-hedera-hashgraph-hyperledger-fabric-and-microsoft-azure-1029834403"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/dla-piper-launches-new-toko-security-tokenization-platform-on-hedera-hashgraph-hyperledger-fabric-and-microsoft-azure-1029834403"
 type: article
-quality: 30
-heat: 30
-published: false
+quality: 70
+heat: 110
+published: true
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
   - Security
 
 related:
+  - title: "Datadobi Announces Support for File Data Migration and Protection to Microsoft Azure"
+    excerpt: "Datadobi, a global leader in unstructured data management software, has today announced support for file data migration to and protection on Microsoft Azure. Adding this new capability means enterprise customers have another option to migrate and protect their NAS file data to the cloud,"
+    publishedDateTime: 2020-11-19T17:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20201119005097/en/"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 47
+    images:
+      - url: "https://mms.businesswire.com/media/20201119005097/en/771234/23/datadobi-logo.jpg"
+        width: 1200
+        height: 627
+        isCached: true
   - title: "DLA Piper Launches New TOKO Security Tokenization Platform on Hedera Hashgraph, Hyperledger Fabric, and Microsoft Azure"
     excerpt: "DLA Piper Launches New TOKO Security Tokenization Platform on Hedera Hashgraph, Hyperledger Fabric, and Microsoft Azure. Nov 30, 2020 1:44 PM ET. Legal Newswire POWERED BY LAW.COM"
     publishedDateTime: 2020-11-30T17:44:00Z
@@ -36,6 +54,6 @@ related:
         height: 256
         isCached: true
 
-secured: "YOP+qLLQer6Rdne1lpV3k8dC7nTj9i6RXp2EbWfQ07d6jsHnTI+pAgmowB7R5xRQewM57yPsfrI7UgnXbFRUeqw5y1bniMolMudfjr6e2zh0/n4I8tFB2iy2hmTxqU1wd7Zr4661eIIUmRZF1ifYSKIO6YNXjN/aWcIYTAZ6awdQw1I+FNGlLgXqVyIroB07Km53yK1DGzrltofBGFX9/JlWO4Sr3lhEt1k2n7yz7Ko3Q71YdYoYZ83ueboW9dkUKw1qLbA7Ahet8Vv/MpPl0Rbs3hYZpB/FGWb4L41us+GbzLOuMkmTozvB+pXrQ2OSdWj02GvbhVBsCrwvA2DdD3CHV1ZCS86xyKSeathxVJY=;EmLpTyt9nYiMyz205Ta5WQ=="
+secured: "qaWOIKj8Wt1uKQijIG9s34RT6+DFnR1F7ONKJhJxfM7Ci0r7WN1/jChEb2kqx+vEFlFqYMoq6ApDgbqjjLslLqSkdL+tSrwysJTDMMBTlLIXViXVLIDIRkGF46Bvwk4WYN6FQaW+ffzw/YsE6nAi6s3fhIno41C6lOIJavvvkOCUSMMb4/+QDP4WENRrMVxChyei4PuNyGGItbqkOqAxUzXD02yK3K5hP1GegInQBZ2jSK7YwM0KyXZukZ99JblnRh8SBv+0hi9tVK7W+6BIlnIXdQ7xoHnGcAYK5tHS68Nz0mwQJvHz7ZvkFJaKH0ouARCu+9YhncHBAjRPOCKkPjDojpmSIrTmoQdPBM49nRw=;EobntLWvpyK5bX+pr1b8cw=="
 ---
 
