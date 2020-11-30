@@ -43,15 +43,15 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-design-a-geographically-distributed-application.md",
-      "title": "Design a geographically distributed application",
-      "excerpt": "Build an application that spans multiple geographic locations for high availability and resiliency.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-design-a-geographically-distributed-application/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-a-geographically-distributed-application/",
-      "length": "PT34M",
+      "path": "_learning/courses/microsoft-learn-configure-database-authentication-authorization.md",
+      "title": "Configure database authentication and authorization",
+      "excerpt": "Contrast authentication using Azure Active Directory vs Windows Active Directory vs SQL Server authentication. Implement various security principals and configure permissions.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-configure-database-authentication-authorization/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-database-authentication-authorization/",
+      "length": "PT49M",
       "ratings": {
-        "count": 625,
-        "average": 4.672
+        "count": 1038,
+        "average": 4.8179193
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -66,17 +66,22 @@
         ]
       },
       "levels": [
-        "Advanced"
+        "Intermediate"
       ],
-      "heat": 131,
+      "heat": 130,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/configure-database-authentication-and-authorization-social.png",
+          "width": 643,
+          "height": 321,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "course",
       "price": "Free",
       "topics": [
         "Azure",
-        "Networking",
-        "Web",
-        "Compute",
         "Databases"
       ]
     },
@@ -111,8 +116,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/",
           "length": "PT36M",
           "ratings": {
-            "count": 5978,
-            "average": 4.784209
+            "count": 5991,
+            "average": 4.78451
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -153,8 +158,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
           "length": "PT39M",
           "ratings": {
-            "count": 1191,
-            "average": 4.7321577
+            "count": 1198,
+            "average": 4.731219
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -389,8 +394,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
       "length": "PT39M",
       "ratings": {
-        "count": 1191,
-        "average": 4.7321577
+        "count": 1198,
+        "average": 4.731219
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -661,8 +666,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
           "length": "PT39M",
           "ratings": {
-            "count": 1191,
-            "average": 4.7321577
+            "count": 1198,
+            "average": 4.731219
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -743,8 +748,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/scale-sql-databases-elastic-pools/",
           "length": "PT39M",
           "ratings": {
-            "count": 3559,
-            "average": 4.582467
+            "count": 3560,
+            "average": 4.5825844
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -908,8 +913,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-serverless-logic-with-azure-functions/",
           "length": "PT36M",
           "ratings": {
-            "count": 7011,
-            "average": 4.6578236
+            "count": 7012,
+            "average": 4.657872
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1276,8 +1281,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-your-migration-to-azure/",
           "length": "PT44M",
           "ratings": {
-            "count": 1899,
-            "average": 4.653502
+            "count": 1900,
+            "average": 4.653684
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1797,8 +1802,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/scale-sql-databases-elastic-pools/",
           "length": "PT39M",
           "ratings": {
-            "count": 3559,
-            "average": 4.582467
+            "count": 3560,
+            "average": 4.5825844
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1884,8 +1889,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-your-migration-to-azure/",
           "length": "PT44M",
           "ratings": {
-            "count": 1899,
-            "average": 4.653502
+            "count": 1900,
+            "average": 4.653684
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2223,8 +2228,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-azure-resources-with-rbac/",
           "length": "PT37M",
           "ratings": {
-            "count": 5401,
-            "average": 4.6585817
+            "count": 5402,
+            "average": 4.6584597
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2937,8 +2942,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-storage-approach-in-azure/",
       "length": "PT30M",
       "ratings": {
-        "count": 11470,
-        "average": 4.670183
+        "count": 11471,
+        "average": 4.670212
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3088,8 +3093,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/scale-sql-databases-elastic-pools/",
       "length": "PT39M",
       "ratings": {
-        "count": 3559,
-        "average": 4.582467
+        "count": 3560,
+        "average": 4.5825844
       },
       "provider": {
         "name": "Microsoft Learn",
