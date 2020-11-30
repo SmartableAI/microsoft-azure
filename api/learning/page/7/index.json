@@ -4,6 +4,41 @@
   "page": 7,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-characterize-devops-continous-collaboration-improvement.md",
+      "title": "Characterize DevOps Continuous Collaboration and Continuous Improvement",
+      "excerpt": "Explore two capabilities in the DevOps taxonomy, Continuous Collaboration and Continuous Improvement.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-characterize-devops-continous-collaboration-improvement/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/characterize-devops-continous-collaboration-improvement/",
+      "length": "PT17M",
+      "ratings": {
+        "count": 1211,
+        "average": 4.688687
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 56,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "DevOps"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-connect-on-premises-network-with-vpn-gateway.md",
       "title": "Connect your on-premises network to Azure with VPN Gateway",
       "excerpt": "Learn about the virtual private network (VPN) gateway options in Azure and typical scenarios for using a VPN. Create and test VPNs to securely connect sites to Azure.",
@@ -89,8 +124,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-devops-continuous-security-operations/",
       "length": "PT22M",
       "ratings": {
-        "count": 885,
-        "average": 4.7073445
+        "count": 886,
+        "average": 4.707675
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -201,8 +236,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/network-fundamentals/",
       "length": "PT47M",
       "ratings": {
-        "count": 3730,
-        "average": 4.7045574
+        "count": 3731,
+        "average": 4.7038326
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -489,8 +524,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/principles-cloud-computing-dynamics-365-deployment/",
       "length": "PT45M",
       "ratings": {
-        "count": 2850,
-        "average": 4.717193
+        "count": 2853,
+        "average": 4.71749
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -531,8 +566,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/top-5-security-items-to-consider/",
       "length": "PT45M",
       "ratings": {
-        "count": 6589,
-        "average": 4.65579
+        "count": 6590,
+        "average": 4.6556907
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -932,8 +967,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/enable-digital-transformation/",
       "length": "PT32M",
       "ratings": {
-        "count": 8901,
-        "average": 4.6970005
+        "count": 8902,
+        "average": 4.6970344
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1122,8 +1157,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-users-and-groups-in-aad/",
       "length": "PT50M",
       "ratings": {
-        "count": 3587,
-        "average": 4.6874824
+        "count": 3588,
+        "average": 4.6875696
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1191,49 +1226,6 @@
         "Azure",
         "Management Tools",
         "Identity"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-secure-azure-storage-account.md",
-      "title": "Secure your Azure Storage account",
-      "excerpt": "Learn how Azure Storage provides multilayered security to protect your data with access keys, secure networks, and Advanced Threat Protection monitoring.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-secure-azure-storage-account/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-azure-storage-account/",
-      "length": "PT45M",
-      "ratings": {
-        "count": 8123,
-        "average": 4.6463127
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 54,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/data-ai/secure-azure-storage-account-badge-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Storage"
       ]
     }
   ],

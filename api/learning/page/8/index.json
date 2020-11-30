@@ -4,6 +4,49 @@
   "page": 8,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-secure-azure-storage-account.md",
+      "title": "Secure your Azure Storage account",
+      "excerpt": "Learn how Azure Storage provides multilayered security to protect your data with access keys, secure networks, and Advanced Threat Protection monitoring.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-secure-azure-storage-account/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-azure-storage-account/",
+      "length": "PT45M",
+      "ratings": {
+        "count": 8124,
+        "average": 4.6463566
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 54,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/data-ai/secure-azure-storage-account-badge-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Storage"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-secure-your-azure-sql-database.md",
       "title": "Secure your Azure SQL Database",
       "excerpt": "Secure an Azure SQL database to keep the information safe and diagnose potential security concerns as they happen.",
@@ -47,8 +90,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/survey-the-azure-data-platform/",
       "length": "PT58M",
       "ratings": {
-        "count": 4706,
-        "average": 4.6903954
+        "count": 4707,
+        "average": 4.6902485
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -320,8 +363,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/evolving-world-of-data/",
           "length": "PT28M",
           "ratings": {
-            "count": 5173,
-            "average": 4.683356
+            "count": 5174,
+            "average": 4.6834173
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -362,8 +405,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/survey-the-azure-data-platform/",
           "length": "PT58M",
           "ratings": {
-            "count": 4706,
-            "average": 4.6903954
+            "count": 4707,
+            "average": 4.6902485
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -405,8 +448,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-engineering-processes/",
           "length": "PT25M",
           "ratings": {
-            "count": 4621,
-            "average": 4.7089376
+            "count": 4622,
+            "average": 4.7090006
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -511,8 +554,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/app-service-scale-up-scale-out/",
       "length": "PT46M",
       "ratings": {
-        "count": 2470,
-        "average": 4.5615387
+        "count": 2471,
+        "average": 4.5609064
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1001,8 +1044,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-serverless-logic-with-azure-functions/",
       "length": "PT36M",
       "ratings": {
-        "count": 7010,
-        "average": 4.6577744
+        "count": 7011,
+        "average": 4.6578236
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1038,8 +1081,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-engineering-processes/",
       "length": "PT25M",
       "ratings": {
-        "count": 4621,
-        "average": 4.7089376
+        "count": 4622,
+        "average": 4.7090006
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1080,8 +1123,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/evolving-world-of-data/",
       "length": "PT28M",
       "ratings": {
-        "count": 5173,
-        "average": 4.683356
+        "count": 5174,
+        "average": 4.6834173
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1328,8 +1371,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-python/",
       "length": "PT1H7M",
       "ratings": {
-        "count": 5120,
-        "average": 4.7208986
+        "count": 5122,
+        "average": 4.7208123
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1438,50 +1481,6 @@
       "price": "Free",
       "topics": [
         "Azure"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-secure-and-isolate-with-nsg-and-service-endpoints.md",
-      "title": "Secure and isolate access to Azure resources by using network security groups and service endpoints",
-      "excerpt": "Find out how Azure network security groups and service endpoints help you secure your virtual machines and Azure services from unauthorized network access.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-secure-and-isolate-with-nsg-and-service-endpoints/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-and-isolate-with-nsg-and-service-endpoints/",
-      "length": "PT43M",
-      "ratings": {
-        "count": 6850,
-        "average": 4.649927
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 53,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/secure-and-isolate-with-nsg-and-service-endpoints-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Networking",
-        "Security"
       ]
     }
   ],
