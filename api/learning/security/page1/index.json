@@ -4,6 +4,42 @@
   "page": 1,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-introduction-to-security.md",
+      "title": "Security, responsibility, and trust in Azure",
+      "excerpt": "Discuss the basic concepts for protecting your infrastructure and data when you work in the cloud. Understand what responsibilities are yours and what Azure takes care of for you.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-introduction-to-security/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-security-in-azure/",
+      "length": "PT1H16M",
+      "ratings": {
+        "count": 45991,
+        "average": 4.705464
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 158,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Identity",
+        "Security"
+      ]
+    },
+    {
       "path": "_learning/collections/microsoft-learn-implement-resource-management-security-in-azure.md",
       "title": "Implement resource management security in Azure",
       "excerpt": "Learn how to secure resources using policy, role-based access control, and other Azure services",
@@ -53,7 +89,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 78,
+          "heat": 158,
           "content": "\r\n",
           "type": "course",
           "price": "Free",
@@ -171,49 +207,13 @@
         }
       ],
       "size": 6,
-      "heat": 93,
+      "heat": 94,
       "content": "\r\n",
       "type": "collection",
       "price": "Free",
       "topics": [
         "Azure",
         "Management Tools",
-        "Security"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-introduction-to-security.md",
-      "title": "Security, responsibility, and trust in Azure",
-      "excerpt": "Discuss the basic concepts for protecting your infrastructure and data when you work in the cloud. Understand what responsibilities are yours and what Azure takes care of for you.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-introduction-to-security/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-security-in-azure/",
-      "length": "PT1H16M",
-      "ratings": {
-        "count": 45991,
-        "average": 4.705464
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 78,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Identity",
         "Security"
       ]
     },
@@ -248,8 +248,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/",
           "length": "PT36M",
           "ratings": {
-            "count": 6163,
-            "average": 4.7832227
+            "count": 6189,
+            "average": 4.783325
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -290,8 +290,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-against-security-threats-azure/",
           "length": "PT23M",
           "ratings": {
-            "count": 631,
-            "average": 4.732171
+            "count": 636,
+            "average": 4.734277
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -333,8 +333,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-network-connectivity-azure/",
           "length": "PT32M",
           "ratings": {
-            "count": 645,
-            "average": 4.7705426
+            "count": 649,
+            "average": 4.768875
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -394,8 +394,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-against-security-threats-azure/",
       "length": "PT23M",
       "ratings": {
-        "count": 631,
-        "average": 4.732171
+        "count": 636,
+        "average": 4.734277
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -503,8 +503,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-users-and-groups-in-azure-active-directory/",
           "length": "PT41M",
           "ratings": {
-            "count": 3284,
-            "average": 4.709196
+            "count": 3285,
+            "average": 4.709285
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -697,7 +697,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 78,
+          "heat": 158,
           "content": "\r\n",
           "type": "course",
           "price": "Free",
@@ -882,8 +882,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-security/",
           "length": "PT1H2M",
           "ratings": {
-            "count": 2693,
-            "average": 4.7215004
+            "count": 2694,
+            "average": 4.7216034
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1111,7 +1111,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 78,
+          "heat": 158,
           "content": "\r\n",
           "type": "course",
           "price": "Free",
@@ -1306,8 +1306,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-security/",
           "length": "PT1H2M",
           "ratings": {
-            "count": 2693,
-            "average": 4.7215004
+            "count": 2694,
+            "average": 4.7216034
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1530,7 +1530,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 78,
+          "heat": 158,
           "content": "\r\n",
           "type": "course",
           "price": "Free",
@@ -1584,8 +1584,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-and-isolate-with-nsg-and-service-endpoints/",
           "length": "PT43M",
           "ratings": {
-            "count": 6852,
-            "average": 4.650029
+            "count": 6853,
+            "average": 4.65008
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2756,8 +2756,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-devops-continuous-security-operations/",
       "length": "PT22M",
       "ratings": {
-        "count": 898,
-        "average": 4.706013
+        "count": 899,
+        "average": 4.705228
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2870,8 +2870,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-security/",
       "length": "PT1H2M",
       "ratings": {
-        "count": 2693,
-        "average": 4.7215004
+        "count": 2694,
+        "average": 4.7216034
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2914,8 +2914,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/network-fundamentals-2/",
       "length": "PT36M",
       "ratings": {
-        "count": 2732,
-        "average": 4.7002196
+        "count": 2733,
+        "average": 4.7003293
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2949,8 +2949,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-and-isolate-with-nsg-and-service-endpoints/",
       "length": "PT43M",
       "ratings": {
-        "count": 6852,
-        "average": 4.650029
+        "count": 6853,
+        "average": 4.65008
       },
       "provider": {
         "name": "Microsoft Learn",
