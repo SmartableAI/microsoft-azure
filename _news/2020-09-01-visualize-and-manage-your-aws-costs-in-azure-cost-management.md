@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/visualize-and-manage-you
 webUrl: "https://azure.microsoft.com/en-us/updates/visualize-and-manage-your-aws-costs-in-azure-cost-management/"
 type: article
 quality: 67
-heat: 87
+heat: 88
 published: true
 
 provider:

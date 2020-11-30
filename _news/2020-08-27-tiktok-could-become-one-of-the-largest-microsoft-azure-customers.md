@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techradar.com/au/amp/news/tiktok-could-become-one-of-the
 cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/au/amp/news/tiktok-could-become-one-of-the-largest-microsoft-azure-customers"
 type: article
 quality: 97
-heat: 417
+heat: 418
 published: true
 
 provider:
