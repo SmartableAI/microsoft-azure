@@ -18,7 +18,7 @@ website: http://t.co/rkquDCVhAW
 twitter:
   username: scottgu
   url: https://twitter.com/scottgu
-  followers: 159380
+  followers: 159382
 
 linkedin:
   url: https://www.linkedin.com/in/guthriescott/
