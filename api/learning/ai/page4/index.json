@@ -4,6 +4,45 @@
   "page": 4,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-create-web-app-with-refreshable-models.md",
+      "title": "Build a Web App with Refreshable Machine Learning Models",
+      "excerpt": "Build a web app powered by machine learning models trained using Custom Vision AI service, and learn how to refresh them with GitHub Actions.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-create-web-app-with-refreshable-models/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-web-app-with-refreshable-models/",
+      "length": "PT1H22M",
+      "ratings": {
+        "count": 25,
+        "average": 4.24
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "AI",
+        "Web",
+        "Compute",
+        "Containers",
+        "Mobile"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-cv-classify-bird-species.md",
       "title": "Classify endangered bird species with Custom Vision",
       "excerpt": "Learn how to use Azure Cognitive Services Custom Vision to build a machine learning model that identifies the species of a bird in an image, to help with gathering data.",
@@ -142,8 +181,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/connecting-iot-devices-cognitive-services-azure-functions/",
       "length": "PT1H16M",
       "ratings": {
-        "count": 52,
-        "average": 4.3846154
+        "count": 53,
+        "average": 4.3962264
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -451,8 +490,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/detect-language-text-analytics-api/",
       "length": "PT18M",
       "ratings": {
-        "count": 33,
-        "average": 4.7272725
+        "count": 34,
+        "average": 4.7352943
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -582,8 +621,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/extract-key-phrases-text-analytics-api/",
       "length": "PT18M",
       "ratings": {
-        "count": 35,
-        "average": 4.6857142
+        "count": 36,
+        "average": 4.6944447
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -827,49 +866,6 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-implement-ai-organization.md",
-      "title": "Implement AI in your organization",
-      "excerpt": "Learn enterprise AI management with our free open online course, including machine learning.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-implement-ai-organization/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/implement-ai-organization/",
-      "length": "PT41M",
-      "ratings": {
-        "count": 27,
-        "average": 4.851852
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/implement-ai-organization-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "AI"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-intro-to-azure-machine-learning-service.md",
       "title": "Introduction to the Azure Machine Learning SDK",
       "excerpt": "Azure Machine Learning provides a cloud-based platform for training, deploying, and managing machine learning models.",
@@ -877,8 +873,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-machine-learning-service/",
       "length": "PT40M",
       "ratings": {
-        "count": 2311,
-        "average": 4.6161833
+        "count": 2313,
+        "average": 4.616515
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -921,8 +917,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-mixed-reality/",
       "length": "PT41M",
       "ratings": {
-        "count": 11,
-        "average": 4.6363635
+        "count": 12,
+        "average": 4.6666665
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1008,8 +1004,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-language-understanding-intelligent-service-apps/",
       "length": "PT24M",
       "ratings": {
-        "count": 32,
-        "average": 4.78125
+        "count": 33,
+        "average": 4.787879
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1137,8 +1133,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/monitor-data-drift-with-azure-machine-learning/",
       "length": "PT42M",
       "ratings": {
-        "count": 219,
-        "average": 4.73516
+        "count": 220,
+        "average": 4.7363634
       },
       "provider": {
         "name": "Microsoft Learn",

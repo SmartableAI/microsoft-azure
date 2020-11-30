@@ -4,49 +4,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-copy-blobs-from-command-line-and-code.md",
-      "title": "Copy and move blobs from one container or storage account to another from the command line and in code",
-      "excerpt": "Learn how to utilize .NET Storage Client library, AzCopy, and Azure CLI utilities to copy and move blobs between contains and storage accounts both synchronously and asynchronously.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-copy-blobs-from-command-line-and-code/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/copy-blobs-from-command-line-and-code/",
-      "length": "PT58M",
-      "ratings": {
-        "count": 156,
-        "average": 4.5641026
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/copy-blobs-from-command-line-and-code-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Storage"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-create-azure-cognitive-search-solution.md",
       "title": "Create an Azure Cognitive Search solution",
       "excerpt": "Unlock the hidden insights in your data with Azure Cognitive Search.",
@@ -376,8 +333,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/export-data-with-azure-import-export/",
       "length": "PT24M",
       "ratings": {
-        "count": 622,
-        "average": 4.6961412
+        "count": 623,
+        "average": 4.695024
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -551,8 +508,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-lambda-architecture-iot-solutions/",
       "length": "PT28M",
       "ratings": {
-        "count": 420,
-        "average": 4.607143
+        "count": 421,
+        "average": 4.608076
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -588,8 +545,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-azure-data-lake-storage/",
       "length": "PT30M",
       "ratings": {
-        "count": 1807,
-        "average": 4.702269
+        "count": 1809,
+        "average": 4.702598
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -674,8 +631,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/move-data-with-azure-data-box/",
       "length": "PT25M",
       "ratings": {
-        "count": 541,
-        "average": 4.650647
+        "count": 543,
+        "average": 4.6519337
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -892,8 +849,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/sap-hana-azure-compute-network-storage/",
       "length": "PT52M",
       "ratings": {
-        "count": 349,
-        "average": 4.77937
+        "count": 350,
+        "average": 4.78
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1010,6 +967,50 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-set-up-cors-website-storage.md",
+      "title": "Core Cloud Services - Set up CORS for your website and storage assets",
+      "excerpt": "Set up Cross-Origin Resource Sharing (CORS) for your Azure website and storage assets in order to allow cross-domain access to your resources.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-set-up-cors-website-storage/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/set-up-cors-website-storage/",
+      "length": "PT60M",
+      "ratings": {
+        "count": 96,
+        "average": 4.71875
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/setup-cors-for-your-website-and-storage-assets-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Management Tools",
+        "Storage"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-support-concurrency-blob-storage.md",
       "title": "Support concurrency in Blob storage apps with ETags and blob leases",
       "excerpt": "In this module you will learn how to implement application code to manage concurrency in blob storage.",
@@ -1105,8 +1106,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/upload-data-to-azure-data-lake-storage/",
       "length": "PT50M",
       "ratings": {
-        "count": 1699,
-        "average": 4.604473
+        "count": 1700,
+        "average": 4.604706
       },
       "provider": {
         "name": "Microsoft Learn",
