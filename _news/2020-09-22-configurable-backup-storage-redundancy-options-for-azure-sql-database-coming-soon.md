@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/configurable-backup-stor
 webUrl: "https://azure.microsoft.com/en-us/updates/configurable-backup-storage-redundancy-options-for-azure-sql-database-coming-soon/"
 type: article
 quality: 126
-heat: 267
+heat: 266
 published: true
 
 provider:
