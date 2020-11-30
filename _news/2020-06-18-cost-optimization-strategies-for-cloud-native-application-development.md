@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-18T11:00:28Z
 originalUrl: "https://azure.microsoft.com/blog/cost-optimization-strategies-for-cloudnative-application-development/"
 webUrl: "https://azure.microsoft.com/blog/cost-optimization-strategies-for-cloudnative-application-development/"
 type: article
-quality: 52
+quality: 54
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - Azure
+  - Containers
 
 related:
   - title: "Minimize disruption with cost-effective backup and disaster recovery solutions on Azure"

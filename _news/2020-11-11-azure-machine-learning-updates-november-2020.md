@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/azure-machine-learning-u
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-machine-learning-updates-november-2020/"
 type: article
 quality: 84
-heat: 104
+heat: 124
 published: true
 
 provider:
@@ -27,6 +27,15 @@ related:
     excerpt: "Updates include moving resources from a resource group to another region and a filter pills update."
     publishedDateTime: 2020-11-23T20:34:14Z
     webUrl: "https://azure.microsoft.com/en-us/updates/azure-portal-updatesnovember-2020/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
+  - title: "Azure Site Recovery update rollup 52 - November 2020"
+    excerpt: "The latest Azure Site Recovery update provides provides fixes, updated Linux support for disaster recovery of Azure VMs, VMware VMs, and physical servers, and download links for Site Recovery components."
+    publishedDateTime: 2020-11-30T17:55:15Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/site-recovery-update-rollup-52-november-2020/"
     type: article
     provider:
       name: Microsoft

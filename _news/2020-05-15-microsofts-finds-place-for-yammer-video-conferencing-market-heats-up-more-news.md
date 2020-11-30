@@ -1335,6 +1335,20 @@ related:
         width: 647
         height: 450
         isCached: true
+  - title: "Modern VDI Solutions with Microsoft Azure"
+    excerpt: "Computerworld covers a range of technology topics, with a focus on these core areas of IT: Windows, Mobile, Apple/enterprise, Office and productivity suites, collaboration, web browsers and blockchain,"
+    publishedDateTime: 2020-11-29T21:00:00Z
+    webUrl: "https://www.computerworld.com/resources/211308/modern-vdi-solutions-with-microsoft-azure"
+    type: article
+    provider:
+      name: Computerworld
+      domain: computerworld.com
+    quality: 37
+    images:
+      - url: "https://idge.staticworld.net/ctw/computerworld-logo300x300.png"
+        width: 300
+        height: 300
+        isCached: true
   - title: "RateLinx completes migration to Microsoft Azure to better serve customers"
     excerpt: "MADISON, WI (May 21, 2020) – RateLinx announced today the completion of the migration to the Microsoft Azure cloud computing platform. The migration will enable more capabilities within the RateLinx suite of cloud-based logistics solutions, in addition ..."
     publishedDateTime: 2020-05-21T23:34:00Z

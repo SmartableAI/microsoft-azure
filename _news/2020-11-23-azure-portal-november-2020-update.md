@@ -32,6 +32,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 84
+  - title: "Azure Site Recovery update rollup 52 - November 2020"
+    excerpt: "The latest Azure Site Recovery update provides provides fixes, updated Linux support for disaster recovery of Azure VMs, VMware VMs, and physical servers, and download links for Site Recovery components."
+    publishedDateTime: 2020-11-30T17:55:15Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/site-recovery-update-rollup-52-november-2020/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
 
 secured: "VCEdra5nLjsl8REMI97lPOxZ4CyWhd0hu3jf52rR9q+MBmreeyKbY8ser0+sCoytLa+C4IDBGFZF+Nq0lMFDCGXiEtfbtYYRspctdmmXhT0La0bcSpo88bM0sN3FhPONjSgf3exhW8v39RLcpZzpzX/Cf5BBc1c4UyCGJfuJ1TE4B5zNmlM7P4KlgJAISxs8eWe8ReGoxdCkIZfjlt98d8B56QYmI6cXgRIgPOdGfXGMa5bRSBWDStzxaWwvRWAJWTiEHyZspozgVYZK4QXxFEUF1+USFY6DEX6XAggBjSVgf4K8TE4L1Z0kPW44nzG3RLL0nnJXDVDKZaVP0QvrJ9nB4JdciSEPeMSD1KBju/M=;7dDmLa/23iQapwiSUmrygA=="
 ---

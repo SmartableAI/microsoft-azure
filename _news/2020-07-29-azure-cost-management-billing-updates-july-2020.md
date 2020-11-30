@@ -52,6 +52,20 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 99
+  - title: "Azure Cost Management and Billing updates – November 2020"
+    excerpt: "Get your budget emails in the language of your choice, enjoy a preview of new cost views optimized for resources and reservations, and take advantage of even more ways to save money! November is as action-packed as ever. And don't forget to check out new videos and documentation updates to help you be"
+    publishedDateTime: 2020-11-30T10:00:06Z
+    webUrl: "https://azure.microsoft.com/blog/azure-cost-management-billing-updates-november-2020/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 99
+    images:
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/c1c05119-f726-4026-a91a-cb47b077522c.png"
+        width: 2545
+        height: 1146
+        isCached: true
   - title: "Azure Cost Management + Billing updates – April 2020"
     excerpt: "Whether you're a new student, thriving startup, or the largest enterprise, you have financial constraints and you need to know what you're spending, where, and how to plan for the future. Nobody wants a surprise when it comes to the bill, and this is where Azure Cost Management + Billing comes in.\r\n\r\nWe're"
     publishedDateTime: 2020-04-30T11:00:08Z
