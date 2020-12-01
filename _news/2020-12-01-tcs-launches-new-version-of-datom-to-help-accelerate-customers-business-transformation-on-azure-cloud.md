@@ -1,27 +1,27 @@
 ---
 category: news
-title: "TCS Launches New Version of DATOM™ to Help Accelerate Customers' Business Transformation on Azure Cloud"
-excerpt: "Tata Consultancy Services (TCS), (BSE: 532540, NSE: TCS), a leading global IT services, consulting and business solutions organization, has launched a curated version of its popular Data and Analytics Target Operating Model (TCS DATOM™) consulting framework,"
-publishedDateTime: 2020-11-30T17:46:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/tcs-launches-new-version-of-datom-to-help-accelerate-customers-business-transformation-on-azure-cloud-1029850079"
-webUrl: "https://markets.businessinsider.com/news/stocks/tcs-launches-new-version-of-datom-to-help-accelerate-customers-business-transformation-on-azure-cloud-1029850079"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/tcs-launches-new-version-of-datom-to-help-accelerate-customers-business-transformation-on-azure-cloud-1029850079"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/tcs-launches-new-version-of-datom-to-help-accelerate-customers-business-transformation-on-azure-cloud-1029850079"
+title: "TCS Launches New Version of DATOM™ to Help Accelerate Customers’ Business Transformation on Azure Cloud"
+excerpt: "Tata Consultancy Services (TCS), (BSE: 532540, NSE: TCS), a leading global IT services, consulting and business solutions organization, has launched a curated version of its popular Data and Analytics Target Operating Model ( TCS DATOM™ ) consulting framework,"
+publishedDateTime: 2020-12-01T06:45:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-environment-and-nature-products-and-services-1ceeba322a3f0778fd6dcf6477902fb3"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-environment-and-nature-products-and-services-1ceeba322a3f0778fd6dcf6477902fb3"
 type: article
-quality: 61
-heat: 81
-published: true
+quality: 21
+heat: 21
+published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Azure
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "TCS Launches New Version of DATOM™ to Help Accelerate Customers' Business Transformation on Azure Cloud"
@@ -34,6 +34,6 @@ related:
       domain: equitybulls.com
     quality: 1
 
-secured: "t8hFrjcFEMOa9WPwoFJIvruIpnLSrtpzHQPnZI0QacaCs1Mn6/A9lujl9VEVELiRuvnPSwTEqtYaiQBNpwsoBXSkYY58Ewh/9AnnuOYoYA3Hv4jxOuY/FLmIKDnN5N/bXIkcu3Hx+hV4UQ7DkykP+TNIHRN6Zesohaonfv6OGpIQD8FhetV86fhD+MwzUoCfxqvJzWXIcaKZM9nraE/mRi09jFF4IXxdjz1Jnf27U6DiUhi02q3vp+vdJ7f1vbj6to2nC2vxuadDgC1JNpNr5xc6QQEBsWMFcktFRWKYIyRL3ZqAL7lUBioCZrmjCxoLXkBMB+GGE82N7a2ighQRFTKMui2Pzrq/rpnZOuwhLks=;FBcvpn3kjEa0RvyO51ye1Q=="
+secured: "EVHNWrqghmUJWY0AfH/ZNoovBdXyRFs7qBSL15+BZWxCJvirsjwV4gtgea03XMYKVIxrR60l7LsSNQRefYOfVgoRhv6XrGi9nnIC8I/4XNfV/EexnqU+5egx+3lzg16qO+B4OytT2aYIqD4I9FU1zqxEC8Ge+xO7BGg0IG9WSMHKpkpM6LPRdl1B8yvwBw6RX5LPNUCtANHbMr3RSQi1K7VbbKdCuFEHQVyZzgRD7h8FkTMmZEmiLA0z/91A2jcsFGagSI8s80aR5pD1c9IKhzONpIJXR7sA9vkxm/Ggqd0LWhlXqgZIUfUVc2NbUkGHZvLHOASTVoDdFV1s8uGcQmkFqiFBTJj0dgsdxavGG8g=;3eKd+u1Cl65ND2w9onruMA=="
 ---
 
