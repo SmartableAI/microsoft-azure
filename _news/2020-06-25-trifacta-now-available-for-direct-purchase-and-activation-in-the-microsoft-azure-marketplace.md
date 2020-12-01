@@ -6,8 +6,8 @@ publishedDateTime: 2020-06-25T13:00:00Z
 webUrl: "https://www.marketwatch.com/press-release/trifacta-now-available-for-direct-purchase-and-activation-in-the-microsoft-azure-marketplace-2020-06-25"
 type: article
 quality: 66
-heat: 106
-published: true
+heat: -1
+published: false
 
 provider:
   name: MarketWatch
@@ -28,34 +28,28 @@ images:
     title: "Trifacta Now Available for Direct Purchase and Activation in the Microsoft Azure Marketplace"
 
 related:
-  - title: "GAVS Technologies: Zero Incident Framework (ZIF) Now Available in the Microsoft Azure Marketplace"
-    excerpt: "Microsoft Azure customers worldwide now gain access to ZIF to take advantage of the scalability, reliability and agility of Azure to drive application development and shape business strategies PRINCET"
-    publishedDateTime: 2020-06-23T04:20:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2020-06/49985840-gavs-technologies-zero-incident-framework-zif-now-available-in-the-microsoft-azure-marketplace-200.htm"
+  - title: "Exoprise Office 365 Monitoring App Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Exoprise, a leading provider of software-as-a-service (SaaS) and Office 365 monitoring, today announced the availability of its CloudReady solution in the Microsoft Azure Marketplace, an online store that provides applications and services for use on Azure."
+    publishedDateTime: 2020-12-01T15:58:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/exoprise-office-365-monitoring-app-now-available-in-the-microsoft-azure-marketplace-1029854465"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/exoprise-office-365-monitoring-app-now-available-in-the-microsoft-azure-marketplace-1029854465"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/exoprise-office-365-monitoring-app-now-available-in-the-microsoft-azure-marketplace-1029854465"
     type: article
     provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 24
-    images:
-      - url: "https://www.accesswire.com/users/newswire/images/594875/image-20200623114459-1.jpeg"
-        width: 1223
-        height: 476
-        isCached: true
-  - title: "IDology integrates its ExpectID solution with the Microsoft Azure Active Directory External Identities"
-    excerpt: "IDology partners with Microsoft to integrate its ExpectID identity verification and anti-fraud solution with the Microsoft Azure AD External Identities."
-    publishedDateTime: 2020-07-03T00:13:00Z
-    webUrl: "https://www.helpnetsecurity.com/2020/07/03/idology-microsoft/"
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 71
+  - title: "Innovaccer's Patient Relationship Management Solution is Now Available on Microsoft Azure"
+    excerpt: "Innovaccer, Inc., a leading healthcare technology company, recently announced that its patient relationship management solution is now available on Microsoft Azure. The solution streamlines communication between patients and their care teams."
+    publishedDateTime: 2020-11-24T18:01:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/innovaccer-s-patient-relationship-management-solution-is-now-available-on-microsoft-azure-1029835761"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/innovaccer-s-patient-relationship-management-solution-is-now-available-on-microsoft-azure-1029835761"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/innovaccer-s-patient-relationship-management-solution-is-now-available-on-microsoft-azure-1029835761"
     type: article
     provider:
-      name: Help Net Security
-      domain: helpnetsecurity.com
-    quality: 21
-    images:
-      - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/06/15084653/insecure-66.jpg"
-        width: 304
-        height: 430
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 68
 
 secured: "84ucZ84rbMoUk1d944Vrz7QeTkrhZFGpZoeXcBQIEzPEYvPeWq0wyZInNK4tw79ZnocwG1YxnnPZUs/1NCFpLiDV6lDSyLDC7wlLlesBuglyFWhZVx9UyU34dtZpMvtbGQdcKQuYZL+Kje23VFji/mu+V9iQ8gINY2PVwkbDy9SphsSt2qSkJvrdPuMvbkZanERylhTzSna+woezQ0czk9gUgJAfI3wjmciSsV24lIpFGMonjRuY+cW2ApSikzPAY9PYImxyvq2H7jkIInz/l4xBGTO+qaKWG1h3ULJYy9jIHmCfEp5U8QhysejsAbysii+fA3m2Sz6QeiWHNrv3ow==;gQMBFuBnr4aoYizoRW3s2Q=="
 ---

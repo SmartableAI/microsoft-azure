@@ -74,17 +74,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Coding Dojo Chosen by Microsoft as a Microsoft Azure Training Partner for Global Digital Skills Initiative"
-    excerpt: "Coding Dojo, a leading technology education company, announces today it is working with Microsoft to proliferate Microsoft Azure certifications in the workforce. The collaboration will increase the amount of job-ready Azure developers by integrating Microsoft Learn tracks into the Coding Dojo curriculum,"
-    publishedDateTime: 2020-11-24T18:48:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/coding-dojo-chosen-by-microsoft-as-a-microsoft-azure-training-partner-for-global-digital-skills-initiative-1029834412"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/coding-dojo-chosen-by-microsoft-as-a-microsoft-azure-training-partner-for-global-digital-skills-initiative-1029834412"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/coding-dojo-chosen-by-microsoft-as-a-microsoft-azure-training-partner-for-global-digital-skills-initiative-1029834412"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 59
   - title: "StoneFly Inc. Now Available in the Microsoft Azure Marketplace"
     excerpt: "StoneFly Inc today announced the availability of StoneFly cloud storage in the Microsoft Azure Marketplace an online store providing applications and services for use on Azure StoneFly customers can now take advantage of the productive"
     publishedDateTime: 2020-11-18T15:52:00Z
@@ -179,6 +168,20 @@ related:
     quality: 21
     images:
       - url: "https://mma.prnewswire.com/media/1008788/Accela_Logo.jpg?p=facebook"
+        width: 600
+        height: 315
+        isCached: true
+  - title: "Coding Dojo Chosen by Microsoft as a Microsoft Azure Training Partner for Global Digital Skills Initiative"
+    excerpt: "announces today it is working with Microsoft to proliferate Microsoft Azure certifications in the workforce. The collaboration will increase the amount of job-ready Azure developers by integrating Microsoft Learn tracks into the Coding Dojo curriculum ..."
+    publishedDateTime: 2020-11-24T20:11:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/coding-dojo-chosen-by-microsoft-as-a-microsoft-azure-training-partner-for-global-digital-skills-initiative-301179437.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 19
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
         width: 600
         height: 315
         isCached: true
