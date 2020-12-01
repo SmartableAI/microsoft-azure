@@ -4,6 +4,200 @@
   "page": 4,
   "value": [
     {
+      "path": "_learning/collections/microsoft-learn-deploy-a-website-to-azure-with-azure-app-service.md",
+      "title": "Deploy a website to Azure with Azure App Service",
+      "excerpt": "In this learning path, get acquainted with using Azure App Service to create and deploy your website without underlying servers, storage or network assets.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-deploy-a-website-to-azure-with-azure-app-service/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-deploy-a-website-to-azure-with-azure-app-service/",
+      "length": "PT4H30M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-prepare-azure-dev-environment.md",
+          "title": "Prepare your development environment for Azure development",
+          "excerpt": "Learn how to choose and install the appropriate IDE for your requirements to help you build, deploy, monitor, and scale cloud-hosted solutions.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-prepare-azure-dev-environment/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/prepare-your-dev-environment-for-azure-development/",
+          "length": "PT28M",
+          "ratings": {
+            "count": 4961,
+            "average": 4.695223
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 52,
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Developer Tools"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-host-a-web-application-with-azure-web-apps.md",
+          "title": "Host a web application with Azure App service",
+          "excerpt": "Create a website in the programming language of your choice through the hosted web app platform in Azure App Service.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-host-a-web-application-with-azure-web-apps/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/host-a-web-app-with-azure-app-service/",
+          "length": "PT58M",
+          "ratings": {
+            "count": 5354,
+            "average": 4.6083302
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 52,
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Compute",
+            "Web",
+            "Management Tools"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-publish-azure-web-app-with-visual-studio.md",
+          "title": "Publish a web app to Azure with Visual Studio",
+          "excerpt": "Learn how to use Azure App Service to create a new ASP.NET-based web app, then publish and update directly from Visual Studio.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-publish-azure-web-app-with-visual-studio/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/publish-azure-web-app-with-visual-studio/",
+          "length": "PT48M",
+          "ratings": {
+            "count": 3040,
+            "average": 4.669079
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 50,
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Developer tools"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-stage-deploy-app-service-deployment-slots.md",
+          "title": "Stage a web app deployment for testing and rollback by using App Service deployment slots",
+          "excerpt": "Discover the benefits of creating deployment slots to streamline deployment and roll back a web app in Azure App Service.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-stage-deploy-app-service-deployment-slots/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/stage-deploy-app-service-deployment-slots/",
+          "length": "PT44M",
+          "ratings": {
+            "count": 1816,
+            "average": 4.513216
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 51,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/stage-deploy-app-service-deployment-slots-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Compute"
+          ]
+        }
+      ],
+      "size": 6,
+      "heat": 62,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/stage-deploy-app-service-deployment-slots-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Compute",
+        "Web",
+        "Management Tools"
+      ]
+    },
+    {
       "path": "_learning/collections/microsoft-learn-deploy-and-manage-compute-resources-for-azure-administrators.md",
       "title": "Deploy and manage compute resources for Azure administrators",
       "excerpt": "Learn how to deploy and configure Azure compute resources and prepare for Exam AZ-104: Microsoft Azure Administrator.",
@@ -315,8 +509,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/detect-objects-images-custom-vision/",
           "length": "PT39M",
           "ratings": {
-            "count": 363,
-            "average": 4.7327824
+            "count": 364,
+            "average": 4.7335167
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -358,8 +552,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/detect-analyze-faces/",
           "length": "PT24M",
           "ratings": {
-            "count": 355,
-            "average": 4.7154927
+            "count": 356,
+            "average": 4.716292
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -653,8 +847,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-your-migration-to-azure/",
           "length": "PT44M",
           "ratings": {
-            "count": 1913,
-            "average": 4.6544695
+            "count": 1915,
+            "average": 4.6548305
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -989,8 +1183,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/monitor-performance-using-azure-monitor-for-vms/",
           "length": "PT48M",
           "ratings": {
-            "count": 18,
-            "average": 4.6666665
+            "count": 21,
+            "average": 4.714286
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1673,8 +1867,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-cloud-governance-strategy-azure/",
       "length": "PT48M",
       "ratings": {
-        "count": 380,
-        "average": 4.768421
+        "count": 383,
+        "average": 4.770235
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1958,8 +2152,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-compute-fundamentals/",
           "length": "PT52M",
           "ratings": {
-            "count": 1060,
-            "average": 4.7566037
+            "count": 1062,
+            "average": 4.757062
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2159,8 +2353,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-your-migration-to-azure/",
           "length": "PT44M",
           "ratings": {
-            "count": 1913,
-            "average": 4.6544695
+            "count": 1915,
+            "average": 4.6548305
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2581,8 +2775,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-github/",
           "length": "PT1H12M",
           "ratings": {
-            "count": 566,
-            "average": 4.7314487
+            "count": 567,
+            "average": 4.7319226
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3086,8 +3280,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/capture-application-logs-app-service/",
           "length": "PT55M",
           "ratings": {
-            "count": 1451,
-            "average": 4.642316
+            "count": 1452,
+            "average": 4.642562
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3216,8 +3410,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-github/",
           "length": "PT1H12M",
           "ratings": {
-            "count": 566,
-            "average": 4.7314487
+            "count": 567,
+            "average": 4.7319226
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3300,8 +3494,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/upload-project-github/",
           "length": "PT43M",
           "ratings": {
-            "count": 196,
-            "average": 4.7244897
+            "count": 197,
+            "average": 4.7258883
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3966,8 +4160,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-performance-efficiency/",
           "length": "PT48M",
           "ratings": {
-            "count": 537,
-            "average": 4.703911
+            "count": 538,
+            "average": 4.704461
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5190,8 +5384,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-estate-migration-and-modernization/",
           "length": "PT36M",
           "ratings": {
-            "count": 4359,
-            "average": 4.721037
+            "count": 4360,
+            "average": 4.721101
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5294,8 +5488,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/define-foundation-pillars/",
       "length": "PT16M",
       "ratings": {
-        "count": 1450,
-        "average": 4.7489657
+        "count": 1452,
+        "average": 4.7493114
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -5329,8 +5523,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-networking/",
       "length": "PT28M",
       "ratings": {
-        "count": 44798,
-        "average": 4.7665744
+        "count": 44799,
+        "average": 4.7665796
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -5392,221 +5586,6 @@
       "price": "Free",
       "topics": [
         "Azure"
-      ]
-    },
-    {
-      "path": "_learning/collections/microsoft-learn-ai-business-school-for-education.md",
-      "title": "AI business school for education",
-      "excerpt": "Learn to develop an AI strategy to create value in government, including artificial intelligence and machine learning technologies, culture, and responsible AI.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-ai-business-school-for-education/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-ai-business-school-for-education/",
-      "length": "PT9H42M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner",
-        "Intermediate"
-      ],
-      "topItems": [
-        {
-          "path": "_learning/courses/microsoft-learn-ai-strategy-to-create-business-value.md",
-          "title": "Define an AI strategy to create business value",
-          "excerpt": "Explore the strategic components, use cases, and special factors of an enterprise AI strategy that creates real business value, with INSEAD and Microsoft.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-ai-strategy-to-create-business-value/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-strategy-to-create-business-value/",
-          "length": "PT1H10M",
-          "ratings": {
-            "count": 2462,
-            "average": 4.6969943
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 52,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/ai-strategy-to-create-business-value-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "AI"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-ai-strategy-in-education.md",
-          "title": "Define an AI strategy to create value in education",
-          "excerpt": "Explore the strategic components, special factors, and use cases of an AI strategy in education that creates value, with INSEAD and Microsoft.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-ai-strategy-in-education/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-strategy-in-education/",
-          "length": "PT51M",
-          "ratings": {
-            "count": 568,
-            "average": 4.755282
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/ai-strategy-in-education-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "AI"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-build-an-ai-ready-culture.md",
-          "title": "Understand the importance of building an AI-ready culture",
-          "excerpt": "Understand the key elements that make a culture AI-ready and a framework to drive the change needed in your organization for a successful AI strategy.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-build-an-ai-ready-culture/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-an-ai-ready-culture/",
-          "length": "PT49M",
-          "ratings": {
-            "count": 1012,
-            "average": 4.7391305
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/build-an-ai-ready-culture-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "AI"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-foster-ai-culture-finance.md",
-          "title": "Discover how to foster an AI-ready culture in finance",
-          "excerpt": "Learn the necessary cultural changes for enterprise finance organizations to make AI transformation successful, and how they fit into a holistic AI strategy.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-foster-ai-culture-finance/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/foster-ai-ready-culture-finance/",
-          "length": "PT39M",
-          "ratings": {
-            "count": 702,
-            "average": 4.797721
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/foster-ai-ready-culture-finance-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "AI"
-          ]
-        }
-      ],
-      "size": 12,
-      "heat": 60,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/ai-strategy-to-create-business-value-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "AI"
       ]
     }
   ],

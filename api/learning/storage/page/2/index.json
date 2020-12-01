@@ -4,177 +4,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_learning/collections/microsoft-learn-azure-for-the-data-engineer.md",
-      "title": "Azure for the Data Engineer",
-      "excerpt": "This learning path guides data engineers through the evolving benefits your organization gains with Azure cloud data platform technologies.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-azure-for-the-data-engineer/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-azure-for-the-data-engineer/",
-      "length": "PT1H51M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "topItems": [
-        {
-          "path": "_learning/courses/microsoft-learn-evolving-world-of-data.md",
-          "title": "Understand the evolving world of data",
-          "excerpt": "Discover how data systems and roles are evolving and explore the differences between on-premises and cloud data solutions using sample business cases.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-evolving-world-of-data/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/evolving-world-of-data/",
-          "length": "PT28M",
-          "ratings": {
-            "count": 5181,
-            "average": 4.683652
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 53,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/data-ai/evolving-world-of-data-badge-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-survey-the-azure-data-platform.md",
-          "title": "Survey the services on the Azure Data platform",
-          "excerpt": "Explore the broad array of Azure technologies that analyze text or images and relational, nonrelational, or streaming data.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-survey-the-azure-data-platform/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/survey-the-azure-data-platform/",
-          "length": "PT58M",
-          "ratings": {
-            "count": 4712,
-            "average": 4.690577
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 54,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/data-ai/survey-the-azure-data-platform-badge-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Storage"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-data-engineering-processes.md",
-          "title": "Identify the tasks of a data engineer in a cloud-hosted architecture",
-          "excerpt": "Learn about the responsibilities of a data engineer, how they relate to the jobs of other data and AI roles, and explore common data engineering practices.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-data-engineering-processes/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-engineering-processes/",
-          "length": "PT25M",
-          "ratings": {
-            "count": 4626,
-            "average": 4.709252
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 53,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/data-ai/data-engineering-processes-badge-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure"
-          ]
-        }
-      ],
-      "size": 3,
-      "heat": 53,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/data-ai/evolving-world-of-data-badge-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Management Tools",
-        "Storage",
-        "Compute"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-chain-azure-functions-data-using-input-output-bindings.md",
       "title": "Chain Azure Functions together using input and output bindings",
       "excerpt": "In this module, we'll learn how to integrate your Azure Function with various data sources by using bindings.",
@@ -182,8 +11,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/chain-azure-functions-data-using-bindings/",
       "length": "PT1H10M",
       "ratings": {
-        "count": 2959,
-        "average": 4.578236
+        "count": 2960,
+        "average": 4.578378
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -299,8 +128,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/store-app-data-with-azure-blob-storage/",
       "length": "PT50M",
       "ratings": {
-        "count": 3207,
-        "average": 4.5912066
+        "count": 3208,
+        "average": 4.5913343
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1223,8 +1052,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/transform-data-with-azure-stream-analytics/",
           "length": "PT49M",
           "ratings": {
-            "count": 1358,
-            "average": 4.574374
+            "count": 1359,
+            "average": 4.5739512
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1526,8 +1355,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/upload-data-to-azure-data-lake-storage/",
           "length": "PT50M",
           "ratings": {
-            "count": 1700,
-            "average": 4.604706
+            "count": 1701,
+            "average": 4.6049385
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1934,6 +1763,49 @@
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/control-access-to-azure-storage-with-sas-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Storage"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-copy-blobs-from-command-line-and-code.md",
+      "title": "Copy and move blobs from one container or storage account to another from the command line and in code",
+      "excerpt": "Learn how to utilize .NET Storage Client library, AzCopy, and Azure CLI utilities to copy and move blobs between contains and storage accounts both synchronously and asynchronously.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-copy-blobs-from-command-line-and-code/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/copy-blobs-from-command-line-and-code/",
+      "length": "PT58M",
+      "ratings": {
+        "count": 157,
+        "average": 4.566879
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/copy-blobs-from-command-line-and-code-social.png",
           "width": 800,
           "height": 400,
           "isCached": true

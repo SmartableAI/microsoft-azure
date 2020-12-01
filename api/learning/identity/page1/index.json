@@ -4,42 +4,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-introduction-to-security.md",
-      "title": "Security, responsibility, and trust in Azure",
-      "excerpt": "Discuss the basic concepts for protecting your infrastructure and data when you work in the cloud. Understand what responsibilities are yours and what Azure takes care of for you.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-introduction-to-security/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-security-in-azure/",
-      "length": "PT1H16M",
-      "ratings": {
-        "count": 45991,
-        "average": 4.705464
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 158,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Identity",
-        "Security"
-      ]
-    },
-    {
       "path": "_learning/collections/microsoft-learn-manage-identity-and-access-in-azure-active-directory.md",
       "title": "Manage identity and access in Azure Active Directory",
       "excerpt": "Learn how to work with subscriptions, users, and groups by configuring Microsoft Azure Active Directory for workloads.",
@@ -89,7 +53,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 158,
+          "heat": 78,
           "content": "\r\n",
           "type": "course",
           "price": "Free",
@@ -107,8 +71,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-an-azure-account/",
           "length": "PT39M",
           "ratings": {
-            "count": 137447,
-            "average": 4.6994476
+            "count": 137451,
+            "average": 4.699442
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -142,8 +106,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-users-and-groups-in-aad/",
           "length": "PT50M",
           "ratings": {
-            "count": 3598,
-            "average": 4.68816
+            "count": 3599,
+            "average": 4.6882467
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -222,7 +186,7 @@
         }
       ],
       "size": 9,
-      "heat": 96,
+      "heat": 93,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/manage-users-and-groups-in-aad-social.png",
@@ -271,8 +235,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/",
           "length": "PT36M",
           "ratings": {
-            "count": 6189,
-            "average": 4.783325
+            "count": 6202,
+            "average": 4.7831345
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -313,8 +277,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-access-azure-identity-services/",
           "length": "PT17M",
           "ratings": {
-            "count": 475,
-            "average": 4.7873683
+            "count": 476,
+            "average": 4.787815
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -356,8 +320,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-cloud-governance-strategy-azure/",
           "length": "PT48M",
           "ratings": {
-            "count": 380,
-            "average": 4.768421
+            "count": 383,
+            "average": 4.770235
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -399,8 +363,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/examine-privacy-compliance-data-protection-standards/",
           "length": "PT27M",
           "ratings": {
-            "count": 437,
-            "average": 4.7963386
+            "count": 438,
+            "average": 4.7968035
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -451,6 +415,42 @@
         "Azure",
         "Identity",
         "Management Tools"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-introduction-to-security.md",
+      "title": "Security, responsibility, and trust in Azure",
+      "excerpt": "Discuss the basic concepts for protecting your infrastructure and data when you work in the cloud. Understand what responsibilities are yours and what Azure takes care of for you.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-introduction-to-security/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-security-in-azure/",
+      "length": "PT1H16M",
+      "ratings": {
+        "count": 45991,
+        "average": 4.705464
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 78,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Identity",
+        "Security"
       ]
     },
     {
@@ -554,8 +554,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/network-fundamentals/",
           "length": "PT47M",
           "ratings": {
-            "count": 3738,
-            "average": 4.703852
+            "count": 3739,
+            "average": 4.7039313
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -589,8 +589,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/network-fundamentals-2/",
           "length": "PT36M",
           "ratings": {
-            "count": 2733,
-            "average": 4.7003293
+            "count": 2734,
+            "average": 4.700439
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -733,8 +733,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/network-fundamentals/",
           "length": "PT47M",
           "ratings": {
-            "count": 3738,
-            "average": 4.703852
+            "count": 3739,
+            "average": 4.7039313
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -768,8 +768,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/network-fundamentals-2/",
           "length": "PT36M",
           "ratings": {
-            "count": 2733,
-            "average": 4.7003293
+            "count": 2734,
+            "average": 4.700439
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -842,8 +842,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-ad/",
           "length": "PT27M",
           "ratings": {
-            "count": 1961,
-            "average": 4.682815
+            "count": 1962,
+            "average": 4.6829767
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1103,8 +1103,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-users-and-groups-in-aad/",
           "length": "PT50M",
           "ratings": {
-            "count": 3598,
-            "average": 4.68816
+            "count": 3599,
+            "average": 4.6882467
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1146,8 +1146,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/allow-users-reset-their-password/",
           "length": "PT31M",
           "ratings": {
-            "count": 2003,
-            "average": 4.707439
+            "count": 2004,
+            "average": 4.707585
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1310,8 +1310,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-users-and-groups-in-aad/",
           "length": "PT50M",
           "ratings": {
-            "count": 3598,
-            "average": 4.68816
+            "count": 3599,
+            "average": 4.6882467
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1353,8 +1353,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/allow-users-reset-their-password/",
           "length": "PT31M",
           "ratings": {
-            "count": 2003,
-            "average": 4.707439
+            "count": 2004,
+            "average": 4.707585
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1493,7 +1493,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 158,
+          "heat": 78,
           "content": "\r\n",
           "type": "course",
           "price": "Free",
@@ -1511,8 +1511,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-security-baselines/",
           "length": "PT60M",
           "ratings": {
-            "count": 2471,
-            "average": 4.6442738
+            "count": 2472,
+            "average": 4.644013
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1688,8 +1688,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-security/",
           "length": "PT1H2M",
           "ratings": {
-            "count": 2694,
-            "average": 4.7216034
+            "count": 2695,
+            "average": 4.721336
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1732,8 +1732,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/top-5-security-items-to-consider/",
           "length": "PT45M",
           "ratings": {
-            "count": 6595,
-            "average": 4.655648
+            "count": 6596,
+            "average": 4.655549
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1767,8 +1767,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-security-baselines/",
           "length": "PT60M",
           "ratings": {
-            "count": 2471,
-            "average": 4.6442738
+            "count": 2472,
+            "average": 4.644013
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1870,8 +1870,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-access-azure-identity-services/",
       "length": "PT17M",
       "ratings": {
-        "count": 475,
-        "average": 4.7873683
+        "count": 476,
+        "average": 4.787815
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2278,8 +2278,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-performance-efficiency/",
           "length": "PT48M",
           "ratings": {
-            "count": 537,
-            "average": 4.703911
+            "count": 538,
+            "average": 4.704461
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2819,8 +2819,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-ad/",
       "length": "PT27M",
       "ratings": {
-        "count": 1961,
-        "average": 4.682815
+        "count": 1962,
+        "average": 4.6829767
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2905,8 +2905,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-users-and-groups-in-aad/",
       "length": "PT50M",
       "ratings": {
-        "count": 3598,
-        "average": 4.68816
+        "count": 3599,
+        "average": 4.6882467
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2984,8 +2984,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-security/",
       "length": "PT1H2M",
       "ratings": {
-        "count": 2694,
-        "average": 4.7216034
+        "count": 2695,
+        "average": 4.721336
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3110,8 +3110,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/allow-users-reset-their-password/",
       "length": "PT31M",
       "ratings": {
-        "count": 2003,
-        "average": 4.707439
+        "count": 2004,
+        "average": 4.707585
       },
       "provider": {
         "name": "Microsoft Learn",
