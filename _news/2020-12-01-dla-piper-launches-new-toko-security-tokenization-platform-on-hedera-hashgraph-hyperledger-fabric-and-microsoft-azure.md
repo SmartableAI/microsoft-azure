@@ -3,8 +3,8 @@ category: news
 title: "DLA Piper Launches New TOKO Security Tokenization Platform on Hedera Hashgraph, Hyperledger Fabric, and Microsoft Azure"
 excerpt: "DLA Piper Launches New TOKO Security Tokenization Platform on Hedera Hashgraph, Hyperledger Fabric, and Microsoft Azure. Nov 30, 2020 1:44 PM ET. Legal Newswire POWERED BY LAW.COM"
 publishedDateTime: 2020-11-30T17:44:00Z
-originalUrl: "https://www.law.com/legalnewswire/news.php?id=2771243"
-webUrl: "https://www.law.com/legalnewswire/news.php?id=2771243"
+originalUrl: "https://www.law.com/legalnewswire/news.php?news=cGxodGxYb0VDSGt1d0FwV1FFS1Z1dz09"
+webUrl: "https://www.law.com/legalnewswire/news.php?news=cGxodGxYb0VDSGt1d0FwV1FFS1Z1dz09"
 type: article
 quality: 30
 heat: -1
@@ -51,6 +51,6 @@ related:
         height: 627
         isCached: true
 
-secured: "J1jrFDOH74TAQvhEoSkrbnNnc3qHkoMoZ+CL8FxvJFGRMq9Uy00O0SMkGVK8VvadmbvX99T9XWl9uqI7niAXuYiVHq9P4IuyaBpZ0N9Dk/kH9V104ivDzccVvjkFS9Y7Lr+NUaqFKjWfBz0pfq2sTWfEfJ072cqjBPcd5OimBRLqP+P+IyBfvqAcW1UlLUXcBqfAbmESaLX7PE7KcntDgEqJGTzpl0VS3gZQDnleVdtus2YDATk3VcrFz6K/MnmbJ0PfuprQxYe4PkKw9JuxC4Jz6uexbZL+W7pj7sErD8nT+E2cKyKCwbOmXzUTm4dky+NJLSzjWMfHQkL07sst3FFVuPUFom69SQqa80QRy+k=;Vo9IFwwG8zJ1QJAWGn9xow=="
+secured: "pSvY4OYdhKJEM3CQBXx7kI+wKfOOEqscx3n+xes2H4hRvmwFcxwe8Jzs8QDjyUl7a732jvQq7R7TDuvtNfvP6Fx1ykYgZkhpBWNi8zQMPM1G653u82dniwMfOa+fqZgM3YLkrrHg1oIPWv74KXVtE5vC5DY+nuH+KfwAdFDuqBJVsEgSoqKXauT5TSJEdvPEOvDVFQ1o2KltUlLigve62YBZxgJor4mkf08CSX4MrHqfGTaNQFOa9vn8yM+gr6Cfi8Rp4QL3OE748jwtj25bL9S1U0aYalQW9sSfYPvYbY5C9HNsvFpS9mYJC5Cwp3HpkqxlfX4o0b62BVgpYVPTU0O7bt8kWE+a0++ttlhX5Bc=;UYlUVH2rA7clRWkKRBkG2g=="
 ---
 
