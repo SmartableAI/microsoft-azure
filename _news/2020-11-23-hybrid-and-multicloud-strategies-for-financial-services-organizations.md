@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/hybrid-and-multicloud-strategies-
 webUrl: "https://azure.microsoft.com/blog/hybrid-and-multicloud-strategies-for-financial-services-organizations/"
 type: article
 quality: 72
-heat: 73
+heat: 74
 published: true
 
 provider:

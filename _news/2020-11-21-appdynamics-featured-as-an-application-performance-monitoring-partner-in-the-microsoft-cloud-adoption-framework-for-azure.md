@@ -97,6 +97,20 @@ related:
         width: 600
         height: 314
         isCached: true
+  - title: "Microsoft Reveals Culture of Innovation Fuels Business Resilience and Economic Recovery in Indonesia at the 2020 Microsoft Cloud Innovation Summit"
+    excerpt: "The COVID-19 pandemic has shown that no business is 100 percent resilient, but an organization that is strengthened by digital technology will become tougher and more capable of transformation when faced with mass structural change."
+    publishedDateTime: 2020-12-01T08:35:00Z
+    webUrl: "https://news.microsoft.com/id-id/2020/12/01/microsoft-reveals-culture-of-innovation-fuels-business-resilience-and-economic-recovery-in-indonesia-at-the-2020-microsoft-cloud-innovation-summit/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 0
+    images:
+      - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/454/2020/12/coi-summary-lead-image-1-768x512.jpg"
+        width: 768
+        height: 512
+        isCached: true
 
 secured: "9TPtWBgqNpBdgQ65/OjlrEoGwDghnpYLv0cCz2VhOBD12paT8FN960A/ohetO7eyCKRnw1PMW2FnEB3V0Xifb7codL9TAxsI1nQys6IYIbwkpb9DiWQtvI+2cCdsbKglNerqaZm15Blln6dE1HxaI7XktbseQAvWw0HDbV7juV+ksxYKlxMFBYGBrb0S/t7/m3KVW4N7PiqYE0tYiWoL6ukdkQ8sWsF3civ3srOqN6r3Je7xkpUPq5z+QTBQhowj/iRMDGkUUfEjxK6UpQbl3TgmVsdn1xL8kA6QVBu7tZkDlj27clHSaKt02tcpka+y9aaJ9Fvct908VOndl5n5FtUBPN95jHAS3CanwMES0Y4=;/3gmo5phw/0ot3zNnTGXoQ=="
 ---
