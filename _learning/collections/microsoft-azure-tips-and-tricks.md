@@ -2,7 +2,7 @@
 title: "Azure Tips and Tricks"
 excerpt: ""
 type: collection
-heat: 62
+heat: 99
 
 provider:
   name: Microsoft
@@ -13,6 +13,7 @@ provider:
       height: 50
 
 items:
+  - videos/microsoft-discovering-the-azure-architecture-center-azure-tips-and-tricks
   - videos/microsoft-how-to-work-with-azure-cosmos-db-with-powershell-azure-tips-and-tricks
   - videos/microsoft-what-database-you-should-use-in-your-next-azure-functions-app-azure-tips-and-tricks
   - videos/microsoft-5-things-you-didnt-know-about-azure-kubernetes-service-azure-tips-and-tricks
@@ -156,7 +157,7 @@ topics:
   - Azure
 
 images:
-  - url: https://i.ytimg.com/vi/xzBhbq--4UU/maxresdefault.jpg
+  - url: https://i.ytimg.com/vi/AhAz3BcXy0A/maxresdefault.jpg
     width: 1280
     height: 720
     isCached: true
