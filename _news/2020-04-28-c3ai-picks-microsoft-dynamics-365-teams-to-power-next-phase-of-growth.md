@@ -219,22 +219,6 @@ related:
         width: 300
         height: 300
         isCached: true
-  - title: "Red Box Delivers Cloud Configurable Voice Recording to Fuel AI on Microsoft Azure"
-    excerpt: "It combines the power of Conversa audio processing in Microsoft Azure and Microsoft AI, with seamless support of both cloud and premise-based telephony aligned with frictionless zero touch ..."
-    publishedDateTime: 2020-11-20T13:39:00Z
-    webUrl: "https://www.asiaone.com/business/red-box-delivers-cloud-configurable-voice-recording-fuel-ai-microsoft-azure"
-    ampWebUrl: "https://www.asiaone.com/business/red-box-delivers-cloud-configurable-voice-recording-fuel-ai-microsoft-azure?amp"
-    cdnAmpWebUrl: "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/red-box-delivers-cloud-configurable-voice-recording-fuel-ai-microsoft-azure?amp"
-    type: article
-    provider:
-      name: Asia One
-      domain: asiaone.com
-    quality: 69
-    images:
-      - url: "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Nov2020/pr-newswire_500_4_1150.jpg?itok=ofPGFTnm"
-        width: 763
-        height: 509
-        isCached: true
   - title: "Lenovo Teams With Microsoft Azure At The Edge"
     excerpt: "The new offerings are tied closely to Microsoft’s Azure software stack for enterprises operating in a hybrid cloud model, with a presence both on-premises and in the cloud. Microsoft actually pre-announced the new ThinkAgile MX1021 at its Ignite 2019 ..."
     publishedDateTime: 2020-03-31T15:36:00Z
@@ -448,6 +432,15 @@ related:
         width: 300
         height: 300
         isCached: true
+  - title: "Red Box Delivers Cloud Configurable Voice Recording to Fuel AI on Microsoft Azure"
+    excerpt: "It combines the power of Conversa audio processing in Microsoft Azure and Microsoft AI, with seamless support of both cloud and premise-based telephony aligned with frictionless zero touch ..."
+    publishedDateTime: 2020-11-20T13:04:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2020-11/51302890-red-box-delivers-cloud-configurable-voice-recording-to-fuel-ai-on-microsoft-azure-008.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 29
   - title: "Microsoft Announces the General Availability of Immersive Reader Service on the Azure AI Platform"
     excerpt: "Immersive Reader, which is a part of the Cognitive Services suite within the Microsoft Azure AI Platform provides help for readers to read and comprehend text. In a recent blog, Microsoft announced the general availability of the service."
     publishedDateTime: 2020-09-07T11:19:00Z
