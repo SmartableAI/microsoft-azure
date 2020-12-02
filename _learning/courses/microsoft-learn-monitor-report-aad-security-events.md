@@ -8,7 +8,7 @@ length: PT35M
 ratings:
   count: 216
   average: 4.6203704
-heat: 52
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -34,6 +34,6 @@ images:
     height: 400
     isCached: true
 
-secured: "YWM3YS7a/uak1eEQ6NyJXs4fkPKKyTh2lLdcGLeDzwOGsoJ4vzOPed2H6+6BCld4hZ6D7kYvMZ3ORQGuZrNaiBnqmF8YoOXlD5LwClhrXU8+xWJ5+2Efy8v1s3fqT53TcaxlmK7tWPi2L3kLwg1Jsg4t1Q0YfsSPN/eNxWy0E+eCEidn7L4MnrKpqWBn8WnUUfNGID8Tdre/PZwlMTTcJdX2RjDVmtWidSK/kZWbfwhXzN7lYriKHLMHVzNlPkieI4rMtUyMhhdtQL6Yf7fienPdyADepjWIaW9JKOuQVfbRqx25KHzEBSwEDERd0eCMHBc3k6awGJuYTSx3N3Uq3847bCHkm/XKN51s8kgcram8I/qaY+z01W/1hRUzWMytZOpxImwYiBEoPlJeo4hd50OziZkGBdBF/QKCzTILiR8=;Ey0xPe1MvhTYlUZv5MWDPQ=="
+secured: "gyMVJvl9I3/XkdGhGdhm+1gfk5Iav9+3kHx5MWzv0fu5KyS+hjjzJqQEMAromy3V5eylVqCq65ej4qbqQTs8YFixeVfIVADl4Tg8eGqIRkWDeT+HJqjE6HBLharHFPJCDZyCsgd3vjf0vtloXe0pU5VE+MjVY9PHZzVLvAbF2dF00DAXdxinReERp+sZki/p9R6UGIdOXJ7I2mVzjbswTNMT6SJicAJ3AhAzvwfEgWKFTb1OjZeFhoPbEiBKhiFdwAYU8zoYYyDB3oNkhv2yXF59hivBKgjW34YFFktjKRaICBnICl4jv/n/tS2hSYE/tzB0R10nGq6arMA0FSSMkCLkqOToft9sjZkzYL7iHSMklODsV/EdW3eTbecY+ytAzZ1Vw4Hpw7yPcottykUma4tAUipSFDlDYfNgzWibzTs=;cjMNvyiQ3KAieiB0xIqk9w=="
 ---
 

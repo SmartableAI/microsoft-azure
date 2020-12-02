@@ -6,8 +6,8 @@ type: course
 price: Free
 length: PT58M
 ratings:
-  count: 2648
-  average: 4.643127
+  count: 2649
+  average: 4.6432614
 heat: 52
 
 provider:
@@ -26,6 +26,6 @@ topics:
   - Databases
   - Management Tools
 
-secured: "EeiUtJuLcyAVFKKVZmvqgkbf0rX1SiPtFIZMJbhVr13w9YgpxZ40zYXB95KJF1yGEuuWFpQvvajh5THdd6vJitelC/vGCouKhBXHAhi7jJnuKNvw04Lj+mrSvP4c78sixWZoAwszPNy18/MjRA1N3YBkr/LhJqSOjjMOdK4K+Q+JS0Y0cbfmivCAcBJ3qOxuS6oYkR2zebZlMEJ8ZUb9MO+LfZrs30gTEshTo8Yz/ErrfDYmfhSyVxHe2gM+V0eZkqPcOTwb/MJzG4bH8WRQCwaEkfNC7iZlOCnWd9KI+letoudhjkFF6ZvbWRLJHHuNUqOj3LegpV7WeU0wNa4ihbVzferdgRCIj9fomxcFD0FZBpgTQpZBXXyJERLitQHmX+DbJwi1CHWb02gXhzF+//Yckw6y+pYRWeYHk3gvHBs=;kda7mzbU5KXTwPr8Hr6t5A=="
+secured: "VYVQAO+3SBF6dhIMVZVSNMURRqjKcZrq06/MbmDgSO/p5ae3eVY2bWkD8+lgwz6htub7fPF7okmMWoBDOmh85acB6RsySDlMdDnjZLbEL4BKkanhPMWVfsInQk77icOo0gDamzhQVfnsGXw27nbUTRAPPytlXmGI6q7Y8wtqIEW6VhL9ExHBOOCJTybqJYDSf3u5ovNOhodVVcH7dex7EB8WafSO86m3MGq4EueJmi8jDnoJiCQWsnlElgZeARrw+FXQ96d5SEhv2dInni+riReKGb4ulBpb7rfG417jQ+dGmgMzKAgyaLflmqxKqJW3HJz+nJ9sfMsPjaiuf3ImZzx3ZwRq9oL/XRlxwTMtMbzVtDYU/65KuPt3IHlHi0F/2m/EayhhV/k67qRdSkT689XcvnYBXpcFmJLjXP6Z4Hg=;ZUruayd/F1pFgg1vH6077w=="
 ---
 

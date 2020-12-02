@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT2M31S
 publishedDateTime: 2019-09-05T15:02:10Z
-heat: 53
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/kAAnneSMs2E\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -27,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "9N2S3mckUS1u7u0XehD5/wam5qNKS5VQHEFOiE3efaQw57GzcQR4qdPUBmXztqdSBDuk4gU1GjANXU/atdprloOt9pGJnIUSh2E5EjhG9m7Deo9ZbKOCY2CkJqRols0FdcYuoER60WDoGF+91Ki5raeLlp2snUKkjjLm4Sn1pwbNndIgP3afKutFFrZo2750jRyyFm3fDCezdvSfKRUaqFaRnVlzWSZ/DQt5fyBvwnqlhB1qHtnihgiUG0/ZvRAM1aWzcBiNS/Mx8YMrCmeYr/iYo8QsTWKqh5pcH3c7XmPfOKWzZAPC6zu5nbwqfrLkWSugeT7b1cGCcdB+aN4fOQsQBZoQqbSdoKVZbNsc0HWYcSh+nFmsmKWRCNJ4CS9yUh9S7zN20GAHO7LFC79/3ZQ6rhf/yRW/nEGiHL3FJ4s=;9qQ73AAiGB4iO73JuJCxHw=="
+secured: "wl1vsI+Du0NRDSAaAgro+DM77GouLz5LX4OfZ6Z9Zvzje5HKdZ9CY3NgIitKmeFNJ72bYEuu1i4Lygew/HI8yBXaiW+VxGDpapYS/72adKaSw/d62ZNyp/YqPiKEmydSkX515XFqWctYRh2zymq0WtHpCuooYRy9UFgH3ZYku+zOUaGS/FHLVwUOluycpTq+DeG4oAsijKQHQLRDrxNHpUrlv053zwc5/mjKnosY4e74MJee2y+KBbJjSo/SHh2WmJ5GOHQDc1NLTpXV5eIyXn6lVCjQAD84W+YV4joZJRRMHE04TRRZl1pZvjwPnF3YoHWXrQ0LknsFa3BbbOTi7GvXNqrrmAekVXSnHkek9ob7CncR5QIeo1Ab/d5XrWJukaLaq3Sv77UPoFglReqr5U1g0s9G4z2mC23eS5UU5gE=;RAPuaFrRHhkQujggSBGgMA=="
 ---
 

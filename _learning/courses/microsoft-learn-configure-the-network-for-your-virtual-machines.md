@@ -8,7 +8,7 @@ length: PT1H34M
 ratings:
   count: 3916
   average: 4.55618
-heat: 51
+heat: 53
 
 provider:
   name: Microsoft Learn
@@ -26,6 +26,6 @@ topics:
   - Compute
   - Networking
 
-secured: "7YDzoFDRydEvnVLXg1WTNslu+t4RIZdgUoyvcwz9dpxiPyG6rdH5URE8sEsb4Vodqk+vkOWYoyubx5Wqn7thLzEi/tTwuoy8ZqENl/gs9RCpnNtiiwWfOZO4CrVNxjr6jyGg4dCJTUKInO5xAOC6nwq+o8SYbFkfpebyJVPeMPdBjRp+RV9HpCOmigEk/zDj5SeaCPLKjuqbZVYKvQ+6Xf4G23wk6EDDl9SqQMeXI8rb5rPCJvd36mU0tRLsV9HCgweo1yWjGLatGRFooGIPz1D/384MCPeBecPy3NnEb/XjBK19WgpOf4dSg6VIogpg638hDjtL+6FjBe4KEEpCh5XhWp/aadwq2ARXmL6Ll8E9qyX2ZHHWBqbnC631DREiAZRAKbM3Bo0T8Fss0P8fzUVJXS8lDvb6ZwLlObBY2XE=;N71v98UF7ldWo5rOJqXm9A=="
+secured: "jTHXqOQJVWinq6xp2v+mSeP/bFIY0w3l3suvTsrHKqkCGC3MLHOALz5Fi9xHpGag+oRT13Dal3CcDH41oh/swOK3x/rt+RXpLecpLU1VpyAnGztoYHEEtKImc2sY2JtPsYNUK6yJJfQuS/IjpFJEfcKAdKg7HWTUOgzqDGmOU105OSaBKv1DcogjHAW0+PDovGUX0IlbKvFaunSPcv9FrXU7uNo46ml9iCom0Wz7J0LK6/LA9WnadVDC2uVari8DIu6LKiAazLkesWQc8TL0HT70ZJ8POJ9dgDogIH2vF/FtshSCxqXoZD51UMeJ4F2MWdux5Bwfp2zGm4hy2beaHHURuSXqViCfXeWq+vKkwKWt6tJ2Bp9/8SiOB9mvPTuY0C6rE/eoElDhRw0eJg8sQNGjX4rN7HClRlloIoMAx+A=;0wKNYJW4fuIbpwCFJMfsYQ=="
 ---
 
