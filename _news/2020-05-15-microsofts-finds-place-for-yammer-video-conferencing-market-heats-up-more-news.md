@@ -1349,6 +1349,20 @@ related:
         width: 300
         height: 300
         isCached: true
+  - title: "Modern VDI Solutions with Microsoft Azure"
+    excerpt: "But there’s good news: Modern VDI Solutions with Microsoft Azure, focused on Windows Virtual Desktop (WVD). Join experts from Zones as they define VDI (a technology suite used to create a ..."
+    publishedDateTime: 2020-11-30T18:55:00Z
+    webUrl: "https://www.csoonline.com/resources/211308/modern-vdi-solutions-with-microsoft-azure"
+    type: article
+    provider:
+      name: CSOonline
+      domain: csoonline.com
+    quality: 37
+    images:
+      - url: "https://idge.staticworld.net/cso/CSO_logo_300x300.png"
+        width: 300
+        height: 300
+        isCached: true
   - title: "RateLinx completes migration to Microsoft Azure to better serve customers"
     excerpt: "MADISON, WI (May 21, 2020) – RateLinx announced today the completion of the migration to the Microsoft Azure cloud computing platform. The migration will enable more capabilities within the RateLinx suite of cloud-based logistics solutions, in addition ..."
     publishedDateTime: 2020-05-21T23:34:00Z

@@ -1331,6 +1331,20 @@ related:
         width: 300
         height: 300
         isCached: true
+  - title: "Modern VDI Solutions with Microsoft Azure"
+    excerpt: "But there’s good news: Modern VDI Solutions with Microsoft Azure, focused on Windows Virtual Desktop (WVD). Join experts from Zones as they define VDI (a technology suite used to create a ..."
+    publishedDateTime: 2020-11-30T18:55:00Z
+    webUrl: "https://www.csoonline.com/resources/211308/modern-vdi-solutions-with-microsoft-azure"
+    type: article
+    provider:
+      name: CSOonline
+      domain: csoonline.com
+    quality: 37
+    images:
+      - url: "https://idge.staticworld.net/cso/CSO_logo_300x300.png"
+        width: 300
+        height: 300
+        isCached: true
   - title: "Microsoft's Finds Place For Yammer, Video Conferencing Market Heats Up & More News"
     excerpt: "When Microsoft introduced Teams in March 2017, creating another communication tool at the heart of Office 365 running in tandem with Yammer, it really put a question mark over the role and purpose of the app."
     publishedDateTime: 2020-05-15T13:01:00Z

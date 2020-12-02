@@ -39,6 +39,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 99
+  - title: "Azure Security Center—News and updates for November 2020"
+    excerpt: "New enhancements and updates made to Azure Security Center in November 2020."
+    publishedDateTime: 2020-12-02T00:00:12Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/asc-november2020/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 99
   - title: "Azure Security Center—News and updates for July 2020"
     excerpt: "New enhancements and updates were made to Azure Security Center in July 2020."
     publishedDateTime: 2020-08-04T16:00:33Z

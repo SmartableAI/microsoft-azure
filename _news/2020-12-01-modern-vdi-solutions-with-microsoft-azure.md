@@ -1,24 +1,24 @@
 ---
 category: news
 title: "Modern VDI Solutions with Microsoft Azure"
-excerpt: "Computerworld covers a range of technology topics, with a focus on these core areas of IT: Windows, Mobile, Apple/enterprise, Office and productivity suites, collaboration, web browsers and blockchain,"
-publishedDateTime: 2020-11-29T21:00:00Z
-originalUrl: "https://www.computerworld.com/resources/211308/modern-vdi-solutions-with-microsoft-azure"
-webUrl: "https://www.computerworld.com/resources/211308/modern-vdi-solutions-with-microsoft-azure"
+excerpt: "But there’s good news: Modern VDI Solutions with Microsoft Azure, focused on Windows Virtual Desktop (WVD). Join experts from Zones as they define VDI (a technology suite used to create a ..."
+publishedDateTime: 2020-11-30T18:55:00Z
+originalUrl: "https://www.csoonline.com/resources/211308/modern-vdi-solutions-with-microsoft-azure"
+webUrl: "https://www.csoonline.com/resources/211308/modern-vdi-solutions-with-microsoft-azure"
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Computerworld
-  domain: computerworld.com
+  name: CSOonline
+  domain: csoonline.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://idge.staticworld.net/ctw/computerworld-logo300x300.png"
+  - url: "https://idge.staticworld.net/cso/CSO_logo_300x300.png"
     width: 300
     height: 300
     isCached: true
@@ -1334,16 +1334,16 @@ related:
         height: 450
         isCached: true
   - title: "Modern VDI Solutions with Microsoft Azure"
-    excerpt: "But there’s good news: Modern VDI Solutions with Microsoft Azure, focused on Windows Virtual Desktop (WVD). Join experts from Zones as they define VDI (a technology suite used to create a ..."
-    publishedDateTime: 2020-11-30T18:55:00Z
-    webUrl: "https://www.csoonline.com/resources/211308/modern-vdi-solutions-with-microsoft-azure"
+    excerpt: "Computerworld covers a range of technology topics, with a focus on these core areas of IT: Windows, Mobile, Apple/enterprise, Office and productivity suites, collaboration, web browsers and blockchain,"
+    publishedDateTime: 2020-11-29T21:00:00Z
+    webUrl: "https://www.computerworld.com/resources/211308/modern-vdi-solutions-with-microsoft-azure"
     type: article
     provider:
-      name: CSOonline
-      domain: csoonline.com
+      name: Computerworld
+      domain: computerworld.com
     quality: 37
     images:
-      - url: "https://idge.staticworld.net/cso/CSO_logo_300x300.png"
+      - url: "https://idge.staticworld.net/ctw/computerworld-logo300x300.png"
         width: 300
         height: 300
         isCached: true
@@ -1945,6 +1945,6 @@ related:
       domain: pr.com
     quality: 0
 
-secured: "K4OAHLB8jg3yj2BLfFrck7Rz6hFGev6RjFBgs2ScRaJqhqOIEF1ifYa9ZBBa0aUBLgM3t99SoWobPTzHQJ6p+h50Ct65CYqJNsOak8lo5DPnfIOA83JNA55R1I2P7BjD4n36TytUl5gLF/D6YYp3lXW18TZtnFL+4+yfRl4qraYaoKkI4dH6KM28vyP7/dQPh/k4gpEF0xiVMwS2z+xnU6s1f9ObUJnw0nL8Wu5kfL5ZY9j6IZDwWqQvU9sLq/EghSrEvbm4+d7DPuenwW6VU16unHLBOo3pjeoDMHeS/AsXtuj5tV8sHsBkXXFLiezEt1MKAQBpepvsRCsqJZHgojQ+S1BQuVhFQ3DTtN5HVig=;NUMlQPnBYKke5rKdFrPkVA=="
+secured: "7I15I1iWJZy4Q7BX9+QjvVwpzVsLLoqwD56WEsimy5HVQHwLr/Nl0mOKbZrCQZJ+bMB2D0jKwbKSn2heeCmdtM8TewWfRs/ZHm6YUERsmyjCnzz0PuVUuryVJc5Yx3yzzA5iullx/w91fFRxqoF4BYSqVpIbqzMYUjL4Q5aPe08VRmJp9GJQE7RqBfm1qOwilHC0rZl8iW5OJgzLj12bmS3+BGqZnzZbOzRgMZPRJAobBaFkaImiy8R5pPitTk3UTXq6OoRyvNmL/A51spvj/9JhXVVhzqveOZH9lnfoXIlATrBsWkXZ/LQ+/o8l1glJQUKDAms4f6sPaB3Jfd4T/3EBZUxOWbDOJJcDfftRalk=;SkFFH2lCpNHMcfUfmzk5Ag=="
 ---
 
