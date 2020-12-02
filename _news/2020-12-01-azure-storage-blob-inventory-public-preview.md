@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/azure-storage-blob-inven
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-storage-blob-inventory-public-preview/"
 type: article
 quality: 99
-heat: 120
+heat: 140
 published: true
 
 provider:
@@ -23,6 +23,15 @@ topics:
   - Storage
 
 related:
+  - title: "Azure Monitor for Windows Virtual Desktop in public preview"
+    excerpt: "Azure Monitor for Windows Virtual Desktop is a new capability that provides a centralized monitoring view to help you identify and troubleshoot issues with Windows Virtual Desktop."
+    publishedDateTime: 2020-12-02T17:00:21Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-monitor-for-windows-virtual-desktop-public-preview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
   - title: "New feature in public preview for intelligent ingestion from Event Hubs source"
     excerpt: "New ingestion feature intelligently suggests relevant table schema and mapping definitions to Event Hubs source"
     publishedDateTime: 2020-11-30T19:00:07Z

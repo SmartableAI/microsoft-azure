@@ -57,6 +57,20 @@ related:
         width: 737
         height: 768
         isCached: true
+  - title: "Microsoft named a Leader in Gartner’s 2020 Magic Quadrant for Cloud DBMS Platforms"
+    excerpt: "We would like to share that Microsoft has been named a Leader in the 2020 Gartner Magic Quadrant for Cloud Database Management Systems."
+    publishedDateTime: 2020-12-02T10:00:10Z
+    webUrl: "https://azure.microsoft.com/blog/microsoft-named-a-leader-in-gartner-s-2020-magic-quadrant-for-cloud-dbms-platforms/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 68
+    images:
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/25604ede-d66b-4fb6-af9e-e68d3eab39ca.png"
+        width: 748
+        height: 768
+        isCached: true
   - title: "Komprise addresses demand for file data management in the cloud with new capabilities for Microsoft Azure Files and Azure NetApp Files"
     excerpt: "PRNewswire/ -- Komprise, the leader in analytics-driven data management, today announced new capabilities for its Komprise Intelligent Data"
     publishedDateTime: 2020-10-06T13:00:00Z
