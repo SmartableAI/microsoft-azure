@@ -31,6 +31,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 84
+  - title: "Azure Sphere OS version 20.12 is now available for evaluation"
+    excerpt: "The 20.12 release includes enhancements and bug fixes in the Azure Sphere OS. It does not include an updated SDK."
+    publishedDateTime: 2020-12-02T22:22:08Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-sphere-os-version-2012-is-now-available-for-evaluation/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
   - title: "Azure Sphere update 20.04 is now available"
     excerpt: ""
     publishedDateTime: 2020-05-05T17:00:14Z

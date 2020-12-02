@@ -7,8 +7,8 @@ originalUrl: "https://www.cnbc.com/video/2020/11/20/microsofts-azure-cloud-remai
 webUrl: "https://www.cnbc.com/video/2020/11/20/microsofts-azure-cloud-remains-in-a-good-position-going-into-the-holiday-season-jefferies-analyst.html"
 type: article
 quality: 63
-heat: 83
-published: true
+heat: 63
+published: false
 
 provider:
   name: CNBC
@@ -26,22 +26,6 @@ images:
     width: 1920
     height: 1080
     isCached: true
-
-related:
-  - title: "AppDynamics Featured as an Application Performance Monitoring Partner in the Microsoft Cloud Adoption Framework for Azure"
-    excerpt: "AppDynamics, a part of Cisco and the world’s #1 APM solution and full-stack, business-centric observability platform, today announced its listing on Microsoft’s Cloud Adoption Framework (CAF) for Azure customers."
-    publishedDateTime: 2020-11-20T17:43:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-products-and-services-lung-disease-ef8f6ef9ccc84b9fbffef39c53634b8e"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 12
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "aRfZPYFhhExqz0C2VmC3Kwb9AiV9YQICwomAHdUQHdk3KT7MG4F1JFXmk2GHwDaDHMy221L/qN4dmh/lkEpvUGu2iyguwM1SuOP9tnJlFNww5+omvN90/VdiRdEiCVcT12mUb4KepyOUbg/bwabrIr92lbNPSeGOuSDk8Uw+hkP0R7j42TYJP2YxGQhPNYg49ULobkf8VGmfxY6ilE8drzEud5AV6T29jAJ2ZF/yMSQlbajFubAVTnw+AvYnwatBApg5IDh/TsCSFWuqt//TuMJj9GoCa0i9CVIdp9PORnFu/2Zcv/xC/C6/quJeuuOW+z01riQcZogMMmkMshhpWWZh3NHpkNBYk71NmavCuPw3K+jAvbaOGs18oHUjTxPEMF/D7Skusq4OYz210qRgXfcMSsDQQXO+AG9x4wPAlIkFRa9DlMOCmVB/lpA+HUVMN0NfdaLb5CsoGnvjVNgR4cfgEbL99NQHY/DqksuDNE5fMrOqFthyHG46N33u85ynmi1qoipAwX6DFb1C/ZUVHQ==;M3pZ+eOfEP/v8udTEKbcdQ=="
 ---

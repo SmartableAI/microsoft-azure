@@ -6,7 +6,7 @@ publishedDateTime: 2020-04-15T11:11:00Z
 webUrl: "https://www.marketwatch.com/press-release/qore-technologies-free-3months-usage-plan-for-qorus-integration-engine-now-available-in-the-microsoft-azure-marketplace-2020-04-15"
 type: article
 quality: 52
-heat: 92
+heat: 72
 published: true
 
 provider:
@@ -28,20 +28,6 @@ images:
     title: "Qore Technologies' Free 3Months Usage Plan for Qorus Integration Engine Now Available in the Microsoft Azure Marketplace"
 
 related:
-  - title: "GAVS Technologies: Zero Incident Framework (ZIF) Now Available in the Microsoft Azure Marketplace"
-    excerpt: "Microsoft Azure customers worldwide now gain access to ZIF to take advantage of the scalability, reliability and agility of Azure to drive application development and shape business strategies PRINCET"
-    publishedDateTime: 2020-06-23T04:20:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2020-06/49985840-gavs-technologies-zero-incident-framework-zif-now-available-in-the-microsoft-azure-marketplace-200.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 24
-    images:
-      - url: "https://www.accesswire.com/users/newswire/images/594875/image-20200623114459-1.jpeg"
-        width: 1223
-        height: 476
-        isCached: true
   - title: "Microsoft Azure holds free 'virtual hackathon' for professionals in Asia to develop helpful technologies"
     excerpt: "Microsoft, Grab and the United Nations Development Programme ... Through this activity, teams can collaborate online and use Azure technologies \"like computer vision and natural language processing to create innovative and transformative solutions.\""
     publishedDateTime: 2020-04-13T18:08:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/azure-sphere-sdk-version
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-sphere-sdk-version-2011-is-now-available/"
 type: article
 quality: 84
-heat: 144
+heat: 164
 published: true
 
 provider:
@@ -27,6 +27,15 @@ related:
     excerpt: "The Azure Sphere 20.08 OS quality release is now available in the Retail feed. This update includes enhancements and bug fixes in the Azure Sphere OS including a security update that represents a critical update to the OS. "
     publishedDateTime: 2020-08-20T20:00:07Z
     webUrl: "https://azure.microsoft.com/en-us/updates/azure-sphere-os-version-2008-is-now-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
+  - title: "Azure Sphere OS version 20.12 is now available for evaluation"
+    excerpt: "The 20.12 release includes enhancements and bug fixes in the Azure Sphere OS. It does not include an updated SDK."
+    publishedDateTime: 2020-12-02T22:22:08Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-sphere-os-version-2012-is-now-available-for-evaluation/"
     type: article
     provider:
       name: Microsoft
