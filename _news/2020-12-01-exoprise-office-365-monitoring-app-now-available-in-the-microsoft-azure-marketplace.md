@@ -9,7 +9,7 @@ ampWebUrl: "https://markets.businessinsider.com/amp/news/exoprise-office-365-mon
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/exoprise-office-365-monitoring-app-now-available-in-the-microsoft-azure-marketplace-1029854465"
 type: article
 quality: 71
-heat: 111
+heat: 131
 published: true
 
 provider:
@@ -48,6 +48,20 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Cyber Security Cloud WafCharm now available on Microsoft Azure"
+    excerpt: "Cyber Security Cloud announces the availability of WafCharm on Microsoft Azure, providing AI operation of WAF rules."
+    publishedDateTime: 2020-12-02T01:18:00Z
+    webUrl: "https://www.helpnetsecurity.com/2020/12/02/cyber-security-cloud-wafcharm/"
+    type: article
+    provider:
+      name: Help Net Security
+      domain: helpnetsecurity.com
+    quality: 54
+    images:
+      - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/11/02114007/help_net_security.jpg"
+        width: 1200
+        height: 627
         isCached: true
 
 secured: "ntMsozOfHSa5IV5Aq5sXU8gSWc7e0dcXlf8C25aPoQ9ATbkenX3o7TDlcyRgFFRsCKi2+9HsSvdnuDcxTA2X0usqsRsaaaC0E0F7/xidJ6chefzARxPiWfof7kMBMutMgpLasuV4SMUaCGMpKzUBQSN5Q2tucfSVQYl6JjLGzcEZFnYxnblD032tCLtYv/+PJdit/YMjtpkudFbTl97BCIOk+xd6NYBUVINzjIEY3wILOJ3hWLBjJZfHysVOgYSh989pgLbpiDBXThCScqMw/uKR6emjJsFKEi39lTUzzofVPgGazmOnYaQcp/rx4INV0rexm5OtSCpZL+hc1L/BWqCm3+d9w3bZEikF/W+SEZU=;hRNtJy0anM67dYGztuG7dg=="

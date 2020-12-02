@@ -49,6 +49,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Cyber Security Cloud WafCharm now available on Microsoft Azure"
+    excerpt: "Cyber Security Cloud announces the availability of WafCharm on Microsoft Azure, providing AI operation of WAF rules."
+    publishedDateTime: 2020-12-02T01:18:00Z
+    webUrl: "https://www.helpnetsecurity.com/2020/12/02/cyber-security-cloud-wafcharm/"
+    type: article
+    provider:
+      name: Help Net Security
+      domain: helpnetsecurity.com
+    quality: 54
+    images:
+      - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/11/02114007/help_net_security.jpg"
+        width: 1200
+        height: 627
+        isCached: true
 
 secured: "JyP4FTqPuc0PTeVmRefckY104tZHGomT6KZZKsvGCaOmId2OHhy8ZFmvJKc6oVMTG/4GATBCcNeBFihDu6v7P/kqLHWOrv7cJzoEPRjkGdAICbJd7DeJ0zJJIVkQXzC2J4+PKSZUUObP4z5s8ZYTBHkqT/VWpXs2oFrpG0zHQLCr1cjRASp+opwIsCwkl4rfbH3yTbAqB3WxmdSgsG9B09w/AL6Gvfn6HnTXx/qejFtHntO63zdKkxNhgtNCWQmOXRLKMaa41WQnfE8HaS4zQAg511uizooxrrsO4gxfWZwqCXWwrY8WoFqB34vW8aSlPtEeyOvZ8jwWX9LT9CwQimIdoM+0iI79DHQxSKBq4hY=;phyPl5k9RB05Q2exl1ldYw=="
 ---
