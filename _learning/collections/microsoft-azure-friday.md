@@ -2,7 +2,7 @@
 title: "Azure Friday"
 excerpt: "Join Scott Hanselman, Donovan Brown, and Lara Rubbelke as they host the engineers who build & use Azure, demo it, answer questions, and share insights."
 type: collection
-heat: 352
+heat: 363
 
 provider:
   name: Microsoft
@@ -13,6 +13,8 @@ provider:
       height: 50
 
 items:
+  - videos/microsoft-migrate-and-modernize-your-net-applications-on-azure-azure-friday
+  - videos/microsoft-code-to-cloud-with-vs-code-and-docker-azure-friday
   - videos/microsoft-implement-serverless-apis-with-azure-functions-and-azure-api-management-azure-friday
   - videos/microsoft-build-serverless-apis-with-azure-functions-azure-friday
   - videos/microsoft-introducing-flexible-server-in-azure-database-for-postgresql-mysql-azure-friday
@@ -300,7 +302,7 @@ topics:
   - Azure
 
 images:
-  - url: https://i.ytimg.com/vi/4fPRxveXGXw/maxresdefault.jpg
+  - url: https://i.ytimg.com/vi/qhrEPvZgFMQ/maxresdefault.jpg
     width: 1280
     height: 720
     isCached: true
