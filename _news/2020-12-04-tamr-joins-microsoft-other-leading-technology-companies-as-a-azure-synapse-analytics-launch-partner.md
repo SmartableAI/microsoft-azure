@@ -1,28 +1,24 @@
 ---
 category: news
-title: "Cyber Security Cloud WafCharm now available on Microsoft Azure"
-excerpt: "Cyber Security Cloud announces the availability of WafCharm on Microsoft Azure, providing AI operation of WAF rules."
-publishedDateTime: 2020-12-02T01:18:00Z
-originalUrl: "https://www.helpnetsecurity.com/2020/12/02/cyber-security-cloud-wafcharm/"
-webUrl: "https://www.helpnetsecurity.com/2020/12/02/cyber-security-cloud-wafcharm/"
+title: "Tamr joins Microsoft, other leading technology companies as a Azure Synapse Analytics launch partner"
+excerpt: "Tamr, Inc., the provider of cloud-native data mastering solutions, today announced it's selection by Microsoft as a"
+publishedDateTime: 2020-12-03T20:27:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/20/12/n18642005/tamr-joins-microsoft-other-leading-technology-companies-as-a-azure-synapse-analytics-launch-partne"
+webUrl: "https://www.benzinga.com/pressreleases/20/12/n18642005/tamr-joins-microsoft-other-leading-technology-companies-as-a-azure-synapse-analytics-launch-partne"
+ampWebUrl: "https://amp.benzinga.com/amp/content/18642005"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18642005"
 type: article
 quality: 54
 heat: -1
 published: false
 
 provider:
-  name: Help Net Security
-  domain: helpnetsecurity.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Azure
-  - Security
-
-images:
-  - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/11/02114007/help_net_security.jpg"
-    width: 1200
-    height: 627
-    isCached: true
+  - Analytics
 
 related:
   - title: "Microsoft unveils Azure Purview for data governance, Azure Synapse Analytics hits general availability"
@@ -82,17 +78,20 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Tamr joins Microsoft, other leading technology companies as a Azure Synapse Analytics launch partner"
-    excerpt: "Tamr, Inc., the provider of cloud-native data mastering solutions, today announced it's selection by Microsoft as a"
-    publishedDateTime: 2020-12-03T20:27:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/12/n18642005/tamr-joins-microsoft-other-leading-technology-companies-as-a-azure-synapse-analytics-launch-partne"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/18642005"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18642005"
+  - title: "Cyber Security Cloud WafCharm now available on Microsoft Azure"
+    excerpt: "Cyber Security Cloud announces the availability of WafCharm on Microsoft Azure, providing AI operation of WAF rules."
+    publishedDateTime: 2020-12-02T01:18:00Z
+    webUrl: "https://www.helpnetsecurity.com/2020/12/02/cyber-security-cloud-wafcharm/"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
+      name: Help Net Security
+      domain: helpnetsecurity.com
     quality: 54
+    images:
+      - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/11/02114007/help_net_security.jpg"
+        width: 1200
+        height: 627
+        isCached: true
   - title: "Microsoft Azure Synapse Link brings operational database services and analytics together in real-time"
     excerpt: "To solve this issue, Microsoft is today announcing Azure Synapse Link which brings operational database services and analytics together in real-time with a single click. Using this, customers can get insights from their real-time transactional data stored in their operational databases with a single click,"
     publishedDateTime: 2020-05-19T15:01:00Z
@@ -200,6 +199,6 @@ related:
       domain: telecompaper.com
     quality: 17
 
-secured: "p6QI0lBTEwUclZYM9d9962CnhU6z2+WWab/ZzdxVtjlboL2oJwpOgllOy+ArmbBnRrsGsAwn8SXyULAyYv3g+BMrWQXbP6g6qheUrK1WePF8sDhXqvi8Ft4W+d5lfmwjKaG0EVW2L03ZPokx+T4L1pFytxCVco7V9gj+lui3gdK1as6PTp8l1pm8nFGlNJr4kfwHQZL8QQTyiygiw0DlV3jSiII2ahIcA+yDh6U3pXyK8HbZEJnfWrZxm88xOMb1O9W4FFvMhrTxYS8N3HbKpcThDxPxUQ0+KuHRRDJ41tz43eRi9XR5DzNxktjZwnS32cGoUIYDj3o77UJy2hc84HPa278B3oZSkLFUGsi/RVL5H0lusuYzjfJ/axrQ54KmTanSonOK+XObPzrSqvsuspb/cqkRYyv0WxDQTPQgF2T4QZ86fS3V4gdqwMt56528//YZNsVz1ZBDLG7C2Ti/qrEwY+unALchDH1sNoTlYVruTuEnVcFsGW70O1Ms30gETDBoxxNmd7v7YJRvj5+lfQ==;AHEjfMWJa/B/UcZ8gsKEpw=="
+secured: "WjWhiQHWTPrlIvrJvAUSrTX2GFBXPn+95/NeFrV75Vdx0xRBUTSonf4YOGXkuj29nA41mt3p446EXhsb5tjn7fxd2Bg30sVGehNMvcno64UIW///a9nFG/g+5JTcJECzIMrrdeuMMtXd9kKKiNkIMUMp/caAIvzmiv54H6gEX3g9RGwNUMYaPJSojD5wqWkeKbE5sl4DRy0n/MlYyjXnDKVZ+eEPSArseyxVOe7Siex/FNg0okXMFVfkrr5LTHXXXJ+Zpnh+5zOqdQcn8GxgVzJSZyLS6D4GIWMVzQUNCb3OOeYWwWMF9e8opey9ZaAIa5hVMvLwUjrMaybp9z261TMGXmmKTPYQ3T4LYGDCwwQ=;i/DerWugKIfPP/LWTdtkMQ=="
 ---
 

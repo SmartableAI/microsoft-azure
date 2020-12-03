@@ -2,92 +2,6 @@
   "page": 7,
   "value": [
     {
-      "path": "_news/2020-09-02-new-regions-in-brazil-southeast-for-azure-database-for-mysql.md",
-      "title": "New regions in Brazil Southeast for Azure Database for MySQL",
-      "excerpt": "Receive the best in class experience for managed open source database offerings in the Brazil Southeast region. ",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/en-us/updates/new-regions-in-brazil-southeast-for-azure-database-for-mysql/",
-      "originalUrl": "https://azure.microsoft.com/en-us/updates/new-regions-in-brazil-southeast-for-azure-database-for-mysql/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 179,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-02T09:00:04-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure",
-        "Databases"
-      ]
-    },
-    {
-      "path": "_news/2020-09-02-azure-monitor-agent-and-data-collection-rules-public-preview.md",
-      "title": "Azure Monitor Agent and Data Collection Rules Public Preview",
-      "excerpt": "Azure Monitor is introducing a new concept for data collection configuration and a new, unified agent for Azure Monitor in Public Preview.",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/en-us/updates/azure-monitor-agent-and-data-collection-rules-public-preview/",
-      "originalUrl": "https://azure.microsoft.com/en-us/updates/azure-monitor-agent-and-data-collection-rules-public-preview/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-02T09:00:03-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure",
-        "DevOps"
-      ]
-    },
-    {
       "path": "_news/2020-09-02-log-analytics-agent-for-windows-august-2020-release-is-now-available.md",
       "title": "Log Analytics Agent for Windows August 2020 release is now available",
       "excerpt": "The August 2020 release contains bug fixes and improvements to stability and reliability.",
@@ -1144,6 +1058,90 @@
         "Azure",
         "AI",
         "Compute"
+      ]
+    },
+    {
+      "path": "_news/2020-08-17-public-preview-csi-storage-driver-support-in-azure-kubernetes-service.md",
+      "title": "Public preview: CSI storage driver support in Azure Kubernetes Service ",
+      "excerpt": "Azure Kubernetes Service (AKS) now supports Container Storage Interface (CSI), a standard for exposing arbitrary block and file storage systems to containerized workloads on Kubernetes. This offers more flexibility in exposing storage systems in Kubernetes.",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/en-us/updates/public-preview-csi-storage-driver-support-in-azure-kubernetes-service/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-17T16:02:45-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
+      "path": "_news/2020-08-17-azure-devops-artifacts-storage-exploration.md",
+      "title": "Azure DevOps Artifacts storage exploration ",
+      "excerpt": "More granular breakdowns and analyses into artifact storage. ",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/en-us/updates/azuredevops-artifacts-storage-exploration/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-17T12:00:03-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure"
       ]
     }
   ],

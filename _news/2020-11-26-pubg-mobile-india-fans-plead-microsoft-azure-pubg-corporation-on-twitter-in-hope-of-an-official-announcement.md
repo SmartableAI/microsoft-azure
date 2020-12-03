@@ -9,7 +9,7 @@ ampWebUrl: "https://www.sportskeeda.com/amp/esports/pubg-mobile-india-fans-plead
 cdnAmpWebUrl: "https://www-sportskeeda-com.cdn.ampproject.org/c/s/www.sportskeeda.com/amp/esports/pubg-mobile-india-fans-plead-microsoft-azure-pubg-corporation-twitter-hope-official-announcement"
 type: article
 quality: 35
-heat: -1
+heat: 35
 published: false
 
 provider:
@@ -21,47 +21,34 @@ topics:
   - Mobile
 
 related:
-  - title: "How Microsoft Azure will play a crucial role in PUBG Mobile's India comeback"
-    excerpt: "Microsoft Azure will be helping PUBG Mobile win a one-way-ticket back to India. With secure server hosting, players won't have to worry about their user data security and a repeated PUBG Mobile ban. The inevitable return of PUBG Mobile in India has sparked a lot of commotion amongst the community,"
-    publishedDateTime: 2020-11-20T19:10:00Z
-    webUrl: "https://www.sportskeeda.com/esports/how-microsoft-azure-will-play-crucial-role-pubg-mobile-s-india-comeback"
-    ampWebUrl: "https://www.sportskeeda.com/amp/esports/how-microsoft-azure-will-play-crucial-role-pubg-mobile-s-india-comeback"
-    cdnAmpWebUrl: "https://www-sportskeeda-com.cdn.ampproject.org/c/s/www.sportskeeda.com/amp/esports/how-microsoft-azure-will-play-crucial-role-pubg-mobile-s-india-comeback"
+  - title: "Beabloo Promotes Interaction Care: the Solution that Reduces the Risk of COVID-19 Infection, via the Microsoft Azure Cloud"
+    excerpt: "Beabloo Promotes Interaction Care: the Solution that Reduces the Risk of COVID-19 Infection, via the Microsoft Azure Cloud By 1 - The retail tech companys solution uses real-time alerts to avoid high-risk interactions and boost security in public"
+    publishedDateTime: 2020-12-03T07:48:00Z
+    webUrl: "https://www.cioreview.com/news/beabloo-promotes-interaction-care-the-solution-that-reduces-the-risk-of-covid19-infection-via-the-microsoft-azure-cloud-pnid-423-cid-15.html"
     type: article
     provider:
-      name: Sportskeeda
-      domain: sportskeeda.com
-    quality: 71
+      name: CIOReview
+      domain: cioreview.com
+    quality: 11
     images:
-      - url: "https://staticg.sportskeeda.com/editor/2020/11/f918c-16058916804029-800.jpg"
-        width: 800
-        height: 450
+      - url: "https://www.cioreview.com/news_new/sliderimage/z4fcv.30035015151.jpg"
+        width: 300
+        height: 350
         isCached: true
-  - title: "Nerdio Exec On How To Build A Successful Cloud Practice With Microsoft Azure"
-    excerpt: "Nerdio CRO Joseph Landes outlines why it’s worth it for MSPs to think about moving to the cloud with Microsoft Azure. Also, MSP partner Digital Defense Founder and CEO Richard Harber talks about the benefits of teaming with Nerdio as he builds his Azure business."
-    publishedDateTime: 2020-11-21T00:45:00Z
-    webUrl: "https://www.crn.com/news/nerdio-exec-on-how-to-build-a-successful-cloud-practice-with-microsoft-azure"
+  - title: "Microsoft Reveals Culture of Innovation Fuels Business Resilience and Economic Recovery in Indonesia at the 2020 Microsoft Cloud Innovation Summit"
+    excerpt: "The COVID-19 pandemic has shown that no business is 100 percent resilient, but an organization that is strengthened by digital technology will become tougher and more capable of transformation when faced with mass structural change."
+    publishedDateTime: 2020-12-01T08:35:00Z
+    webUrl: "https://news.microsoft.com/id-id/2020/12/01/microsoft-reveals-culture-of-innovation-fuels-business-resilience-and-economic-recovery-in-indonesia-at-the-2020-microsoft-cloud-innovation-summit/"
     type: article
     provider:
-      name: CRN
-      domain: crn.com
-    quality: 34
+      name: Microsoft
+      domain: microsoft.com
+    quality: 0
     images:
-      - url: "https://www.crn.com/resources/0263-10e71eed4369-254ea3487df4-1000/nerdio_cro_on_3_ways_msps_can_make_money_with_microsoft_azure.jpeg"
-        width: 1280
-        height: 717
+      - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/454/2020/12/coi-summary-lead-image-1-768x512.jpg"
+        width: 768
+        height: 512
         isCached: true
-  - title: "Cloud visibility, intelligence, and control from OpsCompass: Now available in the Microsoft Azure Marketplace"
-    excerpt: "Microsoft Azure customers worldwide now gain access to the Microsoft Cloud Adoption Framework-focused OpsCompass solution to take advantage of the scalability, reliability,"
-    publishedDateTime: 2020-11-23T14:55:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/11/p18488336/cloud-visibility-intelligence-and-control-from-opscompass-now-available-in-the-microsoft-azure-mar"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/18488336"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18488336"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 18
 
 secured: "r8XkLzbo/QKaGL9a8Pdf6SmrG5MPFTVyJuz9wbYiPKTznvhEuw9I6bAnzHChcMeJUOVUWA9D1jt55JvTyNENMNMTaGG83BXPCRWzDY14exCKpD78cE9qZsDilVK93gVnVaIdKQXEx7icCFTh+l2IhvB38OWmIaNHJQgkDDPQmoEq7gBMZhn26I/4GeaB4DnapR8chj97Q71covXL0OktNYHLyhi/+3rDgnstVtGjLBg43XdRIOZhqI/4NzjoqB9VqqJq3HSuco8/x8OT13EUoWsq83W3PJfAL01nXVQh3m+zcAiZSaprHT3g+plbDKwGfHBp/1PhY3w4yaOcFj0SvJ5J9u2LoOlGLgjbFZcUa2M=;I2gUMxBJ3ieY2rLRJWXRKQ=="
 ---

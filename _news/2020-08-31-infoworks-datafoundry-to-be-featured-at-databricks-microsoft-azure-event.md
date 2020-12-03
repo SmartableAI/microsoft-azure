@@ -7,7 +7,7 @@ originalUrl: "https://www.oaoa.com/news/business/infoworks-datafoundry-to-be-fea
 webUrl: "https://www.oaoa.com/news/business/infoworks-datafoundry-to-be-featured-at-databricks-microsoft-azure-event/article_17bbac33-e0ae-5641-a446-99481cb5d234.html"
 type: article
 quality: 36
-heat: 36
+heat: -1
 published: false
 
 provider:
@@ -24,19 +24,28 @@ images:
     isCached: true
 
 related:
-  - title: "Infoworks DataFoundry for Databricks Free Trial Now Available in Microsoft Azure Marketplace"
-    excerpt: "Infoworks.io, leader in EDO2 systems, announces Infoworks DataFoundry for Databricks is now avail. as a free trial offer in the MSFT Azure Marketplace"
-    publishedDateTime: 2020-08-13T15:44:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200813005239/en/"
+  - title: "Azure Databricks Achieves FedRAMP High Authorization on Microsoft Azure Government"
+    excerpt: "With this certification, customers can now use Azure Databricks to process the U.S. government’s most sensitive, unclassified data in cloud computing environments, including data that involves the protection of life and financial assets. "
+    publishedDateTime: 2020-11-25T17:00:11Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-databricks-achieves-fedramp-high-authorization-on-microsoft-azure-government-mag/"
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 26
+      name: Microsoft
+      domain: microsoft.com
+    quality: 61
+  - title: "Azure Databricks Achieves FedRAMP High Authorization on Microsoft Azure Government (MAG)"
+    excerpt: "Databricks, the Data and AI Company, today announced that Microsoft Azure Databricks has received a Federal Risk and Authorization"
+    publishedDateTime: 2020-11-25T16:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/azure-databricks-achieves-fedramp-high-authorization-on-microsoft-azure-government-mag-301180081.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 28
     images:
-      - url: "https://mms.businesswire.com/media/20200813005239/en/812388/23/4118036_Infoworks-logo_.jpg"
-        width: 1200
-        height: 627
+      - url: "https://mma.prnewswire.com/media/1160675/Databricks_Logo.jpg?p=facebook"
+        width: 1094
+        height: 576
         isCached: true
 
 secured: "g8+BOj0yuVbn3hCRu4+xJWaAqBvadmCT5jwT3xaZ+MKkel0Gm3YSK88sSfGdB/qwUyrC9oJ+78X/cLDc5QGsx5wRyAgixcWUxtyMQ3HR+KG9eqZQgMNfQ/Odp5XrstlcYlL6EPmlI4UG5FhO6RdI4w0rltILwgNwCFxE+QO0ch4Ni6vADrCokwunNnFSdvBnWQ7H23aLktUp/WfLOV5g+hzqgrjndUpW3OSmRuu8nvBJgTBRo6YBQK6R3MiJGQZajN2HmmGk/xMdVjXem8nTyCCutC/EQ3suC1br/9/UP7mLNZqSFdJEd9wDK5KPIIRLzMkfrZb7sit1ptfwl2LYtnnyf2Wi6Leinaten7LV9Yk=;CVOXvIqapXx6ERAeksieGw=="

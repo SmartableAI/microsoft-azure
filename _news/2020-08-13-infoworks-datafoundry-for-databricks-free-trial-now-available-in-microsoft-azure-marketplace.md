@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-13T15:44:00Z
 webUrl: "https://www.businesswire.com/news/home/20200813005239/en/"
 type: article
 quality: 26
-heat: -1
+heat: 26
 published: false
 
 provider:
@@ -23,19 +23,19 @@ images:
     isCached: true
 
 related:
-  - title: "Infoworks DataFoundry to be Featured at Databricks Microsoft Azure Event"
-    excerpt: "Theodore will discuss how AMN used Infoworks DataFoundry to successfully migrate operational and financial forecasting production environments from Hadoop to Microsoft Azure Databricks."
-    publishedDateTime: 2020-08-31T16:18:00Z
-    webUrl: "https://www.oaoa.com/news/business/infoworks-datafoundry-to-be-featured-at-databricks-microsoft-azure-event/article_17bbac33-e0ae-5641-a446-99481cb5d234.html"
+  - title: "AtScale Expands Reach of Cloud OLAP with Support for Microsoft Azure Databricks in 2020.3 Release"
+    excerpt: "With our AtScale 2020.3 release, they’ll now be able to add Microsoft Azure Databricks to their Cloud OLAP environments.” “Microsoft Azure Databricks provides a fast, easy, and collaborative ..."
+    publishedDateTime: 2020-08-18T13:19:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200818005298/en/AtScale-Expands-Reach-Cloud-OLAP-Support-Microsoft"
     type: article
     provider:
-      name: Odessa American
-      domain: oaoa.com
-    quality: 36
+      name: Business Wire
+      domain: businesswire.com
+    quality: 24
     images:
-      - url: "https://www.valleymorningstar.com/wp-content/uploads/sites/63/2020/07/GET-IT-NOW-BUTTON.png"
-        width: 576
-        height: 288
+      - url: "https://mms.businesswire.com/media/20200818005298/en/813347/23/AtScale_Logo_2.jpg"
+        width: 1200
+        height: 627
         isCached: true
 
 secured: "ufo6Z22+OYG3WJB4JSskeMaRO7dSPK5sItAOMt6BieuWlMI1+RWX3PG2BR0EZ3eDJO2xJYYMU/S701vplKR7lb60UM+l1zfYVsLm0e6L91KaaznhMCGSgnv7vnHhuUwvidrNELLJX/gNoUraQtcjJ3lgdvUe8Su5oORRE+HL7wGvahyDa3WByi7lvzmB373tG+4L4Ve9lW+kO6rX6+XIqEEnWtZuTlopcs2tYgEhnzrdhX+dwcAq1sUXpiHNkAUWCW6Bk+NVGzIEA1Dq124Jp/pLOC/w1L7/1JxW9SFGvC+OUmexyB58LJ68fruoTf/vgPMuBzziCHcterLIppr2pQ==;ZZqJJIR7Wj4TAYmsUcy5Fg=="

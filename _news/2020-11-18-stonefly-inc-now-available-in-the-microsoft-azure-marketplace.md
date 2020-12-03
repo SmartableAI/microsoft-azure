@@ -26,201 +26,84 @@ images:
     isCached: true
 
 related:
-  - title: "Stradigi AI Launches the Kepler™ AI Platform Powered by Microsoft Azure"
-    excerpt: "Kepler Empowers Users Across All Departments to Quickly Deploy Projects with Same-Day Azure Marketplace ActivationMONTREAL, Nov. 17, 2020"
-    publishedDateTime: 2020-11-17T20:46:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/stradigi-ai-launches-the-kepler-ai-platform-powered-by-microsoft-azure-1029811504"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/stradigi-ai-launches-the-kepler-ai-platform-powered-by-microsoft-azure-1029811504"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/stradigi-ai-launches-the-kepler-ai-platform-powered-by-microsoft-azure-1029811504"
+  - title: "CBL-Mariner: Microsoft's internal Linux distribution for Azure first-party services and edge appliances"
+    excerpt: "The Linux Systems Group at Microsoft has developed a Linux distribution for internal use and made it available on GitHub."
+    publishedDateTime: 2020-11-11T09:04:00Z
+    webUrl: "https://www.zdnet.com/article/cbl-mariner-microsofts-internal-linux-distribution-for-azure-first-party-services-and-edge-appliances/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/cbl-mariner-microsofts-internal-linux-distribution-for-azure-first-party-services-and-edge-appliances/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/cbl-mariner-microsofts-internal-linux-distribution-for-azure-first-party-services-and-edge-appliances/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 94
-  - title: "Hopsworks Feature Store Now Available for Microsoft Azure"
-    excerpt: "Logical Clocks, the data company behind the world’s first Enterprise Feature Store for Machine Learning, today announced full support for Microsoft Azure on its cloud managed data platform, Hopsworks."
-    publishedDateTime: 2020-11-17T12:20:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/hopsworks-feature-store-now-available-for-microsoft-azure-1029810276"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/Hopsworks-Feature-Store-Now-Available-for-Microsoft-Azure-1029810276"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/Hopsworks-Feature-Store-Now-Available-for-Microsoft-Azure-1029810276"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 77
-  - title: "How to improve security and visibility of Amazon Web Services, Microsoft Azure, and Google Cloud Platform"
-    excerpt: "Cloud Platforms like Amazon Web Services, Microsoft Azure, and Google Cloud Platform have introduced a new level of flexibility and scalability for enterprises, but they have also introduced new ..."
-    publishedDateTime: 2020-11-16T16:03:00Z
-    webUrl: "https://www.infoworld.com/resources/210736/how-to-improve-security-and-visibility-of-amazon-web-services-microsoft-azure-and-google-cloud-platf"
-    type: article
-    provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 77
+      name: ZDNet
+      domain: zdnet.com
+    quality: 81
     images:
-      - url: "https://idge.staticworld.net/ifw/IFW_logo_social_300x300.png"
-        width: 300
-        height: 300
+      - url: "https://zdnet1.cbsistatic.com/hub/i/2020/11/11/c3e91470-b834-4b2d-aefc-dce07cca519d/cbllinuxmicrosoft.jpg"
+        width: 739
+        height: 477
         isCached: true
-  - title: "Facedrive’s TraceSCAN to Offer Global Contact-Tracing Services Powered by Microsoft Azure"
-    excerpt: "Business Wire TORONTO --  Facedrive Inc. (“Facedrive”) (TSXV: FD)"
-    publishedDateTime: 2020-11-19T13:06:00Z
-    webUrl: "https://www.bloomberg.com/press-releases/2020-11-19/facedrive-s-tracescan-to-offer-global-contact-tracing-services-powered-by-microsoft-azure"
+  - title: "Tech Mahindra recognized as a Microsoft Azure Expert Managed Service Provider"
+    excerpt: "This recognition signifies Tech Mahindra’s proven expertise as an Azure Expert MSP, including infrastructure and application migration."
+    publishedDateTime: 2020-11-12T06:58:00Z
+    webUrl: "https://www.indiainfoline.com/article/news-sector-information-technology/tech-mahindra-recognized-as-a-microsoft-azure-expert-managed-service-provider-120111200496_1.html"
+    ampWebUrl: "https://www.indiainfoline.com/article-amp/news-sector-information-technology/tech-mahindra-recognized-as-a-microsoft-azure-expert-managed-service-provider-120111200496_1.html"
+    cdnAmpWebUrl: "https://www-indiainfoline-com.cdn.ampproject.org/c/s/www.indiainfoline.com/article-amp/news-sector-information-technology/tech-mahindra-recognized-as-a-microsoft-azure-expert-managed-service-provider-120111200496_1.html"
     type: article
     provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 68
-    images:
-      - url: "https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Stradigi AI Launches the Kepler™ AI Platform Powered by Microsoft Azure"
-    excerpt: "Stradigi AI, a North American Artificial Intelligence software company, is pleased to announce that its cloud-based Kepler Platform is now offered on the Microsoft Azure Marketplace and optimized to run within Azure."
-    publishedDateTime: 2020-11-17T14:27:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-science-software-industry-information-technology-71329170da3e15d19ec949e2e378712d"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
+      name: India Infoline
+      domain: indiainfoline.com
     quality: 54
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://content.indiainfoline.com/_media/iifl/img/article/default/news.jpg"
+        width: 350
+        height: 233
         isCached: true
-  - title: "Canadian company launches conversational AI for interfacing with databases on Microsoft Azure"
-    excerpt: "Microsoft Azure customers can use AutoQL to streamline access to data for everyone from executives to analysts and front-line workers"
-    publishedDateTime: 2020-11-24T17:22:00Z
-    webUrl: "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=144056"
+  - title: "Microsoft Cloud Service Aims for Support of Space and Satellite Ventures"
+    excerpt: "Azure Space hopes to achieve fast, secure satellite networking anywhere in the world. Azure Space combines the power of cloud and space technology. (Image courtesy of Microsoft.) Microsoft has brought together a team of space industry veterans and experts to work together with its in-house product engineers to develop cloud capabilities suited for the needs of space."
+    publishedDateTime: 2020-11-16T20:16:00Z
+    webUrl: "https://www.engineering.com/DesignerEdge/DesignerEdgeArticles/ArticleID/20943/Microsoft-Cloud-Service-Aims-for-Support-of-Space-and-Satellite-Ventures.aspx"
+    ampWebUrl: "https://mobile.engineering.com/amp/20943.html"
+    cdnAmpWebUrl: "https://mobile-engineering-com.cdn.ampproject.org/c/s/mobile.engineering.com/amp/20943.html"
     type: article
     provider:
-      name: KMWorld Magazine
-      domain: kmworld.com
-    quality: 43
+      name: Engineering
+      domain: engineering.com
+    quality: 41
     images:
-      - url: "https://www.kmworld.com/images/subscribe_magazines_km.png"
-        width: 772
-        height: 594
+      - url: "https://www.engineering.com/portals/0/BlogFiles/Space_1.jpg"
+        width: 640
+        height: 360
         isCached: true
-  - title: "How to improve security and visibility of Amazon Web Services, Microsoft Azure, and Google Cloud Platform"
-    excerpt: "Computerworld covers a range of technology topics, with a focus on these core areas of IT: Windows, Mobile, Apple/enterprise, Office and productivity suites, collaboration, web browsers and blockchain,"
-    publishedDateTime: 2020-11-15T21:00:00Z
-    webUrl: "https://www.computerworld.com/resources/210736/how-to-improve-security-and-visibility-of-amazon-web-services-microsoft-azure-and-google-cloud-platf"
+  - title: "Microsoft Cloud Service Aims for Support of Space and Satellite Ventures"
+    excerpt: "Azure Space hopes to achieve fast, secure satellite networking anywhere in the world. Azure Space combines the power of cloud and space technology. (Image courtesy of Microsoft.) Microsoft has brought together a team of space industry veterans and experts to work together with its in-house product engineers to develop cloud capabilities suited for the needs of space."
+    publishedDateTime: 2020-11-18T10:28:00Z
+    webUrl: "https://www.engineering.com/DesignerEdge/DesignerEdgeArticles/ArticleID/20943/Clouds-in-SpaceMicrosoft-Brings-Cloud-Powered-Innovation-off-the-Planet.aspx"
+    ampWebUrl: "https://mobile.engineering.com/amp/20943.html"
+    cdnAmpWebUrl: "https://mobile-engineering-com.cdn.ampproject.org/c/s/mobile.engineering.com/amp/20943.html"
     type: article
     provider:
-      name: Computerworld
-      domain: computerworld.com
+      name: Engineering
+      domain: engineering.com
+    quality: 41
+    images:
+      - url: "https://www.engineering.com/portals/0/BlogFiles/Space_1.jpg"
+        width: 640
+        height: 360
+        isCached: true
+  - title: "UiPath RPA Now Available in Microsoft Azure Marketplace"
+    excerpt: "Enterprise Robotic Process Automation (RPA) software company, UiPath, today announced the availability of the UiPath Automation Platform on the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure."
+    publishedDateTime: 2020-11-11T17:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20201111005079/en/UiPath-RPA-Now-Available-in-Microsoft-Azure-Marketplace"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
     quality: 37
     images:
-      - url: "https://idge.staticworld.net/ctw/computerworld-logo300x300.png"
-        width: 300
-        height: 300
+      - url: "https://mms.businesswire.com/media/20201111005079/en/718791/23/new_uipath_logo_orange.jpg"
+        width: 1200
+        height: 627
         isCached: true
-  - title: "ACI Worldwide fraud management tech debuts on Microsoft Azure Marketplace"
-    excerpt: "ACI Worldwide (NASDAQ: ACIW), a leading global provider of real-time digital payment and software solutions, today announced that its ACI Fraud Management solution is now available as a fully certified private offering via the Microsoft Azure Marketplace."
-    publishedDateTime: 2020-11-23T11:29:00Z
-    webUrl: "https://www.finextra.com/pressarticle/85130/aci-worldwide-fraud-management-tech-debuts-on-microsoft-azure-marketplace"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 36
-    images:
-      - url: "https://www.finextra.com/about/finextra-logo-alt-16-9.jpg"
-        width: 480
-        height: 270
-        isCached: true
-  - title: "2021 – The year to save costs and accelerate your business with Microsoft Azure"
-    excerpt: "When it comes to cloud services, Microsoft Azure is a market leader and a favourite among enterprises – and is available in South Africa through leading ICT solutions provider Axiz. As a ..."
-    publishedDateTime: 2020-11-17T05:17:00Z
-    webUrl: "https://businesstech.co.za/news/industry-news/448961/2021-the-year-to-save-costs-and-accelerate-your-business-with-microsoft-azure/"
-    ampWebUrl: "https://businesstech.co.za/news/industry-news/448961/2021-the-year-to-save-costs-and-accelerate-your-business-with-microsoft-azure/amp/"
-    cdnAmpWebUrl: "https://businesstech-co-za.cdn.ampproject.org/c/s/businesstech.co.za/news/industry-news/448961/2021-the-year-to-save-costs-and-accelerate-your-business-with-microsoft-azure/amp/"
-    type: article
-    provider:
-      name: businesstech.co.za
-      domain: businesstech.co.za
-    quality: 33
-  - title: "Accela Migrates Over 200 Data Center Customers to Microsoft Azure to Accelerate Digital Transformation"
-    excerpt: "PRNewswire/ -- Accela®, a leading provider of cloud-based solutions for government, today announced it successfully completed over 200 customer"
-    publishedDateTime: 2020-11-12T10:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/accela-migrates-over-200-data-center-customers-to-microsoft-azure-to-accelerate-digital-transformation-301171615.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 21
-    images:
-      - url: "https://mma.prnewswire.com/media/1008788/Accela_Logo.jpg?p=facebook"
-        width: 600
-        height: 315
-        isCached: true
-  - title: "Coding Dojo Chosen by Microsoft as a Microsoft Azure Training Partner for Global Digital Skills Initiative"
-    excerpt: "announces today it is working with Microsoft to proliferate Microsoft Azure certifications in the workforce. The collaboration will increase the amount of job-ready Azure developers by integrating ..."
-    publishedDateTime: 2020-11-24T14:23:00Z
-    webUrl: "https://www.goskagit.com/news/state/coding-dojo-chosen-by-microsoft-as-a-microsoft-azure-training-partner-for-global-digital-skills/article_f4e126e8-72d9-5938-b634-bfc62e48a52e.html"
-    type: article
-    provider:
-      name: Skagit Valley Herald
-      domain: goskagit.com
-    quality: 19
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/goskagit.com/content/tncms/custom/image/e1586314-89a9-11e7-be8f-ef31f934c462.png"
-        width: 1024
-        height: 500
-        isCached: true
-  - title: "Coding Dojo Chosen by Microsoft as a Microsoft Azure Training Partner for Global Digital Skills Initiative"
-    excerpt: "announces today it is working with Microsoft to proliferate Microsoft Azure certifications in the workforce. The collaboration will increase the amount of job-ready Azure developers by integrating Microsoft Learn tracks into the Coding Dojo curriculum ..."
-    publishedDateTime: 2020-11-24T20:11:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/coding-dojo-chosen-by-microsoft-as-a-microsoft-azure-training-partner-for-global-digital-skills-initiative-301179437.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 19
-    images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
-        isCached: true
-  - title: "ANS migrates Fenwick IT systems to Microsoft Azure public cloud"
-    excerpt: "UK digital and cloud services provider ANS Group has been selected by luxury department store Fenwick to migrate IT systems to the Microsoft Azure public"
-    publishedDateTime: 2020-11-11T14:48:00Z
-    webUrl: "https://www.telecompaper.com/news/ans-migrates-fenwick-it-systems-to-microsoft-azure-public-cloud--1361480"
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 17
-  - title: "OpenText Brings Digital Investigation to the Cloud with Microsoft Azure"
-    excerpt: "OpenText™ announced OpenText™ EnCase Forensic and OpenText™ EnCase Endpoint Investigator are now certified on Microsoft Azure. With OpenText Encase solutions in the cloud, law enforcement and corporate investigators can more easily collaborate,"
-    publishedDateTime: 2020-11-11T18:19:00Z
-    webUrl: "https://www.newswiretoday.com/news/174111/OpenText-Brings-Digital-Investigation-to-the-Cloud-with-Microsoft-Azure/"
-    type: article
-    provider:
-      name: Newswire Today
-      domain: newswiretoday.com
-    quality: 17
-  - title: "ANS Group migrates NHS SCW workloads to Microsoft Azure"
-    excerpt: "UK digital and cloud services provider ANS Group has been selected by NHS South, Central & West (SCW) to migrate their workloads to Microsoft"
-    publishedDateTime: 2020-11-18T09:53:00Z
-    webUrl: "https://www.telecompaper.com/news/ans-group-migrates-nhs-scw-workloads-to-microsoft-azure--1362359"
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 17
-  - title: "StoneFly Inc. Now Available in the Microsoft Azure Marketplace"
-    excerpt: "Microsoft Azure customers worldwide now gain access to StoneFly cloud storage to take advantage of the scalability, reliability, and agility of Azure to drive application development and shape business strategies."
-    publishedDateTime: 2020-11-20T08:03:00Z
-    webUrl: "https://www.pr.com/press-release/825650"
-    type: article
-    provider:
-      name: PR
-      domain: pr.com
-    quality: 17
 
 secured: "+G6NkLsK32OxbM+z6IdbbKHyEFQwVRGMI8qLRwvH84vWR8jkQ0UMojDF6QbVEGkBufWYj9c7fSaPGhA5FLTMCcLSz7A0q4u1Y05iYKCuFaCEVvewan8nFdWNENT9dfi+1les64JI8FRdXsfghbEZzNygkmTea3Jr7gVzTYCq9z2/F0ECTpSxjoLQYfUuDO5axXKp1eKv5BfBKPu4YzcFTgwXmdxMadHBJltsTENEGuHG9jzoFqyiBGIySRj4BvjBioKdik9TQSRap0/Qie7OPRVHAaoPc4FK2dNKcvyG7nNV1Q7j7JxPrtHVaeABY17KO/yo+ell9hBdT4yM92c4spFKVGARtb/SRVyh5SC8kF8=;tV6w3kAehfHWzK4BWj9c4A=="
 ---

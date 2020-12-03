@@ -90,6 +90,17 @@ related:
         width: 1200
         height: 627
         isCached: true
+  - title: "Tamr joins Microsoft, other leading technology companies as a Azure Synapse Analytics launch partner"
+    excerpt: "Tamr, Inc., the provider of cloud-native data mastering solutions, today announced it's selection by Microsoft as a"
+    publishedDateTime: 2020-12-03T20:27:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/12/n18642005/tamr-joins-microsoft-other-leading-technology-companies-as-a-azure-synapse-analytics-launch-partne"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/18642005"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18642005"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 54
   - title: "Microsoft Azure Synapse Link brings operational database services and analytics together in real-time"
     excerpt: "To solve this issue, Microsoft is today announcing Azure Synapse Link which brings operational database services and analytics together in real-time with a single click. Using this, customers can get insights from their real-time transactional data stored in their operational databases with a single click,"
     publishedDateTime: 2020-05-19T15:01:00Z

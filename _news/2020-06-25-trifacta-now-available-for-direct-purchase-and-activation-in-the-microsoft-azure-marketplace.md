@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-25T13:00:00Z
 webUrl: "https://www.marketwatch.com/press-release/trifacta-now-available-for-direct-purchase-and-activation-in-the-microsoft-azure-marketplace-2020-06-25"
 type: article
 quality: 66
-heat: 106
+heat: 126
 published: true
 
 provider:
@@ -28,6 +28,20 @@ images:
     title: "Trifacta Now Available for Direct Purchase and Activation in the Microsoft Azure Marketplace"
 
 related:
+  - title: "Exoprise Office 365 Monitoring App Now Available in the Microsoft Azure Marketplace"
+    excerpt: "PRNewswire/ -- Exoprise, a leading provider of software-as-a-service (SaaS) and Office 365 monitoring, today announced the availability of its"
+    publishedDateTime: 2020-12-01T15:58:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/exoprise-office-365-monitoring-app-now-available-in-the-microsoft-azure-marketplace-301182861.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 31
+    images:
+      - url: "https://mma.prnewswire.com/media/1020851/exoprise_Logo.jpg?p=facebook"
+        width: 1024
+        height: 536
+        isCached: true
   - title: "GAVS Technologies: Zero Incident Framework (ZIF) Now Available in the Microsoft Azure Marketplace"
     excerpt: "Microsoft Azure customers worldwide now gain access to ZIF to take advantage of the scalability, reliability and agility of Azure to drive application development and shape business strategies PRINCET"
     publishedDateTime: 2020-06-23T04:20:00Z

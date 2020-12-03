@@ -9,8 +9,8 @@ ampWebUrl: "https://markets.businessinsider.com/amp/news/Hopsworks-Feature-Store
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/Hopsworks-Feature-Store-Now-Available-for-Microsoft-Azure-1029810276"
 type: article
 quality: 77
-heat: -1
-published: false
+heat: 397
+published: true
 
 provider:
   name: Business Insider
@@ -24,61 +24,33 @@ topics:
   - Azure
 
 related:
-  - title: "Stradigi AI Launches the Kepler™ AI Platform Powered by Microsoft Azure"
-    excerpt: "Kepler Empowers Users Across All Departments to Quickly Deploy Projects with Same-Day Azure Marketplace ActivationMONTREAL, Nov. 17, 2020"
-    publishedDateTime: 2020-11-17T20:46:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/stradigi-ai-launches-the-kepler-ai-platform-powered-by-microsoft-azure-1029811504"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/stradigi-ai-launches-the-kepler-ai-platform-powered-by-microsoft-azure-1029811504"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/stradigi-ai-launches-the-kepler-ai-platform-powered-by-microsoft-azure-1029811504"
+  - title: "How Microsoft Azure will play a crucial role in PUBG Mobile's India comeback"
+    excerpt: "Microsoft Azure will be helping PUBG Mobile win a one-way-ticket back to India. With secure server hosting, players won't have to worry about their user data security and a repeated PUBG Mobile ban. The inevitable return of PUBG Mobile in India has sparked a lot of commotion amongst the community,"
+    publishedDateTime: 2020-11-20T19:10:00Z
+    webUrl: "https://www.sportskeeda.com/esports/how-microsoft-azure-will-play-crucial-role-pubg-mobile-s-india-comeback"
+    ampWebUrl: "https://www.sportskeeda.com/amp/esports/how-microsoft-azure-will-play-crucial-role-pubg-mobile-s-india-comeback"
+    cdnAmpWebUrl: "https://www-sportskeeda-com.cdn.ampproject.org/c/s/www.sportskeeda.com/amp/esports/how-microsoft-azure-will-play-crucial-role-pubg-mobile-s-india-comeback"
+    type: article
+    provider:
+      name: Sportskeeda
+      domain: sportskeeda.com
+    quality: 71
+    images:
+      - url: "https://staticg.sportskeeda.com/editor/2020/11/f918c-16058916804029-800.jpg"
+        width: 800
+        height: 450
+        isCached: true
+  - title: "Innovaccer's Patient Relationship Management Solution is Now Available on Microsoft Azure"
+    excerpt: "Innovaccer, Inc., a leading healthcare technology company, recently announced that its patient relationship management solution is now available on Microsoft Azure. The solution streamlines communication between patients and their care teams."
+    publishedDateTime: 2020-11-24T18:01:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/innovaccer-s-patient-relationship-management-solution-is-now-available-on-microsoft-azure-1029835761"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/innovaccer-s-patient-relationship-management-solution-is-now-available-on-microsoft-azure-1029835761"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/innovaccer-s-patient-relationship-management-solution-is-now-available-on-microsoft-azure-1029835761"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 94
-  - title: "How to improve security and visibility of Amazon Web Services, Microsoft Azure, and Google Cloud Platform"
-    excerpt: "Cloud Platforms like Amazon Web Services, Microsoft Azure, and Google Cloud Platform have introduced a new level of flexibility and scalability for enterprises, but they have also introduced new ..."
-    publishedDateTime: 2020-11-16T16:03:00Z
-    webUrl: "https://www.infoworld.com/resources/210736/how-to-improve-security-and-visibility-of-amazon-web-services-microsoft-azure-and-google-cloud-platf"
-    type: article
-    provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 77
-    images:
-      - url: "https://idge.staticworld.net/ifw/IFW_logo_social_300x300.png"
-        width: 300
-        height: 300
-        isCached: true
-  - title: "Facedrive’s TraceSCAN to Offer Global Contact-Tracing Services Powered by Microsoft Azure"
-    excerpt: "Business Wire TORONTO --  Facedrive Inc. (“Facedrive”) (TSXV: FD)"
-    publishedDateTime: 2020-11-19T13:06:00Z
-    webUrl: "https://www.bloomberg.com/press-releases/2020-11-19/facedrive-s-tracescan-to-offer-global-contact-tracing-services-powered-by-microsoft-azure"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
     quality: 68
-    images:
-      - url: "https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "StoneFly Inc. Now Available in the Microsoft Azure Marketplace"
-    excerpt: "StoneFly Inc today announced the availability of StoneFly cloud storage in the Microsoft Azure Marketplace an online store providing applications and services for use on Azure StoneFly customers can now take advantage of the productive"
-    publishedDateTime: 2020-11-18T15:52:00Z
-    webUrl: "https://www.openpr.com/news/2189778/stonefly-inc-now-available-in-the-microsoft-azure-marketplace"
-    ampWebUrl: "https://www.openpr.com/amp/2189778/stonefly-inc-now-available-in-the-microsoft-azure-marketplace"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2189778/stonefly-inc-now-available-in-the-microsoft-azure-marketplace"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 57
-    images:
-      - url: "https://cdn.openpr.com/T/b/Tb18457070_g.jpg"
-        width: 600
-        height: 400
-        isCached: true
   - title: "Stradigi AI Launches the Kepler™ AI Platform Powered by Microsoft Azure"
     excerpt: "Stradigi AI, a North American Artificial Intelligence software company, is pleased to announce that its cloud-based Kepler Platform is now offered on the Microsoft Azure Marketplace and optimized to run within Azure."
     publishedDateTime: 2020-11-17T14:27:00Z
@@ -93,59 +65,89 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Canadian company launches conversational AI for interfacing with databases on Microsoft Azure"
-    excerpt: "Microsoft Azure customers can use AutoQL to streamline access to data for everyone from executives to analysts and front-line workers"
-    publishedDateTime: 2020-11-24T17:22:00Z
-    webUrl: "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=144056"
+  - title: "DLT Solutions to Offer Microsoft Azure and Modern Workplace Solutions Through its U.S. Public Sector Partner Network"
+    excerpt: "DLT Solutions, LLC., a wholly owned subsidiary of Tech Data and a premier government technology solutions aggregator, has partnered with Microsoft to bring to market Azure and Modern Workplace solutions to the U."
+    publishedDateTime: 2020-11-18T14:50:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/dlt-solutions-to-offer-microsoft-azure-and-modern-workplace-solutions-through-its-u-s-public-sector-partner-network-1029816539"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/dlt-solutions-to-offer-microsoft-azure-and-modern-workplace-solutions-through-its-u-s-public-sector-partner-network-1029816539"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/dlt-solutions-to-offer-microsoft-azure-and-modern-workplace-solutions-through-its-u-s-public-sector-partner-network-1029816539"
     type: article
     provider:
-      name: KMWorld Magazine
-      domain: kmworld.com
-    quality: 43
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 54
+  - title: "Stradigi AI Launches the Kepler™ AI Platform Powered by Microsoft Azure"
+    excerpt: "The ability to instantly activate Kepler through the Microsoft Azure Marketplace gives Business Users a way to automate AI across all functions and departments. AI projects can go into production ..."
+    publishedDateTime: 2020-11-17T17:40:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/stradigi-ai-launches-the-kepler-ai-platform-powered-by-microsoft-azure-301173014.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 54
     images:
-      - url: "https://www.kmworld.com/images/subscribe_magazines_km.png"
-        width: 772
-        height: 594
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
         isCached: true
-  - title: "How to improve security and visibility of Amazon Web Services, Microsoft Azure, and Google Cloud Platform"
-    excerpt: "Computerworld covers a range of technology topics, with a focus on these core areas of IT: Windows, Mobile, Apple/enterprise, Office and productivity suites, collaboration, web browsers and blockchain,"
-    publishedDateTime: 2020-11-15T21:00:00Z
-    webUrl: "https://www.computerworld.com/resources/210736/how-to-improve-security-and-visibility-of-amazon-web-services-microsoft-azure-and-google-cloud-platf"
+  - title: "Cloud-based Database Market Predictable to Booming Worldwide | Oracle, Amazon Web Services, Microsoft Azure, IBM"
+    excerpt: "Latest released the research study on Global Cloud based Database Market offers a detailed overview of the factors influencing the global business scope Cloud based Database Market research report shows the latest market insights current situation analysis with upcoming trends"
+    publishedDateTime: 2020-11-14T01:26:00Z
+    webUrl: "https://www.openpr.com/news/2187691/cloud-based-database-market-predictable-to-booming-worldwide"
+    ampWebUrl: "https://www.openpr.com/amp/2187691/cloud-based-database-market-predictable-to-booming-worldwide"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2187691/cloud-based-database-market-predictable-to-booming-worldwide"
     type: article
     provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 37
+      name: openpr.com
+      domain: openpr.com
+    quality: 53
     images:
-      - url: "https://idge.staticworld.net/ctw/computerworld-logo300x300.png"
-        width: 300
-        height: 300
+      - url: "https://cdn.openpr.com/T/b/Tb14323207_g.jpg"
+        width: 800
+        height: 450
         isCached: true
-  - title: "ACI Worldwide fraud management tech debuts on Microsoft Azure Marketplace"
-    excerpt: "ACI Worldwide (NASDAQ: ACIW), a leading global provider of real-time digital payment and software solutions, today announced that its ACI Fraud Management solution is now available as a fully certified private offering via the Microsoft Azure Marketplace."
-    publishedDateTime: 2020-11-23T11:29:00Z
-    webUrl: "https://www.finextra.com/pressarticle/85130/aci-worldwide-fraud-management-tech-debuts-on-microsoft-azure-marketplace"
+  - title: "Datadobi Announces Support for File Data Migration and Protection to Microsoft Azure"
+    excerpt: "Using Datadobi software, enterprises get the best of both worlds by allowing them the flexibility to keep their NAS file data either in their data center, in Azure, or both. And because Datadobi documents ‘chain of custody,"
+    publishedDateTime: 2020-11-19T14:57:00Z
+    webUrl: "https://www.businesswire.com/news/home/20201119005097/en/Datadobi-Announces-Support-for-File-Data-Migration-and-Protection-to-Microsoft-Azure"
     type: article
     provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 36
+      name: Business Wire
+      domain: businesswire.com
+    quality: 47
     images:
-      - url: "https://www.finextra.com/about/finextra-logo-alt-16-9.jpg"
-        width: 480
-        height: 270
+      - url: "https://mms.businesswire.com/media/20201119005097/en/771234/23/datadobi-logo.jpg"
+        width: 1200
+        height: 627
         isCached: true
-  - title: "2021 – The year to save costs and accelerate your business with Microsoft Azure"
-    excerpt: "When it comes to cloud services, Microsoft Azure is a market leader and a favourite among enterprises – and is available in South Africa through leading ICT solutions provider Axiz. As a ..."
-    publishedDateTime: 2020-11-17T05:17:00Z
-    webUrl: "https://businesstech.co.za/news/industry-news/448961/2021-the-year-to-save-costs-and-accelerate-your-business-with-microsoft-azure/"
-    ampWebUrl: "https://businesstech.co.za/news/industry-news/448961/2021-the-year-to-save-costs-and-accelerate-your-business-with-microsoft-azure/amp/"
-    cdnAmpWebUrl: "https://businesstech-co-za.cdn.ampproject.org/c/s/businesstech.co.za/news/industry-news/448961/2021-the-year-to-save-costs-and-accelerate-your-business-with-microsoft-azure/amp/"
+  - title: "Datadobi Announces Support for File Data Migration and Protection to Microsoft Azure"
+    excerpt: "Datadobi, a global leader in unstructured data management software, has today announced support for file data migration to and protection on Microsoft Azure. Adding this new capability means enterprise customers have another option to migrate and protect their NAS file data to the cloud,"
+    publishedDateTime: 2020-11-19T17:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20201119005097/en/"
     type: article
     provider:
-      name: businesstech.co.za
-      domain: businesstech.co.za
-    quality: 33
+      name: Business Wire
+      domain: businesswire.com
+    quality: 47
+    images:
+      - url: "https://mms.businesswire.com/media/20201119005097/en/771234/23/datadobi-logo.jpg"
+        width: 1200
+        height: 627
+        isCached: true
+  - title: "Nerdio Exec On How To Build A Successful Cloud Practice With Microsoft Azure"
+    excerpt: "Nerdio CRO Joseph Landes outlines why it’s worth it for MSPs to think about moving to the cloud with Microsoft Azure. Also, MSP partner Digital Defense Founder and CEO Richard Harber talks about the benefits of teaming with Nerdio as he builds his Azure business."
+    publishedDateTime: 2020-11-21T00:45:00Z
+    webUrl: "https://www.crn.com/news/nerdio-exec-on-how-to-build-a-successful-cloud-practice-with-microsoft-azure"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 34
+    images:
+      - url: "https://www.crn.com/resources/0263-10e71eed4369-254ea3487df4-1000/nerdio_cro_on_3_ways_msps_can_make_money_with_microsoft_azure.jpeg"
+        width: 1280
+        height: 717
+        isCached: true
   - title: "Accela Migrates Over 200 Data Center Customers to Microsoft Azure to Accelerate Digital Transformation"
     excerpt: "PRNewswire/ -- Accela®, a leading provider of cloud-based solutions for government, today announced it successfully completed over 200 customer"
     publishedDateTime: 2020-11-12T10:00:00Z
@@ -174,20 +176,17 @@ related:
         width: 1024
         height: 500
         isCached: true
-  - title: "Coding Dojo Chosen by Microsoft as a Microsoft Azure Training Partner for Global Digital Skills Initiative"
-    excerpt: "announces today it is working with Microsoft to proliferate Microsoft Azure certifications in the workforce. The collaboration will increase the amount of job-ready Azure developers by integrating Microsoft Learn tracks into the Coding Dojo curriculum ..."
-    publishedDateTime: 2020-11-24T20:11:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/coding-dojo-chosen-by-microsoft-as-a-microsoft-azure-training-partner-for-global-digital-skills-initiative-301179437.html"
+  - title: "Cloud visibility, intelligence, and control from OpsCompass: Now available in the Microsoft Azure Marketplace"
+    excerpt: "Microsoft Azure customers worldwide now gain access to the Microsoft Cloud Adoption Framework-focused OpsCompass solution to take advantage of the scalability, reliability,"
+    publishedDateTime: 2020-11-23T14:55:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/11/p18488336/cloud-visibility-intelligence-and-control-from-opscompass-now-available-in-the-microsoft-azure-mar"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/18488336"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18488336"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 19
-    images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
-        isCached: true
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 18
   - title: "ANS migrates Fenwick IT systems to Microsoft Azure public cloud"
     excerpt: "UK digital and cloud services provider ANS Group has been selected by luxury department store Fenwick to migrate IT systems to the Microsoft Azure public"
     publishedDateTime: 2020-11-11T14:48:00Z
@@ -206,15 +205,6 @@ related:
       name: Newswire Today
       domain: newswiretoday.com
     quality: 17
-  - title: "ANS Group migrates NHS SCW workloads to Microsoft Azure"
-    excerpt: "UK digital and cloud services provider ANS Group has been selected by NHS South, Central & West (SCW) to migrate their workloads to Microsoft"
-    publishedDateTime: 2020-11-18T09:53:00Z
-    webUrl: "https://www.telecompaper.com/news/ans-group-migrates-nhs-scw-workloads-to-microsoft-azure--1362359"
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 17
   - title: "StoneFly Inc. Now Available in the Microsoft Azure Marketplace"
     excerpt: "Microsoft Azure customers worldwide now gain access to StoneFly cloud storage to take advantage of the scalability, reliability, and agility of Azure to drive application development and shape business strategies."
     publishedDateTime: 2020-11-20T08:03:00Z
@@ -224,6 +214,20 @@ related:
       name: PR
       domain: pr.com
     quality: 17
+  - title: "AppDynamics Featured as an Application Performance Monitoring Partner in the Microsoft Cloud Adoption Framework for Azure"
+    excerpt: "AppDynamics, a part of Cisco and the world’s #1 APM solution and full-stack, business-centric observability platform, today announced its listing on Microsoft’s Cloud Adoption Framework (CAF) for Azure customers."
+    publishedDateTime: 2020-11-20T17:43:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-products-and-services-lung-disease-ef8f6ef9ccc84b9fbffef39c53634b8e"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 12
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "4J4n+cpxWJH8ii9RutSlVW23v7ZtbXbqsaUA7Z7RfBd1LAKHfZgBZyo+vc4iNP4gDeis4yJDAW+G75RqCbIiSmYpQ7J+xkSwSGxmHbRyWrGmrUqClIWnZ73IvTE3agRynRphktqzvT6i32RIDabHh0Gh20c93A9PulOtRyH93vxmEb49nl8wrDpWVmnP6Jkz5UNSBXaMWn8bI5ocFPkbToerEjDM8CTdoAjvsM2nm/KBei7x0RcUrWjAVPnKSPQNBDmnb78dexT9VZgkJJDRRDj+/rprxnQwb9eX1QHgtvQmqhjCDqWEOEVXlQg19FJZ0yhQIkfMWX4N2C352z9Hu2GmGSQlxkLTq++mIkPAIV0=;A5K0ONPUbGCdtpiEyAwUnQ=="
 ---

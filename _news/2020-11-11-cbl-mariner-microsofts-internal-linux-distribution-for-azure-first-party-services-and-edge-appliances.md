@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/cbl-mariner-microsofts-inte
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/cbl-mariner-microsofts-internal-linux-distribution-for-azure-first-party-services-and-edge-appliances/"
 type: article
 quality: 81
-heat: 161
+heat: 181
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "StoneFly Inc. Now Available in the Microsoft Azure Marketplace"
+    excerpt: "StoneFly Inc today announced the availability of StoneFly cloud storage in the Microsoft Azure Marketplace an online store providing applications and services for use on Azure StoneFly customers can now take advantage of the productive"
+    publishedDateTime: 2020-11-18T15:52:00Z
+    webUrl: "https://www.openpr.com/news/2189778/stonefly-inc-now-available-in-the-microsoft-azure-marketplace"
+    ampWebUrl: "https://www.openpr.com/amp/2189778/stonefly-inc-now-available-in-the-microsoft-azure-marketplace"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2189778/stonefly-inc-now-available-in-the-microsoft-azure-marketplace"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 57
+    images:
+      - url: "https://cdn.openpr.com/T/b/Tb18457070_g.jpg"
+        width: 600
+        height: 400
+        isCached: true
   - title: "Tech Mahindra recognized as a Microsoft Azure Expert Managed Service Provider"
     excerpt: "This recognition signifies Tech Mahindra’s proven expertise as an Azure Expert MSP, including infrastructure and application migration."
     publishedDateTime: 2020-11-12T06:58:00Z

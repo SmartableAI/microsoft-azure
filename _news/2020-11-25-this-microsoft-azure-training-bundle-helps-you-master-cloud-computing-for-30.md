@@ -56,6 +56,68 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Canadian company launches conversational AI for interfacing with databases on Microsoft Azure"
+    excerpt: "Microsoft Azure customers can use AutoQL to streamline access to data for everyone from executives to analysts and front-line workers"
+    publishedDateTime: 2020-11-24T17:22:00Z
+    webUrl: "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=144056"
+    type: article
+    provider:
+      name: KMWorld Magazine
+      domain: kmworld.com
+    quality: 43
+    images:
+      - url: "https://www.kmworld.com/images/subscribe_magazines_km.png"
+        width: 772
+        height: 594
+        isCached: true
+  - title: "ACI Worldwide fraud management tech debuts on Microsoft Azure Marketplace"
+    excerpt: "ACI Worldwide (NASDAQ: ACIW), a leading global provider of real-time digital payment and software solutions, today announced that its ACI Fraud Management solution is now available as a fully certified private offering via the Microsoft Azure Marketplace."
+    publishedDateTime: 2020-11-23T11:29:00Z
+    webUrl: "https://www.finextra.com/pressarticle/85130/aci-worldwide-fraud-management-tech-debuts-on-microsoft-azure-marketplace"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 36
+    images:
+      - url: "https://www.finextra.com/about/finextra-logo-alt-16-9.jpg"
+        width: 480
+        height: 270
+        isCached: true
+  - title: "2021 – The year to save costs and accelerate your business with Microsoft Azure"
+    excerpt: "When it comes to cloud services, Microsoft Azure is a market leader and a favourite among enterprises – and is available in South Africa through leading ICT solutions provider Axiz. As a ..."
+    publishedDateTime: 2020-11-17T05:17:00Z
+    webUrl: "https://businesstech.co.za/news/industry-news/448961/2021-the-year-to-save-costs-and-accelerate-your-business-with-microsoft-azure/"
+    ampWebUrl: "https://businesstech.co.za/news/industry-news/448961/2021-the-year-to-save-costs-and-accelerate-your-business-with-microsoft-azure/amp/"
+    cdnAmpWebUrl: "https://businesstech-co-za.cdn.ampproject.org/c/s/businesstech.co.za/news/industry-news/448961/2021-the-year-to-save-costs-and-accelerate-your-business-with-microsoft-azure/amp/"
+    type: article
+    provider:
+      name: businesstech.co.za
+      domain: businesstech.co.za
+    quality: 33
+  - title: "Coding Dojo Chosen by Microsoft as a Microsoft Azure Training Partner for Global Digital Skills Initiative"
+    excerpt: "announces today it is working with Microsoft to proliferate Microsoft Azure certifications in the workforce. The collaboration will increase the amount of job-ready Azure developers by integrating Microsoft Learn tracks into the Coding Dojo curriculum ..."
+    publishedDateTime: 2020-11-24T20:11:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/coding-dojo-chosen-by-microsoft-as-a-microsoft-azure-training-partner-for-global-digital-skills-initiative-301179437.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 19
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
+        isCached: true
+  - title: "ANS Group migrates NHS SCW workloads to Microsoft Azure"
+    excerpt: "UK digital and cloud services provider ANS Group has been selected by NHS South, Central & West (SCW) to migrate their workloads to Microsoft"
+    publishedDateTime: 2020-11-18T09:53:00Z
+    webUrl: "https://www.telecompaper.com/news/ans-group-migrates-nhs-scw-workloads-to-microsoft-azure--1362359"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 17
 
 secured: "OiNOqhwbYedkbGAfe+x91OMerPiE5orSykrIj2+/QX9R9N12325hkAFok+HHEqVYig0co77EZHGZey0NwNrLEChvuH/Ah5mx4ETO6vxhf8tzC/HXEa1ih4aftHGnocjjA5w2xNtBzBZ9kbzMDBkGrPnLeEzp2D5j0cMa4fR2EBMcpRuWT1N2JVRcXY8lW/yNhtWddIW4H7uYhVHSYnA42avZwfXcyHIeUybnLEX6iZCI/hwLEXS0aBrsAyiUeXy4mE4Hh1i0XVMTGIfNwY6reEATWJN2VnoB9PMFoRHJ67mxhxsBe3qy9bUJnaSE1AJNm37KiK+CprOAhdLSDY64ZIYuwLh4rQbW2d4oBotob/UIEieRBdbK3xkMS8ih5v2jGl86LK1dB6ME1Ri021pcGQves/UyPEZLZnTq5N98LJieIch6BpFoJ5kPt5qT12/Ne4ewa33zIsJmtQAblc4qsb6ir8lZ1Gng0yIsjgVCn2LGBNl80Zfv3TrJux+TFIgGlo7KLFB3RiSSWmqOECC6HQ==;ZHmYE9zM5+BSaNovecok3Q=="
 ---

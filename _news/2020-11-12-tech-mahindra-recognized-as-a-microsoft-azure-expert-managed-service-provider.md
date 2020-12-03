@@ -42,6 +42,22 @@ related:
         width: 739
         height: 477
         isCached: true
+  - title: "StoneFly Inc. Now Available in the Microsoft Azure Marketplace"
+    excerpt: "StoneFly Inc today announced the availability of StoneFly cloud storage in the Microsoft Azure Marketplace an online store providing applications and services for use on Azure StoneFly customers can now take advantage of the productive"
+    publishedDateTime: 2020-11-18T15:52:00Z
+    webUrl: "https://www.openpr.com/news/2189778/stonefly-inc-now-available-in-the-microsoft-azure-marketplace"
+    ampWebUrl: "https://www.openpr.com/amp/2189778/stonefly-inc-now-available-in-the-microsoft-azure-marketplace"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2189778/stonefly-inc-now-available-in-the-microsoft-azure-marketplace"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 57
+    images:
+      - url: "https://cdn.openpr.com/T/b/Tb18457070_g.jpg"
+        width: 600
+        height: 400
+        isCached: true
   - title: "Microsoft Cloud Service Aims for Support of Space and Satellite Ventures"
     excerpt: "Azure Space hopes to achieve fast, secure satellite networking anywhere in the world. Azure Space combines the power of cloud and space technology. (Image courtesy of Microsoft.) Microsoft has brought together a team of space industry veterans and experts to work together with its in-house product engineers to develop cloud capabilities suited for the needs of space."
     publishedDateTime: 2020-11-16T20:16:00Z
