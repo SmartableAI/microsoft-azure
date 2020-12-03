@@ -25,130 +25,169 @@ images:
     isCached: true
 
 related:
-  - title: "Innovaccer's Patient Relationship Management Solution is Now Available on Microsoft Azure"
-    excerpt: "Innovaccer, Inc., a leading healthcare technology company, recently announced that its patient relationship management solution is now available on Microsoft Azure. The solution streamlines communication between patients and their care teams."
-    publishedDateTime: 2020-11-24T18:01:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/innovaccer-s-patient-relationship-management-solution-is-now-available-on-microsoft-azure-1029835761"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/innovaccer-s-patient-relationship-management-solution-is-now-available-on-microsoft-azure-1029835761"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/innovaccer-s-patient-relationship-management-solution-is-now-available-on-microsoft-azure-1029835761"
+  - title: "Microsoft unveils Azure Purview for data governance, Azure Synapse Analytics hits general availability"
+    excerpt: "Microsoft's Azure Purview, a new data governance solution, is in public preview. Azure Synapse Analytics is generally available."
+    publishedDateTime: 2020-12-03T16:03:00Z
+    webUrl: "https://venturebeat.com/2020/12/03/microsoft-azure-purview-azure-synapse-analytics/"
+    ampWebUrl: "https://venturebeat.com/2020/12/03/microsoft-azure-purview-azure-synapse-analytics/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/03/microsoft-azure-purview-azure-synapse-analytics/amp/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 68
-  - title: "Azure Databricks Achieves FedRAMP High Authorization on Microsoft Azure Government"
-    excerpt: "With this certification, customers can now use Azure Databricks to process the U.S. government’s most sensitive, unclassified data in cloud computing environments, including data that involves the protection of life and financial assets. "
-    publishedDateTime: 2020-11-25T17:00:11Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-databricks-achieves-fedramp-high-authorization-on-microsoft-azure-government-mag/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 61
-  - title: "DLT Solutions to Offer Microsoft Azure and Modern Workplace Solutions Through its U.S. Public Sector Partner Network"
-    excerpt: "DLT Solutions, LLC., a wholly owned subsidiary of Tech Data and a premier government technology solutions aggregator, has partnered with Microsoft to bring to market Azure and Modern Workplace solutions to the U."
-    publishedDateTime: 2020-11-18T14:50:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/dlt-solutions-to-offer-microsoft-azure-and-modern-workplace-solutions-through-its-u-s-public-sector-partner-network-1029816539"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/dlt-solutions-to-offer-microsoft-azure-and-modern-workplace-solutions-through-its-u-s-public-sector-partner-network-1029816539"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/dlt-solutions-to-offer-microsoft-azure-and-modern-workplace-solutions-through-its-u-s-public-sector-partner-network-1029816539"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 54
-  - title: "Datadobi Announces Support for File Data Migration and Protection to Microsoft Azure"
-    excerpt: "Using Datadobi software, enterprises get the best of both worlds by allowing them the flexibility to keep their NAS file data either in their data center, in Azure, or both. And because Datadobi documents ‘chain of custody,"
-    publishedDateTime: 2020-11-19T14:57:00Z
-    webUrl: "https://www.businesswire.com/news/home/20201119005097/en/Datadobi-Announces-Support-for-File-Data-Migration-and-Protection-to-Microsoft-Azure"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 47
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 113
     images:
-      - url: "https://mms.businesswire.com/media/20201119005097/en/771234/23/datadobi-logo.jpg"
+      - url: "https://venturebeat.com/wp-content/uploads/2020/12/microsoft-azure.png?w=1200&strip=all"
         width: 1200
-        height: 627
+        height: 600
         isCached: true
-  - title: "Exoprise Office 365 Monitoring App Now Available in the Microsoft Azure Marketplace"
-    excerpt: "PRNewswire/ -- Exoprise, a leading provider of software-as-a-service (SaaS) and Office 365 monitoring, today announced the availability of its"
-    publishedDateTime: 2020-12-01T15:58:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/exoprise-office-365-monitoring-app-now-available-in-the-microsoft-azure-marketplace-301182861.html"
+  - title: "Microsoft introduces Azure Purview data catalog; announces GA of Synapse Analytics"
+    excerpt: "The long-awaited follow-up to Azure Data Catalog is here, featuring integration with both Power BI and Azure Synapse Analytics. And with the GA of Synapse's data lake features also being announced, data governance on the Azure cloud comes just in time."
+    publishedDateTime: 2020-12-03T16:04:00Z
+    webUrl: "https://www.zdnet.com/article/microsoft-introduces-azure-purview-data-catalog-announces-ga-of-synapse-analytics/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-introduces-azure-purview-data-catalog-announces-ga-of-synapse-analytics/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-introduces-azure-purview-data-catalog-announces-ga-of-synapse-analytics/"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 31
+      name: ZDNet
+      domain: zdnet.com
+    quality: 103
+  - title: "Microsoft's cloud chief breaks down new Azure products"
+    excerpt: "CNBC's \"Squawk Alley\" team discusses Microsoft new data products for Azure with Microsoft’s head of cloud and executive vice president of Azure, Jason Zander."
+    publishedDateTime: 2020-12-03T16:55:00Z
+    webUrl: "https://www.cnbc.com/video/2020/12/03/microsofts-cloud-chief-breaks-down-new-azure-products.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 77
     images:
-      - url: "https://mma.prnewswire.com/media/1020851/exoprise_Logo.jpg?p=facebook"
-        width: 1024
-        height: 536
+      - url: "https://image.cnbcfm.com/api/v1/image/106805801-16070117561607011753-12761111221-1080pnbcnews.jpg?v=1607011756"
+        width: 1920
+        height: 1080
         isCached: true
-  - title: "Azure Databricks Achieves FedRAMP High Authorization on Microsoft Azure Government (MAG)"
-    excerpt: "Databricks, the Data and AI Company, today announced that Microsoft Azure Databricks has received a Federal Risk and Authorization"
-    publishedDateTime: 2020-11-25T16:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/azure-databricks-achieves-fedramp-high-authorization-on-microsoft-azure-government-mag-301180081.html"
+  - title: "Microsoft Build brings announcements for cloud data, analytics services, and intersection of the two"
+    excerpt: "A series of announcements around Synapse Analytics, Cosmos DB, Azure Database and SQL Edge make this year's Microsoft Build conference a virtual event revealing actual advances and concrete integrations."
+    publishedDateTime: 2020-05-19T15:00:00Z
+    webUrl: "https://www.zdnet.com/article/microsoft-build-brings-announcements-for-cloud-data-analytics-services-and-intersection-of-the-two/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-build-brings-announcements-for-cloud-data-analytics-services-and-intersection-of-the-two/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-build-brings-announcements-for-cloud-data-analytics-services-and-intersection-of-the-two/"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 28
+      name: ZDNet
+      domain: zdnet.com
+    quality: 67
     images:
-      - url: "https://mma.prnewswire.com/media/1160675/Databricks_Logo.jpg?p=facebook"
-        width: 1094
-        height: 576
+      - url: "https://zdnet2.cbsistatic.com/hub/i/r/2020/05/13/bf550a82-e9e8-4511-bee9-983426e8fc52/thumbnail/1200x675/aaf99352c82c362f4feba84192e7819c/2555435eba4cad133864-58121622-nvidia-accelerates-apache-spark.jpg"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Innovaccer's Data Activation Platform Now on Microsoft Cloud for Healthcare"
-    excerpt: "Innovaccer, Inc., a leading healthcare technology company, recently announced that it is supporting Microsoft Cloud for Healthcare with"
-    publishedDateTime: 2020-10-13T17:17:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/innovaccers-data-activation-platform-now-on-microsoft-cloud-for-healthcare-301151372.html"
+  - title: "Microsoft Azure Synapse Link brings operational database services and analytics together in real-time"
+    excerpt: "To solve this issue, Microsoft is today announcing Azure Synapse Link which brings operational database services and analytics together in real-time with a single click. Using this, customers can get insights from their real-time transactional data stored in their operational databases with a single click,"
+    publishedDateTime: 2020-05-19T15:01:00Z
+    webUrl: "https://mspoweruser.com/microsoft-azure-synapse-link-database-analytics/"
+    ampWebUrl: "https://mspoweruser.com/microsoft-azure-synapse-link-database-analytics/amp/"
+    cdnAmpWebUrl: "https://mspoweruser-com.cdn.ampproject.org/c/s/mspoweruser.com/microsoft-azure-synapse-link-database-analytics/amp/"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 20
+      name: MSPoweruser
+      domain: mspoweruser.com
+    quality: 42
     images:
-      - url: "https://mma.prnewswire.com/media/1311776/Innovaccer_Logo.jpg?p=facebook"
-        width: 600
-        height: 314
+      - url: "https://mspoweruser.com/wp-content/uploads/2019/11/Microsoft-Azure-Synapse-Analytics.jpg"
+        width: 1134
+        height: 737
         isCached: true
-  - title: "Accenture Acquires AWS, Microsoft Azure Cloud Partner Olikka"
-    excerpt: "Accenture acquires Olikka, an Australia-based systems integrator for Amazon Web Services (AWS) & Microsoft Azure. Accenture is the worlds' top public cloud MSP, ChannelE2E research says."
-    publishedDateTime: 2020-12-02T02:31:00Z
-    webUrl: "https://www.channele2e.com/investors/mergers-acquisitions/accenture-buys-aws-microsoft-azure-cloud-partner-olikka/"
+  - title: "Microsoft Azure becomes preferred Cloud platform for SAS analytics"
+    excerpt: "Redmond, June 16 (IANS) Tech giant Microsoft and business analytics software and services firm SAS have announced a strategic partnership, making Azure the preferred Cloud platform for SAS's ..."
+    publishedDateTime: 2020-06-16T10:15:00Z
+    webUrl: "https://www.sify.com/news/microsoft-azure-becomes-preferred-cloud-platform-for-sas-analytics-news-education-ugqePIcgcedib.html"
     type: article
     provider:
-      name: ChannelE2E
-      domain: channele2e.com
+      name: Sify.com
+      domain: sify.com
+    quality: 37
+    images:
+      - url: "https://www.sify.com/uploads/microsoft_azure_wiki_ugqg10gibaeei.jpg"
+        width: 900
+        height: 400
+        isCached: true
+  - title: "Modern VDI Solutions with Microsoft Azure"
+    excerpt: "Computerworld covers a range of technology topics, with a focus on these core areas of IT: Windows, Mobile, Apple/enterprise, Office and productivity suites, collaboration, web browsers and blockchain,"
+    publishedDateTime: 2020-11-29T21:00:00Z
+    webUrl: "https://www.computerworld.com/resources/211308/modern-vdi-solutions-with-microsoft-azure"
+    type: article
+    provider:
+      name: Computerworld
+      domain: computerworld.com
+    quality: 37
+    images:
+      - url: "https://idge.staticworld.net/ctw/computerworld-logo300x300.png"
+        width: 300
+        height: 300
+        isCached: true
+  - title: "Modern VDI Solutions with Microsoft Azure"
+    excerpt: "But there’s good news: Modern VDI Solutions with Microsoft Azure, focused on Windows Virtual Desktop (WVD). Join experts from Zones as they define VDI (a technology suite used to create a ..."
+    publishedDateTime: 2020-11-30T18:55:00Z
+    webUrl: "https://www.csoonline.com/resources/211308/modern-vdi-solutions-with-microsoft-azure"
+    type: article
+    provider:
+      name: CSOonline
+      domain: csoonline.com
+    quality: 37
+    images:
+      - url: "https://idge.staticworld.net/cso/CSO_logo_300x300.png"
+        width: 300
+        height: 300
+        isCached: true
+  - title: "Microsoft Azure Service Fabric 7.2 Fourth Refresh Release Notes"
+    excerpt: "Service Fabric is a distributed systems platform for packaging, deploying, and managing stateless and stateful distributed applications and containers at large scale. - microsoft/service-fabric"
+    publishedDateTime: 2020-12-03T09:25:20Z
+    webUrl: "https://github.com/microsoft/service-fabric/blob/master/release_notes/Service-Fabric-72CU4.md"
+    type: article
+    provider:
+      name: GitHub
+      domain: github.com
+    quality: 37
+    images:
+      - url: "https://avatars2.githubusercontent.com/u/6154722?s=400&v=4"
+        width: 400
+        height: 400
+        isCached: true
+  - title: "Tangent Works' Predictive Analytics Now Available in the Microsoft Azure Marketplace"
+    excerpt: "RANDOLPH, N.J. and BRUSSELS, July 24, 2020 /PRNewswire/ -- Tangent Works today announced the availability of TIM in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure. Tangent Works customers can now take ..."
+    publishedDateTime: 2020-07-24T23:16:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/tangent-works-predictive-analytics-now-available-in-the-microsoft-azure-marketplace/article_b03fb881-eb63-5744-99a6-90d2c9aa5c01.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 30
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/c/2f/c2fefe6c-c0e5-527b-ba10-0c9af861210a/5f1ae2bbc1ad0.image.jpg?resize=400%2C300"
+        width: 400
+        height: 300
+        isCached: true
+  - title: "TekLink International Inc. Is Now A Microsoft Gold Partner For Azure Cloud Analytics And Data Analytics"
+    excerpt: "TekLink International Inc., a respected leader in Cloud Platforms, Business and Financial Planning Solutions, and"
+    publishedDateTime: 2020-08-07T18:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/08/n16992431/teklink-international-inc-is-now-a-microsoft-gold-partner-for-azure-cloud-analytics-and-data-analy"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/16992431"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16992431"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 21
+  - title: "CMC Networks starts direct access to Microsoft Azure peering service"
+    excerpt: "Global telecom carrier CMC Networks said it now provides direct access to the Microsoft Azure Peering Service, further increasing access to its range of cloud services. Clients will be able to benefit from a low latency and SLA-backed,"
+    publishedDateTime: 2020-11-26T14:22:00Z
+    webUrl: "https://www.telecompaper.com/news/cmc-networks-starts-direct-access-to-microsoft-azure-peering-service--1363427"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
     quality: 17
-  - title: "AppDynamics Featured as an Application Performance Monitoring Partner in the Microsoft Cloud Adoption Framework for Azure"
-    excerpt: "AppDynamics, a part of Cisco and the world’s #1 APM solution and full-stack, business-centric observability platform, today announced its listing on Microsoft’s Cloud Adoption Framework (CAF) for Azure customers."
-    publishedDateTime: 2020-11-20T17:43:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-products-and-services-lung-disease-ef8f6ef9ccc84b9fbffef39c53634b8e"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 12
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "Microsoft Reveals Culture of Innovation Fuels Business Resilience and Economic Recovery in Indonesia at the 2020 Microsoft Cloud Innovation Summit"
-    excerpt: "The COVID-19 pandemic has shown that no business is 100 percent resilient, but an organization that is strengthened by digital technology will become tougher and more capable of transformation when faced with mass structural change."
-    publishedDateTime: 2020-12-01T08:35:00Z
-    webUrl: "https://news.microsoft.com/id-id/2020/12/01/microsoft-reveals-culture-of-innovation-fuels-business-resilience-and-economic-recovery-in-indonesia-at-the-2020-microsoft-cloud-innovation-summit/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 0
-    images:
-      - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/454/2020/12/coi-summary-lead-image-1-768x512.jpg"
-        width: 768
-        height: 512
-        isCached: true
 
 secured: "p6QI0lBTEwUclZYM9d9962CnhU6z2+WWab/ZzdxVtjlboL2oJwpOgllOy+ArmbBnRrsGsAwn8SXyULAyYv3g+BMrWQXbP6g6qheUrK1WePF8sDhXqvi8Ft4W+d5lfmwjKaG0EVW2L03ZPokx+T4L1pFytxCVco7V9gj+lui3gdK1as6PTp8l1pm8nFGlNJr4kfwHQZL8QQTyiygiw0DlV3jSiII2ahIcA+yDh6U3pXyK8HbZEJnfWrZxm88xOMb1O9W4FFvMhrTxYS8N3HbKpcThDxPxUQ0+KuHRRDJ41tz43eRi9XR5DzNxktjZwnS32cGoUIYDj3o77UJy2hc84HPa278B3oZSkLFUGsi/RVL5H0lusuYzjfJ/axrQ54KmTanSonOK+XObPzrSqvsuspb/cqkRYyv0WxDQTPQgF2T4QZ86fS3V4gdqwMt56528//YZNsVz1ZBDLG7C2Ti/qrEwY+unALchDH1sNoTlYVruTuEnVcFsGW70O1Ms30gETDBoxxNmd7v7YJRvj5+lfQ==;AHEjfMWJa/B/UcZ8gsKEpw=="
 ---

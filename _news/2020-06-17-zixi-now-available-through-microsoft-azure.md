@@ -265,20 +265,6 @@ related:
         width: 600
         height: 400
         isCached: true
-  - title: "Microsoft Azure becomes preferred Cloud platform for SAS analytics"
-    excerpt: "Redmond, June 16 (IANS) Tech giant Microsoft and business analytics software and services firm SAS have announced a strategic partnership, making Azure the preferred Cloud platform for SAS's ..."
-    publishedDateTime: 2020-06-16T10:15:00Z
-    webUrl: "https://www.sify.com/news/microsoft-azure-becomes-preferred-cloud-platform-for-sas-analytics-news-education-ugqePIcgcedib.html"
-    type: article
-    provider:
-      name: Sify.com
-      domain: sify.com
-    quality: 37
-    images:
-      - url: "https://www.sify.com/uploads/microsoft_azure_wiki_ugqg10gibaeei.jpg"
-        width: 900
-        height: 400
-        isCached: true
   - title: "PrimeKey Releases SignServer Cloud in the Microsoft Azure Marketplace"
     excerpt: "Azure Key Vault is Microsoft's hardware security module (HSM) tool for securely storing and accessing keys, passwords, or certificates. Firmware and software running on an IoT or Industrial IoT ..."
     publishedDateTime: 2020-06-16T11:47:00Z

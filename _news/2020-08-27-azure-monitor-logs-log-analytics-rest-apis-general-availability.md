@@ -100,6 +100,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 69
+  - title: "Shape your future with data and analytics"
+    excerpt: "Over the years, we have had a front-row seat to digital transformation occurring across all industries and regions around the world. "
+    publishedDateTime: 2020-12-03T08:00:22Z
+    webUrl: "https://azure.microsoft.com/blog/shape-your-future-with-data-and-analytics/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 69
   - title: "Ingestion data isolation in Log Analytics"
     excerpt: "To provide you with additional service stability, we have added the ingestion volume rate limit to additional Log Analytics data sources including Diagnostic Settings, agents, and data collector API."
     publishedDateTime: 2020-08-26T16:00:01Z

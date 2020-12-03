@@ -499,22 +499,6 @@ related:
         width: 720
         height: 406
         isCached: true
-  - title: "Microsoft Azure Synapse Link brings operational database services and analytics together in real-time"
-    excerpt: "To solve this issue, Microsoft is today announcing Azure Synapse Link which brings operational database services and analytics together in real-time with a single click. Using this, customers can get insights from their real-time transactional data stored in their operational databases with a single click,"
-    publishedDateTime: 2020-05-19T15:01:00Z
-    webUrl: "https://mspoweruser.com/microsoft-azure-synapse-link-database-analytics/"
-    ampWebUrl: "https://mspoweruser.com/microsoft-azure-synapse-link-database-analytics/amp/"
-    cdnAmpWebUrl: "https://mspoweruser-com.cdn.ampproject.org/c/s/mspoweruser.com/microsoft-azure-synapse-link-database-analytics/amp/"
-    type: article
-    provider:
-      name: MSPoweruser
-      domain: mspoweruser.com
-    quality: 42
-    images:
-      - url: "https://mspoweruser.com/wp-content/uploads/2019/11/Microsoft-Azure-Synapse-Analytics.jpg"
-        width: 1134
-        height: 737
-        isCached: true
   - title: "Microsoft Creates Specific Cloud Service for Health Care"
     excerpt: "Microsoft created a specific cloud service for health care, possibly presaging a trend toward customized cloud offerings for individual industries."
     publishedDateTime: 2020-05-19T17:19:00Z

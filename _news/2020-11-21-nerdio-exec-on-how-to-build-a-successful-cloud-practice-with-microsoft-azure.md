@@ -62,15 +62,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 18
-  - title: "CMC Networks starts direct access to Microsoft Azure peering service"
-    excerpt: "Global telecom carrier CMC Networks said it now provides direct access to the Microsoft Azure Peering Service, further increasing access to its range of cloud services. Clients will be able to benefit from a low latency and SLA-backed,"
-    publishedDateTime: 2020-11-26T14:22:00Z
-    webUrl: "https://www.telecompaper.com/news/cmc-networks-starts-direct-access-to-microsoft-azure-peering-service--1363427"
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 17
 
 secured: "X7LMAktKftYJWcXnlXzC8DlWmk5yi958/npZZXu6qHTrMmXXNXr5WfqV2mtshcpG5SBw3/iuXBxaGoVCr7d1la1Unxj1U5d54ueyyPOaWmup6fkV9nj92W5xLm0HBVBg1SpjV+sORxfWFMfUm1LfA9Q24uLpxjI71k09Bu3RHtiNGm0RhLn51R9LxbkEoxM962jWXs3RvWBbetEdOx03n40VcQlJeUabSbWbzpgqCHuw3VugJDD/cy6yd+Y/ijty8lD6q3v52rsGdJvcYHvTgGsYVLoSfxGWTUBF5MUulKYVcYdvoY0F07pHMGhhtmnI/HwLjTYtTJKJlC9u2/reEX3DXQ+O/VYsliICkETdoMhg6NibLnnll9ArZG9DoBG2WqLpanr6FMbjswl7lh5fKk0pvV9oGzwMuZttAntaPfaoVhUcvLYwkqkU+MrRXNFWKZ8XsS2rfcLxinUVzkZeSQLLHycD330DDao5sNJrfkvLb37KrprYEg28YF6ry96xwSdjTCn1j/iUHQramqSWkw==;fcM5nDjRjsPOGgtC8xOcRQ=="
 ---

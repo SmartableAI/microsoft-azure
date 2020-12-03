@@ -99,6 +99,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 69
+  - title: "Shape your future with data and analytics"
+    excerpt: "Over the years, we have had a front-row seat to digital transformation occurring across all industries and regions around the world. "
+    publishedDateTime: 2020-12-03T08:00:22Z
+    webUrl: "https://azure.microsoft.com/blog/shape-your-future-with-data-and-analytics/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 69
   - title: "Azure Monitor Logs – Log Analytics REST APIs general availability"
     excerpt: "Log Analytics control plane REST APIs are generally available under a new consolidated version 2020-08-01."
     publishedDateTime: 2020-08-27T17:00:14Z

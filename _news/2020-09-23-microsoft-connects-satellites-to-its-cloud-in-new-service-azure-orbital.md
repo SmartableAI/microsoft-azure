@@ -304,6 +304,20 @@ related:
         width: 750
         height: 369
         isCached: true
+  - title: "Microsoft launches Azure analytics and data services"
+    excerpt: "Microsoft has officially launched its Azure Synapse Analytics service, as well as its data governance offering Azure Purview, in a move designed to break down and move past silos in businesses.​"
+    publishedDateTime: 2020-12-03T16:08:00Z
+    webUrl: "https://www.arnnet.com.au/article/684941/microsoft-launches-azure-analytics-data-services/"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 54
+    images:
+      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/800x800/dimg/microsoft_azure_dreamstime.jpg"
+        width: 800
+        height: 500
+        isCached: true
   - title: "Course 552241-A: Microsoft Azure Big Data Analytics Solutions"
     excerpt: "A is a two-day instructor-led course is intended for data professionals who want to expand their knowledge about creating big data analytic solutions on Microsoft Azure. Students will learn how to design solutions for batch and real-time data processing."
     publishedDateTime: 2020-07-01T21:48:00Z

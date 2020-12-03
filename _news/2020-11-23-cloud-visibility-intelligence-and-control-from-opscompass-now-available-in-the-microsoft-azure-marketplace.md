@@ -61,15 +61,6 @@ related:
         width: 1280
         height: 717
         isCached: true
-  - title: "CMC Networks starts direct access to Microsoft Azure peering service"
-    excerpt: "Global telecom carrier CMC Networks said it now provides direct access to the Microsoft Azure Peering Service, further increasing access to its range of cloud services. Clients will be able to benefit from a low latency and SLA-backed,"
-    publishedDateTime: 2020-11-26T14:22:00Z
-    webUrl: "https://www.telecompaper.com/news/cmc-networks-starts-direct-access-to-microsoft-azure-peering-service--1363427"
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 17
 
 secured: "zFXED5YEUx6z20Ka8cJh5V7lAk8oe8FXfNyQdCYiLFlA9kYYTLmcF7ch/OVRDDQAHM4yFUrBv56xCM9/OCL+P5TK+j8GQa7zE/naoSHBF8CYa7HlaPO4yEcjoQicqxOHcJy4RCDUCM0dZxk5rjAW51GCphTMgp5jC3oLyCnStWahGwjIpg3t0W5cVddkHx6PSXo4U7M+dF6kVFcXwBVRWBxUpjtNOTB5XUFG1AMvRcw0DLy15Y28Jh6iIjCktNX24hqEGy6Y22Ucc+VlIFK6NVJu70YrUE9EZj+Vpcx7UVHcpl+BXcWu7mvFNPVlA0gr+3TimXdFwf3KRq4CkOypAzcbl+pe2e0wgRT4YIRvCeI=;N/3kUVBRtOftiJUs5xxPZg=="
 ---

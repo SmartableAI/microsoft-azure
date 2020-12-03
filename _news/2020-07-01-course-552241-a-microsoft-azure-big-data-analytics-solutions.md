@@ -321,6 +321,20 @@ related:
         width: 750
         height: 369
         isCached: true
+  - title: "Microsoft launches Azure analytics and data services"
+    excerpt: "Microsoft has officially launched its Azure Synapse Analytics service, as well as its data governance offering Azure Purview, in a move designed to break down and move past silos in businesses.​"
+    publishedDateTime: 2020-12-03T16:08:00Z
+    webUrl: "https://www.arnnet.com.au/article/684941/microsoft-launches-azure-analytics-data-services/"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 54
+    images:
+      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/800x800/dimg/microsoft_azure_dreamstime.jpg"
+        width: 800
+        height: 500
+        isCached: true
   - title: "14 Top Azure Announcements From Microsoft Ignite 2020"
     excerpt: "Microsoft Azure hybrid and multi-cloud solutions in the spotlight at Microsoft Build 2020 include Azure Arc updates, the Azure Certified Device Program, a public preview of Azure Communication Services,"
     publishedDateTime: 2020-09-22T17:16:00Z

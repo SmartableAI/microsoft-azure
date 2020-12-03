@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/azure-monitor-log-analyt
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-monitor-log-analytics-data-export-is-in-public-preview/"
 type: article
 quality: 121
-heat: 421
+heat: 441
 published: true
 
 provider:
@@ -89,6 +89,15 @@ related:
     excerpt: "Text Analytics new API version supports batch processing and healthcare scenarios."
     publishedDateTime: 2020-11-19T17:00:33Z
     webUrl: "https://azure.microsoft.com/en-us/updates/cognitive-services-2/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 69
+  - title: "Shape your future with data and analytics"
+    excerpt: "Over the years, we have had a front-row seat to digital transformation occurring across all industries and regions around the world. "
+    publishedDateTime: 2020-12-03T08:00:22Z
+    webUrl: "https://azure.microsoft.com/blog/shape-your-future-with-data-and-analytics/"
     type: article
     provider:
       name: Microsoft

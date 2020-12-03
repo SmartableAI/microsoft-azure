@@ -279,20 +279,6 @@ related:
         width: 600
         height: 400
         isCached: true
-  - title: "Microsoft Azure becomes preferred Cloud platform for SAS analytics"
-    excerpt: "Redmond, June 16 (IANS) Tech giant Microsoft and business analytics software and services firm SAS have announced a strategic partnership, making Azure the preferred Cloud platform for SAS's ..."
-    publishedDateTime: 2020-06-16T10:15:00Z
-    webUrl: "https://www.sify.com/news/microsoft-azure-becomes-preferred-cloud-platform-for-sas-analytics-news-education-ugqePIcgcedib.html"
-    type: article
-    provider:
-      name: Sify.com
-      domain: sify.com
-    quality: 37
-    images:
-      - url: "https://www.sify.com/uploads/microsoft_azure_wiki_ugqg10gibaeei.jpg"
-        width: 900
-        height: 400
-        isCached: true
   - title: "Zixi Announces Deployment Of Services On Microsoft Azure"
     excerpt: "In addition, Azure customers who use Zixi to deliver streams of high-demand live events can leverage Zixi’s NVIDIA based GPU transcoding to deliver video to any device anywhere"
     publishedDateTime: 2020-06-16T12:14:00Z
