@@ -7,7 +7,7 @@ price: Free
 length: PT39M
 ratings:
   count: 5474
-  average: 4.607417
+  average: 4.607234
 heat: 60
 
 provider:
