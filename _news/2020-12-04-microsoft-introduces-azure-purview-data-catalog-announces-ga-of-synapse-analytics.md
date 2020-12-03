@@ -41,6 +41,17 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Alinta Energy uses Azure Synapse Analytics to power data-driven decisions"
+    excerpt: "It's using Microsoft Azure Synapse Analytics to bring together enterprise data warehousing and big data analytics."
+    publishedDateTime: 2020-12-03T21:13:00Z
+    webUrl: "https://www.zdnet.com/article/alinta-energy-uses-azure-synapse-analytics-to-power-data-driven-decisions/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/alinta-energy-uses-azure-synapse-analytics-to-power-data-driven-decisions/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/alinta-energy-uses-azure-synapse-analytics-to-power-data-driven-decisions/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 108
   - title: "Microsoft's cloud chief breaks down new Azure products"
     excerpt: "CNBC's \"Squawk Alley\" team discusses Microsoft new data products for Azure with Microsoft’s head of cloud and executive vice president of Azure, Jason Zander."
     publishedDateTime: 2020-12-03T16:55:00Z

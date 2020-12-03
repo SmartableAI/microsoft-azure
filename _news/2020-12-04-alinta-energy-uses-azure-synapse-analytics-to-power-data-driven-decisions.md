@@ -1,21 +1,28 @@
 ---
 category: news
-title: "CMC Networks starts direct access to Microsoft Azure peering service"
-excerpt: "Global telecom carrier CMC Networks said it now provides direct access to the Microsoft Azure Peering Service, further increasing access to its range of cloud services. Clients will be able to benefit from a low latency and SLA-backed,"
-publishedDateTime: 2020-11-26T14:22:00Z
-originalUrl: "https://www.telecompaper.com/news/cmc-networks-starts-direct-access-to-microsoft-azure-peering-service--1363427"
-webUrl: "https://www.telecompaper.com/news/cmc-networks-starts-direct-access-to-microsoft-azure-peering-service--1363427"
+title: "Alinta Energy uses Azure Synapse Analytics to power data-driven decisions"
+excerpt: "It's using Microsoft Azure Synapse Analytics to bring together enterprise data warehousing and big data analytics."
+publishedDateTime: 2020-12-03T21:13:00Z
+originalUrl: "https://www.zdnet.com/article/alinta-energy-uses-azure-synapse-analytics-to-power-data-driven-decisions/"
+webUrl: "https://www.zdnet.com/article/alinta-energy-uses-azure-synapse-analytics-to-power-data-driven-decisions/"
+ampWebUrl: "https://www.zdnet.com/google-amp/article/alinta-energy-uses-azure-synapse-analytics-to-power-data-driven-decisions/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/alinta-energy-uses-azure-synapse-analytics-to-power-data-driven-decisions/"
 type: article
-quality: 17
+quality: 108
 heat: -1
 published: false
 
 provider:
-  name: Telecompaper
-  domain: telecompaper.com
+  name: ZDNet
+  domain: zdnet.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/zdnet.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
+  - Analytics
 
 related:
   - title: "Microsoft unveils Azure Purview for data governance, Azure Synapse Analytics hits general availability"
@@ -34,17 +41,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Alinta Energy uses Azure Synapse Analytics to power data-driven decisions"
-    excerpt: "It's using Microsoft Azure Synapse Analytics to bring together enterprise data warehousing and big data analytics."
-    publishedDateTime: 2020-12-03T21:13:00Z
-    webUrl: "https://www.zdnet.com/article/alinta-energy-uses-azure-synapse-analytics-to-power-data-driven-decisions/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/alinta-energy-uses-azure-synapse-analytics-to-power-data-driven-decisions/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/alinta-energy-uses-azure-synapse-analytics-to-power-data-driven-decisions/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 108
   - title: "Microsoft introduces Azure Purview data catalog; announces GA of Synapse Analytics"
     excerpt: "The long-awaited follow-up to Azure Data Catalog is here, featuring integration with both Power BI and Azure Synapse Analytics. And with the GA of Synapse's data lake features also being announced, data governance on the Azure cloud comes just in time."
     publishedDateTime: 2020-12-03T16:04:00Z
@@ -208,7 +204,16 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 21
+  - title: "CMC Networks starts direct access to Microsoft Azure peering service"
+    excerpt: "Global telecom carrier CMC Networks said it now provides direct access to the Microsoft Azure Peering Service, further increasing access to its range of cloud services. Clients will be able to benefit from a low latency and SLA-backed,"
+    publishedDateTime: 2020-11-26T14:22:00Z
+    webUrl: "https://www.telecompaper.com/news/cmc-networks-starts-direct-access-to-microsoft-azure-peering-service--1363427"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 17
 
-secured: "pzPftJCIiJRD7ZyFCH1eaNHiKZBVhEqnIrFJrCcHBa1xDaSG/27wxuNHVxunnhsJR7cLc2vMZdJIEn90JKPXiRzYy3ZTXYAkHh/rBiWS0mQspFqrVSo1i/q//7qFLuof8aUiZFx3hLGLHpBbMdWoj/2xqMYoF08p1KghXY4GseTZUw94Pdfar7o2e2RaJ16nsVLKzVyVaBNXqw241lpjuePLMoAuSOBZWClDhHceUeCVTgaK0v2BfEfNM5RvnsXTVTl/Fg9UkCsGemjAwk3WDYaxmb1Lz1unYEXTgebc+PpJyn6iGUbM7TO5TJXjycSfYrMDjvJcUv43E4YoMA9N1Js9glaUaZqgfSLJFiFVO64=;Yfr/P/U4xR2AHOs7XblLng=="
+secured: "PSec+b89XwT9FyANVhncbFcavrYv11zxEOsq15F9rWQ5UCAoVNscfgpWzb1gaIWqqYsV/wPuLASCywkM4tWy3t9S9rGmTQOEfGygIu+KvjYcN3A6UMCQnmPl0UyTBoD5c0DOfsWhzHp61RSJBQEPBntlkKR/auSG5xYtzVCUWozs84F/4TPddbFwH2HjjblBczv4zmCj9EJDXxTq8zyYoEPA0/RgQNs15SxsY7m9ifFBc0TARSukPBnB+dOMgOU5BkD1oIbZFlpJSQ/xHctijIcd9juAe7nIFFNOY2SQfl0WMFbjn6sVF9aWjE+KEt6r490u0M/kWIeoEGwqo1k7tAUYSY5YclfBFDgzNatKLdCn74JL+TJNdZgP8s4ADznjJgUKuBYnjYVa9uhPv8oYdUMxs9Av1XOhqYCW1OGDCnFJEm88ga2GSNdy/767Yyey7JLn1L18prr1W/WfuAg7it+J5g4kWeo0VHlz7Oa5mi3ZpgcNRZa7IyWyNiqiAY+WvWlPptIyDXR6x5Cj80mjXQ==;lakZfOLG03Wrgw9CbWWOtw=="
 ---
 
