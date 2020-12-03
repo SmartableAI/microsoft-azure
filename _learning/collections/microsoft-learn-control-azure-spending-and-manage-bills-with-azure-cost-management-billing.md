@@ -19,10 +19,9 @@ levels:
 
 items:
   - courses/microsoft-learn-azure-well-architected-cost-optimization
-  - courses/microsoft-learn-plan-manage-azure-costs
+  - courses/microsoft-learn-predict-costs-and-optimize-spending
   - courses/microsoft-learn-analyze-costs-create-budgets-azure-cost-management
   - courses/microsoft-learn-save-money-with-azure-reserved-instances
-  - courses/microsoft-learn-manage-costs-partner-cost-management
 
 topics:
   - Azure
