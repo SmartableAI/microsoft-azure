@@ -2,9 +2,9 @@
 category: news
 title: "Azure Databricks Achieves FedRAMP High Authorization on Microsoft Azure Government (MAG)"
 excerpt: "Databricks, the Data and AI Company, today announced that Microsoft Azure Databricks has received a Federal Risk and Authorization"
-publishedDateTime: 2020-11-25T16:00:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/azure-databricks-achieves-fedramp-high-authorization-on-microsoft-azure-government-mag-301180081.html"
-webUrl: "https://www.prnewswire.com/news-releases/azure-databricks-achieves-fedramp-high-authorization-on-microsoft-azure-government-mag-301180081.html"
+publishedDateTime: 2020-11-26T02:30:00Z
+originalUrl: "https://www.prnewswire.com/in/news-releases/azure-databricks-achieves-fedramp-high-authorization-on-microsoft-azure-government-mag--871630832.html"
+webUrl: "https://www.prnewswire.com/in/news-releases/azure-databricks-achieves-fedramp-high-authorization-on-microsoft-azure-government-mag--871630832.html"
 type: article
 quality: 28
 heat: -1
@@ -149,6 +149,6 @@ related:
         height: 512
         isCached: true
 
-secured: "+YOD7O13JGVTDoizmeNZ6YpmjMAczzWDOVw660FwldCSULEHEXvGFig1ehFB9bbAaiQHTMDO7CeqN6wsnPtwBLKv5RinlnvsxRfXVaHouub1OKi/9RnpdO5gYw0PhafR/kJxItOfRkes6E95iewojxe3iy7gTGEL5ax3AkW6Fe76VWG4X5xYMg8j79+qNRLa7Ctb+He7se1wwBGCC5R0lex6QUagHYNH0TEsONiF1QTet4je9yrMnpsU8+Esv4e1w3QcZotkcfrQn1KcCGo9hp0V/7Shc6SiGOUSbWq1mzytjb0S310fEKq4dAzf7ttT5f9EDvB9vmdb5GiKVdmsmlZj4u5zChFPCWVdEr8s7xg=;rhHETmcxoI/d9eM1aEV3UA=="
+secured: "Lr2+1ISO1SDeOZpWFSomo3UUv5uv+6xvdv+MI1vNScL3COtdNWih5K9/M67+E4UiWjSG+jfp3QsdNM85eiZdxQGldNK0Vglh7wIXdaEgSBtYhltC1PPd+jPH1z5RZFJmz99ZddtF+sSEXjgbVOAHeRnEtod8H8twaJZ3MHdZcJbRsVXHz10w1xCpy79t0oNK0/tSH3A7NxwtQX1zJ1bhyIUT8UC9ITr3yhYa3VWHoCEhdU9VPEQlWK9afv750O3+xFoKAJ9xVeyaQBp8IRj5xAm3uvSJ/VVfjPgLsWMl0KgRMMXc0wiWn/aphUQz5pP4W6ClTI7GBpBYDmq7KXdXKtI2HEhBgDwN7DhQEYTef8E=;UFEBNAwaQ7i9QO4gdhE3Vg=="
 ---
 
