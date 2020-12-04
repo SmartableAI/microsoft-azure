@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/12/03/microsoft-azure-purview-azure-syn
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/03/microsoft-azure-purview-azure-synapse-analytics/amp/"
 type: article
 quality: 113
-heat: 453
+heat: 473
 published: true
 
 provider:
@@ -225,6 +225,20 @@ related:
       - url: "https://avatars2.githubusercontent.com/u/6154722?s=400&v=4"
         width: 400
         height: 400
+        isCached: true
+  - title: "Exoprise Office 365 Monitoring App Now Available in the Microsoft Azure Marketplace"
+    excerpt: "PRNewswire/ -- Exoprise, a leading provider of software-as-a-service (SaaS) and Office 365 monitoring, today announced the availability of its CloudReady solution in the Microsoft Azure Marketplace, an online store that provides applications and services for use on Azure."
+    publishedDateTime: 2020-12-01T18:20:00Z
+    webUrl: "https://apnews.com/article/technology-business-software-industry-information-technology-cloud-computing-services-701a49c713a36e14dd19c41663dd9368"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 31
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
   - title: "Tangent Works' Predictive Analytics Now Available in the Microsoft Azure Marketplace"
     excerpt: "RANDOLPH, N.J. and BRUSSELS, July 24, 2020 /PRNewswire/ -- Tangent Works today announced the availability of TIM in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure. Tangent Works customers can now take ..."

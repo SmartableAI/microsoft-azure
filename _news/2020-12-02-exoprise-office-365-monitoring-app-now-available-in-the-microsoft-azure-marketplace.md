@@ -1,26 +1,27 @@
 ---
 category: news
-title: "Tamr joins Microsoft, other leading technology companies as a Azure Synapse Analytics launch partner"
-excerpt: "PRNewswire/ -- Tamr, Inc., the provider of cloud-native data mastering solutions, today announced it's selection"
-publishedDateTime: 2020-12-03T20:13:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/tamr-joins-microsoft-other-leading-technology-companies-as-a-azure-synapse-analytics-launch-partner-1029863172"
-webUrl: "https://markets.businessinsider.com/news/stocks/tamr-joins-microsoft-other-leading-technology-companies-as-a-azure-synapse-analytics-launch-partner-1029863172"
+title: "Exoprise Office 365 Monitoring App Now Available in the Microsoft Azure Marketplace"
+excerpt: "PRNewswire/ -- Exoprise, a leading provider of software-as-a-service (SaaS) and Office 365 monitoring, today announced the availability of its CloudReady solution in the Microsoft Azure Marketplace, an online store that provides applications and services for use on Azure."
+publishedDateTime: 2020-12-01T18:20:00Z
+originalUrl: "https://apnews.com/article/technology-business-software-industry-information-technology-cloud-computing-services-701a49c713a36e14dd19c41663dd9368"
+webUrl: "https://apnews.com/article/technology-business-software-industry-information-technology-cloud-computing-services-701a49c713a36e14dd19c41663dd9368"
 type: article
-quality: 74
+quality: 31
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Azure
-  - Analytics
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "Microsoft unveils Azure Purview for data governance, Azure Synapse Analytics hits general availability"
@@ -107,6 +108,15 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Tamr joins Microsoft, other leading technology companies as a Azure Synapse Analytics launch partner"
+    excerpt: "PRNewswire/ -- Tamr, Inc., the provider of cloud-native data mastering solutions, today announced it's selection"
+    publishedDateTime: 2020-12-03T20:13:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/tamr-joins-microsoft-other-leading-technology-companies-as-a-azure-synapse-analytics-launch-partner-1029863172"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 74
   - title: "Microsoft Build brings announcements for cloud data, analytics services, and intersection of the two"
     excerpt: "A series of announcements around Synapse Analytics, Cosmos DB, Azure Database and SQL Edge make this year's Microsoft Build conference a virtual event revealing actual advances and concrete integrations."
     publishedDateTime: 2020-05-19T15:00:00Z
@@ -225,20 +235,6 @@ related:
         width: 400
         height: 400
         isCached: true
-  - title: "Exoprise Office 365 Monitoring App Now Available in the Microsoft Azure Marketplace"
-    excerpt: "PRNewswire/ -- Exoprise, a leading provider of software-as-a-service (SaaS) and Office 365 monitoring, today announced the availability of its CloudReady solution in the Microsoft Azure Marketplace, an online store that provides applications and services for use on Azure."
-    publishedDateTime: 2020-12-01T18:20:00Z
-    webUrl: "https://apnews.com/article/technology-business-software-industry-information-technology-cloud-computing-services-701a49c713a36e14dd19c41663dd9368"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 31
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Tangent Works' Predictive Analytics Now Available in the Microsoft Azure Marketplace"
     excerpt: "RANDOLPH, N.J. and BRUSSELS, July 24, 2020 /PRNewswire/ -- Tangent Works today announced the availability of TIM in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure. Tangent Works customers can now take ..."
     publishedDateTime: 2020-07-24T23:16:00Z
@@ -274,6 +270,6 @@ related:
       domain: telecompaper.com
     quality: 17
 
-secured: "c5rqx5sMTs+FenYkcZnekQ+G+2p887pa6HYAuhMggkap/pvmEaO3E0kIEiHA2GMP13Qfc3HUC+ZBvBUKKHEJ6GXgibF2D5xkwBB342iZefYVIn56qZBIX8eqgmWIODdEoAcoTnf8SMf/6Mw/brYTTQVlmjmvN/6O0IczZVGGX+m+Ff9es3fR1hcFVqOuS4vUtDS4j96s9SCj5AdT7CjU2SRZbfVjKtwDxTq4jIl2h35aIoXtTwAhlvcHR+CnNvgJhEx4HWnNlj6qAyveXTFr4R6T9q9JkrXm+4QUAA9guvSCOIWqOlLeC9xkR3VjbFt1R5gJncmq/s0i+NXXyMq7xoxS4limM2/AknNsEHv3sYM=;oVTFYDdYdz/kizEuzIsnhw=="
+secured: "p3vLBW0o0goMYxBsvaw/Ms7AY8Hn1hvdUBmhcgFQKdWBihgof5udfGVGSPCiFCderR/YwDU/RdZeiZUX7F4xb47ekj1BtxHkCK3ta6jfleNYmQOnsm3KxUdje9UcIap7XvhMby9O6YtnlsS3EHVn5r9i7VBkn+EkhE2cBUxAotKFifDNONxCR3rWrPpwW2j5C01kQ6mCRErMzGlTcVn+YOzDNPCEUlY/VwRyuCm0ittb8jyp5BsbiJnSQaZCjZf1DhI3l0RVBMmYuFswCKl7AmSlvT+TNYyvn5bBu5NxJQen1C5nZGoEyhDvnlvYJFGE8DLTxEjQlExcB3lN76AHGhXYWgzupSszAlH6kcGeBBY=;JO6k8VOzoL9vIZT7EyKKrQ=="
 ---
 
