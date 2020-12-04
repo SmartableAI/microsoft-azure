@@ -1,20 +1,22 @@
 ---
 category: news
-title: "Microsoft's cloud chief breaks down new Azure products"
-excerpt: "CNBC's \"Squawk Alley\" team discusses Microsoft new data products for Azure with Microsoft’s head of cloud and executive vice president of Azure, Jason Zander."
-publishedDateTime: 2020-12-03T16:55:00Z
-originalUrl: "https://www.cnbc.com/video/2020/12/03/microsofts-cloud-chief-breaks-down-new-azure-products.html"
-webUrl: "https://www.cnbc.com/video/2020/12/03/microsofts-cloud-chief-breaks-down-new-azure-products.html"
+title: "Google Cloud Will Not Be Able To Overtake Microsoft Azure"
+excerpt: "Google (Alphabet) may have missed a critical window this year for cloud infrastructure. We also analyze how Microsoft directed all of its efforts to successfully close the wide lead by AWS. Lastly, we"
+publishedDateTime: 2020-12-04T04:03:00Z
+originalUrl: "https://www.forbes.com/sites/bethkindig/2020/12/03/google-cloud-will-not-be-able-to-overtake-microsoft-azure/"
+webUrl: "https://www.forbes.com/sites/bethkindig/2020/12/03/google-cloud-will-not-be-able-to-overtake-microsoft-azure/"
+ampWebUrl: "https://www.forbes.com/sites/bethkindig/2020/12/03/google-cloud-will-not-be-able-to-overtake-microsoft-azure/amp/"
+cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bethkindig/2020/12/03/google-cloud-will-not-be-able-to-overtake-microsoft-azure/amp/"
 type: article
-quality: 77
+quality: 97
 heat: -1
 published: false
 
 provider:
-  name: CNBC
-  domain: cnbc.com
+  name: Forbes
+  domain: forbes.com
   images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/cnbc.com-50x50.jpg"
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/forbes.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -22,9 +24,9 @@ topics:
   - Azure
 
 images:
-  - url: "https://image.cnbcfm.com/api/v1/image/106805801-16070117561607011753-12761111221-1080pnbcnews.jpg?v=1607011756"
-    width: 1920
-    height: 1080
+  - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fc9b08566dda99de43b5fee%2F0x0.jpg"
+    width: 1200
+    height: 741
     isCached: true
 
 related:
@@ -66,21 +68,19 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 103
-  - title: "Google Cloud Will Not Be Able To Overtake Microsoft Azure"
-    excerpt: "Google (Alphabet) may have missed a critical window this year for cloud infrastructure. We also analyze how Microsoft directed all of its efforts to successfully close the wide lead by AWS. Lastly, we"
-    publishedDateTime: 2020-12-04T04:03:00Z
-    webUrl: "https://www.forbes.com/sites/bethkindig/2020/12/03/google-cloud-will-not-be-able-to-overtake-microsoft-azure/"
-    ampWebUrl: "https://www.forbes.com/sites/bethkindig/2020/12/03/google-cloud-will-not-be-able-to-overtake-microsoft-azure/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bethkindig/2020/12/03/google-cloud-will-not-be-able-to-overtake-microsoft-azure/amp/"
+  - title: "Microsoft's cloud chief breaks down new Azure products"
+    excerpt: "CNBC's \"Squawk Alley\" team discusses Microsoft new data products for Azure with Microsoft’s head of cloud and executive vice president of Azure, Jason Zander."
+    publishedDateTime: 2020-12-03T16:55:00Z
+    webUrl: "https://www.cnbc.com/video/2020/12/03/microsofts-cloud-chief-breaks-down-new-azure-products.html"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 97
+      name: CNBC
+      domain: cnbc.com
+    quality: 77
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fc9b08566dda99de43b5fee%2F0x0.jpg"
-        width: 1200
-        height: 741
+      - url: "https://image.cnbcfm.com/api/v1/image/106805801-16070117561607011753-12761111221-1080pnbcnews.jpg?v=1607011756"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Tamr joins Microsoft, other leading technology companies as a Azure Synapse Analytics launch partner"
     excerpt: "PRNewswire/ -- Tamr, Inc., the provider of cloud-native data mastering solutions, today announced it's selection"
@@ -228,6 +228,6 @@ related:
       domain: telecompaper.com
     quality: 17
 
-secured: "A80FdIKN0L78qm9rT9+AMchAyhVnoT+mw+Qnruym/QcNHT5aEtTsmQDql7iEF8Fjk1footz42Gp/ifT0TKYtt9CkIT8BkONyjEJ5REdJ+yngEBdXJn/I+JtMHtdS+RUIHTgnvjA5lwRTFhO8JfPs52Jxfwj6mJFRusISNGjZFI55R7SC1+Fgxp+oX883SPCEGjXk6r88BcHWhYlXG1jWcZtUirK2oRML8LUihFsjDz8vmqETSWph9DP8o26OEMjBAEY7T6Vvxv+4DYll0syCwmkFdbs/JtuNdVzChtG10T/w625Uh0wVhF7qtYa0AvSWA9SkGV3rbh3c32/yDlMMa0CCH3h/nzs0BEv1RJjvElo=;AOpqKEW61OKqpEqrOfmjWg=="
+secured: "upuCyIxgmHwxeXmOCtKMALOpn3YXuoPPHCY9mMPUztZnprxDQlfw50GoixI3WKMgGQrIJwHdM4YEFXpCPep5S4XFHX7oy3s5qTGpUCTHsSRCzaGlbgaRyItd4qlnhewysUExdtc6arYVJVDxSfE1o/p62MjGT/gTLCTxP8oroSnkNjvlgoUYAjCrLFjiJzCI8tn6xY24z4COw0nMchzMtQuQVTSfbIDxRUDNPbceq9JXx77pjR+2JFxEBhtqohhtxPegWAUUnQ4aZFSA2V3fy47RsT7Xd9O/ZPpgBYd4xfNhB1GUeI4i5BvPRtr9pLMlxUuGDT1gXWSSvD3056ifs5XpbRxNAt1fKGsqzuXOlSE=;oOzG3wJnWngLBneIbekR/A=="
 ---
 
