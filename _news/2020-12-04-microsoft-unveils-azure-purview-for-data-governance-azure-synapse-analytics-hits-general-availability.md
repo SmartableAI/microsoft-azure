@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/12/03/microsoft-azure-purview-azure-syn
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/03/microsoft-azure-purview-azure-synapse-analytics/amp/"
 type: article
 quality: 113
-heat: 413
+heat: 433
 published: true
 
 provider:
@@ -107,6 +107,22 @@ related:
       - url: "https://zdnet2.cbsistatic.com/hub/i/r/2020/05/13/bf550a82-e9e8-4511-bee9-983426e8fc52/thumbnail/1200x675/aaf99352c82c362f4feba84192e7819c/2555435eba4cad133864-58121622-nvidia-accelerates-apache-spark.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Nadella takes a dig at Amazon as Microsoft unveils Azure Purview"
+    excerpt: "Taking an apparent dig at Amazon and its Cloud arm AWS, Microsoft CEO Satya Nadella has said that it is important to not only trust a vendors technology capabilities but also its ‘business model alignment with its customers."
+    publishedDateTime: 2020-12-04T08:41:00Z
+    webUrl: "https://www.sify.com/finance/nadella-takes-a-dig-at-amazon-as-microsoft-unveils-azure-purview-news-topnews-umegIohfjjjib.html"
+    ampWebUrl: "https://www.sify.com/finance/nadella-takes-a-dig-at-amazon-as-microsoft-unveils-azure-purview-news-topnews-umegIohfjjjib.html"
+    cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/finance/nadella-takes-a-dig-at-amazon-as-microsoft-unveils-azure-purview-news-topnews-umegIohfjjjib.html"
+    type: article
+    provider:
+      name: Sify.com
+      domain: sify.com
+    quality: 57
+    images:
+      - url: "https://www.sify.com/uploads/satya_nadella_microsoft_ap_ul3hPHcfcijca.jpeg"
+        width: 900
+        height: 450
         isCached: true
   - title: "Cyber Security Cloud WafCharm now available on Microsoft Azure"
     excerpt: "Cyber Security Cloud announces the availability of WafCharm on Microsoft Azure, providing AI operation of WAF rules."

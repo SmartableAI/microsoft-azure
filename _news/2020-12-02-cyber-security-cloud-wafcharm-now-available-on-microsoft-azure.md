@@ -118,6 +118,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Nadella takes a dig at Amazon as Microsoft unveils Azure Purview"
+    excerpt: "Taking an apparent dig at Amazon and its Cloud arm AWS, Microsoft CEO Satya Nadella has said that it is important to not only trust a vendors technology capabilities but also its ‘business model alignment with its customers."
+    publishedDateTime: 2020-12-04T08:41:00Z
+    webUrl: "https://www.sify.com/finance/nadella-takes-a-dig-at-amazon-as-microsoft-unveils-azure-purview-news-topnews-umegIohfjjjib.html"
+    ampWebUrl: "https://www.sify.com/finance/nadella-takes-a-dig-at-amazon-as-microsoft-unveils-azure-purview-news-topnews-umegIohfjjjib.html"
+    cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/finance/nadella-takes-a-dig-at-amazon-as-microsoft-unveils-azure-purview-news-topnews-umegIohfjjjib.html"
+    type: article
+    provider:
+      name: Sify.com
+      domain: sify.com
+    quality: 57
+    images:
+      - url: "https://www.sify.com/uploads/satya_nadella_microsoft_ap_ul3hPHcfcijca.jpeg"
+        width: 900
+        height: 450
+        isCached: true
   - title: "Microsoft Azure Synapse Link brings operational database services and analytics together in real-time"
     excerpt: "To solve this issue, Microsoft is today announcing Azure Synapse Link which brings operational database services and analytics together in real-time with a single click. Using this, customers can get insights from their real-time transactional data stored in their operational databases with a single click,"
     publishedDateTime: 2020-05-19T15:01:00Z

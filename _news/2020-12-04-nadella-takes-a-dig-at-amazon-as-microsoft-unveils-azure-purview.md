@@ -1,26 +1,28 @@
 ---
 category: news
-title: "Microsoft Azure Service Fabric 7.2 Fourth Refresh Release Notes"
-excerpt: "Service Fabric is a distributed systems platform for packaging, deploying, and managing stateless and stateful distributed applications and containers at large scale. - microsoft/service-fabric"
-publishedDateTime: 2020-12-03T09:25:20Z
-originalUrl: "https://github.com/microsoft/service-fabric/blob/master/release_notes/Service-Fabric-72CU4.md"
-webUrl: "https://github.com/microsoft/service-fabric/blob/master/release_notes/Service-Fabric-72CU4.md"
+title: "Nadella takes a dig at Amazon as Microsoft unveils Azure Purview"
+excerpt: "Taking an apparent dig at Amazon and its Cloud arm AWS, Microsoft CEO Satya Nadella has said that it is important to not only trust a vendors technology capabilities but also its ‘business model alignment with its customers."
+publishedDateTime: 2020-12-04T08:41:00Z
+originalUrl: "https://www.sify.com/finance/nadella-takes-a-dig-at-amazon-as-microsoft-unveils-azure-purview-news-topnews-umegIohfjjjib.html"
+webUrl: "https://www.sify.com/finance/nadella-takes-a-dig-at-amazon-as-microsoft-unveils-azure-purview-news-topnews-umegIohfjjjib.html"
+ampWebUrl: "https://www.sify.com/finance/nadella-takes-a-dig-at-amazon-as-microsoft-unveils-azure-purview-news-topnews-umegIohfjjjib.html"
+cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/finance/nadella-takes-a-dig-at-amazon-as-microsoft-unveils-azure-purview-news-topnews-umegIohfjjjib.html"
 type: article
-quality: 37
+quality: 57
 heat: -1
 published: false
 
 provider:
-  name: GitHub
-  domain: github.com
+  name: Sify.com
+  domain: sify.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://avatars2.githubusercontent.com/u/6154722?s=400&v=4"
-    width: 400
-    height: 400
+  - url: "https://www.sify.com/uploads/satya_nadella_microsoft_ap_ul3hPHcfcijca.jpeg"
+    width: 900
+    height: 450
     isCached: true
 
 related:
@@ -117,22 +119,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Nadella takes a dig at Amazon as Microsoft unveils Azure Purview"
-    excerpt: "Taking an apparent dig at Amazon and its Cloud arm AWS, Microsoft CEO Satya Nadella has said that it is important to not only trust a vendors technology capabilities but also its ‘business model alignment with its customers."
-    publishedDateTime: 2020-12-04T08:41:00Z
-    webUrl: "https://www.sify.com/finance/nadella-takes-a-dig-at-amazon-as-microsoft-unveils-azure-purview-news-topnews-umegIohfjjjib.html"
-    ampWebUrl: "https://www.sify.com/finance/nadella-takes-a-dig-at-amazon-as-microsoft-unveils-azure-purview-news-topnews-umegIohfjjjib.html"
-    cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/finance/nadella-takes-a-dig-at-amazon-as-microsoft-unveils-azure-purview-news-topnews-umegIohfjjjib.html"
-    type: article
-    provider:
-      name: Sify.com
-      domain: sify.com
-    quality: 57
-    images:
-      - url: "https://www.sify.com/uploads/satya_nadella_microsoft_ap_ul3hPHcfcijca.jpeg"
-        width: 900
-        height: 450
-        isCached: true
   - title: "Cyber Security Cloud WafCharm now available on Microsoft Azure"
     excerpt: "Cyber Security Cloud announces the availability of WafCharm on Microsoft Azure, providing AI operation of WAF rules."
     publishedDateTime: 2020-12-02T01:18:00Z
@@ -205,6 +191,20 @@ related:
         width: 300
         height: 300
         isCached: true
+  - title: "Microsoft Azure Service Fabric 7.2 Fourth Refresh Release Notes"
+    excerpt: "Service Fabric is a distributed systems platform for packaging, deploying, and managing stateless and stateful distributed applications and containers at large scale. - microsoft/service-fabric"
+    publishedDateTime: 2020-12-03T09:25:20Z
+    webUrl: "https://github.com/microsoft/service-fabric/blob/master/release_notes/Service-Fabric-72CU4.md"
+    type: article
+    provider:
+      name: GitHub
+      domain: github.com
+    quality: 37
+    images:
+      - url: "https://avatars2.githubusercontent.com/u/6154722?s=400&v=4"
+        width: 400
+        height: 400
+        isCached: true
   - title: "Tangent Works' Predictive Analytics Now Available in the Microsoft Azure Marketplace"
     excerpt: "RANDOLPH, N.J. and BRUSSELS, July 24, 2020 /PRNewswire/ -- Tangent Works today announced the availability of TIM in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure. Tangent Works customers can now take ..."
     publishedDateTime: 2020-07-24T23:16:00Z
@@ -240,6 +240,6 @@ related:
       domain: telecompaper.com
     quality: 17
 
-secured: "JMkZS9HfPEaBjpqWONaKvFU56azLPC5RbVhxsu/CyAddoxXOHzsVkUalGsJXf6TzflsY+j5ePTYm4Ie3T9I8pb2Nz5lprozvqOS9EfgWmKz5II08w/VXiZoixXjEbNJINlo2Lnf1LW0j1iLEpeNFzFMKub+XME7zb+PIOvoZFKl5SlkzykjhrVrP89rSzQg6ZgoO2l9TX2FUpzd6RxyD30DWnzwyzRPzrDPrn1GAMhtBUNJTira6cJ36NYjTMn2K1YRj114Xtm/IY/1t/J5Md39tiHyLtx0acZg/wKQI8uPrhvC0bmdPDZRvSlA0NUK3OvQvcO35lGju0ZsoIYr9utdqU+8D7as/veyYopUyw2A=;1slWRDgkeIJt1hpb3O177w=="
+secured: "9moIqiGgZ89iZnaX1oLQkWxPhZPTW9MJJs6s3UjV+Zyw9MaJ+STQzW/JLIoFPclt6txQK/6WXCMfPGBYMmf+PYpaFlsQmz+V3Li4BtQQABzOPpCQ1ErPxa4YFPiAXaW1AoLuQPpURCOPrmKPX+js6xNOY6p91MsdNTg0E3UUm1tc76JslU+TeWKZiBhsShrI965+agYd1brKiHXwQnT8rwOVGp6T8Wdxbu23JKZqq51A+Ae2ZQB5xtwWi3j5/C2te4TXk4+xa7oFLyFFqe0HIvwPRQ77Tvv7faTUgUFhGe0WZnDPezTo8W3iKRPYtFslECiYIRbFWa4LMmSbXuLHU2gTJtmZEie4Pxk4DnHPhqY=;7mKaz+uzsBP1hkCVbX7MnA=="
 ---
 
