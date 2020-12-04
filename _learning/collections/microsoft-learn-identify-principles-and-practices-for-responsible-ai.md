@@ -4,7 +4,7 @@ excerpt: "It's imperative to reflect on the implications of AI in business. Disc
 type: collection
 price: Free
 length: PT2H48M
-heat: 51
+heat: 50
 
 provider:
   name: Microsoft Learn
