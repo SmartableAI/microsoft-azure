@@ -4,6 +4,49 @@
   "page": 9,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-analyze-costs-create-budgets-azure-cost-management.md",
+      "title": "Analyze costs and create budgets with Azure Cost Management",
+      "excerpt": "Learn how to use cost analysis to understand how your costs accrue each month.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-analyze-costs-create-budgets-azure-cost-management/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-costs-create-budgets-azure-cost-management/",
+      "length": "PT40M",
+      "ratings": {
+        "count": 1144,
+        "average": 4.6573424
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 55,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/analyze-costs-create-budgets-azure-cost-management-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Management Tools"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-analyze-devops-continuous-planning-intergration.md",
       "title": "Analyze DevOps Continuous Planning and Continuous Integration",
       "excerpt": "Explore the first two capabilities in the DevOps taxonomy, Continuous Planning and Continuous Integration.",
@@ -11,8 +54,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-devops-continuous-planning-intergration/",
       "length": "PT22M",
       "ratings": {
-        "count": 1785,
-        "average": 4.72493
+        "count": 1786,
+        "average": 4.725084
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -327,8 +370,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-run-container-app-service/",
       "length": "PT46M",
       "ratings": {
-        "count": 4125,
-        "average": 4.6264243
+        "count": 4127,
+        "average": 4.6266055
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -372,8 +415,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-devops-continuous-security-operations/",
       "length": "PT22M",
       "ratings": {
-        "count": 914,
-        "average": 4.704595
+        "count": 915,
+        "average": 4.704918
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1140,49 +1183,6 @@
         "Azure",
         "Compute",
         "Management Tools"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-app-service-scale-up-scale-out.md",
-      "title": "Scale an App Service web app to efficiently meet demand with App Service scale up and scale out",
-      "excerpt": "Learn how to respond to periods of increased activity by incrementally increasing the resources available and then freeing these resources when activity drops.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-app-service-scale-up-scale-out/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/app-service-scale-up-scale-out/",
-      "length": "PT46M",
-      "ratings": {
-        "count": 2481,
-        "average": 4.5622735
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 54,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/app-service-scale-up-scale-out-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Compute"
       ]
     }
   ],
