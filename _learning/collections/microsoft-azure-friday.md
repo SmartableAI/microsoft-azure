@@ -13,6 +13,7 @@ provider:
       height: 50
 
 items:
+  - videos/microsoft-azure-arc-enabled-kubernetes-with-gitops-azure-friday
   - videos/microsoft-migrate-and-modernize-your-net-applications-on-azure-azure-friday
   - videos/microsoft-code-to-cloud-with-vs-code-and-docker-azure-friday
   - videos/microsoft-implement-serverless-apis-with-azure-functions-and-azure-api-management-azure-friday
@@ -302,7 +303,7 @@ topics:
   - Azure
 
 images:
-  - url: https://i.ytimg.com/vi/qhrEPvZgFMQ/maxresdefault.jpg
+  - url: https://i.ytimg.com/vi/4fT47TKprFQ/maxresdefault.jpg
     width: 1280
     height: 720
     isCached: true
