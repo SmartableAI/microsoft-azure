@@ -1,23 +1,29 @@
 ---
 category: news
-title: "2021 – The year to save costs and accelerate your business with Microsoft Azure"
-excerpt: "When it comes to cloud services, Microsoft Azure is a market leader and a favourite among enterprises – and is available in South Africa through leading ICT solutions provider Axiz. As a ..."
-publishedDateTime: 2020-11-17T05:17:00Z
-originalUrl: "https://businesstech.co.za/news/industry-news/448961/2021-the-year-to-save-costs-and-accelerate-your-business-with-microsoft-azure/"
-webUrl: "https://businesstech.co.za/news/industry-news/448961/2021-the-year-to-save-costs-and-accelerate-your-business-with-microsoft-azure/"
-ampWebUrl: "https://businesstech.co.za/news/industry-news/448961/2021-the-year-to-save-costs-and-accelerate-your-business-with-microsoft-azure/amp/"
-cdnAmpWebUrl: "https://businesstech-co-za.cdn.ampproject.org/c/s/businesstech.co.za/news/industry-news/448961/2021-the-year-to-save-costs-and-accelerate-your-business-with-microsoft-azure/amp/"
+title: "Passport 360 Now Available in the Microsoft Azure Marketplace"
+excerpt: "JOHANNEBSURG, Gauteng, South Africa — November 13, 2020 — Passport 360 today announced the availability of its product of the same name in the Microsoft Azure Marketplace, an online store ..."
+publishedDateTime: 2020-11-13T12:52:00Z
+originalUrl: "https://www.openpr.com/news/2187373/passport-360-now-available-in-the-microsoft-azure-marketplace"
+webUrl: "https://www.openpr.com/news/2187373/passport-360-now-available-in-the-microsoft-azure-marketplace"
+ampWebUrl: "https://www.openpr.com/amp/2187373/passport-360-now-available-in-the-microsoft-azure-marketplace"
+cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2187373/passport-360-now-available-in-the-microsoft-azure-marketplace"
 type: article
-quality: 33
+quality: 57
 heat: -1
 published: false
 
 provider:
-  name: businesstech.co.za
-  domain: businesstech.co.za
+  name: openpr.com
+  domain: openpr.com
 
 topics:
   - Azure
+
+images:
+  - url: "https://cdn.openpr.com/T/b/Tb13885641_g.jpg"
+    width: 800
+    height: 800
+    isCached: true
 
 related:
   - title: "Adaptive Biotechnologies Leverages Microsoft Azure In Search For COVID-19 Answers"
@@ -35,22 +41,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fb6c87ffb80008a1cb4cd7c%2F0x0.jpg"
         width: 1200
         height: 900
-        isCached: true
-  - title: "Passport 360 Now Available in the Microsoft Azure Marketplace"
-    excerpt: "JOHANNEBSURG, Gauteng, South Africa — November 13, 2020 — Passport 360 today announced the availability of its product of the same name in the Microsoft Azure Marketplace, an online store ..."
-    publishedDateTime: 2020-11-13T12:52:00Z
-    webUrl: "https://www.openpr.com/news/2187373/passport-360-now-available-in-the-microsoft-azure-marketplace"
-    ampWebUrl: "https://www.openpr.com/amp/2187373/passport-360-now-available-in-the-microsoft-azure-marketplace"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2187373/passport-360-now-available-in-the-microsoft-azure-marketplace"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 57
-    images:
-      - url: "https://cdn.openpr.com/T/b/Tb13885641_g.jpg"
-        width: 800
-        height: 800
         isCached: true
   - title: "Datadobi Provides Data Migration Support for Microsoft Azure"
     excerpt: "Datadobi, a global provider of unstructured data management software, is offering support for file data migration to and protection on Microsoft Azure, enabling enterprise customers to migrate and protect their NAS file data in the cloud."
@@ -110,6 +100,17 @@ related:
         width: 480
         height: 270
         isCached: true
+  - title: "2021 – The year to save costs and accelerate your business with Microsoft Azure"
+    excerpt: "When it comes to cloud services, Microsoft Azure is a market leader and a favourite among enterprises – and is available in South Africa through leading ICT solutions provider Axiz. As a ..."
+    publishedDateTime: 2020-11-17T05:17:00Z
+    webUrl: "https://businesstech.co.za/news/industry-news/448961/2021-the-year-to-save-costs-and-accelerate-your-business-with-microsoft-azure/"
+    ampWebUrl: "https://businesstech.co.za/news/industry-news/448961/2021-the-year-to-save-costs-and-accelerate-your-business-with-microsoft-azure/amp/"
+    cdnAmpWebUrl: "https://businesstech-co-za.cdn.ampproject.org/c/s/businesstech.co.za/news/industry-news/448961/2021-the-year-to-save-costs-and-accelerate-your-business-with-microsoft-azure/amp/"
+    type: article
+    provider:
+      name: businesstech.co.za
+      domain: businesstech.co.za
+    quality: 33
   - title: "Coding Dojo Chosen by Microsoft as a Microsoft Azure Training Partner for Global Digital Skills Initiative"
     excerpt: "announces today it is working with Microsoft to proliferate Microsoft Azure certifications in the workforce. The collaboration will increase the amount of job-ready Azure developers by integrating Microsoft Learn tracks into the Coding Dojo curriculum ..."
     publishedDateTime: 2020-11-24T20:11:00Z
@@ -134,6 +135,6 @@ related:
       domain: telecompaper.com
     quality: 17
 
-secured: "BdtKKi4NUVf+1xbtcG414JSzKrzSQ6Kwgh3h4I+PEwVatSQw2QkSWLsnFfiFHvvUH0AFly/L+8tJdZ/tFqG7PXXfin+0cQaaU9qgqrRTWMXhja2b8SJTy++4m6hGdewYHwActKINA2GGvTv3SgIXDtKQhzYXj+w6JPMdst3ZNlrPI4lEK+PaTfpB1m2VAemJD6NY6Ua7k4tQIGk/8811loFaiyWcA59581b4RfpGUb6ZGvgYk8EOHtrPDaKa/57pvLtXoHn+4kbqm4W3t2Bz1ypCCHyIOHuMUjU73fLiPvo4OfSg1WzIzIz8x1KqbQtIcslnY3GIzsOGrNGlc8McnPy+MfDO25A7rY2+qDMkIdw=;4PoR1Jpc0MGzf2gmi/sJjg=="
+secured: "/iL6XjXJL5aZvAphqGrv4Kgnrc3m8cjvAjZ7PAtuBeZGM2xGMDIanOLtg1iZS3wSWf5y1Vuq0jRWmdjIBFjYoDgtO2KB5py8usVkeU6kivNfa2PzW3WzFT8Z4nLPNhz+JiLM+q9Yl06XoRVRnYPGHRDQk3URPOSGE0Y0D0T9MtCatgzJsNCdGzrsGqUZkKao5t4YzaZpxL/416Dpln8zNyiRMoklqVia7i3MRgZ/Jd3j2rxx44b1e02eh+VTOrEV4EvM9c4dlYw6nUbAE+BONym2CumbBqpBgxPUsWtTvcGOltK/F1eCU4lhKPGDmEbi+0LHvLYwdyr7spya+/IVAOd/AMgjreqoI3DWwU0s7No=;qlPg0sXcD5nCgocNEXw7mA=="
 ---
 

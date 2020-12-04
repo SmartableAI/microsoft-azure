@@ -3,10 +3,10 @@ category: news
 title: "Alinta Energy uses Azure Synapse Analytics to power data-driven decisions"
 excerpt: "It's using Microsoft Azure Synapse Analytics to bring together enterprise data warehousing and big data analytics."
 publishedDateTime: 2020-12-03T21:13:00Z
-originalUrl: "https://www.zdnet.com/article/alinta-energy-uses-azure-synapse-analytics-to-power-data-driven-decisions/"
-webUrl: "https://www.zdnet.com/article/alinta-energy-uses-azure-synapse-analytics-to-power-data-driven-decisions/"
-ampWebUrl: "https://www.zdnet.com/google-amp/article/alinta-energy-uses-azure-synapse-analytics-to-power-data-driven-decisions/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/alinta-energy-uses-azure-synapse-analytics-to-power-data-driven-decisions/"
+originalUrl: "https://www.zdnet.com/index.php/category/2381/index.php/article/alinta-energy-uses-azure-synapse-analytics-to-power-data-driven-decisions/"
+webUrl: "https://www.zdnet.com/index.php/category/2381/index.php/article/alinta-energy-uses-azure-synapse-analytics-to-power-data-driven-decisions/"
+ampWebUrl: "https://www.zdnet.com/index.php/category/2381/index.php/google-amp/article/alinta-energy-uses-azure-synapse-analytics-to-power-data-driven-decisions/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2381/index.php/google-amp/article/alinta-energy-uses-azure-synapse-analytics-to-power-data-driven-decisions/"
 type: article
 quality: 108
 heat: -1
@@ -66,6 +66,15 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Tamr joins Microsoft, other leading technology companies as a Azure Synapse Analytics launch partner"
+    excerpt: "PRNewswire/ -- Tamr, Inc., the provider of cloud-native data mastering solutions, today announced it's selection"
+    publishedDateTime: 2020-12-03T20:13:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/tamr-joins-microsoft-other-leading-technology-companies-as-a-azure-synapse-analytics-launch-partner-1029863172"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 74
   - title: "Microsoft Build brings announcements for cloud data, analytics services, and intersection of the two"
     excerpt: "A series of announcements around Synapse Analytics, Cosmos DB, Azure Database and SQL Edge make this year's Microsoft Build conference a virtual event revealing actual advances and concrete integrations."
     publishedDateTime: 2020-05-19T15:00:00Z
@@ -96,17 +105,6 @@ related:
         width: 1200
         height: 627
         isCached: true
-  - title: "Tamr joins Microsoft, other leading technology companies as a Azure Synapse Analytics launch partner"
-    excerpt: "Tamr, Inc., the provider of cloud-native data mastering solutions, today announced it's selection by Microsoft as a"
-    publishedDateTime: 2020-12-03T20:27:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/12/n18642005/tamr-joins-microsoft-other-leading-technology-companies-as-a-azure-synapse-analytics-launch-partne"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/18642005"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18642005"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 54
   - title: "Microsoft Azure Synapse Link brings operational database services and analytics together in real-time"
     excerpt: "To solve this issue, Microsoft is today announcing Azure Synapse Link which brings operational database services and analytics together in real-time with a single click. Using this, customers can get insights from their real-time transactional data stored in their operational databases with a single click,"
     publishedDateTime: 2020-05-19T15:01:00Z
@@ -214,6 +212,6 @@ related:
       domain: telecompaper.com
     quality: 17
 
-secured: "PSec+b89XwT9FyANVhncbFcavrYv11zxEOsq15F9rWQ5UCAoVNscfgpWzb1gaIWqqYsV/wPuLASCywkM4tWy3t9S9rGmTQOEfGygIu+KvjYcN3A6UMCQnmPl0UyTBoD5c0DOfsWhzHp61RSJBQEPBntlkKR/auSG5xYtzVCUWozs84F/4TPddbFwH2HjjblBczv4zmCj9EJDXxTq8zyYoEPA0/RgQNs15SxsY7m9ifFBc0TARSukPBnB+dOMgOU5BkD1oIbZFlpJSQ/xHctijIcd9juAe7nIFFNOY2SQfl0WMFbjn6sVF9aWjE+KEt6r490u0M/kWIeoEGwqo1k7tAUYSY5YclfBFDgzNatKLdCn74JL+TJNdZgP8s4ADznjJgUKuBYnjYVa9uhPv8oYdUMxs9Av1XOhqYCW1OGDCnFJEm88ga2GSNdy/767Yyey7JLn1L18prr1W/WfuAg7it+J5g4kWeo0VHlz7Oa5mi3ZpgcNRZa7IyWyNiqiAY+WvWlPptIyDXR6x5Cj80mjXQ==;lakZfOLG03Wrgw9CbWWOtw=="
+secured: "cGYkLWVsh0IsoIGIX2CN05juism31INxxRKE/YA7JGBc23/lH4U6PEzHm7YOAsrHKoZIiyoaeDR6DdVleCex2C4OxFv/Mk5A1tmsNDZn/wA2QHt3qTWSgjYi4a9f4DMH/1nXwpo2veD3Zg5jxvuXpllY9LbovQdXiByuD7GhE/GDDJCEfKD/Ly1fbV/gUk0btc1E8pa5MMhqH0fJA0gZhsOaKHBKJwtIrh8nDyBHXxeYzXYm+aXB59lSEqoSjU8YkUXSIGsZMp1xje/D55dPYtrOV1MdmfyXiiwOKReo9ozjOH1XBpmshstCXmEzX7uUCEiNwrEJjjqPsxM+iuo9uYWrvzZeXJl29JR5WMPNKERPAOxv4UA7PTZ8s4OXjz0WmYBhhDG1FivhtErlAKkSFEXavcfjV29NW4+oD3eKKU7gcGMWx5dSZTcQ9skzHpFeviC4nFojmqceworVfN0+1JQ6EFFQSReY+uMKr+FSXrxS1WtM1ZpD94t13eWbnp4EakwugmWi42pPFmVCfPDIbA==;zK6eySSoi0vhqf3pXqlM+A=="
 ---
 

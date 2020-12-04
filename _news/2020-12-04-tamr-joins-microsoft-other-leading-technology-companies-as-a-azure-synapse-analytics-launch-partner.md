@@ -1,20 +1,22 @@
 ---
 category: news
 title: "Tamr joins Microsoft, other leading technology companies as a Azure Synapse Analytics launch partner"
-excerpt: "Tamr, Inc., the provider of cloud-native data mastering solutions, today announced it's selection by Microsoft as a"
-publishedDateTime: 2020-12-03T20:27:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/20/12/n18642005/tamr-joins-microsoft-other-leading-technology-companies-as-a-azure-synapse-analytics-launch-partne"
-webUrl: "https://www.benzinga.com/pressreleases/20/12/n18642005/tamr-joins-microsoft-other-leading-technology-companies-as-a-azure-synapse-analytics-launch-partne"
-ampWebUrl: "https://amp.benzinga.com/amp/content/18642005"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18642005"
+excerpt: "PRNewswire/ -- Tamr, Inc., the provider of cloud-native data mastering solutions, today announced it's selection"
+publishedDateTime: 2020-12-03T20:13:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/tamr-joins-microsoft-other-leading-technology-companies-as-a-azure-synapse-analytics-launch-partner-1029863172"
+webUrl: "https://markets.businessinsider.com/news/stocks/tamr-joins-microsoft-other-leading-technology-companies-as-a-azure-synapse-analytics-launch-partner-1029863172"
 type: article
-quality: 54
+quality: 74
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
@@ -40,9 +42,9 @@ related:
   - title: "Alinta Energy uses Azure Synapse Analytics to power data-driven decisions"
     excerpt: "It's using Microsoft Azure Synapse Analytics to bring together enterprise data warehousing and big data analytics."
     publishedDateTime: 2020-12-03T21:13:00Z
-    webUrl: "https://www.zdnet.com/article/alinta-energy-uses-azure-synapse-analytics-to-power-data-driven-decisions/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/alinta-energy-uses-azure-synapse-analytics-to-power-data-driven-decisions/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/alinta-energy-uses-azure-synapse-analytics-to-power-data-driven-decisions/"
+    webUrl: "https://www.zdnet.com/index.php/category/2381/index.php/article/alinta-energy-uses-azure-synapse-analytics-to-power-data-driven-decisions/"
+    ampWebUrl: "https://www.zdnet.com/index.php/category/2381/index.php/google-amp/article/alinta-energy-uses-azure-synapse-analytics-to-power-data-driven-decisions/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2381/index.php/google-amp/article/alinta-energy-uses-azure-synapse-analytics-to-power-data-driven-decisions/"
     type: article
     provider:
       name: ZDNet
@@ -210,6 +212,6 @@ related:
       domain: telecompaper.com
     quality: 17
 
-secured: "WjWhiQHWTPrlIvrJvAUSrTX2GFBXPn+95/NeFrV75Vdx0xRBUTSonf4YOGXkuj29nA41mt3p446EXhsb5tjn7fxd2Bg30sVGehNMvcno64UIW///a9nFG/g+5JTcJECzIMrrdeuMMtXd9kKKiNkIMUMp/caAIvzmiv54H6gEX3g9RGwNUMYaPJSojD5wqWkeKbE5sl4DRy0n/MlYyjXnDKVZ+eEPSArseyxVOe7Siex/FNg0okXMFVfkrr5LTHXXXJ+Zpnh+5zOqdQcn8GxgVzJSZyLS6D4GIWMVzQUNCb3OOeYWwWMF9e8opey9ZaAIa5hVMvLwUjrMaybp9z261TMGXmmKTPYQ3T4LYGDCwwQ=;i/DerWugKIfPP/LWTdtkMQ=="
+secured: "c5rqx5sMTs+FenYkcZnekQ+G+2p887pa6HYAuhMggkap/pvmEaO3E0kIEiHA2GMP13Qfc3HUC+ZBvBUKKHEJ6GXgibF2D5xkwBB342iZefYVIn56qZBIX8eqgmWIODdEoAcoTnf8SMf/6Mw/brYTTQVlmjmvN/6O0IczZVGGX+m+Ff9es3fR1hcFVqOuS4vUtDS4j96s9SCj5AdT7CjU2SRZbfVjKtwDxTq4jIl2h35aIoXtTwAhlvcHR+CnNvgJhEx4HWnNlj6qAyveXTFr4R6T9q9JkrXm+4QUAA9guvSCOIWqOlLeC9xkR3VjbFt1R5gJncmq/s0i+NXXyMq7xoxS4limM2/AknNsEHv3sYM=;oVTFYDdYdz/kizEuzIsnhw=="
 ---
 

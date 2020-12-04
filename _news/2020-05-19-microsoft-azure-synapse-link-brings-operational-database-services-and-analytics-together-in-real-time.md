@@ -45,9 +45,9 @@ related:
   - title: "Alinta Energy uses Azure Synapse Analytics to power data-driven decisions"
     excerpt: "It's using Microsoft Azure Synapse Analytics to bring together enterprise data warehousing and big data analytics."
     publishedDateTime: 2020-12-03T21:13:00Z
-    webUrl: "https://www.zdnet.com/article/alinta-energy-uses-azure-synapse-analytics-to-power-data-driven-decisions/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/alinta-energy-uses-azure-synapse-analytics-to-power-data-driven-decisions/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/alinta-energy-uses-azure-synapse-analytics-to-power-data-driven-decisions/"
+    webUrl: "https://www.zdnet.com/index.php/category/2381/index.php/article/alinta-energy-uses-azure-synapse-analytics-to-power-data-driven-decisions/"
+    ampWebUrl: "https://www.zdnet.com/index.php/category/2381/index.php/google-amp/article/alinta-energy-uses-azure-synapse-analytics-to-power-data-driven-decisions/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2381/index.php/google-amp/article/alinta-energy-uses-azure-synapse-analytics-to-power-data-driven-decisions/"
     type: article
     provider:
       name: ZDNet
@@ -78,6 +78,15 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Tamr joins Microsoft, other leading technology companies as a Azure Synapse Analytics launch partner"
+    excerpt: "PRNewswire/ -- Tamr, Inc., the provider of cloud-native data mastering solutions, today announced it's selection"
+    publishedDateTime: 2020-12-03T20:13:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/tamr-joins-microsoft-other-leading-technology-companies-as-a-azure-synapse-analytics-launch-partner-1029863172"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 74
   - title: "Microsoft Build brings announcements for cloud data, analytics services, and intersection of the two"
     excerpt: "A series of announcements around Synapse Analytics, Cosmos DB, Azure Database and SQL Edge make this year's Microsoft Build conference a virtual event revealing actual advances and concrete integrations."
     publishedDateTime: 2020-05-19T15:00:00Z
@@ -108,17 +117,6 @@ related:
         width: 1200
         height: 627
         isCached: true
-  - title: "Tamr joins Microsoft, other leading technology companies as a Azure Synapse Analytics launch partner"
-    excerpt: "Tamr, Inc., the provider of cloud-native data mastering solutions, today announced it's selection by Microsoft as a"
-    publishedDateTime: 2020-12-03T20:27:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/12/n18642005/tamr-joins-microsoft-other-leading-technology-companies-as-a-azure-synapse-analytics-launch-partne"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/18642005"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18642005"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 54
   - title: "Microsoft Azure becomes preferred Cloud platform for SAS analytics"
     excerpt: "Redmond, June 16 (IANS) Tech giant Microsoft and business analytics software and services firm SAS have announced a strategic partnership, making Azure the preferred Cloud platform for SAS's ..."
     publishedDateTime: 2020-06-16T10:15:00Z

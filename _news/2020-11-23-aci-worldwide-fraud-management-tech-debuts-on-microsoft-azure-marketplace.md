@@ -40,6 +40,22 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "Passport 360 Now Available in the Microsoft Azure Marketplace"
+    excerpt: "JOHANNEBSURG, Gauteng, South Africa — November 13, 2020 — Passport 360 today announced the availability of its product of the same name in the Microsoft Azure Marketplace, an online store ..."
+    publishedDateTime: 2020-11-13T12:52:00Z
+    webUrl: "https://www.openpr.com/news/2187373/passport-360-now-available-in-the-microsoft-azure-marketplace"
+    ampWebUrl: "https://www.openpr.com/amp/2187373/passport-360-now-available-in-the-microsoft-azure-marketplace"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2187373/passport-360-now-available-in-the-microsoft-azure-marketplace"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 57
+    images:
+      - url: "https://cdn.openpr.com/T/b/Tb13885641_g.jpg"
+        width: 800
+        height: 800
+        isCached: true
   - title: "Datadobi Provides Data Migration Support for Microsoft Azure"
     excerpt: "Datadobi, a global provider of unstructured data management software, is offering support for file data migration to and protection on Microsoft Azure, enabling enterprise customers to migrate and protect their NAS file data in the cloud."
     publishedDateTime: 2020-11-24T14:42:00Z
