@@ -82,6 +82,22 @@ related:
         width: 1200
         height: 741
         isCached: true
+  - title: "Microsoft rolls out data governance service on Azure"
+    excerpt: "Azure Purview automates the discovery and cataloging of data on-premises, in the cloud, and in SaaS applications."
+    publishedDateTime: 2020-12-04T11:05:00Z
+    webUrl: "https://www.infoworld.com/article/3600228/microsoft-azure-rolls-out-data-governance-service.html"
+    ampWebUrl: "https://www.infoworld.com/article/3600228/microsoft-azure-rolls-out-data-governance-service.amp.html"
+    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3600228/microsoft-azure-rolls-out-data-governance-service.amp.html"
+    type: article
+    provider:
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 97
+    images:
+      - url: "https://images.idgesg.net/images/article/2019/11/abstract_background_technology_data_binary_plotted_points_by_ivanastar_gettyimages_901412996-100817846-large.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Tamr joins Microsoft, other leading technology companies as a Azure Synapse Analytics launch partner"
     excerpt: "PRNewswire/ -- Tamr, Inc., the provider of cloud-native data mastering solutions, today announced it's selection"
     publishedDateTime: 2020-12-03T20:13:00Z

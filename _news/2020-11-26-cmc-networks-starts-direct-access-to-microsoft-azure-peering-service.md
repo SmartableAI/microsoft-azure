@@ -72,6 +72,22 @@ related:
         width: 1200
         height: 741
         isCached: true
+  - title: "Microsoft rolls out data governance service on Azure"
+    excerpt: "Azure Purview automates the discovery and cataloging of data on-premises, in the cloud, and in SaaS applications."
+    publishedDateTime: 2020-12-04T11:05:00Z
+    webUrl: "https://www.infoworld.com/article/3600228/microsoft-azure-rolls-out-data-governance-service.html"
+    ampWebUrl: "https://www.infoworld.com/article/3600228/microsoft-azure-rolls-out-data-governance-service.amp.html"
+    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3600228/microsoft-azure-rolls-out-data-governance-service.amp.html"
+    type: article
+    provider:
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 97
+    images:
+      - url: "https://images.idgesg.net/images/article/2019/11/abstract_background_technology_data_binary_plotted_points_by_ivanastar_gettyimages_901412996-100817846-large.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Microsoft's cloud chief breaks down new Azure products"
     excerpt: "CNBC's \"Squawk Alley\" team discusses Microsoft new data products for Azure with Microsoft’s head of cloud and executive vice president of Azure, Jason Zander."
     publishedDateTime: 2020-12-03T16:55:00Z

@@ -1,28 +1,32 @@
 ---
 category: news
-title: "Nadella takes a dig at Amazon as Microsoft unveils Azure Purview"
-excerpt: "Taking an apparent dig at Amazon and its Cloud arm AWS, Microsoft CEO Satya Nadella has said that it is important to not only trust a vendors technology capabilities but also its ‘business model alignment with its customers."
-publishedDateTime: 2020-12-04T08:41:00Z
-originalUrl: "https://www.sify.com/finance/nadella-takes-a-dig-at-amazon-as-microsoft-unveils-azure-purview-news-topnews-umegIohfjjjib.html"
-webUrl: "https://www.sify.com/finance/nadella-takes-a-dig-at-amazon-as-microsoft-unveils-azure-purview-news-topnews-umegIohfjjjib.html"
-ampWebUrl: "https://www.sify.com/finance/nadella-takes-a-dig-at-amazon-as-microsoft-unveils-azure-purview-news-topnews-umegIohfjjjib.html"
-cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/finance/nadella-takes-a-dig-at-amazon-as-microsoft-unveils-azure-purview-news-topnews-umegIohfjjjib.html"
+title: "Microsoft rolls out data governance service on Azure"
+excerpt: "Azure Purview automates the discovery and cataloging of data on-premises, in the cloud, and in SaaS applications."
+publishedDateTime: 2020-12-04T11:05:00Z
+originalUrl: "https://www.infoworld.com/article/3600228/microsoft-azure-rolls-out-data-governance-service.html"
+webUrl: "https://www.infoworld.com/article/3600228/microsoft-azure-rolls-out-data-governance-service.html"
+ampWebUrl: "https://www.infoworld.com/article/3600228/microsoft-azure-rolls-out-data-governance-service.amp.html"
+cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3600228/microsoft-azure-rolls-out-data-governance-service.amp.html"
 type: article
-quality: 57
+quality: 97
 heat: -1
 published: false
 
 provider:
-  name: Sify.com
-  domain: sify.com
+  name: InfoWorld
+  domain: infoworld.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/infoworld.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
 
 images:
-  - url: "https://www.sify.com/uploads/satya_nadella_microsoft_ap_ul3hPHcfcijca.jpeg"
-    width: 900
-    height: 450
+  - url: "https://images.idgesg.net/images/article/2019/11/abstract_background_technology_data_binary_plotted_points_by_ivanastar_gettyimages_901412996-100817846-large.jpg"
+    width: 1200
+    height: 800
     isCached: true
 
 related:
@@ -80,22 +84,6 @@ related:
         width: 1200
         height: 741
         isCached: true
-  - title: "Microsoft rolls out data governance service on Azure"
-    excerpt: "Azure Purview automates the discovery and cataloging of data on-premises, in the cloud, and in SaaS applications."
-    publishedDateTime: 2020-12-04T11:05:00Z
-    webUrl: "https://www.infoworld.com/article/3600228/microsoft-azure-rolls-out-data-governance-service.html"
-    ampWebUrl: "https://www.infoworld.com/article/3600228/microsoft-azure-rolls-out-data-governance-service.amp.html"
-    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3600228/microsoft-azure-rolls-out-data-governance-service.amp.html"
-    type: article
-    provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 97
-    images:
-      - url: "https://images.idgesg.net/images/article/2019/11/abstract_background_technology_data_binary_plotted_points_by_ivanastar_gettyimages_901412996-100817846-large.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Microsoft's cloud chief breaks down new Azure products"
     excerpt: "CNBC's \"Squawk Alley\" team discusses Microsoft new data products for Azure with Microsoft’s head of cloud and executive vice president of Azure, Jason Zander."
     publishedDateTime: 2020-12-03T16:55:00Z
@@ -134,6 +122,22 @@ related:
       - url: "https://zdnet2.cbsistatic.com/hub/i/r/2020/05/13/bf550a82-e9e8-4511-bee9-983426e8fc52/thumbnail/1200x675/aaf99352c82c362f4feba84192e7819c/2555435eba4cad133864-58121622-nvidia-accelerates-apache-spark.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Nadella takes a dig at Amazon as Microsoft unveils Azure Purview"
+    excerpt: "Taking an apparent dig at Amazon and its Cloud arm AWS, Microsoft CEO Satya Nadella has said that it is important to not only trust a vendors technology capabilities but also its ‘business model alignment with its customers."
+    publishedDateTime: 2020-12-04T08:41:00Z
+    webUrl: "https://www.sify.com/finance/nadella-takes-a-dig-at-amazon-as-microsoft-unveils-azure-purview-news-topnews-umegIohfjjjib.html"
+    ampWebUrl: "https://www.sify.com/finance/nadella-takes-a-dig-at-amazon-as-microsoft-unveils-azure-purview-news-topnews-umegIohfjjjib.html"
+    cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/finance/nadella-takes-a-dig-at-amazon-as-microsoft-unveils-azure-purview-news-topnews-umegIohfjjjib.html"
+    type: article
+    provider:
+      name: Sify.com
+      domain: sify.com
+    quality: 57
+    images:
+      - url: "https://www.sify.com/uploads/satya_nadella_microsoft_ap_ul3hPHcfcijca.jpeg"
+        width: 900
+        height: 450
         isCached: true
   - title: "Cyber Security Cloud WafCharm now available on Microsoft Azure"
     excerpt: "Cyber Security Cloud announces the availability of WafCharm on Microsoft Azure, providing AI operation of WAF rules."
@@ -256,6 +260,6 @@ related:
       domain: telecompaper.com
     quality: 17
 
-secured: "9moIqiGgZ89iZnaX1oLQkWxPhZPTW9MJJs6s3UjV+Zyw9MaJ+STQzW/JLIoFPclt6txQK/6WXCMfPGBYMmf+PYpaFlsQmz+V3Li4BtQQABzOPpCQ1ErPxa4YFPiAXaW1AoLuQPpURCOPrmKPX+js6xNOY6p91MsdNTg0E3UUm1tc76JslU+TeWKZiBhsShrI965+agYd1brKiHXwQnT8rwOVGp6T8Wdxbu23JKZqq51A+Ae2ZQB5xtwWi3j5/C2te4TXk4+xa7oFLyFFqe0HIvwPRQ77Tvv7faTUgUFhGe0WZnDPezTo8W3iKRPYtFslECiYIRbFWa4LMmSbXuLHU2gTJtmZEie4Pxk4DnHPhqY=;7mKaz+uzsBP1hkCVbX7MnA=="
+secured: "ZRkGAxVSbTJyM+Tlmspa42i6oIJ2FMC2RbsSAxD/XRwpuyClz3kQrQNpYKg2k8aoqR9jAgTM15XLoEF40t5qy0OHF+HZFPLWqEkSl8XhvnrwKZHRxkLTSE4c0Uu4JxJ08UIz8cEy3kydWL2jMTRidsedGaPsZ5vKPcxbcf7mafyPpJvjaxyXQbUkh5xFg6FwCfB90AvJBbEwMMgcyovCzrz94pPbgqHjABFsVqLXGVibdTaK+4o8b9O/uaQ1Jgcir++0+qtggI62K1sbULL9SS+On75fmd6PMV2vUwlp7o/Q0YUEGJtMUoHso8dYA5cpylOlTuBBMb/ZNMSlxlPQWRZcNq5PCqCd71Qu+nJqGy0=;dbGQYTDCM5etJA6Eye3qEQ=="
 ---
 

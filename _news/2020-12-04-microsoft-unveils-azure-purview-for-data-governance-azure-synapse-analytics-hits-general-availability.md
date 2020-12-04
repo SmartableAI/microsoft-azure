@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/12/03/microsoft-azure-purview-azure-syn
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/03/microsoft-azure-purview-azure-synapse-analytics/amp/"
 type: article
 quality: 113
-heat: 433
+heat: 453
 published: true
 
 provider:
@@ -68,6 +68,22 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fc9b08566dda99de43b5fee%2F0x0.jpg"
         width: 1200
         height: 741
+        isCached: true
+  - title: "Microsoft rolls out data governance service on Azure"
+    excerpt: "Azure Purview automates the discovery and cataloging of data on-premises, in the cloud, and in SaaS applications."
+    publishedDateTime: 2020-12-04T11:05:00Z
+    webUrl: "https://www.infoworld.com/article/3600228/microsoft-azure-rolls-out-data-governance-service.html"
+    ampWebUrl: "https://www.infoworld.com/article/3600228/microsoft-azure-rolls-out-data-governance-service.amp.html"
+    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3600228/microsoft-azure-rolls-out-data-governance-service.amp.html"
+    type: article
+    provider:
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 97
+    images:
+      - url: "https://images.idgesg.net/images/article/2019/11/abstract_background_technology_data_binary_plotted_points_by_ivanastar_gettyimages_901412996-100817846-large.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Microsoft's cloud chief breaks down new Azure products"
     excerpt: "CNBC's \"Squawk Alley\" team discusses Microsoft new data products for Azure with Microsoft’s head of cloud and executive vice president of Azure, Jason Zander."
