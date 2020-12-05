@@ -9,7 +9,7 @@ ampWebUrl: "https://markets.businessinsider.com/amp/news/dla-piper-launches-new-
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/dla-piper-launches-new-toko-security-tokenization-platform-on-hedera-hashgraph-hyperledger-fabric-and-microsoft-azure-1029834403"
 type: article
 quality: 70
-heat: 90
+heat: 110
 published: true
 
 provider:
@@ -25,6 +25,20 @@ topics:
   - Security
 
 related:
+  - title: "Cyber Security Cloud Launches WafCharm on Microsoft Azure"
+    excerpt: "Cyber Security Cloud, Inc. (CSC) is pleased to announce the availability of WafCharm on Microsoft Azure. Already available to over one million Amazon AWS users around the world, this launch provides Azure users with AI operation of Web Application Firewall (WAF) rules,"
+    publishedDateTime: 2020-12-01T13:01:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/business-technology-products-and-services-asia-cloud-computing-services-94e459be8e4b46e28c817ad8937de808"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 54
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "DLA Piper Launches New TOKO Security Tokenization Platform on Hedera Hashgraph, Hyperledger Fabric, and Microsoft Azure"
     excerpt: "DLA Piper Launches New TOKO Security Tokenization Platform on Hedera Hashgraph, Hyperledger Fabric, and Microsoft Azure. Nov 30, 2020 1:44 PM ET. Legal Newswire POWERED BY LAW.COM"
     publishedDateTime: 2020-11-30T17:44:00Z

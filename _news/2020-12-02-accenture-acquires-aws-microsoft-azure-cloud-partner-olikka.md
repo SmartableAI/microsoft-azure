@@ -32,6 +32,20 @@ related:
         width: 1200
         height: 627
         isCached: true
+  - title: "AirHop Communications Brings Real-Time 5G Network Intelligence Solution to Microsoft Azure 4G/5G"
+    excerpt: "AirHop Communications, a leader in 4G and 5G Network Intelligence software platforms and solutions, today announced the integration of its solutions with Microsoft Azure platforms. The integration of AirHop’s eSON platform enables network deployments with Microsoft Azure platforms (cloud,"
+    publishedDateTime: 2020-12-03T19:35:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-north-america-products-and-services-eb13cfc4af744e8e870847a7a002c878"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 24
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "wcPfKc2LLw7rZuOZaFYyhvpmiQyXGLG4LhCm2BCbIPyuENS/DjrHRlW7yx0iVJ06FsGcxdacioJblS7/BPzMb95gf17b4T+nhvwB1HmuO63zXQWpGgsa87L+AStEsKchtVpBBGlgRO24Zc8UZmV3+W4COYmlesKCphllSyqjBAnuueewG6M3fU5g5xkAXg4QRFUCkUiU46zbKQbyByL/oTuNTlaVDy0UDj+ElxTTCHiBCN5y3G/Rppphjv7zTU7FjgYGb1DV49KbkN9kYik4jRTFwlE3DLlvRivYtjiTqzBGF/eCmMntsY7Rm5PBBtBHNdayNlIljPNwpku/tnqlzzffeF2SRVAmW4qF5PZxXR+k8pCKVD0vkXTATNhgaE6It/6rbE3WxCznlRCF4DiWUpXi5yfIy8gkEczYA2dXlUiwWs9XPS5L/PYwHW2usqquzYHLs0LSn8bMTPEJ/Qx9OUV/1IG79TRC9mOF9jj0MauLSoJIu7eoF6QBWyte0A/vjHuDNRCzCAUXYGlzFvZlnQ==;WSG9KMkgPUI4AO5JXRVTiQ=="
 ---

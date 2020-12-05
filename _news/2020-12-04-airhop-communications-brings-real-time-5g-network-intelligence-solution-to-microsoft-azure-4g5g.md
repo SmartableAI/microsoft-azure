@@ -1,57 +1,53 @@
 ---
 category: news
 title: "AirHop Communications Brings Real-Time 5G Network Intelligence Solution to Microsoft Azure 4G/5G"
-excerpt: "Air"
-publishedDateTime: 2020-12-03T19:46:00Z
-originalUrl: "https://www.bloomberg.com/press-releases/2020-12-03/airhop-communications-brings-real-time-5g-network-intelligence-solution-to-microsoft-azure-4g-5g"
-webUrl: "https://www.bloomberg.com/press-releases/2020-12-03/airhop-communications-brings-real-time-5g-network-intelligence-solution-to-microsoft-azure-4g-5g"
+excerpt: "AirHop Communications, a leader in 4G and 5G Network Intelligence software platforms and solutions, today announced the integration of its solutions with Microsoft Azure platforms. The integration of AirHop’s eSON platform enables network deployments with Microsoft Azure platforms (cloud,"
+publishedDateTime: 2020-12-03T19:35:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-north-america-products-and-services-eb13cfc4af744e8e870847a7a002c878"
+webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-north-america-products-and-services-eb13cfc4af744e8e870847a7a002c878"
 type: article
-quality: 64
-heat: 104
-published: true
+quality: 24
+heat: -1
+published: false
 
 provider:
-  name: Bloomberg
-  domain: bloomberg.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/bloomberg.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg"
-    width: 1200
-    height: 630
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
-  - title: "HMB Earns Microsoft Advanced Specialization in Modernization of Web Applications to Microsoft Azure"
-    excerpt: "HMB, a technology solutions company with offices in Columbus, Ohio and Louisville, Kentucky, announced it has earned a Microsoft advanced specialization in Modernization of Web Applications to Microsoft Azure."
-    publishedDateTime: 2020-12-04T04:33:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/hmb-earns-microsoft-advanced-specialization-in-modernization-of-web-applications-to-microsoft-azure-1029863768"
+  - title: "Exoprise CloudReady now available in the Microsoft Azure Marketplace"
+    excerpt: "Exoprise announced the availability of its CloudReady solution in the Microsoft Azure Marketplace, with streamlined deployment and management."
+    publishedDateTime: 2020-12-04T01:34:00Z
+    webUrl: "https://www.helpnetsecurity.com/2020/12/04/exoprise-cloudready-microsoft-azure/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 43
-  - title: "Beabloo Promotes Interaction Care: the Solution that Reduces the Risk of COVID-19 Infection, via the Microsoft Azure Cloud"
-    excerpt: "Beabloo Promotes Interaction Care: the Solution that Reduces the Risk of COVID-19 Infection, via the Microsoft Azure Cloud By 1 - The retail tech companys solution uses real-time alerts to avoid high-risk interactions and boost security in public"
-    publishedDateTime: 2020-12-03T07:48:00Z
-    webUrl: "https://www.cioreview.com/news/beabloo-promotes-interaction-care-the-solution-that-reduces-the-risk-of-covid19-infection-via-the-microsoft-azure-cloud-pnid-423-cid-15.html"
-    type: article
-    provider:
-      name: CIOReview
-      domain: cioreview.com
-    quality: 11
+      name: Help Net Security
+      domain: helpnetsecurity.com
+    quality: 37
     images:
-      - url: "https://www.cioreview.com/news_new/sliderimage/z4fcv.30035015151.jpg"
-        width: 300
-        height: 350
+      - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/11/02114007/help_net_security.jpg"
+        width: 1200
+        height: 627
         isCached: true
+  - title: "Accenture Acquires AWS, Microsoft Azure Cloud Partner Olikka"
+    excerpt: "Accenture acquires Olikka, an Australia-based systems integrator for Amazon Web Services (AWS) & Microsoft Azure. Accenture is the worlds' top public cloud MSP, ChannelE2E research says."
+    publishedDateTime: 2020-12-02T02:31:00Z
+    webUrl: "https://www.channele2e.com/investors/mergers-acquisitions/accenture-buys-aws-microsoft-azure-cloud-partner-olikka/"
+    type: article
+    provider:
+      name: ChannelE2E
+      domain: channele2e.com
+    quality: 17
 
-secured: "6/aAXLU/R5JaEyx+zQUKkoyPelrLNunSt9373M0Aj9bi6icgUV9XKDj6coVy9syMWW6qnBCGRsr0bCNRbzDDoimqOchV2PngPThY+9KOkou5a8YXcxRqrtSFIbN9ipAUvCKiIjpPXzeX/J2vYxTZBOl3cO0L2fAlloais2UKeKr9bDS8nHRlPMM79zms2187b3jHcySlWMPjUlZyi7kSqMC7oxnmnG8n7XfyF+SMZVw6lY4G/Zat5h/bTs6T2fsW6kZWQs2GOtvl4H20FseGFVwBO0kcaQn8wB3UYgZLqQF0NAb2f62taJrYGm9pbAq+HitUrlrQQ6seKahw6DvbGDQ/gQ/c7XcWycz5tdze/m4=;vH80LpX5pGpbk9efmNxtNg=="
+secured: "S3MkQF4dazWYTY4AjANLT6LNlFQi9a5TgUkG0akjuKWLjTTlgHMrlHImCPJgQGfE7hxWVn7WVDuIlKkuwwQdF3sdpiOI3nSLQPFHS1UfDgHC8qPcVTO9TQW7wlhqZpgPSSYA4lvaa3ssx64nr/c+WBGjZoPbKqr9/r/zac+EGiHFq3DEBnWMH94YHXmLE/jpI/jl9AOgzW/HAJafZ7b0+twvIvbx05zUtkKGcFmqyaGi7Y9eahUu21bMJlFQCwNqvOgWUK7xU1t21Iikn7FGJzoKaX3I9Th9Oz9ynXYYc9QFWnqhOJnHvjVnYGqnTGJdj5SI4EXa2msut+6MxozdoaYC024ihQYDwxY2g6TuEqg=;bCptJBdFMTMXvHkkm1OUYw=="
 ---
 

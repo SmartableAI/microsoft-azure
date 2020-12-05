@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-18T19:19:00Z
 webUrl: "https://www.marketwatch.com/press-release/quisitive-has-earned-the-modernization-of-web-applications-in-microsoft-azure-advanced-specialization-2020-07-14"
 type: article
 quality: 62
-heat: 182
+heat: 202
 published: true
 
 provider:
@@ -38,6 +38,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 53
+  - title: "HMB Earns Microsoft Advanced Specialization in Modernization of Web Applications to Microsoft Azure"
+    excerpt: "HMB, a technology solutions company with offices in Columbus, Ohio and Louisville, Kentucky, announced it has earned a Microsoft advanced specialization in Modernization of Web Applications to Microsoft Azure."
+    publishedDateTime: 2020-12-04T04:33:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/hmb-earns-microsoft-advanced-specialization-in-modernization-of-web-applications-to-microsoft-azure-1029863768"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 43
   - title: "IFI Techsolutions Recognized as a Finalist of OSS on Azure 2020 Microsoft Partner of the Year"
     excerpt: "IFI Techsolutions today announced it has been named a finalist of OSS on Azure 2020 Microsoft Partner of the Year Award. The company"
     publishedDateTime: 2020-07-13T19:30:00Z
