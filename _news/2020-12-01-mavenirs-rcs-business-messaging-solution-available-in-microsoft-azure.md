@@ -1,36 +1,45 @@
 ---
 category: news
-title: "Microsoft unveils Azure Purview for data governance, Azure Synapse Analytics hits general availability"
-excerpt: "Microsoft's Azure Purview, a new data governance solution, is in public preview. Azure Synapse Analytics is generally available."
-publishedDateTime: 2020-12-03T16:03:00Z
-originalUrl: "https://venturebeat.com/2020/12/03/microsoft-azure-purview-azure-synapse-analytics/"
-webUrl: "https://venturebeat.com/2020/12/03/microsoft-azure-purview-azure-synapse-analytics/"
-ampWebUrl: "https://venturebeat.com/2020/12/03/microsoft-azure-purview-azure-synapse-analytics/amp/"
-cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/03/microsoft-azure-purview-azure-synapse-analytics/amp/"
+title: "Mavenir’s RCS Business Messaging Solution Available in Microsoft Azure"
+excerpt: "today announced that its RCS Business Messaging Solution is available to deploy globally from Microsoft Azure. The current Covid-19 pandemic has forced businesses to accelerate their digital ..."
+publishedDateTime: 2020-12-01T14:46:00Z
+originalUrl: "https://www.oaoa.com/news/business/mavenir-s-rcs-business-messaging-solution-available-in-microsoft-azure/article_47a91ccf-1c8b-5efc-9ee8-accdd09b80b9.html"
+webUrl: "https://www.oaoa.com/news/business/mavenir-s-rcs-business-messaging-solution-available-in-microsoft-azure/article_47a91ccf-1c8b-5efc-9ee8-accdd09b80b9.html"
 type: article
-quality: 113
-heat: 493
-published: true
+quality: 37
+heat: -1
+published: false
 
 provider:
-  name: VentureBeat
-  domain: venturebeat.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/venturebeat.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Odessa American
+  domain: oaoa.com
 
 topics:
   - Azure
-  - Analytics
 
 images:
-  - url: "https://venturebeat.com/wp-content/uploads/2020/12/microsoft-azure.png?w=1200&strip=all"
-    width: 1200
-    height: 600
+  - url: "https://www.valleymorningstar.com/wp-content/uploads/sites/63/2020/07/GET-IT-NOW-BUTTON.png"
+    width: 576
+    height: 288
     isCached: true
 
 related:
+  - title: "Microsoft unveils Azure Purview for data governance, Azure Synapse Analytics hits general availability"
+    excerpt: "Microsoft's Azure Purview, a new data governance solution, is in public preview. Azure Synapse Analytics is generally available."
+    publishedDateTime: 2020-12-03T16:03:00Z
+    webUrl: "https://venturebeat.com/2020/12/03/microsoft-azure-purview-azure-synapse-analytics/"
+    ampWebUrl: "https://venturebeat.com/2020/12/03/microsoft-azure-purview-azure-synapse-analytics/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/03/microsoft-azure-purview-azure-synapse-analytics/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 113
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/12/microsoft-azure.png?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Alinta Energy uses Azure Synapse Analytics to power data-driven decisions"
     excerpt: "It's using Microsoft Azure Synapse Analytics to bring together enterprise data warehousing and big data analytics."
     publishedDateTime: 2020-12-03T21:13:00Z
@@ -198,20 +207,6 @@ related:
         width: 300
         height: 300
         isCached: true
-  - title: "Mavenir’s RCS Business Messaging Solution Available in Microsoft Azure"
-    excerpt: "today announced that its RCS Business Messaging Solution is available to deploy globally from Microsoft Azure. The current Covid-19 pandemic has forced businesses to accelerate their digital ..."
-    publishedDateTime: 2020-12-01T14:46:00Z
-    webUrl: "https://www.oaoa.com/news/business/mavenir-s-rcs-business-messaging-solution-available-in-microsoft-azure/article_47a91ccf-1c8b-5efc-9ee8-accdd09b80b9.html"
-    type: article
-    provider:
-      name: Odessa American
-      domain: oaoa.com
-    quality: 37
-    images:
-      - url: "https://www.valleymorningstar.com/wp-content/uploads/sites/63/2020/07/GET-IT-NOW-BUTTON.png"
-        width: 576
-        height: 288
-        isCached: true
   - title: "Modern VDI Solutions with Microsoft Azure"
     excerpt: "But there’s good news: Modern VDI Solutions with Microsoft Azure, focused on Windows Virtual Desktop (WVD). Join experts from Zones as they define VDI (a technology suite used to create a ..."
     publishedDateTime: 2020-11-30T18:55:00Z
@@ -289,6 +284,6 @@ related:
       domain: telecompaper.com
     quality: 17
 
-secured: "90jeG3+WbVq4pag0RE5fIgilelL5nmqzcJAIMytDyA0VkP6O1JeuvAHZ64AjLVMXHmnNtIuJfNBbNOD1nDrpFRxSAtlByda1vy7z89wiRJlrGMAuuv60Xyor4gS/0dUy6pkcOCGtjN2xyWU35dRYVeYp/UWB5XOLSJeDH6Zuaz24QQzn+x7AjC0fMC3kvxxzUTetVC0cHD7W2GPBQRwGjb8EGj9+v+wlUD+V0FBAkvAFLmcTVtFaBWObdjtyKmS+V3CVtCskw0/GF3oTjcJvquIqTLEr1e31Pwvmmxm4X0MjQmw+g1Qs2vIDYkZIiB6fwqTg8H1eiRceAhiHgkGZdaAfXpfgwunVvZdjOLUcGzv7UD1BORETqSkmaNZak62fydG4H7jmRhR1pHt58SKjxf5LfJMyUMytc5jyChhTJFYjbHbaMKKfjrm8T34N/ViJASbQiM0GtIDrTw9FtASQJjytGUyoK09y+jLLB4T+tlakN0BsqCCKQhP7VQP0CXbGEZ+4q8cGBSCyHUiRgpExIA==;uRwmISMpCAZ3JJIfFp0QnA=="
+secured: "w8Ow1H8ig5jA+ikqzLQE1RyjLwcSczX5QPso1wT9Wbyriecaeeg/QuZFWQp3cChjwaKLQGb+L6zV2H8CC4aqAbsB8i6Lh2j577j6Gq1feCEQVcxZtR7492OBhKlFN2eFv1mUSF0wBvqiwE8lIp9zG/t9qrWTVAdPREC5OCk1c80F2rL1MRtEjtFfInKxP/owpH66yjdlsMnFDLb1Rqw4JMwLmF0mpJZQE5t5a/bcnkwwF1JSC+AZovWz9Lm0xIt+D2Mn8pg8nhCMb+Yo/H/fQKzce0QK0Dmb/GIAWrVoyrFekeHiwQfgjZPPZjGAwt4t9ZKHFGqPmby+N+WTZcZzqc/6QDX3TLr1OM/BdpYUXvE=;tfyqTUdHnVSCrFExQ/XW4g=="
 ---
 

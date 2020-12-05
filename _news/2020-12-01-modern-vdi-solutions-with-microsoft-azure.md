@@ -207,6 +207,20 @@ related:
         width: 300
         height: 300
         isCached: true
+  - title: "Mavenir’s RCS Business Messaging Solution Available in Microsoft Azure"
+    excerpt: "today announced that its RCS Business Messaging Solution is available to deploy globally from Microsoft Azure. The current Covid-19 pandemic has forced businesses to accelerate their digital ..."
+    publishedDateTime: 2020-12-01T14:46:00Z
+    webUrl: "https://www.oaoa.com/news/business/mavenir-s-rcs-business-messaging-solution-available-in-microsoft-azure/article_47a91ccf-1c8b-5efc-9ee8-accdd09b80b9.html"
+    type: article
+    provider:
+      name: Odessa American
+      domain: oaoa.com
+    quality: 37
+    images:
+      - url: "https://www.valleymorningstar.com/wp-content/uploads/sites/63/2020/07/GET-IT-NOW-BUTTON.png"
+        width: 576
+        height: 288
+        isCached: true
   - title: "Microsoft Azure Service Fabric 7.2 Fourth Refresh Release Notes"
     excerpt: "Service Fabric is a distributed systems platform for packaging, deploying, and managing stateless and stateful distributed applications and containers at large scale. - microsoft/service-fabric"
     publishedDateTime: 2020-12-03T09:25:20Z
