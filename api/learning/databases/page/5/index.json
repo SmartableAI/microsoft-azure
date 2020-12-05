@@ -4,45 +4,6 @@
   "page": 5,
   "value": [
     {
-      "path": "_learning/videos/microsoft-azure-friday-whats-new-in-azure-cosmos-db.md",
-      "title": "Azure Friday | What's New in Azure Cosmos DB",
-      "excerpt": "Kirill Gavrylyuk returns to Azure Friday to update Scott Hanselman on what's new in Azure Cosmos DB, such as the Cassandra API for applications that are written for Apache Cassandra, updates to the Azure Table storage API, the Apache Spark Connector, the Graph API, partitioned collections, 99.999% (five",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-azure-friday-whats-new-in-azure-cosmos-db/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-azure-friday-whats-new-in-azure-cosmos-db/",
-      "originalUrl": "https://youtube.com/watch?v=MuW0_IlQ_XU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/MuW0_IlQ_XU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT10M36S",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2018-02-15T12:35:48-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/MuW0_IlQ_XU/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Databases"
-      ]
-    },
-    {
       "path": "_learning/videos/microsoft-azure-friday-whats-new-in-azure-cosmos-dbs-api-for-mongodb.md",
       "title": "Azure Friday | What’s New in Azure Cosmos DB’s API for MongoDB",
       "excerpt": "Emily Lawton joins Scott Hanselman to discuss what's new in Azure Cosmos DB's API for Mongo DB, including new preview features such as support for the aggregation pipeline and unique indexes. They discuss tips and tricks for importing large backups using MongoDB Tools.  For more information, see:  Azure",
@@ -82,14 +43,14 @@
       ]
     },
     {
-      "path": "_learning/videos/microsoft-debugging-and-optimizing-azure-cosmos-db-performance-azure-friday.md",
-      "title": "Debugging and optimizing Azure Cosmos DB performance | Azure Friday",
-      "excerpt": "Deborah Chen joins Scott Hanselman to share some best practices on how to debug and optimize Azure Cosmos DB for better performance. Watch as they go through the common issues newcomers to Azure Cosmos DB run into with respect to performance and how to solve them by tuning Request Unit (RU) cost and",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-debugging-and-optimizing-azure-cosmos-db-performance-azure-friday/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-debugging-and-optimizing-azure-cosmos-db-performance-azure-friday/",
-      "originalUrl": "https://youtube.com/watch?v=IkCKGX6jbN4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/IkCKGX6jbN4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT13M50S",
+      "path": "_learning/videos/microsoft-common-design-patterns-with-azure-cosmos-db-azure-friday.md",
+      "title": "Common design patterns with Azure Cosmos DB | Azure Friday",
+      "excerpt": "Aravind Krishna stops by to chat with Scott Hanselman and take a look at common design patterns for building highly scalable solutions with Azure Cosmos DB. We will talk a little bit about modeling data and how to choose an appropriate partition key. We then look at a few patterns like event sourcing,",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-common-design-patterns-with-azure-cosmos-db-azure-friday/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-common-design-patterns-with-azure-cosmos-db-azure-friday/",
+      "originalUrl": "https://youtube.com/watch?v=5YNJpGwj_Zs",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/5YNJpGwj_Zs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT15M48S",
       "provider": {
         "name": "Microsoft",
         "domain": "microsoft.com",
@@ -102,11 +63,11 @@
           }
         ]
       },
-      "publishedDateTime": "2019-08-08T23:00:57-07:00",
+      "publishedDateTime": "2018-04-12T16:53:12-07:00",
       "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/IkCKGX6jbN4/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/5YNJpGwj_Zs/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -396,45 +357,6 @@
       ]
     },
     {
-      "path": "_learning/videos/microsoft-how-to-use-composite-indexes-and-correlated-subqueries-with-azure-cosmos-db-azure-friday.md",
-      "title": "How to use composite indexes and correlated subqueries with Azure Cosmos DB | Azure Friday",
-      "excerpt": "Tim Sander joins Scott Hanselman to discuss composite indexes and correlated subqueries using the SQL API in Azure Cosmos DB. A Request Unit, or RU, is the measure of throughput in Azure Cosmos DB. Learn how to optimize queries with a composite index to decrease the RUs needed for a given query. They",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-how-to-use-composite-indexes-and-correlated-subqueries-with-azure-cosmos-db-azure-friday/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-how-to-use-composite-indexes-and-correlated-subqueries-with-azure-cosmos-db-azure-friday/",
-      "originalUrl": "https://youtube.com/watch?v=FigrAT2ooPM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/FigrAT2ooPM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT10M26S",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2019-12-06T08:42:23-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/FigrAT2ooPM/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Databases"
-      ]
-    },
-    {
       "path": "_learning/videos/microsoft-how-to-use-jupyter-notebook-and-apache-spark-in-azure-cosmos-db-azure-friday.md",
       "title": "How to use Jupyter Notebook and Apache Spark in Azure Cosmos DB | Azure Friday",
       "excerpt": "Kirill Gavrylyuk joins Scott Hanselman to show how to run Jupyter Notebook and Apache Spark in Azure Cosmos DB. Now you can use the interactive experience of Jupyter Notebook and analytics powered by Apache Spark with your operational data. Run analytics and ML on your operational data in real time without",
@@ -514,6 +436,45 @@
       ]
     },
     {
+      "path": "_learning/videos/microsoft-introducing-flexible-server-in-azure-database-for-postgresql-mysql-azure-friday.md",
+      "title": "Introducing Flexible Server in Azure Database for PostgreSQL & MySQL | Azure Friday",
+      "excerpt": "Sunil Kamath joins Scott Hanselman to discuss how you can run your MySQL or Postgres database as a managed database on Azure without giving up the control you want while taking advantage of the benefits of a PaaS offering.  0:00 – Overview 4:44 – Demo 8:54 – Customizing Flexible Server in the CLI 10:41",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-introducing-flexible-server-in-azure-database-for-postgresql-mysql-azure-friday/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-introducing-flexible-server-in-azure-database-for-postgresql-mysql-azure-friday/",
+      "originalUrl": "https://youtube.com/watch?v=oFlKRdr0MLE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/oFlKRdr0MLE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT22M11S",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-10-30T08:49:31-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/oFlKRdr0MLE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Databases"
+      ]
+    },
+    {
       "path": "_learning/videos/microsoft-ri-instance-size-flexibility-reservations-for-azure-cosmos-db-sql-db-and-suse-azure-friday.md",
       "title": "RI instance size flexibility & reservations for Azure Cosmos DB, SQL DB, and SUSE | Azure Friday",
       "excerpt": "Yashesvi Sharma joins Scott Hanselman to discuss reserved virtual machine instances and how the reservation you buy can apply to other virtual machines (VMs) sizes in the same size series group. This ensures that you maximize your discounts and make reservation management easier. Also, you can now save",
@@ -578,6 +539,46 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/cfZUiVQIhTw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Serverless",
+        "Databases"
+      ]
+    },
+    {
+      "path": "_learning/videos/microsoft-what-database-you-should-use-in-your-next-azure-functions-app-azure-tips-and-tricks.md",
+      "title": "What database you should use in your next Azure Functions app | Azure Tips and Tricks",
+      "excerpt": "In this episode of Azure Tips and Tricks, learn what database you should use for your next Azure Functions app.   For more tips and tricks, visit: https://aka.ms/azuretipsandtricks   Get started with 12 months of free services and $200 USD in credit. Create your free account today with Microsoft Azure:",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-what-database-you-should-use-in-your-next-azure-functions-app-azure-tips-and-tricks/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-what-database-you-should-use-in-your-next-azure-functions-app-azure-tips-and-tricks/",
+      "originalUrl": "https://youtube.com/watch?v=ICRWjyr2l3E",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ICRWjyr2l3E\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT2M24S",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-11-17T08:10:50-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/ICRWjyr2l3E/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true

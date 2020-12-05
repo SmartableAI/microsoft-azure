@@ -4,47 +4,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-classify-user-feedback-with-the-text-analytics-api.md",
-      "title": "Discover sentiment in text with the Text Analytics API",
-      "excerpt": "Learn how to use the Text Analytics API and Azure Functions to discover what your customers are really saying in their feedback about your products or brands.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-classify-user-feedback-with-the-text-analytics-api/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/classify-user-feedback-with-the-text-analytics-api/",
-      "length": "PT48M",
-      "ratings": {
-        "count": 1530,
-        "average": 4.6222224
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 52,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Databases",
-        "Management Tools",
-        "Compute",
-        "Serverless",
-        "Storage",
-        "AI",
-        "Analytics"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-create-cosmos-db-for-scale.md",
       "title": "Create an Azure Cosmos DB database built to scale",
       "excerpt": "Learn how to create an Azure Cosmos DB account, database, and container built to scale as your application grows.",
@@ -242,14 +201,14 @@
       ]
     },
     {
-      "path": "_learning/videos/microsoft-common-design-patterns-with-azure-cosmos-db-azure-friday.md",
-      "title": "Common design patterns with Azure Cosmos DB | Azure Friday",
-      "excerpt": "Aravind Krishna stops by to chat with Scott Hanselman and take a look at common design patterns for building highly scalable solutions with Azure Cosmos DB. We will talk a little bit about modeling data and how to choose an appropriate partition key. We then look at a few patterns like event sourcing,",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-common-design-patterns-with-azure-cosmos-db-azure-friday/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-common-design-patterns-with-azure-cosmos-db-azure-friday/",
-      "originalUrl": "https://youtube.com/watch?v=5YNJpGwj_Zs",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/5YNJpGwj_Zs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT15M48S",
+      "path": "_learning/videos/microsoft-azure-friday-azure-cosmos-db-with-scott-hanselman.md",
+      "title": "Azure Friday | Azure Cosmos DB with Scott Hanselman",
+      "excerpt": "Kirill Gavrylyuk stops by Azure Friday to talk Cosmos DB with Scott Hanselman. Watch quick overview of the industry's first globally distributed multi-model database service followed by a demo of moving an existing MongoDB app to Cosmos DB with a single config change.  For more information, see: https://azure.microsoft.com/en-us/services/cosmos-db/.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-azure-friday-azure-cosmos-db-with-scott-hanselman/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-azure-friday-azure-cosmos-db-with-scott-hanselman/",
+      "originalUrl": "https://youtube.com/watch?v=4fRKzcU__jY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/4fRKzcU__jY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT14M57S",
       "provider": {
         "name": "Microsoft",
         "domain": "microsoft.com",
@@ -262,11 +221,50 @@
           }
         ]
       },
-      "publishedDateTime": "2018-04-12T16:53:12-07:00",
+      "publishedDateTime": "2017-07-31T12:17:06-07:00",
       "heat": 52,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/5YNJpGwj_Zs/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/4fRKzcU__jY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Databases"
+      ]
+    },
+    {
+      "path": "_learning/videos/microsoft-using-entity-framework-core-with-azure-sql-db-and-azure-cosmos-db-azure-friday.md",
+      "title": "Using Entity Framework Core with Azure SQL DB and Azure Cosmos DB | Azure Friday",
+      "excerpt": "Jeremy Likness shows Scott Hanselman how to use Entity Framework (EF) Core with Azure SQL DB and Azure Cosmos DB. EF Core is a lightweight, extensible, open source, and cross-platform version of the popular Entity Framework data access technology.  0:00 – Overview 1:43 – Using Entity Framework Core with",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-using-entity-framework-core-with-azure-sql-db-and-azure-cosmos-db-azure-friday/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-using-entity-framework-core-with-azure-sql-db-and-azure-cosmos-db-azure-friday/",
+      "originalUrl": "https://youtube.com/watch?v=FFgS_k_Muk8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/FFgS_k_Muk8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT23M58S",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-10-23T11:57:54-07:00",
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/FFgS_k_Muk8/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -355,8 +353,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-azure-sql-database/",
           "length": "PT48M",
           "ratings": {
-            "count": 2065,
-            "average": 4.7985473
+            "count": 2066,
+            "average": 4.7986445
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -663,8 +661,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-api-for-cosmos-db/",
       "length": "PT38M",
       "ratings": {
-        "count": 2215,
-        "average": 4.6790066
+        "count": 2216,
+        "average": 4.6791515
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -749,8 +747,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-azure-sql-database/",
       "length": "PT48M",
       "ratings": {
-        "count": 2065,
-        "average": 4.7985473
+        "count": 2066,
+        "average": 4.7986445
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1001,14 +999,14 @@
       ]
     },
     {
-      "path": "_learning/videos/microsoft-5-things-you-didnt-know-about-azure-sql-database-azure-tips-and-tricks.md",
-      "title": "5 Things you didn't know about Azure SQL Database | Azure Tips and Tricks",
-      "excerpt": "In this edition of Azure Tips and Tricks, learn about 5 things you didn't know about Azure SQL Database.   For more tips and tricks, visit: https://aka.ms/azuretipsandtricks   Get started with 12 months of free services and $200 USD in credit. Create your free account today with Microsoft Azure: https://azure.com/free",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-5-things-you-didnt-know-about-azure-sql-database-azure-tips-and-tricks/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-5-things-you-didnt-know-about-azure-sql-database-azure-tips-and-tricks/",
-      "originalUrl": "https://youtube.com/watch?v=AtQQHYAJRx8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/AtQQHYAJRx8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT2M54S",
+      "path": "_learning/videos/microsoft-debugging-and-optimizing-azure-cosmos-db-performance-azure-friday.md",
+      "title": "Debugging and optimizing Azure Cosmos DB performance | Azure Friday",
+      "excerpt": "Deborah Chen joins Scott Hanselman to share some best practices on how to debug and optimize Azure Cosmos DB for better performance. Watch as they go through the common issues newcomers to Azure Cosmos DB run into with respect to performance and how to solve them by tuning Request Unit (RU) cost and",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-debugging-and-optimizing-azure-cosmos-db-performance-azure-friday/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-debugging-and-optimizing-azure-cosmos-db-performance-azure-friday/",
+      "originalUrl": "https://youtube.com/watch?v=IkCKGX6jbN4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/IkCKGX6jbN4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT13M50S",
       "provider": {
         "name": "Microsoft",
         "domain": "microsoft.com",
@@ -1021,11 +1019,11 @@
           }
         ]
       },
-      "publishedDateTime": "2020-10-20T07:58:57-07:00",
+      "publishedDateTime": "2019-08-08T23:00:57-07:00",
       "heat": 51,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/AtQQHYAJRx8/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/IkCKGX6jbN4/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -1079,6 +1077,45 @@
       ]
     },
     {
+      "path": "_learning/videos/microsoft-how-to-use-composite-indexes-and-correlated-subqueries-with-azure-cosmos-db-azure-friday.md",
+      "title": "How to use composite indexes and correlated subqueries with Azure Cosmos DB | Azure Friday",
+      "excerpt": "Tim Sander joins Scott Hanselman to discuss composite indexes and correlated subqueries using the SQL API in Azure Cosmos DB. A Request Unit, or RU, is the measure of throughput in Azure Cosmos DB. Learn how to optimize queries with a composite index to decrease the RUs needed for a given query. They",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-how-to-use-composite-indexes-and-correlated-subqueries-with-azure-cosmos-db-azure-friday/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-how-to-use-composite-indexes-and-correlated-subqueries-with-azure-cosmos-db-azure-friday/",
+      "originalUrl": "https://youtube.com/watch?v=FigrAT2ooPM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/FigrAT2ooPM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT10M26S",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2019-12-06T08:42:23-08:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/FigrAT2ooPM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Databases"
+      ]
+    },
+    {
       "path": "_learning/videos/microsoft-how-to-use-the-gremlin-api-with-azure-cosmos-db-azure-friday.md",
       "title": "How to use the Gremlin API with Azure Cosmos DB | Azure Friday",
       "excerpt": "Jayanta Mondal stops by to chat with Scott Hanselman about Gremlin, the traversal query language for Cosmos DB graph. Gremlin being a dataflow language and procedural is nature, writing efficient Gremlin queries requires the knowledge of graph structure and the query execution plan.   Learn how to structure",
@@ -1114,124 +1151,6 @@
       "price": "Free",
       "topics": [
         "Azure",
-        "Databases"
-      ]
-    },
-    {
-      "path": "_learning/videos/microsoft-introducing-flexible-server-in-azure-database-for-postgresql-mysql-azure-friday.md",
-      "title": "Introducing Flexible Server in Azure Database for PostgreSQL & MySQL | Azure Friday",
-      "excerpt": "Sunil Kamath joins Scott Hanselman to discuss how you can run your MySQL or Postgres database as a managed database on Azure without giving up the control you want while taking advantage of the benefits of a PaaS offering.  0:00 – Overview 4:44 – Demo 8:54 – Customizing Flexible Server in the CLI 10:41",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-introducing-flexible-server-in-azure-database-for-postgresql-mysql-azure-friday/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-introducing-flexible-server-in-azure-database-for-postgresql-mysql-azure-friday/",
-      "originalUrl": "https://youtube.com/watch?v=oFlKRdr0MLE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/oFlKRdr0MLE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT22M11S",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-10-30T08:49:31-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/oFlKRdr0MLE/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Databases"
-      ]
-    },
-    {
-      "path": "_learning/videos/microsoft-using-entity-framework-core-with-azure-sql-db-and-azure-cosmos-db-azure-friday.md",
-      "title": "Using Entity Framework Core with Azure SQL DB and Azure Cosmos DB | Azure Friday",
-      "excerpt": "Jeremy Likness shows Scott Hanselman how to use Entity Framework (EF) Core with Azure SQL DB and Azure Cosmos DB. EF Core is a lightweight, extensible, open source, and cross-platform version of the popular Entity Framework data access technology.  0:00 – Overview 1:43 – Using Entity Framework Core with",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-using-entity-framework-core-with-azure-sql-db-and-azure-cosmos-db-azure-friday/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-using-entity-framework-core-with-azure-sql-db-and-azure-cosmos-db-azure-friday/",
-      "originalUrl": "https://youtube.com/watch?v=FFgS_k_Muk8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/FFgS_k_Muk8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT23M58S",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-10-23T11:57:54-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/FFgS_k_Muk8/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Databases"
-      ]
-    },
-    {
-      "path": "_learning/videos/microsoft-what-database-you-should-use-in-your-next-azure-functions-app-azure-tips-and-tricks.md",
-      "title": "What database you should use in your next Azure Functions app | Azure Tips and Tricks",
-      "excerpt": "In this episode of Azure Tips and Tricks, learn what database you should use for your next Azure Functions app.   For more tips and tricks, visit: https://aka.ms/azuretipsandtricks   Get started with 12 months of free services and $200 USD in credit. Create your free account today with Microsoft Azure:",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-what-database-you-should-use-in-your-next-azure-functions-app-azure-tips-and-tricks/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-what-database-you-should-use-in-your-next-azure-functions-app-azure-tips-and-tricks/",
-      "originalUrl": "https://youtube.com/watch?v=ICRWjyr2l3E",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ICRWjyr2l3E\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT2M24S",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-11-17T08:10:50-08:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/ICRWjyr2l3E/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Serverless",
         "Databases"
       ]
     },
@@ -1754,6 +1673,365 @@
       "topics": [
         "Azure",
         "Databases"
+      ]
+    },
+    {
+      "path": "_learning/collections/microsoft-learn-migrate-an-aspnet-web-application-to-azure-with-visual-studio.md",
+      "title": "Migrate an ASP.NET web application to Azure with Visual Studio",
+      "excerpt": "Migrate an ASP.NET web application to Azure with Visual Studio",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-migrate-an-aspnet-web-application-to-azure-with-visual-studio/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-migrate-an-aspnet-web-application-to-azure-with-visual-studio/",
+      "length": "PT1H17M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-aspnet-configurationbuilder.md",
+          "title": "Externalize the configuration of an ASP.NET app by using an Azure key vault",
+          "excerpt": "Learn how to use ConfigurationBuilder to dynamically configure an ASP.NET web app to retrieve secrets from an Azure key vault.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-aspnet-configurationbuilder/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/aspnet-configurationbuilder/",
+          "length": "PT24M",
+          "ratings": {
+            "count": 21,
+            "average": 4.6666665
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/aspnet-configurationbuilder-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Security",
+            "Web",
+            "Compute",
+            "Containers",
+            "Mobile"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-aspnet-logging.md",
+          "title": "Implement logging in a .NET Framework ASP.NET web application",
+          "excerpt": "Learn how to implement logging in an ASP.NET web application so you can store log data in Azure Blob storage and incorporate log information into Azure Application Insights performance data.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-aspnet-logging/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/aspnet-logging/",
+          "length": "PT24M",
+          "ratings": {
+            "count": 20,
+            "average": 4.9
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/aspnet-logging-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Web",
+            "Compute",
+            "Containers",
+            "Mobile",
+            "Management Tools"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-aspnet-session.md",
+          "title": "Improve session scalability in a .NET Framework ASP.NET web application by using Azure Cache for Redis",
+          "excerpt": "Learn how to use Azure Cache for Redis to store session data and improve the scalability of web applications.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-aspnet-session/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/aspnet-session/",
+          "length": "PT29M",
+          "ratings": {
+            "count": 22,
+            "average": 4.909091
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/aspnet-session-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Web",
+            "Compute",
+            "Containers",
+            "Mobile",
+            "Databases"
+          ]
+        }
+      ],
+      "size": 3,
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/aspnet-configurationbuilder-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Compute",
+        "Web",
+        "Security",
+        "Databases",
+        "Developer tools"
+      ]
+    },
+    {
+      "path": "_learning/collections/microsoft-learn-migrate-sql-workloads-to-azure.md",
+      "title": "Migrate SQL workloads to Azure",
+      "excerpt": "Migrate SQL workloads to Azure Learn",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-migrate-sql-workloads-to-azure/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-migrate-sql-workloads-to-azure/",
+      "length": "PT4H1M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-migrate-sql-workloads-azure-virtual-machines.md",
+          "title": "Migrate SQL workloads to Azure virtual machines",
+          "excerpt": "Migrate SQL workloads to Azure virtual machines",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-migrate-sql-workloads-azure-virtual-machines/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/migrate-sql-workloads-azure-virtual-machines/",
+          "length": "PT25M",
+          "ratings": {
+            "count": 76,
+            "average": 4.605263
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/migrate-sql-workloads-to-azure-virtual-machines-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Compute"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-migrate-sql-workloads-azure-sql-databases.md",
+          "title": "Migrate SQL Workloads to Azure SQL Databases",
+          "excerpt": "Migrate SQL Workloads to Azure SQL Databases",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-migrate-sql-workloads-azure-sql-databases/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/migrate-sql-workloads-azure-sql-databases/",
+          "length": "PT28M",
+          "ratings": {
+            "count": 114,
+            "average": 4.6578946
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/migrate-sql-workloads-to-azure-sql-databases-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Databases"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-migrate-sql-workloads-azure-managed-instances.md",
+          "title": "Migrate SQL Workloads to Azure Managed Instances",
+          "excerpt": "Migrate SQL Workloads to Azure Managed Instances",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-migrate-sql-workloads-azure-managed-instances/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/migrate-sql-workloads-azure-managed-instances/",
+          "length": "PT1H4M",
+          "ratings": {
+            "count": 72,
+            "average": 4.6527777
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/migrate-sql-workloads-to-azure-managed-instances-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Databases"
+          ]
+        }
+      ],
+      "size": 3,
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/migrate-sql-workloads-to-azure-virtual-machines-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Databases",
+        "Compute"
       ]
     }
   ],
