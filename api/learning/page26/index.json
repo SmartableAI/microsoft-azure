@@ -4,94 +4,6 @@
   "page": 26,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-explore-azure-dsvm-types.md",
-      "title": "Explore the types of Azure Data Science Virtual Machines",
-      "excerpt": "You learn about the types of Azure Data Science Virtual Machines (DSVM) and when to use each type.  You will learn about the Windows-based and Linux-based DSVMs which each support different needs.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-explore-azure-dsvm-types/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-azure-dsvm-types/",
-      "length": "25 mins",
-      "ratings": {
-        "count": 891,
-        "average": 4.654321
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/data-ai/explore-azure-dsvm-types-badge-social.png",
-          "width": 800,
-          "height": 400,
-          "title": "Explore the types of Azure Data Science Virtual Machines",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Compute"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-explore-azure-synapse-serverless-sql-pools-capabilities.md",
-      "title": "Explore Azure Synapse serverless SQL pools capabilities",
-      "excerpt": "Explore Azure Synapse serverless SQL pools capabilities",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-explore-azure-synapse-serverless-sql-pools-capabilities/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-azure-synapse-serverless-sql-pools-capabilities/",
-      "length": "PT23M",
-      "ratings": {
-        "count": 3,
-        "average": 4.3333335
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/explore-azure-synapse-serverless-sql-pools-capabilities-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Analytics",
-        "Serverless"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-explore-azure-synapse-studio.md",
       "title": "Explore Azure Synapse Studio",
       "excerpt": "Explore Azure Synapse Studio",
@@ -313,8 +225,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-non-relational-data-stores-azure/",
       "length": "PT54M",
       "ratings": {
-        "count": 316,
-        "average": 4.705696
+        "count": 318,
+        "average": 4.7044024
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1087,49 +999,6 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-hdinsight-configuration-to-build-open-source-analytical-solutions.md",
-      "title": "Choose the correct HDInsight Configuration to build open-source analytics solutions",
-      "excerpt": "Choose the correct HDInsight Configuration to build open-source analytics solutions",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-hdinsight-configuration-to-build-open-source-analytical-solutions/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/hdinsight-config-open-source-solution/",
-      "length": "PT40M",
-      "ratings": {
-        "count": 179,
-        "average": 4.620112
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/hdinsight-config-build-oss-analytical-solutions-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Analytics"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-host-build-agent.md",
       "title": "Host your own build agent in Azure Pipelines",
       "excerpt": "Work with guidance from the Space Game web team to set up your build agent running on-premises or on an Azure virtual machine running in the cloud.",
@@ -1256,6 +1125,127 @@
       "topics": [
         "Azure",
         "Networking"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-identify-azure-solutions.md",
+      "title": "Identify Azure solutions",
+      "excerpt": "In this module we’ll discuss solutions such as IoT, Azure IoT Hub, and Microsoft IoT Central. We’ll also explore big data analytics services (Azure SQL Data Warehouse, HDInsight, Azure Data Lake Analytics).",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-identify-azure-solutions/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/identify-azure-solutions/",
+      "length": "PT33M",
+      "ratings": {
+        "count": 2,
+        "average": 5.0
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "title": "Identify Azure solutions",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-identify-exceptions-with-connected-field-service.md",
+      "title": "Identify Exceptions with Connected Field Service for Dynamics 365 and Azure IoT",
+      "excerpt": "This module will focus on the proactive detection of anomalies in the IoT device telemetry.  Additionally, this module will cover the customization of the Connected Field Service components to handle different telemetry from the device and options for storing detail data for future analysis.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-identify-exceptions-with-connected-field-service/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/identify-exceptions-with-connected-field-service/",
+      "length": "PT1H33M",
+      "ratings": {
+        "count": 59,
+        "average": 4.6271186
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "IoT"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-identity-application-types.md",
+      "title": "Application types in Microsoft identity",
+      "excerpt": "Learn how developers can leverage Microsoft identity in different types of applications.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-identity-application-types/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/identity-application-types/",
+      "length": "PT50M",
+      "ratings": {
+        "count": 126,
+        "average": 4.6031747
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/identity-application-types-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Identity"
       ]
     }
   ],
