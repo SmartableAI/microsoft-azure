@@ -22,6 +22,7 @@ items:
   - courses/microsoft-learn-resource-manager-template-reuse
   - courses/microsoft-learn-arm-template-test
   - courses/microsoft-learn-deploy-templates-command-line-github-actions
+  - courses/microsoft-learn-extend-resource-manager-template-deployment-scripts
 
 topics:
   - Azure
