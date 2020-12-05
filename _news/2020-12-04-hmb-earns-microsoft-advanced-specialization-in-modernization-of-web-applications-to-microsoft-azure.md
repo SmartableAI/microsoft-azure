@@ -1,22 +1,20 @@
 ---
 category: news
 title: "HMB Earns Microsoft Advanced Specialization in Modernization of Web Applications to Microsoft Azure"
-excerpt: "HMB, a technology solutions company with offices in Columbus, Ohio and Louisville, Kentucky, announced it has earned a Microsoft advanced specialization in Modernization of Web Applications to Microsoft Azure."
-publishedDateTime: 2020-12-04T04:33:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/hmb-earns-microsoft-advanced-specialization-in-modernization-of-web-applications-to-microsoft-azure-1029863768"
-webUrl: "https://markets.businessinsider.com/news/stocks/hmb-earns-microsoft-advanced-specialization-in-modernization-of-web-applications-to-microsoft-azure-1029863768"
+excerpt: "COLUMBUS, Ohio, Dec. 3, 2020 /PRNewswire/ -- HMB, a technology solutions company with offices in Columbus, Ohio and Louisville, Kentucky, announced it has earned a Microsoft advanced ..."
+publishedDateTime: 2020-12-04T04:46:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/20/12/n18647766/hmb-earns-microsoft-advanced-specialization-in-modernization-of-web-applications-to-microsoft-azur"
+webUrl: "https://www.benzinga.com/pressreleases/20/12/n18647766/hmb-earns-microsoft-advanced-specialization-in-modernization-of-web-applications-to-microsoft-azur"
+ampWebUrl: "https://amp.benzinga.com/amp/content/18647766"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18647766"
 type: article
-quality: 43
+quality: 23
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Azure
@@ -115,6 +113,6 @@ related:
       domain: benzinga.com
     quality: 13
 
-secured: "0TI12cO21SFAFxGxntxapDcsKkvd3npxWcdqmakfNv7DML5Cwl93ERNCdchU6HBjtTIFES0couhAItojtaw0uqxXpT9LYfyL6CJMtj+h11ArBD+GA2in1om+EjPfYgCJujfI7NEOJKbophs9u7eDI4tw25sK3FeRpw73BqorxV4cN82zeJFzo/8jgebGN3/hugNI58Ke5M89hK00uWMnf2qcdcwfLMy82DDrE8wmSavNkA0cpauehKNVE9J5NeWMQZP2yAGq5j9NKUfhyiqDWRGmQCjLuafS8UDSBN7vf+Fg5xInusQ7RUA9D3NPpd1iLADWfhuBBRAOzN156+/U1l5G23lkeWJcJddQjjhM+jM=;2ZDrzY5VvGIVxgKtM5uJwg=="
+secured: "ZJErptzFFKmDkpTdj7E+V3GRNRDAuE6m4D7HBqrsEf0SNiMn95DabDDogQsaYZcOIatNU2jHYH7snG8E3mRvfWGLI8U/j+3Jop5Zqj1T0G+lrg6Mewxqtk7vmArEZnP1O/wcdR2wAnpPCiwNGpsuxrtonhnypamcgSX7wM5QBd2r6h0kjczqeTpbGLsDk7XMUK9tQgkiTmpOSpTNFEBep3R+Tg1HjBWWw/OYeI0ND3MAUp0qTXwFHgwszGT7zOPhXpWmFE+Bl7Dzwg/bE2ReTJ87R+LZ4uREzZKvaDTeuEa5G/EIK6f7wNSr/5+n/7dSq8bipTdZuM55VI+sxl5zbl4j8M/mrprKhF0M+uynnng=;6r9sYI5E5TtcZ5oG6ey6LA=="
 ---
 
