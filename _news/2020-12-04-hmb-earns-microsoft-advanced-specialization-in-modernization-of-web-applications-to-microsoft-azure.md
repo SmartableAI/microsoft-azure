@@ -113,6 +113,6 @@ related:
       domain: benzinga.com
     quality: 13
 
-secured: "DIO8uQB3rVv5ZRY3mYyeldKxh8qCcKj0jrF8VKd0sSI+GbQpqGuhGksdbS21rF5/1aY4IGwH4T7MdhP2/u/bzYNHzYo+GGjhkSMwhlvo9FWE958p+bDlaMFDe+zcIHLh3sTg2B3UtFM0Fr3ZgAq+3d4d0JqdII6A60FLhC4ms3fpOamPJpsJoG1uSegvx2rRVh9lV0w3h4WhsLjC4H4SENKiVLeoruLtq9Uz+HPn+xUwaUZ8kEjBlu1cY/9b4MK/EZf+71XlDG/RwGrABFSRmFDSSrwK5Vgw0T6Jg4Jv7rCSU4CQgjnjgVKB7ZRY3ZoFlCM7AEm2CBHh9LYMMg8KTkbUrtRrwhKyMgxkawVFm50=;St28YM6HW5ixBHh8AFC6nw=="
+secured: "soObYRHVqBWtE/jiYCPj1PItfObcLQNjILD6gsB1HNgYjCODNroOoh/CcX6OSnkZM6W8jKyLe6KgvDjmajwFbQp8T8xWVgaNKnMbl0y7/qh0slfdwOlX24fttMC4ogiSVTv4leo8oxuevOmlKkTxptzWMMPDA1jVIruYK6uYUPNP2vCxa+r9osltDE1LcM4mnhbLpcUVSM+3FYlQUHfX8lI6fz7ZspOhy6V07F0iNOn/mOGA7uCIzN337O8iloiarvQBm+s2yu4vkr+jJI0Ye5XIiI4TauiXK2FO0OSW0bGuXYHnb4MrGd5mMT2Ko+nd70hRVAdgu+2i/NpeOfpdczZDrbVf4XV+kRvba0uZ72A=;efL8HYtvHvxfAV4/8Kfd7w=="
 ---
 

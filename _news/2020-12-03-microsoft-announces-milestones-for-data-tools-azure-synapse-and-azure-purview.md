@@ -109,15 +109,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Tamr joins Microsoft, other leading technology companies as a Azure Synapse Analytics launch partner"
-    excerpt: "PRNewswire/ -- Tamr, Inc., the provider of cloud-native data mastering solutions, today announced it's selection"
-    publishedDateTime: 2020-12-03T20:13:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/tamr-joins-microsoft-other-leading-technology-companies-as-a-azure-synapse-analytics-launch-partner-1029863172"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 74
   - title: "Microsoft Build brings announcements for cloud data, analytics services, and intersection of the two"
     excerpt: "A series of announcements around Synapse Analytics, Cosmos DB, Azure Database and SQL Edge make this year's Microsoft Build conference a virtual event revealing actual advances and concrete integrations."
     publishedDateTime: 2020-05-19T15:00:00Z
@@ -163,6 +154,20 @@ related:
       - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/11/02114007/help_net_security.jpg"
         width: 1200
         height: 627
+        isCached: true
+  - title: "Tamr joins Microsoft, other leading technology companies as a Azure Synapse Analytics launch partner"
+    excerpt: "PRNewswire/ -- Tamr, Inc., the provider of cloud-native data mastering solutions, today announced it's selection by Microsoft as a launch partner for"
+    publishedDateTime: 2020-12-03T18:44:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/tamr-joins-microsoft-other-leading-technology-companies-as-a-azure-synapse-analytics-launch-partner-301186087.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 54
+    images:
+      - url: "https://mma.prnewswire.com/media/1157929/Tamr_Logo.jpg?p=facebook"
+        width: 1500
+        height: 785
         isCached: true
   - title: "Microsoft Azure Synapse Link brings operational database services and analytics together in real-time"
     excerpt: "To solve this issue, Microsoft is today announcing Azure Synapse Link which brings operational database services and analytics together in real-time with a single click. Using this, customers can get insights from their real-time transactional data stored in their operational databases with a single click,"

@@ -33,6 +33,20 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 61
+  - title: "Microsoft Azure Databricks receives FedRAMP ATO"
+    excerpt: "Microsoft Azure Databricks has received a Federal Risk and Authorization Management Program (FedRAMP) High Authority to Operate (ATO)."
+    publishedDateTime: 2020-11-30T01:00:00Z
+    webUrl: "https://www.helpnetsecurity.com/2020/11/30/microsoft-azure-databricks/"
+    type: article
+    provider:
+      name: Help Net Security
+      domain: helpnetsecurity.com
+    quality: 37
+    images:
+      - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/11/02114007/help_net_security.jpg"
+        width: 1200
+        height: 627
+        isCached: true
   - title: "Infoworks DataFoundry to be Featured at Databricks Microsoft Azure Event"
     excerpt: "Theodore will discuss how AMN used Infoworks DataFoundry to successfully migrate operational and financial forecasting production environments from Hadoop to Microsoft Azure Databricks."
     publishedDateTime: 2020-08-31T16:18:00Z

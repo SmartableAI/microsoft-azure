@@ -1,26 +1,28 @@
 ---
 category: news
 title: "Tamr joins Microsoft, other leading technology companies as a Azure Synapse Analytics launch partner"
-excerpt: "PRNewswire/ -- Tamr, Inc., the provider of cloud-native data mastering solutions, today announced it's selection"
-publishedDateTime: 2020-12-03T20:13:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/tamr-joins-microsoft-other-leading-technology-companies-as-a-azure-synapse-analytics-launch-partner-1029863172"
-webUrl: "https://markets.businessinsider.com/news/stocks/tamr-joins-microsoft-other-leading-technology-companies-as-a-azure-synapse-analytics-launch-partner-1029863172"
+excerpt: "PRNewswire/ -- Tamr, Inc., the provider of cloud-native data mastering solutions, today announced it's selection by Microsoft as a launch partner for"
+publishedDateTime: 2020-12-03T18:44:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/tamr-joins-microsoft-other-leading-technology-companies-as-a-azure-synapse-analytics-launch-partner-301186087.html"
+webUrl: "https://www.prnewswire.com/news-releases/tamr-joins-microsoft-other-leading-technology-companies-as-a-azure-synapse-analytics-launch-partner-301186087.html"
 type: article
-quality: 74
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Azure
   - Analytics
+
+images:
+  - url: "https://mma.prnewswire.com/media/1157929/Tamr_Logo.jpg?p=facebook"
+    width: 1500
+    height: 785
+    isCached: true
 
 related:
   - title: "Microsoft unveils Azure Purview for data governance, Azure Synapse Analytics hits general availability"
@@ -302,6 +304,6 @@ related:
       domain: telecompaper.com
     quality: 17
 
-secured: "c5rqx5sMTs+FenYkcZnekQ+G+2p887pa6HYAuhMggkap/pvmEaO3E0kIEiHA2GMP13Qfc3HUC+ZBvBUKKHEJ6GXgibF2D5xkwBB342iZefYVIn56qZBIX8eqgmWIODdEoAcoTnf8SMf/6Mw/brYTTQVlmjmvN/6O0IczZVGGX+m+Ff9es3fR1hcFVqOuS4vUtDS4j96s9SCj5AdT7CjU2SRZbfVjKtwDxTq4jIl2h35aIoXtTwAhlvcHR+CnNvgJhEx4HWnNlj6qAyveXTFr4R6T9q9JkrXm+4QUAA9guvSCOIWqOlLeC9xkR3VjbFt1R5gJncmq/s0i+NXXyMq7xoxS4limM2/AknNsEHv3sYM=;oVTFYDdYdz/kizEuzIsnhw=="
+secured: "6Nnxg+9sZ1h9b73EFLv6IXveGIKSWZFHC/MfF52YQ28mar6xgjn89o73GS+M7KCMy1SWapegLAbiZMAF1mkYlPvoQJ7gWpGFZZztC8EcRmWjSVKvYUkpu6vdDQDnYqvj5CLOh9lQEGbggIN+WkRs22tA7WmdL/dqZL3Ylg3Rjg4Jt3dSLPKg/D/TgeGwH/G4jE1QPvddHiYmZNHvRNWZ/e1GofXB4FQbL1ZjkhBu2z4BgkUzEZoQpNOQFE3Sl6Mns81VHtvnwodVLFxJpGdlYB0nfnIj2TdU2diD8BzJ3jIpJEJpIpSsbb+tT9QBd8iBq9kh0o8hzYTUmaKoVoLlW3SXtgl9jcTahit5bzrZ9uI=;7udRofVwqC8rcS+G613oWg=="
 ---
 
