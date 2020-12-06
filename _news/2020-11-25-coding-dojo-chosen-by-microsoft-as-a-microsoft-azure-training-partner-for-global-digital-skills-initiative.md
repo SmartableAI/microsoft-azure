@@ -1,27 +1,25 @@
 ---
 category: news
 title: "Coding Dojo Chosen by Microsoft as a Microsoft Azure Training Partner for Global Digital Skills Initiative"
-excerpt: "announces today it is working with Microsoft to proliferate Microsoft Azure certifications in the workforce. The collaboration will increase the amount of job-ready Azure developers by integrating Microsoft Learn tracks into the Coding Dojo curriculum ..."
-publishedDateTime: 2020-11-24T20:11:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/coding-dojo-chosen-by-microsoft-as-a-microsoft-azure-training-partner-for-global-digital-skills-initiative-301179437.html"
-webUrl: "https://www.prnewswire.com/news-releases/coding-dojo-chosen-by-microsoft-as-a-microsoft-azure-training-partner-for-global-digital-skills-initiative-301179437.html"
+excerpt: "Coding Dojo, a leading technology education company, announces today it is working with Microsoft to proliferate Microsoft Azure certifications in the workforce. The collaboration will increase the amount of job-ready Azure developers by integrating Microsoft Learn tracks into the Coding Dojo curriculum,"
+publishedDateTime: 2020-11-24T18:48:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/coding-dojo-chosen-by-microsoft-as-a-microsoft-azure-training-partner-for-global-digital-skills-initiative-1029834412"
+webUrl: "https://markets.businessinsider.com/news/stocks/coding-dojo-chosen-by-microsoft-as-a-microsoft-azure-training-partner-for-global-digital-skills-initiative-1029834412"
 type: article
-quality: 19
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
-
-images:
-  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-    width: 600
-    height: 315
-    isCached: true
 
 related:
   - title: "Adaptive Biotechnologies Leverages Microsoft Azure In Search For COVID-19 Answers"
@@ -135,6 +133,6 @@ related:
       domain: telecompaper.com
     quality: 17
 
-secured: "2v7MkQojf0Vohq57cR0DknEV4XC+E1Eddrl0+Onf+JXELpxpnkfXU2P10OyG380hEQ2DCUg6qHou1TYQSM1O/uWXyAbeQfaPw/9it0pOdXALD3n4fi+Tt3cOFDanwbFTkcW58PkAHP06sVCJrwpYOPBrWhrXdXuH3O9x9rtsc/C7RbGrKHzSf/xCgXJD3PU4pyK7NQCnXESjyP9BVoJzUxGDwWyTOZ4CDQlgjTOKaMYyz/lNemJs37A0OrSomemT4MsYJ/JNi2Lkb4reMVjOiO2r7wke8WY6NZFTY09AtGDRoFY0e/POWyMcSWPLJ3s/xkw7EqZP17tvT0WHTxKFr/JcVqG4WpzRb0PVRv+U2Ho=;ciLCJhL8v2J46RGictLHLQ=="
+secured: "mlXasNGgnbcNx2ge6UChXoTR8sU7M6ODHz8clHXulydv6VPvgUYdpASFzlB6NHnHKhLamsCz5IBRFWw4zJWkN99Gi7Qnuki608NB9EKKUN2lQpxm2jbbRydQW3W2HtbOupW2OsD2QVOL6Ip7TJOXZ9rZcFGk4/0mUWwOwy5f6Mj3R9H2LCg1tY6Q7+Rusl4arDeqeDerPBYjhCgqLmLAXsBjhMzaKnvTLqXm3d+gb0L+D7H+I72h8UfQlKdSobwVocCUuUW0wCRmOI524zWzlfwEu5LDLJR1N0/9gtrf2N/KKqMz6pUwFKTCSK+rbVhzasFSrkWvuKQFJK5pIH4Stg4nu/hNGRseCvwmx/TK3GU=;eVI/Ormi4R87jXTgcXI8nA=="
 ---
 

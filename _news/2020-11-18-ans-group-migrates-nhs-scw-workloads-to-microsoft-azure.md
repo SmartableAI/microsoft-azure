@@ -94,6 +94,15 @@ related:
         width: 772
         height: 594
         isCached: true
+  - title: "Coding Dojo Chosen by Microsoft as a Microsoft Azure Training Partner for Global Digital Skills Initiative"
+    excerpt: "Coding Dojo, a leading technology education company, announces today it is working with Microsoft to proliferate Microsoft Azure certifications in the workforce. The collaboration will increase the amount of job-ready Azure developers by integrating Microsoft Learn tracks into the Coding Dojo curriculum,"
+    publishedDateTime: 2020-11-24T18:48:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/coding-dojo-chosen-by-microsoft-as-a-microsoft-azure-training-partner-for-global-digital-skills-initiative-1029834412"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 39
   - title: "ACI Worldwide fraud management tech debuts on Microsoft Azure Marketplace"
     excerpt: "ACI Worldwide (NASDAQ: ACIW), a leading global provider of real-time digital payment and software solutions, today announced that its ACI Fraud Management solution is now available as a fully certified private offering via the Microsoft Azure Marketplace."
     publishedDateTime: 2020-11-23T11:29:00Z
@@ -119,20 +128,6 @@ related:
       name: businesstech.co.za
       domain: businesstech.co.za
     quality: 33
-  - title: "Coding Dojo Chosen by Microsoft as a Microsoft Azure Training Partner for Global Digital Skills Initiative"
-    excerpt: "announces today it is working with Microsoft to proliferate Microsoft Azure certifications in the workforce. The collaboration will increase the amount of job-ready Azure developers by integrating Microsoft Learn tracks into the Coding Dojo curriculum ..."
-    publishedDateTime: 2020-11-24T20:11:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/coding-dojo-chosen-by-microsoft-as-a-microsoft-azure-training-partner-for-global-digital-skills-initiative-301179437.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 19
-    images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
-        isCached: true
 
 secured: "GXLl4C564/jYDT9ZvpULhEofF1AWfgYu6D9KiDMM4BEeZuNZiRzYespqOyRpKw2Md+KnEBX6mcdFcb7houQmAHX2FjdaRR8KQIR7lJakVzYOTbJvzkDFUXhD+hfPLVXbeIxWQELyh1JR9tTabL0fhmhpkXivH3+oXnp+kGb0sL7m8bcc2ME4RwmGsKaTp2R1oaBt/RU8Dr1ef5h8lWv5xIin2wnGnJcM2t/qdVc7GgfQoXHBpZXk6pdz/wdg5xRUTH3quVZSB4S8oxtZDYqwewncyyn0hl79ebezKvWEVpK6vIjfmtDTuP/CR0f5xouAWahaOvcWUHgLoCIdwuZ1DuoftIGqXy3QVtBWiZTiUhg=;7repOqpowP8dhOY+5tlQyg=="
 ---
