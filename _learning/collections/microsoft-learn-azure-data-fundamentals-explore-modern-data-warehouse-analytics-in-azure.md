@@ -4,7 +4,7 @@ excerpt: "Azure Data Fundamentals: Explore modern data warehouse analytics in Az
 type: collection
 price: Free
 length: PT1H58M
-heat: 51
+heat: 52
 
 provider:
   name: Microsoft Learn
