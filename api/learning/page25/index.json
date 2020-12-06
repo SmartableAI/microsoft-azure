@@ -4,6 +4,41 @@
   "page": 25,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-foster-ai-culture-customer-service.md",
+      "title": "Discover how to foster an AI-ready culture in customer service",
+      "excerpt": "Learn the necessary cultural changes for enterprise customer service to make AI transformation successful, and how they fit into a holistic AI strategy.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-foster-ai-culture-customer-service/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/foster-ai-ready-culture-customer-service/",
+      "length": "PT38M",
+      "ratings": {
+        "count": 539,
+        "average": 4.768089
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "AI"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-foster-ai-culture-finance.md",
       "title": "Discover how to foster an AI-ready culture in finance",
       "excerpt": "Learn the necessary cultural changes for enterprise finance organizations to make AI transformation successful, and how they fit into a holistic AI strategy.",
@@ -11,8 +46,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/foster-ai-ready-culture-finance/",
       "length": "PT39M",
       "ratings": {
-        "count": 705,
-        "average": 4.7985816
+        "count": 706,
+        "average": 4.7988667
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -254,8 +289,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/github-actions-automate-tasks/",
       "length": "PT36M",
       "ratings": {
-        "count": 160,
-        "average": 4.65625
+        "count": 161,
+        "average": 4.6583853
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -338,8 +373,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/github-actions-ci/",
       "length": "PT55M",
       "ratings": {
-        "count": 165,
-        "average": 4.6969695
+        "count": 166,
+        "average": 4.6987953
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -457,8 +492,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ha-application-storage-with-grs/",
       "length": "PT34M",
       "ratings": {
-        "count": 1378,
-        "average": 4.481132
+        "count": 1379,
+        "average": 4.480783
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1200,51 +1235,6 @@
       "topics": [
         "Azure",
         "Databases"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-implement-dns-for-windows-server-iaas-vms.md",
-      "title": "Implement DNS for Windows Server IaaS VMs",
-      "excerpt": "Implement DNS for Windows Server IaaS VMs",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-implement-dns-for-windows-server-iaas-vms/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/implement-dns-for-windows-server-iaas-virtual-machines/",
-      "length": "PT50M",
-      "ratings": {
-        "count": 28,
-        "average": 4.75
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/implement-dns-for-windows-server-iaas-vm-social.png",
-          "width": 642,
-          "height": 324,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Management Tools",
-        "Compute",
-        "Networking"
       ]
     }
   ],

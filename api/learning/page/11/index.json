@@ -4,15 +4,15 @@
   "page": 11,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-wvd-intro.md",
-      "title": "Introduction to Windows Virtual Desktop in Microsoft Azure",
-      "excerpt": "Learn how to use Windows Virtual Desktop to deliver remote desktop and remote app experiences in Microsoft Azure.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-wvd-intro/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-wvd-intro/",
-      "length": "PT28M",
+      "path": "_learning/courses/microsoft-learn-use-compute-contexts-in-aml.md",
+      "title": "Work with Compute in Azure Machine Learning",
+      "excerpt": "Learn how to manage compute contexts for experiments in Azure Machine Learning.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-use-compute-contexts-in-aml/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/use-compute-contexts-in-aml/",
+      "length": "PT45M",
       "ratings": {
-        "count": 1182,
-        "average": 4.780034
+        "count": 627,
+        "average": 4.6283894
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -27,22 +27,15 @@
         ]
       },
       "levels": [
-        "Intermediate"
+        "Beginner"
       ],
       "heat": 52,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/get-modern-os-deployment-and-feature-updates-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
       "content": "\r\n",
       "type": "course",
       "price": "Free",
       "topics": [
-        "Azure"
+        "Azure",
+        "AI"
       ]
     },
     {
@@ -892,8 +885,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/recommend-system-feedback-mechanisms/",
           "length": "PT49M",
           "ratings": {
-            "count": 302,
-            "average": 4.665563
+            "count": 303,
+            "average": 4.6666665
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1318,8 +1311,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-azure-storage-account/",
           "length": "PT45M",
           "ratings": {
-            "count": 8158,
-            "average": 4.646237
+            "count": 8160,
+            "average": 4.6463237
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1672,8 +1665,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/access-data-with-cosmos-db-and-sql-api/",
       "length": "PT58M",
       "ratings": {
-        "count": 2653,
-        "average": 4.6434226
+        "count": 2654,
+        "average": 4.643557
       },
       "provider": {
         "name": "Microsoft Learn",

@@ -4,6 +4,50 @@
   "page": 2,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-azure-well-architected-cost-optimization.md",
+      "title": "Microsoft Azure Well-Architected Framework - Cost optimization",
+      "excerpt": "Learn how to use the cost optimization pillar of the Microsoft Azure Well-Architected Framework to design a cloud-based architecture that is efficient, eliminates waste, and gives you full visibility into where your money is spent on cloud resources.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-azure-well-architected-cost-optimization/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-cost-optimization/",
+      "length": "PT51M",
+      "ratings": {
+        "count": 1126,
+        "average": 4.7166963
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/azure-well-architected-cost-optimization-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Management Tools",
+        "DevOps"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-create-a-build-pipeline.md",
       "title": "Create a build pipeline with Azure Pipelines",
       "excerpt": "Set up a continuous integration (CI) pipeline that automates the process of building your application.",
@@ -266,8 +310,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/recommend-system-feedback-mechanisms/",
           "length": "PT49M",
           "ratings": {
-            "count": 302,
-            "average": 4.665563
+            "count": 303,
+            "average": 4.6666665
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -496,8 +540,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/incident-response-with-alerting-on-azure/",
       "length": "PT53M",
       "ratings": {
-        "count": 1954,
-        "average": 4.6443195
+        "count": 1955,
+        "average": 4.644501
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -671,8 +715,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/monitor-performance-using-azure-monitor-for-vms/",
       "length": "PT48M",
       "ratings": {
-        "count": 33,
-        "average": 4.7272725
+        "count": 34,
+        "average": 4.7352943
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1092,8 +1136,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-performance-efficiency/",
       "length": "PT48M",
       "ratings": {
-        "count": 547,
-        "average": 4.702011
+        "count": 548,
+        "average": 4.7025547
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1467,49 +1511,6 @@
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/azure-devops/deploy-nodejs-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "DevOps"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-deploy-python.md",
-      "title": "Automate Python deployments with Azure Pipelines",
-      "excerpt": "Implement a CI/CD pipeline for Python.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-deploy-python/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-python/",
-      "length": "PT46M",
-      "ratings": {
-        "count": 16,
-        "average": 4.6875
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/azure-devops/deploy-python-social.png",
           "width": 640,
           "height": 320,
           "isCached": true

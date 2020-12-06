@@ -4,6 +4,86 @@
   "page": 35,
   "value": [
     {
+      "path": "_learning/videos/microsoft-an-intro-to-azure-cosmos-db-javascript-sdk-20-azure-friday.md",
+      "title": "An intro to Azure Cosmos DB JavaScript SDK 2.0 | Azure Friday",
+      "excerpt": "Chris Anderson joins Donovan Brown to discuss Azure Cosmos DB JavaScript SDK 2.0, which adds support for multi-region writes, a new fluent-style object model—making it easier to reference Azure Cosmos DB resources without an explicit URL—and support for promises and other modern JavaScript features.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-an-intro-to-azure-cosmos-db-javascript-sdk-20-azure-friday/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-an-intro-to-azure-cosmos-db-javascript-sdk-20-azure-friday/",
+      "originalUrl": "https://youtube.com/watch?v=UkXsosjbWKA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/UkXsosjbWKA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT13M46S",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2019-02-27T16:59:40-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/UkXsosjbWKA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Databases",
+        "Developer tools"
+      ]
+    },
+    {
+      "path": "_learning/videos/microsoft-an-intro-to-azure-cosmos-db-net-sdk-30-azure-friday.md",
+      "title": "An intro to Azure Cosmos DB .NET SDK 3.0 | Azure Friday",
+      "excerpt": "Kirill Gavrylyuk joins Scott Hanselman to discuss new improvements for Azure Cosmos DB SDKs, including the new, idiomatic .NET SDK with friendlier, more intuitive programming model, better testability, better performance, .NET Standard 2.0 support, and now open sourced. [01:11] Demo Start   Azure Cosmos",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-an-intro-to-azure-cosmos-db-net-sdk-30-azure-friday/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-an-intro-to-azure-cosmos-db-net-sdk-30-azure-friday/",
+      "originalUrl": "https://youtube.com/watch?v=mWwp6Grq5E4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/mWwp6Grq5E4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M48S",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2019-04-24T16:00:26-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/mWwp6Grq5E4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Databases",
+        "Developer tools"
+      ]
+    },
+    {
       "path": "_learning/videos/microsoft-an-introduction-to-azure-dedicated-hosts-azure-friday.md",
       "title": "An introduction to Azure Dedicated Hosts | Azure Friday",
       "excerpt": "Ziv Rafalovich joins Donovan Brown to introduce Azure Dedicated Host, which is a service that provides physical servers - able to host one or more virtual machines - dedicated to one Azure subscription.  Dedicated hosts are the same physical servers used in our data centers, provided as a resource. You",
@@ -1083,84 +1163,6 @@
       "price": "Free",
       "topics": [
         "Azure"
-      ]
-    },
-    {
-      "path": "_learning/videos/microsoft-azure-friday-azure-cdn-dynamic-site-acceleration.md",
-      "title": "Azure Friday | Azure CDN: Dynamic Site Acceleration",
-      "excerpt": "Richard Li joins Scott Hanselman to discuss the new Dynamic Site Acceleration (DSA) optimization for Azure CDN, and how it can be used in combination with standard CDN caching features to measurably improve the performance of web pages with dynamic content.   For more information, see:  Dynamic Site",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-azure-friday-azure-cdn-dynamic-site-acceleration/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-azure-friday-azure-cdn-dynamic-site-acceleration/",
-      "originalUrl": "https://youtube.com/watch?v=IOt_POy3k60",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/IOt_POy3k60\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT11M13S",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2017-11-20T10:16:18-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/IOt_POy3k60/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Networking"
-      ]
-    },
-    {
-      "path": "_learning/videos/microsoft-azure-friday-azure-container-registry-geo-replication.md",
-      "title": "Azure Friday | Azure Container Registry Geo-replication",
-      "excerpt": "Steve Lasker joins Donovan Brown to explain Azure Container Registry (ACR) Geo-replication. With ACR, you can now manage your global Azure footprint as one resource, enabling network-close deployments of your Docker containers. With regionalized WebHooks, you can deploy regions as your images arrive.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-azure-friday-azure-container-registry-geo-replication/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-azure-friday-azure-container-registry-geo-replication/",
-      "originalUrl": "https://youtube.com/watch?v=NcB1Ji-DciI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/NcB1Ji-DciI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT13M8S",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2017-10-30T07:52:34-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/NcB1Ji-DciI/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Containers"
       ]
     }
   ],
