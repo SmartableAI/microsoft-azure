@@ -1,32 +1,27 @@
 ---
 category: news
-title: "Microsoft rolls out data governance service on Azure"
-excerpt: "Azure Purview automates the discovery and cataloging of data on-premises, in the cloud, and in SaaS applications."
-publishedDateTime: 2020-12-04T11:05:00Z
-originalUrl: "https://www.infoworld.com/article/3600228/microsoft-azure-rolls-out-data-governance-service.html"
-webUrl: "https://www.infoworld.com/article/3600228/microsoft-azure-rolls-out-data-governance-service.html"
-ampWebUrl: "https://www.infoworld.com/article/3600228/microsoft-azure-rolls-out-data-governance-service.amp.html"
-cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3600228/microsoft-azure-rolls-out-data-governance-service.amp.html"
+title: "Microsoft Announces Milestones for Data Tools Azure Synapse and Azure Purview"
+excerpt: "Microsoft this week described release milestones for several of its emerging cloud data management products. Azure Synapse Analytics and Azure Synapse Studio are now generally available (GA ..."
+publishedDateTime: 2020-12-03T00:00:00Z
+originalUrl: "https://rcpmag.com/articles/2020/12/03/microsoft-azure-data-tools-milestones.aspx"
+webUrl: "https://rcpmag.com/articles/2020/12/03/microsoft-azure-data-tools-milestones.aspx"
 type: article
-quality: 97
+quality: 51
 heat: -1
 published: false
 
 provider:
-  name: InfoWorld
-  domain: infoworld.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/infoworld.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Redmond Channel Partner
+  domain: rcpmag.com
 
 topics:
   - Azure
+  - Analytics
 
 images:
-  - url: "https://images.idgesg.net/images/article/2019/11/abstract_background_technology_data_binary_plotted_points_by_ivanastar_gettyimages_901412996-100817846-large.jpg"
-    width: 1200
-    height: 800
+  - url: "https://rcpmag.com/-/media/ECG/redmondmag/Images/introimages2014/1214red_F1DRaaSTools.jpg"
+    width: 647
+    height: 450
     isCached: true
 
 related:
@@ -83,6 +78,22 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fc9b08566dda99de43b5fee%2F0x0.jpg"
         width: 1200
         height: 741
+        isCached: true
+  - title: "Microsoft rolls out data governance service on Azure"
+    excerpt: "Azure Purview automates the discovery and cataloging of data on-premises, in the cloud, and in SaaS applications."
+    publishedDateTime: 2020-12-04T11:05:00Z
+    webUrl: "https://www.infoworld.com/article/3600228/microsoft-azure-rolls-out-data-governance-service.html"
+    ampWebUrl: "https://www.infoworld.com/article/3600228/microsoft-azure-rolls-out-data-governance-service.amp.html"
+    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3600228/microsoft-azure-rolls-out-data-governance-service.amp.html"
+    type: article
+    provider:
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 97
+    images:
+      - url: "https://images.idgesg.net/images/article/2019/11/abstract_background_technology_data_binary_plotted_points_by_ivanastar_gettyimages_901412996-100817846-large.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Microsoft's cloud chief breaks down new Azure products"
     excerpt: "CNBC's \"Squawk Alley\" team discusses Microsoft new data products for Azure with Microsoft’s head of cloud and executive vice president of Azure, Jason Zander."
@@ -152,20 +163,6 @@ related:
       - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/11/02114007/help_net_security.jpg"
         width: 1200
         height: 627
-        isCached: true
-  - title: "Microsoft Announces Milestones for Data Tools Azure Synapse and Azure Purview"
-    excerpt: "Microsoft this week described release milestones for several of its emerging cloud data management products. Azure Synapse Analytics and Azure Synapse Studio are now generally available (GA ..."
-    publishedDateTime: 2020-12-03T00:00:00Z
-    webUrl: "https://rcpmag.com/articles/2020/12/03/microsoft-azure-data-tools-milestones.aspx"
-    type: article
-    provider:
-      name: Redmond Channel Partner
-      domain: rcpmag.com
-    quality: 51
-    images:
-      - url: "https://rcpmag.com/-/media/ECG/redmondmag/Images/introimages2014/1214red_F1DRaaSTools.jpg"
-        width: 647
-        height: 450
         isCached: true
   - title: "Microsoft Azure Synapse Link brings operational database services and analytics together in real-time"
     excerpt: "To solve this issue, Microsoft is today announcing Azure Synapse Link which brings operational database services and analytics together in real-time with a single click. Using this, customers can get insights from their real-time transactional data stored in their operational databases with a single click,"
@@ -302,6 +299,6 @@ related:
       domain: telecompaper.com
     quality: 17
 
-secured: "ZRkGAxVSbTJyM+Tlmspa42i6oIJ2FMC2RbsSAxD/XRwpuyClz3kQrQNpYKg2k8aoqR9jAgTM15XLoEF40t5qy0OHF+HZFPLWqEkSl8XhvnrwKZHRxkLTSE4c0Uu4JxJ08UIz8cEy3kydWL2jMTRidsedGaPsZ5vKPcxbcf7mafyPpJvjaxyXQbUkh5xFg6FwCfB90AvJBbEwMMgcyovCzrz94pPbgqHjABFsVqLXGVibdTaK+4o8b9O/uaQ1Jgcir++0+qtggI62K1sbULL9SS+On75fmd6PMV2vUwlp7o/Q0YUEGJtMUoHso8dYA5cpylOlTuBBMb/ZNMSlxlPQWRZcNq5PCqCd71Qu+nJqGy0=;dbGQYTDCM5etJA6Eye3qEQ=="
+secured: "Hy7i7AeLSUzBJGfBdnbHConiG7Vq9mQ0sHsHK6D89WnVBu3ORWG9AAt/mAsEIVwfUDyk9mZbfwEWfV7DC2J+Z24G+S5kI9CsbGa8rFFFS1IuAXaE9Nq0s4NAcsHf+0a0O78lkJoDwkU95/5ijywjhnwyfKlhn7wx4aN6ASgDAlVAEOtq/VNX6XVM3EcbkQnjHdkp76sSycMPYbDqdyfejstH70zqzJrG3npi0sPKmC1Jl2iWbRYPZ8RzewCpdr1fviI0TBx9wZm3qS0idGPm4CF8ZEGj0TokJDxTtbUpUjOpqskGnRzyQB3i05BJ3eOeLTEj/GqyICkLOvjJkD93fE4lAXawdLlbH4L/joPEZyk=;rGaM4WAe4N0Et5WLrql7Vg=="
 ---
 

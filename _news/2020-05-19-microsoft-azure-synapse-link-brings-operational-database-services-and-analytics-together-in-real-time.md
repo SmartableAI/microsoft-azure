@@ -165,6 +165,20 @@ related:
         width: 1200
         height: 627
         isCached: true
+  - title: "Microsoft Announces Milestones for Data Tools Azure Synapse and Azure Purview"
+    excerpt: "Microsoft this week described release milestones for several of its emerging cloud data management products. Azure Synapse Analytics and Azure Synapse Studio are now generally available (GA ..."
+    publishedDateTime: 2020-12-03T00:00:00Z
+    webUrl: "https://rcpmag.com/articles/2020/12/03/microsoft-azure-data-tools-milestones.aspx"
+    type: article
+    provider:
+      name: Redmond Channel Partner
+      domain: rcpmag.com
+    quality: 51
+    images:
+      - url: "https://rcpmag.com/-/media/ECG/redmondmag/Images/introimages2014/1214red_F1DRaaSTools.jpg"
+        width: 647
+        height: 450
+        isCached: true
   - title: "Microsoft Azure becomes preferred Cloud platform for SAS analytics"
     excerpt: "Redmond, June 16 (IANS) Tech giant Microsoft and business analytics software and services firm SAS have announced a strategic partnership, making Azure the preferred Cloud platform for SAS's ..."
     publishedDateTime: 2020-06-16T10:15:00Z

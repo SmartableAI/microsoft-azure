@@ -158,6 +158,20 @@ related:
         width: 1200
         height: 627
         isCached: true
+  - title: "Microsoft Announces Milestones for Data Tools Azure Synapse and Azure Purview"
+    excerpt: "Microsoft this week described release milestones for several of its emerging cloud data management products. Azure Synapse Analytics and Azure Synapse Studio are now generally available (GA ..."
+    publishedDateTime: 2020-12-03T00:00:00Z
+    webUrl: "https://rcpmag.com/articles/2020/12/03/microsoft-azure-data-tools-milestones.aspx"
+    type: article
+    provider:
+      name: Redmond Channel Partner
+      domain: rcpmag.com
+    quality: 51
+    images:
+      - url: "https://rcpmag.com/-/media/ECG/redmondmag/Images/introimages2014/1214red_F1DRaaSTools.jpg"
+        width: 647
+        height: 450
+        isCached: true
   - title: "Microsoft Azure Synapse Link brings operational database services and analytics together in real-time"
     excerpt: "To solve this issue, Microsoft is today announcing Azure Synapse Link which brings operational database services and analytics together in real-time with a single click. Using this, customers can get insights from their real-time transactional data stored in their operational databases with a single click,"
     publishedDateTime: 2020-05-19T15:01:00Z
