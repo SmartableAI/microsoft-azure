@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Shape your future with data and analytics"
-excerpt: "Over the years, we have had a front-row seat to digital transformation occurring across all industries and regions around the world. "
-publishedDateTime: 2020-12-03T08:00:22Z
-originalUrl: "https://azure.microsoft.com/blog/shape-your-future-with-data-and-analytics/"
-webUrl: "https://azure.microsoft.com/blog/shape-your-future-with-data-and-analytics/"
+title: "Harness analytical and predictive power with Azure Synapse Analytics"
+excerpt: "Since its preview announcement, we’ve witnessed incredible excitement and adoption of Azure Synapse from our customers and partners."
+publishedDateTime: 2020-12-07T11:49:11Z
+originalUrl: "https://azure.microsoft.com/blog/harness-analytical-and-predictive-power-with-azure-synapse-analytics/"
+webUrl: "https://azure.microsoft.com/blog/harness-analytical-and-predictive-power-with-azure-synapse-analytics/"
 type: article
-quality: 69
-heat: -1
-published: false
+quality: 123
+heat: 803
+published: true
 
 provider:
   name: Microsoft
@@ -21,22 +21,16 @@ provider:
 topics:
   - Azure
   - Analytics
+  - AI
+  - Serverless
+
+images:
+  - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/727e6860-55df-49cc-a50a-58fee4b30756.gif"
+    width: 1200
+    height: 720
+    isCached: true
 
 related:
-  - title: "Harness analytical and predictive power with Azure Synapse Analytics"
-    excerpt: "Since its preview announcement, we’ve witnessed incredible excitement and adoption of Azure Synapse from our customers and partners."
-    publishedDateTime: 2020-12-07T11:49:11Z
-    webUrl: "https://azure.microsoft.com/blog/harness-analytical-and-predictive-power-with-azure-synapse-analytics/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 123
-    images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/727e6860-55df-49cc-a50a-58fee4b30756.gif"
-        width: 1200
-        height: 720
-        isCached: true
   - title: "Azure Monitor Log Analytics data export is in public preview"
     excerpt: "You can now enable continuous data export from your Log Analytics workspaces to an Azure Storage Account or Azure Event Hubs."
     publishedDateTime: 2020-10-14T16:00:18Z
@@ -245,6 +239,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 69
+  - title: "Shape your future with data and analytics"
+    excerpt: "Over the years, we have had a front-row seat to digital transformation occurring across all industries and regions around the world. "
+    publishedDateTime: 2020-12-03T08:00:22Z
+    webUrl: "https://azure.microsoft.com/blog/shape-your-future-with-data-and-analytics/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 69
   - title: "Stream Analytics now can be run on Azure Stack Hub"
     excerpt: "Azure Stream Analytics is now available on Azure Stack Hub via IoT Edge Runtime. "
     publishedDateTime: 2020-08-28T16:04:07Z
@@ -432,6 +435,6 @@ related:
       domain: microsoft.com
     quality: 2
 
-secured: "LTi8A02eEBz/6q9+mqqkA9CiWuSyABLmALH7qicBy9Sp5DiX1vGF6y9W1kuj1K9MmPmmZV+u/pNjnF5qvUIodBFHT2avNyqhI3eI0NG9/LkxmTUUn9CfhDEv1NqENwPv/XGMvzLbVkyiOwOuNCc4XNg/YO1s87IgQ821Qnm0aWgh2QMD5Ol7V0hFzevdQFCxqChIDJT/QNOpuj9KJgrdTBx4fKHOqYwgHTLikNyYBIlHmL3uyGqWhF4aHrEC2IoPPEsOCGHMi2f0xHXWkhzxp5w5vc2ZeVO5qxY1DvxCDtEnfZcDySiMRNaQBoIFyejSegYOldHAMcZNkMD5Gzip08yeze2QiBS2cPdkvuByshk=;1SXIThBtnI0088+hIQFgJA=="
+secured: "pmak+UP8z/U2mIiU1hnn5A+E34PPUrcM00kdDHdw6M6LvO4PNdKl1K9KUfGf+F7cmXX4bMpzEtoluOThlXlN0zTYiv2Iln/8vi3XnwpWGlOnRhJIZm4cUGU04OrnTjnCaD3EIMiLt6CKCBPumI9cXEC0SEBE/bcnic29NKOmEhT0/CuLu08vp6HkpWvfU3B72Y3noAy4Ea+ODbzjowwfTDcdg+Mkfclj2Yes2RD8Buu9rdXpWq0HZBxbOsZUOxAg/AiKPAWqBn7ThP6A5F72e+txG1F+5Tkif1L5Q6ySiGaOglwbtMLL7JgGMBppU2GDYfcJuCu7PagyRJBbhPkgxd1ctiPcZ6Z4CHSiptzFHNc=;10vHXac80VEuUAIVqD+exQ=="
 ---
 

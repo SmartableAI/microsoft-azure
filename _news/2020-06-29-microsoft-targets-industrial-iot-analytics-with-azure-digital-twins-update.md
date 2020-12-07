@@ -74,58 +74,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 99
-  - title: "Column-level encryption for Azure Synapse Analytics"
-    excerpt: "Azure Synapse Analytics already provides a breadth of options that can be used to handle sensitive data in a secure manner—we are expanding that support with the introduction of Column Level Encryption (CLE)."
-    publishedDateTime: 2020-09-23T16:00:13Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/columnlevel-encryption-for-azure-synapse-analytics/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 99
-  - title: "COPY command now generally available in Azure Synapse Analytics"
-    excerpt: "The COPY command can now automatically parse your files to calculate file splits and can evenly distribute data chunks across the Synapse SQL compute nodes for parallel ingestion. "
-    publishedDateTime: 2020-09-23T16:00:13Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/copy-command-now-generally-available-in-azure-synapse-analytics/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 99
-  - title: "New MERGE command for Azure Synapse Analytics"
-    excerpt: "Users can now synchronize two tables in a single step, streamlining the data processing using a single step statement while improving code readability and debugging."
-    publishedDateTime: 2020-09-23T16:00:13Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/new-merge-command-for-azure-synapse-analytics/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 99
-  - title: "Azure AD authentication features for Azure SQL DB, Azure Synapse Analytics, and Azure SQL Managed Instance "
-    excerpt: "These new preview features extend existing functionality, remove user limitations, and provide customers with greater ease of use when setting up Azure SQL Database or Azure SQL Managed Instance. "
-    publishedDateTime: 2020-09-22T16:05:34Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-ad-authentication-features-for-azure-sql-db-azure-synapse-analytics-and-azure-sql-managed-instance/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 98
-  - title: "A closer look at Microsoft Azure Synapse Analytics"
-    excerpt: "Roughly six months after its unveiling at the Ignite conference last fall, Microsoft took a group of analysts and MVP professionals on a deep dive into the Azure Synapse Analytics service. As noted in Andrew's coverage last fall, Azure Synapse Analytics is a rebrand and evolution of Azure SQL Data Warehouse, broadening its footprint to span ..."
-    publishedDateTime: 2020-04-14T12:00:00Z
-    webUrl: "https://www.zdnet.com/article/a-closer-look-at-microsoft-azure-synapse-analytics/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/a-closer-look-at-microsoft-azure-synapse-analytics/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/a-closer-look-at-microsoft-azure-synapse-analytics/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 97
-    images:
-      - url: "https://zdnet4.cbsistatic.com/hub/i/2020/04/14/ae52840f-bd1d-4e9d-8ec2-114e56664784/synapse.jpg"
-        width: 750
-        height: 500
-        isCached: true
   - title: "Microsoft is taking its Azure cloud into space"
     excerpt: "Azure Orbital will compete with rival AWS Ground Station service. Microsoft has launched a new cloud-based platform designed to help satellite operators ingest and analyse data drawn down from ..."
     publishedDateTime: 2020-09-23T13:43:00Z
@@ -158,15 +106,6 @@ related:
         width: 980
         height: 597
         isCached: true
-  - title: "Authenticate Azure Stream Analytics to Azure Synapse Analytics using managed identities (preview)"
-    excerpt: "To support Azure customers' need for a more secure streaming data pipelines, Azure Stream Analytics now supports managed identity authentication with SQL pool tables Azure Synapse Analytics."
-    publishedDateTime: 2020-09-30T17:00:20Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/authenticate-azure-stream-analytics-to-azure-synapse-analytics-using-managed-identities-preview/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 86
   - title: "A closer look at Microsoft Azure Arc"
     excerpt: "The promise of Azure Arc is providing the simplicity of the cloud control plane inside the data center. A year after announcement with the core platform now going GA, we thought it would be a good time for a deeper dive to see how Azure Arc actually works."
     publishedDateTime: 2020-09-25T12:00:00Z
@@ -317,20 +256,6 @@ related:
         width: 750
         height: 369
         isCached: true
-  - title: "Microsoft launches Azure analytics and data services"
-    excerpt: "Microsoft has officially launched its Azure Synapse Analytics service, as well as its data governance offering Azure Purview, in a move designed to break down and move past silos in businesses.​"
-    publishedDateTime: 2020-12-03T16:08:00Z
-    webUrl: "https://www.arnnet.com.au/article/684941/microsoft-launches-azure-analytics-data-services/"
-    type: article
-    provider:
-      name: ARN
-      domain: arnnet.com.au
-    quality: 54
-    images:
-      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/800x800/dimg/microsoft_azure_dreamstime.jpg"
-        width: 800
-        height: 500
-        isCached: true
   - title: "Course 552241-A: Microsoft Azure Big Data Analytics Solutions"
     excerpt: "A is a two-day instructor-led course is intended for data professionals who want to expand their knowledge about creating big data analytic solutions on Microsoft Azure. Students will learn how to design solutions for batch and real-time data processing."
     publishedDateTime: 2020-07-01T21:48:00Z
@@ -400,20 +325,6 @@ related:
       - url: "https://s27389.pcdn.co/wp-content/uploads/2020/09/microsoft-launches-azure-for-operators-expand-connectivity.jpeg"
         width: 1080
         height: 675
-        isCached: true
-  - title: "Microsoft boosts Azure with new edge video analytics and authentication features"
-    excerpt: "Microsoft Corp. today introduced a new edge video analytics product for its Azure cloud platform, as well as improved authentication features to help organizations better address the shift to remote work. There’s a growing trend of analytics workloads moving from data centers to the so-called edge of the network. A manufacturer, for instance ..."
-    publishedDateTime: 2020-06-11T20:01:00Z
-    webUrl: "https://siliconangle.com/2020/06/11/microsoft-boosts-azure-new-edge-video-analytics-authentication-features/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 32
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/06/microsoft.png"
-        width: 761
-        height: 400
         isCached: true
   - title: "Illusive Networks Joins Microsoft Intelligent Security Association and is Now Available in the Microsoft Azure Marketplace"
     excerpt: "Illusive Networks®, a leader in active cyber defense, today joined the Microsoft Intelligent Security Association (MISA), bringing the"

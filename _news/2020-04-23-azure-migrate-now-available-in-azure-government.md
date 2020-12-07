@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/azure-migrate-now-available-in-az
 webUrl: "https://azure.microsoft.com/blog/azure-migrate-now-available-in-azure-government/"
 type: article
 quality: 104
-heat: 424
+heat: 444
 published: true
 
 provider:
@@ -30,6 +30,15 @@ images:
     title: "Azure Migrate now available in Azure Government"
 
 related:
+  - title: "Azure Databricks now available in Azure Government"
+    excerpt: "Azure Databricks is now available in US Gov Arizona and US Gov Virginia regions."
+    publishedDateTime: 2020-12-07T19:10:57Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-databricks-now-available-in-azure-government/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
   - title: "Cyber Infrastructure's 7-Week Azure Data Integration & Migration Soln. Now Available in the Microsoft Azure Marketplace"
     excerpt: "Microsoft Azure customers worldwide now gain access to Cyber Infrastructure's implementation service SAN JOSE, CA,"
     publishedDateTime: 2020-04-30T07:38:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/public-preview-applicati
 webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-application-insight-in-australia-central/"
 type: article
 quality: 42
-heat: 42
+heat: -1
 published: false
 
 provider:
@@ -22,15 +22,33 @@ topics:
   - Azure
 
 related:
-  - title: "Public Preview: Application Insight in UK West, Germany West Central, Switzerland West and Australia Central 2"
-    excerpt: "UK West, Germany West Central, Switzerland West and Australia Central 2 are now Public Preview for customers to start collecting telemetry and analyze their services for health using Application Insight. "
-    publishedDateTime: 2020-09-11T20:41:25Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-application-insight-in-uk-west-germany-west-central-switzerland-west-and-australia-central-2/"
+  - title: "Public Preview: Azure Log Analytics in Brazil Southeast and Norway East "
+    excerpt: "Brazil Southeast and Norway East are now in public preview for customers to start collecting telemetry and analyze their services for health and usage using Azure Log Analytics."
+    publishedDateTime: 2020-10-28T16:45:59Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-azure-log-analytics-in-brazil-south-east-and-norway-east/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 32
+    quality: 83
+  - title: "General availability: Azure Log Analytics in Brazil Southeast and Norway East "
+    excerpt: "Log Analytics, a feature of Azure Monitor, is now generally available for customers to start collecting telemetry and analyze their services for health and usage in Brazil Southeast and Norway East. "
+    publishedDateTime: 2020-11-16T19:05:39Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azure-log-analytics-in-brazil-southeast-and-norway-east/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 80
+  - title: "Public preview: Azure Log Analytics in Germany West Central, UAE North, and Switzerland West "
+    excerpt: "Germany West Central, UAE North, and Switzerland West  are now in public preview for customers to start collecting telemetry and analyze their services for health and usage using Azure Log Analytics."
+    publishedDateTime: 2020-11-16T19:07:42Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-azure-log-analytics-in-germany-west-central-uae-north-and-switzerland-west/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 73
 
 secured: "42YLzxg9ezvcrKiY5pswu11fY7xrC7pEmcL9oBeZ8RwV5Xutn9eME1hM9NYVYjhSc/mv4j63Ado/j4UFpGnfPyzO5jj2uhAPQ31DkFNfnWrbJaSKWM+aiIPxJ+WpaCaa50sqHMtW7dioNiHImGUNRncF2VnwamnkTzFEyWOfv+4kj/MlLFKI60JEKU+bmw/WOrrDnvGicQgkDUuNqo3fO7U6dSaE+TO1/pKrU0cflXl3ex6s+zIVISi4oMl4MmrFoHJFvzjzlhsm+q0psZCEnpU/Hpm3fOFYgsyzIlL7MvMlflqmQ4lSJPPdfXY2IUffp3iCTgoWxG6jdUx2CHP3Zs8Zt+bGIu4ATPXGOayEV3Q=;c2t8X2AIlWe/aR0f/lZLpA=="
 ---

@@ -7,8 +7,8 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/alert-examples-in-logs/"
 webUrl: "https://azure.microsoft.com/en-us/updates/alert-examples-in-logs/"
 type: article
 quality: 89
-heat: -1
-published: false
+heat: 169
+published: true
 
 provider:
   name: Microsoft
@@ -29,88 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Azure Monitor Log Analytics data export is in public preview"
-    excerpt: "You can now enable continuous data export from your Log Analytics workspaces to an Azure Storage Account or Azure Event Hubs."
-    publishedDateTime: 2020-10-14T16:00:18Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-monitor-log-analytics-data-export-is-in-public-preview/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 121
-    images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/a2fdbe1c-7e34-4260-bcf5-0dd1d292edcd.png"
-        width: 956
-        height: 330
-        isCached: true
-  - title: "Dedicated clusters for Azure Monitor Log Analytics with data encryption at rest and Lockbox"
-    excerpt: "Handle large scale deployments better by taking advantage of data encryption at rest (with Customer Managed Keys) & Lockbox, and even configure cluster level capacity reservation with discounted pricing."
-    publishedDateTime: 2020-09-22T16:04:35Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/dedicated-clusters-for-azure-monitor-log-analytics-with-cmk-lockbox/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 91
-  - title: "Announcing Azure Data Explorer data connector for Azure Synapse"
-    excerpt: "You can now use Azure Synapse Workspace to access your data in Azure Data Explorer using Apache Spark pool"
-    publishedDateTime: 2020-10-14T16:00:13Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/adx-synapse-connector/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 84
-  - title: "Public Preview: Azure Log Analytics in Brazil Southeast and Norway East "
-    excerpt: "Brazil Southeast and Norway East are now in public preview for customers to start collecting telemetry and analyze their services for health and usage using Azure Log Analytics."
-    publishedDateTime: 2020-10-28T16:45:59Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-azure-log-analytics-in-brazil-south-east-and-norway-east/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 83
-  - title: "Line numbers in Log Analytics query editor"
-    excerpt: "Log Analytics query editor now show line numbers when composing a query"
-    publishedDateTime: 2020-08-13T16:00:06Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/line-numbers-in-log-analytics-query-editor/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 72
-    images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/620becd2-4c6b-4d21-a07c-32d6f154cff7.png"
-        width: 776
-        height: 271
-        isCached: true
-  - title: "A new version of Text Analytics is now in public preview"
-    excerpt: "Text Analytics new API version supports batch processing and healthcare scenarios."
-    publishedDateTime: 2020-11-19T17:00:33Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/cognitive-services-2/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 69
-  - title: "Shape your future with data and analytics"
-    excerpt: "Over the years, we have had a front-row seat to digital transformation occurring across all industries and regions around the world. "
-    publishedDateTime: 2020-12-03T08:00:22Z
-    webUrl: "https://azure.microsoft.com/blog/shape-your-future-with-data-and-analytics/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 69
-  - title: "Azure Monitor Logs – Log Analytics REST APIs general availability"
-    excerpt: "Log Analytics control plane REST APIs are generally available under a new consolidated version 2020-08-01."
-    publishedDateTime: 2020-08-27T17:00:14Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-monitor-logs-log-analytics-rest-apis-general-availability/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 67
   - title: "Ingestion data isolation in Log Analytics"
     excerpt: "To provide you with additional service stability, we have added the ingestion volume rate limit to additional Log Analytics data sources including Diagnostic Settings, agents, and data collector API."
     publishedDateTime: 2020-08-26T16:00:01Z
@@ -134,72 +52,34 @@ related:
         width: 1200
         height: 627
         isCached: true
-  - title: "AMD EPYC™ Processors Offer 30 Percent Better Performance on Data Analytics Workloads to Microsoft Azure Data Explorer Users"
-    excerpt: "AMD today announced Azure Data Explorer, a Platform as a Service solution optimized for data exploration and near real-time analytics, will now offer customers access to Microsoft Azure Virtual Machines featuring AMD EPYC™ processors."
-    publishedDateTime: 2020-10-15T14:00:00Z
-    webUrl: "https://www.nasdaq.com/press-release/amd-epyctm-processors-offer-30-percent-better-performance-on-data-analytics-workloads"
+  - title: "Azure Log Analytics saved searches functionality is moving to query explorer"
+    excerpt: "Azure Log Analytics saved searches functionality is now available in query explorer. "
+    publishedDateTime: 2020-07-27T16:00:02Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/saved-searches-functionality-is-moving-to-query-explorer/"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 48
-  - title: "AMD EPYC™ Processors power Microsoft Azure Data Explorer, Offers Users 30 Percent Better Performance on Data Analytics Workloads"
-    excerpt: "“The uplift in performance and efficiency capabilities provided by the AMD EPYC powered VMs on Microsoft Azure Data Explorer is another great proof point of the performance capabilities of our ..."
-    publishedDateTime: 2020-10-18T07:55:00Z
-    webUrl: "https://www.albawaba.com/business/pr/amd-epyc™-processors-power-microsoft-azure-data-explorer-offers-users-30-percent-better"
-    ampWebUrl: "https://www.albawaba.com/amp/business/pr/amd-epyc%E2%84%A2-processors-power-microsoft-azure-data-explorer-offers-users-30-percent-better"
-    cdnAmpWebUrl: "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/pr/amd-epyc%E2%84%A2-processors-power-microsoft-azure-data-explorer-offers-users-30-percent-better"
-    type: article
-    provider:
-      name: Al Bawaba News
-      domain: albawaba.com
-    quality: 45
+      name: Microsoft
+      domain: microsoft.com
+    quality: 34
     images:
-      - url: "https://www.albawaba.com/sites/default/files/styles/default/public/im_new/areej/Microsoft.jpg?itok=IKXBQ5IS"
-        width: 600
-        height: 600
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/5693d9d5-fd5f-4037-8747-aca13db4934b.png"
+        width: 925
+        height: 426
         isCached: true
-  - title: "Azure Monitor Log Analytics Quick Start content is moving to the Overview page"
-    excerpt: "In order to simplify and streamline Azure Monitor Logs, we're moving all links and content from the Quick Start page to the Overview page. The Quick Start page will be removed in August 2020."
-    publishedDateTime: 2020-07-30T16:00:01Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/log-analytics-quick-start-content-is-moving-to-the-overview-page/"
+  - title: "Log Analytics New Query Experience - Example Queries"
+    excerpt: ""
+    publishedDateTime: 2020-05-26T20:00:06Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/log-analytics-new-query-experience-example-queries/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 33
+    quality: 22
     images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/b8e6e1fd-2a10-4f2e-9340-17ed9a7c5556.png"
-        width: 791
-        height: 371
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/50a5d557-e0aa-4ca9-8bd6-b04d1d84c64b.png"
+        width: 1160
+        height: 557
         isCached: true
-  - title: "Azure Analytics Data Bricks Meters"
-    excerpt: "Effective September 1, 2020 Azure Analytics Data Bricks Meters will have a name change."
-    publishedDateTime: 2020-07-30T17:00:10Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-analytics-data-bricks-meters/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 17
-  - title: "Live Video Analytics now in public preview"
-    excerpt: "Live Video Analytics is a platform to capture, record, and analyze live video and publish the results (video and/or video analytics), enabling intelligent video applications."
-    publishedDateTime: 2020-06-11T20:00:11Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/live-video-analytics-now-in-public-preview/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 2
-  - title: "Text Analytics for health is now available in preview"
-    excerpt: "The health feature of Text Analytics uses natural language processing techniques to find and label valuable information in unstructured clinical documents such as doctor’s notes, discharge summaries, clinical documents, and electronic health records."
-    publishedDateTime: 2020-07-08T16:00:19Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/the-health-feature-of-text-analytics-is-now-available-in-preview/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 2
 
 secured: "6psBUlLavdFRhj0cs9dCwApQatpR/nsA93PX1Dug8Ak3RWZrlDjkLCQGPujnlKAjGMdSfoRaXBCRvD4Qe3Pjs/4sFsxSNnm131OR/BkUnPJvv/tWaGvaJnZ6XraZV5v0DXooEvySXJ+kfPJAwOS3qamhUn6nHnNl7IRFbozZIqkBgayk/5X2fIpF4Dr2HJhC0cWw+UU8FAAosIpw0jzV/yDqYg01FTPSrMZOZtOcORepnOMBTsaRATtUd5c6jNrjZ6yXUCKqCqQvWLlMcnrFr9nwX0lby3L+sLX8xWLr6WYOj5l2ooPH76IWpklkoxLL6rTQGAXNzLNlgZi17FnwOQ98ap4oWK2K0did2KZXJr4=;uIkoPdXhNjWuJ+NHXFTa1g=="
 ---

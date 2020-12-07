@@ -22,24 +22,6 @@ topics:
   - Azure
 
 related:
-  - title: "General availability: Azure Log Analytics in Brazil Southeast and Norway East "
-    excerpt: "Log Analytics, a feature of Azure Monitor, is now generally available for customers to start collecting telemetry and analyze their services for health and usage in Brazil Southeast and Norway East. "
-    publishedDateTime: 2020-11-16T19:05:39Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azure-log-analytics-in-brazil-southeast-and-norway-east/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 80
-  - title: "Public preview: Azure Log Analytics in Germany West Central, UAE North, and Switzerland West "
-    excerpt: "Germany West Central, UAE North, and Switzerland West  are now in public preview for customers to start collecting telemetry and analyze their services for health and usage using Azure Log Analytics."
-    publishedDateTime: 2020-11-16T19:07:42Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-azure-log-analytics-in-germany-west-central-uae-north-and-switzerland-west/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 73
   - title: "General availability: VPN over ExpressRoute private peering"
     excerpt: "VPN over ExpressRoute allows customers to encrypt all traffic going over their ExpressRoute circuit. VPN over ExpressRoute, combined with site-to-site and point-to-site VPN provides end-to-end encryption between data centers, branch offices and remote users."
     publishedDateTime: 2020-11-16T22:52:13Z

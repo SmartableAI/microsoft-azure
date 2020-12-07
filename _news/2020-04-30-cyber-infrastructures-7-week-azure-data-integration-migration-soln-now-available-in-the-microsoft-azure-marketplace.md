@@ -42,6 +42,15 @@ related:
         width: 1024
         height: 489
         isCached: true
+  - title: "Azure Databricks now available in Azure Government"
+    excerpt: "Azure Databricks is now available in US Gov Arizona and US Gov Virginia regions."
+    publishedDateTime: 2020-12-07T19:10:57Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-databricks-now-available-in-azure-government/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
   - title: "Azure Files share snapshot management by Azure Backup is now generally available"
     excerpt: "Microsoft Azure Files offers fully managed file shares in the cloud that are accessible via the industry standard Server Message Block (SMB) protocol. For users of Azure Files, share snapshots have offered a read-only version of file shares from a previous point in time. Share snapshots are also incremental"
     publishedDateTime: 2020-04-29T09:00:53Z

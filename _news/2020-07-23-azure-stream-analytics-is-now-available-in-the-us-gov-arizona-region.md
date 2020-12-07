@@ -35,20 +35,6 @@ related:
         width: 1024
         height: 572
         isCached: true
-  - title: "Save up to 76 percent on Azure Synapse Analytics and gain breathtaking insights of your ERP data"
-    excerpt: "To help customers save on data warehouse migration costs and accelerate time-to-insight on critical SAP data, we are announcing two new analytics offers from Azure Synapse Analytics."
-    publishedDateTime: 2020-07-15T09:00:28Z
-    webUrl: "https://azure.microsoft.com/blog/save-up-to-76-percent-on-azure-synapse-analytics-and-gain-breathtaking-insights-of-your-erp-data/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 24
-    images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/2f43204b-76ea-4b9b-b1cb-18a606a9fbea.png"
-        width: 1008
-        height: 563
-        isCached: true
   - title: "Azure Time Series Insights Gen2 is now generally available"
     excerpt: "Azure Time Series Insights Gen2, our pay-as-you-go IoT Analytics offering, is now generally available and features a number of new capabilities that are powerful, yet simple to use:"
     publishedDateTime: 2020-07-21T22:00:36Z

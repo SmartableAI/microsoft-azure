@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2020-12-04-microsoft-unveils-azure-purview-for-data-governance-azure-synapse-analytics-hits-general-availability.md",
-      "title": "Microsoft unveils Azure Purview for data governance, Azure Synapse Analytics hits general availability",
-      "excerpt": "Microsoft's Azure Purview, a new data governance solution, is in public preview. Azure Synapse Analytics is generally available.",
+      "path": "_news/2020-12-07-harness-analytical-and-predictive-power-with-azure-synapse-analytics.md",
+      "title": "Harness analytical and predictive power with Azure Synapse Analytics",
+      "excerpt": "Since its preview announcement, we’ve witnessed incredible excitement and adoption of Azure Synapse from our customers and partners.",
       "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/12/03/microsoft-azure-purview-azure-synapse-analytics/",
-      "originalUrl": "https://venturebeat.com/2020/12/03/microsoft-azure-purview-azure-synapse-analytics/",
+      "webUrl": "https://azure.microsoft.com/blog/harness-analytical-and-predictive-power-with-azure-synapse-analytics/",
+      "originalUrl": "https://azure.microsoft.com/blog/harness-analytical-and-predictive-power-with-azure-synapse-analytics/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 553,
+      "heat": 803,
       "tags": null,
       "images": [
         {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/12/microsoft-azure.png?w=1200&strip=all",
+          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/727e6860-55df-49cc-a50a-58fee4b30756.gif",
           "width": 1200,
-          "height": 600,
+          "height": 720,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,16 +24,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/12/03/microsoft-azure-purview-azure-synapse-analytics/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/03/microsoft-azure-purview-azure-synapse-analytics/amp/",
-      "publishedDateTime": "2020-12-03T08:03:00-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-07T03:49:11-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
+        "name": "Microsoft",
+        "domain": "microsoft.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -50,7 +50,9 @@
       ],
       "topics": [
         "Azure",
-        "Analytics"
+        "Analytics",
+        "AI",
+        "Serverless"
       ]
     },
     {
@@ -151,49 +153,6 @@
       ]
     },
     {
-      "path": "_news/2020-11-16-general-availability-azure-log-analytics-in-brazil-southeast-and-norway-east.md",
-      "title": "General availability: Azure Log Analytics in Brazil Southeast and Norway East ",
-      "excerpt": "Log Analytics, a feature of Azure Monitor, is now generally available for customers to start collecting telemetry and analyze their services for health and usage in Brazil Southeast and Norway East. ",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/en-us/updates/general-availability-azure-log-analytics-in-brazil-southeast-and-norway-east/",
-      "originalUrl": "https://azure.microsoft.com/en-us/updates/general-availability-azure-log-analytics-in-brazil-southeast-and-norway-east/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 140,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-16T11:05:39-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure",
-        "Analytics"
-      ]
-    },
-    {
       "path": "_news/2020-11-11-new-version-of-ssms-and-ads-tools-for-serverless-sql-pools-in-azure-synapse-analytics.md",
       "title": "New version of SSMS and ADS tools for serverless SQL pools in Azure Synapse Analytics",
       "excerpt": "Serverless SQL pool released a new version of SSMS and ADS which improves scripting in object explorer and increases stability.",
@@ -202,7 +161,7 @@
       "originalUrl": "https://azure.microsoft.com/en-us/updates/azure-synapse-sql-serverless-breaking-change-related-to-tooling-ssms-ads/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 109,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -281,31 +240,22 @@
       ]
     },
     {
-      "path": "_news/2020-10-22-quickly-get-started-with-samples-in-azure-synapse-analytics.md",
-      "title": "Quickly get started with samples in Azure Synapse Analytics",
-      "excerpt": "To further accelerate time to insight in Azure Synapse Analytics, we are introducing the Knowledge center to simplify access to pre-loaded sample data and to streamline the getting started process for data professionals.",
+      "path": "_news/2020-10-28-public-preview-azure-log-analytics-in-brazil-southeast-and-norway-east.md",
+      "title": "Public Preview: Azure Log Analytics in Brazil Southeast and Norway East ",
+      "excerpt": "Brazil Southeast and Norway East are now in public preview for customers to start collecting telemetry and analyze their services for health and usage using Azure Log Analytics.",
       "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/blog/quickly-get-started-with-samples-in-azure-synapse-analytics/",
-      "originalUrl": "https://azure.microsoft.com/blog/quickly-get-started-with-samples-in-azure-synapse-analytics/",
+      "webUrl": "https://azure.microsoft.com/en-us/updates/public-preview-azure-log-analytics-in-brazil-south-east-and-norway-east/",
+      "originalUrl": "https://azure.microsoft.com/en-us/updates/public-preview-azure-log-analytics-in-brazil-south-east-and-norway-east/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 319,
+      "heat": 143,
       "tags": null,
-      "images": [
-        {
-          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/cae05d0a-59d2-4e01-b1f2-1c173af75026.png",
-          "width": 2000,
-          "height": 1181,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-22T03:00:10-07:00",
+      "publishedDateTime": "2020-10-28T09:45:59-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",
@@ -333,31 +283,22 @@
       ]
     },
     {
-      "path": "_news/2020-10-14-azure-monitor-log-analytics-data-export-is-in-public-preview.md",
-      "title": "Azure Monitor Log Analytics data export is in public preview",
-      "excerpt": "You can now enable continuous data export from your Log Analytics workspaces to an Azure Storage Account or Azure Event Hubs.",
+      "path": "_news/2020-10-14-announcing-azure-data-explorer-data-connector-for-azure-synapse.md",
+      "title": "Announcing Azure Data Explorer data connector for Azure Synapse",
+      "excerpt": "You can now use Azure Synapse Workspace to access your data in Azure Data Explorer using Apache Spark pool",
       "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/en-us/updates/azure-monitor-log-analytics-data-export-is-in-public-preview/",
-      "originalUrl": "https://azure.microsoft.com/en-us/updates/azure-monitor-log-analytics-data-export-is-in-public-preview/",
+      "webUrl": "https://azure.microsoft.com/en-us/updates/adx-synapse-connector/",
+      "originalUrl": "https://azure.microsoft.com/en-us/updates/adx-synapse-connector/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 441,
+      "heat": 104,
       "tags": null,
-      "images": [
-        {
-          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/a2fdbe1c-7e34-4260-bcf5-0dd1d292edcd.png",
-          "width": 956,
-          "height": 330,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-14T09:00:18-07:00",
+      "publishedDateTime": "2020-10-14T09:00:13-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",
@@ -381,8 +322,7 @@
       ],
       "topics": [
         "Azure",
-        "Analytics",
-        "DevOps"
+        "Analytics"
       ]
     },
     {
@@ -427,6 +367,58 @@
         "Azure",
         "Serverless",
         "Databases",
+        "Analytics"
+      ]
+    },
+    {
+      "path": "_news/2020-10-13-new-alert-query-examples-topic-in-log-analytics.md",
+      "title": "New alert query examples topic in Log Analytics",
+      "excerpt": "The logs experience was recently updated with examples queries for common log alerts.",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/en-us/updates/alert-examples-in-logs/",
+      "originalUrl": "https://azure.microsoft.com/en-us/updates/alert-examples-in-logs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 169,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/e5d2dc9a-2689-438b-829d-6c5106b14d71.gif",
+          "width": 1907,
+          "height": 1019,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-13T13:34:42-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure",
         "Analytics"
       ]
     },
@@ -482,7 +474,7 @@
       "originalUrl": "https://azure.microsoft.com/en-us/updates/new-guided-ui-experience-to-deploy-machine-learning-models-in-azure-synapse-analytics/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 142,
+      "heat": 122,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -526,7 +518,7 @@
       "originalUrl": "https://www.zdnet.com/article/microsoft-azure-based-sentinel-security-gets-new-analytics-to-spot-threats-in-odd-behavior/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 781,
+      "heat": 621,
       "tags": null,
       "images": [
         {
@@ -579,7 +571,7 @@
       "originalUrl": "https://azure.microsoft.com/en-us/updates/accelerate-analytics-and-ai-workloads-with-photon-powered-delta-engine-on-azure-databricks/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 111,
+      "heat": 131,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -753,7 +745,7 @@
       "originalUrl": "https://azure.microsoft.com/en-us/updates/log-analytics-agent-for-windows-august-2020-release-is-now-available/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 149,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -796,7 +788,7 @@
       "originalUrl": "https://azure.microsoft.com/blog/azure-time-series-insights-gen-2-leading-the-next-generation-of-industrial-iot-analytics-solutions/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 167,
+      "heat": 147,
       "tags": null,
       "images": [
         {

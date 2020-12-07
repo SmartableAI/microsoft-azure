@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/new-guided-ui-experience
 webUrl: "https://azure.microsoft.com/en-us/updates/new-guided-ui-experience-to-deploy-machine-learning-models-in-azure-synapse-analytics/"
 type: article
 quality: 102
-heat: 142
+heat: 122
 published: true
 
 provider:
@@ -33,15 +33,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 81
-  - title: "New analytics and windowing capabilities in Stream Analytics"
-    excerpt: "The latest update of Azure Stream Analytics includes extended SQL language operators such as new windowing and analytics functions; and improvements of existing features."
-    publishedDateTime: 2020-10-02T16:00:25Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/new-analytics-and-windowing-capabilities-in-stream-analytics/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 69
 
 secured: "aBSzw6CoJFE5yIXsxfy8dVCYF3p3gsO+RGJF156J3aJnM22mH7jZ3+Gu+hX88XsvtAGnIAclLH7JR/EABBas5i96bu2XOxDcsllAADdkM/V+FN7siwaVGwPZPQShTlZ3o8CB74stnqGdC1c/mKoRV1AVDqa/0tkwmMHJg2jtPoRJO4oeZ52u+x1mpnjm96vzq8lgxNVRtWtjbIq313cd7PsWV6CQi1Q4L3O2KFn2gAw6H7AKHOog1iUpC5AF48pCMahMAQyjsSrpvb7BwOzs56M9rrJ/KhjDzEQ5Ua75kFWLQMeLe0uBQPecsBDznUqIO1JaynA3wNWVTfRmCg16WMhBw0NliE3Ov1T6a+AKgXM=;+RtoIUqfrwKkXXgCwshZ3w=="
 ---

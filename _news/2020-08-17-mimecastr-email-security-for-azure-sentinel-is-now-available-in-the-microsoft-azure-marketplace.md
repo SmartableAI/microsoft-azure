@@ -44,6 +44,22 @@ related:
         width: 884
         height: 441
         isCached: true
+  - title: "Microsoft rolls out data governance service on Azure"
+    excerpt: "Azure Purview automates the discovery and cataloging of data on-premises, in the cloud, and in SaaS applications."
+    publishedDateTime: 2020-12-04T11:05:00Z
+    webUrl: "https://www.infoworld.com/article/3600228/microsoft-azure-rolls-out-data-governance-service.html"
+    ampWebUrl: "https://www.infoworld.com/article/3600228/microsoft-azure-rolls-out-data-governance-service.amp.html"
+    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3600228/microsoft-azure-rolls-out-data-governance-service.amp.html"
+    type: article
+    provider:
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 97
+    images:
+      - url: "https://images.idgesg.net/images/article/2019/11/abstract_background_technology_data_binary_plotted_points_by_ivanastar_gettyimages_901412996-100817846-large.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Microsoft Azure Stack HCI: How to make the hybrid cloud part of your network"
     excerpt: "The second release of Azure Stack HCI brings a cloud-centric operational model to on-premises, with the Azure Portal as your gateway to the hybrid cloud."
     publishedDateTime: 2020-08-25T09:39:00Z

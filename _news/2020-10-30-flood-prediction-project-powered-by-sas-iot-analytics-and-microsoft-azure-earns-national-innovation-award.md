@@ -20,133 +20,162 @@ topics:
   - IoT
 
 related:
-  - title: "Quickly get started with samples in Azure Synapse Analytics"
-    excerpt: "To further accelerate time to insight in Azure Synapse Analytics, we are introducing the Knowledge center to simplify access to pre-loaded sample data and to streamline the getting started process for data professionals."
-    publishedDateTime: 2020-10-22T10:00:10Z
-    webUrl: "https://azure.microsoft.com/blog/quickly-get-started-with-samples-in-azure-synapse-analytics/"
+  - title: "Microsoft and Honeywell collaborate on Azure and Dynamics 365"
+    excerpt: "The manufacturing multinational will be bringing domain-specific applications built on Microsoft's cloud platform to market. More ways to innovate the industrial workplace will also be explored."
+    publishedDateTime: 2020-10-22T19:16:00Z
+    webUrl: "https://www.neowin.net/news/microsoft-and-honeywell-collaborate-on-azure-and-dynamics-365"
+    ampWebUrl: "https://www.neowin.net/amp/microsoft-and-honeywell-collaborate-on-azure-and-dynamics-365/"
+    cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-and-honeywell-collaborate-on-azure-and-dynamics-365/"
     type: article
     provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 119
+      name: Neowin
+      domain: neowin.net
+    quality: 97
     images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/cae05d0a-59d2-4e01-b1f2-1c173af75026.png"
-        width: 2000
-        height: 1181
+      - url: "https://cdn.neow.in/news/images/uploaded/2020/10/1603393938_microsoft_honeywell_logo_story.jpg"
+        width: 760
+        height: 428
         isCached: true
-  - title: "Azure Synapse Analytics: A progress report"
-    excerpt: "Azure Synapse Analytics is now nine months old. Time to review new GA and public preview features, and a new partnership too."
-    publishedDateTime: 2020-07-24T13:00:00Z
-    webUrl: "https://www.zdnet.com/article/azure-synapse-analytics-a-progress-report/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/azure-synapse-analytics-a-progress-report/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/azure-synapse-analytics-a-progress-report/"
+  - title: "Honeywell, Microsoft partner on industrial apps, Dynamics, Azure integration"
+    excerpt: "The two companies will combine that artificial intelligence in Honeywell Forge performance management software with Microsoft Dynamics Field Service."
+    publishedDateTime: 2020-10-22T16:00:00Z
+    webUrl: "https://www.zdnet.com/article/honeywell-microsoft-partner-on-industrial-apps-dynamics-azure-integration/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/honeywell-microsoft-partner-on-industrial-apps-dynamics-azure-integration/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/honeywell-microsoft-partner-on-industrial-apps-dynamics-azure-integration/"
     type: article
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 97
+    quality: 91
+  - title: "Public preview: Auditing of Microsoft support operations in Azure SQL DB and Azure SQL MI"
+    excerpt: "The auditing of Microsoft support operations capability enables the audit of Microsoft support operations when accessing servers and/or databases during a support request to an audit logs destination. The use of this capability, along with auditing, enables more transparency into the workforce and allows"
+    publishedDateTime: 2020-10-28T16:00:29Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/auditing-of-microsoft-support-operations-in-azure-sql-db-and-azure-sql-mi/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 75
+  - title: "Microsoft unlocks the full potential of the smart building ecosystem"
+    excerpt: "It is impossible to understate the profound impact 2020 events have had on the real estate industry. Buildings of all kinds, from commercial offices to retail, hospitals, manufacturing plants, and more, remain in need of transformative solutions that will enable employees to return to work safely. In"
+    publishedDateTime: 2020-10-26T06:00:00Z
+    webUrl: "https://azure.microsoft.com/blog/microsoft-unlocks-the-full-potential-of-the-smart-building-ecosystem/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 74
     images:
-      - url: "https://zdnet2.cbsistatic.com/hub/i/2020/07/23/c117195f-c0bc-4118-9393-07fda8f3cd08/synapse-workspace-wide.png"
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/2ab0444a-0df7-4672-a9ea-74857e3070d6.png"
+        width: 1024
+        height: 463
+        isCached: true
+  - title: "Microsoft reports strong growth for LinkedIn and cloud platform Azure in Q3 2020"
+    excerpt: "Microsoft reported strong Q3 2020 growth for LinkedIn and Azure, with the former seeing record engagement as people spent time searching for work."
+    publishedDateTime: 2020-10-29T13:08:00Z
+    webUrl: "https://www.businessinsider.com/microsoft-shows-strong-growth-for-linkedin-azure-in-q3-2020-10"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 72
+    images:
+      - url: "https://i.insider.com/5f9ab8a469331a0011bc5fc2?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Microsoft and SpaceX partner to use Azure with Starlink satellite"
+    excerpt: "We’ve seen Microsoft look to expand its services out into space, as the company recently announced Azure Orbital, a service that connects satellites via cloud. On the other hand, SpaceX has been using its Starlink satellites to offer internet around the globe."
+    publishedDateTime: 2020-10-20T19:10:00Z
+    webUrl: "https://www.shacknews.com/article/121031/microsoft-and-spacex-partner-to-use-azure-with-starlink-satellite"
+    ampWebUrl: "https://www.shacknews.com/article/121031/microsoft-and-spacex-partner-to-use-azure-with-starlink-satellite?amphtml=1"
+    cdnAmpWebUrl: "https://www-shacknews-com.cdn.ampproject.org/c/s/www.shacknews.com/article/121031/microsoft-and-spacex-partner-to-use-azure-with-starlink-satellite?amphtml=1"
+    type: article
+    provider:
+      name: Shacknews
+      domain: shacknews.com
+    quality: 57
+    images:
+      - url: "https://d1lss44hh2trtw.cloudfront.net/assets/article/2020/10/20/spacex-satellite_feature.jpg"
         width: 1920
         height: 1080
         isCached: true
-  - title: "Simply unmatched, truly limitless: Announcing Azure Synapse Analytics"
-    excerpt: "Today, businesses are forced to maintain two types of analytical systems, data warehouses and data lakes. Data warehouses provide critical insights on business health. Data lakes can uncover important signals on customers, products, employees, and processes. Both are critical, yet operate independently"
-    publishedDateTime: 2019-11-04T06:00:41Z
-    webUrl: "https://azure.microsoft.com/blog/simply-unmatched-truly-limitless-announcing-azure-synapse-analytics/"
+  - title: "Rigado Announces Safe Workplace Monitoring Solutions for Microsoft Azure IoT"
+    excerpt: "New devices and displays enable plug and play data collection and automation for Microsoft Azure IoT, helping companies quickly create safer commercial spaces. PORTLAND, Ore."
+    publishedDateTime: 2020-10-22T14:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/10/p18016063/rigado-announces-safe-workplace-monitoring-solutions-for-microsoft-azure-iot"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/18016063"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18016063"
     type: article
     provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 69
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 51
+  - title: "Microsoft Adds Modular Datacenter to Azure Space Efforts"
+    excerpt: "Microsoft this week introduced the Microsoft Azure Modular Datacenter as part of its overall Azure Space effort."
+    publishedDateTime: 2020-10-22T00:51:00Z
+    webUrl: "https://redmondmag.com/articles/2020/10/21/azure-modular-datacenter.aspx"
+    type: article
+    provider:
+      name: Redmond Magazine
+      domain: redmondmag.com
+    quality: 37
     images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/ee753f4b-675a-405f-98b2-01d4a85034ca.png"
-        width: 1024
-        height: 576
+      - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/IntroImagesBigSmall/AzureModularBig.jpg"
+        width: 1665
+        height: 1158
         isCached: true
-  - title: "Azure SQL Data Warehouse is now Azure Synapse Analytics"
-    excerpt: "On November fourth, we announced Azure Synapse Analytics, the next evolution of Azure SQL Data Warehouse. Azure Synapse is a limitless analytics service that brings together enterprise data warehousing and Big Data analytics. It gives you the freedom to query data on your terms, using either serverless"
-    publishedDateTime: 2019-11-07T10:00:11Z
-    webUrl: "https://azure.microsoft.com/blog/azure-sql-data-warehouse-is-now-azure-synapse-analytics/"
+  - title: "Microsoft Azure Space uses SpaceX to take on Amazon"
+    excerpt: "Microsoft is extending its Azure cloud computing service, with Azure Space addressing the growing commercial opportunities around space connectivity. Back in July we reported that Amazon Web services were aiming for space business. It announced the ..."
+    publishedDateTime: 2020-10-22T08:12:00Z
+    webUrl: "https://www.electronicsweekly.com/news/microsoft-azure-space-uses-spacex-take-amazon-2020-10/"
     type: article
     provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 69
+      name: Electronics Weekly
+      domain: electronicsweekly.com
+    quality: 37
     images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/4f907102-6934-45ea-9eb4-acdfec680961.png"
+      - url: "https://static.electronicsweekly.com/wp-content/uploads/2020/10/21164052/Microsoft-Azure-Space.jpg"
         width: 1000
-        height: 562
+        height: 563
         isCached: true
-  - title: "Log Analytics Linux Agent for Fall 2020 now available"
-    excerpt: "A new release of the Linux Agent is now available with support fixes and a new troubleshooting tool."
-    publishedDateTime: 2020-10-22T16:00:11Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/log-analytics-agent-for-linux-fall-2020-now-available/"
+  - title: "Touting Azure for Operators, Microsoft Joins SDN Standards Group"
+    excerpt: "As part of its Azure for Operators program, Microsoft this week joined a nonprofit standards association that focuses on software-defined networking (SDN) technologies used by enterprises and ..."
+    publishedDateTime: 2020-10-27T23:18:00Z
+    webUrl: "https://rcpmag.com/articles/2020/10/27/microsoft-joins-sdn-standards-group.aspx"
     type: article
     provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 69
-  - title: "Stream Analytics now can be run on Azure Stack Hub"
-    excerpt: "Azure Stream Analytics is now available on Azure Stack Hub via IoT Edge Runtime. "
-    publishedDateTime: 2020-08-28T16:04:07Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/asaonstack/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 67
-  - title: "Learn how to deliver insights faster with Azure Synapse Analytics"
-    excerpt: "Today, it’s even more critical to have a data-driven culture. Analytics and AI play a pivotal role in helping businesses make insights-driven decisions—decisions to transform supply chains, develop new ways to interact with customers, and evaluate new offerings.\r\n\r\nMany organizations are turning to cloud"
-    publishedDateTime: 2020-05-12T11:00:20Z
-    webUrl: "https://azure.microsoft.com/blog/learn-how-to-deliver-insights-faster-with-azure-synapse-analytics/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
+      name: Redmond Channel Partner
+      domain: rcpmag.com
     quality: 37
     images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/0adb1254-ac39-4dcf-8405-8a453b2ff566.png"
-        width: 1024
-        height: 576
+      - url: "https://rcpmag.com/-/media/ECG/VirtualizationReview/Images/introimages2014/GEN1PurpleandWhiteLightsCircles.jpg"
+        width: 647
+        height: 450
         isCached: true
-  - title: "Azure Analytics: Clarity in an instant"
-    excerpt: "What 2020 is teaching us is that the world can change in an instant. In the span of a few months, we have witnessed massive disruptions across every industry around the globe. Factories are idle, hotels are empty, and the transportation backbone that connects us all is quiet. Navigating these unprecedented"
-    publishedDateTime: 2020-05-19T08:00:13Z
-    webUrl: "https://azure.microsoft.com/blog/azure-analytics-clarity-in-an-instant/"
+  - title: "The Migros community relies on Microsoft Azure for its „Journey to the Cloud“"
+    excerpt: "In addition to Microsoft 365, the Swiss retail company will use Azure Services from the Microsoft Cloud in Switzerland in the future, thus accelerating the already advanced digitisation of the entire group of companies. Patrick Mosberger, Head of IT ..."
+    publishedDateTime: 2020-10-18T11:02:00Z
+    webUrl: "https://news.microsoft.com/de-ch/2020/10/18/the-migros-community-relies-on-microsoft-azure-for-its-journey-to-the-cloud/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 37
+    quality: 34
     images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/849b9325-2b7b-4f90-9aee-4ff7f5e66354.gif"
-        width: 1600
-        height: 900
+      - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/418/2020/10/mgb-hochhaus_w915_h515-768x432.jpg"
+        width: 768
+        height: 432
         isCached: true
-  - title: "Azure Synapse Analytics: Insights for all"
-    excerpt: "In November we announced Azure Synapse Analytics—a limitless analytics service that brings together enterprise data warehousing and big data analytics. Despite the massive disruptions occurring throughout industries in recent months, we continue to see a high level of excitement and enthusiasm for joining"
-    publishedDateTime: 2020-05-21T08:30:41Z
-    webUrl: "https://azure.microsoft.com/blog/azure-synapse-analytics-insights-for-all/"
+  - title: "BCG and Microsoft Collaborate to Launch BCG's Catalyst Cloud Solution on Azure, a New Scalable and Extensible Data Platform for the Bionic Corporation"
+    excerpt: "PRNewswire/ -- Boston Consulting Group (BCG) today announced the launch of the Catalyst Cloud data platform by BCG, powered by Microsoft Azure. This SaaS-based, scalable offering"
+    publishedDateTime: 2020-10-26T04:11:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/bcg-and-microsoft-collaborate-to-launch-bcgs-catalyst-cloud-solution-on-azure-a-new-scalable/article_a85c3d82-fdb3-51fc-8c2d-ac3875a44bfa.html"
     type: article
     provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 37
-    images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/19cd7b32-501a-4032-8fa8-ed2bd9a28d03.gif"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "Azure Synapse Analytics meter ID changes effective as of July 1, 2020"
-    excerpt: ""
-    publishedDateTime: 2020-05-26T18:00:04Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-synapse-analytics-meter-id-changes/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 17
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 0
 
 secured: "OQArXba//epYal8GT5+gYyP+FmrVgaJAPnEFzhcMZSVLS0JzKDbvJ27bvAgPQ/y6WCfW8ReZHvSZHI1LtGxtqgvULfy1w74kfKSLXc8Ct1SjWksczESdobv4353A4r1uJ5CGsH/Iz3OO30nD/UrJzjlUFlNYgWjx0zVaOcJcb6lXwV/fd52HOF7en/xx1ZYe63zTZ4INGMhDPgDpzvu0oPtVgvQlrbja6Y+7Tvnaj/9ROX0xae0IKEFpWt3K1fxeAyL37rJHvGfOvTPU6f41zEaudMRwoF5IPkGu8/fMfMNyF8nGv0fGo+b0Q4Ee1uiyWzNoJlyFUiKTyjA2FMeax3QMgSjbOd90qZL43BV9YSbBbJ9mxOpR7D+4xMycsAp92ZEFHsvyMpFdei9kf10eLHAmWYwix4SLxZqO4E4+G+fkN5SGmwxWhbu/e/XLkm1ib3vxj3Tmhv7Ebw6Mb/qhvpmR7U+5Jz2SYHR6YzLfNoWbH5r6knpOjQUlF1P+u8VSJYutLpMVFIhMXwCEz9cW+w==;gRSf+Pv7KIT3n59UH2c1Ow=="
 ---

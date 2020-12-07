@@ -31,6 +31,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 91
+  - title: "Dedicated clusters for Azure Monitor Log Analytics with data encryption at rest and Lockbox"
+    excerpt: "Handle large scale deployments better by taking advantage of data encryption at rest (with Customer Managed Keys) & Lockbox, and even configure cluster level capacity reservation with discounted pricing."
+    publishedDateTime: 2020-09-22T16:04:35Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/dedicated-clusters-for-azure-monitor-log-analytics-with-cmk-lockbox/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 91
 
 secured: "CghMAamypvYkzFgXyymrsIFknjFwF4LcTcT+kHPfoCt/XhGsHZmeMpr2y7IvlppDVbIEDE00yzRO1jghkK2B1ajvbqP1SZafFGFLKoXZYS4yb+fO8r7BlrNyqWjjG9P6QhHAUSLFAVhLdWF9of6XMwxY8LxHNd9SPFJnYd01OTvM4qZdgJRSj79+6sBGW9e6x89p/OKCem2M9JgRQGHwEYwdm30vYJxxBc1bkysQm9C23UpjlxAUQPUPZZnlFCgvnW5jDTqs2DSPyWVlB89lQyuzqgCYEeK2p37X2PfO5v9bEIocYq82JlFh4T8Hl9JzehsrbJHQ+K96Kis4JvRRcq36iZIBNMiekAfv2c9hhZU=;lVJbbNMp7zZjgwxN42CDHw=="
 ---

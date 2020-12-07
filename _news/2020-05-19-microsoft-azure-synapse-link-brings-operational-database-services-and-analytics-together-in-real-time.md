@@ -26,6 +26,48 @@ images:
     title: "Microsoft Azure Synapse Link brings operational database services and analytics together in real-time"
 
 related:
+  - title: "Harness analytical and predictive power with Azure Synapse Analytics"
+    excerpt: "Since its preview announcement, we’ve witnessed incredible excitement and adoption of Azure Synapse from our customers and partners."
+    publishedDateTime: 2020-12-07T11:49:11Z
+    webUrl: "https://azure.microsoft.com/blog/harness-analytical-and-predictive-power-with-azure-synapse-analytics/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 123
+    images:
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/727e6860-55df-49cc-a50a-58fee4b30756.gif"
+        width: 1200
+        height: 720
+        isCached: true
+  - title: "Azure Monitor Log Analytics data export is in public preview"
+    excerpt: "You can now enable continuous data export from your Log Analytics workspaces to an Azure Storage Account or Azure Event Hubs."
+    publishedDateTime: 2020-10-14T16:00:18Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-monitor-log-analytics-data-export-is-in-public-preview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 121
+    images:
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/a2fdbe1c-7e34-4260-bcf5-0dd1d292edcd.png"
+        width: 956
+        height: 330
+        isCached: true
+  - title: "Quickly get started with samples in Azure Synapse Analytics"
+    excerpt: "To further accelerate time to insight in Azure Synapse Analytics, we are introducing the Knowledge center to simplify access to pre-loaded sample data and to streamline the getting started process for data professionals."
+    publishedDateTime: 2020-10-22T10:00:10Z
+    webUrl: "https://azure.microsoft.com/blog/quickly-get-started-with-samples-in-azure-synapse-analytics/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 119
+    images:
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/cae05d0a-59d2-4e01-b1f2-1c173af75026.png"
+        width: 2000
+        height: 1181
+        isCached: true
   - title: "Microsoft unveils Azure Purview for data governance, Azure Synapse Analytics hits general availability"
     excerpt: "Microsoft's Azure Purview, a new data governance solution, is in public preview. Azure Synapse Analytics is generally available."
     publishedDateTime: 2020-12-03T16:03:00Z
@@ -64,111 +106,179 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 103
-  - title: "Google Cloud Will Not Be Able To Overtake Microsoft Azure"
-    excerpt: "Google (Alphabet) may have missed a critical window this year for cloud infrastructure. We also analyze how Microsoft directed all of its efforts to successfully close the wide lead by AWS. Lastly, we"
-    publishedDateTime: 2020-12-04T04:03:00Z
-    webUrl: "https://www.forbes.com/sites/bethkindig/2020/12/03/google-cloud-will-not-be-able-to-overtake-microsoft-azure/"
-    ampWebUrl: "https://www.forbes.com/sites/bethkindig/2020/12/03/google-cloud-will-not-be-able-to-overtake-microsoft-azure/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bethkindig/2020/12/03/google-cloud-will-not-be-able-to-overtake-microsoft-azure/amp/"
+  - title: "Column-level encryption for Azure Synapse Analytics"
+    excerpt: "Azure Synapse Analytics already provides a breadth of options that can be used to handle sensitive data in a secure manner—we are expanding that support with the introduction of Column Level Encryption (CLE)."
+    publishedDateTime: 2020-09-23T16:00:13Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/columnlevel-encryption-for-azure-synapse-analytics/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 97
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fc9b08566dda99de43b5fee%2F0x0.jpg"
-        width: 1200
-        height: 741
-        isCached: true
-  - title: "Microsoft rolls out data governance service on Azure"
-    excerpt: "Azure Purview automates the discovery and cataloging of data on-premises, in the cloud, and in SaaS applications."
-    publishedDateTime: 2020-12-04T11:05:00Z
-    webUrl: "https://www.infoworld.com/article/3600228/microsoft-azure-rolls-out-data-governance-service.html"
-    ampWebUrl: "https://www.infoworld.com/article/3600228/microsoft-azure-rolls-out-data-governance-service.amp.html"
-    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3600228/microsoft-azure-rolls-out-data-governance-service.amp.html"
+      name: Microsoft
+      domain: microsoft.com
+    quality: 99
+  - title: "COPY command now generally available in Azure Synapse Analytics"
+    excerpt: "The COPY command can now automatically parse your files to calculate file splits and can evenly distribute data chunks across the Synapse SQL compute nodes for parallel ingestion. "
+    publishedDateTime: 2020-09-23T16:00:13Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/copy-command-now-generally-available-in-azure-synapse-analytics/"
     type: article
     provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 97
-    images:
-      - url: "https://images.idgesg.net/images/article/2019/11/abstract_background_technology_data_binary_plotted_points_by_ivanastar_gettyimages_901412996-100817846-large.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Microsoft's cloud chief breaks down new Azure products"
-    excerpt: "CNBC's \"Squawk Alley\" team discusses Microsoft new data products for Azure with Microsoft’s head of cloud and executive vice president of Azure, Jason Zander."
-    publishedDateTime: 2020-12-03T16:55:00Z
-    webUrl: "https://www.cnbc.com/video/2020/12/03/microsofts-cloud-chief-breaks-down-new-azure-products.html"
+      name: Microsoft
+      domain: microsoft.com
+    quality: 99
+  - title: "New MERGE command for Azure Synapse Analytics"
+    excerpt: "Users can now synchronize two tables in a single step, streamlining the data processing using a single step statement while improving code readability and debugging."
+    publishedDateTime: 2020-09-23T16:00:13Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/new-merge-command-for-azure-synapse-analytics/"
     type: article
     provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 77
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106805801-16070117561607011753-12761111221-1080pnbcnews.jpg?v=1607011756"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Microsoft's Azure Purview data governance service will help enterprises manage data"
-    excerpt: "Microsoft's Azure Purview is a new cloud-based service that will help enterprises manage data and support compliance and data privacy regulations."
-    publishedDateTime: 2020-12-07T16:04:00Z
-    webUrl: "https://www.businessinsider.com/microsofts-data-governance-service-tackles-complex-privacy-landscape-2020-12"
+      name: Microsoft
+      domain: microsoft.com
+    quality: 99
+  - title: "Azure AD authentication features for Azure SQL DB, Azure Synapse Analytics, and Azure SQL Managed Instance "
+    excerpt: "These new preview features extend existing functionality, remove user limitations, and provide customers with greater ease of use when setting up Azure SQL Database or Azure SQL Managed Instance. "
+    publishedDateTime: 2020-09-22T16:05:34Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-ad-authentication-features-for-azure-sql-db-azure-synapse-analytics-and-azure-sql-managed-instance/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 71
-    images:
-      - url: "https://i.insider.com/5fce3b9deadd8400183df6ee?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Microsoft Build brings announcements for cloud data, analytics services, and intersection of the two"
-    excerpt: "A series of announcements around Synapse Analytics, Cosmos DB, Azure Database and SQL Edge make this year's Microsoft Build conference a virtual event revealing actual advances and concrete integrations."
-    publishedDateTime: 2020-05-19T15:00:00Z
-    webUrl: "https://www.zdnet.com/article/microsoft-build-brings-announcements-for-cloud-data-analytics-services-and-intersection-of-the-two/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-build-brings-announcements-for-cloud-data-analytics-services-and-intersection-of-the-two/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-build-brings-announcements-for-cloud-data-analytics-services-and-intersection-of-the-two/"
+      name: Microsoft
+      domain: microsoft.com
+    quality: 98
+  - title: "A closer look at Microsoft Azure Synapse Analytics"
+    excerpt: "Roughly six months after its unveiling at the Ignite conference last fall, Microsoft took a group of analysts and MVP professionals on a deep dive into the Azure Synapse Analytics service. As noted in Andrew's coverage last fall, Azure Synapse Analytics is a rebrand and evolution of Azure SQL Data Warehouse, broadening its footprint to span ..."
+    publishedDateTime: 2020-04-14T12:00:00Z
+    webUrl: "https://www.zdnet.com/article/a-closer-look-at-microsoft-azure-synapse-analytics/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/a-closer-look-at-microsoft-azure-synapse-analytics/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/a-closer-look-at-microsoft-azure-synapse-analytics/"
     type: article
     provider:
       name: ZDNet
       domain: zdnet.com
+    quality: 97
+    images:
+      - url: "https://zdnet4.cbsistatic.com/hub/i/2020/04/14/ae52840f-bd1d-4e9d-8ec2-114e56664784/synapse.jpg"
+        width: 750
+        height: 500
+        isCached: true
+  - title: "Azure Synapse Analytics: A progress report"
+    excerpt: "Azure Synapse Analytics is now nine months old. Time to review new GA and public preview features, and a new partnership too."
+    publishedDateTime: 2020-07-24T13:00:00Z
+    webUrl: "https://www.zdnet.com/article/azure-synapse-analytics-a-progress-report/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/azure-synapse-analytics-a-progress-report/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/azure-synapse-analytics-a-progress-report/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 97
+    images:
+      - url: "https://zdnet2.cbsistatic.com/hub/i/2020/07/23/c117195f-c0bc-4118-9393-07fda8f3cd08/synapse-workspace-wide.png"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Authenticate Azure Stream Analytics to Azure Synapse Analytics using managed identities (preview)"
+    excerpt: "To support Azure customers' need for a more secure streaming data pipelines, Azure Stream Analytics now supports managed identity authentication with SQL pool tables Azure Synapse Analytics."
+    publishedDateTime: 2020-09-30T17:00:20Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/authenticate-azure-stream-analytics-to-azure-synapse-analytics-using-managed-identities-preview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 86
+  - title: "Line numbers in Log Analytics query editor"
+    excerpt: "Log Analytics query editor now show line numbers when composing a query"
+    publishedDateTime: 2020-08-13T16:00:06Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/line-numbers-in-log-analytics-query-editor/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 72
+    images:
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/620becd2-4c6b-4d21-a07c-32d6f154cff7.png"
+        width: 776
+        height: 271
+        isCached: true
+  - title: "Log Analytics new System Center configuration blade"
+    excerpt: "System center configuration now has it’s own dedicated blade in Log Analytics."
+    publishedDateTime: 2020-08-13T16:00:06Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/log-analytics-new-system-center-configuration-blade/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 72
+    images:
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/ce2a1746-2cef-41f4-8393-5652bfd9083b.png"
+        width: 683
+        height: 264
+        isCached: true
+  - title: "Simply unmatched, truly limitless: Announcing Azure Synapse Analytics"
+    excerpt: "Today, businesses are forced to maintain two types of analytical systems, data warehouses and data lakes. Data warehouses provide critical insights on business health. Data lakes can uncover important signals on customers, products, employees, and processes. Both are critical, yet operate independently"
+    publishedDateTime: 2019-11-04T06:00:41Z
+    webUrl: "https://azure.microsoft.com/blog/simply-unmatched-truly-limitless-announcing-azure-synapse-analytics/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 69
+    images:
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/ee753f4b-675a-405f-98b2-01d4a85034ca.png"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "Azure SQL Data Warehouse is now Azure Synapse Analytics"
+    excerpt: "On November fourth, we announced Azure Synapse Analytics, the next evolution of Azure SQL Data Warehouse. Azure Synapse is a limitless analytics service that brings together enterprise data warehousing and Big Data analytics. It gives you the freedom to query data on your terms, using either serverless"
+    publishedDateTime: 2019-11-07T10:00:11Z
+    webUrl: "https://azure.microsoft.com/blog/azure-sql-data-warehouse-is-now-azure-synapse-analytics/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 69
+    images:
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/4f907102-6934-45ea-9eb4-acdfec680961.png"
+        width: 1000
+        height: 562
+        isCached: true
+  - title: "New analytics and windowing capabilities in Stream Analytics"
+    excerpt: "The latest update of Azure Stream Analytics includes extended SQL language operators such as new windowing and analytics functions; and improvements of existing features."
+    publishedDateTime: 2020-10-02T16:00:25Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/new-analytics-and-windowing-capabilities-in-stream-analytics/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 69
+  - title: "Shape your future with data and analytics"
+    excerpt: "Over the years, we have had a front-row seat to digital transformation occurring across all industries and regions around the world. "
+    publishedDateTime: 2020-12-03T08:00:22Z
+    webUrl: "https://azure.microsoft.com/blog/shape-your-future-with-data-and-analytics/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 69
+  - title: "Stream Analytics now can be run on Azure Stack Hub"
+    excerpt: "Azure Stream Analytics is now available on Azure Stack Hub via IoT Edge Runtime. "
+    publishedDateTime: 2020-08-28T16:04:07Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/asaonstack/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
     quality: 67
-    images:
-      - url: "https://zdnet2.cbsistatic.com/hub/i/r/2020/05/13/bf550a82-e9e8-4511-bee9-983426e8fc52/thumbnail/1200x675/aaf99352c82c362f4feba84192e7819c/2555435eba4cad133864-58121622-nvidia-accelerates-apache-spark.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Nadella takes a dig at Amazon as Microsoft unveils Azure Purview"
-    excerpt: "Taking an apparent dig at Amazon and its Cloud arm AWS, Microsoft CEO Satya Nadella has said that it is important to not only trust a vendors technology capabilities but also its ‘business model alignment with its customers."
-    publishedDateTime: 2020-12-04T08:41:00Z
-    webUrl: "https://www.sify.com/finance/nadella-takes-a-dig-at-amazon-as-microsoft-unveils-azure-purview-news-topnews-umegIohfjjjib.html"
-    ampWebUrl: "https://www.sify.com/finance/nadella-takes-a-dig-at-amazon-as-microsoft-unveils-azure-purview-news-topnews-umegIohfjjjib.html"
-    cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/finance/nadella-takes-a-dig-at-amazon-as-microsoft-unveils-azure-purview-news-topnews-umegIohfjjjib.html"
+  - title: "Microsoft launches Azure analytics and data services"
+    excerpt: "Microsoft has officially launched its Azure Synapse Analytics service, as well as its data governance offering Azure Purview, in a move designed to break down and move past silos in businesses.​"
+    publishedDateTime: 2020-12-03T16:08:00Z
+    webUrl: "https://www.arnnet.com.au/article/684941/microsoft-launches-azure-analytics-data-services/"
     type: article
     provider:
-      name: Sify.com
-      domain: sify.com
-    quality: 57
-    images:
-      - url: "https://www.sify.com/uploads/satya_nadella_microsoft_ap_ul3hPHcfcijca.jpeg"
-        width: 900
-        height: 450
-        isCached: true
-  - title: "Cyber Security Cloud WafCharm now available on Microsoft Azure"
-    excerpt: "Cyber Security Cloud announces the availability of WafCharm on Microsoft Azure, providing AI operation of WAF rules."
-    publishedDateTime: 2020-12-02T01:18:00Z
-    webUrl: "https://www.helpnetsecurity.com/2020/12/02/cyber-security-cloud-wafcharm/"
-    type: article
-    provider:
-      name: Help Net Security
-      domain: helpnetsecurity.com
+      name: ARN
+      domain: arnnet.com.au
     quality: 54
     images:
-      - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/11/02114007/help_net_security.jpg"
-        width: 1200
-        height: 627
+      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/800x800/dimg/microsoft_azure_dreamstime.jpg"
+        width: 800
+        height: 500
         isCached: true
   - title: "Tamr joins Microsoft, other leading technology companies as a Azure Synapse Analytics launch partner"
     excerpt: "PRNewswire/ -- Tamr, Inc., the provider of cloud-native data mastering solutions, today announced it's selection by Microsoft as a launch partner for"
@@ -184,152 +294,139 @@ related:
         width: 1500
         height: 785
         isCached: true
-  - title: "Microsoft Announces Milestones for Data Tools Azure Synapse and Azure Purview"
-    excerpt: "Microsoft this week described release milestones for several of its emerging cloud data management products. Azure Synapse Analytics and Azure Synapse Studio are now generally available (GA ..."
-    publishedDateTime: 2020-12-03T00:00:00Z
-    webUrl: "https://rcpmag.com/articles/2020/12/03/microsoft-azure-data-tools-milestones.aspx"
-    type: article
-    provider:
-      name: Redmond Channel Partner
-      domain: rcpmag.com
-    quality: 51
-    images:
-      - url: "https://rcpmag.com/-/media/ECG/redmondmag/Images/introimages2014/1214red_F1DRaaSTools.jpg"
-        width: 647
-        height: 450
-        isCached: true
-  - title: "Microsoft Azure becomes preferred Cloud platform for SAS analytics"
-    excerpt: "Redmond, June 16 (IANS) Tech giant Microsoft and business analytics software and services firm SAS have announced a strategic partnership, making Azure the preferred Cloud platform for SAS's ..."
-    publishedDateTime: 2020-06-16T10:15:00Z
-    webUrl: "https://www.sify.com/news/microsoft-azure-becomes-preferred-cloud-platform-for-sas-analytics-news-education-ugqePIcgcedib.html"
-    type: article
-    provider:
-      name: Sify.com
-      domain: sify.com
-    quality: 37
-    images:
-      - url: "https://www.sify.com/uploads/microsoft_azure_wiki_ugqg10gibaeei.jpg"
-        width: 900
-        height: 400
-        isCached: true
-  - title: "Modern VDI Solutions with Microsoft Azure"
-    excerpt: "Computerworld covers a range of technology topics, with a focus on these core areas of IT: Windows, Mobile, Apple/enterprise, Office and productivity suites, collaboration, web browsers and blockchain,"
-    publishedDateTime: 2020-11-29T21:00:00Z
-    webUrl: "https://www.computerworld.com/resources/211308/modern-vdi-solutions-with-microsoft-azure"
-    type: article
-    provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 37
-    images:
-      - url: "https://idge.staticworld.net/ctw/computerworld-logo300x300.png"
-        width: 300
-        height: 300
-        isCached: true
-  - title: "Mavenir’s RCS Business Messaging Solution Available in Microsoft Azure"
-    excerpt: "today announced that its RCS Business Messaging Solution is available to deploy globally from Microsoft Azure. The current Covid-19 pandemic has forced businesses to accelerate their digital ..."
-    publishedDateTime: 2020-12-01T14:46:00Z
-    webUrl: "https://www.oaoa.com/news/business/mavenir-s-rcs-business-messaging-solution-available-in-microsoft-azure/article_47a91ccf-1c8b-5efc-9ee8-accdd09b80b9.html"
-    type: article
-    provider:
-      name: Odessa American
-      domain: oaoa.com
-    quality: 37
-    images:
-      - url: "https://www.valleymorningstar.com/wp-content/uploads/sites/63/2020/07/GET-IT-NOW-BUTTON.png"
-        width: 576
-        height: 288
-        isCached: true
-  - title: "Modern VDI Solutions with Microsoft Azure"
-    excerpt: "But there’s good news: Modern VDI Solutions with Microsoft Azure, focused on Windows Virtual Desktop (WVD). Join experts from Zones as they define VDI (a technology suite used to create a ..."
-    publishedDateTime: 2020-11-30T18:55:00Z
-    webUrl: "https://www.csoonline.com/resources/211308/modern-vdi-solutions-with-microsoft-azure"
-    type: article
-    provider:
-      name: CSOonline
-      domain: csoonline.com
-    quality: 37
-    images:
-      - url: "https://idge.staticworld.net/cso/CSO_logo_300x300.png"
-        width: 300
-        height: 300
-        isCached: true
-  - title: "Microsoft Azure Service Fabric 7.2 Fourth Refresh Release Notes"
-    excerpt: "Service Fabric is a distributed systems platform for packaging, deploying, and managing stateless and stateful distributed applications and containers at large scale. - microsoft/service-fabric"
-    publishedDateTime: 2020-12-03T09:25:20Z
-    webUrl: "https://github.com/microsoft/service-fabric/blob/master/release_notes/Service-Fabric-72CU4.md"
-    type: article
-    provider:
-      name: GitHub
-      domain: github.com
-    quality: 37
-    images:
-      - url: "https://avatars2.githubusercontent.com/u/6154722?s=400&v=4"
-        width: 400
-        height: 400
-        isCached: true
-  - title: "Exoprise Office 365 Monitoring App Now Available in the Microsoft Azure Marketplace"
-    excerpt: "PRNewswire/ -- Exoprise, a leading provider of software-as-a-service (SaaS) and Office 365 monitoring, today announced the availability of its CloudReady solution in the Microsoft Azure Marketplace, an online store that provides applications and services for use on Azure."
-    publishedDateTime: 2020-12-01T18:20:00Z
-    webUrl: "https://apnews.com/article/technology-business-software-industry-information-technology-cloud-computing-services-701a49c713a36e14dd19c41663dd9368"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 31
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "Tangent Works' Predictive Analytics Now Available in the Microsoft Azure Marketplace"
-    excerpt: "RANDOLPH, N.J. and BRUSSELS, July 24, 2020 /PRNewswire/ -- Tangent Works today announced the availability of TIM in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure. Tangent Works customers can now take ..."
-    publishedDateTime: 2020-07-24T23:16:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/tangent-works-predictive-analytics-now-available-in-the-microsoft-azure-marketplace/article_b03fb881-eb63-5744-99a6-90d2c9aa5c01.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 30
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/c/2f/c2fefe6c-c0e5-527b-ba10-0c9af861210a/5f1ae2bbc1ad0.image.jpg?resize=400%2C300"
-        width: 400
-        height: 300
-        isCached: true
-  - title: "TekLink International Inc. Is Now A Microsoft Gold Partner For Azure Cloud Analytics And Data Analytics"
-    excerpt: "TekLink International Inc., a respected leader in Cloud Platforms, Business and Financial Planning Solutions, and"
-    publishedDateTime: 2020-08-07T18:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/08/n16992431/teklink-international-inc-is-now-a-microsoft-gold-partner-for-azure-cloud-analytics-and-data-analy"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/16992431"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16992431"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 21
-  - title: "UK’s first electric car charging forecourt opens to the public, powered by Microsoft Azure and Dynamics"
-    excerpt: "All the energy is sourced from a 10 MWp solar farm 44 miles away that can produce enough energy to drive 5,000 electric cars every year."
-    publishedDateTime: 2020-12-07T10:43:00Z
-    webUrl: "https://news.microsoft.com/en-gb/2020/12/07/uks-first-electric-car-charging-forecourt-opens-to-the-public-powered-by-microsoft-azure-and-dynamics/"
+  - title: "Learn how to deliver insights faster with Azure Synapse Analytics"
+    excerpt: "Today, it’s even more critical to have a data-driven culture. Analytics and AI play a pivotal role in helping businesses make insights-driven decisions—decisions to transform supply chains, develop new ways to interact with customers, and evaluate new offerings.\r\n\r\nMany organizations are turning to cloud"
+    publishedDateTime: 2020-05-12T11:00:20Z
+    webUrl: "https://azure.microsoft.com/blog/learn-how-to-deliver-insights-faster-with-azure-synapse-analytics/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 21
+    quality: 37
     images:
-      - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/68/2020/12/GS-EF-Braintree-093-1600x1067.jpg"
-        width: 1600
-        height: 1067
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/0adb1254-ac39-4dcf-8405-8a453b2ff566.png"
+        width: 1024
+        height: 576
         isCached: true
-  - title: "CMC Networks starts direct access to Microsoft Azure peering service"
-    excerpt: "Global telecom carrier CMC Networks said it now provides direct access to the Microsoft Azure Peering Service, further increasing access to its range of cloud services. Clients will be able to benefit from a low latency and SLA-backed,"
-    publishedDateTime: 2020-11-26T14:22:00Z
-    webUrl: "https://www.telecompaper.com/news/cmc-networks-starts-direct-access-to-microsoft-azure-peering-service--1363427"
+  - title: "Azure Analytics: Clarity in an instant"
+    excerpt: "What 2020 is teaching us is that the world can change in an instant. In the span of a few months, we have witnessed massive disruptions across every industry around the globe. Factories are idle, hotels are empty, and the transportation backbone that connects us all is quiet. Navigating these unprecedented"
+    publishedDateTime: 2020-05-19T08:00:13Z
+    webUrl: "https://azure.microsoft.com/blog/azure-analytics-clarity-in-an-instant/"
     type: article
     provider:
-      name: Telecompaper
-      domain: telecompaper.com
+      name: Microsoft
+      domain: microsoft.com
+    quality: 37
+    images:
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/849b9325-2b7b-4f90-9aee-4ff7f5e66354.gif"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "Azure Synapse Analytics: Insights for all"
+    excerpt: "In November we announced Azure Synapse Analytics—a limitless analytics service that brings together enterprise data warehousing and big data analytics. Despite the massive disruptions occurring throughout industries in recent months, we continue to see a high level of excitement and enthusiasm for joining"
+    publishedDateTime: 2020-05-21T08:30:41Z
+    webUrl: "https://azure.microsoft.com/blog/azure-synapse-analytics-insights-for-all/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 37
+    images:
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/19cd7b32-501a-4032-8fa8-ed2bd9a28d03.gif"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "Microsoft boosts Azure with new edge video analytics and authentication features"
+    excerpt: "Microsoft Corp. today introduced a new edge video analytics product for its Azure cloud platform, as well as improved authentication features to help organizations better address the shift to remote work. There’s a growing trend of analytics workloads moving from data centers to the so-called edge of the network. A manufacturer, for instance ..."
+    publishedDateTime: 2020-06-11T20:01:00Z
+    webUrl: "https://siliconangle.com/2020/06/11/microsoft-boosts-azure-new-edge-video-analytics-authentication-features/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 32
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/06/microsoft.png"
+        width: 761
+        height: 400
+        isCached: true
+  - title: "Save up to 76 percent on Azure Synapse Analytics and gain breathtaking insights of your ERP data"
+    excerpt: "To help customers save on data warehouse migration costs and accelerate time-to-insight on critical SAP data, we are announcing two new analytics offers from Azure Synapse Analytics."
+    publishedDateTime: 2020-07-15T09:00:28Z
+    webUrl: "https://azure.microsoft.com/blog/save-up-to-76-percent-on-azure-synapse-analytics-and-gain-breathtaking-insights-of-your-erp-data/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 24
+    images:
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/2f43204b-76ea-4b9b-b1cb-18a606a9fbea.png"
+        width: 1008
+        height: 563
+        isCached: true
+  - title: "Azure Synapse Analytics meter ID changes effective as of July 1, 2020"
+    excerpt: ""
+    publishedDateTime: 2020-05-26T18:00:04Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-synapse-analytics-meter-id-changes/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
     quality: 17
+  - title: "Azure Text Analytics v3 is now generally available"
+    excerpt: ""
+    publishedDateTime: 2020-05-29T21:00:32Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/text-analytics-v3-is-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 17
+  - title: "Azure Analytics Data Bricks Meters"
+    excerpt: "Effective September 1, 2020 Azure Analytics Data Bricks Meters will have a name change."
+    publishedDateTime: 2020-07-30T17:00:10Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-analytics-data-bricks-meters/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 17
+  - title: "Azure Stream Analytics now supports error codes in activity and resource logs"
+    excerpt: ""
+    publishedDateTime: 2020-05-20T20:00:30Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-stream-analytics-now-supports-error-codes-in-activity-and-resource-logs/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 14
+  - title: "Minimal TLS version setting is now available for Azure SQL Database and Azure Synapse Analytics "
+    excerpt: ""
+    publishedDateTime: 2020-05-26T12:00:01Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/sqldb-minimal-tls-version/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 4
+  - title: "Live Video Analytics now in public preview"
+    excerpt: "Live Video Analytics is a platform to capture, record, and analyze live video and publish the results (video and/or video analytics), enabling intelligent video applications."
+    publishedDateTime: 2020-06-11T20:00:11Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/live-video-analytics-now-in-public-preview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 2
+  - title: "Text Analytics for health is now available in preview"
+    excerpt: "The health feature of Text Analytics uses natural language processing techniques to find and label valuable information in unstructured clinical documents such as doctor’s notes, discharge summaries, clinical documents, and electronic health records."
+    publishedDateTime: 2020-07-08T16:00:19Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/the-health-feature-of-text-analytics-is-now-available-in-preview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 2
 
 secured: "xiVthWT8SlKl4un1RnRriB+41n5D/BdGObMYsbMIhzLC5qntoIy3t2pG89kMgVX7KNftIXQI2piB7AlXkqNQKiQ4AI/RUzBGZ46Ss0/AwT7NnBD6apEejymL+KzRWH38tmGyXLabcofExCwHTYT9mSEnwJjjdfeo/foMX02+Lpw+URvGw2p4M8i2bnJ/5QoaaA1alrGa2X0IUmGHNKDb61CgRdEILbV34Sv0o7srpdaP1Y6t+5oCznGB8Dvv0K899/pe+UEOlrdKmexjjV1iPH61lbAdmAE5HZvfPsw0jB9VBpcr7K6iQUJ5sDhu2Q9y3d5u7ZUSG3k+oYZAfFRbtX6C1OdBnML0lKxsccy8xl+aDzdL0zexiICsusWqnixFhCqDx1d0kO2ePHoF2Nt91npezjFoM1te3bQA8szVoSaKfJMWMT7YqsOlKV52X+m1KvMSJ1ML72ugYTcl0CoSu2C4UTXqrEhk08Sm4MgckP4=;I00VVGYnP2Rw0wj6F+0p+Q=="
 ---

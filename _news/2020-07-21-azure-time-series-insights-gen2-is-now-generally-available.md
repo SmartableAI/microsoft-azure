@@ -35,20 +35,6 @@ related:
         width: 1024
         height: 572
         isCached: true
-  - title: "Save up to 76 percent on Azure Synapse Analytics and gain breathtaking insights of your ERP data"
-    excerpt: "To help customers save on data warehouse migration costs and accelerate time-to-insight on critical SAP data, we are announcing two new analytics offers from Azure Synapse Analytics."
-    publishedDateTime: 2020-07-15T09:00:28Z
-    webUrl: "https://azure.microsoft.com/blog/save-up-to-76-percent-on-azure-synapse-analytics-and-gain-breathtaking-insights-of-your-erp-data/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 24
-    images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/2f43204b-76ea-4b9b-b1cb-18a606a9fbea.png"
-        width: 1008
-        height: 563
-        isCached: true
   - title: "Azure Stream Analytics is now available in the US Gov Arizona region"
     excerpt: "Azure Stream Analytics, a real-time analytics service that is designed for mission-critical workloads, is now available in the US Gov Arizona region. \n"
     publishedDateTime: 2020-07-23T23:00:08Z
