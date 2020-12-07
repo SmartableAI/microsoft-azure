@@ -4,6 +4,51 @@
   "page": 1,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-create-your-first-app-with-azure-maps.md",
+      "title": "Create your first route finding app with Azure Maps",
+      "excerpt": "Learn about writing code to interact with Azure Maps. Develop and test a fun app using JavaScript and Visual Studio Code to find the best route for a truck, car, or bicycle. The route is from the west coast of the USA, to the east coast. You will see how routes change based on vehicle. And, for trucks, how routes vary if the contents are hazardous. You will get the chance to add in your own locations.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-create-your-first-app-with-azure-maps/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-your-first-app-with-azure-maps/",
+      "length": "PT45M",
+      "ratings": {
+        "count": 16,
+        "average": 4.75
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 130,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/iot/create-your-first-app-with-azure-maps-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "IoT",
+        "Mobile",
+        "Web"
+      ]
+    },
+    {
       "path": "_learning/collections/microsoft-learn-azure-fundamentals-part-2-describe-core-azure-services.md",
       "title": "Azure Fundamentals part 2: Describe core Azure services",
       "excerpt": "This learning path provides you with an introduction to the basics of Azure's core services for compute, network, storage, and database.",
@@ -34,8 +79,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/",
           "length": "PT36M",
           "ratings": {
-            "count": 7731,
-            "average": 4.7795887
+            "count": 7765,
+            "average": 4.7793946
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -76,8 +121,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
           "length": "PT39M",
           "ratings": {
-            "count": 1577,
-            "average": 4.7349396
+            "count": 1581,
+            "average": 4.7356105
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -122,8 +167,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-compute-fundamentals/",
           "length": "PT52M",
           "ratings": {
-            "count": 1342,
-            "average": 4.768256
+            "count": 1347,
+            "average": 4.7691164
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -167,8 +212,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-storage-fundamentals/",
           "length": "PT27M",
           "ratings": {
-            "count": 1046,
-            "average": 4.7676864
+            "count": 1048,
+            "average": 4.76813
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -277,8 +322,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-compute-fundamentals/",
       "length": "PT52M",
       "ratings": {
-        "count": 1342,
-        "average": 4.768256
+        "count": 1347,
+        "average": 4.7691164
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -347,8 +392,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-security/",
           "length": "PT1H2M",
           "ratings": {
-            "count": 2741,
-            "average": 4.7227287
+            "count": 2742,
+            "average": 4.72283
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -391,8 +436,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/top-5-security-items-to-consider/",
           "length": "PT45M",
           "ratings": {
-            "count": 6624,
-            "average": 4.655495
+            "count": 6625,
+            "average": 4.6553965
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -989,8 +1034,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-containers/",
           "length": "PT57M",
           "ratings": {
-            "count": 2912,
-            "average": 4.6102333
+            "count": 2914,
+            "average": 4.610158
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1023,8 +1068,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/run-docker-with-azure-container-instances/",
           "length": "PT48M",
           "ratings": {
-            "count": 6126,
-            "average": 4.713516
+            "count": 6127,
+            "average": 4.7134
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1059,8 +1104,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-and-store-container-images/",
           "length": "PT49M",
           "ratings": {
-            "count": 2420,
-            "average": 4.617769
+            "count": 2421,
+            "average": 4.6175137
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1167,8 +1212,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-introduction/",
           "length": "PT1H4M",
           "ratings": {
-            "count": 1158,
-            "average": 4.7392054
+            "count": 1159,
+            "average": 4.7394304
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1474,8 +1519,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/integrate-vnets-with-vnet-peering/",
           "length": "PT42M",
           "ratings": {
-            "count": 2913,
-            "average": 4.7288017
+            "count": 2914,
+            "average": 4.728895
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1817,8 +1862,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-your-migration-to-azure/",
           "length": "PT44M",
           "ratings": {
-            "count": 2016,
-            "average": 4.654266
+            "count": 2017,
+            "average": 4.654437
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1946,8 +1991,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-virtual-machines-with-azure-backup/",
           "length": "PT35M",
           "ratings": {
-            "count": 4524,
-            "average": 4.744032
+            "count": 4525,
+            "average": 4.744088
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2469,8 +2514,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/prepare-your-dev-environment-for-azure-development/",
           "length": "PT28M",
           "ratings": {
-            "count": 4973,
-            "average": 4.695355
+            "count": 4974,
+            "average": 4.695416
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2881,8 +2926,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/migrate-sql-server-relational-data/",
           "length": "PT1H24M",
           "ratings": {
-            "count": 1046,
-            "average": 4.4273424
+            "count": 1047,
+            "average": 4.4278893
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3634,56 +3679,6 @@
         "Azure",
         "Compute",
         "Web"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-azure-well-architected-performance-efficiency.md",
-      "title": "Microsoft Azure Well-Architected Framework - Performance efficiency",
-      "excerpt": "Learn how to adjust your capacity based on workload and how to optimize network performance, storage, and database performance.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-azure-well-architected-performance-efficiency/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-performance-efficiency/",
-      "length": "PT48M",
-      "ratings": {
-        "count": 550,
-        "average": 4.703636
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/azure-well-architected-performance-efficiency-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Networking",
-        "Web",
-        "Compute",
-        "Databases",
-        "Serverless",
-        "Containers",
-        "DevOps",
-        "Management Tools"
       ]
     }
   ],
