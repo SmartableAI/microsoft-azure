@@ -1,26 +1,27 @@
 ---
 category: news
-title: "AirHop Communications Brings Real-Time 5G Network Intelligence Solution to Microsoft Azure 4G/5G"
-excerpt: "AirHop Communications, a leader in 4G and 5G Network Intelligence software platforms and solutions, today announced the integration of its solutions with Microsoft Azure platforms. The integration of AirHop’s eSON platform enables network deployments with Microsoft Azure platforms (cloud,"
-publishedDateTime: 2020-12-03T19:35:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-north-america-products-and-services-eb13cfc4af744e8e870847a7a002c878"
-webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-north-america-products-and-services-eb13cfc4af744e8e870847a7a002c878"
+title: "Telecom Provider Migrates Confidently to Microsoft Azure with Fortinet’s Dynamic Cloud Security Solutions"
+excerpt: "For telecommunications providers, it is critical to remain agile and keep pace with the evolving requirements of their customers while also ensuring security and business continuity."
+publishedDateTime: 2020-12-07T14:54:00Z
+originalUrl: "https://www.csoonline.com/article/3600428/telecom-provider-migrates-confidently-to-microsoft-azure-with-fortinet-s-dynamic-cloud-security-sol.html"
+webUrl: "https://www.csoonline.com/article/3600428/telecom-provider-migrates-confidently-to-microsoft-azure-with-fortinet-s-dynamic-cloud-security-sol.html"
 type: article
-quality: 24
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: CSOonline
+  domain: csoonline.com
 
 topics:
   - Azure
+  - Security
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://images.idgesg.net/images/article/2020/12/digital-cloud-computing-cyber-security-digital-data-network-future-picture-id1216520824-100869764-large.jpg"
+    width: 1200
+    height: 800
     isCached: true
 
 related:
@@ -68,19 +69,19 @@ related:
         width: 1200
         height: 627
         isCached: true
-  - title: "Telecom Provider Migrates Confidently to Microsoft Azure with Fortinet’s Dynamic Cloud Security Solutions"
-    excerpt: "For telecommunications providers, it is critical to remain agile and keep pace with the evolving requirements of their customers while also ensuring security and business continuity."
-    publishedDateTime: 2020-12-07T14:54:00Z
-    webUrl: "https://www.csoonline.com/article/3600428/telecom-provider-migrates-confidently-to-microsoft-azure-with-fortinet-s-dynamic-cloud-security-sol.html"
+  - title: "AirHop Communications Brings Real-Time 5G Network Intelligence Solution to Microsoft Azure 4G/5G"
+    excerpt: "AirHop Communications, a leader in 4G and 5G Network Intelligence software platforms and solutions, today announced the integration of its solutions with Microsoft Azure platforms. The integration of AirHop’s eSON platform enables network deployments with Microsoft Azure platforms (cloud,"
+    publishedDateTime: 2020-12-03T19:35:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-north-america-products-and-services-eb13cfc4af744e8e870847a7a002c878"
     type: article
     provider:
-      name: CSOonline
-      domain: csoonline.com
-    quality: 37
+      name: Associated Press
+      domain: apnews.com
+    quality: 24
     images:
-      - url: "https://images.idgesg.net/images/article/2020/12/digital-cloud-computing-cyber-security-digital-data-network-future-picture-id1216520824-100869764-large.jpg"
-        width: 1200
-        height: 800
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
   - title: "Beabloo Promotes Interaction Care: the Solution that Reduces the Risk of COVID-19 Infection, via the Microsoft Azure Cloud"
     excerpt: "Beabloo Promotes Interaction Care: the Solution that Reduces the Risk of COVID-19 Infection, via the Microsoft Azure Cloud By 1 - The retail tech companys solution uses real-time alerts to avoid high-risk interactions and boost security in public"
@@ -97,6 +98,6 @@ related:
         height: 350
         isCached: true
 
-secured: "S3MkQF4dazWYTY4AjANLT6LNlFQi9a5TgUkG0akjuKWLjTTlgHMrlHImCPJgQGfE7hxWVn7WVDuIlKkuwwQdF3sdpiOI3nSLQPFHS1UfDgHC8qPcVTO9TQW7wlhqZpgPSSYA4lvaa3ssx64nr/c+WBGjZoPbKqr9/r/zac+EGiHFq3DEBnWMH94YHXmLE/jpI/jl9AOgzW/HAJafZ7b0+twvIvbx05zUtkKGcFmqyaGi7Y9eahUu21bMJlFQCwNqvOgWUK7xU1t21Iikn7FGJzoKaX3I9Th9Oz9ynXYYc9QFWnqhOJnHvjVnYGqnTGJdj5SI4EXa2msut+6MxozdoaYC024ihQYDwxY2g6TuEqg=;bCptJBdFMTMXvHkkm1OUYw=="
+secured: "se9j2/aWivZvaWc9Td5wdm/niRL9OTRJIb9kcR5L7+HUOHgYdE5J1gzbRwhPCWtO+hB31vElpmjlvqj6HQM3j8eImzD+ynJK1zsIr1XG0e0JQ2rsciIkaf2bYo9Adb0nEirAJ2gRW3b9UuGFJ8Ty+/ij227cQRGU1wfAmzMTj+aaFgj70LacZc698Slcxforg6TH0cfgnVR2GzYfPlayt0yey6dv1UQk1jMyUykYmInrmMwOFDVbd6S9wTEcTsL6ICwA2pgGHRrLION1jt1ow2BXvAZsItPjthXxCHu/5LMOcRb0Ak9uIecLRRy+UE5MZqvcFAta7zQepaVepkcS516svVmPoSlxtatosi/ORe8=;jMGcys7bU9mo3KYqHmSaWQ=="
 ---
 

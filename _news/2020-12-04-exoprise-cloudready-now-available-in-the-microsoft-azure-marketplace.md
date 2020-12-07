@@ -54,6 +54,20 @@ related:
         width: 1200
         height: 627
         isCached: true
+  - title: "Telecom Provider Migrates Confidently to Microsoft Azure with Fortinet’s Dynamic Cloud Security Solutions"
+    excerpt: "For telecommunications providers, it is critical to remain agile and keep pace with the evolving requirements of their customers while also ensuring security and business continuity."
+    publishedDateTime: 2020-12-07T14:54:00Z
+    webUrl: "https://www.csoonline.com/article/3600428/telecom-provider-migrates-confidently-to-microsoft-azure-with-fortinet-s-dynamic-cloud-security-sol.html"
+    type: article
+    provider:
+      name: CSOonline
+      domain: csoonline.com
+    quality: 37
+    images:
+      - url: "https://images.idgesg.net/images/article/2020/12/digital-cloud-computing-cyber-security-digital-data-network-future-picture-id1216520824-100869764-large.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "AirHop Communications Brings Real-Time 5G Network Intelligence Solution to Microsoft Azure 4G/5G"
     excerpt: "AirHop Communications, a leader in 4G and 5G Network Intelligence software platforms and solutions, today announced the integration of its solutions with Microsoft Azure platforms. The integration of AirHop’s eSON platform enables network deployments with Microsoft Azure platforms (cloud,"
     publishedDateTime: 2020-12-03T19:35:00Z
