@@ -4,6 +4,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-intro-to-hpc.md",
+      "title": "Introduction to high-performance computing (HPC) on Azure",
+      "excerpt": "Discover the services available on Azure for your high-performance computing workloads.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-to-hpc/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-hpc/",
+      "length": "PT50M",
+      "ratings": {
+        "count": 1072,
+        "average": 4.579291
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/intro-to-hpc-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Compute"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-java-target-destinations.md",
       "title": "Choose an Azure service for deploying your Java application",
       "excerpt": "In this tutorial, you'll learn about running your Java applications on Azure, and choose the best option between Virtual Machines, Azure App Services, Serverless functions, Kubernetes and Azure Spring Cloud.",
@@ -591,8 +634,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-virtual-machines-with-azure-backup/",
       "length": "PT35M",
       "ratings": {
-        "count": 4521,
-        "average": 4.7440834
+        "count": 4522,
+        "average": 4.7441397
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -982,8 +1025,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/run-web-app-background-task-with-webjobs/",
       "length": "PT39M",
       "ratings": {
-        "count": 675,
-        "average": 4.3881483
+        "count": 676,
+        "average": 4.3890533
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1254,51 +1297,6 @@
       "topics": [
         "Azure",
         "Management Tools",
-        "Compute"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-upgrade-migrate-windows-server-iaas-virtual-machines.md",
-      "title": "Upgrade and migrate Windows Server IaaS virtual machines",
-      "excerpt": "Learn to migrate a workload running in Windows Server to an infrastructure as a service (IaaS) virtual machine (VM) and to Windows Server 2019 by using Windows Server migration tools or the Storage Migration Service.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-upgrade-migrate-windows-server-iaas-virtual-machines/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/upgrade-migrate-windows-server-iaas-virtual-machines/",
-      "length": "PT53M",
-      "ratings": {
-        "count": 10,
-        "average": 4.8
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Management Tools",
-        "Storage",
         "Compute"
       ]
     }

@@ -35,8 +35,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-a-messaging-model-in-azure-to-connect-your-services/",
           "length": "PT45M",
           "ratings": {
-            "count": 3338,
-            "average": 4.5874777
+            "count": 3339,
+            "average": 4.587601
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -142,8 +142,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/enable-reliable-messaging-for-big-data-apps-using-event-hubs/",
           "length": "PT56M",
           "ratings": {
-            "count": 1997,
-            "average": 4.4461694
+            "count": 1998,
+            "average": 4.4464464
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1073,8 +1073,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/prepare-your-dev-environment-for-azure-development/",
           "length": "PT28M",
           "ratings": {
-            "count": 4968,
-            "average": 4.695451
+            "count": 4970,
+            "average": 4.6955733
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1108,8 +1108,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/host-a-web-app-with-azure-app-service/",
           "length": "PT58M",
           "ratings": {
-            "count": 5365,
-            "average": 4.6087604
+            "count": 5366,
+            "average": 4.6082745
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1145,8 +1145,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/publish-azure-web-app-with-visual-studio/",
           "length": "PT48M",
           "ratings": {
-            "count": 3046,
-            "average": 4.669074
+            "count": 3047,
+            "average": 4.669183
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2484,215 +2484,6 @@
       ],
       "size": 5,
       "heat": 60,
-      "content": "\r\n",
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_learning/collections/microsoft-learn-foundations-of-data-science.md",
-      "title": "Foundations of data science",
-      "excerpt": "Learn python programming and data science together with UC Berkeley's data 8: foundations of data science course",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-foundations-of-data-science/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-foundations-of-data-science/",
-      "length": "PT12H53M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "topItems": [
-        {
-          "path": "_learning/courses/microsoft-learn-learn-data-science-method.md",
-          "title": "Learn the data science method",
-          "excerpt": "Learn about the history and motivation behind data science",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-learn-data-science-method/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/learn-data-science-method/",
-          "length": "PT34M",
-          "ratings": {
-            "count": 404,
-            "average": 4.732673
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 52,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/student-evangelism/learn-data-science-method-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-introduction-python-using-datascience-library.md",
-          "title": "Introduction to Python using the datascience library",
-          "excerpt": "Learn about Python expressions, functions, basic data types(numbers, strings), and comparisons",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-introduction-python-using-datascience-library/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-python-using-datascience-library/",
-          "length": "PT1H28M",
-          "ratings": {
-            "count": 226,
-            "average": 4.6460176
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/student-evangelism/introduction-python-using-datascience-library-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-create-manipulate-tables-using-datascience-library.md",
-          "title": "Create and manipulate tables using the datascience library",
-          "excerpt": "Learn the basics of table manipulation in the datascience library",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-create-manipulate-tables-using-datascience-library/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-manipulate-tables-using-datascience-library/",
-          "length": "PT1H32M",
-          "ratings": {
-            "count": 112,
-            "average": 4.732143
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/student-evangelism/create-manipulate-tables-using-datascience-library-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-design-plot-graphs-python.md",
-          "title": "Design and plot graphs in Python",
-          "excerpt": "Learn",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-design-plot-graphs-python/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-plot-graphs-python/",
-          "length": "PT52M",
-          "ratings": {
-            "count": 96,
-            "average": 4.6666665
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/student-evangelism/design-plot-graphs-python-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure"
-          ]
-        }
-      ],
-      "size": 12,
-      "heat": 60,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/student-evangelism/learn-data-science-method-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
       "content": "\r\n",
       "type": "collection",
       "price": "Free",
@@ -6329,6 +6120,220 @@
       "price": "Free",
       "topics": [
         "Azure"
+      ]
+    },
+    {
+      "path": "_learning/collections/microsoft-learn-realize-integrated-analytical-solutions-with-azure-synapse-analytics.md",
+      "title": "Realize Integrated Analytical Solutions with Azure Synapse Analytics",
+      "excerpt": "Realize Integrated Analytical Solutions with Azure Synapse Analytics",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-realize-integrated-analytical-solutions-with-azure-synapse-analytics/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-realize-integrated-analytical-solutions-with-azure-synapse-analytics/",
+      "length": "PT3H10M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-introduction-to-azure-synapse-analytics.md",
+          "title": "Introduction to Azure Synapse Analytics",
+          "excerpt": "Introduction to Azure Synapse Analytics",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-introduction-to-azure-synapse-analytics/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-azure-synapse-analytics/",
+          "length": "PT26M",
+          "ratings": {
+            "count": 12,
+            "average": 4.8333335
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/introduction-to-azure-synapse-analytics-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Analytics"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-survey-components-of-azure-synapse-analytics.md",
+          "title": "Survey the Components of Azure Synapse Analytics",
+          "excerpt": "Survey the Components of Azure Synapse Analytics",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-survey-components-of-azure-synapse-analytics/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/survey-components-of-azure-synapse-analytics/",
+          "length": "PT1H5M",
+          "ratings": {
+            "count": 7,
+            "average": 4.285714
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/survey-the-components-of-azure-synapse-analytics-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Analytics"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-explore-azure-synapse-studio.md",
+          "title": "Explore Azure Synapse Studio",
+          "excerpt": "Explore Azure Synapse Studio",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-explore-azure-synapse-studio/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-azure-synapse-studio/",
+          "length": "PT43M",
+          "ratings": {
+            "count": 7,
+            "average": 4.428571
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/explore-azure-synapse-studio-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Analytics"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-design-modern-data-warehouse-using-azure-synapse-analytics.md",
+          "title": "Design a Modern Data Warehouse using Azure Synapse Analytics",
+          "excerpt": "Learn how Azure Synapse Analytics enables you to build Data Warehouses using modern architecture patterns.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-design-modern-data-warehouse-using-azure-synapse-analytics/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-modern-data-warehouse-using-azure-synapse-analytics/",
+          "length": "PT56M",
+          "ratings": {
+            "count": 7,
+            "average": 4.571429
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/design-a-modern-data-warehouse-using-azure-synapse-analytics-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Analytics"
+          ]
+        }
+      ],
+      "size": 4,
+      "heat": 60,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/introduction-to-azure-synapse-analytics-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Analytics"
       ]
     }
   ],

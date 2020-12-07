@@ -628,8 +628,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/",
       "length": "PT36M",
       "ratings": {
-        "count": 7539,
-        "average": 4.777557
+        "count": 7546,
+        "average": 4.7776303
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -739,15 +739,15 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-cmu-share-cloud-resources.md",
-      "title": "Share cloud resources",
-      "excerpt": "Carnegie Mellon University's Cloud Developer course. Get an introduction to virtualization, one of the many technologies that power the cloud. Learn what virtualization is, its benefits, and how cloud resources are shared.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-cmu-share-cloud-resources/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/cmu-share-cloud-resources/",
-      "length": "PT54M",
+      "path": "_learning/courses/microsoft-learn-introduction-python-using-datascience-library.md",
+      "title": "Introduction to Python using the datascience library",
+      "excerpt": "Learn about Python expressions, functions, basic data types(numbers, strings), and comparisons",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-introduction-python-using-datascience-library/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-python-using-datascience-library/",
+      "length": "PT1H28M",
       "ratings": {
-        "count": 111,
-        "average": 4.5405407
+        "count": 226,
+        "average": 4.6460176
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -767,9 +767,9 @@
       "heat": 130,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/cmu-cloud-developer/share-cloud-resources-social.png",
-          "width": 1000,
-          "height": 500,
+          "url": "https://docs.microsoft.com/learn/achievements/student-evangelism/introduction-python-using-datascience-library-social.png",
+          "width": 640,
+          "height": 320,
           "isCached": true
         }
       ],
@@ -781,16 +781,18 @@
       ]
     },
     {
-      "path": "_learning/videos/microsoft-azure-load-balancer-insights-using-azure-monitor-for-networks-azure-friday.md",
-      "title": "Azure Load Balancer insights using Azure Monitor for Networks | Azure Friday",
-      "excerpt": "Erich Robinson-Tillenburg joins Scott Hanselman to demo and explain health monitoring and configuration analysis for Azure Load Balancer using Azure Monitor for Networks, a central hub that provides access to health and connectivity monitoring for all your network resources.  0:00 – Overview 1:16 – Load",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-azure-load-balancer-insights-using-azure-monitor-for-networks-azure-friday/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-azure-load-balancer-insights-using-azure-monitor-for-networks-azure-friday/",
-      "originalUrl": "https://youtube.com/watch?v=qfzOTNKYTgU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/qfzOTNKYTgU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT15M15S",
+      "path": "_learning/courses/microsoft-learn-monitor-azure-cosmos-db.md",
+      "title": "Optimize the performance of Azure Cosmos DB by using partitioning and indexing strategies",
+      "excerpt": "Learn how to measure the performance of your NoSQL Azure Cosmos DB database, by monitoring, partitioning, and indexing",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-monitor-azure-cosmos-db/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/monitor-and-scale-cosmos-db/",
+      "length": "PT1H16M",
+      "ratings": {
+        "count": 1139,
+        "average": 4.6119404
+      },
       "provider": {
-        "name": "Microsoft",
+        "name": "Microsoft Learn",
         "domain": "microsoft.com",
         "images": [
           {
@@ -801,34 +803,27 @@
           }
         ]
       },
-      "publishedDateTime": "2020-10-02T08:55:07-07:00",
-      "heat": 130,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/qfzOTNKYTgU/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
+      "levels": [
+        "Intermediate"
       ],
+      "heat": 130,
       "content": "\r\n",
-      "type": "video",
+      "type": "course",
       "price": "Free",
       "topics": [
         "Azure",
-        "Networking",
-        "DevOps"
+        "Databases"
       ]
     },
     {
-      "path": "_learning/videos/microsoft-blazor-and-azure-functions-for-serverless-websites-azure-tips-and-tricks.md",
-      "title": "Blazor and Azure Functions for Serverless Websites | Azure Tips and Tricks",
-      "excerpt": "In this video, you'll learn about Blazor and Azure Functions for Serverless Websites.   For more tips and tricks, visit: https://aka.ms/azuretipsandtricks   Get started with 12 months of free services and $200 USD in credit. Create your free account today with Microsoft Azure: https://azure.com/free",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-blazor-and-azure-functions-for-serverless-websites-azure-tips-and-tricks/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-blazor-and-azure-functions-for-serverless-websites-azure-tips-and-tricks/",
-      "originalUrl": "https://youtube.com/watch?v=QeSNtE4HnZY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/QeSNtE4HnZY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT4M36S",
+      "path": "_learning/videos/microsoft-how-to-create-and-manage-an-app-service-domain-azure-portal-series.md",
+      "title": "How to create and manage an App Service Domain | Azure Portal Series",
+      "excerpt": "In this video, learn about the advantages of using an App Service Domain and how to create an App Service Domain using the Azure portal.   Try out these features in the Azure portal: https://portal.azure.com  Keep connected on Twitter: https://twitter.com/AzurePortal  And make sure to keep an eye on",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-how-to-create-and-manage-an-app-service-domain-azure-portal-series/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-how-to-create-and-manage-an-app-service-domain-azure-portal-series/",
+      "originalUrl": "https://youtube.com/watch?v=b1kDT8-6a3g",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/b1kDT8-6a3g\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M34S",
       "provider": {
         "name": "Microsoft",
         "domain": "microsoft.com",
@@ -841,11 +836,11 @@
           }
         ]
       },
-      "publishedDateTime": "2020-09-08T08:32:31-07:00",
+      "publishedDateTime": "2020-09-22T18:33:05-07:00",
       "heat": 130,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/QeSNtE4HnZY/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/b1kDT8-6a3g/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -856,7 +851,8 @@
       "price": "Free",
       "topics": [
         "Azure",
-        "Serverless"
+        "Management tools",
+        "Compute"
       ]
     },
     {
@@ -964,8 +960,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-an-azure-account/",
           "length": "PT39M",
           "ratings": {
-            "count": 137733,
-            "average": 4.699651
+            "count": 137734,
+            "average": 4.699653
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1104,8 +1100,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/",
           "length": "PT36M",
           "ratings": {
-            "count": 7539,
-            "average": 4.777557
+            "count": 7546,
+            "average": 4.7776303
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1146,8 +1142,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/fundamental-azure-concepts/",
           "length": "PT24M",
           "ratings": {
-            "count": 3701,
-            "average": 4.8062687
+            "count": 3706,
+            "average": 4.80599
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1190,8 +1186,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-architecture-fundamentals/",
           "length": "PT34M",
           "ratings": {
-            "count": 1894,
-            "average": 4.812038
+            "count": 1896,
+            "average": 4.811709
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1254,8 +1250,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/fundamental-azure-concepts/",
       "length": "PT24M",
       "ratings": {
-        "count": 3701,
-        "average": 4.8062687
+        "count": 3706,
+        "average": 4.80599
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1513,8 +1509,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/",
           "length": "PT36M",
           "ratings": {
-            "count": 7539,
-            "average": 4.777557
+            "count": 7546,
+            "average": 4.7776303
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1555,8 +1551,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
           "length": "PT39M",
           "ratings": {
-            "count": 1538,
-            "average": 4.736671
+            "count": 1541,
+            "average": 4.7371836
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1601,8 +1597,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-compute-fundamentals/",
           "length": "PT52M",
           "ratings": {
-            "count": 1312,
-            "average": 4.7644815
+            "count": 1314,
+            "average": 4.76484
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1646,8 +1642,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-storage-fundamentals/",
           "length": "PT27M",
           "ratings": {
-            "count": 1020,
-            "average": 4.762745
+            "count": 1023,
+            "average": 4.763441
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1953,8 +1949,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-an-azure-account/",
           "length": "PT39M",
           "ratings": {
-            "count": 137733,
-            "average": 4.699651
+            "count": 137734,
+            "average": 4.699653
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2152,8 +2148,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/",
           "length": "PT36M",
           "ratings": {
-            "count": 7539,
-            "average": 4.777557
+            "count": 7546,
+            "average": 4.7776303
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2194,8 +2190,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-machine-learning-fundamentals/",
           "length": "PT23M",
           "ratings": {
-            "count": 910,
-            "average": 4.7351646
+            "count": 911,
+            "average": 4.7354555
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2237,8 +2233,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-devops-devtest-labs/",
           "length": "PT21M",
           "ratings": {
-            "count": 733,
-            "average": 4.718963
+            "count": 734,
+            "average": 4.719346
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2518,8 +2514,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-monitoring-strategy-on-azure/",
           "length": "PT57M",
           "ratings": {
-            "count": 1603,
-            "average": 4.5932627
+            "count": 1604,
+            "average": 4.5935163
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2563,8 +2559,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/incident-response-with-alerting-on-azure/",
           "length": "PT53M",
           "ratings": {
-            "count": 1955,
-            "average": 4.644501
+            "count": 1956,
+            "average": 4.644683
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2661,8 +2657,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
       "length": "PT39M",
       "ratings": {
-        "count": 1538,
-        "average": 4.736671
+        "count": 1541,
+        "average": 4.7371836
       },
       "provider": {
         "name": "Microsoft Learn",

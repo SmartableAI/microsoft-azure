@@ -4,41 +4,6 @@
   "page": 31,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-provision-infrastructure-azure-pipelines.md",
-      "title": "Provision infrastructure in Azure Pipelines",
-      "excerpt": "Learn how infrastructure as code enables you to describe and automatically provision the infrastructure that you need for your application.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-provision-infrastructure-azure-pipelines/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/provision-infrastructure-azure-pipelines/",
-      "length": "PT2H2M",
-      "ratings": {
-        "count": 399,
-        "average": 4.6766915
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "DevOps"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-publish-app-with-maven-plugin-for-azure-web-apps.md",
       "title": "Publish a web app to Azure by using the Maven Plugin for Azure App Service",
       "excerpt": "Use the Maven plugin for Azure App Service to develop a Java web app and deploy the app to Azure.",
@@ -176,8 +141,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/publish-azure-web-app-with-visual-studio/",
       "length": "PT48M",
       "ratings": {
-        "count": 3046,
-        "average": 4.669074
+        "count": 3047,
+        "average": 4.669183
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -997,8 +962,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/resolve-threats-with-azure-security-center/",
       "length": "PT44M",
       "ratings": {
-        "count": 1156,
-        "average": 4.5709343
+        "count": 1157,
+        "average": 4.5713053
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1126,8 +1091,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/responsible-ai-governing-practices/",
       "length": "PT35M",
       "ratings": {
-        "count": 400,
-        "average": 4.765
+        "count": 401,
+        "average": 4.765586
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1244,6 +1209,41 @@
       "price": "Free",
       "topics": [
         "Azure"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-responsible-conversational-ai.md",
+      "title": "Discover Microsoft guidelines for responsible conversational AI development",
+      "excerpt": "Learn Microsoft guidelines for the development of responsible conversational AI, such as chat bots and voice-controlled systems.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-responsible-conversational-ai/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/responsible-conversational-ai/",
+      "length": "PT39M",
+      "ratings": {
+        "count": 19,
+        "average": 4.7894735
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "AI"
       ]
     }
   ],

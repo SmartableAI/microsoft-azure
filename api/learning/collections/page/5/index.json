@@ -4,12 +4,12 @@
   "page": 5,
   "value": [
     {
-      "path": "_learning/collections/microsoft-learn-realize-integrated-analytical-solutions-with-azure-synapse-analytics.md",
-      "title": "Realize Integrated Analytical Solutions with Azure Synapse Analytics",
-      "excerpt": "Realize Integrated Analytical Solutions with Azure Synapse Analytics",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-realize-integrated-analytical-solutions-with-azure-synapse-analytics/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-realize-integrated-analytical-solutions-with-azure-synapse-analytics/",
-      "length": "PT3H10M",
+      "path": "_learning/collections/microsoft-learn-virtualization-sharing-cloud-resources.md",
+      "title": "Virtualization - Sharing cloud resources",
+      "excerpt": "Carnegie Mellon University's Cloud Developer course. Dive deeper into how the cloud works by understanding virtualization. How are computing power, memory, input and output, networking, and storage virtualized?",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-virtualization-sharing-cloud-resources/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-virtualization-sharing-cloud-resources/",
+      "length": "PT3H22M",
       "provider": {
         "name": "Microsoft Learn",
         "domain": "microsoft.com",
@@ -23,19 +23,20 @@
         ]
       },
       "levels": [
-        "Beginner"
+        "Beginner",
+        "Intermediate"
       ],
       "topItems": [
         {
-          "path": "_learning/courses/microsoft-learn-introduction-to-azure-synapse-analytics.md",
-          "title": "Introduction to Azure Synapse Analytics",
-          "excerpt": "Introduction to Azure Synapse Analytics",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-introduction-to-azure-synapse-analytics/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-azure-synapse-analytics/",
-          "length": "PT26M",
+          "path": "_learning/courses/microsoft-learn-cmu-share-cloud-resources.md",
+          "title": "Share cloud resources",
+          "excerpt": "Carnegie Mellon University's Cloud Developer course. Get an introduction to virtualization, one of the many technologies that power the cloud. Learn what virtualization is, its benefits, and how cloud resources are shared.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-cmu-share-cloud-resources/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/cmu-share-cloud-resources/",
+          "length": "PT54M",
           "ratings": {
-            "count": 11,
-            "average": 4.818182
+            "count": 111,
+            "average": 4.5405407
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -55,9 +56,9 @@
           "heat": 50,
           "images": [
             {
-              "url": "https://docs.microsoft.com/learn/achievements/introduction-to-azure-synapse-analytics-social.png",
-              "width": 640,
-              "height": 320,
+              "url": "https://docs.microsoft.com/learn/achievements/cmu-cloud-developer/share-cloud-resources-social.png",
+              "width": 1000,
+              "height": 500,
               "isCached": true
             }
           ],
@@ -65,20 +66,19 @@
           "type": "course",
           "price": "Free",
           "topics": [
-            "Azure",
-            "Analytics"
+            "Azure"
           ]
         },
         {
-          "path": "_learning/courses/microsoft-learn-survey-components-of-azure-synapse-analytics.md",
-          "title": "Survey the Components of Azure Synapse Analytics",
-          "excerpt": "Survey the Components of Azure Synapse Analytics",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-survey-components-of-azure-synapse-analytics/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/survey-components-of-azure-synapse-analytics/",
-          "length": "PT1H5M",
+          "path": "_learning/courses/microsoft-learn-cmu-virtualization.md",
+          "title": "Understand virtualization",
+          "excerpt": "Carnegie Mellon University's Cloud Developer course. Take a deep dive into virtualization by understanding its formal definition as well as the different types of virtual machines.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-cmu-virtualization/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/cmu-virtualization-developer/",
+          "length": "PT21M",
           "ratings": {
-            "count": 7,
-            "average": 4.285714
+            "count": 80,
+            "average": 4.5125
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -95,12 +95,12 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 50,
+          "heat": 52,
           "images": [
             {
-              "url": "https://docs.microsoft.com/learn/achievements/survey-the-components-of-azure-synapse-analytics-social.png",
-              "width": 640,
-              "height": 320,
+              "url": "https://docs.microsoft.com/learn/achievements/cmu-cloud-developer/understand-virtualization-social.png",
+              "width": 1000,
+              "height": 500,
               "isCached": true
             }
           ],
@@ -108,20 +108,19 @@
           "type": "course",
           "price": "Free",
           "topics": [
-            "Azure",
-            "Analytics"
+            "Azure"
           ]
         },
         {
-          "path": "_learning/courses/microsoft-learn-explore-azure-synapse-studio.md",
-          "title": "Explore Azure Synapse Studio",
-          "excerpt": "Explore Azure Synapse Studio",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-explore-azure-synapse-studio/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-azure-synapse-studio/",
-          "length": "PT43M",
+          "path": "_learning/courses/microsoft-learn-cmu-virtualize-computing-power.md",
+          "title": "Virtualize computing power",
+          "excerpt": "Carnegie Mellon University's Cloud Developer course. Learn about how computing power is virtualized using virtual CPUs. Covers different types of CPU virtualization.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-cmu-virtualize-computing-power/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/cmu-virtualize-computing-power/",
+          "length": "PT33M",
           "ratings": {
-            "count": 7,
-            "average": 4.428571
+            "count": 61,
+            "average": 4.2786884
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -141,9 +140,9 @@
           "heat": 50,
           "images": [
             {
-              "url": "https://docs.microsoft.com/learn/achievements/explore-azure-synapse-studio-social.png",
-              "width": 640,
-              "height": 320,
+              "url": "https://docs.microsoft.com/learn/achievements/cmu-cloud-developer/virtualize-computing-power-social.png",
+              "width": 1000,
+              "height": 500,
               "isCached": true
             }
           ],
@@ -151,20 +150,19 @@
           "type": "course",
           "price": "Free",
           "topics": [
-            "Azure",
-            "Analytics"
+            "Azure"
           ]
         },
         {
-          "path": "_learning/courses/microsoft-learn-design-modern-data-warehouse-using-azure-synapse-analytics.md",
-          "title": "Design a Modern Data Warehouse using Azure Synapse Analytics",
-          "excerpt": "Learn how Azure Synapse Analytics enables you to build Data Warehouses using modern architecture patterns.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-design-modern-data-warehouse-using-azure-synapse-analytics/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-modern-data-warehouse-using-azure-synapse-analytics/",
-          "length": "PT56M",
+          "path": "_learning/courses/microsoft-learn-cmu-virtualize-memory.md",
+          "title": "Virtualize memory",
+          "excerpt": "Carnegie Mellon University's Cloud Developer course. Learn how memory is virtualized to support cloud resources. Covers different types of memory mapping and related issues.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-cmu-virtualize-memory/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/cmu-virtualize-memory/",
+          "length": "PT19M",
           "ratings": {
-            "count": 7,
-            "average": 4.571429
+            "count": 58,
+            "average": 4.275862
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -184,9 +182,9 @@
           "heat": 50,
           "images": [
             {
-              "url": "https://docs.microsoft.com/learn/achievements/design-a-modern-data-warehouse-using-azure-synapse-analytics-social.png",
-              "width": 640,
-              "height": 320,
+              "url": "https://docs.microsoft.com/learn/achievements/cmu-cloud-developer/virtualize-memory-social.png",
+              "width": 1000,
+              "height": 500,
               "isCached": true
             }
           ],
@@ -194,18 +192,17 @@
           "type": "course",
           "price": "Free",
           "topics": [
-            "Azure",
-            "Analytics"
+            "Azure"
           ]
         }
       ],
-      "size": 4,
+      "size": 6,
       "heat": 60,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/introduction-to-azure-synapse-analytics-social.png",
-          "width": 640,
-          "height": 320,
+          "url": "https://docs.microsoft.com/learn/achievements/cmu-cloud-developer/share-cloud-resources-social.png",
+          "width": 1000,
+          "height": 500,
           "isCached": true
         }
       ],
@@ -213,8 +210,7 @@
       "type": "collection",
       "price": "Free",
       "topics": [
-        "Azure",
-        "Analytics"
+        "Azure"
       ]
     },
     {
@@ -824,8 +820,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/evolving-world-of-data/",
           "length": "PT28M",
           "ratings": {
-            "count": 5229,
-            "average": 4.684452
+            "count": 5230,
+            "average": 4.6843214
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -909,8 +905,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-engineering-processes/",
           "length": "PT25M",
           "ratings": {
-            "count": 4667,
-            "average": 4.709235
+            "count": 4668,
+            "average": 4.709297
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1247,8 +1243,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/query-relational-data/",
           "length": "PT40M",
           "ratings": {
-            "count": 468,
-            "average": 4.7542734
+            "count": 470,
+            "average": 4.755319
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1330,8 +1326,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-faq-chatbot-qna-maker-azure-bot-service/",
           "length": "PT29M",
           "ratings": {
-            "count": 1803,
-            "average": 4.6877427
+            "count": 1804,
+            "average": 4.687916
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1797,8 +1793,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-and-publish-a-luis-model/",
           "length": "PT54M",
           "ratings": {
-            "count": 1610,
-            "average": 4.659006
+            "count": 1611,
+            "average": 4.659218
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2098,8 +2094,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/cmu-virtualization-developer/",
           "length": "PT21M",
           "ratings": {
-            "count": 79,
-            "average": 4.506329
+            "count": 80,
+            "average": 4.5125
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2309,8 +2305,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/migrate-sql-server-relational-data/",
           "length": "PT1H24M",
           "ratings": {
-            "count": 1040,
-            "average": 4.4269233
+            "count": 1042,
+            "average": 4.428023
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3069,8 +3065,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/cmu-cloud-storage/",
           "length": "PT2H43M",
           "ratings": {
-            "count": 42,
-            "average": 4.857143
+            "count": 43,
+            "average": 4.837209
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3466,8 +3462,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/microsoft-responsible-ai-practices/",
           "length": "PT1H17M",
           "ratings": {
-            "count": 391,
-            "average": 4.803069
+            "count": 392,
+            "average": 4.803571
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3594,8 +3590,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/responsible-ai-governing-practices/",
           "length": "PT35M",
           "ratings": {
-            "count": 400,
-            "average": 4.765
+            "count": 401,
+            "average": 4.765586
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3637,8 +3633,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/microsoft-responsible-ai-practices/",
           "length": "PT1H17M",
           "ratings": {
-            "count": 391,
-            "average": 4.803069
+            "count": 392,
+            "average": 4.803571
           },
           "provider": {
             "name": "Microsoft Learn",
