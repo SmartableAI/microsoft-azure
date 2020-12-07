@@ -1,28 +1,30 @@
 ---
 category: news
-title: "Nadella takes a dig at Amazon as Microsoft unveils Azure Purview"
-excerpt: "Taking an apparent dig at Amazon and its Cloud arm AWS, Microsoft CEO Satya Nadella has said that it is important to not only trust a vendors technology capabilities but also its ‘business model alignment with its customers."
-publishedDateTime: 2020-12-04T08:41:00Z
-originalUrl: "https://www.sify.com/finance/nadella-takes-a-dig-at-amazon-as-microsoft-unveils-azure-purview-news-topnews-umegIohfjjjib.html"
-webUrl: "https://www.sify.com/finance/nadella-takes-a-dig-at-amazon-as-microsoft-unveils-azure-purview-news-topnews-umegIohfjjjib.html"
-ampWebUrl: "https://www.sify.com/finance/nadella-takes-a-dig-at-amazon-as-microsoft-unveils-azure-purview-news-topnews-umegIohfjjjib.html"
-cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/finance/nadella-takes-a-dig-at-amazon-as-microsoft-unveils-azure-purview-news-topnews-umegIohfjjjib.html"
+title: "UK’s first electric car charging forecourt opens to the public, powered by Microsoft Azure and Dynamics"
+excerpt: "All the energy is sourced from a 10 MWp solar farm 44 miles away that can produce enough energy to drive 5,000 electric cars every year."
+publishedDateTime: 2020-12-07T10:43:00Z
+originalUrl: "https://news.microsoft.com/en-gb/2020/12/07/uks-first-electric-car-charging-forecourt-opens-to-the-public-powered-by-microsoft-azure-and-dynamics/"
+webUrl: "https://news.microsoft.com/en-gb/2020/12/07/uks-first-electric-car-charging-forecourt-opens-to-the-public-powered-by-microsoft-azure-and-dynamics/"
 type: article
-quality: 57
+quality: 21
 heat: -1
 published: false
 
 provider:
-  name: Sify.com
-  domain: sify.com
+  name: Microsoft
+  domain: microsoft.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
 
 images:
-  - url: "https://www.sify.com/uploads/satya_nadella_microsoft_ap_ul3hPHcfcijca.jpeg"
-    width: 900
-    height: 450
+  - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/68/2020/12/GS-EF-Braintree-093-1600x1067.jpg"
+    width: 1600
+    height: 1067
     isCached: true
 
 related:
@@ -125,6 +127,22 @@ related:
       - url: "https://zdnet2.cbsistatic.com/hub/i/r/2020/05/13/bf550a82-e9e8-4511-bee9-983426e8fc52/thumbnail/1200x675/aaf99352c82c362f4feba84192e7819c/2555435eba4cad133864-58121622-nvidia-accelerates-apache-spark.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Nadella takes a dig at Amazon as Microsoft unveils Azure Purview"
+    excerpt: "Taking an apparent dig at Amazon and its Cloud arm AWS, Microsoft CEO Satya Nadella has said that it is important to not only trust a vendors technology capabilities but also its ‘business model alignment with its customers."
+    publishedDateTime: 2020-12-04T08:41:00Z
+    webUrl: "https://www.sify.com/finance/nadella-takes-a-dig-at-amazon-as-microsoft-unveils-azure-purview-news-topnews-umegIohfjjjib.html"
+    ampWebUrl: "https://www.sify.com/finance/nadella-takes-a-dig-at-amazon-as-microsoft-unveils-azure-purview-news-topnews-umegIohfjjjib.html"
+    cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/finance/nadella-takes-a-dig-at-amazon-as-microsoft-unveils-azure-purview-news-topnews-umegIohfjjjib.html"
+    type: article
+    provider:
+      name: Sify.com
+      domain: sify.com
+    quality: 57
+    images:
+      - url: "https://www.sify.com/uploads/satya_nadella_microsoft_ap_ul3hPHcfcijca.jpeg"
+        width: 900
+        height: 450
         isCached: true
   - title: "Cyber Security Cloud WafCharm now available on Microsoft Azure"
     excerpt: "Cyber Security Cloud announces the availability of WafCharm on Microsoft Azure, providing AI operation of WAF rules."
@@ -293,20 +311,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 21
-  - title: "UK’s first electric car charging forecourt opens to the public, powered by Microsoft Azure and Dynamics"
-    excerpt: "All the energy is sourced from a 10 MWp solar farm 44 miles away that can produce enough energy to drive 5,000 electric cars every year."
-    publishedDateTime: 2020-12-07T10:43:00Z
-    webUrl: "https://news.microsoft.com/en-gb/2020/12/07/uks-first-electric-car-charging-forecourt-opens-to-the-public-powered-by-microsoft-azure-and-dynamics/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 21
-    images:
-      - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/68/2020/12/GS-EF-Braintree-093-1600x1067.jpg"
-        width: 1600
-        height: 1067
-        isCached: true
   - title: "CMC Networks starts direct access to Microsoft Azure peering service"
     excerpt: "Global telecom carrier CMC Networks said it now provides direct access to the Microsoft Azure Peering Service, further increasing access to its range of cloud services. Clients will be able to benefit from a low latency and SLA-backed,"
     publishedDateTime: 2020-11-26T14:22:00Z
@@ -317,6 +321,6 @@ related:
       domain: telecompaper.com
     quality: 17
 
-secured: "9moIqiGgZ89iZnaX1oLQkWxPhZPTW9MJJs6s3UjV+Zyw9MaJ+STQzW/JLIoFPclt6txQK/6WXCMfPGBYMmf+PYpaFlsQmz+V3Li4BtQQABzOPpCQ1ErPxa4YFPiAXaW1AoLuQPpURCOPrmKPX+js6xNOY6p91MsdNTg0E3UUm1tc76JslU+TeWKZiBhsShrI965+agYd1brKiHXwQnT8rwOVGp6T8Wdxbu23JKZqq51A+Ae2ZQB5xtwWi3j5/C2te4TXk4+xa7oFLyFFqe0HIvwPRQ77Tvv7faTUgUFhGe0WZnDPezTo8W3iKRPYtFslECiYIRbFWa4LMmSbXuLHU2gTJtmZEie4Pxk4DnHPhqY=;7mKaz+uzsBP1hkCVbX7MnA=="
+secured: "0EhUwMa7KjX8WjPwvQ5ZWhLrK4lXO3dVGBmhGu6AalKrqP0zRYMbzFTcE9Zsb8t24CY3wHDgoh7+CJ6PUQgjeRxaPOoWPSHC0tSbskXV8L2pP/GITwC5ILirvGvidWGgAo+B4ZM6LRE2r5SqwaL/+hmVBvaQrf9aAnzphMIYXgpMDeyT84Fab1KIUYe029uyAovpv5yMYClTnoomFBewW7LMYGLtthEk/gJW10k+V35R3DuJGSWRHr1fq8nfyr/11iHsUz+5/lywV1G6NL+ADEoAKiIDXlQHHNGWmpw7+3fRpYgwNQNLllmBL2owpd15UGJ9GCAuddjbj5sn9u4FN83YqIkgDCyC90iyiseiBEs=;xt6e6a+DwtrL8OmbwhajcA=="
 ---
 

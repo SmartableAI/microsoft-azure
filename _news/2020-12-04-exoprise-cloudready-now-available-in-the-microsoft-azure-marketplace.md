@@ -7,7 +7,7 @@ originalUrl: "https://www.helpnetsecurity.com/2020/12/04/exoprise-cloudready-mic
 webUrl: "https://www.helpnetsecurity.com/2020/12/04/exoprise-cloudready-microsoft-azure/"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,36 @@ images:
     isCached: true
 
 related:
+  - title: "AirHop Communications brings real-time 5G network intelligence solution to Microsoft Azure 4G/5G"
+    excerpt: "AirHop Communications, a leader in 4G and 5G Network Intelligence software platforms and solutions, today announced the integration of its solutions with Microsoft Azure platforms. The integration of AirHop’s eSON platform enables network deployments with Microsoft Azure platforms (cloud,"
+    publishedDateTime: 2020-12-07T09:18:00Z
+    webUrl: "https://www.telecomtv.com/content/5g/airhop-communications-brings-real-time-5g-network-intelligence-solution-to-microsoft-azure-4g-5g-40393/"
+    ampWebUrl: "https://www.telecomtv.com/content/5g/airhop-communications-brings-real-time-5g-network-intelligence-solution-to-microsoft-azure-4g-5g-40393/amp/"
+    cdnAmpWebUrl: "https://www-telecomtv-com.cdn.ampproject.org/c/s/www.telecomtv.com/content/5g/airhop-communications-brings-real-time-5g-network-intelligence-solution-to-microsoft-azure-4g-5g-40393/amp/"
+    type: article
+    provider:
+      name: TelecomTV
+      domain: telecomtv.com
+    quality: 44
+    images:
+      - url: "https://assets.telecomtv.com/assets/telecomtv/brand/ttv-splash.jpg?w=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "AirHop joins Azure 4G/5G ecosystem"
+    excerpt: "AirHop Communications announced the integration of its solutions with Microsoft Azure platforms to accelerate 4G and 5G deployments."
+    publishedDateTime: 2020-12-07T01:33:00Z
+    webUrl: "https://www.helpnetsecurity.com/2020/12/07/airhop-communications-microsoft-azure/"
+    type: article
+    provider:
+      name: Help Net Security
+      domain: helpnetsecurity.com
+    quality: 37
+    images:
+      - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/11/02114007/help_net_security.jpg"
+        width: 1200
+        height: 627
+        isCached: true
   - title: "AirHop Communications Brings Real-Time 5G Network Intelligence Solution to Microsoft Azure 4G/5G"
     excerpt: "AirHop Communications, a leader in 4G and 5G Network Intelligence software platforms and solutions, today announced the integration of its solutions with Microsoft Azure platforms. The integration of AirHop’s eSON platform enables network deployments with Microsoft Azure platforms (cloud,"
     publishedDateTime: 2020-12-03T19:35:00Z
@@ -38,15 +68,20 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Accenture Acquires AWS, Microsoft Azure Cloud Partner Olikka"
-    excerpt: "Accenture acquires Olikka, an Australia-based systems integrator for Amazon Web Services (AWS) & Microsoft Azure. Accenture is the worlds' top public cloud MSP, ChannelE2E research says."
-    publishedDateTime: 2020-12-02T02:31:00Z
-    webUrl: "https://www.channele2e.com/investors/mergers-acquisitions/accenture-buys-aws-microsoft-azure-cloud-partner-olikka/"
+  - title: "Beabloo Promotes Interaction Care: the Solution that Reduces the Risk of COVID-19 Infection, via the Microsoft Azure Cloud"
+    excerpt: "Beabloo Promotes Interaction Care: the Solution that Reduces the Risk of COVID-19 Infection, via the Microsoft Azure Cloud By 1 - The retail tech companys solution uses real-time alerts to avoid high-risk interactions and boost security in public"
+    publishedDateTime: 2020-12-03T07:48:00Z
+    webUrl: "https://www.cioreview.com/news/beabloo-promotes-interaction-care-the-solution-that-reduces-the-risk-of-covid19-infection-via-the-microsoft-azure-cloud-pnid-423-cid-15.html"
     type: article
     provider:
-      name: ChannelE2E
-      domain: channele2e.com
-    quality: 17
+      name: CIOReview
+      domain: cioreview.com
+    quality: 11
+    images:
+      - url: "https://www.cioreview.com/news_new/sliderimage/z4fcv.30035015151.jpg"
+        width: 300
+        height: 350
+        isCached: true
 
 secured: "pzOKfgziqAQdsz2+6YzRsi1eieF3ig6r2V/yAr46NGkvnAf8RM13N+Xv0J5715kH5Cq7fAuFipZKcEKofdPgtqe3XfhYzBOe7Te/F+26If8VA2ePw47+WUfs1mCbuXeNnjDbD5Q77XiSobw7yr8mZN7MWDYIPadg1ZZ+EzsEgVLwuDd2lkIZZOD9A0g1pOM2UnMZdS5K8g+OrGzu1qiRK7c0/WprqJPOvln3qw5iy5NisAl+4fIufENRxHKac9XZJV5eAWc5zGxyT9WIipn7uWLEMY38ke+x90Trss/MlV3JdjuEzUpwDxAB5ca6zbb7SwmuB+D/iqxJ+A7nKRSwhjxY9IBksfoaxoloIjdbU4XIfYESUbSkWCbcnmx9rq7RvhSsKcJGgNMFEdAwYtf6bH2lXXsZ86Gscv64lKRewG4qwKKA7oWSW+sMVO/3dBTorbGVX97jSNk5Dmp9W8xh71RecvuzsN2xFwibRAAyegG4GLCgjMQ/6IvWGjs+s9sHS5SlQ+0mIxKrBFqRZHI9pQ==;QyA4HwsdR34qaYTiFdUlwA=="
 ---

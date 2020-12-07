@@ -301,6 +301,20 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 21
+  - title: "UK’s first electric car charging forecourt opens to the public, powered by Microsoft Azure and Dynamics"
+    excerpt: "All the energy is sourced from a 10 MWp solar farm 44 miles away that can produce enough energy to drive 5,000 electric cars every year."
+    publishedDateTime: 2020-12-07T10:43:00Z
+    webUrl: "https://news.microsoft.com/en-gb/2020/12/07/uks-first-electric-car-charging-forecourt-opens-to-the-public-powered-by-microsoft-azure-and-dynamics/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 21
+    images:
+      - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/68/2020/12/GS-EF-Braintree-093-1600x1067.jpg"
+        width: 1600
+        height: 1067
+        isCached: true
 
 secured: "pzPftJCIiJRD7ZyFCH1eaNHiKZBVhEqnIrFJrCcHBa1xDaSG/27wxuNHVxunnhsJR7cLc2vMZdJIEn90JKPXiRzYy3ZTXYAkHh/rBiWS0mQspFqrVSo1i/q//7qFLuof8aUiZFx3hLGLHpBbMdWoj/2xqMYoF08p1KghXY4GseTZUw94Pdfar7o2e2RaJ16nsVLKzVyVaBNXqw241lpjuePLMoAuSOBZWClDhHceUeCVTgaK0v2BfEfNM5RvnsXTVTl/Fg9UkCsGemjAwk3WDYaxmb1Lz1unYEXTgebc+PpJyn6iGUbM7TO5TJXjycSfYrMDjvJcUv43E4YoMA9N1Js9glaUaZqgfSLJFiFVO64=;Yfr/P/U4xR2AHOs7XblLng=="
 ---

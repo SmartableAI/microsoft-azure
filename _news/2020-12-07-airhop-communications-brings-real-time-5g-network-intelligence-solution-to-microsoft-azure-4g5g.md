@@ -1,45 +1,31 @@
 ---
 category: news
-title: "AirHop Communications Brings Real-Time 5G Network Intelligence Solution to Microsoft Azure 4G/5G"
+title: "AirHop Communications brings real-time 5G network intelligence solution to Microsoft Azure 4G/5G"
 excerpt: "AirHop Communications, a leader in 4G and 5G Network Intelligence software platforms and solutions, today announced the integration of its solutions with Microsoft Azure platforms. The integration of AirHop’s eSON platform enables network deployments with Microsoft Azure platforms (cloud,"
-publishedDateTime: 2020-12-03T19:35:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-north-america-products-and-services-eb13cfc4af744e8e870847a7a002c878"
-webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-north-america-products-and-services-eb13cfc4af744e8e870847a7a002c878"
+publishedDateTime: 2020-12-07T09:18:00Z
+originalUrl: "https://www.telecomtv.com/content/5g/airhop-communications-brings-real-time-5g-network-intelligence-solution-to-microsoft-azure-4g-5g-40393/"
+webUrl: "https://www.telecomtv.com/content/5g/airhop-communications-brings-real-time-5g-network-intelligence-solution-to-microsoft-azure-4g-5g-40393/"
+ampWebUrl: "https://www.telecomtv.com/content/5g/airhop-communications-brings-real-time-5g-network-intelligence-solution-to-microsoft-azure-4g-5g-40393/amp/"
+cdnAmpWebUrl: "https://www-telecomtv-com.cdn.ampproject.org/c/s/www.telecomtv.com/content/5g/airhop-communications-brings-real-time-5g-network-intelligence-solution-to-microsoft-azure-4g-5g-40393/amp/"
 type: article
-quality: 24
-heat: -1
+quality: 44
+heat: 44
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: TelecomTV
+  domain: telecomtv.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://assets.telecomtv.com/assets/telecomtv/brand/ttv-splash.jpg?w=1200"
+    width: 1200
+    height: 675
     isCached: true
 
 related:
-  - title: "AirHop Communications brings real-time 5G network intelligence solution to Microsoft Azure 4G/5G"
-    excerpt: "AirHop Communications, a leader in 4G and 5G Network Intelligence software platforms and solutions, today announced the integration of its solutions with Microsoft Azure platforms. The integration of AirHop’s eSON platform enables network deployments with Microsoft Azure platforms (cloud,"
-    publishedDateTime: 2020-12-07T09:18:00Z
-    webUrl: "https://www.telecomtv.com/content/5g/airhop-communications-brings-real-time-5g-network-intelligence-solution-to-microsoft-azure-4g-5g-40393/"
-    ampWebUrl: "https://www.telecomtv.com/content/5g/airhop-communications-brings-real-time-5g-network-intelligence-solution-to-microsoft-azure-4g-5g-40393/amp/"
-    cdnAmpWebUrl: "https://www-telecomtv-com.cdn.ampproject.org/c/s/www.telecomtv.com/content/5g/airhop-communications-brings-real-time-5g-network-intelligence-solution-to-microsoft-azure-4g-5g-40393/amp/"
-    type: article
-    provider:
-      name: TelecomTV
-      domain: telecomtv.com
-    quality: 44
-    images:
-      - url: "https://assets.telecomtv.com/assets/telecomtv/brand/ttv-splash.jpg?w=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Exoprise CloudReady now available in the Microsoft Azure Marketplace"
     excerpt: "Exoprise announced the availability of its CloudReady solution in the Microsoft Azure Marketplace, with streamlined deployment and management."
     publishedDateTime: 2020-12-04T01:34:00Z
@@ -68,6 +54,20 @@ related:
         width: 1200
         height: 627
         isCached: true
+  - title: "AirHop Communications Brings Real-Time 5G Network Intelligence Solution to Microsoft Azure 4G/5G"
+    excerpt: "AirHop Communications, a leader in 4G and 5G Network Intelligence software platforms and solutions, today announced the integration of its solutions with Microsoft Azure platforms. The integration of AirHop’s eSON platform enables network deployments with Microsoft Azure platforms (cloud,"
+    publishedDateTime: 2020-12-03T19:35:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-north-america-products-and-services-eb13cfc4af744e8e870847a7a002c878"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 24
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Beabloo Promotes Interaction Care: the Solution that Reduces the Risk of COVID-19 Infection, via the Microsoft Azure Cloud"
     excerpt: "Beabloo Promotes Interaction Care: the Solution that Reduces the Risk of COVID-19 Infection, via the Microsoft Azure Cloud By 1 - The retail tech companys solution uses real-time alerts to avoid high-risk interactions and boost security in public"
     publishedDateTime: 2020-12-03T07:48:00Z
@@ -83,6 +83,6 @@ related:
         height: 350
         isCached: true
 
-secured: "S3MkQF4dazWYTY4AjANLT6LNlFQi9a5TgUkG0akjuKWLjTTlgHMrlHImCPJgQGfE7hxWVn7WVDuIlKkuwwQdF3sdpiOI3nSLQPFHS1UfDgHC8qPcVTO9TQW7wlhqZpgPSSYA4lvaa3ssx64nr/c+WBGjZoPbKqr9/r/zac+EGiHFq3DEBnWMH94YHXmLE/jpI/jl9AOgzW/HAJafZ7b0+twvIvbx05zUtkKGcFmqyaGi7Y9eahUu21bMJlFQCwNqvOgWUK7xU1t21Iikn7FGJzoKaX3I9Th9Oz9ynXYYc9QFWnqhOJnHvjVnYGqnTGJdj5SI4EXa2msut+6MxozdoaYC024ihQYDwxY2g6TuEqg=;bCptJBdFMTMXvHkkm1OUYw=="
+secured: "iM3XFkG4VpixV7dOBu0QIy3VIEkgW+XLSSWpdO9eWWm89DAjLdprEsGyIzyk610mOg8UOLTFyzaccLYuPcBI0Az8f+aG54iMOPiK1FqIAU0ThymQZcAU8ymkgD4OS9MaEbAcs0jNla0U45S/X0A37LWy1RegB1weLsYsY9e5WQFuBvkfK6HqH5u8pCr+NoECPUaLT8I/sd6LfJ0UJeHR7pPeTPrYRAJUEtk+c8eg9Z05KNqNETTiGSxmOHyUBCLVyO8D40vVIeGYdFUV/o11KhUnp9Qcx77vzpNK/BP1FJPjif4pJUIhUBVrzIAkbJjm1rdtaV0rbykmjIzemV1hNCenBRO8hCqNybXg/6LtJuU=;/GO7OoM4jnCVq3cXerGTYA=="
 ---
 

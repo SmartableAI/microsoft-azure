@@ -297,6 +297,20 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 21
+  - title: "UK’s first electric car charging forecourt opens to the public, powered by Microsoft Azure and Dynamics"
+    excerpt: "All the energy is sourced from a 10 MWp solar farm 44 miles away that can produce enough energy to drive 5,000 electric cars every year."
+    publishedDateTime: 2020-12-07T10:43:00Z
+    webUrl: "https://news.microsoft.com/en-gb/2020/12/07/uks-first-electric-car-charging-forecourt-opens-to-the-public-powered-by-microsoft-azure-and-dynamics/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 21
+    images:
+      - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/68/2020/12/GS-EF-Braintree-093-1600x1067.jpg"
+        width: 1600
+        height: 1067
+        isCached: true
   - title: "CMC Networks starts direct access to Microsoft Azure peering service"
     excerpt: "Global telecom carrier CMC Networks said it now provides direct access to the Microsoft Azure Peering Service, further increasing access to its range of cloud services. Clients will be able to benefit from a low latency and SLA-backed,"
     publishedDateTime: 2020-11-26T14:22:00Z
