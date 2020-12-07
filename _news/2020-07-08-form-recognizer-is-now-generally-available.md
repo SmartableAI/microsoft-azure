@@ -35,6 +35,15 @@ related:
         width: 3240
         height: 1818
         isCached: true
+  - title: "New features are now available for Azure Form Recognizer"
+    excerpt: "Pre-built invoice, enhanced table extraction, and more available in Azure Form Recognizer"
+    publishedDateTime: 2020-12-07T17:38:49Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/prebuilt-invoice-model-enhanced-table-extraction-japanese-support-and-lots-more-now-in-azure-form-recognizer/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
 
 secured: "vZLZpDJWiQX/lsu4bRNY/SD+4T7qCobmUd8QtUqyfROz+iinqu/9WaPCu8GltOcq73zGh5+IZ82ru/BPfpkrLnDFNd00SeF6a9ttEQl9DupaLb5lpcbCy9i5TGuQj+cIKq+R6qNPvbwTS0Di0vs3ValjatjaQ/aMg9/kBF73jVfbrmYl/f7eE80Vqlibgkn6UrI2sgEbwZ/SB0KcQ7lQtzEptydNx8SJS9wESyf41yx2tgzT+vgfZz0rf8+P4VNf3sxpFggcfKAt/VXdEg3e/pbIUMZVZHvJjNbmRSNyKnkwwk5xFEXSDpicM3tlD0FxJeNV2gBcdusUX6afWubOlA==;Pd1QRnXGf9Csxi7IKbAsew=="
 ---

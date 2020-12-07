@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Azure Sphere SDK version 20.11 is now available"
-excerpt: "The 20.11 SDK introduces the first Beta release of the azsphere command line interface (CLI) v2, which is designed to more closely match the Azure CLI in functionality and usage."
-publishedDateTime: 2020-11-30T22:35:03Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/azure-sphere-sdk-version-2011-is-now-available/"
-webUrl: "https://azure.microsoft.com/en-us/updates/azure-sphere-sdk-version-2011-is-now-available/"
+title: " Azure Automation is now available in Norway East region"
+excerpt: "Automate tasks across Azure & Non-Azure environment using PowerShell and Python based scripts. "
+publishedDateTime: 2020-12-07T17:12:01Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/azure-automation-in-norway-east-region/"
+webUrl: "https://azure.microsoft.com/en-us/updates/azure-automation-in-norway-east-region/"
 type: article
-quality: 84
-heat: 184
-published: true
+quality: 67
+heat: -1
+published: false
 
 provider:
   name: Microsoft
@@ -20,9 +20,17 @@ provider:
 
 topics:
   - Azure
-  - Developer tools
 
 related:
+  - title: "Azure Sphere SDK version 20.11 is now available"
+    excerpt: "The 20.11 SDK introduces the first Beta release of the azsphere command line interface (CLI) v2, which is designed to more closely match the Azure CLI in functionality and usage."
+    publishedDateTime: 2020-11-30T22:35:03Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-sphere-sdk-version-2011-is-now-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
   - title: "Azure Sphere OS version 20.08 is now available"
     excerpt: "The Azure Sphere 20.08 OS quality release is now available in the Retail feed. This update includes enhancements and bug fixes in the Azure Sphere OS including a security update that represents a critical update to the OS. "
     publishedDateTime: 2020-08-20T20:00:07Z
@@ -36,15 +44,6 @@ related:
     excerpt: "The 20.12 release includes enhancements and bug fixes in the Azure Sphere OS. It does not include an updated SDK."
     publishedDateTime: 2020-12-02T22:22:08Z
     webUrl: "https://azure.microsoft.com/en-us/updates/azure-sphere-os-version-2012-is-now-available-for-evaluation/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 67
-  - title: " Azure Automation is now available in Norway East region"
-    excerpt: "Automate tasks across Azure & Non-Azure environment using PowerShell and Python based scripts. "
-    publishedDateTime: 2020-12-07T17:12:01Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-automation-in-norway-east-region/"
     type: article
     provider:
       name: Microsoft
@@ -69,6 +68,6 @@ related:
       domain: microsoft.com
     quality: 17
 
-secured: "PgqpLttTgxxvuijlsZgtrERfeLSyJXRYzZ7RJXIwZNCuN2LjpARsmS9VdzhruJ9WG0mfFG8dEruLV7IwcpvNtyixzGoPVoUWzO0O6FnXWbPwyjDant0RYCRFJo/R7J/uDPS8RD0FjKP5i6MdFLvi8yi2NuujuKE2qrhGHZGwjxurGyUjfyNUAlp8cIThDtQ4Lz+SPY8MwMdm0YV04Okvv7ij13jZtdUxrUTleLZpGHwocymB1Q31Evl8PGPMf9GHrmJUzv2R/ZZsPwa94KfhLuWBhA3Fr8LXNO1OzVirgRc4RCG9fnLdhmB0bFYtTFq0FO2U+0aw8R4uOrZweAj03NT6ow82odlLSSn6//6/S60=;f780Fd1ItRzin1v5yTD7dw=="
+secured: "Y//g266ILSJQw8lMs5g4VgQQB6aF7w9X1P8Ctx7XwlmdRXi6VoJN7LZfphqSDGiubiB3o7KzmhiHmOU+NeCwuA0NtJ2Ztak6P0eAEe46Sm4DNUridMzRoKnrQ0b3urNTvG78OpqmXKzPKMxABnZwl6fatYPEx4T/fRy6romJ7wTBZ6zuCUxNo6Lunn4zyF0ssJU9Pn/1KcqDEU+a8Zqr2i/4TPcafMeuNiVQN2sherkrWkkUpIJstyMDxXgMo2XyF/UjqGPoOD4BhxzFT15OBL4bcSSt5nciyTJwkB51uPLU+8qXKc/3urfEramXQeoAdoe1C9Mffa6IgkDjFmChyifEGaTfjBF2+Vh6kfk6iwU=;M9R3bzM4Q0qvyJBBDUPsSg=="
 ---
 

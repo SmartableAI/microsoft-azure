@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/new-features-for-form-recognizer-
 webUrl: "https://azure.microsoft.com/blog/new-features-for-form-recognizer-now-available/"
 type: article
 quality: 89
-heat: 109
+heat: 129
 published: true
 
 provider:
@@ -30,6 +30,15 @@ images:
     title: "New features for Form Recognizer now available"
 
 related:
+  - title: "New features are now available for Azure Form Recognizer"
+    excerpt: "Pre-built invoice, enhanced table extraction, and more available in Azure Form Recognizer"
+    publishedDateTime: 2020-12-07T17:38:49Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/prebuilt-invoice-model-enhanced-table-extraction-japanese-support-and-lots-more-now-in-azure-form-recognizer/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
   - title: "Form Recognizer is now generally available"
     excerpt: "Form Recognizer extracts text, tables, and key value pairs quickly and accurately from documents, both-on premises and in the cloud."
     publishedDateTime: 2020-07-08T15:00:17Z
