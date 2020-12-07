@@ -24,78 +24,84 @@ images:
     isCached: true
 
 related:
-  - title: "AirHop Communications brings real-time 5G network intelligence solution to Microsoft Azure 4G/5G"
-    excerpt: "AirHop Communications, a leader in 4G and 5G Network Intelligence software platforms and solutions, today announced the integration of its solutions with Microsoft Azure platforms. The integration of AirHop’s eSON platform enables network deployments with Microsoft Azure platforms (cloud,"
-    publishedDateTime: 2020-12-07T09:18:00Z
-    webUrl: "https://www.telecomtv.com/content/5g/airhop-communications-brings-real-time-5g-network-intelligence-solution-to-microsoft-azure-4g-5g-40393/"
-    ampWebUrl: "https://www.telecomtv.com/content/5g/airhop-communications-brings-real-time-5g-network-intelligence-solution-to-microsoft-azure-4g-5g-40393/amp/"
-    cdnAmpWebUrl: "https://www-telecomtv-com.cdn.ampproject.org/c/s/www.telecomtv.com/content/5g/airhop-communications-brings-real-time-5g-network-intelligence-solution-to-microsoft-azure-4g-5g-40393/amp/"
+  - title: "Microsoft just stress-tested its most powerful Azure node in a pretty fun way"
+    excerpt: "Microsoft has been stress-testing its most powerful Azure node using a rather unusual method – by playing Tetris on it. Microsoft Azure’s CTO Mark Russinovich revealed the fun test via Twitter, alongside a short GIF."
+    publishedDateTime: 2020-12-07T16:10:00Z
+    webUrl: "https://www.techradar.com/uk/news/microsoft-just-stress-tested-its-most-powerful-azure-node-in-a-pretty-fun-way"
+    ampWebUrl: "https://www.techradar.com/uk/amp/news/microsoft-just-stress-tested-its-most-powerful-azure-node-in-a-pretty-fun-way"
+    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/uk/amp/news/microsoft-just-stress-tested-its-most-powerful-azure-node-in-a-pretty-fun-way"
     type: article
     provider:
-      name: TelecomTV
-      domain: telecomtv.com
-    quality: 44
+      name: TechRadar
+      domain: techradar.com
+    quality: 94
     images:
-      - url: "https://assets.telecomtv.com/assets/telecomtv/brand/ttv-splash.jpg?w=1200"
-        width: 1200
-        height: 675
+      - url: "https://cdn.mos.cms.futurecdn.net/9v2cYY3QaQvXNuTdL4DeSF-1200-80.jpg"
+        width: 971
+        height: 545
         isCached: true
-  - title: "AirHop joins Azure 4G/5G ecosystem"
-    excerpt: "AirHop Communications announced the integration of its solutions with Microsoft Azure platforms to accelerate 4G and 5G deployments."
-    publishedDateTime: 2020-12-07T01:33:00Z
-    webUrl: "https://www.helpnetsecurity.com/2020/12/07/airhop-communications-microsoft-azure/"
-    type: article
-    provider:
-      name: Help Net Security
-      domain: helpnetsecurity.com
-    quality: 37
-    images:
-      - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/11/02114007/help_net_security.jpg"
-        width: 1200
-        height: 627
-        isCached: true
-  - title: "Telecom Provider Migrates Confidently to Microsoft Azure with Fortinet’s Dynamic Cloud Security Solutions"
-    excerpt: "For telecommunications providers, it is critical to remain agile and keep pace with the evolving requirements of their customers while also ensuring security and business continuity."
-    publishedDateTime: 2020-12-07T14:54:00Z
-    webUrl: "https://www.csoonline.com/article/3600428/telecom-provider-migrates-confidently-to-microsoft-azure-with-fortinet-s-dynamic-cloud-security-sol.html"
-    type: article
-    provider:
-      name: CSOonline
-      domain: csoonline.com
-    quality: 37
-    images:
-      - url: "https://images.idgesg.net/images/article/2020/12/digital-cloud-computing-cyber-security-digital-data-network-future-picture-id1216520824-100869764-large.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "AirHop Communications Brings Real-Time 5G Network Intelligence Solution to Microsoft Azure 4G/5G"
-    excerpt: "AirHop Communications, a leader in 4G and 5G Network Intelligence software platforms and solutions, today announced the integration of its solutions with Microsoft Azure platforms. The integration of AirHop’s eSON platform enables network deployments with Microsoft Azure platforms (cloud,"
-    publishedDateTime: 2020-12-03T19:35:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-north-america-products-and-services-eb13cfc4af744e8e870847a7a002c878"
+  - title: "Cyber Security Cloud Launches WafCharm on Microsoft Azure"
+    excerpt: "Cyber Security Cloud, Inc. (CSC) is pleased to announce the availability of WafCharm on Microsoft Azure. Already available to over one million Amazon AWS users around the world, this launch provides Azure users with AI operation of Web Application Firewall (WAF) rules,"
+    publishedDateTime: 2020-12-01T13:01:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/business-technology-products-and-services-asia-cloud-computing-services-94e459be8e4b46e28c817ad8937de808"
     type: article
     provider:
       name: Associated Press
       domain: apnews.com
-    quality: 24
+    quality: 54
     images:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
         isCached: true
-  - title: "Beabloo Promotes Interaction Care: the Solution that Reduces the Risk of COVID-19 Infection, via the Microsoft Azure Cloud"
-    excerpt: "Beabloo Promotes Interaction Care: the Solution that Reduces the Risk of COVID-19 Infection, via the Microsoft Azure Cloud By 1 - The retail tech companys solution uses real-time alerts to avoid high-risk interactions and boost security in public"
-    publishedDateTime: 2020-12-03T07:48:00Z
-    webUrl: "https://www.cioreview.com/news/beabloo-promotes-interaction-care-the-solution-that-reduces-the-risk-of-covid19-infection-via-the-microsoft-azure-cloud-pnid-423-cid-15.html"
+  - title: "Microsoft just launched new Azure cloud capabilities that will help it meet the needs of the $10 billion JEDI contract with the Pentagon"
+    excerpt: "Microsoft beat out Amazon last year in winning the $10 billion Joint Enterprise Defense Infrastructure (JEDI) contract with the Department of Defense."
+    publishedDateTime: 2020-12-07T14:12:00Z
+    webUrl: "https://www.businessinsider.com/microsoft-azure-government-cloud-jedi-contract-dod-pentagon-2020-12"
     type: article
     provider:
-      name: CIOReview
-      domain: cioreview.com
-    quality: 11
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 44
     images:
-      - url: "https://www.cioreview.com/news_new/sliderimage/z4fcv.30035015151.jpg"
-        width: 300
-        height: 350
+      - url: "https://i.insider.com/5fcabc41037cbd00186140ed?width=700"
+        width: 700
+        height: 525
         isCached: true
+  - title: "Exoprise Office 365 Monitoring App Now Available in the Microsoft Azure Marketplace"
+    excerpt: "PRNewswire/ -- Exoprise, a leading provider of software-as-a-service (SaaS) and Office 365 monitoring, today announced the availability of its"
+    publishedDateTime: 2020-12-01T15:58:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/exoprise-office-365-monitoring-app-now-available-in-the-microsoft-azure-marketplace-301182861.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 31
+    images:
+      - url: "https://mma.prnewswire.com/media/1020851/exoprise_Logo.jpg?p=facebook"
+        width: 1024
+        height: 536
+        isCached: true
+  - title: "HMB Earns Microsoft Advanced Specialization in Modernization of Web Applications to Microsoft Azure"
+    excerpt: "COLUMBUS, Ohio, Dec. 3, 2020 /PRNewswire/ -- HMB, a technology solutions company with offices in Columbus, Ohio and Louisville, Kentucky, announced it has earned a Microsoft advanced ..."
+    publishedDateTime: 2020-12-04T04:46:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/12/n18647766/hmb-earns-microsoft-advanced-specialization-in-modernization-of-web-applications-to-microsoft-azur"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/18647766"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18647766"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 23
+  - title: "Accenture Acquires AWS, Microsoft Azure Cloud Partner Olikka"
+    excerpt: "Accenture acquires Olikka, an Australia-based systems integrator for Amazon Web Services (AWS) & Microsoft Azure. Accenture is the worlds' top public cloud MSP, ChannelE2E research says."
+    publishedDateTime: 2020-12-02T02:31:00Z
+    webUrl: "https://www.channele2e.com/investors/mergers-acquisitions/accenture-buys-aws-microsoft-azure-cloud-partner-olikka/"
+    type: article
+    provider:
+      name: ChannelE2E
+      domain: channele2e.com
+    quality: 17
 
 secured: "pzOKfgziqAQdsz2+6YzRsi1eieF3ig6r2V/yAr46NGkvnAf8RM13N+Xv0J5715kH5Cq7fAuFipZKcEKofdPgtqe3XfhYzBOe7Te/F+26If8VA2ePw47+WUfs1mCbuXeNnjDbD5Q77XiSobw7yr8mZN7MWDYIPadg1ZZ+EzsEgVLwuDd2lkIZZOD9A0g1pOM2UnMZdS5K8g+OrGzu1qiRK7c0/WprqJPOvln3qw5iy5NisAl+4fIufENRxHKac9XZJV5eAWc5zGxyT9WIipn7uWLEMY38ke+x90Trss/MlV3JdjuEzUpwDxAB5ca6zbb7SwmuB+D/iqxJ+A7nKRSwhjxY9IBksfoaxoloIjdbU4XIfYESUbSkWCbcnmx9rq7RvhSsKcJGgNMFEdAwYtf6bH2lXXsZ86Gscv64lKRewG4qwKKA7oWSW+sMVO/3dBTorbGVX97jSNk5Dmp9W8xh71RecvuzsN2xFwibRAAyegG4GLCgjMQ/6IvWGjs+s9sHS5SlQ+0mIxKrBFqRZHI9pQ==;QyA4HwsdR34qaYTiFdUlwA=="
 ---

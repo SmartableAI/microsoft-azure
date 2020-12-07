@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Exoprise CloudReady now available in the Microsoft Azure Marketplace"
-    excerpt: "Exoprise announced the availability of its CloudReady solution in the Microsoft Azure Marketplace, with streamlined deployment and management."
-    publishedDateTime: 2020-12-04T01:34:00Z
-    webUrl: "https://www.helpnetsecurity.com/2020/12/04/exoprise-cloudready-microsoft-azure/"
-    type: article
-    provider:
-      name: Help Net Security
-      domain: helpnetsecurity.com
-    quality: 37
-    images:
-      - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/11/02114007/help_net_security.jpg"
-        width: 1200
-        height: 627
-        isCached: true
   - title: "AirHop joins Azure 4G/5G ecosystem"
     excerpt: "AirHop Communications announced the integration of its solutions with Microsoft Azure platforms to accelerate 4G and 5G deployments."
     publishedDateTime: 2020-12-07T01:33:00Z

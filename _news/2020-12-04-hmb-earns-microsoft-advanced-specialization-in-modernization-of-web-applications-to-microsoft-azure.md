@@ -20,99 +20,88 @@ topics:
   - Azure
 
 related:
-  - title: "Quisitive Has Earned the Modernization of Web Applications in Microsoft Azure Advanced Specialization"
-    excerpt: "Quisitive Technology Solutions Inc. (Quisitive for the \"Company\") (TSXV:QUIS), a premier Microsoft solutions provider, today announced it has earned the Modernization of Web Applications in Microsoft Azure advanced specialization,"
-    publishedDateTime: 2020-07-18T19:19:00Z
-    webUrl: "https://www.marketwatch.com/press-release/quisitive-has-earned-the-modernization-of-web-applications-in-microsoft-azure-advanced-specialization-2020-07-14"
+  - title: "Microsoft just stress-tested its most powerful Azure node in a pretty fun way"
+    excerpt: "Microsoft has been stress-testing its most powerful Azure node using a rather unusual method – by playing Tetris on it. Microsoft Azure’s CTO Mark Russinovich revealed the fun test via Twitter, alongside a short GIF."
+    publishedDateTime: 2020-12-07T16:10:00Z
+    webUrl: "https://www.techradar.com/uk/news/microsoft-just-stress-tested-its-most-powerful-azure-node-in-a-pretty-fun-way"
+    ampWebUrl: "https://www.techradar.com/uk/amp/news/microsoft-just-stress-tested-its-most-powerful-azure-node-in-a-pretty-fun-way"
+    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/uk/amp/news/microsoft-just-stress-tested-its-most-powerful-azure-node-in-a-pretty-fun-way"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 62
+      name: TechRadar
+      domain: techradar.com
+    quality: 94
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://cdn.mos.cms.futurecdn.net/9v2cYY3QaQvXNuTdL4DeSF-1200-80.jpg"
+        width: 971
+        height: 545
         isCached: true
-  - title: "Axilion Smart Mobility recognized as the finalist of Azure - AI and Machine Learning 2020 Microsoft Partner of the Year"
-    excerpt: "Global Partner of the Year 2020 in AI & Machine Learning Mr. Moshe Leon, Mayor of Jerusalem - \" Jerusalem's long-standing partnership with Axilion is getting international recognition once again, with Microsoft's announcement of Axilion as this year's finalist in their Global 2020 Partner of the Year Award by Microsoft's top management."
-    publishedDateTime: 2020-07-15T07:49:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/axilion-smart-mobility-recognized-as-the-finalist-of-azure-ai-and-machine-learning-2020-microsoft-partner-of-the-year-1029393925"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/axilion-smart-mobility-recognized-as-the-finalist-of-azure-ai-and-machine-learning-2020-microsoft-partner-of-the-year-1029393925"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/axilion-smart-mobility-recognized-as-the-finalist-of-azure-ai-and-machine-learning-2020-microsoft-partner-of-the-year-1029393925"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 53
-  - title: "IFI Techsolutions Recognized as a Finalist of OSS on Azure 2020 Microsoft Partner of the Year"
-    excerpt: "IFI Techsolutions today announced it has been named a finalist of OSS on Azure 2020 Microsoft Partner of the Year Award. The company"
-    publishedDateTime: 2020-07-13T19:30:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/ifi-techsolutions-recognized-as-a-finalist-of-oss-on-azure-2020-microsoft-partner-of-the-year-301092416.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 26
-    images:
-      - url: "https://mma.prnewswire.com/media/1213735/IFI_Techsolutions_Finalist_Microsoft_Partner_Award.jpg?p=facebook"
-        width: 2560
-        height: 1340
-        isCached: true
-  - title: "IFI Techsolutions Recognized as a Finalist of OSS on Azure 2020 Microsoft Partner of the Year"
-    excerpt: "MUMBAI, July 14, 2020 /PRNewswire/ -- IFI Techsolutions today announced it has been named a finalist of OSS on Azure 2020 Microsoft Partner of the Year Award. The company was honored among a global field of top Microsoft partners for demonstrating ..."
-    publishedDateTime: 2020-07-14T04:50:00Z
-    webUrl: "https://www.prnewswire.com/in/news-releases/ifi-techsolutions-recognized-as-a-finalist-of-oss-on-azure-2020-microsoft-partner-of-the-year-830017699.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 26
-    images:
-      - url: "http://mma.prnewswire.com/media/1213735/IFI_Techsolutions_Finalist_Microsoft_Partner_Award.jpg?p=facebook"
-        width: 2560
-        height: 1340
-        isCached: true
-  - title: "Quisitive Joins the Microsoft Cloud Native Accelerate Program"
-    excerpt: "PRNewswire/ -- Quisitive Technology Solutions Inc. (“Quisitive” or the “Company”) (TSXV: QUIS), a premier Microsoft Solutions Provider, joins Microsoft’s latest Cloud Native Accelerate Program (“Program”),"
-    publishedDateTime: 2020-11-23T14:00:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-software-industry-information-technology-cloud-computing-services-4b0902f11e9b6f6551f6718f21b70407"
+  - title: "Cyber Security Cloud Launches WafCharm on Microsoft Azure"
+    excerpt: "Cyber Security Cloud, Inc. (CSC) is pleased to announce the availability of WafCharm on Microsoft Azure. Already available to over one million Amazon AWS users around the world, this launch provides Azure users with AI operation of Web Application Firewall (WAF) rules,"
+    publishedDateTime: 2020-12-01T13:01:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/business-technology-products-and-services-asia-cloud-computing-services-94e459be8e4b46e28c817ad8937de808"
     type: article
     provider:
       name: Associated Press
       domain: apnews.com
-    quality: 22
+    quality: 54
     images:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
         isCached: true
-  - title: "Ukrainian Azure Expert MSP Partner strengthens its Azure skills with achieved two Microsoft Advanced Specializations"
-    excerpt: "Cloud Services has earned the Modernization of Web Applications in Microsoft Azure advanced specialization, and Windows Server and SQL Server Migration to Microsoft Azure advanced specialization, a validation of a solution partner’s in-depth knowledge ..."
-    publishedDateTime: 2020-07-24T10:12:00Z
-    webUrl: "https://news.microsoft.com/en-cee/2020/07/24/ukrainian-azure-expert-msp-partner-strengthens-its-azure-skills-with-achieved-two-microsoft-advanced-specializations/"
+  - title: "Microsoft just launched new Azure cloud capabilities that will help it meet the needs of the $10 billion JEDI contract with the Pentagon"
+    excerpt: "Microsoft beat out Amazon last year in winning the $10 billion Joint Enterprise Defense Infrastructure (JEDI) contract with the Department of Defense."
+    publishedDateTime: 2020-12-07T14:12:00Z
+    webUrl: "https://www.businessinsider.com/microsoft-azure-government-cloud-jedi-contract-dod-pentagon-2020-12"
     type: article
     provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 14
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 44
     images:
-      - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/566/2020/07/Ukraine-768x512.jpg"
-        width: 768
-        height: 512
+      - url: "https://i.insider.com/5fcabc41037cbd00186140ed?width=700"
+        width: 700
+        height: 525
         isCached: true
-  - title: "Axilion Smart Mobility recognized as the finalist of Azure - AI and Machine Learning 2020 Microsoft Partner of the Year"
-    excerpt: "Axilion Smart Mobility today announced it was recognized as a finalist in Azure - AI and Machine Learning 2020 Microsoft Partner of the Year Award. The company was honored among"
-    publishedDateTime: 2020-07-14T19:05:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/07/p16620223/axilion-smart-mobility-recognized-as-the-finalist-of-azure-ai-and-machine-learning-2020-microsoft-"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/16620223"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16620223"
+  - title: "Exoprise CloudReady now available in the Microsoft Azure Marketplace"
+    excerpt: "Exoprise announced the availability of its CloudReady solution in the Microsoft Azure Marketplace, with streamlined deployment and management."
+    publishedDateTime: 2020-12-04T01:34:00Z
+    webUrl: "https://www.helpnetsecurity.com/2020/12/04/exoprise-cloudready-microsoft-azure/"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 13
+      name: Help Net Security
+      domain: helpnetsecurity.com
+    quality: 37
+    images:
+      - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/11/02114007/help_net_security.jpg"
+        width: 1200
+        height: 627
+        isCached: true
+  - title: "Exoprise Office 365 Monitoring App Now Available in the Microsoft Azure Marketplace"
+    excerpt: "PRNewswire/ -- Exoprise, a leading provider of software-as-a-service (SaaS) and Office 365 monitoring, today announced the availability of its"
+    publishedDateTime: 2020-12-01T15:58:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/exoprise-office-365-monitoring-app-now-available-in-the-microsoft-azure-marketplace-301182861.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 31
+    images:
+      - url: "https://mma.prnewswire.com/media/1020851/exoprise_Logo.jpg?p=facebook"
+        width: 1024
+        height: 536
+        isCached: true
+  - title: "Accenture Acquires AWS, Microsoft Azure Cloud Partner Olikka"
+    excerpt: "Accenture acquires Olikka, an Australia-based systems integrator for Amazon Web Services (AWS) & Microsoft Azure. Accenture is the worlds' top public cloud MSP, ChannelE2E research says."
+    publishedDateTime: 2020-12-02T02:31:00Z
+    webUrl: "https://www.channele2e.com/investors/mergers-acquisitions/accenture-buys-aws-microsoft-azure-cloud-partner-olikka/"
+    type: article
+    provider:
+      name: ChannelE2E
+      domain: channele2e.com
+    quality: 17
 
-secured: "uwPcsj6RMRkVxDHXaF87pNNIdeFM8kWhGU/r8Brf+SmYBKegUCmPvtKOjGgsh4rTTkUHq8Mccs172xt/9XC/oXNdarS78d2gcGYdjMrDjJXUSM98oIzZ1E02rngyStZWWit1N3B8LOhKs1I+NrmUfvHwysT+UArT63So4Iji8OPFmKgmAtaNpptOVMWGF8BS/Wfsa5b43x4r/iDdOk8NJvDl5n5XSYG93/mwd5m3/Xb2vGI1ahNYWqTuemE8mHtkBbNVwdJ3b18bjmTofiTI9tOaaONELpSJ6uosyskFxfR5VGBCZR3K4BMkGZHfB/Jy0tyGK2jwh8sJ3EEqA6vSFgaAJCRZD6NY/dIh5i1rY/M=;d3fb3yQnzkSkhNZgmsgfIg=="
+secured: "Esoz1etoLgzDXEJfwG7KJthLydDXg5o1cRr6pIvr9thjjv5h5xRwAep2HCFydeyD/QBDYRMSajcqHWre8pNbkSauN1F7QiIbA2q+5cEq0xVn7rT0a4CHxKDVmyz6rF/ZblfsSpHK1v3XmkQNEzvv4rRilXwx0/9vq7r4hXtXXnroUYuKBSNMZ81nzaE5lgSQyk7fZlA9bVJk1lPQqLTpPVo8YrNgM90QVtsGGqwmd4UXPO+TAkOYwREwzEenRYQpdz4ri5hLPV5bgqOAcrR/+cMA9xIjBdIj9jlHE1ydW16iXPVAf2nZPI50NsbVM5O4dibcNj9a8sl658NapS7l0HM4ZwVfhMjDU/qLtN3kFsY=;LTRKgal9o3646nkbXvdHeQ=="
 ---
 

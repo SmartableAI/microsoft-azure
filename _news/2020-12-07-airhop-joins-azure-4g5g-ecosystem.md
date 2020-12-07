@@ -40,20 +40,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Exoprise CloudReady now available in the Microsoft Azure Marketplace"
-    excerpt: "Exoprise announced the availability of its CloudReady solution in the Microsoft Azure Marketplace, with streamlined deployment and management."
-    publishedDateTime: 2020-12-04T01:34:00Z
-    webUrl: "https://www.helpnetsecurity.com/2020/12/04/exoprise-cloudready-microsoft-azure/"
-    type: article
-    provider:
-      name: Help Net Security
-      domain: helpnetsecurity.com
-    quality: 37
-    images:
-      - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/11/02114007/help_net_security.jpg"
-        width: 1200
-        height: 627
-        isCached: true
   - title: "Telecom Provider Migrates Confidently to Microsoft Azure with Fortinet’s Dynamic Cloud Security Solutions"
     excerpt: "For telecommunications providers, it is critical to remain agile and keep pace with the evolving requirements of their customers while also ensuring security and business continuity."
     publishedDateTime: 2020-12-07T14:54:00Z

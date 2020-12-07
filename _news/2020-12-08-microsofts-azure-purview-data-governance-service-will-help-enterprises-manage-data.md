@@ -1,28 +1,30 @@
 ---
 category: news
-title: "Nadella takes a dig at Amazon as Microsoft unveils Azure Purview"
-excerpt: "Taking an apparent dig at Amazon and its Cloud arm AWS, Microsoft CEO Satya Nadella has said that it is important to not only trust a vendors technology capabilities but also its ‘business model alignment with its customers."
-publishedDateTime: 2020-12-04T08:41:00Z
-originalUrl: "https://www.sify.com/finance/nadella-takes-a-dig-at-amazon-as-microsoft-unveils-azure-purview-news-topnews-umegIohfjjjib.html"
-webUrl: "https://www.sify.com/finance/nadella-takes-a-dig-at-amazon-as-microsoft-unveils-azure-purview-news-topnews-umegIohfjjjib.html"
-ampWebUrl: "https://www.sify.com/finance/nadella-takes-a-dig-at-amazon-as-microsoft-unveils-azure-purview-news-topnews-umegIohfjjjib.html"
-cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/finance/nadella-takes-a-dig-at-amazon-as-microsoft-unveils-azure-purview-news-topnews-umegIohfjjjib.html"
+title: "Microsoft's Azure Purview data governance service will help enterprises manage data"
+excerpt: "Microsoft's Azure Purview is a new cloud-based service that will help enterprises manage data and support compliance and data privacy regulations."
+publishedDateTime: 2020-12-07T16:04:00Z
+originalUrl: "https://www.businessinsider.com/microsofts-data-governance-service-tackles-complex-privacy-landscape-2020-12"
+webUrl: "https://www.businessinsider.com/microsofts-data-governance-service-tackles-complex-privacy-landscape-2020-12"
 type: article
-quality: 57
+quality: 71
 heat: -1
 published: false
 
 provider:
-  name: Sify.com
-  domain: sify.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
 
 images:
-  - url: "https://www.sify.com/uploads/satya_nadella_microsoft_ap_ul3hPHcfcijca.jpeg"
-    width: 900
-    height: 450
+  - url: "https://i.insider.com/5fce3b9deadd8400183df6ee?width=1200&format=jpeg"
+    width: 1200
+    height: 600
     isCached: true
 
 related:
@@ -110,20 +112,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Microsoft's Azure Purview data governance service will help enterprises manage data"
-    excerpt: "Microsoft's Azure Purview is a new cloud-based service that will help enterprises manage data and support compliance and data privacy regulations."
-    publishedDateTime: 2020-12-07T16:04:00Z
-    webUrl: "https://www.businessinsider.com/microsofts-data-governance-service-tackles-complex-privacy-landscape-2020-12"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 71
-    images:
-      - url: "https://i.insider.com/5fce3b9deadd8400183df6ee?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Microsoft Build brings announcements for cloud data, analytics services, and intersection of the two"
     excerpt: "A series of announcements around Synapse Analytics, Cosmos DB, Azure Database and SQL Edge make this year's Microsoft Build conference a virtual event revealing actual advances and concrete integrations."
     publishedDateTime: 2020-05-19T15:00:00Z
@@ -139,6 +127,22 @@ related:
       - url: "https://zdnet2.cbsistatic.com/hub/i/r/2020/05/13/bf550a82-e9e8-4511-bee9-983426e8fc52/thumbnail/1200x675/aaf99352c82c362f4feba84192e7819c/2555435eba4cad133864-58121622-nvidia-accelerates-apache-spark.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Nadella takes a dig at Amazon as Microsoft unveils Azure Purview"
+    excerpt: "Taking an apparent dig at Amazon and its Cloud arm AWS, Microsoft CEO Satya Nadella has said that it is important to not only trust a vendors technology capabilities but also its ‘business model alignment with its customers."
+    publishedDateTime: 2020-12-04T08:41:00Z
+    webUrl: "https://www.sify.com/finance/nadella-takes-a-dig-at-amazon-as-microsoft-unveils-azure-purview-news-topnews-umegIohfjjjib.html"
+    ampWebUrl: "https://www.sify.com/finance/nadella-takes-a-dig-at-amazon-as-microsoft-unveils-azure-purview-news-topnews-umegIohfjjjib.html"
+    cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/finance/nadella-takes-a-dig-at-amazon-as-microsoft-unveils-azure-purview-news-topnews-umegIohfjjjib.html"
+    type: article
+    provider:
+      name: Sify.com
+      domain: sify.com
+    quality: 57
+    images:
+      - url: "https://www.sify.com/uploads/satya_nadella_microsoft_ap_ul3hPHcfcijca.jpeg"
+        width: 900
+        height: 450
         isCached: true
   - title: "Cyber Security Cloud WafCharm now available on Microsoft Azure"
     excerpt: "Cyber Security Cloud announces the availability of WafCharm on Microsoft Azure, providing AI operation of WAF rules."
@@ -331,6 +335,6 @@ related:
       domain: telecompaper.com
     quality: 17
 
-secured: "9moIqiGgZ89iZnaX1oLQkWxPhZPTW9MJJs6s3UjV+Zyw9MaJ+STQzW/JLIoFPclt6txQK/6WXCMfPGBYMmf+PYpaFlsQmz+V3Li4BtQQABzOPpCQ1ErPxa4YFPiAXaW1AoLuQPpURCOPrmKPX+js6xNOY6p91MsdNTg0E3UUm1tc76JslU+TeWKZiBhsShrI965+agYd1brKiHXwQnT8rwOVGp6T8Wdxbu23JKZqq51A+Ae2ZQB5xtwWi3j5/C2te4TXk4+xa7oFLyFFqe0HIvwPRQ77Tvv7faTUgUFhGe0WZnDPezTo8W3iKRPYtFslECiYIRbFWa4LMmSbXuLHU2gTJtmZEie4Pxk4DnHPhqY=;7mKaz+uzsBP1hkCVbX7MnA=="
+secured: "z1+IIjsWq8UlhVloKshv/st2l0iXhBQGn05dy6lnyNmnxVbJzmKIR8HiqSNcxH/YbzDoh/jkBf6szoFYw/6AFBjebgDE7POArzXifEzudZ1B0fXmGLU/OGCoQF3WAFtIMImOudP6YCSNFmp/B9ZqZkddgdADK7N7rRuFFjwMlb2ZSDXUDfDdXBGYbJdBgndVl0SA0JOxriaL3C2eT1Y0bcyVtjMVtzSKZNU6rNC3yvhb5eRiJguf7VLoK1rQRSkc0bhYJmY7f3/ODNelQQL/EeqTYcYpMmEEiHfEx5stMP04u4O1IjE4Mty1dbbuz9I+aU+lAzdfJDnGuRrMKvsEM+LLX3YFdfenSpmutuwPKEg=;bws/kUE0NHjbjyEyD/EFJw=="
 ---
 

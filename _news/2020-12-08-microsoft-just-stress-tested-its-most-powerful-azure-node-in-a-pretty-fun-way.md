@@ -1,45 +1,48 @@
 ---
 category: news
-title: "Cyber Security Cloud Launches WafCharm on Microsoft Azure"
-excerpt: "Cyber Security Cloud, Inc. (CSC) is pleased to announce the availability of WafCharm on Microsoft Azure. Already available to over one million Amazon AWS users around the world, this launch provides Azure users with AI operation of Web Application Firewall (WAF) rules,"
-publishedDateTime: 2020-12-01T13:01:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/business-technology-products-and-services-asia-cloud-computing-services-94e459be8e4b46e28c817ad8937de808"
-webUrl: "https://apnews.com/press-release/business-wire/business-technology-products-and-services-asia-cloud-computing-services-94e459be8e4b46e28c817ad8937de808"
+title: "Microsoft just stress-tested its most powerful Azure node in a pretty fun way"
+excerpt: "Microsoft has been stress-testing its most powerful Azure node using a rather unusual method – by playing Tetris on it. Microsoft Azure’s CTO Mark Russinovich revealed the fun test via Twitter, alongside a short GIF."
+publishedDateTime: 2020-12-07T16:10:00Z
+originalUrl: "https://www.techradar.com/uk/news/microsoft-just-stress-tested-its-most-powerful-azure-node-in-a-pretty-fun-way"
+webUrl: "https://www.techradar.com/uk/news/microsoft-just-stress-tested-its-most-powerful-azure-node-in-a-pretty-fun-way"
+ampWebUrl: "https://www.techradar.com/uk/amp/news/microsoft-just-stress-tested-its-most-powerful-azure-node-in-a-pretty-fun-way"
+cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/uk/amp/news/microsoft-just-stress-tested-its-most-powerful-azure-node-in-a-pretty-fun-way"
 type: article
-quality: 54
-heat: -1
-published: false
+quality: 94
+heat: 214
+published: true
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: TechRadar
+  domain: techradar.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/techradar.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
-  - Security
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://cdn.mos.cms.futurecdn.net/9v2cYY3QaQvXNuTdL4DeSF-1200-80.jpg"
+    width: 971
+    height: 545
     isCached: true
 
 related:
-  - title: "Microsoft just stress-tested its most powerful Azure node in a pretty fun way"
-    excerpt: "Microsoft has been stress-testing its most powerful Azure node using a rather unusual method – by playing Tetris on it. Microsoft Azure’s CTO Mark Russinovich revealed the fun test via Twitter, alongside a short GIF."
-    publishedDateTime: 2020-12-07T16:10:00Z
-    webUrl: "https://www.techradar.com/uk/news/microsoft-just-stress-tested-its-most-powerful-azure-node-in-a-pretty-fun-way"
-    ampWebUrl: "https://www.techradar.com/uk/amp/news/microsoft-just-stress-tested-its-most-powerful-azure-node-in-a-pretty-fun-way"
-    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/uk/amp/news/microsoft-just-stress-tested-its-most-powerful-azure-node-in-a-pretty-fun-way"
+  - title: "Cyber Security Cloud Launches WafCharm on Microsoft Azure"
+    excerpt: "Cyber Security Cloud, Inc. (CSC) is pleased to announce the availability of WafCharm on Microsoft Azure. Already available to over one million Amazon AWS users around the world, this launch provides Azure users with AI operation of Web Application Firewall (WAF) rules,"
+    publishedDateTime: 2020-12-01T13:01:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/business-technology-products-and-services-asia-cloud-computing-services-94e459be8e4b46e28c817ad8937de808"
     type: article
     provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 94
+      name: Associated Press
+      domain: apnews.com
+    quality: 54
     images:
-      - url: "https://cdn.mos.cms.futurecdn.net/9v2cYY3QaQvXNuTdL4DeSF-1200-80.jpg"
-        width: 971
-        height: 545
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
   - title: "Microsoft just launched new Azure cloud capabilities that will help it meet the needs of the $10 billion JEDI contract with the Pentagon"
     excerpt: "Microsoft beat out Amazon last year in winning the $10 billion Joint Enterprise Defense Infrastructure (JEDI) contract with the Department of Defense."
@@ -104,6 +107,6 @@ related:
       domain: channele2e.com
     quality: 17
 
-secured: "NGa9vbHB0igHR3qD44MCzxJuZ1lmFRmKnDIDWolczgzFfUMx1Tbx/mgu6ma0DSON3h88ytJrAOq3gOkpLPMiy9xd7aya8RHPhstLX+nyok+r4Jflmp/ZdBeKsu5cx/ow9R/yNvtRlqw5UkbyJhDZ6ry6Gvx7Q8YHafQSpSji33t66cN2ocDPpQpvwijLhafLjvPdvrUHGAs76/VpSuqPx2Na/p2tJxrZVDraBL5ZcJlkOSioaWO+JV5GHmDcTPBfuwCbQ1TU5AhwPdUpcVZuhdKVbJGnFyIANgiHM0sTowZFD/ejhYds64B9D5v6IMMl0d6JMgh7PnvziVYK58aaVJtx6ufIC6ot6DAu7irTCOY=;BEii3q1+Oa5tuc690i5hdA=="
+secured: "3KBmVo/7NM15AxH/kLgmHHUxQ1BmaUlPsI2XY39JSzjlJ51J8OgG9VMseX0Fjufz5CvmlSSzmtZeHw3dyt9IUEGJtv5royXNYKe9P6pZy3Vgzekv0GQwA7LD9R4hkhlN8NBCxWoNm2Yig/gXWiXYKU3wOVh9QAkbJ7ZuiENAaqjhiPO0RVG0vSmw8JvXcda+EgYHwmYJ4gZSReOMZtUwi8+c2yIg8EL7zZuummK3hA383FQj9lQCmdH26na90phNYNydtraIhlDNr7lYGgx+91HoV3D5avRqD+ZeivIVFp8LCKjTDbpqDTWUF7E+2ribECEhvSxQBHBMLcosV1dKD+DcSx2YVv2VqLJgGtE4I+Q=;iZQ1FeylXu5AvDpscxfW8Q=="
 ---
 

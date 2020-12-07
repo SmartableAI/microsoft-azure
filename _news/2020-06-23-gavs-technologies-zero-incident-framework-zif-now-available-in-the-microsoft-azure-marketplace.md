@@ -38,20 +38,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Exoprise Office 365 Monitoring App Now Available in the Microsoft Azure Marketplace"
-    excerpt: "PRNewswire/ -- Exoprise, a leading provider of software-as-a-service (SaaS) and Office 365 monitoring, today announced the availability of its"
-    publishedDateTime: 2020-12-01T15:58:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/exoprise-office-365-monitoring-app-now-available-in-the-microsoft-azure-marketplace-301182861.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 31
-    images:
-      - url: "https://mma.prnewswire.com/media/1020851/exoprise_Logo.jpg?p=facebook"
-        width: 1024
-        height: 536
-        isCached: true
   - title: "IDology integrates its ExpectID solution with the Microsoft Azure Active Directory External Identities"
     excerpt: "IDology partners with Microsoft to integrate its ExpectID identity verification and anti-fraud solution with the Microsoft Azure AD External Identities."
     publishedDateTime: 2020-07-03T00:13:00Z

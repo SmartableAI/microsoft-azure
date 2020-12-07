@@ -1,26 +1,28 @@
 ---
 category: news
-title: "AMS-IX welcomes Microsoft Azure Peering to its cloud portfolio"
-excerpt: "IX has added Microsoft Azure Peering Service to its Cloud portfolio. This means enterprises and other organisations connected to AMS-IX are set to benefit from “high-quality connectivity” to Microsoft cloud services,"
-publishedDateTime: 2020-11-26T14:36:00Z
-originalUrl: "https://www.capacitymedia.com/articles/3827061/ams-ix-welcomes-microsoft-azure-peering-to-its-cloud-portfolio"
-webUrl: "https://www.capacitymedia.com/articles/3827061/ams-ix-welcomes-microsoft-azure-peering-to-its-cloud-portfolio"
+title: "Microsoft announces Azure cloud for top secret government data"
+excerpt: "Microsoft today announced the launch of a new offering for its mission-critical Azure Government cloud targeted at government customers and partners that regularly work with top-secret classified data."
+publishedDateTime: 2020-12-07T15:30:00Z
+originalUrl: "https://www.bleepingcomputer.com/news/security/microsoft-announces-azure-cloud-for-top-secret-government-data/"
+webUrl: "https://www.bleepingcomputer.com/news/security/microsoft-announces-azure-cloud-for-top-secret-government-data/"
+ampWebUrl: "https://www.bleepingcomputer.com/news/security/microsoft-announces-azure-cloud-for-top-secret-government-data/amp/"
+cdnAmpWebUrl: "https://www-bleepingcomputer-com.cdn.ampproject.org/c/s/www.bleepingcomputer.com/news/security/microsoft-announces-azure-cloud-for-top-secret-government-data/amp/"
 type: article
-quality: 37
+quality: 57
 heat: -1
 published: false
 
 provider:
-  name: Capacity Media
-  domain: capacitymedia.com
+  name: Bleeping Computer
+  domain: bleepingcomputer.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://www.capacitymedia.com/Image/ServeImage?id=50143&w=780&h=442&cr=true"
-    width: 780
-    height: 442
+  - url: "https://www.bleepstatic.com/content/hl-images/2020/12/07/US-Capitol-Congress.jpg"
+    width: 1600
+    height: 813
     isCached: true
 
 related:
@@ -580,22 +582,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Microsoft announces Azure cloud for top secret government data"
-    excerpt: "Microsoft today announced the launch of a new offering for its mission-critical Azure Government cloud targeted at government customers and partners that regularly work with top-secret classified data."
-    publishedDateTime: 2020-12-07T15:30:00Z
-    webUrl: "https://www.bleepingcomputer.com/news/security/microsoft-announces-azure-cloud-for-top-secret-government-data/"
-    ampWebUrl: "https://www.bleepingcomputer.com/news/security/microsoft-announces-azure-cloud-for-top-secret-government-data/amp/"
-    cdnAmpWebUrl: "https://www-bleepingcomputer-com.cdn.ampproject.org/c/s/www.bleepingcomputer.com/news/security/microsoft-announces-azure-cloud-for-top-secret-government-data/amp/"
-    type: article
-    provider:
-      name: Bleeping Computer
-      domain: bleepingcomputer.com
-    quality: 57
-    images:
-      - url: "https://www.bleepstatic.com/content/hl-images/2020/12/07/US-Capitol-Congress.jpg"
-        width: 1600
-        height: 813
-        isCached: true
   - title: "TCS Quartz? suite becomes available on Microsoft Azure Blockchain Service"
     excerpt: "Tata Consultancy Services announced the general availability of its award winning Quartz? suite of blockchain based solutions on Microsoft Azure Blockchain Service. The Quartz suite of products helps organizations set up truly connected ecosystems ..."
     publishedDateTime: 2020-09-21T07:04:00Z
@@ -1107,6 +1093,20 @@ related:
         width: 502
         height: 355
         isCached: true
+  - title: "AMS-IX welcomes Microsoft Azure Peering to its cloud portfolio"
+    excerpt: "IX has added Microsoft Azure Peering Service to its Cloud portfolio. This means enterprises and other organisations connected to AMS-IX are set to benefit from “high-quality connectivity” to Microsoft cloud services,"
+    publishedDateTime: 2020-11-26T14:36:00Z
+    webUrl: "https://www.capacitymedia.com/articles/3827061/ams-ix-welcomes-microsoft-azure-peering-to-its-cloud-portfolio"
+    type: article
+    provider:
+      name: Capacity Media
+      domain: capacitymedia.com
+    quality: 37
+    images:
+      - url: "https://www.capacitymedia.com/Image/ServeImage?id=50143&w=780&h=442&cr=true"
+        width: 780
+        height: 442
+        isCached: true
   - title: "TCS Quartz suite becomes available on Microsoft Azure Blockchain Service"
     excerpt: "Tata Consultancy Services announced the general availability of its award winning Quartz suite of blockchain based solutions on Microsoft Azure Blockchain Service. The Quartz suite of products helps organizations set up truly connected ecosystems ..."
     publishedDateTime: 2020-09-21T21:38:00Z
@@ -1609,6 +1609,6 @@ related:
         height: 450
         isCached: true
 
-secured: "t5IYR9coq0fUwEcHWGKSyKE1KZAJcbELp5vjvY0lXHl85mk2ifMRzMXLS6GobJ6oL1a1It73871vnZhOiAuzfpfzjMrGCImRXLg0HgmYAOlUQAsQAlFBorcfAc53Fo+jiJUPubzxrvQEqY87sDqcBTvYZ+1p+rE2HoPjq3pdda4ADTWJsO7ABwqpOESkV3XDQTv7eOpwTpuRWLmKlVLsahGr5ztCBkU28QieP76VrO9WZYzNGAjZfkZpNUIfSLrMyecDNgvImQSI+YJVbXlIk3CEUYyFc2H8DYnmzCDJtQqcX6IvyGQdSBK9xQeq7X1+yB1YwXsjPDoaEZRyQamr4YIsFDv+lzWF8auhvz138xSIjRWDuMKSvz31CZ7Hu9y1xUQrhk8+Ylngm/M1WvT+ZU8l2TNHTStTts5HYIDu2hsTjmc45AplBGhMMv6+b3D6QGso6ty8UXqUmIO7ojoidKliY9f7g85ODmA88SNER5/FRZPkzZyVRmsWtqI2JSj+9Hjm8wyv0X+jzbAyzkyY5w==;AnQbRyRZUo1HVO3CHff//w=="
+secured: "sUmUi/nNhna/Jmg8ec8553SWhM5fRAb+mRXNfeVguzG785913RY1cok3EocQrnJhVlwfVzAp+1Kt0AlphR01Dm/3UmeM+cf420zdpblgmXjHKo0tgtd2GJfTxp9d02KLcAKHN5E245kUFlKikGJe4rvG6QWI2PvKdC04hRe0wDxr99czuFVuzHcT2PFR86K5zA+idSj2XZllv2dbOnJ+/hqNPkFg/68+kLiaJTnMAbNzj942aGygrrXs+K2+z3Zk5FtNaXqBZaDCP6cC0b8AWlUUYr9BuycYXTspgC0k8QHZR4+p+LceHQ/OmuzihM9002yEb3akvUKmQTm64DhDz765k8WRMawpzzfS6w0GVjA=;MIEQMFoi9brlx2Exb1pBpg=="
 ---
 

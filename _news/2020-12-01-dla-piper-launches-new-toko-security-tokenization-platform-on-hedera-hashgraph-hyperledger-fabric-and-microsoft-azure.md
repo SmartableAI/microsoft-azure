@@ -36,20 +36,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 70
-  - title: "Cyber Security Cloud Launches WafCharm on Microsoft Azure"
-    excerpt: "Cyber Security Cloud, Inc. (CSC) is pleased to announce the availability of WafCharm on Microsoft Azure. Already available to over one million Amazon AWS users around the world, this launch provides Azure users with AI operation of Web Application Firewall (WAF) rules,"
-    publishedDateTime: 2020-12-01T13:01:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/business-technology-products-and-services-asia-cloud-computing-services-94e459be8e4b46e28c817ad8937de808"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 54
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "HUsexRYQha5GJVqC6r1EbVupOyUhAimr8OhRJK6ouXEE7cEMp25wmhP8jI4RM6NegVAXEJezbIFCJMJDHqyD0KUWPsT0OuewJ3XrNP4z31GM2HIsN9+X8QtD87/gy7dlwPh+vPLdIgcAU7NyMa8G31ChxuDVCIyyg8jJJfQWzEj9DM2jdBPalwdH+u6gYe14ZJnF3fiorny66xGzuqHRiTBTpil6SG9wjDD8cwM/7y9uwVWp5/oBgk+xD41awu7Nbds7Fk2Rc1vTyC2o8xJOEcDUfiavdiK5D9+Bch0gp9PTz67hf+ZuK4T2RdSB1kIPlkfdzGB67p7tIGYiqFPsVgr/M8vkMa0KSEyeO1y8+sI=;jla4/5mOKLrH8eaPQ9gFIQ=="
 ---

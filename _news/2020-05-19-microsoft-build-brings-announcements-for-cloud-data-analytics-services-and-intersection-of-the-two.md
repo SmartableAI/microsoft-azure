@@ -114,6 +114,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Microsoft's Azure Purview data governance service will help enterprises manage data"
+    excerpt: "Microsoft's Azure Purview is a new cloud-based service that will help enterprises manage data and support compliance and data privacy regulations."
+    publishedDateTime: 2020-12-07T16:04:00Z
+    webUrl: "https://www.businessinsider.com/microsofts-data-governance-service-tackles-complex-privacy-landscape-2020-12"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 71
+    images:
+      - url: "https://i.insider.com/5fce3b9deadd8400183df6ee?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Nadella takes a dig at Amazon as Microsoft unveils Azure Purview"
     excerpt: "Taking an apparent dig at Amazon and its Cloud arm AWS, Microsoft CEO Satya Nadella has said that it is important to not only trust a vendors technology capabilities but also its ‘business model alignment with its customers."
     publishedDateTime: 2020-12-04T08:41:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/12/03/microsoft-azure-purview-azure-syn
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/03/microsoft-azure-purview-azure-synapse-analytics/amp/"
 type: article
 quality: 113
-heat: 533
+heat: 553
 published: true
 
 provider:
@@ -98,6 +98,20 @@ related:
       - url: "https://image.cnbcfm.com/api/v1/image/106805801-16070117561607011753-12761111221-1080pnbcnews.jpg?v=1607011756"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Microsoft's Azure Purview data governance service will help enterprises manage data"
+    excerpt: "Microsoft's Azure Purview is a new cloud-based service that will help enterprises manage data and support compliance and data privacy regulations."
+    publishedDateTime: 2020-12-07T16:04:00Z
+    webUrl: "https://www.businessinsider.com/microsofts-data-governance-service-tackles-complex-privacy-landscape-2020-12"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 71
+    images:
+      - url: "https://i.insider.com/5fce3b9deadd8400183df6ee?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Microsoft Build brings announcements for cloud data, analytics services, and intersection of the two"
     excerpt: "A series of announcements around Synapse Analytics, Cosmos DB, Azure Database and SQL Edge make this year's Microsoft Build conference a virtual event revealing actual advances and concrete integrations."
