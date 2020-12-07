@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/azure-storage-blob-inven
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-storage-blob-inventory-public-preview/"
 type: article
 quality: 99
-heat: 139
+heat: 159
 published: true
 
 provider:
@@ -32,6 +32,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 84
+  - title: "Grafana query editor for Azure Data Explorer is in public preview"
+    excerpt: "With the new Grafana query builder, it is now possible to build dashboards in just a few clicks using a simple graphical experience.  "
+    publishedDateTime: 2020-12-07T22:20:38Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/grafana-query-editor-for-azure-data-explorer/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
   - title: "New feature in public preview for intelligent ingestion from Event Hubs source"
     excerpt: "New ingestion feature intelligently suggests relevant table schema and mapping definitions to Event Hubs source"
     publishedDateTime: 2020-11-30T19:00:07Z
