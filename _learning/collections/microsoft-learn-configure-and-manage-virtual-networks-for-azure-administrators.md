@@ -27,9 +27,9 @@ items:
   - courses/microsoft-learn-control-network-traffic-flow-with-routes
   - courses/microsoft-learn-connect-on-premises-network-with-vpn-gateway
   - courses/microsoft-learn-connect-on-premises-network-with-expressroute
-  - courses/microsoft-learn-load-balance-web-traffic-with-application-gateway
   - courses/microsoft-learn-improve-app-scalability-resiliency-with-load-balancer
   - courses/microsoft-learn-troubleshoot-inbound-network-connectivity-azure-load-balancer
+  - courses/microsoft-learn-load-balance-web-traffic-with-application-gateway
   - courses/microsoft-learn-troubleshoot-azure-network-infrastructure
   - courses/microsoft-learn-create-content-delivery-network-azure-cdn-blob-services
   - courses/microsoft-learn-distribute-load-with-traffic-manager
