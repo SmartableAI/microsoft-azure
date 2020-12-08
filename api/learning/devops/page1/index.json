@@ -4,15 +4,15 @@
   "page": 1,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-create-a-build-pipeline.md",
-      "title": "Create a build pipeline with Azure Pipelines",
-      "excerpt": "Set up a continuous integration (CI) pipeline that automates the process of building your application.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-create-a-build-pipeline/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-a-build-pipeline/",
-      "length": "PT1H20M",
+      "path": "_learning/courses/microsoft-learn-create-release-pipeline.md",
+      "title": "Create a release pipeline in Azure Pipelines",
+      "excerpt": "Set up a continuous delivery (CD) pipeline that automates the process of deploying your application.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-create-release-pipeline/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-release-pipeline/",
+      "length": "PT1H4M",
       "ratings": {
-        "count": 4961,
-        "average": 4.744608
+        "count": 1060,
+        "average": 4.6839623
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -29,10 +29,10 @@
       "levels": [
         "Beginner"
       ],
-      "heat": 133,
+      "heat": 130,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/azure-devops/create-a-build-pipeline-azure-pipelines-social.png",
+          "url": "https://docs.microsoft.com/learn/achievements/azure-devops/create-a-release-pipeline-with-azure-pipelines-social.png",
           "width": 800,
           "height": 400,
           "isCached": true
@@ -42,8 +42,8 @@
       "type": "course",
       "price": "Free",
       "topics": [
-        "DevOps",
-        "Azure"
+        "Azure",
+        "DevOps"
       ]
     },
     {
@@ -77,8 +77,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/",
           "length": "PT36M",
           "ratings": {
-            "count": 7981,
-            "average": 4.7808547
+            "count": 8010,
+            "average": 4.780899
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -119,8 +119,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-machine-learning-fundamentals/",
           "length": "PT23M",
           "ratings": {
-            "count": 980,
-            "average": 4.7357144
+            "count": 981,
+            "average": 4.735984
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -162,8 +162,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-devops-devtest-labs/",
           "length": "PT21M",
           "ratings": {
-            "count": 787,
-            "average": 4.7166457
+            "count": 789,
+            "average": 4.717364
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -205,8 +205,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/monitoring-fundamentals/",
           "length": "PT22M",
           "ratings": {
-            "count": 696,
-            "average": 4.7399426
+            "count": 698,
+            "average": 4.740688
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -413,8 +413,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/incident-response-with-alerting-on-azure/",
           "length": "PT53M",
           "ratings": {
-            "count": 1959,
-            "average": 4.644206
+            "count": 1960,
+            "average": 4.6443877
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -500,8 +500,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-virtual-machines/",
           "length": "PT1H7M",
           "ratings": {
-            "count": 15806,
-            "average": 4.692522
+            "count": 15809,
+            "average": 4.69258
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -571,8 +571,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-windows-virtual-machine-in-azure/",
           "length": "PT51M",
           "ratings": {
-            "count": 13597,
-            "average": 4.7114067
+            "count": 13598,
+            "average": 4.711428
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -614,8 +614,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-virtual-machines-with-azure-cli/",
           "length": "PT51M",
           "ratings": {
-            "count": 6155,
-            "average": 4.7033305
+            "count": 6156,
+            "average": 4.7033787
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -672,8 +672,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-devops-devtest-labs/",
       "length": "PT21M",
       "ratings": {
-        "count": 787,
-        "average": 4.7166457
+        "count": 789,
+        "average": 4.717364
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -738,8 +738,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduce-foundation-pillars-devops/",
           "length": "PT25M",
           "ratings": {
-            "count": 3025,
-            "average": 4.682314
+            "count": 3026,
+            "average": 4.682419
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -844,8 +844,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explain-devops-continous-delivery-quality/",
           "length": "PT18M",
           "ratings": {
-            "count": 1435,
-            "average": 4.719164
+            "count": 1436,
+            "average": 4.7186627
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -949,8 +949,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduce-foundation-pillars-devops/",
           "length": "PT25M",
           "ratings": {
-            "count": 3025,
-            "average": 4.682314
+            "count": 3026,
+            "average": 4.682419
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1019,8 +1019,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explain-devops-continous-delivery-quality/",
           "length": "PT18M",
           "ratings": {
-            "count": 1435,
-            "average": 4.719164
+            "count": 1436,
+            "average": 4.7186627
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1131,8 +1131,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-users-and-groups-in-azure-active-directory/",
           "length": "PT41M",
           "ratings": {
-            "count": 3358,
-            "average": 4.7114353
+            "count": 3360,
+            "average": 4.711607
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1216,8 +1216,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-and-manage-azure-key-vault/",
           "length": "PT29M",
           "ratings": {
-            "count": 2031,
-            "average": 4.6105366
+            "count": 2032,
+            "average": 4.6107283
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1283,8 +1283,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/monitoring-fundamentals/",
       "length": "PT22M",
       "ratings": {
-        "count": 696,
-        "average": 4.7399426
+        "count": 698,
+        "average": 4.740688
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1350,8 +1350,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/capture-application-logs-app-service/",
           "length": "PT55M",
           "ratings": {
-            "count": 1478,
-            "average": 4.6427603
+            "count": 1480,
+            "average": 4.6432433
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1593,8 +1593,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/incident-response-with-alerting-on-azure/",
           "length": "PT53M",
           "ratings": {
-            "count": 1959,
-            "average": 4.644206
+            "count": 1960,
+            "average": 4.6443877
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1637,8 +1637,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/capture-application-logs-app-service/",
           "length": "PT55M",
           "ratings": {
-            "count": 1478,
-            "average": 4.6427603
+            "count": 1480,
+            "average": 4.6432433
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2216,8 +2216,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/assess-your-development-process/",
           "length": "PT19M",
           "ratings": {
-            "count": 7006,
-            "average": 4.7083926
+            "count": 7008,
+            "average": 4.708476
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2258,8 +2258,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-devops/",
           "length": "PT25M",
           "ratings": {
-            "count": 7211,
-            "average": 4.7241716
+            "count": 7213,
+            "average": 4.724248
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2649,7 +2649,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 133,
+          "heat": 53,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/azure-devops/create-a-build-pipeline-azure-pipelines-social.png",
@@ -2866,7 +2866,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 133,
+          "heat": 53,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/azure-devops/create-a-build-pipeline-azure-pipelines-social.png",
@@ -3079,7 +3079,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 50,
+          "heat": 130,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/azure-devops/create-a-release-pipeline-with-azure-pipelines-social.png",
@@ -3228,7 +3228,7 @@
         }
       ],
       "size": 9,
-      "heat": 60,
+      "heat": 61,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/azure-devops/create-a-release-pipeline-with-azure-pipelines-social.png",
@@ -3918,8 +3918,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduce-foundation-pillars-devops/",
       "length": "PT25M",
       "ratings": {
-        "count": 3025,
-        "average": 4.682314
+        "count": 3026,
+        "average": 4.682419
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -4063,8 +4063,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explain-devops-continous-delivery-quality/",
       "length": "PT18M",
       "ratings": {
-        "count": 1435,
-        "average": 4.719164
+        "count": 1436,
+        "average": 4.7186627
       },
       "provider": {
         "name": "Microsoft Learn",

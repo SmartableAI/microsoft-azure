@@ -2,7 +2,7 @@
 title: "Azure Tips and Tricks"
 excerpt: ""
 type: collection
-heat: 61
+heat: 112
 
 provider:
   name: Microsoft
@@ -13,6 +13,7 @@ provider:
       height: 50
 
 items:
+  - videos/microsoft-how-to-run-c-notebooks-with-azure-cosmos-db-azure-tips-and-tricks
   - videos/microsoft-discovering-the-azure-architecture-center-azure-tips-and-tricks
   - videos/microsoft-how-to-work-with-azure-cosmos-db-with-powershell-azure-tips-and-tricks
   - videos/microsoft-what-database-you-should-use-in-your-next-azure-functions-app-azure-tips-and-tricks
@@ -157,7 +158,7 @@ topics:
   - Azure
 
 images:
-  - url: https://i.ytimg.com/vi/AhAz3BcXy0A/maxresdefault.jpg
+  - url: https://i.ytimg.com/vi/pJVYnMAKxXI/maxresdefault.jpg
     width: 1280
     height: 720
     isCached: true
