@@ -1,27 +1,23 @@
 ---
 category: news
 title: "HMB Earns Microsoft Advanced Specialization in Modernization of Web Applications to Microsoft Azure"
-excerpt: "HMB, a technology solutions company with offices in Columbus, Ohio and Louisville, Kentucky, announced it has earned a Microsoft"
-publishedDateTime: 2020-12-04T03:15:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/hmb-earns-microsoft-advanced-specialization-in-modernization-of-web-applications-to-microsoft-azure-301186295.html"
-webUrl: "https://www.prnewswire.com/news-releases/hmb-earns-microsoft-advanced-specialization-in-modernization-of-web-applications-to-microsoft-azure-301186295.html"
+excerpt: "COLUMBUS, Ohio, Dec. 3, 2020 /PRNewswire/ -- HMB, a technology solutions company with offices in Columbus, Ohio and Louisville, Kentucky, announced it has earned a Microsoft advanced ..."
+publishedDateTime: 2020-12-04T04:46:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/20/12/n18647766/hmb-earns-microsoft-advanced-specialization-in-modernization-of-web-applications-to-microsoft-azur"
+webUrl: "https://www.benzinga.com/pressreleases/20/12/n18647766/hmb-earns-microsoft-advanced-specialization-in-modernization-of-web-applications-to-microsoft-azur"
+ampWebUrl: "https://amp.benzinga.com/amp/content/18647766"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18647766"
 type: article
 quality: 23
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Azure
-
-images:
-  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-    width: 600
-    height: 315
-    isCached: true
 
 related:
   - title: "Microsoft just stress-tested its most powerful Azure node in a pretty fun way"
@@ -234,6 +230,6 @@ related:
       domain: channele2e.com
     quality: 17
 
-secured: "nw5bxSqMcfy88MvRYJYD5fj680beWJtR0+zWqJgwOSjkp/0bn0tBHCG6HgliczmkQaOT5GpktD0pxGo8cVtItZxP51MxQJSqGWVZgygec7LmyQRelK1oWjaF30EiPZOxzkPRRtDGrzI2qXc0MAnl2DCWKCP/JCXFYWX9sfDVsfOqfAuufkPLxxKwzu9vyBTZdi7yZmg+zjh22lOlns+yGwjUlmVEfZ38IYW1wcPZ0Uu5gYTg8pQQ75QoZBxJWOtDcztUiaEMRZvYoiy0P7LABNv4fGaIaVBFbfeVI52NmtPwqcdMytV4RpMcpZMW3VCR+/2Pv3tBtu0ummUvSHZJI4cgoD23fTxa9P8kgPLzFwo=;MHhX0pRS8XRc/HBEv4QW2A=="
+secured: "PhjejPSnWUTw9bdQYr2P/6Qy2Voh7MjY6xszG5UP//yT+cCthOuOCM/p99FkUS/qFMMdBHtE3n8D6j+diJryjpaWMZbK/cirW24Ca/sOWmgIwALf3tCHkmN+dD96TyajOl8KocOGhen7quywEgf/prIl+ddRoXQhKxC8RX3DUB+SJR18pzLfwaeCDOCLGfkALCwrhLk+aUqPussmAFKnsHnxvqfkmyDzXbZOwtJkE+2UK3QEX7PohlyUzQbOZBSDOabLUJAxrugFVOqqw4yCdyTBwusAHtnNKUe/QXpgML/o0luvtBdKfwBymDz8eCKOSM438s6jYQMiavvUyGc71CZv+NCO5LYKYgIuAFMVm5U=;4mHeWxkP9Eh4lum58sZFfQ=="
 ---
 

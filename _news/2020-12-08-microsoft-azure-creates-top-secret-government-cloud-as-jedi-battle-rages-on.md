@@ -197,19 +197,16 @@ related:
         height: 450
         isCached: true
   - title: "HMB Earns Microsoft Advanced Specialization in Modernization of Web Applications to Microsoft Azure"
-    excerpt: "HMB, a technology solutions company with offices in Columbus, Ohio and Louisville, Kentucky, announced it has earned a Microsoft"
-    publishedDateTime: 2020-12-04T03:15:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/hmb-earns-microsoft-advanced-specialization-in-modernization-of-web-applications-to-microsoft-azure-301186295.html"
+    excerpt: "COLUMBUS, Ohio, Dec. 3, 2020 /PRNewswire/ -- HMB, a technology solutions company with offices in Columbus, Ohio and Louisville, Kentucky, announced it has earned a Microsoft advanced ..."
+    publishedDateTime: 2020-12-04T04:46:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/12/n18647766/hmb-earns-microsoft-advanced-specialization-in-modernization-of-web-applications-to-microsoft-azur"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/18647766"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18647766"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
+      name: Benzinga.com
+      domain: benzinga.com
     quality: 23
-    images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
-        isCached: true
   - title: "UK’s first electric car charging forecourt opens to the public, powered by Microsoft Azure and Dynamics"
     excerpt: "All the energy is sourced from a 10 MWp solar farm 44 miles away that can produce enough energy to drive 5,000 electric cars every year."
     publishedDateTime: 2020-12-07T10:43:00Z
@@ -234,6 +231,6 @@ related:
       domain: channele2e.com
     quality: 17
 
-secured: "WfFmoTlUEXdfaTQXEWHcM2TR+MgLoz5Q+QcIu/404M3SkFHO9ZE4Y38JaFr/0L5zT9YM3W2PjkjyjAZfCRB62Osnhb/GqKYBds4kTI8ip6MUiu51TBoXRGgfyLuLjl2T0JShCTbWJVhoYRNMl1R5+N3TupC9FO1UwCKmWeKJ89sZMjSSRJ3bmc1VICP10xsu5SaS1t8TtgDyqDpKsUea62st3waYEj40YIv1kdPTi7iAeqQ+I6oCq+tomy72fICyrEGCL/UekpPVf987E8K3qJeh+MJA6S33dd5Sa5hAL9hCO799ucc7lq/wLFDa+z+IiR7jpoymV1607MM5rcblPGev2tAUz15l9GVzg5lr3mk=;QHtx6goHys6RWaF0jYiFpg=="
+secured: "dIO14hqa9tR1DZfZx3jFqCMb1LpOT9gTu0lXKY1aWAsJ6pHOr6h4lI3Uzcjdai3QaL7gt34JKWKsWRtAVSjL3lESvkg9UAXIl25pQfNL3EF7Xjc0/44uztAqr2rfPjANVgLONpduq9NL/FuYbey7HDg1ECmXeCzVMA7E7JEZNdPDIwDu6YAg0KJYkR3SbpET8IH/wWL2jPC0zc71pRx5GN3h1q7EXiX6B+DRdhpd5pr7BlqCa73iuUz56licBcJ61kdQSKUFEstA7wnMeEGxwMX4N5X3gtTrEYLe0cd5nR1RN12mXCEIoFldbcuz5Xiynv+DONK0LyWKDeq1FAl5UAz05KO0uIjtkb/U1JEhgb5w8fsrF+QvViVkE+aKDhGw7HCJaOJrkOFkYhAIFTeXYBzwv3hzo3D7KFrm4A18c2/0/nVp2CxVulHQWsvS2Zxx9VokGP4QFuaNtOVAKj0vmKoBzM39isj+FLcwsD1RdaMIlcc9K3C5s0VsS1CbKkxs9rdTkCHFbP3lxNbaZAcJ8Q==;Ya8xVVgz4BcfQyOfP2ZGHw=="
 ---
 

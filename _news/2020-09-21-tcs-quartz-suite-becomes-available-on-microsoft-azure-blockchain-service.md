@@ -598,6 +598,22 @@ related:
         width: 1600
         height: 813
         isCached: true
+  - title: "Microsoft launches Azure cloud service for classified data"
+    excerpt: "Microsoft launched Azure Government Top Secret cloud, part of the Azure Government Secret portfolio; it will handle classified data."
+    publishedDateTime: 2020-12-08T10:26:00Z
+    webUrl: "https://windowsreport.com/microsoft-azure-government-top-secret/"
+    ampWebUrl: "https://windowsreport.com/microsoft-azure-government-top-secret/?amp"
+    cdnAmpWebUrl: "https://windowsreport-com.cdn.ampproject.org/c/s/windowsreport.com/microsoft-azure-government-top-secret/?amp"
+    type: article
+    provider:
+      name: Windows
+      domain: windowsreport.com
+    quality: 57
+    images:
+      - url: "https://cdn.windowsreport.com/wp-content/uploads/2020/12/Azure-Government-Top-Secret.jpg"
+        width: 1400
+        height: 1280
+        isCached: true
   - title: "Cobalt Iron Makes DCIG List of TOP 5 Microsoft Azure Cloud Backup Solutions"
     excerpt: "Cobalt Iron Inc., a leading provider of SaaS-based enterprise data protection, today announced that its industry-leading Compass® enterprise SaaS backup platform has been listed as one of DCIG’s TOP 5 Azure Cloud Backup Solutions."
     publishedDateTime: 2020-09-17T20:05:00Z

@@ -1,28 +1,28 @@
 ---
 category: news
-title: "Microsoft announces Azure cloud for top secret government data"
-excerpt: "Microsoft today announced the launch of a new offering for its mission-critical Azure Government cloud targeted at government customers and partners that regularly work with top-secret classified data."
-publishedDateTime: 2020-12-07T15:30:00Z
-originalUrl: "https://www.bleepingcomputer.com/news/security/microsoft-announces-azure-cloud-for-top-secret-government-data/"
-webUrl: "https://www.bleepingcomputer.com/news/security/microsoft-announces-azure-cloud-for-top-secret-government-data/"
-ampWebUrl: "https://www.bleepingcomputer.com/news/security/microsoft-announces-azure-cloud-for-top-secret-government-data/amp/"
-cdnAmpWebUrl: "https://www-bleepingcomputer-com.cdn.ampproject.org/c/s/www.bleepingcomputer.com/news/security/microsoft-announces-azure-cloud-for-top-secret-government-data/amp/"
+title: "Microsoft launches Azure cloud service for classified data"
+excerpt: "Microsoft launched Azure Government Top Secret cloud, part of the Azure Government Secret portfolio; it will handle classified data."
+publishedDateTime: 2020-12-08T10:26:00Z
+originalUrl: "https://windowsreport.com/microsoft-azure-government-top-secret/"
+webUrl: "https://windowsreport.com/microsoft-azure-government-top-secret/"
+ampWebUrl: "https://windowsreport.com/microsoft-azure-government-top-secret/?amp"
+cdnAmpWebUrl: "https://windowsreport-com.cdn.ampproject.org/c/s/windowsreport.com/microsoft-azure-government-top-secret/?amp"
 type: article
 quality: 57
 heat: -1
 published: false
 
 provider:
-  name: Bleeping Computer
-  domain: bleepingcomputer.com
+  name: Windows
+  domain: windowsreport.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://www.bleepstatic.com/content/hl-images/2020/12/07/US-Capitol-Congress.jpg"
-    width: 1600
-    height: 813
+  - url: "https://cdn.windowsreport.com/wp-content/uploads/2020/12/Azure-Government-Top-Secret.jpg"
+    width: 1400
+    height: 1280
     isCached: true
 
 related:
@@ -582,21 +582,21 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Microsoft launches Azure cloud service for classified data"
-    excerpt: "Microsoft launched Azure Government Top Secret cloud, part of the Azure Government Secret portfolio; it will handle classified data."
-    publishedDateTime: 2020-12-08T10:26:00Z
-    webUrl: "https://windowsreport.com/microsoft-azure-government-top-secret/"
-    ampWebUrl: "https://windowsreport.com/microsoft-azure-government-top-secret/?amp"
-    cdnAmpWebUrl: "https://windowsreport-com.cdn.ampproject.org/c/s/windowsreport.com/microsoft-azure-government-top-secret/?amp"
+  - title: "Microsoft announces Azure cloud for top secret government data"
+    excerpt: "Microsoft today announced the launch of a new offering for its mission-critical Azure Government cloud targeted at government customers and partners that regularly work with top-secret classified data."
+    publishedDateTime: 2020-12-07T15:30:00Z
+    webUrl: "https://www.bleepingcomputer.com/news/security/microsoft-announces-azure-cloud-for-top-secret-government-data/"
+    ampWebUrl: "https://www.bleepingcomputer.com/news/security/microsoft-announces-azure-cloud-for-top-secret-government-data/amp/"
+    cdnAmpWebUrl: "https://www-bleepingcomputer-com.cdn.ampproject.org/c/s/www.bleepingcomputer.com/news/security/microsoft-announces-azure-cloud-for-top-secret-government-data/amp/"
     type: article
     provider:
-      name: Windows
-      domain: windowsreport.com
+      name: Bleeping Computer
+      domain: bleepingcomputer.com
     quality: 57
     images:
-      - url: "https://cdn.windowsreport.com/wp-content/uploads/2020/12/Azure-Government-Top-Secret.jpg"
-        width: 1400
-        height: 1280
+      - url: "https://www.bleepstatic.com/content/hl-images/2020/12/07/US-Capitol-Congress.jpg"
+        width: 1600
+        height: 813
         isCached: true
   - title: "TCS Quartz? suite becomes available on Microsoft Azure Blockchain Service"
     excerpt: "Tata Consultancy Services announced the general availability of its award winning Quartz? suite of blockchain based solutions on Microsoft Azure Blockchain Service. The Quartz suite of products helps organizations set up truly connected ecosystems ..."
@@ -1625,6 +1625,6 @@ related:
         height: 450
         isCached: true
 
-secured: "Eyu/CB1fhzIW3Vgp+t/vS7NQcJkLEXoYvLqDgpRm9VqM9sfEeyJDISJZP7FymcBnx96I1QcO93qTO2IKTi1NX5ore6YbZmVLBWsJEdMOiXeJmRKZC4ERShdDxV6DbcXzl2E64gb5YG3p/IzAlZClD8+3peLpB9EVQQU0l8MafUYWnC7FLVbC/FLZ9ndvBaEPhvmX+AQfYQE7dgMm+NixPYUEynVrepnncEeZaAtT0Fr9RZeOGUTaWGCB6zvzdkcbJypHXpq9xfnOtQHDococdjKRnutd3NkSGuqG+j9irsBbZBcTrUUMAFoqNow9uk6FmtqKuetcdtWcH2NeJeV8MQz6eepkGKqoKEyI0jWDS2Tw6iXc5HJmwKRVyzMsgEf1E/MkgTQtFkE+ba2wxFfPm1v0cgdqeyyJxgfaZnHrH+rmTX6B5TaMUPK3NZV9jxnR1lZBa5ro3HHfybWDiW0j14HsxGGv2f57Fh4Dc6ASzmuaGpNYf2X44sGvSdZP4dddJmqQJwcgFO3oA/rYowOY9w==;ynuPASkI24LpaNJvHMjPwQ=="
+secured: "ECwIRd070hfgBYlhKdqOkP+aDme2XqSNbAWaZHJDNHwxPJzm2pK/Izvvc8gjleLVam8yiLZcKy+Dz3AcDsqGXTjVBmIMJ0xLd2CyyFnjtpwnKQjZ7tnXYFcJDPMqrqmgx5HQo1VQdC+0UmG8pOuNCeFO/00YpfdbaeqVuvbcALV/5yK3YpQzvVaE0g9yNtGwmpi79+yK5vzWktdn7yN/VibjyrsAe2Sk5vdRcqRaj27c4P5RMWYNOtYNdcE0YU+3Qos0bIVnBW5k7rC+e4nJf5z7NbwTLti/++DcKJWzedHQiPXJFXT6s22se9REIGc1dlSah3Zlibv2/ZNhh5ri0eRj6pg9aK8rqPd6NF8hlew=;Z5yUAT/FP0gilxuiBtzJrQ=="
 ---
 
