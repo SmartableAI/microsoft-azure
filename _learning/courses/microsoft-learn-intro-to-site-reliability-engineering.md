@@ -6,8 +6,8 @@ type: course
 price: Free
 length: PT55M
 ratings:
-  count: 621
-  average: 4.731079
+  count: 622
+  average: 4.731511
 heat: 51
 
 provider:
@@ -24,6 +24,6 @@ levels:
 topics:
   - Azure
 
-secured: "bx/pmRjdsSilnXw4gTV+5VmdOGL7bPfyx1cX901dNGh7QS9RYqE91qId0EjvdNvaK608Qmbpy4jMQbPGMk4f6WzwHOEeYNCI0nVqLXVQCT+iWHJaWyhqMKrcmBjP3qMELGqkPiXzFp3nIRAXOOXy6pPB4o2DaIYsTISTu7gxDAXjPHbNdGQJozTBHqAWHYOCKLGmv35Dirbr1Y4+QOFUr9luByLXFT1a808gCWmrSalhjIPem5iACQ/YbCUXUgsONfYGGL1AjO3Y0UwKlGGcHeX8YmLCI+wyxDAQs0P3axD8mSY82x9iCrk57Ze1XvvVQqZD4v9fqeoQ5KDdaruo3Se2ZPSckgGFwOYUJe3GQahoCXa6HJoGmxDrVJ+U0eAOtlD9F2WamxIZxZo/2AezHH3HuzZTKN3iaXjdUV0oBO0=;g8BV2+SM3inBZ5uYOSZSWA=="
+secured: "nagHFH4OodZ1VGPNgBTxRiUg+LnnjexKEancoXkFdtTtOrYfPUakQbfwYXapttYATWdTZQhMS1qbZazn2L8nqzO5ubo5ryAz9TV2c6zzUQMrFSp5jH1F6P0C6EB7mu0acFAP5qtut/KwRBpU6vYMpTRArmXqKT6kw6iodddIqfpm0mV3ascYeFP5l5a+aPXueYOx1KhrstxqKv3QrjPyWIlejII/cSV9Lti248ibLRV3a8qYsPfCeFfmaQc5ZMjBHa7JKv8k1S1zmsmWF2EEhl2OA5mTZHqxb7wYcCbPpqqwGxmuRyTNPuvR+zYBvpX1/wtuMo0m5s4H7nz5/IpjL8Gd0t5G03uXZ5mjFRYwW36v3S2evOZmuXdG4ynDtoMUut34ph0VAT3PNEe/+AYV1IlmHpCgWE79vPGLF8wN4C0=;C9qHKWe5klHmw9N5m/4r7Q=="
 ---
 

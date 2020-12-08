@@ -6,8 +6,8 @@ type: course
 price: Free
 length: PT46M
 ratings:
-  count: 1603
-  average: 4.6007485
+  count: 1604
+  average: 4.6009974
 heat: 51
 
 provider:
@@ -27,6 +27,6 @@ topics:
   - Compute
   - Web
 
-secured: "G8j46vls4lR5CjxMOhUCI+YcoMTDu9BNkezlS5lEA3TrmmGShbceUK4SamJIoIuBTzPsJu151P4mSwEDJjXDtDebmxnf9OBq588ogPeAy1kZATaCUOGzJwRJF26bqGDaRsyYGCHDh3af2Kih6qqqcA6WO/VkiBvpFz1ZdVLia2ssQBb1Fl5WpuWSbwwXH4RyGD/wcrsxlFLGq+OoyHWlv5LcSb+fRh6N4pq0lHyn3Mk6r8fLFpLH0LXmGlEiwA5/9t+Mgw2WItwPYcSnXZi1s9gaArpVuHEolQZ3izoGx3goQRjCoQT+IanWz0RH9jgBtgW8mAL/KSmQ3gNj0IHfY5c3brRryuVSJlByfa3uSv8EaE9aYAJMEEtYFKRuUaC0jE4rYFllYDGmt04hhOomWa5tUgUX8tOEFyugXa1nXCw=;TbI/Wg2OczD6UHGW+PuAHQ=="
+secured: "gyY41WwULU4W2DYOBFNX2StX3tuBGQYqIhUyWM+a7A4YfnnW8Wi3pKuL5GWc38dlavnWxSX8SLL4TLttd/5wsIrB/nJe8QFbJZwm0Y/TEcpVEDsMKbp9NoOqYjCO2W97N2IUSqJxBTxExVS/rpB4ZVZiARpPCjsjk6qDtC902Vd3LQckvC2BI9z35AxgcUi8xP1emzdUXEpjose1cIN3c9ZXnSbdmG+Q+pR8Fdl8y77BRdhA60NlmVVxbupfTILeSkqNfKh1rj4VAnwQASqUvMwJnq+iDKJEcRx0J1UFJjhp3TRFTfT2u0D445P2Zl43017BQ39NKhtm6PfF03x32DZeiqp+wrQwFwBmmghXcS6DnqZlKesv2EZ4ijK7Fx3kQY//o9uaFDe8R4IVElplU2cIl6MxevgymflGWkW6UvM=;1kiao13gccTp7Y3QFkhRTQ=="
 ---
 
