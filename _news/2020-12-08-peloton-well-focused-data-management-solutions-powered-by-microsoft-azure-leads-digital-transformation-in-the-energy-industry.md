@@ -1,28 +1,25 @@
 ---
 category: news
-title: "Microsoft Announces Milestones for Data Tools Azure Synapse and Azure Purview"
-excerpt: "Microsoft this week described release milestones for several of its emerging cloud data management products. Azure Synapse Analytics and Azure Synapse Studio are now generally available (GA ..."
-publishedDateTime: 2020-12-03T00:00:00Z
-originalUrl: "https://rcpmag.com/articles/2020/12/03/microsoft-azure-data-tools-milestones.aspx"
-webUrl: "https://rcpmag.com/articles/2020/12/03/microsoft-azure-data-tools-milestones.aspx"
+title: "Peloton Well Focused Data Management Solutions, powered by Microsoft Azure, leads digital transformation in the energy industry"
+excerpt: "Peloton, the global leader in Well Lifecycle Data Management software solutions for the energy industry, is excited to announce that the Peloton Platform has been recognized as a Microsoft preferred solution for managing Well,"
+publishedDateTime: 2020-12-08T15:37:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/peloton-well-focused-data-management-solutions-powered-by-microsoft-azure-leads-digital-transformation-in-the-energy-industry-1029873993"
+webUrl: "https://markets.businessinsider.com/news/stocks/peloton-well-focused-data-management-solutions-powered-by-microsoft-azure-leads-digital-transformation-in-the-energy-industry-1029873993"
 type: article
-quality: 51
+quality: 29
 heat: -1
 published: false
 
 provider:
-  name: Redmond Channel Partner
-  domain: rcpmag.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
-  - Analytics
-
-images:
-  - url: "https://rcpmag.com/-/media/ECG/redmondmag/Images/introimages2014/1214red_F1DRaaSTools.jpg"
-    width: 647
-    height: 450
-    isCached: true
 
 related:
   - title: "Microsoft just stress-tested its most powerful Azure node in a pretty fun way"
@@ -98,6 +95,20 @@ related:
       - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/11/02114007/help_net_security.jpg"
         width: 1200
         height: 627
+        isCached: true
+  - title: "Microsoft Announces Milestones for Data Tools Azure Synapse and Azure Purview"
+    excerpt: "Microsoft this week described release milestones for several of its emerging cloud data management products. Azure Synapse Analytics and Azure Synapse Studio are now generally available (GA ..."
+    publishedDateTime: 2020-12-03T00:00:00Z
+    webUrl: "https://rcpmag.com/articles/2020/12/03/microsoft-azure-data-tools-milestones.aspx"
+    type: article
+    provider:
+      name: Redmond Channel Partner
+      domain: rcpmag.com
+    quality: 51
+    images:
+      - url: "https://rcpmag.com/-/media/ECG/redmondmag/Images/introimages2014/1214red_F1DRaaSTools.jpg"
+        width: 647
+        height: 450
         isCached: true
   - title: "Microsoft just launched new Azure cloud capabilities that will help it meet the needs of the $10 billion JEDI contract with the Pentagon"
     excerpt: "Microsoft beat out Amazon last year in winning the $10 billion Joint Enterprise Defense Infrastructure (JEDI) contract with the Department of Defense."
@@ -225,15 +236,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Peloton Well Focused Data Management Solutions, powered by Microsoft Azure, leads digital transformation in the energy industry"
-    excerpt: "Peloton, the global leader in Well Lifecycle Data Management software solutions for the energy industry, is excited to announce that the Peloton Platform has been recognized as a Microsoft preferred solution for managing Well,"
-    publishedDateTime: 2020-12-08T15:37:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/peloton-well-focused-data-management-solutions-powered-by-microsoft-azure-leads-digital-transformation-in-the-energy-industry-1029873993"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 29
   - title: "HMB Earns Microsoft Advanced Specialization in Modernization of Web Applications to Microsoft Azure"
     excerpt: "COLUMBUS, Ohio, Dec. 3, 2020 /PRNewswire/ -- HMB, a technology solutions company with offices in Columbus, Ohio and Louisville, Kentucky, announced it has earned a Microsoft advanced ..."
     publishedDateTime: 2020-12-04T04:46:00Z
@@ -269,6 +271,6 @@ related:
       domain: channele2e.com
     quality: 17
 
-secured: "Hy7i7AeLSUzBJGfBdnbHConiG7Vq9mQ0sHsHK6D89WnVBu3ORWG9AAt/mAsEIVwfUDyk9mZbfwEWfV7DC2J+Z24G+S5kI9CsbGa8rFFFS1IuAXaE9Nq0s4NAcsHf+0a0O78lkJoDwkU95/5ijywjhnwyfKlhn7wx4aN6ASgDAlVAEOtq/VNX6XVM3EcbkQnjHdkp76sSycMPYbDqdyfejstH70zqzJrG3npi0sPKmC1Jl2iWbRYPZ8RzewCpdr1fviI0TBx9wZm3qS0idGPm4CF8ZEGj0TokJDxTtbUpUjOpqskGnRzyQB3i05BJ3eOeLTEj/GqyICkLOvjJkD93fE4lAXawdLlbH4L/joPEZyk=;rGaM4WAe4N0Et5WLrql7Vg=="
+secured: "6MSoNPFwaruqWMaOXHu0eBTLz0FCtkRlw6BrEHSH6KQ3ubVX1t8BnRcBBO4vDRRdKqD4AXgdMiPNiE/PuoaqA77JCUrm9hoP6EvQYPrsu44BZKTkSJzC6sVrMC6NTim2HEb697ByF9WElqyYy/r87Bz9PbQkEKHBesnXyR9Zb1FdJn9eilJpYsKyZwWibYP4cXPpfQvZPSZPuWrLe2pWhbIoMsI7WWYxBHv6sHWg1asigq5GzdhJQb5Yw5QfeBmDeJpNOzh3GhybTa2CN4jHGoUHl2CKseYw5OUuKKE0pucbTWuFs6AYkvb1Ib7vCmfbScO4tWeOUJn17M+x90ueEpomDSTk+Akg8d2YcHH9YOs=;lHefHqP0UpuDhI6UNd274A=="
 ---
 

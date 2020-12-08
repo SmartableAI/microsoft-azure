@@ -1,27 +1,26 @@
 ---
 category: news
-title: "Microsoft Announces Milestones for Data Tools Azure Synapse and Azure Purview"
-excerpt: "Microsoft this week described release milestones for several of its emerging cloud data management products. Azure Synapse Analytics and Azure Synapse Studio are now generally available (GA ..."
-publishedDateTime: 2020-12-03T00:00:00Z
-originalUrl: "https://rcpmag.com/articles/2020/12/03/microsoft-azure-data-tools-milestones.aspx"
-webUrl: "https://rcpmag.com/articles/2020/12/03/microsoft-azure-data-tools-milestones.aspx"
+title: "Microsoft announces Azure data center region in Denmark"
+excerpt: "Microsoft has announced a data center region for its Azure cloud services in Denmark. The announcement follows the establishment of two regions in Norway, and comes after the company started work on a data center in Sweden."
+publishedDateTime: 2020-12-08T16:29:00Z
+originalUrl: "https://www.datacenterdynamics.com/en/news/microsoft-announces-azure-data-center-region-denmark/"
+webUrl: "https://www.datacenterdynamics.com/en/news/microsoft-announces-azure-data-center-region-denmark/"
 type: article
-quality: 51
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Redmond Channel Partner
-  domain: rcpmag.com
+  name: Datacenter Dynamics
+  domain: datacenterdynamics.com
 
 topics:
   - Azure
-  - Analytics
 
 images:
-  - url: "https://rcpmag.com/-/media/ECG/redmondmag/Images/introimages2014/1214red_F1DRaaSTools.jpg"
-    width: 647
-    height: 450
+  - url: "https://media.datacenterdynamics.com/media/images/architecture-2287327_1920.2e16d0ba.fill-1200x630.jpg"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -99,6 +98,20 @@ related:
         width: 1200
         height: 627
         isCached: true
+  - title: "Microsoft Announces Milestones for Data Tools Azure Synapse and Azure Purview"
+    excerpt: "Microsoft this week described release milestones for several of its emerging cloud data management products. Azure Synapse Analytics and Azure Synapse Studio are now generally available (GA ..."
+    publishedDateTime: 2020-12-03T00:00:00Z
+    webUrl: "https://rcpmag.com/articles/2020/12/03/microsoft-azure-data-tools-milestones.aspx"
+    type: article
+    provider:
+      name: Redmond Channel Partner
+      domain: rcpmag.com
+    quality: 51
+    images:
+      - url: "https://rcpmag.com/-/media/ECG/redmondmag/Images/introimages2014/1214red_F1DRaaSTools.jpg"
+        width: 647
+        height: 450
+        isCached: true
   - title: "Microsoft just launched new Azure cloud capabilities that will help it meet the needs of the $10 billion JEDI contract with the Pentagon"
     excerpt: "Microsoft beat out Amazon last year in winning the $10 billion Joint Enterprise Defense Infrastructure (JEDI) contract with the Department of Defense."
     publishedDateTime: 2020-12-07T14:12:00Z
@@ -168,20 +181,6 @@ related:
       - url: "https://static3.seekingalpha.com/uploads/2020/12/32994745_16070915773107_rId7.png"
         width: 742
         height: 649
-        isCached: true
-  - title: "Microsoft announces Azure data center region in Denmark"
-    excerpt: "Microsoft has announced a data center region for its Azure cloud services in Denmark. The announcement follows the establishment of two regions in Norway, and comes after the company started work on a data center in Sweden."
-    publishedDateTime: 2020-12-08T16:29:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/microsoft-announces-azure-data-center-region-denmark/"
-    type: article
-    provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 37
-    images:
-      - url: "https://media.datacenterdynamics.com/media/images/architecture-2287327_1920.2e16d0ba.fill-1200x630.jpg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Microsoft Azure Creates Top Secret Government Cloud As JEDI Battle Rages On"
     excerpt: "Microsoft Azure’s new Government Top Secret cloud meets the Department of Defense JEDI cloud contract requirement of commercial parity."
@@ -269,6 +268,6 @@ related:
       domain: channele2e.com
     quality: 17
 
-secured: "Hy7i7AeLSUzBJGfBdnbHConiG7Vq9mQ0sHsHK6D89WnVBu3ORWG9AAt/mAsEIVwfUDyk9mZbfwEWfV7DC2J+Z24G+S5kI9CsbGa8rFFFS1IuAXaE9Nq0s4NAcsHf+0a0O78lkJoDwkU95/5ijywjhnwyfKlhn7wx4aN6ASgDAlVAEOtq/VNX6XVM3EcbkQnjHdkp76sSycMPYbDqdyfejstH70zqzJrG3npi0sPKmC1Jl2iWbRYPZ8RzewCpdr1fviI0TBx9wZm3qS0idGPm4CF8ZEGj0TokJDxTtbUpUjOpqskGnRzyQB3i05BJ3eOeLTEj/GqyICkLOvjJkD93fE4lAXawdLlbH4L/joPEZyk=;rGaM4WAe4N0Et5WLrql7Vg=="
+secured: "M+dMyZCqzYGsmaZsAVdL6Gwi232WUajvXkdIc4JGHbyHrfp/+7EH7o/MmVarbdPn8GL49/+Q8Wv/dAQya6fOhEPFJK7Gn9le06dOo9URN/BrgN3xXKhTuMK82srmQR5wRzkAvokWVr3S54ffEQF2cOExXfMGpJ68cZHe5yacfkbDj6f6DeJFdUYWMqk69KnePzWmU5iaAXyaBVPi3Hrt3itL6yfw9uak9As2wpRuuMkFD4orn6EXIPv9i9H8tNXYUKDCe8/0T9Knx09Lmd5Wdy2lDcobuPyh9QB0chcm/Vbv8NcgqbILqz5QwnGbHT8cpslFBQ737zieFFzGn4eAVzfzTvHCRNWH0FdGPZ5hTcM=;WcN99zxmnLbCyLyp6lthuQ=="
 ---
 

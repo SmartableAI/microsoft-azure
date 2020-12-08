@@ -1,28 +1,32 @@
 ---
 category: news
-title: "Microsoft announces Azure cloud for top secret government data"
-excerpt: "Microsoft today announced the launch of a new offering for its mission-critical Azure Government cloud targeted at government customers and partners that regularly work with top-secret classified data."
-publishedDateTime: 2020-12-07T15:30:00Z
-originalUrl: "https://www.bleepingcomputer.com/news/security/microsoft-announces-azure-cloud-for-top-secret-government-data/"
-webUrl: "https://www.bleepingcomputer.com/news/security/microsoft-announces-azure-cloud-for-top-secret-government-data/"
-ampWebUrl: "https://www.bleepingcomputer.com/news/security/microsoft-announces-azure-cloud-for-top-secret-government-data/amp/"
-cdnAmpWebUrl: "https://www-bleepingcomputer-com.cdn.ampproject.org/c/s/www.bleepingcomputer.com/news/security/microsoft-announces-azure-cloud-for-top-secret-government-data/amp/"
+title: "Microsoft launches Azure Government Top Secret cloud to handle classified data"
+excerpt: "Microsoft is adding a new offering to its Azure cloud family for U.S. government customers: Azure Government Top Secret. It's also bringing more of its services to Azure Government Secret."
+publishedDateTime: 2020-12-07T06:02:00Z
+originalUrl: "https://www.zdnet.com/index.php/category/2381/index.php/article/microsoft-launches-azure-government-top-secret-cloud-to-handle-classified-data/"
+webUrl: "https://www.zdnet.com/index.php/category/2381/index.php/article/microsoft-launches-azure-government-top-secret-cloud-to-handle-classified-data/"
+ampWebUrl: "https://www.zdnet.com/index.php/category/2381/index.php/google-amp/article/microsoft-launches-azure-government-top-secret-cloud-to-handle-classified-data/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2381/index.php/google-amp/article/microsoft-launches-azure-government-top-secret-cloud-to-handle-classified-data/"
 type: article
-quality: 57
+quality: 93
 heat: -1
 published: false
 
 provider:
-  name: Bleeping Computer
-  domain: bleepingcomputer.com
+  name: ZDNet
+  domain: zdnet.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/zdnet.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
 
 images:
-  - url: "https://www.bleepstatic.com/content/hl-images/2020/12/07/US-Capitol-Congress.jpg"
-    width: 1600
-    height: 813
+  - url: "https://zdnet1.cbsistatic.com/hub/i/2020/12/07/ff03da69-484e-4b19-984c-f9a4b2332509/microsoftgovernmentclouds.jpg"
+    width: 1413
+    height: 794
     isCached: true
 
 related:
@@ -201,22 +205,6 @@ related:
       - url: "https://cdn.neow.in/news/images/uploaded/2020/09/1600721129_azure_at_ignite_2020_(2)_story.jpg"
         width: 760
         height: 428
-        isCached: true
-  - title: "Microsoft launches Azure Government Top Secret cloud to handle classified data"
-    excerpt: "Microsoft is adding a new offering to its Azure cloud family for U.S. government customers: Azure Government Top Secret. It's also bringing more of its services to Azure Government Secret."
-    publishedDateTime: 2020-12-07T06:02:00Z
-    webUrl: "https://www.zdnet.com/index.php/category/2381/index.php/article/microsoft-launches-azure-government-top-secret-cloud-to-handle-classified-data/"
-    ampWebUrl: "https://www.zdnet.com/index.php/category/2381/index.php/google-amp/article/microsoft-launches-azure-government-top-secret-cloud-to-handle-classified-data/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2381/index.php/google-amp/article/microsoft-launches-azure-government-top-secret-cloud-to-handle-classified-data/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 93
-    images:
-      - url: "https://zdnet1.cbsistatic.com/hub/i/2020/12/07/ff03da69-484e-4b19-984c-f9a4b2332509/microsoftgovernmentclouds.jpg"
-        width: 1413
-        height: 794
         isCached: true
   - title: "Viasat Real-Time Earth Ground Service Available via Microsoft Azure Orbital"
     excerpt: "22, 2020 /PRNewswire/ -- Viasat Inc. (NASDAQ: VSAT), a global communications company, today announced Viasat Real-Time Earth (RTE) is available as a managed services option for Microsoft Azure ..."
@@ -597,6 +585,22 @@ related:
       - url: "https://www.androidheadlines.com/wp-content/uploads/2020/09/Microsoft-Logo-DG-AH-2020.jpg"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Microsoft announces Azure cloud for top secret government data"
+    excerpt: "Microsoft today announced the launch of a new offering for its mission-critical Azure Government cloud targeted at government customers and partners that regularly work with top-secret classified data."
+    publishedDateTime: 2020-12-07T15:30:00Z
+    webUrl: "https://www.bleepingcomputer.com/news/security/microsoft-announces-azure-cloud-for-top-secret-government-data/"
+    ampWebUrl: "https://www.bleepingcomputer.com/news/security/microsoft-announces-azure-cloud-for-top-secret-government-data/amp/"
+    cdnAmpWebUrl: "https://www-bleepingcomputer-com.cdn.ampproject.org/c/s/www.bleepingcomputer.com/news/security/microsoft-announces-azure-cloud-for-top-secret-government-data/amp/"
+    type: article
+    provider:
+      name: Bleeping Computer
+      domain: bleepingcomputer.com
+    quality: 57
+    images:
+      - url: "https://www.bleepstatic.com/content/hl-images/2020/12/07/US-Capitol-Congress.jpg"
+        width: 1600
+        height: 813
         isCached: true
   - title: "Microsoft launches Azure cloud service for classified data"
     excerpt: "Microsoft launched Azure Government Top Secret cloud, part of the Azure Government Secret portfolio; it will handle classified data."
@@ -1641,6 +1645,6 @@ related:
         height: 450
         isCached: true
 
-secured: "Eyu/CB1fhzIW3Vgp+t/vS7NQcJkLEXoYvLqDgpRm9VqM9sfEeyJDISJZP7FymcBnx96I1QcO93qTO2IKTi1NX5ore6YbZmVLBWsJEdMOiXeJmRKZC4ERShdDxV6DbcXzl2E64gb5YG3p/IzAlZClD8+3peLpB9EVQQU0l8MafUYWnC7FLVbC/FLZ9ndvBaEPhvmX+AQfYQE7dgMm+NixPYUEynVrepnncEeZaAtT0Fr9RZeOGUTaWGCB6zvzdkcbJypHXpq9xfnOtQHDococdjKRnutd3NkSGuqG+j9irsBbZBcTrUUMAFoqNow9uk6FmtqKuetcdtWcH2NeJeV8MQz6eepkGKqoKEyI0jWDS2Tw6iXc5HJmwKRVyzMsgEf1E/MkgTQtFkE+ba2wxFfPm1v0cgdqeyyJxgfaZnHrH+rmTX6B5TaMUPK3NZV9jxnR1lZBa5ro3HHfybWDiW0j14HsxGGv2f57Fh4Dc6ASzmuaGpNYf2X44sGvSdZP4dddJmqQJwcgFO3oA/rYowOY9w==;ynuPASkI24LpaNJvHMjPwQ=="
+secured: "yS0rT6jHUhcdAuE4o6TlB7R8v2Ha/eesUfuoXi/eJWOdKvChxwPl7bzOsvMFWvgNEATn1CrkAUNrrHr6aF1QbcWG4kKB/mnoVY2lxVk4wPTX2NP4YeBTzAKH/tAjgtubkytiJ3EKR9wL4ny+DPtgLIuwGEhiCkarslkZG6FIZe2UQ9TuFLpNDjgFxEiTwRsL3rMoSuYlnWlZOBqqT/wrBkNmCaJ7jEu/ymYbkt0cLAfehmb8hbUmuw4tK88kCeHkvINbYcRjiNif95Y5aSflw+vvkrocvqibDVqXs3XZKkfqyyhqm6i7GUadVuDBkmEQZ6W/CfmU7GdepvcOX+TNu/Ey4PDrrMdW5UuYYypuTJs=;h1lruQR4bdBFJcuWzjm0Eg=="
 ---
 

@@ -68,20 +68,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Johnson Controls and Microsoft announce global collaboration, launch integration between OpenBlue Digital Twin and Azure Digital Twins"
-    excerpt: "PRNewswire/ -- Johnson Controls (NYSE: JCI), the global leader for smart and sustainable buildings, and Microsoft Corp. on Tuesday announced a"
-    publishedDateTime: 2020-12-08T13:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/johnson-controls-and-microsoft-announce-global-collaboration-launch-integration-between-openblue-digital-twin-and-azure-digital-twins-301188260.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 22
-    images:
-      - url: "https://mma.prnewswire.com/media/1360586/JCI_logo.jpg?p=facebook"
-        width: 800
-        height: 419
-        isCached: true
   - title: "Beabloo Promotes Interaction Care: the Solution that Reduces the Risk of COVID-19 Infection, via the Microsoft Azure Cloud"
     excerpt: "Beabloo Promotes Interaction Care: the Solution that Reduces the Risk of COVID-19 Infection, via the Microsoft Azure Cloud By 1 - The retail tech companys solution uses real-time alerts to avoid high-risk interactions and boost security in public"
     publishedDateTime: 2020-12-03T07:48:00Z

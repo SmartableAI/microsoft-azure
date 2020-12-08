@@ -82,20 +82,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Johnson Controls and Microsoft announce global collaboration, launch integration between OpenBlue Digital Twin and Azure Digital Twins"
-    excerpt: "PRNewswire/ -- Johnson Controls (NYSE: JCI), the global leader for smart and sustainable buildings, and Microsoft Corp. on Tuesday announced a"
-    publishedDateTime: 2020-12-08T13:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/johnson-controls-and-microsoft-announce-global-collaboration-launch-integration-between-openblue-digital-twin-and-azure-digital-twins-301188260.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 22
-    images:
-      - url: "https://mma.prnewswire.com/media/1360586/JCI_logo.jpg?p=facebook"
-        width: 800
-        height: 419
-        isCached: true
 
 secured: "2jgRSzTOfqK66bN6AimI6EZlaVOb/wjrM3UxXn2V7Jw8wxsiL4E1ds9vgZcl5SZrmYAHlXHLN29K5dsTZf6B6iPEc6TSJ8CIsi+amTQzp2mLFSAcPGI6QatLchb01UcgdR5llzj8kuQtP2Z2bWHEmBlfBkoqrQ58hnwA6jMDNnqZCZMSAflWRGISNMbMlwybSETtfXz6QdNpdDPsIyHHI38JIsT8tiZTeOBz7EH/uWE0s71Iwip6A57RCpn3Kz8fI97gJJvDQiaR2rT9pWDJr7sPvNBONVtPA8R2csJy73mePN/D41fq3SoUJZCHdUk4B24LGczyR+kxUt6ES3krudPfJ4ahobYbZAmg9p9X8Sg=;2QgB9u3U278zx/iP5n/hAg=="
 ---
