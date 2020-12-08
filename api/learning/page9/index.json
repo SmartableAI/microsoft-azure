@@ -4,6 +4,50 @@
   "page": 9,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-create-and-publish-a-luis-model.md",
+      "title": "Add conversational intelligence to your apps by using Language Understanding Intelligent Service (LUIS)",
+      "excerpt": "In this module, we'll introduce you to Language Understanding Intelligent Service (LUIS) and show how to build and publish a LUIS model",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-create-and-publish-a-luis-model/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-and-publish-a-luis-model/",
+      "length": "PT54M",
+      "ratings": {
+        "count": 1613,
+        "average": 4.6596403
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 54,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/data-ai/create-and-publish-a-luis-model-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Developer Tools",
+        "AI"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-create-custom-roles-rbac.md",
       "title": "Create custom roles for Azure resources with role-based access control (RBAC)",
       "excerpt": "Learn how to create custom roles for Azure resources with role-based access control (RBAC).",
@@ -53,8 +97,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-linux-virtual-machine-in-azure/",
       "length": "PT1H26M",
       "ratings": {
-        "count": 8458,
-        "average": 4.690589
+        "count": 8459,
+        "average": 4.690625
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -356,8 +400,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/prepare-your-dev-environment-for-azure-development/",
       "length": "PT28M",
       "ratings": {
-        "count": 4974,
-        "average": 4.695416
+        "count": 4975,
+        "average": 4.6954775
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -434,8 +478,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/upload-download-and-manage-data-with-azure-storage-explorer/",
       "length": "PT37M",
       "ratings": {
-        "count": 1739,
-        "average": 4.615871
+        "count": 1740,
+        "average": 4.6160917
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -581,8 +625,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-provision-deploy-relational-database-offerings-azure/",
           "length": "PT38M",
           "ratings": {
-            "count": 370,
-            "average": 4.8324323
+            "count": 371,
+            "average": 4.8301888
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -793,8 +837,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/translate-speech-speech-service/",
           "length": "PT18M",
           "ratings": {
-            "count": 279,
-            "average": 4.684588
+            "count": 280,
+            "average": 4.6857142
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1189,8 +1233,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-a-build-pipeline/",
       "length": "PT1H20M",
       "ratings": {
-        "count": 4960,
-        "average": 4.7445564
+        "count": 4961,
+        "average": 4.744608
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1425,48 +1469,6 @@
         "Compute",
         "Serverless",
         "Management Tools"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-explore-relational-data-offerings.md",
-      "title": "Explore relational data offerings in Azure",
-      "excerpt": "Explore relational data offerings in Azure",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-explore-relational-data-offerings/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-relational-data-offerings/",
-      "length": "PT33M",
-      "ratings": {
-        "count": 450,
-        "average": 4.7977777
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 53,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/explore-relational-data-offerings-azure-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
       ]
     }
   ],
