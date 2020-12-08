@@ -155,6 +155,20 @@ related:
         width: 1200
         height: 627
         isCached: true
+  - title: "Microsoft Azure Creates Top Secret Government Cloud As JEDI Battle Rages On"
+    excerpt: "Microsoft Azure’s new Government Top Secret cloud meets the Department of Defense JEDI cloud contract requirement of commercial parity."
+    publishedDateTime: 2020-12-08T10:10:00Z
+    webUrl: "https://www.crn.com/news/cloud/microsoft-azure-creates-top-secret-government-cloud-as-jedi-battle-rages-on"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 35
+    images:
+      - url: "https://www.crn.com/resources/0264-1108feaab360-3f03b36b0abc-1000/pentagon-front.jpg"
+        width: 610
+        height: 457
+        isCached: true
   - title: "Exoprise Office 365 Monitoring App Now Available in the Microsoft Azure Marketplace"
     excerpt: "PRNewswire/ -- Exoprise, a leading provider of software-as-a-service (SaaS) and Office 365 monitoring, today announced the availability of its"
     publishedDateTime: 2020-12-01T15:58:00Z
@@ -184,16 +198,19 @@ related:
         height: 450
         isCached: true
   - title: "HMB Earns Microsoft Advanced Specialization in Modernization of Web Applications to Microsoft Azure"
-    excerpt: "COLUMBUS, Ohio, Dec. 3, 2020 /PRNewswire/ -- HMB, a technology solutions company with offices in Columbus, Ohio and Louisville, Kentucky, announced it has earned a Microsoft advanced ..."
-    publishedDateTime: 2020-12-04T04:46:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/12/n18647766/hmb-earns-microsoft-advanced-specialization-in-modernization-of-web-applications-to-microsoft-azur"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/18647766"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18647766"
+    excerpt: "HMB, a technology solutions company with offices in Columbus, Ohio and Louisville, Kentucky, announced it has earned a Microsoft"
+    publishedDateTime: 2020-12-04T03:15:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/hmb-earns-microsoft-advanced-specialization-in-modernization-of-web-applications-to-microsoft-azure-301186295.html"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
+      name: PR Newswire
+      domain: prnewswire.com
     quality: 23
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
+        isCached: true
   - title: "UK’s first electric car charging forecourt opens to the public, powered by Microsoft Azure and Dynamics"
     excerpt: "All the energy is sourced from a 10 MWp solar farm 44 miles away that can produce enough energy to drive 5,000 electric cars every year."
     publishedDateTime: 2020-12-07T10:43:00Z

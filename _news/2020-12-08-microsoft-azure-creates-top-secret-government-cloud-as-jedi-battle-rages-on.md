@@ -1,26 +1,26 @@
 ---
 category: news
-title: "HMB Earns Microsoft Advanced Specialization in Modernization of Web Applications to Microsoft Azure"
-excerpt: "HMB, a technology solutions company with offices in Columbus, Ohio and Louisville, Kentucky, announced it has earned a Microsoft"
-publishedDateTime: 2020-12-04T03:15:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/hmb-earns-microsoft-advanced-specialization-in-modernization-of-web-applications-to-microsoft-azure-301186295.html"
-webUrl: "https://www.prnewswire.com/news-releases/hmb-earns-microsoft-advanced-specialization-in-modernization-of-web-applications-to-microsoft-azure-301186295.html"
+title: "Microsoft Azure Creates Top Secret Government Cloud As JEDI Battle Rages On"
+excerpt: "Microsoft Azure’s new Government Top Secret cloud meets the Department of Defense JEDI cloud contract requirement of commercial parity."
+publishedDateTime: 2020-12-08T10:10:00Z
+originalUrl: "https://www.crn.com/news/cloud/microsoft-azure-creates-top-secret-government-cloud-as-jedi-battle-rages-on"
+webUrl: "https://www.crn.com/news/cloud/microsoft-azure-creates-top-secret-government-cloud-as-jedi-battle-rages-on"
 type: article
-quality: 23
+quality: 35
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: CRN
+  domain: crn.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-    width: 600
-    height: 315
+  - url: "https://www.crn.com/resources/0264-1108feaab360-3f03b36b0abc-1000/pentagon-front.jpg"
+    width: 610
+    height: 457
     isCached: true
 
 related:
@@ -168,20 +168,6 @@ related:
         width: 1200
         height: 627
         isCached: true
-  - title: "Microsoft Azure Creates Top Secret Government Cloud As JEDI Battle Rages On"
-    excerpt: "Microsoft Azure’s new Government Top Secret cloud meets the Department of Defense JEDI cloud contract requirement of commercial parity."
-    publishedDateTime: 2020-12-08T10:10:00Z
-    webUrl: "https://www.crn.com/news/cloud/microsoft-azure-creates-top-secret-government-cloud-as-jedi-battle-rages-on"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 35
-    images:
-      - url: "https://www.crn.com/resources/0264-1108feaab360-3f03b36b0abc-1000/pentagon-front.jpg"
-        width: 610
-        height: 457
-        isCached: true
   - title: "Exoprise Office 365 Monitoring App Now Available in the Microsoft Azure Marketplace"
     excerpt: "PRNewswire/ -- Exoprise, a leading provider of software-as-a-service (SaaS) and Office 365 monitoring, today announced the availability of its"
     publishedDateTime: 2020-12-01T15:58:00Z
@@ -210,6 +196,20 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "HMB Earns Microsoft Advanced Specialization in Modernization of Web Applications to Microsoft Azure"
+    excerpt: "HMB, a technology solutions company with offices in Columbus, Ohio and Louisville, Kentucky, announced it has earned a Microsoft"
+    publishedDateTime: 2020-12-04T03:15:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/hmb-earns-microsoft-advanced-specialization-in-modernization-of-web-applications-to-microsoft-azure-301186295.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 23
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
+        isCached: true
   - title: "UK’s first electric car charging forecourt opens to the public, powered by Microsoft Azure and Dynamics"
     excerpt: "All the energy is sourced from a 10 MWp solar farm 44 miles away that can produce enough energy to drive 5,000 electric cars every year."
     publishedDateTime: 2020-12-07T10:43:00Z
@@ -234,6 +234,6 @@ related:
       domain: channele2e.com
     quality: 17
 
-secured: "nw5bxSqMcfy88MvRYJYD5fj680beWJtR0+zWqJgwOSjkp/0bn0tBHCG6HgliczmkQaOT5GpktD0pxGo8cVtItZxP51MxQJSqGWVZgygec7LmyQRelK1oWjaF30EiPZOxzkPRRtDGrzI2qXc0MAnl2DCWKCP/JCXFYWX9sfDVsfOqfAuufkPLxxKwzu9vyBTZdi7yZmg+zjh22lOlns+yGwjUlmVEfZ38IYW1wcPZ0Uu5gYTg8pQQ75QoZBxJWOtDcztUiaEMRZvYoiy0P7LABNv4fGaIaVBFbfeVI52NmtPwqcdMytV4RpMcpZMW3VCR+/2Pv3tBtu0ummUvSHZJI4cgoD23fTxa9P8kgPLzFwo=;MHhX0pRS8XRc/HBEv4QW2A=="
+secured: "WfFmoTlUEXdfaTQXEWHcM2TR+MgLoz5Q+QcIu/404M3SkFHO9ZE4Y38JaFr/0L5zT9YM3W2PjkjyjAZfCRB62Osnhb/GqKYBds4kTI8ip6MUiu51TBoXRGgfyLuLjl2T0JShCTbWJVhoYRNMl1R5+N3TupC9FO1UwCKmWeKJ89sZMjSSRJ3bmc1VICP10xsu5SaS1t8TtgDyqDpKsUea62st3waYEj40YIv1kdPTi7iAeqQ+I6oCq+tomy72fICyrEGCL/UekpPVf987E8K3qJeh+MJA6S33dd5Sa5hAL9hCO799ucc7lq/wLFDa+z+IiR7jpoymV1607MM5rcblPGev2tAUz15l9GVzg5lr3mk=;QHtx6goHys6RWaF0jYiFpg=="
 ---
 
