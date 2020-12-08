@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/azure-boards-delivery-pl
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-boards-delivery-plans-20-is-now-in-preview/"
 type: article
 quality: 84
-heat: 84
+heat: 85
 published: true
 
 provider:
