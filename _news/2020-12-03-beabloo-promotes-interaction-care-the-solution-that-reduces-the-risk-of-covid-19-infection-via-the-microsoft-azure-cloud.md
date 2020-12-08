@@ -40,6 +40,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Johnson Controls and Microsoft Announce Global Collaboration, Launch Integration between OpenBlue Digital Twin and Azure Digital Twins"
+    excerpt: "Johnson Controls, the global leader for smart and sustainable buildings, and Microsoft Corp. on Tuesday announced a global collaboration to digitally transform how buildings and spaces are conceived,"
+    publishedDateTime: 2020-12-08T14:00:00Z
+    webUrl: "https://www.nasdaq.com/press-release/johnson-controls-and-microsoft-announce-global-collaboration-launch-integration"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 42
   - title: "AirHop joins Azure 4G/5G ecosystem"
     excerpt: "AirHop Communications announced the integration of its solutions with Microsoft Azure platforms to accelerate 4G and 5G deployments."
     publishedDateTime: 2020-12-07T01:33:00Z
@@ -81,20 +90,6 @@ related:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
-        isCached: true
-  - title: "Johnson Controls and Microsoft announce global collaboration, launch integration between OpenBlue Digital Twin and Azure Digital Twins"
-    excerpt: "PRNewswire/ -- Johnson Controls (NYSE: JCI), the global leader for smart and sustainable buildings, and Microsoft Corp. on Tuesday announced a"
-    publishedDateTime: 2020-12-08T13:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/johnson-controls-and-microsoft-announce-global-collaboration-launch-integration-between-openblue-digital-twin-and-azure-digital-twins-301188260.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 22
-    images:
-      - url: "https://mma.prnewswire.com/media/1360586/JCI_logo.jpg?p=facebook"
-        width: 800
-        height: 419
         isCached: true
 
 secured: "2jgRSzTOfqK66bN6AimI6EZlaVOb/wjrM3UxXn2V7Jw8wxsiL4E1ds9vgZcl5SZrmYAHlXHLN29K5dsTZf6B6iPEc6TSJ8CIsi+amTQzp2mLFSAcPGI6QatLchb01UcgdR5llzj8kuQtP2Z2bWHEmBlfBkoqrQ58hnwA6jMDNnqZCZMSAflWRGISNMbMlwybSETtfXz6QdNpdDPsIyHHI38JIsT8tiZTeOBz7EH/uWE0s71Iwip6A57RCpn3Kz8fI97gJJvDQiaR2rT9pWDJr7sPvNBONVtPA8R2csJy73mePN/D41fq3SoUJZCHdUk4B24LGczyR+kxUt6ES3krudPfJ4ahobYbZAmg9p9X8Sg=;2QgB9u3U278zx/iP5n/hAg=="

@@ -1,28 +1,22 @@
 ---
 category: news
-title: "Johnson Controls and Microsoft announce global collaboration, launch integration between OpenBlue Digital Twin and Azure Digital Twins"
-excerpt: "PRNewswire/ -- Johnson Controls (NYSE: JCI), the global leader for smart and sustainable buildings, and Microsoft Corp. on Tuesday announced a"
-publishedDateTime: 2020-12-08T13:00:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/johnson-controls-and-microsoft-announce-global-collaboration-launch-integration-between-openblue-digital-twin-and-azure-digital-twins-301188260.html"
-webUrl: "https://www.prnewswire.com/news-releases/johnson-controls-and-microsoft-announce-global-collaboration-launch-integration-between-openblue-digital-twin-and-azure-digital-twins-301188260.html"
+title: "Johnson Controls and Microsoft Announce Global Collaboration, Launch Integration between OpenBlue Digital Twin and Azure Digital Twins"
+excerpt: "Johnson Controls, the global leader for smart and sustainable buildings, and Microsoft Corp. on Tuesday announced a global collaboration to digitally transform how buildings and spaces are conceived,"
+publishedDateTime: 2020-12-08T14:00:00Z
+originalUrl: "https://www.nasdaq.com/press-release/johnson-controls-and-microsoft-announce-global-collaboration-launch-integration"
+webUrl: "https://www.nasdaq.com/press-release/johnson-controls-and-microsoft-announce-global-collaboration-launch-integration"
 type: article
-quality: 22
+quality: 42
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - Azure
   - Integration
-
-images:
-  - url: "https://mma.prnewswire.com/media/1360586/JCI_logo.jpg?p=facebook"
-    width: 800
-    height: 419
-    isCached: true
 
 related:
   - title: "AirHop Communications brings real-time 5G network intelligence solution to Microsoft Azure 4G/5G"
@@ -98,6 +92,6 @@ related:
         height: 350
         isCached: true
 
-secured: "esaWH7HMRAW3hgXSwc12A17DQev0wz3AK6e+0TGe77lE2ssC1ypepFkwjWijyL80twrLhPTsjc9NWBk3Aro2OfSKEkIkoZPTi0GhR7FL1k5L11iKUi3u72grW3uX/iJnZDQJyCrieEuVDwmVeF/kpuAg2KsxkAdlvgQfvdxTx9KAgzNN2KTmpL0ygl6vsUpvAMkdAtl5hh9/YnuWf3w1IKbEWkGI4dMrBnQnr8ztjOBIHWODzVS+ysgNS16yNaAuvtZFbvyGmZ/FNIX8wLyIv5NLCbZ7POFQq6YusZngA62geTmiAcPtInCJ32T0qrLxYwO/U2jjq8+GA9PizJWwevUybI8nuBVTuONMD3sMA90=;LHqFsh6pK5G6xoxdIz8Ssg=="
+secured: "Qfn18NsV6VORV3EY7ziIMECGzmUMfykZAHUp3fkfaftdva1VIZiyPXU4j1n64aS8ffRR54Db1FNQtQTLphnWUY8d8ZN1S8fsuHn4RURvp9g6tFUTqg6Wz7qUM16reIB9lRv+ksx/36UDYGARv+Q79sdinbHdJF+/vTS4Fr+XABLxQkWIePBKfGgAecwFF5TfCdKU1EB1xrPCr4CPz/6gopinn/XnXjVJJh7GL4ynA9ZrSCevCkuaRyL0ZFKGubbyigmIp7JUy3iOwasXYlB47eQrvD6aSxt/t6PGFqESaXIw2GaFU+8o2wAhWjCynsp68xGKGQW3yJz3sBWeZdauCQKpwrcDbhsFBiRBZt9Wd2o=;f7SNcmnaAEW6+MQTyeM8Bw=="
 ---
 

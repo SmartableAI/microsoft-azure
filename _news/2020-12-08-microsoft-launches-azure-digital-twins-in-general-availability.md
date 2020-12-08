@@ -1,28 +1,32 @@
 ---
 category: news
-title: "Microsoft launches Azure cloud service for classified data"
-excerpt: "Microsoft launched Azure Government Top Secret cloud, part of the Azure Government Secret portfolio; it will handle classified data."
-publishedDateTime: 2020-12-08T10:26:00Z
-originalUrl: "https://windowsreport.com/microsoft-azure-government-top-secret/"
-webUrl: "https://windowsreport.com/microsoft-azure-government-top-secret/"
-ampWebUrl: "https://windowsreport.com/microsoft-azure-government-top-secret/?amp"
-cdnAmpWebUrl: "https://windowsreport-com.cdn.ampproject.org/c/s/windowsreport.com/microsoft-azure-government-top-secret/?amp"
+title: "Microsoft launches Azure Digital Twins in general availability"
+excerpt: "Microsoft's Azure Digital Twins service, which launched in preivew in November 2018, is now generally available."
+publishedDateTime: 2020-12-08T14:25:00Z
+originalUrl: "https://venturebeat.com/2020/12/08/microsoft-launches-azure-digital-twins-in-general-availability/"
+webUrl: "https://venturebeat.com/2020/12/08/microsoft-launches-azure-digital-twins-in-general-availability/"
+ampWebUrl: "https://venturebeat.com/2020/12/08/microsoft-launches-azure-digital-twins-in-general-availability/amp/"
+cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/08/microsoft-launches-azure-digital-twins-in-general-availability/amp/"
 type: article
-quality: 57
+quality: 97
 heat: -1
 published: false
 
 provider:
-  name: Windows
-  domain: windowsreport.com
+  name: VentureBeat
+  domain: venturebeat.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/venturebeat.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
 
 images:
-  - url: "https://cdn.windowsreport.com/wp-content/uploads/2020/12/Azure-Government-Top-Secret.jpg"
-    width: 1400
-    height: 1280
+  - url: "https://venturebeat.com/wp-content/uploads/2017/12/microsoft-azure-new-logo-2017-e1572843284943.png?w=1200&strip=all"
+    width: 1200
+    height: 600
     isCached: true
 
 related:
@@ -169,22 +173,6 @@ related:
       - url: "https://images.wsj.net/im-237735/social"
         width: 1280
         height: 640
-        isCached: true
-  - title: "Microsoft launches Azure Digital Twins in general availability"
-    excerpt: "Microsoft's Azure Digital Twins service, which launched in preivew in November 2018, is now generally available."
-    publishedDateTime: 2020-12-08T14:25:00Z
-    webUrl: "https://venturebeat.com/2020/12/08/microsoft-launches-azure-digital-twins-in-general-availability/"
-    ampWebUrl: "https://venturebeat.com/2020/12/08/microsoft-launches-azure-digital-twins-in-general-availability/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/08/microsoft-launches-azure-digital-twins-in-general-availability/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 97
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2017/12/microsoft-azure-new-logo-2017-e1572843284943.png?w=1200&strip=all"
-        width: 1200
-        height: 600
         isCached: true
   - title: "Microsoft challenges Twilio with the launch of Azure Communication Services"
     excerpt: "Microsoft today announced the launch of Azure Communication Services, a new set of features in its cloud that enable developers to add voice and video calling, chat and text messages to their apps, as well as old-school telephony."
@@ -629,6 +617,22 @@ related:
       - url: "https://www.bleepstatic.com/content/hl-images/2020/12/07/US-Capitol-Congress.jpg"
         width: 1600
         height: 813
+        isCached: true
+  - title: "Microsoft launches Azure cloud service for classified data"
+    excerpt: "Microsoft launched Azure Government Top Secret cloud, part of the Azure Government Secret portfolio; it will handle classified data."
+    publishedDateTime: 2020-12-08T10:26:00Z
+    webUrl: "https://windowsreport.com/microsoft-azure-government-top-secret/"
+    ampWebUrl: "https://windowsreport.com/microsoft-azure-government-top-secret/?amp"
+    cdnAmpWebUrl: "https://windowsreport-com.cdn.ampproject.org/c/s/windowsreport.com/microsoft-azure-government-top-secret/?amp"
+    type: article
+    provider:
+      name: Windows
+      domain: windowsreport.com
+    quality: 57
+    images:
+      - url: "https://cdn.windowsreport.com/wp-content/uploads/2020/12/Azure-Government-Top-Secret.jpg"
+        width: 1400
+        height: 1280
         isCached: true
   - title: "TCS Quartz? suite becomes available on Microsoft Azure Blockchain Service"
     excerpt: "Tata Consultancy Services announced the general availability of its award winning Quartz? suite of blockchain based solutions on Microsoft Azure Blockchain Service. The Quartz suite of products helps organizations set up truly connected ecosystems ..."
@@ -1657,6 +1661,6 @@ related:
         height: 450
         isCached: true
 
-secured: "jnl+ipWQcLTdk1nJV87kkiigtAX/iyOLc3UqsA+VBEbBtf/Jr61RZ2qcS8cZZvWaFU0TrpSTKAOvD/i+DhKPtfPu3+kuGtCi/5Qs9z1PJW64M9SyBbiL1/TMfqXgPT8azdt8QhXVMB6GMVGcKl6Jr6VMrpa+c+uzW0flOBRYP/OnCsqkqu8keFrW2al8zOMYVvbufvcVuFV50cQDF4jpn1e0heFYE7q9NPxbgP7KDw+LEpfvs3K8wwZRnW3bPmF7S1HsAlCkDOVhdtzeeb1bYXdnoqEApPF0LRcaxNScEM4VHcwzr/fIuWhIr/dkANRinhfEkSNwSP3PEoKZKO8W0Q6hqKNN6M//axkdVaCamfsrr7/Fkn8XQlNbWSi6UY/EKbbV872crcsOabGoyiefQjSe2u4RLqqGlw2sPC7B3x+YyvbMWLTtPhhPs4MHDtUzE+KIJcACc07+hmic8WiTuebgP0zGxCOivYDN2Jw4FQNzKI2QC7nNSatX51Yr6Te0VhO/pXdluvHAXuP1JywldQ==;WPshzfTcUMUS6sNvFoY82g=="
+secured: "QW7GLiB5ao/xojMLXbCmAqKwaFO89Seh9Ml74NuET7fS4Nh7G7qejLUo+5e39ShPdXUNqBI0BODTI58bvrNZE/kIup7FL78tSqbWy6wHK/T91ioJ7B5L8UWZbro66RrW1ScU0hF6VulYyzcFZAkIiygk3Kjs8rc2b6vS+MYxmIIg9ScEdYL1ue8Nfm3i5tQlnIeflD5TbuonFNcvGql5ddSwjKL+XTt+MOh132Dq8QcLtMcPagYIzqQ3ee868i07WImIZqXYLgmdKB1WqvfcH+30zkGTtcHPimGzY9f9rOcIKdb1LQ/YZbnvDYKIJOofv1TvkuYs05h/qrOjdJ4m/DSq+cz3AZNZ6xwYI+1G3As=;DVUmpXuwHlKzKbWnuHl37w=="
 ---
 

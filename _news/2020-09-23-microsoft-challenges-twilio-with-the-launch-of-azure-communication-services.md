@@ -174,6 +174,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Microsoft launches Azure Digital Twins in general availability"
+    excerpt: "Microsoft's Azure Digital Twins service, which launched in preivew in November 2018, is now generally available."
+    publishedDateTime: 2020-12-08T14:25:00Z
+    webUrl: "https://venturebeat.com/2020/12/08/microsoft-launches-azure-digital-twins-in-general-availability/"
+    ampWebUrl: "https://venturebeat.com/2020/12/08/microsoft-launches-azure-digital-twins-in-general-availability/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/08/microsoft-launches-azure-digital-twins-in-general-availability/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 97
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2017/12/microsoft-azure-new-logo-2017-e1572843284943.png?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Azure Communications Services is Microsoft's new managed communication platform"
     excerpt: "At its annual Ignite conference, Microsoft announced Azure Communications Service, the first fully managed communication platform offering from a major cloud provider. The service will help developers deliver enterprise-grade communication experiences ..."
     publishedDateTime: 2020-09-22T14:59:00Z
