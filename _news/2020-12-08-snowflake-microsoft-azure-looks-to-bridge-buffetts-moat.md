@@ -1,26 +1,26 @@
 ---
 category: news
-title: "Exoprise Office 365 Monitoring App Now Available in the Microsoft Azure Marketplace"
-excerpt: "PRNewswire/ -- Exoprise, a leading provider of software-as-a-service (SaaS) and Office 365 monitoring, today announced the availability of its CloudReady solution in the Microsoft Azure Marketplace, an online store that provides applications and services for use on Azure."
-publishedDateTime: 2020-12-01T18:20:00Z
-originalUrl: "https://apnews.com/article/technology-business-software-industry-information-technology-cloud-computing-services-701a49c713a36e14dd19c41663dd9368"
-webUrl: "https://apnews.com/article/technology-business-software-industry-information-technology-cloud-computing-services-701a49c713a36e14dd19c41663dd9368"
+title: "Snowflake: Microsoft Azure Looks To Bridge Buffett's Moat"
+excerpt: "Microsoft moves in on Snowflake with Purview tool. The outlook for big cloud competitors in 2021. Snowflake (SNOW) stock has moved above its IPO highs on its first earnings report and rocketed higher last week."
+publishedDateTime: 2020-12-08T14:18:00Z
+originalUrl: "https://seekingalpha.com/article/4393572-snowflake-microsoft-azure-looks-to-bridge-buffetts-moat"
+webUrl: "https://seekingalpha.com/article/4393572-snowflake-microsoft-azure-looks-to-bridge-buffetts-moat"
 type: article
-quality: 31
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Seeking Alpha
+  domain: seekingalpha.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://static3.seekingalpha.com/uploads/2020/12/32994745_16070915773107_rId7.png"
+    width: 742
+    height: 649
     isCached: true
 
 related:
@@ -168,20 +168,6 @@ related:
         width: 1200
         height: 627
         isCached: true
-  - title: "Snowflake: Microsoft Azure Looks To Bridge Buffett's Moat"
-    excerpt: "Microsoft moves in on Snowflake with Purview tool. The outlook for big cloud competitors in 2021. Snowflake (SNOW) stock has moved above its IPO highs on its first earnings report and rocketed higher last week."
-    publishedDateTime: 2020-12-08T14:18:00Z
-    webUrl: "https://seekingalpha.com/article/4393572-snowflake-microsoft-azure-looks-to-bridge-buffetts-moat"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 37
-    images:
-      - url: "https://static3.seekingalpha.com/uploads/2020/12/32994745_16070915773107_rId7.png"
-        width: 742
-        height: 649
-        isCached: true
   - title: "Microsoft Azure Creates Top Secret Government Cloud As JEDI Battle Rages On"
     excerpt: "Microsoft Azure’s new Government Top Secret cloud meets the Department of Defense JEDI cloud contract requirement of commercial parity."
     publishedDateTime: 2020-12-08T10:10:00Z
@@ -209,6 +195,20 @@ related:
       - url: "https://mma.prnewswire.com/media/1020851/exoprise_Logo.jpg?p=facebook"
         width: 1024
         height: 536
+        isCached: true
+  - title: "Exoprise Office 365 Monitoring App Now Available in the Microsoft Azure Marketplace"
+    excerpt: "PRNewswire/ -- Exoprise, a leading provider of software-as-a-service (SaaS) and Office 365 monitoring, today announced the availability of its CloudReady solution in the Microsoft Azure Marketplace, an online store that provides applications and services for use on Azure."
+    publishedDateTime: 2020-12-01T18:20:00Z
+    webUrl: "https://apnews.com/article/technology-business-software-industry-information-technology-cloud-computing-services-701a49c713a36e14dd19c41663dd9368"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 31
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
   - title: "HMB Earns Microsoft Advanced Specialization in Modernization of Web Applications to Microsoft Azure"
     excerpt: "COLUMBUS, Ohio, Dec. 3, 2020 /PRNewswire/ -- HMB, a technology solutions company with offices in Columbus, Ohio and Louisville, Kentucky, announced it has earned a Microsoft advanced ..."
@@ -245,6 +245,6 @@ related:
       domain: channele2e.com
     quality: 17
 
-secured: "p3vLBW0o0goMYxBsvaw/Ms7AY8Hn1hvdUBmhcgFQKdWBihgof5udfGVGSPCiFCderR/YwDU/RdZeiZUX7F4xb47ekj1BtxHkCK3ta6jfleNYmQOnsm3KxUdje9UcIap7XvhMby9O6YtnlsS3EHVn5r9i7VBkn+EkhE2cBUxAotKFifDNONxCR3rWrPpwW2j5C01kQ6mCRErMzGlTcVn+YOzDNPCEUlY/VwRyuCm0ittb8jyp5BsbiJnSQaZCjZf1DhI3l0RVBMmYuFswCKl7AmSlvT+TNYyvn5bBu5NxJQen1C5nZGoEyhDvnlvYJFGE8DLTxEjQlExcB3lN76AHGhXYWgzupSszAlH6kcGeBBY=;JO6k8VOzoL9vIZT7EyKKrQ=="
+secured: "vZUrD+WBf6GLomomjsI/pBYE66K7x+meBk3A5OL6IGQSZFRn2slRLuZLIs+FRx1yOqdQkCI/YmZRvvynQ3S18aRITdczhREEaxKTtmIxpOx7U0mOvmn4NGstVe4W5KuszOL+omZmFjcGnOHePzk7rEV4HfO9H1kn4ONsPSj/ESdir8Fe1zw48mbM1FRdFT1bhBwSltD2SraehnHvawmXA+UPzRCanwXSJ4m1djU8B2z0IfgdPEofKQciCtoWQjNLPRX8U8lkycTOUpmS1J5hkOf6lBuhblf0fSrlUtHfUsLVEXptE46YGoKvDbpOQPZdmr+OXnE5WsPJdixoHYVKsNgiKNNLnlw424f2KX6WGM0=;5aqOzTANcanpNZSeVXHUUQ=="
 ---
 

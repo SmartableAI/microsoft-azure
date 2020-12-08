@@ -2,11 +2,11 @@
 category: news
 title: "Microsoft Azure inherits new VPN features"
 excerpt: "Microsoft Azure has announced that a host of new VPN features are now generally available to users of its VPN Gateway. The new additions will provide additional functionality for businesses that ..."
-publishedDateTime: 2020-11-24T14:16:00Z
-originalUrl: "https://www.techradar.com/uk/news/microsoft-azure-inherits-new-vpn-features"
-webUrl: "https://www.techradar.com/uk/news/microsoft-azure-inherits-new-vpn-features"
-ampWebUrl: "https://www.techradar.com/uk/amp/news/microsoft-azure-inherits-new-vpn-features"
-cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/uk/amp/news/microsoft-azure-inherits-new-vpn-features"
+publishedDateTime: 2020-11-24T14:10:00Z
+originalUrl: "https://www.techradar.com/news/microsoft-azure-inherits-new-vpn-features"
+webUrl: "https://www.techradar.com/news/microsoft-azure-inherits-new-vpn-features"
+ampWebUrl: "https://www.techradar.com/amp/news/microsoft-azure-inherits-new-vpn-features"
+cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/microsoft-azure-inherits-new-vpn-features"
 type: article
 quality: 97
 heat: -1
@@ -555,6 +555,6 @@ related:
       domain: bobsguide.com
     quality: 0
 
-secured: "VvKllF6XIxjDZ+IXuZ5phyZVwL7QfPcQdtwzV7d/vf/VvaiHDyOvhJ6VnV5XNm12DXWvIos+emYd1lSoXXc12Ct2aFM9414vcr6a1QGr4zPnudJ/kxtHFbRUg1e0HIw9SrXkoBdMuCOuAhb3ZB7PMSpQzxZgf8dEudO3iXrisk6URYbmMmqXDLE+YOCYu9jMH1Vcb4H2Z8WmyXDRecmjhNetaLQW+VPGFUR/fSsUEK8aZ1f1mI6l76KCBmg3BTTMkDXUPIVoQCUQcLaLdXTRZU5kqu5aqdp2RugKAvE+HcjwHW/FKOA7xWsNrm6S8Myqwy3zg3WGrIr4as6k7YZJU+F5Tj0Snsh6eYQPEs0RNUQ=;gCHvpd7DEZw1QmoQJuhYkg=="
+secured: "3KlGrCtjs9Ttxx5KxxMF/vgH3CJCF0OpQLSdnVIxnnTWf0ABKIj7JgiMGNj1iYOniny1qZ4d4oqXEEhONurqlcwnKsEWe5lRQYyGNAQKickJ/2lJDkLFyQaxtCWfitHDMmddffhOS0GmbMeU9a4PJKx2DQusDLSwiIvItHmVf0WUscD9YOUApjvHcQ5NEADTzxo4lmovVzguPBxV9Z53fjp8z1keek08y+Ub+9NOO+xxM+F8wkIUFQvChNnP5X/vrFY2Qc5WqsOudTOjviNZwJyQahw1l/IS5fSpaK4eJ7F2oXCpWQAkYM/sdwyzF5L/QNs3ZmmNCveg84sY2O/7BeLTff6Ci3+BvIxbgnTDMqM=;BBMHR3SmHMEXUa16pWOVGw=="
 ---
 

@@ -164,6 +164,20 @@ related:
         width: 1200
         height: 627
         isCached: true
+  - title: "Snowflake: Microsoft Azure Looks To Bridge Buffett's Moat"
+    excerpt: "Microsoft moves in on Snowflake with Purview tool. The outlook for big cloud competitors in 2021. Snowflake (SNOW) stock has moved above its IPO highs on its first earnings report and rocketed higher last week."
+    publishedDateTime: 2020-12-08T14:18:00Z
+    webUrl: "https://seekingalpha.com/article/4393572-snowflake-microsoft-azure-looks-to-bridge-buffetts-moat"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 37
+    images:
+      - url: "https://static3.seekingalpha.com/uploads/2020/12/32994745_16070915773107_rId7.png"
+        width: 742
+        height: 649
+        isCached: true
   - title: "Microsoft Azure Creates Top Secret Government Cloud As JEDI Battle Rages On"
     excerpt: "Microsoft Azure’s new Government Top Secret cloud meets the Department of Defense JEDI cloud contract requirement of commercial parity."
     publishedDateTime: 2020-12-08T10:10:00Z
@@ -230,6 +244,6 @@ related:
       domain: channele2e.com
     quality: 17
 
-secured: "PhjejPSnWUTw9bdQYr2P/6Qy2Voh7MjY6xszG5UP//yT+cCthOuOCM/p99FkUS/qFMMdBHtE3n8D6j+diJryjpaWMZbK/cirW24Ca/sOWmgIwALf3tCHkmN+dD96TyajOl8KocOGhen7quywEgf/prIl+ddRoXQhKxC8RX3DUB+SJR18pzLfwaeCDOCLGfkALCwrhLk+aUqPussmAFKnsHnxvqfkmyDzXbZOwtJkE+2UK3QEX7PohlyUzQbOZBSDOabLUJAxrugFVOqqw4yCdyTBwusAHtnNKUe/QXpgML/o0luvtBdKfwBymDz8eCKOSM438s6jYQMiavvUyGc71CZv+NCO5LYKYgIuAFMVm5U=;4mHeWxkP9Eh4lum58sZFfQ=="
+secured: "xaqs+y+iU3Dr8P2hI3Gkka4MUzFPDDm//R3oL0L/LF7VZEsHIUT3mnPtZp3G2YBimKqiBSs4dQ66uihGn6Y6gQpd1xOlAkj7Hmkth8Ijp7z1MEFra8RPRvMb4gGV6F1AlANWXkEYCZ2Ql1F46XTN1gxZRnzQ3UgC8PV6Fi/sTHT8KqtmEx0Q0RJ90szC6bUgQilR79UBsdUT+Wut89VCp6ctzaA/dqLSjv3H8E+Rdr6cYMdHWJ7FCyV0akZ3Lrr5CO+sETplltGWtUDnkGxhDGX1zLrARtLyZQEgdMf+FVth3Zre6isk5yvewZ3t7GDQVFYg8wK0mzbBRBBU/vq6BrQiR9T1gXOy1Xf4PgV/D08=;qUVUOVspQBcthCsgIVlPsg=="
 ---
 

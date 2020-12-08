@@ -1,26 +1,27 @@
 ---
 category: news
-title: "Beabloo Promotes Interaction Care: the Solution that Reduces the Risk of COVID-19 Infection, via the Microsoft Azure Cloud"
-excerpt: "Beabloo Promotes Interaction Care: the Solution that Reduces the Risk of COVID-19 Infection, via the Microsoft Azure Cloud By 1 - The retail tech companys solution uses real-time alerts to avoid high-risk interactions and boost security in public"
-publishedDateTime: 2020-12-03T07:48:00Z
-originalUrl: "https://www.cioreview.com/news/beabloo-promotes-interaction-care-the-solution-that-reduces-the-risk-of-covid19-infection-via-the-microsoft-azure-cloud-pnid-423-cid-15.html"
-webUrl: "https://www.cioreview.com/news/beabloo-promotes-interaction-care-the-solution-that-reduces-the-risk-of-covid19-infection-via-the-microsoft-azure-cloud-pnid-423-cid-15.html"
+title: "Johnson Controls and Microsoft announce global collaboration, launch integration between OpenBlue Digital Twin and Azure Digital Twins"
+excerpt: "PRNewswire/ -- Johnson Controls (NYSE: JCI), the global leader for smart and sustainable buildings, and Microsoft Corp. on Tuesday announced a"
+publishedDateTime: 2020-12-08T13:00:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/johnson-controls-and-microsoft-announce-global-collaboration-launch-integration-between-openblue-digital-twin-and-azure-digital-twins-301188260.html"
+webUrl: "https://www.prnewswire.com/news-releases/johnson-controls-and-microsoft-announce-global-collaboration-launch-integration-between-openblue-digital-twin-and-azure-digital-twins-301188260.html"
 type: article
-quality: 11
+quality: 22
 heat: -1
 published: false
 
 provider:
-  name: CIOReview
-  domain: cioreview.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Azure
+  - Integration
 
 images:
-  - url: "https://www.cioreview.com/news_new/sliderimage/z4fcv.30035015151.jpg"
-    width: 300
-    height: 350
+  - url: "https://mma.prnewswire.com/media/1360586/JCI_logo.jpg?p=facebook"
+    width: 800
+    height: 419
     isCached: true
 
 related:
@@ -82,21 +83,21 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Johnson Controls and Microsoft announce global collaboration, launch integration between OpenBlue Digital Twin and Azure Digital Twins"
-    excerpt: "PRNewswire/ -- Johnson Controls (NYSE: JCI), the global leader for smart and sustainable buildings, and Microsoft Corp. on Tuesday announced a"
-    publishedDateTime: 2020-12-08T13:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/johnson-controls-and-microsoft-announce-global-collaboration-launch-integration-between-openblue-digital-twin-and-azure-digital-twins-301188260.html"
+  - title: "Beabloo Promotes Interaction Care: the Solution that Reduces the Risk of COVID-19 Infection, via the Microsoft Azure Cloud"
+    excerpt: "Beabloo Promotes Interaction Care: the Solution that Reduces the Risk of COVID-19 Infection, via the Microsoft Azure Cloud By 1 - The retail tech companys solution uses real-time alerts to avoid high-risk interactions and boost security in public"
+    publishedDateTime: 2020-12-03T07:48:00Z
+    webUrl: "https://www.cioreview.com/news/beabloo-promotes-interaction-care-the-solution-that-reduces-the-risk-of-covid19-infection-via-the-microsoft-azure-cloud-pnid-423-cid-15.html"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 22
+      name: CIOReview
+      domain: cioreview.com
+    quality: 11
     images:
-      - url: "https://mma.prnewswire.com/media/1360586/JCI_logo.jpg?p=facebook"
-        width: 800
-        height: 419
+      - url: "https://www.cioreview.com/news_new/sliderimage/z4fcv.30035015151.jpg"
+        width: 300
+        height: 350
         isCached: true
 
-secured: "2jgRSzTOfqK66bN6AimI6EZlaVOb/wjrM3UxXn2V7Jw8wxsiL4E1ds9vgZcl5SZrmYAHlXHLN29K5dsTZf6B6iPEc6TSJ8CIsi+amTQzp2mLFSAcPGI6QatLchb01UcgdR5llzj8kuQtP2Z2bWHEmBlfBkoqrQ58hnwA6jMDNnqZCZMSAflWRGISNMbMlwybSETtfXz6QdNpdDPsIyHHI38JIsT8tiZTeOBz7EH/uWE0s71Iwip6A57RCpn3Kz8fI97gJJvDQiaR2rT9pWDJr7sPvNBONVtPA8R2csJy73mePN/D41fq3SoUJZCHdUk4B24LGczyR+kxUt6ES3krudPfJ4ahobYbZAmg9p9X8Sg=;2QgB9u3U278zx/iP5n/hAg=="
+secured: "jMbushb29f0afxO3iJ/t1dhnMNhUZB8o2tptadPOKgHDg+dTkUjNz+4fyT7/QH3a06AbVdK2nlg+mb9tyRZwiaHgqakI1W4+zSr1Sadi8CDtChlnGuMJ7SvbxdFn6jFoNs3pvZzAcIuGVISK+ToQrKKjN8Eje9iARakZvDBrf/HnMVCQ3zDF/7jZSzXs7hPQPuCxEi9IJIIZ1u+j9x4Pe1j+MYiTqqe8vuPGvicbwlGR0nXnDZ+pdK9lT2wjenJaGVAEnGB9pBEVEjYK/wKk0BKDH1yMbzDwmLQvuNEn5f1lMjClkAJypQ331FNMWRWuKkdd3Bioej6/XoHf40P/bDCLy2RU7Id80JWOq0y6Azg=;nXg6RWuOAUcXp+4iH9Q7oQ=="
 ---
 
