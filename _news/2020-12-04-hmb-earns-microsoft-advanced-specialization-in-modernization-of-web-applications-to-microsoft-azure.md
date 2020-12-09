@@ -234,6 +234,15 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Peloton Well Focused Data Management Solutions, powered by Microsoft Azure, leads digital transformation in the energy industry"
+    excerpt: "Peloton, the global leader in Well Lifecycle Data Management software solutions for the energy industry, is excited to announce that the Peloton Platform has been recognized as a Microsoft preferred solution for managing Well,"
+    publishedDateTime: 2020-12-08T15:37:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/peloton-well-focused-data-management-solutions-powered-by-microsoft-azure-leads-digital-transformation-in-the-energy-industry-1029873993"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 29
   - title: "UK’s first electric car charging forecourt opens to the public, powered by Microsoft Azure and Dynamics"
     excerpt: "All the energy is sourced from a 10 MWp solar farm 44 miles away that can produce enough energy to drive 5,000 electric cars every year."
     publishedDateTime: 2020-12-07T10:43:00Z
@@ -257,15 +266,6 @@ related:
       name: ChannelE2E
       domain: channele2e.com
     quality: 17
-  - title: "Peloton Well Focused Data Management Solutions, powered by Microsoft Azure, leads digital transformation in the energy industry"
-    excerpt: "Peloton, the global leader in Well Lifecycle Data Management software solutions for the energy industry, is excited to announce that the Peloton Platform"
-    publishedDateTime: 2020-12-08T14:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/peloton-well-focused-data-management-solutions-powered-by-microsoft-azure-leads-digital-transformation-in-the/article_207cc8e8-b873-5e3b-a8c9-c23a8f036dbf.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 0
 
 secured: "xaqs+y+iU3Dr8P2hI3Gkka4MUzFPDDm//R3oL0L/LF7VZEsHIUT3mnPtZp3G2YBimKqiBSs4dQ66uihGn6Y6gQpd1xOlAkj7Hmkth8Ijp7z1MEFra8RPRvMb4gGV6F1AlANWXkEYCZ2Ql1F46XTN1gxZRnzQ3UgC8PV6Fi/sTHT8KqtmEx0Q0RJ90szC6bUgQilR79UBsdUT+Wut89VCp6ctzaA/dqLSjv3H8E+Rdr6cYMdHWJ7FCyV0akZ3Lrr5CO+sETplltGWtUDnkGxhDGX1zLrARtLyZQEgdMf+FVth3Zre6isk5yvewZ3t7GDQVFYg8wK0mzbBRBBU/vq6BrQiR9T1gXOy1Xf4PgV/D08=;qUVUOVspQBcthCsgIVlPsg=="
 ---

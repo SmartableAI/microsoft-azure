@@ -224,6 +224,15 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Peloton Well Focused Data Management Solutions, powered by Microsoft Azure, leads digital transformation in the energy industry"
+    excerpt: "Peloton, the global leader in Well Lifecycle Data Management software solutions for the energy industry, is excited to announce that the Peloton Platform has been recognized as a Microsoft preferred solution for managing Well,"
+    publishedDateTime: 2020-12-08T15:37:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/peloton-well-focused-data-management-solutions-powered-by-microsoft-azure-leads-digital-transformation-in-the-energy-industry-1029873993"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 29
   - title: "HMB Earns Microsoft Advanced Specialization in Modernization of Web Applications to Microsoft Azure"
     excerpt: "COLUMBUS, Ohio, Dec. 3, 2020 /PRNewswire/ -- HMB, a technology solutions company with offices in Columbus, Ohio and Louisville, Kentucky, announced it has earned a Microsoft advanced ..."
     publishedDateTime: 2020-12-04T04:46:00Z
@@ -258,15 +267,6 @@ related:
       name: ChannelE2E
       domain: channele2e.com
     quality: 17
-  - title: "Peloton Well Focused Data Management Solutions, powered by Microsoft Azure, leads digital transformation in the energy industry"
-    excerpt: "Peloton, the global leader in Well Lifecycle Data Management software solutions for the energy industry, is excited to announce that the Peloton Platform"
-    publishedDateTime: 2020-12-08T14:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/peloton-well-focused-data-management-solutions-powered-by-microsoft-azure-leads-digital-transformation-in-the/article_207cc8e8-b873-5e3b-a8c9-c23a8f036dbf.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 0
 
 secured: "dIO14hqa9tR1DZfZx3jFqCMb1LpOT9gTu0lXKY1aWAsJ6pHOr6h4lI3Uzcjdai3QaL7gt34JKWKsWRtAVSjL3lESvkg9UAXIl25pQfNL3EF7Xjc0/44uztAqr2rfPjANVgLONpduq9NL/FuYbey7HDg1ECmXeCzVMA7E7JEZNdPDIwDu6YAg0KJYkR3SbpET8IH/wWL2jPC0zc71pRx5GN3h1q7EXiX6B+DRdhpd5pr7BlqCa73iuUz56licBcJ61kdQSKUFEstA7wnMeEGxwMX4N5X3gtTrEYLe0cd5nR1RN12mXCEIoFldbcuz5Xiynv+DONK0LyWKDeq1FAl5UAz05KO0uIjtkb/U1JEhgb5w8fsrF+QvViVkE+aKDhGw7HCJaOJrkOFkYhAIFTeXYBzwv3hzo3D7KFrm4A18c2/0/nVp2CxVulHQWsvS2Zxx9VokGP4QFuaNtOVAKj0vmKoBzM39isj+FLcwsD1RdaMIlcc9K3C5s0VsS1CbKkxs9rdTkCHFbP3lxNbaZAcJ8Q==;Ya8xVVgz4BcfQyOfP2ZGHw=="
 ---
