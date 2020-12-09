@@ -39,20 +39,6 @@ related:
       name: Sportskeeda
       domain: sportskeeda.com
     quality: 35
-  - title: "Beabloo Promotes Interaction Care: the Solution that Reduces the Risk of COVID-19 Infection, via the Microsoft Azure Cloud"
-    excerpt: "Beabloo Promotes Interaction Care: the Solution that Reduces the Risk of COVID-19 Infection, via the Microsoft Azure Cloud By 1 - The retail tech companys solution uses real-time alerts to avoid high-risk interactions and boost security in public"
-    publishedDateTime: 2020-12-03T07:48:00Z
-    webUrl: "https://www.cioreview.com/news/beabloo-promotes-interaction-care-the-solution-that-reduces-the-risk-of-covid19-infection-via-the-microsoft-azure-cloud-pnid-423-cid-15.html"
-    type: article
-    provider:
-      name: CIOReview
-      domain: cioreview.com
-    quality: 11
-    images:
-      - url: "https://www.cioreview.com/news_new/sliderimage/z4fcv.30035015151.jpg"
-        width: 300
-        height: 350
-        isCached: true
 
 secured: "xwEafhjiHcwoGj2g1NctqMjbMwx865leJHmYmmqWqjD/eMryGtGAJIwKc2nVOjSfKF83+mSAPYJpN9Q+fImYHsKpFCGvu0UWOnQJ5k0Yzfpms0tkUWRKxVLMVdKYqJS+lpG8OVriER/eh/7cj1qW1cPRhZUbgCadlU5nqoPN30NZhgehyg5y+vtNLzp/hZYwrNjKmDss2UiNAv9mVX85rev3GWGXx0igbL5mhB4gtEai3MkuAfPvAhuIOe9MVzEUNOyXJW07IFY/vaK0JkvDhBi+QaeusEylxSVQKg6p350uKf2Voy/dDRjiDjIsNFoL9sWJnENzLzuZCy3rZhAdOKbT3inhE9fQFAgERltSRXJHOhDwJVBI2TxkqzNm5ZpJLJ17dREVr7ShhumMga9pFktF8ot34gHXMvUeKKB6NqLm/4V2JH7zyPv+SUJ8ZCheitRyeUwwx95bc0vIaTUnfekIFJF3SrwvIyIFdS7Eos0HE6JBDSD1Vm0feUvO4Q6YcnIVAM0MZLqD1nNX4Jnjxg==;NNtOllrvZY3l6mtiWDOasw=="
 ---

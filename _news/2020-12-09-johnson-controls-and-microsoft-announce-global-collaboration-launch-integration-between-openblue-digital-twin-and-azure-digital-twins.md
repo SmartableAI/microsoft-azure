@@ -1,31 +1,27 @@
 ---
 category: news
-title: "Johnson Controls and Microsoft Announce Global Collaboration, Launch Integration between OpenBlue Digital Twin and Azure Digital Twins"
-excerpt: "Digital twins are playing an increasingly important role in the design and ongoing operation of healthy buildings As a key partner for Azure Digital Twins, Johnson Controls` OpenBlue Digital Twin is a comprehensive platform that will support the entire ecosystem of building and device management technologies with digital cloud technologies."
-publishedDateTime: 2020-12-08T21:08:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/johnson-controls-and-microsoft-announce-global-collaboration-launch-integration-between-openblue-digital-twin-and-azure-digital-twins-1029873561"
-webUrl: "https://markets.businessinsider.com/news/stocks/johnson-controls-and-microsoft-announce-global-collaboration-launch-integration-between-openblue-digital-twin-and-azure-digital-twins-1029873561"
+title: "Johnson Controls and Microsoft announce global collaboration, launch integration between OpenBlue Digital Twin and Azure Digital Twins"
+excerpt: "As a key partner for Azure Digital Twins, Johnson Control’s OpenBlue Digital Twin is a comprehensive platform that will support the entire ecosystem of building and device management technologies with digital cloud technologies."
+publishedDateTime: 2020-12-09T12:47:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-environment-and-nature-sustainable-development-b1131d847e33831f4ed63f46dc68a00b"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-environment-and-nature-sustainable-development-b1131d847e33831f4ed63f46dc68a00b"
 type: article
-quality: 62
-heat: 122
-published: true
+quality: 22
+heat: -1
+published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Azure
   - Integration
 
 images:
-  - url: "https://mma.prnewswire.com/media/73855/johnson_controls_logo.jpg"
-    width: 400
-    height: 221
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -54,6 +50,34 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 42
+  - title: "AirHop joins Azure 4G/5G ecosystem"
+    excerpt: "AirHop Communications announced the integration of its solutions with Microsoft Azure platforms to accelerate 4G and 5G deployments."
+    publishedDateTime: 2020-12-07T01:33:00Z
+    webUrl: "https://www.helpnetsecurity.com/2020/12/07/airhop-communications-microsoft-azure/"
+    type: article
+    provider:
+      name: Help Net Security
+      domain: helpnetsecurity.com
+    quality: 37
+    images:
+      - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/11/02114007/help_net_security.jpg"
+        width: 1200
+        height: 627
+        isCached: true
+  - title: "Telecom Provider Migrates Confidently to Microsoft Azure with Fortinet’s Dynamic Cloud Security Solutions"
+    excerpt: "For telecommunications providers, it is critical to remain agile and keep pace with the evolving requirements of their customers while also ensuring security and business continuity."
+    publishedDateTime: 2020-12-07T14:54:00Z
+    webUrl: "https://www.csoonline.com/article/3600428/telecom-provider-migrates-confidently-to-microsoft-azure-with-fortinet-s-dynamic-cloud-security-sol.html"
+    type: article
+    provider:
+      name: CSOonline
+      domain: csoonline.com
+    quality: 37
+    images:
+      - url: "https://images.idgesg.net/images/article/2020/12/digital-cloud-computing-cyber-security-digital-data-network-future-picture-id1216520824-100869764-large.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "AirHop Communications Brings Real-Time 5G Network Intelligence Solution to Microsoft Azure 4G/5G"
     excerpt: "AirHop Communications, a leader in 4G and 5G Network Intelligence software platforms and solutions, today announced the integration of its solutions with Microsoft Azure platforms. The integration of AirHop’s eSON platform enables network deployments with Microsoft Azure platforms (cloud,"
     publishedDateTime: 2020-12-03T19:35:00Z
@@ -68,7 +92,21 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Beabloo Promotes Interaction Care: the Solution that Reduces the Risk of COVID-19 Infection, via the Microsoft Azure Cloud"
+    excerpt: "Beabloo Promotes Interaction Care: the Solution that Reduces the Risk of COVID-19 Infection, via the Microsoft Azure Cloud By 1 - The retail tech companys solution uses real-time alerts to avoid high-risk interactions and boost security in public"
+    publishedDateTime: 2020-12-03T07:48:00Z
+    webUrl: "https://www.cioreview.com/news/beabloo-promotes-interaction-care-the-solution-that-reduces-the-risk-of-covid19-infection-via-the-microsoft-azure-cloud-pnid-423-cid-15.html"
+    type: article
+    provider:
+      name: CIOReview
+      domain: cioreview.com
+    quality: 11
+    images:
+      - url: "https://www.cioreview.com/news_new/sliderimage/z4fcv.30035015151.jpg"
+        width: 300
+        height: 350
+        isCached: true
 
-secured: "J/fUtUOp2H2BBpr+zBrvArQCH/wl1uJ7IwRjcxEcgoy1VhqVPm84VooxI6IYo8dddAqidO3jIAUqHRnCqHmWlfO+dhVDEP6IVkfko6zr7LcIxyN+nE6Emep/d98YEnkrMwqScRdbQDcFVWAMdVBwVsAPqEN5bSLJvNgxp6O4LuiWmQ4/1mbl96Be7+Hfn8WsqbM3q/f1K1ov4jGVcOMt9X87pbDLQR6yUvXaXooaWHrO3hgk5JRXku1eUdF7V2k/I3P/dSem+hhNTFgWDHnau6EaZDJzotTE52Gfe6bycuLLEEp2vufRteWSl8tpA/1O017i+oVPpPrwLpgCergffuIDtqjRMVAfDo5SAEpSu6Y=;snLWxA2Dj/qc4yyiypXy8Q=="
+secured: "wZ5JELqArOqGB1RoJL4uer77ZwI4Er+hsZhnlIhyHiYgao1717+K1AMaCWBu4leNv1RvPBvMOh6Y7YqPJ+0f+jzmPVqwBcxmVgV+ERojv0RktPOL0MvWwbfRTTyYh5A+gqdKXI3ONVRIt62mCOPK1/L4w/3+O8UgjIub0maGoGs1QZymGbiGqGTYqC2BLH7kKRV5Up7zh0cZdvXPX4ZWWfFudKlSW7paJ9khZVUVjsYeU/dZQnH1fOEFT0pIoJxJ/Ibw3nP05xcmmr3jEyYtLj7jJWq9Ja4iuRMvzO6Tj/DXeadFc3XUPzmwW10tFarm7gTCnc/x5ynxEfVqJWPn0zlsBeqj/6CUWY4cJ9Yyaxw=;tTIVXkgjozsbIwxTyok6qA=="
 ---
 
