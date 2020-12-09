@@ -2,6 +2,59 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-09-22-change-data-integration-in-azure-monitor-for-vms-is-now-in-public-preview.md",
+      "title": "Change data integration in Azure Monitor for VMs is now in public preview",
+      "excerpt": "You can now observe degradation of performance or health in a VM with the new change data integration in Azure Monitor for VMs.",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/en-us/updates/change-data-integration-in-azure-monitor-for-vms-is-now-in-public-preview/",
+      "originalUrl": "https://azure.microsoft.com/en-us/updates/change-data-integration-in-azure-monitor-for-vms-is-now-in-public-preview/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 420,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/6d7b4ff4-8c9a-4041-bff7-6887de23340f.png",
+          "width": 1024,
+          "height": 463,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-22T09:05:17-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure",
+        "DevOps",
+        "Integration"
+      ]
+    },
+    {
       "path": "_news/2020-09-22-general-availability-of-azure-monitor-for-key-vault-and-azure-cache-for-redis.md",
       "title": "General availability of Azure Monitor for Key Vault and Azure Cache for Redis",
       "excerpt": "Azure Monitor for Key Vault and Azure Monitor for Azure Cache for Redis provide out of the box insights for these resources using platform telemetry.",
@@ -1083,49 +1136,6 @@
       "topics": [
         "Azure",
         "Analytics"
-      ]
-    },
-    {
-      "path": "_news/2020-09-09-azure-blob-storage-object-replication-is-now-generally-available.md",
-      "title": "Azure Blob storage object replication is now generally available",
-      "excerpt": "Object replication allows you to replicate your block blob data at the blob level from one storage account to another anywhere in the Azure. ",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/en-us/updates/azure-blob-storage-object-replication-is-now-generally-available/",
-      "originalUrl": "https://azure.microsoft.com/en-us/updates/azure-blob-storage-object-replication-is-now-generally-available/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 399,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-09T13:05:14-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure",
-        "Storage"
       ]
     }
   ],

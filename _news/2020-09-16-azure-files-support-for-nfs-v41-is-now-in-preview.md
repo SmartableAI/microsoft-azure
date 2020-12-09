@@ -31,6 +31,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 101
+  - title: "Azure Blob storage—NFS 3.0 protocol support public preview now supports GPV2 storage accounts "
+    excerpt: "NFS 3.0 support for Azure Blob Storage preview now supports premium performance tier in all available regions and lower cost standard performance tier in Australia East, Korea Central, and South Central US.    "
+    publishedDateTime: 2020-12-09T21:00:15Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-blob-storage-nfs-30-protocol-support-public-preview-now-supports-gpv2-storage-accounts/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 87
   - title: "Azure resource logs for Azure Storage is now in public preview"
     excerpt: "With Azure Storage logs and native export options, it’s more convenient to troubleshoot issues on requests to your storage account."
     publishedDateTime: 2020-12-09T17:00:19Z

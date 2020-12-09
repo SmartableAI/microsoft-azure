@@ -260,15 +260,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Peloton Well Focused Data Management Solutions, powered by Microsoft Azure, leads digital transformation in the energy industry"
-    excerpt: "Peloton, the global leader in Well Lifecycle Data Management software solutions for the energy industry, is excited to announce that the Peloton Platform has been recognized as a Microsoft preferred solution for managing Well,"
-    publishedDateTime: 2020-12-08T15:37:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/peloton-well-focused-data-management-solutions-powered-by-microsoft-azure-leads-digital-transformation-in-the-energy-industry-1029873993"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 29
   - title: "HMB Earns Microsoft Advanced Specialization in Modernization of Web Applications to Microsoft Azure"
     excerpt: "COLUMBUS, Ohio, Dec. 3, 2020 /PRNewswire/ -- HMB, a technology solutions company with offices in Columbus, Ohio and Louisville, Kentucky, announced it has earned a Microsoft advanced ..."
     publishedDateTime: 2020-12-04T04:46:00Z
@@ -303,6 +294,20 @@ related:
       name: ChannelE2E
       domain: channele2e.com
     quality: 17
+  - title: "Peloton Well Focused Data Management Solutions, powered by Microsoft Azure, leads digital transformation in the energy industry"
+    excerpt: "Developed with Microsoft Azure technology, the Peloton Platform delivers a robust end user experience to oil and gas companies around the world. The Peloton Platform provides a secure, optimized ..."
+    publishedDateTime: 2020-12-08T15:19:00Z
+    webUrl: "https://www.newswire.ca/news-releases/peloton-well-focused-data-management-solutions-powered-by-microsoft-azure-leads-digital-transformation-in-the-energy-industry-817941631.html"
+    type: article
+    provider:
+      name: Newswire
+      domain: newswire.ca
+    quality: 9
+    images:
+      - url: "https://mma.prnewswire.com/media/1163960/Peloton_Logo.jpg?p=facebook"
+        width: 1955
+        height: 1024
+        isCached: true
 
 secured: "bgNvxTYo/Yq80HvFUW/3mIO7/PFH4mqiXXDR6xKWESC4Cx7YYzo/PhY3jZ1xigcNHyfRafBh5A5a32JFrxrglTCx4lLs7Smb6yIedjYVkGojkfh0p2Y/AD38DCctr4/93MaGz/UKSM3G8TDZ0TaMzWwGkxWJ+LPD0ooPO+2egiU2lTYqQglQSuw69T2tA14mpeEeyJh0S7E3qD9awb7fHCk3tE6jPakf/U0oQUU56kTgCmBzPHQuz02QJJcXJtu/H65s1xcg6PHPB+txHT37JhqK1ktkyuuW2DgJj2/3q5IffOfg6ARP1pTg1r/2tX5C/nMX91CscOTQzW9Ws10qo0r17lrxYIM9nZM8I2tU8gz0o0VSNC7JoKcgZ3E4EbSULL/MVfGLP7Xg38t+mgsgkmn4fWh/Hf/kfWwThUZRYdpxXB99WHl34BS9hMWWCyKPSmJZn5yM1ZT/AEyGW52pmUp1mP1lb5zpAO9PkE066AxOlipGz0GVXJ2TtsystsDGIaI/+xovjrfyGxCeAQ9zuw==;PqXzog2sghM5GRyLRajLLw=="
 ---

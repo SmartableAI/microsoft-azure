@@ -1,12 +1,12 @@
 ---
 category: news
-title: "Azure resource logs for Azure Storage is now in public preview"
-excerpt: "With Azure Storage logs and native export options, it’s more convenient to troubleshoot issues on requests to your storage account."
-publishedDateTime: 2020-12-09T17:00:19Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/azure-resource-logs-for-azure-storage-is-now-in-public-preview/"
-webUrl: "https://azure.microsoft.com/en-us/updates/azure-resource-logs-for-azure-storage-is-now-in-public-preview/"
+title: "Azure Blob storage—NFS 3.0 protocol support public preview now supports GPV2 storage accounts "
+excerpt: "NFS 3.0 support for Azure Blob Storage preview now supports premium performance tier in all available regions and lower cost standard performance tier in Australia East, Korea Central, and South Central US.    "
+publishedDateTime: 2020-12-09T21:00:15Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/azure-blob-storage-nfs-30-protocol-support-public-preview-now-supports-gpv2-storage-accounts/"
+webUrl: "https://azure.microsoft.com/en-us/updates/azure-blob-storage-nfs-30-protocol-support-public-preview-now-supports-gpv2-storage-accounts/"
 type: article
-quality: 84
+quality: 87
 heat: -1
 published: false
 
@@ -32,15 +32,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 101
-  - title: "Azure Blob storage—NFS 3.0 protocol support public preview now supports GPV2 storage accounts "
-    excerpt: "NFS 3.0 support for Azure Blob Storage preview now supports premium performance tier in all available regions and lower cost standard performance tier in Australia East, Korea Central, and South Central US.    "
-    publishedDateTime: 2020-12-09T21:00:15Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-blob-storage-nfs-30-protocol-support-public-preview-now-supports-gpv2-storage-accounts/"
+  - title: "Azure resource logs for Azure Storage is now in public preview"
+    excerpt: "With Azure Storage logs and native export options, it’s more convenient to troubleshoot issues on requests to your storage account."
+    publishedDateTime: 2020-12-09T17:00:19Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-resource-logs-for-azure-storage-is-now-in-public-preview/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 87
+    quality: 84
   - title: "Azure Files support for NFS v4.1 is now in preview"
     excerpt: "Azure Files now adds support for NFS v4.1 file system protocol for an easy migration of your Linux-centric workloads."
     publishedDateTime: 2020-09-16T17:00:28Z
@@ -141,6 +141,6 @@ related:
       domain: microsoft.com
     quality: 14
 
-secured: "tSG3J54srFVEsuGr7prDg09L2hdCn1l6DrfTNFbrd2rtjlLR9wIB+4HcRo+9RFJB+P0CWYzTRYXGZcIFQ/ANiPE+fb1SbCC9esqZ4I+Adzj9EpSn+3Dn3gqMtSUsLNF/h6XlRWNsA+VbHsEovrDuT0wOOGm0rfM4JgWtnAvIZmIZcFYZd7Xc9x0L2hnFrABQb6uFgYNizz49XJE9w2dDO6vXiDz1mVMqv5W7DYqa1lJZXzShb1ZZknLw1/zOczDw3tavKdpdBdclXzqNL++9XEHzgE/zXDiA6P8eUAWM1oa7MbUhmTlQ1gH7Qk9MO0eAkYfOp+c/aCNVGhjXLPjQ+UiF7zb1qsrxb+uBYNIUacE=;a7NfEIKcNp0/viVBdlEZxw=="
+secured: "f/GdLNb6pjh8FiC1OYHWoxF4ckEtoM7q5VGqoFmzpmshmOJ1MRbRbF0Vssz3uXYVCimgLDmrFBw+amIU7LKeYgywb2B1iWA3cH9Aaj4/83Ih3ev5SFolZrE8ry6qeh+xV9kDlieMJ/iN7LQ7kAl2JYmh/yMpKqptHZiXowticuXjzMqxs288fkBlZ5m5NKhxJ/v68Rx3X3UC9x83V809V4IQfSoK3HZCon93G+8j/9wP493VzeugR2nRb8evn/xSij4FPuL3SwqNWNQmSSeuTFhD/y3HPccaUdikMoI3gYiAn4N06M8gxiR1rDqE2UXxq25iNJ0pY80l5cNeo5PMg+tywH8zYNIcvNh87k6PD0I=;5f9B/4zXuwnsAcoZDV+yNg=="
 ---
 

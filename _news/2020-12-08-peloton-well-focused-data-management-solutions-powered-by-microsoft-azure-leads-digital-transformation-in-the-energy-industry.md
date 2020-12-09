@@ -1,25 +1,27 @@
 ---
 category: news
 title: "Peloton Well Focused Data Management Solutions, powered by Microsoft Azure, leads digital transformation in the energy industry"
-excerpt: "Peloton, the global leader in Well Lifecycle Data Management software solutions for the energy industry, is excited to announce that the Peloton Platform has been recognized as a Microsoft preferred solution for managing Well,"
-publishedDateTime: 2020-12-08T15:37:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/peloton-well-focused-data-management-solutions-powered-by-microsoft-azure-leads-digital-transformation-in-the-energy-industry-1029873993"
-webUrl: "https://markets.businessinsider.com/news/stocks/peloton-well-focused-data-management-solutions-powered-by-microsoft-azure-leads-digital-transformation-in-the-energy-industry-1029873993"
+excerpt: "Developed with Microsoft Azure technology, the Peloton Platform delivers a robust end user experience to oil and gas companies around the world. The Peloton Platform provides a secure, optimized ..."
+publishedDateTime: 2020-12-08T15:19:00Z
+originalUrl: "https://www.newswire.ca/news-releases/peloton-well-focused-data-management-solutions-powered-by-microsoft-azure-leads-digital-transformation-in-the-energy-industry-817941631.html"
+webUrl: "https://www.newswire.ca/news-releases/peloton-well-focused-data-management-solutions-powered-by-microsoft-azure-leads-digital-transformation-in-the-energy-industry-817941631.html"
 type: article
-quality: 29
+quality: 9
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Newswire
+  domain: newswire.ca
 
 topics:
   - Azure
+
+images:
+  - url: "https://mma.prnewswire.com/media/1163960/Peloton_Logo.jpg?p=facebook"
+    width: 1955
+    height: 1024
+    isCached: true
 
 related:
   - title: "Microsoft just stress-tested its most powerful Azure node in a pretty fun way"
@@ -303,6 +305,6 @@ related:
       domain: channele2e.com
     quality: 17
 
-secured: "ZEhGneSr7Fp5zlyr1h9M8Xr9Q1rQJ7BRXom68J6jqN5yFp4z97YxB8d0dD956cSVTxf5R/KIr5AorJjhy+VkscYgU5jBMHZGr/Wab82zwmjcC2+pE2+BgUimwOT8J0FVbRQz5YBdMSYG/eVE9xeVm3NL90rfRA+H/wMEt65vqZ3xYwxiWSNcQXz1bv1H2dZg+YqKmVL4qnaFptO/FDZaqs2TGSnjWSyHj4gRtjaPUJTAzzV7syZ6RtEf9W553WXqU/eo+AhvRJGyVHNjZQ1pe0/IzId/MxvnzuprnRaCWqsfqa5uM7Ps+fJueCUnwVpiL60uozJhOJiZz8M/TTw4mRaHNBZ2cdux2JuhzKPVW20=;HbTBiARCIEXZ09DIWGoH0g=="
+secured: "BJrxBYAUBPG5dl8vbdz0b6ehSmfISQ59PshvyH1DKSv+MhNDWi2jv8z8C6nhYDT0HBFN40o55aJkdAANcVpT+48WABnvdzV9RhT8xi2TkeKFlPuEvInCkxbZ1iHKqwhO52RhS0fXxktIZNsPOezyaEUB4kuvK4h0XmZwgEHGgHWBmt1JdRGfiKM/Xz5Hj0nWH9hIPcwexiT8d9EUlYbO+4TXY72WewY0x6Z/ueSBq/7AxqT8uJJEMjlbgJS1XSyj+uEM16n1Jn1edIJUdX7fvKGMhbAx+Ov2GG0qi1JBqOpS0RUcs/lr7ukhLbtISuPKgFSm3l/jsAY95vU00vYZUNvcRv6MdCXsXntAAcOxIW4=;HPk2Bxh2cX4/7G/L8Nfb0g=="
 ---
 
