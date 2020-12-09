@@ -3,8 +3,8 @@ category: news
 title: "Peloton Well Focused Data Management Solutions, powered by Microsoft Azure, leads digital transformation in the energy industry"
 excerpt: "Peloton, the global leader in Well Lifecycle Data Management software solutions for the energy industry, is excited to announce that the Peloton Platform has been recognized as a Microsoft preferred solution for managing Well,"
 publishedDateTime: 2020-12-08T15:37:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/peloton-well-focused-data-management-solutions-powered-by-microsoft-azure-leads-digital-transformation-in-the-energy-industry-1029873993"
-webUrl: "https://markets.businessinsider.com/news/stocks/peloton-well-focused-data-management-solutions-powered-by-microsoft-azure-leads-digital-transformation-in-the-energy-industry-1029873993"
+originalUrl: "https://markets.businessinsider.com/news/stocks/peloton-well-focused-data-management-solutions-powered-by-microsoft-azure-leads-digital-transformation-in-the-energy-industry-1029874010"
+webUrl: "https://markets.businessinsider.com/news/stocks/peloton-well-focused-data-management-solutions-powered-by-microsoft-azure-leads-digital-transformation-in-the-energy-industry-1029874010"
 type: article
 quality: 29
 heat: -1
@@ -271,6 +271,6 @@ related:
       domain: channele2e.com
     quality: 17
 
-secured: "J4YB6sg6A0KAVTPvUDXcalwvGMPtuY6FxMXwIAQldyBCtUa3bYJ8hFyVIWITRtZkYWrTk8RFUQqXfjGcwG86lB5OdZHUBg67z7r90mbdsSpv5vdD1jcYsod02+hfGxab8gzz2CFOixciturNC7W1gcNc91ITdSL7Ql90kx0KGTOOfHTSqxUE1v0MnQ2BzDVGMymyh2RBqBWRV9/3yhiYt37CzYMmDwwB3Wi6nfejXp2fhnpXOIyiqihIMkfTWofcq0HNkpIHXn1PRKdQcnU3mcPtn722GYc2Gp/fQEZ6+Fydm22f4foJjgqdwMHUGISkuqQ8ZiPONlLFfLtsKZQvev1b23Q/5xXfenV7MoR/6W0=;76dXTVArH3u5VLL+6S19ig=="
+secured: "DfAZWx/jWYMOFnFqu7kIfHkN3mJuNNsHPuPYZjXHbh2PDqeVwgFfSVchf9QNjzk5Aroht4/T1S7sucTqxGqruz0R1S0k7ESZ4Vw/D+6Y8YJAc/yzY1a+NIYPznD0UvD653AY8SU5RFVeWApYhhTKjQKJCIAO14pL/b3lDVqCi14kNJMJR1en2bLn0s8Ey/oLpwFHNkqId/UB8oQOmoBp0BmU/3FJov5mUzFxgtp2fd0PBreN0xcp2eZnxYNsPI/VBGqeV0ft7fmhL2gnEfp613BIK631TzeGwXaW8q02hioiR1TlkGgDBgMRoj+KR1YtvK1liiICAQWtC/ApCCQ6MWIJ1zNcG5sM0hTrN9NnmBQ=;znTJEDPtNb2d4HfSYOYfHA=="
 ---
 

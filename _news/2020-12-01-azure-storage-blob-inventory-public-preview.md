@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/azure-storage-blob-inven
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-storage-blob-inventory-public-preview/"
 type: article
 quality: 99
-heat: 161
+heat: 162
 published: true
 
 provider:
