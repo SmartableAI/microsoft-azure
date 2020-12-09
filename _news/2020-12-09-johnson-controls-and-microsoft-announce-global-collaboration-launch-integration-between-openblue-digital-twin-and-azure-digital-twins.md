@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Johnson Controls and Microsoft announce global collaboration, launch integration between OpenBlue Digital Twin and Azure Digital Twins"
-excerpt: "As a key partner for Azure Digital Twins, Johnson Control’s OpenBlue Digital Twin is a comprehensive platform that will support the entire ecosystem of building and device management technologies with digital cloud technologies."
+excerpt: "As a key partner for Azure Digital Twins, Johnson Control’s OpenBlue Digital Twin is a comprehensive platform that will support the entire ecosystem of building and device manag"
 publishedDateTime: 2020-12-09T12:47:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-environment-and-nature-sustainable-development-b1131d847e33831f4ed63f46dc68a00b"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-environment-and-nature-sustainable-development-b1131d847e33831f4ed63f46dc68a00b"
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-environment-and-nature-sustainable-development-b1131d847e33831f4ed63f46dc68a00b/gallery/b553c755ea8e1815f5eac6981e171379"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-environment-and-nature-sustainable-development-b1131d847e33831f4ed63f46dc68a00b/gallery/b553c755ea8e1815f5eac6981e171379"
 type: article
 quality: 22
 heat: -1
@@ -107,6 +107,6 @@ related:
         height: 350
         isCached: true
 
-secured: "wZ5JELqArOqGB1RoJL4uer77ZwI4Er+hsZhnlIhyHiYgao1717+K1AMaCWBu4leNv1RvPBvMOh6Y7YqPJ+0f+jzmPVqwBcxmVgV+ERojv0RktPOL0MvWwbfRTTyYh5A+gqdKXI3ONVRIt62mCOPK1/L4w/3+O8UgjIub0maGoGs1QZymGbiGqGTYqC2BLH7kKRV5Up7zh0cZdvXPX4ZWWfFudKlSW7paJ9khZVUVjsYeU/dZQnH1fOEFT0pIoJxJ/Ibw3nP05xcmmr3jEyYtLj7jJWq9Ja4iuRMvzO6Tj/DXeadFc3XUPzmwW10tFarm7gTCnc/x5ynxEfVqJWPn0zlsBeqj/6CUWY4cJ9Yyaxw=;tTIVXkgjozsbIwxTyok6qA=="
+secured: "No2OqvrGdMd7y2Q8/URG50zK61aU4OQlxPII8Se4RU3LOE/BvKqsffklQU8bOt3spqyECdM5qS9+rjA2Bun1iZaU8biFOfY+71HzR9HpE/NssRfrLErCxfNBW0m84hXsWxrLM/WeUYRW9mh4oXmSCvPb5ALUGqAuLyl+TU5Z/jxtlv757fN+PSb8Cq5I6huBInBy+yZwgV8QzsyANNhr7zf890++NXkCAGTXefKZHNmDpmC+UJaguyS4s1wyVvamA4lmuBkVoLhWPhZw5RqvqoCb/bRjlTepGCwnvD9yQKs0Vw+jolw6/upDNfDzsXxywOyDmxZT4TZpybdl1CkNX6Cr+O+2B7DbXi0meSLjCaQ=;JVjdyC985aY+JPRHeaj4FA=="
 ---
 
