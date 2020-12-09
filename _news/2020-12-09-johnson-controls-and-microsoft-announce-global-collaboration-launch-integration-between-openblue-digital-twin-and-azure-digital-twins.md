@@ -1,38 +1,34 @@
 ---
 category: news
 title: "Johnson Controls and Microsoft Announce Global Collaboration, Launch Integration between OpenBlue Digital Twin and Azure Digital Twins"
-excerpt: "Johnson Controls, the global leader for smart and sustainable buildings, and Microsoft Corp. on Tuesday announced a global collaboration to digitally transform how buildings and spaces are conceived,"
-publishedDateTime: 2020-12-08T14:00:00Z
-originalUrl: "https://www.nasdaq.com/press-release/johnson-controls-and-microsoft-announce-global-collaboration-launch-integration"
-webUrl: "https://www.nasdaq.com/press-release/johnson-controls-and-microsoft-announce-global-collaboration-launch-integration"
+excerpt: "Digital twins are playing an increasingly important role in the design and ongoing operation of healthy buildings As a key partner for Azure Digital Twins, Johnson Controls` OpenBlue Digital Twin is a comprehensive platform that will support the entire ecosystem of building and device management technologies with digital cloud technologies."
+publishedDateTime: 2020-12-08T21:08:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/johnson-controls-and-microsoft-announce-global-collaboration-launch-integration-between-openblue-digital-twin-and-azure-digital-twins-1029873561"
+webUrl: "https://markets.businessinsider.com/news/stocks/johnson-controls-and-microsoft-announce-global-collaboration-launch-integration-between-openblue-digital-twin-and-azure-digital-twins-1029873561"
 type: article
-quality: 42
-heat: -1
-published: false
+quality: 62
+heat: 122
+published: true
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
   - Integration
 
+images:
+  - url: "https://mma.prnewswire.com/media/73855/johnson_controls_logo.jpg"
+    width: 400
+    height: 221
+    isCached: true
+
 related:
-  - title: "Johnson Controls and Microsoft Announce Global Collaboration, Launch Integration between OpenBlue Digital Twin and Azure Digital Twins"
-    excerpt: "Digital twins are playing an increasingly important role in the design and ongoing operation of healthy buildings As a key partner for Azure Digital Twins, Johnson Controls` OpenBlue Digital Twin is a comprehensive platform that will support the entire ecosystem of building and device management technologies with digital cloud technologies."
-    publishedDateTime: 2020-12-08T21:08:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/johnson-controls-and-microsoft-announce-global-collaboration-launch-integration-between-openblue-digital-twin-and-azure-digital-twins-1029873561"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 62
-    images:
-      - url: "https://mma.prnewswire.com/media/73855/johnson_controls_logo.jpg"
-        width: 400
-        height: 221
-        isCached: true
   - title: "AirHop Communications brings real-time 5G network intelligence solution to Microsoft Azure 4G/5G"
     excerpt: "AirHop Communications, a leader in 4G and 5G Network Intelligence software platforms and solutions, today announced the integration of its solutions with Microsoft Azure platforms. The integration of AirHop’s eSON platform enables network deployments with Microsoft Azure platforms (cloud,"
     publishedDateTime: 2020-12-07T09:18:00Z
@@ -49,6 +45,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Johnson Controls and Microsoft Announce Global Collaboration, Launch Integration between OpenBlue Digital Twin and Azure Digital Twins"
+    excerpt: "Johnson Controls, the global leader for smart and sustainable buildings, and Microsoft Corp. on Tuesday announced a global collaboration to digitally transform how buildings and spaces are conceived,"
+    publishedDateTime: 2020-12-08T14:00:00Z
+    webUrl: "https://www.nasdaq.com/press-release/johnson-controls-and-microsoft-announce-global-collaboration-launch-integration"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 42
   - title: "AirHop Communications Brings Real-Time 5G Network Intelligence Solution to Microsoft Azure 4G/5G"
     excerpt: "AirHop Communications, a leader in 4G and 5G Network Intelligence software platforms and solutions, today announced the integration of its solutions with Microsoft Azure platforms. The integration of AirHop’s eSON platform enables network deployments with Microsoft Azure platforms (cloud,"
     publishedDateTime: 2020-12-03T19:35:00Z
@@ -64,6 +69,6 @@ related:
         height: 450
         isCached: true
 
-secured: "Qfn18NsV6VORV3EY7ziIMECGzmUMfykZAHUp3fkfaftdva1VIZiyPXU4j1n64aS8ffRR54Db1FNQtQTLphnWUY8d8ZN1S8fsuHn4RURvp9g6tFUTqg6Wz7qUM16reIB9lRv+ksx/36UDYGARv+Q79sdinbHdJF+/vTS4Fr+XABLxQkWIePBKfGgAecwFF5TfCdKU1EB1xrPCr4CPz/6gopinn/XnXjVJJh7GL4ynA9ZrSCevCkuaRyL0ZFKGubbyigmIp7JUy3iOwasXYlB47eQrvD6aSxt/t6PGFqESaXIw2GaFU+8o2wAhWjCynsp68xGKGQW3yJz3sBWeZdauCQKpwrcDbhsFBiRBZt9Wd2o=;f7SNcmnaAEW6+MQTyeM8Bw=="
+secured: "J/fUtUOp2H2BBpr+zBrvArQCH/wl1uJ7IwRjcxEcgoy1VhqVPm84VooxI6IYo8dddAqidO3jIAUqHRnCqHmWlfO+dhVDEP6IVkfko6zr7LcIxyN+nE6Emep/d98YEnkrMwqScRdbQDcFVWAMdVBwVsAPqEN5bSLJvNgxp6O4LuiWmQ4/1mbl96Be7+Hfn8WsqbM3q/f1K1ov4jGVcOMt9X87pbDLQR6yUvXaXooaWHrO3hgk5JRXku1eUdF7V2k/I3P/dSem+hhNTFgWDHnau6EaZDJzotTE52Gfe6bycuLLEEp2vufRteWSl8tpA/1O017i+oVPpPrwLpgCergffuIDtqjRMVAfDo5SAEpSu6Y=;snLWxA2Dj/qc4yyiypXy8Q=="
 ---
 

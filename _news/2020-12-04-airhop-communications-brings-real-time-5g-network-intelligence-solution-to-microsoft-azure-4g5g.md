@@ -24,6 +24,20 @@ images:
     isCached: true
 
 related:
+  - title: "Johnson Controls and Microsoft Announce Global Collaboration, Launch Integration between OpenBlue Digital Twin and Azure Digital Twins"
+    excerpt: "Digital twins are playing an increasingly important role in the design and ongoing operation of healthy buildings As a key partner for Azure Digital Twins, Johnson Controls` OpenBlue Digital Twin is a comprehensive platform that will support the entire ecosystem of building and device management technologies with digital cloud technologies."
+    publishedDateTime: 2020-12-08T21:08:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/johnson-controls-and-microsoft-announce-global-collaboration-launch-integration-between-openblue-digital-twin-and-azure-digital-twins-1029873561"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 62
+    images:
+      - url: "https://mma.prnewswire.com/media/73855/johnson_controls_logo.jpg"
+        width: 400
+        height: 221
+        isCached: true
   - title: "AirHop Communications brings real-time 5G network intelligence solution to Microsoft Azure 4G/5G"
     excerpt: "AirHop Communications, a leader in 4G and 5G Network Intelligence software platforms and solutions, today announced the integration of its solutions with Microsoft Azure platforms. The integration of AirHop’s eSON platform enables network deployments with Microsoft Azure platforms (cloud,"
     publishedDateTime: 2020-12-07T09:18:00Z
@@ -49,48 +63,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 42
-  - title: "AirHop joins Azure 4G/5G ecosystem"
-    excerpt: "AirHop Communications announced the integration of its solutions with Microsoft Azure platforms to accelerate 4G and 5G deployments."
-    publishedDateTime: 2020-12-07T01:33:00Z
-    webUrl: "https://www.helpnetsecurity.com/2020/12/07/airhop-communications-microsoft-azure/"
-    type: article
-    provider:
-      name: Help Net Security
-      domain: helpnetsecurity.com
-    quality: 37
-    images:
-      - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/11/02114007/help_net_security.jpg"
-        width: 1200
-        height: 627
-        isCached: true
-  - title: "Telecom Provider Migrates Confidently to Microsoft Azure with Fortinet’s Dynamic Cloud Security Solutions"
-    excerpt: "For telecommunications providers, it is critical to remain agile and keep pace with the evolving requirements of their customers while also ensuring security and business continuity."
-    publishedDateTime: 2020-12-07T14:54:00Z
-    webUrl: "https://www.csoonline.com/article/3600428/telecom-provider-migrates-confidently-to-microsoft-azure-with-fortinet-s-dynamic-cloud-security-sol.html"
-    type: article
-    provider:
-      name: CSOonline
-      domain: csoonline.com
-    quality: 37
-    images:
-      - url: "https://images.idgesg.net/images/article/2020/12/digital-cloud-computing-cyber-security-digital-data-network-future-picture-id1216520824-100869764-large.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Beabloo Promotes Interaction Care: the Solution that Reduces the Risk of COVID-19 Infection, via the Microsoft Azure Cloud"
-    excerpt: "Beabloo Promotes Interaction Care: the Solution that Reduces the Risk of COVID-19 Infection, via the Microsoft Azure Cloud By 1 - The retail tech companys solution uses real-time alerts to avoid high-risk interactions and boost security in public"
-    publishedDateTime: 2020-12-03T07:48:00Z
-    webUrl: "https://www.cioreview.com/news/beabloo-promotes-interaction-care-the-solution-that-reduces-the-risk-of-covid19-infection-via-the-microsoft-azure-cloud-pnid-423-cid-15.html"
-    type: article
-    provider:
-      name: CIOReview
-      domain: cioreview.com
-    quality: 11
-    images:
-      - url: "https://www.cioreview.com/news_new/sliderimage/z4fcv.30035015151.jpg"
-        width: 300
-        height: 350
-        isCached: true
 
 secured: "S3MkQF4dazWYTY4AjANLT6LNlFQi9a5TgUkG0akjuKWLjTTlgHMrlHImCPJgQGfE7hxWVn7WVDuIlKkuwwQdF3sdpiOI3nSLQPFHS1UfDgHC8qPcVTO9TQW7wlhqZpgPSSYA4lvaa3ssx64nr/c+WBGjZoPbKqr9/r/zac+EGiHFq3DEBnWMH94YHXmLE/jpI/jl9AOgzW/HAJafZ7b0+twvIvbx05zUtkKGcFmqyaGi7Y9eahUu21bMJlFQCwNqvOgWUK7xU1t21Iikn7FGJzoKaX3I9Th9Oz9ynXYYc9QFWnqhOJnHvjVnYGqnTGJdj5SI4EXa2msut+6MxozdoaYC024ihQYDwxY2g6TuEqg=;bCptJBdFMTMXvHkkm1OUYw=="
 ---
