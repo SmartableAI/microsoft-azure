@@ -54,6 +54,15 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Microsoft introduces steps to improve internet routing security"
+    excerpt: "The internet runs on the Border Gateway Protocol (BGP). A network or autonomous system (AS) is bound to trust, accept, and propagate the routes advertised by its peers without questioning its provenance. "
+    publishedDateTime: 2020-12-09T08:00:13Z
+    webUrl: "https://azure.microsoft.com/blog/microsoft-introduces-steps-to-improve-internet-routing-security/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 71
   - title: "Nadella takes a dig at Amazon as Microsoft unveils Azure Purview"
     excerpt: "Taking an apparent dig at Amazon and its Cloud arm AWS, Microsoft CEO Satya Nadella has said that it is important to not only trust a vendors technology capabilities but also its ‘business model alignment with its customers."
     publishedDateTime: 2020-12-04T08:41:00Z
@@ -209,6 +218,20 @@ related:
       - url: "https://www.crn.com/resources/0264-1108feaab360-3f03b36b0abc-1000/pentagon-front.jpg"
         width: 610
         height: 457
+        isCached: true
+  - title: "Microsoft Launches New Data Governance Service Azure Purview in Public Preview"
+    excerpt: "Microsoft announced a new data governance solution in public preview on its cloud platform called Azure Purview. This new service automates the discovery of data and cataloging while minimizing compliance risk and helps customers map all their data,"
+    publishedDateTime: 2020-12-09T15:12:00Z
+    webUrl: "https://www.infoq.com/news/2020/12/microsoft-azure-purview-preview/"
+    type: article
+    provider:
+      name: InfoQ
+      domain: infoq.com
+    quality: 33
+    images:
+      - url: "https://res.infoq.com/news/2020/12/microsoft-azure-purview-preview/en/headerimage/croppted-ms-azutre-purview-1607335922430.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Exoprise Office 365 Monitoring App Now Available in the Microsoft Azure Marketplace"
     excerpt: "PRNewswire/ -- Exoprise, a leading provider of software-as-a-service (SaaS) and Office 365 monitoring, today announced the availability of its"

@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Mavenir’s RCS Business Messaging Solution Available in Microsoft Azure"
-excerpt: "today announced that its RCS Business Messaging Solution is available to deploy globally from Microsoft Azure. The current Covid-19 pandemic has forced businesses to accelerate their digital ..."
-publishedDateTime: 2020-12-01T14:46:00Z
-originalUrl: "https://www.oaoa.com/news/business/mavenir-s-rcs-business-messaging-solution-available-in-microsoft-azure/article_47a91ccf-1c8b-5efc-9ee8-accdd09b80b9.html"
-webUrl: "https://www.oaoa.com/news/business/mavenir-s-rcs-business-messaging-solution-available-in-microsoft-azure/article_47a91ccf-1c8b-5efc-9ee8-accdd09b80b9.html"
+title: "Microsoft introduces steps to improve internet routing security"
+excerpt: "The internet runs on the Border Gateway Protocol (BGP). A network or autonomous system (AS) is bound to trust, accept, and propagate the routes advertised by its peers without questioning its provenance. "
+publishedDateTime: 2020-12-09T08:00:13Z
+originalUrl: "https://azure.microsoft.com/blog/microsoft-introduces-steps-to-improve-internet-routing-security/"
+webUrl: "https://azure.microsoft.com/blog/microsoft-introduces-steps-to-improve-internet-routing-security/"
 type: article
-quality: 37
+quality: 71
 heat: -1
 published: false
 
 provider:
-  name: Odessa American
-  domain: oaoa.com
+  name: Microsoft
+  domain: microsoft.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
-
-images:
-  - url: "https://www.valleymorningstar.com/wp-content/uploads/sites/63/2020/07/GET-IT-NOW-BUTTON.png"
-    width: 576
-    height: 288
-    isCached: true
+  - Security
+  - Networking
 
 related:
   - title: "Microsoft just stress-tested its most powerful Azure node in a pretty fun way"
@@ -54,15 +54,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Microsoft introduces steps to improve internet routing security"
-    excerpt: "The internet runs on the Border Gateway Protocol (BGP). A network or autonomous system (AS) is bound to trust, accept, and propagate the routes advertised by its peers without questioning its provenance. "
-    publishedDateTime: 2020-12-09T08:00:13Z
-    webUrl: "https://azure.microsoft.com/blog/microsoft-introduces-steps-to-improve-internet-routing-security/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 71
   - title: "Nadella takes a dig at Amazon as Microsoft unveils Azure Purview"
     excerpt: "Taking an apparent dig at Amazon and its Cloud arm AWS, Microsoft CEO Satya Nadella has said that it is important to not only trust a vendors technology capabilities but also its ‘business model alignment with its customers."
     publishedDateTime: 2020-12-04T08:41:00Z
@@ -134,6 +125,20 @@ related:
       - url: "https://i.insider.com/5fcabc41037cbd00186140ed?width=700"
         width: 700
         height: 525
+        isCached: true
+  - title: "Mavenir’s RCS Business Messaging Solution Available in Microsoft Azure"
+    excerpt: "today announced that its RCS Business Messaging Solution is available to deploy globally from Microsoft Azure. The current Covid-19 pandemic has forced businesses to accelerate their digital ..."
+    publishedDateTime: 2020-12-01T14:46:00Z
+    webUrl: "https://www.oaoa.com/news/business/mavenir-s-rcs-business-messaging-solution-available-in-microsoft-azure/article_47a91ccf-1c8b-5efc-9ee8-accdd09b80b9.html"
+    type: article
+    provider:
+      name: Odessa American
+      domain: oaoa.com
+    quality: 37
+    images:
+      - url: "https://www.valleymorningstar.com/wp-content/uploads/sites/63/2020/07/GET-IT-NOW-BUTTON.png"
+        width: 576
+        height: 288
         isCached: true
   - title: "Microsoft Azure Service Fabric 7.2 Fourth Refresh Release Notes"
     excerpt: "Service Fabric is a distributed systems platform for packaging, deploying, and managing stateless and stateful distributed applications and containers at large scale. - microsoft/service-fabric"
@@ -291,6 +296,6 @@ related:
       domain: channele2e.com
     quality: 17
 
-secured: "w8Ow1H8ig5jA+ikqzLQE1RyjLwcSczX5QPso1wT9Wbyriecaeeg/QuZFWQp3cChjwaKLQGb+L6zV2H8CC4aqAbsB8i6Lh2j577j6Gq1feCEQVcxZtR7492OBhKlFN2eFv1mUSF0wBvqiwE8lIp9zG/t9qrWTVAdPREC5OCk1c80F2rL1MRtEjtFfInKxP/owpH66yjdlsMnFDLb1Rqw4JMwLmF0mpJZQE5t5a/bcnkwwF1JSC+AZovWz9Lm0xIt+D2Mn8pg8nhCMb+Yo/H/fQKzce0QK0Dmb/GIAWrVoyrFekeHiwQfgjZPPZjGAwt4t9ZKHFGqPmby+N+WTZcZzqc/6QDX3TLr1OM/BdpYUXvE=;tfyqTUdHnVSCrFExQ/XW4g=="
+secured: "SYkOc+gyQZQCWEiW+QZK3vFVYk+3HWrlv9SmrQ7G+mcfRysLx8HCoNLxCryiwfKLrxuGaBqdTJIOZU/A7XnpYT31t2BQsf6QnAHaLJA2Pg8rRldFteHx6doPExu2HYJ5p/6EJnY4dsPMOSnam5pcnQ2C4k2iH63m/9XZYoRkgY4OoC+zsZeyQpTb3ynerQ+3GExfwsFaCsfPbFQcHpXD7nK+7YSqbPHdotX4RHzDuBxpdTD1FqAAr9f1/o/zsuj24s1NmdE78xHVith6nPrKZeoP9BIVDEMnVhG6P9p1LsZuVwyGRtPm3bTBgWuMenQUlzvdqmcIrIm81LTHXhnsVdoZSLN4tcee1Sdpv0kgpd8=;aqS+MQZ9FE4v9tJXPwFt0g=="
 ---
 

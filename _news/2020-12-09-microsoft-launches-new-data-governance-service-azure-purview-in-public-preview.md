@@ -1,26 +1,26 @@
 ---
 category: news
-title: "Mavenir’s RCS Business Messaging Solution Available in Microsoft Azure"
-excerpt: "today announced that its RCS Business Messaging Solution is available to deploy globally from Microsoft Azure. The current Covid-19 pandemic has forced businesses to accelerate their digital ..."
-publishedDateTime: 2020-12-01T14:46:00Z
-originalUrl: "https://www.oaoa.com/news/business/mavenir-s-rcs-business-messaging-solution-available-in-microsoft-azure/article_47a91ccf-1c8b-5efc-9ee8-accdd09b80b9.html"
-webUrl: "https://www.oaoa.com/news/business/mavenir-s-rcs-business-messaging-solution-available-in-microsoft-azure/article_47a91ccf-1c8b-5efc-9ee8-accdd09b80b9.html"
+title: "Microsoft Launches New Data Governance Service Azure Purview in Public Preview"
+excerpt: "Microsoft announced a new data governance solution in public preview on its cloud platform called Azure Purview. This new service automates the discovery of data and cataloging while minimizing compliance risk and helps customers map all their data,"
+publishedDateTime: 2020-12-09T15:12:00Z
+originalUrl: "https://www.infoq.com/news/2020/12/microsoft-azure-purview-preview/"
+webUrl: "https://www.infoq.com/news/2020/12/microsoft-azure-purview-preview/"
 type: article
-quality: 37
+quality: 33
 heat: -1
 published: false
 
 provider:
-  name: Odessa American
-  domain: oaoa.com
+  name: InfoQ
+  domain: infoq.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://www.valleymorningstar.com/wp-content/uploads/sites/63/2020/07/GET-IT-NOW-BUTTON.png"
-    width: 576
-    height: 288
+  - url: "https://res.infoq.com/news/2020/12/microsoft-azure-purview-preview/en/headerimage/croppted-ms-azutre-purview-1607335922430.jpg"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -135,6 +135,20 @@ related:
         width: 700
         height: 525
         isCached: true
+  - title: "Mavenir’s RCS Business Messaging Solution Available in Microsoft Azure"
+    excerpt: "today announced that its RCS Business Messaging Solution is available to deploy globally from Microsoft Azure. The current Covid-19 pandemic has forced businesses to accelerate their digital ..."
+    publishedDateTime: 2020-12-01T14:46:00Z
+    webUrl: "https://www.oaoa.com/news/business/mavenir-s-rcs-business-messaging-solution-available-in-microsoft-azure/article_47a91ccf-1c8b-5efc-9ee8-accdd09b80b9.html"
+    type: article
+    provider:
+      name: Odessa American
+      domain: oaoa.com
+    quality: 37
+    images:
+      - url: "https://www.valleymorningstar.com/wp-content/uploads/sites/63/2020/07/GET-IT-NOW-BUTTON.png"
+        width: 576
+        height: 288
+        isCached: true
   - title: "Microsoft Azure Service Fabric 7.2 Fourth Refresh Release Notes"
     excerpt: "Service Fabric is a distributed systems platform for packaging, deploying, and managing stateless and stateful distributed applications and containers at large scale. - microsoft/service-fabric"
     publishedDateTime: 2020-12-03T09:25:20Z
@@ -204,20 +218,6 @@ related:
       - url: "https://www.crn.com/resources/0264-1108feaab360-3f03b36b0abc-1000/pentagon-front.jpg"
         width: 610
         height: 457
-        isCached: true
-  - title: "Microsoft Launches New Data Governance Service Azure Purview in Public Preview"
-    excerpt: "Microsoft announced a new data governance solution in public preview on its cloud platform called Azure Purview. This new service automates the discovery of data and cataloging while minimizing compliance risk and helps customers map all their data,"
-    publishedDateTime: 2020-12-09T15:12:00Z
-    webUrl: "https://www.infoq.com/news/2020/12/microsoft-azure-purview-preview/"
-    type: article
-    provider:
-      name: InfoQ
-      domain: infoq.com
-    quality: 33
-    images:
-      - url: "https://res.infoq.com/news/2020/12/microsoft-azure-purview-preview/en/headerimage/croppted-ms-azutre-purview-1607335922430.jpg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Exoprise Office 365 Monitoring App Now Available in the Microsoft Azure Marketplace"
     excerpt: "PRNewswire/ -- Exoprise, a leading provider of software-as-a-service (SaaS) and Office 365 monitoring, today announced the availability of its"
@@ -291,6 +291,6 @@ related:
       domain: channele2e.com
     quality: 17
 
-secured: "w8Ow1H8ig5jA+ikqzLQE1RyjLwcSczX5QPso1wT9Wbyriecaeeg/QuZFWQp3cChjwaKLQGb+L6zV2H8CC4aqAbsB8i6Lh2j577j6Gq1feCEQVcxZtR7492OBhKlFN2eFv1mUSF0wBvqiwE8lIp9zG/t9qrWTVAdPREC5OCk1c80F2rL1MRtEjtFfInKxP/owpH66yjdlsMnFDLb1Rqw4JMwLmF0mpJZQE5t5a/bcnkwwF1JSC+AZovWz9Lm0xIt+D2Mn8pg8nhCMb+Yo/H/fQKzce0QK0Dmb/GIAWrVoyrFekeHiwQfgjZPPZjGAwt4t9ZKHFGqPmby+N+WTZcZzqc/6QDX3TLr1OM/BdpYUXvE=;tfyqTUdHnVSCrFExQ/XW4g=="
+secured: "2tf7nhvJLaNCJQef+1pWrSfihluugA4dHzLjZADpcUBe+IAas4eRqd+5Jm5uIq4VZLdNadoRO0Ny+KpshvnoDZqH2Q+CBpfawM+zLxqGtQL8KxgDbPpwhelxryrlffo4aTJxNbv/puQGPVxXmpsuCoQpkH7l/OPlW/H+GolplsXH56XfJ6AIYwe+JWi6HuJH8JWJvMuPojV4XFD67q3oPBDeI2If4XDOCFt9QPBbkXgtZC3Z9hsU0WiE8mProRhMi7pEWigcD20RnbEkZaE/EVN5NxnOdBCRzA96PpuLPy3e5mo+4DW6SYvwjNDdDjd7I9jVVE19NvLcWGMqI8nhBFhoICLdCLy2pfjvivgnQeM=;aXjaISo6jYqJoQiFqvxOKQ=="
 ---
 

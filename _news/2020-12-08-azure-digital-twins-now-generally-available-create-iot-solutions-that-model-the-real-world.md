@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/azure-digital-twins-now-generally
 webUrl: "https://azure.microsoft.com/blog/azure-digital-twins-now-generally-available-create-iot-solutions-that-model-the-real-world/"
 type: article
 quality: 94
-heat: 94
+heat: 114
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     width: 1024
     height: 576
     isCached: true
+
+related:
+  - title: "Microsoft (MSFT) Makes Azure Digital Twins Generally Available"
+    excerpt: "Azure Digital Twins modeling platform is in general release and is being integrated with an offering from Johnson Controls (JCI)."
+    publishedDateTime: 2020-12-09T16:02:00Z
+    webUrl: "https://www.investopedia.com/microsoft-makes-azure-digital-twins-generally-available-5090654"
+    type: article
+    provider:
+      name: Investopedia
+      domain: investopedia.com
+    quality: 37
+    images:
+      - url: "https://www.investopedia.com/thmb/gCCXHPyDiwd9l0cbPqW68Iyk2Vo=/6000x4001/filters:fill(auto,1)/hand-holding-tablet-with-wifi-icon-on-city-and-network-connection-concept--bangkok-smart-city-and-wireless-communication-network--abstract-image-visual--internet-of-things--627698790-593f28255f9b58d58add7427.jpg"
+        width: 6000
+        height: 4001
+        isCached: true
 
 secured: "C7zzPqCopTs29jyOTSBeNrlIw2ys7HxyIOOwkH2DbZTwr+LmeQTRozuE0r1SZ9Nimdft9nzoJ6EUIw/F/lWOv7YYTHIhZuja5FXfc98H/e+FKVk6lh0hxIXw/Wayrcom0saDGeaeoKG4vJyE+R70t8A3O0KK0Gb125kGfeHPnMefVqOAsTu85URkONk6q/TS8aew2XJ900/wEfWfCclFE+XsoGI1Hgnv4yQHKdjEFfVTJXGlKoes28955Rxchq3hbBcoY1gIS5P+3orfPjaICn+qx+L8d4HElHgIRbDHMEko/j5Qm3xqK/OmMEj1/GpbEnQl0B/fwy6nFVzKpcwJ4nAXu6lDOkg8TWS87OgpHj4=;U2B4WB7ZNLCBjPtGSNba4w=="
 ---
