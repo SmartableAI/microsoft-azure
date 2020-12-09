@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/azure-synapse-link-now-s
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-synapse-link-now-supports-azure-cosmos-db-api-for-mongo-db-preview/"
 type: article
 quality: 99
-heat: 119
+heat: 139
 published: true
 
 provider:
@@ -33,6 +33,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 84
+  - title: "Apache Spark for Azure Synapse In-cluster Caching and Shuffle Service (Preview)"
+    excerpt: "Optimize performance on caching and shuffle with new services from Apache Spark for Azure Synapse"
+    publishedDateTime: 2020-09-22T16:03:33Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/apache-spark-for-azure-synapse-incluster-caching-and-shuffle-service-preview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 80
 
 secured: "dzjdeUH1CSxS3he/XCZmMOOfSXetwF6pEX0udj+LvSmFELzK8uFBhQyBmeI0PdCxep+3I0DfrLxuKZqNyjtFmanCqTFQA9yfpWG6jcSWy1rlnTHeu1uSmA30p+oGWEgxmkPK+MinNzn053zR6wr+dJ8NDX09mGypM/YdG6mKwvea5TEbbU4q16n1nbkhS8Tx1xa7QzBngdrkcnzlS0k1PeN6BiZPQdC3/QhfPVhyWUyagqO1rxAAdXpAGthV+gnd/8f1Jrp4hJnu1Zt4oc3FMR2lcT7D2rvzae2bkX8K/BYp5rXZ4CaY45F/rxxUgylS04sLC08KKsINvMaCkwOEdnmUERvItHeIbsLyBaSqjKQ=;oiFk4PBvmrRWAQvjCS5lpg=="
 ---

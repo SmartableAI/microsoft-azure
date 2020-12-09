@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/monitoring-azure-arc-enabled-kube
 webUrl: "https://azure.microsoft.com/blog/monitoring-azure-arc-enabled-kubernetes-and-servers/"
 type: article
 quality: 106
-heat: 266
+heat: 286
 published: true
 
 provider:
@@ -52,6 +52,15 @@ related:
     excerpt: "AKS updates in general availability include ephemeral OS disk support, AKS containerd support, maxSurge support, Kubernetes 1.19 support, and more."
     publishedDateTime: 2020-11-17T17:00:20Z
     webUrl: "https://azure.microsoft.com/en-us/updates/aks-updates-for-november-2020/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
+  - title: "Azure Stack Edge Kubernetes system is now available"
+    excerpt: "Azure Stack Edge includes a managed Kubernetes environment so you can deploy your containerized apps to the edge with the click of a button."
+    publishedDateTime: 2020-12-09T17:00:14Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-stack-edge-kubernetes-system/"
     type: article
     provider:
       name: Microsoft

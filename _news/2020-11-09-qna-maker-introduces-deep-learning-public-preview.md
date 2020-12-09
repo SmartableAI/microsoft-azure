@@ -31,15 +31,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 64
-  - title: "Selective disks backup for Azure Virtual Machine is in public preview"
-    excerpt: "Optimize your costs and enjoy faster backup and restore operations by selectively backing up a subset of the data disks in a VM."
-    publishedDateTime: 2020-08-06T18:00:12Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/selective-disks-backup-for-azure-virtual-machine-is-in-public-preview/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 17
 
 secured: "zOnrrdxZ1Fh6ttcJiITl/4E8XccTuxXiJbxxhG7p1O8x4WrQVDPW2wrW4qBQbFi/diypmlyKB6/CTBBG4ZSy62T66upqnaldn0h9u5qnR6N3sdvUBDsXvOszORor5YXv9lD10P+KnGfjcPITvtvzWwrF//jySoFxJnwaoWN1quhnik6pxX0wz9rSYrTkU0KlJcK3ZFWmiHjTIEMXFGIR6Rg8cUdsqUUNV3soVNQB7GDsbdAEGrZ/Pux+giyTpCSNyKDs6xlX+ycRaAseGp9QSuZqNK1EpcKbNmRNRisxn3jlH6wcVI42zHnQL+i0rKFocUpMGGDB/NTzJMpn7e9xOqqIfkEw28m74AG6Lj4uKIw=;iOciD5JcsykOk2FIB5EoLg=="
 ---

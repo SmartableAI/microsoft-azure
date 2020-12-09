@@ -21,6 +21,33 @@ topics:
   - Azure
 
 related:
+  - title: "Machine Learning on Azure SQL Managed Instance now available"
+    excerpt: "Use machine learning capabilities on a Managed Instance of Azure SQL Database for ease of moving your data, packages, and models to a cloud ready environment fully configured for machine learning."
+    publishedDateTime: 2020-12-09T17:00:15Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/machine-learning-on-azure-sql-managed-instance-now-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 116
+  - title: "Azure Data Share snapshot sharing for SQL Database and Synapse generally available"
+    excerpt: "You can now share structured data stored in relational databases and data warehouse easily and securely between internal departments, with external partners, vendors or customers for collaboration."
+    publishedDateTime: 2020-12-09T17:00:19Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-data-share-snapshot-sharing-for-azure-sql-database-and-azure-synapse-analytics/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 110
+  - title: "Private link for Azure SQL Data Sync on Azure SQL Database now in public preview"
+    excerpt: "Private link enables SQL Data Sync users to choose a service managed private endpoint for the sync service to securely connect to member and hub databases during data synchronization."
+    publishedDateTime: 2020-12-09T17:00:17Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/private-link-for-sql-data-sync-on-azure-sql-database-now-in-preview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 109
   - title: "Machine Learning on Azure SQL Managed Instance in preview"
     excerpt: "Machine Learning Services with support for R and Python languages now include preview support on Azure SQL Managed Instance. "
     publishedDateTime: 2020-09-22T16:03:59Z
@@ -30,15 +57,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 101
-  - title: "Azure Database for MySQL Flexible Server in preview"
-    excerpt: "Azure Database for MySQL Flexible Server is a new deployment option for Azure Database for MySQL that provides better control and flexibility of database server parameters, more options for high availability, and cost optimization controls."
-    publishedDateTime: 2020-09-22T16:00:00Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-database-for-mysql-flexible-server-in-preview/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 99
   - title: "Global virtual network peering support for Azure SQL Managed Instance now available"
     excerpt: "Utilize global virtual network peering for your managed instances to save time through easy network configuration and by offloading your gateways from database replication traffic. "
     publishedDateTime: 2020-09-22T16:04:28Z
@@ -57,33 +75,33 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 84
-  - title: "Major performance improvements for Azure SQL Managed Instances"
-    excerpt: "Enhanced log write throughput and superior data/log IOPS make Azure SQL Managed Instances even more appealing for migration."
-    publishedDateTime: 2020-09-22T16:04:15Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/major-performance-improvements-for-azure-sql-managed-instances/"
+  - title: "SCOM management pack for Azure SQL Managed Instance is now available"
+    excerpt: ""
+    publishedDateTime: 2020-05-08T16:00:09Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-of-scom-management-pack-for-sql-managed-instance-is-now-available/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 84
-  - title: "Apache Spark for Azure Synapse In-cluster Caching and Shuffle Service (Preview)"
-    excerpt: "Optimize performance on caching and shuffle with new services from Apache Spark for Azure Synapse"
-    publishedDateTime: 2020-09-22T16:03:33Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/apache-spark-for-azure-synapse-incluster-caching-and-shuffle-service-preview/"
+    quality: 17
+  - title: "Azure SQL Managed Instance management pack is now generally available"
+    excerpt: "System Center Operations Manager (SCOM) management pack for Azure SQL Managed Instance is now generally available."
+    publishedDateTime: 2020-07-15T23:00:30Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-sql-managed-instance-management-pack-is-now-generally-available/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 80
-  - title: "Public preview: Azure Arc enabled SQL Server"
-    excerpt: "Public preview of Azure Arc enabled SQL Server extends power of Azure to SQL servers hosted on-premises or in other public clouds."
-    publishedDateTime: 2020-09-22T16:05:25Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-azure-arc-enabled-sql-server/"
+    quality: 17
+  - title: "Machine Learning services on Azure SQL Managed Instance is in limited preview"
+    excerpt: "Machine Learning Services, a feature of Azure SQL Managed Instance, provides in-database support for R and Python scripts (in limited preview)."
+    publishedDateTime: 2020-07-21T21:19:04Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/machine-learning-services-on-azure-sql-managed-instance-is-in-limited-preview/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 67
+    quality: 14
 
 secured: "noMrFJbk/vT3ro3i5RZ5yS6MUXnzSlrmsDt/lIytVZZdAeeu1Qo2MpuR/V5A2BiYROnFDKCns5fON1ys7lOYyetMG+lFayJBgD9lYGCUze0Y5cpfEXPfI2huCNxC1uU4oGqwVRmsMBycy+dz+M5OPaqJFaMPZIAvt7ebg9wS1O42foiSKfDv5muI1cm2fcgcg7MZaEi0efs5FIs4Xwj51XV4399yPcmmAH1KFXaLKD1wQa+ocDHT2q77GIGhCEk/gwi5LVJcHMqGCh7ToSh7oJoXMSXv/02ar4FAXkWvRdOwbwluY2McYttbegdR0p3eJNaLB+G/gMGa42a9bbVZ8A==;1CSh5UJ0gkz90o01HUX9pA=="
 ---

@@ -70,6 +70,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 84
+  - title: "Azure Stack Edge Kubernetes system is now available"
+    excerpt: "Azure Stack Edge includes a managed Kubernetes environment so you can deploy your containerized apps to the edge with the click of a button."
+    publishedDateTime: 2020-12-09T17:00:14Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-stack-edge-kubernetes-system/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
   - title: "Azure Arc enabled Kubernetes preview and new ecosystem partners"
     excerpt: "In November 2019, we announced the preview of Azure Arc, a set of technologies that unlocks new hybrid scenarios for customers by bringing Azure services and management to any infrastructure across datacenters, edge, and multi-cloud. Based on the feedback and excitement of all the customers in the private"
     publishedDateTime: 2020-05-20T08:30:28Z

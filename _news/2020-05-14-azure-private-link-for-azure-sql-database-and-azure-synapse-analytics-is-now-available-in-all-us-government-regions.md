@@ -21,19 +21,28 @@ topics:
   - Azure
 
 related:
-  - title: "SCOM management pack for Azure SQL Managed Instance is now available"
+  - title: "Azure Private Link is now available for multiple new Azure services"
     excerpt: ""
-    publishedDateTime: 2020-05-08T16:00:09Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-of-scom-management-pack-for-sql-managed-instance-is-now-available/"
+    publishedDateTime: 2020-05-14T22:00:17Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-private-link-is-now-available-for-multiple-new-azure-services/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
     quality: 17
-  - title: "Azure SQL Managed Instance management pack is now generally available"
-    excerpt: "System Center Operations Manager (SCOM) management pack for Azure SQL Managed Instance is now generally available."
-    publishedDateTime: 2020-07-15T23:00:30Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-sql-managed-instance-management-pack-is-now-generally-available/"
+  - title: "Azure Blob versioning public preview now available"
+    excerpt: ""
+    publishedDateTime: 2020-05-15T18:00:20Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-blob-versioning-public-preview-now-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 17
+  - title: "New Azure IoT Central features are now available"
+    excerpt: ""
+    publishedDateTime: 2020-05-19T16:05:41Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/new-azure-iot-central-features-are-now-available/"
     type: article
     provider:
       name: Microsoft

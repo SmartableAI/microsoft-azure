@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/nfs-30-support-for-azure-blob-sto
 webUrl: "https://azure.microsoft.com/blog/nfs-30-support-for-azure-blob-storage-is-now-in-preview/"
 type: article
 quality: 101
-heat: 321
+heat: 341
 published: true
 
 provider:
@@ -24,6 +24,15 @@ topics:
   - Management tools
 
 related:
+  - title: "Azure resource logs for Azure Storage is now in public preview"
+    excerpt: "With Azure Storage logs and native export options, it’s more convenient to troubleshoot issues on requests to your storage account."
+    publishedDateTime: 2020-12-09T17:00:19Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-resource-logs-for-azure-storage-is-now-in-public-preview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
   - title: "Azure Files support for NFS v4.1 is now in preview"
     excerpt: "Azure Files now adds support for NFS v4.1 file system protocol for an easy migration of your Linux-centric workloads."
     publishedDateTime: 2020-09-16T17:00:28Z

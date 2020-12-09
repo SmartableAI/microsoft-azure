@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/azure-digital-twins-now-generally
 webUrl: "https://azure.microsoft.com/blog/azure-digital-twins-now-generally-available-create-iot-solutions-that-model-the-real-world/"
 type: article
 quality: 94
-heat: 114
+heat: 194
 published: true
 
 provider:
@@ -29,6 +29,42 @@ images:
     isCached: true
 
 related:
+  - title: "Azure Functions custom handlers are now generally available"
+    excerpt: "You can develop Azure Functions using languages and runtimes that do not currently have first-class support."
+    publishedDateTime: 2020-12-09T17:00:14Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-functions-custom-handlers-are-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
+  - title: "Java Azure Functions support on Linux is now generally available "
+    excerpt: "Developers can now build and publish Java Azure Functions Apps on Linux."
+    publishedDateTime: 2020-12-09T16:43:15Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/java-azure-functions-support-on-linux-is-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
+  - title: "Infrastructure Encryption for Azure Monitor dedicated clusters now generally available"
+    excerpt: "Customers using Azure Monitor dedicated cluster get high level of assurance that their data is secure with additional 256-bit AES encryption at the Azure Storage infrastructure level."
+    publishedDateTime: 2020-12-09T17:00:16Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/infrastructure-encryption-for-azure-monitor-dedicated-clusters-now-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 76
+  - title: "Azure Data Factory is now available in five new regions"
+    excerpt: "Azure Data Factory is now available in five new regions: Switzerland North, Japan West, Canada East, Germany West Central, and UK West."
+    publishedDateTime: 2020-12-09T17:52:12Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-data-factory-is-now-available-in-six-new-regions/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
   - title: "Microsoft (MSFT) Makes Azure Digital Twins Generally Available"
     excerpt: "Azure Digital Twins modeling platform is in general release and is being integrated with an offering from Johnson Controls (JCI)."
     publishedDateTime: 2020-12-09T16:02:00Z

@@ -39,24 +39,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 17
-  - title: "Large storage for Azure Database for MariaDB"
-    excerpt: ""
-    publishedDateTime: 2020-06-10T16:00:18Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/large-storage-for-azure-database-for-mariadb/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 17
-  - title: "Large storage for Azure Database for MariaDB"
-    excerpt: "General availability support for up to 16TB of storage and up to 20,000 IOPS in Azure Database for MariaDB enables you to run the most demanding, large scale workloads."
-    publishedDateTime: 2020-08-05T16:00:04Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/large-storage-for-azure-database-for-mariadb-2/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 17
   - title: "Minimal TLS version setting is now available for Azure Database for MariaDB"
     excerpt: ""
     publishedDateTime: 2020-06-04T17:00:49Z
@@ -66,15 +48,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 15
-  - title: "Azure Database for PostgreSQL—Single Server now available in the France South region"
-    excerpt: ""
-    publishedDateTime: 2020-05-27T16:00:09Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-database-for-postgresql-single-server-now-available-in-the-france-south-region/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 10
   - title: "Azure Database for MySQL support for intelligent performance with MySQL 8.0 is now available"
     excerpt: ""
     publishedDateTime: 2020-05-25T17:00:35Z

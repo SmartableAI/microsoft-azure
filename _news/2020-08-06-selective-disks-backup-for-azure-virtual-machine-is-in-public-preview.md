@@ -21,24 +21,24 @@ topics:
   - Azure
 
 related:
-  - title: "Azure Cloud Shell can now run in an isolated virtual network (public preview)"
-    excerpt: "Cloud Shell now supports virtual networks."
-    publishedDateTime: 2020-08-10T17:00:04Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/cloudshell-vnet/"
+  - title: "Azure Stack Edge Virtual Machine Support is in public preview"
+    excerpt: "Azure Stack Edge hosts Azure virtual machines so you can run your VM based IoT, AI, and business applications on an Azure appliance at your location. "
+    publishedDateTime: 2020-12-09T17:00:14Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-stack-edge-virtual-machine-support/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 64
-  - title: "QnA Maker introduces deep learning (Public Preview)"
-    excerpt: "The next version of QnA Maker introduces state-of-art deep learning technologies and advances several core capabilities like better relevance and precise answering."
-    publishedDateTime: 2020-11-09T18:00:10Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/cognitive-services/"
+    quality: 84
+  - title: "App Service Anti-Virus Logs in public preview"
+    excerpt: "Receive improved application monitoring with support for anti-virus scans ."
+    publishedDateTime: 2020-12-09T17:00:20Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/app-service-antivirus-logs-in-public-preview/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 52
+    quality: 69
 
 secured: "HZ97F21NYuC77NQIoHM2nJ+F3ozurrfN+7RDUjJgmsD1aVdJm3HbsL1DS7Ge0b8X4TM+o1QBzgc2S/1LetMpVVcKQLKNq0LPEh24Dsg3IYSQTR0EtfTvhUslGnS3tNbQhxa4kbnPgagu69PJ/Ur78/He/cROcMK5HjHrvA3Xb5jnstern+C5vwFsR0F/Q4rGkYneKzc6GEkvCBtPW0xmCcSsqfISSAK7Cl1v+ZnvXcRjTnq4iiU2ke5r7O4qSEzTLGuVMENLB15jL1KDefU+EhU3y07Ie1e2glusa5ACTlq0lf9iW30+Ut65xl/9YS423BCRJfBP1uIk8fdxXmbgHA==;vRPLvaKFEUlWW1uz+tYSqg=="
 ---

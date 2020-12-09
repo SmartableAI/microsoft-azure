@@ -2,6 +2,316 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2020-04-30-azure-container-registry-mitigating-data-exfiltration-with-dedicated-data-endpoints.md",
+      "title": "Azure Container Registry: Mitigating data exfiltration with dedicated data endpoints",
+      "excerpt": "Azure Container Registry announces dedicated data endpoints, enabling tightly scoped client firewall rules to specific registries, minimizing data exfiltration concerns.\r\n\r\nPulling content from a registry involves two endpoints:\r\n\r\n\r\n\tRegistry endpoint, often referred to as the login URL, used for authentication",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/blog/azure-container-registry-mitigating-data-exfiltration-with-dedicated-data-endpoints/",
+      "originalUrl": "https://azure.microsoft.com/blog/azure-container-registry-mitigating-data-exfiltration-with-dedicated-data-endpoints/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/65527b4a-84d5-4864-92e5-78da3ecba512.png",
+          "width": 640,
+          "height": 214,
+          "title": "Azure Container Registry: Mitigating data exfiltration with dedicated data endpoints",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-30T03:00:07-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure",
+        "Developer tools"
+      ]
+    },
+    {
+      "path": "_news/2020-04-30-cross-region-restore-crr-for-azure-virtual-machines-using-azure-backup.md",
+      "title": "Cross Region Restore (CRR) for Azure Virtual Machines using Azure Backup",
+      "excerpt": "Today we're indroducing the preview of Cross Region Restore (CRR) for Microsoft Azure Virtual Machines (VMs) support using Microsoft Azure Backup.\r\n\r\nAzure Backup uses Recovery Services vault to hold customers' backup data which offers both local and geographic redundancy. To ensure high availability",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/blog/cross-region-restore-crr-for-azure-virtual-machines-using-azure-backup/",
+      "originalUrl": "https://azure.microsoft.com/blog/cross-region-restore-crr-for-azure-virtual-machines-using-azure-backup/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 162,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/b8495529-cdab-454f-ac29-78f63339532e.jpg",
+          "width": 755,
+          "height": 385,
+          "title": "Cross Region Restore (CRR) for Azure Virtual Machines using Azure Backup",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-30T02:00:07-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure",
+        "Storage",
+        "Compute",
+        "Management tools"
+      ]
+    },
+    {
+      "path": "_news/2020-04-30-microsoft-q3-strong-as-remote-work-propels-teams-office-365-azure.md",
+      "title": "Microsoft Q3 strong as remote work propels Teams, Office 365, Azure",
+      "excerpt": "Most every organization has been thrust into the future of work faster than prognosticators dared imagine. What will determine failure or success in this brave new world of work? Read More Microsoft crushed expectations for its third quarter as the company saw strong demand among its cloud services.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/microsoft-q3-strong-as-remote-work-propels-teams-office-365-azure/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 2397,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet3.cbsistatic.com/hub/i/2020/04/29/f325a6df-81d8-47c5-bc6d-961b37642592/msft-q3-2020-commercial-cloud-revenue.png",
+          "width": 1337,
+          "height": 779,
+          "title": "Microsoft Q3 strong as remote work propels Teams, Office 365, Azure",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsoft-q3-strong-as-remote-work-propels-teams-office-365-azure/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-q3-strong-as-remote-work-propels-teams-office-365-azure/",
+      "publishedDateTime": "2020-04-29T17:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
+      "path": "_news/2020-04-29-microsoft-posts-35b-in-revenue-up-15-sees-minimal-net-impact-from-covid-19-in-quarter.md",
+      "title": "Microsoft posts $35B in revenue, up 15%, sees ‘minimal net impact’ from COVID-19 in quarter",
+      "excerpt": "Microsoft reported $35 billion in revenue, an increase of 15% from a year ago, as increased demand for its productivity, gaming and cloud technologies overcame the COVID-19 pandemic’s impact on",
+      "sourceUrl": null,
+      "webUrl": "https://www.geekwire.com/2020/microsoft-posts-35b-revenue-15-sees-minimal-net-impact-covid-19-quarter/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2019/05/20190506_Microsoft_Build_55-630x420.jpg",
+          "width": 630,
+          "height": 420,
+          "title": "Microsoft posts $35B in revenue, up 15%, sees ‘minimal net impact’ from COVID-19 in quarter",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.geekwire.com/2020/microsoft-posts-35b-revenue-15-sees-minimal-net-impact-covid-19-quarter/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/microsoft-posts-35b-revenue-15-sees-minimal-net-impact-covid-19-quarter/amp/",
+      "publishedDateTime": "2020-04-29T13:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
+      "path": "_news/2020-04-29-you-can-save-50-percent-on-star-wars-jedi-fallen-order-and-the-nine-film-collection-in-4k.md",
+      "title": "You can save 50 percent on Star Wars Jedi: Fallen Order and the nine-film collection in 4K",
+      "excerpt": "May 4th is the annual Star Wars -themed holiday, and several sales have already begun to celebrate the franchise. One of the most notable so far is the PC version of Star Wars Jedi: Fallen Order, Respawn’s excellent (and surprisingly challenging) third-person adventure.",
+      "sourceUrl": null,
+      "webUrl": "https://www.theverge.com/good-deals/2020/4/29/21241163/may-4th-star-wars-deals-jedi-fallen-order-the-skywalker-saga-films-4k-sales",
+      "originalUrl": null,
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 132,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/F49y-AS6gRZc9YxX_KMwtPzcfnw=/0x0:3840x2160/1400x933/filters:focal(1090x782:1704x1396):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66726840/JFO_LaunchScreens_Cal_CU_v09.0.png",
+          "width": 1400,
+          "height": 933,
+          "title": "You can save 50 percent on Star Wars Jedi: Fallen Order and the nine-film collection in 4K",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theverge.com/platform/amp/good-deals/2020/4/29/21241163/may-4th-star-wars-deals-jedi-fallen-order-the-skywalker-saga-films-4k-sales",
+      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/good-deals/2020/4/29/21241163/may-4th-star-wars-deals-jedi-fallen-order-the-skywalker-saga-films-4k-sales",
+      "publishedDateTime": "2020-04-29T09:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
+      "path": "_news/2020-04-28-zoom-partners-with-oracle-to-buttress-its-cloud-infrastructure-as-user-base-exceeds-300-million.md",
+      "title": "Zoom partners with Oracle to buttress its cloud infrastructure as user base exceeds 300 million",
+      "excerpt": "Zoom experienced a surge of scale for which it was not prepared, as evidenced by security issues that came with the enormous customer base. This growth also put tremendous pressure on its cloud infrastructure.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/85021-zoom-partners-oracle-buttress-cloud-infrastructure-user-base.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 110,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.techspot.com/images2/news/bigimage/2020/04/2020-04-28-image-32.jpg",
+          "width": 2560,
+          "height": 1708,
+          "title": "Zoom partners with Oracle to buttress its cloud infrastructure as user base exceeds 300 million",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techspot.com/amp/news/85021-zoom-partners-oracle-buttress-cloud-infrastructure-user-base.html",
+      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/85021-zoom-partners-oracle-buttress-cloud-infrastructure-user-base.html",
+      "publishedDateTime": "2020-04-28T15:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
       "path": "_news/2020-04-28-google-cloud-generated-nearly-28-billion-in-revenue-this-quarter-up-52-from-a-year-ago.md",
       "title": "Google Cloud generated nearly $2.8 billion in revenue this quarter, up 52% from a year ago",
       "excerpt": "Google Cloud reported 52% year-over-year revenue growth. Google Cloud CEO Thomas Kurian has previously spoken about plans to triple its salesforce.",
@@ -969,324 +1279,6 @@
       ],
       "topics": [
         "Azure"
-      ]
-    },
-    {
-      "path": "_news/2020-04-16-microsoft-signs-multiyear-deal-with-the-nba-for-azure-and-surface.md",
-      "title": "Microsoft signs multiyear deal with the NBA for Azure and Surface",
-      "excerpt": "Microsoft has signed a multiyear deal with National Basketball Association (NBA) to become the official AI, cloud, and laptop provider for the league. The deal will see the NBA using Microsoft’s Azure platform to broadcast live and on-demand basketball games,",
-      "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/2020/4/16/21223932/microsoft-nba-partnership-deal-azure-surface-details",
-      "originalUrl": null,
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 1117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/mwjfKqcPIwq9DgAixwF1mBWKGvk=/0x0:1777x1168/1400x933/filters:focal(747x442:1031x726):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66663808/microsoftnba.0.jpg",
-          "width": 1400,
-          "height": 933,
-          "title": "Microsoft signs multiyear deal with the NBA for Azure and Surface",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.theverge.com/platform/amp/2020/4/16/21223932/microsoft-nba-partnership-deal-azure-surface-details",
-      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/4/16/21223932/microsoft-nba-partnership-deal-azure-surface-details",
-      "publishedDateTime": "2020-04-16T12:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_news/2020-04-16-dod-clears-microsofts-jedi-contract-award-cant-definitively-determine-that-political-interference-took-place.md",
-      "title": "DoD clears Microsoft's JEDI contract award, can't \"definitively determine\" that political interference took place",
-      "excerpt": "The DoD's Inspector General has cleared Microsoft's $10 billion JEDI contract after no evidence of wrongdoing was found. It also noted that awarding the project to a single company as opposed to dividing it among competitors was in line with \"applicable acquisition standards.\" This comes after Amazon disputed the decision alleging that ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/84853-dod-clears-microsoft-jedi-contract-award-cant-definitively.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techspot.com/images2/news/ts3_thumbs/2020/02/2020-02-13-ts3_thumbs-023.jpg",
-          "width": 800,
-          "height": 560,
-          "title": "DoD clears Microsoft's JEDI contract award, can't \"definitively determine\" that political interference took place",
-          "attribution": null,
-          "isCached": true
-        },
-        {
-          "url": "https://static.techspot.com/images2/news/bigimage/2020/04/2020-04-16-image-15.jpg",
-          "width": 1680,
-          "height": 1121,
-          "title": "DoD clears Microsoft's JEDI contract award, can't \"definitively determine\" that political interference took place",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techspot.com/amp/news/84853-dod-clears-microsoft-jedi-contract-award-cant-definitively.html",
-      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/84853-dod-clears-microsoft-jedi-contract-award-cant-definitively.html",
-      "publishedDateTime": "2020-04-16T11:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_news/2020-04-15-securing-azure-functions-with-api-management-and-identityserver4.md",
-      "title": "Securing Azure Functions with API Management and IdentityServer4.",
-      "excerpt": "There are several Azure App Service platform authentication features like Active Directory, Microsoft ID, Facebook, Google, Twitter. And a Function level authentication provides Anonymous ...",
-      "sourceUrl": null,
-      "webUrl": "https://medium.com/microsoftazure/secure-functions-apim-identityserver4-4b6f62d773b0",
-      "originalUrl": null,
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://miro.medium.com/max/1200/1*IxBnSbM_RxB9Av3TdXB0Mg.png",
-          "width": 1200,
-          "height": 521,
-          "title": "Securing Azure Functions with API Management and IdentityServer4.",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-15T10:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medium",
-        "domain": "medium.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/medium.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_news/2020-04-15-ge-healthcare-and-microsoft-are-bringing-a-covid-19-patient-monitoring-tool-to-health-systems.md",
-      "title": "GE Healthcare and Microsoft are bringing a COVID-19 patient monitoring tool to health systems",
-      "excerpt": "GE Healthcare is extending its longtime collaboration with Microsoft to launch a cloud-based COVID-19 patient monitoring software for health systems. GE Healthcare and Microsoft are waiving everything but the installation costs for the software until January 2021, the companies said. The software is designed to provide a central hub from which ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/04/15/ge-healthcare-and-microsoft-are-bringing-a-covid-19-patient-monitoring-tool-to-health-systems/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/03/GettyImages-74065395.jpeg?w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": "GE Healthcare and Microsoft are bringing a COVID-19 patient monitoring tool to health systems",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/04/15/ge-healthcare-and-microsoft-are-bringing-a-covid-19-patient-monitoring-tool-to-health-systems/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/04/15/ge-healthcare-and-microsoft-are-bringing-a-covid-19-patient-monitoring-tool-to-health-systems/amp/",
-      "publishedDateTime": "2020-04-15T06:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_news/2020-04-15-qore-technologies-free-3months-usage-plan-for-qorus-integration-engine-now-available-in-the-microsoft-azure-marketplace.md",
-      "title": "Qore Technologies' Free 3Months Usage Plan for Qorus Integration Engine Now Available in the Microsoft Azure Marketplace",
-      "excerpt": "Microsoft Azure customers worldwide now gain access to free use of Qorus Integration Engine to mitigate the business implications of COVID-19 PRAGUE, CZECH REPUBLIC, April 15, 2020 /EINPresswire.com/ -- Qore Technologies today announced the availability of a free three-month usage and consultation plan for Qorus Integration Engine in the Microsoft Azure Marketplace,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/qore-technologies-free-3months-usage-plan-for-qorus-integration-engine-now-available-in-the-microsoft-azure-marketplace-2020-04-15",
-      "originalUrl": null,
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Qore Technologies' Free 3Months Usage Plan for Qorus Integration Engine Now Available in the Microsoft Azure Marketplace",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-15T04:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_news/2020-04-13-updates-to-azure-maps-web-sdk-includes-powerful-new-features.md",
-      "title": "Updates to Azure Maps Web SDK includes powerful new features",
-      "excerpt": "Today, we are announcing updates to the Azure Maps Web SDK, which adds support for common spatial file formats, introduces a new data driven template framework for popups, includes several OGC services, and much more.\r\n\r\nSpatial IO module\r\n\r\n \r\n\r\nWith as little as three lines of code this module makes",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/blog/updates-to-azure-maps-web-sdk-includes-powerful-new-features/",
-      "originalUrl": "https://azure.microsoft.com/blog/updates-to-azure-maps-web-sdk-includes-powerful-new-features/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 130,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/ea5e5a7d-10fe-4475-b6dc-c4499235fdcf.png",
-          "width": 979,
-          "height": 602,
-          "title": "Updates to Azure Maps Web SDK includes powerful new features",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-13T03:10:05-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure",
-        "IoT",
-        "Mobile",
-        "Web",
-        "Developer tools"
       ]
     }
   ],

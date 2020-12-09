@@ -55,6 +55,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 84
+  - title: "Azure Stack Edge Kubernetes system is now available"
+    excerpt: "Azure Stack Edge includes a managed Kubernetes environment so you can deploy your containerized apps to the edge with the click of a button."
+    publishedDateTime: 2020-12-09T17:00:14Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-stack-edge-kubernetes-system/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
   - title: "Application Gateway Ingress Controller for Azure Kubernetes Service"
     excerpt: "Today we are excited to offer a new solution to bind Azure Kubernetes Service (AKS) and Application Gateway. The new solution provides an open source Application Gateway Ingress Controller (AGIC) for Kubernetes, which makes it possible for AKS customers to leverage Application Gateway to expose their"
     publishedDateTime: 2019-12-02T10:00:27Z

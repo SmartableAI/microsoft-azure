@@ -85,6 +85,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
+  - title: "Public preview: Azure Arc enabled SQL Server"
+    excerpt: "Public preview of Azure Arc enabled SQL Server extends power of Azure to SQL servers hosted on-premises or in other public clouds."
+    publishedDateTime: 2020-09-22T16:05:25Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-azure-arc-enabled-sql-server/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
 
 secured: "1Q2u49GxlSAzeEWC050NVZeNwcncFGprdetfeIvdKxukE6xOObvS0SxoBpw0YXREbIlS6OdHIgL/CMiaXdg23Nve5ZLu2M1h8eQTMT05tSsN50/+Anhd9LErr7NBcx5Hi0Fy+OZ1oDy2zw6ZzgntF3jjnOuSvK66A4hElzzZ3ltZGBtVXdtrqwkBR9ztEFUirtQlm7WujDhVGlIhXN9Y7WADZmuuxaPQSS2LkvSaliz6J7uAmVaXJFyIz8/uop6L7h4CaKPD2osa7B+4lyC1v3Wovd7dLu6XkQ4vFE19HfKCTXtczI65/PU5H6dgwOSxKLipWR36Qx+7QMJGGXULIzFAaomBI0g+XyGYExuQAuI=;cmaJcSz9sRZW4zEBn0NS7g=="
 ---

@@ -39,6 +39,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 77
+  - title: "General availability: AKS resources view"
+    excerpt: "Azure portal now provides a Kubernetes resource view that improves the developer experience and simplifies dev/test scenarios."
+    publishedDateTime: 2020-12-09T17:00:15Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/ga-aks-resources-view/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 69
 
 secured: "4rXV4xfJyjMLjTDSDrZ+rvVmDDxwq9jnDxwDCG1nj7rOgNgTRUkhbgI67k/nizchNtP7Dfb+RlTULMiOaW9BPIqjfUMkoIsUJy3fni7diGakgqecAU4aWhgQfIHcwXoYS/sAa/hMSk5mLLq8v0OKL02EPfG5snStk9MqKil6I5GYbiR9PA1AKxnAx7xa7WkwyCuNbZAoszsAwvY0lE/TOzFaOVfWEYnT/paZN6okFdwEyvVTEUblSWgnuL40B1rB7k8jqqQXjItlGzJVd4gv1XrYq+aCbYFZx3Bz9MvKzPSZR5mtMGuYFvhEcUY7EyERcXABlFpudfs5k4CwtSMeeWAsW2y3eGak5EkbcbWZUkk=;RU3NsiENJkUiJTu0lITPNg=="
 ---

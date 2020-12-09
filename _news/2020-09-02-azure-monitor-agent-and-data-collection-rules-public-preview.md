@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/azure-monitor-agent-and-
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-monitor-agent-and-data-collection-rules-public-preview/"
 type: article
 quality: 84
-heat: 104
+heat: 124
 published: true
 
 provider:
@@ -23,6 +23,15 @@ topics:
   - DevOps
 
 related:
+  - title: "New Azure Monitor Agent and Data Collection Rules capabilities released in public preview"
+    excerpt: "The new Azure Monitor Agent and the Data Collection Rules feature of Azure Monitor are announcing the release of several key features including support for on-premises servers (with Arc installed) and virtual machines scale sets, as well as sample ARM templates for programmatic installation and management,"
+    publishedDateTime: 2020-12-09T17:00:16Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/new-azure-monitor-agent-and-data-collection-rules-capabilities-released/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 75
   - title: "Azure Data Lake Storage Gen2 access control list recursive update in public preview"
     excerpt: "Set, update, or remove access control lists (ACLs) recursively for existing Azure Data Lake Storage Gen2 directories and files."
     publishedDateTime: 2020-08-27T17:32:23Z

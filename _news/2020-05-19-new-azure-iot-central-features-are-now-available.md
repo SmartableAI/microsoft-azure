@@ -39,6 +39,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 17
+  - title: "Azure Private Link for Azure SQL Database and Azure Synapse Analytics is now available in all US government regions"
+    excerpt: ""
+    publishedDateTime: 2020-05-14T12:00:02Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/private-link-sqldb-usgov/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 0
 
 secured: "s5ohdTS1BRJxzCvEt5/ja+qdxlFuJUrjTY2A0xFRgtooZcr6KwBMyMjJVQbxlUw7BO5YIoZyrOZDMdXoUWCXJ6Vnkcz6VR996Jkbm/SK7ScaFpdLWSKQ+MyxuiyB9Rc9SUXRd/YfCOE9qFS6Awljisgr4Np7CyNTfQKJaWmmQnTQ975B3nRJbcLFObxn6AgcbHUmB2rSKNlmd25QQv+91TmCm8k0Z5TBTjemT+FuZuFSO8cCOVkkXCneMBQ8o1NJ9X1M4CP8wxNCsv/6LmYiDmCwsnZIicopx9af39FPunUYZ/WEvHIkTUHsuyg5MKxfk32CmpjTeHXb9QjPzYBYfQ==;QGzMZaJMb1S/zCbegi27/w=="
 ---

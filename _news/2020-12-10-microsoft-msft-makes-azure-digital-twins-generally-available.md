@@ -38,7 +38,43 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Azure Functions custom handlers are now generally available"
+    excerpt: "You can develop Azure Functions using languages and runtimes that do not currently have first-class support."
+    publishedDateTime: 2020-12-09T17:00:14Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-functions-custom-handlers-are-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
+  - title: "Java Azure Functions support on Linux is now generally available "
+    excerpt: "Developers can now build and publish Java Azure Functions Apps on Linux."
+    publishedDateTime: 2020-12-09T16:43:15Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/java-azure-functions-support-on-linux-is-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
+  - title: "Infrastructure Encryption for Azure Monitor dedicated clusters now generally available"
+    excerpt: "Customers using Azure Monitor dedicated cluster get high level of assurance that their data is secure with additional 256-bit AES encryption at the Azure Storage infrastructure level."
+    publishedDateTime: 2020-12-09T17:00:16Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/infrastructure-encryption-for-azure-monitor-dedicated-clusters-now-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 76
+  - title: "Azure Data Factory is now available in five new regions"
+    excerpt: "Azure Data Factory is now available in five new regions: Switzerland North, Japan West, Canada East, Germany West Central, and UK West."
+    publishedDateTime: 2020-12-09T17:52:12Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-data-factory-is-now-available-in-six-new-regions/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
 
-secured: "wYUlxmiSJc5I6h4H589xI+RoeANBZRuVcylaHZyjseleYGiC3wCrIJRBJjnQmNAS6qltXctjUMribaGMOq1OLnqdRxLH3ipiYOJpp3f+AqHqfbudgpMDNi0HNGraY11eZHF/bYt3SeqfwAHS3Rw6B7BhirtREdD0PMLYQTvg6teUTqKMYWMf4/FMXFobGQ/+LXqs1QToXtIdrBQnRfLcWUZzqtS25cmGW040OrAY+hmU+BOM8uFccQeqhpyQf7eOkrYUsptZ+rJAJaNejJDf7C7iPQ1+pyHwrXCaMmKouZCaPif8Nvr4dvq7pG+a4OEQOA2uWXBpU6THuzBUxNeGy7RA9X5FN1XZB+SS68jOBJ8=;y1ieBpVrIUxuOwa66IAuFg=="
+secured: "gYVlUeiXrLm+mT7REyAOAM0vDYrUUG2KS2cxQhiAW7U+wBaX0sbSEqLLO2SU9BAuWsyohCvON57Cq1bpi4NFVzBeMgxYDOSI0OxOLlEpsOHgYduuVx9rSAHOTpd9xfztYoknScsA6uCDVZZvbjo8DZYdBSi0lWQ0yYuP9AkSd61SpVrv+XO4PH4SlDcrQWQn0NmUf7OSDtPc77yLj61eJlNy6cf3FilYNBSArol2gVTbGqwFvmdmFML6OVo+gTtnUpQrlZL7sTGJ4Xi33++yU6yF3vV1gLPnHhDYibfZkDH7AemcriM12GcfgUoymnHwNzpkHikfJC8ZPG9UJ0XR8tBmNFj6sUaQpgfRzgPGOgU/TTEE3+94NwYD6t9AsdhAUXjxhwHw+TFY/wjqxbpQndzI6ROSB2idIht2gz8YvEM/1RR3qX1CrWmZ93letT/OOopdm8AXbra/Qoh8G8f/pdGzW2nW64Fs2OQm1osNZ9uBfnTilNIGzeedktnhtiFmSjXiI6Yy1ww8ucWY/Etxbw==;Wh8HETLTu6hlr1qH/n6LGw=="
 ---
 

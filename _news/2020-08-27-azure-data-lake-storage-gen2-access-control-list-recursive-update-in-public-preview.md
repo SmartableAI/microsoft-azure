@@ -31,6 +31,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 84
+  - title: "New Azure Monitor Agent and Data Collection Rules capabilities released in public preview"
+    excerpt: "The new Azure Monitor Agent and the Data Collection Rules feature of Azure Monitor are announcing the release of several key features including support for on-premises servers (with Arc installed) and virtual machines scale sets, as well as sample ARM templates for programmatic installation and management,"
+    publishedDateTime: 2020-12-09T17:00:16Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/new-azure-monitor-agent-and-data-collection-rules-capabilities-released/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 75
 
 secured: "mM5QSXbkcZhV0gUYN1R/vaOIy1L4pl/oIniBk8pCtengxkgKlhlNKjX6jQEWassYuTZPNO+uutZRg7SCG4ZQpWAuSACGqEg4qKPTN6fQq95i6os7TwWSotgd8AMwxaxs4Lg0nWL5k8wBXnJXPxjHSoKNp7JW8T85+gPrB2BuiOD0z6gY1e770uAPV1of7/uhcF/IdfFaaWt7RG9OGpUJTSEHtKnAQeexeTWr8zgch3JZoDqPL4suVWffi3swvPPwnFOf2MDBkRRHIPXCL7YBl4RVzZKsYzfFyWtWm2Aj8WU2KBtRFpoUryQumd+EqSRxNMBtSZXOQXe6aTA50ye1DTuNv7zq9+Fw3LqWB/3PCBo=;Y9TgpoCNMFpqdwJomb4qpQ=="
 ---

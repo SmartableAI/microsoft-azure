@@ -48,15 +48,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 16
-  - title: "Machine Learning services on Azure SQL Managed Instance is in limited preview"
-    excerpt: "Machine Learning Services, a feature of Azure SQL Managed Instance, provides in-database support for R and Python scripts (in limited preview)."
-    publishedDateTime: 2020-07-21T21:19:04Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/machine-learning-services-on-azure-sql-managed-instance-is-in-limited-preview/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 14
   - title: "New memory optimized and compute optimized hardware options in Azure SQL Database"
     excerpt: "New memory optimized and compute optimized hardware options are now generally available in Azure SQL Database."
     publishedDateTime: 2020-07-23T16:04:22Z

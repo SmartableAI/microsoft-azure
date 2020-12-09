@@ -63,6 +63,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 71
+  - title: "Microsoft Azure Purview provides unified data governance"
+    excerpt: "Announcing the public preview of a unified data governance service to maximize business value of data."
+    publishedDateTime: 2020-12-09T17:58:14Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/microsoft-azure-purview-provides-unified-data-governance/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
   - title: "Nadella takes a dig at Amazon as Microsoft unveils Azure Purview"
     excerpt: "Taking an apparent dig at Amazon and its Cloud arm AWS, Microsoft CEO Satya Nadella has said that it is important to not only trust a vendors technology capabilities but also its ‘business model alignment with its customers."
     publishedDateTime: 2020-12-04T08:41:00Z
@@ -291,6 +300,6 @@ related:
       domain: channele2e.com
     quality: 17
 
-secured: "2tf7nhvJLaNCJQef+1pWrSfihluugA4dHzLjZADpcUBe+IAas4eRqd+5Jm5uIq4VZLdNadoRO0Ny+KpshvnoDZqH2Q+CBpfawM+zLxqGtQL8KxgDbPpwhelxryrlffo4aTJxNbv/puQGPVxXmpsuCoQpkH7l/OPlW/H+GolplsXH56XfJ6AIYwe+JWi6HuJH8JWJvMuPojV4XFD67q3oPBDeI2If4XDOCFt9QPBbkXgtZC3Z9hsU0WiE8mProRhMi7pEWigcD20RnbEkZaE/EVN5NxnOdBCRzA96PpuLPy3e5mo+4DW6SYvwjNDdDjd7I9jVVE19NvLcWGMqI8nhBFhoICLdCLy2pfjvivgnQeM=;aXjaISo6jYqJoQiFqvxOKQ=="
+secured: "Kokf0U3ByBWoLs0FJnKg6k4Q4VNGKOgB6xriT7DMzBPR7A6P3KEc0BsMMyXo5dQnoU1k2is+Hmry91YdrdYmr21Zo+QQMhHu8B1Ub1XL54FqPclNoyOQeWhTLljHvipX9RlX1AsN6C/pcqkolc+/6GULHajFfVzB1ZKyv3IGsmEixrZPRzYyT2Z69pozsFzXo9f/Atr671C+txW9dZeATncV8RiTbD2tYY2lwf5lo9/xygt2HIcVIxF29XkKClhvYLGET1MaSm2FMJDew4FLA6fU6ai3dW67iERTT2rQuBuDTfuUBzJc6qY3XnAPXYrxI7ReAW+vaKS6w7VLwtp1/qxAdnBxfPncgEpYIfXjZ/Cg35zPc5+sKM763eDgucDSgdtDoSyxKzDqO0CofLfds70qsiqGkcXag+gCYBk/S5SzqMky8Iy2LVIY99LkFhGLqN48V5U89itWfMh4mIkgWcEESjNStLzWGbun6IKMr1daFCoJWxWKd3cz0nSRLxXElxz2oRKEHA7dXfnx23u4RA==;Wyt5UN2j8z3ENIxrp12Cpw=="
 ---
 

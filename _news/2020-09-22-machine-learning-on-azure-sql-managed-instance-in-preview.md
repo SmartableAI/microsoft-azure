@@ -7,8 +7,8 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/machine-learning-on-azur
 webUrl: "https://azure.microsoft.com/en-us/updates/machine-learning-on-azure-sql-managed-instance-in-preview/"
 type: article
 quality: 101
-heat: 241
-published: true
+heat: -1
+published: false
 
 provider:
   name: Microsoft
@@ -24,15 +24,33 @@ topics:
   - Databases
 
 related:
-  - title: "Azure Database for MySQL Flexible Server in preview"
-    excerpt: "Azure Database for MySQL Flexible Server is a new deployment option for Azure Database for MySQL that provides better control and flexibility of database server parameters, more options for high availability, and cost optimization controls."
-    publishedDateTime: 2020-09-22T16:00:00Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-database-for-mysql-flexible-server-in-preview/"
+  - title: "Machine Learning on Azure SQL Managed Instance now available"
+    excerpt: "Use machine learning capabilities on a Managed Instance of Azure SQL Database for ease of moving your data, packages, and models to a cloud ready environment fully configured for machine learning."
+    publishedDateTime: 2020-12-09T17:00:15Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/machine-learning-on-azure-sql-managed-instance-now-available/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 99
+    quality: 116
+  - title: "Azure Data Share snapshot sharing for SQL Database and Synapse generally available"
+    excerpt: "You can now share structured data stored in relational databases and data warehouse easily and securely between internal departments, with external partners, vendors or customers for collaboration."
+    publishedDateTime: 2020-12-09T17:00:19Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-data-share-snapshot-sharing-for-azure-sql-database-and-azure-synapse-analytics/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 110
+  - title: "Private link for Azure SQL Data Sync on Azure SQL Database now in public preview"
+    excerpt: "Private link enables SQL Data Sync users to choose a service managed private endpoint for the sync service to securely connect to member and hub databases during data synchronization."
+    publishedDateTime: 2020-12-09T17:00:17Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/private-link-for-sql-data-sync-on-azure-sql-database-now-in-preview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 109
   - title: "Global virtual network peering support for Azure SQL Managed Instance now available"
     excerpt: "Utilize global virtual network peering for your managed instances to save time through easy network configuration and by offloading your gateways from database replication traffic. "
     publishedDateTime: 2020-09-22T16:04:28Z
@@ -51,33 +69,24 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 84
-  - title: "Major performance improvements for Azure SQL Managed Instances"
-    excerpt: "Enhanced log write throughput and superior data/log IOPS make Azure SQL Managed Instances even more appealing for migration."
-    publishedDateTime: 2020-09-22T16:04:15Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/major-performance-improvements-for-azure-sql-managed-instances/"
+  - title: "SCOM management pack for Azure SQL Managed Instance is now available"
+    excerpt: ""
+    publishedDateTime: 2020-05-08T16:00:09Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-of-scom-management-pack-for-sql-managed-instance-is-now-available/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 84
-  - title: "Apache Spark for Azure Synapse In-cluster Caching and Shuffle Service (Preview)"
-    excerpt: "Optimize performance on caching and shuffle with new services from Apache Spark for Azure Synapse"
-    publishedDateTime: 2020-09-22T16:03:33Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/apache-spark-for-azure-synapse-incluster-caching-and-shuffle-service-preview/"
+    quality: 17
+  - title: "Azure SQL Managed Instance management pack is now generally available"
+    excerpt: "System Center Operations Manager (SCOM) management pack for Azure SQL Managed Instance is now generally available."
+    publishedDateTime: 2020-07-15T23:00:30Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-sql-managed-instance-management-pack-is-now-generally-available/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 80
-  - title: "Public preview: Azure Arc enabled SQL Server"
-    excerpt: "Public preview of Azure Arc enabled SQL Server extends power of Azure to SQL servers hosted on-premises or in other public clouds."
-    publishedDateTime: 2020-09-22T16:05:25Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-azure-arc-enabled-sql-server/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 67
+    quality: 17
   - title: "Machine Learning on Azure SQL Managed Instance limited preview available"
     excerpt: ""
     publishedDateTime: 2020-05-27T16:00:07Z
@@ -87,6 +96,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 16
+  - title: "Machine Learning services on Azure SQL Managed Instance is in limited preview"
+    excerpt: "Machine Learning Services, a feature of Azure SQL Managed Instance, provides in-database support for R and Python scripts (in limited preview)."
+    publishedDateTime: 2020-07-21T21:19:04Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/machine-learning-services-on-azure-sql-managed-instance-is-in-limited-preview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 14
 
 secured: "1RBPWkbZ2xcQaaoq0GljfLLtCMtV0rk7gpGlC0gAWBXbHlr++/MXceJ7gXlohE6Oar45XL4U5JkXcw+HBX11/HwH1kHZgyrzh1sB/ZG31TyRZcO2A2HYW+eeZulTgCccl4zXTIouo4BoiP6qcFvPO3ee/5hBNZVsj8ZOsjogT2+GNoGCVK4goahjbOnFLPG5ALZePoN1aRq8uaeIeHmiXnRnYifQhGeR/RESm3kmsZ1pKa2NF2AfGTzK5Nro2G3ERtSfalT4AXvG2Eb292yfCo1dya7WflCk6QXc8zsA7wjtOYjWlHtpFsSM5Txksvq2OLTU8kJnMRbghO4tUf03sGSiExdvg34ap/8M/1U/DE8=;/zkfnkjmAQPsyY5K44oG3g=="
 ---

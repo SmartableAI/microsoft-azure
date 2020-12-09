@@ -2,6 +2,136 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-09-azure-database-for-postgresql-single-server-logical-decoding-feature-is-now-generally-available.md",
+      "title": "Azure Database for PostgreSQL - Single Server: logical decoding feature is now generally available",
+      "excerpt": "With logical decoding and wal2json support, unlock change data capture scenarios with Azure Database for PostgreSQL - Single Server. ",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/en-us/updates/azure-database-for-postgresql-single-server-logical-decoding-feature/",
+      "originalUrl": "https://azure.microsoft.com/en-us/updates/azure-database-for-postgresql-single-server-logical-decoding-feature/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-09T09:00:18-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure",
+        "Databases"
+      ]
+    },
+    {
+      "path": "_news/2020-12-09-stopstart-functionality-for-azure-database-for-mariadb-is-now-in-public-preview.md",
+      "title": "Stop/start functionality for Azure Database for MariaDB is now in public preview",
+      "excerpt": "The stop/start feature can enable cost savings on your database servers as you can stop your Database for MariaDB server when not in use and start the server when you resume activity--paying only for what you use.",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/en-us/updates/stopstart-functionality-for-azure-database-for-mariadb/",
+      "originalUrl": "https://azure.microsoft.com/en-us/updates/stopstart-functionality-for-azure-database-for-mariadb/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-09T09:00:18-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure",
+        "Databases"
+      ]
+    },
+    {
+      "path": "_news/2020-12-09-machine-learning-on-azure-sql-managed-instance-now-available.md",
+      "title": "Machine Learning on Azure SQL Managed Instance now available",
+      "excerpt": "Use machine learning capabilities on a Managed Instance of Azure SQL Database for ease of moving your data, packages, and models to a cloud ready environment fully configured for machine learning.",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/en-us/updates/machine-learning-on-azure-sql-managed-instance-now-available/",
+      "originalUrl": "https://azure.microsoft.com/en-us/updates/machine-learning-on-azure-sql-managed-instance-now-available/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 296,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-09T09:00:15-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure",
+        "AI",
+        "Databases"
+      ]
+    },
+    {
       "path": "_news/2020-11-11-azure-cosmos-db-transactional-batch-support-for-java-sdk-470-and-above-is-now-available.md",
       "title": "Azure Cosmos DB transactional batch support for Java SDK 4.7.0 and above is now available",
       "excerpt": "This new support satisfies a frequent customer ask for ACID-compliant transactions that succeed or fail altogether.",
@@ -417,7 +547,7 @@
       "originalUrl": "https://azure.microsoft.com/en-us/updates/reserved-capacity-on-azure-sql-database-hyperscale-is-now-available/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 214,
+      "heat": 234,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -541,22 +671,22 @@
       ]
     },
     {
-      "path": "_news/2020-09-22-machine-learning-on-azure-sql-managed-instance-in-preview.md",
-      "title": "Machine Learning on Azure SQL Managed Instance in preview",
-      "excerpt": "Machine Learning Services with support for R and Python languages now include preview support on Azure SQL Managed Instance. ",
+      "path": "_news/2020-09-22-major-performance-improvements-for-azure-sql-managed-instances.md",
+      "title": "Major performance improvements for Azure SQL Managed Instances",
+      "excerpt": "Enhanced log write throughput and superior data/log IOPS make Azure SQL Managed Instances even more appealing for migration.",
       "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/en-us/updates/machine-learning-on-azure-sql-managed-instance-in-preview/",
-      "originalUrl": "https://azure.microsoft.com/en-us/updates/machine-learning-on-azure-sql-managed-instance-in-preview/",
+      "webUrl": "https://azure.microsoft.com/en-us/updates/major-performance-improvements-for-azure-sql-managed-instances/",
+      "originalUrl": "https://azure.microsoft.com/en-us/updates/major-performance-improvements-for-azure-sql-managed-instances/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 241,
+      "heat": 84,
       "tags": null,
       "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-22T09:03:59-07:00",
+      "publishedDateTime": "2020-09-22T09:04:15-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",
@@ -580,7 +710,6 @@
       ],
       "topics": [
         "Azure",
-        "AI",
         "Databases"
       ]
     },
@@ -637,7 +766,7 @@
       "originalUrl": "https://azure.microsoft.com/en-us/updates/azure-synapse-link-now-supports-azure-cosmos-db-api-for-mongo-db-preview/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 139,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -681,7 +810,7 @@
       "originalUrl": "https://azure.microsoft.com/en-us/updates/serverless-offer-for-azure-cosmos-db-coming-soon-on-all-apis/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 101,
+      "heat": 121,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -994,7 +1123,7 @@
       "originalUrl": "https://azure.microsoft.com/blog/eight-ways-to-optimize-costs-on-azure-sql/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 206,
+      "heat": 186,
       "tags": null,
       "images": [
         {

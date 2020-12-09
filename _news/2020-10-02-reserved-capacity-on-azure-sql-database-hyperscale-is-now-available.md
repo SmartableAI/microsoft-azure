@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/reserved-capacity-on-azu
 webUrl: "https://azure.microsoft.com/en-us/updates/reserved-capacity-on-azure-sql-database-hyperscale-is-now-available/"
 type: article
 quality: 114
-heat: 214
+heat: 234
 published: true
 
 provider:
@@ -32,6 +32,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 99
+  - title: "Transparent Data Encryption with customer-managed keys for SQL Database Hyperscale"
+    excerpt: "This feature enables bring your own key (BYOK) support for data protection at rest, using Azure Key Vault, for Azure SQL Database Hyperscale customers. "
+    publishedDateTime: 2020-12-09T17:00:17Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/transparent-data-encryption-with-customermanaged-keys-for-sql-database-hyperscale/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 78
   - title: "Azure Arc enabled PostgreSQL Hyperscale now in preview"
     excerpt: "Azure Arc enabled PostgreSQL Hyperscale is now in preview, providing elastic scale with a unified hybrid management experience with or without a direct connection to the cloud. "
     publishedDateTime: 2020-09-22T16:00:15Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techradar.com/uk/amp/news/microsoft-just-stress-tested-i
 cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/uk/amp/news/microsoft-just-stress-tested-its-most-powerful-azure-node-in-a-pretty-fun-way"
 type: article
 quality: 94
-heat: 496
+heat: 516
 published: true
 
 provider:
@@ -53,6 +53,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 71
+  - title: "Microsoft Azure Purview provides unified data governance"
+    excerpt: "Announcing the public preview of a unified data governance service to maximize business value of data."
+    publishedDateTime: 2020-12-09T17:58:14Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/microsoft-azure-purview-provides-unified-data-governance/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
   - title: "Nadella takes a dig at Amazon as Microsoft unveils Azure Purview"
     excerpt: "Taking an apparent dig at Amazon and its Cloud arm AWS, Microsoft CEO Satya Nadella has said that it is important to not only trust a vendors technology capabilities but also its ‘business model alignment with its customers."
     publishedDateTime: 2020-12-04T08:41:00Z

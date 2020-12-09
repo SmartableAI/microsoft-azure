@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/azure-data-explorer-dash
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-data-explorer-dashboards-october-update/"
 type: article
 quality: 87
-heat: 88
+heat: 108
 published: true
 
 provider:
@@ -26,6 +26,17 @@ images:
     width: 287
     height: 306
     isCached: true
+
+related:
+  - title: "Azure Machine Learning updates December 2020 in public preview"
+    excerpt: "Azure Machine Learning has new updates on View capabilities. "
+    publishedDateTime: 2020-12-09T17:00:16Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-machine-learning-updates-december-2020/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
 
 secured: "VoIBX2HjBqWbcWhFoJJmTj/1Mdd0lnZplyo2+W1e/OYlPCi8W2LsajfZxVYG3cMB0mAoPE9uKShr+f0T1oiKt9vvc14IV6GC+dK0yykrNwLqv3ziJEt5Q6Ua6OI+GrSYhCXOVg8aXC04tDw3n7hYbMX32vRoEToaR7ciiz4ncAT7rBMUp74cfs8eVUYgCv/5cfMrgZ3CGKI6ISN0uKb6Ebl0pvjGfKXhr4N3grNkyRhIDxrens6s3B9BWWE1ruCzrVlZR7t4LIFbvNzqaST2M4EnftO+mVcpERLkCqqTnrVjtyax765kSVSRrMjKg7cVDzlokqdzxl0Z8wnOpFhUbI1zfFGgc6MuL8/vOrp10Zc=;rZ+tQoWXHpetn5CkrQKZGg=="
 ---

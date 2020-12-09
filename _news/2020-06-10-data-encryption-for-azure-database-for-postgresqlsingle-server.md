@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-10T16:00:19Z
 webUrl: "https://azure.microsoft.com/en-us/updates/data-encryption-for-azure-database-for-postgresql-single-server/"
 type: article
 quality: 17
-heat: 17
+heat: -1
 published: false
 
 provider:
@@ -21,15 +21,24 @@ topics:
   - Azure
 
 related:
-  - title: "Data encryption with customer-managed keys for Azure Database for MySQL"
-    excerpt: ""
-    publishedDateTime: 2020-06-10T16:00:17Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/data-encryption-with-customermanaged-keys-for-azure-database-for-mysql-in-preview/"
+  - title: "Azure Database for PostgreSQL - Single Server: logical decoding feature is now generally available"
+    excerpt: "With logical decoding and wal2json support, unlock change data capture scenarios with Azure Database for PostgreSQL - Single Server. "
+    publishedDateTime: 2020-12-09T17:00:18Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-database-for-postgresql-single-server-logical-decoding-feature/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 17
+    quality: 85
+  - title: "Azure Database for PostgreSQL—Single Server now available in the France South region"
+    excerpt: ""
+    publishedDateTime: 2020-05-27T16:00:09Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-database-for-postgresql-single-server-now-available-in-the-france-south-region/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 10
 
 secured: "e+HxBAR9MQDMRF/bhjNEFwbD126ezLE1jfOGmR39yMbWFGh62emFVAVwFTMCe+9T9XbpP9BKGzGIkksyHXQRlXdiUiomn4Yijv5jdnem6HokXUJaere2VKm8O4W+qGFCRunTWvkCY0yuIsSzsDcBi2YvdiH56CZ4w9u5Gn0sKJS8SZPsLcGkeXyF6Gb5ms4myT1RvQODXIohPo4eBP0A8E/gHIYC//LOZxk1BSlTg1R0uf7DU+v7gWF4bvmdbDXD++FxvslGLVu4E61GMzWILmGiYAudtEV+GXIkBkxv/wFC06jbquQW8Ac+CNtMYcu7yDsGHvFrpDq4CYANOGnbVA==;ylOvkJNs5FGpOzU/bvoXCg=="
 ---

@@ -31,6 +31,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 101
+  - title: "Azure resource logs for Azure Storage is now in public preview"
+    excerpt: "With Azure Storage logs and native export options, it’s more convenient to troubleshoot issues on requests to your storage account."
+    publishedDateTime: 2020-12-09T17:00:19Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-resource-logs-for-azure-storage-is-now-in-public-preview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
   - title: "Firewall support for Azure Relay is now in preview"
     excerpt: ""
     publishedDateTime: 2020-05-18T21:00:04Z

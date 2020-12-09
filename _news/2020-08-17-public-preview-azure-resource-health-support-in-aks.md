@@ -75,6 +75,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 69
+  - title: "Public preview: Azure Arc enabled SQL Server"
+    excerpt: "Public preview of Azure Arc enabled SQL Server extends power of Azure to SQL servers hosted on-premises or in other public clouds."
+    publishedDateTime: 2020-09-22T16:05:25Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-azure-arc-enabled-sql-server/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
   - title: "Public Preview: Steeltoe .NET Application Support in Azure Spring Cloud"
     excerpt: "Develop and release applications faster with Steeltoe .NET application support in Azure Spring Cloud."
     publishedDateTime: 2020-09-22T16:05:01Z

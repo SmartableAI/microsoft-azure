@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/lower-prices-and-more-flexible-pu
 webUrl: "https://azure.microsoft.com/blog/lower-prices-and-more-flexible-purchase-options-for-azure-red-hat-openshift/"
 type: article
 quality: 85
-heat: 165
+heat: 185
 published: true
 
 provider:
@@ -32,6 +32,15 @@ related:
     excerpt: "Lower prices, more flexible purchase options, and an improved SLA."
     publishedDateTime: 2020-10-07T16:00:25Z
     webUrl: "https://azure.microsoft.com/en-us/updates/azure-red-hat-openshift-lower-prices-more-flexible-purchase-options-and-improved-sla/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
+  - title: "GA: Azure Red Hat OpenShift support for OpenShift 4.5"
+    excerpt: "Benefit from new features and enhancements in OpenShift release 4.5."
+    publishedDateTime: 2020-12-09T17:00:13Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/ga-azure-red-hat-openshift-support-for-openshift-45/"
     type: article
     provider:
       name: Microsoft

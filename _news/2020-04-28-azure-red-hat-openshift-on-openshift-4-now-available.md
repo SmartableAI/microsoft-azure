@@ -44,6 +44,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
+  - title: "GA: Azure Red Hat OpenShift support for OpenShift 4.5"
+    excerpt: "Benefit from new features and enhancements in OpenShift release 4.5."
+    publishedDateTime: 2020-12-09T17:00:13Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/ga-azure-red-hat-openshift-support-for-openshift-45/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
   - title: "Azure Red Hat OpenShift on OpenShift 4.4 now available"
     excerpt: "Red Hat OpenShift 4.4 is now available on Azure Red Hat OpenShift."
     publishedDateTime: 2020-07-21T16:00:46Z

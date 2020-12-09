@@ -65,6 +65,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 71
+  - title: "Microsoft Azure Purview provides unified data governance"
+    excerpt: "Announcing the public preview of a unified data governance service to maximize business value of data."
+    publishedDateTime: 2020-12-09T17:58:14Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/microsoft-azure-purview-provides-unified-data-governance/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
   - title: "Cyber Security Cloud Launches WafCharm on Microsoft Azure"
     excerpt: "Cyber Security Cloud, Inc. (CSC) is pleased to announce the availability of WafCharm on Microsoft Azure. Already available to over one million Amazon AWS users around the world, this launch provides Azure users with AI operation of Web Application Firewall (WAF) rules,"
     publishedDateTime: 2020-12-01T13:01:00Z

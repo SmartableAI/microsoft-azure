@@ -21,56 +21,87 @@ topics:
   - Azure
 
 related:
-  - title: "Eight ways to optimize costs on Azure SQL"
-    excerpt: "Across the globe, businesses are emerging into a new normal, eager to restart or rebuild, but still operating in uncertain times. Optimizing costs and redirecting the spend to where it matters most is as important as ever, and many companies see the cloud as a way to control costs, build resilience and"
-    publishedDateTime: 2020-07-28T09:00:15Z
-    webUrl: "https://azure.microsoft.com/blog/eight-ways-to-optimize-costs-on-azure-sql/"
+  - title: "Machine Learning on Azure SQL Managed Instance now available"
+    excerpt: "Use machine learning capabilities on a Managed Instance of Azure SQL Database for ease of moving your data, packages, and models to a cloud ready environment fully configured for machine learning."
+    publishedDateTime: 2020-12-09T17:00:15Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/machine-learning-on-azure-sql-managed-instance-now-available/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 106
-    images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/ca2b2a4f-0ac3-45a8-81e1-c8af06bd8518.jpg"
-        width: 709
-        height: 491
-        isCached: true
-  - title: "Three reasons to migrate your ASP.NET apps and SQL Server data to Azure"
-    excerpt: "The way we work and live has changed. Over the last several months, enterprises have had to shift their strategy from physical first to digital first and accelerate their digital transformation to enable remote productivity, reduce costs, or rapidly address new opportunities."
-    publishedDateTime: 2020-07-28T10:00:15Z
-    webUrl: "https://azure.microsoft.com/blog/three-reasons-to-migrate-your-aspnet-apps-and-sql-server-data-to-azure/"
+    quality: 116
+  - title: "Azure Data Share snapshot sharing for SQL Database and Synapse generally available"
+    excerpt: "You can now share structured data stored in relational databases and data warehouse easily and securely between internal departments, with external partners, vendors or customers for collaboration."
+    publishedDateTime: 2020-12-09T17:00:19Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-data-share-snapshot-sharing-for-azure-sql-database-and-azure-synapse-analytics/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 73
-  - title: "New memory- and compute-optimized hardware options in Azure SQL Database"
-    excerpt: "M-series, a new memory-optimized hardware option, and Fsv2-series, a new compute-optimized hardware option, are now generally available in Azure SQL Database. "
-    publishedDateTime: 2020-07-21T21:22:34Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/new-memory-and-computeoptimized-hardware-options-in-azure-sql-database/"
+    quality: 110
+  - title: "Private link for Azure SQL Data Sync on Azure SQL Database now in public preview"
+    excerpt: "Private link enables SQL Data Sync users to choose a service managed private endpoint for the sync service to securely connect to member and hub databases during data synchronization."
+    publishedDateTime: 2020-12-09T17:00:17Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/private-link-for-sql-data-sync-on-azure-sql-database-now-in-preview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 109
+  - title: "Machine Learning on Azure SQL Managed Instance in preview"
+    excerpt: "Machine Learning Services with support for R and Python languages now include preview support on Azure SQL Managed Instance. "
+    publishedDateTime: 2020-09-22T16:03:59Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/machine-learning-on-azure-sql-managed-instance-in-preview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 101
+  - title: "Global virtual network peering support for Azure SQL Managed Instance now available"
+    excerpt: "Utilize global virtual network peering for your managed instances to save time through easy network configuration and by offloading your gateways from database replication traffic. "
+    publishedDateTime: 2020-09-22T16:04:28Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/global-virtual-network-peering-support-for-azure-sql-managed-instance-now-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 95
+  - title: "Enhanced management experience for Azure SQL Managed Instance"
+    excerpt: "The new OPERATIONS API adds the ability to monitor management operations, see operation steps, and take dependent actions based on operation progress. "
+    publishedDateTime: 2020-09-22T16:02:06Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/enhanced-management-experience-for-azure-sql-managed-instance/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
+  - title: "SCOM management pack for Azure SQL Managed Instance is now available"
+    excerpt: ""
+    publishedDateTime: 2020-05-08T16:00:09Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-of-scom-management-pack-for-sql-managed-instance-is-now-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 17
+  - title: "Azure SQL Managed Instance management pack is now generally available"
+    excerpt: "System Center Operations Manager (SCOM) management pack for Azure SQL Managed Instance is now generally available."
+    publishedDateTime: 2020-07-15T23:00:30Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-sql-managed-instance-management-pack-is-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 17
+  - title: "Machine Learning on Azure SQL Managed Instance limited preview available"
+    excerpt: ""
+    publishedDateTime: 2020-05-27T16:00:07Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/machine-learning-on-azure-sql-managed-instance-limited-preview-available/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
     quality: 16
-  - title: "New memory optimized and compute optimized hardware options in Azure SQL Database"
-    excerpt: "New memory optimized and compute optimized hardware options are now generally available in Azure SQL Database."
-    publishedDateTime: 2020-07-23T16:04:22Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/new-memory-and-compute-optimized-hardware-options-in-azure-sql-database-2/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 12
-  - title: "Azure SQL Database—A performance optimization change to default settings is coming soon"
-    excerpt: "The default maximum degree of parallelism (MAXDOP) option in Azure SQL Database is changing from 0 to 8, improving workload performance and optimizing resource utilization."
-    publishedDateTime: 2020-07-25T00:00:28Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/sqldb-maxdop-updates/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 9
 
 secured: "RQVOsYmgF47wZVZNloBdSCp33tfTUUImvvyFLpQA2WHRL0tyxtJ8O2Kdoh/5jFujYBMKKBMk26DjzJ/n1fgQkjLX+5sIEShRI5fK8z7qwjBwpjPFZsZF3JU2qWU+RNvbzIVgx3eXDZpqA3Ec+KUEGkS/yQqS2KyMowY2FKfdPwv1wsPK6nNEeNey30Izqeh+hkop6odT9VF52DccMdQi1dPNO8Qzh4gqCrdOM7jWMa3OKCRJ4bjgLGgXyCWmFvrUA7fwuoTUGU71QuzlDdTTvZPDjMT+haVqCT6ljyOhyubdwcmH2AktTJwv7vZI5ohK/fA2gBqEoR2WsJUNaPyVeg==;2cUjvaOiror9+icjvsYErw=="
 ---
