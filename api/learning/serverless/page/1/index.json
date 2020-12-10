@@ -34,8 +34,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/",
           "length": "PT36M",
           "ratings": {
-            "count": 8523,
-            "average": 4.780594
+            "count": 8550,
+            "average": 4.7807016
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -76,8 +76,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/fundamental-azure-concepts/",
           "length": "PT24M",
           "ratings": {
-            "count": 4146,
-            "average": 4.8084903
+            "count": 4158,
+            "average": 4.8083215
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -120,8 +120,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-architecture-fundamentals/",
           "length": "PT34M",
           "ratings": {
-            "count": 2085,
-            "average": 4.8129497
+            "count": 2091,
+            "average": 4.812052
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -177,6 +177,57 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-design-for-performance-and-scalability.md",
+      "title": "Design for performance and scalability in Azure",
+      "excerpt": "Scaling your system to handle load, identifying network bottlenecks, and optimizing your storage performance are important to ensure your users have the best experience. Learn how to make your application perform at its best.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-design-for-performance-and-scalability/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-for-performance-and-scalability-in-azure/",
+      "length": "48 mins",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 130,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/design-for-performance-and-scalability-in-azure-social.png",
+          "width": 200,
+          "height": 200,
+          "title": "Design for performance and scalability in Azure",
+          "isCached": true
+        },
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/azure-well-architected-framework-social.png",
+          "width": 640,
+          "height": 320,
+          "title": "Design for performance and scalability in Azure",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Compute",
+        "Databases",
+        "Serverless",
+        "Containers",
+        "Networking"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-fundamental-azure-concepts.md",
       "title": "Discuss Azure fundamental concepts",
       "excerpt": "Learn about the different types and categories of cloud computing.",
@@ -184,8 +235,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/fundamental-azure-concepts/",
       "length": "PT24M",
       "ratings": {
-        "count": 4146,
-        "average": 4.8084903
+        "count": 4158,
+        "average": 4.8083215
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -251,8 +302,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/",
           "length": "PT36M",
           "ratings": {
-            "count": 8523,
-            "average": 4.780594
+            "count": 8550,
+            "average": 4.7807016
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -293,8 +344,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-machine-learning-fundamentals/",
           "length": "PT23M",
           "ratings": {
-            "count": 1061,
-            "average": 4.7295003
+            "count": 1066,
+            "average": 4.727955
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -336,8 +387,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-devops-devtest-labs/",
           "length": "PT21M",
           "ratings": {
-            "count": 854,
-            "average": 4.7166276
+            "count": 860,
+            "average": 4.7139535
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -379,8 +430,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/monitoring-fundamentals/",
           "length": "PT22M",
           "ratings": {
-            "count": 738,
-            "average": 4.7479672
+            "count": 740,
+            "average": 4.745946
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -569,8 +620,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/serverless-fundamentals/",
       "length": "PT20M",
       "ratings": {
-        "count": 626,
-        "average": 4.7811503
+        "count": 628,
+        "average": 4.780255
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -640,8 +691,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-azure-service-to-integrate-and-automate-business-processes/",
           "length": "PT44M",
           "ratings": {
-            "count": 11095,
-            "average": 4.578549
+            "count": 11096,
+            "average": 4.578587
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -682,8 +733,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-serverless-logic-with-azure-functions/",
           "length": "PT36M",
           "ratings": {
-            "count": 7085,
-            "average": 4.6574454
+            "count": 7086,
+            "average": 4.6573524
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1049,8 +1100,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-serverless-logic-with-azure-functions/",
           "length": "PT36M",
           "ratings": {
-            "count": 7085,
-            "average": 4.6574454
+            "count": 7086,
+            "average": 4.6573524
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1447,8 +1498,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-serverless-logic-with-azure-functions/",
       "length": "PT36M",
       "ratings": {
-        "count": 7085,
-        "average": 4.6574454
+        "count": 7086,
+        "average": 4.6573524
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1646,8 +1697,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-long-running-serverless-workflow-with-durable-functions/",
       "length": "PT46M",
       "ratings": {
-        "count": 2814,
-        "average": 4.467662
+        "count": 2815,
+        "average": 4.4678507
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2167,51 +2218,6 @@
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/publish-static-web-app-and-api-dotnet-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Compute",
-        "Serverless",
-        "Web"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-publish-static-web-app-api-preview-url.md",
-      "title": "Publish an API to Azure Static Web Apps",
-      "excerpt": "Publish an Angular, React, Svelte, or Vue JavaScript app and API with Azure Static Web Apps and Azure Functions. Deploy your code from GitHub to a staging site using preview URLs.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-publish-static-web-app-api-preview-url/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/publish-static-web-app-api-preview-url/",
-      "length": "PT27M",
-      "ratings": {
-        "count": 12,
-        "average": 4.75
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/publish-static-web-app-api-preview-url-social.png",
           "width": 640,
           "height": 320,
           "isCached": true
