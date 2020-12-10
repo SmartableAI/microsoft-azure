@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techradar.com/uk/amp/news/microsoft-just-stress-tested-i
 cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/uk/amp/news/microsoft-just-stress-tested-its-most-powerful-azure-node-in-a-pretty-fun-way"
 type: article
 quality: 94
-heat: 516
+heat: 536
 published: true
 
 provider:
@@ -293,6 +293,15 @@ related:
     provider:
       name: ChannelE2E
       domain: channele2e.com
+    quality: 17
+  - title: "Microsoft announces Azure Hybrid Benefit for Linux in India"
+    excerpt: "Azure Hybrid Benefit helps Linux customers migrate on-premises Windows Server and SQL Server licenses, RHEL, and SLES VMs to Azure"
+    publishedDateTime: 2020-12-10T06:26:00Z
+    webUrl: "https://news.microsoft.com/en-in/microsoft-announces-azure-hybrid-benefit-for-linux-in-india/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
     quality: 17
   - title: "Peloton Well Focused Data Management Solutions, powered by Microsoft Azure, leads digital transformation in the energy industry"
     excerpt: "Developed with Microsoft Azure technology, the Peloton Platform delivers a robust end user experience to oil and gas companies around the world. The Peloton Platform provides a secure, optimized ..."

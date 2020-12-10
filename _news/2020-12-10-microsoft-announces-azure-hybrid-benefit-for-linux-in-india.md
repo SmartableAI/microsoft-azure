@@ -1,27 +1,25 @@
 ---
 category: news
-title: "Peloton Well Focused Data Management Solutions, powered by Microsoft Azure, leads digital transformation in the energy industry"
-excerpt: "Developed with Microsoft Azure technology, the Peloton Platform delivers a robust end user experience to oil and gas companies around the world. The Peloton Platform provides a secure, optimized ..."
-publishedDateTime: 2020-12-08T15:19:00Z
-originalUrl: "https://www.newswire.ca/news-releases/peloton-well-focused-data-management-solutions-powered-by-microsoft-azure-leads-digital-transformation-in-the-energy-industry-817941631.html"
-webUrl: "https://www.newswire.ca/news-releases/peloton-well-focused-data-management-solutions-powered-by-microsoft-azure-leads-digital-transformation-in-the-energy-industry-817941631.html"
+title: "Microsoft announces Azure Hybrid Benefit for Linux in India"
+excerpt: "Azure Hybrid Benefit helps Linux customers migrate on-premises Windows Server and SQL Server licenses, RHEL, and SLES VMs to Azure"
+publishedDateTime: 2020-12-10T06:26:00Z
+originalUrl: "https://news.microsoft.com/en-in/microsoft-announces-azure-hybrid-benefit-for-linux-in-india/"
+webUrl: "https://news.microsoft.com/en-in/microsoft-announces-azure-hybrid-benefit-for-linux-in-india/"
 type: article
-quality: 9
+quality: 17
 heat: -1
 published: false
 
 provider:
-  name: Newswire
-  domain: newswire.ca
+  name: Microsoft
+  domain: microsoft.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
-
-images:
-  - url: "https://mma.prnewswire.com/media/1163960/Peloton_Logo.jpg?p=facebook"
-    width: 1955
-    height: 1024
-    isCached: true
 
 related:
   - title: "Microsoft just stress-tested its most powerful Azure node in a pretty fun way"
@@ -304,16 +302,21 @@ related:
       name: ChannelE2E
       domain: channele2e.com
     quality: 17
-  - title: "Microsoft announces Azure Hybrid Benefit for Linux in India"
-    excerpt: "Azure Hybrid Benefit helps Linux customers migrate on-premises Windows Server and SQL Server licenses, RHEL, and SLES VMs to Azure"
-    publishedDateTime: 2020-12-10T06:26:00Z
-    webUrl: "https://news.microsoft.com/en-in/microsoft-announces-azure-hybrid-benefit-for-linux-in-india/"
+  - title: "Peloton Well Focused Data Management Solutions, powered by Microsoft Azure, leads digital transformation in the energy industry"
+    excerpt: "Developed with Microsoft Azure technology, the Peloton Platform delivers a robust end user experience to oil and gas companies around the world. The Peloton Platform provides a secure, optimized ..."
+    publishedDateTime: 2020-12-08T15:19:00Z
+    webUrl: "https://www.newswire.ca/news-releases/peloton-well-focused-data-management-solutions-powered-by-microsoft-azure-leads-digital-transformation-in-the-energy-industry-817941631.html"
     type: article
     provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 17
+      name: Newswire
+      domain: newswire.ca
+    quality: 9
+    images:
+      - url: "https://mma.prnewswire.com/media/1163960/Peloton_Logo.jpg?p=facebook"
+        width: 1955
+        height: 1024
+        isCached: true
 
-secured: "BJrxBYAUBPG5dl8vbdz0b6ehSmfISQ59PshvyH1DKSv+MhNDWi2jv8z8C6nhYDT0HBFN40o55aJkdAANcVpT+48WABnvdzV9RhT8xi2TkeKFlPuEvInCkxbZ1iHKqwhO52RhS0fXxktIZNsPOezyaEUB4kuvK4h0XmZwgEHGgHWBmt1JdRGfiKM/Xz5Hj0nWH9hIPcwexiT8d9EUlYbO+4TXY72WewY0x6Z/ueSBq/7AxqT8uJJEMjlbgJS1XSyj+uEM16n1Jn1edIJUdX7fvKGMhbAx+Ov2GG0qi1JBqOpS0RUcs/lr7ukhLbtISuPKgFSm3l/jsAY95vU00vYZUNvcRv6MdCXsXntAAcOxIW4=;HPk2Bxh2cX4/7G/L8Nfb0g=="
+secured: "Cwco1iytiL1q2M6S6IN28D5GGMk3gTFxWG2O1Ou6+x3WppEYwpqkOpOZMIQOIgSlCib5hVmKHlmOluruG+/Ow9GiZREMUHZfN7aVrbOLAN+4F4jZQuBmcFs7QJtN/UGl8A+L9Vb3CdmLgfoIvtu1tg9udPl0z5d17+9mueSGsXcERDR3mTOUZ1iVjniFMcis9oErECQCcFzbpbFqox7P0rvlthNF32VWQ3wFpcqA0uYxJdtg/SXYiRBg+ZfLKuj7uh33UdrnhUSUsmoultc3qQxG0AeYllKjpSpD5mQRoWOSeCc1Xjh4PcAddgbCCImPb/m030xwrlE2Ii4UQqRZFJuYxAHXkd1ccmdP6v2QKZA=;N8QKCBnpf4q86reGkjv/BQ=="
 ---
 
