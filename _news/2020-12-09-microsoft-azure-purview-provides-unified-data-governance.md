@@ -133,6 +133,20 @@ related:
         width: 700
         height: 525
         isCached: true
+  - title: "ACTS Has Earned the Windows Server and SQL Server Migration to Microsoft Azure Advanced Specialization"
+    excerpt: "PRNewswire/ -- Today ACTS (  ) announced it has earned the Windows Server and SQL Server Migration to Microsoft Azure advanced specialization, a validation of a solution partner's deep knowledge, extensive experience and expertise in migrating Windows Server and SQL Server-based workloads to Azure."
+    publishedDateTime: 2020-12-10T13:31:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/acts-has-earned-the-windows-server-and-sql-server-migration-to-microsoft-azure-advanced-specialization-301189907.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 38
+    images:
+      - url: "https://mma.prnewswire.com/media/1362265/Azure_Specialization_Press_Release_Image.jpg?p=facebook"
+        width: 1146
+        height: 600
+        isCached: true
   - title: "Mavenir’s RCS Business Messaging Solution Available in Microsoft Azure"
     excerpt: "today announced that its RCS Business Messaging Solution is available to deploy globally from Microsoft Azure. The current Covid-19 pandemic has forced businesses to accelerate their digital ..."
     publishedDateTime: 2020-12-01T14:46:00Z

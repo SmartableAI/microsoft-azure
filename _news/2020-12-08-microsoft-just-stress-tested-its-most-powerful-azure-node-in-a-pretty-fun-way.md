@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techradar.com/uk/amp/news/microsoft-just-stress-tested-i
 cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/uk/amp/news/microsoft-just-stress-tested-its-most-powerful-azure-node-in-a-pretty-fun-way"
 type: article
 quality: 94
-heat: 536
+heat: 556
 published: true
 
 provider:
@@ -133,6 +133,20 @@ related:
       - url: "https://i.insider.com/5fcabc41037cbd00186140ed?width=700"
         width: 700
         height: 525
+        isCached: true
+  - title: "ACTS Has Earned the Windows Server and SQL Server Migration to Microsoft Azure Advanced Specialization"
+    excerpt: "PRNewswire/ -- Today ACTS (  ) announced it has earned the Windows Server and SQL Server Migration to Microsoft Azure advanced specialization, a validation of a solution partner's deep knowledge, extensive experience and expertise in migrating Windows Server and SQL Server-based workloads to Azure."
+    publishedDateTime: 2020-12-10T13:31:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/acts-has-earned-the-windows-server-and-sql-server-migration-to-microsoft-azure-advanced-specialization-301189907.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 38
+    images:
+      - url: "https://mma.prnewswire.com/media/1362265/Azure_Specialization_Press_Release_Image.jpg?p=facebook"
+        width: 1146
+        height: 600
         isCached: true
   - title: "Mavenir’s RCS Business Messaging Solution Available in Microsoft Azure"
     excerpt: "today announced that its RCS Business Messaging Solution is available to deploy globally from Microsoft Azure. The current Covid-19 pandemic has forced businesses to accelerate their digital ..."

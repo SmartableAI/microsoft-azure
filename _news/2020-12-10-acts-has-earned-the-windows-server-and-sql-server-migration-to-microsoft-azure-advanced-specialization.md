@@ -1,29 +1,26 @@
 ---
 category: news
-title: "Microsoft's Azure Purview data governance service will help enterprises manage data"
-excerpt: "Microsoft's Azure Purview is a new cloud-based service that will help enterprises manage data and support compliance and data privacy regulations."
-publishedDateTime: 2020-12-07T16:04:00Z
-originalUrl: "https://www.businessinsider.com/microsofts-data-governance-service-tackles-complex-privacy-landscape-2020-12"
-webUrl: "https://www.businessinsider.com/microsofts-data-governance-service-tackles-complex-privacy-landscape-2020-12"
+title: "ACTS Has Earned the Windows Server and SQL Server Migration to Microsoft Azure Advanced Specialization"
+excerpt: "PRNewswire/ -- Today ACTS (  ) announced it has earned the Windows Server and SQL Server Migration to Microsoft Azure advanced specialization, a validation of a solution partner's deep knowledge, extensive experience and expertise in migrating Windows Server and SQL Server-based workloads to Azure."
+publishedDateTime: 2020-12-10T13:31:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/acts-has-earned-the-windows-server-and-sql-server-migration-to-microsoft-azure-advanced-specialization-301189907.html"
+webUrl: "https://www.prnewswire.com/news-releases/acts-has-earned-the-windows-server-and-sql-server-migration-to-microsoft-azure-advanced-specialization-301189907.html"
 type: article
-quality: 71
+quality: 38
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Azure
+  - Migration
 
 images:
-  - url: "https://i.insider.com/5fce3b9deadd8400183df6ee?width=1200&format=jpeg"
-    width: 1200
+  - url: "https://mma.prnewswire.com/media/1362265/Azure_Specialization_Press_Release_Image.jpg?p=facebook"
+    width: 1146
     height: 600
     isCached: true
 
@@ -43,6 +40,20 @@ related:
       - url: "https://cdn.mos.cms.futurecdn.net/9v2cYY3QaQvXNuTdL4DeSF-1200-80.jpg"
         width: 971
         height: 545
+        isCached: true
+  - title: "Microsoft's Azure Purview data governance service will help enterprises manage data"
+    excerpt: "Microsoft's Azure Purview is a new cloud-based service that will help enterprises manage data and support compliance and data privacy regulations."
+    publishedDateTime: 2020-12-07T16:04:00Z
+    webUrl: "https://www.businessinsider.com/microsofts-data-governance-service-tackles-complex-privacy-landscape-2020-12"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 71
+    images:
+      - url: "https://i.insider.com/5fce3b9deadd8400183df6ee?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Microsoft introduces steps to improve internet routing security"
     excerpt: "The internet runs on the Border Gateway Protocol (BGP). A network or autonomous system (AS) is bound to trust, accept, and propagate the routes advertised by its peers without questioning its provenance. "
@@ -133,20 +144,6 @@ related:
       - url: "https://i.insider.com/5fcabc41037cbd00186140ed?width=700"
         width: 700
         height: 525
-        isCached: true
-  - title: "ACTS Has Earned the Windows Server and SQL Server Migration to Microsoft Azure Advanced Specialization"
-    excerpt: "PRNewswire/ -- Today ACTS (  ) announced it has earned the Windows Server and SQL Server Migration to Microsoft Azure advanced specialization, a validation of a solution partner's deep knowledge, extensive experience and expertise in migrating Windows Server and SQL Server-based workloads to Azure."
-    publishedDateTime: 2020-12-10T13:31:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/acts-has-earned-the-windows-server-and-sql-server-migration-to-microsoft-azure-advanced-specialization-301189907.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 38
-    images:
-      - url: "https://mma.prnewswire.com/media/1362265/Azure_Specialization_Press_Release_Image.jpg?p=facebook"
-        width: 1146
-        height: 600
         isCached: true
   - title: "Mavenir’s RCS Business Messaging Solution Available in Microsoft Azure"
     excerpt: "today announced that its RCS Business Messaging Solution is available to deploy globally from Microsoft Azure. The current Covid-19 pandemic has forced businesses to accelerate their digital ..."
@@ -332,6 +329,6 @@ related:
         height: 1024
         isCached: true
 
-secured: "Kypl8Bp2g0fdgyztv4yE+nKYbH/v8O9FcbOcuSWHNNJGudF9lCL59/HxzYpRBfyRLzi88qaU29YApdY1r2awYw4S9w8tYuqt+fcu2UFoj3Gwu9App+eiENTQs5cKphlapSTlABqjV1PqDNZIGJTECxANOgkMiINcm8X3muxoEKu6sjlMsQfmL3qQkM722dWa5q5SJ85B1M5LlCLu2xACczsc3TD4fGaNxZUrSahcWkGMTN99OQUYru5W/gZn+LVHjUn6Xir0dZ2qcXRlXoID9rk17Dx9e7lEJ+Mkhmg8AaZ8lMVZQcA8eAC2A+3kTMiOfNhUfdNI397jGq29UEwdwyUlPExbWqOwcfuNRuTcJBSuZ38wyHnpdawND2qiJWNE7t7Xw74JjDP4hW7ssKKDGatn+hpeMJHLwwp2IGmeQTZYAnhz/Ec/3XscDpL66xDlb9y9OZrVcHY944/TIRAuzPdgvERJdnuL9867lnTsYT1WeM+e3WlMAe369vBU5CYsTJQu8LQuMrBurcoVv3GbOQ==;azG1INlFw1OlBjqsZTFg6g=="
+secured: "xYZLDoVQHlSMypTPH33m4y5wY5lHE4577HfnABXMw5E8PLtSBmNZUw6PTFEDSKuPXu4iQQK2nfKUxylBKS0D3BUb8+1vzwZ3+utS8E6QgBfXAagdsKXSo5YJpEZ+dif6jq+6iVnTjSY0PGe1gR5Ffk5J3IA1UDJpJFk3bVID8PiZzlFypVvb0iX0s+y8I004TaXInbI81Dx05qQx23IsNEhY0bM6I83abi86iK7UCKivcufEQMq19tFDWRVYq/NwNskEHRio38pa1+L3b5MXKhdA+rlXz8o1b0/W+Xg8VQXABLCFCt+iC89QXtfB8rwK+LCIq+cPW/myhuCV9v0XxsK7oOz6RvpbdwpZo6q6zKE=;tixAK7IDyce9AKPzF06rPg=="
 ---
 
