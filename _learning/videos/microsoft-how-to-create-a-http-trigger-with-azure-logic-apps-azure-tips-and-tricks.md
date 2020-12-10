@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT2M4S
 publishedDateTime: 2018-11-13T18:57:14Z
-heat: 52
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/oIwDgJPmVCg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -27,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "M8E1S4z44kxmYmNL/Kx/8DieuC3dcibgxK+3aLdf5GGN3X+EhoZU420BuvPkMV9JyNItLGd0iWlin7lH2nCQpOmkCvvWRTm/fLHOrtOyFEbcujL2mj3L20PrS85tmJq7uyZKC1V0oLa2TeLIini67zW/7RhGarhsfWUWVYNU8DRU59Qgi9fqUiQGIxTNwUeAhLyqsc+0E6QTv5Ud41DJm4+Gp5H4qJ26M+nO4jhMhJdwD5VeolJytZRZblx2R2N7aPpVC+kgGv1CNPN8YLTeVAbNsHvNbBgTWcHVF6mWR/CX4EMci4XjeWKzNYfS33Nu3vyXqMchBd0PahHIvrnyxoSpUdO10KJw5GTV+++L6gXJ7MUh8jCmyRAmpAjepXmTQ2EJi2jhqVQrzCBZpyRMSLDfnS9CseHkM4dbuXtGB3c=;YzXKy3NqbTTVtwC4XLDAHg=="
+secured: "Yuk/HPW96/zoolyx+VTfLDY7s2LnUx8k1ejCuJLnXExLRaZ0u4xc6XCggjaORcHnFgWCuVZ5fts8wfNOq7zOh2PVJaPiF0XgWStDviJZa7UoyczhzVfPk5St/PEyuy2PkVw/ZQdux6i+/Z2zq0MnFgN//7OvdGlfFmdUIEb3CnA0fQiYhmL06gZlopIQuRcnLfVeAzEfBG8MH8TnBYfrVGcV+FSORucJZjt3fuFVq+nfN+lGO0JvOYh53ZT7kqmWqMgehcRAzPl6QsDW6vjiofZ6umxLkKPwrjQrQp7bV5avwEe6e+Qucgc2eu57XQO2xJB+ySO+WiHk/nigQZkHQhrYf2Gx4mCS90mYYAzmbOmEApW1Gm7011A0NUU/gVcm78V5bo0LRDfw3WnPc/o/Z+sMsVR/FZQzdVCRAOkZHJQ=;T4JoVy0Cfr/BAw3IwF0iRA=="
 ---
 
