@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/azure-digital-twins-now-generally
 webUrl: "https://azure.microsoft.com/blog/azure-digital-twins-now-generally-available-create-iot-solutions-that-model-the-real-world/"
 type: article
 quality: 94
-heat: 194
+heat: 214
 published: true
 
 provider:
@@ -60,6 +60,15 @@ related:
     excerpt: "Azure Data Factory is now available in five new regions: Switzerland North, Japan West, Canada East, Germany West Central, and UK West."
     publishedDateTime: 2020-12-09T17:52:12Z
     webUrl: "https://azure.microsoft.com/en-us/updates/azure-data-factory-is-now-available-in-six-new-regions/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
+  - title: "Azure Databricks now generally available in the Azure China region"
+    excerpt: "The availability of Azure Databricks in China enables global enterprises to provide a consistent experience for customers in this region."
+    publishedDateTime: 2020-12-10T17:00:12Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-databricks-now-generally-available-in-the-azure-china-region/"
     type: article
     provider:
       name: Microsoft

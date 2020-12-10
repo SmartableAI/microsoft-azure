@@ -270,6 +270,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "DataON announces availability of integrated systems for Microsoft Azure Stack HCI"
+    excerpt: "DataON is one of the first Microsoft partners to offer integrated systems for Azure Stack HCI. ANAHEIM, Calif. (PRWEB) DataON, an industry-leading provider"
+    publishedDateTime: 2020-12-10T17:17:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/12/p18737523/dataon-announces-availability-of-integrated-systems-for-microsoft-azure-stack-hci"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/18737523"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18737523"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 32
   - title: "Exoprise Office 365 Monitoring App Now Available in the Microsoft Azure Marketplace"
     excerpt: "PRNewswire/ -- Exoprise, a leading provider of software-as-a-service (SaaS) and Office 365 monitoring, today announced the availability of its"
     publishedDateTime: 2020-12-01T15:58:00Z

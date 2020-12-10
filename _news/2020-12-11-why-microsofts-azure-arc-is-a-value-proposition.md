@@ -256,6 +256,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "DataON announces availability of integrated systems for Microsoft Azure Stack HCI"
+    excerpt: "DataON is one of the first Microsoft partners to offer integrated systems for Azure Stack HCI. ANAHEIM, Calif. (PRWEB) DataON, an industry-leading provider"
+    publishedDateTime: 2020-12-10T17:17:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/12/p18737523/dataon-announces-availability-of-integrated-systems-for-microsoft-azure-stack-hci"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/18737523"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18737523"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 32
   - title: "Exoprise Office 365 Monitoring App Now Available in the Microsoft Azure Marketplace"
     excerpt: "PRNewswire/ -- Exoprise, a leading provider of software-as-a-service (SaaS) and Office 365 monitoring, today announced the availability of its"
     publishedDateTime: 2020-12-01T15:58:00Z
@@ -342,6 +353,6 @@ related:
         height: 1024
         isCached: true
 
-secured: "ew4JVpniE21s7v9B+JBy9sDORAVHdt8vfGKWtU+I8LfRvFPFyZi9TqZ6ixDz5uTQ3SLomxaXStlmGxCyxCoSR6iGYqDnDNDNKm4ikOak0i6rP8CG1FerpO7sVwXCdvoaG50GPQhykAUbMzcKPRMipmTiruMvr+zYITlo+eOzplRHy6i6WaT8yhTUrT65/lGIw6rH+ERMWiqow1nSO13sANWcJWJPiRh4+pwiHXVW5VBWZ57QQFG59qjo8OFPQiWuqE4qPZNRmFadgxAc+Zm4dbHQuN8vYBo14Tjpfltm6YHizp6eeVXn7O0Iqh0m/4kjehPDhMTtinMMugnSLzZh2YljHy618Zco85R/3jV+WcI=;fZVo1qBTsGIN7phr/8aqLg=="
+secured: "B/kJV+qq8nLZiQRW4HNi2Sv31n3numtylPC/MJC3Eggd9Zfhy4ELEtQx310tyxLEi3o2r5J2Z2Bh4R+cYh7gnkgGUWVEJ8CMPYvi4rLhqBJjljXQYnpyWXds6ufZgBkmtvhAv37p36ehQBTzHSwt1bUcnvMnmNGofMOfGtEo+TTsuIhMPDLy1sVwvsC0/0XHvCTZ7rPoqSTfVOL46F4NogZ4l5YNxFshtwx7HjPTJWorMzw3RhvQM68HJEvGco0zExnaAgB+241ymjpZE9yro0KxFTEP4DMlD2HMTtVx9zLvo6Vpd+4qiNbkQ29q79AM8QoOpk/MWoFILRx31E7uCiAygNzwtvJFAcUznwsHB6b6gCcZsbt/3gCNr0BdLNmrnqJQ292P9Vc3PzMpgaVcsXYMbmJcux4KLlKIva4SBWWRsmG02BXl26/zi+H8WtuBNq3p9JMLbBpQ7WHixQi4oNdzs4b5nByYNUt1ufhSWTb06rC1HWxsW6/3IL8QH3KDf78dt0hXuejwdjgwtlNkRg==;k80xWXf+cg1Vyd5V9lbgpA=="
 ---
 

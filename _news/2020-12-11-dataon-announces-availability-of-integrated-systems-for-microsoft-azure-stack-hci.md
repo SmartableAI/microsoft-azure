@@ -1,27 +1,23 @@
 ---
 category: news
-title: "Microsoft announces Azure data center region in Denmark"
-excerpt: "Microsoft has announced a data center region for its Azure cloud services in Denmark. The announcement follows the establishment of two regions in Norway, and comes after the company started work on a data center in Sweden."
-publishedDateTime: 2020-12-08T16:29:00Z
-originalUrl: "https://www.datacenterdynamics.com/en/news/microsoft-announces-azure-data-center-region-denmark/"
-webUrl: "https://www.datacenterdynamics.com/en/news/microsoft-announces-azure-data-center-region-denmark/"
+title: "DataON announces availability of integrated systems for Microsoft Azure Stack HCI"
+excerpt: "DataON is one of the first Microsoft partners to offer integrated systems for Azure Stack HCI. ANAHEIM, Calif. (PRWEB) DataON, an industry-leading provider"
+publishedDateTime: 2020-12-10T17:17:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/20/12/p18737523/dataon-announces-availability-of-integrated-systems-for-microsoft-azure-stack-hci"
+webUrl: "https://www.benzinga.com/pressreleases/20/12/p18737523/dataon-announces-availability-of-integrated-systems-for-microsoft-azure-stack-hci"
+ampWebUrl: "https://amp.benzinga.com/amp/content/18737523"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18737523"
 type: article
-quality: 37
+quality: 32
 heat: -1
 published: false
 
 provider:
-  name: Datacenter Dynamics
-  domain: datacenterdynamics.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Azure
-
-images:
-  - url: "https://media.datacenterdynamics.com/media/images/architecture-2287327_1920.2e16d0ba.fill-1200x630.jpg"
-    width: 1200
-    height: 630
-    isCached: true
 
 related:
   - title: "Microsoft just stress-tested its most powerful Azure node in a pretty fun way"
@@ -214,6 +210,20 @@ related:
         width: 742
         height: 649
         isCached: true
+  - title: "Microsoft announces Azure data center region in Denmark"
+    excerpt: "Microsoft has announced a data center region for its Azure cloud services in Denmark. The announcement follows the establishment of two regions in Norway, and comes after the company started work on a data center in Sweden."
+    publishedDateTime: 2020-12-08T16:29:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/microsoft-announces-azure-data-center-region-denmark/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 37
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/architecture-2287327_1920.2e16d0ba.fill-1200x630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Why Microsoft’s Azure Arc Is A ‘Value Proposition’"
     excerpt: "CRN looks at the value proposition of Microsoft’s Azure Arc, a set of technologies that brings Azure’s cloud management capabilities and services to customers’ on-premises, multi-cloud and multi-edge environments."
     publishedDateTime: 2020-12-10T16:14:00Z
@@ -256,17 +266,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "DataON announces availability of integrated systems for Microsoft Azure Stack HCI"
-    excerpt: "DataON is one of the first Microsoft partners to offer integrated systems for Azure Stack HCI. ANAHEIM, Calif. (PRWEB) DataON, an industry-leading provider"
-    publishedDateTime: 2020-12-10T17:17:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/12/p18737523/dataon-announces-availability-of-integrated-systems-for-microsoft-azure-stack-hci"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/18737523"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18737523"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 32
   - title: "Exoprise Office 365 Monitoring App Now Available in the Microsoft Azure Marketplace"
     excerpt: "PRNewswire/ -- Exoprise, a leading provider of software-as-a-service (SaaS) and Office 365 monitoring, today announced the availability of its"
     publishedDateTime: 2020-12-01T15:58:00Z
@@ -353,6 +352,6 @@ related:
         height: 1024
         isCached: true
 
-secured: "M+dMyZCqzYGsmaZsAVdL6Gwi232WUajvXkdIc4JGHbyHrfp/+7EH7o/MmVarbdPn8GL49/+Q8Wv/dAQya6fOhEPFJK7Gn9le06dOo9URN/BrgN3xXKhTuMK82srmQR5wRzkAvokWVr3S54ffEQF2cOExXfMGpJ68cZHe5yacfkbDj6f6DeJFdUYWMqk69KnePzWmU5iaAXyaBVPi3Hrt3itL6yfw9uak9As2wpRuuMkFD4orn6EXIPv9i9H8tNXYUKDCe8/0T9Knx09Lmd5Wdy2lDcobuPyh9QB0chcm/Vbv8NcgqbILqz5QwnGbHT8cpslFBQ737zieFFzGn4eAVzfzTvHCRNWH0FdGPZ5hTcM=;WcN99zxmnLbCyLyp6lthuQ=="
+secured: "MUdqU83Wb7l1M5Kk0ibHHECxG4gFOUSyqu+lryHX4FKm1BO+0/gMZHb/pNLuMCXwsI6cf7JK9M59wP34eRVWNjYCKe7E4/cPcqXjtPKPaQm+yBJTBRSGNkTfXsKKHsMM8nAkW9uSrwiWpS5OlBtXtMUN479pAFM8l0plCBEf1lkQuPOlaIBEAO9chUmETuGY3LlT7AlsKuRblA+yOneTNzkz72G9oKOAGSfqdqkDPFj91HrW3yB7Apx6em+fqPAilFg/55OIFODPjZlrjvj3a7TJnJjhqXyhq/O9BI1AG2wlczkncS9K+HH2+YF6YIJWIyTFnQ7v2YsPhN9lGG8sHHECMNZF2JkCpsm7pp48SiY=;yO8GWbimIGvpXymbxFOFdw=="
 ---
 

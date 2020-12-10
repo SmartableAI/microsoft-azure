@@ -63,6 +63,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 76
+  - title: "Azure Databricks now generally available in the Azure China region"
+    excerpt: "The availability of Azure Databricks in China enables global enterprises to provide a consistent experience for customers in this region."
+    publishedDateTime: 2020-12-10T17:00:12Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-databricks-now-generally-available-in-the-azure-china-region/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
   - title: "Microsoft (MSFT) Makes Azure Digital Twins Generally Available"
     excerpt: "Azure Digital Twins modeling platform is in general release and is being integrated with an offering from Johnson Controls (JCI)."
     publishedDateTime: 2020-12-09T16:02:00Z

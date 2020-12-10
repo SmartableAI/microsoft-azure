@@ -1,12 +1,12 @@
 ---
 category: news
-title: "Java Azure Functions support on Linux is now generally available "
-excerpt: "Developers can now build and publish Java Azure Functions Apps on Linux."
-publishedDateTime: 2020-12-09T16:43:15Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/java-azure-functions-support-on-linux-is-now-generally-available/"
-webUrl: "https://azure.microsoft.com/en-us/updates/java-azure-functions-support-on-linux-is-now-generally-available/"
+title: "Azure Databricks now generally available in the Azure China region"
+excerpt: "The availability of Azure Databricks in China enables global enterprises to provide a consistent experience for customers in this region."
+publishedDateTime: 2020-12-10T17:00:12Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/azure-databricks-now-generally-available-in-the-azure-china-region/"
+webUrl: "https://azure.microsoft.com/en-us/updates/azure-databricks-now-generally-available-in-the-azure-china-region/"
 type: article
-quality: 84
+quality: 67
 heat: -1
 published: false
 
@@ -20,7 +20,6 @@ provider:
 
 topics:
   - Azure
-  - Serverless
 
 related:
   - title: "Azure Digital Twins now generally available: Create IoT solutions that model the real world"
@@ -46,6 +45,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 84
+  - title: "Java Azure Functions support on Linux is now generally available "
+    excerpt: "Developers can now build and publish Java Azure Functions Apps on Linux."
+    publishedDateTime: 2020-12-09T16:43:15Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/java-azure-functions-support-on-linux-is-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
   - title: "Infrastructure Encryption for Azure Monitor dedicated clusters now generally available"
     excerpt: "Customers using Azure Monitor dedicated cluster get high level of assurance that their data is secure with additional 256-bit AES encryption at the Azure Storage infrastructure level."
     publishedDateTime: 2020-12-09T17:00:16Z
@@ -59,15 +67,6 @@ related:
     excerpt: "Azure Data Factory is now available in five new regions: Switzerland North, Japan West, Canada East, Germany West Central, and UK West."
     publishedDateTime: 2020-12-09T17:52:12Z
     webUrl: "https://azure.microsoft.com/en-us/updates/azure-data-factory-is-now-available-in-six-new-regions/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 67
-  - title: "Azure Databricks now generally available in the Azure China region"
-    excerpt: "The availability of Azure Databricks in China enables global enterprises to provide a consistent experience for customers in this region."
-    publishedDateTime: 2020-12-10T17:00:12Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-databricks-now-generally-available-in-the-azure-china-region/"
     type: article
     provider:
       name: Microsoft
@@ -88,6 +87,6 @@ related:
         height: 4001
         isCached: true
 
-secured: "LuVOsh4qzYAwR21DX6lIWMPTIbNq3JzLLXqAgZ/qbxdKotLncn03SIosy369QtN6wtc9IE/8uWh3GD+9iucG77cg/+hSL3n2fu0nD7V38sJtVijSG7g931FZ8Jfn5NTx6fWXYe7VeX2qctw7qcgxoTQxa0Xfh2E/odUfzvI25FPr03slaJSIBWdp0LCyHkD0AR/bFXLmyvUgQ/RoLWWxBM1Rl8gedc/4PDaJ1IWnsVuu9jYlU91KcoUzYNwa4V3yRWS6uSWgtwul5WLWgUg6+7ScitNiHlltfXY9lnS8BFIKynmqkwRoM9NTFMkS8gjaD18LmLDeHxXddR0HlPwGqHUs/iG+fjQN8IiRECFq0VA=;XP8rYebWGmJkyDAEdO/4Bg=="
+secured: "yEl7Lj5GmR9Yby2sj3S1h+IVJr3NCphw6PrunMcI/Cwd9eNC5kb4fnMgqPeYFH6fa7Z0tGEISeDxCFspwzqE/2P+n+tIyS0kFNin6HJtVFs8GcvsnYJrbvabDekhC+MnuD8h44CkQ4f2pee1UMOQZBDv/h5G9+sYMwynJQ/Vv6zPqROA86llkHxpzdhTAQNfwC7SmB1YwZFtNfr6aMN2+ytjcofr+N6R7ty5yIQdWvTTDwXeQBY6TPbKzxq8IqRHMcn5YRLQaDHmaz+cXjBSjtn1VJD+xa3SSx6g7pyOBU1ok3QneuC4uuAbKjdJBOxDE0lFS6oTFZuVeiM69KMGgNTaHjK5LmdimTKlLsZ+FkI=;MOrzJTO+Trl1mAlTSxzGaQ=="
 ---
 
