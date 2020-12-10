@@ -158,6 +158,20 @@ related:
         width: 1146
         height: 600
         isCached: true
+  - title: "Ex-Microsoft Cloud Security Head Debuts Startup Wiz With $100M In Funding"
+    excerpt: "Cloud security startup Wiz emerged from stealth with an astronomical $100 million of funding just nine months after the founding team wrote its first line of code."
+    publishedDateTime: 2020-12-09T17:27:00Z
+    webUrl: "https://www.crn.com/news/security/ex-microsoft-cloud-security-head-debuts-startup-wiz-with-100m-in-funding"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 38
+    images:
+      - url: "https://www.crn.com/resources/0264-110cc4e677d0-0a90783eb386-1000/1603320546291.jpeg"
+        width: 799
+        height: 799
+        isCached: true
   - title: "Mavenir’s RCS Business Messaging Solution Available in Microsoft Azure"
     excerpt: "today announced that its RCS Business Messaging Solution is available to deploy globally from Microsoft Azure. The current Covid-19 pandemic has forced businesses to accelerate their digital ..."
     publishedDateTime: 2020-12-01T14:46:00Z
@@ -367,6 +381,6 @@ related:
       domain: microsoft.com
     quality: 17
 
-secured: "BJrxBYAUBPG5dl8vbdz0b6ehSmfISQ59PshvyH1DKSv+MhNDWi2jv8z8C6nhYDT0HBFN40o55aJkdAANcVpT+48WABnvdzV9RhT8xi2TkeKFlPuEvInCkxbZ1iHKqwhO52RhS0fXxktIZNsPOezyaEUB4kuvK4h0XmZwgEHGgHWBmt1JdRGfiKM/Xz5Hj0nWH9hIPcwexiT8d9EUlYbO+4TXY72WewY0x6Z/ueSBq/7AxqT8uJJEMjlbgJS1XSyj+uEM16n1Jn1edIJUdX7fvKGMhbAx+Ov2GG0qi1JBqOpS0RUcs/lr7ukhLbtISuPKgFSm3l/jsAY95vU00vYZUNvcRv6MdCXsXntAAcOxIW4=;HPk2Bxh2cX4/7G/L8Nfb0g=="
+secured: "abJ3A3MnBtiziV7LKbjUOIEfiaYMPWzNCoE2AbE9Axs1CLJIr/M3asNI3mfqG5ITtXIVb8dbUHbzpg7guegKcq5GikzeUY4I1tj9SafIS5oWazU4yruSxXv12uUVK1IBwmS5vHC8nqFTQNQZRu2R3rrHjzMYzV2Pgkw07YGSVmXNsJ0KUvH5+fMWaGlHGVV+Vswd5bXiTp4m3z/55BD6LrafJcyHv3cIOj6zvVMJUA6IRw06WCeRxRsSX5x5wfwYRZ83SaEwc4S1C2BLE6rKXQLPo742FdeAZgtQOaP2kxWlsqw9kWvjGqUQLNIMwXtXHsxuY5tIZS9jD4rZFzRwO5mJoyVAquNyKfY+TM1vNsY=;jCQHyzNt+pLUUPROu1Jrrw=="
 ---
 

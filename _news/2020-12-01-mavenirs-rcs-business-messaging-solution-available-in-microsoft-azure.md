@@ -158,6 +158,20 @@ related:
         width: 1146
         height: 600
         isCached: true
+  - title: "Ex-Microsoft Cloud Security Head Debuts Startup Wiz With $100M In Funding"
+    excerpt: "Cloud security startup Wiz emerged from stealth with an astronomical $100 million of funding just nine months after the founding team wrote its first line of code."
+    publishedDateTime: 2020-12-09T17:27:00Z
+    webUrl: "https://www.crn.com/news/security/ex-microsoft-cloud-security-head-debuts-startup-wiz-with-100m-in-funding"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 38
+    images:
+      - url: "https://www.crn.com/resources/0264-110cc4e677d0-0a90783eb386-1000/1603320546291.jpeg"
+        width: 799
+        height: 799
+        isCached: true
   - title: "Microsoft Azure Service Fabric 7.2 Fourth Refresh Release Notes"
     excerpt: "Service Fabric is a distributed systems platform for packaging, deploying, and managing stateless and stateful distributed applications and containers at large scale. - microsoft/service-fabric"
     publishedDateTime: 2020-12-03T09:25:20Z

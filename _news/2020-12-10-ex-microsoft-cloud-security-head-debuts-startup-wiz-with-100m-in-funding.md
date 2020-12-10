@@ -1,28 +1,27 @@
 ---
 category: news
-title: "Nadella takes a dig at Amazon as Microsoft unveils Azure Purview"
-excerpt: "Taking an apparent dig at Amazon and its Cloud arm AWS, Microsoft CEO Satya Nadella has said that it is important to not only trust a vendors technology capabilities but also its ‘business model alignment with its customers."
-publishedDateTime: 2020-12-04T08:41:00Z
-originalUrl: "https://www.sify.com/finance/nadella-takes-a-dig-at-amazon-as-microsoft-unveils-azure-purview-news-topnews-umegIohfjjjib.html"
-webUrl: "https://www.sify.com/finance/nadella-takes-a-dig-at-amazon-as-microsoft-unveils-azure-purview-news-topnews-umegIohfjjjib.html"
-ampWebUrl: "https://www.sify.com/finance/nadella-takes-a-dig-at-amazon-as-microsoft-unveils-azure-purview-news-topnews-umegIohfjjjib.html"
-cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/finance/nadella-takes-a-dig-at-amazon-as-microsoft-unveils-azure-purview-news-topnews-umegIohfjjjib.html"
+title: "Ex-Microsoft Cloud Security Head Debuts Startup Wiz With $100M In Funding"
+excerpt: "Cloud security startup Wiz emerged from stealth with an astronomical $100 million of funding just nine months after the founding team wrote its first line of code."
+publishedDateTime: 2020-12-09T17:27:00Z
+originalUrl: "https://www.crn.com/news/security/ex-microsoft-cloud-security-head-debuts-startup-wiz-with-100m-in-funding"
+webUrl: "https://www.crn.com/news/security/ex-microsoft-cloud-security-head-debuts-startup-wiz-with-100m-in-funding"
 type: article
-quality: 57
+quality: 38
 heat: -1
 published: false
 
 provider:
-  name: Sify.com
-  domain: sify.com
+  name: CRN
+  domain: crn.com
 
 topics:
   - Azure
+  - Security
 
 images:
-  - url: "https://www.sify.com/uploads/satya_nadella_microsoft_ap_ul3hPHcfcijca.jpeg"
-    width: 900
-    height: 450
+  - url: "https://www.crn.com/resources/0264-110cc4e677d0-0a90783eb386-1000/1603320546291.jpeg"
+    width: 799
+    height: 799
     isCached: true
 
 related:
@@ -74,6 +73,22 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
+  - title: "Nadella takes a dig at Amazon as Microsoft unveils Azure Purview"
+    excerpt: "Taking an apparent dig at Amazon and its Cloud arm AWS, Microsoft CEO Satya Nadella has said that it is important to not only trust a vendors technology capabilities but also its ‘business model alignment with its customers."
+    publishedDateTime: 2020-12-04T08:41:00Z
+    webUrl: "https://www.sify.com/finance/nadella-takes-a-dig-at-amazon-as-microsoft-unveils-azure-purview-news-topnews-umegIohfjjjib.html"
+    ampWebUrl: "https://www.sify.com/finance/nadella-takes-a-dig-at-amazon-as-microsoft-unveils-azure-purview-news-topnews-umegIohfjjjib.html"
+    cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/finance/nadella-takes-a-dig-at-amazon-as-microsoft-unveils-azure-purview-news-topnews-umegIohfjjjib.html"
+    type: article
+    provider:
+      name: Sify.com
+      domain: sify.com
+    quality: 57
+    images:
+      - url: "https://www.sify.com/uploads/satya_nadella_microsoft_ap_ul3hPHcfcijca.jpeg"
+        width: 900
+        height: 450
+        isCached: true
   - title: "Cyber Security Cloud Launches WafCharm on Microsoft Azure"
     excerpt: "Cyber Security Cloud, Inc. (CSC) is pleased to announce the availability of WafCharm on Microsoft Azure. Already available to over one million Amazon AWS users around the world, this launch provides Azure users with AI operation of Web Application Firewall (WAF) rules,"
     publishedDateTime: 2020-12-01T13:01:00Z
@@ -143,20 +158,6 @@ related:
       - url: "https://mma.prnewswire.com/media/1362265/Azure_Specialization_Press_Release_Image.jpg?p=facebook"
         width: 1146
         height: 600
-        isCached: true
-  - title: "Ex-Microsoft Cloud Security Head Debuts Startup Wiz With $100M In Funding"
-    excerpt: "Cloud security startup Wiz emerged from stealth with an astronomical $100 million of funding just nine months after the founding team wrote its first line of code."
-    publishedDateTime: 2020-12-09T17:27:00Z
-    webUrl: "https://www.crn.com/news/security/ex-microsoft-cloud-security-head-debuts-startup-wiz-with-100m-in-funding"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 38
-    images:
-      - url: "https://www.crn.com/resources/0264-110cc4e677d0-0a90783eb386-1000/1603320546291.jpeg"
-        width: 799
-        height: 799
         isCached: true
   - title: "Mavenir’s RCS Business Messaging Solution Available in Microsoft Azure"
     excerpt: "today announced that its RCS Business Messaging Solution is available to deploy globally from Microsoft Azure. The current Covid-19 pandemic has forced businesses to accelerate their digital ..."
@@ -381,6 +382,6 @@ related:
         height: 1024
         isCached: true
 
-secured: "9moIqiGgZ89iZnaX1oLQkWxPhZPTW9MJJs6s3UjV+Zyw9MaJ+STQzW/JLIoFPclt6txQK/6WXCMfPGBYMmf+PYpaFlsQmz+V3Li4BtQQABzOPpCQ1ErPxa4YFPiAXaW1AoLuQPpURCOPrmKPX+js6xNOY6p91MsdNTg0E3UUm1tc76JslU+TeWKZiBhsShrI965+agYd1brKiHXwQnT8rwOVGp6T8Wdxbu23JKZqq51A+Ae2ZQB5xtwWi3j5/C2te4TXk4+xa7oFLyFFqe0HIvwPRQ77Tvv7faTUgUFhGe0WZnDPezTo8W3iKRPYtFslECiYIRbFWa4LMmSbXuLHU2gTJtmZEie4Pxk4DnHPhqY=;7mKaz+uzsBP1hkCVbX7MnA=="
+secured: "zwLQ9hTMmdfAZx8cIkU1WJwKEvvI0qDr4+VcyAqLWaBTZfJ7P98NdXVfq6Yg6rR7kkr+mId6EkzlIvWF/RUP5rdUIj/9TFrKaZph/rLf4dU4SKWxcmxj3fSYfrbYacYkX3R0AU9hQ0kfi3dLQInePXyVQKjXdcV5SbkF8uBOX0uxaVOqspCTOYXZLqAob+nkrvWDJP8UguF3g2QrFW0On6y55AeJs7aSxylX+icDBA5ZNzM1QrAQGgMW13q+idhIVX5Ht1qsbqlm/thE3mSdxZBTvvZh6UzspkalvuQXqjq21ejlJ30xx3LW/BnLYgYGqWTY4qCixbmvlu0SQ845qO4PJMZAnVFXCZAHjhV/vuI=;g97G4DyJW4E30yKTfk6ZPQ=="
 ---
 
