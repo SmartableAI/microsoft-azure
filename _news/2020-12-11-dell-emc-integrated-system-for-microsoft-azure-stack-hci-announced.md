@@ -1,26 +1,26 @@
 ---
 category: news
-title: "Exoprise Office 365 Monitoring App Now Available in the Microsoft Azure Marketplace"
-excerpt: "PRNewswire/ -- Exoprise, a leading provider of software-as-a-service (SaaS) and Office 365 monitoring, today announced the availability of its"
-publishedDateTime: 2020-12-01T15:58:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/exoprise-office-365-monitoring-app-now-available-in-the-microsoft-azure-marketplace-301182861.html"
-webUrl: "https://www.prnewswire.com/news-releases/exoprise-office-365-monitoring-app-now-available-in-the-microsoft-azure-marketplace-301182861.html"
+title: "Dell EMC Integrated System for Microsoft Azure Stack HCI Announced"
+excerpt: "Dell Tech updated its Dell EMC for Microsoft Azure Stack portfolio with the Dell EMC Integrated System for Microsoft Azure Stack HCI."
+publishedDateTime: 2020-12-10T19:40:00Z
+originalUrl: "https://www.storagereview.com/news/dell-emc-integrated-system-for-microsoft-azure-stack-hci-announced"
+webUrl: "https://www.storagereview.com/news/dell-emc-integrated-system-for-microsoft-azure-stack-hci-announced"
 type: article
-quality: 31
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: StorageReview
+  domain: storagereview.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://mma.prnewswire.com/media/1020851/exoprise_Logo.jpg?p=facebook"
-    width: 1024
-    height: 536
+  - url: "https://www.storagereview.com/wp-content/plugins/instagram-feed/img/placeholder.png"
+    width: 1000
+    height: 560
     isCached: true
 
 related:
@@ -228,20 +228,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Dell EMC Integrated System for Microsoft Azure Stack HCI Announced"
-    excerpt: "Dell Tech updated its Dell EMC for Microsoft Azure Stack portfolio with the Dell EMC Integrated System for Microsoft Azure Stack HCI."
-    publishedDateTime: 2020-12-10T19:40:00Z
-    webUrl: "https://www.storagereview.com/news/dell-emc-integrated-system-for-microsoft-azure-stack-hci-announced"
-    type: article
-    provider:
-      name: StorageReview
-      domain: storagereview.com
-    quality: 37
-    images:
-      - url: "https://www.storagereview.com/wp-content/plugins/instagram-feed/img/placeholder.png"
-        width: 1000
-        height: 560
-        isCached: true
   - title: "Why Microsoft’s Azure Arc Is A ‘Value Proposition’"
     excerpt: "CRN looks at the value proposition of Microsoft’s Azure Arc, a set of technologies that brings Azure’s cloud management capabilities and services to customers’ on-premises, multi-cloud and multi-edge environments."
     publishedDateTime: 2020-12-10T16:14:00Z
@@ -295,6 +281,20 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 32
+  - title: "Exoprise Office 365 Monitoring App Now Available in the Microsoft Azure Marketplace"
+    excerpt: "PRNewswire/ -- Exoprise, a leading provider of software-as-a-service (SaaS) and Office 365 monitoring, today announced the availability of its"
+    publishedDateTime: 2020-12-01T15:58:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/exoprise-office-365-monitoring-app-now-available-in-the-microsoft-azure-marketplace-301182861.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 31
+    images:
+      - url: "https://mma.prnewswire.com/media/1020851/exoprise_Logo.jpg?p=facebook"
+        width: 1024
+        height: 536
+        isCached: true
   - title: "Exoprise Office 365 Monitoring App Now Available in the Microsoft Azure Marketplace"
     excerpt: "PRNewswire/ -- Exoprise, a leading provider of software-as-a-service (SaaS) and Office 365 monitoring, today announced the availability of its CloudReady solution in the Microsoft Azure Marketplace, an online store that provides applications and services for use on Azure."
     publishedDateTime: 2020-12-01T18:20:00Z
@@ -367,6 +367,6 @@ related:
         height: 1024
         isCached: true
 
-secured: "GwBhCNrEZxkbPWUnKyZaqVAbhGJcztDRDrws+hW7/+HVnZoY7HYbAAmEnvdiu8DtrAq9JbILJgfCdi6kt6dqrHSCJNYPFeCLnXbpkiBpBc/89x3POrjiIMsIwxF4GuI8ImFmKcbcQrW64uvPiKSNfJLFAy7/2mVv9N1jxFTihfRwk2+NEhVZkHiJHS2XcZiC7OrVl6+zLOKBPo2T0FdldzDJN6lFuIQ7SWoxLiyPUX6+pOGFd5N4Db1Gz63EsK4qXfNqj5fmS3uVGD9cOVXjjjZAIwAgT35fjaCrJjfOg3wsS5xZG0ne1IEKkgVy9WuBqTVym+0J6vAckHoAshCtoHUUMnGK2CJ6ZhXHkNh3oZo=;gPoD85FlTleZElFrOOnWjQ=="
+secured: "WFyD+3BGfhAcHuIy9cZTmSOD0JsFcgF4UDdnFS+1C3c5MPCHMsECaDFpCz9tQ0Ns30ivj7+PtCzz4jTup2brafGrNnVMYnDCrwdl2Y3JJMo0qafrgXWxW6xh/h8hQFSqE+bE/Uz5xJP04RIxx7yrfU5GbaX1FtgxNgD38L6NaOOxUmimi1oT6QSxj10ZlPB2LXBUdjQdLLnDvaTuqWZU90b5ga5e2R9dmhwQI3RP21cfdoYAzoj90Qsd4ncOJuZzFZPal60veJrWSlDzZinCs37a4QQrsBQlrJ7iBooP+hL5Z7Bl/oYIY4PLHtbnuDM4mh4wh56+xar4CIfWFevm5ontAuojCyNPLLWjpJY4Q1s=;+VkeM1X5TcQ5b7gafoGrgw=="
 ---
 

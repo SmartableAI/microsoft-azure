@@ -228,6 +228,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Dell EMC Integrated System for Microsoft Azure Stack HCI Announced"
+    excerpt: "Dell Tech updated its Dell EMC for Microsoft Azure Stack portfolio with the Dell EMC Integrated System for Microsoft Azure Stack HCI."
+    publishedDateTime: 2020-12-10T19:40:00Z
+    webUrl: "https://www.storagereview.com/news/dell-emc-integrated-system-for-microsoft-azure-stack-hci-announced"
+    type: article
+    provider:
+      name: StorageReview
+      domain: storagereview.com
+    quality: 37
+    images:
+      - url: "https://www.storagereview.com/wp-content/plugins/instagram-feed/img/placeholder.png"
+        width: 1000
+        height: 560
+        isCached: true
   - title: "Microsoft Azure Creates Top Secret Government Cloud As JEDI Battle Rages On"
     excerpt: "Microsoft Azure’s new Government Top Secret cloud meets the Department of Defense JEDI cloud contract requirement of commercial parity."
     publishedDateTime: 2020-12-08T10:10:00Z

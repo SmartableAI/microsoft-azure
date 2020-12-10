@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techradar.com/uk/amp/news/microsoft-just-stress-tested-i
 cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/uk/amp/news/microsoft-just-stress-tested-its-most-powerful-azure-node-in-a-pretty-fun-way"
 type: article
 quality: 94
-heat: 596
+heat: 616
 published: true
 
 provider:
@@ -217,6 +217,20 @@ related:
       - url: "https://media.datacenterdynamics.com/media/images/architecture-2287327_1920.2e16d0ba.fill-1200x630.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Dell EMC Integrated System for Microsoft Azure Stack HCI Announced"
+    excerpt: "Dell Tech updated its Dell EMC for Microsoft Azure Stack portfolio with the Dell EMC Integrated System for Microsoft Azure Stack HCI."
+    publishedDateTime: 2020-12-10T19:40:00Z
+    webUrl: "https://www.storagereview.com/news/dell-emc-integrated-system-for-microsoft-azure-stack-hci-announced"
+    type: article
+    provider:
+      name: StorageReview
+      domain: storagereview.com
+    quality: 37
+    images:
+      - url: "https://www.storagereview.com/wp-content/plugins/instagram-feed/img/placeholder.png"
+        width: 1000
+        height: 560
         isCached: true
   - title: "Why Microsoft’s Azure Arc Is A ‘Value Proposition’"
     excerpt: "CRN looks at the value proposition of Microsoft’s Azure Arc, a set of technologies that brings Azure’s cloud management capabilities and services to customers’ on-premises, multi-cloud and multi-edge environments."
