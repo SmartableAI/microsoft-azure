@@ -228,6 +228,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Why Microsoft’s Azure Arc Is A ‘Value Proposition’"
+    excerpt: "CRN looks at the value proposition of Microsoft’s Azure Arc, a set of technologies that brings Azure’s cloud management capabilities and services to customers’ on-premises, multi-cloud and multi-edge environments."
+    publishedDateTime: 2020-12-10T16:14:00Z
+    webUrl: "https://www.crn.com/slide-shows/cloud/why-microsoft-s-azure-arc-is-a-value-proposition-"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 37
+    images:
+      - url: "https://www.crn.com/resources/0264-110ea09b76c2-ca31b6f7d3df-1000/microsoft-azure-sign.jpg"
+        width: 609
+        height: 456
+        isCached: true
   - title: "Microsoft Launches New Data Governance Service Azure Purview in Public Preview"
     excerpt: "Microsoft announced a new data governance solution in public preview on its cloud platform called Azure Purview. This new service automates the discovery of data and cataloging while minimizing compliance risk and helps customers map all their data,"
     publishedDateTime: 2020-12-09T15:12:00Z

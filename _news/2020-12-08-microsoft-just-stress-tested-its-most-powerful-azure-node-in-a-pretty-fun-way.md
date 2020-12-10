@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techradar.com/uk/amp/news/microsoft-just-stress-tested-i
 cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/uk/amp/news/microsoft-just-stress-tested-its-most-powerful-azure-node-in-a-pretty-fun-way"
 type: article
 quality: 94
-heat: 556
+heat: 576
 published: true
 
 provider:
@@ -217,6 +217,20 @@ related:
       - url: "https://media.datacenterdynamics.com/media/images/architecture-2287327_1920.2e16d0ba.fill-1200x630.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Why Microsoft’s Azure Arc Is A ‘Value Proposition’"
+    excerpt: "CRN looks at the value proposition of Microsoft’s Azure Arc, a set of technologies that brings Azure’s cloud management capabilities and services to customers’ on-premises, multi-cloud and multi-edge environments."
+    publishedDateTime: 2020-12-10T16:14:00Z
+    webUrl: "https://www.crn.com/slide-shows/cloud/why-microsoft-s-azure-arc-is-a-value-proposition-"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 37
+    images:
+      - url: "https://www.crn.com/resources/0264-110ea09b76c2-ca31b6f7d3df-1000/microsoft-azure-sign.jpg"
+        width: 609
+        height: 456
         isCached: true
   - title: "Microsoft Azure Creates Top Secret Government Cloud As JEDI Battle Rages On"
     excerpt: "Microsoft Azure’s new Government Top Secret cloud meets the Department of Defense JEDI cloud contract requirement of commercial parity."

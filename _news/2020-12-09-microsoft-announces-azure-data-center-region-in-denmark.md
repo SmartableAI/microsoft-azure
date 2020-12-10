@@ -214,6 +214,20 @@ related:
         width: 742
         height: 649
         isCached: true
+  - title: "Why Microsoft’s Azure Arc Is A ‘Value Proposition’"
+    excerpt: "CRN looks at the value proposition of Microsoft’s Azure Arc, a set of technologies that brings Azure’s cloud management capabilities and services to customers’ on-premises, multi-cloud and multi-edge environments."
+    publishedDateTime: 2020-12-10T16:14:00Z
+    webUrl: "https://www.crn.com/slide-shows/cloud/why-microsoft-s-azure-arc-is-a-value-proposition-"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 37
+    images:
+      - url: "https://www.crn.com/resources/0264-110ea09b76c2-ca31b6f7d3df-1000/microsoft-azure-sign.jpg"
+        width: 609
+        height: 456
+        isCached: true
   - title: "Microsoft Azure Creates Top Secret Government Cloud As JEDI Battle Rages On"
     excerpt: "Microsoft Azure’s new Government Top Secret cloud meets the Department of Defense JEDI cloud contract requirement of commercial parity."
     publishedDateTime: 2020-12-08T10:10:00Z

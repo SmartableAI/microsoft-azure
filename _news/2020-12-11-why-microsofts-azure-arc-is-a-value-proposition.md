@@ -1,26 +1,26 @@
 ---
 category: news
-title: "Microsoft Launches New Data Governance Service Azure Purview in Public Preview"
-excerpt: "Microsoft announced a new data governance solution in public preview on its cloud platform called Azure Purview. This new service automates the discovery of data and cataloging while minimizing compliance risk and helps customers map all their data,"
-publishedDateTime: 2020-12-09T15:12:00Z
-originalUrl: "https://www.infoq.com/news/2020/12/microsoft-azure-purview-preview/"
-webUrl: "https://www.infoq.com/news/2020/12/microsoft-azure-purview-preview/"
+title: "Why Microsoft’s Azure Arc Is A ‘Value Proposition’"
+excerpt: "CRN looks at the value proposition of Microsoft’s Azure Arc, a set of technologies that brings Azure’s cloud management capabilities and services to customers’ on-premises, multi-cloud and multi-edge environments."
+publishedDateTime: 2020-12-10T16:14:00Z
+originalUrl: "https://www.crn.com/slide-shows/cloud/why-microsoft-s-azure-arc-is-a-value-proposition-"
+webUrl: "https://www.crn.com/slide-shows/cloud/why-microsoft-s-azure-arc-is-a-value-proposition-"
 type: article
-quality: 33
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: InfoQ
-  domain: infoq.com
+  name: CRN
+  domain: crn.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://res.infoq.com/news/2020/12/microsoft-azure-purview-preview/en/headerimage/croppted-ms-azutre-purview-1607335922430.jpg"
-    width: 1200
-    height: 630
+  - url: "https://www.crn.com/resources/0264-110ea09b76c2-ca31b6f7d3df-1000/microsoft-azure-sign.jpg"
+    width: 609
+    height: 456
     isCached: true
 
 related:
@@ -228,20 +228,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Why Microsoft’s Azure Arc Is A ‘Value Proposition’"
-    excerpt: "CRN looks at the value proposition of Microsoft’s Azure Arc, a set of technologies that brings Azure’s cloud management capabilities and services to customers’ on-premises, multi-cloud and multi-edge environments."
-    publishedDateTime: 2020-12-10T16:14:00Z
-    webUrl: "https://www.crn.com/slide-shows/cloud/why-microsoft-s-azure-arc-is-a-value-proposition-"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 37
-    images:
-      - url: "https://www.crn.com/resources/0264-110ea09b76c2-ca31b6f7d3df-1000/microsoft-azure-sign.jpg"
-        width: 609
-        height: 456
-        isCached: true
   - title: "Microsoft Azure Creates Top Secret Government Cloud As JEDI Battle Rages On"
     excerpt: "Microsoft Azure’s new Government Top Secret cloud meets the Department of Defense JEDI cloud contract requirement of commercial parity."
     publishedDateTime: 2020-12-08T10:10:00Z
@@ -255,6 +241,20 @@ related:
       - url: "https://www.crn.com/resources/0264-1108feaab360-3f03b36b0abc-1000/pentagon-front.jpg"
         width: 610
         height: 457
+        isCached: true
+  - title: "Microsoft Launches New Data Governance Service Azure Purview in Public Preview"
+    excerpt: "Microsoft announced a new data governance solution in public preview on its cloud platform called Azure Purview. This new service automates the discovery of data and cataloging while minimizing compliance risk and helps customers map all their data,"
+    publishedDateTime: 2020-12-09T15:12:00Z
+    webUrl: "https://www.infoq.com/news/2020/12/microsoft-azure-purview-preview/"
+    type: article
+    provider:
+      name: InfoQ
+      domain: infoq.com
+    quality: 33
+    images:
+      - url: "https://res.infoq.com/news/2020/12/microsoft-azure-purview-preview/en/headerimage/croppted-ms-azutre-purview-1607335922430.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Exoprise Office 365 Monitoring App Now Available in the Microsoft Azure Marketplace"
     excerpt: "PRNewswire/ -- Exoprise, a leading provider of software-as-a-service (SaaS) and Office 365 monitoring, today announced the availability of its"
@@ -342,6 +342,6 @@ related:
         height: 1024
         isCached: true
 
-secured: "Kokf0U3ByBWoLs0FJnKg6k4Q4VNGKOgB6xriT7DMzBPR7A6P3KEc0BsMMyXo5dQnoU1k2is+Hmry91YdrdYmr21Zo+QQMhHu8B1Ub1XL54FqPclNoyOQeWhTLljHvipX9RlX1AsN6C/pcqkolc+/6GULHajFfVzB1ZKyv3IGsmEixrZPRzYyT2Z69pozsFzXo9f/Atr671C+txW9dZeATncV8RiTbD2tYY2lwf5lo9/xygt2HIcVIxF29XkKClhvYLGET1MaSm2FMJDew4FLA6fU6ai3dW67iERTT2rQuBuDTfuUBzJc6qY3XnAPXYrxI7ReAW+vaKS6w7VLwtp1/qxAdnBxfPncgEpYIfXjZ/Cg35zPc5+sKM763eDgucDSgdtDoSyxKzDqO0CofLfds70qsiqGkcXag+gCYBk/S5SzqMky8Iy2LVIY99LkFhGLqN48V5U89itWfMh4mIkgWcEESjNStLzWGbun6IKMr1daFCoJWxWKd3cz0nSRLxXElxz2oRKEHA7dXfnx23u4RA==;Wyt5UN2j8z3ENIxrp12Cpw=="
+secured: "ew4JVpniE21s7v9B+JBy9sDORAVHdt8vfGKWtU+I8LfRvFPFyZi9TqZ6ixDz5uTQ3SLomxaXStlmGxCyxCoSR6iGYqDnDNDNKm4ikOak0i6rP8CG1FerpO7sVwXCdvoaG50GPQhykAUbMzcKPRMipmTiruMvr+zYITlo+eOzplRHy6i6WaT8yhTUrT65/lGIw6rH+ERMWiqow1nSO13sANWcJWJPiRh4+pwiHXVW5VBWZ57QQFG59qjo8OFPQiWuqE4qPZNRmFadgxAc+Zm4dbHQuN8vYBo14Tjpfltm6YHizp6eeVXn7O0Iqh0m/4kjehPDhMTtinMMugnSLzZh2YljHy618Zco85R/3jV+WcI=;fZVo1qBTsGIN7phr/8aqLg=="
 ---
 
