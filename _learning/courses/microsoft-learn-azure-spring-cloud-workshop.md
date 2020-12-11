@@ -8,7 +8,7 @@ length: PT1H24M
 ratings:
   count: 250
   average: 4.352
-heat: 51
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -26,6 +26,6 @@ topics:
   - Compute
   - Web
 
-secured: "qtSp/qLjup9aJTQYdUeMWGkjBpUYxwEXfnaFRTSOsE7fgvbWNmKyYqZPm6Ol8EqaGWK1hl31/YYKxunf7qvuOHoGdcSbG4MUYuVHzTZMXMYlEuQL123TA5snuPC9k5P6Du35GogfbNYNNS8DjxTXlxuN0w16PAGAlmaGXtZf+IYOv3kNZHasx6ApmgWh1oMfJUngT8BeNKERjP9VxfdAvo26dmwHAFF9caSmb74GbPlZpNF18drq6MgU2MCrAUkWzPDI0h6PFhPr27c/P0qfOuAYBGKMMdilz4r4YfGEwU7mErafZ+fJcsrQxbSt7jOEBVbxTmaQHh9hPMoT4AyD6s9wBZe3Y2h7V0HQ1ENLx2AiZdLS2QMq3Bm8RFjjrougPi2d+pLhmOjyNOyIMzJnuWqi7Sj482X6q1+B/hgBMAA=;Ek4Bs4KqzqbOv5l6MSHe7Q=="
+secured: "svzgtbwK7ZBSR/gTazOS0z7DdVIrlwHORQmTFn17vvdmzChAYqjHrWUqFpkwLQOa/iQWWm62AMDExdCdOquodNnSMjcauoH7/w7YbQtKoXa9riqGswAjyMPAiGfGtMPzaSlAcfdnLntAnyPQwk7cY2gtSWXoRNCCZDpSvhG+si3FdOU/YJpOZ7KKoDz/NrG43bETVu4NLFVRx+PiQTC1keA52ixU/U8z5VD+frrTAAtBiHyQ7Ku7DnvGyeErVMKi25RrVxKAB1tZZVjTugubFPCpUGA+LvIXEvQAQmeWM/Mi5nnHLnv+DmMoNkGTxyBe2lYoY6aKrA7dpW89hY7WXrSz0AV9OPOe0OaQnaYw1RcK7Qzu4pav4LdOECbvYOTqIirccTltNRSaDDHIGHrkbXBGNl9+nUOS5qCmiTzGnrw=;N+Po0t9FlLbR/qaJ4Pp0AA=="
 ---
 

@@ -4,7 +4,7 @@ excerpt: "Learn how to protect and harden your virtual machines in Azure"
 type: collection
 price: Free
 length: PT6H4M
-heat: 69
+heat: 68
 
 provider:
   name: Microsoft Learn
