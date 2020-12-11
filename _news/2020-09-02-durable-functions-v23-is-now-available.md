@@ -81,6 +81,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 83
+  - title: "Azure Storage account recovery available via portal is now generally available"
+    excerpt: "Recover you deleted storage account directly from the portal."
+    publishedDateTime: 2020-12-11T01:06:28Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-storage-account-recovery-available-via-portal/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 80
   - title: "Azure Spring Cloud is now generally available"
     excerpt: "Azure Spring Cloud is a fully managed service for Spring Boot apps that lets you focus on building the apps that run your business without the hassle of managing infrastructure"
     publishedDateTime: 2020-09-02T16:00:04Z
