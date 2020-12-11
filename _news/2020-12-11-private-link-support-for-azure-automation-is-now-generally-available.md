@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Azure Digital Twins now generally available: Create IoT solutions that model the real world"
-excerpt: "Today, organizations are showing a growing appetite for solutions that provide a deeper understanding of not just assets, but also the complex interactions across environments."
-publishedDateTime: 2020-12-08T06:00:01Z
-originalUrl: "https://azure.microsoft.com/blog/azure-digital-twins-now-generally-available-create-iot-solutions-that-model-the-real-world/"
-webUrl: "https://azure.microsoft.com/blog/azure-digital-twins-now-generally-available-create-iot-solutions-that-model-the-real-world/"
+title: "Private Link support for Azure Automation is now generally available"
+excerpt: "Ensure a secure channel to connect to your Automation Accounts resources with the help of Private Links in Automation."
+publishedDateTime: 2020-12-11T22:19:14Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/azure-automation-private-link/"
+webUrl: "https://azure.microsoft.com/en-us/updates/azure-automation-private-link/"
 type: article
-quality: 94
-heat: 254
-published: true
+quality: 67
+heat: -1
+published: false
 
 provider:
   name: Microsoft
@@ -20,15 +20,22 @@ provider:
 
 topics:
   - Azure
-  - IoT
-
-images:
-  - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/7fa28c36-d3ea-412f-b703-58a5450128fe.png"
-    width: 1024
-    height: 576
-    isCached: true
 
 related:
+  - title: "Azure Digital Twins now generally available: Create IoT solutions that model the real world"
+    excerpt: "Today, organizations are showing a growing appetite for solutions that provide a deeper understanding of not just assets, but also the complex interactions across environments."
+    publishedDateTime: 2020-12-08T06:00:01Z
+    webUrl: "https://azure.microsoft.com/blog/azure-digital-twins-now-generally-available-create-iot-solutions-that-model-the-real-world/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 94
+    images:
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/7fa28c36-d3ea-412f-b703-58a5450128fe.png"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Azure Functions custom handlers are now generally available"
     excerpt: "You can develop Azure Functions using languages and runtimes that do not currently have first-class support."
     publishedDateTime: 2020-12-09T17:00:14Z
@@ -83,15 +90,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
-  - title: "Private Link support for Azure Automation is now generally available"
-    excerpt: "Ensure a secure channel to connect to your Automation Accounts resources with the help of Private Links in Automation."
-    publishedDateTime: 2020-12-11T22:19:14Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-automation-private-link/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 67
   - title: "Microsoft (MSFT) Makes Azure Digital Twins Generally Available"
     excerpt: "Azure Digital Twins modeling platform is in general release and is being integrated with an offering from Johnson Controls (JCI)."
     publishedDateTime: 2020-12-09T16:02:00Z
@@ -107,6 +105,6 @@ related:
         height: 4001
         isCached: true
 
-secured: "C7zzPqCopTs29jyOTSBeNrlIw2ys7HxyIOOwkH2DbZTwr+LmeQTRozuE0r1SZ9Nimdft9nzoJ6EUIw/F/lWOv7YYTHIhZuja5FXfc98H/e+FKVk6lh0hxIXw/Wayrcom0saDGeaeoKG4vJyE+R70t8A3O0KK0Gb125kGfeHPnMefVqOAsTu85URkONk6q/TS8aew2XJ900/wEfWfCclFE+XsoGI1Hgnv4yQHKdjEFfVTJXGlKoes28955Rxchq3hbBcoY1gIS5P+3orfPjaICn+qx+L8d4HElHgIRbDHMEko/j5Qm3xqK/OmMEj1/GpbEnQl0B/fwy6nFVzKpcwJ4nAXu6lDOkg8TWS87OgpHj4=;U2B4WB7ZNLCBjPtGSNba4w=="
+secured: "Lf9TL2kBpPuYzHGGwcJsQuYOsiDvUwR5bJTTk6ZnlXcsFfeq4feNeyZU1Y3HHU38rgDjZe0Yrkr735qpcx6UuxkuXZH+MHlpE58SD6+pofBfXYxLDn6jlRbsSKo0nhJACDbyNA2SAJS6Qhahy6ANlPORg7XRlaJw3VZQ2/lUWnidJW4aVAUVZE9baSPKjk1f0azm2B8RVCrzl4KRa5RKHGOXiiWnwEPT4f3DDPe/jt2kto77lqSMj0qWDR/KTXhcGT1JqtwBul6t+41BY2QEvpnGpgFQwfyVDv87aQgVKcodASf9bVqHerjUPzWiHVtsNDIGth5LcDu3HnFvQhcL5Ohd3NO5fAbwQHoYH6mUVDc=;qFRu5aR2Dp6XobzO0VPoag=="
 ---
 

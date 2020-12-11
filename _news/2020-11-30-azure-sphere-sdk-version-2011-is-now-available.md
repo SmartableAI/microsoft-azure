@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/azure-sphere-sdk-version
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-sphere-sdk-version-2011-is-now-available/"
 type: article
 quality: 84
-heat: 184
+heat: 204
 published: true
 
 provider:
@@ -45,6 +45,15 @@ related:
     excerpt: "Automate tasks across Azure & Non-Azure environment using PowerShell and Python based scripts. "
     publishedDateTime: 2020-12-07T17:12:01Z
     webUrl: "https://azure.microsoft.com/en-us/updates/azure-automation-in-norway-east-region/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
+  - title: "Azure Sphere OS version 20.12 Update 1 is now available for evaluation"
+    excerpt: "This release fixes an Ethernet connection issue for devices with both Wi-Fi and Ethernet enabled."
+    publishedDateTime: 2020-12-11T21:09:31Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-sphere-os-version-2012-update-1-is-now-available-for-evaluation/"
     type: article
     provider:
       name: Microsoft

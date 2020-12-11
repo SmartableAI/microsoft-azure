@@ -92,6 +92,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
+  - title: "Private Link support for Azure Automation is now generally available"
+    excerpt: "Ensure a secure channel to connect to your Automation Accounts resources with the help of Private Links in Automation."
+    publishedDateTime: 2020-12-11T22:19:14Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-automation-private-link/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
 
 secured: "gYVlUeiXrLm+mT7REyAOAM0vDYrUUG2KS2cxQhiAW7U+wBaX0sbSEqLLO2SU9BAuWsyohCvON57Cq1bpi4NFVzBeMgxYDOSI0OxOLlEpsOHgYduuVx9rSAHOTpd9xfztYoknScsA6uCDVZZvbjo8DZYdBSi0lWQ0yYuP9AkSd61SpVrv+XO4PH4SlDcrQWQn0NmUf7OSDtPc77yLj61eJlNy6cf3FilYNBSArol2gVTbGqwFvmdmFML6OVo+gTtnUpQrlZL7sTGJ4Xi33++yU6yF3vV1gLPnHhDYibfZkDH7AemcriM12GcfgUoymnHwNzpkHikfJC8ZPG9UJ0XR8tBmNFj6sUaQpgfRzgPGOgU/TTEE3+94NwYD6t9AsdhAUXjxhwHw+TFY/wjqxbpQndzI6ROSB2idIht2gz8YvEM/1RR3qX1CrWmZ93letT/OOopdm8AXbra/Qoh8G8f/pdGzW2nW64Fs2OQm1osNZ9uBfnTilNIGzeedktnhtiFmSjXiI6Yy1ww8ucWY/Etxbw==;Wh8HETLTu6hlr1qH/n6LGw=="
 ---

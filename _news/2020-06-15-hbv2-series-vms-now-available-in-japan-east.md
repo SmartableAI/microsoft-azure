@@ -21,6 +21,15 @@ topics:
   - Azure
 
 related:
+  - title: "HBv2-series VMs for HPC are now available in UAE North "
+    excerpt: "Azure’s most powerful and scalable HPC VMs, the HBv2-series, are now available in the UAE North region. Customers in this region can now run scale-out MPI workloads to tens of thousands of CPU cores."
+    publishedDateTime: 2020-12-11T21:23:07Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/hbv2series-vms-for-hpc-are-now-available-in-uae-north/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 52
   - title: "HBv2-Series VMs now available in West US 2"
     excerpt: ""
     publishedDateTime: 2020-06-03T17:00:13Z

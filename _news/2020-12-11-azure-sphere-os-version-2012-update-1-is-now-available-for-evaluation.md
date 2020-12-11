@@ -1,10 +1,10 @@
 ---
 category: news
-title: "Azure Sphere OS version 20.12 is now available for evaluation"
-excerpt: "The 20.12 release includes enhancements and bug fixes in the Azure Sphere OS. It does not include an updated SDK."
-publishedDateTime: 2020-12-02T22:22:08Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/azure-sphere-os-version-2012-is-now-available-for-evaluation/"
-webUrl: "https://azure.microsoft.com/en-us/updates/azure-sphere-os-version-2012-is-now-available-for-evaluation/"
+title: "Azure Sphere OS version 20.12 Update 1 is now available for evaluation"
+excerpt: "This release fixes an Ethernet connection issue for devices with both Wi-Fi and Ethernet enabled."
+publishedDateTime: 2020-12-11T21:09:31Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/azure-sphere-os-version-2012-update-1-is-now-available-for-evaluation/"
+webUrl: "https://azure.microsoft.com/en-us/updates/azure-sphere-os-version-2012-update-1-is-now-available-for-evaluation/"
 type: article
 quality: 67
 heat: -1
@@ -40,19 +40,19 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
-  - title: " Azure Automation is now available in Norway East region"
-    excerpt: "Automate tasks across Azure & Non-Azure environment using PowerShell and Python based scripts. "
-    publishedDateTime: 2020-12-07T17:12:01Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-automation-in-norway-east-region/"
+  - title: "Azure Sphere OS version 20.12 is now available for evaluation"
+    excerpt: "The 20.12 release includes enhancements and bug fixes in the Azure Sphere OS. It does not include an updated SDK."
+    publishedDateTime: 2020-12-02T22:22:08Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-sphere-os-version-2012-is-now-available-for-evaluation/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
     quality: 67
-  - title: "Azure Sphere OS version 20.12 Update 1 is now available for evaluation"
-    excerpt: "This release fixes an Ethernet connection issue for devices with both Wi-Fi and Ethernet enabled."
-    publishedDateTime: 2020-12-11T21:09:31Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-sphere-os-version-2012-update-1-is-now-available-for-evaluation/"
+  - title: " Azure Automation is now available in Norway East region"
+    excerpt: "Automate tasks across Azure & Non-Azure environment using PowerShell and Python based scripts. "
+    publishedDateTime: 2020-12-07T17:12:01Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-automation-in-norway-east-region/"
     type: article
     provider:
       name: Microsoft
@@ -77,6 +77,6 @@ related:
       domain: microsoft.com
     quality: 17
 
-secured: "75+lbeO5Pgz1jqT4ocMw6VS3UCnqIJMmbvmoKiPnJ72ZxkPp9GFtkpzUtp4RWlNGJcL/T8ucfrhPcHFqKXaUYv7sN4oeZjlq9chqf6SkwcfTGp5/juiiNBy2o2Gcrn/5cJ8C1/UYK5qS4meRc5YN/ZLKIowf22+xRVH500Se606ZsQU36uiToujTVY1xdS64irILjnXxd/eZDv8862UTyPG3rAGe6OpZ6YdISheoaR8GKPPDCiMTpoEN/KDMFwb+lHWIdMpbrv+Nx59ec5U36UK28wi2vbcSnJBcxgUGri7yjcyBQpGg88dPWkNl8ayZ6uQ1wiKKdtn+c8R2hmOMV8r2D4xiqgbOmwdrUk2qIg4=;G8Xefk+onW2k5Ah4ZQB2ag=="
+secured: "122GLKDDBFeRK/Br6Kzaai8MSNMbpCGDymqAt8XZ/3OYeZNNQHulTbYyWQHvlkY4ueVR47yAfMoa/L9aBsxEdbVXl6JmebTAYaV2Ep22Kf3+/qpU8Shc61dvJjXEYz7UN2PbbPHviqs+YrlFNb4sXgfAwL6j0byupnoVsd+tQrniS161j1FT5LMnD3h2AvWk+K8IS2rnVmSaqsPadZbCAtwmp/Gr11HeDawIjYtdJjSJYRVk2zeagfJWc6VI4sMaaZJGZ2vrGDX9Qnf445ZdpF29kOe2IOMMxh0ZU/g6OeDlIjZgqqjxElv/minK3mOxR2lrRo0gupuAAIVm4hQMzhLlJtQWfxPr1OvsaQ2zQvw=;MqkCS5TvScHGfMhK8fAjXg=="
 ---
 

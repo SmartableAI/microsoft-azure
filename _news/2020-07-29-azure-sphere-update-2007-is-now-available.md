@@ -57,6 +57,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
+  - title: "Azure Sphere OS version 20.12 Update 1 is now available for evaluation"
+    excerpt: "This release fixes an Ethernet connection issue for devices with both Wi-Fi and Ethernet enabled."
+    publishedDateTime: 2020-12-11T21:09:31Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-sphere-os-version-2012-update-1-is-now-available-for-evaluation/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
   - title: "Azure Sphere update 20.04 is now available"
     excerpt: ""
     publishedDateTime: 2020-05-05T17:00:14Z

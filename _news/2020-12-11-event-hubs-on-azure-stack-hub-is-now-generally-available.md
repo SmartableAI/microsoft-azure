@@ -81,6 +81,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
+  - title: "Private Link support for Azure Automation is now generally available"
+    excerpt: "Ensure a secure channel to connect to your Automation Accounts resources with the help of Private Links in Automation."
+    publishedDateTime: 2020-12-11T22:19:14Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-automation-private-link/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
   - title: "Microsoft (MSFT) Makes Azure Digital Twins Generally Available"
     excerpt: "Azure Digital Twins modeling platform is in general release and is being integrated with an offering from Johnson Controls (JCI)."
     publishedDateTime: 2020-12-09T16:02:00Z
