@@ -1,21 +1,27 @@
 ---
 category: news
 title: "Peloton Well Focused Data Management Solutions, powered by Microsoft Azure, leads digital transformation in the energy industry"
-excerpt: "Peloton, the global leader in Well Lifecycle Data Management software solutions for the energy industry, is excited to announce that the Peloton Platform"
-publishedDateTime: 2020-12-08T14:00:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/peloton-well-focused-data-management-solutions-powered-by-microsoft-azure-leads-digital-transformation-in-the/article_207cc8e8-b873-5e3b-a8c9-c23a8f036dbf.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/peloton-well-focused-data-management-solutions-powered-by-microsoft-azure-leads-digital-transformation-in-the/article_207cc8e8-b873-5e3b-a8c9-c23a8f036dbf.html"
+excerpt: "Developed with Microsoft Azure technology, the Peloton Platform delivers a robust end user experience to oil and gas companies around the world. The Peloton Platform provides a secure, optimized ..."
+publishedDateTime: 2020-12-08T15:19:00Z
+originalUrl: "https://www.newswire.ca/news-releases/peloton-well-focused-data-management-solutions-powered-by-microsoft-azure-leads-digital-transformation-in-the-energy-industry-817941631.html"
+webUrl: "https://www.newswire.ca/news-releases/peloton-well-focused-data-management-solutions-powered-by-microsoft-azure-leads-digital-transformation-in-the-energy-industry-817941631.html"
 type: article
-quality: 0
+quality: 9
 heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Newswire
+  domain: newswire.ca
 
 topics:
   - Azure
+
+images:
+  - url: "https://mma.prnewswire.com/media/1163960/Peloton_Logo.jpg?p=facebook"
+    width: 1955
+    height: 1024
+    isCached: true
 
 related:
   - title: "Microsoft just stress-tested its most powerful Azure node in a pretty fun way"
@@ -375,6 +381,6 @@ related:
       domain: microsoft.com
     quality: 17
 
-secured: "cTYkqBOMNW/pwnJQgrdsoR2E3i7jspT4W7RUhRzm3y7RWjPEjORBma7VOKhKEs88WSM+t9A7P9gGDFfXhwHfOQ7yXzEvY86SapjQU2sv8HVmNOb0RFPyszIA3L3UMx9ZD7NAEwK77kN8JMJ6cgCf904pVJX2Ir8QgSica5liw7dvdgn42Vn0ueExGR99cI6rfIcf2ygRiuYIJAKZd/EJEvF0O+OlHuMaQjyBr6kcSpH0bn4NUgORzV+8zhV+mmV0IL8Wqwka9199PDIpZK9VOhhM5cWqXPQjbL93Y2wET7tW0Yau2G2xEt14FGQ3R2b63lJYef4/KBqAlvf96Pvdsb8PymR+mTKWnKNGQiRlv59SM3JEzbYe+9Mb+gaDtxJs8obgzEAOAlGgF5Y3WwHXsTykEe4X0M+j4yQ+E0vh0hR0GJaI0zwlVfilEXj0SZj4ayVWcTa3uqfwPzrPNEj+oTp/ekH5G00hxmLO+kqKKwOh320GWjhJjgufu+aEIEpjnhSZgX56WU/ou77M0fJnCA==;o9/OzPzdgJ5JZviorh4M5Q=="
+secured: "oCpj2a26gMPijneRiuDNQ+z8jLvDb49PHdSAwQXcus/gZf9+L5zipQGj6jqIEjv9XeL0r9qDKU7lc/dbimXUMj5oLOsAFAXLeqEunmBk0I4o3kIoAZvF7FiowNUDD2W2jyNO2n4xRi5z7UF00TpKTPHfK0P98OrUQ+VOnxfgNrTyQhXoAwBu7830O6bXfoC1iLNxPS31HxSVTyVvdekeRNEGNh+QGYZxR4oPfzGtFIXMcD10admkHd3XGFbksT+IadPS+DRC12DUL7SWdImRqKpwjoGy17I8VZmzZjVnKlvN5/As1mqLhdRuc5+TEvBNP/YIHHxTbrvdUKnAnvI01FctTjQkVRtisI3GlbhhZ1c=;9z3Hk2HnVGNv6MWGvFvkMg=="
 ---
 

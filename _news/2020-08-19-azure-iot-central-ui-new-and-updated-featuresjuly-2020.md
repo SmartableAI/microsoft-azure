@@ -68,6 +68,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 84
+  - title: "Azure IoT Central new and updated features—November 2020"
+    excerpt: "November updates include IoT Plug and Play support, new pricing tier, a preview of the jobs API, and documentation updates."
+    publishedDateTime: 2020-12-11T20:00:17Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-iot-central-feature-updates-november-2020/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
   - title: "Azure IoT Central UI new and updated features—June 2020"
     excerpt: "June 2020 feature updates for Azure IoT Central are now available."
     publishedDateTime: 2020-07-15T23:00:33Z

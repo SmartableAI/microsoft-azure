@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/azure-iot-central-featur
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-iot-central-feature-updates-september-2020/"
 type: article
 quality: 104
-heat: 204
+heat: 224
 published: true
 
 provider:
@@ -56,6 +56,15 @@ related:
     excerpt: "Updates include improvements to the ARM template deployment experience, a variety of updates for Azure Blob Storage, and more."
     publishedDateTime: 2020-10-01T18:31:28Z
     webUrl: "https://azure.microsoft.com/en-us/updates/azure-portal-september-2020-update/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
+  - title: "Azure IoT Central new and updated features—November 2020"
+    excerpt: "November updates include IoT Plug and Play support, new pricing tier, a preview of the jobs API, and documentation updates."
+    publishedDateTime: 2020-12-11T20:00:17Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-iot-central-feature-updates-november-2020/"
     type: article
     provider:
       name: Microsoft
