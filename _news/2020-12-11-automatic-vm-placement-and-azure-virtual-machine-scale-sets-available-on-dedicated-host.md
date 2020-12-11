@@ -1,12 +1,12 @@
 ---
 category: news
-title: "App Service Anti-Virus Logs in public preview"
-excerpt: "Receive improved application monitoring with support for anti-virus scans ."
-publishedDateTime: 2020-12-09T17:00:20Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/app-service-antivirus-logs-in-public-preview/"
-webUrl: "https://azure.microsoft.com/en-us/updates/app-service-antivirus-logs-in-public-preview/"
+title: "Automatic VM placement and Azure Virtual Machine Scale Sets available on Dedicated Host"
+excerpt: "Azure can now select the dedicated host to which your VM is deployed. Additionally, Azure Virtual Machine Scale Sets can be deployed in conjunction with Dedicated Hosts."
+publishedDateTime: 2020-12-11T17:00:29Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/automatic-vm-placement-and-azure-virtual-machine-scale-sets-available-on-dedicated-host/"
+webUrl: "https://azure.microsoft.com/en-us/updates/automatic-vm-placement-and-azure-virtual-machine-scale-sets-available-on-dedicated-host/"
 type: article
-quality: 69
+quality: 76
 heat: -1
 published: false
 
@@ -32,15 +32,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 84
-  - title: "Automatic VM placement and Azure Virtual Machine Scale Sets available on Dedicated Host"
-    excerpt: "Azure can now select the dedicated host to which your VM is deployed. Additionally, Azure Virtual Machine Scale Sets can be deployed in conjunction with Dedicated Hosts."
-    publishedDateTime: 2020-12-11T17:00:29Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/automatic-vm-placement-and-azure-virtual-machine-scale-sets-available-on-dedicated-host/"
+  - title: "App Service Anti-Virus Logs in public preview"
+    excerpt: "Receive improved application monitoring with support for anti-virus scans ."
+    publishedDateTime: 2020-12-09T17:00:20Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/app-service-antivirus-logs-in-public-preview/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 76
+    quality: 69
   - title: "Selective disks backup for Azure Virtual Machine is in public preview"
     excerpt: "Optimize your costs and enjoy faster backup and restore operations by selectively backing up a subset of the data disks in a VM."
     publishedDateTime: 2020-08-06T18:00:12Z
@@ -51,6 +51,6 @@ related:
       domain: microsoft.com
     quality: 17
 
-secured: "v0yr3gzkCocfiNqOO71fyJV8rI59fzhIpYMlPRd/hRr3cDWrlniA5mA4blg0Fmqt3C+yr18xfTJsV7PYROi7KkG5k3zulQs1ynAaeQEHbMulqi6IOuw8AwVlKxQKXkpyuw1Q+ER5IQiTA3LCONEBaSt1cXiPpKybwW7+pcw5tWpcvakNWTLzdik9sVMw0246HPYAzvpgZIILEhG9juQ1UPYMW6F01yY6Pa8ctKr5smb5IoFQeAJIwx+qVKCNIZH+78V8dnbPP3L8IYU8EVpqxhjy65IbCHmm4FJ5ZRQO7WZ6R9VOpOAEilSBI3ezq1Pn45uXAJv56vWUu2h1kvrx5YKRKSKfLSpg/WM5/lEgAQM=;xPXNeNpUEeaGFaVMq57wTw=="
+secured: "qdmEeU4793/xvMrEuN3TX5FS2uXBHIPZvsepAEgqAS3mJTfIIZLlk6AcCpxCHkrfvbj4SwQquxfv6Hg0YT31kEu8HbQZ5Z5NjlObn53WpDz7x0US6V0P/EMiHqBQRk/KztGq8/fh1G2UHRAEGi2+JrIiejzlb1Kli1niSUQMX2bwFnkyy/jcslVsojtdH+APLdMth/dinHqniTMLOOFk5dyYExsMn0CDP1B43sogDn62OwFd0sqF0ZF1K/+dtlofwf2njjUajHS5lr+5vJ1V7j+1I118xcC+uVn8nRzbXxJ7gBImx3biI6NvXPxHFW3K7N2/qAUOKoKAi35e9bIWySL4/IFVhyEixFmCCHwX6vQ=;hRzkYp0Q9KfToqveY3hjmg=="
 ---
 

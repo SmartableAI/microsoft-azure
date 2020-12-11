@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/azure-stack-edge-virtual
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-stack-edge-virtual-machine-support/"
 type: article
 quality: 84
-heat: 124
+heat: 144
 published: true
 
 provider:
@@ -23,6 +23,15 @@ topics:
   - Compute
 
 related:
+  - title: "Automatic VM placement and Azure Virtual Machine Scale Sets available on Dedicated Host"
+    excerpt: "Azure can now select the dedicated host to which your VM is deployed. Additionally, Azure Virtual Machine Scale Sets can be deployed in conjunction with Dedicated Hosts."
+    publishedDateTime: 2020-12-11T17:00:29Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/automatic-vm-placement-and-azure-virtual-machine-scale-sets-available-on-dedicated-host/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 76
   - title: "App Service Anti-Virus Logs in public preview"
     excerpt: "Receive improved application monitoring with support for anti-virus scans ."
     publishedDateTime: 2020-12-09T17:00:20Z

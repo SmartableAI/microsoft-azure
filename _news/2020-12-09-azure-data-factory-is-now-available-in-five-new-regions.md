@@ -72,6 +72,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
+  - title: "Event hubs on Azure Stack Hub is now generally available"
+    excerpt: "The GA version of Event Hubs is now available on Azure Stack Hub. This will allow you to realize cloud and on-premises scenarios that use streaming and event-based architectures."
+    publishedDateTime: 2020-12-11T18:00:16Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/event-hubs-on-azure-stack-hub-is-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
   - title: "Microsoft (MSFT) Makes Azure Digital Twins Generally Available"
     excerpt: "Azure Digital Twins modeling platform is in general release and is being integrated with an offering from Johnson Controls (JCI)."
     publishedDateTime: 2020-12-09T16:02:00Z
