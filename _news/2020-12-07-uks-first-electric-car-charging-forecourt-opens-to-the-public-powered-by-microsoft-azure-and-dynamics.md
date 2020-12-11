@@ -371,19 +371,14 @@ related:
       domain: microsoft.com
     quality: 17
   - title: "Peloton Well Focused Data Management Solutions, powered by Microsoft Azure, leads digital transformation in the energy industry"
-    excerpt: "Developed with Microsoft Azure technology, the Peloton Platform delivers a robust end user experience to oil and gas companies around the world. The Peloton Platform provides a secure, optimized ..."
-    publishedDateTime: 2020-12-08T15:19:00Z
-    webUrl: "https://www.newswire.ca/news-releases/peloton-well-focused-data-management-solutions-powered-by-microsoft-azure-leads-digital-transformation-in-the-energy-industry-817941631.html"
+    excerpt: "Peloton, the global leader in Well Lifecycle Data Management software solutions for the energy industry, is excited to announce that the Peloton Platform"
+    publishedDateTime: 2020-12-08T14:00:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/peloton-well-focused-data-management-solutions-powered-by-microsoft-azure-leads-digital-transformation-in-the/article_207cc8e8-b873-5e3b-a8c9-c23a8f036dbf.html"
     type: article
     provider:
-      name: Newswire
-      domain: newswire.ca
-    quality: 9
-    images:
-      - url: "https://mma.prnewswire.com/media/1163960/Peloton_Logo.jpg?p=facebook"
-        width: 1955
-        height: 1024
-        isCached: true
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 0
 
 secured: "Ikaq6vVary1OD536pX4iGcEYu3VEp2VdX5FN7h1tEabuDDqSejB4GGp2ynGw0003MSboR4ETRgUY4X/2VfOF6puh6wXfrOThXNWx7j+g+ME2bh418T/h3315nR/0STqfq/jaxnVCOT41rS+2ChvnsciCV5hbVautDX1RNza+1zP1LP26ylBiabrweqo/LEivfc6KbTG6+leHI1ccFY/IkVAWP/79JoA5nPvoph9v5W3YShTKZMQr1nCpsCA7aPL3SN5S1KGxepuc6Q4659KS+ZafzmYH4nnG6LN2nZLUc2tFntrtYfqx8TRe8xt3tNKaRue2+UElZfTU0eqMHtYioTL2o72AwBxtjDSjJQUDPKF/pf1bPQgjRj0Jjhmc0xFeW6fRoxV8tYY9WfdZP1/KAOYJtiqqHGsx4ZkwsbIFhpsCoDNOgMXnopp7JOFmh8Wglx+lCt6B934y+UeCX8UqUtzLg9OqLkLtkUXu/wiz4nTXeFAWr6VwUrMul2eySy4jwQIC9bkpOBkzCLmaE2zsaQ==;RJ3ghp29+AJ5aLilH0QY+Q=="
 ---

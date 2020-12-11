@@ -368,6 +368,20 @@ related:
         width: 803
         height: 419
         isCached: true
+  - title: "Google Cloud Will Not Be Able To Overtake Microsoft Azure"
+    excerpt: "In this analysis, we discuss why Google (Alphabet) may have missed a critical window this year for the infrastructure piece."
+    publishedDateTime: 2020-12-11T13:40:00Z
+    webUrl: "https://seekingalpha.com/article/4394247-google-cloud-will-not-be-able-to-overtake-microsoft-azure"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 37
+    images:
+      - url: "https://static2.seekingalpha.com/uploads/2020/12/8/45714056-1607434447830862.jpg"
+        width: 640
+        height: 427
+        isCached: true
   - title: "Microsoft’s Azure cloud platform will be the brain for their future autonomous robots!"
     excerpt: "Azure is run by Artificial Intelligence that provides users with a customizable space to work, save, share, and connect through multi-functional, serverless software. Halawany’s robot renders for Microsoft Middle East,"
     publishedDateTime: 2020-11-07T01:45:00Z

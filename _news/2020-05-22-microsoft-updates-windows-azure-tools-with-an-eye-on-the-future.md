@@ -8,7 +8,7 @@ ampWebUrl: "https://www.pcmag.com/news/microsoft-updates-windows-azure-tools-wit
 cdnAmpWebUrl: "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/microsoft-updates-windows-azure-tools-with-an-eye-on-the-future?amp=true"
 type: article
 quality: 97
-heat: 2777
+heat: 2797
 published: true
 
 provider:
@@ -1424,6 +1424,20 @@ related:
       - url: "https://cdn.ttgtmedia.com/visuals/German/article/cloud-access-and-identity-2-adobe.jpg"
         width: 1200
         height: 400
+        isCached: true
+  - title: "Modernizing Microsoft consulting services with move to SAP on Microsoft Azure"
+    excerpt: "Reginald Albert worked as a field seller at Microsoft for over 20 years, where he had a front row seat to see how teams, customers, and partners use Microsoft technology to power their work. When looking for his next role at the company,"
+    publishedDateTime: 2020-12-11T14:47:00Z
+    webUrl: "https://www.microsoft.com/itshowcase/blog/modernizing-microsoft-consulting-services-with-move-to-sap-on-microsoft-azure/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 34
+    images:
+      - url: "https://www.microsoft.com/itshowcase/blog/uploads/prod/2020/12/10096-wordpress-hero.jpg"
+        width: 2300
+        height: 1293
         isCached: true
   - title: "Microsoft announces Learn TV, an on-demand video programming for developers and engineers"
     excerpt: "Microsoft yesterday announced Learn TV, an on-demand video programming for developers and engineers. With Learn TV, you can always keep updated on the latest announcements, features and products from Microsoft."

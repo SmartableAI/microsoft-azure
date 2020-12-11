@@ -1,32 +1,26 @@
 ---
 category: news
 title: "Google Cloud Will Not Be Able To Overtake Microsoft Azure"
-excerpt: "Google (Alphabet) may have missed a critical window this year for cloud infrastructure. We also analyze how Microsoft directed all of its efforts to successfully close the wide lead by AWS. Lastly, we"
-publishedDateTime: 2020-12-04T04:03:00Z
-originalUrl: "https://www.forbes.com/sites/bethkindig/2020/12/03/google-cloud-will-not-be-able-to-overtake-microsoft-azure/"
-webUrl: "https://www.forbes.com/sites/bethkindig/2020/12/03/google-cloud-will-not-be-able-to-overtake-microsoft-azure/"
-ampWebUrl: "https://www.forbes.com/sites/bethkindig/2020/12/03/google-cloud-will-not-be-able-to-overtake-microsoft-azure/amp/"
-cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bethkindig/2020/12/03/google-cloud-will-not-be-able-to-overtake-microsoft-azure/amp/"
+excerpt: "In this analysis, we discuss why Google (Alphabet) may have missed a critical window this year for the infrastructure piece."
+publishedDateTime: 2020-12-11T13:40:00Z
+originalUrl: "https://seekingalpha.com/article/4394247-google-cloud-will-not-be-able-to-overtake-microsoft-azure"
+webUrl: "https://seekingalpha.com/article/4394247-google-cloud-will-not-be-able-to-overtake-microsoft-azure"
 type: article
-quality: 97
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Forbes
-  domain: forbes.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/forbes.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Seeking Alpha
+  domain: seekingalpha.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fc9b08566dda99de43b5fee%2F0x0.jpg"
-    width: 1200
-    height: 741
+  - url: "https://static2.seekingalpha.com/uploads/2020/12/8/45714056-1607434447830862.jpg"
+    width: 640
+    height: 427
     isCached: true
 
 related:
@@ -45,6 +39,22 @@ related:
       - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F598227%2Fdata-center.jpeg&w=1200&op=resize"
         width: 1200
         height: 799
+        isCached: true
+  - title: "Google Cloud Will Not Be Able To Overtake Microsoft Azure"
+    excerpt: "Google (Alphabet) may have missed a critical window this year for cloud infrastructure. We also analyze how Microsoft directed all of its efforts to successfully close the wide lead by AWS. Lastly, we"
+    publishedDateTime: 2020-12-04T04:03:00Z
+    webUrl: "https://www.forbes.com/sites/bethkindig/2020/12/03/google-cloud-will-not-be-able-to-overtake-microsoft-azure/"
+    ampWebUrl: "https://www.forbes.com/sites/bethkindig/2020/12/03/google-cloud-will-not-be-able-to-overtake-microsoft-azure/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bethkindig/2020/12/03/google-cloud-will-not-be-able-to-overtake-microsoft-azure/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 97
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fc9b08566dda99de43b5fee%2F0x0.jpg"
+        width: 1200
+        height: 741
         isCached: true
   - title: "Microsoft announces Az Predictor to improve usability of Azure PowerShell"
     excerpt: "Microsoft has announced the preview availability of Az Predictor, a utility which serves as an \"intelligent command completion module\" for Azure PowerShell beginners and experts alike."
@@ -357,20 +367,6 @@ related:
         width: 803
         height: 419
         isCached: true
-  - title: "Google Cloud Will Not Be Able To Overtake Microsoft Azure"
-    excerpt: "In this analysis, we discuss why Google (Alphabet) may have missed a critical window this year for the infrastructure piece."
-    publishedDateTime: 2020-12-11T13:40:00Z
-    webUrl: "https://seekingalpha.com/article/4394247-google-cloud-will-not-be-able-to-overtake-microsoft-azure"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 37
-    images:
-      - url: "https://static2.seekingalpha.com/uploads/2020/12/8/45714056-1607434447830862.jpg"
-        width: 640
-        height: 427
-        isCached: true
   - title: "AttackIQ integrates Security Optimization Platform with Microsoft Azure Sentinel cloud-native SIEM platform"
     excerpt: "AttackIQ announced integration between Microsoft Azure Sentinel cloud-native SIEM platform and the AttackIQ Security Optimization Platform."
     publishedDateTime: 2020-10-28T03:00:00Z
@@ -494,6 +490,6 @@ related:
         height: 293
         isCached: true
 
-secured: "pouU7PHATZPZhJ7NTbxnextxNiySxV00N4qEpao3VayWzpiZgHNmKXSW0w6sxMgIsLOSLIAgA3u9Uuqh0f3KRfP4rSce2pqD2Pv7QMnU8JVABMRkog9qk3mHVzLCnMKSQJUPcqztWqMWUnl9nuPDu/bFQvHcbNUp5QaUq7fYjx1lPMuoFMstmKjIZPJZIw5z3AUrMP/VgPXmKT5UXeNFdyY9IAvqXxsOdBj5sqgaa4ALcGzcFQB2Qfaps507XyoUPiaMxAKw1cUrE2Z8foB5mZ2GjtXHeJIlsxTqUqKFuR8AVyMs0ONCeXrm6vlwLmWCHQjVrZIWUSTJ7TMJsdgzihQfy7LTCmD3lV+KwOaQVG+ueCEvvg5+OJt5Y8AaLopf5uXAsU7oVTIqu7p3xnXFpsVckLS61MIhmzXqGLCzwiWWYgMRZKG/SBixdC2fBqqIDT4dLa+T7tVP/bgsx0k/0cPMMV1zOa5kvrthmZOR19DoR220MxsrC71dCyIEfMetv7UMPA/mAnaUJHowpmGV/w==;vy2Nax/Z1qDw4irM/UWgnQ=="
+secured: "HmxdjwwBniaegBzn68u7hdV++w3qsUltl4Ca9kdilsfbirX7r/tkbzJ3kirHSq6yOMzGq4gNaSWB+cwlZj/Nyt9FT8/5MAQJTw3eV+tJzxBjscwx9C/QonFRHYNr5AHTp2jKY8dcx8W0n2Ug+PhiSUHQCHS3k3umP7no6Mh97heboWxWI89WyS6McM98Awb+43gy6lY2H3UEL9A5H2ToRDovguSV6n251PVNECgo9v0vqGXfEQv8iKWAIEQYkoHIQyjl9w0GXxkf4QnFNmloXtN5VVGzb4xuAP6gPKyyRJgSghq5tlQDFh25Rxac8Mtolv6PgeDvnjO/+w/HiGLaJSCW2iKgR2to/2SJzqQuIT0=;XXHnYuRTTH1nSAi/4nJ2mg=="
 ---
 

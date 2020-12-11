@@ -1,26 +1,30 @@
 ---
 category: news
-title: "Modern VDI Solutions with Microsoft Azure"
-excerpt: "But there’s good news: Modern VDI Solutions with Microsoft Azure, focused on Windows Virtual Desktop (WVD). Join experts from Zones as they define VDI (a technology suite used to create a ..."
-publishedDateTime: 2020-11-30T18:55:00Z
-originalUrl: "https://www.csoonline.com/resources/211308/modern-vdi-solutions-with-microsoft-azure"
-webUrl: "https://www.csoonline.com/resources/211308/modern-vdi-solutions-with-microsoft-azure"
+title: "Modernizing Microsoft consulting services with move to SAP on Microsoft Azure"
+excerpt: "Reginald Albert worked as a field seller at Microsoft for over 20 years, where he had a front row seat to see how teams, customers, and partners use Microsoft technology to power their work. When looking for his next role at the company,"
+publishedDateTime: 2020-12-11T14:47:00Z
+originalUrl: "https://www.microsoft.com/itshowcase/blog/modernizing-microsoft-consulting-services-with-move-to-sap-on-microsoft-azure/"
+webUrl: "https://www.microsoft.com/itshowcase/blog/modernizing-microsoft-consulting-services-with-move-to-sap-on-microsoft-azure/"
 type: article
-quality: 37
+quality: 34
 heat: -1
 published: false
 
 provider:
-  name: CSOonline
-  domain: csoonline.com
+  name: Microsoft
+  domain: microsoft.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
 
 images:
-  - url: "https://idge.staticworld.net/cso/CSO_logo_300x300.png"
-    width: 300
-    height: 300
+  - url: "https://www.microsoft.com/itshowcase/blog/uploads/prod/2020/12/10096-wordpress-hero.jpg"
+    width: 2300
+    height: 1293
     isCached: true
 
 related:
@@ -1347,6 +1351,20 @@ related:
         width: 300
         height: 300
         isCached: true
+  - title: "Modern VDI Solutions with Microsoft Azure"
+    excerpt: "But there’s good news: Modern VDI Solutions with Microsoft Azure, focused on Windows Virtual Desktop (WVD). Join experts from Zones as they define VDI (a technology suite used to create a ..."
+    publishedDateTime: 2020-11-30T18:55:00Z
+    webUrl: "https://www.csoonline.com/resources/211308/modern-vdi-solutions-with-microsoft-azure"
+    type: article
+    provider:
+      name: CSOonline
+      domain: csoonline.com
+    quality: 37
+    images:
+      - url: "https://idge.staticworld.net/cso/CSO_logo_300x300.png"
+        width: 300
+        height: 300
+        isCached: true
   - title: "Microsoft's Finds Place For Yammer, Video Conferencing Market Heats Up & More News"
     excerpt: "When Microsoft introduced Teams in March 2017, creating another communication tool at the heart of Office 365 running in tandem with Yammer, it really put a question mark over the role and purpose of the app."
     publishedDateTime: 2020-05-15T13:01:00Z
@@ -1420,20 +1438,6 @@ related:
       - url: "https://cdn.ttgtmedia.com/visuals/German/article/cloud-access-and-identity-2-adobe.jpg"
         width: 1200
         height: 400
-        isCached: true
-  - title: "Modernizing Microsoft consulting services with move to SAP on Microsoft Azure"
-    excerpt: "Reginald Albert worked as a field seller at Microsoft for over 20 years, where he had a front row seat to see how teams, customers, and partners use Microsoft technology to power their work. When looking for his next role at the company,"
-    publishedDateTime: 2020-12-11T14:47:00Z
-    webUrl: "https://www.microsoft.com/itshowcase/blog/modernizing-microsoft-consulting-services-with-move-to-sap-on-microsoft-azure/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 34
-    images:
-      - url: "https://www.microsoft.com/itshowcase/blog/uploads/prod/2020/12/10096-wordpress-hero.jpg"
-        width: 2300
-        height: 1293
         isCached: true
   - title: "Microsoft announces Learn TV, an on-demand video programming for developers and engineers"
     excerpt: "Microsoft yesterday announced Learn TV, an on-demand video programming for developers and engineers. With Learn TV, you can always keep updated on the latest announcements, features and products from Microsoft."
@@ -1959,6 +1963,6 @@ related:
       domain: pr.com
     quality: 0
 
-secured: "7I15I1iWJZy4Q7BX9+QjvVwpzVsLLoqwD56WEsimy5HVQHwLr/Nl0mOKbZrCQZJ+bMB2D0jKwbKSn2heeCmdtM8TewWfRs/ZHm6YUERsmyjCnzz0PuVUuryVJc5Yx3yzzA5iullx/w91fFRxqoF4BYSqVpIbqzMYUjL4Q5aPe08VRmJp9GJQE7RqBfm1qOwilHC0rZl8iW5OJgzLj12bmS3+BGqZnzZbOzRgMZPRJAobBaFkaImiy8R5pPitTk3UTXq6OoRyvNmL/A51spvj/9JhXVVhzqveOZH9lnfoXIlATrBsWkXZ/LQ+/o8l1glJQUKDAms4f6sPaB3Jfd4T/3EBZUxOWbDOJJcDfftRalk=;SkFFH2lCpNHMcfUfmzk5Ag=="
+secured: "0hHD2aYn8cOBj9CRB3ZukarXfOzyC8nYurWgi2VBrVhLekm+O/J9lfKMjVmfT6YCXEsGuDp516FzSFcXmsYv5JQbOoc4Bl8NeKMBlZp74Ww8dRuejYWgw79peCmhjluz5LSRsl2sho97wR+wwKNsNVND/ZXSCqwyMYAXGm0Ck6bjRiPupS4p/9wqTfNwyAAaTjztJkvMqG4/dm/32dLCDfu0g+edK7XYh3rrq8rC4rIS5cJniVNcXVQy7zmz6HDSwmP7pjGV1V2pzzrBfCCMycmxBhqocZryINgCmdEZ7Se6R3xzqIt/mPtQKlca2D0s7nbo3M/DqOdNvqITkol2HwuCD5T8qYaPe+SrdxGsddU=;76bho0OEvL0TqPQjB8TR4Q=="
 ---
 
