@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/azure-data-explorer-dash
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-data-explorer-dashboards-october-update/"
 type: article
 quality: 87
-heat: 108
+heat: 107
 published: true
 
 provider:
