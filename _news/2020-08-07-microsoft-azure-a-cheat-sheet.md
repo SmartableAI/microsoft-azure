@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/microsoft-azure-the-
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-azure-the-smart-persons-guide/"
 type: article
 quality: 97
-heat: 877
+heat: 897
 published: true
 
 provider:
@@ -281,6 +281,20 @@ related:
     excerpt: "Microsoft and Refinitiv have formed a new strategic partnership that will give people who work in the financial sector greater connectivity and insight into their markets and customers, and help them make critical business decisions."
     publishedDateTime: 2020-09-12T13:53:00Z
     webUrl: "https://www.finextra.com/pressarticle/83996/refintiv-heads-to-microsoft-azure"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 37
+    images:
+      - url: "https://www.finextra.com/about/finextra-logo-alt-16-9.jpg"
+        width: 480
+        height: 270
+        isCached: true
+  - title: "Tradeteq hops on Microsoft Azure"
+    excerpt: "Tradeteq, the global hub for trade finance distribution, has today announced its collaboration with Microsoft."
+    publishedDateTime: 2020-12-11T12:59:00Z
+    webUrl: "https://www.finextra.com/pressarticle/85447/tradeteq-hops-on-microsoft-azure"
     type: article
     provider:
       name: Finextra
