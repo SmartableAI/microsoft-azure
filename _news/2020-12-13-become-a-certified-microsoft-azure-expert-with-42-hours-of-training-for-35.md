@@ -1,28 +1,28 @@
 ---
 category: news
-title: "Nadella takes a dig at Amazon as Microsoft unveils Azure Purview"
-excerpt: "Taking an apparent dig at Amazon and its Cloud arm AWS, Microsoft CEO Satya Nadella has said that it is important to not only trust a vendors technology capabilities but also its ‘business model alignment with its customers."
-publishedDateTime: 2020-12-04T08:41:00Z
-originalUrl: "https://www.sify.com/finance/nadella-takes-a-dig-at-amazon-as-microsoft-unveils-azure-purview-news-topnews-umegIohfjjjib.html"
-webUrl: "https://www.sify.com/finance/nadella-takes-a-dig-at-amazon-as-microsoft-unveils-azure-purview-news-topnews-umegIohfjjjib.html"
-ampWebUrl: "https://www.sify.com/finance/nadella-takes-a-dig-at-amazon-as-microsoft-unveils-azure-purview-news-topnews-umegIohfjjjib.html"
-cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/finance/nadella-takes-a-dig-at-amazon-as-microsoft-unveils-azure-purview-news-topnews-umegIohfjjjib.html"
+title: "Become a certified Microsoft Azure expert with 42 hours of training for $35"
+excerpt: "StackCommerce With so many businesses setting up online in the past year, cloud engineers are in demand. The 2021 Complete Microsoft Azure Certification Prep Bundle helps you become a certified expert with 42 hours of training,"
+publishedDateTime: 2020-12-12T17:24:00Z
+originalUrl: "https://www.windowscentral.com/become-certified-microsoft-azure-expert-42-hours-training-35"
+webUrl: "https://www.windowscentral.com/become-certified-microsoft-azure-expert-42-hours-training-35"
+ampWebUrl: "https://www.windowscentral.com/become-certified-microsoft-azure-expert-42-hours-training-35?amp"
+cdnAmpWebUrl: "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/become-certified-microsoft-azure-expert-42-hours-training-35?amp"
 type: article
-quality: 57
+quality: 55
 heat: -1
 published: false
 
 provider:
-  name: Sify.com
-  domain: sify.com
+  name: Windows Central
+  domain: windowscentral.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://www.sify.com/uploads/satya_nadella_microsoft_ap_ul3hPHcfcijca.jpeg"
-    width: 900
-    height: 450
+  - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2020/12/sale_148067_article_image-3gfx.jpg"
+    width: 800
+    height: 533
     isCached: true
 
 related:
@@ -74,21 +74,21 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
-  - title: "Become a certified Microsoft Azure expert with 42 hours of training for $35"
-    excerpt: "StackCommerce With so many businesses setting up online in the past year, cloud engineers are in demand. The 2021 Complete Microsoft Azure Certification Prep Bundle helps you become a certified expert with 42 hours of training,"
-    publishedDateTime: 2020-12-12T17:24:00Z
-    webUrl: "https://www.windowscentral.com/become-certified-microsoft-azure-expert-42-hours-training-35"
-    ampWebUrl: "https://www.windowscentral.com/become-certified-microsoft-azure-expert-42-hours-training-35?amp"
-    cdnAmpWebUrl: "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/become-certified-microsoft-azure-expert-42-hours-training-35?amp"
+  - title: "Nadella takes a dig at Amazon as Microsoft unveils Azure Purview"
+    excerpt: "Taking an apparent dig at Amazon and its Cloud arm AWS, Microsoft CEO Satya Nadella has said that it is important to not only trust a vendors technology capabilities but also its ‘business model alignment with its customers."
+    publishedDateTime: 2020-12-04T08:41:00Z
+    webUrl: "https://www.sify.com/finance/nadella-takes-a-dig-at-amazon-as-microsoft-unveils-azure-purview-news-topnews-umegIohfjjjib.html"
+    ampWebUrl: "https://www.sify.com/finance/nadella-takes-a-dig-at-amazon-as-microsoft-unveils-azure-purview-news-topnews-umegIohfjjjib.html"
+    cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/finance/nadella-takes-a-dig-at-amazon-as-microsoft-unveils-azure-purview-news-topnews-umegIohfjjjib.html"
     type: article
     provider:
-      name: Windows Central
-      domain: windowscentral.com
-    quality: 55
+      name: Sify.com
+      domain: sify.com
+    quality: 57
     images:
-      - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2020/12/sale_148067_article_image-3gfx.jpg"
-        width: 800
-        height: 533
+      - url: "https://www.sify.com/uploads/satya_nadella_microsoft_ap_ul3hPHcfcijca.jpeg"
+        width: 900
+        height: 450
         isCached: true
   - title: "Cyber Security Cloud Launches WafCharm on Microsoft Azure"
     excerpt: "Cyber Security Cloud, Inc. (CSC) is pleased to announce the availability of WafCharm on Microsoft Azure. Already available to over one million Amazon AWS users around the world, this launch provides Azure users with AI operation of Web Application Firewall (WAF) rules,"
@@ -409,6 +409,6 @@ related:
       domain: wfmz.com
     quality: 0
 
-secured: "9moIqiGgZ89iZnaX1oLQkWxPhZPTW9MJJs6s3UjV+Zyw9MaJ+STQzW/JLIoFPclt6txQK/6WXCMfPGBYMmf+PYpaFlsQmz+V3Li4BtQQABzOPpCQ1ErPxa4YFPiAXaW1AoLuQPpURCOPrmKPX+js6xNOY6p91MsdNTg0E3UUm1tc76JslU+TeWKZiBhsShrI965+agYd1brKiHXwQnT8rwOVGp6T8Wdxbu23JKZqq51A+Ae2ZQB5xtwWi3j5/C2te4TXk4+xa7oFLyFFqe0HIvwPRQ77Tvv7faTUgUFhGe0WZnDPezTo8W3iKRPYtFslECiYIRbFWa4LMmSbXuLHU2gTJtmZEie4Pxk4DnHPhqY=;7mKaz+uzsBP1hkCVbX7MnA=="
+secured: "XfVFPc9N9rPIBVHrLo636MZFGdR0yXSLEtbUTHe4K3cNMvuiGxeVIsqw2bwaley6GTP+agqKce8d84qkn2NftJump2XR1B+qwHoS4nPj1UCZ/2J6/D0IZM4Ps9JY4wcBYY3rfXTgUNqxfL8gLXZSs42xJt7OqTBbeM+zRcVrMQMd3MWcfPcMWLOcPXown1xI3KW8WEq9pPpfEZnvHRMI+RNe+y97h6sMYBi24kTLE3YLN+PEaj1IPBS4MdwyTfbYqNPqi7LH5mFI/2SQw8r6pQy/dy3lpG+MnWhcdRYyU5qpE47MvcPezfzzBv7H4aqZfZnEQwRk/Rpd+qiv7uSERISozG6YXrVIoCCIB7O95zU=;si1T+M1Cw0Jq8KEO1GUmGg=="
 ---
 
