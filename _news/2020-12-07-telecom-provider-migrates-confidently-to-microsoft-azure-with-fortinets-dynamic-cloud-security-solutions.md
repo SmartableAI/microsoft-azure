@@ -78,10 +78,10 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Johnson Controls and Microsoft announce global collaboration, launch integration between OpenBlue Digital Twin and Azure Digital Twins"
-    excerpt: "As a key partner for Azure Digital Twins, Johnson Control’s OpenBlue Digital Twin is a comprehensive platform that will support the entire ecosystem of building and device manag"
+  - title: "Johnson Controls and Microsoft Announce Global Collaboration, Launch Integration between OpenBlue Digital Twin and Azure Digital Twins"
+    excerpt: "Microsoft also announced the general availability of Microsoft Azure Digital Twins. As a key partner for Azure Digital Twins, Johnson Controls` OpenBlue Digital Twin is a comprehensive platform that will support the entire ecosystem of building and device ..."
     publishedDateTime: 2020-12-09T12:47:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-environment-and-nature-sustainable-development-b1131d847e33831f4ed63f46dc68a00b/gallery/b553c755ea8e1815f5eac6981e171379"
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-environment-and-nature-sustainable-development-6ce57b091b28243f2e8c9a5c337292c4"
     type: article
     provider:
       name: Associated Press
