@@ -1,25 +1,27 @@
 ---
 category: news
 title: "HMB Earns Microsoft Advanced Specialization in Modernization of Web Applications to Microsoft Azure"
-excerpt: "Doug Donovan, HMB's chief strategy officer, added, \"Earning the Modernization of Web Applications to Microsoft Azure advanced specialization from Microsoft is just further confirmation that HMB is ..."
-publishedDateTime: 2020-12-04T04:57:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/hmb-earns-microsoft-advanced-specialization-in-modernization-of-web-applications-to-microsoft-azure-1029863768"
-webUrl: "https://markets.businessinsider.com/news/stocks/hmb-earns-microsoft-advanced-specialization-in-modernization-of-web-applications-to-microsoft-azure-1029863768"
+excerpt: "HMB, a technology solutions company with offices in Columbus, Ohio and Louisville, Kentucky, announced it has earned a Microsoft"
+publishedDateTime: 2020-12-04T03:15:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/hmb-earns-microsoft-advanced-specialization-in-modernization-of-web-applications-to-microsoft-azure-301186295.html"
+webUrl: "https://www.prnewswire.com/news-releases/hmb-earns-microsoft-advanced-specialization-in-modernization-of-web-applications-to-microsoft-azure-301186295.html"
 type: article
-quality: 43
+quality: 23
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Azure
+
+images:
+  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+    width: 600
+    height: 315
+    isCached: true
 
 related:
   - title: "Microsoft just stress-tested its most powerful Azure node in a pretty fun way"
@@ -141,6 +143,20 @@ related:
       - url: "https://i.insider.com/5fcabc41037cbd00186140ed?width=700"
         width: 700
         height: 525
+        isCached: true
+  - title: "Former Microsoft Cloud Security Leads Unveil New Startup"
+    excerpt: "Wiz has raised $100 million since its January launch and plans to help businesses with visibility into cloud security threats."
+    publishedDateTime: 2020-12-09T20:11:00Z
+    webUrl: "https://www.darkreading.com/cloud/former-microsoft-cloud-security-leads-unveil-new-startup/d/d-id/1339663"
+    type: article
+    provider:
+      name: Dark Reading
+      domain: darkreading.com
+    quality: 39
+    images:
+      - url: "https://twimgs.com/nojitter/darkreading/dr-logo.jpg"
+        width: 600
+        height: 600
         isCached: true
   - title: "ACTS Has Earned the Windows Server and SQL Server Migration to Microsoft Azure Advanced Specialization"
     excerpt: "PRNewswire/ -- Today ACTS (  ) announced it has earned the Windows Server and SQL Server Migration to Microsoft Azure advanced specialization, a validation of a solution partner's deep knowledge, extensive experience and expertise in migrating Windows Server and SQL Server-based workloads to Azure."
@@ -377,6 +393,6 @@ related:
       domain: wfmz.com
     quality: 0
 
-secured: "BZUriiDogS/hi2UvncYPvC8Icd2af1bePdU96Ty/plHQwNhSPGz6jvZz+j0KcWbT7sTz7sZTtE+LeX/MaKxxRvyxZNFrq0M4l5+8+/3ZZrQ+ht7sL6HAD3zrGi3Fot0XC300tLnVmWgffkCVY1qQJ1HUzXZw7h61xa2uVdtN1jHUhmEMUJg5B7sca8nvzGmEyJtu5r2CD91phQS8Mmiuw7H2vSduq0uTxPKHnJgWf+3XL8T8U54qzGxYq4BSJp70AuFOwubLUlUKZU4bIbJTD7Zzw4fjAjSGrjtgWfF3Eca5e32oHs6CJoQCcXQBAGrtqlGKklTaKDeA6+Ie+lSl7ixTt28bqV5alVlXxXA9PmE=;PUVlagmOs31wz9ihD00eDg=="
+secured: "Cw2KHa23/TG6DQVFOSK6BZMPcyS64QiNIclPutuP5hCLuOarkmJXDyNWIgNviN13Cs9XmljPD1BFjuoptzx2LVfwaiQ41HD9Sk4yYgZLnzRU2lXB6Uham0W7HCuhgXxkaGOl/YmNJyOjKDtdNowU2oCnq1UadZ20sYkn30V21alufplAdCDHFzCqbFCf1ED5JMFAhvfa+3FmCY6DxXIgTRh17HAxk9UlLj8Up9d0UkFkjzfqkvANMxSgDJHhoQtXQ5MwEQ86PDRiYIbavn+avTrIse1yXH1gxyR1v5pkwnuSsvupDc2QWZww9RF7t8q/ONVWEmfsqR5IMfL66pNeFFPJLLlC5g4Pzkjukbjdr2c=;qBPa5K4HKIkBTcUfpPic/Q=="
 ---
 

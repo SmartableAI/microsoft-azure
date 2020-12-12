@@ -1,30 +1,27 @@
 ---
 category: news
-title: "UK’s first electric car charging forecourt opens to the public, powered by Microsoft Azure and Dynamics"
-excerpt: "All the energy is sourced from a 10 MWp solar farm 44 miles away that can produce enough energy to drive 5,000 electric cars every year."
-publishedDateTime: 2020-12-07T10:43:00Z
-originalUrl: "https://news.microsoft.com/en-gb/2020/12/07/uks-first-electric-car-charging-forecourt-opens-to-the-public-powered-by-microsoft-azure-and-dynamics/"
-webUrl: "https://news.microsoft.com/en-gb/2020/12/07/uks-first-electric-car-charging-forecourt-opens-to-the-public-powered-by-microsoft-azure-and-dynamics/"
+title: "Former Microsoft Cloud Security Leads Unveil New Startup"
+excerpt: "Wiz has raised $100 million since its January launch and plans to help businesses with visibility into cloud security threats."
+publishedDateTime: 2020-12-09T20:11:00Z
+originalUrl: "https://www.darkreading.com/cloud/former-microsoft-cloud-security-leads-unveil-new-startup/d/d-id/1339663"
+webUrl: "https://www.darkreading.com/cloud/former-microsoft-cloud-security-leads-unveil-new-startup/d/d-id/1339663"
 type: article
-quality: 21
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Microsoft
-  domain: microsoft.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Dark Reading
+  domain: darkreading.com
 
 topics:
   - Azure
+  - Security
 
 images:
-  - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/68/2020/12/GS-EF-Braintree-093-1600x1067.jpg"
-    width: 1600
-    height: 1067
+  - url: "https://twimgs.com/nojitter/darkreading/dr-logo.jpg"
+    width: 600
+    height: 600
     isCached: true
 
 related:
@@ -147,20 +144,6 @@ related:
       - url: "https://i.insider.com/5fcabc41037cbd00186140ed?width=700"
         width: 700
         height: 525
-        isCached: true
-  - title: "Former Microsoft Cloud Security Leads Unveil New Startup"
-    excerpt: "Wiz has raised $100 million since its January launch and plans to help businesses with visibility into cloud security threats."
-    publishedDateTime: 2020-12-09T20:11:00Z
-    webUrl: "https://www.darkreading.com/cloud/former-microsoft-cloud-security-leads-unveil-new-startup/d/d-id/1339663"
-    type: article
-    provider:
-      name: Dark Reading
-      domain: darkreading.com
-    quality: 39
-    images:
-      - url: "https://twimgs.com/nojitter/darkreading/dr-logo.jpg"
-        width: 600
-        height: 600
         isCached: true
   - title: "ACTS Has Earned the Windows Server and SQL Server Migration to Microsoft Azure Advanced Specialization"
     excerpt: "PRNewswire/ -- Today ACTS (  ) announced it has earned the Windows Server and SQL Server Migration to Microsoft Azure advanced specialization, a validation of a solution partner's deep knowledge, extensive experience and expertise in migrating Windows Server and SQL Server-based workloads to Azure."
@@ -369,6 +352,20 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "UK’s first electric car charging forecourt opens to the public, powered by Microsoft Azure and Dynamics"
+    excerpt: "All the energy is sourced from a 10 MWp solar farm 44 miles away that can produce enough energy to drive 5,000 electric cars every year."
+    publishedDateTime: 2020-12-07T10:43:00Z
+    webUrl: "https://news.microsoft.com/en-gb/2020/12/07/uks-first-electric-car-charging-forecourt-opens-to-the-public-powered-by-microsoft-azure-and-dynamics/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 21
+    images:
+      - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/68/2020/12/GS-EF-Braintree-093-1600x1067.jpg"
+        width: 1600
+        height: 1067
+        isCached: true
   - title: "Accenture Acquires AWS, Microsoft Azure Cloud Partner Olikka"
     excerpt: "Accenture acquires Olikka, an Australia-based systems integrator for Amazon Web Services (AWS) & Microsoft Azure. Accenture is the worlds' top public cloud MSP, ChannelE2E research says."
     publishedDateTime: 2020-12-02T02:31:00Z
@@ -397,6 +394,6 @@ related:
       domain: wfmz.com
     quality: 0
 
-secured: "Ikaq6vVary1OD536pX4iGcEYu3VEp2VdX5FN7h1tEabuDDqSejB4GGp2ynGw0003MSboR4ETRgUY4X/2VfOF6puh6wXfrOThXNWx7j+g+ME2bh418T/h3315nR/0STqfq/jaxnVCOT41rS+2ChvnsciCV5hbVautDX1RNza+1zP1LP26ylBiabrweqo/LEivfc6KbTG6+leHI1ccFY/IkVAWP/79JoA5nPvoph9v5W3YShTKZMQr1nCpsCA7aPL3SN5S1KGxepuc6Q4659KS+ZafzmYH4nnG6LN2nZLUc2tFntrtYfqx8TRe8xt3tNKaRue2+UElZfTU0eqMHtYioTL2o72AwBxtjDSjJQUDPKF/pf1bPQgjRj0Jjhmc0xFeW6fRoxV8tYY9WfdZP1/KAOYJtiqqHGsx4ZkwsbIFhpsCoDNOgMXnopp7JOFmh8Wglx+lCt6B934y+UeCX8UqUtzLg9OqLkLtkUXu/wiz4nTXeFAWr6VwUrMul2eySy4jwQIC9bkpOBkzCLmaE2zsaQ==;RJ3ghp29+AJ5aLilH0QY+Q=="
+secured: "2ojSz6vIUjV9VhktsNMvfs+hf3wdS1ZJ2aath6C4yJEndsxw/S41FRi3xTcbVKycUA2OS8iJYbM4WIQlEzp7UUkA+Asb+0cOOFD4rjpdSHuCcRrHC0iXmzDNa84Im++dWdnc9khJ33j3jDj1qTub6iYYFsFHhpM1mhSwoAS+RI8O58iYecxDZyeDEneDbA6kyQZdkZHrdX6BM2tTCRJ2O8mHUCOd4eOI544g0LqS8y67heWmgkziSA3rRVMZWzP5AxXVzz+RBkzM0ZvuiXOX53XfqkRg68v/59e2KH1csGZJ3XrDUApjdX6zhFoGtFiPl+nVDwykm6T+QjJxfFxit0Pc+XhMXUhg3WJJ9qsn+zM=;NHSnKi/d1smMSMFVT4QD8A=="
 ---
 

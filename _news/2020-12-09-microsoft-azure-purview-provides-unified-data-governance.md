@@ -133,15 +133,20 @@ related:
         width: 700
         height: 525
         isCached: true
-  - title: "HMB Earns Microsoft Advanced Specialization in Modernization of Web Applications to Microsoft Azure"
-    excerpt: "Doug Donovan, HMB's chief strategy officer, added, \"Earning the Modernization of Web Applications to Microsoft Azure advanced specialization from Microsoft is just further confirmation that HMB is ..."
-    publishedDateTime: 2020-12-04T04:57:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/hmb-earns-microsoft-advanced-specialization-in-modernization-of-web-applications-to-microsoft-azure-1029863768"
+  - title: "Former Microsoft Cloud Security Leads Unveil New Startup"
+    excerpt: "Wiz has raised $100 million since its January launch and plans to help businesses with visibility into cloud security threats."
+    publishedDateTime: 2020-12-09T20:11:00Z
+    webUrl: "https://www.darkreading.com/cloud/former-microsoft-cloud-security-leads-unveil-new-startup/d/d-id/1339663"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 43
+      name: Dark Reading
+      domain: darkreading.com
+    quality: 39
+    images:
+      - url: "https://twimgs.com/nojitter/darkreading/dr-logo.jpg"
+        width: 600
+        height: 600
+        isCached: true
   - title: "ACTS Has Earned the Windows Server and SQL Server Migration to Microsoft Azure Advanced Specialization"
     excerpt: "PRNewswire/ -- Today ACTS (  ) announced it has earned the Windows Server and SQL Server Migration to Microsoft Azure advanced specialization, a validation of a solution partner's deep knowledge, extensive experience and expertise in migrating Windows Server and SQL Server-based workloads to Azure."
     publishedDateTime: 2020-12-10T13:31:00Z
@@ -334,6 +339,20 @@ related:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
+        isCached: true
+  - title: "HMB Earns Microsoft Advanced Specialization in Modernization of Web Applications to Microsoft Azure"
+    excerpt: "HMB, a technology solutions company with offices in Columbus, Ohio and Louisville, Kentucky, announced it has earned a Microsoft"
+    publishedDateTime: 2020-12-04T03:15:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/hmb-earns-microsoft-advanced-specialization-in-modernization-of-web-applications-to-microsoft-azure-301186295.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 23
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
         isCached: true
   - title: "UK’s first electric car charging forecourt opens to the public, powered by Microsoft Azure and Dynamics"
     excerpt: "All the energy is sourced from a 10 MWp solar farm 44 miles away that can produce enough energy to drive 5,000 electric cars every year."
