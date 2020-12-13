@@ -4,7 +4,7 @@ excerpt: "This learning path teaches how to create and customize Windows and Lin
 type: collection
 price: Free
 length: PT10H59M
-heat: 72
+heat: 70
 
 provider:
   name: Microsoft Learn
