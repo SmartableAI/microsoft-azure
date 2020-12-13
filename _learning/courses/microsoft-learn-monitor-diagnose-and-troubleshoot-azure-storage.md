@@ -8,7 +8,7 @@ length: PT41M
 ratings:
   count: 1291
   average: 4.5724244
-heat: 51
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     height: 400
     isCached: true
 
-secured: "Fs19tBAdP5fFinY4D4ujamMRzvKei0Xy3yAcQWlbaV0P6cS+KIwdblitZVT1B2k8OtptcypdVwG18y3m7yhJ1iyyiG3JSRTbjX2PKgqgIYg0RedxYqg0dpjcD/Mdf05TwCRMhSNnCL3P34BEP7SfdU7v31enWgfvEAogpYW5EF/LH7fHKLWEawAYSJP3AewkeRBwwv4drcvkRgIlLWRVd1bk70QCTnO5AToJP95g09K5GsdAjoO3Kigg0ASEJ8b3Hl8TVN969IQvqrP6XSmo44Hf+Ldxn0ezQyq0vYq6gpZ2B093mITTWze02vj8EPoh7el5iTh7ieVW8SSXOJgR7dZ7CYcbysqL2ta+LuIBZhI29ZLfQx7tQWqSdEbfZvrDKmbzfHD3X1/jQIx90fbj8XNWI+NsbUaDI1rcrpDzOAE=;7oWYKbxtPfOp0UQDIYQi8g=="
+secured: "DyHrP2MrErX1J+mFP8TMLvUfa1USxWtLGbOsAD1sumfZexnoQanEvk00Ee7DuG4FMG5gFaiZPDfj0KbOXACCnnr/0ccl/Lz0/hOTdqfS2xB7D8H+stIYamb7PJZA6DfkNswEq9XyZ5QxE52zuc1DicTFJ7vxAuEMeALK0UcXyB/UrfoDB+E/935eDfi6nzraawNbGmqpaLDoo32RsCJj2HG+SzCqXYcwgQ09S49b/+4UezfnsjITJkO3nZ75xxdIApWMUWwRGhhF1dUmoBCj3+IefryH69NpYHLA6yhesuOMq5QvHLA/1sGWFfHjuQES5Yn6P+QYa3ZA5+bETrkShTRCGchQcXKsBF5K0eTv3aqtq+AtTv+t9wqDF26pZp6KjNbqkg9yleYwojKVmZWx5qnevA8n0SOAEuwsInNGPPM=;XXafVYkBvMS2ZSmi4S63uw=="
 ---
 
