@@ -4,49 +4,6 @@
   "page": 24,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-describe-performance-monitoring.md",
-      "title": "Describe performance monitoring",
-      "excerpt": "Compare Azure and on-premises tools for monitoring and measuring performance. Determine critical metrics. Understand the purpose of a baseline for comparative analysis.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-describe-performance-monitoring/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-performance-monitoring/",
-      "length": "PT42M",
-      "ratings": {
-        "count": 571,
-        "average": 4.821366
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/describe-performance-monitoring-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Databases"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-describe-performance-related-maintenance-tasks-sql-server.md",
       "title": "Describe performance-related maintenance tasks in SQL Server",
       "excerpt": "Implement tasks for both IaaS and PaaS to maintain indexes, and statistics. Explore the automatic tuning features of Azure SQL Database.",
@@ -142,8 +99,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-a-geographically-distributed-application/",
       "length": "PT34M",
       "ratings": {
-        "count": 638,
-        "average": 4.673981
+        "count": 639,
+        "average": 4.6744914
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1144,8 +1101,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/enterprise-scale-introduction/",
       "length": "PT34M",
       "ratings": {
-        "count": 118,
-        "average": 4.601695
+        "count": 119,
+        "average": 4.605042
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1230,8 +1187,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/enterprise-scale-organization/",
       "length": "PT34M",
       "ratings": {
-        "count": 98,
-        "average": 4.6734695
+        "count": 99,
+        "average": 4.676768
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1305,6 +1262,49 @@
       "topics": [
         "Azure",
         "Databases"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-execute-existing-ssis-packages-azure-data-factory.md",
+      "title": "Execute existing SSIS packages in Azure Data Factory or Azure Synapse Pipeline",
+      "excerpt": "Execute existing SSIS packages in Azure Data Factory or Azure Synapse Pipeline",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-execute-existing-ssis-packages-azure-data-factory/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/execute-existing-ssis-packages-azure-data-factory/",
+      "length": "PT24M",
+      "ratings": {
+        "count": 10,
+        "average": 4.7
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/execute-existing-ssis-packages-azure-data-factory-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Analytics"
       ]
     }
   ],

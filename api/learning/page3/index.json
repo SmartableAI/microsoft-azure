@@ -4,6 +4,221 @@
   "page": 3,
   "value": [
     {
+      "path": "_learning/collections/microsoft-learn-architect-network-infrastructure-in-azure.md",
+      "title": "Architect network infrastructure in Azure",
+      "excerpt": "Learn how to architect a secure, flexible, network infrastructure in Azure and connect on-premises networks to your Azure resources.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-architect-network-infrastructure-in-azure/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-architect-network-infrastructure-in-azure/",
+      "length": "PT8H59M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-connect-on-premises-network-with-vpn-gateway.md",
+          "title": "Connect your on-premises network to Azure with VPN Gateway",
+          "excerpt": "Learn about the virtual private network (VPN) gateway options in Azure and typical scenarios for using a VPN. Create and test VPNs to securely connect sites to Azure.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-connect-on-premises-network-with-vpn-gateway/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/connect-on-premises-network-with-vpn-gateway/",
+          "length": "PT39M",
+          "ratings": {
+            "count": 5548,
+            "average": 4.6070657
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 55,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/connect-on-premises-network-with-vpn-gateway-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Networking"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-connect-on-premises-network-with-expressroute.md",
+          "title": "Connect your on-premises network to the Microsoft global network by using ExpressRoute",
+          "excerpt": "Connect your on-premises systems and users to Azure and Office 365 by using ExpressRoute for private, dedicated, and guaranteed throughput connectivity.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-connect-on-premises-network-with-expressroute/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/connect-on-premises-network-with-expressroute/",
+          "length": "PT40M",
+          "ratings": {
+            "count": 3728,
+            "average": 4.6735516
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 56,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/connect-on-premises-network-with-expressroute-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Networking"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-secure-and-isolate-with-nsg-and-service-endpoints.md",
+          "title": "Secure and isolate access to Azure resources by using network security groups and service endpoints",
+          "excerpt": "Find out how Azure network security groups and service endpoints help you secure your virtual machines and Azure services from unauthorized network access.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-secure-and-isolate-with-nsg-and-service-endpoints/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-and-isolate-with-nsg-and-service-endpoints/",
+          "length": "PT43M",
+          "ratings": {
+            "count": 6904,
+            "average": 4.6502028
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 56,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/secure-and-isolate-with-nsg-and-service-endpoints-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Networking",
+            "Security"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-integrate-vnets-with-vnet-peering.md",
+          "title": "Distribute your services across Azure virtual networks and integrate them by using virtual network peering",
+          "excerpt": "Use virtual network peering to enable communication across virtual networks in a way that's secure and minimally complex.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-integrate-vnets-with-vnet-peering/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/integrate-vnets-with-vnet-peering/",
+          "length": "PT42M",
+          "ratings": {
+            "count": 2929,
+            "average": 4.728235
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 51,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/integrate-vnets-with-vnet-peering-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Networking"
+          ]
+        }
+      ],
+      "size": 12,
+      "heat": 67,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/connect-on-premises-network-with-vpn-gateway-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Networking"
+      ]
+    },
+    {
       "path": "_learning/collections/microsoft-learn-az-104-deploy-and-manage-azure-compute-resources.md",
       "title": "AZ-104: Deploy and manage Azure compute resources",
       "excerpt": "Learn how to deploy and configure Azure compute resources and prepare for Exam AZ-104: Microsoft Azure Administrator.",
@@ -816,8 +1031,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-devops-devtest-labs/",
       "length": "PT21M",
       "ratings": {
-        "count": 931,
-        "average": 4.718582
+        "count": 941,
+        "average": 4.7194476
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -901,8 +1116,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/monitoring-fundamentals/",
       "length": "PT22M",
       "ratings": {
-        "count": 804,
-        "average": 4.7512436
+        "count": 809,
+        "average": 4.7527814
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -945,8 +1160,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/serverless-fundamentals/",
       "length": "PT20M",
       "ratings": {
-        "count": 693,
-        "average": 4.7792206
+        "count": 695,
+        "average": 4.779856
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1016,8 +1231,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-azure-service-to-integrate-and-automate-business-processes/",
           "length": "PT44M",
           "ratings": {
-            "count": 11124,
-            "average": 4.5779395
+            "count": 11125,
+            "average": 4.5778875
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1250,8 +1465,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/control-azure-services-with-cli/",
           "length": "PT34M",
           "ratings": {
-            "count": 4668,
-            "average": 4.755356
+            "count": 4669,
+            "average": 4.755408
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1285,8 +1500,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/automate-azure-tasks-with-powershell/",
           "length": "PT1H11M",
           "ratings": {
-            "count": 5394,
-            "average": 4.7159805
+            "count": 5395,
+            "average": 4.7160335
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1365,8 +1580,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/iot-fundamentals/",
       "length": "PT25M",
       "ratings": {
-        "count": 880,
-        "average": 4.775
+        "count": 887,
+        "average": 4.774521
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1408,8 +1623,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/plan-manage-azure-costs/",
       "length": "PT43M",
       "ratings": {
-        "count": 711,
-        "average": 4.8129396
+        "count": 712,
+        "average": 4.8132024
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1552,8 +1767,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/integrate-vnets-with-vnet-peering/",
           "length": "PT42M",
           "ratings": {
-            "count": 2928,
-            "average": 4.7281423
+            "count": 2929,
+            "average": 4.728235
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1725,8 +1940,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-users-and-groups-in-aad/",
           "length": "PT50M",
           "ratings": {
-            "count": 3705,
-            "average": 4.691228
+            "count": 3707,
+            "average": 4.691125
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1768,8 +1983,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/allow-users-reset-their-password/",
           "length": "PT31M",
           "ratings": {
-            "count": 2056,
-            "average": 4.7096305
+            "count": 2057,
+            "average": 4.7097716
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1889,8 +2104,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-ad/",
           "length": "PT27M",
           "ratings": {
-            "count": 2022,
-            "average": 4.682987
+            "count": 2023,
+            "average": 4.6831436
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2186,8 +2401,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/integrate-vnets-with-vnet-peering/",
           "length": "PT42M",
           "ratings": {
-            "count": 2928,
-            "average": 4.7281423
+            "count": 2929,
+            "average": 4.728235
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2317,8 +2532,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-docker-containers/",
           "length": "PT32M",
           "ratings": {
-            "count": 3542,
-            "average": 4.6377754
+            "count": 3544,
+            "average": 4.6376977
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2558,8 +2773,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-users-and-groups-in-aad/",
           "length": "PT50M",
           "ratings": {
-            "count": 3705,
-            "average": 4.691228
+            "count": 3707,
+            "average": 4.691125
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2601,8 +2816,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/allow-users-reset-their-password/",
           "length": "PT31M",
           "ratings": {
-            "count": 2056,
-            "average": 4.7096305
+            "count": 2057,
+            "average": 4.7097716
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2722,8 +2937,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-docker-containers/",
           "length": "PT32M",
           "ratings": {
-            "count": 3542,
-            "average": 4.6377754
+            "count": 3544,
+            "average": 4.6376977
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2896,8 +3111,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-compute-fundamentals/",
           "length": "PT52M",
           "ratings": {
-            "count": 1597,
-            "average": 4.772699
+            "count": 1600,
+            "average": 4.7725
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3202,8 +3417,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/host-a-web-app-with-azure-app-service/",
           "length": "PT58M",
           "ratings": {
-            "count": 5394,
-            "average": 4.6084538
+            "count": 5395,
+            "average": 4.608526
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4148,8 +4363,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
           "length": "PT39M",
           "ratings": {
-            "count": 1896,
-            "average": 4.7299576
+            "count": 1900,
+            "average": 4.7305264
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4554,8 +4769,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-your-migration-to-azure/",
           "length": "PT44M",
           "ratings": {
-            "count": 2101,
-            "average": 4.6544504
+            "count": 2103,
+            "average": 4.6543036
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4743,200 +4958,6 @@
         "Migration",
         "Web",
         "Databases"
-      ]
-    },
-    {
-      "path": "_learning/collections/microsoft-learn-architect-storage-infrastructure-in-azure.md",
-      "title": "Architect storage infrastructure in Azure",
-      "excerpt": "Learn how to architect storage solutions for your applications in Azure.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-architect-storage-infrastructure-in-azure/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-architect-storage-infrastructure-in-azure/",
-      "length": "PT6H7M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "topItems": [
-        {
-          "path": "_learning/courses/microsoft-learn-choose-storage-approach-in-azure.md",
-          "title": "Choose a data storage approach in Azure",
-          "excerpt": "Learn how using Azure Storage, Azure SQL Database, and Azure Cosmos DB - or a combination of them - for your business scenario is the best way to get the most performant solution.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-choose-storage-approach-in-azure/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-storage-approach-in-azure/",
-          "length": "PT30M",
-          "ratings": {
-            "count": 11619,
-            "average": 4.671056
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 57,
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Storage",
-            "Databases"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-create-azure-storage-account.md",
-          "title": "Create an Azure Storage account",
-          "excerpt": "Discover ways to use an Azure Storage account to manage your data for billing, access, and storage location of your blobs, files, queues, and tables.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-create-azure-storage-account/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-azure-storage-account/",
-          "length": "PT30M",
-          "ratings": {
-            "count": 6626,
-            "average": 4.7576213
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 51,
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Storage",
-            "Management Tools"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-upload-download-and-manage-data-with-azure-storage-explorer.md",
-          "title": "Upload, download, and manage data with Azure Storage Explorer",
-          "excerpt": "Azure Storage Explorer allows you to quickly view all the storage services under your account. You can browse through, read, and edit data stored in those services through a user-friendly graphical interface.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-upload-download-and-manage-data-with-azure-storage-explorer/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/upload-download-and-manage-data-with-azure-storage-explorer/",
-          "length": "PT37M",
-          "ratings": {
-            "count": 1758,
-            "average": 4.613197
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 52,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/upload-download-and-manage-data-with-azure-storage-explorer-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Storage",
-            "Databases"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-connect-app-to-azure-storage.md",
-          "title": "Connect an app to Azure Storage",
-          "excerpt": "Create a simple application and add configuration, client library references, and C# or JavaScript code to connect it to Azure Storage.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-connect-app-to-azure-storage/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/connect-an-app-to-azure-storage/",
-          "length": "PT1H15M",
-          "ratings": {
-            "count": 5237,
-            "average": 4.632423
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 51,
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Storage",
-            "Management Tools"
-          ]
-        }
-      ],
-      "size": 9,
-      "heat": 62,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/upload-download-and-manage-data-with-azure-storage-explorer-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Storage"
       ]
     }
   ],

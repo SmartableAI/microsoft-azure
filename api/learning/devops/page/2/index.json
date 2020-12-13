@@ -4,6 +4,50 @@
   "page": 2,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-azure-well-architected-cost-optimization.md",
+      "title": "Microsoft Azure Well-Architected Framework - Cost optimization",
+      "excerpt": "Learn how to use the cost optimization pillar of the Microsoft Azure Well-Architected Framework to design a cloud-based architecture that is efficient, eliminates waste, and gives you full visibility into where your money is spent on cloud resources.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-azure-well-architected-cost-optimization/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-cost-optimization/",
+      "length": "PT51M",
+      "ratings": {
+        "count": 1138,
+        "average": 4.717926
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/azure-well-architected-cost-optimization-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Management Tools",
+        "DevOps"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-azure-well-architected-performance-efficiency.md",
       "title": "Microsoft Azure Well-Architected Framework - Performance efficiency",
       "excerpt": "Learn how to adjust your capacity based on workload and how to optimize network performance, storage, and database performance.",
@@ -96,8 +140,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-monitoring-strategy-on-azure/",
       "length": "PT57M",
       "ratings": {
-        "count": 1615,
-        "average": 4.590712
+        "count": 1618,
+        "average": 4.5902348
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -176,8 +220,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/implement-code-workflow/",
       "length": "PT1H27M",
       "ratings": {
-        "count": 3620,
-        "average": 4.763536
+        "count": 3621,
+        "average": 4.7636013
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -262,8 +306,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/recommend-system-feedback-mechanisms/",
       "length": "PT49M",
       "ratings": {
-        "count": 307,
-        "average": 4.664495
+        "count": 308,
+        "average": 4.6655846
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -304,8 +348,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/troubleshoot-inbound-connectivity-azure-load-balancer/",
       "length": "PT1H38M",
       "ratings": {
-        "count": 433,
-        "average": 4.6489606
+        "count": 434,
+        "average": 4.64977
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -574,8 +618,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/recommend-system-feedback-mechanisms/",
           "length": "PT49M",
           "ratings": {
-            "count": 307,
-            "average": 4.664495
+            "count": 308,
+            "average": 4.6655846
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -933,8 +977,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-release-pipeline/",
       "length": "PT1H4M",
       "ratings": {
-        "count": 1066,
-        "average": 4.685741
+        "count": 1067,
+        "average": 4.685098
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1042,49 +1086,6 @@
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/azure-devops/deploy-docker-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "DevOps"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-deploy-java-containers.md",
-      "title": "Automate Java container deployments with Azure Pipelines",
-      "excerpt": "Implement a CI/CD pipeline for Java containers.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-deploy-java-containers/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-java-containers/",
-      "length": "PT56M",
-      "ratings": {
-        "count": 13,
-        "average": 4.076923
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/azure-devops/deploy-java-containers-social.png",
           "width": 640,
           "height": 320,
           "isCached": true
@@ -1236,8 +1237,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-devops-continuous-security-operations/",
       "length": "PT22M",
       "ratings": {
-        "count": 937,
-        "average": 4.7086444
+        "count": 938,
+        "average": 4.707889
       },
       "provider": {
         "name": "Microsoft Learn",

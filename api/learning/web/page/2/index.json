@@ -4,6 +4,53 @@
   "page": 2,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-aspnet-logging.md",
+      "title": "Implement logging in a .NET Framework ASP.NET web application",
+      "excerpt": "Learn how to implement logging in an ASP.NET web application so you can store log data in Azure Blob storage and incorporate log information into Azure Application Insights performance data.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-aspnet-logging/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/aspnet-logging/",
+      "length": "PT24M",
+      "ratings": {
+        "count": 21,
+        "average": 4.857143
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/aspnet-logging-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Web",
+        "Compute",
+        "Containers",
+        "Mobile",
+        "Management Tools"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-aspnet-session.md",
       "title": "Improve session scalability in a .NET Framework ASP.NET web application by using Azure Cache for Redis",
       "excerpt": "Learn how to use Azure Cache for Redis to store session data and improve the scalability of web applications.",
@@ -461,8 +508,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-a-geographically-distributed-application/",
       "length": "PT34M",
       "ratings": {
-        "count": 638,
-        "average": 4.673981
+        "count": 639,
+        "average": 4.6744914
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -704,50 +751,6 @@
         "Azure",
         "Compute",
         "Serverless",
-        "Web"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-migrate-app-service-migration-assistant.md",
-      "title": "Migrate an on-premises web application to Azure App Service",
-      "excerpt": "Use the Azure App Service Migration Assistant to assess the readiness of a web app to be deployed on App Service, and perform the migration.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-migrate-app-service-migration-assistant/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/migrate-app-service-migration-assistant/",
-      "length": "PT36M",
-      "ratings": {
-        "count": 67,
-        "average": 4.6865673
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/migrate-app-service-migration-assistant-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Compute",
         "Web"
       ]
     },

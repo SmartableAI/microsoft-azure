@@ -4,6 +4,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-build-cloud-governance-strategy-azure.md",
+      "title": "Build a cloud governance strategy on Azure",
+      "excerpt": "Learn how to access policies, resource locks, and tags, as well as how Azure services such as Azure Policy and Azure Blueprints can help you build a comprehensive cloud governance strategy.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-build-cloud-governance-strategy-azure/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-cloud-governance-strategy-azure/",
+      "length": "PT48M",
+      "ratings": {
+        "count": 592,
+        "average": 4.7347975
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 61,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/describe-azure-governance-methodologies-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Management Tools"
+      ]
+    },
+    {
       "path": "_learning/collections/microsoft-learn-ai-business-school-for-education.md",
       "title": "AI business school for education",
       "excerpt": "Learn to develop an AI strategy to create value in government, including artificial intelligence and machine learning technologies, culture, and responsible AI.",
@@ -2004,8 +2047,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-sql-deploy-configure/",
           "length": "PT1H14M",
           "ratings": {
-            "count": 268,
-            "average": 4.716418
+            "count": 269,
+            "average": 4.717472
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2439,8 +2482,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/implement-code-workflow/",
           "length": "PT1H27M",
           "ratings": {
-            "count": 3620,
-            "average": 4.763536
+            "count": 3621,
+            "average": 4.7636013
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3480,8 +3523,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/enterprise-scale-introduction/",
           "length": "PT34M",
           "ratings": {
-            "count": 118,
-            "average": 4.601695
+            "count": 119,
+            "average": 4.605042
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3523,8 +3566,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/enterprise-scale-organization/",
           "length": "PT34M",
           "ratings": {
-            "count": 98,
-            "average": 4.6734695
+            "count": 99,
+            "average": 4.676768
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3735,8 +3778,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/spark-architecture-fundamentals/",
           "length": "PT33M",
           "ratings": {
-            "count": 402,
-            "average": 4.619403
+            "count": 403,
+            "average": 4.6203475
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4768,8 +4811,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-release-pipeline/",
           "length": "PT1H4M",
           "ratings": {
-            "count": 1066,
-            "average": 4.685741
+            "count": 1067,
+            "average": 4.685098
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5588,8 +5631,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/learn-data-science-method/",
           "length": "PT34M",
           "ratings": {
-            "count": 415,
-            "average": 4.73253
+            "count": 416,
+            "average": 4.7283654
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -6181,229 +6224,6 @@
       "topics": [
         "Azure",
         "Blockchain"
-      ]
-    },
-    {
-      "path": "_learning/collections/microsoft-learn-implement-a-windows-server-hybrid-cloud-infrastructure.md",
-      "title": "Implement a Windows Server hybrid cloud infrastructure",
-      "excerpt": "You will learn how to address problems relating to the migration of on-premises workloads into Azure. After completing the learning path, you will be able to implement a hybrid Azure infrastructure.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-implement-a-windows-server-hybrid-cloud-infrastructure/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-implement-a-windows-server-hybrid-cloud-infrastructure/",
-      "length": "PT7H10M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "topItems": [
-        {
-          "path": "_learning/courses/microsoft-learn-implement-hybrid-network-infrastructure.md",
-          "title": "Implement hybrid network infrastructure",
-          "excerpt": "You'll learn to connect your on-premises environment to Azure, implement subnets and routing between your on-premises and cloud environments, and ensure that workloads in the cloud and on-premises perform DNS resolution to locate each other.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-implement-hybrid-network-infrastructure/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/implement-hybrid-network-infrastructure/",
-          "length": "PT1H9M",
-          "ratings": {
-            "count": 20,
-            "average": 4.7
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/implement-hybrid-network-infrastructure-social.png",
-              "width": 642,
-              "height": 321,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Management Tools",
-            "Compute"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-implement-hybrid-identity-with-windows-server.md",
-          "title": "Implement hybrid identity with Windows Server",
-          "excerpt": "Implement hybrid identity with Windows Server",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-implement-hybrid-identity-with-windows-server/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/implement-hybrid-identity-windows-server/",
-          "length": "PT1H49M",
-          "ratings": {
-            "count": 39,
-            "average": 4.5641026
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/implement-hybrid-identity-with-windows-server-social.png",
-              "width": 642,
-              "height": 321,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Identity",
-            "Management Tools",
-            "Compute"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-migrate-premises-windows-server-instances-to-azure-iaas-vms.md",
-          "title": "Migrate on-premises Windows Server instances to Azure IaaS virtual machines",
-          "excerpt": "You'll be able to plan a migration and select appropriate server migration tools. You will also learn how to use Azure Migrate, how to assess physical servers, and how to migrate those servers.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-migrate-premises-windows-server-instances-to-azure-iaas-vms/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/migrate-premises-windows-server-instances-azure-iaas-virtual-machines/",
-          "length": "PT41M",
-          "ratings": {
-            "count": 17,
-            "average": 4.7058825
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/migrate-on-premises-windows-server-instances-to-azure-iaas-vms-social.png",
-              "width": 642,
-              "height": 321,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Management Tools",
-            "Compute"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-implement-hybrid-file-server-infrastructure.md",
-          "title": "Implement a hybrid file server infrastructure",
-          "excerpt": "In this module, you’ll learn to deploy Azure File Sync, migrate from DFS, and use Storage Migration Services to migrate file servers to Azure.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-implement-hybrid-file-server-infrastructure/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/implement-hybrid-file-server-infrastructure/",
-          "length": "PT1H32M",
-          "ratings": {
-            "count": 20,
-            "average": 4.7
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/implement-a-hybrid-file-server-infrastructure-social.png",
-              "width": 642,
-              "height": 321,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Management Tools",
-            "Storage",
-            "Compute"
-          ]
-        }
-      ],
-      "size": 6,
-      "heat": 60,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/implement-hybrid-network-infrastructure-social.png",
-          "width": 642,
-          "height": 321,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Identity",
-        "Management Tools",
-        "Storage",
-        "Compute"
       ]
     }
   ],
