@@ -4,44 +4,6 @@
   "page": 47,
   "value": [
     {
-      "path": "_learning/videos/microsoft-scaling-with-service-fabric-mesh-azure-friday.md",
-      "title": "Scaling with Service Fabric Mesh | Azure Friday",
-      "excerpt": "Shortly before Ignite 2018, Chacko Daniel joined Scott Hanselman to show off the effortless way to scale a service from 3 replicas/containers to 1500 in seconds using Azure Service Fabric Mesh and to talk about the mesh features in the pipeline (see: Azure Service Fabric updates at Ignite 2018 https://aka.ms/azfr/489/06).",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-scaling-with-service-fabric-mesh-azure-friday/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-scaling-with-service-fabric-mesh-azure-friday/",
-      "originalUrl": "https://youtube.com/watch?v=QsO_zGuczOA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/QsO_zGuczOA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT9M48S",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2019-02-27T16:56:36-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/QsO_zGuczOA/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
       "path": "_learning/videos/microsoft-secure-your-iot-solution-with-microsoft-azure.md",
       "title": "Secure your IoT solution with Microsoft Azure",
       "excerpt": "Learn how you can use Azure to secure your IoT solution. Azure is now the first major public cloud with end-to-end security for IoT with enhancements to three key services. Azure Security Center can now be used to implement security best practices and mitigate threats not just for IoT devices, but for",
@@ -1160,6 +1122,45 @@
       "topics": [
         "Azure",
         "Compute"
+      ]
+    },
+    {
+      "path": "_learning/videos/microsoft-what-are-brokers-within-the-microsoft-identity-platform-one-dev-question-jean-marc-prieur.md",
+      "title": "What are brokers within the Microsoft identity platform? | One Dev Question: Jean-Marc Prieur",
+      "excerpt": "In the One Dev Question series, Jean-Marc Prieur, a Principal Program Manager working on the Microsoft identity platform, explains what a broker is and how to use one for Azure Microsoft identity platform developers.   Get more information at: https://docs.microsoft.com/azure/active-directory/develop/",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-what-are-brokers-within-the-microsoft-identity-platform-one-dev-question-jean-marc-prieur/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-what-are-brokers-within-the-microsoft-identity-platform-one-dev-question-jean-marc-prieur/",
+      "originalUrl": "https://youtube.com/watch?v=Zd_Uubnu0U0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Zd_Uubnu0U0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1M56S",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2019-12-09T08:52:37-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Zd_Uubnu0U0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Identity"
       ]
     }
   ],
