@@ -833,8 +833,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/control-network-traffic-flow-with-routes/",
       "length": "PT50M",
       "ratings": {
-        "count": 2011,
-        "average": 4.6330185
+        "count": 2012,
+        "average": 4.6332006
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -921,8 +921,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-azure-storage-account/",
       "length": "PT30M",
       "ratings": {
-        "count": 6623,
-        "average": 4.7575116
+        "count": 6624,
+        "average": 4.7575483
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1201,15 +1201,15 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-deploy-run-container-app-service.md",
-      "title": "Deploy and run a containerized web app with Azure App Service",
-      "excerpt": "Discover how to create a Docker image and store it in the Azure Container Registry, then use Azure App Service to deploy a web application based on the image.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-deploy-run-container-app-service/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-run-container-app-service/",
-      "length": "PT46M",
+      "path": "_learning/courses/microsoft-learn-deploy-wvd.md",
+      "title": "Deploy Windows Virtual Desktop in Microsoft Azure",
+      "excerpt": "Learn how to deploy Windows Virtual Desktop and customize the workspace for your users.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-deploy-wvd/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-deploy-wvd/",
+      "length": "PT34M",
       "ratings": {
-        "count": 4145,
-        "average": 4.627744
+        "count": 648,
+        "average": 4.728395
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1224,12 +1224,12 @@
         ]
       },
       "levels": [
-        "Beginner"
+        "Intermediate"
       ],
       "heat": 51,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/deploy-run-container-app-service-social.png",
+          "url": "https://docs.microsoft.com/learn/achievements/deploy-windows-virtual-desktop-social.png",
           "width": 800,
           "height": 400,
           "isCached": true
@@ -1239,10 +1239,7 @@
       "type": "course",
       "price": "Free",
       "topics": [
-        "Azure",
-        "Compute",
-        "Web",
-        "Containers"
+        "Azure"
       ]
     }
   ],
