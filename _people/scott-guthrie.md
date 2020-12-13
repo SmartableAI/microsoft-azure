@@ -18,7 +18,7 @@ website: http://t.co/rkquDCVhAW
 twitter:
   username: scottgu
   url: https://twitter.com/scottgu
-  followers: 159292
+  followers: 159285
 
 linkedin:
   url: https://www.linkedin.com/in/guthriescott/
@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Scott Guthrie"
 
-secured: "qoRx/Tf0bbwQNP2oxdQpglNibq1B9X+C8TFJorhqwbaFjLTiHvTiFcXvgjcdXUTPdoqNPOqtcMZvBW85ldqIMVY9uW5y/cEvm1T1ZNY+vKci1W4h8DX7lQqfWnZ8xn7qOYHQm2QlfmWVu9hUx8tgYwFUhrDLHh3ig6K2jzoORUrLIe+sCnUStGUUfH3xpHrwtAkXY7dpRS1knDK5L4qX6MmbTOIB+pVmd85ojkS+L1rqd92Vr+2Wbai5TqZ6bvMbYw++Cx/xWQ6uCv2wtJgyIVDwcfe3uHyJRgaPkOAdnlApAMIZZekTAvijTaQ6U2WRepdn+7KCYaA4nqPAk0tB//rKKITmv12aMtInEik+xaXFywu/IKNltHevYYIBn+sg0J7vsdeyb7cIADFtoi9d+5UUSijjiiEE665iXmUdymM=;0T2WdEYA9sJ5uiT5htUQgQ=="
+secured: "E+6tdm9k38/ZD7YX+J2RAaTQ6Y1q41p+TOYAYjl8DEsI99Uu56pQYJRj7jUyMf6c+ceAVPyPhjuLeAEWMZN/zj3WcoKFAavMDysb7Z5ThT69YPvGfBoHlWaRq9XgWA9YKcDJxfjJ8dspMR0MiRL3GOkJ3PNpfkkgO0CYcZdNEh8ILTQMUAnW59ybbXo2nZ3y+iL1vCDyKexD6Cr8axOtUrXSwUvO+eBIeQyl3myrU2YDk5Zsmitw+ckMK/t7l98dW9a6g7SEgIAi2JdkDu4W4KcVOaLQQcVvnrYsOSA0cbv3aNrX+ZgGS3yMwDW5iCV03C2+CzKsIc8lyD6L1qsVIV6SsiXnPh0PounEJ+MQUj9e6k6R8Znfn+4K5fnKY4X8Zn3rbBmUmkujzAkhApYAM+cZ+/noUOzwVxMfGyyKQ48=;/1mZ1w8ff5Mrhlw2LNOqXQ=="
 ---
 
