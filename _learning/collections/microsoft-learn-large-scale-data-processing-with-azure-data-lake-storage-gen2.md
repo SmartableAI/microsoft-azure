@@ -4,7 +4,7 @@ excerpt: "With this learning path, you'll use Azure Data Lake Storage to process
 type: collection
 price: Free
 length: PT2H5M
-heat: 51
+heat: 52
 
 provider:
   name: Microsoft Learn
