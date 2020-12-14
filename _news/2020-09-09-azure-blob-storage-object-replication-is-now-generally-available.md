@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/azure-blob-storage-objec
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-blob-storage-object-replication-is-now-generally-available/"
 type: article
 quality: 99
-heat: 419
+heat: 439
 published: true
 
 provider:
@@ -104,6 +104,15 @@ related:
     excerpt: "The new lineup of rugged edge devices are now generally available. Azure Stack Edge Mini R is a lightweight, portable, battery-operated device - small enough to fit into a backpack - designed for the harshest environments and disconnected scenarios. "
     publishedDateTime: 2020-09-22T16:05:24Z
     webUrl: "https://azure.microsoft.com/en-us/updates/azure-stack-edge-mini-r-is-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
+  - title: "Azure Digital Twins is now generally available"
+    excerpt: "Azure Digital Twins is generally available and read for production deployments. Features include: Flexible modelling and general graph topology, richer compute, bring your own IoT Hub for easier integration, and improved scalability. \n"
+    publishedDateTime: 2020-12-14T20:34:35Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-digital-twins-is-now-generally-available/"
     type: article
     provider:
       name: Microsoft

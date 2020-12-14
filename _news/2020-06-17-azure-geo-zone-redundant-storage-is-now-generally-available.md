@@ -116,6 +116,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
+  - title: "Azure Digital Twins is now generally available"
+    excerpt: "Azure Digital Twins is generally available and read for production deployments. Features include: Flexible modelling and general graph topology, richer compute, bring your own IoT Hub for easier integration, and improved scalability. \n"
+    publishedDateTime: 2020-12-14T20:34:35Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-digital-twins-is-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
   - title: "User-initiated failover for application fault resiliency in Azure SQL Managed Instance is now generally available"
     excerpt: "Test the impact of automatic failover operations during planned or unplanned events before deployment to production by manually initiating automatic failover"
     publishedDateTime: 2020-09-02T16:00:05Z

@@ -1,12 +1,12 @@
 ---
 category: news
-title: "Azure Storage account recovery available via portal is now generally available"
-excerpt: "Recover you deleted storage account directly from the portal."
-publishedDateTime: 2020-12-11T01:06:28Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/azure-storage-account-recovery-available-via-portal/"
-webUrl: "https://azure.microsoft.com/en-us/updates/azure-storage-account-recovery-available-via-portal/"
+title: "Azure Digital Twins is now generally available"
+excerpt: "Azure Digital Twins is generally available and read for production deployments. Features include: Flexible modelling and general graph topology, richer compute, bring your own IoT Hub for easier integration, and improved scalability. \n"
+publishedDateTime: 2020-12-14T20:34:35Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/azure-digital-twins-is-now-generally-available/"
+webUrl: "https://azure.microsoft.com/en-us/updates/azure-digital-twins-is-now-generally-available/"
 type: article
-quality: 80
+quality: 67
 heat: -1
 published: false
 
@@ -20,7 +20,6 @@ provider:
 
 topics:
   - Azure
-  - Storage
 
 related:
   - title: "Azure Blob storage object replication is now generally available"
@@ -82,6 +81,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 83
+  - title: "Azure Storage account recovery available via portal is now generally available"
+    excerpt: "Recover you deleted storage account directly from the portal."
+    publishedDateTime: 2020-12-11T01:06:28Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-storage-account-recovery-available-via-portal/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 80
   - title: "Azure Spring Cloud is now generally available"
     excerpt: "Azure Spring Cloud is a fully managed service for Spring Boot apps that lets you focus on building the apps that run your business without the hassle of managing infrastructure"
     publishedDateTime: 2020-09-02T16:00:04Z
@@ -104,15 +112,6 @@ related:
     excerpt: "The new lineup of rugged edge devices are now generally available. Azure Stack Edge Mini R is a lightweight, portable, battery-operated device - small enough to fit into a backpack - designed for the harshest environments and disconnected scenarios. "
     publishedDateTime: 2020-09-22T16:05:24Z
     webUrl: "https://azure.microsoft.com/en-us/updates/azure-stack-edge-mini-r-is-now-generally-available/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 67
-  - title: "Azure Digital Twins is now generally available"
-    excerpt: "Azure Digital Twins is generally available and read for production deployments. Features include: Flexible modelling and general graph topology, richer compute, bring your own IoT Hub for easier integration, and improved scalability. \n"
-    publishedDateTime: 2020-12-14T20:34:35Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-digital-twins-is-now-generally-available/"
     type: article
     provider:
       name: Microsoft
@@ -182,6 +181,6 @@ related:
       domain: microsoft.com
     quality: 16
 
-secured: "s++fFprAZCr/ctxR+QENEDUHpam7z4rFNY3+b0j3rJaF5wMtMtuIUqVVHZgsg1xeJ73GrYaCW12Vcj95L62EFTL3Ml4/YH136gQSUu5lGXx3zd5h8dsLy5gibcgkpwbmabiMBJAw7XqPD7TjEKX3qAMpkMUm1S/UT9zYAXw3VCQ4EYo0Uj56SvQl31cIhcI4egd6K5hu1WVXTu5vG1l9IeKZkqbeUo9Or/5upv2uq5UrAL5etby+5terclEVLittIa71CnuV2LQie08DXWjNDda1c+6s4NSp6jxHYZkS+ttcWeGHG1Ac9VQknmSDfMLXsQAQbA8kXk/9hAZRaaWhuX3codufvMCdUz77f61QlVc=;nZKiiLn24WiYlnRiqZAp3w=="
+secured: "44FZhN8plzIFrRaSwR0Qe6OcHFPM5tyVmQxzwDTOo6iiLyS/EoqdE9TOPv/TjsB7drJllC6SQJEzVW6hkrY372QUwsruTCKesRiI8vjXSAb/K/RUu2AtNmATZowTeWuET7evGvU/fbk8Fql1Ncn3PkhH/SxDBt9KTEl4ZA/CK1PPmDUoZsOHfdF6O3Kh86+LHhDzMpACQpv1hH5bM+0gVKJhvtaP4kITaYyVTtJPnjhSgcseNKlbBSq6ArNIlrODNqr946zvf3+/h2ERHTZihwopxs0lWtTUbh9lls4cM6Xqr3xXHRYOnNbIYf7UORR/D5/lhy4XA7sEuzNjN4ZnBKP8X5AdtePlMmq4XAk67LI=;v84TkSBs07pX1nnW3fHAeg=="
 ---
 
