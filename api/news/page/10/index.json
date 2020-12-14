@@ -2,6 +2,58 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2020-07-16-microsoft-azure-iot-connector-for-fhir-now-in-preview.md",
+      "title": "Microsoft Azure IoT Connector for FHIR now in preview",
+      "excerpt": "The preview of Azure IoT Connector for FHIR—a fully managed and compliant feature of the Azure API for FHIR—is now available. The connector empowers health teams with the technology for a scalable end-to-end pipeline to ingest, transform, and manage Protected Health Information (PHI) data from devices",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/blog/microsoft-azure-iot-connector-for-fhir-now-in-preview/",
+      "originalUrl": "https://azure.microsoft.com/blog/microsoft-azure-iot-connector-for-fhir-now-in-preview/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 1304,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/e5a083c8-5be0-4b4a-8878-bf65fbf877f9.png",
+          "width": 735,
+          "height": 411,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-16T04:00:40-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure",
+        "IoT"
+      ]
+    },
+    {
       "path": "_news/2020-07-16-running-sd-wan-virtual-appliances-natively-in-azure-virtual-wan.md",
       "title": "Running SD-WAN virtual appliances natively in Azure Virtual WAN",
       "excerpt": "Today we’re announcing the preview of the new ability to deploy and run third-party Network Virtual Appliances such as SD-WAN natively within the Azure Virtual WAN hubs.",
@@ -1218,59 +1270,6 @@
       "topics": [
         "Azure",
         "Networking"
-      ]
-    },
-    {
-      "path": "_news/2020-06-23-azure-container-registry-securing-container-workflows.md",
-      "title": "Azure Container Registry: Securing container workflows",
-      "excerpt": "Securing any environment requires multiple lines of defense. Azure Container Registry recently announced general availability of features like Azure Private Link, customer-managed keys, dedicated data-endpoints and Azure Policy definitions. These features provide tools to secure Azure Container Registry",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/blog/azure-container-registry-securing-container-workflows/",
-      "originalUrl": "https://azure.microsoft.com/blog/azure-container-registry-securing-container-workflows/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/ecfc63bf-21d1-493f-9f76-e1f895dc90a9.png",
-          "width": 1024,
-          "height": 483,
-          "title": "Azure Container Registry: Securing container workflows",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-23T03:00:03-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure",
-        "Security",
-        "Containers"
       ]
     }
   ],

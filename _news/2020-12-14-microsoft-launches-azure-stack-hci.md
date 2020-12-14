@@ -1,28 +1,26 @@
 ---
 category: news
-title: "Microsoft launches Azure cloud service for classified data"
-excerpt: "Microsoft launched Azure Government Top Secret cloud, part of the Azure Government Secret portfolio; it will handle classified data."
-publishedDateTime: 2020-12-08T10:26:00Z
-originalUrl: "https://windowsreport.com/microsoft-azure-government-top-secret/"
-webUrl: "https://windowsreport.com/microsoft-azure-government-top-secret/"
-ampWebUrl: "https://windowsreport.com/microsoft-azure-government-top-secret/?amp"
-cdnAmpWebUrl: "https://windowsreport-com.cdn.ampproject.org/c/s/windowsreport.com/microsoft-azure-government-top-secret/?amp"
+title: "Microsoft Launches Azure Stack HCI"
+excerpt: "Currently, Azure Stack HCI is available \"worldwide, in 18 languages.\" It uses \"the Azure Stack HCI service,\" which is currently available in \"East US, West Europe, and Southeast Asia, with more regions planned every few weeks going forward,"
+publishedDateTime: 2020-12-14T15:32:00Z
+originalUrl: "https://rcpmag.com/articles/2020/12/14/microsoft-launches-azure-stack-hci.aspx"
+webUrl: "https://rcpmag.com/articles/2020/12/14/microsoft-launches-azure-stack-hci.aspx"
 type: article
-quality: 57
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Windows
-  domain: windowsreport.com
+  name: Redmond Channel Partner
+  domain: rcpmag.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://cdn.windowsreport.com/wp-content/uploads/2020/12/Azure-Government-Top-Secret.jpg"
-    width: 1400
-    height: 1280
+  - url: "https://rcpmag.com/-/media/ECG/redmondmag/Images/IntroImagesBigSmall/RocksStackedSmall.jpg"
+    width: 647
+    height: 450
     isCached: true
 
 related:
@@ -630,6 +628,22 @@ related:
         width: 1600
         height: 813
         isCached: true
+  - title: "Microsoft launches Azure cloud service for classified data"
+    excerpt: "Microsoft launched Azure Government Top Secret cloud, part of the Azure Government Secret portfolio; it will handle classified data."
+    publishedDateTime: 2020-12-08T10:26:00Z
+    webUrl: "https://windowsreport.com/microsoft-azure-government-top-secret/"
+    ampWebUrl: "https://windowsreport.com/microsoft-azure-government-top-secret/?amp"
+    cdnAmpWebUrl: "https://windowsreport-com.cdn.ampproject.org/c/s/windowsreport.com/microsoft-azure-government-top-secret/?amp"
+    type: article
+    provider:
+      name: Windows
+      domain: windowsreport.com
+    quality: 57
+    images:
+      - url: "https://cdn.windowsreport.com/wp-content/uploads/2020/12/Azure-Government-Top-Secret.jpg"
+        width: 1400
+        height: 1280
+        isCached: true
   - title: "TCS Quartz? suite becomes available on Microsoft Azure Blockchain Service"
     excerpt: "Tata Consultancy Services announced the general availability of its award winning Quartz? suite of blockchain based solutions on Microsoft Azure Blockchain Service. The Quartz suite of products helps organizations set up truly connected ecosystems ..."
     publishedDateTime: 2020-09-21T07:04:00Z
@@ -1155,20 +1169,6 @@ related:
         width: 780
         height: 442
         isCached: true
-  - title: "Microsoft Launches Azure Stack HCI"
-    excerpt: "Currently, Azure Stack HCI is available \"worldwide, in 18 languages.\" It uses \"the Azure Stack HCI service,\" which is currently available in \"East US, West Europe, and Southeast Asia, with more regions planned every few weeks going forward,"
-    publishedDateTime: 2020-12-14T15:32:00Z
-    webUrl: "https://rcpmag.com/articles/2020/12/14/microsoft-launches-azure-stack-hci.aspx"
-    type: article
-    provider:
-      name: Redmond Channel Partner
-      domain: rcpmag.com
-    quality: 37
-    images:
-      - url: "https://rcpmag.com/-/media/ECG/redmondmag/Images/IntroImagesBigSmall/RocksStackedSmall.jpg"
-        width: 647
-        height: 450
-        isCached: true
   - title: "TCS Quartz suite becomes available on Microsoft Azure Blockchain Service"
     excerpt: "Tata Consultancy Services announced the general availability of its award winning Quartz suite of blockchain based solutions on Microsoft Azure Blockchain Service. The Quartz suite of products helps organizations set up truly connected ecosystems ..."
     publishedDateTime: 2020-09-21T21:38:00Z
@@ -1671,6 +1671,6 @@ related:
         height: 450
         isCached: true
 
-secured: "jnl+ipWQcLTdk1nJV87kkiigtAX/iyOLc3UqsA+VBEbBtf/Jr61RZ2qcS8cZZvWaFU0TrpSTKAOvD/i+DhKPtfPu3+kuGtCi/5Qs9z1PJW64M9SyBbiL1/TMfqXgPT8azdt8QhXVMB6GMVGcKl6Jr6VMrpa+c+uzW0flOBRYP/OnCsqkqu8keFrW2al8zOMYVvbufvcVuFV50cQDF4jpn1e0heFYE7q9NPxbgP7KDw+LEpfvs3K8wwZRnW3bPmF7S1HsAlCkDOVhdtzeeb1bYXdnoqEApPF0LRcaxNScEM4VHcwzr/fIuWhIr/dkANRinhfEkSNwSP3PEoKZKO8W0Q6hqKNN6M//axkdVaCamfsrr7/Fkn8XQlNbWSi6UY/EKbbV872crcsOabGoyiefQjSe2u4RLqqGlw2sPC7B3x+YyvbMWLTtPhhPs4MHDtUzE+KIJcACc07+hmic8WiTuebgP0zGxCOivYDN2Jw4FQNzKI2QC7nNSatX51Yr6Te0VhO/pXdluvHAXuP1JywldQ==;WPshzfTcUMUS6sNvFoY82g=="
+secured: "OMeDJV1ey77CAIlld+wqClgJhduUi6vYYm2nzXArRY77fUusy2XULHv93eRUneHZ7txMldMC6i6uLBRoi6pruCIYC9KFjawCzHPGNWUtJXpLbzTgthUH3ClVyaWrHTBZEgpuchUn0GbC1XA8Elj/I1YDr5WkR2cAE1WqK3uFBuQ/bQwsyxrhRBAYWjafVAatgZZONk+6FvHULvt9LMPmF0AjeTVcn9biRuTA90CHmcXKPyZl+hgETN5xvcs0CNlE4oTI6Ch4CgVWUxphtlS17yhgEnmKiCavJs6pY6cnthkqiWw0MJRVrpdTjdL/vfci3EiTP32/pm0vYQ7XzFj89wKz/oQnNht7A9yv4QRAafs=;jBSFwTlIEB603KkhEFFTfA=="
 ---
 

@@ -2,6 +2,57 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-10-02-microsofts-azure-ad-authentication-outage-what-went-wrong.md",
+      "title": "Microsoft's Azure AD authentication outage: What went wrong",
+      "excerpt": "It's been a rough week for Microsoft users who have first- and third-party apps that rely on Azure Active Directory for authentication. Microsoft has published a root-cause analysis of its issues.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/microsofts-azure-ad-authentication-outage-what-went-wrong/",
+      "originalUrl": "https://www.zdnet.com/article/microsofts-azure-ad-authentication-outage-what-went-wrong/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 477,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet2.cbsistatic.com/hub/i/2020/10/01/2d8220eb-dff8-47d8-84b2-c696d04abbcc/azureadoutage.jpg",
+          "width": 1103,
+          "height": 765,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsofts-azure-ad-authentication-outage-what-went-wrong/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsofts-azure-ad-authentication-outage-what-went-wrong/",
+      "publishedDateTime": "2020-10-01T10:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
       "path": "_news/2020-10-01-raw-logs-and-metrics-are-generally-available-on-azure-content-delivery-network-cdn-from-microsoft-cdn.md",
       "title": "Raw Logs and Metrics are generally available on Azure Content Delivery Network (CDN) from Microsoft CDN",
       "excerpt": "New options for analytics on Azure CDN are now available to unblock more scenarios for you",
@@ -704,7 +755,7 @@
       "originalUrl": "https://techcrunch.com/2020/09/22/microsoft-launches-azure-orbital-to-connect-satellites-to-its-cloud/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 2554,
+      "heat": 2574,
       "tags": null,
       "images": [
         {
@@ -1092,49 +1143,6 @@
         "Azure",
         "AI",
         "Identity"
-      ]
-    },
-    {
-      "path": "_news/2020-09-22-azure-machine-learning-updates-ignite-2020.md",
-      "title": "Azure Machine Learning updates Ignite 2020 ",
-      "excerpt": "Azure Machine Learning is bringing new capabilities to customers at no additional cost. Azure Machine Learning designer and automated ML UI are now generally available. ",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/en-us/updates/azure-machine-learning-updates-ignite-2020/",
-      "originalUrl": "https://azure.microsoft.com/en-us/updates/azure-machine-learning-updates-ignite-2020/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-22T09:05:22-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure",
-        "AI"
       ]
     }
   ],
