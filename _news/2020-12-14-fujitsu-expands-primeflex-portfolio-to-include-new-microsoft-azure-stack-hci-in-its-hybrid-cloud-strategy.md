@@ -1,27 +1,28 @@
 ---
 category: news
-title: "ACTS Has Earned the Windows Server and SQL Server Migration to Microsoft Azure Advanced Specialization"
-excerpt: "PRNewswire/ -- Today ACTS (  ) announced it has earned the Windows Server and SQL Server Migration to Microsoft Azure advanced specialization, a validation of a solution partner's deep knowledge, extensive experience and expertise in migrating Windows Server and SQL Server-based workloads to Azure."
-publishedDateTime: 2020-12-10T13:31:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/acts-has-earned-the-windows-server-and-sql-server-migration-to-microsoft-azure-advanced-specialization-301189907.html"
-webUrl: "https://www.prnewswire.com/news-releases/acts-has-earned-the-windows-server-and-sql-server-migration-to-microsoft-azure-advanced-specialization-301189907.html"
+title: "Fujitsu expands PRIMEFLEX portfolio to include new Microsoft Azure Stack HCI in its hybrid cloud strategy"
+excerpt: "News facts: Fujitsu launches trusted fast-track solution for Microsoft Azure Stack HCI, purpose-built for hyper-converged environments. Hybrid by design, the new pre-tested PRIMEF"
+publishedDateTime: 2020-12-14T09:04:00Z
+originalUrl: "https://www.itweb.co.za/content/o1Jr5qx9GB2vKdWL"
+webUrl: "https://www.itweb.co.za/content/o1Jr5qx9GB2vKdWL"
+ampWebUrl: "https://amp.itweb.co.za/content/o1Jr5qx9GB2vKdWL"
+cdnAmpWebUrl: "https://amp-itweb-co-za.cdn.ampproject.org/c/s/amp.itweb.co.za/content/o1Jr5qx9GB2vKdWL"
 type: article
-quality: 38
+quality: 40
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: ITWeb
+  domain: itweb.co.za
 
 topics:
   - Azure
-  - Migration
 
 images:
-  - url: "https://mma.prnewswire.com/media/1362265/Azure_Specialization_Press_Release_Image.jpg?p=facebook"
-    width: 1146
-    height: 600
+  - url: "https://lh3.googleusercontent.com/ctwhk8XzJSRC93xOP_pjcZ0gj7Ucvdh8bHGvpNeolDc1FXI8gQJ8erIN9bUabUJwDsFKcft9ZBRo4bdzZl8IFBd9=w400-h328-c"
+    width: 400
+    height: 328
     isCached: true
 
 related:
@@ -161,22 +162,6 @@ related:
         width: 700
         height: 525
         isCached: true
-  - title: "Fujitsu expands PRIMEFLEX portfolio to include new Microsoft Azure Stack HCI in its hybrid cloud strategy"
-    excerpt: "News facts: Fujitsu launches trusted fast-track solution for Microsoft Azure Stack HCI, purpose-built for hyper-converged environments. Hybrid by design, the new pre-tested PRIMEF"
-    publishedDateTime: 2020-12-14T09:04:00Z
-    webUrl: "https://www.itweb.co.za/content/o1Jr5qx9GB2vKdWL"
-    ampWebUrl: "https://amp.itweb.co.za/content/o1Jr5qx9GB2vKdWL"
-    cdnAmpWebUrl: "https://amp-itweb-co-za.cdn.ampproject.org/c/s/amp.itweb.co.za/content/o1Jr5qx9GB2vKdWL"
-    type: article
-    provider:
-      name: ITWeb
-      domain: itweb.co.za
-    quality: 40
-    images:
-      - url: "https://lh3.googleusercontent.com/ctwhk8XzJSRC93xOP_pjcZ0gj7Ucvdh8bHGvpNeolDc1FXI8gQJ8erIN9bUabUJwDsFKcft9ZBRo4bdzZl8IFBd9=w400-h328-c"
-        width: 400
-        height: 328
-        isCached: true
   - title: "Former Microsoft Cloud Security Leads Unveil New Startup"
     excerpt: "Wiz has raised $100 million since its January launch and plans to help businesses with visibility into cloud security threats."
     publishedDateTime: 2020-12-09T20:11:00Z
@@ -189,6 +174,20 @@ related:
     images:
       - url: "https://twimgs.com/nojitter/darkreading/dr-logo.jpg"
         width: 600
+        height: 600
+        isCached: true
+  - title: "ACTS Has Earned the Windows Server and SQL Server Migration to Microsoft Azure Advanced Specialization"
+    excerpt: "PRNewswire/ -- Today ACTS (  ) announced it has earned the Windows Server and SQL Server Migration to Microsoft Azure advanced specialization, a validation of a solution partner's deep knowledge, extensive experience and expertise in migrating Windows Server and SQL Server-based workloads to Azure."
+    publishedDateTime: 2020-12-10T13:31:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/acts-has-earned-the-windows-server-and-sql-server-migration-to-microsoft-azure-advanced-specialization-301189907.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 38
+    images:
+      - url: "https://mma.prnewswire.com/media/1362265/Azure_Specialization_Press_Release_Image.jpg?p=facebook"
+        width: 1146
         height: 600
         isCached: true
   - title: "Ex-Microsoft Cloud Security Head Debuts Startup Wiz With $100M In Funding"
@@ -426,6 +425,6 @@ related:
       domain: wfmz.com
     quality: 0
 
-secured: "xYZLDoVQHlSMypTPH33m4y5wY5lHE4577HfnABXMw5E8PLtSBmNZUw6PTFEDSKuPXu4iQQK2nfKUxylBKS0D3BUb8+1vzwZ3+utS8E6QgBfXAagdsKXSo5YJpEZ+dif6jq+6iVnTjSY0PGe1gR5Ffk5J3IA1UDJpJFk3bVID8PiZzlFypVvb0iX0s+y8I004TaXInbI81Dx05qQx23IsNEhY0bM6I83abi86iK7UCKivcufEQMq19tFDWRVYq/NwNskEHRio38pa1+L3b5MXKhdA+rlXz8o1b0/W+Xg8VQXABLCFCt+iC89QXtfB8rwK+LCIq+cPW/myhuCV9v0XxsK7oOz6RvpbdwpZo6q6zKE=;tixAK7IDyce9AKPzF06rPg=="
+secured: "Q6kMH7z0zclz+nmkY+lVdMRkJaJ5G5aluibsXZbxPNrlCed7d7lbbVFLj+zm08TuYNNJs3XzreeJYc+3hcfYqil2fuK0n1IX2+UyfQyfO0zcMS9JbF5Xs3JCMZlS3qOuPtQYZVLYhhD4rpvpR3aHQbEKL8vvYaIemflwbzK8F0mngJ2Y3Gz21DgKnWPJSP8FmyyIRycy7SYH04BT2RWxSu0LTiy+/F2l554IaKwBHb9f1o4wK5s8FRFFjtwkYIAVIscsnGViVBxQfEgqZTPzAARTig36KCcFTV+ze63Yr5Ylvw6NadgGMlr8rgFT5CRIqla6TKHslTsysHLoglgEN8vGLZlSO4t9sKC/W2tSIl0=;r0zBT+BtU5h6VKwujelLqA=="
 ---
 
