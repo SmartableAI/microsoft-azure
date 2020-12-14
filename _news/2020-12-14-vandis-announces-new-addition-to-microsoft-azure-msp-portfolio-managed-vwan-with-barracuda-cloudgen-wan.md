@@ -1,28 +1,26 @@
 ---
 category: news
 title: "Vandis Announces New Addition to Microsoft Azure MSP Portfolio: Managed VWAN with Barracuda CloudGen WAN"
-excerpt: "Vandis Inc. announces the addition of the Barracuda CloudGen WAN solution to its Microsoft Azure Lighthouse managed service offerings."
-publishedDateTime: 2020-12-14T12:17:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/vandis-announces-new-addition-to-microsoft-azure-msp-portfolio-managed-vwan-with-barracuda-cloudgen-wan-301191641.html"
-webUrl: "https://www.prnewswire.com/news-releases/vandis-announces-new-addition-to-microsoft-azure-msp-portfolio-managed-vwan-with-barracuda-cloudgen-wan-301191641.html"
+excerpt: "Vandis Inc. announces the addition of the Barracuda CloudGen WAN solution to its Microsoft Azure Lighthouse managed service offerings. This technology allows organizations to implement a secure SD-WAN solution while leveraging Microsoft Azure Virtual WAN (vWAN) to obtain enterprise connectivity and throughput for meshed connectivity between Branch,"
+publishedDateTime: 2020-12-14T12:41:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/vandis-announces-new-addition-to-microsoft-azure-msp-portfolio-managed-vwan-with-barracuda-cloudgen-wan-1029889444"
+webUrl: "https://markets.businessinsider.com/news/stocks/vandis-announces-new-addition-to-microsoft-azure-msp-portfolio-managed-vwan-with-barracuda-cloudgen-wan-1029889444"
 type: article
-quality: 20
-heat: 20
+quality: 40
+heat: 40
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
 
-images:
-  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-    width: 600
-    height: 315
-    isCached: true
-
-secured: "/qzE+eKjHYIXDLTSdM1t8yOjAfpQPyNUpHIhHNG7jkbCpij9jfaFpCBTCS7AGIhjH8fmUNPS3Vby49AazhwEEu3iX4WYctTFiToZEsZxht9xiw+fjiMYJiTWP0lvnASgws5uzQrB3JZjMJL3VO59dlVnk6MKiW7vaP8ZCf3fTNAUG2GHBIOxCazsHd1U3yjfMG6y1OQVola199MzcsDRbDCrQXwW0qlkRp9BisZ5yiGyFOhjiUo0ULHohJqehfAM7YXo9eWL0Cx5SE62JuPioavVDpkVD6GDtFB/hhC/QitM2YYP1QQtW1yBp2XnLkLi8hQmOzs1+5SZIjVL/3wyyd2bpUkeKU/4QmlZ22h8f4c=;yQoqeJgpD9mA+jmuaYriyA=="
+secured: "iYp391W2eBiANa5H80iLk3gMAKseNbMjnhWc9Vj4uBcHt/gGXtyrdhf3cWQhHStD8bBUcxC5fxlz8QC0UJLLlw/WfuyNNi46zjASaiLZrfhKN7PYD1JXGu/9KaeNrzvl7QrduVWYHNn7Se272jVbcPIAg0BvFM6ZmThBRDcxHemM0sZBgFXDcP6+/yFT1WgJ73dP1QOv2U9BiE0XTGzmqr/SAV6sQzRd5ICFSVrhbIDJaxVlmbCrjOR0CGvpofs/sFvCuTa688zrkkuFo2QZ58890ZdWY2YMnEjLmA0VwMJHBGklR0mhMg27XpeiBUdqjER1YFMc4408h1b8XyM+ytFWKs+UxD1Py1DgHVNRxt4=;zVvVu9W4xNg6ys35DNvBOA=="
 ---
 

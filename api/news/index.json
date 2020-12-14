@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-14-api-managements-named-values-integration-with-azure-key-vault.md",
+      "title": "API Management’s Named Values integration with Azure Key Vault",
+      "excerpt": "API Management’s Named Values can now be stored and managed in Azure Key Vault.",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/en-us/updates/api-management-s-named-values-integration-with-azure-key-vault/",
+      "originalUrl": "https://azure.microsoft.com/en-us/updates/api-management-s-named-values-integration-with-azure-key-vault/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-14T09:00:04-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure",
+        "Security",
+        "Integration"
+      ]
+    },
+    {
       "path": "_news/2020-12-14-defining-roles-and-responsibilities-for-cloud-cost-optimization.md",
       "title": "Defining roles and responsibilities for cloud cost optimization",
       "excerpt": "Today’s challenging economic climate has driven many IT organizations to launch cost optimization initiatives. If you’re participating in one such initiative, you’ve discovered that cloud cost management is a journey, with many factors to consider and steps to take to improve cloud spending behaviors.",
@@ -1099,59 +1143,6 @@
       ],
       "topics": [
         "Azure"
-      ]
-    },
-    {
-      "path": "_news/2020-11-23-guest-health-feature-in-azure-monitor-for-virtual-machines.md",
-      "title": "Guest health feature in Azure Monitor for virtual machines",
-      "excerpt": "We are announcing the preview of Azure Monitor for virtual machines guest health feature that monitors the health of your virtual machines and fires an alert when any parameter being monitored is outside the acceptable range. ",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/blog/guest-health-feature-in-azure-monitor-for-virtual-machines/",
-      "originalUrl": "https://azure.microsoft.com/blog/guest-health-feature-in-azure-monitor-for-virtual-machines/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 201,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/de286894-4cc1-4f92-b718-dbbf86d2ab0c.png",
-          "width": 1024,
-          "height": 485,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-23T00:00:20-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure",
-        "DevOps",
-        "Compute"
       ]
     }
   ],
