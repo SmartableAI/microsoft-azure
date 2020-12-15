@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/general-availability-vpn
 webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-vpn-over-expressroute-private-peering/"
 type: article
 quality: 52
-heat: 72
+heat: 73
 published: true
 
 provider:

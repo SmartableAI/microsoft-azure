@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/azure-stack-edge-virtual
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-stack-edge-virtual-machine-support/"
 type: article
 quality: 84
-heat: 144
+heat: 145
 published: true
 
 provider:
