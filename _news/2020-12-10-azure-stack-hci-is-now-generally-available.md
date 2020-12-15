@@ -1,10 +1,10 @@
 ---
 category: news
-title: "Azure Data Factory is now available in five new regions"
-excerpt: "Azure Data Factory is now available in five new regions: Switzerland North, Japan West, Canada East, Germany West Central, and UK West."
-publishedDateTime: 2020-12-09T17:52:12Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/azure-data-factory-is-now-available-in-six-new-regions/"
-webUrl: "https://azure.microsoft.com/en-us/updates/azure-data-factory-is-now-available-in-six-new-regions/"
+title: "Azure Stack HCI is now generally available"
+excerpt: "Flexible HCI delivered as an Azure Hybrid Service"
+publishedDateTime: 2020-12-10T17:00:00Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/azure-stack-hci-is-now-generally-available/"
+webUrl: "https://azure.microsoft.com/en-us/updates/azure-stack-hci-is-now-generally-available/"
 type: article
 quality: 67
 heat: -1
@@ -63,19 +63,19 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 76
-  - title: "Azure Databricks now generally available in the Azure China region"
-    excerpt: "The availability of Azure Databricks in China enables global enterprises to provide a consistent experience for customers in this region."
-    publishedDateTime: 2020-12-10T17:00:12Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-databricks-now-generally-available-in-the-azure-china-region/"
+  - title: "Azure Data Factory is now available in five new regions"
+    excerpt: "Azure Data Factory is now available in five new regions: Switzerland North, Japan West, Canada East, Germany West Central, and UK West."
+    publishedDateTime: 2020-12-09T17:52:12Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-data-factory-is-now-available-in-six-new-regions/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
     quality: 67
-  - title: "Azure Stack HCI is now generally available"
-    excerpt: "Flexible HCI delivered as an Azure Hybrid Service"
-    publishedDateTime: 2020-12-10T17:00:00Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-stack-hci-is-now-generally-available/"
+  - title: "Azure Databricks now generally available in the Azure China region"
+    excerpt: "The availability of Azure Databricks in China enables global enterprises to provide a consistent experience for customers in this region."
+    publishedDateTime: 2020-12-10T17:00:12Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-databricks-now-generally-available-in-the-azure-china-region/"
     type: article
     provider:
       name: Microsoft
@@ -114,6 +114,6 @@ related:
         height: 4001
         isCached: true
 
-secured: "PTRrGk1BYysYroUTJelVYjoARV0V3AbPKbpbTGILmy1xkDXfjU1fPgD2WcS2f9lSiq7NNbltIgWV9X+Qk6U+tRcQC3O1XJhjCZZ59kEua8+NBDcpDMiznuclZXAddg4p4X/azAVB8B741GNDBRI0cb4ODywuNwUVOgRKuqQheOXMCo0vd+2R8NfW5yW1qC8nKUPyQ3DqoI+LvYhFqFMJN0BymiUTnMtwD8htLuUqeiqpIzThOLgmBlBZrFznPWdVLBEC/ELJ2kecNzOUyIRyvHrZWWdSASU8YoO/n8SDc4sIdq08sZhn3Jy4DWzIUzv1rv8ImQUBp+eviG1VUkm/AJJ1nY5J9Av0nij6glF2/5Q=;da1dPVyNUe17hGfMy20v+Q=="
+secured: "IxRd5qEJUYFmfhbuBW40D4LifJCHBo8A8g/gpA1Oom7JF0SYlT5Yo1rWlAXJRd7Bs2hVmXNSWWp9NcMWLprz555N+MCRnyNHhl0HhPdMC0MCNaAvACycb3byuCiLMlO4+q1ob8IDt6bpbV2HpVpu5koLT/YKjMvR11d3Dea23FtZ67fdIL7LaEe5xlfYhNiAQ8fhrZOAES5w3R3LsW6udmDh9NN+GO688lcIlQoS1gokwWFKCGTI3cS1hGSO3JN6kISOzttHjYSLdCRmdtHfg1aY4q7Ng5kR6uNb4uJq9noN5beX/h/ysR08Y9jqjJioUO9ve1pw6yB21JPfIAw1W9YaGkrf/l6d8MxoJ9CM8fs=;3R3DUkAw8gqAeXqlP3Qsvw=="
 ---
 

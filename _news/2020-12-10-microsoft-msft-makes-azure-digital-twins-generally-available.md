@@ -83,6 +83,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
+  - title: "Azure Stack HCI is now generally available"
+    excerpt: "Flexible HCI delivered as an Azure Hybrid Service"
+    publishedDateTime: 2020-12-10T17:00:00Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-stack-hci-is-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
   - title: "Event hubs on Azure Stack Hub is now generally available"
     excerpt: "The GA version of Event Hubs is now available on Azure Stack Hub. This will allow you to realize cloud and on-premises scenarios that use streaming and event-based architectures."
     publishedDateTime: 2020-12-11T18:00:16Z

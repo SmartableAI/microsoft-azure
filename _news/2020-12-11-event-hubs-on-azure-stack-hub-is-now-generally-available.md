@@ -81,6 +81,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
+  - title: "Azure Stack HCI is now generally available"
+    excerpt: "Flexible HCI delivered as an Azure Hybrid Service"
+    publishedDateTime: 2020-12-10T17:00:00Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-stack-hci-is-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
   - title: "Private Link support for Azure Automation is now generally available"
     excerpt: "Ensure a secure channel to connect to your Automation Accounts resources with the help of Private Links in Automation."
     publishedDateTime: 2020-12-11T22:19:14Z

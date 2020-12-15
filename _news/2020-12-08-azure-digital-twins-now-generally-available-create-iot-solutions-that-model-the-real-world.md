@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/azure-digital-twins-now-generally
 webUrl: "https://azure.microsoft.com/blog/azure-digital-twins-now-generally-available-create-iot-solutions-that-model-the-real-world/"
 type: article
 quality: 94
-heat: 254
+heat: 274
 published: true
 
 provider:
@@ -69,6 +69,15 @@ related:
     excerpt: "The availability of Azure Databricks in China enables global enterprises to provide a consistent experience for customers in this region."
     publishedDateTime: 2020-12-10T17:00:12Z
     webUrl: "https://azure.microsoft.com/en-us/updates/azure-databricks-now-generally-available-in-the-azure-china-region/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
+  - title: "Azure Stack HCI is now generally available"
+    excerpt: "Flexible HCI delivered as an Azure Hybrid Service"
+    publishedDateTime: 2020-12-10T17:00:00Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-stack-hci-is-now-generally-available/"
     type: article
     provider:
       name: Microsoft
