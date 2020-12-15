@@ -115,6 +115,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 81
+  - title: "Azure Cost Management and Billing 2020 year in review"
+    excerpt: "2020 wasn't the year we signed up for, but was chock full nonetheless. From optimized account and invoice management experiences to richer reporting within and outside the portal; new ways to facilitate chargeback and more flexible budget alerts to an overwhelming amount of new cost optimization opportunities."
+    publishedDateTime: 2020-12-15T10:00:22Z
+    webUrl: "https://azure.microsoft.com/blog/azure-cost-management-and-billing-2020-year-in-review/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 81
   - title: "We’re retiring Azure SQL DB Import-Export Direct Endpoints on 31 October 2023 "
     excerpt: "Start using Azure Resource Manager REST APIs."
     publishedDateTime: 2020-10-28T16:00:30Z

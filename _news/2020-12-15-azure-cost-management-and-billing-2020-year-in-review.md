@@ -1,12 +1,12 @@
 ---
 category: news
-title: "Azure Cost Management and Billing updates – November 2020"
-excerpt: "Get your budget emails in the language of your choice, enjoy a preview of new cost views optimized for resources and reservations, and take advantage of even more ways to save money! November is as action-packed as ever. And don't forget to check out new videos and documentation updates to help you be"
-publishedDateTime: 2020-11-30T10:00:06Z
-originalUrl: "https://azure.microsoft.com/blog/azure-cost-management-billing-updates-november-2020/"
-webUrl: "https://azure.microsoft.com/blog/azure-cost-management-billing-updates-november-2020/"
+title: "Azure Cost Management and Billing 2020 year in review"
+excerpt: "2020 wasn't the year we signed up for, but was chock full nonetheless. From optimized account and invoice management experiences to richer reporting within and outside the portal; new ways to facilitate chargeback and more flexible budget alerts to an overwhelming amount of new cost optimization opportunities."
+publishedDateTime: 2020-12-15T10:00:22Z
+originalUrl: "https://azure.microsoft.com/blog/azure-cost-management-and-billing-2020-year-in-review/"
+webUrl: "https://azure.microsoft.com/blog/azure-cost-management-and-billing-2020-year-in-review/"
 type: article
-quality: 99
+quality: 81
 heat: -1
 published: false
 
@@ -25,13 +25,8 @@ topics:
   - Databases
   - Compute
   - Serverless
+  - AI
   - Web
-
-images:
-  - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/c1c05119-f726-4026-a91a-cb47b077522c.png"
-    width: 2545
-    height: 1146
-    isCached: true
 
 related:
   - title: "Azure Cost Management and Billing updates – October 2020"
@@ -57,6 +52,20 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 99
+  - title: "Azure Cost Management and Billing updates – November 2020"
+    excerpt: "Get your budget emails in the language of your choice, enjoy a preview of new cost views optimized for resources and reservations, and take advantage of even more ways to save money! November is as action-packed as ever. And don't forget to check out new videos and documentation updates to help you be"
+    publishedDateTime: 2020-11-30T10:00:06Z
+    webUrl: "https://azure.microsoft.com/blog/azure-cost-management-billing-updates-november-2020/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 99
+    images:
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/c1c05119-f726-4026-a91a-cb47b077522c.png"
+        width: 2545
+        height: 1146
+        isCached: true
   - title: "Azure Cost Management + Billing updates – April 2020"
     excerpt: "Whether you're a new student, thriving startup, or the largest enterprise, you have financial constraints and you need to know what you're spending, where, and how to plan for the future. Nobody wants a surprise when it comes to the bill, and this is where Azure Cost Management + Billing comes in.\r\n\r\nWe're"
     publishedDateTime: 2020-04-30T11:00:08Z
@@ -112,15 +121,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 81
-  - title: "Azure Cost Management and Billing 2020 year in review"
-    excerpt: "2020 wasn't the year we signed up for, but was chock full nonetheless. From optimized account and invoice management experiences to richer reporting within and outside the portal; new ways to facilitate chargeback and more flexible budget alerts to an overwhelming amount of new cost optimization opportunities."
-    publishedDateTime: 2020-12-15T10:00:22Z
-    webUrl: "https://azure.microsoft.com/blog/azure-cost-management-and-billing-2020-year-in-review/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 81
   - title: "Legacy developer portal in Azure API Management will retire on 31 October 2023 "
     excerpt: "Start using the new developer portal in Azure API Management."
     publishedDateTime: 2020-10-28T00:00:19Z
@@ -167,6 +167,6 @@ related:
       domain: microsoft.com
     quality: 68
 
-secured: "tIk9C71ZkPro3qKA6gg/Tv1LB1aaX2peG3Gp4tSWnAERc4tvw6vu1DtWlBr5juppzoZ8P3Wy5wGetg6iBgxPx8kUOiK1L86rgDznT2Rk0s67Gck4GKhYiDotwKMZ4ZPH5/B7jB1BCPZqLcXKE+BIkt6OLLtvlGmzGbhfSXSTVkiuIdvEEC4oDBbRqqRAkRpk1NCkiyIaPUpFZXhERk0C2EZdoyRBLgTWnK9S8uZAUW6cvjlXLnm5vcQ0dtHam7fkaMZIe/E9cRw3AX7QuRw10KRxwsMuJ4Ww92ahubZsHBRgZf264w/1gMEc/m/tSFUvBixqBwMRr41ZvWi2bDVwdnosxJxgZjq6V6ObTaP43D0=;Qwv6VxMTqtWULhVkePTgqQ=="
+secured: "RbIL+Y9br0c9Ap8EBzid6aXGIW2bsrJLl1PY+Up/gP3ZJLWpWtVWiqBq+SR9tumTp1JyDJWifULTZtCTWkUogZQb3gsSew2WHPOLGdAhWbM6AuKYuWEBqrKCLE2m+cXbs9+iV2on+lJlL9lGnDWcrkZoKLrP7LBxDfKLSzdi5zV2JFZU86N70umxxR958XkRERVNYNo3wmJaAtyeYU6GBfIMOh9/gojn0gRv2vk7Aqf7jEceGfXEP1z4XmILzqlQhk/Jw24HQ0UX4Ubw71qyFM6LATEi3TT5ErZTzpNy61N4dbLq7/Ha1YsfAuWsbMG3LbKuB1PRiv5edfiz+UycjwxlB+2FlxU2/okn9IhJWHM=;e/IzqcwMH+pJRsy+W46rhw=="
 ---
 

@@ -1437,20 +1437,6 @@ related:
         width: 1200
         height: 400
         isCached: true
-  - title: "Modernizing Microsoft consulting services with move to SAP on Microsoft Azure"
-    excerpt: "Reginald Albert worked as a field seller at Microsoft for over 20 years, where he had a front row seat to see how teams, customers, and partners use Microsoft technology to power their work. When looking for his next role at the company,"
-    publishedDateTime: 2020-12-11T14:47:00Z
-    webUrl: "https://www.microsoft.com/itshowcase/blog/modernizing-microsoft-consulting-services-with-move-to-sap-on-microsoft-azure/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 34
-    images:
-      - url: "https://www.microsoft.com/itshowcase/blog/uploads/prod/2020/12/10096-wordpress-hero.jpg"
-        width: 2300
-        height: 1293
-        isCached: true
   - title: "Docker Extends Collaboration with Microsoft Azure to Boost Developer Productivity"
     excerpt: "Docker today announced that it has extended its strategic collaboration with Microsoft to simplify code to cloud application development for developers and development teams by more closely integrating with Azure Container Instances (ACI)."
     publishedDateTime: 2020-05-27T16:00:00Z

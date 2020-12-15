@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/azure-cost-management-billing-upd
 webUrl: "https://azure.microsoft.com/blog/azure-cost-management-billing-updates-october-2020/"
 type: article
 quality: 103
-heat: 343
+heat: 363
 published: true
 
 provider:
@@ -109,6 +109,15 @@ related:
     excerpt: "While 2020 may be keeping you on your toes, September should help make your life a little bit easier with the general availability of AWS support in Azure Cost Management + Billing, allowing you to manage all your Azure and AWS costs in a single place; the preview of cost allocation, streamlining your"
     publishedDateTime: 2020-09-30T11:00:21Z
     webUrl: "https://azure.microsoft.com/blog/azure-cost-management-billing-updates-september-2020/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 81
+  - title: "Azure Cost Management and Billing 2020 year in review"
+    excerpt: "2020 wasn't the year we signed up for, but was chock full nonetheless. From optimized account and invoice management experiences to richer reporting within and outside the portal; new ways to facilitate chargeback and more flexible budget alerts to an overwhelming amount of new cost optimization opportunities."
+    publishedDateTime: 2020-12-15T10:00:22Z
+    webUrl: "https://azure.microsoft.com/blog/azure-cost-management-and-billing-2020-year-in-review/"
     type: article
     provider:
       name: Microsoft
