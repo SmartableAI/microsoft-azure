@@ -4,6 +4,217 @@
   "page": 5,
   "value": [
     {
+      "path": "_learning/collections/microsoft-learn-automate-your-workflow-with-github-actions.md",
+      "title": "Automate your workflow with GitHub Actions",
+      "excerpt": "Learn how GitHub Actions enables you to automate your software development cycle and deploy applications to Azure.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-automate-your-workflow-with-github-actions/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-automate-your-workflow-with-github-actions/",
+      "length": "PT4H2M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner",
+        "Intermediate"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-introduction-to-github.md",
+          "title": "Introduction to GitHub",
+          "excerpt": "Learn to use key GitHub features, including issues, notifications, branches, commits, and pull requests.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-introduction-to-github/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-github/",
+          "length": "PT1H12M",
+          "ratings": {
+            "count": 599,
+            "average": 4.731219
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 51,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/github/introduction-to-github-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-github-actions-automate-tasks.md",
+          "title": "Automate development tasks by using GitHub Actions",
+          "excerpt": "Create a basic GitHub Action and use that action in a workflow.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-github-actions-automate-tasks/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/github-actions-automate-tasks/",
+          "length": "PT36M",
+          "ratings": {
+            "count": 164,
+            "average": 4.664634
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 51,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/github/github-actions-automate-tasks-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-github-actions-ci.md",
+          "title": "Build continuous integration (CI) workflows by using GitHub Actions",
+          "excerpt": "Learn how to create workflows that enable you to use Continuous Integration (CI) for your projects.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-github-actions-ci/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/github-actions-ci/",
+          "length": "PT55M",
+          "ratings": {
+            "count": 171,
+            "average": 4.7076025
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/github/github-actions-ci-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Integration"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-github-actions-cd.md",
+          "title": "Build and deploy applications to Azure by using GitHub Actions",
+          "excerpt": "Create two deployment workflows using GitHub Actions and Microsoft Azure.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-github-actions-cd/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/github-actions-cd/",
+          "length": "PT54M",
+          "ratings": {
+            "count": 140,
+            "average": 4.7214284
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 51,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/github/github-actions-cd-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure"
+          ]
+        }
+      ],
+      "size": 5,
+      "heat": 61,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/github/introduction-to-github-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
       "path": "_learning/collections/microsoft-learn-az-400-manage-source-control.md",
       "title": "AZ-400: Manage source control",
       "excerpt": "Use GitHub to build a modern source control strategy and prepare for Exam AZ-400: Designing and Implementing Microsoft DevOps Solutions.",
@@ -670,8 +881,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/enterprise-scale-introduction/",
           "length": "PT34M",
           "ratings": {
-            "count": 120,
-            "average": 4.608333
+            "count": 121,
+            "average": 4.6115704
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3526,7 +3737,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 50,
+          "heat": 130,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
@@ -4063,7 +4274,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 130,
+          "heat": 50,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/create-metadata-objects-in-azure-synapse-serverless-sql-pools-social.png",
@@ -4260,8 +4471,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/debug-nodejs/",
           "length": "PT37M",
           "ratings": {
-            "count": 152,
-            "average": 4.6842103
+            "count": 153,
+            "average": 4.6862745
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4810,8 +5021,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-faq-chatbot-qna-maker-azure-bot-service/",
           "length": "PT29M",
           "ratings": {
-            "count": 1863,
-            "average": 4.6902843
+            "count": 1864,
+            "average": 4.6904507
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5842,8 +6053,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/arm-template-test/",
           "length": "PT37M",
           "ratings": {
-            "count": 8,
-            "average": 4.75
+            "count": 9,
+            "average": 4.7777777
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5936,221 +6147,6 @@
       "topics": [
         "Azure",
         "Management Tools"
-      ]
-    },
-    {
-      "path": "_learning/collections/microsoft-learn-deploy-applications-with-azure-devops.md",
-      "title": "Deploy applications with Azure DevOps",
-      "excerpt": "Learn how to configure release pipelines that continuously build, test, and deploy your applications.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-deploy-applications-with-azure-devops/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-deploy-applications-with-azure-devops/",
-      "length": "PT8H51M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "topItems": [
-        {
-          "path": "_learning/courses/microsoft-learn-create-release-pipeline.md",
-          "title": "Create a release pipeline in Azure Pipelines",
-          "excerpt": "Set up a continuous delivery (CD) pipeline that automates the process of deploying your application.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-create-release-pipeline/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-release-pipeline/",
-          "length": "PT1H4M",
-          "ratings": {
-            "count": 1068,
-            "average": 4.684457
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 51,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/azure-devops/create-a-release-pipeline-with-azure-pipelines-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "DevOps"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-create-multi-stage-pipeline.md",
-          "title": "Create a multistage pipeline by using Azure Pipelines",
-          "excerpt": "Design and create a realistic release pipeline that promotes changes to various testing and staging environments.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-create-multi-stage-pipeline/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-multi-stage-pipeline/",
-          "length": "PT1H13M",
-          "ratings": {
-            "count": 890,
-            "average": 4.7483144
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/azure-devops/create-multi-stage-pipeline-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "DevOps"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-manage-database-changes-in-azure-pipelines.md",
-          "title": "Manage database changes in Azure Pipelines",
-          "excerpt": "Use a release approval in Azure Pipelines to help coordinate database schema changes between developers and database administrators.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-manage-database-changes-in-azure-pipelines/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-database-changes-in-azure-pipelines/",
-          "length": "PT1H14M",
-          "ratings": {
-            "count": 649,
-            "average": 4.642527
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/azure-devops/manage-database-changes-in-azure-pipelines-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "DevOps",
-            "Databases"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-run-functional-tests-azure-pipelines.md",
-          "title": "Run functional tests in Azure Pipelines",
-          "excerpt": "Run Selenium UI tests, a form of functional testing, in Azure Pipelines.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-run-functional-tests-azure-pipelines/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/run-functional-tests-azure-pipelines/",
-          "length": "PT1H3M",
-          "ratings": {
-            "count": 705,
-            "average": 4.6368794
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/azure-devops/run-functional-tests-azure-pipelines-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "DevOps"
-          ]
-        }
-      ],
-      "size": 9,
-      "heat": 60,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/azure-devops/create-a-release-pipeline-with-azure-pipelines-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "DevOps"
       ]
     }
   ],

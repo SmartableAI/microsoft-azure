@@ -4,6 +4,49 @@
   "page": 28,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-host-domain-azure-dns.md",
+      "title": "Host your domain on Azure DNS",
+      "excerpt": "Learn how to host your domain on Azure DNS.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-host-domain-azure-dns/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/host-domain-azure-dns/",
+      "length": "PT43M",
+      "ratings": {
+        "count": 2720,
+        "average": 4.8224263
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/host-domain-azure-dns-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Networking"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-identify-azure-solutions.md",
       "title": "Identify Azure solutions",
       "excerpt": "In this module we’ll discuss solutions such as IoT, Azure IoT Hub, and Microsoft IoT Central. We’ll also explore big data analytics services (Azure SQL Data Warehouse, HDInsight, Azure Data Lake Analytics).",
@@ -1225,48 +1268,6 @@
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/improve-reliability-monitoring-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-improve-reliability-scaling.md",
-      "title": "Improve your reliability with modern operations practices: Capacity planning and scaling",
-      "excerpt": "Learn about capacity planning and scaling practices that can help you sustainably achieve the appropriate level of reliability in your systems, services, and products.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-improve-reliability-scaling/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/improve-reliability-scaling/",
-      "length": "PT32M",
-      "ratings": {
-        "count": 32,
-        "average": 4.59375
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/improve-reliability-scaling-social.png",
           "width": 640,
           "height": 320,
           "isCached": true

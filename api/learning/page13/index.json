@@ -134,6 +134,49 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-predict-flight-delays-with-python.md",
+      "title": "Predict flight delays by creating a machine learning model in Python",
+      "excerpt": "Import airline arrival data into a Jupyter notebook and use Pandas to clean it. Then, build a machine learning model with Scikit-Learn and use Matplotlib to visualize output.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-predict-flight-delays-with-python/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/predict-flight-delays-with-python/",
+      "length": "51 mins",
+      "ratings": {
+        "count": 1706,
+        "average": 4.714537
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/student-evangelism/predict-flight-delays-with-python-badge-social.png",
+          "width": 800,
+          "height": 400,
+          "title": "Predict flight delays by creating a machine learning model in Python",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-qsharp-create-first-quantum-development-kit.md",
       "title": "Create your first Q# program by using the Quantum Development Kit",
       "excerpt": "Get started with Q# programming by building a quantum random number generator.",
@@ -226,8 +269,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/recognize-synthesize-speech/",
       "length": "PT29M",
       "ratings": {
-        "count": 385,
-        "average": 4.818182
+        "count": 386,
+        "average": 4.8186526
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -312,8 +355,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-azure-resources-with-rbac/",
       "length": "PT37M",
       "ratings": {
-        "count": 5469,
-        "average": 4.6608157
+        "count": 5470,
+        "average": 4.6608777
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1189,45 +1232,6 @@
       "price": "Free",
       "topics": [
         "Azure"
-      ]
-    },
-    {
-      "path": "_learning/videos/microsoft-azure-security-center-azure-friday.md",
-      "title": "Azure Security Center | Azure Friday",
-      "excerpt": "Kelly Anderson joins Scott Hanselman to discuss Azure Security Center, which offers built-in security management and threat protection for your cloud workloads. Azure Security Center helps you find & fix vulnerabilities, aids in blocking malicious access and alerts you when your resources are under attack.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-azure-security-center-azure-friday/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-azure-security-center-azure-friday/",
-      "originalUrl": "https://youtube.com/watch?v=t6gp9k78XEw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/t6gp9k78XEw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT13M24S",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2018-04-10T11:21:25-07:00",
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/t6gp9k78XEw/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Security"
       ]
     }
   ],
