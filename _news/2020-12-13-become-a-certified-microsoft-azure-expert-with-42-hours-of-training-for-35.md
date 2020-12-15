@@ -1,28 +1,28 @@
 ---
 category: news
 title: "Become a certified Microsoft Azure expert with 42 hours of training for $35"
-excerpt: "StackCommerce With so many businesses setting up online in the past year, cloud engineers are in demand. The 2021 Complete Microsoft Azure Certification Prep Bundle helps you become a certified expert with 42 hours of training,"
-publishedDateTime: 2020-12-12T17:24:00Z
-originalUrl: "https://www.windowscentral.com/become-certified-microsoft-azure-expert-42-hours-training-35"
-webUrl: "https://www.windowscentral.com/become-certified-microsoft-azure-expert-42-hours-training-35"
-ampWebUrl: "https://www.windowscentral.com/become-certified-microsoft-azure-expert-42-hours-training-35?amp"
-cdnAmpWebUrl: "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/become-certified-microsoft-azure-expert-42-hours-training-35?amp"
+excerpt: "With so many businesses setting up online in the past year, cloud engineers are in demand. The 2021 Complete Microsoft Azure Certification Prep Bundle helps you become a certified expert with 42 hours of training, and it's now just $34.99 for a limited time."
+publishedDateTime: 2020-12-13T03:43:00Z
+originalUrl: "https://crackberry.com/become-certified-microsoft-azure-expert-42-hours-training-35"
+webUrl: "https://crackberry.com/become-certified-microsoft-azure-expert-42-hours-training-35"
+ampWebUrl: "https://crackberry.com/become-certified-microsoft-azure-expert-42-hours-training-35?amp"
+cdnAmpWebUrl: "https://crackberry-com.cdn.ampproject.org/c/s/crackberry.com/become-certified-microsoft-azure-expert-42-hours-training-35?amp"
 type: article
 quality: 55
 heat: -1
 published: false
 
 provider:
-  name: Windows Central
-  domain: windowscentral.com
+  name: CrackBerry.com
+  domain: crackberry.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2020/12/sale_148067_article_image-3gfx.jpg"
-    width: 800
-    height: 533
+  - url: "https://crackberry.com/sites/crackberry.com/files/styles/large/public/field/image/2020/12/sale_148067_article_image-3gfx.jpg"
+    width: 1200
+    height: 800
     isCached: true
 
 related:
@@ -74,6 +74,20 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
+  - title: "Mindtree Accelerates Cloud Business Through Global Microsoft Azure Experience Center and New Skills Academy"
+    excerpt: "PR Newswire WARREN, N.J. and BANGALORE, India, Dec. 15, 2020 WARREN, N."
+    publishedDateTime: 2020-12-15T07:17:00Z
+    webUrl: "https://www.bloomberg.com/press-releases/2020-12-15/mindtree-accelerates-cloud-business-through-global-microsoft-azure-experience-center-and-new-skills-academy-kipnjb4m"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 59
+    images:
+      - url: "https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Nadella takes a dig at Amazon as Microsoft unveils Azure Purview"
     excerpt: "Taking an apparent dig at Amazon and its Cloud arm AWS, Microsoft CEO Satya Nadella has said that it is important to not only trust a vendors technology capabilities but also its ‘business model alignment with its customers."
     publishedDateTime: 2020-12-04T08:41:00Z
@@ -425,6 +439,6 @@ related:
       domain: wfmz.com
     quality: 0
 
-secured: "C4JSytEmp+vi9ROSlo9s8llAQe1wgrHfcBYjrU2o71fMSnCFIH89DRWJQacVLFIUTlvdBxBsUqiixs/HnqXv8qUWTp3c3rTCH03cC1mwhnhH7qlhBfx58hy027iFKYewmNqHfKTqpGWR5+g2qSmFT17xo+p58v6m8aP+owbpHk4Afjd5UwV9hYovhUwy4gLC9qxZSGRG1fDeoGUxa+sGddqxX5oeF50oVen/R0tjcUU+hMMEaiCqywFKthwCHCSE9+U0PWoJclaONkx2mjWqv1954560wI7yFkBBcvU533nQxReklWGHwZk9c6FCMVQqZuSkub6ZaR4sjYyZSHxwAtLyEl2e5XR63PR/E89seSbl4QM2jLD/EI6/Tv6uHsBOyrIwMPW7MO6P7JB3+Z32fTU1SmL5lOdnze3hKclfB7FFDF76qZXqW520ksQOAk/wMIvZ5W1CTtTteufVddD820rdqFGI5fN0+zg4EvH18OFn4Shsjp3EftQYMHbP0sIKtBbzshhOZyY2Ntx5hMAI5Q==;gEqQCAHsPGj9MalszmH1dw=="
+secured: "ej/rw9FT/cQOh91WuqoPyE0pzQqNsX/96c1DOwKBRugs2MQl9IAO6cCKFmOEU0choJaNMnIvdV+mGAI21s/AjGyKALhBxrxMabfWFs4eEuOlZiGf7NuLNl+wQeoXcFiUWQlcBm1KsT/Db9I3oorZZXE9tdksDInPxkC9YGOF4UIz/KrkyAwEy01Ptntnql8zxu3s5hW6loeqjjguI+QjnLyek70iplSUazl7NFiOZEs6xaCUenxtclKGllwTYCJBtYHTAU4XThRYMH9s2pbEx2hD4FYAYV4nxof4lU8cHq4sWi8fPpOu8otsA8JGCRa6y0vvqjLpycaeq8mlyYUshKtl0XwMEe8ohPFhUVPH9fM=;50jtCO8MhARxC/wXKMTGhg=="
 ---
 

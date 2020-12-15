@@ -1,28 +1,28 @@
 ---
 category: news
-title: "Microsoft launches Azure cloud service for classified data"
-excerpt: "Microsoft launched Azure Government Top Secret cloud, part of the Azure Government Secret portfolio; it will handle classified data."
-publishedDateTime: 2020-12-08T10:26:00Z
-originalUrl: "https://windowsreport.com/microsoft-azure-government-top-secret/"
-webUrl: "https://windowsreport.com/microsoft-azure-government-top-secret/"
-ampWebUrl: "https://windowsreport.com/microsoft-azure-government-top-secret/?amp"
-cdnAmpWebUrl: "https://windowsreport-com.cdn.ampproject.org/c/s/windowsreport.com/microsoft-azure-government-top-secret/?amp"
+title: "Microsoft Azure partners with Sun Mobility to create EV batteries that connect to the cloud"
+excerpt: "New Delhi, Microsoft on Tuesday said that electric vehicles solutions firm SUN Mobility is using its Azure Cloud as well as other solutions in developing Cloud-connected swappable batteries to put the country on the road to the future."
+publishedDateTime: 2020-12-15T05:37:00Z
+originalUrl: "https://www.businessinsider.in/tech/news/microsoft-azure-partners-with-sun-mobility-to-create-ev-batteries-that-connect-to-the-cloud/articleshow/79735859.cms"
+webUrl: "https://www.businessinsider.in/tech/news/microsoft-azure-partners-with-sun-mobility-to-create-ev-batteries-that-connect-to-the-cloud/articleshow/79735859.cms"
+ampWebUrl: "https://www.businessinsider.in/tech/news/microsoft-azure-partners-with-sun-mobility-to-create-ev-batteries-that-connect-to-the-cloud/amp_articleshow/79735859.cms"
+cdnAmpWebUrl: "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/tech/news/microsoft-azure-partners-with-sun-mobility-to-create-ev-batteries-that-connect-to-the-cloud/amp_articleshow/79735859.cms"
 type: article
-quality: 57
+quality: 47
 heat: -1
 published: false
 
 provider:
-  name: Windows
-  domain: windowsreport.com
+  name: Business Insider India
+  domain: businessinsider.in
 
 topics:
   - Azure
 
 images:
-  - url: "https://cdn.windowsreport.com/wp-content/uploads/2020/12/Azure-Government-Top-Secret.jpg"
-    width: 1400
-    height: 1280
+  - url: "https://www.businessinsider.in/thumb/79735908.cms?height=275&width=412"
+    width: 412
+    height: 275
     isCached: true
 
 related:
@@ -630,6 +630,22 @@ related:
         width: 1600
         height: 813
         isCached: true
+  - title: "Microsoft launches Azure cloud service for classified data"
+    excerpt: "Microsoft launched Azure Government Top Secret cloud, part of the Azure Government Secret portfolio; it will handle classified data."
+    publishedDateTime: 2020-12-08T10:26:00Z
+    webUrl: "https://windowsreport.com/microsoft-azure-government-top-secret/"
+    ampWebUrl: "https://windowsreport.com/microsoft-azure-government-top-secret/?amp"
+    cdnAmpWebUrl: "https://windowsreport-com.cdn.ampproject.org/c/s/windowsreport.com/microsoft-azure-government-top-secret/?amp"
+    type: article
+    provider:
+      name: Windows
+      domain: windowsreport.com
+    quality: 57
+    images:
+      - url: "https://cdn.windowsreport.com/wp-content/uploads/2020/12/Azure-Government-Top-Secret.jpg"
+        width: 1400
+        height: 1280
+        isCached: true
   - title: "TCS Quartz? suite becomes available on Microsoft Azure Blockchain Service"
     excerpt: "Tata Consultancy Services announced the general availability of its award winning Quartz? suite of blockchain based solutions on Microsoft Azure Blockchain Service. The Quartz suite of products helps organizations set up truly connected ecosystems ..."
     publishedDateTime: 2020-09-21T07:04:00Z
@@ -763,22 +779,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 48
-  - title: "Microsoft Azure partners with Sun Mobility to create EV batteries that connect to the cloud"
-    excerpt: "New Delhi, Microsoft on Tuesday said that electric vehicles solutions firm SUN Mobility is using its Azure Cloud as well as other solutions in developing Cloud-connected swappable batteries to put the country on the road to the future."
-    publishedDateTime: 2020-12-15T05:37:00Z
-    webUrl: "https://www.businessinsider.in/tech/news/microsoft-azure-partners-with-sun-mobility-to-create-ev-batteries-that-connect-to-the-cloud/articleshow/79735859.cms"
-    ampWebUrl: "https://www.businessinsider.in/tech/news/microsoft-azure-partners-with-sun-mobility-to-create-ev-batteries-that-connect-to-the-cloud/amp_articleshow/79735859.cms"
-    cdnAmpWebUrl: "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/tech/news/microsoft-azure-partners-with-sun-mobility-to-create-ev-batteries-that-connect-to-the-cloud/amp_articleshow/79735859.cms"
-    type: article
-    provider:
-      name: Business Insider India
-      domain: businessinsider.in
-    quality: 47
-    images:
-      - url: "https://www.businessinsider.in/thumb/79735908.cms?height=275&width=412"
-        width: 412
-        height: 275
-        isCached: true
   - title: "CORRECTING and REPLACING SES Becomes Microsoft Azure Orbital Founding Connectivity Partner"
     excerpt: "SES’s proven low-latency MEO managed services to be part of Microsoft’s new multi-orbit satellite connectivity integrated with Azure, promising optimized cloud application performance for O3b mPOWER customers SES today announced it has joined as the ..."
     publishedDateTime: 2020-09-23T15:00:00Z
@@ -1687,6 +1687,6 @@ related:
         height: 450
         isCached: true
 
-secured: "jnl+ipWQcLTdk1nJV87kkiigtAX/iyOLc3UqsA+VBEbBtf/Jr61RZ2qcS8cZZvWaFU0TrpSTKAOvD/i+DhKPtfPu3+kuGtCi/5Qs9z1PJW64M9SyBbiL1/TMfqXgPT8azdt8QhXVMB6GMVGcKl6Jr6VMrpa+c+uzW0flOBRYP/OnCsqkqu8keFrW2al8zOMYVvbufvcVuFV50cQDF4jpn1e0heFYE7q9NPxbgP7KDw+LEpfvs3K8wwZRnW3bPmF7S1HsAlCkDOVhdtzeeb1bYXdnoqEApPF0LRcaxNScEM4VHcwzr/fIuWhIr/dkANRinhfEkSNwSP3PEoKZKO8W0Q6hqKNN6M//axkdVaCamfsrr7/Fkn8XQlNbWSi6UY/EKbbV872crcsOabGoyiefQjSe2u4RLqqGlw2sPC7B3x+YyvbMWLTtPhhPs4MHDtUzE+KIJcACc07+hmic8WiTuebgP0zGxCOivYDN2Jw4FQNzKI2QC7nNSatX51Yr6Te0VhO/pXdluvHAXuP1JywldQ==;WPshzfTcUMUS6sNvFoY82g=="
+secured: "HQjEpLJ9Mu8dNgepfl2e3kKr1uG9jVJlZLwwnNR5eV3HK7cplcrfPuptSuoWNiZRv1nli/FJLQ0Ja6qf0VtXUtnlIRo3TNF9EbHDL8ZK1a8dR94WP3UD/rPe1Rll0DoqZu/Jecm4OLpZpIPDLesMoLnAyQZtPiloT94jkOu9kkzgKUXSTonyy7Tzh3bTyGjHFCJnNOtHOqx9eH79q0qI2Wfs/BM5fiOW5WUBHhgU/rbekdBafAeJKyz5Xg6a+FhseuRY20lnd1N0UxbyU+xmRau12OlvIanbMHNt6uPoUxma5DFI8DIXCTy4h+N12BO7FFgV9G3uv84c5BsSW1nb9L4PwOzGx646p2O31bgmCYg=;s1ClxDdJWc9DZuZqRBFQuw=="
 ---
 

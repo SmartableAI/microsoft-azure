@@ -1,22 +1,20 @@
 ---
 category: news
-title: "Microsoft just stress-tested its most powerful Azure node in a pretty fun way"
-excerpt: "Microsoft has been stress-testing its most powerful Azure node using a rather unusual method – by playing Tetris on it. Microsoft Azure’s CTO Mark Russinovich revealed the fun test via Twitter, alongside a short GIF."
-publishedDateTime: 2020-12-07T16:10:00Z
-originalUrl: "https://www.techradar.com/uk/news/microsoft-just-stress-tested-its-most-powerful-azure-node-in-a-pretty-fun-way"
-webUrl: "https://www.techradar.com/uk/news/microsoft-just-stress-tested-its-most-powerful-azure-node-in-a-pretty-fun-way"
-ampWebUrl: "https://www.techradar.com/uk/amp/news/microsoft-just-stress-tested-its-most-powerful-azure-node-in-a-pretty-fun-way"
-cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/uk/amp/news/microsoft-just-stress-tested-its-most-powerful-azure-node-in-a-pretty-fun-way"
+title: "Mindtree Accelerates Cloud Business Through Global Microsoft Azure Experience Center and New Skills Academy"
+excerpt: "PR Newswire WARREN, N.J. and BANGALORE, India, Dec. 15, 2020 WARREN, N."
+publishedDateTime: 2020-12-15T07:17:00Z
+originalUrl: "https://www.bloomberg.com/press-releases/2020-12-15/mindtree-accelerates-cloud-business-through-global-microsoft-azure-experience-center-and-new-skills-academy-kipnjb4m"
+webUrl: "https://www.bloomberg.com/press-releases/2020-12-15/mindtree-accelerates-cloud-business-through-global-microsoft-azure-experience-center-and-new-skills-academy-kipnjb4m"
 type: article
-quality: 94
-heat: 714
-published: true
+quality: 59
+heat: -1
+published: false
 
 provider:
-  name: TechRadar
-  domain: techradar.com
+  name: Bloomberg
+  domain: bloomberg.com
   images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/techradar.com-50x50.jpg"
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/bloomberg.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -24,12 +22,28 @@ topics:
   - Azure
 
 images:
-  - url: "https://cdn.mos.cms.futurecdn.net/9v2cYY3QaQvXNuTdL4DeSF-1200-80.jpg"
-    width: 971
-    height: 545
+  - url: "https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
+  - title: "Microsoft just stress-tested its most powerful Azure node in a pretty fun way"
+    excerpt: "Microsoft has been stress-testing its most powerful Azure node using a rather unusual method – by playing Tetris on it. Microsoft Azure’s CTO Mark Russinovich revealed the fun test via Twitter, alongside a short GIF."
+    publishedDateTime: 2020-12-07T16:10:00Z
+    webUrl: "https://www.techradar.com/uk/news/microsoft-just-stress-tested-its-most-powerful-azure-node-in-a-pretty-fun-way"
+    ampWebUrl: "https://www.techradar.com/uk/amp/news/microsoft-just-stress-tested-its-most-powerful-azure-node-in-a-pretty-fun-way"
+    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/uk/amp/news/microsoft-just-stress-tested-its-most-powerful-azure-node-in-a-pretty-fun-way"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 94
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/9v2cYY3QaQvXNuTdL4DeSF-1200-80.jpg"
+        width: 971
+        height: 545
+        isCached: true
   - title: "Microsoft's Azure Purview data governance service will help enterprises manage data"
     excerpt: "Microsoft's Azure Purview is a new cloud-based service that will help enterprises manage data and support compliance and data privacy regulations."
     publishedDateTime: 2020-12-07T16:04:00Z
@@ -62,20 +76,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
-  - title: "Mindtree Accelerates Cloud Business Through Global Microsoft Azure Experience Center and New Skills Academy"
-    excerpt: "PR Newswire WARREN, N.J. and BANGALORE, India, Dec. 15, 2020 WARREN, N."
-    publishedDateTime: 2020-12-15T07:17:00Z
-    webUrl: "https://www.bloomberg.com/press-releases/2020-12-15/mindtree-accelerates-cloud-business-through-global-microsoft-azure-experience-center-and-new-skills-academy-kipnjb4m"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 59
-    images:
-      - url: "https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Nadella takes a dig at Amazon as Microsoft unveils Azure Purview"
     excerpt: "Taking an apparent dig at Amazon and its Cloud arm AWS, Microsoft CEO Satya Nadella has said that it is important to not only trust a vendors technology capabilities but also its ‘business model alignment with its customers."
     publishedDateTime: 2020-12-04T08:41:00Z
@@ -443,6 +443,6 @@ related:
       domain: wfmz.com
     quality: 0
 
-secured: "bgNvxTYo/Yq80HvFUW/3mIO7/PFH4mqiXXDR6xKWESC4Cx7YYzo/PhY3jZ1xigcNHyfRafBh5A5a32JFrxrglTCx4lLs7Smb6yIedjYVkGojkfh0p2Y/AD38DCctr4/93MaGz/UKSM3G8TDZ0TaMzWwGkxWJ+LPD0ooPO+2egiU2lTYqQglQSuw69T2tA14mpeEeyJh0S7E3qD9awb7fHCk3tE6jPakf/U0oQUU56kTgCmBzPHQuz02QJJcXJtu/H65s1xcg6PHPB+txHT37JhqK1ktkyuuW2DgJj2/3q5IffOfg6ARP1pTg1r/2tX5C/nMX91CscOTQzW9Ws10qo0r17lrxYIM9nZM8I2tU8gz0o0VSNC7JoKcgZ3E4EbSULL/MVfGLP7Xg38t+mgsgkmn4fWh/Hf/kfWwThUZRYdpxXB99WHl34BS9hMWWCyKPSmJZn5yM1ZT/AEyGW52pmUp1mP1lb5zpAO9PkE066AxOlipGz0GVXJ2TtsystsDGIaI/+xovjrfyGxCeAQ9zuw==;PqXzog2sghM5GRyLRajLLw=="
+secured: "FR6tVdYa81sCF349PgT6mp381kc7s/8YXbuufhcX2RdCxJegMBHzhMpPAU5qilcubtX/htD5tVp3TAZKhJ5ODny0iJxD0jLZlUrZSLpofpzTy1fqZSMKgk009rreqVE3MbyIqHpCPEn380/CqYT1VfHU/JrfjUWIsNstoa1qkgoDxTMg9dzm09qwX19rkdWkaoZXMUc2TMbZY1SI0Y+um6Y1hMXxvRsq+XRmsAP0npSnRbSehq1tnHo8lIY6hzftGxAhPAXxIcKBliToaOvPkl08YNhM5RF3CVXdcXClJ3D2aCZIGt18zxLCIFWdB5Gcrs30sLoNE9fztwVnx9y/hvewVmt7eP1Mtzj2bXeDNeQ=;USTVVI1O9aqk9vHj6uzzIg=="
 ---
 

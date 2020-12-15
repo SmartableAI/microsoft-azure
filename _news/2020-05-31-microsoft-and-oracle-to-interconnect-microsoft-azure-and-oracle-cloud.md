@@ -765,6 +765,22 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 48
+  - title: "Microsoft Azure partners with Sun Mobility to create EV batteries that connect to the cloud"
+    excerpt: "New Delhi, Microsoft on Tuesday said that electric vehicles solutions firm SUN Mobility is using its Azure Cloud as well as other solutions in developing Cloud-connected swappable batteries to put the country on the road to the future."
+    publishedDateTime: 2020-12-15T05:37:00Z
+    webUrl: "https://www.businessinsider.in/tech/news/microsoft-azure-partners-with-sun-mobility-to-create-ev-batteries-that-connect-to-the-cloud/articleshow/79735859.cms"
+    ampWebUrl: "https://www.businessinsider.in/tech/news/microsoft-azure-partners-with-sun-mobility-to-create-ev-batteries-that-connect-to-the-cloud/amp_articleshow/79735859.cms"
+    cdnAmpWebUrl: "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/tech/news/microsoft-azure-partners-with-sun-mobility-to-create-ev-batteries-that-connect-to-the-cloud/amp_articleshow/79735859.cms"
+    type: article
+    provider:
+      name: Business Insider India
+      domain: businessinsider.in
+    quality: 47
+    images:
+      - url: "https://www.businessinsider.in/thumb/79735908.cms?height=275&width=412"
+        width: 412
+        height: 275
+        isCached: true
   - title: "CORRECTING and REPLACING SES Becomes Microsoft Azure Orbital Founding Connectivity Partner"
     excerpt: "SES’s proven low-latency MEO managed services to be part of Microsoft’s new multi-orbit satellite connectivity integrated with Azure, promising optimized cloud application performance for O3b mPOWER customers SES today announced it has joined as the ..."
     publishedDateTime: 2020-09-23T15:00:00Z

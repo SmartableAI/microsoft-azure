@@ -778,6 +778,22 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 48
+  - title: "Microsoft Azure partners with Sun Mobility to create EV batteries that connect to the cloud"
+    excerpt: "New Delhi, Microsoft on Tuesday said that electric vehicles solutions firm SUN Mobility is using its Azure Cloud as well as other solutions in developing Cloud-connected swappable batteries to put the country on the road to the future."
+    publishedDateTime: 2020-12-15T05:37:00Z
+    webUrl: "https://www.businessinsider.in/tech/news/microsoft-azure-partners-with-sun-mobility-to-create-ev-batteries-that-connect-to-the-cloud/articleshow/79735859.cms"
+    ampWebUrl: "https://www.businessinsider.in/tech/news/microsoft-azure-partners-with-sun-mobility-to-create-ev-batteries-that-connect-to-the-cloud/amp_articleshow/79735859.cms"
+    cdnAmpWebUrl: "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/tech/news/microsoft-azure-partners-with-sun-mobility-to-create-ev-batteries-that-connect-to-the-cloud/amp_articleshow/79735859.cms"
+    type: article
+    provider:
+      name: Business Insider India
+      domain: businessinsider.in
+    quality: 47
+    images:
+      - url: "https://www.businessinsider.in/thumb/79735908.cms?height=275&width=412"
+        width: 412
+        height: 275
+        isCached: true
   - title: "Microsoft gets into 5G race with Azure cloud for telecom operators, aims to use AI for ops"
     excerpt: "After banning China's Huawei [HWT.UL] from its telecom network, the U.S. government has been pushing big American companies such as Microsoft to get more involved with 5G - a technology which promises to enable everything from self-driving cars to remote surgery and more automated manufacturing."
     publishedDateTime: 2020-09-28T16:08:00Z
