@@ -397,6 +397,20 @@ related:
         width: 1600
         height: 1067
         isCached: true
+  - title: "Mindtree Accelerates Cloud Business Through Global Microsoft Azure Experience Center and New Skills Academy"
+    excerpt: "Mindtree, a leading digital transformation and technology services company, today announced the launch of a dedicated Microsoft"
+    publishedDateTime: 2020-12-15T07:09:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/mindtree-accelerates-cloud-business-through-global-microsoft-azure-experience-center-and-new-skills-academy-301192628.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 19
+    images:
+      - url: "https://mma.prnewswire.com/media/1004066/Mindtree_Logo.jpg?p=facebook"
+        width: 1496
+        height: 785
+        isCached: true
   - title: "Accenture Acquires AWS, Microsoft Azure Cloud Partner Olikka"
     excerpt: "Accenture acquires Olikka, an Australia-based systems integrator for Amazon Web Services (AWS) & Microsoft Azure. Accenture is the worlds' top public cloud MSP, ChannelE2E research says."
     publishedDateTime: 2020-12-02T02:31:00Z
@@ -425,6 +439,6 @@ related:
       domain: wfmz.com
     quality: 0
 
-secured: "zXz7hG+Xtd0q1bBuA9x9NxL8OJAOoLrd7MGFwuo3qBUO/8r73FIsXRyyDWOlDFolVPM8su4D+vehKaMjXhsJjgo+NYHjkuEp1FYGJxcYhcrsrYygHyVj9n9xJuu7ORWaURCGrK0fAlLRl4hruCvno3GLGppkEw+pvp3Svr3SOcbNAz1su9IhP5Vk1uYfciIDBb0vOVFMqg4NOYyh6bhp1TF4eV1gPlFghUZvXA5thHz5o/SMxPwXl5Xw57+euWSCl6gpStDDcRFDmnmX+FN+2Th3GIQ3Ez8racmjE1DisjWhOsruAcTNWA2/CAT3lWs4mTt/R40Eb5k8w8/8zDOX3XXh/S0WURArS0xSf5Gs+lI=;JNsx/x79WPhZQoXU9P9cIA=="
+secured: "1VS2vsNojZxcj/LT8vae+j3sxjORLlHnZNsAGjHSiYKUWWF8icskvM/6tz87ModL+84ZW6xojZNm/Ccjr/5JZR7WtrIpoPevhxTMyxz9HiOSk5nuv4YUbCerJZzvz0MxkR0bHDDc2NJFXetE9zSUl/WgFIsERo7pAFjE+20rC0uRN5X4FfnwzFXvrKZkawW7ntKLolsEEMlYcWUYliUWZtgqmIrXHt/SGFOOUGG/aCUlJNDFueDwcFAT9lkoP7gPn60rTcBwN45sMtzizbFJeSSLzC6fkbQRvQZ5DLYc4Y8Aacp743nQ4tgXGlpVtL0JGUR3GX/9TkmYw+R13THcAMUi/M0ZD4mzr2Cn+PRETcE=;VxAFS97Er3GVZ94xUwGJyQ=="
 ---
 

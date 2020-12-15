@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techradar.com/uk/amp/news/microsoft-just-stress-tested-i
 cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/uk/amp/news/microsoft-just-stress-tested-its-most-powerful-azure-node-in-a-pretty-fun-way"
 type: article
 quality: 94
-heat: 694
+heat: 714
 published: true
 
 provider:
@@ -400,6 +400,20 @@ related:
       - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/68/2020/12/GS-EF-Braintree-093-1600x1067.jpg"
         width: 1600
         height: 1067
+        isCached: true
+  - title: "Mindtree Accelerates Cloud Business Through Global Microsoft Azure Experience Center and New Skills Academy"
+    excerpt: "Mindtree, a leading digital transformation and technology services company, today announced the launch of a dedicated Microsoft"
+    publishedDateTime: 2020-12-15T07:09:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/mindtree-accelerates-cloud-business-through-global-microsoft-azure-experience-center-and-new-skills-academy-301192628.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 19
+    images:
+      - url: "https://mma.prnewswire.com/media/1004066/Mindtree_Logo.jpg?p=facebook"
+        width: 1496
+        height: 785
         isCached: true
   - title: "Accenture Acquires AWS, Microsoft Azure Cloud Partner Olikka"
     excerpt: "Accenture acquires Olikka, an Australia-based systems integrator for Amazon Web Services (AWS) & Microsoft Azure. Accenture is the worlds' top public cloud MSP, ChannelE2E research says."

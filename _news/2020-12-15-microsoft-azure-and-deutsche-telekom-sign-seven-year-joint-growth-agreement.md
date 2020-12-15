@@ -68,20 +68,6 @@ related:
         width: 1600
         height: 1067
         isCached: true
-  - title: "Mindtree Accelerates Cloud Business Through Global Microsoft Azure Experience Center and New Skills Academy"
-    excerpt: "Mindtree, a leading digital transformation and technology services company, today announced the launch of a dedicated Microsoft"
-    publishedDateTime: 2020-12-15T12:15:00Z
-    webUrl: "https://www.prnewswire.com/ae/news-releases/mindtree-accelerates-cloud-business-through-global-microsoft-azure-experience-center-and-new-skills-academy-877646125.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 19
-    images:
-      - url: "https://mma.prnewswire.com/media/1004066/Mindtree_Logo.jpg?p=facebook"
-        width: 1496
-        height: 785
-        isCached: true
 
 secured: "8YTp/JQSBpkm0FTLXUSqT0GCSnC4hrmOPbOb7cfzxr6phacXDbnBT8OJMJ4XLW6U/zsHcxeUYWFJ4AqRoxM6qPopPW5WUC++iwG3SgCJycU36YzSAeuxDOHGDBPg9HrAtG+zGPmu6s6GL9iGTOmUIzBemkBUqGYbA8RGGNoME4sGWRtRxdtmQrXvnIXWNgazl3loO4PiGiQk4AbS0jfYA+Wc0c67vjCn9jI8nBg4sgoIAFmxOBN+zhqEEn9OSVGupmOFXy/3Sh0cGSvhNRFjazG6FMjdlpdH1t3M5uY8WhIn4y7bqTHwSRBMFOnlwscqxtG/qBYGn/QIKVaCvZfiPKD91+wLnCyWWg4bdgf0gc1RMPDrOYRDzImBMBqCp1nPLuIf2d6fr1M245yozhG1fk8nHTynxRKf56nRZemvsIJJblXxFDNVjp28EMRz/V1VsteGvgOpg6vMVIpEy2ZiCkGH/XG+T5BKZzjrm7dGMcQsXYav48VRLdSHokj6raNFme8pEYFokOvqQ6lcOIOwhQ==;yPENvbco+rsHGf5mz3WAXQ=="
 ---

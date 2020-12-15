@@ -9,7 +9,7 @@ ampWebUrl: "https://www.sify.com/finance/sun-mobility-rides-on-microsoft-azure-t
 cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/finance/sun-mobility-rides-on-microsoft-azure-to-help-build-future-evs-news-topnews-umpmrojjgdfdc.html"
 type: article
 quality: 57
-heat: 137
+heat: 117
 published: true
 
 provider:
@@ -67,20 +67,6 @@ related:
       - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/68/2020/12/pexels-karolina-grabowska-4021775-1600x1067.jpg"
         width: 1600
         height: 1067
-        isCached: true
-  - title: "Mindtree Accelerates Cloud Business Through Global Microsoft Azure Experience Center and New Skills Academy"
-    excerpt: "Mindtree, a leading digital transformation and technology services company, today announced the launch of a dedicated Microsoft"
-    publishedDateTime: 2020-12-15T12:15:00Z
-    webUrl: "https://www.prnewswire.com/ae/news-releases/mindtree-accelerates-cloud-business-through-global-microsoft-azure-experience-center-and-new-skills-academy-877646125.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 19
-    images:
-      - url: "https://mma.prnewswire.com/media/1004066/Mindtree_Logo.jpg?p=facebook"
-        width: 1496
-        height: 785
         isCached: true
 
 secured: "EBdqc2psobqihmsVoP6hPjSfJbEDHqRVDYkouRTv7SUbUoMO8IConOhSvB7U11UFMKZR7b36D0L0wqBmH2TPflI7RN+UpTcSqSDRybzFUMTQEN2KR9zhdEPno9nltGWlLFHlYJBVLiTZbGLLNvoZsm6sUmxzYpdSUzny8iRSux2cYudvDatm0eXfHDY0mQyFjnaNum2b+GA6xg+6nvnEL6C/4hll4xkopQLWpIH445ejJYm5eJVF746JoD3qgVmi/XGG20rr2WNaVUg/pAu9AGN1LunzKMtc5+yevT6d8Iq0M0AXljKdq3vOZkK88YAczazPY7ljNoZ/T98QlPAsyoQgSRB/GUAMWsGxlD+t9+M=;3N31+4NQypDXVs3N1ym1eA=="
