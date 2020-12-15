@@ -66,20 +66,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
-  - title: "Mindtree Accelerates Cloud Business Through Global Microsoft Azure Experience Center and New Skills Academy"
-    excerpt: "PR Newswire WARREN, N.J. and BANGALORE, India, Dec. 15, 2020 WARREN, N."
-    publishedDateTime: 2020-12-15T07:17:00Z
-    webUrl: "https://www.bloomberg.com/press-releases/2020-12-15/mindtree-accelerates-cloud-business-through-global-microsoft-azure-experience-center-and-new-skills-academy-kipnjb4m"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 59
-    images:
-      - url: "https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Nadella takes a dig at Amazon as Microsoft unveils Azure Purview"
     excerpt: "Taking an apparent dig at Amazon and its Cloud arm AWS, Microsoft CEO Satya Nadella has said that it is important to not only trust a vendors technology capabilities but also its ‘business model alignment with its customers."
     publishedDateTime: 2020-12-04T08:41:00Z
@@ -418,6 +404,20 @@ related:
       - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/68/2020/12/GS-EF-Braintree-093-1600x1067.jpg"
         width: 1600
         height: 1067
+        isCached: true
+  - title: "Mindtree Accelerates Cloud Business Through Global Microsoft Azure Experience Center and New Skills Academy"
+    excerpt: "Mindtree, a leading digital transformation and technology services company, today announced the launch of a dedicated Microsoft"
+    publishedDateTime: 2020-12-15T07:09:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/mindtree-accelerates-cloud-business-through-global-microsoft-azure-experience-center-and-new-skills-academy-301192628.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 19
+    images:
+      - url: "https://mma.prnewswire.com/media/1004066/Mindtree_Logo.jpg?p=facebook"
+        width: 1496
+        height: 785
         isCached: true
   - title: "Accenture Acquires AWS, Microsoft Azure Cloud Partner Olikka"
     excerpt: "Accenture acquires Olikka, an Australia-based systems integrator for Amazon Web Services (AWS) & Microsoft Azure. Accenture is the worlds' top public cloud MSP, ChannelE2E research says."

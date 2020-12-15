@@ -1,30 +1,26 @@
 ---
 category: news
 title: "Mindtree Accelerates Cloud Business Through Global Microsoft Azure Experience Center and New Skills Academy"
-excerpt: "PR Newswire WARREN, N.J. and BANGALORE, India, Dec. 15, 2020 WARREN, N."
-publishedDateTime: 2020-12-15T07:17:00Z
-originalUrl: "https://www.bloomberg.com/press-releases/2020-12-15/mindtree-accelerates-cloud-business-through-global-microsoft-azure-experience-center-and-new-skills-academy-kipnjb4m"
-webUrl: "https://www.bloomberg.com/press-releases/2020-12-15/mindtree-accelerates-cloud-business-through-global-microsoft-azure-experience-center-and-new-skills-academy-kipnjb4m"
+excerpt: "Mindtree, a leading digital transformation and technology services company, today announced the launch of a dedicated Microsoft"
+publishedDateTime: 2020-12-15T07:09:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/mindtree-accelerates-cloud-business-through-global-microsoft-azure-experience-center-and-new-skills-academy-301192628.html"
+webUrl: "https://www.prnewswire.com/news-releases/mindtree-accelerates-cloud-business-through-global-microsoft-azure-experience-center-and-new-skills-academy-301192628.html"
 type: article
-quality: 59
+quality: 19
 heat: -1
 published: false
 
 provider:
-  name: Bloomberg
-  domain: bloomberg.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/bloomberg.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg"
-    width: 1200
-    height: 630
+  - url: "https://mma.prnewswire.com/media/1004066/Mindtree_Logo.jpg?p=facebook"
+    width: 1496
+    height: 785
     isCached: true
 
 related:
@@ -443,6 +439,6 @@ related:
       domain: wfmz.com
     quality: 0
 
-secured: "FR6tVdYa81sCF349PgT6mp381kc7s/8YXbuufhcX2RdCxJegMBHzhMpPAU5qilcubtX/htD5tVp3TAZKhJ5ODny0iJxD0jLZlUrZSLpofpzTy1fqZSMKgk009rreqVE3MbyIqHpCPEn380/CqYT1VfHU/JrfjUWIsNstoa1qkgoDxTMg9dzm09qwX19rkdWkaoZXMUc2TMbZY1SI0Y+um6Y1hMXxvRsq+XRmsAP0npSnRbSehq1tnHo8lIY6hzftGxAhPAXxIcKBliToaOvPkl08YNhM5RF3CVXdcXClJ3D2aCZIGt18zxLCIFWdB5Gcrs30sLoNE9fztwVnx9y/hvewVmt7eP1Mtzj2bXeDNeQ=;USTVVI1O9aqk9vHj6uzzIg=="
+secured: "X8pSBM+QNj+GEY/LIdhwgMk2T4nr+Ue2fdKm/JiwCbVH4KPqB+iRGg0k/tGyyxr1f/m9Zzauh4nJkGFdTg1TS82vJb03mB0wF1RcxFhNsPeu9hObvgUZ/NWFMtrU9HVhbUODpbVFPLY6PMj6nM/cPimLTU2j/7wb76vhULtY5cwB6pMiB1ZT+/HrQcN6U2mU5sfXHBGEpYLPWyvJ59RrEzp+S+i98gWBmVkduIjjL4HOEigroVv/Dvob8ESZX1jBNsM/W24wlmt2D+yFpJJx0UOyIA1bWBQ50QST64KUdXzW4cl0qRG+B7HhxMiImzZwSDZ6///cYZY7Wvw+NIZraBgyjbxwEw5BNjdtob7z0NU=;XIrzfIT0+v8yO9m3yzbZSw=="
 ---
 
