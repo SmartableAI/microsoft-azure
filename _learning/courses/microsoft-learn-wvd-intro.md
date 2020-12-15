@@ -7,7 +7,7 @@ price: Free
 length: PT28M
 ratings:
   count: 1197
-  average: 4.780284
+  average: 4.7794485
 heat: 50
 
 provider:
