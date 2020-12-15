@@ -1,45 +1,31 @@
 ---
 category: news
-title: "Mindtree Accelerates Cloud Business Through Global Microsoft Azure Experience Center and New Skills Academy"
-excerpt: "Mindtree, a leading digital transformation and technology services company, today announced the launch of a dedicated Microsoft"
-publishedDateTime: 2020-12-15T12:15:00Z
-originalUrl: "https://www.prnewswire.com/ae/news-releases/mindtree-accelerates-cloud-business-through-global-microsoft-azure-experience-center-and-new-skills-academy-877646125.html"
-webUrl: "https://www.prnewswire.com/ae/news-releases/mindtree-accelerates-cloud-business-through-global-microsoft-azure-experience-center-and-new-skills-academy-877646125.html"
+title: "SUN Mobility rides on Microsoft Azure to help build future EVs"
+excerpt: "Microsoft on Tuesday said that electric vehicles solutions firm SUN Mobility is using its Azure Cloud as well as other solutions in developing a Cloud-connected swappable batteries to put the country on the road to the future."
+publishedDateTime: 2020-12-15T12:33:00Z
+originalUrl: "https://www.sify.com/finance/sun-mobility-rides-on-microsoft-azure-to-help-build-future-evs-news-topnews-umpmrojjgdfdc.html"
+webUrl: "https://www.sify.com/finance/sun-mobility-rides-on-microsoft-azure-to-help-build-future-evs-news-topnews-umpmrojjgdfdc.html"
+ampWebUrl: "https://www.sify.com/finance/sun-mobility-rides-on-microsoft-azure-to-help-build-future-evs-news-topnews-umpmrojjgdfdc.html"
+cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/finance/sun-mobility-rides-on-microsoft-azure-to-help-build-future-evs-news-topnews-umpmrojjgdfdc.html"
 type: article
-quality: 19
-heat: -1
-published: false
+quality: 57
+heat: 137
+published: true
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Sify.com
+  domain: sify.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://mma.prnewswire.com/media/1004066/Mindtree_Logo.jpg?p=facebook"
-    width: 1496
-    height: 785
+  - url: "https://www.sify.com/uploads/sun_mobility_ians_umphWkbbggbgf.jpeg"
+    width: 1000
+    height: 696
     isCached: true
 
 related:
-  - title: "SUN Mobility rides on Microsoft Azure to help build future EVs"
-    excerpt: "Microsoft on Tuesday said that electric vehicles solutions firm SUN Mobility is using its Azure Cloud as well as other solutions in developing a Cloud-connected swappable batteries to put the country on the road to the future."
-    publishedDateTime: 2020-12-15T12:33:00Z
-    webUrl: "https://www.sify.com/finance/sun-mobility-rides-on-microsoft-azure-to-help-build-future-evs-news-topnews-umpmrojjgdfdc.html"
-    ampWebUrl: "https://www.sify.com/finance/sun-mobility-rides-on-microsoft-azure-to-help-build-future-evs-news-topnews-umpmrojjgdfdc.html"
-    cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/finance/sun-mobility-rides-on-microsoft-azure-to-help-build-future-evs-news-topnews-umpmrojjgdfdc.html"
-    type: article
-    provider:
-      name: Sify.com
-      domain: sify.com
-    quality: 57
-    images:
-      - url: "https://www.sify.com/uploads/sun_mobility_ians_umphWkbbggbgf.jpeg"
-        width: 1000
-        height: 696
-        isCached: true
   - title: "Microsoft Azure acquires land worth $28m for Atlanta data center"
     excerpt: "Microsoft Azure has paid $28.8m to secure a site in Palmetto, a city in the outskirts of Atlanta, Georgia, for $28.8 million, where it plans to build a 250,000 square foot (23,225 square meter) cloud data center."
     publishedDateTime: 2020-12-09T10:43:00Z
@@ -82,7 +68,21 @@ related:
         width: 1600
         height: 1067
         isCached: true
+  - title: "Mindtree Accelerates Cloud Business Through Global Microsoft Azure Experience Center and New Skills Academy"
+    excerpt: "Mindtree, a leading digital transformation and technology services company, today announced the launch of a dedicated Microsoft"
+    publishedDateTime: 2020-12-15T12:15:00Z
+    webUrl: "https://www.prnewswire.com/ae/news-releases/mindtree-accelerates-cloud-business-through-global-microsoft-azure-experience-center-and-new-skills-academy-877646125.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 19
+    images:
+      - url: "https://mma.prnewswire.com/media/1004066/Mindtree_Logo.jpg?p=facebook"
+        width: 1496
+        height: 785
+        isCached: true
 
-secured: "WSnLn7dV3oyaECh+h7adphpXyg09irIidK66mR+s0COhMyiwBXV2yEvAtO4SnOGWrR+V5q/G49RtXp75OdJ4pC9LJVpZe29hgkK4BdKxHeqRXQ/XyroF2Sv1mH68obgTk1l5/xjXsjluIrHflLRTv8ZIUQf49NwMSQlQqdMzOmPg4y26K+JieCy8Xg4/aabmclNFdTLg0b6Ul1wHJ5aprgm/Sy7+/ihT0G21040JFBEkZmfRQwAa/+W29IHh4z91iwmj7CNixw80FB4S1ZuvNdbJ7zzoIYw1RbZEdVtW0tiPknPw88UjSuTalzuioIdqZ0srVGF/R1UBh0OmoBq5BUKTg8BAYeuOrVCSRoYAOpM=;04p78/1FebNIzDPz3XzdOQ=="
+secured: "SYj2ZkubE0Rdn+mq8RT3rvxYgLJh1ppfbIxh/sa/673S1rQPo99/dNTW3Fy35NKMjfviOkPVKiov0A9V0FtAxEREhaf1IMRjfp+StIFUVxSQXEM9ukO1AyNsozvR9wXlQa+mvh75IfsL2opNjfiTeOaekzwnRYgEYd064tYuhFaeG3cMh2f21047B9CgaVyDzcut97bqEIJi9SYRmpEKrlBZC+RpSvqv8fxB0IglPCVxILFo6gXU+0jLhjqKjC8IlXMjK8Fc6v8Ua2z/QdPvOAQ+A6aCqWvcM9piS8dehiqe3NdPORWuVlpZRZPK8X0lhhAe5cMIrtzUM6ju9TofibzxKo/pJUKu8CVD8EwEgQc=;RkyQMuImU32qqFzc9kbj8g=="
 ---
 

@@ -397,20 +397,6 @@ related:
         width: 1600
         height: 1067
         isCached: true
-  - title: "Mindtree Accelerates Cloud Business Through Global Microsoft Azure Experience Center and New Skills Academy"
-    excerpt: "Mindtree, a leading digital transformation and technology services company, today announced the launch of a dedicated Microsoft"
-    publishedDateTime: 2020-12-15T07:09:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/mindtree-accelerates-cloud-business-through-global-microsoft-azure-experience-center-and-new-skills-academy-301192628.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 19
-    images:
-      - url: "https://mma.prnewswire.com/media/1004066/Mindtree_Logo.jpg?p=facebook"
-        width: 1496
-        height: 785
-        isCached: true
   - title: "Accenture Acquires AWS, Microsoft Azure Cloud Partner Olikka"
     excerpt: "Accenture acquires Olikka, an Australia-based systems integrator for Amazon Web Services (AWS) & Microsoft Azure. Accenture is the worlds' top public cloud MSP, ChannelE2E research says."
     publishedDateTime: 2020-12-02T02:31:00Z
@@ -439,6 +425,6 @@ related:
       domain: wfmz.com
     quality: 0
 
-secured: "NRwv2oYkHkMaogAu6Kx/YDYCFVgXJ9dELgVQm+6HISRVs1mMkjLIG2jlURFg2pXtfR/YLNN8sYAVRuHNin2PDH75gEmeGKe0k0Nm9zH2w7YLOqs6Z7HUlC9K24Y9iu3+vryhi+UgW1ttdcy6GgOHpPzzzPPT7wJsUwSZh5Xq+r4h8dj346yDU2d+wIopx6l5T4YMakTca+VhutCWMT9wpfrMrO3oknx2FVldutndb3vKBwPNylia/G6/Z3mdid2nCLnr/8/cJoHumm/lzKJCoLV9KSW6Rt+Upn5EoSagV3+cZj8GwODj0QTp4t4g1y0J/9lUenxjY3Hlh5IDtCgi3irPXMnY4k71KEzk2ycyw3M=;8dx/9VbTMgwKtYO3FOi1Kg=="
+secured: "zXz7hG+Xtd0q1bBuA9x9NxL8OJAOoLrd7MGFwuo3qBUO/8r73FIsXRyyDWOlDFolVPM8su4D+vehKaMjXhsJjgo+NYHjkuEp1FYGJxcYhcrsrYygHyVj9n9xJuu7ORWaURCGrK0fAlLRl4hruCvno3GLGppkEw+pvp3Svr3SOcbNAz1su9IhP5Vk1uYfciIDBb0vOVFMqg4NOYyh6bhp1TF4eV1gPlFghUZvXA5thHz5o/SMxPwXl5Xw57+euWSCl6gpStDDcRFDmnmX+FN+2Th3GIQ3Ez8racmjE1DisjWhOsruAcTNWA2/CAT3lWs4mTt/R40Eb5k8w8/8zDOX3XXh/S0WURArS0xSf5Gs+lI=;JNsx/x79WPhZQoXU9P9cIA=="
 ---
 
